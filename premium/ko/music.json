@@ -15647,6 +15647,129 @@
           "x": "James는 청중에게 “이것이 새로운 음악 산업이기에 내년도 있을 것”이라고 말했다."
         }
       ]
+    },
+    "music/spotify-artist-profile-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "AI-generated 저품질 콘텐츠(slop)가 음악 스트리밍 플랫폼에 계속 쏟아지자 Spotify가 “Artist Profile Protection” 도구를 모든 아티스트에게 열었다. 자기 이름으로 올라오는 음악을 아티스트가 직접 관리하는 기능이다. 일부 아티스트와 베타 테스트를 시작한 지 여덟 달 만의 정식 출시다."
+        },
+        {
+          "t": "p",
+          "x": "Billboard에 따르면 Sony Music은 지난달 디지털 플랫폼에 딥페이크 곡 260,000곡 이상을 내려 달라고 요청했다. 이 레이블이 3월에 밝힌 수치의 두 배에 가깝다."
+        },
+        {
+          "t": "p",
+          "x": "Spotify for Artists에서 이 기능을 켜면 자기 이름으로 새 음악이 제출될 때마다 알림이 온다. 자신과 무관한 발매작이면 연결을 끊어 프로필에 뜨지 않게 하면 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+          "cap": "Image Credits: Spotify"
+        },
+        {
+          "t": "p",
+          "x": "기본 설정에서는 아티스트가 손대지 않으면 발매작이 예정대로 공개된다. 고급 설정을 켜면 발매작이 프로필에 오르기 전에 아티스트가 직접 승인하거나 거절해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "“아티스트가 자기 이름 아래에서 남의 음악을 발견하는 일은 결코 없어야 한다.” Spotify의 Global Head of Marketing and Policy(글로벌 마케팅·정책 총괄)인 Sam Duboff의 말이다. “우리는 콘텐츠 불일치라는 업계 전반의 문제에 해법을 내놓은 처음이자 유일한 스트리밍 서비스다.” Spotify는 베타 기간에 수천 명의 아티스트와 함께 도구를 다듬었다고 했다."
+        }
+      ]
+    },
+    "music/deezer-ipsos-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+          "cap": "Deezer AI 음악 보고서 2026"
+        },
+        {
+          "t": "p",
+          "x": "Deezer가 AI-generated 음악 인식을 묻는 두 번째 연례 조사 결과를 내놨다. 조사는 Ipsos가 맡았고, US(미국), 캐나다, 브라질, UK(영국), 프랑스, 네덜란드, 독일, 일본에서 9,000명이 응답했다."
+        },
+        {
+          "t": "p",
+          "x": "Deezer 보도자료에는 통계와 전년 대비 비교가 가득하지만, 가장 흥미로운 흐름은 Music Ally가 확인한 보고서 본문에만 나온다. AI-generated 음악이 인기를 얻을지를 사람들이 어떻게 보느냐다. 보고서는 완전한 AI 음악(fully-AI)이 인기를 끌 것이라고 믿는 사람이 줄고 있다고 짚었다."
+        }
+      ]
+    },
+    "music/youtube-content-mill-claim": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "darmHfFNOKM"
+        },
+        {
+          "t": "p",
+          "x": "팬데믹 때 작가 겸 음악가 Samantha Shokin은 퍼블릭 도메인인 불가리아 민요 ‘Bre Petrunko’를 50초 길이로 녹음했다. 두 해 뒤 YouTube에 올린 이 영상은 네 해 동안 조회수 125,000회를 모았다. 그런데 지난달 영상이 사라졌다. Media Nov Records라는 회사가 저작권 경고를 내자 YouTube가 영상을 내렸다."
+        },
+        {
+          "t": "p",
+          "x": "Shokin은 두 차례 이의를 제기했지만 소용없었다. 그는 “사람이라면 누구나 뭔가 분명히 잘못됐고 바로잡아야 한다는 데 동의할 텐데, 사람과는 연락이 닿지 않는다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Media Nov 사이트는 자동화된 DMCA 삭제 요청, YouTube content ID 관리, AI-powered 콘텐츠 인식을 앞세웠다. 아일랜드에 낸 법인 서류를 보면 설립한 지 한 해 남짓 된 회사다. 회사는 404 Media에 채널 500개를 운영한다고 밝혔는데, 상당수가 AI-generated 아트 소재와 반복되는 전자 비트로 채워져 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+          "cap": "Media Nov Records의 YouTube 페이지 중 하나"
+        },
+        {
+          "t": "p",
+          "x": "404 Media가 논평을 요청하자 Media Nov Records는 저작권 삭제 요청을 거둬들이면서도 법적 절차를 밟겠다고 했다. 약 24시간 뒤 Shokin의 원본 영상이 다시 올라왔다. YouTube는 신고자가 요청을 철회한 뒤 영상을 복원했다고 확인했다. “시스템 전체가 망가졌다”고 Shokin은 말했다."
+        }
+      ]
+    },
+    "music/suno-v6-discovery-fight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Universal Music Group과 Sony Music Entertainment가 AI 음악 기업 Suno를 상대로 낸 두 번째 저작권 소송을 Suno가 통째로 보류하려 하자 이에 맞서고 있다. 레이블들은 금요일(11월 13일) 보스턴 연방법원에 낸 서면에서, 전면 중지되면 사건이 2028년까지 묶일 수 있고 9월 출시된 v6를 포함한 Suno의 2025·2026년 모델이 “적어도 2028년까지 어디에서도 검토되지 않는다”고 주장했다."
+        },
+        {
+          "t": "p",
+          "x": "Suno는 10월 30일 F. Dennis Saylor IV 판사에게 두 번째 사건을 중지해 달라고 요청했다. 2024년 6월 레이블들이 낸 첫 소송에서 약식판결이 나올 때까지 기다리자는 것이다. 첫 소송에서 Suno가 내세운 핵심 방어 논리는 공정 이용이다. 두 번째 소송은 Suno가 AI 모델을 학습시키려고 레이블 녹음물 60,202건을 허가 없이 복제했다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "레이블들이 내놓은 안은 “부분 중지”다. 60,000건이 넘는 녹음물의 소유권 입증은 뒤로 미루고, v6의 학습 방식, 학습 데이터 라이선스 확보 노력, 새 사업과 자금 조달, 최근 재무 상황 등 Suno의 이후 모델에 관한 증거 수집은 지금 하자는 것이다. 레이블들은 Suno의 데이터 스크레이핑과 학습 데이터 확보를 맡았던 엔지니어가 회사를 떠났다는 사실도 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "“지연은 기록 구축을 미루는 데 그치지 않고 기록 자체를 훼손할 것”이라고 Universal과 Sony는 썼다."
+        }
+      ]
+    },
+    "music/aria-ppca-notaistotake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+        },
+        {
+          "t": "p",
+          "x": "호주 음악·미디어·창작 산업계가 인공지능(AI) 학습에 호주 창작물이 무단으로 쓰이지 않도록 저작권 보호를 강화하라고 연방정부에 요구하고 나섰다. Not AI’s to Take 캠페인은 제40회 ARIA Awards를 앞둔 11월 17일 시작됐으며 Australian Recording Industry Association(ARIA)와 Phonographic Performance Company of Australia(PPCA)가 이끈다."
+        },
+        {
+          "t": "p",
+          "x": "Anthony Albanese 총리는 2026년 7월 어떤 기업도 창작자의 통제 없이 그 작품으로 AI를 학습시켜선 안 된다며 “그보다 못한 것은 모두 절도”라고 했다. 정부는 이미 포괄적인 텍스트·데이터 마이닝 예외를 배제했지만 라이선스와 집행 문제는 여전히 논의 중이다."
+        },
+        {
+          "t": "p",
+          "x": "ARIA와 PPCA는 opt-out 방식으로 기울면 기존 저작권 보호가 약해지고 부담이 개별 아티스트에게 떠넘겨질까 걱정한다. 캠페인이 대안으로 내세운 건 허락 우선 방식이다. AI 기업은 자료를 쓰기 전에 저작권자 동의부터 받고 조건을 협상해야 한다는 주장이다."
+        },
+        {
+          "t": "p",
+          "x": "호주 창작·미디어 산업은 해마다 국가 경제에 $70.3 billion 을 보태고 600,000명 가까운 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명과 지역구 연방 하원의원(MP)에게 편지 보내기, nottheirstotake.com.au 캠페인 자료 공유를 요청했다."
+        }
+      ]
     }
   }
 }

@@ -1,32 +1,30 @@
 {
- "date": "2026-11-17",
- "section": "politics",
- "media": [
-  {
-   "id": "commerce-chip-remote-access",
-   "type": "image",
-   "src": "pipeline/media/commerce-chip-remote-access.jpg"
-  },
-  {
-   "id": "california-openai-agent-suit",
-   "type": "image",
-   "src": "pipeline/media/california-openai-agent-suit.png"
-  },
-  {
-   "id": "san-francisco-declaration-ai",
-   "type": "image",
-   "src": "pipeline/media/san-francisco-declaration-ai.jpg"
-  },
-  {
-   "id": "csat-device-wifi-block",
-   "type": "video",
-   "src": "pipeline/media/csat-device-wifi-block.mp4",
-   "poster": "pipeline/media/csat-device-wifi-block.jpg"
-  },
-  {
-   "id": "fbi-aws-agent-cybercrime",
-   "type": "image",
-   "src": "pipeline/media/fbi-aws-agent-cybercrime.jpg"
-  }
- ]
+  "date": "2026-11-18",
+  "section": "politics",
+  "media": [
+    {
+      "id": "pol-x-dpc-agent-data",
+      "type": "image",
+      "src": "pipeline/media/pol-x-dpc-agent-data.jpg"
+    },
+    {
+      "id": "pol-megaspeed-doj-statement",
+      "type": "image",
+      "src": "pipeline/media/pol-megaspeed-doj-statement.png"
+    },
+    {
+      "id": "pol-pingree-doj-openai",
+      "type": "svg"
+    },
+    {
+      "id": "pol-csat-ai-audit-10yr",
+      "type": "image",
+      "src": "pipeline/media/pol-csat-ai-audit-10yr.png"
+    },
+    {
+      "id": "pol-wh-ai-incident-liability",
+      "type": "image",
+      "src": "pipeline/media/pol-wh-ai-incident-liability.png"
+    }
+  ]
 }

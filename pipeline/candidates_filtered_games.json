@@ -1,118 +1,68 @@
 {
   "section": "games",
-  "now_iso": "2026-11-16T22:37:00Z",
+  "now_iso": "2026-11-17T22:00:36Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Unity CLI 1.0 is here",
-      "url": "https://unity.com/the-unity-cli-1.0-is-here",
-      "source": "Unity",
+      "title": "Epic Games held a gen AI game jam – but its most popular game used \"no AI\" at all",
+      "url": "https://www.gamesradar.com/games/epic-games-held-a-gen-ai-game-jam-but-its-most-popular-game-used-no-ai-at-all/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-17T00:00:00+09:00",
-      "excerpt": "Announced at Unite Tokyo: the Unity CLI and Pipeline package are out of beta at 1.0, ready for projects, build machines and AI agents driving Unity from the terminal.",
-      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+      "published_iso": "2026-11-17T16:27:13Z",
+      "excerpt": "Submissions for Epic's 2026 AI MegaJam on itch.io ('vibe your way to $50k', unlimited AI agents allowed) have closed. The game leading the community vote is LSD:FIH, a four-day project whose creator says 'No AI was used to make this game.'",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/jJbgzqFfDLjhKvD5JVRAGn-1920-80.jpg",
       "history_match": {
-        "score": 0.277,
-        "date": "2026-10-25",
-        "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
-        "title": "Unity CLI Usage Data: What 200 Million Events Reveal",
+        "score": 0.247,
+        "date": "2026-10-23",
+        "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+        "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
         "band": "related"
       }
     },
     {
-      "title": "Video Game Union Manifesto Calls On Consumers To ‘Support Games Made Without GenAI’",
-      "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
-      "source": "Kotaku",
+      "title": "Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark",
+      "url": "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-11-16T18:00:11+00:00",
-      "excerpt": "The joint collective made up of six European video game unions has urged consumers to 'be vocal about disliking GenAI in games'",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/IWGB-union-logo-1200x675.jpg"
-    },
-    {
-      "title": "Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security",
-      "url": "https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-11-12T09:00:39+00:00",
-      "excerpt": "Say goodbye to two-factor authentication, and perhaps remove your credit card info",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/humble-1200x675.jpg"
-    },
-    {
-      "title": "Epic Games' Tim Sweeney says Steam's AI disclosure is \"unfair to developers who use AI to make good games\" because it associates AI \"with bad games\"",
-      "url": "https://www.gamesradar.com/games/epic-games-tim-sweeney-says-steams-ai-disclosure-is-unfair-to-developers-who-use-ai-to-make-good-games-because-it-associates-ai-with-bad-games/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-11-14T00:39:47Z",
-      "excerpt": "\"It's a guilt by association pattern that all developers need to push back on\"",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/umZkVR6nq6NmtKLHanmrFU-1920-80.jpg",
+      "published_iso": "2026-11-17T09:53:30+00:00",
+      "excerpt": "Unity bought Synty Studios, maker of the widely used low-poly asset packs. Synty's artist-made library (70,000+ assets per other reports) will feed Unity Spark, its AI game-creation platform, and Synty keeps the 'same brand, same artists, and same style.'",
+      "og_image": "https://assetsio.gnwcdn.com/Unity%2BSyntyStudios_02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "history_match": {
-        "score": 0.179,
-        "date": "2026-10-24",
-        "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
-        "title": "Still mad at Valve for Steam's AI disclosures, Epic Games boss criticizes \"forcing developers to write a political statement to be used against them by the hate mob\"",
+        "score": 0.19,
+        "date": "2026-11-10",
+        "url": "https://mobidictum.com/gen-ai-artists-innogames-pipeline/",
+        "title": "Artists at the center: How InnoGames integrated gen AI into its art pipeline",
         "band": "related"
       }
     },
     {
-      "title": "\"Claude models are starting to refuse work on Pokemon fan projects,\" says vibe coder spending \"up to $2,000\" a month on Pokemon fan game",
-      "url": "https://www.gamesradar.com/games/pokemon/claude-models-are-starting-to-refuse-work-on-pokemon-fan-projects-says-vibe-coder-spending-up-to-usd2-000-a-month-on-pokemon-fan-game/",
-      "source": "GamesRadar+",
+      "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
+      "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-11-11T17:36:11Z",
-      "excerpt": "The dev behind Pokemon Arena 2D says the project is still coming, even with Anthropic's crackdown",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RD5bLqAh4yZn67iiKb2Dg4-1920-80.jpg"
+      "published_iso": "2026-11-16T14:01:32Z",
+      "excerpt": "PC Gamer says Stardock and Oxide's RTS sequel is 'overshadowed by the spectre of generative AI'. Per the game's Steam disclosure, AI added post-processing and animation to human-made art in campaign cutscenes and composited human-made 3D assets, and the review says that use is most obvious in the story.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rYxAXFKHCxrG3NcDcXa2sj-1920-80.png"
     },
     {
-      "title": "Is nothing sacred: Shrek 2 Remastered pummeled on Steam over Epic Games account requirement and suspected \"AI textures\"",
-      "url": "https://www.gamesradar.com/games/co-op/is-nothing-sacred-shrek-2-remastered-pummeled-on-steam-over-epic-games-account-requirement-and-suspected-ai-textures/",
-      "source": "GamesRadar+",
+      "title": "miHoYo、ゲームを遊ぶAIの研究成果を公開。AIがゲーム画面を見てキーボード＆マウスを操作―『崩壊：スターレイル』などで検証",
+      "url": "http://www.gamespark.jp/article/2026/11/17/174972.html",
+      "source": "Game*Spark",
       "category": "games",
-      "published_iso": "2026-11-11T15:51:09Z",
-      "excerpt": "These issues are seen as ogre the line for many",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BExZoS8SarNNjtMSybKkGA-1920-80.jpg"
+      "published_iso": "2026-11-17T18:15:03+09:00",
+      "excerpt": "On November 13 miHoYo's research team posted an arXiv paper on 'Gamer', a general-purpose agent that reads the game screen and plays with keyboard and mouse. It is built on Qwen3-VL (8B), trained on tens of thousands of hours of play logs, and was tested on Honkai: Star Rail side quests and minigames plus DOOM-style environments.",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1220393.webp"
     },
     {
-      "title": "Crimson Desert Studio Pearl Abyss Now Uses AI to Validate Game Designs Before Developers Build Them: \"A Tool to Elevate Development Efficiency and Quality\"",
-      "url": "https://wccftech.com/pearl-abyss-ai-validate-game-designs-crimson-desert/",
-      "source": "Wccftech",
+      "title": "Steamへのリリース手数料、25倍の約40万円にすべき？AIゲームの大量投稿と審査遅延に解決策はあるのか…インディー業界の2人が言及",
+      "url": "http://www.gamespark.jp/article/2026/11/17/174971.html",
+      "source": "Game*Spark",
       "category": "games",
-      "published_iso": "2026-11-16T08:00:00+00:00",
-      "excerpt": "Crimson Desert developer Pearl Abyss admits it's going all-in with AI tools integration into its BlackSpace Engine to accelerate development.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/crimson-desert-charting-the-unknown-HD-1920x1080.jpeg",
+      "published_iso": "2026-11-17T18:00:03+09:00",
+      "excerpt": "On their show, Mike Rose (No More Robots) and Rami Ismail blamed the flood of generative-AI games for doubling Steam releases to about 3,600 a month. They floated raising the $100 Steam Direct fee 25x to $2,500 and cited a survey in which 92% of 100 studios use AI in some form.",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1220306.png",
       "history_match": {
-        "score": 0.447,
-        "date": "2026-11-14",
-        "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
-        "title": "Crimson Desert studio Pearl Abyss is implementing AI \"throughout our entire development pipeline\", expects DokeV in 2028",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "War Thunder Art Director Says The DLSS 5 Controversy Comes From Fan Mods Using “Ridiculous” Settings That Deliberately Mess With The Game’s Art Style For Views",
-      "url": "https://wccftech.com/war-thunder-dlss-5-controversy-fan-mods/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-16T18:00:00+00:00",
-      "excerpt": "According to War Thunder Art Director Kirill Stupin, the DLSS 5 controversy is mostly caused by the outrageous fan mods out there.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/War-Thunder-DLSS-5-HD-1920x1080.jpeg",
-      "history_match": {
-        "score": 0.33,
-        "date": "2026-11-04",
-        "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
-        "title": "How Gaijin Tuned DLSS 5 for War Thunder",
-        "band": "related"
-      }
-    },
-    {
-      "title": "指定されたワードを履歴書に盛り込んで書類審査を突破。AI面接官との面接に挑むゲーム「AI面接官を突破せよ」，Steamで配信中",
-      "url": "https://www.4gamer.net/games/058/G105854/20261116008/",
-      "source": "4Gamer.net",
-      "category": "games",
-      "published_iso": "2026-11-16T14:58:34+09:00",
-      "excerpt": "MeteorWing's 'AI面接官を突破せよ' is out on Steam (280 yen): players write a résumé with assigned keywords, then face an AI interviewer that generates questions on the spot from what they wrote.",
-      "og_image": "https://www.4gamer.net/games/058/G105854/20261116008/SS/002.jpg",
-      "history_match": {
-        "score": 0.185,
+        "score": 0.178,
         "date": "2026-11-07",
         "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
         "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？",
@@ -120,91 +70,27 @@
       }
     },
     {
-      "title": "Epic Games CEO Tim Sweeney predicts AI revolution in gaming with 10X productivity and entirely new genres -- if devs get behind it | exclusive",
-      "url": "https://gamesbeat.com/epic-games-ceo-tim-sweeney-predicts-ai-revolution-in-gaming-with-10x-productivity-and-entirely-new-genres-if-devs-get-behind-it-exclusive/",
-      "source": "GamesBeat",
+      "title": "Are the new wave of solo AI game-makers making any money? No, not really",
+      "url": "https://mobilegamer.biz/are-the-new-wave-of-solo-ai-game-makers-making-any-money-no-not-really/",
+      "source": "Mobilegamer.biz",
       "category": "games",
-      "published_iso": "2026-11-13T14:30:00+00:00",
-      "excerpt": "Epic's Tim Sweeney predicts AI will deliver up to 10X productivity gains, revive experimentation in games and reshape how devs build games.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/tim-sweeney.jpg",
-      "history_match": {
-        "score": 0.213,
-        "date": "2026-11-09",
-        "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
-        "title": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
-        "band": "related"
-      }
+      "published_iso": "2026-11-17T16:19:43+00:00",
+      "excerpt": "Creator interviews show most solo games built with tools like Claude Code earn almost nothing: Sprout made about $6 from 121 downloads and Calc Quest about $120 from 25k players. One outlier, 38-0-0, passed 1M downloads. (Off-list outlet; none of the on-list sources covered AI-game store revenue.)",
+      "og_image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2026/11/AI-games-app-store-google-play.jpg?fit=1200%2C542&ssl=1"
     },
     {
-      "title": "Why Are Games Hiding Their Blatant AI Usage If They Think It's Totally Cool And Fine And The Future",
-      "url": "https://aftermath.site/ai-disclosure-policy-steam-pc-games/",
-      "source": "Aftermath",
+      "title": "Vibecoded Pokémon Fan Project Developer Is Outraged At AI Clampdowns On IP Infringement After Spending Thousands Per Month",
+      "url": "https://kotaku.com/pokemon-arena-2d-fan-project-vibe-coded-claude-ai-big-kid-nation-2000756082",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-11-12T23:00:49.000Z",
-      "excerpt": "(This is not a blog about Big Walk)",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/photo-1694434943114-c8ea2049f781.jpeg"
-    },
-    {
-      "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
-      "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-11-12T16:06:20+00:00",
-      "excerpt": "Steam's growing game review backlog is becoming more of a problem for indie developers, who keep having to push back release dates.",
-      "og_image": "https://assetsio.gnwcdn.com/australia-did-it-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_iso": "2026-11-12T11:00:24+00:00",
+      "excerpt": "Big Kid Nation, the developer of the vibecoded fan game Pokémon Arena 2D, is angry that Anthropic's Claude now restricts work using existing IP such as Pokémon sprites. The developer says the project costs over $2,000 a month in tokens and will still release.",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/Pokemon-Officer-Jenny-1200x675.jpg",
       "history_match": {
-        "score": 0.23,
-        "date": "2026-11-04",
-        "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-        "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Following site-wide discussion on AI use, Nexus Mods add a \"daily limit\" to the spots in the new mods tab one person can hog via multiple rapid-fire uploads",
-      "url": "https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-11-10T11:17:50+00:00",
-      "excerpt": "Nexus Mods have added an experimental \"daily limit\" to the spots in the new mods tab one person can take up with multiple rapid-fire uploads within 24 hours.",
-      "og_image": "https://assetsio.gnwcdn.com/skyrim-ikea-mod-02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "history_match": {
-        "score": 0.169,
-        "date": "2026-11-05",
-        "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
-        "title": "'We Are Pro-Human Creativity' — Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Developers say they mostly use genAI it for 'brainstorming'",
-      "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-11-12T18:15:00.000Z",
-      "excerpt": "A new State of the Industry report from GDC Festival of Gaming illuminates how game developers are using generative AI.",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8f913239a8843c17/6af4d305b6c48b2ac7f3e1b5/brainstormfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "history_match": {
-        "score": 0.345,
-        "date": "2026-11-13",
-        "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
-        "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Building The Next Era of Creation on Roblox",
-      "url": "https://about.roblox.com/newsroom/2026/11/building-the-next-era-of-creation-on-roblox",
-      "source": "Roblox",
-      "category": "games",
-      "published_iso": "2026-11-13T12:00:00.000Z",
-      "excerpt": "Creators of Over 80% of Top Roblox Games Now Build Using AI Creation Tools",
-      "og_image": "https://cms-media.roblox.com/assets/dae6fe03-068b-4514-a493-7c3aa9535b50.png",
-      "history_match": {
-        "score": 0.382,
-        "date": "2026-10-30",
-        "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
-        "title": "Roblox says more than 80% of its top 100 games used AI to accelerate creation",
+        "score": 0.218,
+        "date": "2026-10-25",
+        "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+        "title": "Of Course Pokémon's Been Pulled Into The AI Decompilation Frenzy",
         "band": "related"
       }
     },
@@ -214,10 +100,10 @@
       "source": "Unreal Engine (YouTube)",
       "category": "games",
       "published_iso": "2026-11-15T15:46:05-08:00",
-      "excerpt": "Epic Games' Senior Director of R&D Michael Lentine, at the San Francisco hub of the 2026 Epic AI MegaJam, on how new AI-assisted game development workflows expand what a team can build in a weekend.",
+      "excerpt": "At the San Francisco MegaJam hub, Epic Games' Senior Director of R&D Michael Lentine talks about how new AI-assisted game development workflows are widening who can build in Unreal Engine.",
       "og_image": "https://i.ytimg.com/vi/3-LwuD0e3is/maxresdefault.jpg",
       "history_match": {
-        "score": 0.205,
+        "score": 0.216,
         "date": "2026-10-23",
         "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
         "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
@@ -225,52 +111,34 @@
       }
     },
     {
-      "title": "[판례.zip] AI에 게임 도둑맞았는데, 어떻게 대응하죠?",
-      "url": "https://www.gamemeca.com/view.php?gid=1783557",
-      "source": "게임메카",
+      "title": "Epic AI MegaJam | Hyper3D",
+      "url": "https://www.youtube.com/watch?v=HNW5kXNBE5g",
+      "source": "Unreal Engine (YouTube)",
       "category": "games",
-      "published_iso": "2026-11-16T15:04:27+09:00",
-      "excerpt": "생성형 AI의 발전으로 인해 인디게임의 플레이 영상을 무단 분석하여 비슷한 게임을 먼저 출시하는 역설계 문제가 대두되고 있습니다. 대법원 판례에 따르면 단순한 장르적 규칙을 넘어 개별 요소가 선택되고 배열된 창작적 표현의 조합이 유사한지가 핵심 판단 기준이 됩니다. 따라서 개발자...",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/557/gm611794_261116-risell-tt5.webp"
+      "published_iso": "2026-11-15T11:56:33-08:00",
+      "excerpt": "Joel Wang of Hyper3D shows how to use Rodin to turn a text prompt into a game-ready 3D asset for Unreal Engine. The demo generates a model, fits it to a greybox and splits it into parts for the jam.",
+      "og_image": "https://i.ytimg.com/vi/HNW5kXNBE5g/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.176,
+        "date": "2026-10-23",
+        "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+        "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 16,
+    "dropped": 0,
+    "kept": 9,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 11,
+    "review": 6,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-18",
-      "title": "Accused of using AI in World of Warcraft Forever videos, Blizzard employee says \"hell nah, we have real team members\"",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
-      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
-      "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Wooga's Holger Wurst on designing June's Journey: Player research, AI and the UX rule you can't break",
-      "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games",
-      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games"
-    },
     {
       "date": "2026-10-19",
       "title": "GTA V NPCs Can Now Talk Back In Real Time With AI-Powered NPCTalk Mod, Free Release Coming Next Week",
@@ -935,6 +803,26 @@
       "date": "2026-11-16",
       "title": "NC AI, 게임 제작 AI '바르코' 활용 확대…개발자 커뮤니티 가동",
       "url": "https://zdnet.co.kr/view/?no=20261113120913"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Video Game Union Manifesto Calls On Consumers To 'Support Games Made Without GenAI'",
+      "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Unity CLI 1.0 is here",
+      "url": "https://unity.com/the-unity-cli-1.0-is-here"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "指定されたワードを履歴書に盛り込んで書類審査を突破。AI面接官との面接に挑むゲーム「AI面接官を突破せよ」，Steamで配信中",
+      "url": "https://www.4gamer.net/games/058/G105854/20261116008/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "[판례.zip] AI에 게임 도둑맞았는데, 어떻게 대응하죠?",
+      "url": "https://www.gamemeca.com/view.php?gid=1783557"
     }
   ]
 }

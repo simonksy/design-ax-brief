@@ -11429,6 +11429,197 @@
           "x": "Wccftech指出，他所说的很可能是广义的神经渲染，包括AI-powered超分辨率、帧生成和光线重建，而非NVIDIA DLSS 5那样的方案。鉴于有传闻称这台主机已推迟至2028年假日季，完整细节可能还要等上一段时间。"
         }
       ]
+    },
+    "games/games-mihoyo-gamer-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1220393.webp"
+        },
+        {
+          "t": "p",
+          "x": "在《崩坏：星穹铁道》中，研究似乎使用了2个支线任务和7个小游戏进行验证。"
+        },
+        {
+          "t": "p",
+          "x": "打造《原神》等作品的miHoYo研究团队于11月13日在arXiv上发表论文，介绍可游玩多种游戏的通用AI智能体“Gamer”。"
+        },
+        {
+          "t": "p",
+          "x": "“Gamer”是一款能自主玩游戏的AI，它根据游戏画面上的信息操作键盘和鼠标，移动角色、推进对话等。"
+        },
+        {
+          "t": "p",
+          "x": "开发Gamer时，研究团队以Alibaba发布的AI模型“Qwen3-VL (8B)”为基础，利用数万小时的游玩记录，让它学习与画面状况相对应的按键和鼠标操作。"
+        },
+        {
+          "t": "p",
+          "x": "随后，团队在游玩记录中加入“为何进行该操作”的说明，让模型学习符合目标的行为；之后再让AI自己玩游戏，并进行通过试错学习达成目标所需行为的“强化学习”。"
+        },
+        {
+          "t": "video",
+          "yt": "4DA0674x1NI"
+        },
+        {
+          "t": "p",
+          "x": "Gamer的性能验证除《崩坏：星穹铁道》外，还使用了以《DOOM》为基础的研究环境“ViZDoom”等。在《崩坏：星穹铁道》中，团队使用训练中未用过的2个支线任务和7个小游戏，评估强化学习后的Gamer。"
+        },
+        {
+          "t": "p",
+          "x": "在支线任务中，团队逐一评估推进任务所需的中间目标，例如移动到指定地点、与角色对话等。各项结果如下。"
+        },
+        {
+          "t": "p",
+          "x": "支线任务「慢藏诲盗·1」：中间目标达成率80.0% / 支线任务「动物很凶猛」：中间目标达成率83.6% / 7个小游戏：平均成功率49.7%（同一评估中GPT-6.1-Sol为17.1%）"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220311.png",
+          "cap": "2个支线任务中各模型的中间目标达成率。表中“Gamer-RL”为强化学习后的结果"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220312.png",
+          "cap": "用于评估Gamer的《崩坏：星穹铁道》7个小游戏"
+        },
+        {
+          "t": "p",
+          "x": "研究团队举例称，Gamer可用于游戏开发中的自动化测试，例如确认任务能否正常推进，或在更新后对现有内容进行回归测试。"
+        },
+        {
+          "t": "p",
+          "x": "此外，项目页面还公开了Gamer实际游玩《崩坏：星穹铁道》的视频，值得一看。"
+        }
+      ]
+    },
+    "games/games-ashes-singularity2-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rYxAXFKHCxrG3NcDcXa2sj-1920-80.png",
+          "cap": "Ashes 2主视觉图"
+        },
+        {
+          "t": "p",
+          "x": "Ashes of the Singularity 2在军队管理上有一些巧妙的想法，但糟糕的战役、平庸的新阵营以及扎眼的生成式AI使用拖垮了整部作品。"
+        },
+        {
+          "t": "p",
+          "x": "这款RTS续作兑现了让玩家指挥真正庞大军队的承诺，Oxide Games的军队系统也让操控变得出奇容易。但战役很糟，剧情几乎难以理解，整个体验都笼罩在生成式AI的阴影之下。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EeBFdH8utGzC8QeqYmt3VK.jpg",
+          "cap": "Ashes of the Singularity 2战斗画面"
+        },
+        {
+          "t": "p",
+          "x": "战役的10个任务只围绕新阵营United Earth Forces展开，最终是四个、或许五个小时尚可的战役内容。"
+        },
+        {
+          "t": "p",
+          "x": "讽刺的是，Oxide使用生成式AI最明显的地方也正是剧情。根据Ashes 2在Steam上的AI披露，Oxide使用AI“为部分战役过场动画中由Stardock人类美术师创作的美术添加后期处理效果和动画”，同时“部分过场动画使用Stardock人类美术师制作的3D资产，并借助AI合成最终镜头”。此外，“部分游戏内单位语音、通知和少数次要角色使用了预先生成的ElevenLabs素材语音”。"
+        },
+        {
+          "t": "p",
+          "x": "评测者怀疑这并非Oxide使用AI的全部：所有角色肖像看起来都像AI生成，带着“可怕的、塑料般的AI光泽”，语音台词听起来也同样受到了感染。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fkNThBX42d56TZiv56LVUK.jpg",
+          "cap": "Ashes of the Singularity 2战斗画面"
+        },
+        {
+          "t": "p",
+          "x": "遭遇战模式好一些，但地图千篇一律，战斗过于偏重消耗。“如果多花些心思和时间（再少用些生成式AI），我认为它本可以成为一款出色的RTS。”"
+        }
+      ]
+    },
+    "games/games-solo-ai-makers-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2026/11/AI-games-app-store-google-play.jpg?fit=1200%2C542&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "用Claude Code等AI工具制作的游戏正涌入各大应用商店，但其中似乎极少有游戏能带来可观的收入或下载量。mobilegamer.biz询问了那些发邮件介绍自己AI制作(AI-made)游戏的开发者，了解他们获得了多少下载、是否赚到了钱。"
+        },
+        {
+          "t": "p",
+          "x": "有些业余开发者为了做出游戏，在Claude令牌上花了数千，却几乎没有任何回报。例外是足球选秀游戏38-0-0，其开发者Deniz Sancar表示，这款游戏的收入足以让他“全职靠它生活”；其下载量在iOS上约300k 次，在Android上超过700k 次。"
+        },
+        {
+          "t": "p",
+          "x": "由一位退役网球职业选手用Claude制作的Tennis Tycoon总销售额约为$3k ，但令牌花费了数千。Sprout: Cozy Idle Garden下载量为121次，“收入约$6”。Zen Ten Match在上线头三周有74名玩家，收入“约$3”。Calc Quest玩家超过25k ，但收入仅约$120。"
+        },
+        {
+          "t": "p",
+          "x": "Ivan Soyer为制作Dusk Climber在AI工具和令牌上花了$1500 ，换来1,000次下载，至今尚无收入。HotShot: Fireball Pool的收入为£0 。"
+        },
+        {
+          "t": "p",
+          "x": "数字很残酷：目前这类游戏根本没有可行的市场。"
+        }
+      ]
+    },
+    "games/games-steam-direct-fee-x25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1220306.png"
+        },
+        {
+          "t": "video",
+          "yt": "8Irk0xZgBKA"
+        },
+        {
+          "t": "p",
+          "x": "独立游戏发行商No More Robots创始人Mike Rose与独立工作室Vlambeer联合创始人Rami Ismail于11月16日在YouTube频道“Mike & Rami Are Still Here”中提出，不妨把Steam的游戏申请与上架费用提高到现在的25倍，即2,500美元（约40万日元）。"
+        },
+        {
+          "t": "p",
+          "x": "据Rose介绍，2024年Steam每月平均发布1,200款新游戏，而2026年上半年每月约2,000款，9月达2,800款，10月达3,600款，比年初几乎翻了一番。通常3～5天就能出的审核结果，如今要花近1个月。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220307.jpg",
+          "cap": "《MANIFESTO: The Capitalism Roguelike》"
+        },
+        {
+          "t": "p",
+          "x": "节目认为，新作数量翻倍的主要原因是生成式AI催生的粗制滥造游戏。Ismail举例称，一项针对100家开发工作室的调查中有92%表示以某种形式使用了AI，并称Valve不想表明对AI使用的立场。"
+        },
+        {
+          "t": "p",
+          "x": "由于目前每1款作品100美元的上架费（Steam Direct Fee）让进入门槛过低，节目中甚至出现了“涨到2,500美元”的提议。Ismail讽刺地说：“盖布（纽维尔）肯定想要更多钱，所以把费用提高25倍是个好主意。”"
+        }
+      ]
+    },
+    "games/unity-cli-ga-release": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "2026年7月15日，我们把Unity带进了终端。今天在Unite Tokyo上，Unity CLI与Pipeline包（com.unity.pipeline）结束测试。1.0版本已可用于你的项目、构建机器和智能体。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+          "cap": "Unity CLI 1.0"
+        },
+        {
+          "t": "p",
+          "x": "测试版是一个可在终端中安装和管理Unity Editors、模块与项目的单一二进制文件；Pipeline包让CLI驱动正在运行的Editor，脚本或智能体因此能打开项目、执行命令并检查结果。Unity Hub现已可安装CLI，面向Claude Code、Codex、Grok Build和Google Antigravity的官方Unity插件，为这些智能体提供由Unity自家团队编写的技能。测试版共发布了超过17个版本。"
+        },
+        {
+          "t": "p",
+          "x": "自7月20日以来，超过350,000名登录用户使用Unity CLI运行了超过6亿条命令。其中约98%来自编码智能体及其他自动化工具。"
+        },
+        {
+          "t": "p",
+          "x": "1.0也是一项承诺：命令、标志和输出在1.x各版本间保持兼容。Build Server许可现在不仅涵盖构建，也涵盖智能体与自动化：每个实例一个许可，即可在无头Editor或容器中运行智能体。即将推出：Linux容器化Editor。下一步：面向AI Generators、Live Games和Build Automation的命令，以及为智能体打造的账户。"
+        }
+      ]
     }
   }
 }

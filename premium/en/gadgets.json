@@ -12588,6 +12588,144 @@
           "x": "The demo also sparked discussion about anthropomorphizing AI, which is why OATs' interactions are limited to expressive emotions on the E Ink display. “Anthropomorphism can be very useful in certain ways, like helping people to change their behaviors,” Kim says, “but we should definitely be careful not to abuse this.”"
         }
       ]
+    },
+    "gadgets/gemini-home-faster-six-countries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google is detailing some of its latest Google Home updates, including a faster Gemini for Home experience and an upcoming Nest Thermostat upgrade."
+        },
+        {
+          "t": "p",
+          "x": "Home keys in Google Wallet let you unlock compatible NFC and UWB (Aliro) locks by tapping newer Pixel and select Samsung Galaxy phones. Google Home Premium Advanced subscribers should see audio descriptions accompanying camera and doorbell event descriptions, such as breaking glass or barking dogs, and Activity Zone boundaries on the newest wired cameras are more precise."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home continues to get faster, with Google saying the latest updates have resulted in an overall speed improvement of 20% on “everyday requests.” It has also expanded to six new countries including India, Taiwan, Singapore, Colombia, South Korea, and Brazil starting “next month.”"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Starting in December, Nest thermostat owners in the U.S. and Canada can see estimated cumulative savings, and the 4th-gen Nest Learning Thermostat will work with third-party room sensors from brands including IKEA, Eve, and Aqara. New Dynamic Farsight faces, including a Lunar face that tracks moon phases, are also coming."
+        }
+      ]
+    },
+    "gadgets/samsung-ces2027-presence-tv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung is reportedly preparing a new AI-powered TV that can automatically pause playback when viewers get up from the couch and resume it when they return. Tentatively called TV-I, the television is expected to be unveiled at CES 2027 in January."
+        },
+        {
+          "t": "p",
+          "x": "According to Korea JoongAng Daily, citing industry sources, the TV will use AI to recognize viewers' movements and interests and adjust the viewing experience accordingly. Samsung also wants it to act as an AI companion in the living room: viewers will reportedly be able to look up items they spot in movies and shows, such as an actor's clothes or a restaurant featured in a scene. This builds on Click to Search, introduced with Samsung's 2025 TVs."
+        },
+        {
+          "t": "p",
+          "x": "The features are part of Samsung's effort to generate more recurring revenue from its TV business; TV Plus has surpassed 100 million monthly active users. TrendForce expects global TV shipments to decline by 0.8% year over year to 194.65 million units in 2026."
+        },
+        {
+          "t": "p",
+          "x": "Samsung is also reportedly considering unveiling its first humanoid robot at CES 2027, which takes place in Las Vegas from January 6 to 9."
+        }
+      ]
+    },
+    "gadgets/ai-glasses-public-bans-list": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI glasses with cameras are becoming more and more unwelcome in courthouses, schools and other public places for safety and privacy reasons. No country has a permanent, outright ban, but Pakistan's Punjab province imposed a 30-day ban on the use and sale of camera-equipped smart glasses with \"hidden recording ability\" in October 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
+        },
+        {
+          "t": "p",
+          "x": "New York has banned smart glasses with cameras, microphones or computers in all 1,240 state and local courts since July 20, 2026, and courts and tribunals in England and Wales have banned Meta glasses. Western Australia has banned AI glasses from public schools since October 12, 2026, with Victoria to follow on January 27, 2027. Smart glasses are prohibited at SAT test sites, and Marine Corps policy at Camp Lejeune and other bases does not allow them."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Canterbury-Bankstown Council has banned smart glasses at its leisure and aquatic centers, UK cinemas are rolling out measures to curb camera-enabled glasses, and Royal Caribbean prohibits their use in casinos, medical facilities or youth areas. Norway is considering temporary restrictions. Meta says its recording LED lights up when capturing, but Ray-Ban's documentation states some camera-based AI functions can work without the LED."
+        }
+      ]
+    },
+    "gadgets/aqara-g350-apple-intelligence-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+          "cap": "Aqara's camera hub sits on a table next to a MacBook."
+        },
+        {
+          "t": "p",
+          "x": "Apple's AI promises video descriptions for security cams, so CNET tested one of the best compatible models, the Aqara G350 Camera Hub ($140), to find out if it's worth it. Apple Intelligence features cost at least $10 for an iCloud Plus 2TB subscription and need an Apple hub."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "Apple Intelligence video descriptions are very brief and vary in accuracy. Indoors, after a correct “Someone is reading a book,” the AI repeated the same alert while a ball was tossed and a potted plant carried around. Outdoors it did better, accurately announcing “Amazon delivered a package” and “A FedEx van drove by.” Alerts are speedy, and Apple combines multiple smart home updates into single alerts."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "The 4K pan/tilt camera itself is very good and doubles as a hub for Aqara sensors, though Aqara's app is buggy with the newest features. If Apple Intelligence improves over time, that $10 subscription could become more palatable."
+        }
+      ]
+    },
+    "gadgets/apple-siri-usage-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+          "cap": "Image: Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors."
+        },
+        {
+          "t": "p",
+          "x": "Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, including Siri AI for “multi-step, personal context requests,” image generation and editing tools, Shortcuts automations that “rely on Apple Foundation Cloud and Cloud Pro Models,” and third-party apps that use those same cloud models."
+        },
+        {
+          "t": "p",
+          "x": "Apple hasn’t specified exactly how many times those features can be used each day, but limits will vary based on the task, and users will be notified when approaching and reaching them."
+        },
+        {
+          "t": "p",
+          "x": "Most iCloud Plus plans (excluding the 50GB option) will include higher daily limits at their same price: the $2.99/month 200GB plan includes 2x the usage, the $9.99/month 2TB plan 5x, while the $29.99/month 6TB and $59.99 12TB/month options bump it to 10x and 20x. Family members sharing iCloud Plus get a shared usage pool."
+        },
+        {
+          "t": "p",
+          "x": "Last week Apple updated Logic Pro with a “Buy More Usage” option through $49.99 Intelligence Usage Packs, expected to come to other Apple Creator Studio apps this month."
+        }
+      ]
     }
   }
 }

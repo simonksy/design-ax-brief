@@ -18411,6 +18411,144 @@
           "x": "Anthropic은 자체 RoboDojo Sim 벤치마크에서 Fable 5.2가 64.9퍼센트, OpenAI의 GPT-6 Astra가 29.8퍼센트를 기록했다고 밝혔다. 다만 AI 연구자 Aris Zhu가 실제 로봇 팔로 해 본 테스트에서는 Astra가 더 빨리 그렸고 미세한 운동 제어도 앞섰다."
         }
       ]
+    },
+    "design/nevercenter-silo2027-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "G-oQE1gP64U"
+        },
+        {
+          "t": "p",
+          "x": "Nevercenter가 경량 3D 모델링 소프트웨어 Silo의 2027 릴리스를 내놨다. Silo 2027.0은 사용자들이 오래 기다린 새 스크립트 에디터에 MCP 서버까지 더한 대규모 업데이트다. 이제 Claude, ChatGPT 같은 외부 AI 도구로 소프트웨어를 다룰 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "새 스크립팅 API는 Python이 아닌 JavaScript 기반이다. 100개가 넘는 함수로 “손으로 할 수 있는 작업 대부분”을 다룬다. 프리미티브 생성, 메시 수정, 선택 영역·재질·UVs·카메라 작업이 모두 들어간다. 스크립트는 Silo에 새로 내장된 Script Editor나 외부 에디터에서 작성하고, 메뉴 명령이나 별도 UI 창에서 실행한다."
+        },
+        {
+          "t": "p",
+          "x": "Silo는 MCP Server를 통합한 CG 애플리케이션 대열에 새로 합류했다. 새 JavaScript API를 쓰면 Claude나 ChatGPT 같은 외부 AI 도구로 소프트웨어를 제어할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Silo Blender Bridge는 이제 크기가 다른 면이나 에지 루프 사이는 물론 두 형상 사이에서도 작동한다. glTF 파일은 “제대로 된” PBR 재질 내보내기를 지원하고 크리스와 내장 텍스처도 보존한다. 기본 재질은 USD, FBX, Collada(DAE) 파일을 오가도 그대로 남는다."
+        },
+        {
+          "t": "p",
+          "x": "Silo 2027.0은 Windows 10+와 macOS 12.0+에서 돌아간다. Silo 영구 라이선스의 MSRP는 $159이고 Milo가 함께 들어 있다."
+        }
+      ]
+    },
+    "design/mai-image-27-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "오늘 MAI Image 2.7과 MAI Image 2.7 Flash를 공개한다. 두 모델은 주요 경쟁 모델보다 훨씬 적은 비용으로 최첨단 이미지 생성과 편집 성능을 낸다. Flash 모델 위에서 이미지를 만들고 편집하고 다듬는 대화형 작업 공간 Canvas도 함께 선보인다."
+        },
+        {
+          "t": "p",
+          "x": "MAI Image 2.7은 Artificial Analysis 이미지 편집 부문 1위에 올랐고, GPT Image 2.6 Sunburst (max)를 오분의 일 비용으로 앞질렀다. 2026년 11월 16일 기준 5,478표에서 1,215 Elo를 기록했다. Microsoft Foundry에서 퍼블릭 프리뷰로 쓸 수 있고, 가격은 MAI Image 2.7이 이미지 1,000장당 약 $35, Flash가 1,000장당 약 $10이다."
+        },
+        {
+          "t": "p",
+          "x": "이미지의 나머지 부분은 그대로 두고 객체의 색, 재질, 위치만 바꿀 수 있다. MAI Image 2.7은 편집을 거듭해도 시각적 일관성을 지킨다. 두 모델 모두 투명 배경을 지원해 바로 쓸 수 있는 제품 이미지, 로고, 아이콘, 일러스트레이션을 만든다."
+        },
+        {
+          "t": "p",
+          "x": "MAI Labs의 Canvas에서는 프롬프트나 스케치로 시작해 거친 아이디어를 완성도 높은 다이어그램으로 다듬고, 이미지의 어느 부분이든 골라 교체·이동하거나 스타일을 바꿀 수 있다. MAI Image는 이제 Bing Image Creator를 구동하는 기본 모델 제품군이며, Figma Weave, Minute (Sports Illustrated), Wirestock, Manus도 이 모델을 쓴다. 두 모델은 Microsoft Foundry와 함께 fal, Genspark, OpenRouter, Vercel 등 파트너에서도 쓸 수 있다."
+        }
+      ]
+    },
+    "design/instagram-content-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+          "cap": "이미지 출처: Jonathan Raa/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta 산하 Instagram이 크리에이터의 원본 영상을 지키는 새 도구를 도입한다고 화요일 발표했다. “콘텐츠 보호(content protection)”라는 이 기능은 이미 Facebook에 있는 것으로, 크리에이터의 원본 영상이 허락 없이 쓰이면 이를 감지하도록 설계됐다. 회사는 기존 방식의 재게시뿐 아니라 AI 콘텐츠까지 잡도록 도구를 넓힌다."
+        },
+        {
+          "t": "p",
+          "x": "도구는 크리에이터의 보호 영상이 무단으로 쓰이는지 Instagram 전반을 계속 살핀다. 다른 사용자가 올린 영상이 크리에이터의 Reels와 일치하면 크리에이터에게 알림이 간다. 크리에이터는 Instagram과 Facebook 양쪽에서 해당 영상을 차단하거나, 원본으로 연결되는 “original by” 라벨을 붙이거나, 성과를 지켜보며 일치한 영상을 그대로 두거나, 권리 주장을 철회할 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+          "cap": "이미지 출처: Instagram"
+        },
+        {
+          "t": "p",
+          "x": "시각 요소를 바꿨더라도 크리에이터 원본의 오디오를 재사용한 AI 생성(AI-generated) 영상도 이제 감지하기 시작한다. 이 업데이트는 앞으로 몇 주간 소수 크리에이터를 대상으로 먼저 테스트한다. Instagram은 AI 도구로 남의 작업을 반복해 재게시하는 계정과 콘텐츠의 도달 범위를 제한하는 방안도 검토 중이라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "자격을 갖춘 크리에이터가 등록하면 이후 Instagram에 올리는 원본 영상은 모두 자동으로 보호되고, 기존의 적격 영상도 소급해 보호할 수 있다. 두 번째 프로필이나 브랜드처럼 크리에이터가 허용한 프로필은 허용 목록에 넣으면 된다."
+        }
+      ]
+    },
+    "design/tripo-polipop-h35": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI가 Frankfurt에서 열린 Formnext 2026에서 H 시리즈의 차기 3D 네이티브 파운데이션 모델 H3.5를 처음 공개하고, 적층 제조용 인공지능 에이전트 Polipop을 소개했다. 회사는 행사 기자회견에서 새 모델로 만든 3D 프린팅 결과물을 전시했고, 두 제품을 AI 생성(AI-generated) 콘텐츠와 3D 프린터를 잇는 고리로 내세웠다."
+        },
+        {
+          "t": "p",
+          "x": "H3.5는 이전 모델 H3.1보다 크게 나아졌다. 세밀한 디테일을 잡아내고 시각적 정확도를 지키는 면에서 진전이 뚜렷하다. 편집을 거의 거치지 않아도 되는 출력용 3D 콘텐츠도 만든다. 회사는 현재 H-series 모델이 단 몇 분 만에 아이디어를 3D 프린팅 물체로 바꾸는 과정도 시연했다."
+        },
+        {
+          "t": "p",
+          "x": "Tripo는 무대에서 Polipop을 사용자의 아이디어를 맞춤형 3D 프린팅 제품으로 바꿔 주는 에이전트로 소개했다. 아이디어를 주면 에이전트가 3D 모델링과 출력 준비를 맡고, 완성된 작업을 3D 프린터로 보낸다."
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI의 Research Lead인 Yuan-Chen Guo는 “곧 나올 H3.5 3D 네이티브 모델은 생성형 3D 기술의 새로운 이정표로, 출력 가능한 생성 3D 콘텐츠를 3D 프린터로 바로 보낸다. 3D 프린팅을 위해 특별히 개발한 AI 에이전트 Polipop은 사람들의 아이디어를 3D 프린팅 물체로 빚어내도록 돕는다”라고 말했다. 방문객은 Hall 12.1의 Booth B01에서 H-series 모델, Tripo Studio, Polipop을 직접 체험해 볼 수 있다."
+        }
+      ]
+    },
+    "design/claude-canvas-html": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude가 이제 복잡한 그래픽과 3D 효과 안에 텍스트, 버튼 같은 웹 요소를 넣는다."
+        },
+        {
+          "t": "p",
+          "x": "웹 페이지에는 늘 절충이 따랐다. 표준 HTML 요소는 클릭하고 선택할 수 있고 스크린 리더도 읽지만, 시각적으로 비틀기는 어렵다. Canvas는 무엇이든 그려내지만 브라우저는 그 결과를 납작한 이미지처럼 다룬다. 그 안의 텍스트는 선택되지 않고 링크도 눌리지 않는다. HTML-in-Canvas는 실제 페이지 요소를 캔버스 그래픽 안에 넣으면서 상호작용은 그대로 살려 이 문제를 푼다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic에서 Claude 관련 일을 하는 Felix Rieseberg는 X에 이 기능 덕분에 Claude가 \"bizarre & beautiful sites\"(기묘하고 아름다운 사이트)를 만들 수 있게 됐다며 Flash 시절이 떠오른다고 썼다. 데모 페이지에는 뜨개질 도안, 3D 큐브, 레이어를 분해해 렌더링한 웹사이트 등 예시 15개가 올라 있다. 콘텐츠는 강조 표시하고 복사할 수 있는 실제 텍스트 그대로다."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google은 상호작용성과 접근성을 함께 지키는 웹 표준으로 HTML-in-Canvas를 개발 중이다. Chrome과 Edge는 157 버전부터, Claude 데스크톱 앱은 5.11492 버전부터 이 기능이 작동한다. Safari와 Firefox는 아직 지원하지 않는다. 쓰려면 프롬프트에서 Claude에게 HTML-in-Canvas를 콕 집어 요청해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "시각 작업에서 Claude는 갈수록 창의적이다. 최근 Claude Fable 5.2는 직접 짠 Python 코드로 사실적인 그림을 한 획씩 그렸다."
+        }
+      ]
     }
   }
 }

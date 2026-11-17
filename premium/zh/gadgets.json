@@ -11844,6 +11844,144 @@
           "x": "这次演示也引发了关于AI拟人化的讨论，这也是OATs的交互仅限于E Ink显示屏上情绪表达的原因。“拟人化在某些方面可能非常有用，比如帮助人们改变行为，”Kim说，“但我们绝对应该小心，不要滥用这一点。”"
         }
       ]
+    },
+    "gadgets/gemini-home-faster-six-countries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google详细介绍了最新的部分Google Home更新，包括更快的Gemini for Home体验和即将推出的Nest Thermostat升级。"
+        },
+        {
+          "t": "p",
+          "x": "借助Google Wallet中的Home keys，用较新的Pixel和部分Samsung Galaxy手机轻触即可解锁兼容的NFC和UWB(Aliro)门锁。Google Home Premium Advanced订阅用户会在摄像头和门铃事件描述中看到配套的音频描述，例如玻璃破碎或狗叫声；最新有线摄像头的Activity Zone边界也更加精确。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home持续提速，Google表示最新更新让“日常请求”的整体速度提升了20%。它还将从“下个月”起扩展到六个新国家，包括印度、台湾、新加坡、哥伦比亚、韩国和巴西。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "从12月起，U.S.（美国）和加拿大的Nest恒温器用户可以查看估算的累计节省金额，4th-gen Nest Learning Thermostat将支持IKEA、Eve和Aqara等品牌的第三方房间传感器。包括追踪月相的Lunar表盘在内的新Dynamic Farsight表盘也即将推出。"
+        }
+      ]
+    },
+    "gadgets/samsung-ces2027-presence-tv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据报道，Samsung正在准备一款新的AI-powered TV，观众从沙发上起身时可自动暂停播放，回来后继续播放。这款暂定名为TV-I的电视预计将于1月在CES 2027上亮相。"
+        },
+        {
+          "t": "p",
+          "x": "Korea JoongAng Daily援引业内人士的话称，这款TV将利用AI识别观众的动作和兴趣，并据此调整观看体验。Samsung还希望它成为客厅里的AI伙伴：据称观众可以查找在电影和节目中看到的物品，例如演员的服装或某个场景中出现的餐厅。这一功能建立在Samsung 2025 TVs推出的Click to Search之上。"
+        },
+        {
+          "t": "p",
+          "x": "这些功能是Samsung从TV业务中获取更多经常性收入的努力之一；TV Plus月活跃用户已超过100 million 人。TrendForce预计，2026年全球TV出货量将同比下降0.8%，至194.65 million 台。"
+        },
+        {
+          "t": "p",
+          "x": "据报道，Samsung还考虑在1月6日至9日于拉斯维加斯举行的CES 2027上发布其首款人形机器人。"
+        }
+      ]
+    },
+    "gadgets/ai-glasses-public-bans-list": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
+        },
+        {
+          "t": "p",
+          "x": "出于安全和隐私原因，带摄像头的AI眼镜在法院、学校等公共场所越来越不受欢迎。目前没有国家实施永久性全面禁令，但巴基斯坦旁遮普省于2026年10月对具有“隐蔽录制功能”的带摄像头智能眼镜实施了为期30天的使用和销售禁令。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
+        },
+        {
+          "t": "p",
+          "x": "自2026年7月20日起，纽约州已在全部1,240个州和地方法院禁止配备摄像头、麦克风或计算机的智能眼镜；英格兰和威尔士的法院及审裁处也已禁止Meta眼镜。西澳大利亚州自2026年10月12日起禁止公立学校使用AI眼镜，维多利亚州将于2027年1月27日跟进。SAT考场禁止智能眼镜，Camp Lejeune等基地的海军陆战队政策也不允许使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Canterbury-Bankstown Council已在其休闲和水上中心禁止智能眼镜，UK影院正在推出限制带摄像头眼镜的措施，Royal Caribbean则禁止在赌场、医疗设施和青少年区域使用。挪威正在考虑临时限制。Meta称其录制LED会在拍摄时亮起，但Ray-Ban的文档指出，部分基于摄像头的AI功能可以在没有LED的情况下运行。"
+        }
+      ]
+    },
+    "gadgets/aqara-g350-apple-intelligence-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+          "cap": "Aqara的摄像头中枢放在桌上，旁边是一台MacBook。"
+        },
+        {
+          "t": "p",
+          "x": "Apple的AI承诺为安防摄像头提供视频描述，于是CNET测试了兼容机型中最出色的型号之一 Aqara G350 Camera Hub（$140 ），看看是否值得。Apple Intelligence功能至少需要订阅$10 的iCloud Plus 2TB 套餐，并且需要一台Apple中枢设备。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "Apple Intelligence的视频描述非常简短，准确度参差不齐。在室内，它先正确提示“Someone is reading a book”（有人在看书），随后在有人抛球、搬动盆栽时却重复了同一条提醒。在室外表现更好，准确播报了“Amazon delivered a package”（Amazon送达了一个包裹）和“A FedEx van drove by”（一辆FedEx货车驶过）。提醒推送迅速，Apple还会把多条智能家居更新合并成一条提醒。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "这款支持云台转动（pan/tilt）的4K 摄像头本身非常出色，还可兼作Aqara传感器的中枢，不过Aqara的应用在最新功能上问题较多。如果Apple Intelligence日后有所改进，这笔$10 的订阅费或许会更容易让人接受。"
+        }
+      ]
+    },
+    "gadgets/apple-siri-usage-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
+          "cap": "图片：Apple"
+        },
+        {
+          "t": "p",
+          "x": "据MacRumors报道，Apple今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3测试版，并借这次更新为部分Siri AI和Apple Intelligence功能测试新的按设备每日使用上限。"
+        },
+        {
+          "t": "p",
+          "x": "基础的Siri指令和请求仍将免费且不限次数，但依赖云端处理的高级功能，例如在Photos中生成、清理或扩展图像，将受每日上限约束。受限用途分为四类：处理“多步骤、个人情境请求”的Siri AI，图像生成与编辑工具，“依赖Apple Foundation Cloud和Cloud Pro Models”的Shortcuts自动化，以及使用同样云端模型的第三方应用。"
+        },
+        {
+          "t": "p",
+          "x": "Apple没有具体说明这些功能每天可以使用多少次，但上限会因任务而异，用户在接近和达到上限时都会收到通知。"
+        },
+        {
+          "t": "p",
+          "x": "大多数iCloud Plus方案（50GB 方案除外）将在价格不变的情况下提供更高的每日上限：每月$2.99的200GB 方案用量为2x ，每月$9.99的2TB 方案为5x ，每月$29.99的6TB 和每月$59.99的12TB 方案则分别提升至10x 和20x 。共享iCloud Plus的家庭成员共用一个用量池。"
+        },
+        {
+          "t": "p",
+          "x": "上周Apple为Logic Pro加入了“Buy More Usage”选项，可通过$49.99的Intelligence Usage Packs购买，预计本月将扩展到其他Apple Creator Studio应用。"
+        }
+      ]
     }
   }
 }

@@ -1,191 +1,251 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "marketing",
   "cards": [
     {
-      "id": "admob-ask-gemini-agent",
+      "id": "google-ads-pmax-visual-guidelines",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Gemini,\nAsk AdMob에 탑재",
-      "body": "Ask AdMob은 설정 오류와 하한가 불일치를 잡고 SDK 입찰자를 추천한다.",
-      "mini_headline": "AdMob용 Gemini 에이전트",
+      "headline": "Google Ads에\n브랜드 시각 지침 추가",
+      "body": "Performance Max에서 Google이 만드는 이미지의 스타일을 정한다.",
+      "mini_headline": "PMax에 브랜드 시각 지침",
       "tool": "Marketing",
-      "source": "Google Blog",
-      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Google이 AdMob용 새 AI 도구인 Ask AdMob, 에이전트 스킬, MCP 서버를 선보인다. 앱 개발자가 사업을 더 빨리 세우고 고치고 키우게 하려는 취지다. 광고 설정을 수작업으로 관리하고 연동 오류를 고치고 브랜드 안전성을 점검하는 일은 개발에 쏟아야 할 팀의 힘을 빼앗는다."
+            "x": "Google Ads가 Performance Max 캠페인 브랜드 가이드라인 항목에 시각 가이드라인을 넣는 옵션을 새로 추가했다. 안내 문구는 “이제 스타일 참고 자료와 선호 사항을 추가해 광고 이미지의 생성과 개선 방향을 이끌 수 있습니다”라고 적혀 있다."
           },
           {
             "t": "p",
-            "x": "Gemini로 만든 대화형 에이전트 Ask AdMob은 AdMob 계정 안에 바로 자리 잡는다. AdMob 수익화 모범 사례를 학습해 AdMob 제품 전문가처럼 문제 해결과 수익 기회 발굴, 브랜드 안전 관리를 돕는다. 문제 해결 허브는 설정 이상과 SDK 연동 문제를 찾아낸다."
+            "x": "처음 발견한 사람은 Marcin Wsół이다. 그가 LinkedIn에 올린 뒤 Hana Kobzová가 PPC News Feed에 공유하며 이렇게 썼다. “Google Ads가 Performance Max 캠페인에 광고주가 AI-generated(AI 생성) 이미지에 대한 시각 가이드라인을 제공할 수 있는 새 섹션을 도입했다. 이 섹션에서 광고주는 기대하는 이미지 스타일을 정하고, 콘텐츠를 지정하고, 피해야 할 요소를 밝힐 수 있다.”"
           },
           {
             "t": "p",
-            "x": "Ask AdMob은 동종 업계 벤치마크로 예상 수익 상승폭과 함께 고가치 SDK 입찰자를 추천하고 미디에이션 그룹 최적화를 돕는다. 서드파티 네트워크 설정을 자동으로 점검해 수익에 영향을 주기 전에 값비싼 오타와 가격 하한 불일치를 잡아낸다. 브랜드 안전 규칙도 수동 차단 목록 없이 간단한 자연어 프롬프트로 정한다."
+            "x": "스크린숏은 아래와 같다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+            "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+            "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
           },
           {
             "t": "p",
-            "x": "Google은 앞으로 몇 달 안에 이 기능의 테스트를 시작한다. 사용자를 대신해 조치하는 고급 기능은 내년 후반에 나온다. 권고는 모두 사용자가 검토하고 승인해야 적용되므로 통제권은 사용자에게 남는다."
+            "x": "Hanah는 이렇게 덧붙였다. “새 기능 가운데 하나로, 사용자는 AI의 스타일 가이드 역할을 할 참고 이미지를 최대 세 장까지 올릴 수 있다. 광고주는 제품을 사용하는 사람을 보여 주라는 식의 콘텐츠 가이드라인도 넣을 수 있고, 산만한 배경을 빼라고 AI에 지시할 수도 있다.”"
           },
           {
             "t": "p",
-            "x": "AdMob 에이전트 스킬은 Google Mobile Ads Next-Gen SDK 이전이나 새 광고 형식 구현 같은 작업에 쓸 플레이북을 미리 만들고 검증해 AI 에이전트에 준다. 초기 테스트 중인 AdMob MCP 서버는 에이전트가 계정 데이터를 읽고 새 광고 단위를 만들고 미디에이션 설정을 관리하게 해 준다. 내년 초에는 더 많은 개발자에게 열린다."
+            "x": "포럼 토론은 LinkedIn에 올라 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google's Ask AdMob puts Gemini\non app ad monetization",
-          "body": "Ask AdMob flags setup errors, uses peer benchmarks to suggest SDK bidders and catches floor-price discrepancies.",
-          "mini_headline": "Gemini agent for AdMob",
+          "headline": "Google Ads adds visual\nguidelines for brand style",
+          "body": "Performance Max advertisers can now add style references to steer how Google creates and enhances their ad images.",
+          "mini_headline": "PMax gets visual brand guidelines",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Google is introducing new AI tools for AdMob — Ask AdMob, agent skills and an MCP server — to help app developers build, fix, and grow their businesses faster. Manually managing ad setups, fixing integration errors, and auditing brand safety pulls teams' focus away from building."
+                "x": "Google Ads added a new option under the brand guidelines for Performance Max campaigns to add visual guidelines. This says, \"Now you can add style references and preferences to help steer how images are created and enhanced for your ads.\""
               },
               {
                 "t": "p",
-                "x": "Ask AdMob, a conversational agent built with Gemini, will live directly in your AdMob account. Trained on AdMob monetization best practices, it can help fix issues, find revenue opportunities, and protect brand safety like an AdMob product expert. Its troubleshooting hub will help spot setup anomalies and SDK integration issues."
+                "x": "This was first spotted by Marcin Wsół who posted on LinkedIn and then Hana Kobzová posted this on PPC News Feed who wrote, \"Google Ads has introduced a new section in Performance Max campaigns allowing advertisers to provide visual guidelines for AI-generated images. This section facilitates advertisers in defining expected image styles, specifying content, and identifying elements to avoid.\""
               },
               {
                 "t": "p",
-                "x": "Ask AdMob uses peer benchmarks to recommend high-value SDK bidders with predicted revenue uplifts and help optimize mediation groups. It will automatically check third-party network configuration to catch costly typos and floor price discrepancies before they impact yield. Brand safety rules can be configured with simple, natural-language prompts instead of manual blocklists."
+                "x": "Here are some screenshots:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Google Ads Brand Guidelines Add Visual Guidelines"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Google Ads Brand Guidelines Add Visual Guidelines"
               },
               {
                 "t": "p",
-                "x": "Google will begin testing these capabilities over the next few months, with more advanced features to take action on your behalf later next year. You remain in control, reviewing and approving every recommendation before it's applied."
+                "x": "Hanah added, \"Among the new features, users can upload up to three reference images to serve as a style guide for AI. Advertisers can also include content guidelines, such as showcasing people using a product, and instruct AI to omit distracting backgrounds.\""
               },
               {
                 "t": "p",
-                "x": "AdMob agent skills give your AI agent pre-built, tested playbooks for tasks like migrating to the Google Mobile Ads Next-Gen SDK and implementing new ad formats. An AdMob MCP server, in early testing, will let agents read account data, write new ad units, and manage mediation settings, expanding to more developers early next year."
+                "x": "Forum discussion at LinkedIn."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Gemini,\nAsk AdMob에 탑재",
-          "body": "Ask AdMob은 설정 오류와 하한가 불일치를 잡고 SDK 입찰자를 추천한다.",
-          "mini_headline": "AdMob용 Gemini 에이전트",
+          "headline": "Google Ads에\n브랜드 시각 지침 추가",
+          "body": "Performance Max에서 Google이 만드는 이미지의 스타일을 정한다.",
+          "mini_headline": "PMax에 브랜드 시각 지침",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Google이 AdMob용 새 AI 도구인 Ask AdMob, 에이전트 스킬, MCP 서버를 선보인다. 앱 개발자가 사업을 더 빨리 세우고 고치고 키우게 하려는 취지다. 광고 설정을 수작업으로 관리하고 연동 오류를 고치고 브랜드 안전성을 점검하는 일은 개발에 쏟아야 할 팀의 힘을 빼앗는다."
+                "x": "Google Ads가 Performance Max 캠페인 브랜드 가이드라인 항목에 시각 가이드라인을 넣는 옵션을 새로 추가했다. 안내 문구는 “이제 스타일 참고 자료와 선호 사항을 추가해 광고 이미지의 생성과 개선 방향을 이끌 수 있습니다”라고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "Gemini로 만든 대화형 에이전트 Ask AdMob은 AdMob 계정 안에 바로 자리 잡는다. AdMob 수익화 모범 사례를 학습해 AdMob 제품 전문가처럼 문제 해결과 수익 기회 발굴, 브랜드 안전 관리를 돕는다. 문제 해결 허브는 설정 이상과 SDK 연동 문제를 찾아낸다."
+                "x": "처음 발견한 사람은 Marcin Wsół이다. 그가 LinkedIn에 올린 뒤 Hana Kobzová가 PPC News Feed에 공유하며 이렇게 썼다. “Google Ads가 Performance Max 캠페인에 광고주가 AI-generated(AI 생성) 이미지에 대한 시각 가이드라인을 제공할 수 있는 새 섹션을 도입했다. 이 섹션에서 광고주는 기대하는 이미지 스타일을 정하고, 콘텐츠를 지정하고, 피해야 할 요소를 밝힐 수 있다.”"
               },
               {
                 "t": "p",
-                "x": "Ask AdMob은 동종 업계 벤치마크로 예상 수익 상승폭과 함께 고가치 SDK 입찰자를 추천하고 미디에이션 그룹 최적화를 돕는다. 서드파티 네트워크 설정을 자동으로 점검해 수익에 영향을 주기 전에 값비싼 오타와 가격 하한 불일치를 잡아낸다. 브랜드 안전 규칙도 수동 차단 목록 없이 간단한 자연어 프롬프트로 정한다."
+                "x": "스크린숏은 아래와 같다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
               },
               {
                 "t": "p",
-                "x": "Google은 앞으로 몇 달 안에 이 기능의 테스트를 시작한다. 사용자를 대신해 조치하는 고급 기능은 내년 후반에 나온다. 권고는 모두 사용자가 검토하고 승인해야 적용되므로 통제권은 사용자에게 남는다."
+                "x": "Hanah는 이렇게 덧붙였다. “새 기능 가운데 하나로, 사용자는 AI의 스타일 가이드 역할을 할 참고 이미지를 최대 세 장까지 올릴 수 있다. 광고주는 제품을 사용하는 사람을 보여 주라는 식의 콘텐츠 가이드라인도 넣을 수 있고, 산만한 배경을 빼라고 AI에 지시할 수도 있다.”"
               },
               {
                 "t": "p",
-                "x": "AdMob 에이전트 스킬은 Google Mobile Ads Next-Gen SDK 이전이나 새 광고 형식 구현 같은 작업에 쓸 플레이북을 미리 만들고 검증해 AI 에이전트에 준다. 초기 테스트 중인 AdMob MCP 서버는 에이전트가 계정 데이터를 읽고 새 광고 단위를 만들고 미디에이션 설정을 관리하게 해 준다. 내년 초에는 더 많은 개발자에게 열린다."
+                "x": "포럼 토론은 LinkedIn에 올라 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Gemini、\nAsk AdMobに搭載",
-          "body": "Ask AdMobは設定ミスと下限価格の不一致を検出し、SDK入札者を提案する。",
-          "mini_headline": "AdMob向けGeminiエージェント",
+          "headline": "Google Ads、\n視覚ガイドラインを追加",
+          "body": "Performance Maxで、Googleの広告画像のスタイルを指定できる。",
+          "mini_headline": "PMaxに視覚的ブランド指針",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "GoogleはAdMob向けの新しいAIツールとして、Ask AdMob、エージェントスキル、MCPサーバーを導入する。アプリ開発者がビジネスをより速く構築し、修正し、成長させるのを支援するためだ。広告設定の手動管理、連携エラーの修正、ブランドセーフティの監査は、チームの注意を開発からそらしてしまう。"
+                "x": "Google AdsはPerformance Maxキャンペーンのブランドガイドラインに、視覚ガイドラインを追加する新しいオプションを設けた。説明には「スタイルの参考や好みを追加して、広告用の画像がどう作成・補正されるかを方向づけられるようになりました」とある。"
               },
               {
                 "t": "p",
-                "x": "Geminiで構築された対話型エージェントのAsk AdMobは、AdMobアカウント内に直接組み込まれる。AdMobの収益化ベストプラクティスで学習しており、AdMobの製品エキスパートのように問題の修正、収益機会の発見、ブランドセーフティの保護を手助けする。トラブルシューティングハブは設定の異常やSDK連携の問題を見つけ出す。"
+                "x": "最初に見つけたのはMarcin WsółでLinkedInに投稿し、続いてHana KobzováがPPC News Feedで取り上げてこう書いた。「Google AdsはPerformance Maxキャンペーンに、AI-generated(AI生成)画像の視覚ガイドラインを広告主が指定できる新しいセクションを導入した。このセクションでは、期待する画像スタイルの定義、内容の指定、避けたい要素の特定ができる」"
               },
               {
                 "t": "p",
-                "x": "Ask AdMobは同業他社のベンチマークを使い、予測される収益の上積みとともに価値の高いSDK入札者を推奨し、メディエーショングループの最適化を支援する。サードパーティネットワークの設定を自動で確認し、収益に響く前に高くつくタイプミスや下限価格の不一致を捉える。ブランドセーフティのルールは、手動のブロックリストではなく、簡単な自然言語プロンプトで設定できる。"
+                "x": "スクリーンショットは以下のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Google Adsのブランドガイドラインに視覚ガイドラインが追加"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Google Adsのブランドガイドラインに視覚ガイドラインが追加"
               },
               {
                 "t": "p",
-                "x": "Googleは今後数か月のうちにこれらの機能のテストを始め、ユーザーに代わって操作を行うより高度な機能は来年後半に投入する。すべての推奨は適用前にユーザーが確認・承認するため、主導権はユーザー側に残る。"
+                "x": "Hanahはさらにこう付け加えた。「新機能では、AIのスタイルガイドとなる参考画像を最大三枚までアップロードできる。広告主は、製品を使う人物を見せるといった内容のガイドラインも加えられ、気が散る背景を省くようAIに指示することもできる」"
               },
               {
                 "t": "p",
-                "x": "AdMobのエージェントスキルは、Google Mobile Ads Next-Gen SDKへの移行や新しい広告フォーマットの実装といった作業向けに、構築・検証済みのプレイブックをAIエージェントに提供する。初期テスト中のAdMob MCPサーバーは、エージェントがアカウントデータを読み取り、新しい広告ユニットを作成し、メディエーション設定を管理できるようにするもので、来年初めにより多くの開発者へ拡大する。"
+                "x": "フォーラムでの議論はLinkedInで行われている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Gemini\n驱动Ask AdMob",
-          "body": "Ask AdMob可发现设置错误和底价差异，并参照同行基准推荐SDK竞价方。",
-          "mini_headline": "AdMob的Gemini智能体",
+          "headline": "Google Ads 新增\n品牌风格视觉指南",
+          "body": "Performance Max 广告主可用风格参考引导 Google 生成与优化广告图片。",
+          "mini_headline": "PMax 新增品牌视觉指南",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Google正为AdMob推出新的AI工具——Ask AdMob、智能体技能和一个MCP服务器——帮助应用开发者更快地构建、修复和发展业务。手动管理广告设置、修复集成错误、审核品牌安全，都会分散团队对开发的专注。"
+                "x": "Google Ads 在 Performance Max 广告系列的品牌指南下新增了一个选项，可以添加视觉指南。说明写道：“现在您可以添加风格参考和偏好，帮助引导广告图片的生成和优化方式。”"
               },
               {
                 "t": "p",
-                "x": "Ask AdMob是基于Gemini构建的对话式智能体，将直接内置于AdMob账户中。它以AdMob变现最佳实践训练，能像AdMob产品专家一样帮助修复问题、发现收入机会并保护品牌安全。其故障排查中心将帮助发现设置异常和SDK集成问题。"
+                "x": "这一变化最早由 Marcin Wsół 发现并发布在 LinkedIn 上，随后 Hana Kobzová 在 PPC News Feed 上分享，她写道：“Google Ads 在 Performance Max 广告系列中推出了一个新板块，允许广告主为 AI-generated（AI 生成）图片提供视觉指南。广告主可以在这里定义期望的图片风格、指定内容，并标明需要避免的元素。”"
               },
               {
                 "t": "p",
-                "x": "Ask AdMob借助同行基准推荐高价值的SDK竞价方，并给出预测的收入提升，同时帮助优化中介组。它会自动检查第三方网络配置，在影响收益之前发现代价高昂的拼写错误和底价差异。品牌安全规则可以用简单的自然语言提示来设置，而无需手动维护屏蔽列表。"
+                "x": "以下是部分截图："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Google Ads 品牌指南新增视觉指南"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Google Ads 品牌指南新增视觉指南"
               },
               {
                 "t": "p",
-                "x": "Google将在未来几个月开始测试这些功能，可代表用户执行操作的更高级功能将于明年晚些时候推出。用户仍掌握控制权，每条建议在应用前都由用户审核和批准。"
+                "x": "Hanah 补充说：“在新功能中，用户最多可上传三张参考图片，作为 AI 的风格指南。广告主还可以加入内容指南，例如展示人们使用产品的场景，并指示 AI 去掉分散注意力的背景。”"
               },
               {
                 "t": "p",
-                "x": "AdMob智能体技能为AI智能体提供预先构建并经过测试的操作手册，用于迁移到Google Mobile Ads Next-Gen SDK、实现新广告格式等任务。处于早期测试阶段的AdMob MCP服务器将让智能体读取账户数据、新建广告单元并管理中介设置，明年初将向更多开发者开放。"
+                "x": "论坛讨论见 LinkedIn。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ask AdMob de Google lleva Gemini\na la monetización de apps",
-          "body": "Ask AdMob señala errores de configuración, sugiere pujadores SDK y detecta discrepancias de precio mínimo.",
-          "mini_headline": "Agente Gemini para AdMob",
+          "headline": "Google Ads añade guías visuales\npara el estilo de marca",
+          "body": "Los anunciantes de Performance Max ya pueden usar referencias de estilo para guiar las imágenes que crea Google.",
+          "mini_headline": "PMax suma guías visuales de marca",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Google presenta nuevas herramientas de AI para AdMob —Ask AdMob, habilidades de agente y un servidor MCP— para ayudar a los desarrolladores de apps a construir, corregir y hacer crecer sus negocios más rápido. Gestionar a mano la configuración de anuncios, corregir errores de integración y auditar la seguridad de marca aparta a los equipos del desarrollo."
+                "x": "Google Ads añadió una nueva opción dentro de las pautas de marca de las campañas de Performance Max para agregar pautas visuales. El texto dice: “Ahora puede añadir referencias y preferencias de estilo para orientar cómo se crean y mejoran las imágenes de sus anuncios”."
               },
               {
                 "t": "p",
-                "x": "Ask AdMob, un agente conversacional creado con Gemini, estará integrado directamente en la cuenta de AdMob. Entrenado con las mejores prácticas de monetización de AdMob, puede ayudar a resolver problemas, encontrar oportunidades de ingresos y proteger la seguridad de marca como un experto en productos de AdMob. Su centro de solución de problemas ayudará a detectar anomalías de configuración y fallos de integración del SDK."
+                "x": "Lo detectó primero Marcin Wsół, que lo publicó en LinkedIn, y después Hana Kobzová lo compartió en PPC News Feed, donde escribió: “Google Ads ha introducido una nueva sección en las campañas de Performance Max que permite a los anunciantes aportar pautas visuales para imágenes AI-generated (generadas por AI). Esta sección ayuda a los anunciantes a definir los estilos de imagen esperados, especificar el contenido e identificar los elementos que deben evitarse”."
               },
               {
                 "t": "p",
-                "x": "Ask AdMob usa referencias de pares para recomendar pujadores SDK de alto valor con aumentos de ingresos previstos y ayuda a optimizar los grupos de mediación. Revisará automáticamente la configuración de redes de terceros para detectar errores tipográficos costosos y discrepancias de precio mínimo antes de que afecten al rendimiento. Las reglas de seguridad de marca se pueden configurar con instrucciones sencillas en lenguaje natural en lugar de listas de bloqueo manuales."
+                "x": "Estas son algunas capturas de pantalla:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Las pautas de marca de Google Ads añaden pautas visuales"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Las pautas de marca de Google Ads añaden pautas visuales"
               },
               {
                 "t": "p",
-                "x": "Google empezará a probar estas funciones en los próximos meses, y las funciones más avanzadas para actuar en nombre del usuario llegarán a finales del próximo año. El usuario mantiene el control y revisa y aprueba cada recomendación antes de aplicarla."
+                "x": "Hanah añadió: “Entre las novedades, los usuarios pueden subir hasta tres imágenes de referencia que sirven como guía de estilo para la AI. Los anunciantes también pueden incluir pautas de contenido, como mostrar a personas usando un producto, e indicar a la AI que omita fondos que distraigan”."
               },
               {
                 "t": "p",
-                "x": "Las habilidades de agente de AdMob ofrecen a tu agente de AI guías prediseñadas y probadas para tareas como migrar al Google Mobile Ads Next-Gen SDK e implementar nuevos formatos de anuncio. Un servidor MCP de AdMob, en pruebas iniciales, permitirá a los agentes leer datos de la cuenta, crear nuevos bloques de anuncios y gestionar la configuración de mediación, y se ampliará a más desarrolladores a principios del próximo año."
+                "x": "Debate del foro en LinkedIn."
               }
             ]
           }
@@ -193,121 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Gemini,\nAsk AdMob에 탑재",
-          "body": "Ask AdMob은 설정 오류와 하한가 불일치를 잡고 SDK 입찰자를 추천한다.",
-          "mini_headline": "AdMob용 Gemini 에이전트",
+          "headline": "Google Ads에\n브랜드 시각 지침 추가",
+          "body": "Performance Max에서 Google 이미지 스타일을 지정할 수 있다.",
+          "mini_headline": "PMax에 시각적 브랜드 지침",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Google이 AdMob용 새 AI 도구인 Ask AdMob, 에이전트 스킬, MCP 서버를 선보인다. 앱 개발자가 비즈니스를 더 빨리 구축하고 고치고 키우도록 돕기 위해서다. 광고 설정을 수작업으로 관리하고 연동 오류를 고치고 브랜드 안전성을 점검하는 일은 팀이 개발에 쏟을 집중력을 빼앗는다."
+                "x": "Google Ads가 Performance Max 캠페인의 브랜드 가이드라인 항목에 시각 가이드라인을 추가하는 새 옵션을 넣었다. 안내 문구는 “이제 스타일 참고 자료와 선호 사항을 추가해 광고 이미지의 생성과 개선 방향을 이끌 수 있습니다”라고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "Gemini로 만든 대화형 에이전트 Ask AdMob은 AdMob 계정 안에 바로 자리 잡는다. AdMob 수익화 모범 사례로 학습해 AdMob 제품 전문가처럼 문제를 고치고 수익 기회를 찾고 브랜드 안전성을 지키도록 돕는다. 문제 해결 허브는 설정 이상과 SDK 연동 문제를 찾아낸다."
+                "x": "이 기능은 Marcin Wsół이 처음 발견해 LinkedIn에 올렸고, 이어 Hana Kobzová가 PPC News Feed에 공유하며 이렇게 썼다. “Google Ads가 Performance Max 캠페인에 광고주가 AI-generated(AI 생성) 이미지에 대한 시각 가이드라인을 제공할 수 있는 새 섹션을 도입했다. 이 섹션에서 광고주는 기대하는 이미지 스타일을 정하고, 콘텐츠를 지정하고, 피해야 할 요소를 밝힐 수 있다.”"
               },
               {
                 "t": "p",
-                "x": "Ask AdMob은 동종 업계 벤치마크를 활용해 예상 수익 상승폭과 함께 고가치 SDK 입찰자를 추천하고 미디에이션 그룹 최적화를 돕는다. 서드파티 네트워크 설정을 자동으로 점검해 수익에 영향을 주기 전에 값비싼 오타와 가격 하한 불일치를 잡아낸다. 브랜드 안전 규칙은 수동 차단 목록 대신 간단한 자연어 프롬프트로 설정할 수 있다."
+                "x": "다음은 스크린숏이다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
               },
               {
                 "t": "p",
-                "x": "Google은 앞으로 몇 달 안에 이 기능의 테스트를 시작하고, 사용자를 대신해 조치하는 고급 기능은 내년 후반에 내놓을 예정이다. 모든 권고는 적용 전에 사용자가 검토하고 승인하므로 통제권은 사용자에게 있다."
+                "x": "Hanah는 이렇게 덧붙였다. “새 기능 가운데 하나로, 사용자는 AI의 스타일 가이드 역할을 할 참고 이미지를 최대 세 장까지 올릴 수 있다. 광고주는 제품을 사용하는 사람을 보여 주라는 식의 콘텐츠 가이드라인도 넣을 수 있고, 산만한 배경을 빼라고 AI에 지시할 수도 있다.”"
               },
               {
                 "t": "p",
-                "x": "AdMob 에이전트 스킬은 Google Mobile Ads Next-Gen SDK로의 이전, 새 광고 형식 구현 같은 작업을 위해 미리 만들어 검증한 플레이북을 AI 에이전트에 제공한다. 초기 테스트 중인 AdMob MCP 서버는 에이전트가 계정 데이터를 읽고 새 광고 단위를 만들고 미디에이션 설정을 관리하게 하며, 내년 초 더 많은 개발자로 확대된다."
+                "x": "포럼 토론은 LinkedIn에서 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Gemini、\nAsk AdMobに搭載",
-          "body": "Ask AdMobは設定ミスと下限価格の不一致を検出し、SDK入札者を提案する。",
-          "mini_headline": "AdMob向けGeminiエージェント",
+          "headline": "Google Ads、\n視覚ガイドラインを追加",
+          "body": "Performance Maxで、Googleの広告画像のスタイルを指定できる。",
+          "mini_headline": "PMaxに視覚的ブランド指針",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "GoogleはAdMob向けの新しいAIツールとして、Ask AdMob、エージェントスキル、MCPサーバーを導入する。アプリ開発者がビジネスをより速く構築し、修正し、成長させるのを支援するためだ。広告設定の手動管理、連携エラーの修正、ブランドセーフティの監査は、チームの注意を開発からそらしてしまう。"
+                "x": "Google AdsはPerformance Maxキャンペーンのブランドガイドラインに、視覚ガイドラインを追加する新しいオプションを設けた。説明には「スタイルの参考や好みを追加して、広告用の画像がどう作成・補正されるかを方向づけられるようになりました」とある。"
               },
               {
                 "t": "p",
-                "x": "Geminiで構築された対話型エージェントのAsk AdMobは、AdMobアカウント内に直接組み込まれる。AdMobの収益化ベストプラクティスで学習しており、AdMobの製品エキスパートのように問題の修正、収益機会の発見、ブランドセーフティの保護を手助けする。トラブルシューティングハブは設定の異常やSDK連携の問題を見つけ出す。"
+                "x": "最初に見つけたのはMarcin WsółでLinkedInに投稿し、続いてHana KobzováがPPC News Feedで取り上げてこう書いた。「Google AdsはPerformance Maxキャンペーンに、AI-generated(AI生成)画像の視覚ガイドラインを広告主が指定できる新しいセクションを導入した。このセクションでは、期待する画像スタイルの定義、内容の指定、避けたい要素の特定ができる」"
               },
               {
                 "t": "p",
-                "x": "Ask AdMobは同業他社のベンチマークを使い、予測される収益の上積みとともに価値の高いSDK入札者を推奨し、メディエーショングループの最適化を支援する。サードパーティネットワークの設定を自動で確認し、収益に響く前に高くつくタイプミスや下限価格の不一致を捉える。ブランドセーフティのルールは、手動のブロックリストではなく、簡単な自然言語プロンプトで設定できる。"
+                "x": "スクリーンショットは以下のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Google Adsのブランドガイドラインに視覚ガイドラインが追加"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Google Adsのブランドガイドラインに視覚ガイドラインが追加"
               },
               {
                 "t": "p",
-                "x": "Googleは今後数か月のうちにこれらの機能のテストを始め、ユーザーに代わって操作を行うより高度な機能は来年後半に投入する。すべての推奨は適用前にユーザーが確認・承認するため、主導権はユーザー側に残る。"
+                "x": "Hanahはさらにこう付け加えた。「新機能では、AIのスタイルガイドとなる参考画像を最大三枚までアップロードできる。広告主は、製品を使う人物を見せるといった内容のガイドラインも加えられ、気が散る背景を省くようAIに指示することもできる」"
               },
               {
                 "t": "p",
-                "x": "AdMobのエージェントスキルは、Google Mobile Ads Next-Gen SDKへの移行や新しい広告フォーマットの実装といった作業向けに、構築・検証済みのプレイブックをAIエージェントに提供する。初期テスト中のAdMob MCPサーバーは、エージェントがアカウントデータを読み取り、新しい広告ユニットを作成し、メディエーション設定を管理できるようにするもので、来年初めにより多くの開発者へ拡大する。"
+                "x": "フォーラムでの議論はLinkedInで行われている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Gemini\n驱动Ask AdMob",
-          "body": "Ask AdMob可发现设置错误和底价差异，并参照同行基准推荐SDK竞价方。",
-          "mini_headline": "AdMob的Gemini智能体",
+          "headline": "Google Ads 新增\n品牌风格视觉指南",
+          "body": "Performance Max 广告主可用风格参考引导 Google 生成与优化广告图片。",
+          "mini_headline": "PMax 新增品牌视觉指南",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Google正为AdMob推出新的AI工具——Ask AdMob、智能体技能和一个MCP服务器——帮助应用开发者更快地构建、修复和发展业务。手动管理广告设置、修复集成错误、审核品牌安全，都会分散团队对开发的专注。"
+                "x": "Google Ads 在 Performance Max 广告系列的品牌指南下新增了一个选项，可以添加视觉指南。说明写道：“现在您可以添加风格参考和偏好，帮助引导广告图片的生成和优化方式。”"
               },
               {
                 "t": "p",
-                "x": "Ask AdMob是基于Gemini构建的对话式智能体，将直接内置于AdMob账户中。它以AdMob变现最佳实践训练，能像AdMob产品专家一样帮助修复问题、发现收入机会并保护品牌安全。其故障排查中心将帮助发现设置异常和SDK集成问题。"
+                "x": "这一变化最早由 Marcin Wsół 发现并发布在 LinkedIn 上，随后 Hana Kobzová 在 PPC News Feed 上分享，她写道：“Google Ads 在 Performance Max 广告系列中推出了一个新板块，允许广告主为 AI-generated（AI 生成）图片提供视觉指南。广告主可以在这里定义期望的图片风格、指定内容，并标明需要避免的元素。”"
               },
               {
                 "t": "p",
-                "x": "Ask AdMob借助同行基准推荐高价值的SDK竞价方，并给出预测的收入提升，同时帮助优化中介组。它会自动检查第三方网络配置，在影响收益之前发现代价高昂的拼写错误和底价差异。品牌安全规则可以用简单的自然语言提示来设置，而无需手动维护屏蔽列表。"
+                "x": "以下是部分截图："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Google Ads 品牌指南新增视觉指南"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Google Ads 品牌指南新增视觉指南"
               },
               {
                 "t": "p",
-                "x": "Google将在未来几个月开始测试这些功能，可代表用户执行操作的更高级功能将于明年晚些时候推出。用户仍掌握控制权，每条建议在应用前都由用户审核和批准。"
+                "x": "Hanah 补充说：“在新功能中，用户最多可上传三张参考图片，作为 AI 的风格指南。广告主还可以加入内容指南，例如展示人们使用产品的场景，并指示 AI 去掉分散注意力的背景。”"
               },
               {
                 "t": "p",
-                "x": "AdMob智能体技能为AI智能体提供预先构建并经过测试的操作手册，用于迁移到Google Mobile Ads Next-Gen SDK、实现新广告格式等任务。处于早期测试阶段的AdMob MCP服务器将让智能体读取账户数据、新建广告单元并管理中介设置，明年初将向更多开发者开放。"
+                "x": "论坛讨论见 LinkedIn。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ask AdMob de Google lleva Gemini\na la monetización de apps",
-          "body": "Ask AdMob señala errores de configuración, sugiere pujadores SDK y detecta discrepancias de precio mínimo.",
-          "mini_headline": "Agente Gemini para AdMob",
+          "headline": "Google Ads añade guías visuales\npara el estilo de marca",
+          "body": "Los anunciantes de Performance Max ya pueden usar referencias de estilo para guiar las imágenes que crea Google.",
+          "mini_headline": "PMax suma guías visuales de marca",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Google presenta nuevas herramientas de AI para AdMob —Ask AdMob, habilidades de agente y un servidor MCP— para ayudar a los desarrolladores de apps a construir, corregir y hacer crecer sus negocios más rápido. Gestionar a mano la configuración de anuncios, corregir errores de integración y auditar la seguridad de marca aparta a los equipos del desarrollo."
+                "x": "Google Ads añadió una nueva opción dentro de las pautas de marca de las campañas de Performance Max para agregar pautas visuales. El texto dice: “Ahora puede añadir referencias y preferencias de estilo para orientar cómo se crean y mejoran las imágenes de sus anuncios”."
               },
               {
                 "t": "p",
-                "x": "Ask AdMob, un agente conversacional creado con Gemini, estará integrado directamente en la cuenta de AdMob. Entrenado con las mejores prácticas de monetización de AdMob, puede ayudar a resolver problemas, encontrar oportunidades de ingresos y proteger la seguridad de marca como un experto en productos de AdMob. Su centro de solución de problemas ayudará a detectar anomalías de configuración y fallos de integración del SDK."
+                "x": "Lo detectó primero Marcin Wsół, que lo publicó en LinkedIn, y después Hana Kobzová lo compartió en PPC News Feed, donde escribió: “Google Ads ha introducido una nueva sección en las campañas de Performance Max que permite a los anunciantes aportar pautas visuales para imágenes AI-generated (generadas por AI). Esta sección ayuda a los anunciantes a definir los estilos de imagen esperados, especificar el contenido e identificar los elementos que deben evitarse”."
               },
               {
                 "t": "p",
-                "x": "Ask AdMob usa referencias de pares para recomendar pujadores SDK de alto valor con aumentos de ingresos previstos y ayuda a optimizar los grupos de mediación. Revisará automáticamente la configuración de redes de terceros para detectar errores tipográficos costosos y discrepancias de precio mínimo antes de que afecten al rendimiento. Las reglas de seguridad de marca se pueden configurar con instrucciones sencillas en lenguaje natural en lugar de listas de bloqueo manuales."
+                "x": "Estas son algunas capturas de pantalla:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+                "cap": "Las pautas de marca de Google Ads añaden pautas visuales"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+                "cap": "Las pautas de marca de Google Ads añaden pautas visuales"
               },
               {
                 "t": "p",
-                "x": "Google empezará a probar estas funciones en los próximos meses, y las funciones más avanzadas para actuar en nombre del usuario llegarán a finales del próximo año. El usuario mantiene el control y revisa y aprueba cada recomendación antes de aplicarla."
+                "x": "Hanah añadió: “Entre las novedades, los usuarios pueden subir hasta tres imágenes de referencia que sirven como guía de estilo para la AI. Los anunciantes también pueden incluir pautas de contenido, como mostrar a personas usando un producto, e indicar a la AI que omita fondos que distraigan”."
               },
               {
                 "t": "p",
-                "x": "Las habilidades de agente de AdMob ofrecen a tu agente de AI guías prediseñadas y probadas para tareas como migrar al Google Mobile Ads Next-Gen SDK e implementar nuevos formatos de anuncio. Un servidor MCP de AdMob, en pruebas iniciales, permitirá a los agentes leer datos de la cuenta, crear nuevos bloques de anuncios y gestionar la configuración de mediación, y se ampliará a más desarrolladores a principios del próximo año."
+                "x": "Debate del foro en LinkedIn."
               }
             ]
           }
@@ -315,15 +415,15 @@
       }
     },
     {
-      "id": "google-aimode-hotel-booking",
+      "id": "chatgpt-purchase-intent-panel",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google, 휴가철 호텔\n예약을 AI Mode로",
-      "body": "US에서는 AI Mode 안에서 Google Pay로 호텔을 예약한다.",
-      "mini_headline": "AI Mode로 호텔 예약",
+      "headline": "ChatGPT 대화 중\n구매 의도는 6.9%뿐",
+      "body": "U.S. 패널 조사에서 구매 의도가 담긴 ChatGPT 대화는 6.9%뿐이었다.",
+      "mini_headline": "ChatGPT 대화 6.9%만 구매 의도",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -331,179 +431,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-            "cap": "Google의 연휴 가이드는 호텔·저녁 식사·티켓 예약을 AI Mode로 보내고 Google Pay로 결제하게 한다"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
           },
           {
             "t": "p",
-            "x": "Google은 연휴 가이드 “Search가 연휴 계획을 돕는 4가지 방법”을 공개했다. 가이드는 시즌 잡무를 Search Live, Lens, AI Mode에 맡기라고 권한다. 호텔 객실·레스토랑 테이블·공연 티켓도 Search가 찾아 주는 데서 그치지 않고 예약까지 한다는 식이다. 신규 출시로 표시된 기능은 하나도 없다."
+            "x": "SparkToro가 U.S. 옵트인 패널을 분석했더니 ChatGPT 대화의 6.9%에서 구매 의도가 보였다. 데이터 출처는 Verso다. 2026년 1월 1일부터 10월 29일까지 12,321명이 나눈 대화 41,961건으로, 수치 대부분은 U.S. 인구 구성에 맞춰 가중치를 둔 하위 표본에서 뽑았다."
           },
           {
             "t": "p",
-            "x": "호텔이라면 AI Mode는 “편의시설, 투숙객 리뷰, 사진을 비교할 수 있는 시각적 옵션 목록”을 보여준다. 사용자는 여행 파트너 사이트로 넘어가 예약하거나, “‘Continue on Google’이 보이면 Google Pay로 AI Mode 안에서 바로 호텔 예약을 마칠 수 있다.” AI Mode의 호텔 예약은 2026년 8월 27일 US에서 영어로 배포되기 시작했다. Booking.com, Expedia, Hilton, Marriott 등 열 곳의 파트너가 판매 주체(merchant of record)를 맡는다."
+            "x": "이 하위 표본에서 ChatGPT 응답의 87.9%는 브랜드나 제품, 업체를 하나도 언급하지 않았다. Rand Fishkin은 AI 가시성이 중요한 건 ChatGPT보다 주로 Google의 AI Overviews와 AI Mode 때문이라고 결론 내렸다."
           },
           {
             "t": "p",
-            "x": "Google 도움말 페이지에 따르면 이 기능은 US에서 영어로, 일부 숙소에만 제공되며 프로모션 코드, 리워드 포인트 사용, 멤버십 번호는 지원하지 않는다."
+            "x": "대화의 4.9%는 구매를 계획하며 선택지를 살폈고, 2.1%는 특정 브랜드·제품·서비스 구매를 물었다. 나머지 93.1%에는 구매 의도가 없었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+            "cap": "차트: SparkToro / Verso."
           },
           {
             "t": "p",
-            "x": "저녁 식사와 티켓도 같은 틀이다. AI Mode 작업은 “티켓 오픈과 가격 변동을 뒤에서 추적”해 Google 앱으로 알린다. 마케터 눈으로 보면 예약 파트너는 판매 주체 지위를 유지하지만, 인터페이스와 Google Pay 결제 정보, 쇼핑객을 다시 불러오는 알림은 Google이 쥔다."
+            "x": "Fishkin은 “ChatGPT의 광고 기회에는 나쁜 소식이라고 본다”고 썼다. 가장 큰 범주는 대화의 17.6%를 차지한 이미지·시각 디자인 요청이었다. 쇼핑·브랜드·지역 서비스는 5.3%에 그쳤다."
+          },
+          {
+            "t": "p",
+            "x": "Anthropic의 Claude가 작성된 코드북에 따라 대화를 분류했다. 패널은 젊은 층과 여성, 저소득층 비중이 높고 대부분 모바일 사용자다. API 요청은 빠졌다. PPC 팀이 ChatGPT Ads를 검토할 때 6.9%는 소비자 패널 한 단면의 수치일 뿐 ChatGPT 전체 집계가 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google steers holiday hotel\nbookings into AI Mode",
-          "body": "In the US, hotel rooms book inside Google's AI Mode via Google Pay, with partners acting as merchant of record.",
-          "mini_headline": "AI Mode books hotels",
+          "headline": "Only 6.9% of ChatGPT\nchats show purchase intent",
+          "body": "U.S. panel data finds just 6.9% of ChatGPT conversations show purchase intent, and most responses name no brand.",
+          "mini_headline": "6.9% of ChatGPT chats show buying intent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "Google's holiday guide sends hotel, dinner and ticket bookings through AI Mode, paid with Google Pay"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Google published a holiday guide, \"4 ways Search can help with your holiday plans,\" that routes seasonal chores through Search Live, Lens and AI Mode, with hotel rooms, restaurant tables and event tickets presented as things Search can reserve rather than merely find. None of the features is labeled as a launch."
+                "x": "Purchase intent showed up in 6.9% of ChatGPT conversations in a U.S. opt-in panel analyzed by SparkToro. Data came from Verso: 41,961 conversations by 12,321 people between Jan. 1 and Oct. 29, 2026, mostly from a sub-sample weighted to match the U.S. population."
               },
               {
                 "t": "p",
-                "x": "For hotels, AI Mode offers \"a visual list of options to compare amenities, guest reviews, and photos.\" Users can click out to book with travel partners or, \"if you see 'Continue on Google,' complete your hotel reservation right in AI Mode using Google Pay.\" Hotel booking in AI Mode began rolling out on August 27, 2026, in the US and in English, with ten partners including Booking.com, Expedia, Hilton and Marriott, which act as merchant of record."
+                "x": "Of ChatGPT's responses in this sub-sample, 87.9% did not name a single brand, product or business. Rand Fishkin concluded that AI visibility matters mainly because of Google's AI Overviews and AI Mode, rather than ChatGPT itself."
               },
               {
                 "t": "p",
-                "x": "Google's help page says the feature is only available in the US, in English for select properties, and does not support promotional codes, reward points redemption or loyalty numbers."
+                "x": "In 4.9% of conversations the person planned to purchase and was looking at options; 2.1% asked about purchasing a specific brand, product or service; 93.1% showed no intention to purchase."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "Chart: SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "Dinner and tickets follow the same template, and AI Mode tasks will \"track ticket drops and price changes behind the scenes,\" notifying users through the Google app. For marketers, the booking partners keep merchant-of-record status, while Google keeps the interface, the Google Pay credential and the alert that brings the shopper back."
+                "x": "Fishkin wrote, “I suspect this is bad news for ChatGPT’s advertising opportunities.” Images and visual design requests were the top category at 17.6% of conversations; shopping, brands and local services made up 5.3%."
+              },
+              {
+                "t": "p",
+                "x": "Conversations were coded by Anthropic's Claude using a written code book. The panel skews younger, female and lower-income, is mostly mobile, and excludes API requests. For PPC teams exploring ChatGPT Ads, the 6.9% share is a snapshot of a consumer panel, not a count across ChatGPT."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 휴가철 호텔\n예약을 AI Mode로",
-          "body": "US에서는 AI Mode 안에서 Google Pay로 호텔을 예약한다.",
-          "mini_headline": "AI Mode로 호텔 예약",
+          "headline": "ChatGPT 대화 중\n구매 의도는 6.9%뿐",
+          "body": "U.S. 패널 조사에서 구매 의도가 담긴 ChatGPT 대화는 6.9%뿐이었다.",
+          "mini_headline": "ChatGPT 대화 6.9%만 구매 의도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "Google의 연휴 가이드는 호텔·저녁 식사·티켓 예약을 AI Mode로 보내고 Google Pay로 결제하게 한다"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Google은 연휴 가이드 “Search가 연휴 계획을 돕는 4가지 방법”을 공개했다. 가이드는 시즌 잡무를 Search Live, Lens, AI Mode에 맡기라고 권한다. 호텔 객실·레스토랑 테이블·공연 티켓도 Search가 찾아 주는 데서 그치지 않고 예약까지 한다는 식이다. 신규 출시로 표시된 기능은 하나도 없다."
+                "x": "SparkToro가 U.S. 옵트인 패널을 분석했더니 ChatGPT 대화의 6.9%에서 구매 의도가 보였다. 데이터 출처는 Verso다. 2026년 1월 1일부터 10월 29일까지 12,321명이 나눈 대화 41,961건으로, 수치 대부분은 U.S. 인구 구성에 맞춰 가중치를 둔 하위 표본에서 뽑았다."
               },
               {
                 "t": "p",
-                "x": "호텔이라면 AI Mode는 “편의시설, 투숙객 리뷰, 사진을 비교할 수 있는 시각적 옵션 목록”을 보여준다. 사용자는 여행 파트너 사이트로 넘어가 예약하거나, “‘Continue on Google’이 보이면 Google Pay로 AI Mode 안에서 바로 호텔 예약을 마칠 수 있다.” AI Mode의 호텔 예약은 2026년 8월 27일 US에서 영어로 배포되기 시작했다. Booking.com, Expedia, Hilton, Marriott 등 열 곳의 파트너가 판매 주체(merchant of record)를 맡는다."
+                "x": "이 하위 표본에서 ChatGPT 응답의 87.9%는 브랜드나 제품, 업체를 하나도 언급하지 않았다. Rand Fishkin은 AI 가시성이 중요한 건 ChatGPT보다 주로 Google의 AI Overviews와 AI Mode 때문이라고 결론 내렸다."
               },
               {
                 "t": "p",
-                "x": "Google 도움말 페이지에 따르면 이 기능은 US에서 영어로, 일부 숙소에만 제공되며 프로모션 코드, 리워드 포인트 사용, 멤버십 번호는 지원하지 않는다."
+                "x": "대화의 4.9%는 구매를 계획하며 선택지를 살폈고, 2.1%는 특정 브랜드·제품·서비스 구매를 물었다. 나머지 93.1%에는 구매 의도가 없었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "차트: SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "저녁 식사와 티켓도 같은 틀이다. AI Mode 작업은 “티켓 오픈과 가격 변동을 뒤에서 추적”해 Google 앱으로 알린다. 마케터 눈으로 보면 예약 파트너는 판매 주체 지위를 유지하지만, 인터페이스와 Google Pay 결제 정보, 쇼핑객을 다시 불러오는 알림은 Google이 쥔다."
+                "x": "Fishkin은 “ChatGPT의 광고 기회에는 나쁜 소식이라고 본다”고 썼다. 가장 큰 범주는 대화의 17.6%를 차지한 이미지·시각 디자인 요청이었다. 쇼핑·브랜드·지역 서비스는 5.3%에 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "Anthropic의 Claude가 작성된 코드북에 따라 대화를 분류했다. 패널은 젊은 층과 여성, 저소득층 비중이 높고 대부분 모바일 사용자다. API 요청은 빠졌다. PPC 팀이 ChatGPT Ads를 검토할 때 6.9%는 소비자 패널 한 단면의 수치일 뿐 ChatGPT 전체 집계가 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、休暇シーズンの\nホテル予約をAI Modeへ",
-          "body": "USではAI ModeでGoogle Pay決済のホテル予約ができ、販売元は提携先だ。",
-          "mini_headline": "AI Modeでホテル予約",
+          "headline": "ChatGPTの会話で\n購買意図はわずか6.9%",
+          "body": "U.S.のパネル調査で、ChatGPTの会話のうち購買意図を示したのは6.9%だった。",
+          "mini_headline": "ChatGPT会話の6.9%に購買意図",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "Googleのホリデーガイドは、ホテル、ディナー、チケットの予約をAI Modeに誘導し、Google Payで支払わせる"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleはホリデーガイド「Searchが休暇の計画に役立つ4つの方法」を公開した。季節の雑事をSearch Live、Lens、AI Modeに通す内容で、ホテルの客室、レストランの席、イベントのチケットを、Searchが探すだけでなく予約までできるものとして示している。どの機能も新規ローンチとは表記されていない。"
+                "x": "SparkToroが分析したU.S.のオプトイン・パネルでは、ChatGPTの会話の6.9%に購買意図が見られた。データ提供元はVersoで、2026年1月1日から10月29日までに12,321人が交わした41,961件の会話だ。大半はU.S.の人口構成に合わせて重み付けしたサブサンプルによる。"
               },
               {
                 "t": "p",
-                "x": "ホテルについては、AI Modeが「設備、宿泊者レビュー、写真を比較できる視覚的な選択肢の一覧」を表示する。ユーザーは旅行パートナーのサイトに移って予約するか、「『Continue on Google』と表示されていれば、Google Payを使ってAI Mode内でそのままホテル予約を完了できる」。AI Modeでのホテル予約は2026年8月27日にUSで英語向けに提供が始まり、Booking.com、Expedia、Hilton、Marriottを含む十社のパートナーが販売事業者(merchant of record)となる。"
+                "x": "このサブサンプルでは、ChatGPTの回答の87.9%がブランドや製品、事業者を一つも挙げていなかった。Rand Fishkinは、AIでの露出が重要なのはChatGPTそのものより、主にGoogleのAI OverviewsとAI Modeがあるからだと結論づけた。"
               },
               {
                 "t": "p",
-                "x": "Googleのヘルプページによると、この機能はUSで英語のみ、一部の施設に限って利用でき、プロモーションコード、リワードポイントの利用、会員番号には対応していない。"
+                "x": "会話の4.9%では購入を予定して選択肢を比べており、2.1%は特定のブランド・製品・サービスの購入について尋ね、93.1%は購入の意図を示さなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "グラフ:SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "ディナーとチケットも同じ型をたどり、AI Modeのタスクは「チケットの販売開始や価格変動を裏で追跡」し、Googleアプリで通知する。マーケターにとっては、予約パートナーが販売事業者の立場を保つ一方、インターフェース、Google Payの決済情報、買い物客を呼び戻す通知はGoogleが握ることになる。"
+                "x": "Fishkinは「ChatGPTの広告機会にとっては悪い知らせだと思う」と書いた。最も多い分類は画像・ビジュアルデザインの依頼で会話の17.6%を占め、ショッピング・ブランド・地域サービスは5.3%だった。"
+              },
+              {
+                "t": "p",
+                "x": "会話の分類は、文書化したコードブックに基づきAnthropicのClaudeが行った。パネルは若年層、女性、低所得層に偏り、大半がモバイルで、APIリクエストは含まない。ChatGPT Adsを検討するPPCチームにとって、6.9%という割合は消費者パネルの一断面であり、ChatGPT全体の集計ではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google把假日酒店预订\n引入AI Mode",
-          "body": "在US，可在AI Mode内用Google Pay订酒店，由合作方担任记录商户。",
-          "mini_headline": "AI Mode可订酒店",
+          "headline": "ChatGPT 对话中\n仅6.9%有购买意图",
+          "body": "U.S. 面板数据显示，ChatGPT 对话中仅6.9%有购买意图，多数回答未提品牌。",
+          "mini_headline": "ChatGPT 对话仅6.9%有购买意图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "Google的假日指南把酒店、晚餐和门票预订引向AI Mode，并用Google Pay支付"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Google发布了一份假日指南《Search帮你规划假期的4种方式》，把季节性琐事交给Search Live、Lens和AI Mode处理，并将酒店客房、餐厅座位和活动门票呈现为Search可以直接预订、而不只是搜索到的东西。其中没有任何功能被标注为新发布。"
+                "x": "在 SparkToro 分析的一个 U.S. 自愿加入式面板中，6.9% 的 ChatGPT 对话表现出购买意图。数据来自 Verso：2026年1月1日至10月29日期间，12,321 人进行的 41,961 次对话，大部分来自按 U.S. 人口结构加权的子样本。"
               },
               {
                 "t": "p",
-                "x": "在酒店方面，AI Mode提供“可比较设施、住客评价和照片的可视化选项列表”。用户可以跳转到旅行合作方处预订，或者“如果看到‘Continue on Google’，就可以直接在AI Mode中用Google Pay完成酒店预订”。AI Mode的酒店预订于2026年8月27日开始在US以英语推出，合作方包括Booking.com、Expedia、Hilton和Marriott在内的十家，由它们担任记录商户（merchant of record）。"
+                "x": "在该子样本中，87.9% 的 ChatGPT 回答没有提到任何一个品牌、产品或商家。Rand Fishkin 的结论是，AI 可见度之所以重要，主要是因为 Google 的 AI Overviews 和 AI Mode，而不是 ChatGPT 本身。"
               },
               {
                 "t": "p",
-                "x": "Google的帮助页面称，该功能仅在US以英语提供，且只适用于部分酒店，不支持促销代码、奖励积分兑换或会员号码。"
+                "x": "在 4.9% 的对话中，用户计划购买并在比较选项；2.1% 询问购买某个特定品牌、产品或服务；93.1% 没有表现出购买意图。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "图表：SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "晚餐和门票沿用同一模式，AI Mode任务会“在后台追踪门票开售和价格变动”，并通过Google应用通知用户。对营销人员而言，预订合作方保留记录商户身份，而界面、Google Pay凭证以及把购物者拉回来的提醒都掌握在Google手中。"
+                "x": "Fishkin 写道：“我怀疑这对 ChatGPT 的广告机会来说是个坏消息。”图像与视觉设计请求是最大类别，占对话的 17.6%；购物、品牌和本地服务合计占 5.3%。"
+              },
+              {
+                "t": "p",
+                "x": "对话由 Anthropic 的 Claude 依据一份书面编码手册进行编码。该面板偏向年轻、女性和低收入人群，以移动端为主，且不含 API 请求。对于正在探索 ChatGPT Ads 的 PPC 团队来说，6.9% 这一比例只是一个消费者面板的快照，并非 ChatGPT 全体的统计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lleva reservas de hotel\nde las fiestas a AI Mode",
-          "body": "En US, se reservan hoteles en AI Mode de Google con Google Pay y los socios actúan como comerciante registrado.",
-          "mini_headline": "AI Mode reserva hoteles",
+          "headline": "Solo un 6.9% de chats en ChatGPT\nmuestra intención de compra",
+          "body": "Datos de un panel en U.S. indican que solo el 6.9% de las conversaciones con ChatGPT muestra intención de compra.",
+          "mini_headline": "El 6.9% de los chats de ChatGPT muestra intención de compra",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "La guía de fiestas de Google envía las reservas de hotel, cenas y entradas a través de AI Mode, con pago mediante Google Pay"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Google publicó una guía para las fiestas, “4 formas en que Search puede ayudarte con tus planes de vacaciones”, que canaliza las tareas de temporada a través de Search Live, Lens y AI Mode, y presenta habitaciones de hotel, mesas de restaurante y entradas para eventos como cosas que Search puede reservar y no solo encontrar. Ninguna de las funciones figura como lanzamiento."
+                "x": "La intención de compra apareció en el 6.9% de las conversaciones con ChatGPT de un panel voluntario de U.S. analizado por SparkToro. Los datos proceden de Verso: 41,961 conversaciones de 12,321 personas entre el 1 de enero y el 29 de octubre de 2026, en su mayoría de una submuestra ponderada para reflejar la población de U.S."
               },
               {
                 "t": "p",
-                "x": "Para hoteles, AI Mode ofrece “una lista visual de opciones para comparar servicios, opiniones de huéspedes y fotos”. Los usuarios pueden salir a reservar con socios de viaje o, “si ves ‘Continue on Google’, completar la reserva del hotel directamente en AI Mode con Google Pay”. La reserva de hoteles en AI Mode empezó a desplegarse el 27 de agosto de 2026, en US y en inglés, con diez socios, entre ellos Booking.com, Expedia, Hilton y Marriott, que actúan como comerciante registrado (merchant of record)."
+                "x": "De las respuestas de ChatGPT en esta submuestra, el 87.9% no mencionó ni una sola marca, producto o negocio. Rand Fishkin concluyó que la visibilidad en AI importa sobre todo por AI Overviews y AI Mode de Google, más que por el propio ChatGPT."
               },
               {
                 "t": "p",
-                "x": "La página de ayuda de Google indica que la función solo está disponible en US, en inglés y para determinados alojamientos, y que no admite códigos promocionales, canje de puntos de recompensa ni números de fidelización."
+                "x": "En el 4.9% de las conversaciones la persona planeaba comprar y estaba comparando opciones; el 2.1% preguntó por la compra de una marca, producto o servicio concreto; el 93.1% no mostró intención de compra."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "Gráfico: SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "Las cenas y las entradas siguen la misma plantilla, y las tareas de AI Mode “seguirán en segundo plano la salida de entradas y los cambios de precio”, con avisos a través de la app de Google. Para los profesionales del marketing, los socios de reserva conservan la condición de comerciante registrado, mientras Google se queda con la interfaz, la credencial de Google Pay y la alerta que hace volver al comprador."
+                "x": "Fishkin escribió: “Sospecho que esto es una mala noticia para las oportunidades publicitarias de ChatGPT”. Las solicitudes de imágenes y diseño visual fueron la categoría principal, con el 17.6% de las conversaciones; compras, marcas y servicios locales sumaron el 5.3%."
+              },
+              {
+                "t": "p",
+                "x": "Las conversaciones fueron codificadas por Claude, de Anthropic, con un libro de códigos escrito. El panel tiene un sesgo hacia personas más jóvenes, mujeres y de menores ingresos, es mayoritariamente móvil y excluye las solicitudes por API. Para los equipos de PPC que exploran ChatGPT Ads, el 6.9% es una instantánea de un panel de consumidores, no un recuento de todo ChatGPT."
               }
             ]
           }
@@ -511,125 +659,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 휴가철 호텔\n예약을 AI Mode로",
-          "body": "US에서는 AI Mode 안에서 Google Pay로 호텔을 예약한다.",
-          "mini_headline": "AI Mode로 호텔 예약",
+          "headline": "ChatGPT 대화 중\n구매 의도는 6.9%뿐",
+          "body": "U.S. 패널 조사에서 ChatGPT 대화의 6.9%만 구매 의도를 보였다.",
+          "mini_headline": "ChatGPT 대화 6.9%만 구매 의도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "Google의 연휴 가이드는 호텔·저녁 식사·티켓 예약을 AI Mode로 보내고 Google Pay로 결제하게 한다"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Google은 연휴 가이드 “Search가 연휴 계획을 돕는 4가지 방법”을 공개했다. 이 가이드는 시즌 잡무를 Search Live, Lens, AI Mode로 처리하게 하고, 호텔 객실·레스토랑 테이블·공연 티켓을 Search가 찾기만 하는 대상이 아니라 예약까지 하는 대상으로 제시한다. 어느 기능도 신규 출시로 표시되지 않았다."
+                "x": "SparkToro가 분석한 U.S. 옵트인 패널에서 ChatGPT 대화의 6.9%에 구매 의도가 나타났다. 데이터는 Verso에서 나왔다. 2026년 1월 1일부터 10월 29일까지 12,321명이 나눈 41,961건의 대화이며, 대부분 U.S. 인구 구성에 맞춰 가중치를 둔 하위 표본에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "호텔의 경우 AI Mode는 “편의시설, 투숙객 리뷰, 사진을 비교할 수 있는 시각적 옵션 목록”을 보여준다. 사용자는 여행 파트너 사이트로 넘어가 예약하거나, “‘Continue on Google’이 보이면 Google Pay로 AI Mode 안에서 바로 호텔 예약을 마칠 수 있다.” AI Mode의 호텔 예약은 2026년 8월 27일 US에서 영어로 배포되기 시작했으며, Booking.com, Expedia, Hilton, Marriott 등 열 곳의 파트너가 판매 주체(merchant of record)를 맡는다."
+                "x": "이 하위 표본에서 ChatGPT 응답의 87.9%는 브랜드나 제품, 업체를 하나도 언급하지 않았다. Rand Fishkin은 AI 가시성이 중요한 이유가 ChatGPT 자체보다는 주로 Google의 AI Overviews와 AI Mode 때문이라고 결론지었다."
               },
               {
                 "t": "p",
-                "x": "Google 도움말 페이지에 따르면 이 기능은 US에서 영어로, 일부 숙소에만 제공되며 프로모션 코드, 리워드 포인트 사용, 멤버십 번호는 지원하지 않는다."
+                "x": "대화의 4.9%에서는 구매를 계획하고 선택지를 살펴보고 있었고, 2.1%는 특정 브랜드·제품·서비스 구매에 관해 물었으며, 93.1%는 구매 의도를 보이지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "차트: SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "저녁 식사와 티켓도 같은 틀을 따르며, AI Mode 작업은 “티켓 오픈과 가격 변동을 뒤에서 추적”해 Google 앱으로 알린다. 마케터 입장에서 보면 예약 파트너는 판매 주체 지위를 유지하지만, 인터페이스와 Google Pay 결제 정보, 쇼핑객을 다시 불러오는 알림은 Google이 쥔다."
+                "x": "Fishkin은 “ChatGPT의 광고 기회에는 나쁜 소식이라고 본다”고 썼다. 이미지·시각 디자인 요청이 대화의 17.6%로 가장 큰 범주였고, 쇼핑·브랜드·지역 서비스는 5.3%였다."
+              },
+              {
+                "t": "p",
+                "x": "대화 분류는 Anthropic의 Claude가 작성된 코드북에 따라 맡았다. 패널은 젊은 층과 여성, 저소득층 비중이 높고 대부분 모바일 사용자이며, API 요청은 빠져 있다. ChatGPT Ads를 검토하는 PPC 팀에게 6.9%라는 비율은 소비자 패널의 단면일 뿐, ChatGPT 전체를 집계한 수치가 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、休暇シーズンの\nホテル予約をAI Modeへ",
-          "body": "USではAI ModeでGoogle Pay決済のホテル予約ができ、販売元は提携先だ。",
-          "mini_headline": "AI Modeでホテル予約",
+          "headline": "ChatGPTの会話で\n購買意図はわずか6.9%",
+          "body": "U.S.のパネル調査で、ChatGPTの会話のうち購買意図を示したのは6.9%だった。",
+          "mini_headline": "ChatGPT会話の6.9%に購買意図",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "Googleのホリデーガイドは、ホテル、ディナー、チケットの予約をAI Modeに誘導し、Google Payで支払わせる"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleはホリデーガイド「Searchが休暇の計画に役立つ4つの方法」を公開した。季節の雑事をSearch Live、Lens、AI Modeに通す内容で、ホテルの客室、レストランの席、イベントのチケットを、Searchが探すだけでなく予約までできるものとして示している。どの機能も新規ローンチとは表記されていない。"
+                "x": "SparkToroが分析したU.S.のオプトイン・パネルでは、ChatGPTの会話の6.9%に購買意図が見られた。データ提供元はVersoで、2026年1月1日から10月29日までに12,321人が交わした41,961件の会話だ。大半はU.S.の人口構成に合わせて重み付けしたサブサンプルによる。"
               },
               {
                 "t": "p",
-                "x": "ホテルについては、AI Modeが「設備、宿泊者レビュー、写真を比較できる視覚的な選択肢の一覧」を表示する。ユーザーは旅行パートナーのサイトに移って予約するか、「『Continue on Google』と表示されていれば、Google Payを使ってAI Mode内でそのままホテル予約を完了できる」。AI Modeでのホテル予約は2026年8月27日にUSで英語向けに提供が始まり、Booking.com、Expedia、Hilton、Marriottを含む十社のパートナーが販売事業者(merchant of record)となる。"
+                "x": "このサブサンプルでは、ChatGPTの回答の87.9%がブランドや製品、事業者を一つも挙げていなかった。Rand Fishkinは、AIでの露出が重要なのはChatGPTそのものより、主にGoogleのAI OverviewsとAI Modeがあるからだと結論づけた。"
               },
               {
                 "t": "p",
-                "x": "Googleのヘルプページによると、この機能はUSで英語のみ、一部の施設に限って利用でき、プロモーションコード、リワードポイントの利用、会員番号には対応していない。"
+                "x": "会話の4.9%では購入を予定して選択肢を比べており、2.1%は特定のブランド・製品・サービスの購入について尋ね、93.1%は購入の意図を示さなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "グラフ:SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "ディナーとチケットも同じ型をたどり、AI Modeのタスクは「チケットの販売開始や価格変動を裏で追跡」し、Googleアプリで通知する。マーケターにとっては、予約パートナーが販売事業者の立場を保つ一方、インターフェース、Google Payの決済情報、買い物客を呼び戻す通知はGoogleが握ることになる。"
+                "x": "Fishkinは「ChatGPTの広告機会にとっては悪い知らせだと思う」と書いた。最も多い分類は画像・ビジュアルデザインの依頼で会話の17.6%を占め、ショッピング・ブランド・地域サービスは5.3%だった。"
+              },
+              {
+                "t": "p",
+                "x": "会話の分類は、文書化したコードブックに基づきAnthropicのClaudeが行った。パネルは若年層、女性、低所得層に偏り、大半がモバイルで、APIリクエストは含まない。ChatGPT Adsを検討するPPCチームにとって、6.9%という割合は消費者パネルの一断面であり、ChatGPT全体の集計ではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google把假日酒店预订\n引入AI Mode",
-          "body": "在US，可在AI Mode内用Google Pay订酒店，由合作方担任记录商户。",
-          "mini_headline": "AI Mode可订酒店",
+          "headline": "ChatGPT 对话中\n仅6.9%有购买意图",
+          "body": "U.S. 面板数据显示，ChatGPT 对话中仅6.9%有购买意图，多数回答未提品牌。",
+          "mini_headline": "ChatGPT 对话仅6.9%有购买意图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "Google的假日指南把酒店、晚餐和门票预订引向AI Mode，并用Google Pay支付"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Google发布了一份假日指南《Search帮你规划假期的4种方式》，把季节性琐事交给Search Live、Lens和AI Mode处理，并将酒店客房、餐厅座位和活动门票呈现为Search可以直接预订、而不只是搜索到的东西。其中没有任何功能被标注为新发布。"
+                "x": "在 SparkToro 分析的一个 U.S. 自愿加入式面板中，6.9% 的 ChatGPT 对话表现出购买意图。数据来自 Verso：2026年1月1日至10月29日期间，12,321 人进行的 41,961 次对话，大部分来自按 U.S. 人口结构加权的子样本。"
               },
               {
                 "t": "p",
-                "x": "在酒店方面，AI Mode提供“可比较设施、住客评价和照片的可视化选项列表”。用户可以跳转到旅行合作方处预订，或者“如果看到‘Continue on Google’，就可以直接在AI Mode中用Google Pay完成酒店预订”。AI Mode的酒店预订于2026年8月27日开始在US以英语推出，合作方包括Booking.com、Expedia、Hilton和Marriott在内的十家，由它们担任记录商户（merchant of record）。"
+                "x": "在该子样本中，87.9% 的 ChatGPT 回答没有提到任何一个品牌、产品或商家。Rand Fishkin 的结论是，AI 可见度之所以重要，主要是因为 Google 的 AI Overviews 和 AI Mode，而不是 ChatGPT 本身。"
               },
               {
                 "t": "p",
-                "x": "Google的帮助页面称，该功能仅在US以英语提供，且只适用于部分酒店，不支持促销代码、奖励积分兑换或会员号码。"
+                "x": "在 4.9% 的对话中，用户计划购买并在比较选项；2.1% 询问购买某个特定品牌、产品或服务；93.1% 没有表现出购买意图。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "图表：SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "晚餐和门票沿用同一模式，AI Mode任务会“在后台追踪门票开售和价格变动”，并通过Google应用通知用户。对营销人员而言，预订合作方保留记录商户身份，而界面、Google Pay凭证以及把购物者拉回来的提醒都掌握在Google手中。"
+                "x": "Fishkin 写道：“我怀疑这对 ChatGPT 的广告机会来说是个坏消息。”图像与视觉设计请求是最大类别，占对话的 17.6%；购物、品牌和本地服务合计占 5.3%。"
+              },
+              {
+                "t": "p",
+                "x": "对话由 Anthropic 的 Claude 依据一份书面编码手册进行编码。该面板偏向年轻、女性和低收入人群，以移动端为主，且不含 API 请求。对于正在探索 ChatGPT Ads 的 PPC 团队来说，6.9% 这一比例只是一个消费者面板的快照，并非 ChatGPT 全体的统计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lleva reservas de hotel\nde las fiestas a AI Mode",
-          "body": "En US, se reservan hoteles en AI Mode de Google con Google Pay y los socios actúan como comerciante registrado.",
-          "mini_headline": "AI Mode reserva hoteles",
+          "headline": "Solo un 6.9% de chats en ChatGPT\nmuestra intención de compra",
+          "body": "Datos de un panel en U.S. indican que solo el 6.9% de las conversaciones con ChatGPT muestra intención de compra.",
+          "mini_headline": "El 6.9% de los chats de ChatGPT muestra intención de compra",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-                "cap": "La guía de fiestas de Google envía las reservas de hotel, cenas y entradas a través de AI Mode, con pago mediante Google Pay"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Google publicó una guía para las fiestas, “4 formas en que Search puede ayudarte con tus planes de vacaciones”, que canaliza las tareas de temporada a través de Search Live, Lens y AI Mode, y presenta habitaciones de hotel, mesas de restaurante y entradas para eventos como cosas que Search puede reservar y no solo encontrar. Ninguna de las funciones figura como lanzamiento."
+                "x": "La intención de compra apareció en el 6.9% de las conversaciones con ChatGPT de un panel voluntario de U.S. analizado por SparkToro. Los datos proceden de Verso: 41,961 conversaciones de 12,321 personas entre el 1 de enero y el 29 de octubre de 2026, en su mayoría de una submuestra ponderada para reflejar la población de U.S."
               },
               {
                 "t": "p",
-                "x": "Para hoteles, AI Mode ofrece “una lista visual de opciones para comparar servicios, opiniones de huéspedes y fotos”. Los usuarios pueden salir a reservar con socios de viaje o, “si ves ‘Continue on Google’, completar la reserva del hotel directamente en AI Mode con Google Pay”. La reserva de hoteles en AI Mode empezó a desplegarse el 27 de agosto de 2026, en US y en inglés, con diez socios, entre ellos Booking.com, Expedia, Hilton y Marriott, que actúan como comerciante registrado (merchant of record)."
+                "x": "De las respuestas de ChatGPT en esta submuestra, el 87.9% no mencionó ni una sola marca, producto o negocio. Rand Fishkin concluyó que la visibilidad en AI importa sobre todo por AI Overviews y AI Mode de Google, más que por el propio ChatGPT."
               },
               {
                 "t": "p",
-                "x": "La página de ayuda de Google indica que la función solo está disponible en US, en inglés y para determinados alojamientos, y que no admite códigos promocionales, canje de puntos de recompensa ni números de fidelización."
+                "x": "En el 4.9% de las conversaciones la persona planeaba comprar y estaba comparando opciones; el 2.1% preguntó por la compra de una marca, producto o servicio concreto; el 93.1% no mostró intención de compra."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+                "cap": "Gráfico: SparkToro / Verso."
               },
               {
                 "t": "p",
-                "x": "Las cenas y las entradas siguen la misma plantilla, y las tareas de AI Mode “seguirán en segundo plano la salida de entradas y los cambios de precio”, con avisos a través de la app de Google. Para los profesionales del marketing, los socios de reserva conservan la condición de comerciante registrado, mientras Google se queda con la interfaz, la credencial de Google Pay y la alerta que hace volver al comprador."
+                "x": "Fishkin escribió: “Sospecho que esto es una mala noticia para las oportunidades publicitarias de ChatGPT”. Las solicitudes de imágenes y diseño visual fueron la categoría principal, con el 17.6% de las conversaciones; compras, marcas y servicios locales sumaron el 5.3%."
+              },
+              {
+                "t": "p",
+                "x": "Las conversaciones fueron codificadas por Claude, de Anthropic, con un libro de códigos escrito. El panel tiene un sesgo hacia personas más jóvenes, mujeres y de menores ingresos, es mayoritariamente móvil y excluye las solicitudes por API. Para los equipos de PPC que exploran ChatGPT Ads, el 6.9% es una instantánea de un panel de consumidores, no un recuento de todo ChatGPT."
               }
             ]
           }
@@ -637,15 +817,15 @@
       }
     },
     {
-      "id": "jcrew-style-advisor-anthropic",
+      "id": "daydream-stylist-shopping-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "J. Crew의 AI 코디\nStyle Advisor",
-      "body": "J. Crew Style Advisor는 Anthropic과 만든 코디 도구다.",
-      "mini_headline": "J. Crew의 AI 스타일리스트",
+      "headline": "Daydream, 쇼핑하는\nAI 스타일리스트 출시",
+      "body": "Daydream 에이전트는 취향을 기억하고 가상 착용·세일 추적·결제까지 맡는다.",
+      "mini_headline": "Daydream의 AI 스타일리스트가 대신 쇼핑",
       "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -653,203 +833,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-            "cap": "J. Crew의 Style Advisor는 AI로 고객이 바로 살 수 있는 완성된 룩을 제시한다."
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
           },
           {
             "t": "p",
-            "x": "J. Crew가 AI-powered 옷장 컨설턴트 Style Advisor를 출시했다. Anthropic과 협력해 만들었고 “다양한 Claude 모델”로 구동된다. 회사는 이 도구가 “개별 제품 검색이 아니라 영감과 발견을 중심으로 한다”고 밝혔다."
+            "x": "Julie Bornstein의 패션 스타트업 Daydream이 화요일 “Daydream Agent”를 출시했다. 개인 스타일리스트를 내세운 AI 에이전트다. 룩 구상부터 가상 착용, 취향에 맞는 아이템 찾기까지 돕는다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+            "cap": "이미지 제공: Daydream"
           },
           {
             "t": "p",
-            "x": "대화형 챗봇인 이 도구는 “방대한 자체 이미지 라이브러리”를 갖췄다. 고객은 자연어로 물어 “J. Crew 스타일리스트가 늘 해 온 그런 조언”을 받을 수 있다. 지금은 J. Crew U.S. 웹사이트에서 남성·여성 스타일로 쓸 수 있다."
+            "x": "에이전트는 쇼핑객마다 개인 스타일과 선호하는 핏, 예산을 기억한다. 쇼핑객이 사진을 올리면 저장한 아이템을 가상으로 입어 볼 수 있고, 구매는 에이전트가 원클릭 결제로 마무리한다. 세일과 브랜드 신상품 출시를 챙겨 매주 소식을 보내고 트렌드도 짚어 준다."
           },
           {
             "t": "p",
-            "x": "Style Advisor는 “J.Crew 자체 화보 촬영에서 나온 수천 가지 코디 조합”으로 머리부터 발끝까지 룩을 짜도록 돕는다. 고객은 면접이나 생일 파티 같은 행사에서 출발하거나 특정 아이템을 중심으로 코디를 짤 수 있다. 도구는 “각 고객의 취향과 구매 이력에 맞춰 제안을 조정하며 점점 더 개인화된다.”"
+            "x": "아이템은 사라지지 않는 “옷걸이”에 저장해 둔다. 옷장과 캘린더를 연결하면 코디를 짜고 다가오는 일정에 대비할 수도 있다. 실시간 가격과 재고는 10,000개가 넘는 브랜드 카탈로그에서 가져오고, 미세 조정한 OpenAI, Gemini, Claude 모델과 자체 학습 모델이 서비스를 돌린다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+            "cap": "Daydream 창업자 Lisa Yamner Green과 Julie Bornstein. 이미지 제공: Daydream"
           },
           {
             "t": "p",
-            "x": "“Anthropic과의 협업으로 수십 년간 쌓은 J. Crew의 스타일링, 머천다이징, 크리에이티브 전문성을 모아 고객 행동의 다음 모습을 만드는 데 힘을 보태고 있다”고 J. Crew Group의 CEO Libby Wadle은 말했다."
-          },
-          {
-            "t": "p",
-            "x": "경쟁사 Ralph Lauren은 한 해 남짓 전 자체 AI 스타일링 어시스턴트를 내놓았다. Stitch Fix는 7월에 선보였다. J. Crew는 현재 U.S.에서 114개 매장을 운영한다."
+            "x": "사람의 판단이 빠지지 않도록 Daydream은 StyleGrid 창업자 Francesca Salih를 첫 상주 스타일리스트로 데려왔다. $50 million을 투자받은 Daydream은 2025년 6월 출시 뒤 2백만 명이 넘는 쇼핑객이 서비스를 썼다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "J. Crew launches an AI\nStyle Advisor for outfits",
-          "body": "J. Crew's desktop Style Advisor, built with Anthropic, suggests full outfits instead of single products.",
-          "mini_headline": "J. Crew's AI stylist",
+          "headline": "Daydream launches an AI\nstylist that shops for you",
+          "body": "Daydream's new agent remembers your style, tries clothes on virtually, tracks sales and completes purchases for you.",
+          "mini_headline": "Daydream's AI stylist shops for you",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "J. Crew's Style Advisor uses AI to deliver completed looks customers can shop."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. Crew has launched an AI-powered wardrobe consultant called Style Advisor, created in partnership with Anthropic and powered \"by a variety of Claude models.\" The company said it is \"driven by inspiration and discovery rather than searching for individual products.\""
+                "x": "Julie Bornstein's fashion startup Daydream on Tuesday launched “Daydream Agent,” an AI agent described as a personal stylist that can help you plan a look, virtually try on clothes, surface relevant pieces based on your taste, and more."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "Image Credits: Daydream"
               },
               {
                 "t": "p",
-                "x": "The conversational chatbot features \"an extensive library of proprietary imagery\" and lets customers use natural language queries to get \"the kind of advice J. Crew stylists have always offered.\" It's available now on the J. Crew U.S. website for men's and women's styles."
+                "x": "The agent remembers each shopper's personal style, fit preferences, and budget. Shoppers can upload a photo to virtually try on any saved item, and the agent can complete a purchase through one-click checkout. It can also watch for sales and new brand drops, give weekly updates and spot trends."
               },
               {
                 "t": "p",
-                "x": "Style Advisor helps customers assemble head-to-toe looks drawn from \"thousands of outfit pairings from J.Crew's own photo shoots.\" Customers can start with an event, such as a job interview or birthday party, or build around a specific item, and the tool will \"become more personal, tailoring suggestions to each customer's preferences and past purchases.\""
+                "x": "Shoppers can save pieces to a persistent “clothing rack,” and connect their closet and calendar to build outfits and plan for upcoming events. The tech pulls real-time pricing and availability from a catalog of over 10,000 brands and is powered by fine-tuned OpenAI, Gemini, and Claude models plus its own trained models."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Daydream founders Lisa Yamner Green and Julie Bornstein. Image Credits: Daydream"
               },
               {
                 "t": "p",
-                "x": "\"Through our work with Anthropic, we're bringing decades of J. Crew styling, merchandising and creative expertise together to help shape what's next for customer behavior,\" said Libby Wadle, CEO of J. Crew Group."
-              },
-              {
-                "t": "p",
-                "x": "Rival Ralph Lauren launched its own AI styling assistant just over a year ago, and Stitch Fix launched one in July. J. Crew currently operates 114 U.S. retail stores."
+                "x": "To keep humans in the loop, Daydream brought on its first stylist in residence, Francesca Salih, founder of StyleGrid. Backed by $50 million in funding, Daydream says more than 2 million shoppers have used it since its June 2025 launch."
               }
             ]
           }
         },
         "ko": {
-          "headline": "J. Crew의 AI 코디\nStyle Advisor",
-          "body": "J. Crew Style Advisor는 Anthropic과 만든 코디 도구다.",
-          "mini_headline": "J. Crew의 AI 스타일리스트",
+          "headline": "Daydream, 쇼핑하는\nAI 스타일리스트 출시",
+          "body": "Daydream 에이전트는 취향을 기억하고 가상 착용·세일 추적·결제까지 맡는다.",
+          "mini_headline": "Daydream의 AI 스타일리스트가 대신 쇼핑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "J. Crew의 Style Advisor는 AI로 고객이 바로 살 수 있는 완성된 룩을 제시한다."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. Crew가 AI-powered 옷장 컨설턴트 Style Advisor를 출시했다. Anthropic과 협력해 만들었고 “다양한 Claude 모델”로 구동된다. 회사는 이 도구가 “개별 제품 검색이 아니라 영감과 발견을 중심으로 한다”고 밝혔다."
+                "x": "Julie Bornstein의 패션 스타트업 Daydream이 화요일 “Daydream Agent”를 출시했다. 개인 스타일리스트를 내세운 AI 에이전트다. 룩 구상부터 가상 착용, 취향에 맞는 아이템 찾기까지 돕는다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "이미지 제공: Daydream"
               },
               {
                 "t": "p",
-                "x": "대화형 챗봇인 이 도구는 “방대한 자체 이미지 라이브러리”를 갖췄다. 고객은 자연어로 물어 “J. Crew 스타일리스트가 늘 해 온 그런 조언”을 받을 수 있다. 지금은 J. Crew U.S. 웹사이트에서 남성·여성 스타일로 쓸 수 있다."
+                "x": "에이전트는 쇼핑객마다 개인 스타일과 선호하는 핏, 예산을 기억한다. 쇼핑객이 사진을 올리면 저장한 아이템을 가상으로 입어 볼 수 있고, 구매는 에이전트가 원클릭 결제로 마무리한다. 세일과 브랜드 신상품 출시를 챙겨 매주 소식을 보내고 트렌드도 짚어 준다."
               },
               {
                 "t": "p",
-                "x": "Style Advisor는 “J.Crew 자체 화보 촬영에서 나온 수천 가지 코디 조합”으로 머리부터 발끝까지 룩을 짜도록 돕는다. 고객은 면접이나 생일 파티 같은 행사에서 출발하거나 특정 아이템을 중심으로 코디를 짤 수 있다. 도구는 “각 고객의 취향과 구매 이력에 맞춰 제안을 조정하며 점점 더 개인화된다.”"
+                "x": "아이템은 사라지지 않는 “옷걸이”에 저장해 둔다. 옷장과 캘린더를 연결하면 코디를 짜고 다가오는 일정에 대비할 수도 있다. 실시간 가격과 재고는 10,000개가 넘는 브랜드 카탈로그에서 가져오고, 미세 조정한 OpenAI, Gemini, Claude 모델과 자체 학습 모델이 서비스를 돌린다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Daydream 창업자 Lisa Yamner Green과 Julie Bornstein. 이미지 제공: Daydream"
               },
               {
                 "t": "p",
-                "x": "“Anthropic과의 협업으로 수십 년간 쌓은 J. Crew의 스타일링, 머천다이징, 크리에이티브 전문성을 모아 고객 행동의 다음 모습을 만드는 데 힘을 보태고 있다”고 J. Crew Group의 CEO Libby Wadle은 말했다."
-              },
-              {
-                "t": "p",
-                "x": "경쟁사 Ralph Lauren은 한 해 남짓 전 자체 AI 스타일링 어시스턴트를 내놓았다. Stitch Fix는 7월에 선보였다. J. Crew는 현재 U.S.에서 114개 매장을 운영한다."
+                "x": "사람의 판단이 빠지지 않도록 Daydream은 StyleGrid 창업자 Francesca Salih를 첫 상주 스타일리스트로 데려왔다. $50 million을 투자받은 Daydream은 2025년 6월 출시 뒤 2백만 명이 넘는 쇼핑객이 서비스를 썼다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "J. Crew、AIコーデの\nStyle Advisor",
-          "body": "J. CrewのStyle AdvisorはAnthropicと組み、服を一式で提案する。",
-          "mini_headline": "J. CrewのAIスタイリスト",
+          "headline": "Daydreamが発表\n買い物もするAIスタイリスト",
+          "body": "Daydreamの新エージェントは好みを記憶し、仮想試着やセール追跡、購入まで代行する。",
+          "mini_headline": "DaydreamのAIスタイリストが買い物を代行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "J. CrewのStyle Advisorは、AIを使って顧客がそのまま購入できる完成したルックを提示する。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. CrewはAI-poweredのワードローブ・コンサルタント「Style Advisor」を投入した。Anthropicと提携して開発し、「さまざまなClaudeモデル」で動く。同社は、このツールが「個々の商品を検索するのではなく、インスピレーションと発見を軸にしている」と説明した。"
+                "x": "Julie Bornsteinが率いるファッション系スタートアップDaydreamは火曜日、「Daydream Agent」を公開した。パーソナルスタイリストをうたうAIエージェントで、コーディネートの計画、服の仮想試着、好みに合うアイテムの提案などを手伝う。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "画像提供:Daydream"
               },
               {
                 "t": "p",
-                "x": "この対話型チャットボットは「独自画像の豊富なライブラリ」を備え、顧客は自然言語で質問して「J. Crewのスタイリストが常に提供してきたようなアドバイス」を得られる。現在、J. Crew U.S.のウェブサイトでメンズとウィメンズのスタイルに対応している。"
+                "x": "エージェントは買い物客ごとのスタイル、サイズ感の好み、予算を記憶する。写真をアップロードすれば保存したアイテムを仮想試着でき、ワンクリック決済で購入まで完了できる。セールやブランドの新作発売を見張り、毎週の更新を届け、トレンドも見つける。"
               },
               {
                 "t": "p",
-                "x": "Style Advisorは「J.Crew自身の撮影から生まれた数千通りのコーディネート」をもとに、頭からつま先までのルックを組み立てる手助けをする。顧客は就職面接や誕生日パーティーといったイベントから始めることも、特定のアイテムを軸に組み立てることもでき、ツールは「各顧客の好みと購入履歴に合わせて提案を調整し、よりパーソナルになっていく」。"
+                "x": "買い物客はアイテムを常設の「クロージングラック」に保存し、クローゼットやカレンダーと連携してコーディネートを組み、今後の予定に備えられる。10,000を超えるブランドのカタログから価格と在庫をリアルタイムで取得し、ファインチューニングしたOpenAI、Gemini、Claudeのモデルと独自に学習したモデルで動く。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Daydreamの創業者Lisa Yamner GreenとJulie Bornstein。画像提供:Daydream"
               },
               {
                 "t": "p",
-                "x": "「Anthropicとの取り組みを通じて、J. Crewが数十年かけて培ったスタイリング、マーチャンダイジング、クリエイティブの専門性を結集し、顧客行動の次のかたちづくりに貢献していく」と、J. Crew GroupのCEO、Libby Wadle氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "競合のRalph Laurenは一年余り前に独自のAIスタイリングアシスタントを投入し、Stitch Fixも7月に同様のものを公開した。J. Crewは現在、U.S.で114の店舗を運営している。"
+                "x": "人の目を介在させるため、DaydreamはStyleGrid創業者のFrancesca Salihを初の専属スタイリストに迎えた。$50 million の資金を得たDaydreamによると、2025年6月のサービス開始以来、2百万人を超える買い物客が利用したという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "J. Crew上线AI穿搭\nStyle Advisor",
-          "body": "J. Crew与Anthropic合作的Style Advisor推荐整套搭配，而非单品。",
-          "mini_headline": "J. Crew的AI造型师",
+          "headline": "Daydream 推出\n代你购物的AI造型师",
+          "body": "Daydream 新智能体能记住你的风格，虚拟试衣、追踪折扣并代为下单。",
+          "mini_headline": "Daydream 的AI造型师替你购物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "J. Crew的Style Advisor利用AI为顾客提供可直接选购的完整造型。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. Crew推出了名为Style Advisor的AI-powered衣橱顾问，由其与Anthropic合作打造，并“由多种Claude模型”驱动。公司表示，它“以灵感和发现为导向，而不是搜索单个商品”。"
+                "x": "Julie Bornstein 创办的时尚初创公司 Daydream 于周二推出“Daydream Agent”。这款 AI 智能体被定位为私人造型师，可以帮你规划造型、虚拟试穿衣服、根据你的品味推荐相关单品等。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "图片来源：Daydream"
               },
               {
                 "t": "p",
-                "x": "这款对话式聊天机器人拥有“庞大的自有图片库”，顾客可以用自然语言提问，获得“J. Crew造型师一直以来提供的那种建议”。目前它已在J. Crew U.S.网站上线，覆盖男装和女装风格。"
+                "x": "该智能体会记住每位购物者的个人风格、版型偏好和预算。购物者可以上传照片，虚拟试穿任何已保存的单品，智能体还能通过一键结账完成购买。它也会关注促销和品牌新品发布，每周推送更新，并发现趋势。"
               },
               {
                 "t": "p",
-                "x": "Style Advisor从“J.Crew自家拍摄中的数千套服装搭配”出发，帮助顾客组合从头到脚的造型。顾客可以从求职面试、生日派对等场合入手，也可以围绕某件单品搭配，这一工具还会“变得更加个性化，根据每位顾客的偏好和过往购买调整建议”。"
+                "x": "购物者可以把单品保存到长期保留的“衣架”中，并连接自己的衣橱和日历来搭配服装、为即将到来的活动做准备。这项技术从超过 10,000 个品牌的目录中实时获取价格和库存，由经过微调的 OpenAI、Gemini 和 Claude 模型以及自研训练模型驱动。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Daydream 创始人 Lisa Yamner Green 和 Julie Bornstein。图片来源：Daydream"
               },
               {
                 "t": "p",
-                "x": "“通过与Anthropic的合作，我们正把J. Crew数十年的造型、商品企划和创意经验汇聚起来，帮助塑造顾客行为的下一步，”J. Crew Group首席执行官（CEO）Libby Wadle说。"
-              },
-              {
-                "t": "p",
-                "x": "竞争对手Ralph Lauren在一年多前推出了自己的AI造型助手，Stitch Fix则在7月推出了类似产品。J. Crew目前在U.S.经营114家零售门店。"
+                "x": "为了让人工保持参与，Daydream 请来 StyleGrid 创始人 Francesca Salih 担任首位驻场造型师。Daydream 已获得 $50 million 融资，并表示自 2025年6月上线以来，已有超过2百万名购物者使用过它。"
               }
             ]
           }
         },
         "es": {
-          "headline": "J. Crew lanza Style Advisor,\nun asesor de atuendos con AI",
-          "body": "El Style Advisor de escritorio de J. Crew, creado con Anthropic, sugiere atuendos completos y no prendas sueltas.",
-          "mini_headline": "El estilista AI de J. Crew",
+          "headline": "Daydream lanza un estilista\ncon AI que compra por ti",
+          "body": "El nuevo agente de Daydream recuerda tu estilo, prueba ropa de forma virtual, sigue ofertas y completa tus compras.",
+          "mini_headline": "El estilista con AI de Daydream compra por ti",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "El Style Advisor de J. Crew usa AI para ofrecer looks completos que los clientes pueden comprar."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. Crew lanzó un asesor de vestuario AI-powered llamado Style Advisor, creado en colaboración con Anthropic e impulsado “por una variedad de modelos Claude”. La empresa dijo que está “guiado por la inspiración y el descubrimiento, más que por la búsqueda de productos individuales”."
+                "x": "Daydream, la startup de moda de Julie Bornstein, lanzó el martes “Daydream Agent”, un agente de AI presentado como un estilista personal que ayuda a planear un look, probarse ropa de forma virtual, encontrar prendas acordes con el gusto de cada persona y más."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "Créditos de imagen: Daydream"
               },
               {
                 "t": "p",
-                "x": "El chatbot conversacional cuenta con “una amplia biblioteca de imágenes propias” y permite a los clientes hacer consultas en lenguaje natural para recibir “el tipo de consejo que los estilistas de J. Crew siempre han ofrecido”. Ya está disponible en el sitio web de J. Crew U.S. para estilos de hombre y de mujer."
+                "x": "El agente recuerda el estilo personal, las preferencias de talla y el presupuesto de cada comprador. Los compradores pueden subir una foto para probarse virtualmente cualquier prenda guardada, y el agente puede completar la compra con un pago en un clic. También vigila rebajas y nuevos lanzamientos de marcas, envía novedades semanales y detecta tendencias."
               },
               {
                 "t": "p",
-                "x": "Style Advisor ayuda a los clientes a armar looks de pies a cabeza a partir de “miles de combinaciones de atuendos de las propias sesiones de fotos de J.Crew”. Los clientes pueden partir de un evento, como una entrevista de trabajo o una fiesta de cumpleaños, o construir en torno a una prenda concreta, y la herramienta “se volverá más personal, adaptando las sugerencias a las preferencias y compras anteriores de cada cliente”."
+                "x": "Los compradores pueden guardar prendas en un “perchero” permanente y conectar su armario y su calendario para armar conjuntos y preparar próximos eventos. La tecnología obtiene precios y disponibilidad en tiempo real de un catálogo de más de 10,000 marcas y funciona con modelos ajustados de OpenAI, Gemini y Claude, además de modelos entrenados por la propia empresa."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Las fundadoras de Daydream, Lisa Yamner Green y Julie Bornstein. Créditos de imagen: Daydream"
               },
               {
                 "t": "p",
-                "x": "“A través de nuestro trabajo con Anthropic, reunimos décadas de experiencia de J. Crew en estilismo, merchandising y creatividad para ayudar a definir lo que viene en el comportamiento del cliente”, dijo Libby Wadle, CEO de J. Crew Group."
-              },
-              {
-                "t": "p",
-                "x": "Su rival Ralph Lauren lanzó su propio asistente de estilismo con AI hace poco más de un año, y Stitch Fix presentó uno en julio. J. Crew opera actualmente 114 tiendas en U.S."
+                "x": "Para mantener a personas en el proceso, Daydream incorporó a su primera estilista residente, Francesca Salih, fundadora de StyleGrid. Con $50 million de financiación, Daydream afirma que más de 2 millones de compradores la han usado desde su lanzamiento en junio de 2025."
               }
             ]
           }
@@ -857,141 +1067,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "J. Crew의 AI 코디\nStyle Advisor",
-          "body": "J. Crew Style Advisor는 Anthropic과 만든 코디 도구다.",
-          "mini_headline": "J. Crew의 AI 스타일리스트",
+          "headline": "Daydream, 쇼핑하는\nAI 스타일리스트 출시",
+          "body": "Daydream 에이전트가 스타일을 기억하고 가상 착용·세일 추적·결제까지 한다.",
+          "mini_headline": "Daydream의 AI 스타일리스트가 대신 쇼핑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "J. Crew의 Style Advisor는 AI로 고객이 바로 살 수 있는 완성된 룩을 제시한다."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. Crew가 AI-powered 옷장 컨설턴트 Style Advisor를 출시했다. Anthropic과 협력해 만들었고 “다양한 Claude 모델”로 구동된다. 회사는 이 도구가 “개별 제품 검색이 아니라 영감과 발견을 중심으로 한다”고 밝혔다."
+                "x": "Julie Bornstein의 패션 스타트업 Daydream이 화요일 “Daydream Agent”를 출시했다. 개인 스타일리스트를 표방하는 AI 에이전트로, 룩을 구상하고 옷을 가상으로 입어 보고 취향에 맞는 아이템을 찾아 주는 등의 일을 돕는다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "이미지 제공: Daydream"
               },
               {
                 "t": "p",
-                "x": "이 대화형 챗봇은 “방대한 자체 이미지 라이브러리”를 갖췄고, 고객은 자연어로 질문해 “J. Crew 스타일리스트가 늘 해 온 그런 조언”을 받을 수 있다. 현재 J. Crew U.S. 웹사이트에서 남성·여성 스타일로 이용할 수 있다."
+                "x": "에이전트는 쇼핑객마다 개인 스타일, 선호하는 핏, 예산을 기억한다. 쇼핑객은 사진을 올려 저장한 아이템을 가상으로 입어 볼 수 있고, 에이전트는 원클릭 결제로 구매까지 마칠 수 있다. 세일과 브랜드 신상품 출시를 지켜보고, 매주 소식을 전하며, 트렌드도 짚어 준다."
               },
               {
                 "t": "p",
-                "x": "Style Advisor는 “J.Crew 자체 화보 촬영에서 나온 수천 가지 코디 조합”을 바탕으로 머리부터 발끝까지 룩을 구성하도록 돕는다. 고객은 면접이나 생일 파티 같은 행사에서 출발하거나 특정 아이템을 중심으로 코디를 짤 수 있으며, 이 도구는 “각 고객의 취향과 구매 이력에 맞춰 제안을 조정하며 점점 더 개인화된다.”"
+                "x": "쇼핑객은 아이템을 계속 유지되는 “옷걸이”에 저장하고, 옷장과 캘린더를 연결해 코디를 짜고 다가오는 일정을 준비할 수 있다. 이 기술은 10,000개가 넘는 브랜드 카탈로그에서 실시간 가격과 재고를 가져오며, 미세 조정한 OpenAI, Gemini, Claude 모델과 자체 학습 모델로 작동한다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Daydream 창업자 Lisa Yamner Green과 Julie Bornstein. 이미지 제공: Daydream"
               },
               {
                 "t": "p",
-                "x": "“Anthropic과의 협업으로 수십 년간 쌓은 J. Crew의 스타일링, 머천다이징, 크리에이티브 전문성을 모아 고객 행동의 다음 모습을 만드는 데 힘을 보태고 있다”고 J. Crew Group의 CEO Libby Wadle은 말했다."
-              },
-              {
-                "t": "p",
-                "x": "경쟁사 Ralph Lauren은 한 해 남짓 전 자체 AI 스타일링 어시스턴트를 내놓았고, Stitch Fix는 7월에 선보였다. J. Crew는 현재 U.S.에서 114개 매장을 운영한다."
+                "x": "사람의 판단을 계속 거치도록 Daydream은 StyleGrid 창업자 Francesca Salih를 첫 상주 스타일리스트로 영입했다. $50 million 규모의 투자를 받은 Daydream은 2025년 6월 출시 이후 2백만 명이 넘는 쇼핑객이 서비스를 이용했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "J. Crew、AIコーデの\nStyle Advisor",
-          "body": "J. CrewのStyle AdvisorはAnthropicと組み、服を一式で提案する。",
-          "mini_headline": "J. CrewのAIスタイリスト",
+          "headline": "Daydreamが発表\n買い物もするAIスタイリスト",
+          "body": "Daydreamの新エージェントは好みを記憶し、仮想試着やセール追跡、購入まで代行する。",
+          "mini_headline": "DaydreamのAIスタイリストが買い物を代行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "J. CrewのStyle Advisorは、AIを使って顧客がそのまま購入できる完成したルックを提示する。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. CrewはAI-poweredのワードローブ・コンサルタント「Style Advisor」を投入した。Anthropicと提携して開発し、「さまざまなClaudeモデル」で動く。同社は、このツールが「個々の商品を検索するのではなく、インスピレーションと発見を軸にしている」と説明した。"
+                "x": "Julie Bornsteinが率いるファッション系スタートアップDaydreamは火曜日、「Daydream Agent」を公開した。パーソナルスタイリストをうたうAIエージェントで、コーディネートの計画、服の仮想試着、好みに合うアイテムの提案などを手伝う。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "画像提供:Daydream"
               },
               {
                 "t": "p",
-                "x": "この対話型チャットボットは「独自画像の豊富なライブラリ」を備え、顧客は自然言語で質問して「J. Crewのスタイリストが常に提供してきたようなアドバイス」を得られる。現在、J. Crew U.S.のウェブサイトでメンズとウィメンズのスタイルに対応している。"
+                "x": "エージェントは買い物客ごとのスタイル、サイズ感の好み、予算を記憶する。写真をアップロードすれば保存したアイテムを仮想試着でき、ワンクリック決済で購入まで完了できる。セールやブランドの新作発売を見張り、毎週の更新を届け、トレンドも見つける。"
               },
               {
                 "t": "p",
-                "x": "Style Advisorは「J.Crew自身の撮影から生まれた数千通りのコーディネート」をもとに、頭からつま先までのルックを組み立てる手助けをする。顧客は就職面接や誕生日パーティーといったイベントから始めることも、特定のアイテムを軸に組み立てることもでき、ツールは「各顧客の好みと購入履歴に合わせて提案を調整し、よりパーソナルになっていく」。"
+                "x": "買い物客はアイテムを常設の「クロージングラック」に保存し、クローゼットやカレンダーと連携してコーディネートを組み、今後の予定に備えられる。10,000を超えるブランドのカタログから価格と在庫をリアルタイムで取得し、ファインチューニングしたOpenAI、Gemini、Claudeのモデルと独自に学習したモデルで動く。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Daydreamの創業者Lisa Yamner GreenとJulie Bornstein。画像提供:Daydream"
               },
               {
                 "t": "p",
-                "x": "「Anthropicとの取り組みを通じて、J. Crewが数十年かけて培ったスタイリング、マーチャンダイジング、クリエイティブの専門性を結集し、顧客行動の次のかたちづくりに貢献していく」と、J. Crew GroupのCEO、Libby Wadle氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "競合のRalph Laurenは一年余り前に独自のAIスタイリングアシスタントを投入し、Stitch Fixも7月に同様のものを公開した。J. Crewは現在、U.S.で114の店舗を運営している。"
+                "x": "人の目を介在させるため、DaydreamはStyleGrid創業者のFrancesca Salihを初の専属スタイリストに迎えた。$50 million の資金を得たDaydreamによると、2025年6月のサービス開始以来、2百万人を超える買い物客が利用したという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "J. Crew上线AI穿搭\nStyle Advisor",
-          "body": "J. Crew与Anthropic合作的Style Advisor推荐整套搭配，而非单品。",
-          "mini_headline": "J. Crew的AI造型师",
+          "headline": "Daydream 推出\n代你购物的AI造型师",
+          "body": "Daydream 新智能体能记住你的风格，虚拟试衣、追踪折扣并代为下单。",
+          "mini_headline": "Daydream 的AI造型师替你购物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "J. Crew的Style Advisor利用AI为顾客提供可直接选购的完整造型。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. Crew推出了名为Style Advisor的AI-powered衣橱顾问，由其与Anthropic合作打造，并“由多种Claude模型”驱动。公司表示，它“以灵感和发现为导向，而不是搜索单个商品”。"
+                "x": "Julie Bornstein 创办的时尚初创公司 Daydream 于周二推出“Daydream Agent”。这款 AI 智能体被定位为私人造型师，可以帮你规划造型、虚拟试穿衣服、根据你的品味推荐相关单品等。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "图片来源：Daydream"
               },
               {
                 "t": "p",
-                "x": "这款对话式聊天机器人拥有“庞大的自有图片库”，顾客可以用自然语言提问，获得“J. Crew造型师一直以来提供的那种建议”。目前它已在J. Crew U.S.网站上线，覆盖男装和女装风格。"
+                "x": "该智能体会记住每位购物者的个人风格、版型偏好和预算。购物者可以上传照片，虚拟试穿任何已保存的单品，智能体还能通过一键结账完成购买。它也会关注促销和品牌新品发布，每周推送更新，并发现趋势。"
               },
               {
                 "t": "p",
-                "x": "Style Advisor从“J.Crew自家拍摄中的数千套服装搭配”出发，帮助顾客组合从头到脚的造型。顾客可以从求职面试、生日派对等场合入手，也可以围绕某件单品搭配，这一工具还会“变得更加个性化，根据每位顾客的偏好和过往购买调整建议”。"
+                "x": "购物者可以把单品保存到长期保留的“衣架”中，并连接自己的衣橱和日历来搭配服装、为即将到来的活动做准备。这项技术从超过 10,000 个品牌的目录中实时获取价格和库存，由经过微调的 OpenAI、Gemini 和 Claude 模型以及自研训练模型驱动。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Daydream 创始人 Lisa Yamner Green 和 Julie Bornstein。图片来源：Daydream"
               },
               {
                 "t": "p",
-                "x": "“通过与Anthropic的合作，我们正把J. Crew数十年的造型、商品企划和创意经验汇聚起来，帮助塑造顾客行为的下一步，”J. Crew Group首席执行官（CEO）Libby Wadle说。"
-              },
-              {
-                "t": "p",
-                "x": "竞争对手Ralph Lauren在一年多前推出了自己的AI造型助手，Stitch Fix则在7月推出了类似产品。J. Crew目前在U.S.经营114家零售门店。"
+                "x": "为了让人工保持参与，Daydream 请来 StyleGrid 创始人 Francesca Salih 担任首位驻场造型师。Daydream 已获得 $50 million 融资，并表示自 2025年6月上线以来，已有超过2百万名购物者使用过它。"
               }
             ]
           }
         },
         "es": {
-          "headline": "J. Crew lanza Style Advisor,\nun asesor de atuendos con AI",
-          "body": "El Style Advisor de escritorio de J. Crew, creado con Anthropic, sugiere atuendos completos y no prendas sueltas.",
-          "mini_headline": "El estilista AI de J. Crew",
+          "headline": "Daydream lanza un estilista\ncon AI que compra por ti",
+          "body": "El nuevo agente de Daydream recuerda tu estilo, prueba ropa de forma virtual, sigue ofertas y completa tus compras.",
+          "mini_headline": "El estilista con AI de Daydream compra por ti",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/f5YC8XCfhWSHGirICm9w9L7klu_UcwXzWbVHVxach0Q/g:nowe:0:70/c:640:362/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-                "cap": "El Style Advisor de J. Crew usa AI para ofrecer looks completos que los clientes pueden comprar."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
               },
               {
                 "t": "p",
-                "x": "J. Crew lanzó un asesor de vestuario AI-powered llamado Style Advisor, creado en colaboración con Anthropic e impulsado “por una variedad de modelos Claude”. La empresa dijo que está “guiado por la inspiración y el descubrimiento, más que por la búsqueda de productos individuales”."
+                "x": "Daydream, la startup de moda de Julie Bornstein, lanzó el martes “Daydream Agent”, un agente de AI presentado como un estilista personal que ayuda a planear un look, probarse ropa de forma virtual, encontrar prendas acordes con el gusto de cada persona y más."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+                "cap": "Créditos de imagen: Daydream"
               },
               {
                 "t": "p",
-                "x": "El chatbot conversacional cuenta con “una amplia biblioteca de imágenes propias” y permite a los clientes hacer consultas en lenguaje natural para recibir “el tipo de consejo que los estilistas de J. Crew siempre han ofrecido”. Ya está disponible en el sitio web de J. Crew U.S. para estilos de hombre y de mujer."
+                "x": "El agente recuerda el estilo personal, las preferencias de talla y el presupuesto de cada comprador. Los compradores pueden subir una foto para probarse virtualmente cualquier prenda guardada, y el agente puede completar la compra con un pago en un clic. También vigila rebajas y nuevos lanzamientos de marcas, envía novedades semanales y detecta tendencias."
               },
               {
                 "t": "p",
-                "x": "Style Advisor ayuda a los clientes a armar looks de pies a cabeza a partir de “miles de combinaciones de atuendos de las propias sesiones de fotos de J.Crew”. Los clientes pueden partir de un evento, como una entrevista de trabajo o una fiesta de cumpleaños, o construir en torno a una prenda concreta, y la herramienta “se volverá más personal, adaptando las sugerencias a las preferencias y compras anteriores de cada cliente”."
+                "x": "Los compradores pueden guardar prendas en un “perchero” permanente y conectar su armario y su calendario para armar conjuntos y preparar próximos eventos. La tecnología obtiene precios y disponibilidad en tiempo real de un catálogo de más de 10,000 marcas y funciona con modelos ajustados de OpenAI, Gemini y Claude, además de modelos entrenados por la propia empresa."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+                "cap": "Las fundadoras de Daydream, Lisa Yamner Green y Julie Bornstein. Créditos de imagen: Daydream"
               },
               {
                 "t": "p",
-                "x": "“A través de nuestro trabajo con Anthropic, reunimos décadas de experiencia de J. Crew en estilismo, merchandising y creatividad para ayudar a definir lo que viene en el comportamiento del cliente”, dijo Libby Wadle, CEO de J. Crew Group."
-              },
-              {
-                "t": "p",
-                "x": "Su rival Ralph Lauren lanzó su propio asistente de estilismo con AI hace poco más de un año, y Stitch Fix presentó uno en julio. J. Crew opera actualmente 114 tiendas en U.S."
+                "x": "Para mantener a personas en el proceso, Daydream incorporó a su primera estilista residente, Francesca Salih, fundadora de StyleGrid. Con $50 million de financiación, Daydream afirma que más de 2 millones de compradores la han usado desde su lanzamiento en junio de 2025."
               }
             ]
           }
@@ -999,15 +1229,15 @@
       }
     },
     {
-      "id": "bustle-profound-ai-visibility",
+      "id": "amazon-dva-ai-brand-safety",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Bustle, 브랜드에\nAI 챗봇 노출을 판다",
-      "body": "Bustle은 Profound로 Pampers·Innisfree를 AI에 띄운다.",
-      "mini_headline": "Bustle의 AI 노출 판매",
+      "headline": "Amazon DVA 광고\n유해 페이지 0.1% 미만",
+      "body": "AmazonAdBot이 웹을 훑으면 위험 페이지는 Claude 등 AI가 가려낸다.",
+      "mini_headline": "Amazon, DVA 브랜드 안전에 AI 활용",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/amazon-says-under-0-1-of-dva-ads-on-outside-websites-hit-unsafe-pages/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1015,203 +1245,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+            "cap": "Amazon은 DVA 웹 광고의 0.1% 미만만 유해 페이지에 노출된다고 밝혔다. MRC 인증은 아직 받지 못했다"
           },
           {
             "t": "p",
-            "x": "Bustle Digital Group이 Profound의 AI 측정 도구로 Pampers, Innisfree 등 브랜드가 AI-generated 추천에 노출되게 돕는다. 내부적으로 ECHO라 부르는 이 GEO 상품은 Profound 분석과 BDG 콘텐츠로 학습한 AI 에이전트를 써서 크리에이티브 브리프를 만든다. 적어도 세 브랜드가 비용을 냈다."
+            "x": "Amazon Ads가 Display, Video, Audio 캠페인 광고를 유해한 웹 페이지에서 떼어 놓는 절차를 공개했다. 대상 인벤토리 노출 중 브랜드 안전 기준선에 못 미치는 콘텐츠에 붙는 비율은 0.1% 미만이라는 설명이다. 절차는 Media Rating Council에 제출됐으나 “이 문서 작성일 기준으로 인증을 받지 않은” 상태다."
           },
           {
             "t": "p",
-            "x": "Profound 데이터로 만든 BDG 사례 연구를 보면 한 캠페인에서 추적하던 스킨케어 프롬프트 200개에서 Innisfree 노출도가 30% 늘었고 Bustle의 인용 순위는 #709에서 #12로 올랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-            "cap": "출처: BDG"
+            "x": "적용 범위는 영어(English-language) 제3자 웹사이트뿐이다. 아홉 개 범주는 모든 광고주에게 차단되고, 광고주가 이 기본 설정을 끌 수도 없다."
           },
           {
             "t": "p",
-            "x": "Pampers는 Scary Mommy의 설명 기사가 나온 뒤 무향 기저귀 질문의 AI 노출 순위가 #2에서 #1로 올랐다."
+            "x": "페이지 렌더링은 AmazonAdBot이라는 이름의 크롤러가 맡는다. 공개된 오픈 모델을 조정한 두 모델이 페이지마다 점수를 매기고 “어느 한 모델이라도 높은 위험을 감지하면” 페이지를 이미지로 받는 두 파운데이션 모델로 넘긴다. 두 번째 모델은 “확인할 수 없는 판정을 걸러 내며”, “판정이 확인될 때만 페이지를 차단한다.”"
           },
           {
             "t": "p",
-            "x": "BDG와 Profound는 주제 여덟~10개와 주제마다 프롬프트 25~50개를 분석하는 데서 출발한다. 에이전트가 브리프를 설계하면 BDG 에디터가 그에 맞춰 글을 쓰고, 완성된 콘텐츠는 Reddit에서 교차 홍보한다. BDG의 배포·AI 인텔리전스 담당 svp Graham Howes는 “광고주는 실제 크리에이티브 개발에 전혀 관여하지 않는다”고 말했다. 성과는 주로 ChatGPT, Gemini, Google의 AI Overviews에서 추적한다. Profound는 이 거래에서 몫을 받지 않는다."
+            "x": "Amazon은 Anthropic을 직접 언급했다. “Anthropic의 Claude 파운데이션 모델 같은 모델을 모델 선정과 지속적인 측정 과정에서 평가한다.” 생성형 모델이 “같은 페이지라도 평가할 때마다 다른 결과를 낼 수 있다”는 점도 인정했다."
+          },
+          {
+            "t": "p",
+            "x": "Brand Unsafe Impression Rate(브랜드 유해 노출률)는 실제 게재된 노출 표본을 검토자가 판정해 낸다. 평가가 불가능했던 페이지는 비율에서 제외한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bustle sells brands a way\ninto AI chatbot answers",
-          "body": "Using Profound's tools, Bustle sells brands like Pampers and Innisfree a service that lifts their AI chatbot visibility.",
-          "mini_headline": "Bustle sells AI visibility",
+          "headline": "Amazon says under 0.1% of DVA\nads land on unsafe pages",
+          "body": "Amazon says AmazonAdBot crawls web inventory and routes risky pages to AI models including Claude for classification.",
+          "mini_headline": "Amazon uses AI for DVA brand safety",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazon says under 0.1% of DVA web ads hit unsafe pages; MRC accreditation not yet granted"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Group is using Profound's AI measurement tools to help brands, including Pampers and Innisfree, show up in AI-generated recommendations. The GEO offering, called ECHO internally, uses Profound analytics and AI agents trained on BDG content to generate creative briefs. At least three brands have paid for it."
+                "x": "Amazon Ads has published the process it uses to keep Display, Video, and Audio campaign ads off unsafe web pages, and says fewer than 0.1% of impressions on the inventory it covers are served against content below its brand safety floor. The process has been submitted to the Media Rating Council but is \"not accredited as of the date of this document.\""
               },
               {
                 "t": "p",
-                "x": "In one campaign, Innisfree's visibility across 200 tracked skincare prompts grew 30%, while Bustle's citation rank rose from #709 to #12, according to a BDG case study based on Profound data."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "Source: BDG"
+                "x": "The scope covers only English-language third-party websites. Nine categories are blocked for every advertiser, and advertisers cannot remove this default."
               },
               {
                 "t": "p",
-                "x": "Pampers moved from #2 to #1 in AI visibility for fragrance-free diaper questions following a Scary Mommy explainer."
+                "x": "A crawler that identifies itself as AmazonAdBot renders pages. Two tuned models built from published open models score each page; \"if either model identifies elevated risk,\" it goes to two foundation models that receive the page as an image. The second \"removes findings it cannot confirm,\" and \"a page is blocked only when a finding is confirmed.\""
               },
               {
                 "t": "p",
-                "x": "BDG and Profound first analyze eight to 10 topics and 25 to 50 prompts each; agents then design briefs that BDG's editors write to, and content is cross-promoted on Reddit. \"The advertiser has no hand in the actual creative development at all,\" said Graham Howes, svp of distribution and AI intelligence at BDG. Results are tracked mainly across ChatGPT, Gemini and Google's AI Overviews. Profound does not receive a cut of these deals."
+                "x": "Amazon names Anthropic: \"Models such as the Claude foundational models used from Anthropic are evaluated as part of model selection and ongoing measurement.\" It concedes generative models \"can return different results for the same page on different evaluations.\""
+              },
+              {
+                "t": "p",
+                "x": "The Brand Unsafe Impression Rate is reviewer-judged on a sample of served impressions; pages that could not be assessed are excluded from the rate."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Bustle, 브랜드에\nAI 챗봇 노출을 판다",
-          "body": "Bustle은 Profound로 Pampers·Innisfree를 AI에 띄운다.",
-          "mini_headline": "Bustle의 AI 노출 판매",
+          "headline": "Amazon DVA 광고\n유해 페이지 0.1% 미만",
+          "body": "AmazonAdBot이 웹을 훑으면 위험 페이지는 Claude 등 AI가 가려낸다.",
+          "mini_headline": "Amazon, DVA 브랜드 안전에 AI 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazon은 DVA 웹 광고의 0.1% 미만만 유해 페이지에 노출된다고 밝혔다. MRC 인증은 아직 받지 못했다"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Group이 Profound의 AI 측정 도구로 Pampers, Innisfree 등 브랜드가 AI-generated 추천에 노출되게 돕는다. 내부적으로 ECHO라 부르는 이 GEO 상품은 Profound 분석과 BDG 콘텐츠로 학습한 AI 에이전트를 써서 크리에이티브 브리프를 만든다. 적어도 세 브랜드가 비용을 냈다."
+                "x": "Amazon Ads가 Display, Video, Audio 캠페인 광고를 유해한 웹 페이지에서 떼어 놓는 절차를 공개했다. 대상 인벤토리 노출 중 브랜드 안전 기준선에 못 미치는 콘텐츠에 붙는 비율은 0.1% 미만이라는 설명이다. 절차는 Media Rating Council에 제출됐으나 “이 문서 작성일 기준으로 인증을 받지 않은” 상태다."
               },
               {
                 "t": "p",
-                "x": "Profound 데이터로 만든 BDG 사례 연구를 보면 한 캠페인에서 추적하던 스킨케어 프롬프트 200개에서 Innisfree 노출도가 30% 늘었고 Bustle의 인용 순위는 #709에서 #12로 올랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "출처: BDG"
+                "x": "적용 범위는 영어(English-language) 제3자 웹사이트뿐이다. 아홉 개 범주는 모든 광고주에게 차단되고, 광고주가 이 기본 설정을 끌 수도 없다."
               },
               {
                 "t": "p",
-                "x": "Pampers는 Scary Mommy의 설명 기사가 나온 뒤 무향 기저귀 질문의 AI 노출 순위가 #2에서 #1로 올랐다."
+                "x": "페이지 렌더링은 AmazonAdBot이라는 이름의 크롤러가 맡는다. 공개된 오픈 모델을 조정한 두 모델이 페이지마다 점수를 매기고 “어느 한 모델이라도 높은 위험을 감지하면” 페이지를 이미지로 받는 두 파운데이션 모델로 넘긴다. 두 번째 모델은 “확인할 수 없는 판정을 걸러 내며”, “판정이 확인될 때만 페이지를 차단한다.”"
               },
               {
                 "t": "p",
-                "x": "BDG와 Profound는 주제 여덟~10개와 주제마다 프롬프트 25~50개를 분석하는 데서 출발한다. 에이전트가 브리프를 설계하면 BDG 에디터가 그에 맞춰 글을 쓰고, 완성된 콘텐츠는 Reddit에서 교차 홍보한다. BDG의 배포·AI 인텔리전스 담당 svp Graham Howes는 “광고주는 실제 크리에이티브 개발에 전혀 관여하지 않는다”고 말했다. 성과는 주로 ChatGPT, Gemini, Google의 AI Overviews에서 추적한다. Profound는 이 거래에서 몫을 받지 않는다."
+                "x": "Amazon은 Anthropic을 직접 언급했다. “Anthropic의 Claude 파운데이션 모델 같은 모델을 모델 선정과 지속적인 측정 과정에서 평가한다.” 생성형 모델이 “같은 페이지라도 평가할 때마다 다른 결과를 낼 수 있다”는 점도 인정했다."
+              },
+              {
+                "t": "p",
+                "x": "Brand Unsafe Impression Rate(브랜드 유해 노출률)는 실제 게재된 노출 표본을 검토자가 판정해 낸다. 평가가 불가능했던 페이지는 비율에서 제외한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bustle、AIの回答に\n載る道をブランドへ販売",
-          "body": "BustleはProfoundで、PampersやInnisfreeのAI露出を高める。",
-          "mini_headline": "BustleがAI露出を販売",
+          "headline": "Amazon、DVA広告の\n不適切ページは0.1%未満",
+          "body": "AmazonAdBotがウェブを巡回し、危険なページはClaudeなどのAIが分類する。",
+          "mini_headline": "Amazon、DVAのブランドセーフティにAI活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazonによると、DVAのウェブ広告が不適切なページに表示されるのは0.1%未満。MRC認定はまだ得ていない"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Groupは、ProfoundのAI計測ツールを使い、PampersやInnisfreeなどのブランドがAI-generatedのレコメンドに表示されるよう支援している。社内でECHOと呼ばれるこのGEOサービスは、Profoundの分析と、BDGのコンテンツで学習したAIエージェントを使ってクリエイティブブリーフを作成する。少なくとも三つのブランドが対価を支払った。"
+                "x": "Amazon Adsは、Display、Video、Audioキャンペーンの広告を不適切なウェブページから遠ざけるための手順を公開し、対象インベントリのインプレッションのうちブランドセーフティの基準を下回るコンテンツに配信されたのは0.1%未満だとした。この手順はMedia Rating Councilに提出済みだが、「本文書の日付時点では認定を受けていない」。"
               },
               {
                 "t": "p",
-                "x": "Profoundのデータに基づくBDGのケーススタディによると、あるキャンペーンでは、追跡対象の200のスキンケア関連プロンプトにおけるInnisfreeの可視性が30%向上し、Bustleの引用順位は#709から#12に上がった。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "出典：BDG"
+                "x": "対象は英語(English-language)のサードパーティサイトに限られる。九つのカテゴリーはすべての広告主に対してブロックされ、広告主はこの初期設定を外せない。"
               },
               {
                 "t": "p",
-                "x": "Pampersは、Scary Mommyの解説記事の掲載後、無香料おむつに関する質問でのAI可視性が#2から#1に上がった。"
+                "x": "AmazonAdBotと名乗るクローラーがページをレンダリングする。公開済みのオープンモデルをもとに調整した二つのモデルが各ページを採点し、「いずれかのモデルが高いリスクを検知した場合」、ページを画像として受け取る二つの基盤モデルに回す。二つ目のモデルは「確認できない判定を除外し」、「判定が確認された場合に限りページをブロックする」。"
               },
               {
                 "t": "p",
-                "x": "BDGとProfoundはまず八〜10のトピックと、それぞれ25〜50のプロンプトを分析する。次にエージェントがブリーフを設計し、BDGの編集者がそれに沿って執筆、コンテンツはRedditでクロスプロモーションされる。BDGの配信・AIインテリジェンス担当svp、Graham Howes氏は「広告主は実際のクリエイティブ制作に一切関与しない」と語った。成果は主にChatGPT、Gemini、GoogleのAI Overviewsで追跡される。Profoundはこれらの取引から分け前を受け取らない。"
+                "x": "AmazonはAnthropicの名を挙げ、「AnthropicのClaude基盤モデルなどのモデルを、モデル選定と継続的な測定の一環として評価している」と記す。生成モデルが「同じページでも評価のたびに異なる結果を返しうる」ことも認めている。"
+              },
+              {
+                "t": "p",
+                "x": "Brand Unsafe Impression Rate(ブランド上不適切なインプレッションの比率)は、配信済みインプレッションのサンプルをレビュー担当者が判定して算出し、評価できなかったページは比率から除外される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bustle向品牌兜售\nAI聊天机器人曝光",
-          "body": "Bustle借助Profound，帮Pampers和Innisfree提升AI曝光。",
-          "mini_headline": "Bustle出售AI可见度",
+          "headline": "Amazon：DVA广告\n不安全页面占比不足0.1%",
+          "body": "Amazon称AmazonAdBot抓取网页，风险页面交由Claude等AI分类。",
+          "mini_headline": "Amazon 用 AI 保障 DVA 品牌安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazon 称 DVA 网页广告落在不安全页面上的不足 0.1%；尚未获得 MRC 认证"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Group正借助Profound的AI测量工具，帮助Pampers、Innisfree等品牌出现在AI-generated推荐中。这项内部代号为ECHO的GEO服务，利用Profound的分析和以BDG内容训练的AI智能体来生成创意简报。至少已有三个品牌为此付费。"
+                "x": "Amazon Ads 公布了让 Display、Video 和 Audio 广告系列避开不安全网页的流程，并称在其覆盖的库存中，投放到低于品牌安全底线内容旁的展示不足 0.1%。该流程已提交给 Media Rating Council，但“截至本文件日期尚未获得认证”。"
               },
               {
                 "t": "p",
-                "x": "根据一份基于Profound数据的BDG案例研究，在一次活动中，Innisfree在200个被追踪的护肤类提示词中的可见度提升了30%，而Bustle的引用排名从#709升至#12。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "来源：BDG"
+                "x": "适用范围仅限英文（English-language）第三方网站。九个类别对所有广告主一律屏蔽，广告主无法取消这一默认设置。"
               },
               {
                 "t": "p",
-                "x": "在Scary Mommy发布一篇解读文章后，Pampers在无香型纸尿裤相关问题上的AI可见度从#2升至#1。"
+                "x": "一个自称 AmazonAdBot 的爬虫负责渲染页面。两个基于已公开开放模型调校的模型为每个页面打分；“如果任一模型识别出较高风险”，页面就会交给两个以图像形式接收页面的基础模型。第二个模型“会剔除无法确认的结果”，并且“只有在结果得到确认时才会屏蔽页面”。"
               },
               {
                 "t": "p",
-                "x": "BDG和Profound先分析八到10个主题，每个主题25到50个提示词；随后由智能体设计简报，BDG编辑据此撰稿，内容再在Reddit上交叉推广。BDG分发与AI情报svp Graham Howes表示：“广告主完全不参与实际的创意开发。”效果主要在ChatGPT、Gemini和Google的AI Overviews上追踪。Profound不从这些交易中抽成。"
+                "x": "Amazon 点名了 Anthropic：“诸如所使用的 Anthropic Claude 基础模型等模型，会在模型选择和持续测量中接受评估。”它也承认生成式模型“对同一页面的不同次评估可能给出不同结果”。"
+              },
+              {
+                "t": "p",
+                "x": "Brand Unsafe Impression Rate（品牌不安全展示率）由审核人员对已投放展示的样本进行判定；无法评估的页面不计入该比率。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bustle vende a las marcas\npresencia en chatbots de AI",
-          "body": "Con herramientas de Profound, Bustle vende a Pampers e Innisfree un servicio para ganar visibilidad en chatbots de AI.",
-          "mini_headline": "Bustle vende visibilidad en AI",
+          "headline": "Amazon: menos del 0.1% de DVA\ncae en páginas inseguras",
+          "body": "Amazon dice que AmazonAdBot rastrea la web y envía páginas de riesgo a modelos de AI como Claude para clasificarlas.",
+          "mini_headline": "Amazon usa AI para la seguridad de marca en DVA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazon afirma que menos del 0.1% de sus anuncios web de DVA llega a páginas inseguras; la acreditación del MRC aún no se ha concedido"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Group usa las herramientas de medición de AI de Profound para ayudar a marcas como Pampers e Innisfree a aparecer en recomendaciones AI-generated. La oferta de GEO, llamada internamente ECHO, emplea la analítica de Profound y agentes de AI entrenados con contenido de BDG para generar briefs creativos. Al menos tres marcas han pagado por ella."
+                "x": "Amazon Ads ha publicado el proceso que utiliza para mantener los anuncios de campañas de Display, Video y Audio fuera de páginas web inseguras, y afirma que menos del 0.1% de las impresiones del inventario que cubre se sirven junto a contenido por debajo de su umbral de seguridad de marca. El proceso se ha presentado al Media Rating Council, pero “no está acreditado a la fecha de este documento”."
               },
               {
                 "t": "p",
-                "x": "En una campaña, la visibilidad de Innisfree en 200 prompts de cuidado de la piel monitorizados creció un 30%, mientras que el ranking de citas de Bustle subió del #709 al #12, según un caso de estudio de BDG basado en datos de Profound."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "Fuente: BDG"
+                "x": "El alcance abarca solo sitios web de terceros en inglés (English-language). Nueve categorías están bloqueadas para todos los anunciantes, y estos no pueden eliminar esa configuración predeterminada."
               },
               {
                 "t": "p",
-                "x": "Pampers pasó del #2 al #1 en visibilidad en AI para preguntas sobre pañales sin fragancia tras un artículo explicativo de Scary Mommy."
+                "x": "Un rastreador que se identifica como AmazonAdBot renderiza las páginas. Dos modelos ajustados, construidos a partir de modelos abiertos publicados, puntúan cada página; “si cualquiera de los modelos identifica un riesgo elevado”, la página pasa a dos modelos fundacionales que la reciben como imagen. El segundo “elimina los hallazgos que no puede confirmar”, y “una página solo se bloquea cuando se confirma un hallazgo”."
               },
               {
                 "t": "p",
-                "x": "BDG y Profound analizan primero de ocho a 10 temas y de 25 a 50 prompts por tema; luego los agentes diseñan briefs con los que escriben los editores de BDG, y el contenido se promociona de forma cruzada en Reddit. “El anunciante no participa en absoluto en el desarrollo creativo real”, dijo Graham Howes, svp de distribución e inteligencia de AI en BDG. Los resultados se siguen sobre todo en ChatGPT, Gemini y AI Overviews de Google. Profound no recibe comisión de estos acuerdos."
+                "x": "Amazon nombra a Anthropic: “Modelos como los modelos fundacionales Claude que se usan de Anthropic se evalúan como parte de la selección de modelos y de la medición continua”. Admite que los modelos generativos “pueden devolver resultados distintos para la misma página en evaluaciones diferentes”."
+              },
+              {
+                "t": "p",
+                "x": "El Brand Unsafe Impression Rate lo determinan revisores sobre una muestra de impresiones servidas; las páginas que no pudieron evaluarse quedan excluidas de la tasa."
               }
             ]
           }
@@ -1219,141 +1449,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Bustle, 브랜드에\nAI 챗봇 노출을 판다",
-          "body": "Bustle은 Profound로 Pampers·Innisfree를 AI에 띄운다.",
-          "mini_headline": "Bustle의 AI 노출 판매",
+          "headline": "Amazon DVA 광고\n유해 페이지 0.1% 미만",
+          "body": "AmazonAdBot이 웹을 훑고 위험 페이지는 Claude 등 AI가 분류한다.",
+          "mini_headline": "Amazon, DVA 브랜드 안전에 AI 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazon은 DVA 웹 광고의 0.1% 미만만 유해 페이지에 노출된다고 밝혔다. MRC 인증은 아직 받지 못했다"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Group이 Profound의 AI 측정 도구를 활용해 Pampers, Innisfree 등 브랜드가 AI-generated 추천에 노출되도록 돕고 있다. 내부적으로 ECHO라 부르는 이 GEO 상품은 Profound 분석과 BDG 콘텐츠로 학습한 AI 에이전트를 써서 크리에이티브 브리프를 만든다. 적어도 세 브랜드가 비용을 냈다."
+                "x": "Amazon Ads가 Display, Video, Audio 캠페인 광고를 유해한 웹 페이지에서 떼어 놓는 절차를 공개했다. 대상 인벤토리 노출 가운데 브랜드 안전 기준선에 못 미치는 콘텐츠에 게재되는 비율은 0.1% 미만이라고 밝혔다. 이 절차는 Media Rating Council에 제출됐지만 “이 문서 작성일 기준으로 인증을 받지 않은” 상태다."
               },
               {
                 "t": "p",
-                "x": "Profound 데이터를 바탕으로 한 BDG 사례 연구에 따르면, 한 캠페인에서 추적 중인 스킨케어 프롬프트 200개에 걸친 Innisfree의 노출도는 30% 늘었고 Bustle의 인용 순위는 #709에서 #12로 올랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "출처: BDG"
+                "x": "적용 범위는 영어(English-language) 제3자 웹사이트에 한정된다. 아홉 개 범주는 모든 광고주에게 차단되며, 광고주는 이 기본 설정을 해제할 수 없다."
               },
               {
                 "t": "p",
-                "x": "Pampers는 Scary Mommy의 설명 기사가 나온 뒤 무향 기저귀 질문에 대한 AI 노출 순위가 #2에서 #1로 올랐다."
+                "x": "AmazonAdBot이라는 이름을 내건 크롤러가 페이지를 렌더링한다. 공개된 오픈 모델을 바탕으로 조정한 두 모델이 각 페이지에 점수를 매기고, “어느 한 모델이라도 높은 위험을 감지하면” 페이지를 이미지로 받는 두 파운데이션 모델로 넘긴다. 두 번째 모델은 “확인할 수 없는 판정을 걸러 내며”, “판정이 확인될 때만 페이지를 차단한다.”"
               },
               {
                 "t": "p",
-                "x": "BDG와 Profound는 먼저 주제 여덟~10개와 주제마다 프롬프트 25~50개를 분석한다. 이어 에이전트가 브리프를 설계하면 BDG 에디터가 이를 바탕으로 글을 쓰고, 콘텐츠는 Reddit에서 교차 홍보된다. BDG의 배포·AI 인텔리전스 담당 svp Graham Howes는 “광고주는 실제 크리에이티브 개발에 전혀 관여하지 않는다”고 말했다. 성과는 주로 ChatGPT, Gemini, Google의 AI Overviews에서 추적한다. Profound는 이 거래에서 몫을 받지 않는다."
+                "x": "Amazon은 Anthropic을 직접 언급했다. “Anthropic의 Claude 파운데이션 모델 같은 모델을 모델 선정과 지속적인 측정 과정에서 평가한다.” 생성형 모델이 “같은 페이지라도 평가할 때마다 다른 결과를 낼 수 있다”는 점도 인정했다."
+              },
+              {
+                "t": "p",
+                "x": "Brand Unsafe Impression Rate(브랜드 유해 노출률)는 실제 게재된 노출 표본을 검토자가 판단해 산출하며, 평가할 수 없었던 페이지는 비율에서 뺀다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bustle、AIの回答に\n載る道をブランドへ販売",
-          "body": "BustleはProfoundで、PampersやInnisfreeのAI露出を高める。",
-          "mini_headline": "BustleがAI露出を販売",
+          "headline": "Amazon、DVA広告の\n不適切ページは0.1%未満",
+          "body": "AmazonAdBotがウェブを巡回し、危険なページはClaudeなどのAIが分類する。",
+          "mini_headline": "Amazon、DVAのブランドセーフティにAI活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazonによると、DVAのウェブ広告が不適切なページに表示されるのは0.1%未満。MRC認定はまだ得ていない"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Groupは、ProfoundのAI計測ツールを使い、PampersやInnisfreeなどのブランドがAI-generatedのレコメンドに表示されるよう支援している。社内でECHOと呼ばれるこのGEOサービスは、Profoundの分析と、BDGのコンテンツで学習したAIエージェントを使ってクリエイティブブリーフを作成する。少なくとも三つのブランドが対価を支払った。"
+                "x": "Amazon Adsは、Display、Video、Audioキャンペーンの広告を不適切なウェブページから遠ざけるための手順を公開し、対象インベントリのインプレッションのうちブランドセーフティの基準を下回るコンテンツに配信されたのは0.1%未満だとした。この手順はMedia Rating Councilに提出済みだが、「本文書の日付時点では認定を受けていない」。"
               },
               {
                 "t": "p",
-                "x": "Profoundのデータに基づくBDGのケーススタディによると、あるキャンペーンでは、追跡対象の200のスキンケア関連プロンプトにおけるInnisfreeの可視性が30%向上し、Bustleの引用順位は#709から#12に上がった。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "出典：BDG"
+                "x": "対象は英語(English-language)のサードパーティサイトに限られる。九つのカテゴリーはすべての広告主に対してブロックされ、広告主はこの初期設定を外せない。"
               },
               {
                 "t": "p",
-                "x": "Pampersは、Scary Mommyの解説記事の掲載後、無香料おむつに関する質問でのAI可視性が#2から#1に上がった。"
+                "x": "AmazonAdBotと名乗るクローラーがページをレンダリングする。公開済みのオープンモデルをもとに調整した二つのモデルが各ページを採点し、「いずれかのモデルが高いリスクを検知した場合」、ページを画像として受け取る二つの基盤モデルに回す。二つ目のモデルは「確認できない判定を除外し」、「判定が確認された場合に限りページをブロックする」。"
               },
               {
                 "t": "p",
-                "x": "BDGとProfoundはまず八〜10のトピックと、それぞれ25〜50のプロンプトを分析する。次にエージェントがブリーフを設計し、BDGの編集者がそれに沿って執筆、コンテンツはRedditでクロスプロモーションされる。BDGの配信・AIインテリジェンス担当svp、Graham Howes氏は「広告主は実際のクリエイティブ制作に一切関与しない」と語った。成果は主にChatGPT、Gemini、GoogleのAI Overviewsで追跡される。Profoundはこれらの取引から分け前を受け取らない。"
+                "x": "AmazonはAnthropicの名を挙げ、「AnthropicのClaude基盤モデルなどのモデルを、モデル選定と継続的な測定の一環として評価している」と記す。生成モデルが「同じページでも評価のたびに異なる結果を返しうる」ことも認めている。"
+              },
+              {
+                "t": "p",
+                "x": "Brand Unsafe Impression Rate(ブランド上不適切なインプレッションの比率)は、配信済みインプレッションのサンプルをレビュー担当者が判定して算出し、評価できなかったページは比率から除外される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bustle向品牌兜售\nAI聊天机器人曝光",
-          "body": "Bustle借助Profound，帮Pampers和Innisfree提升AI曝光。",
-          "mini_headline": "Bustle出售AI可见度",
+          "headline": "Amazon：DVA广告\n不安全页面占比不足0.1%",
+          "body": "Amazon称AmazonAdBot抓取网页，风险页面交由Claude等AI分类。",
+          "mini_headline": "Amazon 用 AI 保障 DVA 品牌安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazon 称 DVA 网页广告落在不安全页面上的不足 0.1%；尚未获得 MRC 认证"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Group正借助Profound的AI测量工具，帮助Pampers、Innisfree等品牌出现在AI-generated推荐中。这项内部代号为ECHO的GEO服务，利用Profound的分析和以BDG内容训练的AI智能体来生成创意简报。至少已有三个品牌为此付费。"
+                "x": "Amazon Ads 公布了让 Display、Video 和 Audio 广告系列避开不安全网页的流程，并称在其覆盖的库存中，投放到低于品牌安全底线内容旁的展示不足 0.1%。该流程已提交给 Media Rating Council，但“截至本文件日期尚未获得认证”。"
               },
               {
                 "t": "p",
-                "x": "根据一份基于Profound数据的BDG案例研究，在一次活动中，Innisfree在200个被追踪的护肤类提示词中的可见度提升了30%，而Bustle的引用排名从#709升至#12。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "来源：BDG"
+                "x": "适用范围仅限英文（English-language）第三方网站。九个类别对所有广告主一律屏蔽，广告主无法取消这一默认设置。"
               },
               {
                 "t": "p",
-                "x": "在Scary Mommy发布一篇解读文章后，Pampers在无香型纸尿裤相关问题上的AI可见度从#2升至#1。"
+                "x": "一个自称 AmazonAdBot 的爬虫负责渲染页面。两个基于已公开开放模型调校的模型为每个页面打分；“如果任一模型识别出较高风险”，页面就会交给两个以图像形式接收页面的基础模型。第二个模型“会剔除无法确认的结果”，并且“只有在结果得到确认时才会屏蔽页面”。"
               },
               {
                 "t": "p",
-                "x": "BDG和Profound先分析八到10个主题，每个主题25到50个提示词；随后由智能体设计简报，BDG编辑据此撰稿，内容再在Reddit上交叉推广。BDG分发与AI情报svp Graham Howes表示：“广告主完全不参与实际的创意开发。”效果主要在ChatGPT、Gemini和Google的AI Overviews上追踪。Profound不从这些交易中抽成。"
+                "x": "Amazon 点名了 Anthropic：“诸如所使用的 Anthropic Claude 基础模型等模型，会在模型选择和持续测量中接受评估。”它也承认生成式模型“对同一页面的不同次评估可能给出不同结果”。"
+              },
+              {
+                "t": "p",
+                "x": "Brand Unsafe Impression Rate（品牌不安全展示率）由审核人员对已投放展示的样本进行判定；无法评估的页面不计入该比率。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bustle vende a las marcas\npresencia en chatbots de AI",
-          "body": "Con herramientas de Profound, Bustle vende a Pampers e Innisfree un servicio para ganar visibilidad en chatbots de AI.",
-          "mini_headline": "Bustle vende visibilidad en AI",
+          "headline": "Amazon: menos del 0.1% de DVA\ncae en páginas inseguras",
+          "body": "Amazon dice que AmazonAdBot rastrea la web y envía páginas de riesgo a modelos de AI como Claude para clasificarlas.",
+          "mini_headline": "Amazon usa AI para la seguridad de marca en DVA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+                "cap": "Amazon afirma que menos del 0.1% de sus anuncios web de DVA llega a páginas inseguras; la acreditación del MRC aún no se ha concedido"
               },
               {
                 "t": "p",
-                "x": "Bustle Digital Group usa las herramientas de medición de AI de Profound para ayudar a marcas como Pampers e Innisfree a aparecer en recomendaciones AI-generated. La oferta de GEO, llamada internamente ECHO, emplea la analítica de Profound y agentes de AI entrenados con contenido de BDG para generar briefs creativos. Al menos tres marcas han pagado por ella."
+                "x": "Amazon Ads ha publicado el proceso que utiliza para mantener los anuncios de campañas de Display, Video y Audio fuera de páginas web inseguras, y afirma que menos del 0.1% de las impresiones del inventario que cubre se sirven junto a contenido por debajo de su umbral de seguridad de marca. El proceso se ha presentado al Media Rating Council, pero “no está acreditado a la fecha de este documento”."
               },
               {
                 "t": "p",
-                "x": "En una campaña, la visibilidad de Innisfree en 200 prompts de cuidado de la piel monitorizados creció un 30%, mientras que el ranking de citas de Bustle subió del #709 al #12, según un caso de estudio de BDG basado en datos de Profound."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Innisfree_ChatGPTScreenshot-1.jpeg",
-                "cap": "Fuente: BDG"
+                "x": "El alcance abarca solo sitios web de terceros en inglés (English-language). Nueve categorías están bloqueadas para todos los anunciantes, y estos no pueden eliminar esa configuración predeterminada."
               },
               {
                 "t": "p",
-                "x": "Pampers pasó del #2 al #1 en visibilidad en AI para preguntas sobre pañales sin fragancia tras un artículo explicativo de Scary Mommy."
+                "x": "Un rastreador que se identifica como AmazonAdBot renderiza las páginas. Dos modelos ajustados, construidos a partir de modelos abiertos publicados, puntúan cada página; “si cualquiera de los modelos identifica un riesgo elevado”, la página pasa a dos modelos fundacionales que la reciben como imagen. El segundo “elimina los hallazgos que no puede confirmar”, y “una página solo se bloquea cuando se confirma un hallazgo”."
               },
               {
                 "t": "p",
-                "x": "BDG y Profound analizan primero de ocho a 10 temas y de 25 a 50 prompts por tema; luego los agentes diseñan briefs con los que escriben los editores de BDG, y el contenido se promociona de forma cruzada en Reddit. “El anunciante no participa en absoluto en el desarrollo creativo real”, dijo Graham Howes, svp de distribución e inteligencia de AI en BDG. Los resultados se siguen sobre todo en ChatGPT, Gemini y AI Overviews de Google. Profound no recibe comisión de estos acuerdos."
+                "x": "Amazon nombra a Anthropic: “Modelos como los modelos fundacionales Claude que se usan de Anthropic se evalúan como parte de la selección de modelos y de la medición continua”. Admite que los modelos generativos “pueden devolver resultados distintos para la misma página en evaluaciones diferentes”."
+              },
+              {
+                "t": "p",
+                "x": "El Brand Unsafe Impression Rate lo determinan revisores sobre una muestra de impresiones servidas; las páginas que no pudieron evaluarse quedan excluidas de la tasa."
               }
             ]
           }
@@ -1361,15 +1591,15 @@
       }
     },
     {
-      "id": "tone-belfort-ai-sales-voice",
+      "id": "salesforce-copilotforce-microsoft",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Jordan Belfort\n세일즈 AI 음성 Tone",
-      "body": "Jordan Belfort는 Tone의 AI가 아직 최고 영업자만 못하다고 했다.",
-      "mini_headline": "Belfort의 AI 세일즈 음성",
+      "headline": "Salesforce와\nMicrosoft 제휴",
+      "body": "Copilotforce로 Salesforce CRM이 Teams에 들어온다.",
+      "mini_headline": "Salesforce, Copilot에 CRM 연결",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "source": "Salesforce",
+      "url": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1377,203 +1607,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-            "cap": "이미지 출처: Osiris Media, Inc"
+            "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
           },
           {
             "t": "p",
-            "x": "스스로 “Wolf of Wall Street”라 부르는 Jordan Belfort가 음성 기반 AI 플랫폼 Tone을 만들고 있다. 비결은 거래를 따내는 어조를 음성에 입히는 데 있다고 그는 말한다. 예컨대 평서문을 질문처럼 말하고 때로는 속삭이기까지 한다."
+            "x": "Salesforce와 Microsoft가 오늘 Microsoft Ignite에서 Copilotforce를 발표했다. Salesforce를 Microsoft 기업용 생산성 생태계 안으로 들이는 파트너십이며, Microsoft Copilot, Microsoft Teams, Microsoft Fabric 곳곳에 새 통합 기능이 붙는다."
           },
           {
             "t": "p",
-            "x": "Belfort에 따르면 영업 인력이 감당 못 할 만큼 리드가 많은 기업들이 이미 Tone을 쓰고 있다. “표현력 있는 AI-generated 내레이션”을 원하는 크리에이터와 작가용 셀프서비스 플랫폼도 내놓는 중이다. 음성 복제 기능도 배포 중이다. 공동 창업자는 투자자 Shervin Pishevar이며, TechCrunch는 이 기술이 설명대로 작동하는지 독자적으로 검증할 수 없다고 밝혔다."
+            "x": "영업 담당자는 Salesforce in Microsoft Copilot에서 Teams 대화, Outlook 이메일, 공유 문서를 근거로 Salesforce 고객 맥락을 불러온다. 영업 기회 분석과 회의 준비, CRM 작업 실행도 여기서 한다. 워크플로에는 Word와 PowerPoint 안에서 하는 회의 준비, 거래 건전성(deal-health) 분석, 파이프라인 클로징 계획이 담겼다."
           },
           {
             "t": "p",
-            "x": "“법률 사무소와 건강보험사가 고객이다. 여론조사와 자동차 분야에서도 많이 쓴다”고 Belfort는 말한다. “지연 시간은 600밀리초 정도다… 말 그대로 판매 전체를 처리한다.”"
+            "x": "아직 파일럿인 Sales Cloud in Teams 앱은 실시간 CRM 인사이트를 Teams로 끌어온다. 영업 담당자는 그 자리에서 Agentforce Coworker와 바로 조치에 나선다. 양방향 Zero Copy 통합은 데이터 세트를 복제하지 않은 채 Salesforce Data 360과 Microsoft Fabric을 잇는다."
           },
           {
             "t": "p",
-            "x": "성사율을 두고 그는 “아직 최고 영업자만큼 좋지는 않다고 본다. 현장의 최고 영업자라면 통화마다 이길 것이다. 앞으로 여섯 달에서 한 해 사이에 달라질 것”이라고 말했다. Tone은 “자체 개발한 아주 작고 아주 가벼운 모델”을 쓰며, 그는 Tone이 “평범한 클로저를 크게 앞설 것”이라고 본다."
+            "x": "Microsoft Commercial Business CEO Judson Althoff는 “AI의 힘은 그 바탕이 되는 데이터와 맥락만큼만 강하다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Belfort는 매출을 “아마 백만 달러쯤 — $700,000 정도일 것”이라고 했고, 투자 유치액은 약 $10 million이다. 그는 Tone이 수신에 동의한(opt-in) 리드나 기존 고객에게만 전화한다고 말한다."
+            "x": "Accenture는 설계·구축 파트너이자 Customer Zero를 맡았다. Salesforce in Microsoft Copilot은 Public Preview (Beta) 단계이고 Data Federation은 정식 출시됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Jordan Belfort's Tone builds\nan AI voice that sells",
-          "body": "Jordan Belfort says Tone's AI sales voice agent still falls short of a top human producer, call for call.",
-          "mini_headline": "Belfort's AI sales voice",
+          "headline": "Salesforce and Microsoft\nannounce Copilotforce",
+          "body": "Copilotforce brings Salesforce customer context and sales workflows into Copilot and CRM collaboration into Teams.",
+          "mini_headline": "Salesforce brings CRM into Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "Image Credits:Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Jordan Belfort, the self-proclaimed \"Wolf of Wall Street,\" is building a voice-based AI platform called Tone. The secret sauce, he says, is that it imbues its voices with the kind of tonality that wins deals, for example by phrasing declarative statements as questions and even whispering at times."
+                "x": "Today at Microsoft Ignite, Salesforce and Microsoft announced Copilotforce, a partnership bringing Salesforce to Microsoft's enterprise productivity ecosystem, with new integrations across Microsoft Copilot, Microsoft Teams, and Microsoft Fabric."
               },
               {
                 "t": "p",
-                "x": "Belfort says Tone is already used by companies that have more sales leads than their human teams can handle, and it is launching a self-service platform for creators and authors who want \"expressive AI-generated narration,\" with voice cloning rolling out. His co-founder is investor Shervin Pishevar; TechCrunch notes it can't independently verify that the technology works as described."
+                "x": "With Salesforce in Microsoft Copilot, sellers will be able to access Salesforce customer context, analyze opportunities, prepare for meetings and take CRM actions informed by Teams conversations, Outlook emails, and shared documents. Workflows include meeting preparation, deal-health analysis, and pipeline close plans inside Word and PowerPoint."
               },
               {
                 "t": "p",
-                "x": "\"We have law firms and health insurance companies. We do a lot in polling and automobiles,\" Belfort says. \"Our latency is like 600 milliseconds… It does literally the whole entire sale.\""
+                "x": "The Sales Cloud in Teams app, in pilot, brings real-time CRM insights to Teams, where sellers can act with Agentforce Coworker. Bidirectional Zero Copy integration connects Salesforce Data 360 and Microsoft Fabric without duplicating datasets."
               },
               {
                 "t": "p",
-                "x": "On close rates: \"I still don't think it's quite as good as a top producer. A top producer in the field would outdo it call for call. I think that will change in the next six months to a year.\" Tone uses \"our own very small, very light models,\" and he thinks it \"will significantly outperform a mediocre closer.\""
+                "x": "“AI is only as powerful as the data and context that grounds it,” said Judson Althoff, CEO, Microsoft Commercial Business."
               },
               {
                 "t": "p",
-                "x": "Belfort puts revenue at \"probably about a million bucks — $700,000, maybe,\" with about $10 million raised. Tone only calls opt-in leads or existing customers, he says."
+                "x": "Accenture is the design and implementation partner and Customer Zero. Salesforce in Microsoft Copilot is in Public Preview (Beta); Data Federation is generally available."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Jordan Belfort\n세일즈 AI 음성 Tone",
-          "body": "Jordan Belfort는 Tone의 AI가 아직 최고 영업자만 못하다고 했다.",
-          "mini_headline": "Belfort의 AI 세일즈 음성",
+          "headline": "Salesforce와\nMicrosoft 제휴",
+          "body": "Copilotforce로 Salesforce CRM이 Teams에 들어온다.",
+          "mini_headline": "Salesforce, Copilot에 CRM 연결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "이미지 출처: Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "스스로 “Wolf of Wall Street”라 부르는 Jordan Belfort가 음성 기반 AI 플랫폼 Tone을 만들고 있다. 비결은 거래를 따내는 어조를 음성에 입히는 데 있다고 그는 말한다. 예컨대 평서문을 질문처럼 말하고 때로는 속삭이기까지 한다."
+                "x": "Salesforce와 Microsoft가 오늘 Microsoft Ignite에서 Copilotforce를 발표했다. Salesforce를 Microsoft 기업용 생산성 생태계 안으로 들이는 파트너십이며, Microsoft Copilot, Microsoft Teams, Microsoft Fabric 곳곳에 새 통합 기능이 붙는다."
               },
               {
                 "t": "p",
-                "x": "Belfort에 따르면 영업 인력이 감당 못 할 만큼 리드가 많은 기업들이 이미 Tone을 쓰고 있다. “표현력 있는 AI-generated 내레이션”을 원하는 크리에이터와 작가용 셀프서비스 플랫폼도 내놓는 중이다. 음성 복제 기능도 배포 중이다. 공동 창업자는 투자자 Shervin Pishevar이며, TechCrunch는 이 기술이 설명대로 작동하는지 독자적으로 검증할 수 없다고 밝혔다."
+                "x": "영업 담당자는 Salesforce in Microsoft Copilot에서 Teams 대화, Outlook 이메일, 공유 문서를 근거로 Salesforce 고객 맥락을 불러온다. 영업 기회 분석과 회의 준비, CRM 작업 실행도 여기서 한다. 워크플로에는 Word와 PowerPoint 안에서 하는 회의 준비, 거래 건전성(deal-health) 분석, 파이프라인 클로징 계획이 담겼다."
               },
               {
                 "t": "p",
-                "x": "“법률 사무소와 건강보험사가 고객이다. 여론조사와 자동차 분야에서도 많이 쓴다”고 Belfort는 말한다. “지연 시간은 600밀리초 정도다… 말 그대로 판매 전체를 처리한다.”"
+                "x": "아직 파일럿인 Sales Cloud in Teams 앱은 실시간 CRM 인사이트를 Teams로 끌어온다. 영업 담당자는 그 자리에서 Agentforce Coworker와 바로 조치에 나선다. 양방향 Zero Copy 통합은 데이터 세트를 복제하지 않은 채 Salesforce Data 360과 Microsoft Fabric을 잇는다."
               },
               {
                 "t": "p",
-                "x": "성사율을 두고 그는 “아직 최고 영업자만큼 좋지는 않다고 본다. 현장의 최고 영업자라면 통화마다 이길 것이다. 앞으로 여섯 달에서 한 해 사이에 달라질 것”이라고 말했다. Tone은 “자체 개발한 아주 작고 아주 가벼운 모델”을 쓰며, 그는 Tone이 “평범한 클로저를 크게 앞설 것”이라고 본다."
+                "x": "Microsoft Commercial Business CEO Judson Althoff는 “AI의 힘은 그 바탕이 되는 데이터와 맥락만큼만 강하다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Belfort는 매출을 “아마 백만 달러쯤 — $700,000 정도일 것”이라고 했고, 투자 유치액은 약 $10 million이다. 그는 Tone이 수신에 동의한(opt-in) 리드나 기존 고객에게만 전화한다고 말한다."
+                "x": "Accenture는 설계·구축 파트너이자 Customer Zero를 맡았다. Salesforce in Microsoft Copilot은 Public Preview (Beta) 단계이고 Data Federation은 정식 출시됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Jordan Belfort\n売り込むAI音声Tone",
-          "body": "Jordan BelfortはToneのAI営業音声がまだトップ営業に及ばないと語る。",
-          "mini_headline": "BelfortのAI営業音声",
+          "headline": "Salesforceと\nMicrosoftが提携",
+          "body": "CopilotforceでSalesforceのCRMがCopilotとTeamsに入る。",
+          "mini_headline": "SalesforceがCRMをCopilotへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "画像クレジット：Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "「Wolf of Wall Street」を自称するJordan Belfortが、音声ベースのAIプラットフォーム「Tone」を構築している。彼によれば秘訣は、取引を勝ち取る抑揚を音声に持たせることにある。たとえば断定文を疑問形で言い、時にはささやきさえする。"
+                "x": "SalesforceとMicrosoftは本日、Microsoft IgniteでCopilotforceを発表した。SalesforceをMicrosoftの企業向け生産性エコシステムに取り込む提携で、Microsoft Copilot、Microsoft Teams、Microsoft Fabricにまたがる新たな連携を提供する。"
               },
               {
                 "t": "p",
-                "x": "Belfortによると、Toneはすでに営業チームでは処理しきれないほどの見込み客を抱える企業で使われており、「表現力豊かなAI-generatedナレーション」を求めるクリエイターや作家向けのセルフサービス型プラットフォームも立ち上げている。音声クローン機能も順次提供中だ。共同創業者は投資家のShervin Pishevarで、TechCrunchはこの技術が説明どおりに機能するかを独自に検証できないとしている。"
+                "x": "Salesforce in Microsoft Copilotにより、営業担当者はTeamsの会話、Outlookのメール、共有ドキュメントを踏まえて、Salesforceの顧客情報の参照、商談の分析、会議の準備、CRM上の操作ができるようになる。ワークフローには、WordとPowerPoint内での会議準備、案件の健全性(deal-health)分析、パイプラインのクロージング計画が含まれる。"
               },
               {
                 "t": "p",
-                "x": "「顧客には法律事務所や健康保険会社がいる。世論調査や自動車の分野でも多く使われている」とBelfortは言う。「レイテンシーは600ミリ秒ほどだ……文字どおり販売の全工程をこなす」"
+                "x": "試験運用中のSales Cloud in TeamsアプリはリアルタイムのCRMインサイトをTeamsに届け、営業担当者はそこでAgentforce Coworkerとともに対応できる。双方向のZero Copy連携は、データセットを複製せずにSalesforce Data 360とMicrosoft Fabricをつなぐ。"
               },
               {
                 "t": "p",
-                "x": "成約率については、「まだトップの営業担当者ほどではないと思う。現場のトップ営業なら一件一件の通話で上回るだろう。それも六か月から一年で変わると思う」と語る。Toneは「自社開発の非常に小さく非常に軽いモデル」を使っており、彼は「凡庸なクローザーを大きく上回る」と考えている。"
+                "x": "Microsoft Commercial BusinessのCEO、Judson Althoffは「AIの力は、それを支えるデータと文脈で決まる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Belfortは売上を「たぶん百万ドルくらい——$700,000かな」とし、調達額は約$10 millionだという。Toneが電話するのはオプトイン(opt-in)した見込み客か既存顧客だけだと彼は言う。"
+                "x": "Accentureは設計・導入パートナーであり、Customer Zeroでもある。Salesforce in Microsoft CopilotはPublic Preview (Beta)の段階で、Data Federationは一般提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Jordan Belfort\n打造会销售的AI语音Tone",
-          "body": "Jordan Belfort称，Tone的AI销售语音代理逐通电话来看仍不及顶尖销售。",
-          "mini_headline": "Belfort的AI销售语音",
+          "headline": "Salesforce 携手\nMicrosoft 发布合作",
+          "body": "Copilotforce将Salesforce的CRM带入Copilot与Teams。",
+          "mini_headline": "Salesforce 将 CRM 带入 Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "图片来源：Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "自称“Wolf of Wall Street”的Jordan Belfort正在打造一个名为Tone的语音AI平台。他说，秘诀在于让语音带上能拿下交易的语调，比如把陈述句说成问句，有时甚至压低声音耳语。"
+                "x": "今天在 Microsoft Ignite 上，Salesforce 与 Microsoft 宣布推出 Copilotforce。这项合作将 Salesforce 引入 Microsoft 的企业生产力生态，并在 Microsoft Copilot、Microsoft Teams 和 Microsoft Fabric 中带来新的集成。"
               },
               {
                 "t": "p",
-                "x": "Belfort称，Tone已被一些销售线索多到人工团队应付不过来的公司使用，并正为想要“富有表现力的AI-generated旁白”的创作者和作者推出自助服务平台，语音克隆功能也在陆续上线。他的联合创始人是投资人Shervin Pishevar；TechCrunch指出，无法独立核实这项技术是否如其所述。"
+                "x": "借助 Salesforce in Microsoft Copilot，销售人员可以结合 Teams 对话、Outlook 邮件和共享文档，查看 Salesforce 客户信息、分析商机、准备会议并执行 CRM 操作。工作流包括在 Word 和 PowerPoint 中准备会议、分析交易健康度（deal-health）以及制定管道成交计划。"
               },
               {
                 "t": "p",
-                "x": "“我们的客户有律师事务所和健康保险公司。在民调和汽车领域也做得很多，”Belfort说。“我们的延迟大约600毫秒……它真的能完成整个销售。”"
+                "x": "处于试点阶段的 Sales Cloud in Teams 应用把实时 CRM 洞察带进 Teams，销售人员可以在其中借助 Agentforce Coworker 直接采取行动。双向 Zero Copy 集成在不复制数据集的情况下连接 Salesforce Data 360 与 Microsoft Fabric。"
               },
               {
                 "t": "p",
-                "x": "谈到成交率，他说：“我仍然觉得它还不如顶尖销售。一线的顶尖销售逐通电话都能胜过它。我认为未来六个月到一年会有改变。”Tone使用“我们自己的非常小、非常轻的模型”，他认为它“会显著胜过平庸的成交员”。"
+                "x": "Microsoft Commercial Business CEO Judson Althoff 表示：“AI 的强大程度，取决于支撑它的数据和上下文。”"
               },
               {
                 "t": "p",
-                "x": "Belfort估计收入“大概百万美元左右——也许是$700,000”，融资约$10 million。他说，Tone只给主动同意（opt-in）的潜在客户或现有客户打电话。"
+                "x": "Accenture 是设计与实施合作伙伴，也是 Customer Zero。Salesforce in Microsoft Copilot 目前处于 Public Preview (Beta) 阶段；Data Federation 已全面上市。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tone, de Jordan Belfort, crea\nuna voz de AI que vende",
-          "body": "Jordan Belfort dice que el agente de voz de ventas AI de Tone aún no iguala a un vendedor humano de élite.",
-          "mini_headline": "La voz de ventas AI de Belfort",
+          "headline": "Salesforce y Microsoft\nanuncian Copilotforce",
+          "body": "Copilotforce lleva el contexto de clientes y flujos de ventas de Salesforce a Copilot, y la colaboración CRM a Teams.",
+          "mini_headline": "Salesforce lleva el CRM a Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "Créditos de imagen: Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Jordan Belfort, el autoproclamado “Wolf of Wall Street”, está construyendo una plataforma de AI basada en voz llamada Tone. El ingrediente secreto, según él, es que dota a sus voces del tipo de tono que cierra tratos, por ejemplo formulando afirmaciones como preguntas e incluso susurrando a veces."
+                "x": "Hoy, en Microsoft Ignite, Salesforce y Microsoft anunciaron Copilotforce, una alianza que lleva Salesforce al ecosistema de productividad empresarial de Microsoft, con nuevas integraciones en Microsoft Copilot, Microsoft Teams y Microsoft Fabric."
               },
               {
                 "t": "p",
-                "x": "Belfort dice que Tone ya lo usan empresas con más clientes potenciales de los que sus equipos humanos pueden atender, y que está lanzando una plataforma de autoservicio para creadores y autores que buscan “narración AI-generated expresiva”, con la clonación de voz en despliegue. Su cofundador es el inversor Shervin Pishevar; TechCrunch señala que no puede verificar de forma independiente que la tecnología funcione como se describe."
+                "x": "Con Salesforce in Microsoft Copilot, los vendedores podrán acceder al contexto de clientes de Salesforce, analizar oportunidades, preparar reuniones y ejecutar acciones de CRM a partir de conversaciones de Teams, correos de Outlook y documentos compartidos. Los flujos de trabajo incluyen la preparación de reuniones, el análisis de la salud de los acuerdos (deal-health) y planes de cierre del pipeline dentro de Word y PowerPoint."
               },
               {
                 "t": "p",
-                "x": "“Tenemos bufetes de abogados y aseguradoras de salud. Hacemos mucho en encuestas y automóviles”, dice Belfort. “Nuestra latencia es de unos 600 milisegundos… Literalmente hace toda la venta completa”."
+                "x": "La app Sales Cloud in Teams, en fase piloto, lleva información de CRM en tiempo real a Teams, donde los vendedores pueden actuar con Agentforce Coworker. La integración bidireccional Zero Copy conecta Salesforce Data 360 y Microsoft Fabric sin duplicar conjuntos de datos."
               },
               {
                 "t": "p",
-                "x": "Sobre las tasas de cierre: “Sigo pensando que no es tan bueno como un vendedor de primer nivel. Un vendedor de primer nivel en el terreno lo superaría llamada a llamada. Creo que eso cambiará en los próximos seis meses a un año”. Tone usa “nuestros propios modelos muy pequeños y muy ligeros”, y él cree que “superará con creces a un cerrador mediocre”."
+                "x": "“La AI solo es tan potente como los datos y el contexto que la sustentan”, dijo Judson Althoff, CEO de Microsoft Commercial Business."
               },
               {
                 "t": "p",
-                "x": "Belfort sitúa los ingresos en “probablemente alrededor de un millón de dólares; $700,000, quizá”, con unos $10 million recaudados. Según él, Tone solo llama a clientes potenciales que han dado su consentimiento (opt-in) o a clientes existentes."
+                "x": "Accenture es el socio de diseño e implementación y Customer Zero. Salesforce in Microsoft Copilot está en Public Preview (Beta); Data Federation ya está disponible de forma general."
               }
             ]
           }
@@ -1581,141 +1805,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Jordan Belfort\n세일즈 AI 음성 Tone",
-          "body": "Jordan Belfort는 Tone의 AI가 아직 최고 영업자만 못하다고 했다.",
-          "mini_headline": "Belfort의 AI 세일즈 음성",
+          "headline": "Salesforce와\nMicrosoft 제휴",
+          "body": "Copilotforce로 Salesforce CRM이 Teams에 들어온다.",
+          "mini_headline": "Salesforce, Copilot에 CRM 연결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "이미지 출처: Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "스스로 “Wolf of Wall Street”라 부르는 Jordan Belfort가 음성 기반 AI 플랫폼 Tone을 만들고 있다. 그가 말하는 비결은 거래를 따내는 어조를 음성에 입힌다는 점이다. 예컨대 평서문을 질문처럼 말하고 때로는 속삭이기까지 한다."
+                "x": "Salesforce와 Microsoft가 오늘 Microsoft Ignite에서 Copilotforce를 발표했다. Salesforce를 Microsoft의 기업용 생산성 생태계로 들여오는 파트너십으로, Microsoft Copilot, Microsoft Teams, Microsoft Fabric 전반에 새 통합 기능을 더한다."
               },
               {
                 "t": "p",
-                "x": "Belfort에 따르면 Tone은 이미 영업 인력이 감당하지 못할 만큼 리드가 많은 기업들이 쓰고 있으며, “표현력 있는 AI-generated 내레이션”을 원하는 크리에이터와 작가를 위한 셀프서비스 플랫폼도 내놓고 있다. 음성 복제 기능도 배포 중이다. 공동 창업자는 투자자 Shervin Pishevar이며, TechCrunch는 이 기술이 설명대로 작동하는지 독자적으로 검증할 수 없다고 밝혔다."
+                "x": "Salesforce in Microsoft Copilot을 쓰면 영업 담당자는 Teams 대화, Outlook 이메일, 공유 문서를 바탕으로 Salesforce 고객 맥락에 접근하고, 영업 기회를 분석하고, 회의를 준비하고, CRM 작업을 실행할 수 있다. 워크플로에는 Word와 PowerPoint 안에서 하는 회의 준비, 거래 건전성(deal-health) 분석, 파이프라인 클로징 계획이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "“법률 사무소와 건강보험사가 고객이다. 여론조사와 자동차 분야에서도 많이 쓴다”고 Belfort는 말한다. “지연 시간은 600밀리초 정도다… 말 그대로 판매 전체를 처리한다.”"
+                "x": "파일럿 단계인 Sales Cloud in Teams 앱은 실시간 CRM 인사이트를 Teams로 가져오며, 영업 담당자는 그 안에서 Agentforce Coworker와 함께 바로 조치할 수 있다. 양방향 Zero Copy 통합은 데이터 세트를 복제하지 않고 Salesforce Data 360과 Microsoft Fabric을 연결한다."
               },
               {
                 "t": "p",
-                "x": "성사율에 대해 그는 “아직 최고 영업자만큼 좋지는 않다고 본다. 현장의 최고 영업자라면 통화마다 이길 것이다. 앞으로 여섯 달에서 한 해 사이에 달라질 것”이라고 말했다. Tone은 “자체 개발한 아주 작고 아주 가벼운 모델”을 쓰며, 그는 Tone이 “평범한 클로저를 크게 앞설 것”이라고 본다."
+                "x": "Microsoft Commercial Business CEO Judson Althoff는 “AI의 힘은 그 바탕이 되는 데이터와 맥락만큼만 강하다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Belfort는 매출을 “아마 백만 달러쯤 — $700,000 정도일 것”이라고 했고, 투자 유치액은 약 $10 million이다. 그는 Tone이 수신에 동의한(opt-in) 리드나 기존 고객에게만 전화한다고 말한다."
+                "x": "Accenture는 설계·구축 파트너이자 Customer Zero다. Salesforce in Microsoft Copilot은 Public Preview (Beta) 단계이며, Data Federation은 정식 출시됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Jordan Belfort\n売り込むAI音声Tone",
-          "body": "Jordan BelfortはToneのAI営業音声がまだトップ営業に及ばないと語る。",
-          "mini_headline": "BelfortのAI営業音声",
+          "headline": "Salesforceと\nMicrosoftが提携",
+          "body": "CopilotforceでSalesforceのCRMがCopilotとTeamsに入る。",
+          "mini_headline": "SalesforceがCRMをCopilotへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "画像クレジット：Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "「Wolf of Wall Street」を自称するJordan Belfortが、音声ベースのAIプラットフォーム「Tone」を構築している。彼によれば秘訣は、取引を勝ち取る抑揚を音声に持たせることにある。たとえば断定文を疑問形で言い、時にはささやきさえする。"
+                "x": "SalesforceとMicrosoftは本日、Microsoft IgniteでCopilotforceを発表した。SalesforceをMicrosoftの企業向け生産性エコシステムに取り込む提携で、Microsoft Copilot、Microsoft Teams、Microsoft Fabricにまたがる新たな連携を提供する。"
               },
               {
                 "t": "p",
-                "x": "Belfortによると、Toneはすでに営業チームでは処理しきれないほどの見込み客を抱える企業で使われており、「表現力豊かなAI-generatedナレーション」を求めるクリエイターや作家向けのセルフサービス型プラットフォームも立ち上げている。音声クローン機能も順次提供中だ。共同創業者は投資家のShervin Pishevarで、TechCrunchはこの技術が説明どおりに機能するかを独自に検証できないとしている。"
+                "x": "Salesforce in Microsoft Copilotにより、営業担当者はTeamsの会話、Outlookのメール、共有ドキュメントを踏まえて、Salesforceの顧客情報の参照、商談の分析、会議の準備、CRM上の操作ができるようになる。ワークフローには、WordとPowerPoint内での会議準備、案件の健全性(deal-health)分析、パイプラインのクロージング計画が含まれる。"
               },
               {
                 "t": "p",
-                "x": "「顧客には法律事務所や健康保険会社がいる。世論調査や自動車の分野でも多く使われている」とBelfortは言う。「レイテンシーは600ミリ秒ほどだ……文字どおり販売の全工程をこなす」"
+                "x": "試験運用中のSales Cloud in TeamsアプリはリアルタイムのCRMインサイトをTeamsに届け、営業担当者はそこでAgentforce Coworkerとともに対応できる。双方向のZero Copy連携は、データセットを複製せずにSalesforce Data 360とMicrosoft Fabricをつなぐ。"
               },
               {
                 "t": "p",
-                "x": "成約率については、「まだトップの営業担当者ほどではないと思う。現場のトップ営業なら一件一件の通話で上回るだろう。それも六か月から一年で変わると思う」と語る。Toneは「自社開発の非常に小さく非常に軽いモデル」を使っており、彼は「凡庸なクローザーを大きく上回る」と考えている。"
+                "x": "Microsoft Commercial BusinessのCEO、Judson Althoffは「AIの力は、それを支えるデータと文脈で決まる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Belfortは売上を「たぶん百万ドルくらい——$700,000かな」とし、調達額は約$10 millionだという。Toneが電話するのはオプトイン(opt-in)した見込み客か既存顧客だけだと彼は言う。"
+                "x": "Accentureは設計・導入パートナーであり、Customer Zeroでもある。Salesforce in Microsoft CopilotはPublic Preview (Beta)の段階で、Data Federationは一般提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Jordan Belfort\n打造会销售的AI语音Tone",
-          "body": "Jordan Belfort称，Tone的AI销售语音代理逐通电话来看仍不及顶尖销售。",
-          "mini_headline": "Belfort的AI销售语音",
+          "headline": "Salesforce 携手\nMicrosoft 发布合作",
+          "body": "Copilotforce将Salesforce的CRM带入Copilot与Teams。",
+          "mini_headline": "Salesforce 将 CRM 带入 Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "图片来源：Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "自称“Wolf of Wall Street”的Jordan Belfort正在打造一个名为Tone的语音AI平台。他说，秘诀在于让语音带上能拿下交易的语调，比如把陈述句说成问句，有时甚至压低声音耳语。"
+                "x": "今天在 Microsoft Ignite 上，Salesforce 与 Microsoft 宣布推出 Copilotforce。这项合作将 Salesforce 引入 Microsoft 的企业生产力生态，并在 Microsoft Copilot、Microsoft Teams 和 Microsoft Fabric 中带来新的集成。"
               },
               {
                 "t": "p",
-                "x": "Belfort称，Tone已被一些销售线索多到人工团队应付不过来的公司使用，并正为想要“富有表现力的AI-generated旁白”的创作者和作者推出自助服务平台，语音克隆功能也在陆续上线。他的联合创始人是投资人Shervin Pishevar；TechCrunch指出，无法独立核实这项技术是否如其所述。"
+                "x": "借助 Salesforce in Microsoft Copilot，销售人员可以结合 Teams 对话、Outlook 邮件和共享文档，查看 Salesforce 客户信息、分析商机、准备会议并执行 CRM 操作。工作流包括在 Word 和 PowerPoint 中准备会议、分析交易健康度（deal-health）以及制定管道成交计划。"
               },
               {
                 "t": "p",
-                "x": "“我们的客户有律师事务所和健康保险公司。在民调和汽车领域也做得很多，”Belfort说。“我们的延迟大约600毫秒……它真的能完成整个销售。”"
+                "x": "处于试点阶段的 Sales Cloud in Teams 应用把实时 CRM 洞察带进 Teams，销售人员可以在其中借助 Agentforce Coworker 直接采取行动。双向 Zero Copy 集成在不复制数据集的情况下连接 Salesforce Data 360 与 Microsoft Fabric。"
               },
               {
                 "t": "p",
-                "x": "谈到成交率，他说：“我仍然觉得它还不如顶尖销售。一线的顶尖销售逐通电话都能胜过它。我认为未来六个月到一年会有改变。”Tone使用“我们自己的非常小、非常轻的模型”，他认为它“会显著胜过平庸的成交员”。"
+                "x": "Microsoft Commercial Business CEO Judson Althoff 表示：“AI 的强大程度，取决于支撑它的数据和上下文。”"
               },
               {
                 "t": "p",
-                "x": "Belfort估计收入“大概百万美元左右——也许是$700,000”，融资约$10 million。他说，Tone只给主动同意（opt-in）的潜在客户或现有客户打电话。"
+                "x": "Accenture 是设计与实施合作伙伴，也是 Customer Zero。Salesforce in Microsoft Copilot 目前处于 Public Preview (Beta) 阶段；Data Federation 已全面上市。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tone, de Jordan Belfort, crea\nuna voz de AI que vende",
-          "body": "Jordan Belfort dice que el agente de voz de ventas AI de Tone aún no iguala a un vendedor humano de élite.",
-          "mini_headline": "La voz de ventas AI de Belfort",
+          "headline": "Salesforce y Microsoft\nanuncian Copilotforce",
+          "body": "Copilotforce lleva el contexto de clientes y flujos de ventas de Salesforce a Copilot, y la colaboración CRM a Teams.",
+          "mini_headline": "Salesforce lleva el CRM a Copilot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-                "cap": "Créditos de imagen: Osiris Media, Inc"
+                "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Jordan Belfort, el autoproclamado “Wolf of Wall Street”, está construyendo una plataforma de AI basada en voz llamada Tone. El ingrediente secreto, según él, es que dota a sus voces del tipo de tono que cierra tratos, por ejemplo formulando afirmaciones como preguntas e incluso susurrando a veces."
+                "x": "Hoy, en Microsoft Ignite, Salesforce y Microsoft anunciaron Copilotforce, una alianza que lleva Salesforce al ecosistema de productividad empresarial de Microsoft, con nuevas integraciones en Microsoft Copilot, Microsoft Teams y Microsoft Fabric."
               },
               {
                 "t": "p",
-                "x": "Belfort dice que Tone ya lo usan empresas con más clientes potenciales de los que sus equipos humanos pueden atender, y que está lanzando una plataforma de autoservicio para creadores y autores que buscan “narración AI-generated expresiva”, con la clonación de voz en despliegue. Su cofundador es el inversor Shervin Pishevar; TechCrunch señala que no puede verificar de forma independiente que la tecnología funcione como se describe."
+                "x": "Con Salesforce in Microsoft Copilot, los vendedores podrán acceder al contexto de clientes de Salesforce, analizar oportunidades, preparar reuniones y ejecutar acciones de CRM a partir de conversaciones de Teams, correos de Outlook y documentos compartidos. Los flujos de trabajo incluyen la preparación de reuniones, el análisis de la salud de los acuerdos (deal-health) y planes de cierre del pipeline dentro de Word y PowerPoint."
               },
               {
                 "t": "p",
-                "x": "“Tenemos bufetes de abogados y aseguradoras de salud. Hacemos mucho en encuestas y automóviles”, dice Belfort. “Nuestra latencia es de unos 600 milisegundos… Literalmente hace toda la venta completa”."
+                "x": "La app Sales Cloud in Teams, en fase piloto, lleva información de CRM en tiempo real a Teams, donde los vendedores pueden actuar con Agentforce Coworker. La integración bidireccional Zero Copy conecta Salesforce Data 360 y Microsoft Fabric sin duplicar conjuntos de datos."
               },
               {
                 "t": "p",
-                "x": "Sobre las tasas de cierre: “Sigo pensando que no es tan bueno como un vendedor de primer nivel. Un vendedor de primer nivel en el terreno lo superaría llamada a llamada. Creo que eso cambiará en los próximos seis meses a un año”. Tone usa “nuestros propios modelos muy pequeños y muy ligeros”, y él cree que “superará con creces a un cerrador mediocre”."
+                "x": "“La AI solo es tan potente como los datos y el contexto que la sustentan”, dijo Judson Althoff, CEO de Microsoft Commercial Business."
               },
               {
                 "t": "p",
-                "x": "Belfort sitúa los ingresos en “probablemente alrededor de un millón de dólares; $700,000, quizá”, con unos $10 million recaudados. Según él, Tone solo llama a clientes potenciales que han dado su consentimiento (opt-in) o a clientes existentes."
+                "x": "Accenture es el socio de diseño e implementación y Customer Zero. Salesforce in Microsoft Copilot está en Public Preview (Beta); Data Federation ya está disponible de forma general."
               }
             ]
           }

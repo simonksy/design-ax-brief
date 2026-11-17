@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "medicine",
   "items": [
     {
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "Apple, OpenEvidence launch conversational health AI study and app",
-      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-11-16T14:32:00Z",
-      "og_image": "https://imgproxy.divecdn.com/mZqDXAZolSHpHweMB5uWX4TeGZ2_NXsdKUhXJSuEWWw/g:nowe:78:428/c:1356:766/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-      "excerpt": "Apple launched a 200,000-participant Apple Health AI Usage Study with OpenEvidence to research what drives consumer trust in, and the quality of, conversational health AI answers; findings could inform Apple products.",
-      "rationale": "A 200,000-person patient-facing study on trust and answer quality in consumer health AI, run by Apple with a clinical-evidence vendor (assigned to medicine, not gadgets)."
+      "title": "What to know about the new AI roadmap from CMS, and news from HLTH",
+      "url": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/",
+      "source": "STAT",
+      "published_iso": "2026-11-17T17:49:24+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+      "excerpt": "STAT Health Tech breaks down CMS' newly released clinical AI ('super intelligence') roadmap, setting Medicare's agenda for paying for and overseeing clinical AI, plus HLTH 2026 news. (STAT+ partial paywall.)",
+      "rationale": "Regulator action: CMS has released a clinical AI roadmap that sets out how Medicare will pay for and oversee clinical AI."
     },
     {
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
-      "source": "Fierce Healthcare",
-      "published_iso": "2026-11-16T09:05:00-05:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-      "excerpt": "OpenAI is expanding computer-use agents for healthcare that navigate EHR systems, payer portals and other software to handle repetitive manual tasks, with CVS Health, Cigna and Abridge testing them.",
-      "rationale": "New release: OpenAI computer-use agents being tested by a pharmacy chain, an insurer and a scribe vendor on EHRs and payer portals, which covers prior auth and admin work."
+      "title": "Clinician Acceptance of Large Language Model–Generated Discharge Summaries",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856756",
+      "source": "JAMA Network Open",
+      "published_iso": "2026-11-17T16:30:17Z",
+      "og_image": null,
+      "excerpt": "Comparative-effectiveness study across 5 London hospitals: 12 physicians reviewed 1,294 discharge summaries; GPT-4o mini summaries from EHR data were noninferior on sign-off with no/minor edits (+22.2 points vs clinician-written) and scored higher on accuracy, completeness and clarity.",
+      "rationale": "Primary-source study across 5 London hospitals: physicians signed off LLM-written discharge summaries at least as readily as clinician-written ones, a direct documentation-workflow result."
     },
     {
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Ultra-compact AI X-ray unit slashes ICU bedside imaging time",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-16T12:00:00Z",
-      "og_image": null,
-      "excerpt": "RSNA 2026 preview: in a prospective 121-patient ICU study, Poskom's 1.3-kg AI-powered MiniAIR x-ray cut bedside imaging workflow time by more than 75% versus mobile DR while preserving diagnostic performance.",
-      "rationale": "Prospective ICU data on an AI bedside x-ray unit: workflow time cut by more than 75% with diagnostic performance unchanged."
+      "title": "Deep learning retinal vascular biomarker predicts preeclampsia in a multicenter prospective cohort",
+      "url": "https://www.nature.com/articles/s41746-026-03463-y",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-17T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+      "excerpt": "Retina-PE, a multimodal deep learning model combining retinal photographs, maternal clinical factors and mean arterial pressure, predicted later preeclampsia in a prospective multicenter cohort, a noninvasive screening approach.",
+      "rationale": "Prospective multicenter validation of a noninvasive retinal-photo screen for preeclampsia, a specific obstetric condition."
     },
     {
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Naitive Receives FDA 510(k) Clearance for OsteoSight Spine, Extending AI-Enabled Opportunistic Bone Health Assessment to Spine and Chest X-rays",
-      "url": "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays",
-      "source": "Orthopedics This Week",
-      "published_iso": "2026-11-12T12:00:00Z",
-      "og_image": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-      "excerpt": "Naitive Technologies won FDA 510(k) clearance for OsteoSight Spine, extending its AI opportunistic bone-health assessment from routine x-rays to spine and chest films.",
-      "rationale": "Regulatory event: a new FDA 510(k) clearance lets routine spine and chest x-rays be used for opportunistic osteoporosis screening."
+      "title": "Deep-learning adds PCCT-like chest imaging quality to existing scanners",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541666/deeplearning-adds-pcctlike-chest-imaging-quality-to-existing-scanners",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-17T12:00:00Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.KJohCX3jjw.jpg?auto=format%2Ccompress&w=1200",
+      "excerpt": "RSNA 2026 preview: Johns Hopkins' SUMI model, trained on 1,046 photon-counting CT scans plus 405,379 conventional CT scans from 145 hospitals, brings PCCT-like image quality to routine chest CT without paired acquisitions.",
+      "rationale": "RSNA 2026 preview: Johns Hopkins' SUMI model gives conventional chest CT scanners near photon-counting image quality, so hospitals get the gain without buying new hardware."
     },
     {
       "tool": "Medicine",
-      "accent": "#eb367f",
+      "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "계명대 동산병원, 다낭콩팥병 'AI 관리 플랫폼' 구축",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016555",
-      "source": "의학신문",
-      "published_iso": "2026-11-17T07:27:48+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-      "excerpt": "계명대 동산병원이 유전성 신장질환인 다낭콩팥병 환자의 일상 건강관리를 돕는 인공지능(AI) 기반 통합관리 플랫폼을 구축했다.",
-      "rationale": "Freshest item in the pool: a Korean hospital deploys an AI care platform for patients with a specific hereditary kidney disease (ADPKD)."
+      "title": "WHO, global hospital federation to form joint committee on healthcare AI",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33877",
+      "source": "Korea Biomedical Review",
+      "published_iso": "2026-11-17T15:12:53+09:00",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33877_37060_1452_v150.jpg",
+      "excerpt": "WHO and the International Hospital Federation agreed to set up a joint steering committee on healthcare AI, covering standards for AI adoption in hospitals and training for health professionals.",
+      "rationale": "New governance action: WHO and the International Hospital Federation will set up a joint committee on standards for adopting AI in hospitals and on training staff."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/": {
+      "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/": {
         "verdict": "new",
-        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
+        "nearest": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/",
         "new_action": ""
       },
-      "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use": {
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856756": {
         "verdict": "new",
-        "nearest": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
+        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
         "new_action": ""
       },
-      "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time": {
+      "https://www.nature.com/articles/s41746-026-03463-y": {
+        "verdict": "new",
+        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
+        "new_action": ""
+      },
+      "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541666/deeplearning-adds-pcctlike-chest-imaging-quality-to-existing-scanners": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays": {
+      "https://www.koreabiomed.com/news/articleView.html?idxno=33877": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03333-7",
-        "new_action": ""
-      },
-      "https://www.bosa.co.kr/news/articleView.html?idxno=3016555": {
-        "verdict": "new",
-        "nearest": "https://m.medigatenews.com/news/2393566577",
+        "nearest": "https://www.who.int/europe/news/item/29-10-2026-governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Cardiovascular Business Cleerly PARAMOUNT (same AHA trial ran 11-09 via cleerly.com); Harvard Medical School MANTIS childhood brain tumor model (same Nature Genetics paper ran 11-04); MedCity News NEJM AI cost-of-care study (same NEJM paper ran 10-17, already dropped in the 11-16 run); Radiology Business AI-derived coronary inflammation score (same Oxford coronary-inflammation running story as 10-27, already judged a repeat on 11-15/11-16). Avoided as likely-overlapping: AuntMinnie Promedius CXR osteoporosis and NEJM AI SNUH CXR fracture-risk paper (close to the 10-18 npj chest-radiograph osteoporosis paper). The Naitive pick shares the topic but is a distinct new event (an FDA 510(k) clearance), so its verdict is new. Not picked for strength/diversity: Suki OS (second Fierce item), Viz.ai/Wolters Kluwer partnership, AuntMinnie PREVENT CXR cardiac risk, NEJM AI lung-cancer stats review, Nature Medicine OpenScientist (leans science), npj history-taking tutor, Comm Med AML neutropenia model (close to the 11-13 fever item), STAT Doerr/Tom Health (business framing), STAT men's chatbot feature, JAMA rogue-agent Viewpoint (commentary), Insilico TEAD (11-09, older), KBR KAIST lip-reading (research stage), KBR Samsung/OpenAI (analysis). Cross-section: Apple x OpenEvidence is assigned to medicine by the curator brief. published_urls.json could not be grepped with Read-only tools, so the orchestrator should exact-grep the five URLs (bosa idxno=3016555 full URL) before roll."
+    "note": "Dropped as duplicates: Cardiovascular Business 'AI imaging reports comparable to sonographers and cardiologists' (the same AHA 2026 echo trial ran 11-10 via newsroom.heart.org, likely-repeat); MedCity News 'Is AI really saving hospitals money?' (the same NEJM AI care-plan cost paper ran 10-17 and was already dropped in the 11-16/11-17 runs). Checked but kept as distinct: the WHO/IHF joint committee is a new institutional action, separate from the 10-22 Seoul declaration and the 11-03 WHO Europe vision; CMS's AI roadmap is a new CMS release, not the 11-03 FDA/CMS-states story; the JAMA discharge-summary study is a different study from AI-INFOCARE. Not picked: Nature Medicine OpenScientist (a general research tool, not clinical, per the brief), Comm Med AML neutropenia (close to the 11-13 cancer-fever ML item), AuntMinnie CTchest-risk (second AuntMinnie RSNA item), NEJM AI lung-cancer stats review, Viz.ai/Wolters Kluwer and Suki OS (vendor partnership and product, Fierce), b.well (startup tool), STAT Tom Health (business framing; would be a second STAT item), Medical Xpress sepsis and blood lung-cancer items (off-list), MedCity Medicare eye-scan (analysis), SMC surgical video (research stage), Noul Panama (contract/business), Deepnoid M4CXR integration (vendor partnership), MFDS vaccine-QC workshop (a workshop, not a decision). Cross-section: all five URLs read against published_urls.json politics and science blocks with no hit; the orchestrator should still exact-grep all sections (koreabiomed idxno=33877 full URL) before roll."
   }
 }

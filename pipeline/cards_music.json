@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "music",
   "cards": [
     {
-      "id": "aria-ppca-notaistotake",
+      "id": "suno-visuals-launch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "호주 음악계, AI 저작권\n'동의 우선' 운동 시작",
-      "body": "ARIA·PPCA가 Canberra에 AI 기업 사전 동의 의무화를 요구했다.",
-      "mini_headline": "호주, 동의 우선 AI 운동",
+      "headline": "Suno, 노래를\n영상 클립·가사 영상으로",
+      "body": "Suno Visuals는 Suno 곡을 공유용 영상 클립·가사 영상으로 바꾼다.",
+      "mini_headline": "노래에 입히는 Suno Visuals",
       "tool": "Music",
-      "source": "Australasian Leisure Management",
-      "url": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
+      "source": "Suno",
+      "url": "https://suno.com/blog/introducing-visuals",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,173 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+            "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+            "cap": "Suno가 Visuals를 출시했다. 헤더 이미지는 여러 비주얼을 엮은 콜라주다."
           },
           {
             "t": "p",
-            "x": "호주 음악·미디어·창작 산업계가 인공지능(AI) 학습에 호주 창작물이 무단으로 쓰이지 않도록 저작권 보호를 강화하라고 연방정부에 요구하고 나섰다. Not AI’s to Take 캠페인은 제40회 ARIA Awards를 앞둔 11월 17일 시작됐으며 Australian Recording Industry Association(ARIA)와 Phonographic Performance Company of Australia(PPCA)가 이끈다."
+            "x": "Suno는 10월 Speech를 내놓으며, 스스로 크리에이티브 엔터테인먼트라 부르는 영역을 처음 음악 밖으로 넓혔다. 영상은 늘 예정된 다음 단계였다. 다만 최근까지 영상 생성은 느리고 비싸 기업이 아니면 엄두를 내기 어려웠다. 새 세대 모델이 이 판을 바꾸고 있다. Visuals는 음악에 생명을 불어넣으려고 만든 Suno의 최신 창작 도구다."
+          },
+          {
+            "t": "video",
+            "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
           },
           {
             "t": "p",
-            "x": "Anthony Albanese 총리는 2026년 7월 어떤 기업도 창작자의 통제 없이 그 작품으로 AI를 학습시켜선 안 된다며 “그보다 못한 것은 모두 절도”라고 했다. 정부는 이미 포괄적인 텍스트·데이터 마이닝 예외를 배제했지만 라이선스와 집행 문제는 여전히 논의 중이다."
+            "x": "Visuals로 새 이미지와 영상을 만든다. 비트에 맞춰 움직이는 가사 영상, 머릿속 사운드에 어울리는 앨범 아트, 사진 한 장을 새롭게 풀어낸 인상적인 영상 클립 같은 것들이다. 모델은 음악을 돋보이게 하는 쪽으로 최적화됐다. 영상 클립은 곡 구조를 따라가고, 가사를 읽어 내고, 립싱크까지 맞춘다."
           },
           {
             "t": "p",
-            "x": "ARIA와 PPCA는 opt-out 방식으로 기울면 기존 저작권 보호가 약해지고 부담이 개별 아티스트에게 떠넘겨질까 걱정한다. 캠페인이 대안으로 내세운 건 허락 우선 방식이다. AI 기업은 자료를 쓰기 전에 저작권자 동의부터 받고 조건을 협상해야 한다는 주장이다."
+            "x": "라이브러리의 곡을 Visuals 탭에 끌어다 놓으면 최대 15초 길이의 클립이 만들어진다. 이후 텍스트로 늘리고 편집하고, 프롬프트를 다시 줄 수도 있다. 오리지널 캐릭터로 시작해도 되고 직접 가진 원본 이미지로 시작해도 된다. Visuals는 웹, iOS, Android에서 나오며, Visual 크레딧은 곡 크레딧과 따로 산다."
           },
           {
             "t": "p",
-            "x": "호주 창작·미디어 산업은 해마다 국가 경제에 $70.3 billion 을 보태고 600,000명 가까운 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명과 지역구 연방 하원의원(MP)에게 편지 보내기, nottheirstotake.com.au 캠페인 자료 공유를 요청했다."
+            "x": "새 텍스트·비주얼 필터는 특정 아티스트나 공인, 저작권 보호 작품과 IP를 재현하려는 업로드·프롬프트를 걸러 낸다. 생성 결과물은 화면에 뜨기 전에 Community Guidelines 준수 여부를 검사받고, 저작권 오디오는 Audible Magic, ACRCloud, Musixmatch가 함께 막는다. Visuals 결과물을 플랫폼 밖으로 공유할 때는 내장 워터마크가 들어간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Australian music bodies launch\nconsent-first AI copyright push",
-          "body": "ARIA and PPCA are urging Canberra to reject an opt-out data-mining exception and make AI firms seek consent first.",
-          "mini_headline": "Australia's consent-first AI push",
+          "headline": "Suno now turns songs into\nvideo clips and lyric videos",
+          "body": "Suno Visuals turns a song made on Suno into a shareable video clip, lyric video or visual world for the track.",
+          "mini_headline": "Suno Visuals for songs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "Suno launches Visuals. The header image is a collage of visuals."
               },
               {
                 "t": "p",
-                "x": "Australia’s music, media and creative industries are urging the Federal Government to strengthen copyright protections against the unauthorised use of Australian creative works to train artificial intelligence (AI) systems. Launched on 17th November, ahead of the 40th ARIA Awards, the Not AI’s to Take campaign is led by the Australian Recording Industry Association (ARIA) and the Phonographic Performance Company of Australia (PPCA)."
+                "x": "When Suno launched Speech in October, it took what it calls creative entertainment beyond music for the first time. Video had always been the logical next step, but until recently video generation was slow and too expensive for anyone to create but enterprises. A new generation of models changes that. Meet Visuals: Suno’s newest creative tool built to bring your music to life."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "In July 2026, Prime Minister Anthony Albanese said no company should use creators’ work to train AI without their control, adding that “anything less is theft”. The Government has previously ruled out a broad text and data mining exception, but discussions continue around licensing and enforcement."
+                "x": "With Visuals you can make new images and videos: lyric videos that move with the beat, album art that matches the sound in your head, or a photo re-imagined into an inspiring video clip. The model is optimized to complement your music: video clips follow your song’s structure, pick up on your lyrics and lip sync right along with them."
               },
               {
                 "t": "p",
-                "x": "ARIA and PPCA are concerned that any move towards an opt-out system would undermine existing copyright protections and place the responsibility on individual artists. Instead, the campaign is advocating a permission-first approach, requiring AI companies to obtain consent and negotiate terms with copyright holders before using their material."
+                "x": "Drag any song from your library into the Visuals tab to make clips up to 15 seconds long, then extend, edit and re-prompt with text. Original characters help you get started, or start with an original image of your own. Visuals launches on web, iOS and Android; Visual credits are purchased separately from song credits."
               },
               {
                 "t": "p",
-                "x": "Australia's creative and media industries contribute $70.3 billion annually to the national economy and support almost 600,000 workers. The campaign asks the public to sign a petition, write to a local Federal MP and share campaign resources at nottheirstotake.com.au."
+                "x": "New text and visual filters are intended to block uploads and prompts that try to create representations of specific artists, public figures, copyrighted works and IP. Generated output is checked against Community Guidelines before it is shown, Audible Magic, ACRCloud and Musixmatch help block copyrighted audio, and embedded watermarks are applied before Visuals can be shared off-platform."
               }
             ]
           }
         },
         "ko": {
-          "headline": "호주 음악계, AI 저작권\n'동의 우선' 운동 시작",
-          "body": "ARIA·PPCA가 Canberra에 AI 기업 사전 동의 의무화를 요구했다.",
-          "mini_headline": "호주, 동의 우선 AI 운동",
+          "headline": "Suno, 노래를\n영상 클립·가사 영상으로",
+          "body": "Suno Visuals는 Suno 곡을 공유용 영상 클립·가사 영상으로 바꾼다.",
+          "mini_headline": "노래에 입히는 Suno Visuals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "Suno가 Visuals를 출시했다. 헤더 이미지는 여러 비주얼을 엮은 콜라주다."
               },
               {
                 "t": "p",
-                "x": "호주 음악·미디어·창작 산업계가 인공지능(AI) 학습에 호주 창작물이 무단으로 쓰이지 않도록 저작권 보호를 강화하라고 연방정부에 요구하고 나섰다. Not AI’s to Take 캠페인은 제40회 ARIA Awards를 앞둔 11월 17일 시작됐으며 Australian Recording Industry Association(ARIA)와 Phonographic Performance Company of Australia(PPCA)가 이끈다."
+                "x": "Suno는 10월 Speech를 내놓으며, 스스로 크리에이티브 엔터테인먼트라 부르는 영역을 처음 음악 밖으로 넓혔다. 영상은 늘 예정된 다음 단계였다. 다만 최근까지 영상 생성은 느리고 비싸 기업이 아니면 엄두를 내기 어려웠다. 새 세대 모델이 이 판을 바꾸고 있다. Visuals는 음악에 생명을 불어넣으려고 만든 Suno의 최신 창작 도구다."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "Anthony Albanese 총리는 2026년 7월 어떤 기업도 창작자의 통제 없이 그 작품으로 AI를 학습시켜선 안 된다며 “그보다 못한 것은 모두 절도”라고 했다. 정부는 이미 포괄적인 텍스트·데이터 마이닝 예외를 배제했지만 라이선스와 집행 문제는 여전히 논의 중이다."
+                "x": "Visuals로 새 이미지와 영상을 만든다. 비트에 맞춰 움직이는 가사 영상, 머릿속 사운드에 어울리는 앨범 아트, 사진 한 장을 새롭게 풀어낸 인상적인 영상 클립 같은 것들이다. 모델은 음악을 돋보이게 하는 쪽으로 최적화됐다. 영상 클립은 곡 구조를 따라가고, 가사를 읽어 내고, 립싱크까지 맞춘다."
               },
               {
                 "t": "p",
-                "x": "ARIA와 PPCA는 opt-out 방식으로 기울면 기존 저작권 보호가 약해지고 부담이 개별 아티스트에게 떠넘겨질까 걱정한다. 캠페인이 대안으로 내세운 건 허락 우선 방식이다. AI 기업은 자료를 쓰기 전에 저작권자 동의부터 받고 조건을 협상해야 한다는 주장이다."
+                "x": "라이브러리의 곡을 Visuals 탭에 끌어다 놓으면 최대 15초 길이의 클립이 만들어진다. 이후 텍스트로 늘리고 편집하고, 프롬프트를 다시 줄 수도 있다. 오리지널 캐릭터로 시작해도 되고 직접 가진 원본 이미지로 시작해도 된다. Visuals는 웹, iOS, Android에서 나오며, Visual 크레딧은 곡 크레딧과 따로 산다."
               },
               {
                 "t": "p",
-                "x": "호주 창작·미디어 산업은 해마다 국가 경제에 $70.3 billion 을 보태고 600,000명 가까운 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명과 지역구 연방 하원의원(MP)에게 편지 보내기, nottheirstotake.com.au 캠페인 자료 공유를 요청했다."
+                "x": "새 텍스트·비주얼 필터는 특정 아티스트나 공인, 저작권 보호 작품과 IP를 재현하려는 업로드·프롬프트를 걸러 낸다. 생성 결과물은 화면에 뜨기 전에 Community Guidelines 준수 여부를 검사받고, 저작권 오디오는 Audible Magic, ACRCloud, Musixmatch가 함께 막는다. Visuals 결과물을 플랫폼 밖으로 공유할 때는 내장 워터마크가 들어간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪音楽団体がAI著作権で\n「同意優先」運動を開始",
-          "body": "ARIAとPPCAはCanberraに対し、AI企業に事前の同意取得を求めるよう訴えた。",
-          "mini_headline": "豪州の同意優先AI運動",
+          "headline": "Suno、楽曲を\n動画クリップや歌詞動画に",
+          "body": "Suno VisualsはSunoで作った曲を共有可能な動画クリップや歌詞動画に変える。",
+          "mini_headline": "楽曲向けのSuno Visuals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "SunoがVisualsを公開。ヘッダー画像はビジュアルのコラージュだ。"
               },
               {
                 "t": "p",
-                "x": "オーストラリアの音楽・メディア・クリエイティブ産業は、人工知能(AI)システムの学習にオーストラリアの創作物が無断で使われないよう、著作権保護の強化を連邦政府に求めている。第40回ARIA Awardsを前に11月17日に始まったNot AI’s to Takeキャンペーンは、Australian Recording Industry Association(ARIA)とPhonographic Performance Company of Australia(PPCA)が主導する。"
+                "x": "Sunoは10月にSpeechを公開し、同社がクリエイティブ・エンターテインメントと呼ぶ領域を初めて音楽の外へ広げた。動画は当然の次の一手だったが、最近まで動画生成は遅く、企業以外には高すぎた。新世代のモデルがその状況を変える。Visualsは、音楽に命を吹き込むために作られたSunoの最新クリエイティブツールだ。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "2026年7月、Anthony Albanese首相は、いかなる企業も創作者の管理なしにその作品でAIを学習させるべきではないと述べ、「それに満たないものは窃盗だ」と付け加えた。政府は広範なテキスト・データマイニング例外をすでに否定しているが、ライセンスと執行をめぐる議論は続いている。"
+                "x": "Visualsでは新しい画像や動画を作れる。ビートに合わせて動く歌詞動画、頭の中の音に合うアルバムアート、写真を再解釈した印象的な動画クリップなどだ。モデルは音楽を引き立てるよう最適化されており、動画クリップは曲の構成に沿い、歌詞を拾い、リップシンクまで合わせる。"
               },
               {
                 "t": "p",
-                "x": "ARIAとPPCAは、opt-out方式に傾けば既存の著作権保護が損なわれ、責任が個々のアーティストに押し付けられると懸念する。キャンペーンはその代わりに、AI企業が素材を使う前に著作権者の同意を得て条件を交渉することを求める「許諾優先」の方式を訴えている。"
+                "x": "ライブラリの曲をVisualsタブにドラッグすると最長15秒のクリップを作れ、その後テキストで延長、編集、再プロンプトができる。オリジナルキャラクターから始めることも、自分のオリジナル画像から始めることもできる。Visualsはウェブ、iOS、Androidで提供され、Visualクレジットは楽曲クレジットとは別に購入する。"
               },
               {
                 "t": "p",
-                "x": "オーストラリアの創造・メディア産業は年間$70.3 billion を国の経済にもたらし、600,000人近い雇用を支えている。キャンペーンは市民に、請願への署名、地元の連邦議員(MP)への手紙、nottheirstotake.com.auでのキャンペーン資料の共有を呼びかけている。"
+                "x": "新しいテキスト・ビジュアルフィルターは、特定のアーティストや著名人、著作物、IPを再現しようとするアップロードやプロンプトを遮断することを狙う。生成物は表示前にCommunity Guidelinesに照らして確認され、Audible Magic、ACRCloud、Musixmatchが著作権のある音声の遮断を支援する。Visualsの作品をプラットフォーム外で共有する前には、埋め込み型の透かしが付与される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳大利亚音乐团体发起\nAI版权“同意优先”行动",
-          "body": "ARIA与PPCA敦促Canberra拒绝选择退出式数据挖掘例外，要求AI公司先征得同意。",
-          "mini_headline": "澳大利亚“同意优先”AI行动",
+          "headline": "Suno把歌曲变成\n视频片段和歌词视频",
+          "body": "Suno Visuals可将Suno上创作的歌曲转为可分享的视频片段、歌词视频或视觉世界。",
+          "mini_headline": "为歌曲打造的Suno Visuals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "Suno推出Visuals。题图为多幅视觉作品的拼贴。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚音乐、媒体和创意产业正敦促联邦政府加强版权保护，防止澳大利亚创作作品在未经授权的情况下被用于训练人工智能(AI)系统。Not AI’s to Take 运动于11月17日、第40届ARIA Awards前夕启动，由Australian Recording Industry Association(ARIA)和Phonographic Performance Company of Australia(PPCA)牵头。"
+                "x": "Suno在10月推出Speech时，首次把其所称的创意娱乐拓展到音乐之外。视频一直是顺理成章的下一步，但直到不久前，视频生成速度慢、成本高，除了企业几乎无人负担得起。新一代模型改变了这一点。Visuals由此登场：这是Suno最新的创作工具，旨在让音乐鲜活起来。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "2026年7月，总理Anthony Albanese表示，任何公司都不应在创作者无法掌控的情况下用其作品训练AI，并称“任何低于此标准的做法都是盗窃”。政府此前已排除宽泛的文本与数据挖掘例外，但围绕许可和执法的讨论仍在继续。"
+                "x": "借助Visuals，用户可以制作新的图像和视频：随节拍律动的歌词视频、契合脑海中声音的专辑封面，或把一张照片重新演绎成动人的视频片段。该模型专为配合音乐而优化：视频片段会遵循歌曲结构、捕捉歌词，并同步对口型。"
               },
               {
                 "t": "p",
-                "x": "ARIA和PPCA担心，任何走向opt-out机制的举措都会削弱现有版权保护，并把责任推给个体艺术家。该运动转而倡导“许可优先”模式，要求AI公司在使用素材前征得版权持有人同意并协商条款。"
+                "x": "把资料库中的任意歌曲拖入Visuals标签页，即可生成最长15秒的片段，随后可通过文字进行延长、编辑和重新提示。可以从原创角色入手，也可以用自己的原创图像开始。Visuals在网页端、iOS和Android上线；Visual积分需与歌曲积分分开购买。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚创意和媒体产业每年为国民经济贡献$70.3 billion ，并支撑近600,000名从业者。该运动呼吁公众签署请愿书、致信当地联邦议员(MP)，并在nottheirstotake.com.au分享运动资料。"
+                "x": "新的文字与视觉过滤器旨在拦截试图生成特定艺人、公众人物、受版权保护作品及IP形象的上传和提示。生成内容在展示前会依据Community Guidelines进行审核，Audible Magic、ACRCloud和Musixmatch协助拦截受版权保护的音频，Visuals内容在分享到平台之外前会嵌入水印。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Entidades musicales de Australia\nexigen consentimiento ante la AI",
-          "body": "ARIA y PPCA piden a Canberra rechazar una excepción opt-out y que las firmas de AI pidan consentimiento previo.",
-          "mini_headline": "Australia exige consentimiento ante la AI",
+          "headline": "Suno convierte canciones en\nvideoclips y videos con letra",
+          "body": "Suno Visuals convierte una canción hecha en Suno en un videoclip, video con letra o mundo visual para compartir.",
+          "mini_headline": "Suno Visuals para canciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "Suno lanza Visuals. La imagen de cabecera es un collage de visuales."
               },
               {
                 "t": "p",
-                "x": "Las industrias musical, mediática y creativa de Australia instan al Gobierno federal a reforzar la protección de los derechos de autor frente al uso no autorizado de obras creativas australianas para entrenar sistemas de inteligencia artificial (AI). Lanzada el 17 de noviembre, antes de la 40.ª edición de los ARIA Awards, la campaña Not AI’s to Take está liderada por la Australian Recording Industry Association (ARIA) y la Phonographic Performance Company of Australia (PPCA)."
+                "x": "Cuando Suno lanzó Speech en octubre, llevó por primera vez lo que llama entretenimiento creativo más allá de la música. El video siempre había sido el siguiente paso lógico, pero hasta hace poco la generación de video era lenta y demasiado cara para cualquiera que no fuera una empresa. Una nueva generación de modelos cambia eso. Así llega Visuals: la herramienta creativa más reciente de Suno, pensada para dar vida a la música."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "En julio de 2026, el primer ministro Anthony Albanese dijo que ninguna empresa debería usar la obra de los creadores para entrenar AI sin su control, y añadió que “cualquier cosa menos es robo”. El Gobierno ya había descartado una excepción amplia de minería de textos y datos, pero continúan las conversaciones sobre licencias y su aplicación."
+                "x": "Con Visuals se pueden crear imágenes y videos nuevos: videos con letra que se mueven al ritmo, portadas de álbum que encajan con el sonido que uno imagina o una foto reinterpretada como un videoclip inspirador. El modelo está optimizado para complementar la música: los clips siguen la estructura de la canción, captan la letra y sincronizan los labios con ella."
               },
               {
                 "t": "p",
-                "x": "A ARIA y PPCA les preocupa que cualquier paso hacia un sistema opt-out debilite la protección vigente de los derechos de autor y traslade la responsabilidad a cada artista. En su lugar, la campaña defiende un enfoque de permiso previo que obligue a las empresas de AI a obtener consentimiento y negociar condiciones con los titulares de derechos antes de usar su material."
+                "x": "Basta con arrastrar cualquier canción de la biblioteca a la pestaña Visuals para crear clips de hasta 15 segundos, que luego se pueden ampliar, editar y volver a indicar con texto. Hay personajes originales para empezar, o se puede partir de una imagen original propia. Visuals llega a la web, iOS y Android; los créditos Visual se compran por separado de los créditos de canciones."
               },
               {
                 "t": "p",
-                "x": "Las industrias creativas y de medios de Australia aportan $70.3 billion al año a la economía nacional y sostienen casi 600,000 empleos. La campaña pide al público firmar una petición, escribir a su diputado federal (MP) local y compartir los materiales de la campaña en nottheirstotake.com.au."
+                "x": "Nuevos filtros de texto y visuales buscan bloquear cargas y prompts que intenten crear representaciones de artistas concretos, figuras públicas, obras protegidas por derechos de autor e IP. El contenido generado se revisa según las Community Guidelines antes de mostrarse, Audible Magic, ACRCloud y Musixmatch ayudan a bloquear audio protegido por derechos de autor, y se aplican marcas de agua incrustadas antes de que Visuals pueda compartirse fuera de la plataforma."
               }
             ]
           }
@@ -193,121 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "호주 음악계, AI 저작권\n'동의 우선' 운동 시작",
-          "body": "ARIA·PPCA는 Canberra에 AI 기업의 사전 동의 의무화를 촉구했다.",
-          "mini_headline": "호주, 동의 우선 AI 운동",
+          "headline": "Suno, 노래를\n영상 클립·가사 영상으로",
+          "body": "Suno Visuals는 Suno 곡을 공유용 영상 클립·가사 영상으로 바꾼다.",
+          "mini_headline": "노래를 위한 Suno Visuals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "Suno가 Visuals를 출시했다. 헤더 이미지는 여러 비주얼을 엮은 콜라주다."
               },
               {
                 "t": "p",
-                "x": "호주의 음악·미디어·창작 산업계가 인공지능(AI) 시스템 학습에 호주 창작물이 무단으로 쓰이지 않도록 저작권 보호를 강화하라고 연방정부에 촉구하고 있다. 제40회 ARIA Awards를 앞둔 11월 17일 시작된 Not AI’s to Take 캠페인은 Australian Recording Industry Association(ARIA)와 Phonographic Performance Company of Australia(PPCA)가 이끈다."
+                "x": "Suno는 10월 Speech를 내놓으며 자사가 크리에이티브 엔터테인먼트라 부르는 영역을 처음으로 음악 밖으로 넓혔다. 영상은 늘 당연한 다음 단계였지만, 최근까지 영상 생성은 느리고 비싸 기업이 아니면 엄두를 내기 어려웠다. 새로운 세대의 모델이 이를 바꾸고 있다. Visuals는 음악에 생명을 불어넣으려고 만든 Suno의 최신 창작 도구다."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "2026년 7월 Anthony Albanese 총리는 어떤 기업도 창작자의 통제 없이 그들의 작품으로 AI를 학습시켜서는 안 된다며 “그보다 못한 것은 모두 절도”라고 말했다. 정부는 앞서 포괄적인 텍스트·데이터 마이닝 예외를 배제했지만, 라이선스와 집행을 둘러싼 논의는 이어지고 있다."
+                "x": "Visuals로는 새 이미지와 영상을 만들 수 있다. 비트에 맞춰 움직이는 가사 영상, 머릿속 사운드에 어울리는 앨범 아트, 사진 한 장을 새롭게 해석한 인상적인 영상 클립 등이다. 모델은 음악을 돋보이게 하도록 최적화됐다. 영상 클립은 곡의 구조를 따르고, 가사를 읽어 내며, 립싱크까지 맞춘다."
               },
               {
                 "t": "p",
-                "x": "ARIA와 PPCA는 opt-out 방식으로 기울면 기존 저작권 보호가 약해지고 책임이 개별 아티스트에게 넘어갈 것을 우려한다. 대신 캠페인은 AI 기업이 자료를 쓰기 전에 저작권자의 동의를 얻고 조건을 협상하도록 하는 허락 우선 방식을 주장한다."
+                "x": "라이브러리의 곡을 Visuals 탭으로 끌어다 놓으면 최대 15초 길이의 클립을 만들 수 있고, 이어서 텍스트로 늘리고 편집하고 다시 프롬프트를 줄 수 있다. 오리지널 캐릭터로 시작해도 되고, 직접 가진 원본 이미지로 시작해도 된다. Visuals는 웹, iOS, Android에서 출시되며, Visual 크레딧은 곡 크레딧과 별도로 구매한다."
               },
               {
                 "t": "p",
-                "x": "호주 창작·미디어 산업은 매년 국가 경제에 $70.3 billion 을 기여하고 근 600,000명의 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명, 지역구 연방 하원의원(MP)에게 편지 쓰기, nottheirstotake.com.au의 캠페인 자료 공유를 요청한다."
+                "x": "새 텍스트·비주얼 필터는 특정 아티스트, 공인, 저작권 보호 작품과 IP를 재현하려는 업로드와 프롬프트를 막기 위한 장치다. 생성 결과물은 화면에 보이기 전에 Community Guidelines 준수 여부를 검사받고, Audible Magic, ACRCloud, Musixmatch가 저작권 오디오 차단을 돕는다. Visuals 결과물을 플랫폼 밖으로 공유하기 전에는 내장 워터마크가 들어간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪音楽団体がAI著作権で\n「同意優先」運動を開始",
-          "body": "ARIAとPPCAはCanberraに対し、AI企業に事前の同意取得を求めるよう訴えた。",
-          "mini_headline": "豪州の同意優先AI運動",
+          "headline": "Suno、楽曲を\n動画クリップや歌詞動画に",
+          "body": "Suno VisualsはSunoで作った曲を共有可能な動画クリップや歌詞動画に変える。",
+          "mini_headline": "楽曲向けのSuno Visuals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "SunoがVisualsを公開。ヘッダー画像はビジュアルのコラージュだ。"
               },
               {
                 "t": "p",
-                "x": "オーストラリアの音楽・メディア・クリエイティブ産業は、人工知能(AI)システムの学習にオーストラリアの創作物が無断で使われないよう、著作権保護の強化を連邦政府に求めている。第40回ARIA Awardsを前に11月17日に始まったNot AI’s to Takeキャンペーンは、Australian Recording Industry Association(ARIA)とPhonographic Performance Company of Australia(PPCA)が主導する。"
+                "x": "Sunoは10月にSpeechを公開し、同社がクリエイティブ・エンターテインメントと呼ぶ領域を初めて音楽の外へ広げた。動画は当然の次の一手だったが、最近まで動画生成は遅く、企業以外には高すぎた。新世代のモデルがその状況を変える。Visualsは、音楽に命を吹き込むために作られたSunoの最新クリエイティブツールだ。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "2026年7月、Anthony Albanese首相は、いかなる企業も創作者の管理なしにその作品でAIを学習させるべきではないと述べ、「それに満たないものは窃盗だ」と付け加えた。政府は広範なテキスト・データマイニング例外をすでに否定しているが、ライセンスと執行をめぐる議論は続いている。"
+                "x": "Visualsでは新しい画像や動画を作れる。ビートに合わせて動く歌詞動画、頭の中の音に合うアルバムアート、写真を再解釈した印象的な動画クリップなどだ。モデルは音楽を引き立てるよう最適化されており、動画クリップは曲の構成に沿い、歌詞を拾い、リップシンクまで合わせる。"
               },
               {
                 "t": "p",
-                "x": "ARIAとPPCAは、opt-out方式に傾けば既存の著作権保護が損なわれ、責任が個々のアーティストに押し付けられると懸念する。キャンペーンはその代わりに、AI企業が素材を使う前に著作権者の同意を得て条件を交渉することを求める「許諾優先」の方式を訴えている。"
+                "x": "ライブラリの曲をVisualsタブにドラッグすると最長15秒のクリップを作れ、その後テキストで延長、編集、再プロンプトができる。オリジナルキャラクターから始めることも、自分のオリジナル画像から始めることもできる。Visualsはウェブ、iOS、Androidで提供され、Visualクレジットは楽曲クレジットとは別に購入する。"
               },
               {
                 "t": "p",
-                "x": "オーストラリアの創造・メディア産業は年間$70.3 billion を国の経済にもたらし、600,000人近い雇用を支えている。キャンペーンは市民に、請願への署名、地元の連邦議員(MP)への手紙、nottheirstotake.com.auでのキャンペーン資料の共有を呼びかけている。"
+                "x": "新しいテキスト・ビジュアルフィルターは、特定のアーティストや著名人、著作物、IPを再現しようとするアップロードやプロンプトを遮断することを狙う。生成物は表示前にCommunity Guidelinesに照らして確認され、Audible Magic、ACRCloud、Musixmatchが著作権のある音声の遮断を支援する。Visualsの作品をプラットフォーム外で共有する前には、埋め込み型の透かしが付与される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳大利亚音乐团体发起\nAI版权“同意优先”行动",
-          "body": "ARIA与PPCA敦促Canberra拒绝选择退出式数据挖掘例外，要求AI公司先征得同意。",
-          "mini_headline": "澳大利亚“同意优先”AI行动",
+          "headline": "Suno把歌曲变成\n视频片段和歌词视频",
+          "body": "Suno Visuals可将Suno上创作的歌曲转为可分享的视频片段、歌词视频或视觉世界。",
+          "mini_headline": "为歌曲打造的Suno Visuals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "Suno推出Visuals。题图为多幅视觉作品的拼贴。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚音乐、媒体和创意产业正敦促联邦政府加强版权保护，防止澳大利亚创作作品在未经授权的情况下被用于训练人工智能(AI)系统。Not AI’s to Take 运动于11月17日、第40届ARIA Awards前夕启动，由Australian Recording Industry Association(ARIA)和Phonographic Performance Company of Australia(PPCA)牵头。"
+                "x": "Suno在10月推出Speech时，首次把其所称的创意娱乐拓展到音乐之外。视频一直是顺理成章的下一步，但直到不久前，视频生成速度慢、成本高，除了企业几乎无人负担得起。新一代模型改变了这一点。Visuals由此登场：这是Suno最新的创作工具，旨在让音乐鲜活起来。"
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "2026年7月，总理Anthony Albanese表示，任何公司都不应在创作者无法掌控的情况下用其作品训练AI，并称“任何低于此标准的做法都是盗窃”。政府此前已排除宽泛的文本与数据挖掘例外，但围绕许可和执法的讨论仍在继续。"
+                "x": "借助Visuals，用户可以制作新的图像和视频：随节拍律动的歌词视频、契合脑海中声音的专辑封面，或把一张照片重新演绎成动人的视频片段。该模型专为配合音乐而优化：视频片段会遵循歌曲结构、捕捉歌词，并同步对口型。"
               },
               {
                 "t": "p",
-                "x": "ARIA和PPCA担心，任何走向opt-out机制的举措都会削弱现有版权保护，并把责任推给个体艺术家。该运动转而倡导“许可优先”模式，要求AI公司在使用素材前征得版权持有人同意并协商条款。"
+                "x": "把资料库中的任意歌曲拖入Visuals标签页，即可生成最长15秒的片段，随后可通过文字进行延长、编辑和重新提示。可以从原创角色入手，也可以用自己的原创图像开始。Visuals在网页端、iOS和Android上线；Visual积分需与歌曲积分分开购买。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚创意和媒体产业每年为国民经济贡献$70.3 billion ，并支撑近600,000名从业者。该运动呼吁公众签署请愿书、致信当地联邦议员(MP)，并在nottheirstotake.com.au分享运动资料。"
+                "x": "新的文字与视觉过滤器旨在拦截试图生成特定艺人、公众人物、受版权保护作品及IP形象的上传和提示。生成内容在展示前会依据Community Guidelines进行审核，Audible Magic、ACRCloud和Musixmatch协助拦截受版权保护的音频，Visuals内容在分享到平台之外前会嵌入水印。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Entidades musicales de Australia\nexigen consentimiento ante la AI",
-          "body": "ARIA y PPCA piden a Canberra rechazar una excepción opt-out y que las firmas de AI pidan consentimiento previo.",
-          "mini_headline": "Australia exige consentimiento ante la AI",
+          "headline": "Suno convierte canciones en\nvideoclips y videos con letra",
+          "body": "Suno Visuals convierte una canción hecha en Suno en un videoclip, video con letra o mundo visual para compartir.",
+          "mini_headline": "Suno Visuals para canciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+                "cap": "Suno lanza Visuals. La imagen de cabecera es un collage de visuales."
               },
               {
                 "t": "p",
-                "x": "Las industrias musical, mediática y creativa de Australia instan al Gobierno federal a reforzar la protección de los derechos de autor frente al uso no autorizado de obras creativas australianas para entrenar sistemas de inteligencia artificial (AI). Lanzada el 17 de noviembre, antes de la 40.ª edición de los ARIA Awards, la campaña Not AI’s to Take está liderada por la Australian Recording Industry Association (ARIA) y la Phonographic Performance Company of Australia (PPCA)."
+                "x": "Cuando Suno lanzó Speech en octubre, llevó por primera vez lo que llama entretenimiento creativo más allá de la música. El video siempre había sido el siguiente paso lógico, pero hasta hace poco la generación de video era lenta y demasiado cara para cualquiera que no fuera una empresa. Una nueva generación de modelos cambia eso. Así llega Visuals: la herramienta creativa más reciente de Suno, pensada para dar vida a la música."
+              },
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
               },
               {
                 "t": "p",
-                "x": "En julio de 2026, el primer ministro Anthony Albanese dijo que ninguna empresa debería usar la obra de los creadores para entrenar AI sin su control, y añadió que “cualquier cosa menos es robo”. El Gobierno ya había descartado una excepción amplia de minería de textos y datos, pero continúan las conversaciones sobre licencias y su aplicación."
+                "x": "Con Visuals se pueden crear imágenes y videos nuevos: videos con letra que se mueven al ritmo, portadas de álbum que encajan con el sonido que uno imagina o una foto reinterpretada como un videoclip inspirador. El modelo está optimizado para complementar la música: los clips siguen la estructura de la canción, captan la letra y sincronizan los labios con ella."
               },
               {
                 "t": "p",
-                "x": "A ARIA y PPCA les preocupa que cualquier paso hacia un sistema opt-out debilite la protección vigente de los derechos de autor y traslade la responsabilidad a cada artista. En su lugar, la campaña defiende un enfoque de permiso previo que obligue a las empresas de AI a obtener consentimiento y negociar condiciones con los titulares de derechos antes de usar su material."
+                "x": "Basta con arrastrar cualquier canción de la biblioteca a la pestaña Visuals para crear clips de hasta 15 segundos, que luego se pueden ampliar, editar y volver a indicar con texto. Hay personajes originales para empezar, o se puede partir de una imagen original propia. Visuals llega a la web, iOS y Android; los créditos Visual se compran por separado de los créditos de canciones."
               },
               {
                 "t": "p",
-                "x": "Las industrias creativas y de medios de Australia aportan $70.3 billion al año a la economía nacional y sostienen casi 600,000 empleos. La campaña pide al público firmar una petición, escribir a su diputado federal (MP) local y compartir los materiales de la campaña en nottheirstotake.com.au."
+                "x": "Nuevos filtros de texto y visuales buscan bloquear cargas y prompts que intenten crear representaciones de artistas concretos, figuras públicas, obras protegidas por derechos de autor e IP. El contenido generado se revisa según las Community Guidelines antes de mostrarse, Audible Magic, ACRCloud y Musixmatch ayudan a bloquear audio protegido por derechos de autor, y se aplican marcas de agua incrustadas antes de que Visuals pueda compartirse fuera de la plataforma."
               }
             ]
           }
@@ -315,15 +365,15 @@
       }
     },
     {
-      "id": "elvis-suno-amended-suit",
+      "id": "spotify-artist-profile-protection",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Elvis 측, Suno에\n저작권 소송 확대",
-      "body": "Elvis Presley Enterprises 등이 Suno 저작권 소송을 키웠다.",
-      "mini_headline": "Elvis 측, Suno 소송 확대",
+      "headline": "Spotify 아티스트,\n이름 단 AI 가짜 거른다",
+      "body": "Spotify 전 아티스트가 Artist Profile Protection을 쓴다.",
+      "mini_headline": "Spotify, AI 가짜 곡 검증",
       "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/11/16/elvis-presley-enterprises-amended-suno-lawsuit/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -331,179 +381,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-            "cap": "1956년 라이브 무대에 선 Elvis Presley. 사진: Don Wright"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
           },
           {
             "t": "p",
-            "x": "Elvis Presley Enterprises가 Suno를 상대로 저작권 침해 및 NIL 소송을 낸 지 불과 일주일 만에 침해 의혹 결과물을 더 늘린 수정 소장을 냈다. Elvis Presley Enterprises, Authentic Brands Group, Raleigh Music Publishing 등 원고들은 11월 6일 처음 소송을 건 뒤 수정 소장을 정식 제출했다."
+            "x": "AI-generated 저품질 콘텐츠(slop)가 음악 스트리밍 플랫폼에 계속 쏟아지자 Spotify가 “Artist Profile Protection” 도구를 모든 아티스트에게 열었다. 자기 이름으로 올라오는 음악을 아티스트가 직접 관리하는 기능이다. 일부 아티스트와 베타 테스트를 시작한 지 여덟 달 만의 정식 출시다."
           },
           {
             "t": "p",
-            "x": "권리자들은 Suno 결과물에 Presley와 흡사한 보컬이 담겼다는 의혹을 앞세워 Tennessee주 ELVIS Act와 보통법상 퍼블리시티권 위반에 따른 구제를 요구한다. 저작권 쪽에서는 Suno가 학습 데이터셋을 만들려고 스트리밍 플랫폼에서 IP를 긁어모았다고 주장한다."
+            "x": "Billboard에 따르면 Sony Music은 지난달 디지털 플랫폼에 딥페이크 곡 260,000곡 이상을 내려 달라고 요청했다. 이 레이블이 3월에 밝힌 수치의 두 배에 가깝다."
           },
           {
             "t": "p",
-            "x": "원고들은 “다수의 추가 사례를 덧붙였으며…여기에는 이번 소송 대상 곡의 추가 침해 결과물 사례 42건 이상이 포함된다”고 밝혔다. 이와 별개로 침해 의혹 결과물 76건은 이번 소송에 들어가지 않은 Elvis 곡과 이어져 있는데, “Blue Suede Shoes”와 “Hound Dog”도 여기에 속한다."
+            "x": "Spotify for Artists에서 이 기능을 켜면 자기 이름으로 새 음악이 제출될 때마다 알림이 온다. 자신과 무관한 발매작이면 연결을 끊어 프로필에 뜨지 않게 하면 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+            "cap": "Image Credits: Spotify"
           },
           {
             "t": "p",
-            "x": "수정 소장은 Suno가 저작물 859건을 침해했다고도 주장한다. 법정 손해배상액은 최대 $128.85 million, DMCA 위반 의혹 관련 금액은 $23.62 million 이다."
+            "x": "기본 설정에서는 아티스트가 손대지 않으면 발매작이 예정대로 공개된다. 고급 설정을 켜면 발매작이 프로필에 오르기 전에 아티스트가 직접 승인하거나 거절해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "“아티스트가 자기 이름 아래에서 남의 음악을 발견하는 일은 결코 없어야 한다.” Spotify의 Global Head of Marketing and Policy(글로벌 마케팅·정책 총괄)인 Sam Duboff의 말이다. “우리는 콘텐츠 불일치라는 업계 전반의 문제에 해법을 내놓은 처음이자 유일한 스트리밍 서비스다.” Spotify는 베타 기간에 수천 명의 아티스트와 함께 도구를 다듬었다고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Elvis estate widens its\ncopyright suit against Suno",
-          "body": "Elvis Presley Enterprises and co-plaintiffs filed an expanded copyright and likeness complaint against Suno.",
-          "mini_headline": "Elvis estate widens Suno suit",
+          "headline": "Spotify lets artists vet\nAI fakes under their names",
+          "body": "Every Spotify artist can now use Artist Profile Protection to vet releases that appear under their name.",
+          "mini_headline": "Spotify vets AI fakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "Elvis Presley performing live in 1956. Photo Credit: Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Just one week after filing a copyright infringement and NIL suit against Suno, Elvis Presley Enterprises has fired off an amended action – complete with an expanded list of allegedly infringing outputs. Plaintiffs including Elvis Presley Enterprises, Authentic Brands Group, and Raleigh Music Publishing made the amended action official following the original suit’s filing on November 6th."
+                "x": "As AI-generated slop continues to flood music-streaming platforms, Spotify is rolling out an “Artist Profile Protection” tool to all artists, giving them control over the music appearing under their name. The official launch comes eight months after the company began beta-testing the feature with select artists."
               },
               {
                 "t": "p",
-                "x": "The rightsholders are seeking relief for alleged violations of Tennessee’s ELVIS Act and common law publicity right, centering on the alleged presence of Presley soundalike vocals in Suno outputs. On the copyright side, they accuse Suno of scraping IP from streaming platforms to create training datasets."
+                "x": "Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
               },
               {
                 "t": "p",
-                "x": "The plaintiffs say they “added a multitude of additional examples…including no less than 42 examples of additional infringing output of songs involved in this action.” Meanwhile, 76 allegedly infringing outputs are tied to Elvis songs not at issue here – “Blue Suede Shoes” and “Hound Dog” among them."
+                "x": "Artists can enable the feature through Spotify for Artists to receive alerts when new music is submitted under their name. If a release doesn’t belong to them, they can remove their association with it to stop it from appearing on their profile."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "The amended complaint likewise accuses Suno of infringing 859 works for a maximum of $128.85 million in statutory damages and $23.62 million from alleged DMCA violations."
+                "x": "By default, releases go live as scheduled unless an artist intervenes; an advanced setting requires artists to manually approve or reject releases before they appear on their profile."
+              },
+              {
+                "t": "p",
+                "x": "“Artists should never have to find someone else’s music under their name,” said Sam Duboff, Spotify’s Global Head of Marketing and Policy. “We’re the first and only streaming service with a solution to the industry-wide problem of content mismatch.” Spotify says it worked with thousands of artists during the beta to refine the tool."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Elvis 측, Suno에\n저작권 소송 확대",
-          "body": "Elvis Presley Enterprises 등이 Suno 저작권 소송을 키웠다.",
-          "mini_headline": "Elvis 측, Suno 소송 확대",
+          "headline": "Spotify 아티스트,\n이름 단 AI 가짜 거른다",
+          "body": "Spotify 전 아티스트가 Artist Profile Protection을 쓴다.",
+          "mini_headline": "Spotify, AI 가짜 곡 검증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "1956년 라이브 무대에 선 Elvis Presley. 사진: Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Elvis Presley Enterprises가 Suno를 상대로 저작권 침해 및 NIL 소송을 낸 지 불과 일주일 만에 침해 의혹 결과물을 더 늘린 수정 소장을 냈다. Elvis Presley Enterprises, Authentic Brands Group, Raleigh Music Publishing 등 원고들은 11월 6일 처음 소송을 건 뒤 수정 소장을 정식 제출했다."
+                "x": "AI-generated 저품질 콘텐츠(slop)가 음악 스트리밍 플랫폼에 계속 쏟아지자 Spotify가 “Artist Profile Protection” 도구를 모든 아티스트에게 열었다. 자기 이름으로 올라오는 음악을 아티스트가 직접 관리하는 기능이다. 일부 아티스트와 베타 테스트를 시작한 지 여덟 달 만의 정식 출시다."
               },
               {
                 "t": "p",
-                "x": "권리자들은 Suno 결과물에 Presley와 흡사한 보컬이 담겼다는 의혹을 앞세워 Tennessee주 ELVIS Act와 보통법상 퍼블리시티권 위반에 따른 구제를 요구한다. 저작권 쪽에서는 Suno가 학습 데이터셋을 만들려고 스트리밍 플랫폼에서 IP를 긁어모았다고 주장한다."
+                "x": "Billboard에 따르면 Sony Music은 지난달 디지털 플랫폼에 딥페이크 곡 260,000곡 이상을 내려 달라고 요청했다. 이 레이블이 3월에 밝힌 수치의 두 배에 가깝다."
               },
               {
                 "t": "p",
-                "x": "원고들은 “다수의 추가 사례를 덧붙였으며…여기에는 이번 소송 대상 곡의 추가 침해 결과물 사례 42건 이상이 포함된다”고 밝혔다. 이와 별개로 침해 의혹 결과물 76건은 이번 소송에 들어가지 않은 Elvis 곡과 이어져 있는데, “Blue Suede Shoes”와 “Hound Dog”도 여기에 속한다."
+                "x": "Spotify for Artists에서 이 기능을 켜면 자기 이름으로 새 음악이 제출될 때마다 알림이 온다. 자신과 무관한 발매작이면 연결을 끊어 프로필에 뜨지 않게 하면 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "수정 소장은 Suno가 저작물 859건을 침해했다고도 주장한다. 법정 손해배상액은 최대 $128.85 million, DMCA 위반 의혹 관련 금액은 $23.62 million 이다."
+                "x": "기본 설정에서는 아티스트가 손대지 않으면 발매작이 예정대로 공개된다. 고급 설정을 켜면 발매작이 프로필에 오르기 전에 아티스트가 직접 승인하거나 거절해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "“아티스트가 자기 이름 아래에서 남의 음악을 발견하는 일은 결코 없어야 한다.” Spotify의 Global Head of Marketing and Policy(글로벌 마케팅·정책 총괄)인 Sam Duboff의 말이다. “우리는 콘텐츠 불일치라는 업계 전반의 문제에 해법을 내놓은 처음이자 유일한 스트리밍 서비스다.” Spotify는 베타 기간에 수천 명의 아티스트와 함께 도구를 다듬었다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Elvis側がSunoへの\n著作権訴訟を拡大",
-          "body": "Elvis Presley EnterprisesなどがSunoへの著作権訴訟を拡大した。",
-          "mini_headline": "Elvis側、Suno訴訟を拡大",
+          "headline": "Spotify、名義を騙る\nAI偽物を本人が審査",
+          "body": "Spotifyの全アーティストがArtist Profile Protectionを使える。",
+          "mini_headline": "Spotify、AI偽物を審査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "1956年、ライブで歌うElvis Presley。写真:Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Sunoを相手取り著作権侵害とNILをめぐる訴訟を起こしてからわずか一週間で、Elvis Presley Enterprisesは侵害の疑いがある生成物のリストを拡大した修正訴状を提出した。Elvis Presley Enterprises、Authentic Brands Group、Raleigh Music Publishingなどの原告は、11月6日の当初の提訴に続き、修正訴状を正式なものとした。"
+                "x": "AI-generatedの粗製コンテンツが音楽配信プラットフォームにあふれ続けるなか、Spotifyは「Artist Profile Protection」ツールを全アーティストに展開し、自分の名義で表示される音楽を管理できるようにする。正式提供は、同社が一部のアーティストとこの機能のベータテストを始めてから八カ月後となる。"
               },
               {
                 "t": "p",
-                "x": "権利者側は、Sunoの生成物にPresleyに似た歌声が含まれているとの疑いを軸に、Tennessee州のELVIS Actとコモンロー上のパブリシティ権の侵害に対する救済を求めている。著作権の面では、Sunoが学習データセットを作るためにストリーミングプラットフォームからIPをスクレイピングしたと主張している。"
+                "x": "Billboardは先月、Sony Musicがデジタルプラットフォームに対し260,000曲を超えるディープフェイク楽曲の削除を要請したと報じた。同レーベルが3月に公表した数のほぼ倍にあたる。"
               },
               {
                 "t": "p",
-                "x": "原告側は「多数の追加事例を加えた…その中には、本件で対象となる楽曲の追加的な侵害生成物の事例が42件以上含まれる」としている。一方、侵害の疑いがある76件の生成物は本件の対象外であるElvisの楽曲に関連しており、「Blue Suede Shoes」や「Hound Dog」もその中に含まれる。"
+                "x": "アーティストはSpotify for Artistsでこの機能を有効にすると、自分の名義で新しい音楽が提出された際に通知を受け取れる。自分のものでないリリースなら関連付けを外し、プロフィールに表示されないようにできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "修正訴状はまた、Sunoが859作品を侵害したとして、最大$128.85 million の法定損害賠償と、DMCA違反の疑いによる$23.62 million を求めている。"
+                "x": "初期設定では、アーティストが介入しない限りリリースは予定どおり公開される。詳細設定を使えば、プロフィールに表示される前にアーティストが手動で承認または却下する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "「アーティストが自分の名義で他人の音楽を見つけるようなことは、決してあってはならない」と、SpotifyのGlobal Head of Marketing and Policyを務めるSam Duboffは語る。「当社は、業界全体に及ぶコンテンツの不一致という問題に解決策を持つ、最初で唯一のストリーミングサービスだ」。Spotifyによると、ベータ期間中に数千人のアーティストと協力してツールを改良したという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Elvis遗产方扩大\n对Suno的版权诉讼",
-          "body": "Elvis Presley Enterprises等方扩大了对Suno的版权与肖像权诉讼。",
-          "mini_headline": "Elvis遗产方扩大对Suno诉讼",
+          "headline": "Spotify让艺人\n审核冒名AI伪作",
+          "body": "Spotify全体艺人现可用Artist Profile Protection审核作品。",
+          "mini_headline": "Spotify审核AI伪作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "1956年，Elvis Presley在现场演出。图片来源：Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "在对Suno提起版权侵权及NIL诉讼仅一周后，Elvis Presley Enterprises又提交了修正诉状，并扩充了涉嫌侵权的生成内容清单。Elvis Presley Enterprises、Authentic Brands Group和Raleigh Music Publishing等原告在11月6日提起原诉后，正式提交了这份修正诉状。"
+                "x": "在AI-generated劣质内容持续涌入音乐流媒体平台之际，Spotify正向所有艺人推出“Artist Profile Protection”工具，让他们掌控以自己名义出现的音乐。该公司八个月前开始与部分艺人对这一功能进行beta测试，如今正式上线。"
               },
               {
                 "t": "p",
-                "x": "权利人围绕Suno生成内容中疑似出现Presley仿声人声一事，就涉嫌违反Tennessee州ELVIS Act及普通法公开权寻求救济。在版权方面，他们指控Suno从流媒体平台抓取IP以构建训练数据集。"
+                "x": "Billboard上月报道，Sony Music已要求数字平台删除超过260,000首深度伪造歌曲，接近该唱片公司3月披露数量的两倍。"
               },
               {
                 "t": "p",
-                "x": "原告表示，他们“增加了大量额外示例……其中包括不少于42个涉及本案歌曲的额外侵权生成示例”。此外，另有76个涉嫌侵权的生成内容与本案未涉及的Elvis歌曲相关，其中包括“Blue Suede Shoes”和“Hound Dog”。"
+                "x": "艺人可通过Spotify for Artists启用该功能，在有新音乐以其名义提交时收到提醒。若某作品并非本人所有，可解除关联，使其不再出现在个人主页上。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "修正诉状同样指控Suno侵犯了859部作品，法定赔偿最高可达$128.85 million ，另有涉嫌违反DMCA的$23.62 million 。"
+                "x": "默认情况下，除非艺人介入，作品会按计划上线；高级设置则要求艺人在作品出现在主页前手动批准或拒绝。"
+              },
+              {
+                "t": "p",
+                "x": "“艺人绝不应该在自己名下发现别人的音乐，”Spotify的Global Head of Marketing and Policy Sam Duboff表示，“我们是首个也是唯一一个为内容错配这一全行业问题提供解决方案的流媒体服务。”Spotify称，测试期间它与数千名艺人合作完善了这一工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El patrimonio de Elvis amplía\nsu demanda contra Suno",
-          "body": "Elvis Presley Enterprises y otros demandantes ampliaron su demanda contra Suno por derechos de autor e imagen.",
-          "mini_headline": "Elvis amplía su demanda contra Suno",
+          "headline": "Spotify deja a los artistas\nfiltrar copias AI con su nombre",
+          "body": "Todos los artistas de Spotify ya pueden usar Artist Profile Protection para revisar lo que sale a su nombre.",
+          "mini_headline": "Spotify revisa copias AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "Elvis Presley actuando en directo en 1956. Foto: Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Apenas una semana después de demandar a Suno por infracción de derechos de autor y NIL, Elvis Presley Enterprises ha presentado una demanda enmendada, con una lista ampliada de resultados presuntamente infractores. Los demandantes, entre ellos Elvis Presley Enterprises, Authentic Brands Group y Raleigh Music Publishing, formalizaron la demanda enmendada tras la presentación de la original el 6 de noviembre."
+                "x": "Mientras el contenido de baja calidad generado por AI (AI-generated) sigue inundando las plataformas de streaming musical, Spotify extiende a todos los artistas su herramienta “Artist Profile Protection”, que les da control sobre la música que aparece con su nombre. El lanzamiento oficial llega ocho meses después de que la empresa empezara a probar la función en beta con artistas seleccionados."
               },
               {
                 "t": "p",
-                "x": "Los titulares de derechos piden reparación por presuntas violaciones de la ELVIS Act de Tennessee y del derecho de publicidad del common law, centradas en la supuesta presencia de voces que imitan a Presley en los resultados de Suno. En cuanto a los derechos de autor, acusan a Suno de extraer IP de plataformas de streaming para crear conjuntos de datos de entrenamiento."
+                "x": "Billboard informó el mes pasado que Sony Music había solicitado retirar de las plataformas digitales más de 260,000 canciones deepfake, casi el doble de la cifra que el sello reveló en marzo."
               },
               {
                 "t": "p",
-                "x": "Los demandantes afirman que “añadieron multitud de ejemplos adicionales… incluidos no menos de 42 ejemplos de resultados infractores adicionales de canciones implicadas en esta acción”. Además, 76 resultados presuntamente infractores están vinculados a canciones de Elvis que no forman parte del caso, entre ellas “Blue Suede Shoes” y “Hound Dog”."
+                "x": "Los artistas pueden activar la función desde Spotify for Artists para recibir alertas cuando se envíe música nueva con su nombre. Si un lanzamiento no es suyo, pueden eliminar su vínculo con él para que no aparezca en su perfil."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "La demanda enmendada acusa además a Suno de infringir 859 obras, por un máximo de $128.85 million en daños legales y $23.62 million por presuntas violaciones de la DMCA."
+                "x": "Por defecto, los lanzamientos se publican según lo previsto salvo que el artista intervenga; un ajuste avanzado obliga a los artistas a aprobar o rechazar manualmente cada lanzamiento antes de que aparezca en su perfil."
+              },
+              {
+                "t": "p",
+                "x": "“Los artistas nunca deberían encontrar música de otra persona con su nombre”, dijo Sam Duboff, Global Head of Marketing and Policy de Spotify. “Somos el primer y único servicio de streaming con una solución al problema de desajuste de contenidos que afecta a toda la industria”. Spotify afirma que trabajó con miles de artistas durante la beta para perfeccionar la herramienta."
               }
             ]
           }
@@ -511,125 +609,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Elvis 측, Suno에\n저작권 소송 확대",
-          "body": "Elvis Presley Enterprises 등이 Suno 저작권 소송을 넓혔다.",
-          "mini_headline": "Elvis 측, Suno 소송 확대",
+          "headline": "Spotify 아티스트,\n이름 단 AI 가짜 거른다",
+          "body": "Spotify 전 아티스트가 Artist Profile Protection을 쓴다.",
+          "mini_headline": "Spotify, AI 가짜 곡 검증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "1956년 라이브 무대에 선 Elvis Presley. 사진: Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Suno를 상대로 저작권 침해 및 NIL 소송을 낸 지 불과 일주일 만에 Elvis Presley Enterprises가 침해 의혹 결과물 목록을 늘린 수정 소장을 냈다. Elvis Presley Enterprises, Authentic Brands Group, Raleigh Music Publishing 등 원고들은 11월 6일 원래 소송을 제기한 데 이어 수정 소장을 정식으로 제출했다."
+                "x": "AI-generated 저품질 콘텐츠(slop)가 음악 스트리밍 플랫폼에 계속 쏟아지는 가운데, Spotify가 “Artist Profile Protection” 도구를 모든 아티스트에게 제공한다. 아티스트는 자기 이름으로 올라오는 음악을 직접 관리할 수 있다. 정식 출시는 회사가 일부 아티스트와 이 기능의 베타 테스트를 시작한 지 여덟 달 만이다."
               },
               {
                 "t": "p",
-                "x": "권리자들은 Suno 결과물에 Presley와 흡사한 보컬이 들어 있다는 의혹을 중심으로, Tennessee주 ELVIS Act와 보통법상 퍼블리시티권 위반에 대한 구제를 요구하고 있다. 저작권 측면에서는 Suno가 학습 데이터셋을 만들려고 스트리밍 플랫폼에서 IP를 긁어모았다고 주장한다."
+                "x": "Billboard는 지난달 Sony Music이 디지털 플랫폼에 260,000곡이 넘는 딥페이크 곡의 삭제를 요청했다고 보도했다. 이 레이블이 3월에 밝힌 수치의 두 배에 가깝다."
               },
               {
                 "t": "p",
-                "x": "원고들은 “다수의 추가 사례를 덧붙였으며…여기에는 이번 소송 대상 곡의 추가 침해 결과물 사례 42건 이상이 포함된다”고 밝혔다. 한편 침해 의혹 결과물 76건은 이번 소송 대상이 아닌 Elvis 곡과 연결돼 있으며, “Blue Suede Shoes”와 “Hound Dog”도 그중 하나다."
+                "x": "아티스트는 Spotify for Artists에서 이 기능을 켜면 자기 이름으로 새 음악이 제출될 때 알림을 받는다. 자신과 무관한 발매작이라면 연결을 해제해 프로필에 뜨지 않게 할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "수정 소장은 또한 Suno가 저작물 859건을 침해했다고 주장하며, 최대 법정 손해배상액은 $128.85 million, DMCA 위반 의혹 관련 금액은 $23.62 million 이다."
+                "x": "기본 설정에서는 아티스트가 개입하지 않는 한 발매작이 예정대로 공개된다. 고급 설정을 쓰면 발매작이 프로필에 뜨기 전에 아티스트가 직접 승인하거나 거절해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "“아티스트가 자기 이름 아래에서 남의 음악을 발견하는 일은 결코 없어야 한다.” Spotify의 Global Head of Marketing and Policy(글로벌 마케팅·정책 총괄)인 Sam Duboff의 말이다. “우리는 콘텐츠 불일치라는 업계 전반의 문제에 해법을 내놓은 처음이자 유일한 스트리밍 서비스다.” Spotify는 베타 기간 수천 명의 아티스트와 함께 도구를 다듬었다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Elvis側がSunoへの\n著作権訴訟を拡大",
-          "body": "Elvis Presley EnterprisesなどがSunoへの著作権訴訟を拡大した。",
-          "mini_headline": "Elvis側、Suno訴訟を拡大",
+          "headline": "Spotify、名義を騙る\nAI偽物を本人が審査",
+          "body": "Spotifyの全アーティストがArtist Profile Protectionを使える。",
+          "mini_headline": "Spotify、AI偽物を審査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "1956年、ライブで歌うElvis Presley。写真:Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Sunoを相手取り著作権侵害とNILをめぐる訴訟を起こしてからわずか一週間で、Elvis Presley Enterprisesは侵害の疑いがある生成物のリストを拡大した修正訴状を提出した。Elvis Presley Enterprises、Authentic Brands Group、Raleigh Music Publishingなどの原告は、11月6日の当初の提訴に続き、修正訴状を正式なものとした。"
+                "x": "AI-generatedの粗製コンテンツが音楽配信プラットフォームにあふれ続けるなか、Spotifyは「Artist Profile Protection」ツールを全アーティストに展開し、自分の名義で表示される音楽を管理できるようにする。正式提供は、同社が一部のアーティストとこの機能のベータテストを始めてから八カ月後となる。"
               },
               {
                 "t": "p",
-                "x": "権利者側は、Sunoの生成物にPresleyに似た歌声が含まれているとの疑いを軸に、Tennessee州のELVIS Actとコモンロー上のパブリシティ権の侵害に対する救済を求めている。著作権の面では、Sunoが学習データセットを作るためにストリーミングプラットフォームからIPをスクレイピングしたと主張している。"
+                "x": "Billboardは先月、Sony Musicがデジタルプラットフォームに対し260,000曲を超えるディープフェイク楽曲の削除を要請したと報じた。同レーベルが3月に公表した数のほぼ倍にあたる。"
               },
               {
                 "t": "p",
-                "x": "原告側は「多数の追加事例を加えた…その中には、本件で対象となる楽曲の追加的な侵害生成物の事例が42件以上含まれる」としている。一方、侵害の疑いがある76件の生成物は本件の対象外であるElvisの楽曲に関連しており、「Blue Suede Shoes」や「Hound Dog」もその中に含まれる。"
+                "x": "アーティストはSpotify for Artistsでこの機能を有効にすると、自分の名義で新しい音楽が提出された際に通知を受け取れる。自分のものでないリリースなら関連付けを外し、プロフィールに表示されないようにできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "修正訴状はまた、Sunoが859作品を侵害したとして、最大$128.85 million の法定損害賠償と、DMCA違反の疑いによる$23.62 million を求めている。"
+                "x": "初期設定では、アーティストが介入しない限りリリースは予定どおり公開される。詳細設定を使えば、プロフィールに表示される前にアーティストが手動で承認または却下する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "「アーティストが自分の名義で他人の音楽を見つけるようなことは、決してあってはならない」と、SpotifyのGlobal Head of Marketing and Policyを務めるSam Duboffは語る。「当社は、業界全体に及ぶコンテンツの不一致という問題に解決策を持つ、最初で唯一のストリーミングサービスだ」。Spotifyによると、ベータ期間中に数千人のアーティストと協力してツールを改良したという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Elvis遗产方扩大\n对Suno的版权诉讼",
-          "body": "Elvis Presley Enterprises等方扩大了对Suno的版权与肖像权诉讼。",
-          "mini_headline": "Elvis遗产方扩大对Suno诉讼",
+          "headline": "Spotify让艺人\n审核冒名AI伪作",
+          "body": "Spotify全体艺人现可用Artist Profile Protection审核作品。",
+          "mini_headline": "Spotify审核AI伪作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "1956年，Elvis Presley在现场演出。图片来源：Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "在对Suno提起版权侵权及NIL诉讼仅一周后，Elvis Presley Enterprises又提交了修正诉状，并扩充了涉嫌侵权的生成内容清单。Elvis Presley Enterprises、Authentic Brands Group和Raleigh Music Publishing等原告在11月6日提起原诉后，正式提交了这份修正诉状。"
+                "x": "在AI-generated劣质内容持续涌入音乐流媒体平台之际，Spotify正向所有艺人推出“Artist Profile Protection”工具，让他们掌控以自己名义出现的音乐。该公司八个月前开始与部分艺人对这一功能进行beta测试，如今正式上线。"
               },
               {
                 "t": "p",
-                "x": "权利人围绕Suno生成内容中疑似出现Presley仿声人声一事，就涉嫌违反Tennessee州ELVIS Act及普通法公开权寻求救济。在版权方面，他们指控Suno从流媒体平台抓取IP以构建训练数据集。"
+                "x": "Billboard上月报道，Sony Music已要求数字平台删除超过260,000首深度伪造歌曲，接近该唱片公司3月披露数量的两倍。"
               },
               {
                 "t": "p",
-                "x": "原告表示，他们“增加了大量额外示例……其中包括不少于42个涉及本案歌曲的额外侵权生成示例”。此外，另有76个涉嫌侵权的生成内容与本案未涉及的Elvis歌曲相关，其中包括“Blue Suede Shoes”和“Hound Dog”。"
+                "x": "艺人可通过Spotify for Artists启用该功能，在有新音乐以其名义提交时收到提醒。若某作品并非本人所有，可解除关联，使其不再出现在个人主页上。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "修正诉状同样指控Suno侵犯了859部作品，法定赔偿最高可达$128.85 million ，另有涉嫌违反DMCA的$23.62 million 。"
+                "x": "默认情况下，除非艺人介入，作品会按计划上线；高级设置则要求艺人在作品出现在主页前手动批准或拒绝。"
+              },
+              {
+                "t": "p",
+                "x": "“艺人绝不应该在自己名下发现别人的音乐，”Spotify的Global Head of Marketing and Policy Sam Duboff表示，“我们是首个也是唯一一个为内容错配这一全行业问题提供解决方案的流媒体服务。”Spotify称，测试期间它与数千名艺人合作完善了这一工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El patrimonio de Elvis amplía\nsu demanda contra Suno",
-          "body": "Elvis Presley Enterprises y otros demandantes ampliaron su demanda contra Suno por derechos de autor e imagen.",
-          "mini_headline": "Elvis amplía su demanda contra Suno",
+          "headline": "Spotify deja a los artistas\nfiltrar copias AI con su nombre",
+          "body": "Todos los artistas de Spotify ya pueden usar Artist Profile Protection para revisar lo que sale a su nombre.",
+          "mini_headline": "Spotify revisa copias AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Elvis-Live-1024x546.jpg",
-                "cap": "Elvis Presley actuando en directo en 1956. Foto: Don Wright"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
               },
               {
                 "t": "p",
-                "x": "Apenas una semana después de demandar a Suno por infracción de derechos de autor y NIL, Elvis Presley Enterprises ha presentado una demanda enmendada, con una lista ampliada de resultados presuntamente infractores. Los demandantes, entre ellos Elvis Presley Enterprises, Authentic Brands Group y Raleigh Music Publishing, formalizaron la demanda enmendada tras la presentación de la original el 6 de noviembre."
+                "x": "Mientras el contenido de baja calidad generado por AI (AI-generated) sigue inundando las plataformas de streaming musical, Spotify extiende a todos los artistas su herramienta “Artist Profile Protection”, que les da control sobre la música que aparece con su nombre. El lanzamiento oficial llega ocho meses después de que la empresa empezara a probar la función en beta con artistas seleccionados."
               },
               {
                 "t": "p",
-                "x": "Los titulares de derechos piden reparación por presuntas violaciones de la ELVIS Act de Tennessee y del derecho de publicidad del common law, centradas en la supuesta presencia de voces que imitan a Presley en los resultados de Suno. En cuanto a los derechos de autor, acusan a Suno de extraer IP de plataformas de streaming para crear conjuntos de datos de entrenamiento."
+                "x": "Billboard informó el mes pasado que Sony Music había solicitado retirar de las plataformas digitales más de 260,000 canciones deepfake, casi el doble de la cifra que el sello reveló en marzo."
               },
               {
                 "t": "p",
-                "x": "Los demandantes afirman que “añadieron multitud de ejemplos adicionales… incluidos no menos de 42 ejemplos de resultados infractores adicionales de canciones implicadas en esta acción”. Además, 76 resultados presuntamente infractores están vinculados a canciones de Elvis que no forman parte del caso, entre ellas “Blue Suede Shoes” y “Hound Dog”."
+                "x": "Los artistas pueden activar la función desde Spotify for Artists para recibir alertas cuando se envíe música nueva con su nombre. Si un lanzamiento no es suyo, pueden eliminar su vínculo con él para que no aparezca en su perfil."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+                "cap": "Image Credits: Spotify"
               },
               {
                 "t": "p",
-                "x": "La demanda enmendada acusa además a Suno de infringir 859 obras, por un máximo de $128.85 million en daños legales y $23.62 million por presuntas violaciones de la DMCA."
+                "x": "Por defecto, los lanzamientos se publican según lo previsto salvo que el artista intervenga; un ajuste avanzado obliga a los artistas a aprobar o rechazar manualmente cada lanzamiento antes de que aparezca en su perfil."
+              },
+              {
+                "t": "p",
+                "x": "“Los artistas nunca deberían encontrar música de otra persona con su nombre”, dijo Sam Duboff, Global Head of Marketing and Policy de Spotify. “Somos el primer y único servicio de streaming con una solución al problema de desajuste de contenidos que afecta a toda la industria”. Spotify afirma que trabajó con miles de artistas durante la beta para perfeccionar la herramienta."
               }
             ]
           }
@@ -637,15 +767,15 @@
       }
     },
     {
-      "id": "difro-melody-v25-plugin",
+      "id": "deezer-ipsos-ai-survey",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Difro Melody\nAI 2.5 로컬 MIDI",
-      "body": "2.5는 16마디까지 로컬 MIDI로 바꾸고 VST3/AU로 DAW와 붙는다.",
-      "mini_headline": "Difro 2.5, 로컬 MIDI 추가",
+      "headline": "완전 AI 음악 흥행,\n기대하는 청취자 줄었다",
+      "body": "Deezer·Ipsos가 9,000명을 조사하니 AI-made 음악 기대가 꺾였다.",
+      "mini_headline": "AI 음악 회의론 커져",
       "tool": "Music",
-      "source": "KVR Audio",
-      "url": "https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/11/17/deezer-report-ai-music-2026/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -653,197 +783,131 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+            "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+            "cap": "Deezer AI 음악 보고서 2026"
           },
           {
             "t": "p",
-            "x": "Initial Audio가 AI 멜로디 생성기 Difro Melody AI v2.5 업데이트를 내놨다. audio-to-MIDI 변환과 VST3/AU 플러그인이 새로 들어갔다."
+            "x": "Deezer가 AI-generated 음악 인식을 묻는 두 번째 연례 조사 결과를 내놨다. 조사는 Ipsos가 맡았고, US(미국), 캐나다, 브라질, UK(영국), 프랑스, 네덜란드, 독일, 일본에서 9,000명이 응답했다."
           },
           {
             "t": "p",
-            "x": "오디오 루프를 피아노 롤에 끌어다 놓으면 Difro가 벨로시티 데이터까지 담아 로컬에서 MIDI로 바꾼다. 멜로디 루프는 최대 16마디까지 처리하고 그보다 긴 파일은 앞 16마디만 남기고 자른다. 변환 결과는 Re-Imagine으로 새 변주를 만들 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "VST3와 AU 플러그인은 DAW 호스트와 동기화해 MIDI나 오디오, 또는 둘 다를 실시간으로 내보낸다. latch 옵션을 켜고 MIDI 노트로 연주할 수도 있다. 이 밖에 대화형 퀵스타트 튜토리얼, Windows 환경의 NVIDIA Blackwell GPUs 지원(구형 Maxwell GPUs는 지원 종료), 다운로드 용량·메모리 사용량 300 MB 절감, 크기를 바꿀 수 있는 새 UI가 추가됐다."
-          },
-          {
-            "t": "video",
-            "yt": "FfOGA4FlLO0"
-          },
-          {
-            "t": "p",
-            "x": "기본 버전은 구독 없이 무료로 쓸 수 있지만 월간 생성 횟수에 제한이 있다. Pro 버전은 생성 횟수 제한이 없다."
+            "x": "Deezer 보도자료에는 통계와 전년 대비 비교가 가득하지만, 가장 흥미로운 흐름은 Music Ally가 확인한 보고서 본문에만 나온다. AI-generated 음악이 인기를 얻을지를 사람들이 어떻게 보느냐다. 보고서는 완전한 AI 음악(fully-AI)이 인기를 끌 것이라고 믿는 사람이 줄고 있다고 짚었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Difro Melody AI 2.5 turns\nloops into MIDI on device",
-          "body": "Version 2.5 converts melodic loops of up to 16 bars to MIDI locally and now runs as a VST3/AU plugin with DAW sync.",
-          "mini_headline": "Difro 2.5 adds local MIDI",
+          "headline": "Fewer listeners expect\nfully AI music to catch on",
+          "body": "A Deezer and Ipsos survey of 9,000 people finds shrinking belief that fully AI-made music will become popular.",
+          "mini_headline": "AI music doubts grow",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Deezer AI music report 2026"
               },
               {
                 "t": "p",
-                "x": "Initial Audio has released Difro Melody AI v2.5, an update to its AI melody generator that adds audio-to-MIDI conversion and a VST3/AU plugin."
+                "x": "Deezer has published its second annual survey of attitudes towards AI-generated music, enlisting Ipsos to canvass 9,000 people in the US, Canada, Brazil, UK, France, Netherlands, Germany and Japan."
               },
               {
                 "t": "p",
-                "x": "Users can drag an audio loop into the piano roll and Difro converts it to MIDI locally, with velocity data. It works for melodic loops of up to 16 bars; longer files are cut to the first 16. Re-Imagine can then generate new variations from the transcription."
-              },
-              {
-                "t": "p",
-                "x": "The VST3 and AU plugin syncs to the DAW host and outputs MIDI, audio or both in realtime, and can be played via MIDI notes with a latch option. Other changes include an interactive quick-start tutorial, support for NVIDIA Blackwell GPUs on Windows (older Maxwell GPUs are no longer supported), a 300 MB smaller download and memory footprint, and a revised, resizable UI."
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "The base version is free with a monthly generation limit and no subscription; a Pro version offers unlimited generations."
+                "x": "There’s a blizzard of stats and year-on-year comparisons in Deezer’s press release, but the most interesting trend can only be found in the report itself – which Music Ally has seen. It relates to whether people think that AI-generated music will be popular or not: the report finds shrinking belief that fully-AI music will be popular."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Difro Melody\nAI 2.5 로컬 MIDI",
-          "body": "2.5는 16마디까지 로컬 MIDI로 바꾸고 VST3/AU로 DAW와 붙는다.",
-          "mini_headline": "Difro 2.5, 로컬 MIDI 추가",
+          "headline": "완전 AI 음악 흥행,\n기대하는 청취자 줄었다",
+          "body": "Deezer·Ipsos가 9,000명을 조사하니 AI-made 음악 기대가 꺾였다.",
+          "mini_headline": "AI 음악 회의론 커져",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Deezer AI 음악 보고서 2026"
               },
               {
                 "t": "p",
-                "x": "Initial Audio가 AI 멜로디 생성기 Difro Melody AI v2.5 업데이트를 내놨다. audio-to-MIDI 변환과 VST3/AU 플러그인이 새로 들어갔다."
+                "x": "Deezer가 AI-generated 음악 인식을 묻는 두 번째 연례 조사 결과를 내놨다. 조사는 Ipsos가 맡았고, US(미국), 캐나다, 브라질, UK(영국), 프랑스, 네덜란드, 독일, 일본에서 9,000명이 응답했다."
               },
               {
                 "t": "p",
-                "x": "오디오 루프를 피아노 롤에 끌어다 놓으면 Difro가 벨로시티 데이터까지 담아 로컬에서 MIDI로 바꾼다. 멜로디 루프는 최대 16마디까지 처리하고 그보다 긴 파일은 앞 16마디만 남기고 자른다. 변환 결과는 Re-Imagine으로 새 변주를 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "VST3와 AU 플러그인은 DAW 호스트와 동기화해 MIDI나 오디오, 또는 둘 다를 실시간으로 내보낸다. latch 옵션을 켜고 MIDI 노트로 연주할 수도 있다. 이 밖에 대화형 퀵스타트 튜토리얼, Windows 환경의 NVIDIA Blackwell GPUs 지원(구형 Maxwell GPUs는 지원 종료), 다운로드 용량·메모리 사용량 300 MB 절감, 크기를 바꿀 수 있는 새 UI가 추가됐다."
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "기본 버전은 구독 없이 무료로 쓸 수 있지만 월간 생성 횟수에 제한이 있다. Pro 버전은 생성 횟수 제한이 없다."
+                "x": "Deezer 보도자료에는 통계와 전년 대비 비교가 가득하지만, 가장 흥미로운 흐름은 Music Ally가 확인한 보고서 본문에만 나온다. AI-generated 음악이 인기를 얻을지를 사람들이 어떻게 보느냐다. 보고서는 완전한 AI 음악(fully-AI)이 인기를 끌 것이라고 믿는 사람이 줄고 있다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Difro Melody\nAI 2.5でMIDI変換",
-          "body": "2.5は16小節までのループをローカルでMIDI化し、VST3/AUでDAWと同期する。",
-          "mini_headline": "Difro 2.5、ローカルMIDI対応",
+          "headline": "完全AI音楽の流行\n期待する聴き手が減少",
+          "body": "DeezerとIpsosの9,000人調査で、完全AI-made音楽への期待が減った。",
+          "mini_headline": "AI音楽への懐疑が拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Deezer AI音楽レポート 2026"
               },
               {
                 "t": "p",
-                "x": "Initial AudioはAIメロディ生成ツールのアップデート、Difro Melody AI v2.5をリリースした。audio-to-MIDI変換とVST3/AUプラグインが加わった。"
+                "x": "Deezerは、AI-generated音楽に対する意識調査の第二回年次版を公表した。Ipsosに委託し、US、カナダ、ブラジル、UK、フランス、オランダ、ドイツ、日本の9,000人を調べた。"
               },
               {
                 "t": "p",
-                "x": "オーディオループをピアノロールにドラッグすると、DifroがベロシティデータとともにローカルでMIDIに変換する。対象は最大16小節のメロディックなループで、それより長いファイルは最初の16小節にカットされる。その後、Re-Imagineで書き起こしから新たなバリエーションを生成できる。"
-              },
-              {
-                "t": "p",
-                "x": "VST3とAUのプラグインはDAWホストと同期し、MIDI、オーディオ、またはその両方をリアルタイムで出力する。ラッチオプション付きでMIDIノートから演奏することもできる。ほかに、対話型のクイックスタートチュートリアル、WindowsでのNVIDIA Blackwell GPUs対応(旧世代のMaxwell GPUsはサポート終了)、ダウンロードサイズとメモリ使用量の300 MB削減、サイズ変更可能な刷新UIが加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "基本版は無料でサブスクリプション不要だが、月ごとの生成回数に上限がある。Pro版は生成回数が無制限だ。"
+                "x": "Deezerのプレスリリースには統計や前年比較が大量に並ぶが、最も興味深い傾向はMusic Allyが目にした報告書本体にしか載っていない。それはAI-generated音楽が人気を得るかどうかという認識に関するもので、報告書はfully-AI音楽が人気になるとの見方が縮小していることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Difro Melody\nAI 2.5本地转MIDI",
-          "body": "2.5版可在本地将最多16小节的旋律循环转为MIDI，并以VST3/AU插件与DAW同步。",
-          "mini_headline": "Difro 2.5新增本地MIDI转换",
+          "headline": "预期纯AI音乐走红的\n听众变少了",
+          "body": "Deezer与Ipsos对9,000人调查显示，相信完全AI-made音乐会流行的人变少。",
+          "mini_headline": "AI音乐质疑声渐增",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Deezer AI音乐报告 2026"
               },
               {
                 "t": "p",
-                "x": "Initial Audio发布了其AI旋律生成器的更新版本Difro Melody AI v2.5，新增audio-to-MIDI转换功能和VST3/AU插件。"
+                "x": "Deezer发布了第二份关于AI-generated音乐态度的年度调查，委托Ipsos在US、加拿大、巴西、UK、法国、荷兰、德国和日本调查了9,000人。"
               },
               {
                 "t": "p",
-                "x": "用户可将音频循环拖入钢琴卷帘，Difro会在本地将其转换为MIDI，并保留力度数据。该功能适用于最长16小节的旋律循环；更长的文件会被截取前16小节。随后可用Re-Imagine根据转录结果生成新的变奏。"
-              },
-              {
-                "t": "p",
-                "x": "VST3和AU插件可与DAW宿主同步，实时输出MIDI、音频或两者兼有，并可通过MIDI音符演奏，支持latch选项。其他更新包括交互式快速入门教程、Windows上对NVIDIA Blackwell GPUs的支持（较旧的Maxwell GPUs不再受支持）、下载体积和内存占用减少300 MB，以及经过改版、可调整大小的UI。"
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "基础版免费且无需订阅，但每月生成次数有限；Pro版提供无限次生成。"
+                "x": "Deezer的新闻稿里满是统计数据和同比对比，但最有意思的趋势只出现在Music Ally看到的报告正文中。它涉及人们是否认为AI-generated音乐会流行：报告发现，相信fully-AI音乐会流行的人越来越少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Difro Melody AI 2.5 convierte\nloops en MIDI en el dispositivo",
-          "body": "La versión 2.5 convierte en local loops de hasta 16 compases a MIDI y funciona como plugin VST3/AU con sincronía DAW.",
-          "mini_headline": "Difro 2.5 añade MIDI local",
+          "headline": "Menos oyentes esperan que\ntriunfe la música solo con AI",
+          "body": "Una encuesta de Deezer e Ipsos a 9,000 personas detecta menos confianza en que la música íntegramente AI-made triunfe.",
+          "mini_headline": "Crecen las dudas sobre la música AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Informe Deezer de música AI 2026"
               },
               {
                 "t": "p",
-                "x": "Initial Audio ha lanzado Difro Melody AI v2.5, una actualización de su generador de melodías con AI que añade conversión audio-to-MIDI y un plugin VST3/AU."
+                "x": "Deezer ha publicado su segunda encuesta anual sobre las actitudes ante la música generada por AI (AI-generated), para la que encargó a Ipsos consultar a 9,000 personas en US (Estados Unidos), Canadá, Brasil, UK (Reino Unido), Francia, Países Bajos, Alemania y Japón."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden arrastrar un loop de audio al piano roll y Difro lo convierte a MIDI en local, con datos de velocidad. Funciona con loops melódicos de hasta 16 compases; los archivos más largos se recortan a los primeros 16. Después, Re-Imagine puede generar nuevas variaciones a partir de la transcripción."
-              },
-              {
-                "t": "p",
-                "x": "El plugin VST3 y AU se sincroniza con el DAW anfitrión y emite MIDI, audio o ambos en tiempo real, y puede tocarse mediante notas MIDI con una opción de latch. Otros cambios incluyen un tutorial interactivo de inicio rápido, compatibilidad con NVIDIA Blackwell GPUs en Windows (las Maxwell GPUs más antiguas ya no son compatibles), una descarga y un uso de memoria 300 MB menores y una UI renovada y redimensionable."
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "La versión básica es gratuita, sin suscripción y con un límite mensual de generaciones; la versión Pro ofrece generaciones ilimitadas."
+                "x": "El comunicado de prensa de Deezer trae una avalancha de cifras y comparaciones interanuales, pero la tendencia más interesante solo aparece en el propio informe, al que ha tenido acceso Music Ally. Tiene que ver con si la gente cree que la música generada por AI (AI-generated) será popular o no: el informe detecta una creencia cada vez menor en que la música totalmente hecha con AI (fully-AI) vaya a ser popular."
               }
             ]
           }
@@ -851,137 +915,93 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Difro Melody\nAI 2.5 로컬 MIDI",
-          "body": "2.5는 16마디까지 로컬 MIDI로 바꾸고 VST3/AU로 DAW와 연동된다.",
-          "mini_headline": "Difro 2.5, 로컬 MIDI 추가",
+          "headline": "완전 AI 음악 흥행,\n기대하는 청취자 줄었다",
+          "body": "Deezer·Ipsos 9,000명 조사에서 AI-made 음악 기대가 줄었다.",
+          "mini_headline": "AI 음악 회의론 커져",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Deezer AI 음악 보고서 2026"
               },
               {
                 "t": "p",
-                "x": "Initial Audio가 AI 멜로디 생성기 업데이트 Difro Melody AI v2.5를 내놓았다. audio-to-MIDI 변환과 VST3/AU 플러그인이 추가됐다."
+                "x": "Deezer가 AI-generated 음악에 대한 인식을 묻는 두 번째 연례 조사를 발표했다. Ipsos가 US(미국), 캐나다, 브라질, UK(영국), 프랑스, 네덜란드, 독일, 일본의 9,000명을 조사했다."
               },
               {
                 "t": "p",
-                "x": "오디오 루프를 피아노 롤로 끌어다 놓으면 Difro가 이를 벨로시티 데이터와 함께 로컬에서 MIDI로 변환한다. 최대 16마디의 멜로디 루프에서 작동하며, 더 긴 파일은 앞 16마디만 남기고 잘린다. 이후 Re-Imagine으로 변환 결과에서 새로운 변주를 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "VST3와 AU 플러그인은 DAW 호스트와 동기화되고 MIDI, 오디오 또는 둘 다를 실시간으로 출력하며, latch 옵션을 켜고 MIDI 노트로 연주할 수 있다. 그 밖에 대화형 퀵스타트 튜토리얼, Windows에서의 NVIDIA Blackwell GPUs 지원(구형 Maxwell GPUs는 지원 종료), 다운로드 용량과 메모리 사용량 300 MB 감소, 크기 조절이 가능한 새 UI가 더해졌다."
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "기본 버전은 구독 없이 무료이며 월간 생성 횟수 제한이 있다. Pro 버전은 생성 횟수 제한이 없다."
+                "x": "Deezer 보도자료에는 통계와 전년 대비 비교가 쏟아지지만, 가장 흥미로운 흐름은 Music Ally가 확인한 보고서 본문에서만 볼 수 있다. AI-generated 음악이 인기를 얻을지에 대한 인식이다. 보고서는 완전한 AI 음악(fully-AI)이 인기를 끌 것이라는 믿음이 줄고 있다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Difro Melody\nAI 2.5でMIDI変換",
-          "body": "2.5は16小節までのループをローカルでMIDI化し、VST3/AUでDAWと同期する。",
-          "mini_headline": "Difro 2.5、ローカルMIDI対応",
+          "headline": "完全AI音楽の流行\n期待する聴き手が減少",
+          "body": "DeezerとIpsosの9,000人調査で、完全AI-made音楽への期待が減った。",
+          "mini_headline": "AI音楽への懐疑が拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Deezer AI音楽レポート 2026"
               },
               {
                 "t": "p",
-                "x": "Initial AudioはAIメロディ生成ツールのアップデート、Difro Melody AI v2.5をリリースした。audio-to-MIDI変換とVST3/AUプラグインが加わった。"
+                "x": "Deezerは、AI-generated音楽に対する意識調査の第二回年次版を公表した。Ipsosに委託し、US、カナダ、ブラジル、UK、フランス、オランダ、ドイツ、日本の9,000人を調べた。"
               },
               {
                 "t": "p",
-                "x": "オーディオループをピアノロールにドラッグすると、DifroがベロシティデータとともにローカルでMIDIに変換する。対象は最大16小節のメロディックなループで、それより長いファイルは最初の16小節にカットされる。その後、Re-Imagineで書き起こしから新たなバリエーションを生成できる。"
-              },
-              {
-                "t": "p",
-                "x": "VST3とAUのプラグインはDAWホストと同期し、MIDI、オーディオ、またはその両方をリアルタイムで出力する。ラッチオプション付きでMIDIノートから演奏することもできる。ほかに、対話型のクイックスタートチュートリアル、WindowsでのNVIDIA Blackwell GPUs対応(旧世代のMaxwell GPUsはサポート終了)、ダウンロードサイズとメモリ使用量の300 MB削減、サイズ変更可能な刷新UIが加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "基本版は無料でサブスクリプション不要だが、月ごとの生成回数に上限がある。Pro版は生成回数が無制限だ。"
+                "x": "Deezerのプレスリリースには統計や前年比較が大量に並ぶが、最も興味深い傾向はMusic Allyが目にした報告書本体にしか載っていない。それはAI-generated音楽が人気を得るかどうかという認識に関するもので、報告書はfully-AI音楽が人気になるとの見方が縮小していることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Difro Melody\nAI 2.5本地转MIDI",
-          "body": "2.5版可在本地将最多16小节的旋律循环转为MIDI，并以VST3/AU插件与DAW同步。",
-          "mini_headline": "Difro 2.5新增本地MIDI转换",
+          "headline": "预期纯AI音乐走红的\n听众变少了",
+          "body": "Deezer与Ipsos对9,000人调查显示，相信完全AI-made音乐会流行的人变少。",
+          "mini_headline": "AI音乐质疑声渐增",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Deezer AI音乐报告 2026"
               },
               {
                 "t": "p",
-                "x": "Initial Audio发布了其AI旋律生成器的更新版本Difro Melody AI v2.5，新增audio-to-MIDI转换功能和VST3/AU插件。"
+                "x": "Deezer发布了第二份关于AI-generated音乐态度的年度调查，委托Ipsos在US、加拿大、巴西、UK、法国、荷兰、德国和日本调查了9,000人。"
               },
               {
                 "t": "p",
-                "x": "用户可将音频循环拖入钢琴卷帘，Difro会在本地将其转换为MIDI，并保留力度数据。该功能适用于最长16小节的旋律循环；更长的文件会被截取前16小节。随后可用Re-Imagine根据转录结果生成新的变奏。"
-              },
-              {
-                "t": "p",
-                "x": "VST3和AU插件可与DAW宿主同步，实时输出MIDI、音频或两者兼有，并可通过MIDI音符演奏，支持latch选项。其他更新包括交互式快速入门教程、Windows上对NVIDIA Blackwell GPUs的支持（较旧的Maxwell GPUs不再受支持）、下载体积和内存占用减少300 MB，以及经过改版、可调整大小的UI。"
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "基础版免费且无需订阅，但每月生成次数有限；Pro版提供无限次生成。"
+                "x": "Deezer的新闻稿里满是统计数据和同比对比，但最有意思的趋势只出现在Music Ally看到的报告正文中。它涉及人们是否认为AI-generated音乐会流行：报告发现，相信fully-AI音乐会流行的人越来越少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Difro Melody AI 2.5 convierte\nloops en MIDI en el dispositivo",
-          "body": "La versión 2.5 convierte en local loops de hasta 16 compases a MIDI y funciona como plugin VST3/AU con sincronía DAW.",
-          "mini_headline": "Difro 2.5 añade MIDI local",
+          "headline": "Menos oyentes esperan que\ntriunfe la música solo con AI",
+          "body": "Una encuesta de Deezer e Ipsos a 9,000 personas detecta menos confianza en que la música íntegramente AI-made triunfe.",
+          "mini_headline": "Crecen las dudas sobre la música AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/difro_01.1794777186.png"
+                "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+                "cap": "Informe Deezer de música AI 2026"
               },
               {
                 "t": "p",
-                "x": "Initial Audio ha lanzado Difro Melody AI v2.5, una actualización de su generador de melodías con AI que añade conversión audio-to-MIDI y un plugin VST3/AU."
+                "x": "Deezer ha publicado su segunda encuesta anual sobre las actitudes ante la música generada por AI (AI-generated), para la que encargó a Ipsos consultar a 9,000 personas en US (Estados Unidos), Canadá, Brasil, UK (Reino Unido), Francia, Países Bajos, Alemania y Japón."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden arrastrar un loop de audio al piano roll y Difro lo convierte a MIDI en local, con datos de velocidad. Funciona con loops melódicos de hasta 16 compases; los archivos más largos se recortan a los primeros 16. Después, Re-Imagine puede generar nuevas variaciones a partir de la transcripción."
-              },
-              {
-                "t": "p",
-                "x": "El plugin VST3 y AU se sincroniza con el DAW anfitrión y emite MIDI, audio o ambos en tiempo real, y puede tocarse mediante notas MIDI con una opción de latch. Otros cambios incluyen un tutorial interactivo de inicio rápido, compatibilidad con NVIDIA Blackwell GPUs en Windows (las Maxwell GPUs más antiguas ya no son compatibles), una descarga y un uso de memoria 300 MB menores y una UI renovada y redimensionable."
-              },
-              {
-                "t": "video",
-                "yt": "FfOGA4FlLO0"
-              },
-              {
-                "t": "p",
-                "x": "La versión básica es gratuita, sin suscripción y con un límite mensual de generaciones; la versión Pro ofrece generaciones ilimitadas."
+                "x": "El comunicado de prensa de Deezer trae una avalancha de cifras y comparaciones interanuales, pero la tendencia más interesante solo aparece en el propio informe, al que ha tenido acceso Music Ally. Tiene que ver con si la gente cree que la música generada por AI (AI-generated) será popular o no: el informe detecta una creencia cada vez menor en que la música totalmente hecha con AI (fully-AI) vaya a ser popular."
               }
             ]
           }
@@ -989,165 +1009,219 @@
       }
     },
     {
-      "id": "kanye-bully-grammy-ai",
+      "id": "youtube-content-mill-claim",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 의혹에도 Ye의\nBully, Grammy행",
-      "body": "AI 의혹 속에 Bully가 2027년 Grammy 최우수 랩 앨범 후보에 들었다.",
-      "mini_headline": "Bully, Grammy 후보 지명",
+      "headline": "AI 콘텐츠 공장이\n음악가 민요 녹음 가로챘다",
+      "body": "YouTube 채널 약 500개 운영사가 다섯 해 된 민요 커버를 내리게 했다.",
+      "mini_headline": "콘텐츠 공장에 당한 음악가",
       "tool": "Music",
-      "source": "Pitchfork",
-      "url": "https://pitchfork.com/story/kanye-wests-bully-up-for-best-rap-album-grammy/",
+      "source": "404 Media",
+      "url": "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "video",
+            "yt": "darmHfFNOKM"
+          },
+          {
+            "t": "p",
+            "x": "팬데믹 때 작가 겸 음악가 Samantha Shokin은 퍼블릭 도메인인 불가리아 민요 ‘Bre Petrunko’를 50초 길이로 녹음했다. 두 해 뒤 YouTube에 올린 이 영상은 네 해 동안 조회수 125,000회를 모았다. 그런데 지난달 영상이 사라졌다. Media Nov Records라는 회사가 저작권 경고를 내자 YouTube가 영상을 내렸다."
+          },
+          {
+            "t": "p",
+            "x": "Shokin은 두 차례 이의를 제기했지만 소용없었다. 그는 “사람이라면 누구나 뭔가 분명히 잘못됐고 바로잡아야 한다는 데 동의할 텐데, 사람과는 연락이 닿지 않는다”고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Media Nov 사이트는 자동화된 DMCA 삭제 요청, YouTube content ID 관리, AI-powered 콘텐츠 인식을 앞세웠다. 아일랜드에 낸 법인 서류를 보면 설립한 지 한 해 남짓 된 회사다. 회사는 404 Media에 채널 500개를 운영한다고 밝혔는데, 상당수가 AI-generated 아트 소재와 반복되는 전자 비트로 채워져 있다."
+          },
+          {
             "t": "img",
-            "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+            "cap": "Media Nov Records의 YouTube 페이지 중 하나"
           },
           {
             "t": "p",
-            "x": "Kanye West가 Bully 디럭스 에디션으로 2027 Grammys 최우수 랩 앨범(Best Rap Album) 후보에 올라 Cardi B, Don Toliver 등과 겨룬다. Ye가 인공지능의 도움을 받아 곡을 썼다는 의혹이 끊이지 않는 와중에 나온 지명이다."
-          },
-          {
-            "t": "p",
-            "x": "추측에 불을 붙인 건 2025년 Justin Laboy와의 인터뷰였다. Ye는 이 자리에서 이 기술의 창작 가능성에 눈에 띄게 감탄했고 비슷한 목소리를 손쉽게 뽑아내는 모습도 보여줬다. The New Yorker의 Kelefa Sanneh가 짚었듯 같은 해 말 나온 곡에서 Ye가 스페인어로 랩한 듯한 벌스도 이 기법을 썼을 가능성이 크다. 그러나 Ye는 이후 앨범에 A.I.를 쓰지 않는다고 트윗했고, 아마추어 탐정들이 매달렸지만 그 주장은 반박되지 않았다. 8월 제기된 소송은 Ye가 Vultures 2와 Bully 모두에 A.I. 보컬 효과를 썼다고 주장해 판을 키웠다. Recording Academy 규정은 인간 창작 요소가 “의미 있고” “해당 부문과 관련된” 경우라면 아티스트의 A.I. 사용을 허용한다."
-          },
-          {
-            "t": "p",
-            "x": "Best Rap Album 부문에서 Ye의 이력은 화려하다. 첫 세 앨범이 모두 이 상을 받았고 My Beautiful Dark Twisted Fantasy로 또 한 번 수상했다. 이 부문 후보 지명은 이번이 아홉 번째다. Bully의 경쟁작은 Cardi의 Am I the Drama?, Toliver의 Octane, Rapsody의 God Gotta Afro & Gold Hoops, Wale의 Everything Is a Lot, 그리고 J Dilla의 유작 비트 위에 Busta Rhymes가 얹은 신작 Dillagence II다."
+            "x": "404 Media가 논평을 요청하자 Media Nov Records는 저작권 삭제 요청을 거둬들이면서도 법적 절차를 밟겠다고 했다. 약 24시간 뒤 Shokin의 원본 영상이 다시 올라왔다. YouTube는 신고자가 요청을 철회한 뒤 영상을 복원했다고 확인했다. “시스템 전체가 망가졌다”고 Shokin은 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ye's Bully earns a Grammy nod\ndespite AI allegations",
-          "body": "Widespread claims of AI use did not stop Grammy voters from nominating Bully for Best Rap Album at the 2027 Grammys.",
-          "mini_headline": "Bully gets a Grammy nod",
+          "headline": "An AI content mill claimed\na musician's folk recording",
+          "body": "A firm running some 500 YouTube channels claimed a musician's five-year-old folk cover and got her video taken down.",
+          "mini_headline": "Content mill hits a musician",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "During the pandemic, writer and musician Samantha Shokin recorded a 50 second version of the public domain Bulgarian folk song ‘Bre Petrunko’. Two years later she uploaded it to YouTube, where it gained 125,000 views in four years. Last month it was gone: a company called Media Nov Records had issued a copyright strike and YouTube had taken it down."
+              },
+              {
+                "t": "p",
+                "x": "Shokin filed two counterclaims, but neither worked. “Any human would agree with me that there’s something clearly wrong here that needs to be fixed, but I can’t get in touch with a human being,” she said."
+              },
+              {
+                "t": "p",
+                "x": "Media Nov’s site boasted about automated DMCA takedowns, YouTube content ID management and AI-powered content recognition. Corporate paperwork filed in Ireland shows it was founded a little more than a year ago. It told 404 Media it operates 500 channels, many filled with AI-generated art assets and looping electronic beats."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "One of Media Nov Records’ YouTube pages"
               },
               {
                 "t": "p",
-                "x": "Kanye West has picked up a Best Rap Album nomination for the deluxe edition of Bully at the 2027 Grammys, where he will face off against Cardi B and Don Toliver, among others. The nod comes despite persistent allegations that Ye had a helping hand in its composition: artificial intelligence."
-              },
-              {
-                "t": "p",
-                "x": "Speculation stirred after a 2025 interview with Justin Laboy, in which Ye was palpably impressed by the creative possibilities of the technology. He demonstrated its ease in making soundalike vocals, a gimmick likely in evidence on a song premiered later that year with an apparent Ye verse rapped in Spanish, as The New Yorker’s Kelefa Sanneh noted. But Ye subsequently tweeted that the album would feature no A.I., and the claim has not been disproven, despite the efforts of armchair detectives. A lawsuit filed in August upped the stakes, claiming Ye had used A.I. vocal effects in both Vultures 2 and Bully. The Recording Academy rules allow artists to use A.I. provided the human authorship element is “meaningful” and “relevant to the category.”"
-              },
-              {
-                "t": "p",
-                "x": "Ye has a storied history in the Best Rap Album category, having claimed it for each of his first three albums and again for My Beautiful Dark Twisted Fantasy. This is his ninth nomination in the category. As well as Cardi’s Am I the Drama? and Toliver’s Octane, Bully is up against Rapsody’s God Gotta Afro & Gold Hoops, Wale’s Everything Is a Lot, and Busta Rhymes’ latest album set to posthumous J Dilla beats, Dillagence II."
+                "x": "After 404 Media requested comment, Media Nov Records retracted the copyright removal request, while saying it intends to initiate legal proceedings. Around 24 hours later, Shokin’s original video was back up; YouTube confirmed it reinstated the video after the claimant withdrew. “The whole system is broken,” Shokin said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 의혹에도 Ye의\nBully, Grammy행",
-          "body": "AI 의혹 속에 Bully가 2027년 Grammy 최우수 랩 앨범 후보에 들었다.",
-          "mini_headline": "Bully, Grammy 후보 지명",
+          "headline": "AI 콘텐츠 공장이\n음악가 민요 녹음 가로챘다",
+          "body": "YouTube 채널 약 500개 운영사가 다섯 해 된 민요 커버를 내리게 했다.",
+          "mini_headline": "콘텐츠 공장에 당한 음악가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "팬데믹 때 작가 겸 음악가 Samantha Shokin은 퍼블릭 도메인인 불가리아 민요 ‘Bre Petrunko’를 50초 길이로 녹음했다. 두 해 뒤 YouTube에 올린 이 영상은 네 해 동안 조회수 125,000회를 모았다. 그런데 지난달 영상이 사라졌다. Media Nov Records라는 회사가 저작권 경고를 내자 YouTube가 영상을 내렸다."
+              },
+              {
+                "t": "p",
+                "x": "Shokin은 두 차례 이의를 제기했지만 소용없었다. 그는 “사람이라면 누구나 뭔가 분명히 잘못됐고 바로잡아야 한다는 데 동의할 텐데, 사람과는 연락이 닿지 않는다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Media Nov 사이트는 자동화된 DMCA 삭제 요청, YouTube content ID 관리, AI-powered 콘텐츠 인식을 앞세웠다. 아일랜드에 낸 법인 서류를 보면 설립한 지 한 해 남짓 된 회사다. 회사는 404 Media에 채널 500개를 운영한다고 밝혔는데, 상당수가 AI-generated 아트 소재와 반복되는 전자 비트로 채워져 있다."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Media Nov Records의 YouTube 페이지 중 하나"
               },
               {
                 "t": "p",
-                "x": "Kanye West가 Bully 디럭스 에디션으로 2027 Grammys 최우수 랩 앨범(Best Rap Album) 후보에 올라 Cardi B, Don Toliver 등과 겨룬다. Ye가 인공지능의 도움을 받아 곡을 썼다는 의혹이 끊이지 않는 와중에 나온 지명이다."
-              },
-              {
-                "t": "p",
-                "x": "추측에 불을 붙인 건 2025년 Justin Laboy와의 인터뷰였다. Ye는 이 자리에서 이 기술의 창작 가능성에 눈에 띄게 감탄했고 비슷한 목소리를 손쉽게 뽑아내는 모습도 보여줬다. The New Yorker의 Kelefa Sanneh가 짚었듯 같은 해 말 나온 곡에서 Ye가 스페인어로 랩한 듯한 벌스도 이 기법을 썼을 가능성이 크다. 그러나 Ye는 이후 앨범에 A.I.를 쓰지 않는다고 트윗했고, 아마추어 탐정들이 매달렸지만 그 주장은 반박되지 않았다. 8월 제기된 소송은 Ye가 Vultures 2와 Bully 모두에 A.I. 보컬 효과를 썼다고 주장해 판을 키웠다. Recording Academy 규정은 인간 창작 요소가 “의미 있고” “해당 부문과 관련된” 경우라면 아티스트의 A.I. 사용을 허용한다."
-              },
-              {
-                "t": "p",
-                "x": "Best Rap Album 부문에서 Ye의 이력은 화려하다. 첫 세 앨범이 모두 이 상을 받았고 My Beautiful Dark Twisted Fantasy로 또 한 번 수상했다. 이 부문 후보 지명은 이번이 아홉 번째다. Bully의 경쟁작은 Cardi의 Am I the Drama?, Toliver의 Octane, Rapsody의 God Gotta Afro & Gold Hoops, Wale의 Everything Is a Lot, 그리고 J Dilla의 유작 비트 위에 Busta Rhymes가 얹은 신작 Dillagence II다."
+                "x": "404 Media가 논평을 요청하자 Media Nov Records는 저작권 삭제 요청을 거둬들이면서도 법적 절차를 밟겠다고 했다. 약 24시간 뒤 Shokin의 원본 영상이 다시 올라왔다. YouTube는 신고자가 요청을 철회한 뒤 영상을 복원했다고 확인했다. “시스템 전체가 망가졌다”고 Shokin은 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI疑惑のYe『Bully』\nGrammyにノミネート",
-          "body": "AI疑惑をよそに、Bullyが2027年Grammyの最優秀ラップ・アルバム候補に入った。",
-          "mini_headline": "BullyがGrammyにノミネート",
+          "headline": "AIコンテンツ工場が\n音楽家の民謡録音を横取り",
+          "body": "YouTube約500チャンネルの運営企業が音楽家の民謡カバーに権利を主張し削除させた。",
+          "mini_headline": "コンテンツ工場が音楽家を直撃",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "パンデミック中、作家でミュージシャンのSamantha Shokinは、パブリックドメインのブルガリア民謡「Bre Petrunko」を50秒のバージョンで録音した。二年後にYouTubeへ投稿すると、四年間で125,000回再生された。ところが先月、動画は消えた。Media Nov Recordsという会社が著作権侵害の警告を出し、YouTubeが削除していたのだ。"
+              },
+              {
+                "t": "p",
+                "x": "Shokinは二度の異議申し立てを行ったが、いずれも通らなかった。「人間なら誰でも、ここには明らかに間違っていて正すべき点があると同意するはずなのに、人間と連絡が取れない」と彼女は語った。"
+              },
+              {
+                "t": "p",
+                "x": "Media Novのサイトは、自動化されたDMCA削除申請、YouTube content IDの管理、AI-poweredのコンテンツ認識をうたっていた。アイルランドで提出された登記書類によると、同社の設立は一年余り前だ。同社は404 Mediaに対し500のチャンネルを運営していると説明しており、その多くはAI-generatedのアート素材とループする電子ビートで埋め尽くされている。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Media Nov RecordsのYouTubeページの一つ"
               },
               {
                 "t": "p",
-                "x": "Kanye WestはBullyのデラックス・エディションで2027年Grammysの最優秀ラップ・アルバム(Best Rap Album)にノミネートされ、Cardi BやDon Toliverらと競う。今回のノミネートは、Yeが制作に人工知能の助けを借りたという疑惑が根強く残る中でのことだ。"
-              },
-              {
-                "t": "p",
-                "x": "憶測が広がったのは、2025年のJustin Laboyとのインタビューがきっかけだった。Yeはこの技術の創造的な可能性に明らかに感銘を受け、似た歌声を簡単に作れることを実演してみせた。The New YorkerのKelefa Sannehが指摘したように、同年後半に公開された曲でYeがスペイン語でラップしているように聞こえるヴァースにも、その手法が使われていた可能性が高い。だがYeはその後、アルバムにA.I.は使わないとツイートし、素人探偵たちの努力にもかかわらず、その主張は覆されていない。8月に起こされた訴訟は、YeがVultures 2とBullyの両方でA.I.のボーカルエフェクトを使ったと主張し、事態を一段と深刻にした。Recording Academyの規定は、人間による創作の要素が「意味のある」もので「部門に関連する」限り、アーティストのA.I.使用を認めている。"
-              },
-              {
-                "t": "p",
-                "x": "YeはBest Rap Album部門で輝かしい歴史を持ち、最初の三作のアルバムすべてで受賞し、My Beautiful Dark Twisted Fantasyでも再び受賞した。今回は同部門で九度目のノミネートとなる。BullyはCardiのAm I the Drama?、ToliverのOctaneに加え、RapsodyのGod Gotta Afro & Gold Hoops、WaleのEverything Is a Lot、そしてJ Dillaの遺作ビートに乗せたBusta Rhymesの最新作Dillagence IIと競う。"
+                "x": "404 Mediaがコメントを求めた後、Media Nov Recordsは著作権に基づく削除要請を取り下げたが、法的手続きを始める意向も示した。約24時間後、Shokinの元の動画は復活した。YouTubeは、申立人が取り下げた後に動画を復元したと認めた。「システム全体が壊れている」とShokinは言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ye的Bully遭AI质疑\n仍获Grammy提名",
-          "body": "尽管AI使用传闻广泛，Bully仍获2027年Grammy最佳说唱专辑提名。",
-          "mini_headline": "Bully获Grammy提名",
+          "headline": "AI内容工厂抢走\n一位音乐人的民谣录音",
+          "body": "运营约500个YouTube频道的公司认领了一位音乐人五年前的民谣翻唱并致其下架。",
+          "mini_headline": "内容工厂冲击音乐人",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "疫情期间，作家兼音乐人Samantha Shokin录制了一段50秒版本的保加利亚公有领域民歌《Bre Petrunko》。两年后她将其上传至YouTube，四年间获得125,000次观看。上个月，视频不见了：一家名为Media Nov Records的公司发出了版权警告，YouTube随即将其下架。"
+              },
+              {
+                "t": "p",
+                "x": "Shokin两次提出反申诉，均未成功。“任何人都会同意我的看法：这里显然有问题，需要纠正，可我就是联系不上一个真人。”她说。"
+              },
+              {
+                "t": "p",
+                "x": "Media Nov的网站宣称提供自动化DMCA下架、YouTube content ID管理和AI-powered内容识别服务。在爱尔兰提交的公司文件显示，它成立仅一年多。该公司告诉404 Media，它运营着500个频道，其中许多充斥着AI-generated美术素材和循环播放的电子节拍。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Media Nov Records的一个YouTube页面"
               },
               {
                 "t": "p",
-                "x": "Kanye West凭借Bully豪华版获得2027年Grammys最佳说唱专辑(Best Rap Album)提名，将与Cardi B、Don Toliver等人角逐。此次提名是在外界持续指控Ye在创作中借助了人工智能的背景下获得的。"
-              },
-              {
-                "t": "p",
-                "x": "相关猜测始于2025年Ye接受Justin Laboy的一次采访，当时他明显对这项技术的创作潜力印象深刻，并演示了用它制作仿声人声有多么容易。正如The New Yorker的Kelefa Sanneh所指出的，同年晚些时候首发的一首歌中疑似由Ye用西班牙语说唱的段落，很可能就运用了这一手法。但Ye随后发推称专辑不会使用A.I.，尽管网络侦探们多方求证，这一说法至今未被证伪。8月提起的一宗诉讼让事态升级，指控Ye在Vultures 2和Bully中都使用了A.I.人声效果。Recording Academy的规则允许艺人使用A.I.，前提是人类创作部分“有意义”且“与该类别相关”。"
-              },
-              {
-                "t": "p",
-                "x": "Ye在Best Rap Album类别中战绩辉煌，他的前三张专辑均获此奖，后来又凭My Beautiful Dark Twisted Fantasy再度获奖。这是他在该类别的第九次提名。除Cardi的Am I the Drama?和Toliver的Octane外，Bully的对手还包括Rapsody的God Gotta Afro & Gold Hoops、Wale的Everything Is a Lot，以及Busta Rhymes以J Dilla遗作节拍打造的新专辑Dillagence II。"
+                "x": "在404 Media请求置评后，Media Nov Records撤回了版权删除请求，但表示打算提起法律诉讼。约24小时后，Shokin的原视频恢复上线；YouTube证实，在申诉方撤回后已恢复该视频。“整个系统都坏了，”Shokin说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bully de Ye, nominado al Grammy\npese a las acusaciones de AI",
-          "body": "Las acusaciones de uso de AI no impidieron que Bully fuera nominado a Mejor Álbum de Rap en los Grammys de 2027.",
-          "mini_headline": "Bully, nominado al Grammy",
+          "headline": "Una granja de AI reclamó\nla grabación folk de una música",
+          "body": "Una empresa con unos 500 canales de YouTube reclamó una versión folk de hace cinco años e hizo retirar el video.",
+          "mini_headline": "Una granja de contenidos contra una música",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "Durante la pandemia, la escritora y música Samantha Shokin grabó una versión de 50 segundos de la canción folclórica búlgara de dominio público ‘Bre Petrunko’. Dos años después la subió a YouTube, donde sumó 125,000 visualizaciones en cuatro años. El mes pasado desapareció: una empresa llamada Media Nov Records había emitido un aviso por derechos de autor y YouTube la había retirado."
+              },
+              {
+                "t": "p",
+                "x": "Shokin presentó dos contrarreclamaciones, pero ninguna prosperó. “Cualquier persona estaría de acuerdo conmigo en que aquí hay algo claramente mal que hay que arreglar, pero no consigo hablar con un ser humano”, dijo."
+              },
+              {
+                "t": "p",
+                "x": "El sitio de Media Nov presumía de retiradas automatizadas por DMCA, gestión de content ID en YouTube y reconocimiento de contenidos AI-powered. Los documentos corporativos presentados en Irlanda muestran que se fundó hace poco más de un año. La empresa dijo a 404 Media que opera 500 canales, muchos llenos de recursos artísticos AI-generated y ritmos electrónicos en bucle."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Una de las páginas de YouTube de Media Nov Records"
               },
               {
                 "t": "p",
-                "x": "Kanye West ha obtenido una nominación a Mejor Álbum de Rap (Best Rap Album) por la edición deluxe de Bully en los Grammys de 2027, donde competirá con Cardi B y Don Toliver, entre otros. La nominación llega pese a las persistentes acusaciones de que Ye contó con una ayuda en su composición: la inteligencia artificial."
-              },
-              {
-                "t": "p",
-                "x": "Las especulaciones surgieron tras una entrevista de 2025 con Justin Laboy, en la que Ye se mostró visiblemente impresionado por las posibilidades creativas de la tecnología. Demostró lo fácil que era crear voces que imitan a otras, un recurso probablemente presente en una canción estrenada ese mismo año con un aparente verso de Ye rapeado en español, como señaló Kelefa Sanneh, de The New Yorker. Pero Ye tuiteó después que el álbum no incluiría A.I., y la afirmación no ha sido desmentida pese a los esfuerzos de detectives aficionados. Una demanda presentada en agosto elevó la tensión al afirmar que Ye había usado efectos vocales de A.I. tanto en Vultures 2 como en Bully. Las normas de la Recording Academy permiten a los artistas usar A.I. siempre que el elemento de autoría humana sea “significativo” y “relevante para la categoría”."
-              },
-              {
-                "t": "p",
-                "x": "Ye tiene una larga historia en la categoría Best Rap Album: la ganó con cada uno de sus tres primeros álbumes y de nuevo con My Beautiful Dark Twisted Fantasy. Esta es su novena nominación en la categoría. Además de Am I the Drama?, de Cardi, y Octane, de Toliver, Bully compite con God Gotta Afro & Gold Hoops, de Rapsody; Everything Is a Lot, de Wale, y el último álbum de Busta Rhymes, construido sobre ritmos póstumos de J Dilla, Dillagence II."
+                "x": "Después de que 404 Media pidiera comentarios, Media Nov Records retiró la solicitud de eliminación por derechos de autor, aunque dijo que piensa emprender acciones legales. Unas 24 horas después, el video original de Shokin volvió a estar disponible; YouTube confirmó que lo restableció después de que el reclamante desistiera. “Todo el sistema está roto”, dijo Shokin."
               }
             ]
           }
@@ -1155,105 +1229,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 의혹에도 Ye의\nBully, Grammy행",
-          "body": "AI 의혹에도 Bully가 2027년 Grammy 최우수 랩 앨범 후보에 올랐다.",
-          "mini_headline": "Bully, Grammy 후보 지명",
+          "headline": "AI 콘텐츠 공장이\n음악가 민요 녹음 가로챘다",
+          "body": "YouTube 채널 약 500개 운영사가 다섯 해 된 민요 커버를 내리게 했다.",
+          "mini_headline": "콘텐츠 공장에 당한 음악가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "팬데믹 기간, 작가이자 음악가인 Samantha Shokin은 퍼블릭 도메인인 불가리아 민요 ‘Bre Petrunko’를 50초 길이로 녹음했다. 두 해 뒤 YouTube에 올린 이 영상은 네 해 동안 조회수 125,000회를 기록했다. 그런데 지난달 영상이 사라졌다. Media Nov Records라는 회사가 저작권 경고를 냈고 YouTube가 영상을 내린 것이다."
+              },
+              {
+                "t": "p",
+                "x": "Shokin은 두 차례 이의를 제기했지만 모두 소용없었다. “사람이라면 누구나 뭔가 분명히 잘못됐고 바로잡아야 한다는 데 동의할 텐데, 사람과는 연락이 닿지 않는다”고 그는 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Media Nov 사이트는 자동화된 DMCA 삭제 요청, YouTube content ID 관리, AI-powered 콘텐츠 인식을 내세웠다. 아일랜드에 제출된 법인 서류를 보면 이 회사는 설립된 지 한 해 남짓이다. 회사는 404 Media에 채널 500개를 운영한다고 밝혔고, 상당수는 AI-generated 아트 소재와 반복되는 전자 비트로 채워져 있다."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Media Nov Records의 YouTube 페이지 중 하나"
               },
               {
                 "t": "p",
-                "x": "Kanye West가 Bully 디럭스 에디션으로 2027 Grammys 최우수 랩 앨범(Best Rap Album) 후보에 올라 Cardi B, Don Toliver 등과 경쟁한다. 이번 지명은 Ye가 작곡에 인공지능의 도움을 받았다는 의혹이 끊이지 않는 가운데 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "추측은 2025년 Justin Laboy와의 인터뷰 이후 불붙었다. 이 인터뷰에서 Ye는 이 기술의 창작 가능성에 확연히 감탄했고, 비슷한 목소리를 손쉽게 만들어내는 모습을 시연했다. The New Yorker의 Kelefa Sanneh가 지적했듯, 같은 해 말 공개된 곡에서 Ye가 스페인어로 랩한 것으로 보이는 벌스도 이 기법을 쓴 것일 가능성이 크다. 그러나 Ye는 이후 앨범에 A.I.가 쓰이지 않는다고 트윗했고, 아마추어 탐정들의 노력에도 그 주장은 반박되지 않았다. 8월 제기된 소송은 Ye가 Vultures 2와 Bully 모두에 A.I. 보컬 효과를 썼다고 주장하며 판을 키웠다. Recording Academy 규정은 인간 창작 요소가 “의미 있고” “해당 부문과 관련된” 경우 아티스트의 A.I. 사용을 허용한다."
-              },
-              {
-                "t": "p",
-                "x": "Ye는 Best Rap Album 부문에서 화려한 이력을 지녔다. 첫 세 앨범으로 모두 이 상을 받았고 My Beautiful Dark Twisted Fantasy로 다시 수상했다. 이번이 이 부문 아홉 번째 후보 지명이다. Bully는 Cardi의 Am I the Drama?, Toliver의 Octane과 함께 Rapsody의 God Gotta Afro & Gold Hoops, Wale의 Everything Is a Lot, 그리고 J Dilla의 유작 비트에 맞춘 Busta Rhymes의 신작 Dillagence II와 경쟁한다."
+                "x": "404 Media가 논평을 요청하자 Media Nov Records는 저작권 삭제 요청을 철회했지만, 법적 절차를 밟겠다고 밝혔다. 약 24시간 뒤 Shokin의 원본 영상이 다시 올라왔다. YouTube는 신고자가 철회한 뒤 영상을 복원했다고 확인했다. “시스템 전체가 망가졌다”고 Shokin은 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI疑惑のYe『Bully』\nGrammyにノミネート",
-          "body": "AI疑惑をよそに、Bullyが2027年Grammyの最優秀ラップ・アルバム候補に入った。",
-          "mini_headline": "BullyがGrammyにノミネート",
+          "headline": "AIコンテンツ工場が\n音楽家の民謡録音を横取り",
+          "body": "YouTube約500チャンネルの運営企業が音楽家の民謡カバーに権利を主張し削除させた。",
+          "mini_headline": "コンテンツ工場が音楽家を直撃",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "パンデミック中、作家でミュージシャンのSamantha Shokinは、パブリックドメインのブルガリア民謡「Bre Petrunko」を50秒のバージョンで録音した。二年後にYouTubeへ投稿すると、四年間で125,000回再生された。ところが先月、動画は消えた。Media Nov Recordsという会社が著作権侵害の警告を出し、YouTubeが削除していたのだ。"
+              },
+              {
+                "t": "p",
+                "x": "Shokinは二度の異議申し立てを行ったが、いずれも通らなかった。「人間なら誰でも、ここには明らかに間違っていて正すべき点があると同意するはずなのに、人間と連絡が取れない」と彼女は語った。"
+              },
+              {
+                "t": "p",
+                "x": "Media Novのサイトは、自動化されたDMCA削除申請、YouTube content IDの管理、AI-poweredのコンテンツ認識をうたっていた。アイルランドで提出された登記書類によると、同社の設立は一年余り前だ。同社は404 Mediaに対し500のチャンネルを運営していると説明しており、その多くはAI-generatedのアート素材とループする電子ビートで埋め尽くされている。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Media Nov RecordsのYouTubeページの一つ"
               },
               {
                 "t": "p",
-                "x": "Kanye WestはBullyのデラックス・エディションで2027年Grammysの最優秀ラップ・アルバム(Best Rap Album)にノミネートされ、Cardi BやDon Toliverらと競う。今回のノミネートは、Yeが制作に人工知能の助けを借りたという疑惑が根強く残る中でのことだ。"
-              },
-              {
-                "t": "p",
-                "x": "憶測が広がったのは、2025年のJustin Laboyとのインタビューがきっかけだった。Yeはこの技術の創造的な可能性に明らかに感銘を受け、似た歌声を簡単に作れることを実演してみせた。The New YorkerのKelefa Sannehが指摘したように、同年後半に公開された曲でYeがスペイン語でラップしているように聞こえるヴァースにも、その手法が使われていた可能性が高い。だがYeはその後、アルバムにA.I.は使わないとツイートし、素人探偵たちの努力にもかかわらず、その主張は覆されていない。8月に起こされた訴訟は、YeがVultures 2とBullyの両方でA.I.のボーカルエフェクトを使ったと主張し、事態を一段と深刻にした。Recording Academyの規定は、人間による創作の要素が「意味のある」もので「部門に関連する」限り、アーティストのA.I.使用を認めている。"
-              },
-              {
-                "t": "p",
-                "x": "YeはBest Rap Album部門で輝かしい歴史を持ち、最初の三作のアルバムすべてで受賞し、My Beautiful Dark Twisted Fantasyでも再び受賞した。今回は同部門で九度目のノミネートとなる。BullyはCardiのAm I the Drama?、ToliverのOctaneに加え、RapsodyのGod Gotta Afro & Gold Hoops、WaleのEverything Is a Lot、そしてJ Dillaの遺作ビートに乗せたBusta Rhymesの最新作Dillagence IIと競う。"
+                "x": "404 Mediaがコメントを求めた後、Media Nov Recordsは著作権に基づく削除要請を取り下げたが、法的手続きを始める意向も示した。約24時間後、Shokinの元の動画は復活した。YouTubeは、申立人が取り下げた後に動画を復元したと認めた。「システム全体が壊れている」とShokinは言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ye的Bully遭AI质疑\n仍获Grammy提名",
-          "body": "尽管AI使用传闻广泛，Bully仍获2027年Grammy最佳说唱专辑提名。",
-          "mini_headline": "Bully获Grammy提名",
+          "headline": "AI内容工厂抢走\n一位音乐人的民谣录音",
+          "body": "运营约500个YouTube频道的公司认领了一位音乐人五年前的民谣翻唱并致其下架。",
+          "mini_headline": "内容工厂冲击音乐人",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "疫情期间，作家兼音乐人Samantha Shokin录制了一段50秒版本的保加利亚公有领域民歌《Bre Petrunko》。两年后她将其上传至YouTube，四年间获得125,000次观看。上个月，视频不见了：一家名为Media Nov Records的公司发出了版权警告，YouTube随即将其下架。"
+              },
+              {
+                "t": "p",
+                "x": "Shokin两次提出反申诉，均未成功。“任何人都会同意我的看法：这里显然有问题，需要纠正，可我就是联系不上一个真人。”她说。"
+              },
+              {
+                "t": "p",
+                "x": "Media Nov的网站宣称提供自动化DMCA下架、YouTube content ID管理和AI-powered内容识别服务。在爱尔兰提交的公司文件显示，它成立仅一年多。该公司告诉404 Media，它运营着500个频道，其中许多充斥着AI-generated美术素材和循环播放的电子节拍。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Media Nov Records的一个YouTube页面"
               },
               {
                 "t": "p",
-                "x": "Kanye West凭借Bully豪华版获得2027年Grammys最佳说唱专辑(Best Rap Album)提名，将与Cardi B、Don Toliver等人角逐。此次提名是在外界持续指控Ye在创作中借助了人工智能的背景下获得的。"
-              },
-              {
-                "t": "p",
-                "x": "相关猜测始于2025年Ye接受Justin Laboy的一次采访，当时他明显对这项技术的创作潜力印象深刻，并演示了用它制作仿声人声有多么容易。正如The New Yorker的Kelefa Sanneh所指出的，同年晚些时候首发的一首歌中疑似由Ye用西班牙语说唱的段落，很可能就运用了这一手法。但Ye随后发推称专辑不会使用A.I.，尽管网络侦探们多方求证，这一说法至今未被证伪。8月提起的一宗诉讼让事态升级，指控Ye在Vultures 2和Bully中都使用了A.I.人声效果。Recording Academy的规则允许艺人使用A.I.，前提是人类创作部分“有意义”且“与该类别相关”。"
-              },
-              {
-                "t": "p",
-                "x": "Ye在Best Rap Album类别中战绩辉煌，他的前三张专辑均获此奖，后来又凭My Beautiful Dark Twisted Fantasy再度获奖。这是他在该类别的第九次提名。除Cardi的Am I the Drama?和Toliver的Octane外，Bully的对手还包括Rapsody的God Gotta Afro & Gold Hoops、Wale的Everything Is a Lot，以及Busta Rhymes以J Dilla遗作节拍打造的新专辑Dillagence II。"
+                "x": "在404 Media请求置评后，Media Nov Records撤回了版权删除请求，但表示打算提起法律诉讼。约24小时后，Shokin的原视频恢复上线；YouTube证实，在申诉方撤回后已恢复该视频。“整个系统都坏了，”Shokin说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bully de Ye, nominado al Grammy\npese a las acusaciones de AI",
-          "body": "Las acusaciones de uso de AI no impidieron que Bully fuera nominado a Mejor Álbum de Rap en los Grammys de 2027.",
-          "mini_headline": "Bully, nominado al Grammy",
+          "headline": "Una granja de AI reclamó\nla grabación folk de una música",
+          "body": "Una empresa con unos 500 canales de YouTube reclamó una versión folk de hace cinco años e hizo retirar el video.",
+          "mini_headline": "Una granja de contenidos contra una música",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "darmHfFNOKM"
+              },
+              {
+                "t": "p",
+                "x": "Durante la pandemia, la escritora y música Samantha Shokin grabó una versión de 50 segundos de la canción folclórica búlgara de dominio público ‘Bre Petrunko’. Dos años después la subió a YouTube, donde sumó 125,000 visualizaciones en cuatro años. El mes pasado desapareció: una empresa llamada Media Nov Records había emitido un aviso por derechos de autor y YouTube la había retirado."
+              },
+              {
+                "t": "p",
+                "x": "Shokin presentó dos contrarreclamaciones, pero ninguna prosperó. “Cualquier persona estaría de acuerdo conmigo en que aquí hay algo claramente mal que hay que arreglar, pero no consigo hablar con un ser humano”, dijo."
+              },
+              {
+                "t": "p",
+                "x": "El sitio de Media Nov presumía de retiradas automatizadas por DMCA, gestión de content ID en YouTube y reconocimiento de contenidos AI-powered. Los documentos corporativos presentados en Irlanda muestran que se fundó hace poco más de un año. La empresa dijo a 404 Media que opera 500 canales, muchos llenos de recursos artísticos AI-generated y ritmos electrónicos en bucle."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6afaf9f6fa70625fee86f02d/2:1/w_2560%2Cc_limit/kanye-west-bully-grammys.jpg"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+                "cap": "Una de las páginas de YouTube de Media Nov Records"
               },
               {
                 "t": "p",
-                "x": "Kanye West ha obtenido una nominación a Mejor Álbum de Rap (Best Rap Album) por la edición deluxe de Bully en los Grammys de 2027, donde competirá con Cardi B y Don Toliver, entre otros. La nominación llega pese a las persistentes acusaciones de que Ye contó con una ayuda en su composición: la inteligencia artificial."
-              },
-              {
-                "t": "p",
-                "x": "Las especulaciones surgieron tras una entrevista de 2025 con Justin Laboy, en la que Ye se mostró visiblemente impresionado por las posibilidades creativas de la tecnología. Demostró lo fácil que era crear voces que imitan a otras, un recurso probablemente presente en una canción estrenada ese mismo año con un aparente verso de Ye rapeado en español, como señaló Kelefa Sanneh, de The New Yorker. Pero Ye tuiteó después que el álbum no incluiría A.I., y la afirmación no ha sido desmentida pese a los esfuerzos de detectives aficionados. Una demanda presentada en agosto elevó la tensión al afirmar que Ye había usado efectos vocales de A.I. tanto en Vultures 2 como en Bully. Las normas de la Recording Academy permiten a los artistas usar A.I. siempre que el elemento de autoría humana sea “significativo” y “relevante para la categoría”."
-              },
-              {
-                "t": "p",
-                "x": "Ye tiene una larga historia en la categoría Best Rap Album: la ganó con cada uno de sus tres primeros álbumes y de nuevo con My Beautiful Dark Twisted Fantasy. Esta es su novena nominación en la categoría. Además de Am I the Drama?, de Cardi, y Octane, de Toliver, Bully compite con God Gotta Afro & Gold Hoops, de Rapsody; Everything Is a Lot, de Wale, y el último álbum de Busta Rhymes, construido sobre ritmos póstumos de J Dilla, Dillagence II."
+                "x": "Después de que 404 Media pidiera comentarios, Media Nov Records retiró la solicitud de eliminación por derechos de autor, aunque dijo que piensa emprender acciones legales. Unas 24 horas después, el video original de Shokin volvió a estar disponible; YouTube confirmó que lo restableció después de que el reclamante desistiera. “Todo el sistema está roto”, dijo Shokin."
               }
             ]
           }
@@ -1261,195 +1371,165 @@
       }
     },
     {
-      "id": "bridgwater-carnival-ai-music",
+      "id": "suno-v6-discovery-fight",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "카니발 수레 AI 음악,\nBridgwater 분열",
-      "body": "Bridgwater Carnival 일부 클럽의 AI 음악에 의견이 갈렸다.",
-      "mini_headline": "AI 음악에 갈린 카니발",
+      "headline": "음반사, Suno의\n두 번째 소송 중지에 반대",
+      "body": "UMG와 Sony가 소송 중지에 맞서 Suno v6 학습 증거개시를 요구한다.",
+      "mini_headline": "음반사, Suno 증거개시 압박",
       "tool": "Music",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqvgrg262pp5o",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/universal-and-sony-fight-sunos-bid-to-freeze-second-lawsuit-warning-its-latest-ai-models-could-escape-scrutiny-until-at-least-2028/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-            "cap": "2026년 Bridgwater Carnival에서 여러 수레가 AI-generated 음악을 틀었다"
+            "t": "p",
+            "x": "Universal Music Group과 Sony Music Entertainment가 AI 음악 기업 Suno를 상대로 낸 두 번째 저작권 소송을 Suno가 통째로 보류하려 하자 이에 맞서고 있다. 레이블들은 금요일(11월 13일) 보스턴 연방법원에 낸 서면에서, 전면 중지되면 사건이 2028년까지 묶일 수 있고 9월 출시된 v6를 포함한 Suno의 2025·2026년 모델이 “적어도 2028년까지 어디에서도 검토되지 않는다”고 주장했다."
           },
           {
             "t": "p",
-            "x": "카니발 행렬 곳곳에서 음악에 인공지능(AI)을 쓴 것을 두고 한 클럽 회원은 “실망스럽다”고 했다. Somerset주 Bridgwater에는 약 150,000명이 모여 불을 밝힌 수레 행렬을 지켜봤다."
+            "x": "Suno는 10월 30일 F. Dennis Saylor IV 판사에게 두 번째 사건을 중지해 달라고 요청했다. 2024년 6월 레이블들이 낸 첫 소송에서 약식판결이 나올 때까지 기다리자는 것이다. 첫 소송에서 Suno가 내세운 핵심 방어 논리는 공정 이용이다. 두 번째 소송은 Suno가 AI 모델을 학습시키려고 레이블 녹음물 60,202건을 허가 없이 복제했다고 주장한다."
           },
           {
             "t": "p",
-            "x": "작은 클럽 회원 Matt Ward는 수레 50대 가운데 일부가 AI 음악을 쓴 게 아쉽다며 “우리는 카니발이 어디서 왔는지 잊어가고 있다”고 말했다. 위원회 비용이 주는 건 맞지만 “음악이 뒷전이 된 느낌”이라고 했다."
+            "x": "레이블들이 내놓은 안은 “부분 중지”다. 60,000건이 넘는 녹음물의 소유권 입증은 뒤로 미루고, v6의 학습 방식, 학습 데이터 라이선스 확보 노력, 새 사업과 자금 조달, 최근 재무 상황 등 Suno의 이후 모델에 관한 증거 수집은 지금 하자는 것이다. 레이블들은 Suno의 데이터 스크레이핑과 학습 데이터 확보를 맡았던 엔지니어가 회사를 떠났다는 사실도 짚었다."
           },
           {
             "t": "p",
-            "x": "Tim Bonser는 Gremlins의 AI 노래 제작을 거들었다. 그는 “음악가로서 꽤 흥미로우면서도 꽤 두렵다”며 “이 문제를 두고 꽤 치열하게 대화했고, 상당히 의견이 갈린다”고 말했다. “시간이 곧 돈이고, 요즘 카니발 예산은 빠듯하다.”"
-          },
-          {
-            "t": "p",
-            "x": "Bridgwater Guy Fawkes Carnival 주최 측은 AI-generated 음악이 “의견을 갈라놓았다”는 점은 이해하지만 이는 각 클럽이 정할 일이라고 밝혔다. 카니발은 “늘 새로운 기술을 받아들여 왔다”며 클럽들이 주제를 표현할 “창작의 자유를 누려야 한다”고도 했다."
+            "x": "“지연은 기록 구축을 미루는 데 그치지 않고 기록 자체를 훼손할 것”이라고 Universal과 Sony는 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI music on carnival carts\ndivides Bridgwater",
-          "body": "Some Bridgwater Carnival clubs scored their illuminated carts with AI music, which organisers said divided opinions.",
-          "mini_headline": "AI music splits a carnival",
+          "headline": "Labels fight Suno's bid\nto pause second lawsuit",
+          "body": "UMG and Sony oppose Suno's bid to pause their second suit, seeking immediate discovery into how Suno v6 was trained.",
+          "mini_headline": "Labels push Suno discovery",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "Several carts included AI-generated music during the Bridgwater Carnival in 2026"
+                "t": "p",
+                "x": "Universal Music Group and Sony Music Entertainment are fighting Suno’s attempt to put their second copyright lawsuit against the AI music company entirely on hold. In papers filed in Boston federal court on Friday (November 13), the labels argued a full pause could keep the case frozen into 2028, leaving Suno’s 2025 and 2026 models – including v6, launched in September – “examined nowhere until at least 2028.”"
               },
               {
                 "t": "p",
-                "x": "The use of artificial intelligence (AI) in music during a series of carnival processions is \"disappointing\", a club member has said. About 150,000 people descended on Bridgwater, Somerset, to watch the procession of illuminated carts."
+                "x": "Suno asked Judge F. Dennis Saylor IV on October 30 to pause the second case until he rules on summary judgment in the labels’ first lawsuit, filed in June 2024, where Suno’s main defense is fair use. The second suit accuses Suno of copying 60,202 of the labels’ recordings without a license to train its AI models."
               },
               {
                 "t": "p",
-                "x": "Matt Ward, a member of one of the smaller clubs, said it was a shame that some of the 50 carts used AI music, adding: \"We're kind of forgetting where carnival came from.\" He said it reduces the cost for the committees, but \"the music kind of feels like an afterthought\"."
+                "x": "The labels propose a “partial stay”: put off proving ownership of the 60,000-plus recordings, but let evidence-gathering go ahead now on Suno’s later models, including how v6 was trained, its efforts to license training data, its new businesses and funding, and its recent finances. They note the engineer responsible for Suno’s data scraping and training data acquisition has left the company."
               },
               {
                 "t": "p",
-                "x": "Tim Bonser helped Gremlins produce its AI song. \"As a musician it's quite exciting and it's also quite terrifying,\" he said. \"We've had quite intense conversations about it and it is pretty divisive.\" \"Time is money and carnival budgets are tight these days.\""
-              },
-              {
-                "t": "p",
-                "x": "Organisers of the Bridgwater Guy Fawkes Carnival said they appreciated AI-generated music \"divided opinions\", but it is the individual clubs' decision, adding that carnival has \"always embraced new technology\" and clubs \"should have the creative freedom\" to present their themes."
+                "x": "“Delay would not merely postpone building the record, it would degrade it,” Universal and Sony write."
               }
             ]
           }
         },
         "ko": {
-          "headline": "카니발 수레 AI 음악,\nBridgwater 분열",
-          "body": "Bridgwater Carnival 일부 클럽의 AI 음악에 의견이 갈렸다.",
-          "mini_headline": "AI 음악에 갈린 카니발",
+          "headline": "음반사, Suno의\n두 번째 소송 중지에 반대",
+          "body": "UMG와 Sony가 소송 중지에 맞서 Suno v6 학습 증거개시를 요구한다.",
+          "mini_headline": "음반사, Suno 증거개시 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "2026년 Bridgwater Carnival에서 여러 수레가 AI-generated 음악을 틀었다"
+                "t": "p",
+                "x": "Universal Music Group과 Sony Music Entertainment가 AI 음악 기업 Suno를 상대로 낸 두 번째 저작권 소송을 Suno가 통째로 보류하려 하자 이에 맞서고 있다. 레이블들은 금요일(11월 13일) 보스턴 연방법원에 낸 서면에서, 전면 중지되면 사건이 2028년까지 묶일 수 있고 9월 출시된 v6를 포함한 Suno의 2025·2026년 모델이 “적어도 2028년까지 어디에서도 검토되지 않는다”고 주장했다."
               },
               {
                 "t": "p",
-                "x": "카니발 행렬 곳곳에서 음악에 인공지능(AI)을 쓴 것을 두고 한 클럽 회원은 “실망스럽다”고 했다. Somerset주 Bridgwater에는 약 150,000명이 모여 불을 밝힌 수레 행렬을 지켜봤다."
+                "x": "Suno는 10월 30일 F. Dennis Saylor IV 판사에게 두 번째 사건을 중지해 달라고 요청했다. 2024년 6월 레이블들이 낸 첫 소송에서 약식판결이 나올 때까지 기다리자는 것이다. 첫 소송에서 Suno가 내세운 핵심 방어 논리는 공정 이용이다. 두 번째 소송은 Suno가 AI 모델을 학습시키려고 레이블 녹음물 60,202건을 허가 없이 복제했다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "작은 클럽 회원 Matt Ward는 수레 50대 가운데 일부가 AI 음악을 쓴 게 아쉽다며 “우리는 카니발이 어디서 왔는지 잊어가고 있다”고 말했다. 위원회 비용이 주는 건 맞지만 “음악이 뒷전이 된 느낌”이라고 했다."
+                "x": "레이블들이 내놓은 안은 “부분 중지”다. 60,000건이 넘는 녹음물의 소유권 입증은 뒤로 미루고, v6의 학습 방식, 학습 데이터 라이선스 확보 노력, 새 사업과 자금 조달, 최근 재무 상황 등 Suno의 이후 모델에 관한 증거 수집은 지금 하자는 것이다. 레이블들은 Suno의 데이터 스크레이핑과 학습 데이터 확보를 맡았던 엔지니어가 회사를 떠났다는 사실도 짚었다."
               },
               {
                 "t": "p",
-                "x": "Tim Bonser는 Gremlins의 AI 노래 제작을 거들었다. 그는 “음악가로서 꽤 흥미로우면서도 꽤 두렵다”며 “이 문제를 두고 꽤 치열하게 대화했고, 상당히 의견이 갈린다”고 말했다. “시간이 곧 돈이고, 요즘 카니발 예산은 빠듯하다.”"
-              },
-              {
-                "t": "p",
-                "x": "Bridgwater Guy Fawkes Carnival 주최 측은 AI-generated 음악이 “의견을 갈라놓았다”는 점은 이해하지만 이는 각 클럽이 정할 일이라고 밝혔다. 카니발은 “늘 새로운 기술을 받아들여 왔다”며 클럽들이 주제를 표현할 “창작의 자유를 누려야 한다”고도 했다."
+                "x": "“지연은 기록 구축을 미루는 데 그치지 않고 기록 자체를 훼손할 것”이라고 Universal과 Sony는 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カーニバルのAI音楽\nBridgwaterで賛否",
-          "body": "Bridgwater Carnivalの一部クラブが山車にAI音楽を使い、賛否が分かれた。",
-          "mini_headline": "AI音楽でカーニバルに賛否",
+          "headline": "レーベル、Sunoの\n二件目の訴訟停止に反対",
+          "body": "UMGとSonyはSunoの訴訟停止に反対し、Suno v6の学習経緯の即時開示を求める。",
+          "mini_headline": "レーベルがSunoに証拠開示迫る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "2026年のBridgwater Carnivalでは、いくつかの山車がAI-generatedの音楽を使った"
+                "t": "p",
+                "x": "Universal Music GroupとSony Music Entertainmentは、AI音楽企業Sunoに対する二件目の著作権訴訟を全面的に保留しようとするSunoの動きに反対している。レーベル側は金曜日(11月13日)にボストン連邦地裁へ提出した書面で、全面停止となれば審理が2028年まで凍結されかねず、9月に公開されたv6を含むSunoの2025年・2026年モデルが「少なくとも2028年まで、どこでも検証されない」ことになると主張した。"
               },
               {
                 "t": "p",
-                "x": "一連のカーニバル・パレードで音楽に人工知能(AI)が使われたことは「残念だ」と、あるクラブの会員は語った。約150,000人がSomersetのBridgwaterに詰めかけ、電飾で彩られた山車のパレードを見物した。"
+                "x": "Sunoは10月30日、F. Dennis Saylor IV判事に対し、2024年6月に起こされたレーベル側の一件目の訴訟でサマリージャッジメントの判断が出るまで、二件目の審理を停止するよう求めた。一件目の訴訟でのSunoの主な抗弁はフェアユースだ。二件目の訴訟は、SunoがAIモデルの学習のためにレーベルの録音60,202件を無許諾で複製したと訴えている。"
               },
               {
                 "t": "p",
-                "x": "小規模クラブの一つに所属するMatt Wardは、50台の山車の一部がAI音楽を使ったのは残念だとし、「カーニバルの原点を忘れかけている」と述べた。委員会のコストは下がるが、「音楽が後回しにされている感じがする」とも語った。"
+                "x": "レーベル側は「部分的停止」を提案する。60,000件超の録音の権利立証は先送りしつつ、v6の学習方法、学習データのライセンス取得の取り組み、新規事業と資金調達、最近の財務状況など、Sunoの後続モデルに関する証拠収集は今すぐ進めるべきだという。また、Sunoのデータスクレイピングと学習データ取得を担当していたエンジニアが退社したことも指摘している。"
               },
               {
                 "t": "p",
-                "x": "Tim BonserはGremlinsのAI楽曲制作を手伝った。「ミュージシャンとしてはかなりワクワクするし、かなり恐ろしくもある」と彼は言う。「このことではかなり激しい議論をしてきたし、賛否はかなり分かれる」「時は金なりで、最近のカーニバルの予算は厳しい」"
-              },
-              {
-                "t": "p",
-                "x": "Bridgwater Guy Fawkes Carnivalの主催者は、AI-generatedの音楽が「意見を二分した」ことは理解しているが、判断は各クラブに委ねられているとした。そのうえで、カーニバルは「常に新しい技術を取り入れてきた」とし、クラブはテーマを表現する「創作の自由を持つべきだ」と付け加えた。"
+                "x": "「遅延は記録の構築を先送りするだけでなく、記録そのものを劣化させる」とUniversalとSonyは記している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "嘉年华彩车用AI音乐\nBridgwater意见分歧",
-          "body": "Bridgwater Carnival部分俱乐部为彩车配上AI音乐，主办方称引发意见分歧。",
-          "mini_headline": "AI音乐令嘉年华意见分歧",
+          "headline": "唱片公司反对Suno\n暂停第二起诉讼",
+          "body": "UMG和Sony反对Suno暂停第二起诉讼的请求，要求立即调查Suno v6的训练方式。",
+          "mini_headline": "唱片公司力推Suno证据开示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "2026年Bridgwater Carnival期间，多辆彩车使用了AI-generated音乐"
+                "t": "p",
+                "x": "Universal Music Group和Sony Music Entertainment正在反对Suno将二者针对这家AI音乐公司提起的第二起版权诉讼全面搁置的企图。在周五（11月13日）向波士顿联邦法院提交的文件中，唱片公司称，全面暂停可能使案件冻结至2028年，导致Suno的2025年和2026年模型——包括9月发布的v6——“至少在2028年之前无处受审”。"
               },
               {
                 "t": "p",
-                "x": "一名俱乐部成员表示，一系列嘉年华游行中在音乐上使用人工智能(AI)“令人失望”。约150,000人涌入Somerset的Bridgwater，观看灯光彩车游行。"
+                "x": "Suno于10月30日请求F. Dennis Saylor IV法官暂停第二起案件，直至他就唱片公司于2024年6月提起的第一起诉讼作出简易判决；在第一起诉讼中，Suno的主要抗辩理由是合理使用。第二起诉讼指控Suno未经许可复制了唱片公司的60,202首录音，用于训练其AI模型。"
               },
               {
                 "t": "p",
-                "x": "一家小型俱乐部的成员Matt Ward说，50辆彩车中有一些使用了AI音乐，这很可惜，并补充道：“我们有点忘了嘉年华从何而来。”他表示，这为各委员会降低了成本，但“音乐有点像是事后才想到的”。"
+                "x": "唱片公司提出“部分中止”：推迟对60,000多首录音所有权的举证，但让针对Suno后续模型的证据收集即刻进行，包括v6的训练方式、其获取训练数据授权的努力、新业务与融资，以及近期财务状况。他们还指出，负责Suno数据抓取和训练数据获取的工程师已经离职。"
               },
               {
                 "t": "p",
-                "x": "Tim Bonser帮助Gremlins制作了其AI歌曲。“作为音乐人，这相当令人兴奋，也相当可怕，”他说，“我们为此进行过相当激烈的讨论，分歧很大。”“时间就是金钱，如今嘉年华的预算很紧。”"
-              },
-              {
-                "t": "p",
-                "x": "Bridgwater Guy Fawkes Carnival的主办方表示，他们理解AI-generated音乐“引发了意见分歧”，但这由各俱乐部自行决定，并补充说嘉年华“一直拥抱新技术”，俱乐部“应当拥有创作自由”来呈现各自主题。"
+                "x": "“拖延不仅会推迟建立案卷，还会使其受损，”Universal和Sony写道。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Música con AI en las carrozas\ndivide a Bridgwater",
-          "body": "Algunos clubes del Bridgwater Carnival usaron música con AI en sus carrozas iluminadas, algo que dividió opiniones.",
-          "mini_headline": "La música con AI divide un carnaval",
+          "headline": "Los sellos se oponen a que Suno\nfrene su segunda demanda",
+          "body": "UMG y Sony se oponen a que Suno paralice su segunda demanda y piden investigar ya cómo se entrenó Suno v6.",
+          "mini_headline": "Los sellos presionan a Suno con la fase de prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "Varias carrozas incluyeron música AI-generated durante el Bridgwater Carnival de 2026"
+                "t": "p",
+                "x": "Universal Music Group y Sony Music Entertainment se oponen al intento de Suno de suspender por completo su segunda demanda por derechos de autor contra la empresa de música con AI. En escritos presentados el viernes (13 de noviembre) ante el tribunal federal de Boston, los sellos argumentaron que una suspensión total podría congelar el caso hasta 2028 y dejar los modelos de 2025 y 2026 de Suno —incluido v6, lanzado en septiembre— “sin examinar en ningún lugar hasta al menos 2028”."
               },
               {
                 "t": "p",
-                "x": "El uso de inteligencia artificial (AI) en la música durante una serie de desfiles de carnaval es \"decepcionante\", según un miembro de un club. Unas 150,000 personas acudieron a Bridgwater, en Somerset, para ver el desfile de carrozas iluminadas."
+                "x": "El 30 de octubre, Suno pidió al juez F. Dennis Saylor IV que suspendiera el segundo caso hasta que se pronuncie sobre el juicio sumario en la primera demanda de los sellos, presentada en junio de 2024, en la que la principal defensa de Suno es el uso legítimo. La segunda demanda acusa a Suno de copiar sin licencia 60,202 grabaciones de los sellos para entrenar sus modelos de AI."
               },
               {
                 "t": "p",
-                "x": "Matt Ward, miembro de uno de los clubes más pequeños, dijo que era una pena que algunas de las 50 carrozas usaran música con AI, y añadió: \"Estamos olvidando un poco de dónde viene el carnaval\". Señaló que reduce los costes para los comités, pero que \"la música parece algo secundario\"."
+                "x": "Los sellos proponen una “suspensión parcial”: aplazar la acreditación de la titularidad de las más de 60,000 grabaciones, pero permitir que la obtención de pruebas avance ya sobre los modelos posteriores de Suno, incluido cómo se entrenó v6, sus esfuerzos por licenciar datos de entrenamiento, sus nuevos negocios y su financiación, y sus finanzas recientes. Señalan además que el ingeniero responsable del scraping de datos y de la adquisición de datos de entrenamiento de Suno ha dejado la empresa."
               },
               {
                 "t": "p",
-                "x": "Tim Bonser ayudó a Gremlins a producir su canción con AI. \"Como músico, es bastante emocionante y también bastante aterrador\", dijo. \"Hemos tenido conversaciones bastante intensas sobre ello y genera mucha división\". \"El tiempo es dinero y hoy los presupuestos del carnaval son ajustados\"."
-              },
-              {
-                "t": "p",
-                "x": "Los organizadores del Bridgwater Guy Fawkes Carnival dijeron que entienden que la música AI-generated \"dividió opiniones\", pero que la decisión corresponde a cada club, y añadieron que el carnaval \"siempre ha adoptado las nuevas tecnologías\" y que los clubes \"deberían tener libertad creativa\" para presentar sus temas."
+                "x": "“El retraso no solo aplazaría la construcción del expediente, sino que lo degradaría”, escriben Universal y Sony."
               }
             ]
           }
@@ -1457,125 +1537,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "카니발 수레 AI 음악,\nBridgwater 분열",
-          "body": "Bridgwater Carnival 일부 클럽이 AI 음악을 써 의견이 갈렸다.",
-          "mini_headline": "AI 음악에 갈린 카니발",
+          "headline": "음반사, Suno의\n두 번째 소송 중지에 반대",
+          "body": "UMG와 Sony가 소송 중지에 반대하며 Suno v6 학습 증거개시를 요구한다.",
+          "mini_headline": "음반사, Suno 증거개시 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "2026년 Bridgwater Carnival에서 여러 수레가 AI-generated 음악을 사용했다"
+                "t": "p",
+                "x": "Universal Music Group과 Sony Music Entertainment가 AI 음악 기업 Suno를 상대로 낸 두 번째 저작권 소송을 통째로 보류하려는 Suno의 시도에 맞서고 있다. 레이블들은 금요일(11월 13일) 보스턴 연방법원에 낸 서면에서 전면 중지가 이뤄지면 사건이 2028년까지 묶일 수 있고, 9월 출시된 v6를 포함한 Suno의 2025·2026년 모델이 “적어도 2028년까지 어디에서도 검토되지 않는다”고 주장했다."
               },
               {
                 "t": "p",
-                "x": "일련의 카니발 행렬에서 음악에 인공지능(AI)을 쓴 것은 “실망스럽다”고 한 클럽 회원이 말했다. 약 150,000명이 Somerset주 Bridgwater를 찾아 불을 밝힌 수레 행렬을 지켜봤다."
+                "x": "Suno는 10월 30일 F. Dennis Saylor IV 판사에게, 2024년 6월 제기된 레이블들의 첫 소송에서 약식판결이 나올 때까지 두 번째 사건을 중지해 달라고 요청했다. 첫 소송에서 Suno의 핵심 방어 논리는 공정 이용이다. 두 번째 소송은 Suno가 AI 모델 학습을 위해 레이블 녹음물 60,202건을 허가 없이 복제했다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "작은 클럽 중 한 곳의 회원인 Matt Ward는 50대의 수레 가운데 일부가 AI 음악을 쓴 것이 아쉽다며 “우리는 카니발이 어디서 왔는지 잊어가고 있다”고 말했다. 그는 이것이 위원회의 비용을 줄여주지만 “음악이 뒷전이 된 느낌”이라고 했다."
+                "x": "레이블들은 “부분 중지”를 제안한다. 60,000건이 넘는 녹음물의 소유권 입증은 미루되, v6의 학습 방식, 학습 데이터 라이선스 확보 노력, 새 사업과 자금 조달, 최근 재무 상황 등 Suno의 이후 모델에 관한 증거 수집은 지금 진행하자는 것이다. 이들은 Suno의 데이터 스크레이핑과 학습 데이터 확보를 맡았던 엔지니어가 회사를 떠났다는 점도 짚었다."
               },
               {
                 "t": "p",
-                "x": "Tim Bonser는 Gremlins의 AI 노래 제작을 도왔다. 그는 “음악가로서 꽤 흥미로우면서도 꽤 두렵다”며 “이 문제를 두고 꽤 치열하게 대화했고, 상당히 의견이 갈린다”고 말했다. “시간이 곧 돈이고, 요즘 카니발 예산은 빠듯하다.”"
-              },
-              {
-                "t": "p",
-                "x": "Bridgwater Guy Fawkes Carnival 주최 측은 AI-generated 음악이 “의견을 갈라놓았다”는 점을 이해한다면서도, 이는 각 클럽이 결정할 일이라고 밝혔다. 이어 카니발은 “늘 새로운 기술을 받아들여 왔다”며 클럽들은 주제를 표현할 “창작의 자유를 누려야 한다”고 덧붙였다."
+                "x": "“지연은 기록 구축을 미루는 데 그치지 않고 기록 자체를 훼손할 것”이라고 Universal과 Sony는 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カーニバルのAI音楽\nBridgwaterで賛否",
-          "body": "Bridgwater Carnivalの一部クラブが山車にAI音楽を使い、賛否が分かれた。",
-          "mini_headline": "AI音楽でカーニバルに賛否",
+          "headline": "レーベル、Sunoの\n二件目の訴訟停止に反対",
+          "body": "UMGとSonyはSunoの訴訟停止に反対し、Suno v6の学習経緯の即時開示を求める。",
+          "mini_headline": "レーベルがSunoに証拠開示迫る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "2026年のBridgwater Carnivalでは、いくつかの山車がAI-generatedの音楽を使った"
+                "t": "p",
+                "x": "Universal Music GroupとSony Music Entertainmentは、AI音楽企業Sunoに対する二件目の著作権訴訟を全面的に保留しようとするSunoの動きに反対している。レーベル側は金曜日(11月13日)にボストン連邦地裁へ提出した書面で、全面停止となれば審理が2028年まで凍結されかねず、9月に公開されたv6を含むSunoの2025年・2026年モデルが「少なくとも2028年まで、どこでも検証されない」ことになると主張した。"
               },
               {
                 "t": "p",
-                "x": "一連のカーニバル・パレードで音楽に人工知能(AI)が使われたことは「残念だ」と、あるクラブの会員は語った。約150,000人がSomersetのBridgwaterに詰めかけ、電飾で彩られた山車のパレードを見物した。"
+                "x": "Sunoは10月30日、F. Dennis Saylor IV判事に対し、2024年6月に起こされたレーベル側の一件目の訴訟でサマリージャッジメントの判断が出るまで、二件目の審理を停止するよう求めた。一件目の訴訟でのSunoの主な抗弁はフェアユースだ。二件目の訴訟は、SunoがAIモデルの学習のためにレーベルの録音60,202件を無許諾で複製したと訴えている。"
               },
               {
                 "t": "p",
-                "x": "小規模クラブの一つに所属するMatt Wardは、50台の山車の一部がAI音楽を使ったのは残念だとし、「カーニバルの原点を忘れかけている」と述べた。委員会のコストは下がるが、「音楽が後回しにされている感じがする」とも語った。"
+                "x": "レーベル側は「部分的停止」を提案する。60,000件超の録音の権利立証は先送りしつつ、v6の学習方法、学習データのライセンス取得の取り組み、新規事業と資金調達、最近の財務状況など、Sunoの後続モデルに関する証拠収集は今すぐ進めるべきだという。また、Sunoのデータスクレイピングと学習データ取得を担当していたエンジニアが退社したことも指摘している。"
               },
               {
                 "t": "p",
-                "x": "Tim BonserはGremlinsのAI楽曲制作を手伝った。「ミュージシャンとしてはかなりワクワクするし、かなり恐ろしくもある」と彼は言う。「このことではかなり激しい議論をしてきたし、賛否はかなり分かれる」「時は金なりで、最近のカーニバルの予算は厳しい」"
-              },
-              {
-                "t": "p",
-                "x": "Bridgwater Guy Fawkes Carnivalの主催者は、AI-generatedの音楽が「意見を二分した」ことは理解しているが、判断は各クラブに委ねられているとした。そのうえで、カーニバルは「常に新しい技術を取り入れてきた」とし、クラブはテーマを表現する「創作の自由を持つべきだ」と付け加えた。"
+                "x": "「遅延は記録の構築を先送りするだけでなく、記録そのものを劣化させる」とUniversalとSonyは記している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "嘉年华彩车用AI音乐\nBridgwater意见分歧",
-          "body": "Bridgwater Carnival部分俱乐部为彩车配上AI音乐，主办方称引发意见分歧。",
-          "mini_headline": "AI音乐令嘉年华意见分歧",
+          "headline": "唱片公司反对Suno\n暂停第二起诉讼",
+          "body": "UMG和Sony反对Suno暂停第二起诉讼的请求，要求立即调查Suno v6的训练方式。",
+          "mini_headline": "唱片公司力推Suno证据开示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "2026年Bridgwater Carnival期间，多辆彩车使用了AI-generated音乐"
+                "t": "p",
+                "x": "Universal Music Group和Sony Music Entertainment正在反对Suno将二者针对这家AI音乐公司提起的第二起版权诉讼全面搁置的企图。在周五（11月13日）向波士顿联邦法院提交的文件中，唱片公司称，全面暂停可能使案件冻结至2028年，导致Suno的2025年和2026年模型——包括9月发布的v6——“至少在2028年之前无处受审”。"
               },
               {
                 "t": "p",
-                "x": "一名俱乐部成员表示，一系列嘉年华游行中在音乐上使用人工智能(AI)“令人失望”。约150,000人涌入Somerset的Bridgwater，观看灯光彩车游行。"
+                "x": "Suno于10月30日请求F. Dennis Saylor IV法官暂停第二起案件，直至他就唱片公司于2024年6月提起的第一起诉讼作出简易判决；在第一起诉讼中，Suno的主要抗辩理由是合理使用。第二起诉讼指控Suno未经许可复制了唱片公司的60,202首录音，用于训练其AI模型。"
               },
               {
                 "t": "p",
-                "x": "一家小型俱乐部的成员Matt Ward说，50辆彩车中有一些使用了AI音乐，这很可惜，并补充道：“我们有点忘了嘉年华从何而来。”他表示，这为各委员会降低了成本，但“音乐有点像是事后才想到的”。"
+                "x": "唱片公司提出“部分中止”：推迟对60,000多首录音所有权的举证，但让针对Suno后续模型的证据收集即刻进行，包括v6的训练方式、其获取训练数据授权的努力、新业务与融资，以及近期财务状况。他们还指出，负责Suno数据抓取和训练数据获取的工程师已经离职。"
               },
               {
                 "t": "p",
-                "x": "Tim Bonser帮助Gremlins制作了其AI歌曲。“作为音乐人，这相当令人兴奋，也相当可怕，”他说，“我们为此进行过相当激烈的讨论，分歧很大。”“时间就是金钱，如今嘉年华的预算很紧。”"
-              },
-              {
-                "t": "p",
-                "x": "Bridgwater Guy Fawkes Carnival的主办方表示，他们理解AI-generated音乐“引发了意见分歧”，但这由各俱乐部自行决定，并补充说嘉年华“一直拥抱新技术”，俱乐部“应当拥有创作自由”来呈现各自主题。"
+                "x": "“拖延不仅会推迟建立案卷，还会使其受损，”Universal和Sony写道。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Música con AI en las carrozas\ndivide a Bridgwater",
-          "body": "Algunos clubes del Bridgwater Carnival usaron música con AI en sus carrozas iluminadas, algo que dividió opiniones.",
-          "mini_headline": "La música con AI divide un carnaval",
+          "headline": "Los sellos se oponen a que Suno\nfrene su segunda demanda",
+          "body": "UMG y Sony se oponen a que Suno paralice su segunda demanda y piden investigar ya cómo se entrenó Suno v6.",
+          "mini_headline": "Los sellos presionan a Suno con la fase de prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8fec/live/880e71a0-dd31-11f1-ab46-9fae224bbf6f.jpg.webp",
-                "cap": "Varias carrozas incluyeron música AI-generated durante el Bridgwater Carnival de 2026"
+                "t": "p",
+                "x": "Universal Music Group y Sony Music Entertainment se oponen al intento de Suno de suspender por completo su segunda demanda por derechos de autor contra la empresa de música con AI. En escritos presentados el viernes (13 de noviembre) ante el tribunal federal de Boston, los sellos argumentaron que una suspensión total podría congelar el caso hasta 2028 y dejar los modelos de 2025 y 2026 de Suno —incluido v6, lanzado en septiembre— “sin examinar en ningún lugar hasta al menos 2028”."
               },
               {
                 "t": "p",
-                "x": "El uso de inteligencia artificial (AI) en la música durante una serie de desfiles de carnaval es \"decepcionante\", según un miembro de un club. Unas 150,000 personas acudieron a Bridgwater, en Somerset, para ver el desfile de carrozas iluminadas."
+                "x": "El 30 de octubre, Suno pidió al juez F. Dennis Saylor IV que suspendiera el segundo caso hasta que se pronuncie sobre el juicio sumario en la primera demanda de los sellos, presentada en junio de 2024, en la que la principal defensa de Suno es el uso legítimo. La segunda demanda acusa a Suno de copiar sin licencia 60,202 grabaciones de los sellos para entrenar sus modelos de AI."
               },
               {
                 "t": "p",
-                "x": "Matt Ward, miembro de uno de los clubes más pequeños, dijo que era una pena que algunas de las 50 carrozas usaran música con AI, y añadió: \"Estamos olvidando un poco de dónde viene el carnaval\". Señaló que reduce los costes para los comités, pero que \"la música parece algo secundario\"."
+                "x": "Los sellos proponen una “suspensión parcial”: aplazar la acreditación de la titularidad de las más de 60,000 grabaciones, pero permitir que la obtención de pruebas avance ya sobre los modelos posteriores de Suno, incluido cómo se entrenó v6, sus esfuerzos por licenciar datos de entrenamiento, sus nuevos negocios y su financiación, y sus finanzas recientes. Señalan además que el ingeniero responsable del scraping de datos y de la adquisición de datos de entrenamiento de Suno ha dejado la empresa."
               },
               {
                 "t": "p",
-                "x": "Tim Bonser ayudó a Gremlins a producir su canción con AI. \"Como músico, es bastante emocionante y también bastante aterrador\", dijo. \"Hemos tenido conversaciones bastante intensas sobre ello y genera mucha división\". \"El tiempo es dinero y hoy los presupuestos del carnaval son ajustados\"."
-              },
-              {
-                "t": "p",
-                "x": "Los organizadores del Bridgwater Guy Fawkes Carnival dijeron que entienden que la música AI-generated \"dividió opiniones\", pero que la decisión corresponde a cada club, y añadieron que el carnaval \"siempre ha adoptado las nuevas tecnologías\" y que los clubes \"deberían tener libertad creativa\" para presentar sus temas."
+                "x": "“El retraso no solo aplazaría la construcción del expediente, sino que lo degradaría”, escriben Universal y Sony."
               }
             ]
           }

@@ -12286,6 +12286,144 @@
           "x": "Anthropic informa una puntuación de 64.9 por ciento para Fable 5.2 en su benchmark interno RoboDojo Sim, frente al 29.8 por ciento de GPT-6 Astra de OpenAI. En la prueba con un brazo robótico real del investigador de AI Aris Zhu, Astra pintó más rápido y mostró mejor control motor fino."
         }
       ]
+    },
+    "design/nevercenter-silo2027-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "G-oQE1gP64U"
+        },
+        {
+          "t": "p",
+          "x": "Nevercenter ha iniciado los lanzamientos 2027 de Silo, su software ligero de modelado 3D. Silo 2027.0 es una actualización importante que añade un esperado nuevo editor de scripts y un servidor MCP, lo que permite controlar el software con herramientas de AI externas como Claude y ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "La nueva API de scripting es para JavaScript en lugar de Python. Incluye más de 100 funciones que cubren “la mayor parte de lo que puedes hacer a mano”, como generar primitivas, modificar mallas y trabajar con selecciones, materiales, UVs y cámaras. Los scripts pueden crearse en el nuevo Script Editor integrado de Silo o en un editor externo, y ejecutarse desde un comando de menú o en sus propias ventanas de UI."
+        },
+        {
+          "t": "p",
+          "x": "Silo se convierte además en la aplicación CG más reciente en integrar un MCP Server, lo que permite controlar el software con herramientas de AI externas como Claude o ChatGPT mediante la nueva API de JavaScript."
+        },
+        {
+          "t": "p",
+          "x": "Silo Blender Bridge ahora funciona entre caras o bucles de aristas de distintos tamaños y entre dos formas. Los archivos glTF obtienen una exportación de materiales PBR “adecuada” y ahora conservan los pliegues y las texturas incrustadas, y el material predeterminado se mantiene en los viajes de ida y vuelta por archivos USD, FBX y Collada (DAE)."
+        },
+        {
+          "t": "p",
+          "x": "Silo 2027.0 es compatible con Windows 10+ y macOS 12.0+. Las licencias perpetuas de Silo tienen un MSRP de $159, que incluye Milo."
+        }
+      ]
+    },
+    "design/mai-image-27-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hoy presentamos MAI Image 2.7 y MAI Image 2.7 Flash, que ofrecen generación y edición de imágenes de frontera a una fracción del costo de los principales competidores. También lanzamos Canvas, un nuevo espacio de trabajo interactivo impulsado por nuestro modelo Flash para crear, editar y refinar imágenes."
+        },
+        {
+          "t": "p",
+          "x": "MAI Image 2.7 ocupa el puesto #1 en edición de imágenes de Artificial Analysis y supera a GPT Image 2.6 Sunburst (max) con solo una quinta parte del costo. Al 16 de noviembre de 2026, registra 1,215 Elo con 5,478 votos. Disponible en vista previa pública en Microsoft Foundry, MAI Image 2.7 cuesta ~$35 por cada 1,000 imágenes, mientras que Flash cuesta ~$10 por cada 1,000 imágenes."
+        },
+        {
+          "t": "p",
+          "x": "Cambie el color, el material o la posición de un objeto sin alterar el resto de la imagen. MAI Image 2.7 mantiene la coherencia visual en ediciones sucesivas. Ambos modelos admiten fondos transparentes para obtener imágenes de producto, logotipos, iconos e ilustraciones listos para usar."
+        },
+        {
+          "t": "p",
+          "x": "Canvas, en MAI Labs, permite empezar con un prompt o un boceto, convertir ideas preliminares en diagramas pulidos y luego seleccionar cualquier parte de una imagen para reemplazarla, moverla o cambiar su estilo. MAI Image es ahora la familia de modelos predeterminada de Bing Image Creator, y Figma Weave, Minute (Sports Illustrated), Wirestock y Manus también trabajan con ella. Ambos modelos están disponibles en Microsoft Foundry y a través de socios como fal, Genspark, OpenRouter y Vercel."
+        }
+      ]
+    },
+    "design/instagram-content-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+          "cap": "Créditos de imagen: Jonathan Raa/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Instagram presenta una nueva herramienta para ayudar a los creadores a proteger sus videos originales, anunció el martes la compañía propiedad de Meta. La función, llamada “protección de contenido” (content protection), ya está disponible en Facebook y está diseñada para detectar cuándo se usan los videos originales de los creadores sin su permiso. La compañía también amplía la herramienta para abordar el contenido de AI, no solo las republicaciones convencionales."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta rastrea Instagram de forma continua en busca de usos no autorizados de los videos protegidos de los creadores. Cuando detecta una coincidencia con uno de los Reels de un creador subido por otro usuario, le envía una alerta. Los creadores pueden bloquear el video en Instagram y Facebook, añadir una etiqueta “original by” que enlace a su original, mantener visible la coincidencia mientras supervisan su rendimiento o renunciar a su reclamación."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+          "cap": "Créditos de imagen: Instagram"
+        },
+        {
+          "t": "p",
+          "x": "La herramienta también empezará a detectar videos AI-generated que reutilizan el audio del contenido original de los creadores, aunque se hayan alterado las imágenes. Esta actualización se probará primero con un grupo reducido de creadores en las próximas semanas. Instagram afirma que estudia formas de limitar el alcance de las cuentas y el contenido que usan reiteradamente herramientas de AI para republicar el trabajo de otros."
+        },
+        {
+          "t": "p",
+          "x": "Una vez que los creadores elegibles se inscriben, todos los videos originales que publiquen en Instagram a partir de entonces quedan protegidos automáticamente, y pueden proteger de forma retroactiva los videos elegibles. Los perfiles que hayan autorizado, como un segundo perfil o una marca, pueden añadirse a una lista de permitidos."
+        }
+      ]
+    },
+    "design/tripo-polipop-h35": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI mostró por primera vez H3.5, un próximo modelo fundacional nativo 3D de su serie H, en Formnext 2026 en Frankfurt, y presentó Polipop, un agente de inteligencia artificial creado para la fabricación aditiva. Durante una rueda de prensa en la feria, la compañía exhibió piezas impresas en 3D generadas por el nuevo modelo y presentó ambos productos como un vínculo entre el contenido AI-generated y las impresoras 3D."
+        },
+        {
+          "t": "p",
+          "x": "H3.5 supone una mejora importante respecto a su predecesor H3.1 y da un paso significativo en la captura de detalles finos y la conservación de la precisión visual. El modelo también produce contenido 3D listo para imprimir que requiere poca edición. La compañía demostró además cómo su modelo actual de la H-series puede convertir una idea en un objeto impreso en 3D en apenas unos minutos."
+        },
+        {
+          "t": "p",
+          "x": "Tripo también presentó en el escenario a Polipop como un agente que convierte las ideas de los usuarios en artículos personalizados impresos en 3D. Una vez recibida una idea, el agente se encarga del modelado 3D y la preparación de la impresión, y luego envía el trabajo terminado a una impresora 3D."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestro próximo modelo nativo 3D H3.5 representa un nuevo hito en la tecnología 3D generativa, ya que lleva contenido 3D generado y listo para imprimir directamente a una impresora 3D, mientras que Polipop, el agente de AI desarrollado especialmente para la impresión 3D, ayuda a dar forma a las ideas de las personas como objetos impresos en 3D”, dijo Yuan-Chen Guo, Research Lead de Tripo AI. Los visitantes pueden probar el modelo de la H-series, Tripo Studio y Polipop en el Booth B01 del Hall 12.1."
+        }
+      ]
+    },
+    "design/claude-canvas-html": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude ya puede incrustar texto, botones y otros elementos web en gráficos complejos y efectos 3D."
+        },
+        {
+          "t": "p",
+          "x": "Las páginas web siempre han enfrentado un dilema. Los elementos HTML estándar se pueden pulsar, seleccionar y leer con lectores de pantalla, pero es difícil deformarlos visualmente. Canvas permite dibujar cualquier cosa, pero el navegador lo trata como una imagen plana. No se puede seleccionar el texto ni pulsar enlaces dentro de él. HTML-in-Canvas cambia eso al colocar elementos reales de la página dentro de gráficos canvas sin que pierdan su interactividad."
+        },
+        {
+          "t": "p",
+          "x": "Felix Rieseberg trabaja en Claude en Anthropic. Escribió en X que Claude ya puede crear \"bizarre & beautiful sites\" (sitios extraños y bellos) con esta función, y añadió que le recuerda a la era de Flash. Una página de demostración muestra 15 ejemplos, entre ellos sitios web representados como patrones de tejido, cubos 3D o vistas de capas desplegadas. El contenido sigue siendo texto real que se puede resaltar y copiar."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google está desarrollando HTML-in-Canvas como un estándar web que conserva tanto la interactividad como la accesibilidad. La función está disponible en Chrome y Edge a partir de la versión 157 y en las apps de escritorio de Claude desde la versión 5.11492. Safari y Firefox aún no la admiten. Los usuarios deben pedir HTML-in-Canvas a Claude de forma explícita en su prompt."
+        },
+        {
+          "t": "p",
+          "x": "Claude es cada vez más creativo en las tareas visuales. Hace poco, Claude Fable 5.2 pintó obras fotorrealistas trazo a trazo con código Python escrito por él mismo."
+        }
+      ]
     }
   }
 }

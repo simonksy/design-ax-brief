@@ -1,31 +1,6 @@
-{
-  "date": "2026-11-17",
-  "section": "science",
-  "media": [
-    {
-      "id": "psypost-ai-grant-novelty",
-      "type": "image",
-      "src": "pipeline/media/psypost-ai-grant-novelty.jpg"
-    },
-    {
-      "id": "leafy-spurge-satellite-ai",
-      "type": "image",
-      "src": "pipeline/media/leafy-spurge-satellite-ai.jpg"
-    },
-    {
-      "id": "materials-ai-less-data",
-      "type": "image",
-      "src": "pipeline/media/materials-ai-less-data.jpg"
-    },
-    {
-      "id": "qudit-quantum-neural-net",
-      "type": "image",
-      "src": "pipeline/media/qudit-quantum-neural-net.jpg"
-    },
-    {
-      "id": "sciam-chess-ai-complexity",
-      "type": "image",
-      "src": "pipeline/media/sciam-chess-ai-complexity.jpg"
-    }
-  ]
-}
+{"date":"2026-11-18","section":"science","media":[
+ {"id":"science-deepfake-hyperreal-fmri","type":"image","src":"pipeline/media/science-deepfake-hyperreal-fmri.jpg"},
+ {"id":"empa-optimat-alloys-chat","type":"video","src":"pipeline/media/empa-optimat-alloys-chat.mp4","poster":"pipeline/media/empa-optimat-alloys-chat.jpg"},
+ {"id":"vtech-vibration-rock-depth","type":"image","src":"pipeline/media/vtech-vibration-rock-depth.jpg"},
+ {"id":"science-euclid-strong-lens-q1","type":"image","src":"pipeline/media/science-euclid-strong-lens-q1.jpg"}
+]}

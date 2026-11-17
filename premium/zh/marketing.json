@@ -5079,6 +5079,154 @@
           "x": "该参数不会改变AI Max匹配查询的方式、Google的出价方式或广告主支付的费用。它改变的只是下游可衡量的内容，即读取着陆页URLs的分析、CRM和报告系统。"
         }
       ]
+    },
+    "marketing/chatgpt-purchase-intent-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在 SparkToro 分析的一个 U.S. 自愿加入式面板中，6.9% 的 ChatGPT 对话表现出购买意图。数据来自 Verso：2026年1月1日至10月29日期间，12,321 人进行的 41,961 次对话，大部分来自按 U.S. 人口结构加权的子样本。"
+        },
+        {
+          "t": "p",
+          "x": "在该子样本中，87.9% 的 ChatGPT 回答没有提到任何一个品牌、产品或商家。Rand Fishkin 的结论是，AI 可见度之所以重要，主要是因为 Google 的 AI Overviews 和 AI Mode，而不是 ChatGPT 本身。"
+        },
+        {
+          "t": "p",
+          "x": "在 4.9% 的对话中，用户计划购买并在比较选项；2.1% 询问购买某个特定品牌、产品或服务；93.1% 没有表现出购买意图。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+          "cap": "图表：SparkToro / Verso."
+        },
+        {
+          "t": "p",
+          "x": "Fishkin 写道：“我怀疑这对 ChatGPT 的广告机会来说是个坏消息。”图像与视觉设计请求是最大类别，占对话的 17.6%；购物、品牌和本地服务合计占 5.3%。"
+        },
+        {
+          "t": "p",
+          "x": "对话由 Anthropic 的 Claude 依据一份书面编码手册进行编码。该面板偏向年轻、女性和低收入人群，以移动端为主，且不含 API 请求。对于正在探索 ChatGPT Ads 的 PPC 团队来说，6.9% 这一比例只是一个消费者面板的快照，并非 ChatGPT 全体的统计。"
+        }
+      ]
+    },
+    "marketing/daydream-stylist-shopping-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Julie Bornstein 创办的时尚初创公司 Daydream 于周二推出“Daydream Agent”。这款 AI 智能体被定位为私人造型师，可以帮你规划造型、虚拟试穿衣服、根据你的品味推荐相关单品等。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+          "cap": "图片来源：Daydream"
+        },
+        {
+          "t": "p",
+          "x": "该智能体会记住每位购物者的个人风格、版型偏好和预算。购物者可以上传照片，虚拟试穿任何已保存的单品，智能体还能通过一键结账完成购买。它也会关注促销和品牌新品发布，每周推送更新，并发现趋势。"
+        },
+        {
+          "t": "p",
+          "x": "购物者可以把单品保存到长期保留的“衣架”中，并连接自己的衣橱和日历来搭配服装、为即将到来的活动做准备。这项技术从超过 10,000 个品牌的目录中实时获取价格和库存，由经过微调的 OpenAI、Gemini 和 Claude 模型以及自研训练模型驱动。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+          "cap": "Daydream 创始人 Lisa Yamner Green 和 Julie Bornstein。图片来源：Daydream"
+        },
+        {
+          "t": "p",
+          "x": "为了让人工保持参与，Daydream 请来 StyleGrid 创始人 Francesca Salih 担任首位驻场造型师。Daydream 已获得 $50 million 融资，并表示自 2025年6月上线以来，已有超过2百万名购物者使用过它。"
+        }
+      ]
+    },
+    "marketing/amazon-dva-ai-brand-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+          "cap": "Amazon 称 DVA 网页广告落在不安全页面上的不足 0.1%；尚未获得 MRC 认证"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Ads 公布了让 Display、Video 和 Audio 广告系列避开不安全网页的流程，并称在其覆盖的库存中，投放到低于品牌安全底线内容旁的展示不足 0.1%。该流程已提交给 Media Rating Council，但“截至本文件日期尚未获得认证”。"
+        },
+        {
+          "t": "p",
+          "x": "适用范围仅限英文（English-language）第三方网站。九个类别对所有广告主一律屏蔽，广告主无法取消这一默认设置。"
+        },
+        {
+          "t": "p",
+          "x": "一个自称 AmazonAdBot 的爬虫负责渲染页面。两个基于已公开开放模型调校的模型为每个页面打分；“如果任一模型识别出较高风险”，页面就会交给两个以图像形式接收页面的基础模型。第二个模型“会剔除无法确认的结果”，并且“只有在结果得到确认时才会屏蔽页面”。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon 点名了 Anthropic：“诸如所使用的 Anthropic Claude 基础模型等模型，会在模型选择和持续测量中接受评估。”它也承认生成式模型“对同一页面的不同次评估可能给出不同结果”。"
+        },
+        {
+          "t": "p",
+          "x": "Brand Unsafe Impression Rate（品牌不安全展示率）由审核人员对已投放展示的样本进行判定；无法评估的页面不计入该比率。"
+        }
+      ]
+    },
+    "marketing/salesforce-copilotforce-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "今天在 Microsoft Ignite 上，Salesforce 与 Microsoft 宣布推出 Copilotforce。这项合作将 Salesforce 引入 Microsoft 的企业生产力生态，并在 Microsoft Copilot、Microsoft Teams 和 Microsoft Fabric 中带来新的集成。"
+        },
+        {
+          "t": "p",
+          "x": "借助 Salesforce in Microsoft Copilot，销售人员可以结合 Teams 对话、Outlook 邮件和共享文档，查看 Salesforce 客户信息、分析商机、准备会议并执行 CRM 操作。工作流包括在 Word 和 PowerPoint 中准备会议、分析交易健康度（deal-health）以及制定管道成交计划。"
+        },
+        {
+          "t": "p",
+          "x": "处于试点阶段的 Sales Cloud in Teams 应用把实时 CRM 洞察带进 Teams，销售人员可以在其中借助 Agentforce Coworker 直接采取行动。双向 Zero Copy 集成在不复制数据集的情况下连接 Salesforce Data 360 与 Microsoft Fabric。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Commercial Business CEO Judson Althoff 表示：“AI 的强大程度，取决于支撑它的数据和上下文。”"
+        },
+        {
+          "t": "p",
+          "x": "Accenture 是设计与实施合作伙伴，也是 Customer Zero。Salesforce in Microsoft Copilot 目前处于 Public Preview (Beta) 阶段；Data Federation 已全面上市。"
+        }
+      ]
+    },
+    "marketing/admob-ask-gemini-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google正为AdMob推出新的AI工具——Ask AdMob、智能体技能和一个MCP服务器——帮助应用开发者更快地构建、修复和发展业务。手动管理广告设置、修复集成错误、审核品牌安全，都会分散团队对开发的专注。"
+        },
+        {
+          "t": "p",
+          "x": "Ask AdMob是基于Gemini构建的对话式智能体，将直接内置于AdMob账户中。它以AdMob变现最佳实践训练，能像AdMob产品专家一样帮助修复问题、发现收入机会并保护品牌安全。其故障排查中心将帮助发现设置异常和SDK集成问题。"
+        },
+        {
+          "t": "p",
+          "x": "Ask AdMob借助同行基准推荐高价值的SDK竞价方，并给出预测的收入提升，同时帮助优化中介组。它会自动检查第三方网络配置，在影响收益之前发现代价高昂的拼写错误和底价差异。品牌安全规则可以用简单的自然语言提示来设置，而无需手动维护屏蔽列表。"
+        },
+        {
+          "t": "p",
+          "x": "Google将在未来几个月开始测试这些功能，可代表用户执行操作的更高级功能将于明年晚些时候推出。用户仍掌握控制权，每条建议在应用前都由用户审核和批准。"
+        },
+        {
+          "t": "p",
+          "x": "AdMob智能体技能为AI智能体提供预先构建并经过测试的操作手册，用于迁移到Google Mobile Ads Next-Gen SDK、实现新广告格式等任务。处于早期测试阶段的AdMob MCP服务器将让智能体读取账户数据、新建广告单元并管理中介设置，明年初将向更多开发者开放。"
+        }
+      ]
     }
   }
 }

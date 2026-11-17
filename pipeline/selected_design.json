@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "design",
   "items": [
     {
-      "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
-      "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
-      "source": "The Decoder",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-11-16T16:10:22+00:00",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png",
-      "excerpt": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects.",
-      "rationale": "New Claude capability: real HTML elements live inside canvas/3D graphics, which opens expressive interactive web layouts designers can prototype directly."
-    },
-    {
-      "title": "Lovable introduces Drafts: explore any idea in parallel without touching what's live",
-      "url": "https://lovable.dev/blog/introducing-drafts",
-      "source": "Lovable",
+      "title": "Manage an allowlist of approved OAuth apps, including MCP clients",
+      "url": "https://www.figma.com/release-notes/?title=manage-an-allowlist-of-approved-oauth-apps-including-mcp-clients",
+      "source": "Figma",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-16T13:30:00Z",
-      "og_image": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png",
-      "excerpt": "Now you and your team can explore different versions of your project in parallel while keeping your live app unchanged.",
-      "rationale": "Primary-source feature launch: parallel design variants on a vibe-coded app without touching production, which changes how designers explore in AI builders."
+      "published_iso": "2026-11-17T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma Design admins on Organization and Enterprise plans can now allowlist approved OAuth apps, including MCP clients such as Cursor and Claude Code, and review app requests in a new Extensions tab of the admin console; rolling out over the next few days.",
+      "rationale": "Primary-source Figma release: org admins now gate which MCP agents (Cursor, Claude Code) can reach design files, which decides whether a team's agent workflow is approved tomorrow."
     },
     {
-      "title": "Astryx is now available in v0",
-      "url": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
-      "source": "Astryx (Meta)",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-11-14T00:00:00Z",
-      "og_image": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-      "excerpt": "Astryx is now available in v0 as a design-system skill, bringing guidance, components, examples, and templates into context as v0 builds.",
-      "rationale": "Meta's design system ships as a v0 skill, so generated UI follows real components and guidance; directly actionable for design-system teams."
+      "title": "Nevercenter releases Silo 2027.0",
+      "url": "https://www.cgchannel.com/2026/11/nevercenter-releases-silo-2027/",
+      "source": "CG Channel",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-11-17T10:23:00Z",
+      "og_image": null,
+      "excerpt": "The lightweight 3D modeler adds a JavaScript API with 100+ functions and an MCP server, letting external AI tools such as Claude or ChatGPT generate primitives, edit meshes, and handle selections, materials, UVs and cameras. Perpetual licence $159.",
+      "rationale": "New release that puts an MCP server inside a $159 3D modeler, so Claude/ChatGPT can drive mesh, UV and material edits directly; a concrete agent-to-3D workflow."
     },
     {
-      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
-      "source": "Google",
+      "title": "MAI Image 2.7: Frontier quality at a fraction of the cost",
+      "url": "https://microsoft.ai/news/introducing-mai-image-2-7/",
+      "source": "Microsoft AI",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-11-16T16:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png",
-      "excerpt": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
-      "rationale": "New Gemini Notebook output type (interactive sites/dashboards from research), distinct from the 10-20 slides/videos feature; useful for research-to-artifact workflows."
+      "published_iso": "2026-11-17T18:16:36Z",
+      "og_image": "https://microsoft.ai/wp-content/uploads/2026/11/MAI-Image-2.7-WithHeader-16x9-1.jpg",
+      "excerpt": "Microsoft launched MAI Image 2.7 and 2.7 Flash at Ignite, with fine-grained edits to an object's color, material or position, transparent-background output and a Canvas workspace. It ranks #1 on Artificial Analysis image editing at 1,215 Elo; about $35 per 1,000 images ($10 for Flash), in preview on Foundry, fal, OpenRouter and Vercel.",
+      "rationale": "Primary-source model launch with object-level color/material/position edits and transparent-background output, priced and available via fal/OpenRouter/Vercel; a new option for production image editing."
     },
     {
-      "title": "How 1Password uses Figma Make to design for trust and certainty",
-      "url": "https://www.figma.com/blog/1password-figma-make/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#eb367f",
+      "title": "Instagram's new tool for creators targets unauthorized reposts and AI-modified videos",
+      "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "published_iso": "2026-11-16T18:03:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "From autofill to AI agent approvals, every 1Password interaction counts. Here's how the design team uses Figma Make to design moments users trust.",
-      "rationale": "Concrete team case study of prototyping AI-agent approval flows in Figma Make; practical patterns for designing trust in agentic UX."
+      "published_iso": "2026-11-17T15:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?resize=1200,800",
+      "excerpt": "Instagram is rolling out content protection for creators: Meta will scan for copies of their original videos, including AI-modified versions, to catch unauthorized reposts.",
+      "rationale": "New Instagram feature that detects AI-modified copies of creators' original videos; directly affects how visual creators protect published work (assigned to design only by the cross-section brief)."
+    },
+    {
+      "title": "Tripo AI previews its H3.5 model and Polipop agent for 3D printing at Formnext",
+      "url": "https://www.voxelmatters.com/tripo-ai-previews-its-h3-5-model-and-polipop-agent-for-3d-printing-at-formnext/",
+      "source": "VoxelMatters",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-17T10:30:48Z",
+      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-640x400.jpg",
+      "excerpt": "At Formnext 2026, Tripo AI previewed H3.5, an upcoming 3D-native foundation model aimed at print-ready output with finer detail than H3.1, and Polipop, an agent that takes an idea through 3D modeling and print prep and sends the job to a printer.",
+      "rationale": "New model and agent announcement (H3.5, Polipop) taking an idea to a print-ready file and printer; distinct from the 11-05 Agentic Canvas launch and relevant to product designers who prototype physically."
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/": {
-        "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
-        "new_action": ""
-      },
-      "https://lovable.dev/blog/introducing-drafts": {
+      "https://www.figma.com/release-notes/?title=manage-an-allowlist-of-approved-oauth-apps-including-mcp-clients": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0": {
+      "https://www.cgchannel.com/2026/11/nevercenter-releases-silo-2027/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/": {
+      "https://microsoft.ai/news/introducing-mai-image-2-7/": {
         "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.figma.com/blog/1password-figma-make/": {
+      "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
+        "nearest": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+        "new_action": ""
+      },
+      "https://www.voxelmatters.com/tripo-ai-previews-its-h3-5-model-and-polipop-agent-for-3d-printing-at-formnext/": {
+        "verdict": "new",
+        "nearest": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/",
         "new_action": ""
       }
     },
-    "note": "No candidate was a repeat of the 30-day history. Claude canvas feature differs from the 11-16 Claude Fable 5.2 painting card and the 11-11 interactive connectors card; Gemini Notebook interactive sites is a different feature release from the 10-20 slides/videos card; 1Password Figma Make is a separate customer story from the 10-24 design-system post and the 10-23 Lufthansa Make story. Excluded: Pearl Abyss/Wccftech (cross-section brief: games only); CNET Adobe MAX slop piece and Creative Bloq Firefly trust essay (commentary on the Adobe MAX launch already published 11-11); Runway Praxis-1 (robotics, not design); Vercel agent evals (developer testing, weak design angle); UX Collective 'Why bother paying for software' (member-only opinion); DEV 'developer or designer' and 'AI loves purple' (lower-credibility blog posts); Parametric Architecture critic essay and MarketScale AIA survey (lower actionability); Claude whiteboards YouTube explainer (secondary walkthrough). Cross-section: published_urls.json is too large to read in full without grep. The picks dated 11-16 came out after the previous run's harvest, so they cannot already be published. Astryx is specific to design systems and is not on the brief's collision list."
+    "note": "No pick repeats the 30-day history. Instagram content protection is a different feature from the 11-10 Effect Builder card. Tripo H3.5/Polipop is a new model and agent announcement, separate from the 11-05 Agentic Canvas card. The tagged nearest for Tripo was the 11-03 CG Channel roundup, and the closer published story is named instead. Dropped as duplicates or near-repeats: CG Channel 'New CG software you may have missed: 15 November' (its design-AI lead is Tripo Agentic Canvas, published 11-05, and SwitchX already ran in movies 11-12). Also dropped: Creative Bloq Firefly trust essay (commentary on the Adobe launch published 11-11, already excluded 11-17) and the Claude Whiteboards YouTube walkthrough (secondary explainer of a feature from about 11-10, already excluded 11-17). Excluded on score: Higgsfield Short Drama Studio (a microdrama tool that fits movies better; Higgsfield already ran in design 11-10), Google Vids avatars (weak design angle), Gemini 4 Carbon builders (weak design angle), Eleken agency post, three DEV Community posts (lower credibility; the semantic-token post overlaps the 10-23 hex-palette card), and Smashing a11y testing (opinion piece; held back to keep the category spread). Cross-section: published_urls.json is too large to read in full without grep. I checked the movies block by hand and found no Higgsfield, Microsoft or Instagram URLs. Instagram is assigned to design only by the brief. Final 5 come from 5 distinct outlets in 4 categories, and the second workflow card uses palette accent #3b6bff."
   }
 }

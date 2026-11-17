@@ -1,167 +1,167 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "movies",
   "cards": [
     {
-      "id": "equity-pact-ai-offer",
+      "id": "movies-runway-mcp-claude-film",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Equity, Pact의\n네 갈래 AI 조항안 지지",
-      "body": "Equity가 8,000명에게 2027-2029 UK 영화·TV안 수락을 권했다.",
-      "mini_headline": "Equity, AI-term 제안 지지",
+      "headline": "Runway MCP로 단편\n메모에서 장면까지",
+      "body": "Runway는 Claude 안에서 연출 메모를 콘티·숏 리스트·장면으로 옮긴다.",
+      "mini_headline": "Runway MCP 단편 영화",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/",
+      "source": "Runway (YouTube)",
+      "url": "https://www.youtube.com/watch?v=V7YAhthJCh0",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+            "t": "video",
+            "yt": "V7YAhthJCh0"
           },
           {
             "t": "p",
-            "x": "첫 협상 이후 세 해 가까이 흘렀다. 영국 배우 노조 Equity는 제작사 단체 Pact의 최종 제안을 배우 조합원 8,000명의 투표에 부치고 ‘찬성’을 권고했다. 합의는 2027년 1월 1일부터 2029년 12월 31일까지 영국 드라마와 영화 대부분에 적용된다. 협상을 거듭 늦춘 건 인공지능이었다."
+            "x": "Claude와 Runway MCP로 마이크로 필름 한 편을 처음부터 끝까지 만드는 과정이다. 연출 메모를 담은 Claude 프로젝트를 세팅해 이야기와 스토리보드를 다듬고 인물·장소 레퍼런스를 만든다. 그다음 룩 노트를 통일한 네 장면짜리 숏 리스트로 정리한다."
           },
           {
             "t": "p",
-            "x": "Equity는 AI 부문이 “크게 개선됐다”며 네 갈래로 짜였다고 밝혔다. 디지털 복제물의 제작·사용 보호, 연기의 디지털 변형 보호, “Synthetics” 보호, AI 학습 라이선스 의무다. 배우는 “디지털 복제물이 사용될 때 보수를 받을 권리”와 그 사용에 동의할 권리를 갖는다. 제작사는 “포괄적 동의를 받을 수 없으며” 특정 프로젝트에 한해서만 동의를 받는다. 다만 Equity는 “디지털 복제물 삭제”나 관행적인 CGI/VFX 스캔 보호는 얻어내지 못했다."
+            "x": "버스트 방식으로 커버리지 레퍼런스를 뽑고 드래프트 모드에서 멀티숏 장면을 완성한 다음, 결과물을 모두 편집으로 넘긴다."
           },
           {
             "t": "p",
-            "x": "예산 £50M ($66M) 이상 영화의 출연료 24% 인상, 스트리밍 플랫폼 이용료 3퍼센트포인트 인상, 셀프테이프 72시간 사전 통지도 합의에 들어갔다. Paul W Fleming 사무총장은 “업계 최고의 AI 조항을 얻어냈다”고 말했다."
+            "x": "챕터: 00:00 인트로 · 00:40 Claude 프로젝트 설정 · 01:40 기획과 스토리보드 · 02:30 인물·장소 레퍼런스 · 04:00 숏 리스트와 버스트 방식 · 05:15 장면 생성과 편집. 프롬프트와 프로젝트 설정: runway.com/prompts/short-film-runway-mcp"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Equity backs Pact offer\nwith four-part AI terms",
-          "body": "Equity recommends its 8,000 members accept Pact's 2027-2029 UK film and TV offer, which includes four-part AI terms.",
-          "mini_headline": "Equity backs AI-term offer",
+          "headline": "Runway MCP takes a short\nfilm from notes to scenes",
+          "body": "Runway goes from director's notes to storyboards, a shot list and multi-shot scenes, all inside Claude.",
+          "mini_headline": "Runway MCP short film",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "Nearly three years after they first sat down, British actors union Equity is taking a final offer from producer trade body Pact to its 8,000-strong actor member base with a recommendation to vote “yes.” The deal covers the majority of British shows and movies from January 1 2027 through December 31 2029, but it is artificial intelligence that has delayed things time and time again."
+                "x": "Learn how to make a complete micro film using Claude and the Runway MCP. We set up a Claude project with director’s notes, develop the story and storyboards, build character and location references, then turn it all into a four-scene shot list with consistent look notes."
               },
               {
                 "t": "p",
-                "x": "Equity said the AI element is “significantly improved” and four-pronged: protections for the creation and use of digital replicas, for digital alterations of a performance, against “Synthetics,” and obligations around AI training licensing. Actors will “have the right to be paid when your digital replica is used” and to consent to its use, and a producer “cannot obtain blanket consent” — only for specific projects. Equity failed to win protections for “digital replica deletion” or customary CGI/VFX scanning."
+                "x": "From there we use the burst method to generate coverage references, create full multi-shot scenes in draft mode and bring everything into the edit."
               },
               {
                 "t": "p",
-                "x": "The deal also includes a 24% rise in pay rates on movies budgeted over £50M ($66M), a 3 percentage point uplift to streaming platform use fees, and a 72-hour notice period for self-tapes. General Secretary Paul W Fleming: “We’ve achieved the best AI provisions in the business.”"
+                "x": "Chapters: 00:00 Intro · 00:40 Setting up a Claude project · 01:40 Planning and storyboards · 02:30 Character and location references · 04:00 Shot list and the burst method · 05:15 Generating and editing the scene. Prompts and project setup: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Equity, Pact의\n네 갈래 AI 조항안 지지",
-          "body": "Equity가 8,000명에게 2027-2029 UK 영화·TV안 수락을 권했다.",
-          "mini_headline": "Equity, AI-term 제안 지지",
+          "headline": "Runway MCP로 단편\n메모에서 장면까지",
+          "body": "Runway는 Claude 안에서 연출 메모를 콘티·숏 리스트·장면으로 옮긴다.",
+          "mini_headline": "Runway MCP 단편 영화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "첫 협상 이후 세 해 가까이 흘렀다. 영국 배우 노조 Equity는 제작사 단체 Pact의 최종 제안을 배우 조합원 8,000명의 투표에 부치고 ‘찬성’을 권고했다. 합의는 2027년 1월 1일부터 2029년 12월 31일까지 영국 드라마와 영화 대부분에 적용된다. 협상을 거듭 늦춘 건 인공지능이었다."
+                "x": "Claude와 Runway MCP로 마이크로 필름 한 편을 처음부터 끝까지 만드는 과정이다. 연출 메모를 담은 Claude 프로젝트를 세팅해 이야기와 스토리보드를 다듬고 인물·장소 레퍼런스를 만든다. 그다음 룩 노트를 통일한 네 장면짜리 숏 리스트로 정리한다."
               },
               {
                 "t": "p",
-                "x": "Equity는 AI 부문이 “크게 개선됐다”며 네 갈래로 짜였다고 밝혔다. 디지털 복제물의 제작·사용 보호, 연기의 디지털 변형 보호, “Synthetics” 보호, AI 학습 라이선스 의무다. 배우는 “디지털 복제물이 사용될 때 보수를 받을 권리”와 그 사용에 동의할 권리를 갖는다. 제작사는 “포괄적 동의를 받을 수 없으며” 특정 프로젝트에 한해서만 동의를 받는다. 다만 Equity는 “디지털 복제물 삭제”나 관행적인 CGI/VFX 스캔 보호는 얻어내지 못했다."
+                "x": "버스트 방식으로 커버리지 레퍼런스를 뽑고 드래프트 모드에서 멀티숏 장면을 완성한 다음, 결과물을 모두 편집으로 넘긴다."
               },
               {
                 "t": "p",
-                "x": "예산 £50M ($66M) 이상 영화의 출연료 24% 인상, 스트리밍 플랫폼 이용료 3퍼센트포인트 인상, 셀프테이프 72시간 사전 통지도 합의에 들어갔다. Paul W Fleming 사무총장은 “업계 최고의 AI 조항을 얻어냈다”고 말했다."
+                "x": "챕터: 00:00 인트로 · 00:40 Claude 프로젝트 설정 · 01:40 기획과 스토리보드 · 02:30 인물·장소 레퍼런스 · 04:00 숏 리스트와 버스트 방식 · 05:15 장면 생성과 편집. 프롬프트와 프로젝트 설정: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Equity、Pact案支持\nAI条項は四本柱",
-          "body": "Equityは8,000人にPactの2027-2029年UK映画・TV案の受諾を勧めた。",
-          "mini_headline": "Equity、AI-term案を支持",
+          "headline": "Runway MCPで短編\nメモからシーンまで",
+          "body": "RunwayはClaude上で演出メモを絵コンテやショットリスト、シーンに変える。",
+          "mini_headline": "Runway MCPで短編映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "初めて交渉の席に着いてから三年近く、英国の俳優組合Equityは制作会社団体Pactの最終提案を、「賛成」票を推奨したうえで8,000人の俳優会員に諮る。合意は2027年1月1日から2029年12月31日まで英国のドラマと映画の大半を対象とするが、交渉を幾度も遅らせてきたのは人工知能だった。"
+                "x": "ClaudeとRunway MCPを使い、マイクロフィルムを一本仕上げる方法を紹介する。演出メモを入れたClaudeプロジェクトを用意し、ストーリーと絵コンテを練り、キャラクターとロケーションの参照素材を作ったうえで、それらを一貫したルック指定付きの四つのシーンからなるショットリストにまとめる。"
               },
               {
                 "t": "p",
-                "x": "EquityはAI部分が「大幅に改善された」とし、四本柱で構成されると説明した。デジタルレプリカの作成と使用に関する保護、演技のデジタル改変に関する保護、「Synthetics」に対する保護、そしてAI学習のライセンスをめぐる義務である。俳優は「デジタルレプリカが使用された際に報酬を受け取る権利」とその使用に同意する権利を持ち、制作者は「包括的な同意を得ることはできず」、特定のプロジェクトに限って同意を得られる。Equityは「デジタルレプリカの削除」や慣行となっているCGI/VFXスキャンに関する保護は勝ち取れなかった。"
+                "x": "続いてバースト手法でカバレッジ用の参照素材を生成し、ドラフトモードでマルチショットのシーンを丸ごと作り、すべてを編集に取り込む。"
               },
               {
                 "t": "p",
-                "x": "合意には、予算£50M ($66M) 超の映画での出演料24%引き上げ、ストリーミングプラットフォーム利用料の3パーセントポイント上乗せ、セルフテープの72時間前通知期間も含まれる。Paul W Fleming書記長は「業界最高のAI条項を勝ち取った」と述べた。"
+                "x": "チャプター: 00:00 イントロ · 00:40 Claudeプロジェクトの設定 · 01:40 企画と絵コンテ · 02:30 キャラクターとロケーションの参照 · 04:00 ショットリストとバースト手法 · 05:15 シーンの生成と編集。プロンプトとプロジェクト設定: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Equity支持Pact方案\n含四部分AI条款",
-          "body": "Equity建议8,000名会员接受Pact的2027-2029年UK影视方案，含AI条款。",
-          "mini_headline": "Equity支持AI-term方案",
+          "headline": "Runway MCP做短片\n从导演笔记到场景",
+          "body": "Runway在Claude内把导演笔记变成分镜、镜头表和多镜头场景。",
+          "mini_headline": "Runway MCP短片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "双方首次坐上谈判桌近三年后，英国演员工会Equity将制片商行业组织Pact的最终方案提交给8,000名演员会员表决，并建议投“赞成”票。该协议覆盖2027年1月1日至2029年12月31日期间英国大多数剧集和电影，但一再拖慢进程的正是人工智能。"
+                "x": "了解如何用Claude和Runway MCP制作一部完整的微电影。我们先建立一个包含导演笔记的Claude项目，打磨故事和分镜，制作角色与场景参考，再把这些整理成一份四场戏的镜头表，并附上统一的视觉风格说明。"
               },
               {
                 "t": "p",
-                "x": "Equity表示，AI部分“已显著改善”，包含四个方面：对数字复制体的创建与使用的保护、对表演数字修改的保护、针对“Synthetics”的保护，以及围绕AI训练授权的义务。演员将“在数字复制体被使用时享有获得报酬的权利”，并有权同意其使用；制片方“不能获得一揽子同意”，只能针对具体项目取得同意。Equity未能争取到“数字复制体删除”或常规CGI/VFX扫描方面的保护。"
+                "x": "接着用连拍法生成覆盖镜头参考，在草稿模式下生成完整的多镜头场景，最后全部导入剪辑。"
               },
               {
                 "t": "p",
-                "x": "协议还包括：预算超过£50M ($66M) 的电影片酬上调24%，流媒体平台使用费提高3个百分点，自拍试镜视频设72小时通知期。秘书长Paul W Fleming表示：“我们拿到了业内最好的AI条款。”"
+                "x": "章节: 00:00 开场 · 00:40 设置Claude项目 · 01:40 策划与分镜 · 02:30 角色与场景参考 · 04:00 镜头表与连拍法 · 05:15 生成并剪辑场景。提示词与项目设置: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equity apoya la oferta de Pact\ncon cuatro apartados sobre AI",
-          "body": "Equity pide a sus 8,000 miembros aceptar la oferta de Pact de cine y TV de UK 2027-2029, con cuatro apartados de AI.",
-          "mini_headline": "Equity respalda la oferta AI-term",
+          "headline": "Runway MCP lleva un corto\nde las notas a las escenas",
+          "body": "Runway pasa de las notas del director a storyboards, una lista de planos y escenas multiplano, todo dentro de Claude.",
+          "mini_headline": "Cortometraje con Runway MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "Casi tres años después de sentarse a negociar por primera vez, el sindicato británico de actores Equity somete la oferta final de la patronal de productores Pact a sus 8,000 actores afiliados, con la recomendación de votar “sí”. El acuerdo cubre la mayoría de las series y películas británicas desde el 1 de enero de 2027 hasta el 31 de diciembre de 2029, pero ha sido la inteligencia artificial la que ha retrasado el proceso una y otra vez."
+                "x": "Aprende a hacer una micropelícula completa con Claude y Runway MCP. Configuramos un proyecto de Claude con las notas del director, desarrollamos la historia y los storyboards, creamos referencias de personajes y locaciones, y luego lo convertimos todo en una lista de planos de cuatro escenas con notas de estilo visual coherentes."
               },
               {
                 "t": "p",
-                "x": "Equity afirmó que el apartado de AI ha “mejorado significativamente” y tiene cuatro ejes: protecciones para la creación y el uso de réplicas digitales, para las alteraciones digitales de una interpretación, frente a los “Synthetics”, y obligaciones sobre las licencias de entrenamiento de AI. Los actores tendrán “derecho a cobrar cuando se use su réplica digital” y a consentir su uso, y un productor “no puede obtener un consentimiento general”, solo para proyectos concretos. Equity no logró protecciones para la “eliminación de réplicas digitales” ni para el escaneo habitual de CGI/VFX."
+                "x": "A partir de ahí usamos el método de ráfaga para generar referencias de cobertura, creamos escenas multiplano completas en modo borrador y llevamos todo a la edición."
               },
               {
                 "t": "p",
-                "x": "El acuerdo incluye además una subida del 24% en las tarifas de las películas con presupuesto superior a £50M ($66M), un aumento de 3 puntos porcentuales en las tarifas por uso en plataformas de streaming y un plazo de aviso de 72 horas para las self-tapes. El secretario general, Paul W Fleming: “Hemos logrado las mejores disposiciones sobre AI del sector”."
+                "x": "Capítulos: 00:00 Intro · 00:40 Configurar un proyecto de Claude · 01:40 Planificación y storyboards · 02:30 Referencias de personajes y locaciones · 04:00 Lista de planos y método de ráfaga · 05:15 Generar y editar la escena. Prompts y configuración del proyecto: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
@@ -169,105 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Equity, Pact의\n네 갈래 AI 조항안 지지",
-          "body": "Equity는 2027-2029 UK 영화·TV안 수락을 8,000명에게 권했다.",
-          "mini_headline": "Equity, AI-term 제안 지지",
+          "headline": "Runway MCP로 단편\n메모에서 장면까지",
+          "body": "Runway는 Claude 안에서 연출 메모를 콘티·숏 리스트·장면으로 옮긴다.",
+          "mini_headline": "Runway MCP 단편 영화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "처음 협상 테이블에 앉은 지 세 해 가까이 지난 지금, 영국 배우 노조 Equity가 제작사 단체 Pact의 최종 제안을 8,000명 규모의 배우 조합원 투표에 부치며 ‘찬성’을 권고했다. 이번 합의는 2027년 1월 1일부터 2029년 12월 31일까지 영국 드라마와 영화 대부분에 적용되지만, 협상을 거듭 늦춘 것은 인공지능이었다."
+                "x": "Claude와 Runway MCP로 완결된 마이크로 필름 한 편을 만드는 방법을 소개한다. 연출 메모를 담은 Claude 프로젝트를 세팅하고, 이야기와 스토리보드를 다듬고, 인물·장소 레퍼런스를 만든 뒤, 이를 일관된 룩 노트를 갖춘 네 장면짜리 숏 리스트로 정리한다."
               },
               {
                 "t": "p",
-                "x": "Equity는 AI 부문이 “크게 개선됐다”며 네 갈래로 구성된다고 밝혔다. 디지털 복제물의 제작과 사용에 대한 보호, 연기의 디지털 변형에 대한 보호, “Synthetics”에 대한 보호, 그리고 AI 학습 라이선스에 관한 의무다. 배우는 “디지털 복제물이 사용될 때 보수를 받을 권리”와 그 사용에 동의할 권리를 갖고, 제작사는 “포괄적 동의를 받을 수 없으며” 특정 프로젝트에 한해서만 동의를 받는다. Equity는 “디지털 복제물 삭제”나 관행적인 CGI/VFX 스캔에 대한 보호는 얻어내지 못했다."
+                "x": "이어 버스트 방식으로 커버리지 레퍼런스를 생성하고, 드래프트 모드에서 멀티숏 장면을 완성한 뒤 모든 결과물을 편집으로 가져온다."
               },
               {
                 "t": "p",
-                "x": "합의에는 예산 £50M ($66M) 이상 영화의 출연료 24% 인상, 스트리밍 플랫폼 이용료 3퍼센트포인트 인상, 셀프테이프 72시간 사전 통지 기간도 담겼다. Paul W Fleming 사무총장은 “업계 최고의 AI 조항을 얻어냈다”고 말했다."
+                "x": "챕터: 00:00 인트로 · 00:40 Claude 프로젝트 설정 · 01:40 기획과 스토리보드 · 02:30 인물·장소 레퍼런스 · 04:00 숏 리스트와 버스트 방식 · 05:15 장면 생성과 편집. 프롬프트와 프로젝트 설정: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Equity、Pact案支持\nAI条項は四本柱",
-          "body": "Equityは8,000人にPactの2027-2029年UK映画・TV案の受諾を勧めた。",
-          "mini_headline": "Equity、AI-term案を支持",
+          "headline": "Runway MCPで短編\nメモからシーンまで",
+          "body": "RunwayはClaude上で演出メモを絵コンテやショットリスト、シーンに変える。",
+          "mini_headline": "Runway MCPで短編映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "初めて交渉の席に着いてから三年近く、英国の俳優組合Equityは制作会社団体Pactの最終提案を、「賛成」票を推奨したうえで8,000人の俳優会員に諮る。合意は2027年1月1日から2029年12月31日まで英国のドラマと映画の大半を対象とするが、交渉を幾度も遅らせてきたのは人工知能だった。"
+                "x": "ClaudeとRunway MCPを使い、マイクロフィルムを一本仕上げる方法を紹介する。演出メモを入れたClaudeプロジェクトを用意し、ストーリーと絵コンテを練り、キャラクターとロケーションの参照素材を作ったうえで、それらを一貫したルック指定付きの四つのシーンからなるショットリストにまとめる。"
               },
               {
                 "t": "p",
-                "x": "EquityはAI部分が「大幅に改善された」とし、四本柱で構成されると説明した。デジタルレプリカの作成と使用に関する保護、演技のデジタル改変に関する保護、「Synthetics」に対する保護、そしてAI学習のライセンスをめぐる義務である。俳優は「デジタルレプリカが使用された際に報酬を受け取る権利」とその使用に同意する権利を持ち、制作者は「包括的な同意を得ることはできず」、特定のプロジェクトに限って同意を得られる。Equityは「デジタルレプリカの削除」や慣行となっているCGI/VFXスキャンに関する保護は勝ち取れなかった。"
+                "x": "続いてバースト手法でカバレッジ用の参照素材を生成し、ドラフトモードでマルチショットのシーンを丸ごと作り、すべてを編集に取り込む。"
               },
               {
                 "t": "p",
-                "x": "合意には、予算£50M ($66M) 超の映画での出演料24%引き上げ、ストリーミングプラットフォーム利用料の3パーセントポイント上乗せ、セルフテープの72時間前通知期間も含まれる。Paul W Fleming書記長は「業界最高のAI条項を勝ち取った」と述べた。"
+                "x": "チャプター: 00:00 イントロ · 00:40 Claudeプロジェクトの設定 · 01:40 企画と絵コンテ · 02:30 キャラクターとロケーションの参照 · 04:00 ショットリストとバースト手法 · 05:15 シーンの生成と編集。プロンプトとプロジェクト設定: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Equity支持Pact方案\n含四部分AI条款",
-          "body": "Equity建议8,000名会员接受Pact的2027-2029年UK影视方案，含AI条款。",
-          "mini_headline": "Equity支持AI-term方案",
+          "headline": "Runway MCP做短片\n从导演笔记到场景",
+          "body": "Runway在Claude内把导演笔记变成分镜、镜头表和多镜头场景。",
+          "mini_headline": "Runway MCP短片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "双方首次坐上谈判桌近三年后，英国演员工会Equity将制片商行业组织Pact的最终方案提交给8,000名演员会员表决，并建议投“赞成”票。该协议覆盖2027年1月1日至2029年12月31日期间英国大多数剧集和电影，但一再拖慢进程的正是人工智能。"
+                "x": "了解如何用Claude和Runway MCP制作一部完整的微电影。我们先建立一个包含导演笔记的Claude项目，打磨故事和分镜，制作角色与场景参考，再把这些整理成一份四场戏的镜头表，并附上统一的视觉风格说明。"
               },
               {
                 "t": "p",
-                "x": "Equity表示，AI部分“已显著改善”，包含四个方面：对数字复制体的创建与使用的保护、对表演数字修改的保护、针对“Synthetics”的保护，以及围绕AI训练授权的义务。演员将“在数字复制体被使用时享有获得报酬的权利”，并有权同意其使用；制片方“不能获得一揽子同意”，只能针对具体项目取得同意。Equity未能争取到“数字复制体删除”或常规CGI/VFX扫描方面的保护。"
+                "x": "接着用连拍法生成覆盖镜头参考，在草稿模式下生成完整的多镜头场景，最后全部导入剪辑。"
               },
               {
                 "t": "p",
-                "x": "协议还包括：预算超过£50M ($66M) 的电影片酬上调24%，流媒体平台使用费提高3个百分点，自拍试镜视频设72小时通知期。秘书长Paul W Fleming表示：“我们拿到了业内最好的AI条款。”"
+                "x": "章节: 00:00 开场 · 00:40 设置Claude项目 · 01:40 策划与分镜 · 02:30 角色与场景参考 · 04:00 镜头表与连拍法 · 05:15 生成并剪辑场景。提示词与项目设置: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equity apoya la oferta de Pact\ncon cuatro apartados sobre AI",
-          "body": "Equity pide a sus 8,000 miembros aceptar la oferta de Pact de cine y TV de UK 2027-2029, con cuatro apartados de AI.",
-          "mini_headline": "Equity respalda la oferta AI-term",
+          "headline": "Runway MCP lleva un corto\nde las notas a las escenas",
+          "body": "Runway pasa de las notas del director a storyboards, una lista de planos y escenas multiplano, todo dentro de Claude.",
+          "mini_headline": "Cortometraje con Runway MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+                "t": "video",
+                "yt": "V7YAhthJCh0"
               },
               {
                 "t": "p",
-                "x": "Casi tres años después de sentarse a negociar por primera vez, el sindicato británico de actores Equity somete la oferta final de la patronal de productores Pact a sus 8,000 actores afiliados, con la recomendación de votar “sí”. El acuerdo cubre la mayoría de las series y películas británicas desde el 1 de enero de 2027 hasta el 31 de diciembre de 2029, pero ha sido la inteligencia artificial la que ha retrasado el proceso una y otra vez."
+                "x": "Aprende a hacer una micropelícula completa con Claude y Runway MCP. Configuramos un proyecto de Claude con las notas del director, desarrollamos la historia y los storyboards, creamos referencias de personajes y locaciones, y luego lo convertimos todo en una lista de planos de cuatro escenas con notas de estilo visual coherentes."
               },
               {
                 "t": "p",
-                "x": "Equity afirmó que el apartado de AI ha “mejorado significativamente” y tiene cuatro ejes: protecciones para la creación y el uso de réplicas digitales, para las alteraciones digitales de una interpretación, frente a los “Synthetics”, y obligaciones sobre las licencias de entrenamiento de AI. Los actores tendrán “derecho a cobrar cuando se use su réplica digital” y a consentir su uso, y un productor “no puede obtener un consentimiento general”, solo para proyectos concretos. Equity no logró protecciones para la “eliminación de réplicas digitales” ni para el escaneo habitual de CGI/VFX."
+                "x": "A partir de ahí usamos el método de ráfaga para generar referencias de cobertura, creamos escenas multiplano completas en modo borrador y llevamos todo a la edición."
               },
               {
                 "t": "p",
-                "x": "El acuerdo incluye además una subida del 24% en las tarifas de las películas con presupuesto superior a £50M ($66M), un aumento de 3 puntos porcentuales en las tarifas por uso en plataformas de streaming y un plazo de aviso de 72 horas para las self-tapes. El secretario general, Paul W Fleming: “Hemos logrado las mejores disposiciones sobre AI del sector”."
+                "x": "Capítulos: 00:00 Intro · 00:40 Configurar un proyecto de Claude · 01:40 Planificación y storyboards · 02:30 Referencias de personajes y locaciones · 04:00 Lista de planos y método de ráfaga · 05:15 Generar y editar la escena. Prompts y configuración del proyecto: runway.com/prompts/short-film-runway-mcp"
               }
             ]
           }
@@ -275,15 +275,15 @@
       }
     },
     {
-      "id": "cnc-ai-dubbing-funding",
+      "id": "movies-ayer-acme-greybox",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "프랑스 CNC는\nAI-only 더빙 미지원",
-      "body": "11월 1일부터 CNC 더빙·자막·화면해설 지원은 인간 작가·연기자에게만 간다.",
-      "mini_headline": "프랑스, AI 더빙 지원 제한",
+      "headline": "David Ayer,\n로케 대신 AI 세트로",
+      "body": "David Ayer가 ACME AI 파트너로 AI 세트 Grey Box를 돕는다.",
+      "mini_headline": "Ayer, ACME AI 합류",
       "tool": "Movies",
-      "source": "Slator",
-      "url": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/digital/david-ayer-acme-ai-grey-box-locations-1236756850/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -291,155 +291,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-            "cap": "“La fin du cinéma”"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
           },
           {
             "t": "p",
-            "x": "프랑스 국립영화영상센터(Centre national du cinéma et de l’image animée, CNC)는 인간 창작자가 전혀 참여하지 않은 더빙·자막·화면해설 프로젝트에 더 이상 자금을 대지 않는다. 이사회가 2026년 10월 14일 변경안을 채택했다. 10월 31일 Journal officiel에 실린 문안은 지원 대상 현지화 비용을 인간 작가·연기자와 그 결과물에 딸린 기술 작업으로 묶었다."
+            "x": "David Ayer가 ACME AI에 프린시펄 겸 매니징 파트너로 합류해 회사 운영에 참여한다. 전 Relativity Media 공동창업자 Ryan Kavanaugh가 세운 ACME의 ‘Grey Box’ 기술을 쓰면 감독과 배우는 어디에도 가지 않고 먼 곳이 배경인 장면을 높은 완성도로 찍는다."
           },
           {
             "t": "p",
-            "x": "영화·영상물·비디오게임은 집필, 개발, 제작 과정에 “최소 한 명의 작가가 참여”해야 한다. 애니메이션에는 “그래픽 작가”가 최소 한 명, CNC 지원(CNC-funded) 오리지널 음악에는 인간 작곡가가 있어야 한다. 더빙 지원금은 대본을 쓰는 사람과 이를 연기하는 성우, 녹음·믹싱에만 쓸 수 있다. 자막 지원금은 인간 작가와 싱크 작업에 돌아간다."
+            "x": "퍼포먼스 트랜스퍼라 불리는 기술이다. above-the-line 작업은 건드리지 않고 below-the-line 작업 상당 부분의 수요와 비용을 크게 줄이니, 사실상 무엇에든 쓰는 디지털 그린 스크린이다. 비판하는 쪽은 실제 장소가 주는 마법이 사라질 수 있고 현장 스태프의 생계도 위협받는다고 말한다."
           },
           {
             "t": "p",
-            "x": "AI를 전면 금지하는 규정은 아니다. 문화부는 “AI의 전략적 활용은 [그럼에도] 업계 전문가들이 창작·기술 과정에 도움이 되는 도구를 갖추게 할 수 있다”면서도 “창작은 무엇보다 인간의 일로 남아야 한다”고 밝혔다. 규정은 2026년 11월 1일 발효돼 이날 이후 신청한 프로젝트부터 적용된다."
+            "x": "“스토리텔러로서 내 일의 절반은 예산을 두고 다투는 것”이라고 Ayer는 말한다. “이 기술은 수많은 이야기를 손에 닿는 거리로 끌어온다.” ACME는 자사 기술로 시간과 비용을 50퍼센트에서 75퍼센트 사이로 줄인다고 본다. 포토리얼리즘을 끌어올리려고 렌즈와 조명 패키지를 대거 매핑해 물리 세계를 재현하는 모델과 묶었다. Grey Box는 지금 Los Angeles 전용 스테이지에 있고, 회사는 이를 스튜디오에 빌려줄 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "Doug Liman은 최근 ACME의 Grey Box로 Casey Affleck 주연의 암호화폐 드라마 Bitcoin 촬영을 마쳤다. Ayer는 개발 중인 자기 프로젝트 여러 편도 Grey Box로 찍을 수 있다고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "France's CNC won't fund\nAI-only dubbing and subtitles",
-          "body": "Since Nov. 1, CNC funding for dubbing, subtitling and audio description covers only human authors and performers.",
-          "mini_headline": "France curbs AI dubbing funds",
+          "headline": "David Ayer backs AI sets\nover location shoots",
+          "body": "David Ayer joins ACME AI as a partner to back Grey Box, which shoots actors on a stage and recreates locations with AI.",
+          "mini_headline": "Ayer joins ACME AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "France’s Centre national du cinéma et de l’image animée (CNC) will no longer fund dubbing, subtitling, or audio description projects produced without any human creators. The board adopted the change on October 14, 2026; the text, published in the Journal officiel on October 31, limits eligible localization spending to human authors and performers and the technical work around their output."
+                "x": "David Ayer is joining ACME AI as a principal and managing partner, and will be involved in the operations of the firm. Founded by former Relativity Media co-founder Ryan Kavanaugh, ACME and its “Grey Box” tech allows directors and actors to shoot full-fledged scenes in far-flung locales without going anywhere."
               },
               {
                 "t": "p",
-                "x": "For films, audiovisual works and video games, writing, development and production must “involve at least one author”; animation needs at least one “graphic author,” and CNC-funded original music a human composer. Dubbing funds can only pay the people who write the text and the voice-actors who perform it, plus recording and mixing; subtitling funds cover human authors and synchronization."
+                "x": "The tech is known as performance transfer: it keeps above-the-line work intact while radically reducing the need for, and expense of, much of the below-the-line kind — essentially a digital green screen, but for everything. Critics say it risks losing the magic of physical locations and hurts the livelihoods of on-set workers."
               },
               {
                 "t": "p",
-                "x": "The rules stop short of banning AI outright. The culture ministry said “a strategic use of AI can [nevertheless] allow industry professionals to acquire tools that serve the creative and technical process,” but “creation must remain primarily a human endeavor.” The rule took effect on November 1, 2026, for projects applying on or after that date."
+                "x": "“As a storyteller half my job is litigating over budget,” Ayer says. “This pulls so many stories within striking distance.” ACME believes its tech can reduce time and money at a rate of between 50 and 75 percent. It mapped many lenses and lighting packages for greater photorealism, combined with models that re-create the physical world. Grey Box currently exists in Los Angeles on a dedicated stage, and the company will rent the tech out to studios."
+              },
+              {
+                "t": "p",
+                "x": "Doug Liman recently completed shooting the crypto drama Bitcoin starring Casey Affleck using ACME’s Grey Box. Ayer says he has multiple projects in development that can be redirected to the Grey Box."
               }
             ]
           }
         },
         "ko": {
-          "headline": "프랑스 CNC는\nAI-only 더빙 미지원",
-          "body": "11월 1일부터 CNC 더빙·자막·화면해설 지원은 인간 작가·연기자에게만 간다.",
-          "mini_headline": "프랑스, AI 더빙 지원 제한",
+          "headline": "David Ayer,\n로케 대신 AI 세트로",
+          "body": "David Ayer가 ACME AI 파트너로 AI 세트 Grey Box를 돕는다.",
+          "mini_headline": "Ayer, ACME AI 합류",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "프랑스 국립영화영상센터(Centre national du cinéma et de l’image animée, CNC)는 인간 창작자가 전혀 참여하지 않은 더빙·자막·화면해설 프로젝트에 더 이상 자금을 대지 않는다. 이사회가 2026년 10월 14일 변경안을 채택했다. 10월 31일 Journal officiel에 실린 문안은 지원 대상 현지화 비용을 인간 작가·연기자와 그 결과물에 딸린 기술 작업으로 묶었다."
+                "x": "David Ayer가 ACME AI에 프린시펄 겸 매니징 파트너로 합류해 회사 운영에 참여한다. 전 Relativity Media 공동창업자 Ryan Kavanaugh가 세운 ACME의 ‘Grey Box’ 기술을 쓰면 감독과 배우는 어디에도 가지 않고 먼 곳이 배경인 장면을 높은 완성도로 찍는다."
               },
               {
                 "t": "p",
-                "x": "영화·영상물·비디오게임은 집필, 개발, 제작 과정에 “최소 한 명의 작가가 참여”해야 한다. 애니메이션에는 “그래픽 작가”가 최소 한 명, CNC 지원(CNC-funded) 오리지널 음악에는 인간 작곡가가 있어야 한다. 더빙 지원금은 대본을 쓰는 사람과 이를 연기하는 성우, 녹음·믹싱에만 쓸 수 있다. 자막 지원금은 인간 작가와 싱크 작업에 돌아간다."
+                "x": "퍼포먼스 트랜스퍼라 불리는 기술이다. above-the-line 작업은 건드리지 않고 below-the-line 작업 상당 부분의 수요와 비용을 크게 줄이니, 사실상 무엇에든 쓰는 디지털 그린 스크린이다. 비판하는 쪽은 실제 장소가 주는 마법이 사라질 수 있고 현장 스태프의 생계도 위협받는다고 말한다."
               },
               {
                 "t": "p",
-                "x": "AI를 전면 금지하는 규정은 아니다. 문화부는 “AI의 전략적 활용은 [그럼에도] 업계 전문가들이 창작·기술 과정에 도움이 되는 도구를 갖추게 할 수 있다”면서도 “창작은 무엇보다 인간의 일로 남아야 한다”고 밝혔다. 규정은 2026년 11월 1일 발효돼 이날 이후 신청한 프로젝트부터 적용된다."
+                "x": "“스토리텔러로서 내 일의 절반은 예산을 두고 다투는 것”이라고 Ayer는 말한다. “이 기술은 수많은 이야기를 손에 닿는 거리로 끌어온다.” ACME는 자사 기술로 시간과 비용을 50퍼센트에서 75퍼센트 사이로 줄인다고 본다. 포토리얼리즘을 끌어올리려고 렌즈와 조명 패키지를 대거 매핑해 물리 세계를 재현하는 모델과 묶었다. Grey Box는 지금 Los Angeles 전용 스테이지에 있고, 회사는 이를 스튜디오에 빌려줄 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "Doug Liman은 최근 ACME의 Grey Box로 Casey Affleck 주연의 암호화폐 드라마 Bitcoin 촬영을 마쳤다. Ayer는 개발 중인 자기 프로젝트 여러 편도 Grey Box로 찍을 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仏CNC、AI-onlyの\n吹き替え・字幕に助成せず",
-          "body": "11月1日以降、CNCの吹き替え・字幕・音声解説助成は人間の作者と演者のみが対象だ。",
-          "mini_headline": "仏、AI吹き替えへの助成を制限",
+          "headline": "David Ayer、\nロケよりAIセット",
+          "body": "David AyerがACME AIに参画、AIセットGrey Boxを後押しする。",
+          "mini_headline": "AyerがACME AIに参画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "フランス国立映画映像センター(Centre national du cinéma et de l’image animée、CNC)は、人間のクリエイターが一切関わらずに制作された吹き替え・字幕・音声解説プロジェクトへの助成を打ち切る。理事会は2026年10月14日にこの変更を採択し、10月31日にJournal officielで公布された条文は、助成対象となるローカライズ費用を人間の作者と演者、およびその成果物にまつわる技術作業に限定している。"
+                "x": "David AyerがACME AIにプリンシパル兼マネージングパートナーとして加わり、同社の運営に関わる。元Relativity Media共同創業者のRyan Kavanaughが設立したACMEとその「Grey Box」技術により、監督や俳優はどこへも出向かずに、遠く離れた土地を舞台にした本格的なシーンを撮影できる。"
               },
               {
                 "t": "p",
-                "x": "映画、映像作品、ビデオゲームでは、脚本、開発、制作に「少なくとも一人の作者が関与」しなければならない。アニメーションには少なくとも一人の「グラフィック作者」が、CNC-funded(CNC助成)のオリジナル音楽には人間の作曲家が必要だ。吹き替え助成金が支払われるのは台本を書く人とそれを演じる声優、そして録音とミキシングに限られ、字幕助成金は人間の作者と同期作業を対象とする。"
+                "x": "この技術はパフォーマンス・トランスファーと呼ばれる。above-the-lineの仕事はそのままに、below-the-lineの仕事の多くについて必要性と費用を大幅に減らすもので、いわばあらゆるものを対象にしたデジタルのグリーンスクリーンだ。批判派は、実際のロケ地が持つ魔法が失われるおそれがあり、現場スタッフの生計を損なうと指摘する。"
               },
               {
                 "t": "p",
-                "x": "規則はAIの全面禁止には踏み込んでいない。文化省は「AIの戦略的な活用は[それでも]業界の専門家が創作・技術プロセスに役立つツールを手にすることを可能にしうる」としつつ、「創作は何よりも人間の営みであり続けなければならない」と述べた。規則は2026年11月1日に発効し、同日以降に申請するプロジェクトに適用される。"
+                "x": "「ストーリーテラーとして、仕事の半分は予算をめぐる争いだ」とAyerは語る。「これで多くの物語が手の届く範囲に入る」。ACMEは、自社の技術で時間と費用を50パーセントから75パーセント削減できるとみている。よりフォトリアルな映像のために多数のレンズと照明パッケージをマッピングし、物理世界を再現するモデルと組み合わせた。Grey Boxは現在Los Angelesの専用ステージにあり、同社はこの技術をスタジオに貸し出す予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "Doug Limanは最近、ACMEのGrey Boxを使い、Casey Affleck主演の暗号資産ドラマ『Bitcoin』の撮影を終えた。Ayerは、開発中の複数のプロジェクトをGrey Boxに振り向けられると話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法国CNC不再资助\nAI-only配音与字幕",
-          "body": "自11月1日起，CNC的配音、字幕和口述影像资助仅限人类作者与表演者。",
-          "mini_headline": "法国限制AI配音资助",
+          "headline": "David Ayer力挺\n以AI布景替代实景",
+          "body": "David Ayer加入ACME AI任合伙人，力挺AI布景技术Grey Box。",
+          "mini_headline": "Ayer加盟ACME AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "法国国家电影与动画中心(Centre national du cinéma et de l’image animée，CNC)将不再资助完全没有人类创作者参与的配音、字幕或口述影像项目。董事会于2026年10月14日通过这一调整；10月31日刊登于Journal officiel的文本，将符合资助条件的本地化支出限定于人类作者和表演者，以及围绕其成果的技术工作。"
+                "x": "David Ayer将以负责人兼执行合伙人身份加入ACME AI，并参与公司运营。ACME由Relativity Media前联合创始人Ryan Kavanaugh创立，其“Grey Box”技术让导演和演员无需远行，就能拍出以遥远异地为背景的完整场景。"
               },
               {
                 "t": "p",
-                "x": "对于电影、视听作品和电子游戏，编剧、开发和制作必须“至少有一名作者参与”；动画至少需要一名“图像作者”，CNC资助(CNC-funded)的原创音乐需要人类作曲家。配音资助只能支付撰写文本的人员和演绎文本的配音演员，以及录音和混音；字幕资助涵盖人类作者和时间轴同步。"
+                "x": "这项技术被称为表演迁移：它保留above-the-line的创作工作，同时大幅减少大部分below-the-line工作的需求与开支，本质上是一块适用于一切的数字绿幕。批评者认为，它可能让实景拍摄的魔力消失，并损害片场工作人员的生计。"
               },
               {
                 "t": "p",
-                "x": "新规并未全面禁止AI。文化部表示，“[尽管如此，]对AI的策略性使用可以让业内专业人士获得服务于创作和技术流程的工具”，但“创作必须首先是人类的事业”。该规定于2026年11月1日生效，适用于当日及之后提交申请的项目。"
+                "x": "“作为讲故事的人，我一半的工作是为预算争论，”Ayer说，“这让许多故事变得触手可及。”ACME认为，其技术可将时间和成本降低50%至75%。公司为提升照片级真实感，对大量镜头和灯光组合进行了映射，并结合了重建物理世界的模型。Grey Box目前设在Los Angeles的专用摄影棚，公司将把这项技术租给制片厂。"
+              },
+              {
+                "t": "p",
+                "x": "Doug Liman近期使用ACME的Grey Box完成了由Casey Affleck主演的加密货币剧情片《Bitcoin》的拍摄。Ayer表示，他有多个开发中的项目可以转用Grey Box。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El CNC francés no financiará\ndoblaje ni subtítulos AI-only",
-          "body": "Desde el 1 de noviembre, el CNC solo financia doblaje, subtítulos y audiodescripción con autores e intérpretes humanos.",
-          "mini_headline": "Francia limita las ayudas al doblaje con AI",
+          "headline": "David Ayer apuesta por sets AI\nfrente al rodaje en exteriores",
+          "body": "David Ayer se une a ACME AI como socio para respaldar Grey Box, que filma actores en un plató y recrea lugares con AI.",
+          "mini_headline": "Ayer se une a ACME AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "El Centre national du cinéma et de l’image animée (CNC) de Francia dejará de financiar proyectos de doblaje, subtitulado o audiodescripción realizados sin ningún creador humano. El consejo aprobó el cambio el 14 de octubre de 2026; el texto, publicado en el Journal officiel el 31 de octubre, limita el gasto de localización subvencionable a autores e intérpretes humanos y al trabajo técnico en torno a su producción."
+                "x": "David Ayer se incorpora a ACME AI como directivo y socio gerente, y participará en las operaciones de la firma. Fundada por Ryan Kavanaugh, excofundador de Relativity Media, ACME y su tecnología “Grey Box” permiten a directores y actores rodar escenas completas en lugares remotos sin desplazarse."
               },
               {
                 "t": "p",
-                "x": "En películas, obras audiovisuales y videojuegos, la escritura, el desarrollo y la producción deben “involucrar al menos a un autor”; la animación necesita al menos un “autor gráfico”, y la música original CNC-funded (financiada por el CNC), un compositor humano. Las ayudas al doblaje solo pueden pagar a quienes escriben el texto y a los actores de voz que lo interpretan, además de la grabación y la mezcla; las de subtitulado cubren a los autores humanos y la sincronización."
+                "x": "La tecnología se conoce como transferencia de interpretación: mantiene intacto el trabajo above-the-line y reduce de forma drástica la necesidad y el costo de gran parte del trabajo below-the-line; en esencia, una pantalla verde digital, pero para todo. Los críticos señalan que corre el riesgo de perder la magia de las locaciones reales y que perjudica el sustento de los trabajadores en el set."
               },
               {
                 "t": "p",
-                "x": "Las normas no llegan a prohibir la AI por completo. El Ministerio de Cultura señaló que “un uso estratégico de la AI puede [no obstante] permitir a los profesionales del sector adquirir herramientas al servicio del proceso creativo y técnico”, pero que “la creación debe seguir siendo ante todo una labor humana”. La norma entró en vigor el 1 de noviembre de 2026 para los proyectos que se presenten a partir de esa fecha."
+                "x": "“Como narrador, la mitad de mi trabajo es litigar por el presupuesto”, dice Ayer. “Esto pone muchísimas historias al alcance de la mano.” ACME cree que su tecnología puede reducir tiempo y dinero entre un 50 y un 75 por ciento. Mapeó numerosos lentes y paquetes de iluminación para lograr mayor fotorrealismo, combinados con modelos que recrean el mundo físico. Grey Box se encuentra actualmente en Los Angeles, en un estudio dedicado, y la empresa alquilará la tecnología a los estudios."
+              },
+              {
+                "t": "p",
+                "x": "Doug Liman terminó hace poco el rodaje del drama sobre criptomonedas Bitcoin, protagonizado por Casey Affleck, con el Grey Box de ACME. Ayer afirma que tiene varios proyectos en desarrollo que pueden redirigirse al Grey Box."
               }
             ]
           }
@@ -447,109 +465,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "프랑스 CNC는\nAI-only 더빙 미지원",
-          "body": "11월 1일부터 CNC 더빙·자막·화면해설 지원은 인간 작가·연기자만 받는다.",
-          "mini_headline": "프랑스, AI 더빙 지원 제한",
+          "headline": "David Ayer,\n로케 대신 AI 세트로",
+          "body": "David Ayer가 ACME AI 파트너로 AI 세트 Grey Box를 돕는다.",
+          "mini_headline": "Ayer, ACME AI 합류",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "프랑스 국립영화영상센터(Centre national du cinéma et de l’image animée, CNC)는 인간 창작자가 전혀 참여하지 않은 더빙·자막·화면해설 프로젝트에 더 이상 자금을 지원하지 않는다. 이사회는 2026년 10월 14일 이 변경안을 채택했고, 10월 31일 Journal officiel에 게재된 문안은 지원 대상 현지화 비용을 인간 작가·연기자와 그 결과물을 둘러싼 기술 작업으로 한정한다."
+                "x": "David Ayer가 ACME AI에 프린시펄 겸 매니징 파트너로 합류해 회사 운영에 참여한다. 전 Relativity Media 공동창업자 Ryan Kavanaugh가 세운 ACME와 이 회사의 ‘Grey Box’ 기술은 감독과 배우가 어디에도 가지 않고 먼 곳을 배경으로 한 완성도 높은 장면을 찍을 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "영화·영상물·비디오게임은 집필, 개발, 제작 과정에 “최소 한 명의 작가가 참여”해야 한다. 애니메이션은 최소 한 명의 “그래픽 작가”가, CNC 지원(CNC-funded) 오리지널 음악은 인간 작곡가가 있어야 한다. 더빙 지원금은 대본을 쓰는 사람과 이를 연기하는 성우, 그리고 녹음·믹싱에만 쓸 수 있고, 자막 지원금은 인간 작가와 싱크 작업을 대상으로 한다."
+                "x": "이 기술은 퍼포먼스 트랜스퍼라 불린다. above-the-line 작업은 그대로 두면서 below-the-line 작업 상당 부분의 수요와 비용을 크게 줄이는 방식으로, 사실상 모든 것에 적용되는 디지털 그린 스크린인 셈이다. 비판론자들은 실제 장소가 주는 마법을 잃을 위험이 있고 현장 스태프의 생계를 해친다고 말한다."
               },
               {
                 "t": "p",
-                "x": "이번 규정이 AI를 전면 금지하는 것은 아니다. 문화부는 “AI의 전략적 활용은 [그럼에도] 업계 전문가들이 창작·기술 과정에 도움이 되는 도구를 갖추게 할 수 있다”면서도 “창작은 무엇보다 인간의 일로 남아야 한다”고 밝혔다. 규정은 2026년 11월 1일 발효됐고, 이날 이후 신청하는 프로젝트에 적용된다."
+                "x": "“스토리텔러로서 내 일의 절반은 예산을 두고 다투는 것”이라고 Ayer는 말한다. “이 기술은 수많은 이야기를 손에 닿는 거리로 끌어온다.” ACME는 자사 기술이 시간과 비용을 50퍼센트에서 75퍼센트 사이로 줄일 수 있다고 본다. 더 높은 포토리얼리즘을 위해 수많은 렌즈와 조명 패키지를 매핑했고, 물리 세계를 재현하는 모델과 결합했다. Grey Box는 현재 Los Angeles의 전용 스테이지에 있으며, 회사는 이 기술을 스튜디오에 대여할 예정이다."
+              },
+              {
+                "t": "p",
+                "x": "Doug Liman은 최근 ACME의 Grey Box로 Casey Affleck 주연의 암호화폐 드라마 Bitcoin 촬영을 마쳤다. Ayer는 개발 중인 여러 프로젝트를 Grey Box로 돌릴 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仏CNC、AI-onlyの\n吹き替え・字幕に助成せず",
-          "body": "11月1日以降、CNCの吹き替え・字幕・音声解説助成は人間の作者と演者のみが対象だ。",
-          "mini_headline": "仏、AI吹き替えへの助成を制限",
+          "headline": "David Ayer、\nロケよりAIセット",
+          "body": "David AyerがACME AIに参画、AIセットGrey Boxを後押しする。",
+          "mini_headline": "AyerがACME AIに参画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "フランス国立映画映像センター(Centre national du cinéma et de l’image animée、CNC)は、人間のクリエイターが一切関わらずに制作された吹き替え・字幕・音声解説プロジェクトへの助成を打ち切る。理事会は2026年10月14日にこの変更を採択し、10月31日にJournal officielで公布された条文は、助成対象となるローカライズ費用を人間の作者と演者、およびその成果物にまつわる技術作業に限定している。"
+                "x": "David AyerがACME AIにプリンシパル兼マネージングパートナーとして加わり、同社の運営に関わる。元Relativity Media共同創業者のRyan Kavanaughが設立したACMEとその「Grey Box」技術により、監督や俳優はどこへも出向かずに、遠く離れた土地を舞台にした本格的なシーンを撮影できる。"
               },
               {
                 "t": "p",
-                "x": "映画、映像作品、ビデオゲームでは、脚本、開発、制作に「少なくとも一人の作者が関与」しなければならない。アニメーションには少なくとも一人の「グラフィック作者」が、CNC-funded(CNC助成)のオリジナル音楽には人間の作曲家が必要だ。吹き替え助成金が支払われるのは台本を書く人とそれを演じる声優、そして録音とミキシングに限られ、字幕助成金は人間の作者と同期作業を対象とする。"
+                "x": "この技術はパフォーマンス・トランスファーと呼ばれる。above-the-lineの仕事はそのままに、below-the-lineの仕事の多くについて必要性と費用を大幅に減らすもので、いわばあらゆるものを対象にしたデジタルのグリーンスクリーンだ。批判派は、実際のロケ地が持つ魔法が失われるおそれがあり、現場スタッフの生計を損なうと指摘する。"
               },
               {
                 "t": "p",
-                "x": "規則はAIの全面禁止には踏み込んでいない。文化省は「AIの戦略的な活用は[それでも]業界の専門家が創作・技術プロセスに役立つツールを手にすることを可能にしうる」としつつ、「創作は何よりも人間の営みであり続けなければならない」と述べた。規則は2026年11月1日に発効し、同日以降に申請するプロジェクトに適用される。"
+                "x": "「ストーリーテラーとして、仕事の半分は予算をめぐる争いだ」とAyerは語る。「これで多くの物語が手の届く範囲に入る」。ACMEは、自社の技術で時間と費用を50パーセントから75パーセント削減できるとみている。よりフォトリアルな映像のために多数のレンズと照明パッケージをマッピングし、物理世界を再現するモデルと組み合わせた。Grey Boxは現在Los Angelesの専用ステージにあり、同社はこの技術をスタジオに貸し出す予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "Doug Limanは最近、ACMEのGrey Boxを使い、Casey Affleck主演の暗号資産ドラマ『Bitcoin』の撮影を終えた。Ayerは、開発中の複数のプロジェクトをGrey Boxに振り向けられると話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法国CNC不再资助\nAI-only配音与字幕",
-          "body": "自11月1日起，CNC的配音、字幕和口述影像资助仅限人类作者与表演者。",
-          "mini_headline": "法国限制AI配音资助",
+          "headline": "David Ayer力挺\n以AI布景替代实景",
+          "body": "David Ayer加入ACME AI任合伙人，力挺AI布景技术Grey Box。",
+          "mini_headline": "Ayer加盟ACME AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "法国国家电影与动画中心(Centre national du cinéma et de l’image animée，CNC)将不再资助完全没有人类创作者参与的配音、字幕或口述影像项目。董事会于2026年10月14日通过这一调整；10月31日刊登于Journal officiel的文本，将符合资助条件的本地化支出限定于人类作者和表演者，以及围绕其成果的技术工作。"
+                "x": "David Ayer将以负责人兼执行合伙人身份加入ACME AI，并参与公司运营。ACME由Relativity Media前联合创始人Ryan Kavanaugh创立，其“Grey Box”技术让导演和演员无需远行，就能拍出以遥远异地为背景的完整场景。"
               },
               {
                 "t": "p",
-                "x": "对于电影、视听作品和电子游戏，编剧、开发和制作必须“至少有一名作者参与”；动画至少需要一名“图像作者”，CNC资助(CNC-funded)的原创音乐需要人类作曲家。配音资助只能支付撰写文本的人员和演绎文本的配音演员，以及录音和混音；字幕资助涵盖人类作者和时间轴同步。"
+                "x": "这项技术被称为表演迁移：它保留above-the-line的创作工作，同时大幅减少大部分below-the-line工作的需求与开支，本质上是一块适用于一切的数字绿幕。批评者认为，它可能让实景拍摄的魔力消失，并损害片场工作人员的生计。"
               },
               {
                 "t": "p",
-                "x": "新规并未全面禁止AI。文化部表示，“[尽管如此，]对AI的策略性使用可以让业内专业人士获得服务于创作和技术流程的工具”，但“创作必须首先是人类的事业”。该规定于2026年11月1日生效，适用于当日及之后提交申请的项目。"
+                "x": "“作为讲故事的人，我一半的工作是为预算争论，”Ayer说，“这让许多故事变得触手可及。”ACME认为，其技术可将时间和成本降低50%至75%。公司为提升照片级真实感，对大量镜头和灯光组合进行了映射，并结合了重建物理世界的模型。Grey Box目前设在Los Angeles的专用摄影棚，公司将把这项技术租给制片厂。"
+              },
+              {
+                "t": "p",
+                "x": "Doug Liman近期使用ACME的Grey Box完成了由Casey Affleck主演的加密货币剧情片《Bitcoin》的拍摄。Ayer表示，他有多个开发中的项目可以转用Grey Box。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El CNC francés no financiará\ndoblaje ni subtítulos AI-only",
-          "body": "Desde el 1 de noviembre, el CNC solo financia doblaje, subtítulos y audiodescripción con autores e intérpretes humanos.",
-          "mini_headline": "Francia limita las ayudas al doblaje con AI",
+          "headline": "David Ayer apuesta por sets AI\nfrente al rodaje en exteriores",
+          "body": "David Ayer se une a ACME AI como socio para respaldar Grey Box, que filma actores en un plató y recrea lugares con AI.",
+          "mini_headline": "Ayer se une a ACME AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-                "cap": "“La fin du cinéma”"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "El Centre national du cinéma et de l’image animée (CNC) de Francia dejará de financiar proyectos de doblaje, subtitulado o audiodescripción realizados sin ningún creador humano. El consejo aprobó el cambio el 14 de octubre de 2026; el texto, publicado en el Journal officiel el 31 de octubre, limita el gasto de localización subvencionable a autores e intérpretes humanos y al trabajo técnico en torno a su producción."
+                "x": "David Ayer se incorpora a ACME AI como directivo y socio gerente, y participará en las operaciones de la firma. Fundada por Ryan Kavanaugh, excofundador de Relativity Media, ACME y su tecnología “Grey Box” permiten a directores y actores rodar escenas completas en lugares remotos sin desplazarse."
               },
               {
                 "t": "p",
-                "x": "En películas, obras audiovisuales y videojuegos, la escritura, el desarrollo y la producción deben “involucrar al menos a un autor”; la animación necesita al menos un “autor gráfico”, y la música original CNC-funded (financiada por el CNC), un compositor humano. Las ayudas al doblaje solo pueden pagar a quienes escriben el texto y a los actores de voz que lo interpretan, además de la grabación y la mezcla; las de subtitulado cubren a los autores humanos y la sincronización."
+                "x": "La tecnología se conoce como transferencia de interpretación: mantiene intacto el trabajo above-the-line y reduce de forma drástica la necesidad y el costo de gran parte del trabajo below-the-line; en esencia, una pantalla verde digital, pero para todo. Los críticos señalan que corre el riesgo de perder la magia de las locaciones reales y que perjudica el sustento de los trabajadores en el set."
               },
               {
                 "t": "p",
-                "x": "Las normas no llegan a prohibir la AI por completo. El Ministerio de Cultura señaló que “un uso estratégico de la AI puede [no obstante] permitir a los profesionales del sector adquirir herramientas al servicio del proceso creativo y técnico”, pero que “la creación debe seguir siendo ante todo una labor humana”. La norma entró en vigor el 1 de noviembre de 2026 para los proyectos que se presenten a partir de esa fecha."
+                "x": "“Como narrador, la mitad de mi trabajo es litigar por el presupuesto”, dice Ayer. “Esto pone muchísimas historias al alcance de la mano.” ACME cree que su tecnología puede reducir tiempo y dinero entre un 50 y un 75 por ciento. Mapeó numerosos lentes y paquetes de iluminación para lograr mayor fotorrealismo, combinados con modelos que recrean el mundo físico. Grey Box se encuentra actualmente en Los Angeles, en un estudio dedicado, y la empresa alquilará la tecnología a los estudios."
+              },
+              {
+                "t": "p",
+                "x": "Doug Liman terminó hace poco el rodaje del drama sobre criptomonedas Bitcoin, protagonizado por Casey Affleck, con el Grey Box de ACME. Ayer afirma que tiene varios proyectos en desarrollo que pueden redirigirse al Grey Box."
               }
             ]
           }
@@ -557,15 +587,15 @@
       }
     },
     {
-      "id": "hpa-net-ai-second-unit",
+      "id": "movies-adobe-live-set-sneak",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "HPA 라운드테이블\nAI를 ‘세컨드 유닛’으로",
-      "body": "HPA NET 라운드테이블 후반 감독들은 AI 숏의 진짜 비용을 리테이크로 꼽았다.",
-      "mini_headline": "세컨드 유닛이 된 AI",
+      "headline": "Adobe, 재생 중에\nAI 효과 편집 공개",
+      "body": "Adobe Project Live Set은 재생 중 AI 효과를 만들고 고친다.",
+      "mini_headline": "Adobe Project Live Set",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/",
+      "source": "Variety",
+      "url": "https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -573,173 +603,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+            "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+            "cap": "Adobe 제공"
           },
           {
             "t": "p",
-            "x": "HPA는 10월 로스앤젤레스 Sheraton Universal에서 NET Roundtables를 열고 AI를 ‘세컨드 유닛’으로 보자는 주제를 꺼냈다. 책임은 여전히 책임자에게 있고, 팀은 정해진 지시대로 병렬 작업을 한다는 뜻이다. “이 팀은 당신에게 보고한다.” Alex Daro가 후반작업 분야 감독과 슈퍼바이저를 상대로 “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” 세션을 이끌었다."
+            "x": "Adobe가 기존 영상에 AI-generated 효과를 입혀 사실상 재생 도중에 영상을 고치는 새 기능을 선보인다. 회사는 Adobe MAX 2026 콘퍼런스 Sneaks 세션에서 Project Live Set을 먼저 보여 준다. 편집자는 장면이 흘러가는 동안 피사체를 바꾸거나 환경을 변형하고, 레퍼런스 캐릭터를 넣거나 카메라 방향을 틀면서 결과를 실시간으로 본다."
           },
           {
             "t": "p",
-            "x": "AI에 절대 넘기지 않을 일을 묻자 답은 대개 해상도, 비트 심도, 통제권으로 모였다. AI가 CG를 대체할 준비가 됐는지를 두고는 의견이 갈렸다. 다툴 필요 없는 점도 하나 있었다. AI 숏에서 가장 비싼 건 리테이크다. 내보낼 만한 숏 하나를 얻기까지 거친 모든 테이크에, 고르는 데 들인 시간까지 붙는다."
-          },
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+            "x": "Adobe 비디오·오디오 연구 그룹을 이끄는 Gautham Mysore는 Project Live Set이 초기 연구 프리뷰이고 Adobe가 기반 모델 세부 사항은 공개하지 않는다고 말했다. 그는 “Project Live Set은 크리에이터와 영화 제작자가 생각의 속도로 영상을 생성하고 편집하게 해 줄 것”이라며 “지금은 영상 제작 과정의 상당 부분이 기다림이다. 이것이 창작의 흐름을 끊는다”고 말했다."
           },
           {
             "t": "p",
-            "x": "지금 후반작업의 AI는 이미 확보한 영상을 다룬다. 배경 제거, 업레즈, 세트 확장 같은 일이다. 진행자 대부분은 시설이 통제하는 하드웨어에서 AI를 로컬로 돌려야 하고, AI가 전통적인 후반 워크플로에 들어오면 콘텐츠 자격 증명도 챙겨야 한다는 데 뜻을 모았다. 플레이트와 대조해 확인할 수 있는 작업부터 시작하고, 미디어는 자체 하드웨어에 두고, 렌더가 아니라 리테이크에 예산을 잡으라는 조언도 나왔다."
+            "x": "데모에서는 검은 고양이 영상 하나를 프롬프트 네 개로 동시에 변형한다. “고양이에게 셰프 모자 씌우기”부터 “고양이를 턱시도 입은 강아지로 바꾸기”까지다. Nov. 11에 Terry Crews가 진행하는 올해 Sneaks 세션은 혁신 10가지를 미리 보여 주는데, 향후 제품 기능 약속이 아닌 연구 프리뷰다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "HPA roundtable casts AI\nas a second unit",
-          "body": "Post supervisors at HPA's October NET Roundtables agreed that retakes are the real cost of an AI shot.",
-          "mini_headline": "AI as a second unit",
+          "headline": "Adobe previews AI effects\nedited while video plays",
+          "body": "Adobe's Project Live Set sneak lets creators generate and edit AI video effects while the footage is playing.",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "Courtesy of Adobe"
               },
               {
                 "t": "p",
-                "x": "In October the HPA held its NET Roundtables at the Sheraton Universal in Los Angeles around AI as a “second unit,” a crew that works in parallel on a defined brief while the people in charge stay in charge — “This one reports to you.” Alex Daro hosted “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” for directors and supervisors from post."
+                "x": "Adobe is showing off a new feature that lets creators modify an existing video with AI-generated effects — virtually as it’s playing. At the Adobe MAX 2026 conference’s Sneaks panel, the company will preview Project Live Set: video editors can change a subject, transform an environment, introduce a reference character or redirect the camera as a scene continues, and see the results in real time."
               },
               {
                 "t": "p",
-                "x": "Asked what job they’d never hand over to AI, most answers came back to resolution, bit depth and control. The room split on whether AI is ready to replace CG. One point needed no argument: retakes are the most expensive part of an AI shot — every take it took to get one you’d ship, plus the time spent choosing."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Project Live Set is an early research preview, and Adobe isn’t sharing details about the underlying models, said Gautham Mysore, leader of Adobe’s video and audio research group. “Project Live Set will allow creators and filmmakers to generate and edit video at the speed of thought,” he said. “Today, a large part of the video creation process is waiting. This breaks creative flow.”"
               },
               {
                 "t": "p",
-                "x": "What post is using today works on footage it already has: background removal, uprez and set extensions. Most moderators agreed that running AI locally on hardware the facility controls matters, and that content credentials matter once AI is part of a traditional post workflow. Advice: start with work you can check against the plate, keep media on your hardware, and budget for retakes, not renders."
+                "x": "The demo transforms a video of a black cat with four prompts simultaneously — from “add a chef’s hat on the cat” to “swap the cat with a puppy wearing a tuxedo.” Hosted by Terry Crews on Nov. 11, this year’s Sneaks session previews 10 innovations; they are research previews rather than commitments to future product features."
               }
             ]
           }
         },
         "ko": {
-          "headline": "HPA 라운드테이블\nAI를 ‘세컨드 유닛’으로",
-          "body": "HPA NET 라운드테이블 후반 감독들은 AI 숏의 진짜 비용을 리테이크로 꼽았다.",
-          "mini_headline": "세컨드 유닛이 된 AI",
+          "headline": "Adobe, 재생 중에\nAI 효과 편집 공개",
+          "body": "Adobe Project Live Set은 재생 중 AI 효과를 만들고 고친다.",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "Adobe 제공"
               },
               {
                 "t": "p",
-                "x": "HPA는 10월 로스앤젤레스 Sheraton Universal에서 NET Roundtables를 열고 AI를 ‘세컨드 유닛’으로 보자는 주제를 꺼냈다. 책임은 여전히 책임자에게 있고, 팀은 정해진 지시대로 병렬 작업을 한다는 뜻이다. “이 팀은 당신에게 보고한다.” Alex Daro가 후반작업 분야 감독과 슈퍼바이저를 상대로 “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” 세션을 이끌었다."
+                "x": "Adobe가 기존 영상에 AI-generated 효과를 입혀 사실상 재생 도중에 영상을 고치는 새 기능을 선보인다. 회사는 Adobe MAX 2026 콘퍼런스 Sneaks 세션에서 Project Live Set을 먼저 보여 준다. 편집자는 장면이 흘러가는 동안 피사체를 바꾸거나 환경을 변형하고, 레퍼런스 캐릭터를 넣거나 카메라 방향을 틀면서 결과를 실시간으로 본다."
               },
               {
                 "t": "p",
-                "x": "AI에 절대 넘기지 않을 일을 묻자 답은 대개 해상도, 비트 심도, 통제권으로 모였다. AI가 CG를 대체할 준비가 됐는지를 두고는 의견이 갈렸다. 다툴 필요 없는 점도 하나 있었다. AI 숏에서 가장 비싼 건 리테이크다. 내보낼 만한 숏 하나를 얻기까지 거친 모든 테이크에, 고르는 데 들인 시간까지 붙는다."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Adobe 비디오·오디오 연구 그룹을 이끄는 Gautham Mysore는 Project Live Set이 초기 연구 프리뷰이고 Adobe가 기반 모델 세부 사항은 공개하지 않는다고 말했다. 그는 “Project Live Set은 크리에이터와 영화 제작자가 생각의 속도로 영상을 생성하고 편집하게 해 줄 것”이라며 “지금은 영상 제작 과정의 상당 부분이 기다림이다. 이것이 창작의 흐름을 끊는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "지금 후반작업의 AI는 이미 확보한 영상을 다룬다. 배경 제거, 업레즈, 세트 확장 같은 일이다. 진행자 대부분은 시설이 통제하는 하드웨어에서 AI를 로컬로 돌려야 하고, AI가 전통적인 후반 워크플로에 들어오면 콘텐츠 자격 증명도 챙겨야 한다는 데 뜻을 모았다. 플레이트와 대조해 확인할 수 있는 작업부터 시작하고, 미디어는 자체 하드웨어에 두고, 렌더가 아니라 리테이크에 예산을 잡으라는 조언도 나왔다."
+                "x": "데모에서는 검은 고양이 영상 하나를 프롬프트 네 개로 동시에 변형한다. “고양이에게 셰프 모자 씌우기”부터 “고양이를 턱시도 입은 강아지로 바꾸기”까지다. Nov. 11에 Terry Crews가 진행하는 올해 Sneaks 세션은 혁신 10가지를 미리 보여 주는데, 향후 제품 기능 약속이 아닌 연구 프리뷰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HPA円卓会議、AIを\n「セカンドユニット」に",
-          "body": "HPAのNET円卓会議で、ポスト監督陣はAIショット最大のコストがリテイクだと認めた。",
-          "mini_headline": "セカンドユニットとしてのAI",
+          "headline": "Adobe、再生しながら\nAI効果を編集",
+          "body": "AdobeのProject Live Setは、再生中の映像にAI効果を生成・編集できる。",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "提供: Adobe"
               },
               {
                 "t": "p",
-                "x": "HPAは十月、ロサンゼルスのSheraton UniversalでNET Roundtablesを開催し、AIを「セカンドユニット」と捉えるテーマを掲げた。責任者は責任者のまま、明確な指示のもとで並行して作業するクルーのことだ。「この班はあなたの指揮下にある」。Alex Daroはポストプロダクションの監督やスーパーバイザーに向けて「Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline」を主催した。"
+                "x": "Adobeは、既存の動画をAI-generatedエフェクトで、ほぼ再生中のまま加工できる新機能を披露する。Adobe MAX 2026カンファレンスのSneaksパネルでProject Live Setをプレビューする予定で、動画編集者はシーンが続くあいだに被写体を変え、環境を変化させ、参照キャラクターを登場させ、カメラの向きを変えて、その結果をリアルタイムで確認できる。"
               },
               {
                 "t": "p",
-                "x": "AIに決して任せない仕事は何かと問われると、答えの大半は解像度、ビット深度、そしてコントロールに行き着いた。AIがCGに取って代わる準備ができているかについては意見が割れた。議論の余地がなかった点が一つある。AIショットで最も高くつくのはリテイクだということだ。出せる一本を得るまでに要したすべてのテイクに、選ぶための時間が加わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Adobeの動画・音声研究グループを率いるGautham Mysoreによると、Project Live Setは初期段階の研究プレビューで、Adobeは基盤モデルの詳細を明らかにしていない。「Project Live Setによって、クリエイターや映画制作者は思考の速さで動画を生成・編集できるようになる」と同氏は述べた。「現在、動画制作の多くは待ち時間だ。これが創作の流れを断ち切っている」"
               },
               {
                 "t": "p",
-                "x": "現在ポストで使われているAIは、既存の素材に対して機能する。背景除去、アップレズ、セット拡張などだ。モデレーターの多くは、施設が管理するハードウェア上でAIをローカルに動かすことが重要であり、AIが従来のポストワークフローの一部になればコンテンツクレデンシャルも重要になるという点で一致した。助言はこうだ。プレートと照合して確認できる作業から始め、メディアは自前のハードウェアに置き、レンダーではなくリテイクに予算を割くこと。"
+                "x": "デモでは黒猫の動画を四つのプロンプトで同時に変化させる。「猫にシェフの帽子をかぶせる」から「猫をタキシード姿の子犬に置き換える」までだ。Nov. 11にTerry Crewsが司会を務める今年のSneaksセッションでは10件の新技術をプレビューするが、これらは将来の製品機能を約束するものではなく研究プレビューである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HPA圆桌会议\n将AI视为“第二摄制组”",
-          "body": "在HPA十月NET圆桌会议上，后期主管们一致认为重拍才是AI镜头的真正成本。",
-          "mini_headline": "AI作为第二摄制组",
+          "headline": "Adobe预览新功能\n边播放边编辑AI特效",
+          "body": "Adobe的Project Live Set让创作者在视频播放时生成并编辑AI特效。",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "图片由Adobe提供"
               },
               {
                 "t": "p",
-                "x": "十月，HPA在洛杉矶Sheraton Universal举办NET Roundtables，主题是把AI视为“第二摄制组”——一支按明确任务并行工作的团队，而负责人依旧掌控全局：“这支团队向你汇报。”Alex Daro面向后期领域的导演和主管主持了“Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline”环节。"
+                "x": "Adobe展示了一项新功能，让创作者几乎在视频播放的同时，用AI-generated特效修改现有视频。在Adobe MAX 2026大会的Sneaks环节上，公司将预览Project Live Set：视频剪辑师可以在场景持续进行时更换主体、改变环境、加入参考角色或调整镜头方向，并实时看到结果。"
               },
               {
                 "t": "p",
-                "x": "被问到哪些工作绝不会交给AI时，大多数回答都归结为分辨率、位深和控制权。对于AI是否已准备好取代CG，与会者意见分歧。但有一点无需争论：重拍是AI镜头中最昂贵的部分——为得到一个可交付镜头所需的每一次尝试，再加上挑选所花的时间。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Adobe视频与音频研究组负责人Gautham Mysore表示，Project Live Set是早期研究预览，Adobe不会透露其底层模型的细节。他说：“Project Live Set将让创作者和电影人以思考的速度生成和编辑视频。如今，视频创作过程中很大一部分是在等待，这会打断创作的流畅。”"
               },
               {
                 "t": "p",
-                "x": "后期目前使用的AI处理的是已有素材：背景移除、超分辨率提升和场景延展。多数主持人认为，在机构自主掌控的硬件上本地运行AI很重要；一旦AI成为传统后期流程的一部分，内容凭证也很重要。建议是：从能与原始素材比对检验的工作入手，把媒体留在自己的硬件上，并为重拍而非渲染编列预算。"
+                "x": "演示同时用四条提示词改造一段黑猫视频——从“给猫戴上厨师帽”到“把猫换成穿燕尾服的小狗”。今年的Sneaks环节由Terry Crews于Nov. 11主持，预览10项创新；它们是研究预览，而非对未来产品功能的承诺。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La mesa redonda de HPA ve la AI\ncomo una segunda unidad",
-          "body": "En las NET Roundtables de HPA, los supervisores de post vieron en las repeticiones el costo real de un plano con AI.",
-          "mini_headline": "La AI como segunda unidad",
+          "headline": "Adobe adelanta efectos AI\neditados mientras se reproduce",
+          "body": "Project Live Set, de Adobe, permite generar y editar efectos de video con AI mientras las imágenes se reproducen.",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "Cortesía de Adobe"
               },
               {
                 "t": "p",
-                "x": "En octubre, la HPA celebró sus NET Roundtables en el Sheraton Universal de Los Ángeles en torno a la AI como “segunda unidad”: un equipo que trabaja en paralelo sobre un encargo definido mientras los responsables siguen al mando. “Esta te reporta a ti”. Alex Daro presentó “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” para directores y supervisores de posproducción."
+                "x": "Adobe muestra una nueva función que permite modificar un video existente con efectos generados por AI (AI-generated) prácticamente mientras se reproduce. En el panel Sneaks de la conferencia Adobe MAX 2026, la compañía presentará Project Live Set: los editores de video podrán cambiar un sujeto, transformar un entorno, introducir un personaje de referencia o redirigir la cámara mientras la escena continúa, y ver los resultados en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Al preguntarles qué tarea nunca cederían a la AI, la mayoría de las respuestas volvieron a la resolución, la profundidad de bits y el control. La sala se dividió sobre si la AI está lista para sustituir al CG. Un punto no necesitó discusión: las repeticiones son la parte más cara de un plano de AI, es decir, cada toma necesaria para obtener una entregable más el tiempo dedicado a elegir."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Project Live Set es una vista previa de investigación en fase temprana, y Adobe no comparte detalles sobre los modelos subyacentes, explicó Gautham Mysore, líder del grupo de investigación de video y audio de Adobe. “Project Live Set permitirá a creadores y cineastas generar y editar video a la velocidad del pensamiento”, afirmó. “Hoy, gran parte del proceso de creación de video consiste en esperar. Eso rompe el flujo creativo.”"
               },
               {
                 "t": "p",
-                "x": "Lo que la posproducción usa hoy trabaja sobre material que ya tiene: eliminación de fondos, aumento de resolución y extensiones de decorado. La mayoría de los moderadores coincidió en que importa ejecutar la AI en local, en hardware que controla la propia instalación, y en que las credenciales de contenido importan cuando la AI forma parte de un flujo de posproducción tradicional. El consejo: empezar por trabajos que se puedan verificar contra la placa, mantener los medios en el propio hardware y presupuestar repeticiones, no renders."
+                "x": "La demostración transforma un video de un gato negro con cuatro prompts a la vez, desde “ponle un gorro de chef al gato” hasta “cambia el gato por un cachorro con esmoquin”. Presentada por Terry Crews el 11 de noviembre, la sesión Sneaks de este año adelanta 10 innovaciones; son vistas previas de investigación y no compromisos de futuras funciones de producto."
               }
             ]
           }
@@ -747,121 +759,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "HPA 라운드테이블\nAI를 ‘세컨드 유닛’으로",
-          "body": "HPA NET 라운드테이블의 후반 감독들은 AI 숏의 진짜 비용을 리테이크로 봤다.",
-          "mini_headline": "세컨드 유닛이 된 AI",
+          "headline": "Adobe, 재생 중에\nAI 효과 편집 공개",
+          "body": "Adobe Project Live Set은 재생 중 AI 효과를 만들고 고친다.",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "Adobe 제공"
               },
               {
                 "t": "p",
-                "x": "HPA는 10월 로스앤젤레스 Sheraton Universal에서 NET Roundtables를 열고 AI를 ‘세컨드 유닛’으로 보는 주제를 다뤘다. 책임자는 계속 책임을 지되, 정해진 지시에 따라 병렬로 작업하는 팀이라는 뜻이다. “이 팀은 당신에게 보고한다.” Alex Daro는 후반작업 분야 감독과 슈퍼바이저를 대상으로 “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” 세션을 진행했다."
+                "x": "Adobe가 기존 영상에 AI-generated 효과를 입혀, 사실상 재생되는 동안 영상을 수정할 수 있는 새 기능을 선보인다. 회사는 Adobe MAX 2026 콘퍼런스의 Sneaks 세션에서 Project Live Set을 미리 공개한다. 영상 편집자는 장면이 이어지는 동안 피사체를 바꾸고, 환경을 변형하고, 레퍼런스 캐릭터를 등장시키거나 카메라 방향을 바꾸고, 그 결과를 실시간으로 확인할 수 있다."
               },
               {
                 "t": "p",
-                "x": "AI에 절대 넘기지 않을 일이 무엇이냐는 질문에 대부분의 답은 해상도, 비트 심도, 통제권으로 모였다. AI가 CG를 대체할 준비가 됐는지를 두고는 의견이 갈렸다. 논쟁이 필요 없는 점도 하나 있었다. AI 숏에서 가장 비싼 부분은 리테이크라는 것이다. 내보낼 만한 숏 하나를 얻기까지 거친 모든 테이크에, 고르는 데 쓴 시간까지 더해진다."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Adobe 비디오·오디오 연구 그룹을 이끄는 Gautham Mysore는 Project Live Set이 초기 연구 프리뷰이며 Adobe는 기반 모델에 관한 세부 사항을 공개하지 않는다고 말했다. 그는 “Project Live Set은 크리에이터와 영화 제작자가 생각의 속도로 영상을 생성하고 편집하게 해 줄 것”이라며 “지금은 영상 제작 과정의 상당 부분이 기다림이다. 이것이 창작의 흐름을 끊는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "현재 후반작업에서 쓰는 AI는 이미 확보한 영상을 다룬다. 배경 제거, 업레즈, 세트 확장이 그렇다. 진행자 대부분은 시설이 통제하는 하드웨어에서 AI를 로컬로 돌리는 것이 중요하고, AI가 전통적인 후반 워크플로의 일부가 되면 콘텐츠 자격 증명도 중요해진다는 데 동의했다. 조언은 이렇다. 플레이트와 대조해 확인할 수 있는 작업부터 시작하고, 미디어는 자체 하드웨어에 두며, 렌더가 아니라 리테이크에 예산을 잡으라는 것이다."
+                "x": "데모는 검은 고양이 영상을 네 개의 프롬프트로 동시에 변형한다. “고양이에게 셰프 모자 씌우기”부터 “고양이를 턱시도 입은 강아지로 바꾸기”까지다. Nov. 11에 Terry Crews가 진행하는 올해 Sneaks 세션은 10가지 혁신을 미리 선보이며, 이는 향후 제품 기능에 대한 약속이 아니라 연구 프리뷰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HPA円卓会議、AIを\n「セカンドユニット」に",
-          "body": "HPAのNET円卓会議で、ポスト監督陣はAIショット最大のコストがリテイクだと認めた。",
-          "mini_headline": "セカンドユニットとしてのAI",
+          "headline": "Adobe、再生しながら\nAI効果を編集",
+          "body": "AdobeのProject Live Setは、再生中の映像にAI効果を生成・編集できる。",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "提供: Adobe"
               },
               {
                 "t": "p",
-                "x": "HPAは十月、ロサンゼルスのSheraton UniversalでNET Roundtablesを開催し、AIを「セカンドユニット」と捉えるテーマを掲げた。責任者は責任者のまま、明確な指示のもとで並行して作業するクルーのことだ。「この班はあなたの指揮下にある」。Alex Daroはポストプロダクションの監督やスーパーバイザーに向けて「Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline」を主催した。"
+                "x": "Adobeは、既存の動画をAI-generatedエフェクトで、ほぼ再生中のまま加工できる新機能を披露する。Adobe MAX 2026カンファレンスのSneaksパネルでProject Live Setをプレビューする予定で、動画編集者はシーンが続くあいだに被写体を変え、環境を変化させ、参照キャラクターを登場させ、カメラの向きを変えて、その結果をリアルタイムで確認できる。"
               },
               {
                 "t": "p",
-                "x": "AIに決して任せない仕事は何かと問われると、答えの大半は解像度、ビット深度、そしてコントロールに行き着いた。AIがCGに取って代わる準備ができているかについては意見が割れた。議論の余地がなかった点が一つある。AIショットで最も高くつくのはリテイクだということだ。出せる一本を得るまでに要したすべてのテイクに、選ぶための時間が加わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Adobeの動画・音声研究グループを率いるGautham Mysoreによると、Project Live Setは初期段階の研究プレビューで、Adobeは基盤モデルの詳細を明らかにしていない。「Project Live Setによって、クリエイターや映画制作者は思考の速さで動画を生成・編集できるようになる」と同氏は述べた。「現在、動画制作の多くは待ち時間だ。これが創作の流れを断ち切っている」"
               },
               {
                 "t": "p",
-                "x": "現在ポストで使われているAIは、既存の素材に対して機能する。背景除去、アップレズ、セット拡張などだ。モデレーターの多くは、施設が管理するハードウェア上でAIをローカルに動かすことが重要であり、AIが従来のポストワークフローの一部になればコンテンツクレデンシャルも重要になるという点で一致した。助言はこうだ。プレートと照合して確認できる作業から始め、メディアは自前のハードウェアに置き、レンダーではなくリテイクに予算を割くこと。"
+                "x": "デモでは黒猫の動画を四つのプロンプトで同時に変化させる。「猫にシェフの帽子をかぶせる」から「猫をタキシード姿の子犬に置き換える」までだ。Nov. 11にTerry Crewsが司会を務める今年のSneaksセッションでは10件の新技術をプレビューするが、これらは将来の製品機能を約束するものではなく研究プレビューである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HPA圆桌会议\n将AI视为“第二摄制组”",
-          "body": "在HPA十月NET圆桌会议上，后期主管们一致认为重拍才是AI镜头的真正成本。",
-          "mini_headline": "AI作为第二摄制组",
+          "headline": "Adobe预览新功能\n边播放边编辑AI特效",
+          "body": "Adobe的Project Live Set让创作者在视频播放时生成并编辑AI特效。",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "图片由Adobe提供"
               },
               {
                 "t": "p",
-                "x": "十月，HPA在洛杉矶Sheraton Universal举办NET Roundtables，主题是把AI视为“第二摄制组”——一支按明确任务并行工作的团队，而负责人依旧掌控全局：“这支团队向你汇报。”Alex Daro面向后期领域的导演和主管主持了“Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline”环节。"
+                "x": "Adobe展示了一项新功能，让创作者几乎在视频播放的同时，用AI-generated特效修改现有视频。在Adobe MAX 2026大会的Sneaks环节上，公司将预览Project Live Set：视频剪辑师可以在场景持续进行时更换主体、改变环境、加入参考角色或调整镜头方向，并实时看到结果。"
               },
               {
                 "t": "p",
-                "x": "被问到哪些工作绝不会交给AI时，大多数回答都归结为分辨率、位深和控制权。对于AI是否已准备好取代CG，与会者意见分歧。但有一点无需争论：重拍是AI镜头中最昂贵的部分——为得到一个可交付镜头所需的每一次尝试，再加上挑选所花的时间。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Adobe视频与音频研究组负责人Gautham Mysore表示，Project Live Set是早期研究预览，Adobe不会透露其底层模型的细节。他说：“Project Live Set将让创作者和电影人以思考的速度生成和编辑视频。如今，视频创作过程中很大一部分是在等待，这会打断创作的流畅。”"
               },
               {
                 "t": "p",
-                "x": "后期目前使用的AI处理的是已有素材：背景移除、超分辨率提升和场景延展。多数主持人认为，在机构自主掌控的硬件上本地运行AI很重要；一旦AI成为传统后期流程的一部分，内容凭证也很重要。建议是：从能与原始素材比对检验的工作入手，把媒体留在自己的硬件上，并为重拍而非渲染编列预算。"
+                "x": "演示同时用四条提示词改造一段黑猫视频——从“给猫戴上厨师帽”到“把猫换成穿燕尾服的小狗”。今年的Sneaks环节由Terry Crews于Nov. 11主持，预览10项创新；它们是研究预览，而非对未来产品功能的承诺。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La mesa redonda de HPA ve la AI\ncomo una segunda unidad",
-          "body": "En las NET Roundtables de HPA, los supervisores de post vieron en las repeticiones el costo real de un plano con AI.",
-          "mini_headline": "La AI como segunda unidad",
+          "headline": "Adobe adelanta efectos AI\neditados mientras se reproduce",
+          "body": "Project Live Set, de Adobe, permite generar y editar efectos de video con AI mientras las imágenes se reproducen.",
+          "mini_headline": "Adobe Project Live Set",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+                "cap": "Cortesía de Adobe"
               },
               {
                 "t": "p",
-                "x": "En octubre, la HPA celebró sus NET Roundtables en el Sheraton Universal de Los Ángeles en torno a la AI como “segunda unidad”: un equipo que trabaja en paralelo sobre un encargo definido mientras los responsables siguen al mando. “Esta te reporta a ti”. Alex Daro presentó “Running a Second Unit: Compose, Gate and Cost an Unattended AI Pipeline” para directores y supervisores de posproducción."
+                "x": "Adobe muestra una nueva función que permite modificar un video existente con efectos generados por AI (AI-generated) prácticamente mientras se reproduce. En el panel Sneaks de la conferencia Adobe MAX 2026, la compañía presentará Project Live Set: los editores de video podrán cambiar un sujeto, transformar un entorno, introducir un personaje de referencia o redirigir la cámara mientras la escena continúa, y ver los resultados en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Al preguntarles qué tarea nunca cederían a la AI, la mayoría de las respuestas volvieron a la resolución, la profundidad de bits y el control. La sala se dividió sobre si la AI está lista para sustituir al CG. Un punto no necesitó discusión: las repeticiones son la parte más cara de un plano de AI, es decir, cada toma necesaria para obtener una entregable más el tiempo dedicado a elegir."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1831.jpg"
+                "x": "Project Live Set es una vista previa de investigación en fase temprana, y Adobe no comparte detalles sobre los modelos subyacentes, explicó Gautham Mysore, líder del grupo de investigación de video y audio de Adobe. “Project Live Set permitirá a creadores y cineastas generar y editar video a la velocidad del pensamiento”, afirmó. “Hoy, gran parte del proceso de creación de video consiste en esperar. Eso rompe el flujo creativo.”"
               },
               {
                 "t": "p",
-                "x": "Lo que la posproducción usa hoy trabaja sobre material que ya tiene: eliminación de fondos, aumento de resolución y extensiones de decorado. La mayoría de los moderadores coincidió en que importa ejecutar la AI en local, en hardware que controla la propia instalación, y en que las credenciales de contenido importan cuando la AI forma parte de un flujo de posproducción tradicional. El consejo: empezar por trabajos que se puedan verificar contra la placa, mantener los medios en el propio hardware y presupuestar repeticiones, no renders."
+                "x": "La demostración transforma un video de un gato negro con cuatro prompts a la vez, desde “ponle un gorro de chef al gato” hasta “cambia el gato por un cachorro con esmoquin”. Presentada por Terry Crews el 11 de noviembre, la sesión Sneaks de este año adelanta 10 innovaciones; son vistas previas de investigación y no compromisos de futuras funciones de producto."
               }
             ]
           }
@@ -869,15 +869,15 @@
       }
     },
     {
-      "id": "resolve-ai-assistant-editing",
-      "source_lang": "en",
+      "id": "movies-kocca-ai-showcase-64",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Resolve에서 AI가\n하이라이트 편집한다",
-      "body": "Resolve 새 기능으로 Claude·Codex 등 AI가 하이라이트를 편집한다.",
-      "mini_headline": "AI 에이전트에 열린 Resolve",
+      "headline": "AI 영화·XR 등\n64개 작품 공개",
+      "body": "콘진원 쇼케이스에서 AI 영화 등 64개 작품이 공개돼 2,354명이 찾았다.",
+      "mini_headline": "AI 작품 64개 공개",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/virtual-content-creator-roundtable/",
+      "source": "인공지능신문",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42753",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -885,295 +885,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+            "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+            "cap": "‘AI CREATOR SHOWCASE 2026’의 전시 부스전경(사진:콘진원)"
           },
           {
             "t": "p",
-            "x": "postPerspective 라운드테이블은 도구 제작사와 크리에이터들에게 소셜 크리에이터가 에피소드형 TV와 영화의 워크플로를 어떻게 빌려 쓰는지 묻는다. Blackmagic의 Bob Caniglia는 크리에이터들이 Pocket Cinema Camera, Micro Studio Camera, Pyxis 라인과 DaVinci Resolve를 쓴다며 비디오 팟캐스트와 롱폼, 세로형 마이크로필름 제작이 늘었다고 짚었다."
+            "x": "인공지능(AI)을 활용한 영화와 애니메이션, 가상현실(VR)·확장현실(XR) 콘텐츠 등 64개 창작 프로젝트가 공개됐다. 문화체육관광부와 한국콘텐츠진흥원은 12일부터 14일까지 서울 코엑스 더 플라츠홀과 메가박스 코엑스점에서 열린 ‘AI 크리에이터 쇼케이스 2026’에 3일간 총 2,354명이 방문했다고 17일 밝혔다."
           },
           {
             "t": "p",
-            "x": "AI를 두고 Caniglia는 이렇게 말한다. “다만 생성형 AI 도구를 말하는 것은 아닙니다. DaVinci Resolve에 있는 것 같은 비생성형 AI 영화 제작 도구는 반복 작업을 맡아 크리에이터가 자신의 예술에 집중하게 해 줍니다.”"
+            "x": "전시에서는 뉴콘텐츠아카데미 3기 프로젝트 9개와 AI특화 콘텐츠 전문인력 양성 사업 프로젝트 55개가 소개됐다. 전문인력 양성 사업에는 서울대 문화예술원, KAIST, 한국예술종합학교 산학협력단이 참여했다."
           },
           {
             "t": "p",
-            "x": "“좋은 예가 Claude, Claude Code, ChatGPT Codex 같은 AI 어시스턴트와의 연동을 지원하는 DaVinci Resolve의 새 기능입니다. AI 어시스턴트에게 롱폼 영상에서 하이라이트 편집본을 만들고, 원치 않는 클립을 지우고, 납품용 파일을 렌더링하라고 요청할 수 있습니다.”"
+            "x": "공동 심포지엄에서 한국예술종합학교 이승무 교수와 드라마 ‘선재 업고 튀어’의 김태엽 감독은 6개월간 진행한 기획·개발 사례를 바탕으로 실제 창작 과정에서 AI 기술을 활용한 경험을 공유했다. 13일 상영회에 앞선 시상식에서는 우수작품 14편을 시상했다."
           },
           {
             "t": "p",
-            "x": "크리에이터 Josh Liljenquist, CA in LA의 Courtney Birk와 Ashleigh Coffelt, OWC의 Jon Hoeg 등 다른 응답자들은 소규모 크루, NLE-agnostic(특정 NLE에 얽매이지 않는) 후반작업, 스토리지 워크플로를 이야기한다."
+            "x": "김윤지 한국콘텐츠진흥원장은 “생성형 AI로 콘텐츠 산업 전반의 변화가 빠르게 진행되고 있지만, 경쟁력의 핵심은 기술을 이해하고 이를 콘텐츠로 구현할 수 있는 사람에게 있다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Resolve lets AI assistants\nbuild highlight edits",
-          "body": "Blackmagic says a new Resolve feature lets AI assistants like Claude and Codex build highlight edits and remove clips.",
-          "mini_headline": "Resolve opens to AI agents",
+        "ko": {
+          "headline": "AI 영화·XR 등\n64개 작품 공개",
+          "body": "콘진원 쇼케이스에서 AI 영화 등 64개 작품이 공개돼 2,354명이 찾았다.",
+          "mini_headline": "AI 작품 64개 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "‘AI CREATOR SHOWCASE 2026’의 전시 부스전경(사진:콘진원)"
               },
               {
                 "t": "p",
-                "x": "postPerspective’s roundtable asks tool makers and creators how social creators are borrowing workflows from episodic TV and film. Blackmagic’s Bob Caniglia says creators use the Pocket Cinema Camera, Micro Studio Camera and Pyxis lines and DaVinci Resolve, and points to growth in video podcasts, long-form and vertical microfilm productions."
+                "x": "인공지능(AI)을 활용한 영화와 애니메이션, 가상현실(VR)·확장현실(XR) 콘텐츠 등 64개 창작 프로젝트가 공개됐다. 문화체육관광부와 한국콘텐츠진흥원은 12일부터 14일까지 서울 코엑스 더 플라츠홀과 메가박스 코엑스점에서 열린 ‘AI 크리에이터 쇼케이스 2026’에 3일간 총 2,354명이 방문했다고 17일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "On AI, Caniglia says: “I am not talking generative AI tools, though. Non-generative AI filmmaking tools, like we have in DaVinci Resolve, take care of repetitive tasks and let creators focus on their art.”"
+                "x": "전시에서는 뉴콘텐츠아카데미 3기 프로젝트 9개와 AI특화 콘텐츠 전문인력 양성 사업 프로젝트 55개가 소개됐다. 전문인력 양성 사업에는 서울대 문화예술원, KAIST, 한국예술종합학교 산학협력단이 참여했다."
               },
               {
                 "t": "p",
-                "x": "“A good example is a new feature in DaVinci Resolve that supports integration with AI assistants like Claude, Claude Code and ChatGPT Codex. You can ask an AI assistant to create highlight edits from long-form video, remove unwanted clips and render deliverables.”"
+                "x": "공동 심포지엄에서 한국예술종합학교 이승무 교수와 드라마 ‘선재 업고 튀어’의 김태엽 감독은 6개월간 진행한 기획·개발 사례를 바탕으로 실제 창작 과정에서 AI 기술을 활용한 경험을 공유했다. 13일 상영회에 앞선 시상식에서는 우수작품 14편을 시상했다."
               },
               {
                 "t": "p",
-                "x": "Other respondents — creator Josh Liljenquist, CA in LA’s Courtney Birk and Ashleigh Coffelt, and OWC’s Jon Hoeg — discuss small crews, NLE-agnostic post and storage workflows."
+                "x": "김윤지 한국콘텐츠진흥원장은 “생성형 AI로 콘텐츠 산업 전반의 변화가 빠르게 진행되고 있지만, 경쟁력의 핵심은 기술을 이해하고 이를 콘텐츠로 구현할 수 있는 사람에게 있다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Resolve에서 AI가\n하이라이트 편집한다",
-          "body": "Resolve 새 기능으로 Claude·Codex 등 AI가 하이라이트를 편집한다.",
-          "mini_headline": "AI 에이전트에 열린 Resolve",
+        "en": {
+          "headline": "AI films, XR and more:\n64 works unveiled",
+          "body": "A KOCCA showcase unveiled 64 works including AI films, drawing 2,354 visitors.",
+          "mini_headline": "64 AI works unveiled",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "Exhibition booths at ‘AI CREATOR SHOWCASE 2026’ (Photo: KOCCA)"
               },
               {
                 "t": "p",
-                "x": "postPerspective 라운드테이블은 도구 제작사와 크리에이터들에게 소셜 크리에이터가 에피소드형 TV와 영화의 워크플로를 어떻게 빌려 쓰는지 묻는다. Blackmagic의 Bob Caniglia는 크리에이터들이 Pocket Cinema Camera, Micro Studio Camera, Pyxis 라인과 DaVinci Resolve를 쓴다며 비디오 팟캐스트와 롱폼, 세로형 마이크로필름 제작이 늘었다고 짚었다."
+                "x": "64 creative projects using artificial intelligence (AI), including films, animation and virtual reality (VR) and extended reality (XR) content, were unveiled. The Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency said on the 17th that a total of 2,354 people visited ‘AI Creator Showcase 2026’ over 3 days, held from the 12th to the 14th at The Plats Hall in COEX and Megabox COEX in Seoul."
               },
               {
                 "t": "p",
-                "x": "AI를 두고 Caniglia는 이렇게 말한다. “다만 생성형 AI 도구를 말하는 것은 아닙니다. DaVinci Resolve에 있는 것 같은 비생성형 AI 영화 제작 도구는 반복 작업을 맡아 크리에이터가 자신의 예술에 집중하게 해 줍니다.”"
+                "x": "The exhibition presented 9 projects from the 3rd cohort of the New Content Academy and 55 projects from the AI-specialized content professional training program. Seoul National University’s Institute of Culture and Arts, KAIST and the Korea National University of Arts industry-academic cooperation foundation took part in the training program."
               },
               {
                 "t": "p",
-                "x": "“좋은 예가 Claude, Claude Code, ChatGPT Codex 같은 AI 어시스턴트와의 연동을 지원하는 DaVinci Resolve의 새 기능입니다. AI 어시스턴트에게 롱폼 영상에서 하이라이트 편집본을 만들고, 원치 않는 클립을 지우고, 납품용 파일을 렌더링하라고 요청할 수 있습니다.”"
+                "x": "At a joint symposium, Professor Lee Seung-moo of the Korea National University of Arts and director Kim Tae-yeop of the drama ‘Lovely Runner’ shared their experience of using AI technology in the actual creative process, drawing on a planning and development case carried out over 6 months. At the awards ceremony before the screening on the 13th, 14 outstanding works received prizes."
               },
               {
                 "t": "p",
-                "x": "크리에이터 Josh Liljenquist, CA in LA의 Courtney Birk와 Ashleigh Coffelt, OWC의 Jon Hoeg 등 다른 응답자들은 소규모 크루, NLE-agnostic(특정 NLE에 얽매이지 않는) 후반작업, 스토리지 워크플로를 이야기한다."
+                "x": "Kim Yun-ji, president of the Korea Creative Content Agency, said, “Generative AI is rapidly changing the entire content industry, but the core of competitiveness lies with people who understand the technology and can turn it into content.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ResolveでAIが\nハイライト編集を担う",
-          "body": "Resolveの新機能でClaudeやCodexなどのAIがハイライト編集を行う。",
-          "mini_headline": "ResolveがAIエージェントに対応",
+          "headline": "AI映画・XRなど\n64作品を公開",
+          "body": "コンテンツ振興院のショーケースでAI映画など64作品が公開され、2,354人が訪れた。",
+          "mini_headline": "AI作品64本を公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "‘AI CREATOR SHOWCASE 2026’の展示ブース全景(写真: 韓国コンテンツ振興院)"
               },
               {
                 "t": "p",
-                "x": "postPerspectiveのラウンドテーブルは、ツールメーカーとクリエイターに、ソーシャルクリエイターがエピソード型TVや映画のワークフローをどう取り入れているかを尋ねる。BlackmagicのBob Canigliaは、クリエイターがPocket Cinema Camera、Micro Studio Camera、PyxisのラインとDaVinci Resolveを使っていると述べ、ビデオポッドキャスト、長尺作品、縦型マイクロフィルム制作の伸びを挙げる。"
+                "x": "人工知能(AI)を活用した映画やアニメーション、仮想現実(VR)・拡張現実(XR)コンテンツなど64の創作プロジェクトが公開された。文化体育観光部と韓国コンテンツ振興院は17日、12日から14日までソウル・COEXのザ・プラッツホールとメガボックスCOEX店で開かれた「AIクリエイターショーケース 2026」に、3日間で計2,354人が訪れたと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "AIについてCanigliaはこう語る。「ただし、生成AIツールの話ではありません。DaVinci Resolveにあるような非生成AIの映像制作ツールは、反復作業を引き受け、クリエイターが自らの表現に集中できるようにします」"
+                "x": "展示では、ニューコンテンツアカデミー3期のプロジェクト9件と、AI特化コンテンツ専門人材育成事業のプロジェクト55件が紹介された。専門人材育成事業にはソウル大学文化芸術院、KAIST、韓国芸術総合学校産学協力団が参加した。"
               },
               {
                 "t": "p",
-                "x": "「好例が、Claude、Claude Code、ChatGPT CodexといったAIアシスタントとの連携に対応したDaVinci Resolveの新機能です。AIアシスタントに、長尺動画からハイライト編集を作り、不要なクリップを削除し、納品物をレンダリングするよう依頼できます」"
+                "x": "合同シンポジウムでは、韓国芸術総合学校のイ・スンム教授とドラマ『ソンジェ背負って走れ』のキム・テヨプ監督が、6カ月間進めた企画・開発事例をもとに、実際の創作過程でAI技術を活用した経験を共有した。13日の上映会に先立つ授賞式では、優秀作品14本が表彰された。"
               },
               {
                 "t": "p",
-                "x": "ほかの回答者——クリエイターのJosh Liljenquist、CA in LAのCourtney BirkとAshleigh Coffelt、OWCのJon Hoeg——は、少人数のクルー、NLE-agnostic(NLEに依存しない)なポスト、ストレージのワークフローについて論じている。"
+                "x": "キム・ユンジ韓国コンテンツ振興院長は「生成AIによってコンテンツ産業全般の変化が急速に進んでいるが、競争力の核心は技術を理解し、それをコンテンツとして実現できる人にある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Resolve让AI助手\n生成精彩片段剪辑",
-          "body": "Blackmagic称Resolve新功能可让Claude等AI助手剪辑集锦、删除片段。",
-          "mini_headline": "Resolve向AI智能体开放",
+          "headline": "AI电影、XR等\n64部作品亮相",
+          "body": "韩国文化内容振兴院展示会公开AI电影等64部作品，共2,354人到场。",
+          "mini_headline": "64部AI作品亮相",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "‘AI CREATOR SHOWCASE 2026’展位全景（图：韩国文化内容振兴院）"
               },
               {
                 "t": "p",
-                "x": "postPerspective的圆桌访谈向工具厂商和创作者提问：社交平台创作者如何借鉴剧集类TV和电影的工作流程。Blackmagic的Bob Caniglia表示，创作者在使用Pocket Cinema Camera、Micro Studio Camera和Pyxis系列以及DaVinci Resolve，并指出视频播客、长视频和竖屏微电影制作正在增长。"
+                "x": "运用人工智能(AI)的电影、动画以及虚拟现实(VR)·扩展现实(XR)内容等64个创作项目公开亮相。韩国文化体育观光部与韩国文化内容振兴院17日表示，12日至14日在首尔COEX The Plats厅和Megabox COEX店举行的“AI创作者展示会 2026”，3天内共吸引2,354人参观。"
               },
               {
                 "t": "p",
-                "x": "谈到AI，Caniglia说：“不过我说的不是生成式AI工具。像DaVinci Resolve中那样的非生成式AI影视制作工具，可以处理重复性工作，让创作者专注于艺术本身。”"
+                "x": "展览介绍了新内容学院第3期的9个项目，以及AI特化内容专业人才培养项目的55个项目。参与专业人才培养项目的有首尔大学文化艺术院、KAIST和韩国艺术综合学校产学合作团。"
               },
               {
                 "t": "p",
-                "x": "“一个很好的例子是DaVinci Resolve的一项新功能，它支持与Claude、Claude Code和ChatGPT Codex等AI助手集成。你可以让AI助手从长视频中生成精彩片段剪辑、删除不需要的片段并渲染交付文件。”"
+                "x": "在联合研讨会上，韩国艺术综合学校教授李承武与电视剧《背着善宰跑》导演金泰烨基于历时6个月的策划与开发案例，分享了在实际创作过程中运用AI技术的经验。在13日放映会之前举行的颁奖典礼上，14部优秀作品获奖。"
               },
               {
                 "t": "p",
-                "x": "其他受访者——创作者Josh Liljenquist、CA in LA的Courtney Birk和Ashleigh Coffelt，以及OWC的Jon Hoeg——讨论了小型团队、NLE-agnostic（不依赖特定NLE）的后期制作和存储工作流程。"
+                "x": "韩国文化内容振兴院院长金允智表示：“生成式AI正在迅速改变整个内容产业，但竞争力的核心在于理解技术并能将其转化为内容的人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "En Resolve, asistentes de AI\nmontan resúmenes destacados",
-          "body": "Según Blackmagic, una nueva función de Resolve deja que Claude, Codex y otros asistentes de AI monten resúmenes.",
-          "mini_headline": "Resolve se abre a los agentes de AI",
+          "headline": "Cine con AI, XR y más:\nse presentan 64 obras",
+          "body": "Una muestra de KOCCA presentó 64 obras, entre ellas películas de AI, y recibió a 2,354 visitantes.",
+          "mini_headline": "64 obras de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "Vista de los stands de ‘AI CREATOR SHOWCASE 2026’ (Foto: KOCCA)"
               },
               {
                 "t": "p",
-                "x": "La mesa redonda de postPerspective pregunta a fabricantes de herramientas y creadores cómo los creadores de redes sociales adoptan flujos de trabajo de la TV episódica y el cine. Bob Caniglia, de Blackmagic, dice que los creadores usan las líneas Pocket Cinema Camera, Micro Studio Camera y Pyxis y DaVinci Resolve, y señala el crecimiento de los videopódcasts, las producciones de formato largo y los microfilmes verticales."
+                "x": "Se presentaron 64 proyectos creativos que usan inteligencia artificial (AI), entre ellos películas, animación y contenidos de realidad virtual (VR) y realidad extendida (XR). El Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos (KOCCA) informaron el día 17 que ‘AI Creator Showcase 2026’, celebrado del 12 al 14 en The Plats Hall de COEX y en Megabox COEX, en Seúl, recibió un total de 2,354 visitantes en 3 días."
               },
               {
                 "t": "p",
-                "x": "Sobre la AI, Caniglia afirma: “Aunque no hablo de herramientas de AI generativa. Las herramientas de AI no generativa para cine, como las que tenemos en DaVinci Resolve, se encargan de las tareas repetitivas y permiten a los creadores centrarse en su arte”."
+                "x": "La exposición presentó 9 proyectos de la 3.ª promoción de la New Content Academy y 55 proyectos del programa de formación de profesionales de contenidos especializados en AI. En el programa participaron el Instituto de Cultura y Artes de la Universidad Nacional de Seúl, KAIST y la fundación de cooperación universidad-industria de la Universidad Nacional de Artes de Corea."
               },
               {
                 "t": "p",
-                "x": "“Un buen ejemplo es una nueva función de DaVinci Resolve que admite la integración con asistentes de AI como Claude, Claude Code y ChatGPT Codex. Se le puede pedir a un asistente de AI que cree ediciones de momentos destacados a partir de un video largo, elimine clips no deseados y renderice los entregables”."
+                "x": "En un simposio conjunto, el profesor Lee Seung-moo, de la Universidad Nacional de Artes de Corea, y el director Kim Tae-yeop, de la serie ‘Lovely Runner’, compartieron su experiencia con la tecnología AI en procesos creativos reales, a partir de un caso de planificación y desarrollo de 6 meses. En la ceremonia de premios previa a la proyección del día 13 se galardonó a 14 obras destacadas."
               },
               {
                 "t": "p",
-                "x": "Otros participantes —el creador Josh Liljenquist, Courtney Birk y Ashleigh Coffelt de CA in LA, y Jon Hoeg de OWC— hablan de equipos pequeños, posproducción NLE-agnostic y flujos de trabajo de almacenamiento."
+                "x": "Kim Yun-ji, presidente de la Agencia Coreana de Contenidos Creativos, afirmó: “La AI generativa está transformando con rapidez toda la industria de contenidos, pero la clave de la competitividad está en las personas que entienden la tecnología y saben convertirla en contenido”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Resolve에서 AI가\n하이라이트 편집한다",
-          "body": "Resolve 신기능으로 Claude·Codex 등 AI가 하이라이트를 편집한다.",
-          "mini_headline": "AI 에이전트에 열린 Resolve",
+        "en": {
+          "headline": "AI films, XR and more:\n64 works unveiled",
+          "body": "A KOCCA showcase unveiled 64 works including AI films, drawing 2,354 visitors.",
+          "mini_headline": "64 AI works unveiled",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "Exhibition booths at ‘AI CREATOR SHOWCASE 2026’ (Photo: KOCCA)"
               },
               {
                 "t": "p",
-                "x": "postPerspective의 라운드테이블은 도구 제작사와 크리에이터들에게 소셜 크리에이터들이 에피소드형 TV와 영화의 워크플로를 어떻게 빌려 쓰고 있는지 묻는다. Blackmagic의 Bob Caniglia는 크리에이터들이 Pocket Cinema Camera, Micro Studio Camera, Pyxis 라인과 DaVinci Resolve를 쓴다며, 비디오 팟캐스트와 롱폼, 세로형 마이크로필름 제작이 늘고 있다고 짚었다."
+                "x": "64 creative projects using artificial intelligence (AI), including films, animation and virtual reality (VR) and extended reality (XR) content, were unveiled. The Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency said on the 17th that a total of 2,354 people visited ‘AI Creator Showcase 2026’ over 3 days, held from the 12th to the 14th at The Plats Hall in COEX and Megabox COEX in Seoul."
               },
               {
                 "t": "p",
-                "x": "AI에 대해 Caniglia는 이렇게 말한다. “다만 생성형 AI 도구를 말하는 것은 아닙니다. DaVinci Resolve에 있는 것 같은 비생성형 AI 영화 제작 도구는 반복 작업을 맡아 크리에이터가 자신의 예술에 집중하게 해 줍니다.”"
+                "x": "The exhibition presented 9 projects from the 3rd cohort of the New Content Academy and 55 projects from the AI-specialized content professional training program. Seoul National University’s Institute of Culture and Arts, KAIST and the Korea National University of Arts industry-academic cooperation foundation took part in the training program."
               },
               {
                 "t": "p",
-                "x": "“좋은 예가 Claude, Claude Code, ChatGPT Codex 같은 AI 어시스턴트와의 연동을 지원하는 DaVinci Resolve의 새 기능입니다. AI 어시스턴트에게 롱폼 영상에서 하이라이트 편집본을 만들고, 원치 않는 클립을 지우고, 납품용 파일을 렌더링하라고 요청할 수 있습니다.”"
+                "x": "At a joint symposium, Professor Lee Seung-moo of the Korea National University of Arts and director Kim Tae-yeop of the drama ‘Lovely Runner’ shared their experience of using AI technology in the actual creative process, drawing on a planning and development case carried out over 6 months. At the awards ceremony before the screening on the 13th, 14 outstanding works received prizes."
               },
               {
                 "t": "p",
-                "x": "다른 응답자들, 즉 크리에이터 Josh Liljenquist, CA in LA의 Courtney Birk와 Ashleigh Coffelt, OWC의 Jon Hoeg는 소규모 크루, NLE-agnostic(특정 NLE에 얽매이지 않는) 후반작업, 스토리지 워크플로를 논한다."
+                "x": "Kim Yun-ji, president of the Korea Creative Content Agency, said, “Generative AI is rapidly changing the entire content industry, but the core of competitiveness lies with people who understand the technology and can turn it into content.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ResolveでAIが\nハイライト編集を担う",
-          "body": "Resolveの新機能でClaudeやCodexなどのAIがハイライト編集を行う。",
-          "mini_headline": "ResolveがAIエージェントに対応",
+          "headline": "AI映画・XRなど\n64作品を公開",
+          "body": "コンテンツ振興院のショーケースでAI映画など64作品が公開され、2,354人が訪れた。",
+          "mini_headline": "AI作品64本を公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "‘AI CREATOR SHOWCASE 2026’の展示ブース全景(写真: 韓国コンテンツ振興院)"
               },
               {
                 "t": "p",
-                "x": "postPerspectiveのラウンドテーブルは、ツールメーカーとクリエイターに、ソーシャルクリエイターがエピソード型TVや映画のワークフローをどう取り入れているかを尋ねる。BlackmagicのBob Canigliaは、クリエイターがPocket Cinema Camera、Micro Studio Camera、PyxisのラインとDaVinci Resolveを使っていると述べ、ビデオポッドキャスト、長尺作品、縦型マイクロフィルム制作の伸びを挙げる。"
+                "x": "人工知能(AI)を活用した映画やアニメーション、仮想現実(VR)・拡張現実(XR)コンテンツなど64の創作プロジェクトが公開された。文化体育観光部と韓国コンテンツ振興院は17日、12日から14日までソウル・COEXのザ・プラッツホールとメガボックスCOEX店で開かれた「AIクリエイターショーケース 2026」に、3日間で計2,354人が訪れたと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "AIについてCanigliaはこう語る。「ただし、生成AIツールの話ではありません。DaVinci Resolveにあるような非生成AIの映像制作ツールは、反復作業を引き受け、クリエイターが自らの表現に集中できるようにします」"
+                "x": "展示では、ニューコンテンツアカデミー3期のプロジェクト9件と、AI特化コンテンツ専門人材育成事業のプロジェクト55件が紹介された。専門人材育成事業にはソウル大学文化芸術院、KAIST、韓国芸術総合学校産学協力団が参加した。"
               },
               {
                 "t": "p",
-                "x": "「好例が、Claude、Claude Code、ChatGPT CodexといったAIアシスタントとの連携に対応したDaVinci Resolveの新機能です。AIアシスタントに、長尺動画からハイライト編集を作り、不要なクリップを削除し、納品物をレンダリングするよう依頼できます」"
+                "x": "合同シンポジウムでは、韓国芸術総合学校のイ・スンム教授とドラマ『ソンジェ背負って走れ』のキム・テヨプ監督が、6カ月間進めた企画・開発事例をもとに、実際の創作過程でAI技術を活用した経験を共有した。13日の上映会に先立つ授賞式では、優秀作品14本が表彰された。"
               },
               {
                 "t": "p",
-                "x": "ほかの回答者——クリエイターのJosh Liljenquist、CA in LAのCourtney BirkとAshleigh Coffelt、OWCのJon Hoeg——は、少人数のクルー、NLE-agnostic(NLEに依存しない)なポスト、ストレージのワークフローについて論じている。"
+                "x": "キム・ユンジ韓国コンテンツ振興院長は「生成AIによってコンテンツ産業全般の変化が急速に進んでいるが、競争力の核心は技術を理解し、それをコンテンツとして実現できる人にある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Resolve让AI助手\n生成精彩片段剪辑",
-          "body": "Blackmagic称Resolve新功能可让Claude等AI助手剪辑集锦、删除片段。",
-          "mini_headline": "Resolve向AI智能体开放",
+          "headline": "AI电影、XR等\n64部作品亮相",
+          "body": "韩国文化内容振兴院展示会公开AI电影等64部作品，共2,354人到场。",
+          "mini_headline": "64部AI作品亮相",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "‘AI CREATOR SHOWCASE 2026’展位全景（图：韩国文化内容振兴院）"
               },
               {
                 "t": "p",
-                "x": "postPerspective的圆桌访谈向工具厂商和创作者提问：社交平台创作者如何借鉴剧集类TV和电影的工作流程。Blackmagic的Bob Caniglia表示，创作者在使用Pocket Cinema Camera、Micro Studio Camera和Pyxis系列以及DaVinci Resolve，并指出视频播客、长视频和竖屏微电影制作正在增长。"
+                "x": "运用人工智能(AI)的电影、动画以及虚拟现实(VR)·扩展现实(XR)内容等64个创作项目公开亮相。韩国文化体育观光部与韩国文化内容振兴院17日表示，12日至14日在首尔COEX The Plats厅和Megabox COEX店举行的“AI创作者展示会 2026”，3天内共吸引2,354人参观。"
               },
               {
                 "t": "p",
-                "x": "谈到AI，Caniglia说：“不过我说的不是生成式AI工具。像DaVinci Resolve中那样的非生成式AI影视制作工具，可以处理重复性工作，让创作者专注于艺术本身。”"
+                "x": "展览介绍了新内容学院第3期的9个项目，以及AI特化内容专业人才培养项目的55个项目。参与专业人才培养项目的有首尔大学文化艺术院、KAIST和韩国艺术综合学校产学合作团。"
               },
               {
                 "t": "p",
-                "x": "“一个很好的例子是DaVinci Resolve的一项新功能，它支持与Claude、Claude Code和ChatGPT Codex等AI助手集成。你可以让AI助手从长视频中生成精彩片段剪辑、删除不需要的片段并渲染交付文件。”"
+                "x": "在联合研讨会上，韩国艺术综合学校教授李承武与电视剧《背着善宰跑》导演金泰烨基于历时6个月的策划与开发案例，分享了在实际创作过程中运用AI技术的经验。在13日放映会之前举行的颁奖典礼上，14部优秀作品获奖。"
               },
               {
                 "t": "p",
-                "x": "其他受访者——创作者Josh Liljenquist、CA in LA的Courtney Birk和Ashleigh Coffelt，以及OWC的Jon Hoeg——讨论了小型团队、NLE-agnostic（不依赖特定NLE）的后期制作和存储工作流程。"
+                "x": "韩国文化内容振兴院院长金允智表示：“生成式AI正在迅速改变整个内容产业，但竞争力的核心在于理解技术并能将其转化为内容的人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "En Resolve, asistentes de AI\nmontan resúmenes destacados",
-          "body": "Según Blackmagic, una nueva función de Resolve deja que Claude, Codex y otros asistentes de AI monten resúmenes.",
-          "mini_headline": "Resolve se abre a los agentes de AI",
+          "headline": "Cine con AI, XR y más:\nse presentan 64 obras",
+          "body": "Una muestra de KOCCA presentó 64 obras, entre ellas películas de AI, y recibió a 2,354 visitantes.",
+          "mini_headline": "64 obras de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/11/DaVinci-Resolve-21-EDIT-copy.jpg"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+                "cap": "Vista de los stands de ‘AI CREATOR SHOWCASE 2026’ (Foto: KOCCA)"
               },
               {
                 "t": "p",
-                "x": "La mesa redonda de postPerspective pregunta a fabricantes de herramientas y creadores cómo los creadores de redes sociales adoptan flujos de trabajo de la TV episódica y el cine. Bob Caniglia, de Blackmagic, dice que los creadores usan las líneas Pocket Cinema Camera, Micro Studio Camera y Pyxis y DaVinci Resolve, y señala el crecimiento de los videopódcasts, las producciones de formato largo y los microfilmes verticales."
+                "x": "Se presentaron 64 proyectos creativos que usan inteligencia artificial (AI), entre ellos películas, animación y contenidos de realidad virtual (VR) y realidad extendida (XR). El Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos (KOCCA) informaron el día 17 que ‘AI Creator Showcase 2026’, celebrado del 12 al 14 en The Plats Hall de COEX y en Megabox COEX, en Seúl, recibió un total de 2,354 visitantes en 3 días."
               },
               {
                 "t": "p",
-                "x": "Sobre la AI, Caniglia afirma: “Aunque no hablo de herramientas de AI generativa. Las herramientas de AI no generativa para cine, como las que tenemos en DaVinci Resolve, se encargan de las tareas repetitivas y permiten a los creadores centrarse en su arte”."
+                "x": "La exposición presentó 9 proyectos de la 3.ª promoción de la New Content Academy y 55 proyectos del programa de formación de profesionales de contenidos especializados en AI. En el programa participaron el Instituto de Cultura y Artes de la Universidad Nacional de Seúl, KAIST y la fundación de cooperación universidad-industria de la Universidad Nacional de Artes de Corea."
               },
               {
                 "t": "p",
-                "x": "“Un buen ejemplo es una nueva función de DaVinci Resolve que admite la integración con asistentes de AI como Claude, Claude Code y ChatGPT Codex. Se le puede pedir a un asistente de AI que cree ediciones de momentos destacados a partir de un video largo, elimine clips no deseados y renderice los entregables”."
+                "x": "En un simposio conjunto, el profesor Lee Seung-moo, de la Universidad Nacional de Artes de Corea, y el director Kim Tae-yeop, de la serie ‘Lovely Runner’, compartieron su experiencia con la tecnología AI en procesos creativos reales, a partir de un caso de planificación y desarrollo de 6 meses. En la ceremonia de premios previa a la proyección del día 13 se galardonó a 14 obras destacadas."
               },
               {
                 "t": "p",
-                "x": "Otros participantes —el creador Josh Liljenquist, Courtney Birk y Ashleigh Coffelt de CA in LA, y Jon Hoeg de OWC— hablan de equipos pequeños, posproducción NLE-agnostic y flujos de trabajo de almacenamiento."
+                "x": "Kim Yun-ji, presidente de la Agencia Coreana de Contenidos Creativos, afirmó: “La AI generativa está transformando con rapidez toda la industria de contenidos, pero la clave de la competitividad está en las personas que entienden la tecnología y saben convertirla en contenido”."
               }
             ]
           }
@@ -1181,401 +1191,191 @@
       }
     },
     {
-      "id": "kyungmin-jonah-ai-animation",
-      "source_lang": "ko",
+      "id": "movies-transn-ai-microdrama-dub",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "경민대, 극장용 AI\n애니메이션 '요나' 제작",
-      "body": "경민대 학생들이 산학협력으로 극장용 AI 애니메이션 '요나' 제작에 참여한다.",
-      "mini_headline": "경민대 AI 애니메이션",
+      "headline": "AI 더빙 20,000편\n더빙 단가는 하락",
+      "body": "Transn은 AI와 사람 검수로 20,000편 넘게 더빙했지만 단가는 떨어진다.",
+      "mini_headline": "Transn AI 더빙 압박",
       "tool": "Movies",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261116073300060",
+      "source": "Slator",
+      "url": "https://slator.com/transn-ai-dubbing-costs-fall/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 인공지능(AI) 융합 콘텐츠 공동제작과 협력체계 구축을 위한 업무협약(MOU)을 체결했다."
-          },
-          {
-            "t": "p",
-            "x": "협약에 따라 경민대 실용음악과와 미디어영상과 학생들은 국내 최초로 시도되는 극장용 AI 애니메이션 영화 '요나' 제작 과정에 참여한다."
-          },
-          {
-            "t": "p",
-            "x": "학생들은 이야기·콘티 구성부터 캐릭터·미술 작업, AI 장면 제작, 편집·품질 검토, 음성·음악 작업 등에 이르기까지 미국 매사추세츠 공과대학(MIT)과 공동 연구한 최신 AI 기반 콘텐츠 기술을 경험하게 된다."
-          },
-          {
             "t": "img",
-            "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-            "cap": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 극장용 인공지능(AI) 애니메이션 콘텐츠 제작을 위한 산학협력 업무협약(MOU)을 체결했다. [경민대 제공]"
+            "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
           },
           {
             "t": "p",
-            "x": "이 영화는 성경 요나서를 바탕으로 어린이와 가족 관객이 함께 즐기도록 기획된 성경 문화 프로젝트 '마중'의 첫 번째 작품이다. 목회자와 신학 전문가 자문을 거쳐 내년 하반기 극장 개봉이 목표다."
-          },
-          {
-            "t": "p",
-            "x": "마중 프로젝트를 총괄하는 홍문종 추진협의회 의장은 \"이번 협약은 대학의 교육 역량을 산업 현장으로 확장하는 출발점이자 학생들이 배운 기술과 재능을 극장 개봉작이라는 구체적인 결과물로 구현하는 소중한 기회가 될 것\"이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "이 프로젝트는 20일 경민대 승태관 3층 아카페홀에서 출범식을 열며 요셉, 모세 등 성경 인물을 소재로 한 후속 시리즈도 기획 중이다."
+            "x": "중국 LSI Transn은 AI에 사람 검수를 붙여 마이크로드라마 20,000편 이상을 더빙했고, 제작 기간을 며칠로 줄였다. 더빙 매출은 늘지만 가격 하락 압박도 함께 받는다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "경민대, 극장용 AI\n애니메이션 '요나' 제작",
-          "body": "경민대 학생들이 산학협력으로 극장용 AI 애니메이션 '요나' 제작에 참여한다.",
-          "mini_headline": "경민대 AI 애니메이션",
+        "en": {
+          "headline": "AI dubs 20,000 microdramas\nas dubbing prices fall",
+          "body": "Transn has dubbed over 20,000 microdramas with AI plus human review, but falling dubbing prices squeeze it.",
+          "mini_headline": "Transn AI dubbing squeeze",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 인공지능(AI) 융합 콘텐츠 공동제작과 협력체계 구축을 위한 업무협약(MOU)을 체결했다."
-              },
-              {
-                "t": "p",
-                "x": "협약에 따라 경민대 실용음악과와 미디어영상과 학생들은 국내 최초로 시도되는 극장용 AI 애니메이션 영화 '요나' 제작 과정에 참여한다."
-              },
-              {
-                "t": "p",
-                "x": "학생들은 이야기·콘티 구성부터 캐릭터·미술 작업, AI 장면 제작, 편집·품질 검토, 음성·음악 작업 등에 이르기까지 미국 매사추세츠 공과대학(MIT)과 공동 연구한 최신 AI 기반 콘텐츠 기술을 경험하게 된다."
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "경민대는 16일 ㈜강단스튜디오, ㈜스튜디오시네틱스 등 2곳과 극장용 인공지능(AI) 애니메이션 콘텐츠 제작을 위한 산학협력 업무협약(MOU)을 체결했다. [경민대 제공]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "이 영화는 성경 요나서를 바탕으로 어린이와 가족 관객이 함께 즐기도록 기획된 성경 문화 프로젝트 '마중'의 첫 번째 작품이다. 목회자와 신학 전문가 자문을 거쳐 내년 하반기 극장 개봉이 목표다."
-              },
-              {
-                "t": "p",
-                "x": "마중 프로젝트를 총괄하는 홍문종 추진협의회 의장은 \"이번 협약은 대학의 교육 역량을 산업 현장으로 확장하는 출발점이자 학생들이 배운 기술과 재능을 극장 개봉작이라는 구체적인 결과물로 구현하는 소중한 기회가 될 것\"이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이 프로젝트는 20일 경민대 승태관 3층 아카페홀에서 출범식을 열며 요셉, 모세 등 성경 인물을 소재로 한 후속 시리즈도 기획 중이다."
+                "x": "Chinese LSI Transn has dubbed more than 20,000 microdramas using AI with human review, cutting production time to days. As dubbing revenue grows, the company faces pressure from falling prices."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Kyungmin University joins\ntheatrical AI film 'Jonah'",
-          "body": "Kyungmin University students will help make the theatrical AI animation 'Jonah' under an industry-academia deal.",
-          "mini_headline": "Kyungmin's AI animation",
+        "ko": {
+          "headline": "AI 더빙 20,000편\n더빙 단가는 하락",
+          "body": "Transn은 AI와 사람 검수로 20,000편 넘게 더빙했지만 단가는 떨어진다.",
+          "mini_headline": "Transn AI 더빙 압박",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Kyungmin University signed a memorandum of understanding (MOU) on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to co-produce artificial intelligence (AI) convergence content and build a cooperation system."
-              },
-              {
-                "t": "p",
-                "x": "Under the agreement, students from Kyungmin University's Department of Applied Music and Department of Media and Video will take part in producing the theatrical AI animated film 'Jonah', the first such attempt in the country."
-              },
-              {
-                "t": "p",
-                "x": "From story and storyboard development to character and art work, AI scene production, editing and quality review, and voice and music work, students will experience the latest AI-based content technology developed in joint research with the Massachusetts Institute of Technology (MIT) in the United States."
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "Kyungmin University signed an industry-academia cooperation MOU on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to produce theatrical artificial intelligence (AI) animation content. [Courtesy of Kyungmin University]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "The film is the first work of 'Majung', a Bible culture project based on the Book of Jonah and designed for children and families to enjoy together. With advice from pastors and theology experts, it aims for a theatrical release in the second half of next year."
-              },
-              {
-                "t": "p",
-                "x": "Hong Moon-jong, chairman of the promotion council overseeing the Majung project, said, “This agreement is a starting point for extending the university's educational capacity into the industry, and it will be a valuable opportunity for students to turn the skills and talents they have learned into a concrete result: a theatrical release.”"
-              },
-              {
-                "t": "p",
-                "x": "The project will hold a launch ceremony on the 20th at Akape Hall on the 3rd floor of Seungtae Hall at Kyungmin University, and follow-up series based on biblical figures such as Joseph and Moses are also being planned."
+                "x": "중국 LSI Transn은 AI에 사람 검수를 붙여 마이크로드라마 20,000편 이상을 더빙했고, 제작 기간을 며칠로 줄였다. 더빙 매출은 늘지만 가격 하락 압박도 함께 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "慶旻大、劇場用AIアニメ\n『ヨナ』を制作",
-          "body": "慶旻大の学生が産学連携で劇場用AIアニメ『ヨナ』の制作に参加する。",
-          "mini_headline": "慶旻大のAIアニメ",
+          "headline": "AIでドラマ20,000本\n吹替単価は下落",
+          "body": "TransnはAIと人の確認で20,000本超を吹き替えたが、価格下落に苦しむ。",
+          "mini_headline": "Transn、AI吹替に価格圧力",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、人工知能(AI)融合コンテンツの共同制作と協力体制構築に向けた業務協約(MOU)を締結した。"
-              },
-              {
-                "t": "p",
-                "x": "協約により、慶旻大学実用音楽科とメディア映像科の学生は、国内で初めて試みられる劇場用AIアニメーション映画『ヨナ』の制作過程に参加する。"
-              },
-              {
-                "t": "p",
-                "x": "学生らはストーリー・絵コンテ構成からキャラクター・美術作業、AIシーン制作、編集・品質チェック、音声・音楽作業に至るまで、米マサチューセッツ工科大学(MIT)と共同研究した最新のAIベースのコンテンツ技術を経験することになる。"
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、劇場用人工知能(AI)アニメーションコンテンツ制作に向けた産学協力業務協約(MOU)を締結した。[慶旻大学提供]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "この映画は、聖書のヨナ書をもとに子どもと家族の観客が一緒に楽しめるよう企画された聖書文化プロジェクト「マジュン」の第一作だ。牧師や神学の専門家の助言を経て、来年下半期の劇場公開を目指す。"
-              },
-              {
-                "t": "p",
-                "x": "マジュンプロジェクトを統括する洪文鐘推進協議会議長は「今回の協約は、大学の教育力を産業現場へと広げる出発点であり、学生が学んだ技術と才能を劇場公開作という具体的な成果として形にする貴重な機会になるだろう」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同プロジェクトは20日に慶旻大学スンテ館3階のアカペホールで発足式を開き、ヨセフやモーセなど聖書の人物を題材とした続編シリーズも企画している。"
+                "x": "中国のLSIであるTransnは、人による確認を組み合わせたAIで20,000本を超えるマイクロドラマを吹き替え、制作期間を数日に短縮した。吹き替え収入が伸びる一方、同社は価格下落の圧力に直面している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "庆旻大学参与制作\n院线AI动画《约拿》",
-          "body": "庆旻大学学生将通过产学合作参与院线AI动画电影《约拿》的制作。",
-          "mini_headline": "庆旻大学AI动画",
+          "headline": "AI配音20,000部短剧\n配音价格却在下滑",
+          "body": "Transn用AI加人工审校配音逾20,000部微短剧，却受配音降价挤压。",
+          "mini_headline": "Transn AI配音承压",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署业务协议(MOU)，旨在共同制作人工智能(AI)融合内容并建立合作体系。"
-              },
-              {
-                "t": "p",
-                "x": "根据协议，庆旻大学实用音乐系和媒体影像系的学生将参与国内首次尝试的院线AI动画电影《约拿》的制作过程。"
-              },
-              {
-                "t": "p",
-                "x": "从故事与分镜构思到角色与美术工作、AI场景制作、剪辑与质量审核、配音与音乐工作，学生们将体验与美国麻省理工学院(MIT)共同研发的最新AI内容技术。"
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署了院线人工智能(AI)动画内容制作产学合作业务协议(MOU)。[庆旻大学提供]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "这部电影是以《圣经·约拿书》为蓝本、面向儿童和家庭观众共同观赏而策划的圣经文化项目“Majung”的第一部作品。在征询牧师和神学专家意见后，计划于明年下半年在院线上映。"
-              },
-              {
-                "t": "p",
-                "x": "统筹Majung项目的推进协议会议长洪文钟表示：“此次协议是将大学教育能力延伸至产业现场的起点，也将成为学生把所学技术和才华转化为院线上映作品这一具体成果的宝贵机会。”"
-              },
-              {
-                "t": "p",
-                "x": "该项目将于20日在庆旻大学承泰馆3层Akape厅举行启动仪式，并正在策划以约瑟、摩西等圣经人物为题材的后续系列。"
+                "x": "中国LSI企业Transn借助AI结合人工审校，已为逾20,000部微短剧配音，将制作周期缩短至数天。随着配音收入增长，该公司正面临价格下跌的压力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Universidad Kyungmin hará\nel filme animado con AI 'Jonah'",
-          "body": "Estudiantes de la Universidad Kyungmin participarán en la producción de la animación con AI 'Jonah' para cines.",
-          "mini_headline": "La animación con AI de Kyungmin",
+          "headline": "La AI dobla 20,000 microdramas\nmientras caen los precios",
+          "body": "Transn ha doblado más de 20,000 microdramas con AI y revisión humana, pero la caída de precios del doblaje la presiona.",
+          "mini_headline": "Transn: presión en el doblaje con AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Universidad Kyungmin firmó el día 16 un memorando de entendimiento (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para coproducir contenidos de convergencia con inteligencia artificial (AI) y crear un sistema de cooperación."
-              },
-              {
-                "t": "p",
-                "x": "En virtud del acuerdo, estudiantes de los departamentos de Música Aplicada y de Medios y Video de la Universidad Kyungmin participarán en la producción de 'Jonah', la primera película de animación con AI para cines que se intenta en el país."
-              },
-              {
-                "t": "p",
-                "x": "Desde la construcción de la historia y el guion gráfico hasta el trabajo de personajes y arte, la producción de escenas con AI, la edición y revisión de calidad y el trabajo de voz y música, los estudiantes conocerán la última tecnología de contenidos basada en AI, desarrollada en investigación conjunta con el Instituto Tecnológico de Massachusetts (MIT) de Estados Unidos."
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "La Universidad Kyungmin firmó el día 16 un memorando de cooperación universidad-industria (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para producir contenidos de animación con inteligencia artificial (AI) para cines. [Cortesía de la Universidad Kyungmin]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "La película es la primera obra de 'Majung', un proyecto cultural bíblico basado en el Libro de Jonás y pensado para que niños y familias lo disfruten juntos. Tras el asesoramiento de pastores y expertos en teología, aspira a estrenarse en cines en el segundo semestre del próximo año."
-              },
-              {
-                "t": "p",
-                "x": "Hong Moon-jong, presidente del consejo impulsor que dirige el proyecto Majung, afirmó: “Este acuerdo es un punto de partida para extender la capacidad educativa de la universidad al ámbito industrial y será una valiosa oportunidad para que los estudiantes plasmen las técnicas y el talento aprendidos en un resultado concreto: una obra estrenada en cines”."
-              },
-              {
-                "t": "p",
-                "x": "El proyecto celebrará su acto de lanzamiento el día 20 en la sala Akape, en la 3.ª planta del edificio Seungtae de la Universidad Kyungmin, y también prepara series posteriores sobre figuras bíblicas como José y Moisés."
+                "x": "La LSI china Transn ha doblado más de 20,000 microdramas con AI y revisión humana, lo que reduce el tiempo de producción a días. Aunque sus ingresos por doblaje crecen, la empresa enfrenta la presión de la caída de precios."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Kyungmin University joins\ntheatrical AI film 'Jonah'",
-          "body": "Kyungmin University students will help make the theatrical AI animation 'Jonah' under an industry-academia deal.",
-          "mini_headline": "Kyungmin's AI animation",
+        "ko": {
+          "headline": "AI 더빙 20,000편\n더빙 단가는 하락",
+          "body": "Transn은 AI와 사람 검수로 20,000편 넘게 더빙했지만 단가가 떨어진다.",
+          "mini_headline": "Transn AI 더빙 압박",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Kyungmin University signed a memorandum of understanding (MOU) on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to co-produce artificial intelligence (AI) convergence content and build a cooperation system."
-              },
-              {
-                "t": "p",
-                "x": "Under the agreement, students from Kyungmin University's Department of Applied Music and Department of Media and Video will take part in producing the theatrical AI animated film 'Jonah', the first such attempt in the country."
-              },
-              {
-                "t": "p",
-                "x": "From story and storyboard development to character and art work, AI scene production, editing and quality review, and voice and music work, students will experience the latest AI-based content technology developed in joint research with the Massachusetts Institute of Technology (MIT) in the United States."
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "Kyungmin University signed an industry-academia cooperation MOU on the 16th with 2 companies, Gangdan Studio Co. and Studio Cinetics Co., to produce theatrical artificial intelligence (AI) animation content. [Courtesy of Kyungmin University]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "The film is the first work of 'Majung', a Bible culture project based on the Book of Jonah and designed for children and families to enjoy together. With advice from pastors and theology experts, it aims for a theatrical release in the second half of next year."
-              },
-              {
-                "t": "p",
-                "x": "Hong Moon-jong, chairman of the promotion council overseeing the Majung project, said, “This agreement is a starting point for extending the university's educational capacity into the industry, and it will be a valuable opportunity for students to turn the skills and talents they have learned into a concrete result: a theatrical release.”"
-              },
-              {
-                "t": "p",
-                "x": "The project will hold a launch ceremony on the 20th at Akape Hall on the 3rd floor of Seungtae Hall at Kyungmin University, and follow-up series based on biblical figures such as Joseph and Moses are also being planned."
+                "x": "중국 LSI Transn은 사람 검수를 곁들인 AI로 마이크로드라마 20,000편 이상을 더빙해 제작 기간을 며칠로 줄였다. 더빙 매출은 늘고 있지만, 회사는 가격 하락 압박을 받고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "慶旻大、劇場用AIアニメ\n『ヨナ』を制作",
-          "body": "慶旻大の学生が産学連携で劇場用AIアニメ『ヨナ』の制作に参加する。",
-          "mini_headline": "慶旻大のAIアニメ",
+          "headline": "AIでドラマ20,000本\n吹替単価は下落",
+          "body": "TransnはAIと人の確認で20,000本超を吹き替えたが、価格下落に苦しむ。",
+          "mini_headline": "Transn、AI吹替に価格圧力",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、人工知能(AI)融合コンテンツの共同制作と協力体制構築に向けた業務協約(MOU)を締結した。"
-              },
-              {
-                "t": "p",
-                "x": "協約により、慶旻大学実用音楽科とメディア映像科の学生は、国内で初めて試みられる劇場用AIアニメーション映画『ヨナ』の制作過程に参加する。"
-              },
-              {
-                "t": "p",
-                "x": "学生らはストーリー・絵コンテ構成からキャラクター・美術作業、AIシーン制作、編集・品質チェック、音声・音楽作業に至るまで、米マサチューセッツ工科大学(MIT)と共同研究した最新のAIベースのコンテンツ技術を経験することになる。"
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "慶旻大学は16日、株式会社カンダンスタジオ、株式会社スタジオシネティクスの2社と、劇場用人工知能(AI)アニメーションコンテンツ制作に向けた産学協力業務協約(MOU)を締結した。[慶旻大学提供]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "この映画は、聖書のヨナ書をもとに子どもと家族の観客が一緒に楽しめるよう企画された聖書文化プロジェクト「マジュン」の第一作だ。牧師や神学の専門家の助言を経て、来年下半期の劇場公開を目指す。"
-              },
-              {
-                "t": "p",
-                "x": "マジュンプロジェクトを統括する洪文鐘推進協議会議長は「今回の協約は、大学の教育力を産業現場へと広げる出発点であり、学生が学んだ技術と才能を劇場公開作という具体的な成果として形にする貴重な機会になるだろう」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同プロジェクトは20日に慶旻大学スンテ館3階のアカペホールで発足式を開き、ヨセフやモーセなど聖書の人物を題材とした続編シリーズも企画している。"
+                "x": "中国のLSIであるTransnは、人による確認を組み合わせたAIで20,000本を超えるマイクロドラマを吹き替え、制作期間を数日に短縮した。吹き替え収入が伸びる一方、同社は価格下落の圧力に直面している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "庆旻大学参与制作\n院线AI动画《约拿》",
-          "body": "庆旻大学学生将通过产学合作参与院线AI动画电影《约拿》的制作。",
-          "mini_headline": "庆旻大学AI动画",
+          "headline": "AI配音20,000部短剧\n配音价格却在下滑",
+          "body": "Transn用AI加人工审校配音逾20,000部微短剧，却受配音降价挤压。",
+          "mini_headline": "Transn AI配音承压",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署业务协议(MOU)，旨在共同制作人工智能(AI)融合内容并建立合作体系。"
-              },
-              {
-                "t": "p",
-                "x": "根据协议，庆旻大学实用音乐系和媒体影像系的学生将参与国内首次尝试的院线AI动画电影《约拿》的制作过程。"
-              },
-              {
-                "t": "p",
-                "x": "从故事与分镜构思到角色与美术工作、AI场景制作、剪辑与质量审核、配音与音乐工作，学生们将体验与美国麻省理工学院(MIT)共同研发的最新AI内容技术。"
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "庆旻大学16日与Gangdan Studio公司、Studio Cinetics公司等2家企业签署了院线人工智能(AI)动画内容制作产学合作业务协议(MOU)。[庆旻大学提供]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "这部电影是以《圣经·约拿书》为蓝本、面向儿童和家庭观众共同观赏而策划的圣经文化项目“Majung”的第一部作品。在征询牧师和神学专家意见后，计划于明年下半年在院线上映。"
-              },
-              {
-                "t": "p",
-                "x": "统筹Majung项目的推进协议会议长洪文钟表示：“此次协议是将大学教育能力延伸至产业现场的起点，也将成为学生把所学技术和才华转化为院线上映作品这一具体成果的宝贵机会。”"
-              },
-              {
-                "t": "p",
-                "x": "该项目将于20日在庆旻大学承泰馆3层Akape厅举行启动仪式，并正在策划以约瑟、摩西等圣经人物为题材的后续系列。"
+                "x": "中国LSI企业Transn借助AI结合人工审校，已为逾20,000部微短剧配音，将制作周期缩短至数天。随着配音收入增长，该公司正面临价格下跌的压力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Universidad Kyungmin hará\nel filme animado con AI 'Jonah'",
-          "body": "Estudiantes de la Universidad Kyungmin participarán en la producción de la animación con AI 'Jonah' para cines.",
-          "mini_headline": "La animación con AI de Kyungmin",
+          "headline": "La AI dobla 20,000 microdramas\nmientras caen los precios",
+          "body": "Transn ha doblado más de 20,000 microdramas con AI y revisión humana, pero la caída de precios del doblaje la presiona.",
+          "mini_headline": "Transn: presión en el doblaje con AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Universidad Kyungmin firmó el día 16 un memorando de entendimiento (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para coproducir contenidos de convergencia con inteligencia artificial (AI) y crear un sistema de cooperación."
-              },
-              {
-                "t": "p",
-                "x": "En virtud del acuerdo, estudiantes de los departamentos de Música Aplicada y de Medios y Video de la Universidad Kyungmin participarán en la producción de 'Jonah', la primera película de animación con AI para cines que se intenta en el país."
-              },
-              {
-                "t": "p",
-                "x": "Desde la construcción de la historia y el guion gráfico hasta el trabajo de personajes y arte, la producción de escenas con AI, la edición y revisión de calidad y el trabajo de voz y música, los estudiantes conocerán la última tecnología de contenidos basada en AI, desarrollada en investigación conjunta con el Instituto Tecnológico de Massachusetts (MIT) de Estados Unidos."
-              },
-              {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/etc/inner/KR/2026/11/16/AKR20261116073300060_01_i_P4.jpg",
-                "cap": "La Universidad Kyungmin firmó el día 16 un memorando de cooperación universidad-industria (MOU) con 2 empresas, Gangdan Studio y Studio Cinetics, para producir contenidos de animación con inteligencia artificial (AI) para cines. [Cortesía de la Universidad Kyungmin]"
+                "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
               },
               {
                 "t": "p",
-                "x": "La película es la primera obra de 'Majung', un proyecto cultural bíblico basado en el Libro de Jonás y pensado para que niños y familias lo disfruten juntos. Tras el asesoramiento de pastores y expertos en teología, aspira a estrenarse en cines en el segundo semestre del próximo año."
-              },
-              {
-                "t": "p",
-                "x": "Hong Moon-jong, presidente del consejo impulsor que dirige el proyecto Majung, afirmó: “Este acuerdo es un punto de partida para extender la capacidad educativa de la universidad al ámbito industrial y será una valiosa oportunidad para que los estudiantes plasmen las técnicas y el talento aprendidos en un resultado concreto: una obra estrenada en cines”."
-              },
-              {
-                "t": "p",
-                "x": "El proyecto celebrará su acto de lanzamiento el día 20 en la sala Akape, en la 3.ª planta del edificio Seungtae de la Universidad Kyungmin, y también prepara series posteriores sobre figuras bíblicas como José y Moisés."
+                "x": "La LSI china Transn ha doblado más de 20,000 microdramas con AI y revisión humana, lo que reduce el tiempo de producción a días. Aunque sus ingresos por doblaje crecen, la empresa enfrenta la presión de la caída de precios."
               }
             ]
           }

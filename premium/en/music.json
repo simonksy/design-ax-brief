@@ -11368,6 +11368,129 @@
           "x": "“There will be a next year because this is the new music industry,” James told the crowd."
         }
       ]
+    },
+    "music/spotify-artist-profile-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "As AI-generated slop continues to flood music-streaming platforms, Spotify is rolling out an “Artist Profile Protection” tool to all artists, giving them control over the music appearing under their name. The official launch comes eight months after the company began beta-testing the feature with select artists."
+        },
+        {
+          "t": "p",
+          "x": "Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
+        },
+        {
+          "t": "p",
+          "x": "Artists can enable the feature through Spotify for Artists to receive alerts when new music is submitted under their name. If a release doesn’t belong to them, they can remove their association with it to stop it from appearing on their profile."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+          "cap": "Image Credits: Spotify"
+        },
+        {
+          "t": "p",
+          "x": "By default, releases go live as scheduled unless an artist intervenes; an advanced setting requires artists to manually approve or reject releases before they appear on their profile."
+        },
+        {
+          "t": "p",
+          "x": "“Artists should never have to find someone else’s music under their name,” said Sam Duboff, Spotify’s Global Head of Marketing and Policy. “We’re the first and only streaming service with a solution to the industry-wide problem of content mismatch.” Spotify says it worked with thousands of artists during the beta to refine the tool."
+        }
+      ]
+    },
+    "music/deezer-ipsos-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+          "cap": "Deezer AI music report 2026"
+        },
+        {
+          "t": "p",
+          "x": "Deezer has published its second annual survey of attitudes towards AI-generated music, enlisting Ipsos to canvass 9,000 people in the US, Canada, Brazil, UK, France, Netherlands, Germany and Japan."
+        },
+        {
+          "t": "p",
+          "x": "There’s a blizzard of stats and year-on-year comparisons in Deezer’s press release, but the most interesting trend can only be found in the report itself – which Music Ally has seen. It relates to whether people think that AI-generated music will be popular or not: the report finds shrinking belief that fully-AI music will be popular."
+        }
+      ]
+    },
+    "music/youtube-content-mill-claim": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "darmHfFNOKM"
+        },
+        {
+          "t": "p",
+          "x": "During the pandemic, writer and musician Samantha Shokin recorded a 50 second version of the public domain Bulgarian folk song ‘Bre Petrunko’. Two years later she uploaded it to YouTube, where it gained 125,000 views in four years. Last month it was gone: a company called Media Nov Records had issued a copyright strike and YouTube had taken it down."
+        },
+        {
+          "t": "p",
+          "x": "Shokin filed two counterclaims, but neither worked. “Any human would agree with me that there’s something clearly wrong here that needs to be fixed, but I can’t get in touch with a human being,” she said."
+        },
+        {
+          "t": "p",
+          "x": "Media Nov’s site boasted about automated DMCA takedowns, YouTube content ID management and AI-powered content recognition. Corporate paperwork filed in Ireland shows it was founded a little more than a year ago. It told 404 Media it operates 500 channels, many filled with AI-generated art assets and looping electronic beats."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+          "cap": "One of Media Nov Records’ YouTube pages"
+        },
+        {
+          "t": "p",
+          "x": "After 404 Media requested comment, Media Nov Records retracted the copyright removal request, while saying it intends to initiate legal proceedings. Around 24 hours later, Shokin’s original video was back up; YouTube confirmed it reinstated the video after the claimant withdrew. “The whole system is broken,” Shokin said."
+        }
+      ]
+    },
+    "music/suno-v6-discovery-fight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Universal Music Group and Sony Music Entertainment are fighting Suno’s attempt to put their second copyright lawsuit against the AI music company entirely on hold. In papers filed in Boston federal court on Friday (November 13), the labels argued a full pause could keep the case frozen into 2028, leaving Suno’s 2025 and 2026 models – including v6, launched in September – “examined nowhere until at least 2028.”"
+        },
+        {
+          "t": "p",
+          "x": "Suno asked Judge F. Dennis Saylor IV on October 30 to pause the second case until he rules on summary judgment in the labels’ first lawsuit, filed in June 2024, where Suno’s main defense is fair use. The second suit accuses Suno of copying 60,202 of the labels’ recordings without a license to train its AI models."
+        },
+        {
+          "t": "p",
+          "x": "The labels propose a “partial stay”: put off proving ownership of the 60,000-plus recordings, but let evidence-gathering go ahead now on Suno’s later models, including how v6 was trained, its efforts to license training data, its new businesses and funding, and its recent finances. They note the engineer responsible for Suno’s data scraping and training data acquisition has left the company."
+        },
+        {
+          "t": "p",
+          "x": "“Delay would not merely postpone building the record, it would degrade it,” Universal and Sony write."
+        }
+      ]
+    },
+    "music/aria-ppca-notaistotake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+        },
+        {
+          "t": "p",
+          "x": "Australia’s music, media and creative industries are urging the Federal Government to strengthen copyright protections against the unauthorised use of Australian creative works to train artificial intelligence (AI) systems. Launched on 17th November, ahead of the 40th ARIA Awards, the Not AI’s to Take campaign is led by the Australian Recording Industry Association (ARIA) and the Phonographic Performance Company of Australia (PPCA)."
+        },
+        {
+          "t": "p",
+          "x": "In July 2026, Prime Minister Anthony Albanese said no company should use creators’ work to train AI without their control, adding that “anything less is theft”. The Government has previously ruled out a broad text and data mining exception, but discussions continue around licensing and enforcement."
+        },
+        {
+          "t": "p",
+          "x": "ARIA and PPCA are concerned that any move towards an opt-out system would undermine existing copyright protections and place the responsibility on individual artists. Instead, the campaign is advocating a permission-first approach, requiring AI companies to obtain consent and negotiate terms with copyright holders before using their material."
+        },
+        {
+          "t": "p",
+          "x": "Australia's creative and media industries contribute $70.3 billion annually to the national economy and support almost 600,000 workers. The campaign asks the public to sign a petition, write to a local Federal MP and share campaign resources at nottheirstotake.com.au."
+        }
+      ]
     }
   }
 }

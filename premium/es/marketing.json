@@ -5079,6 +5079,154 @@
           "x": "El parámetro no cambia cómo AI Max empareja las consultas, cómo puja Google ni lo que pagan los anunciantes. Solo cambia lo que puede medirse más adelante, en los sistemas de analítica, CRM e informes que leen las URLs de las páginas de destino."
         }
       ]
+    },
+    "marketing/chatgpt-purchase-intent-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La intención de compra apareció en el 6.9% de las conversaciones con ChatGPT de un panel voluntario de U.S. analizado por SparkToro. Los datos proceden de Verso: 41,961 conversaciones de 12,321 personas entre el 1 de enero y el 29 de octubre de 2026, en su mayoría de una submuestra ponderada para reflejar la población de U.S."
+        },
+        {
+          "t": "p",
+          "x": "De las respuestas de ChatGPT en esta submuestra, el 87.9% no mencionó ni una sola marca, producto o negocio. Rand Fishkin concluyó que la visibilidad en AI importa sobre todo por AI Overviews y AI Mode de Google, más que por el propio ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "En el 4.9% de las conversaciones la persona planeaba comprar y estaba comparando opciones; el 2.1% preguntó por la compra de una marca, producto o servicio concreto; el 93.1% no mostró intención de compra."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+          "cap": "Gráfico: SparkToro / Verso."
+        },
+        {
+          "t": "p",
+          "x": "Fishkin escribió: “Sospecho que esto es una mala noticia para las oportunidades publicitarias de ChatGPT”. Las solicitudes de imágenes y diseño visual fueron la categoría principal, con el 17.6% de las conversaciones; compras, marcas y servicios locales sumaron el 5.3%."
+        },
+        {
+          "t": "p",
+          "x": "Las conversaciones fueron codificadas por Claude, de Anthropic, con un libro de códigos escrito. El panel tiene un sesgo hacia personas más jóvenes, mujeres y de menores ingresos, es mayoritariamente móvil y excluye las solicitudes por API. Para los equipos de PPC que exploran ChatGPT Ads, el 6.9% es una instantánea de un panel de consumidores, no un recuento de todo ChatGPT."
+        }
+      ]
+    },
+    "marketing/daydream-stylist-shopping-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Daydream, la startup de moda de Julie Bornstein, lanzó el martes “Daydream Agent”, un agente de AI presentado como un estilista personal que ayuda a planear un look, probarse ropa de forma virtual, encontrar prendas acordes con el gusto de cada persona y más."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+          "cap": "Créditos de imagen: Daydream"
+        },
+        {
+          "t": "p",
+          "x": "El agente recuerda el estilo personal, las preferencias de talla y el presupuesto de cada comprador. Los compradores pueden subir una foto para probarse virtualmente cualquier prenda guardada, y el agente puede completar la compra con un pago en un clic. También vigila rebajas y nuevos lanzamientos de marcas, envía novedades semanales y detecta tendencias."
+        },
+        {
+          "t": "p",
+          "x": "Los compradores pueden guardar prendas en un “perchero” permanente y conectar su armario y su calendario para armar conjuntos y preparar próximos eventos. La tecnología obtiene precios y disponibilidad en tiempo real de un catálogo de más de 10,000 marcas y funciona con modelos ajustados de OpenAI, Gemini y Claude, además de modelos entrenados por la propia empresa."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+          "cap": "Las fundadoras de Daydream, Lisa Yamner Green y Julie Bornstein. Créditos de imagen: Daydream"
+        },
+        {
+          "t": "p",
+          "x": "Para mantener a personas en el proceso, Daydream incorporó a su primera estilista residente, Francesca Salih, fundadora de StyleGrid. Con $50 million de financiación, Daydream afirma que más de 2 millones de compradores la han usado desde su lanzamiento en junio de 2025."
+        }
+      ]
+    },
+    "marketing/amazon-dva-ai-brand-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+          "cap": "Amazon afirma que menos del 0.1% de sus anuncios web de DVA llega a páginas inseguras; la acreditación del MRC aún no se ha concedido"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Ads ha publicado el proceso que utiliza para mantener los anuncios de campañas de Display, Video y Audio fuera de páginas web inseguras, y afirma que menos del 0.1% de las impresiones del inventario que cubre se sirven junto a contenido por debajo de su umbral de seguridad de marca. El proceso se ha presentado al Media Rating Council, pero “no está acreditado a la fecha de este documento”."
+        },
+        {
+          "t": "p",
+          "x": "El alcance abarca solo sitios web de terceros en inglés (English-language). Nueve categorías están bloqueadas para todos los anunciantes, y estos no pueden eliminar esa configuración predeterminada."
+        },
+        {
+          "t": "p",
+          "x": "Un rastreador que se identifica como AmazonAdBot renderiza las páginas. Dos modelos ajustados, construidos a partir de modelos abiertos publicados, puntúan cada página; “si cualquiera de los modelos identifica un riesgo elevado”, la página pasa a dos modelos fundacionales que la reciben como imagen. El segundo “elimina los hallazgos que no puede confirmar”, y “una página solo se bloquea cuando se confirma un hallazgo”."
+        },
+        {
+          "t": "p",
+          "x": "Amazon nombra a Anthropic: “Modelos como los modelos fundacionales Claude que se usan de Anthropic se evalúan como parte de la selección de modelos y de la medición continua”. Admite que los modelos generativos “pueden devolver resultados distintos para la misma página en evaluaciones diferentes”."
+        },
+        {
+          "t": "p",
+          "x": "El Brand Unsafe Impression Rate lo determinan revisores sobre una muestra de impresiones servidas; las páginas que no pudieron evaluarse quedan excluidas de la tasa."
+        }
+      ]
+    },
+    "marketing/salesforce-copilotforce-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hoy, en Microsoft Ignite, Salesforce y Microsoft anunciaron Copilotforce, una alianza que lleva Salesforce al ecosistema de productividad empresarial de Microsoft, con nuevas integraciones en Microsoft Copilot, Microsoft Teams y Microsoft Fabric."
+        },
+        {
+          "t": "p",
+          "x": "Con Salesforce in Microsoft Copilot, los vendedores podrán acceder al contexto de clientes de Salesforce, analizar oportunidades, preparar reuniones y ejecutar acciones de CRM a partir de conversaciones de Teams, correos de Outlook y documentos compartidos. Los flujos de trabajo incluyen la preparación de reuniones, el análisis de la salud de los acuerdos (deal-health) y planes de cierre del pipeline dentro de Word y PowerPoint."
+        },
+        {
+          "t": "p",
+          "x": "La app Sales Cloud in Teams, en fase piloto, lleva información de CRM en tiempo real a Teams, donde los vendedores pueden actuar con Agentforce Coworker. La integración bidireccional Zero Copy conecta Salesforce Data 360 y Microsoft Fabric sin duplicar conjuntos de datos."
+        },
+        {
+          "t": "p",
+          "x": "“La AI solo es tan potente como los datos y el contexto que la sustentan”, dijo Judson Althoff, CEO de Microsoft Commercial Business."
+        },
+        {
+          "t": "p",
+          "x": "Accenture es el socio de diseño e implementación y Customer Zero. Salesforce in Microsoft Copilot está en Public Preview (Beta); Data Federation ya está disponible de forma general."
+        }
+      ]
+    },
+    "marketing/admob-ask-gemini-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google presenta nuevas herramientas de AI para AdMob —Ask AdMob, habilidades de agente y un servidor MCP— para ayudar a los desarrolladores de apps a construir, corregir y hacer crecer sus negocios más rápido. Gestionar a mano la configuración de anuncios, corregir errores de integración y auditar la seguridad de marca aparta a los equipos del desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "Ask AdMob, un agente conversacional creado con Gemini, estará integrado directamente en la cuenta de AdMob. Entrenado con las mejores prácticas de monetización de AdMob, puede ayudar a resolver problemas, encontrar oportunidades de ingresos y proteger la seguridad de marca como un experto en productos de AdMob. Su centro de solución de problemas ayudará a detectar anomalías de configuración y fallos de integración del SDK."
+        },
+        {
+          "t": "p",
+          "x": "Ask AdMob usa referencias de pares para recomendar pujadores SDK de alto valor con aumentos de ingresos previstos y ayuda a optimizar los grupos de mediación. Revisará automáticamente la configuración de redes de terceros para detectar errores tipográficos costosos y discrepancias de precio mínimo antes de que afecten al rendimiento. Las reglas de seguridad de marca se pueden configurar con instrucciones sencillas en lenguaje natural en lugar de listas de bloqueo manuales."
+        },
+        {
+          "t": "p",
+          "x": "Google empezará a probar estas funciones en los próximos meses, y las funciones más avanzadas para actuar en nombre del usuario llegarán a finales del próximo año. El usuario mantiene el control y revisa y aprueba cada recomendación antes de aplicarla."
+        },
+        {
+          "t": "p",
+          "x": "Las habilidades de agente de AdMob ofrecen a tu agente de AI guías prediseñadas y probadas para tareas como migrar al Google Mobile Ads Next-Gen SDK e implementar nuevos formatos de anuncio. Un servidor MCP de AdMob, en pruebas iniciales, permitirá a los agentes leer datos de la cuenta, crear nuevos bloques de anuncios y gestionar la configuración de mediación, y se ampliará a más desarrolladores a principios del próximo año."
+        }
+      ]
     }
   }
 }

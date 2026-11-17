@@ -1,139 +1,158 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-16T22:37:00Z",
+  "now_iso": "2026-11-17T22:00:36Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Context doesn't live in a chat box, so Nothing built an AI gadget with no screen",
-      "url": "https://the-gadgeteer.com/2026/11/16/nothing-ai-gadget-no-screen-design-reveal/",
-      "source": "The Gadgeteer",
+      "title": "The Xreal Aura are an impressive first step for Android XR glasses",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-11-16T00:44:51-06:00",
-      "excerpt": "Carl Pei's nine-second video shows the face of Nothing's first AI-native device: a brushed-metal slab with one big button, a red dot and two glowing pills, no screen. Ships in December; still no name or price.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/nothing-ai-gadget-hero-1440x810-1.jpg",
-      "note": "Follow-up to the 11-05 teaser; adds the first look at the hardware design but no name or price yet",
+      "published_iso": "2026-11-17T14:00:00Z",
+      "excerpt": "TechRadar's full review of the Xreal Aura, the first glasses-form Android XR device, calls it a versatile on-your-face computer and lists useful Gemini integration among its strengths.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/h2W8SAeDzeCcYosxEJchUf-1920-80.jpg",
       "history_match": {
-        "score": 0.269,
-        "date": "2026-11-05",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
+        "score": 0.412,
+        "date": "2026-10-29",
+        "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+        "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
+        "band": "likely-repeat"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Google's Xreal Aura, Reviewed: The Weird Evolution of VR Into Glasses Is Already Underway",
+      "url": "https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T09:00:13-05:00",
+      "excerpt": "CNET reviews the $1,099 Xreal Aura Android XR glasses with Gemini built in, scoring it 7.0 and calling it the most fascinating and frustrating device it has used in a long time.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg",
+      "history_match": {
+        "score": 0.377,
+        "date": "2026-10-29",
+        "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+        "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Xreal Aura Review: Android XR combined with lightweight glasses delivers a true next-gen spatial computing experience",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/xreal-aura-review",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T15:37:47Z",
+      "excerpt": "Xreal Aura pairs lightweight glasses with a puck running Qualcomm's Snapdragon Reality Elite platform (48 TOPS of AI compute) and ships a controller with a dedicated Google Gemini button.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KoF2BTQypE9baEcMe3fShb-1999-80.jpg",
+      "history_match": {
+        "score": 0.314,
+        "date": "2026-10-29",
+        "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+        "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Samsung's next TV may watch you and pause movies when you leave the couch",
+      "url": "https://www.notebookcheck.net/Samsung-s-next-TV-may-watch-you-and-pause-movies-when-you-leave-the-couch.1452821.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T22:03:00+01:00",
+      "excerpt": "Samsung's next AI TV, expected at CES 2027, reportedly uses AI to recognize viewers' movements, pausing when someone leaves the couch and resuming when they return, plus on-screen item lookup and shopping.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
+    },
+    {
+      "title": "Gemini for Home is botching simple Spotify requests",
+      "url": "https://www.androidauthority.com/gemini-for-home-spotify-issues-3736194/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T18:06:48+00:00",
+      "excerpt": "Users report Gemini for Home on Google's smart speakers and displays is misunderstanding Spotify requests, playing the wrong tracks and unrelated artists.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-nest-hub-google-home-speaker-hero-1-scaled.jpg",
+      "history_match": {
+        "score": 0.173,
+        "date": "2026-11-16",
+        "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
+        "title": "The Xiaomi 18 Pro's rear displays support Google apps, Spotify, and custom GenAI apps",
         "band": "related"
       }
     },
     {
-      "title": "This chatty robot turns your kid's doodles into new pictures",
-      "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/",
-      "source": "The Gadgeteer",
+      "title": "Google confirms huge list of new Home features, including three Nest Thermostat upgrades",
+      "url": "https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-11-16T03:04:25-06:00",
-      "excerpt": "WhalesBot's Pubbo, an AI companion robot for kids aged 3 to 11, draws what a child describes out loud on its 3.5-inch screen face and talks back. It uses a 5MP camera for visual recognition, just went on sale in the US at $299.99, and is a holiday AI toy pick.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg"
-    },
-    {
-      "title": "The family 3D printer that turns phone photos into toys",
-      "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T01:15:53-06:00",
-      "excerpt": "QIDI's $349 MakeBuddy Smart5 is an enclosed 3D printer for family rooms. It has an AI camera, and an AI photo-to-3D app turns phone snapshots into printable toy models.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg"
-    },
-    {
-      "title": "I tested the Halliday G2 AI smart glasses and they turned me into a walking 'cheat sheet' — but everyone could tell",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T05:30:00Z",
-      "excerpt": "A hands-on review of Halliday's camera-less G2 AI glasses. The AI features are useful, but the design looks dorky and people around you notice when you're reading answers off the display.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-      "note": "Non-Apple/non-Samsung smart glasses review; fits the smart-glasses slot",
+      "published_iso": "2026-11-17T19:30:00+00:00",
+      "excerpt": "Google says Gemini for Home is now about 20% faster on everyday requests and has expanded to six more countries including India, Taiwan and Singapore, alongside new Nest Thermostat upgrades.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&resize=1200,628",
       "history_match": {
-        "score": 0.184,
+        "score": 0.219,
+        "date": "2026-11-12",
+        "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
+        "title": "Google Home update fixes Nest 'Live View' issues, improves Nest Hub and Gemini for speakers",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I tried the Flowtica Verso AI notetaker expecting a gimmick - now it's my new favorite MagSafe gadget",
+      "url": "https://www.zdnet.com/tech/flowtica-verso-review/",
+      "source": "ZDNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T09:00:24-05:00",
+      "excerpt": "ZDNET reviews the Flowtica Verso, a MagSafe AI recorder with an e-paper screen that snaps onto a phone and turns recorded conversations into transcripts, summaries and action items.",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/6_fe14bb.jpg",
+      "history_match": {
+        "score": 0.165,
+        "date": "2026-10-21",
+        "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
+        "title": "Boya Notra Neo launches with AI-powered meeting transcriptions, summaries, and recordings and MagSafe mount",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Apple's buggy HomeView launch is making Google Home look good",
+      "url": "https://www.androidauthority.com/apple-homeview-siri-ai-issues-3736006/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T12:45:52+00:00",
+      "excerpt": "Early reviews of Apple's HomeView smart home hub describe unfinished software, with Siri AI problems that make even Google Home look good by comparison.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/HomeView-Touch-1-scaled.jpg",
+      "history_match": {
+        "score": 0.236,
         "date": "2026-10-20",
-        "url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
-        "title": "Even Realities G2 review: Smart glasses, stupid controls",
+        "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+        "title": "Apple's next HomeView could debut as soon as next year with a robotic arm: report",
         "band": "related"
       }
     },
     {
-      "title": "I tested Lenovo's Yoga 9n 2-in-1 against the MacBook Pro for two weeks — impressive OLED and AI smarts cannot make up for poor gaming",
-      "url": "https://www.tomsguide.com/computing/laptops/lenovo-yoga-9n-2-in-1-review",
-      "source": "Tom's Guide",
+      "title": "Apple Reportedly Finalizes Smart Glasses Hardware, Puts Siri at Strategic Center",
+      "url": "https://roadtovr.com/apple-finalizes-smart-glasses-siri-support-report/",
+      "source": "Road to VR",
       "category": "gadgets",
-      "published_iso": "2026-11-12T10:30:00Z",
-      "excerpt": "Review of Lenovo's $2,999 ARM-and-Nvidia Windows 2-in-1, built to run AI models locally. The OLED and pen are excellent and local AI performance is strong, but gaming and raw performance trail the MacBook Pro.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZgVM5EFtsDn4f2hoUNDZwU-2560-80.jpg",
-      "note": "On-device AI PC review",
+      "published_iso": "2026-11-17T13:25:27+00:00",
+      "excerpt": "Bloomberg reports Apple's N50 smart glasses hardware is largely finalized ahead of a WWDC 2026 unveil next June, with Siri AI at the center of the software experience.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2023/05/apple-wwdc-2023.jpg",
       "history_match": {
-        "score": 0.15,
-        "date": "2026-10-28",
-        "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
-        "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
+        "score": 0.154,
+        "date": "2026-10-19",
+        "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+        "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
         "band": "related"
       }
     },
     {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "title": "Apple's first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
       "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-16T19:24:40+00:00",
-      "excerpt": "The iOS 27.3 beta caps daily use of the more complex Siri AI and Apple Intelligence requests on each device, and iCloud+ tiers raise the limits. Basic Siri requests stay free and unlimited.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0.17391304347827%2C0%2C99.652173913043%2C100&w=1200",
-      "note": "Same news is on MacRumors and 9to5Mac; keep one",
+      "published_iso": "2026-11-15T16:59:16+00:00",
+      "excerpt": "Apple's Siri AI-powered eyewear is set to be announced at WWDC next year; The Verge rounds up what's known about the hardware and how Siri will drive apps on the glasses.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "history_match": {
-        "score": 0.155,
-        "date": "2026-11-08",
-        "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
-        "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
-        "band": "related"
-      }
-    },
-    {
-      "title": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2",
-      "url": "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T19:16:41+00:00",
-      "excerpt": "iOS 27.3 beta 2 lets Siri AI answer questions about data in the Health app. That opens one of the last areas the new on-device assistant had stayed out of.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/siri-ai-health-ios-27-beta-3.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.276,
-        "date": "2026-11-03",
-        "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
-        "title": "ChatGPT could soon turn your Android health data into something you can actually use",
-        "band": "related"
-      },
-      "cluster": "c6"
-    },
-    {
-      "title": "iOS 27.3 Adds 'Ask About Page' Siri AI Feature to Safari",
-      "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T18:24:57+00:00",
-      "excerpt": "In iOS 27.3 beta 2, Siri AI can read a whole webpage in Safari, including parts not on screen, and answer questions about it, such as listing every option on a long menu.",
-      "og_image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
-      "history_match": {
-        "score": 0.178,
-        "date": "2026-11-08",
-        "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
-        "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
-        "band": "related"
-      },
-      "cluster": "c6"
-    },
-    {
-      "title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
-      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T21:08:10+00:00",
-      "excerpt": "The macOS 27.3 beta changes the Full Disk Access API and adds warnings before users give AI-agent apps such as Claude broad control of their Mac.",
-      "og_image": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-      "note": "OS-level device control of AI agents; borderline against the 'desktop agent apps 0' cap, but this is an OS feature, not an agent app",
-      "history_match": {
-        "score": 0.151,
+        "score": 0.163,
         "date": "2026-11-04",
         "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
         "title": "Apple starts giving Siri AI access to third-party apps",
@@ -141,16 +160,67 @@
       }
     },
     {
-      "title": "I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks",
-      "url": "https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/",
+      "title": "Some Places Have Already Banned AI Glasses, And The List Just Keeps Growing",
+      "url": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-15T16:00:00+00:00",
+      "excerpt": "Safety and privacy concerns have led courtrooms, schools, theaters and other public places to ban AI glasses, and the list keeps growing as camera-equipped AI eyewear spreads.",
+      "og_image": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/l-intro-1794240877.jpg"
+    },
+    {
+      "title": "National top scorer in Korea admits to AI cheating on notoriously tough tax exam",
+      "url": "https://www.digitaltrends.com/computing/a-national-tax-exams-top-scorer-just-confessed-to-outsourcing-the-test-to-ai/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-16T00:09:16-08:00",
+      "excerpt": "After scoring 397.5 out of 400 on South Korea's tax accountant exam, the top candidate confessed he used a microcamera and generative AI to get the answers.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "'AI 안경 의혹' 세무사 수석 합격자, 결국 부정행위 자수… \"진짜 수석에 죄송\"",
+      "url": "https://www.etnews.com/20261115000036",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-15T09:59:22+09:00",
+      "excerpt": "제63회 세무사 시험에서 AI 스마트안경 부정행위 의혹을 받은 수석 합격자가 전자기기와 생성형 AI를 이용해 시험을 치렀다고 인정하고 경찰에 자수했다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.050db271848442abb379c14cf4513281_P1.png"
+    },
+    {
+      "title": "AI 안경 사태에 \"인도가 앞서갔네\"…10년 전 '팬티바람 시험' 재조명",
+      "url": "https://www.etnews.com/20261117000288",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T22:30:00+09:00",
+      "excerpt": "세무사 시험 AI 안경 부정행위가 드러나면서 첨단 전자기기를 악용한 부정행위 대책 논의가 커지고, 응시자 속옷 시험을 치른 인도 사례가 재조명되고 있다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/17/news-p.v1.20261117.abf32104b08543f1b6a075ac776a1b50_P1.jpg"
+    },
+    {
+      "title": "I Tested Apple Intelligence on a Top New Security Camera to Find Its Limits",
+      "url": "https://www.cnet.com/home/security/aqara-g350-apple-intelligence-review-tested-camera-to-find-the-limits/",
       "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-11-14T11:00:10-05:00",
-      "excerpt": "A two-week hands-on with Audio Intelligence, the AI note-taking feature in watchOS 27.3 that listens to and summarizes conversations on the Apple Watch. The tester came away more worried about sanity than privacy.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/AudioIntelligence.jpg",
-      "note": "AI wearable feature hands-on",
+      "published_iso": "2026-11-17T06:00:17-05:00",
+      "excerpt": "CNET tests Apple Intelligence's AI video descriptions for security cameras on the Aqara G350 to see whether the feature is worth it.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
       "history_match": {
         "score": 0.204,
+        "date": "2026-11-05",
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "title": "Gemini for Home now plugs into AT&T’s smart security system",
+        "band": "related"
+      }
+    },
+    {
+      "title": "The Apple Watch Can Record and Rewind Spoken Conversations Now. It's Pretty Awkward",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T11:00:00.000Z",
+      "excerpt": "Apple Watch's Live Rewind and Siri Recap transcribe missed moments and summarize your day with AI, though WIRED found the wrist-worn recording socially clumsy.",
+      "og_image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/191:100/w_1280,c_limit/DSC_0242.jpg",
+      "history_match": {
+        "score": 0.339,
         "date": "2026-11-04",
         "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
         "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
@@ -158,123 +228,45 @@
       }
     },
     {
-      "title": "Hasbro Is Using AI to Bring Characters to Life — With Limits",
-      "url": "https://www.cnet.com/tech/services-and-software/hasbro-sixth-wall-studio-ai-characters/",
-      "source": "CNET",
+      "title": "Microsoft Ignite 2026: Building Windows for the next era of work",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/",
+      "source": "Windows Blog",
       "category": "gadgets",
-      "published_iso": "2026-11-12T07:20:15-05:00",
-      "excerpt": "Hasbro's Sixth Wall Studio is giving licensed characters like Cobra Commander conversational AI personas for toys, theme-park robots and video calls, with guardrails on what they will say.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1496748930.jpg",
-      "note": "AI toy/character angle; The Gadgeteer's 11-16 story covers the theme-park robot side"
-    },
-    {
-      "title": "Apple launches private AI health study app — first-of-its-kind beta opens to 200,000 testers",
-      "url": "https://www.techradar.com/phones/iphone/apple-launches-first-of-its-kind-ai-health-app-privacy-focused-research-program-opens-for-its-first-200-000-iphone-testers",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T12:32:12Z",
-      "excerpt": "Apple and OpenEvidence opened a research app in which up to 200,000 iPhone users can talk to a custom AI about conditions and symptoms, a test of whether people trust AI health advice.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/CywXG2cMS5jjK3wDHHCQj7-1365-80.jpg",
-      "note": "Lean on gadgets (an app, not hardware); medicine crossover",
+      "published_iso": "2026-11-17T18:20:56+00:00",
+      "excerpt": "At Ignite 2026 Microsoft details Windows features for AI agents, including 'Hybrid Intelligence' that splits AI work between on-device and cloud models, with controls over what agents can access.",
+      "og_image": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg",
       "history_match": {
-        "score": 0.168,
-        "date": "2026-11-03",
-        "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
-        "title": "ChatGPT could soon turn your Android health data into something you can actually use",
+        "score": 0.16,
+        "date": "2026-10-24",
+        "url": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+        "title": "Microsoft pulls eight Copilot actions from Windows 11 File Explorer",
         "band": "related"
       }
-    },
-    {
-      "title": "'안티 AI 커닝' 기술 속속 등장…전파차단부터 AI 답변 봉쇄까지",
-      "url": "https://www.etnews.com/20261116000308",
-      "source": "전자신문",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T14:22:02+09:00",
-      "excerpt": "AI 안경과 초소형 기기를 쓴 시험 부정행위가 늘면서 전파탐지, 전파차단, AI 안경 식별, AI 서비스의 시험 문제 풀이 제한 같은 '안티 AI 커닝' 기술이 주목받는다. 정부는 이번 수능에서 스마트안경을 착용만 해도 부정행위로 처리한다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.fe67a2ab147c4b4fbefda8cd9a7f9a56_P1.jpg",
-      "note": "Korean AI-glasses angle; avoids the Samsung eyewear cap"
-    },
-    {
-      "title": "I run a 2B vision model on my phone and stopped sending my screenshots to ChatGPT and Claude",
-      "url": "https://www.xda-developers.com/run-2b-vision-model-on-phone-stopped-sending-screenshots-to-chatgpt-claude/",
-      "source": "XDA",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T22:30:21Z",
-      "excerpt": "A hands-on with a 2-billion-parameter vision model running fully on a phone. It reads and sorts screenshots privately, without sending them to cloud chatbots.",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/qwen-3-5-in-noema-on-iphone-16-keyboard-and-clock-in-view.jpeg?w=1600&h=900&fit=crop",
-      "note": "On-device AI how-to/opinion",
-      "history_match": {
-        "score": 0.169,
-        "date": "2026-10-28",
-        "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
-        "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
-        "band": "related"
-      }
-    },
-    {
-      "title": "What does an NPU do and why do so many laptops have them?",
-      "url": "https://www.engadget.com/2311854/what-is-npu-why-many-laptops-have-them/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-11-14T18:00:00+00:00",
-      "excerpt": "An explainer on what the neural processing units in Copilot+ and other AI laptops actually do and whether buyers need one.",
-      "og_image": "https://www.engadget.com/img/gallery/what-does-an-npu-do-and-why-do-so-many-laptops-have-them/l-intro-1794310250.jpg",
-      "note": "Evergreen explainer; low priority"
-    },
-    {
-      "title": "[카드뉴스] AI안경 하나면 국가시험도 뚫릴까요",
-      "url": "https://zdnet.co.kr/view/?no=20261116101323",
-      "source": "지디넷코리아",
-      "category": "gadgets",
-      "published_iso": "2026-11-16T21:46:05+09:00",
-      "excerpt": "금속탐지기에도 잘 걸리지 않는 AI 안경이 시험 문제 글자를 읽어 AI에 보내고 답을 받는 방식이 세무사 시험 수석 합격자 의혹으로 쟁점이 됐다. 카드뉴스로 정리한 AI 안경 부정행위 이슈.",
-      "og_image": "https://image.zdnet.co.kr/2026/11/16/0c7b20411fcf72800463a96859a3b77d.png",
-      "note": "Same story as the etnews item; keep one"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 15,
+    "dropped": 0,
+    "kept": 17,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 10,
+    "review": 12,
     "same_story_pairs": [
       [
-        "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
-        "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
-        0.346
+        "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review",
+        "https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/",
+        0.374
+      ],
+      [
+        "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review",
+        "https://www.tomshardware.com/peripherals/wearable-tech/xreal-aura-review",
+        0.31
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-18",
-      "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
-      "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection",
-      "url": "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "I tested the Asus ProArt P16 with Nvidia RTX Spark and it's the ultimate AI creator laptop (with a price to match)",
-      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
-      "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "HTC Made Smart Glasses That Are Way More Private",
-      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
-    },
     {
       "date": "2026-10-19",
       "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
@@ -949,6 +941,31 @@
       "date": "2026-11-16",
       "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
       "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "The family 3D printer that turns phone photos into toys",
+      "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "This chatty robot turns your kid's doodles into new pictures",
+      "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
+      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "I tested the Halliday G2 AI smart glasses and they turned me into a walking 'cheat sheet' — but everyone could tell",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell"
     }
   ]
 }

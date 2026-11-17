@@ -4681,6 +4681,121 @@
           "x": "La empresa también citó que, en primera instancia de las demandas relacionadas de restitución por enriquecimiento injusto, el Tribunal Municipal de Osan y el Tribunal de Distrito de Ulsan desestimaron las pretensiones de los demandantes, y pidió al Ministerio de Salud y Bienestar que ajuste el método de uso de la normativa a la autorización del Ministerio de Seguridad de Alimentos y Medicamentos. VitalCare pasó por un periodo de aplazamiento de la evaluación de nuevas tecnologías sanitarias y ahora está en la evaluación principal."
         }
       ]
+    },
+    "medicine/med-jama-llm-discharge-summaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los resúmenes de alta hospitalaria son esenciales para la continuidad asistencial, pero los datos fragmentados de la historia clínica electrónica (EHR) pueden comprometer su calidad y seguridad. En este estudio retrospectivo de efectividad comparativa, con un marco de no inferioridad preespecificado, médicos en ejercicio evaluaron registros de ingreso de 5 hospitales de Londres (del 1 de septiembre de 2022 al 30 de septiembre de 2023) frente al registro completo del ingreso."
+        },
+        {
+          "t": "p",
+          "x": "Los resúmenes LLM-generated se elaboraron con GPT-4o mini (versión del 18 de julio de 2024; OpenAI) y un prompt codiseñado con clínicos. El resultado principal fue la aprobación del clínico sin ediciones o con ediciones menores, con un margen de no inferioridad de 5 puntos porcentuales."
+        },
+        {
+          "t": "p",
+          "x": "La muestra incluyó 1294 resúmenes de alta (649 redactados por clínicos y 645 LLM-generated) evaluados por 12 médicos en ejercicio. La diferencia en la probabilidad de aprobación sin ediciones o con ediciones menores (LLM generado menos redactado por clínicos) fue de 22.2 puntos porcentuales (95% CI, 19.0-27.5), lo que demuestra la no inferioridad. Los resúmenes LLM-generated obtuvieron mejores valoraciones en precisión, exhaustividad, tono y claridad, y una menor proporción recibió una puntuación de 3 o más en daño potencial (26.2% y 26.8% frente a 45.1% y 51.5%)."
+        },
+        {
+          "t": "p",
+          "x": "Los resúmenes de alta LLM-generated cumplieron el estándar asistencial actual y representan un caso de uso temprano y prometedor de la inteligencia artificial generativa en la atención sanitaria, con una estrecha supervisión clínica."
+        }
+      ]
+    },
+    "medicine/med-retina-pe-preeclampsia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+          "cap": "Resumen gráfico"
+        },
+        {
+          "t": "p",
+          "x": "La preeclampsia (PE) causa morbilidad y mortalidad materna y perinatal, pero el cribado no invasivo sigue siendo limitado. Desarrollamos Retina-PE, un modelo multimodal de aprendizaje profundo que integra fotografías de retina, factores clínicos maternos y presión arterial media para predecir la PE posterior. Se usaron datos multicéntricos recogidos de forma prospectiva de 8616 gestantes para el desarrollo y la evaluación retrospectivos del modelo."
+        },
+        {
+          "t": "p",
+          "x": "En el conjunto de desarrollo (Development-dataset), las áreas bajo la curva característica operativa del receptor a nivel de imagen (AUCs) fueron de 0.853 y 0.708 para la aparición de PE a las 24–28 y 28–32 semanas, de 0.871 y 0.791 para la PE pretérmino a 1 y 4 semanas, y de 0.979 y 0.862 para la PE de inicio temprano a 1 y 4 semanas. Las AUCs correspondientes en el conjunto de validación externa fueron de 0.728 y 0.815, 0.801 y 0.801, y 0.776 y 0.766."
+        },
+        {
+          "t": "p",
+          "x": "La mejora incremental del rendimiento dependió de la tarea. Los análisis a nivel de paciente mostraron patrones similares, aunque con pocos eventos en algunas tareas. Estos hallazgos respaldan la evaluación prospectiva de la imagen retiniana para la estratificación del riesgo materno."
+        }
+      ]
+    },
+    "medicine/med-hopkins-sumi-pcct-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Domingo, 29 de noviembre | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de aprendizaje profundo llamado SUMI se muestra prometedor para \"trasladar las ventajas de calidad de imagen de la [CT de conteo de fotones] PCCT a la CT de tórax rutinaria\"."
+        },
+        {
+          "t": "p",
+          "x": "La CT de conteo de fotones (Photon-counting CT, PCCT) ofrece mayor resolución espacial y menos ruido que la CT convencional de integración de energía (EICT), pero los escáneres PCCT no siempre están disponibles para uso rutinario, señalaron el presentador Chuntung Zhuang, de la Johns Hopkins University en Baltimore, y sus colegas. Para resolverlo, el grupo creó un modelo de AI que incorpora la calidad de imagen de la PCCT a la CT rutinaria sin adquisiciones emparejadas, lo que podría ampliar el acceso de los pacientes a una calidad de imagen PCCT-like sin instalar hardware nuevo."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Zhuang entrenó primero un autoencoder continuo (es decir, una red neuronal artificial no supervisada) con 1,046 escaneos PCCT y 405,379 escaneos EICT de 145 hospitales; después entrenó SUMI con los 1,046 escaneos PCCT clasificados en cuatro categorías estándar de pérdida de calidad de imagen (vista dispersa, baja dosis, convencional y degradaciones mixtas)."
+        },
+        {
+          "t": "p",
+          "x": "Asista a esta sesión para saber cómo se comportó SUMI en relación señal-ruido máxima e índice de similitud estructural, y cómo su uso podría mejorar la calidad de la CT de tórax."
+        }
+      ]
+    },
+    "medicine/med-who-ihf-ai-committee": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Organización Mundial de la Salud (WHO) y la Federación Internacional de Hospitales (IHF) acordaron crear un comité directivo conjunto para impulsar la cooperación en AI aplicada a la salud, incluidos estándares para la adopción de AI y formación para profesionales sanitarios."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo se alcanzó el lunes en una reunión entre el director general de la WHO (Director-General), Tedros Adhanom Ghebreyesus, y el presidente designado de la IHF (President-Designate), Lee Wang-jun, en la sede de la WHO en Ginebra."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+          "cap": "El director general de la WHO (Director-General), Tedros Adhanom Ghebreyesus (izquierda), y el presidente designado de la IHF (President-Designate), Lee Wang-jun, el lunes en la sede de la WHO en Ginebra. (Cortesía de la IHF)"
+        },
+        {
+          "t": "p",
+          "x": "Lee se reunió con Tedros para tratar las medidas de seguimiento de la Declaración de Seúl sobre la AI en la Salud (Seoul Declaration on AI in Healthcare), adoptada durante el 49.º Congreso Mundial de Hospitales de la IHF celebrado en Seúl el mes pasado. La IHF presentó su visión y su hoja de ruta para el propuesto Global AI Healthcare Leadership Center."
+        },
+        {
+          "t": "p",
+          "x": "La WHO propuso tres áreas de cooperación: el desarrollo de capacidades de los profesionales sanitarios, la elaboración de referencias estándar y marcos de evaluación para valorar la AI antes y después de su adopción, y la organización conjunta de un foro cumbre. Ambas organizaciones acordaron crear un comité directivo conjunto de alto nivel para coordinar estas iniciativas, con otra reunión prevista antes de fin de año."
+        }
+      ]
+    },
+    "medicine/apple-openevidence-trust-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+          "cap": "Apple y OpenEvidence anuncian un estudio de AI conversacional y una app asociada en la conferencia HLTH de Las Vegas, Nevada, el 15 de noviembre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Apple lanza un estudio de investigación virtual —y una app asociada— para entender cómo interactúan las personas con la AI conversacional de salud, según anunció la compañía el domingo en la conferencia HLTH de Las Vegas. Realizado con la plataforma de AI clínica OpenEvidence, el estudio examinará qué impulsa la confianza del consumidor, la calidad de las respuestas de la AI de salud y si la AI conversacional puede impulsar cambios de conducta, dijo la Dra. Sumbul Desai, vicepresidenta de Health and Fitness de Apple."
+        },
+        {
+          "t": "p",
+          "x": "El estudio está abierto a hasta 200,000 participantes elegibles de 21 años o más en todo Estados Unidos (U.S.). Los usuarios hacen preguntas de salud en la app y pueden compartir datos como la frecuencia cardiaca en reposo, la actividad, el sueño o resultados de laboratorio para personalizar las interacciones. Los datos del estudio no se usarán para entrenar modelos de AI, y compartir datos personales es opcional."
+        },
+        {
+          "t": "p",
+          "x": "“Estudiamos qué genera la confianza del usuario, cómo comprenden las personas las respuestas y la calidad de las respuestas, y queríamos trabajar con un socio con base clínica, y ese socio es OpenEvidence”, dijo Desai. El CEO de OpenEvidence, Daniel Nadler, dijo que las consultas médicas suelen durar solo 10 o 15 minutos y que la app podría ayudar a cerrar esa brecha."
+        },
+        {
+          "t": "p",
+          "x": "Apple dijo que la app detectará preguntas preocupantes y, si es necesario, remitirá al consumidor a un proveedor externo u otros recursos. Aproximadamente un tercio de los adultos de Estados Unidos (U.S.) ha usado un chatbot de AI para hablar de su salud, según KFF."
+        }
+      ]
     }
   }
 }

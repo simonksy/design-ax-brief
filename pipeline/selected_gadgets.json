@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "gadgets",
   "items": [
     {
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "source": "The Verge",
-      "published_iso": "2026-11-16T19:24:40+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0.17391304347827%2C0%2C99.652173913043%2C100&w=1200",
-      "excerpt": "The iOS 27.3 beta caps daily use of the more complex Siri AI and Apple Intelligence requests on each device, and iCloud+ tiers raise the limits. Basic Siri requests stay free and unlimited.",
-      "rationale": "New iOS 27.3 beta change that puts metered, subscription-tiered limits on on-device assistant use; first Apple/Siri slot."
+      "title": "Microsoft Ignite 2026: Building Windows for the next era of work",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/",
+      "source": "Windows Blog",
+      "published_iso": "2026-11-17T18:20:56+00:00",
+      "og_image": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg",
+      "excerpt": "At Ignite 2026 Microsoft details Windows features for AI agents, including 'Hybrid Intelligence' that splits AI work between on-device and cloud models, with controls over what agents can access.",
+      "rationale": "Primary-source platform announcement: Windows gets on-device/cloud 'Hybrid Intelligence' and agent access controls, which changes how AI agents run on the PC people work on."
     },
     {
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
-      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
-      "source": "MacRumors",
-      "published_iso": "2026-11-16T21:08:10+00:00",
-      "og_image": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-      "excerpt": "The macOS 27.3 beta changes the Full Disk Access API and adds warnings before users give AI-agent apps such as Claude broad control of their Mac.",
-      "rationale": "New OS-level permission gate for AI agents on the desktop; second (and last) Apple/Siri slot, distinct from the Siri limits story."
+      "title": "Google confirms huge list of new Home features, including three Nest Thermostat upgrades",
+      "url": "https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/",
+      "source": "9to5Google",
+      "published_iso": "2026-11-17T19:30:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google says Gemini for Home is now about 20% faster on everyday requests and has expanded to six more countries including India, Taiwan and Singapore, alongside new Nest Thermostat upgrades.",
+      "rationale": "New Google release: Gemini for Home is about 20% faster and now in six more countries, with new Nest Thermostat features. This is a different update from the 11-11 Live View/Nest Hub fix."
     },
     {
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "I tested the Halliday G2 AI smart glasses and they turned me into a walking 'cheat sheet' — but everyone could tell",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
-      "source": "Tom's Guide",
-      "published_iso": "2026-11-16T05:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-      "excerpt": "A hands-on review of Halliday's camera-less G2 AI glasses. The AI features are useful, but the design looks dorky and people around you notice when you're reading answers off the display.",
-      "rationale": "First review of a different product (Halliday G2) from the Even Realities G2 reviewed 10-20; covers the smart-glasses slot without the exam-cheating story."
+      "title": "Samsung's next TV may watch you and pause movies when you leave the couch",
+      "url": "https://www.notebookcheck.net/Samsung-s-next-TV-may-watch-you-and-pause-movies-when-you-leave-the-couch.1452821.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-11-17T22:03:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg",
+      "excerpt": "Samsung's next AI TV, expected at CES 2027, reportedly uses AI to recognize viewers' movements, pausing when someone leaves the couch and resuming when they return, plus on-screen item lookup and shopping.",
+      "rationale": "First look at Samsung's CES 2027 AI TV, which senses viewers to pause and resume and adds on-screen lookup. Covers the TV/living-room category that no other pick in this set does."
     },
     {
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "This chatty robot turns your kid's doodles into new pictures",
-      "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/",
-      "source": "The Gadgeteer",
-      "published_iso": "2026-11-16T03:04:25-06:00",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-      "excerpt": "WhalesBot's Pubbo, an AI companion robot for kids aged 3 to 11, draws what a child describes out loud on its 3.5-inch screen face and talks back. It uses a 5MP camera for visual recognition, just went on sale in the US at $299.99, and is a holiday AI toy pick.",
-      "rationale": "New consumer AI companion robot now on sale in the US with a price, in the kids' AI toy category."
+      "title": "Some Places Have Already Banned AI Glasses, And The List Just Keeps Growing",
+      "url": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
+      "source": "Engadget",
+      "published_iso": "2026-11-15T16:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/l-intro-1794240877.jpg",
+      "excerpt": "Safety and privacy concerns have led courtrooms, schools, theaters and other public places to ban AI glasses, and the list keeps growing as camera-equipped AI eyewear spreads.",
+      "rationale": "Covers the smart-glasses category through where wearers can and cannot use AI eyewear (courts, schools, theaters). It is not about the Korean exams, which the brief allows."
     },
     {
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "title": "The family 3D printer that turns phone photos into toys",
-      "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/",
-      "source": "The Gadgeteer",
-      "published_iso": "2026-11-16T01:15:53-06:00",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-      "excerpt": "QIDI's $349 MakeBuddy Smart5 is an enclosed 3D printer for family rooms. It has an AI camera, and an AI photo-to-3D app turns phone snapshots into printable toy models.",
-      "rationale": "New maker hardware with an AI photo-to-3D pipeline; a different category (fabrication) from the rest of the set."
+      "title": "I Tested Apple Intelligence on a Top New Security Camera to Find Its Limits",
+      "url": "https://www.cnet.com/home/security/aqara-g350-apple-intelligence-review-tested-camera-to-find-the-limits/",
+      "source": "CNET",
+      "published_iso": "2026-11-17T06:00:17-05:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+      "excerpt": "CNET tests Apple Intelligence's AI video descriptions for security cameras on the Aqara G350 to see whether the feature is worth it.",
+      "rationale": "Hands-on test of Apple Intelligence's AI video descriptions on home security cameras. It covers the home-security category and is the only Apple slot in this set."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription": {
+      "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/": {
         "verdict": "new",
-        "nearest": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+        "nearest": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
         "new_action": ""
       },
-      "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/": {
+      "https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+        "nearest": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
         "new_action": ""
       },
-      "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell": {
+      "https://www.notebookcheck.net/Samsung-s-next-TV-may-watch-you-and-pause-movies-when-you-leave-the-couch.1452821.0.html": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+        "nearest": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
         "new_action": ""
       },
-      "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/": {
+      "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/": {
+      "https://www.cnet.com/home/security/aqara-g350-apple-intelligence-review-tested-camera-to-find-the-limits/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups: Nothing screen-free AI gadget design reveal (The Gadgeteer), the same running story as the 11-05 Verge teaser card, with no name, price or release yet; CNET Apple Watch Audio Intelligence hands-on, extra reporting on the watchOS 27.3 feature published 11-04 (MacRumors). Excluded by cross-section assignments: TechRadar Apple x OpenEvidence health study (medicine only); etnews anti-AI-cheating and zdnet AI-glasses exam card news (politics only). Apple cap (2): kept the Verge Siri limits and MacRumors macOS warning, and dropped 9to5Mac Siri health questions and MacRumors Safari Ask About Page (also one cluster, c6). Lower-scored and not picked: Hasbro Sixth Wall Studio (CNET, AI character licensing, weak gadget angle), Lenovo Yoga 9n review, XDA on-device vision model opinion, Engadget NPU explainer (evergreen). Cross-section: published_urls.json is too large to read whole here (no grep tool), so I relied on the brief's cross-section assignments, and none of the picks appear in them."
+    "note": "Dropped as duplicates or follow-ups: (1) Xreal Aura reviews (TechRadar, CNET, Tom's Hardware, cluster c0). These are reviews of the product whose launch ran 10-29 (Road to VR), with no new release. (2) ZDNET Flowtica Verso review. The same product already ran in BOOKS on 2026-09-20 (goodereader 'Flowtica Verso is an e-ink AI screen that attaches to your phone'), and a story runs in only one section. (3) Android Authority Apple HomeView buggy launch. This is reaction coverage of the HomeView Siri problems, and Apple's own fix announcement already ran 11-13 (MacRumors). (4) WIRED Apple Watch Live Rewind/Siri Recap. This is a hands-on of the watchOS 27.3 feature that ran 11-04 (MacRumors). Excluded by cross-section assignment (politics only): Digital Trends tax-exam AI cheating and both etnews AI-glasses exam items. Running rumor, no new announcement: Apple N50 smart glasses reports (Road to VR/Bloomberg, Verge), the same running story as the 11-14 MacRumors supplier-briefing card. Lower-scored and not picked: Android Authority Gemini for Home Spotify bugs (user complaints that overlap the Google Home pick). Cross-section check: published_urls.json is too large to read whole without grep. I read the first page (books), where the Flowtica match turned up, and relied on the brief's assignments for the rest. None of the picks appear in them."
   }
 }

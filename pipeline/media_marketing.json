@@ -1,11 +1,31 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "marketing",
   "media": [
-    {"id": "admob-ask-gemini-agent", "type": "video", "src": "pipeline/media/admob-ask-gemini-agent.mp4", "poster": "pipeline/media/admob-ask-gemini-agent.jpg"},
-    {"id": "google-aimode-hotel-booking", "type": "image", "src": "pipeline/media/google-aimode-hotel-booking.jpg"},
-    {"id": "jcrew-style-advisor-anthropic", "type": "image", "src": "pipeline/media/jcrew-style-advisor-anthropic.jpg"},
-    {"id": "bustle-profound-ai-visibility", "type": "image", "src": "pipeline/media/bustle-profound-ai-visibility.jpg"},
-    {"id": "tone-belfort-ai-sales-voice", "type": "image", "src": "pipeline/media/tone-belfort-ai-sales-voice.jpg"}
+    {
+      "id": "google-ads-pmax-visual-guidelines",
+      "type": "image",
+      "src": "pipeline/media/google-ads-pmax-visual-guidelines.jpg"
+    },
+    {
+      "id": "chatgpt-purchase-intent-panel",
+      "type": "image",
+      "src": "pipeline/media/chatgpt-purchase-intent-panel.jpg"
+    },
+    {
+      "id": "daydream-stylist-shopping-agent",
+      "type": "image",
+      "src": "pipeline/media/daydream-stylist-shopping-agent.jpg"
+    },
+    {
+      "id": "amazon-dva-ai-brand-safety",
+      "type": "image",
+      "src": "pipeline/media/amazon-dva-ai-brand-safety.jpg"
+    },
+    {
+      "id": "salesforce-copilotforce-microsoft",
+      "type": "image",
+      "src": "pipeline/media/salesforce-copilotforce-microsoft.jpg"
+    }
   ]
 }

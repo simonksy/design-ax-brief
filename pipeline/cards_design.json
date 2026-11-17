@@ -1,981 +1,119 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "design",
   "cards": [
     {
-      "id": "claude-canvas-html",
+      "id": "figma-oauth-mcp-allowlist",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude, HTML을\n캔버스 그래픽 속으로",
-      "body": "Claude가 이제 캔버스 그래픽과 3D 효과 안에 실제 텍스트·버튼을 심는다.",
-      "mini_headline": "Claude, 캔버스에 HTML",
-      "tool": "KeyShot",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-          },
-          {
-            "t": "p",
-            "x": "Claude가 이제 복잡한 그래픽과 3D 효과 안에 텍스트, 버튼 같은 웹 요소를 넣는다."
-          },
-          {
-            "t": "p",
-            "x": "웹 페이지에는 늘 절충이 따랐다. 표준 HTML 요소는 클릭하고 선택할 수 있고 스크린 리더도 읽지만, 시각적으로 비틀기는 어렵다. Canvas는 무엇이든 그려내지만 브라우저는 그 결과를 납작한 이미지처럼 다룬다. 그 안의 텍스트는 선택되지 않고 링크도 눌리지 않는다. HTML-in-Canvas는 실제 페이지 요소를 캔버스 그래픽 안에 넣으면서 상호작용은 그대로 살려 이 문제를 푼다."
-          },
-          {
-            "t": "p",
-            "x": "Anthropic에서 Claude 관련 일을 하는 Felix Rieseberg는 X에 이 기능 덕분에 Claude가 \"bizarre & beautiful sites\"(기묘하고 아름다운 사이트)를 만들 수 있게 됐다며 Flash 시절이 떠오른다고 썼다. 데모 페이지에는 뜨개질 도안, 3D 큐브, 레이어를 분해해 렌더링한 웹사이트 등 예시 15개가 올라 있다. 콘텐츠는 강조 표시하고 복사할 수 있는 실제 텍스트 그대로다."
-          },
-          {
-            "t": "video",
-            "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Google은 상호작용성과 접근성을 함께 지키는 웹 표준으로 HTML-in-Canvas를 개발 중이다. Chrome과 Edge는 157 버전부터, Claude 데스크톱 앱은 5.11492 버전부터 이 기능이 작동한다. Safari와 Firefox는 아직 지원하지 않는다. 쓰려면 프롬프트에서 Claude에게 HTML-in-Canvas를 콕 집어 요청해야 한다."
-          },
-          {
-            "t": "p",
-            "x": "시각 작업에서 Claude는 갈수록 창의적이다. 최근 Claude Fable 5.2는 직접 짠 Python 코드로 사실적인 그림을 한 획씩 그렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Claude puts live HTML\ninside canvas graphics",
-          "body": "Claude can now place real text, buttons, and other web elements inside complex canvas graphics and 3D effects.",
-          "mini_headline": "Claude puts HTML in canvas",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects."
-              },
-              {
-                "t": "p",
-                "x": "Web pages have always faced a tradeoff. Standard HTML elements are clickable, selectable, and readable by screen readers, but they're hard to warp visually. Canvas lets you draw anything you want, but the browser treats it like a flat image. You can't select text or click links inside it. HTML-in-Canvas changes that by placing real page elements inside canvas graphics while keeping them fully interactive."
-              },
-              {
-                "t": "p",
-                "x": "Felix Rieseberg works on Claude at Anthropic. He wrote on X that Claude can now build \"bizarre & beautiful sites\" with the feature, adding that it reminds him of the Flash era. A demo page shows 15 examples, including websites rendered as knitting patterns, 3D cubes, or exploded layer views. The content stays as real text you can highlight and copy."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google is developing HTML-in-Canvas as a web standard that preserves both interactivity and accessibility. The feature works in Chrome and Edge starting with version 157 and in Claude's desktop apps from version 5.11492. Safari and Firefox don't support it yet. Users need to ask Claude for HTML-in-Canvas explicitly in their prompt."
-              },
-              {
-                "t": "p",
-                "x": "Claude keeps getting more creative with visual tasks. Recently, Claude Fable 5.2 painted photorealistic artwork stroke by stroke using self-written Python code."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Claude, HTML을\n캔버스 그래픽 속으로",
-          "body": "Claude가 이제 캔버스 그래픽과 3D 효과 안에 실제 텍스트·버튼을 심는다.",
-          "mini_headline": "Claude, 캔버스에 HTML",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude가 이제 복잡한 그래픽과 3D 효과 안에 텍스트, 버튼 같은 웹 요소를 넣는다."
-              },
-              {
-                "t": "p",
-                "x": "웹 페이지에는 늘 절충이 따랐다. 표준 HTML 요소는 클릭하고 선택할 수 있고 스크린 리더도 읽지만, 시각적으로 비틀기는 어렵다. Canvas는 무엇이든 그려내지만 브라우저는 그 결과를 납작한 이미지처럼 다룬다. 그 안의 텍스트는 선택되지 않고 링크도 눌리지 않는다. HTML-in-Canvas는 실제 페이지 요소를 캔버스 그래픽 안에 넣으면서 상호작용은 그대로 살려 이 문제를 푼다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic에서 Claude 관련 일을 하는 Felix Rieseberg는 X에 이 기능 덕분에 Claude가 \"bizarre & beautiful sites\"(기묘하고 아름다운 사이트)를 만들 수 있게 됐다며 Flash 시절이 떠오른다고 썼다. 데모 페이지에는 뜨개질 도안, 3D 큐브, 레이어를 분해해 렌더링한 웹사이트 등 예시 15개가 올라 있다. 콘텐츠는 강조 표시하고 복사할 수 있는 실제 텍스트 그대로다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google은 상호작용성과 접근성을 함께 지키는 웹 표준으로 HTML-in-Canvas를 개발 중이다. Chrome과 Edge는 157 버전부터, Claude 데스크톱 앱은 5.11492 버전부터 이 기능이 작동한다. Safari와 Firefox는 아직 지원하지 않는다. 쓰려면 프롬프트에서 Claude에게 HTML-in-Canvas를 콕 집어 요청해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "시각 작업에서 Claude는 갈수록 창의적이다. 최근 Claude Fable 5.2는 직접 짠 Python 코드로 사실적인 그림을 한 획씩 그렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ClaudeがHTMLを\nキャンバス画像に埋め込む",
-          "body": "Claudeはキャンバス描画や3D 効果の中に本物のテキストやボタンを置けるようになった。",
-          "mini_headline": "ClaudeがcanvasにHTML",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claudeは、複雑なグラフィックや3D エフェクトの中に、テキストやボタンなどのウェブ要素を埋め込めるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "ウェブページは常にトレードオフを抱えてきた。標準のHTML要素はクリックや選択ができ、スクリーンリーダーでも読み取れるが、見た目を変形させるのは難しい。Canvasなら何でも描けるが、ブラウザはそれを平面の画像として扱う。中のテキストを選択したり、リンクをクリックしたりはできない。HTML-in-Canvasは、実際のページ要素をキャンバスのグラフィック内に配置しつつ、完全に操作できる状態を保つことで、これを変える。"
-              },
-              {
-                "t": "p",
-                "x": "Felix RiesebergはAnthropicでClaudeに携わっている。彼はXで、この機能によってClaudeが「bizarre & beautiful sites」(奇妙で美しいサイト)を作れるようになったと書き、Flash時代を思い出すと付け加えた。デモページには、編み物の図案、3D キューブ、分解したレイヤー表示としてレンダリングしたウェブサイトなど、15の例が並ぶ。コンテンツは選択してコピーできる本物のテキストのままだ。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Googleは、操作性とアクセシビリティを両立するウェブ標準としてHTML-in-Canvasを開発している。この機能はChromeとEdgeではバージョン157から、Claudeのデスクトップアプリではバージョン5.11492から動作する。SafariとFirefoxはまだ対応していない。利用者はプロンプトでClaudeにHTML-in-Canvasを明示的に指示する必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "Claudeは視覚的なタスクでますます創造性を発揮している。最近ではClaude Fable 5.2が、自ら書いたPythonコードで写実的な絵を一筆ずつ描いた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude把实时HTML\n嵌入画布图形之中",
-          "body": "Claude现在能在复杂的画布图形和3D 效果中放入真实文本、按钮等网页元素。",
-          "mini_headline": "Claude 把 HTML 放进画布",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude 现在可以把文本、按钮和其他网页元素嵌入复杂的图形和 3D 效果之中。"
-              },
-              {
-                "t": "p",
-                "x": "网页一直面临一种取舍。标准 HTML 元素可以点击、选择，也能被屏幕阅读器读取，但很难在视觉上扭曲变形。Canvas 能让你画出任何东西，但浏览器把它当作一张扁平图片，你无法选中其中的文字，也无法点击其中的链接。HTML-in-Canvas 把真实的页面元素放进画布图形，同时保持完全可交互，从而改变了这一点。"
-              },
-              {
-                "t": "p",
-                "x": "Felix Rieseberg 在 Anthropic 从事 Claude 相关工作。他在 X 上写道，借助这项功能，Claude 现在能做出“bizarre & beautiful sites”（怪诞而美丽的网站），并说这让他想起 Flash 时代。一个演示页面展示了 15 个示例，包括渲染成编织图样、3D 立方体或分层爆炸视图的网站。内容仍是可以高亮和复制的真实文本。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google 正在把 HTML-in-Canvas 发展为一项同时保留交互性与无障碍性的网页标准。该功能在 Chrome 和 Edge 中从 157 版起可用，在 Claude 桌面应用中从 5.11492 版起可用。Safari 和 Firefox 尚不支持。用户需要在提示词中明确要求 Claude 使用 HTML-in-Canvas。"
-              },
-              {
-                "t": "p",
-                "x": "Claude 在视觉任务上越来越有创意。最近，Claude Fable 5.2 用自己编写的 Python 代码，一笔一笔画出了照片级写实的作品。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Claude integra HTML interactivo\ndentro de gráficos canvas",
-          "body": "Claude ya puede colocar texto real, botones y otros elementos web dentro de gráficos canvas complejos y efectos 3D.",
-          "mini_headline": "Claude lleva HTML al canvas",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude ya puede incrustar texto, botones y otros elementos web en gráficos complejos y efectos 3D."
-              },
-              {
-                "t": "p",
-                "x": "Las páginas web siempre han enfrentado un dilema. Los elementos HTML estándar se pueden pulsar, seleccionar y leer con lectores de pantalla, pero es difícil deformarlos visualmente. Canvas permite dibujar cualquier cosa, pero el navegador lo trata como una imagen plana. No se puede seleccionar el texto ni pulsar enlaces dentro de él. HTML-in-Canvas cambia eso al colocar elementos reales de la página dentro de gráficos canvas sin que pierdan su interactividad."
-              },
-              {
-                "t": "p",
-                "x": "Felix Rieseberg trabaja en Claude en Anthropic. Escribió en X que Claude ya puede crear \"bizarre & beautiful sites\" (sitios extraños y bellos) con esta función, y añadió que le recuerda a la era de Flash. Una página de demostración muestra 15 ejemplos, entre ellos sitios web representados como patrones de tejido, cubos 3D o vistas de capas desplegadas. El contenido sigue siendo texto real que se puede resaltar y copiar."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google está desarrollando HTML-in-Canvas como un estándar web que conserva tanto la interactividad como la accesibilidad. La función está disponible en Chrome y Edge a partir de la versión 157 y en las apps de escritorio de Claude desde la versión 5.11492. Safari y Firefox aún no la admiten. Los usuarios deben pedir HTML-in-Canvas a Claude de forma explícita en su prompt."
-              },
-              {
-                "t": "p",
-                "x": "Claude es cada vez más creativo en las tareas visuales. Hace poco, Claude Fable 5.2 pintó obras fotorrealistas trazo a trazo con código Python escrito por él mismo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Claude, HTML을\n캔버스 그래픽 속으로",
-          "body": "Claude가 이제 캔버스 그래픽과 3D 효과 속에 실제 텍스트·버튼을 넣는다.",
-          "mini_headline": "Claude, 캔버스에 HTML",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude가 이제 복잡한 그래픽과 3D 효과 안에 텍스트, 버튼 등 웹 요소를 넣을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "웹 페이지는 늘 절충을 안고 있었다. 표준 HTML 요소는 클릭하고 선택할 수 있으며 스크린 리더가 읽을 수 있지만, 시각적으로 비틀기는 어렵다. Canvas는 무엇이든 그릴 수 있지만 브라우저는 이를 납작한 이미지처럼 다룬다. 그 안의 텍스트를 선택하거나 링크를 클릭할 수 없다. HTML-in-Canvas는 실제 페이지 요소를 캔버스 그래픽 안에 넣으면서도 상호작용을 온전히 유지해 이 문제를 바꾼다."
-              },
-              {
-                "t": "p",
-                "x": "Felix Rieseberg는 Anthropic에서 Claude 관련 일을 한다. 그는 X에 이 기능으로 Claude가 이제 \"bizarre & beautiful sites\"(기묘하고 아름다운 사이트)를 만들 수 있다고 쓰며, Flash 시절이 떠오른다고 덧붙였다. 데모 페이지에는 뜨개질 도안, 3D 큐브, 분해된 레이어 뷰로 렌더링한 웹사이트 등 15개 예시가 있다. 콘텐츠는 강조 표시하고 복사할 수 있는 실제 텍스트로 남는다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google은 상호작용성과 접근성을 모두 지키는 웹 표준으로 HTML-in-Canvas를 개발하고 있다. 이 기능은 Chrome과 Edge에서는 157 버전부터, Claude 데스크톱 앱에서는 5.11492 버전부터 작동한다. Safari와 Firefox는 아직 지원하지 않는다. 사용자는 프롬프트에서 Claude에게 HTML-in-Canvas를 명시적으로 요청해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Claude는 시각 작업에서 점점 더 창의적인 모습을 보이고 있다. 최근 Claude Fable 5.2는 직접 작성한 Python 코드로 사실적인 그림을 한 획씩 그렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ClaudeがHTMLを\nキャンバス画像に埋め込む",
-          "body": "Claudeはキャンバス描画や3D 効果の中に本物のテキストやボタンを置けるようになった。",
-          "mini_headline": "ClaudeがcanvasにHTML",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claudeは、複雑なグラフィックや3D エフェクトの中に、テキストやボタンなどのウェブ要素を埋め込めるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "ウェブページは常にトレードオフを抱えてきた。標準のHTML要素はクリックや選択ができ、スクリーンリーダーでも読み取れるが、見た目を変形させるのは難しい。Canvasなら何でも描けるが、ブラウザはそれを平面の画像として扱う。中のテキストを選択したり、リンクをクリックしたりはできない。HTML-in-Canvasは、実際のページ要素をキャンバスのグラフィック内に配置しつつ、完全に操作できる状態を保つことで、これを変える。"
-              },
-              {
-                "t": "p",
-                "x": "Felix RiesebergはAnthropicでClaudeに携わっている。彼はXで、この機能によってClaudeが「bizarre & beautiful sites」(奇妙で美しいサイト)を作れるようになったと書き、Flash時代を思い出すと付け加えた。デモページには、編み物の図案、3D キューブ、分解したレイヤー表示としてレンダリングしたウェブサイトなど、15の例が並ぶ。コンテンツは選択してコピーできる本物のテキストのままだ。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Googleは、操作性とアクセシビリティを両立するウェブ標準としてHTML-in-Canvasを開発している。この機能はChromeとEdgeではバージョン157から、Claudeのデスクトップアプリではバージョン5.11492から動作する。SafariとFirefoxはまだ対応していない。利用者はプロンプトでClaudeにHTML-in-Canvasを明示的に指示する必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "Claudeは視覚的なタスクでますます創造性を発揮している。最近ではClaude Fable 5.2が、自ら書いたPythonコードで写実的な絵を一筆ずつ描いた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude把实时HTML\n嵌入画布图形之中",
-          "body": "Claude现在能在复杂的画布图形和3D 效果中放入真实文本、按钮等网页元素。",
-          "mini_headline": "Claude 把 HTML 放进画布",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude 现在可以把文本、按钮和其他网页元素嵌入复杂的图形和 3D 效果之中。"
-              },
-              {
-                "t": "p",
-                "x": "网页一直面临一种取舍。标准 HTML 元素可以点击、选择，也能被屏幕阅读器读取，但很难在视觉上扭曲变形。Canvas 能让你画出任何东西，但浏览器把它当作一张扁平图片，你无法选中其中的文字，也无法点击其中的链接。HTML-in-Canvas 把真实的页面元素放进画布图形，同时保持完全可交互，从而改变了这一点。"
-              },
-              {
-                "t": "p",
-                "x": "Felix Rieseberg 在 Anthropic 从事 Claude 相关工作。他在 X 上写道，借助这项功能，Claude 现在能做出“bizarre & beautiful sites”（怪诞而美丽的网站），并说这让他想起 Flash 时代。一个演示页面展示了 15 个示例，包括渲染成编织图样、3D 立方体或分层爆炸视图的网站。内容仍是可以高亮和复制的真实文本。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google 正在把 HTML-in-Canvas 发展为一项同时保留交互性与无障碍性的网页标准。该功能在 Chrome 和 Edge 中从 157 版起可用，在 Claude 桌面应用中从 5.11492 版起可用。Safari 和 Firefox 尚不支持。用户需要在提示词中明确要求 Claude 使用 HTML-in-Canvas。"
-              },
-              {
-                "t": "p",
-                "x": "Claude 在视觉任务上越来越有创意。最近，Claude Fable 5.2 用自己编写的 Python 代码，一笔一笔画出了照片级写实的作品。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Claude integra HTML interactivo\ndentro de gráficos canvas",
-          "body": "Claude ya puede colocar texto real, botones y otros elementos web dentro de gráficos canvas complejos y efectos 3D.",
-          "mini_headline": "Claude lleva HTML al canvas",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude ya puede incrustar texto, botones y otros elementos web en gráficos complejos y efectos 3D."
-              },
-              {
-                "t": "p",
-                "x": "Las páginas web siempre han enfrentado un dilema. Los elementos HTML estándar se pueden pulsar, seleccionar y leer con lectores de pantalla, pero es difícil deformarlos visualmente. Canvas permite dibujar cualquier cosa, pero el navegador lo trata como una imagen plana. No se puede seleccionar el texto ni pulsar enlaces dentro de él. HTML-in-Canvas cambia eso al colocar elementos reales de la página dentro de gráficos canvas sin que pierdan su interactividad."
-              },
-              {
-                "t": "p",
-                "x": "Felix Rieseberg trabaja en Claude en Anthropic. Escribió en X que Claude ya puede crear \"bizarre & beautiful sites\" (sitios extraños y bellos) con esta función, y añadió que le recuerda a la era de Flash. Una página de demostración muestra 15 ejemplos, entre ellos sitios web representados como patrones de tejido, cubos 3D o vistas de capas desplegadas. El contenido sigue siendo texto real que se puede resaltar y copiar."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google está desarrollando HTML-in-Canvas como un estándar web que conserva tanto la interactividad como la accesibilidad. La función está disponible en Chrome y Edge a partir de la versión 157 y en las apps de escritorio de Claude desde la versión 5.11492. Safari y Firefox aún no la admiten. Los usuarios deben pedir HTML-in-Canvas a Claude de forma explícita en su prompt."
-              },
-              {
-                "t": "p",
-                "x": "Claude es cada vez más creativo en las tareas visuales. Hace poco, Claude Fable 5.2 pintó obras fotorrealistas trazo a trazo con código Python escrito por él mismo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "lovable-drafts-parallel",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Lovable Drafts\n배포 없이 팀이 실험",
-      "body": "Lovable Drafts로 팀은 라이브 앱을 두고 여러 버전을 함께 시험한다.",
-      "mini_headline": "Lovable, Drafts 추가",
+      "headline": "Figma 관리자, 이제\nMCP 앱 접근 통제",
+      "body": "관리자가 새 Extensions 탭에서 MCP 등 OAuth 앱 사용을 허용한다.",
+      "mini_headline": "Figma, MCP 클라이언트 통제",
       "tool": "Figma",
-      "source": "Lovable",
-      "url": "https://lovable.dev/blog/introducing-drafts",
+      "source": "Figma",
+      "url": "https://www.figma.com/release-notes/?title=manage-an-allowlist-of-approved-oauth-apps-including-mcp-clients",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-          },
-          {
-            "t": "p",
-            "x": "뛰어난 빌더는 실험하고 만지작거리며 다듬는다. 이제 팀은 여러 아이디어를 한꺼번에 시도하고 하나를 고르기 전에 실제 환경에서 어떻게 보이는지 확인한다. 그동안 라이브 앱은 손대지 않은 채 남는다."
-          },
-          {
-            "t": "p",
-            "x": "드래프트를 쓰면 디자인부터 데이터베이스까지 앱 전체를 원하는 만큼 복사한다. 드래프트마다 채팅과 미리보기가 따로 있어 팀원이 각자 다른 버전을 작업하고 나란히 비교한다. 드래프트를 수락해 게시하기 전까지 라이브에는 아무것도 반영되지 않는다."
-          },
-          {
-            "t": "video",
-            "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-          },
-          {
-            "t": "p",
-            "x": "팀원이나 클라이언트는 기존 앱을 건드리지 않고 자기 드래프트에서 고친다. 드래프트마다 예시 데이터가 채워져 있어 빈 페이지 대신 예약이 꽉 찬 캘린더, 가득 쌓인 주문 내역, 긴 가입자 목록 위에서 아이디어를 본다. Lovable에 여러 버전을 만들어 달라고 한 뒤 마음에 드는 것만 남겨도 된다."
-          },
-          {
-            "t": "p",
-            "x": "\"드래프트로 여러 기능과 레이아웃, UX를 나란히 테스트한 뒤 가장 잘 맞는 것을 남긴다.\" OLX Global의 Director of Product Design & Research인 Shane Stuart의 말이다."
-          },
-          {
-            "t": "p",
-            "x": "프로젝트를 열고 편집기 상단의 프로젝트 이름을 클릭한 뒤 \"New draft\"를 누르면 된다. 드래프트가 마음에 들면 수락을 눌러 변경 사항을 프로젝트에 합치고, 게시를 눌러 라이브로 내보낸다. 테스트하며 넣은 데이터는 드래프트 안에만 머물다가 수락하거나 삭제하면 사라진다. 실제 고객 데이터와 섞일 일이 없다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Lovable Drafts lets teams\nexplore without going live",
-          "body": "Lovable Drafts let teams explore different versions of a project in parallel while the live app stays unchanged.",
-          "mini_headline": "Lovable adds Drafts",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "The best builders experiment, tinker, and tweak. Now you and your team can try different ideas in parallel and see how they'd really look in the wild before choosing your favorite, while your live app stays untouched."
-              },
-              {
-                "t": "p",
-                "x": "With drafts, you can copy your whole app, from design to database, as often as you like. Each draft has its own chat and preview, so you and your team can work on separate versions and compare them side by side. Nothing goes live until you accept a draft and hit publish."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Let a teammate or a client make changes in their own draft without altering the existing app. Every draft comes filled with example data, so instead of an empty page you see your idea with a busy booking calendar, a full order history, or a long list of sign-ups. You can even ask Lovable to spin up different versions for you and keep the ones you like."
-              },
-              {
-                "t": "p",
-                "x": "\"We use drafts to test different features, layouts and UX side by side, then keep what works best,\" says Shane Stuart, Director of Product Design & Research, OLX Global."
-              },
-              {
-                "t": "p",
-                "x": "Open a project, click its name at the top of the editor, and hit \"New draft.\" When you're happy with a draft, hit accept to add its changes to your project, then hit publish to make them live. Any data you add while testing stays in the draft and is cleared when you accept or delete it, so it never lands next to real customer data."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Lovable Drafts\n배포 없이 팀이 실험",
-          "body": "Lovable Drafts로 팀은 라이브 앱을 두고 여러 버전을 함께 시험한다.",
-          "mini_headline": "Lovable, Drafts 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "뛰어난 빌더는 실험하고 만지작거리며 다듬는다. 이제 팀은 여러 아이디어를 한꺼번에 시도하고 하나를 고르기 전에 실제 환경에서 어떻게 보이는지 확인한다. 그동안 라이브 앱은 손대지 않은 채 남는다."
-              },
-              {
-                "t": "p",
-                "x": "드래프트를 쓰면 디자인부터 데이터베이스까지 앱 전체를 원하는 만큼 복사한다. 드래프트마다 채팅과 미리보기가 따로 있어 팀원이 각자 다른 버전을 작업하고 나란히 비교한다. 드래프트를 수락해 게시하기 전까지 라이브에는 아무것도 반영되지 않는다."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "팀원이나 클라이언트는 기존 앱을 건드리지 않고 자기 드래프트에서 고친다. 드래프트마다 예시 데이터가 채워져 있어 빈 페이지 대신 예약이 꽉 찬 캘린더, 가득 쌓인 주문 내역, 긴 가입자 목록 위에서 아이디어를 본다. Lovable에 여러 버전을 만들어 달라고 한 뒤 마음에 드는 것만 남겨도 된다."
-              },
-              {
-                "t": "p",
-                "x": "\"드래프트로 여러 기능과 레이아웃, UX를 나란히 테스트한 뒤 가장 잘 맞는 것을 남긴다.\" OLX Global의 Director of Product Design & Research인 Shane Stuart의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "프로젝트를 열고 편집기 상단의 프로젝트 이름을 클릭한 뒤 \"New draft\"를 누르면 된다. 드래프트가 마음에 들면 수락을 눌러 변경 사항을 프로젝트에 합치고, 게시를 눌러 라이브로 내보낸다. 테스트하며 넣은 데이터는 드래프트 안에만 머물다가 수락하거나 삭제하면 사라진다. 실제 고객 데이터와 섞일 일이 없다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Lovable Drafts\n公開せずにチームで試す",
-          "body": "Lovable Draftsで公開中のアプリはそのままにチームが複数案を並行して試せる。",
-          "mini_headline": "LovableにDrafts追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "優れたビルダーは実験し、いじり、微調整する。これからはチームで複数のアイデアを並行して試し、お気に入りを選ぶ前に実際の環境でどう見えるかを確かめられる。その間も公開中のアプリには手が加わらない。"
-              },
-              {
-                "t": "p",
-                "x": "ドラフトを使えば、デザインからデータベースまでアプリ全体を何度でも複製できる。各ドラフトには専用のチャットとプレビューがあり、チームで別々のバージョンに取り組んで並べて比較できる。ドラフトを承認して公開を押すまで、何も本番には反映されない。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "チームメイトやクライアントは、既存のアプリを変えずに自分のドラフトで変更を加えられる。どのドラフトにもサンプルデータが入っているので、空のページではなく、予約で埋まったカレンダーや充実した注文履歴、長い登録者リストとともにアイデアを確認できる。Lovableに別バージョンを作らせ、気に入ったものだけを残すこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "「ドラフトでさまざまな機能やレイアウト、UXを並べてテストし、最も効果的なものを残している」と、OLX GlobalのDirector of Product Design & ResearchであるShane Stuartは語る。"
-              },
-              {
-                "t": "p",
-                "x": "プロジェクトを開き、エディタ上部のプロジェクト名をクリックして「New draft」を押す。ドラフトに満足したら承認を押して変更をプロジェクトに取り込み、公開を押して本番に反映する。テスト中に追加したデータはドラフト内にとどまり、承認または削除した時点で消去されるため、実際の顧客データと混ざることはない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lovable Drafts\n团队无需上线即可探索",
-          "body": "借助Lovable Drafts，团队可在线上应用不变的情况下并行探索项目的不同版本。",
-          "mini_headline": "Lovable 推出 Drafts",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "最优秀的构建者总在实验、摆弄和微调。现在，你和团队可以并行尝试不同的想法，在选定最喜欢的方案之前看看它们在真实环境中的样子，而线上应用始终保持不变。"
-              },
-              {
-                "t": "p",
-                "x": "借助草稿，你可以随意多次复制整个应用，从设计到数据库。每个草稿都有独立的聊天和预览，团队可以分别处理不同版本并并排比较。在你接受草稿并点击发布之前，任何内容都不会上线。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "让队友或客户在各自的草稿里修改，而不改动现有应用。每个草稿都预先填好示例数据，所以你看到的不是空白页面，而是带着排满的预约日历、完整的订单记录或一长串注册名单的创意。你甚至可以让 Lovable 为你生成不同版本，再保留喜欢的那些。"
-              },
-              {
-                "t": "p",
-                "x": "“我们用草稿并排测试不同的功能、布局和 UX，然后保留效果最好的。”OLX Global 的 Director of Product Design & Research Shane Stuart 说。"
-              },
-              {
-                "t": "p",
-                "x": "打开项目，点击编辑器顶部的项目名称，再点击“New draft”。对草稿满意后，点击接受，将其更改加入项目，再点击发布让它们上线。测试时添加的数据只留在草稿中，在你接受或删除草稿时清除，因此绝不会与真实客户数据混在一起。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Con Lovable Drafts, los equipos\nexploran sin publicar",
-          "body": "Lovable Drafts permite a los equipos explorar en paralelo varias versiones de un proyecto sin tocar la app en vivo.",
-          "mini_headline": "Lovable añade Drafts",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "Los mejores creadores experimentan, prueban y ajustan. Ahora tú y tu equipo pueden probar ideas distintas en paralelo y ver cómo se verían de verdad en el mundo real antes de elegir la favorita, mientras la app publicada sigue intacta."
-              },
-              {
-                "t": "p",
-                "x": "Con los borradores puedes copiar toda tu app, del diseño a la base de datos, tantas veces como quieras. Cada borrador tiene su propio chat y vista previa, así que tú y tu equipo pueden trabajar en versiones separadas y compararlas lado a lado. Nada se publica hasta que aceptas un borrador y pulsas publicar."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Deja que un compañero o un cliente haga cambios en su propio borrador sin alterar la app existente. Cada borrador viene con datos de ejemplo, así que en lugar de una página vacía ves tu idea con un calendario de reservas lleno, un historial de pedidos completo o una larga lista de registros. Incluso puedes pedirle a Lovable que genere distintas versiones por ti y quedarte con las que te gusten."
-              },
-              {
-                "t": "p",
-                "x": "\"Usamos los borradores para probar lado a lado distintas funciones, diseños y UX, y luego quedarnos con lo que mejor funciona\", dice Shane Stuart, Director of Product Design & Research de OLX Global."
-              },
-              {
-                "t": "p",
-                "x": "Abre un proyecto, haz clic en su nombre en la parte superior del editor y pulsa \"New draft\". Cuando un borrador te convenza, pulsa aceptar para añadir sus cambios al proyecto y luego publicar para ponerlos en vivo. Los datos que añadas durante las pruebas se quedan en el borrador y se borran al aceptarlo o eliminarlo, así que nunca se mezclan con datos reales de clientes."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Lovable Drafts\n배포 없이 팀이 실험",
-          "body": "Lovable Drafts로 팀은 라이브 앱은 두고 여러 버전을 동시에 탐색한다.",
-          "mini_headline": "Lovable, Drafts 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "뛰어난 빌더는 실험하고, 만지작거리고, 다듬는다. 이제 당신과 팀은 여러 아이디어를 동시에 시도하고, 마음에 드는 것을 고르기 전에 실제 환경에서 어떻게 보일지 확인할 수 있다. 그동안 라이브 앱은 그대로 유지된다."
-              },
-              {
-                "t": "p",
-                "x": "드래프트로 디자인부터 데이터베이스까지 앱 전체를 원하는 만큼 복사할 수 있다. 드래프트마다 채팅과 미리보기가 따로 있어 팀이 각자 다른 버전을 작업하고 나란히 비교할 수 있다. 드래프트를 수락하고 게시하기 전까지는 아무것도 라이브에 반영되지 않는다."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "팀원이나 클라이언트가 기존 앱을 건드리지 않고 자기 드래프트에서 변경할 수 있다. 모든 드래프트에는 예시 데이터가 채워져 있어, 빈 페이지 대신 예약이 꽉 찬 캘린더, 가득 찬 주문 내역, 긴 가입자 목록과 함께 아이디어를 볼 수 있다. Lovable에 여러 버전을 만들어 달라고 한 뒤 마음에 드는 것만 남길 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "\"드래프트로 여러 기능과 레이아웃, UX를 나란히 테스트한 뒤 가장 잘 맞는 것을 남긴다.\" OLX Global의 Director of Product Design & Research인 Shane Stuart의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "프로젝트를 열고 편집기 상단의 프로젝트 이름을 클릭한 뒤 \"New draft\"를 누른다. 드래프트가 마음에 들면 수락을 눌러 변경 사항을 프로젝트에 더하고, 게시를 눌러 라이브로 내보낸다. 테스트 중 추가한 데이터는 드래프트 안에만 머물고 수락하거나 삭제하면 지워지므로, 실제 고객 데이터 옆에 섞일 일이 없다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Lovable Drafts\n公開せずにチームで試す",
-          "body": "Lovable Draftsで公開中のアプリはそのままにチームが複数案を並行して試せる。",
-          "mini_headline": "LovableにDrafts追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "優れたビルダーは実験し、いじり、微調整する。これからはチームで複数のアイデアを並行して試し、お気に入りを選ぶ前に実際の環境でどう見えるかを確かめられる。その間も公開中のアプリには手が加わらない。"
-              },
-              {
-                "t": "p",
-                "x": "ドラフトを使えば、デザインからデータベースまでアプリ全体を何度でも複製できる。各ドラフトには専用のチャットとプレビューがあり、チームで別々のバージョンに取り組んで並べて比較できる。ドラフトを承認して公開を押すまで、何も本番には反映されない。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "チームメイトやクライアントは、既存のアプリを変えずに自分のドラフトで変更を加えられる。どのドラフトにもサンプルデータが入っているので、空のページではなく、予約で埋まったカレンダーや充実した注文履歴、長い登録者リストとともにアイデアを確認できる。Lovableに別バージョンを作らせ、気に入ったものだけを残すこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "「ドラフトでさまざまな機能やレイアウト、UXを並べてテストし、最も効果的なものを残している」と、OLX GlobalのDirector of Product Design & ResearchであるShane Stuartは語る。"
-              },
-              {
-                "t": "p",
-                "x": "プロジェクトを開き、エディタ上部のプロジェクト名をクリックして「New draft」を押す。ドラフトに満足したら承認を押して変更をプロジェクトに取り込み、公開を押して本番に反映する。テスト中に追加したデータはドラフト内にとどまり、承認または削除した時点で消去されるため、実際の顧客データと混ざることはない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lovable Drafts\n团队无需上线即可探索",
-          "body": "借助Lovable Drafts，团队可在线上应用不变的情况下并行探索项目的不同版本。",
-          "mini_headline": "Lovable 推出 Drafts",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "最优秀的构建者总在实验、摆弄和微调。现在，你和团队可以并行尝试不同的想法，在选定最喜欢的方案之前看看它们在真实环境中的样子，而线上应用始终保持不变。"
-              },
-              {
-                "t": "p",
-                "x": "借助草稿，你可以随意多次复制整个应用，从设计到数据库。每个草稿都有独立的聊天和预览，团队可以分别处理不同版本并并排比较。在你接受草稿并点击发布之前，任何内容都不会上线。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "让队友或客户在各自的草稿里修改，而不改动现有应用。每个草稿都预先填好示例数据，所以你看到的不是空白页面，而是带着排满的预约日历、完整的订单记录或一长串注册名单的创意。你甚至可以让 Lovable 为你生成不同版本，再保留喜欢的那些。"
-              },
-              {
-                "t": "p",
-                "x": "“我们用草稿并排测试不同的功能、布局和 UX，然后保留效果最好的。”OLX Global 的 Director of Product Design & Research Shane Stuart 说。"
-              },
-              {
-                "t": "p",
-                "x": "打开项目，点击编辑器顶部的项目名称，再点击“New draft”。对草稿满意后，点击接受，将其更改加入项目，再点击发布让它们上线。测试时添加的数据只留在草稿中，在你接受或删除草稿时清除，因此绝不会与真实客户数据混在一起。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Con Lovable Drafts, los equipos\nexploran sin publicar",
-          "body": "Lovable Drafts permite a los equipos explorar en paralelo varias versiones de un proyecto sin tocar la app en vivo.",
-          "mini_headline": "Lovable añade Drafts",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png"
-              },
-              {
-                "t": "p",
-                "x": "Los mejores creadores experimentan, prueban y ajustan. Ahora tú y tu equipo pueden probar ideas distintas en paralelo y ver cómo se verían de verdad en el mundo real antes de elegir la favorita, mientras la app publicada sigue intacta."
-              },
-              {
-                "t": "p",
-                "x": "Con los borradores puedes copiar toda tu app, del diseño a la base de datos, tantas veces como quieras. Cada borrador tiene su propio chat y vista previa, así que tú y tu equipo pueden trabajar en versiones separadas y compararlas lado a lado. Nada se publica hasta que aceptas un borrador y pulsas publicar."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.lovable.dev/content/news/introducing-drafts/drafts-overview-2026-11-16.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Deja que un compañero o un cliente haga cambios en su propio borrador sin alterar la app existente. Cada borrador viene con datos de ejemplo, así que en lugar de una página vacía ves tu idea con un calendario de reservas lleno, un historial de pedidos completo o una larga lista de registros. Incluso puedes pedirle a Lovable que genere distintas versiones por ti y quedarte con las que te gusten."
-              },
-              {
-                "t": "p",
-                "x": "\"Usamos los borradores para probar lado a lado distintas funciones, diseños y UX, y luego quedarnos con lo que mejor funciona\", dice Shane Stuart, Director of Product Design & Research de OLX Global."
-              },
-              {
-                "t": "p",
-                "x": "Abre un proyecto, haz clic en su nombre en la parte superior del editor y pulsa \"New draft\". Cuando un borrador te convenza, pulsa aceptar para añadir sus cambios al proyecto y luego publicar para ponerlos en vivo. Los datos que añadas durante las pruebas se quedan en el borrador y se borran al aceptarlo o eliminarlo, así que nunca se mezclan con datos reales de clientes."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "astryx-v0-skill",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta Astryx,\nv0 디자인 스킬로",
-      "body": "Astryx가 v0 디자인 시스템 스킬로 컴포넌트·예시·템플릿을 빌드에 넣는다.",
-      "mini_headline": "Astryx, v0에 합류",
-      "tool": "Design Tokens",
-      "source": "Astryx (Meta)",
-      "url": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "이제 v0에서 Astryx를 디자인 시스템 스킬로 쓸 수 있다. v0가 빌드하는 동안 가이드, 컴포넌트, 예시, 템플릿이 컨텍스트로 들어간다."
-          },
-          {
-            "t": "img",
-            "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-            "cap": "검은 배경 위 Astryx 마크 옆에 놓인 v0 로고."
+            "x": "관리자는 승인한 OAuth 앱을 허용 목록에 올려 팀이 쓸 앱을 정한다. Cursor, Claude Code 같은 MCP 클라이언트도 여기에 들어간다. 관리 콘솔에 새로 생긴 Extensions 탭에서는 앱 요청을 검토하고 승인한 앱을 관리한다."
           },
           {
             "t": "p",
-            "x": "이제 v0에서 Astryx를 사용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "v0에서 디자인 시스템은 에이전트 스킬로 작동한다. 빌더가 프로젝트에 Astryx를 고르면 v0는 빌드하는 동안 그 가이드, 컴포넌트, 예시, 템플릿을 컨텍스트로 불러온다."
-          },
-          {
-            "t": "p",
-            "x": "Vercel과 함께한 이번 작업은 디자인 시스템이 사람과 에이전트를 함께 돕는다는 게 무엇인지, 시스템 지식이 창작하는 순간에도 어떻게 쓸모를 잃지 않는지 탐색하는 한 방법이다."
+            "x": "Organization·Enterprise 플랜에는 앞으로 며칠 동안 차례로 적용된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta's Astryx arrives\nin v0 as a design skill",
-          "body": "Astryx now works as a design-system skill in v0, feeding its components, examples, and templates into each build.",
-          "mini_headline": "Astryx comes to v0",
+          "headline": "Figma admins can now gate\nMCP clients like Claude Code",
+          "body": "Organization and Enterprise admins can now allowlist OAuth apps, including MCP clients, in a new Extensions tab.",
+          "mini_headline": "Figma gates MCP clients",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Astryx is now available in v0 as a design-system skill, bringing guidance, components, examples, and templates into context as v0 builds."
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "The v0 logo beside the Astryx mark on a black background."
+                "x": "Admins can use an allowlist of approved OAuth apps, including MCP clients like Cursor and Claude Code, to manage which apps their teams can use. Admins will also be able to review app requests and manage approved apps within the new Extensions tab in the admin console."
               },
               {
                 "t": "p",
-                "x": "Astryx is now available in v0."
-              },
-              {
-                "t": "p",
-                "x": "In v0, a design system is an agent skill. Builders can choose Astryx for a project, bringing its guidance, components, examples, and templates into context as v0 builds."
-              },
-              {
-                "t": "p",
-                "x": "This collaboration with Vercel is one way we are exploring what it means for a design system to support both people and agents, and how system knowledge can remain useful at the moment of creation."
+                "x": "Rolling out to Organization and Enterprise plans over the coming days."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta Astryx,\nv0 디자인 스킬로",
-          "body": "Astryx가 v0 디자인 시스템 스킬로 컴포넌트·예시·템플릿을 빌드에 넣는다.",
-          "mini_headline": "Astryx, v0에 합류",
+          "headline": "Figma 관리자, 이제\nMCP 앱 접근 통제",
+          "body": "관리자가 새 Extensions 탭에서 MCP 등 OAuth 앱 사용을 허용한다.",
+          "mini_headline": "Figma, MCP 클라이언트 통제",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "이제 v0에서 Astryx를 디자인 시스템 스킬로 쓸 수 있다. v0가 빌드하는 동안 가이드, 컴포넌트, 예시, 템플릿이 컨텍스트로 들어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "검은 배경 위 Astryx 마크 옆에 놓인 v0 로고."
+                "x": "관리자는 승인한 OAuth 앱을 허용 목록에 올려 팀이 쓸 앱을 정한다. Cursor, Claude Code 같은 MCP 클라이언트도 여기에 들어간다. 관리 콘솔에 새로 생긴 Extensions 탭에서는 앱 요청을 검토하고 승인한 앱을 관리한다."
               },
               {
                 "t": "p",
-                "x": "이제 v0에서 Astryx를 사용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "v0에서 디자인 시스템은 에이전트 스킬로 작동한다. 빌더가 프로젝트에 Astryx를 고르면 v0는 빌드하는 동안 그 가이드, 컴포넌트, 예시, 템플릿을 컨텍스트로 불러온다."
-              },
-              {
-                "t": "p",
-                "x": "Vercel과 함께한 이번 작업은 디자인 시스템이 사람과 에이전트를 함께 돕는다는 게 무엇인지, 시스템 지식이 창작하는 순간에도 어떻게 쓸모를 잃지 않는지 탐색하는 한 방법이다."
+                "x": "Organization·Enterprise 플랜에는 앞으로 며칠 동안 차례로 적용된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaのAstryx\nv0のデザインスキルに",
-          "body": "Astryxがv0のデザインシステムスキルとなり部品や例、テンプレートをビルドに供給する。",
-          "mini_headline": "Astryxがv0に登場",
+          "headline": "Figma管理者が\nMCPアプリを制限可能に",
+          "body": "管理者は新しいExtensionsタブでMCPを含むOAuthアプリを許可リスト化できる。",
+          "mini_headline": "Figma、MCPクライアントを管理",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Astryxがv0でデザインシステムスキルとして利用可能になり、v0がビルドする際にガイダンス、コンポーネント、例、テンプレートをコンテキストに取り込む。"
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "黒い背景にAstryxのマークと並ぶv0のロゴ。"
+                "x": "管理者は、CursorやClaude CodeなどのMCPクライアントを含む承認済みOAuthアプリの許可リストを使い、チームが利用できるアプリを管理できる。管理コンソールの新しいExtensionsタブでは、アプリの利用申請の確認や承認済みアプリの管理も可能になる。"
               },
               {
                 "t": "p",
-                "x": "Astryxがv0で利用可能になった。"
-              },
-              {
-                "t": "p",
-                "x": "v0では、デザインシステムはエージェントスキルである。ビルダーはプロジェクトにAstryxを選択でき、v0がビルドする際にそのガイダンス、コンポーネント、例、テンプレートがコンテキストに取り込まれる。"
-              },
-              {
-                "t": "p",
-                "x": "Vercelとのこの協業は、デザインシステムが人とエージェントの両方を支えるとはどういうことか、そしてシステムの知識が創作の瞬間にどう役立ち続けられるかを探る試みの一つだ。"
+                "x": "今後数日をかけて、OrganizationプランとEnterpriseプランに順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的Astryx\n以设计技能登陆v0",
-          "body": "Astryx现已作为设计系统技能进入v0，在每次构建中提供组件、示例和模板。",
-          "mini_headline": "Astryx 登陆 v0",
+          "headline": "Figma管理员可管控\nMCP客户端接入",
+          "body": "管理员现可在新Extensions标签页把含MCP客户端的OAuth应用列入白名单。",
+          "mini_headline": "Figma管控MCP客户端",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Astryx 现已作为设计系统技能登陆 v0，在 v0 构建时将指导原则、组件、示例和模板带入上下文。"
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "黑色背景上，v0 标志与 Astryx 标识并排。"
+                "x": "管理员可通过已批准OAuth应用的白名单（包括Cursor和Claude Code等MCP客户端）来管理团队可使用的应用。管理员还可在管理控制台新的Extensions标签页中审核应用请求并管理已批准的应用。"
               },
               {
                 "t": "p",
-                "x": "Astryx 现已登陆 v0。"
-              },
-              {
-                "t": "p",
-                "x": "在 v0 中，设计系统就是一项代理技能。构建者可以为项目选择 Astryx，让 v0 在构建时把它的指导原则、组件、示例和模板带入上下文。"
-              },
-              {
-                "t": "p",
-                "x": "与 Vercel 的这次合作，是我们探索设计系统如何同时支持人和代理、以及系统知识如何在创作当下保持有用的一种方式。"
+                "x": "该功能将在未来几天内向Organization和Enterprise方案陆续推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Astryx de Meta llega a v0\ncomo habilidad de diseño",
-          "body": "Astryx funciona en v0 como habilidad de sistema de diseño y aporta componentes, ejemplos y plantillas a cada build.",
-          "mini_headline": "Astryx llega a v0",
+          "headline": "Figma deja a sus admins filtrar\nclientes MCP como Claude Code",
+          "body": "Los admins de Organization y Enterprise ya aprueban apps OAuth, como clientes MCP, en la nueva pestaña Extensions.",
+          "mini_headline": "Figma controla clientes MCP",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Astryx ya está disponible en v0 como habilidad de sistema de diseño, y aporta pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "El logo de v0 junto a la marca de Astryx sobre fondo negro."
+                "x": "Los administradores pueden usar una lista de apps OAuth aprobadas, incluidos clientes MCP como Cursor y Claude Code, para gestionar qué apps pueden usar sus equipos. También podrán revisar solicitudes de apps y gestionar las apps aprobadas desde la nueva pestaña Extensions de la consola de administración."
               },
               {
                 "t": "p",
-                "x": "Astryx ya está disponible en v0."
-              },
-              {
-                "t": "p",
-                "x": "En v0, un sistema de diseño es una habilidad de agente. Los creadores pueden elegir Astryx para un proyecto y llevar sus pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
-              },
-              {
-                "t": "p",
-                "x": "Esta colaboración con Vercel es una de las formas en que exploramos qué significa que un sistema de diseño dé soporte tanto a personas como a agentes, y cómo el conocimiento del sistema puede seguir siendo útil en el momento de la creación."
+                "x": "El despliegue en los planes Organization y Enterprise se completará en los próximos días."
               }
             ]
           }
@@ -983,125 +121,73 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta Astryx,\nv0 디자인 스킬로",
-          "body": "Astryx가 v0 디자인 시스템 스킬로 컴포넌트·예시·템플릿을 빌드에 넣는다.",
-          "mini_headline": "Astryx, v0에 합류",
+          "headline": "Figma 관리자, 이제\nMCP 앱 접근 통제",
+          "body": "관리자는 새 Extensions 탭에서 MCP 등 OAuth 앱을 허용한다.",
+          "mini_headline": "Figma, MCP 클라이언트 통제",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "이제 v0에서 Astryx를 디자인 시스템 스킬로 쓸 수 있다. v0가 빌드하는 동안 가이드, 컴포넌트, 예시, 템플릿이 컨텍스트로 들어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "검은 배경 위 Astryx 마크 옆에 놓인 v0 로고."
+                "x": "관리자는 Cursor, Claude Code 같은 MCP 클라이언트를 포함해 승인된 OAuth 앱의 허용 목록으로 팀이 쓸 수 있는 앱을 관리할 수 있다. 관리 콘솔의 새 Extensions 탭에서 앱 요청을 검토하고 승인된 앱을 관리하는 기능도 제공된다."
               },
               {
                 "t": "p",
-                "x": "이제 v0에서 Astryx를 사용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "v0에서 디자인 시스템은 에이전트 스킬이다. 빌더는 프로젝트에 Astryx를 선택해, v0가 빌드하는 동안 그 가이드, 컴포넌트, 예시, 템플릿을 컨텍스트로 불러올 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Vercel과의 이번 협업은 디자인 시스템이 사람과 에이전트를 함께 지원한다는 것이 무엇인지, 그리고 시스템 지식이 창작의 순간에도 어떻게 쓸모를 유지할 수 있는지 탐색하는 한 방법이다."
+                "x": "Organization·Enterprise 플랜에 앞으로 며칠에 걸쳐 순차 적용된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaのAstryx\nv0のデザインスキルに",
-          "body": "Astryxがv0のデザインシステムスキルとなり部品や例、テンプレートをビルドに供給する。",
-          "mini_headline": "Astryxがv0に登場",
+          "headline": "Figma管理者が\nMCPアプリを制限可能に",
+          "body": "管理者は新しいExtensionsタブでMCPを含むOAuthアプリを許可リスト化できる。",
+          "mini_headline": "Figma、MCPクライアントを管理",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Astryxがv0でデザインシステムスキルとして利用可能になり、v0がビルドする際にガイダンス、コンポーネント、例、テンプレートをコンテキストに取り込む。"
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "黒い背景にAstryxのマークと並ぶv0のロゴ。"
+                "x": "管理者は、CursorやClaude CodeなどのMCPクライアントを含む承認済みOAuthアプリの許可リストを使い、チームが利用できるアプリを管理できる。管理コンソールの新しいExtensionsタブでは、アプリの利用申請の確認や承認済みアプリの管理も可能になる。"
               },
               {
                 "t": "p",
-                "x": "Astryxがv0で利用可能になった。"
-              },
-              {
-                "t": "p",
-                "x": "v0では、デザインシステムはエージェントスキルである。ビルダーはプロジェクトにAstryxを選択でき、v0がビルドする際にそのガイダンス、コンポーネント、例、テンプレートがコンテキストに取り込まれる。"
-              },
-              {
-                "t": "p",
-                "x": "Vercelとのこの協業は、デザインシステムが人とエージェントの両方を支えるとはどういうことか、そしてシステムの知識が創作の瞬間にどう役立ち続けられるかを探る試みの一つだ。"
+                "x": "今後数日をかけて、OrganizationプランとEnterpriseプランに順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的Astryx\n以设计技能登陆v0",
-          "body": "Astryx现已作为设计系统技能进入v0，在每次构建中提供组件、示例和模板。",
-          "mini_headline": "Astryx 登陆 v0",
+          "headline": "Figma管理员可管控\nMCP客户端接入",
+          "body": "管理员现可在新Extensions标签页把含MCP客户端的OAuth应用列入白名单。",
+          "mini_headline": "Figma管控MCP客户端",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Astryx 现已作为设计系统技能登陆 v0，在 v0 构建时将指导原则、组件、示例和模板带入上下文。"
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "黑色背景上，v0 标志与 Astryx 标识并排。"
+                "x": "管理员可通过已批准OAuth应用的白名单（包括Cursor和Claude Code等MCP客户端）来管理团队可使用的应用。管理员还可在管理控制台新的Extensions标签页中审核应用请求并管理已批准的应用。"
               },
               {
                 "t": "p",
-                "x": "Astryx 现已登陆 v0。"
-              },
-              {
-                "t": "p",
-                "x": "在 v0 中，设计系统就是一项代理技能。构建者可以为项目选择 Astryx，让 v0 在构建时把它的指导原则、组件、示例和模板带入上下文。"
-              },
-              {
-                "t": "p",
-                "x": "与 Vercel 的这次合作，是我们探索设计系统如何同时支持人和代理、以及系统知识如何在创作当下保持有用的一种方式。"
+                "x": "该功能将在未来几天内向Organization和Enterprise方案陆续推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Astryx de Meta llega a v0\ncomo habilidad de diseño",
-          "body": "Astryx funciona en v0 como habilidad de sistema de diseño y aporta componentes, ejemplos y plantillas a cada build.",
-          "mini_headline": "Astryx llega a v0",
+          "headline": "Figma deja a sus admins filtrar\nclientes MCP como Claude Code",
+          "body": "Los admins de Organization y Enterprise ya aprueban apps OAuth, como clientes MCP, en la nueva pestaña Extensions.",
+          "mini_headline": "Figma controla clientes MCP",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Astryx ya está disponible en v0 como habilidad de sistema de diseño, y aporta pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
-              },
-              {
-                "t": "img",
-                "src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0/cover.png",
-                "cap": "El logo de v0 junto a la marca de Astryx sobre fondo negro."
+                "x": "Los administradores pueden usar una lista de apps OAuth aprobadas, incluidos clientes MCP como Cursor y Claude Code, para gestionar qué apps pueden usar sus equipos. También podrán revisar solicitudes de apps y gestionar las apps aprobadas desde la nueva pestaña Extensions de la consola de administración."
               },
               {
                 "t": "p",
-                "x": "Astryx ya está disponible en v0."
-              },
-              {
-                "t": "p",
-                "x": "En v0, un sistema de diseño es una habilidad de agente. Los creadores pueden elegir Astryx para un proyecto y llevar sus pautas, componentes, ejemplos y plantillas al contexto mientras v0 construye."
-              },
-              {
-                "t": "p",
-                "x": "Esta colaboración con Vercel es una de las formas en que exploramos qué significa que un sistema de diseño dé soporte tanto a personas como a agentes, y cómo el conocimiento del sistema puede seguir siendo útil en el momento de la creación."
+                "x": "El despliegue en los planes Organization y Enterprise se completará en los próximos días."
               }
             ]
           }
@@ -1109,237 +195,541 @@
       }
     },
     {
-      "id": "gemini-notebook-sites",
+      "id": "nevercenter-silo2027-mcp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "리서치를 Gemini\nNotebook이 사이트로",
-      "body": "Gemini Notebook이 이제 자료를 트래커·대시보드 같은 사이트로 바꾼다.",
-      "mini_headline": "Gemini Notebook, 사이트 제작",
+      "headline": "Silo 2027 MCP로\nChatGPT 등과 연결",
+      "body": "JavaScript API와 MCP 서버로 외부 AI가 메시·UVs를 편집한다.",
+      "mini_headline": "Silo 2027, MCP 지원",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/11/nevercenter-releases-silo-2027/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "G-oQE1gP64U"
+          },
+          {
+            "t": "p",
+            "x": "Nevercenter가 경량 3D 모델링 소프트웨어 Silo의 2027 릴리스를 내놨다. Silo 2027.0은 사용자들이 오래 기다린 새 스크립트 에디터에 MCP 서버까지 더한 대규모 업데이트다. 이제 Claude, ChatGPT 같은 외부 AI 도구로 소프트웨어를 다룰 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "새 스크립팅 API는 Python이 아닌 JavaScript 기반이다. 100개가 넘는 함수로 “손으로 할 수 있는 작업 대부분”을 다룬다. 프리미티브 생성, 메시 수정, 선택 영역·재질·UVs·카메라 작업이 모두 들어간다. 스크립트는 Silo에 새로 내장된 Script Editor나 외부 에디터에서 작성하고, 메뉴 명령이나 별도 UI 창에서 실행한다."
+          },
+          {
+            "t": "p",
+            "x": "Silo는 MCP Server를 통합한 CG 애플리케이션 대열에 새로 합류했다. 새 JavaScript API를 쓰면 Claude나 ChatGPT 같은 외부 AI 도구로 소프트웨어를 제어할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Silo Blender Bridge는 이제 크기가 다른 면이나 에지 루프 사이는 물론 두 형상 사이에서도 작동한다. glTF 파일은 “제대로 된” PBR 재질 내보내기를 지원하고 크리스와 내장 텍스처도 보존한다. 기본 재질은 USD, FBX, Collada(DAE) 파일을 오가도 그대로 남는다."
+          },
+          {
+            "t": "p",
+            "x": "Silo 2027.0은 Windows 10+와 macOS 12.0+에서 돌아간다. Silo 영구 라이선스의 MSRP는 $159이고 Milo가 함께 들어 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Silo 2027 opens its modeler\nto Claude and ChatGPT via MCP",
+          "body": "Silo adds a JavaScript API and an MCP server so external AI tools can edit meshes, UVs, materials and cameras.",
+          "mini_headline": "Silo 2027 adds MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenter has begun its 2027 releases of Silo, its lightweight 3D modelling software. Silo 2027.0 is a significant update, adding a long-awaited new script editor, plus a MCP server, making it possible to control the software with external AI tools like Claude and ChatGPT."
+              },
+              {
+                "t": "p",
+                "x": "The new scripting API is for JavaScript rather than Python. It includes over 100 functions, covering “most of what you can do by hand”, including generating primitives, modifying meshes, and working with selections, materials, UVs and cameras. Scripts can be created in Silo’s new built-in Script Editor or in an external editor, and run from a menu command or in their own UI windows."
+              },
+              {
+                "t": "p",
+                "x": "Silo also becomes the latest CG application to integrate a MCP Server, making it possible to control the software with external AI tools like Claude or ChatGPT, using the new JavaScript API."
+              },
+              {
+                "t": "p",
+                "x": "The Silo Blender Bridge now works between faces or edge loops of different sizes and between two shapes. glTF files get “proper” PBR material export and now preserve creases and embedded textures, and the default material round-trips through USD, FBX and Collada (DAE) files."
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0 is compatible with Windows 10+ and macOS 12.0+. Perpetual licences of Silo have an MSRP of $159, which includes Milo."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Silo 2027 MCP로\nChatGPT 등과 연결",
+          "body": "JavaScript API와 MCP 서버로 외부 AI가 메시·UVs를 편집한다.",
+          "mini_headline": "Silo 2027, MCP 지원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenter가 경량 3D 모델링 소프트웨어 Silo의 2027 릴리스를 내놨다. Silo 2027.0은 사용자들이 오래 기다린 새 스크립트 에디터에 MCP 서버까지 더한 대규모 업데이트다. 이제 Claude, ChatGPT 같은 외부 AI 도구로 소프트웨어를 다룰 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "새 스크립팅 API는 Python이 아닌 JavaScript 기반이다. 100개가 넘는 함수로 “손으로 할 수 있는 작업 대부분”을 다룬다. 프리미티브 생성, 메시 수정, 선택 영역·재질·UVs·카메라 작업이 모두 들어간다. 스크립트는 Silo에 새로 내장된 Script Editor나 외부 에디터에서 작성하고, 메뉴 명령이나 별도 UI 창에서 실행한다."
+              },
+              {
+                "t": "p",
+                "x": "Silo는 MCP Server를 통합한 CG 애플리케이션 대열에 새로 합류했다. 새 JavaScript API를 쓰면 Claude나 ChatGPT 같은 외부 AI 도구로 소프트웨어를 제어할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridge는 이제 크기가 다른 면이나 에지 루프 사이는 물론 두 형상 사이에서도 작동한다. glTF 파일은 “제대로 된” PBR 재질 내보내기를 지원하고 크리스와 내장 텍스처도 보존한다. 기본 재질은 USD, FBX, Collada(DAE) 파일을 오가도 그대로 남는다."
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0은 Windows 10+와 macOS 12.0+에서 돌아간다. Silo 영구 라이선스의 MSRP는 $159이고 Milo가 함께 들어 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Silo 2027がMCPで\nChatGPTなどに開放",
+          "body": "JavaScript APIとMCPサーバーで、外部AIがメッシュやUVsを編集できる。",
+          "mini_headline": "Silo 2027がMCP対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenterは、軽量3DモデリングソフトSiloの2027年版リリースを開始した。Silo 2027.0は大型アップデートで、待望の新しいスクリプトエディターに加えMCPサーバーを搭載し、ClaudeやChatGPTなどの外部AIツールでソフトウェアを操作できるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "新しいスクリプティングAPIはPythonではなくJavaScript向けだ。100を超える関数を備えて「手作業でできることのほとんど」をカバーし、プリミティブの生成、メッシュの編集、選択範囲・マテリアル・UVs・カメラの操作を含む。スクリプトはSiloに新たに内蔵されたScript Editorまたは外部エディターで作成でき、メニューコマンドや専用のUIウィンドウから実行できる。"
+              },
+              {
+                "t": "p",
+                "x": "SiloはMCP Serverを統合した最新のCGアプリケーションとなり、新しいJavaScript APIを使ってClaudeやChatGPTなどの外部AIツールからソフトウェアを操作できる。"
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridgeは、サイズの異なる面やエッジループの間、さらに二つの形状の間でも機能するようになった。glTFファイルは「適切な」PBRマテリアルの書き出しに対応し、クリースと埋め込みテクスチャを保持するようになった。デフォルトマテリアルはUSD、FBX、Collada（DAE）ファイルを往復しても維持される。"
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0はWindows 10+とmacOS 12.0+に対応する。Siloの永続ライセンスのMSRPは$159で、Miloが含まれる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Silo 2027经MCP\n向ChatGPT等开放",
+          "body": "Silo新增JavaScript API和MCP服务器，外部AI可编辑网格与UVs等。",
+          "mini_headline": "Silo 2027支持MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenter已开始发布其轻量级3D建模软件Silo的2027版本。Silo 2027.0是一次重要更新，新增了期待已久的脚本编辑器以及MCP服务器，可通过Claude和ChatGPT等外部AI工具控制该软件。"
+              },
+              {
+                "t": "p",
+                "x": "新的脚本API基于JavaScript而非Python，包含100多个函数，涵盖“手动能完成的大部分操作”，包括生成基本体、修改网格，以及处理选区、材质、UVs和相机。脚本可在Silo新内置的Script Editor或外部编辑器中编写，并通过菜单命令或独立的UI窗口运行。"
+              },
+              {
+                "t": "p",
+                "x": "Silo也成为最新集成MCP Server的CG应用，可借助新的JavaScript API，通过Claude或ChatGPT等外部AI工具控制该软件。"
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridge现在可在不同大小的面或边循环之间以及两个形状之间使用。glTF文件获得“真正的”PBR材质导出，并能保留折痕和嵌入纹理；默认材质可在USD、FBX和Collada（DAE）文件之间往返保持不变。"
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0兼容Windows 10+和macOS 12.0+。Silo永久许可证的MSRP为$159，并包含Milo。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Silo 2027 abre su modelador\na Claude y ChatGPT vía MCP",
+          "body": "Silo suma una API de JavaScript y un servidor MCP para que la AI externa edite mallas, UVs, materiales y cámaras.",
+          "mini_headline": "Silo 2027 suma MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenter ha iniciado los lanzamientos 2027 de Silo, su software ligero de modelado 3D. Silo 2027.0 es una actualización importante que añade un esperado nuevo editor de scripts y un servidor MCP, lo que permite controlar el software con herramientas de AI externas como Claude y ChatGPT."
+              },
+              {
+                "t": "p",
+                "x": "La nueva API de scripting es para JavaScript en lugar de Python. Incluye más de 100 funciones que cubren “la mayor parte de lo que puedes hacer a mano”, como generar primitivas, modificar mallas y trabajar con selecciones, materiales, UVs y cámaras. Los scripts pueden crearse en el nuevo Script Editor integrado de Silo o en un editor externo, y ejecutarse desde un comando de menú o en sus propias ventanas de UI."
+              },
+              {
+                "t": "p",
+                "x": "Silo se convierte además en la aplicación CG más reciente en integrar un MCP Server, lo que permite controlar el software con herramientas de AI externas como Claude o ChatGPT mediante la nueva API de JavaScript."
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridge ahora funciona entre caras o bucles de aristas de distintos tamaños y entre dos formas. Los archivos glTF obtienen una exportación de materiales PBR “adecuada” y ahora conservan los pliegues y las texturas incrustadas, y el material predeterminado se mantiene en los viajes de ida y vuelta por archivos USD, FBX y Collada (DAE)."
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0 es compatible con Windows 10+ y macOS 12.0+. Las licencias perpetuas de Silo tienen un MSRP de $159, que incluye Milo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Silo 2027 MCP로\nChatGPT 등과 연결",
+          "body": "JavaScript API와 MCP 서버로 외부 AI가 메시·UVs를 편집한다.",
+          "mini_headline": "Silo 2027, MCP 지원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenter가 경량 3D 모델링 소프트웨어 Silo의 2027 릴리스를 시작했다. Silo 2027.0은 오랫동안 기다려 온 새 스크립트 에디터와 MCP 서버를 더한 대규모 업데이트로, Claude와 ChatGPT 같은 외부 AI 도구로 소프트웨어를 제어할 수 있게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "새 스크립팅 API는 Python이 아닌 JavaScript 기반이다. 100개가 넘는 함수를 갖춰 “손으로 할 수 있는 작업 대부분”을 다루며, 프리미티브 생성, 메시 수정, 선택 영역·재질·UVs·카메라 작업을 포함한다. 스크립트는 Silo에 새로 내장된 Script Editor나 외부 에디터에서 작성할 수 있고, 메뉴 명령이나 별도 UI 창에서 실행할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Silo는 MCP Server를 통합한 최신 CG 애플리케이션이 됐으며, 새 JavaScript API를 이용해 Claude나 ChatGPT 같은 외부 AI 도구로 소프트웨어를 제어할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridge는 이제 크기가 다른 면이나 에지 루프 사이, 그리고 두 형상 사이에서도 작동한다. glTF 파일은 “제대로 된” PBR 재질 내보내기를 지원하고 이제 크리스와 내장 텍스처를 보존하며, 기본 재질은 USD, FBX, Collada(DAE) 파일을 오가도 그대로 유지된다."
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0은 Windows 10+와 macOS 12.0+를 지원한다. Silo 영구 라이선스의 MSRP는 $159이며 Milo가 포함된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Silo 2027がMCPで\nChatGPTなどに開放",
+          "body": "JavaScript APIとMCPサーバーで、外部AIがメッシュやUVsを編集できる。",
+          "mini_headline": "Silo 2027がMCP対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenterは、軽量3DモデリングソフトSiloの2027年版リリースを開始した。Silo 2027.0は大型アップデートで、待望の新しいスクリプトエディターに加えMCPサーバーを搭載し、ClaudeやChatGPTなどの外部AIツールでソフトウェアを操作できるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "新しいスクリプティングAPIはPythonではなくJavaScript向けだ。100を超える関数を備えて「手作業でできることのほとんど」をカバーし、プリミティブの生成、メッシュの編集、選択範囲・マテリアル・UVs・カメラの操作を含む。スクリプトはSiloに新たに内蔵されたScript Editorまたは外部エディターで作成でき、メニューコマンドや専用のUIウィンドウから実行できる。"
+              },
+              {
+                "t": "p",
+                "x": "SiloはMCP Serverを統合した最新のCGアプリケーションとなり、新しいJavaScript APIを使ってClaudeやChatGPTなどの外部AIツールからソフトウェアを操作できる。"
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridgeは、サイズの異なる面やエッジループの間、さらに二つの形状の間でも機能するようになった。glTFファイルは「適切な」PBRマテリアルの書き出しに対応し、クリースと埋め込みテクスチャを保持するようになった。デフォルトマテリアルはUSD、FBX、Collada（DAE）ファイルを往復しても維持される。"
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0はWindows 10+とmacOS 12.0+に対応する。Siloの永続ライセンスのMSRPは$159で、Miloが含まれる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Silo 2027经MCP\n向ChatGPT等开放",
+          "body": "Silo新增JavaScript API和MCP服务器，外部AI可编辑网格与UVs等。",
+          "mini_headline": "Silo 2027支持MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenter已开始发布其轻量级3D建模软件Silo的2027版本。Silo 2027.0是一次重要更新，新增了期待已久的脚本编辑器以及MCP服务器，可通过Claude和ChatGPT等外部AI工具控制该软件。"
+              },
+              {
+                "t": "p",
+                "x": "新的脚本API基于JavaScript而非Python，包含100多个函数，涵盖“手动能完成的大部分操作”，包括生成基本体、修改网格，以及处理选区、材质、UVs和相机。脚本可在Silo新内置的Script Editor或外部编辑器中编写，并通过菜单命令或独立的UI窗口运行。"
+              },
+              {
+                "t": "p",
+                "x": "Silo也成为最新集成MCP Server的CG应用，可借助新的JavaScript API，通过Claude或ChatGPT等外部AI工具控制该软件。"
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridge现在可在不同大小的面或边循环之间以及两个形状之间使用。glTF文件获得“真正的”PBR材质导出，并能保留折痕和嵌入纹理；默认材质可在USD、FBX和Collada（DAE）文件之间往返保持不变。"
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0兼容Windows 10+和macOS 12.0+。Silo永久许可证的MSRP为$159，并包含Milo。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Silo 2027 abre su modelador\na Claude y ChatGPT vía MCP",
+          "body": "Silo suma una API de JavaScript y un servidor MCP para que la AI externa edite mallas, UVs, materiales y cámaras.",
+          "mini_headline": "Silo 2027 suma MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "G-oQE1gP64U"
+              },
+              {
+                "t": "p",
+                "x": "Nevercenter ha iniciado los lanzamientos 2027 de Silo, su software ligero de modelado 3D. Silo 2027.0 es una actualización importante que añade un esperado nuevo editor de scripts y un servidor MCP, lo que permite controlar el software con herramientas de AI externas como Claude y ChatGPT."
+              },
+              {
+                "t": "p",
+                "x": "La nueva API de scripting es para JavaScript en lugar de Python. Incluye más de 100 funciones que cubren “la mayor parte de lo que puedes hacer a mano”, como generar primitivas, modificar mallas y trabajar con selecciones, materiales, UVs y cámaras. Los scripts pueden crearse en el nuevo Script Editor integrado de Silo o en un editor externo, y ejecutarse desde un comando de menú o en sus propias ventanas de UI."
+              },
+              {
+                "t": "p",
+                "x": "Silo se convierte además en la aplicación CG más reciente en integrar un MCP Server, lo que permite controlar el software con herramientas de AI externas como Claude o ChatGPT mediante la nueva API de JavaScript."
+              },
+              {
+                "t": "p",
+                "x": "Silo Blender Bridge ahora funciona entre caras o bucles de aristas de distintos tamaños y entre dos formas. Los archivos glTF obtienen una exportación de materiales PBR “adecuada” y ahora conservan los pliegues y las texturas incrustadas, y el material predeterminado se mantiene en los viajes de ida y vuelta por archivos USD, FBX y Collada (DAE)."
+              },
+              {
+                "t": "p",
+                "x": "Silo 2027.0 es compatible con Windows 10+ y macOS 12.0+. Las licencias perpetuas de Silo tienen un MSRP de $159, que incluye Milo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "mai-image-27-microsoft",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "MAI Image 2.7\n객체 단위 이미지 편집",
+      "body": "객체 색·재질·위치를 고치고 이미지 편집 평가에선 1,215 Elo로 선두에 섰다.",
+      "mini_headline": "MAI Image 2.7 출시",
       "tool": "AI Workflow",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "source": "Microsoft AI",
+      "url": "https://microsoft.ai/news/introducing-mai-image-2-7/",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+            "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
           },
           {
             "t": "p",
-            "x": "오늘부터 Gemini Notebook은 자료를 인터랙티브 사이트로 바꿔 복잡한 정보를 빠르게 이해하도록 돕는다."
+            "x": "오늘 MAI Image 2.7과 MAI Image 2.7 Flash를 공개한다. 두 모델은 주요 경쟁 모델보다 훨씬 적은 비용으로 최첨단 이미지 생성과 편집 성능을 낸다. Flash 모델 위에서 이미지를 만들고 편집하고 다듬는 대화형 작업 공간 Canvas도 함께 선보인다."
           },
           {
             "t": "p",
-            "x": "Gemini Notebook 채팅에 “make me a site”라고 입력한 뒤 업무나 공부에 필요한 결과물을 설명하면 된다. 이를테면 다음과 같다."
+            "x": "MAI Image 2.7은 Artificial Analysis 이미지 편집 부문 1위에 올랐고, GPT Image 2.6 Sunburst (max)를 오분의 일 비용으로 앞질렀다. 2026년 11월 16일 기준 5,478표에서 1,215 Elo를 기록했다. Microsoft Foundry에서 퍼블릭 프리뷰로 쓸 수 있고, 가격은 MAI Image 2.7이 이미지 1,000장당 약 $35, Flash가 1,000장당 약 $10이다."
           },
           {
             "t": "p",
-            "x": "시험 준비를 돕는 인터랙티브 주기율표나 역사 연표 같은 시각 자료. 분기별 매출 실적 같은 데이터를 살펴보는 인터랙티브 대시보드. 할 일과 마감일을 정리하는 프로젝트 관리 트래커."
+            "x": "이미지의 나머지 부분은 그대로 두고 객체의 색, 재질, 위치만 바꿀 수 있다. MAI Image 2.7은 편집을 거듭해도 시각적 일관성을 지킨다. 두 모델 모두 투명 배경을 지원해 바로 쓸 수 있는 제품 이미지, 로고, 아이콘, 일러스트레이션을 만든다."
           },
           {
             "t": "p",
-            "x": "완성되면 “Open in a new tab”을 눌러 직접 쓰거나 다른 사람과 공유하면 된다."
-          },
-          {
-            "t": "p",
-            "x": "이 기능은 오늘부터 웹에서 Google Workspace 구독자를 포함한 전 세계 Gemini Notebook 사용자(18+)에게 배포되고, 모바일 앱에는 곧 나온다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+            "x": "MAI Labs의 Canvas에서는 프롬프트나 스케치로 시작해 거친 아이디어를 완성도 높은 다이어그램으로 다듬고, 이미지의 어느 부분이든 골라 교체·이동하거나 스타일을 바꿀 수 있다. MAI Image는 이제 Bing Image Creator를 구동하는 기본 모델 제품군이며, Figma Weave, Minute (Sports Illustrated), Wirestock, Manus도 이 모델을 쓴다. 두 모델은 Microsoft Foundry와 함께 fal, Genspark, OpenRouter, Vercel 등 파트너에서도 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini Notebook turns research\ninto interactive sites",
-          "body": "Gemini Notebook can now turn research and sources into interactive sites like project trackers and visual dashboards.",
-          "mini_headline": "Gemini Notebook builds sites",
+          "headline": "MAI Image 2.7 brings\nobject-level image edits",
+          "body": "The model edits an object's color, material or position and leads Artificial Analysis image editing at 1,215 Elo.",
+          "mini_headline": "MAI Image 2.7 launches",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "Starting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information."
+                "x": "Today we’re introducing MAI Image 2.7 and MAI Image 2.7 Flash, delivering frontier image generation and editing at a fraction of the cost of the leading competitors. We’re also launching Canvas, a new interactive workspace powered by our Flash model to create, edit, and refine images."
               },
               {
                 "t": "p",
-                "x": "To get started, simply type “make me a site” in your Gemini Notebook chat along with a description of what you want to build for work or study, such as:"
+                "x": "MAI Image 2.7 takes the #1 spot on Artificial Analysis image editing, outperforming GPT Image 2.6 Sunburst (max) at just one-fifth of the cost. As of November 16, 2026, it scores 1,215 Elo across 5,478 votes. Available in public preview on Microsoft Foundry, MAI Image 2.7 costs ~$35 per 1,000 images while Flash costs ~$10 per 1,000 images."
               },
               {
                 "t": "p",
-                "x": "Visual explainers to help you prepare for exams, like an interactive periodic table or a historical timeline. Interactive dashboards to explore your data, such as quarterly sales performance. Project management trackers to outline your tasks and deadlines."
+                "x": "Change an object’s color, material, or position without disrupting the rest of an image. MAI Image 2.7 preserves visual consistency across successive edits. Both models support transparent backgrounds for ready-to-use product images, logos, icons, and illustrations."
               },
               {
                 "t": "p",
-                "x": "Once built, select “Open in a new tab” to interact with it, or share it with others."
-              },
-              {
-                "t": "p",
-                "x": "This capability is rolling out globally on the web today for Gemini Notebook users (18+), including Google Workspace subscribers, and is coming soon to the mobile app."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "Canvas, in MAI Labs, lets you start with a prompt or sketch, turn rough ideas into polished diagrams, then select any part of an image to replace, move, or restyle. MAI Image is now the default model family powering Bing Image Creator, and Figma Weave, Minute (Sports Illustrated), Wirestock and Manus are also working with it. Both models are available through Microsoft Foundry and partners including fal, Genspark, OpenRouter, and Vercel."
               }
             ]
           }
         },
         "ko": {
-          "headline": "리서치를 Gemini\nNotebook이 사이트로",
-          "body": "Gemini Notebook이 이제 자료를 트래커·대시보드 같은 사이트로 바꾼다.",
-          "mini_headline": "Gemini Notebook, 사이트 제작",
+          "headline": "MAI Image 2.7\n객체 단위 이미지 편집",
+          "body": "객체 색·재질·위치를 고치고 이미지 편집 평가에선 1,215 Elo로 선두에 섰다.",
+          "mini_headline": "MAI Image 2.7 출시",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "오늘부터 Gemini Notebook은 자료를 인터랙티브 사이트로 바꿔 복잡한 정보를 빠르게 이해하도록 돕는다."
+                "x": "오늘 MAI Image 2.7과 MAI Image 2.7 Flash를 공개한다. 두 모델은 주요 경쟁 모델보다 훨씬 적은 비용으로 최첨단 이미지 생성과 편집 성능을 낸다. Flash 모델 위에서 이미지를 만들고 편집하고 다듬는 대화형 작업 공간 Canvas도 함께 선보인다."
               },
               {
                 "t": "p",
-                "x": "Gemini Notebook 채팅에 “make me a site”라고 입력한 뒤 업무나 공부에 필요한 결과물을 설명하면 된다. 이를테면 다음과 같다."
+                "x": "MAI Image 2.7은 Artificial Analysis 이미지 편집 부문 1위에 올랐고, GPT Image 2.6 Sunburst (max)를 오분의 일 비용으로 앞질렀다. 2026년 11월 16일 기준 5,478표에서 1,215 Elo를 기록했다. Microsoft Foundry에서 퍼블릭 프리뷰로 쓸 수 있고, 가격은 MAI Image 2.7이 이미지 1,000장당 약 $35, Flash가 1,000장당 약 $10이다."
               },
               {
                 "t": "p",
-                "x": "시험 준비를 돕는 인터랙티브 주기율표나 역사 연표 같은 시각 자료. 분기별 매출 실적 같은 데이터를 살펴보는 인터랙티브 대시보드. 할 일과 마감일을 정리하는 프로젝트 관리 트래커."
+                "x": "이미지의 나머지 부분은 그대로 두고 객체의 색, 재질, 위치만 바꿀 수 있다. MAI Image 2.7은 편집을 거듭해도 시각적 일관성을 지킨다. 두 모델 모두 투명 배경을 지원해 바로 쓸 수 있는 제품 이미지, 로고, 아이콘, 일러스트레이션을 만든다."
               },
               {
                 "t": "p",
-                "x": "완성되면 “Open in a new tab”을 눌러 직접 쓰거나 다른 사람과 공유하면 된다."
-              },
-              {
-                "t": "p",
-                "x": "이 기능은 오늘부터 웹에서 Google Workspace 구독자를 포함한 전 세계 Gemini Notebook 사용자(18+)에게 배포되고, 모바일 앱에는 곧 나온다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "MAI Labs의 Canvas에서는 프롬프트나 스케치로 시작해 거친 아이디어를 완성도 높은 다이어그램으로 다듬고, 이미지의 어느 부분이든 골라 교체·이동하거나 스타일을 바꿀 수 있다. MAI Image는 이제 Bing Image Creator를 구동하는 기본 모델 제품군이며, Figma Weave, Minute (Sports Illustrated), Wirestock, Manus도 이 모델을 쓴다. 두 모델은 Microsoft Foundry와 함께 fal, Genspark, OpenRouter, Vercel 등 파트너에서도 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "リサーチをGemini\nNotebookがサイト化",
-          "body": "Gemini Notebookが研究資料を対話型サイトに変換できるようになった。",
-          "mini_headline": "Gemini Notebookがサイト作成",
+          "headline": "MAI Image 2.7が\n物体単位の画像編集",
+          "body": "物体の色・素材・位置を編集でき、画像編集評価で1,215 Eloの首位に立つ。",
+          "mini_headline": "MAI Image 2.7が登場",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "本日から、Gemini Notebookは資料をインタラクティブなサイトに変え、複雑な情報をすばやく把握できるよう手助けする。"
+                "x": "本日、MAI Image 2.7とMAI Image 2.7 Flashを発表する。主要な競合よりはるかに低いコストで、最先端の画像生成と編集を提供する。あわせて、Flashモデルを基盤に画像の作成・編集・調整を行える新しいインタラクティブなワークスペース、Canvasも提供を開始する。"
               },
               {
                 "t": "p",
-                "x": "始めるには、Gemini Notebookのチャットに「make me a site」と入力し、仕事や学習のために作りたいものを説明するだけだ。たとえば次のようなものがある。"
+                "x": "MAI Image 2.7はArtificial Analysisの画像編集部門で1位を獲得し、GPT Image 2.6 Sunburst (max)を五分の一のコストで上回った。2026年11月16日時点で、5,478票に基づき1,215 Eloを記録している。Microsoft Foundryでパブリックプレビューとして提供され、価格はMAI Image 2.7が画像1,000枚あたり約$35、Flashが1,000枚あたり約$10だ。"
               },
               {
                 "t": "p",
-                "x": "インタラクティブな周期表や歴史年表など、試験対策に役立つ図解。四半期の売上実績など、データを探索できるインタラクティブなダッシュボード。タスクと締め切りを整理するプロジェクト管理トラッカー。"
+                "x": "画像のほかの部分を崩さずに、物体の色、素材、位置を変更できる。MAI Image 2.7は連続した編集でも視覚的な一貫性を保つ。両モデルとも透明背景に対応し、そのまま使える製品画像、ロゴ、アイコン、イラストを作成できる。"
               },
               {
                 "t": "p",
-                "x": "完成したら「Open in a new tab」を選んで操作するか、他の人と共有できる。"
-              },
-              {
-                "t": "p",
-                "x": "この機能は本日、Google Workspaceの契約者を含むGemini Notebookユーザー(18+)向けにウェブ版で全世界に順次提供が始まり、モバイルアプリにも近く対応する。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "MAI LabsのCanvasでは、プロンプトやスケッチから始めて大まかなアイデアを洗練された図に仕上げ、画像の任意の部分を選んで置き換え、移動、スタイル変更ができる。MAI Imageは現在Bing Image Creatorを支えるデフォルトのモデルファミリーであり、Figma Weave、Minute (Sports Illustrated)、Wirestock、Manusも同モデルを活用している。両モデルはMicrosoft Foundryのほか、fal、Genspark、OpenRouter、Vercelなどのパートナー経由で利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "研究资料经Gemini\nNotebook变互动网站",
-          "body": "Gemini Notebook现在能把研究和资料变成项目追踪器、可视化仪表板等互动网站。",
-          "mini_headline": "Gemini Notebook 可建网站",
+          "headline": "MAI Image 2.7\n实现对象级图像编辑",
+          "body": "该模型可编辑物体的颜色、材质或位置，以1,215 Elo领跑图像编辑榜。",
+          "mini_headline": "MAI Image 2.7发布",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "从今天起，Gemini Notebook 可以把你的资料转化为互动网站，帮你快速理清复杂信息。"
+                "x": "今天我们推出MAI Image 2.7和MAI Image 2.7 Flash，以远低于主要竞争对手的成本提供前沿的图像生成与编辑能力。我们还推出了Canvas，这是一个由Flash模型驱动的全新交互式工作区，可用于创建、编辑和完善图像。"
               },
               {
                 "t": "p",
-                "x": "开始使用时，只需在 Gemini Notebook 聊天中输入“make me a site”，并描述你想为工作或学习构建的内容，例如："
+                "x": "MAI Image 2.7在Artificial Analysis图像编辑榜上位列第1，以仅五分之一的成本超越GPT Image 2.6 Sunburst (max)。截至2026年11月16日，它在5,478票中获得1,215 Elo。MAI Image 2.7已在Microsoft Foundry上公开预览，每1,000张图像约$35，Flash每1,000张图像约$10。"
               },
               {
                 "t": "p",
-                "x": "帮助备考的可视化讲解，如互动元素周期表或历史时间线。用于探索数据的互动仪表板，如季度销售业绩。梳理任务和截止日期的项目管理追踪器。"
+                "x": "可更改物体的颜色、材质或位置，而不影响图像的其余部分。MAI Image 2.7在连续编辑中保持视觉一致性。两款模型均支持透明背景，可直接生成可用的产品图、标志、图标和插画。"
               },
               {
                 "t": "p",
-                "x": "建好后，选择“Open in a new tab”即可与之互动，或分享给他人。"
-              },
-              {
-                "t": "p",
-                "x": "该功能今天起在网页端面向全球 Gemini Notebook 用户（18+）推出，包括 Google Workspace 订阅用户，并将很快登陆移动应用。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "MAI Labs中的Canvas可让你从提示词或草图开始，将粗略想法变成精致的图表，再选中图像的任意部分进行替换、移动或重新设计风格。MAI Image现已成为驱动Bing Image Creator的默认模型系列，Figma Weave、Minute (Sports Illustrated)、Wirestock和Manus也在使用它。两款模型均可通过Microsoft Foundry以及fal、Genspark、OpenRouter和Vercel等合作伙伴获取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Notebook convierte\nla investigación en sitios",
-          "body": "Gemini Notebook ya convierte investigación y fuentes en sitios interactivos como paneles y gestores de proyectos.",
-          "mini_headline": "Gemini Notebook crea sitios",
+          "headline": "MAI Image 2.7 trae ediciones\nde imagen a nivel de objeto",
+          "body": "El modelo edita el color, material o posición de un objeto y lidera la edición en Artificial Analysis con 1,215 Elo.",
+          "mini_headline": "Llega MAI Image 2.7",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "Desde hoy, Gemini Notebook puede convertir tus fuentes en sitios interactivos para ayudarte a entender rápidamente información compleja."
+                "x": "Hoy presentamos MAI Image 2.7 y MAI Image 2.7 Flash, que ofrecen generación y edición de imágenes de frontera a una fracción del costo de los principales competidores. También lanzamos Canvas, un nuevo espacio de trabajo interactivo impulsado por nuestro modelo Flash para crear, editar y refinar imágenes."
               },
               {
                 "t": "p",
-                "x": "Para empezar, basta con escribir “make me a site” en el chat de Gemini Notebook junto con una descripción de lo que quieres crear para el trabajo o los estudios, por ejemplo:"
+                "x": "MAI Image 2.7 ocupa el puesto #1 en edición de imágenes de Artificial Analysis y supera a GPT Image 2.6 Sunburst (max) con solo una quinta parte del costo. Al 16 de noviembre de 2026, registra 1,215 Elo con 5,478 votos. Disponible en vista previa pública en Microsoft Foundry, MAI Image 2.7 cuesta ~$35 por cada 1,000 imágenes, mientras que Flash cuesta ~$10 por cada 1,000 imágenes."
               },
               {
                 "t": "p",
-                "x": "Explicaciones visuales para preparar exámenes, como una tabla periódica interactiva o una línea de tiempo histórica. Paneles interactivos para explorar tus datos, como el rendimiento de ventas trimestral. Gestores de proyectos para organizar tus tareas y plazos."
+                "x": "Cambie el color, el material o la posición de un objeto sin alterar el resto de la imagen. MAI Image 2.7 mantiene la coherencia visual en ediciones sucesivas. Ambos modelos admiten fondos transparentes para obtener imágenes de producto, logotipos, iconos e ilustraciones listos para usar."
               },
               {
                 "t": "p",
-                "x": "Una vez creado, selecciona “Open in a new tab” para interactuar con él o compártelo con otras personas."
-              },
-              {
-                "t": "p",
-                "x": "Esta función empieza a llegar hoy a nivel mundial en la web para los usuarios de Gemini Notebook (18+), incluidos los suscriptores de Google Workspace, y pronto estará en la app móvil."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "Canvas, en MAI Labs, permite empezar con un prompt o un boceto, convertir ideas preliminares en diagramas pulidos y luego seleccionar cualquier parte de una imagen para reemplazarla, moverla o cambiar su estilo. MAI Image es ahora la familia de modelos predeterminada de Bing Image Creator, y Figma Weave, Minute (Sports Illustrated), Wirestock y Manus también trabajan con ella. Ambos modelos están disponibles en Microsoft Foundry y a través de socios como fal, Genspark, OpenRouter y Vercel."
               }
             ]
           }
@@ -1347,153 +737,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "리서치를 Gemini\nNotebook이 사이트로",
-          "body": "Gemini Notebook이 이제 자료를 트래커·대시보드 같은 사이트로 바꾼다.",
-          "mini_headline": "Gemini Notebook, 사이트 제작",
+          "headline": "MAI Image 2.7\n객체 단위 이미지 편집",
+          "body": "객체 색·재질·위치를 고치며 이미지 편집 평가에서 1,215 Elo로 선두다.",
+          "mini_headline": "MAI Image 2.7 출시",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "오늘부터 Gemini Notebook은 자료를 인터랙티브 사이트로 바꿔 복잡한 정보를 빠르게 이해하도록 돕는다."
+                "x": "오늘 MAI Image 2.7과 MAI Image 2.7 Flash를 공개한다. 주요 경쟁 모델보다 훨씬 낮은 비용으로 최첨단 이미지 생성과 편집을 제공한다. 또한 Flash 모델을 기반으로 이미지를 만들고 편집하고 다듬는 새로운 대화형 작업 공간 Canvas도 선보인다."
               },
               {
                 "t": "p",
-                "x": "시작하려면 Gemini Notebook 채팅에 “make me a site”라고 입력하고, 업무나 학습을 위해 만들고 싶은 것을 설명하면 된다. 예를 들면 다음과 같다."
+                "x": "MAI Image 2.7은 Artificial Analysis 이미지 편집 부문 1위에 올라, GPT Image 2.6 Sunburst (max)를 오분의 일 비용으로 앞섰다. 2026년 11월 16일 기준 5,478표에서 1,215 Elo를 기록했다. Microsoft Foundry에서 퍼블릭 프리뷰로 제공되며, 가격은 MAI Image 2.7이 이미지 1,000장당 약 $35, Flash가 1,000장당 약 $10이다."
               },
               {
                 "t": "p",
-                "x": "인터랙티브 주기율표나 역사 연표처럼 시험 준비를 돕는 시각 자료. 분기별 매출 실적처럼 데이터를 탐색하는 인터랙티브 대시보드. 할 일과 마감일을 정리하는 프로젝트 관리 트래커."
+                "x": "이미지의 나머지 부분을 흐트러뜨리지 않고 객체의 색, 재질, 위치를 바꿀 수 있다. MAI Image 2.7은 연속 편집에서도 시각적 일관성을 유지한다. 두 모델 모두 투명 배경을 지원해 바로 쓸 수 있는 제품 이미지, 로고, 아이콘, 일러스트레이션을 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "완성되면 “Open in a new tab”을 선택해 직접 사용하거나 다른 사람과 공유할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 기능은 오늘부터 Google Workspace 구독자를 포함한 Gemini Notebook 사용자(18+)에게 웹에서 전 세계로 배포되며, 모바일 앱에도 곧 제공된다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "MAI Labs의 Canvas에서는 프롬프트나 스케치로 시작해 거친 아이디어를 완성도 높은 다이어그램으로 다듬고, 이미지의 어느 부분이든 선택해 교체·이동·스타일 변경을 할 수 있다. MAI Image는 이제 Bing Image Creator를 구동하는 기본 모델 제품군이며, Figma Weave, Minute (Sports Illustrated), Wirestock, Manus도 이 모델을 활용하고 있다. 두 모델은 Microsoft Foundry와 fal, Genspark, OpenRouter, Vercel 등 파트너를 통해 제공된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "リサーチをGemini\nNotebookがサイト化",
-          "body": "Gemini Notebookが研究資料を対話型サイトに変換できるようになった。",
-          "mini_headline": "Gemini Notebookがサイト作成",
+          "headline": "MAI Image 2.7が\n物体単位の画像編集",
+          "body": "物体の色・素材・位置を編集でき、画像編集評価で1,215 Eloの首位に立つ。",
+          "mini_headline": "MAI Image 2.7が登場",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "本日から、Gemini Notebookは資料をインタラクティブなサイトに変え、複雑な情報をすばやく把握できるよう手助けする。"
+                "x": "本日、MAI Image 2.7とMAI Image 2.7 Flashを発表する。主要な競合よりはるかに低いコストで、最先端の画像生成と編集を提供する。あわせて、Flashモデルを基盤に画像の作成・編集・調整を行える新しいインタラクティブなワークスペース、Canvasも提供を開始する。"
               },
               {
                 "t": "p",
-                "x": "始めるには、Gemini Notebookのチャットに「make me a site」と入力し、仕事や学習のために作りたいものを説明するだけだ。たとえば次のようなものがある。"
+                "x": "MAI Image 2.7はArtificial Analysisの画像編集部門で1位を獲得し、GPT Image 2.6 Sunburst (max)を五分の一のコストで上回った。2026年11月16日時点で、5,478票に基づき1,215 Eloを記録している。Microsoft Foundryでパブリックプレビューとして提供され、価格はMAI Image 2.7が画像1,000枚あたり約$35、Flashが1,000枚あたり約$10だ。"
               },
               {
                 "t": "p",
-                "x": "インタラクティブな周期表や歴史年表など、試験対策に役立つ図解。四半期の売上実績など、データを探索できるインタラクティブなダッシュボード。タスクと締め切りを整理するプロジェクト管理トラッカー。"
+                "x": "画像のほかの部分を崩さずに、物体の色、素材、位置を変更できる。MAI Image 2.7は連続した編集でも視覚的な一貫性を保つ。両モデルとも透明背景に対応し、そのまま使える製品画像、ロゴ、アイコン、イラストを作成できる。"
               },
               {
                 "t": "p",
-                "x": "完成したら「Open in a new tab」を選んで操作するか、他の人と共有できる。"
-              },
-              {
-                "t": "p",
-                "x": "この機能は本日、Google Workspaceの契約者を含むGemini Notebookユーザー(18+)向けにウェブ版で全世界に順次提供が始まり、モバイルアプリにも近く対応する。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "MAI LabsのCanvasでは、プロンプトやスケッチから始めて大まかなアイデアを洗練された図に仕上げ、画像の任意の部分を選んで置き換え、移動、スタイル変更ができる。MAI Imageは現在Bing Image Creatorを支えるデフォルトのモデルファミリーであり、Figma Weave、Minute (Sports Illustrated)、Wirestock、Manusも同モデルを活用している。両モデルはMicrosoft Foundryのほか、fal、Genspark、OpenRouter、Vercelなどのパートナー経由で利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "研究资料经Gemini\nNotebook变互动网站",
-          "body": "Gemini Notebook现在能把研究和资料变成项目追踪器、可视化仪表板等互动网站。",
-          "mini_headline": "Gemini Notebook 可建网站",
+          "headline": "MAI Image 2.7\n实现对象级图像编辑",
+          "body": "该模型可编辑物体的颜色、材质或位置，以1,215 Elo领跑图像编辑榜。",
+          "mini_headline": "MAI Image 2.7发布",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "从今天起，Gemini Notebook 可以把你的资料转化为互动网站，帮你快速理清复杂信息。"
+                "x": "今天我们推出MAI Image 2.7和MAI Image 2.7 Flash，以远低于主要竞争对手的成本提供前沿的图像生成与编辑能力。我们还推出了Canvas，这是一个由Flash模型驱动的全新交互式工作区，可用于创建、编辑和完善图像。"
               },
               {
                 "t": "p",
-                "x": "开始使用时，只需在 Gemini Notebook 聊天中输入“make me a site”，并描述你想为工作或学习构建的内容，例如："
+                "x": "MAI Image 2.7在Artificial Analysis图像编辑榜上位列第1，以仅五分之一的成本超越GPT Image 2.6 Sunburst (max)。截至2026年11月16日，它在5,478票中获得1,215 Elo。MAI Image 2.7已在Microsoft Foundry上公开预览，每1,000张图像约$35，Flash每1,000张图像约$10。"
               },
               {
                 "t": "p",
-                "x": "帮助备考的可视化讲解，如互动元素周期表或历史时间线。用于探索数据的互动仪表板，如季度销售业绩。梳理任务和截止日期的项目管理追踪器。"
+                "x": "可更改物体的颜色、材质或位置，而不影响图像的其余部分。MAI Image 2.7在连续编辑中保持视觉一致性。两款模型均支持透明背景，可直接生成可用的产品图、标志、图标和插画。"
               },
               {
                 "t": "p",
-                "x": "建好后，选择“Open in a new tab”即可与之互动，或分享给他人。"
-              },
-              {
-                "t": "p",
-                "x": "该功能今天起在网页端面向全球 Gemini Notebook 用户（18+）推出，包括 Google Workspace 订阅用户，并将很快登陆移动应用。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "MAI Labs中的Canvas可让你从提示词或草图开始，将粗略想法变成精致的图表，再选中图像的任意部分进行替换、移动或重新设计风格。MAI Image现已成为驱动Bing Image Creator的默认模型系列，Figma Weave、Minute (Sports Illustrated)、Wirestock和Manus也在使用它。两款模型均可通过Microsoft Foundry以及fal、Genspark、OpenRouter和Vercel等合作伙伴获取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Notebook convierte\nla investigación en sitios",
-          "body": "Gemini Notebook ya convierte investigación y fuentes en sitios interactivos como paneles y gestores de proyectos.",
-          "mini_headline": "Gemini Notebook crea sitios",
+          "headline": "MAI Image 2.7 trae ediciones\nde imagen a nivel de objeto",
+          "body": "El modelo edita el color, material o posición de un objeto y lidera la edición en Artificial Analysis con 1,215 Elo.",
+          "mini_headline": "Llega MAI Image 2.7",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+                "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
               },
               {
                 "t": "p",
-                "x": "Desde hoy, Gemini Notebook puede convertir tus fuentes en sitios interactivos para ayudarte a entender rápidamente información compleja."
+                "x": "Hoy presentamos MAI Image 2.7 y MAI Image 2.7 Flash, que ofrecen generación y edición de imágenes de frontera a una fracción del costo de los principales competidores. También lanzamos Canvas, un nuevo espacio de trabajo interactivo impulsado por nuestro modelo Flash para crear, editar y refinar imágenes."
               },
               {
                 "t": "p",
-                "x": "Para empezar, basta con escribir “make me a site” en el chat de Gemini Notebook junto con una descripción de lo que quieres crear para el trabajo o los estudios, por ejemplo:"
+                "x": "MAI Image 2.7 ocupa el puesto #1 en edición de imágenes de Artificial Analysis y supera a GPT Image 2.6 Sunburst (max) con solo una quinta parte del costo. Al 16 de noviembre de 2026, registra 1,215 Elo con 5,478 votos. Disponible en vista previa pública en Microsoft Foundry, MAI Image 2.7 cuesta ~$35 por cada 1,000 imágenes, mientras que Flash cuesta ~$10 por cada 1,000 imágenes."
               },
               {
                 "t": "p",
-                "x": "Explicaciones visuales para preparar exámenes, como una tabla periódica interactiva o una línea de tiempo histórica. Paneles interactivos para explorar tus datos, como el rendimiento de ventas trimestral. Gestores de proyectos para organizar tus tareas y plazos."
+                "x": "Cambie el color, el material o la posición de un objeto sin alterar el resto de la imagen. MAI Image 2.7 mantiene la coherencia visual en ediciones sucesivas. Ambos modelos admiten fondos transparentes para obtener imágenes de producto, logotipos, iconos e ilustraciones listos para usar."
               },
               {
                 "t": "p",
-                "x": "Una vez creado, selecciona “Open in a new tab” para interactuar con él o compártelo con otras personas."
-              },
-              {
-                "t": "p",
-                "x": "Esta función empieza a llegar hoy a nivel mundial en la web para los usuarios de Gemini Notebook (18+), incluidos los suscriptores de Google Workspace, y pronto estará en la app móvil."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Sites_Final.mp4"
+                "x": "Canvas, en MAI Labs, permite empezar con un prompt o un boceto, convertir ideas preliminares en diagramas pulidos y luego seleccionar cualquier parte de una imagen para reemplazarla, moverla o cambiar su estilo. MAI Image es ahora la familia de modelos predeterminada de Bing Image Creator, y Figma Weave, Minute (Sports Illustrated), Wirestock y Manus también trabajan con ella. Ambos modelos están disponibles en Microsoft Foundry y a través de socios como fal, Genspark, OpenRouter y Vercel."
               }
             ]
           }
@@ -1501,249 +859,225 @@
       }
     },
     {
-      "id": "onepassword-figma-make",
+      "id": "instagram-content-protection",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "1Password가 신뢰를\nFigma Make로 설계",
-      "body": "1Password는 Figma Make로 자동완성과 AI 에이전트 승인을 만든다.",
-      "mini_headline": "1Password, Make로 설계",
-      "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/1password-figma-make/",
-      "accent": "#eb367f",
+      "headline": "Instagram 재게시·\nAI-modified 탐지",
+      "body": "Meta가 AI-modified 사본까지 포함해 원본 영상의 무단 재게시를 잡는다.",
+      "mini_headline": "Instagram, 크리에이터 영상 보호",
+      "tool": "AI Workflow",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+      "accent": "#3b6bff",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+            "cap": "이미지 출처: Jonathan Raa/NurPhoto / Getty Images"
           },
           {
             "t": "p",
-            "x": "사용자가 휴대폰에서 로그인 정보를 자동완성하든, 데스크톱에서 1Password를 쓰든, 브라우저 확장 프로그램으로 AI 에이전트의 자격 증명 요청을 승인하든 그 경험은 한결같이 1Password다워야 한다. 1Password의 Chief Experience Officer인 Matt Davey는 “신뢰와 확실성이라고 하겠다”고 말한다."
+            "x": "Meta 산하 Instagram이 크리에이터의 원본 영상을 지키는 새 도구를 도입한다고 화요일 발표했다. “콘텐츠 보호(content protection)”라는 이 기능은 이미 Facebook에 있는 것으로, 크리에이터의 원본 영상이 허락 없이 쓰이면 이를 감지하도록 설계됐다. 회사는 기존 방식의 재게시뿐 아니라 AI 콘텐츠까지 잡도록 도구를 넓힌다."
           },
           {
             "t": "p",
-            "x": "디자인 시스템 팀은 이십 년 가까이 쌓인 디자인 가이드를 도구가 읽을 수 있는 컨텍스트로 바꿨다. 덕분에 Figma Make와 다른 에이전트도 디자이너와 같은 규칙을 따른다. Ryan Williamson-Cardneau의 팀은 내부 프로토타입 플레이그라운드를 만들었다. Figma 파일에서 바로 만든 1Password 제품용 코드 템플릿을 담은 프런트엔드 전용 저장소다."
+            "x": "도구는 크리에이터의 보호 영상이 무단으로 쓰이는지 Instagram 전반을 계속 살핀다. 다른 사용자가 올린 영상이 크리에이터의 Reels와 일치하면 크리에이터에게 알림이 간다. 크리에이터는 Instagram과 Facebook 양쪽에서 해당 영상을 차단하거나, 원본으로 연결되는 “original by” 라벨을 붙이거나, 성과를 지켜보며 일치한 영상을 그대로 두거나, 권리 주장을 철회할 수 있다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-            "cap": "Figma Make에서 연 1Password의 프로토타입 플레이그라운드. 디자이너는 코드로 만든 컴포넌트를 선택해 채팅이나 속성 패널로 조정할 수 있다."
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+            "cap": "이미지 출처: Instagram"
           },
           {
             "t": "p",
-            "x": "Ryan은 간단한 수정 30건을 직접 하지 않고 Figma Make에 맡겼는데, 약 80%를 제대로 처리했다. Matt는 프로토타입을 복제해 버전끼리 나란히 비교하는 방식을 “시각적 브랜칭”이라 부른다. 채팅을 1Password의 MCP에 연결하면 “스파링 파트너”가 된다는 게 그의 설명이다."
+            "x": "시각 요소를 바꿨더라도 크리에이터 원본의 오디오를 재사용한 AI 생성(AI-generated) 영상도 이제 감지하기 시작한다. 이 업데이트는 앞으로 몇 주간 소수 크리에이터를 대상으로 먼저 테스트한다. Instagram은 AI 도구로 남의 작업을 반복해 재게시하는 계정과 콘텐츠의 도달 범위를 제한하는 방안도 검토 중이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "1Password 디자이너는 모두 프로토타입 플레이그라운드 온보딩을 마쳤고, 엔지니어와 PMs도 그곳에서 프로토타입을 만든다. 1Password는 사용자 테스트에 연결해 쓰던 Figma 프로토타입 대부분을 코드 프로토타입으로 바꿨다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-            "cap": "프로토타입 플레이그라운드에는 팀 전체의 프로토타입이 모여 있다. 모두 코드로 만든 1Password 제품 템플릿에서 출발했다."
+            "x": "자격을 갖춘 크리에이터가 등록하면 이후 Instagram에 올리는 원본 영상은 모두 자동으로 보호되고, 기존의 적격 영상도 소급해 보호할 수 있다. 두 번째 프로필이나 브랜드처럼 크리에이터가 허용한 프로필은 허용 목록에 넣으면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "1Password uses Figma Make\nto design for trust",
-          "body": "1Password's design team uses Figma Make to shape moments users trust, from autofill to AI agent approvals.",
-          "mini_headline": "1Password designs in Make",
+          "headline": "Instagram scans for reposts\nand AI-modified creator videos",
+          "body": "Meta will scan for copies of creators' original videos, including AI-modified versions, to catch unauthorized reposts.",
+          "mini_headline": "Instagram guards creator videos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "Image Credits:Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Anytime a user autofills a login on their phone, uses 1Password on their desktop, or approves a credential request from an AI agent through the browser extension, the experience has to feel unmistakably like 1Password. “I'd say it's trust and certainty,” says Matt Davey, Chief Experience Officer at 1Password."
+                "x": "Instagram is introducing a new tool to help creators protect their original videos, the Meta-owned company announced Tuesday. The feature, called “content protection,” is already available on Facebook and is designed to detect when creators’ original videos are being used without their permission. The company is also expanding the tool to address AI content, not just conventional reposting."
               },
               {
                 "t": "p",
-                "x": "The design systems team turned nearly two decades of design guidance into context that tools can use, so Figma Make and other agents follow the same rules a designer would. Ryan Williamson-Cardneau's team built an internal prototype playground: a front-end-only repo with code templates for 1Password's products, built directly from their Figma files."
+                "x": "The tool continuously scans Instagram for unauthorized uses of creators’ protected videos. When it detects a match for one of a creator’s Reels uploaded by another user, it sends the creator an alert. Creators can block the video on both Instagram and Facebook, add an “original by” label linking back to their original, keep the match visible while monitoring its performance, or release their claim."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "1Password’s prototype playground open in Figma Make, where designers can select a coded component and adjust it through chat or its properties panel."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "Image Credits:Instagram"
               },
               {
                 "t": "p",
-                "x": "Instead of making 30 quick edits by hand, Ryan found that Figma Make got about 80% of them right. Matt calls duplicating a prototype and comparing versions side by side “visual branching.” With the chat connected to 1Password’s MCP, “It’s a sparring partner,” he says."
+                "x": "The tool will also begin detecting AI-generated videos that reuse audio from creators’ original content, even when the visuals have been altered. This update will initially be tested with a small group of creators in the coming weeks. Instagram says it’s exploring ways to limit the reach of accounts and content that repeatedly use AI tools to repost others’ work."
               },
               {
                 "t": "p",
-                "x": "Every designer at 1Password has been onboarded to the prototype playground, and engineers and PMs are building prototypes there, too. 1Password has largely replaced its wired-up Figma prototypes with coded ones for user testing."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "The prototype playground holds prototypes from across the team, each started from a coded 1Password product template."
+                "x": "Once eligible creators enroll, every original video they post to Instagram going forward is automatically protected, and they can retroactively protect eligible videos. Profiles they’ve permitted, such as a second profile or a brand, can be added to an allow list."
               }
             ]
           }
         },
         "ko": {
-          "headline": "1Password가 신뢰를\nFigma Make로 설계",
-          "body": "1Password는 Figma Make로 자동완성과 AI 에이전트 승인을 만든다.",
-          "mini_headline": "1Password, Make로 설계",
+          "headline": "Instagram 재게시·\nAI-modified 탐지",
+          "body": "Meta가 AI-modified 사본까지 포함해 원본 영상의 무단 재게시를 잡는다.",
+          "mini_headline": "Instagram, 크리에이터 영상 보호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "이미지 출처: Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "사용자가 휴대폰에서 로그인 정보를 자동완성하든, 데스크톱에서 1Password를 쓰든, 브라우저 확장 프로그램으로 AI 에이전트의 자격 증명 요청을 승인하든 그 경험은 한결같이 1Password다워야 한다. 1Password의 Chief Experience Officer인 Matt Davey는 “신뢰와 확실성이라고 하겠다”고 말한다."
+                "x": "Meta 산하 Instagram이 크리에이터의 원본 영상을 지키는 새 도구를 도입한다고 화요일 발표했다. “콘텐츠 보호(content protection)”라는 이 기능은 이미 Facebook에 있는 것으로, 크리에이터의 원본 영상이 허락 없이 쓰이면 이를 감지하도록 설계됐다. 회사는 기존 방식의 재게시뿐 아니라 AI 콘텐츠까지 잡도록 도구를 넓힌다."
               },
               {
                 "t": "p",
-                "x": "디자인 시스템 팀은 이십 년 가까이 쌓인 디자인 가이드를 도구가 읽을 수 있는 컨텍스트로 바꿨다. 덕분에 Figma Make와 다른 에이전트도 디자이너와 같은 규칙을 따른다. Ryan Williamson-Cardneau의 팀은 내부 프로토타입 플레이그라운드를 만들었다. Figma 파일에서 바로 만든 1Password 제품용 코드 템플릿을 담은 프런트엔드 전용 저장소다."
+                "x": "도구는 크리에이터의 보호 영상이 무단으로 쓰이는지 Instagram 전반을 계속 살핀다. 다른 사용자가 올린 영상이 크리에이터의 Reels와 일치하면 크리에이터에게 알림이 간다. 크리에이터는 Instagram과 Facebook 양쪽에서 해당 영상을 차단하거나, 원본으로 연결되는 “original by” 라벨을 붙이거나, 성과를 지켜보며 일치한 영상을 그대로 두거나, 권리 주장을 철회할 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "Figma Make에서 연 1Password의 프로토타입 플레이그라운드. 디자이너는 코드로 만든 컴포넌트를 선택해 채팅이나 속성 패널로 조정할 수 있다."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "이미지 출처: Instagram"
               },
               {
                 "t": "p",
-                "x": "Ryan은 간단한 수정 30건을 직접 하지 않고 Figma Make에 맡겼는데, 약 80%를 제대로 처리했다. Matt는 프로토타입을 복제해 버전끼리 나란히 비교하는 방식을 “시각적 브랜칭”이라 부른다. 채팅을 1Password의 MCP에 연결하면 “스파링 파트너”가 된다는 게 그의 설명이다."
+                "x": "시각 요소를 바꿨더라도 크리에이터 원본의 오디오를 재사용한 AI 생성(AI-generated) 영상도 이제 감지하기 시작한다. 이 업데이트는 앞으로 몇 주간 소수 크리에이터를 대상으로 먼저 테스트한다. Instagram은 AI 도구로 남의 작업을 반복해 재게시하는 계정과 콘텐츠의 도달 범위를 제한하는 방안도 검토 중이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "1Password 디자이너는 모두 프로토타입 플레이그라운드 온보딩을 마쳤고, 엔지니어와 PMs도 그곳에서 프로토타입을 만든다. 1Password는 사용자 테스트에 연결해 쓰던 Figma 프로토타입 대부분을 코드 프로토타입으로 바꿨다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "프로토타입 플레이그라운드에는 팀 전체의 프로토타입이 모여 있다. 모두 코드로 만든 1Password 제품 템플릿에서 출발했다."
+                "x": "자격을 갖춘 크리에이터가 등록하면 이후 Instagram에 올리는 원본 영상은 모두 자동으로 보호되고, 기존의 적격 영상도 소급해 보호할 수 있다. 두 번째 프로필이나 브랜드처럼 크리에이터가 허용한 프로필은 허용 목록에 넣으면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "1Passwordの信頼\nFigma Makeで設計",
-          "body": "1PasswordはFigma Makeで自動入力やAIエージェント承認の体験を設計する。",
-          "mini_headline": "1PasswordがMakeで設計",
+          "headline": "Instagram、転載と\nAI-modified検出",
+          "body": "Metaは、AI-modified版も含めクリエイター原本動画の無断転載をスキャンする。",
+          "mini_headline": "Instagram、クリエイター動画を保護",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "画像提供：Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "ユーザーがスマートフォンでログイン情報を自動入力するときも、デスクトップで1Passwordを使うときも、ブラウザ拡張機能からAIエージェントの認証情報リクエストを承認するときも、その体験は紛れもなく1Passwordらしくなければならない。「信頼と確実性だと思う」と、1PasswordのChief Experience OfficerであるMatt Daveyは言う。"
+                "x": "Meta傘下のInstagramは火曜日、クリエイターが原本の動画を守るための新ツールを導入すると発表した。「コンテンツ保護（content protection）」と呼ばれるこの機能はすでにFacebookで提供されており、クリエイターの原本動画が許可なく使われていることを検出するよう設計されている。同社はこのツールを、従来型の転載だけでなくAIコンテンツにも対応するよう拡張する。"
               },
               {
                 "t": "p",
-                "x": "デザインシステムチームは、約二十年分のデザインガイドラインをツールが使えるコンテキストに変換し、Figma Makeなどのエージェントがデザイナーと同じルールに従えるようにした。Ryan Williamson-Cardneauのチームは社内向けのプロトタイプ・プレイグラウンドを構築した。Figmaファイルから直接作った1Password製品のコードテンプレートを収めた、フロントエンドのみのリポジトリだ。"
+                "x": "このツールは、クリエイターの保護対象動画が無断で使われていないかInstagram上を継続的にスキャンする。他のユーザーがアップロードした動画がクリエイターのReelsと一致すると、クリエイターに通知を送る。クリエイターはInstagramとFacebookの両方で動画をブロックする、原本にリンクする「original by」ラベルを付ける、パフォーマンスを見ながら一致した動画を公開したままにする、権利の主張を取り下げる、のいずれかを選べる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "Figma Makeで開いた1Passwordのプロトタイプ・プレイグラウンド。デザイナーはコード化されたコンポーネントを選び、チャットやプロパティパネルで調整できる。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "画像提供：Instagram"
               },
               {
                 "t": "p",
-                "x": "Ryanは、30件の細かな修正を手作業で行う代わりにFigma Makeに任せたところ、約80%が正しく仕上がったことに気づいた。Mattは、プロトタイプを複製してバージョンを並べて比較することを「ビジュアル・ブランチング」と呼ぶ。チャットを1PasswordのMCPに接続すると「スパーリング相手になる」と彼は言う。"
+                "x": "このツールは、映像が改変されていても、クリエイターの原本コンテンツの音声を再利用したAI生成（AI-generated）動画の検出も始める。このアップデートは今後数週間のうちに、まず少数のクリエイターを対象にテストされる。Instagramは、AIツールを使って他人の作品を繰り返し転載するアカウントやコンテンツのリーチを制限する方法を検討しているという。"
               },
               {
                 "t": "p",
-                "x": "1Passwordのデザイナー全員がプロトタイプ・プレイグラウンドを使い始めており、エンジニアやPMsもそこでプロトタイプを作っている。1Passwordはユーザーテスト用に、配線で組んだFigmaプロトタイプの大半をコードによるプロトタイプに置き換えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "プロトタイプ・プレイグラウンドにはチーム全体のプロトタイプが集まっており、どれもコード化された1Password製品テンプレートから作られている。"
+                "x": "対象となるクリエイターが登録すると、以後Instagramに投稿するすべての原本動画が自動的に保護され、対象となる過去の動画にもさかのぼって保護を適用できる。セカンドプロフィールやブランドなど、本人が許可したプロフィールは許可リストに追加できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "1Password用\nFigma Make设计信任",
-          "body": "1Password设计团队用Figma Make打造从自动填充到AI代理审批的可信体验。",
-          "mini_headline": "1Password 用 Make 设计",
+          "headline": "Instagram扫描转发\n及AI-modified视频",
+          "body": "Meta将扫描创作者原创视频的副本，包括AI-modified版本，以拦截未经授权的转发。",
+          "mini_headline": "Instagram保护创作者视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "图片来源：Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "无论用户是在手机上自动填充登录信息、在桌面端使用 1Password，还是通过浏览器扩展批准 AI 代理的凭据请求，体验都必须让人一眼认出是 1Password。“我会说是信任和确定性。”1Password 的 Chief Experience Officer Matt Davey 说。"
+                "x": "Meta旗下的Instagram周二宣布，将推出一款帮助创作者保护原创视频的新工具。这项名为“内容保护”（content protection）的功能已在Facebook上线，旨在检测创作者的原创视频何时在未经许可的情况下被使用。该公司还在扩展这一工具，使其不仅应对传统转发，也能应对AI内容。"
               },
               {
                 "t": "p",
-                "x": "设计系统团队把近二十年的设计规范转化为工具可用的上下文，让 Figma Make 和其他代理遵循与设计师相同的规则。Ryan Williamson-Cardneau 的团队搭建了一个内部原型试验场：一个只含前端的代码库，内有直接从 Figma 文件构建的 1Password 产品代码模板。"
+                "x": "该工具会持续扫描Instagram，查找对创作者受保护视频的未经授权使用。当检测到其他用户上传的内容与创作者的某条Reels匹配时，会向创作者发送提醒。创作者可以在Instagram和Facebook上同时屏蔽该视频，添加链接回原作的“original by”标签，在监测其表现的同时保留该匹配内容，或放弃其主张。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "在 Figma Make 中打开的 1Password 原型试验场，设计师可以选中一个代码组件，通过聊天或属性面板进行调整。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "图片来源：Instagram"
               },
               {
                 "t": "p",
-                "x": "Ryan 发现，与其手动完成 30 处快速修改，交给 Figma Make 大约能做对 80%。Matt 把复制原型并将版本并排比较称为“视觉分支”。他说，聊天连接 1Password 的 MCP 后，“它就是一个陪练伙伴”。"
+                "x": "该工具还将开始检测重复使用创作者原创内容音频的AI生成（AI-generated）视频，即使画面已被修改。此次更新将在未来几周内先面向一小部分创作者进行测试。Instagram表示，正在探索如何限制反复使用AI工具转发他人作品的账号和内容的触达范围。"
               },
               {
                 "t": "p",
-                "x": "1Password 的每位设计师都已上手原型试验场，工程师和 PMs 也在那里构建原型。1Password 在用户测试中已基本用代码原型取代了连线式 Figma 原型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "原型试验场汇集了整个团队的原型，每个都从一个代码化的 1Password 产品模板开始。"
+                "x": "符合条件的创作者加入后，今后发布到Instagram的每条原创视频都会自动受到保护，也可以追溯保护符合条件的旧视频。经其许可的主页（例如第二个主页或品牌主页）可加入白名单。"
               }
             ]
           }
         },
         "es": {
-          "headline": "1Password usa Figma Make\npara diseñar la confianza",
-          "body": "1Password usa Figma Make para diseñar momentos de confianza, desde el autocompletado hasta aprobar agentes de AI.",
-          "mini_headline": "1Password diseña en Make",
+          "headline": "Instagram busca republicaciones\ny versiones AI-modified",
+          "body": "Meta buscará copias de videos originales de creadores, incluso AI-modified, para frenar republicaciones sin permiso.",
+          "mini_headline": "Instagram protege videos de creadores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "Créditos de imagen: Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Cada vez que un usuario autocompleta un inicio de sesión en su teléfono, usa 1Password en el escritorio o aprueba desde la extensión del navegador una solicitud de credenciales de un agente de AI, la experiencia tiene que sentirse inconfundiblemente como 1Password. “Yo diría que es confianza y certeza”, dice Matt Davey, Chief Experience Officer de 1Password."
+                "x": "Instagram presenta una nueva herramienta para ayudar a los creadores a proteger sus videos originales, anunció el martes la compañía propiedad de Meta. La función, llamada “protección de contenido” (content protection), ya está disponible en Facebook y está diseñada para detectar cuándo se usan los videos originales de los creadores sin su permiso. La compañía también amplía la herramienta para abordar el contenido de AI, no solo las republicaciones convencionales."
               },
               {
                 "t": "p",
-                "x": "El equipo de sistemas de diseño convirtió casi dos décadas de pautas de diseño en contexto que las herramientas pueden usar, de modo que Figma Make y otros agentes siguen las mismas reglas que seguiría un diseñador. El equipo de Ryan Williamson-Cardneau creó un espacio interno de prototipado: un repositorio solo de front-end con plantillas de código para los productos de 1Password, construidas directamente a partir de sus archivos de Figma."
+                "x": "La herramienta rastrea Instagram de forma continua en busca de usos no autorizados de los videos protegidos de los creadores. Cuando detecta una coincidencia con uno de los Reels de un creador subido por otro usuario, le envía una alerta. Los creadores pueden bloquear el video en Instagram y Facebook, añadir una etiqueta “original by” que enlace a su original, mantener visible la coincidencia mientras supervisan su rendimiento o renunciar a su reclamación."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "El espacio de prototipado de 1Password abierto en Figma Make, donde los diseñadores pueden seleccionar un componente programado y ajustarlo por chat o desde su panel de propiedades."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "Créditos de imagen: Instagram"
               },
               {
                 "t": "p",
-                "x": "En lugar de hacer a mano 30 ediciones rápidas, Ryan comprobó que Figma Make acertaba en cerca del 80% de ellas. Matt llama “ramificación visual” a duplicar un prototipo y comparar versiones lado a lado. Con el chat conectado al MCP de 1Password, “es un compañero de entrenamiento”, dice."
+                "x": "La herramienta también empezará a detectar videos AI-generated que reutilizan el audio del contenido original de los creadores, aunque se hayan alterado las imágenes. Esta actualización se probará primero con un grupo reducido de creadores en las próximas semanas. Instagram afirma que estudia formas de limitar el alcance de las cuentas y el contenido que usan reiteradamente herramientas de AI para republicar el trabajo de otros."
               },
               {
                 "t": "p",
-                "x": "Todos los diseñadores de 1Password se han incorporado al espacio de prototipado, y los ingenieros y PMs también crean prototipos allí. 1Password ha sustituido en gran medida sus prototipos enlazados de Figma por prototipos programados para las pruebas con usuarios."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "El espacio de prototipado reúne prototipos de todo el equipo, cada uno iniciado a partir de una plantilla programada de un producto de 1Password."
+                "x": "Una vez que los creadores elegibles se inscriben, todos los videos originales que publiquen en Instagram a partir de entonces quedan protegidos automáticamente, y pueden proteger de forma retroactiva los videos elegibles. Los perfiles que hayan autorizado, como un segundo perfil o una marca, pueden añadirse a una lista de permitidos."
               }
             ]
           }
@@ -1751,161 +1085,457 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "1Password가 신뢰를\nFigma Make로 설계",
-          "body": "1Password는 Figma Make로 자동완성과 AI 에이전트 승인을 만든다.",
-          "mini_headline": "1Password, Make로 설계",
+          "headline": "Instagram 재게시·\nAI-modified 탐지",
+          "body": "Meta는 AI-modified 사본을 포함한 원본 영상 무단 재게시를 잡는다.",
+          "mini_headline": "Instagram, 크리에이터 영상 보호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "이미지 출처: Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "사용자가 휴대폰에서 로그인 정보를 자동완성하든, 데스크톱에서 1Password를 쓰든, 브라우저 확장 프로그램으로 AI 에이전트의 자격 증명 요청을 승인하든, 그 경험은 틀림없이 1Password답게 느껴져야 한다. 1Password의 Chief Experience Officer인 Matt Davey는 “신뢰와 확실성이라고 하겠다”고 말한다."
+                "x": "Meta 산하 Instagram이 크리에이터의 원본 영상 보호를 돕는 새 도구를 도입한다고 화요일 발표했다. “콘텐츠 보호(content protection)”라는 이 기능은 이미 Facebook에서 제공 중이며, 크리에이터의 원본 영상이 허락 없이 쓰일 때 이를 감지하도록 설계됐다. 회사는 기존 방식의 재게시뿐 아니라 AI 콘텐츠까지 다루도록 도구를 확장한다."
               },
               {
                 "t": "p",
-                "x": "디자인 시스템 팀은 거의 이십 년에 걸친 디자인 가이드를 도구가 쓸 수 있는 컨텍스트로 바꿔, Figma Make와 다른 에이전트가 디자이너와 같은 규칙을 따르게 했다. Ryan Williamson-Cardneau의 팀은 내부 프로토타입 플레이그라운드를 만들었다. Figma 파일에서 직접 만든 1Password 제품용 코드 템플릿을 담은 프런트엔드 전용 저장소다."
+                "x": "이 도구는 크리에이터의 보호 영상이 무단으로 쓰이는지 Instagram 전반을 지속적으로 살핀다. 다른 사용자가 올린 영상이 크리에이터의 Reels와 일치하면 크리에이터에게 알림을 보낸다. 크리에이터는 Instagram과 Facebook 양쪽에서 해당 영상을 차단하거나, 원본으로 연결되는 “original by” 라벨을 붙이거나, 성과를 지켜보며 일치한 영상을 그대로 두거나, 권리 주장을 철회할 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "Figma Make에서 연 1Password의 프로토타입 플레이그라운드. 디자이너는 코드로 만든 컴포넌트를 선택해 채팅이나 속성 패널로 조정할 수 있다."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "이미지 출처: Instagram"
               },
               {
                 "t": "p",
-                "x": "Ryan은 30건의 간단한 수정을 손으로 하는 대신 Figma Make에 맡겼더니 약 80%를 제대로 해냈다는 것을 알게 됐다. Matt는 프로토타입을 복제해 버전을 나란히 비교하는 방식을 “시각적 브랜칭”이라 부른다. 채팅을 1Password의 MCP에 연결하면 “스파링 파트너”가 된다고 그는 말한다."
+                "x": "이 도구는 시각 요소가 바뀌었더라도 크리에이터 원본 콘텐츠의 오디오를 재사용한 AI 생성(AI-generated) 영상도 감지하기 시작한다. 이 업데이트는 앞으로 몇 주 동안 소수의 크리에이터를 대상으로 먼저 테스트한다. Instagram은 AI 도구로 다른 사람의 작업을 반복해 재게시하는 계정과 콘텐츠의 도달 범위를 제한하는 방안을 모색하고 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "1Password의 모든 디자이너가 프로토타입 플레이그라운드 온보딩을 마쳤고, 엔지니어와 PMs도 그곳에서 프로토타입을 만들고 있다. 1Password는 사용자 테스트용으로 연결해 두던 Figma 프로토타입을 대부분 코드 프로토타입으로 바꿨다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "프로토타입 플레이그라운드에는 팀 전체의 프로토타입이 모여 있으며, 모두 코드로 만든 1Password 제품 템플릿에서 시작했다."
+                "x": "자격을 갖춘 크리에이터가 등록하면 이후 Instagram에 올리는 모든 원본 영상이 자동으로 보호되며, 기존의 적격 영상도 소급해 보호할 수 있다. 두 번째 프로필이나 브랜드처럼 크리에이터가 허용한 프로필은 허용 목록에 추가할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "1Passwordの信頼\nFigma Makeで設計",
-          "body": "1PasswordはFigma Makeで自動入力やAIエージェント承認の体験を設計する。",
-          "mini_headline": "1PasswordがMakeで設計",
+          "headline": "Instagram、転載と\nAI-modified検出",
+          "body": "Metaは、AI-modified版も含めクリエイター原本動画の無断転載をスキャンする。",
+          "mini_headline": "Instagram、クリエイター動画を保護",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "画像提供：Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "ユーザーがスマートフォンでログイン情報を自動入力するときも、デスクトップで1Passwordを使うときも、ブラウザ拡張機能からAIエージェントの認証情報リクエストを承認するときも、その体験は紛れもなく1Passwordらしくなければならない。「信頼と確実性だと思う」と、1PasswordのChief Experience OfficerであるMatt Daveyは言う。"
+                "x": "Meta傘下のInstagramは火曜日、クリエイターが原本の動画を守るための新ツールを導入すると発表した。「コンテンツ保護（content protection）」と呼ばれるこの機能はすでにFacebookで提供されており、クリエイターの原本動画が許可なく使われていることを検出するよう設計されている。同社はこのツールを、従来型の転載だけでなくAIコンテンツにも対応するよう拡張する。"
               },
               {
                 "t": "p",
-                "x": "デザインシステムチームは、約二十年分のデザインガイドラインをツールが使えるコンテキストに変換し、Figma Makeなどのエージェントがデザイナーと同じルールに従えるようにした。Ryan Williamson-Cardneauのチームは社内向けのプロトタイプ・プレイグラウンドを構築した。Figmaファイルから直接作った1Password製品のコードテンプレートを収めた、フロントエンドのみのリポジトリだ。"
+                "x": "このツールは、クリエイターの保護対象動画が無断で使われていないかInstagram上を継続的にスキャンする。他のユーザーがアップロードした動画がクリエイターのReelsと一致すると、クリエイターに通知を送る。クリエイターはInstagramとFacebookの両方で動画をブロックする、原本にリンクする「original by」ラベルを付ける、パフォーマンスを見ながら一致した動画を公開したままにする、権利の主張を取り下げる、のいずれかを選べる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "Figma Makeで開いた1Passwordのプロトタイプ・プレイグラウンド。デザイナーはコード化されたコンポーネントを選び、チャットやプロパティパネルで調整できる。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "画像提供：Instagram"
               },
               {
                 "t": "p",
-                "x": "Ryanは、30件の細かな修正を手作業で行う代わりにFigma Makeに任せたところ、約80%が正しく仕上がったことに気づいた。Mattは、プロトタイプを複製してバージョンを並べて比較することを「ビジュアル・ブランチング」と呼ぶ。チャットを1PasswordのMCPに接続すると「スパーリング相手になる」と彼は言う。"
+                "x": "このツールは、映像が改変されていても、クリエイターの原本コンテンツの音声を再利用したAI生成（AI-generated）動画の検出も始める。このアップデートは今後数週間のうちに、まず少数のクリエイターを対象にテストされる。Instagramは、AIツールを使って他人の作品を繰り返し転載するアカウントやコンテンツのリーチを制限する方法を検討しているという。"
               },
               {
                 "t": "p",
-                "x": "1Passwordのデザイナー全員がプロトタイプ・プレイグラウンドを使い始めており、エンジニアやPMsもそこでプロトタイプを作っている。1Passwordはユーザーテスト用に、配線で組んだFigmaプロトタイプの大半をコードによるプロトタイプに置き換えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "プロトタイプ・プレイグラウンドにはチーム全体のプロトタイプが集まっており、どれもコード化された1Password製品テンプレートから作られている。"
+                "x": "対象となるクリエイターが登録すると、以後Instagramに投稿するすべての原本動画が自動的に保護され、対象となる過去の動画にもさかのぼって保護を適用できる。セカンドプロフィールやブランドなど、本人が許可したプロフィールは許可リストに追加できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "1Password用\nFigma Make设计信任",
-          "body": "1Password设计团队用Figma Make打造从自动填充到AI代理审批的可信体验。",
-          "mini_headline": "1Password 用 Make 设计",
+          "headline": "Instagram扫描转发\n及AI-modified视频",
+          "body": "Meta将扫描创作者原创视频的副本，包括AI-modified版本，以拦截未经授权的转发。",
+          "mini_headline": "Instagram保护创作者视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "图片来源：Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "无论用户是在手机上自动填充登录信息、在桌面端使用 1Password，还是通过浏览器扩展批准 AI 代理的凭据请求，体验都必须让人一眼认出是 1Password。“我会说是信任和确定性。”1Password 的 Chief Experience Officer Matt Davey 说。"
+                "x": "Meta旗下的Instagram周二宣布，将推出一款帮助创作者保护原创视频的新工具。这项名为“内容保护”（content protection）的功能已在Facebook上线，旨在检测创作者的原创视频何时在未经许可的情况下被使用。该公司还在扩展这一工具，使其不仅应对传统转发，也能应对AI内容。"
               },
               {
                 "t": "p",
-                "x": "设计系统团队把近二十年的设计规范转化为工具可用的上下文，让 Figma Make 和其他代理遵循与设计师相同的规则。Ryan Williamson-Cardneau 的团队搭建了一个内部原型试验场：一个只含前端的代码库，内有直接从 Figma 文件构建的 1Password 产品代码模板。"
+                "x": "该工具会持续扫描Instagram，查找对创作者受保护视频的未经授权使用。当检测到其他用户上传的内容与创作者的某条Reels匹配时，会向创作者发送提醒。创作者可以在Instagram和Facebook上同时屏蔽该视频，添加链接回原作的“original by”标签，在监测其表现的同时保留该匹配内容，或放弃其主张。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "在 Figma Make 中打开的 1Password 原型试验场，设计师可以选中一个代码组件，通过聊天或属性面板进行调整。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "图片来源：Instagram"
               },
               {
                 "t": "p",
-                "x": "Ryan 发现，与其手动完成 30 处快速修改，交给 Figma Make 大约能做对 80%。Matt 把复制原型并将版本并排比较称为“视觉分支”。他说，聊天连接 1Password 的 MCP 后，“它就是一个陪练伙伴”。"
+                "x": "该工具还将开始检测重复使用创作者原创内容音频的AI生成（AI-generated）视频，即使画面已被修改。此次更新将在未来几周内先面向一小部分创作者进行测试。Instagram表示，正在探索如何限制反复使用AI工具转发他人作品的账号和内容的触达范围。"
               },
               {
                 "t": "p",
-                "x": "1Password 的每位设计师都已上手原型试验场，工程师和 PMs 也在那里构建原型。1Password 在用户测试中已基本用代码原型取代了连线式 Figma 原型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "原型试验场汇集了整个团队的原型，每个都从一个代码化的 1Password 产品模板开始。"
+                "x": "符合条件的创作者加入后，今后发布到Instagram的每条原创视频都会自动受到保护，也可以追溯保护符合条件的旧视频。经其许可的主页（例如第二个主页或品牌主页）可加入白名单。"
               }
             ]
           }
         },
         "es": {
-          "headline": "1Password usa Figma Make\npara diseñar la confianza",
-          "body": "1Password usa Figma Make para diseñar momentos de confianza, desde el autocompletado hasta aprobar agentes de AI.",
-          "mini_headline": "1Password diseña en Make",
+          "headline": "Instagram busca republicaciones\ny versiones AI-modified",
+          "body": "Meta buscará copias de videos originales de creadores, incluso AI-modified, para frenar republicaciones sin permiso.",
+          "mini_headline": "Instagram protege videos de creadores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+                "cap": "Créditos de imagen: Jonathan Raa/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Cada vez que un usuario autocompleta un inicio de sesión en su teléfono, usa 1Password en el escritorio o aprueba desde la extensión del navegador una solicitud de credenciales de un agente de AI, la experiencia tiene que sentirse inconfundiblemente como 1Password. “Yo diría que es confianza y certeza”, dice Matt Davey, Chief Experience Officer de 1Password."
+                "x": "Instagram presenta una nueva herramienta para ayudar a los creadores a proteger sus videos originales, anunció el martes la compañía propiedad de Meta. La función, llamada “protección de contenido” (content protection), ya está disponible en Facebook y está diseñada para detectar cuándo se usan los videos originales de los creadores sin su permiso. La compañía también amplía la herramienta para abordar el contenido de AI, no solo las republicaciones convencionales."
               },
               {
                 "t": "p",
-                "x": "El equipo de sistemas de diseño convirtió casi dos décadas de pautas de diseño en contexto que las herramientas pueden usar, de modo que Figma Make y otros agentes siguen las mismas reglas que seguiría un diseñador. El equipo de Ryan Williamson-Cardneau creó un espacio interno de prototipado: un repositorio solo de front-end con plantillas de código para los productos de 1Password, construidas directamente a partir de sus archivos de Figma."
+                "x": "La herramienta rastrea Instagram de forma continua en busca de usos no autorizados de los videos protegidos de los creadores. Cuando detecta una coincidencia con uno de los Reels de un creador subido por otro usuario, le envía una alerta. Los creadores pueden bloquear el video en Instagram y Facebook, añadir una etiqueta “original by” que enlace a su original, mantener visible la coincidencia mientras supervisan su rendimiento o renunciar a su reclamación."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a17b404ae2b6620f5900cc3aec4ff42c6e1a150c-1706x1410.png?rect=1,0,1705,1410&w=1080&h=893&q=75&fit=max&auto=format",
-                "cap": "El espacio de prototipado de 1Password abierto en Figma Make, donde los diseñadores pueden seleccionar un componente programado y ajustarlo por chat o desde su panel de propiedades."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+                "cap": "Créditos de imagen: Instagram"
               },
               {
                 "t": "p",
-                "x": "En lugar de hacer a mano 30 ediciones rápidas, Ryan comprobó que Figma Make acertaba en cerca del 80% de ellas. Matt llama “ramificación visual” a duplicar un prototipo y comparar versiones lado a lado. Con el chat conectado al MCP de 1Password, “es un compañero de entrenamiento”, dice."
+                "x": "La herramienta también empezará a detectar videos AI-generated que reutilizan el audio del contenido original de los creadores, aunque se hayan alterado las imágenes. Esta actualización se probará primero con un grupo reducido de creadores en las próximas semanas. Instagram afirma que estudia formas de limitar el alcance de las cuentas y el contenido que usan reiteradamente herramientas de AI para republicar el trabajo de otros."
               },
               {
                 "t": "p",
-                "x": "Todos los diseñadores de 1Password se han incorporado al espacio de prototipado, y los ingenieros y PMs también crean prototipos allí. 1Password ha sustituido en gran medida sus prototipos enlazados de Figma por prototipos programados para las pruebas con usuarios."
-              },
+                "x": "Una vez que los creadores elegibles se inscriben, todos los videos originales que publiquen en Instagram a partir de entonces quedan protegidos automáticamente, y pueden proteger de forma retroactiva los videos elegibles. Los perfiles que hayan autorizado, como un segundo perfil o una marca, pueden añadirse a una lista de permitidos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "tripo-polipop-h35",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Tripo AI, 출력까지\n가는 에이전트 공개",
+      "body": "Tripo가 Formnext에서 H3.5와 출력 에이전트 Polipop을 공개했다.",
+      "mini_headline": "Tripo의 출력 에이전트",
+      "tool": "Text-to-CAD",
+      "source": "VoxelMatters",
+      "url": "https://www.voxelmatters.com/tripo-ai-previews-its-h3-5-model-and-polipop-agent-for-3d-printing-at-formnext/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Tripo AI가 Frankfurt에서 열린 Formnext 2026에서 H 시리즈의 차기 3D 네이티브 파운데이션 모델 H3.5를 처음 공개하고, 적층 제조용 인공지능 에이전트 Polipop을 소개했다. 회사는 행사 기자회견에서 새 모델로 만든 3D 프린팅 결과물을 전시했고, 두 제품을 AI 생성(AI-generated) 콘텐츠와 3D 프린터를 잇는 고리로 내세웠다."
+          },
+          {
+            "t": "p",
+            "x": "H3.5는 이전 모델 H3.1보다 크게 나아졌다. 세밀한 디테일을 잡아내고 시각적 정확도를 지키는 면에서 진전이 뚜렷하다. 편집을 거의 거치지 않아도 되는 출력용 3D 콘텐츠도 만든다. 회사는 현재 H-series 모델이 단 몇 분 만에 아이디어를 3D 프린팅 물체로 바꾸는 과정도 시연했다."
+          },
+          {
+            "t": "p",
+            "x": "Tripo는 무대에서 Polipop을 사용자의 아이디어를 맞춤형 3D 프린팅 제품으로 바꿔 주는 에이전트로 소개했다. 아이디어를 주면 에이전트가 3D 모델링과 출력 준비를 맡고, 완성된 작업을 3D 프린터로 보낸다."
+          },
+          {
+            "t": "p",
+            "x": "Tripo AI의 Research Lead인 Yuan-Chen Guo는 “곧 나올 H3.5 3D 네이티브 모델은 생성형 3D 기술의 새로운 이정표로, 출력 가능한 생성 3D 콘텐츠를 3D 프린터로 바로 보낸다. 3D 프린팅을 위해 특별히 개발한 AI 에이전트 Polipop은 사람들의 아이디어를 3D 프린팅 물체로 빚어내도록 돕는다”라고 말했다. 방문객은 Hall 12.1의 Booth B01에서 H-series 모델, Tripo Studio, Polipop을 직접 체험해 볼 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Tripo AI previews an agent\nthat takes ideas to the printer",
+          "body": "At Formnext, Tripo previewed its H3.5 model and Polipop, an agent that carries an idea from modeling to the printer.",
+          "mini_headline": "Tripo's print agent",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ec408a42a9435922312ea6e79eb44ac6826c9a07-1706x1408.png?rect=0,1,1706,1407&w=1080&h=891&q=75&fit=max&auto=format",
-                "cap": "El espacio de prototipado reúne prototipos de todo el equipo, cada uno iniciado a partir de una plantilla programada de un producto de 1Password."
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI has given a first look at H3.5, an upcoming 3D native foundation model in its H series, at Formnext 2026 in Frankfurt, and introduced Polipop, an artificial intelligence agent built for additive manufacturing. During a press conference at the show, the company displayed 3D printed pieces generated by the new model and presented both products as a link between AI-generated content and 3D printers."
+              },
+              {
+                "t": "p",
+                "x": "H3.5 comes as a major upgrade over its H3.1 predecessor, making a significant step forward in capturing fine detail and preserving visual accuracy. The model also produces print-ready 3D content that needs little editing. The company also demonstrated how its current H-series model could turn an idea into a 3D printed object in the space of just a few minutes."
+              },
+              {
+                "t": "p",
+                "x": "Tripo also presented Polipop on stage as an agent that converts user ideas into custom 3D printed items. Once given an idea, the agent handles 3D modeling and print preparation, then sends the finished job to a 3D printer."
+              },
+              {
+                "t": "p",
+                "x": "“Our upcoming H3.5 3D native model represents a new milestone in generative 3D technology, bringing print-ready generated 3D content directly to a 3D printer, while Polipop, the AI agent specially developed for 3D printing, helps mold people’s ideas into 3D printed objects,” said Yuan-Chen Guo, Research Lead at Tripo AI. Visitors can test the H-series model, Tripo Studio and Polipop at Booth B01 in Hall 12.1."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Tripo AI, 출력까지\n가는 에이전트 공개",
+          "body": "Tripo가 Formnext에서 H3.5와 출력 에이전트 Polipop을 공개했다.",
+          "mini_headline": "Tripo의 출력 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI가 Frankfurt에서 열린 Formnext 2026에서 H 시리즈의 차기 3D 네이티브 파운데이션 모델 H3.5를 처음 공개하고, 적층 제조용 인공지능 에이전트 Polipop을 소개했다. 회사는 행사 기자회견에서 새 모델로 만든 3D 프린팅 결과물을 전시했고, 두 제품을 AI 생성(AI-generated) 콘텐츠와 3D 프린터를 잇는 고리로 내세웠다."
+              },
+              {
+                "t": "p",
+                "x": "H3.5는 이전 모델 H3.1보다 크게 나아졌다. 세밀한 디테일을 잡아내고 시각적 정확도를 지키는 면에서 진전이 뚜렷하다. 편집을 거의 거치지 않아도 되는 출력용 3D 콘텐츠도 만든다. 회사는 현재 H-series 모델이 단 몇 분 만에 아이디어를 3D 프린팅 물체로 바꾸는 과정도 시연했다."
+              },
+              {
+                "t": "p",
+                "x": "Tripo는 무대에서 Polipop을 사용자의 아이디어를 맞춤형 3D 프린팅 제품으로 바꿔 주는 에이전트로 소개했다. 아이디어를 주면 에이전트가 3D 모델링과 출력 준비를 맡고, 완성된 작업을 3D 프린터로 보낸다."
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI의 Research Lead인 Yuan-Chen Guo는 “곧 나올 H3.5 3D 네이티브 모델은 생성형 3D 기술의 새로운 이정표로, 출력 가능한 생성 3D 콘텐츠를 3D 프린터로 바로 보낸다. 3D 프린팅을 위해 특별히 개발한 AI 에이전트 Polipop은 사람들의 아이디어를 3D 프린팅 물체로 빚어내도록 돕는다”라고 말했다. 방문객은 Hall 12.1의 Booth B01에서 H-series 모델, Tripo Studio, Polipop을 직접 체험해 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tripo AI、構想を\n印刷まで導くエージェント",
+          "body": "TripoはFormnextで、H3.5と印刷用エージェントPolipopを先行公開した。",
+          "mini_headline": "Tripoの印刷エージェント",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AIは、FrankfurtのFormnext 2026で、Hシリーズの次期3DネイティブファウンデーションモデルH3.5を初公開し、積層造形向けの人工知能エージェントPolipopを発表した。会期中の記者会見では新モデルで生成した3Dプリント作品を展示し、両製品をAI生成（AI-generated）コンテンツと3Dプリンターをつなぐ存在として紹介した。"
+              },
+              {
+                "t": "p",
+                "x": "H3.5は前身のH3.1から大幅に進化し、細部の再現と視覚的な正確さの維持で大きく前進した。編集をほとんど必要としない、印刷可能な3Dコンテンツも生成する。同社は現行のH-seriesモデルが、わずか数分でアイデアを3Dプリント物に変える様子も実演した。"
+              },
+              {
+                "t": "p",
+                "x": "Tripoはステージ上で、ユーザーのアイデアをカスタム3Dプリント品に変えるエージェントとしてPolipopも紹介した。アイデアを与えると、エージェントが3Dモデリングと印刷準備を担い、完成したジョブを3Dプリンターに送る。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AIのResearch LeadであるYuan-Chen Guo氏は「近く登場するH3.5 3Dネイティブモデルは生成3D技術の新たな節目であり、印刷可能な生成3Dコンテンツを3Dプリンターへ直接届ける。また、3Dプリント向けに特別に開発したAIエージェントPolipopは、人々のアイデアを3Dプリント物へと形にする手助けをする」と述べた。来場者はHall 12.1のBooth B01で、H-seriesモデル、Tripo Studio、Polipopを試すことができる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tripo AI预览新智能体\n把创意送到打印机",
+          "body": "Tripo在Formnext预览了H3.5模型和一站式打印智能体Polipop。",
+          "mini_headline": "Tripo打印智能体",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI在Frankfurt举行的Formnext 2026上首次展示了H系列即将推出的3D原生基础模型H3.5，并推出了专为增材制造打造的人工智能智能体Polipop。在展会的新闻发布会上，该公司展示了由新模型生成的3D打印作品，并将这两款产品定位为连接AI生成（AI-generated）内容与3D打印机的桥梁。"
+              },
+              {
+                "t": "p",
+                "x": "H3.5相较前代H3.1是一次重大升级，在捕捉精细细节和保持视觉准确性方面迈出了重要一步。该模型还能生成几乎无需编辑、可直接打印的3D内容。该公司还演示了其现有H-series模型如何在短短几分钟内将创意变成3D打印物体。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo还在台上介绍了Polipop——一款将用户创意转化为定制3D打印物品的智能体。只需给出创意，该智能体便会完成3D建模和打印准备，再将完成的任务发送到3D打印机。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI研究负责人（Research Lead）Yuan-Chen Guo表示：“我们即将推出的H3.5 3D原生模型代表了生成式3D技术的新里程碑，可将可打印的生成3D内容直接送到3D打印机；而专为3D打印开发的AI智能体Polipop，则帮助人们把创意塑造成3D打印物体。”观众可在Hall 12.1的Booth B01试用H-series模型、Tripo Studio和Polipop。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tripo AI anticipa un agente\nque lleva ideas a la impresora",
+          "body": "En Formnext, Tripo presentó su modelo H3.5 y Polipop, un agente que lleva una idea del modelado a la impresora.",
+          "mini_headline": "El agente de impresión de Tripo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI mostró por primera vez H3.5, un próximo modelo fundacional nativo 3D de su serie H, en Formnext 2026 en Frankfurt, y presentó Polipop, un agente de inteligencia artificial creado para la fabricación aditiva. Durante una rueda de prensa en la feria, la compañía exhibió piezas impresas en 3D generadas por el nuevo modelo y presentó ambos productos como un vínculo entre el contenido AI-generated y las impresoras 3D."
+              },
+              {
+                "t": "p",
+                "x": "H3.5 supone una mejora importante respecto a su predecesor H3.1 y da un paso significativo en la captura de detalles finos y la conservación de la precisión visual. El modelo también produce contenido 3D listo para imprimir que requiere poca edición. La compañía demostró además cómo su modelo actual de la H-series puede convertir una idea en un objeto impreso en 3D en apenas unos minutos."
+              },
+              {
+                "t": "p",
+                "x": "Tripo también presentó en el escenario a Polipop como un agente que convierte las ideas de los usuarios en artículos personalizados impresos en 3D. Una vez recibida una idea, el agente se encarga del modelado 3D y la preparación de la impresión, y luego envía el trabajo terminado a una impresora 3D."
+              },
+              {
+                "t": "p",
+                "x": "“Nuestro próximo modelo nativo 3D H3.5 representa un nuevo hito en la tecnología 3D generativa, ya que lleva contenido 3D generado y listo para imprimir directamente a una impresora 3D, mientras que Polipop, el agente de AI desarrollado especialmente para la impresión 3D, ayuda a dar forma a las ideas de las personas como objetos impresos en 3D”, dijo Yuan-Chen Guo, Research Lead de Tripo AI. Los visitantes pueden probar el modelo de la H-series, Tripo Studio y Polipop en el Booth B01 del Hall 12.1."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Tripo AI, 출력까지\n가는 에이전트 공개",
+          "body": "Tripo가 Formnext에서 H3.5와 출력 에이전트 Polipop을 공개했다.",
+          "mini_headline": "Tripo의 출력 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI가 Frankfurt에서 열린 Formnext 2026에서 H 시리즈의 차기 3D 네이티브 파운데이션 모델 H3.5를 처음 공개하고, 적층 제조용 인공지능 에이전트 Polipop을 소개했다. 회사는 행사 기자회견에서 새 모델로 생성한 3D 프린팅 결과물을 전시하고, 두 제품을 AI 생성(AI-generated) 콘텐츠와 3D 프린터를 잇는 연결고리로 제시했다."
+              },
+              {
+                "t": "p",
+                "x": "H3.5는 이전 모델 H3.1보다 크게 향상된 버전으로, 세밀한 디테일 포착과 시각적 정확도 유지에서 큰 진전을 이뤘다. 편집이 거의 필요 없는 출력용 3D 콘텐츠도 생성한다. 회사는 현재의 H-series 모델이 단 몇 분 만에 아이디어를 3D 프린팅 물체로 바꾸는 과정도 시연했다."
+              },
+              {
+                "t": "p",
+                "x": "Tripo는 사용자의 아이디어를 맞춤형 3D 프린팅 제품으로 바꿔 주는 에이전트로 Polipop을 무대에서 소개했다. 아이디어가 주어지면 에이전트가 3D 모델링과 출력 준비를 처리한 뒤 완성된 작업을 3D 프린터로 보낸다."
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI의 Research Lead인 Yuan-Chen Guo는 “곧 나올 H3.5 3D 네이티브 모델은 생성형 3D 기술의 새로운 이정표로, 출력 가능한 생성 3D 콘텐츠를 3D 프린터로 바로 보낸다. 3D 프린팅을 위해 특별히 개발한 AI 에이전트 Polipop은 사람들의 아이디어를 3D 프린팅 물체로 빚어내도록 돕는다”라고 말했다. 방문객은 Hall 12.1의 Booth B01에서 H-series 모델, Tripo Studio, Polipop을 체험할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tripo AI、構想を\n印刷まで導くエージェント",
+          "body": "TripoはFormnextで、H3.5と印刷用エージェントPolipopを先行公開した。",
+          "mini_headline": "Tripoの印刷エージェント",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AIは、FrankfurtのFormnext 2026で、Hシリーズの次期3DネイティブファウンデーションモデルH3.5を初公開し、積層造形向けの人工知能エージェントPolipopを発表した。会期中の記者会見では新モデルで生成した3Dプリント作品を展示し、両製品をAI生成（AI-generated）コンテンツと3Dプリンターをつなぐ存在として紹介した。"
+              },
+              {
+                "t": "p",
+                "x": "H3.5は前身のH3.1から大幅に進化し、細部の再現と視覚的な正確さの維持で大きく前進した。編集をほとんど必要としない、印刷可能な3Dコンテンツも生成する。同社は現行のH-seriesモデルが、わずか数分でアイデアを3Dプリント物に変える様子も実演した。"
+              },
+              {
+                "t": "p",
+                "x": "Tripoはステージ上で、ユーザーのアイデアをカスタム3Dプリント品に変えるエージェントとしてPolipopも紹介した。アイデアを与えると、エージェントが3Dモデリングと印刷準備を担い、完成したジョブを3Dプリンターに送る。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AIのResearch LeadであるYuan-Chen Guo氏は「近く登場するH3.5 3Dネイティブモデルは生成3D技術の新たな節目であり、印刷可能な生成3Dコンテンツを3Dプリンターへ直接届ける。また、3Dプリント向けに特別に開発したAIエージェントPolipopは、人々のアイデアを3Dプリント物へと形にする手助けをする」と述べた。来場者はHall 12.1のBooth B01で、H-seriesモデル、Tripo Studio、Polipopを試すことができる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tripo AI预览新智能体\n把创意送到打印机",
+          "body": "Tripo在Formnext预览了H3.5模型和一站式打印智能体Polipop。",
+          "mini_headline": "Tripo打印智能体",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI在Frankfurt举行的Formnext 2026上首次展示了H系列即将推出的3D原生基础模型H3.5，并推出了专为增材制造打造的人工智能智能体Polipop。在展会的新闻发布会上，该公司展示了由新模型生成的3D打印作品，并将这两款产品定位为连接AI生成（AI-generated）内容与3D打印机的桥梁。"
+              },
+              {
+                "t": "p",
+                "x": "H3.5相较前代H3.1是一次重大升级，在捕捉精细细节和保持视觉准确性方面迈出了重要一步。该模型还能生成几乎无需编辑、可直接打印的3D内容。该公司还演示了其现有H-series模型如何在短短几分钟内将创意变成3D打印物体。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo还在台上介绍了Polipop——一款将用户创意转化为定制3D打印物品的智能体。只需给出创意，该智能体便会完成3D建模和打印准备，再将完成的任务发送到3D打印机。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI研究负责人（Research Lead）Yuan-Chen Guo表示：“我们即将推出的H3.5 3D原生模型代表了生成式3D技术的新里程碑，可将可打印的生成3D内容直接送到3D打印机；而专为3D打印开发的AI智能体Polipop，则帮助人们把创意塑造成3D打印物体。”观众可在Hall 12.1的Booth B01试用H-series模型、Tripo Studio和Polipop。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tripo AI anticipa un agente\nque lleva ideas a la impresora",
+          "body": "En Formnext, Tripo presentó su modelo H3.5 y Polipop, un agente que lleva una idea del modelado a la impresora.",
+          "mini_headline": "El agente de impresión de Tripo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI mostró por primera vez H3.5, un próximo modelo fundacional nativo 3D de su serie H, en Formnext 2026 en Frankfurt, y presentó Polipop, un agente de inteligencia artificial creado para la fabricación aditiva. Durante una rueda de prensa en la feria, la compañía exhibió piezas impresas en 3D generadas por el nuevo modelo y presentó ambos productos como un vínculo entre el contenido AI-generated y las impresoras 3D."
+              },
+              {
+                "t": "p",
+                "x": "H3.5 supone una mejora importante respecto a su predecesor H3.1 y da un paso significativo en la captura de detalles finos y la conservación de la precisión visual. El modelo también produce contenido 3D listo para imprimir que requiere poca edición. La compañía demostró además cómo su modelo actual de la H-series puede convertir una idea en un objeto impreso en 3D en apenas unos minutos."
+              },
+              {
+                "t": "p",
+                "x": "Tripo también presentó en el escenario a Polipop como un agente que convierte las ideas de los usuarios en artículos personalizados impresos en 3D. Una vez recibida una idea, el agente se encarga del modelado 3D y la preparación de la impresión, y luego envía el trabajo terminado a una impresora 3D."
+              },
+              {
+                "t": "p",
+                "x": "“Nuestro próximo modelo nativo 3D H3.5 representa un nuevo hito en la tecnología 3D generativa, ya que lleva contenido 3D generado y listo para imprimir directamente a una impresora 3D, mientras que Polipop, el agente de AI desarrollado especialmente para la impresión 3D, ayuda a dar forma a las ideas de las personas como objetos impresos en 3D”, dijo Yuan-Chen Guo, Research Lead de Tripo AI. Los visitantes pueden probar el modelo de la H-series, Tripo Studio y Polipop en el Booth B01 del Hall 12.1."
               }
             ]
           }
