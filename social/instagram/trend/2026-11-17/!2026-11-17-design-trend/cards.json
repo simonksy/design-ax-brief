@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "에이전트 화면, 규격부터 굳는다",
+    "date": "2026.11.17",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "2차 원문 대조(5건 모두 원문 재확인): 게재일 10.27·11.06·11.11·11.14·11.14 확인. A2UI Express 토큰·지연 최대 3x(Direct JSON 대비), json-render→Block Kit·Adaptive Cards, A2UI 1.0 첫 안정판·등록한 부품만 사용·Atlassian·Alation·Bloomberg·ByteDance가 개발 중('도입'→'이걸로 개발 중'으로 고침), UI SDK 동작 50+개·도구 호출 16→5회(Vercel 자체 측정, 설정 화면 한 과제), Astryx 'In v0, a design system is an agent skill' 원문 확인. 마지막 장은 Astryx 원문(사람과 에이전트를 함께 돕는 디자인 시스템)으로 결론. 사진은 A2UI 1.0 카드 한 장 — Google 공식 소개 영상(sick day three ways) 스틸, 캡션에 'Google' 표기.",
+    "sources": [
+      "Google Developers Blog — Fast, reliable A2UI, with swappable inference formats (2026.10.27)",
+      "Vercel — Chat SDK agents can now stream generative UI with json-render (2026.11.06)",
+      "Google Developers Blog — A2UI 1.0: Build delightful, fast, reliable, agentic experiences (2026.11.11)",
+      "DEV Community — Vercel's UI SDK Hands Agents Behaviors, Not Components (2026.11.14)",
+      "Astryx (Meta) — Astryx is now available in v0 (2026.11.14)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 디자인 · 10.27~11.14",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "3배 빠르게",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.06",
+          "t": "채팅 카드",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.11",
+          "t": "1.0 안정판",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.14",
+          "t": "동작 50+",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.14",
+          "t": "v0 스킬",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "에이전트가 그릴 화면의 부품 규격을 플랫폼들이 먼저 깔고 있다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "에이전트 화면,\n규격부터 굳는다",
+      "body": "한 건씩 보면 개발자 SDK 소식이다. 이어 보면 Google·Vercel·Meta가 3주 새 에이전트용 화면 부품 규격을 깔았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "느린 생성 UI,\n형식을 바꾸다",
+      "body": "Google A2UI가 기본 형식을 JSON에서 Express로 바꿨다. 같은 화면에 토큰도 지연도 최대 3배 줄었다.",
+      "foot": "2026.10.27",
+      "_src": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "_id": "a2ui",
+      "stat_top": "Direct JSON",
+      "stat_arrow": "기본 추론 형식을 A2UI Express로",
+      "stat_bottom": "지연 최대 3배↓",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.06",
+      "headline": "한 번 쓴 UI,\n채팅앱마다 맞춰",
+      "body": "에이전트가 쓴 JSON 명세 하나가 Slack엔 Block Kit, Teams엔 Adaptive Cards로 뜬다.",
+      "foot": "2026.11.06",
+      "_src": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+      "_id": "vercel-json-render-chat",
+      "stat_top": "에이전트의 JSON 명세 하나",
+      "stat_arrow": "json-render가 카드로 변환",
+      "stat_bottom": "Slack·Teams",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "A2UI 1.0,\n첫 안정판",
+      "body": "에이전트가 글 대신 화면으로 답한다. 등록한 디자인 시스템 부품만 쓴다. Atlassian·Bloomberg 등이 개발 중.",
+      "foot": "2026.11.11",
+      "_src": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "_id": "google-a2ui-v1-stable",
+      "media": "pipeline/media/google-a2ui-v1-stable.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.14",
+      "headline": "컴포넌트 대신\n동작을 건넨다",
+      "body": "Vercel Labs UI SDK는 동작 50+개를 주고 조립은 에이전트에 맡긴다. 설정 화면 한 과제의 Vercel 자체 측정.",
+      "foot": "2026.11.14",
+      "_src": "https://dev.to/dishant0406/vercels-ui-sdk-hands-agents-behaviors-not-components-25n0",
+      "_id": "vercel-ui-sdk-behaviors",
+      "stat_top": "브라우저 도구 16회",
+      "stat_arrow": "UI SDK 브리지로 바꾸자 도구 호출",
+      "stat_bottom": "5회",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.11.14",
+      "headline": "디자인 시스템이\n스킬이 되다",
+      "body": "Astryx를 고르면 가이드·컴포넌트·템플릿이 v0 빌드에 실린다. 디자인 시스템을 사람과 에이전트가 함께 읽는다.",
+      "foot": "2026.11.14",
+      "_src": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
+      "_id": "astryx-v0-skill",
+      "quote": "v0에서\n디자인 시스템은\n에이전트 스킬이다",
+      "quote_by": "Astryx 팀 · Meta"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

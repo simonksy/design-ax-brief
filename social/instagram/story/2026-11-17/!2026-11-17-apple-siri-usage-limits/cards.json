@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "issue": "Apple, 복잡한 Siri AI 요청에 하루 한도 시험",
+    "date": "2026.11.16",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "The Verge(Andrew Liszewski, 2026-11-16 19:24 UTC 게재) 원문을 그 출처인 MacRumors 'iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades'(2026-11-16 18:14 UTC)로 대조. 확인: iOS·iPadOS·macOS 27.3 베타(MacRumors 별도 기사로 베타 2, 11.16 배포·정식은 12월), 기기별 무료 일일 한도·이월 없음, 대상 4개 범주(다단계·개인 맥락 Siri AI 요청 / Image Playground·사진 Clean Up·확장·Spatial Reframing / AFM Cloud·Cloud Pro를 쓰는 단축어 / Private Cloud Compute의 Apple Foundation Models를 쓰는 외부 앱), 기본 명령 예시('set a timer for 30 minutes') 무제한, iCloud+ 50GB 증가 없음·200GB $2.99 최대 2배·2TB $9.99 5배·6TB $29.99 10배·12TB $59.99 20배·가격 변동 없음, 가족 공유 풀 선착순, 사용자 시간대 자정 무렵 초기화, 12TB 이상 추가 사용량 계획 없음, 한도 근접 경고·도달 알림. 기능별 횟수는 미공개. 'Apple 발표'가 아니라 베타에서 확인된 MacRumors 보도로 귀속. Logic Pro $49.99 Intelligence Usage Pack은 Verge 2026.11.09 기사로 확인(1회 구매). 정정: 초안 날짜 11.17 → 기사 게재일 11.16(미국 기준), 초안의 Verge 표기 'Apple Foundation Cloud and Cloud Pro Models'는 MacRumors 원문 'AFM Cloud·AFM Cloud Pro'로, '자정까지'는 '자정 무렵(사용자 시간대)'으로, 배수는 '최대'로. 미디어: 초안 pipeline/media 이미지는 Verge CDN에서 잘라 온 Apple 이미지라 버리고, Apple Newsroom 공식 보도자료 이미지 3장(2026.06 'Apple introduces Siri AI…' 히어로, 'Apple unveils next generation of Apple Intelligence, Siri AI…' 개인 맥락 Maps 화면, 'Apple Intelligence brings powerful AI capabilities…' Image Playground)을 src/에 받아 한 장씩만 씀.",
+    "sources": [
+      "The Verge — Apple is testing daily usage limits for more complex Siri AI interactions (2026.11.16)",
+      "MacRumors — iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades (2026.11.16)",
+      "The Verge — Apple's $50 Intelligence Usage Packs extend access to some AI features (2026.11.09)",
+      "Apple Newsroom — Siri AI·Apple Intelligence 보도자료 이미지 (2026.06.08)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 가젯 · 2026.11.16",
+      "headline": "Siri AI에 하루 한도",
+      "body": "Apple이 iOS 27.3 베타에서 복잡한 Siri AI 요청에 기기별 일일 한도를 시험한다고 MacRumors가 전했다.",
+      "foot": "밀어서 보기 →",
+      "media": "src/siri-ai-hero.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무엇이 세어지나",
+      "headline": "여러 단계 요청부터",
+      "body": "'30분 타이머' 같은 단순 명령은 계속 무제한이다. 내 일정·위치를 엮는 다단계 요청에 횟수가 붙는다.",
+      "foot": "2026.11.16",
+      "media": "src/siri-personal-context.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "또 무엇이 묶이나",
+      "headline": "이미지·단축어·외부 앱",
+      "body": "Image Playground, 사진 앱 Clean Up·확장, 클라우드 모델을 쓰는 단축어와 외부 앱도 한도 안이다.",
+      "foot": "2026.11.16",
+      "media": "src/image-playground.jpg",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "무료 한도",
+      "stat_arrow": "iCloud+ 12TB(월 $59.99)면",
+      "stat_bottom": "최대 20배",
+      "stat_strike": false,
+      "eyebrow": "더 쓰려면",
+      "headline": "요금제 따라 최대 20배",
+      "body": "200GB($2.99)는 2배, 2TB 5배, 6TB 10배. 요금은 그대로고 50GB는 늘지 않는다. 가족은 한도를 나눠 쓴다.",
+      "foot": "2026.11.16",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "하루 무료 한도",
+      "stat_arrow": "넘으면 구독·사용량 팩",
+      "stat_bottom": "쓴 만큼 낸다",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "AI에도 사용량 요금",
+      "body": "한도는 이월 없이 자정 무렵 초기화된다. 지난주 Logic Pro엔 $49.99짜리 사용량 팩이 먼저 붙었다.",
+      "foot": "2026.11.16",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

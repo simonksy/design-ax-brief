@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "issue": "Unity CLI 1.0 정식 출시, 실행의 98%는 에이전트",
+    "date": "2026.11.17",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "Unity 공식 블로그 'The Unity CLI 1.0 is here!'(Christopher Addison, 2026.11.17 게재 — 페이지 표기 Nov 17, 2026 · JSON-LD datePublished 2026-11-17) 원문 대조. 확인: 2026.7.15 터미널 도입(베타), 11.17 Unite Tokyo에서 Unity CLI·Pipeline 패키지(com.unity.pipeline) 베타 종료, 베타 릴리스 17회+, 7월 20일 이후 로그인 사용자 350,000명+ · 명령 6억 회+ · 그중 약 98%가 코딩 에이전트·기타 자동화, unity setup이 Claude Code·Codex·Grok Build·Google Antigravity 공식 플러그인 설치, 숨은 대화상자를 CLI가 읽고 응답, 1.x 동안 명령·플래그·출력 호환(제거 전 지원 중단 경고), Build Server 라이선스가 에이전트·자동화까지 포함(인스턴스당 1개, 헤드리스 Editor·컨테이너). 인용은 원문에 실린 Dorado Digital 발언 번역. '98%'는 Unity 자체 집계로 귀속. 정정: 초안 제목·본문은 잘린 기계 발췌라 전부 새로 씀. 초안 영상(pipeline/media/unity-cli-ga-release.mp4)은 Unity 대표 이미지를 움직인 것이라 버리고, 같은 Unity 공식 키 비주얼(og:image, cdn.sanity.io)을 표지 한 장에만 정지 사진으로 씀. 나머지는 stat·quote. 날짜는 초안과 같음(2026.11.17).",
+    "sources": [
+      "Unity — The Unity CLI 1.0 is here! (2026.11.17)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "src/unity-cli-1.0.png",
+      "eyebrow": "AI × 게임 · 2026.11.17",
+      "headline": "Unity CLI 정식",
+      "body": "Unity가 Unite Tokyo에서 터미널 도구 Unity CLI 1.0을 냈다. 코딩 에이전트가 Unity를 직접 다루는 길이다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "명령 6억 회+",
+      "stat_arrow": "누가 돌렸나 보니",
+      "stat_bottom": "98% 자동화",
+      "stat_strike": false,
+      "eyebrow": "누가 쓰고 있나",
+      "headline": "실행 98%는 에이전트",
+      "body": "7월 20일 이후 로그인 사용자 35만 명 이상이 낸 명령이다. 코딩 에이전트와 자동화가 대부분을 돌렸다(Unity 집계).",
+      "foot": "2026.11.17",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "베타 17번+",
+      "stat_arrow": "사용자 보고로 다듬어",
+      "stat_bottom": "1.0",
+      "stat_strike": false,
+      "eyebrow": "무엇이 바뀌었나",
+      "headline": "명령 한 줄로 연결",
+      "body": "unity setup 하나면 Claude Code·Codex·Grok Build·Antigravity에 Unity 공식 플러그인이 깔린다.",
+      "foot": "2026.11.17",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "과장이 아니다. CLI가 Unity로\n일하는 방식을 완전히 바꿔 놓았다.",
+      "quote_by": "Dorado Digital · Unity 발표 글",
+      "eyebrow": "써 본 스튜디오는",
+      "headline": "일하는 방식이 바뀌었다",
+      "body": "보이지 않는 팝업에 세션이 멈추던 문제도 고쳤다. 이제 CLI가 대화상자를 읽고 직접 답한다.",
+      "foot": "2026.11.17",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "명령·플래그·출력은\n1.x 내내 호환된다.",
+      "quote_by": "Unity · 1.0 발표 글",
+      "eyebrow": "그래서 지금",
+      "headline": "에이전트도 정식 사용자",
+      "body": "Build Server 라이선스도 이제 빌드를 넘어 에이전트·자동화 실행까지 덮는다. 인스턴스당 하나다.",
+      "foot": "2026.11.17",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
