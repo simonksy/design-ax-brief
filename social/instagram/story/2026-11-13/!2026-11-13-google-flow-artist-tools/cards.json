@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "issue": "Google Flow에 작가가 만든 도구 다섯 개",
+    "date": "2026.11.12",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "Google 공식 블로그 원문(Arathi Sethumadhavan, datePublished 2026-11-12T20:30Z, 페이지 표기 Nov 12, 2026) 대조. 정정: 초안 날짜 2026.11.13(KST 수집일) → 원문 게재일 2026.11.12. 확인: 도구 5개 모두 창작자가 만듦 — Character Poster(James Gerde, 콘셉트를 포스터 비주얼로), Character Arc(Anurag Tiwari, 여러 나이·인생 단계에서 핵심 외형 유지; 1974년 사건을 다루는 다큐 'Children of the Sun'에서 주인공의 어린 시절~성인기 추적, 인용문 원문 그대로 번역), Pixel Machine(같은 Tiwari, 비트맵·ASCII·CRT·픽셀 아트·글리치), Lucid Glass(Ezra Paulekas, 프리즘·후광·굴절·광학 블룸, 'impossible lens'), Pocket Studio(Ryan McCoy, 20년 넘는 프리비즈·VFX 경력, 한 테이크에서 여러 카메라 앵글 + 화질 향상, 배우 원래 연기 유지). 초안 영상(pipeline/media/google-flow-artist-tools.mp4)은 다섯 장에 같은 클립이라 버리고, 원문에 실린 Google 공식 데모 영상 5개(storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/0N_…_-_10.6.26_-_1.mp4)에서 도구별로 4초씩 UI 테두리를 잘라 1280폭으로 씀(원본 키프레임 인덱스가 깨져 -ss를 -i 뒤에 둠). 영상 속 'Age 85' 등 데모 수치는 원문에 없어 카드에 싣지 않음.",
+    "sources": [
+      "Google 블로그 — 5 new Google Flow Tools designed by visual artists (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/flow-character-poster.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "AI × 디자인 · 2026.11.12",
+      "headline": "작가가 만든 도구 5종",
+      "body": "구글 AI 창작 스튜디오 Flow에 새 도구 5개가 나왔다. 모두 현업 창작자가 직접 만든 것이다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/flow-character-arc.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "나이를 바꿔도",
+      "headline": "얼굴은 그대로",
+      "body": "영화감독 Anurag Tiwari의 Character Arc. 한 인물을 나이·인생 단계별로 그려도 핵심 외형은 지킨다.",
+      "foot": "2026.11.12",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/flow-pixel-machine.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "매끈한 AI 그림이 싫다면",
+      "headline": "일부러 거칠게",
+      "body": "Tiwari가 만든 Pixel Machine은 이미지를 비트맵·ASCII·CRT·픽셀 아트·글리치 풍으로 바꾼다.",
+      "foot": "2026.11.12",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "video": "src/flow-lucid-glass.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "유리로는 못 찍는 빛",
+      "headline": "불가능한 렌즈",
+      "body": "Ezra Paulekas의 Lucid Glass. 빛이 유리를 지나는 모습을 흉내 내 프리즘·후광·굴절을 만든다.",
+      "foot": "2026.11.12",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "video": "src/flow-pocket-studio.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "그래서 지금",
+      "headline": "폰 영상이 스튜디오로",
+      "body": "Ryan McCoy의 Pocket Studio는 폰 영상 한 테이크로 여러 앵글을 뽑는다. 연기는 그대로다.",
+      "foot": "2026.11.12",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
