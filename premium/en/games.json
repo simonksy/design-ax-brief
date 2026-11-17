@@ -11955,6 +11955,197 @@
           "x": "Wccftech notes he was likely referring to neural rendering in a broader sense, including AI-powered upscaling, frame generation and ray reconstruction, rather than NVIDIA's DLSS 5-like approach. Full details may take a while, given rumors that the console has been delayed to Holiday 2028."
         }
       ]
+    },
+    "games/games-mihoyo-gamer-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1220393.webp"
+        },
+        {
+          "t": "p",
+          "x": "In Honkai: Star Rail, the AI appears to have been tested on 2 side quests and 7 minigames."
+        },
+        {
+          "t": "p",
+          "x": "On November 13, a research team at miHoYo, the developer behind Genshin Impact, published a paper on arXiv about \"Gamer\", a general-purpose AI agent designed to play a wide range of games."
+        },
+        {
+          "t": "p",
+          "x": "Gamer is an AI that plays games autonomously, operating a keyboard and mouse based on what is shown on the game screen to move characters, advance conversations and more."
+        },
+        {
+          "t": "p",
+          "x": "To develop Gamer, the team started from Qwen3-VL (8B), an AI model released by Alibaba, and used tens of thousands of hours of play recordings to teach it which key and mouse inputs fit what is happening on screen."
+        },
+        {
+          "t": "p",
+          "x": "Next, they added explanations of why each action was taken to the play recordings so the model would learn goal-directed behavior. After that, they had the AI play games itself and also applied reinforcement learning, in which it learns through trial and error which actions lead to reaching its goals."
+        },
+        {
+          "t": "video",
+          "yt": "4DA0674x1NI"
+        },
+        {
+          "t": "p",
+          "x": "Gamer's performance was tested on Honkai: Star Rail as well as ViZDoom, a research environment based on DOOM, among others. In Honkai: Star Rail, the team evaluated Gamer after reinforcement learning using 2 side quests and 7 minigames that were not used in training."
+        },
+        {
+          "t": "p",
+          "x": "For the side quests, each intermediate goal needed to progress the quest, such as moving to a set location or talking to a character, was evaluated one by one. The results are as follows."
+        },
+        {
+          "t": "p",
+          "x": "Side quest \"Careless Storage Invites Theft, Part 1\": intermediate goal completion rate 80.0% / Side quest \"Animals Are Ferocious\": intermediate goal completion rate 83.6% / 7 minigames: average success rate 49.7% (GPT-6.1-Sol scored 17.1% on the same evaluation)"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220311.png",
+          "cap": "Intermediate goal completion rates by model on the 2 side quests. \"Gamer-RL\" in the table shows results after reinforcement learning"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220312.png",
+          "cap": "The 7 Honkai: Star Rail minigames used to evaluate Gamer"
+        },
+        {
+          "t": "p",
+          "x": "The team cited automated testing in game development as one possible use for Gamer. Specifically, it could be used to check that quests progress correctly or to run regression tests on existing content after updates."
+        },
+        {
+          "t": "p",
+          "x": "The project page also has footage of Gamer actually playing Honkai: Star Rail, which is worth a look."
+        }
+      ]
+    },
+    "games/games-ashes-singularity2-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rYxAXFKHCxrG3NcDcXa2sj-1920-80.png",
+          "cap": "Ashes 2 key art"
+        },
+        {
+          "t": "p",
+          "x": "Ashes of the Singularity 2 has some neat ideas for army management, but a poor campaign, an underwhelming new faction, and obtrusive generative AI use undermines the enterprise."
+        },
+        {
+          "t": "p",
+          "x": "The RTS sequel delivers on the promise of letting players control truly colossal armies, and Oxide Games' army system makes it remarkably easy to control. But the campaign is terrible, the story borderline incomprehensible, and the whole experience is overshadowed by the spectre of generative AI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EeBFdH8utGzC8QeqYmt3VK.jpg",
+          "cap": "Ashes of the Singularity 2 fight"
+        },
+        {
+          "t": "p",
+          "x": "The campaign's 10 missions focus solely on the new United Earth Forces faction; the result is four, maybe five hours of half-decent campaigning."
+        },
+        {
+          "t": "p",
+          "x": "Ironically, the story is also where Oxide's use of generative AI is most evident. According to Ashes 2's Steam AI disclosure, Oxide used AI to \"provide post processing effects and animation to art created by human Stardock artists for some of the campaign cutscenes\" while \"some cutscenes use Stardock human artist-made 3D assets with AI to composite the final shot.\" Finally, \"some in-game unit barks, notifications, and a few minor characters use pre-generated ElevenLabs stock voices\"."
+        },
+        {
+          "t": "p",
+          "x": "The reviewer is skeptical that this represents the limit of Oxide's AI use: all the character portraits look AI generated, with a \"horrible, plasticky AI sheen,\" and the voice lines sound similarly infected."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fkNThBX42d56TZiv56LVUK.jpg",
+          "cap": "Ashes of the Singularity 2 fight"
+        },
+        {
+          "t": "p",
+          "x": "Skirmish is better, but the maps are generic and battles too attrition-heavy. \"Given more care and time (and less generative AI), I think this could have been a great RTS.\""
+        }
+      ]
+    },
+    "games/games-solo-ai-makers-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2026/11/AI-games-app-store-google-play.jpg?fit=1200%2C542&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Games made with AI tools like Claude Code are flooding the app stores – but very few of them appear to be generating any meaningful revenue or downloads. mobilegamer.biz asked creators who emailed about their AI-made games how many downloads they got and whether they made any money."
+        },
+        {
+          "t": "p",
+          "x": "In some cases, hobbyists have spent thousands on Claude tokens to get their game made and have seen practically no return. One exception: football drafting game 38-0-0, whose creator Deniz Sancar says it earns enough that he \"could live off it full time\"; downloads total around 300k on iOS and over 700k on Android."
+        },
+        {
+          "t": "p",
+          "x": "Tennis Tycoon, made in Claude by a retired tennis pro, has total sales of around $3k, though it cost thousands in tokens. Sprout: Cozy Idle Garden had 121 downloads and \"about $6 in revenue\". Zen Ten Match had 74 players and \"about $3\" in its first three weeks. Calc Quest reached over 25k players but has made around $120."
+        },
+        {
+          "t": "p",
+          "x": "Ivan Soyer spent $1500 on AI tools and tokens to make Dusk Climber: 1,000 downloads and no revenue yet. HotShot: Fireball Pool has made £0."
+        },
+        {
+          "t": "p",
+          "x": "The numbers are stark: right now there's simply no viable market for these types of games."
+        }
+      ]
+    },
+    "games/games-steam-direct-fee-x25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1220306.png"
+        },
+        {
+          "t": "video",
+          "yt": "8Irk0xZgBKA"
+        },
+        {
+          "t": "p",
+          "x": "On November 16, Mike Rose, founder of indie game publisher No More Robots, and Rami Ismail, co-founder of indie studio Vlambeer, floated the idea on their YouTube channel \"Mike & Rami Are Still Here\" of raising Steam's game submission and listing fee to $2,500 (about 400,000 yen), 25 times the current amount."
+        },
+        {
+          "t": "p",
+          "x": "According to Rose, Steam saw an average of 1,200 new games released per month in 2024, but in the first half of 2026 that rose to about 2,000 a month, then 2,800 in September and 3,600 in October, nearly doubling since the start of the year. Review results that used to arrive in 3-5 days now take close to 1 month."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220307.jpg",
+          "cap": "\"MANIFESTO: The Capitalism Roguelike\""
+        },
+        {
+          "t": "p",
+          "x": "The show argued that the main cause of the doubling in releases is a glut of shoddy games churned out with generative AI. Ismail cited a survey of 100 development studios in which 92% said they use AI in some form, and said Valve does not want to state a position on AI use."
+        },
+        {
+          "t": "p",
+          "x": "Because the current listing fee of $100 per title (the Steam Direct Fee) makes the cost of entry too low, the idea of \"raising it to $2,500\" also came up. \"Gabe (Newell) surely wants more money, so making the fee 25 times higher is a good idea,\" Ismail said sarcastically."
+        }
+      ]
+    },
+    "games/unity-cli-ga-release": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On July 15, 2026, we brought Unity to the terminal. Today at Unite Tokyo, the Unity CLI and the Pipeline package (com.unity.pipeline) are out of beta. Version 1.0 is ready for your projects, your build machines and your agents."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+          "cap": "Unity CLI 1.0"
+        },
+        {
+          "t": "p",
+          "x": "The beta was one binary that installs and manages Unity Editors, modules and projects from the terminal; the Pipeline package lets the CLI drive a running Editor, so a script or an agent can open a project, run a command and check the result. The Unity Hub now installs the CLI, and official Unity plugins for Claude Code, Codex, Grok Build and Google Antigravity give those agents skills written by Unity's own teams. More than 17 beta releases shipped."
+        },
+        {
+          "t": "p",
+          "x": "Since July 20, more than 350,000 logged-in users have run more than 600 million commands with the Unity CLI. About 98% of those runs come from coding agents and other automation."
+        },
+        {
+          "t": "p",
+          "x": "1.0 is also a commitment: commands, flags and output stay compatible across 1.x releases. The Build Server license now covers agents and automation, not only builds: one license per instance lets you run agents on a headless Editor or in a container. Coming soon: the Linux containerized Editor. Next: commands for AI Generators, Live Games and Build Automation, and accounts built for agents."
+        }
+      ]
     }
   }
 }

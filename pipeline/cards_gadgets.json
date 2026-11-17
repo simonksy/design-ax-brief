@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "gadgets",
   "cards": [
     {
-      "id": "apple-siri-usage-limits",
+      "id": "windows-ignite-hybrid-intelligence",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple, Siri AI\n복잡한 요청에 일일 한도",
-      "body": "iOS 27.3 베타가 Siri AI에 일일 한도를 걸고 iCloud+엔 늘린다.",
-      "mini_headline": "Apple, Siri AI 한도 시험",
+      "headline": "Windows AI 작업\n기기·클라우드로 나눈다",
+      "body": "Windows Hybrid Intelligence는 AI를 기기·클라우드에 나눈다.",
+      "mini_headline": "에이전트용 Windows 하이브리드 AI",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "source": "Windows Blog",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,203 +19,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-            "cap": "이미지: Apple"
+            "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
           },
           {
             "t": "p",
-            "x": "MacRumors에 따르면 Apple은 오늘 iOS 27.3, iPadOS 27.3, macOS 27.3 베타를 공개했다. 이번 업데이트에서 일부 Siri AI와 Apple Intelligence 기능에 기기별 일일 사용 한도를 새로 시험한다."
+            "x": "Microsoft는 Ignite 2026에서 에이전트를 컴퓨팅의 다음 전환점으로 꼽았다. 십억 대가 넘는 기기에서 돌아가는 Windows도 Hybrid Intelligence 시대에 맞춰 에이전트를 안전하게 실행하는 쪽으로 바뀌고 있다."
           },
           {
             "t": "p",
-            "x": "기본적인 Siri 명령과 요청은 지금처럼 무료로, 횟수 제한 없이 쓸 수 있다. 일일 한도가 걸리는 건 Photos의 이미지 생성·정리·확장처럼 클라우드 처리에 기대는 고급 기능이다. 대상은 네 가지다. “여러 단계를 거치는 개인 맥락 요청”을 처리하는 Siri AI, 이미지 생성·편집 도구, “Apple Foundation Cloud와 Cloud Pro Models에 의존하는” Shortcuts 자동화, 같은 클라우드 모델을 쓰는 서드파티 앱이다."
+            "x": "보안 업체가 보호 기능을 커널 모드에서 사용자 모드로 옮기게 해 주는 Windows endpoint security platform과 Windows administrator protection이 정식 출시됐다. Windows baseline protection은 아직 프리뷰다. Autopatch 고객은 온프레미스로 관리할 때보다 업데이트를 40% 이상 빨리 배포한다."
           },
           {
             "t": "p",
-            "x": "Apple은 기능별로 하루 몇 번까지 쓸 수 있는지 정확히 밝히지 않았다. 한도는 작업마다 다르고, 한도에 가까워지거나 다 쓰면 알림이 뜬다."
+            "x": "Hybrid Intelligence는 작업마다 맞는 모델과 컴퓨팅을 기기나 클라우드에서 골라 쓴다. Microsoft Execution Containers(MXC)는 에이전트마다 격리된 환경을 준다. 에이전트가 접근할 파일과 네트워크는 정책으로 정한다. OpenAI는 Codex에서 MXC를 기본으로 켰고 Meta는 수만 대의 Windows 기기에서 MXC를 운영한다."
+          },
+          {
+            "t": "img",
+            "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
           },
           {
             "t": "p",
-            "x": "50GB 옵션을 뺀 대부분의 iCloud Plus 요금제는 같은 가격에 일일 한도가 더 높다. 월 $2.99 200GB 요금제는 사용량이 2x 수준, 월 $9.99 2TB 요금제는 5x 수준이다. 월 $29.99 6TB 옵션과 월 $59.99 12TB 옵션은 각각 10x 와 20x 수준까지 늘어난다. iCloud Plus를 공유하는 가족 구성원은 사용량을 나눠 쓴다."
+            "x": "Windows 365 for Agents는 에이전트에 안전한 Cloud PCs를 내주는데, 이제 Copilot Credits로도 쓸 수 있다. Copilot+ PCs의 Copilot에는 로컬 컨텍스트, 로컬 작업, 로컬 모델이 곧 들어온다. 일상 언어로 파일을 다루는 기능과 읽기 전용 PC 진단도 여기에 포함된다."
           },
           {
             "t": "p",
-            "x": "Apple은 지난주 Logic Pro에 $49.99 Intelligence Usage Packs로 사는 “Buy More Usage” 옵션을 넣었다. 이 옵션은 이달 중 다른 Apple Creator Studio 앱으로도 확대될 전망이다."
+            "x": "GitHub Copilot Fusion은 이제 개발자 PCs에서 MAI Code 1.1 Flash 같은 로컬 모델로 코딩 작업을 보낼 수 있다. 아직은 프리뷰로 제공된다."
+          },
+          {
+            "t": "img",
+            "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple tests daily caps\non complex Siri AI requests",
-          "body": "The iOS 27.3 beta caps complex Siri AI requests per device each day, with higher limits for iCloud+ tiers.",
-          "mini_headline": "Apple tests Siri AI caps",
+          "headline": "Windows splits AI work\nbetween device and cloud",
+          "body": "Windows' new Hybrid Intelligence splits AI work between on-device and cloud models, with controls on agent access.",
+          "mini_headline": "Windows hybrid AI for agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "Image: Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors."
+                "x": "At Ignite 2026, Microsoft says agents are the next shift in computing, and Windows, running on over a billion devices, is being built to run them securely in the era of Hybrid Intelligence."
               },
               {
                 "t": "p",
-                "x": "Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, including Siri AI for “multi-step, personal context requests,” image generation and editing tools, Shortcuts automations that “rely on Apple Foundation Cloud and Cloud Pro Models,” and third-party apps that use those same cloud models."
+                "x": "The Windows endpoint security platform, which lets security providers move protections from kernel mode to user mode, and Windows administrator protection are now generally available; Windows baseline protection is in preview. Autopatch customers deploy updates over 40% faster than with on-premises management."
               },
               {
                 "t": "p",
-                "x": "Apple hasn’t specified exactly how many times those features can be used each day, but limits will vary based on the task, and users will be notified when approaching and reaching them."
+                "x": "Hybrid Intelligence uses the right model and compute for each task, on the device or in the cloud. Microsoft Execution Containers (MXC) give each agent a contained environment with policies for which files and networks it can reach. OpenAI has turned MXC on by default in Codex, and Meta runs it on tens of thousands of Windows devices."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "Most iCloud Plus plans (excluding the 50GB option) will include higher daily limits at their same price: the $2.99/month 200GB plan includes 2x the usage, the $9.99/month 2TB plan 5x, while the $29.99/month 6TB and $59.99 12TB/month options bump it to 10x and 20x. Family members sharing iCloud Plus get a shared usage pool."
+                "x": "Windows 365 for Agents gives agents secure Cloud PCs and is now eligible for Copilot Credits. Local context, local actions and local models are coming soon to Copilot on Copilot+ PCs, including plain-language file actions and read-only PC diagnostics."
               },
               {
                 "t": "p",
-                "x": "Last week Apple updated Logic Pro with a “Buy More Usage” option through $49.99 Intelligence Usage Packs, expected to come to other Apple Creator Studio apps this month."
+                "x": "GitHub Copilot Fusion can now route coding work to local models like MAI Code 1.1 Flash on developer PCs, in preview."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple, Siri AI\n복잡한 요청에 일일 한도",
-          "body": "iOS 27.3 베타가 Siri AI에 일일 한도를 걸고 iCloud+엔 늘린다.",
-          "mini_headline": "Apple, Siri AI 한도 시험",
+          "headline": "Windows AI 작업\n기기·클라우드로 나눈다",
+          "body": "Windows Hybrid Intelligence는 AI를 기기·클라우드에 나눈다.",
+          "mini_headline": "에이전트용 Windows 하이브리드 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "이미지: Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "MacRumors에 따르면 Apple은 오늘 iOS 27.3, iPadOS 27.3, macOS 27.3 베타를 공개했다. 이번 업데이트에서 일부 Siri AI와 Apple Intelligence 기능에 기기별 일일 사용 한도를 새로 시험한다."
+                "x": "Microsoft는 Ignite 2026에서 에이전트를 컴퓨팅의 다음 전환점으로 꼽았다. 십억 대가 넘는 기기에서 돌아가는 Windows도 Hybrid Intelligence 시대에 맞춰 에이전트를 안전하게 실행하는 쪽으로 바뀌고 있다."
               },
               {
                 "t": "p",
-                "x": "기본적인 Siri 명령과 요청은 지금처럼 무료로, 횟수 제한 없이 쓸 수 있다. 일일 한도가 걸리는 건 Photos의 이미지 생성·정리·확장처럼 클라우드 처리에 기대는 고급 기능이다. 대상은 네 가지다. “여러 단계를 거치는 개인 맥락 요청”을 처리하는 Siri AI, 이미지 생성·편집 도구, “Apple Foundation Cloud와 Cloud Pro Models에 의존하는” Shortcuts 자동화, 같은 클라우드 모델을 쓰는 서드파티 앱이다."
+                "x": "보안 업체가 보호 기능을 커널 모드에서 사용자 모드로 옮기게 해 주는 Windows endpoint security platform과 Windows administrator protection이 정식 출시됐다. Windows baseline protection은 아직 프리뷰다. Autopatch 고객은 온프레미스로 관리할 때보다 업데이트를 40% 이상 빨리 배포한다."
               },
               {
                 "t": "p",
-                "x": "Apple은 기능별로 하루 몇 번까지 쓸 수 있는지 정확히 밝히지 않았다. 한도는 작업마다 다르고, 한도에 가까워지거나 다 쓰면 알림이 뜬다."
+                "x": "Hybrid Intelligence는 작업마다 맞는 모델과 컴퓨팅을 기기나 클라우드에서 골라 쓴다. Microsoft Execution Containers(MXC)는 에이전트마다 격리된 환경을 준다. 에이전트가 접근할 파일과 네트워크는 정책으로 정한다. OpenAI는 Codex에서 MXC를 기본으로 켰고 Meta는 수만 대의 Windows 기기에서 MXC를 운영한다."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "50GB 옵션을 뺀 대부분의 iCloud Plus 요금제는 같은 가격에 일일 한도가 더 높다. 월 $2.99 200GB 요금제는 사용량이 2x 수준, 월 $9.99 2TB 요금제는 5x 수준이다. 월 $29.99 6TB 옵션과 월 $59.99 12TB 옵션은 각각 10x 와 20x 수준까지 늘어난다. iCloud Plus를 공유하는 가족 구성원은 사용량을 나눠 쓴다."
+                "x": "Windows 365 for Agents는 에이전트에 안전한 Cloud PCs를 내주는데, 이제 Copilot Credits로도 쓸 수 있다. Copilot+ PCs의 Copilot에는 로컬 컨텍스트, 로컬 작업, 로컬 모델이 곧 들어온다. 일상 언어로 파일을 다루는 기능과 읽기 전용 PC 진단도 여기에 포함된다."
               },
               {
                 "t": "p",
-                "x": "Apple은 지난주 Logic Pro에 $49.99 Intelligence Usage Packs로 사는 “Buy More Usage” 옵션을 넣었다. 이 옵션은 이달 중 다른 Apple Creator Studio 앱으로도 확대될 전망이다."
+                "x": "GitHub Copilot Fusion은 이제 개발자 PCs에서 MAI Code 1.1 Flash 같은 로컬 모델로 코딩 작업을 보낼 수 있다. 아직은 프리뷰로 제공된다."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple、Siri AI\n複雑な要求に日次上限を試験",
-          "body": "iOS 27.3 ベータは複雑なSiri AI要求に日次上限、iCloud+は枠を拡大する。",
-          "mini_headline": "Apple、Siri AIに利用上限を試験",
+          "headline": "Windows、AI処理を\n端末とクラウドで分担",
+          "body": "WindowsのHybrid IntelligenceはAI処理を端末とクラウドに分ける。",
+          "mini_headline": "エージェント向けWindowsハイブリッドAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "画像：Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "MacRumorsによると、Appleは本日iOS 27.3、iPadOS 27.3、macOS 27.3のベータ版を公開し、このアップデートで一部のSiri AIとApple Intelligence機能にデバイスごとの日次利用上限を新たに試している。"
+                "x": "MicrosoftはIgnite 2026で、エージェントがコンピューティングの次の転換点になると述べた。十億台を超えるデバイスで動くWindowsは、Hybrid Intelligenceの時代にエージェントを安全に動かせるよう構築が進んでいる。"
               },
               {
                 "t": "p",
-                "x": "基本的なSiriのコマンドやリクエストは引き続き無料かつ無制限だが、Photosでの画像の生成・クリーンアップ・拡張など、クラウド処理に依存する高度な機能は日次上限の対象になる。制限対象は四つのカテゴリーで、「複数ステップの、個人的な文脈を含むリクエスト」向けのSiri AI、画像生成・編集ツール、「Apple Foundation CloudとCloud Pro Modelsに依存する」Shortcutsの自動化、そして同じクラウドモデルを使うサードパーティアプリだ。"
+                "x": "セキュリティベンダーが保護機能をカーネルモードからユーザーモードへ移せるWindows endpoint security platformと、Windows administrator protectionが一般提供となった。Windows baseline protectionはプレビュー段階だ。Autopatchの利用企業は、オンプレミス管理より40%以上速く更新を展開している。"
               },
               {
                 "t": "p",
-                "x": "Appleはこれらの機能を毎日何回使えるかを正確には示していないが、上限はタスクによって異なり、上限に近づいたときと達したときにユーザーへ通知される。"
+                "x": "Hybrid Intelligenceは、タスクごとに適したモデルと計算資源をデバイス上またはクラウドで使い分ける。Microsoft Execution Containers(MXC)は各エージェントに隔離された環境を与え、アクセスできるファイルやネットワークをポリシーで定める。OpenAIはCodexでMXCを既定で有効にし、Metaは数万台のWindowsデバイスでMXCを運用している。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "iCloud Plusのほとんどのプラン（50GB オプションを除く）は、同じ価格でより高い日次上限を備える。月額$2.99の200GB プランは利用量が2x 、月額$9.99の2TB プランは5x 、月額$29.99の6TB と月額$59.99の12TB オプションはそれぞれ10x と20x に引き上げられる。iCloud Plusを共有する家族メンバーは共有の利用枠を使う。"
+                "x": "Windows 365 for Agentsはエージェントに安全なCloud PCsを提供し、Copilot Creditsの対象にもなった。Copilot+ PCsのCopilotには、自然な言葉でのファイル操作や読み取り専用のPC診断を含め、ローカルのコンテキスト、アクション、モデルが近く加わる。"
               },
               {
                 "t": "p",
-                "x": "Appleは先週、Logic Proに$49.99のIntelligence Usage Packsによる「Buy More Usage」オプションを追加した。今月中に他のApple Creator Studioアプリにも導入される見込みだ。"
+                "x": "GitHub Copilot Fusionは、開発者のPCsで動くMAI Code 1.1 Flashなどのローカルモデルにコーディング作業を振り分けられるようになった。プレビューとして提供される。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple测试Siri AI\n复杂请求每日上限",
-          "body": "iOS 27.3 测试版按设备每日限制复杂的Siri AI请求，iCloud+套餐上限更高。",
-          "mini_headline": "Apple测试Siri AI用量上限",
+          "headline": "Windows将AI任务\n分给设备与云端",
+          "body": "Windows的Hybrid Intelligence把AI任务分给端侧和云端模型。",
+          "mini_headline": "Windows面向智能体的混合AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "图片：Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "据MacRumors报道，Apple今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3测试版，并借这次更新为部分Siri AI和Apple Intelligence功能测试新的按设备每日使用上限。"
+                "x": "Microsoft在Ignite 2026上表示，智能体是计算的下一次变革；运行在超过十亿台设备上的Windows，正在为Hybrid Intelligence时代安全运行智能体而打造。"
               },
               {
                 "t": "p",
-                "x": "基础的Siri指令和请求仍将免费且不限次数，但依赖云端处理的高级功能，例如在Photos中生成、清理或扩展图像，将受每日上限约束。受限用途分为四类：处理“多步骤、个人情境请求”的Siri AI，图像生成与编辑工具，“依赖Apple Foundation Cloud和Cloud Pro Models”的Shortcuts自动化，以及使用同样云端模型的第三方应用。"
+                "x": "Windows endpoint security platform让安全厂商能把防护从内核模式移到用户模式，它与Windows administrator protection现已全面推出；Windows baseline protection处于预览阶段。Autopatch客户部署更新的速度比本地部署管理快40%以上。"
               },
               {
                 "t": "p",
-                "x": "Apple没有具体说明这些功能每天可以使用多少次，但上限会因任务而异，用户在接近和达到上限时都会收到通知。"
+                "x": "Hybrid Intelligence为每项任务在设备端或云端选用合适的模型和算力。Microsoft Execution Containers(MXC)为每个智能体提供隔离环境，并以策略规定其可访问的文件和网络。OpenAI已在Codex中默认开启MXC，Meta则在数万台Windows设备上运行它。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "大多数iCloud Plus方案（50GB 方案除外）将在价格不变的情况下提供更高的每日上限：每月$2.99的200GB 方案用量为2x ，每月$9.99的2TB 方案为5x ，每月$29.99的6TB 和每月$59.99的12TB 方案则分别提升至10x 和20x 。共享iCloud Plus的家庭成员共用一个用量池。"
+                "x": "Windows 365 for Agents为智能体提供安全的Cloud PCs，现已可使用Copilot Credits。Copilot+ PCs上的Copilot即将加入本地上下文、本地操作和本地模型，包括用日常语言操作文件和只读的PC诊断。"
               },
               {
                 "t": "p",
-                "x": "上周Apple为Logic Pro加入了“Buy More Usage”选项，可通过$49.99的Intelligence Usage Packs购买，预计本月将扩展到其他Apple Creator Studio应用。"
+                "x": "GitHub Copilot Fusion现在可将编码工作分配给开发者PCs上的MAI Code 1.1 Flash等本地模型，目前处于预览阶段。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple prueba límites diarios\na peticiones complejas a Siri AI",
-          "body": "La beta de iOS 27.3 limita a diario las peticiones complejas a Siri AI por dispositivo, con más margen en iCloud+.",
-          "mini_headline": "Apple prueba límites en Siri AI",
+          "headline": "Windows reparte el trabajo de AI\nentre dispositivo y nube",
+          "body": "La nueva Hybrid Intelligence de Windows reparte la AI entre modelos locales y en la nube, con control de agentes.",
+          "mini_headline": "Windows: AI híbrida para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "Imagen: Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple lanzó hoy las betas de iOS 27.3, iPadOS 27.3 y macOS 27.3, y está usando la actualización para probar nuevos límites de uso diario por dispositivo en algunas funciones de Siri AI y Apple Intelligence, según MacRumors."
+                "x": "En Ignite 2026, Microsoft afirma que los agentes son el próximo cambio en la informática, y Windows, presente en más de mil millones de dispositivos, se está construyendo para ejecutarlos de forma segura en la era de la Hybrid Intelligence."
               },
               {
                 "t": "p",
-                "x": "Los comandos y peticiones básicos a Siri seguirán siendo gratuitos e ilimitados, pero las funciones más avanzadas que dependen del procesamiento en la nube, como generar, limpiar o ampliar imágenes en Photos, estarán sujetas a los límites diarios. Hay cuatro categorías de uso limitado: Siri AI para “peticiones de varios pasos con contexto personal”, las herramientas de generación y edición de imágenes, las automatizaciones de Shortcuts que “dependen de Apple Foundation Cloud y Cloud Pro Models” y las apps de terceros que usan esos mismos modelos en la nube."
+                "x": "La Windows endpoint security platform, que permite a los proveedores de seguridad trasladar las protecciones del modo kernel al modo usuario, y Windows administrator protection ya están disponibles de forma general; Windows baseline protection está en versión preliminar. Los clientes de Autopatch implementan actualizaciones más de un 40% más rápido que con la gestión local."
               },
               {
                 "t": "p",
-                "x": "Apple no ha especificado cuántas veces exactamente se pueden usar esas funciones cada día, pero los límites variarán según la tarea y los usuarios recibirán un aviso al acercarse a ellos y al alcanzarlos."
+                "x": "Hybrid Intelligence usa el modelo y la capacidad de cómputo adecuados para cada tarea, en el dispositivo o en la nube. Microsoft Execution Containers (MXC) da a cada agente un entorno aislado con políticas sobre a qué archivos y redes puede acceder. OpenAI ha activado MXC por defecto en Codex, y Meta lo ejecuta en decenas de miles de dispositivos Windows."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los planes de iCloud Plus (salvo la opción de 50GB) incluirán límites diarios más altos al mismo precio: el plan de 200GB por $2.99/mes ofrece 2x el uso, el de 2TB por $9.99/mes 5x, y las opciones de 6TB por $29.99/mes y de 12TB por $59.99/mes lo elevan a 10x y 20x. Los miembros de la familia que comparten iCloud Plus disponen de un fondo de uso compartido."
+                "x": "Windows 365 for Agents ofrece a los agentes Cloud PCs seguros y ya se puede usar con Copilot Credits. Copilot en los Copilot+ PCs recibirá pronto contexto, acciones y modelos locales, incluidas acciones sobre archivos en lenguaje natural y diagnósticos del PC de solo lectura."
               },
               {
                 "t": "p",
-                "x": "La semana pasada Apple actualizó Logic Pro con una opción “Buy More Usage” mediante Intelligence Usage Packs de $49.99, que se espera llegue este mes a otras apps de Apple Creator Studio."
+                "x": "GitHub Copilot Fusion ya puede derivar tareas de programación a modelos locales como MAI Code 1.1 Flash en los PCs de los desarrolladores, en versión preliminar."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
@@ -223,141 +265,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple, Siri AI\n복잡한 요청에 일일 한도",
-          "body": "iOS 27.3 베타는 Siri AI 일일 한도를 두고 iCloud+엔 높인다.",
-          "mini_headline": "Apple, Siri AI 한도 시험",
+          "headline": "Windows AI 작업\n기기·클라우드로 나눈다",
+          "body": "Windows Hybrid Intelligence는 AI를 기기·클라우드에 나눈다.",
+          "mini_headline": "에이전트용 Windows 하이브리드 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "이미지: Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "MacRumors에 따르면 Apple은 오늘 iOS 27.3, iPadOS 27.3, macOS 27.3 베타를 공개하고, 이번 업데이트로 일부 Siri AI와 Apple Intelligence 기능에 기기별 일일 사용 한도를 새로 시험하고 있다."
+                "x": "Microsoft는 Ignite 2026에서 에이전트가 컴퓨팅의 다음 전환점이라고 밝혔다. 십억 대가 넘는 기기에서 돌아가는 Windows는 Hybrid Intelligence 시대에 에이전트를 안전하게 실행할 수 있도록 만들어지고 있다."
               },
               {
                 "t": "p",
-                "x": "기본적인 Siri 명령과 요청은 지금처럼 무료로 무제한 쓸 수 있다. 다만 Photos에서 이미지를 생성하거나 정리하거나 확장하는 기능처럼 클라우드 처리에 의존하는 고급 기능에는 일일 한도가 적용된다. 사용 제한 대상은 네 가지다. “여러 단계를 거치는 개인 맥락 요청”을 처리하는 Siri AI, 이미지 생성·편집 도구, “Apple Foundation Cloud와 Cloud Pro Models에 의존하는” Shortcuts 자동화, 그리고 같은 클라우드 모델을 쓰는 서드파티 앱이다."
+                "x": "보안 업체가 보호 기능을 커널 모드에서 사용자 모드로 옮길 수 있게 하는 Windows endpoint security platform과 Windows administrator protection이 정식 출시됐고, Windows baseline protection은 프리뷰 단계다. Autopatch 고객은 온프레미스 관리보다 40% 이상 빠르게 업데이트를 배포한다."
               },
               {
                 "t": "p",
-                "x": "Apple은 각 기능을 하루에 정확히 몇 번 쓸 수 있는지 밝히지 않았다. 한도는 작업에 따라 다르며, 한도에 가까워지거나 도달하면 사용자에게 알림이 간다."
+                "x": "Hybrid Intelligence는 작업마다 알맞은 모델과 컴퓨팅을 기기나 클라우드에서 쓴다. Microsoft Execution Containers(MXC)는 에이전트마다 격리된 환경을 주고, 에이전트가 접근할 수 있는 파일과 네트워크를 정책으로 정한다. OpenAI는 Codex에서 MXC를 기본으로 켰고, Meta는 수만 대의 Windows 기기에서 MXC를 운영한다."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "대부분의 iCloud Plus 요금제(50GB 옵션 제외)는 같은 가격에 더 높은 일일 한도를 제공한다. 월 $2.99 200GB 요금제는 사용량이 2x 수준, 월 $9.99 2TB 요금제는 5x 수준이고, 월 $29.99 6TB 옵션과 월 $59.99 12TB 옵션은 각각 10x 와 20x 수준으로 늘어난다. iCloud Plus를 공유하는 가족 구성원은 사용량을 함께 나눠 쓴다."
+                "x": "Windows 365 for Agents는 에이전트에 안전한 Cloud PCs를 제공하며, 이제 Copilot Credits로 쓸 수 있다. Copilot+ PCs의 Copilot에는 일상 언어로 하는 파일 작업과 읽기 전용 PC 진단을 비롯해 로컬 컨텍스트, 로컬 작업, 로컬 모델이 곧 들어온다."
               },
               {
                 "t": "p",
-                "x": "Apple은 지난주 Logic Pro에 $49.99 Intelligence Usage Packs를 통한 “Buy More Usage” 옵션을 추가했으며, 이 옵션은 이달 중 다른 Apple Creator Studio 앱에도 적용될 전망이다."
+                "x": "GitHub Copilot Fusion은 이제 개발자 PCs에서 MAI Code 1.1 Flash 같은 로컬 모델로 코딩 작업을 보낼 수 있다. 현재 프리뷰 단계다."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple、Siri AI\n複雑な要求に日次上限を試験",
-          "body": "iOS 27.3 ベータは複雑なSiri AI要求に日次上限、iCloud+は枠を拡大する。",
-          "mini_headline": "Apple、Siri AIに利用上限を試験",
+          "headline": "Windows、AI処理を\n端末とクラウドで分担",
+          "body": "WindowsのHybrid IntelligenceはAI処理を端末とクラウドに分ける。",
+          "mini_headline": "エージェント向けWindowsハイブリッドAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "画像：Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "MacRumorsによると、Appleは本日iOS 27.3、iPadOS 27.3、macOS 27.3のベータ版を公開し、このアップデートで一部のSiri AIとApple Intelligence機能にデバイスごとの日次利用上限を新たに試している。"
+                "x": "MicrosoftはIgnite 2026で、エージェントがコンピューティングの次の転換点になると述べた。十億台を超えるデバイスで動くWindowsは、Hybrid Intelligenceの時代にエージェントを安全に動かせるよう構築が進んでいる。"
               },
               {
                 "t": "p",
-                "x": "基本的なSiriのコマンドやリクエストは引き続き無料かつ無制限だが、Photosでの画像の生成・クリーンアップ・拡張など、クラウド処理に依存する高度な機能は日次上限の対象になる。制限対象は四つのカテゴリーで、「複数ステップの、個人的な文脈を含むリクエスト」向けのSiri AI、画像生成・編集ツール、「Apple Foundation CloudとCloud Pro Modelsに依存する」Shortcutsの自動化、そして同じクラウドモデルを使うサードパーティアプリだ。"
+                "x": "セキュリティベンダーが保護機能をカーネルモードからユーザーモードへ移せるWindows endpoint security platformと、Windows administrator protectionが一般提供となった。Windows baseline protectionはプレビュー段階だ。Autopatchの利用企業は、オンプレミス管理より40%以上速く更新を展開している。"
               },
               {
                 "t": "p",
-                "x": "Appleはこれらの機能を毎日何回使えるかを正確には示していないが、上限はタスクによって異なり、上限に近づいたときと達したときにユーザーへ通知される。"
+                "x": "Hybrid Intelligenceは、タスクごとに適したモデルと計算資源をデバイス上またはクラウドで使い分ける。Microsoft Execution Containers(MXC)は各エージェントに隔離された環境を与え、アクセスできるファイルやネットワークをポリシーで定める。OpenAIはCodexでMXCを既定で有効にし、Metaは数万台のWindowsデバイスでMXCを運用している。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "iCloud Plusのほとんどのプラン（50GB オプションを除く）は、同じ価格でより高い日次上限を備える。月額$2.99の200GB プランは利用量が2x 、月額$9.99の2TB プランは5x 、月額$29.99の6TB と月額$59.99の12TB オプションはそれぞれ10x と20x に引き上げられる。iCloud Plusを共有する家族メンバーは共有の利用枠を使う。"
+                "x": "Windows 365 for Agentsはエージェントに安全なCloud PCsを提供し、Copilot Creditsの対象にもなった。Copilot+ PCsのCopilotには、自然な言葉でのファイル操作や読み取り専用のPC診断を含め、ローカルのコンテキスト、アクション、モデルが近く加わる。"
               },
               {
                 "t": "p",
-                "x": "Appleは先週、Logic Proに$49.99のIntelligence Usage Packsによる「Buy More Usage」オプションを追加した。今月中に他のApple Creator Studioアプリにも導入される見込みだ。"
+                "x": "GitHub Copilot Fusionは、開発者のPCsで動くMAI Code 1.1 Flashなどのローカルモデルにコーディング作業を振り分けられるようになった。プレビューとして提供される。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple测试Siri AI\n复杂请求每日上限",
-          "body": "iOS 27.3 测试版按设备每日限制复杂的Siri AI请求，iCloud+套餐上限更高。",
-          "mini_headline": "Apple测试Siri AI用量上限",
+          "headline": "Windows将AI任务\n分给设备与云端",
+          "body": "Windows的Hybrid Intelligence把AI任务分给端侧和云端模型。",
+          "mini_headline": "Windows面向智能体的混合AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "图片：Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "据MacRumors报道，Apple今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3测试版，并借这次更新为部分Siri AI和Apple Intelligence功能测试新的按设备每日使用上限。"
+                "x": "Microsoft在Ignite 2026上表示，智能体是计算的下一次变革；运行在超过十亿台设备上的Windows，正在为Hybrid Intelligence时代安全运行智能体而打造。"
               },
               {
                 "t": "p",
-                "x": "基础的Siri指令和请求仍将免费且不限次数，但依赖云端处理的高级功能，例如在Photos中生成、清理或扩展图像，将受每日上限约束。受限用途分为四类：处理“多步骤、个人情境请求”的Siri AI，图像生成与编辑工具，“依赖Apple Foundation Cloud和Cloud Pro Models”的Shortcuts自动化，以及使用同样云端模型的第三方应用。"
+                "x": "Windows endpoint security platform让安全厂商能把防护从内核模式移到用户模式，它与Windows administrator protection现已全面推出；Windows baseline protection处于预览阶段。Autopatch客户部署更新的速度比本地部署管理快40%以上。"
               },
               {
                 "t": "p",
-                "x": "Apple没有具体说明这些功能每天可以使用多少次，但上限会因任务而异，用户在接近和达到上限时都会收到通知。"
+                "x": "Hybrid Intelligence为每项任务在设备端或云端选用合适的模型和算力。Microsoft Execution Containers(MXC)为每个智能体提供隔离环境，并以策略规定其可访问的文件和网络。OpenAI已在Codex中默认开启MXC，Meta则在数万台Windows设备上运行它。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "大多数iCloud Plus方案（50GB 方案除外）将在价格不变的情况下提供更高的每日上限：每月$2.99的200GB 方案用量为2x ，每月$9.99的2TB 方案为5x ，每月$29.99的6TB 和每月$59.99的12TB 方案则分别提升至10x 和20x 。共享iCloud Plus的家庭成员共用一个用量池。"
+                "x": "Windows 365 for Agents为智能体提供安全的Cloud PCs，现已可使用Copilot Credits。Copilot+ PCs上的Copilot即将加入本地上下文、本地操作和本地模型，包括用日常语言操作文件和只读的PC诊断。"
               },
               {
                 "t": "p",
-                "x": "上周Apple为Logic Pro加入了“Buy More Usage”选项，可通过$49.99的Intelligence Usage Packs购买，预计本月将扩展到其他Apple Creator Studio应用。"
+                "x": "GitHub Copilot Fusion现在可将编码工作分配给开发者PCs上的MAI Code 1.1 Flash等本地模型，目前处于预览阶段。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple prueba límites diarios\na peticiones complejas a Siri AI",
-          "body": "La beta de iOS 27.3 limita a diario las peticiones complejas a Siri AI por dispositivo, con más margen en iCloud+.",
-          "mini_headline": "Apple prueba límites en Siri AI",
+          "headline": "Windows reparte el trabajo de AI\nentre dispositivo y nube",
+          "body": "La nueva Hybrid Intelligence de Windows reparte la AI entre modelos locales y en la nube, con control de agentes.",
+          "mini_headline": "Windows: AI híbrida para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-                "cap": "Imagen: Apple"
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple lanzó hoy las betas de iOS 27.3, iPadOS 27.3 y macOS 27.3, y está usando la actualización para probar nuevos límites de uso diario por dispositivo en algunas funciones de Siri AI y Apple Intelligence, según MacRumors."
+                "x": "En Ignite 2026, Microsoft afirma que los agentes son el próximo cambio en la informática, y Windows, presente en más de mil millones de dispositivos, se está construyendo para ejecutarlos de forma segura en la era de la Hybrid Intelligence."
               },
               {
                 "t": "p",
-                "x": "Los comandos y peticiones básicos a Siri seguirán siendo gratuitos e ilimitados, pero las funciones más avanzadas que dependen del procesamiento en la nube, como generar, limpiar o ampliar imágenes en Photos, estarán sujetas a los límites diarios. Hay cuatro categorías de uso limitado: Siri AI para “peticiones de varios pasos con contexto personal”, las herramientas de generación y edición de imágenes, las automatizaciones de Shortcuts que “dependen de Apple Foundation Cloud y Cloud Pro Models” y las apps de terceros que usan esos mismos modelos en la nube."
+                "x": "La Windows endpoint security platform, que permite a los proveedores de seguridad trasladar las protecciones del modo kernel al modo usuario, y Windows administrator protection ya están disponibles de forma general; Windows baseline protection está en versión preliminar. Los clientes de Autopatch implementan actualizaciones más de un 40% más rápido que con la gestión local."
               },
               {
                 "t": "p",
-                "x": "Apple no ha especificado cuántas veces exactamente se pueden usar esas funciones cada día, pero los límites variarán según la tarea y los usuarios recibirán un aviso al acercarse a ellos y al alcanzarlos."
+                "x": "Hybrid Intelligence usa el modelo y la capacidad de cómputo adecuados para cada tarea, en el dispositivo o en la nube. Microsoft Execution Containers (MXC) da a cada agente un entorno aislado con políticas sobre a qué archivos y redes puede acceder. OpenAI ha activado MXC por defecto en Codex, y Meta lo ejecuta en decenas de miles de dispositivos Windows."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los planes de iCloud Plus (salvo la opción de 50GB) incluirán límites diarios más altos al mismo precio: el plan de 200GB por $2.99/mes ofrece 2x el uso, el de 2TB por $9.99/mes 5x, y las opciones de 6TB por $29.99/mes y de 12TB por $59.99/mes lo elevan a 10x y 20x. Los miembros de la familia que comparten iCloud Plus disponen de un fondo de uso compartido."
+                "x": "Windows 365 for Agents ofrece a los agentes Cloud PCs seguros y ya se puede usar con Copilot Credits. Copilot en los Copilot+ PCs recibirá pronto contexto, acciones y modelos locales, incluidas acciones sobre archivos en lenguaje natural y diagnósticos del PC de solo lectura."
               },
               {
                 "t": "p",
-                "x": "La semana pasada Apple actualizó Logic Pro con una opción “Buy More Usage” mediante Intelligence Usage Packs de $49.99, que se espera llegue este mes a otras apps de Apple Creator Studio."
+                "x": "GitHub Copilot Fusion ya puede derivar tareas de programación a modelos locales como MAI Code 1.1 Flash en los PCs de los desarrolladores, en versión preliminar."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
               }
             ]
           }
@@ -365,201 +435,213 @@
       }
     },
     {
-      "id": "macos-273-ai-agent-warning",
+      "id": "gemini-home-faster-six-countries",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "macOS 27.3, AI\n에이전트 Mac 제어 경고",
-      "body": "macOS 27.3은 API를 바꿔 Claude 등 AI에 전권 주기 전 경고한다.",
-      "mini_headline": "macOS, AI 에이전트 접근 경고",
+      "headline": "빨라진 Gemini for\nHome 여섯 나라 확대",
+      "body": "약 20% 빨라진 Google Gemini for Home 내달 여섯 나라로 간다.",
+      "mini_headline": "빨라진 Gemini for Home",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+          },
+          {
             "t": "p",
-            "x": "Apple은 최신 macOS 27.3 베타에서 Mac 사용자가 데이터를 공유하고 앱에 접근 권한을 주는 방식을 더 세밀하게 통제하게 했다. AI 에이전트를 쓰는 앱도 대상이다. Apple은 오늘 개발자들에게 Full Disk Access API와 Device Control and Data Access API의 변경 예정 사항을 알렸다."
+            "x": "Google이 최신 Google Home 업데이트 일부를 자세히 소개했다. 더 빨라진 Gemini for Home과 곧 나올 Nest Thermostat 업그레이드가 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "Google Wallet의 Home keys를 쓰면 최신 Pixel이나 일부 Samsung Galaxy 폰을 갖다 대기만 해도 호환 NFC·UWB(Aliro) 잠금장치가 열린다. Google Home Premium Advanced 구독자에게는 카메라·도어벨 이벤트 설명에 유리 깨지는 소리나 개 짖는 소리 같은 오디오 설명이 함께 붙는다. 최신 유선 카메라의 Activity Zone 경계도 더 정밀해졌다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini for Home은 갈수록 빨라진다. Google에 따르면 최신 업데이트로 “일상적인 요청”의 전체 속도가 20% 개선됐다. “다음 달”부터는 인도, 대만, 싱가포르, 콜롬비아, 한국, 브라질 등 여섯 나라로 새로 서비스가 넓어진다."
           },
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-            "cap": "claude 경고"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
           },
           {
             "t": "p",
-            "x": "Device Control and Data Access 설정은 System & App Protection Override와 Accessibility 두 갈래다. 사용자는 목록에서 권한을 요청한 앱을 골라 허용한다. Apple은 워크플로에 꼭 필요한 앱이나 폴더에만 접근을 열어 두라고 권한다. 앱이 받게 될 데이터는 사용자에게 더 분명히 알리고, 앱은 무제한 접근 대신 매번 허락을 구하며, 한 앱이 다른 앱을 제어하면 메뉴 막대에 투명성 표시기가 뜬다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-            "cap": "claude 경고 2"
-          },
-          {
-            "t": "p",
-            "x": "이미 알려진 앱은 별도 인타이틀먼트 없이도 지금처럼 쓸 수 있고, macOS 27.3 이전에 준 권한도 그대로 유효하다. Apple은 지난달 AI 에이전트가 부르는 위험을 이유로 Full Disk Access에 “추가 통제 장치”를 더하겠다고 밝혔다. 일부 개발자가 파일, 메일, 메시지, 방문 기록 등이 노출될 수 있는 방식으로 이 권한을 쓰고 있다는 경고도 덧붙였다."
+            "x": "12월부터 U.S.(미국)와 캐나다의 Nest 온도조절기 사용자는 추정 누적 절감액을 확인할 수 있다. 4th-gen Nest Learning Thermostat은 IKEA, Eve, Aqara 등 브랜드의 서드파티 실내 센서와도 연동된다. 달의 위상을 따라가는 Lunar 페이스 등 새 Dynamic Farsight 페이스도 나온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "macOS 27.3 warns before AI\nagents get full Mac control",
-          "body": "The macOS 27.3 beta changes the Full Disk Access API and warns before users grant AI agents like Claude broad control.",
-          "mini_headline": "macOS flags AI agent access",
+          "headline": "Gemini for Home gets faster\nand heads to six more countries",
+          "body": "Google says Gemini for Home is about 20% faster on everyday requests and expands to six more countries next month.",
+          "mini_headline": "Gemini for Home speeds up",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API."
+                "x": "Google is detailing some of its latest Google Home updates, including a faster Gemini for Home experience and an upcoming Nest Thermostat upgrade."
+              },
+              {
+                "t": "p",
+                "x": "Home keys in Google Wallet let you unlock compatible NFC and UWB (Aliro) locks by tapping newer Pixel and select Samsung Galaxy phones. Google Home Premium Advanced subscribers should see audio descriptions accompanying camera and doorbell event descriptions, such as breaking glass or barking dogs, and Activity Zone boundaries on the newest wired cameras are more precise."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home continues to get faster, with Google saying the latest updates have resulted in an overall speed improvement of 20% on “everyday requests.” It has also expanded to six new countries including India, Taiwan, Singapore, Colombia, South Korea, and Brazil starting “next month.”"
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "claude warning"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "The Device Control and Data Access setting will be split into System & App Protection Override and Accessibility. Users will grant permissions by selecting the requesting app from a list, and Apple will encourage access to just the specific apps or folders a workflow needs, better inform users about the data apps will receive, let apps ask each time instead of getting unrestricted access, and show a menu bar transparency indicator when an app is controlling another app."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "claude warning 2"
-              },
-              {
-                "t": "p",
-                "x": "Known apps keep their current experience without an entitlement, and permissions granted before macOS 27.3 remain in effect. Last month, Apple said it would add \"additional controls\" for Full Disk Access because of the risks posed by AI agents, warning that some developers use it in ways that can expose files, mail, messages, browsing history, and more."
+                "x": "Starting in December, Nest thermostat owners in the U.S. and Canada can see estimated cumulative savings, and the 4th-gen Nest Learning Thermostat will work with third-party room sensors from brands including IKEA, Eve, and Aqara. New Dynamic Farsight faces, including a Lunar face that tracks moon phases, are also coming."
               }
             ]
           }
         },
         "ko": {
-          "headline": "macOS 27.3, AI\n에이전트 Mac 제어 경고",
-          "body": "macOS 27.3은 API를 바꿔 Claude 등 AI에 전권 주기 전 경고한다.",
-          "mini_headline": "macOS, AI 에이전트 접근 경고",
+          "headline": "빨라진 Gemini for\nHome 여섯 나라 확대",
+          "body": "약 20% 빨라진 Google Gemini for Home 내달 여섯 나라로 간다.",
+          "mini_headline": "빨라진 Gemini for Home",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "Apple은 최신 macOS 27.3 베타에서 Mac 사용자가 데이터를 공유하고 앱에 접근 권한을 주는 방식을 더 세밀하게 통제하게 했다. AI 에이전트를 쓰는 앱도 대상이다. Apple은 오늘 개발자들에게 Full Disk Access API와 Device Control and Data Access API의 변경 예정 사항을 알렸다."
+                "x": "Google이 최신 Google Home 업데이트 일부를 자세히 소개했다. 더 빨라진 Gemini for Home과 곧 나올 Nest Thermostat 업그레이드가 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google Wallet의 Home keys를 쓰면 최신 Pixel이나 일부 Samsung Galaxy 폰을 갖다 대기만 해도 호환 NFC·UWB(Aliro) 잠금장치가 열린다. Google Home Premium Advanced 구독자에게는 카메라·도어벨 이벤트 설명에 유리 깨지는 소리나 개 짖는 소리 같은 오디오 설명이 함께 붙는다. 최신 유선 카메라의 Activity Zone 경계도 더 정밀해졌다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home은 갈수록 빨라진다. Google에 따르면 최신 업데이트로 “일상적인 요청”의 전체 속도가 20% 개선됐다. “다음 달”부터는 인도, 대만, 싱가포르, 콜롬비아, 한국, 브라질 등 여섯 나라로 새로 서비스가 넓어진다."
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "claude 경고"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Device Control and Data Access 설정은 System & App Protection Override와 Accessibility 두 갈래다. 사용자는 목록에서 권한을 요청한 앱을 골라 허용한다. Apple은 워크플로에 꼭 필요한 앱이나 폴더에만 접근을 열어 두라고 권한다. 앱이 받게 될 데이터는 사용자에게 더 분명히 알리고, 앱은 무제한 접근 대신 매번 허락을 구하며, 한 앱이 다른 앱을 제어하면 메뉴 막대에 투명성 표시기가 뜬다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "claude 경고 2"
-              },
-              {
-                "t": "p",
-                "x": "이미 알려진 앱은 별도 인타이틀먼트 없이도 지금처럼 쓸 수 있고, macOS 27.3 이전에 준 권한도 그대로 유효하다. Apple은 지난달 AI 에이전트가 부르는 위험을 이유로 Full Disk Access에 “추가 통제 장치”를 더하겠다고 밝혔다. 일부 개발자가 파일, 메일, 메시지, 방문 기록 등이 노출될 수 있는 방식으로 이 권한을 쓰고 있다는 경고도 덧붙였다."
+                "x": "12월부터 U.S.(미국)와 캐나다의 Nest 온도조절기 사용자는 추정 누적 절감액을 확인할 수 있다. 4th-gen Nest Learning Thermostat은 IKEA, Eve, Aqara 등 브랜드의 서드파티 실내 센서와도 연동된다. 달의 위상을 따라가는 Lunar 페이스 등 새 Dynamic Farsight 페이스도 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "macOS 27.3が\nAIのMac掌握前に警告",
-          "body": "macOS 27.3ベータはAPIを改め、ClaudeなどのAIに全権を与える前に警告する。",
-          "mini_headline": "macOSがAIエージェントの権限に警告",
+          "headline": "高速化 Gemini for\nHome、新たに六か国へ",
+          "body": "GoogleのGemini for Homeは約20%速くなり、来月六か国に広がる。",
+          "mini_headline": "Gemini for Homeが高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "最新のmacOS 27.3ベータで、AppleはMacユーザーが共有するデータやアプリに与えるアクセスについて、AIエージェントを使うアプリも含めてより細かく管理できるようにする。Appleは本日、Full Disk Access APIとDevice Control and Data Access APIの今後の変更を開発者に通知した。"
+                "x": "Googleは最新のGoogle Homeアップデートの一部を詳しく紹介した。より高速になったGemini for Homeの体験や、今後予定されるNest Thermostatのアップグレードが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "Google WalletのHome keysを使えば、新しめのPixelや一部のSamsung Galaxyスマートフォンをかざすだけで、対応するNFCやUWB(Aliro)のロックを解錠できる。Google Home Premium Advancedの加入者には、ガラスの割れる音や犬の鳴き声といったカメラやドアベルのイベント説明に音声の説明が添えられ、最新の有線カメラではActivity Zoneの境界がより正確になった。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Homeは高速化が続いており、Googleによると最新のアップデートで「日常的なリクエスト」の速度が全体で20%向上した。また「来月」から、インド、台湾、シンガポール、コロンビア、韓国、ブラジルを含む新たな六か国に拡大する。"
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "claude 警告"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Device Control and Data Access設定はSystem & App Protection OverrideとAccessibilityに分割される。ユーザーは要求しているアプリをリストから選んで権限を与える。Appleは、ワークフローに必要な特定のアプリやフォルダーだけへのアクセスを促し、アプリが受け取るデータをユーザーにより分かりやすく伝え、無制限のアクセスではなく毎回確認させる仕組みを可能にし、あるアプリが別のアプリを操作しているときにはメニューバーに透明性インジケーターを表示する。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "claude 警告 2"
-              },
-              {
-                "t": "p",
-                "x": "既知のアプリはエンタイトルメントなしで現在の体験を維持し、macOS 27.3以前に付与された権限も引き続き有効だ。Appleは先月、AIエージェントがもたらすリスクを理由にFull Disk Accessへ「追加の管理機能」を加えると表明し、一部の開発者がファイル、メール、メッセージ、閲覧履歴などを露出させかねない形でこれを使っていると警告していた。"
+                "x": "12月から、U.S.(米国)とカナダのNestサーモスタット所有者は推定累積節約額を確認できるようになり、4th-gen Nest Learning ThermostatはIKEA、Eve、Aqaraなどのサードパーティ製ルームセンサーに対応する。月の満ち欠けを追うLunarフェイスを含む新しいDynamic Farsightフェイスも登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "macOS 27.3\nAI接管Mac前先发警告",
-          "body": "macOS 27.3测试版改动API，在Claude等AI代理获取广泛控制权前发出警告。",
-          "mini_headline": "macOS提示AI代理访问权限",
+          "headline": "更快的 Gemini for\nHome 将进入六个新国家",
+          "body": "Google称Gemini for Home日常请求提速约20%，下月扩展至另外六个国家。",
+          "mini_headline": "Gemini for Home 提速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "在最新的macOS 27.3测试版中，Apple让Mac用户对自己共享的数据和授予应用的访问权限拥有更多控制，其中也包括使用AI代理的应用。Apple今天向开发者通报了Full Disk Access API以及Device Control and Data Access API即将发生的变化。"
+                "x": "Google详细介绍了最新的部分Google Home更新，包括更快的Gemini for Home体验和即将推出的Nest Thermostat升级。"
+              },
+              {
+                "t": "p",
+                "x": "借助Google Wallet中的Home keys，用较新的Pixel和部分Samsung Galaxy手机轻触即可解锁兼容的NFC和UWB(Aliro)门锁。Google Home Premium Advanced订阅用户会在摄像头和门铃事件描述中看到配套的音频描述，例如玻璃破碎或狗叫声；最新有线摄像头的Activity Zone边界也更加精确。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home持续提速，Google表示最新更新让“日常请求”的整体速度提升了20%。它还将从“下个月”起扩展到六个新国家，包括印度、台湾、新加坡、哥伦比亚、韩国和巴西。"
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "claude 警告"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Device Control and Data Access设置将拆分为System & App Protection Override和Accessibility两项。用户需从列表中选择发出请求的应用来授予权限；Apple将鼓励只开放工作流程所需的特定应用或文件夹，更清楚地告知用户应用将获得哪些数据，允许应用每次单独请求而非获得不受限制的访问，并在某个应用控制另一个应用时在菜单栏显示透明度指示器。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "claude 警告 2"
-              },
-              {
-                "t": "p",
-                "x": "已知应用无需额外授权即可保持现有体验，macOS 27.3之前授予的权限也继续有效。Apple上个月表示，由于AI代理带来的风险，将为Full Disk Access增加“额外控制”，并警告部分开发者使用它的方式可能暴露文件、邮件、信息、浏览记录等内容。"
+                "x": "从12月起，U.S.（美国）和加拿大的Nest恒温器用户可以查看估算的累计节省金额，4th-gen Nest Learning Thermostat将支持IKEA、Eve和Aqara等品牌的第三方房间传感器。包括追踪月相的Lunar表盘在内的新Dynamic Farsight表盘也即将推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "macOS 27.3 avisa antes de dar a\nagentes AI el control del Mac",
-          "body": "La beta de macOS 27.3 cambia la Full Disk Access API y avisa antes de dar a agentes AI como Claude amplio control.",
-          "mini_headline": "macOS avisa sobre el acceso de agentes AI",
+          "headline": "Gemini for Home gana velocidad\ny llega a seis países más",
+          "body": "Según Google, Gemini for Home es cerca de un 20% más rápido y llegará a seis países más el próximo mes.",
+          "mini_headline": "Gemini for Home, más rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "Con la última beta de macOS 27.3, Apple da a los usuarios de Mac más control sobre los datos que comparten y el acceso que conceden a las apps, incluidas las que usan agentes de AI. Apple informó hoy a los desarrolladores de los próximos cambios en la Full Disk Access API y la Device Control and Data Access API."
+                "x": "Google detalla algunas de sus últimas novedades de Google Home, entre ellas una experiencia de Gemini for Home más rápida y una próxima mejora del Nest Thermostat."
+              },
+              {
+                "t": "p",
+                "x": "Las Home keys de Google Wallet permiten abrir cerraduras NFC y UWB (Aliro) compatibles acercando teléfonos Pixel recientes y algunos Samsung Galaxy. Los suscriptores de Google Home Premium Advanced verán descripciones de audio junto a las descripciones de eventos de cámaras y timbres, como cristales rotos o perros ladrando, y los límites de Activity Zone en las cámaras con cable más recientes son más precisos."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home sigue ganando velocidad: Google afirma que las últimas actualizaciones han mejorado un 20% la velocidad general en las “peticiones cotidianas”. Además, se ha ampliado a seis nuevos países, entre ellos India, Taiwán, Singapur, Colombia, Corea del Sur y Brasil, a partir del “próximo mes”."
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "advertencia de claude"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "El ajuste Device Control and Data Access se dividirá en System & App Protection Override y Accessibility. Los usuarios concederán permisos eligiendo la app solicitante en una lista, y Apple fomentará el acceso solo a las apps o carpetas concretas que necesite cada flujo de trabajo, informará mejor sobre los datos que recibirán las apps, permitirá que estas pidan permiso cada vez en lugar de obtener acceso sin restricciones y mostrará un indicador de transparencia en la barra de menús cuando una app controle otra."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "advertencia de claude 2"
-              },
-              {
-                "t": "p",
-                "x": "Las apps conocidas mantienen su experiencia actual sin necesidad de un entitlement, y los permisos concedidos antes de macOS 27.3 siguen vigentes. El mes pasado, Apple dijo que añadiría “controles adicionales” a Full Disk Access por los riesgos que plantean los agentes de AI, y advirtió que algunos desarrolladores lo usan de formas que pueden exponer archivos, correo, mensajes, historial de navegación y más."
+                "x": "A partir de diciembre, los propietarios de termostatos Nest en Estados Unidos (U.S.) y Canadá podrán ver un ahorro acumulado estimado, y el 4th-gen Nest Learning Thermostat funcionará con sensores de habitación de terceros de marcas como IKEA, Eve y Aqara. También llegarán nuevas esferas Dynamic Farsight, entre ellas una esfera Lunar que sigue las fases de la luna."
               }
             ]
           }
@@ -567,129 +649,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "macOS 27.3, AI\n에이전트 Mac 제어 경고",
-          "body": "macOS 27.3은 API를 바꿔 Claude 등 AI에 전권 주기 전 경고한다.",
-          "mini_headline": "macOS, AI 에이전트 접근 경고",
+          "headline": "빨라진 Gemini for\nHome 여섯 나라 확대",
+          "body": "약 20% 빨라진 Google Gemini for Home 내달 여섯 나라로 간다.",
+          "mini_headline": "빨라진 Gemini for Home",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "Apple은 최신 macOS 27.3 베타에서 AI 에이전트를 쓰는 앱을 포함해, Mac 사용자가 공유하는 데이터와 앱에 주는 접근 권한을 더 세밀하게 통제할 수 있게 한다. Apple은 오늘 개발자들에게 Full Disk Access API와 Device Control and Data Access API의 변경 예정 사항을 알렸다."
+                "x": "Google이 최신 Google Home 업데이트 일부를 자세히 소개했다. 더 빨라진 Gemini for Home 경험과 곧 나올 Nest Thermostat 업그레이드가 포함된다."
+              },
+              {
+                "t": "p",
+                "x": "Google Wallet의 Home keys를 쓰면 최신 Pixel이나 일부 Samsung Galaxy 폰을 대기만 해도 호환되는 NFC·UWB(Aliro) 잠금장치를 열 수 있다. Google Home Premium Advanced 구독자는 유리 깨지는 소리나 개 짖는 소리 같은 카메라·도어벨 이벤트 설명에 오디오 설명이 함께 붙는 것을 보게 되고, 최신 유선 카메라의 Activity Zone 경계도 더 정밀해졌다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home은 계속 빨라지고 있다. Google은 최신 업데이트로 “일상적인 요청”에서 전체 속도가 20% 개선됐다고 밝혔다. 또 “다음 달”부터 인도, 대만, 싱가포르, 콜롬비아, 한국, 브라질 등 새로운 여섯 나라로 확대된다."
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "claude 경고"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Device Control and Data Access 설정은 System & App Protection Override와 Accessibility로 나뉜다. 사용자는 목록에서 요청한 앱을 골라 권한을 준다. Apple은 워크플로에 필요한 특정 앱이나 폴더에만 접근을 허용하도록 권장하고, 앱이 받게 될 데이터를 사용자에게 더 잘 알리며, 앱이 무제한 접근 대신 매번 요청하도록 하고, 한 앱이 다른 앱을 제어할 때 메뉴 막대에 투명성 표시기를 띄운다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "claude 경고 2"
-              },
-              {
-                "t": "p",
-                "x": "이미 알려진 앱은 별도 인타이틀먼트 없이도 지금의 사용 경험을 유지하며, macOS 27.3 이전에 부여한 권한도 그대로 유효하다. Apple은 지난달 AI 에이전트가 초래하는 위험 때문에 Full Disk Access에 “추가 통제 장치”를 더하겠다고 밝히며, 일부 개발자가 이를 파일, 메일, 메시지, 방문 기록 등이 노출될 수 있는 방식으로 쓰고 있다고 경고했다."
+                "x": "12월부터 U.S.(미국)와 캐나다의 Nest 온도조절기 사용자는 추정 누적 절감액을 볼 수 있고, 4th-gen Nest Learning Thermostat은 IKEA, Eve, Aqara 등 브랜드의 서드파티 실내 센서와 함께 작동한다. 달의 위상을 따라가는 Lunar 페이스를 비롯한 새로운 Dynamic Farsight 페이스도 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "macOS 27.3が\nAIのMac掌握前に警告",
-          "body": "macOS 27.3ベータはAPIを改め、ClaudeなどのAIに全権を与える前に警告する。",
-          "mini_headline": "macOSがAIエージェントの権限に警告",
+          "headline": "高速化 Gemini for\nHome、新たに六か国へ",
+          "body": "GoogleのGemini for Homeは約20%速くなり、来月六か国に広がる。",
+          "mini_headline": "Gemini for Homeが高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "最新のmacOS 27.3ベータで、AppleはMacユーザーが共有するデータやアプリに与えるアクセスについて、AIエージェントを使うアプリも含めてより細かく管理できるようにする。Appleは本日、Full Disk Access APIとDevice Control and Data Access APIの今後の変更を開発者に通知した。"
+                "x": "Googleは最新のGoogle Homeアップデートの一部を詳しく紹介した。より高速になったGemini for Homeの体験や、今後予定されるNest Thermostatのアップグレードが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "Google WalletのHome keysを使えば、新しめのPixelや一部のSamsung Galaxyスマートフォンをかざすだけで、対応するNFCやUWB(Aliro)のロックを解錠できる。Google Home Premium Advancedの加入者には、ガラスの割れる音や犬の鳴き声といったカメラやドアベルのイベント説明に音声の説明が添えられ、最新の有線カメラではActivity Zoneの境界がより正確になった。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Homeは高速化が続いており、Googleによると最新のアップデートで「日常的なリクエスト」の速度が全体で20%向上した。また「来月」から、インド、台湾、シンガポール、コロンビア、韓国、ブラジルを含む新たな六か国に拡大する。"
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "claude 警告"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Device Control and Data Access設定はSystem & App Protection OverrideとAccessibilityに分割される。ユーザーは要求しているアプリをリストから選んで権限を与える。Appleは、ワークフローに必要な特定のアプリやフォルダーだけへのアクセスを促し、アプリが受け取るデータをユーザーにより分かりやすく伝え、無制限のアクセスではなく毎回確認させる仕組みを可能にし、あるアプリが別のアプリを操作しているときにはメニューバーに透明性インジケーターを表示する。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "claude 警告 2"
-              },
-              {
-                "t": "p",
-                "x": "既知のアプリはエンタイトルメントなしで現在の体験を維持し、macOS 27.3以前に付与された権限も引き続き有効だ。Appleは先月、AIエージェントがもたらすリスクを理由にFull Disk Accessへ「追加の管理機能」を加えると表明し、一部の開発者がファイル、メール、メッセージ、閲覧履歴などを露出させかねない形でこれを使っていると警告していた。"
+                "x": "12月から、U.S.(米国)とカナダのNestサーモスタット所有者は推定累積節約額を確認できるようになり、4th-gen Nest Learning ThermostatはIKEA、Eve、Aqaraなどのサードパーティ製ルームセンサーに対応する。月の満ち欠けを追うLunarフェイスを含む新しいDynamic Farsightフェイスも登場する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "macOS 27.3\nAI接管Mac前先发警告",
-          "body": "macOS 27.3测试版改动API，在Claude等AI代理获取广泛控制权前发出警告。",
-          "mini_headline": "macOS提示AI代理访问权限",
+          "headline": "更快的 Gemini for\nHome 将进入六个新国家",
+          "body": "Google称Gemini for Home日常请求提速约20%，下月扩展至另外六个国家。",
+          "mini_headline": "Gemini for Home 提速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "在最新的macOS 27.3测试版中，Apple让Mac用户对自己共享的数据和授予应用的访问权限拥有更多控制，其中也包括使用AI代理的应用。Apple今天向开发者通报了Full Disk Access API以及Device Control and Data Access API即将发生的变化。"
+                "x": "Google详细介绍了最新的部分Google Home更新，包括更快的Gemini for Home体验和即将推出的Nest Thermostat升级。"
+              },
+              {
+                "t": "p",
+                "x": "借助Google Wallet中的Home keys，用较新的Pixel和部分Samsung Galaxy手机轻触即可解锁兼容的NFC和UWB(Aliro)门锁。Google Home Premium Advanced订阅用户会在摄像头和门铃事件描述中看到配套的音频描述，例如玻璃破碎或狗叫声；最新有线摄像头的Activity Zone边界也更加精确。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home持续提速，Google表示最新更新让“日常请求”的整体速度提升了20%。它还将从“下个月”起扩展到六个新国家，包括印度、台湾、新加坡、哥伦比亚、韩国和巴西。"
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "claude 警告"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Device Control and Data Access设置将拆分为System & App Protection Override和Accessibility两项。用户需从列表中选择发出请求的应用来授予权限；Apple将鼓励只开放工作流程所需的特定应用或文件夹，更清楚地告知用户应用将获得哪些数据，允许应用每次单独请求而非获得不受限制的访问，并在某个应用控制另一个应用时在菜单栏显示透明度指示器。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "claude 警告 2"
-              },
-              {
-                "t": "p",
-                "x": "已知应用无需额外授权即可保持现有体验，macOS 27.3之前授予的权限也继续有效。Apple上个月表示，由于AI代理带来的风险，将为Full Disk Access增加“额外控制”，并警告部分开发者使用它的方式可能暴露文件、邮件、信息、浏览记录等内容。"
+                "x": "从12月起，U.S.（美国）和加拿大的Nest恒温器用户可以查看估算的累计节省金额，4th-gen Nest Learning Thermostat将支持IKEA、Eve和Aqara等品牌的第三方房间传感器。包括追踪月相的Lunar表盘在内的新Dynamic Farsight表盘也即将推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "macOS 27.3 avisa antes de dar a\nagentes AI el control del Mac",
-          "body": "La beta de macOS 27.3 cambia la Full Disk Access API y avisa antes de dar a agentes AI como Claude amplio control.",
-          "mini_headline": "macOS avisa sobre el acceso de agentes AI",
+          "headline": "Gemini for Home gana velocidad\ny llega a seis países más",
+          "body": "Según Google, Gemini for Home es cerca de un 20% más rápido y llegará a seis países más el próximo mes.",
+          "mini_headline": "Gemini for Home, más rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-updates.jpg?quality=82&strip=all&w=1600"
+              },
+              {
                 "t": "p",
-                "x": "Con la última beta de macOS 27.3, Apple da a los usuarios de Mac más control sobre los datos que comparten y el acceso que conceden a las apps, incluidas las que usan agentes de AI. Apple informó hoy a los desarrolladores de los próximos cambios en la Full Disk Access API y la Device Control and Data Access API."
+                "x": "Google detalla algunas de sus últimas novedades de Google Home, entre ellas una experiencia de Gemini for Home más rápida y una próxima mejora del Nest Thermostat."
+              },
+              {
+                "t": "p",
+                "x": "Las Home keys de Google Wallet permiten abrir cerraduras NFC y UWB (Aliro) compatibles acercando teléfonos Pixel recientes y algunos Samsung Galaxy. Los suscriptores de Google Home Premium Advanced verán descripciones de audio junto a las descripciones de eventos de cámaras y timbres, como cristales rotos o perros ladrando, y los límites de Activity Zone en las cámaras con cable más recientes son más precisos."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home sigue ganando velocidad: Google afirma que las últimas actualizaciones han mejorado un 20% la velocidad general en las “peticiones cotidianas”. Además, se ha ampliado a seis nuevos países, entre ellos India, Taiwán, Singapur, Colombia, Corea del Sur y Brasil, a partir del “próximo mes”."
               },
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/RcnvC03vxGzanG38_QS1Fc9J62A=/400x0/article-new/2026/11/claude-warning.jpg?lossy",
-                "cap": "advertencia de claude"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-18.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "El ajuste Device Control and Data Access se dividirá en System & App Protection Override y Accessibility. Los usuarios concederán permisos eligiendo la app solicitante en una lista, y Apple fomentará el acceso solo a las apps o carpetas concretas que necesite cada flujo de trabajo, informará mejor sobre los datos que recibirán las apps, permitirá que estas pidan permiso cada vez en lugar de obtener acceso sin restricciones y mostrará un indicador de transparencia en la barra de menús cuando una app controle otra."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg",
-                "cap": "advertencia de claude 2"
-              },
-              {
-                "t": "p",
-                "x": "Las apps conocidas mantienen su experiencia actual sin necesidad de un entitlement, y los permisos concedidos antes de macOS 27.3 siguen vigentes. El mes pasado, Apple dijo que añadiría “controles adicionales” a Full Disk Access por los riesgos que plantean los agentes de AI, y advirtió que algunos desarrolladores lo usan de formas que pueden exponer archivos, correo, mensajes, historial de navegación y más."
+                "x": "A partir de diciembre, los propietarios de termostatos Nest en Estados Unidos (U.S.) y Canadá podrán ver un ahorro acumulado estimado, y el 4th-gen Nest Learning Thermostat funcionará con sensores de habitación de terceros de marcas como IKEA, Eve y Aqara. También llegarán nuevas esferas Dynamic Farsight, entre ellas una esfera Lunar que sigue las fases de la luna."
               }
             ]
           }
@@ -697,15 +787,15 @@
       }
     },
     {
-      "id": "halliday-g2-glasses-review",
+      "id": "samsung-ces2027-presence-tv",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Halliday G2 AI\n유용하나 눈에 띄는 커닝",
-      "body": "Halliday G2는 카메라 없이 AI가 유용하나 투박하고 답을 읽으면 티 난다.",
-      "mini_headline": "Halliday G2 안경 써 보니",
+      "headline": "Samsung 새 TV는\n소파 떠나면 멈출 수도",
+      "body": "Samsung CES 2027 AI TV는 자리 뜨면 멈추고 돌아오면 튼다고 한다.",
+      "mini_headline": "사용자를 지켜보는 Samsung TV",
       "tool": "Gadgets",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Samsung-s-next-TV-may-watch-you-and-pause-movies-when-you-leave-the-couch.1452821.0.html",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -713,239 +803,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-            "cap": "(이미지 출처: © Future / Tom's Guide)"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
           },
           {
             "t": "p",
-            "x": "Tom's Guide Verdict: Halliday G2 AI 스마트 안경은 올바른 방향으로 한 걸음 나아갔다. 카메라 없는 안경에 쓸 만한 AI 기능을 담았고, 착용감은 편하지만 디자인은 두툼하다(투박하기도 하다). 다만 경쟁 제품과 경험이 거의 같고, 오픈형 오디오 품질은 기대에 못 미친다."
+            "x": "Samsung이 시청자가 소파에서 일어나면 재생을 알아서 멈추고 돌아오면 다시 트는 새 AI-powered TV를 준비 중인 것으로 알려졌다. 가칭 TV-I인 이 TV는 1월 CES 2027에서 공개될 전망이다."
           },
           {
             "t": "p",
-            "x": "듀얼 micro-LED 엔진과 웨이브가이드 광학계가 양쪽 렌즈에 녹색 도트 매트릭스 텍스트를 띄운다. 해상도는 눈당 600 x 300, 최대 밝기는 1,600니트다. 무게는 1.7온스로, 리뷰어가 써 본 AI 안경 중 착용감이 좋은 축에 든다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-            "cap": "(이미지 출처: Future / Tom's Guide)"
+            "x": "Korea JoongAng Daily는 업계 소식통을 인용해 이 TV가 AI로 시청자의 움직임과 관심사를 인식해 그에 맞게 시청 환경을 바꿀 것이라고 전했다. Samsung은 이 TV를 거실의 AI 동반자로 키우려 한다. 영화나 드라마를 보다 눈에 띈 배우의 옷이나 장면 속 식당을 찾아보는 기능도 들어갈 것으로 알려졌다. Samsung이 2025 TVs와 함께 내놓은 Click to Search를 발전시킨 기능이다."
           },
           {
             "t": "p",
-            "x": "핵심 기능은 세 가지다. 실시간 AI 에이전트가 대화를 따라가며 요약·전사하고 조사까지 하는 Meeting Flow, 텔레프롬프터 기능 Cheatsheet, 45개 이상 언어를 지원하는 Translation이다. Halliday AI 어시스턴트는 질문에 빠르게 답한다. 그런데 기능 구성이 Even Realities G2의 Conversate, Teleprompt, Translate와 판박이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-            "cap": "(이미지 출처: Future / Tom's Guide)"
+            "x": "모두 TV 사업에서 반복 매출을 더 끌어내려는 Samsung 전략의 일환이다. TV Plus의 월간 활성 사용자는 100 million 명을 넘었다. TrendForce는 2026년 전 세계 TV 출하량이 전년 대비 0.8% 줄어든 194.65 million 대가 될 것으로 내다봤다."
           },
           {
             "t": "p",
-            "x": "리뷰어와 마주친 사람들은 모두 한눈에 스마트 안경임을 알아챘다. Stealth Mode는 녹색 텍스트를 어둡게 할 뿐이라 각도에 따라 여전히 보인다. 배터리는 약 12시간 간다. 같은 소매가의 Even Realities G2가 모든 면에서 낫다는 걸 생각하면 추천하기 어렵다."
+            "x": "Samsung은 1월 6일부터 9일까지 라스베이거스에서 열리는 CES 2027에서 첫 휴머노이드 로봇을 공개하는 방안도 검토하고 있다고 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Halliday G2 AI glasses make\na useful but obvious cheat sheet",
-          "body": "Halliday's camera-less G2 glasses have useful AI, but they look dorky and people notice when you read answers off them.",
-          "mini_headline": "Halliday G2 glasses tested",
+          "headline": "Samsung's next TV may pause\nwhen you leave the couch",
+          "body": "Samsung's expected CES 2027 AI TV reportedly pauses when viewers leave the couch and resumes when they return.",
+          "mini_headline": "Samsung TV that watches you",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "(Image credit: © Future / Tom's Guide)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict: The Halliday G2 AI smart glasses are a step in the right direction, delivering camera-less specs with helpful AI features in a comfortable yet chunky (and dorky) design. But they offer a near-identical experience to their rivals, and are let down by subpar open-ear audio."
+                "x": "Samsung is reportedly preparing a new AI-powered TV that can automatically pause playback when viewers get up from the couch and resume it when they return. Tentatively called TV-I, the television is expected to be unveiled at CES 2027 in January."
               },
               {
                 "t": "p",
-                "x": "Dual micro-LED engines and waveguide optics put green dot-matrix text on both lenses, at 600 x 300 per-eye resolution and 1,600 nits peak brightness. At 1.7 ounces, they are one of the more comfortable AI glasses the reviewer has worn."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "(Image credit: Future / Tom's Guide)"
+                "x": "According to Korea JoongAng Daily, citing industry sources, the TV will use AI to recognize viewers' movements and interests and adjust the viewing experience accordingly. Samsung also wants it to act as an AI companion in the living room: viewers will reportedly be able to look up items they spot in movies and shows, such as an actor's clothes or a restaurant featured in a scene. This builds on Click to Search, introduced with Samsung's 2025 TVs."
               },
               {
                 "t": "p",
-                "x": "Key features include Meeting Flow, where live AI agents track, summarize, transcribe and research conversations; Cheatsheet, a teleprompter; and Translation for over 45 languages. The Halliday AI assistant is snappy at answering questions — but the features mirror the Even Realities G2's Conversate, Teleprompt and Translate."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "(Image credit: Future / Tom's Guide)"
+                "x": "The features are part of Samsung's effort to generate more recurring revenue from its TV business; TV Plus has surpassed 100 million monthly active users. TrendForce expects global TV shipments to decline by 0.8% year over year to 194.65 million units in 2026."
               },
               {
                 "t": "p",
-                "x": "Everyone the reviewer came across pointed out they were smart glasses at first glance, and Stealth Mode only dims the green text, which can still be seen at different angles. Battery lasts around 12 hours. When the Even Realities G2 does it all better at the same retail price, it's harder to recommend these."
+                "x": "Samsung is also reportedly considering unveiling its first humanoid robot at CES 2027, which takes place in Las Vegas from January 6 to 9."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Halliday G2 AI\n유용하나 눈에 띄는 커닝",
-          "body": "Halliday G2는 카메라 없이 AI가 유용하나 투박하고 답을 읽으면 티 난다.",
-          "mini_headline": "Halliday G2 안경 써 보니",
+          "headline": "Samsung 새 TV는\n소파 떠나면 멈출 수도",
+          "body": "Samsung CES 2027 AI TV는 자리 뜨면 멈추고 돌아오면 튼다고 한다.",
+          "mini_headline": "사용자를 지켜보는 Samsung TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "(이미지 출처: © Future / Tom's Guide)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict: Halliday G2 AI 스마트 안경은 올바른 방향으로 한 걸음 나아갔다. 카메라 없는 안경에 쓸 만한 AI 기능을 담았고, 착용감은 편하지만 디자인은 두툼하다(투박하기도 하다). 다만 경쟁 제품과 경험이 거의 같고, 오픈형 오디오 품질은 기대에 못 미친다."
+                "x": "Samsung이 시청자가 소파에서 일어나면 재생을 알아서 멈추고 돌아오면 다시 트는 새 AI-powered TV를 준비 중인 것으로 알려졌다. 가칭 TV-I인 이 TV는 1월 CES 2027에서 공개될 전망이다."
               },
               {
                 "t": "p",
-                "x": "듀얼 micro-LED 엔진과 웨이브가이드 광학계가 양쪽 렌즈에 녹색 도트 매트릭스 텍스트를 띄운다. 해상도는 눈당 600 x 300, 최대 밝기는 1,600니트다. 무게는 1.7온스로, 리뷰어가 써 본 AI 안경 중 착용감이 좋은 축에 든다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "(이미지 출처: Future / Tom's Guide)"
+                "x": "Korea JoongAng Daily는 업계 소식통을 인용해 이 TV가 AI로 시청자의 움직임과 관심사를 인식해 그에 맞게 시청 환경을 바꿀 것이라고 전했다. Samsung은 이 TV를 거실의 AI 동반자로 키우려 한다. 영화나 드라마를 보다 눈에 띈 배우의 옷이나 장면 속 식당을 찾아보는 기능도 들어갈 것으로 알려졌다. Samsung이 2025 TVs와 함께 내놓은 Click to Search를 발전시킨 기능이다."
               },
               {
                 "t": "p",
-                "x": "핵심 기능은 세 가지다. 실시간 AI 에이전트가 대화를 따라가며 요약·전사하고 조사까지 하는 Meeting Flow, 텔레프롬프터 기능 Cheatsheet, 45개 이상 언어를 지원하는 Translation이다. Halliday AI 어시스턴트는 질문에 빠르게 답한다. 그런데 기능 구성이 Even Realities G2의 Conversate, Teleprompt, Translate와 판박이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "(이미지 출처: Future / Tom's Guide)"
+                "x": "모두 TV 사업에서 반복 매출을 더 끌어내려는 Samsung 전략의 일환이다. TV Plus의 월간 활성 사용자는 100 million 명을 넘었다. TrendForce는 2026년 전 세계 TV 출하량이 전년 대비 0.8% 줄어든 194.65 million 대가 될 것으로 내다봤다."
               },
               {
                 "t": "p",
-                "x": "리뷰어와 마주친 사람들은 모두 한눈에 스마트 안경임을 알아챘다. Stealth Mode는 녹색 텍스트를 어둡게 할 뿐이라 각도에 따라 여전히 보인다. 배터리는 약 12시간 간다. 같은 소매가의 Even Realities G2가 모든 면에서 낫다는 걸 생각하면 추천하기 어렵다."
+                "x": "Samsung은 1월 6일부터 9일까지 라스베이거스에서 열리는 CES 2027에서 첫 휴머노이드 로봇을 공개하는 방안도 검토하고 있다고 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Halliday G2 AI\n便利だがバレるカンペ",
-          "body": "カメラ非搭載のHalliday G2はAIが便利だが、見た目は野暮で、答えを読むとバレる。",
-          "mini_headline": "Halliday G2グラスを試す",
+          "headline": "Samsungの次期TV、\n席を立つと一時停止か",
+          "body": "SamsungのCES 2027向けAI TVは、席を立つと止まり戻ると再開するという。",
+          "mini_headline": "視聴者を見守るSamsung TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "（画像クレジット：© Future / Tom's Guide）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict：Halliday G2 AIスマートグラスは正しい方向への一歩だ。カメラを持たないメガネに便利なAI機能を載せ、装着感は快適だが、デザインは分厚い（そして野暮ったい）。ただし体験はライバル製品とほぼ同じで、オープンイヤー型オーディオの物足りなさが足を引っ張る。"
+                "x": "Samsungは、視聴者がソファから立ち上がると再生を自動で一時停止し、戻ると再開する新しいAI-powered TVを準備していると報じられている。仮称TV-Iのこのテレビは、1月のCES 2027で発表される見通しだ。"
               },
               {
                 "t": "p",
-                "x": "デュアルmicro-LEDエンジンと導波路光学系が両レンズに緑のドットマトリクス文字を表示し、片目あたりの解像度は600 x 300、ピーク輝度は1,600ニトだ。重さは1.7オンスで、レビュアーが試したAIグラスの中でも快適な部類に入る。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "（画像クレジット：Future / Tom's Guide）"
+                "x": "Korea JoongAng Dailyが業界関係者の話として伝えたところでは、このTVはAIで視聴者の動きや関心を認識し、それに合わせて視聴体験を調整する。SamsungはこのTVをリビングのAIコンパニオンにしたい考えで、視聴者は映画や番組で目にした俳優の服やシーンに登場したレストランなどを調べられるようになるという。これはSamsungの2025 TVsで導入されたClick to Searchを発展させたものだ。"
               },
               {
                 "t": "p",
-                "x": "主な機能は、ライブのAIエージェントが会話を追跡・要約・文字起こし・調査するMeeting Flow、テレプロンプターのCheatsheet、45以上の言語に対応するTranslationだ。Halliday AIアシスタントは質問への応答がきびきびしているが、機能はEven Realities G2のConversate、Teleprompt、Translateをなぞったものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "（画像クレジット：Future / Tom's Guide）"
+                "x": "これらの機能は、TV事業から継続的な収益をより多く生み出そうとするSamsungの取り組みの一環で、TV Plusの月間アクティブユーザーは100 million 人を超えた。TrendForceは、2026年の世界のTV出荷台数が前年比0.8%減の194.65 million 台になると予測している。"
               },
               {
                 "t": "p",
-                "x": "レビュアーが出会った人は皆、一目でスマートグラスだと指摘した。Stealth Modeは緑の文字を暗くするだけで、角度によっては見えてしまう。バッテリーは約12時間持つ。同じ小売価格でEven Realities G2がすべてをより上手くこなす以上、これを薦めるのは難しい。"
+                "x": "Samsungは、1月6日から9日までラスベガスで開かれるCES 2027で、初のヒューマノイドロボットを披露することも検討していると報じられている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Halliday G2 AI\n实用却显眼的小抄",
-          "body": "Halliday G2无摄像头，AI实用，但外形笨拙，看着它读答案会被人察觉。",
-          "mini_headline": "Halliday G2眼镜实测",
+          "headline": "Samsung下一款TV\n或在你离开沙发时暂停",
+          "body": "Samsung预计在CES 2027推出的AI TV据称在观众离开沙发时暂停、回来时继续。",
+          "mini_headline": "会看人的Samsung TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "（图片来源：© Future / Tom's Guide）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict：Halliday G2 AI智能眼镜朝着正确方向迈出了一步，在舒适但厚重（且笨拙）的设计中，提供了不带摄像头、配有实用AI功能的眼镜。但它的体验与竞品几乎一样，开放式音频表现欠佳也拖了后腿。"
+                "x": "据报道，Samsung正在准备一款新的AI-powered TV，观众从沙发上起身时可自动暂停播放，回来后继续播放。这款暂定名为TV-I的电视预计将于1月在CES 2027上亮相。"
               },
               {
                 "t": "p",
-                "x": "双micro-LED引擎和光波导光学元件在两片镜片上显示绿色点阵文字，单眼分辨率为600 x 300，峰值亮度1,600尼特。它重1.7盎司，是评测者戴过的较舒适的AI眼镜之一。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "（图片来源：Future / Tom's Guide）"
+                "x": "Korea JoongAng Daily援引业内人士的话称，这款TV将利用AI识别观众的动作和兴趣，并据此调整观看体验。Samsung还希望它成为客厅里的AI伙伴：据称观众可以查找在电影和节目中看到的物品，例如演员的服装或某个场景中出现的餐厅。这一功能建立在Samsung 2025 TVs推出的Click to Search之上。"
               },
               {
                 "t": "p",
-                "x": "主要功能包括由实时AI代理追踪、总结、转录和研究对话的Meeting Flow，提词器功能Cheatsheet，以及支持45种以上语言的Translation。Halliday AI助手回答问题很迅速，但这些功能与Even Realities G2的Conversate、Teleprompt和Translate如出一辙。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "（图片来源：Future / Tom's Guide）"
+                "x": "这些功能是Samsung从TV业务中获取更多经常性收入的努力之一；TV Plus月活跃用户已超过100 million 人。TrendForce预计，2026年全球TV出货量将同比下降0.8%，至194.65 million 台。"
               },
               {
                 "t": "p",
-                "x": "评测者遇到的每个人都一眼认出这是智能眼镜，而Stealth Mode只是调暗绿色文字，从不同角度仍能看到。电池续航约12小时。既然Even Realities G2以相同零售价把一切做得更好，这款眼镜就更难推荐了。"
+                "x": "据报道，Samsung还考虑在1月6日至9日于拉斯维加斯举行的CES 2027上发布其首款人形机器人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las gafas AI Halliday G2, una\nchuleta útil pero muy evidente",
-          "body": "Las G2 de Halliday, sin cámara, tienen AI útil, pero se ven toscas y se nota cuando lees respuestas en ellas.",
-          "mini_headline": "Probamos las gafas Halliday G2",
+          "headline": "La próxima TV de Samsung podría\npausarse si dejas el sofá",
+          "body": "La TV con AI que Samsung presentaría en CES 2027 se pausaría al dejar el sofá y se reanudaría al volver.",
+          "mini_headline": "La TV de Samsung que te observa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "(Crédito de la imagen: © Future / Tom's Guide)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict: las gafas inteligentes Halliday G2 AI son un paso en la dirección correcta: ofrecen unas gafas sin cámara con funciones de AI útiles en un diseño cómodo pero voluminoso (y poco elegante). Sin embargo, brindan una experiencia casi idéntica a la de sus rivales y las lastra un audio de oído abierto mediocre."
+                "x": "Samsung estaría preparando una nueva TV con AI (AI-powered) capaz de pausar automáticamente la reproducción cuando los espectadores se levantan del sofá y reanudarla cuando vuelven. Llamada provisionalmente TV-I, se espera que se presente en CES 2027 en enero."
               },
               {
                 "t": "p",
-                "x": "Dos motores micro-LED y una óptica de guía de ondas muestran texto verde de matriz de puntos en ambas lentes, con una resolución de 600 x 300 por ojo y un brillo máximo de 1,600 nits. Con 1.7 onzas, son de las gafas con AI más cómodas que ha usado el autor de la reseña."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
+                "x": "Según Korea JoongAng Daily, que cita fuentes del sector, la TV usará AI para reconocer los movimientos e intereses de los espectadores y ajustar la experiencia en consecuencia. Samsung también quiere que funcione como un compañero de AI en la sala: los espectadores podrán buscar objetos que vean en películas y series, como la ropa de un actor o un restaurante que aparece en una escena. Esto amplía Click to Search, presentado con los TVs de Samsung de 2025."
               },
               {
                 "t": "p",
-                "x": "Entre las funciones clave están Meeting Flow, en la que agentes de AI en vivo siguen, resumen, transcriben e investigan conversaciones; Cheatsheet, un teleprompter; y Translation, para más de 45 idiomas. El asistente Halliday AI responde con rapidez, pero las funciones replican Conversate, Teleprompt y Translate de las Even Realities G2."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
+                "x": "Estas funciones forman parte del esfuerzo de Samsung por generar más ingresos recurrentes con su negocio de TV; TV Plus ha superado los 100 millones de usuarios activos mensuales. TrendForce prevé que los envíos mundiales de TV bajen un 0.8% interanual, hasta 194.65 millones de unidades en 2026."
               },
               {
                 "t": "p",
-                "x": "Todas las personas con las que se cruzó el autor notaron a primera vista que eran gafas inteligentes, y Stealth Mode solo atenúa el texto verde, que sigue viéndose desde distintos ángulos. La batería dura unas 12 horas. Si las Even Realities G2 lo hacen todo mejor al mismo precio de venta, cuesta más recomendar estas."
+                "x": "Samsung también estaría considerando presentar su primer robot humanoide en CES 2027, que se celebra en Las Vegas del 6 al 9 de enero."
               }
             ]
           }
@@ -953,165 +977,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Halliday G2 AI\n유용하나 눈에 띄는 커닝",
-          "body": "Halliday G2는 카메라 없이 AI가 유용하나 투박하고 답을 읽으면 티 난다.",
-          "mini_headline": "Halliday G2 안경 써 보니",
+          "headline": "Samsung 새 TV는\n소파 떠나면 멈출 수도",
+          "body": "Samsung CES 2027 AI TV는 자리 뜨면 멈추고 오면 재생한다고 한다.",
+          "mini_headline": "사용자를 지켜보는 Samsung TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "(이미지 출처: © Future / Tom's Guide)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict: Halliday G2 AI 스마트 안경은 올바른 방향으로 한 걸음 나아간 제품이다. 카메라 없는 안경에 유용한 AI 기능을 담았고, 착용감은 편하지만 디자인은 두툼하다(그리고 투박하다). 다만 경쟁 제품과 거의 같은 경험을 제공하고, 오픈형 오디오 품질이 기대에 못 미친다."
+                "x": "Samsung이 시청자가 소파에서 일어나면 재생을 자동으로 멈추고, 돌아오면 다시 재생하는 새 AI-powered TV를 준비하고 있는 것으로 알려졌다. 가칭 TV-I인 이 TV는 1월 CES 2027에서 공개될 전망이다."
               },
               {
                 "t": "p",
-                "x": "듀얼 micro-LED 엔진과 웨이브가이드 광학계가 양쪽 렌즈에 녹색 도트 매트릭스 텍스트를 띄우며, 눈당 해상도는 600 x 300, 최대 밝기는 1,600니트다. 무게는 1.7온스로, 리뷰어가 써 본 AI 안경 가운데 착용감이 좋은 편에 속한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "(이미지 출처: Future / Tom's Guide)"
+                "x": "Korea JoongAng Daily는 업계 소식통을 인용해 이 TV가 AI로 시청자의 움직임과 관심사를 인식하고 그에 맞춰 시청 경험을 조정할 것이라고 전했다. Samsung은 이 TV가 거실의 AI 동반자 역할을 하기를 바란다. 시청자는 영화나 드라마에서 눈에 띈 배우의 옷이나 장면에 나온 식당 같은 것을 찾아볼 수 있게 될 것으로 알려졌다. 이는 Samsung의 2025 TVs와 함께 도입된 Click to Search를 바탕으로 한다."
               },
               {
                 "t": "p",
-                "x": "주요 기능으로는 실시간 AI 에이전트가 대화를 추적·요약·전사하고 조사하는 Meeting Flow, 텔레프롬프터 기능인 Cheatsheet, 45개 이상 언어를 지원하는 Translation이 있다. Halliday AI 어시스턴트는 질문에 빠르게 답하지만, 기능 구성은 Even Realities G2의 Conversate, Teleprompt, Translate와 판박이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "(이미지 출처: Future / Tom's Guide)"
+                "x": "이 기능들은 TV 사업에서 반복 매출을 더 끌어내려는 Samsung 전략의 일부다. TV Plus의 월간 활성 사용자는 100 million 명을 넘었다. TrendForce는 2026년 전 세계 TV 출하량이 전년 대비 0.8% 줄어든 194.65 million 대가 될 것으로 내다봤다."
               },
               {
                 "t": "p",
-                "x": "리뷰어가 마주친 사람들은 모두 한눈에 스마트 안경임을 알아챘고, Stealth Mode는 녹색 텍스트를 어둡게 할 뿐이라 각도에 따라 여전히 보인다. 배터리는 약 12시간 간다. 같은 소매가에 Even Realities G2가 모든 면에서 더 낫다는 점을 생각하면 추천하기 어렵다."
+                "x": "Samsung은 1월 6일부터 9일까지 라스베이거스에서 열리는 CES 2027에서 첫 휴머노이드 로봇 공개도 검토 중인 것으로 알려졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Halliday G2 AI\n便利だがバレるカンペ",
-          "body": "カメラ非搭載のHalliday G2はAIが便利だが、見た目は野暮で、答えを読むとバレる。",
-          "mini_headline": "Halliday G2グラスを試す",
+          "headline": "Samsungの次期TV、\n席を立つと一時停止か",
+          "body": "SamsungのCES 2027向けAI TVは、席を立つと止まり戻ると再開するという。",
+          "mini_headline": "視聴者を見守るSamsung TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "（画像クレジット：© Future / Tom's Guide）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict：Halliday G2 AIスマートグラスは正しい方向への一歩だ。カメラを持たないメガネに便利なAI機能を載せ、装着感は快適だが、デザインは分厚い（そして野暮ったい）。ただし体験はライバル製品とほぼ同じで、オープンイヤー型オーディオの物足りなさが足を引っ張る。"
+                "x": "Samsungは、視聴者がソファから立ち上がると再生を自動で一時停止し、戻ると再開する新しいAI-powered TVを準備していると報じられている。仮称TV-Iのこのテレビは、1月のCES 2027で発表される見通しだ。"
               },
               {
                 "t": "p",
-                "x": "デュアルmicro-LEDエンジンと導波路光学系が両レンズに緑のドットマトリクス文字を表示し、片目あたりの解像度は600 x 300、ピーク輝度は1,600ニトだ。重さは1.7オンスで、レビュアーが試したAIグラスの中でも快適な部類に入る。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "（画像クレジット：Future / Tom's Guide）"
+                "x": "Korea JoongAng Dailyが業界関係者の話として伝えたところでは、このTVはAIで視聴者の動きや関心を認識し、それに合わせて視聴体験を調整する。SamsungはこのTVをリビングのAIコンパニオンにしたい考えで、視聴者は映画や番組で目にした俳優の服やシーンに登場したレストランなどを調べられるようになるという。これはSamsungの2025 TVsで導入されたClick to Searchを発展させたものだ。"
               },
               {
                 "t": "p",
-                "x": "主な機能は、ライブのAIエージェントが会話を追跡・要約・文字起こし・調査するMeeting Flow、テレプロンプターのCheatsheet、45以上の言語に対応するTranslationだ。Halliday AIアシスタントは質問への応答がきびきびしているが、機能はEven Realities G2のConversate、Teleprompt、Translateをなぞったものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "（画像クレジット：Future / Tom's Guide）"
+                "x": "これらの機能は、TV事業から継続的な収益をより多く生み出そうとするSamsungの取り組みの一環で、TV Plusの月間アクティブユーザーは100 million 人を超えた。TrendForceは、2026年の世界のTV出荷台数が前年比0.8%減の194.65 million 台になると予測している。"
               },
               {
                 "t": "p",
-                "x": "レビュアーが出会った人は皆、一目でスマートグラスだと指摘した。Stealth Modeは緑の文字を暗くするだけで、角度によっては見えてしまう。バッテリーは約12時間持つ。同じ小売価格でEven Realities G2がすべてをより上手くこなす以上、これを薦めるのは難しい。"
+                "x": "Samsungは、1月6日から9日までラスベガスで開かれるCES 2027で、初のヒューマノイドロボットを披露することも検討していると報じられている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Halliday G2 AI\n实用却显眼的小抄",
-          "body": "Halliday G2无摄像头，AI实用，但外形笨拙，看着它读答案会被人察觉。",
-          "mini_headline": "Halliday G2眼镜实测",
+          "headline": "Samsung下一款TV\n或在你离开沙发时暂停",
+          "body": "Samsung预计在CES 2027推出的AI TV据称在观众离开沙发时暂停、回来时继续。",
+          "mini_headline": "会看人的Samsung TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "（图片来源：© Future / Tom's Guide）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict：Halliday G2 AI智能眼镜朝着正确方向迈出了一步，在舒适但厚重（且笨拙）的设计中，提供了不带摄像头、配有实用AI功能的眼镜。但它的体验与竞品几乎一样，开放式音频表现欠佳也拖了后腿。"
+                "x": "据报道，Samsung正在准备一款新的AI-powered TV，观众从沙发上起身时可自动暂停播放，回来后继续播放。这款暂定名为TV-I的电视预计将于1月在CES 2027上亮相。"
               },
               {
                 "t": "p",
-                "x": "双micro-LED引擎和光波导光学元件在两片镜片上显示绿色点阵文字，单眼分辨率为600 x 300，峰值亮度1,600尼特。它重1.7盎司，是评测者戴过的较舒适的AI眼镜之一。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "（图片来源：Future / Tom's Guide）"
+                "x": "Korea JoongAng Daily援引业内人士的话称，这款TV将利用AI识别观众的动作和兴趣，并据此调整观看体验。Samsung还希望它成为客厅里的AI伙伴：据称观众可以查找在电影和节目中看到的物品，例如演员的服装或某个场景中出现的餐厅。这一功能建立在Samsung 2025 TVs推出的Click to Search之上。"
               },
               {
                 "t": "p",
-                "x": "主要功能包括由实时AI代理追踪、总结、转录和研究对话的Meeting Flow，提词器功能Cheatsheet，以及支持45种以上语言的Translation。Halliday AI助手回答问题很迅速，但这些功能与Even Realities G2的Conversate、Teleprompt和Translate如出一辙。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "（图片来源：Future / Tom's Guide）"
+                "x": "这些功能是Samsung从TV业务中获取更多经常性收入的努力之一；TV Plus月活跃用户已超过100 million 人。TrendForce预计，2026年全球TV出货量将同比下降0.8%，至194.65 million 台。"
               },
               {
                 "t": "p",
-                "x": "评测者遇到的每个人都一眼认出这是智能眼镜，而Stealth Mode只是调暗绿色文字，从不同角度仍能看到。电池续航约12小时。既然Even Realities G2以相同零售价把一切做得更好，这款眼镜就更难推荐了。"
+                "x": "据报道，Samsung还考虑在1月6日至9日于拉斯维加斯举行的CES 2027上发布其首款人形机器人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las gafas AI Halliday G2, una\nchuleta útil pero muy evidente",
-          "body": "Las G2 de Halliday, sin cámara, tienen AI útil, pero se ven toscas y se nota cuando lees respuestas en ellas.",
-          "mini_headline": "Probamos las gafas Halliday G2",
+          "headline": "La próxima TV de Samsung podría\npausarse si dejas el sofá",
+          "body": "La TV con AI que Samsung presentaría en CES 2027 se pausaría al dejar el sofá y se reanudaría al volver.",
+          "mini_headline": "La TV de Samsung que te observa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wVu3i3WESBzbZxWLscxMMA-2560-80.jpg",
-                "cap": "(Crédito de la imagen: © Future / Tom's Guide)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TV.jpg"
               },
               {
                 "t": "p",
-                "x": "Tom's Guide Verdict: las gafas inteligentes Halliday G2 AI son un paso en la dirección correcta: ofrecen unas gafas sin cámara con funciones de AI útiles en un diseño cómodo pero voluminoso (y poco elegante). Sin embargo, brindan una experiencia casi idéntica a la de sus rivales y las lastra un audio de oído abierto mediocre."
+                "x": "Samsung estaría preparando una nueva TV con AI (AI-powered) capaz de pausar automáticamente la reproducción cuando los espectadores se levantan del sofá y reanudarla cuando vuelven. Llamada provisionalmente TV-I, se espera que se presente en CES 2027 en enero."
               },
               {
                 "t": "p",
-                "x": "Dos motores micro-LED y una óptica de guía de ondas muestran texto verde de matriz de puntos en ambas lentes, con una resolución de 600 x 300 por ojo y un brillo máximo de 1,600 nits. Con 1.7 onzas, son de las gafas con AI más cómodas que ha usado el autor de la reseña."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/buBdfVFApQx8tiQPUDTHQA.jpg",
-                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
+                "x": "Según Korea JoongAng Daily, que cita fuentes del sector, la TV usará AI para reconocer los movimientos e intereses de los espectadores y ajustar la experiencia en consecuencia. Samsung también quiere que funcione como un compañero de AI en la sala: los espectadores podrán buscar objetos que vean en películas y series, como la ropa de un actor o un restaurante que aparece en una escena. Esto amplía Click to Search, presentado con los TVs de Samsung de 2025."
               },
               {
                 "t": "p",
-                "x": "Entre las funciones clave están Meeting Flow, en la que agentes de AI en vivo siguen, resumen, transcriben e investigan conversaciones; Cheatsheet, un teleprompter; y Translation, para más de 45 idiomas. El asistente Halliday AI responde con rapidez, pero las funciones replican Conversate, Teleprompt y Translate de las Even Realities G2."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tzxstR6aTrhyeqcLwgATLA.jpg",
-                "cap": "(Crédito de la imagen: Future / Tom's Guide)"
+                "x": "Estas funciones forman parte del esfuerzo de Samsung por generar más ingresos recurrentes con su negocio de TV; TV Plus ha superado los 100 millones de usuarios activos mensuales. TrendForce prevé que los envíos mundiales de TV bajen un 0.8% interanual, hasta 194.65 millones de unidades en 2026."
               },
               {
                 "t": "p",
-                "x": "Todas las personas con las que se cruzó el autor notaron a primera vista que eran gafas inteligentes, y Stealth Mode solo atenúa el texto verde, que sigue viéndose desde distintos ángulos. La batería dura unas 12 horas. Si las Even Realities G2 lo hacen todo mejor al mismo precio de venta, cuesta más recomendar estas."
+                "x": "Samsung también estaría considerando presentar su primer robot humanoide en CES 2027, que se celebra en Las Vegas del 6 al 9 de enero."
               }
             ]
           }
@@ -1119,15 +1099,15 @@
       }
     },
     {
-      "id": "whalesbot-pubbo-kids-robot",
+      "id": "ai-glasses-public-bans-list",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "WhalesBot의 로봇\nPubbo, 말하면 그린다",
-      "body": "WhalesBot $299.99 Pubbo는 3~11세 말을 3.5인치에 그린다.",
-      "mini_headline": "Pubbo, 아이 상상을 그리는 로봇",
+      "headline": "AI 안경 금지하는 곳\n계속 늘어난다",
+      "body": "안전과 사생활 우려에 법정·학교·극장 등 공공장소가 잇따라 AI 안경을 막는다.",
+      "mini_headline": "번지는 AI 안경 금지",
       "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1135,239 +1115,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-            "cap": "거실 바닥에 누워 WhalesBot의 AI 컴패니언 로봇 Pubbo를 안고 웃는 소녀"
+            "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
           },
           {
             "t": "p",
-            "x": "아이가 공룡을 소리 내어 묘사하면 몇 초 뒤 Pubbo가 작은 화면에 공룡을 그린다. 말대답도 한다. WhalesBot이 3~11세 아이용으로 만든 이 로봇은 미국(US)에서 $299.99에 막 판매를 시작했다."
-          },
-          {
-            "t": "p",
-            "x": "Pubbo의 얼굴은 3.5인치 터치스크린이라 말하거나 노래하거나 반응할 때마다 표정이 바뀐다. 듀얼 마이크로 질문을 듣고, 아이가 장난감이나 그림을 5MP 카메라에 비추면 그에 맞는 답을 들려준다."
+            "x": "카메라 달린 AI 안경이 안전과 사생활 문제로 법원, 학교 등 공공장소에서 점점 설 자리를 잃고 있다. 영구 전면 금지를 시행한 나라는 아직 없다. 다만 파키스탄 펀자브주는 2026년 10월 “숨은 녹화 기능”이 있는 카메라 장착 스마트 안경의 사용과 판매를 30일간 금지했다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-            "cap": "아이가 말로 요청한 공룡 그림을 화면에 띄운 Pubbo"
+            "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
           },
           {
             "t": "p",
-            "x": "아이가 원하는 그림을 말로 설명하면 Pubbo가 그 말을 화면 속 이미지로 바꾼다. 종이 스케치를 보여 줘도 된다. 로봇이 스케치를 더 선명하고 완성도 있는 그림으로 다시 그린다. 날개를 달아 달라고 하면 공룡에 날개 한 쌍이 돋는다."
+            "x": "뉴욕주는 2026년 7월 20일부터 1,240개 주·지방 법원 전체에서 카메라, 마이크, 컴퓨터가 달린 스마트 안경을 금지했다. 잉글랜드와 웨일스의 법원·심판소도 Meta 안경을 막았다. 웨스턴오스트레일리아주는 2026년 10월 12일부터 공립학교에서 AI 안경을 금지했고 빅토리아주도 2027년 1월 27일부터 뒤따른다. SAT 시험장에서도 스마트 안경은 금지다. Camp Lejeune 등 기지에 적용되는 해병대 정책 역시 이를 허용하지 않는다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-            "cap": "아이의 종이 공룡 스케치를 화면에서 날개 달린 더 큰 공룡으로 바꾸는 Pubbo"
+            "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
           },
           {
             "t": "p",
-            "x": "Pubbo는 동화책 페이지에 맞춰 책도 읽어 준다. 무료 앱에는 800×800 밀리미터 코딩 맵과 함께 Challenge, Invention, 블록 코딩 모드가 있다. 대화는 실시간으로 점검하고 개인 정보는 표시하며, 위험한 주제가 나오면 대화를 멈출 수 있고 부모에게 알림이 간다. 5,200 mAh 배터리로 한 번 충전해 2시간 넘게 쓴다."
+            "x": "Canterbury-Bankstown Council은 레저·수영 센터에서 스마트 안경을 금지했다. UK 영화관들도 카메라 달린 안경을 막는 조치를 들이고 있고 Royal Caribbean은 카지노, 의료 시설, 청소년 구역에서 사용을 금지한다. 노르웨이는 일시 제한을 검토 중이다. Meta는 촬영할 때 녹화 LED가 켜진다고 하지만 Ray-Ban 문서에는 일부 카메라 기반 AI 기능이 LED 없이도 작동할 수 있다고 적혀 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "WhalesBot's Pubbo robot draws\nwhat kids describe out loud",
-          "body": "WhalesBot's $299.99 Pubbo, for kids aged 3 to 11, draws spoken descriptions on its 3.5-inch screen face and talks back.",
-          "mini_headline": "Pubbo robot draws kids' ideas",
+          "headline": "The list of places banning\nAI glasses keeps growing",
+          "body": "Over safety and privacy concerns, courtrooms, schools, theaters and other public places are banning AI glasses.",
+          "mini_headline": "AI glasses bans spread",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "A smiling girl lying on a living room floor holding Pubbo, the WhalesBot AI companion robot"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "A kid describes a dinosaur out loud, and Pubbo draws one on its little screen seconds later. It talks back. WhalesBot built it for kids ages 3 to 11, and it just went on sale in the US for $299.99."
-              },
-              {
-                "t": "p",
-                "x": "Pubbo’s face is a 3.5-inch touch screen whose expressions shift while it talks, sings or reacts. Dual microphones hear questions, and a 5MP camera lets kids hold up a toy or drawing and get an answer about it."
+                "x": "AI glasses with cameras are becoming more and more unwelcome in courthouses, schools and other public places for safety and privacy reasons. No country has a permanent, outright ban, but Pakistan's Punjab province imposed a 30-day ban on the use and sale of camera-equipped smart glasses with \"hidden recording ability\" in October 2026."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "Pubbo displays a dinosaur picture it drew from a child’s spoken request"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "A child can describe a picture out loud and watch Pubbo turn those words into an image on screen. Showing it a paper sketch works too, and the robot rebuilds that sketch into a finished, brighter version. A kid asks for wings, and the dinosaur grows a pair."
+                "x": "New York has banned smart glasses with cameras, microphones or computers in all 1,240 state and local courts since July 20, 2026, and courts and tribunals in England and Wales have banned Meta glasses. Western Australia has banned AI glasses from public schools since October 12, 2026, with Victoria to follow on January 27, 2027. Smart glasses are prohibited at SAT test sites, and Marine Corps policy at Camp Lejeune and other bases does not allow them."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "Pubbo turns a child’s paper dinosaur sketch into a bigger winged version on screen"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "It also reads its storybook along with the pages, and the free app adds Challenge, Invention and block-coding modes with an 800 by 800 millimeter coding map. Chats get checked in real time, personal details get flagged, and risky topics can stop a conversation while parents see the alerts. The 5,200 mAh battery is rated at 2+ hours per charge."
+                "x": "Canterbury-Bankstown Council has banned smart glasses at its leisure and aquatic centers, UK cinemas are rolling out measures to curb camera-enabled glasses, and Royal Caribbean prohibits their use in casinos, medical facilities or youth areas. Norway is considering temporary restrictions. Meta says its recording LED lights up when capturing, but Ray-Ban's documentation states some camera-based AI functions can work without the LED."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WhalesBot의 로봇\nPubbo, 말하면 그린다",
-          "body": "WhalesBot $299.99 Pubbo는 3~11세 말을 3.5인치에 그린다.",
-          "mini_headline": "Pubbo, 아이 상상을 그리는 로봇",
+          "headline": "AI 안경 금지하는 곳\n계속 늘어난다",
+          "body": "안전과 사생활 우려에 법정·학교·극장 등 공공장소가 잇따라 AI 안경을 막는다.",
+          "mini_headline": "번지는 AI 안경 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "거실 바닥에 누워 WhalesBot의 AI 컴패니언 로봇 Pubbo를 안고 웃는 소녀"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "아이가 공룡을 소리 내어 묘사하면 몇 초 뒤 Pubbo가 작은 화면에 공룡을 그린다. 말대답도 한다. WhalesBot이 3~11세 아이용으로 만든 이 로봇은 미국(US)에서 $299.99에 막 판매를 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "Pubbo의 얼굴은 3.5인치 터치스크린이라 말하거나 노래하거나 반응할 때마다 표정이 바뀐다. 듀얼 마이크로 질문을 듣고, 아이가 장난감이나 그림을 5MP 카메라에 비추면 그에 맞는 답을 들려준다."
+                "x": "카메라 달린 AI 안경이 안전과 사생활 문제로 법원, 학교 등 공공장소에서 점점 설 자리를 잃고 있다. 영구 전면 금지를 시행한 나라는 아직 없다. 다만 파키스탄 펀자브주는 2026년 10월 “숨은 녹화 기능”이 있는 카메라 장착 스마트 안경의 사용과 판매를 30일간 금지했다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "아이가 말로 요청한 공룡 그림을 화면에 띄운 Pubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "아이가 원하는 그림을 말로 설명하면 Pubbo가 그 말을 화면 속 이미지로 바꾼다. 종이 스케치를 보여 줘도 된다. 로봇이 스케치를 더 선명하고 완성도 있는 그림으로 다시 그린다. 날개를 달아 달라고 하면 공룡에 날개 한 쌍이 돋는다."
+                "x": "뉴욕주는 2026년 7월 20일부터 1,240개 주·지방 법원 전체에서 카메라, 마이크, 컴퓨터가 달린 스마트 안경을 금지했다. 잉글랜드와 웨일스의 법원·심판소도 Meta 안경을 막았다. 웨스턴오스트레일리아주는 2026년 10월 12일부터 공립학교에서 AI 안경을 금지했고 빅토리아주도 2027년 1월 27일부터 뒤따른다. SAT 시험장에서도 스마트 안경은 금지다. Camp Lejeune 등 기지에 적용되는 해병대 정책 역시 이를 허용하지 않는다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "아이의 종이 공룡 스케치를 화면에서 날개 달린 더 큰 공룡으로 바꾸는 Pubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "Pubbo는 동화책 페이지에 맞춰 책도 읽어 준다. 무료 앱에는 800×800 밀리미터 코딩 맵과 함께 Challenge, Invention, 블록 코딩 모드가 있다. 대화는 실시간으로 점검하고 개인 정보는 표시하며, 위험한 주제가 나오면 대화를 멈출 수 있고 부모에게 알림이 간다. 5,200 mAh 배터리로 한 번 충전해 2시간 넘게 쓴다."
+                "x": "Canterbury-Bankstown Council은 레저·수영 센터에서 스마트 안경을 금지했다. UK 영화관들도 카메라 달린 안경을 막는 조치를 들이고 있고 Royal Caribbean은 카지노, 의료 시설, 청소년 구역에서 사용을 금지한다. 노르웨이는 일시 제한을 검토 중이다. Meta는 촬영할 때 녹화 LED가 켜진다고 하지만 Ray-Ban 문서에는 일부 카메라 기반 AI 기능이 LED 없이도 작동할 수 있다고 적혀 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WhalesBotの\nPubboは子どもの話を絵に",
-          "body": "WhalesBotの$299.99 Pubboは3〜11歳向け、話を3.5インチ画面に描く。",
-          "mini_headline": "Pubboが子どもの発想を描く",
+          "headline": "AIグラス禁止の場所が\n増え続けている",
+          "body": "安全とプライバシーへの懸念から、法廷や学校、劇場などの公共の場がAIグラスを禁止している。",
+          "mini_headline": "広がるAIグラス禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "リビングの床に寝そべり、WhalesBotのAIコンパニオンロボットPubboを抱えて笑う少女"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "子どもが恐竜を声に出して説明すると、数秒後にPubboが小さな画面に恐竜を描く。言葉も返してくる。WhalesBotが3〜11歳の子ども向けに開発したこのロボットは、米国（US）で$299.99で発売されたばかりだ。"
-              },
-              {
-                "t": "p",
-                "x": "Pubboの顔は3.5インチのタッチスクリーンで、話したり歌ったり反応したりするたびに表情が変わる。デュアルマイクが質問を聞き取り、5MP カメラにおもちゃや絵をかざせば、それについての答えが返ってくる。"
+                "x": "カメラ付きのAIグラスは、安全とプライバシーの理由から、裁判所や学校などの公共の場でますます歓迎されなくなっている。恒久的な全面禁止に踏み切った国はないが、パキスタンのパンジャブ州は2026年10月、「隠れた録画機能」を持つカメラ付きスマートグラスの使用と販売を30日間禁止した。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "子どもの音声リクエストから描いた恐竜の絵を表示するPubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "子どもが絵を言葉で説明すると、Pubboがその言葉を画面上の画像に変えていく様子を見られる。紙のスケッチを見せてもよく、ロボットはそれをより鮮やかな完成版に描き直す。子どもが翼を頼めば、恐竜に一対の翼が生える。"
+                "x": "ニューヨーク州は2026年7月20日から州と地方の全1,240の裁判所で、カメラ、マイク、コンピューターを備えたスマートグラスを禁止し、イングランドとウェールズの裁判所や審判所もMetaのグラスを禁止した。西オーストラリア州は2026年10月12日から公立学校でAIグラスを禁止し、ビクトリア州も2027年1月27日に続く。SATの試験会場でもスマートグラスは禁止されており、Camp Lejeuneなどの基地での海兵隊の方針も使用を認めていない。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "子どもの紙の恐竜スケッチを、画面上で翼のある大きな恐竜に描き変えるPubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "Pubboは絵本をページに合わせて読み聞かせもする。無料アプリにはChallenge、Invention、ブロックコーディングの各モードがあり、800×800 ミリメートルのコーディングマップが付く。会話はリアルタイムでチェックされ、個人情報にはフラグが立ち、危険な話題では会話を止められ、保護者にはアラートが届く。5,200 mAhバッテリーはフル充電で2時間以上使える。"
+                "x": "Canterbury-Bankstown Councilはレジャー・水泳施設でスマートグラスを禁止し、UKの映画館はカメラ付きグラスを抑える措置を導入しつつあり、Royal Caribbeanはカジノ、医療施設、子ども向けエリアでの使用を禁じている。ノルウェーは一時的な規制を検討中だ。Metaは撮影中に録画用LEDが点灯するとしているが、Ray-Banの資料には、カメラを使う一部のAI機能はLEDなしでも動作しうると記されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WhalesBot机器人\nPubbo把孩子的话画出来",
-          "body": "WhalesBot的$299.99 Pubbo面向3至11岁儿童，把口述画在3.5英寸屏上。",
-          "mini_headline": "Pubbo画出孩子的想法",
+          "headline": "禁用AI眼镜的场所\n越来越多",
+          "body": "出于安全和隐私担忧，法庭、学校、剧院等公共场所正在禁止AI眼镜。",
+          "mini_headline": "AI眼镜禁令蔓延",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "躺在客厅地板上、抱着WhalesBot AI陪伴机器人Pubbo微笑的女孩"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "孩子大声描述一只恐龙，几秒后Pubbo就在小屏幕上把它画出来，还会开口回应。WhalesBot为3至11岁儿童打造了这款机器人，它刚在美国（US）开售，售价$299.99。"
-              },
-              {
-                "t": "p",
-                "x": "Pubbo的脸是一块3.5英寸触摸屏，说话、唱歌或做出反应时表情会随之变化。双麦克风负责听取问题，5MP 摄像头让孩子举起玩具或画作就能得到相关解答。"
+                "x": "出于安全和隐私原因，带摄像头的AI眼镜在法院、学校等公共场所越来越不受欢迎。目前没有国家实施永久性全面禁令，但巴基斯坦旁遮普省于2026年10月对具有“隐蔽录制功能”的带摄像头智能眼镜实施了为期30天的使用和销售禁令。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "Pubbo展示根据孩子口头要求画出的恐龙图"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "孩子可以口头描述一幅画，看着Pubbo把这些话变成屏幕上的图像。给它看纸上的草图也行，机器人会把草图重绘成更完整、更鲜亮的版本。孩子想要翅膀，恐龙就长出一对翅膀。"
+                "x": "自2026年7月20日起，纽约州已在全部1,240个州和地方法院禁止配备摄像头、麦克风或计算机的智能眼镜；英格兰和威尔士的法院及审裁处也已禁止Meta眼镜。西澳大利亚州自2026年10月12日起禁止公立学校使用AI眼镜，维多利亚州将于2027年1月27日跟进。SAT考场禁止智能眼镜，Camp Lejeune等基地的海军陆战队政策也不允许使用。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "Pubbo把孩子的纸上恐龙草图在屏幕上变成更大的带翅膀版本"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "它还能配合书页朗读故事书，免费应用则增加了Challenge、Invention和积木编程模式，并配有800×800 毫米的编程地图。对话会被实时检查，个人信息会被标记，危险话题可以中止对话，家长也能看到提醒。5,200 mAh电池每次充电可用2小时以上。"
+                "x": "Canterbury-Bankstown Council已在其休闲和水上中心禁止智能眼镜，UK影院正在推出限制带摄像头眼镜的措施，Royal Caribbean则禁止在赌场、医疗设施和青少年区域使用。挪威正在考虑临时限制。Meta称其录制LED会在拍摄时亮起，但Ray-Ban的文档指出，部分基于摄像头的AI功能可以在没有LED的情况下运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El robot Pubbo de WhalesBot\ndibuja lo que dicen los niños",
-          "body": "El Pubbo de WhalesBot, de $299.99 y para niños de 3 a 11 años, dibuja en su cara de 3.5 pulgadas lo que oye y responde.",
-          "mini_headline": "Pubbo dibuja las ideas de los niños",
+          "headline": "Crece la lista de lugares\nque prohíben las gafas con AI",
+          "body": "Por motivos de seguridad y privacidad, tribunales, escuelas, cines y otros lugares públicos prohíben las gafas con AI.",
+          "mini_headline": "Se extienden los vetos a las gafas con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "Una niña sonriente tumbada en el suelo de la sala sostiene a Pubbo, el robot de compañía con AI de WhalesBot"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "Un niño describe un dinosaurio en voz alta y, segundos después, Pubbo lo dibuja en su pequeña pantalla. También contesta. WhalesBot lo creó para niños de 3 a 11 años, y acaba de salir a la venta en Estados Unidos (US) por $299.99."
-              },
-              {
-                "t": "p",
-                "x": "La cara de Pubbo es una pantalla táctil de 3.5 pulgadas cuyas expresiones cambian mientras habla, canta o reacciona. Dos micrófonos escuchan las preguntas, y una cámara de 5MP permite a los niños mostrarle un juguete o un dibujo y obtener una respuesta sobre él."
+                "x": "Las gafas con AI y cámara son cada vez menos bienvenidas en tribunales, escuelas y otros lugares públicos por motivos de seguridad y privacidad. Ningún país tiene una prohibición total y permanente, pero la provincia de Punyab, en Pakistán, impuso en octubre de 2026 una prohibición de 30 días al uso y la venta de gafas inteligentes con cámara con “capacidad de grabación oculta”."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "Pubbo muestra un dinosaurio que dibujó a partir de la petición hablada de un niño"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "Un niño puede describir un dibujo en voz alta y ver cómo Pubbo convierte esas palabras en una imagen en pantalla. También funciona mostrarle un boceto en papel: el robot lo rehace en una versión terminada y más vistosa. Si un niño pide alas, al dinosaurio le sale un par."
+                "x": "Nueva York prohíbe desde el 20 de julio de 2026 las gafas inteligentes con cámara, micrófono o computadora en sus 1240 tribunales estatales y locales, y los juzgados y tribunales de Inglaterra y Gales han prohibido las gafas de Meta. Australia Occidental prohíbe las gafas con AI en las escuelas públicas desde el 12 de octubre de 2026, y Victoria hará lo mismo el 27 de enero de 2027. Las gafas inteligentes están prohibidas en los centros de examen del SAT, y la política del Cuerpo de Marines en Camp Lejeune y otras bases no las permite."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "Pubbo convierte en pantalla el boceto en papel de un dinosaurio hecho por un niño en una versión más grande y con alas"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "También lee su libro de cuentos al ritmo de las páginas, y la app gratuita añade los modos Challenge, Invention y programación por bloques, con un mapa de programación de 800 por 800 milímetros. Los chats se revisan en tiempo real, los datos personales se señalan y los temas de riesgo pueden detener una conversación, mientras los padres ven las alertas. La batería de 5,200 mAh ofrece 2 horas o más por carga."
+                "x": "Canterbury-Bankstown Council ha prohibido las gafas inteligentes en sus centros de ocio y acuáticos, los cines del Reino Unido (UK) están aplicando medidas para frenar las gafas con cámara y Royal Caribbean prohíbe su uso en casinos, instalaciones médicas y zonas juveniles. Noruega estudia restricciones temporales. Meta asegura que su LED de grabación se enciende al capturar, pero la documentación de Ray-Ban indica que algunas funciones de AI basadas en la cámara pueden funcionar sin el LED."
               }
             ]
           }
@@ -1375,165 +1313,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "WhalesBot의 로봇\nPubbo, 말하면 그린다",
-          "body": "WhalesBot $299.99 Pubbo는 3~11세 말을 3.5인치에 그린다.",
-          "mini_headline": "Pubbo, 아이 상상을 그리는 로봇",
+          "headline": "AI 안경 금지하는 곳\n계속 늘어난다",
+          "body": "안전과 사생활 우려로 법정·학교·극장 등 공공장소가 AI 안경을 금지하고 있다.",
+          "mini_headline": "번지는 AI 안경 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "거실 바닥에 누워 WhalesBot의 AI 컴패니언 로봇 Pubbo를 안고 웃는 소녀"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "아이가 공룡을 소리 내어 묘사하면, 몇 초 뒤 Pubbo가 작은 화면에 공룡을 그린다. 말대답도 한다. WhalesBot이 3~11세 아이를 위해 만든 이 로봇은 미국(US)에서 $299.99에 막 판매를 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "Pubbo의 얼굴은 3.5인치 터치스크린으로, 말하거나 노래하거나 반응할 때 표정이 바뀐다. 듀얼 마이크가 질문을 듣고, 5MP 카메라 덕분에 아이가 장난감이나 그림을 비추면 그에 대한 답을 들을 수 있다."
+                "x": "카메라가 달린 AI 안경은 안전과 사생활 문제로 법원, 학교 등 공공장소에서 점점 더 환영받지 못하고 있다. 영구적인 전면 금지를 시행한 나라는 없지만, 파키스탄 펀자브주는 2026년 10월 “숨은 녹화 기능”이 있는 카메라 장착 스마트 안경의 사용과 판매를 30일간 금지했다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "아이가 말로 요청한 공룡 그림을 화면에 띄운 Pubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "아이가 그림을 말로 설명하면 Pubbo가 그 말을 화면 속 이미지로 바꾸는 모습을 볼 수 있다. 종이 스케치를 보여 줘도 되는데, 로봇은 그 스케치를 더 선명하고 완성된 그림으로 다시 그린다. 아이가 날개를 달아 달라고 하면 공룡에 날개 한 쌍이 돋는다."
+                "x": "뉴욕주는 2026년 7월 20일부터 1,240개 주·지방 법원 전체에서 카메라, 마이크, 컴퓨터가 달린 스마트 안경을 금지했고, 잉글랜드와 웨일스의 법원·심판소도 Meta 안경을 금지했다. 웨스턴오스트레일리아주는 2026년 10월 12일부터 공립학교에서 AI 안경을 금지했고, 빅토리아주도 2027년 1월 27일부터 뒤따른다. SAT 시험장에서도 스마트 안경은 금지되며, Camp Lejeune 등 기지에 적용되는 해병대 정책도 이를 허용하지 않는다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "아이의 종이 공룡 스케치를 화면에서 날개 달린 더 큰 공룡으로 바꾸는 Pubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "Pubbo는 동화책 페이지에 맞춰 책을 읽어 주기도 하며, 무료 앱에는 800×800 밀리미터 코딩 맵과 함께 Challenge, Invention, 블록 코딩 모드가 있다. 대화는 실시간으로 점검되고, 개인 정보는 표시되며, 위험한 주제가 나오면 대화를 멈출 수 있고 부모는 알림을 받는다. 5,200 mAh 배터리는 한 번 충전으로 2시간 이상 쓸 수 있다."
+                "x": "Canterbury-Bankstown Council은 레저·수영 센터에서 스마트 안경을 금지했고, UK 영화관들은 카메라 달린 안경을 막는 조치를 도입하고 있으며, Royal Caribbean은 카지노, 의료 시설, 청소년 구역에서 사용을 금지한다. 노르웨이는 일시적 제한을 검토 중이다. Meta는 촬영 시 녹화 LED가 켜진다고 하지만, Ray-Ban 문서에는 일부 카메라 기반 AI 기능이 LED 없이도 작동할 수 있다고 적혀 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WhalesBotの\nPubboは子どもの話を絵に",
-          "body": "WhalesBotの$299.99 Pubboは3〜11歳向け、話を3.5インチ画面に描く。",
-          "mini_headline": "Pubboが子どもの発想を描く",
+          "headline": "AIグラス禁止の場所が\n増え続けている",
+          "body": "安全とプライバシーへの懸念から、法廷や学校、劇場などの公共の場がAIグラスを禁止している。",
+          "mini_headline": "広がるAIグラス禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "リビングの床に寝そべり、WhalesBotのAIコンパニオンロボットPubboを抱えて笑う少女"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "子どもが恐竜を声に出して説明すると、数秒後にPubboが小さな画面に恐竜を描く。言葉も返してくる。WhalesBotが3〜11歳の子ども向けに開発したこのロボットは、米国（US）で$299.99で発売されたばかりだ。"
-              },
-              {
-                "t": "p",
-                "x": "Pubboの顔は3.5インチのタッチスクリーンで、話したり歌ったり反応したりするたびに表情が変わる。デュアルマイクが質問を聞き取り、5MP カメラにおもちゃや絵をかざせば、それについての答えが返ってくる。"
+                "x": "カメラ付きのAIグラスは、安全とプライバシーの理由から、裁判所や学校などの公共の場でますます歓迎されなくなっている。恒久的な全面禁止に踏み切った国はないが、パキスタンのパンジャブ州は2026年10月、「隠れた録画機能」を持つカメラ付きスマートグラスの使用と販売を30日間禁止した。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "子どもの音声リクエストから描いた恐竜の絵を表示するPubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "子どもが絵を言葉で説明すると、Pubboがその言葉を画面上の画像に変えていく様子を見られる。紙のスケッチを見せてもよく、ロボットはそれをより鮮やかな完成版に描き直す。子どもが翼を頼めば、恐竜に一対の翼が生える。"
+                "x": "ニューヨーク州は2026年7月20日から州と地方の全1,240の裁判所で、カメラ、マイク、コンピューターを備えたスマートグラスを禁止し、イングランドとウェールズの裁判所や審判所もMetaのグラスを禁止した。西オーストラリア州は2026年10月12日から公立学校でAIグラスを禁止し、ビクトリア州も2027年1月27日に続く。SATの試験会場でもスマートグラスは禁止されており、Camp Lejeuneなどの基地での海兵隊の方針も使用を認めていない。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "子どもの紙の恐竜スケッチを、画面上で翼のある大きな恐竜に描き変えるPubbo"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "Pubboは絵本をページに合わせて読み聞かせもする。無料アプリにはChallenge、Invention、ブロックコーディングの各モードがあり、800×800 ミリメートルのコーディングマップが付く。会話はリアルタイムでチェックされ、個人情報にはフラグが立ち、危険な話題では会話を止められ、保護者にはアラートが届く。5,200 mAhバッテリーはフル充電で2時間以上使える。"
+                "x": "Canterbury-Bankstown Councilはレジャー・水泳施設でスマートグラスを禁止し、UKの映画館はカメラ付きグラスを抑える措置を導入しつつあり、Royal Caribbeanはカジノ、医療施設、子ども向けエリアでの使用を禁じている。ノルウェーは一時的な規制を検討中だ。Metaは撮影中に録画用LEDが点灯するとしているが、Ray-Banの資料には、カメラを使う一部のAI機能はLEDなしでも動作しうると記されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WhalesBot机器人\nPubbo把孩子的话画出来",
-          "body": "WhalesBot的$299.99 Pubbo面向3至11岁儿童，把口述画在3.5英寸屏上。",
-          "mini_headline": "Pubbo画出孩子的想法",
+          "headline": "禁用AI眼镜的场所\n越来越多",
+          "body": "出于安全和隐私担忧，法庭、学校、剧院等公共场所正在禁止AI眼镜。",
+          "mini_headline": "AI眼镜禁令蔓延",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "躺在客厅地板上、抱着WhalesBot AI陪伴机器人Pubbo微笑的女孩"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "孩子大声描述一只恐龙，几秒后Pubbo就在小屏幕上把它画出来，还会开口回应。WhalesBot为3至11岁儿童打造了这款机器人，它刚在美国（US）开售，售价$299.99。"
-              },
-              {
-                "t": "p",
-                "x": "Pubbo的脸是一块3.5英寸触摸屏，说话、唱歌或做出反应时表情会随之变化。双麦克风负责听取问题，5MP 摄像头让孩子举起玩具或画作就能得到相关解答。"
+                "x": "出于安全和隐私原因，带摄像头的AI眼镜在法院、学校等公共场所越来越不受欢迎。目前没有国家实施永久性全面禁令，但巴基斯坦旁遮普省于2026年10月对具有“隐蔽录制功能”的带摄像头智能眼镜实施了为期30天的使用和销售禁令。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "Pubbo展示根据孩子口头要求画出的恐龙图"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "孩子可以口头描述一幅画，看着Pubbo把这些话变成屏幕上的图像。给它看纸上的草图也行，机器人会把草图重绘成更完整、更鲜亮的版本。孩子想要翅膀，恐龙就长出一对翅膀。"
+                "x": "自2026年7月20日起，纽约州已在全部1,240个州和地方法院禁止配备摄像头、麦克风或计算机的智能眼镜；英格兰和威尔士的法院及审裁处也已禁止Meta眼镜。西澳大利亚州自2026年10月12日起禁止公立学校使用AI眼镜，维多利亚州将于2027年1月27日跟进。SAT考场禁止智能眼镜，Camp Lejeune等基地的海军陆战队政策也不允许使用。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "Pubbo把孩子的纸上恐龙草图在屏幕上变成更大的带翅膀版本"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "它还能配合书页朗读故事书，免费应用则增加了Challenge、Invention和积木编程模式，并配有800×800 毫米的编程地图。对话会被实时检查，个人信息会被标记，危险话题可以中止对话，家长也能看到提醒。5,200 mAh电池每次充电可用2小时以上。"
+                "x": "Canterbury-Bankstown Council已在其休闲和水上中心禁止智能眼镜，UK影院正在推出限制带摄像头眼镜的措施，Royal Caribbean则禁止在赌场、医疗设施和青少年区域使用。挪威正在考虑临时限制。Meta称其录制LED会在拍摄时亮起，但Ray-Ban的文档指出，部分基于摄像头的AI功能可以在没有LED的情况下运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El robot Pubbo de WhalesBot\ndibuja lo que dicen los niños",
-          "body": "El Pubbo de WhalesBot, de $299.99 y para niños de 3 a 11 años, dibuja en su cara de 3.5 pulgadas lo que oye y responde.",
-          "mini_headline": "Pubbo dibuja las ideas de los niños",
+          "headline": "Crece la lista de lugares\nque prohíben las gafas con AI",
+          "body": "Por motivos de seguridad y privacidad, tribunales, escuelas, cines y otros lugares públicos prohíben las gafas con AI.",
+          "mini_headline": "Se extienden los vetos a las gafas con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-hero.jpg",
-                "cap": "Una niña sonriente tumbada en el suelo de la sala sostiene a Pubbo, el robot de compañía con AI de WhalesBot"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/intro-1794240877.jpg"
               },
               {
                 "t": "p",
-                "x": "Un niño describe un dinosaurio en voz alta y, segundos después, Pubbo lo dibuja en su pequeña pantalla. También contesta. WhalesBot lo creó para niños de 3 a 11 años, y acaba de salir a la venta en Estados Unidos (US) por $299.99."
-              },
-              {
-                "t": "p",
-                "x": "La cara de Pubbo es una pantalla táctil de 3.5 pulgadas cuyas expresiones cambian mientras habla, canta o reacciona. Dos micrófonos escuchan las preguntas, y una cámara de 5MP permite a los niños mostrarle un juguete o un dibujo y obtener una respuesta sobre él."
+                "x": "Las gafas con AI y cámara son cada vez menos bienvenidas en tribunales, escuelas y otros lugares públicos por motivos de seguridad y privacidad. Ningún país tiene una prohibición total y permanente, pero la provincia de Punyab, en Pakistán, impuso en octubre de 2026 una prohibición de 30 días al uso y la venta de gafas inteligentes con cámara con “capacidad de grabación oculta”."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-create.jpg",
-                "cap": "Pubbo muestra un dinosaurio que dibujó a partir de la petición hablada de un niño"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/courts-schools-and-military-sites-are-restricting-ai-glasses-1794240879.jpg"
               },
               {
                 "t": "p",
-                "x": "Un niño puede describir un dibujo en voz alta y ver cómo Pubbo convierte esas palabras en una imagen en pantalla. También funciona mostrarle un boceto en papel: el robot lo rehace en una versión terminada y más vistosa. Si un niño pide alas, al dinosaurio le sale un par."
+                "x": "Nueva York prohíbe desde el 20 de julio de 2026 las gafas inteligentes con cámara, micrófono o computadora en sus 1240 tribunales estatales y locales, y los juzgados y tribunales de Inglaterra y Gales han prohibido las gafas de Meta. Australia Occidental prohíbe las gafas con AI en las escuelas públicas desde el 12 de octubre de 2026, y Victoria hará lo mismo el 27 de enero de 2027. Las gafas inteligentes están prohibidas en los centros de examen del SAT, y la política del Cuerpo de Marines en Camp Lejeune y otras bases no las permite."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pubbo-body-draw.jpg",
-                "cap": "Pubbo convierte en pantalla el boceto en papel de un dinosaurio hecho por un niño en una versión más grande y con alas"
+                "src": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/pools-theaters-and-cruises-are-restricting-ai-glasses-1794240881.jpg"
               },
               {
                 "t": "p",
-                "x": "También lee su libro de cuentos al ritmo de las páginas, y la app gratuita añade los modos Challenge, Invention y programación por bloques, con un mapa de programación de 800 por 800 milímetros. Los chats se revisan en tiempo real, los datos personales se señalan y los temas de riesgo pueden detener una conversación, mientras los padres ven las alertas. La batería de 5,200 mAh ofrece 2 horas o más por carga."
+                "x": "Canterbury-Bankstown Council ha prohibido las gafas inteligentes en sus centros de ocio y acuáticos, los cines del Reino Unido (UK) están aplicando medidas para frenar las gafas con cámara y Royal Caribbean prohíbe su uso en casinos, instalaciones médicas y zonas juveniles. Noruega estudia restricciones temporales. Meta asegura que su LED de grabación se enciende al capturar, pero la documentación de Ray-Ban indica que algunas funciones de AI basadas en la cámara pueden funcionar sin el LED."
               }
             ]
           }
@@ -1541,15 +1451,15 @@
       }
     },
     {
-      "id": "qidi-makebuddy-smart5",
+      "id": "aqara-g350-apple-intelligence-test",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "QIDI MakeBuddy\nSmart5 사진을 3D로",
-      "body": "QIDI MakeBuddy Smart5는 $349 가족용 AI 3D 프린터다.",
-      "mini_headline": "QIDI, 사진을 장난감으로 출력",
+      "headline": "보안캠서 시험한 Apple\nIntelligence",
+      "body": "CNET이 Aqara G350으로 Apple Intelligence AI를 써봤다.",
+      "mini_headline": "보안캠 속 Apple AI",
       "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/security/aqara-g350-apple-intelligence-review-tested-camera-to-find-the-limits/",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
@@ -1557,239 +1467,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-            "cap": "커피 테이블 위 QIDI MakeBuddy Smart5 3D 프린터 주위에 모인 가족"
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+            "cap": "Aqara 카메라 허브가 MacBook 옆 탁자 위에 놓여 있다."
           },
           {
             "t": "p",
-            "x": "QIDI의 MakeBuddy Smart5는 작업대가 아닌 거실에 놓으려고 만든 완전 밀폐형 3D 프린터다. AI 카메라와 자동 베드 레벨링을 갖췄고, 휴대폰 사진을 출력 가능한 모델로 바꿔 주는 앱도 딸려 있다. 가격은 $349이고 11월 10일 판매를 시작했다."
-          },
-          {
-            "t": "p",
-            "x": "AI Image-to-3D 도구는 사진이나 그림으로 맞춤형 3D 모델을 만든다. 아이가 그린 반려견 스케치도 모델링 소프트웨어를 따로 배우지 않고 바로 프린터로 뽑아 피규어로 만들 수 있다."
+            "x": "Apple의 AI는 보안 카메라 영상을 설명해 주겠다고 내세운다. CNET은 실제로 쓸 만한지 보려고 호환 모델 가운데 손꼽히는 Aqara G350 Camera Hub($140)로 시험했다. Apple Intelligence 기능을 쓰려면 최소 $10짜리 iCloud Plus 2TB 구독과 Apple 허브가 있어야 한다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-            "cap": "휴대폰 화면에 AI photo-to-3D 앱이 떠 있는 가운데 출력된 피규어를 든 두 아이"
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
           },
           {
             "t": "p",
-            "x": "QIDI Joy 앱에는 바로 출력할 수 있는 모델 라이브러리와 STEAM 강좌가 들어 있고, 내장 카메라는 출력 과정을 모두 타임랩스로 남긴다. 닫힌 난연 챔버는 뜨거운 부품에 어린아이 손이 닿지 않게 막는다. G3, H12 HEPA, 활성탄을 겹친 필터 스택은 입자의 99.5%를 걸러낸다."
+            "x": "Apple Intelligence의 영상 설명은 아주 짧고 정확도도 들쭉날쭉하다. 실내에서는 “누군가 책을 읽고 있다”고 제대로 알렸지만 그 뒤 공을 던지고 화분을 들고 다니는 동안에도 같은 알림만 되풀이했다. 실외는 나았다. “Amazon이 택배를 배달했다”, “FedEx 밴이 지나갔다”를 정확히 짚었다. 알림은 빠르고 Apple은 여러 스마트홈 업데이트를 알림 하나로 묶어 준다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-            "cap": "MakeBuddy Smart5의 닫힌 유리문을 앞발로 건드리는 고양이"
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
           },
           {
             "t": "p",
-            "x": "외장 안에는 600 mm/s 속도의 CoreXY 시스템이 들어 있고, 출력 공간은 180×180×180 mm다. 기본 구성으로는 PLA와 PETG를 단색으로 출력하며, 다색 출력에는 별매 QIDI Box 애드온이 필요하다. 상자에는 250 g PLA 스풀 네 개와 LED 조명·시계 메이커 키트가 함께 들어 있다."
+            "x": "4K 팬/틸트 카메라 자체는 훌륭하고 Aqara 센서용 허브 역할까지 한다. 다만 Aqara 앱은 최신 기능 쪽에 버그가 많다. Apple Intelligence가 시간이 지나며 나아진다면 $10 구독료도 아깝지 않게 느껴질 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "QIDI's MakeBuddy Smart5 turns\nphone photos into 3D toys",
-          "body": "QIDI's $349 MakeBuddy Smart5 is a family 3D printer with an AI camera and an app that turns snapshots into models.",
-          "mini_headline": "QIDI prints photos as toys",
+          "headline": "Testing Apple Intelligence\non a home security camera",
+          "body": "CNET puts Apple Intelligence's AI video descriptions to the test on the Aqara G350 security camera.",
+          "mini_headline": "Apple AI on a security cam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "Family gathered around a QIDI MakeBuddy Smart5 3D printer on a coffee table"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "Aqara's camera hub sits on a table next to a MacBook."
               },
               {
                 "t": "p",
-                "x": "QIDI’s MakeBuddy Smart5 is a fully enclosed 3D printer built for family rooms instead of workbenches, with an AI camera, automatic bed leveling and an app that turns phone photos into printable models. It sells for $349 and went on sale November 10."
-              },
-              {
-                "t": "p",
-                "x": "The AI Image-to-3D tool takes a photo or a drawing and builds a personalized 3D model from it, so a kid’s sketch of the family dog becomes a figure the printer can actually make, with no modeling software to learn first."
+                "x": "Apple's AI promises video descriptions for security cams, so CNET tested one of the best compatible models, the Aqara G350 Camera Hub ($140), to find out if it's worth it. Apple Intelligence features cost at least $10 for an iCloud Plus 2TB subscription and need an Apple hub."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "Two children holding a printed figure while phone screens show the AI photo-to-3D app"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "The QIDI Joy app pairs a library of ready-to-print models with STEAM courses, and the built-in camera records a timelapse of every print. A closed, flame-retardant chamber keeps hot parts away from small hands, and a G3, H12 HEPA and activated carbon filter stack is rated at capturing 99.5% of particles."
+                "x": "Apple Intelligence video descriptions are very brief and vary in accuracy. Indoors, after a correct “Someone is reading a book,” the AI repeated the same alert while a ball was tossed and a potted plant carried around. Outdoors it did better, accurately announcing “Amazon delivered a package” and “A FedEx van drove by.” Alerts are speedy, and Apple combines multiple smart home updates into single alerts."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "Cat pawing at the closed glass door of a MakeBuddy Smart5"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "Under the shell is a CoreXY system rated at 600 mm/s with a 180 by 180 by 180 mm build volume. It prints PLA and PETG in a single color out of the box; multi-color needs the optional QIDI Box add-on. Four 250 g PLA spools and an LED light and clock maker kit come in the box."
+                "x": "The 4K pan/tilt camera itself is very good and doubles as a hub for Aqara sensors, though Aqara's app is buggy with the newest features. If Apple Intelligence improves over time, that $10 subscription could become more palatable."
               }
             ]
           }
         },
         "ko": {
-          "headline": "QIDI MakeBuddy\nSmart5 사진을 3D로",
-          "body": "QIDI MakeBuddy Smart5는 $349 가족용 AI 3D 프린터다.",
-          "mini_headline": "QIDI, 사진을 장난감으로 출력",
+          "headline": "보안캠서 시험한 Apple\nIntelligence",
+          "body": "CNET이 Aqara G350으로 Apple Intelligence AI를 써봤다.",
+          "mini_headline": "보안캠 속 Apple AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "커피 테이블 위 QIDI MakeBuddy Smart5 3D 프린터 주위에 모인 가족"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "Aqara 카메라 허브가 MacBook 옆 탁자 위에 놓여 있다."
               },
               {
                 "t": "p",
-                "x": "QIDI의 MakeBuddy Smart5는 작업대가 아닌 거실에 놓으려고 만든 완전 밀폐형 3D 프린터다. AI 카메라와 자동 베드 레벨링을 갖췄고, 휴대폰 사진을 출력 가능한 모델로 바꿔 주는 앱도 딸려 있다. 가격은 $349이고 11월 10일 판매를 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "AI Image-to-3D 도구는 사진이나 그림으로 맞춤형 3D 모델을 만든다. 아이가 그린 반려견 스케치도 모델링 소프트웨어를 따로 배우지 않고 바로 프린터로 뽑아 피규어로 만들 수 있다."
+                "x": "Apple의 AI는 보안 카메라 영상을 설명해 주겠다고 내세운다. CNET은 실제로 쓸 만한지 보려고 호환 모델 가운데 손꼽히는 Aqara G350 Camera Hub($140)로 시험했다. Apple Intelligence 기능을 쓰려면 최소 $10짜리 iCloud Plus 2TB 구독과 Apple 허브가 있어야 한다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "휴대폰 화면에 AI photo-to-3D 앱이 떠 있는 가운데 출력된 피규어를 든 두 아이"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "QIDI Joy 앱에는 바로 출력할 수 있는 모델 라이브러리와 STEAM 강좌가 들어 있고, 내장 카메라는 출력 과정을 모두 타임랩스로 남긴다. 닫힌 난연 챔버는 뜨거운 부품에 어린아이 손이 닿지 않게 막는다. G3, H12 HEPA, 활성탄을 겹친 필터 스택은 입자의 99.5%를 걸러낸다."
+                "x": "Apple Intelligence의 영상 설명은 아주 짧고 정확도도 들쭉날쭉하다. 실내에서는 “누군가 책을 읽고 있다”고 제대로 알렸지만 그 뒤 공을 던지고 화분을 들고 다니는 동안에도 같은 알림만 되풀이했다. 실외는 나았다. “Amazon이 택배를 배달했다”, “FedEx 밴이 지나갔다”를 정확히 짚었다. 알림은 빠르고 Apple은 여러 스마트홈 업데이트를 알림 하나로 묶어 준다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "MakeBuddy Smart5의 닫힌 유리문을 앞발로 건드리는 고양이"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "외장 안에는 600 mm/s 속도의 CoreXY 시스템이 들어 있고, 출력 공간은 180×180×180 mm다. 기본 구성으로는 PLA와 PETG를 단색으로 출력하며, 다색 출력에는 별매 QIDI Box 애드온이 필요하다. 상자에는 250 g PLA 스풀 네 개와 LED 조명·시계 메이커 키트가 함께 들어 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "QIDI MakeBuddy\nSmart5、写真を3Dに",
-          "body": "QIDIのMakeBuddy Smart5は$349の家庭用AIカメラ付き3Dプリンターだ。",
-          "mini_headline": "QIDIが写真をおもちゃに",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "コーヒーテーブル上のQIDI MakeBuddy Smart5 3Dプリンターを囲む家族"
-              },
-              {
-                "t": "p",
-                "x": "QIDIのMakeBuddy Smart5は、作業台ではなくリビング向けに作られた完全密閉型3Dプリンターで、AIカメラ、自動ベッドレベリング、スマホの写真を印刷可能なモデルに変えるアプリを備える。価格は$349で、11月10日に発売された。"
-              },
-              {
-                "t": "p",
-                "x": "AI Image-to-3Dツールは写真や絵からパーソナライズされた3Dモデルを生成する。子どもが描いた飼い犬のスケッチも、モデリングソフトを先に覚えることなく、プリンターで実際に作れるフィギュアになる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "スマホ画面にAI photo-to-3Dアプリが映る中、印刷されたフィギュアを持つ二人の子ども"
-              },
-              {
-                "t": "p",
-                "x": "QIDI Joyアプリは、すぐに印刷できるモデルのライブラリとSTEAM講座を組み合わせ、内蔵カメラはすべての印刷をタイムラプスで記録する。密閉された難燃性チャンバーが高温部を小さな手から遠ざけ、G3、H12 HEPA、活性炭を重ねたフィルターは粒子の99.5%を捕集する性能を持つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "MakeBuddy Smart5の閉じたガラス扉を前足でつつく猫"
-              },
-              {
-                "t": "p",
-                "x": "筐体の内部には600 mm/s対応のCoreXYシステムがあり、造形サイズは180×180×180 mmだ。標準ではPLAとPETGを単色で印刷でき、多色印刷にはオプションのQIDI Boxアドオンが必要になる。250 gのPLAスプール四つと、LEDライト・時計のメーカーキットが同梱される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "QIDI MakeBuddy\nSmart5把照片变3D玩具",
-          "body": "QIDI的$349 MakeBuddy Smart5是带AI摄像头和应用的家用3D打印机。",
-          "mini_headline": "QIDI把照片打印成玩具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "一家人围在茶几上的QIDI MakeBuddy Smart5 3D打印机旁"
-              },
-              {
-                "t": "p",
-                "x": "QIDI的MakeBuddy Smart5是一款为家庭客厅而非工作台打造的全封闭3D打印机，配备AI摄像头、自动调平热床，以及能把手机照片转换为可打印模型的应用。售价$349，已于11月10日开售。"
-              },
-              {
-                "t": "p",
-                "x": "AI Image-to-3D工具可以根据照片或画作生成个性化3D模型，因此孩子画的家中小狗草图能变成打印机真正可以做出来的手办，无需先学建模软件。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "两个孩子拿着打印好的手办，手机屏幕上显示AI photo-to-3D应用"
-              },
-              {
-                "t": "p",
-                "x": "QIDI Joy应用将现成可打印的模型库与STEAM课程结合，内置摄像头会为每次打印录制延时视频。封闭的阻燃腔体让高温部件远离小手，由G3、H12 HEPA和活性炭组成的过滤层可捕获99.5%的颗粒物。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "一只猫用爪子拍打MakeBuddy Smart5关着的玻璃门"
-              },
-              {
-                "t": "p",
-                "x": "外壳之下是一套速度达600 mm/s的CoreXY系统，成型尺寸为180×180×180 mm。出厂即可单色打印PLA和PETG；多色打印需要选配QIDI Box扩展。包装内附四卷250 g PLA耗材，以及一套LED灯和时钟制作套件。"
+                "x": "4K 팬/틸트 카메라 자체는 훌륭하고 Aqara 센서용 허브 역할까지 한다. 다만 Aqara 앱은 최신 기능 쪽에 버그가 많다. Apple Intelligence가 시간이 지나며 나아진다면 $10 구독료도 아깝지 않게 느껴질 수 있다."
               }
             ]
           }
         },
         "es": {
-          "headline": "La MakeBuddy Smart5 de QIDI\nconvierte fotos en juguetes 3D",
-          "body": "La MakeBuddy Smart5 de QIDI, de $349, es una impresora 3D familiar con cámara AI y una app que pasa fotos a modelos.",
-          "mini_headline": "QIDI imprime fotos como juguetes",
+          "headline": "Apple Intelligence a prueba\nen una cámara de seguridad",
+          "body": "CNET pone a prueba las descripciones de vídeo con AI de Apple Intelligence en la cámara de seguridad Aqara G350.",
+          "mini_headline": "Apple AI en una cámara de seguridad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "Una familia reunida alrededor de una impresora 3D QIDI MakeBuddy Smart5 sobre una mesa de centro"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "El hub de cámara de Aqara sobre una mesa junto a un MacBook."
               },
               {
                 "t": "p",
-                "x": "La MakeBuddy Smart5 de QIDI es una impresora 3D totalmente cerrada pensada para la sala de estar y no para el banco de trabajo, con cámara AI, nivelación automática de la cama y una app que convierte fotos del teléfono en modelos imprimibles. Cuesta $349 y salió a la venta el 10 de noviembre."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta AI Image-to-3D toma una foto o un dibujo y crea a partir de ellos un modelo 3D personalizado, de modo que el boceto que un niño hace del perro de la familia se convierte en una figura que la impresora puede fabricar de verdad, sin tener que aprender antes un software de modelado."
+                "x": "La AI de Apple promete descripciones de vídeo para cámaras de seguridad, así que CNET probó uno de los mejores modelos compatibles, el Aqara G350 Camera Hub ($140), para saber si vale la pena. Las funciones de Apple Intelligence cuestan al menos $10 por una suscripción a iCloud Plus de 2TB y requieren un hub de Apple."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "Dos niños sostienen una figura impresa mientras las pantallas de los teléfonos muestran la app AI photo-to-3D"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "La app QIDI Joy combina una biblioteca de modelos listos para imprimir con cursos STEAM, y la cámara integrada graba un timelapse de cada impresión. Una cámara cerrada e ignífuga mantiene las piezas calientes lejos de las manos pequeñas, y un conjunto de filtros G3, H12 HEPA y carbón activado está clasificado para capturar el 99.5% de las partículas."
+                "x": "Las descripciones de vídeo de Apple Intelligence son muy breves y su precisión varía. En interiores, tras un acertado “Alguien está leyendo un libro”, la AI repitió el mismo aviso mientras se lanzaba una pelota y se llevaba una maceta de un lado a otro. En exteriores funcionó mejor y anunció con precisión “Amazon entregó un paquete” y “Pasó una furgoneta de FedEx”. Los avisos son rápidos, y Apple agrupa varias actualizaciones del hogar inteligente en un solo aviso."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "Un gato toca con la pata la puerta de cristal cerrada de una MakeBuddy Smart5"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "Bajo la carcasa hay un sistema CoreXY de hasta 600 mm/s con un volumen de impresión de 180 por 180 por 180 mm. De serie imprime PLA y PETG en un solo color; para varios colores hace falta el complemento opcional QIDI Box. En la caja vienen cuatro bobinas de PLA de 250 g y un kit maker de luz LED y reloj."
+                "x": "La cámara 4K con giro e inclinación es muy buena y sirve también de hub para los sensores de Aqara, aunque la app de Aqara falla con las funciones más recientes. Si Apple Intelligence mejora con el tiempo, esa suscripción de $10 podría resultar más aceptable."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "家庭用防犯カメラで\nApple AIを試す",
+          "body": "CNETがAqara G350でApple IntelligenceのAI映像説明を試した。",
+          "mini_headline": "防犯カメラでApple AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "AqaraのカメラハブがMacBookの隣のテーブルに置かれている。"
+              },
+              {
+                "t": "p",
+                "x": "AppleのAIは防犯カメラ向けの映像説明をうたう。そこでCNETは対応機種の中でも特に優れたモデルの一つ、Aqara G350 Camera Hub（$140 ）を試し、その価値があるかを確かめた。Apple Intelligenceの機能には最低でも$10 のiCloud Plus 2TB プランの契約と、Appleのハブが必要だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "Apple Intelligenceの映像説明はごく短く、精度にもばらつきがある。屋内では「Someone is reading a book（誰かが本を読んでいる）」と正しく伝えた後、ボールを投げたり鉢植えを持ち運んだりしても同じ通知を繰り返した。屋外ではより良く、「Amazon delivered a package（Amazonが荷物を配達した）」「A FedEx van drove by（FedExのバンが通り過ぎた）」と正確に知らせた。通知は速く、Appleは複数のスマートホームの更新を一つの通知にまとめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "パン・チルト（pan/tilt）対応の4K カメラ自体は非常に優秀で、Aqaraセンサーのハブも兼ねる。ただしAqaraのアプリは最新機能まわりで不具合が目立つ。Apple Intelligenceが今後改善されれば、その$10 のサブスクリプションも受け入れやすくなるかもしれない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "在家用安防摄像头上\n实测Apple AI",
+          "body": "CNET用Aqara G350实测Apple Intelligence的AI视频描述。",
+          "mini_headline": "安防摄像头上的Apple AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "Aqara的摄像头中枢放在桌上，旁边是一台MacBook。"
+              },
+              {
+                "t": "p",
+                "x": "Apple的AI承诺为安防摄像头提供视频描述，于是CNET测试了兼容机型中最出色的型号之一 Aqara G350 Camera Hub（$140 ），看看是否值得。Apple Intelligence功能至少需要订阅$10 的iCloud Plus 2TB 套餐，并且需要一台Apple中枢设备。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "Apple Intelligence的视频描述非常简短，准确度参差不齐。在室内，它先正确提示“Someone is reading a book”（有人在看书），随后在有人抛球、搬动盆栽时却重复了同一条提醒。在室外表现更好，准确播报了“Amazon delivered a package”（Amazon送达了一个包裹）和“A FedEx van drove by”（一辆FedEx货车驶过）。提醒推送迅速，Apple还会把多条智能家居更新合并成一条提醒。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "这款支持云台转动（pan/tilt）的4K 摄像头本身非常出色，还可兼作Aqara传感器的中枢，不过Aqara的应用在最新功能上问题较多。如果Apple Intelligence日后有所改进，这笔$10 的订阅费或许会更容易让人接受。"
               }
             ]
           }
@@ -1797,165 +1671,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "QIDI MakeBuddy\nSmart5 사진을 3D로",
-          "body": "QIDI MakeBuddy Smart5는 $349 가족용 AI 3D 프린터다.",
-          "mini_headline": "QIDI, 사진을 장난감으로 출력",
+          "headline": "보안캠서 시험한 Apple\nIntelligence",
+          "body": "CNET이 Apple Intelligence AI를 Aqara G350으로 써봤다.",
+          "mini_headline": "보안캠 속 Apple AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "커피 테이블 위 QIDI MakeBuddy Smart5 3D 프린터 주위에 모인 가족"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "Aqara 카메라 허브가 MacBook 옆 탁자 위에 놓여 있다."
               },
               {
                 "t": "p",
-                "x": "QIDI의 MakeBuddy Smart5는 작업대가 아닌 거실을 위해 만든 완전 밀폐형 3D 프린터로, AI 카메라와 자동 베드 레벨링, 휴대폰 사진을 출력 가능한 모델로 바꿔 주는 앱을 갖췄다. 가격은 $349이며 11월 10일 판매를 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "AI Image-to-3D 도구는 사진이나 그림을 받아 맞춤형 3D 모델을 만든다. 덕분에 아이가 그린 반려견 스케치가 모델링 소프트웨어를 먼저 배울 필요 없이 프린터로 실제 출력할 수 있는 피규어가 된다."
+                "x": "Apple의 AI는 보안 카메라 영상 설명을 약속한다. 그래서 CNET은 이것이 쓸 만한지 알아보려고 가장 뛰어난 호환 모델 중 하나인 Aqara G350 Camera Hub($140)를 시험했다. Apple Intelligence 기능을 쓰려면 최소 $10의 iCloud Plus 2TB 구독과 Apple 허브가 필요하다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "휴대폰 화면에 AI photo-to-3D 앱이 떠 있는 가운데 출력된 피규어를 든 두 아이"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "QIDI Joy 앱은 바로 출력할 수 있는 모델 라이브러리와 STEAM 강좌를 함께 제공하고, 내장 카메라는 모든 출력 과정을 타임랩스로 기록한다. 닫힌 난연 챔버가 뜨거운 부품을 어린아이 손에서 떼어 놓고, G3, H12 HEPA, 활성탄으로 이뤄진 필터 스택은 입자의 99.5%를 걸러내는 성능을 갖췄다."
+                "x": "Apple Intelligence의 영상 설명은 매우 짧고 정확도도 들쭉날쭉하다. 실내에서는 “누군가 책을 읽고 있다”고 맞게 알린 뒤, 공을 던지고 화분을 들고 다니는 동안에도 같은 알림을 반복했다. 실외에서는 더 나았다. “Amazon이 택배를 배달했다”, “FedEx 밴이 지나갔다”를 정확히 알렸다. 알림은 빠르고, Apple은 여러 스마트홈 업데이트를 하나의 알림으로 묶는다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "MakeBuddy Smart5의 닫힌 유리문을 앞발로 건드리는 고양이"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "외장 안쪽에는 600 mm/s 성능의 CoreXY 시스템이 있고, 출력 공간은 180×180×180 mm다. 기본 상태로는 PLA와 PETG를 단색으로 출력하며, 다색 출력에는 별매 QIDI Box 애드온이 필요하다. 250 g PLA 스풀 네 개와 LED 조명·시계 메이커 키트가 함께 들어 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "QIDI MakeBuddy\nSmart5、写真を3Dに",
-          "body": "QIDIのMakeBuddy Smart5は$349の家庭用AIカメラ付き3Dプリンターだ。",
-          "mini_headline": "QIDIが写真をおもちゃに",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "コーヒーテーブル上のQIDI MakeBuddy Smart5 3Dプリンターを囲む家族"
-              },
-              {
-                "t": "p",
-                "x": "QIDIのMakeBuddy Smart5は、作業台ではなくリビング向けに作られた完全密閉型3Dプリンターで、AIカメラ、自動ベッドレベリング、スマホの写真を印刷可能なモデルに変えるアプリを備える。価格は$349で、11月10日に発売された。"
-              },
-              {
-                "t": "p",
-                "x": "AI Image-to-3Dツールは写真や絵からパーソナライズされた3Dモデルを生成する。子どもが描いた飼い犬のスケッチも、モデリングソフトを先に覚えることなく、プリンターで実際に作れるフィギュアになる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "スマホ画面にAI photo-to-3Dアプリが映る中、印刷されたフィギュアを持つ二人の子ども"
-              },
-              {
-                "t": "p",
-                "x": "QIDI Joyアプリは、すぐに印刷できるモデルのライブラリとSTEAM講座を組み合わせ、内蔵カメラはすべての印刷をタイムラプスで記録する。密閉された難燃性チャンバーが高温部を小さな手から遠ざけ、G3、H12 HEPA、活性炭を重ねたフィルターは粒子の99.5%を捕集する性能を持つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "MakeBuddy Smart5の閉じたガラス扉を前足でつつく猫"
-              },
-              {
-                "t": "p",
-                "x": "筐体の内部には600 mm/s対応のCoreXYシステムがあり、造形サイズは180×180×180 mmだ。標準ではPLAとPETGを単色で印刷でき、多色印刷にはオプションのQIDI Boxアドオンが必要になる。250 gのPLAスプール四つと、LEDライト・時計のメーカーキットが同梱される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "QIDI MakeBuddy\nSmart5把照片变3D玩具",
-          "body": "QIDI的$349 MakeBuddy Smart5是带AI摄像头和应用的家用3D打印机。",
-          "mini_headline": "QIDI把照片打印成玩具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "一家人围在茶几上的QIDI MakeBuddy Smart5 3D打印机旁"
-              },
-              {
-                "t": "p",
-                "x": "QIDI的MakeBuddy Smart5是一款为家庭客厅而非工作台打造的全封闭3D打印机，配备AI摄像头、自动调平热床，以及能把手机照片转换为可打印模型的应用。售价$349，已于11月10日开售。"
-              },
-              {
-                "t": "p",
-                "x": "AI Image-to-3D工具可以根据照片或画作生成个性化3D模型，因此孩子画的家中小狗草图能变成打印机真正可以做出来的手办，无需先学建模软件。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "两个孩子拿着打印好的手办，手机屏幕上显示AI photo-to-3D应用"
-              },
-              {
-                "t": "p",
-                "x": "QIDI Joy应用将现成可打印的模型库与STEAM课程结合，内置摄像头会为每次打印录制延时视频。封闭的阻燃腔体让高温部件远离小手，由G3、H12 HEPA和活性炭组成的过滤层可捕获99.5%的颗粒物。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "一只猫用爪子拍打MakeBuddy Smart5关着的玻璃门"
-              },
-              {
-                "t": "p",
-                "x": "外壳之下是一套速度达600 mm/s的CoreXY系统，成型尺寸为180×180×180 mm。出厂即可单色打印PLA和PETG；多色打印需要选配QIDI Box扩展。包装内附四卷250 g PLA耗材，以及一套LED灯和时钟制作套件。"
+                "x": "4K 팬/틸트 카메라 자체는 매우 훌륭하고 Aqara 센서용 허브 역할도 하지만, Aqara 앱은 최신 기능에서 버그가 많다. Apple Intelligence가 시간이 지나며 나아진다면 $10 구독도 더 받아들일 만해질 수 있다."
               }
             ]
           }
         },
         "es": {
-          "headline": "La MakeBuddy Smart5 de QIDI\nconvierte fotos en juguetes 3D",
-          "body": "La MakeBuddy Smart5 de QIDI, de $349, es una impresora 3D familiar con cámara AI y una app que pasa fotos a modelos.",
-          "mini_headline": "QIDI imprime fotos como juguetes",
+          "headline": "Apple Intelligence a prueba\nen una cámara de seguridad",
+          "body": "CNET pone a prueba las descripciones de vídeo con AI de Apple Intelligence en la cámara de seguridad Aqara G350.",
+          "mini_headline": "Apple AI en una cámara de seguridad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-hero.jpg",
-                "cap": "Una familia reunida alrededor de una impresora 3D QIDI MakeBuddy Smart5 sobre una mesa de centro"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "El hub de cámara de Aqara sobre una mesa junto a un MacBook."
               },
               {
                 "t": "p",
-                "x": "La MakeBuddy Smart5 de QIDI es una impresora 3D totalmente cerrada pensada para la sala de estar y no para el banco de trabajo, con cámara AI, nivelación automática de la cama y una app que convierte fotos del teléfono en modelos imprimibles. Cuesta $349 y salió a la venta el 10 de noviembre."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta AI Image-to-3D toma una foto o un dibujo y crea a partir de ellos un modelo 3D personalizado, de modo que el boceto que un niño hace del perro de la familia se convierte en una figura que la impresora puede fabricar de verdad, sin tener que aprender antes un software de modelado."
+                "x": "La AI de Apple promete descripciones de vídeo para cámaras de seguridad, así que CNET probó uno de los mejores modelos compatibles, el Aqara G350 Camera Hub ($140), para saber si vale la pena. Las funciones de Apple Intelligence cuestan al menos $10 por una suscripción a iCloud Plus de 2TB y requieren un hub de Apple."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-ai.jpg",
-                "cap": "Dos niños sostienen una figura impresa mientras las pantallas de los teléfonos muestran la app AI photo-to-3D"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "La app QIDI Joy combina una biblioteca de modelos listos para imprimir con cursos STEAM, y la cámara integrada graba un timelapse de cada impresión. Una cámara cerrada e ignífuga mantiene las piezas calientes lejos de las manos pequeñas, y un conjunto de filtros G3, H12 HEPA y carbón activado está clasificado para capturar el 99.5% de las partículas."
+                "x": "Las descripciones de vídeo de Apple Intelligence son muy breves y su precisión varía. En interiores, tras un acertado “Alguien está leyendo un libro”, la AI repitió el mismo aviso mientras se lanzaba una pelota y se llevaba una maceta de un lado a otro. En exteriores funcionó mejor y anunció con precisión “Amazon entregó un paquete” y “Pasó una furgoneta de FedEx”. Los avisos son rápidos, y Apple agrupa varias actualizaciones del hogar inteligente en un solo aviso."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/qidi-smart5-body-enclosed.jpg",
-                "cap": "Un gato toca con la pata la puerta de cristal cerrada de una MakeBuddy Smart5"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
               },
               {
                 "t": "p",
-                "x": "Bajo la carcasa hay un sistema CoreXY de hasta 600 mm/s con un volumen de impresión de 180 por 180 por 180 mm. De serie imprime PLA y PETG en un solo color; para varios colores hace falta el complemento opcional QIDI Box. En la caja vienen cuatro bobinas de PLA de 250 g y un kit maker de luz LED y reloj."
+                "x": "La cámara 4K con giro e inclinación es muy buena y sirve también de hub para los sensores de Aqara, aunque la app de Aqara falla con las funciones más recientes. Si Apple Intelligence mejora con el tiempo, esa suscripción de $10 podría resultar más aceptable."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "家庭用防犯カメラで\nApple AIを試す",
+          "body": "CNETがAqara G350でApple IntelligenceのAI映像説明を試した。",
+          "mini_headline": "防犯カメラでApple AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "AqaraのカメラハブがMacBookの隣のテーブルに置かれている。"
+              },
+              {
+                "t": "p",
+                "x": "AppleのAIは防犯カメラ向けの映像説明をうたう。そこでCNETは対応機種の中でも特に優れたモデルの一つ、Aqara G350 Camera Hub（$140 ）を試し、その価値があるかを確かめた。Apple Intelligenceの機能には最低でも$10 のiCloud Plus 2TB プランの契約と、Appleのハブが必要だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "Apple Intelligenceの映像説明はごく短く、精度にもばらつきがある。屋内では「Someone is reading a book（誰かが本を読んでいる）」と正しく伝えた後、ボールを投げたり鉢植えを持ち運んだりしても同じ通知を繰り返した。屋外ではより良く、「Amazon delivered a package（Amazonが荷物を配達した）」「A FedEx van drove by（FedExのバンが通り過ぎた）」と正確に知らせた。通知は速く、Appleは複数のスマートホームの更新を一つの通知にまとめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "パン・チルト（pan/tilt）対応の4K カメラ自体は非常に優秀で、Aqaraセンサーのハブも兼ねる。ただしAqaraのアプリは最新機能まわりで不具合が目立つ。Apple Intelligenceが今後改善されれば、その$10 のサブスクリプションも受け入れやすくなるかもしれない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "在家用安防摄像头上\n实测Apple AI",
+          "body": "CNET用Aqara G350实测Apple Intelligence的AI视频描述。",
+          "mini_headline": "安防摄像头上的Apple AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/image-28-2.png",
+                "cap": "Aqara的摄像头中枢放在桌上，旁边是一台MacBook。"
+              },
+              {
+                "t": "p",
+                "x": "Apple的AI承诺为安防摄像头提供视频描述，于是CNET测试了兼容机型中最出色的型号之一 Aqara G350 Camera Hub（$140 ），看看是否值得。Apple Intelligence功能至少需要订阅$10 的iCloud Plus 2TB 套餐，并且需要一台Apple中枢设备。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Apple-Intelligence-Settings.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "Apple Intelligence的视频描述非常简短，准确度参差不齐。在室内，它先正确提示“Someone is reading a book”（有人在看书），随后在有人抛球、搬动盆栽时却重复了同一条提醒。在室外表现更好，准确播报了“Amazon delivered a package”（Amazon送达了一个包裹）和“A FedEx van drove by”（一辆FedEx货车驶过）。提醒推送迅速，Apple还会把多条智能家居更新合并成一条提醒。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Intelligence-Notifcation-Amazon-Package.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "这款支持云台转动（pan/tilt）的4K 摄像头本身非常出色，还可兼作Aqara传感器的中枢，不过Aqara的应用在最新功能上问题较多。如果Apple Intelligence日后有所改进，这笔$10 的订阅费或许会更容易让人接受。"
               }
             ]
           }

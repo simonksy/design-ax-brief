@@ -10721,6 +10721,129 @@
           "x": "「これが新しい音楽業界なのだから、来年もある」とJamesは観客に語った。"
         }
       ]
+    },
+    "music/spotify-artist-profile-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "AI-generatedの粗製コンテンツが音楽配信プラットフォームにあふれ続けるなか、Spotifyは「Artist Profile Protection」ツールを全アーティストに展開し、自分の名義で表示される音楽を管理できるようにする。正式提供は、同社が一部のアーティストとこの機能のベータテストを始めてから八カ月後となる。"
+        },
+        {
+          "t": "p",
+          "x": "Billboardは先月、Sony Musicがデジタルプラットフォームに対し260,000曲を超えるディープフェイク楽曲の削除を要請したと報じた。同レーベルが3月に公表した数のほぼ倍にあたる。"
+        },
+        {
+          "t": "p",
+          "x": "アーティストはSpotify for Artistsでこの機能を有効にすると、自分の名義で新しい音楽が提出された際に通知を受け取れる。自分のものでないリリースなら関連付けを外し、プロフィールに表示されないようにできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+          "cap": "Image Credits: Spotify"
+        },
+        {
+          "t": "p",
+          "x": "初期設定では、アーティストが介入しない限りリリースは予定どおり公開される。詳細設定を使えば、プロフィールに表示される前にアーティストが手動で承認または却下する必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "「アーティストが自分の名義で他人の音楽を見つけるようなことは、決してあってはならない」と、SpotifyのGlobal Head of Marketing and Policyを務めるSam Duboffは語る。「当社は、業界全体に及ぶコンテンツの不一致という問題に解決策を持つ、最初で唯一のストリーミングサービスだ」。Spotifyによると、ベータ期間中に数千人のアーティストと協力してツールを改良したという。"
+        }
+      ]
+    },
+    "music/deezer-ipsos-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+          "cap": "Deezer AI音楽レポート 2026"
+        },
+        {
+          "t": "p",
+          "x": "Deezerは、AI-generated音楽に対する意識調査の第二回年次版を公表した。Ipsosに委託し、US、カナダ、ブラジル、UK、フランス、オランダ、ドイツ、日本の9,000人を調べた。"
+        },
+        {
+          "t": "p",
+          "x": "Deezerのプレスリリースには統計や前年比較が大量に並ぶが、最も興味深い傾向はMusic Allyが目にした報告書本体にしか載っていない。それはAI-generated音楽が人気を得るかどうかという認識に関するもので、報告書はfully-AI音楽が人気になるとの見方が縮小していることを示している。"
+        }
+      ]
+    },
+    "music/youtube-content-mill-claim": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "darmHfFNOKM"
+        },
+        {
+          "t": "p",
+          "x": "パンデミック中、作家でミュージシャンのSamantha Shokinは、パブリックドメインのブルガリア民謡「Bre Petrunko」を50秒のバージョンで録音した。二年後にYouTubeへ投稿すると、四年間で125,000回再生された。ところが先月、動画は消えた。Media Nov Recordsという会社が著作権侵害の警告を出し、YouTubeが削除していたのだ。"
+        },
+        {
+          "t": "p",
+          "x": "Shokinは二度の異議申し立てを行ったが、いずれも通らなかった。「人間なら誰でも、ここには明らかに間違っていて正すべき点があると同意するはずなのに、人間と連絡が取れない」と彼女は語った。"
+        },
+        {
+          "t": "p",
+          "x": "Media Novのサイトは、自動化されたDMCA削除申請、YouTube content IDの管理、AI-poweredのコンテンツ認識をうたっていた。アイルランドで提出された登記書類によると、同社の設立は一年余り前だ。同社は404 Mediaに対し500のチャンネルを運営していると説明しており、その多くはAI-generatedのアート素材とループする電子ビートで埋め尽くされている。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+          "cap": "Media Nov RecordsのYouTubeページの一つ"
+        },
+        {
+          "t": "p",
+          "x": "404 Mediaがコメントを求めた後、Media Nov Recordsは著作権に基づく削除要請を取り下げたが、法的手続きを始める意向も示した。約24時間後、Shokinの元の動画は復活した。YouTubeは、申立人が取り下げた後に動画を復元したと認めた。「システム全体が壊れている」とShokinは言う。"
+        }
+      ]
+    },
+    "music/suno-v6-discovery-fight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Universal Music GroupとSony Music Entertainmentは、AI音楽企業Sunoに対する二件目の著作権訴訟を全面的に保留しようとするSunoの動きに反対している。レーベル側は金曜日(11月13日)にボストン連邦地裁へ提出した書面で、全面停止となれば審理が2028年まで凍結されかねず、9月に公開されたv6を含むSunoの2025年・2026年モデルが「少なくとも2028年まで、どこでも検証されない」ことになると主張した。"
+        },
+        {
+          "t": "p",
+          "x": "Sunoは10月30日、F. Dennis Saylor IV判事に対し、2024年6月に起こされたレーベル側の一件目の訴訟でサマリージャッジメントの判断が出るまで、二件目の審理を停止するよう求めた。一件目の訴訟でのSunoの主な抗弁はフェアユースだ。二件目の訴訟は、SunoがAIモデルの学習のためにレーベルの録音60,202件を無許諾で複製したと訴えている。"
+        },
+        {
+          "t": "p",
+          "x": "レーベル側は「部分的停止」を提案する。60,000件超の録音の権利立証は先送りしつつ、v6の学習方法、学習データのライセンス取得の取り組み、新規事業と資金調達、最近の財務状況など、Sunoの後続モデルに関する証拠収集は今すぐ進めるべきだという。また、Sunoのデータスクレイピングと学習データ取得を担当していたエンジニアが退社したことも指摘している。"
+        },
+        {
+          "t": "p",
+          "x": "「遅延は記録の構築を先送りするだけでなく、記録そのものを劣化させる」とUniversalとSonyは記している。"
+        }
+      ]
+    },
+    "music/aria-ppca-notaistotake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+        },
+        {
+          "t": "p",
+          "x": "オーストラリアの音楽・メディア・クリエイティブ産業は、人工知能(AI)システムの学習にオーストラリアの創作物が無断で使われないよう、著作権保護の強化を連邦政府に求めている。第40回ARIA Awardsを前に11月17日に始まったNot AI’s to Takeキャンペーンは、Australian Recording Industry Association(ARIA)とPhonographic Performance Company of Australia(PPCA)が主導する。"
+        },
+        {
+          "t": "p",
+          "x": "2026年7月、Anthony Albanese首相は、いかなる企業も創作者の管理なしにその作品でAIを学習させるべきではないと述べ、「それに満たないものは窃盗だ」と付け加えた。政府は広範なテキスト・データマイニング例外をすでに否定しているが、ライセンスと執行をめぐる議論は続いている。"
+        },
+        {
+          "t": "p",
+          "x": "ARIAとPPCAは、opt-out方式に傾けば既存の著作権保護が損なわれ、責任が個々のアーティストに押し付けられると懸念する。キャンペーンはその代わりに、AI企業が素材を使う前に著作権者の同意を得て条件を交渉することを求める「許諾優先」の方式を訴えている。"
+        },
+        {
+          "t": "p",
+          "x": "オーストラリアの創造・メディア産業は年間$70.3 billion を国の経済にもたらし、600,000人近い雇用を支えている。キャンペーンは市民に、請願への署名、地元の連邦議員(MP)への手紙、nottheirstotake.com.auでのキャンペーン資料の共有を呼びかけている。"
+        }
+      ]
     }
   }
 }

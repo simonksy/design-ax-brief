@@ -11597,6 +11597,108 @@
           "x": "Limitations remain: third-party models on Runway apply their own moderation, LLMs still make mistakes, and missing context means a valid use case is sometimes blocked. Users can flag wrong decisions with the “Send Feedback” button on the error message."
         }
       ]
+    },
+    "movies/movies-ayer-acme-greybox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
+        },
+        {
+          "t": "p",
+          "x": "David Ayer is joining ACME AI as a principal and managing partner, and will be involved in the operations of the firm. Founded by former Relativity Media co-founder Ryan Kavanaugh, ACME and its “Grey Box” tech allows directors and actors to shoot full-fledged scenes in far-flung locales without going anywhere."
+        },
+        {
+          "t": "p",
+          "x": "The tech is known as performance transfer: it keeps above-the-line work intact while radically reducing the need for, and expense of, much of the below-the-line kind — essentially a digital green screen, but for everything. Critics say it risks losing the magic of physical locations and hurts the livelihoods of on-set workers."
+        },
+        {
+          "t": "p",
+          "x": "“As a storyteller half my job is litigating over budget,” Ayer says. “This pulls so many stories within striking distance.” ACME believes its tech can reduce time and money at a rate of between 50 and 75 percent. It mapped many lenses and lighting packages for greater photorealism, combined with models that re-create the physical world. Grey Box currently exists in Los Angeles on a dedicated stage, and the company will rent the tech out to studios."
+        },
+        {
+          "t": "p",
+          "x": "Doug Liman recently completed shooting the crypto drama Bitcoin starring Casey Affleck using ACME’s Grey Box. Ayer says he has multiple projects in development that can be redirected to the Grey Box."
+        }
+      ]
+    },
+    "movies/movies-adobe-live-set-sneak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+          "cap": "Courtesy of Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Adobe is showing off a new feature that lets creators modify an existing video with AI-generated effects — virtually as it’s playing. At the Adobe MAX 2026 conference’s Sneaks panel, the company will preview Project Live Set: video editors can change a subject, transform an environment, introduce a reference character or redirect the camera as a scene continues, and see the results in real time."
+        },
+        {
+          "t": "p",
+          "x": "Project Live Set is an early research preview, and Adobe isn’t sharing details about the underlying models, said Gautham Mysore, leader of Adobe’s video and audio research group. “Project Live Set will allow creators and filmmakers to generate and edit video at the speed of thought,” he said. “Today, a large part of the video creation process is waiting. This breaks creative flow.”"
+        },
+        {
+          "t": "p",
+          "x": "The demo transforms a video of a black cat with four prompts simultaneously — from “add a chef’s hat on the cat” to “swap the cat with a puppy wearing a tuxedo.” Hosted by Terry Crews on Nov. 11, this year’s Sneaks session previews 10 innovations; they are research previews rather than commitments to future product features."
+        }
+      ]
+    },
+    "movies/movies-kocca-ai-showcase-64": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+          "cap": "Exhibition booths at ‘AI CREATOR SHOWCASE 2026’ (Photo: KOCCA)"
+        },
+        {
+          "t": "p",
+          "x": "64 creative projects using artificial intelligence (AI), including films, animation and virtual reality (VR) and extended reality (XR) content, were unveiled. The Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency said on the 17th that a total of 2,354 people visited ‘AI Creator Showcase 2026’ over 3 days, held from the 12th to the 14th at The Plats Hall in COEX and Megabox COEX in Seoul."
+        },
+        {
+          "t": "p",
+          "x": "The exhibition presented 9 projects from the 3rd cohort of the New Content Academy and 55 projects from the AI-specialized content professional training program. Seoul National University’s Institute of Culture and Arts, KAIST and the Korea National University of Arts industry-academic cooperation foundation took part in the training program."
+        },
+        {
+          "t": "p",
+          "x": "At a joint symposium, Professor Lee Seung-moo of the Korea National University of Arts and director Kim Tae-yeop of the drama ‘Lovely Runner’ shared their experience of using AI technology in the actual creative process, drawing on a planning and development case carried out over 6 months. At the awards ceremony before the screening on the 13th, 14 outstanding works received prizes."
+        },
+        {
+          "t": "p",
+          "x": "Kim Yun-ji, president of the Korea Creative Content Agency, said, “Generative AI is rapidly changing the entire content industry, but the core of competitiveness lies with people who understand the technology and can turn it into content.”"
+        }
+      ]
+    },
+    "movies/movies-transn-ai-microdrama-dub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
+        },
+        {
+          "t": "p",
+          "x": "Chinese LSI Transn has dubbed more than 20,000 microdramas using AI with human review, cutting production time to days. As dubbing revenue grows, the company faces pressure from falling prices."
+        }
+      ]
+    },
+    "movies/equity-pact-ai-offer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Nearly three years after they first sat down, British actors union Equity is taking a final offer from producer trade body Pact to its 8,000-strong actor member base with a recommendation to vote “yes.” The deal covers the majority of British shows and movies from January 1 2027 through December 31 2029, but it is artificial intelligence that has delayed things time and time again."
+        },
+        {
+          "t": "p",
+          "x": "Equity said the AI element is “significantly improved” and four-pronged: protections for the creation and use of digital replicas, for digital alterations of a performance, against “Synthetics,” and obligations around AI training licensing. Actors will “have the right to be paid when your digital replica is used” and to consent to its use, and a producer “cannot obtain blanket consent” — only for specific projects. Equity failed to win protections for “digital replica deletion” or customary CGI/VFX scanning."
+        },
+        {
+          "t": "p",
+          "x": "The deal also includes a 24% rise in pay rates on movies budgeted over £50M ($66M), a 3 percentage point uplift to streaming platform use fees, and a 72-hour notice period for self-tapes. General Secretary Paul W Fleming: “We’ve achieved the best AI provisions in the business.”"
+        }
+      ]
     }
   }
 }

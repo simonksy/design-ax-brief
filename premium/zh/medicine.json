@@ -4681,6 +4681,121 @@
           "x": "该公司还以相关不当得利返还诉讼一审中乌山市法院和蔚山地方法院驳回原告请求为依据，要求保健福祉部将告示中的使用方法调整为与食品药品安全处许可事项一致。VitalCare在经历新医疗技术评估暂缓期后，目前正在接受正式评估。"
         }
       ]
+    },
+    "medicine/med-jama-llm-discharge-summaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "出院小结对医疗连续性至关重要,但碎片化的电子健康记录(EHR)数据可能损害其质量与安全性。在这项采用预设非劣效框架的回顾性比较效果研究中,执业医生将伦敦5家医院的入院记录(2022年9月1日至2023年9月30日)与完整入院记录对照进行评估。"
+        },
+        {
+          "t": "p",
+          "x": "LLM-generated小结使用GPT-4o mini(2024年7月18日版本;OpenAI)和临床医生参与共同设计的提示词生成。主要结局为临床医生在无修改或仅轻微修改的情况下签字认可,非劣效界值为5个百分点。"
+        },
+        {
+          "t": "p",
+          "x": "样本包括1294份出院小结(649份由临床医生撰写,645份为LLM-generated),由12名执业医生评估。无修改或轻微修改即获认可的概率差(LLM生成减去临床医生撰写)为22.2个百分点(95% CI,19.0-27.5),证明了非劣效性。LLM-generated小结在准确性、完整性、语气和清晰度上评分更高,潜在危害评分为3或以上的比例更低(26.2%和26.8% vs 45.1%和51.5%)。"
+        },
+        {
+          "t": "p",
+          "x": "LLM-generated出院小结达到了当前医疗标准,在临床医生密切监督下,是生成式人工智能在医疗领域一个前景可观的早期应用案例。"
+        }
+      ]
+    },
+    "medicine/med-retina-pe-preeclampsia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+          "cap": "图文摘要"
+        },
+        {
+          "t": "p",
+          "x": "子痫前期(PE)会导致孕产妇及围产期的发病和死亡,但无创筛查手段仍然有限。研究团队开发了Retina-PE,这是一种整合视网膜照片、孕产妇临床因素和平均动脉压来预测后续PE的多模态深度学习模型。研究使用前瞻性收集的8616名孕妇多中心数据进行回顾性模型开发与评估。"
+        },
+        {
+          "t": "p",
+          "x": "开发数据集(Development-dataset)图像层面的受试者工作特征曲线下面积(AUCs)为:24–28周和28–32周PE发生分别为0.853和0.708,1周和4周早产PE分别为0.871和0.791,1周和4周早发型PE分别为0.979和0.862。对应的外部验证数据集AUCs分别为0.728和0.815、0.801和0.801、0.776和0.766。"
+        },
+        {
+          "t": "p",
+          "x": "增量性能因任务而异。患者层面分析显示出相似模式,但部分任务中事件数较少。这些发现支持对视网膜成像用于孕产妇风险分层开展前瞻性评估。"
+        }
+      ]
+    },
+    "medicine/med-hopkins-sumi-pcct-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "11月29日(周日)| 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
+        },
+        {
+          "t": "p",
+          "x": "一个名为SUMI的深度学习模型在“将[光子计数CT]PCCT的图像质量优势提炼到常规胸部CT中”方面显示出潜力。"
+        },
+        {
+          "t": "p",
+          "x": "光子计数CT(Photon-counting CT,PCCT)比传统能量积分CT(EICT)空间分辨率更高、噪声更低,但PCCT扫描仪未必能用于常规检查,巴尔的摩Johns Hopkins University的报告人Chuntung Zhuang及其同事指出。为解决这一问题,团队构建了一个无需配对采集即可将PCCT图像质量融入常规CT成像的AI模型,有望在不安装新硬件的情况下,让更多患者获得PCCT-like的图像质量。"
+        },
+        {
+          "t": "p",
+          "x": "Zhuang团队先用来自145家医院的1,046例PCCT扫描和405,379例EICT扫描训练了一个持续自编码器(即一种无监督人工神经网络),再用按四类标准图像质量损失(稀疏视角、低剂量、常规及混合退化)分类的1,046例PCCT扫描训练SUMI。"
+        },
+        {
+          "t": "p",
+          "x": "参加本场会议,可了解SUMI在峰值信噪比和结构相似性指数方面的表现,以及它如何提升胸部CT的质量。"
+        }
+      ]
+    },
+    "medicine/med-who-ihf-ai-committee": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "世界卫生组织(WHO)与国际医院联合会(IHF)同意成立联合指导委员会,推进医疗AI合作,包括AI应用标准和医疗专业人员培训。"
+        },
+        {
+          "t": "p",
+          "x": "这一协议是在周一于日内瓦WHO总部举行的会面中达成的,与会者为WHO总干事(Director-General)Tedros Adhanom Ghebreyesus与IHF候任主席(President-Designate)Lee Wang-jun。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+          "cap": "周一,WHO总干事(Director-General)Tedros Adhanom Ghebreyesus(左)与IHF候任主席(President-Designate)Lee Wang-jun在日内瓦WHO总部。(IHF供图)"
+        },
+        {
+          "t": "p",
+          "x": "Lee与Tedros会面,讨论上月在首尔举行的第49届IHF世界医院大会上通过的《医疗AI首尔宣言》(Seoul Declaration on AI in Healthcare)的后续措施。IHF介绍了拟设立的全球AI医疗领导力中心(Global AI Healthcare Leadership Center)的愿景与路线图。"
+        },
+        {
+          "t": "p",
+          "x": "WHO提出三个合作领域:医疗专业人员能力建设,制定用于AI应用前后评估的标准基准和评估框架,以及联合举办峰会论坛。双方同意成立高级别联合指导委员会来协调这些工作,并计划在年底前再次会面。"
+        }
+      ]
+    },
+    "medicine/apple-openevidence-trust-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+          "cap": "2026年11月15日，Apple与OpenEvidence在内华达州拉斯维加斯（Las Vegas, Nevada）举行的HLTH大会上发布一项对话式AI研究及配套应用。"
+        },
+        {
+          "t": "p",
+          "x": "Apple周日在拉斯维加斯（Las Vegas）举行的HLTH大会上宣布，将推出一项虚拟研究及配套应用，以了解人们如何与对话式健康AI互动。Apple健康与健身（Health and Fitness）副总裁Dr. Sumbul Desai表示，这项研究与临床AI平台OpenEvidence合作开展，将考察是什么驱动消费者信任、健康AI回答的质量，以及对话式AI能否推动行为改变。"
+        },
+        {
+          "t": "p",
+          "x": "研究面向U.S.全境年满21岁的合格参与者开放，名额至多200,000人。用户可在应用中提出健康问题，并可分享静息心率、活动、睡眠或化验结果等数据，让互动更个性化。研究数据不会用于训练AI模型，个人数据的分享须由用户自愿选择。"
+        },
+        {
+          "t": "p",
+          "x": "“我们在研究是什么建立了用户信任、人们如何理解回答以及回答的质量，我们希望与一个有临床依据的伙伴合作，那就是OpenEvidence。”Desai说。OpenEvidence首席执行官（CEO）Daniel Nadler表示，医生问诊往往只有10或15分钟，这款应用有助于弥合这一差距。"
+        },
+        {
+          "t": "p",
+          "x": "Apple表示，应用会识别令人担忧的问题，并在必要时引导用户转向外部医疗服务提供者或其他资源。据KFF统计，约三分之一的U.S.成年人曾用AI聊天机器人谈论自己的健康。"
+        }
+      ]
     }
   }
 }

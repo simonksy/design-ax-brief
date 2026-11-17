@@ -1,50 +1,92 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-16T22:37:00Z",
+  "now_iso": "2026-11-17T22:00:36Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "HPA NET Roundtable: AI as a Second Unit",
-      "url": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/",
-      "source": "postPerspective",
+      "title": "David Ayer to Become a Partner at Ryan Kavanaugh's New Location-Defying AI Company (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/david-ayer-acme-ai-grey-box-locations-1236756850/",
+      "source": "The Hollywood Reporter",
       "category": "movies",
-      "published_iso": "2026-11-16T22:23:25+00:00",
-      "excerpt": "HPA's October NET Roundtables framed AI as a 'second unit' that works on a defined brief while humans stay in charge; post supervisors agreed retakes are the real cost of an AI shot, that AI is landing first in background removal, uprez and set extensions, and that local AI plus content credentials matter.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg"
+      "published_iso": "2026-11-17T16:30:00+00:00",
+      "excerpt": "Director David Ayer is joining Ryan Kavanaugh's ACME AI as principal and managing partner; its 'Grey Box' tech lets directors shoot on a grey stage and generate locations with AI, which Ayer says makes many location shoots moot.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
     },
     {
-      "title": "Final Equity-Pact Deal Offer Includes AI Provisions, Streamer Residuals",
-      "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-11-16T13:39:23+00:00",
-      "excerpt": "UK actors union Equity is taking Pact's final offer for UK TV and film (2027-2029) to its 8,000 members with a 'yes' recommendation; its four-pronged AI section covers digital replicas, digital alteration of performances, 'Synthetics' and AI training licensing.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
-    },
-    {
-      "title": "French Movie Regulator Won't Fund AI Dubbing and Subtitling",
-      "url": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
+      "title": "Chinese Dubbing Firm Reaps AI Savings, Faces Pricing Pressure",
+      "url": "https://slator.com/transn-ai-dubbing-costs-fall/",
       "source": "Slator",
       "category": "movies",
-      "published_iso": "2026-11-16T10:15:25+00:00",
-      "excerpt": "France's CNC will no longer fund dubbing, subtitling or audio-description projects made without human creators; from Nov. 1 funded films, series, games and animation must involve at least one (graphic) author, though AI tools are not banned outright. [off-list exception: no on-list outlet covered the CNC rule]",
-      "og_image": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png"
+      "published_iso": "2026-11-17T09:25:00+00:00",
+      "excerpt": "Chinese language-services integrator Transn has dubbed more than 20,000 microdramas using AI with human review, cutting production time to days, but falling dubbing prices are squeezing it as revenue grows.",
+      "og_image": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
+    },
+    {
+      "title": "Make an AI Short Film in Claude | Runway MCP",
+      "url": "https://www.youtube.com/watch?v=V7YAhthJCh0",
+      "source": "Runway (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-11-16T08:55:29-08:00",
+      "excerpt": "Runway walks through making a complete micro film with Claude and the Runway MCP: director's notes, storyboards, character and location references, a four-scene shot list, then multi-shot scene generation in draft mode.",
+      "og_image": "https://i.ytimg.com/vi/V7YAhthJCh0/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.177,
+        "date": "2026-11-11",
+        "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+        "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Final Cut Pro 13 adds MotionVFX for one of the biggest updates ever",
+      "url": "https://www.provideocoalition.com/final-cut-pro-13-adds-motionvfx-for-one-of-the-biggest-updates-ever/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-11-17T10:17:08-08:00",
+      "excerpt": "Final Cut Pro 13 folds in the MotionVFX acquisition as Apple's Creator Studio gets AI-era updates, including Pixelmator Pro Generate Fill and MCP support in iWork for external AI agents.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Screenshot-2026-11-09-at-3.09.02-PM.jpeg",
+      "history_match": {
+        "score": 0.429,
+        "date": "2026-10-30",
+        "url": "https://www.redsharknews.com/apple-creator-studio-motionvfx-final-cut-pro-update",
+        "title": "Apple Creator Studio update: MotionVFX and AI",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Tool Tip Tuesday for Adobe Premiere: Color Matching with the AI Assistant (Beta)",
+      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-color-matching-with-the-ai-assistant-beta/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-11-17T07:40:47-08:00",
+      "excerpt": "A hands-on look at using Premiere 2027's beta AI Assistant to color-match shots via natural-language requests, released last week at Adobe MAX.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/color-matching-with-the-ai-assistant.png",
+      "history_match": {
+        "score": 0.359,
+        "date": "2026-11-11",
+        "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+        "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
+        "band": "related"
+      },
+      "cluster": "c4"
+    },
+    {
+      "title": "Christopher Hampton on AI – 'I'm More Interested in Real Intelligence' – and Dos and Don'ts of Screenwriting",
+      "url": "https://variety.com/2026/film/global/christopher-hampton-ai-glenn-close-dos-donts-screenwriting-1236950116/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-11-17T11:25:46+00:00",
+      "excerpt": "Two-time Oscar-winning writer Christopher Hampton dismisses AI screenwriting in favor of 'real intelligence' while sharing screenwriting advice at Tallinn Black Nights (commentary).",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Sir-Christopher-Hampton-courtesy-POFF-.jpeg?w=1000&h=563&crop=1"
     },
     {
       "title": "[REVIEW] AI movie 'Raphael' impresses visually, lacks fresh plot",
       "url": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
       "source": "The Korea Times",
       "category": "movies",
-      "published_iso": "2026-11-16T08:18:03+00:00",
-      "excerpt": "Korea's first feature made entirely with generative AI, the 138-minute sci-fi 'Raphael' (in theaters Nov. 25), took about 14 months; the review praises consistent characters and lip sync but finds the story overly familiar.",
-      "og_image": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg",
-      "history_match": {
-        "score": 0.174,
-        "date": "2026-11-06",
-        "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen",
-        "title": "AI movies make leap from short clips to big screen",
-        "band": "related"
-      }
+      "published_iso": "2026-11-16T08:18:03Z",
+      "excerpt": "Review of Korea's first feature made entirely with generative AI, opening Nov. 25: the 138-minute sci-fi 'Raphael' (Matteo AI Studio with MBC C&I) took 14 months, with AI building characters, landscapes, voices, music and SFX; polished visuals but a formulaic plot.",
+      "og_image": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg"
     },
     {
       "title": "A Quick Look at How Adobe's New AI Assistant Could Streamline Your Workflows in Premiere",
@@ -52,58 +94,16 @@
       "source": "No Film School",
       "category": "movies",
       "published_iso": "2026-11-16T18:00:04+00:00",
-      "excerpt": "One of the biggest Adobe MAX 2026 announcements was the new Premiere AI Assistant; No Film School explains what it is and how it works in an editing workflow. (Adobe MAX follow-up - saturated angle)",
+      "excerpt": "Explainer on the Premiere AI Assistant announced at Adobe MAX 2026: what it is and how it automates editing tasks through natural-language commands.",
       "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68692926&width=1200&height=600&coordinates=0%2C109%2C0%2C110",
       "history_match": {
-        "score": 0.274,
+        "score": 0.24,
         "date": "2026-11-11",
         "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
         "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
         "band": "related"
-      }
-    },
-    {
-      "title": "Virtual Content Creator Roundtable",
-      "url": "https://postperspective.com/virtual-content-creator-roundtable/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-11-16T18:18:47+00:00",
-      "excerpt": "Vendors and creators on how social creators adopt film/episodic workflows; Blackmagic points to a new DaVinci Resolve feature that lets AI assistants such as Claude and ChatGPT Codex build highlight edits, remove clips and render deliverables, while others cite agentic AI for footage organization and rough cuts.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/JLI-2026-0069_Josh-Liljenquist_James-Cowan-Jr_39604-Check_2026-02-04-copy.jpg"
-    },
-    {
-      "title": "경민대, 극장용 AI 애니메이션 제작 산학 협력",
-      "url": "https://www.yna.co.kr/view/AKR20261116073300060",
-      "source": "연합뉴스",
-      "category": "movies",
-      "published_iso": "2026-11-16T11:21:04+09:00",
-      "excerpt": "경민대가 강단스튜디오·스튜디오시네틱스와 협약을 맺고 극장용 AI 성경 뮤지컬 애니메이션 '요나'(2027년 하반기 개봉 목표) 제작에 재학생을 참여시킨다. 스튜디오시네틱스가 AI 기술 파트너를 맡는다. (alt image source: https://www.segye.com/newsView/20261116511244 og https://www.segye.com/content/image/2026/11/16/20261116511185.png)",
-      "og_image": null
-    },
-    {
-      "title": "[AI와 방송의 동행] 해외 방송가 기술 도입 속도전…제작 패러다임 바뀐다",
-      "url": "https://www.sportsworldi.com/newsView/20261116510101",
-      "source": "스포츠월드",
-      "category": "movies",
-      "published_iso": "2026-11-16T14:14:28+09:00",
-      "excerpt": "중국 숏폼 AI 콘텐츠의 방송 진출, 일본 지상파의 드라마 전반 생성형 AI 도입 계획, 글로벌 OTT의 AI 활용 확대 등 해외 방송·영상 제작의 AI 도입 흐름을 정리한 기획. [off-list exception; overview piece]",
-      "og_image": "https://www.sportsworldi.com/content/image/2026/11/16/20261116511235.jpg"
-    },
-    {
-      "title": "SAG-AFTRA Boss Says AI Takedowns Matter More Than Damages To Performers",
-      "url": "https://deadline.com/2026/11/sag-aftra-ai-likeness-misuse-takedown-damages-1237222661/",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-11-13T12:42:20+00:00",
-      "excerpt": "SAG-AFTRA CEO Duncan Crabtree-Ireland says most performers whose likenesses are misused by AI want the content removed rather than damages. (Web Summit remarks partly covered earlier - weak)",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/Duncan-Crabtree-Ireland-web-summit.jpg?w=1024",
-      "history_match": {
-        "score": 0.344,
-        "date": "2026-11-13",
-        "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/",
-        "title": "Around 10-15 Percent of SAG-AFTRA Membership Wants AI Blocked, CEO Tells Web Summit",
-        "band": "related"
-      }
+      },
+      "cluster": "c4"
     },
     {
       "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
@@ -111,88 +111,53 @@
       "source": "Variety",
       "category": "movies",
       "published_iso": "2026-11-11T14:00:00+00:00",
-      "excerpt": "Adobe's Project Live Set sneak lets creators generate and edit video while it plays, in real time. (Adobe MAX sneaks - saturated angle)",
+      "excerpt": "Adobe's Project Live Set research sneak lets creators generate and edit AI video effects while the footage is playing.",
       "og_image": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=563&crop=1",
       "history_match": {
-        "score": 0.182,
-        "date": "2026-11-11",
-        "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
-        "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
+        "score": 0.156,
+        "date": "2026-11-10",
+        "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
+        "title": "Real-Time Video at Batch Size One",
         "band": "related"
       }
     },
     {
-      "title": "CAA Wants to Create an AI-Generated Celebrity Advertising Machine",
-      "url": "https://www.hollywoodreporter.com/business/business-news/caa-ai-celebrity-advertising-machine-1236751106/",
-      "source": "The Hollywood Reporter",
+      "title": "AI로 만든 영화·애니메이션 등 64개 작품 공개…콘진원, 콘텐츠 창작 인재 양성 성과 선보여",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42753",
+      "source": "인공지능신문",
       "category": "movies",
-      "published_iso": "2026-11-09T21:10:20+00:00",
-      "excerpt": "CAA and Ogilvy launched a platform that lets marketers produce AI-generated ads featuring talent-approved celebrity likenesses without hours on set.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2244624390.jpg?w=1440&h=810&crop=1"
+      "published_iso": "2026-11-17T09:26:14+09:00",
+      "excerpt": "문체부·한국콘텐츠진흥원의 'AI 크리에이터 쇼케이스 2026'(11/12-14, 코엑스·메가박스)에서 AI 단편영화·애니메이션 등 64개 프로젝트가 공개됐고 2,354명이 찾았다. '선재 업고 튀어' 김태엽 감독 등이 실제 창작 과정의 AI 활용 경험을 공유했다.",
+      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png"
     },
     {
-      "title": "Director Hyun Hae-ri Unveils Live-Action, AI, and VFX Integrated Production Pipeline at Tokyo AI Film Festival",
-      "url": "https://economist.co.kr/article/view/ecn202611110002",
-      "source": "이코노미스트",
+      "title": "AI가 배우를 대체할 수 있을까…프롬, 배우·감독·제작자 참여 'AI 명작 감상회' 개최",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42762",
+      "source": "인공지능신문",
       "category": "movies",
-      "published_iso": "2026-11-11T09:06:00+09:00",
-      "excerpt": "MooAm showed at AI Film Festival Japan 2026 a pipeline combining live-action shooting, generative AI, VFX and color grading, keeping real footage where it works and using AI only for hard-to-film shots. [off-list exception]",
-      "og_image": "https://economist.co.kr/data/ecn/image/2026/11/11/ecn20261111000001.800x.0.png",
-      "history_match": {
-        "score": 0.273,
-        "date": "2026-11-04",
-        "url": "https://www.etnews.com/20261103000300",
-        "title": "“AI 영화의 벽은 생성 아닌 납품”… 무암, AI 하이브리드 제작 공정 공개",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI 영화 도전 이명세 \"한국영화 몸값 낮춰야 AI 시대 대응할 수 있어\"",
-      "url": "https://www.koreadaily.com/article/20261110210424156",
-      "source": "미주중앙일보",
-      "category": "movies",
-      "published_iso": "2026-11-11T05:03:46+00:00",
-      "excerpt": "'충무로 비주얼 장인' 이명세 감독이 AI 영화 작업에 도전하며 \"한국영화 몸값을 낮춰야 AI 시대에 대응할 수 있다\"고 말한 인터뷰. [off-list exception; interview]",
-      "og_image": "https://www.koreadaily.com/data/photo/thumbnail/2026/11/11/7b845c6f-f5c7-418a-86b4-2f20e05c7ced.jpg"
+      "published_iso": "2026-11-17T11:34:41+09:00",
+      "excerpt": "AI 스토리텔링 랩 프롬이 22일 '인공지능 연기 그리고 배우의 본질'을 주제로 제2회 AI 명작 감상회를 연다. AI 캐릭터 연기 작품 상영·장면 해설과 함께 배우 연기와 AI 캐릭터 제작을 결합하는 '하이브리딩'을 다루며, 12월 19일엔 AI 작품 시상식 '프롬 어워즈'를 처음 연다.",
+      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42762_64249_3349.jpg"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 13,
+    "dropped": 2,
+    "kept": 9,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
     "review": 5,
-    "same_story_pairs": []
+    "same_story_pairs": [
+      [
+        "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-color-matching-with-the-ai-assistant-beta/",
+        "https://nofilmschool.com/adobe-premiere-ai-assistant",
+        0.395
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-18",
-      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project",
-      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Tech Reviews: Gaomon PD1561 V2, Foundry SmartRoto, Huion Kamvas Pro 24",
-      "url": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
-      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "FilmFest Cottbus selects AI-generated feature 'A Woman Asleep' for main competition",
-      "url": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Here's how Hollywood is Directing Their AI Films",
-      "url": "https://www.youtube.com/watch?v=BExtQ740QgM"
-    },
     {
       "date": "2026-10-19",
       "title": "'Fall 2' reaches new heights in VFX",
@@ -852,6 +817,31 @@
       "date": "2026-11-16",
       "title": "We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close",
       "url": "https://www.youtube.com/watch?v=sh4bkvZQ1WE"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Final Equity-Pact Deal Offer Includes AI Provisions, Streamer Residuals",
+      "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "HPA NET Roundtable: AI as a Second Unit",
+      "url": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Virtual Content Creator Roundtable",
+      "url": "https://postperspective.com/virtual-content-creator-roundtable/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "French Movie Regulator Won't Fund AI Dubbing and Subtitling",
+      "url": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "경민대, 극장용 AI 애니메이션 제작 산학 협력",
+      "url": "https://www.yna.co.kr/view/AKR20261116073300060"
     }
   ]
 }

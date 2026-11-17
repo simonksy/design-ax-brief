@@ -10517,6 +10517,129 @@
           "x": "James对观众说：“明年还会有，因为这就是新的音乐产业。”"
         }
       ]
+    },
+    "music/spotify-artist-profile-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
+        },
+        {
+          "t": "p",
+          "x": "在AI-generated劣质内容持续涌入音乐流媒体平台之际，Spotify正向所有艺人推出“Artist Profile Protection”工具，让他们掌控以自己名义出现的音乐。该公司八个月前开始与部分艺人对这一功能进行beta测试，如今正式上线。"
+        },
+        {
+          "t": "p",
+          "x": "Billboard上月报道，Sony Music已要求数字平台删除超过260,000首深度伪造歌曲，接近该唱片公司3月披露数量的两倍。"
+        },
+        {
+          "t": "p",
+          "x": "艺人可通过Spotify for Artists启用该功能，在有新音乐以其名义提交时收到提醒。若某作品并非本人所有，可解除关联，使其不再出现在个人主页上。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Supporting-asset.png?w=680",
+          "cap": "Image Credits: Spotify"
+        },
+        {
+          "t": "p",
+          "x": "默认情况下，除非艺人介入，作品会按计划上线；高级设置则要求艺人在作品出现在主页前手动批准或拒绝。"
+        },
+        {
+          "t": "p",
+          "x": "“艺人绝不应该在自己名下发现别人的音乐，”Spotify的Global Head of Marketing and Policy Sam Duboff表示，“我们是首个也是唯一一个为内容错配这一全行业问题提供解决方案的流媒体服务。”Spotify称，测试期间它与数千名艺人合作完善了这一工具。"
+        }
+      ]
+    },
+    "music/deezer-ipsos-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/11/new-20241206-Deezer-ImageBank-FINAL-DEE00581-4-1240x600-1.jpg",
+          "cap": "Deezer AI音乐报告 2026"
+        },
+        {
+          "t": "p",
+          "x": "Deezer发布了第二份关于AI-generated音乐态度的年度调查，委托Ipsos在US、加拿大、巴西、UK、法国、荷兰、德国和日本调查了9,000人。"
+        },
+        {
+          "t": "p",
+          "x": "Deezer的新闻稿里满是统计数据和同比对比，但最有意思的趋势只出现在Music Ally看到的报告正文中。它涉及人们是否认为AI-generated音乐会流行：报告发现，相信fully-AI音乐会流行的人越来越少。"
+        }
+      ]
+    },
+    "music/youtube-content-mill-claim": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "darmHfFNOKM"
+        },
+        {
+          "t": "p",
+          "x": "疫情期间，作家兼音乐人Samantha Shokin录制了一段50秒版本的保加利亚公有领域民歌《Bre Petrunko》。两年后她将其上传至YouTube，四年间获得125,000次观看。上个月，视频不见了：一家名为Media Nov Records的公司发出了版权警告，YouTube随即将其下架。"
+        },
+        {
+          "t": "p",
+          "x": "Shokin两次提出反申诉，均未成功。“任何人都会同意我的看法：这里显然有问题，需要纠正，可我就是联系不上一个真人。”她说。"
+        },
+        {
+          "t": "p",
+          "x": "Media Nov的网站宣称提供自动化DMCA下架、YouTube content ID管理和AI-powered内容识别服务。在爱尔兰提交的公司文件显示，它成立仅一年多。该公司告诉404 Media，它运营着500个频道，其中许多充斥着AI-generated美术素材和循环播放的电子节拍。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-500270ff-d861-4ca5-89e6-3f05fa46497c.png",
+          "cap": "Media Nov Records的一个YouTube页面"
+        },
+        {
+          "t": "p",
+          "x": "在404 Media请求置评后，Media Nov Records撤回了版权删除请求，但表示打算提起法律诉讼。约24小时后，Shokin的原视频恢复上线；YouTube证实，在申诉方撤回后已恢复该视频。“整个系统都坏了，”Shokin说。"
+        }
+      ]
+    },
+    "music/suno-v6-discovery-fight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Universal Music Group和Sony Music Entertainment正在反对Suno将二者针对这家AI音乐公司提起的第二起版权诉讼全面搁置的企图。在周五（11月13日）向波士顿联邦法院提交的文件中，唱片公司称，全面暂停可能使案件冻结至2028年，导致Suno的2025年和2026年模型——包括9月发布的v6——“至少在2028年之前无处受审”。"
+        },
+        {
+          "t": "p",
+          "x": "Suno于10月30日请求F. Dennis Saylor IV法官暂停第二起案件，直至他就唱片公司于2024年6月提起的第一起诉讼作出简易判决；在第一起诉讼中，Suno的主要抗辩理由是合理使用。第二起诉讼指控Suno未经许可复制了唱片公司的60,202首录音，用于训练其AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "唱片公司提出“部分中止”：推迟对60,000多首录音所有权的举证，但让针对Suno后续模型的证据收集即刻进行，包括v6的训练方式、其获取训练数据授权的努力、新业务与融资，以及近期财务状况。他们还指出，负责Suno数据抓取和训练数据获取的工程师已经离职。"
+        },
+        {
+          "t": "p",
+          "x": "“拖延不仅会推迟建立案卷，还会使其受损，”Universal和Sony写道。"
+        }
+      ]
+    },
+    "music/aria-ppca-notaistotake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ausleisure.com.au/img/containers/assets/news-images/aria-and-ppca-petition.jpg/9685855ac03c87223028de21bf617610/aria-and-ppca-petition.webp"
+        },
+        {
+          "t": "p",
+          "x": "澳大利亚音乐、媒体和创意产业正敦促联邦政府加强版权保护，防止澳大利亚创作作品在未经授权的情况下被用于训练人工智能(AI)系统。Not AI’s to Take 运动于11月17日、第40届ARIA Awards前夕启动，由Australian Recording Industry Association(ARIA)和Phonographic Performance Company of Australia(PPCA)牵头。"
+        },
+        {
+          "t": "p",
+          "x": "2026年7月，总理Anthony Albanese表示，任何公司都不应在创作者无法掌控的情况下用其作品训练AI，并称“任何低于此标准的做法都是盗窃”。政府此前已排除宽泛的文本与数据挖掘例外，但围绕许可和执法的讨论仍在继续。"
+        },
+        {
+          "t": "p",
+          "x": "ARIA和PPCA担心，任何走向opt-out机制的举措都会削弱现有版权保护，并把责任推给个体艺术家。该运动转而倡导“许可优先”模式，要求AI公司在使用素材前征得版权持有人同意并协商条款。"
+        },
+        {
+          "t": "p",
+          "x": "澳大利亚创意和媒体产业每年为国民经济贡献$70.3 billion ，并支撑近600,000名从业者。该运动呼吁公众签署请愿书、致信当地联邦议员(MP)，并在nottheirstotake.com.au分享运动资料。"
+        }
+      ]
     }
   }
 }

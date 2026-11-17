@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "marketing",
   "items": [
     {
@@ -8,13 +8,13 @@
       "category": "marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
-      "source": "Google Blog",
-      "published_iso": "2026-11-16T17:00:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share.width-1300.jpg",
-      "excerpt": "Google introduces Ask AdMob, a Gemini agent that uses peer benchmarks to flag setup errors, suggest SDK bidders and spot floor-price discrepancies, plus agent skills/MCP so coding agents can set up app ad monetization in code.",
-      "rationale": "Primary-source launch: a Gemini agent plus MCP/agent skills for app ad monetization (bidders, floor prices) - concrete new tooling for app advertisers."
+      "title": "Google Ads Brand Guidelines Add Visual Guidelines",
+      "url": "https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html",
+      "source": "Search Engine Roundtable",
+      "published_iso": "2026-11-17T07:11:00-05:00",
+      "og_image": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+      "excerpt": "Google Ads added visual guidelines to Performance Max brand guidelines, letting advertisers add style references and preferences to steer how images are created and enhanced for their ads.",
+      "rationale": "New Performance Max control: brand style references now steer Google's AI-generated and enhanced ad images. Directly changes how creative teams brief the machine."
     },
     {
       "rank": 2,
@@ -22,13 +22,13 @@
       "category": "marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Google steers holiday hotel, dinner and ticket bookings into AI Mode",
-      "url": "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/",
-      "source": "PPC Land",
-      "published_iso": "2026-11-16T21:23:37+00:00",
-      "og_image": "https://ppc.land/content/images/2026/11/google-ai-mode-holiday-guide-hotel-dinner-ticket-bookings-google-pay-funnel-key-plate-ticket.jpg",
-      "excerpt": "Hotel rooms now book inside Google's AI Mode via Google Pay in the US with partners as merchant of record, and ticket drops get tracked too - pulling holiday purchase transactions into Google's AI surface.",
-      "rationale": "New AI Mode transaction feature (hotel booking via Google Pay, ticket tracking) moves holiday purchases into Google's AI surface - distinct from the 11-05 ad-load and home-services cards."
+      "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel",
+      "url": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
+      "source": "Search Engine Journal",
+      "published_iso": "2026-11-17T21:42:30+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg",
+      "excerpt": "U.S. panel data finds only 6.9% of ChatGPT conversations show intent to buy and most responses name no brand, a new input for teams weighing ChatGPT visibility and ChatGPT ads.",
+      "rationale": "Fresh panel data on purchase intent inside ChatGPT. It gives a hard number for sizing ChatGPT ad budgets and is a new dataset, not the 11-03 revenue-per-visit study."
     },
     {
       "rank": 3,
@@ -36,13 +36,13 @@
       "category": "marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "J. Crew introduces AI-powered Style Advisor",
-      "url": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
-      "source": "Retail Dive",
-      "published_iso": "2026-11-16T17:09:00+00:00",
-      "og_image": "https://imgproxy.divecdn.com/5ftKNg6KC4Z8jjX9jEYHUiERaxRZ2VEbofJSIaq4tcw/g:nowe:0:70/c:640:362/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNDU3OTUzMjMxOF84ZjkxMjlmMzljX3ouanBn.webp",
-      "excerpt": "J. Crew launches a desktop AI Style Advisor built with Anthropic that goes beyond single-product search to deliver styled outfit recommendations ahead of the holidays.",
-      "rationale": "Retailer ships an AI selling surface (outfit-level recommendations, built with Anthropic) ahead of the holiday season - AI directly at the point of sale."
+      "title": "Daydream's new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "source": "TechCrunch",
+      "published_iso": "2026-11-17T16:32:55+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024",
+      "excerpt": "Daydream's new AI shopping agent remembers your style, virtually tries on clothes, plans outfits around your wardrobe, tracks sales and completes purchases for you.",
+      "rationale": "New agentic-commerce launch: a stylist agent with virtual try-on, sale tracking and checkout. It shows how fashion brands will be shopped by agents."
     },
     {
       "rank": 4,
@@ -50,13 +50,13 @@
       "category": "marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "How Bustle Digital Group is helping Pampers and Innisfree show up in AI recommendations",
-      "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/",
-      "source": "Digiday",
-      "published_iso": "2026-11-16T05:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/04/ai-recommends-digiday.jpg",
-      "excerpt": "Bustle Digital Group has teamed with Profound to sell brands like Pampers and Innisfree a service that boosts their visibility in AI chatbot recommendations.",
-      "rationale": "A publisher packaging AI-chatbot visibility as a paid brand product (with Profound), with named advertisers - a new line item brands are buying."
+      "title": "Amazon says under 0.1% of DVA ads on outside websites hit unsafe pages",
+      "url": "https://ppc.land/amazon-says-under-0-1-of-dva-ads-on-outside-websites-hit-unsafe-pages/",
+      "source": "PPC Land",
+      "published_iso": "2026-11-17T08:04:01Z",
+      "og_image": "https://ppc.land/content/images/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+      "excerpt": "Amazon's new help pages say English-language web inventory is crawled by AmazonAdBot and risky pages are sent to AI models including Claude, keeping fewer than 1 in 1,000 DVA impressions on unsafe pages.",
+      "rationale": "New Amazon documentation on AI-classified brand safety for DVA ads off Amazon. This is a different topic from the 11-15 DVA+ 20-product cap."
     },
     {
       "rank": 5,
@@ -64,43 +64,43 @@
       "category": "marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "Jordan Belfort's new AI voice startup, Tone, wants to sell like the 'Wolf of Wall Street'",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "source": "TechCrunch",
-      "published_iso": "2026-11-16T17:10:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-      "excerpt": "Belfort's Tone builds an AI sales voice agent he claims already closes deals almost as well as top human salespeople, and expects to catch up within a year.",
-      "rationale": "Replacement for the dropped Lunio pick: an AI voice agent that does outbound selling (sales automation is in marketing scope); performance claims are the founder's and must be attributed."
+      "title": "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot",
+      "url": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
+      "source": "Salesforce",
+      "published_iso": "2026-11-17T18:05:00+00:00",
+      "og_image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg",
+      "excerpt": "New integrations bring Salesforce customer context and sales workflows into Microsoft Copilot and enable real-time CRM collaboration in Microsoft Teams.",
+      "rationale": "Primary-source launch moving AI sales workflows and CRM context into Copilot/Teams. It is sales automation, which is in scope for marketing, and it is new."
     }
   ],
   "dedup": {
     "checks": {
-      "https://blog.google/products/publisher-connections/new-google-admob-tools/": {
+      "https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html": {
         "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+        "nearest": "https://ppc.land/microsoft-lets-advertisers-set-up-to-40-guidelines-for-ai-written-ads/",
         "new_action": ""
       },
-      "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/": {
+      "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
+        "nearest": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
         "new_action": ""
       },
-      "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/": {
+      "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/": {
         "verdict": "new",
-        "nearest": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
+        "nearest": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
         "new_action": ""
       },
-      "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/": {
+      "https://ppc.land/amazon-says-under-0-1-of-dva-ads-on-outside-websites-hit-unsafe-pages/": {
         "verdict": "new",
-        "nearest": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/",
+        "nearest": "https://ppc.land/amazon-caps-its-automated-dva-campaigns-at-20-products/",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/": {
+      "https://www.salesforce.com/news/stories/copilotforce-announcement/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/",
+        "nearest": "https://ppc.land/microsoft-clarity-puts-shopify-and-woocommerce-products-in-copilot-and-bing/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: SEJ 'ChatGPT Ads vs. Google Search Ads: what early data shows' (likely-repeat of 11-03 SEJ 'Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.' - same early revenue-per-visit data); SER 'OpenAI ChatGPT Business Agent - first look' (same running story as 11-11 Digiday OpenAI business agents; a first sighting of Chewy's agent is extra reporting, not a new release); PPC Land 'Amazon's $78bn ad machine...' (analysis on the DVA+ story published 11-15, no new event); Digital Today 'Naver vs Kakao AI agent' (earnings-call commentary overlapping 11-08/11-09 Kakao/Naver AI ad cards). Fact-check pass removed PPC Land 'Lunio cuts Google brand bids...' (the 'agentic' product is script-driven campaign switching, no AI substance); replaced with TechCrunch Tone (AI sales voice agent; no Tone/Belfort story in the 30-day history, nearest is the 10-20 monday.com Harmony voice AI card, a different company/product). Not picked on scope/score: Deloitte Digital Converge (vendor-tool promo, excluded by marketing _note), LinkedIn 'influential voices' (exec commentary, no new release). No cross-section assignment in curator_brief touches marketing. Outlets: Google Blog, PPC Land, Retail Dive, Digiday, TechCrunch = 5 distinct."
+    "note": "Dropped as duplicate: SEJ 'ChatGPT Ads Vs. Google Search Ads: What Early Data Shows' (likely-repeat of the 11-03 SEJ 'Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.', which uses the same revenue-per-visit data). Skipped for other reasons, not as duplicates: Salesforce Personal Agent Protocol (Poppy 1.0 launched 11-13; Salesforce only joined as a partner); Gemini Tasks (the Spark agent renamed and expanded, a consumer assistant that may overlap gadgets, and the second TechCrunch item); Retail Dive / ADWEEK / Marketing Dive holiday pieces (explainers or AI incidental); AdExchanger Knotch and Deloitte Converge (vendor promotion); SER Search Journey Awareness (help doc for an existing feature); Meta 5-post ad (AI only algorithmic selection); PPC News Feed Microsoft items (off-list domain, features shown earlier). Final 5 come from 5 distinct outlets."
   }
 }

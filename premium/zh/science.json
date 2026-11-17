@@ -11034,6 +11034,111 @@
           "x": "外部科学家和开发者即日起可在Antigravity和Deep Review中将Gemini 4模型与/teamwork和/boost配合使用；同时开放申请，为10,000名学术研究人员提供六个月的最高使用等级免费访问权限。"
         }
       ]
+    },
+    "science/empa-optimat-alloys-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/2026/a-virtual-materials-sc.jpg",
+          "cap": "应用于计算合金发现的大数据“四个 Vs”。Credit: arXiv (2026). DOI: 10.48550/arxiv.2604.21850"
+        },
+        {
+          "t": "p",
+          "x": "位于 Thun 的 Empa 研究人员开发了一个 AI 框架，让研究人员通过简单的文本聊天操作复杂的计算材料科学工具——相当于材料领域的 ChatGPT，以科学知识为基础，并在用户自己的计算机上按需计算。该成果发表于 npj Computational Materials。"
+        },
+        {
+          "t": "video",
+          "yt": "lQzuorkzPMc"
+        },
+        {
+          "t": "p",
+          "x": "高熵合金(high-entropy alloys)将四种或更多金属以大致相等的比例混合，可能的组合数量极其庞大。Empa 的 Yang Hu 与 Vladyslav Turlo 共同开发了 OptiMat Chat 平台；其首位虚拟科学家 OptiMat Alloys 会挑选领域专用工具、执行预定义工作流，并将结果整理成论文式的图、表和文字，供专家审阅。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员既无需编程，也无需配置参数。为减少幻觉，该智能体采用结构化工具调用、预定义工作流和已存储的计算记录，结果保存在数据库中，便于追溯和复用。Turlo 提醒，这些数据是供专家解读的起点，而非可独立发表的结果。面向陶瓷、金属氧化物和非晶材料的智能体也在计划之中。"
+        }
+      ]
+    },
+    "science/vtech-vibration-rock-depth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg",
+          "cap": "火星(Mars)地下分层剖面的艺术想象图。Credit: ESA/Medialab"
+        },
+        {
+          "t": "p",
+          "x": "Virginia Tech 的一支团队开发了 AI-powered 工具，通过测量地表振动来判断地下有什么以及结构延伸多深，从而让机器人任务能够自主作出这些判断。该研究由 Ph.D. 候选人 Yiyan Ruan 和曾任职于 NASA Langley Research Center 的助理教授 Erik Komendera 领导，发表于 IEEE Sensors Journal。"
+        },
+        {
+          "t": "p",
+          "x": "估算部分掩埋岩石的埋深，对能源受限的机器人挖掘至关重要：团队需要知道是该移除障碍物还是绕开它。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/Bird_s-eye_view_of_Coloe_Fossae_20251120_211652.jpg",
+          "cap": "由 ESA Mars Express 上 High Resolution Stereo Camera 的数字地形模型以及天底(nadir)和彩色通道生成的视图。Credit: ESA/DLR/FU Berlin"
+        },
+        {
+          "t": "p",
+          "x": "团队将18块混凝土块埋入沙中不同深度，用带传感器的锤子敲击，并用 Laser Doppler Vibrometer 测量振动。一个 Multilayer Perceptron 将11个特征映射到埋深。“我们仅用一个只有两个隐藏层的紧凑神经网络，就得到了可靠的数据，”Ruan 说。"
+        },
+        {
+          "t": "p",
+          "x": "这些模型可帮助任务挖掘岩石和水冰；在地球上，它们可用于分析建筑工地和灾区。"
+        }
+      ]
+    },
+    "science/science-euclid-strong-lens-q1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg",
+          "cap": "M81 星系盘与 Holmberg IX 矮星系(Disk of M81, feat. Holmberg IX dwarf)。Credit: ESA/Euclid/Euclid Consortium/NASA，图像处理：J.-C. Cuillandre 和 E. Bertin CC BY-SA 3.0 IGO"
+        },
+        {
+          "t": "p",
+          "x": "UBC 研究人员参与发现了15,000个新的潜在强引力透镜——这是天文学家用来研究暗物质的这类宇宙工具迄今规模最大的集合。ESA Euclid 空间望远镜首次大规模数据发布达170万吉字节，在近5%的夜空中揭示了逾9亿个星系和6,000万个类星体。"
+        },
+        {
+          "t": "p",
+          "x": "“在 Euclid 之前，已确认的强透镜不到1,000个。现在我们有15,000个新候选，”论文共同作者、UBC 博士生 Hrishabh Srivastava 说。"
+        },
+        {
+          "t": "p",
+          "x": "这一分为四步的搜索首先利用机器学习，从海量数据中初步筛出可能的透镜。随后，数千名公民科学家仔细查看经 AI-sorted 的数据，进一步精简候选名单。第三步，包括 Srivastava 在内的专家核查公民科学家的工作，每人查看约6,000至10,000个星系。最后，借助其他望远镜的后续数据对候选进行验证。"
+        },
+        {
+          "t": "p",
+          "x": "Srivastava 还希望构建一个足够强大的机器学习模型，无需验证即可识别强透镜。此次数据发布在提交给 Astronomy & Astrophysics 的26篇论文中有详细介绍。"
+        }
+      ]
+    },
+    "science/psypost-ai-grant-novelty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "发表在PNAS上的一项新研究显示，借助生成式人工智能（AI）撰写联邦科研基金申请的科学家，提出的研究课题往往更接近近期获得资助的项目。在美国国立卫生研究院（NIH），AI写作痕迹越多的申请越有可能获得资助；AI痕迹较多的资助项目在头一两年内发表的论文也略多，但集中在常规研究，而非高被引的突破性成果。"
+        },
+        {
+          "t": "p",
+          "x": "Northwestern University的Yifan Qian及其同事分析了来自两所U.S.大型研究型大学的1,600份NSF申请和4,100份NIH申请，以及57,000项NSF资助项目和74,000项NIH资助项目，项目起始时间为2021年至2025年。估计的AI参与度在2022年底之前保持平稳，从2023年起急剧上升。"
+        },
+        {
+          "t": "p",
+          "x": "AI参与度越高，独特性始终越低：参与度的百分位排名从第25位升至第75位时，NSF资助项目的独特性下降约5个百分位点，NIH资助项目下降约4个点。在NIH，同样的变化意味着获得资助的可能性高出约4个百分点，论文数量多出约百分之五；在NSF，这两种关联均不具统计显著性。"
+        },
+        {
+          "t": "p",
+          "x": "该研究属于观察性研究，无法证明AI工具会直接导致更保守的选题或更高的NIH资助几率。"
+        }
+      ]
     }
   }
 }

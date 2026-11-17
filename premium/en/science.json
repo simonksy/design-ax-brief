@@ -11723,6 +11723,111 @@
           "x": "External scientists and developers can use Gemini 4 models with /teamwork and /boost in Antigravity and Deep Review today, and applications are open giving 10,000 academic researchers six months of free access to the highest usage tier."
         }
       ]
+    },
+    "science/empa-optimat-alloys-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/2026/a-virtual-materials-sc.jpg",
+          "cap": "The four Vs of big data applied to computational alloy discovery. Credit: arXiv (2026). DOI: 10.48550/arxiv.2604.21850"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Empa in Thun have developed an AI framework that lets researchers operate complex computational materials science tools via a simple text chat—a kind of ChatGPT for materials, grounded in scientific knowledge and calculated on-demand on the user's own computer. The work is published in npj Computational Materials."
+        },
+        {
+          "t": "video",
+          "yt": "lQzuorkzPMc"
+        },
+        {
+          "t": "p",
+          "x": "High-entropy alloys mix four or more metals in roughly equal proportions, giving an extremely large number of possible combinations. Empa's Yang Hu and Vladyslav Turlo jointly developed the OptiMat Chat platform; its first virtual scientist, OptiMat Alloys, selects domain-specific tools, executes predefined workflows and summarizes results in publication-style figures, tables and texts for experts to review."
+        },
+        {
+          "t": "p",
+          "x": "Researchers need neither to code nor configure settings. To reduce hallucinations the agent uses structured tool calls, predefined workflows and stored calculation records, and results are kept in a database for traceability and reuse. Turlo cautions the data are starting points for expert interpretation, not standalone publishable results. Agents for ceramics, metal oxides and amorphous materials are planned."
+        }
+      ]
+    },
+    "science/vtech-vibration-rock-depth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg",
+          "cap": "Artist's impression of a cutaway showing Mars' subsurface layers. Credit: ESA/Medialab"
+        },
+        {
+          "t": "p",
+          "x": "A team from Virginia Tech has developed AI-powered tools that measure vibrations in surface terrain to determine what lies beneath and how deep structures extend, so robotic missions could make these determinations autonomously. The study, led by Ph.D. candidate Yiyan Ruan and assistant professor Erik Komendera, a former researcher at NASA's Langley Research Center, was published in IEEE Sensors Journal."
+        },
+        {
+          "t": "p",
+          "x": "Estimating the burial depth of partially embedded rocks is key for energy-limited robotic excavation: teams need to know whether to remove an obstacle or avoid it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/Bird_s-eye_view_of_Coloe_Fossae_20251120_211652.jpg",
+          "cap": "View generated from the digital terrain model and the nadir and color channels of the High Resolution Stereo Camera on ESA's Mars Express. Credit: ESA/DLR/FU Berlin"
+        },
+        {
+          "t": "p",
+          "x": "The team buried 18 concrete blocks in sand at different depths, struck them with an instrumented hammer and measured vibrations with a Laser Doppler Vibrometer. A Multilayer Perceptron mapped 11 features to burial depth. \"We were able to produce reliable data using a compact neural network with just two hidden layers,\" Ruan said."
+        },
+        {
+          "t": "p",
+          "x": "The models could help missions excavate rocks and water ice; on Earth they could help analyze construction sites and disaster zones."
+        }
+      ]
+    },
+    "science/science-euclid-strong-lens-q1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg",
+          "cap": "Disk of M81, feat. Holmberg IX dwarf. Credit: ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre and E. Bertin CC BY-SA 3.0 IGO"
+        },
+        {
+          "t": "p",
+          "x": "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter. The first major release of data from ESA's Euclid space telescope comprises 1.7 million gigabytes and revealed more than 900 million galaxies and 60 million quasars across almost 5% of the night sky."
+        },
+        {
+          "t": "p",
+          "x": "\"Before Euclid, we had fewer than 1,000 confirmed strong lenses. Now we have 15,000 new candidates,\" said co-author Hrishabh Srivastava, a UBC doctoral student."
+        },
+        {
+          "t": "p",
+          "x": "The four-part search uses machine learning to initially parse the huge amount of data for likely lenses. Then thousands of citizen scientists pore over the AI-sorted data to further refine the candidate pool. Third, experts including Srivastava check the citizen scientists' work, looking at about 6,000 to 10,000 galaxies each. Finally, candidates are verified with follow-up data from other telescopes."
+        },
+        {
+          "t": "p",
+          "x": "Srivastava also aims to build a machine-learning model strong enough to identify strong lenses without verification. The release is described in 26 papers submitted to Astronomy & Astrophysics."
+        }
+      ]
+    },
+    "science/psypost-ai-grant-novelty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "Scientists who use generative artificial intelligence to help write federal grant applications tend to propose research topics that more closely resemble recently funded projects, according to a new study published in PNAS. At the National Institutes of Health, submissions with greater traces of AI writing were more likely to win funding, and awards with more AI traces were followed by modestly more publications in the first year or two, concentrated in routine studies rather than highly cited breakthroughs."
+        },
+        {
+          "t": "p",
+          "x": "Yifan Qian and colleagues at Northwestern University analyzed 1,600 NSF and 4,100 NIH proposals from two large U.S. research universities, plus 57,000 NSF and 74,000 NIH funded awards, with start dates from 2021 to 2025. Estimated AI involvement stayed flat before late 2022 and rose sharply beginning in 2023."
+        },
+        {
+          "t": "p",
+          "x": "Higher AI involvement was consistently associated with lower distinctiveness: moving from the 25th to the 75th percentile corresponded to roughly a 5-percentile-point drop for NSF awards and about 4 points for NIH awards. At NIH, the same shift meant roughly a 4-percentage-point higher likelihood of winning an award and about 5 percent more publications; at NSF neither link was statistically significant."
+        },
+        {
+          "t": "p",
+          "x": "The study is observational and cannot establish that AI tools directly cause safer topic choices or higher NIH funding odds."
+        }
+      ]
     }
   }
 }

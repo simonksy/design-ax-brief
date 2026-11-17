@@ -10787,6 +10787,108 @@
           "x": "局限依然存在：Runway上的第三方模型采用各自的审核机制，LLMs仍会出错，缺少上下文也会导致合理用例有时被拦截。用户可以通过错误提示中的“Send Feedback”按钮反馈错误判断。"
         }
       ]
+    },
+    "movies/movies-ayer-acme-greybox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
+        },
+        {
+          "t": "p",
+          "x": "David Ayer将以负责人兼执行合伙人身份加入ACME AI，并参与公司运营。ACME由Relativity Media前联合创始人Ryan Kavanaugh创立，其“Grey Box”技术让导演和演员无需远行，就能拍出以遥远异地为背景的完整场景。"
+        },
+        {
+          "t": "p",
+          "x": "这项技术被称为表演迁移：它保留above-the-line的创作工作，同时大幅减少大部分below-the-line工作的需求与开支，本质上是一块适用于一切的数字绿幕。批评者认为，它可能让实景拍摄的魔力消失，并损害片场工作人员的生计。"
+        },
+        {
+          "t": "p",
+          "x": "“作为讲故事的人，我一半的工作是为预算争论，”Ayer说，“这让许多故事变得触手可及。”ACME认为，其技术可将时间和成本降低50%至75%。公司为提升照片级真实感，对大量镜头和灯光组合进行了映射，并结合了重建物理世界的模型。Grey Box目前设在Los Angeles的专用摄影棚，公司将把这项技术租给制片厂。"
+        },
+        {
+          "t": "p",
+          "x": "Doug Liman近期使用ACME的Grey Box完成了由Casey Affleck主演的加密货币剧情片《Bitcoin》的拍摄。Ayer表示，他有多个开发中的项目可以转用Grey Box。"
+        }
+      ]
+    },
+    "movies/movies-adobe-live-set-sneak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+          "cap": "图片由Adobe提供"
+        },
+        {
+          "t": "p",
+          "x": "Adobe展示了一项新功能，让创作者几乎在视频播放的同时，用AI-generated特效修改现有视频。在Adobe MAX 2026大会的Sneaks环节上，公司将预览Project Live Set：视频剪辑师可以在场景持续进行时更换主体、改变环境、加入参考角色或调整镜头方向，并实时看到结果。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe视频与音频研究组负责人Gautham Mysore表示，Project Live Set是早期研究预览，Adobe不会透露其底层模型的细节。他说：“Project Live Set将让创作者和电影人以思考的速度生成和编辑视频。如今，视频创作过程中很大一部分是在等待，这会打断创作的流畅。”"
+        },
+        {
+          "t": "p",
+          "x": "演示同时用四条提示词改造一段黑猫视频——从“给猫戴上厨师帽”到“把猫换成穿燕尾服的小狗”。今年的Sneaks环节由Terry Crews于Nov. 11主持，预览10项创新；它们是研究预览，而非对未来产品功能的承诺。"
+        }
+      ]
+    },
+    "movies/movies-kocca-ai-showcase-64": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+          "cap": "‘AI CREATOR SHOWCASE 2026’展位全景（图：韩国文化内容振兴院）"
+        },
+        {
+          "t": "p",
+          "x": "运用人工智能(AI)的电影、动画以及虚拟现实(VR)·扩展现实(XR)内容等64个创作项目公开亮相。韩国文化体育观光部与韩国文化内容振兴院17日表示，12日至14日在首尔COEX The Plats厅和Megabox COEX店举行的“AI创作者展示会 2026”，3天内共吸引2,354人参观。"
+        },
+        {
+          "t": "p",
+          "x": "展览介绍了新内容学院第3期的9个项目，以及AI特化内容专业人才培养项目的55个项目。参与专业人才培养项目的有首尔大学文化艺术院、KAIST和韩国艺术综合学校产学合作团。"
+        },
+        {
+          "t": "p",
+          "x": "在联合研讨会上，韩国艺术综合学校教授李承武与电视剧《背着善宰跑》导演金泰烨基于历时6个月的策划与开发案例，分享了在实际创作过程中运用AI技术的经验。在13日放映会之前举行的颁奖典礼上，14部优秀作品获奖。"
+        },
+        {
+          "t": "p",
+          "x": "韩国文化内容振兴院院长金允智表示：“生成式AI正在迅速改变整个内容产业，但竞争力的核心在于理解技术并能将其转化为内容的人。”"
+        }
+      ]
+    },
+    "movies/movies-transn-ai-microdrama-dub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
+        },
+        {
+          "t": "p",
+          "x": "中国LSI企业Transn借助AI结合人工审校，已为逾20,000部微短剧配音，将制作周期缩短至数天。随着配音收入增长，该公司正面临价格下跌的压力。"
+        }
+      ]
+    },
+    "movies/equity-pact-ai-offer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "双方首次坐上谈判桌近三年后，英国演员工会Equity将制片商行业组织Pact的最终方案提交给8,000名演员会员表决，并建议投“赞成”票。该协议覆盖2027年1月1日至2029年12月31日期间英国大多数剧集和电影，但一再拖慢进程的正是人工智能。"
+        },
+        {
+          "t": "p",
+          "x": "Equity表示，AI部分“已显著改善”，包含四个方面：对数字复制体的创建与使用的保护、对表演数字修改的保护、针对“Synthetics”的保护，以及围绕AI训练授权的义务。演员将“在数字复制体被使用时享有获得报酬的权利”，并有权同意其使用；制片方“不能获得一揽子同意”，只能针对具体项目取得同意。Equity未能争取到“数字复制体删除”或常规CGI/VFX扫描方面的保护。"
+        },
+        {
+          "t": "p",
+          "x": "协议还包括：预算超过£50M ($66M) 的电影片酬上调24%，流媒体平台使用费提高3个百分点，自拍试镜视频设72小时通知期。秘书长Paul W Fleming表示：“我们拿到了业内最好的AI条款。”"
+        }
+      ]
     }
   }
 }

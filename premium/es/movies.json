@@ -11182,6 +11182,108 @@
           "x": "Persisten limitaciones: los modelos de terceros en Runway aplican su propia moderación, los LLMs aún cometen errores y la falta de contexto hace que a veces se bloquee un uso legítimo. Los usuarios pueden señalar decisiones erróneas con el botón “Send Feedback” del mensaje de error."
         }
       ]
+    },
+    "movies/movies-ayer-acme-greybox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810"
+        },
+        {
+          "t": "p",
+          "x": "David Ayer se incorpora a ACME AI como directivo y socio gerente, y participará en las operaciones de la firma. Fundada por Ryan Kavanaugh, excofundador de Relativity Media, ACME y su tecnología “Grey Box” permiten a directores y actores rodar escenas completas en lugares remotos sin desplazarse."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología se conoce como transferencia de interpretación: mantiene intacto el trabajo above-the-line y reduce de forma drástica la necesidad y el costo de gran parte del trabajo below-the-line; en esencia, una pantalla verde digital, pero para todo. Los críticos señalan que corre el riesgo de perder la magia de las locaciones reales y que perjudica el sustento de los trabajadores en el set."
+        },
+        {
+          "t": "p",
+          "x": "“Como narrador, la mitad de mi trabajo es litigar por el presupuesto”, dice Ayer. “Esto pone muchísimas historias al alcance de la mano.” ACME cree que su tecnología puede reducir tiempo y dinero entre un 50 y un 75 por ciento. Mapeó numerosos lentes y paquetes de iluminación para lograr mayor fotorrealismo, combinados con modelos que recrean el mundo físico. Grey Box se encuentra actualmente en Los Angeles, en un estudio dedicado, y la empresa alquilará la tecnología a los estudios."
+        },
+        {
+          "t": "p",
+          "x": "Doug Liman terminó hace poco el rodaje del drama sobre criptomonedas Bitcoin, protagonizado por Casey Affleck, con el Grey Box de ACME. Ayer afirma que tiene varios proyectos en desarrollo que pueden redirigirse al Grey Box."
+        }
+      ]
+    },
+    "movies/movies-adobe-live-set-sneak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=667&crop=1",
+          "cap": "Cortesía de Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Adobe muestra una nueva función que permite modificar un video existente con efectos generados por AI (AI-generated) prácticamente mientras se reproduce. En el panel Sneaks de la conferencia Adobe MAX 2026, la compañía presentará Project Live Set: los editores de video podrán cambiar un sujeto, transformar un entorno, introducir un personaje de referencia o redirigir la cámara mientras la escena continúa, y ver los resultados en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Project Live Set es una vista previa de investigación en fase temprana, y Adobe no comparte detalles sobre los modelos subyacentes, explicó Gautham Mysore, líder del grupo de investigación de video y audio de Adobe. “Project Live Set permitirá a creadores y cineastas generar y editar video a la velocidad del pensamiento”, afirmó. “Hoy, gran parte del proceso de creación de video consiste en esperar. Eso rompe el flujo creativo.”"
+        },
+        {
+          "t": "p",
+          "x": "La demostración transforma un video de un gato negro con cuatro prompts a la vez, desde “ponle un gorro de chef al gato” hasta “cambia el gato por un cachorro con esmoquin”. Presentada por Terry Crews el 11 de noviembre, la sesión Sneaks de este año adelanta 10 innovaciones; son vistas previas de investigación y no compromisos de futuras funciones de producto."
+        }
+      ]
+    },
+    "movies/movies-kocca-ai-showcase-64": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+          "cap": "Vista de los stands de ‘AI CREATOR SHOWCASE 2026’ (Foto: KOCCA)"
+        },
+        {
+          "t": "p",
+          "x": "Se presentaron 64 proyectos creativos que usan inteligencia artificial (AI), entre ellos películas, animación y contenidos de realidad virtual (VR) y realidad extendida (XR). El Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos (KOCCA) informaron el día 17 que ‘AI Creator Showcase 2026’, celebrado del 12 al 14 en The Plats Hall de COEX y en Megabox COEX, en Seúl, recibió un total de 2,354 visitantes en 3 días."
+        },
+        {
+          "t": "p",
+          "x": "La exposición presentó 9 proyectos de la 3.ª promoción de la New Content Academy y 55 proyectos del programa de formación de profesionales de contenidos especializados en AI. En el programa participaron el Instituto de Cultura y Artes de la Universidad Nacional de Seúl, KAIST y la fundación de cooperación universidad-industria de la Universidad Nacional de Artes de Corea."
+        },
+        {
+          "t": "p",
+          "x": "En un simposio conjunto, el profesor Lee Seung-moo, de la Universidad Nacional de Artes de Corea, y el director Kim Tae-yeop, de la serie ‘Lovely Runner’, compartieron su experiencia con la tecnología AI en procesos creativos reales, a partir de un caso de planificación y desarrollo de 6 meses. En la ceremonia de premios previa a la proyección del día 13 se galardonó a 14 obras destacadas."
+        },
+        {
+          "t": "p",
+          "x": "Kim Yun-ji, presidente de la Agencia Coreana de Contenidos Creativos, afirmó: “La AI generativa está transformando con rapidez toda la industria de contenidos, pero la clave de la competitividad está en las personas que entienden la tecnología y saben convertirla en contenido”."
+        }
+      ]
+    },
+    "movies/movies-transn-ai-microdrama-dub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png"
+        },
+        {
+          "t": "p",
+          "x": "La LSI china Transn ha doblado más de 20,000 microdramas con AI y revisión humana, lo que reduce el tiempo de producción a días. Aunque sus ingresos por doblaje crecen, la empresa enfrenta la presión de la caída de precios."
+        }
+      ]
+    },
+    "movies/equity-pact-ai-offer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Casi tres años después de sentarse a negociar por primera vez, el sindicato británico de actores Equity somete la oferta final de la patronal de productores Pact a sus 8,000 actores afiliados, con la recomendación de votar “sí”. El acuerdo cubre la mayoría de las series y películas británicas desde el 1 de enero de 2027 hasta el 31 de diciembre de 2029, pero ha sido la inteligencia artificial la que ha retrasado el proceso una y otra vez."
+        },
+        {
+          "t": "p",
+          "x": "Equity afirmó que el apartado de AI ha “mejorado significativamente” y tiene cuatro ejes: protecciones para la creación y el uso de réplicas digitales, para las alteraciones digitales de una interpretación, frente a los “Synthetics”, y obligaciones sobre las licencias de entrenamiento de AI. Los actores tendrán “derecho a cobrar cuando se use su réplica digital” y a consentir su uso, y un productor “no puede obtener un consentimiento general”, solo para proyectos concretos. Equity no logró protecciones para la “eliminación de réplicas digitales” ni para el escaneo habitual de CGI/VFX."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo incluye además una subida del 24% en las tarifas de las películas con presupuesto superior a £50M ($66M), un aumento de 3 puntos porcentuales en las tarifas por uso en plataformas de streaming y un plazo de aviso de 72 horas para las self-tapes. El secretario general, Paul W Fleming: “Hemos logrado las mejores disposiciones sobre AI del sector”."
+        }
+      ]
     }
   }
 }

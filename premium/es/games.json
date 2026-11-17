@@ -11556,6 +11556,197 @@
           "x": "Wccftech señala que probablemente se refería al renderizado neuronal en un sentido amplio, que incluye el escalado AI-powered, la generación de fotogramas y la reconstrucción de rayos, y no a un enfoque similar a DLSS 5 de NVIDIA. Los detalles completos podrían tardar, dados los rumores de que la consola se ha retrasado a la temporada navideña de 2028."
         }
       ]
+    },
+    "games/games-mihoyo-gamer-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1220393.webp"
+        },
+        {
+          "t": "p",
+          "x": "En Honkai: Star Rail, la verificación se habría hecho con 2 misiones secundarias y 7 minijuegos."
+        },
+        {
+          "t": "p",
+          "x": "El 13 de noviembre, el equipo de investigación de miHoYo, creador de Genshin Impact, publicó en arXiv un artículo sobre “Gamer”, un agente AI de propósito general capaz de jugar a juegos muy distintos."
+        },
+        {
+          "t": "p",
+          "x": "“Gamer” es una AI que juega de forma autónoma: a partir de lo que aparece en la pantalla del juego, maneja el teclado y el ratón para mover personajes, avanzar en las conversaciones y más."
+        },
+        {
+          "t": "p",
+          "x": "Para desarrollar Gamer, el equipo partió del modelo AI “Qwen3-VL (8B)”, publicado por Alibaba, y usó decenas de miles de horas de partidas grabadas para enseñarle qué teclas y movimientos de ratón corresponden a cada situación en pantalla."
+        },
+        {
+          "t": "p",
+          "x": "Después, añadieron a las grabaciones explicaciones de “para qué se hizo cada acción” para que aprendiera conductas orientadas a objetivos; más tarde dejaron que la propia AI jugara y aplicaron “aprendizaje por refuerzo”, con el que aprende por ensayo y error qué acciones llevan a cumplir sus objetivos."
+        },
+        {
+          "t": "video",
+          "yt": "4DA0674x1NI"
+        },
+        {
+          "t": "p",
+          "x": "Para medir el rendimiento de Gamer se usaron Honkai: Star Rail y entornos como ViZDoom, un entorno de investigación basado en DOOM. En Honkai: Star Rail, el equipo evaluó a Gamer tras el aprendizaje por refuerzo con 2 misiones secundarias y 7 minijuegos que no se usaron en el entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "En las misiones secundarias se evaluó uno por uno cada objetivo intermedio necesario para avanzar, como ir a un lugar indicado o hablar con un personaje. Los resultados son los siguientes."
+        },
+        {
+          "t": "p",
+          "x": "Misión secundaria “Quien guarda mal invita al robo, parte 1”: tasa de objetivos intermedios cumplidos 80.0% / Misión secundaria “Los animales son feroces”: tasa de objetivos intermedios cumplidos 83.6% / 7 minijuegos: tasa media de éxito 49.7% (GPT-6.1-Sol obtuvo 17.1% en la misma evaluación)"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220311.png",
+          "cap": "Tasa de objetivos intermedios cumplidos por modelo en las 2 misiones secundarias. “Gamer-RL” en la tabla es el resultado tras el aprendizaje por refuerzo"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220312.png",
+          "cap": "Los 7 minijuegos de Honkai: Star Rail usados para evaluar a Gamer"
+        },
+        {
+          "t": "p",
+          "x": "El equipo citó como posible uso de Gamer las pruebas automatizadas en el desarrollo de juegos. En concreto, podría servir para comprobar que las misiones avanzan con normalidad o para pruebas de regresión del contenido existente tras una actualización."
+        },
+        {
+          "t": "p",
+          "x": "La página del proyecto también muestra vídeos de Gamer jugando a Honkai: Star Rail."
+        }
+      ]
+    },
+    "games/games-ashes-singularity2-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rYxAXFKHCxrG3NcDcXa2sj-1920-80.png",
+          "cap": "Arte clave de Ashes 2"
+        },
+        {
+          "t": "p",
+          "x": "Ashes of the Singularity 2 tiene algunas buenas ideas para gestionar ejércitos, pero una campaña pobre, una nueva facción decepcionante y un uso intrusivo de AI generativa lastran el conjunto."
+        },
+        {
+          "t": "p",
+          "x": "La secuela RTS cumple la promesa de dejar al jugador controlar ejércitos realmente colosales, y el sistema de ejércitos de Oxide Games hace que manejarlos sea notablemente fácil. Pero la campaña es pésima, la historia roza lo incomprensible y toda la experiencia queda ensombrecida por el fantasma de la AI generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EeBFdH8utGzC8QeqYmt3VK.jpg",
+          "cap": "Combate en Ashes of the Singularity 2"
+        },
+        {
+          "t": "p",
+          "x": "Las 10 misiones de la campaña se centran solo en la nueva facción United Earth Forces; el resultado son cuatro, quizá cinco horas de campaña aceptable."
+        },
+        {
+          "t": "p",
+          "x": "Irónicamente, la historia es también donde más se nota el uso de AI generativa por parte de Oxide. Según la declaración de AI de Ashes 2 en Steam, Oxide usó AI para “aplicar efectos de posprocesado y animación al arte creado por artistas humanos de Stardock en algunas cinemáticas de la campaña”, mientras que “algunas cinemáticas usan recursos 3D hechos por artistas humanos de Stardock con AI para componer el plano final”. Por último, “algunas frases de unidades, notificaciones y unos pocos personajes secundarios usan voces de stock pregeneradas de ElevenLabs”."
+        },
+        {
+          "t": "p",
+          "x": "El reseñista duda de que ese sea el límite del uso de AI de Oxide: todos los retratos de personajes parecen generados por AI, con un “horrible brillo plástico de AI”, y las voces suenan igual de contaminadas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fkNThBX42d56TZiv56LVUK.jpg",
+          "cap": "Combate en Ashes of the Singularity 2"
+        },
+        {
+          "t": "p",
+          "x": "El modo escaramuza es mejor, pero los mapas son genéricos y las batallas dependen demasiado del desgaste. “Con más cuidado y tiempo (y menos AI generativa), creo que podría haber sido un gran RTS”."
+        }
+      ]
+    },
+    "games/games-solo-ai-makers-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2026/11/AI-games-app-store-google-play.jpg?fit=1200%2C542&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Los juegos creados con herramientas de AI como Claude Code están inundando las tiendas de aplicaciones, pero muy pocos parecen generar ingresos o descargas significativos. mobilegamer.biz preguntó a los creadores que le escribieron por correo sobre sus juegos hechos con IA (AI-made) cuántas descargas habían obtenido y si habían ganado algo de dinero."
+        },
+        {
+          "t": "p",
+          "x": "En algunos casos, aficionados han gastado miles en tokens de Claude para crear su juego y prácticamente no han obtenido retorno. Una excepción: el juego de draft de fútbol 38-0-0, cuyo creador, Deniz Sancar, afirma que gana lo suficiente como para \"vivir de ello a tiempo completo\"; suma unas 300k descargas en iOS y más de 700k en Android."
+        },
+        {
+          "t": "p",
+          "x": "Tennis Tycoon, creado en Claude por un tenista profesional retirado, acumula ventas de unos $3k, aunque costó miles en tokens. Sprout: Cozy Idle Garden tuvo 121 descargas y \"unos $6 de ingresos\". Zen Ten Match tuvo 74 jugadores y \"unos $3\" en sus primeras tres semanas. Calc Quest superó los 25k jugadores, pero ha ganado alrededor de $120."
+        },
+        {
+          "t": "p",
+          "x": "Ivan Soyer gastó $1500 en herramientas de AI y tokens para crear Dusk Climber: 1,000 descargas y todavía ningún ingreso. HotShot: Fireball Pool ha ganado £0."
+        },
+        {
+          "t": "p",
+          "x": "Las cifras son contundentes: ahora mismo simplemente no existe un mercado viable para este tipo de juegos."
+        }
+      ]
+    },
+    "games/games-steam-direct-fee-x25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/ogp_f/1220306.png"
+        },
+        {
+          "t": "video",
+          "yt": "8Irk0xZgBKA"
+        },
+        {
+          "t": "p",
+          "x": "Mike Rose, fundador de la editora independiente No More Robots, y Rami Ismail, cofundador del estudio independiente Vlambeer, plantearon el 16 de noviembre en su canal de YouTube “Mike & Rami Are Still Here” la idea de subir la tarifa de solicitud y registro de juegos en Steam a 2,500 dólares (unos 400,000 yenes), 25 veces la actual."
+        },
+        {
+          "t": "p",
+          "x": "Según Rose, en 2024 Steam recibía una media de 1,200 juegos nuevos al mes, pero en la primera mitad de 2026 fueron unos 2,000 al mes, 2,800 en septiembre y 3,600 en octubre, casi el doble que a principios de año. Los resultados de la revisión, que solían llegar en 3 a 5 días, ahora tardan cerca de 1 mes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1220307.jpg",
+          "cap": "«MANIFESTO: The Capitalism Roguelike»"
+        },
+        {
+          "t": "p",
+          "x": "El programa sostuvo que la causa principal de que se duplicaran los lanzamientos es la producción masiva de juegos de baja calidad con AI generativa. Ismail citó una encuesta a 100 estudios de desarrollo en la que el 92% dijo usar AI de alguna forma, y afirmó que Valve no quiere fijar una postura sobre el uso de AI."
+        },
+        {
+          "t": "p",
+          "x": "Como la tarifa actual de 100 dólares por título (Steam Direct Fee) deja el coste de entrada demasiado bajo, surgió incluso la idea de “subirla a 2,500 dólares”. “Gabe (Newell) seguro que quiere más dinero, así que multiplicar la tarifa por 25 es una buena idea”, dijo Ismail con ironía."
+        }
+      ]
+    },
+    "games/unity-cli-ga-release": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El 15 de julio de 2026 llevamos Unity a la terminal. Hoy, en Unite Tokyo, el Unity CLI y el paquete Pipeline (com.unity.pipeline) salen de la beta. La versión 1.0 está lista para tus proyectos, tus máquinas de compilación y tus agentes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/3308f9f8397d3f9eadf3a91ccd3de3754fd82400-1609x978.png",
+          "cap": "Unity CLI 1.0"
+        },
+        {
+          "t": "p",
+          "x": "La beta era un único binario que instala y gestiona Unity Editors, módulos y proyectos desde la terminal; el paquete Pipeline permite que el CLI controle un Editor en ejecución, de modo que un script o un agente pueda abrir un proyecto, ejecutar un comando y comprobar el resultado. Unity Hub ahora instala el CLI, y los plugins oficiales de Unity para Claude Code, Codex, Grok Build y Google Antigravity dan a esos agentes habilidades escritas por los propios equipos de Unity. Se publicaron más de 17 versiones beta."
+        },
+        {
+          "t": "p",
+          "x": "Desde el 20 de julio, más de 350,000 usuarios con sesión iniciada han ejecutado más de 600 millones de comandos con el Unity CLI. Cerca del 98% de esas ejecuciones proviene de agentes de programación y otras automatizaciones."
+        },
+        {
+          "t": "p",
+          "x": "La 1.0 también es un compromiso: los comandos, las flags y la salida seguirán siendo compatibles en todas las versiones 1.x. La licencia de Build Server ahora cubre agentes y automatización, no solo compilaciones: una licencia por instancia permite ejecutar agentes en un Editor headless o en un contenedor. Próximamente: el Editor en contenedor para Linux. Después: comandos para AI Generators, Live Games y Build Automation, y cuentas pensadas para agentes."
+        }
+      ]
     }
   }
 }

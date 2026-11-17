@@ -1,6 +1,31 @@
-{"date":"2026-11-17","section":"books","media":[
- {"id":"audible-audio-discovery","type":"video","src":"pipeline/media/audible-audio-discovery.mp4","poster":"pipeline/media/audible-audio-discovery.jpg"},
- {"id":"janefriedman-ai-writing-business","type":"image","src":"pipeline/media/janefriedman-ai-writing-business.png"},
- {"id":"scholarly-ai-usage-metrics","type":"image","src":"pipeline/media/scholarly-ai-usage-metrics.jpg"},
- {"id":"scholarly-governed-ai-practice","type":"image","src":"pipeline/media/scholarly-governed-ai-practice.jpg"}
-]}
+{
+  "date": "2026-11-18",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-anthropic-payout-deadline",
+      "type": "image",
+      "src": "pipeline/media/books-anthropic-payout-deadline.jpg"
+    },
+    {
+      "id": "books-rte-oireachtas-scanning",
+      "type": "image",
+      "src": "pipeline/media/books-rte-oireachtas-scanning.jpg"
+    },
+    {
+      "id": "books-ajunews-ai-manuscripts",
+      "type": "image",
+      "src": "pipeline/media/books-ajunews-ai-manuscripts.jpg"
+    },
+    {
+      "id": "books-tcj-manga-translation",
+      "type": "image",
+      "src": "pipeline/media/books-tcj-manga-translation.jpg"
+    },
+    {
+      "id": "books-hankyung-ai-collective-licensing",
+      "type": "image",
+      "src": "pipeline/media/books-hankyung-ai-collective-licensing.png"
+    }
+  ]
+}

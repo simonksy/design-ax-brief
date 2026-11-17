@@ -1,158 +1,158 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "movies",
   "picks": [
     {
-      "title": "Final Equity-Pact Deal Offer Includes AI Provisions, Streamer Residuals",
-      "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/",
-      "source": "Deadline",
+      "title": "Make an AI Short Film in Claude | Runway MCP",
+      "url": "https://www.youtube.com/watch?v=V7YAhthJCh0",
+      "source": "Runway (YouTube)",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A new contract offer: UK actors' union Equity sends Pact's final 2027-2029 TV and film offer to members with a 'yes' recommendation. Its four-part AI section covers digital replicas, digital alteration of performances, 'Synthetics' and AI training licensing, the rules UK productions would work under.",
-      "published_iso": "2026-11-16T13:39:23+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024",
-      "excerpt": "UK actors union Equity is taking Pact's final offer for UK TV and film (2027-2029) to its 8,000 members with a 'yes' recommendation; its four-pronged AI section covers digital replicas, digital alteration of performances, 'Synthetics' and AI training licensing."
+      "rationale": "A hands-on primary-source workflow: Runway shows how to go from director's notes to storyboards, references, a shot list and multi-shot scenes inside Claude using the Runway MCP. Filmmakers can try it tomorrow.",
+      "published_iso": "2026-11-16T08:55:29-08:00",
+      "og_image": "https://i.ytimg.com/vi/V7YAhthJCh0/maxresdefault.jpg",
+      "excerpt": "Runway walks through making a complete micro film with Claude and the Runway MCP: director's notes, storyboards, character and location references, a four-scene shot list, then multi-shot scene generation in draft mode."
     },
     {
-      "title": "French Movie Regulator Won't Fund AI Dubbing and Subtitling",
-      "url": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
-      "source": "Slator",
+      "title": "David Ayer to Become a Partner at Ryan Kavanaugh's New Location-Defying AI Company (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/david-ayer-acme-ai-grey-box-locations-1236756850/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A regulator funding rule: since Nov. 1, CNC-funded dubbing, subtitling and audio-description work must involve at least one human author. This directly changes how French productions can use AI localisation.",
-      "published_iso": "2026-11-16T10:15:25+00:00",
-      "og_image": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-      "excerpt": "France's CNC will no longer fund dubbing, subtitling or audio-description projects made without human creators; from Nov. 1 funded films, series, games and animation must involve at least one (graphic) author, though AI tools are not banned outright."
+      "rationale": "A working director backs ACME AI's 'Grey Box' production method: shoot on a grey stage and generate the locations with AI. Ayer argues this makes many location shoots unnecessary, which would change how productions are planned.",
+      "published_iso": "2026-11-17T16:30:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810",
+      "excerpt": "Director David Ayer is joining Ryan Kavanaugh's ACME AI as principal and managing partner; its 'Grey Box' tech lets directors shoot on a grey stage and generate locations with AI, which Ayer says makes many location shoots moot."
     },
     {
-      "title": "HPA NET Roundtable: AI as a Second Unit",
-      "url": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/",
-      "source": "postPerspective",
+      "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
+      "url": "https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Practical guidance from post supervisors: treat AI as a 'second unit' with a defined brief. Retakes are the real cost of an AI shot, and AI is landing first in background removal, uprez and set extensions.",
-      "published_iso": "2026-11-16T22:23:25+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg",
-      "excerpt": "HPA's October NET Roundtables framed AI as a 'second unit' that works on a defined brief while humans stay in charge; post supervisors agreed retakes are the real cost of an AI shot, that AI is landing first in background removal, uprez and set extensions, and that local AI plus content credentials matter."
+      "rationale": "Adobe's Project Live Set research sneak generates and edits AI video effects while the footage plays. This is a distinct MAX item from the Premiere Color Mode/MCP release card of 11-11.",
+      "published_iso": "2026-11-11T14:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=563&crop=1",
+      "excerpt": "Adobe's Project Live Set research sneak lets creators generate and edit AI video effects while the footage is playing."
     },
     {
-      "title": "Virtual Content Creator Roundtable",
-      "url": "https://postperspective.com/virtual-content-creator-roundtable/",
-      "source": "postPerspective",
+      "title": "AI로 만든 영화·애니메이션 등 64개 작품 공개…콘진원, 콘텐츠 창작 인재 양성 성과 선보여",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42753",
+      "source": "인공지능신문",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Blackmagic describes a new DaVinci Resolve feature that lets AI assistants such as Claude and ChatGPT Codex build highlight edits, remove clips and render deliverables. Editors can try agent-driven editing in Resolve now.",
-      "published_iso": "2026-11-16T18:18:47+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/JLI-2026-0069_Josh-Liljenquist_James-Cowan-Jr_39604-Check_2026-02-04-copy.jpg",
-      "excerpt": "Vendors and creators on how social creators adopt film/episodic workflows; Blackmagic points to a new DaVinci Resolve feature that lets AI assistants such as Claude and ChatGPT Codex build highlight edits, remove clips and render deliverables, while others cite agentic AI for footage organization and rough cuts."
+      "rationale": "A government-backed AI Creator Showcase 2026 screened 64 AI short films and animations to 2,354 visitors. Working directors, including Kim Tae-yeop of 'Lovely Runner', described how they actually use AI when making their work.",
+      "published_iso": "2026-11-17T09:26:14+09:00",
+      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+      "excerpt": "문체부·한국콘텐츠진흥원의 'AI 크리에이터 쇼케이스 2026'(11/12-14, 코엑스·메가박스)에서 AI 단편영화·애니메이션 등 64개 프로젝트가 공개됐고 2,354명이 찾았다. '선재 업고 튀어' 김태엽 감독 등이 실제 창작 과정의 AI 활용 경험을 공유했다."
     },
     {
-      "title": "경민대, 극장용 AI 애니메이션 제작 산학 협력",
-      "url": "https://www.yna.co.kr/view/AKR20261116073300060",
-      "source": "연합뉴스",
+      "title": "Chinese Dubbing Firm Reaps AI Savings, Faces Pricing Pressure",
+      "url": "https://slator.com/transn-ai-dubbing-costs-fall/",
+      "source": "Slator",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A new Korean theatrical AI project: students will work on 'Jonah', an AI biblical musical animation targeting a late-2027 release. Studio Cinetics is the AI tech partner.",
-      "published_iso": "2026-11-16T11:21:04+09:00",
-      "og_image": "https://www.segye.com/content/image/2026/11/16/20261116511185.png",
-      "excerpt": "경민대가 강단스튜디오·스튜디오시네틱스와 협약을 맺고 극장용 AI 성경 뮤지컬 애니메이션 '요나'(2027년 하반기 개봉 목표) 제작에 재학생을 참여시킨다. 스튜디오시네틱스가 AI 기술 파트너를 맡는다."
+      "rationale": "Concrete production data: Transn has AI-dubbed more than 20,000 microdramas with human review, cutting turnaround to days. Falling per-title prices show what AI localisation is doing to dubbing economics.",
+      "published_iso": "2026-11-17T09:25:00+00:00",
+      "og_image": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png",
+      "excerpt": "Chinese language-services integrator Transn has dubbed more than 20,000 microdramas using AI with human review, cutting production time to days, but falling dubbing prices are squeezing it as revenue grows."
     }
   ],
   "items": [
     {
-      "title": "Final Equity-Pact Deal Offer Includes AI Provisions, Streamer Residuals",
-      "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/",
-      "source": "Deadline",
+      "title": "Make an AI Short Film in Claude | Runway MCP",
+      "url": "https://www.youtube.com/watch?v=V7YAhthJCh0",
+      "source": "Runway (YouTube)",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A new contract offer: UK actors' union Equity sends Pact's final 2027-2029 TV and film offer to members with a 'yes' recommendation. Its four-part AI section covers digital replicas, digital alteration of performances, 'Synthetics' and AI training licensing, the rules UK productions would work under.",
-      "published_iso": "2026-11-16T13:39:23+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/DSCF9690.jpeg?w=1024",
-      "excerpt": "UK actors union Equity is taking Pact's final offer for UK TV and film (2027-2029) to its 8,000 members with a 'yes' recommendation; its four-pronged AI section covers digital replicas, digital alteration of performances, 'Synthetics' and AI training licensing."
+      "rationale": "A hands-on primary-source workflow: Runway shows how to go from director's notes to storyboards, references, a shot list and multi-shot scenes inside Claude using the Runway MCP. Filmmakers can try it tomorrow.",
+      "published_iso": "2026-11-16T08:55:29-08:00",
+      "og_image": "https://i.ytimg.com/vi/V7YAhthJCh0/maxresdefault.jpg",
+      "excerpt": "Runway walks through making a complete micro film with Claude and the Runway MCP: director's notes, storyboards, character and location references, a four-scene shot list, then multi-shot scene generation in draft mode."
     },
     {
-      "title": "French Movie Regulator Won't Fund AI Dubbing and Subtitling",
-      "url": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
-      "source": "Slator",
+      "title": "David Ayer to Become a Partner at Ryan Kavanaugh's New Location-Defying AI Company (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/david-ayer-acme-ai-grey-box-locations-1236756850/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A regulator funding rule: since Nov. 1, CNC-funded dubbing, subtitling and audio-description work must involve at least one human author. This directly changes how French productions can use AI localisation.",
-      "published_iso": "2026-11-16T10:15:25+00:00",
-      "og_image": "https://slator.com/assets/2026/11/velora-473c5db10304df06.png",
-      "excerpt": "France's CNC will no longer fund dubbing, subtitling or audio-description projects made without human creators; from Nov. 1 funded films, series, games and animation must involve at least one (graphic) author, though AI tools are not banned outright."
+      "rationale": "A working director backs ACME AI's 'Grey Box' production method: shoot on a grey stage and generate the locations with AI. Ayer argues this makes many location shoots unnecessary, which would change how productions are planned.",
+      "published_iso": "2026-11-17T16:30:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ayerbeast.jpg?crop=0px%2C0px%2C3000px%2C1679px&resize=1440%2C810",
+      "excerpt": "Director David Ayer is joining Ryan Kavanaugh's ACME AI as principal and managing partner; its 'Grey Box' tech lets directors shoot on a grey stage and generate locations with AI, which Ayer says makes many location shoots moot."
     },
     {
-      "title": "HPA NET Roundtable: AI as a Second Unit",
-      "url": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/",
-      "source": "postPerspective",
+      "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
+      "url": "https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Practical guidance from post supervisors: treat AI as a 'second unit' with a defined brief. Retakes are the real cost of an AI shot, and AI is landing first in background removal, uprez and set extensions.",
-      "published_iso": "2026-11-16T22:23:25+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/HPA-NET-Roundtable-Oct-6-2026-IMG_1847-copy-1.jpg",
-      "excerpt": "HPA's October NET Roundtables framed AI as a 'second unit' that works on a defined brief while humans stay in charge; post supervisors agreed retakes are the real cost of an AI shot, that AI is landing first in background removal, uprez and set extensions, and that local AI plus content credentials matter."
+      "rationale": "Adobe's Project Live Set research sneak generates and edits AI video effects while the footage plays. This is a distinct MAX item from the Premiere Color Mode/MCP release card of 11-11.",
+      "published_iso": "2026-11-11T14:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Adobe-Project-Live-Set.png?w=1000&h=563&crop=1",
+      "excerpt": "Adobe's Project Live Set research sneak lets creators generate and edit AI video effects while the footage is playing."
     },
     {
-      "title": "Virtual Content Creator Roundtable",
-      "url": "https://postperspective.com/virtual-content-creator-roundtable/",
-      "source": "postPerspective",
+      "title": "AI로 만든 영화·애니메이션 등 64개 작품 공개…콘진원, 콘텐츠 창작 인재 양성 성과 선보여",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42753",
+      "source": "인공지능신문",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Blackmagic describes a new DaVinci Resolve feature that lets AI assistants such as Claude and ChatGPT Codex build highlight edits, remove clips and render deliverables. Editors can try agent-driven editing in Resolve now.",
-      "published_iso": "2026-11-16T18:18:47+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/JLI-2026-0069_Josh-Liljenquist_James-Cowan-Jr_39604-Check_2026-02-04-copy.jpg",
-      "excerpt": "Vendors and creators on how social creators adopt film/episodic workflows; Blackmagic points to a new DaVinci Resolve feature that lets AI assistants such as Claude and ChatGPT Codex build highlight edits, remove clips and render deliverables, while others cite agentic AI for footage organization and rough cuts."
+      "rationale": "A government-backed AI Creator Showcase 2026 screened 64 AI short films and animations to 2,354 visitors. Working directors, including Kim Tae-yeop of 'Lovely Runner', described how they actually use AI when making their work.",
+      "published_iso": "2026-11-17T09:26:14+09:00",
+      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42753_64239_266.png",
+      "excerpt": "문체부·한국콘텐츠진흥원의 'AI 크리에이터 쇼케이스 2026'(11/12-14, 코엑스·메가박스)에서 AI 단편영화·애니메이션 등 64개 프로젝트가 공개됐고 2,354명이 찾았다. '선재 업고 튀어' 김태엽 감독 등이 실제 창작 과정의 AI 활용 경험을 공유했다."
     },
     {
-      "title": "경민대, 극장용 AI 애니메이션 제작 산학 협력",
-      "url": "https://www.yna.co.kr/view/AKR20261116073300060",
-      "source": "연합뉴스",
+      "title": "Chinese Dubbing Firm Reaps AI Savings, Faces Pricing Pressure",
+      "url": "https://slator.com/transn-ai-dubbing-costs-fall/",
+      "source": "Slator",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A new Korean theatrical AI project: students will work on 'Jonah', an AI biblical musical animation targeting a late-2027 release. Studio Cinetics is the AI tech partner.",
-      "published_iso": "2026-11-16T11:21:04+09:00",
-      "og_image": "https://www.segye.com/content/image/2026/11/16/20261116511185.png",
-      "excerpt": "경민대가 강단스튜디오·스튜디오시네틱스와 협약을 맺고 극장용 AI 성경 뮤지컬 애니메이션 '요나'(2027년 하반기 개봉 목표) 제작에 재학생을 참여시킨다. 스튜디오시네틱스가 AI 기술 파트너를 맡는다."
+      "rationale": "Concrete production data: Transn has AI-dubbed more than 20,000 microdramas with human review, cutting turnaround to days. Falling per-title prices show what AI localisation is doing to dubbing economics.",
+      "published_iso": "2026-11-17T09:25:00+00:00",
+      "og_image": "https://slator.com/assets/2026/11/velora-4038f6ce429cb547.png",
+      "excerpt": "Chinese language-services integrator Transn has dubbed more than 20,000 microdramas using AI with human review, cutting production time to days, but falling dubbing prices are squeezing it as revenue grows."
     }
   ],
   "dedup": {
     "checks": {
-      "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/": {
+      "https://www.youtube.com/watch?v=V7YAhthJCh0": {
         "verdict": "new",
-        "nearest": "https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861",
+        "nearest": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
         "new_action": ""
       },
-      "https://slator.com/france-stops-ai-dubbing-subtitling-funding/": {
+      "https://www.hollywoodreporter.com/business/digital/david-ayer-acme-ai-grey-box-locations-1236756850/": {
         "verdict": "new",
-        "nearest": "https://www.awn.com/news/sntpct-calls-2-hour-walkout-french-animation-and-vfx-workers",
+        "nearest": "https://www.awn.com/news/territory-group-launches-ai-native-studio-lux-meridian",
         "new_action": ""
       },
-      "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/": {
+      "https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/biz/news/surveyed-ace-editors-using-ai-avid-data-finds-1236947004/",
+        "nearest": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
         "new_action": ""
       },
-      "https://postperspective.com/virtual-content-creator-roundtable/": {
+      "https://www.aitimes.kr/news/articleView.html?idxno=42753": {
         "verdict": "new",
-        "nearest": "https://nofilmschool.com/davinci-resolve-update-21-1-2",
+        "nearest": "https://www.maxmovie.com/news/articleView.html?idxno=502436",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261116073300060": {
+      "https://slator.com/transn-ai-dubbing-costs-fall/": {
         "verdict": "new",
-        "nearest": "https://www.news1.kr/life-culture/general-cultural/6335398",
+        "nearest": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
         "new_action": ""
       }
     },
-    "note": "The pool had 13 items. Dropped as duplicates or follow-ups: Economist.co.kr MooAm Tokyo pipeline repeats the MooAm hybrid pipeline story (etnews, 11-04). Deadline SAG-AFTRA takedowns adds more Web Summit remarks to the THR card from 11-13, so it is commentary only. Korea Times 'Raphael' review covers the film already featured in the Korea Times card from 11-06; a review is not a new event. No Film School Premiere AI Assistant and Variety Project Live Set are more Adobe MAX coverage after the 11-11 Premiere card (saturated). THR CAA AI celebrity ads was dropped after the coordinator flagged a cross-section clash: it is the same story as marketing's Digiday Ogilvy x CAA card from 2026-11-10. postPerspective Virtual Content Creator Roundtable replaces it; its new item is the DaVinci Resolve AI-assistant (Claude/Codex) editing feature, which is distinct from the 10-28 Resolve 21.1.2 IntelliSearch card. That makes 2 postPerspective cards, which is within the cap of 2; there are 4 distinct outlets. Not picked: SportsWorld overview piece (its Japan drama angle already ran with Fuji TV on 11-07) and the Korea Daily Lee Myung-se interview (an interview, and close to the 11-10 Variety Korean pioneers card). Cross-section: Equity-Pact is assigned to movies, so books drops Voice Over Herald. The orchestrator should exact-grep all 5 URLs in published_urls.json before roll. The Yonhap item had no og_image, so og_image uses the Segye image of the same story that the librarian recorded."
+    "note": "The pool had 11 items. Dropped as duplicates: ProVideo Coalition Final Cut Pro 13 / MotionVFX is a likely repeat of the 10-30 RedShark card on the Apple Creator Studio MotionVFX update. ProVideo 'Tool Tip Tuesday' on the Premiere AI Assistant and the No Film School AI Assistant explainer (cluster c4) are more coverage of the Adobe MAX Premiere 2027 release, already carded on 11-11 (RedShark). They are tutorials/explainers with no new release, and 11-17 dropped them for the same reason. Korea Times 'Raphael' review is about the film already featured in the Korea Times card from 11-06; a review is not a new event, and 11-17 dropped it for the same reason. Not picked: the Variety Christopher Hampton interview is commentary only, and aitimes 42762 (Frome AI screening event preview) is minor and would be a second aitimes card. Project Live Set is a MAX research sneak, distinct from the Premiere release card, as the curator brief confirms. It runs 7 days after publication. Diversity: 5 distinct outlets. Cross-section: none of these appear in the brief's cross-section assignments. published_urls.json could not be exact-grepped from this agent (no shell), so the orchestrator should exact-grep all 5 URLs (aitimes by full ?idxno=42753) before roll."
   }
 }

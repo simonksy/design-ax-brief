@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "medicine",
   "cards": [
     {
-      "id": "apple-openevidence-trust-study",
+      "id": "med-cms-clinical-ai-roadmap",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenEvidence와\nApple 200,000명",
-      "body": "Apple·OpenEvidence가 200,000명에게 건강 AI 신뢰를 묻는다.",
-      "mini_headline": "Apple, 건강 AI 신뢰 연구",
+      "headline": "CMS, Medicare의\n임상 AI 로드맵 공개",
+      "body": "CMS가 임상 AI 로드맵으로 Medicare의 AI 지불·감독 방식을 내놨다.",
+      "mini_headline": "CMS, Medicare AI 경로 제시",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,305 +19,225 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-            "cap": "Apple과 OpenEvidence가 2026년 11월 15일 네바다주 라스베이거스(Las Vegas, Nevada)에서 열린 HLTH 콘퍼런스에서 대화형 AI 연구와 관련 앱을 소개하는 모습."
+            "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+            "cap": "휴대전화 화면에 뜬 Centers for Medicare and Medicaid Services 로고"
           },
           {
             "t": "p",
-            "x": "Apple이 일요일 라스베이거스(Las Vegas)에서 열린 HLTH 콘퍼런스에서 가상 연구와 관련 앱을 선보인다고 밝혔다. 사람들이 대화형 건강 AI를 어떻게 쓰는지 알아보려는 연구다. Apple 건강·피트니스(Health and Fitness) 부문 부사장 Dr. Sumbul Desai는 임상 AI 플랫폼 OpenEvidence와 함께하는 이 연구가 소비자 신뢰를 좌우하는 요인과 건강 AI 응답의 품질, 대화형 AI가 행동 변화를 끌어낼 수 있는지를 살핀다고 말했다."
+            "x": "이번 STAT Health Tech 뉴스레터는 CMS가 최근 내놓은 AI 로드맵의 핵심과 HLTH 콘퍼런스 현장을 짚는다."
           },
           {
             "t": "p",
-            "x": "U.S. 전역의 21세 이상 적격 참가자라면 최대 200,000명까지 참여할 수 있다. 사용자는 앱에 건강 질문을 던지고 안정 시 심박수, 활동량, 수면, 검사 결과 같은 데이터를 공유해 대화를 자기에게 맞출 수 있다. 연구 데이터는 AI 모델 학습에 쓰지 않는다. 개인 데이터도 본인이 원할 때만 공유된다."
-          },
-          {
-            "t": "p",
-            "x": "“사용자 신뢰를 쌓는 요인, 사람들이 응답을 이해하는 방식, 응답의 품질을 연구하고 있으며, 임상적 근거를 갖춘 파트너와 일하고 싶었다. 그 파트너가 OpenEvidence다”라고 Desai는 설명했다. OpenEvidence CEO Daniel Nadler는 진료가 대개 10분이나 15분이면 끝난다며 앱이 그 빈틈을 메워 줄 수 있다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Apple에 따르면 앱은 우려되는 질문을 걸러 내고 필요하면 외부 의료진이나 다른 창구로 연결한다. KFF에 따르면 U.S. 성인 약 삼분의 일이 AI 챗봇과 자기 건강 문제를 이야기해 본 적이 있다."
+            "x": "라스베이거스 HLTH 현장에서 인사를 전한다. 입술은 트고 발은 아파도 여기서 오가는 대화는 그만한 값어치가 있다. (이번 호 나머지 내용은 STAT+ 구독자만 볼 수 있다.)"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple, OpenEvidence open a\nhealth AI study to 200,000",
-          "body": "Apple's study with OpenEvidence, open to up to 200,000 people, asks what drives trust in conversational health AI.",
-          "mini_headline": "Apple studies trust\nin health AI",
+          "headline": "CMS lays out a roadmap\nfor clinical AI in Medicare",
+          "body": "CMS released a clinical AI roadmap setting out how Medicare will pay for and oversee AI tools in care.",
+          "mini_headline": "CMS maps Medicare's AI path",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "Apple and OpenEvidence announce a conversational AI study and associated app at the HLTH conference in Las Vegas, Nevada, on Nov. 15, 2026."
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "A phone screen shows a logo of Centers for Medicare and Medicaid Services"
               },
               {
                 "t": "p",
-                "x": "Apple is launching a virtual research study — and an associated app — to understand how people interact with conversational health AI, the company announced Sunday at the HLTH conference in Las Vegas. Conducted with clinical AI platform OpenEvidence, it will examine what drives consumer trust, the quality of health AI responses and whether conversational AI can drive behavior change, said Dr. Sumbul Desai, Apple’s vice president of Health and Fitness."
+                "x": "In this edition of STAT's Health Tech newsletter: What you need to know about CMS' recently released AI roadmap, and highlights from the HLTH conference."
               },
               {
                 "t": "p",
-                "x": "The study is open to up to 200,000 eligible participants age 21 and older across the U.S. Users ask health questions in the app and can share data such as resting heart rate, activity, sleep or lab results to personalize interactions. Study data will not be used to train AI models, and sharing personal data is opt-in."
-              },
-              {
-                "t": "p",
-                "x": "“We’re studying what builds user trust, how people comprehend responses, the quality of responses, and we wanted to work with a clinically grounded partner, and that is OpenEvidence,” Desai said. OpenEvidence CEO Daniel Nadler said physician visits are often just 10 or 15 minutes, and the app could help bridge that divide."
-              },
-              {
-                "t": "p",
-                "x": "Apple said the app will detect worrying questions and direct a consumer to an outside provider or other resources if needed. Roughly one-third of U.S. adults have used an AI chatbot to talk about their health, according to KFF."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Apple y OpenEvidence abren un\nestudio de AI para 200,000",
-          "body": "El estudio de Apple y OpenEvidence, abierto a hasta 200,000 personas, indaga la confianza en la AI de salud.",
-          "mini_headline": "Apple estudia la confianza en la AI de salud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "Apple y OpenEvidence anuncian un estudio de AI conversacional y una app asociada en la conferencia HLTH de Las Vegas, Nevada, el 15 de noviembre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "Apple lanza un estudio de investigación virtual —y una app asociada— para entender cómo interactúan las personas con la AI conversacional de salud, según anunció la compañía el domingo en la conferencia HLTH de Las Vegas. Realizado con la plataforma de AI clínica OpenEvidence, el estudio examinará qué impulsa la confianza del consumidor, la calidad de las respuestas de la AI de salud y si la AI conversacional puede impulsar cambios de conducta, dijo la Dra. Sumbul Desai, vicepresidenta de Health and Fitness de Apple."
-              },
-              {
-                "t": "p",
-                "x": "El estudio está abierto a hasta 200,000 participantes elegibles de 21 años o más en todo Estados Unidos (U.S.). Los usuarios hacen preguntas de salud en la app y pueden compartir datos como la frecuencia cardiaca en reposo, la actividad, el sueño o resultados de laboratorio para personalizar las interacciones. Los datos del estudio no se usarán para entrenar modelos de AI, y compartir datos personales es opcional."
-              },
-              {
-                "t": "p",
-                "x": "“Estudiamos qué genera la confianza del usuario, cómo comprenden las personas las respuestas y la calidad de las respuestas, y queríamos trabajar con un socio con base clínica, y ese socio es OpenEvidence”, dijo Desai. El CEO de OpenEvidence, Daniel Nadler, dijo que las consultas médicas suelen durar solo 10 o 15 minutos y que la app podría ayudar a cerrar esa brecha."
-              },
-              {
-                "t": "p",
-                "x": "Apple dijo que la app detectará preguntas preocupantes y, si es necesario, remitirá al consumidor a un proveedor externo u otros recursos. Aproximadamente un tercio de los adultos de Estados Unidos (U.S.) ha usado un chatbot de AI para hablar de su salud, según KFF."
+                "x": "Hello from HLTH in Las Vegas. My lips are chapped, my feet hurt, but the conversations are worth it. (The rest of this edition is available to STAT+ subscribers.)"
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenEvidence와\nApple 200,000명",
-          "body": "Apple·OpenEvidence가 200,000명에게 건강 AI 신뢰를 묻는다.",
-          "mini_headline": "Apple, 건강 AI 신뢰 연구",
+          "headline": "CMS, Medicare의\n임상 AI 로드맵 공개",
+          "body": "CMS가 임상 AI 로드맵으로 Medicare의 AI 지불·감독 방식을 내놨다.",
+          "mini_headline": "CMS, Medicare AI 경로 제시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "Apple과 OpenEvidence가 2026년 11월 15일 네바다주 라스베이거스(Las Vegas, Nevada)에서 열린 HLTH 콘퍼런스에서 대화형 AI 연구와 관련 앱을 소개하는 모습."
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "휴대전화 화면에 뜬 Centers for Medicare and Medicaid Services 로고"
               },
               {
                 "t": "p",
-                "x": "Apple이 일요일 라스베이거스(Las Vegas)에서 열린 HLTH 콘퍼런스에서 가상 연구와 관련 앱을 선보인다고 밝혔다. 사람들이 대화형 건강 AI를 어떻게 쓰는지 알아보려는 연구다. Apple 건강·피트니스(Health and Fitness) 부문 부사장 Dr. Sumbul Desai는 임상 AI 플랫폼 OpenEvidence와 함께하는 이 연구가 소비자 신뢰를 좌우하는 요인과 건강 AI 응답의 품질, 대화형 AI가 행동 변화를 끌어낼 수 있는지를 살핀다고 말했다."
+                "x": "이번 STAT Health Tech 뉴스레터는 CMS가 최근 내놓은 AI 로드맵의 핵심과 HLTH 콘퍼런스 현장을 짚는다."
               },
               {
                 "t": "p",
-                "x": "U.S. 전역의 21세 이상 적격 참가자라면 최대 200,000명까지 참여할 수 있다. 사용자는 앱에 건강 질문을 던지고 안정 시 심박수, 활동량, 수면, 검사 결과 같은 데이터를 공유해 대화를 자기에게 맞출 수 있다. 연구 데이터는 AI 모델 학습에 쓰지 않는다. 개인 데이터도 본인이 원할 때만 공유된다."
-              },
-              {
-                "t": "p",
-                "x": "“사용자 신뢰를 쌓는 요인, 사람들이 응답을 이해하는 방식, 응답의 품질을 연구하고 있으며, 임상적 근거를 갖춘 파트너와 일하고 싶었다. 그 파트너가 OpenEvidence다”라고 Desai는 설명했다. OpenEvidence CEO Daniel Nadler는 진료가 대개 10분이나 15분이면 끝난다며 앱이 그 빈틈을 메워 줄 수 있다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Apple에 따르면 앱은 우려되는 질문을 걸러 내고 필요하면 외부 의료진이나 다른 창구로 연결한다. KFF에 따르면 U.S. 성인 약 삼분의 일이 AI 챗봇과 자기 건강 문제를 이야기해 본 적이 있다."
+                "x": "라스베이거스 HLTH 현장에서 인사를 전한다. 입술은 트고 발은 아파도 여기서 오가는 대화는 그만한 값어치가 있다. (이번 호 나머지 내용은 STAT+ 구독자만 볼 수 있다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenEvidenceと\nApple 200,000人",
-          "body": "AppleとOpenEvidenceの研究は最大200,000人に健康AIへの信頼を問う。",
-          "mini_headline": "Apple、健康AIへの信頼を研究",
+          "headline": "CMS、Medicareの\n臨床AIロードマップ公表",
+          "body": "CMSはMedicareのAIツールの支払いと監督方針を示す臨床AIロードマップを出した。",
+          "mini_headline": "CMS、MedicareのAI指針を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "2026年11月15日、ネバダ州ラスベガス（Las Vegas, Nevada）のHLTHカンファレンスで、会話型AIの研究と関連アプリを発表するAppleとOpenEvidence。"
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Centers for Medicare and Medicaid Servicesのロゴを表示したスマートフォンの画面"
               },
               {
                 "t": "p",
-                "x": "Appleは日曜日、ラスベガス（Las Vegas）で開かれたHLTHカンファレンスで、人々が会話型の健康AIとどう関わるかを理解するためのバーチャル研究と関連アプリを始めると発表した。臨床AIプラットフォームOpenEvidenceと共同で実施するこの研究では、消費者の信頼を左右する要因、健康AIの回答の質、会話型AIが行動変容を促せるかどうかを調べると、Appleのヘルス・フィットネス（Health and Fitness）担当副社長Dr. Sumbul Desaiは述べた。"
+                "x": "STATのHealth Techニュースレター今号は、CMSが最近公表したAIロードマップで押さえるべき点と、HLTHカンファレンスのハイライトを取り上げる。"
               },
               {
                 "t": "p",
-                "x": "研究はU.S.全土の21歳以上の対象者、最大200,000人が参加できる。利用者はアプリで健康に関する質問をし、安静時心拍数、活動量、睡眠、検査結果などのデータを共有してやり取りを個別化できる。研究データはAIモデルの学習には使われず、個人データの共有は本人が選んだ場合に限られる。"
-              },
-              {
-                "t": "p",
-                "x": "「ユーザーの信頼を築くもの、人々が回答をどう理解するか、回答の質を研究している。そして臨床的な裏付けのあるパートナーと組みたかった。それがOpenEvidenceだ」とDesaiは語った。OpenEvidenceのCEO、Daniel Nadlerは、医師の診察はわずか10分か15分であることが多く、アプリがその隔たりを埋める助けになり得ると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Appleによると、アプリは懸念のある質問を検知し、必要に応じて外部の医療提供者やその他の窓口へ案内する。KFFによれば、U.S.の成人の約三分の一がAIチャットボットで自分の健康について話したことがある。"
+                "x": "ラスベガスのHLTH会場から。唇は荒れ、足も痛むが、ここでの対話にはそれだけの価値がある。(今号の続きはSTAT+購読者向けに公開されている。)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenEvidence与\nApple 200,000人",
-          "body": "Apple与OpenEvidence面向至多200,000人研究对话式健康AI的信任。",
-          "mini_headline": "Apple研究健康AI信任",
+          "headline": "CMS公布Medicare\n临床AI路线图",
+          "body": "CMS发布临床AI路线图,阐明Medicare将如何为医疗中的AI工具付费并实施监管。",
+          "mini_headline": "CMS规划Medicare的AI路径",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "2026年11月15日，Apple与OpenEvidence在内华达州拉斯维加斯（Las Vegas, Nevada）举行的HLTH大会上发布一项对话式AI研究及配套应用。"
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "手机屏幕上显示的Centers for Medicare and Medicaid Services标志"
               },
               {
                 "t": "p",
-                "x": "Apple周日在拉斯维加斯（Las Vegas）举行的HLTH大会上宣布，将推出一项虚拟研究及配套应用，以了解人们如何与对话式健康AI互动。Apple健康与健身（Health and Fitness）副总裁Dr. Sumbul Desai表示，这项研究与临床AI平台OpenEvidence合作开展，将考察是什么驱动消费者信任、健康AI回答的质量，以及对话式AI能否推动行为改变。"
+                "x": "本期STAT Health Tech通讯:关于CMS近期发布的AI路线图你需要了解什么,以及HLTH大会的亮点。"
               },
               {
                 "t": "p",
-                "x": "研究面向U.S.全境年满21岁的合格参与者开放，名额至多200,000人。用户可在应用中提出健康问题，并可分享静息心率、活动、睡眠或化验结果等数据，让互动更个性化。研究数据不会用于训练AI模型，个人数据的分享须由用户自愿选择。"
+                "x": "来自拉斯维加斯HLTH大会的问候。我的嘴唇干裂,双脚酸痛,但这些对话很值得。(本期其余内容仅向STAT+订阅者开放。)"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "CMS traza una hoja de ruta\npara la AI clínica en Medicare",
+          "body": "CMS publicó una hoja de ruta de AI clínica: cómo Medicare pagará y supervisará herramientas de AI en la atención.",
+          "mini_headline": "CMS traza el camino de la AI en Medicare",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "La pantalla de un teléfono muestra el logotipo de los Centers for Medicare and Medicaid Services"
               },
               {
                 "t": "p",
-                "x": "“我们在研究是什么建立了用户信任、人们如何理解回答以及回答的质量，我们希望与一个有临床依据的伙伴合作，那就是OpenEvidence。”Desai说。OpenEvidence首席执行官（CEO）Daniel Nadler表示，医生问诊往往只有10或15分钟，这款应用有助于弥合这一差距。"
+                "x": "En esta edición del boletín Health Tech de STAT: lo que hay que saber sobre la hoja de ruta de AI que CMS publicó recientemente y lo más destacado de la conferencia HLTH."
               },
               {
                 "t": "p",
-                "x": "Apple表示，应用会识别令人担忧的问题，并在必要时引导用户转向外部医疗服务提供者或其他资源。据KFF统计，约三分之一的U.S.成年人曾用AI聊天机器人谈论自己的健康。"
+                "x": "Saludos desde HLTH en Las Vegas. Tengo los labios agrietados y me duelen los pies, pero las conversaciones valen la pena. (El resto de esta edición está disponible para los suscriptores de STAT+.)"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Apple y OpenEvidence abren un\nestudio de AI para 200,000",
-          "body": "El estudio de Apple y OpenEvidence, abierto a hasta 200,000 personas, indaga la confianza en la AI de salud.",
-          "mini_headline": "Apple estudia la confianza en la AI de salud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "Apple y OpenEvidence anuncian un estudio de AI conversacional y una app asociada en la conferencia HLTH de Las Vegas, Nevada, el 15 de noviembre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "Apple lanza un estudio de investigación virtual —y una app asociada— para entender cómo interactúan las personas con la AI conversacional de salud, según anunció la compañía el domingo en la conferencia HLTH de Las Vegas. Realizado con la plataforma de AI clínica OpenEvidence, el estudio examinará qué impulsa la confianza del consumidor, la calidad de las respuestas de la AI de salud y si la AI conversacional puede impulsar cambios de conducta, dijo la Dra. Sumbul Desai, vicepresidenta de Health and Fitness de Apple."
-              },
-              {
-                "t": "p",
-                "x": "El estudio está abierto a hasta 200,000 participantes elegibles de 21 años o más en todo Estados Unidos (U.S.). Los usuarios hacen preguntas de salud en la app y pueden compartir datos como la frecuencia cardiaca en reposo, la actividad, el sueño o resultados de laboratorio para personalizar las interacciones. Los datos del estudio no se usarán para entrenar modelos de AI, y compartir datos personales es opcional."
-              },
-              {
-                "t": "p",
-                "x": "“Estudiamos qué genera la confianza del usuario, cómo comprenden las personas las respuestas y la calidad de las respuestas, y queríamos trabajar con un socio con base clínica, y ese socio es OpenEvidence”, dijo Desai. El CEO de OpenEvidence, Daniel Nadler, dijo que las consultas médicas suelen durar solo 10 o 15 minutos y que la app podría ayudar a cerrar esa brecha."
-              },
-              {
-                "t": "p",
-                "x": "Apple dijo que la app detectará preguntas preocupantes y, si es necesario, remitirá al consumidor a un proveedor externo u otros recursos. Aproximadamente un tercio de los adultos de Estados Unidos (U.S.) ha usado un chatbot de AI para hablar de su salud, según KFF."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "OpenEvidence와\nApple 200,000명",
-          "body": "Apple·OpenEvidence가 200,000명에게 건강 AI 신뢰를 묻는다.",
-          "mini_headline": "Apple, 건강 AI 신뢰 연구",
+          "headline": "CMS, Medicare의\n임상 AI 로드맵 공개",
+          "body": "CMS가 임상 AI 로드맵에서 Medicare의 AI 지불·감독 방식을 밝혔다.",
+          "mini_headline": "CMS, Medicare AI 경로 제시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "Apple과 OpenEvidence가 2026년 11월 15일 네바다주 라스베이거스(Las Vegas, Nevada)에서 열린 HLTH 콘퍼런스에서 대화형 AI 연구와 관련 앱을 발표하고 있다."
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "휴대전화 화면에 뜬 Centers for Medicare and Medicaid Services 로고"
               },
               {
                 "t": "p",
-                "x": "Apple은 사람들이 대화형 건강 AI와 어떻게 상호작용하는지 이해하기 위해 가상 연구와 관련 앱을 선보인다고 일요일 라스베이거스(Las Vegas)에서 열린 HLTH 콘퍼런스에서 발표했다. 임상 AI 플랫폼 OpenEvidence와 함께 진행하는 이 연구는 소비자 신뢰를 이끄는 요인, 건강 AI 응답의 품질, 대화형 AI가 행동 변화를 이끌어 낼 수 있는지를 살핀다고 Apple 건강·피트니스(Health and Fitness) 부문 부사장 Dr. Sumbul Desai가 말했다."
+                "x": "이번 STAT Health Tech 뉴스레터에서는 CMS가 최근 공개한 AI 로드맵에서 알아야 할 내용과 HLTH 콘퍼런스의 주요 장면을 다룬다."
               },
               {
                 "t": "p",
-                "x": "연구는 U.S. 전역의 21세 이상 적격 참가자 최대 200,000명에게 열려 있다. 사용자는 앱에서 건강 질문을 하고, 안정 시 심박수, 활동량, 수면, 검사 결과 같은 데이터를 공유해 대화를 개인화할 수 있다. 연구 데이터는 AI 모델 학습에 쓰이지 않으며, 개인 데이터 공유는 본인이 선택할 때만 이뤄진다."
-              },
-              {
-                "t": "p",
-                "x": "“사용자 신뢰를 쌓는 요인, 사람들이 응답을 이해하는 방식, 응답의 품질을 연구하고 있으며, 임상적 근거를 갖춘 파트너와 일하고 싶었다. 그 파트너가 OpenEvidence다”라고 Desai는 말했다. OpenEvidence CEO Daniel Nadler는 진료 시간이 대개 10분이나 15분에 그친다며 앱이 그 간극을 메우는 데 도움이 될 수 있다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 앱이 우려스러운 질문을 감지하고 필요하면 외부 의료진이나 다른 자원으로 안내할 것이라고 밝혔다. KFF에 따르면 U.S. 성인의 약 삼분의 일이 AI 챗봇으로 자신의 건강에 관해 이야기해 본 적이 있다."
+                "x": "라스베이거스 HLTH 현장에서 인사를 전한다. 입술은 트고 발은 아프지만, 이곳의 대화는 그만한 가치가 있다. (이번 호의 나머지 내용은 STAT+ 구독자에게 공개된다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenEvidenceと\nApple 200,000人",
-          "body": "AppleとOpenEvidenceの研究は最大200,000人に健康AIへの信頼を問う。",
-          "mini_headline": "Apple、健康AIへの信頼を研究",
+          "headline": "CMS、Medicareの\n臨床AIロードマップ公表",
+          "body": "CMSはMedicareのAIツールの支払いと監督方針を示す臨床AIロードマップを出した。",
+          "mini_headline": "CMS、MedicareのAI指針を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "2026年11月15日、ネバダ州ラスベガス（Las Vegas, Nevada）のHLTHカンファレンスで、会話型AIの研究と関連アプリを発表するAppleとOpenEvidence。"
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "Centers for Medicare and Medicaid Servicesのロゴを表示したスマートフォンの画面"
               },
               {
                 "t": "p",
-                "x": "Appleは日曜日、ラスベガス（Las Vegas）で開かれたHLTHカンファレンスで、人々が会話型の健康AIとどう関わるかを理解するためのバーチャル研究と関連アプリを始めると発表した。臨床AIプラットフォームOpenEvidenceと共同で実施するこの研究では、消費者の信頼を左右する要因、健康AIの回答の質、会話型AIが行動変容を促せるかどうかを調べると、Appleのヘルス・フィットネス（Health and Fitness）担当副社長Dr. Sumbul Desaiは述べた。"
+                "x": "STATのHealth Techニュースレター今号は、CMSが最近公表したAIロードマップで押さえるべき点と、HLTHカンファレンスのハイライトを取り上げる。"
               },
               {
                 "t": "p",
-                "x": "研究はU.S.全土の21歳以上の対象者、最大200,000人が参加できる。利用者はアプリで健康に関する質問をし、安静時心拍数、活動量、睡眠、検査結果などのデータを共有してやり取りを個別化できる。研究データはAIモデルの学習には使われず、個人データの共有は本人が選んだ場合に限られる。"
-              },
-              {
-                "t": "p",
-                "x": "「ユーザーの信頼を築くもの、人々が回答をどう理解するか、回答の質を研究している。そして臨床的な裏付けのあるパートナーと組みたかった。それがOpenEvidenceだ」とDesaiは語った。OpenEvidenceのCEO、Daniel Nadlerは、医師の診察はわずか10分か15分であることが多く、アプリがその隔たりを埋める助けになり得ると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Appleによると、アプリは懸念のある質問を検知し、必要に応じて外部の医療提供者やその他の窓口へ案内する。KFFによれば、U.S.の成人の約三分の一がAIチャットボットで自分の健康について話したことがある。"
+                "x": "ラスベガスのHLTH会場から。唇は荒れ、足も痛むが、ここでの対話にはそれだけの価値がある。(今号の続きはSTAT+購読者向けに公開されている。)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenEvidence与\nApple 200,000人",
-          "body": "Apple与OpenEvidence面向至多200,000人研究对话式健康AI的信任。",
-          "mini_headline": "Apple研究健康AI信任",
+          "headline": "CMS公布Medicare\n临床AI路线图",
+          "body": "CMS发布临床AI路线图,阐明Medicare将如何为医疗中的AI工具付费并实施监管。",
+          "mini_headline": "CMS规划Medicare的AI路径",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
-                "cap": "2026年11月15日，Apple与OpenEvidence在内华达州拉斯维加斯（Las Vegas, Nevada）举行的HLTH大会上发布一项对话式AI研究及配套应用。"
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "手机屏幕上显示的Centers for Medicare and Medicaid Services标志"
               },
               {
                 "t": "p",
-                "x": "Apple周日在拉斯维加斯（Las Vegas）举行的HLTH大会上宣布，将推出一项虚拟研究及配套应用，以了解人们如何与对话式健康AI互动。Apple健康与健身（Health and Fitness）副总裁Dr. Sumbul Desai表示，这项研究与临床AI平台OpenEvidence合作开展，将考察是什么驱动消费者信任、健康AI回答的质量，以及对话式AI能否推动行为改变。"
+                "x": "本期STAT Health Tech通讯:关于CMS近期发布的AI路线图你需要了解什么,以及HLTH大会的亮点。"
               },
               {
                 "t": "p",
-                "x": "研究面向U.S.全境年满21岁的合格参与者开放，名额至多200,000人。用户可在应用中提出健康问题，并可分享静息心率、活动、睡眠或化验结果等数据，让互动更个性化。研究数据不会用于训练AI模型，个人数据的分享须由用户自愿选择。"
+                "x": "来自拉斯维加斯HLTH大会的问候。我的嘴唇干裂,双脚酸痛,但这些对话很值得。(本期其余内容仅向STAT+订阅者开放。)"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "CMS traza una hoja de ruta\npara la AI clínica en Medicare",
+          "body": "CMS publicó una hoja de ruta de AI clínica: cómo Medicare pagará y supervisará herramientas de AI en la atención.",
+          "mini_headline": "CMS traza el camino de la AI en Medicare",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+                "cap": "La pantalla de un teléfono muestra el logotipo de los Centers for Medicare and Medicaid Services"
               },
               {
                 "t": "p",
-                "x": "“我们在研究是什么建立了用户信任、人们如何理解回答以及回答的质量，我们希望与一个有临床依据的伙伴合作，那就是OpenEvidence。”Desai说。OpenEvidence首席执行官（CEO）Daniel Nadler表示，医生问诊往往只有10或15分钟，这款应用有助于弥合这一差距。"
+                "x": "En esta edición del boletín Health Tech de STAT: lo que hay que saber sobre la hoja de ruta de AI que CMS publicó recientemente y lo más destacado de la conferencia HLTH."
               },
               {
                 "t": "p",
-                "x": "Apple表示，应用会识别令人担忧的问题，并在必要时引导用户转向外部医疗服务提供者或其他资源。据KFF统计，约三分之一的U.S.成年人曾用AI聊天机器人谈论自己的健康。"
+                "x": "Saludos desde HLTH en Las Vegas. Tengo los labios agrietados y me duelen los pies, pero las conversaciones valen la pena. (El resto de esta edición está disponible para los suscriptores de STAT+.)"
               }
             ]
           }
@@ -325,195 +245,165 @@
       }
     },
     {
-      "id": "openai-computer-use-health-agents",
+      "id": "med-jama-llm-discharge-summaries",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI 에이전트\nCVS·Cigna가 시험",
-      "body": "OpenAI 에이전트가 EHRs와 보험사 포털에서 반복 의료 업무를 맡는다.",
-      "mini_headline": "CVS·Cigna, OpenAI 에이전트 시험",
+      "headline": "의료진, 퇴원 기록도\nAI-written에 서명",
+      "body": "런던 다섯 병원에서 GPT-4o mini 퇴원 요약이 의료진 작성본만큼 승인됐다.",
+      "mini_headline": "AI 퇴원 요약, 검토 통과",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
+      "source": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856756",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-            "cap": "CVS Health에 따르면 실제 운영 중인 한 워크플로에서 에이전트가 몇 달 치 밀린 문서 발송을 주말 사이에 처리했다."
+            "t": "p",
+            "x": "퇴원 요약은 진료를 이어 가는 데 꼭 필요하지만 전자건강기록(EHR) 데이터가 흩어져 있으면 질과 안전성이 떨어질 수 있다. 이 후향적 비교효과 연구는 비열등성 기준을 미리 정해 두고, 런던 5개 병원의 입원 기록(2022년 9월 1일~2023년 9월 30일)을 현직 의사들이 전체 입원 기록과 대조해 평가하게 했다."
           },
           {
             "t": "p",
-            "x": "OpenAI가 의료용 컴퓨터 사용(computer-use) 에이전트를 넓힌다. AI가 전자건강기록 시스템과 보험사 포털 같은 소프트웨어를 직접 다루며 반복 수작업을 맡는 방식이다. 에이전트는 사람처럼 화면을 보고 커서를 옮기고 버튼을 누르며 텍스트를 입력한다."
+            "x": "LLM-generated 요약은 GPT-4o mini(2024년 7월 18일 출시 버전, OpenAI)에 임상의와 함께 설계한 프롬프트를 넣어 만들었다. 1차 결과 지표는 임상의가 수정 없이 또는 경미한 수정만 거쳐 승인하느냐였고, 비열등성 한계는 5퍼센트포인트로 잡았다."
           },
           {
             "t": "p",
-            "x": "OpenAI Health AI 책임자 Karan Singhal에 따르면 회사는 CVS Health, Cigna Healthcare, Abridge, Ambience와 진료 의뢰, 사전 승인, 퇴원 계획, 전문의 협진, 케어 매니저 준비 같은 워크플로를 함께 다듬고 있다. 에이전트는 ChatGPT for Healthcare, ChatGPT for Clinicians, OpenAI API에서 쓸 수 있다."
+            "x": "표본은 퇴원 요약 1294건(임상의 작성 649건, LLM-generated 645건)이고 현직 의사 12명이 평가했다. 수정 없이 또는 경미한 수정만으로 승인될 확률은 LLM 쪽이 임상의 작성본보다 22.2퍼센트포인트(95% CI, 19.0-27.5) 높아 비열등성이 입증됐다. LLM-generated 요약은 정확성, 완전성, 어조, 명확성 점수가 더 높았고 잠재적 위해가 3 이상으로 매겨진 비율은 더 낮았다(26.2%와 26.8% 대 45.1%와 51.5%)."
           },
           {
             "t": "p",
-            "x": "OpenAI가 EHR 받은편지함 업무로 GPT-6 Astra를 평가해 보니 검토한 325건 중 99%가 임상적으로 안전하다는 판정을 받았다. 의사 평가 646건 중 93%는 모델이 “매우 도움이 된다” 또는 “극히 도움이 된다”는 쪽이었다."
-          },
-          {
-            "t": "p",
-            "x": "CVS Health는 에이전트에 문서 발송과 진료 의뢰 처리, 전문의 협진 지원을 맡긴다. 한 에이전트는 몇 달 치 밀린 일을 주말 사이에 끝냈다. Cigna는 10개가 넘는 시스템에서 가입자 정보를 끌어오고 Abridge는 APIs가 없는 앱에서 케어 플랜을 다루는 에이전트를 만드는 중이다."
+            "x": "LLM-generated 퇴원 요약은 지금의 진료 기준을 충족했다. 임상의가 면밀히 감독한다면 의료에서 생성형 인공지능을 쓸 유망한 초기 사례다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "CVS, Cigna and Abridge test\nOpenAI computer-use agents",
-          "body": "OpenAI's computer-use agents navigate EHRs and payer portals to take over repetitive manual healthcare tasks.",
-          "mini_headline": "CVS, Cigna test\nOpenAI agents",
+          "headline": "Clinicians sign off on\nAI-written discharge notes",
+          "body": "Across five London hospitals, GPT-4o mini discharge summaries were approved at least as often as clinicians' own.",
+          "mini_headline": "AI discharge notes pass review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Health said that in one production workflow, an agent cleared a months-long document-sending backlog over a weekend."
+                "t": "p",
+                "x": "Hospital discharge summaries are essential for continuity of care, but fragmented electronic health record (EHR) data can compromise their quality and safety. In this retrospective comparative effectiveness study using a prespecified noninferiority framework, admission records from 5 London hospitals (September 1, 2022, to September 30, 2023) were evaluated against the full admission record by practicing physicians."
               },
               {
                 "t": "p",
-                "x": "OpenAI is expanding computer-use agents for healthcare, enabling AI to navigate electronic health record systems, payer portals and other software to tackle repetitive and manual tasks. The agents view a screen, move a cursor, click buttons and type text the way a human does."
+                "x": "LLM-generated summaries were produced using GPT-4o mini (July 18, 2024 release; OpenAI) and a clinician-codesigned prompt. The primary outcome was clinician signoff with no or minor edits, with a 5–percentage-point noninferiority margin."
               },
               {
                 "t": "p",
-                "x": "Karan Singhal, head of Health AI at OpenAI, said the company is working with CVS Health, Cigna Healthcare, Abridge and Ambience on workflows including referrals, prior authorizations, discharge planning, specialist consults and care manager preparation. Access comes through ChatGPT for Healthcare, ChatGPT for Clinicians and the OpenAI API."
+                "x": "The sample included 1294 (649 clinician-authored and 645 LLM-generated) discharge summaries evaluated by 12 practicing physicians. The difference in probability of signoff with no or minor edits (LLM generated minus clinician authored) was 22.2 percentage points (95% CI, 19.0-27.5), demonstrating noninferiority. LLM-generated summaries received higher ratings for accuracy, completeness, tone, and clarity, and a lower proportion were rated 3 or greater for potential harm (26.2% and 26.8% vs 45.1% and 51.5%)."
               },
               {
                 "t": "p",
-                "x": "In OpenAI's evaluation of GPT-6 Astra on EHR inbox tasks, 99% of 325 reviewed tasks were rated clinically safe, and physicians rated the model \"very helpful\" or \"extremely helpful\" in 93% of 646 assessments."
-              },
-              {
-                "t": "p",
-                "x": "CVS Health uses the agents to send documents, process referrals and support specialist consults; one agent cleared a months-long backlog over a weekend. Cigna pulls member information from more than 10 systems, and Abridge is building agents for care plans in apps without APIs."
+                "x": "LLM-generated discharge summaries met the current standard of care, representing a promising early use case for generative artificial intelligence in health care with close clinician oversight."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI 에이전트\nCVS·Cigna가 시험",
-          "body": "OpenAI 에이전트가 EHRs와 보험사 포털에서 반복 의료 업무를 맡는다.",
-          "mini_headline": "CVS·Cigna, OpenAI 에이전트 시험",
+          "headline": "의료진, 퇴원 기록도\nAI-written에 서명",
+          "body": "런던 다섯 병원에서 GPT-4o mini 퇴원 요약이 의료진 작성본만큼 승인됐다.",
+          "mini_headline": "AI 퇴원 요약, 검토 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Health에 따르면 실제 운영 중인 한 워크플로에서 에이전트가 몇 달 치 밀린 문서 발송을 주말 사이에 처리했다."
+                "t": "p",
+                "x": "퇴원 요약은 진료를 이어 가는 데 꼭 필요하지만 전자건강기록(EHR) 데이터가 흩어져 있으면 질과 안전성이 떨어질 수 있다. 이 후향적 비교효과 연구는 비열등성 기준을 미리 정해 두고, 런던 5개 병원의 입원 기록(2022년 9월 1일~2023년 9월 30일)을 현직 의사들이 전체 입원 기록과 대조해 평가하게 했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 의료용 컴퓨터 사용(computer-use) 에이전트를 넓힌다. AI가 전자건강기록 시스템과 보험사 포털 같은 소프트웨어를 직접 다루며 반복 수작업을 맡는 방식이다. 에이전트는 사람처럼 화면을 보고 커서를 옮기고 버튼을 누르며 텍스트를 입력한다."
+                "x": "LLM-generated 요약은 GPT-4o mini(2024년 7월 18일 출시 버전, OpenAI)에 임상의와 함께 설계한 프롬프트를 넣어 만들었다. 1차 결과 지표는 임상의가 수정 없이 또는 경미한 수정만 거쳐 승인하느냐였고, 비열등성 한계는 5퍼센트포인트로 잡았다."
               },
               {
                 "t": "p",
-                "x": "OpenAI Health AI 책임자 Karan Singhal에 따르면 회사는 CVS Health, Cigna Healthcare, Abridge, Ambience와 진료 의뢰, 사전 승인, 퇴원 계획, 전문의 협진, 케어 매니저 준비 같은 워크플로를 함께 다듬고 있다. 에이전트는 ChatGPT for Healthcare, ChatGPT for Clinicians, OpenAI API에서 쓸 수 있다."
+                "x": "표본은 퇴원 요약 1294건(임상의 작성 649건, LLM-generated 645건)이고 현직 의사 12명이 평가했다. 수정 없이 또는 경미한 수정만으로 승인될 확률은 LLM 쪽이 임상의 작성본보다 22.2퍼센트포인트(95% CI, 19.0-27.5) 높아 비열등성이 입증됐다. LLM-generated 요약은 정확성, 완전성, 어조, 명확성 점수가 더 높았고 잠재적 위해가 3 이상으로 매겨진 비율은 더 낮았다(26.2%와 26.8% 대 45.1%와 51.5%)."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 EHR 받은편지함 업무로 GPT-6 Astra를 평가해 보니 검토한 325건 중 99%가 임상적으로 안전하다는 판정을 받았다. 의사 평가 646건 중 93%는 모델이 “매우 도움이 된다” 또는 “극히 도움이 된다”는 쪽이었다."
-              },
-              {
-                "t": "p",
-                "x": "CVS Health는 에이전트에 문서 발송과 진료 의뢰 처리, 전문의 협진 지원을 맡긴다. 한 에이전트는 몇 달 치 밀린 일을 주말 사이에 끝냈다. Cigna는 10개가 넘는 시스템에서 가입자 정보를 끌어오고 Abridge는 APIs가 없는 앱에서 케어 플랜을 다루는 에이전트를 만드는 중이다."
+                "x": "LLM-generated 퇴원 요약은 지금의 진료 기준을 충족했다. 임상의가 면밀히 감독한다면 의료에서 생성형 인공지능을 쓸 유망한 초기 사례다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI操作エージェント\nCVSやCignaが試験",
-          "body": "OpenAIのエージェントがEHRsや保険者ポータルを操作し、反復的な医療事務を担う。",
-          "mini_headline": "CVSやCignaがOpenAIエージェントを試す",
+          "headline": "臨床医が承認した\nAI-written退院要約",
+          "body": "ロンドンの五つの病院でGPT-4o miniの退院要約は臨床医作成分と同等以上に承認された。",
+          "mini_headline": "AI退院要約が審査を通過",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Healthによると、ある本番ワークフローでエージェントが数カ月分たまっていた文書送付の滞留を週末のうちに解消した。"
+                "t": "p",
+                "x": "退院要約はケアの継続性に欠かせないが、断片化した電子健康記録(EHR)データはその質と安全性を損なうおそれがある。事前に定めた非劣性の枠組みを用いたこの後ろ向き比較効果研究では、ロンドンの5病院の入院記録(2022年9月1日〜2023年9月30日)を、現役医師が入院記録全体と照合して評価した。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは医療向けのコンピューター操作(computer-use)エージェントを拡充し、AIが電子カルテシステムや保険者ポータルなどのソフトウェアを操作して、反復的な手作業をこなせるようにする。エージェントは人間と同じように画面を見て、カーソルを動かし、ボタンをクリックし、文字を入力する。"
+                "x": "LLM-generatedの要約は、GPT-4o mini(2024年7月18日リリース、OpenAI)と臨床医が共同設計したプロンプトで作成した。主要評価項目は修正なしまたは軽微な修正での臨床医の承認で、非劣性マージンは5パーセントポイントとした。"
               },
               {
                 "t": "p",
-                "x": "OpenAIでHealth AIを率いるKaran Singhalによると、同社はCVS Health、Cigna Healthcare、Abridge、Ambienceと、紹介、事前承認、退院計画、専門医コンサルト、ケアマネジャーの準備などのワークフローに取り組んでいる。ChatGPT for Healthcare、ChatGPT for Clinicians、OpenAI APIを通じて利用できる。"
+                "x": "サンプルは退院要約1294件(臨床医作成649件、LLM-generated 645件)で、現役医師12人が評価した。修正なしまたは軽微な修正で承認される確率の差(LLM生成から臨床医作成を引いた値)は22.2パーセントポイント(95% CI、19.0-27.5)で、非劣性が示された。LLM-generatedの要約は正確性、網羅性、トーン、明瞭さで高く評価され、潜在的な害が3以上と評価された割合は低かった(26.2%と26.8%対45.1%と51.5%)。"
               },
               {
                 "t": "p",
-                "x": "OpenAIがEHRの受信トレイ業務でGPT-6 Astraを評価したところ、レビューした325件のタスクの99%が臨床的に安全と判定され、医師は646件の評価のうち93%でモデルを「非常に役立つ」または「極めて役立つ」と評価した。"
-              },
-              {
-                "t": "p",
-                "x": "CVS Healthはエージェントを使って文書の送付、紹介の処理、専門医コンサルトの支援を行っており、あるエージェントは数カ月分の滞留を週末のうちに解消した。Cignaは10を超えるシステムから会員情報を引き出し、AbridgeはAPIsのないアプリでケアプランを扱うエージェントを開発している。"
+                "x": "LLM-generatedの退院要約は現行の標準的ケアの水準を満たしており、臨床医による綿密な監督のもとで、医療における生成人工知能の有望な初期ユースケースといえる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CVS、Cigna等测试\nOpenAI电脑操作智能体",
-          "body": "OpenAI的电脑操作智能体可操作EHRs和支付方门户，接手重复的医疗手工任务。",
-          "mini_headline": "CVS、Cigna测试OpenAI智能体",
+          "headline": "临床医生签字认可\nAI-written出院小结",
+          "body": "在伦敦五家医院,GPT-4o mini撰写的出院小结获批频率不低于临床医生自己所写。",
+          "mini_headline": "AI出院小结通过审核",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Health表示，在一个实际生产工作流中，一个智能体在一个周末内清理了积压数月的文件发送任务。"
+                "t": "p",
+                "x": "出院小结对医疗连续性至关重要,但碎片化的电子健康记录(EHR)数据可能损害其质量与安全性。在这项采用预设非劣效框架的回顾性比较效果研究中,执业医生将伦敦5家医院的入院记录(2022年9月1日至2023年9月30日)与完整入院记录对照进行评估。"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在扩大面向医疗行业的电脑操作（computer-use）智能体，让AI能够操作电子健康记录系统、支付方门户及其他软件，处理重复性的手工任务。这些智能体像人一样查看屏幕、移动光标、点击按钮并输入文字。"
+                "x": "LLM-generated小结使用GPT-4o mini(2024年7月18日版本;OpenAI)和临床医生参与共同设计的提示词生成。主要结局为临床医生在无修改或仅轻微修改的情况下签字认可,非劣效界值为5个百分点。"
               },
               {
                 "t": "p",
-                "x": "OpenAI的Health AI负责人Karan Singhal表示，公司正与CVS Health、Cigna Healthcare、Abridge和Ambience合作，覆盖转诊、事前授权、出院计划、专科会诊和护理经理准备等工作流。用户可通过ChatGPT for Healthcare、ChatGPT for Clinicians和OpenAI API使用。"
+                "x": "样本包括1294份出院小结(649份由临床医生撰写,645份为LLM-generated),由12名执业医生评估。无修改或轻微修改即获认可的概率差(LLM生成减去临床医生撰写)为22.2个百分点(95% CI,19.0-27.5),证明了非劣效性。LLM-generated小结在准确性、完整性、语气和清晰度上评分更高,潜在危害评分为3或以上的比例更低(26.2%和26.8% vs 45.1%和51.5%)。"
               },
               {
                 "t": "p",
-                "x": "在OpenAI对GPT-6 Astra处理EHR收件箱任务的评估中，经审核的325项任务中有99%被评为临床安全；在646次评估中，医生有93%将该模型评为“非常有帮助”或“极其有帮助”。"
-              },
-              {
-                "t": "p",
-                "x": "CVS Health用这些智能体发送文件、处理转诊并支持专科会诊；其中一个智能体在一个周末内清理了积压数月的任务。Cigna从10多个系统中调取会员信息，Abridge则在为没有APIs的应用构建处理护理计划的智能体。"
+                "x": "LLM-generated出院小结达到了当前医疗标准,在临床医生密切监督下,是生成式人工智能在医疗领域一个前景可观的早期应用案例。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CVS, Cigna y Abridge prueban\nagentes computer-use de OpenAI",
-          "body": "Los agentes computer-use de OpenAI operan EHRs y portales de aseguradoras para asumir tareas sanitarias repetitivas.",
-          "mini_headline": "CVS y Cigna prueban agentes de OpenAI",
+          "headline": "Los clínicos validan notas\nde alta AI-written",
+          "body": "En cinco hospitales de Londres, los resúmenes de alta de GPT-4o mini se aprobaron igual o más que los de los clínicos.",
+          "mini_headline": "Notas de alta de AI superan la revisión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Health dijo que, en un flujo de trabajo en producción, un agente eliminó en un fin de semana un retraso de meses en el envío de documentos."
+                "t": "p",
+                "x": "Los resúmenes de alta hospitalaria son esenciales para la continuidad asistencial, pero los datos fragmentados de la historia clínica electrónica (EHR) pueden comprometer su calidad y seguridad. En este estudio retrospectivo de efectividad comparativa, con un marco de no inferioridad preespecificado, médicos en ejercicio evaluaron registros de ingreso de 5 hospitales de Londres (del 1 de septiembre de 2022 al 30 de septiembre de 2023) frente al registro completo del ingreso."
               },
               {
                 "t": "p",
-                "x": "OpenAI amplía sus agentes computer-use para el sector sanitario, que permiten a la AI navegar por sistemas de historia clínica electrónica, portales de aseguradoras y otro software para resolver tareas repetitivas y manuales. Los agentes ven una pantalla, mueven un cursor, hacen clic en botones y escriben texto como lo haría una persona."
+                "x": "Los resúmenes LLM-generated se elaboraron con GPT-4o mini (versión del 18 de julio de 2024; OpenAI) y un prompt codiseñado con clínicos. El resultado principal fue la aprobación del clínico sin ediciones o con ediciones menores, con un margen de no inferioridad de 5 puntos porcentuales."
               },
               {
                 "t": "p",
-                "x": "Karan Singhal, responsable de Health AI en OpenAI, dijo que la compañía trabaja con CVS Health, Cigna Healthcare, Abridge y Ambience en flujos de trabajo como derivaciones, autorizaciones previas, planificación del alta, interconsultas con especialistas y preparación de gestores de casos. El acceso se ofrece a través de ChatGPT for Healthcare, ChatGPT for Clinicians y la OpenAI API."
+                "x": "La muestra incluyó 1294 resúmenes de alta (649 redactados por clínicos y 645 LLM-generated) evaluados por 12 médicos en ejercicio. La diferencia en la probabilidad de aprobación sin ediciones o con ediciones menores (LLM generado menos redactado por clínicos) fue de 22.2 puntos porcentuales (95% CI, 19.0-27.5), lo que demuestra la no inferioridad. Los resúmenes LLM-generated obtuvieron mejores valoraciones en precisión, exhaustividad, tono y claridad, y una menor proporción recibió una puntuación de 3 o más en daño potencial (26.2% y 26.8% frente a 45.1% y 51.5%)."
               },
               {
                 "t": "p",
-                "x": "En la evaluación de OpenAI de GPT-6 Astra en tareas de la bandeja de entrada de la EHR, el 99% de 325 tareas revisadas se calificó como clínicamente seguro, y los médicos calificaron el modelo como “muy útil” o “extremadamente útil” en el 93% de 646 evaluaciones."
-              },
-              {
-                "t": "p",
-                "x": "CVS Health usa los agentes para enviar documentos, tramitar derivaciones y apoyar interconsultas con especialistas; un agente eliminó en un fin de semana un retraso acumulado de meses. Cigna extrae información de afiliados de más de 10 sistemas, y Abridge desarrolla agentes para planes de cuidados en apps sin APIs."
+                "x": "Los resúmenes de alta LLM-generated cumplieron el estándar asistencial actual y representan un caso de uso temprano y prometedor de la inteligencia artificial generativa en la atención sanitaria, con una estrecha supervisión clínica."
               }
             ]
           }
@@ -521,125 +411,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI 에이전트\nCVS·Cigna가 시험",
-          "body": "OpenAI 에이전트가 EHRs와 보험사 포털에서 반복 의료 업무를 맡는다.",
-          "mini_headline": "CVS·Cigna, OpenAI 에이전트 시험",
+          "headline": "의료진, 퇴원 기록도\nAI-written에 서명",
+          "body": "런던 다섯 병원서 GPT-4o mini 퇴원 요약이 의료진 것 못지않게 승인됐다.",
+          "mini_headline": "AI 퇴원 요약, 검토 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Health는 한 실제 운영 워크플로에서 에이전트가 몇 달 치 쌓인 문서 발송 적체를 주말 사이에 해소했다고 밝혔다."
+                "t": "p",
+                "x": "퇴원 요약은 진료의 연속성에 꼭 필요하지만, 파편화된 전자건강기록(EHR) 데이터는 그 질과 안전성을 해칠 수 있다. 사전에 정한 비열등성 틀을 적용한 이 후향적 비교효과 연구에서는 런던 5개 병원의 입원 기록(2022년 9월 1일~2023년 9월 30일)을 현직 의사들이 전체 입원 기록과 대조해 평가했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 의료용 컴퓨터 사용(computer-use) 에이전트를 확대해, AI가 전자건강기록 시스템과 보험사 포털 등 소프트웨어를 다루며 반복적인 수작업을 처리하게 한다. 에이전트는 사람처럼 화면을 보고, 커서를 움직이고, 버튼을 누르고, 텍스트를 입력한다."
+                "x": "LLM-generated 요약은 GPT-4o mini(2024년 7월 18일 출시 버전, OpenAI)와 임상의가 공동 설계한 프롬프트로 만들었다. 1차 결과 지표는 수정 없이 또는 경미한 수정만으로 임상의가 승인하는지였고, 비열등성 한계는 5퍼센트포인트였다."
               },
               {
                 "t": "p",
-                "x": "OpenAI의 Health AI 책임자 Karan Singhal은 CVS Health, Cigna Healthcare, Abridge, Ambience와 함께 진료 의뢰, 사전 승인, 퇴원 계획, 전문의 협진, 케어 매니저 준비 등의 워크플로를 작업하고 있다고 말했다. ChatGPT for Healthcare, ChatGPT for Clinicians, OpenAI API로 이용할 수 있다."
+                "x": "표본은 퇴원 요약 1294건(임상의 작성 649건, LLM-generated 645건)이며 현직 의사 12명이 평가했다. 수정 없이 또는 경미한 수정으로 승인될 확률의 차이(LLM 생성에서 임상의 작성을 뺀 값)는 22.2퍼센트포인트(95% CI, 19.0-27.5)로 비열등성이 입증됐다. LLM-generated 요약은 정확성, 완전성, 어조, 명확성에서 더 높은 평가를 받았고, 잠재적 위해가 3 이상으로 평가된 비율은 더 낮았다(26.2%와 26.8% 대 45.1%와 51.5%)."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 EHR 받은편지함 업무에서 GPT-6 Astra를 평가한 결과, 검토한 325건 중 99%가 임상적으로 안전하다는 평가를 받았고, 의사들은 646건의 평가 중 93%에서 모델을 “매우 도움이 된다” 또는 “극히 도움이 된다”고 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "CVS Health는 에이전트로 문서를 발송하고 진료 의뢰를 처리하며 전문의 협진을 지원한다. 한 에이전트는 몇 달 치 적체를 주말 사이에 해소했다. Cigna는 10개가 넘는 시스템에서 가입자 정보를 가져오고, Abridge는 APIs가 없는 앱에서 케어 플랜을 다루는 에이전트를 만들고 있다."
+                "x": "LLM-generated 퇴원 요약은 현재의 진료 기준을 충족했으며, 임상의의 면밀한 감독 아래 의료 분야에서 생성형 인공지능을 쓰는 유망한 초기 활용 사례다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI操作エージェント\nCVSやCignaが試験",
-          "body": "OpenAIのエージェントがEHRsや保険者ポータルを操作し、反復的な医療事務を担う。",
-          "mini_headline": "CVSやCignaがOpenAIエージェントを試す",
+          "headline": "臨床医が承認した\nAI-written退院要約",
+          "body": "ロンドンの五つの病院でGPT-4o miniの退院要約は臨床医作成分と同等以上に承認された。",
+          "mini_headline": "AI退院要約が審査を通過",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Healthによると、ある本番ワークフローでエージェントが数カ月分たまっていた文書送付の滞留を週末のうちに解消した。"
+                "t": "p",
+                "x": "退院要約はケアの継続性に欠かせないが、断片化した電子健康記録(EHR)データはその質と安全性を損なうおそれがある。事前に定めた非劣性の枠組みを用いたこの後ろ向き比較効果研究では、ロンドンの5病院の入院記録(2022年9月1日〜2023年9月30日)を、現役医師が入院記録全体と照合して評価した。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは医療向けのコンピューター操作(computer-use)エージェントを拡充し、AIが電子カルテシステムや保険者ポータルなどのソフトウェアを操作して、反復的な手作業をこなせるようにする。エージェントは人間と同じように画面を見て、カーソルを動かし、ボタンをクリックし、文字を入力する。"
+                "x": "LLM-generatedの要約は、GPT-4o mini(2024年7月18日リリース、OpenAI)と臨床医が共同設計したプロンプトで作成した。主要評価項目は修正なしまたは軽微な修正での臨床医の承認で、非劣性マージンは5パーセントポイントとした。"
               },
               {
                 "t": "p",
-                "x": "OpenAIでHealth AIを率いるKaran Singhalによると、同社はCVS Health、Cigna Healthcare、Abridge、Ambienceと、紹介、事前承認、退院計画、専門医コンサルト、ケアマネジャーの準備などのワークフローに取り組んでいる。ChatGPT for Healthcare、ChatGPT for Clinicians、OpenAI APIを通じて利用できる。"
+                "x": "サンプルは退院要約1294件(臨床医作成649件、LLM-generated 645件)で、現役医師12人が評価した。修正なしまたは軽微な修正で承認される確率の差(LLM生成から臨床医作成を引いた値)は22.2パーセントポイント(95% CI、19.0-27.5)で、非劣性が示された。LLM-generatedの要約は正確性、網羅性、トーン、明瞭さで高く評価され、潜在的な害が3以上と評価された割合は低かった(26.2%と26.8%対45.1%と51.5%)。"
               },
               {
                 "t": "p",
-                "x": "OpenAIがEHRの受信トレイ業務でGPT-6 Astraを評価したところ、レビューした325件のタスクの99%が臨床的に安全と判定され、医師は646件の評価のうち93%でモデルを「非常に役立つ」または「極めて役立つ」と評価した。"
-              },
-              {
-                "t": "p",
-                "x": "CVS Healthはエージェントを使って文書の送付、紹介の処理、専門医コンサルトの支援を行っており、あるエージェントは数カ月分の滞留を週末のうちに解消した。Cignaは10を超えるシステムから会員情報を引き出し、AbridgeはAPIsのないアプリでケアプランを扱うエージェントを開発している。"
+                "x": "LLM-generatedの退院要約は現行の標準的ケアの水準を満たしており、臨床医による綿密な監督のもとで、医療における生成人工知能の有望な初期ユースケースといえる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CVS、Cigna等测试\nOpenAI电脑操作智能体",
-          "body": "OpenAI的电脑操作智能体可操作EHRs和支付方门户，接手重复的医疗手工任务。",
-          "mini_headline": "CVS、Cigna测试OpenAI智能体",
+          "headline": "临床医生签字认可\nAI-written出院小结",
+          "body": "在伦敦五家医院,GPT-4o mini撰写的出院小结获批频率不低于临床医生自己所写。",
+          "mini_headline": "AI出院小结通过审核",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Health表示，在一个实际生产工作流中，一个智能体在一个周末内清理了积压数月的文件发送任务。"
+                "t": "p",
+                "x": "出院小结对医疗连续性至关重要,但碎片化的电子健康记录(EHR)数据可能损害其质量与安全性。在这项采用预设非劣效框架的回顾性比较效果研究中,执业医生将伦敦5家医院的入院记录(2022年9月1日至2023年9月30日)与完整入院记录对照进行评估。"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在扩大面向医疗行业的电脑操作（computer-use）智能体，让AI能够操作电子健康记录系统、支付方门户及其他软件，处理重复性的手工任务。这些智能体像人一样查看屏幕、移动光标、点击按钮并输入文字。"
+                "x": "LLM-generated小结使用GPT-4o mini(2024年7月18日版本;OpenAI)和临床医生参与共同设计的提示词生成。主要结局为临床医生在无修改或仅轻微修改的情况下签字认可,非劣效界值为5个百分点。"
               },
               {
                 "t": "p",
-                "x": "OpenAI的Health AI负责人Karan Singhal表示，公司正与CVS Health、Cigna Healthcare、Abridge和Ambience合作，覆盖转诊、事前授权、出院计划、专科会诊和护理经理准备等工作流。用户可通过ChatGPT for Healthcare、ChatGPT for Clinicians和OpenAI API使用。"
+                "x": "样本包括1294份出院小结(649份由临床医生撰写,645份为LLM-generated),由12名执业医生评估。无修改或轻微修改即获认可的概率差(LLM生成减去临床医生撰写)为22.2个百分点(95% CI,19.0-27.5),证明了非劣效性。LLM-generated小结在准确性、完整性、语气和清晰度上评分更高,潜在危害评分为3或以上的比例更低(26.2%和26.8% vs 45.1%和51.5%)。"
               },
               {
                 "t": "p",
-                "x": "在OpenAI对GPT-6 Astra处理EHR收件箱任务的评估中，经审核的325项任务中有99%被评为临床安全；在646次评估中，医生有93%将该模型评为“非常有帮助”或“极其有帮助”。"
-              },
-              {
-                "t": "p",
-                "x": "CVS Health用这些智能体发送文件、处理转诊并支持专科会诊；其中一个智能体在一个周末内清理了积压数月的任务。Cigna从10多个系统中调取会员信息，Abridge则在为没有APIs的应用构建处理护理计划的智能体。"
+                "x": "LLM-generated出院小结达到了当前医疗标准,在临床医生密切监督下,是生成式人工智能在医疗领域一个前景可观的早期应用案例。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CVS, Cigna y Abridge prueban\nagentes computer-use de OpenAI",
-          "body": "Los agentes computer-use de OpenAI operan EHRs y portales de aseguradoras para asumir tareas sanitarias repetitivas.",
-          "mini_headline": "CVS y Cigna prueban agentes de OpenAI",
+          "headline": "Los clínicos validan notas\nde alta AI-written",
+          "body": "En cinco hospitales de Londres, los resúmenes de alta de GPT-4o mini se aprobaron igual o más que los de los clínicos.",
+          "mini_headline": "Notas de alta de AI superan la revisión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-                "cap": "CVS Health dijo que, en un flujo de trabajo en producción, un agente eliminó en un fin de semana un retraso de meses en el envío de documentos."
+                "t": "p",
+                "x": "Los resúmenes de alta hospitalaria son esenciales para la continuidad asistencial, pero los datos fragmentados de la historia clínica electrónica (EHR) pueden comprometer su calidad y seguridad. En este estudio retrospectivo de efectividad comparativa, con un marco de no inferioridad preespecificado, médicos en ejercicio evaluaron registros de ingreso de 5 hospitales de Londres (del 1 de septiembre de 2022 al 30 de septiembre de 2023) frente al registro completo del ingreso."
               },
               {
                 "t": "p",
-                "x": "OpenAI amplía sus agentes computer-use para el sector sanitario, que permiten a la AI navegar por sistemas de historia clínica electrónica, portales de aseguradoras y otro software para resolver tareas repetitivas y manuales. Los agentes ven una pantalla, mueven un cursor, hacen clic en botones y escriben texto como lo haría una persona."
+                "x": "Los resúmenes LLM-generated se elaboraron con GPT-4o mini (versión del 18 de julio de 2024; OpenAI) y un prompt codiseñado con clínicos. El resultado principal fue la aprobación del clínico sin ediciones o con ediciones menores, con un margen de no inferioridad de 5 puntos porcentuales."
               },
               {
                 "t": "p",
-                "x": "Karan Singhal, responsable de Health AI en OpenAI, dijo que la compañía trabaja con CVS Health, Cigna Healthcare, Abridge y Ambience en flujos de trabajo como derivaciones, autorizaciones previas, planificación del alta, interconsultas con especialistas y preparación de gestores de casos. El acceso se ofrece a través de ChatGPT for Healthcare, ChatGPT for Clinicians y la OpenAI API."
+                "x": "La muestra incluyó 1294 resúmenes de alta (649 redactados por clínicos y 645 LLM-generated) evaluados por 12 médicos en ejercicio. La diferencia en la probabilidad de aprobación sin ediciones o con ediciones menores (LLM generado menos redactado por clínicos) fue de 22.2 puntos porcentuales (95% CI, 19.0-27.5), lo que demuestra la no inferioridad. Los resúmenes LLM-generated obtuvieron mejores valoraciones en precisión, exhaustividad, tono y claridad, y una menor proporción recibió una puntuación de 3 o más en daño potencial (26.2% y 26.8% frente a 45.1% y 51.5%)."
               },
               {
                 "t": "p",
-                "x": "En la evaluación de OpenAI de GPT-6 Astra en tareas de la bandeja de entrada de la EHR, el 99% de 325 tareas revisadas se calificó como clínicamente seguro, y los médicos calificaron el modelo como “muy útil” o “extremadamente útil” en el 93% de 646 evaluaciones."
-              },
-              {
-                "t": "p",
-                "x": "CVS Health usa los agentes para enviar documentos, tramitar derivaciones y apoyar interconsultas con especialistas; un agente eliminó en un fin de semana un retraso acumulado de meses. Cigna extrae información de afiliados de más de 10 sistemas, y Abridge desarrolla agentes para planes de cuidados en apps sin APIs."
+                "x": "Los resúmenes de alta LLM-generated cumplieron el estándar asistencial actual y representan un caso de uso temprano y prometedor de la inteligencia artificial generativa en la atención sanitaria, con una estrecha supervisión clínica."
               }
             ]
           }
@@ -647,553 +517,281 @@
       }
     },
     {
-      "id": "poskom-miniair-icu-xray",
+      "id": "med-retina-pe-preeclampsia",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "1.3-kg AI 엑스레이\nICU 촬영 시간 단축",
-      "body": "121-patient ICU 연구에서 MiniAIR가 DR보다 75% 넘게 빨랐다.",
-      "mini_headline": "초소형 AI 엑스레이, ICU 촬영 단축",
+      "headline": "망막 사진 모델로\n전자간증 위험 포착",
+      "body": "Retina-PE가 망막사진·임상정보로 전향적 다기관 코호트서 전자간증을 예측했다.",
+      "mini_headline": "망막 촬영으로 전자간증 경고",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03463-y",
       "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "초소형 AI 기반(AI-powered) 엑스선 시스템이 진단 성능은 유지한 채 중환자실(ICU) 침상 촬영 작업 시간을 사분의 삼 넘게 줄인다는 연구 결과가 이번 세션에서 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "중국 광저우 Southern Medical University의 Runqiu Huang 연구팀은 ICU 환자 121명을 전향적으로 연구했다. 페이퍼백 책만 한 1.3킬로그램짜리 MiniAIR 시스템(Poskom, 한국)과 침상 촬영에 쓰던 기존 이동형 디지털 방사선촬영(DR)을 맞비교했다."
-          },
-          {
-            "t": "p",
-            "x": "MiniAIR는 전체 작업 시간을 2,061초에서 475초로 76.9% 줄였다. 단계마다 크게 줄었는데 오더 시작(87.5% 단축)과 촬영 후 처리(88.4% 단축)가 특히 두드러졌다. AI 영상 보정으로 노이즈 점수가 낮아지고 공간 해상도는 센티미터당 34에서 40 라인 쌍으로 올라가 화질이 개선됐다. 진단 일치도는 높았고 기존 촬영 대비 비열등했다. 평가한 모든 과제에서 급내상관계수는 0.9987 이상, Cohen’s kappa 값은 0.88에서 1.00이었다."
-          },
-          {
-            "t": "p",
-            "x": "저자들에 따르면 기존 이동형 방사선촬영은 덩치 큰 장비와 처리 지연 탓에 오랫동안 ICU 업무 흐름의 발목을 잡아 왔다. 연구진은 “이 hardware-AI 통합 방식은 기존 이동형 방사선촬영의 핵심 한계를 해결하고 신속한 현장 진료(point-of-care) 임상 의사결정을 지원한다”고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "A 1.3-kg AI x-ray unit cuts\nICU bedside imaging time",
-          "body": "In a 121-patient ICU study, Poskom's MiniAIR cut workflow time by over 75% versus mobile DR with no diagnostic loss.",
-          "mini_headline": "Tiny AI x-ray\nspeeds ICU imaging",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "An ultra-compact AI-powered x-ray system can cut bedside imaging workflow times in intensive care units by more than three-quarters while preserving diagnostic performance, according to research in this session."
-              },
-              {
-                "t": "p",
-                "x": "In a prospective study involving 121 ICU patients, Runqiu Huang, of Southern Medical University in Guangzhou, China, and colleagues compared the MiniAIR system (Poskom, South Korea), a 1.3-kilogram device roughly the size of a paperback book, with conventional mobile digital radiography for bedside imaging."
-              },
-              {
-                "t": "p",
-                "x": "MiniAIR reduced total workflow time from 2,061 seconds to 475 seconds, a 76.9% decrease. Reductions were pronounced across all stages, particularly order initiation (87.5% faster) and post-acquisition processing (88.4% faster). AI image enhancement improved image quality, reducing noise scores and boosting spatial resolution from 34 to 40 line pairs per centimeter. Diagnostic agreement was high and non-inferior to conventional imaging, with intraclass correlation coefficients of at least 0.9987 and Cohen’s kappa values of 0.88 to 1.00 across all evaluated tasks."
-              },
-              {
-                "t": "p",
-                "x": "Conventional mobile radiography has long constrained ICU workflows through bulky hardware and processing delays, the authors noted. “This integrated hardware-AI approach addresses key limitations of conventional mobile radiography and supports rapid, point-of-care clinical decision-making,” the researchers suggested."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un aparato de rayos X de 1.3 kg\ncon AI agiliza la imagen en ICU",
-          "body": "En 121 pacientes de ICU, el MiniAIR de Poskom recortó más del 75% del tiempo frente al DR móvil sin perder precisión.",
-          "mini_headline": "Rayos X mini con AI agilizan la ICU",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Un sistema de rayos X ultracompacto con AI (AI-powered) puede reducir en más de tres cuartas partes el tiempo del flujo de trabajo de imagen junto a la cama en unidades de cuidados intensivos, manteniendo el rendimiento diagnóstico, según una investigación presentada en esta sesión."
-              },
-              {
-                "t": "p",
-                "x": "En un estudio prospectivo con 121 pacientes de ICU, Runqiu Huang, de la Southern Medical University de Guangzhou (China), y sus colegas compararon el sistema MiniAIR (Poskom, Corea del Sur), un dispositivo de 1.3 kilogramos del tamaño aproximado de un libro de bolsillo, con la radiografía digital móvil convencional para la imagen junto a la cama."
-              },
-              {
-                "t": "p",
-                "x": "MiniAIR redujo el tiempo total del flujo de trabajo de 2,061 segundos a 475 segundos, una disminución del 76.9%. Las reducciones fueron marcadas en todas las etapas, sobre todo en el inicio de la orden (87.5% más rápido) y el procesamiento posterior a la adquisición (88.4% más rápido). La mejora de imagen con AI elevó la calidad, redujo las puntuaciones de ruido y aumentó la resolución espacial de 34 a 40 pares de líneas por centímetro. La concordancia diagnóstica fue alta y no inferior a la imagen convencional, con coeficientes de correlación intraclase de al menos 0.9987 y valores kappa de Cohen de 0.88 a 1.00 en todas las tareas evaluadas."
-              },
-              {
-                "t": "p",
-                "x": "La radiografía móvil convencional ha limitado durante mucho tiempo los flujos de trabajo de la ICU por su hardware voluminoso y sus retrasos de procesamiento, señalaron los autores. “Este enfoque integrado hardware-AI aborda limitaciones clave de la radiografía móvil convencional y respalda una toma de decisiones clínicas rápida en el punto de atención”, sugirieron los investigadores."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "1.3-kg AI 엑스레이\nICU 촬영 시간 단축",
-          "body": "121-patient ICU 연구에서 MiniAIR가 DR보다 75% 넘게 빨랐다.",
-          "mini_headline": "초소형 AI 엑스레이, ICU 촬영 단축",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "초소형 AI 기반(AI-powered) 엑스선 시스템이 진단 성능은 유지한 채 중환자실(ICU) 침상 촬영 작업 시간을 사분의 삼 넘게 줄인다는 연구 결과가 이번 세션에서 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "중국 광저우 Southern Medical University의 Runqiu Huang 연구팀은 ICU 환자 121명을 전향적으로 연구했다. 페이퍼백 책만 한 1.3킬로그램짜리 MiniAIR 시스템(Poskom, 한국)과 침상 촬영에 쓰던 기존 이동형 디지털 방사선촬영(DR)을 맞비교했다."
-              },
-              {
-                "t": "p",
-                "x": "MiniAIR는 전체 작업 시간을 2,061초에서 475초로 76.9% 줄였다. 단계마다 크게 줄었는데 오더 시작(87.5% 단축)과 촬영 후 처리(88.4% 단축)가 특히 두드러졌다. AI 영상 보정으로 노이즈 점수가 낮아지고 공간 해상도는 센티미터당 34에서 40 라인 쌍으로 올라가 화질이 개선됐다. 진단 일치도는 높았고 기존 촬영 대비 비열등했다. 평가한 모든 과제에서 급내상관계수는 0.9987 이상, Cohen’s kappa 값은 0.88에서 1.00이었다."
-              },
-              {
-                "t": "p",
-                "x": "저자들에 따르면 기존 이동형 방사선촬영은 덩치 큰 장비와 처리 지연 탓에 오랫동안 ICU 업무 흐름의 발목을 잡아 왔다. 연구진은 “이 hardware-AI 통합 방식은 기존 이동형 방사선촬영의 핵심 한계를 해결하고 신속한 현장 진료(point-of-care) 임상 의사결정을 지원한다”고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "1.3-kgのAI X線機\nICUの撮影時間を短縮",
-          "body": "121-patientのICU研究で、MiniAIRはDR比で作業時間を75%超短縮した。",
-          "mini_headline": "小型AI X線がICU撮影を短縮",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "超小型のAI搭載（AI-powered）X線システムは、診断性能を保ったまま集中治療室（ICU）でのベッドサイド撮影の作業時間を四分の三以上短縮できると、本セッションの研究が示した。"
-              },
-              {
-                "t": "p",
-                "x": "中国・広州のSouthern Medical UniversityのRunqiu Huangらは、ICU患者121人を対象とした前向き研究で、ペーパーバック本ほどの大きさの1.3キログラムの装置であるMiniAIRシステム（Poskom、韓国）を、ベッドサイド撮影用の従来の移動型デジタルX線撮影（DR）と比較した。"
-              },
-              {
-                "t": "p",
-                "x": "MiniAIRは総作業時間を2,061秒から475秒へと76.9%短縮した。短縮はすべての段階で顕著で、特にオーダー開始（87.5%短縮）と撮影後処理（88.4%短縮）で大きかった。AIによる画像補正は画質を高め、ノイズスコアを下げ、空間分解能を1センチメートルあたり34から40ラインペアに向上させた。診断の一致度は高く従来撮影に対して非劣性で、評価したすべての課題で級内相関係数は0.9987以上、Cohen’s kappa値は0.88から1.00だった。"
-              },
-              {
-                "t": "p",
-                "x": "従来の移動型X線撮影は、かさばる装置と処理の遅れによって長くICUの業務フローを制約してきたと著者らは指摘した。研究者らは「このhardware-AI統合アプローチは従来の移動型X線撮影の主要な限界に対処し、迅速なポイント・オブ・ケア（point-of-care）での臨床判断を支える」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "1.3-kg AI X光机\n缩短ICU床旁成像时间",
-          "body": "在121-patient ICU研究中，MiniAIR较移动DR将流程时间缩短逾75%。",
-          "mini_headline": "微型AI X光机加快ICU成像",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "本场次发布的研究显示，一款超小型AI驱动（AI-powered）X光系统可在保持诊断性能的同时，将重症监护病房（ICU）床旁成像的工作流程时间缩短四分之三以上。"
-              },
-              {
-                "t": "p",
-                "x": "在一项纳入121名ICU患者的前瞻性研究中，中国广州Southern Medical University（南方医科大学）的Runqiu Huang及同事将MiniAIR系统（Poskom，韩国）——一台重1.3公斤、大小约如一本平装书的设备——与床旁成像常用的传统移动数字X线摄影（DR）进行了比较。"
-              },
-              {
-                "t": "p",
-                "x": "MiniAIR将总流程时间从2,061秒缩短至475秒，降幅76.9%。各环节的缩减都很明显，尤其是开单环节（快87.5%）和采集后处理环节（快88.4%）。AI图像增强提升了图像质量，降低了噪声评分，并将空间分辨率从每厘米34线对提高到40线对。诊断一致性高，且不劣于传统成像：在所有评估任务中，组内相关系数至少为0.9987，Cohen’s kappa值为0.88至1.00。"
-              },
-              {
-                "t": "p",
-                "x": "作者指出，传统移动X线摄影长期以来因设备笨重和处理延迟而制约着ICU的工作流程。研究人员认为：“这种hardware-AI一体化方案解决了传统移动X线摄影的关键局限，可支持快速的床旁（point-of-care）临床决策。”"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "Un aparato de rayos X de 1.3 kg\ncon AI agiliza la imagen en ICU",
-          "body": "En 121 pacientes de ICU, el MiniAIR de Poskom recortó más del 75% del tiempo frente al DR móvil sin perder precisión.",
-          "mini_headline": "Rayos X mini con AI agilizan la ICU",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Un sistema de rayos X ultracompacto con AI (AI-powered) puede reducir en más de tres cuartas partes el tiempo del flujo de trabajo de imagen junto a la cama en unidades de cuidados intensivos, manteniendo el rendimiento diagnóstico, según una investigación presentada en esta sesión."
-              },
-              {
-                "t": "p",
-                "x": "En un estudio prospectivo con 121 pacientes de ICU, Runqiu Huang, de la Southern Medical University de Guangzhou (China), y sus colegas compararon el sistema MiniAIR (Poskom, Corea del Sur), un dispositivo de 1.3 kilogramos del tamaño aproximado de un libro de bolsillo, con la radiografía digital móvil convencional para la imagen junto a la cama."
-              },
-              {
-                "t": "p",
-                "x": "MiniAIR redujo el tiempo total del flujo de trabajo de 2,061 segundos a 475 segundos, una disminución del 76.9%. Las reducciones fueron marcadas en todas las etapas, sobre todo en el inicio de la orden (87.5% más rápido) y el procesamiento posterior a la adquisición (88.4% más rápido). La mejora de imagen con AI elevó la calidad, redujo las puntuaciones de ruido y aumentó la resolución espacial de 34 a 40 pares de líneas por centímetro. La concordancia diagnóstica fue alta y no inferior a la imagen convencional, con coeficientes de correlación intraclase de al menos 0.9987 y valores kappa de Cohen de 0.88 a 1.00 en todas las tareas evaluadas."
-              },
-              {
-                "t": "p",
-                "x": "La radiografía móvil convencional ha limitado durante mucho tiempo los flujos de trabajo de la ICU por su hardware voluminoso y sus retrasos de procesamiento, señalaron los autores. “Este enfoque integrado hardware-AI aborda limitaciones clave de la radiografía móvil convencional y respalda una toma de decisiones clínicas rápida en el punto de atención”, sugirieron los investigadores."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "1.3-kg AI 엑스레이\nICU 촬영 시간 단축",
-          "body": "121-patient ICU 연구에서 MiniAIR가 DR보다 75% 넘게 빨랐다.",
-          "mini_headline": "초소형 AI 엑스레이, ICU 촬영 단축",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "초소형 AI 기반(AI-powered) 엑스선 시스템이 진단 성능을 유지하면서 중환자실(ICU) 침상 촬영 작업 시간을 사분의 삼 넘게 줄일 수 있다는 연구가 이번 세션에서 발표됐다."
-              },
-              {
-                "t": "p",
-                "x": "중국 광저우 Southern Medical University의 Runqiu Huang 연구팀은 ICU 환자 121명을 대상으로 한 전향적 연구에서 페이퍼백 책 크기의 1.3킬로그램 장비인 MiniAIR 시스템(Poskom, 한국)을 침상 촬영용 기존 이동형 디지털 방사선촬영(DR)과 비교했다."
-              },
-              {
-                "t": "p",
-                "x": "MiniAIR는 전체 작업 시간을 2,061초에서 475초로 76.9% 줄였다. 모든 단계에서 감소 폭이 컸고, 특히 오더 시작(87.5% 단축)과 촬영 후 처리(88.4% 단축)에서 두드러졌다. AI 영상 보정은 노이즈 점수를 낮추고 공간 해상도를 센티미터당 34에서 40 라인 쌍으로 높여 화질을 개선했다. 진단 일치도는 높았고 기존 촬영에 비해 비열등했으며, 평가한 모든 과제에서 급내상관계수는 0.9987 이상, Cohen’s kappa 값은 0.88에서 1.00이었다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 기존 이동형 방사선촬영이 부피 큰 장비와 처리 지연으로 오랫동안 ICU 업무 흐름을 제약해 왔다고 지적했다. 연구진은 “이 hardware-AI 통합 방식은 기존 이동형 방사선촬영의 핵심 한계를 해결하고 신속한 현장 진료(point-of-care) 임상 의사결정을 지원한다”고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "1.3-kgのAI X線機\nICUの撮影時間を短縮",
-          "body": "121-patientのICU研究で、MiniAIRはDR比で作業時間を75%超短縮した。",
-          "mini_headline": "小型AI X線がICU撮影を短縮",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "超小型のAI搭載（AI-powered）X線システムは、診断性能を保ったまま集中治療室（ICU）でのベッドサイド撮影の作業時間を四分の三以上短縮できると、本セッションの研究が示した。"
-              },
-              {
-                "t": "p",
-                "x": "中国・広州のSouthern Medical UniversityのRunqiu Huangらは、ICU患者121人を対象とした前向き研究で、ペーパーバック本ほどの大きさの1.3キログラムの装置であるMiniAIRシステム（Poskom、韓国）を、ベッドサイド撮影用の従来の移動型デジタルX線撮影（DR）と比較した。"
-              },
-              {
-                "t": "p",
-                "x": "MiniAIRは総作業時間を2,061秒から475秒へと76.9%短縮した。短縮はすべての段階で顕著で、特にオーダー開始（87.5%短縮）と撮影後処理（88.4%短縮）で大きかった。AIによる画像補正は画質を高め、ノイズスコアを下げ、空間分解能を1センチメートルあたり34から40ラインペアに向上させた。診断の一致度は高く従来撮影に対して非劣性で、評価したすべての課題で級内相関係数は0.9987以上、Cohen’s kappa値は0.88から1.00だった。"
-              },
-              {
-                "t": "p",
-                "x": "従来の移動型X線撮影は、かさばる装置と処理の遅れによって長くICUの業務フローを制約してきたと著者らは指摘した。研究者らは「このhardware-AI統合アプローチは従来の移動型X線撮影の主要な限界に対処し、迅速なポイント・オブ・ケア（point-of-care）での臨床判断を支える」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "1.3-kg AI X光机\n缩短ICU床旁成像时间",
-          "body": "在121-patient ICU研究中，MiniAIR较移动DR将流程时间缩短逾75%。",
-          "mini_headline": "微型AI X光机加快ICU成像",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "本场次发布的研究显示，一款超小型AI驱动（AI-powered）X光系统可在保持诊断性能的同时，将重症监护病房（ICU）床旁成像的工作流程时间缩短四分之三以上。"
-              },
-              {
-                "t": "p",
-                "x": "在一项纳入121名ICU患者的前瞻性研究中，中国广州Southern Medical University（南方医科大学）的Runqiu Huang及同事将MiniAIR系统（Poskom，韩国）——一台重1.3公斤、大小约如一本平装书的设备——与床旁成像常用的传统移动数字X线摄影（DR）进行了比较。"
-              },
-              {
-                "t": "p",
-                "x": "MiniAIR将总流程时间从2,061秒缩短至475秒，降幅76.9%。各环节的缩减都很明显，尤其是开单环节（快87.5%）和采集后处理环节（快88.4%）。AI图像增强提升了图像质量，降低了噪声评分，并将空间分辨率从每厘米34线对提高到40线对。诊断一致性高，且不劣于传统成像：在所有评估任务中，组内相关系数至少为0.9987，Cohen’s kappa值为0.88至1.00。"
-              },
-              {
-                "t": "p",
-                "x": "作者指出，传统移动X线摄影长期以来因设备笨重和处理延迟而制约着ICU的工作流程。研究人员认为：“这种hardware-AI一体化方案解决了传统移动X线摄影的关键局限，可支持快速的床旁（point-of-care）临床决策。”"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "naitive-osteosight-spine-510k",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "FDA, X선 AI 골건강\nOsteoSight 승인",
-      "body": "Naitive는 FDA 510(k)로 AI 골건강 평가를 척추·흉부 X선에 넓혔다.",
-      "mini_headline": "FDA, X선 AI 골건강 판독 승인",
-      "tool": "Medicine",
-      "source": "Orthopedics This Week",
-      "url": "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays",
-      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-            "cap": "Naitive Technologies 제공"
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+            "cap": "그래픽 초록"
           },
           {
             "t": "p",
-            "x": "Naitive Technologies가 OsteoSight Spine의 U.S. FDA 510(k) 승인을 발표했다. OsteoSight Spine은 다른 임상 목적으로 찍은 일상적인 요추·흉추·흉부 X선(X-rays)을 그대로 활용해 골밀도(BMD)를 기회적으로 평가한다. US에서는 이런 X선 촬영이 해마다 약 124 million 건으로 추산된다. 앞서 2025년 9월에는 고관절·골반 X선용 OsteoSight가 FDA 승인을 받았다."
+            "x": "전자간증(PE)은 산모와 주산기 이환·사망을 부르지만 비침습 선별검사는 아직 마땅치 않다. 연구진은 망막 사진과 산모 임상 요인, 평균 동맥압을 묶어 이후 PE 발생을 예측하는 멀티모달 딥러닝 모델 Retina-PE를 만들었다. 모델 개발과 평가는 임신부 8616명에게서 전향적으로 모은 다기관 데이터로 후향적으로 진행했다."
           },
           {
             "t": "p",
-            "x": "BMD가 낮은 환자의 70%는 진단 없이 지내다 골절이 생기고 나서야 발견되는 일이 많다. OsteoSight Spine은 50세 이상 환자의 X선을 분석해 낮은 BMD 위험 사례를 골라낸다. 보고서는 판독의를 돕고 골 건강 임상 평가로 이어지게 한다."
+            "x": "개발 데이터셋(Development-dataset)의 이미지 수준 수신자 조작 특성 곡선 아래 면적(AUCs)은 24–28주와 28–32주 PE 발생에서 0.853과 0.708, 1주·4주 조산 PE에서 0.871과 0.791, 1주·4주 조기 발병 PE에서 0.979와 0.862였다. 외부 검증 데이터셋에서는 같은 순서로 AUCs가 0.728과 0.815, 0.801과 0.801, 0.776과 0.766이었다."
           },
           {
             "t": "p",
-            "x": "Hospital for Special Surgery의 Dr. Todd Albert는 “OsteoSight Spine은 우리가 매일 처방하는 X선을 활용해 버젓이 눈앞에 숨어 있던 낮은 골밀도 환자를 짚어 낸다”고 말했다. Naitive CEO Dr. Will Briggs는 “척추와 흉부 X선은 의학에서 가장 흔한 영상에 속하며, 한 장 한 장이 골절 전에 낮은 골밀도를 잡아낼 기회”라고 설명했다."
+            "x": "성능이 얼마나 나아졌는지는 과제마다 달랐다. 환자 수준 분석도 흐름은 비슷했으나 일부 과제는 사건 수가 적었다. 이번 결과는 망막 영상으로 산모 위험을 층화하는 방안을 전향적으로 평가할 근거가 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "FDA clears OsteoSight Spine\nfor AI bone health on x-rays",
-          "body": "Naitive's FDA 510(k) clearance extends its AI opportunistic bone-health assessment to spine and chest x-rays.",
-          "mini_headline": "FDA clears AI bone\ncheck on x-rays",
+          "headline": "A retinal photo model\nflags preeclampsia risk",
+          "body": "Retina-PE, pairing retinal photos with clinical data, predicted preeclampsia in a prospective multicenter cohort.",
+          "mini_headline": "Retina scans flag preeclampsia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "Courtesy of Naitive Technologies"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "Graphical abstract"
               },
               {
                 "t": "p",
-                "x": "Naitive Technologies announced that it has received 510(k) clearance from the U.S. FDA for OsteoSight Spine, which enables opportunistic assessment of bone mineral density (BMD) using routine lumbar spine, thoracic spine, and chest X-rays acquired to investigate other clinical concerns. An estimated 124 million such X-rays are performed in the US each year. The clearance follows FDA clearance of OsteoSight for hip and pelvis X-rays in September 2025."
+                "x": "Preeclampsia (PE) causes maternal and perinatal morbidity and mortality, yet noninvasive screening remains limited. We developed Retina-PE, a multimodal deep learning model integrating retinal photographs, maternal clinical factors, and mean arterial pressure to predict subsequent PE. Prospectively collected multicenter data from 8616 pregnant individuals were used for retrospective model development and evaluation."
               },
               {
                 "t": "p",
-                "x": "70% of patients with low BMD are undiagnosed, often until a fracture occurs. OsteoSight Spine analyzes X-rays in patients 50 years and older, identifies cases at risk for low BMD and provides a report to aid the interpreting physician and prompt a clinical assessment of bone health."
+                "x": "Development-dataset image-level areas under the receiver operating characteristic curve (AUCs) were 0.853 and 0.708 for PE occurrence at 24–28 and 28–32 weeks, 0.871 and 0.791 for 1- and 4-week preterm PE, and 0.979 and 0.862 for 1- and 4-week early-onset PE. Corresponding external-validation-dataset AUCs were 0.728 and 0.815, 0.801 and 0.801, and 0.776 and 0.766."
               },
               {
                 "t": "p",
-                "x": "“OsteoSight Spine draws on the X-rays we order every day to flag patients whose low bone density is hiding in plain sight,” said Dr. Todd Albert of Hospital for Special Surgery. “Spine and chest X-rays are among the most common images in medicine, and each one is a chance to catch low bone density before a fracture,” said Naitive CEO Dr. Will Briggs."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La FDA autoriza OsteoSight Spine\nsalud ósea con AI en rayos X",
-          "body": "Con la autorización 510(k) de la FDA, Naitive lleva su evaluación ósea con AI a rayos X de columna y tórax.",
-          "mini_headline": "La FDA autoriza AI ósea en rayos X",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "Cortesía de Naitive Technologies"
-              },
-              {
-                "t": "p",
-                "x": "Naitive Technologies anunció que recibió la autorización 510(k) de la FDA de Estados Unidos (U.S.) para OsteoSight Spine, que permite evaluar de forma oportunista la densidad mineral ósea (BMD) con radiografías rutinarias de columna lumbar, columna torácica y tórax obtenidas para investigar otros problemas clínicos. Se estima que en Estados Unidos (US) se realizan 124 millones de estas radiografías al año. La autorización llega después de que la FDA autorizara OsteoSight para radiografías de cadera y pelvis en septiembre de 2025."
-              },
-              {
-                "t": "p",
-                "x": "El 70% de los pacientes con BMD baja no está diagnosticado, a menudo hasta que se produce una fractura. OsteoSight Spine analiza radiografías de pacientes de 50 años o más, identifica casos con riesgo de BMD baja y ofrece un informe que ayuda al médico que las interpreta y promueve una evaluación clínica de la salud ósea."
-              },
-              {
-                "t": "p",
-                "x": "“OsteoSight Spine aprovecha las radiografías que pedimos cada día para señalar a pacientes cuya baja densidad ósea se esconde a plena vista”, dijo el Dr. Todd Albert, del Hospital for Special Surgery. “Las radiografías de columna y tórax están entre las imágenes más comunes de la medicina, y cada una es una oportunidad para detectar la baja densidad ósea antes de una fractura”, dijo el CEO de Naitive, el Dr. Will Briggs."
+                "x": "Incremental performance was task-specific. Patient-level analyses showed similar patterns but included few events in some tasks. These findings support prospective evaluation of retinal imaging for maternal risk stratification."
               }
             ]
           }
         },
         "ko": {
-          "headline": "FDA, X선 AI 골건강\nOsteoSight 승인",
-          "body": "Naitive는 FDA 510(k)로 AI 골건강 평가를 척추·흉부 X선에 넓혔다.",
-          "mini_headline": "FDA, X선 AI 골건강 판독 승인",
+          "headline": "망막 사진 모델로\n전자간증 위험 포착",
+          "body": "Retina-PE가 망막사진·임상정보로 전향적 다기관 코호트서 전자간증을 예측했다.",
+          "mini_headline": "망막 촬영으로 전자간증 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "Naitive Technologies 제공"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "그래픽 초록"
               },
               {
                 "t": "p",
-                "x": "Naitive Technologies가 OsteoSight Spine의 U.S. FDA 510(k) 승인을 발표했다. OsteoSight Spine은 다른 임상 목적으로 찍은 일상적인 요추·흉추·흉부 X선(X-rays)을 그대로 활용해 골밀도(BMD)를 기회적으로 평가한다. US에서는 이런 X선 촬영이 해마다 약 124 million 건으로 추산된다. 앞서 2025년 9월에는 고관절·골반 X선용 OsteoSight가 FDA 승인을 받았다."
+                "x": "전자간증(PE)은 산모와 주산기 이환·사망을 부르지만 비침습 선별검사는 아직 마땅치 않다. 연구진은 망막 사진과 산모 임상 요인, 평균 동맥압을 묶어 이후 PE 발생을 예측하는 멀티모달 딥러닝 모델 Retina-PE를 만들었다. 모델 개발과 평가는 임신부 8616명에게서 전향적으로 모은 다기관 데이터로 후향적으로 진행했다."
               },
               {
                 "t": "p",
-                "x": "BMD가 낮은 환자의 70%는 진단 없이 지내다 골절이 생기고 나서야 발견되는 일이 많다. OsteoSight Spine은 50세 이상 환자의 X선을 분석해 낮은 BMD 위험 사례를 골라낸다. 보고서는 판독의를 돕고 골 건강 임상 평가로 이어지게 한다."
+                "x": "개발 데이터셋(Development-dataset)의 이미지 수준 수신자 조작 특성 곡선 아래 면적(AUCs)은 24–28주와 28–32주 PE 발생에서 0.853과 0.708, 1주·4주 조산 PE에서 0.871과 0.791, 1주·4주 조기 발병 PE에서 0.979와 0.862였다. 외부 검증 데이터셋에서는 같은 순서로 AUCs가 0.728과 0.815, 0.801과 0.801, 0.776과 0.766이었다."
               },
               {
                 "t": "p",
-                "x": "Hospital for Special Surgery의 Dr. Todd Albert는 “OsteoSight Spine은 우리가 매일 처방하는 X선을 활용해 버젓이 눈앞에 숨어 있던 낮은 골밀도 환자를 짚어 낸다”고 말했다. Naitive CEO Dr. Will Briggs는 “척추와 흉부 X선은 의학에서 가장 흔한 영상에 속하며, 한 장 한 장이 골절 전에 낮은 골밀도를 잡아낼 기회”라고 설명했다."
+                "x": "성능이 얼마나 나아졌는지는 과제마다 달랐다. 환자 수준 분석도 흐름은 비슷했으나 일부 과제는 사건 수가 적었다. 이번 결과는 망막 영상으로 산모 위험을 층화하는 방안을 전향적으로 평가할 근거가 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、X線AI骨評価\nOsteoSightを承認",
-          "body": "NaitiveはFDA 510(k)取得で、AI骨健康評価を脊椎・胸部X線へ広げた。",
-          "mini_headline": "FDA、X線のAI骨評価を承認",
+          "headline": "網膜写真のモデルが\n妊娠高血圧腎症リスク察知",
+          "body": "Retina-PEは網膜写真と臨床データで前向き多施設コホートの妊娠高血圧腎症を予測した。",
+          "mini_headline": "網膜画像で妊娠高血圧腎症を察知",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "Naitive Technologies提供"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "グラフィカルアブストラクト"
               },
               {
                 "t": "p",
-                "x": "Naitive Technologiesは、OsteoSight SpineがU.S. FDAから510(k)クリアランスを取得したと発表した。OsteoSight Spineは、別の臨床的理由で撮影された通常の腰椎・胸椎・胸部X線（X-rays）を使い、骨密度（BMD）を機会的に評価できる。USではこうしたX線撮影が年間推定124 million 件行われている。今回の承認は、2025年9月に股関節・骨盤X線向けのOsteoSightがFDAの承認を受けたのに続くものだ。"
+                "x": "妊娠高血圧腎症(PE)は母体と周産期の罹患・死亡の原因となるが、非侵襲的なスクリーニングは依然として限られている。研究チームは、網膜写真、母体の臨床因子、平均動脈圧を統合してその後のPE発症を予測するマルチモーダル深層学習モデルRetina-PEを開発した。妊婦8616人から前向きに収集した多施設データを、後ろ向きのモデル開発と評価に用いた。"
               },
               {
                 "t": "p",
-                "x": "BMDが低い患者の70%は診断されておらず、骨折が起きるまで見過ごされることが多い。OsteoSight Spineは50歳以上の患者のX線を解析し、低BMDのリスクがある症例を特定して、読影医を支援し骨の健康の臨床評価を促すレポートを提供する。"
+                "x": "開発データセット(Development-dataset)の画像レベルの受信者動作特性曲線下面積(AUCs)は、24–28週と28–32週のPE発症で0.853と0.708、1週・4週の早産PEで0.871と0.791、1週・4週の早発型PEで0.979と0.862だった。対応する外部検証データセットのAUCsは、0.728と0.815、0.801と0.801、0.776と0.766だった。"
               },
               {
                 "t": "p",
-                "x": "「OsteoSight Spineは、私たちが毎日オーダーするX線を活用し、目の前に隠れている低骨密度の患者を拾い上げる」とHospital for Special SurgeryのDr. Todd Albertは述べた。NaitiveのCEO、Dr. Will Briggsは「脊椎と胸部のX線は医療で最も一般的な画像の一つであり、その一枚一枚が骨折前に低骨密度を見つける機会だ」と語った。"
+                "x": "上乗せ効果はタスクごとに異なった。患者レベルの解析でも同様の傾向が見られたが、一部のタスクではイベント数が少なかった。これらの結果は、母体リスク層別化のための網膜画像の前向き評価を支持するものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA批准X光AI骨评估\nOsteoSight脊柱版",
-          "body": "Naitive获FDA 510(k)许可，将AI机会性骨健康评估扩展至脊柱与胸部X光。",
-          "mini_headline": "FDA批准X光AI骨健康评估",
+          "headline": "视网膜照片模型\n可提示子痫前期风险",
+          "body": "Retina-PE结合视网膜照片与临床数据,在一项前瞻性多中心队列中预测了子痫前期。",
+          "mini_headline": "视网膜扫描预警子痫前期",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "图片由Naitive Technologies提供"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "图文摘要"
               },
               {
                 "t": "p",
-                "x": "Naitive Technologies宣布，其OsteoSight Spine已获U.S. FDA的510(k)许可。该产品可利用为排查其他临床问题而拍摄的常规腰椎、胸椎及胸部X光片（X-rays），对骨密度（BMD）进行机会性评估。US每年此类X光检查估计约有124 million 次。此前，用于髋部和骨盆X光的OsteoSight已于2025年9月获FDA许可。"
+                "x": "子痫前期(PE)会导致孕产妇及围产期的发病和死亡,但无创筛查手段仍然有限。研究团队开发了Retina-PE,这是一种整合视网膜照片、孕产妇临床因素和平均动脉压来预测后续PE的多模态深度学习模型。研究使用前瞻性收集的8616名孕妇多中心数据进行回顾性模型开发与评估。"
               },
               {
                 "t": "p",
-                "x": "70%的低BMD患者未获诊断，往往直到发生骨折才被发现。OsteoSight Spine分析50岁及以上患者的X光片，识别存在低BMD风险的病例，并提供报告，辅助判读医生并促使其对骨骼健康进行临床评估。"
+                "x": "开发数据集(Development-dataset)图像层面的受试者工作特征曲线下面积(AUCs)为:24–28周和28–32周PE发生分别为0.853和0.708,1周和4周早产PE分别为0.871和0.791,1周和4周早发型PE分别为0.979和0.862。对应的外部验证数据集AUCs分别为0.728和0.815、0.801和0.801、0.776和0.766。"
               },
               {
                 "t": "p",
-                "x": "Hospital for Special Surgery的Dr. Todd Albert表示：“OsteoSight Spine利用我们每天开具的X光片，找出那些低骨密度就藏在眼皮底下的患者。”Naitive首席执行官（CEO）Dr. Will Briggs说：“脊柱和胸部X光是医学中最常见的影像之一，每一张都是在骨折前发现低骨密度的机会。”"
+                "x": "增量性能因任务而异。患者层面分析显示出相似模式,但部分任务中事件数较少。这些发现支持对视网膜成像用于孕产妇风险分层开展前瞻性评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modelo con fotos de retina\ndetecta riesgo de preeclampsia",
+          "body": "Retina-PE, con fotos de retina y datos clínicos, predijo preeclampsia en una cohorte prospectiva multicéntrica.",
+          "mini_headline": "La retina alerta de la preeclampsia",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "Resumen gráfico"
+              },
+              {
+                "t": "p",
+                "x": "La preeclampsia (PE) causa morbilidad y mortalidad materna y perinatal, pero el cribado no invasivo sigue siendo limitado. Desarrollamos Retina-PE, un modelo multimodal de aprendizaje profundo que integra fotografías de retina, factores clínicos maternos y presión arterial media para predecir la PE posterior. Se usaron datos multicéntricos recogidos de forma prospectiva de 8616 gestantes para el desarrollo y la evaluación retrospectivos del modelo."
+              },
+              {
+                "t": "p",
+                "x": "En el conjunto de desarrollo (Development-dataset), las áreas bajo la curva característica operativa del receptor a nivel de imagen (AUCs) fueron de 0.853 y 0.708 para la aparición de PE a las 24–28 y 28–32 semanas, de 0.871 y 0.791 para la PE pretérmino a 1 y 4 semanas, y de 0.979 y 0.862 para la PE de inicio temprano a 1 y 4 semanas. Las AUCs correspondientes en el conjunto de validación externa fueron de 0.728 y 0.815, 0.801 y 0.801, y 0.776 y 0.766."
+              },
+              {
+                "t": "p",
+                "x": "La mejora incremental del rendimiento dependió de la tarea. Los análisis a nivel de paciente mostraron patrones similares, aunque con pocos eventos en algunas tareas. Estos hallazgos respaldan la evaluación prospectiva de la imagen retiniana para la estratificación del riesgo materno."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "La FDA autoriza OsteoSight Spine\nsalud ósea con AI en rayos X",
-          "body": "Con la autorización 510(k) de la FDA, Naitive lleva su evaluación ósea con AI a rayos X de columna y tórax.",
-          "mini_headline": "La FDA autoriza AI ósea en rayos X",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "Cortesía de Naitive Technologies"
-              },
-              {
-                "t": "p",
-                "x": "Naitive Technologies anunció que recibió la autorización 510(k) de la FDA de Estados Unidos (U.S.) para OsteoSight Spine, que permite evaluar de forma oportunista la densidad mineral ósea (BMD) con radiografías rutinarias de columna lumbar, columna torácica y tórax obtenidas para investigar otros problemas clínicos. Se estima que en Estados Unidos (US) se realizan 124 millones de estas radiografías al año. La autorización llega después de que la FDA autorizara OsteoSight para radiografías de cadera y pelvis en septiembre de 2025."
-              },
-              {
-                "t": "p",
-                "x": "El 70% de los pacientes con BMD baja no está diagnosticado, a menudo hasta que se produce una fractura. OsteoSight Spine analiza radiografías de pacientes de 50 años o más, identifica casos con riesgo de BMD baja y ofrece un informe que ayuda al médico que las interpreta y promueve una evaluación clínica de la salud ósea."
-              },
-              {
-                "t": "p",
-                "x": "“OsteoSight Spine aprovecha las radiografías que pedimos cada día para señalar a pacientes cuya baja densidad ósea se esconde a plena vista”, dijo el Dr. Todd Albert, del Hospital for Special Surgery. “Las radiografías de columna y tórax están entre las imágenes más comunes de la medicina, y cada una es una oportunidad para detectar la baja densidad ósea antes de una fractura”, dijo el CEO de Naitive, el Dr. Will Briggs."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "FDA, X선 AI 골건강\nOsteoSight 승인",
-          "body": "Naitive는 FDA 510(k)로 AI 골건강 평가를 척추·흉부 X선에 넓혔다.",
-          "mini_headline": "FDA, X선 AI 골건강 판독 승인",
+          "headline": "망막 사진 모델로\n전자간증 위험 포착",
+          "body": "Retina-PE는 망막사진·임상정보로 전향 다기관 코호트서 전자간증을 예측했다.",
+          "mini_headline": "망막 촬영으로 전자간증 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "Naitive Technologies 제공"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "그래픽 초록"
               },
               {
                 "t": "p",
-                "x": "Naitive Technologies는 OsteoSight Spine이 U.S. FDA로부터 510(k) 승인을 받았다고 발표했다. OsteoSight Spine은 다른 임상적 이유로 촬영한 일상적인 요추·흉추·흉부 X선(X-rays)을 활용해 골밀도(BMD)를 기회적으로 평가한다. US에서는 이런 X선 촬영이 해마다 약 124 million 건 이뤄지는 것으로 추산된다. 이번 승인은 2025년 9월 고관절·골반 X선용 OsteoSight가 FDA 승인을 받은 데 이은 것이다."
+                "x": "전자간증(PE)은 산모와 주산기 이환·사망의 원인이지만 비침습적 선별검사는 여전히 제한적이다. 연구진은 망막 사진, 산모 임상 요인, 평균 동맥압을 통합해 이후 PE 발생을 예측하는 멀티모달 딥러닝 모델 Retina-PE를 개발했다. 임신부 8616명에게서 전향적으로 수집한 다기관 데이터를 후향적 모델 개발과 평가에 사용했다."
               },
               {
                 "t": "p",
-                "x": "BMD가 낮은 환자의 70%는 진단을 받지 못한 채 지내며, 골절이 생긴 뒤에야 발견되는 경우가 많다. OsteoSight Spine은 50세 이상 환자의 X선을 분석해 낮은 BMD 위험 사례를 찾아내고, 판독의를 돕고 골 건강에 대한 임상 평가를 이끌어 내는 보고서를 제공한다."
+                "x": "개발 데이터셋(Development-dataset)의 이미지 수준 수신자 조작 특성 곡선 아래 면적(AUCs)은 24–28주와 28–32주 PE 발생에서 0.853과 0.708, 1주·4주 조산 PE에서 0.871과 0.791, 1주·4주 조기 발병 PE에서 0.979와 0.862였다. 이에 대응하는 외부 검증 데이터셋 AUCs는 0.728과 0.815, 0.801과 0.801, 0.776과 0.766이었다."
               },
               {
                 "t": "p",
-                "x": "Hospital for Special Surgery의 Dr. Todd Albert는 “OsteoSight Spine은 우리가 매일 처방하는 X선을 활용해 버젓이 눈앞에 숨어 있던 낮은 골밀도 환자를 짚어 낸다”고 말했다. Naitive CEO Dr. Will Briggs는 “척추와 흉부 X선은 의학에서 가장 흔한 영상에 속하며, 한 장 한 장이 골절 전에 낮은 골밀도를 잡아낼 기회”라고 말했다."
+                "x": "성능 향상 폭은 과제마다 달랐다. 환자 수준 분석도 비슷한 양상을 보였지만 일부 과제에서는 사건 수가 적었다. 이 결과는 산모 위험 층화를 위한 망막 영상의 전향적 평가를 뒷받침한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、X線AI骨評価\nOsteoSightを承認",
-          "body": "NaitiveはFDA 510(k)取得で、AI骨健康評価を脊椎・胸部X線へ広げた。",
-          "mini_headline": "FDA、X線のAI骨評価を承認",
+          "headline": "網膜写真のモデルが\n妊娠高血圧腎症リスク察知",
+          "body": "Retina-PEは網膜写真と臨床データで前向き多施設コホートの妊娠高血圧腎症を予測した。",
+          "mini_headline": "網膜画像で妊娠高血圧腎症を察知",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "Naitive Technologies提供"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "グラフィカルアブストラクト"
               },
               {
                 "t": "p",
-                "x": "Naitive Technologiesは、OsteoSight SpineがU.S. FDAから510(k)クリアランスを取得したと発表した。OsteoSight Spineは、別の臨床的理由で撮影された通常の腰椎・胸椎・胸部X線（X-rays）を使い、骨密度（BMD）を機会的に評価できる。USではこうしたX線撮影が年間推定124 million 件行われている。今回の承認は、2025年9月に股関節・骨盤X線向けのOsteoSightがFDAの承認を受けたのに続くものだ。"
+                "x": "妊娠高血圧腎症(PE)は母体と周産期の罹患・死亡の原因となるが、非侵襲的なスクリーニングは依然として限られている。研究チームは、網膜写真、母体の臨床因子、平均動脈圧を統合してその後のPE発症を予測するマルチモーダル深層学習モデルRetina-PEを開発した。妊婦8616人から前向きに収集した多施設データを、後ろ向きのモデル開発と評価に用いた。"
               },
               {
                 "t": "p",
-                "x": "BMDが低い患者の70%は診断されておらず、骨折が起きるまで見過ごされることが多い。OsteoSight Spineは50歳以上の患者のX線を解析し、低BMDのリスクがある症例を特定して、読影医を支援し骨の健康の臨床評価を促すレポートを提供する。"
+                "x": "開発データセット(Development-dataset)の画像レベルの受信者動作特性曲線下面積(AUCs)は、24–28週と28–32週のPE発症で0.853と0.708、1週・4週の早産PEで0.871と0.791、1週・4週の早発型PEで0.979と0.862だった。対応する外部検証データセットのAUCsは、0.728と0.815、0.801と0.801、0.776と0.766だった。"
               },
               {
                 "t": "p",
-                "x": "「OsteoSight Spineは、私たちが毎日オーダーするX線を活用し、目の前に隠れている低骨密度の患者を拾い上げる」とHospital for Special SurgeryのDr. Todd Albertは述べた。NaitiveのCEO、Dr. Will Briggsは「脊椎と胸部のX線は医療で最も一般的な画像の一つであり、その一枚一枚が骨折前に低骨密度を見つける機会だ」と語った。"
+                "x": "上乗せ効果はタスクごとに異なった。患者レベルの解析でも同様の傾向が見られたが、一部のタスクではイベント数が少なかった。これらの結果は、母体リスク層別化のための網膜画像の前向き評価を支持するものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA批准X光AI骨评估\nOsteoSight脊柱版",
-          "body": "Naitive获FDA 510(k)许可，将AI机会性骨健康评估扩展至脊柱与胸部X光。",
-          "mini_headline": "FDA批准X光AI骨健康评估",
+          "headline": "视网膜照片模型\n可提示子痫前期风险",
+          "body": "Retina-PE结合视网膜照片与临床数据,在一项前瞻性多中心队列中预测了子痫前期。",
+          "mini_headline": "视网膜扫描预警子痫前期",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
-                "cap": "图片由Naitive Technologies提供"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "图文摘要"
               },
               {
                 "t": "p",
-                "x": "Naitive Technologies宣布，其OsteoSight Spine已获U.S. FDA的510(k)许可。该产品可利用为排查其他临床问题而拍摄的常规腰椎、胸椎及胸部X光片（X-rays），对骨密度（BMD）进行机会性评估。US每年此类X光检查估计约有124 million 次。此前，用于髋部和骨盆X光的OsteoSight已于2025年9月获FDA许可。"
+                "x": "子痫前期(PE)会导致孕产妇及围产期的发病和死亡,但无创筛查手段仍然有限。研究团队开发了Retina-PE,这是一种整合视网膜照片、孕产妇临床因素和平均动脉压来预测后续PE的多模态深度学习模型。研究使用前瞻性收集的8616名孕妇多中心数据进行回顾性模型开发与评估。"
               },
               {
                 "t": "p",
-                "x": "70%的低BMD患者未获诊断，往往直到发生骨折才被发现。OsteoSight Spine分析50岁及以上患者的X光片，识别存在低BMD风险的病例，并提供报告，辅助判读医生并促使其对骨骼健康进行临床评估。"
+                "x": "开发数据集(Development-dataset)图像层面的受试者工作特征曲线下面积(AUCs)为:24–28周和28–32周PE发生分别为0.853和0.708,1周和4周早产PE分别为0.871和0.791,1周和4周早发型PE分别为0.979和0.862。对应的外部验证数据集AUCs分别为0.728和0.815、0.801和0.801、0.776和0.766。"
               },
               {
                 "t": "p",
-                "x": "Hospital for Special Surgery的Dr. Todd Albert表示：“OsteoSight Spine利用我们每天开具的X光片，找出那些低骨密度就藏在眼皮底下的患者。”Naitive首席执行官（CEO）Dr. Will Briggs说：“脊柱和胸部X光是医学中最常见的影像之一，每一张都是在骨折前发现低骨密度的机会。”"
+                "x": "增量性能因任务而异。患者层面分析显示出相似模式,但部分任务中事件数较少。这些发现支持对视网膜成像用于孕产妇风险分层开展前瞻性评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modelo con fotos de retina\ndetecta riesgo de preeclampsia",
+          "body": "Retina-PE, con fotos de retina y datos clínicos, predijo preeclampsia en una cohorte prospectiva multicéntrica.",
+          "mini_headline": "La retina alerta de la preeclampsia",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+                "cap": "Resumen gráfico"
+              },
+              {
+                "t": "p",
+                "x": "La preeclampsia (PE) causa morbilidad y mortalidad materna y perinatal, pero el cribado no invasivo sigue siendo limitado. Desarrollamos Retina-PE, un modelo multimodal de aprendizaje profundo que integra fotografías de retina, factores clínicos maternos y presión arterial media para predecir la PE posterior. Se usaron datos multicéntricos recogidos de forma prospectiva de 8616 gestantes para el desarrollo y la evaluación retrospectivos del modelo."
+              },
+              {
+                "t": "p",
+                "x": "En el conjunto de desarrollo (Development-dataset), las áreas bajo la curva característica operativa del receptor a nivel de imagen (AUCs) fueron de 0.853 y 0.708 para la aparición de PE a las 24–28 y 28–32 semanas, de 0.871 y 0.791 para la PE pretérmino a 1 y 4 semanas, y de 0.979 y 0.862 para la PE de inicio temprano a 1 y 4 semanas. Las AUCs correspondientes en el conjunto de validación externa fueron de 0.728 y 0.815, 0.801 y 0.801, y 0.776 y 0.766."
+              },
+              {
+                "t": "p",
+                "x": "La mejora incremental del rendimiento dependió de la tarea. Los análisis a nivel de paciente mostraron patrones similares, aunque con pocos eventos en algunas tareas. Estos hallazgos respaldan la evaluación prospectiva de la imagen retiniana para la estratificación del riesgo materno."
               }
             ]
           }
@@ -1201,401 +799,633 @@
       }
     },
     {
-      "id": "dongsan-adpkd-ai-platform",
-      "source_lang": "ko",
+      "id": "med-hopkins-sumi-pcct-ct",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "계명대 동산병원\n다낭콩팥병 AI 플랫폼",
-      "body": "동산병원이 다낭콩팥병 환자의 일상 건강관리를 돕는 AI 플랫폼 구축에 나섰다.",
-      "mini_headline": "다낭콩팥병\nAI 관리 플랫폼",
+      "headline": "딥러닝, 기존 CT에\nPCCT 화질을 입히다",
+      "body": "Johns Hopkins SUMI가 1,046건을 익혀 PCCT급 CT를 노린다.",
+      "mini_headline": "AI로 PCCT-grade 흉부 CT",
       "tool": "Medicine",
-      "source": "의학신문",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016555",
-      "accent": "#eb367f",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541666/deeplearning-adds-pcctlike-chest-imaging-quality-to-existing-scanners",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-            "cap": "계명대학교 동산병원 전경"
+            "t": "p",
+            "x": "11월 29일 일요일 | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
           },
           {
             "t": "p",
-            "x": "계명대학교 동산병원(병원장 김준형)이 유전성 신장질환인 다낭콩팥병 환자의 일상 속 건강관리를 돕는 인공지능(AI) 기반 통합관리 플랫폼 구축에 나선다. 동산병원은 최근 연구중심병원 도약지원사업(C-LINK R&D)의 일환으로 ‘상염색체우성 다낭콩팥병(ADPKD) 기반 질병부담 중심 대사·기능 통합관리 플랫폼 구축’ 과제를 수행하고 있다고 밝혔다."
+            "x": "딥러닝(deep-learning) 모델 SUMI가 \"[광자계수(photon-counting) CT] PCCT의 화질(image-quality) 이점을 일반 흉부 CT로 증류하는\" 데 가능성을 보였다."
           },
           {
             "t": "p",
-            "x": "다낭콩팥병은 콩팥과 간 등에 다수의 낭종(물혹)이 생겨 커지면서 신장 기능이 점차 떨어지는 유전성 질환이다. 환자마다 병의 진행 속도가 다르고 복부 통증과 피로 등 증상이 다양해, 단순 신장 기능 수치를 넘어 영양과 신체 활동량을 아우르는 입체적 관리가 필수적이다."
+            "x": "광자계수 CT(PCCT)는 기존 에너지 적분형(energy-integrating) CT(EICT)보다 공간 해상도가 높고 노이즈가 적다. 하지만 일상 진료에서 PCCT 스캐너를 늘 쓸 수 있는 건 아니라고 Baltimore 소재 Johns Hopkins University의 발표자 Chuntung Zhuang과 동료들은 짚었다. 그래서 연구진은 짝지은 촬영 없이도 일반 CT 영상에 PCCT 화질을 입히는 AI 모델을 만들었다. 새 장비 없이 더 많은 환자가 PCCT 수준(PCCT-like)의 화질을 누리게 하자는 구상이다."
           },
           {
             "t": "p",
-            "x": "이번 플랫폼은 임상 데이터와 AI 영상 분석, 신체 기능 평가, 맞춤형 운동, 환자 교육을 하나의 시스템으로 연동하는 것이 핵심이다. AI가 분석한 콩팥·간 영상 데이터에 근육량과 웨어러블 기기 등으로 수집한 활동량, 통증·피로도 지표를 결합해 환자별 질병 부담을 정밀 평가하고, 이를 토대로 최적화된 운동 처방을 내리는 방식이다. 이를 위해 신장내과와 재활의학과를 주축으로 운동·영양·디지털헬스 분야 전문가들이 다학제 협력 체계를 가동하고 있다."
+            "x": "Zhuang 연구팀은 먼저 145개 병원의 PCCT 스캔 1,046건과 EICT 스캔 405,379건으로 연속 오토인코더(i.e., 비지도 인공신경망)를 학습시켰다. 다음 단계에서는 PCCT 스캔 1,046건을 화질 저하의 네 가지 표준 범주(희소 투영(sparse-view), 저선량(low-dose), 일반, 복합 열화)로 나눠 SUMI를 훈련했다."
           },
           {
             "t": "p",
-            "x": "현장 적용 가능성을 확인하기 위한 예비연구(Pilot study)에서도 긍정적인 성과가 도출되고 있다. 연구진이 모바일 플랫폼을 통해 맞춤형 운동 중재를 시행한 결과, 환자들의 치료 참여 순응도는 90% 이상을 기록했다. 참여 환자들은 구체적인 운동 가이드와 실시간 실천 지원이 일상생활의 활력을 찾는 데 실질적인 도움이 됐다고 평가했다."
-          },
-          {
-            "t": "p",
-            "x": "연구책임자인 김예림 신장내과 교수는 “다낭콩팥병 환자들이 병원 밖 일상에서도 스스로 건강관리를 지속할 수 있는 환경을 만드는 것이 이번 연구의 목표”라며 “예비연구에서 확인된 환자들의 피드백을 바탕으로 운동 프로그램과 플랫폼의 완성도를 더욱 높이겠다”고 전했다."
-          },
-          {
-            "t": "p",
-            "x": "동산병원은 이번 플랫폼을 다낭콩팥병에 우선 적용한 뒤, 연구중심병원의 임상연구 인프라를 활용해 다양한 만성질환에 범용적으로 활용할 수 있는 통합관리 모델로 고도화하고 사업화까지 추진할 계획이다."
+            "x": "세션에서는 최대 신호 대 잡음비(peak signal-to-noise ratio)와 구조적 유사도 지수(structural similarity index measure)로 본 SUMI의 성능, 그리고 이 모델이 흉부 CT 화질을 어떻게 끌어올리는지 들을 수 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "계명대 동산병원\n다낭콩팥병 AI 플랫폼",
-          "body": "동산병원이 다낭콩팥병 환자의 일상 건강관리를 돕는 AI 플랫폼 구축에 나섰다.",
-          "mini_headline": "다낭콩팥병\nAI 관리 플랫폼",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "계명대학교 동산병원 전경"
-              },
-              {
-                "t": "p",
-                "x": "계명대학교 동산병원(병원장 김준형)이 유전성 신장질환인 다낭콩팥병 환자의 일상 속 건강관리를 돕는 인공지능(AI) 기반 통합관리 플랫폼 구축에 나선다. 동산병원은 최근 연구중심병원 도약지원사업(C-LINK R&D)의 일환으로 ‘상염색체우성 다낭콩팥병(ADPKD) 기반 질병부담 중심 대사·기능 통합관리 플랫폼 구축’ 과제를 수행하고 있다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "다낭콩팥병은 콩팥과 간 등에 다수의 낭종(물혹)이 생겨 커지면서 신장 기능이 점차 떨어지는 유전성 질환이다. 환자마다 병의 진행 속도가 다르고 복부 통증과 피로 등 증상이 다양해, 단순 신장 기능 수치를 넘어 영양과 신체 활동량을 아우르는 입체적 관리가 필수적이다."
-              },
-              {
-                "t": "p",
-                "x": "이번 플랫폼은 임상 데이터와 AI 영상 분석, 신체 기능 평가, 맞춤형 운동, 환자 교육을 하나의 시스템으로 연동하는 것이 핵심이다. AI가 분석한 콩팥·간 영상 데이터에 근육량과 웨어러블 기기 등으로 수집한 활동량, 통증·피로도 지표를 결합해 환자별 질병 부담을 정밀 평가하고, 이를 토대로 최적화된 운동 처방을 내리는 방식이다. 이를 위해 신장내과와 재활의학과를 주축으로 운동·영양·디지털헬스 분야 전문가들이 다학제 협력 체계를 가동하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "현장 적용 가능성을 확인하기 위한 예비연구(Pilot study)에서도 긍정적인 성과가 도출되고 있다. 연구진이 모바일 플랫폼을 통해 맞춤형 운동 중재를 시행한 결과, 환자들의 치료 참여 순응도는 90% 이상을 기록했다. 참여 환자들은 구체적인 운동 가이드와 실시간 실천 지원이 일상생활의 활력을 찾는 데 실질적인 도움이 됐다고 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "연구책임자인 김예림 신장내과 교수는 “다낭콩팥병 환자들이 병원 밖 일상에서도 스스로 건강관리를 지속할 수 있는 환경을 만드는 것이 이번 연구의 목표”라며 “예비연구에서 확인된 환자들의 피드백을 바탕으로 운동 프로그램과 플랫폼의 완성도를 더욱 높이겠다”고 전했다."
-              },
-              {
-                "t": "p",
-                "x": "동산병원은 이번 플랫폼을 다낭콩팥병에 우선 적용한 뒤, 연구중심병원의 임상연구 인프라를 활용해 다양한 만성질환에 범용적으로 활용할 수 있는 통합관리 모델로 고도화하고 사업화까지 추진할 계획이다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Keimyung Univ. Dongsan Hospital\nPolycystic kidney AI platform",
-          "body": "Dongsan Hospital is building an AI platform to help polycystic kidney disease patients manage their daily health.",
-          "mini_headline": "AI care platform for polycystic kidney disease",
+          "headline": "Deep learning brings PCCT\nquality to existing CT",
+          "body": "Johns Hopkins' SUMI model, trained on 1,046 photon-counting scans, aims to give routine chest CT PCCT-like quality.",
+          "mini_headline": "PCCT-grade chest CT via AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "Exterior of Keimyung University Dongsan Hospital"
+                "t": "p",
+                "x": "Sunday, November 29 | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
               },
               {
                 "t": "p",
-                "x": "Keimyung University Dongsan Hospital (director Kim Jun-hyung) is setting out to build an artificial intelligence (AI)-based integrated management platform that helps patients with polycystic kidney disease, a hereditary kidney disorder, manage their health in daily life. The hospital said it is carrying out the project ‘Building an integrated metabolic and functional management platform centered on disease burden in autosomal dominant polycystic kidney disease (ADPKD)’ as part of the research-oriented hospital leap support program (C-LINK R&D)."
+                "x": "A deep-learning model called SUMI shows promise for \"distilling [photon-counting CT] PCCT image-quality advantages into routine chest CT.\""
               },
               {
                 "t": "p",
-                "x": "Polycystic kidney disease is a hereditary condition in which numerous cysts (fluid-filled sacs) form and grow in the kidneys, liver and other organs, gradually reducing kidney function. Because the pace of progression differs from patient to patient and symptoms such as abdominal pain and fatigue vary, multidimensional care that covers nutrition and physical activity, beyond simple kidney function values, is essential."
+                "x": "Photon-counting CT (PCCT) offers higher spatial resolution and lower noise than conventional energy-integrating CT (EICT), but PCCT scanners aren't necessarily available for routine use, presenter Chuntung Zhuang of Johns Hopkins University in Baltimore and colleagues noted. To address the problem, the group crafted an AI model that incorporates PCCT image quality into routine CT imaging without paired acquisitions -- which could increase patient access to PCCT-like image quality without installing new hardware."
               },
               {
                 "t": "p",
-                "x": "The core of the platform is linking clinical data, AI image analysis, physical function assessment, personalized exercise and patient education in a single system. It combines kidney and liver imaging data analyzed by AI with muscle mass, activity levels collected through wearable devices and other means, and pain and fatigue indicators to precisely assess each patient's disease burden, then issues optimized exercise prescriptions on that basis. To do this, nephrology and rehabilitation medicine lead a multidisciplinary collaboration with experts in exercise, nutrition and digital health."
+                "x": "Zhuang's team first trained a continual autoencoder (i.e., an unsupervised artificial neural network) on 1,046 PCCT scans plus 405,379 EICT scans from 145 hospitals; it then trained SUMI using the 1,046 PCCT scans classified into four standard categories of image quality loss (sparse-view, low-dose, conventional, and mixed degradations)."
               },
               {
                 "t": "p",
-                "x": "The preliminary study (Pilot study) to confirm feasibility in clinical settings is also producing positive results. When the researchers delivered personalized exercise interventions through a mobile platform, patient adherence to treatment participation exceeded 90%. Participating patients said the specific exercise guidance and real-time support for putting it into practice genuinely helped them regain energy in daily life."
-              },
-              {
-                "t": "p",
-                "x": "“The goal of this research is to create an environment in which patients with polycystic kidney disease can keep managing their own health in daily life outside the hospital,” said principal investigator Kim Ye-rim, a professor of nephrology. “Based on the patient feedback confirmed in the preliminary study, we will further refine the exercise program and the platform.”"
-              },
-              {
-                "t": "p",
-                "x": "Dongsan Hospital plans to apply the platform first to polycystic kidney disease, then use the research-oriented hospital's clinical research infrastructure to advance it into an integrated management model that can be used broadly for a range of chronic diseases, and to pursue commercialization."
+                "x": "Attend this session to find out how SUMI performed when it came to peak signal-to-noise ratio structural similarity index measure and how its use could improve the quality of chest CT."
               }
             ]
           }
         },
         "ja": {
-          "headline": "啓明大学東山病院\n多発性嚢胞腎AI基盤",
-          "body": "東山病院が多発性嚢胞腎患者の日常の健康管理を支えるAI基盤の構築に乗り出した。",
-          "mini_headline": "多発性嚢胞腎のAI管理基盤",
+          "headline": "深層学習で既存CTに\nPCCT並みの画質",
+          "body": "SUMIは光子計数スキャン1,046件で学習し胸部CTにPCCT-likeの画質を目指す。",
+          "mini_headline": "AIでPCCT-gradeの胸部CT",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "啓明大学校東山病院の外観"
+                "t": "p",
+                "x": "11月29日(日)| 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
               },
               {
                 "t": "p",
-                "x": "啓明大学校東山病院(病院長キム・ジュンヒョン)は、遺伝性の腎疾患である多発性嚢胞腎の患者の日常的な健康管理を支える人工知能(AI)ベースの統合管理プラットフォームの構築に乗り出す。同病院は最近、研究中心病院飛躍支援事業(C-LINK R&D)の一環として「常染色体顕性多発性嚢胞腎(ADPKD)に基づく疾病負担中心の代謝・機能統合管理プラットフォーム構築」の課題を進めていると明らかにした。"
+                "x": "SUMIという深層学習モデルが、「[光子計数CT]PCCTの画質上の利点を通常の胸部CTに蒸留する」うえで有望な結果を示している。"
               },
               {
                 "t": "p",
-                "x": "多発性嚢胞腎は、腎臓や肝臓などに多数の嚢胞(水ぶくれ)ができて大きくなり、腎機能が徐々に低下する遺伝性疾患だ。患者ごとに進行速度が異なり、腹痛や疲労など症状も多様なため、単なる腎機能の数値を超えて栄養や身体活動量まで含めた立体的な管理が欠かせない。"
+                "x": "光子計数CT(Photon-counting CT、PCCT)は従来のエネルギー積分型CT(EICT)より空間分解能が高くノイズも少ないが、PCCTスキャナーが日常診療で使えるとは限らないと、ボルチモアのJohns Hopkins Universityに所属する発表者Chuntung Zhuangらは指摘した。この課題に対応するため、グループはペア撮影なしでPCCTの画質を通常のCT画像に取り込むAIモデルを構築した。新たなハードウェアを導入せずに、患者がPCCT-likeの画質を得られる機会を広げられる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "今回のプラットフォームの核心は、臨床データ、AI画像解析、身体機能評価、個別化運動、患者教育を一つのシステムで連動させることにある。AIが解析した腎臓・肝臓の画像データに、筋肉量やウェアラブル機器などで収集した活動量、痛み・疲労度の指標を組み合わせて患者ごとの疾病負担を精密に評価し、それをもとに最適化された運動処方を出す仕組みだ。そのために腎臓内科とリハビリテーション医学科を中心に、運動・栄養・デジタルヘルス分野の専門家が多職種連携体制を動かしている。"
+                "x": "Zhuangのチームはまず、145病院のPCCTスキャン1,046件とEICTスキャン405,379件で連続オートエンコーダー(教師なし人工ニューラルネットワーク)を学習させた。次に、画質劣化の四つの標準カテゴリー(スパースビュー、低線量、従来型、複合劣化)に分類したPCCTスキャン1,046件を使ってSUMIを学習させた。"
               },
               {
                 "t": "p",
-                "x": "現場への適用可能性を確かめる予備研究(Pilot study)でも前向きな成果が出ている。研究チームがモバイルプラットフォームを通じて個別化運動介入を行った結果、患者の治療参加の遵守率は90%以上を記録した。参加した患者は、具体的な運動ガイドとリアルタイムの実践支援が日常生活の活力を取り戻すうえで実際に役立ったと評価した。"
-              },
-              {
-                "t": "p",
-                "x": "研究責任者であるキム・イェリム腎臓内科教授は「多発性嚢胞腎の患者が病院の外の日常でも自ら健康管理を続けられる環境をつくることが今回の研究の目標だ」とし、「予備研究で確認された患者のフィードバックをもとに、運動プログラムとプラットフォームの完成度をさらに高めていく」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "東山病院はこのプラットフォームをまず多発性嚢胞腎に適用し、その後、研究中心病院の臨床研究インフラを活用して、さまざまな慢性疾患に幅広く使える統合管理モデルへと高度化し、事業化まで進める計画だ。"
+                "x": "このセッションでは、SUMIがピーク信号対雑音比と構造的類似性指標でどのような性能を示したか、またその活用が胸部CTの画質をどう改善しうるかが紹介される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "启明大学东山医院\n多囊肾AI管理平台",
-          "body": "东山医院着手构建AI平台，帮助多囊肾病患者做好日常健康管理。",
-          "mini_headline": "多囊肾AI管理平台",
+          "headline": "深度学习让现有CT\n具备PCCT级画质",
+          "body": "SUMI模型以1,046例光子计数扫描训练,力求让常规胸部CT获得PCCT-like画质。",
+          "mini_headline": "AI实现PCCT-grade胸部CT",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "启明大学东山医院外景"
+                "t": "p",
+                "x": "11月29日(周日)| 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
               },
               {
                 "t": "p",
-                "x": "启明大学东山医院（院长Kim Jun-hyung）将着手构建基于人工智能（AI）的综合管理平台，帮助遗传性肾病多囊肾病患者做好日常健康管理。医院表示，近期正作为研究型医院跃升支持项目（C-LINK R&D）的一部分，推进“基于常染色体显性多囊肾病（ADPKD）、以疾病负担为中心的代谢与功能综合管理平台构建”课题。"
+                "x": "一个名为SUMI的深度学习模型在“将[光子计数CT]PCCT的图像质量优势提炼到常规胸部CT中”方面显示出潜力。"
               },
               {
                 "t": "p",
-                "x": "多囊肾病是一种遗传性疾病，肾脏和肝脏等器官中会出现多个囊肿（水泡）并逐渐增大，导致肾功能逐步下降。由于每位患者的病情进展速度不同，腹痛、疲劳等症状也多种多样，因此需要超越单纯肾功能指标、兼顾营养与身体活动量的立体化管理。"
+                "x": "光子计数CT(Photon-counting CT,PCCT)比传统能量积分CT(EICT)空间分辨率更高、噪声更低,但PCCT扫描仪未必能用于常规检查,巴尔的摩Johns Hopkins University的报告人Chuntung Zhuang及其同事指出。为解决这一问题,团队构建了一个无需配对采集即可将PCCT图像质量融入常规CT成像的AI模型,有望在不安装新硬件的情况下,让更多患者获得PCCT-like的图像质量。"
               },
               {
                 "t": "p",
-                "x": "该平台的核心是将临床数据、AI影像分析、身体功能评估、个性化运动和患者教育整合到同一个系统中。它把AI分析的肾脏和肝脏影像数据，与肌肉量、通过可穿戴设备等收集的活动量以及疼痛和疲劳指标相结合，精确评估每位患者的疾病负担，并据此给出优化的运动处方。为此，医院以肾内科和康复医学科为核心，联合运动、营养和数字健康领域专家，运行多学科协作体系。"
+                "x": "Zhuang团队先用来自145家医院的1,046例PCCT扫描和405,379例EICT扫描训练了一个持续自编码器(即一种无监督人工神经网络),再用按四类标准图像质量损失(稀疏视角、低剂量、常规及混合退化)分类的1,046例PCCT扫描训练SUMI。"
               },
               {
                 "t": "p",
-                "x": "在为确认临床应用可行性而开展的预研究（Pilot study）中，也取得了积极成果。研究团队通过移动平台实施个性化运动干预后，患者的治疗参与依从性达到90%以上。参与患者表示，具体的运动指导和实时的实践支持，切实帮助他们在日常生活中找回活力。"
-              },
-              {
-                "t": "p",
-                "x": "研究负责人、肾内科教授Kim Ye-rim表示：“这项研究的目标，是让多囊肾病患者在医院之外的日常生活中也能持续自我管理健康。”并表示：“我们将根据预研究中患者的反馈，进一步完善运动方案和平台。”"
-              },
-              {
-                "t": "p",
-                "x": "东山医院计划先将该平台应用于多囊肾病，随后利用研究型医院的临床研究基础设施，将其升级为可广泛用于多种慢性病的综合管理模式，并推进商业化。"
+                "x": "参加本场会议,可了解SUMI在峰值信噪比和结构相似性指数方面的表现,以及它如何提升胸部CT的质量。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hospital Dongsan de Keimyung\nAI para la poliquistosis renal",
-          "body": "El Hospital Dongsan crea una plataforma de AI que ayuda a pacientes con poliquistosis renal a cuidar su salud diaria.",
-          "mini_headline": "Plataforma de AI para la poliquistosis renal",
+          "headline": "El aprendizaje profundo lleva\nla calidad PCCT a la CT actual",
+          "body": "SUMI, de Johns Hopkins, entrenado con 1,046 escaneos de conteo de fotones, busca calidad PCCT-like en la CT de tórax.",
+          "mini_headline": "CT de tórax PCCT-grade con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "Vista exterior del Hospital Dongsan de la Universidad Keimyung"
+                "t": "p",
+                "x": "Domingo, 29 de noviembre | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
               },
               {
                 "t": "p",
-                "x": "El Hospital Dongsan de la Universidad Keimyung (director: Kim Jun-hyung) se dispone a crear una plataforma de gestión integral basada en inteligencia artificial (AI) para ayudar a los pacientes con poliquistosis renal, una enfermedad renal hereditaria, a cuidar su salud en el día a día. El hospital informó de que, como parte del programa de apoyo al impulso de hospitales orientados a la investigación (C-LINK R&D), desarrolla el proyecto ‘Creación de una plataforma de gestión integral metabólica y funcional centrada en la carga de enfermedad basada en la poliquistosis renal autosómica dominante (ADPKD)’."
+                "x": "Un modelo de aprendizaje profundo llamado SUMI se muestra prometedor para \"trasladar las ventajas de calidad de imagen de la [CT de conteo de fotones] PCCT a la CT de tórax rutinaria\"."
               },
               {
                 "t": "p",
-                "x": "La poliquistosis renal es una enfermedad hereditaria en la que se forman y crecen numerosos quistes (bolsas de líquido) en los riñones, el hígado y otros órganos, lo que reduce de forma progresiva la función renal. Como la velocidad de progresión varía entre pacientes y los síntomas, como el dolor abdominal y la fatiga, son diversos, resulta imprescindible un manejo integral que abarque la nutrición y la actividad física más allá de los simples valores de función renal."
+                "x": "La CT de conteo de fotones (Photon-counting CT, PCCT) ofrece mayor resolución espacial y menos ruido que la CT convencional de integración de energía (EICT), pero los escáneres PCCT no siempre están disponibles para uso rutinario, señalaron el presentador Chuntung Zhuang, de la Johns Hopkins University en Baltimore, y sus colegas. Para resolverlo, el grupo creó un modelo de AI que incorpora la calidad de imagen de la PCCT a la CT rutinaria sin adquisiciones emparejadas, lo que podría ampliar el acceso de los pacientes a una calidad de imagen PCCT-like sin instalar hardware nuevo."
               },
               {
                 "t": "p",
-                "x": "La clave de la plataforma es conectar en un único sistema los datos clínicos, el análisis de imagen con AI, la evaluación de la función física, el ejercicio personalizado y la educación del paciente. Combina los datos de imagen de riñón e hígado analizados por AI con la masa muscular, la actividad registrada mediante dispositivos portátiles y otros medios, y los indicadores de dolor y fatiga para evaluar con precisión la carga de enfermedad de cada paciente y, a partir de ello, prescribir ejercicio optimizado. Para ello, nefrología y medicina de rehabilitación encabezan un sistema de colaboración multidisciplinar con expertos en ejercicio, nutrición y salud digital."
+                "x": "El equipo de Zhuang entrenó primero un autoencoder continuo (es decir, una red neuronal artificial no supervisada) con 1,046 escaneos PCCT y 405,379 escaneos EICT de 145 hospitales; después entrenó SUMI con los 1,046 escaneos PCCT clasificados en cuatro categorías estándar de pérdida de calidad de imagen (vista dispersa, baja dosis, convencional y degradaciones mixtas)."
               },
               {
                 "t": "p",
-                "x": "El estudio preliminar (Pilot study) para comprobar su aplicabilidad en la práctica también está dando resultados positivos. Tras aplicar intervenciones de ejercicio personalizadas a través de una plataforma móvil, la adherencia de los pacientes a la participación en el tratamiento superó el 90%. Los pacientes participantes valoraron que la guía de ejercicio concreta y el apoyo en tiempo real les ayudaron de forma real a recuperar la vitalidad en su vida diaria."
+                "x": "Asista a esta sesión para saber cómo se comportó SUMI en relación señal-ruido máxima e índice de similitud estructural, y cómo su uso podría mejorar la calidad de la CT de tórax."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "딥러닝, 기존 CT에\nPCCT 화질을 입히다",
+          "body": "Johns Hopkins SUMI가 1,046건을 익혀 PCCT급 CT를 노린다.",
+          "mini_headline": "AI로 PCCT-grade 흉부 CT",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "11월 29일 일요일 | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
               },
               {
                 "t": "p",
-                "x": "“El objetivo de esta investigación es crear un entorno en el que los pacientes con poliquistosis renal puedan seguir cuidando su salud por sí mismos en su vida diaria fuera del hospital”, afirmó Kim Ye-rim, responsable de la investigación y docente de Nefrología. “Con base en los comentarios de los pacientes recogidos en el estudio preliminar, seguiremos perfeccionando el programa de ejercicio y la plataforma”, añadió."
+                "x": "딥러닝(deep-learning) 모델 SUMI가 \"[광자계수(photon-counting) CT] PCCT의 화질(image-quality) 이점을 일반 흉부 CT로 증류하는\" 데 가능성을 보였다."
               },
               {
                 "t": "p",
-                "x": "El Hospital Dongsan prevé aplicar primero la plataforma a la poliquistosis renal y, después, aprovechar la infraestructura de investigación clínica del hospital orientado a la investigación para convertirla en un modelo de gestión integral aplicable de forma general a diversas enfermedades crónicas, e impulsar su comercialización."
+                "x": "광자계수 CT(PCCT)는 기존 에너지 적분형(energy-integrating) CT(EICT)보다 공간 해상도가 높고 노이즈가 적다. 하지만 일상 진료에서 PCCT 스캐너를 늘 쓸 수 있는 건 아니라고 Baltimore 소재 Johns Hopkins University의 발표자 Chuntung Zhuang과 동료들은 짚었다. 그래서 연구진은 짝지은 촬영 없이도 일반 CT 영상에 PCCT 화질을 입히는 AI 모델을 만들었다. 새 장비 없이 더 많은 환자가 PCCT 수준(PCCT-like)의 화질을 누리게 하자는 구상이다."
+              },
+              {
+                "t": "p",
+                "x": "Zhuang 연구팀은 먼저 145개 병원의 PCCT 스캔 1,046건과 EICT 스캔 405,379건으로 연속 오토인코더(i.e., 비지도 인공신경망)를 학습시켰다. 다음 단계에서는 PCCT 스캔 1,046건을 화질 저하의 네 가지 표준 범주(희소 투영(sparse-view), 저선량(low-dose), 일반, 복합 열화)로 나눠 SUMI를 훈련했다."
+              },
+              {
+                "t": "p",
+                "x": "세션에서는 최대 신호 대 잡음비(peak signal-to-noise ratio)와 구조적 유사도 지수(structural similarity index measure)로 본 SUMI의 성능, 그리고 이 모델이 흉부 CT 화질을 어떻게 끌어올리는지 들을 수 있다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Keimyung Univ. Dongsan Hospital\nPolycystic kidney AI platform",
-          "body": "Dongsan Hospital is building an AI platform to help polycystic kidney disease patients manage their daily health.",
-          "mini_headline": "AI care platform for polycystic kidney disease",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "Exterior of Keimyung University Dongsan Hospital"
-              },
-              {
-                "t": "p",
-                "x": "Keimyung University Dongsan Hospital (director Kim Jun-hyung) is setting out to build an artificial intelligence (AI)-based integrated management platform that helps patients with polycystic kidney disease, a hereditary kidney disorder, manage their health in daily life. The hospital said it is carrying out the project ‘Building an integrated metabolic and functional management platform centered on disease burden in autosomal dominant polycystic kidney disease (ADPKD)’ as part of the research-oriented hospital leap support program (C-LINK R&D)."
-              },
-              {
-                "t": "p",
-                "x": "Polycystic kidney disease is a hereditary condition in which numerous cysts (fluid-filled sacs) form and grow in the kidneys, liver and other organs, gradually reducing kidney function. Because the pace of progression differs from patient to patient and symptoms such as abdominal pain and fatigue vary, multidimensional care that covers nutrition and physical activity, beyond simple kidney function values, is essential."
-              },
-              {
-                "t": "p",
-                "x": "The core of the platform is linking clinical data, AI image analysis, physical function assessment, personalized exercise and patient education in a single system. It combines kidney and liver imaging data analyzed by AI with muscle mass, activity levels collected through wearable devices and other means, and pain and fatigue indicators to precisely assess each patient's disease burden, then issues optimized exercise prescriptions on that basis. To do this, nephrology and rehabilitation medicine lead a multidisciplinary collaboration with experts in exercise, nutrition and digital health."
-              },
-              {
-                "t": "p",
-                "x": "The preliminary study (Pilot study) to confirm feasibility in clinical settings is also producing positive results. When the researchers delivered personalized exercise interventions through a mobile platform, patient adherence to treatment participation exceeded 90%. Participating patients said the specific exercise guidance and real-time support for putting it into practice genuinely helped them regain energy in daily life."
-              },
-              {
-                "t": "p",
-                "x": "“The goal of this research is to create an environment in which patients with polycystic kidney disease can keep managing their own health in daily life outside the hospital,” said principal investigator Kim Ye-rim, a professor of nephrology. “Based on the patient feedback confirmed in the preliminary study, we will further refine the exercise program and the platform.”"
-              },
-              {
-                "t": "p",
-                "x": "Dongsan Hospital plans to apply the platform first to polycystic kidney disease, then use the research-oriented hospital's clinical research infrastructure to advance it into an integrated management model that can be used broadly for a range of chronic diseases, and to pursue commercialization."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "啓明大学東山病院\n多発性嚢胞腎AI基盤",
-          "body": "東山病院が多発性嚢胞腎患者の日常の健康管理を支えるAI基盤の構築に乗り出した。",
-          "mini_headline": "多発性嚢胞腎のAI管理基盤",
+          "headline": "深層学習で既存CTに\nPCCT並みの画質",
+          "body": "SUMIは光子計数スキャン1,046件で学習し胸部CTにPCCT-likeの画質を目指す。",
+          "mini_headline": "AIでPCCT-gradeの胸部CT",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "啓明大学校東山病院の外観"
+                "t": "p",
+                "x": "11月29日(日)| 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
               },
               {
                 "t": "p",
-                "x": "啓明大学校東山病院(病院長キム・ジュンヒョン)は、遺伝性の腎疾患である多発性嚢胞腎の患者の日常的な健康管理を支える人工知能(AI)ベースの統合管理プラットフォームの構築に乗り出す。同病院は最近、研究中心病院飛躍支援事業(C-LINK R&D)の一環として「常染色体顕性多発性嚢胞腎(ADPKD)に基づく疾病負担中心の代謝・機能統合管理プラットフォーム構築」の課題を進めていると明らかにした。"
+                "x": "SUMIという深層学習モデルが、「[光子計数CT]PCCTの画質上の利点を通常の胸部CTに蒸留する」うえで有望な結果を示している。"
               },
               {
                 "t": "p",
-                "x": "多発性嚢胞腎は、腎臓や肝臓などに多数の嚢胞(水ぶくれ)ができて大きくなり、腎機能が徐々に低下する遺伝性疾患だ。患者ごとに進行速度が異なり、腹痛や疲労など症状も多様なため、単なる腎機能の数値を超えて栄養や身体活動量まで含めた立体的な管理が欠かせない。"
+                "x": "光子計数CT(Photon-counting CT、PCCT)は従来のエネルギー積分型CT(EICT)より空間分解能が高くノイズも少ないが、PCCTスキャナーが日常診療で使えるとは限らないと、ボルチモアのJohns Hopkins Universityに所属する発表者Chuntung Zhuangらは指摘した。この課題に対応するため、グループはペア撮影なしでPCCTの画質を通常のCT画像に取り込むAIモデルを構築した。新たなハードウェアを導入せずに、患者がPCCT-likeの画質を得られる機会を広げられる可能性がある。"
               },
               {
                 "t": "p",
-                "x": "今回のプラットフォームの核心は、臨床データ、AI画像解析、身体機能評価、個別化運動、患者教育を一つのシステムで連動させることにある。AIが解析した腎臓・肝臓の画像データに、筋肉量やウェアラブル機器などで収集した活動量、痛み・疲労度の指標を組み合わせて患者ごとの疾病負担を精密に評価し、それをもとに最適化された運動処方を出す仕組みだ。そのために腎臓内科とリハビリテーション医学科を中心に、運動・栄養・デジタルヘルス分野の専門家が多職種連携体制を動かしている。"
+                "x": "Zhuangのチームはまず、145病院のPCCTスキャン1,046件とEICTスキャン405,379件で連続オートエンコーダー(教師なし人工ニューラルネットワーク)を学習させた。次に、画質劣化の四つの標準カテゴリー(スパースビュー、低線量、従来型、複合劣化)に分類したPCCTスキャン1,046件を使ってSUMIを学習させた。"
               },
               {
                 "t": "p",
-                "x": "現場への適用可能性を確かめる予備研究(Pilot study)でも前向きな成果が出ている。研究チームがモバイルプラットフォームを通じて個別化運動介入を行った結果、患者の治療参加の遵守率は90%以上を記録した。参加した患者は、具体的な運動ガイドとリアルタイムの実践支援が日常生活の活力を取り戻すうえで実際に役立ったと評価した。"
-              },
-              {
-                "t": "p",
-                "x": "研究責任者であるキム・イェリム腎臓内科教授は「多発性嚢胞腎の患者が病院の外の日常でも自ら健康管理を続けられる環境をつくることが今回の研究の目標だ」とし、「予備研究で確認された患者のフィードバックをもとに、運動プログラムとプラットフォームの完成度をさらに高めていく」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "東山病院はこのプラットフォームをまず多発性嚢胞腎に適用し、その後、研究中心病院の臨床研究インフラを活用して、さまざまな慢性疾患に幅広く使える統合管理モデルへと高度化し、事業化まで進める計画だ。"
+                "x": "このセッションでは、SUMIがピーク信号対雑音比と構造的類似性指標でどのような性能を示したか、またその活用が胸部CTの画質をどう改善しうるかが紹介される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "启明大学东山医院\n多囊肾AI管理平台",
-          "body": "东山医院着手构建AI平台，帮助多囊肾病患者做好日常健康管理。",
-          "mini_headline": "多囊肾AI管理平台",
+          "headline": "深度学习让现有CT\n具备PCCT级画质",
+          "body": "SUMI模型以1,046例光子计数扫描训练,力求让常规胸部CT获得PCCT-like画质。",
+          "mini_headline": "AI实现PCCT-grade胸部CT",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "启明大学东山医院外景"
+                "t": "p",
+                "x": "11月29日(周日)| 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
               },
               {
                 "t": "p",
-                "x": "启明大学东山医院（院长Kim Jun-hyung）将着手构建基于人工智能（AI）的综合管理平台，帮助遗传性肾病多囊肾病患者做好日常健康管理。医院表示，近期正作为研究型医院跃升支持项目（C-LINK R&D）的一部分，推进“基于常染色体显性多囊肾病（ADPKD）、以疾病负担为中心的代谢与功能综合管理平台构建”课题。"
+                "x": "一个名为SUMI的深度学习模型在“将[光子计数CT]PCCT的图像质量优势提炼到常规胸部CT中”方面显示出潜力。"
               },
               {
                 "t": "p",
-                "x": "多囊肾病是一种遗传性疾病，肾脏和肝脏等器官中会出现多个囊肿（水泡）并逐渐增大，导致肾功能逐步下降。由于每位患者的病情进展速度不同，腹痛、疲劳等症状也多种多样，因此需要超越单纯肾功能指标、兼顾营养与身体活动量的立体化管理。"
+                "x": "光子计数CT(Photon-counting CT,PCCT)比传统能量积分CT(EICT)空间分辨率更高、噪声更低,但PCCT扫描仪未必能用于常规检查,巴尔的摩Johns Hopkins University的报告人Chuntung Zhuang及其同事指出。为解决这一问题,团队构建了一个无需配对采集即可将PCCT图像质量融入常规CT成像的AI模型,有望在不安装新硬件的情况下,让更多患者获得PCCT-like的图像质量。"
               },
               {
                 "t": "p",
-                "x": "该平台的核心是将临床数据、AI影像分析、身体功能评估、个性化运动和患者教育整合到同一个系统中。它把AI分析的肾脏和肝脏影像数据，与肌肉量、通过可穿戴设备等收集的活动量以及疼痛和疲劳指标相结合，精确评估每位患者的疾病负担，并据此给出优化的运动处方。为此，医院以肾内科和康复医学科为核心，联合运动、营养和数字健康领域专家，运行多学科协作体系。"
+                "x": "Zhuang团队先用来自145家医院的1,046例PCCT扫描和405,379例EICT扫描训练了一个持续自编码器(即一种无监督人工神经网络),再用按四类标准图像质量损失(稀疏视角、低剂量、常规及混合退化)分类的1,046例PCCT扫描训练SUMI。"
               },
               {
                 "t": "p",
-                "x": "在为确认临床应用可行性而开展的预研究（Pilot study）中，也取得了积极成果。研究团队通过移动平台实施个性化运动干预后，患者的治疗参与依从性达到90%以上。参与患者表示，具体的运动指导和实时的实践支持，切实帮助他们在日常生活中找回活力。"
-              },
-              {
-                "t": "p",
-                "x": "研究负责人、肾内科教授Kim Ye-rim表示：“这项研究的目标，是让多囊肾病患者在医院之外的日常生活中也能持续自我管理健康。”并表示：“我们将根据预研究中患者的反馈，进一步完善运动方案和平台。”"
-              },
-              {
-                "t": "p",
-                "x": "东山医院计划先将该平台应用于多囊肾病，随后利用研究型医院的临床研究基础设施，将其升级为可广泛用于多种慢性病的综合管理模式，并推进商业化。"
+                "x": "参加本场会议,可了解SUMI在峰值信噪比和结构相似性指数方面的表现,以及它如何提升胸部CT的质量。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hospital Dongsan de Keimyung\nAI para la poliquistosis renal",
-          "body": "El Hospital Dongsan crea una plataforma de AI que ayuda a pacientes con poliquistosis renal a cuidar su salud diaria.",
-          "mini_headline": "Plataforma de AI para la poliquistosis renal",
+          "headline": "El aprendizaje profundo lleva\nla calidad PCCT a la CT actual",
+          "body": "SUMI, de Johns Hopkins, entrenado con 1,046 escaneos de conteo de fotones, busca calidad PCCT-like en la CT de tórax.",
+          "mini_headline": "CT de tórax PCCT-grade con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Domingo, 29 de noviembre | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
+              },
+              {
+                "t": "p",
+                "x": "Un modelo de aprendizaje profundo llamado SUMI se muestra prometedor para \"trasladar las ventajas de calidad de imagen de la [CT de conteo de fotones] PCCT a la CT de tórax rutinaria\"."
+              },
+              {
+                "t": "p",
+                "x": "La CT de conteo de fotones (Photon-counting CT, PCCT) ofrece mayor resolución espacial y menos ruido que la CT convencional de integración de energía (EICT), pero los escáneres PCCT no siempre están disponibles para uso rutinario, señalaron el presentador Chuntung Zhuang, de la Johns Hopkins University en Baltimore, y sus colegas. Para resolverlo, el grupo creó un modelo de AI que incorpora la calidad de imagen de la PCCT a la CT rutinaria sin adquisiciones emparejadas, lo que podría ampliar el acceso de los pacientes a una calidad de imagen PCCT-like sin instalar hardware nuevo."
+              },
+              {
+                "t": "p",
+                "x": "El equipo de Zhuang entrenó primero un autoencoder continuo (es decir, una red neuronal artificial no supervisada) con 1,046 escaneos PCCT y 405,379 escaneos EICT de 145 hospitales; después entrenó SUMI con los 1,046 escaneos PCCT clasificados en cuatro categorías estándar de pérdida de calidad de imagen (vista dispersa, baja dosis, convencional y degradaciones mixtas)."
+              },
+              {
+                "t": "p",
+                "x": "Asista a esta sesión para saber cómo se comportó SUMI en relación señal-ruido máxima e índice de similitud estructural, y cómo su uso podría mejorar la calidad de la CT de tórax."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "딥러닝, 기존 CT에\nPCCT 화질을 입히다",
+          "body": "Johns Hopkins SUMI는 1,046건 학습해 PCCT급 CT를 노린다.",
+          "mini_headline": "AI로 PCCT-grade 흉부 CT",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "11월 29일 일요일 | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
+              },
+              {
+                "t": "p",
+                "x": "SUMI라는 딥러닝(deep-learning) 모델이 \"[광자계수(photon-counting) CT] PCCT의 화질(image-quality) 이점을 일반 흉부 CT로 증류하는\" 데 가능성을 보였다."
+              },
+              {
+                "t": "p",
+                "x": "광자계수 CT(PCCT)는 기존 에너지 적분형(energy-integrating) CT(EICT)보다 공간 해상도가 높고 노이즈가 적지만, PCCT 스캐너를 일상 진료에서 늘 쓸 수 있는 것은 아니라고 Baltimore 소재 Johns Hopkins University의 발표자 Chuntung Zhuang과 동료들은 짚었다. 이 문제를 풀기 위해 연구진은 짝지은 촬영 없이 PCCT 화질을 일반 CT 영상에 반영하는 AI 모델을 만들었다. 새 장비를 들이지 않고도 더 많은 환자가 PCCT 수준(PCCT-like)의 화질을 누릴 수 있게 하는 방식이다."
+              },
+              {
+                "t": "p",
+                "x": "Zhuang 연구팀은 먼저 145개 병원의 PCCT 스캔 1,046건과 EICT 스캔 405,379건으로 연속 오토인코더(i.e., 비지도 인공신경망)를 학습시켰다. 이어 1,046건의 PCCT 스캔을 화질 저하의 네 가지 표준 범주(희소 투영(sparse-view), 저선량(low-dose), 일반, 복합 열화)로 분류해 SUMI를 학습시켰다."
+              },
+              {
+                "t": "p",
+                "x": "이 세션에서는 SUMI가 최대 신호 대 잡음비(peak signal-to-noise ratio)와 구조적 유사도 지수(structural similarity index measure)에서 어떤 성능을 냈는지, 그리고 흉부 CT의 화질을 어떻게 높일 수 있는지 확인할 수 있다."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "med-who-ihf-ai-committee",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "WHO·국제병원연맹\n공동 AI 위원회 구성",
+      "body": "WHO와 국제병원연맹이 병원 AI 표준과 인력 교육을 다룰 공동위원회를 꾸린다.",
+      "mini_headline": "WHO·IHF, 의료 AI 손잡다",
+      "tool": "Medicine",
+      "source": "Korea Biomedical Review",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33877",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "세계보건기구(WHO)와 국제병원연맹(IHF)이 AI 도입 표준, 보건의료 인력 교육 등 의료 AI 협력을 넓히려고 공동 운영위원회를 두기로 했다."
+          },
+          {
+            "t": "p",
+            "x": "월요일 제네바 WHO 본부에서 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun)이 만난 자리에서 나온 합의다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+            "cap": "월요일 제네바 WHO 본부에서 만난 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus(왼쪽)와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun). (IHF 제공)"
+          },
+          {
+            "t": "p",
+            "x": "이 회장과 Tedros 사무총장은 지난달 서울에서 열린 제49차 IHF 세계병원대회가 채택한 '의료 AI 서울 선언(Seoul Declaration on AI in Healthcare)'의 후속 조치를 논의했다. IHF는 설립을 제안해 둔 글로벌 AI 헬스케어 리더십 센터(Global AI Healthcare Leadership Center)의 비전과 로드맵을 내놓았다."
+          },
+          {
+            "t": "p",
+            "x": "WHO가 제안한 협력 분야는 세 가지다. 보건의료 인력 역량 강화, AI 도입 전후 평가를 위한 표준 벤치마크와 평가 체계 개발, 공동 정상 포럼 개최다. 두 기구는 이를 조율할 고위급 공동 운영위원회를 꾸리고, 연내에 한 차례 더 만날 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "WHO and hospital federation\nform a joint AI committee",
+          "body": "WHO and the International Hospital Federation will form a joint committee on hospital AI standards and staff training.",
+          "mini_headline": "WHO, IHF team up on AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The World Health Organization (WHO) and the International Hospital Federation (IHF) have agreed to establish a joint steering committee to advance cooperation on AI in healthcare, including standards for AI adoption and training for healthcare professionals."
+              },
+              {
+                "t": "p",
+                "x": "The agreement came during a meeting between WHO Director-General Tedros Adhanom Ghebreyesus and IHF President-Designate Lee Wang-jun at WHO headquarters in Geneva on Monday."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg",
-                "cap": "Vista exterior del Hospital Dongsan de la Universidad Keimyung"
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "WHO Director-General Tedros Adhanom Ghebreyesus (left) and IHF President-Designate Lee Wang-jun at WHO headquarters in Geneva on Monday. (Courtesy of IHF)"
               },
               {
                 "t": "p",
-                "x": "El Hospital Dongsan de la Universidad Keimyung (director: Kim Jun-hyung) se dispone a crear una plataforma de gestión integral basada en inteligencia artificial (AI) para ayudar a los pacientes con poliquistosis renal, una enfermedad renal hereditaria, a cuidar su salud en el día a día. El hospital informó de que, como parte del programa de apoyo al impulso de hospitales orientados a la investigación (C-LINK R&D), desarrolla el proyecto ‘Creación de una plataforma de gestión integral metabólica y funcional centrada en la carga de enfermedad basada en la poliquistosis renal autosómica dominante (ADPKD)’."
+                "x": "Lee met with Tedros to discuss follow-up measures to the Seoul Declaration on AI in Healthcare, adopted during the 49th IHF World Hospital Congress in Seoul last month. The IHF presented its vision and roadmap for the proposed Global AI Healthcare Leadership Center."
               },
               {
                 "t": "p",
-                "x": "La poliquistosis renal es una enfermedad hereditaria en la que se forman y crecen numerosos quistes (bolsas de líquido) en los riñones, el hígado y otros órganos, lo que reduce de forma progresiva la función renal. Como la velocidad de progresión varía entre pacientes y los síntomas, como el dolor abdominal y la fatiga, son diversos, resulta imprescindible un manejo integral que abarque la nutrición y la actividad física más allá de los simples valores de función renal."
+                "x": "WHO proposed three areas of cooperation: capacity building for healthcare professionals, developing standard benchmarks and evaluation frameworks to assess AI before and after adoption, and co-hosting a joint summit forum. The two organizations agreed to establish a high-level joint steering committee to coordinate these initiatives, with another meeting planned before the end of the year."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "WHO·국제병원연맹\n공동 AI 위원회 구성",
+          "body": "WHO와 국제병원연맹이 병원 AI 표준과 인력 교육을 다룰 공동위원회를 꾸린다.",
+          "mini_headline": "WHO·IHF, 의료 AI 손잡다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "세계보건기구(WHO)와 국제병원연맹(IHF)이 AI 도입 표준, 보건의료 인력 교육 등 의료 AI 협력을 넓히려고 공동 운영위원회를 두기로 했다."
               },
               {
                 "t": "p",
-                "x": "La clave de la plataforma es conectar en un único sistema los datos clínicos, el análisis de imagen con AI, la evaluación de la función física, el ejercicio personalizado y la educación del paciente. Combina los datos de imagen de riñón e hígado analizados por AI con la masa muscular, la actividad registrada mediante dispositivos portátiles y otros medios, y los indicadores de dolor y fatiga para evaluar con precisión la carga de enfermedad de cada paciente y, a partir de ello, prescribir ejercicio optimizado. Para ello, nefrología y medicina de rehabilitación encabezan un sistema de colaboración multidisciplinar con expertos en ejercicio, nutrición y salud digital."
+                "x": "월요일 제네바 WHO 본부에서 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun)이 만난 자리에서 나온 합의다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "월요일 제네바 WHO 본부에서 만난 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus(왼쪽)와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun). (IHF 제공)"
               },
               {
                 "t": "p",
-                "x": "El estudio preliminar (Pilot study) para comprobar su aplicabilidad en la práctica también está dando resultados positivos. Tras aplicar intervenciones de ejercicio personalizadas a través de una plataforma móvil, la adherencia de los pacientes a la participación en el tratamiento superó el 90%. Los pacientes participantes valoraron que la guía de ejercicio concreta y el apoyo en tiempo real les ayudaron de forma real a recuperar la vitalidad en su vida diaria."
+                "x": "이 회장과 Tedros 사무총장은 지난달 서울에서 열린 제49차 IHF 세계병원대회가 채택한 '의료 AI 서울 선언(Seoul Declaration on AI in Healthcare)'의 후속 조치를 논의했다. IHF는 설립을 제안해 둔 글로벌 AI 헬스케어 리더십 센터(Global AI Healthcare Leadership Center)의 비전과 로드맵을 내놓았다."
               },
               {
                 "t": "p",
-                "x": "“El objetivo de esta investigación es crear un entorno en el que los pacientes con poliquistosis renal puedan seguir cuidando su salud por sí mismos en su vida diaria fuera del hospital”, afirmó Kim Ye-rim, responsable de la investigación y docente de Nefrología. “Con base en los comentarios de los pacientes recogidos en el estudio preliminar, seguiremos perfeccionando el programa de ejercicio y la plataforma”, añadió."
+                "x": "WHO가 제안한 협력 분야는 세 가지다. 보건의료 인력 역량 강화, AI 도입 전후 평가를 위한 표준 벤치마크와 평가 체계 개발, 공동 정상 포럼 개최다. 두 기구는 이를 조율할 고위급 공동 운영위원회를 꾸리고, 연내에 한 차례 더 만날 계획이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "WHOと国際病院連盟が\nAI合同委員会を設置",
+          "body": "WHOと国際病院連盟は、病院AIの標準と職員研修を扱う合同委員会を設ける。",
+          "mini_headline": "WHOとIHF、AIで連携",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "世界保健機関(WHO)と国際病院連盟(IHF)は、AI導入の基準づくりや医療従事者の研修を含め、医療AIでの協力を進める合同運営委員会の設置で合意した。"
               },
               {
                 "t": "p",
-                "x": "El Hospital Dongsan prevé aplicar primero la plataforma a la poliquistosis renal y, después, aprovechar la infraestructura de investigación clínica del hospital orientado a la investigación para convertirla en un modelo de gestión integral aplicable de forma general a diversas enfermedades crónicas, e impulsar su comercialización."
+                "x": "合意は月曜日、ジュネーブのWHO本部で行われたWHOのTedros Adhanom Ghebreyesus事務局長(Director-General)とIHFのLee Wang-jun次期会長(President-Designate)の会談で成立した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "月曜日、ジュネーブのWHO本部でのWHOのTedros Adhanom Ghebreyesus事務局長(Director-General、左)とIHFのLee Wang-jun次期会長(President-Designate)。(IHF提供)"
+              },
+              {
+                "t": "p",
+                "x": "Lee氏はTedros氏と会談し、先月ソウルで開かれた第49回IHF世界病院会議で採択された「医療AIに関するソウル宣言(Seoul Declaration on AI in Healthcare)」の後続措置を協議した。IHFは、設立を提案しているグローバルAIヘルスケア・リーダーシップセンター(Global AI Healthcare Leadership Center)のビジョンとロードマップを示した。"
+              },
+              {
+                "t": "p",
+                "x": "WHOは、医療従事者の能力開発、AI導入前後の評価に向けた標準ベンチマークと評価枠組みの策定、合同サミットフォーラムの共催という三つの協力分野を提案した。両機関はこれらを調整する高官級の合同運営委員会を設けることで合意し、年内にもう一度会合を開く予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "WHO与国际医院联合会\n组建AI联合委员会",
+          "body": "WHO与国际医院联合会将组建联合委员会,聚焦医院AI标准和员工培训。",
+          "mini_headline": "WHO与IHF携手推进AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "世界卫生组织(WHO)与国际医院联合会(IHF)同意成立联合指导委员会,推进医疗AI合作,包括AI应用标准和医疗专业人员培训。"
+              },
+              {
+                "t": "p",
+                "x": "这一协议是在周一于日内瓦WHO总部举行的会面中达成的,与会者为WHO总干事(Director-General)Tedros Adhanom Ghebreyesus与IHF候任主席(President-Designate)Lee Wang-jun。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "周一,WHO总干事(Director-General)Tedros Adhanom Ghebreyesus(左)与IHF候任主席(President-Designate)Lee Wang-jun在日内瓦WHO总部。(IHF供图)"
+              },
+              {
+                "t": "p",
+                "x": "Lee与Tedros会面,讨论上月在首尔举行的第49届IHF世界医院大会上通过的《医疗AI首尔宣言》(Seoul Declaration on AI in Healthcare)的后续措施。IHF介绍了拟设立的全球AI医疗领导力中心(Global AI Healthcare Leadership Center)的愿景与路线图。"
+              },
+              {
+                "t": "p",
+                "x": "WHO提出三个合作领域:医疗专业人员能力建设,制定用于AI应用前后评估的标准基准和评估框架,以及联合举办峰会论坛。双方同意成立高级别联合指导委员会来协调这些工作,并计划在年底前再次会面。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "WHO y la federación hospitalaria\ncrean un comité conjunto de AI",
+          "body": "WHO y la Federación Internacional de Hospitales crearán un comité conjunto sobre normas de AI y formación en hospitales.",
+          "mini_headline": "WHO e IHF se alían en AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La Organización Mundial de la Salud (WHO) y la Federación Internacional de Hospitales (IHF) acordaron crear un comité directivo conjunto para impulsar la cooperación en AI aplicada a la salud, incluidos estándares para la adopción de AI y formación para profesionales sanitarios."
+              },
+              {
+                "t": "p",
+                "x": "El acuerdo se alcanzó el lunes en una reunión entre el director general de la WHO (Director-General), Tedros Adhanom Ghebreyesus, y el presidente designado de la IHF (President-Designate), Lee Wang-jun, en la sede de la WHO en Ginebra."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "El director general de la WHO (Director-General), Tedros Adhanom Ghebreyesus (izquierda), y el presidente designado de la IHF (President-Designate), Lee Wang-jun, el lunes en la sede de la WHO en Ginebra. (Cortesía de la IHF)"
+              },
+              {
+                "t": "p",
+                "x": "Lee se reunió con Tedros para tratar las medidas de seguimiento de la Declaración de Seúl sobre la AI en la Salud (Seoul Declaration on AI in Healthcare), adoptada durante el 49.º Congreso Mundial de Hospitales de la IHF celebrado en Seúl el mes pasado. La IHF presentó su visión y su hoja de ruta para el propuesto Global AI Healthcare Leadership Center."
+              },
+              {
+                "t": "p",
+                "x": "La WHO propuso tres áreas de cooperación: el desarrollo de capacidades de los profesionales sanitarios, la elaboración de referencias estándar y marcos de evaluación para valorar la AI antes y después de su adopción, y la organización conjunta de un foro cumbre. Ambas organizaciones acordaron crear un comité directivo conjunto de alto nivel para coordinar estas iniciativas, con otra reunión prevista antes de fin de año."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "WHO·국제병원연맹\n공동 AI 위원회 구성",
+          "body": "WHO와 국제병원연맹이 병원 AI 표준과 인력 교육을 다룰 공동위원회를 꾸린다.",
+          "mini_headline": "WHO·IHF, AI 협력 손잡다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "세계보건기구(WHO)와 국제병원연맹(IHF)이 AI 도입 표준과 보건의료 인력 교육 등 의료 AI 협력을 진전시키기 위해 공동 운영위원회를 설치하기로 합의했다."
+              },
+              {
+                "t": "p",
+                "x": "합의는 월요일 제네바 WHO 본부에서 열린 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun)의 회동에서 이뤄졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "월요일 제네바 WHO 본부에서 만난 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus(왼쪽)와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun). (IHF 제공)"
+              },
+              {
+                "t": "p",
+                "x": "이 회장은 Tedros 사무총장과 만나 지난달 서울에서 열린 제49차 IHF 세계병원대회에서 채택된 '의료 AI 서울 선언(Seoul Declaration on AI in Healthcare)'의 후속 조치를 논의했다. IHF는 설립을 제안한 글로벌 AI 헬스케어 리더십 센터(Global AI Healthcare Leadership Center)의 비전과 로드맵을 제시했다."
+              },
+              {
+                "t": "p",
+                "x": "WHO는 보건의료 인력 역량 강화, AI 도입 전후 평가를 위한 표준 벤치마크와 평가 체계 개발, 공동 정상 포럼 개최 등 세 가지 협력 분야를 제안했다. 두 기구는 이를 조율할 고위급 공동 운영위원회를 설치하기로 했으며, 연내에 한 차례 더 만날 계획이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "WHOと国際病院連盟が\nAI合同委員会を設置",
+          "body": "WHOと国際病院連盟は、病院AIの標準と職員研修を扱う合同委員会を設ける。",
+          "mini_headline": "WHOとIHF、AIで連携",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "世界保健機関(WHO)と国際病院連盟(IHF)は、AI導入の基準づくりや医療従事者の研修を含め、医療AIでの協力を進める合同運営委員会の設置で合意した。"
+              },
+              {
+                "t": "p",
+                "x": "合意は月曜日、ジュネーブのWHO本部で行われたWHOのTedros Adhanom Ghebreyesus事務局長(Director-General)とIHFのLee Wang-jun次期会長(President-Designate)の会談で成立した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "月曜日、ジュネーブのWHO本部でのWHOのTedros Adhanom Ghebreyesus事務局長(Director-General、左)とIHFのLee Wang-jun次期会長(President-Designate)。(IHF提供)"
+              },
+              {
+                "t": "p",
+                "x": "Lee氏はTedros氏と会談し、先月ソウルで開かれた第49回IHF世界病院会議で採択された「医療AIに関するソウル宣言(Seoul Declaration on AI in Healthcare)」の後続措置を協議した。IHFは、設立を提案しているグローバルAIヘルスケア・リーダーシップセンター(Global AI Healthcare Leadership Center)のビジョンとロードマップを示した。"
+              },
+              {
+                "t": "p",
+                "x": "WHOは、医療従事者の能力開発、AI導入前後の評価に向けた標準ベンチマークと評価枠組みの策定、合同サミットフォーラムの共催という三つの協力分野を提案した。両機関はこれらを調整する高官級の合同運営委員会を設けることで合意し、年内にもう一度会合を開く予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "WHO与国际医院联合会\n组建AI联合委员会",
+          "body": "WHO与国际医院联合会将组建联合委员会,聚焦医院AI标准和员工培训。",
+          "mini_headline": "WHO与IHF携手推进AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "世界卫生组织(WHO)与国际医院联合会(IHF)同意成立联合指导委员会,推进医疗AI合作,包括AI应用标准和医疗专业人员培训。"
+              },
+              {
+                "t": "p",
+                "x": "这一协议是在周一于日内瓦WHO总部举行的会面中达成的,与会者为WHO总干事(Director-General)Tedros Adhanom Ghebreyesus与IHF候任主席(President-Designate)Lee Wang-jun。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "周一,WHO总干事(Director-General)Tedros Adhanom Ghebreyesus(左)与IHF候任主席(President-Designate)Lee Wang-jun在日内瓦WHO总部。(IHF供图)"
+              },
+              {
+                "t": "p",
+                "x": "Lee与Tedros会面,讨论上月在首尔举行的第49届IHF世界医院大会上通过的《医疗AI首尔宣言》(Seoul Declaration on AI in Healthcare)的后续措施。IHF介绍了拟设立的全球AI医疗领导力中心(Global AI Healthcare Leadership Center)的愿景与路线图。"
+              },
+              {
+                "t": "p",
+                "x": "WHO提出三个合作领域:医疗专业人员能力建设,制定用于AI应用前后评估的标准基准和评估框架,以及联合举办峰会论坛。双方同意成立高级别联合指导委员会来协调这些工作,并计划在年底前再次会面。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "WHO y la federación hospitalaria\ncrean un comité conjunto de AI",
+          "body": "WHO y la Federación Internacional de Hospitales crearán un comité conjunto sobre normas de AI y formación en hospitales.",
+          "mini_headline": "WHO e IHF se alían en AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La Organización Mundial de la Salud (WHO) y la Federación Internacional de Hospitales (IHF) acordaron crear un comité directivo conjunto para impulsar la cooperación en AI aplicada a la salud, incluidos estándares para la adopción de AI y formación para profesionales sanitarios."
+              },
+              {
+                "t": "p",
+                "x": "El acuerdo se alcanzó el lunes en una reunión entre el director general de la WHO (Director-General), Tedros Adhanom Ghebreyesus, y el presidente designado de la IHF (President-Designate), Lee Wang-jun, en la sede de la WHO en Ginebra."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+                "cap": "El director general de la WHO (Director-General), Tedros Adhanom Ghebreyesus (izquierda), y el presidente designado de la IHF (President-Designate), Lee Wang-jun, el lunes en la sede de la WHO en Ginebra. (Cortesía de la IHF)"
+              },
+              {
+                "t": "p",
+                "x": "Lee se reunió con Tedros para tratar las medidas de seguimiento de la Declaración de Seúl sobre la AI en la Salud (Seoul Declaration on AI in Healthcare), adoptada durante el 49.º Congreso Mundial de Hospitales de la IHF celebrado en Seúl el mes pasado. La IHF presentó su visión y su hoja de ruta para el propuesto Global AI Healthcare Leadership Center."
+              },
+              {
+                "t": "p",
+                "x": "La WHO propuso tres áreas de cooperación: el desarrollo de capacidades de los profesionales sanitarios, la elaboración de referencias estándar y marcos de evaluación para valorar la AI antes y después de su adopción, y la organización conjunta de un foro cumbre. Ambas organizaciones acordaron crear un comité directivo conjunto de alto nivel para coordinar estas iniciativas, con otra reunión prevista antes de fin de año."
               }
             ]
           }

@@ -4681,6 +4681,121 @@
           "x": "회사는 관련 부당이득반환 소송 1심에서 오산시법원과 울산지법이 원고 청구를 기각했다는 점도 근거로 들며, 복지부에 고시의 사용방법을 식약처 허가사항과 일치하게 정비해 달라고 요청했다. 바이탈케어는 신의료기술 평가유예 기간을 거쳐 현재 본평가를 받고 있다."
         }
       ]
+    },
+    "medicine/med-jama-llm-discharge-summaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "퇴원 요약은 진료를 이어 가는 데 꼭 필요하지만 전자건강기록(EHR) 데이터가 흩어져 있으면 질과 안전성이 떨어질 수 있다. 이 후향적 비교효과 연구는 비열등성 기준을 미리 정해 두고, 런던 5개 병원의 입원 기록(2022년 9월 1일~2023년 9월 30일)을 현직 의사들이 전체 입원 기록과 대조해 평가하게 했다."
+        },
+        {
+          "t": "p",
+          "x": "LLM-generated 요약은 GPT-4o mini(2024년 7월 18일 출시 버전, OpenAI)에 임상의와 함께 설계한 프롬프트를 넣어 만들었다. 1차 결과 지표는 임상의가 수정 없이 또는 경미한 수정만 거쳐 승인하느냐였고, 비열등성 한계는 5퍼센트포인트로 잡았다."
+        },
+        {
+          "t": "p",
+          "x": "표본은 퇴원 요약 1294건(임상의 작성 649건, LLM-generated 645건)이고 현직 의사 12명이 평가했다. 수정 없이 또는 경미한 수정만으로 승인될 확률은 LLM 쪽이 임상의 작성본보다 22.2퍼센트포인트(95% CI, 19.0-27.5) 높아 비열등성이 입증됐다. LLM-generated 요약은 정확성, 완전성, 어조, 명확성 점수가 더 높았고 잠재적 위해가 3 이상으로 매겨진 비율은 더 낮았다(26.2%와 26.8% 대 45.1%와 51.5%)."
+        },
+        {
+          "t": "p",
+          "x": "LLM-generated 퇴원 요약은 지금의 진료 기준을 충족했다. 임상의가 면밀히 감독한다면 의료에서 생성형 인공지능을 쓸 유망한 초기 사례다."
+        }
+      ]
+    },
+    "medicine/med-retina-pe-preeclampsia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+          "cap": "그래픽 초록"
+        },
+        {
+          "t": "p",
+          "x": "전자간증(PE)은 산모와 주산기 이환·사망을 부르지만 비침습 선별검사는 아직 마땅치 않다. 연구진은 망막 사진과 산모 임상 요인, 평균 동맥압을 묶어 이후 PE 발생을 예측하는 멀티모달 딥러닝 모델 Retina-PE를 만들었다. 모델 개발과 평가는 임신부 8616명에게서 전향적으로 모은 다기관 데이터로 후향적으로 진행했다."
+        },
+        {
+          "t": "p",
+          "x": "개발 데이터셋(Development-dataset)의 이미지 수준 수신자 조작 특성 곡선 아래 면적(AUCs)은 24–28주와 28–32주 PE 발생에서 0.853과 0.708, 1주·4주 조산 PE에서 0.871과 0.791, 1주·4주 조기 발병 PE에서 0.979와 0.862였다. 외부 검증 데이터셋에서는 같은 순서로 AUCs가 0.728과 0.815, 0.801과 0.801, 0.776과 0.766이었다."
+        },
+        {
+          "t": "p",
+          "x": "성능이 얼마나 나아졌는지는 과제마다 달랐다. 환자 수준 분석도 흐름은 비슷했으나 일부 과제는 사건 수가 적었다. 이번 결과는 망막 영상으로 산모 위험을 층화하는 방안을 전향적으로 평가할 근거가 된다."
+        }
+      ]
+    },
+    "medicine/med-hopkins-sumi-pcct-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "11월 29일 일요일 | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
+        },
+        {
+          "t": "p",
+          "x": "딥러닝(deep-learning) 모델 SUMI가 \"[광자계수(photon-counting) CT] PCCT의 화질(image-quality) 이점을 일반 흉부 CT로 증류하는\" 데 가능성을 보였다."
+        },
+        {
+          "t": "p",
+          "x": "광자계수 CT(PCCT)는 기존 에너지 적분형(energy-integrating) CT(EICT)보다 공간 해상도가 높고 노이즈가 적다. 하지만 일상 진료에서 PCCT 스캐너를 늘 쓸 수 있는 건 아니라고 Baltimore 소재 Johns Hopkins University의 발표자 Chuntung Zhuang과 동료들은 짚었다. 그래서 연구진은 짝지은 촬영 없이도 일반 CT 영상에 PCCT 화질을 입히는 AI 모델을 만들었다. 새 장비 없이 더 많은 환자가 PCCT 수준(PCCT-like)의 화질을 누리게 하자는 구상이다."
+        },
+        {
+          "t": "p",
+          "x": "Zhuang 연구팀은 먼저 145개 병원의 PCCT 스캔 1,046건과 EICT 스캔 405,379건으로 연속 오토인코더(i.e., 비지도 인공신경망)를 학습시켰다. 다음 단계에서는 PCCT 스캔 1,046건을 화질 저하의 네 가지 표준 범주(희소 투영(sparse-view), 저선량(low-dose), 일반, 복합 열화)로 나눠 SUMI를 훈련했다."
+        },
+        {
+          "t": "p",
+          "x": "세션에서는 최대 신호 대 잡음비(peak signal-to-noise ratio)와 구조적 유사도 지수(structural similarity index measure)로 본 SUMI의 성능, 그리고 이 모델이 흉부 CT 화질을 어떻게 끌어올리는지 들을 수 있다."
+        }
+      ]
+    },
+    "medicine/med-who-ihf-ai-committee": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "세계보건기구(WHO)와 국제병원연맹(IHF)이 AI 도입 표준, 보건의료 인력 교육 등 의료 AI 협력을 넓히려고 공동 운영위원회를 두기로 했다."
+        },
+        {
+          "t": "p",
+          "x": "월요일 제네바 WHO 본부에서 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun)이 만난 자리에서 나온 합의다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+          "cap": "월요일 제네바 WHO 본부에서 만난 WHO 사무총장(Director-General) Tedros Adhanom Ghebreyesus(왼쪽)와 IHF 차기 회장(President-Designate) 이왕준(Lee Wang-jun). (IHF 제공)"
+        },
+        {
+          "t": "p",
+          "x": "이 회장과 Tedros 사무총장은 지난달 서울에서 열린 제49차 IHF 세계병원대회가 채택한 '의료 AI 서울 선언(Seoul Declaration on AI in Healthcare)'의 후속 조치를 논의했다. IHF는 설립을 제안해 둔 글로벌 AI 헬스케어 리더십 센터(Global AI Healthcare Leadership Center)의 비전과 로드맵을 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "WHO가 제안한 협력 분야는 세 가지다. 보건의료 인력 역량 강화, AI 도입 전후 평가를 위한 표준 벤치마크와 평가 체계 개발, 공동 정상 포럼 개최다. 두 기구는 이를 조율할 고위급 공동 운영위원회를 꾸리고, 연내에 한 차례 더 만날 계획이다."
+        }
+      ]
+    },
+    "medicine/apple-openevidence-trust-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+          "cap": "Apple과 OpenEvidence가 2026년 11월 15일 네바다주 라스베이거스(Las Vegas, Nevada)에서 열린 HLTH 콘퍼런스에서 대화형 AI 연구와 관련 앱을 소개하는 모습."
+        },
+        {
+          "t": "p",
+          "x": "Apple이 일요일 라스베이거스(Las Vegas)에서 열린 HLTH 콘퍼런스에서 가상 연구와 관련 앱을 선보인다고 밝혔다. 사람들이 대화형 건강 AI를 어떻게 쓰는지 알아보려는 연구다. Apple 건강·피트니스(Health and Fitness) 부문 부사장 Dr. Sumbul Desai는 임상 AI 플랫폼 OpenEvidence와 함께하는 이 연구가 소비자 신뢰를 좌우하는 요인과 건강 AI 응답의 품질, 대화형 AI가 행동 변화를 끌어낼 수 있는지를 살핀다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "U.S. 전역의 21세 이상 적격 참가자라면 최대 200,000명까지 참여할 수 있다. 사용자는 앱에 건강 질문을 던지고 안정 시 심박수, 활동량, 수면, 검사 결과 같은 데이터를 공유해 대화를 자기에게 맞출 수 있다. 연구 데이터는 AI 모델 학습에 쓰지 않는다. 개인 데이터도 본인이 원할 때만 공유된다."
+        },
+        {
+          "t": "p",
+          "x": "“사용자 신뢰를 쌓는 요인, 사람들이 응답을 이해하는 방식, 응답의 품질을 연구하고 있으며, 임상적 근거를 갖춘 파트너와 일하고 싶었다. 그 파트너가 OpenEvidence다”라고 Desai는 설명했다. OpenEvidence CEO Daniel Nadler는 진료가 대개 10분이나 15분이면 끝난다며 앱이 그 빈틈을 메워 줄 수 있다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Apple에 따르면 앱은 우려되는 질문을 걸러 내고 필요하면 외부 의료진이나 다른 창구로 연결한다. KFF에 따르면 U.S. 성인 약 삼분의 일이 AI 챗봇과 자기 건강 문제를 이야기해 본 적이 있다."
+        }
+      ]
     }
   }
 }

@@ -12449,6 +12449,144 @@
           "x": "Anthropic reports a score of 64.9 percent for Fable 5.2 on its internal RoboDojo Sim benchmark, compared with 29.8 percent for OpenAI's GPT-6 Astra. In AI researcher Aris Zhu's real-world robot-arm test, Astra painted faster and showed better fine motor control."
         }
       ]
+    },
+    "design/nevercenter-silo2027-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "G-oQE1gP64U"
+        },
+        {
+          "t": "p",
+          "x": "Nevercenter has begun its 2027 releases of Silo, its lightweight 3D modelling software. Silo 2027.0 is a significant update, adding a long-awaited new script editor, plus a MCP server, making it possible to control the software with external AI tools like Claude and ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "The new scripting API is for JavaScript rather than Python. It includes over 100 functions, covering “most of what you can do by hand”, including generating primitives, modifying meshes, and working with selections, materials, UVs and cameras. Scripts can be created in Silo’s new built-in Script Editor or in an external editor, and run from a menu command or in their own UI windows."
+        },
+        {
+          "t": "p",
+          "x": "Silo also becomes the latest CG application to integrate a MCP Server, making it possible to control the software with external AI tools like Claude or ChatGPT, using the new JavaScript API."
+        },
+        {
+          "t": "p",
+          "x": "The Silo Blender Bridge now works between faces or edge loops of different sizes and between two shapes. glTF files get “proper” PBR material export and now preserve creases and embedded textures, and the default material round-trips through USD, FBX and Collada (DAE) files."
+        },
+        {
+          "t": "p",
+          "x": "Silo 2027.0 is compatible with Windows 10+ and macOS 12.0+. Perpetual licences of Silo have an MSRP of $159, which includes Milo."
+        }
+      ]
+    },
+    "design/mai-image-27-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Today we’re introducing MAI Image 2.7 and MAI Image 2.7 Flash, delivering frontier image generation and editing at a fraction of the cost of the leading competitors. We’re also launching Canvas, a new interactive workspace powered by our Flash model to create, edit, and refine images."
+        },
+        {
+          "t": "p",
+          "x": "MAI Image 2.7 takes the #1 spot on Artificial Analysis image editing, outperforming GPT Image 2.6 Sunburst (max) at just one-fifth of the cost. As of November 16, 2026, it scores 1,215 Elo across 5,478 votes. Available in public preview on Microsoft Foundry, MAI Image 2.7 costs ~$35 per 1,000 images while Flash costs ~$10 per 1,000 images."
+        },
+        {
+          "t": "p",
+          "x": "Change an object’s color, material, or position without disrupting the rest of an image. MAI Image 2.7 preserves visual consistency across successive edits. Both models support transparent backgrounds for ready-to-use product images, logos, icons, and illustrations."
+        },
+        {
+          "t": "p",
+          "x": "Canvas, in MAI Labs, lets you start with a prompt or sketch, turn rough ideas into polished diagrams, then select any part of an image to replace, move, or restyle. MAI Image is now the default model family powering Bing Image Creator, and Figma Weave, Minute (Sports Illustrated), Wirestock and Manus are also working with it. Both models are available through Microsoft Foundry and partners including fal, Genspark, OpenRouter, and Vercel."
+        }
+      ]
+    },
+    "design/instagram-content-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+          "cap": "Image Credits:Jonathan Raa/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Instagram is introducing a new tool to help creators protect their original videos, the Meta-owned company announced Tuesday. The feature, called “content protection,” is already available on Facebook and is designed to detect when creators’ original videos are being used without their permission. The company is also expanding the tool to address AI content, not just conventional reposting."
+        },
+        {
+          "t": "p",
+          "x": "The tool continuously scans Instagram for unauthorized uses of creators’ protected videos. When it detects a match for one of a creator’s Reels uploaded by another user, it sends the creator an alert. Creators can block the video on both Instagram and Facebook, add an “original by” label linking back to their original, keep the match visible while monitoring its performance, or release their claim."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+          "cap": "Image Credits:Instagram"
+        },
+        {
+          "t": "p",
+          "x": "The tool will also begin detecting AI-generated videos that reuse audio from creators’ original content, even when the visuals have been altered. This update will initially be tested with a small group of creators in the coming weeks. Instagram says it’s exploring ways to limit the reach of accounts and content that repeatedly use AI tools to repost others’ work."
+        },
+        {
+          "t": "p",
+          "x": "Once eligible creators enroll, every original video they post to Instagram going forward is automatically protected, and they can retroactively protect eligible videos. Profiles they’ve permitted, such as a second profile or a brand, can be added to an allow list."
+        }
+      ]
+    },
+    "design/tripo-polipop-h35": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI has given a first look at H3.5, an upcoming 3D native foundation model in its H series, at Formnext 2026 in Frankfurt, and introduced Polipop, an artificial intelligence agent built for additive manufacturing. During a press conference at the show, the company displayed 3D printed pieces generated by the new model and presented both products as a link between AI-generated content and 3D printers."
+        },
+        {
+          "t": "p",
+          "x": "H3.5 comes as a major upgrade over its H3.1 predecessor, making a significant step forward in capturing fine detail and preserving visual accuracy. The model also produces print-ready 3D content that needs little editing. The company also demonstrated how its current H-series model could turn an idea into a 3D printed object in the space of just a few minutes."
+        },
+        {
+          "t": "p",
+          "x": "Tripo also presented Polipop on stage as an agent that converts user ideas into custom 3D printed items. Once given an idea, the agent handles 3D modeling and print preparation, then sends the finished job to a 3D printer."
+        },
+        {
+          "t": "p",
+          "x": "“Our upcoming H3.5 3D native model represents a new milestone in generative 3D technology, bringing print-ready generated 3D content directly to a 3D printer, while Polipop, the AI agent specially developed for 3D printing, helps mold people’s ideas into 3D printed objects,” said Yuan-Chen Guo, Research Lead at Tripo AI. Visitors can test the H-series model, Tripo Studio and Polipop at Booth B01 in Hall 12.1."
+        }
+      ]
+    },
+    "design/claude-canvas-html": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects."
+        },
+        {
+          "t": "p",
+          "x": "Web pages have always faced a tradeoff. Standard HTML elements are clickable, selectable, and readable by screen readers, but they're hard to warp visually. Canvas lets you draw anything you want, but the browser treats it like a flat image. You can't select text or click links inside it. HTML-in-Canvas changes that by placing real page elements inside canvas graphics while keeping them fully interactive."
+        },
+        {
+          "t": "p",
+          "x": "Felix Rieseberg works on Claude at Anthropic. He wrote on X that Claude can now build \"bizarre & beautiful sites\" with the feature, adding that it reminds him of the Flash era. A demo page shows 15 examples, including websites rendered as knitting patterns, 3D cubes, or exploded layer views. The content stays as real text you can highlight and copy."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google is developing HTML-in-Canvas as a web standard that preserves both interactivity and accessibility. The feature works in Chrome and Edge starting with version 157 and in Claude's desktop apps from version 5.11492. Safari and Firefox don't support it yet. Users need to ask Claude for HTML-in-Canvas explicitly in their prompt."
+        },
+        {
+          "t": "p",
+          "x": "Claude keeps getting more creative with visual tasks. Recently, Claude Fable 5.2 painted photorealistic artwork stroke by stroke using self-written Python code."
+        }
+      ]
     }
   }
 }

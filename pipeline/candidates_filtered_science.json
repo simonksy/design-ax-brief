@@ -1,97 +1,128 @@
 {
   "section": "science",
-  "now_iso": "2026-11-16T22:37:00Z",
+  "now_iso": "2026-11-17T22:00:36Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge",
-      "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html",
+      "title": "SynFit guides enzyme engineering by balancing several useful traits at once",
+      "url": "https://phys.org/news/2026-11-synfit-enzyme-traits.html",
       "source": "Phys.org",
-      "category": "life_science",
-      "published_iso": "2026-11-16T13:20:15-05:00",
-      "excerpt": "Harnessing satellite imagery, AI deep-learning models and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a 20-year period.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/a-field-of-leafy-spurg.jpg"
+      "category": "science",
+      "subtopic": "life_science",
+      "published_iso": "2026-11-06T13:00:03-05:00",
+      "excerpt": "UC Santa Barbara (Yang Yang, HHMI) and Georgia Tech (Yunan Luo) built SynFit, an open-source AI tool that learns several enzyme traits at once from a small batch of lab data and predicts variants that balance them. Trained on an engineered cytochrome c that forges carbon-boron bonds, the variants it picked were made and tested in the lab, and many hit high yield and high selectivity together (bioRxiv preprint).",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/teaching-ai-to-build-b.jpg"
     },
     {
-      "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
+      "title": "New AI tool exposes plant pathogens and the genes behind them",
+      "url": "https://phys.org/news/2026-11-ai-tool-exposes-pathogens-genes.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subtopic": "life_science",
+      "published_iso": "2026-11-12T17:00:11-05:00",
+      "excerpt": "Leiden University bioinformatician Guillermo Guerrero Egido's machine-learning tool bacLIFE compares the genomes of more than 16,000 plant-associated bacteria at once. It predicts each one's lifestyle (soil, plant-beneficial or pathogenic) and flags the genes likely behind disease-causing ability, which could help spot new crop pathogens and useful farm microbes earlier.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/new-ai-tool-exposes-pl.jpg",
+      "history_match": {
+        "score": 0.176,
+        "date": "2026-10-29",
+        "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
+        "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Dark matter-hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
       "url": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
       "source": "Phys.org",
-      "category": "astronomy",
+      "category": "science",
+      "subtopic": "astronomy",
       "published_iso": "2026-11-15T15:00:01-05:00",
-      "excerpt": "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter.",
+      "excerpt": "Euclid's first major data release (DR1) yields about 15,000 new strong-gravitational-lens candidates; before Euclid there were fewer than 1,000 confirmed lenses. In the UBC-involved four-step search, machine learning first sorts the huge dataset for likely lenses, then thousands of citizen scientists refine the AI-sorted pool, and the team aims to build an ML model that can confirm lenses without human checks. Note: AI is one stage of the pipeline, not the headline.",
       "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg"
     },
     {
-      "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
-      "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html",
-      "source": "Phys.org",
-      "category": "materials",
-      "published_iso": "2026-11-16T14:40:07-05:00",
-      "excerpt": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational chemistry. The findings, published in the journal ACS Catalysis, provide a scientific basis for predicting potential declines in catalytic performance according to the types and concentrations of impurities present.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/ai-and-experiments-rev-2.jpg"
-    },
-    {
-      "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
-      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
+      "title": "Chat-based AI lets users run complex alloy calculations on their own computers",
+      "url": "https://techxplore.com/news/2026-11-chat-based-ai-users-complex.html",
       "source": "Tech Xplore",
-      "category": "materials",
-      "published_iso": "2026-11-16T09:30:01-05:00",
-      "excerpt": "Developing new materials often starts with understanding their electronic structure, or how electrons are arranged and behave within them. Calculating these electronic structures typically requires expensive simulations on supercomputers. That's led researchers to train artificial intelligence models on millions of simulated data points to make faster predictions.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-12.jpg"
+      "category": "science",
+      "subtopic": "materials",
+      "published_iso": "2026-11-17T02:00:02-05:00",
+      "excerpt": "Empa researchers (Yang Hu et al.) built OptiMat Alloys, an AI agent framework that lets materials scientists run atomistic high-entropy-alloy simulations through a plain text chat. It is grounded in scientific knowledge and computes results on demand on the user's own computer (npj Computational Materials).",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/a-virtual-materials-sc.jpg"
     },
     {
-      "title": "Quantum neural networks with high-dimensional quantum neurons",
-      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
+      "title": "Brain scans may explain why deepfake faces appear 'hyperreal'",
+      "url": "https://techxplore.com/news/2026-11-brain-scans-deepfake-hyperreal.html",
       "source": "Tech Xplore",
-      "category": "quantum",
-      "published_iso": "2026-11-16T08:40:04-05:00",
-      "excerpt": "How can we scale up a quantum neural network? One way is to add more qubits as neurons. But a study titled \"Quantum neural network equipped with backpropagation on a qudit processor\" published in National Science Review shows another way.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/quantum-neural-network-1.jpg"
+      "category": "science",
+      "subtopic": "psychology",
+      "published_iso": "2026-11-17T09:00:21-05:00",
+      "excerpt": "University of Florida psychologist Natalie Ebner's team showed 126 people aged 18-89 a set of 80 real and AI-generated faces while scanning their brains. Participants rated the deepfakes as more real than the real photos, and activity in the anterior insula dropped when they viewed deepfakes. Older adults showed the strongest bias (Social Cognitive and Affective Neuroscience).",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear.jpg",
+      "history_match": {
+        "score": 0.151,
+        "date": "2026-11-16",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
+        "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+        "band": "related"
+      }
     },
     {
-      "title": "AI toolbox accelerates bioreactor simulations by up to 10,000 times",
-      "url": "https://techxplore.com/news/2026-11-ai-toolbox-bioreactor-simulations.html",
+      "title": "New AI model could help UN nuclear watchdog achieve near-perfect uranium enrichment assessment",
+      "url": "https://techxplore.com/news/2026-11-ai-nuclear-watchdog-uranium-enrichment.html",
       "source": "Tech Xplore",
-      "category": "physics",
-      "published_iso": "2026-11-11T11:40:26-05:00",
-      "excerpt": "The control of large-scale industrial bioreactors is one of the most complex tasks in the process industry. In the often huge plants, the smallest differences in temperature, pH value or oxygen content determine the success or failure of a process.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/bioreactor.jpg"
+      "category": "science",
+      "subtopic": "physics",
+      "published_iso": "2026-11-09T11:20:22-05:00",
+      "excerpt": "University of Sharjah researchers trained gradient-boosting models (XGBoost, CatBoost, LightGBM) on IAEA benchmark simulations of HPGe gamma-spectroscopy detector output. The dual-task framework predicts U-235 enrichment (XGBoost R2 = 1.0000) and classifies nuclear material types with 100% accuracy, aimed at NPT safeguards (Annals of Nuclear Energy). Note: tested on simulated data only.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/nuclear-energy.jpg"
     },
     {
-      "title": "Scientists who use AI propose less distinctive ideas for federal research grants",
-      "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/",
-      "source": "PsyPost",
-      "category": "psychology",
-      "published_iso": "2026-11-16T21:00:36+00:00",
-      "excerpt": "A new study of U.S. federal grant applications suggests that scientists using generative AI tend to pitch research closer to previously funded topics. At the NIH, AI-heavy proposals won funding more often and preceded modestly more routine papers.",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg"
+      "title": "AI Agents Ran a Biology Lab. Humans Popped in to Empty the Trash.",
+      "url": "https://singularityhub.com/2026/11/10/ai-agents-ran-a-biology-lab-humans-popped-in-to-empty-the-trash/",
+      "source": "SingularityHub",
+      "category": "science",
+      "subtopic": "research_automation",
+      "published_iso": "2026-11-10T08:18:21-08:00",
+      "excerpt": "Shanghai Jiao Tong University's AutoDNA is a molecular biology lab run mostly by AI agents that plan experiments, control robots and run DNA synthesis and sequencing; humans only restock supplies. It finished a full DNA write-and-read cycle in about 200 hours with expert-level precision, tuned a PCR protocol to nearly 98% yield, and encoded and decoded a message across 78 DNA strands.",
+      "og_image": "https://singularityhub.com/uploads/2026/11/pink-pipette-rows-of-test-tubes.jpeg?auto=webp",
+      "history_match": {
+        "score": 0.437,
+        "date": "2026-11-07",
+        "url": "https://www.nature.com/articles/d41586-026-03552-8",
+        "title": "AI agents run this automated biology lab that sequences DNA and more",
+        "band": "likely-repeat"
+      }
     },
     {
-      "title": "Scientists might have discovered what makes AI so effective at chess",
-      "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/",
-      "source": "Scientific American",
-      "category": "cognition",
-      "published_iso": "2026-11-15T07:00:00-05:00",
-      "excerpt": "AI’s comfort with complexity could be key to its chess-playing prowess",
-      "og_image": "https://static.scientificamerican.com/dam/asset/1e99e951-c633-4384-8edb-9267b4a202c9/saw1226_0127Adva06.jpg?m=1793651269.904&w=1200"
+      "title": "Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously",
+      "url": "https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar",
+      "source": "Universe Today",
+      "category": "science",
+      "subtopic": "astronomy",
+      "published_iso": "2026-11-09T21:44:00+00:00",
+      "excerpt": "Virginia Tech's Yiyan Ruan and Erik Komendera (a former NASA Langley researcher) use AI to read surface vibrations and estimate how deep partly buried rocks go. This would let energy-limited robots on the Moon or Mars decide on their own whether to dig out an obstacle or steer around it (IEEE Sensors Journal).",
+      "og_image": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg"
     },
     {
-      "title": "AI has put young mathematicians in an impossible situation",
-      "url": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/",
-      "source": "Scientific American",
-      "category": "psychology",
-      "published_iso": "2026-11-16T09:00:00-05:00",
-      "excerpt": "A survey of 268 graduate students and postdocs reveals researchers are unsure of their future in mathematics and uneasy about using AI—the very technology they fear",
-      "og_image": "https://static.scientificamerican.com/dam/asset/3fe4c4cd-b942-4d99-a83a-414ac96ae998/ai-math-still.jpg?m=1794846748.118&w=1200"
+      "title": "New AI Models Are Turbo-Charging Protein Design",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/new-ai-models-are-turbo-charging-protein-design/",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "category": "science",
+      "subtopic": "life_science",
+      "published_iso": "2026-11-09T13:55:53Z",
+      "excerpt": "GEN feature (Caroline Seydel) on AI-designed protein therapeutics moving from proof of concept to wet-lab validation and clinical trials. It notes that Anthropic's Claude Opus 4.8 designed several binders to TNF-alpha, a hard target where other models had struggled. Note: this is an industry roundup feature, not a single new paper.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/GEN_NOV_2026_GettyImages-2172899400.jpg"
     },
     {
-      "title": "Using AI to accelerate neuroscience research",
-      "url": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
-      "source": "Medical Xpress",
-      "category": "cognition",
-      "published_iso": "2026-11-14T12:00:24-05:00",
-      "excerpt": "Integrating artificial intelligence (AI) into neuroscience is changing how scientists engage with data, improving our understanding of the brain and leading to better ways of training computational models. The findings will be presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2025/neuroscience.jpg"
+      "title": "New AI “copilot” helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "source": "MIT News",
+      "category": "science",
+      "subtopic": "research_automation",
+      "published_iso": "2026-11-13T05:00:00Z",
+      "excerpt": "MIT researchers made topology-optimization design interactive: while the algorithm generates a structure, it shows regions to a human designer for feedback. The result is more manufacturable structures with higher buckling loads for only 15 seconds of extra design time (Communications Engineering). Note: borderline engineering, not basic science.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg"
     }
   ],
   "dedup": {
@@ -102,35 +133,10 @@
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 0,
+    "review": 3,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-18",
-      "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
-      "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Machine learning analysis of gene regulation reveals new dimension of biological variability",
-      "url": "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Can AI help discover new food physics? Researchers pair AI with human expertise",
-      "url": "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Anthropic's Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
-      "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Simulating student learning for better AI tutoring",
-      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
-    },
     {
       "date": "2026-10-19",
       "title": "Giving AI a 'crystal clear' view of the materials world",
@@ -805,6 +811,31 @@
       "date": "2026-11-16",
       "title": "AI-powered bionic eye breakthrough could help the blind see again",
       "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge",
+      "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
+      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Quantum neural networks with high-dimensional quantum neurons",
+      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Scientists who use AI propose less distinctive ideas for federal research grants",
+      "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Scientists might have discovered what makes AI so effective at chess",
+      "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/"
     }
   ]
 }

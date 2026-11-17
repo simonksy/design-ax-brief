@@ -1,168 +1,168 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "politics",
   "items": [
     {
-      "title": "US moves to cut China’s remote access to AI chips",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "source": "Ars Technica",
+      "title": "Irish regulator stops X training AI with data gathered by agents",
+      "url": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/",
+      "source": "POLITICO Europe",
       "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "published_iso": "2026-11-16T19:10:09+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
-      "excerpt": "The Commerce Department says a rule change closes the loophole that let China, Russia and Iran bypass chip export curbs by renting remote access to restricted AI chips in data centers in Indonesia, Malaysia, Singapore, Thailand and Brazil.",
-      "rationale": "The Commerce Department actually issues the export-control rule (remote/cloud access to restricted AI chips via five SE Asian and Latin American hubs), turning the 11-13 reported plan into an official measure - single card for the Ars/Yonhap/디지털투데이 cluster."
+      "published_iso": "2026-11-17T10:54:01+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/17/GettyImages-2297232274-scaled.jpg",
+      "excerpt": "Ireland's Data Protection Commission intervened and X halted training its AI models on personal data collected by AI agents (Grok bot); the regulator cited significant concerns about agent-gathered personal data under GDPR.",
+      "rationale": "A regulator action under GDPR: after Ireland's DPC stepped in, X halted training its AI on personal data collected by AI agents - a concrete privacy-enforcement precedent for agent-gathered training data."
     },
     {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source": "The Verge",
+      "title": "Joint statement from Department of Commerce and Department of Justice on Megaspeed investigation",
+      "url": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
+      "source": "U.S. Department of Justice",
       "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-11-16T20:46:01+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "excerpt": "California sued OpenAI, claiming it knowingly tested a 'dangerous product' without safeguards after its AI agents were linked to the Hugging Face hacking incidents.",
-      "rationale": "A new state lawsuit: California alleges OpenAI knowingly tested a dangerous agent product without safeguards after the Hugging Face incidents - liability litigation over AI agents, attributed to the state's complaint."
+      "published_iso": "2026-11-17T07:39:57-05:00",
+      "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "excerpt": "Commerce and DOJ publicly detail their export-control investigation of Singapore's Megaspeed over suspected diversion of Nvidia AI chips: opened in 2024, Nvidia records requested May 2025, Megaspeed put on Nvidia's no-sell list June 2025; the agencies rebut 'inaccurate' public reporting.",
+      "rationale": "Primary document: Commerce and DOJ jointly set out, for the first time on the record, the timeline of their Megaspeed AI-chip diversion probe - the single card for the Nvidia/Megaspeed cluster (Register, Axios, WIRED dropped)."
     },
     {
-      "title": "US allies deepen deal to guard AI supply chains against 'hostile actors'",
-      "url": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-      "source": "The Register",
+      "title": "Scoop: Democrats probe DOJ's role in OpenAI copyright fight",
+      "url": "https://www.axios.com/2026/11/17/democrats-probe-doj-openai-microsoft-copyright",
+      "source": "Axios",
       "category": "politics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-16T16:15:00.000Z",
-      "og_image": "https://image.theregister.com/5244738.jpg?imageId=5244738&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The US and nine partners (incl. Korea, Japan, UK, India, Australia) signed the 'San Francisco Declaration' pledging to protect AI supply chains, sensitive tech and AI infrastructure from hostile actors.",
-      "rationale": "The US and nine partners including Korea and Japan sign the San Francisco Declaration on protecting AI supply chains and infrastructure - a new multilateral AI-geopolitics agreement (single card for the Register/전자신문 cluster)."
+      "published_iso": "2026-11-17T21:41:25Z",
+      "og_image": null,
+      "excerpt": "House Democrats led by Rep. Chellie Pingree are circulating a letter to AG Todd Blanche questioning why DOJ filed a statement of interest siding with OpenAI and Microsoft in the NYT copyright case without consulting the Copyright Office or USPTO, demanding drafts and any outside input.",
+      "rationale": "Congressional oversight letter on DOJ's statement of interest in the NYT v. OpenAI/Microsoft copyright case - AI copyright litigation meets executive-branch policy; attribute the questions to the House Democrats signing it."
     },
     {
-      "title": "정부, 수능 스마트기기 반납·공공 와이파이 차단 추진(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261116029451001",
-      "source": "연합뉴스",
+      "title": "정부, 글로벌 빅테크와 수능 AI 부정행위 사후조사 추진…입시제한도 10년으로 확대",
+      "url": "https://www.etnews.com/20261117000355",
+      "source": "전자신문",
       "category": "politics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-11-16T14:43:52+09:00",
-      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111119740001300_P4.jpg",
-      "excerpt": "AI(인공지능) 첨단기술을 활용한 부정행위 우려가 커지는 가운데 정부가 오는 19일 대학수학능력시험 시험장에서 스마트기기 반납과 공공 와이파이 차단을 추진한다.",
-      "rationale": "New government measure for the 11-19 CSAT - mandatory smart-device surrender and public Wi-Fi shutdown at test sites to block AI-assisted cheating; the only exam-cheating card today, distinct from the 11-16 licensing-exam audit."
+      "published_iso": "2026-11-17T15:46:45+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/17/news-p.v1.20261117.6f67a4907f174a27a167bbff3f48c0d9_P1.png",
+      "excerpt": "한성숙 총리 대국민 담화: 글로벌 빅테크와 협력해 시험 후 AI 서비스 접속 기록을 분석해 부정행위를 적발하고, 수능 응시자격 제한을 1년에서 10년으로 확대 추진.",
+      "rationale": "New government decision announced in the Prime Minister's address: post-exam audit of AI-service access logs with global big tech and a 1-to-10-year CSAT ban - the only exam-cheating card today, beyond the 11-17 device-surrender/Wi-Fi measure."
     },
     {
-      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-      "source": "The Register",
+      "title": "美 백악관, AI 사고 자진신고 기업에 규제 책임 완화 권고",
+      "url": "https://www.etnews.com/20261116000016",
+      "source": "전자신문",
       "category": "politics",
       "tool": "Politics",
-      "accent": "#ff5a4d",
+      "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-11-16T19:52:00.000Z",
-      "og_image": "https://image.theregister.com/5310250.jpg?imageId=5310250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The FBI and AWS warn attackers are using AI agents to automate cybercrime at 'industrial scale' against critical organisations worldwide.",
-      "rationale": "An official FBI warning (with AWS) that AI agents are automating cybercrime at industrial scale against critical organisations - a government security advisory, preferred over the vendor-only Google threat report under the primary-source rule."
+      "published_iso": "2026-11-16T08:20:07+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.1202ca53a94644a181c2e9d2ad26452b_P1.png",
+      "excerpt": "트럼프 대통령 AI 태스크포스가 12일 회의에서 AI 기업의 중대 사고 자발적 보고를 늘리기 위해 연방기관이 사이버 범죄 책임 정책을 완화하도록 권고했다(블룸버그 보도 인용).",
+      "rationale": "A White House AI task-force recommendation that federal agencies ease liability for AI companies that voluntarily report serious incidents - a US incident-reporting policy shift (attributed to the Bloomberg report the article cites)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.yna.co.kr/view/AKR20261112121900009",
-        "new_action": "Commerce Department issues the rule change closing the remote-access loophole and adding Indonesia, Malaysia, Singapore, Thailand and Brazil to licence requirements (11-13 card was a reported plan; 11-16 Verge card was Congress, not Commerce; history_match Treasury outbound-investment curbs 10-26 is a different measure)."
-      },
-      "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
-        "verdict": "follow-up",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai",
-        "new_action": "California files its own lawsuit against OpenAI tied to the Hugging Face agent hacking incidents (new filing; earlier cards: Register red-team report 10-25, Texas suit 10-26, Australia mandatory reporting 11-11 - history_match)."
-      },
-      "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094": {
+      "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/": {
         "verdict": "new",
-        "nearest": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261116029451001": {
+      "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation": {
         "verdict": "follow-up",
-        "nearest": "https://www.etnews.com/20261115000178",
-        "new_action": "Government decides CSAT-day measures: smart-device surrender and public Wi-Fi blocking at test sites (new official decision; 11-16 card was the national licensing-exam audit and tax-accountant 5-year ban)."
+        "nearest": "https://www.yna.co.kr/view/AKR20261113115800104",
+        "new_action": "Commerce and DOJ issue an official joint statement detailing the Megaspeed export-control investigation timeline (opened 2024, Nvidia records requested May 2025, no-sell list June 2025). Prior cards: Verge empty-office 11-08, Malaysia probe 11-14, Congress export rules 11-16; history_match DOJ Super Intelligence Task Force 11-07 is unrelated."
       },
-      "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223": {
+      "https://www.axios.com/2026/11/17/democrats-probe-doj-openai-microsoft-copyright": {
         "verdict": "new",
-        "nearest": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+        "nearest": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+        "new_action": ""
+      },
+      "https://www.etnews.com/20261117000355": {
+        "verdict": "follow-up",
+        "nearest": "https://www.yna.co.kr/view/AKR20261116029451001",
+        "new_action": "PM's national address announces a post-exam AI-access-log audit with global big tech and extends the CSAT eligibility ban from 1 to 10 years (11-16 card: licensing-exam audit/5-year tax-exam ban; 11-17 card: device surrender and Wi-Fi blocking)."
+      },
+      "https://www.etnews.com/20261116000016": {
+        "verdict": "new",
+        "nearest": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
         "new_action": ""
       }
     },
-    "note": "Within-pool clusters: chip remote-access rule kept Ars, dropped 연합뉴스 AKR20261117004151091 and 디지털투데이 idxno=715881 (same Commerce rule). San Francisco Declaration kept Register, dropped 전자신문 20261116000527. Exam-cheating cap 1: kept yna 수능 기기반납/와이파이 차단; dropped yna AKR20261116170000017 (방미통위 유통 방지 - second measure in same cluster, cap) and etnews 20261116000335 (police probe of the tax-accountant case already covered 11-16). AI-automated cyberattacks: kept FBI/AWS official warning; dropped POLITICO EU Google GTIG report and 디지털투데이 idxno=715880 (same Google report; vendor report, and cap 1 for the theme). Not picked on fit/strength: Verge OpenAI CSAM classifier (company product launch, would be 2nd Verge), Guardian AI-CSAM 8,400% data (research data, no decision), Guardian Wales facial-scan data (extra reporting on the running UK police facial-recognition story, history_match 11-15), Guardian Australian senator (commentary), Register UK datacenter planning share (statistics, weak AI axis). Outlets: Ars, Verge, Register x2, Yonhap. Cross-section: this agent has no shell to exact-grep pipeline/published_urls.json (file too large to scan by Read); orchestrator should exact-grep the 5 picked URLs plus 'San Francisco Declaration', 'remote access', 'California sues OpenAI', '수능 스마트기기', 'industrial scale' across all sections before roll."
+    "note": "Cross-section/brief exclusions: Guardian UK Equity digital-replica deal (published in movies 11-17); Verge Sam Altman Instagram deepfake skipped (Instagram AI-video item reserved for design; weak, no decision). Nvidia/Megaspeed cluster cap 1: kept DOJ primary release, dropped Register (Nvidia board committee - corporate step), Axios Huang testimony dates (follow-up to 11-07 summons, scheduling only), WIRED (analysis). Exam-cheating cap 1: kept etnews PM address; dropped yna AKR20261117103300001 (party plan to draft special law - overlaps the 10-year ban), yna AKR20261117172300001 (bill filings, same cluster), yna AKR20261117175800001 (preview of a party-government meeting). Duplicates/running: Guardian Albanese Pax Silica = the supply-chain pact published 11-17 (Register); POLITICO EU Google automated AI cyberattack dropped on 11-17 in favour of the FBI/AWS card (same theme, vendor report). CSAM cluster c8 (Guardian data, Verge OpenAI classifier) not picked: data/company proposal, no government action. Also not picked on strength: Verge OpenAI auditors (company), Decoder OpenAI Daybreak for NATO (company product), zdnet AI 기본법 보완 (remarks, no decision), zdnet INSS North Korea report (think-tank report). Outlets: POLITICO Europe, DOJ, Axios, 전자신문 x2. This agent has Read/Write only, so the orchestrator should exact-grep pipeline/published_urls.json for the 5 URLs plus 'Megaspeed', 'Data Protection Commission', 'Pingree', '사후조사', '자진신고' across all sections before roll."
   },
   "picks": [
     {
-      "title": "US moves to cut China’s remote access to AI chips",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "source": "Ars Technica",
+      "title": "Irish regulator stops X training AI with data gathered by agents",
+      "url": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/",
+      "source": "POLITICO Europe",
       "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "published_iso": "2026-11-16T19:10:09+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
-      "excerpt": "The Commerce Department says a rule change closes the loophole that let China, Russia and Iran bypass chip export curbs by renting remote access to restricted AI chips in data centers in Indonesia, Malaysia, Singapore, Thailand and Brazil.",
-      "rationale": "The Commerce Department actually issues the export-control rule (remote/cloud access to restricted AI chips via five SE Asian and Latin American hubs), turning the 11-13 reported plan into an official measure - single card for the Ars/Yonhap/디지털투데이 cluster."
+      "published_iso": "2026-11-17T10:54:01+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/17/GettyImages-2297232274-scaled.jpg",
+      "excerpt": "Ireland's Data Protection Commission intervened and X halted training its AI models on personal data collected by AI agents (Grok bot); the regulator cited significant concerns about agent-gathered personal data under GDPR.",
+      "rationale": "A regulator action under GDPR: after Ireland's DPC stepped in, X halted training its AI on personal data collected by AI agents - a concrete privacy-enforcement precedent for agent-gathered training data."
     },
     {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source": "The Verge",
+      "title": "Joint statement from Department of Commerce and Department of Justice on Megaspeed investigation",
+      "url": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
+      "source": "U.S. Department of Justice",
       "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-11-16T20:46:01+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "excerpt": "California sued OpenAI, claiming it knowingly tested a 'dangerous product' without safeguards after its AI agents were linked to the Hugging Face hacking incidents.",
-      "rationale": "A new state lawsuit: California alleges OpenAI knowingly tested a dangerous agent product without safeguards after the Hugging Face incidents - liability litigation over AI agents, attributed to the state's complaint."
+      "published_iso": "2026-11-17T07:39:57-05:00",
+      "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "excerpt": "Commerce and DOJ publicly detail their export-control investigation of Singapore's Megaspeed over suspected diversion of Nvidia AI chips: opened in 2024, Nvidia records requested May 2025, Megaspeed put on Nvidia's no-sell list June 2025; the agencies rebut 'inaccurate' public reporting.",
+      "rationale": "Primary document: Commerce and DOJ jointly set out, for the first time on the record, the timeline of their Megaspeed AI-chip diversion probe - the single card for the Nvidia/Megaspeed cluster (Register, Axios, WIRED dropped)."
     },
     {
-      "title": "US allies deepen deal to guard AI supply chains against 'hostile actors'",
-      "url": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-      "source": "The Register",
+      "title": "Scoop: Democrats probe DOJ's role in OpenAI copyright fight",
+      "url": "https://www.axios.com/2026/11/17/democrats-probe-doj-openai-microsoft-copyright",
+      "source": "Axios",
       "category": "politics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-16T16:15:00.000Z",
-      "og_image": "https://image.theregister.com/5244738.jpg?imageId=5244738&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The US and nine partners (incl. Korea, Japan, UK, India, Australia) signed the 'San Francisco Declaration' pledging to protect AI supply chains, sensitive tech and AI infrastructure from hostile actors.",
-      "rationale": "The US and nine partners including Korea and Japan sign the San Francisco Declaration on protecting AI supply chains and infrastructure - a new multilateral AI-geopolitics agreement (single card for the Register/전자신문 cluster)."
+      "published_iso": "2026-11-17T21:41:25Z",
+      "og_image": null,
+      "excerpt": "House Democrats led by Rep. Chellie Pingree are circulating a letter to AG Todd Blanche questioning why DOJ filed a statement of interest siding with OpenAI and Microsoft in the NYT copyright case without consulting the Copyright Office or USPTO, demanding drafts and any outside input.",
+      "rationale": "Congressional oversight letter on DOJ's statement of interest in the NYT v. OpenAI/Microsoft copyright case - AI copyright litigation meets executive-branch policy; attribute the questions to the House Democrats signing it."
     },
     {
-      "title": "정부, 수능 스마트기기 반납·공공 와이파이 차단 추진(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261116029451001",
-      "source": "연합뉴스",
+      "title": "정부, 글로벌 빅테크와 수능 AI 부정행위 사후조사 추진…입시제한도 10년으로 확대",
+      "url": "https://www.etnews.com/20261117000355",
+      "source": "전자신문",
       "category": "politics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-11-16T14:43:52+09:00",
-      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111119740001300_P4.jpg",
-      "excerpt": "AI(인공지능) 첨단기술을 활용한 부정행위 우려가 커지는 가운데 정부가 오는 19일 대학수학능력시험 시험장에서 스마트기기 반납과 공공 와이파이 차단을 추진한다.",
-      "rationale": "New government measure for the 11-19 CSAT - mandatory smart-device surrender and public Wi-Fi shutdown at test sites to block AI-assisted cheating; the only exam-cheating card today, distinct from the 11-16 licensing-exam audit."
+      "published_iso": "2026-11-17T15:46:45+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/17/news-p.v1.20261117.6f67a4907f174a27a167bbff3f48c0d9_P1.png",
+      "excerpt": "한성숙 총리 대국민 담화: 글로벌 빅테크와 협력해 시험 후 AI 서비스 접속 기록을 분석해 부정행위를 적발하고, 수능 응시자격 제한을 1년에서 10년으로 확대 추진.",
+      "rationale": "New government decision announced in the Prime Minister's address: post-exam audit of AI-service access logs with global big tech and a 1-to-10-year CSAT ban - the only exam-cheating card today, beyond the 11-17 device-surrender/Wi-Fi measure."
     },
     {
-      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-      "source": "The Register",
+      "title": "美 백악관, AI 사고 자진신고 기업에 규제 책임 완화 권고",
+      "url": "https://www.etnews.com/20261116000016",
+      "source": "전자신문",
       "category": "politics",
       "tool": "Politics",
-      "accent": "#ff5a4d",
+      "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-11-16T19:52:00.000Z",
-      "og_image": "https://image.theregister.com/5310250.jpg?imageId=5310250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The FBI and AWS warn attackers are using AI agents to automate cybercrime at 'industrial scale' against critical organisations worldwide.",
-      "rationale": "An official FBI warning (with AWS) that AI agents are automating cybercrime at industrial scale against critical organisations - a government security advisory, preferred over the vendor-only Google threat report under the primary-source rule."
+      "published_iso": "2026-11-16T08:20:07+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.1202ca53a94644a181c2e9d2ad26452b_P1.png",
+      "excerpt": "트럼프 대통령 AI 태스크포스가 12일 회의에서 AI 기업의 중대 사고 자발적 보고를 늘리기 위해 연방기관이 사이버 범죄 책임 정책을 완화하도록 권고했다(블룸버그 보도 인용).",
+      "rationale": "A White House AI task-force recommendation that federal agencies ease liability for AI companies that voluntarily report serious incidents - a US incident-reporting policy shift (attributed to the Bloomberg report the article cites)."
     }
   ]
 }

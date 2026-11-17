@@ -12576,6 +12576,144 @@
           "x": "Anthropicによると、社内ベンチマークRoboDojo SimでFable 5.2のスコアは64.9パーセントで、OpenAIのGPT-6 Astraは29.8パーセントだった。AI研究者Aris Zhuが実際のロボットアームで行ったテストでは、Astraのほうが速く描き、細かな運動制御でも上回った。"
         }
       ]
+    },
+    "design/nevercenter-silo2027-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "G-oQE1gP64U"
+        },
+        {
+          "t": "p",
+          "x": "Nevercenterは、軽量3DモデリングソフトSiloの2027年版リリースを開始した。Silo 2027.0は大型アップデートで、待望の新しいスクリプトエディターに加えMCPサーバーを搭載し、ClaudeやChatGPTなどの外部AIツールでソフトウェアを操作できるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "新しいスクリプティングAPIはPythonではなくJavaScript向けだ。100を超える関数を備えて「手作業でできることのほとんど」をカバーし、プリミティブの生成、メッシュの編集、選択範囲・マテリアル・UVs・カメラの操作を含む。スクリプトはSiloに新たに内蔵されたScript Editorまたは外部エディターで作成でき、メニューコマンドや専用のUIウィンドウから実行できる。"
+        },
+        {
+          "t": "p",
+          "x": "SiloはMCP Serverを統合した最新のCGアプリケーションとなり、新しいJavaScript APIを使ってClaudeやChatGPTなどの外部AIツールからソフトウェアを操作できる。"
+        },
+        {
+          "t": "p",
+          "x": "Silo Blender Bridgeは、サイズの異なる面やエッジループの間、さらに二つの形状の間でも機能するようになった。glTFファイルは「適切な」PBRマテリアルの書き出しに対応し、クリースと埋め込みテクスチャを保持するようになった。デフォルトマテリアルはUSD、FBX、Collada（DAE）ファイルを往復しても維持される。"
+        },
+        {
+          "t": "p",
+          "x": "Silo 2027.0はWindows 10+とmacOS 12.0+に対応する。Siloの永続ライセンスのMSRPは$159で、Miloが含まれる。"
+        }
+      ]
+    },
+    "design/mai-image-27-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "本日、MAI Image 2.7とMAI Image 2.7 Flashを発表する。主要な競合よりはるかに低いコストで、最先端の画像生成と編集を提供する。あわせて、Flashモデルを基盤に画像の作成・編集・調整を行える新しいインタラクティブなワークスペース、Canvasも提供を開始する。"
+        },
+        {
+          "t": "p",
+          "x": "MAI Image 2.7はArtificial Analysisの画像編集部門で1位を獲得し、GPT Image 2.6 Sunburst (max)を五分の一のコストで上回った。2026年11月16日時点で、5,478票に基づき1,215 Eloを記録している。Microsoft Foundryでパブリックプレビューとして提供され、価格はMAI Image 2.7が画像1,000枚あたり約$35、Flashが1,000枚あたり約$10だ。"
+        },
+        {
+          "t": "p",
+          "x": "画像のほかの部分を崩さずに、物体の色、素材、位置を変更できる。MAI Image 2.7は連続した編集でも視覚的な一貫性を保つ。両モデルとも透明背景に対応し、そのまま使える製品画像、ロゴ、アイコン、イラストを作成できる。"
+        },
+        {
+          "t": "p",
+          "x": "MAI LabsのCanvasでは、プロンプトやスケッチから始めて大まかなアイデアを洗練された図に仕上げ、画像の任意の部分を選んで置き換え、移動、スタイル変更ができる。MAI Imageは現在Bing Image Creatorを支えるデフォルトのモデルファミリーであり、Figma Weave、Minute (Sports Illustrated)、Wirestock、Manusも同モデルを活用している。両モデルはMicrosoft Foundryのほか、fal、Genspark、OpenRouter、Vercelなどのパートナー経由で利用できる。"
+        }
+      ]
+    },
+    "design/instagram-content-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+          "cap": "画像提供：Jonathan Raa/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta傘下のInstagramは火曜日、クリエイターが原本の動画を守るための新ツールを導入すると発表した。「コンテンツ保護（content protection）」と呼ばれるこの機能はすでにFacebookで提供されており、クリエイターの原本動画が許可なく使われていることを検出するよう設計されている。同社はこのツールを、従来型の転載だけでなくAIコンテンツにも対応するよう拡張する。"
+        },
+        {
+          "t": "p",
+          "x": "このツールは、クリエイターの保護対象動画が無断で使われていないかInstagram上を継続的にスキャンする。他のユーザーがアップロードした動画がクリエイターのReelsと一致すると、クリエイターに通知を送る。クリエイターはInstagramとFacebookの両方で動画をブロックする、原本にリンクする「original by」ラベルを付ける、パフォーマンスを見ながら一致した動画を公開したままにする、権利の主張を取り下げる、のいずれかを選べる。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+          "cap": "画像提供：Instagram"
+        },
+        {
+          "t": "p",
+          "x": "このツールは、映像が改変されていても、クリエイターの原本コンテンツの音声を再利用したAI生成（AI-generated）動画の検出も始める。このアップデートは今後数週間のうちに、まず少数のクリエイターを対象にテストされる。Instagramは、AIツールを使って他人の作品を繰り返し転載するアカウントやコンテンツのリーチを制限する方法を検討しているという。"
+        },
+        {
+          "t": "p",
+          "x": "対象となるクリエイターが登録すると、以後Instagramに投稿するすべての原本動画が自動的に保護され、対象となる過去の動画にもさかのぼって保護を適用できる。セカンドプロフィールやブランドなど、本人が許可したプロフィールは許可リストに追加できる。"
+        }
+      ]
+    },
+    "design/tripo-polipop-h35": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AIは、FrankfurtのFormnext 2026で、Hシリーズの次期3DネイティブファウンデーションモデルH3.5を初公開し、積層造形向けの人工知能エージェントPolipopを発表した。会期中の記者会見では新モデルで生成した3Dプリント作品を展示し、両製品をAI生成（AI-generated）コンテンツと3Dプリンターをつなぐ存在として紹介した。"
+        },
+        {
+          "t": "p",
+          "x": "H3.5は前身のH3.1から大幅に進化し、細部の再現と視覚的な正確さの維持で大きく前進した。編集をほとんど必要としない、印刷可能な3Dコンテンツも生成する。同社は現行のH-seriesモデルが、わずか数分でアイデアを3Dプリント物に変える様子も実演した。"
+        },
+        {
+          "t": "p",
+          "x": "Tripoはステージ上で、ユーザーのアイデアをカスタム3Dプリント品に変えるエージェントとしてPolipopも紹介した。アイデアを与えると、エージェントが3Dモデリングと印刷準備を担い、完成したジョブを3Dプリンターに送る。"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AIのResearch LeadであるYuan-Chen Guo氏は「近く登場するH3.5 3Dネイティブモデルは生成3D技術の新たな節目であり、印刷可能な生成3Dコンテンツを3Dプリンターへ直接届ける。また、3Dプリント向けに特別に開発したAIエージェントPolipopは、人々のアイデアを3Dプリント物へと形にする手助けをする」と述べた。来場者はHall 12.1のBooth B01で、H-seriesモデル、Tripo Studio、Polipopを試すことができる。"
+        }
+      ]
+    },
+    "design/claude-canvas-html": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+        },
+        {
+          "t": "p",
+          "x": "Claudeは、複雑なグラフィックや3D エフェクトの中に、テキストやボタンなどのウェブ要素を埋め込めるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "ウェブページは常にトレードオフを抱えてきた。標準のHTML要素はクリックや選択ができ、スクリーンリーダーでも読み取れるが、見た目を変形させるのは難しい。Canvasなら何でも描けるが、ブラウザはそれを平面の画像として扱う。中のテキストを選択したり、リンクをクリックしたりはできない。HTML-in-Canvasは、実際のページ要素をキャンバスのグラフィック内に配置しつつ、完全に操作できる状態を保つことで、これを変える。"
+        },
+        {
+          "t": "p",
+          "x": "Felix RiesebergはAnthropicでClaudeに携わっている。彼はXで、この機能によってClaudeが「bizarre & beautiful sites」(奇妙で美しいサイト)を作れるようになったと書き、Flash時代を思い出すと付け加えた。デモページには、編み物の図案、3D キューブ、分解したレイヤー表示としてレンダリングしたウェブサイトなど、15の例が並ぶ。コンテンツは選択してコピーできる本物のテキストのままだ。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、操作性とアクセシビリティを両立するウェブ標準としてHTML-in-Canvasを開発している。この機能はChromeとEdgeではバージョン157から、Claudeのデスクトップアプリではバージョン5.11492から動作する。SafariとFirefoxはまだ対応していない。利用者はプロンプトでClaudeにHTML-in-Canvasを明示的に指示する必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "Claudeは視覚的なタスクでますます創造性を発揮している。最近ではClaude Fable 5.2が、自ら書いたPythonコードで写実的な絵を一筆ずつ描いた。"
+        }
+      ]
     }
   }
 }

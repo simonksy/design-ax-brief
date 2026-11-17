@@ -4681,6 +4681,121 @@
           "x": "The company also pointed to first-instance rulings in related unjust-enrichment lawsuits, in which the Osan City Court and the Ulsan District Court dismissed the plaintiffs' claims, and asked the Ministry of Health and Welfare to revise the usage method in the notice to match the Ministry of Food and Drug Safety approval. VitalCare went through a deferral period for new health technology assessment and is now undergoing the main assessment."
         }
       ]
+    },
+    "medicine/med-jama-llm-discharge-summaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hospital discharge summaries are essential for continuity of care, but fragmented electronic health record (EHR) data can compromise their quality and safety. In this retrospective comparative effectiveness study using a prespecified noninferiority framework, admission records from 5 London hospitals (September 1, 2022, to September 30, 2023) were evaluated against the full admission record by practicing physicians."
+        },
+        {
+          "t": "p",
+          "x": "LLM-generated summaries were produced using GPT-4o mini (July 18, 2024 release; OpenAI) and a clinician-codesigned prompt. The primary outcome was clinician signoff with no or minor edits, with a 5–percentage-point noninferiority margin."
+        },
+        {
+          "t": "p",
+          "x": "The sample included 1294 (649 clinician-authored and 645 LLM-generated) discharge summaries evaluated by 12 practicing physicians. The difference in probability of signoff with no or minor edits (LLM generated minus clinician authored) was 22.2 percentage points (95% CI, 19.0-27.5), demonstrating noninferiority. LLM-generated summaries received higher ratings for accuracy, completeness, tone, and clarity, and a lower proportion were rated 3 or greater for potential harm (26.2% and 26.8% vs 45.1% and 51.5%)."
+        },
+        {
+          "t": "p",
+          "x": "LLM-generated discharge summaries met the current standard of care, representing a promising early use case for generative artificial intelligence in health care with close clinician oversight."
+        }
+      ]
+    },
+    "medicine/med-retina-pe-preeclampsia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
+          "cap": "Graphical abstract"
+        },
+        {
+          "t": "p",
+          "x": "Preeclampsia (PE) causes maternal and perinatal morbidity and mortality, yet noninvasive screening remains limited. We developed Retina-PE, a multimodal deep learning model integrating retinal photographs, maternal clinical factors, and mean arterial pressure to predict subsequent PE. Prospectively collected multicenter data from 8616 pregnant individuals were used for retrospective model development and evaluation."
+        },
+        {
+          "t": "p",
+          "x": "Development-dataset image-level areas under the receiver operating characteristic curve (AUCs) were 0.853 and 0.708 for PE occurrence at 24–28 and 28–32 weeks, 0.871 and 0.791 for 1- and 4-week preterm PE, and 0.979 and 0.862 for 1- and 4-week early-onset PE. Corresponding external-validation-dataset AUCs were 0.728 and 0.815, 0.801 and 0.801, and 0.776 and 0.766."
+        },
+        {
+          "t": "p",
+          "x": "Incremental performance was task-specific. Patient-level analyses showed similar patterns but included few events in some tasks. These findings support prospective evaluation of retinal imaging for maternal risk stratification."
+        }
+      ]
+    },
+    "medicine/med-hopkins-sumi-pcct-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sunday, November 29 | 9:00 a.m.- 10:00 a.m. | S1-SSCH01-4 | Room E451A"
+        },
+        {
+          "t": "p",
+          "x": "A deep-learning model called SUMI shows promise for \"distilling [photon-counting CT] PCCT image-quality advantages into routine chest CT.\""
+        },
+        {
+          "t": "p",
+          "x": "Photon-counting CT (PCCT) offers higher spatial resolution and lower noise than conventional energy-integrating CT (EICT), but PCCT scanners aren't necessarily available for routine use, presenter Chuntung Zhuang of Johns Hopkins University in Baltimore and colleagues noted. To address the problem, the group crafted an AI model that incorporates PCCT image quality into routine CT imaging without paired acquisitions -- which could increase patient access to PCCT-like image quality without installing new hardware."
+        },
+        {
+          "t": "p",
+          "x": "Zhuang's team first trained a continual autoencoder (i.e., an unsupervised artificial neural network) on 1,046 PCCT scans plus 405,379 EICT scans from 145 hospitals; it then trained SUMI using the 1,046 PCCT scans classified into four standard categories of image quality loss (sparse-view, low-dose, conventional, and mixed degradations)."
+        },
+        {
+          "t": "p",
+          "x": "Attend this session to find out how SUMI performed when it came to peak signal-to-noise ratio structural similarity index measure and how its use could improve the quality of chest CT."
+        }
+      ]
+    },
+    "medicine/med-who-ihf-ai-committee": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The World Health Organization (WHO) and the International Hospital Federation (IHF) have agreed to establish a joint steering committee to advance cooperation on AI in healthcare, including standards for AI adoption and training for healthcare professionals."
+        },
+        {
+          "t": "p",
+          "x": "The agreement came during a meeting between WHO Director-General Tedros Adhanom Ghebreyesus and IHF President-Designate Lee Wang-jun at WHO headquarters in Geneva on Monday."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.koreabiomed.com/news/photo/202611/33877_37060_1452.jpg",
+          "cap": "WHO Director-General Tedros Adhanom Ghebreyesus (left) and IHF President-Designate Lee Wang-jun at WHO headquarters in Geneva on Monday. (Courtesy of IHF)"
+        },
+        {
+          "t": "p",
+          "x": "Lee met with Tedros to discuss follow-up measures to the Seoul Declaration on AI in Healthcare, adopted during the 49th IHF World Hospital Congress in Seoul last month. The IHF presented its vision and roadmap for the proposed Global AI Healthcare Leadership Center."
+        },
+        {
+          "t": "p",
+          "x": "WHO proposed three areas of cooperation: capacity building for healthcare professionals, developing standard benchmarks and evaluation frameworks to assess AI before and after adoption, and co-hosting a joint summit forum. The two organizations agreed to establish a high-level joint steering committee to coordinate these initiatives, with another meeting planned before the end of the year."
+        }
+      ]
+    },
+    "medicine/apple-openevidence-trust-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lrWpKyDPoRNfWujsemRGW0NePogYS2NDb_nRgu67jLU/g:nowe:78:428/c:1356:766/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp",
+          "cap": "Apple and OpenEvidence announce a conversational AI study and associated app at the HLTH conference in Las Vegas, Nevada, on Nov. 15, 2026."
+        },
+        {
+          "t": "p",
+          "x": "Apple is launching a virtual research study — and an associated app — to understand how people interact with conversational health AI, the company announced Sunday at the HLTH conference in Las Vegas. Conducted with clinical AI platform OpenEvidence, it will examine what drives consumer trust, the quality of health AI responses and whether conversational AI can drive behavior change, said Dr. Sumbul Desai, Apple’s vice president of Health and Fitness."
+        },
+        {
+          "t": "p",
+          "x": "The study is open to up to 200,000 eligible participants age 21 and older across the U.S. Users ask health questions in the app and can share data such as resting heart rate, activity, sleep or lab results to personalize interactions. Study data will not be used to train AI models, and sharing personal data is opt-in."
+        },
+        {
+          "t": "p",
+          "x": "“We’re studying what builds user trust, how people comprehend responses, the quality of responses, and we wanted to work with a clinically grounded partner, and that is OpenEvidence,” Desai said. OpenEvidence CEO Daniel Nadler said physician visits are often just 10 or 15 minutes, and the app could help bridge that divide."
+        },
+        {
+          "t": "p",
+          "x": "Apple said the app will detect worrying questions and direct a consumer to an outside provider or other resources if needed. Roughly one-third of U.S. adults have used an AI chatbot to talk about their health, according to KFF."
+        }
+      ]
     }
   }
 }

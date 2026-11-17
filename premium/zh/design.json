@@ -12190,6 +12190,144 @@
           "x": "Anthropic称，Fable 5.2在其内部RoboDojo Sim基准测试中得分64.9%，OpenAI的GPT-6 Astra为29.8%。在AI研究者Aris Zhu进行的真实机械臂测试中，Astra画得更快，精细动作控制也更好。"
         }
       ]
+    },
+    "design/nevercenter-silo2027-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "G-oQE1gP64U"
+        },
+        {
+          "t": "p",
+          "x": "Nevercenter已开始发布其轻量级3D建模软件Silo的2027版本。Silo 2027.0是一次重要更新，新增了期待已久的脚本编辑器以及MCP服务器，可通过Claude和ChatGPT等外部AI工具控制该软件。"
+        },
+        {
+          "t": "p",
+          "x": "新的脚本API基于JavaScript而非Python，包含100多个函数，涵盖“手动能完成的大部分操作”，包括生成基本体、修改网格，以及处理选区、材质、UVs和相机。脚本可在Silo新内置的Script Editor或外部编辑器中编写，并通过菜单命令或独立的UI窗口运行。"
+        },
+        {
+          "t": "p",
+          "x": "Silo也成为最新集成MCP Server的CG应用，可借助新的JavaScript API，通过Claude或ChatGPT等外部AI工具控制该软件。"
+        },
+        {
+          "t": "p",
+          "x": "Silo Blender Bridge现在可在不同大小的面或边循环之间以及两个形状之间使用。glTF文件获得“真正的”PBR材质导出，并能保留折痕和嵌入纹理；默认材质可在USD、FBX和Collada（DAE）文件之间往返保持不变。"
+        },
+        {
+          "t": "p",
+          "x": "Silo 2027.0兼容Windows 10+和macOS 12.0+。Silo永久许可证的MSRP为$159，并包含Milo。"
+        }
+      ]
+    },
+    "design/mai-image-27-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://microsoft.ai/wp-content/uploads/2026/11/Image-2.7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "今天我们推出MAI Image 2.7和MAI Image 2.7 Flash，以远低于主要竞争对手的成本提供前沿的图像生成与编辑能力。我们还推出了Canvas，这是一个由Flash模型驱动的全新交互式工作区，可用于创建、编辑和完善图像。"
+        },
+        {
+          "t": "p",
+          "x": "MAI Image 2.7在Artificial Analysis图像编辑榜上位列第1，以仅五分之一的成本超越GPT Image 2.6 Sunburst (max)。截至2026年11月16日，它在5,478票中获得1,215 Elo。MAI Image 2.7已在Microsoft Foundry上公开预览，每1,000张图像约$35，Flash每1,000张图像约$10。"
+        },
+        {
+          "t": "p",
+          "x": "可更改物体的颜色、材质或位置，而不影响图像的其余部分。MAI Image 2.7在连续编辑中保持视觉一致性。两款模型均支持透明背景，可直接生成可用的产品图、标志、图标和插画。"
+        },
+        {
+          "t": "p",
+          "x": "MAI Labs中的Canvas可让你从提示词或草图开始，将粗略想法变成精致的图表，再选中图像的任意部分进行替换、移动或重新设计风格。MAI Image现已成为驱动Bing Image Creator的默认模型系列，Figma Weave、Minute (Sports Illustrated)、Wirestock和Manus也在使用它。两款模型均可通过Microsoft Foundry以及fal、Genspark、OpenRouter和Vercel等合作伙伴获取。"
+        }
+      ]
+    },
+    "design/instagram-content-protection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?w=1024",
+          "cap": "图片来源：Jonathan Raa/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta旗下的Instagram周二宣布，将推出一款帮助创作者保护原创视频的新工具。这项名为“内容保护”（content protection）的功能已在Facebook上线，旨在检测创作者的原创视频何时在未经许可的情况下被使用。该公司还在扩展这一工具，使其不仅应对传统转发，也能应对AI内容。"
+        },
+        {
+          "t": "p",
+          "x": "该工具会持续扫描Instagram，查找对创作者受保护视频的未经授权使用。当检测到其他用户上传的内容与创作者的某条Reels匹配时，会向创作者发送提醒。创作者可以在Instagram和Facebook上同时屏蔽该视频，添加链接回原作的“original by”标签，在监测其表现的同时保留该匹配内容，或放弃其主张。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/9-d.png?w=680",
+          "cap": "图片来源：Instagram"
+        },
+        {
+          "t": "p",
+          "x": "该工具还将开始检测重复使用创作者原创内容音频的AI生成（AI-generated）视频，即使画面已被修改。此次更新将在未来几周内先面向一小部分创作者进行测试。Instagram表示，正在探索如何限制反复使用AI工具转发他人作品的账号和内容的触达范围。"
+        },
+        {
+          "t": "p",
+          "x": "符合条件的创作者加入后，今后发布到Instagram的每条原创视频都会自动受到保护，也可以追溯保护符合条件的旧视频。经其许可的主页（例如第二个主页或品牌主页）可加入白名单。"
+        }
+      ]
+    },
+    "design/tripo-polipop-h35": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-studio-780x470.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI在Frankfurt举行的Formnext 2026上首次展示了H系列即将推出的3D原生基础模型H3.5，并推出了专为增材制造打造的人工智能智能体Polipop。在展会的新闻发布会上，该公司展示了由新模型生成的3D打印作品，并将这两款产品定位为连接AI生成（AI-generated）内容与3D打印机的桥梁。"
+        },
+        {
+          "t": "p",
+          "x": "H3.5相较前代H3.1是一次重大升级，在捕捉精细细节和保持视觉准确性方面迈出了重要一步。该模型还能生成几乎无需编辑、可直接打印的3D内容。该公司还演示了其现有H-series模型如何在短短几分钟内将创意变成3D打印物体。"
+        },
+        {
+          "t": "p",
+          "x": "Tripo还在台上介绍了Polipop——一款将用户创意转化为定制3D打印物品的智能体。只需给出创意，该智能体便会完成3D建模和打印准备，再将完成的任务发送到3D打印机。"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI研究负责人（Research Lead）Yuan-Chen Guo表示：“我们即将推出的H3.5 3D原生模型代表了生成式3D技术的新里程碑，可将可打印的生成3D内容直接送到3D打印机；而专为3D打印开发的AI智能体Polipop，则帮助人们把创意塑造成3D打印物体。”观众可在Hall 12.1的Booth B01试用H-series模型、Tripo Studio和Polipop。"
+        }
+      ]
+    },
+    "design/claude-canvas-html": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude 现在可以把文本、按钮和其他网页元素嵌入复杂的图形和 3D 效果之中。"
+        },
+        {
+          "t": "p",
+          "x": "网页一直面临一种取舍。标准 HTML 元素可以点击、选择，也能被屏幕阅读器读取，但很难在视觉上扭曲变形。Canvas 能让你画出任何东西，但浏览器把它当作一张扁平图片，你无法选中其中的文字，也无法点击其中的链接。HTML-in-Canvas 把真实的页面元素放进画布图形，同时保持完全可交互，从而改变了这一点。"
+        },
+        {
+          "t": "p",
+          "x": "Felix Rieseberg 在 Anthropic 从事 Claude 相关工作。他在 X 上写道，借助这项功能，Claude 现在能做出“bizarre & beautiful sites”（怪诞而美丽的网站），并说这让他想起 Flash 时代。一个演示页面展示了 15 个示例，包括渲染成编织图样、3D 立方体或分层爆炸视图的网站。内容仍是可以高亮和复制的真实文本。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google 正在把 HTML-in-Canvas 发展为一项同时保留交互性与无障碍性的网页标准。该功能在 Chrome 和 Edge 中从 157 版起可用，在 Claude 桌面应用中从 5.11492 版起可用。Safari 和 Firefox 尚不支持。用户需要在提示词中明确要求 Claude 使用 HTML-in-Canvas。"
+        },
+        {
+          "t": "p",
+          "x": "Claude 在视觉任务上越来越有创意。最近，Claude Fable 5.2 用自己编写的 Python 代码，一笔一笔画出了照片级写实的作品。"
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,6 @@
-{
- "date": "2026-11-17",
- "section": "movies",
- "media": [
-  {
-   "id": "equity-pact-ai-offer",
-   "type": "image",
-   "src": "pipeline/media/equity-pact-ai-offer.jpg"
-  },
-  {
-   "id": "cnc-ai-dubbing-funding",
-   "type": "image",
-   "src": "pipeline/media/cnc-ai-dubbing-funding.png"
-  },
-  {
-   "id": "hpa-net-ai-second-unit",
-   "type": "image",
-   "src": "pipeline/media/hpa-net-ai-second-unit.jpg"
-  },
-  {
-   "id": "resolve-ai-assistant-editing",
-   "type": "image",
-   "src": "pipeline/media/resolve-ai-assistant-editing.jpg"
-  },
-  {
-   "id": "kyungmin-jonah-ai-animation",
-   "type": "image",
-   "src": "pipeline/media/kyungmin-jonah-ai-animation.png"
-  }
- ]
-}
+{"date":"2026-11-18","section":"movies","media":[
+{"id":"movies-runway-mcp-claude-film","type":"video","src":"pipeline/media/movies-runway-mcp-claude-film.mp4","poster":"pipeline/media/movies-runway-mcp-claude-film.jpg"},
+{"id":"movies-ayer-acme-greybox","type":"image","src":"pipeline/media/movies-ayer-acme-greybox.jpg"},
+{"id":"movies-adobe-live-set-sneak","type":"image","src":"pipeline/media/movies-adobe-live-set-sneak.png"},
+{"id":"movies-kocca-ai-showcase-64","type":"image","src":"pipeline/media/movies-kocca-ai-showcase-64.png"},
+{"id":"movies-transn-ai-microdrama-dub","type":"image","src":"pipeline/media/movies-transn-ai-microdrama-dub.png"}]}

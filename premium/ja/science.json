@@ -11908,6 +11908,111 @@
           "x": "外部の科学者や開発者は本日から、AntigravityとDeep Reviewで/teamworkや/boostとともにGemini 4モデルを利用できる。また、学術研究者10,000人に最上位の利用枠を六か月間無料で提供する募集も始まっている。"
         }
       ]
+    },
+    "science/empa-optimat-alloys-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/2026/a-virtual-materials-sc.jpg",
+          "cap": "計算による合金探索に応用したビッグデータの四つの Vs。Credit: arXiv (2026). DOI: 10.48550/arxiv.2604.21850"
+        },
+        {
+          "t": "p",
+          "x": "Thun にある Empa の研究チームは、複雑な計算材料科学ツールを簡単なテキストチャットで操作できる AI フレームワークを開発した。科学的知見に裏打ちされ、ユーザー自身のコンピューター上で必要に応じて計算を行う、いわば材料版の ChatGPT だ。成果は npj Computational Materials に掲載された。"
+        },
+        {
+          "t": "video",
+          "yt": "lQzuorkzPMc"
+        },
+        {
+          "t": "p",
+          "x": "高エントロピー合金(high-entropy alloys)は四種類以上の金属をほぼ等しい割合で混ぜるため、組み合わせの数は極めて多い。Empa の Yang Hu と Vladyslav Turlo は OptiMat Chat プラットフォームを共同開発した。その最初の仮想科学者である OptiMat Alloys は、分野別のツールを選び、あらかじめ定義されたワークフローを実行し、結果を論文形式の図・表・文章にまとめて専門家のレビューに供する。"
+        },
+        {
+          "t": "p",
+          "x": "研究者はコードを書く必要も設定を調整する必要もない。ハルシネーションを減らすため、エージェントは構造化されたツール呼び出し、定義済みワークフロー、保存された計算記録を用い、結果は追跡と再利用のためにデータベースに保管される。Turlo は、これらのデータは単独で発表できる結果ではなく、専門家が解釈するための出発点だと注意を促す。セラミックス、金属酸化物、アモルファス材料向けのエージェントも計画されている。"
+        }
+      ]
+    },
+    "science/vtech-vibration-rock-depth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg",
+          "cap": "火星(Mars)の地下層を示す断面の想像図。Credit: ESA/Medialab"
+        },
+        {
+          "t": "p",
+          "x": "Virginia Tech のチームは、地表の振動を測定して地下に何があり、構造物がどの深さまで延びているかを判定する AI-powered のツールを開発した。ロボット探査ミッションがこうした判断を自律的に下せるようにするためだ。研究は Ph.D. 候補生の Yiyan Ruan と、NASA の Langley Research Center の元研究者である助教授 Erik Komendera が主導し、IEEE Sensors Journal に掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "部分的に埋まった岩の埋没深さを推定することは、エネルギーが限られたロボットによる掘削の鍵となる。障害物を取り除くべきか避けるべきかを判断する必要があるからだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/Bird_s-eye_view_of_Coloe_Fossae_20251120_211652.jpg",
+          "cap": "ESA の Mars Express に搭載された High Resolution Stereo Camera の数値地形モデルと、直下視(nadir)およびカラーチャンネルから生成した画像。Credit: ESA/DLR/FU Berlin"
+        },
+        {
+          "t": "p",
+          "x": "チームはコンクリートブロック18個を砂の中のさまざまな深さに埋め、計測用ハンマーで叩いて Laser Doppler Vibrometer で振動を測定した。Multilayer Perceptron が11の特徴量を埋没深さに対応づけた。「隠れ層が二つだけの小型ニューラルネットワークで、信頼できるデータを得ることができた」と Ruan は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルはミッションでの岩や水の氷の掘削に役立つ可能性があり、地球上では建設現場や被災地の分析にも役立ちうる。"
+        }
+      ]
+    },
+    "science/science-euclid-strong-lens-q1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg",
+          "cap": "M81 の円盤と Holmberg IX 矮小銀河(Disk of M81, feat. Holmberg IX dwarf)。Credit: ESA/Euclid/Euclid Consortium/NASA、画像処理: J.-C. Cuillandre、E. Bertin CC BY-SA 3.0 IGO"
+        },
+        {
+          "t": "p",
+          "x": "UBC の研究者らが、強い重力レンズの候補15,000個の新発見に貢献した。天文学者が暗黒物質を調べるのに役立つこの宇宙の道具としては、過去最大のコレクションとなる。ESA の Euclid 宇宙望遠鏡による初の大規模データ公開は170万ギガバイトに及び、夜空のほぼ5%の範囲で9億個を超える銀河と6,000万個のクエーサーを明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "「Euclid 以前、確認済みの強い重力レンズは1,000個に満たなかった。今では新たな候補が15,000個ある」と、共著者で UBC 博士課程の学生 Hrishabh Srivastava は語った。"
+        },
+        {
+          "t": "p",
+          "x": "四段階の探索では、まず機械学習で膨大なデータからレンズらしい天体を洗い出す。次に、数千人の市民科学者が AI-sorted のデータを丹念に調べ、候補をさらに絞り込む。三つ目に、Srivastava ら専門家が市民科学者の作業を確認し、一人あたり約6,000〜10,000個の銀河を見る。最後に、他の望遠鏡による追観測データで候補を検証する。"
+        },
+        {
+          "t": "p",
+          "x": "Srivastava は、検証なしで強い重力レンズを識別できるほど強力な機械学習モデルの構築も目指している。今回の公開データは、Astronomy & Astrophysics に投稿された26本の論文で報告されている。"
+        }
+      ]
+    },
+    "science/psypost-ai-grant-novelty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "連邦の研究助成申請書の作成に生成人工知能を使う科学者は、最近採択されたプロジェクトにより近い研究テーマを提案する傾向がある。PNASに掲載された新たな研究が明らかにした。米国立衛生研究所(National Institutes of Health)では、AIによる執筆の痕跡が濃い申請ほど採択されやすく、AIの痕跡が多い採択課題はその後の一、二年で論文数がやや多かった。ただし増えたのは高被引用の画期的成果ではなく、定型的な研究だった。"
+        },
+        {
+          "t": "p",
+          "x": "ノースウェスタン大学(Northwestern University)のYifan Qianらは、U.S.の大規模研究大学二校から出たNSF申請1,600件とNIH申請4,100件に加え、NSFの採択課題57,000件とNIHの採択課題74,000件を分析した。開始日は2021年から2025年である。推定されたAIの関与は2022年後半までは横ばいで、2023年から急増した。"
+        },
+        {
+          "t": "p",
+          "x": "AIの関与が大きいほど、独自性は一貫して低かった。関与が25パーセンタイルから75パーセンタイルに移ると、NSFの課題では独自性が約5パーセンタイルポイント、NIHの課題では約4ポイント下がった。NIHでは同じ変化が、採択確率の約4パーセントポイント上昇と論文数の約5パーセント増加に対応した。NSFではどちらの関連も統計的に有意ではなかった。"
+        },
+        {
+          "t": "p",
+          "x": "この研究は観察研究であり、AIツールがより無難なテーマ選びやNIHでの高い採択確率を直接もたらすとは立証できない。"
+        }
+      ]
     }
   }
 }

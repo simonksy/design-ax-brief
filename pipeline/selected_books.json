@@ -1,129 +1,106 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "section": "books",
-  "picks": [
+  "items": [
     {
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "source": "TechCrunch",
+      "rank": 1,
       "tool": "Books",
+      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "published_iso": "2026-11-16T15:52:19+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
-      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "rationale": "New product release: Audible's AI 'Audio Discovery' previews change how listeners find audiobooks, and how authors' books get pitched to them."
+      "title": "Important Anthropic Settlement Update: Check Your Claim by Friday, November 20",
+      "url": "https://authorsguild.org/news/anthropic-settlement-update-check-your-claim-by-november-20/",
+      "source": "The Authors Guild",
+      "published_iso": "2026-11-16T20:46:34Z",
+      "og_image": "https://authorsguild.org/app/uploads/2026/11/Anthropic-Check-Your-Claim-Rectangle-1.jpg",
+      "excerpt": "First payments from the Bartz v. Anthropic settlement are expected the week of November 23; they will be about 70 percent of what each author is owed, and claimants must check their claims by November 20.",
+      "rationale": "Most actionable item in the pool: a hard Nov 20 deadline and the first payout date and size for authors in the $1.5B settlement, straight from the Authors Guild."
     },
     {
-      "title": "How I've Used AI to Improve My Writing Business",
-      "url": "https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/",
-      "source": "Jane Friedman",
+      "rank": 2,
       "tool": "Books",
+      "category": "books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "published_iso": "2026-11-16T10:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/11/friedman_ai_improve_business-social.png",
-      "excerpt": "Most discussion of AI in the writing and publishing community has focused on its harms. Jane Friedman details how she has put AI to work in her publishing-industry business.",
-      "rationale": "The most practical item in the pool: a respected publishing-industry voice lays out the concrete AI uses she relies on in her own writing business."
+      "title": "AI firms turning books into toilet paper, committee told",
+      "url": "https://www.rte.ie/news/politics/2026/1117/1599562-ai-books-committee/",
+      "source": "RTE",
+      "published_iso": "2026-11-17T16:01:04Z",
+      "og_image": "https://www.rte.ie/images/00255b71-1600.jpg",
+      "excerpt": "An Oireachtas committee heard AI companies are buying and destroying physical books to scan them for training data, as Irish writers press for copyright protections.",
+      "rationale": "The bulk-buying of books for AI scanning reaches a national parliament: Irish writers testify before an Oireachtas committee and ask for copyright protections."
     },
     {
-      "title": "Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/",
-      "source": "The Scholarly Kitchen",
+      "rank": 3,
       "tool": "Books",
+      "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "published_iso": "2026-11-16T10:30:27+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-877002088.jpg",
-      "excerpt": "New usage metrics are needed as AI assistants intermediate between researchers and publisher content. What should count, and what can those numbers say about the value of research?",
-      "rationale": "New argument: download counts stop working once AI assistants sit between researchers and content. This matters for publisher licensing and library renewals."
+      "title": "투고가 쏟아진다…출판계도 AI 원고에 골머리",
+      "url": "https://www.ajunews.com/view/20261116102705654",
+      "source": "아주경제",
+      "published_iso": "2026-11-16T15:34:10+09:00",
+      "og_image": "https://image.ajunews.com/content/image/2026/11/16/20261116152449293244.jpg",
+      "excerpt": "출판사 원고 투고가 작년 대비 40% 넘게 늘었고, 특히 에세이 분야에서 AI로 쓴 것으로 보이는 원고가 급증해 출판계가 검토 부담을 호소하고 있다.",
+      "rationale": "New Korean data: manuscript submissions are up more than 40% year on year, driven by apparently AI-written essays, and editors are struggling with the review load."
     },
     {
-      "title": "From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
-      "source": "The Scholarly Kitchen",
+      "rank": 4,
       "tool": "Books",
+      "category": "books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "title": "How 'I love You' becomes 'The moon is beautiful, isn't it?': The Craft of Translation and the limits of AI",
+      "url": "https://www.tcj.com/how-i-love-you-becomes-the-moon-is-beautiful-isnt-it-the-craft-of-translation-and-the-limits-of-ai/",
+      "source": "The Comics Journal",
+      "published_iso": "2026-11-16T15:03:00Z",
+      "og_image": "https://the-comics-journal.sfo3.digitaloceanspaces.com/wp-content/uploads/2026/11/Nekojiru_spread_4_website-copy.jpg",
+      "excerpt": "Manga translators and many U.S. publishers reject AI translation for missing nuance and visual context, while some Japanese companies push AI-assisted localization to speed releases.",
+      "rationale": "Adds comics and translation to the mix: practitioners explain where AI manga localization fails, set against Japanese publishers pushing for speed."
+    },
+    {
+      "rank": 5,
+      "tool": "Books",
+      "category": "books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "published_iso": "2026-11-04T10:30:11+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/venn.jpg",
-      "excerpt": "How a publisher can make AI useful across the organization while keeping control of confidential information, editorial decisions and accountability.",
-      "rationale": "Actionable operating guide for publishers rolling out governed internal AI (confidentiality, editorial control, accountability). It is distinct from the 10-14 'moving faster than the evidence' post."
+      "title": "\"AI가 사용하는 콘텐츠, 함께 비용 받아내자\"…美 3000여 권리자 결속",
+      "url": "https://www.hankyung.com/article/202611169483i",
+      "source": "한국경제",
+      "published_iso": "2026-11-16T16:23:32+09:00",
+      "og_image": "https://img.hankyung.com/photo/202611/01.46441396.1.png",
+      "excerpt": "미국 권리자 3000여 곳이 AI 콘텐츠 이용료 공동 징수에 나서 야후 스카웃과 첫 유료 계약을 맺었고, 한국 출판계도 AI 데이터 기업 5곳과 협약했다.",
+      "rationale": "Collective licensing in practice: about 3,000 U.S. rights holders sign their first paid AI-usage deal (Yahoo Scout), and Korean publishers sign data deals."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/": {
+      "https://authorsguild.org/news/anthropic-settlement-update-check-your-claim-by-november-20/": {
+        "verdict": "follow-up",
+        "nearest": "https://publishingperspectives.com/2026/10/in-letter-to-the-court-textbook-authors-complain-of-unfair-process-splits-in-anthropic-settlement/",
+        "new_action": "Official update on the Bartz v. Anthropic settlement: first payments scheduled for the week of Nov 23 at about 70% of each author's share, with a Nov 20 deadline to check claims (earlier cards covered claim notices, payout delay and objections)."
+      },
+      "https://www.rte.ie/news/politics/2026/1117/1599562-ai-books-committee/": {
         "verdict": "new",
-        "nearest": "https://www.tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick",
+        "nearest": "https://www.techtimes.co.uk/uk-irish-booksellers-mystery-ai-book-orders-1809765",
         "new_action": ""
       },
-      "https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/": {
+      "https://www.ajunews.com/view/20261116102705654": {
         "verdict": "new",
-        "nearest": "https://selfpublishingadvice.org/selfpubcon26-highlights-7-ideas-from-the-2026-self-publishing-advice-conference/",
+        "nearest": "https://www.munhwa.com/article/11631030",
         "new_action": ""
       },
-      "https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/": {
+      "https://www.tcj.com/how-i-love-you-becomes-the-moon-is-beautiful-isnt-it-the-craft-of-translation-and-the-limits-of-ai/": {
         "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/",
+        "nearest": "https://www.siliconera.com/we-dont-want-shonen-jump-ai-manga-translations/",
         "new_action": ""
       },
-      "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/": {
+      "https://www.hankyung.com/article/202611169483i": {
         "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
+        "nearest": "https://zdnet.co.kr/view/?no=20261109170434",
         "new_action": ""
       }
     },
-    "note": "The Bookseller 'Publishing Ireland conference' pick was removed after the fact-check pass: the article is paywalled and only a one-line standfirst is reachable, so its AI coverage can't be verified. No replacement was added and the section stays at 4 picks. The two remaining eligible candidates don't qualify. The Guardian 'wild west' feature is a roundup and extra reporting on prize/AI-use scandals already published (Goncourt 11-05, Caine 11-12, Quebec 10-22, French manuscript screening 11-15), so it counts as the same running story with no new event, and it was passed over on 11-16 too. The Lit Hub William Blake essay is opinion with no news hook, so adding it would be padding. Dropped as duplicates / running-story repeats: Good e-Reader Audible Audio Discovery (same launch as the TechCrunch pick; brief caps Audible at 1); Le Monde Pascal Prize (same as the 2026-10-21 Bookseller Prix Pascal card); Futurism Coral Hart AI romance (same running story as the 2026-10-25 Times Now '370 books' card, also dropped 11-16); Scholarly Kitchen IFRRO CEO interview (commentary on the IFRRO study published 2026-10-30, no new release); Book Riot 'Investigations targeting BIPOC authors' (commentary on the French AI-manuscript scandal already covered 11-05/11-15). Excluded by cross-section assignment: Books+Publishing ASA 'Not AI's to Take' (music only) and Voice Over Herald Equity–Pact ballot (movies only). Picks: 3 outlets, max 2 per outlet (Scholarly Kitchen). I could not grep published_urls.json with Read-only tools, so the orchestrator should exact-grep the 4 URLs across all sections before roll."
-  },
-  "items": [
-    {
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "source": "TechCrunch",
-      "tool": "Books",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "published_iso": "2026-11-16T15:52:19+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
-      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "rationale": "New product release: Audible's AI 'Audio Discovery' previews change how listeners find audiobooks, and how authors' books get pitched to them."
-    },
-    {
-      "title": "How I've Used AI to Improve My Writing Business",
-      "url": "https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/",
-      "source": "Jane Friedman",
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "published_iso": "2026-11-16T10:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/11/friedman_ai_improve_business-social.png",
-      "excerpt": "Most discussion of AI in the writing and publishing community has focused on its harms. Jane Friedman details how she has put AI to work in her publishing-industry business.",
-      "rationale": "The most practical item in the pool: a respected publishing-industry voice lays out the concrete AI uses she relies on in her own writing business."
-    },
-    {
-      "title": "Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/",
-      "source": "The Scholarly Kitchen",
-      "tool": "Books",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "published_iso": "2026-11-16T10:30:27+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-877002088.jpg",
-      "excerpt": "New usage metrics are needed as AI assistants intermediate between researchers and publisher content. What should count, and what can those numbers say about the value of research?",
-      "rationale": "New argument: download counts stop working once AI assistants sit between researchers and content. This matters for publisher licensing and library renewals."
-    },
-    {
-      "title": "From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
-      "source": "The Scholarly Kitchen",
-      "tool": "Books",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "published_iso": "2026-11-04T10:30:11+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/venn.jpg",
-      "excerpt": "How a publisher can make AI useful across the organization while keeping control of confidential information, editorial decisions and accountability.",
-      "rationale": "Actionable operating guide for publishers rolling out governed internal AI (confidentiality, editorial control, accountability). It is distinct from the 10-14 'moving faster than the evidence' post."
-    }
-  ]
+    "note": "Dropped as duplicates/excluded: ArtsHub 'Not AI's to Take' (ran in music 11-17, per brief); Voice Over Herald Audible audio discovery (books ran Audible 11-17; narrator angle, no new action); Guardian Caine Prize clearance (likely-repeat of BBC 11-12); Le Monde Prix Pascal (published 10-21 via The Bookseller); Publishing Perspectives France 'autumn of discontent' and The Atlantic 'Worst Thing About AI Writing' (analysis of the Jaenada/Orelien scandal, published 11-05/10-22); Selvas AI x Yes24 TTS (same story as news1 11-10); Vancouver JoongAng Canadian bookshop bulk orders (same running story as the 11-08 bulk-order card; RTE kept because it is a new parliamentary-committee hearing); Hindustan Times Chennai publisher arrest (valid DVAC follow-up, but this would be the 4th TN library card after 11-07/11-11/11-16, so it ranked below the fresh stories). Not picked on score: The Times book-club scam (paywalled, no image, close to Atlantic 11-16 literary-scams), Guardian 'wild west' roundup, Bookseller comment, Publishing Ireland conference, Scholarly Kitchen essay, Conversation/Newsroom ghostwriter pieces, DePaulia AI-agent submission (same theme as the Ajunews pick), Times Now 30-min AI audiobooks, Talebrix, Edaily Kyobo logistics. Cross-section: pick URLs checked against the books block of published_urls.json; the file is too large to read in full here, so the orchestrator should exact-grep the five URLs plus 'Yahoo Scout' across all sections before roll."
+  }
 }

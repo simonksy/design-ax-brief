@@ -5079,6 +5079,154 @@
           "x": "このパラメータは、AI Maxによる検索語句のマッチング、Googleの入札、広告主の支払額を変えない。変わるのは、ランディングページのURLsを読み取るアナリティクス、CRM、レポーティングシステムなど、下流で測定できる範囲だけだ。"
         }
       ]
+    },
+    "marketing/chatgpt-purchase-intent-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SparkToroが分析したU.S.のオプトイン・パネルでは、ChatGPTの会話の6.9%に購買意図が見られた。データ提供元はVersoで、2026年1月1日から10月29日までに12,321人が交わした41,961件の会話だ。大半はU.S.の人口構成に合わせて重み付けしたサブサンプルによる。"
+        },
+        {
+          "t": "p",
+          "x": "このサブサンプルでは、ChatGPTの回答の87.9%がブランドや製品、事業者を一つも挙げていなかった。Rand Fishkinは、AIでの露出が重要なのはChatGPTそのものより、主にGoogleのAI OverviewsとAI Modeがあるからだと結論づけた。"
+        },
+        {
+          "t": "p",
+          "x": "会話の4.9%では購入を予定して選択肢を比べており、2.1%は特定のブランド・製品・サービスの購入について尋ね、93.1%は購入の意図を示さなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/sparktoro-purchase-intent-full.png",
+          "cap": "グラフ:SparkToro / Verso."
+        },
+        {
+          "t": "p",
+          "x": "Fishkinは「ChatGPTの広告機会にとっては悪い知らせだと思う」と書いた。最も多い分類は画像・ビジュアルデザインの依頼で会話の17.6%を占め、ショッピング・ブランド・地域サービスは5.3%だった。"
+        },
+        {
+          "t": "p",
+          "x": "会話の分類は、文書化したコードブックに基づきAnthropicのClaudeが行った。パネルは若年層、女性、低所得層に偏り、大半がモバイルで、APIリクエストは含まない。ChatGPT Adsを検討するPPCチームにとって、6.9%という割合は消費者パネルの一断面であり、ChatGPT全体の集計ではない。"
+        }
+      ]
+    },
+    "marketing/daydream-stylist-shopping-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Julie Bornsteinが率いるファッション系スタートアップDaydreamは火曜日、「Daydream Agent」を公開した。パーソナルスタイリストをうたうAIエージェントで、コーディネートの計画、服の仮想試着、好みに合うアイテムの提案などを手伝う。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/aKtwDmhA-1.jpeg?w=680",
+          "cap": "画像提供:Daydream"
+        },
+        {
+          "t": "p",
+          "x": "エージェントは買い物客ごとのスタイル、サイズ感の好み、予算を記憶する。写真をアップロードすれば保存したアイテムを仮想試着でき、ワンクリック決済で購入まで完了できる。セールやブランドの新作発売を見張り、毎週の更新を届け、トレンドも見つける。"
+        },
+        {
+          "t": "p",
+          "x": "買い物客はアイテムを常設の「クロージングラック」に保存し、クローゼットやカレンダーと連携してコーディネートを組み、今後の予定に備えられる。10,000を超えるブランドのカタログから価格と在庫をリアルタイムで取得し、ファインチューニングしたOpenAI、Gemini、Claudeのモデルと独自に学習したモデルで動く。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Daydream-47.jpg?w=680",
+          "cap": "Daydreamの創業者Lisa Yamner GreenとJulie Bornstein。画像提供:Daydream"
+        },
+        {
+          "t": "p",
+          "x": "人の目を介在させるため、DaydreamはStyleGrid創業者のFrancesca Salihを初の専属スタイリストに迎えた。$50 million の資金を得たDaydreamによると、2025年6月のサービス開始以来、2百万人を超える買い物客が利用したという。"
+        }
+      ]
+    },
+    "marketing/amazon-dva-ai-brand-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-dva-brand-safety-under-0-1-percent-unsafe-impressions-mrc-pending-sieve-gantry-billboards.jpg",
+          "cap": "Amazonによると、DVAのウェブ広告が不適切なページに表示されるのは0.1%未満。MRC認定はまだ得ていない"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Adsは、Display、Video、Audioキャンペーンの広告を不適切なウェブページから遠ざけるための手順を公開し、対象インベントリのインプレッションのうちブランドセーフティの基準を下回るコンテンツに配信されたのは0.1%未満だとした。この手順はMedia Rating Councilに提出済みだが、「本文書の日付時点では認定を受けていない」。"
+        },
+        {
+          "t": "p",
+          "x": "対象は英語(English-language)のサードパーティサイトに限られる。九つのカテゴリーはすべての広告主に対してブロックされ、広告主はこの初期設定を外せない。"
+        },
+        {
+          "t": "p",
+          "x": "AmazonAdBotと名乗るクローラーがページをレンダリングする。公開済みのオープンモデルをもとに調整した二つのモデルが各ページを採点し、「いずれかのモデルが高いリスクを検知した場合」、ページを画像として受け取る二つの基盤モデルに回す。二つ目のモデルは「確認できない判定を除外し」、「判定が確認された場合に限りページをブロックする」。"
+        },
+        {
+          "t": "p",
+          "x": "AmazonはAnthropicの名を挙げ、「AnthropicのClaude基盤モデルなどのモデルを、モデル選定と継続的な測定の一環として評価している」と記す。生成モデルが「同じページでも評価のたびに異なる結果を返しうる」ことも認めている。"
+        },
+        {
+          "t": "p",
+          "x": "Brand Unsafe Impression Rate(ブランド上不適切なインプレッションの比率)は、配信済みインプレッションのサンプルをレビュー担当者が判定して算出し、評価できなかったページは比率から除外される。"
+        }
+      ]
+    },
+    "marketing/salesforce-copilotforce-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/11/824_1126_T15_Salesforce-and-Microsoft-Put-Customer-Intelligence_b_v1_111326-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SalesforceとMicrosoftは本日、Microsoft IgniteでCopilotforceを発表した。SalesforceをMicrosoftの企業向け生産性エコシステムに取り込む提携で、Microsoft Copilot、Microsoft Teams、Microsoft Fabricにまたがる新たな連携を提供する。"
+        },
+        {
+          "t": "p",
+          "x": "Salesforce in Microsoft Copilotにより、営業担当者はTeamsの会話、Outlookのメール、共有ドキュメントを踏まえて、Salesforceの顧客情報の参照、商談の分析、会議の準備、CRM上の操作ができるようになる。ワークフローには、WordとPowerPoint内での会議準備、案件の健全性(deal-health)分析、パイプラインのクロージング計画が含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "試験運用中のSales Cloud in TeamsアプリはリアルタイムのCRMインサイトをTeamsに届け、営業担当者はそこでAgentforce Coworkerとともに対応できる。双方向のZero Copy連携は、データセットを複製せずにSalesforce Data 360とMicrosoft Fabricをつなぐ。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Commercial BusinessのCEO、Judson Althoffは「AIの力は、それを支えるデータと文脈で決まる」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Accentureは設計・導入パートナーであり、Customer Zeroでもある。Salesforce in Microsoft CopilotはPublic Preview (Beta)の段階で、Data Federationは一般提供されている。"
+        }
+      ]
+    },
+    "marketing/admob-ask-gemini-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GoogleはAdMob向けの新しいAIツールとして、Ask AdMob、エージェントスキル、MCPサーバーを導入する。アプリ開発者がビジネスをより速く構築し、修正し、成長させるのを支援するためだ。広告設定の手動管理、連携エラーの修正、ブランドセーフティの監査は、チームの注意を開発からそらしてしまう。"
+        },
+        {
+          "t": "p",
+          "x": "Geminiで構築された対話型エージェントのAsk AdMobは、AdMobアカウント内に直接組み込まれる。AdMobの収益化ベストプラクティスで学習しており、AdMobの製品エキスパートのように問題の修正、収益機会の発見、ブランドセーフティの保護を手助けする。トラブルシューティングハブは設定の異常やSDK連携の問題を見つけ出す。"
+        },
+        {
+          "t": "p",
+          "x": "Ask AdMobは同業他社のベンチマークを使い、予測される収益の上積みとともに価値の高いSDK入札者を推奨し、メディエーショングループの最適化を支援する。サードパーティネットワークの設定を自動で確認し、収益に響く前に高くつくタイプミスや下限価格の不一致を捉える。ブランドセーフティのルールは、手動のブロックリストではなく、簡単な自然言語プロンプトで設定できる。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは今後数か月のうちにこれらの機能のテストを始め、ユーザーに代わって操作を行うより高度な機能は来年後半に投入する。すべての推奨は適用前にユーザーが確認・承認するため、主導権はユーザー側に残る。"
+        },
+        {
+          "t": "p",
+          "x": "AdMobのエージェントスキルは、Google Mobile Ads Next-Gen SDKへの移行や新しい広告フォーマットの実装といった作業向けに、構築・検証済みのプレイブックをAIエージェントに提供する。初期テスト中のAdMob MCPサーバーは、エージェントがアカウントデータを読み取り、新しい広告ユニットを作成し、メディエーション設定を管理できるようにするもので、来年初めにより多くの開発者へ拡大する。"
+        }
+      ]
     }
   }
 }

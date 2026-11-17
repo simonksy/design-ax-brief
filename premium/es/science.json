@@ -11473,6 +11473,111 @@
           "x": "Científicos y desarrolladores externos ya pueden usar los modelos Gemini 4 con /teamwork y /boost en Antigravity y Deep Review, y está abierta la convocatoria que dará a 10,000 investigadores académicos seis meses de acceso gratuito al nivel de uso más alto."
         }
       ]
+    },
+    "science/empa-optimat-alloys-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/2026/a-virtual-materials-sc.jpg",
+          "cap": "Las cuatro Vs del big data aplicadas al descubrimiento computacional de aleaciones. Credit: arXiv (2026). DOI: 10.48550/arxiv.2604.21850"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Empa en Thun han desarrollado un marco de inteligencia artificial (AI) que permite manejar complejas herramientas de ciencia de materiales computacional mediante un simple chat de texto: una especie de ChatGPT para materiales, basado en conocimiento científico y que calcula bajo demanda en el propio equipo del usuario. El trabajo se publicó en npj Computational Materials."
+        },
+        {
+          "t": "video",
+          "yt": "lQzuorkzPMc"
+        },
+        {
+          "t": "p",
+          "x": "Las aleaciones de alta entropía (high-entropy alloys) mezclan cuatro o más metales en proporciones aproximadamente iguales, lo que da un número enorme de combinaciones posibles. Yang Hu y Vladyslav Turlo, de Empa, desarrollaron conjuntamente la plataforma OptiMat Chat; su primer científico virtual, OptiMat Alloys, selecciona herramientas específicas del área, ejecuta flujos de trabajo predefinidos y resume los resultados en figuras, tablas y textos con formato de publicación para que los revisen expertos."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores no necesitan programar ni configurar parámetros. Para reducir las alucinaciones, el agente usa llamadas estructuradas a herramientas, flujos de trabajo predefinidos y registros de cálculo almacenados, y los resultados se guardan en una base de datos para su trazabilidad y reutilización. Turlo advierte que los datos son puntos de partida para la interpretación experta, no resultados publicables por sí solos. Se prevén agentes para cerámicas, óxidos metálicos y materiales amorfos."
+        }
+      ]
+    },
+    "science/vtech-vibration-rock-depth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg",
+          "cap": "Recreación artística de un corte que muestra las capas subterráneas de Marte (Mars). Credit: ESA/Medialab"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de Virginia Tech ha desarrollado herramientas impulsadas por inteligencia artificial (AI-powered) que miden las vibraciones del terreno superficial para determinar qué hay debajo y hasta qué profundidad se extienden las estructuras, de modo que las misiones robóticas puedan hacer estas determinaciones de forma autónoma. El estudio, dirigido por el candidato a Ph.D. Yiyan Ruan y el profesor adjunto Erik Komendera, exinvestigador del Langley Research Center de la NASA, se publicó en IEEE Sensors Journal."
+        },
+        {
+          "t": "p",
+          "x": "Estimar la profundidad a la que están rocas semienterradas es clave para la excavación robótica con energía limitada: los equipos necesitan saber si deben retirar un obstáculo o evitarlo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/Bird_s-eye_view_of_Coloe_Fossae_20251120_211652.jpg",
+          "cap": "Vista generada a partir del modelo digital del terreno y de los canales nadir y de color de la High Resolution Stereo Camera de la Mars Express de la ESA. Credit: ESA/DLR/FU Berlin"
+        },
+        {
+          "t": "p",
+          "x": "El equipo enterró 18 bloques de hormigón en arena a distintas profundidades, los golpeó con un martillo instrumentado y midió las vibraciones con un Laser Doppler Vibrometer. Un Multilayer Perceptron relacionó 11 características con la profundidad de enterramiento. \"Pudimos producir datos fiables usando una red neuronal compacta con solo dos capas ocultas\", dijo Ruan."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos podrían ayudar a las misiones a excavar rocas y hielo de agua; en la Tierra podrían ayudar a analizar obras de construcción y zonas de desastre."
+        }
+      ]
+    },
+    "science/science-euclid-strong-lens-q1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg",
+          "cap": "Disco de M81, con la enana Holmberg IX (Disk of M81, feat. Holmberg IX dwarf). Credit: ESA/Euclid/Euclid Consortium/NASA, procesamiento de imagen de J.-C. Cuillandre y E. Bertin CC BY-SA 3.0 IGO"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la UBC han ayudado a descubrir 15,000 nuevas lentes gravitacionales fuertes potenciales, la mayor colección de estas herramientas cósmicas que ayudan a los astrónomos a investigar la materia oscura. La primera gran publicación de datos del telescopio espacial Euclid de la ESA abarca 1.7 millones de gigabytes y reveló más de 900 millones de galaxias y 60 millones de cuásares en casi el 5% del cielo nocturno."
+        },
+        {
+          "t": "p",
+          "x": "\"Antes de Euclid, teníamos menos de 1,000 lentes fuertes confirmadas. Ahora tenemos 15,000 nuevos candidatos\", dijo el coautor Hrishabh Srivastava, estudiante de doctorado de la UBC."
+        },
+        {
+          "t": "p",
+          "x": "La búsqueda en cuatro fases usa aprendizaje automático para analizar inicialmente la enorme cantidad de datos en busca de posibles lentes. Después, miles de científicos ciudadanos examinan los datos clasificados por IA (AI-sorted) para depurar aún más el conjunto de candidatos. En tercer lugar, expertos como Srivastava revisan el trabajo de los científicos ciudadanos y examinan unas 6,000 a 10,000 galaxias cada uno. Por último, los candidatos se verifican con datos de seguimiento de otros telescopios."
+        },
+        {
+          "t": "p",
+          "x": "Srivastava también aspira a crear un modelo de aprendizaje automático lo bastante potente como para identificar lentes fuertes sin verificación. La publicación se describe en 26 artículos enviados a Astronomy & Astrophysics."
+        }
+      ]
+    },
+    "science/psypost-ai-grant-novelty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "Los científicos que usan inteligencia artificial generativa para redactar solicitudes de subvenciones federales tienden a proponer temas de investigación más parecidos a proyectos financiados recientemente, según un nuevo estudio publicado en PNAS. En los National Institutes of Health, las solicitudes con más rastros de escritura con AI tenían más probabilidades de obtener financiación, y a las subvenciones con más rastros de AI les siguieron algo más de publicaciones en el primer o segundo año, concentradas en estudios rutinarios y no en avances muy citados."
+        },
+        {
+          "t": "p",
+          "x": "Yifan Qian y sus colegas de la Northwestern University analizaron 1,600 propuestas a la NSF y 4,100 a los NIH procedentes de dos grandes universidades de investigación de U.S., además de 57,000 subvenciones financiadas por la NSF y 74,000 por los NIH, con fechas de inicio entre 2021 y 2025. La participación estimada de la AI se mantuvo estable hasta finales de 2022 y aumentó con fuerza a partir de 2023."
+        },
+        {
+          "t": "p",
+          "x": "Una mayor participación de la AI se asoció de forma constante con menor singularidad: pasar del percentil 25 al 75 supuso una caída de unos 5 puntos percentiles en las subvenciones de la NSF y de unos 4 puntos en las de los NIH. En los NIH, ese mismo cambio implicó una probabilidad de obtener financiación unos 4 puntos porcentuales mayor y alrededor de un 5 por ciento más de publicaciones; en la NSF ninguna de las dos relaciones fue estadísticamente significativa."
+        },
+        {
+          "t": "p",
+          "x": "El estudio es observacional y no puede establecer que las herramientas de AI causen directamente elecciones de temas más seguras ni mayores probabilidades de financiación en los NIH."
+        }
+      ]
     }
   }
 }

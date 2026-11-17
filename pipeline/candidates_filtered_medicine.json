@@ -1,128 +1,53 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-16T22:37:00Z",
+  "now_iso": "2026-11-17T22:00:36Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
-      "source": "Fierce Healthcare",
+      "title": "Clinician Acceptance of Large Language Model–Generated Discharge Summaries",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856756",
+      "source": "JAMA Network Open",
       "category": "medicine",
-      "published_iso": "2026-11-16T09:05:00-05:00",
-      "excerpt": "OpenAI is expanding computer-use agents for healthcare that navigate EHR systems, payer portals and other software to handle repetitive manual tasks, with CVS Health, Cigna and Abridge testing them.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2219425791.jpg?VersionId=O1OkFR85axRupu_mdYZTS0_LgbsUcqZy",
-      "history_match": {
-        "score": 0.16,
-        "date": "2026-10-18",
-        "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
-        "title": "Keeping artificial intelligence agents within the clinical task",
-        "band": "related"
-      }
-    },
-    {
-      "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-agentic-operating-system",
-      "source": "Fierce Healthcare",
-      "category": "medicine",
-      "published_iso": "2026-11-16T09:00:00-05:00",
-      "excerpt": "Ambient clinical documentation company Suki launched Suki OS, an agentic operating system built on its ambient platform that links fragmented clinical software through unified AI agents, a partner ecosystem and a performance guarantee.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2232514171.jpg?VersionId=VwvVk9PfSFHEStjWC3XS9.q9WGuNS0P1",
-      "history_match": {
-        "score": 0.16,
-        "date": "2026-11-11",
-        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
-        "title": "Google Cloud rolls out Gemini for healthcare",
-        "band": "related"
-      }
-    },
-    {
-      "title": "HLTH 2026: Viz.ai, Wolters Kluwer partner on platform integration",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-wolters-kluwer-partner-platform-integration",
-      "source": "Fierce Healthcare",
-      "category": "medicine",
-      "published_iso": "2026-11-16T09:00:00-05:00",
-      "excerpt": "Viz.ai will integrate Wolters Kluwer's UpToDate clinical evidence into its Viz.ai One AI disease-detection and care-coordination platform, which the companies call the first such integration into AI-driven care coordination workflows.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
-      "history_match": {
-        "score": 0.235,
-        "date": "2026-10-26",
-        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
-        "title": "Doximity adds UpToDate to Ask in push to become doctors’ go-to AI platform",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Apple, OpenEvidence launch conversational health AI study and app",
-      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
-      "source": "Healthcare Dive",
-      "category": "medicine",
-      "published_iso": "2026-11-16T14:32:00Z",
-      "excerpt": "Apple launched a 200,000-participant Apple Health AI Usage Study with OpenEvidence to research what drives consumer trust in, and the quality of, conversational health AI answers; findings could inform Apple products.",
-      "og_image": "https://imgproxy.divecdn.com/mZqDXAZolSHpHweMB5uWX4TeGZ2_NXsdKUhXJSuEWWw/g:nowe:78:428/c:1356:766/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hcHBsZV9vcGVuZXZpZGVuY2VfaGx0aC5qcGc=.webp"
-    },
-    {
-      "title": "Chest x-ray AI detects osteoporosis across seven countries",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425513/chest-xray-ai-detects-osteoporosis-across-seven-countries",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-16T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: Promedius' PROS CXR: OSTEO, tested on 5,873 chest x-rays from 5,495 patients in seven countries, detected osteoporosis with pooled AUC 0.819, 87% sensitivity and 94% negative predictive value against DXA.",
+      "published_iso": "2026-11-17T16:30:17Z",
+      "excerpt": "Comparative-effectiveness study across 5 London hospitals: 12 physicians reviewed 1,294 discharge summaries; GPT-4o mini summaries from EHR data were noninferior on sign-off with no/minor edits (+22.2 points vs clinician-written) and scored higher on accuracy, completeness and clarity.",
       "og_image": null,
       "history_match": {
-        "score": 0.311,
-        "date": "2026-10-18",
-        "url": "https://www.nature.com/articles/s41746-026-03333-7",
-        "title": "Artificial intelligence for opportunistic osteoporosis screening on chest radiographs",
+        "score": 0.196,
+        "date": "2026-10-20",
+        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
+        "title": "Effect of Previsit AI-Generated Document Summaries on Consultation Time and Patient-Physician Communication: The AI-INFOCARE Randomized Controlled Trial",
         "band": "related"
       }
     },
     {
-      "title": "AI on chest x-rays matches PREVENT score for cardiac risk prediction",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425512/ai-on-chest-xrays-matches-prevent-score-for-cardiac-risk-prediction",
-      "source": "AuntMinnie",
+      "title": "AI imaging reports comparable to the work of sonographers and cardiologists",
+      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-imaging-reports-comparable-work-sonographers-and-cardiologists",
+      "source": "Cardiovascular Business",
       "category": "medicine",
-      "published_iso": "2026-11-16T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: CNNs extracting coronary calcium and radiomics from chest x-rays of nearly 40,000 NLST and Mass General Brigham patients predicted MACE about as well as PREVENT (0.65 vs 0.66), and 0.71 combined.",
-      "og_image": null
-    },
-    {
-      "title": "Ultra-compact AI X-ray unit slashes ICU bedside imaging time",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-16T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: in a prospective 121-patient ICU study, Poskom's 1.3-kg AI-powered MiniAIR x-ray cut bedside imaging workflow time by more than 75% versus mobile DR while preserving diagnostic performance.",
-      "og_image": null
-    },
-    {
-      "title": "Opportunistic Risk Assessment of Major Osteoporotic Fractures from Routine Chest Radiographs Using Deep Learning",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600590",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-11-16T15:00:14Z",
-      "excerpt": "Seoul National University Hospital radiologists report a deep-learning model that estimates major osteoporotic fracture risk from routine chest radiographs, enabling opportunistic screening without dedicated bone densitometry (date via Crossref created).",
-      "og_image": null,
+      "published_iso": "2026-11-13T20:37:10+00:00",
+      "excerpt": "A randomized trial presented at AHA 2026 compared AI- and human-generated preliminary reports for the same 1,200 echocardiograms; blinded cardiologists edited 50.6% of AI reports vs 49.7% of human ones, meeting noninferiority.",
+      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-04/istock-2180282602.jpg?h=125a58ae&itok=H7ZUSc09",
       "history_match": {
-        "score": 0.327,
-        "date": "2026-10-18",
-        "url": "https://www.nature.com/articles/s41746-026-03333-7",
-        "title": "Artificial intelligence for opportunistic osteoporosis screening on chest radiographs",
-        "band": "related"
+        "score": 0.421,
+        "date": "2026-11-10",
+        "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
+        "title": "AI-interpreted echocardiograms comparable to human reports, cardiologists' time cut by about 50%",
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "A Meta-Research Review of Statistical Practices for Image-Reliant AI Tools Predicting Lung Cancer Outcomes",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2600064",
-      "source": "NEJM AI",
+      "title": "Deep learning retinal vascular biomarker predicts preeclampsia in a multicenter prospective cohort",
+      "url": "https://www.nature.com/articles/s41746-026-03463-y",
+      "source": "npj Digital Medicine",
       "category": "medicine",
-      "published_iso": "2026-11-16T15:01:00Z",
-      "excerpt": "NEJM AI review audits the statistical methods behind published image-based AI tools that predict lung cancer outcomes, assessing how validation and reporting practices affect their clinical reliability (date via Crossref created).",
-      "og_image": null,
+      "published_iso": "2026-11-17T00:00:00Z",
+      "excerpt": "Retina-PE, a multimodal deep learning model combining retinal photographs, maternal clinical factors and mean arterial pressure, predicted later preeclampsia in a prospective multicenter cohort, a noninvasive screening approach.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Figa_HTML.png",
       "history_match": {
-        "score": 0.184,
+        "score": 0.219,
         "date": "2026-10-19",
-        "url": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855",
-        "title": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review",
+        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
+        "title": "Artificial Intelligence-Enhanced Auscultation to Identify Left Ventricular Dysfunction - Development and External Validation in Prospective Multicenter Cohorts",
         "band": "related"
       }
     },
@@ -132,47 +57,29 @@
       "source": "Nature Medicine",
       "category": "medicine",
       "published_iso": "2026-11-16T00:00:00Z",
-      "excerpt": "Nature Medicine presents OpenScientist, an open agentic AI co-scientist designed to analyze large, complex clinical and biomedical datasets and speed discovery that is otherwise limited by analyst time and domain expertise.",
-      "og_image": null
-    },
-    {
-      "title": "Dual chain-of-thought AI-PDCA framework for clinical history taking and documentation",
-      "url": "https://www.nature.com/articles/s41746-026-03430-7",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-16T00:00:00Z",
-      "excerpt": "npj Digital Medicine study of an LLM-based AI-PDCA tutor that trains undergraduate medical students in clinical history taking and documentation with individualized, scalable feedback.",
-      "og_image": null
-    },
-    {
-      "title": "Development and validation of a machine learning model to predict the daily risk of febrile neutropenia in patients with AML undergoing chemotherapy",
-      "url": "https://www.nature.com/articles/s43856-026-02001-x",
-      "source": "Communications Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-13T00:00:00Z",
-      "excerpt": "Using registry data from two Finnish university hospital districts, researchers trained and validated an AI model predicting daily febrile neutropenia risk in acute myeloid leukemia patients during chemotherapy.",
+      "excerpt": "Nature Medicine paper presents OpenScientist, an open-source agentic AI co-scientist that investigates scientist-defined clinical and biomedical queries on large datasets and returns verifiable, data-grounded analyses.",
       "og_image": null,
       "history_match": {
-        "score": 0.214,
-        "date": "2026-11-13",
-        "url": "https://www.nature.com/articles/s41746-026-03449-w",
-        "title": "Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach",
+        "score": 0.195,
+        "date": "2026-11-10",
+        "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
+        "title": "AI beats scientists at finding errors in clinical research papers",
         "band": "related"
       }
     },
     {
-      "title": "Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
-      "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/",
-      "source": "STAT",
+      "title": "Machine learning model predicts the daily risk of febrile neutropenia in patients with AML undergoing chemotherapy",
+      "url": "https://www.nature.com/articles/s43856-026-02001-x",
+      "source": "Communications Medicine",
       "category": "medicine",
-      "published_iso": "2026-11-16T11:00:00Z",
-      "excerpt": "John Doerr backs Tom Health, a new AI tool for primary care named for his late brother, calling it 'one of the best possible uses of AI'.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-1421751524-1024x576.jpg",
+      "published_iso": "2026-11-13T00:00:00Z",
+      "excerpt": "Using registry data from two Finnish university hospital districts, researchers trained and validated an AI model that flags early infection (febrile neutropenia) risk day by day in acute myeloid leukemia patients on chemotherapy.",
+      "og_image": null,
       "history_match": {
-        "score": 0.165,
-        "date": "2026-11-09",
-        "url": "https://cleerly.com/press/paramount-first-randomized-trial",
-        "title": "PARAMOUNT, the First Randomized Trial of AI-Enabled Plaque-Based Care, Meets Primary Endpoint in Late-Breaking Results at AHA 2026",
+        "score": 0.208,
+        "date": "2026-11-13",
+        "url": "https://www.nature.com/articles/s41746-026-03449-w",
+        "title": "Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach",
         "band": "related"
       }
     },
@@ -181,52 +88,145 @@
       "url": "https://medcitynews.com/2026/11/is-ai-really-saving-hospitals-money-a-new-study-raises-questions-about-the-cost-of-ai-driven-care/",
       "source": "MedCity News",
       "category": "medicine",
-      "published_iso": "2026-11-12T17:54:03Z",
-      "excerpt": "A New England Journal of Medicine study finds AI-generated care plans may cost far more than those ordered by physicians, challenging the savings case for clinical AI.",
+      "published_iso": "2026-11-12T17:54:03+00:00",
+      "excerpt": "A new study in the New England Journal of Medicine finds AI-generated care plans may cost far more than those ordered by physicians, challenging the assumption that clinical AI saves hospitals money.",
       "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg"
     },
     {
-      "title": "AI Model May Help Tailor Treatment for Childhood Brain Tumors",
-      "url": "https://hms.harvard.edu/news/ai-model-may-help-tailor-treatment-childhood-brain-tumors",
-      "source": "Harvard Medical School",
+      "title": "Medicare Pays For the AI Eye Scan — Nobody Pays For What Comes Next",
+      "url": "https://medcitynews.com/2026/11/medicare-pays-for-the-ai-eye-scan-nobody-pays-for-what-comes-next/",
+      "source": "MedCity News",
       "category": "medicine",
-      "published_iso": "2026-11-16T12:00:00Z",
-      "excerpt": "Harvard/Dana-Farber's MANTIS model uses DNA methylation profiles from 2,786 children to predict 10-year survival in medulloblastoma and ependymoma, suggesting over half of average-risk medulloblastoma patients might get lower-dose radiation (Nature Genetics; needs prospective trials). (Off-list: no on-list coverage.)",
-      "og_image": null,
+      "published_iso": "2026-11-17T14:18:00+00:00",
+      "excerpt": "Autonomous AI diabetic-retinopathy screening is reimbursed by Medicare, but close to half of primary-care patients who screen positive never reach an eye doctor within a year; the follow-up step has no payment.",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2017/03/GettyImages-509053702.jpg"
+    },
+    {
+      "title": "HLTH 2026: Viz.ai, Wolters Kluwer partner on platform integration",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-wolters-kluwer-partner-platform-integration",
+      "source": "Fierce Healthcare",
+      "category": "medicine",
+      "published_iso": "2026-11-16T09:00:00-05:00",
+      "excerpt": "Viz.ai will integrate UpToDate clinical evidence into its Viz.ai One AI disease-detection and care-coordination platform, the first integration bringing UpToDate into AI-driven care coordination workflows.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
       "history_match": {
-        "score": 0.379,
-        "date": "2026-11-04",
-        "url": "https://www.nature.com/articles/s41588-026-02815-4",
-        "title": "AI-based precision prognostics and therapy personalization for childhood brain tumors",
+        "score": 0.266,
+        "date": "2026-10-26",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+        "title": "Doximity adds UpToDate to Ask in push to become doctors’ go-to AI platform",
         "band": "related"
       }
     },
     {
-      "title": "Naitive Receives FDA 510(k) Clearance for OsteoSight Spine, Extending AI-Enabled Opportunistic Bone Health Assessment to Spine and Chest X-rays",
-      "url": "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays",
-      "source": "Orthopedics This Week",
+      "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-agentic-operating-system",
+      "source": "Fierce Healthcare",
       "category": "medicine",
-      "published_iso": "2026-11-12T12:00:00Z",
-      "excerpt": "Naitive Technologies won FDA 510(k) clearance for OsteoSight Spine, extending its AI opportunistic bone-health assessment from routine x-rays to spine and chest films. (Off-list: no on-list coverage of this clearance.)",
-      "og_image": "https://naxztztabtiofaq7.public.blob.vercel-storage.com/app-uploads/images/1794492544592-Naitive-LinkedIn-post---1200---627-q9nL5xrPZdo1AtcWY8epwITx37wld5.png",
+      "published_iso": "2026-11-16T09:00:00-05:00",
+      "excerpt": "Ambient clinical intelligence vendor Suki launched Suki OS, an agentic operating system built on unified AI agents, a partner ecosystem and a performance guarantee to connect fragmented clinical software.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2232514171.jpg?VersionId=VwvVk9PfSFHEStjWC3XS9.q9WGuNS0P1"
+    },
+    {
+      "title": "Patient data startup b.well launches tools to make AI chatbots safer",
+      "url": "https://endpoints.news/patient-data-startup-b-well-launches-tools-to-make-ai-chatbots-safer/",
+      "source": "Endpoints News",
+      "category": "medicine",
+      "published_iso": "2026-11-17T14:00:01+00:00",
+      "excerpt": "Health data firm b.well launched 'health skills' that give AI chatbots and agents clinical guardrails for navigating patient records.",
+      "og_image": "https://endpoints.news/wp-content/uploads/2026/02/AI-health-tech-artificial-intelligence-shutterstock-1.jpg",
       "history_match": {
-        "score": 0.233,
-        "date": "2026-10-18",
-        "url": "https://www.nature.com/articles/s41746-026-03333-7",
-        "title": "Artificial intelligence for opportunistic osteoporosis screening on chest radiographs",
+        "score": 0.162,
+        "date": "2026-11-03",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+        "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
         "band": "related"
       }
     },
     {
-      "title": "Cleerly's AI-powered plaque assessments outperform cardiac stress testing",
-      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/computed-tomography-ct/cleerlys-ai-powered-plaque-assessments-outperform-cardiac-stress-testing",
-      "source": "Cardiovascular Business",
+      "title": "A Meta-Research Review of Statistical Practices for Image-Reliant AI Tools Predicting Lung Cancer Outcomes",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2600064",
+      "source": "NEJM AI",
       "category": "medicine",
-      "published_iso": "2026-11-13T19:30:00Z",
-      "excerpt": "PARAMOUNT, a 530-patient randomized trial at 21 sites, found AI-based quantitative coronary CT plaque analysis (Cleerly) outperformed stress testing, cutting unnecessary cath-lab referrals for patients without obstructive CAD.",
-      "og_image": null,
+      "published_iso": "2026-11-16T15:01:00Z",
+      "excerpt": "NEJM AI review assesses methodological rigor and transparency of image-based AI models proposed to support clinical decisions in lung cancer, cataloguing statistical shortcomings.",
+      "og_image": "https://ai.nejm.org/cms/asset/7c3f8e93-0833-4819-a77e-2840379802e7/aira2600064_f1.jpg",
       "history_match": {
-        "score": 0.207,
+        "score": 0.175,
+        "date": "2026-10-24",
+        "url": "https://www.nature.com/articles/s41746-026-03408-5",
+        "title": "Human oversight of erroneous clinical AI and decision support: a systematic review and meta-analysis",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Deep-learning adds PCCT-like chest imaging quality to existing scanners",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541666/deeplearning-adds-pcctlike-chest-imaging-quality-to-existing-scanners",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-17T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: Johns Hopkins' SUMI model, trained on 1,046 photon-counting CT scans plus 405,379 conventional CT scans from 145 hospitals, brings PCCT-like image quality to routine chest CT without paired acquisitions.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.KJohCX3jjw.jpg?auto=format%2Ccompress&w=1200"
+    },
+    {
+      "title": "CT offers opportunistic lung cancer risk assessment in heavy smokers",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541674/ct-offers-opportunistic-lung-cancer-risk-assessment-in-heavy-smokers",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-17T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: Erlangen's deep-learning model CTchest-risk, developed on 14,208 participants, predicts six-year all-cause mortality from low-dose lung screening CT, tested on NLST data against body-composition measures.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.KJohCX3jjw.jpg?auto=format%2Ccompress&w=1200"
+    },
+    {
+      "title": "New AI approach could cut sepsis deaths and drive efficiency in emergency departments",
+      "url": "https://medicalxpress.com/news/2026-11-ai-approach-sepsis-deaths-efficiency.html",
+      "source": "Medical Xpress",
+      "category": "medicine",
+      "published_iso": "2026-11-17T13:40:09-05:00",
+      "excerpt": "King's College London's causal explainability group built a method that explains why an AI model predicts sepsis deaths in emergency departments, pointing hospital managers to targetable causes. (Off-list: on-list ED/sepsis coverage had nothing fresh.)",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2024/emergency-department.jpg",
+      "history_match": {
+        "score": 0.152,
+        "date": "2026-10-29",
+        "url": "https://www.nature.com/articles/s41746-026-03313-x",
+        "title": "Radiographer fracture detection with and without AI assistance in prospective emergency department use",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI may help spot early signs of lung cancer in the blood",
+      "url": "https://medicalxpress.com/news/2026-11-ai-early-lung-cancer-blood.html",
+      "source": "Medical Xpress",
+      "category": "medicine",
+      "published_iso": "2026-11-17T12:40:09-05:00",
+      "excerpt": "Cancer Research UK-backed work uses AI on blood samples taken at NHS mobile lung screening to look for early signs of lung cancer. (Off-list fallback.)",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/can-ai-help-spot-early.jpg"
+    },
+    {
+      "title": "What to know about the new AI roadmap from CMS, and news from HLTH",
+      "url": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-17T17:49:24+00:00",
+      "excerpt": "STAT Health Tech breaks down CMS' newly released clinical AI ('super intelligence') roadmap, setting Medicare's agenda for paying for and overseeing clinical AI, plus HLTH 2026 news. (STAT+ partial paywall.)",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+      "history_match": {
+        "score": 0.189,
+        "date": "2026-11-13",
+        "url": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/",
+        "title": "FDA, CMS look to collaborate with states on health AI",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
+      "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-16T11:00:00+00:00",
+      "excerpt": "Tom Health, a new AI tool for primary care backed by John Doerr, launches with the pitch that AI can relieve primary-care physicians. (STAT+.)",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-1421751524-1024x576.jpg",
+      "history_match": {
+        "score": 0.162,
         "date": "2026-11-09",
         "url": "https://cleerly.com/press/paramount-first-randomized-trial",
         "title": "PARAMOUNT, the First Randomized Trial of AI-Enabled Plaque-Based Care, Meets Primary Endpoint in Late-Breaking Results at AHA 2026",
@@ -234,115 +234,63 @@
       }
     },
     {
-      "title": "AI-derived inflammation score improves cardiovascular risk prediction beyond CAC",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-derived-inflammation-score-improves-cardiovascular-risk-prediction-beyond-cac",
-      "source": "Radiology Business",
+      "title": "Samsung Medical Center's AI tracks surgical actions, phases in video analysis",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33873",
+      "source": "Korea Biomedical Review",
       "category": "medicine",
-      "published_iso": "2026-11-11T22:09:57Z",
-      "excerpt": "A JAMA analysis from Oxford finds an AI-derived coronary inflammation score from noncontrast CT flags elevated cardiovascular risk even when calcium scores are zero, performing comparably to CCTA measures.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2022-08/caristo_fat_attenuation_index_fai_ccta_imaging_cta_scct_2022_df.jpg?h=a999504c&itok=44OMSyGV",
-      "history_match": {
-        "score": 0.223,
-        "date": "2026-10-27",
-        "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients",
-        "title": "AI tech detects high-risk coronary inflammation in many asymptomatic patients",
-        "band": "related"
-      }
+      "published_iso": "2026-11-17T14:11:58+09:00",
+      "excerpt": "SMC's CurConMix+ (IEEE TMI) recognizes individual actions, tasks and procedural phases in surgical video by combining spatial and temporal information, a step toward context-aware robotic surgical assistants.",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33873_37054_946_v150.jpg"
     },
     {
-      "title": "Beyond the Rogue Agent—Preparing Health Systems for AI Failure",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2856704",
-      "source": "JAMA",
+      "title": "Noul selected for $2.3 million AI diagnostics project in Panama",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33879",
+      "source": "Korea Biomedical Review",
       "category": "medicine",
-      "published_iso": "2026-11-12T16:00:36Z",
-      "excerpt": "JAMA Viewpoint on how health systems should prepare for and stay resilient through failures of AI embedded in clinical operations (date via Crossref created, DOI 10.1001/jama.2026.24040).",
-      "og_image": null
+      "published_iso": "2026-11-17T16:15:14+09:00",
+      "excerpt": "KOICA picked Noul for a five-year, 3.1 billion won project bringing its AI point-of-care cervical cancer screening and blood testing to underserved areas of Panama.",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33879_37062_143_v150.jpg"
     },
     {
-      "title": "AI chatbots aren't therapists. But can they finally get men to open up?",
-      "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
-      "source": "STAT",
+      "title": "WHO, global hospital federation to form joint committee on healthcare AI",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33877",
+      "source": "Korea Biomedical Review",
       "category": "medicine",
-      "published_iso": "2026-11-09T09:30:00+00:00",
-      "excerpt": "STAT examines whether AI chatbots, though imperfect therapists, can lower the barriers that keep men from seeking mental health care.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/Stat_11_4_2026-1-1024x576.jpg"
+      "published_iso": "2026-11-17T15:12:53+09:00",
+      "excerpt": "WHO and the International Hospital Federation agreed to set up a joint steering committee on healthcare AI, covering standards for AI adoption in hospitals and training for health professionals.",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33877_37060_1452_v150.jpg"
     },
     {
-      "title": "Insilico's AI-designed TEAD inhibitor shrank tumors in 4 of 22 mesothelioma patients; randomized Phase 2a planned for 2027",
-      "url": "https://www.drugdiscoverytrends.com/insilicos-ai-designed-tead-inhibitor-shrank-tumors-in-4-of-22-mesothelioma-patients-randomized-phase-2a-planned-for-2027/",
-      "source": "Drug Discovery & Development",
-      "category": "medicine",
-      "published_iso": "2026-11-09T18:26:00+00:00",
-      "excerpt": "Insilico Medicine's AI-designed pan-TEAD inhibitor ISM6331 produced responses in 4 of 22 pretreated mesothelioma patients; a randomized Phase 2a is planned for 2027. (Off-list: endpts/fiercebiotech had no coverage.)",
-      "og_image": "https://www.drugdiscoverytrends.com/wp-content/uploads/2026/11/AdobeStock_429817459.jpeg",
-      "history_match": {
-        "score": 0.151,
-        "date": "2026-11-15",
-        "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
-        "title": "FDA Clears IND for Biolojic's BD200, the First AI-Designed Multibody ADC to Enter Clinical Trials",
-        "band": "related"
-      }
-    },
-    {
-      "title": "계명대 동산병원, 다낭콩팥병 'AI 관리 플랫폼' 구축",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016555",
+      "title": "딥노이드, AI 판독 솔루션 고도화…원격판독 시장 공략",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016613",
       "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-11-17T07:27:48+09:00",
-      "excerpt": "계명대 동산병원이 유전성 신장질환인 다낭콩팥병 환자의 일상 건강관리를 돕는 인공지능(AI) 기반 통합관리 플랫폼을 구축했다.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016555_417451_059.jpg"
+      "published_iso": "2026-11-17T11:05:49+09:00",
+      "excerpt": "딥노이드가 식약처 허가를 받은 생성형 AI 흉부 X-ray 예비소견서 솔루션 M4CXR을 폴스타헬스케어 원격판독 플랫폼 호크아이와 연동하고, 21세기영상의학과의원의 실사용 피드백으로 성능을 개선하는 협약을 맺었다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016613_417504_520.jpg"
     },
     {
-      "title": "KAIST's AI reads lips without sound, raising hopes for hearing assistance",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33847",
-      "source": "Korea Biomedical Review",
+      "title": "식약처, AI 활용한 백신 제조·품질관리 혁신 방안 논의",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044606",
+      "source": "청년의사",
       "category": "medicine",
-      "published_iso": "2026-11-15T12:00:00+09:00",
-      "excerpt": "KAIST researchers built an AI lip-reading system that interprets clearer words first and uses context for ambiguous ones, which could eventually support communication for deaf and hard-of-hearing people.",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33847_37016_2314_v150.jpg"
-    },
-    {
-      "title": "Samsung, OpenAI push connected healthcare in US as Korea faces data barriers",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33825",
-      "source": "Korea Biomedical Review",
-      "category": "medicine",
-      "published_iso": "2026-11-12T10:16:22+09:00",
-      "excerpt": "Samsung Electronics and OpenAI are expanding services connecting personal health data with U.S. hospitals for clinical use, while fragmented hospital IT and weak interoperability hold Korea back.",
-      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33825_36990_1250_v150.jpg"
+      "published_iso": "2026-11-17T11:08:34+09:00",
+      "excerpt": "식약처가 'AI·디지털 기반 바이오의약품 품질관리 혁신과 규제조화' 워크숍에서 AI 기반 mRNA 백신 제조 변동성 제어, 백신 공정 품질관리 AI 예측모델, AI 기반 품질관리요약서 작성 등을 논의한다.",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044606_3048600_2942_v150.jpg"
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 21,
+    "dropped": 5,
+    "kept": 17,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 13,
+    "review": 11,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-18",
-      "title": "Public Perceptions of Timeliness for AI Use and Human Oversight",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Artificial intelligence for opportunistic osteoporosis screening on chest radiographs",
-      "url": "https://www.nature.com/articles/s41746-026-03333-7"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "AI-supported first consultation preparation in oncology: a real-world clinical usability study",
-      "url": "https://www.nature.com/articles/s41746-026-03396-6"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Keeping artificial intelligence agents within the clinical task",
-      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext"
-    },
     {
       "date": "2026-10-19",
       "title": "Artificial Intelligence-Enhanced Auscultation to Identify Left Ventricular Dysfunction - Development and External Validation in Prospective Multicenter Cohorts",
@@ -1017,6 +965,31 @@
       "date": "2026-11-16",
       "title": "As more doctors consult chatbots, health systems can block them — or buy in",
       "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Naitive Receives FDA 510(k) Clearance for OsteoSight Spine, Extending AI-Enabled Opportunistic Bone Health Assessment to Spine and Chest X-rays",
+      "url": "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Ultra-compact AI X-ray unit slashes ICU bedside imaging time",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "계명대 동산병원, 다낭콩팥병 'AI 관리 플랫폼' 구축",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016555"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Apple, OpenEvidence launch conversational health AI study and app",
+      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/"
     }
   ]
 }
