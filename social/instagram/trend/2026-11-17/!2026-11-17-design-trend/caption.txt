@@ -1,0 +1,18 @@
+에이전트 화면, 규격부터 굳는다
+
+한 건씩 보면 개발자 SDK 소식입니다. 이어 보면 3주 사이 Google·Vercel·Meta가 에이전트가 그릴 화면의 부품 규격을 먼저 깔았습니다.
+
+· 10.27 Google A2UI — 기본 추론 형식을 JSON에서 A2UI Express로, 같은 화면에 토큰·지연 최대 3배 감소
+· 11.06 Vercel json-render — 에이전트가 쓴 JSON 명세 하나가 Slack은 Block Kit, Teams는 Adaptive Cards로
+· 11.11 Google A2UI 1.0 — 첫 안정판, 에이전트는 등록된 디자인 시스템 부품만 쓴다. Atlassian·Bloomberg·ByteDance 등이 이걸로 개발 중
+· 11.14 Vercel Labs UI SDK — 컴포넌트 대신 동작 50+개, 설정 화면 한 과제에서 도구 호출 16회→5회(Vercel 자체 측정)
+· 11.14 Meta Astryx — v0의 디자인 시스템 스킬로 합류, 고르면 가이드·컴포넌트·예시·템플릿이 빌드 맥락에 실린다
+
+밀어서 7장 →
+
+출처: Google Developers Blog · Vercel · DEV Community · Astryx(Meta)
+사진: Google (A2UI 1.0 소개 영상)
+
+매일 아침 열 개 분야 AI 뉴스와 분야를 넘나드는 지식 그래프 → axitnow.com (프로필 링크)
+
+#AI #디자인 #생성형UI #디자인시스템 #AI에이전트 #axitnow
