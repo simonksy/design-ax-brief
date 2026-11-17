@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "issue": "Figma 3D 변환 출시 영상, 그 기능과 에이전트로 만들었다",
+    "date": "2026.11.12",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "Figma 공식 블로그(Chad Colby, Figma 모션 디자인 디렉터) 원문 대조. 게재일은 페이지 표기 'November 12, 2026'과 JSON-LD datePublished 2026-11-12T14:00Z(KST 23:00, 같은 날) — 초안 날짜 2026.11.15(수집일)를 11.12로 정정. 확인: 3D 변환은 오픈 베타, 대상은 'all Full seat users'. Deanna Gueli(브랜드 디자이너)가 첫 배치를 잡고 Z축 반복 배치를 Figma 에이전트에 맡김, 인용 'There was a tango back and forth: The agent did math, and I did the creative stuff'. Ben Hill(브랜드 모션 디자이너)이 에이전트로 격자·나선·링·무작위 분산 배치 생성형 플러그인을 만듦, 무작위 배치를 골라 사진·도형으로 교체 후 셰이더로 질감. 3D 변환은 Dev Mode에서 CSS transform으로 그대로 복사(모든 축 깊이·회전 포함), 코딩 에이전트는 Figma MCP 서버로 3D 디자인을 읽고 만듦. 'Figma 에이전트 정식 출시(GA)' 문장은 본문 중 별도 링크 블록이라 이 글의 발표로 단정하지 않고 쓰지 않음. 초안의 '올해 초 발표'(Config 2026, 6.24)는 장 수가 모자라 뺌. 영상: 초안 pipeline/media 클립 대신 블로그에 임베드된 Figma 공식 Vimeo 영상에서 직접 잘라 src/에 둠 — 출시 영상 'Full video'(vimeo 1245214203) 1–5s(타이틀)·12–16s(무작위 배치·셰이더 구간), 'Typography explore'(vimeo 1246310163) 0–4s. 매체 워터마크·자막 없음, 음성 제거. 카드 3·5는 quote·stat.",
+    "sources": [
+      "Figma Blog — How 3D transforms and Figma’s agent brought a launch video to life (2026.11.12)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/launch-title.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "AI × 디자인 · 2026.11.12",
+      "headline": "출시 영상도 3D로",
+      "body": "Figma 브랜드 스튜디오가 3D 변환 출시 영상을 바로 그 기능으로 만들었다. 계산과 반복 작업은 Figma 에이전트가 거들었다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/typography-z-axis.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "어떻게 만들었나",
+      "headline": "계산은 에이전트 몫",
+      "body": "브랜드 디자이너 Deanna Gueli는 단어 하나의 첫 배치만 잡고, Z축으로 반복해 늘어놓는 일은 에이전트에게 시켰다.",
+      "foot": "2026.11.12",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "탱고처럼 주고받았다.\n에이전트는 계산을, 나는 창작을.",
+      "quote_by": "Deanna Gueli · Figma 브랜드 디자이너",
+      "eyebrow": "직접 해 보니",
+      "headline": "에이전트와 탱고",
+      "body": "좌표를 일일이 계산하지 않으니 간격을 마음껏 바꿔 볼 수 있었다. 글자는 입체 기둥에 감겨 공간에서 돌았다.",
+      "foot": "2026.11.12",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "video": "src/launch-scatter.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "손 배치가 지루하면",
+      "headline": "배치 도구도 에이전트가",
+      "body": "모션 디자이너 Ben Hill은 요소를 격자·나선·고리·무작위로 흩는 플러그인을 에이전트에게 만들게 했다.",
+      "foot": "2026.11.12",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "캔버스 속 3D",
+      "stat_arrow": "Dev Mode에서 복사",
+      "stat_bottom": "CSS 코드",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "그린 3D가 곧 코드",
+      "body": "3D 변환은 Full 시트 사용자 대상 오픈 베타다. 코딩 에이전트도 Figma MCP 서버로 3D 디자인을 읽고 만든다.",
+      "foot": "2026.11.12",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

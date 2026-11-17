@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "에이전트 쇼핑, 결제 앞에서 멈춤",
+    "date": "2026.11.15",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 대조, 카드 날짜를 아카이브 날짜(11.12~11.15)에서 원문 게재일로 고침: Verge United 11.11·Podqi 11.12·Wallet 11.13, Salesforce 11.12, PPC Land 11.13(HUMAN 보고서 자체는 11.09). 순서를 게재일 순으로 바꿔 Wallet(결제마다 사람 승인)을 마지막에 둠. United 결제 차단·Kirby 발언(WSJ 인용), Podqi 151개 브랜드·답변 6,795개·Perplexity 15%·ChatGPT 8%·Gemini 4%(위험 사이트=사칭·짝퉁·재등록·죽은 도메인이라 '가짜 쇼핑몰'만이 아님→'위험 사이트'), Salesforce 20% 가까이·31%·19%, HUMAN 89%·85%·결제 1.9%, Wallet 미국 18세+ Pro·결제마다 생체 인증 확인. 5장 stat을 Muse/Comet 점유에서 결제 1.9%로 바꿔 흐름에 맞춤. 사진: 기존 Wallet 이미지는 Verge 일러스트(Cath Virginia / The Verge, Getty Images)라 빼고, 기사 속 OpenAI 제공 승인 화면(Image: OpenAI)으로 교체해 src/에 둠. 나머지는 quote·stat.",
+    "sources": [
+      "The Verge — United won't let your AI agent book your flight (2026.11.11)",
+      "The Verge — AI chatbots are recommending fake retail websites, study finds (2026.11.12)",
+      "Salesforce — New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready. (2026.11.12)",
+      "PPC Land — AI agent traffic is now a two-company town: Meta and OpenAI (2026.11.13)",
+      "The Verge — ChatGPT Wallet lets OpenAI's Dots agents make purchases for you (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 11.11~11.13",
+      "thread": [
+        {
+          "d": "11.11",
+          "t": "예약 차단",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.12",
+          "t": "가짜 쇼핑몰",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.12",
+          "t": "직접 결제",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.13",
+          "t": "결제 1.9%",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.13",
+          "t": "Wallet",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "AI 에이전트가 쇼핑 앞까지 왔지만 결제 버튼 앞에서 멈춘다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "에이전트 쇼핑,\n결제 앞에서 멈춤",
+      "body": "한 건씩 보면 차단·조사·신제품이다. 사흘치를 꿰면 에이전트는 몰려오는데 결제 버튼은 다들 사람 손에 남긴다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.11",
+      "headline": "United, 에이전트\n예약을 막다",
+      "body": "에이전트가 United 항공편을 보여 줄 수는 있어도 결제는 못 한다. 개인정보와 연방 규정 우려 때문이다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "_id": "united-ai-agent-ban",
+      "quote": "솔직히 또 하나의\n중간상을 만들고\n싶지 않다",
+      "quote_by": "United CEO Scott Kirby · WSJ 보도"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "챗봇이 가짜\n쇼핑몰을 띄운다",
+      "body": "Podqi가 151개 브랜드로 답변 6,795개를 따져 보니 세 챗봇 모두 사칭·짝퉁 같은 위험 사이트를 내밀었다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-fake-websites",
+      "_id": "podqi-chatbot-fake-retail-sites",
+      "stat_top": "ChatGPT 8%",
+      "stat_arrow": "위험 사이트가 섞인 답변 (Gemini 4%)",
+      "stat_bottom": "Perplexity 15%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "조사는 AI에,\n결제는 직접",
+      "body": "쇼핑객 20% 가까이가 AI부터 찾는다. 그런데 개인 에이전트 사용자 중 결제까지 맡겨 본 이는 19%뿐이다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.salesforce.com/news/stories/ai-first-holiday/",
+      "_id": "salesforce-ai-first-holiday-survey",
+      "stat_top": "개인 에이전트 써 봄 31%",
+      "stat_arrow": "그중 결제까지 맡긴 비율",
+      "stat_bottom": "19%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "에이전트 요청,\n결제는 1.9%",
+      "body": "HUMAN 집계로 10월 에이전트 요청 89%가 Meta·OpenAI에서 왔다. 대부분 둘러보기에 그쳤다.",
+      "foot": "2026.11.13",
+      "_src": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
+      "_id": "ppcland-agent-traffic-meta-openai",
+      "stat_top": "상품·검색 85%",
+      "stat_arrow": "10월 에이전트 요청이 향한 곳",
+      "stat_bottom": "결제 단계 1.9%",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "Wallet도 승인은 사람",
+      "body": "미국 Pro 이용자부터 Dots 에이전트가 카드로 대신 산다. 그래도 결제마다 Face ID나 지문으로 사람이 승인한다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "_id": "chatgpt-wallet-dots-checkout",
+      "media": "src/openai-chatgpt-wallet-approval.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
