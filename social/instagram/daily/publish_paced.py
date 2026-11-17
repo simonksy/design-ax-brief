@@ -1,6 +1,6 @@
 """Publish `!` sets one at a time, GAP seconds apart, alternating story/trend.
 
-usage: python3 social/instagram/daily/publish_paced.py [--gap 840] [--date YYYY-MM-DD]
+usage: python3 social/instagram/daily/publish_paced.py [--gap 420] [--date YYYY-MM-DD]
 Order comes from publish.marked_posts() (oldest date first, story/trend paired).
 publish.publish() never resends after a rate-limit response and renames ! → *.
 The last post's kind and time persist in STATE, so the gap and the alternation
@@ -11,7 +11,7 @@ import publish as P
 
 STATE = os.path.expanduser("~/.design-ax-brief/ig-last-post")
 ap = argparse.ArgumentParser()
-ap.add_argument("--gap", type=int, default=840)
+ap.add_argument("--gap", type=int, default=420)
 ap.add_argument("--date", help="only sets under this date folder")
 a = ap.parse_args()
 ts = lambda: time.strftime("%H:%M:%S")

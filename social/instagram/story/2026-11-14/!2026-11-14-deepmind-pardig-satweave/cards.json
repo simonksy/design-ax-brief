@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "issue": "DeepMind, 날씨 AI 학습 데이터 SatWeave·PARDIG 공개",
+    "date": "2026.11.13",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "Google DeepMind 공식 블로그(WeatherNext 팀, 본문 표기 November 13, 2026 · datePublished 2026-11-13T12:00Z) 원문 대조. 정정: 초안 날짜 2026.11.14 → 게재일 2026.11.13. 확인: SatWeave = GOES-East·West, Meteosat 0·Indian Ocean, Himawari 정지궤도 위성 영상을 17개 가시광·수증기·적외선 채널의 전 지구 모자이크로 엮음, 매시간 갱신(분석 자료 6시간 주기로 초기화하는 모델과 대비), 기존 합성본은 채널 4개 이하이거나 몇 시간마다 갱신, 실시간 피드 + 10년 넘는 과거 자료. 위성 수는 본문 'five satellites'와 영상 설명 'six geostationary satellites'가 엇갈려 숫자를 싣지 않고 이름만 적음. PARDIG = Precipitation AI Reanalysis: Densely Inferred GPM, NASA GPM Core Observatory 위성 레이더로 학습(입력: SatWeave 영상 + ECMWF 대기장), 15분 간격·약 10km, 평균 약 5시간 지연. 미국·유럽·일본 레이더망과 3만 6천여 관측소로 평가, 약~중간 강수의 시간당 탐지력이 IMERG-Final보다 30% 넘게 높음(DeepMind 자체 평가로 귀속). 과거 자료 1999~2026년, Google Cloud Storage 공개, PARDIG 과거 자료는 Earth Engine에도. 인용(5장)은 블로그 문장 번역. 영상: DeepMind 블로그 공식 영상 두 개 — SatWeave 9.6μm 모자이크(검은 가장자리 잘라 960×640), 2025년 7월 텍사스 힐 컨트리 홍수 강수 비교(960×540을 배경색으로 위아래 채워 960×640). 초안 pipeline/media 클립은 쓰지 않음.",
+    "sources": [
+      "Google DeepMind — Opening the datasets behind our AI weather models (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/satweave-mosaic.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "AI × 과학 · 2026.11.13",
+      "headline": "날씨 AI 재료 공개",
+      "body": "Google DeepMind가 WeatherNext 3를 키운 데이터셋 두 개, SatWeave와 PARDIG를 누구나 쓰게 공개했다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "6시간마다",
+      "stat_arrow": "예보를 새로 시작하는 주기",
+      "stat_bottom": "1시간마다",
+      "stat_strike": false,
+      "eyebrow": "SatWeave는 뭔가",
+      "headline": "위성 영상을 한 장으로",
+      "body": "미국·유럽·일본 정지위성 영상을 17개 채널로 엮은 전 지구 모자이크다. 매시간 갱신돼 예보도 매시간 새로 낸다.",
+      "foot": "2026.11.13",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/pardig-texas-flood.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "PARDIG는 뭔가",
+      "headline": "위성이 배운 비 지도",
+      "body": "NASA 강수 위성의 레이더 관측으로 학습한 AI 강수 지도다. 15분 간격, 약 10km 해상도로 전 지구를 덮는다.",
+      "foot": "2026.11.13",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "NASA IMERG-Final",
+      "stat_arrow": "약한~보통 비, 시간당 탐지력",
+      "stat_bottom": "30% 넘게 높다",
+      "stat_strike": false,
+      "eyebrow": "얼마나 정확한가",
+      "headline": "기존 강수 자료를 넘다",
+      "body": "미국·유럽·일본 레이더망, 관측소 3만 6천여 곳과 견준 DeepMind 자체 평가다. 폭우도 더 잘 잡았다.",
+      "foot": "2026.11.13",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "위성에서 직접 배우니, 지상 관측이\n없는 곳에서도 정확하리라 본다.",
+      "quote_by": "Google DeepMind · WeatherNext 팀",
+      "eyebrow": "그래서 지금",
+      "headline": "레이더 없는 곳까지",
+      "body": "실시간 자료와 과거 기록(PARDIG는 1999년부터)을 Google Cloud에 열었다. 홍수·산사태·가뭄 연구를 겨눈다.",
+      "foot": "2026.11.13",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

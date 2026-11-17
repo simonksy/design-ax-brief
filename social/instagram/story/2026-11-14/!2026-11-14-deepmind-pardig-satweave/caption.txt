@@ -1,0 +1,19 @@
+DeepMind, 날씨 AI 학습 데이터 SatWeave·PARDIG 공개
+
+Google DeepMind가 날씨 예보 모델 WeatherNext 3를 키운 데이터셋 두 개, SatWeave와 PARDIG를 공개했습니다. 실시간 피드와 과거 자료를 모두 Google Cloud에 열어 누구나 날씨·수문·기후 연구에 쓸 수 있습니다.
+
+· SatWeave: 미국 GOES, 유럽 Meteosat, 일본 Himawari 정지위성 영상을 17개 채널로 엮은 전 지구 모자이크. 매시간 갱신돼 6시간마다 바뀌는 분석 자료 대신 매시간 새 예보를 시작할 수 있다
+· PARDIG: NASA GPM 위성 레이더로 학습한 AI 강수 지도. 15분 간격, 약 10km 해상도, 평균 약 5시간 지연
+· DeepMind 평가로 약한~보통 비의 시간당 탐지력이 NASA IMERG-Final보다 30% 넘게 높고, 폭우에서도 강했다
+· 과거 자료는 SatWeave 10년 이상, PARDIG 1999~2026년. PARDIG 과거 자료는 Google Earth Engine에도 올라갔다
+
+지상 레이더가 촘촘하지 않은 곳에서 홍수·가뭄을 읽을 재료가 생긴 셈입니다.
+
+밀어서 6장 →
+
+출처: Google DeepMind 블로그 (2026.11.13)
+영상: Google DeepMind
+
+매일 아침 열 개 분야 AI 뉴스와 분야를 넘나드는 지식 그래프 → axitnow.com (프로필 링크)
+
+#AI #날씨AI #DeepMind #WeatherNext #기후 #axitnow
