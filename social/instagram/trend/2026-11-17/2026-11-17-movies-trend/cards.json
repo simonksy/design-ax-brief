@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "편집실 AI, 잡일부터 맡다",
+    "date": "2026.11.17",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Firefly 11.13→11.11, Variety 11.15→11.13, postPerspective 두 건 11.17→11.16). 수치 120명·77.5%·7.5%(Variety), Resolve의 Claude·Claude Code·ChatGPT Codex 연동과 하이라이트 편집·클립 삭제·출력(Caniglia 인터뷰), HPA의 배경 제거·업스케일·세트 확장과 '렌더 말고 리테이크 예산' 확인. Firefly 영상은 11-13 story에서 써서 stat로, Resolve·HPA 스틸은 사진 한 장 규칙에 따라 quote·stat로 바꿈.",
+    "sources": [
+      "RedShark News — Adobe Firefly Build a story and video assembler (2026.11.11)",
+      "Variety — Nearly 80% of ACE Editors Surveyed Are Using AI, New Report Finds (2026.11.13)",
+      "postPerspective — Virtual Content Creator Roundtable (2026.11.16)",
+      "postPerspective — HPA NET Roundtable: AI as a Second Unit (2026.11.16)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.11~11.16",
+      "thread": [
+        {
+          "d": "11.11",
+          "t": "자동 조립",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.13",
+          "t": "편집자 조사",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.16",
+          "t": "AI 비서",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.16",
+          "t": "세컨드유닛",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "편집실의 AI는 대신 만들기보다 반복 작업부터 맡는다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "편집실 AI,\n잡일부터 맡다",
+      "body": "도구 하나만 보면 '자동 편집'이다. 편집자 조사와 현장 토론을 겹쳐 보면 AI가 먼저 맡는 건 창작이 아니라 반복 작업이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "Firefly,\n아이디어에서 클립까지",
+      "body": "Adobe가 MAX 2026에서 베타 공간 두 개를 더했다. 프롬프트가 장면·숏 구성을 거쳐 한 트랙짜리 짧은 영상으로 조립된다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.redsharknews.com/adobe-firefly-build-story-assemble-short-video",
+      "_id": "firefly-build-story-assemble",
+      "stat_top": "프롬프트 한 줄",
+      "stat_arrow": "장면·숏 제안, 숏마다 첫 프레임",
+      "stat_bottom": "짧은 영상 조립",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "편집자 77.5%가\n이미 AI를 쓴다",
+      "body": "Avid가 ACE 회원 120명을 조사했다. 다만 숏 조립·러프컷을 AI에 맡기고 싶다는 답은 7.5%뿐이었다.",
+      "foot": "2026.11.13",
+      "_src": "https://variety.com/2026/biz/news/surveyed-ace-editors-using-ai-avid-data-finds-1236947004/",
+      "_id": "movies-ace-editors-avid-survey",
+      "media": "pipeline/media/movies-ace-editors-avid-survey.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.16",
+      "headline": "Resolve, AI 비서에\n반복 편집을",
+      "body": "Resolve 새 기능은 Claude·Codex 같은 AI 비서와 연동해 하이라이트 편집, 불필요한 클립 삭제, 출력을 맡긴다.",
+      "foot": "2026.11.16",
+      "_src": "https://postperspective.com/virtual-content-creator-roundtable/",
+      "_id": "resolve-ai-assistant-editing",
+      "quote": "반복 작업은 AI가 맡고\n창작자는 작품에 집중합니다.",
+      "quote_by": "Bob Caniglia · Blackmagic Design"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "AI는\n세컨드 유닛으로",
+      "body": "HPA 토론에서 후반 현장은 AI를 장면 생성보다 배경 제거·업스케일·세트 확장에 쓴다고 했다. 진짜 비용은 리테이크다.",
+      "foot": "2026.11.16",
+      "_src": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/",
+      "_id": "hpa-net-ai-second-unit",
+      "stat_top": "렌더 예산",
+      "stat_arrow": "현장이 꼽은 진짜 비용",
+      "stat_bottom": "리테이크 예산",
+      "stat_strike": true
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

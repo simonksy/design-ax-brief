@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 음악 분쟁, 학습 허락으로",
+    "date": "2026.11.17",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(BPI 11.14→CMU 11.13, Elvis 11.17→DMN 11.16). 수치 6,324건·28,194쪽(Nvidia 취소 신청), 859곡·스트리밍 수집 학습(Elvis 수정 소장), BPI 'significant consequences', ARIA·PPCA 'Not AI's to Take' 11.17 출범·permission-first 확인. 사진은 Elvis 카드 하나만.",
+    "sources": [
+      "Digital Music News — Nvidia Moves to Quash Deposition Subpoena in UMG v. Suno (2026.11.12)",
+      "CMU — Getty v Stability ruling could allow AI companies to offshore training to circumvent UK copyright law, says BPI (2026.11.13)",
+      "Digital Music News — Elvis Presley Enterprises Files Amended Suno Lawsuit (2026.11.16)",
+      "Australasian Leisure Management — Australian creative sector launches campaign against unauthorised AI use of copyright material (2026.11.17)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.12~11.17",
+      "thread": [
+        {
+          "d": "11.12",
+          "t": "투자사 실사",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.13",
+          "t": "역외 학습",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.16",
+          "t": "859곡",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.17",
+          "t": "허락 먼저",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 음악 분쟁의 쟁점이 허락 없이 무엇으로 학습했느냐로 모인다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 음악 분쟁,\n학습 허락으로",
+      "body": "한 건씩은 소송 하나, 캠페인 하나다. 엿새 새 미국·영국·호주에서 모두 학습 데이터를 따졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "학습 데이터 실사까지\n법정에 불려 나오다",
+      "body": "UMG·Sony가 Suno 투자사 Nvidia에 학습 데이터 실사 자료와 증언을 요구했다. Nvidia는 소환 취소를 구했다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.digitalmusicnews.com/2026/11/11/nvidia-suno-umg-subpoena-quash-motion/",
+      "_id": "nvidia-suno-subpoena-quash",
+      "stat_top": "6,324건 · 28,194쪽",
+      "stat_arrow": "이미 낸 문서라며 증언 소환엔",
+      "stat_bottom": "취소 신청",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.13",
+      "headline": "학습은 해외에서,\n판매는 UK에서?",
+      "body": "1심은 미국에서 학습한 모델을 UK에서 팔아도 침해가 아니라고 봤다. BPI는 항소심에서 역외 학습 우회를 경고했다.",
+      "foot": "2026.11.13",
+      "_src": "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/",
+      "_id": "bpi-getty-offshore-training",
+      "quote": "이 사건은\n창작 산업에 중대한\n결과를 낳을 수 있다",
+      "quote_by": "BPI · UK 항소법원, Getty v. Stability AI"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "스트리밍에서 긁어\n학습했다는 859곡",
+      "body": "Elvis Presley Enterprises 등이 Suno 소송 소장을 고쳐 냈다. 스트리밍에서 곡을 긁어 학습에 썼다고 본다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.digitalmusicnews.com/2026/11/16/elvis-presley-enterprises-amended-suno-lawsuit/",
+      "_id": "elvis-suno-amended-suit",
+      "media": "pipeline/media/elvis-suno-amended-suit.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "호주 음악계,\n허락이 먼저다",
+      "body": "ARIA·PPCA가 Not AI's to Take 캠페인을 열었다. AI 기업이 쓰기 전에 동의를 받고 조건을 협상하라는 요구다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
+      "_id": "aria-ppca-notaistotake",
+      "stat_top": "옵트아웃 말고",
+      "stat_arrow": "ARIA·PPCA가 요구하는 방식",
+      "stat_bottom": "허락 먼저",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

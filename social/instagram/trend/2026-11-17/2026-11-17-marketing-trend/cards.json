@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "결제 버튼을 누가 쥐나",
+    "date": "2026.11.17",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 대조(curl): United 예약 차단 사유, Wallet은 US Pro·매번 확인, Salesforce 31%·19%·20% 가까이, eBay 약관 문구·사전 허가, Google AI Mode·Google Pay 호텔 예약 확인. 카드 날짜는 아카이브 기준, 원문 게재일은 출처 줄에. United·Wallet 사진은 11-13·11-15 회차에서 이미 써서 stat/quote로, 사진은 eBay 한 장만.",
+    "sources": [
+      "The Verge — United won't let your AI agent book your flight (2026.11.11)",
+      "The Verge — ChatGPT Wallet lets OpenAI's Dots agents make purchases for you (2026.11.13)",
+      "Salesforce — The AI-First Holiday: Shoppers Let Agents Do the Legwork (2026.11.12)",
+      "PPC Land — eBay bans the robot shopper, unless eBay sends the invitation (2026.11.13)",
+      "PPC Land — Google steers holiday hotel, dinner and ticket bookings into AI Mode (2026.11.16)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 11.12~11.17",
+      "thread": [
+        {
+          "d": "11.12",
+          "t": "항공 차단",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.14",
+          "t": "대신 결제",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.15",
+          "t": "결제는 직접",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.16",
+          "t": "허가제",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.17",
+          "t": "자사 예약",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "AI 에이전트 쇼핑의 승부처는 마지막 결제 버튼이다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "결제 버튼을\n누가 쥐나",
+      "body": "차단, 지갑, 설문을 따로 보면 각각 작은 소식이다. 이어 보면 모두 마지막 결제 한 번을 누가 쥐느냐를 두고 움직인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "United,\n에이전트 예약 차단",
+      "body": "개인 AI 비서가 항공편은 보여줘도 예약은 못 한다. United는 개인정보와 규제 우려를 이유로 든다.",
+      "foot": "2026.11.12",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "_id": "united-ai-agent-ban",
+      "stat_top": "항공편 보여주기",
+      "stat_arrow": "에이전트가 할 수 있는 건 거기까지",
+      "stat_bottom": "예약은 차단",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.14",
+      "headline": "ChatGPT Wallet,\n에이전트가 결제",
+      "body": "미국 Pro 이용자부터 Dots 에이전트가 등록한 카드로 대신 산다. 결제 전에는 매번 사용자 확인을 받는다.",
+      "foot": "2026.11.14",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "_id": "chatgpt-wallet-dots-checkout",
+      "quote": "웹사이트는 에이전트가\n실수로 막히지 않게\n해야 한다",
+      "quote_by": "OpenAI, ChatGPT Wallet 발표에서"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.15",
+      "headline": "조사는 맡기고\n결제는 직접",
+      "body": "쇼핑객 20% 가까이가 AI부터 찾는다. 하지만 개인 에이전트 사용자 중 결제까지 맡긴 사람은 19%다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.salesforce.com/news/stories/ai-first-holiday/",
+      "_id": "salesforce-ai-first-holiday-survey",
+      "stat_top": "에이전트 써 본 소비자 31%",
+      "stat_arrow": "그중 결제까지 맡긴 사람",
+      "stat_bottom": "19%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "eBay,\n허가 없는 에이전트 금지",
+      "body": "약관이 buy-for-me 에이전트와 LLM 봇을 막는다. 사전 허가가 필요하지만 누가 받았는지는 밝히지 않는다.",
+      "foot": "2026.11.16",
+      "_src": "https://ppc.land/ebay-bans-the-robot-shopper-unless-ebay-sends-the-invitation/",
+      "_id": "ebay-agent-ban-useragreement",
+      "media": "pipeline/media/ebay-agent-ban-useragreement.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "Google,\n예약은 AI Mode 안에서",
+      "body": "미국에선 AI Mode에서 Google Pay로 호텔을 예약한다. 호텔이나 여행 사이트 페이지를 거치지 않는다.",
+      "foot": "2026.11.17",
+      "_src": "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/",
+      "_id": "google-aimode-hotel-booking",
+      "stat_top": "호텔 사이트 방문",
+      "stat_arrow": "AI Mode에서 Google Pay로",
+      "stat_bottom": "예약 끝",
+      "stat_strike": true
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

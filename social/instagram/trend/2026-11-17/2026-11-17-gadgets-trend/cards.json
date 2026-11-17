@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "에이전트가 손을 얻자 OS가 고삐를 쥔다",
+    "date": "2026.11.17",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조. SamMobile 본문은 '134개 앱'이라 쓰지만 실린 목록은 114개(아카이브 수치)라 앱 수 대신 지원 기종 9개를 씀. Gemini 영상은 11-14 story에 쓰여 stat으로, Perplexity는 공식 출시 트윗 문구로 quote, SlashVibe는 Kickstarter 수치(11.15 1:39 PM CT 기준 $122,881·552명·$10,000 목표)로 stat. 사진은 macOS 한 장만. macOS 원문엔 Claude 언급이 없어 뺐다.",
+    "sources": [
+      "SamMobile — Gemini's AI task automation will work with dozens of apps on Galaxy phones (2026.11.13)",
+      "Digital Trends — Perplexity Teammates bring autonomous AI agents to the Mac app (2026.11.14)",
+      "The Gadgeteer — SlashVibe: open-source AI agent desk controller on Kickstarter (2026.11.15)",
+      "MacRumors — macOS 27.3 Warns Against Giving AI Apps Full Mac Control (2026.11.16)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 11.14~11.17",
+      "thread": [
+        {
+          "d": "11.14",
+          "t": "앱 대행",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.15",
+          "t": "맡기기",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.16",
+          "t": "리모컨",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.17",
+          "t": "OS 경고",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 에이전트가 기기를 대신 조작하기 시작하자, 운영체제가 권한의 고삐를 쥐기 시작했다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "에이전트가 손을 얻자\nOS가 고삐를 쥔다",
+      "body": "앱 대신 누르기, 맡기고 자리 뜨기, 책상 위 리모컨. 하나씩 보면 신기능인데 사흘 뒤 Apple이 경고부터 걸었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.14",
+      "headline": "폰 속 앱, Gemini가 누른다",
+      "body": "음식 주문·차량 호출·항공권 예약을 Gemini가 앱 안에서 대신 한다. Android 17 이상 2026년형 Galaxy부터다.",
+      "foot": "2026.11.14",
+      "_src": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/",
+      "_id": "gadgets-gemini-task-automation-galaxy",
+      "stat_top": "Galaxy S26·Z Fold 8·Tab S12…",
+      "stat_arrow": "Gemini 작업 자동화 지원",
+      "stat_bottom": "9개 기종",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.15",
+      "headline": "맡기고 노트북을 덮는다",
+      "body": "Teammates가 Mac 앱에 왔다. 클라우드에서 돌아 컴퓨터를 닫아도 일한다. 월 $200 Max 구독자 전용이다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.digitaltrends.com/computing/perplexity-teammates-bring-autonomous-ai-agents-to-the-mac-app/",
+      "_id": "perplexity-teammates-mac",
+      "quote": "세션마다 프롬프트를 쓰던 데서\n큰 목표를 맡기는 쪽으로",
+      "quote_by": "Perplexity · Teammates 출시 공지"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "에이전트 지휘용 리모컨",
+      "body": "화면과 떼어 쓰는 컨트롤러로 에이전트를 부린다. 세션 기록은 내 기기에만 남는다고 했다. 얼리버드 $189.",
+      "foot": "2026.11.16",
+      "_src": "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/",
+      "_id": "slashvibe-agent-controller",
+      "stat_top": "Kickstarter 목표 $10,000",
+      "stat_arrow": "552명이 밀어준 금액",
+      "stat_bottom": "$122,881",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "Apple, 전권 주기 전 경고",
+      "body": "macOS 27.3 베타는 필요한 앱·폴더만 허용하게 하고 매번 묻기도 둔다. 앱이 다른 앱을 조종하면 메뉴 막대에 표시된다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
+      "_id": "macos-273-ai-agent-warning",
+      "media": "pipeline/media/macos-273-ai-agent-warning.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
