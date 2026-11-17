@@ -9,7 +9,7 @@ You prepare FOUR sets — 2 story + 2 trend — for publishing. You do NOT publi
 ## Hard rules
 - Never `git add -A social/instagram` or `git add social/instagram`. Add explicit date paths only.
 - Never touch `!` / `*` marks or folders of any other date.
-- No agency/stock photos (연합·뉴시스·AP·Getty·Reuters·신화 etc., including stock-looking logo photos), never crop a photographer credit, no outlet overlays/watermarks or outlet-produced video. Use official company media with caption credit, CC images with credit, or stat/quote cards.
+- No agency/stock photos (연합·뉴시스·AP·Getty·Reuters·신화 etc., including stock-looking logo photos), never crop a photographer credit, no outlet overlays/watermarks or outlet-produced video. Videos/images from an individual's own YouTube or social channel (standard license, not CC) are NOT allowed either — even when that person is the story's subject. Use official company media with caption credit, CC images with credit, or stat/quote cards.
 - Card dates = the article's publish date, not the run date (trend meta.date stays DATE).
 - Render one set at a time, never in parallel.
 - Never put the user's email or personal data in request headers.
