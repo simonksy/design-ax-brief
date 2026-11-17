@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "issue": "13년 묵은 정보이론 추측, Gemini 에이전트 팀과 증명",
+    "date": "2026.11.13",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "Google Research 블로그 원문(Vahab Mirrokni, 2026.11.13 게재) 직접 대조(2026.11.17 접속, 200 OK). 정정: 초안 날짜 2026.11.16 → 원문 게재일 2026.11.13. 초안 마지막 장 'Gemini 에이전트가 Courtade-Kumar 증명을 Lean 4로 완성했다'는 과장 — 원문은 'The team formalized the entire proof in Lean 4'(구글·CUHK·USC·CMU 공동 연구팀)이고, 'All of this work is done in collaboration with human experts'라 귀속을 연구팀으로 고침. 분업 확인: CUHK팀이 새 후보 함수로 문제를 변수 14개 최적화로 좁히고 핵심 하한을 냄 / Gemini 4 Argon과 이전 Gemini 모델이 매개변수 공간을 나눠 새 해석적 경계·구간 산술 증명서 대부분을 세움 / 균형 함수→불균형 함수 확장은 사람 입력 없이. Lean 4 형식화 5,000만 줄(50 million lines of code) 원문 그대로. 9×9 바둑 엔진: 기본 AlphaZero 구현에서 출발, 8일 미만에 약 2,600 Elo 상승(1,885 Elo 도달), 영상 속 흑=최종 챔피언·백=출발 네트워크, 22.5집 승 — 원문 캡션과 일치. 공개 범위: Gemini 4 + /teamwork·/boost는 Antigravity와 Deep Review에서 오늘부터 외부 이용 가능, 학계 연구자 1만 명에게 최상위 등급 6개월 무료 신청 개방. 형식 증명 패턴은 '추후 업데이트로' 들어온다고 적혀 있어 '지금 쓸 수 있다'고 쓰지 않음. 증명 논문의 동료 심사 여부는 원문에 없어 언급하지 않음(모든 성과는 구글 발표 기준). 초안 영상(pipeline/media 클립)은 버리고, 원문에 실린 Google Research 공식 영상 AntigravityTeamwork_HillClimbing_1x.mp4 원본을 src/에 받아 4번 장에만 씀 — 위 'Move N of 93' 띠와 아래 범례·결과 문구는 trim_top/trim_bottom으로 잘라냄. 나머지 장은 stat·quote(외부 미디어 없음). 히어로 이미지는 영문 제목이 박혀 있어 쓰지 않음.",
+    "sources": [
+      "Google Research — Advancing science & engineering with Antigravity's /teamwork (2026.11.13)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "2013년 추측",
+      "stat_arrow": "Gemini 에이전트 팀과 함께",
+      "stat_bottom": "완전 증명",
+      "stat_strike": false,
+      "eyebrow": "AI × 과학 · 2026.11.13",
+      "headline": "13년 난제, 풀렸다",
+      "body": "구글·CUHK·USC·CMU 연구진이 Antigravity의 /teamwork로 정보이론 Courtade–Kumar 추측을 증명했다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "균형 함수",
+      "stat_arrow": "사람 입력 없이 확장",
+      "stat_bottom": "불균형 함수까지",
+      "stat_strike": false,
+      "eyebrow": "누가 무엇을 했나",
+      "headline": "경계 대부분은 Gemini",
+      "body": "CUHK팀이 문제를 변수 14개 최적화로 좁혔고, 새 해석적 경계 대부분은 Gemini 4 Argon 등이 세웠다.",
+      "foot": "2026.11.13",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "증명 전체",
+      "stat_arrow": "Lean 4로 형식화",
+      "stat_bottom": "코드 5천만 줄",
+      "stat_strike": false,
+      "eyebrow": "어떻게 믿나",
+      "headline": "5천만 줄로 검증",
+      "body": "Lean에선 컴퓨터가 논리를 한 줄씩 따진다. 한 단계라도 틀리면 컴파일되지 않는다.",
+      "foot": "2026.11.13",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "video": "src/teamwork-go-hillclimb.mp4",
+      "start": 20,
+      "dur": 4,
+      "trim_top": 0.052,
+      "trim_bottom": 0.177,
+      "eyebrow": "수학 밖에서는",
+      "headline": "바둑 엔진도 8일 만에",
+      "body": "기본 AlphaZero에서 출발한 9×9 바둑 엔진이 8일이 안 돼 Elo를 약 2,600 올렸다. 흑이 최종판이다.",
+      "foot": "2026.11.13",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "이 모든 작업은\n인간 전문가와 함께했다.",
+      "quote_by": "Google Research 블로그",
+      "eyebrow": "그래서 지금",
+      "headline": "함께 풀고, 이제 공개",
+      "body": "/teamwork·/boost는 오늘부터 Antigravity에서 쓸 수 있다. 연구자 1만 명에겐 6개월 무료 신청도 받는다.",
+      "foot": "2026.11.13",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
