@@ -5227,6 +5227,139 @@
           "x": "Las habilidades de agente de AdMob ofrecen a tu agente de AI guías prediseñadas y probadas para tareas como migrar al Google Mobile Ads Next-Gen SDK e implementar nuevos formatos de anuncio. Un servidor MCP de AdMob, en pruebas iniciales, permitirá a los agentes leer datos de la cuenta, crear nuevos bloques de anuncios y gestionar la configuración de mediación, y se ampliará a más desarrolladores a principios del próximo año."
         }
       ]
+    },
+    "marketing/msads-bidding-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/microsoft-logo-glow-dhO7bXu2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft anunció la \"mayor actualización de los modelos de puja en una década\" dentro de Microsoft Advertising."
+        },
+        {
+          "t": "p",
+          "x": "Lo que, según Microsoft, cambia: las pujas cumplen los objetivos de CPA y ROAS de los anunciantes de forma más constante sin renunciar a volumen ni a valor de conversión; las pujas se ajustan casi el doble de rápido cuando el anunciante actualiza un objetivo de CPA o ROAS; y el presupuesto se reparte de forma más uniforme a lo largo del día, con campañas que alcanzan antes el presupuesto completo."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados, según Microsoft: Maximize Conversion Value / Target ROAS obtuvo un 10% más de valor de conversión por clic con un ROAS similar. Pasar de Target CPA a Target ROAS aportó de media un 8% más de valor de conversión manteniendo un ROAS similar. Pasar de eCPC a Maximize Conversions con un objetivo de CPA aportó un 18% más de conversiones con un coste por acción similar."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising prometió más mejoras de este tipo hacia 2027 y afirmó que esta es la \"primera fase de nuestras actualizaciones, y seguiremos aplicando mejoras automáticamente a más cuentas con el tiempo\"."
+        }
+      ]
+    },
+    "marketing/ai-mode-clicks-field-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/11/google-ai-mode-field-test-cuts-website-clicks-18-8-points-bing-switch-answer-booth-arrows.jpg",
+          "cap": "El AI Mode de Google reduce 18,8 puntos los clics a sitios web y lleva a los usuarios a Bing, según un experimento de campo"
+        },
+        {
+          "t": "p",
+          "x": "Un experimento de campo prerregistrado de investigadores de la University of Pennsylvania y la Northeastern University halló que dirigir todas las búsquedas de Google a AI Mode redujo los clics a sitios web externos en 18,8 puntos porcentuales frente a la Google Search estándar. El artículo, \"AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence\", se publicó en arXiv el 18 de agosto de 2026 y no ha pasado revisión por pares."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo de campo se realizó en marzo de 2026 con 1.100 usuarios de Google en Estados Unidos, repartidos en tres condiciones: No AI Search, Current Search y AI Mode Search. Frente a Current Search, AI Mode redujo la proporción de usuarios que hicieron clic en sitios de noticias en 12,5 puntos, en Reddit en 21,2 puntos y en Wikipedia en 9,9 puntos. La confianza en la información de Google cayó 0,34 puntos en una escala de 7 puntos, y la satisfacción bajó 0,73 desviaciones estándar. Los usuarios de AI Mode también tuvieron 11,2 puntos más de probabilidad de usar Bing, DuckDuckGo o Yahoo."
+        },
+        {
+          "t": "p",
+          "x": "Eliminar AI Overviews mostró un aumento estimado de 8,8 puntos en la tasa de clics, pero esa cifra depende de un ajuste estadístico hecho después de que un cambio de código de Google inutilizara el filtro del estudio. El estudio duró siete días, usó una muestra joven y de tendencia izquierdista, e impuso AI Mode a personas que lo habían usado en cerca del 0,6% de sus búsquedas. AI Mode no mostró anuncios durante el estudio, aunque Google había introducido formatos patrocinados a comienzos de 2026. Los autores afirman que la búsqueda con AI \"presenta una clara disyuntiva\"."
+        }
+      ]
+    },
+    "marketing/kakao-kanana-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/10/20261013_kakao_CEO.jpeg",
+          "cap": "Chung Shin-a, consejera delegada de Kakao, habla el día 13 en la conferencia tecnológica 'if(kakao)', celebrada en el Kakao AI Campus de Yongin, provincia de Gyeonggi (Fuente: Byline Network)"
+        },
+        {
+          "t": "p",
+          "x": "Kakao impulsará de lleno un negocio de agentes de inteligencia artificial (AI) que permitirá completar dentro de KakaoTalk todo el proceso, desde el pedido de productos hasta el pago, junto con unas 15 empresas de reparto, tiendas de conveniencia y teletienda antes de fin de año. Kakao presentará su servicio de comercio agéntico la mañana del 16 del próximo mes en el Grand InterContinental Seoul Parnas de COEX, firmará memorandos de entendimiento (MOU) con unas 15 empresas y después hará una demostración del servicio."
+        },
+        {
+          "t": "p",
+          "x": "El usuario pide productos de socios externos por voz o chat a través de agentes de AI de KakaoTalk como Kanana y completa también el pago. La autenticación y el pago se hacen con la cuenta de Kakao y KakaoPay. A diferencia del actual 'ChatGPT for Kakao', se puede ir del pedido al pago sin salir de KakaoTalk. No obstante, el evento de diciembre se centrará en la presentación y la demostración, y se prevé que el servicio real empiece a operar el próximo año."
+        },
+        {
+          "t": "p",
+          "x": "En la conferencia de resultados del tercer trimestre, Chung Shin-a explicó que Kakao conectará directamente con los principales servicios verticales mediante A2A y MCP, y que con muchos otros servicios usará pedidos y pagos a través del navegador (CUA). También subrayó que A2A y MCP reducen el coste de las llamadas al modelo hasta 1/180."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, se ha señalado que los detalles operativos y las condiciones de colaboración aún no están del todo definidos, y según se informa, Coupang Eats, que antes había acordado sumarse, y algunas de las empresas ya integradas en ChatGPT for Kakao no participarán en este evento."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-adclarity-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73056_2840.jpg",
+          "cap": "Ejemplo de anuncio en ChatGPT (Fuente: OpenAI)"
+        },
+        {
+          "t": "p",
+          "x": "Según AdClarity, el gasto publicitario mundial en ChatGPT en octubre de 2026 fue de 110,6 millones de dólares, unas tres veces más que en abril, cuando comenzó el seguimiento. Sumando los siete meses de abril a octubre, el gasto se acerca a 500 millones de dólares. Según datos de OpenAI, al 21 de octubre ChatGPT superaba los 100.000 anunciantes en todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "En abril, más del 92% del gasto procedía de Estados Unidos, pero en octubre bajó a menos del 64%. El gasto mensual en el Reino Unido pasó de 2,1 millones a 6,2 millones de dólares, un aumento del 195%, y en Japón, de 2,9 millones a 5,9 millones de dólares, un aumento del 103%."
+        },
+        {
+          "t": "p",
+          "x": "Las empresas que se anunciaron en un mes en Estados Unidos pasaron de 839 en abril a 17.934 en agosto, unas 21 veces más, pero el gasto mensual se mantuvo en torno a 90 millones de dólares. Las 100 principales empresas concentraron el 43% del gasto total, y las 1.000 principales, el 79%."
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73057_3111.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Por sectores, la industria del software gastó cerca del 25% del gasto publicitario mundial en ChatGPT entre abril y octubre. Las cifras son estimaciones de AdClarity, no ingresos publicitarios anunciados oficialmente por OpenAI."
+        }
+      ]
+    },
+    "marketing/google-ads-pmax-visual-guidelines": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads añadió una nueva opción dentro de las pautas de marca de las campañas de Performance Max para agregar pautas visuales. El texto dice: “Ahora puede añadir referencias y preferencias de estilo para orientar cómo se crean y mejoran las imágenes de sus anuncios”."
+        },
+        {
+          "t": "p",
+          "x": "Lo detectó primero Marcin Wsół, que lo publicó en LinkedIn, y después Hana Kobzová lo compartió en PPC News Feed, donde escribió: “Google Ads ha introducido una nueva sección en las campañas de Performance Max que permite a los anunciantes aportar pautas visuales para imágenes AI-generated (generadas por AI). Esta sección ayuda a los anunciantes a definir los estilos de imagen esperados, especificar el contenido e identificar los elementos que deben evitarse”."
+        },
+        {
+          "t": "p",
+          "x": "Estas son algunas capturas de pantalla:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+          "cap": "Las pautas de marca de Google Ads añaden pautas visuales"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+          "cap": "Las pautas de marca de Google Ads añaden pautas visuales"
+        },
+        {
+          "t": "p",
+          "x": "Hanah añadió: “Entre las novedades, los usuarios pueden subir hasta tres imágenes de referencia que sirven como guía de estilo para la AI. Los anunciantes también pueden incluir pautas de contenido, como mostrar a personas usando un producto, e indicar a la AI que omita fondos que distraigan”."
+        },
+        {
+          "t": "p",
+          "x": "Debate del foro en LinkedIn."
+        }
+      ]
     }
   }
 }

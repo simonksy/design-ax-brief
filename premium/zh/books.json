@@ -10537,6 +10537,131 @@
           "x": "Audible首席产品与分析官Andy Tsao在声明中表示：“挑选下一本要听的书，应该像从朋友那里得到推荐一样。”"
         }
       ]
+    },
+    "books/mentat-publisher-licensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/18/135045144.3.png",
+          "cap": "ChatGPT生成图片"
+        },
+        {
+          "t": "p",
+          "x": "韩国国内已有100多家出版社与人工智能（AI）企业签订正式授权合同，将图书作为训练和引用数据提供。图书AI授权平台Mentat（代表Jeon Byung-wook）18日表示，自去年9月签下首份合同以来，14个月内已与100多家韩国出版社签约，获得正式授权的图书超过4万种。Mentat支持从版权确认、内容加工、使用量计量到结算的整个授权流程。"
+        },
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/18/135044903.3.png",
+          "cap": "图表＝记者Kim Young-ho"
+        },
+        {
+          "t": "p",
+          "x": "AI企业最常寻求的是学术和专业图书，按Thema分类标准约占83%。生活·实用·艺术·兴趣（10.5%）以及儿童·青少年（6.3%）等生活类仅占约17%。按领域划分，依次为技术·工程·IT·医学·科学（18.0%）、语言·文学研究·语言学（17.4%）、经济管理·法律（13.2%）。"
+        },
+        {
+          "t": "p",
+          "x": "美国Anthropic在一起指控其用盗版网站下载的图书训练AI的集体诉讼中同意支付15亿美元（1.99万亿韩元），其中包括韩江的《少年来了》等20位韩国作家的21本电子书。Mentat计划到2027年将AI授权图书增至10万种。"
+        }
+      ]
+    },
+    "books/argon-longstoryshort": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156522676,thumbsize-2080223,width-1280,height-720,resizemode-75/156522676.jpg",
+          "cap": "图片来源 - AI生成"
+        },
+        {
+          "t": "p",
+          "x": "德国有声书出版商Argon推出longstoryshort，并于2026年11月10日发布三部AI-assisted改编作品：Heinrich Mann的《Professor Unrat》、Marie von Ebner-Eschenbach的《Die Totenwacht》和Arthur Schnitzler的《Die Frau des Weisen》。"
+        },
+        {
+          "t": "p",
+          "x": "Argon用Google的Gemini辅助压缩文本，用ElevenLabs Studio生成旁白。编辑会反复审核成果，所用声音是经合同同意并支付报酬后制作、获得授权的真人表演者数字复制品。出版商表示，会尽可能保留原文措辞，缩短次要情节，有时还会完全删去次要人物，目的是把听众引向完整的真人朗读录音。"
+        },
+        {
+          "t": "p",
+          "x": "这一做法已在德国引发批评。有人反对的是人工智能本身，也有人质疑长篇经典中存在可有可无段落的说法。与人工编辑传统的删节本不同，这项实验检验的是文学诠释能在多大程度上交给软件。"
+        }
+      ]
+    },
+    "books/esquire-ai-policing-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://hips.hearstapps.com/hmg-prod/images/e658e312-6755-40a8-8350-08d424e71951.jpeg?crop=1xw:0.749646393211xh;center,top&resize=1200:*"
+        },
+        {
+          "t": "p",
+          "x": "Mitchell S. Jackson以Phillis Wheatley开篇：1773年，她不得不向18位波士顿名流证明那些诗是她亲手所写。他认为，如今批评者正用“作品借助了AI”的暗示给黑人与棕色人种作家定罪。"
+        },
+        {
+          "t": "img",
+          "src": "https://hips.hearstapps.com/hmg-prod/images/44386039-a707-4fce-aa99-18b2c28411a9.jpg?crop=1xw:1xh;center,top&resize=980:*",
+          "cap": "Phillis Wheatley. Heritage Art/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "他举的例子包括：沃顿商学院的Ethan Mollick把Jamir Nazir的英联邦奖小说放进AI-detection软件Pangram检测，结果判定为100%；一个匿名X账号声称Pangram标记了Thélyson Orélien小说的全部34章，龚古尔奖随后将其移出长名单；The Atlantic指责凯恩奖得主Simbarashe Kundizeza使用了AI。"
+        },
+        {
+          "t": "p",
+          "x": "他还指出，与此同时，像Anthony Horowitz这样承认使用AI的白人作家，并没有遭受与黑人同行相当的实际后果。"
+        }
+      ]
+    },
+    "books/toptoon-nijigame-aichat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "TOPCO Japan已在日本热门游戏平台“DLsite NijiGAME”（NijiGAME）上开放AI角色聊天服务的预注册。"
+        },
+        {
+          "t": "img",
+          "src": "https://cphoto.asiae.co.kr/listimglink/1/2026111808331713256_1794958397.png",
+          "cap": "TOPCO Japan × DLsite NijiGAME"
+        },
+        {
+          "t": "p",
+          "x": "据TOPCO Japan 11月18日介绍，该服务计划于本月底正式上线。TOPTOON Japan将向所有通过NijiGAME预注册的用户发放可在平台内使用的600 nyang和五张资源解锁券。600 nyang约可进行60次聊天。"
+        },
+        {
+          "t": "p",
+          "x": "该服务细致还原原作角色独特的性格与说话方式，并依据各部作品的剧情展开故事，而不只是简单的一问一答。"
+        },
+        {
+          "t": "p",
+          "x": "TOPCO Japan的母公司EnkiAX今年前三季度合并营收约KRW 438亿，营业利润约KRW 70亿，并计划将其网漫IP和用户基础扩展到AI服务。"
+        },
+        {
+          "t": "p",
+          "x": "TOPTOON Japan相关负责人表示：“我们计划基于多样的网漫IP扩充AI角色聊天服务，并通过与日本外部平台合作，持续扩大发行渠道。”"
+        }
+      ]
+    },
+    "books/books-anthropic-payout-deadline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://authorsguild.org/app/uploads/2026/11/Anthropic-Check-Your-Claim-Rectangle-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Bartz v. Anthropic和解案的首批款项预计于11月23日当周发放。由于Anthropic尚未向和解基金全额注资，首批款项仅为应付总额的约70%，其余部分将在后续分批支付。"
+        },
+        {
+          "t": "p",
+          "x": "在和解门户中显示为“无争议”的所有Anthropic和解申领，将于11月23日当周发放，且在本周五（11月20日）之后不可撤销。若某部作品显示为无争议，但你不同意分配比例，须在11月20日（周五）前在分配门户中填报，才能阻止付款。阻止付款无需解释或证明你的立场；但若不采取任何行动，款项将按显示内容发放。"
+        },
+        {
+          "t": "p",
+          "x": "门户中显示为“有争议”的申领不会在当周发放。11月20日并非解决争议申领的截止日期；若双方无法达成一致，任何一方都可将争议提交法院指定的特别专员。"
+        },
+        {
+          "t": "p",
+          "x": "其余款项将在Anthropic向和解基金完成最后一笔约$450 million的注资后发放。该笔款项须在Anthropic上市或获得大额投资时支付，且无论如何不得晚于2027年9月。款项将通过ACH、Zelle或支票支付，和解款属于应税收入。"
+        }
+      ]
     }
   }
 }

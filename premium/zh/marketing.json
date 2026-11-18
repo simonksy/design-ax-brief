@@ -5227,6 +5227,139 @@
           "x": "AdMob智能体技能为AI智能体提供预先构建并经过测试的操作手册，用于迁移到Google Mobile Ads Next-Gen SDK、实现新广告格式等任务。处于早期测试阶段的AdMob MCP服务器将让智能体读取账户数据、新建广告单元并管理中介设置，明年初将向更多开发者开放。"
         }
       ]
+    },
+    "marketing/msads-bidding-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/microsoft-logo-glow-dhO7bXu2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft宣布在Microsoft Advertising中推出“十年来最大的出价模型升级”。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft介绍的变化包括：出价能在不牺牲转化量或转化价值的情况下，更稳定地达到广告主的CPA和ROAS目标；广告主更新CPA或ROAS目标后，出价调整速度快近一倍；预算在一天内的消耗更加均匀，广告系列能更快达到全额预算。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft公布的结果：Maximize Conversion Value / Target ROAS在ROAS相近的情况下，每次点击转化价值提高10%。从Target CPA切换到Target ROAS，在保持相近ROAS的同时，转化价值平均提高8%。从eCPC切换到设定CPA目标的Maximize Conversions，在单次操作成本相近的情况下，转化次数增加18%。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising承诺到2027年还会有更多改进，并表示这是“我们更新的第一阶段，今后将逐步把改进自动推广到更多账户”。"
+        }
+      ]
+    },
+    "marketing/ai-mode-clicks-field-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/11/google-ai-mode-field-test-cuts-website-clicks-18-8-points-bing-switch-answer-booth-arrows.jpg",
+          "cap": "现场实验发现：Google AI Mode使网站点击减少18.8个百分点，并把用户推向Bing"
+        },
+        {
+          "t": "p",
+          "x": "宾夕法尼亚大学（University of Pennsylvania）和东北大学（Northeastern University）研究人员开展的一项预注册现场实验发现，将Google搜索全部导向AI Mode后，与标准Google Search相比，外部网站点击率下降18.8个百分点。论文《AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence》于2026年8月18日发布在arXiv上，尚未经过同行评审。"
+        },
+        {
+          "t": "p",
+          "x": "实地研究于2026年3月进行，1,100名美国Google用户被分为No AI Search、Current Search和AI Mode Search三组。与Current Search相比，AI Mode使点击新闻网站的用户比例下降12.5个百分点，点击Reddit的下降21.2个百分点，点击Wikipedia的下降9.9个百分点。在7分制量表上，对Google信息的信任下降0.34分，满意度下降0.73个标准差。AI Mode用户使用Bing、DuckDuckGo或Yahoo的可能性也高出11.2个百分点。"
+        },
+        {
+          "t": "p",
+          "x": "移除AI Overviews估计可使点击率上升8.8个百分点，但这一数字依赖于Google代码变更导致研究过滤器失效后的统计调整。研究仅持续七天，样本偏年轻、偏左，并强制此前只在约0.6%的搜索中使用AI Mode的人使用AI Mode。研究期间AI Mode未显示广告，不过Google已于2026年早些时候推出赞助形式。作者表示，AI搜索“存在明显的取舍”。"
+        }
+      ]
+    },
+    "marketing/kakao-kanana-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/10/20261013_kakao_CEO.jpeg",
+          "cap": "13日，Kakao代表Chung Shin-a在京畿道龙仁市Kakao AI园区举行的技术大会“if(kakao)”上发言（来源：Byline Network）"
+        },
+        {
+          "t": "p",
+          "x": "Kakao将在年内携手外卖、便利店、电视购物等领域约15家企业，全面推进在KakaoTalk内完成从商品下单到支付的人工智能（AI）代理业务。Kakao计划于下月16日上午在COEX的Grand InterContinental Seoul Parnas酒店公开代理式电商服务，与约15家企业签署合作备忘录（MOU）后进行服务演示。"
+        },
+        {
+          "t": "p",
+          "x": "用户可在Kanana等KakaoTalk内的AI代理中，通过语音或聊天订购外部合作方的商品并完成支付。认证和支付使用Kakao账号和KakaoPay。与现有的“ChatGPT for Kakao”不同，用户无需离开KakaoTalk即可完成从下单到支付的全过程。不过，12月的活动以发布和演示为主，实际服务预计明年内开始运营。"
+        },
+        {
+          "t": "p",
+          "x": "Chung Shin-a在第三季度业绩电话会上表示，将与主要垂直服务以A2A、MCP方式直接对接，与众多其他服务则引入通过浏览器下单和支付（CUA）的方式。她还强调，A2A和MCP方式可将模型调用成本最多降至1/180。"
+        },
+        {
+          "t": "p",
+          "x": "不过，有观点指出具体运营方式和合作条件尚未充分确定；据悉，此前决定加入的Coupang Eats以及部分现有ChatGPT for Kakao合作企业不参加此次活动。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-adclarity-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73056_2840.jpg",
+          "cap": "ChatGPT广告示例（来源：OpenAI）"
+        },
+        {
+          "t": "p",
+          "x": "据AdClarity统计，2026年10月全球ChatGPT广告支出为1亿1,060万美元，约为开始调查的4月的3倍。4月至10月这7个月的广告支出合计接近5亿美元。OpenAI资料显示，截至10月21日，ChatGPT全球广告主已超过10万家。"
+        },
+        {
+          "t": "p",
+          "x": "4月时92%以上的广告支出来自美国，10月则降至64%以下。英国月度广告支出从210万美元增至620万美元，增长195%；日本从290万美元增至590万美元，增长103%。"
+        },
+        {
+          "t": "p",
+          "x": "在美国单月投放广告的企业从4月的839家增至8月的1万7,934家，增长约21倍，但月度广告支出一直在9,000万美元上下。前100家企业占总支出的43%，前1,000家企业占79%。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73057_3111.jpg"
+        },
+        {
+          "t": "p",
+          "x": "按行业看，4月至10月软件行业的支出约占全球ChatGPT广告支出的25%。上述广告支出为AdClarity估算值，并非OpenAI正式公布的广告收入。"
+        }
+      ]
+    },
+    "marketing/google-ads-pmax-visual-guidelines": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads 在 Performance Max 广告系列的品牌指南下新增了一个选项，可以添加视觉指南。说明写道：“现在您可以添加风格参考和偏好，帮助引导广告图片的生成和优化方式。”"
+        },
+        {
+          "t": "p",
+          "x": "这一变化最早由 Marcin Wsół 发现并发布在 LinkedIn 上，随后 Hana Kobzová 在 PPC News Feed 上分享，她写道：“Google Ads 在 Performance Max 广告系列中推出了一个新板块，允许广告主为 AI-generated（AI 生成）图片提供视觉指南。广告主可以在这里定义期望的图片风格、指定内容，并标明需要避免的元素。”"
+        },
+        {
+          "t": "p",
+          "x": "以下是部分截图："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+          "cap": "Google Ads 品牌指南新增视觉指南"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+          "cap": "Google Ads 品牌指南新增视觉指南"
+        },
+        {
+          "t": "p",
+          "x": "Hanah 补充说：“在新功能中，用户最多可上传三张参考图片，作为 AI 的风格指南。广告主还可以加入内容指南，例如展示人们使用产品的场景，并指示 AI 去掉分散注意力的背景。”"
+        },
+        {
+          "t": "p",
+          "x": "论坛讨论见 LinkedIn。"
+        }
+      ]
     }
   }
 }

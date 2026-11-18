@@ -12587,6 +12587,114 @@
           "x": "Claude keeps getting more creative with visual tasks. Recently, Claude Fable 5.2 painted photorealistic artwork stroke by stroke using self-written Python code."
         }
       ]
+    },
+    "design/snap-easy-lens-cli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+          "cap": "Image Credits: KIRILL KUDRYAVTSEV/AFP / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Snapchat announced on Wednesday that it's giving Lens creators the ability to build Lenses using the AI coding assistants they already use, like Claude Code, Cursor, and Codex. The company is introducing Easy Lens CLI, which builds on its existing Easy Lens tool that lets creators generate Lenses from a single prompt on the web and mobile, allowing AI assistants to handle the technical work while creators focus on the vision for the Lens itself."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Easy-Lens-CLI-Announcement_Triptych.gif?w=680",
+          "cap": "Image Credits: Snapchat"
+        },
+        {
+          "t": "p",
+          "x": "Developers enrolled in Snapchat's Lens+ Payouts program can earn from the Lenses they create with Easy Lens CLI; Snapchat says it paid out $1.8 million to Lens+ community creators last month. Creators describe the Lens in plain language and their AI assistant handles the process from start to finish, including building with more than 100 AR building blocks and 50 AI asset generators, generating previews, publishing to Snapchat and tracking performance. The capability can take a game from an initial idea to a published Lens in a single day, without developers having to write code themselves, Snapchat says. Game developers can bring browser games to Snapchat as Web Lenses, and agencies and brands can turn campaign assets into AR experiences. Easy Lens CLI runs on Mac, Windows, and Linux."
+        }
+      ]
+    },
+    "design/figma-multi-image-prompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Generate multiple images from a single prompt (Nov 18, 2026 — Figma Design, FigJam, Figma Slides, Figma Draw)."
+        },
+        {
+          "t": "p",
+          "x": "Get to the right image faster by generating multiple options when using Make image or Edit image in Figma."
+        },
+        {
+          "t": "p",
+          "x": "One model, multiple images: Have a single image model generate two, four, or six images from one prompt, so you spend less time re-prompting."
+        },
+        {
+          "t": "p",
+          "x": "Multiple models, one image each: Run your prompt across up to three image models at once to see each model's interpretation side by side, then keep the one you like best."
+        }
+      ]
+    },
+    "design/comfy-cloud-custom-build": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "You can now run your ComfyUI setup from anywhere. Create, edit, and run workflows in your browser with your team's custom nodes and models. Comfy Cloud manages the GPU infrastructure. Your team's custom Build is now available in Comfy Cloud on every paid plan."
+        },
+        {
+          "t": "video",
+          "yt": "xDaqSfwAlfw"
+        },
+        {
+          "t": "p",
+          "x": "A new artist joins your team halfway through a campaign. They open Comfy Cloud and have the same nodes, models, and LoRAs as everyone else, without setting them up locally. A Custom Build packages your team's supported nodes, models, LoRAs, and their dependencies, including private or internal node packs; developers can run workflows through the API using the same setup."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!B4wU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f68ff37-2c18-466a-a864-db0591c88f98_1920x1080.png",
+          "cap": "Edit and test where your workflows run."
+        },
+        {
+          "t": "p",
+          "x": "You choose the GPU for your team's setup, from the RTX PRO 6000 (48GB or 96GB) up to H100, H200, and the 180GB B200, and Comfy Cloud automatically scales back down when jobs finish. Custom Builds are included in every paid plan, starting with Standard, running from 2 jobs at a time on Standard and Creator up to 20 on Team. GPU time is billed by the second while workers are running, at $1.75/hr to $11.23/hr depending on the GPU."
+        }
+      ]
+    },
+    "design/rayon-v4-browser-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-FHD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rayon V4 adds 3D modelling, an AI agent, generative rendering and mobile access to its browser-based design software. 'We're going after the gap between AutoCAD and SketchUp,' says co-founder Stanislas Chaillou. 3D modelling and agentic AI launch in beta, in a product that remains firmly focused on interiors. Rayon began with collaborative browser-based drafting and a clean, Figma-like interface."
+        },
+        {
+          "t": "p",
+          "x": "Rayon uses a tuned AI to turn 2D floor plans into spatial models and generate editable 3D blocks, including furniture. Chaillou showed a 3D building generated in about 90 seconds; sections and elevations can be derived from these models. 'We absolutely don't want to have it feel like Revit,' he says."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-V4-1.webp",
+          "cap": "Rayon's new AI rendering studio"
+        },
+        {
+          "t": "p",
+          "x": "An AI rendering studio generates scene images and animates them into video. The agent can turn imported PDFs into editable drawings, zone and furnish layouts, assemble schedules and prepare presentation pages. In an unscripted test it placed spotlights, wiring and a cable-length schedule, then produced a colour-coded lighting-intensity plan — though not a validated lighting simulation. The Solo plan costs $38 per month billed annually, with 1,000 AI credits per month."
+        }
+      ]
+    },
+    "design/figma-oauth-mcp-allowlist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Admins can use an allowlist of approved OAuth apps, including MCP clients like Cursor and Claude Code, to manage which apps their teams can use. Admins will also be able to review app requests and manage approved apps within the new Extensions tab in the admin console."
+        },
+        {
+          "t": "p",
+          "x": "Rolling out to Organization and Enterprise plans over the coming days."
+        }
+      ]
     }
   }
 }

@@ -12328,6 +12328,114 @@
           "x": "Claude 在视觉任务上越来越有创意。最近，Claude Fable 5.2 用自己编写的 Python 代码，一笔一笔画出了照片级写实的作品。"
         }
       ]
+    },
+    "design/snap-easy-lens-cli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+          "cap": "Image Credits: KIRILL KUDRYAVTSEV/AFP / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Snapchat周三宣布，Lens创作者可以用自己已在使用的AI编程助手（如Claude Code、Cursor和Codex）来制作Lenses。公司推出的Easy Lens CLI建立在现有Easy Lens工具（prompt-to-Lens）之上，该工具让创作者在网页和移动端仅凭一条提示即可生成Lenses。技术工作交给AI助手处理，创作者则专注于Lens本身的构想。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Easy-Lens-CLI-Announcement_Triptych.gif?w=680",
+          "cap": "Image Credits: Snapchat"
+        },
+        {
+          "t": "p",
+          "x": "加入Snapchat Lens+ Payouts计划的开发者，可以从用Easy Lens CLI创作的Lenses中获得收入；Snapchat称，上个月向Lens+社区创作者支付了$1.8 million。创作者用日常语言描述Lens，AI助手便会从头到尾处理整个流程，包括利用超过100个AR构建模块和50个AI素材生成器进行制作、生成预览、发布到Snapchat以及追踪表现。Snapchat表示，借助这项功能，开发者无需亲自编写代码，就能在一天之内把一款游戏从最初的构想变成已发布的Lens。游戏开发者可以把浏览器游戏以Web Lenses形式带到Snapchat，代理商和品牌则可以把营销活动素材变成AR体验。Easy Lens CLI可在Mac、Windows和Linux上运行。"
+        }
+      ]
+    },
+    "design/figma-multi-image-prompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "用一条提示词生成多张图像（Nov 18, 2026 — Figma Design、FigJam、Figma Slides、Figma Draw）。"
+        },
+        {
+          "t": "p",
+          "x": "在Figma中使用Make image或Edit image时，可一次生成多个选项，更快得到理想的图像。"
+        },
+        {
+          "t": "p",
+          "x": "一个模型，多张图像：让单个图像模型根据一条提示词生成两张、四张或六张图像，减少反复改写提示词的时间。"
+        },
+        {
+          "t": "p",
+          "x": "多个模型，各出一张：将提示词同时交给最多三个图像模型运行，并排查看每个模型的诠释，再保留最满意的那张。"
+        }
+      ]
+    },
+    "design/comfy-cloud-custom-build": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "现在你可以在任何地方运行自己的ComfyUI环境。在浏览器中使用团队的自定义节点和模型来创建、编辑和运行工作流。GPU基础设施由Comfy Cloud管理。你团队的自定义Build现已在Comfy Cloud的所有付费套餐中提供。"
+        },
+        {
+          "t": "video",
+          "yt": "xDaqSfwAlfw"
+        },
+        {
+          "t": "p",
+          "x": "一位新艺术家在营销活动进行到一半时加入团队。他打开Comfy Cloud，就能用上和其他人完全相同的节点、模型和LoRAs，无需在本地配置。Custom Build会打包团队支持的节点、模型、LoRAs及其依赖项，包括私有或内部节点包；开发者也可以用同一套环境通过API运行工作流。"
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!B4wU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f68ff37-2c18-466a-a864-db0591c88f98_1920x1080.png",
+          "cap": "在工作流运行的地方编辑和测试。"
+        },
+        {
+          "t": "p",
+          "x": "你可以为团队环境选择GPU，从RTX PRO 6000（48GB 或 96GB）到H100、H200以及180GB 的B200，任务完成后Comfy Cloud会自动缩容。Custom Builds包含在从Standard起的所有付费套餐中，并发任务数从Standard和Creator的2个到Team的20个不等。GPU时间在worker运行期间按秒计费，视GPU不同为$1.75/hr至$11.23/hr。"
+        }
+      ]
+    },
+    "design/rayon-v4-browser-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-FHD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rayon V4为其基于浏览器的设计软件加入了3D建模、AI智能体、生成式渲染和移动端访问。联合创始人Stanislas Chaillou表示：“我们瞄准的是AutoCAD与SketchUp之间的空白。”3D建模和智能体AI以测试版形式推出，产品仍牢牢聚焦于室内设计。Rayon起步于基于浏览器的协同绘图，以及类似Figma的简洁界面。"
+        },
+        {
+          "t": "p",
+          "x": "Rayon使用经过调校的AI，将2D平面图转换为空间模型，并生成包括家具在内的可编辑3D模块。Chaillou展示了一座约90秒生成的3D建筑；剖面图和立面图可从这些模型中导出。他说：“我们绝对不想让它感觉像Revit。”"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-V4-1.webp",
+          "cap": "Rayon全新的AI渲染工作室"
+        },
+        {
+          "t": "p",
+          "x": "AI渲染工作室可生成场景图像，并将其制作成动态视频。智能体能把导入的PDFs转换为可编辑图纸，对布局进行分区和家具布置，汇总清单并准备演示页面。在一次无脚本的测试中，它布置了射灯、线路和电缆长度清单，随后生成了按颜色区分的照明强度平面图——不过这并非经过验证的照明模拟。Solo套餐按年付费为每月$38，每月含1,000 AI积分。"
+        }
+      ]
+    },
+    "design/figma-oauth-mcp-allowlist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "管理员可通过已批准OAuth应用的白名单（包括Cursor和Claude Code等MCP客户端）来管理团队可使用的应用。管理员还可在管理控制台新的Extensions标签页中审核应用请求并管理已批准的应用。"
+        },
+        {
+          "t": "p",
+          "x": "该功能将在未来几天内向Organization和Enterprise方案陆续推出。"
+        }
+      ]
     }
   }
 }

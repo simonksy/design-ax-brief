@@ -4796,6 +4796,124 @@
           "x": "Apple dijo que la app detectará preguntas preocupantes y, si es necesario, remitirá al consumidor a un proveedor externo u otros recursos. Aproximadamente un tercio de los adultos de Estados Unidos (U.S.) ha usado un chatbot de AI para hablar de su salud, según KFF."
         }
       ]
+    },
+    "medicine/gehc-feeding-tube-xray-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GE HealthCare (GEHC) recibió la autorización 510(k) de la Administración de Alimentos y Medicamentos (FDA) de Estados Unidos (U.S.) para su software de IA Critical Care Suite 3.0."
+        },
+        {
+          "t": "p",
+          "x": "El software funciona directamente en los equipos móviles de rayos X de la compañía para detectar sondas de alimentación y ayudar a evaluar su colocación en pacientes adultos y pediátricos. Detecta sondas enterales e identifica el trayecto, la punta y el orificio lateral de la sonda, a la vez que resalta las vías respiratorias y el diafragma como puntos de referencia anatómicos. Además, según el fabricante, el software opera en el propio equipo sin necesidad de conexión a internet ni a la nube."
+        },
+        {
+          "t": "p",
+          "x": "En las pruebas, Critical Care Suite 3.0 alcanzó una sensibilidad del 99,2% en la detección de sondas y una puntuación Dice media del 91,6% en la localización frente a las anotaciones de radiólogos expertos, según GEHC."
+        },
+        {
+          "t": "p",
+          "x": "Es la primera vez que el algoritmo de evaluación de sondas de alimentación de Critical Care Suite admite pacientes pediátricos. El software también incluye los algoritmos de IA Quality Care Suite de la compañía para reducir errores de calidad de imagen."
+        }
+      ]
+    },
+    "medicine/chile-preterm-ultrasound-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/2022-10/prenatal_ultrasound.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo análisis detalla la utilidad de una herramienta de ecografía basada en inteligencia artificial capaz de evaluar el riesgo de parto prematuro a partir de ecografías prenatales rutinarias."
+        },
+        {
+          "t": "p",
+          "x": "El estudio retrospectivo fue dirigido por Rodrigo Alliende-Ferrada, MD, del Hospital Padre Hurtado, en Santiago de Chile. Los investigadores evaluaron la tecnología (Ultrasound AI) con ecografías ya realizadas de 2550 embarazos en cuatro hospitales públicos de Chile. La plataforma de IA se usó sin modificaciones y sus predicciones no guiaron la atención clínica de ningún paciente."
+        },
+        {
+          "t": "p",
+          "x": "Entre los embarazos que terminaron en parto prematuro, el sistema estimó la fecha del parto con un margen de dos semanas respecto al nacimiento real en el 71% de los casos. En la ecografía rutinaria de la semana 23, la IA identificó qué embarazos terminarían en parto prematuro con un 86% de precisión usando solo los datos de imagen. En el conjunto de los embarazos, la fecha prevista quedó a menos de dos semanas del nacimiento real más del 90% de las veces."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento también fue similar entre madres migrantes, y la herramienta mantuvo su precisión en mujeres a las que no se les hizo una ecografía temprana. Los investigadores calificaron de exploratorios los hallazgos sobre parto prematuro: el estudio analizó embarazos pasados en lugar de probar el sistema de forma prospectiva, y se necesita más investigación para determinar si sus predicciones pueden mejorar la atención o los resultados."
+        }
+      ]
+    },
+    "medicine/suki-agentic-os-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/l2j1l1ddvOqMFsrhPruG_SrXG1A37l3FYYIA0RvJBuA/g:nowe:0:495/c:2399:1355/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9obHRoX3N1a2lfamhfZmluYWwuanBn.webp",
+          "cap": "Stand de Suki en la conferencia HLTH en Las Vegas, Nevada, el 16 de noviembre de 2026. Jill Hughes/Healthcare Dive"
+        },
+        {
+          "t": "p",
+          "x": "La empresa de escribas de IA Suki lanzó un sistema operativo agéntico destinado a reducir la complejidad de los flujos de trabajo administrativos del sector sanitario, más allá del enfoque inicial de la compañía en la IA para clínicos."
+        },
+        {
+          "t": "p",
+          "x": "El sistema operativo, llamado Suki OS, actúa como una capa tecnológica base que conecta los sistemas de software sanitario y los agentes de IA de toda una organización. Suki también lanzó dos nuevas capacidades de agentes, una para la autorización previa y otra para la documentación clínica."
+        },
+        {
+          "t": "p",
+          "x": "“Una verdadera plataforma sanitaria tiene que ser algo en lo que la documentación ambiental sea el punto de partida, no el destino”, dijo Punit Singh Soni, fundador y CEO de Suki."
+        },
+        {
+          "t": "p",
+          "x": "Suki destaca la capacidad del sistema para preparar resúmenes de pacientes antes de las citas, mientras agentes conectados verifican seguros, facilitan autorizaciones previas y reducen la carga administrativa. En una medida poco habitual, la empresa ofrece devolver a los clientes lo pagado a Suki si no se alcanzan los resultados de rendimiento acordados."
+        },
+        {
+          "t": "p",
+          "x": "Competidores como Abridge y Ambience Healthcare también han buscado crecer más allá de la transcripción ambiental."
+        }
+      ]
+    },
+    "medicine/nference-pluvicto-response-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Miércoles, 2 de diciembre | 1:30 p.m.-2:30 p.m. | W6-SSNMMI06-2 | Room S405"
+        },
+        {
+          "t": "p",
+          "x": "Según esta presentación, un algoritmo que combina características de imagen de PSMA-PET con valores de laboratorio rutinarios podría ayudar a predecir qué pacientes con cáncer de próstata metastásico resistente a la castración (mCRPC) responderán a la terapia con radioligandos Pluvicto."
+        },
+        {
+          "t": "p",
+          "x": "El ponente Deepak Anand, PhD, de la desarrolladora de AI nference en India, y sus colegas desarrollaron y validaron un modelo multimodal a partir de exploraciones de antígeno prostático específico de membrana (PSMA)-PET previas al tratamiento y de valores de laboratorio básicos obtenidos de la historia clínica electrónica (EHR)."
+        },
+        {
+          "t": "p",
+          "x": "El grupo analizó de forma retrospectiva a 302 pacientes con mCRPC que recibieron al menos tres ciclos de Pluvicto y contaban con exploraciones PSMA-PET evaluables previas al tratamiento. Los datos de imagen incluyeron la forma de las lesiones, métricas del valor de captación estandarizado (SUV) y una medida de la heterogeneidad de la captación dentro de los tumores. Diez parámetros de laboratorio, como el PSA y el recuento de linfocitos, se extrajeron de la EHR."
+        },
+        {
+          "t": "p",
+          "x": "El modelo combinado distinguió a los respondedores de los no respondedores con un área bajo la curva (AUC) de 0.80, por encima de los modelos que usaban solo variables clínicas (0.73) o solo variables de imagen (0.76). El valor de PSA, el recuento de linfocitos y la SUV media figuraron entre las variables más predictivas. Los respondedores también tuvieron resultados notablemente mejores, con una supervivencia a 30 meses de alrededor del 79% frente al 34% de los no respondedores."
+        },
+        {
+          "t": "p",
+          "x": "“Estos hallazgos respaldan la planificación del tratamiento AI-assisted (asistida por AI) para la terapia con radioligandos PSMA-targeted (dirigida a PSMA)”, escribieron los investigadores."
+        }
+      ]
+    },
+    "medicine/med-cms-clinical-ai-roadmap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "La pantalla de un teléfono muestra el logotipo de los Centers for Medicare and Medicaid Services"
+        },
+        {
+          "t": "p",
+          "x": "En esta edición del boletín Health Tech de STAT: lo que hay que saber sobre la hoja de ruta de AI que CMS publicó recientemente y lo más destacado de la conferencia HLTH."
+        },
+        {
+          "t": "p",
+          "x": "Saludos desde HLTH en Las Vegas. Tengo los labios agrietados y me duelen los pies, pero las conversaciones valen la pena. (El resto de esta edición está disponible para los suscriptores de STAT+.)"
+        }
+      ]
     }
   }
 }

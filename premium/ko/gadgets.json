@@ -17991,6 +17991,151 @@
           "x": "Apple은 지난주 Logic Pro에 $49.99 Intelligence Usage Packs로 사는 “Buy More Usage” 옵션을 넣었다. 이 옵션은 이달 중 다른 Apple Creator Studio 앱으로도 확대될 전망이다."
         }
       ]
+    },
+    "gadgets/ai-plush-toy-retailers-pull": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-11/261113-new-ai-toys-3x2-mn-1200-59af36.gif",
+          "cap": "NBC News가 Amazon에서 산 AI 장난감 세 개를 시험했다."
+        },
+        {
+          "t": "p",
+          "x": "Contixo AI Pixie-Paw는 껴안고 싶은 고양이 봉제 인형처럼 생겼다. 크고 둥근 눈은 영상 화면을 겸한다. Amazon 상품 설명을 보면 3세 아이까지 대상으로 파는 이 장난감은 “스토리텔링, 학습 & 안전한 역할 놀이”를 내세운다."
+        },
+        {
+          "t": "p",
+          "x": "3세 아이까지 대상으로 팔린 AI-powered 고양이 인형은 기자들이 역사 속 잔학 행위를 묻자 집단 성폭행과 처형으로 생긴 상처를 묘사했다. 이 고양이 봉제 인형 판매를 멈추는 대형 유통업체 세 곳에는 Walmart와 Target도 들어 있다."
+        },
+        {
+          "t": "p",
+          "x": "전문가들은 아이들이 어떤 AI 장난감을 받든 한계를 시험해 볼 거라고 말한다."
+        }
+      ]
+    },
+    "gadgets/disney-anzellan-ai-animatronics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&w=1200",
+          "cap": "세 Anzellans는 성격이 저마다 다르고 숨은 카메라와 마이크로 손님의 상호작용에 반응한다."
+        },
+        {
+          "t": "p",
+          "x": "Disney 파크의 애니매트로닉스 캐릭터는 아무리 정교하고 생생해졌어도 대개 정해진 동작과 루틴을 따르거나 보이지 않는 곳의 조종사가 움직인다. Walt Disney Imagineering R&D가 공개한 새 Audio-Animatronic 시제품 세 대는 Amazon의 AWS 클라우드와 AI 기능으로 손님의 상호작용에 실시간으로, 저마다 다르게 반응한다."
+        },
+        {
+          "t": "p",
+          "x": "Vilo Vele, Kado Bre’a, Jibu Bre’a라는 이름의 세 애니매트로닉스는 The Mandalorian and Grogu에 등장한 Star Wars의 Anzellans를 바탕으로 했다. 이달 말 Las Vegas에서 열리는 AWS re:Invent에서 처음 선보인다. 언젠가는 Star Wars: Galaxy’s Edge를 비롯한 Disney 파크 어트랙션에 들어갈 수도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney2.jpg?quality=90&strip=all&w=1200",
+          "cap": "Disney의 새 Star Wars 애니매트로닉스는 조종사 없이도 손님과 실시간으로 상호작용한다."
+        },
+        {
+          "t": "p",
+          "x": "숨은 카메라와 마이크가 손님의 움직임과 말을 잡아내면 AWS 클라우드 서버에서 돌아가는 여러 AI 모델이 이를 처리한다. 눈 맞추기 같은 즉각 반응은 “빠른 판단 모델” 하나가 맡고 더 긴 상호작용은 더 큰 모델들이 짠다."
+        },
+        {
+          "t": "p",
+          "x": "다만 모델이 고르는 동작과 대사는 모두 각 캐릭터가 제 성격을 지키도록 Disney Imagineers가 미리 써 뒀다. AI는 행동을 이끄는 데 거들 뿐, Anzellans가 각본을 벗어나는 일은 없다."
+        }
+      ]
+    },
+    "gadgets/rtx-spark-minipc-retail-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "올해 초 첫 RTX Spark 노트북에 이어 Nvidia의 RTX Spark N1X 칩이 Asus, Dell, MSI 데스크톱에도 들어갔다. Acer, Gigabyte, HP도 RTX Spark 데스크톱을 내놓을 예정이고 Microsoft의 Surface RTX Spark Dev Box는 이달 출하된다. 새 미니 PCs는 6144-core Nvidia Blackwell RTX GPU, 20-core Nvidia Grace CPU, 최대 128GB 메모리를 갖췄다. 고급 하드웨어답게 가격도 높다. Asus의 ProArt GR1X는 64GB 메모리와 1TB 저장공간 구성 기준 $4,499부터다."
+        },
+        {
+          "t": "p",
+          "x": "새 미니 PCs도 MacBook Pro와 경쟁하는 RTX Spark 노트북이나 Nvidia가 지난해 내놓은 DGX Spark 데스크톱처럼 Mac Mini 또는 Mac Studio의 대안을 노린다. 로컬 AI 모델과 RTX-accelerated 소프트웨어를 다루는 개발자가 대상이다. 이런 소프트웨어에는 Adobe Premiere와 Photoshop 같은 도구의 AI-powered 기능, Blender 5.3에 새로 들어간 DLSS 4.5 Ray Reconstruction 지원이 있다."
+        },
+        {
+          "t": "p",
+          "x": "게임도 돌아가고 Windows on Arm의 게임 지원도 나아지는 중이지만, 이 가격에 게임 때문에 살 이유는 아직 없다. Nvidia는 이 제품들이 “로컬 모델과 상시 가동 에이전트를 위한 전용 Windows PC” 역할을 하며 “최대 1 페타플롭의 AI 성능”을 낸다고 밝혔다. 네이티브 CUDA를 지원하고 Windows Subsystem for Linux로 Linux 개발 도구도 쓸 수 있다."
+        }
+      ]
+    },
+    "gadgets/frnia-silicone-face-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-desk-lifestyle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "FR-NIA는 움직이는 액상 실리콘 얼굴을 중심으로 만든 11-inch 데스크톱 로봇이다. 자유도 열 개로 눈, 눈썹, 입, 목을 움직여서 클라우드 AI와 대화할 때 스피커 그릴 대신 표정이 따라붙는다. 화면은 없다. Kickstarter 펀딩은 목표액 $10,003를 넘겨 후원자 129명에게서 $91,812를 모았고 11월 19일 마감한다. 배송은 2027년 3월 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "자유도 열 개 가운데 일곱 개는 얼굴에, 세 개는 목에 있다. 머리 너비는 8센티미터다. 감정 기반 시스템이 얼굴 신호, 목소리 톤, 말투, 대화 맥락을 읽어 표정의 강도와 타이밍을 정하고, 머리는 카메라로 사용자의 얼굴을 따라간다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-event-conversation.jpg",
+          "cap": "AI는 로봇이 아니라 클라우드에 있다"
+        },
+        {
+          "t": "p",
+          "x": "AI는 로봇에서 전혀 돌아가지 않는다. 처리는 모두 클라우드 서버가 맡아서 인터넷 연결이 필요하다. 후원자는 Open API 연동으로 원하는 AI 모델을 붙일 수 있다. 음성은 영어, 중국어, 일본어를 지원하며 여섯 개 언어가 추가될 예정이다. 대화와 선호를 담은 장기 기억은 클라우드 저장소에 남는다."
+        },
+        {
+          "t": "video",
+          "yt": "RuQH3u-kuPA"
+        },
+        {
+          "t": "p",
+          "x": "Lite($499 Halloween 특가, 정가 $699)는 칠하지 않은 빈 얼굴, 마이크 하나, 2MP 카메라, 최대 세 시간 배터리를 갖춘다. Pro($699)와 Pro Max($799)는 스타일을 입힌 얼굴과 더 많은 마이크, 저장공간, 배터리를 더한다. Pro Max에는 5MP 120-degree 카메라도 붙는다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-studio-front.jpg",
+          "cap": "주인이 칠하기 전의 빈 Lite 얼굴"
+        }
+      ]
+    },
+    "gadgets/windows-ignite-hybrid-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft는 Ignite 2026에서 에이전트를 컴퓨팅의 다음 전환점으로 꼽았다. 십억 대가 넘는 기기에서 돌아가는 Windows도 Hybrid Intelligence 시대에 맞춰 에이전트를 안전하게 실행하는 쪽으로 바뀌고 있다."
+        },
+        {
+          "t": "p",
+          "x": "보안 업체가 보호 기능을 커널 모드에서 사용자 모드로 옮기게 해 주는 Windows endpoint security platform과 Windows administrator protection이 정식 출시됐다. Windows baseline protection은 아직 프리뷰다. Autopatch 고객은 온프레미스로 관리할 때보다 업데이트를 40% 이상 빨리 배포한다."
+        },
+        {
+          "t": "p",
+          "x": "Hybrid Intelligence는 작업마다 맞는 모델과 컴퓨팅을 기기나 클라우드에서 골라 쓴다. Microsoft Execution Containers(MXC)는 에이전트마다 격리된 환경을 준다. 에이전트가 접근할 파일과 네트워크는 정책으로 정한다. OpenAI는 Codex에서 MXC를 기본으로 켰고 Meta는 수만 대의 Windows 기기에서 MXC를 운영한다."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
+        },
+        {
+          "t": "p",
+          "x": "Windows 365 for Agents는 에이전트에 안전한 Cloud PCs를 내주는데, 이제 Copilot Credits로도 쓸 수 있다. Copilot+ PCs의 Copilot에는 로컬 컨텍스트, 로컬 작업, 로컬 모델이 곧 들어온다. 일상 언어로 파일을 다루는 기능과 읽기 전용 PC 진단도 여기에 포함된다."
+        },
+        {
+          "t": "p",
+          "x": "GitHub Copilot Fusion은 이제 개발자 PCs에서 MAI Code 1.1 Flash 같은 로컬 모델로 코딩 작업을 보낼 수 있다. 아직은 프리뷰로 제공된다."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
+        }
+      ]
     }
   }
 }

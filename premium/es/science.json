@@ -11578,6 +11578,141 @@
           "x": "El estudio es observacional y no puede establecer que las herramientas de AI causen directamente elecciones de temas más seguras ni mayores probabilidades de financiación en los NIH."
         }
       ]
+    },
+    "science/science-art-memorability-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/art.jpg",
+          "cap": "Crédito: Mikhail Nilov, de Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Chicago organizaron un concurso de arte de alcance nacional en el que pidieron a los artistas obras pensadas para ser memorables u olvidables. De las 86 propuestas que cumplieron las reglas, las obras de la categoría memorable se recordaron más en pruebas en línea; las obras más simples, con menos elementos repetitivos y menor simetría, resultaron más memorables."
+        },
+        {
+          "t": "p",
+          "x": "El equipo eligió las 20 obras más memorables y las 20 más olvidables para una exposición de un mes y 40 piezas en Chicago, con la memoria como tema. El patrón “se mantuvo en la galería”, dijo el coautor Yifei Chen; la autora principal Wilma Bainbridge lo llamó “un experimento muy arriesgado para nuestro laboratorio”."
+        },
+        {
+          "t": "video",
+          "yt": "PppFwlbc8ek"
+        },
+        {
+          "t": "p",
+          "x": "ResMem, una red neuronal que los investigadores desarrollaron y entrenaron solo con fotografías, fue la mejor para distinguir las obras más y menos memorables, seguida por las categorías de los propios artistas y luego por las valoraciones del público general. Chen dijo que lo hizo “mucho mejor de lo que puede hacerlo cualquier humano”. El estudio, “Artists Can Design Memory, and AI Can Predict It” (Davis et al.), aparece en Psychological Science."
+        }
+      ]
+    },
+    "science/nature-llm-beer-game-cognition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los grandes modelos de lenguaje (LLMs) sustituyen cada vez más a participantes humanos, pero una respuesta plausible no demuestra un proceso de decisión humano. La brecha importa sobre todo cuando los agentes interactúan, porque decisiones razonables a escala local se acumulan mediante retrasos y retroalimentación hasta producir resultados colectivos."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos conductuales ajustan reglas de decisión a datos humanos; los autores se preguntan si su contenido cualitativo basta por sí solo para guiar a agentes LLM, un enfoque que denominan anclaje cognitivo (cognitive grounding)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig1_HTML.png",
+          "cap": "Fig. 1: Flujo de trabajo y proceso de validación."
+        },
+        {
+          "t": "p",
+          "x": "En 231 sesiones del Beer Distribution Game, un experimento de cadena de suministro en el que los pedidos de los jugadores amplifican las oscilaciones de la demanda, el anclaje acerca siete LLMs a un comportamiento calibrado con humanos. Los agentes sin anclaje reproducen la inestabilidad del juego, pero no aciertan con su magnitud, su momento ni su propagación; el anclaje mejora el ajuste de trayectorias en todos los modelos y, en general, desplaza los parámetros de decisión inferidos hacia la referencia calibrada con humanos, aunque de forma desigual según roles y modelos."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig3_HTML.png",
+          "cap": "Fig. 3: Efecto látigo a nivel de sistema por modelo y condición de prompt."
+        },
+        {
+          "t": "p",
+          "x": "El efecto se mantiene frente a datos empíricos independientes y con diseños alternativos de prompts y de memoria. Por tanto, los LLMs con anclaje cognitivo son candidatos a sustitutos conductuales, siempre que se validen para cada tarea."
+        }
+      ]
+    },
+    "science/zapata-forshor-quantum-verify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-7.06.26-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Zapata Quantum lanzó ForShor.ai, un desafío abierto desarrollado con la University of Maryland para probar cómo los resultados AI-generated en la investigación de algoritmos cuánticos pueden verificarse matemáticamente y ser comprendidos por los investigadores. Construido en torno a una implementación formalmente verificada del Shor’s algorithm, permite a los participantes enviar soluciones AI-generated a una tabla pública de clasificación; quienes contribuyan podrán ser coautores de un artículo posterior."
+        },
+        {
+          "t": "p",
+          "x": "“La AI va a transformar cómo se descubren los algoritmos cuánticos, pero los resultados que no se han demostrado matemáticamente no son confiables”, dijo Peter Shor, que se incorporó hace poco al Scientific Advisory Board de Zapata. “ForShor coloca la verificación formal, con personas en el proceso, en el centro de ese trabajo.”"
+        },
+        {
+          "t": "p",
+          "x": "El CTO Yudong Cao lo describió como un entorno “white-box”: “usar la verificación formal para establecer la corrección, usar la AI para resolver problemas dentro del marco formalmente verificado y asegurar que los resultados sean explicables para las personas”. Zapata quiere extender el enfoque a otros algoritmos cuánticos y usar ForShor como campo de pruebas de la verificación en su software Quantum Pilot. El proyecto comenzó con una microbeca de la Unitary Foundation."
+        }
+      ]
+    },
+    "science/sciam-math-students-ai-survey": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://static.scientificamerican.com/dam/asset/82b1a8fb-bcbd-4f70-b9cf-b48794409cc3/ai-math-video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Tres estudiantes de Ph.D. en matemáticas —Anna Brandenberger, Hanna Mularczyk y Dora Woodruff— encuestaron a estudiantes de posgrado y posdoctorados después de que la AI resolviera problemas que los matemáticos habían perseguido durante décadas. Las 268 respuestas, de cerca de 60 instituciones y descritas en un preprint, retratan a una comunidad en suspenso."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3234db4c-b1bb-4044-97c6-87cc82593ced/math-survey-d1.png?m=1794611877.12&w=1200",
+          "cap": "Fuente: “Early Career Researchers’ Responses to AI in Math”, de Anna Brandenberger, Hanna Mularczyk y Dora Woodruff."
+        },
+        {
+          "t": "p",
+          "x": "Siete de cada 10 encuestados dicen que ahora es menos probable que sigan en matemáticas, y dos tercios se sienten menos motivados en su investigación. “Me han dicho cosas como ‘me siento inútil’”, cuenta Woodruff. Alrededor de la mitad confía en el potencial de la AI para las matemáticas, mientras que un tercio se opone a su uso; solo 13 por ciento del total está conforme con el rumbo actual."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/147cfc21-03f4-490b-be4a-93fe8afc2920/math-survey-d2.png?m=1794611866.395&w=1200",
+          "cap": "Fuente: “Early Career Researchers’ Responses to AI in Math”, de Anna Brandenberger, Hanna Mularczyk y Dora Woodruff."
+        },
+        {
+          "t": "p",
+          "x": "Casi todos los encuestados usan AI, aunque muchos describen la presión de hacerlo para no quedarse atrás: aprenden a regañadientes la tecnología que temen que los vuelva prescindibles. Woodruff advierte que la encuesta, de participación voluntaria, no es representativa."
+        }
+      ]
+    },
+    "science/science-deepfake-hyperreal-fmri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear.jpg",
+          "cap": "Imágenes de muestra e ilustración de la secuencia y la temporización de los ensayos en la Deepfakes Task. Credit: Social Cognitive and Affective Neuroscience (2026). DOI: 10.1093/scan/nsag086"
+        },
+        {
+          "t": "p",
+          "x": "Una nueva investigación de la University of Florida muestra que los rostros deepfake pueden parecer incluso más auténticos que las fotos de personas reales. El estudio vincula este \"hiperrealismo deepfake\" (deepfake hyperrealism) con la ínsula anterior, una región cerebral que se aquieta al analizar deepfakes. Los adultos mayores mostraron un sesgo aún más fuerte."
+        },
+        {
+          "t": "p",
+          "x": "\"Los rostros falsos se perciben como más reales que los rostros reales\", dijo Natalie Ebner, profesora de psicología de la University of Florida que dirigió el estudio, publicado en Social Cognitive and Affective Neuroscience. \"En realidad, uno lo hace peor que si simplemente adivinara\"."
+        },
+        {
+          "t": "p",
+          "x": "El equipo mostró 80 imágenes de rostros, la mitad reales y la mitad AI-generated (generadas por IA), a 126 participantes de entre 18 y 89 años, que valoraron cuán reales parecían mientras se sometían a escáneres cerebrales."
+        },
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear-1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Tanto el grupo joven como el de mayor edad calificaron los rostros generados por IA (AI-generated) como más reales que las fotografías reales, y la ínsula anterior se mostró menos activa cuando los participantes veían deepfakes. Es probable que los rostros de AI parezcan más reales porque se generan como un promedio de muchos rostros, lo que los hace \"más fáciles de procesar y más agradables\", dijo Ebner. Según ella, ser consciente de este sesgo puede ser la verdadera ventaja, sobre todo para los adultos mayores que son blanco de estafas."
+        }
+      ]
     }
   }
 }

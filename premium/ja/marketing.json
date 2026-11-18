@@ -5227,6 +5227,139 @@
           "x": "AdMobのエージェントスキルは、Google Mobile Ads Next-Gen SDKへの移行や新しい広告フォーマットの実装といった作業向けに、構築・検証済みのプレイブックをAIエージェントに提供する。初期テスト中のAdMob MCPサーバーは、エージェントがアカウントデータを読み取り、新しい広告ユニットを作成し、メディエーション設定を管理できるようにするもので、来年初めにより多くの開発者へ拡大する。"
         }
       ]
+    },
+    "marketing/msads-bidding-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/microsoft-logo-glow-dhO7bXu2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftはMicrosoft Advertisingで「この10年で最大の入札モデルのアップグレード」を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoftによると、変更点は次のとおりだ。入札はコンバージョン数や価値を犠牲にせず、広告主のCPAやROAS目標をより安定して達成する。広告主がCPAやROAS目標を更新すると、入札はほぼ2倍の速さで調整される。予算は1日を通してより均等に配分され、キャンペーンはより早く予算全額に達する。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoftが示した結果は次のとおり。Maximize Conversion Value / Target ROASでは、同程度のROASでクリック当たりのコンバージョン価値が10%増えた。Target CPAからTarget ROASに切り替えると、同程度のROASを保ちながらコンバージョン価値が平均8%高まった。eCPCからCPA目標付きのMaximize Conversionsに切り替えると、同程度のアクション単価でコンバージョンが18%増えた。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertisingは2027年にかけてさらなる改善を約束し、これは「アップデートの第1段階であり、今後も時間をかけてより多くのアカウントに改善を自動で展開していく」と述べた。"
+        }
+      ]
+    },
+    "marketing/ai-mode-clicks-field-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/11/google-ai-mode-field-test-cuts-website-clicks-18-8-points-bing-switch-answer-booth-arrows.jpg",
+          "cap": "Google AI Modeはサイトへのクリックを18.8ポイント減らし、利用者をBingへ向かわせる――フィールド実験で判明"
+        },
+        {
+          "t": "p",
+          "x": "University of PennsylvaniaとNortheastern Universityの研究者による事前登録型のフィールド実験で、Google検索をすべてAI Modeに振り向けると、通常のGoogle Searchに比べて外部サイトへのクリック率が18.8ポイント下がることがわかった。論文「AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence」は2026年8月18日にarXivに投稿され、査読は経ていない。"
+        },
+        {
+          "t": "p",
+          "x": "実地調査は2026年3月、米国のGoogle利用者1,100人をNo AI Search、Current Search、AI Mode Searchの3条件に分けて行われた。Current Searchと比べ、AI Modeはニュースサイトをクリックした利用者の割合を12.5ポイント、Redditを21.2ポイント、Wikipediaを9.9ポイント下げた。Google上の情報への信頼は7段階尺度で0.34ポイント低下し、満足度は0.73標準偏差下がった。AI Modeの利用者はBing、DuckDuckGo、Yahooを使う確率も11.2ポイント高かった。"
+        },
+        {
+          "t": "p",
+          "x": "AI Overviewsを外すとクリック率が8.8ポイント上がると推定されたが、この数字はGoogleのコード変更で研究のフィルターが機能しなくなった後の統計的補正に依拠している。研究期間は7日間で、若く左派寄りのサンプルを用い、検索の約0.6%でしかAI Modeを使っていなかった人々にAI Modeを強制した。研究期間中AI Modeに広告は表示されなかったが、Googleは2026年の早い時期にスポンサー形式を導入していた。著者らはAI検索には「明確なトレードオフがある」と述べている。"
+        }
+      ]
+    },
+    "marketing/kakao-kanana-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/10/20261013_kakao_CEO.jpeg",
+          "cap": "13日、京畿道竜仁市のKakao AIキャンパスで開かれたテックカンファレンス「if(kakao)」で話すKakaoのチョン・シンア代表（出典＝Byline Network）"
+        },
+        {
+          "t": "p",
+          "x": "Kakaoが年内に配達・コンビニ・ホームショッピングなど約15社と組み、KakaoTalk内で商品の注文から決済までを完結させる人工知能（AI）エージェント事業を本格的に進める。Kakaoは来月16日午前、COEXのグランドインターコンチネンタル・ソウル・パルナスでエージェンティックコマースサービスを公開し、約15社と業務協約（MOU）を結んだ後、サービスを実演する予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "利用者がKananaなどKakaoTalk内のAIエージェントで、音声やチャットを使って外部提携先の商品を注文し、決済まで済ませる仕組みだ。認証・決済にはKakaoアカウントとKakaoPayを使う。既存の「ChatGPT for Kakao」と異なり、KakaoTalkを離れずに注文から決済まで完了できる。ただし12月のイベントは公開と実演が中心で、実際のサービスは来年中に運用を始める見通しだ。"
+        },
+        {
+          "t": "p",
+          "x": "チョン・シンア代表は第3四半期の決算カンファレンスコールで、主要なバーティカルサービスとはA2A・MCP方式で直接連携し、多数のサービスとはブラウザを介した注文・決済（CUA）方式を導入すると説明した。A2AとMCP方式ではモデル呼び出しコストが最大で180分の1の水準まで下がる点も強調した。"
+        },
+        {
+          "t": "p",
+          "x": "ただ、詳細な運営方式や協力条件が十分に固まっていないとの指摘も出ており、以前に参加を決めていたCoupang Eatsと、既存のChatGPT for Kakao連携企業の一部は今回のイベントに参加しないことにしたという。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-adclarity-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73056_2840.jpg",
+          "cap": "ChatGPTの広告事例（出典：OpenAI）"
+        },
+        {
+          "t": "p",
+          "x": "AdClarityによると、2026年10月の世界のChatGPT広告費は1億1,060万ドルで、調査を始めた4月の約3倍に増えた。4月から10月までの7か月間の広告費を合計すると5億ドル近くに達する。OpenAIの資料によると、10月21日時点でChatGPTの広告主は世界で10万社を超えた。"
+        },
+        {
+          "t": "p",
+          "x": "4月には広告費の92%以上が米国から出ていたが、10月には64%未満に下がった。英国の月間広告費は210万ドルから620万ドルへ195%、日本は290万ドルから590万ドルへ103%増えた。"
+        },
+        {
+          "t": "p",
+          "x": "米国で1か月間に広告を出した企業は4月の839社から8月には1万7,934社へ約21倍に増えたが、月間広告費は9,000万ドル前後にとどまった。上位100社が全広告費の43%、上位1,000社が79%を占めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73057_3111.jpg"
+        },
+        {
+          "t": "p",
+          "x": "業種別では、ソフトウェア業界が4月から10月までに世界のChatGPT広告費の約25%を支出した。広告費はAdClarityの推定値であり、OpenAIが公式に発表した広告売上ではない。"
+        }
+      ]
+    },
+    "marketing/google-ads-pmax-visual-guidelines": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google AdsはPerformance Maxキャンペーンのブランドガイドラインに、視覚ガイドラインを追加する新しいオプションを設けた。説明には「スタイルの参考や好みを追加して、広告用の画像がどう作成・補正されるかを方向づけられるようになりました」とある。"
+        },
+        {
+          "t": "p",
+          "x": "最初に見つけたのはMarcin WsółでLinkedInに投稿し、続いてHana KobzováがPPC News Feedで取り上げてこう書いた。「Google AdsはPerformance Maxキャンペーンに、AI-generated(AI生成)画像の視覚ガイドラインを広告主が指定できる新しいセクションを導入した。このセクションでは、期待する画像スタイルの定義、内容の指定、避けたい要素の特定ができる」"
+        },
+        {
+          "t": "p",
+          "x": "スクリーンショットは以下のとおりだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+          "cap": "Google Adsのブランドガイドラインに視覚ガイドラインが追加"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+          "cap": "Google Adsのブランドガイドラインに視覚ガイドラインが追加"
+        },
+        {
+          "t": "p",
+          "x": "Hanahはさらにこう付け加えた。「新機能では、AIのスタイルガイドとなる参考画像を最大三枚までアップロードできる。広告主は、製品を使う人物を見せるといった内容のガイドラインも加えられ、気が散る背景を省くようAIに指示することもできる」"
+        },
+        {
+          "t": "p",
+          "x": "フォーラムでの議論はLinkedInで行われている。"
+        }
+      ]
     }
   }
 }

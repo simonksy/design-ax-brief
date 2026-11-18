@@ -4796,6 +4796,124 @@
           "x": "Apple said the app will detect worrying questions and direct a consumer to an outside provider or other resources if needed. Roughly one-third of U.S. adults have used an AI chatbot to talk about their health, according to KFF."
         }
       ]
+    },
+    "medicine/gehc-feeding-tube-xray-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GE HealthCare (GEHC) has received U.S. Food and Drug Administration (FDA) 510(k) clearance for the company's Critical Care Suite 3.0 AI software."
+        },
+        {
+          "t": "p",
+          "x": "The software runs directly on the company's mobile x-ray systems to detect feeding tubes and support assessment of tube placement in adult and pediatric patients. It detects enteric tubes and identifies the tube path, tip, and side port, while highlighting the airways and diaphragm as anatomical reference points. What's more, the software operates on the device without requiring internet or cloud connectivity, according to the vendor."
+        },
+        {
+          "t": "p",
+          "x": "In testing, Critical Care Suite 3.0 achieved 99.2% sensitivity for tube detection and a mean Dice score of 91.6% for localization compared with expert radiologist annotations, GEHC said."
+        },
+        {
+          "t": "p",
+          "x": "The release marks the first time the Critical Care Suite feeding tube assessment algorithm supports pediatric patients. The software also includes the company’s Quality Care Suite AI algorithms for reducing image quality errors."
+        }
+      ]
+    },
+    "medicine/chile-preterm-ultrasound-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/2022-10/prenatal_ultrasound.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new analysis details the utility of an artificial intelligence-powered ultrasound tool capable of assessing preterm delivery risk from routine prenatal scans."
+        },
+        {
+          "t": "p",
+          "x": "The retrospective study was led by Rodrigo Alliende-Ferrada, MD, of Hospital Padre Hurtado, Santiago, Chile. Researchers evaluated technology (Ultrasound AI) using previously acquired scans from 2,550 pregnancies at four public hospitals in Chile. The AI platform was used without modification, and no patients' clinical care was guided by its predictions."
+        },
+        {
+          "t": "p",
+          "x": "Among pregnancies that resulted in preterm delivery, the system estimated the delivery date within two weeks of the actual birth in 71% of cases. At the routine 23-week ultrasound, AI identified which pregnancies would result in an early delivery with 86% accuracy using image data alone. Across all pregnancies, its predicted delivery date was within two weeks of the actual birth more than 90% of the time."
+        },
+        {
+          "t": "p",
+          "x": "Performance also was similar among migrant mothers, and the tool maintained its accuracy in women who did not receive an early ultrasound scan. The investigators characterized the preterm birth findings as exploratory: the study analyzed past pregnancies rather than testing the system prospectively, and further research is needed to determine whether its predictions can improve care or outcomes."
+        }
+      ]
+    },
+    "medicine/suki-agentic-os-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/l2j1l1ddvOqMFsrhPruG_SrXG1A37l3FYYIA0RvJBuA/g:nowe:0:495/c:2399:1355/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9obHRoX3N1a2lfamhfZmluYWwuanBn.webp",
+          "cap": "Suki's booth at the HLTH conference in Las Vegas, Nevada, on Nov. 16, 2026. Jill Hughes/Healthcare Dive"
+        },
+        {
+          "t": "p",
+          "x": "AI scribe company Suki has launched an agentic operating system aimed at reducing complexity across healthcare’s administrative workflows, moving beyond the company’s initial focus on AI for clinicians."
+        },
+        {
+          "t": "p",
+          "x": "The operating system, called Suki OS, serves as a base tech layer that connects healthcare software systems and AI agents across an organization. Suki also launched two new agent capabilities, one for prior authorization and another for clinical documentation."
+        },
+        {
+          "t": "p",
+          "x": "“An actual healthcare platform has to be something where ambient documentation is a starting point, not the destination,” said Punit Singh Soni, Suki’s founder and CEO."
+        },
+        {
+          "t": "p",
+          "x": "Suki touts the system’s ability to prepare patient summaries before appointments, while connected agents verify insurance, facilitate prior authorizations and reduce administrative burden. In an unconventional move, the company is offering customers their Suki fees back if agreed-upon performance outcomes are not reached."
+        },
+        {
+          "t": "p",
+          "x": "Competitors like Abridge and Ambience Healthcare have also sought to scale beyond ambient scribing."
+        }
+      ]
+    },
+    "medicine/nference-pluvicto-response-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wednesday, December 2 | 1:30 p.m.-2:30 p.m. | W6-SSNMMI06-2 | Room S405"
+        },
+        {
+          "t": "p",
+          "x": "An algorithm that combines PSMA-PET imaging features with routine lab values may help predict which patients with metastatic castration-resistant prostate cancer (mCRPC) will respond to Pluvicto radioligand therapy, according to this presentation."
+        },
+        {
+          "t": "p",
+          "x": "Presenter Deepak Anand, PhD, of AI developer nference in India, and colleagues developed and validated a multimodal model using pretreatment prostate-specific membrane antigen (PSMA)-PET scans and core laboratory values obtained from the electronic health record (EHR)."
+        },
+        {
+          "t": "p",
+          "x": "The group retrospectively analyzed 302 mCRPC patients who received at least three cycles of Pluvicto and had evaluable pretreatment PSMA-PET scans. Imaging inputs included lesion shape, standardized uptake value (SUV) metrics, and a measure of uptake heterogeneity within tumors. Ten lab parameters, such as PSA and lymphocyte count, were drawn from the EHR."
+        },
+        {
+          "t": "p",
+          "x": "The combined model distinguished responders from nonresponders with an area under the curve (AUC) of 0.80, outperforming models that used only clinical features (0.73) or only imaging features (0.76). PSA value, lymphocyte count, and SUV mean were among the most predictive features. Responders also had markedly better outcomes, with 30-month survival of about 79% versus 34% for nonresponders."
+        },
+        {
+          "t": "p",
+          "x": "“These findings support AI-assisted treatment planning for PSMA-targeted radioligand therapy,” the researchers wrote."
+        }
+      ]
+    },
+    "medicine/med-cms-clinical-ai-roadmap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "A phone screen shows a logo of Centers for Medicare and Medicaid Services"
+        },
+        {
+          "t": "p",
+          "x": "In this edition of STAT's Health Tech newsletter: What you need to know about CMS' recently released AI roadmap, and highlights from the HLTH conference."
+        },
+        {
+          "t": "p",
+          "x": "Hello from HLTH in Las Vegas. My lips are chapped, my feet hurt, but the conversations are worth it. (The rest of this edition is available to STAT+ subscribers.)"
+        }
+      ]
     }
   }
 }

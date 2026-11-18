@@ -5227,6 +5227,139 @@
           "x": "AdMob agent skills give your AI agent pre-built, tested playbooks for tasks like migrating to the Google Mobile Ads Next-Gen SDK and implementing new ad formats. An AdMob MCP server, in early testing, will let agents read account data, write new ad units, and manage mediation settings, expanding to more developers early next year."
         }
       ]
+    },
+    "marketing/msads-bidding-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/microsoft-logo-glow-dhO7bXu2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft announced the \"biggest upgrade to bidding models in a decade\" within Microsoft Advertising."
+        },
+        {
+          "t": "p",
+          "x": "What Microsoft said is changing: bids meet advertisers’ CPA and ROAS targets more consistently without giving up conversion volume or value; bids adjust nearly twice as quickly when advertisers update a CPA or ROAS target; and budgets pace more evenly throughout the day, with campaigns ramping to full budget faster."
+        },
+        {
+          "t": "p",
+          "x": "The results, per Microsoft: Maximize Conversion Value / Target ROAS saw 10% more conversion value per click at a similar ROAS. Switching from Target CPA to Target ROAS brought 8% greater conversion value on average while maintaining a similar ROAS. Switching from eCPC to Maximize Conversions with a CPA target brought 18% more conversions at a similar cost per action."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising promised more of this into 2027, saying this is the \"first stage of our updates, and we'll continue to roll out improvements automatically to more accounts over time.\""
+        }
+      ]
+    },
+    "marketing/ai-mode-clicks-field-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/11/google-ai-mode-field-test-cuts-website-clicks-18-8-points-bing-switch-answer-booth-arrows.jpg",
+          "cap": "Google's AI Mode cuts clicks to websites by 18.8 points and sends users to Bing, field test finds"
+        },
+        {
+          "t": "p",
+          "x": "A preregistered field experiment by researchers at the University of Pennsylvania and Northeastern University found that routing Google searches entirely to AI Mode cut click-through to outside websites by 18.8 percentage points compared with standard Google Search. The paper, \"AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence,\" was posted to arXiv on August 18, 2026 and has not been peer reviewed."
+        },
+        {
+          "t": "p",
+          "x": "The fieldwork ran in March 2026 with 1,100 US Google users split across three conditions: No AI Search, Current Search and AI Mode Search. Against Current Search, AI Mode lowered the share of users clicking news sites by 12.5 points, Reddit by 21.2 points and Wikipedia by 9.9 points. Trust in information on Google fell 0.34 points on a 7-point scale, and satisfaction dropped 0.73 standard deviations. AI Mode users were also 11.2 points more likely to use Bing, DuckDuckGo or Yahoo."
+        },
+        {
+          "t": "p",
+          "x": "Removing AI Overviews showed an estimated 8.8-point rise in click-through, but that figure relies on a statistical adjustment after a Google code change broke the study's filter. The study lasted seven days, used a young, left-leaning sample, and forced AI Mode on people who had used it for about 0.6% of searches. AI Mode showed no ads during the study, though Google had introduced sponsored formats earlier in 2026. The authors say AI search \"presents a clear tradeoff.\""
+        }
+      ]
+    },
+    "marketing/kakao-kanana-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/10/20261013_kakao_CEO.jpeg",
+          "cap": "Kakao CEO Chung Shin-a speaks at the tech conference 'if(kakao)' held at the Kakao AI Campus in Yongin, Gyeonggi Province, on the 13th (Source: Byline Network)"
+        },
+        {
+          "t": "p",
+          "x": "Kakao is moving ahead in earnest with an artificial intelligence (AI) agent business that handles everything from product ordering to payment inside KakaoTalk, teaming up with about 15 companies in delivery, convenience stores and home shopping within the year. On the morning of the 16th next month, at the Grand InterContinental Seoul Parnas at COEX, Kakao plans to unveil its agentic commerce service, sign memorandums of understanding (MOU) with about 15 companies and then demonstrate the service."
+        },
+        {
+          "t": "p",
+          "x": "Users order products from outside partners by voice or chat through AI agents in KakaoTalk such as Kanana, and complete payment there as well. Kakao accounts and KakaoPay handle authentication and payment. Unlike the existing 'ChatGPT for Kakao', users can go from ordering to payment without leaving KakaoTalk. The December event, however, focuses on unveiling and demonstrating the service; actual operation is expected to begin sometime next year."
+        },
+        {
+          "t": "p",
+          "x": "On the third-quarter earnings call, CEO Chung Shin-a said Kakao will connect directly with major vertical services through A2A and MCP, and will use browser-based ordering and payment (CUA) for many other services. She also stressed that the A2A and MCP approach cuts model-call costs to as little as 1/180."
+        },
+        {
+          "t": "p",
+          "x": "Some have pointed out that detailed operating methods and partnership terms are not yet fully settled, and Coupang Eats, which had earlier agreed to join, along with some existing ChatGPT for Kakao partners, are reportedly not taking part in this event."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-adclarity-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73056_2840.jpg",
+          "cap": "A ChatGPT ad example (Source: OpenAI)"
+        },
+        {
+          "t": "p",
+          "x": "According to AdClarity, global ChatGPT ad spend in October 2026 was $110.6 million, about three times the level in April, when tracking began. Spend over the seven months from April to October totals nearly $500 million. According to OpenAI, ChatGPT had more than 100,000 advertisers worldwide as of October 21."
+        },
+        {
+          "t": "p",
+          "x": "In April, more than 92% of spend came from the U.S., but by October that share had fallen below 64%. Monthly spend in the U.K. rose 195%, from $2.1 million to $6.2 million, and in Japan 103%, from $2.9 million to $5.9 million."
+        },
+        {
+          "t": "p",
+          "x": "The number of companies advertising in the U.S. in a given month rose about 21-fold, from 839 in April to 17,934 in August, but monthly spend stayed around $90 million. The top 100 companies accounted for 43% of total spend, and the top 1,000 for 79%."
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73057_3111.jpg"
+        },
+        {
+          "t": "p",
+          "x": "By industry, software companies accounted for about 25% of global ChatGPT ad spend from April to October. The spend figures are AdClarity estimates, not ad revenue officially reported by OpenAI."
+        }
+      ]
+    },
+    "marketing/google-ads-pmax-visual-guidelines": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads added a new option under the brand guidelines for Performance Max campaigns to add visual guidelines. This says, \"Now you can add style references and preferences to help steer how images are created and enhanced for your ads.\""
+        },
+        {
+          "t": "p",
+          "x": "This was first spotted by Marcin Wsół who posted on LinkedIn and then Hana Kobzová posted this on PPC News Feed who wrote, \"Google Ads has introduced a new section in Performance Max campaigns allowing advertisers to provide visual guidelines for AI-generated images. This section facilitates advertisers in defining expected image styles, specifying content, and identifying elements to avoid.\""
+        },
+        {
+          "t": "p",
+          "x": "Here are some screenshots:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+          "cap": "Google Ads Brand Guidelines Add Visual Guidelines"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+          "cap": "Google Ads Brand Guidelines Add Visual Guidelines"
+        },
+        {
+          "t": "p",
+          "x": "Hanah added, \"Among the new features, users can upload up to three reference images to serve as a style guide for AI. Advertisers can also include content guidelines, such as showcasing people using a product, and instruct AI to omit distracting backgrounds.\""
+        },
+        {
+          "t": "p",
+          "x": "Forum discussion at LinkedIn."
+        }
+      ]
     }
   }
 }

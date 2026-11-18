@@ -5227,6 +5227,139 @@
           "x": "AdMob 에이전트 스킬은 Google Mobile Ads Next-Gen SDK 이전이나 새 광고 형식 구현 같은 작업에 쓸 플레이북을 미리 만들고 검증해 AI 에이전트에 준다. 초기 테스트 중인 AdMob MCP 서버는 에이전트가 계정 데이터를 읽고 새 광고 단위를 만들고 미디에이션 설정을 관리하게 해 준다. 내년 초에는 더 많은 개발자에게 열린다."
         }
       ]
+    },
+    "marketing/msads-bidding-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/microsoft-logo-glow-dhO7bXu2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 Microsoft Advertising에 \"지난 십 년 사이 가장 큰 입찰 모델 업그레이드\"를 내놨다."
+        },
+        {
+          "t": "p",
+          "x": "달라지는 점은 이렇다. 입찰은 전환량이나 전환 가치를 포기하지 않고도 광고주의 CPA·ROAS 목표를 더 꾸준히 맞춘다. 광고주가 CPA나 ROAS 목표를 바꾸면 입찰이 거의 두 배 빨리 따라온다. 예산은 하루에 걸쳐 더 고르게 쓰이고 캠페인은 전체 예산 수준까지 더 빨리 올라간다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 공개한 성과도 있다. Maximize Conversion Value / Target ROAS는 비슷한 ROAS에서 클릭당 전환 가치가 10% 늘었다. Target CPA에서 Target ROAS로 바꾸자 비슷한 ROAS를 유지하면서 전환 가치가 평균 8% 커졌다. eCPC에서 CPA 목표를 둔 Maximize Conversions로 바꾸자 비슷한 액션당 비용으로 전환이 18% 늘었다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising은 2027년까지 개선을 이어간다. 이번이 \"업데이트의 첫 단계이며, 앞으로 더 많은 계정에 개선 사항을 자동으로 계속 적용할 것\"이라는 설명이다."
+        }
+      ]
+    },
+    "marketing/ai-mode-clicks-field-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/11/google-ai-mode-field-test-cuts-website-clicks-18-8-points-bing-switch-answer-booth-arrows.jpg",
+          "cap": "현장 실험에서 Google AI Mode는 웹사이트 클릭을 18.8포인트 줄였고 이용자를 Bing으로 돌렸다"
+        },
+        {
+          "t": "p",
+          "x": "University of Pennsylvania와 Northeastern University 연구진의 사전 등록 현장 실험에 따르면, Google 검색을 모두 AI Mode로 보내자 일반 Google Search보다 외부 웹사이트 클릭률이 18.8퍼센트포인트 낮아졌다. 논문 \"AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence\"는 2026년 8월 18일 arXiv에 올라왔다. 동료 심사는 아직 거치지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "현장 조사는 2026년 3월 미국 Google 이용자 1,100명을 No AI Search, Current Search, AI Mode Search 세 조건으로 나눠 진행했다. Current Search와 비교해 AI Mode는 뉴스 사이트를 클릭한 이용자 비율을 12.5포인트, Reddit은 21.2포인트, Wikipedia는 9.9포인트 낮췄다. Google 정보 신뢰도는 7점 척도에서 0.34점, 만족도는 0.73 표준편차 내려갔다. AI Mode 이용자가 Bing, DuckDuckGo, Yahoo를 쓸 가능성도 11.2포인트 높았다."
+        },
+        {
+          "t": "p",
+          "x": "AI Overviews를 없애면 클릭률이 8.8포인트 오르는 것으로 추정됐다. 다만 이 수치는 Google 코드 변경으로 연구 필터가 망가진 뒤의 통계적 보정에 기댄 값이다. 연구 기간은 일주일이었고 표본은 젊고 진보 성향이 강했다. 또 검색의 약 0.6%에만 AI Mode를 쓰던 사람들에게 AI Mode를 강제했다. 연구 기간 AI Mode에는 광고가 없었지만, Google은 2026년 초 스폰서 형식을 도입했다. 저자들은 AI 검색이 \"분명한 트레이드오프를 안고 있다\"고 말한다."
+        }
+      ]
+    },
+    "marketing/kakao-kanana-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/10/20261013_kakao_CEO.jpeg",
+          "cap": "13일 경기도 용인시 카카오 AI 캠퍼스에서 열린 테크 콘퍼런스 '이프카카오'에서 말하고 있는 정신아 카카오 대표 (출처=바이라인네트워크)"
+        },
+        {
+          "t": "p",
+          "x": "카카오가 연내 배달·편의점·홈쇼핑 등 약 15개 기업과 손잡고 카카오톡 안에서 상품 주문부터 결제까지 마무리하는 인공지능(AI) 에이전트 사업을 본격 추진한다. 카카오는 내달 16일 오전 코엑스 그랜드 인터컨티넨탈 서울 파르나스에서 에이전틱 커머스 서비스를 공개하고, 약 15개사와 업무협약(MOU)을 맺은 뒤 서비스를 시연할 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "이용자가 카나나 등 카카오톡 내 AI 에이전트에서 음성이나 채팅으로 외부 제휴사 상품을 주문하고 결제까지 마치는 방식이다. 인증·결제에는 카카오 계정과 카카오페이를 활용한다. 기존 ‘챗GPT 포 카카오’와 달리 카카오톡을 벗어나지 않고 주문부터 결제까지 마칠 수 있다. 다만 12월 행사는 공개와 시연에 초점을 맞추며, 실제 서비스는 내년 중 운영을 시작할 전망이다."
+        },
+        {
+          "t": "p",
+          "x": "정신아 대표는 3분기 실적 컨퍼런스콜에서 주요 버티컬 서비스와는 A2A·MCP 방식의 직접 연동을, 다수 서비스와는 브라우저를 통한 주문·결제(CUA) 방식을 도입하겠다고 설명했다. A2A와 MCP 방식이 모델 호출 비용을 최대 180분의 1 수준으로 저렴하다는 점도 강조했다."
+        },
+        {
+          "t": "p",
+          "x": "다만 세부 운영 방식과 협력 조건이 충분히 확정되지 않았다는 지적이 나왔고, 이전에 합류하기로 한 쿠팡이츠와 기존 챗GPT 포 카카오 연동 업체 일부는 이번 행사에 참여하지 않기로 한 것으로 알려졌다."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-adclarity-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73056_2840.jpg",
+          "cap": "챗GPT 광고 사례 (출처 오픈AI)"
+        },
+        {
+          "t": "p",
+          "x": "애드클래리티(AdClarity)에 따르면 2026년 10월 전 세계 챗GPT 광고비는 1억1,060만 달러로, 조사를 시작한 4월보다 약 3배 늘었다. 4월부터 10월까지 7개월간 광고비를 합치면 5억 달러에 육박한다. 오픈AI 자료에 따르면 10월 21일 기준 챗GPT 광고주는 전 세계 10만 곳을 넘어섰다."
+        },
+        {
+          "t": "p",
+          "x": "4월에는 광고비의 92% 이상이 미국에서 나왔지만 10월에는 64% 미만으로 떨어졌다. 영국의 월간 광고비는 210만 달러에서 620만 달러로 195%, 일본은 290만 달러에서 590만 달러로 103% 늘었다."
+        },
+        {
+          "t": "p",
+          "x": "미국에서 한 달 동안 광고를 집행한 기업은 4월 839곳에서 8월 1만7,934곳으로 약 21배 늘었지만 월간 광고비는 9,000만 달러 안팎에 머물렀다. 상위 100개 기업이 전체 광고비의 43%, 상위 1,000개 기업이 79%를 차지했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202611/29728_73057_3111.jpg"
+        },
+        {
+          "t": "p",
+          "x": "업종별로는 소프트웨어 업계가 4월부터 10월까지 전 세계 챗GPT 광고비의 약 25%를 지출했다. 광고비는 애드클래리티 추정치로, 오픈AI가 공식 발표한 광고 매출은 아니다."
+        }
+      ]
+    },
+    "marketing/google-ads-pmax-visual-guidelines": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads가 Performance Max 캠페인 브랜드 가이드라인 항목에 시각 가이드라인을 넣는 옵션을 새로 추가했다. 안내 문구는 “이제 스타일 참고 자료와 선호 사항을 추가해 광고 이미지의 생성과 개선 방향을 이끌 수 있습니다”라고 적혀 있다."
+        },
+        {
+          "t": "p",
+          "x": "처음 발견한 사람은 Marcin Wsół이다. 그가 LinkedIn에 올린 뒤 Hana Kobzová가 PPC News Feed에 공유하며 이렇게 썼다. “Google Ads가 Performance Max 캠페인에 광고주가 AI-generated(AI 생성) 이미지에 대한 시각 가이드라인을 제공할 수 있는 새 섹션을 도입했다. 이 섹션에서 광고주는 기대하는 이미지 스타일을 정하고, 콘텐츠를 지정하고, 피해야 할 요소를 밝힐 수 있다.”"
+        },
+        {
+          "t": "p",
+          "x": "스크린숏은 아래와 같다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
+          "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines2-nWUIoJCw.jpg",
+          "cap": "Google Ads 브랜드 가이드라인에 시각 가이드라인 추가"
+        },
+        {
+          "t": "p",
+          "x": "Hanah는 이렇게 덧붙였다. “새 기능 가운데 하나로, 사용자는 AI의 스타일 가이드 역할을 할 참고 이미지를 최대 세 장까지 올릴 수 있다. 광고주는 제품을 사용하는 사람을 보여 주라는 식의 콘텐츠 가이드라인도 넣을 수 있고, 산만한 배경을 빼라고 AI에 지시할 수도 있다.”"
+        },
+        {
+          "t": "p",
+          "x": "포럼 토론은 LinkedIn에 올라 있다."
+        }
+      ]
     }
   }
 }

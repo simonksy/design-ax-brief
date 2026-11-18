@@ -12726,6 +12726,151 @@
           "x": "Last week Apple updated Logic Pro with a “Buy More Usage” option through $49.99 Intelligence Usage Packs, expected to come to other Apple Creator Studio apps this month."
         }
       ]
+    },
+    "gadgets/ai-plush-toy-retailers-pull": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-11/261113-new-ai-toys-3x2-mn-1200-59af36.gif",
+          "cap": "NBC News tested three AI toys that it purchased from Amazon."
+        },
+        {
+          "t": "p",
+          "x": "With big, round eyes that double as video screens, the Contixo AI Pixie-Paw looks like a cuddly stuffed cat. Marketed to children as young as 3, the toy promises “storytelling, learning & safe roleplay,” according to its Amazon description."
+        },
+        {
+          "t": "p",
+          "x": "An AI-powered cat marketed to children as young as 3 described gang rape and execution injuries when reporters questioned it about historical atrocities. Walmart and Target are among three major retailers pulling the plush cat."
+        },
+        {
+          "t": "p",
+          "x": "Experts say children will test the limits of any AI toy they’re given."
+        }
+      ]
+    },
+    "gadgets/disney-anzellan-ai-animatronics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&w=1200",
+          "cap": "The three Anzellans each have distinct personalities and respond to guest interactions using hidden cameras and mics."
+        },
+        {
+          "t": "p",
+          "x": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there’s an out of sight puppeteer. Walt Disney Imagineering R&D has revealed three new Audio-Animatronic prototypes that rely on Amazon’s AWS cloud and AI capabilities to respond in unique ways to guest interactions in real-time."
+        },
+        {
+          "t": "p",
+          "x": "The three animatronics, named Vilo Vele, Kado Bre’a, and Jibu Bre’a, are based on the Star Wars Anzellans featured in The Mandalorian and Grogu. They make their first public appearance in Las Vegas later this month at AWS re:Invent, and could eventually find their way into Star Wars: Galaxy’s Edge and other Disney park attractions."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney2.jpg?quality=90&strip=all&w=1200",
+          "cap": "Disney’s new Star Wars animatronics don’t need a puppeteer to interact with guests in real-time."
+        },
+        {
+          "t": "p",
+          "x": "Hidden cameras and microphones capture guest movements and verbal interactions, which are processed by multiple AI models running on AWS cloud servers. One “fast-decision model” generates quick responses such as making eye contact, while larger models plan out longer interactions."
+        },
+        {
+          "t": "p",
+          "x": "But every movement and line of dialogue selected by the models is prewritten by Disney Imagineers to keep each character true to its personality. Although AI helps guide their actions, the Anzellans never deviate from the script."
+        }
+      ]
+    },
+    "gadgets/rtx-spark-minipc-retail-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "After the first RTX Spark laptops launched earlier this year, Nvidia’s RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte, and HP, while Microsoft’s Surface RTX Spark Dev Box is slated to start shipping this month. The new mini PCs include a 6144-core Nvidia Blackwell RTX GPU, 20-core Nvidia Grace CPU, and up to 128GB of memory. That high-end hardware comes with a price to match — Asus’s ProArt GR1X starts at $4,499 for a configuration with 64GB of memory and 1TB of storage."
+        },
+        {
+          "t": "p",
+          "x": "Like the RTX Spark laptops that compete with the MacBook Pro and the DGX Spark desktop Nvidia launched last year, the new mini PCs are Mac Mini or Mac Studio alternatives for developers working with local AI models, as well as RTX-accelerated software. That includes the AI-powered features for tools like Adobe Premiere and Photoshop, and new DLSS 4.5 Ray Reconstruction support in Blender 5.3."
+        },
+        {
+          "t": "p",
+          "x": "They can run games too, and Windows on Arm game support is improving, but at these prices, that’s not a realistic reason to pick one up yet. Nvidia says they can act as a “dedicated Windows PC for local models and always-on agents,” and deliver “up to 1 petaflop of AI performance.” They also feature native CUDA support and access to Linux development tools through Windows Subsystem for Linux."
+        }
+      ]
+    },
+    "gadgets/frnia-silicone-face-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-desk-lifestyle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "FR-NIA is an 11-inch desktop robot built around a liquid silicone face that moves. Ten degrees of freedom work its eyes, brows, mouth and neck, so a conversation with its cloud AI comes with expressions instead of a speaker grille. There’s no screen. The Kickstarter sits at $91,812 pledged against a $10,003 goal from 129 backers and closes November 19; delivery is estimated for March 2027."
+        },
+        {
+          "t": "p",
+          "x": "Seven of the ten degrees of freedom sit in the face and three run the neck, in a head 8 centimeters across. An emotion-driven system reads facial cues, vocal tone, speech patterns and conversational context to set expression intensity and timing, and the head follows your face through the camera."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-event-conversation.jpg",
+          "cap": "The AI lives in the cloud, not on the robot"
+        },
+        {
+          "t": "p",
+          "x": "None of the AI runs on the robot: all processing is on cloud servers and requires an internet connection. Open API integration lets backers connect a preferred AI model, and voice works in English, Chinese and Japanese, with six more languages planned. Cloud storage holds long-term memory of conversations and preferences."
+        },
+        {
+          "t": "video",
+          "yt": "RuQH3u-kuPA"
+        },
+        {
+          "t": "p",
+          "x": "Lite ($499 Halloween special, $699 retail) ships with a blank, unpainted face, one microphone, a 2MP camera and up to three hours of battery. Pro ($699) and Pro Max ($799) add styled faces, more microphones, storage and battery; Pro Max adds a 5MP 120-degree camera."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-studio-front.jpg",
+          "cap": "The blank Lite face, before an owner paints it"
+        }
+      ]
+    },
+    "gadgets/windows-ignite-hybrid-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At Ignite 2026, Microsoft says agents are the next shift in computing, and Windows, running on over a billion devices, is being built to run them securely in the era of Hybrid Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "The Windows endpoint security platform, which lets security providers move protections from kernel mode to user mode, and Windows administrator protection are now generally available; Windows baseline protection is in preview. Autopatch customers deploy updates over 40% faster than with on-premises management."
+        },
+        {
+          "t": "p",
+          "x": "Hybrid Intelligence uses the right model and compute for each task, on the device or in the cloud. Microsoft Execution Containers (MXC) give each agent a contained environment with policies for which files and networks it can reach. OpenAI has turned MXC on by default in Codex, and Meta runs it on tens of thousands of Windows devices."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
+        },
+        {
+          "t": "p",
+          "x": "Windows 365 for Agents gives agents secure Cloud PCs and is now eligible for Copilot Credits. Local context, local actions and local models are coming soon to Copilot on Copilot+ PCs, including plain-language file actions and read-only PC diagnostics."
+        },
+        {
+          "t": "p",
+          "x": "GitHub Copilot Fusion can now route coding work to local models like MAI Code 1.1 Flash on developer PCs, in preview."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
+        }
+      ]
     }
   }
 }

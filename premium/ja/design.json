@@ -12714,6 +12714,114 @@
           "x": "Claudeは視覚的なタスクでますます創造性を発揮している。最近ではClaude Fable 5.2が、自ら書いたPythonコードで写実的な絵を一筆ずつ描いた。"
         }
       ]
+    },
+    "design/snap-easy-lens-cli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+          "cap": "Image Credits: KIRILL KUDRYAVTSEV/AFP / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Snapchatは水曜日、Lensクリエイターが普段使っているClaude Code、Cursor、CodexといったAIコーディングアシスタントでLensesを制作できるようにすると発表した。同社が導入するEasy Lens CLIは、ウェブとモバイルで単一のプロンプトからLensesを生成できる既存のEasy Lensツール(prompt-to-Lens)を土台にしている。技術的な作業はAIアシスタントが担い、クリエイターはLensそのもののビジョンに集中できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Easy-Lens-CLI-Announcement_Triptych.gif?w=680",
+          "cap": "Image Credits: Snapchat"
+        },
+        {
+          "t": "p",
+          "x": "SnapchatのLens+ Payoutsプログラムに登録した開発者は、Easy Lens CLIで作ったLensesから収益を得られる。Snapchatによると、先月Lens+コミュニティのクリエイターに$1.8 millionを支払ったという。クリエイターがLensを平易な言葉で説明すると、AIアシスタントが最初から最後までの工程を担う。100を超えるAR構成ブロックと50のAIアセット生成ツールを使った制作、プレビュー生成、Snapchatへの公開、パフォーマンスの追跡までが含まれる。Snapchatによれば、この機能を使えば開発者が自らコードを書かなくても、ゲームを最初のアイデアから公開済みのLensまで一日で仕上げられる。ゲーム開発者はブラウザゲームをWeb LensesとしてSnapchatに持ち込め、エージェンシーやブランドはキャンペーン素材をAR体験に変えられる。Easy Lens CLIはMac、Windows、Linuxで動作する。"
+        }
+      ]
+    },
+    "design/figma-multi-image-prompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "一つのプロンプトから複数の画像を生成（Nov 18, 2026 — Figma Design、FigJam、Figma Slides、Figma Draw）。"
+        },
+        {
+          "t": "p",
+          "x": "FigmaでMake imageやEdit imageを使う際に複数の候補を生成し、狙った画像により早くたどり着ける。"
+        },
+        {
+          "t": "p",
+          "x": "一つのモデルで複数の画像：一つの画像モデルに一つのプロンプトから二枚、四枚、六枚の画像を生成させ、プロンプトを書き直す手間を減らす。"
+        },
+        {
+          "t": "p",
+          "x": "複数のモデルで一枚ずつ：プロンプトを最大三つの画像モデルで同時に実行し、各モデルの解釈を並べて比べ、最も気に入ったものを残す。"
+        }
+      ]
+    },
+    "design/comfy-cloud-custom-build": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ComfyUIの環境をどこからでも実行できるようになった。チームのカスタムノードとモデルを使い、ブラウザ上でワークフローを作成、編集、実行できる。GPUインフラはComfy Cloudが管理する。チームのカスタムBuildは、全有料プランのComfy Cloudで利用可能になった。"
+        },
+        {
+          "t": "video",
+          "yt": "xDaqSfwAlfw"
+        },
+        {
+          "t": "p",
+          "x": "キャンペーンの途中で新しいアーティストがチームに加わったとする。Comfy Cloudを開けば、ローカルで設定しなくても、ほかのメンバーと同じノード、モデル、LoRAsがそろっている。Custom Buildは、非公開や社内のノードパックも含め、チームがサポートするノード、モデル、LoRAsとその依存関係をまとめたもので、開発者は同じ構成のままAPI経由でワークフローを実行できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!B4wU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f68ff37-2c18-466a-a864-db0591c88f98_1920x1080.png",
+          "cap": "ワークフローが動く場所で編集し、テストする。"
+        },
+        {
+          "t": "p",
+          "x": "チームの環境に使うGPUは、RTX PRO 6000（48GB または 96GB）からH100、H200、180GB のB200まで選べ、ジョブが終わるとComfy Cloudが自動的に規模を縮小する。Custom BuildsはStandard以上の全有料プランに含まれ、同時実行数はStandardとCreatorの2件からTeamの20件までだ。GPU時間はワーカーの稼働中に秒単位で課金され、GPUに応じて$1.75/hrから$11.23/hrとなる。"
+        }
+      ]
+    },
+    "design/rayon-v4-browser-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-FHD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rayon V4は、ブラウザベースの設計ソフトウェアに3Dモデリング、AIエージェント、生成レンダリング、モバイルアクセスを加えた。共同創業者のStanislas Chaillouは「AutoCADとSketchUpの間のすき間を狙っている」と語る。3DモデリングとエージェントAIはベータとして提供され、製品はあくまでインテリアに焦点を絞っている。Rayonは、ブラウザ上での共同製図と、Figmaのようなすっきりしたインターフェースから始まった。"
+        },
+        {
+          "t": "p",
+          "x": "Rayonは調整したAIで2Dの平面図を空間モデルに変換し、家具を含む編集可能な3Dブロックを生成する。Chaillouは約90秒で生成された3Dの建物を披露した。これらのモデルから断面図や立面図を導き出せる。「Revitのように感じさせることは絶対に避けたい」と彼は言う。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-V4-1.webp",
+          "cap": "Rayonの新しいAIレンダリングスタジオ"
+        },
+        {
+          "t": "p",
+          "x": "AIレンダリングスタジオはシーン画像を生成し、それを動画として動かす。エージェントは取り込んだPDFsを編集可能な図面に変換し、レイアウトのゾーニングや家具配置、スケジュール表の作成、プレゼンテーションページの準備までこなす。台本なしのテストでは、スポットライトと配線、ケーブル長の一覧表を配置し、色分けされた照度プランを作成した。ただし、検証済みの照明シミュレーションではない。Soloプランは年払いで月額$38、毎月1,000 AIクレジットが付く。"
+        }
+      ]
+    },
+    "design/figma-oauth-mcp-allowlist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "管理者は、CursorやClaude CodeなどのMCPクライアントを含む承認済みOAuthアプリの許可リストを使い、チームが利用できるアプリを管理できる。管理コンソールの新しいExtensionsタブでは、アプリの利用申請の確認や承認済みアプリの管理も可能になる。"
+        },
+        {
+          "t": "p",
+          "x": "今後数日をかけて、OrganizationプランとEnterpriseプランに順次提供される。"
+        }
+      ]
     }
   }
 }

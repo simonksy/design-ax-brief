@@ -10889,6 +10889,146 @@
           "x": "协议还包括：预算超过£50M ($66M) 的电影片酬上调24%，流媒体平台使用费提高3个百分点，自拍试镜视频设72小时通知期。秘书长Paul W Fleming表示：“我们拿到了业内最好的AI条款。”"
         }
       ]
+    },
+    "movies/movies-idfa-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.documentary.org/sites/default/files/2026-11/End%20of%20Times.jpeg",
+          "cap": "End of Times。所有图片由IDFA提供"
+        },
+        {
+          "t": "p",
+          "x": "今年，IDFA首次要求投稿的电影人在报名表中披露AI使用情况。报名表写明，这些信息“不会被用作评审标准”，而是作为参考点和披露声明，供IDFA在“对视听素材的真实性存疑时”查阅。"
+        },
+        {
+          "t": "p",
+          "x": "艺术总监Isabel Arrate Fernandez说，这个想法源于去年的一部粗剪，其中一条动画鱼“感觉不对劲”。短片选片人Vladan Petkovic表示，他负责的那批影片中约有十分之一申报了AI使用，而且大多写得很详细。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.documentary.org/sites/default/files/styles/horizontal_image/public/2026-11/The%20Recce%20-%20Still%201.jpeg?itok=R9a83165",
+          "cap": "The Recce"
+        },
+        {
+          "t": "p",
+          "x": "在申报了AI使用的12部入选影片中，Petkovic看到了一条光谱：从他本人都察觉不到的细微技术运用，到像End of Times这样没有AI大概就不会存在的作品。他警告说，如果无视AI使用，就会走上一条“滑坡”。"
+        },
+        {
+          "t": "p",
+          "x": "Arrate Fernandez表示，透明度必须清晰，并提出IDFA可能会询问电影人打算如何向观众披露AI使用。IDFA今年将举办两场AI主题座谈。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.documentary.org/sites/default/files/styles/horizontal_image/public/2026-11/Morro%20Grande.jpeg?itok=LreJZZM1",
+          "cap": "Morro Grande"
+        }
+      ]
+    },
+    "movies/vtr-north-virginbet-idents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/1/0/1492510_vrginbet_tnt_stills_04_470735.jpg"
+        },
+        {
+          "t": "p",
+          "x": "利兹后期制作公司VTR North承担了Virgin Bet全新AI-generated TNT Sports赞助片头的全部剪辑、调色、清理和音频制作。"
+        },
+        {
+          "t": "p",
+          "x": "这组片头由代理商Bicycle Studios London创作，包括15秒、10秒版本以及四支5秒版本，分别名为Forza、Goal、Olé和Vamos。"
+        },
+        {
+          "t": "p",
+          "x": "广告画面由Google Flow生成。VTR表示，片头光泽、高度风格化的质感，是VTR把原始的AI-generated素材打造成能在高端体育频道中脱颖而出的作品而实现的。"
+        },
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/0/2/1492502_vrginbet_tnt_stills_09_517705.jpg"
+        },
+        {
+          "t": "p",
+          "x": "该公司用Flame让每个镜头都处于同一个统一的世界中：抚平不太到位的摄影机运动、清理画面、去除AI自动添加的第三方品牌标识，再加上与Virgin Bet其他素材一致的调色。"
+        },
+        {
+          "t": "p",
+          "x": "VTR North在内部创作了定制配乐，制作了完整的声音景观，并从其Pro Tools HDX工作间交付最终混音，随后整套素材针对TNT播出完成母版制作。"
+        },
+        {
+          "t": "p",
+          "x": "VTR North总经理Spencer Bain说：“AI可以很快给你大量画面，但给不了你一支完成的广告。仍然需要有人让镜头看起来彼此相属，去掉不该出现的东西，并为整体配上声音。……这正是后期精修公司体现价值的地方，也正是我们希望多做的工作。”"
+        },
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/0/5/1492505_vrginbet_tnt_stills_01_937593.jpg"
+        }
+      ]
+    },
+    "movies/kling-image4-8k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.leiphone.com/uploads/new/images/20261118/6afd03d6af1fd.jpg?imageMogr2/quality/90",
+          "cap": "Kling Image 4.0示例（来源：Leiphone）"
+        },
+        {
+          "t": "p",
+          "x": "快手于周二晚间发布Kling Image 4.0，新增原生8K 图像生成能力，并可通过单个提示词生成最多10张相互协调的图像。该模型也通过API向开发者和企业客户开放。它在同一架构中融合了视觉理解与图像生成，面向广告、分镜和电商设计等工作。"
+        },
+        {
+          "t": "p",
+          "x": "快手表示，该模型可在单张图像中渲染最多2,000个字符，支持七种语言和70多款预设商用字体。用户可上传参考图来引导字体排印、光照和色彩，也可为商品页和网站布局生成长图。在多图项目中，模型可以在保持统一视觉风格的同时规划每张图的内容。[Leiphone，中文]"
+        }
+      ]
+    },
+    "movies/movies-ai-drama-cubeberry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.ppss.kr/news/photo/202611/321768_145437_551.jpg"
+        },
+        {
+          "t": "p",
+          "x": "郭正焕、李政燮、李太坤等地面台剧集导演打造的AI剧集，将首次登上影院银幕。AI内容制作公司Cubeberry（代表Lee Jin-seo）表示，将于27日下午5点30分在首尔中区忠武路首尔电影中心1号厅举办4部AI网剧的展映会。"
+        },
+        {
+          "t": "p",
+          "x": "放映作品为《Division Zero》《Cold Sight》《Mokguryeong Podocheong》《奇境中的Iel》4部。导演分别是《推奴》《辅佐官》的郭正焕、《面包王金卓求》《治愈者》的李政燮，以及《检察官内传》《青春时代》的李太坤。其余一部由凭《黄色福寿草》在釜山AI国际电影节获奖的Choi Eun-kyung导演执导。"
+        },
+        {
+          "t": "p",
+          "x": "4部作品均由《IRIS》编剧Jo Kyu-won作为主创统筹开发。作品获得韩国内容振兴院（KOCCA）“新媒体新技术内容实验室”的支持，使用Cubeberry的AI影像平台“XCONDA”制作。每部作品均按每集20分钟左右的中篇系列策划，本次活动将放映平均每部14分钟的试播集。"
+        },
+        {
+          "t": "p",
+          "x": "XCONDA是一个专注于减少AI影像中人物面孔、服装和场景逐镜头变化问题的平台。其核心功能包括可预先构建最多36个镜头分镜的“FLEXBOARD”，以及在3D平面图上设定演员和摄影机走位的“Blocking Board”。"
+        },
+        {
+          "t": "p",
+          "x": "Cubeberry在“PREVUE”上与日本剧集制作公司TELEPACK签署了关于这4部作品后续开发的MOU。Lee Jin-seo代表表示：“这4部作品是一个起点，表明用AI也能做出达到电视剧水准的故事。”"
+        }
+      ]
+    },
+    "movies/movies-runway-mcp-claude-film": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "V7YAhthJCh0"
+        },
+        {
+          "t": "p",
+          "x": "了解如何用Claude和Runway MCP制作一部完整的微电影。我们先建立一个包含导演笔记的Claude项目，打磨故事和分镜，制作角色与场景参考，再把这些整理成一份四场戏的镜头表，并附上统一的视觉风格说明。"
+        },
+        {
+          "t": "p",
+          "x": "接着用连拍法生成覆盖镜头参考，在草稿模式下生成完整的多镜头场景，最后全部导入剪辑。"
+        },
+        {
+          "t": "p",
+          "x": "章节: 00:00 开场 · 00:40 设置Claude项目 · 01:40 策划与分镜 · 02:30 角色与场景参考 · 04:00 镜头表与连拍法 · 05:15 生成并剪辑场景。提示词与项目设置: runway.com/prompts/short-film-runway-mcp"
+        }
+      ]
     }
   }
 }

@@ -6756,6 +6756,129 @@
           "x": "La medida llega tras el caso Megaspeed: investigadores de US alegan que un exdirectivo de una empresa de centros de datos de Singapur usó empresas pantalla para acceder a 240,000 chips cuya exportación a China está prohibida; China y Megaspeed niegan las acusaciones. Según informaciones, funcionarios de Trump chocaron por las restricciones, y el NYT señaló que no está claro con qué firmeza Comercio aplicará la norma. Un investigador chino dijo al People’s Daily que China probablemente verá el cambio como una decisión con motivación política."
         }
       ]
+    },
+    "politics/uk-mps-ai-watchdog-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Los MPs del UK quieren un organismo de control con poder para desconectar modelos de AI peligrosos, en lugar de dejar que empresas como OpenAI y Anthropic decidan cuándo han ido demasiado lejos. Un comité parlamentario pide una AI Safety and Security Bill que otorgue a ese organismo facultades para intervenir mientras los modelos aún están en desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "Podría detener entrenamientos y pruebas de alto riesgo, bloquear despliegues o suspender servicios de AI si los riesgos no pueden contenerse. Las recomendaciones proceden del Business, Innovation, Science and Trade Committee del Parlamento."
+        },
+        {
+          "t": "p",
+          "x": "\"No podemos dar a los líderes actuales de la AI una libertad sin límites para comportarse como Dr Frankensteins modernos y crear peligros fuera del control de cualquiera\", dijo el presidente del comité, Liam Byrne MP."
+        },
+        {
+          "t": "p",
+          "x": "El informe del comité, Guardrails for Growth: Making AI Safe, identifica diez vacíos en el enfoque británico de la seguridad de la AI, entre ellos la falta de notificación obligatoria de incidentes, el acceso limitado de evaluadores independientes y la protección insuficiente de los denunciantes. El AI Security Institute (AISI) del UK depende de la cooperación voluntaria y no tiene autoridad para impedir que una empresa lance un modelo."
+        },
+        {
+          "t": "p",
+          "x": "Las recomendaciones del comité no son vinculantes y el gobierno aún no se ha comprometido con la legislación propuesta."
+        }
+      ]
+    },
+    "politics/nvidia-h200-china-halt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Nvidia ha dejado de enviar sus chips avanzados de AI a China pese a la aprobación que recibió de la Casa Blanca para hacerlo en diciembre del año pasado. El anuncio lo hizo la CEO interina de Nvidia, Colette Kress, durante una conferencia de resultados el martes, lo que supone un giro notable para la empresa que, bajo el ex CEO Jensen Huang, luchó por el derecho a enviar a China sus potentes chips H200 de arquitectura Hopper."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestras previsiones no incluyen ningún producto Hopper para centros de datos con licencia, y ya no enviamos productos Hopper para centros de datos con licencia a China”, dijo Kress. No explicó por qué Nvidia dejaba de enviar sus procesadores H200 ni aclaró si Nvidia buscará otros negocios con China en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "El giro llega después de que Huang dejara el cargo de CEO de Nvidia la semana pasada tras informaciones sobre varias relaciones extramatrimoniales, una de ellas con una mujer de la que los servicios de inteligencia de US sospechaban que era una espía china. Sin embargo, Nvidia ya tenía dificultades para colocar los chips de AI antes de este escándalo. Se plantearon dudas sobre fallos en la verificación de las empresas chinas autorizadas a manejar los chips de AI H200. Reuters también informó a principios de este mes de que unos 600,000 chips H200 estaban retenidos en Hong Kong después de que Pekín no aprobara importaciones a gran escala, en un momento en que China busca reducir su dependencia de la tecnología de US."
+        }
+      ]
+    },
+    "politics/saskatchewan-deceptive-ai-act": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy, el Gobierno de Saskatchewan presentó una ley para abordar el uso engañoso e ilegal de la AI."
+        },
+        {
+          "t": "p",
+          "x": "La Prevention of Deceptive Artificial Intelligence Act protege a la población y las empresas de Saskatchewan frente al uso de medios artificiales engañosos, a menudo llamados \"deepfakes\", que son imágenes, videos o grabaciones de audio creados o alterados mediante AI o tecnologías similares. La Act incluye protecciones para las personas perjudicadas por el uso engañoso de la AI y dota al tribunal de respuestas legales adecuadas, incluida la facultad de ordenar la retirada de contenido y una compensación."
+        },
+        {
+          "t": "p",
+          "x": "\"Usada de forma responsable, la inteligencia artificial puede crear grandes oportunidades\", dijo el ministro de Justicia y fiscal general Tim McLeod, K.C. \"Sin embargo, cuando se usa con fines engañosos, puede dañar reputaciones, socavar la confianza pública y generar dificultades económicas.\""
+        },
+        {
+          "t": "p",
+          "x": "La legislación también exige la divulgación en determinadas circunstancias en que se haya usado AI, y modifica leyes electorales, de protección al consumidor y de privacidad para promover la rendición de cuentas y garantizar que las salvaguardas existentes sigan siendo eficaces a medida que evoluciona esta tecnología."
+        },
+        {
+          "t": "p",
+          "x": "Con la presentación de esta Act, Saskatchewan se convierte en la primera jurisdicción canadiense en establecer un marco legislativo para abordar el uso engañoso de contenido AI-generated y manipulado."
+        }
+      ]
+    },
+    "politics/ofqual-ai-smart-glasses-exams": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Carta de Sir Ian Bauckham, Chief Regulator de Ofqual, a los responsables de los organismos certificadores sobre la AI en las evaluaciones sin examen y el mal uso de la tecnología ponible."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el trabajo se realiza sin supervisión, sobre todo si la evaluación implica escritura extensa, es cada vez más difícil determinar con fiabilidad si es íntegramente del estudiante. Por ello, Ofqual presentará pronto propuestas de cambios en la evaluación sin examen de historia de A Level y de las 3 titulaciones de inglés de A Level."
+        },
+        {
+          "t": "p",
+          "x": "También me preocupan cada vez más los desafíos que la tecnología ponible plantea para la seguridad de los exámenes, sobre todo a medida que los dispositivos se vuelven más sofisticados y AI-enabled."
+        },
+        {
+          "t": "p",
+          "x": "Espero que se aseguren de que el personal pertinente de los centros, incluidos los vigilantes cuando proceda, reciba una formación eficaz … para identificar y responder al mal uso de la tecnología ponible. Esta formación debe estar implantada para la convocatoria de exámenes de verano de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Agradecería recibir sus respuestas lo antes posible y antes del 30 de noviembre de 2026, en las que expongan las medidas que están tomando para abordar los riesgos de la tecnología ponible y qué otras medidas consideran necesarias."
+        }
+      ]
+    },
+    "politics/pol-x-dpc-agent-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/17/GettyImages-2297232274-scaled.jpg",
+          "cap": "El propietario de X, Elon Musk, asiste a una reunión sobre inteligencia artificial con el presidente de Estados Unidos (U.S.), Donald Trump, y ejecutivos tecnológicos en Washington, el 29 de septiembre de 2026. | Kent Nishimura/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El regulador de privacidad de Irlanda ha obligado a X a dejar de alimentar modelos de AI con datos recopilados por sus agentes, según dijo la autoridad a POLITICO. El gigante de las redes sociales propiedad de Elon Musk ha suspendido el uso de los llamados datos de terceros recopilados por su agente de AI Grok Bot, que empezó a extraer estos datos a finales de octubre para entrenar sus sistemas de AI."
+        },
+        {
+          "t": "p",
+          "x": "La Comisión de Protección de Datos de Irlanda (DPC) planteó “serias preocupaciones” sobre ese tratamiento de datos en las últimas semanas, dijo el comisionado Dale Sunderland. “Les pedimos que suspendieran el tratamiento, y hoy nos han confirmado que lo han hecho”, afirmó el lunes."
+        },
+        {
+          "t": "p",
+          "x": "La medida sobre X es un caso de prueba, ya que los reguladores de privacidad desplazan su atención del entrenamiento de AI con datos que las personas han compartido sobre sí mismas a los datos de terceros a los que acceden y que recopilan los agentes de AI personales sobre otras personas; por ejemplo, fotos de vacaciones compartidas con un amigo que usa un agente de AI, o datos personales que un agente extrae de internet."
+        },
+        {
+          "t": "p",
+          "x": "Sunderland dijo que la DPC también mantiene contactos con otra empresa tecnológica, cuyo nombre no se ha revelado, sobre sus planes de usar datos recopilados por agentes para entrenamiento, y que tendrá “más contactos” con X sobre “qué ocurrió exactamente y qué significa eso para los próximos pasos”."
+        }
+      ]
     }
   }
 }
