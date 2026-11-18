@@ -11828,6 +11828,141 @@
           "x": "The study is observational and cannot establish that AI tools directly cause safer topic choices or higher NIH funding odds."
         }
       ]
+    },
+    "science/science-art-memorability-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/art.jpg",
+          "cap": "Credit: Mikhail Nilov from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Chicago researchers ran a nationwide art contest asking artists to make works meant to be either memorable or forgettable. Of 86 submissions that met the rules, works in the memorable category were more likely to be remembered in online tests; simpler works, with fewer repetitive elements and less symmetry, were more memorable."
+        },
+        {
+          "t": "p",
+          "x": "The team picked the 20 most memorable and 20 most forgettable works for a monthlong, 40-piece gallery exhibit in Chicago on the theme of memory. The pattern “held in the gallery,” said co-author Yifei Chen; senior author Wilma Bainbridge called it “a very risky experiment for our lab.”"
+        },
+        {
+          "t": "video",
+          "yt": "PppFwlbc8ek"
+        },
+        {
+          "t": "p",
+          "x": "ResMem, a neural network the researchers developed and trained only on photographs, performed best at telling the most and least memorable artworks apart, followed by the artists’ own categories, then laypeople’s ratings. Chen said it did “much better than any human can do.” The study, “Artists Can Design Memory, and AI Can Predict It” (Davis et al.), appears in Psychological Science."
+        }
+      ]
+    },
+    "science/nature-llm-beer-game-cognition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Large language models (LLMs) increasingly stand in for human participants, yet a plausible response is not evidence of a human decision process. The gap matters most when agents interact, where locally reasonable choices compound through delays and feedback into collective outcomes."
+        },
+        {
+          "t": "p",
+          "x": "Behavioral models fit decision rules to human data; the authors ask whether their qualitative content alone can drive LLM agents, an approach they call cognitive grounding."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig1_HTML.png",
+          "cap": "Fig. 1: Workflow and validation pipeline."
+        },
+        {
+          "t": "p",
+          "x": "Across 231 sessions of the Beer Distribution Game, a supply-chain experiment in which players’ orders amplify demand swings, grounding moves seven LLMs toward human-calibrated behavior. Ungrounded agents reproduce the game’s instability but miss its magnitude, timing and propagation; grounding improves trajectory fit for every model and generally shifts inferred decision parameters toward the human-calibrated reference, although unevenly across roles and models."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig3_HTML.png",
+          "cap": "Fig. 3: System-level bullwhip effect by model and prompt condition."
+        },
+        {
+          "t": "p",
+          "x": "The effect holds against independent empirical data and under alternative prompting and memory designs. Cognitively grounded LLMs are therefore candidate behavioral surrogates, contingent on task-specific validation."
+        }
+      ]
+    },
+    "science/zapata-forshor-quantum-verify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-7.06.26-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Zapata Quantum launched ForShor.ai, an open challenge developed with the University of Maryland to test how AI-generated results in quantum algorithm research can be mathematically verified and understood by researchers. Built around a formally verified implementation of Shor’s algorithm, it lets participants submit AI-generated solutions to a public leaderboard; contributors may become co-authors of a subsequent research paper."
+        },
+        {
+          "t": "p",
+          "x": "“AI is going to reshape how quantum algorithms are discovered, but results that haven’t been mathematically proven can’t be trusted,” said Peter Shor, who recently joined Zapata’s Scientific Advisory Board. “ForShor puts formal verification, with humans in the loop, at the center of that process.”"
+        },
+        {
+          "t": "p",
+          "x": "CTO Yudong Cao called it a “white-box” environment: “use formal verification to establish correctness, use AI to solve problems within the formally verified framework, and ensure results are explainable to humans.” Zapata aims to extend the approach to other quantum algorithms and use ForShor as a proving ground for verification in its Quantum Pilot software. The project began with a Unitary Foundation microgrant."
+        }
+      ]
+    },
+    "science/sciam-math-students-ai-survey": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://static.scientificamerican.com/dam/asset/82b1a8fb-bcbd-4f70-b9cf-b48794409cc3/ai-math-video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Three math Ph.D. students—Anna Brandenberger, Hanna Mularczyk and Dora Woodruff—surveyed graduate students and postdocs after AI cracked problems mathematicians had chased for decades. The 268 responses from nearly 60 institutions, described in a preprint, paint a community in limbo."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3234db4c-b1bb-4044-97c6-87cc82593ced/math-survey-d1.png?m=1794611877.12&w=1200",
+          "cap": "Source: “Early Career Researchers’ Responses to AI in Math,” by Anna Brandenberger, Hanna Mularczyk and Dora Woodruff."
+        },
+        {
+          "t": "p",
+          "x": "Seven in 10 respondents say they’re now less likely to remain in math, and two-thirds feel less motivated in their research. “People have said things to me like, ‘I feel useless,’” Woodruff says. About half are optimistic about AI’s potential for mathematics, while a third oppose its use; just 13 percent of all respondents are happy with the current trajectory."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/147cfc21-03f4-490b-be4a-93fe8afc2920/math-survey-d2.png?m=1794611866.395&w=1200",
+          "cap": "Source: “Early Career Researchers’ Responses to AI in Math,” by Anna Brandenberger, Hanna Mularczyk and Dora Woodruff."
+        },
+        {
+          "t": "p",
+          "x": "Nearly all respondents use AI, yet many describe feeling pressured to use it to keep pace—reluctantly mastering the technology they fear could make them obsolete. Woodruff cautions the voluntary survey isn’t representative."
+        }
+      ]
+    },
+    "science/science-deepfake-hyperreal-fmri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear.jpg",
+          "cap": "Sample images and illustration of trial sequence and timing in the Deepfakes Task. Credit: Social Cognitive and Affective Neuroscience (2026). DOI: 10.1093/scan/nsag086"
+        },
+        {
+          "t": "p",
+          "x": "New research out of the University of Florida shows that deepfake faces can appear even more authentic than photos of real people. The study links this \"deepfake hyperrealism\" to the anterior insula, a brain region that quiets down when analyzing deepfakes. Older adults showed an even stronger bias."
+        },
+        {
+          "t": "p",
+          "x": "\"Fake faces are being perceived as more real than real faces,\" said Natalie Ebner, the University of Florida psychology professor who led the study, published in Social Cognitive and Affective Neuroscience. \"You're actually worse than just guessing.\""
+        },
+        {
+          "t": "p",
+          "x": "The team showed 80 face images, half real and half AI-generated, to 126 participants aged 18 to 89 who rated how real each face was while undergoing brain scans."
+        },
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear-1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Both younger and older groups rated AI-generated faces as more real than real photographs, and the anterior insula was less active when participants viewed deepfakes. AI faces likely look more real because they are generated as an average of many faces, which makes them \"easier to process and more pleasing,\" Ebner said. She said awareness of the bias may be the real advantage, especially for older adults targeted by scams."
+        }
+      ]
     }
   }
 }

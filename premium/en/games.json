@@ -12146,6 +12146,169 @@
           "x": "1.0 is also a commitment: commands, flags and output stay compatible across 1.x releases. The Build Server license now covers agents and automation, not only builds: one license per instance lets you run agents on a headless Editor or in a container. Coming soon: the Linux containerized Editor. Next: commands for AI Generators, Live Games and Build Automation, and accounts built for agents."
         }
       ]
+    },
+    "games/will-wright-mymems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0%2C16.666666666667%2C100%2C66.666666666667&w=2400",
+          "cap": "Image: Gallium Studios"
+        },
+        {
+          "t": "p",
+          "x": "Will Wright, the creator of SimCity and The Sims, is working on a new game built around AI called MyMems. \"We want to take your autobiography and turn it into a toy world,\" he tells The Verge."
+        },
+        {
+          "t": "p",
+          "x": "The MyMems website describes the mobile game as a \"social simulation\" with worlds \"built from your memories and the people who shaped you.\" You can add memories, like speaking a short story to your phone, and those memories are generated into pieces you can place on the game's map. Worlds can also include AI-powered avatars representing people you know."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Moonlit-walk.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Image: Gallium Studios"
+        },
+        {
+          "t": "p",
+          "x": "The game will use the \"Behavior Engine\" from Artificial Agency as a \"foundational technology.\" Wright calls concerns over AI and authorship \"well-founded\" but also calls AI an \"amazing tool.\" \"We're not making slop,\" says executive producer Virginia McArthur."
+        },
+        {
+          "t": "p",
+          "x": "MyMems is set to launch in 2027."
+        }
+      ]
+    },
+    "games/inworld-sava-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://inworld.ai/opengraph-image.jpg?opengraph-image.3etui4_c_jrz1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Inworld is releasing SAVA, a semantic acoustic voice activity model that handles speech detection and turn detection together in a single streaming model. It can run on a single CPU thread, with code and weights released under Apache 2.0."
+        },
+        {
+          "t": "p",
+          "x": "Every 40 ms, it returns two probabilities: whether the frame contains speech and whether the speaker's turn has ended. It uses the sentence so far to tell a pause in an unfinished thought from an ending."
+        },
+        {
+          "t": "p",
+          "x": "On 5,043 turn ends in the AMI meeting corpus, SAVA detected 85.5% within 200 ms, and smart-turn 30.8%. The median detection delay was 71 ms for SAVA and 210 ms for smart-turn. Easy Turn is SAVA's weakest result: 0.51, where smart-turn scores 0.83."
+        },
+        {
+          "t": "p",
+          "x": "The model has 25.5M parameters. On a single Apple M3 Max CPU thread, it processes one stream in under 3 ms per 40 ms frame."
+        }
+      ]
+    },
+    "games/mimesis-game-award-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1565930360.jpg",
+          "cap": "ⓒ KRAFTON"
+        },
+        {
+          "t": "p",
+          "x": "MIMESIS from ReLU Games won an Excellence Award at the 2026 Korea Game Awards. Its global cumulative sales passed 2.4 million (240만) copies in November."
+        },
+        {
+          "t": "p",
+          "x": "Developed by ReLU Games, a creative studio under KRAFTON, Inc., MIMESIS launched in Early Access on Steam on October 27, 2025. It passed 1 million (100만) cumulative sales within 50 days of launch, and its Steam user rating remains Very Positive."
+        },
+        {
+          "t": "p",
+          "x": "The Korea Game Awards, hosted by the Ministry of Culture, Sports and Tourism and organized by the Korea Association of Game Industry, select games and developers by evaluating artistry, technology and popularity. This year's ceremony was held on the 18th at BEXCO in Busan. KRAFTON said MIMESIS was highly rated for its planning and gameplay, which build artificial intelligence (AI) into the core structure of the game."
+        },
+        {
+          "t": "p",
+          "x": "MIMESIS is a 4-player co-op horror game in which players face AI-based NPC monsters that mimic their appearance, voice and behavior. The AI reads its surroundings and reacts to players' actions. Players must cooperate with teammates while doubting whether the other person is really a teammate."
+        },
+        {
+          "t": "p",
+          "x": "The game is set in a world where a mysterious rain has turned humans into 'Mimesis,' beings that copy other people's voices and behavior. Players must gather the resources needed to run a tram and work together, while any one of their teammates could be a monster. ReLU Games applied feedback from two rounds of tests and demos to the AI monsters in the Early Access version."
+        },
+        {
+          "t": "p",
+          "x": "Before the Korea Game Awards, the game also won awards overseas. At Japan's CEDEC Awards 2026 in June, it became the first Korean game to win an Excellence Award in the Game Design category, and at Japan's horror game awards it won the Multiplayer Horror Award."
+        },
+        {
+          "t": "p",
+          "x": "Since launch, ReLU Games has improved the AI monsters' behavior and added content. In October, marking the 1st anniversary of its Early Access launch, it released its second major update, 'OFF THE RAILS.' The update includes a feature that copies players' habits and a new 'Paranoia' system."
+        }
+      ]
+    },
+    "games/unity-gstar-ai-gamejam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1541798392.jpg",
+          "cap": "©Unity"
+        },
+        {
+          "t": "p",
+          "x": "In the age of AI, developers warm up ahead of G-STAR. Participants must build a game within 24 hours with their teammates, using Unity and AI. Together with the Korea Association of Game Industry, Unity is holding the 'Unity AI Game Jam,' an AI-based game development hackathon, for two days from today (the 18th), one day before G-STAR 2026, through the 19th in the seminar room of BEXCO Exhibition Hall 2 in Busan."
+        },
+        {
+          "t": "p",
+          "x": "Held for the first time in 2 years since 2024 and timed to G-STAR 2026, Korea's largest game show, the event runs on a 24-hour no-sleep schedule with 55 developers and designers selected through a document review. After forming teams on site, participants will complete a playable game within the time limit using Unity CLI, AI tools and API credits from sponsors OpenAI and Meshy AI (Meshy.ai), and technical mentoring."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1904988190.jpg",
+          "cap": "Countdown on, development officially begins ©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "On site, Unity experts including Kim Beom-joo, Unity APAC advocacy lead, senior advocate Oh Ji-hyun and senior advocate Kim Jae-ik (Goldmetal), as well as OpenAI engineers, took part as mentors, pushing up the use of the Unity engine and AI. Every participant also received $50 worth of credits for Unity's AI tools, and OpenAI and Meshy AI are also providing credits so participants can build their games smoothly. Drawing on their own knowledge and AI, participants quickly built drafts on site, discussed them and sought advice from mentors as they worked step by step."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1107801025.jpg",
+          "cap": "Pulling a concept art draft and running it straight through Meshy Ai to check the modeling takes only a few minutes ©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "After orientation, development at the Unity AI Game Jam begins at 2 p.m. and runs for 24 hours until 2 p.m. on the 19th. Winning teams will then be selected through judging, and depending on the award category, prizes will include a chance to exhibit their game at the Unity booth at G-STAR 2026, a 1-year ChatGPT Pro subscription, and interview opportunities featured on Unity's global and Korean official blogs."
+        }
+      ]
+    },
+    "games/games-unity-synty-acquisition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Unity%2BSyntyStudios_02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image credit: Unity/Synty Studios"
+        },
+        {
+          "t": "p",
+          "x": "Unity has acquired 3D asset creator and publisher Synty Studios."
+        },
+        {
+          "t": "p",
+          "x": "Announced today at Unite Tokyo, Synty's artist-created content will be integrated into Unity Spark, Unity's AI game-creation platform, which will enter closed beta later this year on Google Playground."
+        },
+        {
+          "t": "p",
+          "x": "Founded in 2014, New Zealand-based Synty creates low-poly 3D asset packs for Unity, Unreal Engine, and Godot."
+        },
+        {
+          "t": "p",
+          "x": "In a blog post, Unity stated that Synty will retain the \"same brand, same artists, and same style\" after the acquisition. It added that \"most\" of Synty's artists will join Unity full-time and continue developing new packs."
+        },
+        {
+          "t": "p",
+          "x": "Synty asset packs, licenses, and workflows will remain unchanged, as will the Synty Store and Synty Pass. Packs will continue to be available for Unreal Engine and Godot, free assets will remain free, and there are \"no plans to change Synty's pricing at this time.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Unity Spark will give more people the opportunity to turn their ideas into games, and artist-created content is an important part of that experience,\" said Unity VP of marketing Chris Gfroehrer."
+        },
+        {
+          "t": "p",
+          "x": "Synty co-founder Mike Clephane added: \"Joining Unity will allow our artists to continue building the detailed worlds, characters, and assets our community creates with today, while reaching a new generation of creators through Unity Spark.\""
+        }
+      ]
     }
   }
 }

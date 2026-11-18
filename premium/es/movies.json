@@ -11284,6 +11284,146 @@
           "x": "El acuerdo incluye además una subida del 24% en las tarifas de las películas con presupuesto superior a £50M ($66M), un aumento de 3 puntos porcentuales en las tarifas por uso en plataformas de streaming y un plazo de aviso de 72 horas para las self-tapes. El secretario general, Paul W Fleming: “Hemos logrado las mejores disposiciones sobre AI del sector”."
         }
       ]
+    },
+    "movies/movies-idfa-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.documentary.org/sites/default/files/2026-11/End%20of%20Times.jpeg",
+          "cap": "End of Times. Todas las imágenes, cortesía de IDFA"
+        },
+        {
+          "t": "p",
+          "x": "Este año, por primera vez, el IDFA pidió a los cineastas que presentaban sus obras que declararan el uso de IA en los formularios de inscripción. El formulario indica que la información \"no se usará como criterio de evaluación\", sino que funciona como punto de referencia y declaración que el IDFA consultará \"en caso de duda sobre la veracidad del material audiovisual\"."
+        },
+        {
+          "t": "p",
+          "x": "La directora artística Isabel Arrate Fernandez sitúa el origen de la idea en un montaje preliminar del año pasado en el que un pez animado \"no terminaba de convencer\". El programador de cortometrajes Vladan Petkovic dice que alrededor de 1 de cada 10 películas de su lote declararon el uso de IA, normalmente con detalle."
+        },
+        {
+          "t": "img",
+          "src": "https://www.documentary.org/sites/default/files/styles/horizontal_image/public/2026-11/The%20Recce%20-%20Still%201.jpeg?itok=R9a83165",
+          "cap": "The Recce"
+        },
+        {
+          "t": "p",
+          "x": "Entre las 12 películas aceptadas que declararon el uso de IA, Petkovic ve un espectro que va desde usos técnicos sutiles que él no puede detectar hasta películas como End of Times, que probablemente no existirían sin IA. Advierte de una \"pendiente resbaladiza\" si se pasa por alto el uso de IA."
+        },
+        {
+          "t": "p",
+          "x": "Arrate Fernandez afirma que la transparencia debe ser clara y sugiere que el IDFA podría preguntar a los cineastas cómo comunicarán al público el uso de IA. El IDFA celebra este año dos paneles sobre IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.documentary.org/sites/default/files/styles/horizontal_image/public/2026-11/Morro%20Grande.jpeg?itok=LreJZZM1",
+          "cap": "Morro Grande"
+        }
+      ]
+    },
+    "movies/vtr-north-virginbet-idents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/1/0/1492510_vrginbet_tnt_stills_04_470735.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La casa de posproducción de Leeds VTR North se encargó de toda la edición, el etalonaje, la limpieza y la creación de audio de las nuevas cortinillas AI-generated de patrocinio de Virgin Bet para TNT Sports."
+        },
+        {
+          "t": "p",
+          "x": "Las cortinillas, creadas por la agencia Bicycle Studios London, incluyen piezas de 15 segundos, de 10 segundos y cuatro de 5 segundos, tituladas Forza, Goal, Olé y Vamos."
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes de los spots se generaron en Google Flow. Las cortinillas tienen un acabado brillante y muy estilizado, que VTR logró al convertir material AI-generated en bruto en algo que destacara en un canal deportivo premium, según VTR."
+        },
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/0/2/1492502_vrginbet_tnt_stills_09_517705.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La empresa usó Flame para que cada plano encajara en un mismo mundo coherente, lo que implicó suavizar movimientos de cámara que no terminaban de funcionar, limpiar fotogramas y eliminar marcas de terceros que la IA había añadido automáticamente, antes de aplicar etalonajes coherentes con los demás recursos de Virgin Bet."
+        },
+        {
+          "t": "p",
+          "x": "VTR North compuso internamente una pista musical a medida, creó todo el paisaje sonoro y entregó la mezcla final desde su sala Pro Tools HDX, antes de que el paquete se masterizara para su emisión en TNT."
+        },
+        {
+          "t": "p",
+          "x": "Spencer Bain, director general de VTR North, dijo: \"La IA puede darte muchas imágenes muy rápido, pero no te da un anuncio terminado. Alguien todavía tiene que lograr que los planos parezcan pertenecer al mismo conjunto, quitar lo que no debería estar ahí y darle sonido a todo. … Ahí es donde una casa de acabado se gana su lugar, y es exactamente el tipo de trabajo del que queremos más\"."
+        },
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/0/5/1492505_vrginbet_tnt_stills_01_937593.jpg"
+        }
+      ]
+    },
+    "movies/kling-image4-8k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.leiphone.com/uploads/new/images/20261118/6afd03d6af1fd.jpg?imageMogr2/quality/90",
+          "cap": "Muestra de Kling Image 4.0 (vía Leiphone)"
+        },
+        {
+          "t": "p",
+          "x": "Kuaishou lanzó Kling Image 4.0 el martes por la noche, con generación nativa de imágenes en 8K y la capacidad de producir hasta 10 imágenes coordinadas a partir de un solo prompt. El modelo también está disponible mediante una API para desarrolladores y clientes empresariales. Combina comprensión visual y generación de imágenes en una sola arquitectura, orientada a trabajos como publicidad, storyboards y diseño para comercio electrónico."
+        },
+        {
+          "t": "p",
+          "x": "Kuaishou afirma que el modelo puede renderizar hasta 2000 caracteres dentro de una sola imagen, con soporte para siete idiomas y más de 70 fuentes comerciales predefinidas. Los usuarios pueden subir referencias para guiar la tipografía, la iluminación y el color, o generar imágenes largas para páginas de producto y diseños de sitios web. En proyectos de varias imágenes, el modelo puede planificar el contenido de cada imagen manteniendo un estilo visual compartido. [Leiphone, en chino]"
+        }
+      ]
+    },
+    "movies/movies-ai-drama-cubeberry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.ppss.kr/news/photo/202611/321768_145437_551.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los dramas de IA creados por directores de televisión abierta como Kwak Jung-hwan, Lee Jung-sub y Lee Tae-gon se proyectarán por primera vez en una pantalla de cine. La productora de contenidos de IA Cubeberry (dirigida por Lee Jin-seo) anunció que el día 27, a las 5:30 de la tarde, celebrará una proyección de presentación de cuatro webdramas de IA en la sala 1 del Centro de Cine de Seúl, en Chungmuro, distrito de Jung-gu, Seúl."
+        },
+        {
+          "t": "p",
+          "x": "Las obras son 'Division Zero', 'Cold Sight', 'Mokguryeong Podocheong' e 'Iel in Wonderland'. Las dirigieron Kwak Jung-hwan ('Chuno', 'Chief of Staff'), Lee Jung-sub ('Bread, Love and Dreams', 'Healer') y Lee Tae-gon ('Diary of a Prosecutor', 'Hello, My Twenties!'). La restante la dirigió Choi Eun-kyung, premiada en el Festival Internacional de Cine de IA de Busan por 'Yellow Adonis'."
+        },
+        {
+          "t": "p",
+          "x": "El guionista Jo Kyu-won, de 'IRIS', supervisó el desarrollo de las cuatro como creador principal. Se produjeron con 'XCONDA', la plataforma de video con IA de Cubeberry, con apoyo del 'New Media New Technology Content Lab' de la Agencia de Contenidos Creativos de Corea (KOCCA). Cada obra se concibió como una serie de formato medio de unos 20 minutos por episodio, y en el evento se proyectarán pilotos de 14 minutos de media."
+        },
+        {
+          "t": "p",
+          "x": "XCONDA es una plataforma centrada en reducir el problema de que el rostro, el vestuario y el lugar de los personajes cambien de un plano a otro en el video con IA. Sus funciones principales son 'FLEXBOARD', que permite componer de antemano storyboards de hasta 36 planos, y 'Blocking Board', que define los movimientos de actores y cámara sobre un plano 3D."
+        },
+        {
+          "t": "p",
+          "x": "En 'PREVUE', Cubeberry firmó un MOU con la productora japonesa de dramas TELEPACK para el desarrollo posterior de las cuatro obras. Su director ejecutivo, Lee Jin-seo, dijo: \"Estas cuatro obras son un punto de partida que demuestra que con IA también se pueden crear historias al nivel de los dramas de televisión\"."
+        }
+      ]
+    },
+    "movies/movies-runway-mcp-claude-film": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "V7YAhthJCh0"
+        },
+        {
+          "t": "p",
+          "x": "Aprende a hacer una micropelícula completa con Claude y Runway MCP. Configuramos un proyecto de Claude con las notas del director, desarrollamos la historia y los storyboards, creamos referencias de personajes y locaciones, y luego lo convertimos todo en una lista de planos de cuatro escenas con notas de estilo visual coherentes."
+        },
+        {
+          "t": "p",
+          "x": "A partir de ahí usamos el método de ráfaga para generar referencias de cobertura, creamos escenas multiplano completas en modo borrador y llevamos todo a la edición."
+        },
+        {
+          "t": "p",
+          "x": "Capítulos: 00:00 Intro · 00:40 Configurar un proyecto de Claude · 01:40 Planificación y storyboards · 02:30 Referencias de personajes y locaciones · 04:00 Lista de planos y método de ráfaga · 05:15 Generar y editar la escena. Prompts y configuración del proyecto: runway.com/prompts/short-film-runway-mcp"
+        }
+      ]
     }
   }
 }

@@ -12321,6 +12321,151 @@
           "x": "Appleは先週、Logic Proに$49.99のIntelligence Usage Packsによる「Buy More Usage」オプションを追加した。今月中に他のApple Creator Studioアプリにも導入される見込みだ。"
         }
       ]
+    },
+    "gadgets/ai-plush-toy-retailers-pull": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-11/261113-new-ai-toys-3x2-mn-1200-59af36.gif",
+          "cap": "NBC NewsはAmazonで購入したAI玩具三つを検証した。"
+        },
+        {
+          "t": "p",
+          "x": "映像画面を兼ねる大きな丸い目を持つContixo AI Pixie-Pawは、抱き心地のよい猫のぬいぐるみに見える。Amazonの商品説明によると、3歳からの子どもを対象に販売されるこの玩具は「ストーリーテリング、学習＆安全なロールプレイ」をうたっている。"
+        },
+        {
+          "t": "p",
+          "x": "3歳からの子どもを対象に販売されたAI-poweredの猫は、記者が歴史上の残虐行為について尋ねると、集団レイプや処刑による傷を描写した。WalmartとTargetは、この猫のぬいぐるみの販売を取りやめる大手小売三社に含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "専門家によると、子どもはどんなAI玩具を与えられても、その限界を試すものだという。"
+        }
+      ]
+    },
+    "gadgets/disney-anzellan-ai-animatronics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&w=1200",
+          "cap": "三体のAnzellansはそれぞれ異なる性格を持ち、隠しカメラとマイクで来園者とのやり取りに反応する。"
+        },
+        {
+          "t": "p",
+          "x": "Disneyパークのアニマトロニクスのキャラクターはどれほど高度でリアルになっても、通常は決められた動きやルーティンに従うか、見えない場所に操演者がいる。Walt Disney Imagineering R&Dは、AmazonのAWSクラウドとAI機能を使い、来園者とのやり取りにリアルタイムで独自の反応を返す新しいAudio-Animatronic試作機三体を公開した。"
+        },
+        {
+          "t": "p",
+          "x": "Vilo Vele、Kado Bre’a、Jibu Bre’aと名付けられた三体は、The Mandalorian and Groguに登場するStar WarsのAnzellansがモデルだ。今月下旬にLas VegasのAWS re:Inventで初めて一般公開され、いずれStar Wars: Galaxy’s EdgeなどDisneyパークのアトラクションに登場する可能性もある。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney2.jpg?quality=90&strip=all&w=1200",
+          "cap": "DisneyのStar Wars新アニマトロニクスは、操演者なしで来園者とリアルタイムにやり取りできる。"
+        },
+        {
+          "t": "p",
+          "x": "隠しカメラとマイクが来園者の動きや発話をとらえ、AWSのクラウドサーバー上で動く複数のAIモデルが処理する。「高速判断モデル」がアイコンタクトのような素早い反応を生み出し、より大きなモデルが長めのやり取りを組み立てる。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、モデルが選ぶ動きやセリフはすべて、各キャラクターの個性を保つためにDisney Imagineersが事前に書いたものだ。AIが行動を導く手助けをしても、Anzellansが台本から外れることはない。"
+        }
+      ]
+    },
+    "gadgets/rtx-spark-minipc-retail-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "今年初めに最初のRTX Sparkノートが発売されたのに続き、NvidiaのRTX Spark N1XチップがAsus、Dell、MSIのデスクトップでも利用可能になった。Acer、Gigabyte、HPからも今後RTX Sparkデスクトップが登場する予定で、MicrosoftのSurface RTX Spark Dev Boxは今月出荷が始まる見込みだ。新しいミニPCsは6144-coreのNvidia Blackwell RTX GPU、20-coreのNvidia Grace CPU、最大128GB のメモリを搭載する。ハイエンドなハードウェアだけに価格もそれ相応で、AsusのProArt GR1Xは64GB メモリと1TB ストレージの構成で$4,499からだ。"
+        },
+        {
+          "t": "p",
+          "x": "MacBook Proと競合するRTX Sparkノートや、Nvidiaが昨年発売したDGX Sparkデスクトップと同様に、新しいミニPCsはローカルAIモデルやRTX-acceleratedソフトウェアを扱う開発者向けの、Mac MiniやMac Studioの代替となる。これにはAdobe PremiereやPhotoshopといったツールのAI-powered機能や、Blender 5.3での新たなDLSS 4.5 Ray Reconstruction対応が含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "ゲームも動かせ、Windows on Armのゲーム対応も改善しつつあるが、この価格では今のところ購入する現実的な理由にはならない。Nvidiaは「ローカルモデルと常時稼働エージェントのための専用Windows PC」として機能し、「最大1ペタフロップのAI性能」を発揮するとしている。ネイティブのCUDAサポートも備え、Windows Subsystem for Linuxを通じてLinuxの開発ツールも利用できる。"
+        }
+      ]
+    },
+    "gadgets/frnia-silicone-face-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-desk-lifestyle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "FR-NIAは、動く液状シリコンの顔を中心に作られた11-inchの卓上ロボットだ。十の自由度で目、眉、口、首を動かすため、クラウドAIとの会話にはスピーカーグリルではなく表情が伴う。画面はない。Kickstarterでは目標額$10,003に対し129人の支援者から$91,812が集まっており、11月19日に締め切られる。配送は2027年3月の見込みだ。"
+        },
+        {
+          "t": "p",
+          "x": "十の自由度のうち七つが顔に、三つが首にあり、頭部の幅は8センチメートルだ。感情駆動型のシステムが表情の手がかり、声のトーン、話し方、会話の文脈を読み取って表情の強さとタイミングを決め、頭部はカメラを通じて利用者の顔を追う。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-event-conversation.jpg",
+          "cap": "AIはロボット本体ではなくクラウドにある"
+        },
+        {
+          "t": "p",
+          "x": "AIはロボット上では一切動かない。処理はすべてクラウドサーバーで行われ、インターネット接続が必要だ。Open API連携により支援者は好みのAIモデルを接続でき、音声は英語、中国語、日本語に対応し、さらに六つの言語が予定されている。会話や好みの長期記憶はクラウドストレージに保存される。"
+        },
+        {
+          "t": "video",
+          "yt": "RuQH3u-kuPA"
+        },
+        {
+          "t": "p",
+          "x": "Lite（$499のHalloween特価、通常価格$699）は、塗装されていない無地の顔、マイク一つ、2MP カメラ、最大三時間のバッテリーで出荷される。Pro（$699）とPro Max（$799）はスタイリングされた顔、より多くのマイク、ストレージ、バッテリーを加え、Pro Maxには5MP の120-degree カメラが付く。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-studio-front.jpg",
+          "cap": "所有者が塗る前の無地のLiteの顔"
+        }
+      ]
+    },
+    "gadgets/windows-ignite-hybrid-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftはIgnite 2026で、エージェントがコンピューティングの次の転換点になると述べた。十億台を超えるデバイスで動くWindowsは、Hybrid Intelligenceの時代にエージェントを安全に動かせるよう構築が進んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "セキュリティベンダーが保護機能をカーネルモードからユーザーモードへ移せるWindows endpoint security platformと、Windows administrator protectionが一般提供となった。Windows baseline protectionはプレビュー段階だ。Autopatchの利用企業は、オンプレミス管理より40%以上速く更新を展開している。"
+        },
+        {
+          "t": "p",
+          "x": "Hybrid Intelligenceは、タスクごとに適したモデルと計算資源をデバイス上またはクラウドで使い分ける。Microsoft Execution Containers(MXC)は各エージェントに隔離された環境を与え、アクセスできるファイルやネットワークをポリシーで定める。OpenAIはCodexでMXCを既定で有効にし、Metaは数万台のWindowsデバイスでMXCを運用している。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
+        },
+        {
+          "t": "p",
+          "x": "Windows 365 for Agentsはエージェントに安全なCloud PCsを提供し、Copilot Creditsの対象にもなった。Copilot+ PCsのCopilotには、自然な言葉でのファイル操作や読み取り専用のPC診断を含め、ローカルのコンテキスト、アクション、モデルが近く加わる。"
+        },
+        {
+          "t": "p",
+          "x": "GitHub Copilot Fusionは、開発者のPCsで動くMAI Code 1.1 Flashなどのローカルモデルにコーディング作業を振り分けられるようになった。プレビューとして提供される。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
+        }
+      ]
     }
   }
 }

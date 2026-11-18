@@ -12770,6 +12770,151 @@
           "x": "La semana pasada Apple actualizó Logic Pro con una opción “Buy More Usage” mediante Intelligence Usage Packs de $49.99, que se espera llegue este mes a otras apps de Apple Creator Studio."
         }
       ]
+    },
+    "gadgets/ai-plush-toy-retailers-pull": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-11/261113-new-ai-toys-3x2-mn-1200-59af36.gif",
+          "cap": "NBC News probó tres juguetes con AI que compró en Amazon."
+        },
+        {
+          "t": "p",
+          "x": "Con unos ojos grandes y redondos que funcionan también como pantallas de video, el Contixo AI Pixie-Paw parece un gato de peluche adorable. Comercializado para niños desde los 3 años, el juguete promete “narración de cuentos, aprendizaje & juego de rol seguro”, según su descripción en Amazon."
+        },
+        {
+          "t": "p",
+          "x": "Un gato AI-powered comercializado para niños desde los 3 años describió violaciones en grupo y heridas de ejecuciones cuando los periodistas le preguntaron por atrocidades históricas. Walmart y Target están entre los tres grandes minoristas que retiran el gato de peluche."
+        },
+        {
+          "t": "p",
+          "x": "Los expertos dicen que los niños pondrán a prueba los límites de cualquier juguete con AI que reciban."
+        }
+      ]
+    },
+    "gadgets/disney-anzellan-ai-animatronics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&w=1200",
+          "cap": "Los tres Anzellans tienen personalidades distintas y responden a las interacciones de los visitantes mediante cámaras y micrófonos ocultos."
+        },
+        {
+          "t": "p",
+          "x": "Por muy avanzados y realistas que se hayan vuelto los personajes animatrónicos de los parques de Disney, normalmente siguen movimientos y rutinas predefinidos o los maneja un titiritero oculto. Walt Disney Imagineering R&D ha presentado tres nuevos prototipos Audio-Animatronic que se apoyan en la nube AWS de Amazon y en capacidades de AI para responder de forma única a las interacciones de los visitantes en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Los tres animatrónicos, llamados Vilo Vele, Kado Bre’a y Jibu Bre’a, se basan en los Anzellans de Star Wars que aparecen en The Mandalorian and Grogu. Harán su primera aparición pública en Las Vegas a finales de este mes en AWS re:Invent, y con el tiempo podrían llegar a Star Wars: Galaxy’s Edge y a otras atracciones de los parques de Disney."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney2.jpg?quality=90&strip=all&w=1200",
+          "cap": "Los nuevos animatrónicos de Star Wars de Disney no necesitan un titiritero para interactuar con los visitantes en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Cámaras y micrófonos ocultos captan los movimientos y las interacciones verbales de los visitantes, que procesan varios modelos de AI que se ejecutan en servidores en la nube de AWS. Un “modelo de decisión rápida” genera respuestas inmediatas, como establecer contacto visual, mientras que modelos más grandes planifican interacciones más largas."
+        },
+        {
+          "t": "p",
+          "x": "Pero cada movimiento y cada línea de diálogo que eligen los modelos los han escrito de antemano los Imagineers de Disney para que cada personaje sea fiel a su personalidad. Aunque la AI ayuda a guiar sus acciones, los Anzellans nunca se salen del guion."
+        }
+      ]
+    },
+    "gadgets/rtx-spark-minipc-retail-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Después de que los primeros portátiles RTX Spark salieran a la venta a principios de este año, el chip RTX Spark N1X de Nvidia ya está disponible también en equipos de sobremesa de Asus, Dell y MSI. Más adelante llegarán más equipos de sobremesa RTX Spark de Acer, Gigabyte y HP, mientras que el Surface RTX Spark Dev Box de Microsoft empezará a distribuirse este mes. Los nuevos mini PCs incluyen una GPU 6144-core Nvidia Blackwell RTX, una CPU 20-core Nvidia Grace y hasta 128GB de memoria. Ese hardware de gama alta tiene un precio a la altura: el ProArt GR1X de Asus parte de $4,499 en una configuración con 64GB de memoria y 1TB de almacenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Al igual que los portátiles RTX Spark que compiten con el MacBook Pro y el equipo de sobremesa DGX Spark que Nvidia lanzó el año pasado, los nuevos mini PCs son alternativas al Mac Mini o al Mac Studio para desarrolladores que trabajan con modelos de AI locales y con software RTX-accelerated. Eso incluye las funciones AI-powered de herramientas como Adobe Premiere y Photoshop, y el nuevo soporte de DLSS 4.5 Ray Reconstruction en Blender 5.3."
+        },
+        {
+          "t": "p",
+          "x": "También pueden ejecutar juegos, y el soporte de juegos en Windows on Arm está mejorando, pero a estos precios todavía no es un motivo realista para comprar uno. Nvidia afirma que pueden funcionar como un “Windows PC dedicado para modelos locales y agentes siempre activos” y ofrecer “hasta 1 petaflop de rendimiento de AI”. Además, cuentan con soporte nativo de CUDA y acceso a herramientas de desarrollo de Linux mediante Windows Subsystem for Linux."
+        }
+      ]
+    },
+    "gadgets/frnia-silicone-face-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-desk-lifestyle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "FR-NIA es un robot de escritorio de 11-inch construido en torno a un rostro de silicona líquida que se mueve. Diez grados de libertad accionan sus ojos, cejas, boca y cuello, de modo que una conversación con su AI en la nube llega acompañada de expresiones en lugar de una rejilla de altavoz. No tiene pantalla. La campaña de Kickstarter suma $91,812 comprometidos frente a una meta de $10,003, con 129 patrocinadores, y cierra el 19 de noviembre; la entrega se estima para marzo de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Siete de los diez grados de libertad están en el rostro y tres mueven el cuello, en una cabeza de 8 centímetros de ancho. Un sistema basado en emociones lee señales faciales, tono de voz, patrones de habla y contexto de la conversación para ajustar la intensidad y el momento de las expresiones, y la cabeza sigue tu rostro a través de la cámara."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-event-conversation.jpg",
+          "cap": "La AI vive en la nube, no en el robot"
+        },
+        {
+          "t": "p",
+          "x": "Nada de la AI se ejecuta en el robot: todo el procesamiento ocurre en servidores en la nube y requiere conexión a internet. La integración Open API permite a los patrocinadores conectar el modelo de AI que prefieran, y la voz funciona en inglés, chino y japonés, con seis idiomas más previstos. El almacenamiento en la nube guarda una memoria a largo plazo de conversaciones y preferencias."
+        },
+        {
+          "t": "video",
+          "yt": "RuQH3u-kuPA"
+        },
+        {
+          "t": "p",
+          "x": "Lite ($499 en oferta de Halloween, $699 de precio de venta) se entrega con un rostro en blanco sin pintar, un micrófono, una cámara de 2MP y hasta tres horas de batería. Pro ($699) y Pro Max ($799) añaden rostros con estilo, más micrófonos, almacenamiento y batería; Pro Max añade una cámara de 5MP con ángulo de 120-degree."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-studio-front.jpg",
+          "cap": "El rostro en blanco del Lite, antes de que su dueño lo pinte"
+        }
+      ]
+    },
+    "gadgets/windows-ignite-hybrid-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En Ignite 2026, Microsoft afirma que los agentes son el próximo cambio en la informática, y Windows, presente en más de mil millones de dispositivos, se está construyendo para ejecutarlos de forma segura en la era de la Hybrid Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "La Windows endpoint security platform, que permite a los proveedores de seguridad trasladar las protecciones del modo kernel al modo usuario, y Windows administrator protection ya están disponibles de forma general; Windows baseline protection está en versión preliminar. Los clientes de Autopatch implementan actualizaciones más de un 40% más rápido que con la gestión local."
+        },
+        {
+          "t": "p",
+          "x": "Hybrid Intelligence usa el modelo y la capacidad de cómputo adecuados para cada tarea, en el dispositivo o en la nube. Microsoft Execution Containers (MXC) da a cada agente un entorno aislado con políticas sobre a qué archivos y redes puede acceder. OpenAI ha activado MXC por defecto en Codex, y Meta lo ejecuta en decenas de miles de dispositivos Windows."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
+        },
+        {
+          "t": "p",
+          "x": "Windows 365 for Agents ofrece a los agentes Cloud PCs seguros y ya se puede usar con Copilot Credits. Copilot en los Copilot+ PCs recibirá pronto contexto, acciones y modelos locales, incluidas acciones sobre archivos en lenguaje natural y diagnósticos del PC de solo lectura."
+        },
+        {
+          "t": "p",
+          "x": "GitHub Copilot Fusion ya puede derivar tareas de programación a modelos locales como MAI Code 1.1 Flash en los PCs de los desarrolladores, en versión preliminar."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
+        }
+      ]
     }
   }
 }

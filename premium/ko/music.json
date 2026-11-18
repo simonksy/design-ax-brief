@@ -15770,6 +15770,121 @@
           "x": "호주 창작·미디어 산업은 해마다 국가 경제에 $70.3 billion 을 보태고 600,000명 가까운 일자리를 떠받친다. 캠페인은 시민들에게 청원 서명과 지역구 연방 하원의원(MP)에게 편지 보내기, nottheirstotake.com.au 캠페인 자료 공유를 요청했다."
         }
       ]
+    },
+    "music/soundcloud-seton-ai-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/11/eliah-seton-courtesy-of-soundcloud.jpg?w=667",
+          "cap": "Eliah Seton"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud CEO Eliah Seton은 AI 음악을 두고 훨씬 더 “섬세한” 논의가 필요하다고 본다. “그동안 너무 이분법적인 틀이 있었다”며 “선 아니면 악, 받아들이거나 거부하거나 둘 중 하나였다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud는 최근 두 주 사이 Moises, ElevenLabs의 Eleven Music과 잇달아 계약했다. 이용자가 AI-aided(AI 보조) 창작물을 SoundCloud로 들여오거나 밖으로 가져가게 하려는 계약으로, 2024년부터 맺어 온 다른 AI 음악 제휴 10건에 이어진다. Seton에 따르면 플랫폼 청취의 85%가 user-generated(이용자 생성) 콘텐츠다."
+        },
+        {
+          "t": "p",
+          "x": "Seton은 새 공개서한에서 “스팸, 사기, 기만 행위”를 다룬 플랫폼의 새 규정만 어기지 않으면 AI 음악도 허용된다고 썼다. 서한에는 “AI slop이 설 자리는 SoundCloud에 없다”는 문장도 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "Seton은 Billboard에 “AI 음악의 등장을 그저 없던 일로 바라는 것은 전략이 아니다”라고 말했다. AI로 스트리밍 수를 조작하거나 AI slop으로 플랫폼을 도배하는 이용자는 막는다. 2025년 약관을 바꾸기 전 SoundCloud가 생성형 AI 모델 학습에 콘텐츠를 쓴 적이 있느냐고 묻자 그는 “아니다, 절대 없다”고 답했다."
+        }
+      ]
+    },
+    "music/tuneart-ai-music-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/Screenshot-2026-11-16-at-13.29.14.png?fit=1143%2C954&ssl=1",
+          "cap": "TuneART"
+        },
+        {
+          "t": "p",
+          "x": "TuneArt는 “박자에 맞춰 편집하고 가사를 화면에 띄운, 뮤직비디오가 된 당신의 노래”를 내세운다. Kling, Google의 Nano Banana와 Veo, ByteDance의 Seedance 등 외부 모델을 가져다 쓰면서 자체 beat-tracking 기술을 얹었다."
+        },
+        {
+          "t": "p",
+          "x": "요금제는 pay-as-you-go 방식으로, 크레딧을 묶음으로 판다. 50크레딧이 $4.99인데 영상 한 편쯤 만들 분량이다."
+        },
+        {
+          "t": "p",
+          "x": "창업자 Tao는 Music Ally에 “파운데이션 모델은 빌려 쓰지만, 타이밍과 패키징은 우리 것”이라고 말했다. 윤리 문제를 묻자 “노래는 해당 아티스트의 영상을 만드는 데 쓰인다. 업로드된 곡을 자체 모델의 학습 데이터로 다루지 않는다”고 답했다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/tuneart-animals.jpg?resize=700%2C389&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "노래하거나 춤추는 반려동물 영상도 TuneArt로 만들 수 있다. Tao는 “곡 전체(whole-song) 편집본은 같은 선상에서 진지한 쪽 끝”이라며 “반려동물 클립은 장난스러운 쪽 끝”이라고 설명했다."
+        }
+      ]
+    },
+    "music/sonilo-symphonic-optin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-18-at-12.47.16.jpg"
+        },
+        {
+          "t": "p",
+          "x": "전 TikTok 직원들이 세운 AI 오디오 기업 Sonilo가 독립 유통사 Symphonic과 라이선스 계약을 맺었다. Sonilo는 이제 Symphonic 소속 독립 아티스트와 레이블의 녹음물로 AI 음악 모델을 학습시킬 수 있다. opt-in을 고른 곳만 해당한다."
+        },
+        {
+          "t": "p",
+          "x": "Sonilo는 앞서 10월 B Capital이 이끈 USD $11 million 규모 투자 유치를 발표했다. 계약의 재무 조건은 공개하지 않았다. Symphonic 아티스트나 레이블 중 몇 곳이 opt-in했는지도 두 회사는 밝히지 않았다. Sonilo는 “음악 뒤에 있는 권리자를 위한 투명성과 보상을 뒷받침하는 기여도 보고”를 제공하겠다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Sonilo 공동 창업자(Co-Founder)이자 COO인 Keli Li는 “라이선스는 나중에 덧붙이는 기능이 아니다. 그것이 우리가 Sonilo를 만든 방식이다”라고 말했다. Symphonic CEO Jorge Brea는 “AI는 동의, 투명성, 공정한 대가 위에 세워질 때만 아티스트에게 진짜 기회가 된다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Sonilo 모델은 영상이나 텍스트, 또는 둘 다를 입력받아 음악과 효과음을 만든다. 10월 27일 발표된 Musical AI 제휴에 따라 생성된 오디오를 하나하나 분석해, 바탕이 된 라이선스 녹음물과 작곡물이 얼마나 기여했는지 잰다."
+        }
+      ]
+    },
+    "music/arxiv-music-gen-psychometrics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "주관적 사용자 연구는 음악 생성 모델을 평가하는 주된 방법 가운데 하나다. 그런데 평가 프로토콜이 연구마다 제각각이고 재현할 만큼 자세히 적힌 경우도 드물어, 연구끼리 비교하기 어렵다. 이 논문은 2020-2025년 ISMIR 음악 생성 논문의 주관적 평가 방법을 정리하고, 생성형 심리측정을 적용해 평가 항목이 얼마나 안정적인지 살핀다. 각 논문의 방법론 서술에서 항목 284개를 뽑아 LLM과 수작업 검증으로 표준화했다. 항목은 맥락 임베딩으로 표현했다. 이어 Unique Variable Analysis로 중복되거나 국소적으로 의존하는 항목을 걸러내고 Bootstrap Exploratory Graph Analysis로 잠재 차원을 추정했다. 그 결과 네트워크는 Rhythm, Melody, Audio, Composition, Structure, Lyrics 여섯 가지 안정적인 품질 차원의 분류 체계로 수렴했다. 음악 생성 모델 평가용 사용자 연구를 하나의 방법론으로 묶을 길이 보인다."
+        }
+      ]
+    },
+    "music/suno-visuals-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+          "cap": "Suno가 Visuals를 출시했다. 헤더 이미지는 여러 비주얼을 엮은 콜라주다."
+        },
+        {
+          "t": "p",
+          "x": "Suno는 10월 Speech를 내놓으며, 스스로 크리에이티브 엔터테인먼트라 부르는 영역을 처음 음악 밖으로 넓혔다. 영상은 늘 예정된 다음 단계였다. 다만 최근까지 영상 생성은 느리고 비싸 기업이 아니면 엄두를 내기 어려웠다. 새 세대 모델이 이 판을 바꾸고 있다. Visuals는 음악에 생명을 불어넣으려고 만든 Suno의 최신 창작 도구다."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Visuals로 새 이미지와 영상을 만든다. 비트에 맞춰 움직이는 가사 영상, 머릿속 사운드에 어울리는 앨범 아트, 사진 한 장을 새롭게 풀어낸 인상적인 영상 클립 같은 것들이다. 모델은 음악을 돋보이게 하는 쪽으로 최적화됐다. 영상 클립은 곡 구조를 따라가고, 가사를 읽어 내고, 립싱크까지 맞춘다."
+        },
+        {
+          "t": "p",
+          "x": "라이브러리의 곡을 Visuals 탭에 끌어다 놓으면 최대 15초 길이의 클립이 만들어진다. 이후 텍스트로 늘리고 편집하고, 프롬프트를 다시 줄 수도 있다. 오리지널 캐릭터로 시작해도 되고 직접 가진 원본 이미지로 시작해도 된다. Visuals는 웹, iOS, Android에서 나오며, Visual 크레딧은 곡 크레딧과 따로 산다."
+        },
+        {
+          "t": "p",
+          "x": "새 텍스트·비주얼 필터는 특정 아티스트나 공인, 저작권 보호 작품과 IP를 재현하려는 업로드·프롬프트를 걸러 낸다. 생성 결과물은 화면에 뜨기 전에 Community Guidelines 준수 여부를 검사받고, 저작권 오디오는 Audible Magic, ACRCloud, Musixmatch가 함께 막는다. Visuals 결과물을 플랫폼 밖으로 공유할 때는 내장 워터마크가 들어간다."
+        }
+      ]
     }
   }
 }

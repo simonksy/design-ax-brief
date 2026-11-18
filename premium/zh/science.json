@@ -11139,6 +11139,141 @@
           "x": "该研究属于观察性研究，无法证明AI工具会直接导致更保守的选题或更高的NIH资助几率。"
         }
       ]
+    },
+    "science/science-art-memorability-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/art.jpg",
+          "cap": "图片来源: Mikhail Nilov / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Chicago的研究者举办了一场全国性艺术竞赛，请艺术家创作或令人难忘、或容易被遗忘的作品。在符合规则的86件投稿中，难忘类别的作品在线上测试中更容易被记住；重复元素更少、对称性更低的简洁作品更令人难忘。"
+        },
+        {
+          "t": "p",
+          "x": "团队挑出最难忘的20件和最易被遗忘的20件，在Chicago举办了一场为期一个月、共40件作品的记忆主题展览。共同作者Yifei Chen说，这一规律“在展厅里依然成立”；资深作者Wilma Bainbridge称这是“对我们实验室而言非常冒险的实验”。"
+        },
+        {
+          "t": "video",
+          "yt": "PppFwlbc8ek"
+        },
+        {
+          "t": "p",
+          "x": "研究者自行开发、仅用照片训练的神经网络ResMem在区分最难忘与最易被遗忘的作品上表现最好，其次是艺术家自己的分类，再次是普通人的评分。Chen说它做得“比任何人都好得多”。该研究《Artists Can Design Memory, and AI Can Predict It》（Davis et al.）发表于Psychological Science。"
+        }
+      ]
+    },
+    "science/nature-llm-beer-game-cognition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "大语言模型（LLMs）越来越多地替代人类参与者，但貌似合理的回答并不能证明存在人类式的决策过程。这一差距在智能体相互作用时最为关键：局部合理的选择会经由延迟和反馈不断叠加，最终形成集体结果。"
+        },
+        {
+          "t": "p",
+          "x": "行为模型依据人类数据拟合决策规则；作者探讨仅凭这些模型的定性内容能否驱动 LLM 智能体，并将这一方法称为认知锚定（cognitive grounding）。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig1_HTML.png",
+          "cap": "Fig. 1: 工作流程与验证管线。"
+        },
+        {
+          "t": "p",
+          "x": "Beer Distribution Game 是一项供应链实验，玩家的订单会放大需求波动。在该游戏的 231 场会话中，认知锚定使七个 LLMs 的行为向人类校准的水平靠拢。未经锚定的智能体能再现游戏的不稳定性，却把握不住其幅度、时机和传播方式；认知锚定提升了每个模型的轨迹拟合度，并总体上使推断出的决策参数向人类校准的参照值移动，只是在不同角色和模型之间并不均衡。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig3_HTML.png",
+          "cap": "Fig. 3: 按模型和提示条件划分的系统层面牛鞭效应。"
+        },
+        {
+          "t": "p",
+          "x": "这一效应在独立实证数据的检验下成立，在其他提示方式和记忆设计下同样成立。因此，经过认知锚定的 LLMs 可作为行为替代的候选，但须以针对具体任务的验证为前提。"
+        }
+      ]
+    },
+    "science/zapata-forshor-quantum-verify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-7.06.26-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Zapata Quantum推出了与University of Maryland共同开发的公开挑战ForShor.ai，用来检验量子算法研究中AI-generated的结果如何在数学上得到验证并为研究者所理解。它以经过形式验证的Shor’s algorithm实现为核心，参与者可以把AI-generated的解提交到公开排行榜，贡献者有机会成为后续论文的共同作者。"
+        },
+        {
+          "t": "p",
+          "x": "“AI将重塑量子算法的发现方式，但未经数学证明的结果无法信任，”最近加入Zapata的Scientific Advisory Board的Peter Shor说。“ForShor把有人参与的形式验证放在这一过程的中心。”"
+        },
+        {
+          "t": "p",
+          "x": "CTO Yudong Cao称这是一个“white-box”环境：“用形式验证确立正确性，在经过形式验证的框架内用AI解决问题，并确保结果能向人解释。”Zapata希望把这一思路扩展到其他量子算法，并把ForShor作为其Quantum Pilot软件中验证方法的试验场。该项目始于Unitary Foundation的一笔小额资助。"
+        }
+      ]
+    },
+    "science/sciam-math-students-ai-survey": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://static.scientificamerican.com/dam/asset/82b1a8fb-bcbd-4f70-b9cf-b48794409cc3/ai-math-video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "三位数学Ph.D.在读学生——Anna Brandenberger、Hanna Mularczyk与Dora Woodruff——在AI攻克数学家追索数十年的难题之后，对研究生和博士后做了调查。来自近60家机构的268份回答写入一篇预印本，勾出一个悬而未决的学术群体。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3234db4c-b1bb-4044-97c6-87cc82593ced/math-survey-d1.png?m=1794611877.12&w=1200",
+          "cap": "来源：Anna Brandenberger、Hanna Mularczyk与Dora Woodruff的《Early Career Researchers’ Responses to AI in Math》。"
+        },
+        {
+          "t": "p",
+          "x": "10位受访者中有七位说，自己留在数学界的可能性已经变小；三分之二觉得研究动力下降。“有人对我说过这样的话：‘我觉得自己没用。’”Woodruff说。约一半人对AI在数学中的潜力持乐观态度，三分之一反对使用；全部受访者中只有百分之十三对当下的走向感到满意。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/147cfc21-03f4-490b-be4a-93fe8afc2920/math-survey-d2.png?m=1794611866.395&w=1200",
+          "cap": "来源：Anna Brandenberger、Hanna Mularczyk与Dora Woodruff的《Early Career Researchers’ Responses to AI in Math》。"
+        },
+        {
+          "t": "p",
+          "x": "几乎所有受访者都在用AI，但许多人说自己是被迫使用以跟上步伐——不情愿地掌握那项他们担心会让自己过时的技术。Woodruff提醒，这项自愿参与的调查并不具代表性。"
+        }
+      ]
+    },
+    "science/science-deepfake-hyperreal-fmri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear.jpg",
+          "cap": "Deepfakes Task 中试验顺序与时间安排的示例图像及示意图。Credit: Social Cognitive and Affective Neuroscience (2026). DOI: 10.1093/scan/nsag086"
+        },
+        {
+          "t": "p",
+          "x": "University of Florida 的一项新研究显示，深度伪造人脸看起来甚至可能比真人照片更真实。研究将这种“深度伪造超真实感”(deepfake hyperrealism)与前脑岛(anterior insula)联系起来——这一脑区在分析深度伪造内容时活动会减弱。老年人表现出的偏差更为强烈。"
+        },
+        {
+          "t": "p",
+          "x": "“假脸被认为比真脸更真实，”领导这项研究的 University of Florida 心理学教授 Natalie Ebner 说。该研究发表于 Social Cognitive and Affective Neuroscience。“实际上比瞎猜还要糟。”"
+        },
+        {
+          "t": "p",
+          "x": "研究团队向126名年龄在18至89岁之间的参与者展示了80张人脸图像，其中一半为真实人脸、一半为 AI-generated 人脸，参与者在接受脑部扫描的同时为每张脸的真实程度打分。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear-1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "年轻组和年长组都认为 AI-generated 人脸比真实照片更真实，而参与者观看深度伪造图像时前脑岛活动较低。Ebner 表示，AI 人脸看起来更真实，可能是因为它们由许多张人脸平均生成，因而“更容易处理，也更讨人喜欢”。她说，意识到这种偏差或许才是真正的优势，对常成为诈骗目标的老年人尤其如此。"
+        }
+      ]
     }
   }
 }

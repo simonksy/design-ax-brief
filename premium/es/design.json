@@ -12424,6 +12424,114 @@
           "x": "Claude es cada vez más creativo en las tareas visuales. Hace poco, Claude Fable 5.2 pintó obras fotorrealistas trazo a trazo con código Python escrito por él mismo."
         }
       ]
+    },
+    "design/snap-easy-lens-cli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+          "cap": "Image Credits: KIRILL KUDRYAVTSEV/AFP / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Snapchat anunció el miércoles que permitirá a los creadores de Lens construir Lenses con los asistentes de programación AI que ya utilizan, como Claude Code, Cursor y Codex. La compañía presenta Easy Lens CLI, que se basa en su herramienta Easy Lens (prompt-to-Lens), con la que los creadores generan Lenses a partir de una sola instrucción en la web y en móviles. Así, los asistentes AI se encargan del trabajo técnico mientras los creadores se concentran en la visión de la propia Lens."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/Easy-Lens-CLI-Announcement_Triptych.gif?w=680",
+          "cap": "Image Credits: Snapchat"
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores inscritos en el programa Lens+ Payouts de Snapchat pueden obtener ingresos con las Lenses que creen con Easy Lens CLI; Snapchat afirma que pagó $1.8 million a los creadores de la comunidad Lens+ el mes pasado. Los creadores describen la Lens en lenguaje sencillo y su asistente AI gestiona el proceso de principio a fin, lo que incluye construir con más de 100 bloques de AR y 50 generadores de recursos AI, generar vistas previas, publicar en Snapchat y hacer seguimiento del rendimiento. Según Snapchat, la función permite llevar un juego desde la idea inicial hasta una Lens publicada en un solo día, sin que los desarrolladores tengan que escribir código. Los desarrolladores de juegos pueden llevar juegos de navegador a Snapchat como Web Lenses, y las agencias y marcas pueden convertir recursos de campaña en experiencias de AR. Easy Lens CLI funciona en Mac, Windows y Linux."
+        }
+      ]
+    },
+    "design/figma-multi-image-prompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Genera varias imágenes a partir de un solo prompt (Nov 18, 2026 — Figma Design, FigJam, Figma Slides, Figma Draw)."
+        },
+        {
+          "t": "p",
+          "x": "Llega antes a la imagen adecuada generando varias opciones al usar Make image o Edit image en Figma."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo, varias imágenes: haz que un solo modelo de imagen genere dos, cuatro o seis imágenes a partir de un prompt, para dedicar menos tiempo a reescribirlo."
+        },
+        {
+          "t": "p",
+          "x": "Varios modelos, una imagen cada uno: ejecuta tu prompt en hasta tres modelos de imagen a la vez para ver la interpretación de cada uno lado a lado y quedarte con la que más te guste."
+        }
+      ]
+    },
+    "design/comfy-cloud-custom-build": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ya puedes ejecutar tu configuración de ComfyUI desde cualquier lugar. Crea, edita y ejecuta flujos de trabajo en el navegador con los nodos y modelos personalizados de tu equipo. Comfy Cloud gestiona la infraestructura de GPU. El Build personalizado de tu equipo ya está disponible en Comfy Cloud en todos los planes de pago."
+        },
+        {
+          "t": "video",
+          "yt": "xDaqSfwAlfw"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo artista se une a tu equipo a mitad de una campaña. Abre Comfy Cloud y tiene los mismos nodos, modelos y LoRAs que el resto, sin configurarlos en local. Un Custom Build empaqueta los nodos, modelos y LoRAs compatibles de tu equipo y sus dependencias, incluidos paquetes de nodos privados o internos; los desarrolladores pueden ejecutar flujos de trabajo mediante la API con la misma configuración."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!B4wU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f68ff37-2c18-466a-a864-db0591c88f98_1920x1080.png",
+          "cap": "Edita y prueba donde se ejecutan tus flujos de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Eliges la GPU para la configuración de tu equipo, desde la RTX PRO 6000 (48GB o 96GB) hasta la H100, la H200 y la B200 de 180GB, y Comfy Cloud reduce la escala automáticamente cuando terminan los trabajos. Los Custom Builds se incluyen en todos los planes de pago, a partir de Standard, con 2 trabajos simultáneos en Standard y Creator y hasta 20 en Team. El tiempo de GPU se factura por segundo mientras los workers están en ejecución, a entre $1.75/hr y $11.23/hr según la GPU."
+        }
+      ]
+    },
+    "design/rayon-v4-browser-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-FHD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rayon V4 añade modelado 3D, un agente AI, renderizado generativo y acceso móvil a su software de diseño basado en navegador. 'Apuntamos a la brecha entre AutoCAD y SketchUp', dice el cofundador Stanislas Chaillou. El modelado 3D y la AI agéntica se lanzan en beta, en un producto que sigue firmemente centrado en interiores. Rayon empezó con un sistema de dibujo colaborativo en el navegador y una interfaz limpia, al estilo de Figma."
+        },
+        {
+          "t": "p",
+          "x": "Rayon usa una AI ajustada para convertir planos 2D en modelos espaciales y generar bloques 3D editables, incluido el mobiliario. Chaillou mostró un edificio 3D generado en unos 90 segundos; a partir de estos modelos se pueden obtener secciones y alzados. 'No queremos en absoluto que se sienta como Revit', afirma."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Rayon-V4-1.webp",
+          "cap": "El nuevo estudio de renderizado AI de Rayon"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio de renderizado AI genera imágenes de escenas y las anima en video. El agente puede convertir PDFs importados en planos editables, zonificar y amueblar distribuciones, armar cuadros y preparar páginas de presentación. En una prueba sin guion colocó focos, cableado y un cuadro de longitudes de cable, y luego produjo un plano de intensidad lumínica codificado por colores, aunque no una simulación de iluminación validada. El plan Solo cuesta $38 al mes con facturación anual e incluye 1,000 créditos AI al mes."
+        }
+      ]
+    },
+    "design/figma-oauth-mcp-allowlist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los administradores pueden usar una lista de apps OAuth aprobadas, incluidos clientes MCP como Cursor y Claude Code, para gestionar qué apps pueden usar sus equipos. También podrán revisar solicitudes de apps y gestionar las apps aprobadas desde la nueva pestaña Extensions de la consola de administración."
+        },
+        {
+          "t": "p",
+          "x": "El despliegue en los planes Organization y Enterprise se completará en los próximos días."
+        }
+      ]
     }
   }
 }

@@ -16021,6 +16021,141 @@
           "x": "관찰 연구라서 AI 도구 때문에 더 안전한 주제를 고르게 되거나 NIH 연구비 수주 확률이 높아진다고 단정하기는 어렵다."
         }
       ]
+    },
+    "science/science-art-memorability-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/art.jpg",
+          "cap": "크레딧: Mikhail Nilov / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Chicago 연구진은 전국 미술 공모전을 열고 기억에 남을 작품이나 잊히기 쉬운 작품을 만들어 달라고 주문했다. 규정에 맞는 응모작 86점을 온라인 실험에 부치자 기억에 남는 범주의 작품이 실제로 더 잘 기억됐다. 반복 요소가 적고 대칭이 덜한 단순한 작품일수록 기억에 더 잘 남았다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 가장 기억에 남는 작품 20점과 가장 잊히기 쉬운 작품 20점을 골라 기억을 주제로 한 40점짜리 전시를 꾸렸고, Chicago에서 한 달간 열었다. 공동 저자 Yifei Chen은 이 경향이 “전시장에서도 유지됐다”고 했다. 책임 저자 Wilma Bainbridge는 “우리 연구실로서는 매우 위험한 실험”이었다고 말했다."
+        },
+        {
+          "t": "video",
+          "yt": "PppFwlbc8ek"
+        },
+        {
+          "t": "p",
+          "x": "ResMem은 연구진이 직접 개발해 사진만으로 학습시킨 신경망이다. 가장 기억에 남는 작품과 가장 잊히기 쉬운 작품을 가려내는 데는 ResMem이 가장 뛰어났다. 작가들이 스스로 정한 범주가 뒤를 이었고 일반인의 평가가 마지막이었다. Chen은 ResMem이 “어떤 사람보다도 훨씬 잘했다”고 말했다. 연구 “Artists Can Design Memory, and AI Can Predict It”(Davis et al.)은 Psychological Science에 실렸다."
+        }
+      ]
+    },
+    "science/nature-llm-beer-game-cognition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "대규모 언어 모델(LLMs)이 인간 참가자를 대신하는 일이 늘고 있다. 하지만 그럴듯한 응답을 내놓는다고 사람처럼 의사결정을 한다는 증거가 되지는 않는다. 이 간극은 에이전트끼리 상호작용할 때 가장 크게 벌어진다. 그 자리에서는 합리적인 선택도 지연과 피드백을 거치며 쌓이면 집단 전체의 결과로 번지기 때문이다."
+        },
+        {
+          "t": "p",
+          "x": "행동 모델은 인간 데이터에 맞춰 의사결정 규칙을 세운다. 연구진은 이 모델의 정성적 내용만으로 LLM 에이전트를 움직일 수 있는지 따져 봤다. 이 접근을 인지적 근거 부여(cognitive grounding)라고 부른다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig1_HTML.png",
+          "cap": "Fig. 1: 작업 흐름과 검증 파이프라인."
+        },
+        {
+          "t": "p",
+          "x": "Beer Distribution Game은 플레이어의 주문이 수요 변동을 키우는 공급망 실험이다. 231회 세션에서 근거 부여는 일곱 개 LLMs의 행동을 인간 기준에 맞춘 쪽으로 끌어당겼다. 근거가 없는 에이전트도 게임의 불안정성은 재현했지만 그 규모와 시점, 전파 양상은 놓쳤다. 근거를 부여하자 모든 모델에서 궤적 적합도가 올라갔고 추정된 의사결정 매개변수도 대체로 인간 기준값 쪽으로 움직였다. 다만 그 폭은 역할과 모델마다 고르지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig3_HTML.png",
+          "cap": "Fig. 3: 모델과 프롬프트 조건별 시스템 수준 채찍 효과."
+        },
+        {
+          "t": "p",
+          "x": "이 효과는 독립적인 실증 데이터와 비교해도, 프롬프트 방식과 메모리 설계를 바꿔도 유지됐다. 인지적 근거를 갖춘 LLMs는 그래서 인간 행동을 대신할 후보가 된다. 단, 과제별 검증이 전제다."
+        }
+      ]
+    },
+    "science/zapata-forshor-quantum-verify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-7.06.26-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Zapata Quantum은 University of Maryland와 함께 만든 공개 과제 ForShor.ai를 시작했다. 양자 알고리즘 연구에서 나온 AI-generated 결과를 어떻게 수학적으로 검증하고 연구자가 이해하게 만들지 살피는 과제다. 형식 검증을 거친 Shor’s algorithm 구현이 과제의 중심이다. 참가자는 AI-generated 해법을 공개 리더보드에 낼 수 있고 기여자는 뒤이어 나올 논문에 공저자로 이름을 올릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "최근 Zapata의 Scientific Advisory Board에 합류한 Peter Shor는 “AI는 양자 알고리즘을 발견하는 방식을 바꿀 것이다. 그러나 수학적으로 증명하지 못한 결과는 신뢰할 수 없다”고 말했다. “ForShor는 사람이 과정에 함께하는 형식 검증을 그 중심에 둔다.”"
+        },
+        {
+          "t": "p",
+          "x": "CTO Yudong Cao는 이를 “white-box” 환경이라 불렀다. “형식 검증으로 정확성을 세우고, 그 틀 안에서 AI로 문제를 풀며, 결과를 사람에게 설명할 수 있게 한다.” Zapata는 이 방식을 다른 양자 알고리즘으로 넓힐 계획이다. ForShor는 자사 Quantum Pilot 소프트웨어의 검증을 시험하는 무대로도 쓴다. 프로젝트는 Unitary Foundation의 소액 지원금으로 출발했다."
+        }
+      ]
+    },
+    "science/sciam-math-students-ai-survey": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://static.scientificamerican.com/dam/asset/82b1a8fb-bcbd-4f70-b9cf-b48794409cc3/ai-math-video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "수학 Ph.D. 과정의 Anna Brandenberger, Hanna Mularczyk, Dora Woodruff는 수학자들이 수십 년간 붙잡아 온 문제를 AI가 풀어내자 대학원생과 박사후연구원에게 설문을 돌렸다. 60곳 가까운 기관에서 응답 268건이 모였다. 프리프린트로 정리된 결과는 어정쩡한 자리에 놓인 학계를 보여 준다."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3234db4c-b1bb-4044-97c6-87cc82593ced/math-survey-d1.png?m=1794611877.12&w=1200",
+          "cap": "자료: Anna Brandenberger, Hanna Mularczyk, Dora Woodruff의 “Early Career Researchers’ Responses to AI in Math”."
+        },
+        {
+          "t": "p",
+          "x": "응답자 10명 중 일곱 명은 이제 수학에 남을 가능성이 낮아졌다고 답했고 삼분의 이는 연구 의욕이 꺾였다고 했다. Woodruff는 “사람들이 저에게 ‘내가 아무 쓸 데가 없다고 느껴진다’ 같은 말을 해 왔다”고 말한다. 절반가량은 AI가 수학에 가져올 가능성을 낙관하지만 삼분의 일은 사용에 반대한다. 지금 흐름에 만족하는 응답자는 13퍼센트뿐이다."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/147cfc21-03f4-490b-be4a-93fe8afc2920/math-survey-d2.png?m=1794611866.395&w=1200",
+          "cap": "자료: Anna Brandenberger, Hanna Mularczyk, Dora Woodruff의 “Early Career Researchers’ Responses to AI in Math”."
+        },
+        {
+          "t": "p",
+          "x": "응답자 거의 모두가 AI를 쓴다. 뒤처지지 않으려면 쓸 수밖에 없다는 말도 많았다. 자신을 밀어낼까 두려운 기술을 마지못해 익히는 셈이다. Woodruff는 자발적으로 참여한 설문이라 대표성은 없다고 짚는다."
+        }
+      ]
+    },
+    "science/science-deepfake-hyperreal-fmri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear.jpg",
+          "cap": "샘플 이미지와 Deepfakes Task 시행 순서·타이밍 도식. Credit: Social Cognitive and Affective Neuroscience (2026). DOI: 10.1093/scan/nsag086"
+        },
+        {
+          "t": "p",
+          "x": "University of Florida 연구진의 새 연구에 따르면 딥페이크 얼굴은 실제 사람 사진보다 더 진짜처럼 보일 수 있다. 연구진은 이 '딥페이크 초현실성(deepfake hyperrealism)'을 전측 섬엽(anterior insula)과 연결 짓는다. 딥페이크를 볼 때 활동이 잦아드는 뇌 부위다. 고령층일수록 이 편향이 더 강했다."
+        },
+        {
+          "t": "p",
+          "x": "연구를 이끈 University of Florida 심리학과 Natalie Ebner 교수는 \"가짜 얼굴이 진짜 얼굴보다 더 진짜로 인식되고 있다\"며 \"그냥 찍는 것보다도 오히려 못 맞힌다\"고 말했다. 논문은 Social Cognitive and Affective Neuroscience 학술지에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 18세부터 89세까지 참가자 126명에게 얼굴 이미지 80장을 보여줬다. 절반은 실제 얼굴, 절반은 AI-generated 얼굴이었다. 참가자들은 뇌 스캔을 받으며 얼굴마다 얼마나 진짜 같은지 점수를 매겼다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear-1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "젊은 층이든 고령층이든 AI-generated 얼굴을 실제 사진보다 더 진짜로 평가했고, 딥페이크를 볼 때는 전측 섬엽 활동이 줄었다. Ebner 교수는 AI 얼굴이 여러 얼굴을 평균 내 만들어지는 만큼 \"처리하기 쉽고 더 호감을 주는\" 탓에 더 진짜처럼 보일 가능성이 크다고 설명했다. 이런 편향을 알고 있는 것만으로도 실제로 도움이 될 수 있고, 사기 표적이 되기 쉬운 고령층에게는 더욱 그렇다는 게 그의 말이다."
+        }
+      ]
     }
   }
 }

@@ -10844,6 +10844,121 @@
           "x": "オーストラリアの創造・メディア産業は年間$70.3 billion を国の経済にもたらし、600,000人近い雇用を支えている。キャンペーンは市民に、請願への署名、地元の連邦議員(MP)への手紙、nottheirstotake.com.auでのキャンペーン資料の共有を呼びかけている。"
         }
       ]
+    },
+    "music/soundcloud-seton-ai-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/11/eliah-seton-courtesy-of-soundcloud.jpg?w=667",
+          "cap": "Eliah Seton"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloudのCEO、Eliah Setonは、AI音楽についてもっと「ニュアンスのある」議論を求めている。「非常に二元的な枠組みで語られてきた」と彼は言う。「善か悪か、受け入れるか拒むか、そのどちらかだ」"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloudはこの二週間で、MoisesおよびElevenLabsのEleven Musicと契約を結んだ。ユーザーがAI-aidedの作品をSoundCloudに持ち込んだり、逆に持ち出したりできるようにするためで、2024年以降に結んだ他の10件のAI音楽提携に加わる。Setonによると、プラットフォーム上の再生の85%はuser-generatedコンテンツだという。"
+        },
+        {
+          "t": "p",
+          "x": "Setonは新たな公開書簡で、AI音楽は「スパム、詐欺、欺瞞的行為」に関するプラットフォームの新ルールに違反しない限り認められると書いた。書簡には「AI slopにSoundCloudでの居場所はない」とある。"
+        },
+        {
+          "t": "p",
+          "x": "「AI音楽の到来をただ消えてほしいと願うのは戦略ではない」とSetonはBillboardに語る。AIで再生回数を操作したり、AI slopでプラットフォームをスパムしたりするユーザーはブロックされる。2025年の規約変更以前にSoundCloudがコンテンツを生成AIモデルの学習に使ったことがあるかと問われると、彼は「いいえ、まったくない」と答えた。"
+        }
+      ]
+    },
+    "music/tuneart-ai-music-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/Screenshot-2026-11-16-at-13.29.14.png?fit=1143%2C954&ssl=1",
+          "cap": "TuneART"
+        },
+        {
+          "t": "p",
+          "x": "TuneArtが掲げるのは「ビートに合わせてカットされ、歌詞が画面に表示される、ミュージックビデオになったあなたの曲」だ。Kling、GoogleのNano BananaとVeo、ByteDanceのSeedanceといった外部モデルに加え、自社のbeat-tracking技術を使う。"
+        },
+        {
+          "t": "p",
+          "x": "このサービスはpay-as-you-go型の料金体系で、クレジットのパックを販売する。50クレジットは$4.99で、動画およそ一本分に相当する。"
+        },
+        {
+          "t": "p",
+          "x": "「基盤モデルは借り物だが、タイミングとパッケージングは我々のものだ」と創業者のTaoはMusic Allyに語った。倫理面については「曲はそのアーティストの動画を作るために使われる。アップロードされたものを自社モデルの学習データとして扱うことはない」と述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/tuneart-animals.jpg?resize=700%2C389&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "TuneArtは歌ったり踊ったりするペットの映像も生成できる。「whole-songのカットは、同じ線上の真面目な側の端だ」とTaoは言う。「ペットのクリップは遊び心のある側の端だ」"
+        }
+      ]
+    },
+    "music/sonilo-symphonic-optin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-18-at-12.47.16.jpg"
+        },
+        {
+          "t": "p",
+          "x": "元TikTok社員が創業したAIオーディオ企業Soniloは、独立系ディストリビューターのSymphonicとライセンス契約を結んだ。この契約により、SoniloはSymphonicの独立系アーティストやレーベルの録音でAI音楽モデルを学習させられる。ただし、opt-inを選んだものに限られる。"
+        },
+        {
+          "t": "p",
+          "x": "Soniloは10月、B Capitalが主導するUSD $11 millionの資金調達を発表していた。契約の金銭条件は明らかにされておらず、両社はSymphonicのアーティストやレーベルのうちどれだけがopt-inしたかも明かしていない。Soniloは「音楽の背後にいる権利者の透明性と報酬を支えるアトリビューション・レポート」を提供するとしている。"
+        },
+        {
+          "t": "p",
+          "x": "「ライセンスは後から付け足す機能ではない。それがSoniloの作り方だ」と、SoniloのCo-Founder兼COOのKeli Liは語った。「AIがアーティストにとって本当の機会になるのは、同意、透明性、公正な支払いの上に築かれたときだけだ」とSymphonicのCEO、Jorge Breaは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Soniloのモデルは、映像、テキスト、またはその両方から音楽や効果音を生成する。10月27日に発表されたMusical AIとの提携のもと、生成された音声の一つひとつを分析し、その背後にあるライセンス済みの録音や楽曲の寄与度を測定する。"
+        }
+      ]
+    },
+    "music/arxiv-music-gen-psychometrics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "主観的なユーザー調査は、音楽生成モデルを評価する主要な手法の一つである。しかし主観評価のプロトコルは多種多様で、再現できるほど詳細に記述されることはまれであり、研究間の比較を妨げている。本論文では、2020-2025年のISMIR音楽生成論文における主観評価手法を整理し、生成的心理測定を適用して各項目の安定性を評価する。論文の方法論の記述から284項目を抽出し、LLMと手作業による検証で標準化した。これらの項目を文脈埋め込みとして表現し、Unique Variable Analysisで冗長かつ局所的に依存する項目を除去し、Bootstrap Exploratory Graph Analysisで潜在次元を推定した。その結果、ネットワークはRhythm、Melody、Audio、Composition、Structure、Lyricsという六つの安定した品質次元からなる分類体系に収束し、音楽生成モデルを評価するユーザー調査の統一的な方法論を示している。"
+        }
+      ]
+    },
+    "music/suno-visuals-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+          "cap": "SunoがVisualsを公開。ヘッダー画像はビジュアルのコラージュだ。"
+        },
+        {
+          "t": "p",
+          "x": "Sunoは10月にSpeechを公開し、同社がクリエイティブ・エンターテインメントと呼ぶ領域を初めて音楽の外へ広げた。動画は当然の次の一手だったが、最近まで動画生成は遅く、企業以外には高すぎた。新世代のモデルがその状況を変える。Visualsは、音楽に命を吹き込むために作られたSunoの最新クリエイティブツールだ。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Visualsでは新しい画像や動画を作れる。ビートに合わせて動く歌詞動画、頭の中の音に合うアルバムアート、写真を再解釈した印象的な動画クリップなどだ。モデルは音楽を引き立てるよう最適化されており、動画クリップは曲の構成に沿い、歌詞を拾い、リップシンクまで合わせる。"
+        },
+        {
+          "t": "p",
+          "x": "ライブラリの曲をVisualsタブにドラッグすると最長15秒のクリップを作れ、その後テキストで延長、編集、再プロンプトができる。オリジナルキャラクターから始めることも、自分のオリジナル画像から始めることもできる。Visualsはウェブ、iOS、Androidで提供され、Visualクレジットは楽曲クレジットとは別に購入する。"
+        },
+        {
+          "t": "p",
+          "x": "新しいテキスト・ビジュアルフィルターは、特定のアーティストや著名人、著作物、IPを再現しようとするアップロードやプロンプトを遮断することを狙う。生成物は表示前にCommunity Guidelinesに照らして確認され、Audible Magic、ACRCloud、Musixmatchが著作権のある音声の遮断を支援する。Visualsの作品をプラットフォーム外で共有する前には、埋め込み型の透かしが付与される。"
+        }
+      ]
     }
   }
 }

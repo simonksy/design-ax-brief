@@ -6756,6 +6756,129 @@
           "x": "The move follows the Megaspeed case: US investigators allege a Singapore data center firm’s former executive used shell companies to access 240,000 chips banned for export into China; China and Megaspeed deny the claims. Trump officials reportedly clashed over curbs, and NYT noted it’s unclear how aggressively Commerce will enforce the rule. A Chinese researcher told the People’s Daily that China will likely view the change as politically motivated."
         }
       ]
+    },
+    "politics/uk-mps-ai-watchdog-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "UK MPs want a watchdog with the power to pull the plug on dangerous AI models, rather than leave the likes of OpenAI and Anthropic to decide when they've gone too far. A parliamentary committee is calling for an AI Safety and Security Bill that would give a watchdog powers to intervene while models are still being developed."
+        },
+        {
+          "t": "p",
+          "x": "It could halt high-risk training and testing, block deployments, or suspend AI services if the risks can't be contained. The recommendations come from Parliament's Business, Innovation, Science and Trade Committee."
+        },
+        {
+          "t": "p",
+          "x": "\"We cannot give today’s AI leaders unfettered freedom to behave like modern-day Dr Frankensteins, creating dangers beyond anyone’s control,\" said committee chair Liam Byrne MP."
+        },
+        {
+          "t": "p",
+          "x": "The committee's report, Guardrails for Growth: Making AI Safe, identifies ten holes in Britain's approach to AI safety, including the lack of mandatory incident reporting, limited access for independent testers, and inadequate protections for whistleblowers. The UK's AI Security Institute (AISI) depends on voluntary cooperation and has no authority to stop a company releasing a model."
+        },
+        {
+          "t": "p",
+          "x": "The committee's recommendations aren't binding, and the government has yet to commit to the proposed legislation."
+        }
+      ]
+    },
+    "politics/nvidia-h200-china-halt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, fought for the right to ship its powerful Hopper architecture H200 chips to China."
+        },
+        {
+          "t": "p",
+          "x": "“Our guidance does not have any licensed Hopper data center products included, and we are no longer shipping licenced Hopper data center products to China,” Kress said. She did not explain why Nvidia was ceasing its H200 processor shipments or clarify whether Nvidia would pursue other business with China in the future."
+        },
+        {
+          "t": "p",
+          "x": "The pivot comes after Huang stepped down from his position as Nvidia CEO last week following reports of multiple extramarital affairs, one with a woman who was suspected by US intelligence to be a Chinese spy. Nvidia already faced difficulties around offloading the AI chips prior to this scandal, however. Concerns were raised about failings to properly vet Chinese companies that were approved to handle the H200 AI chips. Reuters also reported earlier this month that around 600,000 H200 chips were stuck in Hong Kong after Beijing withheld approval for large-scale imports, with China seeking to reduce its dependency on US technology."
+        }
+      ]
+    },
+    "politics/saskatchewan-deceptive-ai-act": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Today the Government of Saskatchewan introduced legislation to address the deceptive and illegal use of AI."
+        },
+        {
+          "t": "p",
+          "x": "The Prevention of Deceptive Artificial Intelligence Act defends Saskatchewan people and businesses against the use of deceptive artificial media, often referred to as \"deepfakes,\" which are images, videos, or audio recordings created or altered using AI or similar technologies. The Act includes protections for individuals harmed by the deceptive use of AI and provides the court with appropriate legal responses, including the ability to order removal of content and compensation."
+        },
+        {
+          "t": "p",
+          "x": "\"When used responsibly, artificial intelligence can create great opportunity,\" Minister of Justice and Attorney General Tim McLeod, K.C. said. \"When used for deceptive purposes, however, it can damage reputations, undermine public trust, and create economic hardship.\""
+        },
+        {
+          "t": "p",
+          "x": "The legislation also requires disclosure in certain circumstances where AI has been used, and makes amendments to election, consumer protection and privacy legislation to promote accountability and ensure existing safeguards remain effective as this technology evolves."
+        },
+        {
+          "t": "p",
+          "x": "With the introduction of this Act, Saskatchewan becomes the first Canadian jurisdiction to establish a legislative framework to address the deceptive use of AI-generated and manipulated content."
+        }
+      ]
+    },
+    "politics/ofqual-ai-smart-glasses-exams": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Letter from Sir Ian Bauckham, Chief Regulator at Ofqual, to awarding organisation leaders about AI in non-exam assessments and misuse of wearable technology."
+        },
+        {
+          "t": "p",
+          "x": "Where work is produced without supervision, particularly where assessment involves extended writing, it is increasingly difficult to establish reliably whether it is entirely the student’s own. Ofqual will therefore soon bring forward proposals for changes to non-exam assessment in A Level history and across the 3 A Level English qualifications."
+        },
+        {
+          "t": "p",
+          "x": "I am also increasingly concerned about the challenges that wearable technology presents for exam security, particularly as devices become increasingly sophisticated and AI-enabled."
+        },
+        {
+          "t": "p",
+          "x": "I expect you to ensure that relevant centre staff, including invigilators where appropriate, are effectively trained … to identify and respond to the misuse of wearable technology. This training should be in place for the summer 2027 exam series."
+        },
+        {
+          "t": "p",
+          "x": "I would welcome your responses at the earliest opportunity and before 30 November 2026, setting out the action you are taking to address the risks posed by wearable technology and what further action you believe is needed."
+        }
+      ]
+    },
+    "politics/pol-x-dpc-agent-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/17/GettyImages-2297232274-scaled.jpg",
+          "cap": "X owner Elon Musk attends a meeting with U.S. President Donald Trump and technology executives about artificial intelligence in Washington, on Sept. 29, 2026. | Kent Nishimura/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Ireland’s privacy regulator has forced X to stop feeding AI models with data collected by its agents, the authority told POLITICO. The social media giant owned by Elon Musk has suspended the use of so-called third-party data collected by its Grok Bot AI agent, which started mining this data in late October to train its AI systems."
+        },
+        {
+          "t": "p",
+          "x": "The Irish Data Protection Commission (DPC) raised “significant concerns” about that data processing in recent weeks, Commissioner Dale Sunderland said. “We asked them to suspend the processing, and they’ve confirmed to us today that they’ve done that,” he said Monday."
+        },
+        {
+          "t": "p",
+          "x": "The X action is a test case as privacy regulators shift their focus from AI training on data people have shared about themselves to third-party data that personal AI agents are accessing and gathering on other people — for example, holiday pictures shared with a friend who uses an AI agent, or personal data an agent scrapes from the internet."
+        },
+        {
+          "t": "p",
+          "x": "Sunderland said the DPC is also engaging with another, unnamed tech firm about its plans to use agent-collected data for training, and will have “further engagement” with X about “what exactly happened, and what that means for next steps.”"
+        }
+      ]
     }
   }
 }

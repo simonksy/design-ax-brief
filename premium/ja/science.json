@@ -12013,6 +12013,141 @@
           "x": "この研究は観察研究であり、AIツールがより無難なテーマ選びやNIHでの高い採択確率を直接もたらすとは立証できない。"
         }
       ]
+    },
+    "science/science-art-memorability-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/art.jpg",
+          "cap": "クレジット: Mikhail Nilov / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Chicagoの研究者らは、記憶に残る作品、あるいは忘れられやすい作品を作るよう依頼する全国規模の美術コンテストを開いた。規定を満たした応募86点のうち、記憶に残る部門の作品はオンライン試験でより多く覚えられ、繰り返しの要素が少なく対称性の低い単純な作品ほど記憶に残った。"
+        },
+        {
+          "t": "p",
+          "x": "チームは最も記憶に残る20点と最も忘れられやすい20点を選び、記憶をテーマにした40点の展示をChicagoでひと月開いた。共著者のYifei Chenは、この傾向は「展示室でも保たれた」と述べ、責任著者のWilma Bainbridgeは「私たちの研究室にとって非常に危険な実験」だったと語った。"
+        },
+        {
+          "t": "video",
+          "yt": "PppFwlbc8ek"
+        },
+        {
+          "t": "p",
+          "x": "研究者らが開発し写真だけで学習させたニューラルネットワークResMemは、最も記憶に残る作品と最も忘れられやすい作品を見分ける課題で最も成績がよく、次に作家自身の分類、さらに一般の人の評価が続いた。Chenは「どんな人間よりもはるかにうまくやった」と述べた。研究「Artists Can Design Memory, and AI Can Predict It」（Davis et al.）はPsychological Scienceに掲載された。"
+        }
+      ]
+    },
+    "science/nature-llm-beer-game-cognition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "大規模言語モデル（LLMs）が人間の参加者の代わりを務める場面が増えているが、もっともらしい応答は人間の意思決定過程の証拠にはならない。このずれが最も問題になるのはエージェント同士が相互作用する場合だ。局所的には妥当な選択が、遅延とフィードバックを通じて積み重なり、集団としての結果を生むからである。"
+        },
+        {
+          "t": "p",
+          "x": "行動モデルは人間のデータに意思決定ルールを当てはめる。著者らは、その定性的な内容だけでLLMエージェントを動かせるかを問い、この手法を認知的グラウンディング（cognitive grounding）と呼ぶ。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig1_HTML.png",
+          "cap": "Fig. 1: ワークフローと検証パイプライン。"
+        },
+        {
+          "t": "p",
+          "x": "プレイヤーの発注が需要の変動を増幅させるサプライチェーン実験、Beer Distribution Game の231セッションにわたり、グラウンディングは七つのLLMsを人間に較正された行動へと近づけた。グラウンディングのないエージェントはゲームの不安定さを再現するものの、その大きさ、タイミング、伝播を捉えられない。グラウンディングはすべてのモデルで軌跡の適合度を高め、推定された意思決定パラメータを概ね人間に較正された基準へと移した。ただし、その程度は役割やモデルによって一様ではない。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01080-z/MediaObjects/43588_2026_1080_Fig3_HTML.png",
+          "cap": "Fig. 3: モデルとプロンプト条件別のシステムレベルのブルウィップ効果。"
+        },
+        {
+          "t": "p",
+          "x": "この効果は独立した実証データに照らしても、別のプロンプト設計やメモリ設計の下でも維持される。したがって、認知的にグラウンディングされたLLMsは、タスクごとの検証を条件として、行動の代理となる候補である。"
+        }
+      ]
+    },
+    "science/zapata-forshor-quantum-verify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-7.06.26-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Zapata QuantumはUniversity of Marylandと共同で開発した公開チャレンジForShor.aiを始めた。量子アルゴリズム研究でAI-generatedの結果をどう数学的に検証し、研究者が理解できるようにするかを試す試みだ。形式検証されたShor’s algorithmの実装を中心に据え、参加者はAI-generatedの解を公開リーダーボードに提出できる。貢献者はその後の論文の共著者になる可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "「AIは量子アルゴリズムの発見のしかたを変えるだろう。しかし数学的に証明されていない結果は信頼できない」と、最近ZapataのScientific Advisory Boardに加わったPeter Shorは述べた。「ForShorは、人が関与する形式検証をその過程の中心に置く」"
+        },
+        {
+          "t": "p",
+          "x": "CTOのYudong Caoはこれを「white-box」の環境と呼ぶ。「形式検証で正しさを確立し、その枠組みの中でAIに問題を解かせ、結果が人に説明できるようにする」。Zapataはこの手法を他の量子アルゴリズムにも広げ、自社のQuantum Pilotソフトウェアにおける検証の試験場としてForShorを使う考えだ。計画はUnitary Foundationの小額助成から始まった。"
+        }
+      ]
+    },
+    "science/sciam-math-students-ai-survey": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://static.scientificamerican.com/dam/asset/82b1a8fb-bcbd-4f70-b9cf-b48794409cc3/ai-math-video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "数学のPh.D.課程に在籍する三人、Anna Brandenberger、Hanna Mularczyk、Dora Woodruffは、数学者が数十年追い続けた問題をAIが解いたあと、大学院生とポスドクに調査を行った。およそ60機関から寄せられた268件の回答はプレプリントにまとめられ、宙ぶらりんの状態にある学界の姿を描く。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3234db4c-b1bb-4044-97c6-87cc82593ced/math-survey-d1.png?m=1794611877.12&w=1200",
+          "cap": "出典: Anna Brandenberger、Hanna Mularczyk、Dora Woodruffによる「Early Career Researchers’ Responses to AI in Math」。"
+        },
+        {
+          "t": "p",
+          "x": "回答者の10人のうち七人は、数学に残る可能性が以前より低くなったと答え、三分の二は研究への意欲が落ちたとした。「『自分は役に立たないと感じる』といったことを言われてきた」とWoodruffは話す。ほぼ半数は数学におけるAIの可能性に楽観的で、三分の一は利用に反対している。現在の流れに満足している回答者は全体の13パーセントにとどまる。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/147cfc21-03f4-490b-be4a-93fe8afc2920/math-survey-d2.png?m=1794611866.395&w=1200",
+          "cap": "出典: Anna Brandenberger、Hanna Mularczyk、Dora Woodruffによる「Early Career Researchers’ Responses to AI in Math」。"
+        },
+        {
+          "t": "p",
+          "x": "回答者のほぼ全員がAIを使う一方で、遅れないために使わざるを得ないと感じると語る人も多い。自分を無用にしかねないと恐れる技術を、しかたなく習得しているわけだ。Woodruffは、任意参加の調査なので代表性はないと注意する。"
+        }
+      ]
+    },
+    "science/science-deepfake-hyperreal-fmri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear.jpg",
+          "cap": "Deepfakes Task における試行の流れとタイミングを示すサンプル画像と図。Credit: Social Cognitive and Affective Neuroscience (2026). DOI: 10.1093/scan/nsag086"
+        },
+        {
+          "t": "p",
+          "x": "University of Florida の新たな研究で、ディープフェイクの顔が実在の人物の写真よりも本物らしく見えることがあると分かった。研究はこの「ディープフェイク・ハイパーリアリズム(deepfake hyperrealism)」を、ディープフェイクを分析する際に活動が静まる脳領域、前島(anterior insula)と結びつけている。高齢者ではこの偏りがさらに強かった。"
+        },
+        {
+          "t": "p",
+          "x": "「偽の顔が本物の顔よりも本物だと受け止められている」と、研究を率いた University of Florida の心理学教授 Natalie Ebner は語った。研究は Social Cognitive and Affective Neuroscience に掲載された。「実際には当てずっぽうよりも成績が悪い」"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは18歳から89歳の参加者126人に、半分が実在、半分が AI-generated の顔画像80枚を見せ、脳スキャンを受けながら各顔がどれほど本物らしいかを評価させた。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/deepfake-faces-appear-1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "若年層と高齢層のいずれも AI-generated の顔を実在の写真より本物らしいと評価し、ディープフェイクを見ている間は前島の活動が低下した。AI の顔は多くの顔の平均として生成されるため「処理しやすく、好ましく感じられる」ことから本物らしく見えるのだろうと Ebner は述べた。この偏りを自覚することこそが本当の強みになりうる、とりわけ詐欺の標的となる高齢者にとってはそうだ、と彼女は語った。"
+        }
+      ]
     }
   }
 }

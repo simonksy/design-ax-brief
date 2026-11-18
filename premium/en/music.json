@@ -11491,6 +11491,121 @@
           "x": "Australia's creative and media industries contribute $70.3 billion annually to the national economy and support almost 600,000 workers. The campaign asks the public to sign a petition, write to a local Federal MP and share campaign resources at nottheirstotake.com.au."
         }
       ]
+    },
+    "music/soundcloud-seton-ai-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/11/eliah-seton-courtesy-of-soundcloud.jpg?w=667",
+          "cap": "Eliah Seton"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud CEO Eliah Seton is calling for a much more “nuanced” discussion of AI music. “There’s been a very binary frame,” he says. “It is either good or evil, accept it or reject it.”"
+        },
+        {
+          "t": "p",
+          "x": "In the past two weeks, SoundCloud has inked deals with Moises and ElevenLabs’ Eleven Music so users can port their AI-aided creations to SoundCloud and vice versa, adding to 10 other AI music partnerships dating back to 2024. Seton says 85% of listening on the platform is to user-generated content."
+        },
+        {
+          "t": "p",
+          "x": "In a new open letter, Seton writes that AI music is allowed as long as it does not violate the platform’s new rules on “spam, fraud and deceptive activity.” “AI slop has no place on SoundCloud,” the letter reads."
+        },
+        {
+          "t": "p",
+          "x": "“Simply wishing away the advent of AI music is not a strategy,” Seton tells Billboard. Users who manipulate stream counts with AI or spam the platform with AI slop will be blocked. Asked whether SoundCloud ever used content to train generative AI models before its 2025 terms change, he says: “No, absolutely not.”"
+        }
+      ]
+    },
+    "music/tuneart-ai-music-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/Screenshot-2026-11-16-at-13.29.14.png?fit=1143%2C954&ssl=1",
+          "cap": "TuneART"
+        },
+        {
+          "t": "p",
+          "x": "TuneArt pitches “your song as a music video, cut on the beat with your lyrics on screen”. It taps third-party models including Kling, Google’s Nano Banana and Veo, and ByteDance’s Seedance as well as its own beat-tracking tech."
+        },
+        {
+          "t": "p",
+          "x": "The service uses a pay-as-you-go pricing model, selling packs of credits. 50 credits cost $4.99, and are good for around one video."
+        },
+        {
+          "t": "p",
+          "x": "“The foundation models are rented; the timing and packaging are ours,” founder Tao told Music Ally. On ethics: “Songs are used to make that artist’s video; we don’t treat uploads as training data for our own models.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/tuneart-animals.jpg?resize=700%2C389&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "TuneArt can also generate singing or dancing pets. “The whole-song cut is the serious end of that same line,” said Tao. “The pet clip is the playful end.”"
+        }
+      ]
+    },
+    "music/sonilo-symphonic-optin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-18-at-12.47.16.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sonilo, an AI audio company founded by former TikTok staff, has signed a licensing deal with independent distributor Symphonic. The agreement allows Sonilo to train its AI music model on recordings from Symphonic’s independent artists and labels – but only those that choose to opt in."
+        },
+        {
+          "t": "p",
+          "x": "Earlier in October, Sonilo announced a USD $11 million funding round led by B Capital. Financial terms were not disclosed, and the companies did not say how many Symphonic artists or labels have opted in. Sonilo says it will provide “attribution reporting to support transparency and compensation for the rights holders behind the music.”"
+        },
+        {
+          "t": "p",
+          "x": "“Licensing isn’t a feature we’re adding later. It’s how we built Sonilo,” said Keli Li, Co-Founder and COO of Sonilo. “AI is only a real opportunity for artists when it’s built on consent, transparency and fair payment,” said Jorge Brea, CEO of Symphonic."
+        },
+        {
+          "t": "p",
+          "x": "Sonilo’s models generate music and sound effects from video footage, text, or both. Under its partnership with Musical AI, announced on October 27, each piece of generated audio will be examined to measure the contribution of the licensed recordings and compositions behind it."
+        }
+      ]
+    },
+    "music/arxiv-music-gen-psychometrics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Subjective user studies are one of the major methods for evaluating music generation models. However, subjective evaluation protocols vary widely and are rarely specified in enough detail to be reproduced, hindering comparison across studies. In this paper, we map subjective evaluation methods in ISMIR music generation papers from 2020-2025 and apply generative psychometrics to assess the stability of their items. We extract 284 items from the papers' methodological descriptions, using an LLM and manual validation to standardize them. We represent these items as contextual embeddings and apply Unique Variable Analysis to remove redundant, locally dependent items and Bootstrap Exploratory Graph Analysis to estimate their latent dimensions. Results show the network converges onto a taxonomy of six stable quality dimensions: Rhythm, Melody, Audio, Composition, Structure, and Lyrics, pointing to a unified methodology for conducting user studies to evaluate music generation models."
+        }
+      ]
+    },
+    "music/suno-visuals-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/89947c59d1f2c8fda3d2133d67c0f7e11da012c5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=crop&auto=format",
+          "cap": "Suno launches Visuals. The header image is a collage of visuals."
+        },
+        {
+          "t": "p",
+          "x": "When Suno launched Speech in October, it took what it calls creative entertainment beyond music for the first time. Video had always been the logical next step, but until recently video generation was slow and too expensive for anyone to create but enterprises. A new generation of models changes that. Meet Visuals: Suno’s newest creative tool built to bring your music to life."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/5070ee163456c492afd4950d54c6970cb1fc50b2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "With Visuals you can make new images and videos: lyric videos that move with the beat, album art that matches the sound in your head, or a photo re-imagined into an inspiring video clip. The model is optimized to complement your music: video clips follow your song’s structure, pick up on your lyrics and lip sync right along with them."
+        },
+        {
+          "t": "p",
+          "x": "Drag any song from your library into the Visuals tab to make clips up to 15 seconds long, then extend, edit and re-prompt with text. Original characters help you get started, or start with an original image of your own. Visuals launches on web, iOS and Android; Visual credits are purchased separately from song credits."
+        },
+        {
+          "t": "p",
+          "x": "New text and visual filters are intended to block uploads and prompts that try to create representations of specific artists, public figures, copyrighted works and IP. Generated output is checked against Community Guidelines before it is shown, Audible Magic, ACRCloud and Musixmatch help block copyrighted audio, and embedded watermarks are applied before Visuals can be shared off-platform."
+        }
+      ]
     }
   }
 }

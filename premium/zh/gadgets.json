@@ -11982,6 +11982,151 @@
           "x": "上周Apple为Logic Pro加入了“Buy More Usage”选项，可通过$49.99的Intelligence Usage Packs购买，预计本月将扩展到其他Apple Creator Studio应用。"
         }
       ]
+    },
+    "gadgets/ai-plush-toy-retailers-pull": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-11/261113-new-ai-toys-3x2-mn-1200-59af36.gif",
+          "cap": "NBC News测试了从Amazon购买的三款AI玩具。"
+        },
+        {
+          "t": "p",
+          "x": "Contixo AI Pixie-Paw有一双兼作视频屏幕的又大又圆的眼睛，看起来像一只可爱的猫咪毛绒玩具。根据其Amazon商品描述，这款面向最小3岁儿童销售的玩具承诺提供“讲故事、学习&安全角色扮演”。"
+        },
+        {
+          "t": "p",
+          "x": "这只面向最小3岁儿童销售的AI-powered猫咪，在记者询问历史暴行时，描述了轮奸和处决造成的伤害。Walmart和Target均在正下架这款毛绒猫的三大零售商之列。"
+        },
+        {
+          "t": "p",
+          "x": "专家表示，无论给孩子什么AI玩具，他们都会去试探它的底线。"
+        }
+      ]
+    },
+    "gadgets/disney-anzellan-ai-animatronics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&w=1200",
+          "cap": "三个Anzellans各有不同个性，通过隐藏的摄像头和麦克风回应游客互动。"
+        },
+        {
+          "t": "p",
+          "x": "尽管Disney乐园的电子动画角色已变得相当先进逼真，它们通常要么按预设动作和流程表演，要么由藏在暗处的操偶师操控。Walt Disney Imagineering R&D公布了三款新的Audio-Animatronic原型，借助Amazon的AWS云和AI能力，以独特方式实时回应游客互动。"
+        },
+        {
+          "t": "p",
+          "x": "这三个电子动画角色分别名为Vilo Vele、Kado Bre’a和Jibu Bre’a，原型是The Mandalorian and Grogu中出现的Star Wars角色Anzellans。它们将于本月晚些时候在Las Vegas的AWS re:Invent上首次公开亮相，日后也可能进入Star Wars: Galaxy’s Edge等Disney乐园景点。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney2.jpg?quality=90&strip=all&w=1200",
+          "cap": "Disney新的Star Wars电子动画角色无需操偶师即可与游客实时互动。"
+        },
+        {
+          "t": "p",
+          "x": "隐藏的摄像头和麦克风捕捉游客的动作和言语，再由运行在AWS云服务器上的多个AI模型进行处理。一个“快速决策模型”负责生成眼神接触等快速反应，更大的模型则规划较长的互动。"
+        },
+        {
+          "t": "p",
+          "x": "不过，模型选出的每个动作和每句台词都由Disney Imagineers预先写好，以确保每个角色符合自身个性。虽然AI帮助引导它们的行为，但Anzellans从不偏离剧本。"
+        }
+      ]
+    },
+    "gadgets/rtx-spark-minipc-retail-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "继首批RTX Spark笔记本今年早些时候上市之后，Nvidia的RTX Spark N1X芯片如今也登陆Asus、Dell和MSI的台式机。Acer、Gigabyte和HP稍后也将推出更多RTX Spark台式机，而Microsoft的Surface RTX Spark Dev Box预计本月开始发货。这些新迷你PCs配备6144-core Nvidia Blackwell RTX GPU、20-core Nvidia Grace CPU，以及最高128GB 内存。高端硬件也意味着相应的高价——Asus的ProArt GR1X在64GB 内存、1TB 存储的配置下起价$4,499。"
+        },
+        {
+          "t": "p",
+          "x": "就像与MacBook Pro竞争的RTX Spark笔记本以及Nvidia去年推出的DGX Spark台式机一样，新迷你PCs是面向本地AI模型及RTX-accelerated软件开发者的Mac Mini或Mac Studio替代品。这包括Adobe Premiere和Photoshop等工具中的AI-powered功能，以及Blender 5.3中新增的DLSS 4.5 Ray Reconstruction支持。"
+        },
+        {
+          "t": "p",
+          "x": "它们也能运行游戏，Windows on Arm的游戏支持也在改善，但以这样的价格，目前还不是购买它的现实理由。Nvidia表示，它们可以作为“用于本地模型和常驻智能体的专用Windows PC”，并提供“最高1 petaflop的AI性能”。它们还具备原生CUDA支持，并可通过Windows Subsystem for Linux使用Linux开发工具。"
+        }
+      ]
+    },
+    "gadgets/frnia-silicone-face-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-desk-lifestyle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "FR-NIA是一款11-inch桌面机器人，核心是一张会动的液态硅胶脸。十个自由度驱动它的眼睛、眉毛、嘴和脖子，因此与其云端AI对话时，伴随的是表情而非扬声器格栅。它没有屏幕。该Kickstarter项目已从129名支持者处筹得$91,812，目标为$10,003，将于11月19日截止；预计2027年3月交付。"
+        },
+        {
+          "t": "p",
+          "x": "十个自由度中有七个位于面部，三个驱动颈部，头部宽8厘米。一套情绪驱动系统会读取面部线索、语调、说话方式和对话语境，以设定表情的强度和时机，头部还会通过摄像头追随你的脸。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-event-conversation.jpg",
+          "cap": "AI在云端，而不在机器人上"
+        },
+        {
+          "t": "p",
+          "x": "所有AI都不在机器人本体上运行：全部处理都在云服务器上完成，需要联网。借助Open API集成，支持者可以接入自己偏好的AI模型；语音支持英语、中文和日语，另计划增加六种语言。云存储保存对话和偏好的长期记忆。"
+        },
+        {
+          "t": "video",
+          "yt": "RuQH3u-kuPA"
+        },
+        {
+          "t": "p",
+          "x": "Lite（Halloween特价$499，零售价$699）配备未上色的空白脸、一个麦克风、2MP 摄像头和最长三小时续航。Pro（$699）和Pro Max（$799）增加了造型化面部、更多麦克风、存储和电池；Pro Max还加入5MP 120-degree 摄像头。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/fr-nia-studio-front.jpg",
+          "cap": "主人上色之前的空白Lite面部"
+        }
+      ]
+    },
+    "gadgets/windows-ignite-hybrid-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft在Ignite 2026上表示，智能体是计算的下一次变革；运行在超过十亿台设备上的Windows，正在为Hybrid Intelligence时代安全运行智能体而打造。"
+        },
+        {
+          "t": "p",
+          "x": "Windows endpoint security platform让安全厂商能把防护从内核模式移到用户模式，它与Windows administrator protection现已全面推出；Windows baseline protection处于预览阶段。Autopatch客户部署更新的速度比本地部署管理快40%以上。"
+        },
+        {
+          "t": "p",
+          "x": "Hybrid Intelligence为每项任务在设备端或云端选用合适的模型和算力。Microsoft Execution Containers(MXC)为每个智能体提供隔离环境，并以策略规定其可访问的文件和网络。OpenAI已在Codex中默认开启MXC，Meta则在数万台Windows设备上运行它。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Partners-building-on-MXC.png"
+        },
+        {
+          "t": "p",
+          "x": "Windows 365 for Agents为智能体提供安全的Cloud PCs，现已可使用Copilot Credits。Copilot+ PCs上的Copilot即将加入本地上下文、本地操作和本地模型，包括用日常语言操作文件和只读的PC诊断。"
+        },
+        {
+          "t": "p",
+          "x": "GitHub Copilot Fusion现在可将编码工作分配给开发者PCs上的MAI Code 1.1 Flash等本地模型，目前处于预览阶段。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
+        }
+      ]
     }
   }
 }

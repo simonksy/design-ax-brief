@@ -11620,6 +11620,169 @@
           "x": "1.0也是一项承诺：命令、标志和输出在1.x各版本间保持兼容。Build Server许可现在不仅涵盖构建，也涵盖智能体与自动化：每个实例一个许可，即可在无头Editor或容器中运行智能体。即将推出：Linux容器化Editor。下一步：面向AI Generators、Live Games和Build Automation的命令，以及为智能体打造的账户。"
         }
       ]
+    },
+    "games/will-wright-mymems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0%2C16.666666666667%2C100%2C66.666666666667&w=2400",
+          "cap": "图片：Gallium Studios"
+        },
+        {
+          "t": "p",
+          "x": "SimCity和The Sims的创作者Will Wright正在开发一款以AI为核心的新游戏MyMems。他对The Verge说：\"我们想把你的自传变成一个玩具世界。\""
+        },
+        {
+          "t": "p",
+          "x": "MyMems官网将这款手游描述为一款\"社交模拟\"游戏，其中的世界\"由你的记忆和塑造了你的人构建而成\"。你可以添加记忆，比如对着手机讲一个小故事，这些记忆会被生成为可以放在游戏地图上的部件。世界中还可以加入代表你认识之人的AI-powered虚拟形象。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Moonlit-walk.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "图片：Gallium Studios"
+        },
+        {
+          "t": "p",
+          "x": "游戏将把Artificial Agency的\"Behavior Engine\"作为\"基础技术\"。Wright认为围绕AI与作者身份的担忧\"有充分根据\"，但也称AI是\"了不起的工具\"。执行制作人Virginia McArthur说：\"我们做的不是粗制滥造的东西。\""
+        },
+        {
+          "t": "p",
+          "x": "MyMems计划于2027年推出。"
+        }
+      ]
+    },
+    "games/inworld-sava-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://inworld.ai/opengraph-image.jpg?opengraph-image.3etui4_c_jrz1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Inworld发布SAVA，这是一款语义声学语音活动模型，在单个流式模型中同时处理语音检测和话轮检测。它可在单个CPU线程上运行，代码和权重以Apache 2.0许可发布。"
+        },
+        {
+          "t": "p",
+          "x": "它每40 ms返回两个概率：该帧是否包含语音，以及说话者的话轮是否已结束。它利用目前为止的句子，区分未说完时的停顿与真正的结束。"
+        },
+        {
+          "t": "p",
+          "x": "在AMI会议语料库的5,043个话轮结束点上，SAVA在200 ms内检测出85.5%，smart-turn为30.8%。检测延迟中位数SAVA为71 ms，smart-turn为210 ms。Easy Turn是SAVA最弱的结果：0.51，而smart-turn为0.83。"
+        },
+        {
+          "t": "p",
+          "x": "该模型有25.5M 参数。在Apple M3 Max的单个CPU线程上，它处理一路流每40 ms帧耗时不到3 ms。"
+        }
+      ]
+    },
+    "games/mimesis-game-award-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1565930360.jpg",
+          "cap": "ⓒ KRAFTON"
+        },
+        {
+          "t": "p",
+          "x": "ReLU Games的MIMESIS荣获2026大韩民国游戏大赏优秀奖。进入11月后，其全球累计销量已突破240万份。"
+        },
+        {
+          "t": "p",
+          "x": "MIMESIS由KRAFTON, Inc.旗下创意工作室ReLU Games开发，于2025年10月27日在Steam以Early Access形式推出。上线50天累计销量突破100万份，Steam用户评价保持“特别好评”。"
+        },
+        {
+          "t": "p",
+          "x": "大韩民国游戏大赏由文化体育观光部主办、韩国游戏产业协会承办，从作品性、技术力、大众性等方面评选游戏和开发者。今年的颁奖典礼于18日在釜山BEXCO举行。KRAFTON表示，MIMESIS将人工智能(AI)融入游戏核心结构的策划能力和游戏性获得了高度评价。"
+        },
+        {
+          "t": "p",
+          "x": "MIMESIS是一款4人合作恐怖游戏，玩家要对抗模仿玩家外貌、声音和行为的基于AI的NPC怪物。AI会判断周围情况并对玩家的行动作出反应。玩家在与同伴合作的同时，也必须怀疑对方是否真的是同伴。"
+        },
+        {
+          "t": "p",
+          "x": "游戏背景设定在一个因不明降雨而使人类变异为复制他人声音和行为的“Mimesis”的世界。玩家需要收集电车运行所需的资源并相互合作，但同伴中的某人可能就是怪物。ReLU Games将两次测试和试玩版中获得的反馈，反映到了Early Access版本的AI怪物实现中。"
+        },
+        {
+          "t": "p",
+          "x": "在大韩民国游戏大赏之前，该作也在海外颁奖典礼上获奖。6月在日本CEDEC大奖 2026上，它作为首款韩国游戏获得游戏设计类优秀奖；在日本恐怖游戏大奖上获得多人恐怖奖。"
+        },
+        {
+          "t": "p",
+          "x": "ReLU Games在上线后持续改进AI怪物的行为方式并追加内容。10月，为纪念Early Access上线1周年，推出第二次大型更新“OFF THE RAILS”。该更新包括模仿玩家习惯的功能和全新的“偏执”系统等。"
+        }
+      ]
+    },
+    "games/unity-gstar-ai-gamejam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1541798392.jpg",
+          "cap": "©Unity"
+        },
+        {
+          "t": "p",
+          "x": "AI时代，开发者们在G-STAR之前热身。参赛者需要与队友一起，利用Unity和AI在24小时内完成一款游戏。Unity将于G-STAR 2026开幕前一天的今天（18日）至19日，与韩国游戏产业协会在釜山BEXCO第2展馆研讨室联合举办基于AI的游戏开发黑客松“Unity AI游戏开发赛”。"
+        },
+        {
+          "t": "p",
+          "x": "此次活动是继2024年之后时隔2年再度举办，配合韩国最大游戏展“G-STAR 2026”的举办，以通宵24小时的日程进行，经过书面审核选出的55名开发者和设计师参加。参赛者在现场组队后，将利用Unity CLI以及作为赞助方参与的OpenAI和Meshy AI（Meshy.ai）的AI工具与API额度、技术指导等，在有限时间内完成可玩的游戏。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1904988190.jpg",
+          "cap": "倒计时开启，正式开始开发 ©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "现场除了Unity APAC布道负责人Kim Beom-joo、高级布道师Oh Ji-hyun、高级布道师Kim Jae-ik（Goldmetal）等Unity专家外，OpenAI的工程师也作为导师参与，大幅提升了Unity引擎和AI的运用水平。此外，每位参赛者都获得了价值50美元、可用于Unity AI工具的额度，OpenAI和Meshy AI也提供额度，帮助参赛者顺利制作游戏。参赛者借助自身知识和AI，在现场快速制作初稿、展开讨论并向导师请教，逐步推进工作。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/11/18/news/i1107801025.jpg",
+          "cap": "画出原画草稿后直接用Meshy Ai跑一遍，连建模都能确认，只需几分钟 ©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "Unity AI游戏开发赛在开幕说明会后于下午2点正式开始开发，持续24小时至19日下午2点。之后将通过评审选出获奖团队，根据奖项类别提供在G-STAR 2026现场Unity展台展示游戏的机会、ChatGPT Pro 1年使用权、在Unity全球及韩国官方博客上接受采访介绍的机会等。"
+        }
+      ]
+    },
+    "games/games-unity-synty-acquisition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Unity%2BSyntyStudios_02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：Unity/Synty Studios"
+        },
+        {
+          "t": "p",
+          "x": "Unity已收购3D资产制作与发行商Synty Studios。"
+        },
+        {
+          "t": "p",
+          "x": "据今天在Unite Tokyo上的宣布，Synty由美术师创作的内容将整合进Unity的AI游戏创作平台Unity Spark。Unity Spark将于今年晚些时候在Google Playground开启封闭测试。"
+        },
+        {
+          "t": "p",
+          "x": "Synty成立于2014年，总部位于新西兰，为Unity、Unreal Engine和Godot制作低多边形3D资产包。"
+        },
+        {
+          "t": "p",
+          "x": "Unity在博客文章中表示，收购后Synty将保持“同样的品牌、同样的美术师、同样的风格”。Unity还称，Synty的“大多数”美术师将全职加入Unity，继续开发新的资产包。"
+        },
+        {
+          "t": "p",
+          "x": "Synty的资产包、授权和工作流程保持不变，Synty Store和Synty Pass也不变。资产包将继续支持Unreal Engine和Godot，免费资产仍然免费，并且“目前没有调整Synty定价的计划”。"
+        },
+        {
+          "t": "p",
+          "x": "Unity营销VP Chris Gfroehrer表示：“Unity Spark将让更多人有机会把创意变成游戏，而美术师创作的内容是这一体验的重要组成部分。”"
+        },
+        {
+          "t": "p",
+          "x": "Synty联合创始人Mike Clephane补充说：“加入Unity后，我们的美术师可以继续打造社区如今使用的精致世界、角色和资产，同时通过Unity Spark触达新一代创作者。”"
+        }
+      ]
     }
   }
 }

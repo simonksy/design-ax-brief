@@ -4796,6 +4796,124 @@
           "x": "Apple表示，应用会识别令人担忧的问题，并在必要时引导用户转向外部医疗服务提供者或其他资源。据KFF统计，约三分之一的U.S.成年人曾用AI聊天机器人谈论自己的健康。"
         }
       ]
+    },
+    "medicine/gehc-feeding-tube-xray-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GE HealthCare（GEHC）旗下AI软件Critical Care Suite 3.0获得美国（U.S.）食品药品监督管理局（FDA）510(k)许可。"
+        },
+        {
+          "t": "p",
+          "x": "该软件直接在公司的移动X光系统上运行，可检测喂养管，并辅助评估成人和儿童患者的置管位置。它能检测肠内营养管，识别管路走向、尖端和侧孔，同时突出显示气道和膈肌作为解剖参考点。厂商还表示，该软件在设备上运行，无需互联网或云端连接。"
+        },
+        {
+          "t": "p",
+          "x": "GEHC称，在测试中，与放射科专家的标注相比，Critical Care Suite 3.0的置管检测灵敏度达99.2%，定位的平均Dice分数为91.6%。"
+        },
+        {
+          "t": "p",
+          "x": "这是Critical Care Suite喂养管评估算法首次支持儿童患者。该软件还包含公司用于减少图像质量错误的Quality Care Suite AI算法。"
+        }
+      ]
+    },
+    "medicine/chile-preterm-ultrasound-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/2022-10/prenatal_ultrasound.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一项新分析详细介绍了一款人工智能超声工具的实用价值，该工具可通过常规产前扫描评估早产风险。"
+        },
+        {
+          "t": "p",
+          "x": "这项回顾性研究由智利圣地亚哥Hospital Padre Hurtado的Rodrigo Alliende-Ferrada, MD牵头。研究人员利用智利四家公立医院此前采集的2550例妊娠扫描图像，对该技术（Ultrasound AI）进行了评估。该AI平台未经修改直接使用，其预测结果未用于指导任何患者的临床诊疗。"
+        },
+        {
+          "t": "p",
+          "x": "在最终早产的妊娠中，该系统对71%的病例估计的分娩日期与实际分娩日相差不超过两周。在常规的23周超声检查中，AI仅凭图像数据就以86%的准确率识别出哪些妊娠会提前分娩。在全部妊娠中，其预测分娩日与实际分娩日相差两周以内的比例超过90%。"
+        },
+        {
+          "t": "p",
+          "x": "该工具在移民母亲中的表现同样相近，在未接受早期超声检查的女性中也保持了准确性。研究人员将早产相关结果定性为探索性发现：该研究分析的是既往妊娠，而非对系统进行前瞻性测试，其预测能否改善诊疗或结局仍需进一步研究。"
+        }
+      ]
+    },
+    "medicine/suki-agentic-os-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/l2j1l1ddvOqMFsrhPruG_SrXG1A37l3FYYIA0RvJBuA/g:nowe:0:495/c:2399:1355/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9obHRoX3N1a2lfamhfZmluYWwuanBn.webp",
+          "cap": "2026年11月16日，Suki在内华达州拉斯维加斯HLTH大会上的展台。Jill Hughes/Healthcare Dive"
+        },
+        {
+          "t": "p",
+          "x": "AI病历助手公司Suki推出了一套智能体操作系统，旨在降低医疗行政工作流程的复杂性，超越公司最初专注于临床医生AI的定位。"
+        },
+        {
+          "t": "p",
+          "x": "这套名为Suki OS的操作系统作为基础技术层，连接整个机构内的医疗软件系统和AI智能体。Suki还推出了两项新的智能体功能，一项用于事前授权，另一项用于临床文档记录。"
+        },
+        {
+          "t": "p",
+          "x": "Suki创始人兼CEO Punit Singh Soni表示：“真正的医疗平台必须把环境式文档记录当作起点，而不是终点。”"
+        },
+        {
+          "t": "p",
+          "x": "Suki宣传该系统能在就诊前准备患者摘要，同时由相互连接的智能体核实保险、协助事前授权并减轻行政负担。公司还采取了一项不同寻常的做法：如未达到双方约定的绩效结果，将向客户退还Suki费用。"
+        },
+        {
+          "t": "p",
+          "x": "Abridge和Ambience Healthcare等竞争对手也在寻求超越环境式病历记录、扩大业务规模。"
+        }
+      ]
+    },
+    "medicine/nference-pluvicto-response-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "12月2日（星期三）| 1:30 p.m.-2:30 p.m. | W6-SSNMMI06-2 | Room S405"
+        },
+        {
+          "t": "p",
+          "x": "该报告指出，一种将PSMA-PET影像特征与常规化验值相结合的算法，或有助于预测哪些转移性去势抵抗性前列腺癌（mCRPC）患者会对Pluvicto放射性配体治疗产生应答。"
+        },
+        {
+          "t": "p",
+          "x": "报告人、印度AI开发商nference的Deepak Anand（PhD）及其同事，利用治疗前的前列腺特异性膜抗原（PSMA）-PET扫描以及从电子健康记录（EHR）中获取的核心化验值，开发并验证了一个多模态模型。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队回顾性分析了302名接受至少三个周期Pluvicto治疗、且有可评估的治疗前PSMA-PET扫描的mCRPC患者。影像输入包括病灶形状、标准化摄取值（SUV）指标，以及衡量肿瘤内摄取异质性的指标。PSA和淋巴细胞计数等十项化验参数取自EHR。"
+        },
+        {
+          "t": "p",
+          "x": "联合模型区分应答者与非应答者的曲线下面积（AUC）为0.80，优于仅使用临床特征（0.73）或仅使用影像特征（0.76）的模型。PSA值、淋巴细胞计数和SUV均值是预测力最强的特征之一。应答者的预后也明显更好，30个月生存率约为79%，而非应答者为34%。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员写道：“这些发现支持在PSMA-targeted（PSMA靶向）放射性配体治疗中开展AI-assisted（AI辅助）治疗规划。”"
+        }
+      ]
+    },
+    "medicine/med-cms-clinical-ai-roadmap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_533699257_Editorial_Use_Only-1024x576.jpeg",
+          "cap": "手机屏幕上显示的Centers for Medicare and Medicaid Services标志"
+        },
+        {
+          "t": "p",
+          "x": "本期STAT Health Tech通讯:关于CMS近期发布的AI路线图你需要了解什么,以及HLTH大会的亮点。"
+        },
+        {
+          "t": "p",
+          "x": "来自拉斯维加斯HLTH大会的问候。我的嘴唇干裂,双脚酸痛,但这些对话很值得。(本期其余内容仅向STAT+订阅者开放。)"
+        }
+      ]
     }
   }
 }
