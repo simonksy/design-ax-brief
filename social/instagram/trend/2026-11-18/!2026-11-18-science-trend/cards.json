@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "관측의 첫 거름망은 AI",
+    "date": "2026.11.18",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "11-18 원문 재대조(Phys.org·Tech Xplore 직접 확인): 게재일 M87 11.11, 뮤온 11.12, sPHENIX 11.13, Euclid 11.15 그대로 맞음. CSIRO 4인·Nature·GenDIReCT·'모델은 블랙홀 모양을 몰랐다'(Lai), 타르투대+GScan·IEEE Access·오병합 약 15%→2%, Brookhaven+Columbia·CU Boulder·Scientific Reports·비쌍 비지도·모의 sPHENIX에서 기존 차감보다 정확, UBC·후보 15,000개·Euclid 전 확인 강한 렌즈 1,000개 미만·ML→시민과학자→전문가→후속 관측 4단계 확인. 고침: 2장 '답을 모른 채'를 원문대로 '블랙홀 모양을 모르는 AI'로. 미디어: 2장은 phys.org 축소본(1280×408) 대신 ESO 원본 eso1907a(EHT Collaboration, CC BY 4.0)를 src/에, 4장 Brookhaven 공식 도식, 5장 Euclid M81 이미지(ESA/Euclid/Euclid Consortium/NASA, J.-C. Cuillandre·E. Bertin, CC BY-SA 3.0 IGO), 3장 stat. 1장 제목은 2행 고아 단어('이제 AI')를 없애려 한 줄로.",
+    "sources": [
+      "Phys.org — Independent technique validates landmark M87* image (2026.11.11)",
+      "Tech Xplore — AI improves cosmic particle scans to locate hidden objects more accurately in simulations (2026.11.12)",
+      "Phys.org — Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions (2026.11.13)",
+      "Phys.org — Dark matter-hunting satellite Euclid reveals record number of cosmic 'magnifying glasses' (2026.11.15)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 11.11~11.15",
+      "thread": [
+        {
+          "d": "11.11",
+          "t": "M87 고리",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.12",
+          "t": "뮤온 스캔",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.13",
+          "t": "제트 분리",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.15",
+          "t": "중력렌즈",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "망원경·검출기 원자료의 잡음, 이제 AI가 먼저 걸러낸다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "관측의 첫 거름망은 AI",
+      "body": "한 건씩 보면 분야별 기법 개선이다. 그런데 블랙홀·뮤온·충돌기·우주망원경에서 닷새 사이 같은 일이 났다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.11",
+      "headline": "블랙홀 고리,\nAI로 다시 확인",
+      "body": "CSIRO 팀이 블랙홀 모양을 모르는 AI로 EHT 원자료를 다시 풀었다. 2019년 이미지와 크기·모양이 거의 같은 고리가 나왔다.",
+      "foot": "2026.11.11",
+      "_src": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
+      "_id": "science-m87-ml-reanalysis",
+      "media": "src/m87-eht-eso1907a.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.12",
+      "headline": "뮤온 스캔,\n덜 헷갈리게",
+      "body": "직진·산란 뮤온을 함께 읽는 타르투대 모델. 시뮬레이션에서 잘못 합쳐진 물체 비율을 크게 줄였다.",
+      "foot": "2026.11.12",
+      "_src": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
+      "_id": "tartu-muon-tomography",
+      "stat_top": "기존 오병합 약 15%",
+      "stat_arrow": "직진·산란 뮤온 함께 학습",
+      "stat_bottom": "약 2%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "충돌 잡음 속\n제트를 가르다",
+      "body": "Brookhaven 팀 생성형 AI는 짝지은 예시 없이 배웠다. 모의 sPHENIX 데이터에서 기존 배경 차감보다 정확했다.",
+      "foot": "2026.11.13",
+      "_src": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+      "_id": "brookhaven-sphenix-jet-denoise",
+      "media": "pipeline/media/brookhaven-sphenix-jet-denoise.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.15",
+      "headline": "우주 돋보기,\n후보만 15,000개",
+      "body": "머신러닝이 먼저 거르고 시민과학자·전문가가 좁혔다. Euclid 전엔 확인된 강한 렌즈가 1,000개도 안 됐다.",
+      "foot": "2026.11.15",
+      "_src": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
+      "_id": "science-euclid-strong-lens-q1",
+      "media": "pipeline/media/science-euclid-strong-lens-q1.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

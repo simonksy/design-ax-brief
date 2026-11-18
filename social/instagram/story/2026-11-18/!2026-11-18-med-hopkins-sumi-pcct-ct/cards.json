@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "issue": "딥러닝 SUMI, 일반 흉부 CT를 광자계수 CT 화질로",
+    "date": "2026.11.17",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "AuntMinnie RSNA 2026 CT 프리뷰(Kate Madden Yee, 2026.11.17 게재) 원문 대조(사이트가 Cloudflare로 막혀 리더 프록시로 본문 확인). 확인: 세션 S1-SSCH01-4, 11월 29일(일) 오전 9~10시, 발표자 Johns Hopkins University(볼티모어) Chuntung Zhuang 외; PCCT 1,046건 + EICT 405,379건(145개 병원)으로 연속 오토인코더 학습 → PCCT 1,046건을 네 가지 화질 저하 범주(희소 투영·저선량·일반·복합)로 나눠 SUMI 학습; 짝지은 촬영 불필요; 인용 'distilling PCCT image-quality advantages into routine chest CT'. AuntMinnie 기사엔 성능 수치가 없음(세션에서 발표 예정). 성능 수치는 같은 연구의 arXiv 프리프린트 2604.07329(Liu·…·Yuille·Zongwei Zhou, 2026.04.08, 동료심사 전) 초록에서 가져와 그렇게 귀속: 외부 데이터에서 최신 영상 변환 기법 대비 SSIM 15%·PSNR 20% 우위, 병변 검출 민감도 최대 15%·F1 최대 10% 상승. 데이터 수치(1,046·405,379·145)가 두 출처에서 일치. 단, 프리프린트 저자 목록에 Chuntung Zhuang은 없어 카드에는 발표자 이름 대신 '존스홉킨스대 연구진'으로만 씀. 정정: 초안 날짜 2026.11.18 → 기사 게재일 2026.11.17. 초안 커버 본문(세션 시간표 문자열)·잘린 요약 전부 다시 씀. 미디어: AuntMinnie 대표 이미지는 'Road to RSNA' 배지(매체 그래픽)라 쓰지 않고, 공식 보도 이미지가 없어 전 장 stat·quote(외부 미디어 없음).",
+    "sources": [
+      "AuntMinnie — Deep-learning adds PCCT-like chest imaging quality to existing scanners (2026.11.17)",
+      "arXiv — Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling (2026.04.08)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "일반 흉부 CT",
+      "stat_arrow": "딥러닝 모델 SUMI",
+      "stat_bottom": "광자계수 CT 화질",
+      "stat_strike": false,
+      "eyebrow": "AI × 의료 · 2026.11.17",
+      "headline": "장비 그대로 PCCT급",
+      "body": "존스홉킨스대 연구진이 장비를 바꾸지 않고 흉부 CT 화질을 끌어올리는 AI를 RSNA 2026에서 발표한다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "기존 CT",
+      "stat_arrow": "해상도는 높게, 노이즈는 적게",
+      "stat_bottom": "광자계수 CT",
+      "stat_strike": false,
+      "eyebrow": "왜 필요한가",
+      "headline": "좋은 장비는 드물다",
+      "body": "광자계수 CT(PCCT)는 더 선명하고 깨끗하게 찍는다. 하지만 일상 진료에서 늘 쓸 수 있는 장비는 아니다.",
+      "foot": "2026.11.17",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "일반 CT 405,379건",
+      "stat_arrow": "145개 병원 데이터 중 PCCT는",
+      "stat_bottom": "1,046건",
+      "stat_strike": false,
+      "eyebrow": "어떻게 배웠나",
+      "headline": "깨끗한 영상을 일부러\n흐리고 되돌린다",
+      "body": "PCCT 영상을 저선량·희소 투영 등 네 방식으로 열화시킨 뒤 복원을 익혔다. 짝지은 촬영이 필요 없다.",
+      "foot": "2026.11.17",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "최신 영상 변환 기법",
+      "stat_arrow": "외부 데이터 PSNR 비교",
+      "stat_bottom": "SUMI +20%",
+      "stat_strike": false,
+      "eyebrow": "얼마나 나아졌나",
+      "headline": "외부 데이터서도 앞섰다",
+      "body": "4월 공개된 동료심사 전 논문 기준이다. SSIM은 15% 앞섰고, 병변 검출 민감도도 최대 15% 올랐다.",
+      "foot": "2026.11.17",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "PCCT의 화질 이점을\n일반 흉부 CT로 증류한다.",
+      "quote_by": "존스홉킨스대 연구진 · AuntMinnie 인용",
+      "eyebrow": "그래서 지금",
+      "headline": "남은 건 실전 검증",
+      "body": "더 많은 환자가 PCCT 수준 화질을 누리게 하자는 구상이다. 아직은 학회 발표·프리프린트 단계다.",
+      "foot": "2026.11.17",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
