@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "issue": "받아쓰던 AI, 일을 맡다",
+    "date": "2026.11.19",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 대조(11-19 재확인): 청년의사 하이디 기사 입력 2026.11.13 11:34(협약 12일·발표 13일, 다윈 적용, 190개국·110개 언어·주 300만 건+ 확인), 니어닥 인터뷰 입력 2026.11.16 06:18(120명 3분48초→약 1분8초·약 70% 단축, 5개월 500곳 확인). Fierce는 Cloudflare 403, OpenAI 원문도 403이라 11-17 run 후보 게재시각(2026-11-16 09:05 ET)·enrich 본문으로 확인('몇 달 치 밀린 문서 발송을 주말에' = CVS Health 발언). JAMA Netw Open은 Crossref published-online 2026.11.17(Europe PMC 11.02는 호 날짜), Europe PMC 초록으로 5개 병원·1294건·의사 12명·+22.2%p(95% CI 19.0–27.5) 확인; 1차 지표가 '수정 없음 또는 경미한 수정'이라 본문 '손질 없이'를 '큰 수정 없이'로 고침. Suki는 Healthcare Dive 2026.11.18(datePublished) 기사, 회사 보도자료는 2026.11.16 — Suki OS·사전 승인 에이전트·성과 보증 확인, '출발점' 발언은 Healthcare Dive 인터뷰. 미디어: Suki 사진은 Healthcare Dive 기자(Jill Hughes) 촬영이라 빼고 quote로 바꿈. 삼성서울병원 제공 협약식 사진은 11-14 story(*2026-11-14-samsung-heidi-ambient-scribe)가 이미 써서 해시 충돌 — 2번은 stat 유지. 사진 없는 세트(stat 4·quote 1).",
+    "sources": [
+      "청년의사 — 삼성서울병원, 글로벌 의료 AI 기업 '하이디'와 협력 (2026.11.13)",
+      "청년의사 — 모니터 대신 환자 눈 맞춘다…정신과·소청과 호평 AI 차팅 '니어닥' (2026.11.16)",
+      "Fierce Healthcare — HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents (2026.11.16)",
+      "JAMA Network Open — Clinician Acceptance of Large Language Model–Generated Discharge Summaries (2026.11.17)",
+      "Healthcare Dive — Suki debuts agentic operating system (2026.11.18)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 의료 · 11.13~11.18",
+      "thread": [
+        {
+          "d": "11.13",
+          "t": "음성기록",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.16",
+          "t": "실시간 차팅",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.16",
+          "t": "포털 조작",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.17",
+          "t": "퇴원 요약",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.18",
+          "t": "업무 OS",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "진료 기록 AI가 받아쓰기를 넘어 병원 일을 직접 맡는다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "받아쓰던 AI,\n일을 맡다",
+      "body": "한 건씩 보면 기록 도구 소식이다. 엿새를 꿰면 받아쓰기에서 퇴원 요약, 보험사 포털 업무까지 손이 넓어진다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "대형병원도\n받아쓰기 AI로",
+      "body": "삼성서울병원이 하이디와 협약을 맺고 자체 의료정보시스템 다윈에 진료 음성을 글로 바꾸는 AI를 붙인다.",
+      "foot": "2026.11.13",
+      "_src": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044540",
+      "_id": "samsung-heidi-ambient-scribe",
+      "stat_top": "하이디가 돕는 진료",
+      "stat_arrow": "190개국·110개 언어, 매주",
+      "stat_bottom": "300만 건+",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "차팅 시간,\n3분의 1 아래로",
+      "body": "니어닥은 진료 대화를 들으며 SOAP 기록을 실시간으로 정리한다. 출시 5개월 만에 의료기관 500곳이 도입했다.",
+      "foot": "2026.11.16",
+      "_src": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
+      "_id": "neardoc-ai-charting-clinics",
+      "stat_top": "차팅 3분48초",
+      "stat_arrow": "니어닥 도입 뒤",
+      "stat_bottom": "1분8초",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "AI가 보험 포털을\n직접 누른다",
+      "body": "OpenAI 에이전트가 사람처럼 화면을 보고 EHR과 보험사 포털을 다룬다. CVS·Cigna·Abridge가 시험 중이다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
+      "_id": "openai-computer-use-health-agents",
+      "stat_top": "몇 달 치 밀린 문서 발송",
+      "stat_arrow": "CVS 에이전트가 끝낸 시간",
+      "stat_bottom": "주말 한 번",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "퇴원 요약도\nAI 초안에 서명",
+      "body": "런던 5개 병원 퇴원 요약 1294건을 의사 12명이 평가했다. 큰 수정 없이 서명될 확률은 AI 초안이 더 높았다.",
+      "foot": "2026.11.17",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856756",
+      "_id": "med-jama-llm-discharge-summaries",
+      "stat_top": "GPT-4o mini 퇴원 요약",
+      "stat_arrow": "수정 없거나 경미한 수정으로 승인",
+      "stat_bottom": "+22.2%p",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.11.18",
+      "headline": "받아쓰기 회사,\n업무 OS를 내다",
+      "body": "진료 기록에 사전 승인·보험 확인 에이전트를 얹은 Suki OS를 냈다. 받아쓰기는 이제 입구일 뿐이다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/",
+      "_id": "suki-agentic-os-launch",
+      "quote": "앰비언트 기록은\n종착점이 아니라\n출발점이어야 한다",
+      "quote_by": "Punit Singh Soni · Suki CEO"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
