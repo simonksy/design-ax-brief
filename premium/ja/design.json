@@ -12822,6 +12822,147 @@
           "x": "今後数日をかけて、OrganizationプランとEnterpriseプランに順次提供される。"
         }
       ]
+    },
+    "design/supernova-agentsmd-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+        },
+        {
+          "t": "p",
+          "x": "「デザイントークンはスタイリングの契約である」。WorkdayのCanvas KitのAGENTS.mdファイルにある一文だが、これが届くのはCanvas Kitリポジトリ内で作業するエージェントだけで、Canvas Kitを使ってWorkday製品を作るエンジニアやそのエージェントには届かない。"
+        },
+        {
+          "t": "p",
+          "x": "Supernovaは2026年11月16日、30のデザインシステムの主要な公開リポジトリを対象に、AGENTS.md、CLAUDE.md、Cursorルール、Copilot指示の有無を確認した。エージェント指示ファイルがあったのは16件で、内訳はAGENTS.mdが12、Copilot指示が9、CLAUDE.mdが6、Cursorルールが3だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
+          "cap": "エージェントファイルあり16、デザイントークンに言及10、ハードコード値を禁止5、ドキュメントサイトへのリンク5、システムを使うチーム向けに書かれたもの0。"
+        },
+        {
+          "t": "p",
+          "x": "16ファイルのうち十件はトークンに触れ、五件はハードコード値を使わないようエージェントに指示している。だが、どれもデザインシステムへの貢献者向けに書かれており、自社製品でシステムを使うチーム向けのものは一つもない。"
+        },
+        {
+          "t": "p",
+          "x": "Supernovaは、製品側のAGENTS.mdに貼り付けるデザインシステム用のセクションを提案している。コンポーネントをインポートする、セマンティックトークンを使う、非推奨項目を列挙する、足りないものがあるときの対処を書く、といった内容だ。さらに、リリースごとに変わる値はデザインシステムのMCPサーバーに置くべきだと主張する。"
+        }
+      ]
+    },
+    "design/pliera-bim-revit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Plieraは、Enscapeの共同創業者Moritz LuckがKarlsruheのスタートアップNeoBIMで開発した、新しいクラウドベースのBIMプラットフォームだ。建築モデリング、AI-generatedのパラメトリックオブジェクト、ルールベースの建物コンフィギュレーターを組み合わせ、Revitに挑むという野心的な計画を掲げる。11月末のBIM World Munichで披露される。"
+        },
+        {
+          "t": "p",
+          "x": "六つの分野向けのコンフィギュレーターが企業の設計ルールを取り込む。Pliera Genはドイツの住宅用地の実現可能性検討向けにすでに稼働している。紹介されたコンフィギュレーターは開発者が書いたルールを使っており、AIで企業の知識をルールにまとめることはより長期的な目標だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "アルファ版のブラウザベースのモデラーPliera Oneは、Open CascadeカーネルとThree.js/WebGLエンジンで動く。Auto Completeシステムが次のモデリング手順を提案するが、現時点ではコード化されたアルゴリズムによるものだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成AIはテキストや画像からカスタムのパラメトリックコンポーネントを作る。プロンプトから円形の窓を、写真からドアを作るといった具合で、Anthropic Claude、OpenAI、Google Geminiを使う。Pliera Genの価格は月€99または€499。チームは建築設計の完全自動化には懐疑的だ。"
+        }
+      ]
+    },
+    "design/nvidia-omniverse-sim-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "シミュレーションのアイデアを動くアプリケーションにするには、アセットを組み立て、物理とレンダリングをつなぎ、シーンが意図どおりに振る舞うかを確かめる必要がある。開発者はこの作業にフロンティアAIモデルとNVIDIA Omniverseライブラリを組み合わせ、シナリオの探索、失敗の調査、設計の改善のためのアプリケーションを作っている。自然言語の指示でAIエージェントを動かし、結果を確認して変更を導く。"
+        },
+        {
+          "t": "p",
+          "x": "KONGSBERG傘下のFalkorは、顧客がGPT-6 Astraモデルを使ってコンピューター支援設計・エンジニアリングのデータを施設規模のデジタルツインに変換できるようにしている。エンジニアは現地に出向く前に、シミュレーションで計画を作成し検証できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
+          "cap": "NVIDIA Isaac SimでSimReadyアセットを使って作ったピック・アンド・プレースのシミュレーション。"
+        },
+        {
+          "t": "p",
+          "x": "コミュニティ開発者のMichael Wagnerは、週末のうちにClaude Codeを使い、SimReady Centralのアセットで音声操作のVRアプリケーションを作った。彼の教訓は、エージェントにはレンダーとログを確認させ、そのうえで体験は自分で直接確かめることだという。"
+        },
+        {
+          "t": "p",
+          "x": "Maziyar PanahiはClaude Codeに指示し、13個のSimReady病院アセットから集中治療室を組み立てさせた。256病棟の実行では、シミュレーション上の14秒後も768体のMicroducksのうち766体が立っていた。NVIDIAの他のチームはAstraを使い、HoudiniでOP-1シンセサイザーを再現し、PTC Onshapeで車のサスペンションをモデリングし、ガスタービンのwhat-ifデジタルツインを構築し、コンベヤー80台、アーム40本、箱800個で毎秒30フレームを維持した倉庫シミュレーションのストレステストを行った。"
+        }
+      ]
+    },
+    "design/too-claudified-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "クライアントに、私のモーション作品は機械が作ったように見えると却下された。その診断は、私が五か月前にすでに公表していたものだった。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
+          "cap": "Blakeはエディションを刷り終えた後、この版を切り分けた。文字が逆向きなのは、ここで読まれることを想定していなかったからだ。"
+        },
+        {
+          "t": "p",
+          "x": "2026年6月、Takuma Kakehiは、AI-generatedのデザインは見ればそれとわかる一つの見た目に収束しており、問題は醜さではなく流暢さにあると論じるエッセイを発表した。修正のサイクルを重ねるたびに、出力はほかのあらゆる出力に近づいていくというのだ。"
+        },
+        {
+          "t": "p",
+          "x": "五か月後、あるクライアントが彼に、作品が「Claudifiedすぎる」と告げた。マーケティングチーム向けのモーショングラフィックスの仕事で、量と素早い反復が求められたため、After EffectsではなくAIで制作した。Figmaでの調整や、ハウススタイルをマークダウンファイルに書き込むといったガードレールは用意していたが、返ってきた反応はそのどれとも関係がなかった。"
+        },
+        {
+          "t": "p",
+          "x": "彼が驚いたのは診断そのものではなく、それがテーブルの向こう側から、デザインを生業としない人から、たった一語で返ってきたことだった。"
+        }
+      ]
+    },
+    "design/design-stitch-loop-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.width-1300.png",
+          "cap": "Stitch Loop"
+        },
+        {
+          "t": "p",
+          "x": "コーディングエージェントを使えば新機能を素早く作って出荷できるが、その仕事はプルリクエストがマージされた瞬間に終わる。Google Labsは本日、Stitch Loopを発表した。コードベースとライブの指標に接続し、直すべき点を見つけ、目標が達成されるまで製品に対して24/7で働き続ける長期稼働型のプロダクトエージェントだ。これはStitchの新たな方向性の一環であり、Stitchはすでに数百万人のデザイナー、開発者、創業者がアイデアを数分で動くインターフェースに変えるために使っている。"
+        },
+        {
+          "t": "p",
+          "x": "180以上の連携、カスタムMCPサーバー、ローカルのCLIアップロードを通じて、GitHubと製品のコンテキスト（ログ、ユーザー行動、フィードバック）を接続する。各ループは四つの段階を踏む。根拠に基づくSuggestions（提案）、必要に応じてトレードオフやスコープ、ビジュアルデザインの選択肢を示すSolutions（解決策）、Stitch Loopが隔離されたクラウドサンドボックスでコードを書きGitHubのプルリクエストを開くBuild（構築）、そしてライブの製品データを監視し、指標が下がらないか見守り続けるReflect（振り返り）である。PRをレビューするまで何もマージされない。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CleanShot_2026-11-17_at_13.01.13.width-1200.format-webp.webp",
+          "cap": "Stitch Loop UI"
+        },
+        {
+          "t": "p",
+          "x": "組み込みのループはサイバーセキュリティ、レイテンシ、アクセシビリティを扱い、チェックアウトのコンバージョン改善のようなカスタムループも作れる。セキュリティループは、Gemini 4 Carbonのサイバーセキュリティ能力と、コードの安全性を高めるGoogle DeepMindの自律エージェントCodeMenderを組み合わせる。Google Antigravityなどのコーディングエージェントは、Stitch CLIとMCP経由で製品コンテキストを取得でき、Slackでは@stitchが毎日のインサイトのダイジェストを届ける。ウェイトリストは本日、世界中の全ユーザーに開かれ、対象となるGoogle AI Ultraユーザーは優先的に利用できる。"
+        }
+      ]
     }
   }
 }

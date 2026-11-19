@@ -5360,6 +5360,153 @@
           "x": "论坛讨论见 LinkedIn。"
         }
       ]
+    },
+    "marketing/kca-ai-fake-doctor-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
+          "cap": "为帮助理解文章而使用的AI图片。"
+        },
+        {
+          "t": "p",
+          "x": "为迅速拦截利用人工智能(AI)制作的假医生或名人进行宣传的不当广告，韩国消费者院与Naver、Kakao、TikTok建立了合作机制。继去年与Google合作之后，合作对象扩大到国内外4家主要平台。"
+        },
+        {
+          "t": "p",
+          "x": "近来，以社交媒体为中心，出现AI生成的假专家或虚拟人物的不当广告不断扩散，消费者受害的担忧日益加剧。消费者院解释称，尤其是直播电商和短视频等视频广告信息传播速度快，需要迅速应对。"
+        },
+        {
+          "t": "p",
+          "x": "消费者院监测平台上刊登的滥用AI的不当广告，并将可疑案例转交平台后，相关平台将向广告主核实事实，并审查是否违法。随后对广告进行修改或拦截，并将结果反馈给消费者院。"
+        },
+        {
+          "t": "p",
+          "x": "主要监测对象包括冒充假医生、艺人等专家和名人的广告，篡改身体变化前后对比等伪造体验评价的广告，以及违反个别法律的广告。若相同或类似广告反复刊登，还将依据各平台政策采取限制措施。"
+        },
+        {
+          "t": "p",
+          "x": "各平台还将加强广告刊登前核查实证材料的事前审核机制。根据6月修订的《关于推荐、保证等的标示广告审查指南》，平台将督促遵守与虚拟人物推荐、保证相关的AI生成物标示义务。此前，消费者院已于去年9月与Google推进旨在拦截欺诈性广告的官民合作。"
+        }
+      ]
+    },
+    "marketing/inmobi-accelerate-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月18日，InMobi推出InMobi Accelerate。该平台用七个AI智能体，为中小企业及服务它们的代理商在单一控制面板上跨Google Ads、Meta Ads、Microsoft Advertising、TikTok Ads和ChatGPT Ads规划、搭建、上线并衡量广告活动，可免费起步。"
+        },
+        {
+          "t": "p",
+          "x": "InMobi列出的智能体角色为业务分析师、受众策略师、媒介策划、文案、创意设计师、上线工程师和优化师。InMobi Accelerate的VP兼GM Rohit Dosi表示：“AI智能体改变了专业能力的经济账。”"
+        },
+        {
+          "t": "p",
+          "x": "公告称：“所有计划、创意素材和预算都会在上线前提交审批。”只有在广告主于自设参数范围内授权的情况下，才会进行持续优化。"
+        },
+        {
+          "t": "p",
+          "x": "Accelerate借助InMobi的第一方像素对跨平台转化进行去重，并报告一个跨渠道指标True ROAS，该指标会输入InMobi的Mobius决策系统。公告没有指明该指标的独立审计方，除“免费起步”外也未公布任何价格。"
+        }
+      ]
+    },
+    "marketing/hubspot-agent-crm-pricing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+        },
+        {
+          "t": "p",
+          "x": "根据2026年11月17日发布的一篇文章，HubSpot不会因客户通过Claude或ChatGPT在软件内完成日常工作而多收费，接入其现有APIs的AI智能体也不会消耗HubSpot Credits。Credits在第三个层级才会用到：HubSpot称仍在构建的、面向智能体的受管环境。"
+        },
+        {
+          "t": "p",
+          "x": "文章写道：“每个HubSpot席位都附带足够的无头访问权限，可让你通过Claude或ChatGPT完成日常工作，且无需额外付费。”第三方智能体在现有APIs上的使用“计入其套餐已包含的API容量，不消耗积分”。希望为智能体获得治理能力、完整可追溯性和专用工具的团队，则需用HubSpot Credits付费。"
+        },
+        {
+          "t": "p",
+          "x": "文章没有给出新环境的费率、限额或启动日期，也没有界定何为“日常工作”。根据HubSpot的产品目录，额外API容量每包每月$500，最多可购买两包。"
+        },
+        {
+          "t": "p",
+          "x": "HubSpot称，第三季度客户通过连接器创建的CRM对象超过2200万个，比第二季度增长157%。"
+        }
+      ]
+    },
+    "marketing/target-ask-target-sales": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
+          "cap": "位于Alexandria, Virginia的Target门店。Dani James/Retail Dive"
+        },
+        {
+          "t": "p",
+          "x": "Target推出购物助手Ask Target测试版，加大对面向消费者的AI技术的投入。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Michael Fiddelke周三在财报电话会上对分析师表示，这家大众零售商对该工具的早期成效感到鼓舞。"
+        },
+        {
+          "t": "p",
+          "x": "Fiddelke表示：“我们在推动支撑业务根基的系统现代化的同时，也在加速创新，从提升商品供应和团队效率的工具，到面向顾客的工具，比如我们的AI-driven（AI驱动）购物助手Ask Target。”他还说，未来几个月将推出新功能。"
+        },
+        {
+          "t": "p",
+          "x": "据Business Insider 10月的报道，Ask Target测试版于上个月上线。"
+        },
+        {
+          "t": "p",
+          "x": "Fiddelke在财报电话会上指出，通过Ask Target，顾客的购买转化率约为其他渠道的两倍。"
+        },
+        {
+          "t": "p",
+          "x": "Fiddelke表示，随着行业网站流量趋势持续变化，这家零售商在智能体商务时代处于有利位置。"
+        },
+        {
+          "t": "p",
+          "x": "他说：“在消费者购买漏斗出现任何变化时站在最前沿，对我们很重要。我认为，长期以来我们很好地应对了消费者寻找我们产品方式的变化。……我们希望在消费者寻找好产品的方式上站在最前沿。”"
+        }
+      ]
+    },
+    "marketing/chatgpt-sales-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&h=900&fit=fill"
+        },
+        {
+          "t": "p",
+          "x": "我们推出ChatGPT for Sales，帮助每个销售团队更好地了解客户、减少花在琐碎事务上的时间、达成更多交易。其中包括为销售人员提供专属技能的全新Sales插件，以及ChatGPT中30多款新增和增强的合作伙伴插件。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI的全新Sales插件为日常销售工作提供即用型工作流，从决定跟进哪些客户，到准备通话、起草跟进内容。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/6mmoQk1sZ7T7wZ4TZfFzA7/bc50a51cdc4d80288d4ce9fd50d1d0e6/introducing-chatgpt-for-sales-connected-tools-overview.png?w=3840&q=90&fm=webp",
+          "cap": "按工作流分组的销售工具：内容与赋能、客户与交易、潜客开发、客户对话、业绩与风险、报价与协议。"
+        },
+        {
+          "t": "p",
+          "x": "合作伙伴插件覆盖整个销售流程：赋能类有Confluence、Guru和Seismic；客户与交易类有Salesforce、HubSpot、Close CRM和monday CRM；潜客开发类有Apollo、Clay、Common Room、Outreach和Salesloft；通话记录类有Gong、Otter.ai和Granola；管道风险类有Backstory和Hex；报价与协议类有Docusign、Ironclad、PandaDoc和ServiceNow CPQ。"
+        },
+        {
+          "t": "p",
+          "x": "用户还可以把任务交给dot——ChatGPT中一个始终在线的智能体——由它准备会议简报、追踪交易进展，并主动带来相关变化和建议的下一步供用户审阅。"
+        },
+        {
+          "t": "p",
+          "x": "“我们估计，这让这些工作的人工投入减少约65%。”使用HubSpot和ChatGPT for Sales的NeoBid公司的Prof. Dr. Gunnar Gombert说。合作伙伴插件和功能的可用性因套餐、地区和工作区设置而异。"
+        }
+      ]
     }
   }
 }

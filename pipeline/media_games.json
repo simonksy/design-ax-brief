@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-20",
+  "section": "games",
+  "media": [
+    {
+      "id": "unreal-mcp-ue58-course",
+      "type": "video",
+      "src": "pipeline/media/unreal-mcp-ue58-course.mp4",
+      "poster": "pipeline/media/unreal-mcp-ue58-course.jpg"
+    },
+    {
+      "id": "genie4-ultra-rollout",
+      "type": "video",
+      "src": "pipeline/media/genie4-ultra-rollout.mp4",
+      "poster": "pipeline/media/genie4-ultra-rollout.jpg"
+    },
+    {
+      "id": "ubisoft-motherbrain-studio",
+      "type": "image",
+      "src": "pipeline/media/ubisoft-motherbrain-studio.jpg"
+    },
+    {
+      "id": "supercent-200-agents",
+      "type": "image",
+      "src": "pipeline/media/supercent-200-agents.jpg"
+    },
+    {
+      "id": "megajam-lsd-fih-chart",
+      "type": "video",
+      "src": "pipeline/media/megajam-lsd-fih-chart.mp4",
+      "poster": "pipeline/media/megajam-lsd-fih-chart.jpg"
+    }
+  ]
+}

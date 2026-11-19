@@ -4914,6 +4914,145 @@
           "x": "Hello from HLTH in Las Vegas. My lips are chapped, my feet hurt, but the conversations are worth it. (The rest of this edition is available to STAT+ subscribers.)"
         }
       ]
+    },
+    "medicine/elsevier-clinicalkey-ehr-context": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At HLTH 2026 in Las Vegas, Elsevier unveiled a major upgrade to ClinicalKey AI, enabling the AI-powered clinical decision support tool to access a patient’s full electronic health record and evaluate treatment plans against the company’s evidence-based medical library."
+        },
+        {
+          "t": "p",
+          "x": "The HIPAA-ready point-of-care tool draws answers from full-text articles from approximately 1,000 journals, is already deployed at more than 1,200 hospitals and, the company says, integrates with all EHR providers. The patient-context capability builds on Elsevier’s June acquisition of Wellsheet, which aggregates and synthesizes patient chart data."
+        },
+        {
+          "t": "p",
+          "x": "San Juan Regional Medical Center in Farmington, New Mexico, uses the new functionality. “ClinicalKey AI reads the whole chart, checks it against the evidence and shows exactly where each finding comes from,” said Carlo Hallak, M.D. He cited a physician who used it to correctly identify viral meningitis, and said that for discharge summaries one hospital went from three days to less than three hours."
+        },
+        {
+          "t": "p",
+          "x": "The medical center takes a risk-based approach to AI governance. Elsevier says the tool shows citations and has safeguards that keep it from prescribing what clinicians should do."
+        }
+      ]
+    },
+    "medicine/siemens-coronary-cockpit-fda": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens Healthineers has received U.S. Food and Drug Administration (FDA) clearance for its Syngo.CT Coronary Cockpit software."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "3D medical angiography scan showing vascular lesions and stent placement with measurement data and intensity analysis graph"
+        },
+        {
+          "t": "p",
+          "x": "Coronary Cockpit analyzes coronary CT angiography (CCTA) data to support management of coronary artery disease and planning for percutaneous coronary intervention, according to the vendor. It runs on the company’s syngo.via imaging platform, uses AI-based segmentation, labeling, and visualization to characterize the amount and morphology of plaque across the entire coronary tree or within individual lesions, Siemens said."
+        },
+        {
+          "t": "p",
+          "x": "Information on plaque composition, size, and distribution can help clinicians assess patient risk and determine whether intervention or medical management is appropriate, the company highlighted."
+        },
+        {
+          "t": "p",
+          "x": "The software works with CCTA data from any CT scanner, though integration with the vendor’s dual-source and photon-counting CT systems provides additional benefits from their temporal and spatial resolution, Siemens said."
+        }
+      ]
+    },
+    "medicine/eu-mdr2-ai-device-reform": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In December 2025, the European Commission proposed amending the MDR, the IVDR and the AI Act in a single package — the ‘MDR 2.0 proposal’. This npj Digital Medicine Comment asks whether it would improve the regulatory environment for AI-enabled medical devices (AIeMDs) without weakening evidence requirements, regulatory oversight, or patient protection."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+          "cap": "Fig. 1: Legislative timeline and policy pathways for AIeMDs in the EU."
+        },
+        {
+          "t": "p",
+          "x": "The proposal aimed to cut MDR–AIA overlap by moving the MDR and IVDR to Section B of AIA Annex I, but the Digital Omnibus on AI, adopted in July 2026, took a different route and delays high-risk requirements to August 2028. A revised rule 11 makes software Class I by default, which the authors expect to stay exceptional."
+        },
+        {
+          "t": "p",
+          "x": "It also broadens clinical data to non-peer-reviewed studies, adds an innovation pathway, regulatory sandboxes, looser in-house device rules and predetermined change control plans (PCCPs). The authors conclude the reform would improve things only partially: open-ended learning and agentic AI remain outside its scope, and adoption in 2027 or 2028 is likely."
+        }
+      ]
+    },
+    "medicine/deepnoid-peritoneal-metastasis-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deepnoid (CEO Choi Woo-sik) said a research paper on AI that identifies peritoneal metastasis of gastric and colorectal cancer from ascites cytology images was published in the international journal ‘Journal of Korean Medical Science (JKMS)’."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+          "cap": "Photo courtesy of Deepnoid"
+        },
+        {
+          "t": "p",
+          "x": "The study was carried out jointly by researchers from the Deepnoid AI Research Institute, Samsung Medical Center, Seoul National University Bundang Hospital, Severance Hospital, Soonchunhyang University Bucheon Hospital, Chung-Ang University Hospital, the Catholic University of Korea College of Medicine, Asan Medical Center and the National Cancer Center."
+        },
+        {
+          "t": "p",
+          "x": "The team developed a CLAM-based AI model that learns and classifies at the whole slide image (WSI) level, without the laborious work of splitting slides into small pieces (patches) and labeling each one. It can analyze both PAP and H&E stained slides, and it visualizes the regions behind its judgments as an attention map. A total of 719 malignant and negative slides from a national cytopathology dataset involving 214 medical institutions nationwide were used for training and performance evaluation."
+        },
+        {
+          "t": "p",
+          "x": "In a comparative evaluation with 5 pathologists, their average reading accuracy rose from 76.5% to 91.5% with AI assistance, and sensitivity rose from 66.2% to 92.6%. Reading accuracy improved for all 5, and average reading time per slide fell from about 100 seconds to about 50 seconds."
+        },
+        {
+          "t": "p",
+          "x": "“We will extend the AI capabilities we built through chest and brain image reading to pathology, and strengthen our competitiveness as an agentic AI-based medical services company that supports the entire reading workflow,” said CEO Choi Woo-sik."
+        }
+      ]
+    },
+    "medicine/medicine-mohw-ops-ai-reward": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417643_2538.jpg",
+          "cap": "Photo: reporter Lee Jae-won"
+        },
+        {
+          "t": "p",
+          "x": "As the government builds a performance-based reward system for medical artificial intelligence (AI), it is reviewing whether to also cover AI services that the Ministry of Food and Drug Safety does not classify as medical devices, such as tools that optimize hospital operations. It set a condition, however: an improvement in patient benefit, not merely gains in a hospital's management efficiency, must be proven."
+        },
+        {
+          "t": "p",
+          "x": "At a medical AI investment forum on the 18th, Park Jeong-hwan, director of the Medical AI and Data Policy Division at the Ministry of Health and Welfare, said, \"Operational efficiency and operational optimization tools are not excluded from the reward system we are now considering,\" adding, \"Technically, we are trying to include even areas that the Ministry of Food and Drug Safety judges are not medical devices.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417644_2624.jpg",
+          "cap": "Director Park Jeong-hwan. Photo: reporter Lee Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "He stressed, \"Support and rewards should be given only where it has been proven that a tool reasonably helped the public.\" Because the existing fee schedule takes too long to reach payment, the ministry is reviewing a structure that sets key performance indicators (KPI) for each institution and product in advance, confirms the effect first at a small number of hospitals, and then pays quickly. The specific KPI criteria, the evaluating body and the method for calculating payments have not yet been finalized."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417646_277.jpg",
+          "cap": "Lim Jin-sun, team leader of the Digital Medical Technology Listing Department at the Health Insurance Review and Assessment Service. Photo: reporter Lee Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "Lim Jin-sun, team leader of the Digital Medical Technology Listing Department at the Health Insurance Review and Assessment Service, said the agency will build a system that links evidence accumulated during the temporary listing period, in operation since December 2023, to the formal listing process."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417647_2740.jpg",
+          "cap": "Lunit Chairman Baek Seung-wook. Photo: reporter Lee Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "Lunit Chairman Baek Seung-wook said, \"There is still no consensus on what it is worth to raise the cancer detection rate by 1%,\" stressing that rewards need to be predictable. National funds, national health insurance and private insurance were suggested as funding sources, but how the costs would be shared has not been decided."
+        }
+      ]
     }
   }
 }

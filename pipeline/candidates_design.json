@@ -1,0 +1,187 @@
+{
+  "section": "design",
+  "now_iso": "2026-11-19T22:03:00Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind",
+      "category": "vr",
+      "published_iso": "2026-11-18T18:13:42Z",
+      "excerpt": "Google DeepMind rolls out a new Project Genie experience with its Genie 4 world model to eligible Google AI Ultra subscribers, adding real-time prompt edits inside a generated world, chainable worlds and a community gallery for remixing; a day later Genie 4 also opened on the Gemini API for 720p interactive worlds with native audio. Follow-up to the 10-28 Genie 4 model debut (games).",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png"
+    },
+    {
+      "title": "Canva adds an AI 'off' button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-11-19T12:30:00Z",
+      "excerpt": "Canva is rolling out settings that let users and teams switch off most of its generative AI features and filter AI-made images, saying AI does not suit every task; some AI tools stay on.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "category": "render",
+      "published_iso": "2026-11-19T17:00:35Z",
+      "excerpt": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png"
+    },
+    {
+      "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+      "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+      "source": "NVIDIA Technical Blog",
+      "category": "render",
+      "published_iso": "2026-11-18T17:00:00Z",
+      "excerpt": "NVIDIA details a Cosmos workflow that generates diverse, training-ready synthetic scenes (rare defects, nighttime incidents) from two prompts for physical AI and world-model training.",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/cosmos-gif-500x282.gif"
+    },
+    {
+      "title": "Introducing Vercel Board",
+      "url": "https://vercel.com/blog/introducing-vercel-board",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-11-18T08:00:00Z",
+      "excerpt": "Vercel Board is an experimental shared message board where coding agents such as Claude Code and Codex coordinate tasks, exchange context and work together across tools.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca600397c120c7550d2d2c36/e9a2d078b2229c537525478b237c707a/og-board__1_.png"
+    },
+    {
+      "title": "Artists and creators are leaving Etsy in droves over its new AI policy",
+      "url": "https://www.creativebloq.com/news/artists-and-creators-are-leaving-etsy-in-droves-over-its-new-ai-policy",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-11-18T08:00:00Z",
+      "excerpt": "Artists and makers are posting goodbye messages and leaving Etsy over its new AI policy. Follow-up to Etsy AI-policy stories covered 10-24/10-28.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GTjDvhNpQHKbwDKqVCDpyC-1920-80.jpg"
+    },
+    {
+      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+      "source": "Smashing Magazine",
+      "category": "tokens",
+      "published_iso": "2026-11-17T08:00:00Z",
+      "excerpt": "AI has sped up how teams design and build but QA testing has not kept pace and the web may be getting less accessible; Andrew Chung draws on new research to explain what separates teams that keep accessibility quality up.",
+      "og_image": "https://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
+    },
+    {
+      "title": "A turning point for CAD?",
+      "url": "https://develop3d.com/opinion/comment/a-turning-point-for-cad/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-11-18T09:45:10Z",
+      "excerpt": "DEVELOP3D comment: AI is reshaping CAD, promising smarter tools for designers while exposing the industry's resistance to rapid change. (Opinion piece.)",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/Engineer-using-cad-software_comment.jpg"
+    },
+    {
+      "title": "Pliera: a new BIM 2.0",
+      "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-11-18T18:13:49Z",
+      "excerpt": "Pliera combines BIM modelling, AI-generated parametric objects and building configurators, with ambitious plans to challenge Revit.",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+    },
+    {
+      "title": "Mitsubishi Electric CNC work cell uses AI and humanoid robots",
+      "url": "https://www.engineering.com/mitsubishi-electric-cnc-work-cell-uses-ai-and-humanoid-robots/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-11-19T15:19:33Z",
+      "excerpt": "Shown at JIMTOF in Tokyo, Mitsubishi Electric's work cell combines AI, a CNC machine equipped with physical AI and a general-purpose humanoid robot.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/mitsubishi-ai-cncmachining.jpg"
+    },
+    {
+      "title": "Introducing the New Autodesk Fusion Plans: Simpler Access to Capabilities and More AI",
+      "url": "https://www.autodesk.com/products/fusion-360/blog/introducing-new-autodesk-fusion-plans-what-you-need-to-know/",
+      "source": "Autodesk Fusion Blog",
+      "category": "cad",
+      "published_iso": "2026-11-19T11:00:00Z",
+      "excerpt": "From January 28, 2027 Fusion moves to four plans (Starter, Standard, Professional, Enterprise) with AI capacity included in every plan and more AI at higher tiers; extensions are folded into the plans. (Pricing/packaging story; fetched via r.jina.ai, autodesk.com 403s curl.)",
+      "og_image": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/11/image-7-2.jpg"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "published_iso": "2026-11-19T18:09:11Z",
+      "excerpt": "Gemini's Mac app gets computer use for AI Plus, Pro and Ultra users: an agent that can organize files, fill out forms and run multistep workflows across desktop apps.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675"
+    },
+    {
+      "title": "What Your AGENTS.md Should Say About Your Design System",
+      "url": "https://www.supernova.io/blog/agents-md-design-system",
+      "source": "Supernova",
+      "category": "tokens",
+      "published_iso": "2026-11-17T00:00:00Z",
+      "excerpt": "Supernova checked 30 design-system repos for AGENTS.md and other agent files: 16 have one, none is written for teams consuming the system; it proposes a section to copy.",
+      "og_image": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+    },
+    {
+      "title": "Figma Variables vs Design Tokens in 2026",
+      "url": "https://www.supernova.io/blog/understanding-the-differences-between-figma-variables-and-design-tokens",
+      "source": "Supernova",
+      "category": "tokens",
+      "published_iso": "2026-11-18T00:00:00Z",
+      "excerpt": "How Figma variables differ from design tokens in 2026: what each stores, how the six variable types map to DTCG 2025.10 types, and what each gives an AI agent.",
+      "og_image": "https://www.supernova.io/static/images/blog/understanding-the-differences-between-figma-variables-and-design-tokens/hero.png"
+    },
+    {
+      "title": "From idea to decision: what we're learning about AI in engineering",
+      "url": "https://www.ntop.com/resources/blog/from-idea-to-decision-what-were-learning-about-ai-in-engineering",
+      "source": "nTop",
+      "category": "cad",
+      "published_iso": "2026-11-17T00:00:00Z",
+      "excerpt": "nTop shares what it is learning about using AI across the engineering design workflow, from early ideas to design decisions. (Vendor blog; date-only publish stamp.)",
+      "og_image": "https://cdn.sanity.io/images/aj762rqw/production/a8bd1701996d5b78e2eea7d5be9b0d8ff7b61e29-952x713.jpg?w=1200&q=85&auto=format"
+    },
+    {
+      "title": "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+      "url": "https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP",
+      "source": "Higgsfield",
+      "category": "render",
+      "published_iso": "2026-11-18T19:00:00Z",
+      "excerpt": "Higgsfield guide to generating video, images, audio and ads from inside Claude via its MCP connector: setup, first video, credits and fixes. (Vendor how-to.)",
+      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/90db10e6fcacd88a0532aca3b86347eb9bd516a3-2720x1536.jpg"
+    },
+    {
+      "title": "Krea Originals 01 & 02: ROCKET and RECESS",
+      "url": "https://www.krea.ai/blog/krea-originals-rocket-and-recess",
+      "source": "Krea",
+      "category": "render",
+      "published_iso": "2026-11-17T00:00:00Z",
+      "excerpt": "Krea's first two original short films, made on one Nodes canvas with Krea 2 Turbo for characters and locations, Seedance 2.5 for every scene and prompts written in Claude; the post breaks down the pipeline. Check movies for cross-section dup.",
+      "og_image": "https://s.krea.ai/KreaOpenGraph2.webp"
+    },
+    {
+      "title": "Too Claudified",
+      "url": "https://uxdesign.cc/too-claudified-9af067298b2a",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-11-18T20:17:04Z",
+      "excerpt": "A designer whose AI-built motion graphics were rejected by a client as 'too Claudified' revisits his June essay on AI design converging on one fluent look, and what changed in five months.",
+      "og_image": null
+    },
+    {
+      "title": "AI Prototype to Production: 7 Steps to Working UI",
+      "url": "https://www.eleken.co/blog-posts/prototype-to-production",
+      "source": "Eleken",
+      "category": "workflow",
+      "published_iso": "2026-11-19T15:31:30Z",
+      "excerpt": "Design agency Eleken lays out a seven-step workflow for taking AI-generated prototypes to production-ready UI, pitched as roughly 2x faster delivery. (Agency blog.)",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6aff164318a8221afaf0eaa9_prototype-to-production-cover-0.png"
+    },
+    {
+      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+      "source": "The Decoder",
+      "category": "render",
+      "published_iso": "2026-11-17T20:30:50Z",
+      "excerpt": "GPT-6.2 Astra pulls slide layouts, colors and typography from templates, built and animated 3D models in Blender in demos, and tops the AA-3D web-design benchmark (1,318 Elo vs Claude Fable 5.2 at 1,271); Astra API price cut 20%.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/Agents-Last-Exam-v1.1.png"
+    }
+  ]
+}

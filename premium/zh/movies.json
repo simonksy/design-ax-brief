@@ -11029,6 +11029,182 @@
           "x": "章节: 00:00 开场 · 00:40 设置Claude项目 · 01:40 策划与分镜 · 02:30 角色与场景参考 · 04:00 镜头表与连拍法 · 05:15 生成并剪辑场景。提示词与项目设置: runway.com/prompts/short-film-runway-mcp"
         }
       ]
+    },
+    "movies/visualcenter-cinema-genesis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+        },
+        {
+          "t": "p",
+          "x": "釜山AI影像公司Visual Center与ETRI及釜山国际短片电影节（BISFF）合作制作的3D立体短片《Cinema Genesis》，于10月9日正式入围在昂古莱姆举行的Courant3D电影节AI电影竞赛单元。"
+        },
+        {
+          "t": "p",
+          "x": "这部约四分钟的影片以生成式AI重新诠释了迈布里奇、马雷、爱迪生、卢米埃尔兄弟和梅里爱的发明。基于GAN（GAN-based）的AI将受损的19世纪（19th-century）照片和早期胶片修复并上色至UHD 4K；通过深度估计和计算左右视差，将2D画面转换为立体3D。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
+          "cap": "《Cinema Genesis》放映现场。"
+        },
+        {
+          "t": "p",
+          "x": "10月10日至12日，在“BISFF in PARIS”活动上，约200人参加了以AI电影与立体转换为主题的圆桌会，并戴上3D眼镜观看了四部生成式AI（generative-AI）3D短片。导演金昌浩表示：“生成式AI并不会取代人类的艺术创作。”他说：“它是第三种视角，让130年前的先驱与今天的创作者跨越时间展开合作。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
+          "cap": "在巴黎韩国文化院举行的“AI电影与立体转换”圆桌会。"
+        },
+        {
+          "t": "p",
+          "x": "BISFF还与MK2 Agency和Artefact签署协议，为2027年第44届BISFF新设AI竞赛单元奠定基础。"
+        }
+      ]
+    },
+    "movies/westworld-ai-lion-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+        },
+        {
+          "t": "p",
+          "x": "11月4日，在仁川举行的ICNX 2026 技术展示会上，Westworld技术研究所所长Lim Ju-young展示了为今年JTBC电视剧《Everyone Is Fighting Their Own Worthlessness》制作的狮子。他说，仅这类生物的CG制作就“需要四个多月和30多名美术师”。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
+          "cap": "同一只狮子的两种做法：传统CG与AI VFX。"
+        },
+        {
+          "t": "p",
+          "x": "Westworld先用AI对狮子进行预演，再用单独训练的模型生成狮子素材画面，修正毛发、眼睛、形态和闪烁，随后进行摄影机跟踪，使光线、色彩和阴影与底片匹配——一到两周即完成。"
+        },
+        {
+          "t": "p",
+          "x": "Lim Ju-young表示：“如果把图像或视频输入AI，重新生成整个画面，在4K 及以上分辨率下，细节会破碎或变形。”他说：“这样的结果无法交付，所以我们不断重复生成素材、再合成回去的循环。”他列出一致性、可控性、质量和版权，作为AI输出无法用作成品的原因。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
+          "cap": "借助AI素材与合成，干燥的乡间小路（左）变成雪景（右）。"
+        },
+        {
+          "t": "video",
+          "yt": "tcT8APJwyXw"
+        }
+      ]
+    },
+    "movies/docmakers-archive-ai-licensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
+          "cap": "About a Hero"
+        },
+        {
+          "t": "p",
+          "x": "在IDFA，一场题为“Is AI Stealing My Documentary?”（AI在偷我的纪录片吗？）的行业讲座探讨了向AI授权档案影像的问题。Rights Stuff CEO Wendy Bernfield说，AI“在我们还没充分意识到之前就已经在抓取或窃取”。目前约15家聚合商中，只有少数专门收集档案影像素材；这些平台内置版权保护，但费用较低。"
+        },
+        {
+          "t": "p",
+          "x": "档案制片人Elizabeth Klinck说，她“几乎每周”都会接到询问，并敦促纪录片人“为未来做好准备”：源自档案的素材“在差错与遗漏保险方面可能站不住脚”。她回忆起一份合同，其中针对训练的退出条款只有五天期限。"
+        },
+        {
+          "t": "p",
+          "x": "First Hand Films CEO Esther Van Messel表示，大多数AI请求都是5,000小时以上的批量需求：“我认为我们的电影应该用来训练AI……当然，要在限度和边界之内。”Bernfield说，买家正转向“花更多钱买更少、经过精心筛选的内容”，而Archive.org和许多图书馆已限制免费访问。"
+        }
+      ]
+    },
+    "movies/estsoft-kfast-ai-dubbing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
+          "cap": "通过AI配音特化K-FAST推广支持项目完成本地化的主要IP图片（图片：ESTsoft）"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoft正利用人工智能（AI）配音技术，扩大韩国广播内容进军拉美市场。公司在2年间完成了300小时内容的本地化，并开设了2个向拉美5国提供韩国内容的FAST频道。"
+        },
+        {
+          "t": "p",
+          "x": "AI服务企业ESTsoft（代表Chung Sang-won）19日表示，已连续2年承担韩国科学技术信息通信部和韩国信息通信振兴协会（KAIT）推进的“AI配音特化K-FAST推广支持项目”，推动AI配音技术升级和海外发行扩张。"
+        },
+        {
+          "t": "p",
+          "x": "FAST（Free Ad-supported Streaming TV）是以广告为基础提供免费内容的流媒体TV服务。ESTsoft通过该项目，将AI配音技术应用于电视剧、综艺、纪录片等约1万8,000分钟（300小时）的内容。"
+        },
+        {
+          "t": "p",
+          "x": "尤其是，公司改进了自有服务“Perso Dubbing”的语音合成技术，自然再现原说话者的音色和情感表达，并强化了按内容片段编辑和下载的功能。公司还制定了面向拉美市场的“中性西班牙语”配音质量指南。"
+        },
+        {
+          "t": "p",
+          "x": "KBS、SBS、MBC、EBS、ENA、KT Studio Genie、Channel A等韩国广播及内容企业参与了该项目。今年，AI配音被应用于KT Studio Genie的1,958部K-短剧、Channel A的《新郎授课》以及K20的61部美妆综艺内容等。"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoft联合体开设了K20的“TRENDON”和KT Studio Genie的“GENIE Shorts”等2个FAST频道，并通过LG Channels开始向墨西哥、秘鲁、智利、哥伦比亚、阿根廷等拉美5国供应内容。"
+        },
+        {
+          "t": "p",
+          "x": "AI配音服务的海外用户也在增加。Perso Dubbing累计注册用户于10月突破60万，比2月增加14万。8月至10月新注册用户中约90%为海外用户。"
+        },
+        {
+          "t": "p",
+          "x": "10月，在全球AI视频平台企业HeyGen的内部评测中，Perso Dubbing获得8.3分。同月，在法国举行的“MIPCOM 2026”上，ESTsoft与全球广播及流媒体技术企业Amagi讨论了内容本地化合作方案。"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoft计划今后将K-FAST服务地区扩大到西班牙和北美，并通过Samsung TV频道等实现发行渠道多元化。"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoft代表Chung Sang-won表示：“通过K-FAST项目，我们得以同时推进自有Perso Dubbing的技术升级和全球扩张。”他还说：“我们将把国家项目与自身技术实力相结合，提升在海外市场的竞争力，持续创造成果。”"
+        }
+      ]
+    },
+    "movies/movies-autodesk-maya-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081848-3dsmax-assistant-shirzad-still-2-1280.jpg",
+          "cap": "3ds Max中的Autodesk Assistant。"
+        },
+        {
+          "t": "p",
+          "x": "Autodesk为Maya和3ds Max推出新的AI功能：艺术家可以指挥Autodesk Assistant在场景中执行任务，也可以通过新的Model Context Protocol（MCP）服务器，用自己的AI智能体控制这两款应用；两项功能均处于技术预览阶段。采用NVIDIA DLSS的Arnold全新交互式视口也已推出。"
+        },
+        {
+          "t": "p",
+          "x": "随3ds Max或Maya订阅提供的Assistant，现在可以执行场景检查、UV映射等任务。读写权限默认关闭，艺术家点击“Allow”之前不会运行任何脚本，智能体的每个操作都只占一步撤销，Safe Mode还会拦截触及场景之外的脚本。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-3dsmax-assistant-shirzad-still-3-1280.jpg?itok=dco93Hd0"
+        },
+        {
+          "t": "p",
+          "x": "新的3ds Max和Maya MCP Servers允许外部客户端控制这两款应用。艺术家Shirzad Bahrami在开发工具时把Claude连接到Maya做单元测试；原本手动要花一个多小时的流程，现在大约五分钟即可完成。"
+        },
+        {
+          "t": "p",
+          "x": "在Flow Production Tracking中，Assistant也能以技术预览形式回答关于制作自身数据的只读问题。在SIGGRAPH 2026上发布的Arnold视口，会在艺术家于场景中移动时由DLSS负责放大和降噪，使画面接近Arnold的最终渲染效果。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-arnold-viewport-mayamotion-blur-and-subsurface-scattering-1280.jpg?itok=QkXd3UnQ",
+          "cap": "Arnold Viewport图像"
+        },
+        {
+          "t": "video",
+          "yt": "xOGIVruVHt4"
+        }
+      ]
     }
   }
 }

@@ -12532,6 +12532,147 @@
           "x": "El despliegue en los planes Organization y Enterprise se completará en los próximos días."
         }
       ]
+    },
+    "design/supernova-agentsmd-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+        },
+        {
+          "t": "p",
+          "x": "“Los tokens de diseño son el contrato de estilo.” Esa frase está en el archivo AGENTS.md de Canvas Kit, de Workday, pero solo llega a los agentes que trabajan dentro del repositorio de Canvas Kit, no a los ingenieros que crean productos de Workday con él ni a sus agentes."
+        },
+        {
+          "t": "p",
+          "x": "Supernova revisó el 16 de noviembre de 2026 los principales repositorios públicos de 30 sistemas de diseño en busca de AGENTS.md, CLAUDE.md, reglas de Cursor e instrucciones de Copilot. 16 tienen un archivo de instrucciones para agentes: 12 AGENTS.md, 9 instrucciones de Copilot, 6 CLAUDE.md y 3 reglas de Cursor."
+        },
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
+          "cap": "16 tienen un archivo para agentes, 10 mencionan tokens de diseño, 5 prohíben valores fijos en el código, 5 enlazan a su sitio de documentación y 0 están escritos para los equipos que usan el sistema."
+        },
+        {
+          "t": "p",
+          "x": "Diez de los 16 archivos hablan de tokens y cinco indican al agente que no use valores fijos en el código. Pero todos están escritos para quienes contribuyen al sistema de diseño; ninguno para los equipos que lo usan en sus propios productos."
+        },
+        {
+          "t": "p",
+          "x": "Supernova ofrece una sección sobre el sistema de diseño para pegar en el propio AGENTS.md de cada producto —importar componentes, usar tokens semánticos, listar elementos obsoletos, indicar qué hacer cuando falta algo— y sostiene que los valores que cambian con cada versión deben estar en un servidor MCP del sistema de diseño."
+        }
+      ]
+    },
+    "design/pliera-bim-revit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera es una nueva plataforma BIM en la nube desarrollada por Moritz Luck, cofundador de Enscape, en la startup NeoBIM de Karlsruhe. Combina modelado arquitectónico, objetos paramétricos AI-generated y configuradores de edificios basados en reglas, con el ambicioso plan de desafiar a Revit, y se presenta en BIM World Munich a finales de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "Configuradores para seis sectores recogen las reglas de diseño de las empresas; Pliera Gen ya funciona en Alemania para estudios de viabilidad de terrenos residenciales. Los configuradores mostrados usan reglas escritas por los desarrolladores: usar AI para convertir el conocimiento de una empresa en reglas es la ambición a más largo plazo."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera One, el modelador en el navegador que está en fase alfa, funciona sobre el kernel Open Cascade con un motor Three.js/WebGL. Un sistema Auto Complete sugiere los siguientes pasos de modelado, por ahora a partir de algoritmos programados."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La AI generativa crea componentes paramétricos personalizados a partir de texto o imágenes —una ventana circular a partir de un prompt, una puerta a partir de una fotografía— con Anthropic Claude, OpenAI o Google Gemini. Pliera Gen cuesta €99 o €499 al mes; el equipo se muestra escéptico ante el diseño arquitectónico totalmente automatizado."
+        }
+      ]
+    },
+    "design/nvidia-omniverse-sim-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Convertir una idea de simulación en una aplicación que funcione implica ensamblar recursos, conectar la física y el renderizado, y comprobar que la escena se comporta como se espera. Los desarrolladores combinan modelos de AI de frontera con bibliotecas de NVIDIA Omniverse para llevar a cabo ese trabajo: crean aplicaciones para explorar escenarios, investigar fallos y mejorar diseños. Dirigen a los agentes de AI con instrucciones en lenguaje natural, revisan los resultados y orientan los cambios."
+        },
+        {
+          "t": "p",
+          "x": "Falkor, una empresa de KONGSBERG, permite a sus clientes convertir sus datos de diseño e ingeniería asistidos por computadora en gemelos digitales a escala de instalación con el modelo GPT-6 Astra, de modo que los ingenieros puedan crear y probar planes en simulación antes de desplazarse al lugar."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
+          "cap": "Una simulación de pick-and-place creada con recursos SimReady en NVIDIA Isaac Sim."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador de la comunidad Michael Wagner usó Claude Code para crear en un fin de semana una aplicación de VR controlada por voz con recursos de SimReady Central. Su conclusión: dar a los agentes renders y registros para inspeccionar y luego comprobar la experiencia directamente."
+        },
+        {
+          "t": "p",
+          "x": "Maziyar Panahi indicó a Claude Code que montara una unidad de cuidados intensivos con 13 recursos hospitalarios de SimReady; en una ejecución con 256 salas, 766 de 768 Microducks seguían en pie tras 14 segundos simulados. Otros equipos de NVIDIA usaron Astra para recrear un sintetizador OP-1 en Houdini, modelar la suspensión de un coche en PTC Onshape, construir un gemelo digital what-if de una turbina de gas y someter a una prueba de estrés una simulación de almacén que mantuvo 30 fotogramas por segundo con 80 cintas transportadoras, 40 brazos y 800 cajas."
+        }
+      ]
+    },
+    "design/too-claudified-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un cliente rechazó mi trabajo de animación porque parecía hecho por una máquina. Yo había publicado el diagnóstico cinco meses antes."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
+          "cap": "Blake cortó esta plancha después de terminar la edición. Las letras se leen al revés porque nunca estuvieron pensadas para leerse aquí."
+        },
+        {
+          "t": "p",
+          "x": "En junio de 2026, Takuma Kakehi publicó un ensayo en el que sostenía que el diseño AI-generated había convergido en un aspecto único y reconocible, y que el problema no era la fealdad sino la fluidez: cada ciclo de revisión acercaba el resultado a todos los demás."
+        },
+        {
+          "t": "p",
+          "x": "Cinco meses después, un cliente le dijo que su trabajo era demasiado Claudified. El encargo eran gráficos en movimiento para un equipo de marketing, hechos con AI en lugar de en After Effects porque el briefing pedía volumen e iteración rápida. Tenía salvaguardas —ajustes en Figma, el estilo de la casa escrito en archivos markdown—, pero nada de eso fue lo que señaló la respuesta."
+        },
+        {
+          "t": "p",
+          "x": "Lo que le sorprendió no fue el diagnóstico, sino que llegara del otro lado de la mesa, en una sola palabra, de alguien que no se dedica al diseño."
+        }
+      ]
+    },
+    "design/design-stitch-loop-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.width-1300.png",
+          "cap": "Stitch Loop"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de programación permiten crear y lanzar nuevas funciones con rapidez, pero su trabajo termina en el momento en que se fusiona tu pull request. Hoy, Google Labs presenta Stitch Loop, un agente de producto de larga duración que se conecta a tu código y a tus métricas en vivo, detecta lo que hay que corregir y sigue trabajando 24/7 en tu producto hasta cumplir tus objetivos. Forma parte de una nueva dirección para Stitch, que millones de diseñadores, desarrolladores y fundadores ya usan para convertir ideas en interfaces funcionales en minutos."
+        },
+        {
+          "t": "p",
+          "x": "Conectas GitHub y el contexto de tu producto (registros, comportamiento de usuarios, comentarios) mediante más de 180 integraciones, servidores MCP personalizados o cargas desde la CLI local. Cada ciclo recorre cuatro pasos: Suggestions, propuestas basadas en evidencia; Solutions, con ventajas y desventajas, alcance y opciones de diseño visual cuando corresponde; Build, en el que Stitch Loop escribe código en un sandbox aislado en la nube y abre un pull request en GitHub; y Reflect, en el que supervisa los datos del producto en vivo y sigue vigilando por si la métrica empeora. Nada se fusiona hasta que revisas el PR."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CleanShot_2026-11-17_at_13.01.13.width-1200.format-webp.webp",
+          "cap": "UI de Stitch Loop"
+        },
+        {
+          "t": "p",
+          "x": "Los ciclos integrados abarcan ciberseguridad, latencia y accesibilidad, y también se pueden crear ciclos personalizados, como mejorar la conversión en el pago. El ciclo de seguridad combina las capacidades de ciberseguridad de Gemini 4 Carbon con CodeMender, el agente autónomo de Google DeepMind que mejora la seguridad del código. Agentes de programación como Google Antigravity pueden obtener el contexto del producto a través de la Stitch CLI y MCP, y en Slack @stitch envía resúmenes diarios de hallazgos. La lista de espera se abre hoy para todos los usuarios, en todo el mundo, y los usuarios elegibles de Google AI Ultra tendrán acceso prioritario."
+        }
+      ]
     }
   }
 }

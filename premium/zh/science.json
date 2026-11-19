@@ -11274,6 +11274,145 @@
           "x": "年轻组和年长组都认为 AI-generated 人脸比真实照片更真实，而参与者观看深度伪造图像时前脑岛活动较低。Ebner 表示，AI 人脸看起来更真实，可能是因为它们由许多张人脸平均生成，因而“更容易处理，也更讨人喜欢”。她说，意识到这种偏差或许才是真正的优势，对常成为诈骗目标的老年人尤其如此。"
         }
       ]
+    },
+    "science/maya-vibe-archaeology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
+          "cap": "此前已有记录的古玛雅遗址。Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
+        },
+        {
+          "t": "p",
+          "x": "11月10日，AI研究者Pietro Miotti在X上分享了墨西哥一处看似此前未被测绘的古玛雅市政中心，称是让数十个AI智能体筛查公开的NASA激光雷达数据后找到的。该帖子在Polymarket等账号的推动下走红，被称为“vibe archaeology”（氛围考古）。"
+        },
+        {
+          "t": "p",
+          "x": "但这处遗址并非新发现。不到一天，University of Alabama at Birmingham的Sarah Parcak就指出，Tulane的Francisco Estrada-Belli及其同事已于2025年记录过该遗址。Parcak说：“这就是同行评审存在的意义。并非所有东西都在网上。”"
+        },
+        {
+          "t": "p",
+          "x": "“我觉得人们想借助AI当公民科学家、做些尝试，这很好，”Estrada-Belli说，“但我认为，在公开提出那样的说法之前，他们不应在没有做背景核查或尽职调查的情况下盲目接受结果。”"
+        },
+        {
+          "t": "p",
+          "x": "Miotti更正了帖子，注明了该调查的功劳。他说：“如今一个有假设的人就能让AI智能体通宵运行，筛选出候选结构供专家评估。”他还表示，这件事显示了人的贡献：“文献综述、实地核实以及其他更具体的领域专长。”"
+        }
+      ]
+    },
+    "science/gpt52-wildlife-species-id": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
+          "cap": "Morrocoy保护区的相机陷阱图像：AI给出的是Bassariscus sumichrasti，专家鉴定为Metachirus myosuros。图片来源：Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "一个通用AI模型把哥伦比亚Montes de María相机陷阱拍到的一只有袋动物识别为Bassariscus sumichrasti，这是一个在哥伦比亚并无记录的物种，尽管模型已被告知该动物的发现地点。专家复核确认它是Metachirus myosuros。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
+          "cap": "犰狳Cabassous centralis。图片来源：Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "Gustavo Nicolas Paez Salamanca发表在Biodiversity Data Journal上的研究，用10,000张研究级iNaturalist照片测试了OpenAI的GPT-5.2，照片涵盖哥伦比亚的两栖类、鸟类、鱼类、哺乳类和爬行类，每类2,000张。其物种级准确率为9.5%：哺乳类和爬行类约为17–19%，两栖类、鸟类和鱼类不到5%。"
+        },
+        {
+          "t": "p",
+          "x": "公开照片较少的物种以及新近描述的物种更难识别，例如2025年才被确认的豪猪Coendou vossi。Paez Salamanca说：“如果一种稀有动物被误认为更常见的动物，它的存在可能就会被忽视。”研究建议把AI作为第一步，将不确定或高风险的记录交给专家。"
+        }
+      ]
+    },
+    "science/ai2-asta-theorizer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2在其面向科学研究的AI智能体平台Asta中推出Theorizer，并开源代码。Theorizer会检索文献，为每篇论文制定提取内容的模板，再比较各项发现以生成理论，并把各项主张与其依据的论文关联起来。"
+        },
+        {
+          "t": "p",
+          "x": "Providence Swedish Cancer Institute的Dr. Sid Devarakonda将其用于“驱动基因阴性”（driver-negative）肺腺癌。回顾最初的几条理论时，他说：“等一下，这正是我的想法。而我花了15年才学会这样思考。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
+          "cap": "对缺乏已知遗传驱动因素的肺腺癌生长的三种可能解释。"
+        },
+        {
+          "t": "p",
+          "x": "对于Allen Institute的Jérôme Lecoq，Theorizer给出了50个关于VIP中间神经元的候选理论，而他原本只预期一两个。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
+          "cap": "秘鲁最大露点超过35°C的网格单元。图：Piero Palacios，CIP。"
+        },
+        {
+          "t": "p",
+          "x": "在International Potato Center，一个错误但可检验的解释引导研究人员找到了离谱露点数据的真正来源。Ai2提醒，Theorizer可能遗漏相关研究，也可能误判原创性。"
+        }
+      ]
+    },
+    "science/ai-supertelescope-rubin-euclid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
+          "cap": "ESA/Euclid/Euclid Consortium/NASA"
+        },
+        {
+          "t": "p",
+          "x": "天文学家希望把Vera C. Rubin Observatory、Euclid空间望远镜和Nancy Grace Roman Space Telescope整合为一台AI-powered（AI驱动的）超级望远镜。Renaissance Philanthropy的Gioia Rau说：“把它们放在一起处理，就构成了第四台望远镜。而还没有人打开过它。”"
+        },
+        {
+          "t": "p",
+          "x": "8月，Rau与超过24位合著者发布了一篇呼吁采取行动的预印本。论文认为，公共投资已超过60亿美元，各机构应在机会消失前资助将这些巡天数据拼接起来的工作。"
+        },
+        {
+          "t": "p",
+          "x": "Rubin首席科学家Tony Tyson说，目标是“把像素结合起来，得到分辨率极高的图像”，这将有助于暗能量、暗物质、超新星和小行星的研究。Lior Shamir说：“即使有1亿名志愿者，要为Rubin Observatory获取的全部数据做标注也需要120,000年。用AI的话，几乎是瞬间完成。”"
+        },
+        {
+          "t": "p",
+          "x": "Yale的Meg Urry说：“这件事必须做。”Roman预计将于2027年初开始巡天观测。"
+        }
+      ]
+    },
+    "science/osmo-ai-nose-smell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg",
+          "cap": "Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "在Newark Airport附近的实验室里，约30位有经验的嗅辨员记录“nutty”“peachy”“marine”这类气味笔记，再与化学分析交叉比对，用来训练AI初创公司Osmo所称的全球首个嗅觉基础模型。创始人Alex Wiltschko说，目标是“让计算机拥有嗅觉”。"
+        },
+        {
+          "t": "p",
+          "x": "Wiltschko称，Osmo的模型已达到“human-level olfactory intelligence”，即人类水平的嗅觉智能：识别和区分气味的能力与普通人相当，创造气味的能力与初级调香设计师相当。公司表示，上个月它的表现超过了全球最大消费品企业之一的内部调香师。"
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
+        },
+        {
+          "t": "p",
+          "x": "Osmo已建成超过10 million 条人工标注和800 million 个“scent tokens”的数据集，一台校车大小的气味打印机器人可以依据ChatGPT-style 的提示词设计香气。该技术已用于零售香水，包括为Procter & Gamble服务。"
+        },
+        {
+          "t": "p",
+          "x": "质疑依然存在。嗅觉科学家Avery Gilbert认为部分营销说法缺少依据。Osmo前顾问Michael Schmuker称这项技术是一项成就，但强调情境很重要：Camembert干酪与用过的尿布共享同一种分子。要实现医疗诊断这类“最大的奖赏”式目标，传感器还得更好。"
+        }
+      ]
     }
   }
 }

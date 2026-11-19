@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "section": "books",
+  "media": [
+    {
+      "id": "globalcomix-ai-relaunch",
+      "type": "image",
+      "src": "pipeline/media/globalcomix-ai-relaunch.png"
+    },
+    {
+      "id": "wrtn-crack-ip-expansion",
+      "type": "image",
+      "src": "pipeline/media/wrtn-crack-ip-expansion.jpg"
+    },
+    {
+      "id": "manganow-getbackers-comic-anime",
+      "type": "video",
+      "src": "pipeline/media/manganow-getbackers-comic-anime.mp4",
+      "poster": "pipeline/media/manganow-getbackers-comic-anime.jpg"
+    },
+    {
+      "id": "scbwi-state-of-industry-ai",
+      "type": "svg"
+    },
+    {
+      "id": "comstocks-sacramento-ai-pushback",
+      "type": "image",
+      "src": "pipeline/media/comstocks-sacramento-ai-pushback.png"
+    }
+  ]
+}

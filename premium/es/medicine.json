@@ -4914,6 +4914,145 @@
           "x": "Saludos desde HLTH en Las Vegas. Tengo los labios agrietados y me duelen los pies, pero las conversaciones valen la pena. (El resto de esta edición está disponible para los suscriptores de STAT+.)"
         }
       ]
+    },
+    "medicine/elsevier-clinicalkey-ehr-context": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En HLTH 2026, en Las Vegas, Elsevier presentó una importante actualización de ClinicalKey AI que permite a esta herramienta AI-powered de apoyo a la decisión clínica acceder a la historia clínica electrónica completa del paciente y evaluar los planes de tratamiento frente a la biblioteca médica basada en evidencia de la compañía."
+        },
+        {
+          "t": "p",
+          "x": "Esta herramienta para el punto de atención, HIPAA-ready, extrae respuestas de artículos a texto completo de aproximadamente 1,000 revistas, ya está implantada en más de 1,200 hospitales y, según la empresa, se integra con todos los proveedores de EHR. La función de contexto del paciente se basa en la adquisición de Wellsheet por parte de Elsevier en junio; Wellsheet agrega y sintetiza los datos de la historia clínica."
+        },
+        {
+          "t": "p",
+          "x": "San Juan Regional Medical Center, en Farmington, New Mexico, utiliza la nueva función. “ClinicalKey AI lee toda la historia clínica, la contrasta con la evidencia y muestra exactamente de dónde proviene cada hallazgo”, dijo Carlo Hallak, M.D. Citó a un médico que la usó para identificar correctamente una meningitis viral y afirmó que, en los informes de alta, un hospital pasó de tres días a menos de tres horas."
+        },
+        {
+          "t": "p",
+          "x": "El centro médico aplica un enfoque basado en el riesgo a la gobernanza de la AI. Elsevier afirma que la herramienta muestra citas y cuenta con salvaguardas que le impiden prescribir lo que deben hacer los clínicos."
+        }
+      ]
+    },
+    "medicine/siemens-coronary-cockpit-fda": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens Healthineers ha recibido la autorización de la U.S. Food and Drug Administration (FDA) para su software Syngo.CT Coronary Cockpit."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "Angiografía médica en 3D que muestra lesiones vasculares y la colocación de un stent, con datos de medición y un gráfico de análisis de intensidad"
+        },
+        {
+          "t": "p",
+          "x": "Coronary Cockpit analiza datos de angiografía coronaria por CT (CCTA) para apoyar el manejo de la enfermedad arterial coronaria y la planificación de la intervención coronaria percutánea, según el fabricante. Funciona en la plataforma de imagen syngo.via de la compañía y utiliza segmentación, etiquetado y visualización AI-based para caracterizar la cantidad y la morfología de la placa en todo el árbol coronario o en lesiones individuales, dijo Siemens."
+        },
+        {
+          "t": "p",
+          "x": "La información sobre la composición, el tamaño y la distribución de la placa puede ayudar a los clínicos a evaluar el riesgo del paciente y decidir si conviene una intervención o el manejo médico, destacó la empresa."
+        },
+        {
+          "t": "p",
+          "x": "El software funciona con datos de CCTA de cualquier escáner de CT, aunque la integración con los sistemas de CT de doble fuente y de conteo de fotones del fabricante aporta ventajas adicionales por su resolución temporal y espacial, dijo Siemens."
+        }
+      ]
+    },
+    "medicine/eu-mdr2-ai-device-reform": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En diciembre de 2025, la European Commission (Comisión Europea) propuso modificar el MDR, el IVDR y el AI Act en un único paquete: la ‘MDR 2.0 proposal’. Este npj Digital Medicine Comment se pregunta si mejoraría el entorno regulatorio de los dispositivos médicos AI-enabled (AIeMDs) sin debilitar los requisitos de evidencia, la supervisión regulatoria ni la protección del paciente."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+          "cap": "Fig. 1: Cronología legislativa y vías de política para los AIeMDs en la EU."
+        },
+        {
+          "t": "p",
+          "x": "La propuesta buscaba reducir el solapamiento MDR–AIA trasladando el MDR y el IVDR a la Section B del AIA Annex I, pero el Digital Omnibus on AI, adoptado en julio de 2026, siguió otro camino y aplaza los requisitos de alto riesgo hasta agosto de 2028. Una rule 11 revisada clasifica el software como Class I por defecto, algo que los autores prevén que siga siendo excepcional."
+        },
+        {
+          "t": "p",
+          "x": "También amplía los datos clínicos a estudios sin revisión por pares y añade una vía de innovación, entornos regulatorios de prueba (sandboxes), normas más flexibles para dispositivos fabricados internamente y planes de control de cambios predeterminados (PCCPs). Los autores concluyen que la reforma solo mejoraría las cosas en parte: el aprendizaje abierto y la AI agéntica quedan fuera de su alcance, y es probable que se adopte en 2027 o 2028."
+        }
+      ]
+    },
+    "medicine/deepnoid-peritoneal-metastasis-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deepnoid (director ejecutivo: Choi Woo-sik) anunció que un artículo de investigación sobre una AI que identifica la metástasis peritoneal de cánceres gástrico y colorrectal a partir de imágenes de citología de líquido ascítico se publicó en la revista internacional ‘Journal of Korean Medical Science (JKMS)’."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+          "cap": "Foto cortesía de Deepnoid"
+        },
+        {
+          "t": "p",
+          "x": "El estudio lo realizaron de forma conjunta investigadores del Instituto de Investigación en AI de Deepnoid, Samsung Medical Center, Seoul National University Bundang Hospital, Severance Hospital, Soonchunhyang University Bucheon Hospital, Chung-Ang University Hospital, la Facultad de Medicina de la Universidad Católica de Corea, Asan Medical Center y el National Cancer Center."
+        },
+        {
+          "t": "p",
+          "x": "El equipo desarrolló un modelo de AI basado en CLAM que aprende y clasifica a nivel de imagen de portaobjetos completa (WSI), sin la laboriosa tarea de dividir las preparaciones en pequeños fragmentos (parches) y etiquetarlos uno a uno. Puede analizar preparaciones con tinción PAP y H&E, y visualiza las regiones en las que basa su juicio mediante un mapa de atención (attention map). Para el entrenamiento y la evaluación se usaron en total 719 preparaciones malignas y negativas de un conjunto nacional de datos de citopatología en el que participaron 214 instituciones médicas de todo el país."
+        },
+        {
+          "t": "p",
+          "x": "En una evaluación comparativa con 5 patólogos, su precisión media de lectura con ayuda de la AI subió del 76.5% al 91.5%, y la sensibilidad, del 66.2% al 92.6%. Los 5 mejoraron su precisión, y el tiempo medio de lectura por preparación bajó de unos 100 segundos a unos 50 segundos."
+        },
+        {
+          "t": "p",
+          "x": "“Ampliaremos a la patología las capacidades de AI que hemos desarrollado en la lectura de imágenes de tórax y cerebro, y reforzaremos nuestra competitividad como empresa de servicios médicos basada en AI agéntica que respalda todo el flujo de trabajo de lectura”, afirmó el director ejecutivo Choi Woo-sik."
+        }
+      ]
+    },
+    "medicine/medicine-mohw-ops-ai-reward": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417643_2538.jpg",
+          "cap": "Foto: periodista Lee Jae-won"
+        },
+        {
+          "t": "p",
+          "x": "Mientras prepara un sistema de remuneración basado en resultados para la inteligencia artificial (IA) médica, el Gobierno estudia incluir entre los servicios remunerables los de IA que el Ministerio de Seguridad de Alimentos y Medicamentos no clasifica como dispositivos médicos, como la optimización de la gestión de los centros sanitarios. Sin embargo, fijó como condición que se demuestre una mejora del beneficio para el paciente, y no una simple mejora de la eficiencia de gestión del centro."
+        },
+        {
+          "t": "p",
+          "x": "En un foro de inversión en IA médica celebrado el día 18, Park Jeong-hwan, director de la División de Políticas de Inteligencia Artificial y Datos Médicos del Ministerio de Salud y Bienestar, afirmó: “Las herramientas de eficiencia y optimización operativa no quedan excluidas del sistema de remuneración que estamos estudiando”, y añadió: “Técnicamente, intentamos incluir incluso las áreas que el Ministerio de Seguridad de Alimentos y Medicamentos considera que no son dispositivos médicos”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417644_2624.jpg",
+          "cap": "El director Park Jeong-hwan. Foto: periodista Lee Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "Park subrayó: “Solo se debe apoyar y remunerar cuando se haya demostrado que ha ayudado de forma razonable a la población”. Como el sistema de tarifas actual tarda demasiado en llegar al pago, se estudia una estructura que fije de antemano indicadores de rendimiento (KPI) por centro y por producto, compruebe primero el efecto en unos pocos hospitales y pague con rapidez. Aún no se han definido los criterios concretos de KPI, el órgano evaluador ni el método de cálculo de los pagos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417646_277.jpg",
+          "cap": "Lim Jin-sun, jefa de equipo del Departamento de Registro de Tecnologías Médicas Digitales del Servicio de Revisión y Evaluación del Seguro de Salud. Foto: periodista Lee Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "Lim Jin-sun, jefa de equipo del Departamento de Registro de Tecnologías Médicas Digitales del Servicio de Revisión y Evaluación del Seguro de Salud, afirmó que se creará un sistema que vincule la evidencia acumulada durante el periodo de registro provisional, en marcha desde diciembre de 2023, con el procedimiento de registro definitivo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417647_2740.jpg",
+          "cap": "Baek Seung-wook, presidente de Lunit. Foto: periodista Lee Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "Baek Seung-wook, presidente de Lunit, señaló: “Todavía no hay consenso sobre cuánto vale aumentar un 1% la tasa de detección del cáncer”, y destacó la necesidad de que la remuneración sea previsible. Como fuentes de financiación se plantearon el erario público, el seguro nacional de salud y los seguros privados, pero no se ha definido cómo se repartiría el coste."
+        }
+      ]
     }
   }
 }

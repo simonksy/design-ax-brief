@@ -11606,6 +11606,135 @@
           "x": "New text and visual filters are intended to block uploads and prompts that try to create representations of specific artists, public figures, copyrighted works and IP. Generated output is checked against Community Guidelines before it is shown, Audible Magic, ACRCloud and Musixmatch help block copyrighted audio, and embedded watermarks are applied before Visuals can be shared off-platform."
         }
       ]
+    },
+    "music/umg-ai-kill-switch-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "A survey published by Deezer earlier this week claimed that 41% of listeners would like to “filter out 100% AI-generated music from their music streaming platform”. However, UMG has been conducting its own research into this question, and come up with some higher numbers: 68% of listeners want a ‘kill switch’ for AI music."
+        },
+        {
+          "t": "p",
+          "x": "“The vast majority of consumers demand transparency. They want the [AI-generated] content identified. They want the content labeled. An increasing percentage are looking for what we call a kill switch,” said EVP and chief digital officer Michael Nash during UMG’s session at the Morgan Stanley European Technology, Media and Telecom Conference this week."
+        }
+      ]
+    },
+    "music/neutone-terra-drum-synth": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CyerBPkloAM"
+        },
+        {
+          "t": "p",
+          "x": "Neutone has released Terra in early access, a neural drum synth for AU and VST3 built around map-based exploration. Each map provides a continuous space to explore analogue and digital drum sounds, spanning drums, FM, Foley and FX."
+        },
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
+          "cap": "Terra interface"
+        },
+        {
+          "t": "p",
+          "x": "Terra contains no samples: every hit is synthesized in real time. Users can draw paths through maps to build rhythms, and the engine generates endless micro-variations of each sound."
+        },
+        {
+          "t": "p",
+          "x": "Features include infinite round-robins, smooth morphing between sounds, a Drift mode for generative sound design, 50+ maps to explore and fully randomized kit generation."
+        },
+        {
+          "t": "p",
+          "x": "Terra is currently in early access and free to try before it launches in full in December 2026. Early access users who complete a feedback survey can get the launch price of $49 instead of $99."
+        }
+      ]
+    },
+    "music/sonible-pure-smooth-resonance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
+          "cap": "Image: sonible"
+        },
+        {
+          "t": "p",
+          "x": "sonible has released pure:smooth, an AI-powered resonance suppression plugin."
+        },
+        {
+          "t": "p",
+          "x": "pure:smooth is a de-harsher plugin that finds and reduces unpleasant resonances and harsh frequency ranges in audio. Users can get a smoother, more balanced sound automatically, without hunting for problem frequencies by hand."
+        },
+        {
+          "t": "p",
+          "x": "After the user selects a source profile, the plugin analyzes the audio and adjusts its processing automatically. It works with a wide range of sources, including vocals, guitars, drums, synths, and strings."
+        },
+        {
+          "t": "video",
+          "yt": "yjnmUv3_2aM"
+        },
+        {
+          "t": "p",
+          "x": "Its controls are Smoothing, Resolution, Shaping, Frequency Range, and Feedback. Smoothing sets the amount of resonance reduction, while Resolution switches between broad tonal smoothing and precise resonance reduction. Shaping lets users keep the original tonal balance or apply a more pronounced spectral adjustment."
+        },
+        {
+          "t": "p",
+          "x": "Frequency Range limits processing to a specific band. Feedback shows the applied reduction in real time. With Difference Monitoring, users can also listen to exactly what is being removed."
+        },
+        {
+          "t": "p",
+          "x": "The regular price is €39, and an introductory price of €25 is available until December 14. The plugin supports VST3, AU, and AAX formats on macOS and Windows."
+        }
+      ]
+    },
+    "music/eu-ministers-ai-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Culture ministers from across the European Union are meeting in Brussels, and ahead of that meeting the governments of Germany and Austria presented a bold proposal to force TikTok Europe into European ownership. A TikTok spokesperson told Politico the proposal has “zero merit”."
+        },
+        {
+          "t": "p",
+          "x": "Eleven EU states are backing a separate call for the European Commission to draft legal reforms to boost copyright protections in Europe in the context of AI. A document endorsed by their culture ministers says AI “has led to profound upheavals in human creative processes and the perception and experience of art and culture”, adding: “we call on the European Commission to present a legislative proposal as soon as possible”."
+        },
+        {
+          "t": "p",
+          "x": "Much of this comes down to the copyright and transparency obligations of AI companies when they copy existing content to train AI models. Many AI companies claim the text and data mining copyright exception in EU law covers AI training. Euronews notes division within many EU governments, with business departments often siding with AI companies and culture departments with creators and rightsholders."
+        }
+      ]
+    },
+    "music/google-flow-music-residency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/2f094abb31ddfdc98f68027dbd129ceb064288f0-512x406.png?w=512&q=75&auto=format&h=406",
+          "cap": "A vibe-coded tool made with Google’s Spaces. Courtesy of Google"
+        },
+        {
+          "t": "p",
+          "x": "Google is trying to prove that AI won’t replace artists. It has rolled out a suite of generative AI music features over the past year, including Flow Music — a tool it acquired in February when it bought the startup ProducerAI — which allows users to create songs from a single prompt. But the company’s pitch to artists is that its technology can also act like a tool in their creative process, not unlike Auto-Tune or MIDI."
+        },
+        {
+          "t": "p",
+          "x": "Google launched Flow Music Sessions earlier this year, an artist residency program. Residents work in Spaces, a Flow Music feature carried over from ProducerAI that allows artists to vibe code their own tools and plugins."
+        },
+        {
+          "t": "p",
+          "x": "“I’m not particularly interested in prompting an entire song to be created because the most fun part for me is writing lyrics and singing and collaborating,” Avanti Singh, a sound designer and resident, told Semafor. Producer Mike Costanzo built a “perfect kick” plugin in Spaces that he says cuts down the time it takes to find an apt kick drum for a song."
+        },
+        {
+          "t": "p",
+          "x": "A group of independent musicians and songwriters filed a lawsuit against Google in March, alleging it trained its music model Lyria 3 on copyrighted recordings from YouTube without permission or compensation. Google has moved to dismiss the lawsuit, arguing that music uploaded to YouTube is already broadly licensed for AI training in accepting the platform’s terms of service."
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-20",
+  "section": "science",
+  "picks": [
+    {
+      "title": "Brain researchers afflict LLMs with 'injuries' similar to those of stroke victims to unpack AI language mechanisms",
+      "url": "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html",
+      "source": "Tech Xplore",
+      "category": "cognition",
+      "tool": "Science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Fresh peer-reviewed result (Patterns): lesioned LLMs reproduce human aphasia error patterns, so clinical neuroscience tests become a probe for AI language mechanisms.",
+      "published_iso": "2026-11-19T11:00:13-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
+      "excerpt": "University of South Carolina aphasia researchers (Julius Fridriksson) lesioned layers of large language models and gave them the same tests used on post-stroke patients (Patterns). The damaged models produced error patterns resembling human aphasia, offering a clinical-neuroscience framework for probing LLMs."
+    },
+    {
+      "title": "Ancient Maya site uncovered with 'vibe archaeology' ignites firestorm over AI in science",
+      "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
+      "source": "Scientific American",
+      "category": "humanities",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "Corrects a viral claim (AI agents did not find the Maya site) and reports the live dispute over how AI use should be credited in research; a new humanities angle not covered before.",
+      "published_iso": "2026-11-19T06:00:00-05:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
+      "excerpt": "Contrary to viral claims, AI agents did not discover an ancient Maya site, but the episode sparked a clash among archaeologists over how AI tools should be used and credited in science."
+    },
+    {
+      "title": "When AI misidentifies wildlife: New study maps where species identification fails",
+      "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
+      "source": "Phys.org",
+      "category": "life_science",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Hard numbers on a frontier model's limits for field biology: GPT-5.2 got 9.5% species-level accuracy on 10,000 iNaturalist photos, a concrete caution for anyone using LLMs to identify species.",
+      "published_iso": "2026-11-18T10:50:01-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
+      "excerpt": "A Biodiversity Data Journal study tested OpenAI's GPT-5.2 on 10,000 iNaturalist photos of Colombian vertebrates and found only 9.5% species-level accuracy, under 5% for amphibians, birds and fishes, even when told the location."
+    },
+    {
+      "title": "Theorizer comes to Asta",
+      "url": "https://allenai.org/blog/theorizer-in-asta",
+      "source": "Ai2",
+      "category": "research_automation",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Primary-source tool release usable now: Ai2's Asta agent gains Theorizer, which pulls findings from papers and synthesizes candidate theories with every claim linked to its supporting studies.",
+      "published_iso": "2026-11-19T00:00:00-08:00",
+      "og_image": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png",
+      "excerpt": "Ai2 added Theorizer to its Asta science agent: it extracts findings from papers into templates and synthesizes candidate theories, each claim linked to supporting studies. No benchmark numbers reported."
+    },
+    {
+      "title": "An AI-powered 'supertelescope' could revolutionize astronomy—provided someone builds it",
+      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
+      "source": "Scientific American",
+      "category": "astronomy",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Adds astronomy to the mix: a proposal to fuse Rubin, Euclid and Roman pixels with AI into a sharper virtual fourth observatory for dark-matter and dark-energy work.",
+      "published_iso": "2026-11-19T09:00:00-05:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
+      "excerpt": "Astronomers led by Gioia Rau propose using AI to fuse overlapping pixels from Rubin, Euclid and Roman into a virtual fourth observatory with sharper images for dark-matter and dark-energy studies, petabytes at a time."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html": {
+        "verdict": "new",
+        "nearest": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+        "new_action": ""
+      },
+      "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/": {
+        "verdict": "new",
+        "nearest": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/",
+        "new_action": ""
+      },
+      "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html": {
+        "verdict": "new",
+        "nearest": "https://phys.org/news/2026-10-ai-bee-lethal.html",
+        "new_action": ""
+      },
+      "https://allenai.org/blog/theorizer-in-asta": {
+        "verdict": "new",
+        "nearest": "https://allenai.org/blog/litpivot",
+        "new_action": ""
+      },
+      "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/": {
+        "verdict": "new",
+        "nearest": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped per curator_brief safety directive: RFD4-Proteina (IPD) and its R&D World enzyme write-up (one story, also related to the 10-24 GEN RFD4 card), AutoDNA 'AI Agents Ran a Biology Lab' (SingularityHub; also the same story as the 11-07 Nature card), and AI-designed CRISPR rice (SingularityHub; likely-repeat of the 10-29 phys.org rice card). Left out on merit: BMO quantum feature-selection (bank PR, QML-on-hardware subtopic is deprioritized), APS 'Art of Asking Questions' (essay, nothing new), Medical Xpress neuroscience roundup (conference digest, no image), NVIDIA Nemotron for Science (vendor release, off-list, 11-16, AI-industry leaning), interview-theme study (weaker), and beluga SEMI-DETR / vitamin C sensor / magnetic-loss topology (strong but would add a 2nd life_science pick or extra phys.org/techxplore cards; beluga is the first backfill). No pick carries a history_match; all five checked by content against the 30-day history_digest. Outlets: Tech Xplore 1, Scientific American 2, Phys.org 1, Ai2 1. Cross-section check: published_urls.json is 4,689 lines and the curator has only Read (no grep), so it could not be exact-grepped in full. The orchestrator should run an exact grep of these 5 URLs across all sections before roll."
+  }
+}

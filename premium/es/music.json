@@ -10993,6 +10993,135 @@
           "x": "Nuevos filtros de texto y visuales buscan bloquear cargas y prompts que intenten crear representaciones de artistas concretos, figuras públicas, obras protegidas por derechos de autor e IP. El contenido generado se revisa según las Community Guidelines antes de mostrarse, Audible Magic, ACRCloud y Musixmatch ayudan a bloquear audio protegido por derechos de autor, y se aplican marcas de agua incrustadas antes de que Visuals pueda compartirse fuera de la plataforma."
         }
       ]
+    },
+    "music/umg-ai-kill-switch-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Una encuesta publicada por Deezer a principios de esta semana afirmaba que el 41% de los oyentes querría “filtrar la música 100% AI-generated de su plataforma de streaming musical”. Sin embargo, UMG ha realizado su propia investigación sobre esta cuestión y ha obtenido cifras más altas: el 68% de los oyentes quiere un ‘interruptor de apagado’ para la música AI."
+        },
+        {
+          "t": "p",
+          "x": "“La gran mayoría de los consumidores exige transparencia. Quieren que el contenido [AI-generated] esté identificado. Quieren que el contenido esté etiquetado. Un porcentaje creciente busca lo que llamamos un interruptor de apagado”, dijo el EVP y director digital Michael Nash durante la sesión de UMG en la Morgan Stanley European Technology, Media and Telecom Conference esta semana."
+        }
+      ]
+    },
+    "music/neutone-terra-drum-synth": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CyerBPkloAM"
+        },
+        {
+          "t": "p",
+          "x": "Neutone ha lanzado en acceso anticipado Terra, un sintetizador neuronal de batería para AU y VST3 basado en la exploración de mapas (map-based). Cada mapa ofrece un espacio continuo para explorar sonidos de batería analógicos y digitales, que abarcan baterías, FM, Foley y FX."
+        },
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
+          "cap": "Interfaz de Terra"
+        },
+        {
+          "t": "p",
+          "x": "Terra no contiene samples: cada golpe se sintetiza en tiempo real. Los usuarios pueden trazar recorridos por los mapas para construir ritmos, y el motor genera infinitas microvariaciones de cada sonido."
+        },
+        {
+          "t": "p",
+          "x": "Entre sus funciones figuran round-robins infinitos, transiciones suaves entre sonidos, un modo Drift para el diseño de sonido generativo, más de 50 mapas para explorar y la generación de kits totalmente aleatoria."
+        },
+        {
+          "t": "p",
+          "x": "Terra está actualmente en acceso anticipado y se puede probar gratis antes de su lanzamiento completo en diciembre de 2026. Los usuarios del acceso anticipado que completen una encuesta de opinión pueden obtener el precio de lanzamiento de $49 en lugar de $99."
+        }
+      ]
+    },
+    "music/sonible-pure-smooth-resonance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
+          "cap": "Imagen: sonible"
+        },
+        {
+          "t": "p",
+          "x": "sonible ha lanzado pure:smooth, un plugin de supresión de resonancias AI-powered, basado en AI."
+        },
+        {
+          "t": "p",
+          "x": "pure:smooth es un plugin de-harsher que detecta y reduce resonancias desagradables y rangos de frecuencia ásperos en el audio. Los usuarios pueden obtener de forma automática un sonido más suave y equilibrado, sin buscar a mano las frecuencias problemáticas."
+        },
+        {
+          "t": "p",
+          "x": "Tras seleccionar el usuario un perfil de fuente, el plugin analiza el audio y ajusta su procesamiento automáticamente. Funciona con una amplia variedad de fuentes, como voces, guitarras, baterías, sintetizadores y cuerdas."
+        },
+        {
+          "t": "video",
+          "yt": "yjnmUv3_2aM"
+        },
+        {
+          "t": "p",
+          "x": "Sus controles son Smoothing, Resolution, Shaping, Frequency Range y Feedback. Smoothing fija la cantidad de reducción de resonancias, mientras que Resolution alterna entre un suavizado tonal amplio y una reducción precisa de resonancias. Shaping permite conservar el equilibrio tonal original o aplicar un ajuste espectral más marcado."
+        },
+        {
+          "t": "p",
+          "x": "Frequency Range limita el procesamiento a una banda concreta. Feedback muestra en tiempo real la reducción aplicada. Con Difference Monitoring, los usuarios también pueden escuchar exactamente lo que se está eliminando."
+        },
+        {
+          "t": "p",
+          "x": "El precio habitual es de €39, y hay un precio de lanzamiento de €25 disponible hasta el 14 de diciembre. El plugin admite los formatos VST3, AU y AAX en macOS y Windows."
+        }
+      ]
+    },
+    "music/eu-ministers-ai-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Los ministros de Cultura de toda la Unión Europea se reúnen en Bruselas y, antes de esa reunión, los gobiernos de Alemania y Austria presentaron una propuesta audaz para obligar a que TikTok Europe pase a manos europeas. Un portavoz de TikTok dijo a Politico que la propuesta tiene “cero mérito”."
+        },
+        {
+          "t": "p",
+          "x": "Once estados de la EU respaldan otra petición para que la European Commission elabore reformas legales que refuercen la protección de los derechos de autor en Europa en el contexto de la AI. Un documento avalado por sus ministros de Cultura afirma que la AI “ha provocado profundas convulsiones en los procesos creativos humanos y en la percepción y la experiencia del arte y la cultura”, y añade: “pedimos a la European Commission que presente una propuesta legislativa lo antes posible”."
+        },
+        {
+          "t": "p",
+          "x": "Gran parte de la cuestión se reduce a las obligaciones de derechos de autor y transparencia de las empresas de AI cuando copian contenido existente para entrenar modelos de AI. Muchas empresas de AI sostienen que la excepción de derechos de autor para minería de textos y datos de la legislación de la EU cubre el entrenamiento de AI. Euronews señala la división dentro de muchos gobiernos de la EU: los departamentos económicos suelen ponerse del lado de las empresas de AI y los de cultura, del lado de los creadores y titulares de derechos."
+        }
+      ]
+    },
+    "music/google-flow-music-residency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/2f094abb31ddfdc98f68027dbd129ceb064288f0-512x406.png?w=512&q=75&auto=format&h=406",
+          "cap": "Herramienta vibe-coded creada con Spaces de Google. Cortesía de Google"
+        },
+        {
+          "t": "p",
+          "x": "Google intenta demostrar que la AI no reemplazará a los artistas. Durante el último año ha lanzado un conjunto de funciones de música con AI generativa, entre ellas Flow Music —una herramienta que adquirió en febrero al comprar la startup ProducerAI—, que permite crear canciones a partir de un solo prompt. Pero el mensaje de la compañía a los artistas es que su tecnología también puede funcionar como una herramienta dentro de su proceso creativo, no muy distinta de Auto-Tune o MIDI."
+        },
+        {
+          "t": "p",
+          "x": "Google lanzó a principios de este año Flow Music Sessions, un programa de residencias para artistas. Los residentes trabajan en Spaces, una función de Flow Music heredada de ProducerAI que permite a los artistas crear sus propias herramientas y plugins mediante vibe coding."
+        },
+        {
+          "t": "p",
+          "x": "«No me interesa especialmente generar una canción entera con un prompt, porque lo que más disfruto es escribir letras, cantar y colaborar», dijo a Semafor Avanti Singh, residente y especialista en diseño de sonido. El productor Mike Costanzo creó en Spaces un plugin «perfect kick» que, según dice, reduce el tiempo necesario para encontrar el bombo adecuado para una canción."
+        },
+        {
+          "t": "p",
+          "x": "Un grupo de músicos y compositores independientes demandó a Google en marzo, alegando que entrenó su modelo musical Lyria 3 con grabaciones protegidas por derechos de autor de YouTube sin permiso ni compensación. Google ha pedido que se desestime la demanda, argumentando que la música subida a YouTube ya cuenta con una licencia amplia para entrenamiento de AI al aceptar los términos de servicio de la plataforma."
+        }
+      ]
     }
   }
 }

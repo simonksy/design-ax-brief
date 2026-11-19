@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-20",
+  "section": "games",
+  "items": [
+    {
+      "title": "Getting Started with Unreal MCP | Turn AI into Action in UE 5.8",
+      "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
+      "source": "Unreal Engine (YouTube)",
+      "published_iso": "2026-11-19T11:00:39-08:00",
+      "og_image": "https://i.ytimg.com/vi/OjffwpbcQsQ/maxresdefault.jpg",
+      "excerpt": "Epic publishes an official Unreal MCP course (one of a dozen videos dropped 11-19): the Epic-supported, experimental UE 5.8 bridge that lets agentic AI tools (Claude Code, Cursor) understand a project and create, modify and test in the editor, plus an in-editor Terminal plugin. Course/how-to format.",
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Most actionable item in the pool: Epic's official walkthrough for wiring Claude Code/Cursor into the UE editor through MCP."
+    },
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind",
+      "published_iso": "2026-11-18T18:13:42+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+      "excerpt": "Google rolls out the Genie 4 world model in Project Genie to AI Ultra subscribers: edit interactive worlds in real time with natural language (weather, characters, native adaptive audio), a creative agent for building environments, and a community gallery for sharing/remixing; AI Pro waitlist. Access change after the Oct 28 Genie 4 announcement (Gemini API availability followed 11-19).",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "Primary-source release: the Genie 4 world model moves from announcement to hands-on availability with real-time world editing and a creative agent (assigned to games only by the run brief)."
+    },
+    {
+      "title": "Ubisoft Creates Generative AI Game Studio Called 'Motherbrain' as Part of New Operating Model",
+      "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+      "source": "IGN",
+      "published_iso": "2026-11-19T21:34:57Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Ubisoft's Nov 19 earnings report reveals Motherbrain, a new subsidiary for 'AI for gameplay innovation' (smart NPCs with memory, AI game masters for systemic worlds); it is the team behind the voice-commanded AI-companion shooter Teammates. Follow-up to the Sept Motherbrain team reveal: now a standalone studio.",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "A major publisher spins out a dedicated generative-AI gameplay studio (NPC memory, AI game masters); IGN chosen over Kotaku's layoffs angle per brief."
+    },
+    {
+      "title": "슈퍼센트 \"AI가 바꾼 건 사업 기회의 총량\"… 에이전트 200개로 퍼블리싱 재편",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323607",
+      "source": "인벤",
+      "published_iso": "2026-11-19T16:18:51+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
+      "excerpt": "At Google Play's Playtime Korea 2026, mobile publisher Supercent said it rebuilt publishing around ~200 AI agents; its business lead said AI changed how many business bets the company can try, not just how fast it works. A studio deployment with specifics.",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Concrete studio deployment (about 200 agents across mobile publishing) from a Korean outlet; it adds a regional, operations-level angle."
+    },
+    {
+      "title": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
+      "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-11-19T15:30:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Epic's AI-encouraged MegaJam popularity chart is topped by LSD: FIH, a game made without generative AI. Note: popularity ranking, check whether official winners are announced (brief: MegaJam official winners qualify once).",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "The outcome of Epic's AI MegaJam (announced 10-23): a human-made game tops the popularity chart of a contest built to promote AI. RPS chosen over the Kotaku and AUTOMATON versions."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.youtube.com/watch?v=OjffwpbcQsQ": {
+        "verdict": "new",
+        "nearest": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+        "new_action": ""
+      },
+      "https://deepmind.google/blog/genie-4-is-now-available/": {
+        "verdict": "follow-up",
+        "nearest": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "new_action": "Release: Genie 4 rolls out in Project Genie to AI Ultra subscribers, adding real-time natural-language world editing, a creative agent and a community gallery (10-28 card was the model announcement only)"
+      },
+      "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain": {
+        "verdict": "new",
+        "nearest": "https://www.databricks.com/customers/ubisoft/unity-gateway",
+        "new_action": ""
+      },
+      "https://www.inven.co.kr/webzine/news/?news=323607": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam": {
+        "verdict": "follow-up",
+        "nearest": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+        "new_action": "Announcement: MegaJam submissions closed and the popularity ranking was published, topped by the genAI-free LSD: FIH (10-23 card covered only the contest launch; no MegaJam card ran 11-18/11-19)"
+      }
+    },
+    "note": "Dropped as duplicates: Kotaku Ubisoft layoffs/Motherbrain (same story as the IGN pick), Kotaku + AUTOMATON MegaJam (same story as the RPS pick), Wccftech Pearl Abyss AI design validation (likely repeat of the 11-14 Eurogamer Pearl Abyss AI-pipeline card, no new tool shipped), Kotaku student game-dev competition shutdown (same story as the 11-11 PC Gamer card), AUTOMATON Claude refusing Pokemon work (running story from the 11-02 'Anthropic tells Claude to stop remaking video games' card). Excluded by brief: 인벤 뤼튼 Crack IP (books only). Lower-ranked, not picked: MetaHuman markerless mocap deep dive (second UE YouTube item), 4Gamer genAI FMV game, Wccftech Claude Code sports league (vibe-coding cap), GameRiv GTA 6 DLSS 5 (deprioritized neural-rendering demo). published_urls.json (513KB) was too large to read whole; the cross-section check relied on the brief's assignments plus the 30-day games history_digest."
+  }
+}

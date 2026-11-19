@@ -12148,6 +12148,145 @@
           "x": "若年層と高齢層のいずれも AI-generated の顔を実在の写真より本物らしいと評価し、ディープフェイクを見ている間は前島の活動が低下した。AI の顔は多くの顔の平均として生成されるため「処理しやすく、好ましく感じられる」ことから本物らしく見えるのだろうと Ebner は述べた。この偏りを自覚することこそが本当の強みになりうる、とりわけ詐欺の標的となる高齢者にとってはそうだ、と彼女は語った。"
         }
       ]
+    },
+    "science/maya-vibe-archaeology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
+          "cap": "以前から記録されていた古代マヤ遺跡。Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
+        },
+        {
+          "t": "p",
+          "x": "11月10日、AI研究者のPietro Miottiは、メキシコで未記録の古代マヤの市民センターとみられるものをXで公開した。数十のAIエージェントに公開されたNASAのライダーデータを精査させて見つけたという。投稿はPolymarketなどのアカウントに拡散され、「vibe archaeology（バイブ考古学）」として話題になった。"
+        },
+        {
+          "t": "p",
+          "x": "だが、この遺跡は新発見ではなかった。一日もたたないうちに、University of Alabama at BirminghamのSarah Parcakが、2025年にTulaneのFrancisco Estrada-Belliらがすでに記録していたと指摘した。「だからこそ査読がある」とParcakは言う。「すべてがオンラインにあるわけではない」"
+        },
+        {
+          "t": "p",
+          "x": "「人々がAIを使って市民科学者になり、試してみたいと思うのは素晴らしいことだと思う」とEstrada-Belliは言う。「だが、ああした主張を公にする前に、背景の確認や十分な検証をせず、結果を鵜呑みにすべきではないと思う」"
+        },
+        {
+          "t": "p",
+          "x": "Miottiは投稿を訂正し、調査の功績を明記した。「今では仮説を持つ一人の人間が、一晩でAIエージェントを走らせ、専門家が評価する候補構造を選別できる」と述べ、今回の件は「文献調査、現地での検証、その他のより具体的な専門知識」という人間の貢献を示したと付け加えた。"
+        }
+      ]
+    },
+    "science/gpt52-wildlife-species-id": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
+          "cap": "Morrocoy保護区のカメラトラップ画像：AIはBassariscus sumichrastiと提示し、専門家はMetachirus myosurosと同定した。提供：Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "汎用AIモデルは、コロンビアのMontes de Maríaでカメラトラップに写った有袋類を、目撃場所を伝えられていたにもかかわらず、コロンビアでは知られていない種Bassariscus sumichrastiと同定した。専門家による確認で、Metachirus myosurosと確定した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
+          "cap": "アルマジロCabassous centralis。提供：Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "Gustavo Nicolas Paez SalamancaがBiodiversity Data Journalに発表した研究は、OpenAIのGPT-5.2を、コロンビアの両生類、鳥類、魚類、哺乳類、爬虫類の研究グレードのiNaturalist写真10,000枚（各グループ2,000枚）で検証した。種レベルの正答率は9.5%で、哺乳類と爬虫類は約17–19%、両生類、鳥類、魚類は5%未満だった。"
+        },
+        {
+          "t": "p",
+          "x": "公開写真が少ない種や、2025年に認められたヤマアラシCoendou vossiのように最近記載された種は、より難しかった。「希少な動物がよりなじみのある動物と混同されると、その存在が見過ごされるおそれがある」とPaez Salamancaは言う。研究は、AIを最初のステップとし、不確かな記録や重要度の高い記録は専門家に回すことを提案している。"
+        }
+      ]
+    },
+    "science/ai2-asta-theorizer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2は、科学研究向けAIエージェントのプラットフォームAstaでTheorizerを公開し、コードもオープンソース化する。Theorizerは文献を検索し、各論文から何を抽出するかのテンプレートを作成したうえで知見を比較して理論を生成し、各主張を根拠となる論文に結び付ける。"
+        },
+        {
+          "t": "p",
+          "x": "Providence Swedish Cancer InstituteのDr. Sid Devarakondaは、「driver-negative（ドライバー陰性）」の肺腺がんにこれを用いた。最初の理論を検討したときのことを、彼はこう振り返る。「ちょっと待て、これはまさに自分の考えだ。こう考えられるようになるまで15年かかったのに」"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
+          "cap": "既知の遺伝的ドライバーを持たない肺腺がんの増殖を説明する三つの可能性。"
+        },
+        {
+          "t": "p",
+          "x": "Allen InstituteのJérôme Lecoqに対し、Theorizerは本人が予想していた一つか二つではなく、VIP介在ニューロンに関する50の候補理論を返した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
+          "cap": "ペルーで最大露点が35°Cを超えたセル。図：Piero Palacios, CIP."
+        },
+        {
+          "t": "p",
+          "x": "International Potato Centerでは、誤っているが検証可能な説明が、あり得ない露点の本当の原因へと研究者を導いた。Ai2は、Theorizerが関連研究を見落としたり、新規性を見誤ったりする可能性があると注意を促している。"
+        }
+      ]
+    },
+    "science/ai-supertelescope-rubin-euclid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
+          "cap": "ESA/Euclid/Euclid Consortium/NASA"
+        },
+        {
+          "t": "p",
+          "x": "天文学者たちは、Vera C. Rubin Observatory、Euclid宇宙望遠鏡、Nancy Grace Roman Space Telescopeを一つのAI-powered（AI駆動）スーパー望遠鏡にまとめたいと考えている。「まとめて処理すれば、四つ目の望遠鏡になる。そして誰もそのスイッチを入れていない」とRenaissance PhilanthropyのGioia Rauは言う。"
+        },
+        {
+          "t": "p",
+          "x": "8月、Rauと24人を超える共著者は、行動を呼びかけるプレプリントを公開した。公的投資がすでに60億ドルを超えるなか、論文は機会を逃す前に各機関がサーベイ同士をつなぎ合わせる取り組みに資金を出すべきだと主張する。"
+        },
+        {
+          "t": "p",
+          "x": "目標は「画素を組み合わせて極めて高解像度の画像を得ること」だと、Rubinの主任科学者Tony Tysonは言う。これは暗黒エネルギー、暗黒物質、超新星、小惑星の研究に役立つ。「ボランティアが1億人いても、Rubin Observatoryが取得するものすべてに注釈を付けるには120,000年かかる」とLior Shamirは言う。「AIならほぼ一瞬だ」"
+        },
+        {
+          "t": "p",
+          "x": "「やらなければならない」とYaleのMeg Urryは言う。Romanは2027年初めに観測を始める見込みだ。"
+        }
+      ]
+    },
+    "science/osmo-ai-nose-smell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg",
+          "cap": "Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Newark Airport近くの研究所で、熟練した嗅ぎ手およそ30人が「nutty」「peachy」「marine」といったノートを記録し、それを化学分析と照合して、AIスタートアップOsmoが世界初の嗅覚の基盤モデルと呼ぶものを学習させる。創業者のAlex Wiltschkoは、目標は「コンピューターに嗅覚を与えること」だと語る。"
+        },
+        {
+          "t": "p",
+          "x": "Wiltschkoは、Osmoのモデルが「human-level olfactory intelligence」、すなわち人間並みの嗅覚知能に達したと主張する。においを感知し識別する力は平均的な人と同程度、新たな香りを作る力は新人の調香デザイナーと同程度だという。同社によれば、先月は世界最大級の消費財企業の社内調香師を上回った。"
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
+        },
+        {
+          "t": "p",
+          "x": "Osmoは人が付けたラベル10 million 件超と「scent tokens」800 million 件のデータセットを築き、スクールバスほどの大きさの香り印刷ロボットはChatGPT-style のプロンプトから香りを設計する。この技術はProcter & Gambleなど小売向けの香料に使われてきた。"
+        },
+        {
+          "t": "p",
+          "x": "批判もある。嗅覚の科学者Avery Gilbertは、一部のマーケティング上の主張に裏づけがないと指摘する。Osmoの元コンサルタントMichael Schmukerは、技術としては達成だと認めつつ、文脈が大事だと言う。Camembertは使用済みのおむつと同じ分子を持つ。医療診断のような「最大の賞」といえる目標に届くには、センサーの改良が要る。"
+        }
+      ]
     }
   }
 }

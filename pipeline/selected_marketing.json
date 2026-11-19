@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-20",
+  "section": "marketing",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
+      "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+      "source": "Marketing Dive",
+      "category": "marketing",
+      "tool": "Marketing",
+      "accent": "#ff8a3d",
+      "motif": "frame",
+      "published_iso": "2026-11-19T13:23:00-05:00",
+      "og_image": "https://imgproxy.divecdn.com/RaWg51QtLbv9xZJ2woPDvYGaPr7ap_CMJW2w96HCzSo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
+      "excerpt": "After backlash to its generative-AI holiday spots, Coca-Cola's 'Enjoy Joy' campaign returns to live-action footage of family and friends.",
+      "rationale": "The brand that made AI holiday ads famous is walking them back; a clear signal for anyone deciding how much generative AI to put in ad creative."
+    },
+    {
+      "rank": 2,
+      "title": "AI '가짜 의사' 광고 차단…소비자원, 네이버·카카오·틱톡과 맞손",
+      "url": "https://www.news1.kr/economy/trend/6359058",
+      "source": "뉴스1",
+      "category": "marketing",
+      "tool": "Marketing",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-11-19T09:51:41+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
+      "excerpt": "한국소비자원이 네이버·카카오·틱톡과 협력해 AI로 만든 가짜 의사·유명인 부당광고를 모니터링·차단하고 반복 게재 시 플랫폼별 제한 조치를 한다.",
+      "rationale": "A new regulator-platform enforcement pact on AI-generated fake-doctor/celebrity ads with concrete restrictions for repeat offenders; it directly affects what advertisers can run on Korea's major platforms."
+    },
+    {
+      "rank": 3,
+      "title": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads",
+      "url": "https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "tool": "Marketing",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "published_iso": "2026-11-19T10:15:53+01:00",
+      "og_image": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg",
+      "excerpt": "InMobi Accelerate uses seven AI agents to launch and manage small advertisers' campaigns across Google, Meta and ChatGPT, reporting a 'True ROAS' figure.",
+      "rationale": "New product launch: a multi-agent buying stack that spans Google, Meta and ChatGPT ads for SMBs, one of the first to treat ChatGPT as a managed channel."
+    },
+    {
+      "rank": 4,
+      "title": "HubSpot won't charge extra when Claude or ChatGPT works its CRM",
+      "url": "https://ppc.land/hubspot-wont-charge-extra-when-claude-or-chatgpt-works-its-crm/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "tool": "Marketing",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "published_iso": "2026-11-19T10:12:37+01:00",
+      "og_image": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg",
+      "excerpt": "HubSpot says everyday CRM use from Claude or ChatGPT is covered by seats and outside agents draw on API plan limits, with credits reserved for heavy governed-agent work.",
+      "rationale": "Concrete pricing policy for outside AI agents working a sales CRM; tells sales and marketing teams what agentic CRM use will actually cost."
+    },
+    {
+      "rank": 5,
+      "title": "Target's AI shopping assistant is driving sales",
+      "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
+      "source": "Retail Dive",
+      "category": "marketing",
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "published_iso": "2026-11-19T09:16:00-05:00",
+      "og_image": "https://imgproxy.divecdn.com/q5V9BQKlDUQVgSXd6EC8LSvSMo8eUsxzvKLUHkKt5-I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
+      "excerpt": "Target's beta AI assistant, Ask Target, is showing early sales success, CEO Michael Fiddelke said on the Q3 call.",
+      "rationale": "A major retailer reporting on its earnings call that its in-house AI shopping assistant is lifting sales, which is evidence the conversational selling surface converts."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/": {
+        "verdict": "new",
+        "nearest": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
+        "new_action": ""
+      },
+      "https://www.news1.kr/economy/trend/6359058": {
+        "verdict": "new",
+        "nearest": "https://www.news1.kr/industry/general-industry/6348088",
+        "new_action": ""
+      },
+      "https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/": {
+        "verdict": "new",
+        "nearest": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+        "new_action": ""
+      },
+      "https://ppc.land/hubspot-wont-charge-extra-when-claude-or-chatgpt-works-its-crm/": {
+        "verdict": "new",
+        "nearest": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
+        "new_action": ""
+      },
+      "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/": {
+        "verdict": "new",
+        "nearest": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped as duplicates: Microsoft Ads in AI Overviews on Bing (SER, likely-repeat of the 11-02 SER card 'Microsoft Bing Showing Ads Within Copilot AI Overviews'; the blog confirmation of the same placement isn't a new release); Snapchat Lens creation via third-party AI tools (cross-section, the same story as design's 11-19 Snap AR Lenses card, per the curator brief). Not picked on scope or strength (not duplicates): SEJ AI Max audit guide (evergreen how-to); AdExchanger ChatGPT-ads measurement op-ed and Digiday agentic-commerce chart (commentary or analysis); Walmart agentic-ads earnings commentary (exec remarks, Walmart agents/Sparky covered 10-22 and 11-06); Visa Agentic Ready (payments infra, Visa agent benchmark ran 11-08); Meta Muse Loblaw (incremental partner, Muse covered 10-22 and 10-27); etnews fintech 르포; madtimes surveys; Mall of America concierge; CJ올리브영 conference; NHN커머스 고도몰 and Amazon/Verve data (strong, held back for outlet and topic spread; PPC Land is already at 2). Cross-section published_urls.json grep for picked URLs was not run (Read-only tools); the orchestrator should exact-grep the 5 URLs before roll."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-20",
+  "section": "movies",
+  "cards": [
+    {
+      "id": "estsoft-kfast-ai-dubbing",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "이스트소프트 AI 더빙\nK-콘텐츠 중남미로",
+      "body": "이스트소프트가 K-콘텐츠 300시간을 AI로 더빙해 중남미 FAST 채널을 열었다.",
+      "mini_headline": "이스트소프트 AI 더빙",
+      "tool": "Movies",
+      "source": "AI타임스",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42794",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "img", "src": "https://cdn.aitimes.kr/news/thumbnail/202611/42794_64292_5342_v150.jpg"},
+          {"t": "p", "x": "이스트소프트가 정부의 K-FAST AI 더빙 지원 사업을 통해 2년간 국내 방송 콘텐츠 300시간을 AI 더빙으로 현지화했다."},
+          {"t": "p", "x": "회사는 이 콘텐츠로 FAST 채널 두 곳을 개설해 중남미 5개국 시청자에게 서비스하고 있다."}
+        ]
+      }
+    }
+  ]
+}

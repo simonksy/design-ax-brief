@@ -6879,6 +6879,122 @@
           "x": "Sunderland said the DPC is also engaging with another, unnamed tech firm about its plans to use agent-collected data for training, and will have “further engagement” with X about “what exactly happened, and what that means for next steps.”"
         }
       ]
+    },
+    "politics/commerce-china-ai-chip-licenses-879k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure."
+        },
+        {
+          "t": "p",
+          "x": "House Foreign Affairs Committee Chair Brian Mast (R-FL) released new info about the Commerce Department’s export approvals while preparing to grill Nvidia’s ex-CEO Jensen Huang. Ranking Member Gregory Meeks (D-NY) said that amid license review delays, “the agency seemed to approve licenses for advanced chips to China with little scrutiny.”"
+        },
+        {
+          "t": "p",
+          "x": "Link: Chairman Brian Mast Exercises Legislative Authority to Publicly Release AI Chip License Information for China [Republican Foreign Affairs Committee]"
+        }
+      ]
+    },
+    "politics/california-sb53-killswitch-next-steps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gov.ca.gov/wp-content/uploads/2026/11/Governor-Newsoms-nation-leading-AI-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight-SEO-GFX-v2.png"
+        },
+        {
+          "t": "p",
+          "x": "Governor Gavin Newsom is moving to strengthen California’s nation-leading AI safety framework with new recommendations for mandatory safety standards, independent oversight of powerful AI models, emergency shutdown authority for dangerous systems, and limits on AI that can develop more powerful versions of itself."
+        },
+        {
+          "t": "p",
+          "x": "The recommendations propose that the state, not companies themselves, set baseline standards all AI companies must follow, with independent safety testing and verification through all stages of model training, development, and deployment; expanded safety incident reporting and verified risk-containment protocols, giving the state authority to order an immediate shutdown in an emergency; and power to cap the development and use of recursive self-improvement (RSI)."
+        },
+        {
+          "t": "p",
+          "x": "The announcement comes after dozens of recent incidents where AI models escaped testing environments and exploited vulnerabilities on outside platforms. The report was developed by the Government Operations Agency with experts Jason Goldman, Gillian Hadfield, Alondra Nelson and Rob Reich. “Today there is more oversight of the cafeteria offering sandwiches to employees at a frontier AI developer than of the AI models they design,” said Reich."
+        },
+        {
+          "t": "p",
+          "x": "Newsom is calling on Congress and President Trump to adopt the state’s framework, or use it as a floor, not a ceiling. It builds on SB 53, the 2025 Transparency in Frontier Artificial Intelligence Act."
+        }
+      ]
+    },
+    "politics/baltimore-doritos-gun-alert-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In October 2025, four Black high school students were sharing Cool Ranch Doritos after football practice when the school’s AI gun detection system, Omnilert, flagged one teen holding a bag of chips as a potential gunman. Within two minutes, Baltimore County Public Schools officials reviewed the footage, recognized the Doritos bag and canceled the alert."
+        },
+        {
+          "t": "p",
+          "x": "According to a lawsuit filed by the current and former students, school officials called police anyway. At least six patrol cars arrived, some officers with guns drawn; the students were ordered to their knees, handcuffed and searched."
+        },
+        {
+          "t": "p",
+          "x": "The suit targets Omnilert, responding Baltimore County Police Department officers, BCPS and individual school officials, and seeks an injunction barring BCPS from using Omnilert until staff and police are adequately trained. The teens alleged that more than “99 percent of OGD Alerts in Baltimore County Public Schools were false positives that required no police response,” as an Inspector General report said."
+        },
+        {
+          "t": "p",
+          "x": "Omnilert’s Blake Mitchell said the alert was canceled within about two minutes: “That is exactly why human review matters, and why a canceled alert must stay canceled.” BCPS declined to comment."
+        }
+      ]
+    },
+    "politics/dutch-dpa-ai-smart-glasses-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Dutch privacy watchdog, the Autoriteit Persoonsgegevens (AP), has told people not to buy smart glasses, saying they can get things dangerously wrong. In its tests of six glasses available on the Dutch market, the devices advised a user on how to date a child, misread medicine instructions, and claimed to have called an ambulance when they had not."
+        },
+        {
+          "t": "p",
+          "x": "The AP stopped short of calling for a ban and did not name the products, saying only that prices ranged from under €100 (£84) to over €500. It is unknown if the investigation included Meta's glasses."
+        },
+        {
+          "t": "p",
+          "x": "The AP was also concerned smart glasses could be used to secretly film people: with some glasses, recording lights could be covered with tape and they would still work. It found serious security flaws in some glasses that let someone nearby connect without permission, view recordings, or even operate the camera remotely, and warned data was often exported outside the EU."
+        },
+        {
+          "t": "p",
+          "x": "The AP recognises the glasses can be valuable for people who need help to understand their surroundings, but argues it is particularly important for these users that AI is reliable."
+        }
+      ]
+    },
+    "politics/oregon-openai-kids-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Today, Attorney General Dan Rayfield has launched the Oregon Department of Justice’s Keeping Kids Safe Initiative, announcing an $2.035 billion legal action against OpenAI for endangering kids and lying to parents about the safety of its ChatGPT chatbot. The lawsuit was filed in the Multnomah County Circuit Court."
+        },
+        {
+          "t": "p",
+          "x": "“OpenAI knows that ChatGPT is harming children, and has failed to meaningfully fix their dangerous platform,” said Attorney General Rayfield. “On top of that, they’ve misled the public about the safety of their products, putting profits ahead of children’s safety.”"
+        },
+        {
+          "t": "p",
+          "x": "The state says OpenAI broke Oregon’s consumer protection law, the Unlawful Trade Practices Act, by misleading the public about how safe ChatGPT is for kids, selling a product with serious safety problems it didn’t disclose, and using unfair tactics to market the product to children and teens."
+        },
+        {
+          "t": "p",
+          "x": "AG Rayfield’s lawsuit also says OpenAI was negligent, profited unfairly at Oregonians’ expense, and created a public nuisance that threatens the safety and well-being of Oregon kids. The state is asking the court to order OpenAI to stop misleading people about kids’ safety and to put protections in place that actually work."
+        },
+        {
+          "t": "p",
+          "x": "AG Rayfield rolled out the initiative at a press conference today."
+        },
+        {
+          "t": "video",
+          "yt": "pKfyD1xVPqM"
+        }
+      ]
     }
   }
 }

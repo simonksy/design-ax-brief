@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-20",
+  "section": "design",
+  "picks": [
+    {
+      "title": "Canva adds an AI 'off' button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "source": "The Verge",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "Concrete product change: Canva users and teams can now switch off most generative AI features and filter AI-made images, which changes team settings tomorrow.",
+      "published_iso": "2026-11-19T12:30:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Canva is rolling out settings that let users and teams switch off most of its generative AI features and filter AI-made images, saying AI does not suit every task; some AI tools stay on."
+    },
+    {
+      "title": "What Your AGENTS.md Should Say About Your Design System",
+      "url": "https://www.supernova.io/blog/agents-md-design-system",
+      "source": "Supernova",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "New data (30 design-system repos audited, none write agent files for consumers) plus a copyable AGENTS.md section that design-system teams can use right away.",
+      "published_iso": "2026-11-17T00:00:00Z",
+      "og_image": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png",
+      "excerpt": "Supernova checked 30 design-system repos for AGENTS.md and other agent files: 16 have one, none is written for teams consuming the system; it proposes a section to copy."
+    },
+    {
+      "title": "Pliera: a new BIM 2.0",
+      "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "New BIM product combining modelling with AI-generated parametric objects and configurators, pitched as a Revit challenger; a distinct launch from the Snaptrude/Qonic/Rayon cards.",
+      "published_iso": "2026-11-18T18:13:49Z",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg",
+      "excerpt": "Pliera combines BIM modelling, AI-generated parametric objects and building configurators, with ambitious plans to challenge Revit."
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Primary-source look at pairing frontier coding agents with Omniverse libraries to build simulation apps and iterate on designs from a prompt; adds the render/simulation category to the spread.",
+      "published_iso": "2026-11-19T17:00:35Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png",
+      "excerpt": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt."
+    },
+    {
+      "title": "Too Claudified",
+      "url": "https://uxdesign.cc/too-claudified-9af067298b2a",
+      "source": "UX Collective",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "A client rejecting AI-built motion work as 'too Claudified' is a fresh, concrete signal of AI design convergence and how designers must differentiate.",
+      "published_iso": "2026-11-18T20:17:04Z",
+      "og_image": null,
+      "excerpt": "A designer whose AI-built motion graphics were rejected by a client as 'too Claudified' revisits his June essay on AI design converging on one fluent look, and what changed in five months."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button": {
+        "verdict": "new",
+        "nearest": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+        "new_action": ""
+      },
+      "https://www.supernova.io/blog/agents-md-design-system": {
+        "verdict": "new",
+        "nearest": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
+        "new_action": ""
+      },
+      "https://aecmag.com/bim/pliera-a-new-bim-2-0/": {
+        "verdict": "new",
+        "nearest": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+        "new_action": ""
+      },
+      "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": {
+        "verdict": "new",
+        "nearest": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/too-claudified-9af067298b2a": {
+        "verdict": "new",
+        "nearest": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+        "new_action": ""
+      }
+    },
+    "note": "Re-curated: Smashing Magazine 'AI Sped Up The Build' removed — fetch pass found it sponsored (supported by Level Access, promotes Level CI); replaced with NVIDIA Blog 'Into the Omniverse' (render; distinct from the 10-22 NVIDIA industrial and 10-25 Cosmos cards). Dropped: Genie 4 (DeepMind) — assigned to games by curator_brief and a follow-up of the 10-28 debut. Etsy creator exodus (Creative Bloq) — reaction/extra reporting on Etsy AI policy covered 10-24/10-28, no new event. NVIDIA Cosmos two-prompt datasets — same Cosmos tooling line as 10-25 card. Not selected on score/diversity: GPT-6.2 Astra (likely cross-section, not design-specific), Gemini Mac computer use (gadgets territory), Autodesk Fusion plans (pricing/packaging), Vercel Board, Mitsubishi CNC, DEVELOP3D opinion, nTop/Eleken/Higgsfield vendor how-tos, Supernova variables-vs-tokens (evergreen; also avoids a second Supernova card), Krea Originals (movies-adjacent). Five distinct outlets; categories workflow, tokens, cad, render, figma."
+  },
+  "items": [
+    {"url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button", "source": "The Verge", "tool": "AI Workflow", "accent": "#ff5a4d", "motif": "frame", "rationale": "Canva users and teams can now switch off most generative AI features and filter AI-made images.", "published_iso": "2026-11-19T12:30:00Z", "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200", "excerpt": "Canva is rolling out settings that let users and teams switch off most of its generative AI features and filter AI-made images, saying AI does not suit every task; some AI tools stay on."},
+    {"url": "https://www.supernova.io/blog/agents-md-design-system", "source": "Supernova", "tool": "Design Tokens", "accent": "#2ec5c5", "motif": "swatch", "rationale": "30-repo audit plus a copyable AGENTS.md section for design-system teams.", "published_iso": "2026-11-17T00:00:00Z", "og_image": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png", "excerpt": "Supernova checked 30 design-system repos for AGENTS.md and other agent files: 16 have one, none is written for teams consuming the system; it proposes a section to copy."},
+    {"url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/", "source": "AEC Magazine", "tool": "Text-to-CAD", "accent": "#7928ca", "motif": "cube", "rationale": "New BIM product with AI-generated parametric objects, pitched as a Revit challenger.", "published_iso": "2026-11-18T18:13:49Z", "og_image": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg", "excerpt": "Pliera combines BIM modelling, AI-generated parametric objects and building configurators, with ambitious plans to challenge Revit."},
+    {"url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/", "source": "NVIDIA Blog", "tool": "KeyShot", "accent": "#f5a623", "motif": "sphere", "rationale": "Coding agents plus Omniverse libraries to build simulation apps and iterate on designs from a prompt.", "published_iso": "2026-11-19T17:00:35Z", "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png", "excerpt": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt."},
+    {"url": "https://uxdesign.cc/too-claudified-9af067298b2a", "source": "UX Collective", "tool": "Figma", "accent": "#0070f3", "motif": "frame", "rationale": "Client rejected AI-built work as 'too Claudified' — concrete signal of AI design convergence.", "published_iso": "2026-11-18T20:17:04Z", "og_image": null, "excerpt": "A designer whose AI-built motion graphics were rejected by a client as 'too Claudified' revisits his June essay on AI design converging on one fluent look, and what changed in five months."}
+  ]
+}

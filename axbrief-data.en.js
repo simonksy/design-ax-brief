@@ -6,42 +6,45 @@
     "label": "Design",
     "news": [
       {
-        "id": "design-stitch-loop-agent",
+        "id": "canva-ai-off-switch",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Google (The Keyword)",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
-        "accent": "#0070f3",
+        "tool": "AI Workflow",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+        "accent": "#ff5a4d",
         "motif": "frame",
-        "image": "pipeline/media/design-stitch-loop-agent.jpg",
-        "headline": "Google Stitch Loop keeps\nimproving after launch",
-        "body": "Stitch Loop is a long-running agent that watches a live codebase and metrics, then opens pull requests with fixes.",
-        "mini_headline": "Stitch Loop works past launch",
+        "image": "pipeline/media/canva-ai-off-switch.png",
+        "headline": "Canva adds a switch to\nturn most AI features off",
+        "body": "Canva now lets free and paid users switch off most generative AI features and see less AI-made content.",
+        "mini_headline": "Canva adds an AI off switch",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.width-1300.png",
-              "cap": "Stitch Loop"
+              "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
             },
             {
               "t": "p",
-              "x": "Coding agents let you build and ship new features fast, but their job ends the moment your pull request merges. Today, Google Labs is introducing Stitch Loop, a long-running product agent that connects to your codebase and live metrics, finds what needs fixing, and keeps working 24/7 on your product until your goals are met. It is part of a new direction for Stitch, which millions of designers, developers, and founders already use to turn ideas into working interfaces in minutes."
+              "x": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform’s array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot."
             },
             {
               "t": "p",
-              "x": "You connect GitHub and your product context (logs, user behavior, feedback) with over 180 integrations, custom MCP servers, or local CLI uploads. Each loop runs through four steps: Suggestions grounded in evidence; Solutions with tradeoffs, scoping and visual design options where applicable; Build, where Stitch Loop writes code in an isolated cloud sandbox and opens a GitHub pull request; and Reflect, where it monitors live product data and keeps watching in case the metric slips. Nothing merges until you review the PR."
+              "x": "This toggle doesn’t turn off every AI-powered feature on Canva, however. Canva’s background remover and its Magic Grab tool stay on because they “make everyday tasks faster without generating anything new.” The toggle still turns off Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes, and more."
             },
             {
               "t": "img",
-              "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CleanShot_2026-11-17_at_13.01.13.width-1200.format-webp.webp",
-              "cap": "Stitch Loop UI"
+              "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
+              "cap": "You can also select an option to see less AI-generated content in Canva’s library."
             },
             {
               "t": "p",
-              "x": "Built-in loops cover cybersecurity, latency, and accessibility, and you can create custom loops like improving checkout conversion. The security loop pairs Gemini 4 Carbon's cyber security capabilities with CodeMender, Google DeepMind's autonomous agent that improves code security. Coding agents like Google Antigravity can pull product context via the Stitch CLI and MCP, and in Slack @stitch delivers daily insight digests. The waitlist opens today for all users, globally, with eligible Google AI Ultra users getting priority access."
+              "x": "A second toggle shows human-created content first when searching Canva’s library for templates, graphics, and other design elements. Canva says a “small portion” of its library is AI-generated, and any design using those elements will have an AI label in its metadata."
+            },
+            {
+              "t": "p",
+              "x": "The settings live under Profile > Settings > Permission (Enable generative AI features) and Profile > Your account > AI personalization. They are available to both free and paid users."
             }
           ]
         },
@@ -50,164 +53,77 @@
         "hasFull": true
       },
       {
-        "id": "snap-easy-lens-cli",
+        "id": "supernova-agentsmd-audit",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
-        "tool": "VR Prototype",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-        "accent": "#eb367f",
-        "motif": "headset",
-        "video": "pipeline/media/snap-easy-lens-cli.mp4",
-        "poster": "pipeline/media/snap-easy-lens-cli.jpg",
-        "image": "pipeline/media/snap-easy-lens-cli.jpg",
-        "headline": "Snap brings AR Lens building\ninto AI coding assistants",
-        "body": "Snap's Easy Lens CLI puts its prompt-to-Lens generator inside Claude Code, Cursor and Codex for AR creators.",
-        "mini_headline": "Snap Lenses meet coding agents",
+        "tool": "Design Tokens",
+        "source": "Supernova",
+        "url": "https://www.supernova.io/blog/agents-md-design-system",
+        "accent": "#2ec5c5",
+        "motif": "swatch",
+        "image": "pipeline/media/supernova-agentsmd-audit.png",
+        "headline": "Design-system agent files\nskip the teams using them",
+        "body": "Supernova audited 30 design-system repos: 16 have agent files, but none are written for consuming teams.",
+        "mini_headline": "AGENTS.md for design systems",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "figma-multi-image-prompt",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Figma",
-        "url": "https://www.figma.com/release-notes/?title=generate-multiple-images-from-a-single-prompt",
-        "accent": "#3b6bff",
-        "motif": "frame",
-        "image": "pipeline/media/figma-multi-image-prompt.jpg",
-        "headline": "One Figma prompt, up to six\nimages or three models",
-        "body": "Figma's Make image and Edit image can return two, four or six images, or compare one prompt across up to three models.",
-        "mini_headline": "Figma: six images, one prompt",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "comfy-cloud-custom-build",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "KeyShot",
-        "source": "ComfyUI Blog",
-        "url": "https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "video": "pipeline/media/comfy-cloud-custom-build.mp4",
-        "poster": "pipeline/media/comfy-cloud-custom-build.jpg",
-        "image": "pipeline/media/comfy-cloud-custom-build.jpg",
-        "headline": "Comfy Cloud now runs your\nteam's custom ComfyUI",
-        "body": "Comfy Cloud now hosts a team's own ComfyUI build, with its custom nodes, models and LoRAs, on every paid plan.",
-        "mini_headline": "Custom ComfyUI goes cloud",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "rayon-v4-browser-cad",
+        "id": "pliera-bim-revit",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Text-to-CAD",
         "source": "AEC Magazine",
-        "url": "https://aecmag.com/cad/rayon-v4-a-different-bet-on-the-future-of-cad/",
+        "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/rayon-v4-browser-cad.jpg",
-        "headline": "Rayon V4 adds 3D and an AI\nagent to browser CAD",
-        "body": "Rayon V4 brings 3D modelling, an AI agent and generative rendering to its Figma-like browser CAD for interiors.",
-        "mini_headline": "Rayon V4 goes 3D with AI",
+        "image": "pipeline/media/pliera-bim-revit.jpg",
+        "headline": "Pliera pitches AI-assisted BIM\nas a challenger to Revit",
+        "body": "Pliera pairs BIM modelling with AI-generated parametric objects and building configurators to take on Revit.",
+        "mini_headline": "Pliera takes aim at Revit",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "nvidia-omniverse-sim-agents",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Omniverse",
+        "source": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "video": "pipeline/media/nvidia-omniverse-sim-agents.mp4",
+        "poster": "pipeline/media/nvidia-omniverse-sim-agents.jpg",
+        "image": "pipeline/media/nvidia-omniverse-sim-agents.jpg",
+        "headline": "NVIDIA pairs coding agents\nwith Omniverse simulation",
+        "body": "Developers pair coding agents with Omniverse libraries to build simulations and iterate on designs from a prompt.",
+        "mini_headline": "Omniverse meets coding agents",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "too-claudified-motion",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "source": "UX Collective",
+        "url": "https://uxdesign.cc/too-claudified-9af067298b2a",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/too-claudified-motion.jpg",
+        "headline": "A client rejects AI motion\nwork as too Claudified",
+        "body": "A client rejected AI-built motion work as too Claudified, renewing a designer's case that AI design converges.",
+        "mini_headline": "Too Claudified",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "mit-structure-copilot",
-            "eyebrow": "AI NEWS",
-            "tool": "Text-to-CAD",
-            "source": "MIT News",
-            "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/mit-structure-copilot.jpg",
-            "source_lang": "en",
-            "headline": "MIT design copilot asks first",
-            "body": "An MIT copilot pauses mid-generation to ask designers for feedback, yielding parts with higher buckling loads.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "keyshot-studio-20263-agent",
-            "eyebrow": "AI NEWS",
-            "tool": "KeyShot",
-            "source": "KeyShot",
-            "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/keyshot-studio-20263-agent.jpg",
-            "source_lang": "en",
-            "headline": "KeyShot gets an AI Agent",
-            "body": "KeyShot Studio 2026.3 builds an AI Agent into the renderer, alongside personal cloud storage and enterprise SSO.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "google-a2ui-v1-stable",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "source": "Google Developers Blog",
-            "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/google-a2ui-v1-stable.jpg",
-            "source_lang": "en",
-            "headline": "A2UI hits 1.0",
-            "body": "Google's A2UI 1.0 protocol lets agents answer with interactive interface components instead of walls of text.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "hf-trellis2-lora-guide",
-            "eyebrow": "AI NEWS",
-            "tool": "KeyShot",
-            "source": "Hugging Face",
-            "url": "https://huggingface.co/blog/3d-lora-finetuning",
-            "accent": "#eb367f",
-            "motif": "sphere",
-            "image": "pipeline/media/hf-trellis2-lora-guide.png",
-            "source_lang": "en",
-            "headline": "Fine-tune TRELLIS.2 on your 3D",
-            "body": "Hugging Face released scripts and containers to LoRA-fine-tune the TRELLIS.2 image-to-3D model on your own assets.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "google-labs-tabletop-canvas",
-            "eyebrow": "AI NEWS",
-            "tool": "AI Workflow",
-            "source": "Google",
-            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-            "accent": "#ff5a4d",
-            "motif": "frame",
-            "image": "pipeline/media/google-labs-tabletop-canvas.jpg",
-            "source_lang": "en",
-            "headline": "Tabletop: apps for groups",
-            "body": "Google Labs' Tabletop turns a group's description of an itinerary, poll or bracket into a shared multiplayer space.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -547,6 +463,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "design-stitch-loop-agent",
+            "eyebrow": "AI NEWS",
+            "tool": "Figma",
+            "source": "Google (The Keyword)",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/design-stitch-loop-agent.jpg",
+            "source_lang": "en",
+            "headline": "Stitch Loop works past launch",
+            "body": "Stitch Loop is a long-running agent that watches a live codebase and metrics, then opens pull requests with fixes.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "snap-easy-lens-cli",
+            "eyebrow": "AI NEWS",
+            "tool": "VR Prototype",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+            "accent": "#eb367f",
+            "motif": "headset",
+            "image": "pipeline/media/snap-easy-lens-cli.jpg",
+            "source_lang": "en",
+            "headline": "Snap Lenses meet coding agents",
+            "body": "Snap's Easy Lens CLI puts its prompt-to-Lens generator inside Claude Code, Cursor and Codex for AR creators.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "figma-multi-image-prompt",
+            "eyebrow": "AI NEWS",
+            "tool": "Figma",
+            "source": "Figma",
+            "url": "https://www.figma.com/release-notes/?title=generate-multiple-images-from-a-single-prompt",
+            "accent": "#3b6bff",
+            "motif": "frame",
+            "image": "pipeline/media/figma-multi-image-prompt.jpg",
+            "source_lang": "en",
+            "headline": "Figma: six images, one prompt",
+            "body": "Figma's Make image and Edit image can return two, four or six images, or compare one prompt across up to three models.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "comfy-cloud-custom-build",
+            "eyebrow": "AI NEWS",
+            "tool": "KeyShot",
+            "source": "ComfyUI Blog",
+            "url": "https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/comfy-cloud-custom-build.jpg",
+            "source_lang": "en",
+            "headline": "Custom ComfyUI goes cloud",
+            "body": "Comfy Cloud now hosts a team's own ComfyUI build, with its custom nodes, models and LoRAs, on every paid plan.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "rayon-v4-browser-cad",
+            "eyebrow": "AI NEWS",
+            "tool": "Text-to-CAD",
+            "source": "AEC Magazine",
+            "url": "https://aecmag.com/cad/rayon-v4-a-different-bet-on-the-future-of-cad/",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/rayon-v4-browser-cad.jpg",
+            "source_lang": "en",
+            "headline": "Rayon V4 goes 3D with AI",
+            "body": "Rayon V4 brings 3D modelling, an AI agent and generative rendering to its Figma-like browser CAD for interiors.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -555,49 +556,47 @@
     "label": "Marketing",
     "news": [
       {
-        "id": "chatgpt-sales-plugin",
+        "id": "coca-cola-enjoy-joy-liveaction",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
         "accent": "#ff8a3d",
         "motif": "frame",
-        "image": "pipeline/media/chatgpt-sales-plugin.png",
-        "headline": "ChatGPT adds a Sales plugin\nand 30+ partner plugins",
-        "body": "OpenAI's new Sales plugin lets ChatGPT research prospects, prep pitches and update the CRM.",
-        "mini_headline": "ChatGPT gets a Sales plugin",
+        "video": "pipeline/media/coca-cola-enjoy-joy-liveaction.mp4",
+        "poster": "pipeline/media/coca-cola-enjoy-joy-liveaction.jpg",
+        "image": "pipeline/media/coca-cola-enjoy-joy-liveaction.jpg",
+        "headline": "Coca-Cola steps back from\nAI-made holiday ads",
+        "body": "Coca-Cola's 'Enjoy Joy' holiday campaign returns to live-action spots after two years of divisive AI-made ads.",
+        "mini_headline": "Coca-Cola steps back from AI ads",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&h=900&fit=fill"
+              "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
+              "cap": "Coke's “Enjoy Joy” TV spots show family and friends partaking in seasonal activities. Courtesy of Coca-Cola"
             },
             {
               "t": "p",
-              "x": "We’re introducing ChatGPT for Sales to help every sales team understand customers better, spend less time on busywork, and close more deals. It includes our new Sales plugin with dedicated skills for sellers, and more than 30 new and enhanced partner plugins in ChatGPT."
+              "x": "Coca-Cola on Thursday launched a holiday campaign that includes a series of TV spots, digital and social content, experiential activations, packaging and partnerships. The “Enjoy Joy” spots show family and friends playing football, deep-frying a turkey and enjoying meals, in 30-, 15- and six-second formats across linear TV, digital, streaming and social."
             },
             {
               "t": "p",
-              "x": "The new Sales plugin from OpenAI gives you ready-to-use workflows for everyday sales work, from deciding which accounts to pursue to preparing for a call and drafting the follow-up."
+              "x": "Notably, the new spots pivot away from using generative artificial intelligence as the brand did for recent holiday pushes. Coca-Cola ran ads during the last two years made with generative AI that — despite exceeding internal benchmarks — proved divisive with consumers. The campaign was created by WPP Open X and led by Ogilvy, directed by Paul Dektor and produced by Mayan Productions, and arrives as holiday marketers double down on human-made creative."
             },
             {
-              "t": "img",
-              "src": "https://images.ctfassets.net/kftzwdyauwt9/6mmoQk1sZ7T7wZ4TZfFzA7/bc50a51cdc4d80288d4ce9fd50d1d0e6/introducing-chatgpt-for-sales-connected-tools-overview.png?w=3840&q=90&fm=webp",
-              "cap": "Sales tools grouped by workflow: content and enablement, accounts and deals, prospecting, customer conversations, performance and risk, and quotes and agreements."
-            },
-            {
-              "t": "p",
-              "x": "Partner plugins span the sales process: Confluence, Guru and Seismic for enablement; Salesforce, HubSpot, Close CRM and monday CRM for accounts and deals; Apollo, Clay, Common Room, Outreach and Salesloft for prospecting; Gong, Otter.ai and Granola for call notes; Backstory and Hex for pipeline risk; and Docusign, Ironclad, PandaDoc and ServiceNow CPQ for quotes and agreements."
+              "t": "video",
+              "yt": "DqV0bcaIzNc"
             },
             {
               "t": "p",
-              "x": "You can also delegate to your dot—an always-on agent in ChatGPT—to prepare meeting briefs, track deal updates, and proactively bring you relevant changes and proposed next steps for review."
+              "x": "Extensions include creator-led content across Meta, TikTok, Pinterest and YouTube, a “Grandma's Holiday Table” social series and an Amazon media partnership. The holiday caravan tour kicked off Nov. 5 in Nashville and will make more than 270 stops nationwide."
             },
             {
               "t": "p",
-              "x": "“We estimate this reduces manual effort for these activities by around 65%,” said Prof. Dr. Gunnar Gombert of NeoBid, which uses HubSpot with ChatGPT for Sales. Availability of partner plugins and features varies by plan, region, and workspace settings."
+              "x": "“It's about finding new ways to make Coca‑Cola part of the season while staying true to what people have always loved about the brand,” said Stacy Jackson, vice president for the Coca‑Cola Trademark."
             }
           ]
         },
@@ -606,160 +605,75 @@
         "hasFull": true
       },
       {
-        "id": "msads-bidding-rebuild",
-        "source_lang": "en",
+        "id": "kca-ai-fake-doctor-ads",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/economy/trend/6359058",
         "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/msads-bidding-rebuild.jpg",
-        "headline": "Microsoft Ads upgrades its\nautomated bidding models",
-        "body": "Microsoft's biggest bidding upgrade in a decade gave Target ROAS campaigns 10% more conversion value per click.",
-        "mini_headline": "Microsoft Ads upgrades bidding",
+        "image": "pipeline/media/kca-ai-fake-doctor-ads.jpg",
+        "headline": "AI fake-doctor ads face\nKorean watchdog, platforms",
+        "body": "Korea's consumer agency will monitor and block AI fake-doctor and celebrity ads with Naver, Kakao and TikTok.",
+        "mini_headline": "Blocking AI fake-doctor ads",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "ai-mode-clicks-field-test",
+        "id": "inmobi-accelerate-agents",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "PPC Land",
-        "url": "https://ppc.land/googles-ai-mode-cuts-clicks-to-websites-by-18-8-points-field-test-finds/",
+        "url": "https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/",
         "accent": "#f5a623",
         "motif": "frame",
-        "image": "pipeline/media/ai-mode-clicks-field-test.jpg",
-        "headline": "Google AI Mode cuts website\nclicks by 18.8 points",
-        "body": "A March test of 1,100 US users found AI Mode cut website clicks by 18.8 points and lifted rival-engine use.",
-        "mini_headline": "AI Mode cuts website clicks",
+        "image": "pipeline/media/inmobi-accelerate-agents.jpg",
+        "headline": "InMobi's seven AI agents\nrun small-business ads",
+        "body": "InMobi Accelerate uses seven AI agents to run small advertisers' campaigns across Google, Meta and ChatGPT.",
+        "mini_headline": "InMobi agents run SMB ads",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "kakao-kanana-commerce",
-        "source_lang": "ko",
+        "id": "hubspot-agent-crm-pricing",
+        "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "바이라인네트워크",
-        "url": "https://byline.network/2026/11/18_391287374/",
+        "source": "PPC Land",
+        "url": "https://ppc.land/hubspot-wont-charge-extra-when-claude-or-chatgpt-works-its-crm/",
         "accent": "#7928ca",
         "motif": "frame",
-        "image": "pipeline/media/kakao-kanana-commerce.jpg",
-        "headline": "Kakao to demo AI ordering\nand payment inside KakaoTalk",
-        "body": "On December 16, Kakao will demo AI ordering and payment inside KakaoTalk with about 15 partner companies.",
-        "mini_headline": "AI ordering and payment in KakaoTalk",
+        "image": "pipeline/media/hubspot-agent-crm-pricing.jpg",
+        "headline": "HubSpot won't charge extra\nfor Claude or ChatGPT use",
+        "body": "HubSpot's seats cover everyday CRM use from Claude or ChatGPT, with credits reserved for heavy governed-agent work.",
+        "mini_headline": "HubSpot: no AI agent surcharge",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "chatgpt-ads-adclarity-oct",
-        "source_lang": "ko",
+        "id": "target-ask-target-sales",
+        "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "매드타임스",
-        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29728",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/chatgpt-ads-adclarity-oct.jpg",
-        "headline": "ChatGPT tops 100,000 advertisers\nmonthly ad spend passes $100M",
-        "body": "ChatGPT ad spend hit $110.6 million in October, about three times April's level, per AdClarity.",
-        "mini_headline": "ChatGPT tops 100,000 advertisers",
+        "image": "pipeline/media/target-ask-target-sales.jpg",
+        "headline": "Target's AI shopping\nassistant drives sales",
+        "body": "On its Q3 call, Target said its beta Ask Target AI assistant is showing early sales success.",
+        "mini_headline": "Target's AI assistant sells",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "chatgpt-wallet-dots-checkout",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-            "accent": "#ff8a3d",
-            "motif": "frame",
-            "image": "pipeline/media/chatgpt-wallet-dots-checkout.jpg",
-            "source_lang": "en",
-            "headline": "ChatGPT Wallet lets agents buy",
-            "body": "OpenAI's ChatGPT Wallet lets Dots agents make purchases with a check-in before each one, starting with US Pro users.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "iab-ai-attribution-blueprint",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "IAB",
-            "url": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/iab-ai-attribution-blueprint.png",
-            "source_lang": "en",
-            "headline": "IAB sets AI attribution rules",
-            "body": "IAB's new blueprint sets a shared way to measure AI's role when an assistant influences or completes a purchase.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "schibsted-nodals-ad-algorithms",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "AdExchanger",
-            "url": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/",
-            "accent": "#7928ca",
-            "motif": "frame",
-            "image": "pipeline/media/schibsted-nodals-ad-algorithms.jpg",
-            "source_lang": "en",
-            "headline": "Schibsted's AI takes on Meta",
-            "body": "Schibsted is building custom ad optimization algorithms with Nodals AI to win back brands drawn to Meta's own tools.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "buzzvil-prism-ad-engine",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "바이라인네트워크",
-            "url": "https://byline.network/2026/11/13_buzzvil/",
-            "accent": "#2ec5c5",
-            "motif": "frame",
-            "image": "pipeline/media/buzzvil-prism-ad-engine.jpg",
-            "source_lang": "ko",
-            "headline": "Buzzvil's hyper-personalized AI ads",
-            "body": "Buzzvil's Prism automatically creates different ads for each user, even within a single campaign.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "ppcland-agent-traffic-meta-openai",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "PPC Land",
-            "url": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
-            "accent": "#eb367f",
-            "motif": "frame",
-            "image": "pipeline/media/ppcland-agent-traffic-meta-openai.jpg",
-            "source_lang": "en",
-            "headline": "Two firms own AI agent traffic",
-            "body": "Muse sent 59% of October's AI agent requests and Comet only 3.6%, with 85% landing on product and search pages.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -1099,6 +1013,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "chatgpt-sales-plugin",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "OpenAI",
+            "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+            "accent": "#ff8a3d",
+            "motif": "frame",
+            "image": "pipeline/media/chatgpt-sales-plugin.png",
+            "source_lang": "en",
+            "headline": "ChatGPT gets a Sales plugin",
+            "body": "OpenAI's new Sales plugin lets ChatGPT research prospects, prep pitches and update the CRM.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "msads-bidding-rebuild",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "Search Engine Roundtable",
+            "url": "https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/msads-bidding-rebuild.jpg",
+            "source_lang": "en",
+            "headline": "Microsoft Ads upgrades bidding",
+            "body": "Microsoft's biggest bidding upgrade in a decade gave Target ROAS campaigns 10% more conversion value per click.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "ai-mode-clicks-field-test",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "PPC Land",
+            "url": "https://ppc.land/googles-ai-mode-cuts-clicks-to-websites-by-18-8-points-field-test-finds/",
+            "accent": "#f5a623",
+            "motif": "frame",
+            "image": "pipeline/media/ai-mode-clicks-field-test.jpg",
+            "source_lang": "en",
+            "headline": "AI Mode cuts website clicks",
+            "body": "A March test of 1,100 US users found AI Mode cut website clicks by 18.8 points and lifted rival-engine use.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "kakao-kanana-commerce",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "바이라인네트워크",
+            "url": "https://byline.network/2026/11/18_391287374/",
+            "accent": "#7928ca",
+            "motif": "frame",
+            "image": "pipeline/media/kakao-kanana-commerce.jpg",
+            "source_lang": "ko",
+            "headline": "AI ordering and payment in KakaoTalk",
+            "body": "On December 16, Kakao will demo AI ordering and payment inside KakaoTalk with about 15 partner companies.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "chatgpt-ads-adclarity-oct",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "매드타임스",
+            "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29728",
+            "accent": "#2ec5c5",
+            "motif": "frame",
+            "image": "pipeline/media/chatgpt-ads-adclarity-oct.jpg",
+            "source_lang": "ko",
+            "headline": "ChatGPT tops 100,000 advertisers",
+            "body": "ChatGPT ad spend hit $110.6 million in October, about three times April's level, per AdClarity.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -1107,41 +1106,43 @@
     "label": "Music",
     "news": [
       {
-        "id": "google-flow-music-residency",
+        "id": "aria-musician-tdm-exemption",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "Semafor",
-        "url": "https://www.semafor.com/article/11/17/2026/inside-googles-push-to-make-ai-the-new-auto-tune",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
         "accent": "#ff2d55",
         "motif": "sphere",
-        "image": "pipeline/media/google-flow-music-residency.jpg",
-        "headline": "Google pitches AI as\nthe new Auto-Tune",
-        "body": "At Google's Flow Music residency, artists walk a line between generating AI music and crafting their own art.",
-        "mini_headline": "Google's AI Auto-Tune push",
+        "video": "pipeline/media/aria-musician-tdm-exemption.mp4",
+        "poster": "pipeline/media/aria-musician-tdm-exemption.jpg",
+        "image": "pipeline/media/aria-musician-tdm-exemption.jpg",
+        "headline": "Australian music rejects\nmusician-only AI exemption",
+        "body": "ARIA called a reported musician-only AI scraping exemption unworkable, refusing to be split from other creatives.",
+        "mini_headline": "ARIA rejects musician-only exemption",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://img.semafor.com/2f094abb31ddfdc98f68027dbd129ceb064288f0-512x406.png?w=512&q=75&auto=format&h=406",
-              "cap": "A vibe-coded tool made with Google’s Spaces. Courtesy of Google"
+              "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
+              "cap": "The Aria CEO, Annabelle Herd, says the music industry won’t desert other creatives: ‘We stand with the rest of the creative and media industries.’ Photograph: Wendell Teodoro/Getty Images"
             },
             {
               "t": "p",
-              "x": "Google is trying to prove that AI won’t replace artists. It has rolled out a suite of generative AI music features over the past year, including Flow Music — a tool it acquired in February when it bought the startup ProducerAI — which allows users to create songs from a single prompt. But the company’s pitch to artists is that its technology can also act like a tool in their creative process, not unlike Auto-Tune or MIDI."
+              "x": "The music industry has declared it will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other copyrighted material – described by David Pocock as a “divide and conquer strategy”."
             },
             {
               "t": "p",
-              "x": "Google launched Flow Music Sessions earlier this year, an artist residency program. Residents work in Spaces, a Flow Music feature carried over from ProducerAI that allows artists to vibe code their own tools and plugins."
+              "x": "The Australian Financial Review reported the government was considering a copyright change under which AI companies would buy permits to train on Australian content but that music may be exempted. Guardian Australia was not able to independently verify details of the proposal."
             },
             {
               "t": "p",
-              "x": "“I’m not particularly interested in prompting an entire song to be created because the most fun part for me is writing lyrics and singing and collaborating,” Avanti Singh, a sound designer and resident, told Semafor. Producer Mike Costanzo built a “perfect kick” plugin in Spaces that he says cuts down the time it takes to find an apt kick drum for a song."
+              "x": "“Had we been consulted, we would have advised this scheme is unnecessary, unworkable and designed to suit the commercial interests of AI companies, not protect creators,” Aria chief executive Annabelle Herd said. “Our position is unchanged: we stand with the rest of the creative and media industries.”"
             },
             {
               "t": "p",
-              "x": "A group of independent musicians and songwriters filed a lawsuit against Google in March, alleging it trained its music model Lyria 3 on copyrighted recordings from YouTube without permission or compensation. Google has moved to dismiss the lawsuit, arguing that music uploaded to YouTube is already broadly licensed for AI training in accepting the platform’s terms of service."
+              "x": "The Australian Writers’ Guild, the Media, Entertainment and Arts Alliance, the Coalition and the Greens also rejected the idea. Greens senator Sarah Hanson-Young warned: “Australia will become known as the Cayman Islands for AI if we allow this loophole to happen.”"
             }
           ]
         },
@@ -1150,158 +1151,79 @@
         "hasFull": true
       },
       {
-        "id": "soundcloud-seton-ai-policy",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Music",
-        "source": "Billboard",
-        "url": "https://www.billboard.com/pro/soundcloud-ceo-ai-policies-qa/",
-        "accent": "#0070f3",
-        "motif": "sphere",
-        "image": "pipeline/media/soundcloud-seton-ai-policy.jpg",
-        "headline": "SoundCloud CEO: AI music\ncan't be wished away",
-        "body": "SoundCloud CEO Eliah Seton explains the platform's new AI policies and its partnerships with ElevenLabs and Moises.",
-        "mini_headline": "SoundCloud CEO on AI rules",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "tuneart-ai-music-video",
+        "id": "umg-ai-kill-switch-survey",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
         "source": "Music Ally",
-        "url": "https://musically.com/2026/11/17/tuneart-ai-music-video-maker/",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/tuneart-ai-music-video.png",
-        "headline": "TuneArt makes AI music\nvideos pay-as-you-go",
-        "body": "TuneArt, an indie AI music-video maker, cuts songs into beat-synced videos and sells pay-as-you-go credit packs.",
-        "mini_headline": "TuneArt's pay-as-you-go videos",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "sonilo-symphonic-optin",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Music",
-        "source": "Music Business Worldwide",
-        "url": "https://www.musicbusinessworldwide.com/11m-backed-ai-startup-sonilo-founded-by-tiktok-veterans-inks-licensing-deal-with-symphonic-to-train-its-model-on-opted-in-indie-recordings/",
+        "url": "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/",
         "accent": "#7928ca",
         "motif": "sphere",
-        "image": "pipeline/media/sonilo-symphonic-optin.jpg",
-        "headline": "Sonilo signs Symphonic deal\nfor opt-in AI training",
-        "body": "Under a Symphonic deal, Sonilo will train its AI only on recordings whose indie rightsholders opt in.",
-        "mini_headline": "Sonilo's opt-in training deal",
+        "image": "pipeline/media/umg-ai-kill-switch-survey.jpg",
+        "headline": "UMG: 68% of listeners want\nan AI music kill switch",
+        "body": "UMG listener research found 68% want a kill switch to filter AI music from streaming, far above Deezer's 41%.",
+        "mini_headline": "68% want an AI music kill switch",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "arxiv-music-gen-psychometrics",
+        "id": "neutone-terra-drum-synth",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "arXiv",
-        "url": "https://arxiv.org/abs/2611.21809",
+        "source": "KVR Audio",
+        "url": "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705",
         "accent": "#2ec5c5",
         "motif": "sphere",
-        "headline": "Six dimensions to judge\nAI music generators",
-        "body": "Researchers distilled 284 ISMIR listening-test items into six quality dimensions for judging AI music models.",
-        "mini_headline": "A yardstick for AI music",
+        "video": "pipeline/media/neutone-terra-drum-synth.mp4",
+        "poster": "pipeline/media/neutone-terra-drum-synth.jpg",
+        "image": "pipeline/media/neutone-terra-drum-synth.jpg",
+        "headline": "Neutone Terra maps\nneural drum sounds",
+        "body": "Terra, Neutone's early-access neural drum synth, makes each map a continuous space of analogue and digital drums.",
+        "mini_headline": "Neutone Terra neural drum synth",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "sonible-pure-smooth-resonance",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Music",
+        "source": "월간 믹싱 (Mixing Magazine)",
+        "url": "https://mixing.co.kr/en/44650",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "video": "pipeline/media/sonible-pure-smooth-resonance.mp4",
+        "poster": "pipeline/media/sonible-pure-smooth-resonance.jpg",
+        "image": "pipeline/media/sonible-pure-smooth-resonance.jpg",
+        "headline": "sonible's pure:smooth\ntames resonances with AI",
+        "body": "Plugin maker sonible's pure:smooth uses AI to find and reduce harsh resonances after you pick a source profile.",
+        "mini_headline": "sonible pure:smooth AI plugin",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "eu-ministers-ai-copyright",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Music",
+        "source": "CMU",
+        "url": "https://completemusicupdate.com/eu-member-states-call-for-more-ai-copyright-protections-and-european-ownership-for-tiktok-europe/",
+        "accent": "#3b6bff",
+        "motif": "sphere",
+        "image": "pipeline/media/eu-ministers-ai-copyright.png",
+        "headline": "Eleven EU states back\nAI copyright protections",
+        "body": "Ahead of a Brussels culture council, eleven EU member states urged new laws boosting copyright protection against AI.",
+        "mini_headline": "EU states back AI copyright push",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "suno-bridge-ableton",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Suno",
-            "url": "https://suno.com/blog/introducing-bridge",
-            "accent": "#ff2d55",
-            "motif": "sphere",
-            "image": "pipeline/media/suno-bridge-ableton.jpg",
-            "source_lang": "en",
-            "headline": "Suno Bridge enters Ableton",
-            "body": "Suno's beta Mac app syncs with Ableton Live 12 and drops parts that follow tempo, key and chords onto the timeline.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "vocaloid7-editor-release",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "월간 믹싱",
-            "url": "https://mixing.co.kr/en/44521",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/vocaloid7-editor-release.jpg",
-            "source_lang": "en",
-            "headline": "VOCALOID7 ships at $129",
-            "body": "VOCALOID7 Editor costs $129 and runs second-generation VOCALOID:AI, with lyric entry directly in Cubase's Key Editor.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "mumuru-melon-ai-number1",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "연합뉴스",
-            "url": "https://www.yna.co.kr/view/AKR20261113157000005",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "source_lang": "ko",
-            "headline": "First AI-assisted No. 1 on Melon",
-            "body": "Mumuru's AI-assisted song beat K-pop stars including RESCENE to reach No. 1 on Melon.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "bpi-getty-offshore-training",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "CMU",
-            "url": "https://completemusicupdate.com/getty-v-stability-ruling-could-allow-ai-companies-to-offshore-training-to-circumvent-uk-copyright-law-says-bpi/",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/bpi-getty-offshore-training.jpg",
-            "source_lang": "en",
-            "headline": "BPI flags offshore AI training",
-            "body": "Backing Getty at the UK Court of Appeal, the BPI warned AI firms could train offshore to sidestep UK copyright.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "radiomatic-venue-ai-music",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Music Ally",
-            "url": "https://musically.com/2026/11/12/radiomatic-aims-to-make-ai-music-a-soundtrack-for-businesses/",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/radiomatic-venue-ai-music.jpg",
-            "source_lang": "en",
-            "headline": "RadioMatic: AI music for venues",
-            "body": "Startup RadioMatic is launching to supply AI-generated background music to cafes, bars and other businesses.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -1639,6 +1561,90 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "google-flow-music-residency",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Semafor",
+            "url": "https://www.semafor.com/article/11/17/2026/inside-googles-push-to-make-ai-the-new-auto-tune",
+            "accent": "#ff2d55",
+            "motif": "sphere",
+            "image": "pipeline/media/google-flow-music-residency.jpg",
+            "source_lang": "en",
+            "headline": "Google's AI Auto-Tune push",
+            "body": "At Google's Flow Music residency, artists walk a line between generating AI music and crafting their own art.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "soundcloud-seton-ai-policy",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Billboard",
+            "url": "https://www.billboard.com/pro/soundcloud-ceo-ai-policies-qa/",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/soundcloud-seton-ai-policy.jpg",
+            "source_lang": "en",
+            "headline": "SoundCloud CEO on AI rules",
+            "body": "SoundCloud CEO Eliah Seton explains the platform's new AI policies and its partnerships with ElevenLabs and Moises.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "tuneart-ai-music-video",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Music Ally",
+            "url": "https://musically.com/2026/11/17/tuneart-ai-music-video-maker/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/tuneart-ai-music-video.png",
+            "source_lang": "en",
+            "headline": "TuneArt's pay-as-you-go videos",
+            "body": "TuneArt, an indie AI music-video maker, cuts songs into beat-synced videos and sells pay-as-you-go credit packs.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "sonilo-symphonic-optin",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Music Business Worldwide",
+            "url": "https://www.musicbusinessworldwide.com/11m-backed-ai-startup-sonilo-founded-by-tiktok-veterans-inks-licensing-deal-with-symphonic-to-train-its-model-on-opted-in-indie-recordings/",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/sonilo-symphonic-optin.jpg",
+            "source_lang": "en",
+            "headline": "Sonilo's opt-in training deal",
+            "body": "Under a Symphonic deal, Sonilo will train its AI only on recordings whose indie rightsholders opt in.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "arxiv-music-gen-psychometrics",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "arXiv",
+            "url": "https://arxiv.org/abs/2611.21809",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "source_lang": "en",
+            "headline": "A yardstick for AI music",
+            "body": "Researchers distilled 284 ISMIR listening-test items into six quality dimensions for judging AI music models.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -1647,56 +1653,44 @@
     "label": "Movies",
     "news": [
       {
-        "id": "movies-autodesk-maya-agentic",
+        "id": "topview-film-studio-hybrid",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
         "source": "Animation World Network",
-        "url": "https://www.awn.com/news/autodesk-adds-agentic-ai-and-mcp-servers-maya-and-3ds-max",
+        "url": "https://www.awn.com/news/topview-launches-film-studio-hybrid-ai-production-platform",
         "accent": "#0070f3",
         "motif": "frame",
-        "video": "pipeline/media/movies-autodesk-maya-agentic.mp4",
-        "poster": "pipeline/media/movies-autodesk-maya-agentic.jpg",
-        "image": "pipeline/media/movies-autodesk-maya-agentic.jpg",
-        "headline": "Autodesk brings agentic AI\nto Maya and 3ds Max",
-        "body": "Autodesk Assistant now runs tasks like UV mapping inside Maya and 3ds Max, asking approval before any script runs.",
-        "mini_headline": "Autodesk adds agents to Maya",
+        "image": "pipeline/media/topview-film-studio-hybrid.jpg",
+        "headline": "Topview Film Studio blends AI\nwith live-action footage",
+        "body": "Topview's Film Studio relights live-action footage, adds new camera angles and AI extras, and replaces greenscreens.",
+        "mini_headline": "Topview's hybrid AI studio",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://www.awn.com/sites/default/files/image/attached/1081848-3dsmax-assistant-shirzad-still-2-1280.jpg",
-              "cap": "Autodesk Assistant in 3ds Max."
+              "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
             },
             {
               "t": "p",
-              "x": "Autodesk has released new AI features for Maya and 3ds Max that let artists direct Autodesk Assistant to carry out tasks inside their scenes, or control both applications from an AI agent of their own through new Model Context Protocol (MCP) servers; both are in tech preview. Arnold's new interactive viewport, which uses NVIDIA's DLSS, is also out."
+              "x": "Singapore-based AI video company Topview has launched Film Studio, a production platform that lets filmmakers combine live-action performance with AI-generated environments, shots and visual effects. According to the company, Film Studio covers a full production rather than single clips, helping creators keep stories and characters consistent across a film or series."
             },
             {
               "t": "p",
-              "x": "The Assistant, which comes with a 3ds Max or Maya subscription, can now run tasks such as scene checks or UV mapping. Read-write access is off by default, no script runs until the artist clicks \"Allow,\" each agent action is a single undo step, and Safe Mode blocks scripts that reach outside the scene."
+              "x": "Its tools include Video Relight, a 3D lighting system with a real-time preview; Camera Angle Presets, which generate new angles and shots from existing live-action footage so a scene can be finished without returning to set; and Add Extras, which places AI-generated crowd members in a live-action scene. Other features handle automatic green-screen replacement, changes to the time of day, weather and moon phase, and splitting a video into layers."
             },
             {
               "t": "img",
-              "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-3dsmax-assistant-shirzad-still-3-1280.jpg?itok=dco93Hd0"
+              "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
             },
             {
               "t": "p",
-              "x": "The new 3ds Max and Maya MCP Servers let an external client control both applications. Artist Shirzad Bahrami connects Claude to Maya for unit testing during tool development; a workflow that took him more than an hour by hand now takes about five minutes."
+              "x": "\"Fully AI-generated films have faced resistance from Hollywood and have had limited access to mainstream distribution, with revenue largely limited to YouTube,\" said Jensen Wu, Topview's co-founder and CEO. \"By adopting a hybrid production model that combines real actors with AI enhancement, filmmakers can create work that is accessible to Hollywood's mainstream distribution channels and better positioned to generate revenue.\""
             },
             {
               "t": "p",
-              "x": "In Flow Production Tracking, the Assistant can also answer read-only questions about a production's own data in tech preview. The Arnold viewport, announced at SIGGRAPH 2026, keeps the image close to Arnold's final render, with DLSS handling upscaling and denoising as the artist moves around the scene."
-            },
-            {
-              "t": "img",
-              "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-arnold-viewport-mayamotion-blur-and-subsurface-scattering-1280.jpg?itok=QkXd3UnQ",
-              "cap": "Arnold Viewport images"
-            },
-            {
-              "t": "video",
-              "yt": "xOGIVruVHt4"
+              "x": "Topview says it has more than five million registered users, about 40% of whom make AI films and dramas, and roughly one million videos are generated on the platform each day."
             }
           ]
         },
@@ -1705,160 +1699,77 @@
         "hasFull": true
       },
       {
-        "id": "movies-idfa-ai-disclosure",
+        "id": "visualcenter-cinema-genesis",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "International Documentary Association",
-        "url": "https://www.documentary.org/column/synthesis-idfa-requesting-ai-disclosures-film-submissions-what-comes-next",
+        "source": "K-EnterTech Hub",
+        "url": "https://www.kentertechhub.com/visual-center-cinema-genesis-france-en/",
         "accent": "#f5a623",
         "motif": "frame",
-        "image": "pipeline/media/movies-idfa-ai-disclosure.jpg",
-        "headline": "IDFA asks filmmakers\nto disclose AI use",
-        "body": "IDFA now asks for AI-generated material to be disclosed in submissions, used for authenticity checks, not selection.",
-        "mini_headline": "IDFA asks for AI disclosure",
+        "image": "pipeline/media/visualcenter-cinema-genesis.jpg",
+        "headline": "Korean AI 3D film screens\nin cinema's birthplace",
+        "body": "Visual Center's short restored 19th-century photos to 4K with AI, turned 2D into 3D, and screened at France's Courant3D.",
+        "mini_headline": "Korean AI 3D film in France",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "vtr-north-virginbet-idents",
+        "id": "westworld-ai-lion-vfx",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "Broadcast",
-        "url": "https://www.broadcastnow.co.uk/production/vtr-north-polishes-up-ai-generated-virgin-bet-tnt-sports-idents/5222521.article",
+        "source": "K-EnterTech Hub",
+        "url": "https://www.kentertechhub.com/icnx-westworld-ai-vfx-en/",
         "accent": "#7928ca",
         "motif": "frame",
-        "image": "pipeline/media/vtr-north-virginbet-idents.jpg",
-        "headline": "VTR North polishes\nAI-made TNT Sports idents",
-        "body": "VTR North used Autodesk Flame to turn raw Google Flow imagery into polished Virgin Bet idents for TNT Sports.",
-        "mini_headline": "VTR North finishes AI idents",
+        "video": "pipeline/media/westworld-ai-lion-vfx.mp4",
+        "poster": "pipeline/media/westworld-ai-lion-vfx.jpg",
+        "image": "pipeline/media/westworld-ai-lion-vfx.jpg",
+        "headline": "Westworld puts AI plates\ninside the VFX pipeline",
+        "body": "Westworld made a TV-drama lion from AI source plates plus VFX compositing in one to two weeks, versus four months in CG.",
+        "mini_headline": "AI plates meet VFX at Westworld",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "kling-image4-8k",
+        "id": "docmakers-archive-ai-licensing",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "TechNode",
-        "url": "https://technode.com/2026/11/18/kuaishou-launches-kling-image-4-0-with-native-8k-generation/",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/kling-image4-8k.jpg",
-        "headline": "Kuaishou's Kling Image 4.0\ngenerates native 8K",
-        "body": "Kling Image 4.0 adds native 8K output, up to 2,000 characters of in-image text and up to 10 matched images per prompt.",
-        "mini_headline": "Kling Image 4.0 goes 8K",
+        "image": "pipeline/media/docmakers-archive-ai-licensing.jpg",
+        "headline": "Documentary makers weigh\nselling footage to AI",
+        "body": "Producers and archivists lay out the dos and don'ts of licensing archival footage to AI training-data aggregators.",
+        "mini_headline": "Doc archives for AI training",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "movies-ai-drama-cubeberry",
+        "id": "estsoft-kfast-ai-dubbing",
         "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "PPSS",
-        "url": "https://www.ppss.kr/news/articleView.html?idxno=321768",
+        "source": "AI타임스",
+        "url": "https://www.aitimes.kr/news/articleView.html?idxno=42794",
         "accent": "#eb367f",
         "motif": "frame",
-        "image": "pipeline/media/movies-ai-drama-cubeberry.jpg",
-        "headline": "Kwak Jung-hwan, Lee Jung-sub\nunveil four AI dramas",
-        "body": "Four AI dramas by broadcast TV directors will premiere on the 27th at the Seoul Film Center.",
-        "mini_headline": "Directors' AI dramas",
+        "image": "pipeline/media/estsoft-kfast-ai-dubbing.jpg",
+        "headline": "ESTsoft AI dubbing takes\nK-content to Latin America",
+        "body": "ESTsoft used AI to dub 300 hours of K-content and opened FAST channels for Latin America.",
+        "mini_headline": "ESTsoft AI dubbing",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "shortical-inevitable-avni",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "TheWrap",
-            "url": "https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/shortical-inevitable-avni.jpg",
-            "source_lang": "en",
-            "headline": "Inevitable premieres\nwith an AI double",
-            "body": "Shortical's fully AI-generated microdrama Inevitable premieres with a consented AI double of actor Aki Avni.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "screenburn-writers-room",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Broadcast",
-            "url": "https://www.broadcastnow.co.uk/production-and-post/screenburn-group-launches-ai-tool-to-write-full-microdrama-seasons/5222355.article",
-            "accent": "#f5a623",
-            "motif": "frame",
-            "image": "pipeline/media/screenburn-writers-room.jpg",
-            "source_lang": "en",
-            "headline": "AI drafts\nmicrodrama seasons",
-            "body": "Screenburn's The Writers Room uses generative AI to draft 80-episode vertical-drama seasons from a writer's concept.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "zhao-liying-hongguo-lawsuit",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Global Times",
-            "url": "https://www.globaltimes.cn/page/202611/1374182.shtml",
-            "accent": "#7928ca",
-            "motif": "frame",
-            "image": "pipeline/media/zhao-liying-hongguo-lawsuit.jpg",
-            "source_lang": "en",
-            "headline": "Zhao Liying sues\nover her likeness",
-            "body": "Zhao Liying has sued short-drama app Hongguo's operator and Douyin over alleged unauthorized use of her likeness.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "manchester-animation-ai-policy",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Animation Magazine",
-            "url": "https://www.animationmagazine.net/2026/11/manchester-animation-festival-announces-2026-winners-new-ai-policy/",
-            "accent": "#2ec5c5",
-            "motif": "frame",
-            "image": "pipeline/media/manchester-animation-ai-policy.jpg",
-            "source_lang": "en",
-            "headline": "Manchester festival\nsets AI rules",
-            "body": "Manchester Animation Festival named its 2026 winners and introduced a policy governing generative AI in submissions.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "seedance-25-flash-bytedance",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Pandaily",
-            "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
-            "accent": "#eb367f",
-            "motif": "frame",
-            "image": "pipeline/media/seedance-25-flash-bytedance.png",
-            "source_lang": "en",
-            "headline": "Seedance 2.5 Flash\nruns faster",
-            "body": "ByteDance's Seedance 2.5 Flash generates video twice as fast as Seedance 2.5 at about 0.99 yuan per second at 720p.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -2198,6 +2109,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "movies-autodesk-maya-agentic",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "Animation World Network",
+            "url": "https://www.awn.com/news/autodesk-adds-agentic-ai-and-mcp-servers-maya-and-3ds-max",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/movies-autodesk-maya-agentic.jpg",
+            "source_lang": "en",
+            "headline": "Autodesk adds agents to Maya",
+            "body": "Autodesk Assistant now runs tasks like UV mapping inside Maya and 3ds Max, asking approval before any script runs.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "movies-idfa-ai-disclosure",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "International Documentary Association",
+            "url": "https://www.documentary.org/column/synthesis-idfa-requesting-ai-disclosures-film-submissions-what-comes-next",
+            "accent": "#f5a623",
+            "motif": "frame",
+            "image": "pipeline/media/movies-idfa-ai-disclosure.jpg",
+            "source_lang": "en",
+            "headline": "IDFA asks for AI disclosure",
+            "body": "IDFA now asks for AI-generated material to be disclosed in submissions, used for authenticity checks, not selection.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "vtr-north-virginbet-idents",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "Broadcast",
+            "url": "https://www.broadcastnow.co.uk/production/vtr-north-polishes-up-ai-generated-virgin-bet-tnt-sports-idents/5222521.article",
+            "accent": "#7928ca",
+            "motif": "frame",
+            "image": "pipeline/media/vtr-north-virginbet-idents.jpg",
+            "source_lang": "en",
+            "headline": "VTR North finishes AI idents",
+            "body": "VTR North used Autodesk Flame to turn raw Google Flow imagery into polished Virgin Bet idents for TNT Sports.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "kling-image4-8k",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "TechNode",
+            "url": "https://technode.com/2026/11/18/kuaishou-launches-kling-image-4-0-with-native-8k-generation/",
+            "accent": "#2ec5c5",
+            "motif": "frame",
+            "image": "pipeline/media/kling-image4-8k.jpg",
+            "source_lang": "en",
+            "headline": "Kling Image 4.0 goes 8K",
+            "body": "Kling Image 4.0 adds native 8K output, up to 2,000 characters of in-image text and up to 10 matched images per prompt.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "movies-ai-drama-cubeberry",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "PPSS",
+            "url": "https://www.ppss.kr/news/articleView.html?idxno=321768",
+            "accent": "#eb367f",
+            "motif": "frame",
+            "image": "pipeline/media/movies-ai-drama-cubeberry.jpg",
+            "source_lang": "ko",
+            "headline": "Directors' AI dramas",
+            "body": "Four AI dramas by broadcast TV directors will premiere on the 27th at the Seoul Film Center.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2206,41 +2202,34 @@
     "label": "Games",
     "news": [
       {
-        "id": "embark-finals-ai-casters",
+        "id": "unreal-mcp-ue58-course",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "PC Gamer",
-        "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+        "source": "Unreal Engine (YouTube)",
+        "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/embark-finals-ai-casters.jpg",
-        "headline": "Embark apologizes for AI\ncasters in The Finals video",
-        "body": "Embark pulled a The Finals APAC qualifier recap video that replaced the human casters with AI voices and apologized.",
-        "mini_headline": "Embark pulls AI casters",
+        "video": "pipeline/media/unreal-mcp-ue58-course.mp4",
+        "poster": "pipeline/media/unreal-mcp-ue58-course.jpg",
+        "image": "pipeline/media/unreal-mcp-ue58-course.jpg",
+        "headline": "Epic's Unreal MCP course\nputs AI agents in UE 5.8",
+        "body": "Epic's course shows the experimental UE 5.8 MCP bridge letting AI agents create, modify and test in the editor.",
+        "mini_headline": "Unreal MCP course for UE 5.8",
         "full": {
-          "mode": "summary",
+          "mode": "full",
           "blocks": [
             {
-              "t": "img",
-              "src": "https://cdn.mos.cms.futurecdn.net/Qqh5aHxDJivu76mYWeC6Jb.jpg",
-              "cap": "Image credit: Embark Studios"
+              "t": "video",
+              "yt": "OjffwpbcQsQ"
             },
             {
               "t": "p",
-              "x": "Following a backlash from casters and esports fans, Embark Studios has taken down a recap video from a recent esports tournament for The Finals that replaced the original casters' voices with AI."
+              "x": "Unreal MCP is the official, Epic-supported way to connect your favorite agentic AI tools directly to Unreal Engine. Built on the open MCP standard, it lets AI agents understand your project and take action in the editor: creating, modifying, testing, and iterating on your work."
             },
             {
               "t": "p",
-              "x": "The commentators for the APAC Closed Qualifiers for The Grand Major were human. But a highlight video released by Embark built from clips from the qualifier replaced those casters with audio from the game's AI commentators, Scotty and June. \"We get replaced by two AI casters who even quote us :/\" caster ProtoANZ wrote on X."
-            },
-            {
-              "t": "p",
-              "x": "Embark community and competitive operations lead Oscar Lundberg apologized, saying it was a \"mistake.\" \"The video is down and won't return in this form. The AMER and EMEA recaps planned in the same format won't go out as planned either, and we're rethinking all three.\" Embark told IGN that replacing caster voices with AI \"wasn't the right call.\""
-            },
-            {
-              "t": "p",
-              "x": "Caster Bluepanda said \"they're not really sorry at all,\" and ProtoANZ called for an esports talent union to push for contracts that \"essentially ban the use of our voices in generative AI.\""
+              "x": "In this course, Senior Unreal Engine Instructor Sam Deiter walks you through everything you need to get started with Unreal MCP (Experimental in Unreal Engine 5.8): key terminology, the seven-step setup, troubleshooting and debugging, toolsets, the in-editor Terminal plugin workflow, configuration settings, time-saving tips, and answers to the most common questions."
             }
           ]
         },
@@ -2249,160 +2238,79 @@
         "hasFull": true
       },
       {
-        "id": "will-wright-mymems",
+        "id": "genie4-ultra-rollout",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/genie-4-is-now-available/",
         "accent": "#0070f3",
         "motif": "cube",
-        "image": "pipeline/media/will-wright-mymems.jpg",
-        "headline": "Will Wright's next game\nturns memories into play",
-        "body": "Will Wright's MyMems uses AI to turn players' memories into a playable simulation, due on mobile in 2027.",
-        "mini_headline": "Will Wright's AI memory game",
+        "video": "pipeline/media/genie4-ultra-rollout.mp4",
+        "poster": "pipeline/media/genie4-ultra-rollout.jpg",
+        "image": "pipeline/media/genie4-ultra-rollout.jpg",
+        "headline": "Genie 4 opens to AI Ultra\nwith live world editing",
+        "body": "Project Genie's AI Ultra users can now edit Genie 4 worlds in real time with plain language, aided by a creative agent.",
+        "mini_headline": "Genie 4 opens to AI Ultra",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "inworld-sava-voice",
+        "id": "ubisoft-motherbrain-studio",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "Inworld AI",
-        "url": "https://inworld.ai/blog/introducing-sava",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
         "accent": "#f5a623",
         "motif": "cube",
-        "image": "pipeline/media/inworld-sava-voice.jpg",
-        "headline": "Inworld opens SAVA for\nreal-time voice agents",
-        "body": "Inworld's SAVA handles speech and turn detection in one open-weight streaming model that runs on a single CPU thread.",
-        "mini_headline": "Inworld's open SAVA model",
+        "image": "pipeline/media/ubisoft-motherbrain-studio.jpg",
+        "headline": "Ubisoft launches Motherbrain\nas a generative AI studio",
+        "body": "Ubisoft's earnings report reveals Motherbrain, a new subsidiary building NPCs with memory and AI game masters.",
+        "mini_headline": "Ubisoft launches Motherbrain",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "mimesis-game-award-2026",
+        "id": "supercent-200-agents",
         "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Games",
         "source": "인벤",
-        "url": "https://www.inven.co.kr/webzine/news/?news=323560",
+        "url": "https://www.inven.co.kr/webzine/news/?news=323607",
         "accent": "#2ec5c5",
         "motif": "cube",
-        "image": "pipeline/media/mimesis-game-award-2026.jpg",
-        "headline": "AI monster horror game MIMESIS\nwins Korea Game Awards prize",
-        "body": "MIMESIS, a 4-player co-op horror game against AI monsters, won an Excellence Award at the Korea Game Awards.",
-        "mini_headline": "MIMESIS wins Korea Game Awards prize",
+        "image": "pipeline/media/supercent-200-agents.jpg",
+        "headline": "Supercent reshapes publishing\nwith 200 AI agents",
+        "body": "Supercent says it has reorganized its publishing structure by running more than 200 AI agents.",
+        "mini_headline": "Supercent's 200 AI agents",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "unity-gstar-ai-gamejam",
-        "source_lang": "ko",
+        "id": "megajam-lsd-fih-chart",
+        "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "인벤",
-        "url": "https://www.inven.co.kr/webzine/news/?news=323546",
+        "source": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
         "accent": "#eb367f",
         "motif": "cube",
-        "image": "pipeline/media/unity-gstar-ai-gamejam.jpg",
-        "headline": "Unity, OpenAI, Meshy AI\n24-hour AI game jam",
-        "body": "Unity held a 24-hour AI game jam in Busan with OpenAI and Meshy AI on the day before G-STAR.",
-        "mini_headline": "Unity AI game jam",
+        "video": "pipeline/media/megajam-lsd-fih-chart.mp4",
+        "poster": "pipeline/media/megajam-lsd-fih-chart.jpg",
+        "image": "pipeline/media/megajam-lsd-fih-chart.jpg",
+        "headline": "A genAI-free fish game tops\nEpic's AI MegaJam chart",
+        "body": "LSD:FIH, a game made without generative AI, leads the popularity chart of Epic's MegaJam, a contest promoting AI.",
+        "mini_headline": "GenAI-free game tops MegaJam",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "pearlabyss-ai-pipeline",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "Eurogamer",
-            "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/pearlabyss-ai-pipeline.jpg",
-            "source_lang": "en",
-            "headline": "Pearl Abyss adopts AI studio-wide",
-            "body": "Pearl Abyss is integrating AI across its whole development pipeline, with DokeV now targeted for 2028.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "sony-qssr-ps5-rollout",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "Wccftech",
-            "url": "https://wccftech.com/quick-spectral-super-resolution-six-ps5-games/",
-            "accent": "#0070f3",
-            "motif": "cube",
-            "image": "pipeline/media/sony-qssr-ps5-rollout.jpg",
-            "source_lang": "en",
-            "headline": "QSSR comes to six PS5 games",
-            "body": "Sony's QSSR, a lightweight AI upscaler derived from PS5 Pro's PSSR, is coming to six PS5 games.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "games-ai-clone-ip-defense",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "GamesIndustry.biz",
-            "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
-            "accent": "#2ec5c5",
-            "motif": "cube",
-            "image": "pipeline/media/games-ai-clone-ip-defense.jpg",
-            "source_lang": "en",
-            "headline": "Shielding games from AI clones",
-            "body": "Pryor Cashman lawyers give developers practical US-law steps to protect games against generative AI clones.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "xbox-sharma-genai-memo",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "Eurogamer",
-            "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
-            "accent": "#eb367f",
-            "motif": "cube",
-            "image": "pipeline/media/xbox-sharma-genai-memo.jpg",
-            "source_lang": "en",
-            "headline": "Xbox CEO memo signals gen-AI",
-            "body": "Xbox CEO Asha Sharma's anniversary memo says a small team will build worlds that today demand hundreds of developers.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "shadowkey-ngage-ai-revival",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "PC Gamer",
-            "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
-            "accent": "#f5a623",
-            "motif": "cube",
-            "image": "pipeline/media/shadowkey-ngage-ai-revival.jpg",
-            "source_lang": "en",
-            "headline": "Shadowkey revived for PC with AI",
-            "body": "A fan is using AI tools to restore and upgrade The Elder Scrolls Travels: Shadowkey and port it to PC.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -2726,6 +2634,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "embark-finals-ai-casters",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/embark-finals-ai-casters.jpg",
+            "source_lang": "en",
+            "headline": "Embark pulls AI casters",
+            "body": "Embark pulled a The Finals APAC qualifier recap video that replaced the human casters with AI voices and apologized.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "will-wright-mymems",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/will-wright-mymems.jpg",
+            "source_lang": "en",
+            "headline": "Will Wright's AI memory game",
+            "body": "Will Wright's MyMems uses AI to turn players' memories into a playable simulation, due on mobile in 2027.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "inworld-sava-voice",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "Inworld AI",
+            "url": "https://inworld.ai/blog/introducing-sava",
+            "accent": "#f5a623",
+            "motif": "cube",
+            "image": "pipeline/media/inworld-sava-voice.jpg",
+            "source_lang": "en",
+            "headline": "Inworld's open SAVA model",
+            "body": "Inworld's SAVA handles speech and turn detection in one open-weight streaming model that runs on a single CPU thread.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "mimesis-game-award-2026",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "인벤",
+            "url": "https://www.inven.co.kr/webzine/news/?news=323560",
+            "accent": "#2ec5c5",
+            "motif": "cube",
+            "image": "pipeline/media/mimesis-game-award-2026.jpg",
+            "source_lang": "ko",
+            "headline": "MIMESIS wins Korea Game Awards prize",
+            "body": "MIMESIS, a 4-player co-op horror game against AI monsters, won an Excellence Award at the Korea Game Awards.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "unity-gstar-ai-gamejam",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "인벤",
+            "url": "https://www.inven.co.kr/webzine/news/?news=323546",
+            "accent": "#eb367f",
+            "motif": "cube",
+            "image": "pipeline/media/unity-gstar-ai-gamejam.jpg",
+            "source_lang": "ko",
+            "headline": "Unity AI game jam",
+            "body": "Unity held a 24-hour AI game jam in Busan with OpenAI and Meshy AI on the day before G-STAR.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2734,40 +2727,46 @@
     "label": "Books",
     "news": [
       {
-        "id": "spotify-audiobook-21markets",
+        "id": "globalcomix-ai-relaunch",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Books",
-        "source": "Spotify Newsroom",
-        "url": "https://newsroom.spotify.com/2026-11-18/audiobook-creation-tools-expansion/",
+        "source": "The Comics Beat",
+        "url": "https://www.comicsbeat.com/globalcomixs-ai-powered-refresh-looks-a-lot-like-its-competition/",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/spotify-audiobook-21markets.png",
-        "headline": "Spotify audiobook tools\nreach 21 more markets",
-        "body": "Spotify's AI-voiced audiobook tool for self-published authors adds 21 markets and Spanish ElevenLabs voices.",
-        "mini_headline": "Spotify audiobook tools expand",
+        "image": "pipeline/media/globalcomix-ai-relaunch.png",
+        "headline": "GlobalComix relaunches\nwith an AI reading guide",
+        "body": "GlobalComix relaunched with an AI chatbot that recommends comics and answers reader questions.",
+        "mini_headline": "GlobalComix goes AI",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://storage.googleapis.com/pr-newsroom-wp/1/2026/11/Blog-Post-4-1-1920x733.png"
+              "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
             },
             {
               "t": "p",
-              "x": "It’s estimated that there are about 100 million books in the world, but only about 1 million of them are also available as audiobooks. In September, Spotify launched Audiobook Creation Tools in the U.S. Starting today, they’re available to self-published authors in 21 more markets: the U.K., Canada, Australia, Ireland, New Zealand, Spain, Mexico, Colombia, Chile, Peru, Ecuador, Guatemala, Bolivia, the Dominican Republic, Honduras, Paraguay, El Salvador, Nicaragua, Costa Rica, Panama, and Uruguay. Authors can also now turn Spanish-language manuscripts into Spanish-language audiobooks."
+              "x": "GlobalComix is looking to embed artificial intelligence into the future of digital comics, but its latest redesign has raised more than a few eyebrows. Fresh off securing $13 million in funding and acquiring the AI-assisted localization company INKR, it unveiled a revamped storefront alongside new AI-powered discovery features: an AI assistant, automated comic-page descriptions, and creator spotlights."
+            },
+            {
+              "t": "img",
+              "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
+              "cap": "Tom Cheredar’s conversation with GlobalComix’s new AI assistant."
             },
             {
               "t": "p",
-              "x": "An author uploads a finished manuscript as an .epub file and picks a voice from a curated library of licensed digital voices, which now includes new Spanish voices from ElevenLabs. Authors can preview every chapter and adjust things like pronunciation, and nothing goes live until the author approves it."
+              "x": "Weird City Media’s Tom Cheredar found that the AI said it had been able to scrape data from comics journalism platforms such as IGN, Newsarama, CBR and The Beat. GlobalComix maintained that it does not use creators’ comics to train AI models, instead analyzing pages to generate descriptions and recommendations, and confirmed creators cannot opt out of its catalog-wide recommendation features. Pressed on training sources, the assistant replied: “I can’t speak to specific training sources or datasets.”"
+            },
+            {
+              "t": "img",
+              "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
+              "cap": "GlobalComix’s updated layout"
             },
             {
               "t": "p",
-              "x": "Each eligible author can create up to five audiobooks at no cost, and titles can be published in 180 markets. Since the U.S. launch, Spotify for Authors sign-ups have more than doubled, nearly two in three new authors have tried the tools, and more than 60% of uploaded manuscripts have gone on to be published."
-            },
-            {
-              "t": "p",
-              "x": "“Bringing these tools to 21 more markets means many more stories can find listeners,” said Chester Lau, Author Growth at Spotify."
+              "x": "The redesign swaps orange branding for green and bears a striking resemblance to rival Sweet Shop, whose CEO Kenny Meyers has criticized AI in digital comics. Several creators said they would withdraw their work. Update: CEO Henrik Rydberg clarified the company uses Google’s Gemini rather than its own proprietary model."
             }
           ]
         },
@@ -2776,158 +2775,76 @@
         "hasFull": true
       },
       {
-        "id": "mentat-publisher-licensing",
+        "id": "wrtn-crack-ip-expansion",
         "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Books",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/It/article/all/20261118/135045150/2",
-        "accent": "#7928ca",
-        "motif": "swatch",
-        "image": "pipeline/media/mentat-publisher-licensing.png",
-        "headline": "Over 100 publishers license\nbooks for AI training",
-        "body": "Mentat secured 40,000 books for AI training from more than 100 publishers in 14 months.",
-        "mini_headline": "100 publishers sign AI training deals",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "argon-longstoryshort",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Books",
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/lifestyle/books/classic-novels-are-being-reduced-to-30-minute-ai-audiobooks-as-literature-faces-a-new-question-article-156502147",
-        "accent": "#2ec5c5",
-        "motif": "swatch",
-        "image": "pipeline/media/argon-longstoryshort.png",
-        "headline": "Argon cuts classics into\n30-minute AI audiobooks",
-        "body": "German publisher Argon's 'longstoryshort' series condenses classics into AI-assisted 30-minute audiobooks.",
-        "mini_headline": "Classics as 30-minute AI audio",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "esquire-ai-policing-writers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Books",
-        "source": "Esquire",
-        "url": "https://www.esquire.com/entertainment/books/a74467178/ai-writing-accusations-black-writers/",
-        "accent": "#eb367f",
-        "motif": "swatch",
-        "image": "pipeline/media/esquire-ai-policing-writers.jpg",
-        "headline": "The AI police target\nBlack and brown writers",
-        "body": "An Esquire essay argues AI-writing accusations and detectors like Pangram fall hardest on Black and brown writers.",
-        "mini_headline": "AI policing targets Black writers",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "toptoon-nijigame-aichat",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Books",
-        "source": "The Asia Business Daily",
-        "url": "https://www.asiae.co.kr/en/article/2026111808340070297",
+        "source": "아주경제",
+        "url": "https://www.ajunews.com/amp/20261119124040877",
         "accent": "#0070f3",
         "motif": "swatch",
-        "headline": "TOPTOON Japan opens AI\ncharacter chat signups",
-        "body": "TOPCO Japan opened preregistration on DLsite NijiGAME for an AI chat service starring its webtoon characters.",
-        "mini_headline": "TOPTOON opens AI chat signups",
+        "image": "pipeline/media/wrtn-crack-ip-expansion.jpg",
+        "headline": "Wrtn turns Crack stories\ninto webtoon and game IP",
+        "body": "Wrtn is growing original content from its AI platform Crack into webtoon, web novel and game IP.",
+        "mini_headline": "Crack content becomes IP",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "manganow-getbackers-comic-anime",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Books",
+        "source": "Anime News Network",
+        "url": "https://www.animenewsnetwork.com/news/2026-11-19/getbackers-manga-gets-comic-anime-from-ai-platform-manganow-studio/.243992",
+        "accent": "#7928ca",
+        "motif": "swatch",
+        "video": "pipeline/media/manganow-getbackers-comic-anime.mp4",
+        "poster": "pipeline/media/manganow-getbackers-comic-anime.jpg",
+        "image": "pipeline/media/manganow-getbackers-comic-anime.jpg",
+        "headline": "AI brings Getbackers\nmanga to life",
+        "body": "AI platform MangaNow Studio is making a comic anime of the 1999 manga Getbackers, with a YouTube debut on December 1.",
+        "mini_headline": "Getbackers as AI comic anime",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "scbwi-state-of-industry-ai",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Books",
+        "source": "Publishers Weekly",
+        "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/101811-digital-fatigue-book-bans-and-ai-scbwi-s-2026-state-of-the-industry-overview.html",
+        "accent": "#2ec5c5",
+        "motif": "swatch",
+        "headline": "SCBWI weighs AI in\nchildren's publishing",
+        "body": "SCBWI's November 13 webinar weighed AI's growing role in book bans, audiobook narration, translation and contracts.",
+        "mini_headline": "SCBWI on AI",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "comstocks-sacramento-ai-pushback",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Books",
+        "source": "Comstock's Magazine",
+        "url": "https://www.comstocksmag.com/web-only/ai-changing-book-business-literary-community-pushing-back",
+        "accent": "#eb367f",
+        "motif": "swatch",
+        "image": "pipeline/media/comstocks-sacramento-ai-pushback.png",
+        "headline": "Sacramento's book world\npushes back on AI",
+        "body": "A Sacramento bookseller refuses to stock AI titles, and Sibylline Press rejects manuscripts suspected of AI text.",
+        "mini_headline": "Booksellers push back on AI",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "books-kyobo-picks-agent",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "독서신문",
-            "url": "https://www.readersnews.com/news/articleView.html?idxno=200863",
-            "accent": "#f5a623",
-            "motif": "swatch",
-            "source_lang": "ko",
-            "headline": "Kyobo AI Book Picks",
-            "body": "Kyobo Book Centre opened 'Picks Agent', which asks readers about their tastes in conversation and chooses books.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-manga-localizer-mt",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "Anime News Network",
-            "url": "https://www.animenewsnetwork.com/feature/2026-11-13/manga-backbone-is-breaking/.242228",
-            "accent": "#0070f3",
-            "motif": "swatch",
-            "image": "pipeline/media/books-manga-localizer-mt.jpg",
-            "source_lang": "en",
-            "headline": "Manga Localizers Bypassed",
-            "body": "ANN asks whether manga localizers can still make a living as Japanese publishers turn to machine translation.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-millie-persona-chatbot-end",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "뉴스웨이",
-            "url": "https://www.newsway.co.kr/news/view?ud=2026111316121759956",
-            "accent": "#7928ca",
-            "motif": "swatch",
-            "image": "pipeline/media/books-millie-persona-chatbot-end.png",
-            "source_lang": "ko",
-            "headline": "Millie's Library Ends Chatbots",
-            "body": "Millie's Library will shut down its AI persona chatbots on December 31 due to low usage.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-daejeon-ai-anthology",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "더퍼블릭",
-            "url": "https://www.thepublic.kr/news/articleView.html?idxno=326466",
-            "accent": "#2ec5c5",
-            "motif": "swatch",
-            "image": "pipeline/media/books-daejeon-ai-anthology.jpg",
-            "source_lang": "ko",
-            "headline": "AI Anthology Proofreading Fee Row",
-            "body": "Proofreading fees of 600만원 were paid for an English Daejeon literature anthology whose preface cited AI translation.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-catholic-ai-slop",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "National Catholic Register",
-            "url": "https://www.ncregister.com/news/the-catholic-ai-slop-problem",
-            "accent": "#eb367f",
-            "motif": "swatch",
-            "image": "pipeline/media/books-catholic-ai-slop.png",
-            "source_lang": "en",
-            "headline": "AI Slop in Religious Books",
-            "body": "A study estimates 63% of religious books on Amazon in the past year are likely AI-written, Catholic titles included.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -3250,6 +3167,90 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "spotify-audiobook-21markets",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Spotify Newsroom",
+            "url": "https://newsroom.spotify.com/2026-11-18/audiobook-creation-tools-expansion/",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/spotify-audiobook-21markets.png",
+            "source_lang": "en",
+            "headline": "Spotify audiobook tools expand",
+            "body": "Spotify's AI-voiced audiobook tool for self-published authors adds 21 markets and Spanish ElevenLabs voices.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "mentat-publisher-licensing",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "동아일보",
+            "url": "https://www.donga.com/news/It/article/all/20261118/135045150/2",
+            "accent": "#7928ca",
+            "motif": "swatch",
+            "image": "pipeline/media/mentat-publisher-licensing.png",
+            "source_lang": "ko",
+            "headline": "100 publishers sign AI training deals",
+            "body": "Mentat secured 40,000 books for AI training from more than 100 publishers in 14 months.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "argon-longstoryshort",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Times Now",
+            "url": "https://www.timesnownews.com/lifestyle/books/classic-novels-are-being-reduced-to-30-minute-ai-audiobooks-as-literature-faces-a-new-question-article-156502147",
+            "accent": "#2ec5c5",
+            "motif": "swatch",
+            "image": "pipeline/media/argon-longstoryshort.png",
+            "source_lang": "en",
+            "headline": "Classics as 30-minute AI audio",
+            "body": "German publisher Argon's 'longstoryshort' series condenses classics into AI-assisted 30-minute audiobooks.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "esquire-ai-policing-writers",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Esquire",
+            "url": "https://www.esquire.com/entertainment/books/a74467178/ai-writing-accusations-black-writers/",
+            "accent": "#eb367f",
+            "motif": "swatch",
+            "image": "pipeline/media/esquire-ai-policing-writers.jpg",
+            "source_lang": "en",
+            "headline": "AI policing targets Black writers",
+            "body": "An Esquire essay argues AI-writing accusations and detectors like Pangram fall hardest on Black and brown writers.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "toptoon-nijigame-aichat",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "The Asia Business Daily",
+            "url": "https://www.asiae.co.kr/en/article/2026111808340070297",
+            "accent": "#0070f3",
+            "motif": "swatch",
+            "source_lang": "en",
+            "headline": "TOPTOON opens AI chat signups",
+            "body": "TOPCO Japan opened preregistration on DLsite NijiGAME for an AI chat service starring its webtoon characters.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -3258,52 +3259,45 @@
     "label": "Gadgets",
     "news": [
       {
-        "id": "samsung-smartthings-chatgpt-labs",
-        "source_lang": "ko",
+        "id": "openai-foxconn-phone-order",
+        "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261118000237",
+        "source": "Digital Trends",
+        "url": "https://www.digitaltrends.com/phones/openai-smartphone-foxconn-assembly-report/",
         "accent": "#ff5a4d",
         "motif": "headset",
-        "image": "pipeline/media/samsung-smartthings-chatgpt-labs.png",
-        "headline": "Samsung SmartThings lets\nChatGPT control appliances",
-        "body": "Samsung Electronics has released a SmartThings plugin for ChatGPT to test natural-language appliance control.",
-        "mini_headline": "SmartThings links with ChatGPT",
+        "image": "pipeline/media/openai-foxconn-phone-order.jpg",
+        "headline": "OpenAI's first phone moves\ntoward production",
+        "body": "Foxconn's FIH Mobile has reportedly received an order to help assemble a smartphone for OpenAI.",
+        "mini_headline": "OpenAI phone nears production",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
-              "t": "p",
-              "x": "Samsung Electronics has connected its smart home platform 'SmartThings' with OpenAI's ChatGPT. Following LG Electronics and Google, Samsung Electronics is also expanding smart home integration with outside artificial intelligence (AI) services, and appliance control using natural language is spreading."
+              "t": "img",
+              "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
+              "cap": "Shimul Sood / Digital Trends"
             },
             {
               "t": "p",
-              "x": "Samsung Electronics has released a 'Samsung SmartThings (Labs)' plugin available in ChatGPT and started a trial service. Users can link their SmartThings account to ChatGPT and control the appliances in their home with natural-language commands."
+              "x": "OpenAI is apparently moving ahead with its plans to launch a smartphone. A report from China's Securities Times claims that Foxconn subsidiary FIH Mobile has received an order to help assemble a smartphone for the ChatGPT maker. Foxconn has been Apple's lead partner for assembling iPhones, Macs and other Apple hardware."
             },
             {
               "t": "p",
-              "x": "Users can check the operating status of lights or appliances that are switched on at home and look up recent device activity history. It is also possible to run automation scenes set up in SmartThings or change the home's status to home, away or night mode."
+              "x": "Details are slim on the order size, the specs and the market launch targets, and the report relies on unnamed supply chain sources."
             },
             {
               "t": "p",
-              "x": "It is currently in an early trial stage, and some devices support status checks only. Control functions are limited for security-related devices such as door locks. Official integration is expected to launch after testing."
-            },
-            {
-              "t": "p",
-              "x": "Beyond Samsung SmartThings, other smart home platforms are also quickly expanding external integration with generative AI services. Earlier, in August, LG Electronics launched a service connecting ChatGPT with its smart home platform 'LG ThinQ'. It currently supports status checks and control of air conditioners and air purifiers."
-            },
-            {
-              "t": "p",
-              "x": "In September, Google introduced the Model Context Protocol (MCP) to its smart home platform 'Google Home', opening it up to integration with outside AI agents. MCP is a standard connection method that lets AI exchange information with external services and devices and carry out functions. It is a tool that supports connecting a range of generative AI, including not only Google Gemini but also Claude and ChatGPT, to smart home platforms."
+              "x": "Earlier this year, TF International Securities analyst Ming-Chi Kuo reported that the company is working on a smartphone that will lean heavily into agentic AI experiences, with MediaTek appearing better positioned than Qualcomm to supply the processor. Kuo named Luxshare, not Foxconn, as the phone's exclusive design and manufacturing partner, so it's unclear how the two reports fit together."
             },
             {
               "t": "img",
-              "src": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.4403658394c0448e9e9f9c6061065d95_P1.png"
+              "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
             },
             {
               "t": "p",
-              "x": "An industry official said, “The smart home industry is moving away from device control centered on its own apps and voice assistants and expanding connections with external general-purpose AI services,” adding, “Smart home services are evolving toward letting users manage multiple appliances through everyday conversation without opening a specific manufacturer's app.”"
+              "x": "OpenAI has remained mum on its smartphone plans, but it is developing AI-first hardware with io, the company started by former Apple design chief Jony Ive. Breaking into the market won't be easy: Google has gone all in on AI with Android, and Apple has hit its stride with Siri AI. It's unlikely OpenAI will build its own operating system."
             }
           ]
         },
@@ -3312,162 +3306,77 @@
         "hasFull": true
       },
       {
-        "id": "ai-plush-toy-retailers-pull",
+        "id": "pebble-index01-ring-review",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588",
+        "source": "Engadget",
+        "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
         "accent": "#0070f3",
         "motif": "headset",
-        "image": "pipeline/media/ai-plush-toy-retailers-pull.jpg",
-        "headline": "Retailers pull an AI toy\nthat described sexual violence",
-        "body": "Three major retailers are pulling an AI plush toy marketed for kids as young as 3 after it described sexual violence.",
-        "mini_headline": "AI toy pulled from shelves",
+        "image": "pipeline/media/pebble-index01-ring-review.jpg",
+        "headline": "Pebble's Index 01 ring makes\none feature the product",
+        "body": "Engadget scores the cheap, single-purpose ring 8/10, despite imperfect AI and a battery you can't recharge.",
+        "mini_headline": "Pebble's one-trick AI ring",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "disney-anzellan-ai-animatronics",
+        "id": "samsung-galaxyai-android-laptops",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+        "source": "Android Authority",
+        "url": "https://www.androidauthority.com/samsung-galaxy-ai-snapdragon-x-elite-android-laptops-apk-teardown-3737313/",
+        "accent": "#f5a623",
+        "motif": "headset",
+        "image": "pipeline/media/samsung-galaxyai-android-laptops.jpg",
+        "headline": "Samsung readies Galaxy AI\nfor Android laptops",
+        "body": "A One UI 9.5 teardown shows Galaxy AI photo tools and the Gauss model readied for Snapdragon X Elite laptops.",
+        "mini_headline": "Galaxy AI for Android laptops",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "switchbot-artframe2-weather",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Gadgets",
+        "source": "Notebookcheck",
+        "url": "https://www.notebookcheck.net/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-with-upgraded-features-for-art-and-photo-lovers.1452825.0.html",
         "accent": "#7928ca",
         "motif": "headset",
-        "image": "pipeline/media/disney-anzellan-ai-animatronics.jpg",
-        "headline": "Disney's Star Wars animatronics\nrespond to guests via AI",
-        "body": "Disney's Star Wars Anzellan prototypes use AI on Amazon's cloud to pick scripted responses to guests in real time.",
-        "mini_headline": "Disney animatronics get AI",
+        "video": "pipeline/media/switchbot-artframe2-weather.mp4",
+        "poster": "pipeline/media/switchbot-artframe2-weather.jpg",
+        "image": "pipeline/media/switchbot-artframe2-weather.jpg",
+        "headline": "SwitchBot's AI Art Frame 2\npaints to the forecast",
+        "body": "Its $3.99 monthly plan adds AI art generation and a Weather Muse that matches the color E Ink art to the forecast.",
+        "mini_headline": "SwitchBot's weather-aware frame",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "rtx-spark-minipc-retail-launch",
+        "id": "scout-motors-ai-earpieces",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+        "source": "CNET",
+        "url": "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/",
         "accent": "#2ec5c5",
         "motif": "headset",
-        "image": "pipeline/media/rtx-spark-minipc-retail-launch.jpg",
-        "headline": "First Nvidia RTX Spark mini PCs\nlaunch from Asus, Dell, and MSI",
-        "body": "The first RTX Spark AI mini PCs pair Nvidia's N1X chip with up to 128GB of memory, from $4,499 for Asus's ProArt GR1X.",
-        "mini_headline": "RTX Spark mini PCs arrive",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "frnia-silicone-face-robot",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Gadgets",
-        "source": "The Gadgeteer",
-        "url": "https://the-gadgeteer.com/2026/11/18/fr-nia-desktop-robot-moving-silicone-face/",
-        "accent": "#eb367f",
-        "motif": "headset",
-        "video": "pipeline/media/frnia-silicone-face-robot.mp4",
-        "poster": "pipeline/media/frnia-silicone-face-robot.jpg",
-        "image": "pipeline/media/frnia-silicone-face-robot.jpg",
-        "headline": "An 11-inch desktop robot\nanswers with a silicone face",
-        "body": "The 11-inch FR-NIA robot's silicone face moves on ten degrees of freedom across its eyes, brows, mouth and neck.",
-        "mini_headline": "A robot with a moving face",
+        "image": "pipeline/media/scout-motors-ai-earpieces.jpg",
+        "headline": "Scout Motors trains factory\nhires with AI earpieces",
+        "body": "Scout Motors is swapping the instruction binder for AI earpieces that talk new hires through hands-on tasks.",
+        "mini_headline": "AI earpieces on the factory floor",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "gadgets-gemini-task-automation-galaxy",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "SamMobile",
-            "url": "https://www.sammobile.com/news/geminis-ai-task-automation-will-work-with-dozens-of-apps-on-galaxy-phones/",
-            "accent": "#ff5a4d",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-gemini-task-automation-galaxy.jpg",
-            "source_lang": "en",
-            "headline": "Gemini automation for 114 apps",
-            "body": "Gemini Task Automation will soon work with 114 apps on select Galaxy phones and tablets running Android 17 or newer.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-christian-linux-ai-phone",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "Notebookcheck",
-            "url": "https://www.notebookcheck.net/Christian-Linux-project-plans-449-phone-with-AI-powered-Bible-study.1445691.0.html",
-            "accent": "#0070f3",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-christian-linux-ai-phone.jpg",
-            "source_lang": "en",
-            "headline": "A $449 AI Bible phone",
-            "body": "Christian project Jesus Dash blends Linux and AI, and its founder plans a $449 PineCone phone for early 2027.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-galaxy-ai-premium-499",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "Digital Trends",
-            "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
-            "accent": "#f5a623",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-galaxy-ai-premium-499.jpg",
-            "source_lang": "en",
-            "headline": "Galaxy AI Premium at $4.99",
-            "body": "Samsung is reportedly testing a $4.99 monthly Galaxy AI Premium plan whose usage limits could reshape free features.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-meta-muse-wearos",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "Android Authority",
-            "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
-            "accent": "#7928ca",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-meta-muse-wearos.jpg",
-            "source_lang": "en",
-            "headline": "Muse lands on Wear OS",
-            "body": "Meta's Muse AI agent now runs on Wear OS watches, reaching Android wrists before Meta's own Charm wearable.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-apple-glasses-supplier",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "MacRumors",
-            "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
-            "accent": "#2ec5c5",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-apple-glasses-supplier.jpg",
-            "source_lang": "en",
-            "headline": "Apple glasses in supplier talk",
-            "body": "Chinese supplier Quick Intelligent Equipment said in an earnings briefing it has been involved in Apple's AI glasses.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -3807,6 +3716,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "samsung-smartthings-chatgpt-labs",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "전자신문",
+            "url": "https://www.etnews.com/20261118000237",
+            "accent": "#ff5a4d",
+            "motif": "headset",
+            "image": "pipeline/media/samsung-smartthings-chatgpt-labs.png",
+            "source_lang": "ko",
+            "headline": "SmartThings links with ChatGPT",
+            "body": "Samsung Electronics has released a SmartThings plugin for ChatGPT to test natural-language appliance control.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "ai-plush-toy-retailers-pull",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588",
+            "accent": "#0070f3",
+            "motif": "headset",
+            "image": "pipeline/media/ai-plush-toy-retailers-pull.jpg",
+            "source_lang": "en",
+            "headline": "AI toy pulled from shelves",
+            "body": "Three major retailers are pulling an AI plush toy marketed for kids as young as 3 after it described sexual violence.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "disney-anzellan-ai-animatronics",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+            "accent": "#7928ca",
+            "motif": "headset",
+            "image": "pipeline/media/disney-anzellan-ai-animatronics.jpg",
+            "source_lang": "en",
+            "headline": "Disney animatronics get AI",
+            "body": "Disney's Star Wars Anzellan prototypes use AI on Amazon's cloud to pick scripted responses to guests in real time.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "rtx-spark-minipc-retail-launch",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+            "accent": "#2ec5c5",
+            "motif": "headset",
+            "image": "pipeline/media/rtx-spark-minipc-retail-launch.jpg",
+            "source_lang": "en",
+            "headline": "RTX Spark mini PCs arrive",
+            "body": "The first RTX Spark AI mini PCs pair Nvidia's N1X chip with up to 128GB of memory, from $4,499 for Asus's ProArt GR1X.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "frnia-silicone-face-robot",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "The Gadgeteer",
+            "url": "https://the-gadgeteer.com/2026/11/18/fr-nia-desktop-robot-moving-silicone-face/",
+            "accent": "#eb367f",
+            "motif": "headset",
+            "image": "pipeline/media/frnia-silicone-face-robot.jpg",
+            "source_lang": "en",
+            "headline": "A robot with a moving face",
+            "body": "The 11-inch FR-NIA robot's silicone face moves on ten degrees of freedom across its eyes, brows, mouth and neck.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -3815,45 +3809,41 @@
     "label": "Science",
     "news": [
       {
-        "id": "osmo-ai-nose-smell",
+        "id": "llm-aphasia-lesion",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+        "source": "Tech Xplore",
+        "url": "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html",
         "accent": "#2ec5c5",
         "motif": "sphere",
-        "image": "pipeline/media/osmo-ai-nose-smell.jpg",
-        "headline": "Osmo says its AI nose\nnow smells like a human",
-        "body": "Osmo says its smell foundation model, trained on expert sniffers' notes and chemical data, now matches human noses.",
-        "mini_headline": "Osmo's AI nose matches humans",
+        "image": "pipeline/media/llm-aphasia-lesion.jpg",
+        "headline": "Lesioned language models\nshow stroke-like aphasia",
+        "body": "Damaging layers of large language models produced error patterns resembling human aphasia after stroke.",
+        "mini_headline": "Stroke-like damage in LLMs",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg",
-              "cap": "Stephanie Arnett/MIT Technology Review | Adobe Stock"
+              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
+              "cap": "Credit: Pixabay/CC0 Public Domain"
             },
             {
               "t": "p",
-              "x": "In a lab near Newark Airport, around 30 experienced human sniffers record notes—“nutty,” “peachy,” “marine”—that are cross-referenced with chemical analysis to train what AI startup Osmo calls the world’s first foundation model for smell. The goal, says founder Alex Wiltschko, is “to give computers a sense of smell.”"
+              "x": "For more than 150 years, researchers have mapped the brain by studying how injuries cause behavioral deficits. A team specializing in post-stroke language and speech difficulties says the same framework can be applied to large language models."
             },
             {
               "t": "p",
-              "x": "Wiltschko claims Osmo’s model has achieved “human-level olfactory intelligence”: about as good as the average person at detecting and discriminating smells, and about as good as a junior perfume designer at creating them. Last month, the company says, it outperformed in-house perfumers at one of the world’s largest consumer goods companies."
-            },
-            {
-              "t": "img",
-              "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
+              "x": "In a study in Patterns, the team led by Julius Fridriksson of the University of South Carolina, whose lab studies aphasia using brain imaging of stroke patients, asked whether they could \"perturb layers in the language model\" and give it the same clinical tests used on patients. \"LLMs are being deployed in situations where failure has consequences,\" Fridriksson says."
             },
             {
               "t": "p",
-              "x": "Osmo has built a dataset of more than 10 million human labels and 800 million “scent tokens,” and a school-bus-sized smell-printing robot can design scents from a ChatGPT-style prompt. Its technology has been used for retail fragrances, including for Procter & Gamble."
+              "x": "The deliberately introduced \"lesions\" produced language errors resembling those of their aphasia patients. Coauthor Roger Newman-Norlund says the models make language, cognition and comprehension errors similar to humans'. Fridriksson says the approach \"establishes cause and effect,\" while noting the paper shows correspondence in failure patterns, not in actual structures."
             },
             {
               "t": "p",
-              "x": "Critics remain. Smell scientist Avery Gilbert argues some marketing claims are undocumented. Former Osmo consultant Michael Schmuker calls the technology an achievement but says context matters: Camembert shares a molecule with used nappies. Sensors must improve before goals like medical diagnostics, “the biggest prize.”"
+              "x": "The researchers say lesion-based interpretability could help open the LLM \"black box\" and identify redundant parts, leading to smaller, more energy-efficient models, and could create \"digital twins\" of aphasia patients to simulate clinical trials. Fridriksson believes the framework could extend to other neurological conditions: \"I hope this approach will be embraced to make scientific discoveries that help patients.\""
             }
           ]
         },
@@ -3862,164 +3852,75 @@
         "hasFull": true
       },
       {
-        "id": "science-art-memorability-model",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Science",
-        "source": "Phys.org",
-        "url": "https://phys.org/news/2026-11-art-reveal-artists-intuitive-grasp.html",
-        "accent": "#eb367f",
-        "motif": "sphere",
-        "video": "pipeline/media/science-art-memorability-model.mp4",
-        "poster": "pipeline/media/science-art-memorability-model.jpg",
-        "image": "pipeline/media/science-art-memorability-model.jpg",
-        "headline": "AI predicts memorable art\nbetter than artists do",
-        "body": "A deep-learning model predicted which artworks people would remember far better than artists or laypeople could.",
-        "mini_headline": "AI spots memorable art",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nature-llm-beer-game-cognition",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Science",
-        "source": "Nature Computational Science",
-        "url": "https://www.nature.com/articles/s43588-026-01080-z",
-        "accent": "#7928ca",
-        "motif": "sphere",
-        "image": "pipeline/media/nature-llm-beer-game-cognition.png",
-        "headline": "Cognitive grounding makes\nLLM groups act more human",
-        "body": "Giving LLM agents the content of human decision models shifted their group dynamics toward human-calibrated behavior.",
-        "mini_headline": "Grounding LLM agents in cognition",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "zapata-forshor-quantum-verify",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Science",
-        "source": "The Quantum Insider",
-        "url": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/zapata-forshor-quantum-verify.png",
-        "headline": "An open challenge to verify\nAI-made quantum research",
-        "body": "Zapata and UMD launched ForShor.ai, an open challenge testing whether AI-generated quantum results can be verified.",
-        "mini_headline": "Verifying AI quantum research",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "sciam-math-students-ai-survey",
+        "id": "maya-vibe-archaeology",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
         "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/",
+        "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
         "accent": "#0070f3",
         "motif": "sphere",
-        "video": "pipeline/media/sciam-math-students-ai-survey.mp4",
-        "poster": "pipeline/media/sciam-math-students-ai-survey.jpg",
-        "image": "pipeline/media/sciam-math-students-ai-survey.jpg",
-        "headline": "Young mathematicians fear AI\nbut are using it anyway",
-        "body": "A survey of 268 math graduate students and postdocs finds they fear AI will take their jobs yet are adopting it anyway.",
-        "mini_headline": "Young mathematicians and AI",
+        "image": "pipeline/media/maya-vibe-archaeology.png",
+        "headline": "A Maya site, 'vibe archaeology'\nand a fight over AI in science",
+        "body": "AI agents did not discover the Maya site, yet the viral claim sparked a clash over how AI should be used in science.",
+        "mini_headline": "Vibe archaeology dispute",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "gpt52-wildlife-species-id",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Science",
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/gpt52-wildlife-species-id.jpg",
+        "headline": "GPT-5.2 named the right species\nin under 1 in 10 photos",
+        "body": "Tested on 10,000 iNaturalist photos of Colombian vertebrates, GPT-5.2 reached only 9.5% species-level accuracy.",
+        "mini_headline": "Where AI misreads wildlife",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "ai2-asta-theorizer",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Science",
+        "source": "Ai2",
+        "url": "https://allenai.org/blog/theorizer-in-asta",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/ai2-asta-theorizer.png",
+        "headline": "Ai2 adds Theorizer\nto its Asta science agent",
+        "body": "Theorizer extracts findings from papers and synthesizes candidate theories, linking every claim to supporting studies.",
+        "mini_headline": "Theorizer joins Asta",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "ai-supertelescope-rubin-euclid",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Science",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
+        "accent": "#eb367f",
+        "motif": "sphere",
+        "image": "pipeline/media/ai-supertelescope-rubin-euclid.jpg",
+        "headline": "A proposed AI supertelescope\nfrom three observatories",
+        "body": "Astronomers propose using AI to fuse Rubin, Euclid and Roman pixels into a sharper virtual fourth observatory.",
+        "mini_headline": "An AI supertelescope",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "nature-ai-mechanic-astra",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Nature",
-            "url": "https://www.nature.com/articles/d41586-026-03679-8",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/nature-ai-mechanic-astra.jpg",
-            "source_lang": "en",
-            "headline": "AI mechanic edits other networks",
-            "body": "An MIT-led team used GPT-6 Astra to read other models' internal values, predict their parts' roles and edit them.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "deepmind-pardig-satweave",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Google DeepMind",
-            "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/deepmind-pardig-satweave.jpg",
-            "source_lang": "en",
-            "headline": "DeepMind opens weather datasets",
-            "body": "Google DeepMind released PARDIG and SatWeave, precipitation and satellite datasets used to train its weather models.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "codex-collider-amplitudes",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Physics World",
-            "url": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/codex-collider-amplitudes.jpg",
-            "source_lang": "en",
-            "headline": "Agents speed up collider code",
-            "body": "Codex-driven program search yielded amplitude code about 805 times faster than its seed in a Cambridge proof of concept.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "tohoku-mlp-copilot-aluminum",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Phys.org",
-            "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/tohoku-mlp-copilot-aluminum.jpg",
-            "source_lang": "en",
-            "headline": "AI agents model aluminum oxidation",
-            "body": "Tohoku's MLP Copilot agents built interatomic potentials that exposed an oxide shell rupturing at high temperature.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "concept2brain-eeg-sim",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "PsyPost",
-            "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/",
-            "accent": "#eb367f",
-            "motif": "sphere",
-            "image": "pipeline/media/concept2brain-eeg-sim.jpg",
-            "source_lang": "en",
-            "headline": "AI simulates brain waves",
-            "body": "Concept2Brain predicts EEG responses to photos or text so researchers can simulate experiments before recruiting.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -4343,6 +4244,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "osmo-ai-nose-smell",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/osmo-ai-nose-smell.jpg",
+            "source_lang": "en",
+            "headline": "Osmo's AI nose matches humans",
+            "body": "Osmo says its smell foundation model, trained on expert sniffers' notes and chemical data, now matches human noses.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "science-art-memorability-model",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Phys.org",
+            "url": "https://phys.org/news/2026-11-art-reveal-artists-intuitive-grasp.html",
+            "accent": "#eb367f",
+            "motif": "sphere",
+            "image": "pipeline/media/science-art-memorability-model.jpg",
+            "source_lang": "en",
+            "headline": "AI spots memorable art",
+            "body": "A deep-learning model predicted which artworks people would remember far better than artists or laypeople could.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "nature-llm-beer-game-cognition",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Nature Computational Science",
+            "url": "https://www.nature.com/articles/s43588-026-01080-z",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/nature-llm-beer-game-cognition.png",
+            "source_lang": "en",
+            "headline": "Grounding LLM agents in cognition",
+            "body": "Giving LLM agents the content of human decision models shifted their group dynamics toward human-calibrated behavior.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "zapata-forshor-quantum-verify",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "The Quantum Insider",
+            "url": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/zapata-forshor-quantum-verify.png",
+            "source_lang": "en",
+            "headline": "Verifying AI quantum research",
+            "body": "Zapata and UMD launched ForShor.ai, an open challenge testing whether AI-generated quantum results can be verified.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "sciam-math-students-ai-survey",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Scientific American",
+            "url": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/sciam-math-students-ai-survey.jpg",
+            "source_lang": "en",
+            "headline": "Young mathematicians and AI",
+            "body": "A survey of 268 math graduate students and postdocs finds they fear AI will take their jobs yet are adopting it anyway.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -4351,60 +4337,44 @@
     "label": "Medicine",
     "news": [
       {
-        "id": "medicine-mohw-ops-ai-reward",
-        "source_lang": "ko",
+        "id": "uhcleveland-ai-alerts-impact",
+        "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Medicine",
-        "source": "의학신문",
-        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016746",
+        "source": "AuntMinnie",
+        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care",
         "accent": "#00897b",
         "motif": "sphere",
-        "image": "pipeline/media/medicine-mohw-ops-ai-reward.jpg",
-        "headline": "Health ministry weighs pay\nfor hospital operations AI",
-        "body": "The ministry is weighing rewards for hospital operations AI that is not a medical device if patient benefit is proven.",
-        "mini_headline": "Operations AI may earn rewards",
+        "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.wMDLDT1f5Q.jpg?auto=format%2Ccompress&w=1200",
+        "headline": "Only 12% of AI alerts\nchanged patient care",
+        "body": "Of 154 alerts from a commercial imaging AI platform reviewed over a year, only 19 changed patient management.",
+        "mini_headline": "Few AI alerts changed care",
         "full": {
-          "mode": "summary",
+          "mode": "full",
           "blocks": [
             {
-              "t": "img",
-              "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417643_2538.jpg",
-              "cap": "Photo: reporter Lee Jae-won"
+              "t": "p",
+              "x": "In this scientific presentation, researchers will highlight the real-world impact of AI alerts for flagging of potentially missed radiology findings."
             },
             {
               "t": "p",
-              "x": "As the government builds a performance-based reward system for medical artificial intelligence (AI), it is reviewing whether to also cover AI services that the Ministry of Food and Drug Safety does not classify as medical devices, such as tools that optimize hospital operations. It set a condition, however: an improvement in patient benefit, not merely gains in a hospital's management efficiency, must be proven."
+              "x": "Presenter Charit R. Tippareddy, MD, of UH Radiology Cleveland and colleagues evaluated the real-world clinical impact, potential harm, and operational burden of AI “non-engagement” alerts. These alerts prompt radiologists to re-evaluate a case when they barely interacted with a positive AI result that went undocumented in the report."
             },
             {
               "t": "p",
-              "x": "At a medical AI investment forum on the 18th, Park Jeong-hwan, director of the Medical AI and Data Policy Division at the Ministry of Health and Welfare, said, \"Operational efficiency and operational optimization tools are not excluded from the reward system we are now considering,\" adding, \"Technically, we are trying to include even areas that the Ministry of Food and Drug Safety judges are not medical devices.\""
-            },
-            {
-              "t": "img",
-              "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417644_2624.jpg",
-              "cap": "Director Park Jeong-hwan. Photo: reporter Lee Jae-won."
+              "x": "The group retrospectively analyzed 154 alerts generated over one year after a commercial AI platform was deployed across a large health system."
             },
             {
               "t": "p",
-              "x": "He stressed, \"Support and rewards should be given only where it has been proven that a tool reasonably helped the public.\" Because the existing fee schedule takes too long to reach payment, the ministry is reviewing a structure that sets key performance indicators (KPI) for each institution and product in advance, confirms the effect first at a small number of hospitals, and then pays quickly. The specific KPI criteria, the evaluating body and the method for calculating payments have not yet been finalized."
-            },
-            {
-              "t": "img",
-              "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417646_277.jpg",
-              "cap": "Lim Jin-sun, team leader of the Digital Medical Technology Listing Department at the Health Insurance Review and Assessment Service. Photo: reporter Lee Jae-won."
+              "x": "Just 19 alerts (12%) resulted in meaningful management changes. Alerts for pulmonary embolism and intracranial hemorrhage were the most likely to change care, although some pulmonary embolism alerts led to treatment complications, including a major bleeding event, according to the researchers."
             },
             {
               "t": "p",
-              "x": "Lim Jin-sun, team leader of the Digital Medical Technology Listing Department at the Health Insurance Review and Assessment Service, said the agency will build a system that links evidence accumulated during the temporary listing period, in operation since December 2023, to the formal listing process."
-            },
-            {
-              "t": "img",
-              "src": "https://cdn.bosa.co.kr/news/photo/202611/3016746_417647_2740.jpg",
-              "cap": "Lunit Chairman Baek Seung-wook. Photo: reporter Lee Jae-won."
+              "x": "However, the most common type — rib fracture alerts — had no meaningful clinical impact, and alerts for several other findings likewise didn’t change management. Yet every alert triggered a multi-step workflow managed by radiology informatics staff, making even low-yield alerts disproportionately time- and resource-intensive, the researchers observed."
             },
             {
               "t": "p",
-              "x": "Lunit Chairman Baek Seung-wook said, \"There is still no consensus on what it is worth to raise the cancer detection rate by 1%,\" stressing that rewards need to be predictable. National funds, national health insurance and private insurance were suggested as funding sources, but how the costs would be shared has not been decided."
+              "x": "“AI alert systems should be evaluated based on real-world outcomes — not detection alone — to reduce alert fatigue, avoid unnecessary interventions, and ensure meaningful improvements in patient care,” the researchers wrote."
             }
           ]
         },
@@ -4413,158 +4383,79 @@
         "hasFull": true
       },
       {
-        "id": "gehc-feeding-tube-xray-ai",
+        "id": "elsevier-clinicalkey-ehr-context",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Medicine",
-        "source": "AuntMinnie",
-        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16541813/ge-healthcare-gehc-gets-fda-clearance-for-feeding-tube-ai-on-mobile-xray",
+        "source": "Fierce Healthcare",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context",
         "accent": "#0070f3",
         "motif": "sphere",
-        "headline": "GE HealthCare AI checks\nfeeding tubes on x-ray",
-        "body": "FDA cleared GE HealthCare's on-device x-ray AI that traces feeding tube placement, now extended to pediatric patients.",
-        "mini_headline": "FDA clears GEHC feeding tube AI",
+        "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
+        "image": "pipeline/media/elsevier-clinicalkey-ehr-context.jpg",
+        "headline": "ClinicalKey AI now reads\nthe full patient chart",
+        "body": "Elsevier's point-of-care tool, in 1,200+ hospitals, now reads a patient's full EHR to check treatment plans.",
+        "mini_headline": "ClinicalKey AI reads the chart",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "chile-preterm-ultrasound-ai",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Medicine",
-        "source": "Radiology Business",
-        "url": "https://radiologybusiness.com/topics/artificial-intelligence/ultrasound-ai-predicts-preterm-birth-risk-using-routine-prenatal-scans",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/chile-preterm-ultrasound-ai.jpg",
-        "headline": "Ultrasound AI flags\npreterm birth risk",
-        "body": "A routine 23-week ultrasound scan let AI predict early delivery with 86% accuracy in 2,550 Chilean pregnancies.",
-        "mini_headline": "AI reads preterm risk from scans",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "suki-agentic-os-launch",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Medicine",
-        "source": "Healthcare Dive",
-        "url": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/",
-        "accent": "#7928ca",
-        "motif": "sphere",
-        "image": "pipeline/media/suki-agentic-os-launch.jpg",
-        "headline": "Suki moves its AI scribe\ninto agentic workflows",
-        "body": "Suki launched an agentic operating system that takes its AI scribe beyond notes into wider health system workflows.",
-        "mini_headline": "Suki launches agentic OS",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nference-pluvicto-response-ai",
+        "id": "siemens-coronary-cockpit-fda",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Medicine",
         "source": "AuntMinnie",
-        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/molecular-imaging-preview/article/16541880/can-an-ai-model-predict-pluvicto-treatment-response",
+        "url": "https://www.auntminnie.com/clinical-news/ct/news/16542132/siemens-healthineers-siemens-healthineers-gets-fda-clearance-for-syngoct-coronary-cockpit",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "og_image": null,
+        "image": "pipeline/media/siemens-coronary-cockpit-fda.png",
+        "headline": "FDA clears Siemens AI\nfor coronary plaque",
+        "body": "Siemens' Coronary Cockpit uses AI to map plaque amount and morphology on coronary CT angiography from any CT scanner.",
+        "mini_headline": "FDA clears AI plaque tool",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "eu-mdr2-ai-device-reform",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "npj Digital Medicine",
+        "url": "https://www.nature.com/articles/s41746-026-03475-8",
         "accent": "#2ec5c5",
         "motif": "sphere",
-        "headline": "AI model may predict\nwho responds to Pluvicto",
-        "body": "A model pairing PSMA-PET scans with routine lab values may predict which prostate cancer patients respond to Pluvicto.",
-        "mini_headline": "AI eyes Pluvicto response",
+        "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+        "image": "pipeline/media/eu-mdr2-ai-device-reform.png",
+        "headline": "EU's MDR 2.0 tests the\nbar for AI devices",
+        "body": "A comment asks whether the EU's MDR 2.0 cuts to double regulation of AI devices would weaken evidence rules.",
+        "mini_headline": "EU rethinks AI device rules",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "deepnoid-peritoneal-metastasis-ai",
+        "source_lang": "ko",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "의학신문",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016882",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+        "image": "pipeline/media/deepnoid-peritoneal-metastasis-ai.jpg",
+        "headline": "Deepnoid peritoneal AI lifts\naccuracy to 91.5%",
+        "body": "With AI assistance, pathologists' reading accuracy rose from 76.5% to 91.5%.",
+        "mini_headline": "AI for peritoneal metastasis",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "bracco-uptunity-aneurysm",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "AuntMinnie",
-            "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425547/bracco-diagnostics-inc-bracco-avicennaai-get-fda-clearance-for-brain-aneurysm-ai-software",
-            "accent": "#00897b",
-            "motif": "sphere",
-            "image": "pipeline/media/bracco-uptunity-aneurysm.jpg",
-            "source_lang": "en",
-            "headline": "FDA clears aneurysm AI",
-            "body": "Uptunity Aneurysm flags suspected brain aneurysms over 3 mm on head CTA and tracks known ones across exams.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "npj-ai-malfunction-oversight",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "npj Digital Medicine",
-            "url": "https://www.nature.com/articles/s41746-026-03410-x",
-            "accent": "#3b6bff",
-            "motif": "sphere",
-            "image": "pipeline/media/npj-ai-malfunction-oversight.png",
-            "source_lang": "en",
-            "headline": "Doctors miss failing AI",
-            "body": "In a randomized study of 48 physicians, diagnostic performance fell as a cardiac auscultation AI grew less reliable.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "samsung-heidi-ambient-scribe",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "청년의사",
-            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044540",
-            "accent": "#eb367f",
-            "motif": "sphere",
-            "image": "pipeline/media/samsung-heidi-ambient-scribe.jpg",
-            "source_lang": "ko",
-            "headline": "Samsung Medical Center partners with Heidi",
-            "body": "Samsung Medical Center signed an MOU with Heidi and plans to bring AI clinical documentation to DARWIN.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gangwon-public-ai-highway",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "청년의사",
-            "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044493",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/gangwon-public-ai-highway.jpg",
-            "source_lang": "ko",
-            "headline": "Public healthcare AI highway opens",
-            "body": "A pilot public healthcare AI highway now links Kangwon National University Hospital and Yeongwol Medical Center.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "dyania-nvidia-onprem",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "Fierce Healthcare",
-            "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/dyania-nvidia-onprem.jpg",
-            "source_lang": "en",
-            "headline": "Chart AI stays in-house",
-            "body": "Dyania Health will run its Synapsis reasoning AI on hospital-owned Nvidia systems, keeping patient data in-house.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -4899,6 +4790,89 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "medicine-mohw-ops-ai-reward",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "의학신문",
+            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016746",
+            "accent": "#00897b",
+            "motif": "sphere",
+            "image": "pipeline/media/medicine-mohw-ops-ai-reward.jpg",
+            "source_lang": "ko",
+            "headline": "Operations AI may earn rewards",
+            "body": "The ministry is weighing rewards for hospital operations AI that is not a medical device if patient benefit is proven.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "gehc-feeding-tube-xray-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "AuntMinnie",
+            "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16541813/ge-healthcare-gehc-gets-fda-clearance-for-feeding-tube-ai-on-mobile-xray",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "source_lang": "en",
+            "headline": "FDA clears GEHC feeding tube AI",
+            "body": "FDA cleared GE HealthCare's on-device x-ray AI that traces feeding tube placement, now extended to pediatric patients.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "chile-preterm-ultrasound-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "Radiology Business",
+            "url": "https://radiologybusiness.com/topics/artificial-intelligence/ultrasound-ai-predicts-preterm-birth-risk-using-routine-prenatal-scans",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/chile-preterm-ultrasound-ai.jpg",
+            "source_lang": "en",
+            "headline": "AI reads preterm risk from scans",
+            "body": "A routine 23-week ultrasound scan let AI predict early delivery with 86% accuracy in 2,550 Chilean pregnancies.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "suki-agentic-os-launch",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "Healthcare Dive",
+            "url": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/suki-agentic-os-launch.jpg",
+            "source_lang": "en",
+            "headline": "Suki launches agentic OS",
+            "body": "Suki launched an agentic operating system that takes its AI scribe beyond notes into wider health system workflows.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "nference-pluvicto-response-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "AuntMinnie",
+            "url": "https://www.auntminnie.com/resources/conference/rsna/2026/molecular-imaging-preview/article/16541880/can-an-ai-model-predict-pluvicto-treatment-response",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "source_lang": "en",
+            "headline": "AI eyes Pluvicto response",
+            "body": "A model pairing PSMA-PET scans with routine lab values may predict which prostate cancer patients respond to Pluvicto.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -4907,46 +4881,35 @@
     "label": "Politics",
     "news": [
       {
-        "id": "oregon-openai-kids-suit",
+        "id": "jacobs-safe-ai-act-outline",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "Oregon Department of Justice",
-        "url": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
+        "source": "Office of Rep. Sara Jacobs (U.S. House)",
+        "url": "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation",
         "accent": "#3b6bff",
         "motif": "cube",
-        "video": "pipeline/media/oregon-openai-kids-suit.mp4",
-        "poster": "pipeline/media/oregon-openai-kids-suit.jpg",
-        "image": "pipeline/media/oregon-openai-kids-suit.jpg",
-        "headline": "Oregon files $2.035B suit\nagainst OpenAI over kids",
-        "body": "Oregon's attorney general alleges that OpenAI endangers children and misled parents about ChatGPT's safety.",
-        "mini_headline": "Oregon sues OpenAI over kids",
+        "headline": "Bipartisan SAFE AI Act\noutline targets frontier labs",
+        "body": "A bipartisan House trio outlined a bill requiring frontier AI labs to adopt safety frameworks and report incidents.",
+        "mini_headline": "SAFE AI Act outline",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "p",
-              "x": "Today, Attorney General Dan Rayfield has launched the Oregon Department of Justice’s Keeping Kids Safe Initiative, announcing an $2.035 billion legal action against OpenAI for endangering kids and lying to parents about the safety of its ChatGPT chatbot. The lawsuit was filed in the Multnomah County Circuit Court."
+              "x": "U.S. Representatives Sara Jacobs (D-CA), Celeste Maloy (R-UT), and Don Beyer (D-VA) released an outline of the Safe and Accountable Federal Evaluations of Artificial Intelligence (SAFE AI) Act, forthcoming bipartisan legislation that would create federal safety requirements for frontier artificial intelligence. It would mandate safety frameworks, incident reporting, and increased transparency from frontier labs with strong government oversight and due process."
             },
             {
               "t": "p",
-              "x": "“OpenAI knows that ChatGPT is harming children, and has failed to meaningfully fix their dangerous platform,” said Attorney General Rayfield. “On top of that, they’ve misled the public about the safety of their products, putting profits ahead of children’s safety.”"
+              "x": "“No industry gets to police itself, and AI shouldn’t be the exception,” said Rep. Sara Jacobs. She said the act puts real guardrails on frontier models, with civil penalties for violations and targeted emergency authority to stop dangerous models when they pose a serious and immediate danger, and that it is “a floor – not a ceiling,” empowering states to adopt stronger protections."
             },
             {
               "t": "p",
-              "x": "The state says OpenAI broke Oregon’s consumer protection law, the Unlawful Trade Practices Act, by misleading the public about how safe ChatGPT is for kids, selling a product with serious safety problems it didn’t disclose, and using unfair tactics to market the product to children and teens."
+              "x": "“This bill gives them clear rules, brings in an outside set of eyes to check their work, and leaves room for Utah and other states to set safeguards of their own,” said Rep. Celeste Maloy."
             },
             {
               "t": "p",
-              "x": "AG Rayfield’s lawsuit also says OpenAI was negligent, profited unfairly at Oregonians’ expense, and created a public nuisance that threatens the safety and well-being of Oregon kids. The state is asking the court to order OpenAI to stop misleading people about kids’ safety and to put protections in place that actually work."
-            },
-            {
-              "t": "p",
-              "x": "AG Rayfield rolled out the initiative at a press conference today."
-            },
-            {
-              "t": "video",
-              "yt": "pKfyD1xVPqM"
+              "x": "“This outline is a roadmap towards a safer AI future for the country and the world,” said Rep. Don Beyer, adding that the lawmakers are still seeking input on the legislative text from experts and safety leaders, in coordination with committees of jurisdiction."
             }
           ]
         },
@@ -4955,158 +4918,74 @@
         "hasFull": true
       },
       {
-        "id": "uk-mps-ai-watchdog-bill",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Politics",
-        "source": "The Register",
-        "url": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
-        "accent": "#0070f3",
-        "motif": "cube",
-        "image": "pipeline/media/uk-mps-ai-watchdog-bill.jpg",
-        "headline": "UK MPs seek AI watchdog\nthat can halt models",
-        "body": "A UK committee wants an AI Safety and Security Bill with a regulator able to halt training or suspend AI services.",
-        "mini_headline": "UK MPs seek AI watchdog",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nvidia-h200-china-halt",
+        "id": "commerce-china-ai-chip-licenses-879k",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
         "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+        "url": "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure",
+        "accent": "#0070f3",
+        "motif": "cube",
+        "headline": "U.S. approved 879,000\nAI chip sales to China",
+        "body": "Commerce data released by Rep. Brian Mast shows over 879,000 AI chips cleared for China, of about 3.4M requested.",
+        "mini_headline": "879,000 AI chips to China",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "california-sb53-killswitch-next-steps",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Politics",
+        "source": "Office of the Governor of California",
+        "url": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/nvidia-h200-china-halt.jpg",
-        "headline": "Nvidia stops selling\nAI chips to China",
-        "body": "Nvidia says it is no longer shipping licensed Hopper data-center chips to China, despite White House approval to do so.",
-        "mini_headline": "Nvidia halts China AI chips",
+        "image": "pipeline/media/california-sb53-killswitch-next-steps.png",
+        "headline": "California moves toward\nmandatory AI safety rules",
+        "body": "New California recommendations urge mandatory AI safety standards, independent oversight and a kill switch.",
+        "mini_headline": "California eyes AI kill switch",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "saskatchewan-deceptive-ai-act",
+        "id": "baltimore-doritos-gun-alert-lawsuit",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "Government of Saskatchewan",
-        "url": "https://www.saskatchewan.ca/government/news-and-media/2026/november/17/strong-and-steady-saskatchewan-government-introduces-protections-against-deceptive-ai",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
         "accent": "#2ec5c5",
         "motif": "cube",
-        "headline": "Saskatchewan moves to curb\ndeceptive AI and deepfakes",
-        "body": "Saskatchewan's new bill would let courts order deceptive AI content such as deepfakes removed and award compensation.",
-        "mini_headline": "Saskatchewan targets deepfakes",
+        "image": "pipeline/media/baltimore-doritos-gun-alert-lawsuit.jpg",
+        "headline": "Doritos bag flagged as gun\nleads teens to sue school",
+        "body": "Four Baltimore County students sued schools and police, alleging over 99% of AI gun alerts were false positives.",
+        "mini_headline": "Doritos AI gun alert lawsuit",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "ofqual-ai-smart-glasses-exams",
+        "id": "dutch-dpa-ai-smart-glasses-warning",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "GOV.UK (Ofqual)",
-        "url": "https://www.gov.uk/government/publications/letter-to-awarding-organisations-about-misuse-of-ai-and-wearable-technology",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
         "accent": "#eb367f",
         "motif": "cube",
-        "headline": "England's exam regulator\nwarns on AI and wearables",
-        "body": "Ofqual wrote to exam boards on AI in non-exam assessments and the misuse of AI-enabled wearable technology.",
-        "mini_headline": "Ofqual warns on AI in exams",
+        "image": "pipeline/media/dutch-dpa-ai-smart-glasses-warning.jpg",
+        "headline": "Dutch privacy watchdog warns\nagainst AI smart glasses",
+        "body": "The Dutch data watchdog advised against buying AI smart glasses, citing test failures and bystander privacy risks.",
+        "mini_headline": "Dutch warning on AI glasses",
         "lang": "en",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-14",
-        "cards": [
-          {
-            "id": "politics-ama-ai-liability",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "Axios",
-            "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
-            "accent": "#3b6bff",
-            "motif": "cube",
-            "image": "pipeline/media/politics-ama-ai-liability.jpg",
-            "source_lang": "en",
-            "headline": "AMA seeks AI liability shield",
-            "body": "The AMA urged laws to shield doctors when AI harms patients and to make AI vendors carry liability insurance.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-openai-ontario-appeal",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "Toronto Star (The Canadian Press)",
-            "url": "https://www.thestar.com/business/court-allows-news-publishers-copyright-lawsuit-against-openai-to-go-ahead/article_5e78ecd0-e974-554c-a739-662e0f68b658.html",
-            "accent": "#0070f3",
-            "motif": "cube",
-            "image": "pipeline/media/politics-openai-ontario-appeal.jpg",
-            "source_lang": "en",
-            "headline": "OpenAI copyright suit stays in Canada",
-            "body": "An Ontario appeals court dismissed OpenAI's appeal, letting publishers' ChatGPT copyright suit proceed in Canada.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-indonesia-copyright-bill",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "Nieman Lab",
-            "url": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/politics-indonesia-copyright-bill.jpg",
-            "source_lang": "en",
-            "headline": "Indonesia eyes AI news payments",
-            "body": "Indonesia's bill would make platforms pay publishers for previews, AI search and training, a first for Southeast Asia.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-malaysia-megaspeed-probe",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "연합뉴스",
-            "url": "https://www.yna.co.kr/view/AKR20261113115800104",
-            "accent": "#2ec5c5",
-            "motif": "cube",
-            "image": "pipeline/media/politics-malaysia-megaspeed-probe.jpg",
-            "source_lang": "ko",
-            "headline": "Malaysia probes AI chip diversion",
-            "body": "Malaysia's government has begun investigating whether a Megaspeed subsidiary diverted AI chips.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-whitehall-ai-applications",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "POLITICO Europe",
-            "url": "https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/",
-            "accent": "#ff5a4d",
-            "motif": "cube",
-            "image": "pipeline/media/politics-whitehall-ai-applications.jpg",
-            "source_lang": "en",
-            "headline": "Whitehall plans in-person interviews",
-            "body": "Civil service leaders suspect some applications were wholly AI-generated, so Whitehall plans more in-person interviews.",
-            "lang": "en",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "cards": [
@@ -5445,6 +5324,89 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-19",
+        "cards": [
+          {
+            "id": "oregon-openai-kids-suit",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "Oregon Department of Justice",
+            "url": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
+            "accent": "#3b6bff",
+            "motif": "cube",
+            "image": "pipeline/media/oregon-openai-kids-suit.jpg",
+            "source_lang": "en",
+            "headline": "Oregon sues OpenAI over kids",
+            "body": "Oregon's attorney general alleges that OpenAI endangers children and misled parents about ChatGPT's safety.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "uk-mps-ai-watchdog-bill",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "The Register",
+            "url": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/uk-mps-ai-watchdog-bill.jpg",
+            "source_lang": "en",
+            "headline": "UK MPs seek AI watchdog",
+            "body": "A UK committee wants an AI Safety and Security Bill with a regulator able to halt training or suspend AI services.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "nvidia-h200-china-halt",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/nvidia-h200-china-halt.jpg",
+            "source_lang": "en",
+            "headline": "Nvidia halts China AI chips",
+            "body": "Nvidia says it is no longer shipping licensed Hopper data-center chips to China, despite White House approval to do so.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "saskatchewan-deceptive-ai-act",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "Government of Saskatchewan",
+            "url": "https://www.saskatchewan.ca/government/news-and-media/2026/november/17/strong-and-steady-saskatchewan-government-introduces-protections-against-deceptive-ai",
+            "accent": "#2ec5c5",
+            "motif": "cube",
+            "source_lang": "en",
+            "headline": "Saskatchewan targets deepfakes",
+            "body": "Saskatchewan's new bill would let courts order deceptive AI content such as deepfakes removed and award compensation.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "ofqual-ai-smart-glasses-exams",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "GOV.UK (Ofqual)",
+            "url": "https://www.gov.uk/government/publications/letter-to-awarding-organisations-about-misuse-of-ai-and-wearable-technology",
+            "accent": "#eb367f",
+            "motif": "cube",
+            "source_lang": "en",
+            "headline": "Ofqual warns on AI in exams",
+            "body": "Ofqual wrote to exam boards on AI in non-exam assessments and the misuse of AI-enabled wearable technology.",
+            "lang": "en",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -5462,46 +5424,49 @@
   "medicine",
   "politics"
 ];
-  window.AX_ARCHIVE_TOTAL = 4500;
+  window.AX_ARCHIVE_TOTAL = 4600;
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [
   {
-    "id": "design-stitch-loop-agent",
+    "id": "canva-ai-off-switch",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
-    "tool": "Figma",
-    "source": "Google (The Keyword)",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
-    "accent": "#0070f3",
+    "tool": "AI Workflow",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+    "accent": "#ff5a4d",
     "motif": "frame",
-    "image": "pipeline/media/design-stitch-loop-agent.jpg",
-    "headline": "Google Stitch Loop keeps\nimproving after launch",
-    "body": "Stitch Loop is a long-running agent that watches a live codebase and metrics, then opens pull requests with fixes.",
-    "mini_headline": "Stitch Loop works past launch",
+    "image": "pipeline/media/canva-ai-off-switch.png",
+    "headline": "Canva adds a switch to\nturn most AI features off",
+    "body": "Canva now lets free and paid users switch off most generative AI features and see less AI-made content.",
+    "mini_headline": "Canva adds an AI off switch",
     "full": {
       "mode": "summary",
       "blocks": [
         {
           "t": "img",
-          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.width-1300.png",
-          "cap": "Stitch Loop"
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
           "t": "p",
-          "x": "Coding agents let you build and ship new features fast, but their job ends the moment your pull request merges. Today, Google Labs is introducing Stitch Loop, a long-running product agent that connects to your codebase and live metrics, finds what needs fixing, and keeps working 24/7 on your product until your goals are met. It is part of a new direction for Stitch, which millions of designers, developers, and founders already use to turn ideas into working interfaces in minutes."
+          "x": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform’s array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot."
         },
         {
           "t": "p",
-          "x": "You connect GitHub and your product context (logs, user behavior, feedback) with over 180 integrations, custom MCP servers, or local CLI uploads. Each loop runs through four steps: Suggestions grounded in evidence; Solutions with tradeoffs, scoping and visual design options where applicable; Build, where Stitch Loop writes code in an isolated cloud sandbox and opens a GitHub pull request; and Reflect, where it monitors live product data and keeps watching in case the metric slips. Nothing merges until you review the PR."
+          "x": "This toggle doesn’t turn off every AI-powered feature on Canva, however. Canva’s background remover and its Magic Grab tool stay on because they “make everyday tasks faster without generating anything new.” The toggle still turns off Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes, and more."
         },
         {
           "t": "img",
-          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CleanShot_2026-11-17_at_13.01.13.width-1200.format-webp.webp",
-          "cap": "Stitch Loop UI"
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
+          "cap": "You can also select an option to see less AI-generated content in Canva’s library."
         },
         {
           "t": "p",
-          "x": "Built-in loops cover cybersecurity, latency, and accessibility, and you can create custom loops like improving checkout conversion. The security loop pairs Gemini 4 Carbon's cyber security capabilities with CodeMender, Google DeepMind's autonomous agent that improves code security. Coding agents like Google Antigravity can pull product context via the Stitch CLI and MCP, and in Slack @stitch delivers daily insight digests. The waitlist opens today for all users, globally, with eligible Google AI Ultra users getting priority access."
+          "x": "A second toggle shows human-created content first when searching Canva’s library for templates, graphics, and other design elements. Canva says a “small portion” of its library is AI-generated, and any design using those elements will have an AI label in its metadata."
+        },
+        {
+          "t": "p",
+          "x": "The settings live under Profile > Settings > Permission (Enable generative AI features) and Profile > Your account > AI personalization. They are available to both free and paid users."
         }
       ]
     },
@@ -5510,164 +5475,77 @@
     "hasFull": true
   },
   {
-    "id": "snap-easy-lens-cli",
+    "id": "supernova-agentsmd-audit",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
-    "tool": "VR Prototype",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-    "accent": "#eb367f",
-    "motif": "headset",
-    "video": "pipeline/media/snap-easy-lens-cli.mp4",
-    "poster": "pipeline/media/snap-easy-lens-cli.jpg",
-    "image": "pipeline/media/snap-easy-lens-cli.jpg",
-    "headline": "Snap brings AR Lens building\ninto AI coding assistants",
-    "body": "Snap's Easy Lens CLI puts its prompt-to-Lens generator inside Claude Code, Cursor and Codex for AR creators.",
-    "mini_headline": "Snap Lenses meet coding agents",
+    "tool": "Design Tokens",
+    "source": "Supernova",
+    "url": "https://www.supernova.io/blog/agents-md-design-system",
+    "accent": "#2ec5c5",
+    "motif": "swatch",
+    "image": "pipeline/media/supernova-agentsmd-audit.png",
+    "headline": "Design-system agent files\nskip the teams using them",
+    "body": "Supernova audited 30 design-system repos: 16 have agent files, but none are written for consuming teams.",
+    "mini_headline": "AGENTS.md for design systems",
     "lang": "en",
     "hasFull": true,
     "locked": true
   },
   {
-    "id": "figma-multi-image-prompt",
-    "source_lang": "en",
-    "eyebrow": "AI NEWS",
-    "tool": "Figma",
-    "source": "Figma",
-    "url": "https://www.figma.com/release-notes/?title=generate-multiple-images-from-a-single-prompt",
-    "accent": "#3b6bff",
-    "motif": "frame",
-    "image": "pipeline/media/figma-multi-image-prompt.jpg",
-    "headline": "One Figma prompt, up to six\nimages or three models",
-    "body": "Figma's Make image and Edit image can return two, four or six images, or compare one prompt across up to three models.",
-    "mini_headline": "Figma: six images, one prompt",
-    "lang": "en",
-    "hasFull": true,
-    "locked": true
-  },
-  {
-    "id": "comfy-cloud-custom-build",
-    "source_lang": "en",
-    "eyebrow": "AI NEWS",
-    "tool": "KeyShot",
-    "source": "ComfyUI Blog",
-    "url": "https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy",
-    "accent": "#f5a623",
-    "motif": "sphere",
-    "video": "pipeline/media/comfy-cloud-custom-build.mp4",
-    "poster": "pipeline/media/comfy-cloud-custom-build.jpg",
-    "image": "pipeline/media/comfy-cloud-custom-build.jpg",
-    "headline": "Comfy Cloud now runs your\nteam's custom ComfyUI",
-    "body": "Comfy Cloud now hosts a team's own ComfyUI build, with its custom nodes, models and LoRAs, on every paid plan.",
-    "mini_headline": "Custom ComfyUI goes cloud",
-    "lang": "en",
-    "hasFull": true,
-    "locked": true
-  },
-  {
-    "id": "rayon-v4-browser-cad",
+    "id": "pliera-bim-revit",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
     "tool": "Text-to-CAD",
     "source": "AEC Magazine",
-    "url": "https://aecmag.com/cad/rayon-v4-a-different-bet-on-the-future-of-cad/",
+    "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
     "accent": "#7928ca",
     "motif": "cube",
-    "image": "pipeline/media/rayon-v4-browser-cad.jpg",
-    "headline": "Rayon V4 adds 3D and an AI\nagent to browser CAD",
-    "body": "Rayon V4 brings 3D modelling, an AI agent and generative rendering to its Figma-like browser CAD for interiors.",
-    "mini_headline": "Rayon V4 goes 3D with AI",
+    "image": "pipeline/media/pliera-bim-revit.jpg",
+    "headline": "Pliera pitches AI-assisted BIM\nas a challenger to Revit",
+    "body": "Pliera pairs BIM modelling with AI-generated parametric objects and building configurators to take on Revit.",
+    "mini_headline": "Pliera takes aim at Revit",
+    "lang": "en",
+    "hasFull": true,
+    "locked": true
+  },
+  {
+    "id": "nvidia-omniverse-sim-agents",
+    "source_lang": "en",
+    "eyebrow": "AI NEWS",
+    "tool": "Omniverse",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "accent": "#f5a623",
+    "motif": "sphere",
+    "video": "pipeline/media/nvidia-omniverse-sim-agents.mp4",
+    "poster": "pipeline/media/nvidia-omniverse-sim-agents.jpg",
+    "image": "pipeline/media/nvidia-omniverse-sim-agents.jpg",
+    "headline": "NVIDIA pairs coding agents\nwith Omniverse simulation",
+    "body": "Developers pair coding agents with Omniverse libraries to build simulations and iterate on designs from a prompt.",
+    "mini_headline": "Omniverse meets coding agents",
+    "lang": "en",
+    "hasFull": true,
+    "locked": true
+  },
+  {
+    "id": "too-claudified-motion",
+    "source_lang": "en",
+    "eyebrow": "AI NEWS",
+    "tool": "Figma",
+    "source": "UX Collective",
+    "url": "https://uxdesign.cc/too-claudified-9af067298b2a",
+    "accent": "#0070f3",
+    "motif": "frame",
+    "image": "pipeline/media/too-claudified-motion.jpg",
+    "headline": "A client rejects AI motion\nwork as too Claudified",
+    "body": "A client rejected AI-built motion work as too Claudified, renewing a designer's case that AI design converges.",
+    "mini_headline": "Too Claudified",
     "lang": "en",
     "hasFull": true,
     "locked": true
   }
 ];
   window.AX_DAYS = [
-  {
-    "date": "2026-11-14",
-    "cards": [
-      {
-        "id": "mit-structure-copilot",
-        "eyebrow": "AI NEWS",
-        "tool": "Text-to-CAD",
-        "source": "MIT News",
-        "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-        "accent": "#7928ca",
-        "motif": "cube",
-        "image": "pipeline/media/mit-structure-copilot.jpg",
-        "source_lang": "en",
-        "headline": "MIT design copilot asks first",
-        "body": "An MIT copilot pauses mid-generation to ask designers for feedback, yielding parts with higher buckling loads.",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "keyshot-studio-20263-agent",
-        "eyebrow": "AI NEWS",
-        "tool": "KeyShot",
-        "source": "KeyShot",
-        "url": "https://www.keyshot.com/blog/keyshot-introduces-single-sign-on-ai-agent-and-more/",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/keyshot-studio-20263-agent.jpg",
-        "source_lang": "en",
-        "headline": "KeyShot gets an AI Agent",
-        "body": "KeyShot Studio 2026.3 builds an AI Agent into the renderer, alongside personal cloud storage and enterprise SSO.",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "google-a2ui-v1-stable",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Google Developers Blog",
-        "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/google-a2ui-v1-stable.jpg",
-        "source_lang": "en",
-        "headline": "A2UI hits 1.0",
-        "body": "Google's A2UI 1.0 protocol lets agents answer with interactive interface components instead of walls of text.",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "hf-trellis2-lora-guide",
-        "eyebrow": "AI NEWS",
-        "tool": "KeyShot",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/3d-lora-finetuning",
-        "accent": "#eb367f",
-        "motif": "sphere",
-        "image": "pipeline/media/hf-trellis2-lora-guide.png",
-        "source_lang": "en",
-        "headline": "Fine-tune TRELLIS.2 on your 3D",
-        "body": "Hugging Face released scripts and containers to LoRA-fine-tune the TRELLIS.2 image-to-3D model on your own assets.",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "google-labs-tabletop-canvas",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "source": "Google",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/google-labs-tabletop-canvas.jpg",
-        "source_lang": "en",
-        "headline": "Tabletop: apps for groups",
-        "body": "Google Labs' Tabletop turns a group's description of an itinerary, poll or bracket into a shared multiplayer space.",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      }
-    ]
-  },
   {
     "date": "2026-11-15",
     "cards": [
@@ -6002,6 +5880,91 @@
         "source_lang": "en",
         "headline": "Tripo's print agent",
         "body": "At Formnext, Tripo previewed its H3.5 model and Polipop, an agent that carries an idea from modeling to the printer.",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "cards": [
+      {
+        "id": "design-stitch-loop-agent",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "source": "Google (The Keyword)",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/design-stitch-loop-agent.jpg",
+        "source_lang": "en",
+        "headline": "Stitch Loop works past launch",
+        "body": "Stitch Loop is a long-running agent that watches a live codebase and metrics, then opens pull requests with fixes.",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "snap-easy-lens-cli",
+        "eyebrow": "AI NEWS",
+        "tool": "VR Prototype",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+        "accent": "#eb367f",
+        "motif": "headset",
+        "image": "pipeline/media/snap-easy-lens-cli.jpg",
+        "source_lang": "en",
+        "headline": "Snap Lenses meet coding agents",
+        "body": "Snap's Easy Lens CLI puts its prompt-to-Lens generator inside Claude Code, Cursor and Codex for AR creators.",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "figma-multi-image-prompt",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "source": "Figma",
+        "url": "https://www.figma.com/release-notes/?title=generate-multiple-images-from-a-single-prompt",
+        "accent": "#3b6bff",
+        "motif": "frame",
+        "image": "pipeline/media/figma-multi-image-prompt.jpg",
+        "source_lang": "en",
+        "headline": "Figma: six images, one prompt",
+        "body": "Figma's Make image and Edit image can return two, four or six images, or compare one prompt across up to three models.",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "comfy-cloud-custom-build",
+        "eyebrow": "AI NEWS",
+        "tool": "KeyShot",
+        "source": "ComfyUI Blog",
+        "url": "https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/comfy-cloud-custom-build.jpg",
+        "source_lang": "en",
+        "headline": "Custom ComfyUI goes cloud",
+        "body": "Comfy Cloud now hosts a team's own ComfyUI build, with its custom nodes, models and LoRAs, on every paid plan.",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "rayon-v4-browser-cad",
+        "eyebrow": "AI NEWS",
+        "tool": "Text-to-CAD",
+        "source": "AEC Magazine",
+        "url": "https://aecmag.com/cad/rayon-v4-a-different-bet-on-the-future-of-cad/",
+        "accent": "#7928ca",
+        "motif": "cube",
+        "image": "pipeline/media/rayon-v4-browser-cad.jpg",
+        "source_lang": "en",
+        "headline": "Rayon V4 goes 3D with AI",
+        "body": "Rayon V4 brings 3D modelling, an AI agent and generative rendering to its Figma-like browser CAD for interiors.",
         "lang": "en",
         "hasFull": true,
         "locked": true

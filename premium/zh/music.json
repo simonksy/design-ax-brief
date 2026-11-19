@@ -10755,6 +10755,135 @@
           "x": "新的文字与视觉过滤器旨在拦截试图生成特定艺人、公众人物、受版权保护作品及IP形象的上传和提示。生成内容在展示前会依据Community Guidelines进行审核，Audible Magic、ACRCloud和Musixmatch协助拦截受版权保护的音频，Visuals内容在分享到平台之外前会嵌入水印。"
         }
       ]
+    },
+    "music/umg-ai-kill-switch-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Deezer本周早些时候发布的一项调查称，41%的听众希望“在音乐流媒体平台上过滤掉100% AI生成（AI-generated）的音乐”。不过，UMG也一直在就这一问题开展自己的研究，得出的数字更高：68%的听众希望为AI音乐设置“一键屏蔽开关”（kill switch）。"
+        },
+        {
+          "t": "p",
+          "x": "“绝大多数消费者要求透明。他们希望[AI-generated]内容被识别出来，希望内容带有标注。越来越多的人在寻找我们所说的一键屏蔽开关。”UMG的EVP兼首席数字官Michael Nash本周在Morgan Stanley European Technology, Media and Telecom Conference的UMG专场上这样表示。"
+        }
+      ]
+    },
+    "music/neutone-terra-drum-synth": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CyerBPkloAM"
+        },
+        {
+          "t": "p",
+          "x": "Neutone以抢先体验形式发布了Terra，这是一款支持AU和VST3、围绕地图式（map-based）探索打造的神经鼓合成器。每张地图都提供一个连续空间，用来探索模拟与数字鼓声，涵盖鼓、FM、Foley和FX。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
+          "cap": "Terra界面"
+        },
+        {
+          "t": "p",
+          "x": "Terra不含任何采样：每一次击打都是实时合成的。用户可以在地图上绘制路径来构建节奏，引擎则为每个声音生成无穷无尽的细微变化。"
+        },
+        {
+          "t": "p",
+          "x": "功能包括无限轮替采样（round-robins）、声音之间的平滑渐变、用于生成式声音设计的Drift模式、50+张可供探索的地图，以及完全随机的套鼓生成。"
+        },
+        {
+          "t": "p",
+          "x": "Terra目前处于抢先体验阶段，在2026年12月正式发布前可免费试用。完成反馈问卷的抢先体验用户可以按$49的首发价购买，而不是$99。"
+        }
+      ]
+    },
+    "music/sonible-pure-smooth-resonance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
+          "cap": "图片：sonible"
+        },
+        {
+          "t": "p",
+          "x": "sonible发布了AI驱动（AI-powered）的共振抑制插件pure:smooth。"
+        },
+        {
+          "t": "p",
+          "x": "pure:smooth是一款去刺耳（de-harsher）插件，能找出并削减音频中令人不适的共振和刺耳频段。用户无需手动寻找问题频率，就能自动获得更平滑、更均衡的声音。"
+        },
+        {
+          "t": "p",
+          "x": "用户选定音源配置后，插件会分析音频并自动调整处理方式。它适用于人声、吉他、鼓、合成器和弦乐等多种音源。"
+        },
+        {
+          "t": "video",
+          "yt": "yjnmUv3_2aM"
+        },
+        {
+          "t": "p",
+          "x": "其控制项包括Smoothing、Resolution、Shaping、Frequency Range和Feedback。Smoothing设定共振削减量，Resolution在宽泛的音色平滑与精确的共振削减之间切换。Shaping让用户保留原有的音色平衡，或施加更明显的频谱调整。"
+        },
+        {
+          "t": "p",
+          "x": "Frequency Range将处理限定在特定频段。Feedback实时显示所施加的削减量。借助Difference Monitoring，用户还能准确听到被去除的内容。"
+        },
+        {
+          "t": "p",
+          "x": "正式价格为€39，12月14日前可享€25的首发优惠价。该插件在macOS和Windows上支持VST3、AU和AAX格式。"
+        }
+      ]
+    },
+    "music/eu-ministers-ai-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "EU各国文化部长正在布鲁塞尔开会。会前，德国和奥地利政府提出一项大胆提议，要求强制将TikTok Europe转为欧洲所有。TikTok一位发言人对Politico表示，该提议“毫无价值”。"
+        },
+        {
+          "t": "p",
+          "x": "另有十一个EU成员国支持呼吁欧盟委员会（European Commission）起草法律改革方案，在AI背景下加强欧洲的版权保护。一份经这些国家文化部长认可的文件称，AI“给人类的创作过程以及人们对艺术和文化的感知与体验带来了深刻剧变”，并补充说：“我们呼吁European Commission尽快提出立法提案。”"
+        },
+        {
+          "t": "p",
+          "x": "问题的核心在于AI公司复制现有内容来训练AI模型时所承担的版权和透明度义务。许多AI公司声称，EU法律中的文本与数据挖掘版权例外涵盖AI训练。Euronews指出，许多EU国家政府内部存在分歧：经济部门往往站在AI公司一边，文化部门则站在创作者和权利人一边。"
+        }
+      ]
+    },
+    "music/google-flow-music-residency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/2f094abb31ddfdc98f68027dbd129ceb064288f0-512x406.png?w=512&q=75&auto=format&h=406",
+          "cap": "用Google Spaces打造的vibe-coded工具。图片来源：Google"
+        },
+        {
+          "t": "p",
+          "x": "Google正试图证明AI不会取代艺术家。过去一年，它陆续推出了一系列生成式AI音乐功能，其中包括Flow Music——这是它在2月收购初创公司ProducerAI时获得的工具，用户只需一个提示词即可生成歌曲。但该公司向艺术家传达的是，这项技术也能像Auto-Tune或MIDI一样，成为创作过程中的工具。"
+        },
+        {
+          "t": "p",
+          "x": "Google今年早些时候推出了艺术家驻留计划Flow Music Sessions。驻留艺术家在Spaces中工作，这是Flow Music沿袭自ProducerAI的一项功能，可让艺术家通过氛围编程自制工具和插件。"
+        },
+        {
+          "t": "p",
+          "x": "“我对用提示词生成一整首歌并不太感兴趣，因为对我来说最有趣的部分是写词、演唱和合作。”声音设计师、驻留艺术家Avanti Singh对Semafor表示。制作人Mike Costanzo在Spaces中打造了一款“perfect kick”插件，他说这缩短了为歌曲寻找合适底鼓的时间。"
+        },
+        {
+          "t": "p",
+          "x": "一群独立音乐人和词曲作者于3月起诉Google，指控其未经许可、未付报酬，就用YouTube上受版权保护的录音训练音乐模型Lyria 3。Google已申请驳回诉讼，理由是上传到YouTube的音乐在接受平台服务条款时，就已广泛授权用于AI训练。"
+        }
+      ]
     }
   }
 }
