@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "issue": "결제가 대화창 안으로",
+    "date": "2026.11.20",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(전자신문 11.16→11.15, PPC Land 11.17→11.16, TechCrunch 11.18→11.17, 바이라인 11.19→11.18, Retail Dive 11.20→11.19). 수치 4배 이상·1만 개 브랜드·12월 16일·15곳·약 두 배 확인. 11-15 게시 회차(결제 앞에서 멈춤)와 겹치는 Salesforce 카드는 뺐다.",
+    "sources": [
+      "전자신문 — 현대백화점, 챗GPT에 '더현대 하이' 플러그인 서비스 출시 (2026.11.15)",
+      "PPC Land — Google steers holiday hotel, dinner and ticket bookings into AI Mode (2026.11.16)",
+      "TechCrunch — Daydream's new AI agent acts as your personal stylist — and can shop for you, too (2026.11.17)",
+      "바이라인네트워크 — 카카오, 내달 파트너사 대상 '비즈니스 에이전트 연동 플랫폼' 공개 (2026.11.18)",
+      "Retail Dive — Target's AI shopping assistant is driving sales (2026.11.19)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 11.15~11.19",
+      "thread": [
+        {
+          "d": "11.15",
+          "t": "백화점",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.16",
+          "t": "Google",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.17",
+          "t": "스타일리스트",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.18",
+          "t": "카톡",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.19",
+          "t": "Target",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "AI 쇼핑이 추천에서 끝나지 않고 결제까지 대화창 안으로 끌어온다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "결제가 대화창\n안으로 들어온다",
+      "body": "한 건씩 보면 기능 추가다. 그런데 닷새 사이 백화점·검색·스타트업·메신저·대형마트가 줄지어 구매를 AI 안으로 끌어왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.15",
+      "headline": "챗GPT에서 오는 손님",
+      "body": "현대백화점이 챗GPT 안에 더현대 하이를 붙였다. 추천은 대화창에서 받고, 링크를 누르면 구매·결제로 이어진다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.etnews.com/20261115000021",
+      "_id": "thehyundai-hi-chatgpt-plugin",
+      "stat_top": "작년 추석 대비",
+      "stat_arrow": "생성형 AI 타고 온 접속",
+      "stat_bottom": "4배 이상",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "호텔 예약, AI Mode에서",
+      "body": "Google은 미국에서 호텔을 AI Mode 안에서 Google Pay로 예약하게 한다. 호텔·여행 사이트 페이지는 거치지 않는다.",
+      "foot": "2026.11.16",
+      "_src": "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/",
+      "_id": "google-aimode-hotel-booking",
+      "media": "pipeline/media/google-aimode-hotel-booking.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "스타일리스트가 결제까지",
+      "body": "Daydream Agent는 취향·핏·예산을 기억해 고르고, 원클릭 결제로 구매까지 마친다. 1만 개 넘는 브랜드를 다룬다.",
+      "foot": "2026.11.17",
+      "_src": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "_id": "daydream-stylist-shopping-agent",
+      "media": "pipeline/media/daydream-stylist-shopping-agent.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "카톡 안에서 주문·결제",
+      "body": "카카오는 12월 16일 배달·편의점·홈쇼핑 등 15곳과 카톡 속 AI 주문·결제를 공개한다. 결제는 카카오페이로 한다.",
+      "foot": "2026.11.18",
+      "_src": "https://byline.network/2026/11/18_391287374/",
+      "_id": "kakao-kanana-commerce",
+      "media": "pipeline/media/kakao-kanana-commerce.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "AI 비서, 구매로 잇다",
+      "body": "Target CEO는 실적 콜에서 Ask Target을 쓴 고객의 구매 전환이 다른 경로의 약 두 배라고 했다. 아직 베타다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
+      "_id": "target-ask-target-sales",
+      "stat_top": "다른 경로 대비",
+      "stat_arrow": "Ask Target 쓴 고객의 구매율",
+      "stat_bottom": "약 두 배",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

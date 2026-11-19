@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 음악, 가려 듣는 쪽으로",
+    "date": "2026.11.20",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조(Music Ally 2건은 앞부분만 열려 아카이브 본문 요약과 맞춰 봄): 날짜를 원문 게재일로 고침(Deezer·Spotify 11.18→11.17, SoundCloud 11.19→11.17, UMG 11.20→11.19). 수치 9,000명·8개국·41%, 260,000곡·여덟 달, 85%·제휴 10건, 68% 확인. 사진은 Spotify 한 장만 쓰고 나머지는 stat/quote.",
+    "sources": [
+      "Music Ally — Deezer report finds shrinking belief that fully-AI music will be popular (2026.11.17)",
+      "TechCrunch — Spotify's new tool aims to stop deepfakes from being attributed to real artists (2026.11.17)",
+      "Billboard — SoundCloud CEO Talks AI Policies: 'Wishing Away the Advent of AI Music Is Not a Strategy' (2026.11.17)",
+      "Music Ally — UMG says 68% of listeners want a 'kill switch' for AI music (2026.11.19)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.17~11.19",
+      "thread": [
+        {
+          "d": "11.17",
+          "t": "청취자 조사",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.17",
+          "t": "이름 보호",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.17",
+          "t": "가짜 차단",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.19",
+          "t": "킬 스위치",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 음악을 막느냐보다, 듣는 쪽이 가려낼 수 있느냐로 옮겨 간다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 음악,\n가려 듣는 쪽으로",
+      "body": "설문 하나, 기능 하나로는 작아 보인다. 사흘 사이 청취자는 끄는 버튼을 원했고, 플랫폼은 거르는 장치를 내놨다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "완전 AI 음악,\n기대가 꺾였다",
+      "body": "Deezer가 Ipsos와 8개국 9,000명에게 물었다. 완전 AI 음악이 인기를 끌 거라 믿는 사람이 줄었다.",
+      "foot": "2026.11.17",
+      "_src": "https://musically.com/2026/11/17/deezer-report-ai-music-2026/",
+      "_id": "deezer-ipsos-ai-survey",
+      "stat_top": "8개국 9,000명 중",
+      "stat_arrow": "100% AI 곡을 걸러내고 싶다",
+      "stat_bottom": "41%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "내 이름 단 곡,\n내가 거른다",
+      "body": "Spotify가 모든 아티스트에게 Artist Profile Protection을 열었다. 남의 곡을 내 프로필에서 떼어 낸다.",
+      "foot": "2026.11.17",
+      "_src": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "_id": "spotify-artist-profile-protection",
+      "media": "pipeline/media/spotify-artist-profile-protection.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.17",
+      "headline": "허용하되,\n속이는 AI는 막는다",
+      "body": "SoundCloud는 AI 음악 제휴를 늘리면서도 스트리밍 조작과 기만은 막는 새 규정을 냈다. 청취의 85%가 이용자 콘텐츠다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.billboard.com/pro/soundcloud-ceo-ai-policies-qa/",
+      "_id": "soundcloud-seton-ai-policy",
+      "quote": "AI slop이 설 자리는\nSoundCloud에 없다",
+      "quote_by": "Eliah Seton · SoundCloud CEO, 공개서한"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "청취자는\n끄는 버튼을 원한다",
+      "body": "UMG 자체 조사에선 68%가 AI 음악 킬 스위치를 원했다. UMG는 표시와 식별을 요구하는 목소리가 크다고 했다.",
+      "foot": "2026.11.19",
+      "_src": "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/",
+      "_id": "umg-ai-kill-switch-survey",
+      "stat_top": "Deezer 조사 41%",
+      "stat_arrow": "UMG 조사, 킬 스위치를 원한다",
+      "stat_bottom": "68%",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

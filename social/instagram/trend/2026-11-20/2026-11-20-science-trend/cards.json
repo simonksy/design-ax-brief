@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "issue": "AI 과학, 검증이 승부처",
+    "date": "2026.11.20",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Google 11.16→11.13, Zapata 11.19→11.18, SciAm 11.20→11.19, Ai2 11.20→11.19). Courtade–Kumar(2013)·Lean 4·5천만 줄, ForShor·UMD·Shor 인용, 2025년 논문·하루 미만 반박, 주장별 근거 논문·새로움 판단 확인 필요 문구 확인. ForShor 도식은 글자가 빽빽해 Shor 인용 quote로 바꿈.",
+    "sources": [
+      "Google Research — Advancing science & engineering with Antigravity’s /teamwork (2026.11.13)",
+      "The Quantum Insider — Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research (2026.11.18)",
+      "Scientific American — Ancient Maya site uncovered with ‘vibe archaeology’ ignites firestorm over AI in science (2026.11.19)",
+      "Ai2 — Theorizer comes to Asta (2026.11.19)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 11.13~11.19",
+      "thread": [
+        {
+          "d": "11.13",
+          "t": "기계 증명",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.18",
+          "t": "검증 과제",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.19",
+          "t": "마야 오판",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.19",
+          "t": "근거 이론",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 내놓는 과학에 이제 검증 장치가 함께 따라붙는다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI 과학, 검증이 승부처",
+      "body": "한 건씩 보면 성과 발표다. 그런데 엿새 사이 증명 검사기, 공개 검증 과제, 반박 사례, 근거를 다는 도구가 줄지어 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "증명, 기계가 검산하다",
+      "body": "Gemini가 Courtade–Kumar 추측 증명의 핵심 경계를 세웠다. 전체 증명은 Lean 4 코드 5천만 줄로 형식화됐다.",
+      "foot": "2026.11.13",
+      "_src": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "_id": "science-teamwork-lean-proof",
+      "video": "pipeline/media/science-teamwork-lean-proof.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.18",
+      "headline": "검증을 공개 과제로",
+      "body": "Zapata와 메릴랜드대가 ForShor.ai를 열었다. AI가 낸 양자 알고리즘 결과를 형식 검증된 Shor 알고리즘 위에서 겨룬다.",
+      "foot": "2026.11.18",
+      "_src": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
+      "_id": "zapata-forshor-quantum-verify",
+      "quote": "수학적으로 증명되지 않은 결과는\n믿을 수 없습니다.",
+      "quote_by": "Peter Shor · MIT 교수, Zapata 과학자문위원"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.19",
+      "headline": "AI 발견, 하루 만에 반박",
+      "body": "AI 에이전트 수십 개로 찾았다던 마야 유적은 2025년 논문에 이미 실린 곳이었다. 지적은 하루도 안 돼 나왔다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
+      "_id": "maya-vibe-archaeology",
+      "media": "pipeline/media/maya-vibe-archaeology.png"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.19",
+      "headline": "주장마다 근거 논문을",
+      "body": "Ai2 Asta에 Theorizer가 들어왔다. 논문으로 이론을 세우고 근거를 단다. 새로움 판단은 연구자가 다시 봐야 한다고 했다.",
+      "foot": "2026.11.19",
+      "_src": "https://allenai.org/blog/theorizer-in-asta",
+      "_id": "ai2-asta-theorizer",
+      "media": "pipeline/media/ai2-asta-theorizer.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

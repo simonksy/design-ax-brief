@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "Genie 4 실시간 편집 AI Ultra에 공개",
+    "date": "2026.11.20",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://deepmind.google/blog/genie-4-is-now-available/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 게임 · 2026.11.20",
+      "headline": "Genie 4 실시간 편집 AI…",
+      "body": "Genie 4가 Google AI Ultra 구독자 가운데 대상자에게 차례로 풀린다. 월드는 반응이 더 빨라졌고 여럿이 함께 즐길 수…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/genie4-ultra-rollout.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Genie 4 실시간 편집 AI…",
+      "body": "Genie 4는 지금까지 나온 월드 모델 가운데 가장 사실적이고 상호작용이 풍부하다. 세션 도중에도 프롬프트로 직접 만든 월드를…",
+      "foot": "2026.11.20",
+      "video": "pipeline/media/genie4-ultra-rollout.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Genie 4 실시간 편집 AI…",
+      "body": "새 Project Genie 에이전트는 텍스트나 이미지 프롬프트 하나로 끝나지 않는다. 구상을 자연어로 설명하면 에이전트가…",
+      "foot": "2026.11.20",
+      "video": "pipeline/media/genie4-ultra-rollout.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Genie 4 실시간 편집 AI…",
+      "body": "Project Genie로 만든 영상과 오디오에는 모두 SynthID 워터마크가 붙는다. Google AI Pro 회원은 대기자…",
+      "foot": "2026.11.20",
+      "video": "pipeline/media/genie4-ultra-rollout.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Genie 4 실시간 편집 AI…",
+      "body": "AI Ultra 이용자는 이제 Genie 4 월드를 말로 실시간 편집한다.",
+      "foot": "2026.11.20",
+      "video": "pipeline/media/genie4-ultra-rollout.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

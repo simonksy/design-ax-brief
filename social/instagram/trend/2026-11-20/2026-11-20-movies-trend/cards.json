@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI 더빙, 번지고 선 긋고",
+    "date": "2026.11.20",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 3건 직접 대조(Times Now, AI타임스; Slator 2건은 403이라 수집 당시 enrichment 원문 요약과 candidates의 published_iso로 확인). 날짜를 원문 게재일로 고침(Ramayana 10.27→10.25, CNC 11.17→11.16, Transn 11.18→11.17, 이스트소프트 11.20→11.19). Klemm 소송 카드는 11-06 트렌드에 이미 써서 뺌. 수치 11월 1일·20,000편+·300시간·1,958편·5개국 확인.",
+    "sources": [
+      "Times Now — Ramayana: Producer Namit Malhotra Explains How Human Voices Combined With AI Formed English Dubbing (2026.10.25)",
+      "Slator — French Movie Regulator Won't Fund AI Dubbing and Subtitling (2026.11.16)",
+      "Slator — Chinese Dubbing Firm Reaps AI Savings, Faces Pricing Pressure (2026.11.17)",
+      "AI타임스 — 이스트소프트, AI 더빙으로 K-콘텐츠 중남미 5개국 진출…2년간 300시간 현지화 (2026.11.19)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.25~11.19",
+      "thread": [
+        {
+          "d": "10.25",
+          "t": "대작 립싱크",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.16",
+          "t": "공적 지원",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.17",
+          "t": "2만 편",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.19",
+          "t": "K-FAST",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI 더빙이 대작에서 숏드라마·FAST로 번지자, 공적 지원은 사람 몫에 선을 긋는다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 더빙,\n번지고 선 긋고",
+      "body": "한 건씩 보면 신기술 도입이다. 꿰어 보면 대작·숏드라마·K-콘텐츠로 퍼지는 사이 프랑스가 공적 돈의 선을 그었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.25",
+      "headline": "대작 더빙에도 AI가",
+      "body": "Ramayana Part 1은 힌디어로만 찍었다. 사람이 녹음한 대사에 Brahma AI가 배우의 입 모양을 맞춘다.",
+      "foot": "2026.10.25",
+      "_src": "https://www.timesnownews.com/entertainment-news/bollywood/ramayan-producer-namit-malhotra-explains-how-human-voices-combined-with-ai-formed-english-dubbing-article-156399525",
+      "_id": "movies-ramayana-ai-dub",
+      "media": "pipeline/media/movies-ramayana-ai-dub.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "프랑스, 지원금은 사람에게",
+      "body": "CNC는 11월 1일 신청분부터 더빙 지원금을 대본 작가·성우와 녹음·믹싱에만 쓰게 했다. AI 금지는 아니다.",
+      "foot": "2026.11.16",
+      "_src": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
+      "_id": "cnc-ai-dubbing-funding",
+      "media": "pipeline/media/cnc-ai-dubbing-funding.png"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "숏드라마 더빙, 며칠이면",
+      "body": "Transn은 AI에 사람 검수를 붙여 제작 기간을 며칠로 줄였다. 매출은 늘지만 떨어지는 단가에 쫓긴다.",
+      "foot": "2026.11.17",
+      "_src": "https://slator.com/transn-ai-dubbing-costs-fall/",
+      "_id": "movies-transn-ai-microdrama-dub",
+      "stat_top": "AI + 사람 검수",
+      "stat_arrow": "Transn이 더빙한 마이크로드라마",
+      "stat_bottom": "20,000편+",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "K-콘텐츠, AI 목소리로",
+      "body": "이스트소프트는 숏드라마 1,958편 등에 AI 더빙을 입혀 FAST 채널 2개로 중남미 5개국에 보낸다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.aitimes.kr/news/articleView.html?idxno=42794",
+      "_id": "estsoft-kfast-ai-dubbing",
+      "stat_top": "2년간 AI 더빙",
+      "stat_arrow": "정부 K-FAST 사업으로 현지화한 분량",
+      "stat_bottom": "300시간",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

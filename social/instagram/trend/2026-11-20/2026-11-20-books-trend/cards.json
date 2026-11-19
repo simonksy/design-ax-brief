@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "AI 원고를 거르는 체",
+    "date": "2026.11.20",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(Publishing Perspectives 11.15→11.09, 문화일보 11.16→11.13, 아주경제 11.18→11.16, Esquire 11.19→11.18, Comstock's 11.20→11.18). 수치 2027년 1월·1000편·12월 2일·40%·32.9%(359→477명)·34장 확인. 스틸은 Comstock's 서점 사진 한 장만 두고 나머지는 stat/quote로.",
+    "sources": [
+      "Publishing Perspectives — Around the Book World: Monday, November 9, 2026 (2026.11.09)",
+      "문화일보 — ‘AI 활용 원고’ 신춘문예선 안받습니다 (2026.11.13)",
+      "아주경제 — 투고가 쏟아진다…출판계도 AI 원고에 '골머리' (2026.11.16)",
+      "Esquire — AI-writing accusations and Black writers (2026.11.18)",
+      "Comstock's — AI Is Changing the Book Business. The Literary Community Is Pushing Back (2026.11.18)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 책 · 11.09~11.18",
+      "thread": [
+        {
+          "d": "11.09",
+          "t": "탐지 예고",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.13",
+          "t": "공모 금지",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.16",
+          "t": "투고 급증",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.18",
+          "t": "서점 거부",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.18",
+          "t": "표적 작가",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "AI 원고를 거르는 체가 생겼고, 그 체가 사람 작가를 거른다",
+      "eyebrow": "흐름 · 책",
+      "headline": "AI 원고를\n거르는 체",
+      "body": "한 곳씩 보면 각자의 규칙이다. 꿰어 보면 탐지기와 금지 조항이 번지고, 그 체에 사람 작가가 걸린다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.09",
+      "headline": "AI 탐지,\n출판사마다 갈린다",
+      "body": "Gallimard 모회사 Madrigall은 투고 원고에 AI 탐지를 쓴다. Robert Laffont은 신뢰가 먼저라며 거부했다.",
+      "foot": "2026.11.09",
+      "_src": "https://publishingperspectives.com/2026/11/around-the-book-world-monday-november-9-2026/",
+      "_id": "books-laffont-madrigall-screening",
+      "stat_top": "Laffont은 거부",
+      "stat_arrow": "Madrigall, 투고 원고 AI 탐지",
+      "stat_bottom": "2027년 1월",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.13",
+      "headline": "신춘문예도\nAI 원고 사절",
+      "body": "문화일보 신춘문예엔 지난해 응모작이 1000편 넘게 더 몰렸다. 12월 2일 마감인 올해는 AI 집필 원고를 일절 안 받는다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.munhwa.com/article/11631030",
+      "_id": "books-sinchun-ai-manuscript-ban",
+      "stat_top": "문화일보 신춘문예 응모작",
+      "stat_arrow": "지난해, 전년보다",
+      "stat_bottom": "1000편+",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.16",
+      "headline": "투고는 40% 늘고\n가릴 방법은 없다",
+      "body": "한 출판사 투고가 작년보다 40% 넘게 늘었다. 창비는 AI 제작 작품 응모를 막았지만 가려낼 뚜렷한 방법은 없다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.ajunews.com/view/20261116102705654",
+      "_id": "books-ajunews-ai-manuscripts",
+      "quote": "AI로 쓴 글인지\n확인할 방법은\n사실상 없다",
+      "quote_by": "대형 출판사 관계자 · 아주경제"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "서점은 AI 책을,\n출판사는 원고를",
+      "body": "Sacramento의 한 서점은 AI 책을 안 들이고, Sibylline Press는 AI 의심 원고를 거절한다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.esquire.com/entertainment/books/a74467178/ai-writing-accusations-black-writers/",
+      "_id": "esquire-ai-policing-writers",
+      "media": "pipeline/media/esquire-ai-policing-writers.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.18",
+      "headline": "체에 걸린 건\n흑인·유색인 작가",
+      "body": "34장 전부 AI라는 Pangram 판정이 돈 뒤 Orélien 소설은 공쿠르 후보에서 빠졌다. 의심은 흑인·유색인 작가에게 쏠린다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.comstocksmag.com/web-only/ai-changing-book-business-literary-community-pushing-back",
+      "_id": "comstocks-sacramento-ai-pushback",
+      "stat_top": "Pangram 판정 주장",
+      "stat_arrow": "Orélien 소설, AI로 지목된 장",
+      "stat_bottom": "34장 전부",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
