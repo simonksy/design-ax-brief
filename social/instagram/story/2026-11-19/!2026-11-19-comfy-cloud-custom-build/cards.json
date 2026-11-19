@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "issue": "내 ComfyUI 그대로, Comfy Cloud에서",
+    "date": "2026.11.18",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "Comfy 공식 블로그 원문(blog.comfy.org, Eric Sun, datePublished 2026-11-18T17:06Z = 미국 11월 18일, 한국 11월 19일 02:06)을 받아 대조. 초안 날짜 2026.11.19 → 원문 날짜 2026.11.18로 정정. 확인: 커스텀 빌드는 노드·모델·LoRA·의존성을 묶고 비공개/사내 노드 팩도 포함 가능, Standard부터 모든 유료 플랜 포함, GPU는 RTX PRO 6000(48GB/96GB)~H100·H200·180GB B200, 초 단위 과금 시간당 $1.75~$11.23, 동시 작업 Standard·Creator 2개 ~ Team 20개, 캔버스를 열거나 편집만 해서는 GPU가 켜지지 않으나 keep-alive·웜 상태 작업자는 과금, 팀원 초대는 Team 플랜. 마지막 장 인용은 원문 'What this means' 첫 문장 번역. 초안의 반복 본문(카드 4·5 동일)과 같은 영상 5장 반복을 버리고 3·4장은 stat, 5장은 quote로 다시 짬. 영상: pipeline/media 클립(8초)이 원문에 삽입된 ComfyUI 공식 YouTube(@comfyorg, 'Run Your Custom ComfyUI in the Cloud: Custom Builds in Comfy Cloud', 2026.11.18 업로드) 영상에서 잘린 것임을 프레임 대조로 확인('Choose from powerful cloud GPUs' 장면 일치) → src/로 복사, 표지 0초·2장 4초.",
+    "sources": [
+      "Comfy 공식 블로그 — Your custom ComfyUI is now in Comfy Cloud (2026.11.18)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/comfy-cloud-promo.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "AI × 디자인 · 2026.11.18",
+      "headline": "내 ComfyUI, 클라우드로",
+      "body": "Comfy가 팀이 쓰던 노드·모델·LoRA를 묶은 '커스텀 빌드'를 Comfy Cloud에서 그대로 돌리게 했다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/comfy-cloud-promo.mp4",
+      "start": 4,
+      "dur": 4,
+      "eyebrow": "무엇이 달라지나",
+      "headline": "새 팀원도 같은 환경",
+      "body": "중간에 합류한 아티스트도 로컬 설정 없이 바로 같은 노드와 모델을 쓴다. 사내 비공개 노드도 넣을 수 있다.",
+      "foot": "2026.11.18",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "48GB",
+      "stat_arrow": "RTX PRO 6000 → B200",
+      "stat_bottom": "180GB",
+      "stat_strike": false,
+      "eyebrow": "내 PC로 버거우면",
+      "headline": "GPU는 골라 쓴다",
+      "body": "H100·H200도 고를 수 있다. 일이 몰리면 작업을 더 돌리고, 끝나면 알아서 줄어든다.",
+      "foot": "2026.11.18",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "$1.75",
+      "stat_arrow": "시간당 · GPU에 따라",
+      "stat_bottom": "$11.23",
+      "stat_strike": false,
+      "eyebrow": "요금은",
+      "headline": "돌린 초만큼 낸다",
+      "body": "캔버스를 열고 고치기만 해선 GPU가 켜지지 않는다. 다만 작업자를 대기시켜 둔 시간도 요금에 든다.",
+      "foot": "2026.11.18",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "AI로 이미지와 영상을 만드는 사람이\n만드는 방식을 쥐어야 한다.",
+      "quote_by": "Comfy · 공식 블로그",
+      "eyebrow": "그래서 지금",
+      "headline": "통제권을 팀 전체로",
+      "body": "Standard부터 모든 유료 플랜에 들어간다. 동시 작업은 Standard·Creator 2개, Team 20개까지.",
+      "foot": "2026.11.18",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

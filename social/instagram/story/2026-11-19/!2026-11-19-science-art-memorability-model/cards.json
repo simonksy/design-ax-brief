@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "issue": "기억에 남을 그림, 작가보다 AI가 더 잘 맞혔다",
+    "date": "2026.11.18",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "Phys.org 기사(2026.11.18, Alice Sun, Association for Psychological Science 제공)를 APS 원문 'Artists Have an Intuitive Sense for What Is Memorable'(psychologicalscience.org, 2026-11-17 19:00 UTC 게재)과 논문 초록(Davis, Chen & Bainbridge, 'Artists Can Design Memory, and AI Can Predict It', Psychological Science 37(11), 774–790, DOI 10.1177/09567976261483544, Crossref 기준 2026.10.13 온라인 게재)으로 대조. 확인: 시카고대 연구진, 전국 미술 공모전, 석 달간 규정에 맞는 응모작 86점, 기억에 남는 20점·잊히기 쉬운 20점으로 시카고 갤러리 40점 전시 한 달, 단순하고 반복 요소·대칭이 적은 작품이 더 잘 기억됨, 예측 순위 ResMem > 작가의 응모 범주 > 일반인 평가, ResMem은 사진으로만 학습. Chen·Bainbridge 인용은 APS 원문 번역. 갤러리 관람객 62명, 기억을 높이기가 낮추기보다 쉬웠다(비대칭)는 논문 초록에서 가져옴. 전시·교육 활용은 APS 원문 서술(전시 배치는 APS 필자, 아이·환자 교육은 Bainbridge 발언·예비 결과)로 귀속. 정정: 초안 날짜 2026.11.19 → 기사 게재일 2026.11.18. 초안 '작가나 일반인보다 훨씬 정확히'는 Chen의 'much better than any human can do' 발언으로 귀속. 미디어: 초안 영상(pipeline/media/science-art-memorability-model.mp4)은 기사에 임베드된 YouTube PppFwlbc8ek 'The Most Memorable Art | Short Documentary' — 채널 Bedrock Documentaries(제3자 개인 다큐 채널, 표준 라이선스, 2026.10.13 업로드)라 금지 대상이라 버림. Phys.org 대표 사진은 Pexels(Mikhail Nilov) 스톡, APS 대표 사진도 스톡풍 갤러리 사진이라 쓰지 않음. 시카고대 공식 사진·영상은 찾지 못해 전 장 stat·quote(외부 미디어 없음).",
+    "sources": [
+      "Phys.org — Art experiments reveal artists' intuitive grasp of what makes images memorable (2026.11.18)",
+      "Association for Psychological Science — Artists Have an Intuitive Sense for What Is Memorable (2026.11.17)",
+      "Psychological Science — Artists Can Design Memory, and AI Can Predict It (2026.10.13)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "작가의 감",
+      "stat_arrow": "기억에 남을 그림 맞히기",
+      "stat_bottom": "AI가 더 정확",
+      "stat_strike": false,
+      "eyebrow": "AI × 과학 · 2026.11.18",
+      "headline": "작가보다 AI가 맞혔다",
+      "body": "시카고대 연구진이 전국 미술 공모전을 열었다. 어떤 그림이 기억에 남을지, 작가보다 AI 모델이 더 잘 맞혔다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "응모작 86점",
+      "stat_arrow": "가장 잘·덜 기억된 20점씩",
+      "stat_bottom": "전시 40점",
+      "stat_strike": false,
+      "eyebrow": "무슨 실험인가",
+      "headline": "잊힐 그림도 공모했다",
+      "body": "작가들은 '기억에 남을' 작품과 '잊힐' 작품 중 하나를 골라 그렸다. 석 달 동안 규정에 맞는 응모작 86점이 모였다.",
+      "foot": "2026.11.18",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "온라인에서 잘 기억된 작품은\n전시장에서도 더 잘 기억됐다.",
+      "quote_by": "Yifei Chen · 시카고대 공동 저자",
+      "eyebrow": "작가는 해냈나",
+      "headline": "작가의 의도는 통했다",
+      "body": "한 달간 연 시카고 전시의 관람객 62명도 같은 결과를 냈다. 다만 기억을 높이기가 낮추기보다 쉬웠다.",
+      "foot": "2026.11.18",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "사람들이 기억에 남는다고 여기는 것과\n실제로 남는 것은 다르다.",
+      "quote_by": "Yifei Chen · 시카고대 공동 저자",
+      "eyebrow": "누가 가장 잘 맞혔나",
+      "headline": "사진만 배우고 1위",
+      "body": "연구진이 만든 신경망 ResMem은 사진으로만 학습했다. 그래도 작가의 의도, 일반인 평가보다 정확했다.",
+      "foot": "2026.11.18",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "기억에 남는 그림에 정보를 담으면\n그 정보도 더 잘 배운다.",
+      "quote_by": "Wilma Bainbridge · 시카고대 책임 저자",
+      "eyebrow": "그래서 지금",
+      "headline": "전시와 교육으로",
+      "body": "ResMem은 작품 구상과 전시 배치에도 쓸 수 있다. Bainbridge는 아이·환자 교육 자료로 넓힐 수 있다고 본다.",
+      "foot": "2026.11.18",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
