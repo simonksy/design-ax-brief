@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-20",
+  "section": "design",
+  "cards": [
+    {
+      "id": "nvidia-omniverse-sim-agents",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "NVIDIA pairs coding agents\nwith Omniverse simulation",
+      "body": "Developers pair coding agents with Omniverse libraries to build simulations and iterate on designs from a prompt.",
+      "mini_headline": "Omniverse meets coding agents",
+      "tool": "KeyShot",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "img", "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png"},
+          {"t": "p", "x": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt."}
+        ]
+      }
+    }
+  ]
+}

@@ -12695,6 +12695,147 @@
           "x": "Rolling out to Organization and Enterprise plans over the coming days."
         }
       ]
+    },
+    "design/supernova-agentsmd-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+        },
+        {
+          "t": "p",
+          "x": "“Design tokens are the styling contract.” That line is in the AGENTS.md file of Workday’s Canvas Kit, but it only reaches agents working inside the Canvas Kit repository — not the engineers building Workday products with it, or their agents."
+        },
+        {
+          "t": "p",
+          "x": "Supernova checked the main public repositories of 30 design systems on 16 November 2026 for AGENTS.md, CLAUDE.md, Cursor rules and Copilot instructions. 16 have an agent instruction file: 12 AGENTS.md, 9 Copilot instructions, 6 CLAUDE.md, 3 Cursor rules."
+        },
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
+          "cap": "16 have an agent file, 10 mention design tokens, 5 ban hard-coded values, 5 link their docs site, 0 are written for teams using the system."
+        },
+        {
+          "t": "p",
+          "x": "Ten of the 16 files talk about tokens and five tell the agent not to use hard-coded values. But every one is written for people contributing to the design system, none for teams that use it in their own products."
+        },
+        {
+          "t": "p",
+          "x": "Supernova offers a design-system section to paste into a product’s own AGENTS.md — import components, use semantic tokens, list deprecations, say what to do when something is missing — and argues that values which change with each release belong in a design system MCP server."
+        }
+      ]
+    },
+    "design/pliera-bim-revit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera is a new cloud-based BIM platform developed by Enscape co-founder Moritz Luck at Karlsruhe startup NeoBIM. It combines architectural modelling, AI-generated parametric objects and rule-based building configurators with ambitious plans to challenge Revit, and is being introduced at BIM World Munich at the end of November."
+        },
+        {
+          "t": "p",
+          "x": "Configurators for six sectors capture firms’ design rules; Pliera Gen is live for residential site feasibility in Germany. The configurators shown use developer-written rules — using AI to compile a company’s knowledge into rules is the longer-term ambition."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera One, the browser-based modeller in alpha, runs on the Open Cascade kernel with a Three.js/WebGL engine. An Auto Complete system suggests next modelling steps, currently from coded algorithms."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI creates custom parametric components from text or images — a circular window from a prompt, a door from a photograph — using Anthropic Claude, OpenAI or Google Gemini. Pliera Gen costs €99 or €499 a month; the team is sceptical of fully automated architectural design."
+        }
+      ]
+    },
+    "design/nvidia-omniverse-sim-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. They direct AI agents through natural-language instructions, review results and guide changes."
+        },
+        {
+          "t": "p",
+          "x": "Falkor, a KONGSBERG company, lets customers turn their computer-aided design and engineering data into facility-scale digital twins using the GPT-6 Astra model, so engineers can create and test plans in simulation before traveling on site."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
+          "cap": "A pick-and-place simulation built with SimReady assets in NVIDIA Isaac Sim."
+        },
+        {
+          "t": "p",
+          "x": "Community developer Michael Wagner used Claude Code to build a voice-controlled VR application with SimReady Central assets over a weekend. His takeaway: Give agents renders and logs to inspect, then check the experience directly."
+        },
+        {
+          "t": "p",
+          "x": "Maziyar Panahi directed Claude Code to assemble an intensive care unit from 13 SimReady hospital assets; in a 256-ward run, 766 of 768 Microducks were still standing after 14 simulated seconds. Other NVIDIA teams used Astra to recreate an OP-1 synthesizer in Houdini, model a car suspension in PTC Onshape, build a gas-turbine what-if digital twin and stress-test a warehouse simulation that sustained 30 frames per second with 80 conveyors, 40 arms and 800 boxes."
+        }
+      ]
+    },
+    "design/too-claudified-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A client rejected my motion work for looking machine-made. I’d published the diagnosis five months earlier."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
+          "cap": "Blake cut this plate up after the edition was finished. The lettering reads backwards because it was never meant to be read here."
+        },
+        {
+          "t": "p",
+          "x": "In June 2026 Takuma Kakehi published an essay arguing that AI-generated design had converged on one recognizable look, and that the problem was fluency rather than ugliness: each revision cycle pulled the output closer to every other output."
+        },
+        {
+          "t": "p",
+          "x": "Five months later a client told him his work was too Claudified. The job was motion graphics for a marketing team, built with AI rather than in After Effects because the brief wanted volume and fast iteration. He had guardrails — tweaks in Figma, the house style written into markdown files — but none of that is what came back."
+        },
+        {
+          "t": "p",
+          "x": "What surprised him wasn’t the diagnosis but that it came from the other side of the table, in a single word, from someone who doesn’t design for a living."
+        }
+      ]
+    },
+    "design/design-stitch-loop-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.width-1300.png",
+          "cap": "Stitch Loop"
+        },
+        {
+          "t": "p",
+          "x": "Coding agents let you build and ship new features fast, but their job ends the moment your pull request merges. Today, Google Labs is introducing Stitch Loop, a long-running product agent that connects to your codebase and live metrics, finds what needs fixing, and keeps working 24/7 on your product until your goals are met. It is part of a new direction for Stitch, which millions of designers, developers, and founders already use to turn ideas into working interfaces in minutes."
+        },
+        {
+          "t": "p",
+          "x": "You connect GitHub and your product context (logs, user behavior, feedback) with over 180 integrations, custom MCP servers, or local CLI uploads. Each loop runs through four steps: Suggestions grounded in evidence; Solutions with tradeoffs, scoping and visual design options where applicable; Build, where Stitch Loop writes code in an isolated cloud sandbox and opens a GitHub pull request; and Reflect, where it monitors live product data and keeps watching in case the metric slips. Nothing merges until you review the PR."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CleanShot_2026-11-17_at_13.01.13.width-1200.format-webp.webp",
+          "cap": "Stitch Loop UI"
+        },
+        {
+          "t": "p",
+          "x": "Built-in loops cover cybersecurity, latency, and accessibility, and you can create custom loops like improving checkout conversion. The security loop pairs Gemini 4 Carbon's cyber security capabilities with CodeMender, Google DeepMind's autonomous agent that improves code security. Coding agents like Google Antigravity can pull product context via the Stitch CLI and MCP, and in Slack @stitch delivers daily insight digests. The waitlist opens today for all users, globally, with eligible Google AI Ultra users getting priority access."
+        }
+      ]
     }
   }
 }

@@ -12871,6 +12871,166 @@
           "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
         }
       ]
+    },
+    "gadgets/pebble-index01-ring-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
+          "cap": "Daniel Cooper for Engadget"
+        },
+        {
+          "t": "p",
+          "x": "Rating: 8/10. Pros: simple, affordable, easy to use. Cons: single use, Pebble's AI isn't perfect, non-rechargeable battery."
+        },
+        {
+          "t": "p",
+          "x": "The Index 01 is a $75 non-smart, stainless steel ring for your index finger with a single physical button, an RGB LED, a short range microphone, Bluetooth and a non-rechargeable silver oxide battery expected to last between two and three years. Pebble asks you to send the old ring back for recycling when you buy a replacement."
+        },
+        {
+          "t": "p",
+          "x": "Hold the button and talk, and your words go to Pebble's homegrown AI, Index Agent, or can be processed locally; within about 10 seconds it's handled on your phone. Notes, reminders, shopping lists and timers have worked flawlessly. Questions about your schedule were far more reliable than web lookups, where the agent embarrassed itself on a soccer manager question. You can also route it to another AI agent, a webhook or an MCP server."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
+          "cap": "Daniel Cooper for Engadget"
+        },
+        {
+          "t": "p",
+          "x": "The Index 01 is a physical manifestation of what would otherwise be a software feature — nobody really needs it, but at this price it's a low-investment gadget that might become an integral part of far more people's days than anyone expects."
+        }
+      ]
+    },
+    "gadgets/samsung-galaxyai-android-laptops": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
+          "cap": "Hadlee Simons / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Code in One UI 9.5 Beta 1 reveals that Samsung is preparing on-device Galaxy AI features for its upcoming Snapdragon X Elite-powered Android laptops, codenamed Origin. This reporting is based on work-in-progress code; these features may not ship."
+        },
+        {
+          "t": "p",
+          "x": "Samsung AI Core, the app that decides which Galaxy AI models a device can run on its own chip, gets a new entry for the Snapdragon X Elite (sc8380) that seemingly turns on Generative Edit, in-painting and out-painting, and harmonization. For now, the laptop chip gets fewer AI Core features than Samsung's recent phones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
+          "cap": "AssembleDebug / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Semantic Core now lists the Snapdragon X Elite among the chips that can run its Gauss language model, and it's also set up for translation, semantic search and vision models — pointing to Galaxy AI writing and translation tools running locally on the laptops."
+        },
+        {
+          "t": "p",
+          "x": "Samsung's Video Editor added a Snapdragon X Elite X1E-80-100 profile labeled \"Origin\" with the same 8K editing limits as Samsung's flagship phones. Samsung hasn't announced its Android laptops yet."
+        }
+      ]
+    },
+    "gadgets/switchbot-artframe2-weather": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
+          "cap": "The Switchbot AI Art Frame 2 showcases art and photos from phones, cameras, and digital galleries in a traditional picture frame with an E Ink display."
+        },
+        {
+          "t": "p",
+          "x": "Switchbot has released the AI Art Frame 2, also called AI Art Canvas in Japan, with a color E Ink Spectra 6 display that can show up to 65,000 shades of color and needs no electricity to maintain an image. An internal battery powers image changes for up to three years."
+        },
+        {
+          "t": "p",
+          "x": "It has a walnut-colored bezel and a matte display, works offline or cloud-connected, and has 16 GB of storage for around 5,000 images that can be uploaded remotely from smartphones, cameras and laptops."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
+          "cap": "The AI-powered Weather Muse can automatically change art based on the day's weather forecast."
+        },
+        {
+          "t": "p",
+          "x": "Switchbot offers 500 famous works of art for free, and a $3.99 per month subscription enables voice, text, and image-to-image creation of AI-generated photos and art. The subscription provides access to Weather Muse, which can change the art work to match the weather of the day. Photos can be changed with a triple knock on the frame, voice control or the smartphone app."
+        },
+        {
+          "t": "p",
+          "x": "The 13.3-inch AI Art Frame 2 costs $399.99; a $169.99 7.1-inch model and a $1,399.99 31.5-inch model are also available."
+        },
+        {
+          "t": "video",
+          "yt": "Kk1L8B84w3Q"
+        }
+      ]
+    },
+    "gadgets/scout-motors-ai-earpieces": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Scout Motors says it's using AI tools to help hire, onboard and train factory workers, including an AI assistant in an earpiece that guides trainees through tasks as they perform them. CEO Scott Keogh said that rather than \"sitting new hires down with an instructional binder and a test,\" workers get AI-driven, hands-on experience at the Blythewood, South Carolina factory."
+        },
+        {
+          "t": "p",
+          "x": "In parts picking, a worker walks to 12 boxes, pulls 12 parts, confirms the sequence and checks for defects while the earpiece gives real-time instructions. \"We can train that within minutes,\" Keogh said."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
+          "cap": "Scout says that AI can find connections between skills and tasks that may not be obvious to humans. Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "An AI system also suggests where each new hire might fit best, as Scout fills over 4,000 roles by 2028. Ryan Decker, vice president of strategy and brand, said the AI tailors instruction to each person and learns from each cohort."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
+          "cap": "Scout Motors"
+        },
+        {
+          "t": "p",
+          "x": "Scout is exploring vision-based training with augmented reality glasses and plans to scale the tools into the factory and service centers, and eventually for owners at home. The AI has been fed decades of equipment manuals and documentation that the earpiece can surface in real time."
+        }
+      ]
+    },
+    "gadgets/samsung-smartthings-chatgpt-labs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung Electronics has connected its smart home platform 'SmartThings' with OpenAI's ChatGPT. Following LG Electronics and Google, Samsung Electronics is also expanding smart home integration with outside artificial intelligence (AI) services, and appliance control using natural language is spreading."
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics has released a 'Samsung SmartThings (Labs)' plugin available in ChatGPT and started a trial service. Users can link their SmartThings account to ChatGPT and control the appliances in their home with natural-language commands."
+        },
+        {
+          "t": "p",
+          "x": "Users can check the operating status of lights or appliances that are switched on at home and look up recent device activity history. It is also possible to run automation scenes set up in SmartThings or change the home's status to home, away or night mode."
+        },
+        {
+          "t": "p",
+          "x": "It is currently in an early trial stage, and some devices support status checks only. Control functions are limited for security-related devices such as door locks. Official integration is expected to launch after testing."
+        },
+        {
+          "t": "p",
+          "x": "Beyond Samsung SmartThings, other smart home platforms are also quickly expanding external integration with generative AI services. Earlier, in August, LG Electronics launched a service connecting ChatGPT with its smart home platform 'LG ThinQ'. It currently supports status checks and control of air conditioners and air purifiers."
+        },
+        {
+          "t": "p",
+          "x": "In September, Google introduced the Model Context Protocol (MCP) to its smart home platform 'Google Home', opening it up to integration with outside AI agents. MCP is a standard connection method that lets AI exchange information with external services and devices and carry out functions. It is a tool that supports connecting a range of generative AI, including not only Google Gemini but also Claude and ChatGPT, to smart home platforms."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.4403658394c0448e9e9f9c6061065d95_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "An industry official said, “The smart home industry is moving away from device control centered on its own apps and voice assistants and expanding connections with external general-purpose AI services,” adding, “Smart home services are evolving toward letting users manage multiple appliances through everyday conversation without opening a specific manufacturer's app.”"
+        }
+      ]
     }
   }
 }

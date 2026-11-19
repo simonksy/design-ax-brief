@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-20",
+  "section": "politics",
+  "picks": [
+    {
+      "title": "Jacobs, Maloy, Beyer Release Outline For Sweeping, Bipartisan AI Safety Legislation",
+      "url": "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation",
+      "source": "Office of Rep. Sara Jacobs (U.S. House)",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "rationale": "Primary document: bipartisan SAFE AI Act outline would mandate safety frameworks, incident reporting and transparency for frontier labs, which is a new federal bill on the policy axis.",
+      "published_iso": "2026-11-19",
+      "og_image": "https://sarajacobs.house.gov/themes/jacobs/images/sharelogo.jpg?1",
+      "excerpt": "Reps. Jacobs (D-CA), Maloy (R-UT) and Beyer (D-VA) released an outline of the bipartisan SAFE AI Act, forthcoming legislation that would mandate safety frameworks, incident reporting and transparency from frontier AI labs under federal oversight."
+    },
+    {
+      "title": "Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure.",
+      "url": "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure",
+      "source": "The Verge",
+      "tool": "Politics",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "Geopolitics axis: newly released Commerce Department license data (via House Foreign Affairs Chair Mast) quantifies approved AI-chip sales to China, ahead of Jensen Huang's testimony.",
+      "published_iso": "2026-11-19T21:19:44+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "excerpt": "House Foreign Affairs Chair Brian Mast released Commerce Department license data showing more than 879,000 advanced AI chips approved for sale to Chinese companies (of ~3.4M requested), ahead of Jensen Huang's testimony; Ranking Member Meeks says licenses were approved with little scrutiny."
+    },
+    {
+      "title": "Governor Newsom's nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight",
+      "url": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/",
+      "source": "Office of the Governor of California",
+      "tool": "Politics",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "State-level primary release: recommendations for mandatory frontier-AI standards, independent oversight and emergency shutdown authority on top of SB 53.",
+      "published_iso": "2026-11-18T16:16:05+00:00",
+      "og_image": "https://www.gov.ca.gov/wp-content/uploads/2026/11/Governor-Newsoms-nation-leading-AI-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight-SEO-GFX-v2.png",
+      "excerpt": "California released expert recommendations for mandatory frontier-AI safety standards, independent oversight, emergency shutdown ('kill switch') authority for dangerous systems and limits on self-improving AI, as next steps on top of SB 53."
+    },
+    {
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "source": "Ars Technica",
+      "tool": "Politics",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Liability litigation: a new lawsuit over a public-sector AI surveillance deployment, alleging that more than 99% of the system's alerts were false positives.",
+      "published_iso": "2026-11-19T20:19:28+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+      "excerpt": "Four Baltimore County students sued their school system and police after an AI gun-detection system flagged a Doritos bag as a weapon; the suit alleges over 99% of the system's alerts were false positives."
+    },
+    {
+      "title": "Don't buy smart glasses, Dutch data watchdog advises",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
+      "source": "BBC News",
+      "tool": "Politics",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "Regulator action in Europe: the Dutch DPA formally advises consumers against AI smart glasses, citing safety failures in tests and privacy risks to bystanders.",
+      "published_iso": "2026-11-19T16:33:17.386Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
+      "excerpt": "The Dutch data protection authority (Autoriteit Persoonsgegevens) advised consumers not to buy AI smart glasses, citing tests where devices misread medicine instructions or pretended to call an ambulance, plus privacy risks to bystanders."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation": {
+        "verdict": "new",
+        "nearest": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
+        "new_action": ""
+      },
+      "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "new_action": ""
+      },
+      "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/": {
+        "verdict": "new",
+        "nearest": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
+        "new_action": ""
+      },
+      "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped: the Guardian Australia music-industry AI copyright item, which the brief assigned to music. Korean 수능 AI-cheating cluster: the 與 10-year-ban bill (yna AKR20261118177800001) repeats the 11-18 etnews 20261117000355 10-year restriction; the 전자신문 98-cases tally (etnews 20261119000454) is extra reporting on a running story (history_match 11-08). The 윤재옥 'AI커닝 퇴출법' (yna AKR20261119121900001) is a genuinely new filing, but I skipped it because the section ran this cluster six times in 13 days (11-08/10/16/17/18 plus the UK letter on 11-19). It is the first fallback if a pick is swapped out. Treated as running-story reactions or analysis, not new actions: TSMC tightens curbs (Taipei Times, sources-based, related to 11-16/11-17 export-rule cards), Dutch resist MATCH Act (POLITICO Europe, reaction to the 11-16 Congress export bill), Singapore PM on chip checks (reaction to the 11-13 SE Asia rule), The Decoder double-hit (analysis), Verge Philippines/Pax Silica (analysis). Also dropped: the 李 APEC AI-center remarks (a speech, no new action) and the 개보위-Japan meeting (weak). Strong reserves, all fresh: Alberta Bill 42 data-centre siting, NY AG ASSET unit, ACUS Federal Register RFC, Nextgov cyber/AI review board bill. Cross-section: every pick except gov.ca.gov was published after the 11-19 07:00 KST run, so none can be in published_urls; gov.ca.gov is politics-only and not in the politics history. Outlets: 5 distinct."
+  }
+}

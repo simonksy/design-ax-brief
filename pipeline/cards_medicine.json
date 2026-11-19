@@ -1,0 +1,1601 @@
+{
+  "date": "2026-11-20",
+  "section": "medicine",
+  "cards": [
+    {
+      "id": "uhcleveland-ai-alerts-impact",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 경보 중 12%만\n환자 진료 바꿨다",
+      "body": "한 해 동안 검토한 상용 영상 AI 경보 154건 중 진료를 바꾼 건 19건뿐이다.",
+      "mini_headline": "진료 바꾼 AI 경보는 소수",
+      "tool": "Medicine",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care",
+      "accent": "#00897b",
+      "motif": "sphere",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.wMDLDT1f5Q.jpg?auto=format%2Ccompress&w=1200",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "판독에서 놓쳤을 수 있는 영상의학 소견을 짚어 주는 AI 경보가 실제 현장에서 어떤 영향을 주는지, 연구진이 이번 학술 발표에서 살폈다."
+          },
+          {
+            "t": "p",
+            "x": "UH Radiology Cleveland의 발표자 Charit R. Tippareddy, MD와 동료들은 AI ‘비관여(non-engagement)’ 경보가 실제 임상에 미치는 영향과 잠재적 위해, 운영 부담을 평가했다. 판독의가 AI 양성 결과를 거의 확인하지 않았고 판독문에도 그 결과가 남지 않았을 때 해당 사례를 다시 보라고 알리는 경보다."
+          },
+          {
+            "t": "p",
+            "x": "연구팀은 대형 의료 시스템 전체에 상용 AI 플랫폼을 들인 뒤 한 해 동안 나온 경보 154건을 후향적으로 분석했다."
+          },
+          {
+            "t": "p",
+            "x": "진료 방침을 의미 있게 바꾼 경보는 19건(12%)에 그쳤다. 연구진에 따르면 진료를 바꿀 가능성이 가장 높은 것은 폐색전증과 두개내출혈 경보였다. 다만 일부 폐색전증 경보는 주요 출혈을 포함한 치료 합병증으로 이어졌다."
+          },
+          {
+            "t": "p",
+            "x": "가장 흔한 늑골 골절 경보는 임상에 의미 있는 영향을 주지 못했고 다른 여러 소견의 경보도 진료 방침을 바꾸지 못했다. 그런데도 경보마다 영상의학 정보팀이 관리하는 여러 단계의 업무가 뒤따랐다. 효용이 낮은 경보조차 시간과 자원을 지나치게 잡아먹었다고 연구진은 지적했다."
+          },
+          {
+            "t": "p",
+            "x": "“AI 경보 시스템은 탐지 성능만이 아니라 실제 결과를 기준으로 평가해야 경보 피로를 줄이고 불필요한 개입을 피하며 환자 진료를 의미 있게 개선할 수 있다”고 연구진은 썼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Only 12% of AI alerts\nchanged patient care",
+          "body": "Of 154 alerts from a commercial imaging AI platform reviewed over a year, only 19 changed patient management.",
+          "mini_headline": "Few AI alerts changed care",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "In this scientific presentation, researchers will highlight the real-world impact of AI alerts for flagging of potentially missed radiology findings."
+              },
+              {
+                "t": "p",
+                "x": "Presenter Charit R. Tippareddy, MD, of UH Radiology Cleveland and colleagues evaluated the real-world clinical impact, potential harm, and operational burden of AI “non-engagement” alerts. These alerts prompt radiologists to re-evaluate a case when they barely interacted with a positive AI result that went undocumented in the report."
+              },
+              {
+                "t": "p",
+                "x": "The group retrospectively analyzed 154 alerts generated over one year after a commercial AI platform was deployed across a large health system."
+              },
+              {
+                "t": "p",
+                "x": "Just 19 alerts (12%) resulted in meaningful management changes. Alerts for pulmonary embolism and intracranial hemorrhage were the most likely to change care, although some pulmonary embolism alerts led to treatment complications, including a major bleeding event, according to the researchers."
+              },
+              {
+                "t": "p",
+                "x": "However, the most common type — rib fracture alerts — had no meaningful clinical impact, and alerts for several other findings likewise didn’t change management. Yet every alert triggered a multi-step workflow managed by radiology informatics staff, making even low-yield alerts disproportionately time- and resource-intensive, the researchers observed."
+              },
+              {
+                "t": "p",
+                "x": "“AI alert systems should be evaluated based on real-world outcomes — not detection alone — to reduce alert fatigue, avoid unnecessary interventions, and ensure meaningful improvements in patient care,” the researchers wrote."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 경보 중 12%만\n환자 진료 바꿨다",
+          "body": "한 해 동안 검토한 상용 영상 AI 경보 154건 중 진료를 바꾼 건 19건뿐이다.",
+          "mini_headline": "진료 바꾼 AI 경보는 소수",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "판독에서 놓쳤을 수 있는 영상의학 소견을 짚어 주는 AI 경보가 실제 현장에서 어떤 영향을 주는지, 연구진이 이번 학술 발표에서 살폈다."
+              },
+              {
+                "t": "p",
+                "x": "UH Radiology Cleveland의 발표자 Charit R. Tippareddy, MD와 동료들은 AI ‘비관여(non-engagement)’ 경보가 실제 임상에 미치는 영향과 잠재적 위해, 운영 부담을 평가했다. 판독의가 AI 양성 결과를 거의 확인하지 않았고 판독문에도 그 결과가 남지 않았을 때 해당 사례를 다시 보라고 알리는 경보다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 대형 의료 시스템 전체에 상용 AI 플랫폼을 들인 뒤 한 해 동안 나온 경보 154건을 후향적으로 분석했다."
+              },
+              {
+                "t": "p",
+                "x": "진료 방침을 의미 있게 바꾼 경보는 19건(12%)에 그쳤다. 연구진에 따르면 진료를 바꿀 가능성이 가장 높은 것은 폐색전증과 두개내출혈 경보였다. 다만 일부 폐색전증 경보는 주요 출혈을 포함한 치료 합병증으로 이어졌다."
+              },
+              {
+                "t": "p",
+                "x": "가장 흔한 늑골 골절 경보는 임상에 의미 있는 영향을 주지 못했고 다른 여러 소견의 경보도 진료 방침을 바꾸지 못했다. 그런데도 경보마다 영상의학 정보팀이 관리하는 여러 단계의 업무가 뒤따랐다. 효용이 낮은 경보조차 시간과 자원을 지나치게 잡아먹었다고 연구진은 지적했다."
+              },
+              {
+                "t": "p",
+                "x": "“AI 경보 시스템은 탐지 성능만이 아니라 실제 결과를 기준으로 평가해야 경보 피로를 줄이고 불필요한 개입을 피하며 환자 진료를 의미 있게 개선할 수 있다”고 연구진은 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIアラートの12%のみ\n患者の診療を変えた",
+          "body": "一年間に検証した商用画像AIのアラート154件中、診療方針を変えたのは19件だけだ。",
+          "mini_headline": "診療を変えたAIアラートは少数",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "本発表で研究者らは、見落とされた可能性のある放射線画像所見を指摘するAIアラートが、実臨床にどのような影響を与えるかを示す。"
+              },
+              {
+                "t": "p",
+                "x": "UH Radiology ClevelandのCharit R. Tippareddy, MDら発表者グループは、AIの「non-engagement(非関与)」アラートについて、実臨床への影響、潜在的な害、運用上の負担を評価した。このアラートは、読影医がAIの陽性結果をほとんど確認せず、その結果がレポートに記載されていない場合に、症例の再評価を促すものである。"
+              },
+              {
+                "t": "p",
+                "x": "研究グループは、大規模医療システム全体に商用AIプラットフォームが導入されてから一年間に発生した154件のアラートを後ろ向きに解析した。"
+              },
+              {
+                "t": "p",
+                "x": "診療方針の有意な変更につながったアラートは19件(12%)にとどまった。研究者らによると、肺塞栓症と頭蓋内出血のアラートが最も診療を変えやすかったが、一部の肺塞栓症アラートは大出血を含む治療合併症につながった。"
+              },
+              {
+                "t": "p",
+                "x": "一方、最も多かった肋骨骨折のアラートには意味のある臨床的影響がなく、ほかのいくつかの所見に関するアラートも診療方針を変えなかった。それでもすべてのアラートが放射線インフォマティクス担当者による多段階のワークフローを発生させたため、効果の低いアラートでさえ時間と資源を不釣り合いに消費したと研究者らは指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "「AIアラートシステムは、検出だけでなく実臨床での結果に基づいて評価されるべきだ。それによってアラート疲れを減らし、不要な介入を避け、患者ケアの意味ある改善を確実にできる」と研究者らは記している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "仅12%的AI警报\n改变了患者诊疗",
+          "body": "在一年内审查的154条商用影像AI平台警报中，仅19条改变了患者管理。",
+          "mini_headline": "改变诊疗的AI警报很少",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "在这项学术报告中，研究人员将重点介绍用于标记可能漏诊的放射学发现的AI警报在真实世界中的影响。"
+              },
+              {
+                "t": "p",
+                "x": "报告人、UH Radiology Cleveland的Charit R. Tippareddy, MD及其同事评估了AI“non-engagement”（未参与）警报的真实临床影响、潜在危害和运营负担。当放射科医生几乎没有查看某个AI阳性结果、且该结果未写入报告时，这类警报会提示医生重新评估病例。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队回顾性分析了一家大型医疗系统全面部署某商用AI平台后一年内产生的154条警报。"
+              },
+              {
+                "t": "p",
+                "x": "仅有19条警报（12%）带来了有意义的管理改变。研究人员表示，肺栓塞和颅内出血警报最有可能改变诊疗，但部分肺栓塞警报导致了治疗并发症，其中包括一起大出血事件。"
+              },
+              {
+                "t": "p",
+                "x": "然而，最常见的肋骨骨折警报没有产生有意义的临床影响，其他几类发现的警报同样未改变管理。但研究人员指出，每条警报都会触发由放射信息学人员负责的多步骤工作流程，因此即便是低效警报也耗费了不成比例的时间和资源。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员写道：“评估AI警报系统应依据真实世界的结果，而不仅仅是检出，以减少警报疲劳、避免不必要的干预，并确保患者诊疗得到有意义的改善。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Solo el 12% de alertas de AI\ncambió la atención al paciente",
+          "body": "De 154 alertas de una AI comercial de imagen revisadas en un año, solo 19 cambiaron el manejo del paciente.",
+          "mini_headline": "Pocas alertas de AI cambian la atención",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En esta presentación científica, los investigadores mostrarán el impacto real de las alertas de AI que señalan hallazgos radiológicos posiblemente omitidos."
+              },
+              {
+                "t": "p",
+                "x": "El ponente Charit R. Tippareddy, MD, de UH Radiology Cleveland, y sus colegas evaluaron el impacto clínico real, el daño potencial y la carga operativa de las alertas de AI por “non-engagement” (falta de interacción). Estas alertas piden al radiólogo reevaluar un caso cuando apenas interactuó con un resultado positivo de la AI que no quedó documentado en el informe."
+              },
+              {
+                "t": "p",
+                "x": "El grupo analizó de forma retrospectiva 154 alertas generadas durante un año tras implantar una plataforma comercial de AI en un gran sistema de salud."
+              },
+              {
+                "t": "p",
+                "x": "Solo 19 alertas (12%) produjeron cambios significativos en el manejo. Las alertas de embolia pulmonar y hemorragia intracraneal fueron las que con más probabilidad cambiaron la atención, aunque algunas alertas de embolia pulmonar derivaron en complicaciones del tratamiento, incluido un episodio de sangrado mayor, según los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, el tipo más común —las alertas de fractura costal— no tuvo un impacto clínico significativo, y las alertas de otros hallazgos tampoco cambiaron el manejo. Aun así, cada alerta activó un flujo de trabajo de varios pasos gestionado por el personal de informática radiológica, lo que hizo que incluso las alertas de bajo rendimiento consumieran tiempo y recursos de forma desproporcionada, observaron los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "“Los sistemas de alertas de AI deben evaluarse según los resultados reales —no solo la detección— para reducir la fatiga por alertas, evitar intervenciones innecesarias y garantizar mejoras significativas en la atención al paciente”, escribieron los investigadores."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 경보 중 12%만\n환자 진료 바꿨다",
+          "body": "한 해 동안 검토한 상용 영상 AI 경보 154건 중 19건만 진료를 바꿨다.",
+          "mini_headline": "진료 바꾼 AI 경보는 소수",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "이번 학술 발표에서 연구진은 판독에서 놓쳤을 수 있는 영상의학 소견을 표시하는 AI 경보가 실제 현장에서 어떤 영향을 미치는지 조명한다."
+              },
+              {
+                "t": "p",
+                "x": "UH Radiology Cleveland의 발표자 Charit R. Tippareddy, MD와 동료들은 AI ‘비관여(non-engagement)’ 경보의 실제 임상 영향, 잠재적 위해, 운영 부담을 평가했다. 이 경보는 판독의가 AI 양성 결과를 거의 확인하지 않았고 그 결과가 판독문에 기록되지 않았을 때 해당 사례를 다시 검토하라고 알린다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 상용 AI 플랫폼을 대형 의료 시스템 전체에 도입한 뒤 한 해 동안 생성된 경보 154건을 후향적으로 분석했다."
+              },
+              {
+                "t": "p",
+                "x": "의미 있는 진료 방침 변경으로 이어진 경보는 19건(12%)뿐이었다. 연구진에 따르면 폐색전증과 두개내출혈 경보가 진료를 바꿀 가능성이 가장 높았지만, 일부 폐색전증 경보는 주요 출혈 사례를 포함한 치료 합병증으로 이어졌다."
+              },
+              {
+                "t": "p",
+                "x": "그러나 가장 흔한 유형인 늑골 골절 경보는 의미 있는 임상 영향이 없었고, 다른 여러 소견에 대한 경보도 진료 방침을 바꾸지 못했다. 그럼에도 모든 경보는 영상의학 정보팀이 관리하는 여러 단계의 업무 흐름을 촉발했고, 이 때문에 효용이 낮은 경보조차 시간과 자원을 지나치게 많이 소모했다고 연구진은 지적했다."
+              },
+              {
+                "t": "p",
+                "x": "“AI 경보 시스템은 탐지 성능만이 아니라 실제 결과를 기준으로 평가해야 경보 피로를 줄이고 불필요한 개입을 피하며 환자 진료를 의미 있게 개선할 수 있다”고 연구진은 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIアラートの12%のみ\n患者の診療を変えた",
+          "body": "一年間に検証した商用画像AIのアラート154件中、診療方針を変えたのは19件だけだ。",
+          "mini_headline": "診療を変えたAIアラートは少数",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "本発表で研究者らは、見落とされた可能性のある放射線画像所見を指摘するAIアラートが、実臨床にどのような影響を与えるかを示す。"
+              },
+              {
+                "t": "p",
+                "x": "UH Radiology ClevelandのCharit R. Tippareddy, MDら発表者グループは、AIの「non-engagement(非関与)」アラートについて、実臨床への影響、潜在的な害、運用上の負担を評価した。このアラートは、読影医がAIの陽性結果をほとんど確認せず、その結果がレポートに記載されていない場合に、症例の再評価を促すものである。"
+              },
+              {
+                "t": "p",
+                "x": "研究グループは、大規模医療システム全体に商用AIプラットフォームが導入されてから一年間に発生した154件のアラートを後ろ向きに解析した。"
+              },
+              {
+                "t": "p",
+                "x": "診療方針の有意な変更につながったアラートは19件(12%)にとどまった。研究者らによると、肺塞栓症と頭蓋内出血のアラートが最も診療を変えやすかったが、一部の肺塞栓症アラートは大出血を含む治療合併症につながった。"
+              },
+              {
+                "t": "p",
+                "x": "一方、最も多かった肋骨骨折のアラートには意味のある臨床的影響がなく、ほかのいくつかの所見に関するアラートも診療方針を変えなかった。それでもすべてのアラートが放射線インフォマティクス担当者による多段階のワークフローを発生させたため、効果の低いアラートでさえ時間と資源を不釣り合いに消費したと研究者らは指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "「AIアラートシステムは、検出だけでなく実臨床での結果に基づいて評価されるべきだ。それによってアラート疲れを減らし、不要な介入を避け、患者ケアの意味ある改善を確実にできる」と研究者らは記している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "仅12%的AI警报\n改变了患者诊疗",
+          "body": "在一年内审查的154条商用影像AI平台警报中，仅19条改变了患者管理。",
+          "mini_headline": "改变诊疗的AI警报很少",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "在这项学术报告中，研究人员将重点介绍用于标记可能漏诊的放射学发现的AI警报在真实世界中的影响。"
+              },
+              {
+                "t": "p",
+                "x": "报告人、UH Radiology Cleveland的Charit R. Tippareddy, MD及其同事评估了AI“non-engagement”（未参与）警报的真实临床影响、潜在危害和运营负担。当放射科医生几乎没有查看某个AI阳性结果、且该结果未写入报告时，这类警报会提示医生重新评估病例。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队回顾性分析了一家大型医疗系统全面部署某商用AI平台后一年内产生的154条警报。"
+              },
+              {
+                "t": "p",
+                "x": "仅有19条警报（12%）带来了有意义的管理改变。研究人员表示，肺栓塞和颅内出血警报最有可能改变诊疗，但部分肺栓塞警报导致了治疗并发症，其中包括一起大出血事件。"
+              },
+              {
+                "t": "p",
+                "x": "然而，最常见的肋骨骨折警报没有产生有意义的临床影响，其他几类发现的警报同样未改变管理。但研究人员指出，每条警报都会触发由放射信息学人员负责的多步骤工作流程，因此即便是低效警报也耗费了不成比例的时间和资源。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员写道：“评估AI警报系统应依据真实世界的结果，而不仅仅是检出，以减少警报疲劳、避免不必要的干预，并确保患者诊疗得到有意义的改善。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Solo el 12% de alertas de AI\ncambió la atención al paciente",
+          "body": "De 154 alertas de una AI comercial de imagen revisadas en un año, solo 19 cambiaron el manejo del paciente.",
+          "mini_headline": "Pocas alertas de AI cambian la atención",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En esta presentación científica, los investigadores mostrarán el impacto real de las alertas de AI que señalan hallazgos radiológicos posiblemente omitidos."
+              },
+              {
+                "t": "p",
+                "x": "El ponente Charit R. Tippareddy, MD, de UH Radiology Cleveland, y sus colegas evaluaron el impacto clínico real, el daño potencial y la carga operativa de las alertas de AI por “non-engagement” (falta de interacción). Estas alertas piden al radiólogo reevaluar un caso cuando apenas interactuó con un resultado positivo de la AI que no quedó documentado en el informe."
+              },
+              {
+                "t": "p",
+                "x": "El grupo analizó de forma retrospectiva 154 alertas generadas durante un año tras implantar una plataforma comercial de AI en un gran sistema de salud."
+              },
+              {
+                "t": "p",
+                "x": "Solo 19 alertas (12%) produjeron cambios significativos en el manejo. Las alertas de embolia pulmonar y hemorragia intracraneal fueron las que con más probabilidad cambiaron la atención, aunque algunas alertas de embolia pulmonar derivaron en complicaciones del tratamiento, incluido un episodio de sangrado mayor, según los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, el tipo más común —las alertas de fractura costal— no tuvo un impacto clínico significativo, y las alertas de otros hallazgos tampoco cambiaron el manejo. Aun así, cada alerta activó un flujo de trabajo de varios pasos gestionado por el personal de informática radiológica, lo que hizo que incluso las alertas de bajo rendimiento consumieran tiempo y recursos de forma desproporcionada, observaron los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "“Los sistemas de alertas de AI deben evaluarse según los resultados reales —no solo la detección— para reducir la fatiga por alertas, evitar intervenciones innecesarias y garantizar mejoras significativas en la atención al paciente”, escribieron los investigadores."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "elsevier-clinicalkey-ehr-context",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "ClinicalKey AI\n환자 차트 전체를 읽는다",
+      "body": "1,200곳 넘는 병원의 Elsevier 도구가 EHR 전체로 치료 계획을 따진다.",
+      "mini_headline": "ClinicalKey AI, 차트를 읽다",
+      "tool": "Medicine",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Elsevier가 라스베이거스(Las Vegas)에서 열린 HLTH 2026에서 ClinicalKey AI의 대규모 업그레이드를 공개했다. 이 AI-powered 임상 의사결정 지원 도구는 이제 환자의 전자건강기록 전체를 들여다보고, 회사의 근거 기반 의학 라이브러리에 비춰 치료 계획을 평가한다."
+          },
+          {
+            "t": "p",
+            "x": "HIPAA-ready(HIPAA 대응) 현장 진료 도구인 이 제품은 학술지 약 1,000종의 전문 논문에서 답을 끌어오며, 이미 1,200곳 넘는 병원이 쓴다. 회사는 모든 EHR 업체와 연동된다고 밝혔다. 환자 맥락 기능은 Elsevier가 6월 인수한 Wellsheet를 바탕으로 만들었다. Wellsheet는 환자 차트 데이터를 모아 종합한다."
+          },
+          {
+            "t": "p",
+            "x": "뉴멕시코주 파밍턴(Farmington, New Mexico)의 San Juan Regional Medical Center가 새 기능을 쓰고 있다. Carlo Hallak, M.D.는 “ClinicalKey AI는 차트 전체를 읽고 근거와 대조한 뒤 각 소견이 정확히 어디서 나왔는지 보여 준다”고 말했다. 그는 이 도구로 바이러스성 수막염을 정확히 진단한 의사 사례를 들었다. 한 병원에서는 퇴원 요약 작성 시간이 사흘에서 세 시간 미만으로 줄었다고도 전했다."
+          },
+          {
+            "t": "p",
+            "x": "이 의료센터는 위험 기반 접근으로 AI 거버넌스를 운영한다. Elsevier는 도구가 인용 출처를 보여 주고, 의료진이 할 일을 처방하지 못하도록 막는 안전장치도 갖췄다고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "ClinicalKey AI now reads\nthe full patient chart",
+          "body": "Elsevier's point-of-care tool, in 1,200+ hospitals, now reads a patient's full EHR to check treatment plans.",
+          "mini_headline": "ClinicalKey AI reads the chart",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "At HLTH 2026 in Las Vegas, Elsevier unveiled a major upgrade to ClinicalKey AI, enabling the AI-powered clinical decision support tool to access a patient’s full electronic health record and evaluate treatment plans against the company’s evidence-based medical library."
+              },
+              {
+                "t": "p",
+                "x": "The HIPAA-ready point-of-care tool draws answers from full-text articles from approximately 1,000 journals, is already deployed at more than 1,200 hospitals and, the company says, integrates with all EHR providers. The patient-context capability builds on Elsevier’s June acquisition of Wellsheet, which aggregates and synthesizes patient chart data."
+              },
+              {
+                "t": "p",
+                "x": "San Juan Regional Medical Center in Farmington, New Mexico, uses the new functionality. “ClinicalKey AI reads the whole chart, checks it against the evidence and shows exactly where each finding comes from,” said Carlo Hallak, M.D. He cited a physician who used it to correctly identify viral meningitis, and said that for discharge summaries one hospital went from three days to less than three hours."
+              },
+              {
+                "t": "p",
+                "x": "The medical center takes a risk-based approach to AI governance. Elsevier says the tool shows citations and has safeguards that keep it from prescribing what clinicians should do."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ClinicalKey AI\n환자 차트 전체를 읽는다",
+          "body": "1,200곳 넘는 병원의 Elsevier 도구가 EHR 전체로 치료 계획을 따진다.",
+          "mini_headline": "ClinicalKey AI, 차트를 읽다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Elsevier가 라스베이거스(Las Vegas)에서 열린 HLTH 2026에서 ClinicalKey AI의 대규모 업그레이드를 공개했다. 이 AI-powered 임상 의사결정 지원 도구는 이제 환자의 전자건강기록 전체를 들여다보고, 회사의 근거 기반 의학 라이브러리에 비춰 치료 계획을 평가한다."
+              },
+              {
+                "t": "p",
+                "x": "HIPAA-ready(HIPAA 대응) 현장 진료 도구인 이 제품은 학술지 약 1,000종의 전문 논문에서 답을 끌어오며, 이미 1,200곳 넘는 병원이 쓴다. 회사는 모든 EHR 업체와 연동된다고 밝혔다. 환자 맥락 기능은 Elsevier가 6월 인수한 Wellsheet를 바탕으로 만들었다. Wellsheet는 환자 차트 데이터를 모아 종합한다."
+              },
+              {
+                "t": "p",
+                "x": "뉴멕시코주 파밍턴(Farmington, New Mexico)의 San Juan Regional Medical Center가 새 기능을 쓰고 있다. Carlo Hallak, M.D.는 “ClinicalKey AI는 차트 전체를 읽고 근거와 대조한 뒤 각 소견이 정확히 어디서 나왔는지 보여 준다”고 말했다. 그는 이 도구로 바이러스성 수막염을 정확히 진단한 의사 사례를 들었다. 한 병원에서는 퇴원 요약 작성 시간이 사흘에서 세 시간 미만으로 줄었다고도 전했다."
+              },
+              {
+                "t": "p",
+                "x": "이 의료센터는 위험 기반 접근으로 AI 거버넌스를 운영한다. Elsevier는 도구가 인용 출처를 보여 주고, 의료진이 할 일을 처방하지 못하도록 막는 안전장치도 갖췄다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ClinicalKey AI\n患者カルテ全体を読む",
+          "body": "1,200超の病院が使うElsevierのツールが、EHR全体で治療計画を確認する。",
+          "mini_headline": "ClinicalKey AIがカルテを読む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Elsevierはラスベガス(Las Vegas)で開かれたHLTH 2026で、ClinicalKey AIの大型アップグレードを発表した。これによりAI-poweredの臨床意思決定支援ツールが患者の電子カルテ全体にアクセスし、同社のエビデンスに基づく医学ライブラリーと照らして治療計画を評価できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "HIPAA-ready(HIPAA対応)のこのポイント・オブ・ケアツールは、約1,000誌の論文全文から回答を導き、すでに1,200を超える病院に導入されている。同社によると、すべてのEHRベンダーと連携できる。患者コンテキスト機能は、Elsevierが6月に買収したWellsheetを土台にしている。Wellsheetは患者カルテのデータを集約・統合する。"
+              },
+              {
+                "t": "p",
+                "x": "ニューメキシコ州ファーミントン(Farmington, New Mexico)のSan Juan Regional Medical Centerは新機能を利用している。Carlo Hallak, M.D.は「ClinicalKey AIはカルテ全体を読み、エビデンスと照合し、各所見の出どころを正確に示す」と述べた。同氏は、このツールでウイルス性髄膜炎を正しく見極めた医師の例を挙げ、ある病院では退院サマリーの作成が三日から三時間未満に短縮されたと語った。"
+              },
+              {
+                "t": "p",
+                "x": "同医療センターはAIガバナンスにリスクベースのアプローチを取っている。Elsevierによると、このツールは引用元を示し、臨床医がなすべきことを指示しないようにする安全策を備えている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ClinicalKey AI\n可读取完整患者病历",
+          "body": "Elsevier的床旁工具已用于1,200多家医院，现可读取完整EHR以核查治疗方案。",
+          "mini_headline": "ClinicalKey AI读取病历",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "在Las Vegas（拉斯维加斯）举行的HLTH 2026上，Elsevier发布了ClinicalKey AI的重大升级，使这款AI-powered临床决策支持工具能够访问患者完整的电子健康记录，并依据公司的循证医学资料库评估治疗方案。"
+              },
+              {
+                "t": "p",
+                "x": "这款HIPAA-ready的床旁工具从约1,000种期刊的全文文章中生成答案，已部署于1,200多家医院；公司表示，它可与所有EHR供应商集成。患者情境功能建立在Elsevier于6月收购的Wellsheet之上，后者负责汇总和整合患者病历数据。"
+              },
+              {
+                "t": "p",
+                "x": "New Mexico（新墨西哥州）Farmington的San Juan Regional Medical Center正在使用这项新功能。Carlo Hallak, M.D.表示：“ClinicalKey AI会读取整份病历，对照证据进行核查，并准确显示每项发现的出处。”他举例说，一名医生借助该工具正确识别出病毒性脑膜炎；他还表示，一家医院的出院小结耗时从三天缩短到不足三小时。"
+              },
+              {
+                "t": "p",
+                "x": "该医疗中心对AI治理采取基于风险的方法。Elsevier称，该工具会显示引用来源，并设有防护机制，避免替临床医生规定应采取的处置。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ClinicalKey AI ya lee\nla historia clínica completa",
+          "body": "La herramienta de Elsevier, usada en más de 1,200 hospitales, lee toda la EHR del paciente para revisar tratamientos.",
+          "mini_headline": "ClinicalKey AI lee la historia clínica",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En HLTH 2026, en Las Vegas, Elsevier presentó una importante actualización de ClinicalKey AI que permite a esta herramienta AI-powered de apoyo a la decisión clínica acceder a la historia clínica electrónica completa del paciente y evaluar los planes de tratamiento frente a la biblioteca médica basada en evidencia de la compañía."
+              },
+              {
+                "t": "p",
+                "x": "Esta herramienta para el punto de atención, HIPAA-ready, extrae respuestas de artículos a texto completo de aproximadamente 1,000 revistas, ya está implantada en más de 1,200 hospitales y, según la empresa, se integra con todos los proveedores de EHR. La función de contexto del paciente se basa en la adquisición de Wellsheet por parte de Elsevier en junio; Wellsheet agrega y sintetiza los datos de la historia clínica."
+              },
+              {
+                "t": "p",
+                "x": "San Juan Regional Medical Center, en Farmington, New Mexico, utiliza la nueva función. “ClinicalKey AI lee toda la historia clínica, la contrasta con la evidencia y muestra exactamente de dónde proviene cada hallazgo”, dijo Carlo Hallak, M.D. Citó a un médico que la usó para identificar correctamente una meningitis viral y afirmó que, en los informes de alta, un hospital pasó de tres días a menos de tres horas."
+              },
+              {
+                "t": "p",
+                "x": "El centro médico aplica un enfoque basado en el riesgo a la gobernanza de la AI. Elsevier afirma que la herramienta muestra citas y cuenta con salvaguardas que le impiden prescribir lo que deben hacer los clínicos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "ClinicalKey AI\n환자 차트 전체를 읽는다",
+          "body": "1,200곳 넘는 병원의 Elsevier 도구가 EHR 전체로 치료 계획을 본다.",
+          "mini_headline": "ClinicalKey AI, 차트를 읽다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Elsevier는 라스베이거스(Las Vegas)에서 열린 HLTH 2026에서 ClinicalKey AI의 대규모 업그레이드를 공개했다. 이로써 이 AI-powered 임상 의사결정 지원 도구는 환자의 전자건강기록 전체에 접근하고, 회사의 근거 기반 의학 라이브러리에 비춰 치료 계획을 평가할 수 있게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "HIPAA-ready(HIPAA 대응) 현장 진료 도구인 이 제품은 약 1,000종 학술지의 전문 논문에서 답을 끌어오며, 이미 1,200곳 넘는 병원에 도입됐다. 회사는 모든 EHR 업체와 연동된다고 밝혔다. 환자 맥락 기능은 Elsevier가 6월 인수한 Wellsheet를 토대로 하며, Wellsheet는 환자 차트 데이터를 모으고 종합한다."
+              },
+              {
+                "t": "p",
+                "x": "뉴멕시코주 파밍턴(Farmington, New Mexico)의 San Juan Regional Medical Center가 새 기능을 쓰고 있다. Carlo Hallak, M.D.는 “ClinicalKey AI는 차트 전체를 읽고 근거와 대조한 뒤 각 소견이 정확히 어디서 나왔는지 보여 준다”고 말했다. 그는 이 도구로 바이러스성 수막염을 정확히 진단한 의사의 사례를 들었고, 한 병원은 퇴원 요약 작성 시간이 사흘에서 세 시간 미만으로 줄었다고 전했다."
+              },
+              {
+                "t": "p",
+                "x": "이 의료센터는 AI 거버넌스에 위험 기반 접근을 취한다. Elsevier는 이 도구가 인용 출처를 보여 주며, 의료진이 해야 할 일을 처방하지 못하게 막는 안전장치를 갖췄다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ClinicalKey AI\n患者カルテ全体を読む",
+          "body": "1,200超の病院が使うElsevierのツールが、EHR全体で治療計画を確認する。",
+          "mini_headline": "ClinicalKey AIがカルテを読む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Elsevierはラスベガス(Las Vegas)で開かれたHLTH 2026で、ClinicalKey AIの大型アップグレードを発表した。これによりAI-poweredの臨床意思決定支援ツールが患者の電子カルテ全体にアクセスし、同社のエビデンスに基づく医学ライブラリーと照らして治療計画を評価できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "HIPAA-ready(HIPAA対応)のこのポイント・オブ・ケアツールは、約1,000誌の論文全文から回答を導き、すでに1,200を超える病院に導入されている。同社によると、すべてのEHRベンダーと連携できる。患者コンテキスト機能は、Elsevierが6月に買収したWellsheetを土台にしている。Wellsheetは患者カルテのデータを集約・統合する。"
+              },
+              {
+                "t": "p",
+                "x": "ニューメキシコ州ファーミントン(Farmington, New Mexico)のSan Juan Regional Medical Centerは新機能を利用している。Carlo Hallak, M.D.は「ClinicalKey AIはカルテ全体を読み、エビデンスと照合し、各所見の出どころを正確に示す」と述べた。同氏は、このツールでウイルス性髄膜炎を正しく見極めた医師の例を挙げ、ある病院では退院サマリーの作成が三日から三時間未満に短縮されたと語った。"
+              },
+              {
+                "t": "p",
+                "x": "同医療センターはAIガバナンスにリスクベースのアプローチを取っている。Elsevierによると、このツールは引用元を示し、臨床医がなすべきことを指示しないようにする安全策を備えている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ClinicalKey AI\n可读取完整患者病历",
+          "body": "Elsevier的床旁工具已用于1,200多家医院，现可读取完整EHR以核查治疗方案。",
+          "mini_headline": "ClinicalKey AI读取病历",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "在Las Vegas（拉斯维加斯）举行的HLTH 2026上，Elsevier发布了ClinicalKey AI的重大升级，使这款AI-powered临床决策支持工具能够访问患者完整的电子健康记录，并依据公司的循证医学资料库评估治疗方案。"
+              },
+              {
+                "t": "p",
+                "x": "这款HIPAA-ready的床旁工具从约1,000种期刊的全文文章中生成答案，已部署于1,200多家医院；公司表示，它可与所有EHR供应商集成。患者情境功能建立在Elsevier于6月收购的Wellsheet之上，后者负责汇总和整合患者病历数据。"
+              },
+              {
+                "t": "p",
+                "x": "New Mexico（新墨西哥州）Farmington的San Juan Regional Medical Center正在使用这项新功能。Carlo Hallak, M.D.表示：“ClinicalKey AI会读取整份病历，对照证据进行核查，并准确显示每项发现的出处。”他举例说，一名医生借助该工具正确识别出病毒性脑膜炎；他还表示，一家医院的出院小结耗时从三天缩短到不足三小时。"
+              },
+              {
+                "t": "p",
+                "x": "该医疗中心对AI治理采取基于风险的方法。Elsevier称，该工具会显示引用来源，并设有防护机制，避免替临床医生规定应采取的处置。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ClinicalKey AI ya lee\nla historia clínica completa",
+          "body": "La herramienta de Elsevier, usada en más de 1,200 hospitales, lee toda la EHR del paciente para revisar tratamientos.",
+          "mini_headline": "ClinicalKey AI lee la historia clínica",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En HLTH 2026, en Las Vegas, Elsevier presentó una importante actualización de ClinicalKey AI que permite a esta herramienta AI-powered de apoyo a la decisión clínica acceder a la historia clínica electrónica completa del paciente y evaluar los planes de tratamiento frente a la biblioteca médica basada en evidencia de la compañía."
+              },
+              {
+                "t": "p",
+                "x": "Esta herramienta para el punto de atención, HIPAA-ready, extrae respuestas de artículos a texto completo de aproximadamente 1,000 revistas, ya está implantada en más de 1,200 hospitales y, según la empresa, se integra con todos los proveedores de EHR. La función de contexto del paciente se basa en la adquisición de Wellsheet por parte de Elsevier en junio; Wellsheet agrega y sintetiza los datos de la historia clínica."
+              },
+              {
+                "t": "p",
+                "x": "San Juan Regional Medical Center, en Farmington, New Mexico, utiliza la nueva función. “ClinicalKey AI lee toda la historia clínica, la contrasta con la evidencia y muestra exactamente de dónde proviene cada hallazgo”, dijo Carlo Hallak, M.D. Citó a un médico que la usó para identificar correctamente una meningitis viral y afirmó que, en los informes de alta, un hospital pasó de tres días a menos de tres horas."
+              },
+              {
+                "t": "p",
+                "x": "El centro médico aplica un enfoque basado en el riesgo a la gobernanza de la AI. Elsevier afirma que la herramienta muestra citas y cuenta con salvaguardas que le impiden prescribir lo que deben hacer los clínicos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "siemens-coronary-cockpit-fda",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "FDA, Siemens의\n관상동맥 플라크 AI 허가",
+      "body": "Siemens Coronary Cockpit은 어느 CT든 AI로 플라크를 본다.",
+      "mini_headline": "FDA, AI 플라크 도구 허가",
+      "tool": "Medicine",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/ct/news/16542132/siemens-healthineers-siemens-healthineers-gets-fda-clearance-for-syngoct-coronary-cockpit",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "og_image": null,
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Siemens Healthineers가 Syngo.CT Coronary Cockpit 소프트웨어의 U.S. Food and Drug Administration(FDA, 미국 식품의약국) 허가를 받았다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+            "cap": "혈관 병변과 스텐트 위치를 측정 데이터, 강도 분석 그래프와 함께 보여 주는 3D 의료 혈관조영 영상"
+          },
+          {
+            "t": "p",
+            "x": "회사에 따르면 Coronary Cockpit은 관상동맥 CT 혈관조영(CCTA) 데이터를 분석해 관상동맥질환 관리와 경피적 관상동맥중재술 계획을 돕는다. Siemens는 소프트웨어가 자사 syngo.via 영상 플랫폼에서 돌아가며 AI-based 분할·라벨링·시각화로 관상동맥 전체나 개별 병변의 플라크 양과 형태를 파악한다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 플라크의 구성·크기·분포 정보가 의료진이 환자 위험을 가늠하고 중재술과 내과적 관리 가운데 무엇이 맞는지 판단하는 데 도움이 될 수 있다고 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "Siemens에 따르면 소프트웨어는 어떤 CT 스캐너의 CCTA 데이터와도 호환된다. 다만 자사 듀얼 소스·광자계수 CT 시스템과 함께 쓰면 이들 장비의 시간·공간 해상도 덕분에 이점을 더 얻는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "FDA clears Siemens AI\nfor coronary plaque",
+          "body": "Siemens' Coronary Cockpit uses AI to map plaque amount and morphology on coronary CT angiography from any CT scanner.",
+          "mini_headline": "FDA clears AI plaque tool",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens Healthineers has received U.S. Food and Drug Administration (FDA) clearance for its Syngo.CT Coronary Cockpit software."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "3D medical angiography scan showing vascular lesions and stent placement with measurement data and intensity analysis graph"
+              },
+              {
+                "t": "p",
+                "x": "Coronary Cockpit analyzes coronary CT angiography (CCTA) data to support management of coronary artery disease and planning for percutaneous coronary intervention, according to the vendor. It runs on the company’s syngo.via imaging platform, uses AI-based segmentation, labeling, and visualization to characterize the amount and morphology of plaque across the entire coronary tree or within individual lesions, Siemens said."
+              },
+              {
+                "t": "p",
+                "x": "Information on plaque composition, size, and distribution can help clinicians assess patient risk and determine whether intervention or medical management is appropriate, the company highlighted."
+              },
+              {
+                "t": "p",
+                "x": "The software works with CCTA data from any CT scanner, though integration with the vendor’s dual-source and photon-counting CT systems provides additional benefits from their temporal and spatial resolution, Siemens said."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "FDA, Siemens의\n관상동맥 플라크 AI 허가",
+          "body": "Siemens Coronary Cockpit은 어느 CT든 AI로 플라크를 본다.",
+          "mini_headline": "FDA, AI 플라크 도구 허가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens Healthineers가 Syngo.CT Coronary Cockpit 소프트웨어의 U.S. Food and Drug Administration(FDA, 미국 식품의약국) 허가를 받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "혈관 병변과 스텐트 위치를 측정 데이터, 강도 분석 그래프와 함께 보여 주는 3D 의료 혈관조영 영상"
+              },
+              {
+                "t": "p",
+                "x": "회사에 따르면 Coronary Cockpit은 관상동맥 CT 혈관조영(CCTA) 데이터를 분석해 관상동맥질환 관리와 경피적 관상동맥중재술 계획을 돕는다. Siemens는 소프트웨어가 자사 syngo.via 영상 플랫폼에서 돌아가며 AI-based 분할·라벨링·시각화로 관상동맥 전체나 개별 병변의 플라크 양과 형태를 파악한다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 플라크의 구성·크기·분포 정보가 의료진이 환자 위험을 가늠하고 중재술과 내과적 관리 가운데 무엇이 맞는지 판단하는 데 도움이 될 수 있다고 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "Siemens에 따르면 소프트웨어는 어떤 CT 스캐너의 CCTA 데이터와도 호환된다. 다만 자사 듀얼 소스·광자계수 CT 시스템과 함께 쓰면 이들 장비의 시간·공간 해상도 덕분에 이점을 더 얻는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDA、Siemensの\n冠動脈プラークAIを認可",
+          "body": "SiemensのCoronary CockpitはAIで任意のCTのプラークを解析する。",
+          "mini_headline": "FDA、AIプラーク解析を認可",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens HealthineersはSyngo.CT Coronary Cockpitソフトウェアについて、U.S. Food and Drug Administration(FDA、米国食品医薬品局)の認可を取得した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "血管病変とステント留置を、計測データと強度解析グラフとともに示す3D医療血管造影画像"
+              },
+              {
+                "t": "p",
+                "x": "同社によると、Coronary Cockpitは冠動脈CT血管造影(CCTA)データを解析し、冠動脈疾患の管理と経皮的冠動脈インターベンションの計画を支援する。同社のsyngo.via画像プラットフォーム上で動作し、AI-basedのセグメンテーション、ラベリング、可視化により、冠動脈全体または個々の病変におけるプラークの量と形態を評価するとSiemensは説明した。"
+              },
+              {
+                "t": "p",
+                "x": "プラークの組成、大きさ、分布に関する情報は、臨床医が患者のリスクを評価し、インターベンションと内科的管理のどちらが適切かを判断するのに役立つと同社は強調した。"
+              },
+              {
+                "t": "p",
+                "x": "Siemensによると、このソフトウェアはあらゆるCTスキャナーのCCTAデータに対応するが、同社のデュアルソースCTやフォトンカウンティングCTと統合すると、それらの時間分解能と空間分解能による追加の利点が得られる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA许可Siemens\n冠脉斑块AI软件",
+          "body": "Siemens的Coronary Cockpit用AI分析任意CT冠脉造影的斑块量与形态。",
+          "mini_headline": "FDA许可AI斑块工具",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens Healthineers的Syngo.CT Coronary Cockpit软件已获得U.S. Food and Drug Administration（FDA，美国食品药品监督管理局）许可。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "显示血管病变和支架置入位置的3D医学血管造影图像，附有测量数据和强度分析图"
+              },
+              {
+                "t": "p",
+                "x": "据该公司介绍，Coronary Cockpit可分析冠状动脉CT血管造影（CCTA）数据，支持冠状动脉疾病管理和经皮冠状动脉介入治疗规划。Siemens表示，该软件运行于公司的syngo.via影像平台，借助AI-based分割、标注和可视化技术，描述整个冠状动脉树或单个病变内斑块的数量与形态。"
+              },
+              {
+                "t": "p",
+                "x": "该公司强调，有关斑块成分、大小和分布的信息可帮助临床医生评估患者风险，并判断介入治疗还是药物治疗更为合适。"
+              },
+              {
+                "t": "p",
+                "x": "Siemens表示，该软件适用于任何CT扫描仪获取的CCTA数据，但与公司的双源CT和光子计数CT系统集成后，可凭借其时间和空间分辨率获得额外优势。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La FDA aprueba la AI de Siemens\npara placa coronaria",
+          "body": "Coronary Cockpit, de Siemens, usa AI para mapear la placa coronaria en angiografías por CT de cualquier escáner.",
+          "mini_headline": "La FDA aprueba una AI para placa",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens Healthineers ha recibido la autorización de la U.S. Food and Drug Administration (FDA) para su software Syngo.CT Coronary Cockpit."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Angiografía médica en 3D que muestra lesiones vasculares y la colocación de un stent, con datos de medición y un gráfico de análisis de intensidad"
+              },
+              {
+                "t": "p",
+                "x": "Coronary Cockpit analiza datos de angiografía coronaria por CT (CCTA) para apoyar el manejo de la enfermedad arterial coronaria y la planificación de la intervención coronaria percutánea, según el fabricante. Funciona en la plataforma de imagen syngo.via de la compañía y utiliza segmentación, etiquetado y visualización AI-based para caracterizar la cantidad y la morfología de la placa en todo el árbol coronario o en lesiones individuales, dijo Siemens."
+              },
+              {
+                "t": "p",
+                "x": "La información sobre la composición, el tamaño y la distribución de la placa puede ayudar a los clínicos a evaluar el riesgo del paciente y decidir si conviene una intervención o el manejo médico, destacó la empresa."
+              },
+              {
+                "t": "p",
+                "x": "El software funciona con datos de CCTA de cualquier escáner de CT, aunque la integración con los sistemas de CT de doble fuente y de conteo de fotones del fabricante aporta ventajas adicionales por su resolución temporal y espacial, dijo Siemens."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "FDA, Siemens의\n관상동맥 플라크 AI 허가",
+          "body": "Siemens Coronary Cockpit은 AI로 모든 CT의 플라크를 본다.",
+          "mini_headline": "FDA, AI 플라크 도구 허가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens Healthineers가 Syngo.CT Coronary Cockpit 소프트웨어에 대해 U.S. Food and Drug Administration(FDA, 미국 식품의약국) 허가를 받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "혈관 병변과 스텐트 위치를 측정 데이터, 강도 분석 그래프와 함께 보여 주는 3D 의료 혈관조영 영상"
+              },
+              {
+                "t": "p",
+                "x": "회사에 따르면 Coronary Cockpit은 관상동맥 CT 혈관조영(CCTA) 데이터를 분석해 관상동맥질환 관리와 경피적 관상동맥중재술 계획을 지원한다. Siemens는 이 소프트웨어가 자사 syngo.via 영상 플랫폼에서 구동되며, AI-based 분할·라벨링·시각화로 관상동맥 전체 또는 개별 병변의 플라크 양과 형태를 파악한다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "플라크의 구성, 크기, 분포 정보는 의료진이 환자 위험을 평가하고 중재술과 내과적 관리 중 무엇이 적절한지 판단하는 데 도움이 될 수 있다고 회사는 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "Siemens에 따르면 이 소프트웨어는 어떤 CT 스캐너의 CCTA 데이터와도 호환되지만, 자사 듀얼 소스·광자계수 CT 시스템과 연동하면 이들 장비의 시간·공간 해상도 덕분에 추가 이점을 얻을 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDA、Siemensの\n冠動脈プラークAIを認可",
+          "body": "SiemensのCoronary CockpitはAIで任意のCTのプラークを解析する。",
+          "mini_headline": "FDA、AIプラーク解析を認可",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens HealthineersはSyngo.CT Coronary Cockpitソフトウェアについて、U.S. Food and Drug Administration(FDA、米国食品医薬品局)の認可を取得した。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "血管病変とステント留置を、計測データと強度解析グラフとともに示す3D医療血管造影画像"
+              },
+              {
+                "t": "p",
+                "x": "同社によると、Coronary Cockpitは冠動脈CT血管造影(CCTA)データを解析し、冠動脈疾患の管理と経皮的冠動脈インターベンションの計画を支援する。同社のsyngo.via画像プラットフォーム上で動作し、AI-basedのセグメンテーション、ラベリング、可視化により、冠動脈全体または個々の病変におけるプラークの量と形態を評価するとSiemensは説明した。"
+              },
+              {
+                "t": "p",
+                "x": "プラークの組成、大きさ、分布に関する情報は、臨床医が患者のリスクを評価し、インターベンションと内科的管理のどちらが適切かを判断するのに役立つと同社は強調した。"
+              },
+              {
+                "t": "p",
+                "x": "Siemensによると、このソフトウェアはあらゆるCTスキャナーのCCTAデータに対応するが、同社のデュアルソースCTやフォトンカウンティングCTと統合すると、それらの時間分解能と空間分解能による追加の利点が得られる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA许可Siemens\n冠脉斑块AI软件",
+          "body": "Siemens的Coronary Cockpit用AI分析任意CT冠脉造影的斑块量与形态。",
+          "mini_headline": "FDA许可AI斑块工具",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens Healthineers的Syngo.CT Coronary Cockpit软件已获得U.S. Food and Drug Administration（FDA，美国食品药品监督管理局）许可。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "显示血管病变和支架置入位置的3D医学血管造影图像，附有测量数据和强度分析图"
+              },
+              {
+                "t": "p",
+                "x": "据该公司介绍，Coronary Cockpit可分析冠状动脉CT血管造影（CCTA）数据，支持冠状动脉疾病管理和经皮冠状动脉介入治疗规划。Siemens表示，该软件运行于公司的syngo.via影像平台，借助AI-based分割、标注和可视化技术，描述整个冠状动脉树或单个病变内斑块的数量与形态。"
+              },
+              {
+                "t": "p",
+                "x": "该公司强调，有关斑块成分、大小和分布的信息可帮助临床医生评估患者风险，并判断介入治疗还是药物治疗更为合适。"
+              },
+              {
+                "t": "p",
+                "x": "Siemens表示，该软件适用于任何CT扫描仪获取的CCTA数据，但与公司的双源CT和光子计数CT系统集成后，可凭借其时间和空间分辨率获得额外优势。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La FDA aprueba la AI de Siemens\npara placa coronaria",
+          "body": "Coronary Cockpit, de Siemens, usa AI para mapear la placa coronaria en angiografías por CT de cualquier escáner.",
+          "mini_headline": "La FDA aprueba una AI para placa",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens Healthineers ha recibido la autorización de la U.S. Food and Drug Administration (FDA) para su software Syngo.CT Coronary Cockpit."
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/image-syngoct-c.zfkEA50dg6.png?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Angiografía médica en 3D que muestra lesiones vasculares y la colocación de un stent, con datos de medición y un gráfico de análisis de intensidad"
+              },
+              {
+                "t": "p",
+                "x": "Coronary Cockpit analiza datos de angiografía coronaria por CT (CCTA) para apoyar el manejo de la enfermedad arterial coronaria y la planificación de la intervención coronaria percutánea, según el fabricante. Funciona en la plataforma de imagen syngo.via de la compañía y utiliza segmentación, etiquetado y visualización AI-based para caracterizar la cantidad y la morfología de la placa en todo el árbol coronario o en lesiones individuales, dijo Siemens."
+              },
+              {
+                "t": "p",
+                "x": "La información sobre la composición, el tamaño y la distribución de la placa puede ayudar a los clínicos a evaluar el riesgo del paciente y decidir si conviene una intervención o el manejo médico, destacó la empresa."
+              },
+              {
+                "t": "p",
+                "x": "El software funciona con datos de CCTA de cualquier escáner de CT, aunque la integración con los sistemas de CT de doble fuente y de conteo de fotones del fabricante aporta ventajas adicionales por su resolución temporal y espacial, dijo Siemens."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "eu-mdr2-ai-device-reform",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "EU의 MDR 2.0,\nAI 기기 기준 시험대",
+      "body": "논평은 EU MDR 2.0이 AI 기기 이중규제를 줄이며 증거기준도 낮출지 묻는다.",
+      "mini_headline": "EU, AI 기기 규칙 재검토",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03475-8",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "European Commission(유럽연합 집행위원회)은 2025년 12월 MDR, IVDR, AI Act를 한 패키지로 고치는 ‘MDR 2.0 proposal(MDR 2.0 제안)’을 내놓았다. npj Digital Medicine에 실린 이 Comment는 제안이 증거 요건과 규제 감독, 환자 보호를 약화하지 않고도 AI-enabled 의료기기(AIeMDs)의 규제 환경을 개선할 수 있는지 묻는다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+            "cap": "Fig. 1: EU의 AIeMDs 입법 일정과 정책 경로."
+          },
+          {
+            "t": "p",
+            "x": "제안은 MDR과 IVDR을 AIA Annex I의 Section B로 옮겨 MDR–AIA 중복을 줄이려 했다. 그러나 2026년 7월 채택된 Digital Omnibus on AI는 다른 길을 택해 고위험 요건 적용을 2028년 8월로 미뤘다. 개정된 rule 11은 소프트웨어를 기본 Class I로 분류하지만, 저자들은 이런 경우가 예외에 그칠 것으로 본다."
+          },
+          {
+            "t": "p",
+            "x": "제안은 임상 데이터 범위를 동료 심사를 거치지 않은 연구까지 넓히고 혁신 경로와 규제 샌드박스, 완화된 원내 제조 기기 규정, 사전 변경 관리 계획(PCCPs)도 더한다. 저자들의 결론은 개혁이 일부만 개선한다는 것이다. 개방형 학습과 에이전트형 AI는 여전히 적용 범위 밖이고, 채택 시점은 2027년이나 2028년이 될 공산이 크다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "EU's MDR 2.0 tests the\nbar for AI devices",
+          "body": "A comment asks whether the EU's MDR 2.0 cuts to double regulation of AI devices would weaken evidence rules.",
+          "mini_headline": "EU rethinks AI device rules",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "In December 2025, the European Commission proposed amending the MDR, the IVDR and the AI Act in a single package — the ‘MDR 2.0 proposal’. This npj Digital Medicine Comment asks whether it would improve the regulatory environment for AI-enabled medical devices (AIeMDs) without weakening evidence requirements, regulatory oversight, or patient protection."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: Legislative timeline and policy pathways for AIeMDs in the EU."
+              },
+              {
+                "t": "p",
+                "x": "The proposal aimed to cut MDR–AIA overlap by moving the MDR and IVDR to Section B of AIA Annex I, but the Digital Omnibus on AI, adopted in July 2026, took a different route and delays high-risk requirements to August 2028. A revised rule 11 makes software Class I by default, which the authors expect to stay exceptional."
+              },
+              {
+                "t": "p",
+                "x": "It also broadens clinical data to non-peer-reviewed studies, adds an innovation pathway, regulatory sandboxes, looser in-house device rules and predetermined change control plans (PCCPs). The authors conclude the reform would improve things only partially: open-ended learning and agentic AI remain outside its scope, and adoption in 2027 or 2028 is likely."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "EU의 MDR 2.0,\nAI 기기 기준 시험대",
+          "body": "논평은 EU MDR 2.0이 AI 기기 이중규제를 줄이며 증거기준도 낮출지 묻는다.",
+          "mini_headline": "EU, AI 기기 규칙 재검토",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "European Commission(유럽연합 집행위원회)은 2025년 12월 MDR, IVDR, AI Act를 한 패키지로 고치는 ‘MDR 2.0 proposal(MDR 2.0 제안)’을 내놓았다. npj Digital Medicine에 실린 이 Comment는 제안이 증거 요건과 규제 감독, 환자 보호를 약화하지 않고도 AI-enabled 의료기기(AIeMDs)의 규제 환경을 개선할 수 있는지 묻는다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: EU의 AIeMDs 입법 일정과 정책 경로."
+              },
+              {
+                "t": "p",
+                "x": "제안은 MDR과 IVDR을 AIA Annex I의 Section B로 옮겨 MDR–AIA 중복을 줄이려 했다. 그러나 2026년 7월 채택된 Digital Omnibus on AI는 다른 길을 택해 고위험 요건 적용을 2028년 8월로 미뤘다. 개정된 rule 11은 소프트웨어를 기본 Class I로 분류하지만, 저자들은 이런 경우가 예외에 그칠 것으로 본다."
+              },
+              {
+                "t": "p",
+                "x": "제안은 임상 데이터 범위를 동료 심사를 거치지 않은 연구까지 넓히고 혁신 경로와 규제 샌드박스, 완화된 원내 제조 기기 규정, 사전 변경 관리 계획(PCCPs)도 더한다. 저자들의 결론은 개혁이 일부만 개선한다는 것이다. 개방형 학습과 에이전트형 AI는 여전히 적용 범위 밖이고, 채택 시점은 2027년이나 2028년이 될 공산이 크다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "EUのMDR 2.0が問う\nAI機器の基準",
+          "body": "EUのMDR 2.0によるAI機器の二重規制削減が証拠基準を弱めるかを問う論評だ。",
+          "mini_headline": "EU、AI機器規制を見直し",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "2025年12月、European Commission(欧州委員会)はMDR、IVDR、AI Actを一つのパッケージで改正する「MDR 2.0 proposal(MDR 2.0提案)」を示した。このnpj Digital Medicine Commentは、この提案がエビデンス要件、規制監督、患者保護を弱めることなく、AI-enabled医療機器(AIeMDs)の規制環境を改善できるかを問う。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: EUにおけるAIeMDsの立法スケジュールと政策経路。"
+              },
+              {
+                "t": "p",
+                "x": "提案はMDRとIVDRをAIA Annex IのSection Bに移すことでMDR–AIAの重複を減らそうとしたが、2026年7月に採択されたDigital Omnibus on AIは別の道を選び、高リスク要件の適用を2028年8月に延期した。改訂されたrule 11はソフトウェアを原則Class Iとするが、著者らはこれが例外的な扱いにとどまるとみている。"
+              },
+              {
+                "t": "p",
+                "x": "提案はさらに臨床データの範囲を査読を経ていない研究にまで広げ、イノベーション経路、規制サンドボックス、院内製造機器規則の緩和、事前変更管理計画(PCCPs)を加える。著者らは、この改革による改善は部分的にとどまると結論づける。オープンエンド学習やエージェント型AIは対象外のままで、採択は2027年か2028年になる可能性が高い。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "EU的MDR 2.0\n考验AI器械门槛",
+          "body": "一篇评论探讨EU的MDR 2.0削减AI器械双重监管是否会削弱证据要求。",
+          "mini_headline": "EU重新审视AI器械规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "2025年12月，European Commission（欧盟委员会）提出以单一一揽子方案修订MDR、IVDR和AI Act，即“MDR 2.0 proposal”（MDR 2.0提案）。这篇npj Digital Medicine Comment探讨该提案能否在不削弱证据要求、监管监督或患者保护的前提下，改善AI-enabled医疗器械（AIeMDs）的监管环境。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: EU中AIeMDs的立法时间线与政策路径。"
+              },
+              {
+                "t": "p",
+                "x": "该提案原计划将MDR和IVDR移至AIA Annex I的Section B，以减少MDR–AIA重叠，但2026年7月通过的Digital Omnibus on AI另辟路径，将高风险要求推迟至2028年8月。修订后的rule 11默认将软件归为Class I，作者预计这种情况仍属例外。"
+              },
+              {
+                "t": "p",
+                "x": "该提案还将临床数据扩展至未经同行评审的研究，并新增创新路径、监管沙盒、更宽松的院内器械规则以及预定变更控制计划（PCCPs）。作者认为，这项改革只能带来部分改善：开放式学习和智能体AI仍不在其范围内，且很可能在2027年或2028年才获通过。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El MDR 2.0 de la EU y el listón\npara los dispositivos con AI",
+          "body": "Un comentario pregunta si el MDR 2.0 de la EU, al reducir la doble regulación de la AI, debilitaría la evidencia.",
+          "mini_headline": "La EU revisa las reglas de dispositivos AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En diciembre de 2025, la European Commission (Comisión Europea) propuso modificar el MDR, el IVDR y el AI Act en un único paquete: la ‘MDR 2.0 proposal’. Este npj Digital Medicine Comment se pregunta si mejoraría el entorno regulatorio de los dispositivos médicos AI-enabled (AIeMDs) sin debilitar los requisitos de evidencia, la supervisión regulatoria ni la protección del paciente."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: Cronología legislativa y vías de política para los AIeMDs en la EU."
+              },
+              {
+                "t": "p",
+                "x": "La propuesta buscaba reducir el solapamiento MDR–AIA trasladando el MDR y el IVDR a la Section B del AIA Annex I, pero el Digital Omnibus on AI, adoptado en julio de 2026, siguió otro camino y aplaza los requisitos de alto riesgo hasta agosto de 2028. Una rule 11 revisada clasifica el software como Class I por defecto, algo que los autores prevén que siga siendo excepcional."
+              },
+              {
+                "t": "p",
+                "x": "También amplía los datos clínicos a estudios sin revisión por pares y añade una vía de innovación, entornos regulatorios de prueba (sandboxes), normas más flexibles para dispositivos fabricados internamente y planes de control de cambios predeterminados (PCCPs). Los autores concluyen que la reforma solo mejoraría las cosas en parte: el aprendizaje abierto y la AI agéntica quedan fuera de su alcance, y es probable que se adopte en 2027 o 2028."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "EU의 MDR 2.0,\nAI 기기 기준 시험대",
+          "body": "논평은 EU MDR 2.0의 AI 기기 이중규제 축소가 증거기준을 낮출지 묻는다.",
+          "mini_headline": "EU, AI 기기 규칙 재검토",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "2025년 12월 European Commission(유럽연합 집행위원회)은 MDR, IVDR, AI Act를 하나의 패키지로 개정하는 ‘MDR 2.0 proposal(MDR 2.0 제안)’을 내놓았다. 이 npj Digital Medicine Comment는 이 제안이 증거 요건, 규제 감독, 환자 보호를 약화하지 않으면서 AI-enabled 의료기기(AIeMDs)의 규제 환경을 개선할 수 있는지 묻는다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: EU의 AIeMDs 입법 일정과 정책 경로."
+              },
+              {
+                "t": "p",
+                "x": "제안은 MDR과 IVDR을 AIA Annex I의 Section B로 옮겨 MDR–AIA 중복을 줄이려 했지만, 2026년 7월 채택된 Digital Omnibus on AI는 다른 길을 택해 고위험 요건 적용을 2028년 8월로 미뤘다. 개정된 rule 11은 소프트웨어를 기본적으로 Class I로 분류하는데, 저자들은 이것이 예외적인 경우에 머물 것으로 본다."
+              },
+              {
+                "t": "p",
+                "x": "제안은 또 임상 데이터의 범위를 동료 심사를 거치지 않은 연구까지 넓히고, 혁신 경로, 규제 샌드박스, 완화된 원내 제조 기기 규정, 사전 변경 관리 계획(PCCPs)을 더한다. 저자들은 이 개혁이 일부만 개선할 것이라고 결론짓는다. 개방형 학습과 에이전트형 AI는 여전히 적용 범위 밖에 있고, 채택은 2027년이나 2028년이 될 가능성이 높다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "EUのMDR 2.0が問う\nAI機器の基準",
+          "body": "EUのMDR 2.0によるAI機器の二重規制削減が証拠基準を弱めるかを問う論評だ。",
+          "mini_headline": "EU、AI機器規制を見直し",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "2025年12月、European Commission(欧州委員会)はMDR、IVDR、AI Actを一つのパッケージで改正する「MDR 2.0 proposal(MDR 2.0提案)」を示した。このnpj Digital Medicine Commentは、この提案がエビデンス要件、規制監督、患者保護を弱めることなく、AI-enabled医療機器(AIeMDs)の規制環境を改善できるかを問う。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: EUにおけるAIeMDsの立法スケジュールと政策経路。"
+              },
+              {
+                "t": "p",
+                "x": "提案はMDRとIVDRをAIA Annex IのSection Bに移すことでMDR–AIAの重複を減らそうとしたが、2026年7月に採択されたDigital Omnibus on AIは別の道を選び、高リスク要件の適用を2028年8月に延期した。改訂されたrule 11はソフトウェアを原則Class Iとするが、著者らはこれが例外的な扱いにとどまるとみている。"
+              },
+              {
+                "t": "p",
+                "x": "提案はさらに臨床データの範囲を査読を経ていない研究にまで広げ、イノベーション経路、規制サンドボックス、院内製造機器規則の緩和、事前変更管理計画(PCCPs)を加える。著者らは、この改革による改善は部分的にとどまると結論づける。オープンエンド学習やエージェント型AIは対象外のままで、採択は2027年か2028年になる可能性が高い。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "EU的MDR 2.0\n考验AI器械门槛",
+          "body": "一篇评论探讨EU的MDR 2.0削减AI器械双重监管是否会削弱证据要求。",
+          "mini_headline": "EU重新审视AI器械规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "2025年12月，European Commission（欧盟委员会）提出以单一一揽子方案修订MDR、IVDR和AI Act，即“MDR 2.0 proposal”（MDR 2.0提案）。这篇npj Digital Medicine Comment探讨该提案能否在不削弱证据要求、监管监督或患者保护的前提下，改善AI-enabled医疗器械（AIeMDs）的监管环境。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: EU中AIeMDs的立法时间线与政策路径。"
+              },
+              {
+                "t": "p",
+                "x": "该提案原计划将MDR和IVDR移至AIA Annex I的Section B，以减少MDR–AIA重叠，但2026年7月通过的Digital Omnibus on AI另辟路径，将高风险要求推迟至2028年8月。修订后的rule 11默认将软件归为Class I，作者预计这种情况仍属例外。"
+              },
+              {
+                "t": "p",
+                "x": "该提案还将临床数据扩展至未经同行评审的研究，并新增创新路径、监管沙盒、更宽松的院内器械规则以及预定变更控制计划（PCCPs）。作者认为，这项改革只能带来部分改善：开放式学习和智能体AI仍不在其范围内，且很可能在2027年或2028年才获通过。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El MDR 2.0 de la EU y el listón\npara los dispositivos con AI",
+          "body": "Un comentario pregunta si el MDR 2.0 de la EU, al reducir la doble regulación de la AI, debilitaría la evidencia.",
+          "mini_headline": "La EU revisa las reglas de dispositivos AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En diciembre de 2025, la European Commission (Comisión Europea) propuso modificar el MDR, el IVDR y el AI Act en un único paquete: la ‘MDR 2.0 proposal’. Este npj Digital Medicine Comment se pregunta si mejoraría el entorno regulatorio de los dispositivos médicos AI-enabled (AIeMDs) sin debilitar los requisitos de evidencia, la supervisión regulatoria ni la protección del paciente."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+                "cap": "Fig. 1: Cronología legislativa y vías de política para los AIeMDs en la EU."
+              },
+              {
+                "t": "p",
+                "x": "La propuesta buscaba reducir el solapamiento MDR–AIA trasladando el MDR y el IVDR a la Section B del AIA Annex I, pero el Digital Omnibus on AI, adoptado en julio de 2026, siguió otro camino y aplaza los requisitos de alto riesgo hasta agosto de 2028. Una rule 11 revisada clasifica el software como Class I por defecto, algo que los autores prevén que siga siendo excepcional."
+              },
+              {
+                "t": "p",
+                "x": "También amplía los datos clínicos a estudios sin revisión por pares y añade una vía de innovación, entornos regulatorios de prueba (sandboxes), normas más flexibles para dispositivos fabricados internamente y planes de control de cambios predeterminados (PCCPs). Los autores concluyen que la reforma solo mejoraría las cosas en parte: el aprendizaje abierto y la AI agéntica quedan fuera de su alcance, y es probable que se adopte en 2027 o 2028."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "deepnoid-peritoneal-metastasis-ai",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "딥노이드 복막 전이 AI\n보조 시 정확도 91.5%",
+      "body": "AI 보조 시 병리 전문의 판독 정확도가 76.5%에서 91.5%로 높아졌다.",
+      "mini_headline": "복막 전이 판별 AI",
+      "tool": "Medicine",
+      "source": "의학신문",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016882",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "딥노이드(대표 최우식)는 복수 세포검사 이미지로 위암·대장암의 복막 전이를 판별하는 AI 연구 논문이 국제 학술지 ‘Journal of Korean Medical Science(JKMS)’에 게재됐다고 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+            "cap": "사진제공=딥노이드"
+          },
+          {
+            "t": "p",
+            "x": "이번 연구는 딥노이드 AI 연구소를 비롯해 삼성서울병원, 분당서울대병원, 세브란스병원, 순천향대 부천병원, 중앙대병원, 가톨릭대 의대, 서울아산병원, 국립암센터 연구진이 공동으로 수행했다."
+          },
+          {
+            "t": "p",
+            "x": "연구팀은 슬라이드를 작은 조각(패치)으로 분할해 일일이 표지하는 번거로운 작업 없이 전체 슬라이드 이미지(WSI) 단위로 학습하고 판별하는 CLAM 기반 AI 모델을 개발했다. PAP 염색과 H&E 염색 슬라이드를 모두 분석할 수 있으며, 판단 근거 영역을 주의 지도(attention map)로 시각화했다. 전국 214개 의료기관이 참여한 국가 세포병리 데이터셋에서 악성 및 음성 슬라이드 총 719장을 학습과 성능 평가에 활용했다."
+          },
+          {
+            "t": "p",
+            "x": "병리 전문의 5명이 참여한 비교 평가에서 AI의 도움을 받았을 때 전문의 평균 판독 정확도는 기존 76.5%에서 91.5%로 뛰었고, 민감도는 66.2%에서 92.6%로 상승했다. 5명 모두 판독 정확도가 개선됐으며, 슬라이드당 평균 판독 시간은 약 100초에서 약 50초로 단축됐다."
+          },
+          {
+            "t": "p",
+            "x": "최우식 대표는 “흉부 및 뇌 영상 판독을 통해 쌓은 AI 역량을 병리까지 넓혀, 판독 워크플로우 전반을 지원하는 에이전트 AI 기반 의료 서비스 기업으로서의 경쟁력을 높여 나가겠다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "딥노이드 복막 전이 AI\n보조 시 정확도 91.5%",
+          "body": "AI 보조 시 병리 전문의 판독 정확도가 76.5%에서 91.5%로 높아졌다.",
+          "mini_headline": "복막 전이 판별 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "딥노이드(대표 최우식)는 복수 세포검사 이미지로 위암·대장암의 복막 전이를 판별하는 AI 연구 논문이 국제 학술지 ‘Journal of Korean Medical Science(JKMS)’에 게재됐다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "사진제공=딥노이드"
+              },
+              {
+                "t": "p",
+                "x": "이번 연구는 딥노이드 AI 연구소를 비롯해 삼성서울병원, 분당서울대병원, 세브란스병원, 순천향대 부천병원, 중앙대병원, 가톨릭대 의대, 서울아산병원, 국립암센터 연구진이 공동으로 수행했다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 슬라이드를 작은 조각(패치)으로 분할해 일일이 표지하는 번거로운 작업 없이 전체 슬라이드 이미지(WSI) 단위로 학습하고 판별하는 CLAM 기반 AI 모델을 개발했다. PAP 염색과 H&E 염색 슬라이드를 모두 분석할 수 있으며, 판단 근거 영역을 주의 지도(attention map)로 시각화했다. 전국 214개 의료기관이 참여한 국가 세포병리 데이터셋에서 악성 및 음성 슬라이드 총 719장을 학습과 성능 평가에 활용했다."
+              },
+              {
+                "t": "p",
+                "x": "병리 전문의 5명이 참여한 비교 평가에서 AI의 도움을 받았을 때 전문의 평균 판독 정확도는 기존 76.5%에서 91.5%로 뛰었고, 민감도는 66.2%에서 92.6%로 상승했다. 5명 모두 판독 정확도가 개선됐으며, 슬라이드당 평균 판독 시간은 약 100초에서 약 50초로 단축됐다."
+              },
+              {
+                "t": "p",
+                "x": "최우식 대표는 “흉부 및 뇌 영상 판독을 통해 쌓은 AI 역량을 병리까지 넓혀, 판독 워크플로우 전반을 지원하는 에이전트 AI 기반 의료 서비스 기업으로서의 경쟁력을 높여 나가겠다”고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Deepnoid peritoneal AI lifts\naccuracy to 91.5%",
+          "body": "With AI assistance, pathologists' reading accuracy rose from 76.5% to 91.5%.",
+          "mini_headline": "AI for peritoneal metastasis",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid (CEO Choi Woo-sik) said a research paper on AI that identifies peritoneal metastasis of gastric and colorectal cancer from ascites cytology images was published in the international journal ‘Journal of Korean Medical Science (JKMS)’."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "Photo courtesy of Deepnoid"
+              },
+              {
+                "t": "p",
+                "x": "The study was carried out jointly by researchers from the Deepnoid AI Research Institute, Samsung Medical Center, Seoul National University Bundang Hospital, Severance Hospital, Soonchunhyang University Bucheon Hospital, Chung-Ang University Hospital, the Catholic University of Korea College of Medicine, Asan Medical Center and the National Cancer Center."
+              },
+              {
+                "t": "p",
+                "x": "The team developed a CLAM-based AI model that learns and classifies at the whole slide image (WSI) level, without the laborious work of splitting slides into small pieces (patches) and labeling each one. It can analyze both PAP and H&E stained slides, and it visualizes the regions behind its judgments as an attention map. A total of 719 malignant and negative slides from a national cytopathology dataset involving 214 medical institutions nationwide were used for training and performance evaluation."
+              },
+              {
+                "t": "p",
+                "x": "In a comparative evaluation with 5 pathologists, their average reading accuracy rose from 76.5% to 91.5% with AI assistance, and sensitivity rose from 66.2% to 92.6%. Reading accuracy improved for all 5, and average reading time per slide fell from about 100 seconds to about 50 seconds."
+              },
+              {
+                "t": "p",
+                "x": "“We will extend the AI capabilities we built through chest and brain image reading to pathology, and strengthen our competitiveness as an agentic AI-based medical services company that supports the entire reading workflow,” said CEO Choi Woo-sik."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Deepnoid腹膜転移AI\n補助で精度91.5%",
+          "body": "AIの補助により、病理専門医の判読精度は76.5%から91.5%に高まった。",
+          "mini_headline": "腹膜転移を判別するAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid(代表 チェ・ウシク)は、腹水細胞診の画像から胃がん・大腸がんの腹膜転移を判別するAI研究論文が、国際学術誌『Journal of Korean Medical Science(JKMS)』に掲載されたと明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "写真提供=Deepnoid"
+              },
+              {
+                "t": "p",
+                "x": "今回の研究は、Deepnoid AI研究所をはじめ、サムスンソウル病院、盆唐ソウル大学病院、セブランス病院、順天郷大学富川病院、中央大学病院、カトリック大学医学部、ソウル峨山病院、国立がんセンターの研究陣が共同で行った。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、スライドを小片(パッチ)に分割して一つずつラベル付けする手間をかけず、全スライド画像(WSI)単位で学習・判別するCLAMベースのAIモデルを開発した。PAP染色とH&E染色のスライドをいずれも解析でき、判断根拠となる領域をアテンションマップ(attention map)で可視化した。全国214の医療機関が参加した国家細胞病理データセットから、悪性および陰性のスライド計719枚を学習と性能評価に用いた。"
+              },
+              {
+                "t": "p",
+                "x": "病理専門医5人が参加した比較評価では、AIの支援を受けると専門医の平均判読精度が76.5%から91.5%に向上し、感度は66.2%から92.6%に上昇した。5人全員の判読精度が改善し、スライドあたりの平均判読時間は約100秒から約50秒に短縮された。"
+              },
+              {
+                "t": "p",
+                "x": "チェ・ウシク代表は「胸部・脳画像の判読で培ったAIの力量を病理にまで広げ、判読ワークフロー全体を支えるエージェントAI基盤の医療サービス企業として競争力を高めていく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Deepnoid腹膜转移AI\n辅助下准确率91.5%",
+          "body": "在AI辅助下，病理医生的判读准确率从76.5%升至91.5%。",
+          "mini_headline": "判别腹膜转移的AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid（代表Choi Woo-sik）表示，其利用腹水细胞学检查图像判别胃癌、结直肠癌腹膜转移的AI研究论文已发表于国际学术期刊《Journal of Korean Medical Science（JKMS）》。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "图片由Deepnoid提供"
+              },
+              {
+                "t": "p",
+                "x": "本研究由Deepnoid AI研究所与三星首尔医院、盆唐首尔大学医院、世福兰斯医院、顺天乡大学富川医院、中央大学医院、天主教大学医学院、首尔峨山医院及国立癌症中心的研究团队共同完成。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队开发了一种基于CLAM的AI模型，无需将切片分割成小块（patch）并逐一标注，而是以全切片图像（WSI）为单位进行学习和判别。该模型可同时分析PAP染色和H&E染色切片，并通过注意力图（attention map）将判断依据区域可视化。研究使用了全国214家医疗机构参与的国家细胞病理数据集中的恶性和阴性切片共719张，用于训练和性能评估。"
+              },
+              {
+                "t": "p",
+                "x": "在5名病理医生参与的对比评估中，借助AI后医生的平均判读准确率从76.5%升至91.5%，灵敏度从66.2%升至92.6%。5人的判读准确率均有提高，每张切片的平均判读时间从约100秒缩短至约50秒。"
+              },
+              {
+                "t": "p",
+                "x": "Choi Woo-sik代表表示：“我们将把在胸部和脑部影像判读中积累的AI能力拓展到病理领域，作为支持整个判读工作流程的智能体AI医疗服务企业，不断提升竞争力。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AI de Deepnoid en metástasis\nperitoneal: 91.5% de precisión",
+          "body": "Con ayuda de la AI, la precisión de lectura de los patólogos subió del 76.5% al 91.5%.",
+          "mini_headline": "AI para metástasis peritoneal",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid (director ejecutivo: Choi Woo-sik) anunció que un artículo de investigación sobre una AI que identifica la metástasis peritoneal de cánceres gástrico y colorrectal a partir de imágenes de citología de líquido ascítico se publicó en la revista internacional ‘Journal of Korean Medical Science (JKMS)’."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "Foto cortesía de Deepnoid"
+              },
+              {
+                "t": "p",
+                "x": "El estudio lo realizaron de forma conjunta investigadores del Instituto de Investigación en AI de Deepnoid, Samsung Medical Center, Seoul National University Bundang Hospital, Severance Hospital, Soonchunhyang University Bucheon Hospital, Chung-Ang University Hospital, la Facultad de Medicina de la Universidad Católica de Corea, Asan Medical Center y el National Cancer Center."
+              },
+              {
+                "t": "p",
+                "x": "El equipo desarrolló un modelo de AI basado en CLAM que aprende y clasifica a nivel de imagen de portaobjetos completa (WSI), sin la laboriosa tarea de dividir las preparaciones en pequeños fragmentos (parches) y etiquetarlos uno a uno. Puede analizar preparaciones con tinción PAP y H&E, y visualiza las regiones en las que basa su juicio mediante un mapa de atención (attention map). Para el entrenamiento y la evaluación se usaron en total 719 preparaciones malignas y negativas de un conjunto nacional de datos de citopatología en el que participaron 214 instituciones médicas de todo el país."
+              },
+              {
+                "t": "p",
+                "x": "En una evaluación comparativa con 5 patólogos, su precisión media de lectura con ayuda de la AI subió del 76.5% al 91.5%, y la sensibilidad, del 66.2% al 92.6%. Los 5 mejoraron su precisión, y el tiempo medio de lectura por preparación bajó de unos 100 segundos a unos 50 segundos."
+              },
+              {
+                "t": "p",
+                "x": "“Ampliaremos a la patología las capacidades de AI que hemos desarrollado en la lectura de imágenes de tórax y cerebro, y reforzaremos nuestra competitividad como empresa de servicios médicos basada en AI agéntica que respalda todo el flujo de trabajo de lectura”, afirmó el director ejecutivo Choi Woo-sik."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Deepnoid peritoneal AI lifts\naccuracy to 91.5%",
+          "body": "With AI assistance, pathologists' reading accuracy rose from 76.5% to 91.5%.",
+          "mini_headline": "AI for peritoneal metastasis",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid (CEO Choi Woo-sik) said a research paper on AI that identifies peritoneal metastasis of gastric and colorectal cancer from ascites cytology images was published in the international journal ‘Journal of Korean Medical Science (JKMS)’."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "Photo courtesy of Deepnoid"
+              },
+              {
+                "t": "p",
+                "x": "The study was carried out jointly by researchers from the Deepnoid AI Research Institute, Samsung Medical Center, Seoul National University Bundang Hospital, Severance Hospital, Soonchunhyang University Bucheon Hospital, Chung-Ang University Hospital, the Catholic University of Korea College of Medicine, Asan Medical Center and the National Cancer Center."
+              },
+              {
+                "t": "p",
+                "x": "The team developed a CLAM-based AI model that learns and classifies at the whole slide image (WSI) level, without the laborious work of splitting slides into small pieces (patches) and labeling each one. It can analyze both PAP and H&E stained slides, and it visualizes the regions behind its judgments as an attention map. A total of 719 malignant and negative slides from a national cytopathology dataset involving 214 medical institutions nationwide were used for training and performance evaluation."
+              },
+              {
+                "t": "p",
+                "x": "In a comparative evaluation with 5 pathologists, their average reading accuracy rose from 76.5% to 91.5% with AI assistance, and sensitivity rose from 66.2% to 92.6%. Reading accuracy improved for all 5, and average reading time per slide fell from about 100 seconds to about 50 seconds."
+              },
+              {
+                "t": "p",
+                "x": "“We will extend the AI capabilities we built through chest and brain image reading to pathology, and strengthen our competitiveness as an agentic AI-based medical services company that supports the entire reading workflow,” said CEO Choi Woo-sik."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Deepnoid腹膜転移AI\n補助で精度91.5%",
+          "body": "AIの補助により、病理専門医の判読精度は76.5%から91.5%に高まった。",
+          "mini_headline": "腹膜転移を判別するAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid(代表 チェ・ウシク)は、腹水細胞診の画像から胃がん・大腸がんの腹膜転移を判別するAI研究論文が、国際学術誌『Journal of Korean Medical Science(JKMS)』に掲載されたと明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "写真提供=Deepnoid"
+              },
+              {
+                "t": "p",
+                "x": "今回の研究は、Deepnoid AI研究所をはじめ、サムスンソウル病院、盆唐ソウル大学病院、セブランス病院、順天郷大学富川病院、中央大学病院、カトリック大学医学部、ソウル峨山病院、国立がんセンターの研究陣が共同で行った。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、スライドを小片(パッチ)に分割して一つずつラベル付けする手間をかけず、全スライド画像(WSI)単位で学習・判別するCLAMベースのAIモデルを開発した。PAP染色とH&E染色のスライドをいずれも解析でき、判断根拠となる領域をアテンションマップ(attention map)で可視化した。全国214の医療機関が参加した国家細胞病理データセットから、悪性および陰性のスライド計719枚を学習と性能評価に用いた。"
+              },
+              {
+                "t": "p",
+                "x": "病理専門医5人が参加した比較評価では、AIの支援を受けると専門医の平均判読精度が76.5%から91.5%に向上し、感度は66.2%から92.6%に上昇した。5人全員の判読精度が改善し、スライドあたりの平均判読時間は約100秒から約50秒に短縮された。"
+              },
+              {
+                "t": "p",
+                "x": "チェ・ウシク代表は「胸部・脳画像の判読で培ったAIの力量を病理にまで広げ、判読ワークフロー全体を支えるエージェントAI基盤の医療サービス企業として競争力を高めていく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Deepnoid腹膜转移AI\n辅助下准确率91.5%",
+          "body": "在AI辅助下，病理医生的判读准确率从76.5%升至91.5%。",
+          "mini_headline": "判别腹膜转移的AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid（代表Choi Woo-sik）表示，其利用腹水细胞学检查图像判别胃癌、结直肠癌腹膜转移的AI研究论文已发表于国际学术期刊《Journal of Korean Medical Science（JKMS）》。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "图片由Deepnoid提供"
+              },
+              {
+                "t": "p",
+                "x": "本研究由Deepnoid AI研究所与三星首尔医院、盆唐首尔大学医院、世福兰斯医院、顺天乡大学富川医院、中央大学医院、天主教大学医学院、首尔峨山医院及国立癌症中心的研究团队共同完成。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队开发了一种基于CLAM的AI模型，无需将切片分割成小块（patch）并逐一标注，而是以全切片图像（WSI）为单位进行学习和判别。该模型可同时分析PAP染色和H&E染色切片，并通过注意力图（attention map）将判断依据区域可视化。研究使用了全国214家医疗机构参与的国家细胞病理数据集中的恶性和阴性切片共719张，用于训练和性能评估。"
+              },
+              {
+                "t": "p",
+                "x": "在5名病理医生参与的对比评估中，借助AI后医生的平均判读准确率从76.5%升至91.5%，灵敏度从66.2%升至92.6%。5人的判读准确率均有提高，每张切片的平均判读时间从约100秒缩短至约50秒。"
+              },
+              {
+                "t": "p",
+                "x": "Choi Woo-sik代表表示：“我们将把在胸部和脑部影像判读中积累的AI能力拓展到病理领域，作为支持整个判读工作流程的智能体AI医疗服务企业，不断提升竞争力。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AI de Deepnoid en metástasis\nperitoneal: 91.5% de precisión",
+          "body": "Con ayuda de la AI, la precisión de lectura de los patólogos subió del 76.5% al 91.5%.",
+          "mini_headline": "AI para metástasis peritoneal",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Deepnoid (director ejecutivo: Choi Woo-sik) anunció que un artículo de investigación sobre una AI que identifica la metástasis peritoneal de cánceres gástrico y colorrectal a partir de imágenes de citología de líquido ascítico se publicó en la revista internacional ‘Journal of Korean Medical Science (JKMS)’."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+                "cap": "Foto cortesía de Deepnoid"
+              },
+              {
+                "t": "p",
+                "x": "El estudio lo realizaron de forma conjunta investigadores del Instituto de Investigación en AI de Deepnoid, Samsung Medical Center, Seoul National University Bundang Hospital, Severance Hospital, Soonchunhyang University Bucheon Hospital, Chung-Ang University Hospital, la Facultad de Medicina de la Universidad Católica de Corea, Asan Medical Center y el National Cancer Center."
+              },
+              {
+                "t": "p",
+                "x": "El equipo desarrolló un modelo de AI basado en CLAM que aprende y clasifica a nivel de imagen de portaobjetos completa (WSI), sin la laboriosa tarea de dividir las preparaciones en pequeños fragmentos (parches) y etiquetarlos uno a uno. Puede analizar preparaciones con tinción PAP y H&E, y visualiza las regiones en las que basa su juicio mediante un mapa de atención (attention map). Para el entrenamiento y la evaluación se usaron en total 719 preparaciones malignas y negativas de un conjunto nacional de datos de citopatología en el que participaron 214 instituciones médicas de todo el país."
+              },
+              {
+                "t": "p",
+                "x": "En una evaluación comparativa con 5 patólogos, su precisión media de lectura con ayuda de la AI subió del 76.5% al 91.5%, y la sensibilidad, del 66.2% al 92.6%. Los 5 mejoraron su precisión, y el tiempo medio de lectura por preparación bajó de unos 100 segundos a unos 50 segundos."
+              },
+              {
+                "t": "p",
+                "x": "“Ampliaremos a la patología las capacidades de AI que hemos desarrollado en la lectura de imágenes de tórax y cerebro, y reforzaremos nuestra competitividad como empresa de servicios médicos basada en AI agéntica que respalda todo el flujo de trabajo de lectura”, afirmó el director ejecutivo Choi Woo-sik."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

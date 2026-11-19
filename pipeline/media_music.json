@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-20",
+  "section": "music",
+  "media": [
+    {
+      "id": "aria-musician-tdm-exemption",
+      "type": "video",
+      "src": "pipeline/media/aria-musician-tdm-exemption.mp4",
+      "poster": "pipeline/media/aria-musician-tdm-exemption.jpg"
+    },
+    {
+      "id": "umg-ai-kill-switch-survey",
+      "type": "image",
+      "src": "pipeline/media/umg-ai-kill-switch-survey.jpg"
+    },
+    {
+      "id": "neutone-terra-drum-synth",
+      "type": "video",
+      "src": "pipeline/media/neutone-terra-drum-synth.mp4",
+      "poster": "pipeline/media/neutone-terra-drum-synth.jpg"
+    },
+    {
+      "id": "sonible-pure-smooth-resonance",
+      "type": "video",
+      "src": "pipeline/media/sonible-pure-smooth-resonance.mp4",
+      "poster": "pipeline/media/sonible-pure-smooth-resonance.jpg"
+    },
+    {
+      "id": "eu-ministers-ai-copyright",
+      "type": "image",
+      "src": "pipeline/media/eu-ministers-ai-copyright.png"
+    }
+  ]
+}

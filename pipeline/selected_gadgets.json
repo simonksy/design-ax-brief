@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-20",
+  "section": "gadgets",
+  "items": [
+    {
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "title": "OpenAI is apparently serious about an AI phone, as report claims production order has been placed",
+      "url": "https://www.digitaltrends.com/phones/openai-smartphone-foxconn-assembly-report/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-19T07:07:18-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "China's Securities Times reports that Foxconn subsidiary FIH Mobile has received an order to help assemble a smartphone for OpenAI, suggesting the ChatGPT maker's first phone is moving toward production.",
+      "rationale": "First production signal for OpenAI's own phone (Foxconn/FIH order). Earlier OpenAI hardware cards covered the speaker, keyboard and Dots, never a phone. Kept one of two outlets."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
+      "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-19T14:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/l-intro-1795097160.jpg",
+      "excerpt": "Engadget reviews Pebble's Index 01 AI ring (8/10): it does one thing, is cheap and low-tech, but the reviewer found it very useful. Downsides noted: imperfect AI and a non-rechargeable battery.",
+      "rationale": "Hands-on verdict on a shipping, single-purpose AI wearable. Makes a useful design point (one feature as the whole product) against the wave of do-everything AI gadgets. No prior Pebble card."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "title": "Samsung prepares Galaxy AI on Snapdragon X Elite for its upcoming Android laptops",
+      "url": "https://www.androidauthority.com/samsung-galaxy-ai-snapdragon-x-elite-android-laptops-apk-teardown-3737313/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-19T16:04:41+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
+      "excerpt": "An APK teardown of the One UI 9.5 beta shows Samsung preparing on-device Galaxy AI photo tools, its Gauss language model and 8K video tools for Android laptops running Snapdragon X Elite.",
+      "rationale": "New evidence (One UI 9.5 teardown) that on-device Galaxy AI is coming to Android laptops. This is a separate story from the 11-14 card on Galaxy AI pricing."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "title": "Successor to well-reviewed Switchbot AI Art Frame unveiled with upgraded features for art and photo lovers",
+      "url": "https://www.notebookcheck.net/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-with-upgraded-features-for-art-and-photo-lovers.1452825.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T23:10:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
+      "excerpt": "SwitchBot has released the AI Art Frame 2 (AI Art Canvas in Japan), a color E Ink frame. Its AI 'Weather Muse' changes the art to match the forecast, and a $3.99/month subscription adds voice-, text- and image-to-image AI art generation.",
+      "rationale": "New product release: a color E Ink frame with generative art and a forecast-driven 'Weather Muse'. It is a different product from the 11-15 Alexa Photo Frame review."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "title": "Scout Motors Is Using AI Earpieces to Train Factory Workers",
+      "url": "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-19T05:00:04-05:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Aerial_BlythewoodProductionCenter.jpg",
+      "excerpt": "Scout Motors is replacing the instruction binder with AI earpieces whose voice walks new hires through hands-on tasks. The automaker sees the same approach reaching service centers and, eventually, owners' garages.",
+      "rationale": "A real deployment of voice-AI wearables in hands-on work: factory onboarding now, service centers and owners' garages later. Fresh and not covered before."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.digitaltrends.com/phones/openai-smartphone-foxconn-assembly-report/": {
+        "verdict": "new",
+        "nearest": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
+        "new_action": ""
+      },
+      "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/": {
+        "verdict": "new",
+        "nearest": "https://www.wired.com/story/aina-smart-ring/",
+        "new_action": ""
+      },
+      "https://www.androidauthority.com/samsung-galaxy-ai-snapdragon-x-elite-android-laptops-apk-teardown-3737313/": {
+        "verdict": "new",
+        "nearest": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
+        "new_action": ""
+      },
+      "https://www.notebookcheck.net/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-with-upgraded-features-for-art-and-photo-lovers.1452825.0.html": {
+        "verdict": "new",
+        "nearest": "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review",
+        "new_action": ""
+      },
+      "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped as repeats of published stories: Xiaomi 18 Pro rear-display AI apps, both Engadget (likely-repeat) and 전자신문 Korea launch (same product and feature as the 11-16 9to5google card). Nothing AI gadget leak, all 3 (Notebookcheck likely-repeat, Digital Trends, Android Authority): leak photos are extra reporting on the 11-05 Verge teaser, not a launch. Xreal Aura review: same product as the 10-29 launch card and the 09-07 AA hands-on, nothing new released. Meta Muse Charm $300 price (Verge/TechCrunch cluster c0): a third-party (The Information) price report on a device Meta already revealed and covered in the Muse running story (10-03 Verge Muse gadgets, 11-10/11-14 Muse agent cards); not an official announcement, so it fails the follow-up bar. Within-pool: Android Authority OpenAI-phone alternate dropped in favour of Digital Trends. Not picked on score (still fresh): 파리로엠엔비 Neuraon Assist (CES 2027 preview), Flowtica Verso (off-list Yahoo), AceiiLab tennis robot (11-12, older)."
+  }
+}

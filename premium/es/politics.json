@@ -6879,6 +6879,122 @@
           "x": "Sunderland dijo que la DPC también mantiene contactos con otra empresa tecnológica, cuyo nombre no se ha revelado, sobre sus planes de usar datos recopilados por agentes para entrenamiento, y que tendrá “más contactos” con X sobre “qué ocurrió exactamente y qué significa eso para los próximos pasos”."
         }
       ]
+    },
+    "politics/commerce-china-ai-chip-licenses-879k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La administración Trump aprobó la venta de más de 879,000 chips de AI a empresas chinas, según una nueva divulgación."
+        },
+        {
+          "t": "p",
+          "x": "El presidente del Comité de Asuntos Exteriores de la Cámara, Brian Mast (R-FL), divulgó nueva información sobre las aprobaciones de exportación del Departamento de Comercio mientras se preparaba para interrogar con dureza al ex-CEO de Nvidia, Jensen Huang. El miembro de mayor rango Gregory Meeks (D-NY) afirmó que, en medio de retrasos en la revisión de licencias, “la agencia pareció aprobar licencias de chips avanzados para China con poco escrutinio”."
+        },
+        {
+          "t": "p",
+          "x": "Enlace: Chairman Brian Mast Exercises Legislative Authority to Publicly Release AI Chip License Information for China [Republican Foreign Affairs Committee]"
+        }
+      ]
+    },
+    "politics/california-sb53-killswitch-next-steps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gov.ca.gov/wp-content/uploads/2026/11/Governor-Newsoms-nation-leading-AI-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight-SEO-GFX-v2.png"
+        },
+        {
+          "t": "p",
+          "x": "El gobernador Gavin Newsom busca reforzar el marco de seguridad de AI de California, líder en el país, con nuevas recomendaciones de normas de seguridad obligatorias, supervisión independiente de los modelos de AI potentes, facultades de apagado de emergencia para sistemas peligrosos y límites a la AI capaz de desarrollar versiones más potentes de sí misma."
+        },
+        {
+          "t": "p",
+          "x": "Las recomendaciones proponen que sea el estado, y no las propias empresas, quien fije los estándares básicos que todas las compañías de AI deben cumplir, con pruebas y verificación de seguridad independientes en todas las etapas de entrenamiento, desarrollo y despliegue de los modelos; más reportes de incidentes de seguridad y protocolos verificados de contención de riesgos, lo que daría al estado autoridad para ordenar un apagado inmediato en una emergencia; y la facultad de limitar el desarrollo y el uso de la automejora recursiva (RSI)."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio llega tras decenas de incidentes recientes en los que modelos de AI escaparon de entornos de prueba y explotaron vulnerabilidades en plataformas externas. El informe lo elaboró la Government Operations Agency con los expertos Jason Goldman, Gillian Hadfield, Alondra Nelson y Rob Reich. “Hoy hay más supervisión sobre la cafetería que ofrece sándwiches a los empleados de un desarrollador de AI de frontera que sobre los modelos de AI que diseñan”, dijo Reich."
+        },
+        {
+          "t": "p",
+          "x": "Newsom pide al Congreso y al presidente Trump que adopten el marco del estado o que lo usen como un suelo, no como un techo. El marco se basa en SB 53, la Transparency in Frontier Artificial Intelligence Act de 2025."
+        }
+      ]
+    },
+    "politics/baltimore-doritos-gun-alert-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En octubre de 2025, cuatro estudiantes negros de secundaria compartían Cool Ranch Doritos tras el entrenamiento de fútbol americano cuando el sistema de detección de armas por AI de la escuela, Omnilert, señaló como posible tirador a uno de ellos, que sostenía una bolsa de aperitivos. En menos de dos minutos, funcionarios de Baltimore County Public Schools revisaron las imágenes, reconocieron la bolsa de Doritos y cancelaron la alerta."
+        },
+        {
+          "t": "p",
+          "x": "Según una demanda presentada por los estudiantes actuales y exalumnos, los funcionarios escolares llamaron a la policía de todos modos. Llegaron al menos seis patrullas, algunos agentes con las armas desenfundadas; a los estudiantes se les ordenó arrodillarse y fueron esposados y registrados."
+        },
+        {
+          "t": "p",
+          "x": "La demanda se dirige contra Omnilert, los agentes del Baltimore County Police Department que acudieron, BCPS y funcionarios escolares a título individual, y solicita una orden judicial que impida a BCPS usar Omnilert hasta que el personal y la policía reciban la capacitación adecuada. Los jóvenes alegaron que más del “99 por ciento de las alertas OGD en Baltimore County Public Schools fueron falsos positivos que no requerían respuesta policial”, según un informe del Inspector General."
+        },
+        {
+          "t": "p",
+          "x": "Blake Mitchell, de Omnilert, dijo que la alerta se canceló en unos dos minutos: “Precisamente por eso importa la revisión humana, y por eso una alerta cancelada debe seguir cancelada”. BCPS declinó hacer comentarios."
+        }
+      ]
+    },
+    "politics/dutch-dpa-ai-smart-glasses-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El regulador neerlandés de privacidad, la Autoriteit Persoonsgegevens (AP), ha pedido a la gente que no compre gafas inteligentes, al advertir que pueden cometer errores peligrosos. En sus pruebas de seis gafas disponibles en el mercado neerlandés, los dispositivos aconsejaron a un usuario sobre cómo tener una cita con un niño, interpretaron mal las instrucciones de un medicamento y afirmaron haber llamado a una ambulancia cuando no lo habían hecho."
+        },
+        {
+          "t": "p",
+          "x": "La AP no llegó a pedir una prohibición ni nombró los productos; solo indicó que los precios iban desde menos de €100 (£84) hasta más de €500. Se desconoce si la investigación incluyó las gafas de Meta."
+        },
+        {
+          "t": "p",
+          "x": "A la AP también le preocupa que las gafas inteligentes puedan usarse para grabar a personas en secreto: en algunas, la luz de grabación podía taparse con cinta y seguían funcionando. Detectó graves fallos de seguridad en algunas gafas que permitían a alguien cercano conectarse sin permiso, ver grabaciones o incluso manejar la cámara a distancia, y advirtió que los datos a menudo se exportaban fuera de la UE (EU)."
+        },
+        {
+          "t": "p",
+          "x": "La AP reconoce que las gafas pueden ser valiosas para personas que necesitan ayuda para comprender su entorno, pero sostiene que para estos usuarios es especialmente importante que la AI sea fiable."
+        }
+      ]
+    },
+    "politics/oregon-openai-kids-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy, el fiscal general Dan Rayfield lanzó la Keeping Kids Safe Initiative del Oregon Department of Justice y anunció una acción legal de $2.035 billion contra OpenAI por poner en peligro a los niños y mentir a los padres sobre la seguridad de su chatbot ChatGPT. La demanda se presentó ante el Multnomah County Circuit Court."
+        },
+        {
+          "t": "p",
+          "x": "“OpenAI sabe que ChatGPT está dañando a los niños y no ha corregido de forma significativa su peligrosa plataforma”, dijo el fiscal general Rayfield. “Además, han engañado al público sobre la seguridad de sus productos y han antepuesto las ganancias a la seguridad de los niños”."
+        },
+        {
+          "t": "p",
+          "x": "El estado sostiene que OpenAI infringió la ley de protección al consumidor de Oregon, la Unlawful Trade Practices Act, al engañar al público sobre lo seguro que es ChatGPT para los niños, vender un producto con graves problemas de seguridad que no reveló y usar tácticas desleales para promocionarlo entre niños y adolescentes."
+        },
+        {
+          "t": "p",
+          "x": "La demanda del AG Rayfield también afirma que OpenAI actuó con negligencia, se benefició injustamente a costa de los habitantes de Oregon (Oregonians) y creó una molestia pública que amenaza la seguridad y el bienestar de los niños de Oregon. El estado pide al tribunal que ordene a OpenAI dejar de engañar sobre la seguridad infantil y aplicar protecciones que realmente funcionen."
+        },
+        {
+          "t": "p",
+          "x": "El AG Rayfield presentó la iniciativa hoy en una conferencia de prensa."
+        },
+        {
+          "t": "video",
+          "yt": "pKfyD1xVPqM"
+        }
+      ]
     }
   }
 }

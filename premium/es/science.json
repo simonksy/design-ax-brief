@@ -11713,6 +11713,145 @@
           "x": "Tanto el grupo joven como el de mayor edad calificaron los rostros generados por IA (AI-generated) como más reales que las fotografías reales, y la ínsula anterior se mostró menos activa cuando los participantes veían deepfakes. Es probable que los rostros de AI parezcan más reales porque se generan como un promedio de muchos rostros, lo que los hace \"más fáciles de procesar y más agradables\", dijo Ebner. Según ella, ser consciente de este sesgo puede ser la verdadera ventaja, sobre todo para los adultos mayores que son blanco de estafas."
         }
       ]
+    },
+    "science/maya-vibe-archaeology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
+          "cap": "El antiguo sitio maya ya documentado. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
+        },
+        {
+          "t": "p",
+          "x": "El 10 de noviembre, el investigador de IA Pietro Miotti compartió en X lo que parecía un antiguo centro cívico maya no cartografiado en México, hallado al pedir a decenas de agentes de IA que revisaran datos lidar públicos de la NASA. La publicación se volvió viral como \"vibe archaeology\" (arqueología vibe), impulsada por cuentas como Polymarket."
+        },
+        {
+          "t": "p",
+          "x": "Pero el sitio no era un descubrimiento nuevo. Menos de un día después, Sarah Parcak, de la University of Alabama at Birmingham, señaló que lo habían documentado Francisco Estrada-Belli, de Tulane, y sus colegas en 2025. \"Para esto existe la revisión por pares\", dice Parcak. \"No todo está en internet\"."
+        },
+        {
+          "t": "p",
+          "x": "“Me parece genial que la gente quiera ser científica ciudadana usando IA y experimentar con ella”, dice Estrada-Belli. “Pero creo que no deberían aceptar los resultados a ciegas sin hacer comprobaciones de contexto o la debida diligencia antes de salir a hacer una afirmación así”."
+        },
+        {
+          "t": "p",
+          "x": "Miotti corrigió sus publicaciones para reconocer el estudio. \"Hoy una sola persona con una hipótesis puede poner a trabajar agentes de IA durante la noche para preseleccionar estructuras candidatas que evalúen los expertos\", afirma, y añade que el episodio mostró la aportación humana: \"revisión bibliográfica, verificación de campo y otros conocimientos especializados más específicos\"."
+        }
+      ]
+    },
+    "science/gpt52-wildlife-species-id": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
+          "cap": "Imagen de cámara trampa de las reservas de Morrocoy: la IA sugirió Bassariscus sumichrasti; los expertos identificaron Metachirus myosuros. Crédito: Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de IA de uso general identificó un marsupial captado por una cámara trampa en los Montes de María, en Colombia, como Bassariscus sumichrasti, una especie no registrada en Colombia, pese a que se le indicó dónde se había visto al animal. La revisión de expertos confirmó que era Metachirus myosuros."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
+          "cap": "Armadillo Cabassous centralis. Crédito: Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio de Gustavo Nicolas Paez Salamanca en el Biodiversity Data Journal puso a prueba el GPT-5.2 de OpenAI con 10.000 fotos de grado de investigación de iNaturalist de anfibios, aves, peces, mamíferos y reptiles de Colombia, 2.000 por grupo. Alcanzó un 9,5% de precisión a nivel de especie: alrededor del 17–19% en mamíferos y reptiles, y menos del 5% en anfibios, aves y peces."
+        },
+        {
+          "t": "p",
+          "x": "Las especies con menos fotos públicas y las descritas recientemente, como el puercoespín Coendou vossi, reconocido en 2025, resultaron más difíciles. \"Si un animal raro se confunde con uno más conocido, su presencia podría pasar inadvertida\", dice Paez Salamanca. El estudio propone usar la IA como primer paso y enviar a especialistas los registros dudosos o de alto riesgo."
+        }
+      ]
+    },
+    "science/ai2-asta-theorizer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 lanza Theorizer en Asta, su plataforma de agentes de IA para la investigación científica, y libera su código. Theorizer busca en la literatura, crea una plantilla de lo que debe extraer de cada artículo y compara los hallazgos para generar teorías, vinculando cada afirmación con los artículos que la sustentan."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Sid Devarakonda, del Providence Swedish Cancer Institute, lo usó con el adenocarcinoma de pulmón \"sin mutación impulsora\" (\"driver-negative\"). Al revisar sus primeras teorías, recordó: \"Un momento, esto es exactamente lo que pienso. Y me llevó 15 años pensar así\"."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
+          "cap": "Tres posibles explicaciones del crecimiento de adenocarcinomas de pulmón sin un impulsor genético reconocido."
+        },
+        {
+          "t": "p",
+          "x": "Para Jérôme Lecoq, del Allen Institute, Theorizer devolvió 50 teorías candidatas sobre las interneuronas VIP, frente a las una o dos que esperaba."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
+          "cap": "Celdas donde el punto de rocío máximo superó los 35 °C en Perú. Figura: Piero Palacios, CIP."
+        },
+        {
+          "t": "p",
+          "x": "En el International Potato Center, una explicación errónea pero comprobable llevó a los investigadores a la fuente real de unos puntos de rocío inverosímiles. Ai2 advierte que Theorizer puede pasar por alto estudios relevantes y juzgar mal la originalidad."
+        }
+      ]
+    },
+    "science/ai-supertelescope-rubin-euclid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
+          "cap": "ESA/Euclid/Euclid Consortium/NASA"
+        },
+        {
+          "t": "p",
+          "x": "Los astrónomos quieren combinar el Vera C. Rubin Observatory, el telescopio espacial Euclid y el Nancy Grace Roman Space Telescope en un único supertelescopio AI-powered (impulsado por IA). \"Procesados juntos, forman un cuarto. Y nadie lo ha encendido\", dice Gioia Rau, de Renaissance Philanthropy."
+        },
+        {
+          "t": "p",
+          "x": "En agosto, Rau y más de dos docenas de coautores publicaron un preprint que pide actuar. Con una inversión pública que ya supera los 6.000 millones de dólares, el artículo sostiene que las agencias deberían financiar la integración de los sondeos antes de que pase la oportunidad."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es \"combinar los píxeles para obtener una imagen de altísima resolución\", dice Tony Tyson, científico jefe de Rubin, lo que ayudaría a estudiar la energía oscura, la materia oscura, las supernovas y los asteroides. \"Si tuviéramos 100 millones de voluntarios, tardaríamos 120.000 años en anotar todo lo que adquiere el Rubin Observatory\", dice Lior Shamir. \"Con IA, es prácticamente instantáneo\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Hay que hacerlo\", dice Meg Urry, de Yale. Se espera que Roman comience su sondeo a principios de 2027."
+        }
+      ]
+    },
+    "science/osmo-ai-nose-smell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg",
+          "cap": "Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "En un laboratorio cerca de Newark Airport, alrededor de 30 catadores de olores experimentados registran notas —“nutty”, “peachy”, “marine”— que se cruzan con análisis químicos para entrenar lo que la startup de AI Osmo llama el primer modelo fundacional del olfato del mundo. El objetivo, dice el fundador Alex Wiltschko, es “dar a las computadoras un sentido del olfato”."
+        },
+        {
+          "t": "p",
+          "x": "Wiltschko afirma que el modelo de Osmo ha alcanzado una “human-level olfactory intelligence”: tan bueno como una persona media al detectar y discriminar olores, y como un diseñador de perfumes junior al crearlos. El mes pasado, según la empresa, superó a los perfumistas internos de una de las mayores empresas de bienes de consumo del mundo."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
+        },
+        {
+          "t": "p",
+          "x": "Osmo ha construido un conjunto de datos con más de 10 millones de etiquetas humanas y 800 millones de “scent tokens”, y un robot de impresión de olores del tamaño de un autobús escolar puede diseñar aromas a partir de una indicación ChatGPT-style. Su tecnología se ha usado en fragancias minoristas, incluso para Procter & Gamble."
+        },
+        {
+          "t": "p",
+          "x": "Quedan críticos. El científico del olfato Avery Gilbert sostiene que algunas afirmaciones de marketing no están documentadas. Michael Schmuker, excolaborador de Osmo, llama a la tecnología un logro, pero dice que el contexto importa: el Camembert comparte una molécula con los pañales usados. Los sensores deben mejorar antes de alcanzar metas como el diagnóstico médico, “el mayor premio”."
+        }
+      ]
     }
   }
 }

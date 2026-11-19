@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-20",
+  "section": "medicine",
+  "items": [
+    {
+      "tool": "Medicine",
+      "accent": "#00897b",
+      "motif": "sphere",
+      "title": "How often do AI alerts meaningfully impact patient care?",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-19T12:00:00Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.wMDLDT1f5Q.jpg?auto=format%2Ccompress&w=1200",
+      "excerpt": "RSNA 2026 preview: UH Radiology Cleveland analyzed 154 'non-engagement' alerts from a commercial AI platform over a year across a health system; only 19 (12%) changed management, some pulmonary embolism alerts led to treatment complications including a major bleed, and rib-fracture alerts had no clinical impact while every alert triggered a costly multi-step workflow.",
+      "rationale": "Hard real-world outcome data on commercial imaging-AI alerts (12% changed care, a major bleed) — directly actionable for clinicians and buyers deploying triage AI."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "title": "HLTH 2026: Elsevier upgrades ClinicalKey AI with full patient EHR context",
+      "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-11-19T15:30:00-05:00",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
+      "excerpt": "Elsevier upgraded ClinicalKey AI, its point-of-care clinical decision support tool deployed at 1,200+ hospitals, to read a patient's full EHR and evaluate treatment options against evidence from ~1,000 journals; San Juan Regional Medical Center is an early user.",
+      "rationale": "New release of a point-of-care CDS tool already in 1,200+ hospitals, now reasoning over the full patient chart — changes daily clinician workflow."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Siemens Healthineers gets FDA clearance for Syngo.CT Coronary Cockpit",
+      "url": "https://www.auntminnie.com/clinical-news/ct/news/16542132/siemens-healthineers-siemens-healthineers-gets-fda-clearance-for-syngoct-coronary-cockpit",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-19T16:04:41Z",
+      "og_image": null,
+      "excerpt": "FDA cleared Siemens Healthineers' Coronary Cockpit, which uses AI-based segmentation, labeling and visualization of coronary CT angiography to characterize plaque amount and morphology across the coronary tree, supporting coronary artery disease management and PCI planning on CCTA from any CT scanner.",
+      "rationale": "Fresh FDA clearance for vendor-agnostic AI coronary plaque analysis on CCTA — a regulatory milestone with direct use in CAD management and PCI planning."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "title": "The proposed reform of the Medical Device Regulation and its implications for AI-enabled medical devices in the EU",
+      "url": "https://www.nature.com/articles/s41746-026-03475-8",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-18T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png",
+      "excerpt": "Comment assessing the European Commission's 'MDR 2.0' package amending the MDR, IVDR and AI Act: whether cutting double regulation and documentation burdens for AI-enabled medical devices would weaken evidence requirements.",
+      "rationale": "Regulator-facing analysis of the EU 'MDR 2.0' package and how it reshapes the evidence bar for AI medical devices under MDR/IVDR/AI Act — adds an EU regulatory angle to the mix."
+    },
+    {
+      "tool": "Medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "딥노이드, 위·대장암 복막 전이 판별 AI 연구 'JKMS' 게재",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016882",
+      "source": "의학신문",
+      "published_iso": "2026-11-19T17:07:28+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg",
+      "excerpt": "딥노이드가 복수 세포검사 전체 슬라이드 이미지로 위암·대장암 복막 전이를 판별하는 CLAM 기반 AI를 JKMS에 발표했다. 병리 전문의 5명 비교 평가에서 AI 보조 시 판독 정확도 76.5%→91.5%, 민감도 66.2%→92.6%, 슬라이드당 판독 시간 약 100초→50초.",
+      "rationale": "Peer-reviewed Korean pathology-AI study with a pathologist reader comparison (accuracy 76.5→91.5%, read time halved) — concrete clinician-facing result and Korean-source coverage."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care": {
+        "verdict": "new",
+        "nearest": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
+        "new_action": ""
+      },
+      "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context": {
+        "verdict": "new",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+        "new_action": ""
+      },
+      "https://www.auntminnie.com/clinical-news/ct/news/16542132/siemens-healthineers-siemens-healthineers-gets-fda-clearance-for-syngoct-coronary-cockpit": {
+        "verdict": "new",
+        "nearest": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
+        "new_action": ""
+      },
+      "https://www.nature.com/articles/s41746-026-03475-8": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3016882": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "All 5 picks checked by full URL against published_urls.json (medicine + science sections) and the 30-day history_digest: none published. Siemens Coronary Cockpit (history_match related: Elucid FFR-CT 10-25) is a different company/product clearance -> new. AI-alerts study (UH Cleveland non-engagement alerts) is a different study from the 11-12 AuntMinnie triage-variability preview -> new. Excluded per curator brief: 청년의사 국시 AI-cheating bill (assigned to politics only). AI-scribe cap: neither STAT scribe-market analysis nor MedCity Abridge picked (Abridge also near the 11-17 HLTH Abridge/OpenAI card; STAT piece is paywalled analysis). Not picked on score/diversity: Stanford Epic chart-summary LLM (would be a 3rd AuntMinnie), STAT Epic roundup (paywalled newsletter), Viz.ai interview (commentary), NEJM AI sepsis (abstract unretrievable), 심평원 AI 사전심사 (press-briefing plan, not a decision; also one Korean card already), plus Lancet DH/npj/Sci Rep studies, BMJ recruitment, 길병원 GAIA, 우리아이들병원, Samsung surgical video. No within-pool clusters among picks."
+  }
+}

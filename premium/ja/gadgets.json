@@ -12466,6 +12466,166 @@
           "src": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/GitHub-Copilot-with-Hybrid-Intelligence-1024x341.png"
         }
       ]
+    },
+    "gadgets/pebble-index01-ring-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
+          "cap": "Daniel Cooper for Engadget"
+        },
+        {
+          "t": "p",
+          "x": "評価：8/10。長所：シンプル、手頃、使いやすい。短所：用途が一つだけ、PebbleのAIは完璧ではない、バッテリーは充電不可。"
+        },
+        {
+          "t": "p",
+          "x": "Index 01は人差し指にはめる$75のステンレススチール製リングで、スマート機能は持たない。物理ボタン一つ、RGB LED、近距離マイク、Bluetooth、そして二～三年もつとされる充電不可の酸化銀電池を備える。Pebbleは買い替えの際、古いリングをリサイクルのため返送するよう求めている。"
+        },
+        {
+          "t": "p",
+          "x": "ボタンを押しながら話すと、その言葉はPebble独自のAI「Index Agent」に送られるか、ローカルで処理され、約10秒以内にスマートフォン上で処理される。メモ、リマインダー、買い物リスト、タイマーは問題なく動いた。予定に関する質問はウェブ検索よりはるかに信頼でき、ウェブ検索ではエージェントがサッカー監督に関する質問で醜態をさらした。別のAIエージェントやウェブフック、MCPサーバーに送ることもできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
+          "cap": "Daniel Cooper for Engadget"
+        },
+        {
+          "t": "p",
+          "x": "Index 01は、本来ならソフトウェアの一機能にすぎないものを物理的な形にしたものだ。本当に必要な人はいないが、この価格なら投資の小さいガジェットであり、誰の予想よりもはるかに多くの人の日常に欠かせない存在になるかもしれない。"
+        }
+      ]
+    },
+    "gadgets/samsung-galaxyai-android-laptops": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
+          "cap": "Hadlee Simons / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9.5 Beta 1のコードから、SamsungがコードネームOriginと呼ばれるSnapdragon X Elite-poweredのAndroidノートPC向けに、オンデバイスのGalaxy AI機能を準備していることが分かった。この報道は開発途中のコードに基づくもので、これらの機能が実際に提供されない可能性もある。"
+        },
+        {
+          "t": "p",
+          "x": "デバイスが自らのチップでどのGalaxy AIモデルを実行できるかを決めるアプリSamsung AI Coreに、Snapdragon X Elite（sc8380）の項目が新たに加わり、Generative Edit、in-paintingとout-painting、ハーモナイゼーションを有効にするとみられる。現時点では、このノートPC向けチップが得るAI Core機能はSamsungの最近のスマートフォンより少ない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
+          "cap": "AssembleDebug / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Semantic Coreは、Gauss言語モデルを実行できるチップの一覧にSnapdragon X Eliteを加え、翻訳、セマンティック検索、ビジョンモデルにも対応するよう設定されている。ノートPC上でGalaxy AIの文章作成・翻訳ツールがローカルで動くことを示唆している。"
+        },
+        {
+          "t": "p",
+          "x": "SamsungのVideo Editorには「Origin」と名付けられたSnapdragon X Elite X1E-80-100のプロファイルが追加され、Samsungのフラッグシップスマートフォンと同じ8K の編集上限が設定されている。SamsungはまだAndroidノートPCを発表していない。"
+        }
+      ]
+    },
+    "gadgets/switchbot-artframe2-weather": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
+          "cap": "Switchbot AI Art Frame 2は、スマートフォンやカメラ、デジタルギャラリーのアートや写真を、E Inkディスプレイを備えた伝統的な額縁に表示する。"
+        },
+        {
+          "t": "p",
+          "x": "Switchbotは、日本ではAI Art Canvasとも呼ばれるAI Art Frame 2を発売した。カラーE Ink Spectra 6ディスプレイは最大65,000色を表示でき、画像の保持に電力を必要としない。内蔵バッテリーで最大三年間、画像を切り替えられる。"
+        },
+        {
+          "t": "p",
+          "x": "ウォールナット色のベゼルとマット仕上げのディスプレイを備え、オフラインでもクラウド接続でも使える。16 GBのストレージには約5,000枚の画像を保存でき、スマートフォンやカメラ、ノートパソコンからリモートでアップロードできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
+          "cap": "AI-poweredのWeather Museは、その日の天気予報に応じてアートを自動で切り替えられる。"
+        },
+        {
+          "t": "p",
+          "x": "Switchbotは名画500点を無料で提供し、月額$3.99のサブスクリプションでは音声、テキスト、image-to-imageによるAI-generatedの写真やアートの作成が可能になる。サブスクリプションでは、その日の天気に合わせて作品を変えるWeather Museも利用できる。写真は額縁を三回ノックするか、音声操作やスマートフォンアプリで切り替えられる。"
+        },
+        {
+          "t": "p",
+          "x": "13.3インチのAI Art Frame 2は$399.99である。$169.99の7.1インチモデルと$1,399.99の31.5インチモデルも用意されている。"
+        },
+        {
+          "t": "video",
+          "yt": "Kk1L8B84w3Q"
+        }
+      ]
+    },
+    "gadgets/scout-motors-ai-earpieces": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Scout Motorsは、工場作業員の採用、オンボーディング、研修にAIツールを活用していると明らかにした。研修生が作業を行う最中にガイドするイヤピース型AIアシスタントもその一つだ。CEOのScott Keoghは、「新人を座らせて教本バインダーとテストを渡す」のではなく、South Carolina州Blythewoodの工場で作業員がAI-drivenの実地経験を積むと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "部品ピッキングでは、作業員が12個の箱まで歩き、12個の部品を取り出し、順序を確認して欠陥をチェックする。その間、イヤピースがリアルタイムで指示を出す。「数分で研修できる」とKeoghは語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
+          "cap": "Scoutによると、AIは人間には見えにくいスキルと業務のつながりを見つけられるという。Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Scoutが2028年までに4,000以上の職を埋めるなか、AIシステムは新人それぞれが最も適した配置も提案する。戦略・ブランド担当副社長のRyan Deckerは、AIが一人ひとりに合わせて指導内容を調整し、各期の受講者から学習すると述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
+          "cap": "Scout Motors"
+        },
+        {
+          "t": "p",
+          "x": "Scoutは拡張現実グラスを使った視覚ベースの研修も検討しており、これらのツールを工場やサービスセンター、さらに将来的には自宅のオーナーにまで広げる計画だ。AIには数十年分の機器マニュアルや資料が取り込まれており、イヤピースはそれをリアルタイムで提示できる。"
+        }
+      ]
+    },
+    "gadgets/samsung-smartthings-chatgpt-labs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "サムスン電子がスマートホームプラットフォーム「SmartThings」をOpenAIのChatGPTと連携させた。LG電子とGoogleに続きサムスン電子も外部の人工知能（AI）サービスとのスマートホーム連携を広げており、自然言語による家電操作が広がっている。"
+        },
+        {
+          "t": "p",
+          "x": "サムスン電子はChatGPTで利用できる「Samsung SmartThings（Labs）」プラグインを公開し、試験サービスを始めた。利用者はChatGPTにSmartThingsアカウントを連携させ、自然言語の指示で自宅の家電を操作できる。"
+        },
+        {
+          "t": "p",
+          "x": "自宅で点いている照明や家電の動作状態を確認し、最近の機器の動作履歴も照会できる。SmartThingsで設定した自動化シーンを実行したり、家の状態を在宅・外出・夜間モードに切り替えたりすることも可能だ。"
+        },
+        {
+          "t": "p",
+          "x": "現在は初期の試験段階で、一部の機器は状態の照会のみに対応する。ドアロックなどセキュリティ関連機器は操作機能が制限される。テストを経て正式な連携を始めるとみられる。"
+        },
+        {
+          "t": "p",
+          "x": "Samsung SmartThingsだけでなく、ほかのスマートホームプラットフォームも生成AIサービスとの外部連携を急速に広げている。LG電子は先立って8月、ChatGPTとスマートホームプラットフォーム「LG ThinQ」を連携するサービスを発表した。現在はエアコンと空気清浄機の状態照会や操作などに対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは9月、スマートホームプラットフォーム「Google Home」にモデル・コンテキスト・プロトコル（MCP）を導入し、外部AIエージェントとの連携を開放した。MCPはAIが外部のサービスや機器と情報をやり取りし、機能を実行できるようにする標準的な接続方式だ。Google GeminiだけでなくClaude、ChatGPTなど多様な生成AIをスマートホームプラットフォームと連携できるよう支援するツールである。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.4403658394c0448e9e9f9c6061065d95_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "業界関係者は「スマートホーム業界は自社アプリや音声アシスタント中心の機器操作から離れ、外部の汎用AIサービスとの接続を広げる流れにある」とし、「利用者が特定メーカーのアプリを起動せずとも、日常の会話で複数の家電を管理する方向へスマートホームサービスが進化している」と語った。"
+        }
+      ]
     }
   }
 }

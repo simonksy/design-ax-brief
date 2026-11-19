@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-20",
+  "section": "music",
+  "items": [
+    {
+      "title": "Australian music industry rejects 'divide and conquer' proposal to give musicians exemption from AI scraping",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+      "source": "The Guardian",
+      "published_iso": "2026-11-19T14:00:52+00:00",
+      "og_image": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f713b67a86b8386b7f04c5e329faf82",
+      "excerpt": "A reported government proposal to exempt musicians alone from AI text-and-data-mining was called 'unworkable' by ARIA's chief executive, who said the industry won't be split from other creatives.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "rationale": "New concrete development in Australia's AI copyright fight: a reported musician-only TDM exemption and the industry's formal rejection; assigned to music by the cross-section brief."
+    },
+    {
+      "title": "UMG says 68% of listeners want a 'kill switch' for AI music",
+      "url": "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/",
+      "source": "Music Ally",
+      "published_iso": "2026-11-19T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "UMG published its own listener research days after Deezer's survey: 68% say they want a 'kill switch' to filter AI music out of streaming, well above Deezer's 41% figure.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Fresh first-party data from the largest label signalling demand for AI-music filtering on DSPs; distinct release from Deezer's 11-18 report."
+    },
+    {
+      "title": "Neutone announces Terra - Neural Drum Synth with Map-Based Exploration (AU & VST3)",
+      "url": "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705",
+      "source": "KVR Audio",
+      "published_iso": "2026-11-19T10:48:35+00:00",
+      "og_image": "https://static.kvraudio.com/i/b/terra_interface.jpg",
+      "excerpt": "Neutone released Terra in early access: a neural drum synth where each 'map' is a continuous latent space for exploring analogue and digital drum sounds and variations.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "New producer-facing neural instrument (AU/VST3, early access) with a novel latent-map interface; separate product from Neutone's NeuSynth (11-11)."
+    },
+    {
+      "title": "sonible Releases pure:smooth, an AI-Powered Resonance Suppression Plugin",
+      "url": "https://mixing.co.kr/en/44650",
+      "source": "월간 믹싱 (Mixing Magazine)",
+      "published_iso": "2026-11-19T11:18:38+09:00",
+      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
+      "excerpt": "sonible has released pure:smooth, an AI-powered dynamic resonance suppressor that tames harsh resonances with minimal controls, joining its pure: line of simplified smart plugins.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Shipping AI mixing plugin usable in sessions tomorrow; adds a third outlet and a mixing-tool angle."
+    },
+    {
+      "title": "EU member states call for more AI copyright protections and European ownership for TikTok Europe",
+      "url": "https://completemusicupdate.com/eu-member-states-call-for-more-ai-copyright-protections-and-european-ownership-for-tiktok-europe/",
+      "source": "CMU",
+      "published_iso": "2026-11-19T17:08:10+00:00",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
+      "excerpt": "As EU culture ministers met in Brussels, eleven member states backed stronger copyright protections against AI training, alongside a German-Austrian push for European ownership of TikTok Europe.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "Official position from eleven EU member states at the Culture Council on AI-training copyright; a new EU-level policy signal not covered in any section."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping": {
+        "verdict": "follow-up",
+        "nearest": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
+        "new_action": "A newly reported Australian government proposal to exempt musicians alone from AI text-and-data-mining, and ARIA's formal rejection of it (prior cards: 11-09 global music body warning, 11-17 'Not AI's to Take' campaign launch)."
+      },
+      "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/": {
+        "verdict": "new",
+        "nearest": "https://musically.com/2026/11/17/deezer-report-ai-music-2026/",
+        "new_action": ""
+      },
+      "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705": {
+        "verdict": "new",
+        "nearest": "https://mixing.co.kr/en/44340",
+        "new_action": ""
+      },
+      "https://mixing.co.kr/en/44650": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://completemusicupdate.com/eu-member-states-call-for-more-ai-copyright-protections-and-european-ownership-for-tiktok-europe/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped as duplicates: iZotope Photon (DJ Mag, likely-repeat of musictech 11-05 Photon card); Tim Minchin ARIA AI blast (Music Ally, commentary on the running Australian copyright story — same cluster as the Guardian pick, which carries the new concrete event). Dropped on scoring/fit: Contocracy label thought experiment (Hypebot, evergreen/fictional); Agentic AI music marketing feature (Music Ally, analysis; also keeps Music Ally at 1); DMN AI-streams analysis and Tencent 'negligible' AI streams (overlap the UMG listener-data pick); UMG/Sony withdraw DistroKid subpoena motion (procedural step in Suno litigation, covered repeatedly 11-12/11-18); Hive ticketing AI assistants (marketing-side); Harmonic Circuit arXiv (no image, lower actionability). Cross-section: checked published_urls.json politics/music for the Guardian and CMU EU-ministers stories — not published anywhere; Guardian item assigned to music by the curator brief (politics must not pick it)."
+  }
+}

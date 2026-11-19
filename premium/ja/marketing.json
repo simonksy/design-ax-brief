@@ -5360,6 +5360,153 @@
           "x": "フォーラムでの議論はLinkedInで行われている。"
         }
       ]
+    },
+    "marketing/kca-ai-fake-doctor-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
+          "cap": "記事の理解を助けるためのAI画像。"
+        },
+        {
+          "t": "p",
+          "x": "人工知能(AI)で作った偽の医師や有名人を前面に出した不当広告を迅速に遮断するため、韓国消費者院がNaver・Kakao・TikTokと協力体制を構築した。昨年のGoogleに続き、協力先を国内外の主要プラットフォーム4社に広げた。"
+        },
+        {
+          "t": "p",
+          "x": "最近、ソーシャルメディアを中心にAIで生成した偽の専門家や仮想人物が登場する不当広告が広がり、消費者被害への懸念が高まっている。特にライブコマースやショート動画などの映像広告は情報の拡散が速く、迅速な対応が必要だという。"
+        },
+        {
+          "t": "p",
+          "x": "消費者院がプラットフォームに掲載されたAI悪用の不当広告をモニタリングして疑わしい事例を伝えると、当該プラットフォームは広告主に事実関係を確認し、法令違反の有無を検討する。その後、広告を修正または遮断し、結果を消費者院に回答する。"
+        },
+        {
+          "t": "p",
+          "x": "主なモニタリング対象は、偽の医師・芸能人など専門家や有名人をかたる広告、体の変化の前後の姿を加工するなど体験談を装った広告、個別の法律に違反する広告だ。同一または類似の広告が繰り返し掲載されれば、各プラットフォームのポリシーに基づく制限措置も取られる。"
+        },
+        {
+          "t": "p",
+          "x": "各プラットフォームは、広告掲載前に実証資料を確認する事前審査体制も強化する。6月に改正された「推薦・保証等に関する表示広告審査指針」に基づき、仮想人物による推薦・保証に関するAI生成物の表示義務を守るよう管理する方針だ。これに先立ち消費者院は昨年9月、Googleと詐欺的広告の遮断に向けた官民協力を進めた。"
+        }
+      ]
+    },
+    "marketing/inmobi-accelerate-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "InMobiは2026年11月18日、InMobi Accelerateを発表した。七つのAIエージェントが、中小企業とそれを支援する代理店のために、Google Ads、Meta Ads、Microsoft Advertising、TikTok Ads、ChatGPT Adsにまたがる広告キャンペーンを一つのダッシュボードから企画、構築、配信、測定するプラットフォームで、無料で始められる。"
+        },
+        {
+          "t": "p",
+          "x": "InMobiはエージェントの役割を、ビジネスアナリスト、オーディエンスストラテジスト、メディアプランナー、コピーライター、クリエイティブデザイナー、ローンチエンジニア、オプティマイザーとしている。「AIエージェントは専門知識の経済性を変える」と、InMobi AccelerateのVP兼GMであるRohit Dosiは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "発表には「すべての計画、クリエイティブ素材、予算は、配信前に承認を得るために提示される」とある。継続的な最適化は、広告主が自ら設定した範囲内で許可した場合にのみ実行される。"
+        },
+        {
+          "t": "p",
+          "x": "AccelerateはInMobiのファーストパーティピクセルを使ってプラットフォーム間のコンバージョンの重複を除き、チャネル横断の単一指標「True ROAS」を報告する。この指標はInMobiの意思決定システムMobiusに取り込まれる。発表はこの指標の独立した監査機関を示しておらず、「無料で開始」以外の価格も公表していない。"
+        }
+      ]
+    },
+    "marketing/hubspot-agent-crm-pricing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月17日に公開された投稿によると、HubSpotはClaudeやChatGPTからソフトウェア内で行う日常業務について顧客に追加料金を請求せず、既存のAPIsに接続するAIエージェントもHubSpot Creditsを消費しない。Creditsが使われるのは第三の段階で、HubSpotがまだ構築中だとするエージェント向けの管理された環境だ。"
+        },
+        {
+          "t": "p",
+          "x": "投稿には「すべてのHubSpotシートには、ClaudeやChatGPTから日常業務を完了できる十分なヘッドレスアクセスが追加費用なしで含まれる」とある。既存のAPIsでのサードパーティ製エージェントの利用は「プランにすでに含まれるAPI容量にカウントされ、クレジットは消費しない」。エージェントにガバナンス、完全なトレーサビリティ、専用ツールを求めるチームはHubSpot Creditsで支払う。"
+        },
+        {
+          "t": "p",
+          "x": "投稿は新環境の料金、上限、開始日を示しておらず、「日常業務」も定義していない。HubSpotのカタログによれば、追加のAPI容量はパックあたり月$500で、最大二パックまで購入できる。"
+        },
+        {
+          "t": "p",
+          "x": "HubSpotによると、顧客が第三四半期にコネクター経由で作成したCRMオブジェクトは2,200万件を超え、第二四半期から157%増えた。"
+        }
+      ]
+    },
+    "marketing/target-ask-target-sales": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
+          "cap": "Alexandria, VirginiaにあるTargetの店舗。Dani James/Retail Dive"
+        },
+        {
+          "t": "p",
+          "x": "Targetは、ショッピングアシスタント「Ask Target」のベータ版を投入し、消費者向けAI技術への投資を強めている。"
+        },
+        {
+          "t": "p",
+          "x": "CEOのMichael Fiddelkeは水曜日の決算説明会で、この大手小売りがツールの初期成果に手応えを感じているとアナリストに語った。"
+        },
+        {
+          "t": "p",
+          "x": "「事業の基盤を支えるシステムを近代化しつつ、イノベーションも加速させている。商品の在庫確保やチームの効率を高めるツールから、当社のAI-driven（AI駆動）のショッピングアシスタントであるAsk Targetのような顧客向けツールまでだ」とFiddelkeは述べ、今後数カ月で新機能を導入すると付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Business Insiderの10月の報道によると、Ask Targetのベータ版は先月公開された。"
+        },
+        {
+          "t": "p",
+          "x": "Ask Targetを使った場合、顧客が購入に進む割合はそれ以外の場合の約二倍に達していると、Fiddelkeは決算説明会で指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "Fiddelkeは、業界でウェブサイトのトラフィック動向が変化し続けるなか、同社はエージェンティックコマースの時代に有利な位置にあると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「消費者の購買ファネルのあらゆる変化の最前線にいることが重要だ」と彼は語った。「消費者が当社の商品を見つける方法の変化には、長年うまく対応してきたと思う。……消費者が優れた商品を見つける方法の最前線にいたい」"
+        }
+      ]
+    },
+    "marketing/chatgpt-sales-plugin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&h=900&fit=fill"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT for Salesを発表する。あらゆる営業チームが顧客をより深く理解し、雑務にかける時間を減らし、より多くの商談を成立させられるよう支援するものだ。営業担当者向けの専用スキルを備えた新しいSalesプラグインと、ChatGPTで使える30以上の新規・強化パートナープラグインが含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIの新しいSalesプラグインは、狙うべきアカウントの選定から通話の準備、フォローアップの下書きまで、日々の営業業務にすぐ使えるワークフローを提供する。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/6mmoQk1sZ7T7wZ4TZfFzA7/bc50a51cdc4d80288d4ce9fd50d1d0e6/introducing-chatgpt-for-sales-connected-tools-overview.png?w=3840&q=90&fm=webp",
+          "cap": "ワークフロー別にまとめた営業ツール：コンテンツとイネーブルメント、アカウントと商談、見込み客開拓、顧客との会話、成果とリスク、見積もりと契約。"
+        },
+        {
+          "t": "p",
+          "x": "パートナープラグインは営業プロセス全体をカバーする。イネーブルメントにはConfluence、Guru、Seismic、アカウントと商談にはSalesforce、HubSpot、Close CRM、monday CRM、見込み客開拓にはApollo、Clay、Common Room、Outreach、Salesloft、通話メモにはGong、Otter.ai、Granola、パイプラインのリスクにはBackstoryとHex、見積もりと契約にはDocusign、Ironclad、PandaDoc、ServiceNow CPQがある。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPTで常時稼働するエージェント「dot」に任せることもできる。会議用ブリーフの準備や商談の進捗追跡を行い、関連する変化や次の一手の提案を先回りして確認用に届けてくれる。"
+        },
+        {
+          "t": "p",
+          "x": "「これらの作業にかかる手作業は約65%減ると見積もっている」と、ChatGPT for SalesとHubSpotを併用するNeoBidのProf. Dr. Gunnar Gombertは語る。パートナープラグインや機能の提供状況は、プラン、地域、ワークスペースの設定によって異なる。"
+        }
+      ]
     }
   }
 }

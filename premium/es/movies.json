@@ -11424,6 +11424,182 @@
           "x": "Capítulos: 00:00 Intro · 00:40 Configurar un proyecto de Claude · 01:40 Planificación y storyboards · 02:30 Referencias de personajes y locaciones · 04:00 Lista de planos y método de ráfaga · 05:15 Generar y editar la escena. Prompts y configuración del proyecto: runway.com/prompts/short-film-runway-mcp"
         }
       ]
+    },
+    "movies/visualcenter-cinema-genesis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+        },
+        {
+          "t": "p",
+          "x": "\"Cinema Genesis\", un cortometraje estereoscópico en 3D realizado por la empresa de video con AI de Busan Visual Center junto con ETRI y el Festival Internacional de Cortometrajes de Busan (BISFF), fue nominado oficialmente en la competencia de cine con AI del festival Courant3D, en Angulema, el 9 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "La película, de unos cuatro minutos, reinterpreta con AI generativa los inventos de Muybridge, Marey, Edison, los hermanos Lumière y Méliès. Una AI basada en GAN (GAN-based) restauró y coloreó fotografías del siglo 19 (19th-century) y películas tempranas dañadas hasta UHD 4K; la estimación de profundidad y el cálculo del paralaje izquierda-derecha convirtieron las imágenes 2D en 3D estereoscópico."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
+          "cap": "Una proyección de \"Cinema Genesis\"."
+        },
+        {
+          "t": "p",
+          "x": "Del 10 al 12 de octubre, en \"BISFF in PARIS\", unas 200 personas asistieron a una mesa redonda sobre cine con AI y conversión estereoscópica, y vieron con gafas 3D cuatro cortos en 3D hechos con AI generativa (generative-AI). \"La AI generativa no sustituye la creatividad humana\", dijo el director Kim Chang-ho. \"Es una tercera perspectiva que permite a los pioneros de hace 130 años y a los creadores de hoy colaborar a través del tiempo\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
+          "cap": "La mesa redonda \"Cine con AI y conversión estereoscópica\" en el Centro Cultural Coreano de París."
+        },
+        {
+          "t": "p",
+          "x": "BISFF también firmó un acuerdo con MK2 Agency y Artefact, que sienta las bases para una nueva sección competitiva de AI en la 44.ª edición del BISFF, en 2027."
+        }
+      ]
+    },
+    "movies/westworld-ai-lion-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En el ICNX 2026 Technology Showcase, celebrado en Incheon el 4 de noviembre, Lim Ju-young, director del laboratorio tecnológico de Westworld, mostró un león creado para el drama de JTBC de este año Everyone Is Fighting Their Own Worthlessness. Solo el trabajo de CG para una criatura así \"lleva más de cuatro meses y más de 30 artistas\", afirmó."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
+          "cap": "El mismo león hecho de dos formas: CG convencional frente a AI VFX."
+        },
+        {
+          "t": "p",
+          "x": "Westworld previsualizó el león con AI, generó material de origen del león con un modelo entrenado aparte, corrigió el pelaje, los ojos, la forma y el parpadeo, y luego hizo el seguimiento de cámara y ajustó la luz, el color y las sombras a la placa: todo quedó terminado en una a dos semanas."
+        },
+        {
+          "t": "p",
+          "x": "\"Si le das a la AI una imagen o un video y regeneras el fotograma completo, los detalles finos se rompen o se deforman a 4K o más\", dijo Lim. \"Eso no lo podemos entregar, así que repetimos sin parar el ciclo de generar material y volver a componerlo\". Citó la coherencia, el control, la calidad y los derechos como las razones por las que el resultado de la AI no puede usarse como versión final."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
+          "cap": "Un camino rural seco (izquierda) convertido en un paisaje nevado (derecha) con material de AI y composición."
+        },
+        {
+          "t": "video",
+          "yt": "tcT8APJwyXw"
+        }
+      ]
+    },
+    "movies/docmakers-archive-ai-licensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
+          "cap": "About a Hero"
+        },
+        {
+          "t": "p",
+          "x": "En IDFA, una charla del sector titulada \"Is AI Stealing My Documentary?\" abordó la concesión de licencias de material de archivo a la AI. Wendy Bernfield, CEO de Rights Stuff, dijo que la AI ha estado \"extrayendo o robando antes de que fuéramos siquiera lo bastante conscientes de ello\". De los cerca de 15 agregadores disponibles actualmente, solo unos pocos se dedican a recopilar material de imágenes de archivo; estos incluyen protección de derechos, pero pagan tarifas más bajas."
+        },
+        {
+          "t": "p",
+          "x": "La productora de archivo Elizabeth Klinck contó que la contactan \"casi todas las semanas\" e instó a los documentalistas a \"prepararse para el futuro\": el material derivado de archivo \"puede no sostenerse en términos de su seguro de errores y omisiones\". Recordó un contrato cuya cláusula de exclusión del entrenamiento tenía un plazo de cinco días."
+        },
+        {
+          "t": "p",
+          "x": "Esther Van Messel, CEO de First Hand Films, dijo que la mayoría de las solicitudes de AI son masivas, de más de 5000 horas: \"Creo que nuestras películas deberían entrenar a la AI... pero, por supuesto, dentro de los límites y las fronteras\". Bernfield señaló que los compradores están pasando a \"pagar más por menos, muy seleccionado\", mientras que Archive.org y muchas bibliotecas han restringido el acceso gratuito."
+        }
+      ]
+    },
+    "movies/estsoft-kfast-ai-dubbing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
+          "cap": "Imagen de las principales IP localizadas con el programa de apoyo a la expansión K-FAST especializado en doblaje con AI (foto: ESTsoft)"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoft está ampliando la llegada de contenidos de la televisión coreana al mercado latinoamericano con tecnología de doblaje por inteligencia artificial (AI). En 2 años localizó 300 horas de contenido y abrió 2 canales FAST que ofrecen contenido coreano en 5 países de Latinoamérica."
+        },
+        {
+          "t": "p",
+          "x": "La empresa de servicios de AI ESTsoft (director ejecutivo: Chung Sang-won) informó el día 19 que ejecutó durante 2 años consecutivos el 'Programa de apoyo a la expansión K-FAST especializado en doblaje con AI', impulsado por el Ministerio de Ciencia y TIC y la Asociación Coreana para la Promoción de las TIC (KAIT), con lo que avanzó en su tecnología de doblaje con AI y amplió su distribución internacional."
+        },
+        {
+          "t": "p",
+          "x": "FAST (Free Ad-supported Streaming TV) es un servicio de TV en streaming que ofrece contenido gratuito financiado con publicidad. A través del programa, ESTsoft aplicó su tecnología de doblaje con AI a unos 1만 8,000분 (300 horas) de contenido, entre dramas, programas de variedades y documentales."
+        },
+        {
+          "t": "p",
+          "x": "En particular, mejoró la síntesis de voz de su servicio propio Perso Dubbing para reproducir con naturalidad el tono de voz y la expresión emocional del hablante original, y reforzó las funciones de edición y descarga por segmentos. También elaboró una guía de calidad de doblaje en 'español neutro' orientada al mercado latinoamericano."
+        },
+        {
+          "t": "p",
+          "x": "En el programa participaron empresas coreanas de radiodifusión y contenidos como KBS, SBS, MBC, EBS, ENA, KT Studio Genie y Channel A. Este año se aplicó el doblaje con AI a 1958 K-dramas cortos de KT Studio Genie, al programa 'Groom Class' de Channel A y a 61 títulos de variedades de belleza de K20, entre otros."
+        },
+        {
+          "t": "p",
+          "x": "El consorcio de ESTsoft abrió 2 canales FAST, TRENDON de K20 y GENIE Shorts de KT Studio Genie, y empezó a suministrar contenido a través de LG Channels a 5 países latinoamericanos, entre ellos México, Perú, Chile, Colombia y Argentina."
+        },
+        {
+          "t": "p",
+          "x": "También crecen los usuarios internacionales del servicio de doblaje con AI. Los registros acumulados de Perso Dubbing superaron los 60만 en octubre, 14만 más que en febrero. Cerca del 90% de los nuevos registros entre agosto y octubre correspondió a usuarios del extranjero."
+        },
+        {
+          "t": "p",
+          "x": "En octubre, Perso Dubbing obtuvo 8.3 puntos en una evaluación interna de HeyGen, empresa global de plataformas de video con AI. Ese mismo mes, en MIPCOM 2026, celebrado en Francia, ESTsoft conversó con Amagi, empresa global de tecnología de radiodifusión y streaming, sobre la cooperación en localización de contenidos."
+        },
+        {
+          "t": "p",
+          "x": "ESTsoft planea ampliar las regiones del servicio K-FAST a España y Norteamérica, y diversificar sus canales de distribución, entre ellos los canales de Samsung TV."
+        },
+        {
+          "t": "p",
+          "x": "\"Con el programa K-FAST pudimos impulsar a la vez el avance tecnológico de nuestro Perso Dubbing y su expansión global\", dijo Chung Sang-won, director ejecutivo de ESTsoft. \"Vincularemos el proyecto nacional con nuestra propia capacidad tecnológica para ser más competitivos en los mercados internacionales y seguir generando resultados\"."
+        }
+      ]
+    },
+    "movies/movies-autodesk-maya-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081848-3dsmax-assistant-shirzad-still-2-1280.jpg",
+          "cap": "Autodesk Assistant en 3ds Max."
+        },
+        {
+          "t": "p",
+          "x": "Autodesk ha lanzado nuevas funciones de IA para Maya y 3ds Max que permiten a los artistas pedir a Autodesk Assistant que realice tareas dentro de sus escenas, o controlar ambas aplicaciones desde un agente de IA propio mediante nuevos servidores Model Context Protocol (MCP); ambas están en tech preview. También está disponible el nuevo viewport interactivo de Arnold, que usa DLSS de NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "Assistant, incluido con la suscripción a 3ds Max o Maya, ya puede ejecutar tareas como revisiones de escena o mapeado UV. El acceso de lectura y escritura está desactivado por defecto, ningún script se ejecuta hasta que el artista pulsa \"Allow\", cada acción del agente es un único paso de deshacer y Safe Mode bloquea los scripts que intentan salir de la escena."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-3dsmax-assistant-shirzad-still-3-1280.jpg?itok=dco93Hd0"
+        },
+        {
+          "t": "p",
+          "x": "Los nuevos MCP Servers de 3ds Max y Maya permiten que un cliente externo controle ambas aplicaciones. El artista Shirzad Bahrami conecta Claude a Maya para hacer pruebas unitarias durante el desarrollo de herramientas; un flujo de trabajo que a mano le llevaba más de una hora ahora le toma unos cinco minutos."
+        },
+        {
+          "t": "p",
+          "x": "En Flow Production Tracking, Assistant también puede responder, en tech preview, preguntas de solo lectura sobre los datos de la propia producción. El viewport de Arnold, anunciado en SIGGRAPH 2026, mantiene la imagen cercana al render final de Arnold, con DLSS encargado del escalado y la eliminación de ruido mientras el artista se mueve por la escena."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-arnold-viewport-mayamotion-blur-and-subsurface-scattering-1280.jpg?itok=QkXd3UnQ",
+          "cap": "Imágenes de Arnold Viewport"
+        },
+        {
+          "t": "video",
+          "yt": "xOGIVruVHt4"
+        }
+      ]
     }
   }
 }

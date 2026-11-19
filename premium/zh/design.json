@@ -12436,6 +12436,147 @@
           "x": "该功能将在未来几天内向Organization和Enterprise方案陆续推出。"
         }
       ]
+    },
+    "design/supernova-agentsmd-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+        },
+        {
+          "t": "p",
+          "x": "“设计令牌是样式契约。”这句话写在Workday的Canvas Kit的AGENTS.md文件里，但它只能传达给在Canvas Kit仓库内工作的智能体，而传达不到用它构建Workday产品的工程师及其智能体。"
+        },
+        {
+          "t": "p",
+          "x": "Supernova于2026年11月16日检查了30个设计系统的主要公开仓库，查看其中是否有AGENTS.md、CLAUDE.md、Cursor规则和Copilot指令。16个设有智能体指令文件：12个有AGENTS.md，9个有Copilot指令，6个有CLAUDE.md，3个有Cursor规则。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
+          "cap": "16个有智能体文件，10个提到设计令牌，5个禁止硬编码值，5个链接文档网站，0个是为使用该系统的团队编写的。"
+        },
+        {
+          "t": "p",
+          "x": "16个文件中有十个谈到令牌，五个要求智能体不要使用硬编码值。但每一个都是为设计系统的贡献者编写的，没有一个面向在自家产品中使用它的团队。"
+        },
+        {
+          "t": "p",
+          "x": "Supernova提供了一段可粘贴进产品自身AGENTS.md的设计系统章节——导入组件、使用语义令牌、列出弃用项、说明缺少某样东西时该怎么做——并主张随每次发布而变化的值应放在设计系统MCP服务器中。"
+        }
+      ]
+    },
+    "design/pliera-bim-revit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera是Enscape联合创始人Moritz Luck在Karlsruhe初创公司NeoBIM开发的一款新的云端BIM平台。它结合了建筑建模、AI-generated参数化对象和基于规则的建筑配置器，怀有挑战Revit的远大计划，并将于11月底在BIM World Munich上亮相。"
+        },
+        {
+          "t": "p",
+          "x": "面向六个领域的配置器可收录企业的设计规则；Pliera Gen已在德国上线，用于住宅用地可行性研究。演示中的配置器使用开发者编写的规则——用AI把企业知识整理成规则是更长远的目标。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera One是一款处于alpha阶段的浏览器建模工具，运行在Open Cascade内核和Three.js/WebGL引擎之上。Auto Complete系统会建议下一步建模操作，目前依据的是编写好的算法。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI可根据文字或图像创建定制参数化组件——用提示词生成圆形窗户，用照片生成门——所用模型为Anthropic Claude、OpenAI或Google Gemini。Pliera Gen每月收费€99或€499；团队对全自动建筑设计持怀疑态度。"
+        }
+      ]
+    },
+    "design/nvidia-omniverse-sim-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "要把仿真构想变成可运行的应用，需要组装资产、连接物理与渲染，并检查场景是否按预期运行。开发者正将前沿AI模型与NVIDIA Omniverse库结合来完成这些工作——构建用于探索场景、排查故障和改进设计的应用。他们通过自然语言指令指挥AI智能体，审阅结果并引导修改。"
+        },
+        {
+          "t": "p",
+          "x": "KONGSBERG旗下公司Falkor让客户借助GPT-6 Astra模型，把计算机辅助设计与工程数据转化为设施级数字孪生，使工程师在前往现场之前就能在仿真中制定并测试方案。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
+          "cap": "在NVIDIA Isaac Sim中用SimReady资产构建的抓取放置仿真。"
+        },
+        {
+          "t": "p",
+          "x": "社区开发者Michael Wagner用一个周末，借助Claude Code和SimReady Central资产构建了一款语音控制的VR应用。他的心得是：让智能体检查渲染图和日志，然后亲自检验体验。"
+        },
+        {
+          "t": "p",
+          "x": "Maziyar Panahi指挥Claude Code用13个SimReady医院资产搭建重症监护室；在256个病房的运行中，仿真14秒后，768个Microducks中仍有766个保持站立。NVIDIA其他团队则用Astra在Houdini中复刻OP-1合成器，在PTC Onshape中为汽车悬架建模，构建燃气轮机what-if数字孪生，并对一个仓库仿真进行压力测试——在80条传送带、40台机械臂和800个箱子的情况下仍保持每秒30帧。"
+        }
+      ]
+    },
+    "design/too-claudified-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一位客户以看起来像机器做的为由，拒绝了我的动效作品。而这个诊断，我早在五个月前就已发表。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
+          "cap": "版画完成后，Blake把这块版切开了。上面的文字是反的，因为它本来就不是给人在这里读的。"
+        },
+        {
+          "t": "p",
+          "x": "2026年6月，Takuma Kakehi发表了一篇文章，认为AI-generated设计已经趋同为一种可辨认的面貌，而问题不在于丑，而在于流畅：每一轮修改都会让产出更接近其他所有产出。"
+        },
+        {
+          "t": "p",
+          "x": "五个月后，一位客户对他说，他的作品太Claudified了。这是为一个营销团队做的动态图形项目，由于需求是量大且迭代快，他用AI而不是After Effects来制作。他设了护栏——在Figma中微调，把品牌风格写进markdown文件——但客户的反馈与这些都无关。"
+        },
+        {
+          "t": "p",
+          "x": "让他意外的不是这个诊断本身，而是它来自桌子的另一边，出自一个并不以设计为生的人之口，而且只用了一个词。"
+        }
+      ]
+    },
+    "design/design-stitch-loop-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.width-1300.png",
+          "cap": "Stitch Loop"
+        },
+        {
+          "t": "p",
+          "x": "编程智能体能让你快速构建并发布新功能，但它们的工作在拉取请求合并的那一刻就结束了。今天，Google Labs推出Stitch Loop，这是一款长期运行的产品智能体，可连接你的代码库和实时指标，找出需要修复的问题，并围绕你的产品24/7持续工作，直到目标达成。这是Stitch新方向的一部分，已有数百万设计师、开发者和创始人用Stitch在几分钟内把创意变成可用的界面。"
+        },
+        {
+          "t": "p",
+          "x": "你可以通过180多个集成、自定义MCP服务器或本地CLI上传，连接GitHub和产品上下文（日志、用户行为、反馈）。每个循环分为四步：基于证据的Suggestions（建议）；在适用时给出权衡、范围界定和视觉设计选项的Solutions（方案）；Build（构建），由Stitch Loop在隔离的云端沙盒中编写代码并提交GitHub拉取请求；以及Reflect（复盘），监测实时产品数据，并持续关注指标是否下滑。在你审核PR之前，任何改动都不会合并。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CleanShot_2026-11-17_at_13.01.13.width-1200.format-webp.webp",
+          "cap": "Stitch Loop UI"
+        },
+        {
+          "t": "p",
+          "x": "内置循环涵盖网络安全、延迟和无障碍访问，你也可以创建自定义循环，例如提升结账转化率。安全循环将Gemini 4 Carbon的网络安全能力与CodeMender结合，后者是Google DeepMind用于提升代码安全性的自主智能体。Google Antigravity等编程智能体可通过Stitch CLI和MCP获取产品上下文，在Slack中，@stitch会每天推送洞察摘要。候补名单今天起向全球所有用户开放，符合条件的Google AI Ultra用户可优先使用。"
+        }
+      ]
     }
   }
 }

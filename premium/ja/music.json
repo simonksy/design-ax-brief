@@ -10959,6 +10959,135 @@
           "x": "新しいテキスト・ビジュアルフィルターは、特定のアーティストや著名人、著作物、IPを再現しようとするアップロードやプロンプトを遮断することを狙う。生成物は表示前にCommunity Guidelinesに照らして確認され、Audible Magic、ACRCloud、Musixmatchが著作権のある音声の遮断を支援する。Visualsの作品をプラットフォーム外で共有する前には、埋め込み型の透かしが付与される。"
         }
       ]
+    },
+    "music/umg-ai-kill-switch-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Deezerが今週初めに公表した調査では、リスナーの41%が「音楽ストリーミングプラットフォームから100% AI生成（AI-generated）の音楽を除外したい」と答えたという。一方、UMGもこの問いについて独自に調査を進めており、より高い数字を得た。リスナーの68%がAI音楽の「キルスイッチ」を求めているという。"
+        },
+        {
+          "t": "p",
+          "x": "「消費者の大多数は透明性を求めている。[AI-generated]コンテンツが識別されることを望み、ラベル表示を望んでいる。私たちがキルスイッチと呼ぶものを求める人の割合も増えている」。UMGのEVP兼最高デジタル責任者Michael Nashは今週、Morgan Stanley European Technology, Media and Telecom ConferenceでのUMGのセッションでこう語った。"
+        }
+      ]
+    },
+    "music/neutone-terra-drum-synth": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "CyerBPkloAM"
+        },
+        {
+          "t": "p",
+          "x": "Neutoneは、マップ型（map-based）の探索を軸にしたAU・VST3対応のニューラルドラムシンセTerraをアーリーアクセスで公開した。各マップはアナログとデジタルのドラムサウンドを探索できる連続的な空間で、ドラム、FM、Foley、FXまでを網羅する。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
+          "cap": "Terraのインターフェース"
+        },
+        {
+          "t": "p",
+          "x": "Terraにはサンプルが一切含まれておらず、すべての打音をリアルタイムで合成する。ユーザーはマップ上に経路を描いてリズムを組み立てられ、エンジンは各サウンドの微細なバリエーションを際限なく生成する。"
+        },
+        {
+          "t": "p",
+          "x": "無限のラウンドロビン（round-robins）、サウンド間の滑らかなモーフィング、ジェネレーティブなサウンドデザイン向けのDriftモード、50以上の探索可能なマップ、完全ランダムなキット生成などの機能を備える。"
+        },
+        {
+          "t": "p",
+          "x": "Terraは現在アーリーアクセス段階にあり、2026年12月の正式リリースまで無料で試せる。フィードバック調査に回答したアーリーアクセスユーザーは、$99ではなくローンチ価格の$49で購入できる。"
+        }
+      ]
+    },
+    "music/sonible-pure-smooth-resonance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
+          "cap": "画像：sonible"
+        },
+        {
+          "t": "p",
+          "x": "sonibleは、AI搭載（AI-powered）の共振抑制プラグインpure:smoothをリリースした。"
+        },
+        {
+          "t": "p",
+          "x": "pure:smoothは、オーディオ内の不快な共振や耳障りな周波数帯域を検出して抑えるディハーシャー（de-harsher）プラグインだ。問題のある周波数を手作業で探さなくても、より滑らかでバランスの取れたサウンドが自動で得られる。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーが音源プロファイルを選ぶと、プラグインがオーディオを解析して処理を自動で調整する。ボーカル、ギター、ドラム、シンセ、ストリングスなど幅広い音源に対応する。"
+        },
+        {
+          "t": "video",
+          "yt": "yjnmUv3_2aM"
+        },
+        {
+          "t": "p",
+          "x": "操作項目はSmoothing、Resolution、Shaping、Frequency Range、Feedbackである。Smoothingは共振の低減量を設定し、Resolutionは広い帯域での音色の平滑化と精密な共振低減を切り替える。Shapingでは元の音色バランスを保つか、よりはっきりしたスペクトル調整を加えるかを選べる。"
+        },
+        {
+          "t": "p",
+          "x": "Frequency Rangeは処理を特定の帯域に限定する。Feedbackは適用中の低減量をリアルタイムで表示する。Difference Monitoringを使えば、何が取り除かれているかを正確に聴くこともできる。"
+        },
+        {
+          "t": "p",
+          "x": "通常価格は€39で、12月14日まで€25の導入価格で購入できる。macOSとWindowsでVST3、AU、AAXの各フォーマットに対応する。"
+        }
+      ]
+    },
+    "music/eu-ministers-ai-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "EU各国の文化相がブリュッセルで会合を開いている。それに先立ち、ドイツとオーストリアの政府はTikTok Europeを欧州資本の所有に強制的に移すという大胆な提案を示した。TikTokの広報担当者はPoliticoに対し、この提案には「まったく価値がない」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "EU十一カ国は、これとは別に、AIを踏まえて欧州の著作権保護を強化する法改正案の作成を欧州委員会（European Commission）に求める呼びかけを支持している。各国の文化相が承認した文書は、AIが「人間の創作プロセスと、芸術・文化の受け止め方や体験に深刻な激変をもたらした」とし、「European Commissionに対し、できるだけ早く立法案を提示するよう求める」と付け加えている。"
+        },
+        {
+          "t": "p",
+          "x": "争点の多くは、AI企業がAIモデルの学習のために既存コンテンツを複製する際の著作権と透明性の義務にある。多くのAI企業は、EU法のテキスト・データマイニングに関する著作権例外がAIの学習にも適用されると主張している。Euronewsは、多くのEU加盟国の政府内に分裂があり、産業担当の省庁はAI企業側に、文化担当の省庁はクリエイターや権利者側につくことが多いと指摘している。"
+        }
+      ]
+    },
+    "music/google-flow-music-residency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/2f094abb31ddfdc98f68027dbd129ceb064288f0-512x406.png?w=512&q=75&auto=format&h=406",
+          "cap": "GoogleのSpacesで作られたvibe-codedツール。提供：Google"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、AIがアーティストに取って代わることはないと証明しようとしている。同社はこの一年で生成AI音楽機能を相次いで投入した。その中には、2月にスタートアップのProducerAIを買収して手に入れたFlow Musicも含まれる。Flow Musicはプロンプト一つで曲を作れるツールだ。ただし同社がアーティストに訴えるのは、この技術がAuto-TuneやMIDIと同様に、創作プロセスの道具にもなり得るという点である。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは今年初め、アーティスト・レジデンシー・プログラム「Flow Music Sessions」を立ち上げた。参加者は、ProducerAIから引き継がれたFlow Musicの機能Spacesで作業する。Spacesでは、アーティストが独自のツールやプラグインをバイブコーディングで作れる。"
+        },
+        {
+          "t": "p",
+          "x": "「曲全体をプロンプトで丸ごと作ることには、あまり興味がない。私にとって一番楽しいのは、歌詞を書き、歌い、共作することだから」と、サウンドデザイナーでレジデンシー参加者のAvanti SinghはSemaforに語った。プロデューサーのMike CostanzoはSpacesで「perfect kick」プラグインを作った。曲に合うキックドラムを探す時間が短くなったという。"
+        },
+        {
+          "t": "p",
+          "x": "独立系のミュージシャンとソングライターのグループは3月、Googleを提訴した。Googleが音楽モデルLyria 3を、許可も補償もなくYouTube上の著作権のある録音で学習させたと主張している。Googleは訴えの却下を求めており、YouTubeにアップロードされた音楽は、プラットフォームの利用規約に同意した時点ですでにAI学習向けに広くライセンスされていると反論している。"
+        }
+      ]
     }
   }
 }

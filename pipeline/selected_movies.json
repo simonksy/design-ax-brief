@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-20",
+  "section": "movies",
+  "items": [
+    {
+      "tool": "Movies",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "Topview Launches Film Studio Hybrid AI Production Platform",
+      "url": "https://www.awn.com/news/topview-launches-film-studio-hybrid-ai-production-platform",
+      "source": "Animation World Network",
+      "published_iso": "2026-11-19T08:24:08-08:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/replace_green_screen-1280b.jpg?itok=-zv4bGCu",
+      "excerpt": "Singapore AI video company Topview's new Film Studio platform relights live-action footage, adds camera angles and AI extras, and swaps greenscreens around real actors; co-founder Jensen Wu pitches the hybrid approach as a route to mainstream distribution that fully AI films can't reach.",
+      "rationale": "New product launch aimed at live-action hybrid work (relight, new angles, greenscreen swap) that filmmakers can put into a pipeline now."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "title": "A Korean AI 3D film screens in cinema's birthplace: Visual Center's \"Cinema Genesis\" in France",
+      "url": "https://www.kentertechhub.com/visual-center-cinema-genesis-france-en/",
+      "source": "K-EnterTech Hub",
+      "published_iso": "2026-11-18T12:37:25.000Z",
+      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg",
+      "excerpt": "'Cinema Genesis', an AI-made 3D short by Busan's Visual Center with ETRI and the Busan International Short Film Festival, screened in the AI film competition at France's Courant3D; AI restored 19th-century photos to 4K and converted 2D to 3D.",
+      "rationale": "Concrete technique (AI restoration of 19th-century photos to 4K plus 2D-to-3D conversion) shown at an international AI film competition."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "title": "Westworld rebuilds the TV-drama creature pipeline with AI sources and VFX compositing",
+      "url": "https://www.kentertechhub.com/icnx-westworld-ai-vfx-en/",
+      "source": "K-EnterTech Hub",
+      "published_iso": "2026-11-19T04:16:04.000Z",
+      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg",
+      "excerpt": "At ICNX 2026, Westworld's Lim Ju-young showed how a TV-drama lion was made from AI source plates plus VFX compositing in 1-2 weeks versus four months in CG; raw AI output can't be delivered, so AI must run inside the VFX pipeline.",
+      "rationale": "Concrete production case study with numbers (1-2 weeks vs four months) on how AI plates fit inside a deliverable VFX pipeline."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "What Happens When Documentary Makers Sell Their Footage to AI Aggregators?",
+      "url": "https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760/",
+      "source": "Variety",
+      "published_iso": "2026-11-19T06:05:32+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Documentary producers and archivists lay out the dos and don'ts of licensing archival footage to AI training-data aggregators, and how those sales affect the research resources filmmakers rely on.",
+      "rationale": "Practical licensing guidance for filmmakers weighing sales of their archives to AI training-data buyers, a decision many now face."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "title": "이스트소프트, AI 더빙으로 K-콘텐츠 중남미 5개국 진출…2년간 300시간 현지화",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42794",
+      "source": "AI타임스",
+      "published_iso": "2026-11-19T10:54:33+09:00",
+      "og_image": "https://cdn.aitimes.kr/news/thumbnail/202611/42794_64292_5342_v150.jpg",
+      "excerpt": "ESTsoft used AI dubbing to localize 300 hours of Korean broadcast content over two years under the government's K-FAST AI-dubbing program, and opened two FAST channels serving five Latin American countries.",
+      "rationale": "Shipped AI-dubbing deployment at scale (300 hours, two FAST channels, five countries); a separate event from the French-regulator and Transn dubbing cards."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.awn.com/news/topview-launches-film-studio-hybrid-ai-production-platform": {
+        "verdict": "new",
+        "nearest": "https://www.etnews.com/20261103000300",
+        "new_action": ""
+      },
+      "https://www.kentertechhub.com/visual-center-cinema-genesis-france-en/": {
+        "verdict": "new",
+        "nearest": "https://www.news1.kr/life-culture/general-cultural/6335398",
+        "new_action": ""
+      },
+      "https://www.kentertechhub.com/icnx-westworld-ai-vfx-en/": {
+        "verdict": "new",
+        "nearest": "https://www.kentertechhub.com/4by4-ai-pixell-macos-inter-bee-2026-en/",
+        "new_action": ""
+      },
+      "https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760/": {
+        "verdict": "new",
+        "nearest": "https://www.documentary.org/column/synthesis-idfa-requesting-ai-disclosures-film-submissions-what-comes-next",
+        "new_action": ""
+      },
+      "https://www.aitimes.kr/news/articleView.html?idxno=42794": {
+        "verdict": "new",
+        "nearest": "https://slator.com/transn-ai-dubbing-costs-fall/",
+        "new_action": ""
+      }
+    },
+    "note": "Re-curated twice per orchestrator. (1) Dropped CorridorKey 2.0 livestream (youtube GOX594srvU4), a repeat of the 2026-10-17 movies card 'CorridorKey 2.0 just works...'; replaced by Visual Center 'Cinema Genesis' (K-EnterTech Hub). (2) Dropped Variety Chroma Awards: the fetch pass found it is sponsored Partner Content (Eleven Labs); replaced by ESTsoft AI dubbing (AI타임스 idxno=42794; checked the full URL against the movies history: idxno 42538/42541/42753 ran, 42794 did not; a different company and deployment from the 11-17 French-regulator and 11-18 Transn dubbing cards). Also dropped as duplicates/follow-ups: ProVideo Coalition Premiere AI Assistant tip (likely-repeat of 11-11 Adobe MAX Premiere card); Deadline Tilly Norwood 'Storm Dogs' clip (follow-up of 11-11 THR card, no new release). Dropped on scope/quality: TechNode Kling vs Sora (IPO/business); IndieWire Nolan/del Toro Q&A (commentary); TheWrap Gen Z (opinion feature); Envato survey (related to 11-15 ACE survey); PROM screening (event preview); Lemonlight Hero (possible advertorial); Google Vids avatars (cross-section risk)."
+  }
+}

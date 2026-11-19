@@ -18657,6 +18657,147 @@
           "x": "Organization·Enterprise 플랜에는 앞으로 며칠 동안 차례로 적용된다."
         }
       ]
+    },
+    "design/supernova-agentsmd-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+        },
+        {
+          "t": "p",
+          "x": "“디자인 토큰은 스타일링 계약이다.” Workday의 Canvas Kit AGENTS.md 파일에 적힌 문장이다. 하지만 이 문장을 읽는 건 Canvas Kit 저장소 안에서 일하는 에이전트뿐이다. Canvas Kit로 Workday 제품을 만드는 엔지니어도, 그들의 에이전트도 이 문장을 보지 못한다."
+        },
+        {
+          "t": "p",
+          "x": "Supernova는 2026년 11월 16일 디자인 시스템 30개의 주요 공개 저장소에 AGENTS.md, CLAUDE.md, Cursor 규칙, Copilot 지침이 있는지 확인했다. 에이전트 지침 파일을 둔 곳은 16개였다. AGENTS.md 12개, Copilot 지침 9개, CLAUDE.md 6개, Cursor 규칙 3개다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
+          "cap": "에이전트 파일 보유 16개, 디자인 토큰 언급 10개, 하드코딩 값 금지 5개, 문서 사이트 링크 5개, 시스템을 쓰는 팀을 위해 작성된 파일 0개."
+        },
+        {
+          "t": "p",
+          "x": "16개 파일 중 열 개가 토큰을 다루고, 다섯 개는 하드코딩 값을 쓰지 말라고 에이전트에 지시한다. 그런데 하나같이 디자인 시스템 기여자를 위한 파일이다. 자기 제품에서 시스템을 가져다 쓰는 팀을 위한 파일은 하나도 없다."
+        },
+        {
+          "t": "p",
+          "x": "Supernova가 내놓은 안은 제품 쪽 AGENTS.md에 붙여 넣을 디자인 시스템 섹션이다. 컴포넌트를 가져오고, 시맨틱 토큰을 쓰고, 지원 중단 항목을 나열하고, 필요한 것이 없을 때 할 일을 적어 두라는 내용이다. 릴리스마다 바뀌는 값은 디자인 시스템 MCP 서버에 두어야 한다는 주장도 덧붙였다."
+        }
+      ]
+    },
+    "design/pliera-bim-revit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera는 Enscape 공동 창업자 Moritz Luck이 Karlsruhe 스타트업 NeoBIM에서 만든 새 클라우드 기반 BIM 플랫폼이다. 건축 모델링과 AI-generated 파라메트릭 객체, 규칙 기반 건물 구성기를 한데 묶었고, Revit에 도전하겠다는 야심도 숨기지 않는다. 11월 말 BIM World Munich에서 처음 공개된다."
+        },
+        {
+          "t": "p",
+          "x": "구성기는 여섯 개 분야용으로 나뉘어 각 회사의 설계 규칙을 담는다. 그중 Pliera Gen은 독일에서 주거 부지 타당성 검토용으로 이미 서비스 중이다. 지금 공개된 구성기는 개발자가 짠 규칙으로 돌아간다. 회사 지식을 AI로 규칙화하는 일은 더 먼 목표다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pliera One은 알파 단계의 브라우저 기반 모델러로, Open Cascade 커널과 Three.js/WebGL 엔진 위에서 돌아간다. Auto Complete 시스템이 다음 모델링 단계를 제안하는데, 지금은 코드로 짠 알고리즘을 쓴다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI는 텍스트나 이미지를 받아 맞춤형 파라메트릭 컴포넌트를 만든다. 프롬프트로 원형 창을, 사진으로 문을 만드는 식이며 Anthropic Claude, OpenAI, Google Gemini를 쓴다. Pliera Gen 가격은 월 €99 또는 €499다. 팀은 건축 설계를 완전히 자동화하는 데는 회의적이다."
+        }
+      ]
+    },
+    "design/nvidia-omniverse-sim-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "시뮬레이션 아이디어를 돌아가는 애플리케이션으로 만들려면 에셋을 조립하고 물리와 렌더링을 연결한 뒤 장면이 의도대로 움직이는지 확인해야 한다. 개발자들은 이 일에 프런티어 AI 모델과 NVIDIA Omniverse 라이브러리를 함께 쓴다. 시나리오를 탐색하고 실패 원인을 조사하고 설계를 개선하는 애플리케이션이 이렇게 나온다. 개발자는 자연어로 AI 에이전트에 지시하고, 결과를 검토해 수정 방향을 잡는다."
+        },
+        {
+          "t": "p",
+          "x": "KONGSBERG 계열사 Falkor의 고객은 GPT-6 Astra 모델로 컴퓨터 지원 설계·엔지니어링 데이터를 시설 규모의 디지털 트윈으로 바꾼다. 엔지니어는 현장에 가기 전에 시뮬레이션 안에서 계획을 세우고 시험해 본다."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
+          "cap": "NVIDIA Isaac Sim에서 SimReady 에셋으로 만든 픽 앤 플레이스 시뮬레이션."
+        },
+        {
+          "t": "p",
+          "x": "커뮤니티 개발자 Michael Wagner는 주말 사이 Claude Code로 SimReady Central 에셋을 쓴 음성 제어 VR 애플리케이션을 만들었다. 그의 교훈은 렌더와 로그는 에이전트에게 살펴보게 하고, 경험은 직접 확인하라는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "Maziyar Panahi는 Claude Code에 SimReady 병원 에셋 13개로 중환자실을 꾸리게 했다. 병동 256개를 돌린 결과, 시뮬레이션 시간 14초가 지나도 Microducks 768개 중 766개가 서 있었다. 다른 NVIDIA 팀들도 Astra를 썼다. Houdini에서 OP-1 신시사이저를 재현하고, PTC Onshape에서 자동차 서스펜션을 모델링하고, 가스터빈 what-if 디지털 트윈을 만들었다. 컨베이어 80개, 로봇 팔 40개, 상자 800개를 넣고도 초당 30프레임을 유지한 창고 시뮬레이션으로 스트레스 테스트도 했다."
+        }
+      ]
+    },
+    "design/too-claudified-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "한 고객이 내 모션 작업을 보고 기계가 만든 것 같다며 퇴짜를 놓았다. 그 진단은 내가 다섯 달 전에 이미 글로 발표한 것이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
+          "cap": "Blake는 에디션을 마친 뒤 이 판을 잘라냈다. 글자가 거꾸로 읽히는 건 애초에 이 자리에서 읽으라고 만든 게 아니어서다."
+        },
+        {
+          "t": "p",
+          "x": "2026년 6월 Takuma Kakehi는 에세이 한 편을 발표했다. AI-generated 디자인이 한눈에 알아볼 만한 하나의 모습으로 수렴했고, 문제는 추함이 아니라 유창함이라는 주장이었다. 수정을 거칠수록 결과물이 다른 모든 결과물을 더 닮아 간다는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "다섯 달 뒤 한 고객이 그에게 작업이 너무 Claudified하다고 했다. 마케팅팀의 모션 그래픽 작업이었고, 물량이 많고 반복이 빨라야 해서 After Effects 대신 AI로 만들었다. Figma에서 다듬고 하우스 스타일을 마크다운 파일에 정리해 두는 등 안전장치도 마련했다. 하지만 돌아온 반응은 그런 것과 상관이 없었다."
+        },
+        {
+          "t": "p",
+          "x": "그를 놀라게 한 건 진단 자체가 아니었다. 그 진단이 테이블 건너편에서, 디자인을 업으로 삼지 않는 사람 입에서, 단 한 단어로 나왔다는 점이었다."
+        }
+      ]
+    },
+    "design/design-stitch-loop-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.width-1300.png",
+          "cap": "Stitch Loop"
+        },
+        {
+          "t": "p",
+          "x": "코딩 에이전트 덕에 새 기능은 빠르게 만들어 내보내지만, 에이전트의 일은 pull request가 병합되는 순간 끝난다. Google Labs가 오늘 공개한 Stitch Loop은 코드베이스와 실시간 지표에 붙어 고칠 곳을 찾고, 목표에 닿을 때까지 24/7 제품을 돌보는 장기 실행형 제품 에이전트다. Stitch가 새로 잡은 방향의 하나로, 이미 수백만 명의 디자이너와 개발자, 창업자가 Stitch로 아이디어를 몇 분 만에 작동하는 인터페이스로 바꾸고 있다."
+        },
+        {
+          "t": "p",
+          "x": "사용자는 180개가 넘는 통합 기능, 맞춤 MCP 서버, 로컬 CLI 업로드로 GitHub와 제품 맥락(로그, 사용자 행동, 피드백)을 연결한다. 루프 하나는 네 단계로 돈다. 근거를 댄 Suggestions(제안), 필요하면 트레이드오프와 범위, 시각 디자인 옵션까지 함께 내놓는 Solutions(해법), Stitch Loop이 격리된 클라우드 샌드박스에서 코드를 쓰고 GitHub pull request를 여는 Build(구축), 실제 제품 데이터로 지표가 떨어지지 않는지 계속 살피는 Reflect(점검)다. PR을 검토하기 전에는 아무것도 병합되지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CleanShot_2026-11-17_at_13.01.13.width-1200.format-webp.webp",
+          "cap": "Stitch Loop UI"
+        },
+        {
+          "t": "p",
+          "x": "기본 루프는 사이버 보안, 지연 시간, 접근성을 다루고, 결제 전환율 개선 같은 맞춤 루프도 직접 만든다. 보안 루프는 Gemini 4 Carbon의 사이버 보안 역량에 코드 보안을 개선하는 Google DeepMind의 자율 에이전트 CodeMender를 붙였다. Google Antigravity 같은 코딩 에이전트는 Stitch CLI와 MCP로 제품 맥락을 가져오고, Slack에서는 @stitch가 매일 인사이트 요약을 보낸다. 대기자 명단은 오늘 전 세계 모든 사용자에게 열리고, 자격을 갖춘 Google AI Ultra 사용자는 우선 이용권을 받는다."
+        }
+      ]
     }
   }
 }

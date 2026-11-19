@@ -11963,6 +11963,145 @@
           "x": "Both younger and older groups rated AI-generated faces as more real than real photographs, and the anterior insula was less active when participants viewed deepfakes. AI faces likely look more real because they are generated as an average of many faces, which makes them \"easier to process and more pleasing,\" Ebner said. She said awareness of the bias may be the real advantage, especially for older adults targeted by scams."
         }
       ]
+    },
+    "science/maya-vibe-archaeology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
+          "cap": "The previously documented ancient Maya site. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
+        },
+        {
+          "t": "p",
+          "x": "On November 10 AI researcher Pietro Miotti shared on X what appeared to be a previously unmapped ancient Maya civic center in Mexico, found by prompting dozens of AI agents to sift through public NASA lidar data. The post went viral as \"vibe archaeology,\" boosted by accounts including Polymarket."
+        },
+        {
+          "t": "p",
+          "x": "But the site wasn't a new discovery. Less than a day later, Sarah Parcak of the University of Alabama at Birmingham noted it had been documented by Tulane's Francisco Estrada-Belli and colleagues in 2025. \"This is why peer review exists,\" Parcak says. \"Not everything is online.\""
+        },
+        {
+          "t": "p",
+          "x": "“I think it’s great that people want to be citizen scientists using AI and experiment with it,” Estrada-Belli says. “But I think they shouldn’t just blindly take the results without doing some background checks or due diligence before they go out and make a claim like that.”"
+        },
+        {
+          "t": "p",
+          "x": "Miotti corrected his posts to credit the survey. \"Today a single person with a hypothesis can run AI agents overnight to triage candidate structures for experts to evaluate,\" he says, adding that the episode showed the human contribution: \"literature review, field verification and other more specific domain expertise.\""
+        }
+      ]
+    },
+    "science/gpt52-wildlife-species-id": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
+          "cap": "Camera-trap image from the Morrocoy reserves: AI suggested Bassariscus sumichrasti; experts identified Metachirus myosuros. Credit: Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "A general-purpose AI model identified a marsupial caught by a camera trap in Colombia's Montes de María as Bassariscus sumichrasti, a species not known from Colombia, even though it was told where the animal was seen. Expert review confirmed it as Metachirus myosuros."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
+          "cap": "Armadillo Cabassous centralis. Credit: Fundación Sembrandopaz"
+        },
+        {
+          "t": "p",
+          "x": "A study in the Biodiversity Data Journal by Gustavo Nicolas Paez Salamanca tested OpenAI's GPT-5.2 on 10,000 research-grade iNaturalist photos of Colombian amphibians, birds, fishes, mammals and reptiles, 2,000 per group. It reached 9.5% species-level accuracy: about 17–19% for mammals and reptiles, under 5% for amphibians, birds and fishes."
+        },
+        {
+          "t": "p",
+          "x": "Species with fewer public photos and recently described species, such as the porcupine Coendou vossi, recognized in 2025, were harder. \"If a rare animal is confused with a more familiar one, its presence might go unnoticed,\" Paez Salamanca says. The study proposes AI as a first step, with uncertain or high-stakes records sent to specialists."
+        }
+      ]
+    },
+    "science/ai2-asta-theorizer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 is launching Theorizer in Asta, its platform of AI agents for scientific research, and open-sourcing the code. Theorizer searches the literature, creates a template of what to extract from each paper, and compares findings to generate theories, linking claims to the papers behind them."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Sid Devarakonda of Providence Swedish Cancer Institute used it on \"driver-negative\" lung adenocarcinoma. Reviewing its first theories, he recalled: \"Wait a second, this is exactly what I think. And it took me 15 years to think like this.\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
+          "cap": "Three possible explanations for growth in lung adenocarcinomas without a recognized genetic driver."
+        },
+        {
+          "t": "p",
+          "x": "For the Allen Institute's Jérôme Lecoq, Theorizer returned 50 candidate theories about VIP interneurons, compared with the one or two he had expected."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
+          "cap": "Cells where the maximum dew point exceeded 35°C in Peru. Figure: Piero Palacios, CIP."
+        },
+        {
+          "t": "p",
+          "x": "At the International Potato Center, a wrong but testable explanation led researchers to the real source of implausible dew points. Ai2 cautions that Theorizer can miss relevant studies and misjudge originality."
+        }
+      ]
+    },
+    "science/ai-supertelescope-rubin-euclid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
+          "cap": "ESA/Euclid/Euclid Consortium/NASA"
+        },
+        {
+          "t": "p",
+          "x": "Astronomers want to combine the Vera C. Rubin Observatory, the Euclid space telescope and the Nancy Grace Roman Space Telescope into a single AI-powered supertelescope. \"Processed together, they make a fourth. And nobody has switched it on,\" says Gioia Rau of Renaissance Philanthropy."
+        },
+        {
+          "t": "p",
+          "x": "In August Rau and more than two dozen co-authors released a preprint calling for action. With public investment already above $6 billion, the paper argues agencies should fund stitching the surveys together before the opportunity passes."
+        },
+        {
+          "t": "p",
+          "x": "The goal is to \"combine the pixels to get an image that is extremely high-resolution,\" says Rubin chief scientist Tony Tyson, aiding studies of dark energy, dark matter, supernovae and asteroids. \"If we had 100 million volunteers, it would take us 120,000 years to annotate all of what the Rubin Observatory is acquiring,\" says Lior Shamir. \"With AI, it's pretty instant.\""
+        },
+        {
+          "t": "p",
+          "x": "\"It has to be done,\" says Yale's Meg Urry. Roman is expected to begin its survey in early 2027."
+        }
+      ]
+    },
+    "science/osmo-ai-nose-smell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg",
+          "cap": "Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "In a lab near Newark Airport, around 30 experienced human sniffers record notes—“nutty,” “peachy,” “marine”—that are cross-referenced with chemical analysis to train what AI startup Osmo calls the world’s first foundation model for smell. The goal, says founder Alex Wiltschko, is “to give computers a sense of smell.”"
+        },
+        {
+          "t": "p",
+          "x": "Wiltschko claims Osmo’s model has achieved “human-level olfactory intelligence”: about as good as the average person at detecting and discriminating smells, and about as good as a junior perfume designer at creating them. Last month, the company says, it outperformed in-house perfumers at one of the world’s largest consumer goods companies."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
+        },
+        {
+          "t": "p",
+          "x": "Osmo has built a dataset of more than 10 million human labels and 800 million “scent tokens,” and a school-bus-sized smell-printing robot can design scents from a ChatGPT-style prompt. Its technology has been used for retail fragrances, including for Procter & Gamble."
+        },
+        {
+          "t": "p",
+          "x": "Critics remain. Smell scientist Avery Gilbert argues some marketing claims are undocumented. Former Osmo consultant Michael Schmuker calls the technology an achievement but says context matters: Camembert shares a molecule with used nappies. Sensors must improve before goals like medical diagnostics, “the biggest prize.”"
+        }
+      ]
     }
   }
 }

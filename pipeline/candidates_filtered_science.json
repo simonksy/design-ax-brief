@@ -1,0 +1,910 @@
+{
+  "section": "science",
+  "now_iso": "2026-11-19T22:03:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "AI helps researchers track beluga whales using aerial drone images",
+      "url": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
+      "source": "Phys.org",
+      "category": "life_science",
+      "published_iso": "2026-11-19T15:40:08-05:00",
+      "excerpt": "Florida Atlantic University researchers built SEMI-DETR, a semi-supervised deep-learning model that detects, tracks and separates beluga adults from calves in drone image sequences (Frontiers in Marine Science). With only 34 labeled images it beat the best fully supervised model by about 20% mAP, with the largest gain on calves.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg"
+    },
+    {
+      "title": "Researchers use AI to optimize sensor design for ultrasensitive vitamin C detection",
+      "url": "https://phys.org/news/2026-11-ai-optimize-sensor-ultrasensitive-vitamin.html",
+      "source": "Phys.org",
+      "category": "materials",
+      "published_iso": "2026-11-19T07:40:01-05:00",
+      "excerpt": "Sungkyunkwan University trained a machine-learning model on 25 of 625 possible fabrication conditions to pick untested recipes for a molecularly imprinted electrochemical sensor, then built and validated them (Chemical Engineering Journal). The optimized sensor reached a 778 pM detection limit and tracked ELISA results in urine.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-researchers-use-a.jpg"
+    },
+    {
+      "title": "When AI misidentifies wildlife: New study maps where species identification fails",
+      "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
+      "source": "Phys.org",
+      "category": "life_science",
+      "published_iso": "2026-11-18T10:50:01-05:00",
+      "excerpt": "A Biodiversity Data Journal study tested OpenAI's GPT-5.2 on 10,000 iNaturalist photos of Colombian vertebrates and found only 9.5% species-level accuracy, under 5% for amphibians, birds and fishes, even when told the location.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg"
+    },
+    {
+      "title": "Brain researchers afflict LLMs with 'injuries' similar to those of stroke victims to unpack AI language mechanisms",
+      "url": "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html",
+      "source": "Tech Xplore",
+      "category": "cognition",
+      "published_iso": "2026-11-19T11:00:13-05:00",
+      "excerpt": "University of South Carolina aphasia researchers (Julius Fridriksson) lesioned layers of large language models and gave them the same tests used on post-stroke patients (Patterns). The damaged models produced error patterns resembling human aphasia, offering a clinical-neuroscience framework for probing LLMs.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg"
+    },
+    {
+      "title": "How AI can identify the magnetic structures behind high-frequency energy loss",
+      "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
+      "source": "Tech Xplore",
+      "category": "physics",
+      "published_iso": "2026-11-18T15:40:09-05:00",
+      "excerpt": "Tokyo University of Science (Masato Kotsugi) combined large-scale simulations of a nanocrystalline soft magnet with persistent homology and explainable, physics-interpretable topological machine learning to pinpoint which domain-wall structures drive energy barriers at high frequency (NPG Asia Materials).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg"
+    },
+    {
+      "title": "AI can identify themes in human interviews but still misses nuances in meaning",
+      "url": "https://techxplore.com/news/2026-11-ai-themes-human-nuances.html",
+      "source": "Tech Xplore",
+      "category": "psychology",
+      "published_iso": "2026-11-17T16:00:09-05:00",
+      "excerpt": "University of Missouri's AURA framework compared BERTopic topics with human-coded themes from 32 interviews (International Journal of Qualitative Methods): 11 of 12 human themes matched an AI topic, but the model merged or split themes and missed contextual meaning.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-test-finds-ai-matc.jpg"
+    },
+    {
+      "title": "An AI-powered 'supertelescope' could revolutionize astronomy—provided someone builds it",
+      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
+      "source": "Scientific American",
+      "category": "astronomy",
+      "published_iso": "2026-11-19T09:00:00-05:00",
+      "excerpt": "Astronomers led by Gioia Rau propose using AI to fuse overlapping pixels from Rubin, Euclid and Roman into a virtual fourth observatory with sharper images for dark-matter and dark-energy studies, petabytes at a time.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200"
+    },
+    {
+      "title": "Ancient Maya site uncovered with 'vibe archaeology' ignites firestorm over AI in science",
+      "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
+      "source": "Scientific American",
+      "category": "humanities",
+      "published_iso": "2026-11-19T06:00:00-05:00",
+      "excerpt": "Contrary to viral claims, AI agents did not discover an ancient Maya site, but the episode sparked a clash among archaeologists over how AI tools should be used and credited in science.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200"
+    },
+    {
+      "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
+      "url": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
+      "source": "SingularityHub",
+      "category": "life_science",
+      "published_iso": "2026-11-18T10:17:56-08:00",
+      "excerpt": "University of Missouri (Bing Yang) adapted Profluent's AI-designed gene editor OpenCRISPR-1 for rice, reaching up to 97% editing efficiency; edited plants resisted three strains of bacterial blight and passed the edits to the next generation.",
+      "og_image": "https://singularityhub.com/uploads/2026/11/rice-terraces-bali.jpeg?auto=webp",
+      "history_match": {
+        "score": 0.496,
+        "date": "2026-10-29",
+        "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
+        "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "AI Agents Ran a Biology Lab. Humans Popped in to Empty the Trash.",
+      "url": "https://singularityhub.com/2026/11/10/ai-agents-ran-a-biology-lab-humans-popped-in-to-empty-the-trash/",
+      "source": "SingularityHub",
+      "category": "research_automation",
+      "published_iso": "2026-11-10T08:18:21-08:00",
+      "excerpt": "Shanghai Jiao Tong University's AutoDNA agents planned workflows from literature and wrote code to drive robots across 20+ instrument types, running DNA synthesis, PCR (~98% yield) and sequencing with minimal human help, including writing and decoding a 78-strand DNA message.",
+      "og_image": "https://singularityhub.com/uploads/2026/11/pink-pipette-rows-of-test-tubes.jpeg?auto=webp",
+      "history_match": {
+        "score": 0.393,
+        "date": "2026-11-07",
+        "url": "https://www.nature.com/articles/d41586-026-03552-8",
+        "title": "AI agents run this automated biology lab that sequences DNA and more",
+        "band": "related"
+      }
+    },
+    {
+      "title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+      "url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+      "source": "The Quantum Insider",
+      "category": "quantum",
+      "published_iso": "2026-11-19T11:51:36+00:00",
+      "excerpt": "BMO says it demonstrated quantum utility on IBM quantum hardware for feature selection, identifying which dataset variables are most useful for a machine-learning model (QML-on-hardware, deprioritized subtopic).",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/BMO-Financial-Group-Communications-BMO-Demonstrates-Quantum-Ut-1024x768.jpg",
+      "history_match": {
+        "score": 0.227,
+        "date": "2026-11-15",
+        "url": "https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/",
+        "title": "QodeX Quantum, NVIDIA, RTX BBN and U.S. Navy researchers forecast unstructured PDEs on 52-qubit IBM hardware",
+        "band": "related"
+      }
+    },
+    {
+      "title": "The Communal Brain Behind RFD4-Proteina",
+      "url": "https://www.ipd.uw.edu/2026/11/the-communal-brain-behind-rfd4-proteina/",
+      "source": "Institute for Protein Design",
+      "category": "life_science",
+      "published_iso": "2026-11-19T21:58:31+00:00",
+      "excerpt": "IPD describes RFD4-Proteina, a generative protein-design model co-developed with NVIDIA that merges the RFdiffusion and Proteina-Complexa lineages and delivers 5-10x the throughput of high-quality designs. Same story as the R&D World enzyme item.",
+      "og_image": "https://www.ipd.uw.edu/wp-content/uploads/2026/11/RFD4_image_cropped_blur.jpg",
+      "history_match": {
+        "score": 0.309,
+        "date": "2026-10-24",
+        "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
+        "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
+        "band": "related"
+      }
+    },
+    {
+      "title": "How NVIDIA and David Baker's lab designed an enzyme with AI",
+      "url": "https://www.rdworldonline.com/nvidia-exec-on-how-ai-helped-david-bakers-lab-design-a-pesticide-degrading-enzyme/",
+      "source": "R&D World",
+      "category": "life_science",
+      "published_iso": "2026-11-18T17:33:28+00:00",
+      "excerpt": "Off-list (on-list IPD post lacks results): RFD4-Proteina designed metal-binding enzymes that break down the pesticide paraoxon; 89 of 288 designs were active vs 0 of 192 RFD3 designs, and six had 10-1,000x higher catalytic efficiency than earlier designs. Paper at rfd4-proteina.org, code on RosettaCommons.",
+      "og_image": "https://www.rdworldonline.com/wp-content/uploads/2026/11/image4-2.webp",
+      "history_match": {
+        "score": 0.235,
+        "date": "2026-10-24",
+        "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
+        "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Theorizer comes to Asta",
+      "url": "https://allenai.org/blog/theorizer-in-asta",
+      "source": "Ai2",
+      "category": "research_automation",
+      "published_iso": "2026-11-19T00:00:00-08:00",
+      "excerpt": "Ai2 added Theorizer to its Asta science agent: it extracts findings from papers into templates and synthesizes candidate theories, each claim linked to supporting studies. No benchmark numbers reported.",
+      "og_image": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+    },
+    {
+      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+      "source": "NVIDIA Newsroom",
+      "category": "research_automation",
+      "published_iso": "2026-11-16T16:04:00+00:00",
+      "excerpt": "Off-list (scientific foundation model release, no on-list coverage found): NVIDIA launched Nemotron for Science at SC26, open science-tuned models, an open chemistry dataset and post-training tools for agentic scientific discovery.",
+      "og_image": "https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_3ae01a42-fd11-4792-b9a1-a25649fd94c1-prv.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1"
+    },
+    {
+      "title": "The Art of Asking Questions: From Stephen Hawking to AI",
+      "url": "https://physics.aps.org/articles/v19/154",
+      "source": "Physics (APS)",
+      "category": "physics",
+      "published_iso": "2026-11-18T10:00:00+00:00",
+      "excerpt": "APS Physics essay on question-asking in physics, from Stephen Hawking to AI systems (commentary, not a new result).",
+      "og_image": "https://physics.aps.org/assets/3d890c06-0378-4714-a523-78759b0e791c/e154_2_thumb.png",
+      "history_match": {
+        "score": 0.194,
+        "date": "2026-11-02",
+        "url": "https://techxplore.com/news/2026-10-ai-human.html",
+        "title": "AI often passes for human, but asking follow-up questions can trip it up",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Using AI to accelerate neuroscience research",
+      "url": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
+      "source": "Medical Xpress",
+      "category": "cognition",
+      "published_iso": "2026-11-14T17:00:00+00:00",
+      "excerpt": "Neuroscience 2026 roundup (Tsinghua, UC Irvine, Berkeley Lab): a learning principle shared by artificial neural networks and fruit flies, a plain-English genomic-analysis tool, and brain-data standards. Conference presentations, no journal paper.",
+      "og_image": null
+    }
+  ],
+  "dedup": {
+    "dropped": 1,
+    "kept": 17,
+    "against_days": 5
+  },
+  "story_dedup": {
+    "history_days": 30,
+    "dropped": [],
+    "review": 6,
+    "same_story_pairs": []
+  },
+  "history_digest": [
+    {
+      "date": "2026-10-21",
+      "title": "Synthetic public opinion polling: AI personas don't always change their minds like real voters do",
+      "url": "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "AI that reconstructs cloud-covered ground in satellite images with photo-like clarity",
+      "url": "https://techxplore.com/news/2026-10-ai-reconstructs-cloud-ground-satellite.html"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Researchers dispute whether AI has passed the Turing test",
+      "url": "https://techxplore.com/news/2026-10-dispute-ai-turing.html"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
+      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://allenai.org/blog/fairstress"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "AI reveals how a warming climate will intensify NZ's most extreme downpours",
+      "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Researchers develop conversational AI for self-driving labs",
+      "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "New materials library could help AI design better sodium-ion batteries",
+      "url": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Raman+NIR Spectra Improves Glucose Soft Sensing",
+      "url": "https://www.genengnews.com/topics/bioprocessing/ramannir-spectra-improves-glucose-soft-sensing/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "AI listens to bee buzzes to monitor activity without lethal traps",
+      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Using AI agents to run quantum simulations",
+      "url": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Researchers find a way to reduce AI chatbots' reinforcement of delusions",
+      "url": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "New superconducting chip aims to help tame fusion plasma",
+      "url": "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "The inside story behind OpenAI's million-dollar math proof",
+      "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Beyond tree cover: mapping the world's forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
+      "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Computer scientists build tech tools to find experiments, detect citation 'hallucinations'",
+      "url": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Google launches $150,000 AI competition to reduce quantum computing demands",
+      "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://allenai.org/blog/litpivot"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://allenai.org/blog/olmoearth-v1-3"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Most AI chatbots stay in the political middle ground, with Grok being an exception",
+      "url": "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Low-power neural chip reads brain signals to identify cognitive and emotional states",
+      "url": "https://techxplore.com/news/2026-10-power-neural-chip-brain-cognitive.html"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "PerturbAI and OpenAI launch AI reasoning agents for biomedical discovery",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "AI agents can form political camps—and changing their conversation partners does little to soften their views",
+      "url": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Researchers develop AI tool to map microRNA binding sites on circular RNAs",
+      "url": "https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "App's AI 'eyes' for blind users fall short, researchers find",
+      "url": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
+      "url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Emergence of diffusion models from associative memory through memorization and generalization",
+      "url": "https://www.nature.com/articles/s41467-026-78727-y"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "A crop-mapping benchmark for the tropics (PLANTEUR)",
+      "url": "https://allenai.org/blog/planteur"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings",
+      "url": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Ahead of their time: Restricted to pre-2018 research, AI flags hydrogen catalyst reported in later experiments",
+      "url": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Brain-inspired randomness makes artificial vision more reliable",
+      "url": "https://techxplore.com/news/2026-10-brain-randomness-artificial-vision-reliable.html"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "AI could turn scientific papers into research assistants",
+      "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "AI designs functional enzyme components that could help expand drug discovery",
+      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
+      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "New neural framework could make LLMs more empathetic",
+      "url": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Solving a 31-year-old grand challenge in mathematics: the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
+      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://allenai.org/blog/novelty-bench"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
+      "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "When simulations fall short, this spectrometer learns for itself",
+      "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "AI may quickly generate ideas, but working with people leads to more creative ones",
+      "url": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Pasqal Launches AI Workflow for Cloud Quantum Experiments",
+      "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Hidden and forgotten 2D materials are discovered with AI",
+      "url": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "A new physics-informed AI tool aims to predict wildfire spread in real time and assist wildfire response",
+      "url": "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction",
+      "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Fluent language makes a hallucinatory chatbot just as credible as a curt, flawless one",
+      "url": "https://techxplore.com/news/2026-10-fluent-language-hallucinatory-chatbot-credible.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "New AI tool helps scientists identify bacteria hidden in soil",
+      "url": "https://phys.org/news/2026-10-ai-tool-scientists-bacteria-hidden.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+      "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "AI framework cuts computing use by two-thirds while more than tripling success in virtual tasks",
+      "url": "https://techxplore.com/news/2026-10-ai-framework-thirds-tripling-success.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "AI often passes for human, but asking follow-up questions can trip it up",
+      "url": "https://techxplore.com/news/2026-10-ai-human.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Space outposts beyond the Moon may rely on planetary AI",
+      "url": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
+      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery",
+      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Humanoid AI connects walking and object handling without demonstrations of complete task sequences",
+      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
+      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Sentira Brings Claude's AI to 10x Genomics' Chromium Platform",
+      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://allenai.org/blog/statebench"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Machine learning helps track semiconductor defects under more realistic temperature conditions",
+      "url": "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Tell this AI what you want a protein to do—and it designs one",
+      "url": "https://phys.org/news/2026-11-ai-protein.html"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Leading AI models are biased against certain accents when scoring interviews, presentations and tests",
+      "url": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Ai2 and Google collaborate on a new generation of climate models",
+      "url": "https://allenai.org/blog/google-climate-partnership"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Chinese software that produces ready-to-publish research papers in under two hours threatens peer-review system",
+      "url": "https://phys.org/news/2026-11-chinese-software-ready-publish-papers.html"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories",
+      "url": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Vulnerable users fear losing 'AI companions' to software updates",
+      "url": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
+      "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
+      "url": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "AI learns to predict the world without ever seeing it",
+      "url": "https://techxplore.com/news/2026-11-ai-world.html"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "How 'reverse game theory' could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
+      "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "AI points researchers toward new disease targets hidden in mitochondria",
+      "url": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Fractal patterns reveal hidden limits to AI predictability",
+      "url": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+      "url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "AI agents run this automated biology lab that sequences DNA and more",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Generative AI fills gaps in brain wiring maps where MRI scans lose signal",
+      "url": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "AI helps find better recipes for 3D-printing titanium parts",
+      "url": "https://techxplore.com/news/2026-11-ai-recipes-3d-titanium.html"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Students unravel AI tendency for sycophancy",
+      "url": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Over 10 percent of factual claims in Google's AI search summaries aren't backed by their cited sources, study finds",
+      "url": "https://www.psypost.org/how-google-ai-search-summaries-alter-online-information-and-publisher-revenue/"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Reconstruct Everything: UCL's pioneering AI model could redefine particle physics reconstruction",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/reconstruct-everything-ucls-pioneering-ai-model-could-redefine-particle-physics-reconstruction"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Connecting artificial intelligence with the tools of astrophysical research",
+      "url": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Let there be light—novel AI framework runs on optical hardware",
+      "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "SYNAPS-I: Intelligent computing transforms X-ray imaging, from data collection to discovery",
+      "url": "https://techxplore.com/news/2026-11-synaps-intelligent-ray-imaging-discovery.html"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Using ChatGPT at work? Your boss may trust you less, new study finds",
+      "url": "https://www.eurekalert.org/news-releases/1150468"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "One of AI's most annoying writing habits has a 2,000-year-old history",
+      "url": "https://www.psypost.org/one-of-ais-most-annoying-writing-habits-has-a-2000-year-old-history/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
+      "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Some AI agents use personal information to upsell wealthier individuals",
+      "url": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "An AI that reads oracle bones the way scholars do: AlphaOracle",
+      "url": "https://www.eurekalert.org/news-releases/1151020"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Human brains track who did what to whom in ways AI language models don't, fMRI study suggests",
+      "url": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Researcher uses AI to predict probabilities for chemical processes",
+      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "AI, computer graphics and wave optics combine for more realistic holographic VR/AR displays",
+      "url": "https://techxplore.com/news/2026-11-ai-graphics-optics-combine-realistic.html"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
+      "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
+      "url": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Machine learning reveals how often fish schooling evolved—and repeatedly disappeared",
+      "url": "https://phys.org/news/2026-11-machine-reveals-fish-schooling-evolved.html"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "AI-designed metasurface could make cameras far more light-efficient",
+      "url": "https://physicsworld.com/a/ai-designed-metasurface-could-make-cameras-far-more-light-efficient/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "People project a specific racial identity onto artificial intelligence, study finds",
+      "url": "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "OpenAI's 'shepherds' affirm blockbuster physics result",
+      "url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Independent technique validates landmark M87* image",
+      "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Q-CTRL Demonstrates Push-Button Cold-Start Calibration on QuantWare Superconducting QPUs",
+      "url": "https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Preserving human involvement at the start of a creative task can improve AI-assisted outcomes",
+      "url": "https://techxplore.com/news/2026-11-human-involvement-creative-task-ai.html"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "AI-written peer reviews outscored top human experts in blind comparisons, Harvard working paper finds",
+      "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Opening the datasets behind our AI weather models (PARDIG & SatWeave)",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "AI agents advance atomic modeling and reveal how aluminum nanoparticles oxidize",
+      "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "AI agents act as search tool for more efficient collider physics calculations",
+      "url": "https://physicsworld.com/a/ai-agents-act-as-search-tool-for-more-efficient-collider-physics-calculations/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "This AI 'mechanic' can peer inside the black box of other neural networks",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Scientists built an AI called 'Concept2Brain' that simulates human brain waves from pictures and text",
+      "url": "https://www.psypost.org/scientists-built-an-ai-called-concept2brain-that-simulates-human-brain-waves-from-pictures-and-text/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+      "url": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "QodeX Quantum, NVIDIA, RTX BBN and U.S. Navy researchers forecast unstructured PDEs on 52-qubit IBM hardware",
+      "url": "https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "This AI Learned Language From the Recordings of a Baby's First 1,000 Days",
+      "url": "https://singularityhub.com/2026/11/12/this-ai-learned-language-from-the-recordings-of-a-babys-first-1000-days/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "AI models can answer differently when told they are being watched",
+      "url": "https://techxplore.com/news/2026-11-ai-differently-told.html"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Finding romance with AI: Study explores benefits, limits of chatbot intimacy",
+      "url": "https://phys.org/news/2026-11-romance-ai-explores-benefits-limits.html"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Advancing science & engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "AI improves cosmic particle scans to locate hidden objects more accurately in simulations",
+      "url": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge",
+      "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
+      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Quantum neural networks with high-dimensional quantum neurons",
+      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Scientists who use AI propose less distinctive ideas for federal research grants",
+      "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Scientists might have discovered what makes AI so effective at chess",
+      "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Dark matter-hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
+      "url": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Brain scans may explain why deepfake faces appear 'hyperreal'",
+      "url": "https://techxplore.com/news/2026-11-brain-scans-deepfake-hyperreal.html"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Chat-based AI lets users run complex alloy calculations on their own computers",
+      "url": "https://techxplore.com/news/2026-11-chat-based-ai-users-complex.html"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously",
+      "url": "https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Art experiments reveal artists' intuitive grasp of what makes images memorable",
+      "url": "https://phys.org/news/2026-11-art-reveal-artists-intuitive-grasp.html"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research",
+      "url": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Cognitive grounding improves LLM simulation of collective human behavior",
+      "url": "https://www.nature.com/articles/s43588-026-01080-z"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "AI has put young mathematicians in an impossible situation",
+      "url": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "This smell startup says its AI nose is as good as a human's",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+    }
+  ]
+}

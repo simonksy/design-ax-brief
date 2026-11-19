@@ -1,0 +1,196 @@
+{
+  "section": "medicine",
+  "now_iso": "2026-11-19T22:03:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "How often do AI alerts meaningfully impact patient care?",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-19T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: UH Radiology Cleveland analyzed 154 'non-engagement' alerts from a commercial AI platform over a year across a health system; only 19 (12%) changed management, some pulmonary embolism alerts led to treatment complications including a major bleed, and rib-fracture alerts had no clinical impact while every alert triggered a costly multi-step workflow.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.wMDLDT1f5Q.jpg?auto=format%2Ccompress&w=1200"
+    },
+    {
+      "title": "Chart summary LLM tool boosts radiologist efficiency",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542077/chart-summary-llm-tool-boosts-radiologist-efficiency",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-19T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: Stanford's pilot of Epic Imaging Insights LLM chart summaries rated all 102 reviewed summaries safe, though over half had at least one issue (mostly missing details); median study review time across 133,000+ CT and MRI exams fell from 11.3 to 9.4 minutes (17%) after the March 2026 rollout.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/road-to-rsna.wMDLDT1f5Q.jpg?auto=format%2Ccompress&w=1200"
+    },
+    {
+      "title": "Siemens Healthineers gets FDA clearance for Syngo.CT Coronary Cockpit",
+      "url": "https://www.auntminnie.com/clinical-news/ct/news/16542132/siemens-healthineers-siemens-healthineers-gets-fda-clearance-for-syngoct-coronary-cockpit",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-19T16:04:41Z",
+      "excerpt": "FDA cleared Siemens Healthineers' Coronary Cockpit, which uses AI-based segmentation, labeling and visualization of coronary CT angiography to characterize plaque amount and morphology across the coronary tree, supporting coronary artery disease management and PCI planning on CCTA from any CT scanner.",
+      "og_image": null
+    },
+    {
+      "title": "FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601439",
+      "source": "NEJM AI",
+      "category": "medicine",
+      "published_iso": "2026-11-19T15:00:16Z",
+      "excerpt": "NEJM AI paper (online Nov. 19, 2026) describing the development and validation of an FDA-authorized AI/ML tool that predicts sepsis. Abstract not retrievable (site bot-wall); date from Crossref created and page dc.Date.",
+      "og_image": null
+    },
+    {
+      "title": "Multimodal multitask deep learning for predicting tertiary lymphoid structures and peritoneal recurrence in gastric cancer",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00098-1/fulltext",
+      "source": "The Lancet Digital Health",
+      "category": "medicine",
+      "published_iso": "2026-11-19T11:51:18Z",
+      "excerpt": "Multicentre development, validation and testing study: a multitask hybrid deep learning model non-invasively predicts tertiary lymphoid structure status, peritoneal recurrence and survival in gastric cancer, flagging patients who may benefit from adjuvant chemotherapy or respond to immunotherapy.",
+      "og_image": null
+    },
+    {
+      "title": "Bias and equity in large language model-based applications for health care: a scoping review",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00135-4/fulltext",
+      "source": "The Lancet Digital Health",
+      "category": "medicine",
+      "published_iso": "2026-11-18T20:26:56Z",
+      "excerpt": "Scoping review mapping research on bias and equity in LLM-based health-care applications, finding concerns widely discussed but few translated into actionable mitigation strategies.",
+      "og_image": null
+    },
+    {
+      "title": "Multicenter evaluation of radiomics and multimodal artificial intelligence for colorectal cancer diagnosis and survival prediction",
+      "url": "https://www.nature.com/articles/s41746-026-03434-3",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-19T00:00:00Z",
+      "excerpt": "Retrospective two-center study of 879 participants (741 with locally advanced colorectal cancer): clinical, radiomics, deep learning and early-fusion models trained at one center and independently tested at another to classify lesions preoperatively and predict survival.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03434-3/MediaObjects/41746_2026_3434_Fig1_HTML.png"
+    },
+    {
+      "title": "The proposed reform of the Medical Device Regulation and its implications for AI-enabled medical devices in the EU",
+      "url": "https://www.nature.com/articles/s41746-026-03475-8",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-18T00:00:00Z",
+      "excerpt": "Comment assessing the European Commission's 'MDR 2.0' package amending the MDR, IVDR and AI Act: whether cutting double regulation and documentation burdens for AI-enabled medical devices would weaken evidence requirements.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03475-8/MediaObjects/41746_2026_3475_Fig1_HTML.png"
+    },
+    {
+      "title": "Explainable artificial intelligence for prehospital identification of endovascular thrombectomy candidates: a retrospective real-world study",
+      "url": "https://www.nature.com/articles/s41598-026-80551-9",
+      "source": "Scientific Reports",
+      "category": "medicine",
+      "published_iso": "2026-11-19T00:00:00Z",
+      "excerpt": "Retrospective real-world development and validation of an explainable machine-learning model to identify large-vessel-occlusion stroke patients who need endovascular thrombectomy before hospital arrival, aiming to beat prehospital stroke scales for routing to comprehensive stroke centres.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig1_HTML.png"
+    },
+    {
+      "title": "딥노이드, 위·대장암 복막 전이 판별 AI 연구 'JKMS' 게재",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016882",
+      "source": "의학신문",
+      "category": "medicine",
+      "published_iso": "2026-11-19T17:07:28+09:00",
+      "excerpt": "딥노이드가 복수 세포검사 전체 슬라이드 이미지로 위암·대장암 복막 전이를 판별하는 CLAM 기반 AI를 JKMS에 발표했다. 병리 전문의 5명 비교 평가에서 AI 보조 시 판독 정확도 76.5%→91.5%, 민감도 66.2%→92.6%, 슬라이드당 판독 시간 약 100초→50초.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016882_417785_5752.jpg"
+    },
+    {
+      "title": "심평원, AI 활용 '고가약 사전 심사 기간 단축' 추진",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016859",
+      "source": "의학신문",
+      "category": "medicine",
+      "published_iso": "2026-11-19T16:00:00+09:00",
+      "excerpt": "건강보험심사평가원이 급여 인정 가능성이 높은 고가약 사전심사 사례를 AI로 선별해 대기시간을 줄이고, 진료·청구 데이터로 희귀질환 의심 환자를 찾는 파운데이션 모델을 검토한다. 전문가가 최종 판단하는 Human-in-the-Loop 심사체계를 제시했다(기자간담회, 최종 결정 아님).",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016859_417760_1917.jpg"
+    },
+    {
+      "title": "AI 부정행위 파장…보건의료인 국시 제재 강화 법안 나왔다",
+      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044698",
+      "source": "청년의사",
+      "category": "medicine",
+      "published_iso": "2026-11-19T12:23:30+09:00",
+      "excerpt": "생성형 AI와 초소형 카메라를 이용한 국가시험 부정행위가 잇따르자 이만희 보건복지위원장이 의사·약사·간호사 국시 부정행위자 응시 제한을 최대 5회로 늘리는 의료법·약사법·간호법 개정안을 대표발의했다.",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044698_3048707_3833_v150.jpg"
+    },
+    {
+      "title": "사서 쓰는 AI에서 키워 쓰는 AI로…길병원표 AI 'GAIA' 구축",
+      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044675",
+      "source": "청년의사",
+      "category": "medicine",
+      "published_iso": "2026-11-19T06:26:31+09:00",
+      "excerpt": "가천대 길병원 AX혁신본부가 출범 1년 성과로 자체 AI 'GAIA' 구축을 발표했다. 임상 AI 20종·행정 자동화 4종 등 24종을 쓰며, 12종은 매달 목표 대비 활용 실적을 점검하고 17인 거버넌스위원회가 도입 후 성과를 평가한다.",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044675_3048680_236_v150.jpg"
+    },
+    {
+      "title": "아이 숨소리 AI가 듣는다…우리아이들병원, 스마트병원 구축",
+      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044686",
+      "source": "청년의사",
+      "category": "medicine",
+      "published_iso": "2026-11-19T10:18:08+09:00",
+      "excerpt": "소아청소년 전문병원 우리아이들의료재단이 LLM·RAG 기반 보호자 상담 챗봇 '우아챗'(상담 이력 약 5만 건 학습)과 입원 환아 청진음을 AI로 분석하는 병동 호흡기 관리 솔루션 'AIMOST'(임상시험 연구 목적 운용)를 도입했다.",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044686_3048693_2358_v150.jpg"
+    },
+    {
+      "title": "Samsung Medical Center's AI tracks surgical actions, phases in video analysis",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33873",
+      "source": "Korea Biomedical Review",
+      "category": "medicine",
+      "published_iso": "2026-11-17T14:11:58+09:00",
+      "excerpt": "Samsung Medical Center researchers built CurConMix+, an AI that analyzes surgical video to recognize individual actions, tasks and procedural phases (IEEE Transactions on Medical Imaging), a step toward robotic surgical assistants; real-world robotic performance is not yet established.",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33873_37054_946_v150.jpg"
+    },
+    {
+      "title": "HLTH 2026: Elsevier upgrades ClinicalKey AI with full patient EHR context",
+      "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context",
+      "source": "Fierce Healthcare",
+      "category": "medicine",
+      "published_iso": "2026-11-19T15:30:00-05:00",
+      "excerpt": "Elsevier upgraded ClinicalKey AI, its point-of-care clinical decision support tool deployed at 1,200+ hospitals, to read a patient's full EHR and evaluate treatment options against evidence from ~1,000 journals; San Juan Regional Medical Center is an early user.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
+    },
+    {
+      "title": "HLTH 2026: Viz.ai's chief clinical officer on takeaways, goals of AI collab with National Rural Health Association",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural",
+      "source": "Fierce Healthcare",
+      "category": "medicine",
+      "published_iso": "2026-11-18T14:18:48-05:00",
+      "excerpt": "Viz.ai's CCO says its partnership with the National Rural Health Association has run three education events since April and found many rural hospitals lack IT infrastructure to adopt AI tools, strengthening hub-and-spoke ties with larger systems.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd"
+    },
+    {
+      "title": "Epic defends competitive practices; promises AI access to records",
+      "url": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-19T14:21:08Z",
+      "excerpt": "STAT Health Tech (paywalled): Epic defends its competitive tactics and promises AI tools access to its records at STAT@HLTH, plus analysis of HHS' new privacy rule and more evidence that AI medical coding is raising health care costs.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2025/12/AdobeStock_157169886-1024x576.jpeg"
+    },
+    {
+      "title": "The emerging winners and losers in the AI scribe market",
+      "url": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-18T19:25:59Z",
+      "excerpt": "STAT AI Prognosis (paywalled): a closer look at how the AI scribe market is shaking out among vendors, with news from HLTH 2026.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AIPrognosis_Wordpress_AIscribemarket-1024x576.jpg"
+    },
+    {
+      "title": "Abridge Announcements during HLTH Emphasize Growing Healthcare Trend",
+      "url": "https://medcitynews.com/2026/11/abridge-announcements-during-hlth-emphasize-growing-healthcare-trend/",
+      "source": "MedCity News",
+      "category": "medicine",
+      "published_iso": "2026-11-18T18:12:07Z",
+      "excerpt": "Abridge expanded its Assistant, a context-aware clinical agent offering clinical decision support inside existing workflows, among HLTH announcements reflecting a push to bring evidence to clinicians via AI.",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1273886962.jpg"
+    },
+    {
+      "title": "Use of AI in medical recruitment could miss top talent, doctors warn",
+      "url": "https://bmjgroup.com/use-of-ai-in-medical-recruitment-could-miss-top-talent-doctors-warn/",
+      "source": "BMJ Group",
+      "category": "medicine",
+      "published_iso": "2026-11-19T10:24:00Z",
+      "excerpt": "BMJ Careers report: as NHS England readies a £1.2bn AI-driven workforce and recruitment platform, 53% of medical recruiters say AI-written applications are common and 61% would consider AI to filter applicants, raising fairness concerns.",
+      "og_image": "https://bmjgroup.com/wp-content/uploads/2026/10/GettyImages-2017676996.jpg"
+    }
+  ]
+}

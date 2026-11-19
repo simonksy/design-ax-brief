@@ -11437,6 +11437,182 @@
           "x": "チャプター: 00:00 イントロ · 00:40 Claudeプロジェクトの設定 · 01:40 企画と絵コンテ · 02:30 キャラクターとロケーションの参照 · 04:00 ショットリストとバースト手法 · 05:15 シーンの生成と編集。プロンプトとプロジェクト設定: runway.com/prompts/short-film-runway-mcp"
         }
       ]
+    },
+    "movies/visualcenter-cinema-genesis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+        },
+        {
+          "t": "p",
+          "x": "釜山のAI映像企業Visual CenterがETRI、釜山国際短編映画祭(BISFF)と制作した3D立体短編『Cinema Genesis』が、10月9日にアングレームで開かれたCourant3D映画祭のAI映画コンペティション部門に正式ノミネートされた。"
+        },
+        {
+          "t": "p",
+          "x": "約4分の本作は、マイブリッジ、マレー、エジソン、リュミエール兄弟、メリエスの発明を生成AIで再解釈する。GANベース(GAN-based)のAIが損傷した19世紀(19th-century)の写真や初期フィルムをUHD 4K に復元・カラー化し、深度推定と左右の視差計算によって2D映像を立体3Dに変換した。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
+          "cap": "『Cinema Genesis』の上映。"
+        },
+        {
+          "t": "p",
+          "x": "10月10〜12日の「BISFF in PARIS」では、約200人がAI映画と立体変換をテーマにしたラウンドテーブルに参加し、3Dメガネをかけて生成AI(generative-AI)による3D短編四本を鑑賞した。キム・チャンホ監督は「生成AIは人間の芸術性に取って代わるものではない」と語り、「130年前の先駆者たちと今日の創作者たちが時を超えて協働できるようにする、第三の視点だ」と述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
+          "cap": "パリの韓国文化院で開かれた「AI映画と立体変換」ラウンドテーブル。"
+        },
+        {
+          "t": "p",
+          "x": "BISFFはMK2 Agency、Artefactとも協定を結び、2027年の第44回BISFFでAIコンペティション部門を新設する土台を整えた。"
+        }
+      ]
+    },
+    "movies/westworld-ai-lion-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+        },
+        {
+          "t": "p",
+          "x": "11月4日に仁川で開かれたICNX 2026 テクノロジーショーケースで、Westworld技術研究所長のイム・ジュヨン氏は、今年のJTBCドラマ『Everyone Is Fighting Their Own Worthlessness』のために制作したライオンを披露した。同氏によると、こうしたクリーチャーはCG作業だけで「四カ月以上、30人以上のアーティストを要する」という。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
+          "cap": "同じライオンを二つの方法で制作:従来のCGとAI VFX。"
+        },
+        {
+          "t": "p",
+          "x": "WestworldはAIでライオンをプリビズし、別途学習させたモデルでライオンの素材映像を生成して、毛並み、目、形状、フリッカーを修正した。その後カメラをトラッキングし、光、色、影をプレートに合わせ、一、二週間で仕上げた。"
+        },
+        {
+          "t": "p",
+          "x": "「画像や動画をAIに入れてフレーム全体を再生成すると、4K 以上では細部が崩れたり変形したりする」とイム氏は語る。「それでは納品できないので、素材を生成して合成し直すサイクルを繰り返している」。同氏は、AIの出力を最終版として使えない理由として、一貫性、制御、品質、権利を挙げた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
+          "cap": "AI素材と合成によって、乾いた田舎道(左)を雪景色(右)に変えた。"
+        },
+        {
+          "t": "video",
+          "yt": "tcT8APJwyXw"
+        }
+      ]
+    },
+    "movies/docmakers-archive-ai-licensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
+          "cap": "About a Hero"
+        },
+        {
+          "t": "p",
+          "x": "IDFAで開かれた業界トーク「Is AI Stealing My Documentary?(AIは私のドキュメンタリーを盗んでいるのか?)」では、アーカイブ映像のAI向けライセンスが取り上げられた。Rights StuffのCEO、Wendy Bernfield氏は、AIは「私たちが十分に気づく前から、スクレイピングや盗用をしていた」と述べた。現在利用できる約15のアグリゲーターのうち、アーカイブ画像素材の収集に特化しているのはごく一部で、それらは権利保護の仕組みを備えるが、料金は低い。"
+        },
+        {
+          "t": "p",
+          "x": "アーカイブ・プロデューサーのElizabeth Klinck氏は「ほぼ毎週」打診を受けていると話し、ドキュメンタリー制作者に「将来に備える」よう促した。アーカイブから派生した素材は「E&O保険(制作者賠償責任保険)の面で通用しない可能性がある」という。同氏は、学習へのオプトアウト条項に五日間の期限が付いた契約を振り返った。"
+        },
+        {
+          "t": "p",
+          "x": "First Hand FilmsのCEO、Esther Van Messel氏によると、AIからの依頼の大半は5,000時間以上の大量案件だという。「私たちの映画はAIの学習に使われるべきだと思う……もちろん、限度と境界の範囲内で」。Bernfield氏は、買い手が「より少ない量に、より多く払う、高度にキュレーションされたもの」へと移りつつあると述べた。一方でArchive.orgや多くの図書館は無料アクセスを制限している。"
+        }
+      ]
+    },
+    "movies/estsoft-kfast-ai-dubbing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
+          "cap": "AI吹き替え特化K-FAST拡散支援事業でローカライズした主要IPのイメージ(写真:ESTsoft)"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoftが人工知能(AI)吹き替え技術を活用し、韓国の放送コンテンツの中南米市場進出を広げている。2年間で300時間分のコンテンツをローカライズし、中南米5カ国に韓国コンテンツを届けるFASTチャンネルを2つ開設した。"
+        },
+        {
+          "t": "p",
+          "x": "AIサービス企業のESTsoft(代表:チョン・サンウォン)は19日、科学技術情報通信部と韓国情報通信振興協会(KAIT)が推進する「AI吹き替え特化K-FAST拡散支援事業」を2年連続で遂行し、AI吹き替え技術の高度化と海外流通の拡大を進めたと明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "FAST(Free Ad-supported Streaming TV)は、広告を基盤に無料コンテンツを提供するストリーミングTVサービスだ。ESTsoftは事業を通じて、ドラマ、バラエティ、ドキュメンタリーなど約1万8,000分(300時間)のコンテンツにAI吹き替え技術を適用した。"
+        },
+        {
+          "t": "p",
+          "x": "特に自社サービス「Perso Dubbing」の音声合成技術を改善し、原作の話者の声のトーンや感情表現を自然に再現できるようにしたほか、コンテンツの区間ごとの編集・ダウンロード機能を強化した。中南米市場を狙った「中立スペイン語」吹き替えの品質ガイドも整えた。"
+        },
+        {
+          "t": "p",
+          "x": "事業にはKBS、SBS、MBC、EBS、ENA、KT Studio Genie、Channel Aなど国内の放送・コンテンツ企業が参加した。今年はKT Studio GenieのK-ショートドラマ1,958本、Channel Aの「新郎授業」、K20のビューティーバラエティ61本などにAI吹き替えを適用した。"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoftコンソーシアムは、K20の「TRENDON」とKT Studio Genieの「GENIE Shorts」など2つのFASTチャンネルを開設し、LG Channelsを通じてメキシコ、ペルー、チリ、コロンビア、アルゼンチンなど中南米5カ国へのコンテンツ供給を始めた。"
+        },
+        {
+          "t": "p",
+          "x": "AI吹き替えサービスの海外ユーザーも増えている。Perso Dubbingの累計登録者数は10月に60万人を突破し、2月より14万人増えた。8月から10月までの新規登録者の約90%は海外ユーザーだった。"
+        },
+        {
+          "t": "p",
+          "x": "10月にはグローバルAI映像プラットフォーム企業HeyGenの自社評価で、Perso Dubbingが8.3点を記録した。同月フランスで開かれた「MIPCOM 2026」では、グローバル放送・ストリーミング技術企業Amagiとコンテンツのローカライズ協力について協議した。"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoftは今後、K-FASTのサービス地域をスペインと北米に広げ、Samsung TVのチャンネルなどへ流通経路を多様化する計画だ。"
+        },
+        {
+          "t": "p",
+          "x": "ESTsoftのチョン・サンウォン代表は「K-FAST事業によって、自社のPerso Dubbingの技術高度化とグローバル展開を同時に進めることができた」とし、「国家事業と自社の技術力を連携させ、海外市場で競争力を高め、持続的な成果を生み出していく」と述べた。"
+        }
+      ]
+    },
+    "movies/movies-autodesk-maya-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081848-3dsmax-assistant-shirzad-still-2-1280.jpg",
+          "cap": "3ds Max上のAutodesk Assistant。"
+        },
+        {
+          "t": "p",
+          "x": "AutodeskはMayaと3ds Max向けに新しいAI機能を公開した。アーティストはAutodesk Assistantにシーン内の作業を指示したり、新しいModel Context Protocol(MCP)サーバーを通じて自前のAIエージェントから両アプリケーションを操作したりできる。いずれもテクニカルプレビューだ。NVIDIAのDLSSを使うArnoldの新しいインタラクティブビューポートも公開された。"
+        },
+        {
+          "t": "p",
+          "x": "3ds MaxまたはMayaのサブスクリプションに含まれるAssistantは、シーンチェックやUV展開といった作業を実行できるようになった。読み書きアクセスは既定でオフで、アーティストが「Allow」をクリックするまでスクリプトは一切実行されない。エージェントの各操作は一度のアンドゥで戻せ、Safe Modeはシーンの外に及ぶスクリプトをブロックする。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-3dsmax-assistant-shirzad-still-3-1280.jpg?itok=dco93Hd0"
+        },
+        {
+          "t": "p",
+          "x": "新しい3ds MaxとMayaのMCP Serversにより、外部クライアントから両アプリケーションを操作できる。アーティストのShirzad Bahramiは、ツール開発中のユニットテストのためにClaudeをMayaに接続している。手作業で一時間以上かかっていたワークフローが、今では五分ほどで済むという。"
+        },
+        {
+          "t": "p",
+          "x": "Flow Production Trackingでも、Assistantはテクニカルプレビューとして、プロダクション自体のデータに関する読み取り専用の質問に答えられる。SIGGRAPH 2026で発表されたArnoldビューポートは、アーティストがシーン内を動き回る間もDLSSがアップスケーリングとノイズ除去を担い、画像をArnoldの最終レンダーに近い状態に保つ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081848-arnold-viewport-mayamotion-blur-and-subsurface-scattering-1280.jpg?itok=QkXd3UnQ",
+          "cap": "Arnold Viewportの画像"
+        },
+        {
+          "t": "video",
+          "yt": "xOGIVruVHt4"
+        }
+      ]
     }
   }
 }

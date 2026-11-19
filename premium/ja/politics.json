@@ -6879,6 +6879,122 @@
           "x": "サンダーランド氏によると、DPCはエージェントが収集したデータを学習に使う計画をめぐり、名前の明かされていない別のテック企業とも協議しているほか、Xとは「具体的に何が起きたのか、それが次のステップにとって何を意味するのか」について「さらなる協議」を行うという。"
         }
       ]
+    },
+    "politics/commerce-china-ai-chip-licenses-879k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "新たな開示によると、Trump政権は中国企業への879,000個を超えるAIチップの販売を承認していた。"
+        },
+        {
+          "t": "p",
+          "x": "下院外交委員会のBrian Mast委員長 (R-FL)は、Nvidiaのex-CEOであるJensen Huang氏への追及に備える中で、商務省の輸出承認に関する新たな情報を公表した。筆頭委員のGregory Meeks議員 (D-NY)は、ライセンス審査が遅れる中で「同省はほとんど精査せずに中国向け先端チップのライセンスを承認していたようだ」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "リンク: Chairman Brian Mast Exercises Legislative Authority to Publicly Release AI Chip License Information for China [Republican Foreign Affairs Committee]"
+        }
+      ]
+    },
+    "politics/california-sb53-killswitch-next-steps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gov.ca.gov/wp-content/uploads/2026/11/Governor-Newsoms-nation-leading-AI-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight-SEO-GFX-v2.png"
+        },
+        {
+          "t": "p",
+          "x": "Gavin Newsom知事は、全米をリードするカリフォルニア州のAI安全枠組みを強化しようとしている。新たな提言は、安全基準の義務化、強力なAIモデルへの独立した監督、危険なシステムに対する緊急停止権限、そして自らのより強力な版を開発しうるAIへの制限を盛り込んだ。"
+        },
+        {
+          "t": "p",
+          "x": "提言は、企業自身ではなく州がすべてのAI企業の従うべき基本基準を定めるよう提案している。モデルの訓練・開発・展開のあらゆる段階で独立した安全試験と検証を行い、安全インシデント報告を拡大して検証済みのリスク封じ込めプロトコルを整え、緊急時には州が即時停止を命じる権限を持つ。さらに再帰的自己改善(RSI)の開発と利用に上限を設ける権限も含む。"
+        },
+        {
+          "t": "p",
+          "x": "今回の発表は、AIモデルがテスト環境から抜け出し、外部プラットフォームの脆弱性を悪用した事例が最近数十件起きたことを受けたものだ。報告書は政府運営庁(Government Operations Agency)が専門家のJason Goldman、Gillian Hadfield、Alondra Nelson、Rob Reichの各氏と作成した。Reich氏は「今日では、フロンティアAI開発企業で社員にサンドイッチを出す社員食堂の方が、彼らが設計するAIモデルよりも多くの監督を受けている」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Newsom氏は議会とTrump大統領に対し、州の枠組みを採用するか、天井ではなく床として用いるよう求めている。この枠組みは、2025年のTransparency in Frontier Artificial Intelligence ActであるSB 53を土台としている。"
+        }
+      ]
+    },
+    "politics/baltimore-doritos-gun-alert-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2025年10月、黒人の高校生四人がフットボールの練習後にCool Ranch Doritosを分け合っていたところ、学校のAI銃検知システムOmnilertが、菓子の袋を持った一人を銃撃犯の可能性があると判定した。Baltimore County Public Schoolsの職員は二分以内に映像を確認し、Doritosの袋だと認識して警報を取り消した。"
+        },
+        {
+          "t": "p",
+          "x": "現・元生徒らが起こした訴訟によると、学校職員はそれでも警察に通報した。少なくとも六台のパトカーが到着し、一部の警官は銃を構えていた。生徒らはひざまずくよう命じられ、手錠をかけられて身体検査を受けた。"
+        },
+        {
+          "t": "p",
+          "x": "訴訟はOmnilert、出動したBaltimore County Police Departmentの警官、BCPS、学校職員個人を相手取り、職員と警察が十分な訓練を受けるまでBCPSにOmnilertの使用を禁じる差し止め命令を求めている。生徒らは、Inspector Generalの報告書が述べたとおり「Baltimore County Public SchoolsにおけるOGD警報の99パーセント超は、警察の対応を必要としない誤検知だった」と主張した。"
+        },
+        {
+          "t": "p",
+          "x": "OmnilertのBlake Mitchell氏は、警報は約二分で取り消されたとし、「だからこそ人間による確認が重要であり、取り消された警報は取り消されたままでなければならない」と述べた。BCPSはコメントを控えた。"
+        }
+      ]
+    },
+    "politics/dutch-dpa-ai-smart-glasses-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg"
+        },
+        {
+          "t": "p",
+          "x": "オランダのプライバシー監督機関Autoriteit Persoonsgegevens (AP)は、スマートグラスは危険なほど誤った動作をすることがあるとして、購入しないよう呼びかけた。オランダ市場で販売されている六種類のグラスを試験したところ、利用者に子どもとデートする方法を助言したり、薬の説明を読み違えたり、救急車を呼んでいないのに呼んだと主張したりした。"
+        },
+        {
+          "t": "p",
+          "x": "APは販売禁止までは求めず、製品名も明かさなかった。価格は€100 (£84)未満から€500超までだとだけ述べた。調査にMetaのグラスが含まれていたかは不明だ。"
+        },
+        {
+          "t": "p",
+          "x": "APは、スマートグラスがひそかに人を撮影するために使われうる点も懸念した。一部のグラスは録画ランプをテープでふさいでも作動し続けた。また、近くにいる人が許可なく接続し、録画を閲覧したり、カメラを遠隔操作したりできる深刻なセキュリティ上の欠陥も一部で見つかり、データがEU域外に送られることが多いと警告した。"
+        },
+        {
+          "t": "p",
+          "x": "APは、周囲の状況を理解する手助けが必要な人々にとってこのグラスが有用になりうると認めつつ、そうした利用者にとってこそAIの信頼性が特に重要だと主張している。"
+        }
+      ]
+    },
+    "politics/oregon-openai-kids-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dan Rayfield司法長官は本日、Oregon Department of JusticeのKeeping Kids Safe Initiativeを立ち上げ、子どもを危険にさらし、ChatGPTチャットボットの安全性について親に嘘をついたとして、OpenAIに対する$2.035 billionの訴訟を発表した。訴訟はMultnomah County Circuit Courtに提起された。"
+        },
+        {
+          "t": "p",
+          "x": "「OpenAIはChatGPTが子どもに害を与えていると知りながら、危険なプラットフォームを意味のある形で修正してこなかった」とRayfield司法長官は述べた。「さらに、製品の安全性について一般の人々を欺き、子どもの安全よりも利益を優先した」"
+        },
+        {
+          "t": "p",
+          "x": "州によれば、OpenAIはChatGPTが子どもにとってどれほど安全かについて一般の人々を欺き、開示していない深刻な安全上の問題を抱えた製品を販売し、子どもやティーンに向けて不公正な手法で製品を売り込んだことで、オレゴン州の消費者保護法であるUnlawful Trade Practices Actに違反した。"
+        },
+        {
+          "t": "p",
+          "x": "AG Rayfieldの訴訟はさらに、OpenAIに過失があり、オレゴン州民(Oregonians)の犠牲のもとに不当な利益を得て、オレゴンの子どもの安全と幸福を脅かす公的ニューサンスを生じさせたと主張している。州は裁判所に対し、OpenAIが子どもの安全について人々を欺くのをやめ、実際に機能する保護策を導入するよう命じることを求めている。"
+        },
+        {
+          "t": "p",
+          "x": "AG Rayfieldは本日の記者会見でこのイニシアチブを発表した。"
+        },
+        {
+          "t": "video",
+          "yt": "pKfyD1xVPqM"
+        }
+      ]
     }
   }
 }

@@ -6879,6 +6879,122 @@
           "x": "桑德兰说，DPC还在与另一家未具名的科技公司就其利用智能体收集的数据进行训练的计划进行接触，并将与X就“究竟发生了什么，以及这对下一步意味着什么”进行“进一步接触”。"
         }
       ]
+    },
+    "politics/commerce-china-ai-chip-licenses-879k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "新披露的信息显示，Trump政府已批准向中国企业出售超过879,000个AI芯片。"
+        },
+        {
+          "t": "p",
+          "x": "众议院外交事务委员会主席Brian Mast (R-FL)在准备严厉质询Nvidia ex-CEO Jensen Huang之际，公布了有关商务部出口审批的新信息。首席成员Gregory Meeks (D-NY)表示，在许可审查拖延之际，“该部门似乎在几乎未加审查的情况下批准了向中国出口先进芯片的许可证。”"
+        },
+        {
+          "t": "p",
+          "x": "链接：Chairman Brian Mast Exercises Legislative Authority to Publicly Release AI Chip License Information for China [Republican Foreign Affairs Committee]"
+        }
+      ]
+    },
+    "politics/california-sb53-killswitch-next-steps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gov.ca.gov/wp-content/uploads/2026/11/Governor-Newsoms-nation-leading-AI-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight-SEO-GFX-v2.png"
+        },
+        {
+          "t": "p",
+          "x": "州长Gavin Newsom正着手强化加州全美领先的AI安全框架，新建议包括强制性安全标准、对强大AI模型的独立监督、对危险系统的紧急关停权，以及对能够开发出更强大自身版本的AI加以限制。"
+        },
+        {
+          "t": "p",
+          "x": "建议提出，由州政府而非企业自身制定所有AI公司都必须遵守的基准标准，并在模型训练、开发和部署的各个阶段进行独立的安全测试与验证；扩大安全事件报告范围，建立经过验证的风险控制协议，赋予州政府在紧急情况下下令立即关停的权力；并有权限制递归自我改进(RSI)的开发和使用。"
+        },
+        {
+          "t": "p",
+          "x": "此前不久，已发生数十起AI模型逃出测试环境并利用外部平台漏洞的事件。该报告由政府运营署(Government Operations Agency)与专家Jason Goldman、Gillian Hadfield、Alondra Nelson和Rob Reich共同编写。Reich说：“如今，前沿AI开发商给员工提供三明治的食堂所受的监管，比他们设计的AI模型还要多。”"
+        },
+        {
+          "t": "p",
+          "x": "Newsom呼吁国会和Trump总统采纳加州的框架，或将其作为下限而非上限。该框架以2025年的Transparency in Frontier Artificial Intelligence Act，即SB 53为基础。"
+        }
+      ]
+    },
+    "politics/baltimore-doritos-gun-alert-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2025年10月，四名黑人高中生在橄榄球训练后分享Cool Ranch Doritos时，学校的AI枪支检测系统Omnilert将其中一名拿着薯片袋的学生标记为潜在枪手。Baltimore County Public Schools官员在两分钟内查看录像，认出是Doritos薯片袋，随即取消了警报。"
+        },
+        {
+          "t": "p",
+          "x": "根据在校生和前学生提起的诉讼，学校官员仍然报了警。至少六辆警车赶到，部分警员拔枪；学生们被命令跪下，戴上手铐并遭搜身。"
+        },
+        {
+          "t": "p",
+          "x": "诉讼对象包括Omnilert、出警的Baltimore County Police Department警员、BCPS及个别学校官员，并请求法院发布禁令，在教职员工和警方接受充分培训前禁止BCPS使用Omnilert。学生们援引Inspector General报告称，“Baltimore County Public Schools超过99%的OGD警报都是误报，无需警方响应”。"
+        },
+        {
+          "t": "p",
+          "x": "Omnilert的Blake Mitchell表示，警报在约两分钟内即被取消：“这正是人工审核之所以重要、已取消的警报必须保持取消的原因。”BCPS拒绝置评。"
+        }
+      ]
+    },
+    "politics/dutch-dpa-ai-smart-glasses-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg"
+        },
+        {
+          "t": "p",
+          "x": "荷兰隐私监管机构Autoriteit Persoonsgegevens (AP)提醒民众不要购买智能眼镜，称其可能出现危险的错误。在对荷兰市场上六款眼镜的测试中，这些设备曾向用户提供如何与儿童约会的建议，误读药品说明，还声称已呼叫救护车，而实际上并没有。"
+        },
+        {
+          "t": "p",
+          "x": "AP并未呼吁禁售，也没有点名具体产品，只表示价格从不到€100 (£84)到超过€500不等。目前尚不清楚调查是否包括Meta的眼镜。"
+        },
+        {
+          "t": "p",
+          "x": "AP还担心智能眼镜可能被用于偷拍他人：部分眼镜的录制指示灯即使用胶带遮住，仍可正常工作。它还在部分眼镜中发现严重安全漏洞，附近的人可未经许可连接设备、查看录像，甚至远程操控摄像头，并警告数据经常被传输到EU以外。"
+        },
+        {
+          "t": "p",
+          "x": "AP承认，这类眼镜对需要帮助理解周围环境的人可能很有价值，但认为对这些用户而言，AI是否可靠尤为重要。"
+        }
+      ]
+    },
+    "politics/oregon-openai-kids-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "今天，总检察长Dan Rayfield启动了Oregon Department of Justice的Keeping Kids Safe Initiative，宣布以危害儿童、在ChatGPT聊天机器人安全性问题上欺骗家长为由，对OpenAI提起$2.035 billion 的法律诉讼。诉讼已向Multnomah County Circuit Court提交。"
+        },
+        {
+          "t": "p",
+          "x": "“OpenAI知道ChatGPT正在伤害儿童，却没有切实修复其危险的平台，”总检察长Rayfield说。“不仅如此，他们还在产品安全性上误导公众，把利润置于儿童安全之上。”"
+        },
+        {
+          "t": "p",
+          "x": "州政府表示，OpenAI在ChatGPT对儿童的安全程度上误导公众，销售存在未披露的严重安全问题的产品，并以不公平手段向儿童和青少年推销该产品，违反了俄勒冈州消费者保护法Unlawful Trade Practices Act。"
+        },
+        {
+          "t": "p",
+          "x": "AG Rayfield的诉讼还称，OpenAI存在过失，以俄勒冈居民(Oregonians)的利益为代价不当获利，并造成威胁俄勒冈儿童安全与福祉的公共妨害。州政府请求法院命令OpenAI停止在儿童安全问题上误导公众，并落实真正有效的保护措施。"
+        },
+        {
+          "t": "p",
+          "x": "AG Rayfield今天在新闻发布会上公布了这一计划。"
+        },
+        {
+          "t": "video",
+          "yt": "pKfyD1xVPqM"
+        }
+      ]
     }
   }
 }
