@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI에 선을 긋는 영화제와 기금",
+    "date": "2026.11.19",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조(Slator는 Cloudflare 차단이라 11-17 런 enrich 본문·candidates 게재시각으로 확인): 날짜를 원문 게재일로 고침(Manchester 11.14→11.13, CNC 11.17→11.16, IDFA 11.19→11.18). 2027 금지·영국 유일 오스카·BAFTA 예선, CHILEMONOS 장기 방침 미정, CNC 11월 1일 발효·문화부 인용, IDFA 올해 첫 질문·심사 기준 아님·단편 대략 1/10 확인. 사진은 IDFA 한 장만, Manchester는 영상, 나머지 stat/quote.",
+    "sources": [
+      "Animation Magazine — Manchester Animation Festival Announces 2026 Winners, New AI Policy (2026.11.13)",
+      "Indie Shorts Mag — CHILEMONOS 2027 Opens Free Oscar-Qualifying Animation Entries With New AI Restrictions (2026.11.16)",
+      "Slator — French Movie Regulator Won't Fund AI Dubbing and Subtitling (2026.11.16)",
+      "Documentary (IDA) — The Synthesis: With IDFA Requesting AI Disclosures in Film Submissions, What Comes Next? (2026.11.18)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.13~11.18",
+      "thread": [
+        {
+          "d": "11.13",
+          "t": "출품 금지",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.16",
+          "t": "대체 금지",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.16",
+          "t": "지원 제한",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.18",
+          "t": "사용 공개",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "영화제와 공공 기금이 AI에 각자의 선을 긋기 시작했다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI에 선을 긋는\n영화제와 기금",
+      "body": "한 곳만 보면 개별 규정이다. 엿새 사이 영화제 셋과 프랑스 기금이 금지·지원·공개로 각자 기준을 내놨다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "Manchester,\n생성형 AI 출품 금지",
+      "body": "영국 유일의 오스카·BAFTA 예선 애니메이션 영화제가 2027년부터 생성형 AI로 만든 영화를 받지 않는다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.animationmagazine.net/2026/11/manchester-animation-festival-announces-2026-winners-new-ai-policy/",
+      "_id": "manchester-animation-ai-policy",
+      "video": "pipeline/media/manchester-animation-ai-policy.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "칠레도 금지,\n장기 방침은 미정",
+      "body": "오스카 예선 CHILEMONOS는 2027년 애니메이터의 창작을 대신한 AI 작품을 받지 않는다. 장기 방침은 아직 없다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.indieshortsmag.com/news/2026/11/chilemonos-2027-animation-festival-submissions-oscar-qualifying/",
+      "_id": "chilemonos-2027-ai-rules",
+      "stat_top": "애니메이터의 창작",
+      "stat_arrow": "AI가 대신하면",
+      "stat_bottom": "출품 자격 없음",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.16",
+      "headline": "사람 없으면\n지원도 없다",
+      "body": "프랑스 CNC는 11월 1일부터 인간 창작자가 없는 더빙·자막·화면해설에 돈을 대지 않는다. AI 도구 금지는 아니다.",
+      "foot": "2026.11.16",
+      "_src": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
+      "_id": "cnc-ai-dubbing-funding",
+      "quote": "창작은 무엇보다\n인간의 일로\n남아야 한다",
+      "quote_by": "프랑스 문화부"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "IDFA는 금지 대신\n공개를 묻는다",
+      "body": "올해 처음 출품 양식에 AI 사용을 물었다. 심사 기준이 아니라 진위가 의심될 때 본다. 단편은 대략 열에 하나가 신고했다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.documentary.org/column/synthesis-idfa-requesting-ai-disclosures-film-submissions-what-comes-next",
+      "_id": "movies-idfa-ai-disclosure",
+      "media": "pipeline/media/movies-idfa-ai-disclosure.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

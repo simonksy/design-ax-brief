@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "집 안 AI 비서 자리싸움",
+    "date": "2026.11.19",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(MacRumors 11.16→11.13, CNET 11.18→11.17, 9to5Google 11.18→11.17, 전자신문 11.19→11.18). iPhone 15 Pro 이상 페어링, '누군가 책을 읽는 중' 반복·실외 택배 인식, 일상 요청 20%·다음 달 6개국(인도·대만·싱가포르·콜롬비아·한국·브라질), 스마트싱스(Labs) 플러그인·도어록 등 보안 기기 제어 제한 확인. Alexa 액자(원문 11.10)는 리뷰라 뺌.",
+    "sources": [
+      "MacRumors — Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs (2026.11.13)",
+      "CNET — I Tested Apple Intelligence on a Top New Security Camera to Find Its Limits (2026.11.17)",
+      "9to5Google — Google confirms huge list of new Home features, including three Nest Thermostat upgrades (2026.11.17)",
+      "전자신문 — 삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산 (2026.11.18)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 11.13~11.18",
+      "thread": [
+        {
+          "d": "11.13",
+          "t": "Apple TV",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.17",
+          "t": "보안캠",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.17",
+          "t": "6개국",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "11.18",
+          "t": "챗GPT",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "집 안 기기를 부릴 AI 자리를 놓고 Apple은 제 기기로, Google은 속도와 국가로, 삼성은 챗GPT 연결로 판을 넓힌다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "집 안 AI 비서\n자리싸움",
+      "body": "업데이트, 보안캠 리뷰, 출시 국가 확대는 따로 보면 작은 소식이다. 꿰어 보면 집 기기를 부릴 AI를 누가 쥐느냐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "Apple TV에도\nSiri AI",
+      "body": "tvOS 27.2.1로 2·3세대 Apple TV 4K에도 Siri AI가 들어왔다. 쓰려면 iPhone 15 Pro 이상과 짝지어야 한다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+      "_id": "tvos-27-2-1-siri-ai",
+      "media": "pipeline/media/tvos-27-2-1-siri-ai.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "보안캠 영상을\nApple AI가 읽다",
+      "body": "Aqara G350에서 Apple Intelligence는 공을 던져도 화분을 옮겨도 ‘누군가 책을 읽는 중’이라 했다. 실외 택배는 잘 알아봤다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.cnet.com/home/security/aqara-g350-apple-intelligence-review-tested-camera-to-find-the-limits/",
+      "_id": "aqara-g350-apple-intelligence-test",
+      "media": "pipeline/media/aqara-g350-apple-intelligence-test.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "Gemini for Home\n20% 빨라졌다",
+      "body": "Google은 일상 요청이 20% 빨라졌다며 다음 달 한국·인도·대만·싱가포르·콜롬비아·브라질로 Gemini for Home을 넓힌다.",
+      "foot": "2026.11.17",
+      "_src": "https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/",
+      "_id": "gemini-home-faster-six-countries",
+      "media": "pipeline/media/gemini-home-faster-six-countries.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "삼성은 집을\n챗GPT에 열었다",
+      "body": "스마트싱스(Labs) 플러그인으로 챗GPT에서 가전 상태를 보고 모드를 바꾼다. 도어록 같은 보안 기기 제어는 막아 뒀다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.etnews.com/20261118000237",
+      "_id": "samsung-smartthings-chatgpt-labs",
+      "media": "pipeline/media/samsung-smartthings-chatgpt-labs.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

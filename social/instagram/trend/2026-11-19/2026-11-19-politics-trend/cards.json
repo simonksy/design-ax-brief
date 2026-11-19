@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "issue": "칩 유출 의혹, 규제로 번지다",
+    "date": "2026.11.19",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(연합 11.14→11.13 KST, Verge 의회 11.16→11.15, Ars 11.17→11.16, DOJ 11.18→11.17, Verge Nvidia 11.19→11.18). 46억 달러·5개국·90일·2024/2025.5·6월·Kress 발언 확인. DOJ 이미지는 보도자료 로고라 stat, Nvidia는 Kress 발언 quote로.",
+    "sources": [
+      "연합뉴스 — 말레이, 앨리스 황 근무 메가스피드 자회사 AI반도체 유출 조사 (2026.11.13)",
+      "The Verge — Congress wants to tighten export rules on AI chips after Nvidia spy scandal (2026.11.15)",
+      "Ars Technica — US moves to cut China’s remote access to AI chips (2026.11.16)",
+      "U.S. Department of Justice — Joint Statement from Department of Commerce and Department of Justice on Megaspeed Investigation (2026.11.17)",
+      "The Verge — Nvidia isn’t selling any more AI chips to China (2026.11.18)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 11.13~11.18",
+      "thread": [
+        {
+          "d": "11.13",
+          "t": "말레이 조사",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.15",
+          "t": "의회 압박",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.16",
+          "t": "원격 임차",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.17",
+          "t": "수사 경위",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.18",
+          "t": "출하 중단",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "Nvidia 칩 유출 의혹이 엿새 만에 조사에서 규정·출하 중단으로 번졌다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "칩 유출 의혹,\n규제로 번지다",
+      "body": "한 건씩 보면 각국의 조사·법안·규정이다. 꿰어 보면 엿새 사이 말레이시아에서 미 의회, 상무부, Nvidia 출하까지 이어졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.13",
+      "headline": "말레이시아,\nAI 칩 재수출 조사",
+      "body": "말레이시아가 Megaspeed 자회사의 AI 칩 재수출을 조사한다. 이 자회사는 Nvidia 장비를 46억 달러어치 넘게 들여왔다.",
+      "foot": "2026.11.13",
+      "_src": "https://www.yna.co.kr/view/AKR20261113115800104",
+      "_id": "politics-malaysia-megaspeed-probe",
+      "media": "pipeline/media/politics-malaysia-megaspeed-probe.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.15",
+      "headline": "미 의회,\n칩 수출 규제 압박",
+      "body": "The Verge에 따르면 양당 의원들이 수출 규제 강화 법안에 힘을 싣고 Huang 등 Nvidia 경영진의 의회 증언을 요구했다.",
+      "foot": "2026.11.15",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "_id": "congress-ai-chip-export-rules",
+      "media": "pipeline/media/congress-ai-chip-export-rules.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "원격 임차도\n허가 받아야",
+      "body": "상무부 새 규정. 중·러·이란이 동남아 4개국·브라질 데이터센터에서 제한 AI 칩을 빌려 쓰는 길을 막는다. 게재 90일 뒤 시행.",
+      "foot": "2026.11.16",
+      "_src": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "_id": "commerce-chip-remote-access",
+      "media": "pipeline/media/commerce-chip-remote-access.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "상무부·DOJ,\n조사 경위 공개",
+      "body": "두 부처 공동성명. 2024년 조사 착수, 2025년 5월 Nvidia에 기록 요구, 6월 현장 점검. 형사 수사는 DOJ가 맡았다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
+      "_id": "pol-megaspeed-doj-statement",
+      "stat_top": "2024년 조사 착수",
+      "stat_arrow": "2025년 6월, Nvidia가 Megaspeed를",
+      "stat_bottom": "판매 금지 명단에",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.11.18",
+      "headline": "Nvidia,\nH200 중국 출하 중단",
+      "body": "Colette Kress 임시 CEO가 실적 발표에서 밝혔다. 백악관이 지난해 12월 승인한 판매였다. 이유는 설명하지 않았다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "_id": "nvidia-h200-china-halt",
+      "quote": "중국에 허가받은\nHopper 데이터센터 제품을\n더는 출하하지 않는다",
+      "quote_by": "Colette Kress · Nvidia 임시 CEO, 실적 발표"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
