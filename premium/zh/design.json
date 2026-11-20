@@ -12577,6 +12577,140 @@
           "x": "内置循环涵盖网络安全、延迟和无障碍访问，你也可以创建自定义循环，例如提升结账转化率。安全循环将Gemini 4 Carbon的网络安全能力与CodeMender结合，后者是Google DeepMind用于提升代码安全性的自主智能体。Google Antigravity等编程智能体可通过Stitch CLI和MCP获取产品上下文，在Slack中，@stitch会每天推送洞察摘要。候补名单今天起向全球所有用户开放，符合条件的Google AI Ultra用户可优先使用。"
         }
       ]
+    },
+    "design/envato-ai-report-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shutterstock旗下的创意素材与AI工具平台Envato，为其第二份年度报告《Beyond the Hype: The State of AI in Creative Work》调查了103个国家和地区的1,033名创意专业人士。"
+        },
+        {
+          "t": "p",
+          "x": "在全部样本中，87%的创意人士已在工作中使用AI，58%每天使用，高于去年的49%。主动回避者也从3%增至8%，在U.S.（美国）达到19%；那里83%的回避者以对AI训练方式的伦理担忧为由。"
+        },
+        {
+          "t": "p",
+          "x": "使用AI的创意人士中，超过一半（53%）曾在重要客户项目中使用AI而未告知客户；只有7%对此感到不安。在团队中工作的创意人士里，57%没有书面AI政策；即便在250人及以上的机构中，也有40%没有任何书面规定。"
+        },
+        {
+          "t": "p",
+          "x": "创意人士认为品味与判断力是决定质量的首要因素（53%），提示词技巧在八项因素中排名最后（19%）。49%的人说AI让他们更快，但只有7%说AI提高了收入。视频、动态、3D和VFX创意人士使用AI略多于其他人，但对编辑把控得更紧：44%完全不用AI做编辑。"
+        }
+      ]
+    },
+    "design/fuser-tool-node": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fuser于11月13日（韩国时间）发布了“Tool Node”（工具节点），可用文字生成定制编辑工具。用户只需在画布上放置Tool Node，写明要接收什么素材、改变什么，以及想亲自调节哪些参数。Fuser会按需求设计滑块和开关，编写并测试工具，然后将其放到画布上。"
+        },
+        {
+          "t": "p",
+          "x": "如果请求一个将照片像素化的工具，就能生成用于调节像素块大小和所用颜色数量的滑块。把照片连接到节点并拖动滑块，结果会立即变化。把另一张照片连接到同一节点，可以直接沿用现有设置。还可以把像素化结果连接到下一个分离颜色通道的节点，依次应用两种效果。"
+        },
+        {
+          "t": "p",
+          "x": "调色、裁剪等“实时”工具在浏览器中免费运行。识别图像文字或查找物体的“云端”工具，在点击运行按钮后会调用Fuser服务器上的AI模型。运行所需的积分显示在按钮上。新建工具或用文字修改工具时也需要积分。"
+        },
+        {
+          "t": "p",
+          "x": "完成的工具会自动保存到资源库，可在下一个项目中调用，也可在团队工作区与同事共享。想添加滑块时，只需用文字输入要修改的内容。Fuser会把修改内容保存为新版本，并在可能的情况下保留原有的节点连接和参数设置。"
+        },
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+          "cap": "将像素化节点和颜色通道分离节点连接到照片上的Fuser画布"
+        }
+      ]
+    },
+    "design/gestalt-design-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+          "cap": "一位评论者在两份匿名柑橘主题作品集版式中圈出其中一份，示意Gestalt与Claude Fable 5.2之间的盲投。"
+        },
+        {
+          "t": "p",
+          "x": "专业设计师面前摆着针对同一份设计简报的两份答卷，一份出自Claude Fable 5.2，另一份出自名为Gestalt的隐身AI模型。在两者名称均被隐藏的一对一投票中，设计师有78%选择了Gestalt。"
+        },
+        {
+          "t": "p",
+          "x": "Gestalt在Contra Labs与BenchFlow推出的Frontier Design Benchmark中位居榜首。Kingy.ai于2026年11月19日查看时，Gestalt为1,931 Elo，领先1,713的Fable达218分。整体最接近的是人类参考作品，为1,739。"
+        },
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+          "cap": "在与Claude Fable 5.2的直接投票中，设计师有78%选择了Gestalt；在与人类参考设计的投票中，28票里有20票选择了Gestalt。"
+        },
+        {
+          "t": "p",
+          "x": "三十五名专业设计师在五轮中共投出4,311票，涉及27份由平台接单项目和六个初创项目改编的设计简报。在Contra的设计评分标准中，Fable 5.2和Claude Opus 5.5获得84分（满分100），Gestalt得83分。"
+        },
+        {
+          "t": "p",
+          "x": "Contra联合创始人Gajus Kuizinas表示，Gestalt并非Contra开发，报告也未透露其开发方。Contra没有充分披露Gestalt的工具、重试次数、筛选流程或成本，因此无法判断获胜作品经过了多少次尝试。"
+        }
+      ]
+    },
+    "design/uxcollective-sparkle-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+          "cap": "在Google图片中搜索“sparkle AI icon”的结果。"
+        },
+        {
+          "t": "p",
+          "x": "如何在不耗费数小时的情况下读懂PM的AI-generated样稿。闪光按钮很快成为一种通用的设计模式，而我们如今的工作还可以更多地利用它。十多年来，这个图标基本上意味着“这部分由机器替你完成”，而Google自 mid-2010s 起一直引领这一潮流。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+          "cap": "Google闪光按钮的历史，2020年至2026年"
+        },
+        {
+          "t": "p",
+          "x": "无论你如何看待AI-generated内容，它都做了一件有用的事：告诉你AI在哪里。更多设计师在交接时需要这一点：你拿到一份PM(或高管)用几条提示词生成的样稿，却只有少数线索能说明哪些部分是决策，哪些是AI填充的。如果能把AI-generated的部分标出来，你就能确切知道该质疑什么、保留什么。否则，你的PM也许省下了两个小时，你却要花五个小时去读懂这份样稿。"
+        }
+      ]
+    },
+    "design/canva-ai-off-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Canva现在允许用户关闭其生成式AI功能。借此改动，用户可以停用这一平面设计平台的多种AI工具，例如用AI扩展照片的Magic Expand功能，也可以关闭用Canva聊天机器人生成图像的功能。"
+        },
+        {
+          "t": "p",
+          "x": "不过，这一开关并不会关闭Canva上所有AI-powered功能。Canva的背景移除工具和Magic Grab工具仍保持开启，因为它们“让日常任务更快完成，而不会生成任何新东西”。该开关仍会关闭Magic Write、Magic Design、Magic Layers、Magic Edit、Dream Lab、Canva Code、AI Shapes等功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
+          "cap": "你还可以选择在Canva素材库中少看AI-generated内容。"
+        },
+        {
+          "t": "p",
+          "x": "第二个开关会在用户于Canva素材库中搜索模板、图形和其他设计元素时，优先显示人类创作的内容。Canva表示，其素材库中只有“一小部分”是AI-generated内容，任何使用这些元素的设计都会在元数据中带有AI标签。"
+        },
+        {
+          "t": "p",
+          "x": "这些设置位于Profile > Settings > Permission (Enable generative AI features)以及Profile > Your account > AI personalization，免费和付费用户均可使用。"
+        }
+      ]
     }
   }
 }

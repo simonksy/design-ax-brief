@@ -1,223 +1,106 @@
 {
- "section": "politics",
- "now_iso": "2026-11-19T22:03:00Z",
- "window_hours": 72,
- "items": [
-  {
-   "title": "Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure.",
-   "url": "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure",
-   "source": "The Verge",
-   "category": "politics",
-   "published_iso": "2026-11-19T21:19:44+00:00",
-   "excerpt": "House Foreign Affairs Chair Brian Mast released Commerce Department license data showing more than 879,000 advanced AI chips approved for sale to Chinese companies (of ~3.4M requested), ahead of Jensen Huang's testimony; Ranking Member Meeks says licenses were approved with little scrutiny.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
-  },
-  {
-   "title": "Jacobs, Maloy, Beyer Release Outline For Sweeping, Bipartisan AI Safety Legislation | U.S. Congresswoman Sara Jacobs Of California's 51st District",
-   "url": "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation",
-   "source": "Office of Rep. Sara Jacobs (U.S. House)",
-   "category": "politics",
-   "published_iso": "2026-11-19",
-   "excerpt": "Reps. Jacobs (D-CA), Maloy (R-UT) and Beyer (D-VA) released an outline of the bipartisan SAFE AI Act, forthcoming legislation that would mandate safety frameworks, incident reporting and transparency from frontier AI labs under federal oversight. [off-list primary doc; page shows date only]",
-   "og_image": "https://sarajacobs.house.gov/themes/jacobs/images/sharelogo.jpg?1"
-  },
-  {
-   "title": "Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight | Governor of California",
-   "url": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/",
-   "source": "Office of the Governor of California",
-   "category": "politics",
-   "published_iso": "2026-11-18T16:16:05+00:00",
-   "excerpt": "California released expert recommendations for mandatory frontier-AI safety standards, independent oversight, emergency shutdown ('kill switch') authority for dangerous systems and limits on self-improving AI, as next steps on top of SB 53. [off-list primary doc]",
-   "og_image": "https://www.gov.ca.gov/wp-content/uploads/2026/11/Governor-Newsoms-nation-leading-AI-safety-framework-is-getting-even-stronger-as-California-releases-next-steps-on-mandatory-safety-standards-and-oversight-SEO-GFX-v2.png"
-  },
-  {
-   "title": "Bipartisan bill would create cyber and AI review board amid series of tech outages",
-   "url": "https://www.nextgov.com/policy/2026/11/bipartisan-bill-would-create-cyber-and-ai-review-board-amid-series-tech-outages/417299/",
-   "source": "Nextgov/FCW",
-   "category": "politics",
-   "published_iso": "2026-11-18T09:30:00-05:00",
-   "excerpt": "A bipartisan House bill would create a federal cyber and AI review board to investigate major failures after a string of tech outages, and proposes safeguards for federal AI agents and closer CISA coordination with tech providers. [off-list]",
-   "og_image": "https://cdn.nextgov.com/media/img/cd/2026/11/17/GettyImages_2296417318/open-graph.jpg"
-  },
-  {
-   "title": "New York attorney general creates unit to oversee AI safety and enforcement",
-   "url": "https://statescoop.com/new-york-attorney-general-creates-unit-to-oversee-ai-safety-and-enforcement/",
-   "source": "StateScoop",
-   "category": "politics",
-   "published_iso": "2026-11-18T18:41:52+00:00",
-   "excerpt": "New York AG Letitia James created a dedicated AI Safety, Standards, Enforcement and Transparency (ASSET) unit to enforce state AI laws, including the RAISE Act taking effect January 1. [off-list]",
-   "og_image": null
-  },
-  {
-   "title": "Don't buy smart glasses, Dutch data watchdog advises",
-   "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
-   "source": "BBC News",
-   "category": "politics",
-   "published_iso": "2026-11-19T16:33:17.386Z",
-   "excerpt": "The Dutch data protection authority (Autoriteit Persoonsgegevens) advised consumers not to buy AI smart glasses, citing tests where devices misread medicine instructions or pretended to call an ambulance, plus privacy risks to bystanders.",
-   "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg"
-  },
-  {
-   "title": "European Commission scrambles to contain AI-assisted cyberattack",
-   "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
-   "source": "The Register",
-   "category": "politics",
-   "published_iso": "2026-11-19T15:14:54.000Z",
-   "excerpt": "The European Commission confirmed an AI-assisted cyberattack in October that took staff HR and medical-reimbursement systems offline; officials are investigating whether personal data was compromised.",
-   "og_image": "https://image.theregister.com/5311112.jpg?imageId=5311112&x=0&y=0&cropw=100&croph=84.87&panox=0&panoy=0&panow=100&panoh=84.87&width=1200&height=683"
-  },
-  {
-   "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Taipei Times",
-   "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868041",
-   "source": "Taipei Times",
-   "category": "politics",
-   "published_iso": "2026-11-20T00:00:00+08:00",
-   "excerpt": "TSMC is tightening restrictions on Chinese chip designers, suspending some previously permitted advanced manufacturing orders and limiting them to older nodes, as new US rules close a manufacturing loophole (Reuters, sources).",
-   "og_image": "https://img.taipeitimes.com/images/2026/11/20/P09-261120-326.jpg"
-  },
-  {
-   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-   "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-   "source": "Ars Technica",
-   "category": "politics",
-   "published_iso": "2026-11-19T20:19:28+00:00",
-   "excerpt": "Four Baltimore County students sued their school system and police after an AI gun-detection system flagged a Doritos bag as a weapon; the suit alleges over 99% of the system's alerts were false positives.",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
-  },
-  {
-   "title": "Trump’s latest land grab is an AI hub in the Philippines",
-   "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-   "source": "The Verge",
-   "category": "politics",
-   "published_iso": "2026-11-18T19:40:36+00:00",
-   "excerpt": "Analysis of Trump's Philippines visit: the administration is eyeing the former US colony for chip fabs and AI data centers under the US-led Pax Silica chip/critical-minerals initiative, amid local 'Reject Pax Silica' protests.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
-  },
-  {
-   "title": "Dutch resist ‘unacceptable’ US bid to tighten semiconductor export controls",
-   "url": "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
-   "source": "POLITICO Europe",
-   "category": "politics",
-   "published_iso": "2026-11-17T18:18:50+00:00",
-   "excerpt": "The Dutch government objected to the bipartisan US MATCH Act, which would tighten restrictions on ASML chipmaking-tool sales to China, calling the extraterritorial push 'unacceptable'.",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/17/GettyImages-2110550620-scaled.jpg"
-  },
-  {
-   "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
-   "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
-   "source": "Federal Register (ACUS)",
-   "category": "politics",
-   "published_iso": "2026-11-19",
-   "excerpt": "The Administrative Conference of the United States requests public comment (due Jan 19, 2027) on policies for generative AI ('generative super intelligence') use by agency adjudicators, staff, parties and representatives in federal adjudications.",
-   "og_image": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
-  },
-  {
-   "title": "윤재옥, 'AI커닝 퇴출법' 발의…\"전자기기 반입시 최대 징역2년\"",
-   "url": "https://www.yna.co.kr/view/AKR20261119121900001",
-   "source": "연합뉴스",
-   "category": "politics",
-   "published_iso": "2026-11-19T15:34:01+09:00",
-   "excerpt": "국민의힘 윤재옥 의원이 초소형 카메라·스마트안경 등 첨단기기를 이용한 시험 부정행위를 처벌하는 'AI커닝 퇴출법' 패키지를 발의했다. 전자기기 반입 시 최대 징역 2년 등을 담았다.",
-   "og_image": "https://img0.yna.co.kr/photo/yna/YH/2026/07/13/PYH2026071306410001300_P4.jpg"
-  },
-  {
-   "title": "與 '올 수능부터 AI 부정행위시 응시정지 10년' 법안 발의",
-   "url": "https://www.yna.co.kr/view/AKR20261118177800001",
-   "source": "연합뉴스",
-   "category": "politics",
-   "published_iso": "2026-11-18T19:45:42+09:00",
-   "excerpt": "더불어민주당이 수능 하루 전인 18일 AI 등을 활용한 부정행위자의 응시자격을 최대 10년 정지하고 올해 수능부터 적용하는 법안을 발의했다.",
-   "og_image": "https://img7.yna.co.kr/photo/yna/YH/2026/08/09/PYH2026080902060001300_P4.jpg"
-  },
-  {
-   "title": "수능 부정행위 98명 적발…AI 스마트안경·초소형 카메라 사용",
-   "url": "https://www.etnews.com/20261119000454",
-   "source": "전자신문",
-   "category": "politics",
-   "published_iso": "2026-11-19T20:07:14+09:00",
-   "excerpt": "교육부는 2027학년도 수능에서 총 98명의 부정행위자를 적발했다고 발표했다. 위급재난문자로 49명, 시험 중 AI 스마트안경·초소형 카메라 등 스마트기기 활용이 5건이다.",
-   "og_image": "https://img.etnews.com/news/article/2026/11/19/rcv.YNA.20261119.PYH2026111924610001300_P1.jpg"
-  },
-  {
-   "title": "개보위, 일본과 데이터 이전·AI프라이버시 협력 강화",
-   "url": "https://zdnet.co.kr/view/?no=20261119210646",
-   "source": "지디넷코리아",
-   "category": "politics",
-   "published_iso": "2026-11-19T21:06:46+09:00",
-   "excerpt": "개인정보위가 18일 브뤼셀에서 일본 개인정보보호위원회(PPC)와 회의를 열고 국외 데이터 이전과 AI 프라이버시 분야 협력을 강화하기로 했다.",
-   "og_image": "https://image.zdnet.co.kr/2026/11/19/e0560e222e31b1ef423c4e641d48be77.jpg"
-  },
-  {
-   "title": "李대통령 “추진 중인 아태 AI센터…인공지능 협력·혁신 구심점될 것”",
-   "url": "https://www.etnews.com/20261119000373",
-   "source": "전자신문",
-   "category": "politics",
-   "published_iso": "2026-11-19T15:57:29+09:00",
-   "excerpt": "이재명 대통령이 APEC 선전 정상회의에서 추진 중인 '아태 AI센터'를 AI 협력·혁신의 구심점으로 삼겠다며 AI를 통한 공동 성장을 강조했다.",
-   "og_image": "https://img.etnews.com/news/article/2026/11/19/rcv.YNA.20261119.PYH2026111910560001300_P1.jpg"
-  },
-  {
-   "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-   "source": "The Guardian",
-   "category": "politics",
-   "published_iso": "2026-11-19T14:00:52.000Z",
-   "excerpt": "Australia's music industry (ARIA) rejected a reported government proposal to exempt musicians from AI training on copyrighted works while letting big tech train on other creative material, calling the carve-out 'unworkable'.",
-   "og_image": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f713b67a86b8386b7f04c5e329faf82"
-  },
-  {
-   "title": "LeBron James sues sports betting app Bron for using nickname and likeness without permission",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/lebron-james-bron-betting-app-lawsuit",
-   "source": "The Guardian",
-   "category": "politics",
-   "published_iso": "2026-11-18T14:03:25.000Z",
-   "excerpt": "LeBron James sued sports-betting research app Bron, alleging it used an AI-generated version of his likeness, voice and nickname in ads to fake an endorsement.",
-   "og_image": "https://i.guim.co.uk/img/media/8b7957c57874c6cb970a008a6dff4d2ef00fb6f5/415_0_2946_2357/master/2946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3bd93c4fc5960d58c09354881663a9c"
-  },
-  {
-   "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
-   "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
-   "source": "The Decoder",
-   "category": "politics",
-   "published_iso": "2026-11-19T17:02:41+00:00",
-   "excerpt": "Stricter US AI-chip export controls are biting: Moonshot AI walked away from an Indonesian deal and TSMC/Samsung stopped some shipments to Chinese customers as overseas cloud access closes.",
-   "og_image": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models-1200x670.png"
-  },
-  {
-   "title": "Alberta sets limits on where AI data centres can be built amid backlash",
-   "url": "https://www.theglobeandmail.com/business/technology/article-alberta-limits-where-ai-data-centres-can-be-built-amid-backlash/",
-   "source": "The Globe and Mail",
-   "category": "politics",
-   "published_iso": "2026-11-18T16:45:41-05:00",
-   "excerpt": "Alberta tabled Bill 42 setting limits on where large AI data centres can be built, including setbacks from homes and bars on irrigated farmland. [off-list]",
-   "og_image": "https://www.theglobeandmail.com/resizer/v2/2PVAWJ53QJDBXDAPWUCWCPKJJU.JPG?auth=29fd5d6e417f47122a01200b2b75fa31e62232a0a379e2558121ac16be0ca3b7&width=1200&height=800&quality=80&smart=true"
-  },
-  {
-   "title": "Quad Leaders’ Summit Joint Press Release",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/",
-   "source": "The White House",
-   "category": "politics",
-   "published_iso": "2026-11-17T15:20:56+00:00",
-   "excerpt": "Quad leaders' joint release affirms the Quad 'Super Intelligence' (AI) Accelerator to coordinate and fund trusted AI access, deployment and technical assistance across the Indo-Pacific.",
-   "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg"
-  },
-  {
-   "title": "S’pore can facilitate US checks on AI chip use, won’t allow circumvention of export controls: PM Wong",
-   "url": "https://www.straitstimes.com/asia/spore-can-facilitate-us-checks-on-ai-chip-use-wont-allow-circumvention-of-export-controls-pm-wong",
-   "source": "The Straits Times",
-   "category": "politics",
-   "published_iso": "2026-11-18T04:15:00.000Z",
-   "excerpt": "Singapore PM Lawrence Wong said Singapore can facilitate US checks on AI chip use and will not allow circumvention of export controls as it studies the new US rules. [off-list]",
-   "og_image": "https://cassette.sphdigital.com.sg/image/straitstimes/92227bcb9bee277fe0792d066a2749a17f18075e9b522667a9fab2691d639267?t=og"
-  },
-  {
-   "title": "South African regulator settles with X Corp and x.AI",
-   "url": "https://dig.watch/updates/south-africa-regulator-settles-with-x-co-and-x-ai",
-   "source": "Digital Watch Observatory",
-   "category": "politics",
-   "published_iso": "2026-11-19T01:36:14+01:00",
-   "excerpt": "South Africa's Competition Commission settled with X Corp and took a voluntary undertaking from X.AI to support local news publishers under its digital platforms inquiry remedies. [off-list]",
-   "og_image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/11/X-pexels.jpg"
-  }
- ]
+  "section": "politics",
+  "now_iso": "2026-11-20T22:00:39Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-11-20T18:50:19+00:00",
+      "excerpt": "President Trump said US companies building AI data centers abroad would face a 'tremendous tax' (BBC reports he floated a ban), adding he had not yet run the idea by his staff. AI geopolitics / datacenter siting; statement, no formal order yet.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+    },
+    {
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "source": "The Guardian",
+      "category": "politics",
+      "published_iso": "2026-11-20T09:18:30Z",
+      "excerpt": "California's attorney general has opened an investigation and subpoenaed Nvidia over whether its AI chips were diverted to China and whether the company misled investors, saying the Megaspeed scandal 'raises bright red flags'. New state-level formal action in the chip-export story.",
+      "og_image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd"
+    },
+    {
+      "title": "Probe opened over Nvidia influence on US government",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/21/2003868107",
+      "source": "Taipei Times",
+      "category": "politics",
+      "published_iso": "2026-11-21T00:00:00+08:00",
+      "excerpt": "US representatives sent a letter dated Thursday to Commerce Secretary Lutnick opening a probe into whether Nvidia was allowed to interfere with Commerce's investigation of Megaspeed over possible illegal diversion of AI chips to China (Reuters). Formal congressional action, distinct from the 879k-license disclosure.",
+      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P09-261121-323.jpg"
+    },
+    {
+      "title": "베선트 \"미중 정상, AI 군사 결정에 인간 개입 합의\"",
+      "url": "https://www.yna.co.kr/view/AKR20261121004500072",
+      "source": "연합뉴스",
+      "category": "politics",
+      "published_iso": "2026-11-21T02:38:11+09:00",
+      "excerpt": "스콧 베선트 미 재무장관이 CNBC 인터뷰에서 트럼프 대통령과 시진핑 주석이 AI(슈퍼지능)를 활용한 모든 군사적 결정에 항상 인간이 개입해야 하며 주요 군사작전에서 자율 작동을 허용하지 않기로 합의했다고 밝혔다. 서명된 공동성명 텍스트는 아직 없음 — 공식 발언 기준.",
+      "og_image": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg"
+    },
+    {
+      "title": "AI 데이터센터 구축 문턱 낮아진다…업계 기대 속 남은 과제는",
+      "url": "https://zdnet.co.kr/view/?no=20261120171231",
+      "source": "지디넷코리아",
+      "category": "politics",
+      "published_iso": "2026-11-20T17:14:56+09:00",
+      "excerpt": "과학기술정보통신부가 20일 AIDC 특별법 하위법령 제정안과 전력계통영향평가 개선 방안을 발표했다 — 비수도권 50MW 이하 AI 데이터센터 전력평가 면제, 인허가 일괄처리·대규모 사업 패스트트랙 등. (정책브리핑 korea.kr·전자신문 동일 발표)",
+      "og_image": "https://image.zdnet.co.kr/2026/01/07/0726e9229e224ac80e10d492bdcf6b35.jpg"
+    },
+    {
+      "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
+      "source": "Federal Register (ACUS)",
+      "category": "politics",
+      "published_iso": "2026-11-19T00:00:00-05:00",
+      "excerpt": "The Administrative Conference of the United States requests public comment on policies for use of generative AI ('generative super intelligence') by agency adjudicators, staff, parties and representatives in federal agency adjudications; responses feed an ACUS best-practice recommendation. Primary document; FR publication date 2026-11-19 (no time given).",
+      "og_image": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+    },
+    {
+      "title": "Artificial intelligence (AI) in social care",
+      "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
+      "source": "GOV.UK",
+      "category": "politics",
+      "published_iso": "2026-11-20T10:00:01+00:00",
+      "excerpt": "UK government publishes non-statutory guidance on the use of artificial intelligence in children's and adults' social care in England. Primary document.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+    },
+    {
+      "title": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+      "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
+      "source": "The Guardian",
+      "category": "politics",
+      "published_iso": "2026-11-18T16:39:25Z",
+      "excerpt": "Three Senate Democrats sent letters to Apple and Google CEOs saying app-store safeguards against AI 'nudification' apps are insufficient and teens can still reach them despite parental controls.",
+      "og_image": "https://i.guim.co.uk/img/media/e2ed5d5a662380c8bc35eddb7768f22cbfcb9b8e/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66c6fe40c9862a3b0bb42cf7b0fcd404"
+    },
+    {
+      "title": "European Commission scrambles to contain AI-assisted cyberattack",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-11-19T15:14:54Z",
+      "excerpt": "The European Commission confirmed attackers used an AI tool in a cyberattack that took staff HR and medical-reimbursement systems offline; officials are investigating whether personal data was compromised.",
+      "og_image": "https://image.theregister.com/5311112.jpg?imageId=5311112&x=0&y=0&cropw=100&croph=84.87&panox=0&panoy=0&panow=100&panoh=84.87&width=1200&height=683"
+    },
+    {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-11-20T17:30:00Z",
+      "excerpt": "Amazon CISO CJ Moses says suspected Chinese state-linked attackers used the open-source Cairn AI agent framework to autonomously find and exploit a zero-day in MONAI Label and seize a university server, adapting for nearly a day without human direction. Vendor threat report, not a government action.",
+      "og_image": "https://image.theregister.com/5311400.jpg?imageId=5311400&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "title": "2026 Elections: Taiwan tells Meta of China accounts to influence polls",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
+      "source": "Taipei Times",
+      "category": "politics",
+      "published_iso": "2026-11-21T00:00:00+08:00",
+      "excerpt": "Taiwan flagged nearly 2,700 Threads accounts to Meta as a suspected Chinese influence campaign before the Nov. 28 local elections; internal reports say ~260 accounts spread 2,150+ AI-generated videos with 2.35M interactions. Meta says many were already disabled. Check vs taiwan-cib-election-deepfake (11-13).",
+      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg"
+    }
+  ]
 }

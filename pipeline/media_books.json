@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-20",
-  "section": "books",
-  "media": [
-    {
-      "id": "globalcomix-ai-relaunch",
-      "type": "image",
-      "src": "pipeline/media/globalcomix-ai-relaunch.png"
-    },
-    {
-      "id": "wrtn-crack-ip-expansion",
-      "type": "image",
-      "src": "pipeline/media/wrtn-crack-ip-expansion.jpg"
-    },
-    {
-      "id": "manganow-getbackers-comic-anime",
-      "type": "video",
-      "src": "pipeline/media/manganow-getbackers-comic-anime.mp4",
-      "poster": "pipeline/media/manganow-getbackers-comic-anime.jpg"
-    },
-    {
-      "id": "scbwi-state-of-industry-ai",
-      "type": "svg"
-    },
-    {
-      "id": "comstocks-sacramento-ai-pushback",
-      "type": "image",
-      "src": "pipeline/media/comstocks-sacramento-ai-pushback.png"
-    }
-  ]
-}
+{"date":"2026-11-21","section":"books","media":[
+{"id":"pangram-doj-detector","type":"image","src":"pipeline/media/pangram-doj-detector.png"},
+{"id":"ganjoor-claude-poetry","type":"image","src":"pipeline/media/ganjoor-claude-poetry.jpg"},
+{"id":"wotc-anthropic-payout","type":"image","src":"pipeline/media/wotc-anthropic-payout.jpg"},
+{"id":"beeflix-movingtoon-ai","type":"image","src":"pipeline/media/beeflix-movingtoon-ai.png"},
+{"id":"cambridge-human-woty","type":"image","src":"pipeline/media/cambridge-human-woty.jpg"}
+]}

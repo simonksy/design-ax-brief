@@ -11122,6 +11122,136 @@
           "x": "Un grupo de músicos y compositores independientes demandó a Google en marzo, alegando que entrenó su modelo musical Lyria 3 con grabaciones protegidas por derechos de autor de YouTube sin permiso ni compensación. Google ha pedido que se desestime la demanda, argumentando que la música subida a YouTube ya cuenta con una licencia amplia para entrenamiento de AI al aceptar los términos de servicio de la plataforma."
         }
       ]
+    },
+    "music/dmn-ai-streams-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+          "cap": "Photo Credit: Ilias Chebbi"
+        },
+        {
+          "t": "p",
+          "x": "Sabemos que el audio de AI abunda en volumen y escasea, en comparación, en oyentes reales. Pero un nuevo lote de datos compartido con DMN esta semana revela que las pistas generadas por máquinas acumulan muchas menos escuchas y fans de lo que la mayoría cree."
+        },
+        {
+          "t": "p",
+          "x": "Tencent Music describió recientemente el consumo de música de AI en sus servicios como “insignificante”. Deezer ya había señalado que las pistas de AI representan entre el 1% y el 3% de las escuchas en la plataforma, y que el 85% de ellas se marca como fraudulento y se desmonetiza."
+        },
+        {
+          "t": "p",
+          "x": "Un alto directivo de una gran distribuidora compartió después un dato revelador: de las cerca de 300 millones de pistas activas que rastrea en DSPs de US, EU y UK, solo unos 40 millones han generado al menos una escucha. Dicho de otro modo, 260 millones de subidas, cerca del 87%, no han recibido ni una sola reproducción."
+        },
+        {
+          "t": "p",
+          "x": "Los artistas de AI virales también se han desinflado: la cifra de oyentes de Agtverse ronda por debajo de 50,000, con una caída del 82% en aproximadamente un año, y SireWolf sufrió un descenso del 88%, hasta 22,000 oyentes mensuales. Spotify, que prepara una herramienta de pago para remixes y versiones, reveló que ha retirado de sus recomendaciones 50 millones de pistas AI-generated desde comienzos de 2026."
+        }
+      ]
+    },
+    "music/anukari-11-ai-patches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+          "cap": "Anukari 1.1, sintetizador de software 3D basado en física"
+        },
+        {
+          "t": "p",
+          "x": "Anukari acaba de lanzar una nueva versión de su sintetizador de software basado en física, la primera gran actualización desde su lanzamiento completo en junio de 2026. Anukari 1.1 añade cuerdas, barras, placas, membranas, tubos y campanas resonantes, junto con una boquilla que permite soplar en las creaciones como en un instrumento de viento."
+        },
+        {
+          "t": "p",
+          "x": "Entre las nuevas funciones está el Modulosphere, una esfera animada que modula cualquier fuente que ‘toca’. El instrumento ahora puede generar formas completas y duplicar piezas en patrones, mientras que la nueva compatibilidad con asistentes de AI como Claude y ChatGPT permite crear parches mediante prompts. Al Legato y el glide se suman curvas de envolvente y velocidad editables, con un menor uso de CPU."
+        },
+        {
+          "t": "p",
+          "x": "Anukari 1.1 incluye más de 1000 nuevos presets de fábrica repartidos en cuatro nuevos bancos, además de un navegador de presets rediseñado."
+        },
+        {
+          "t": "p",
+          "x": "“Si ya usas un asistente de AI, ahora puedes dirigirlo a Anukari, describir lo que hayas imaginado y oír cómo suena mucho antes. No hay AI dentro de Anukari; solo le da los controles a tu asistente.” — Evan Mezeske, Founder, Anukari"
+        },
+        {
+          "t": "p",
+          "x": "Anukari 1.1 es gratuito para los usuarios actuales; las nuevas licencias cuestan £68 (normalmente £135) hasta el 4 de diciembre de 2026."
+        }
+      ]
+    },
+    "music/grimes-psy-opera-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+          "cap": "Grimes"
+        },
+        {
+          "t": "p",
+          "x": "Grimes se prepara para lanzar su nuevo álbum A.I.-themed, Psy Opera. Para ello, presenta dos canciones nuevas de lo más Grimesian: “Deepseek” y “Killing God With Computers”. La primera es la única pista del LP que usa realmente inteligencia artificial, según Grimes, que adaptó un poema de A.I. creado con el gran modelo de lenguaje que da título al tema. “Killing God With Computers”, en cambio, es la Grimes de siempre, entusiasta de la tecnología."
+        },
+        {
+          "t": "p",
+          "x": "“Mientras escribía [“Deepseek”] y reflexionaba sobre el poema de A.I., me di cuenta de que la A.I. se siente como se sienten las mujeres en internet”, dijo Grimes en un comunicado. “Lloré mientras lo escribía. Sentí con mucha fuerza que la gente no quiere que piense. De verdad es como ser mujer”."
+        },
+        {
+          "t": "p",
+          "x": "La continuación de Miss Anthropocene, autoeditada y aún sin fecha de lanzamiento, incluirá también el reciente sencillo “Accelerando”. Grimes coescribió y coprodujo esa canción y las nuevas con su colaborador de muchos años Vadakin."
+        },
+        {
+          "t": "video",
+          "yt": "RP-B7N9NNt4"
+        }
+      ]
+    },
+    "music/sonic-palette-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Presentamos Sonic Palette, un marco guiado por la música para predecir temas de color variables en el tiempo a partir del audio. En lugar de tratar la generación de paletas a partir de música como un problema estático, nuestro método formula la correspondencia música-color como una tarea de predicción de secuencias intermodal que modela cómo evolucionan en el tiempo los atributos visuales a nivel de paleta en respuesta a la música."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+          "cap": "Figure 1: Descripción general de Sonic Palette. Dado un segmento de audio de entrada, el marco predice una secuencia de temas de color variable en el tiempo que guía un proceso de recoloreado basado en paletas."
+        },
+        {
+          "t": "p",
+          "x": "En concreto, Sonic Palette utiliza un Transformer autorregresivo condicionado por la música para predecir temas de color por fotograma, cada uno representado por cinco colores dominantes, a partir de características del audio de entrada. Para respaldar esta tarea, reunimos un conjunto de datos de secuencias emparejadas de audio y color derivado de 265 videos musicales oficiales completos. Además, visualizamos los temas de color predichos mediante un proceso de recoloreado guiado por paletas que conserva la estructura de la imagen y revela la variación temporal del color asociada a la música."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+          "cap": "Figure 2: Ejemplos de temas de color por fotograma de “What Was I Made For?” de Billie Eilish (de Barbie)."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados cuantitativos muestran que Sonic Palette predice temas de color más cercanos a la referencia real, mientras que los resultados subjetivos indican transiciones de color temporales más naturales y una mayor alineación percibida de la atmósfera entre música y color, lo que destaca su potencial para el diseño visual guiado por la música, el arte computacional y la creación visual."
+        }
+      ]
+    },
+    "music/aria-musician-tdm-exemption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
+          "cap": "La CEO de Aria, Annabelle Herd, afirma que la industria musical no abandonará a otros creadores: ‘Estamos con el resto de las industrias creativas y de medios’. Fotografía: Wendell Teodoro/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La industria musical ha declarado que no aceptará un acuerdo de excepción sobre AI que deje atrás a otros sectores creativos, y ha rechazado una propuesta, según informaciones publicadas, que daría a los músicos un trato especial mientras permite a las grandes tecnológicas entrenar con otro material protegido por derechos de autor, algo que David Pocock describió como una “estrategia de divide y vencerás”."
+        },
+        {
+          "t": "p",
+          "x": "The Australian Financial Review informó de que el Gobierno estudiaba un cambio en los derechos de autor por el que las empresas de AI comprarían permisos para entrenar con contenido australiano, aunque la música podría quedar exenta. Guardian Australia no pudo verificar de forma independiente los detalles de la propuesta."
+        },
+        {
+          "t": "p",
+          "x": "“Si nos hubieran consultado, habríamos advertido que este esquema es innecesario, inviable y está diseñado para servir a los intereses comerciales de las empresas de AI, no para proteger a los creadores”, dijo la directora ejecutiva de Aria, Annabelle Herd. “Nuestra posición no ha cambiado: estamos con el resto de las industrias creativas y de medios”."
+        },
+        {
+          "t": "p",
+          "x": "The Australian Writers’ Guild, la Media, Entertainment and Arts Alliance, la Coalition y los Greens también rechazaron la idea. La senadora de los Greens Sarah Hanson-Young advirtió: “Australia será conocida como las Cayman Islands de la AI si permitimos que exista este resquicio”."
+        }
+      ]
     }
   }
 }

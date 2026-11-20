@@ -10781,6 +10781,144 @@
           "x": "“把这些工具带到另外21个市场，意味着更多故事能找到听众。”Spotify的Author Growth负责人Chester Lau说。"
         }
       ]
+    },
+    "books/ganjoor-claude-poetry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+          "cap": "图兰国王Afrasiyab注视下，Siyavush在打马球。出自Shah Tahmasp藏本Ferdowsi《Shahnameh》。（The Metropolitan Museum of Art，公有领域）"
+        },
+        {
+          "t": "p",
+          "x": "常驻Toronto的伊朗软件工程师Arman Nejad借助Claude，为广受欢迎的免费在线波斯诗歌库Ganjoor上逾160万联波斯语对句撰写现代波斯语（modern-Persian）释义。此前一条AI生成（AI-generated）的注释曾把女性名字Delaray误作单词“dollar”。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+          "cap": "X上一则波斯语帖子嘲讽Ganjoor此前AI生成的注释把名字Delaray读成了单词“dollar”。"
+        },
+        {
+          "t": "p",
+          "x": "11月9日，Nejad在X上求助，mana.space和zharf.ai捐赠了额度。到11月16日，他已为从Rudaki到Shahriar的全部245位诗人完成新注释。Ganjoor已在其网站和公开数据仓库发布这些注释。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+          "cap": "80题Konkour考试册的准确率。Claude Opus 5.5（medium）与Gemini 3.8 Flash（highest）均答对80题中的74题，并列第一。"
+        },
+        {
+          "t": "p",
+          "x": "为挑选模型，Nejad采用伊朗高考Konkour；在30道文学题上，Claude以答对27题居首。整个过程约用了155,000次请求、5.66亿个token，花费约3,100美元。在随机抽取的500联对句评审中，新注释在413例中更受青睐，旧注释仅四例。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+          "cap": "以AI生成的插图，呈现Nezami《Haft Peykar》经纠正后的解读。"
+        },
+        {
+          "t": "p",
+          "x": "“Sudi注解了Hafez，”Nejad写道，“2026年，我们注解了所有人。”"
+        }
+      ]
+    },
+    "books/wotc-anthropic-payout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dungeons and Dragons出版商Wizards of the Coast将与D&D作者分享Bartz v. Anthropic案的和解金。Wizards代表对Wargamer表示：“Wizards of the Coast以Dungeons & Dragons小说、模组和故事版权所有者的身份参与了Bartz v. Anthropic和解。没有构建其世界的创作者，D&D就不成其为D&D。”"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic于2025年9月同意以15亿美元和解，该和解于2026年7月获批。约50万本书符合条件，每本至少3,000美元，扣除费用后由权利人分配，出版商与作者默认按50/50分成。"
+        },
+        {
+          "t": "p",
+          "x": "据作者James Lowder称，“Wizards of the Coast放弃其在Anthropic赔付中的份额，把钱全部交给作者”，他说这笔钱达数十万美元。他将此归功于作者推动的谈判，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
+        }
+      ]
+    },
+    "books/beeflix-movingtoon-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+        },
+        {
+          "t": "p",
+          "x": "韩国OTT服务Beeflix结合人工智能（AI）技术，推出了为网络漫画每一格添加动态效果的全新网漫服务“Moving Toon”。"
+        },
+        {
+          "t": "p",
+          "x": "Moving Toon让以静态图像为主的传统网络漫画可以作为动态画面来欣赏。它为每一格漫画加入生动的动作，让读者以全新的方式享受故事。"
+        },
+        {
+          "t": "p",
+          "x": "传统网络漫画通过静态图像和分格编排讲述故事，而Moving Toon为每一格加入动态，带来更生动的观看体验。其特点是在网络漫画特有的结构与节奏基础上，为静态图像注入活力。"
+        },
+        {
+          "t": "p",
+          "x": "Beeflix开发了利用AI技术为网络漫画加入动态的技术，并将其引入Moving Toon服务。在原有网漫内容魅力的基础上加入动态，让读者即使面对熟悉的故事也能获得新鲜感受。"
+        },
+        {
+          "t": "p",
+          "x": "这项技术在开发时就考虑到不仅能用于Beeflix的Moving Toon，也能立即用于其他网络漫画服务。它具备应用于多种网漫内容和服务的潜力，也可用于拓展网络漫画的呈现方式。"
+        },
+        {
+          "t": "p",
+          "x": "Moving Toon通过网络漫画与AI技术的结合，为内容欣赏方式提供了新选择。通过为网络漫画的每个场景加入动态，让读者更生动地体验故事的发展。"
+        },
+        {
+          "t": "p",
+          "x": "Beeflix Moving Toon服务可在Beeflix移动网页版和PC网页版使用。"
+        }
+      ]
+    },
+    "books/cambridge-human-woty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cambridge Dictionary（剑桥词典）将“human”评为2026年度词汇，以回应这一“由全球围绕AI模糊人与机器界限之际身为人类意味着什么的讨论所定义”的一年。"
+        }
+      ]
+    },
+    "books/globalcomix-ai-relaunch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+        },
+        {
+          "t": "p",
+          "x": "GlobalComix希望把人工智能嵌入数字漫画的未来，但其最新改版引来了不少质疑。公司刚完成1300万美元融资，并收购了AI-assisted本地化公司INKR，随即推出焕然一新的商店页面，以及一系列AI-powered发现功能：AI助手、漫画页面自动描述和创作者聚焦。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
+          "cap": "Tom Cheredar与GlobalComix新AI助手的对话。"
+        },
+        {
+          "t": "p",
+          "x": "Weird City Media的Tom Cheredar发现，这个AI称自己能够从IGN、Newsarama、CBR和The Beat等漫画新闻平台抓取数据。GlobalComix坚称不会用创作者的漫画训练AI模型，而是通过分析页面来生成描述和推荐，并确认创作者无法退出覆盖整个作品库的推荐功能。被追问训练来源时，助手回答：“我无法谈论具体的训练来源或数据集。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
+          "cap": "GlobalComix改版后的界面"
+        },
+        {
+          "t": "p",
+          "x": "改版将橙色品牌色换成绿色，与竞争对手Sweet Shop高度相似，而Sweet Shop的CEO Kenny Meyers曾批评数字漫画中的AI。多位创作者表示将撤下作品。更新：CEO Henrik Rydberg澄清，公司使用的是Google的Gemini，而非自研模型。"
+        }
+      ]
     }
   }
 }

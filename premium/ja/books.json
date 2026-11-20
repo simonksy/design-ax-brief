@@ -11255,6 +11255,144 @@
           "x": "「これらのツールを21の市場に広げることで、より多くの物語が聴き手に届くようになる」と、SpotifyのAuthor Growth担当Chester Lauは述べた。"
         }
       ]
+    },
+    "books/ganjoor-claude-poetry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+          "cap": "トゥランの王Afrasiyabが見守る中、ポロに興じるSiyavush。Shah Tahmasp所蔵のFerdowsi『Shahnameh』より。（The Metropolitan Museum of Art、パブリックドメイン）"
+        },
+        {
+          "t": "p",
+          "x": "トロント（Toronto）在住のイラン人ソフトウェアエンジニアArman Nejadは、Claudeを使い、人気の無料オンラインペルシア詩ライブラリGanjoorに収められた160万超のペルシア語対句を現代ペルシア語（modern-Persian）で解説した。以前のAI生成（AI-generated）注釈は、女性名Delarayを「dollar」という単語と取り違えていた。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+          "cap": "Ganjoorの以前のAI生成注釈が名前Delarayを「dollar」と読んだことを揶揄する、X上のペルシア語投稿。"
+        },
+        {
+          "t": "p",
+          "x": "11月9日、NejadはXで支援を呼びかけ、mana.spaceとzharf.aiがクレジットを寄付した。11月16日までに、RudakiからShahriarまで245人すべての詩人の新しい注釈を完成させた。Ganjoorはこれをウェブサイトと公開データリポジトリで公開している。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+          "cap": "80問のKonkour試験冊子での正答率。Claude Opus 5.5（medium）とGemini 3.8 Flash（highest）が80問中74問で並んだ。"
+        },
+        {
+          "t": "p",
+          "x": "モデル選びにNejadはイランの大学入試Konkourを使い、文学30問でClaudeが27問正解で首位となった。処理には約155,000件のリクエスト、5億6600万トークン、約3,100ドルを要した。無作為に選んだ500の対句を検証したところ、新しい注釈が支持されたのは413件、旧注釈は四件だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+          "cap": "Nezami『Haft Peykar』の訂正された読みをAIで描いたイラスト。"
+        },
+        {
+          "t": "p",
+          "x": "「SudiはHafezを注解した」とNejadは書いた。「2026年、我々は全員を注解した」"
+        }
+      ]
+    },
+    "books/wotc-anthropic-payout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dungeons and Dragonsの出版元Wizards of the Coastは、Bartz v. Anthropic訴訟の和解金をD&Dの著者と分け合う。Wizardsの担当者はWargamerに対し、「Wizards of the Coastは、Dungeons & Dragonsの小説、モジュール、ストーリーの著作権者としてBartz v. Anthropicの和解に参加した」と述べ、「D&Dは、その世界を築いたクリエイターなしにはD&Dたり得ない」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicは2025年9月に15億ドルの和解に合意し、和解は2026年7月に承認された。対象書籍は約50万冊で、1冊あたり最低3,000ドルから手数料を差し引いた額を権利者で分け、出版社と著者の配分は50/50が標準となる。"
+        },
+        {
+          "t": "p",
+          "x": "著者James Lowderによれば、「Wizards of the CoastはAnthropicからの支払いの自社分を放棄し、全額を著者に渡す」といい、その額は数十万ドルに上るという。彼は著者側の働きかけで始まった協議、特にR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
+        }
+      ]
+    },
+    "books/beeflix-movingtoon-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+        },
+        {
+          "t": "p",
+          "x": "国内OTTサービスのBeeflixが、人工知能（AI）技術を取り入れ、ウェブトゥーンの各コマに動きを加えた新しいウェブトゥーンサービス「ムービングトゥーン」を開始した。"
+        },
+        {
+          "t": "p",
+          "x": "ムービングトゥーンは、静止画中心の従来のウェブトゥーンを動くシーンとして楽しめるようにしたサービスだ。コマごとに生き生きとした動きを付け、読者が物語を新しい形で楽しめるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "従来のウェブトゥーンが静止画とコマ割りで物語を伝えるのに対し、ムービングトゥーンは各コマに動きを加え、より生き生きとした鑑賞体験を提供する。ウェブトゥーン特有の構成と流れを土台に、静的な画像に活力を与えた点が特徴である。"
+        },
+        {
+          "t": "p",
+          "x": "BeeflixはAI技術を活用してウェブトゥーンに動きを付ける技術を開発し、ムービングトゥーンに導入した。既存のウェブトゥーンが持つコンテンツの魅力に動きを加え、読者がなじみのある物語も新鮮な感覚で味わえるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "この技術は、Beeflixのムービングトゥーンだけでなく、他のウェブトゥーンサービスにもすぐに活用できるよう開発された。さまざまなウェブトゥーンコンテンツやサービスに応用できる可能性を備え、ウェブトゥーンの見せ方を広げることにも生かせる。"
+        },
+        {
+          "t": "p",
+          "x": "ムービングトゥーンは、ウェブトゥーンとAI技術の組み合わせを通じて、コンテンツの楽しみ方に新たな選択肢を示す。ウェブトゥーンの各場面に動きを加えることで、読者が物語の流れをより生き生きと体験できるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "Beeflixのムービングトゥーンは、BeeflixのモバイルウェブとPCウェブで利用できる。"
+        }
+      ]
+    },
+    "books/cambridge-human-woty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cambridge Dictionary（ケンブリッジ辞典）は、「AIが人と機械の境界をあいまいにする中で、人間であるとは何を意味するのかをめぐる世界的な議論に特徴づけられた」年を受け、「human」を2026年の今年の単語に選んだ。"
+        }
+      ]
+    },
+    "books/globalcomix-ai-relaunch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+        },
+        {
+          "t": "p",
+          "x": "GlobalComixはデジタルコミックの未来に人工知能を組み込もうとしているが、最新のリデザインには少なからず疑問の声が上がった。1300万ドルの資金調達と、AI-assistedのローカライズ企業INKRの買収を終えたばかりの同社は、刷新したストアとともにAI-poweredの新たな発見機能を公開した。AIアシスタント、漫画ページの自動説明、クリエイター紹介である。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
+          "cap": "Tom CheredarとGlobalComixの新しいAIアシスタントとの対話。"
+        },
+        {
+          "t": "p",
+          "x": "Weird City MediaのTom Cheredarは、このAIがIGN、Newsarama、CBR、The Beatといったコミック報道プラットフォームからデータを収集できたと述べたことを確認した。GlobalComixは、クリエイターの漫画をAIモデルの学習には使わず、ページを分析して説明や推薦を生成しているだけだと主張し、カタログ全体に及ぶ推薦機能からクリエイターがオプトアウトできないことも認めた。学習元を問われたアシスタントは「特定の学習元やデータセットについてはお答えできません」と返した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
+          "cap": "GlobalComixの新しいレイアウト"
+        },
+        {
+          "t": "p",
+          "x": "リデザインではオレンジのブランドカラーが緑に替わり、競合Sweet Shopと驚くほど似ている。Sweet ShopのCEO、Kenny MeyersはデジタルコミックへのAI導入を批判してきた。複数のクリエイターが作品を引き上げると表明した。追記：CEOのHenrik Rydbergは、同社が独自モデルではなくGoogleのGeminiを使っていると説明した。"
+        }
+      ]
     }
   }
 }

@@ -14689,6 +14689,144 @@
           "x": "“이 도구를 21개 시장으로 넓히면 훨씬 더 많은 이야기가 청취자를 만날 수 있습니다.” Spotify에서 Author Growth를 맡은 Chester Lau가 말했다."
         }
       ]
+    },
+    "books/ganjoor-claude-poetry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+          "cap": "투란의 왕 Afrasiyab가 지켜보는 가운데 Siyavush가 폴로를 하는 장면. Shah Tahmasp 소장본 Ferdowsi의 『Shahnameh』에서. (The Metropolitan Museum of Art, 퍼블릭 도메인)"
+        },
+        {
+          "t": "p",
+          "x": "토론토(Toronto)에 사는 이란 출신 소프트웨어 엔지니어 Arman Nejad가 Claude로 페르시아 2행시 160만여 구절을 현대 페르시아어(modern-Persian)로 풀었다. 대상은 인기 있는 무료 온라인 페르시아 시 도서관 Ganjoor에 실린 시들이다. 이전에 AI가 만든(AI-generated) 해설은 여성 이름 Delaray를 “dollar”라는 단어로 잘못 읽기도 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+          "cap": "Ganjoor의 옛 AI 해설이 이름 Delaray를 “dollar”로 읽은 일을 비꼰 X의 페르시아어 게시물."
+        },
+        {
+          "t": "p",
+          "x": "Nejad가 11월 9일 X에 도움을 청하자 mana.space와 zharf.ai가 크레딧을 내놓았다. 11월 16일까지 Rudaki부터 Shahriar까지 시인 245명 전원의 새 해설을 마쳤고, Ganjoor는 결과물을 웹사이트와 공개 데이터 저장소에 올렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+          "cap": "80문항 Konkour 시험지 정확도. Claude Opus 5.5(medium)와 Gemini 3.8 Flash(highest)가 80문항 중 74문항을 맞혀 동률을 이뤘다."
+        },
+        {
+          "t": "p",
+          "x": "Nejad는 모델을 고를 때 이란 대입 시험 Konkour를 썼다. 문학 30문항에서 Claude가 27문항을 맞혀 1위였다. 작업에는 요청 약 155,000건, 토큰 5억 6,600만 개, 비용 약 3,100달러가 들었다. 무작위로 뽑은 2행시 500구절을 검토해 보니 새 해설이 413건, 옛 해설이 네 건에서 더 낫다는 평가가 나왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+          "cap": "Nezami의 『Haft Peykar』를 바로잡은 해석을 AI로 그린 삽화."
+        },
+        {
+          "t": "p",
+          "x": "“Sudi는 Hafez를 주해했다.” Nejad는 이렇게 썼다. “2026년, 우리는 모든 시인을 주해했다.”"
+        }
+      ]
+    },
+    "books/wotc-anthropic-payout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dungeons and Dragons 출판사 Wizards of the Coast가 Bartz v. Anthropic 소송 합의금을 D&D 작가들과 나눈다. Wizards 대변인은 Wargamer에 “Wizards of the Coast는 Dungeons & Dragons 소설, 모듈, 스토리의 저작권자로서 Bartz v. Anthropic 합의에 참여했다”며 “D&D는 그 세계를 만든 창작자들 없이는 D&D가 될 수 없다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic은 2025년 9월 15억 달러 합의에 동의했고 합의안은 2026년 7월 승인이 났다. 대상 도서는 약 50만 권이다. 권리자들은 권당 최소 3,000달러에서 수수료를 뺀 금액을 나눠 갖는데, 출판사와 작가의 기본 배분은 50/50이다."
+        },
+        {
+          "t": "p",
+          "x": "작가 James Lowder에 따르면 “Wizards of the Coast는 Anthropic 배상금 중 자사 몫을 포기하고 그 돈을 모두 작가들에게 준다.” 액수는 수십만 달러에 이른다고 한다. 그는 작가들의 요청에서 시작된 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+        }
+      ]
+    },
+    "books/beeflix-movingtoon-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+        },
+        {
+          "t": "p",
+          "x": "국내 OTT 서비스 비플릭스가 인공지능(AI) 기술을 접목해 웹툰의 각 컷에 움직임을 더한 새로운 웹툰 서비스 ‘무빙툰’을 출시했다."
+        },
+        {
+          "t": "p",
+          "x": "무빙툰은 정지된 이미지 중심의 기존 웹툰을 움직이는 장면으로 감상할 수 있도록 만든 서비스다. 웹툰의 컷마다 생동감 있는 움직임을 적용해 독자들이 이야기를 새로운 방식으로 즐길 수 있도록 했다."
+        },
+        {
+          "t": "p",
+          "x": "기존 웹툰이 정지된 이미지와 컷의 구성으로 이야기를 전달한다면, 무빙툰은 각 컷에 움직임을 더해 한층 생동감 있는 감상 경험을 제공한다. 웹툰 특유의 구성과 흐름을 바탕으로 정적인 이미지에 활력을 더한 것이 특징이다."
+        },
+        {
+          "t": "p",
+          "x": "비플릭스는 AI 기술을 활용해 웹툰에 움직임을 적용하는 기술을 개발하고, 이를 무빙툰 서비스에 도입했다. 기존 웹툰이 가진 콘텐츠의 매력에 움직임을 더해 독자들이 익숙한 이야기도 새로운 느낌으로 접할 수 있도록 했다."
+        },
+        {
+          "t": "p",
+          "x": "이번 기술은 비플릭스의 무빙툰뿐 아니라 다른 웹툰 서비스에도 즉시 활용할 수 있도록 개발됐다. 다양한 웹툰 콘텐츠와 서비스에 적용할 수 있는 가능성을 갖춰, 웹툰을 선보이는 방식의 확장에도 활용될 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "무빙툰은 웹툰과 AI 기술의 결합을 통해 콘텐츠 감상 방식에 새로운 선택지를 제시한다. 웹툰의 각 장면에 움직임을 더함으로써 독자들이 이야기의 흐름을 더욱 생동감 있게 경험할 수 있도록 한 것이다."
+        },
+        {
+          "t": "p",
+          "x": "비플릭스 무빙툰 서비스는 비플릭스 모바일 웹과 PC 웹에서 이용할 수 있다."
+        }
+      ]
+    },
+    "books/cambridge-human-woty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cambridge Dictionary(케임브리지 사전)가 2026년 올해의 단어로 ‘human’을 골랐다. “AI가 사람과 기계의 경계를 흐리는 가운데 인간이란 무엇을 의미하는지를 둘러싼 전 세계적 논쟁으로 규정된” 한 해에 내놓은 답이다."
+        }
+      ]
+    },
+    "books/globalcomix-ai-relaunch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+        },
+        {
+          "t": "p",
+          "x": "GlobalComix는 디지털 만화의 미래에 인공지능을 심으려 한다. 그런데 최근 리디자인을 두고 의문이 적지 않다. 1300만 달러 투자를 받고 AI-assisted 현지화 기업 INKR을 인수한 직후, 회사는 새 스토어와 함께 AI-powered 탐색 기능을 내놨다. AI 어시스턴트와 만화 페이지 자동 설명, 크리에이터 스포트라이트다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
+          "cap": "Tom Cheredar가 GlobalComix의 새 AI 어시스턴트와 나눈 대화."
+        },
+        {
+          "t": "p",
+          "x": "Weird City Media의 Tom Cheredar는 이 AI가 IGN, Newsarama, CBR, The Beat 같은 만화 저널리즘 플랫폼에서 데이터를 모을 수 있었다고 말한 사실을 확인했다. GlobalComix는 크리에이터의 만화를 AI 모델 학습에 쓰지 않고 페이지를 분석해 설명과 추천을 만들 뿐이라고 밝혔다. 카탈로그 전체에 걸친 추천 기능에서 크리에이터가 빠질 방법이 없다는 점도 확인했다. 학습 출처를 묻자 어시스턴트는 “특정 학습 출처나 데이터셋에 대해서는 말씀드릴 수 없습니다”라고 답했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
+          "cap": "GlobalComix의 바뀐 레이아웃"
+        },
+        {
+          "t": "p",
+          "x": "리디자인 뒤 주황색이던 브랜드 색은 초록색이 됐는데, 경쟁사 Sweet Shop과 눈에 띄게 닮았다. Sweet Shop의 CEO Kenny Meyers는 디지털 만화의 AI 사용을 비판해 왔다. 크리에이터 여럿이 작품을 내리겠다고 밝혔다. 업데이트: CEO Henrik Rydberg는 회사가 자체 모델이 아닌 Google의 Gemini를 쓴다고 해명했다."
+        }
+      ]
     }
   }
 }

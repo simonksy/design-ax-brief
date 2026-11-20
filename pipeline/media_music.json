@@ -1,34 +1,7 @@
-{
-  "date": "2026-11-20",
-  "section": "music",
-  "media": [
-    {
-      "id": "aria-musician-tdm-exemption",
-      "type": "video",
-      "src": "pipeline/media/aria-musician-tdm-exemption.mp4",
-      "poster": "pipeline/media/aria-musician-tdm-exemption.jpg"
-    },
-    {
-      "id": "umg-ai-kill-switch-survey",
-      "type": "image",
-      "src": "pipeline/media/umg-ai-kill-switch-survey.jpg"
-    },
-    {
-      "id": "neutone-terra-drum-synth",
-      "type": "video",
-      "src": "pipeline/media/neutone-terra-drum-synth.mp4",
-      "poster": "pipeline/media/neutone-terra-drum-synth.jpg"
-    },
-    {
-      "id": "sonible-pure-smooth-resonance",
-      "type": "video",
-      "src": "pipeline/media/sonible-pure-smooth-resonance.mp4",
-      "poster": "pipeline/media/sonible-pure-smooth-resonance.jpg"
-    },
-    {
-      "id": "eu-ministers-ai-copyright",
-      "type": "image",
-      "src": "pipeline/media/eu-ministers-ai-copyright.png"
-    }
-  ]
-}
+{"date":"2026-11-21","section":"music","media":[
+ {"id":"eightmile-suno-amended","type":"image","src":"pipeline/media/eightmile-suno-amended.jpg"},
+ {"id":"dmn-ai-streams-data","type":"image","src":"pipeline/media/dmn-ai-streams-data.jpg"},
+ {"id":"anukari-11-ai-patches","type":"image","src":"pipeline/media/anukari-11-ai-patches.jpg"},
+ {"id":"grimes-psy-opera-deepseek","type":"video","src":"pipeline/media/grimes-psy-opera-deepseek.mp4","poster":"pipeline/media/grimes-psy-opera-deepseek.jpg"},
+ {"id":"sonic-palette-arxiv","type":"image","src":"pipeline/media/sonic-palette-arxiv.png"}
+]}

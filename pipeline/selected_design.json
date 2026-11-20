@@ -1,108 +1,102 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "design",
-  "picks": [
+  "user_selection": null,
+  "items": [
     {
-      "title": "Canva adds an AI 'off' button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "source": "The Verge",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Concrete product change: Canva users and teams can now switch off most generative AI features and filter AI-made images, which changes team settings tomorrow.",
-      "published_iso": "2026-11-19T12:30:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Canva is rolling out settings that let users and teams switch off most of its generative AI features and filter AI-made images, saying AI does not suit every task; some AI tools stay on."
-    },
-    {
-      "title": "What Your AGENTS.md Should Say About Your Design System",
-      "url": "https://www.supernova.io/blog/agents-md-design-system",
-      "source": "Supernova",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "New data (30 design-system repos audited, none write agent files for consumers) plus a copyable AGENTS.md section that design-system teams can use right away.",
-      "published_iso": "2026-11-17T00:00:00Z",
-      "og_image": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png",
-      "excerpt": "Supernova checked 30 design-system repos for AGENTS.md and other agent files: 16 have one, none is written for teams consuming the system; it proposes a section to copy."
+      "source": "Nielsen Norman Group",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/",
+      "published_iso": "2026-11-20T18:00:00Z",
+      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png",
+      "excerpt": "In an NN/g study across two design tasks, AI-generated interfaces were better when the model received synthesized research findings and recommendations rather than raw user comments alone.",
+      "rationale": "Primary NN/g study with a directly usable rule: feed AI synthesized research, not raw comments — changes how designers prompt tomorrow."
     },
     {
-      "title": "Pliera: a new BIM 2.0",
-      "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "New BIM product combining modelling with AI-generated parametric objects and configurators, pitched as a Revit challenger; a distinct launch from the Snaptrude/Qonic/Rayon cards.",
-      "published_iso": "2026-11-18T18:13:49Z",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg",
-      "excerpt": "Pliera combines BIM modelling, AI-generated parametric objects and building configurators, with ambitious plans to challenge Revit."
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "source": "Animation World Network",
+      "title": "Envato's 2nd Annual AI Report Finds Adoption Has Outrun the Rules",
+      "url": "https://www.awn.com/news/envatos-2nd-annual-ai-report-finds-adoption-has-outrun-rules",
+      "published_iso": "2026-11-18T14:49:26-08:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081855-envato1.jpg?itok=6IhH1KNS",
+      "excerpt": "Envato's survey of 1,033 creatives finds 58% use AI daily, 53% have put it on client work without telling the client, and most in-house team creatives have no written AI policy.",
+      "rationale": "Fresh survey data on creatives' AI use and undisclosed client work; assigned to design (not movies) by the run brief."
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Primary-source look at pairing frontier coding agents with Omniverse libraries to build simulation apps and iterate on designs from a prompt; adds the render/simulation category to the spread.",
-      "published_iso": "2026-11-19T17:00:35Z",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png",
-      "excerpt": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt."
+      "source": "Design Compass",
+      "title": "퓨저, 문장으로 만드는 맞춤형 편집 도구 공개 (Fuser Tool Node)",
+      "url": "https://designcompass.org/2026/11/18/fuser-tool-node/",
+      "published_iso": "2026-11-18T06:00:00+00:00",
+      "og_image": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg",
+      "excerpt": "Fuser's 'Tool Node' lets users describe an editing tool in a sentence; the AI designs sliders and switches, writes and tests the tool and places it on the canvas, where it can be chained with other nodes and shared via a team library.",
+      "rationale": "Concrete new feature: designers generate their own canvas editing tools from a sentence and share them team-wide."
     },
     {
-      "title": "Too Claudified",
-      "url": "https://uxdesign.cc/too-claudified-9af067298b2a",
-      "source": "UX Collective",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A client rejecting AI-built motion work as 'too Claudified' is a fresh, concrete signal of AI design convergence and how designers must differentiate.",
-      "published_iso": "2026-11-18T20:17:04Z",
-      "og_image": null,
-      "excerpt": "A designer whose AI-built motion graphics were rejected by a client as 'too Claudified' revisits his June essay on AI design converging on one fluent look, and what changed in five months."
+      "source": "Kingy AI",
+      "title": "Gestalt beat Claude Fable 5.2 in 78% of blind design votes",
+      "url": "https://kingy.ai/blog/gestalt-ai-design-benchmark/",
+      "published_iso": "2026-11-19T22:36:21+00:00",
+      "og_image": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+      "excerpt": "A stealth model called Gestalt took first place on Contra Labs and BenchFlow's Frontier Design Benchmark at 1,931 Elo, a 218-point lead; professional designers picked it over Claude Fable 5.2 in 78% of blind head-to-head votes.",
+      "rationale": "New design-specific benchmark result judged by professional designers; signals which model to watch for UI generation (off-list outlet, only coverage)."
+    },
+    {
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "source": "UX Collective",
+      "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
+      "published_iso": "2026-11-17T23:25:20Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1556/1*4RrFm9IcXORwVXjgB-_zlA.png",
+      "excerpt": "How to decipher your PM's AI-generated mockup without losing hours: a practical method for auditing AI-produced prototypes using the sparkle convention as a marker.",
+      "rationale": "Practical audit method for AI-generated mockups from PMs — immediately usable in design reviews."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button": {
+      "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/": {
+        "verdict": "new",
+        "nearest": "https://www.nngroup.com/articles/research-in-the-loop/",
+        "new_action": ""
+      },
+      "https://www.awn.com/news/envatos-2nd-annual-ai-report-finds-adoption-has-outrun-rules": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://designcompass.org/2026/11/18/fuser-tool-node/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://kingy.ai/blog/gestalt-ai-design-benchmark/": {
+        "verdict": "new",
+        "nearest": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11": {
         "verdict": "new",
         "nearest": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
         "new_action": ""
-      },
-      "https://www.supernova.io/blog/agents-md-design-system": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
-        "new_action": ""
-      },
-      "https://aecmag.com/bim/pliera-a-new-bim-2-0/": {
-        "verdict": "new",
-        "nearest": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
-        "new_action": ""
-      },
-      "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": {
-        "verdict": "new",
-        "nearest": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-        "new_action": ""
-      },
-      "https://uxdesign.cc/too-claudified-9af067298b2a": {
-        "verdict": "new",
-        "nearest": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
-        "new_action": ""
       }
     },
-    "note": "Re-curated: Smashing Magazine 'AI Sped Up The Build' removed — fetch pass found it sponsored (supported by Level Access, promotes Level CI); replaced with NVIDIA Blog 'Into the Omniverse' (render; distinct from the 10-22 NVIDIA industrial and 10-25 Cosmos cards). Dropped: Genie 4 (DeepMind) — assigned to games by curator_brief and a follow-up of the 10-28 debut. Etsy creator exodus (Creative Bloq) — reaction/extra reporting on Etsy AI policy covered 10-24/10-28, no new event. NVIDIA Cosmos two-prompt datasets — same Cosmos tooling line as 10-25 card. Not selected on score/diversity: GPT-6.2 Astra (likely cross-section, not design-specific), Gemini Mac computer use (gadgets territory), Autodesk Fusion plans (pricing/packaging), Vercel Board, Mitsubishi CNC, DEVELOP3D opinion, nTop/Eleken/Higgsfield vendor how-tos, Supernova variables-vs-tokens (evergreen; also avoids a second Supernova card), Krea Originals (movies-adjacent). Five distinct outlets; categories workflow, tokens, cad, render, figma."
-  },
-  "items": [
-    {"url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button", "source": "The Verge", "tool": "AI Workflow", "accent": "#ff5a4d", "motif": "frame", "rationale": "Canva users and teams can now switch off most generative AI features and filter AI-made images.", "published_iso": "2026-11-19T12:30:00Z", "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200", "excerpt": "Canva is rolling out settings that let users and teams switch off most of its generative AI features and filter AI-made images, saying AI does not suit every task; some AI tools stay on."},
-    {"url": "https://www.supernova.io/blog/agents-md-design-system", "source": "Supernova", "tool": "Design Tokens", "accent": "#2ec5c5", "motif": "swatch", "rationale": "30-repo audit plus a copyable AGENTS.md section for design-system teams.", "published_iso": "2026-11-17T00:00:00Z", "og_image": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png", "excerpt": "Supernova checked 30 design-system repos for AGENTS.md and other agent files: 16 have one, none is written for teams consuming the system; it proposes a section to copy."},
-    {"url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/", "source": "AEC Magazine", "tool": "Text-to-CAD", "accent": "#7928ca", "motif": "cube", "rationale": "New BIM product with AI-generated parametric objects, pitched as a Revit challenger.", "published_iso": "2026-11-18T18:13:49Z", "og_image": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg", "excerpt": "Pliera combines BIM modelling, AI-generated parametric objects and building configurators, with ambitious plans to challenge Revit."},
-    {"url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/", "source": "NVIDIA Blog", "tool": "KeyShot", "accent": "#f5a623", "motif": "sphere", "rationale": "Coding agents plus Omniverse libraries to build simulation apps and iterate on designs from a prompt.", "published_iso": "2026-11-19T17:00:35Z", "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png", "excerpt": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt."},
-    {"url": "https://uxdesign.cc/too-claudified-9af067298b2a", "source": "UX Collective", "tool": "Figma", "accent": "#0070f3", "motif": "frame", "rationale": "Client rejected AI-built work as 'too Claudified' — concrete signal of AI design convergence.", "published_iso": "2026-11-18T20:17:04Z", "og_image": null, "excerpt": "A designer whose AI-built motion graphics were rejected by a client as 'too Claudified' revisits his June essay on AI design converging on one fluent look, and what changed in five months."}
-  ]
+    "note": "Dropped as duplicates/cross-section: Maya 2027.3 agentic AI (CG Channel) = already published in movies 11-19; Genie 4 in Gemini API (TestingCatalog) = follow-up of games' 11-20 Genie 4 card; Etsy creators leaving (Creative Bloq) = reaction to the Etsy AI policy story published in design 10-28 (no new action); Rhino 9 / RhinoAI (DIGITAL PRODUCTION) = same running story as Rhino World 2026 'McNeel lets AI in' (11-13), no new release beyond what was covered. Skipped on merit: Gemini GIFs (off-list, thin AI depth, ChatGPT GIFs ran 11-05), Anthropic post-IPO branding (AI-business), Fast Company / Creative Bloq / Fstoppers / CSS-Tricks / DEVELOP3D commentary pieces, Comsol conference recap, Pika Enact (closer to movies), Ava Studio Launch Videos (would be 2nd Design Compass + 2nd render; first backup). Diversity: 5 outlets, categories tokens/workflow/render/figma x2 (second figma card uses palette accent #3b6bff)."
+  }
 }

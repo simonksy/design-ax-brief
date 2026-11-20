@@ -11852,6 +11852,127 @@
           "x": "Quedan críticos. El científico del olfato Avery Gilbert sostiene que algunas afirmaciones de marketing no están documentadas. Michael Schmuker, excolaborador de Osmo, llama a la tecnología un logro, pero dice que el contexto importa: el Camembert comparte una molécula con los pañales usados. Los sensores deben mejorar antes de alcanzar metas como el diagnóstico médico, “el mayor premio”."
         }
       ]
+    },
+    "science/mofgen-agentic-mof-synthesis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos generativos y el aprendizaje automático prometen acelerar el descubrimiento de materiales en las redes metal–orgánicas (MOFs) para la captura de CO2 y la recolección de agua, pero afrontan retos considerables para explorar vastos espacios químicos sin perder la sintetizabilidad."
+        },
+        {
+          "t": "p",
+          "x": "Aquí presentamos MOFGen, un sistema de inteligencia artificial (IA) agéntica formado por agentes interconectados: un modelo de lenguaje grande que propone composiciones de MOF, un modelo de difusión que genera estructuras cristalinas, agentes de mecánica cuántica que optimizan y filtran candidatos, y agentes de viabilidad sintética guiados por reglas expertas y aprendizaje automático."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+          "cap": "Fig. 1: Visión general de MOFGen."
+        },
+        {
+          "t": "p",
+          "x": "Entrenado con un amplio conjunto de MOFs reportados experimentalmente y bases de datos computacionales, MOFGen generó cientos de miles de estructuras de MOF y conectores orgánicos sintetizables. QForge optimizó 251.118 estructuras candidatas y QHarden produjo una base de datos final de 3000 estructuras de MOF DFT-optimized."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque se validó mediante experimentos de alto rendimiento y la síntesis exitosa de cuatro MOFs ‘AI-dreamt’. En apenas unas semanas sintetizamos cuatro MOFs ‘AI-dreamt’, y algunos se completaron en solo unos días."
+        }
+      ]
+    },
+    "science/mit-lids-chaos-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+          "cap": "El patrón en forma de mariposa del sistema de Lorenz 63, reproducido por un modelo de aprendizaje automático, dentro de una región acotada aprendida."
+        },
+        {
+          "t": "p",
+          "x": "El modelado de procesos caóticos como el tiempo atmosférico, el clima y los flujos turbulentos sigue siendo propenso a derivar con el tiempo hacia predicciones físicamente imposibles. Investigadores del Laboratorio de Sistemas de Información y Decisión (LIDS) del MIT han encontrado una forma de introducir restricciones basadas en la física en los modelos de aprendizaje automático que garantizan que nunca superen límites realistas."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados se publican en PNAS en un artículo firmado por el estudiante de posgrado del MIT Sunbochen Tang y los profesores del MIT Navid Azizan y Themistoklis Sapsis."
+        },
+        {
+          "t": "p",
+          "x": "El modelo aprende una función similar a la energía y una frontera en la que debe quedar confinado su comportamiento caótico; una capa de proyección impone la disipación de energía como restricción estricta, de modo que las predicciones se mantienen acotadas en ventanas de pronóstico arbitrariamente largas. Es el primer trabajo que establece garantías formales de este tipo para modelos de aprendizaje automático del caos."
+        },
+        {
+          "t": "p",
+          "x": "«Caos no significa que pueda pasar cualquier cosa. Estos sistemas a menudo permanecen acotados, y sus modelos también deberían», afirma Azizan. La capa de proyección es independiente del modelo, y el artículo está disponible con código abierto."
+        }
+      ]
+    },
+    "science/embodied-science-agent-wastewater": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+          "cap": "Arquitectura del Embodied Science Agent (ESA), un paradigma híbrido cognitivo–corporizado para laboratorios autónomos con tres componentes. Crédito: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del University College London, la Universidad de Ciencia y Tecnología de Hong Kong (Guangzhou) y otras instituciones desarrollaron el Embodied Science Agent (ESA), descrito en una preimpresión publicada en arXiv. A diferencia de los agentes de investigación que solo planifican experimentos para que los ejecuten personas o sistemas independientes, ESA conecta un agente digital, un agente corporizado que controla instrumentos y una interfaz entre ambos."
+        },
+        {
+          "t": "p",
+          "x": "El agente digital usa datos previos, registros de experimentos y optimización bayesiana para elegir qué probar a continuación. En experimentos de tratamiento de aguas residuales, ESA seleccionó condiciones entre más de 200 millones de combinaciones posibles a lo largo de 15 rondas consecutivas y elevó la transmitancia de la solución del 82% al 99,7%, lo que los autores vinculan con una reducción del 98,5% en la concentración de tinte residual."
+        },
+        {
+          "t": "p",
+          "x": "Su control robótico siguió funcionando cuando se colocó un soporte de electrodos en distintas posiciones. Las mediciones abarcaron solo la decoloración, lo que por sí solo no demuestra la degradación completa del tinte ni la eliminación de otros contaminantes."
+        }
+      ]
+    },
+    "science/navier-stokes-buckmaster-alpoge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+          "cap": "Una representación visual de la dinámica de fluidos."
+        },
+        {
+          "t": "p",
+          "x": "Justo después de que Levent Alpöge anunciara una supuesta demostración de la hipótesis de Riemann, él y el profesor de la New York University Tristan Buckmaster dijeron creer que han cerrado un polémico vacío en la solución que OpenAI presentó en septiembre a otro problema del millón de dólares."
+        },
+        {
+          "t": "p",
+          "x": "Las ecuaciones de Navier-Stokes modelan cómo los fluidos giran y forman remolinos. En septiembre, OpenAI demostró que las ecuaciones «explotan». Pero su demostración imaginaba una fuerza poco realista y finamente ajustada que «agita» el líquido de la manera justa para producir una velocidad infinita, un enfoque que muchos consideran un vacío en la redacción del problema."
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster había afirmado que OpenAI se adelantó deliberadamente a sus avances y a los de Alpöge; OpenAI negó las acusaciones de juego sucio."
+        },
+        {
+          "t": "p",
+          "x": "En Mastodon, a las 8:37 A.M. EST, Buckmaster publicó una densa demostración AI-aided, y señaló que el texto estaba sin pulir porque, «después de la última vez», él y Alpöge «no podían arriesgarse a esperar». Los dos aún no han publicado el certificado del resultado."
+        }
+      ]
+    },
+    "science/llm-aphasia-lesion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
+          "cap": "Crédito: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Durante más de 150 años, los investigadores han cartografiado el cerebro estudiando cómo las lesiones causan déficits conductuales. Un equipo especializado en trastornos del lenguaje y del habla tras un ictus afirma que el mismo marco puede aplicarse a los grandes modelos de lenguaje."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio publicado en Patterns, el equipo dirigido por Julius Fridriksson, de la University of South Carolina, cuyo laboratorio estudia la afasia mediante imágenes cerebrales de pacientes con ictus, se preguntó si podía \"perturbar capas del modelo de lenguaje\" y aplicarle las mismas pruebas clínicas que a los pacientes. \"Los LLMs se están desplegando en situaciones donde los fallos tienen consecuencias\", dice Fridriksson."
+        },
+        {
+          "t": "p",
+          "x": "Las \"lesiones\" introducidas deliberadamente produjeron errores de lenguaje parecidos a los de sus pacientes con afasia. El coautor Roger Newman-Norlund señala que los modelos cometen errores de lenguaje, cognición y comprensión similares a los humanos. Fridriksson afirma que el enfoque \"establece causa y efecto\", aunque advierte que el artículo muestra una correspondencia en los patrones de fallo, no en las estructuras reales."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores dicen que la interpretabilidad basada en lesiones podría ayudar a abrir la \"caja negra\" de los LLM e identificar partes redundantes, lo que llevaría a modelos más pequeños y eficientes en energía, y podría crear \"gemelos digitales\" de pacientes con afasia para simular ensayos clínicos. Fridriksson cree que el marco podría extenderse a otras afecciones neurológicas: \"Espero que este enfoque se adopte para hacer descubrimientos científicos que ayuden a los pacientes\"."
+        }
+      ]
     }
   }
 }

@@ -5053,6 +5053,119 @@
           "x": "Lunit Chairman Baek Seung-wook said, \"There is still no consensus on what it is worth to raise the cancer detection rate by 1%,\" stressing that rewards need to be predictable. National funds, national health insurance and private insurance were suggested as funding sources, but how the costs would be shared has not been decided."
         }
       ]
+    },
+    "medicine/npj-cloud-vs-local-llm-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Patient portal messaging carries a substantial share of outpatient communication, and rising message volume has slowed clinical response to urgent concerns embedded in routine traffic. Whether large language models (LLMs) can triage these messages, and whether locally hosted open-weight models can match cloud-hosted ones, remains unclear."
+        },
+        {
+          "t": "p",
+          "x": "We evaluated six LLMs (GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B) against a physician reference standard in three cohorts: 500 primary care messages enriched for urgent cases, 503 epilepsy clinic messages from the same health system, and 300 patient-authored messages from public platforms outside it."
+        },
+        {
+          "t": "p",
+          "x": "Under Majority adjudication in primary care, GPT-5 missed no urgent message, and four of six models, including one deployable on-premises, reached sensitivity 0.97 or higher and negative predictive value 0.98 or higher. Rank ordering held across cohorts. Both cloud-hosted and on-premise LLMs can rule out urgent messages with high sensitivity, though specificity remained limited."
+        }
+      ]
+    },
+    "medicine/jama-emotional-support-ai-cohort": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Generative artificial intelligence (AI) systems are now accessible sources of private emotional support, but their clinical value is uncertain. This 2-wave longitudinal internet-panel cohort study used 2024 baseline and 2025 follow-up data from the Japan COVID-19 and Society Internet Survey (JACSIS) to examine whether baseline mental health needs were associated with regular emotional-support generative AI use at follow-up among people without a usual source of care."
+        },
+        {
+          "t": "p",
+          "x": "Among 6852 respondents without a usual source of care, regular emotional-support AI use increased across need levels: 4.6% of lower-need respondents, 9.4% of elevated-need respondents, 16.3% of high-need respondents, and 20.7% of respondents with both indicators. The adjusted PR was 1.67 for elevated need, 2.61 for high need, and 2.71 for both indicators."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
+          "cap": "Regular emotional-support generative AI use by baseline mental health–need level"
+        },
+        {
+          "t": "p",
+          "x": "These findings should not be interpreted as evidence that AI use is therapeutic, safe, or a substitute for professional care. Instead, emotional-support AI use may be a marker of substantial support need and digital help-seeking among people whose needs may not be visible through usual care pathways."
+        }
+      ]
+    },
+    "medicine/revealdx-reviewer-lung-nodule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Lung nodule AI developer RevealDx is introducing two products for lung imaging and AI."
+        },
+        {
+          "t": "p",
+          "x": "The products include ReViewer, a diagnostic-quality image viewer for identifying and quantifying lung nodules, and ReViz, a quality assurance and practice management dashboard for monitoring AI performance."
+        },
+        {
+          "t": "p",
+          "x": "ReViewer allows the company’s RevealAI-Lung software to be deployed in any PACS, while ReViz lets healthcare providers track AI performance. Customers can continue to use third-party nodule detection and management systems, the company said."
+        },
+        {
+          "t": "p",
+          "x": "RevealAI-Lung received clearance from the U.S. Food and Drug Administration (FDA) in 2026 for use with incidentally detected lung nodules. RevealDx said it also plans to offer its RevealAI-Screen lung cancer screening software to U.S. patients at no charge, pending FDA clearance."
+        }
+      ]
+    },
+    "medicine/healthcaredive-shadow-ai-breaches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "Healthcare firms face serious cybersecurity risks because of their reliance on AI systems that they aren’t carefully monitoring, the security firm DNSFilter said in a report published Tuesday."
+        },
+        {
+          "t": "p",
+          "x": "In DNSFilter’s survey, only 27% of respondents said they were confident that their organization monitored all of their security tools, and 4 in 10 respondents said they monitored fewer than half of their tools."
+        },
+        {
+          "t": "p",
+          "x": "Twenty-seven percent of IT and cybersecurity professionals at healthcare organizations said they were aware of unauthorized AI connections to their platforms, while another 23% suspected such connections had occurred but couldn’t prove it. While 70% said their organizations have AI policies in place, only 40% said their companies enforce them consistently."
+        },
+        {
+          "t": "p",
+          "x": "At nearly half (47%) of healthcare organizations, employers can authorize a new AI tool to access their company’s systems without higher-level approval. One in 10 respondents said an unapproved AI tool had already led to a cybersecurity incident."
+        }
+      ]
+    },
+    "medicine/uhcleveland-ai-alerts-impact": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In this scientific presentation, researchers will highlight the real-world impact of AI alerts for flagging of potentially missed radiology findings."
+        },
+        {
+          "t": "p",
+          "x": "Presenter Charit R. Tippareddy, MD, of UH Radiology Cleveland and colleagues evaluated the real-world clinical impact, potential harm, and operational burden of AI “non-engagement” alerts. These alerts prompt radiologists to re-evaluate a case when they barely interacted with a positive AI result that went undocumented in the report."
+        },
+        {
+          "t": "p",
+          "x": "The group retrospectively analyzed 154 alerts generated over one year after a commercial AI platform was deployed across a large health system."
+        },
+        {
+          "t": "p",
+          "x": "Just 19 alerts (12%) resulted in meaningful management changes. Alerts for pulmonary embolism and intracranial hemorrhage were the most likely to change care, although some pulmonary embolism alerts led to treatment complications, including a major bleeding event, according to the researchers."
+        },
+        {
+          "t": "p",
+          "x": "However, the most common type — rib fracture alerts — had no meaningful clinical impact, and alerts for several other findings likewise didn’t change management. Yet every alert triggered a multi-step workflow managed by radiology informatics staff, making even low-yield alerts disproportionately time- and resource-intensive, the researchers observed."
+        },
+        {
+          "t": "p",
+          "x": "“AI alert systems should be evaluated based on real-world outcomes — not detection alone — to reduce alert fatigue, avoid unnecessary interventions, and ensure meaningful improvements in patient care,” the researchers wrote."
+        }
+      ]
     }
   }
 }

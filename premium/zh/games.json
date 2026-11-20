@@ -11907,6 +11907,134 @@
           "x": "解说员Bluepanda说\"他们根本没有真正感到抱歉\"，ProtoANZ则呼吁成立电竞从业者工会，争取\"基本上禁止在生成式AI中使用我们声音\"的合同条款。"
         }
       ]
+    },
+    "games/shiftup-bloodrain-handmade": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+          "cap": "图片来源：Shift Up"
+        },
+        {
+          "t": "p",
+          "x": "Stellar Blade: Blood Rain因一支充斥生成式AI内容、争议极大的音乐视频重回聚光灯下——这场风波促使Shift Up重新审视对这项争议技术的使用。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Kim Hyung-tae起初为视频辩护，称主角Evie最初是由人类开发者“从头到脚”打造的。随后Shift Up承诺会“认真”对待社区的担忧，同时表示AI对“游戏开发有很大的影响和作用”。"
+        },
+        {
+          "t": "p",
+          "x": "Kim在接受Inven Global采访时表示，这次反弹催生了一句新座右铭：“从头到尾纯手工打造。”但这并不意味着Shift Up已停止使用AI。贴图做旧、为性能削减多边形数量、测试光照以及整理等中间环节仍在使用AI，最后由人类开发者完成全部打磨。"
+        },
+        {
+          "t": "p",
+          "x": "Kim说，单纯追求“效率”和“生产力”并不可取：Shift Up用AI是为了提升品质，而不是加快发售。他认为，为效率而依赖AI的游戏最终会被视为“slop（粗制滥造之作）”——但完全不用这项技术已不再可行，因为从简单的质量保证到更深入的调试，处处都在用它。"
+        }
+      ]
+    },
+    "games/koeitecmo-ai-qa-gstar": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“我认为，游戏如果不是由人亲手制作，就绝不可能变得有趣。AI可以取代简单的工作，但最终思考什么好玩并把它做出来，是人的职责。”"
+        },
+        {
+          "t": "p",
+          "x": "光荣特库摩游戏旗下“Team NINJA”制作人（PD）柴田刚平19日在釜山BEXCO举行的“G-STAR 2026”上，就利用AI开发游戏一事如此表示。负责《仁王3》开发的柴田PD在“G-CON”演讲后接受了媒体采访，《卧龙2》的平山（Masakazu Hirayama）PD也一同出席。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+          "cap": "光荣特库摩Team NINJA的平山（Masakazu Hirayama）PD（左）与柴田刚平PD（右）正在接受采访。［摄影＝记者Kwak Min-gu］"
+        },
+        {
+          "t": "p",
+          "x": "柴田PD表示：“目前我们把AI用于质量检测（QA）和检查工作，让部分作业变得更高效。”他说：“作业时间缩短后，就能把相应的时间用来提高游戏的完成度。”关于AI的使用范围，他补充说：“由于这是一项新技术，我们仍在持续研究怎样用最好。”"
+        },
+        {
+          "t": "p",
+          "x": "平山PD说：“现在开发者依然以1~2帧为单位调整动作，来实现玩家能直观感受到的手感。”柴田PD强调：“按下按键时的响应速度和操作的简洁，是动作游戏的核心。”"
+        },
+        {
+          "t": "p",
+          "x": "在难度设计上，他们最看重敌人与玩家之间的公平性。平山PD解释说，即使第一次攻击就受到相当于80%体力的伤害，也能存活下来并应对下一次攻击，这也是一种方法。"
+        },
+        {
+          "t": "p",
+          "x": "Team NINJA每天分析日本的X、海外的Reddit、中国SNS等各地反应以及试玩版意见，以找出正式发售前需要改进的地方。平山PD在本届G-STAR的《卧龙2》试玩现场，也亲自观察玩家游玩并收集信息。"
+        }
+      ]
+    },
+    "games/taketwo-exboss-toystory-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+          "cap": "图片来源：Rockstar"
+        },
+        {
+          "t": "p",
+          "x": "曾主管Red Dead Redemption和Grand Theft Auto 4等游戏的Ex-Take Two掌门Ben Feder在与The Game Business交谈时表示，人们终有一天会接受AI——这只是时间问题。"
+        },
+        {
+          "t": "p",
+          "x": "“当动画从手绘转向电脑动画时，曾有一堵巨大的抵抗之墙，”他说。“人们觉得它不好看。后来Pixar推出了Toy Story。他们打造的电影不仅出色，还采用了电脑生成动画，并选择了能把这一技术发挥到极致的题材，完成得非常出色。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+          "cap": "图片来源：Rockstar"
+        },
+        {
+          "t": "p",
+          "x": "“Toy Story一推出，所有抵触都消失了。我个人认为，在西方，消费者接受电子游戏中的AI只差一个Toy Story时刻。在东方，他们已经接受了。”"
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer的作者认同，在中国和韩国等国家，游戏开发中的AI似乎更被广泛接受，但称将其与一部精心手工打造的电影相比“令人匪夷所思”，并引用现任Take-Two CEO Strauss Zelnick的话：“数据集本质上是向后看的，创造力本质上是向前看的。”"
+        }
+      ]
+    },
+    "games/songyee-yoon-ai-native-gbn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Songyee Yoon认为，即便看不到任何地下城，游戏的打法也将缔造下一波AI公司。这位Principal Venture Partners的管理合伙人、Ex-NCSoft总裁兼首席战略官，在San Francisco举行的GamesBeat Next 2026上与Dean Takahashi对谈。"
+        },
+        {
+          "t": "p",
+          "x": "Yoon表示，游戏的本质是“留存与参与”，她投资的创始人正把这些机制用于消费级AI应用。个性化的故事推进和生成式地下城直到最近才达到玩家乐于体验的品质；她举出投资组合公司Operative Games为例，其AI叙事能让角色出现在Zoom会议和日历邀请中。"
+        },
+        {
+          "t": "p",
+          "x": "如今，游戏在用户获取支出上要与预测市场应用和AI-made微短剧竞争。她说：“行业的挑战，是打造同样引人入胜、同样有趣的内容。”"
+        },
+        {
+          "t": "p",
+          "x": "Yoon引用一项她称出自Georgia Tech的研究说，AI-generated作品往往比人类作品更趋同质，这为逆向而行的创作者留下了空间。小型工作室如今能产出多得多的内容，但对初版输出不加修改，就可能产出粗劣内容。玩家是否在意AI，取决于玩家的动机，而非U.S.与亚洲之间的分野。"
+        }
+      ]
+    },
+    "games/unreal-mcp-ue58-course": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "OjffwpbcQsQ"
+        },
+        {
+          "t": "p",
+          "x": "Unreal MCP是Epic官方支持的方式，可将你常用的智能体AI工具直接接入Unreal Engine。它基于开放的MCP标准，让AI智能体理解你的项目并在编辑器中采取行动：创建、修改、测试和迭代你的作品。"
+        },
+        {
+          "t": "p",
+          "x": "在本课程中，Unreal Engine高级讲师Sam Deiter将带你了解上手Unreal MCP（在Unreal Engine 5.8中为实验性功能）所需的一切：关键术语、七步设置、故障排除与调试、工具集、编辑器内Terminal插件工作流程、配置设置、省时技巧，以及常见问题解答。"
+        }
+      ]
     }
   }
 }

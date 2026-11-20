@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "marketing",
   "cards": [
     {
-      "id": "coca-cola-enjoy-joy-liveaction",
+      "id": "marketing-google-chatgpt-coupons",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Coca-Cola 연말\nAI-made 광고 접는다",
-      "body": "Coca-Cola Enjoy Joy 광고는 AI-made 대신 실사로 돌아왔다.",
-      "mini_headline": "Coca-Cola, AI 광고서 한발 물러났다",
+      "headline": "AI 답변 속에\n쿠폰 코드가 뜬다",
+      "body": "Google AI Overviews와 ChatGPT 등이 할인 코드까지 띄운다.",
+      "mini_headline": "AI 답변에 뜨는 쿠폰 코드",
       "tool": "Marketing",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-chatgpt-coupon-codes-42581.html",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,203 +19,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-            "cap": "Coke의 “Enjoy Joy” TV 광고에는 가족과 친구들이 함께 연말을 보내는 모습이 담겼다. 사진 제공: Coca-Cola"
+            "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
           },
           {
             "t": "p",
-            "x": "Coca-Cola가 목요일 연말 캠페인을 시작했다. TV 광고 시리즈와 디지털·소셜 콘텐츠, 체험형 행사, 패키지, 제휴까지 아우른다. “Enjoy Joy” 광고에는 가족과 친구들이 미식축구를 하고 칠면조를 튀겨 함께 먹는 장면이 나온다. 30초·15초·6초 길이로 지상파 TV와 디지털, 스트리밍, 소셜에 나간다."
+            "x": "연말 쇼핑철이다. 검색창이나 AI 엔진에 판매처 쿠폰이나 프로모션 코드를 물으면 Google은 AI Overviews에서, ChatGPT는 답변 안에서 코드를 내놓는다. 다른 서비스도 다르지 않다. 쿠폰 사이트를 찾아갈 것 없이 AI 응답에서 바로 복사하면 된다."
           },
           {
             "t": "p",
-            "x": "눈에 띄는 대목은 생성형 인공지능을 쓰지 않았다는 점이다. 최근 연말 캠페인과는 다르다. Coca-Cola는 지난 두 해 동안 생성형 AI로 만든 광고를 내보냈고, 내부 기준치는 넘겼지만 소비자 반응은 엇갈렸다. 이번 캠페인은 WPP Open X가 만들고 Ogilvy가 이끌었다. 연출은 Paul Dektor, 제작은 Mayan Productions가 맡았다. 연말 마케터들이 사람이 만든 크리에이티브로 다시 무게를 옮기는 가운데 나온 캠페인이다."
-          },
-          {
-            "t": "video",
-            "yt": "DqV0bcaIzNc"
+            "x": "Google은 광고에서 십 년째 이 방식을 써 왔고, 클립형 쿠폰도 몇 년 전부터 운영한다. 판매자가 구조화 데이터로 코드를 Google에 넘기니 Google Search, Google Shopping, AI Overviews, AI Mode의 에이전트 구매까지 어디서든 코드가 뜬다."
           },
           {
             "t": "p",
-            "x": "확장 콘텐츠도 붙는다. Meta, TikTok, Pinterest, YouTube에서 크리에이터가 이끄는 콘텐츠와 “Grandma's Holiday Table” 소셜 시리즈, Amazon 미디어 제휴다. 연말 캐러밴 투어는 11월 5일 Nashville을 출발해 전국 270곳 이상을 돈다."
+            "x": "Glenn Gabe와 Metehan Yesilyurt는 스크린숏을 올리며 쿠폰 사이트가 타격을 받을 수 있다고 경고했다. Yesilyurt는 X에 \"쿠폰·제휴 사이트에는 나쁜 소식이다. 이들의 모델은 클릭이다... 코드가 이미 Copy 버튼과 함께 카드에 떠 있다면 누가 클릭하겠나\"라고 썼다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+            "cap": "Google AI Overviews"
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+            "cap": "ChatGPT"
           },
           {
             "t": "p",
-            "x": "“사람들이 이 브랜드에서 늘 사랑해 온 것에 충실하면서, Coca‑Cola를 이 계절의 일부로 만드는 새로운 방법을 찾는 일입니다.” Coca‑Cola Trademark 부사장 Stacy Jackson의 말이다."
+            "x": "Yesilyurt가 ChatGPT에서 받은 카드에는 브랜드마다 할인 내용과 종료일, Copy 버튼이 달린 코드, \"Get deal\" 버튼이 들어 있었다. Google AI Mode는 코드를 출처 카드와 함께 텍스트로 늘어놓았고, Claude는 Gizmodo와 Cybernews를 출처로 밝히며 일반 텍스트로 보여줬다. 웹사이트를 가장 존중한 쪽은 Bing이었다."
+          },
+          {
+            "t": "p",
+            "x": "일부 쿠폰 사이트는 Googlebot 같은 봇에 유효한 코드를 숨기는 방안을 검토할 수도 있다. 다만 상당수는 이미 구조화 데이터로 이 정보를 공유하고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Coca-Cola steps back from\nAI-made holiday ads",
-          "body": "Coca-Cola's 'Enjoy Joy' holiday campaign returns to live-action spots after two years of divisive AI-made ads.",
-          "mini_headline": "Coca-Cola steps back from AI ads",
+          "headline": "AI answers now surface\nmerchant coupon codes",
+          "body": "Google AI Overviews, ChatGPT and other AI engines now show merchant promo codes in answers, bypassing coupon sites.",
+          "mini_headline": "AI answers show coupon codes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Coke's “Enjoy Joy” TV spots show family and friends partaking in seasonal activities. Courtesy of Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Cola on Thursday launched a holiday campaign that includes a series of TV spots, digital and social content, experiential activations, packaging and partnerships. The “Enjoy Joy” spots show family and friends playing football, deep-frying a turkey and enjoying meals, in 30-, 15- and six-second formats across linear TV, digital, streaming and social."
+                "x": "Tis the season for holiday shopping. Ask a search or AI engine about a merchant's coupon or promo codes and Google provides them in AI Overviews, ChatGPT provides them in its answers, and so do the others - you don't have to go to the coupon websites, you just copy them from the AI response."
               },
               {
                 "t": "p",
-                "x": "Notably, the new spots pivot away from using generative artificial intelligence as the brand did for recent holiday pushes. Coca-Cola ran ads during the last two years made with generative AI that — despite exceeding internal benchmarks — proved divisive with consumers. The campaign was created by WPP Open X and led by Ogilvy, directed by Paul Dektor and produced by Mayan Productions, and arrives as holiday marketers double down on human-made creative."
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Google has been doing this in its ads for a decade and clippable coupons have been live for several years. Merchants hand the codes to Google in structured data, so they show up everywhere, including Google Search, Google Shopping, AI Overviews and agentic buying in AI Mode."
               },
               {
                 "t": "p",
-                "x": "Extensions include creator-led content across Meta, TikTok, Pinterest and YouTube, a “Grandma's Holiday Table” social series and an Amazon media partnership. The holiday caravan tour kicked off Nov. 5 in Nashville and will make more than 270 stops nationwide."
+                "x": "Glenn Gabe and Metehan Yesilyurt shared screenshots and warned it can hurt coupon sites. \"This is bad news for coupon and affiliate sites. Their model is the click... If the code is already on the card with a Copy button, why would anyone click,\" Yesilyurt wrote on X."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "“It's about finding new ways to make Coca‑Cola part of the season while staying true to what people have always loved about the brand,” said Stacy Jackson, vice president for the Coca‑Cola Trademark."
+                "x": "In ChatGPT, Yesilyurt got a card for each brand with the discount, an end date, the code with a Copy button and a \"Get deal\" button. Google AI Mode lists codes as text with source cards, Claude lists them as plain text naming Gizmodo and Cybernews, and Bing showed the most respect for websites."
+              },
+              {
+                "t": "p",
+                "x": "Some coupon sites may consider not showing valid codes to Googlebot or other bots, but many already share this data in their structured data."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Coca-Cola 연말\nAI-made 광고 접는다",
-          "body": "Coca-Cola Enjoy Joy 광고는 AI-made 대신 실사로 돌아왔다.",
-          "mini_headline": "Coca-Cola, AI 광고서 한발 물러났다",
+          "headline": "AI 답변 속에\n쿠폰 코드가 뜬다",
+          "body": "Google AI Overviews와 ChatGPT 등이 할인 코드까지 띄운다.",
+          "mini_headline": "AI 답변에 뜨는 쿠폰 코드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Coke의 “Enjoy Joy” TV 광고에는 가족과 친구들이 함께 연말을 보내는 모습이 담겼다. 사진 제공: Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Cola가 목요일 연말 캠페인을 시작했다. TV 광고 시리즈와 디지털·소셜 콘텐츠, 체험형 행사, 패키지, 제휴까지 아우른다. “Enjoy Joy” 광고에는 가족과 친구들이 미식축구를 하고 칠면조를 튀겨 함께 먹는 장면이 나온다. 30초·15초·6초 길이로 지상파 TV와 디지털, 스트리밍, 소셜에 나간다."
+                "x": "연말 쇼핑철이다. 검색창이나 AI 엔진에 판매처 쿠폰이나 프로모션 코드를 물으면 Google은 AI Overviews에서, ChatGPT는 답변 안에서 코드를 내놓는다. 다른 서비스도 다르지 않다. 쿠폰 사이트를 찾아갈 것 없이 AI 응답에서 바로 복사하면 된다."
               },
               {
                 "t": "p",
-                "x": "눈에 띄는 대목은 생성형 인공지능을 쓰지 않았다는 점이다. 최근 연말 캠페인과는 다르다. Coca-Cola는 지난 두 해 동안 생성형 AI로 만든 광고를 내보냈고, 내부 기준치는 넘겼지만 소비자 반응은 엇갈렸다. 이번 캠페인은 WPP Open X가 만들고 Ogilvy가 이끌었다. 연출은 Paul Dektor, 제작은 Mayan Productions가 맡았다. 연말 마케터들이 사람이 만든 크리에이티브로 다시 무게를 옮기는 가운데 나온 캠페인이다."
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Google은 광고에서 십 년째 이 방식을 써 왔고, 클립형 쿠폰도 몇 년 전부터 운영한다. 판매자가 구조화 데이터로 코드를 Google에 넘기니 Google Search, Google Shopping, AI Overviews, AI Mode의 에이전트 구매까지 어디서든 코드가 뜬다."
               },
               {
                 "t": "p",
-                "x": "확장 콘텐츠도 붙는다. Meta, TikTok, Pinterest, YouTube에서 크리에이터가 이끄는 콘텐츠와 “Grandma's Holiday Table” 소셜 시리즈, Amazon 미디어 제휴다. 연말 캐러밴 투어는 11월 5일 Nashville을 출발해 전국 270곳 이상을 돈다."
+                "x": "Glenn Gabe와 Metehan Yesilyurt는 스크린숏을 올리며 쿠폰 사이트가 타격을 받을 수 있다고 경고했다. Yesilyurt는 X에 \"쿠폰·제휴 사이트에는 나쁜 소식이다. 이들의 모델은 클릭이다... 코드가 이미 Copy 버튼과 함께 카드에 떠 있다면 누가 클릭하겠나\"라고 썼다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "“사람들이 이 브랜드에서 늘 사랑해 온 것에 충실하면서, Coca‑Cola를 이 계절의 일부로 만드는 새로운 방법을 찾는 일입니다.” Coca‑Cola Trademark 부사장 Stacy Jackson의 말이다."
+                "x": "Yesilyurt가 ChatGPT에서 받은 카드에는 브랜드마다 할인 내용과 종료일, Copy 버튼이 달린 코드, \"Get deal\" 버튼이 들어 있었다. Google AI Mode는 코드를 출처 카드와 함께 텍스트로 늘어놓았고, Claude는 Gizmodo와 Cybernews를 출처로 밝히며 일반 텍스트로 보여줬다. 웹사이트를 가장 존중한 쪽은 Bing이었다."
+              },
+              {
+                "t": "p",
+                "x": "일부 쿠폰 사이트는 Googlebot 같은 봇에 유효한 코드를 숨기는 방안을 검토할 수도 있다. 다만 상당수는 이미 구조화 데이터로 이 정보를 공유하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Coca-Cola、年末の\nAI-made広告から撤退",
-          "body": "Coca-Colaの年末広告Enjoy Joyは、AI-madeをやめ実写に戻った。",
-          "mini_headline": "Coca-Cola、AI広告から一歩後退",
+          "headline": "AIの回答が今や\nクーポンコードを表示",
+          "body": "Google AI OverviewsやChatGPTが回答で店のプロモコードを示す。",
+          "mini_headline": "AI回答にクーポンコード",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Cokeの「Enjoy Joy」TVスポットは、家族や友人が季節の行事を楽しむ様子を描く。提供：Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Colaは木曜日、TVスポットのシリーズ、デジタル・ソーシャルコンテンツ、体験型施策、パッケージ、パートナーシップを含む年末キャンペーンを始めた。「Enjoy Joy」のスポットは、家族や友人がアメリカンフットボールをし、七面鳥を揚げ、食事を楽しむ姿を描く。尺は30秒・15秒・6秒で、地上波TV、デジタル、ストリーミング、ソーシャルに展開する。"
+                "x": "年末商戦の季節だ。検索エンジンやAIエンジンに店のクーポンやプロモコードを尋ねると、GoogleはAI Overviewsで、ChatGPTは回答の中で提示し、他のサービスも同様だ。クーポンサイトに行く必要はなく、AIの回答からコピーするだけでよい。"
               },
               {
                 "t": "p",
-                "x": "注目すべきは、新しいスポットが近年の年末キャンペーンと異なり、生成人工知能を使っていない点だ。Coca-Colaは過去二年間、生成AIで制作した広告を流し、社内の基準は上回ったものの、消費者の評価は割れた。今回のキャンペーンはWPP Open Xが制作し、Ogilvyが主導した。監督はPaul Dektor、プロダクションはMayan Productionsが担った。年末商戦のマーケターが人の手によるクリエイティブに再び力を入れるなかでの展開である。"
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Googleは広告で十年前からこれを行い、クリップ可能なクーポンも数年前から提供している。販売者が構造化データでコードをGoogleに渡すため、Google Search、Google Shopping、AI Overviews、AI Modeでのエージェント購入など、あらゆる場所に表示される。"
               },
               {
                 "t": "p",
-                "x": "展開施策として、Meta、TikTok、Pinterest、YouTubeでのクリエイター主導のコンテンツ、ソーシャルシリーズ「Grandma's Holiday Table」、Amazonとのメディア提携がある。年末のキャラバンツアーは11月5日にNashvilleで始まり、全国270カ所以上を回る。"
+                "x": "Glenn GabeとMetehan Yesilyurtはスクリーンショットを共有し、クーポンサイトに打撃になりうると警告した。YesilyurtはXに「クーポンやアフィリエイトのサイトには悪い知らせだ。彼らのモデルはクリックだ……コードがすでにCopyボタン付きでカードに載っていれば、誰がクリックするだろうか」と書いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "「人々がこのブランドにずっと愛してきたものを大切にしながら、Coca‑Colaをこの季節の一部にする新しい方法を見つけることです」と、Coca‑Cola Trademark担当副社長のStacy Jacksonは述べた。"
+                "x": "ChatGPTでYesilyurtが得たのは、ブランドごとに割引内容、終了日、Copyボタン付きのコード、「Get deal」ボタンを載せたカードだった。Google AI Modeは出典カードとともにコードをテキストで並べ、ClaudeはGizmodoとCybernewsの名を挙げてプレーンテキストで示した。ウェブサイトへの配慮が最も厚かったのはBingだ。"
+              },
+              {
+                "t": "p",
+                "x": "一部のクーポンサイトはGooglebotなどのボットに有効なコードを見せないことを検討するかもしれないが、多くはすでに構造化データでこの情報を共有している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Coca-Cola节日广告\n不再走AI-made路线",
-          "body": "Coca-Cola节日广告Enjoy Joy在两年AI-made广告后回归真人实拍。",
-          "mini_headline": "Coca-Cola告别AI广告",
+          "headline": "AI回答开始展示\n商家优惠券代码",
+          "body": "Google AI Overviews、ChatGPT等AI引擎在回答中给出商家优惠码。",
+          "mini_headline": "AI回答显示优惠码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Coke的“Enjoy Joy”TV广告展现家人和朋友参与节日活动的场景。图片来源：Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Cola周四推出节日营销活动，涵盖一系列TV广告、数字与社交内容、体验式活动、包装和合作。“Enjoy Joy”广告展现家人和朋友打橄榄球、油炸火鸡、共享美食的画面，分为30秒、15秒和六秒版本，投放于传统线性TV、数字、流媒体和社交平台。"
+                "x": "又到了节日购物季。向搜索引擎或AI引擎询问某商家的优惠券或促销码，Google会在AI Overviews中给出，ChatGPT会在回答中给出，其他引擎也一样——不必再去优惠券网站，直接从AI回答里复制即可。"
               },
               {
                 "t": "p",
-                "x": "值得注意的是，新广告不再像该品牌近年的节日营销那样使用生成式人工智能。过去两年，Coca-Cola投放了用生成式AI制作的广告，尽管超出了内部基准，却在消费者中引发争议。此次活动由WPP Open X打造、Ogilvy牵头，Paul Dektor执导，Mayan Productions制作。与此同时，节日营销人员正加大对人工创意的投入。"
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Google在广告中这样做已有十年，可剪取优惠券也已上线数年。商家通过结构化数据把优惠码交给Google，因此它们出现在各处，包括Google Search、Google Shopping、AI Overviews以及AI Mode中的智能体购物。"
               },
               {
                 "t": "p",
-                "x": "延伸内容包括Meta、TikTok、Pinterest和YouTube上由创作者主导的内容、“Grandma's Holiday Table”社交系列，以及与Amazon的媒体合作。节日巡游车队已于11月5日从Nashville出发，将在全国停靠270多站。"
+                "x": "Glenn Gabe和Metehan Yesilyurt分享了截图，并警告这可能伤害优惠券网站。Yesilyurt在X上写道：“这对优惠券和联盟网站是坏消息。它们的模式是点击……如果优惠码已经和Copy按钮一起出现在卡片上，谁还会点击？”"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "“这是要找到新方法，让Coca‑Cola成为这个季节的一部分，同时忠于人们一直喜爱这个品牌的地方。”Coca‑Cola Trademark副总裁Stacy Jackson表示。"
+                "x": "在ChatGPT中，Yesilyurt看到每个品牌一张卡片，包含折扣、截止日期、带Copy按钮的优惠码和“Get deal”按钮。Google AI Mode以文本形式列出优惠码并附来源卡片，Claude以纯文本列出并注明Gizmodo和Cybernews，而Bing对网站最为尊重。"
+              },
+              {
+                "t": "p",
+                "x": "一些优惠券网站可能考虑不向Googlebot或其他爬虫显示有效优惠码，但许多网站早已在结构化数据中共享这些信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Coca-Cola se aleja de los\nanuncios festivos AI-made",
-          "body": "La campaña de fiestas 'Enjoy Joy' de Coca-Cola vuelve a la acción real tras dos años de polémicos anuncios AI-made.",
-          "mini_headline": "Coca-Cola se aleja de los anuncios con AI",
+          "headline": "Las respuestas de AI ya muestran\ncódigos de cupón de comercios",
+          "body": "Google AI Overviews, ChatGPT y otros motores de AI ya muestran códigos promocionales, sin pasar por webs de cupones.",
+          "mini_headline": "Respuestas de AI con cupones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Los spots de TV “Enjoy Joy” de Coke muestran a familiares y amigos en actividades de temporada. Cortesía de Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Cola lanzó el jueves una campaña de fiestas que incluye una serie de spots de TV, contenido digital y social, activaciones experienciales, envases y alianzas. Los spots de “Enjoy Joy” muestran a familiares y amigos jugando al fútbol americano, friendo un pavo y disfrutando de comidas, en formatos de 30, 15 y seis segundos para TV lineal, digital, streaming y redes sociales."
+                "x": "Es temporada de compras navideñas. Si se pregunta a un buscador o a un motor de AI por los cupones o códigos promocionales de un comercio, Google los ofrece en AI Overviews, ChatGPT en sus respuestas y los demás también: no hace falta ir a las webs de cupones, basta con copiarlos de la respuesta de la AI."
               },
               {
                 "t": "p",
-                "x": "Llama la atención que los nuevos spots dejan de lado la inteligencia artificial generativa que la marca usó en sus campañas de fiestas recientes. Durante los dos últimos años, Coca-Cola emitió anuncios hechos con AI generativa que, pese a superar sus referencias internas, dividieron a los consumidores. La campaña fue creada por WPP Open X y liderada por Ogilvy, con dirección de Paul Dektor y producción de Mayan Productions, y llega cuando los anunciantes de temporada apuestan con más fuerza por la creatividad hecha por personas."
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Google lleva una década haciéndolo en sus anuncios y los cupones recortables funcionan desde hace varios años. Los comercios entregan los códigos a Google mediante datos estructurados, así que aparecen en todas partes, incluidos Google Search, Google Shopping, AI Overviews y la compra agéntica en AI Mode."
               },
               {
                 "t": "p",
-                "x": "Las extensiones incluyen contenido de creadores en Meta, TikTok, Pinterest y YouTube, la serie social “Grandma's Holiday Table” y una alianza de medios con Amazon. La gira de caravanas de fiestas arrancó el 5 de noviembre en Nashville y hará más de 270 paradas en todo el país."
+                "x": "Glenn Gabe y Metehan Yesilyurt compartieron capturas y advirtieron que esto puede perjudicar a las webs de cupones. \"Es una mala noticia para las webs de cupones y de afiliados. Su modelo es el clic... Si el código ya está en la tarjeta con un botón Copy, ¿por qué alguien haría clic?\", escribió Yesilyurt en X."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "“Se trata de encontrar nuevas formas de hacer que Coca‑Cola forme parte de la temporada sin dejar de ser fieles a lo que la gente siempre ha amado de la marca”, dijo Stacy Jackson, quien ocupa la vicepresidencia de Coca‑Cola Trademark."
+                "x": "En ChatGPT, Yesilyurt obtuvo una tarjeta por marca con el descuento, una fecha de fin, el código con un botón Copy y un botón \"Get deal\". Google AI Mode muestra los códigos como texto con tarjetas de fuente, Claude los lista como texto plano citando a Gizmodo y Cybernews, y Bing fue el que más respetó a los sitios web."
+              },
+              {
+                "t": "p",
+                "x": "Algunas webs de cupones podrían plantearse no mostrar códigos válidos a Googlebot u otros bots, pero muchas ya comparten estos datos en sus datos estructurados."
               }
             ]
           }
@@ -223,141 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Coca-Cola 연말\nAI-made 광고 접는다",
-          "body": "Coca-Cola Enjoy Joy 광고가 AI-made를 접고 실사로 돌아왔다.",
-          "mini_headline": "Coca-Cola, AI 광고에서 한발 물러서다",
+          "headline": "AI 답변이 이제\n쿠폰 코드를 보여준다",
+          "body": "Google AI Overviews와 ChatGPT 등이 할인 코드를 보여준다.",
+          "mini_headline": "AI 답변에 쿠폰 코드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Coke의 “Enjoy Joy” TV 광고에는 가족과 친구들이 연말 활동을 즐기는 모습이 담겼다. 사진 제공: Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Cola는 목요일 TV 광고 시리즈와 디지털·소셜 콘텐츠, 체험형 행사, 패키지, 제휴를 아우르는 연말 캠페인을 시작했다. “Enjoy Joy” 광고는 가족과 친구들이 미식축구를 하고 칠면조를 튀기며 식사를 즐기는 모습을 담았고, 30초·15초·6초 길이로 지상파 TV와 디지털, 스트리밍, 소셜에 나간다."
+                "x": "연말 쇼핑 시즌이다. 검색이나 AI 엔진에 판매처의 쿠폰이나 프로모션 코드를 물으면 Google은 AI Overviews에서, ChatGPT는 답변에서 코드를 보여주고 다른 서비스도 마찬가지다. 쿠폰 사이트에 갈 필요 없이 AI 응답에서 복사하면 된다."
               },
               {
                 "t": "p",
-                "x": "눈에 띄는 점은 새 광고가 최근 연말 캠페인과 달리 생성형 인공지능을 쓰지 않았다는 것이다. Coca-Cola는 지난 두 해 동안 생성형 AI로 만든 광고를 내보냈는데, 내부 기준치는 웃돌았지만 소비자 반응은 엇갈렸다. 이번 캠페인은 WPP Open X가 만들고 Ogilvy가 이끌었으며, Paul Dektor가 연출하고 Mayan Productions가 제작했다. 연말 마케터들이 사람이 만든 크리에이티브에 다시 힘을 싣는 흐름 속에 나온 캠페인이다."
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Google은 광고에서 이미 십 년째 이렇게 해 왔고, 클립형 쿠폰도 몇 년 전부터 운영하고 있다. 판매자가 구조화 데이터로 코드를 Google에 넘기기 때문에 Google Search, Google Shopping, AI Overviews, AI Mode의 에이전트 구매 등 어디에나 코드가 노출된다."
               },
               {
                 "t": "p",
-                "x": "확장 콘텐츠로는 Meta, TikTok, Pinterest, YouTube의 크리에이터 주도 콘텐츠와 “Grandma's Holiday Table” 소셜 시리즈, Amazon 미디어 제휴가 있다. 연말 캐러밴 투어는 11월 5일 Nashville에서 출발했고, 전국 270곳 이상을 돈다."
+                "x": "Glenn Gabe와 Metehan Yesilyurt는 스크린숏을 공유하며 쿠폰 사이트가 타격을 입을 수 있다고 경고했다. Yesilyurt는 X에 \"쿠폰·제휴 사이트에는 나쁜 소식이다. 이들의 모델은 클릭이다... 코드가 이미 Copy 버튼과 함께 카드에 떠 있다면 누가 클릭하겠나\"라고 썼다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "“사람들이 이 브랜드에서 늘 사랑해 온 것에 충실하면서, Coca‑Cola를 이 계절의 일부로 만드는 새로운 방법을 찾는 일입니다.” Coca‑Cola Trademark 부사장 Stacy Jackson의 말이다."
+                "x": "ChatGPT에서 Yesilyurt는 브랜드마다 할인 내용, 종료일, Copy 버튼이 달린 코드, \"Get deal\" 버튼을 담은 카드를 받았다. Google AI Mode는 코드를 출처 카드와 함께 텍스트로 나열하고, Claude는 Gizmodo와 Cybernews를 밝히며 일반 텍스트로 보여줬다. 웹사이트를 가장 존중한 곳은 Bing이었다."
+              },
+              {
+                "t": "p",
+                "x": "일부 쿠폰 사이트는 Googlebot 등 봇에 유효한 코드를 보여주지 않는 방안을 검토할 수 있지만, 상당수는 이미 구조화 데이터로 이 정보를 공유하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Coca-Cola、年末の\nAI-made広告から撤退",
-          "body": "Coca-Colaの年末広告Enjoy Joyは、AI-madeをやめ実写に戻った。",
-          "mini_headline": "Coca-Cola、AI広告から一歩後退",
+          "headline": "AIの回答が今や\nクーポンコードを表示",
+          "body": "Google AI OverviewsやChatGPTが回答で店のプロモコードを示す。",
+          "mini_headline": "AI回答にクーポンコード",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Cokeの「Enjoy Joy」TVスポットは、家族や友人が季節の行事を楽しむ様子を描く。提供：Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Colaは木曜日、TVスポットのシリーズ、デジタル・ソーシャルコンテンツ、体験型施策、パッケージ、パートナーシップを含む年末キャンペーンを始めた。「Enjoy Joy」のスポットは、家族や友人がアメリカンフットボールをし、七面鳥を揚げ、食事を楽しむ姿を描く。尺は30秒・15秒・6秒で、地上波TV、デジタル、ストリーミング、ソーシャルに展開する。"
+                "x": "年末商戦の季節だ。検索エンジンやAIエンジンに店のクーポンやプロモコードを尋ねると、GoogleはAI Overviewsで、ChatGPTは回答の中で提示し、他のサービスも同様だ。クーポンサイトに行く必要はなく、AIの回答からコピーするだけでよい。"
               },
               {
                 "t": "p",
-                "x": "注目すべきは、新しいスポットが近年の年末キャンペーンと異なり、生成人工知能を使っていない点だ。Coca-Colaは過去二年間、生成AIで制作した広告を流し、社内の基準は上回ったものの、消費者の評価は割れた。今回のキャンペーンはWPP Open Xが制作し、Ogilvyが主導した。監督はPaul Dektor、プロダクションはMayan Productionsが担った。年末商戦のマーケターが人の手によるクリエイティブに再び力を入れるなかでの展開である。"
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Googleは広告で十年前からこれを行い、クリップ可能なクーポンも数年前から提供している。販売者が構造化データでコードをGoogleに渡すため、Google Search、Google Shopping、AI Overviews、AI Modeでのエージェント購入など、あらゆる場所に表示される。"
               },
               {
                 "t": "p",
-                "x": "展開施策として、Meta、TikTok、Pinterest、YouTubeでのクリエイター主導のコンテンツ、ソーシャルシリーズ「Grandma's Holiday Table」、Amazonとのメディア提携がある。年末のキャラバンツアーは11月5日にNashvilleで始まり、全国270カ所以上を回る。"
+                "x": "Glenn GabeとMetehan Yesilyurtはスクリーンショットを共有し、クーポンサイトに打撃になりうると警告した。YesilyurtはXに「クーポンやアフィリエイトのサイトには悪い知らせだ。彼らのモデルはクリックだ……コードがすでにCopyボタン付きでカードに載っていれば、誰がクリックするだろうか」と書いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "「人々がこのブランドにずっと愛してきたものを大切にしながら、Coca‑Colaをこの季節の一部にする新しい方法を見つけることです」と、Coca‑Cola Trademark担当副社長のStacy Jacksonは述べた。"
+                "x": "ChatGPTでYesilyurtが得たのは、ブランドごとに割引内容、終了日、Copyボタン付きのコード、「Get deal」ボタンを載せたカードだった。Google AI Modeは出典カードとともにコードをテキストで並べ、ClaudeはGizmodoとCybernewsの名を挙げてプレーンテキストで示した。ウェブサイトへの配慮が最も厚かったのはBingだ。"
+              },
+              {
+                "t": "p",
+                "x": "一部のクーポンサイトはGooglebotなどのボットに有効なコードを見せないことを検討するかもしれないが、多くはすでに構造化データでこの情報を共有している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Coca-Cola节日广告\n不再走AI-made路线",
-          "body": "Coca-Cola节日广告Enjoy Joy在两年AI-made广告后回归真人实拍。",
-          "mini_headline": "Coca-Cola告别AI广告",
+          "headline": "AI回答开始展示\n商家优惠券代码",
+          "body": "Google AI Overviews、ChatGPT等AI引擎在回答中给出商家优惠码。",
+          "mini_headline": "AI回答显示优惠码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Coke的“Enjoy Joy”TV广告展现家人和朋友参与节日活动的场景。图片来源：Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Cola周四推出节日营销活动，涵盖一系列TV广告、数字与社交内容、体验式活动、包装和合作。“Enjoy Joy”广告展现家人和朋友打橄榄球、油炸火鸡、共享美食的画面，分为30秒、15秒和六秒版本，投放于传统线性TV、数字、流媒体和社交平台。"
+                "x": "又到了节日购物季。向搜索引擎或AI引擎询问某商家的优惠券或促销码，Google会在AI Overviews中给出，ChatGPT会在回答中给出，其他引擎也一样——不必再去优惠券网站，直接从AI回答里复制即可。"
               },
               {
                 "t": "p",
-                "x": "值得注意的是，新广告不再像该品牌近年的节日营销那样使用生成式人工智能。过去两年，Coca-Cola投放了用生成式AI制作的广告，尽管超出了内部基准，却在消费者中引发争议。此次活动由WPP Open X打造、Ogilvy牵头，Paul Dektor执导，Mayan Productions制作。与此同时，节日营销人员正加大对人工创意的投入。"
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Google在广告中这样做已有十年，可剪取优惠券也已上线数年。商家通过结构化数据把优惠码交给Google，因此它们出现在各处，包括Google Search、Google Shopping、AI Overviews以及AI Mode中的智能体购物。"
               },
               {
                 "t": "p",
-                "x": "延伸内容包括Meta、TikTok、Pinterest和YouTube上由创作者主导的内容、“Grandma's Holiday Table”社交系列，以及与Amazon的媒体合作。节日巡游车队已于11月5日从Nashville出发，将在全国停靠270多站。"
+                "x": "Glenn Gabe和Metehan Yesilyurt分享了截图，并警告这可能伤害优惠券网站。Yesilyurt在X上写道：“这对优惠券和联盟网站是坏消息。它们的模式是点击……如果优惠码已经和Copy按钮一起出现在卡片上，谁还会点击？”"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "“这是要找到新方法，让Coca‑Cola成为这个季节的一部分，同时忠于人们一直喜爱这个品牌的地方。”Coca‑Cola Trademark副总裁Stacy Jackson表示。"
+                "x": "在ChatGPT中，Yesilyurt看到每个品牌一张卡片，包含折扣、截止日期、带Copy按钮的优惠码和“Get deal”按钮。Google AI Mode以文本形式列出优惠码并附来源卡片，Claude以纯文本列出并注明Gizmodo和Cybernews，而Bing对网站最为尊重。"
+              },
+              {
+                "t": "p",
+                "x": "一些优惠券网站可能考虑不向Googlebot或其他爬虫显示有效优惠码，但许多网站早已在结构化数据中共享这些信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Coca-Cola se aleja de los\nanuncios festivos AI-made",
-          "body": "La campaña de fiestas 'Enjoy Joy' de Coca-Cola vuelve a la acción real tras dos años de polémicos anuncios AI-made.",
-          "mini_headline": "Coca-Cola se aleja de los anuncios con AI",
+          "headline": "Las respuestas de AI ya muestran\ncódigos de cupón de comercios",
+          "body": "Google AI Overviews, ChatGPT y otros motores de AI ya muestran códigos promocionales, sin pasar por webs de cupones.",
+          "mini_headline": "Respuestas de AI con cupones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
-                "cap": "Los spots de TV “Enjoy Joy” de Coke muestran a familiares y amigos en actividades de temporada. Cortesía de Coca-Cola"
+                "src": "https://images.seroundtable.com/coupon-codes-cards-Mtp1AtL2.jpg"
               },
               {
                 "t": "p",
-                "x": "Coca-Cola lanzó el jueves una campaña de fiestas que incluye una serie de spots de TV, contenido digital y social, activaciones experienciales, envases y alianzas. Los spots de “Enjoy Joy” muestran a familiares y amigos jugando al fútbol americano, friendo un pavo y disfrutando de comidas, en formatos de 30, 15 y seis segundos para TV lineal, digital, streaming y redes sociales."
+                "x": "Es temporada de compras navideñas. Si se pregunta a un buscador o a un motor de AI por los cupones o códigos promocionales de un comercio, Google los ofrece en AI Overviews, ChatGPT en sus respuestas y los demás también: no hace falta ir a las webs de cupones, basta con copiarlos de la respuesta de la AI."
               },
               {
                 "t": "p",
-                "x": "Llama la atención que los nuevos spots dejan de lado la inteligencia artificial generativa que la marca usó en sus campañas de fiestas recientes. Durante los dos últimos años, Coca-Cola emitió anuncios hechos con AI generativa que, pese a superar sus referencias internas, dividieron a los consumidores. La campaña fue creada por WPP Open X y liderada por Ogilvy, con dirección de Paul Dektor y producción de Mayan Productions, y llega cuando los anunciantes de temporada apuestan con más fuerza por la creatividad hecha por personas."
-              },
-              {
-                "t": "video",
-                "yt": "DqV0bcaIzNc"
+                "x": "Google lleva una década haciéndolo en sus anuncios y los cupones recortables funcionan desde hace varios años. Los comercios entregan los códigos a Google mediante datos estructurados, así que aparecen en todas partes, incluidos Google Search, Google Shopping, AI Overviews y la compra agéntica en AI Mode."
               },
               {
                 "t": "p",
-                "x": "Las extensiones incluyen contenido de creadores en Meta, TikTok, Pinterest y YouTube, la serie social “Grandma's Holiday Table” y una alianza de medios con Amazon. La gira de caravanas de fiestas arrancó el 5 de noviembre en Nashville y hará más de 270 paradas en todo el país."
+                "x": "Glenn Gabe y Metehan Yesilyurt compartieron capturas y advirtieron que esto puede perjudicar a las webs de cupones. \"Es una mala noticia para las webs de cupones y de afiliados. Su modelo es el clic... Si el código ya está en la tarjeta con un botón Copy, ¿por qué alguien haría clic?\", escribió Yesilyurt en X."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-overview-coupon-code-VPIb4eLE.jpg",
+                "cap": "Google AI Overviews"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-coupon-codes-gN3BoWUi.jpg",
+                "cap": "ChatGPT"
               },
               {
                 "t": "p",
-                "x": "“Se trata de encontrar nuevas formas de hacer que Coca‑Cola forme parte de la temporada sin dejar de ser fieles a lo que la gente siempre ha amado de la marca”, dijo Stacy Jackson, quien ocupa la vicepresidencia de Coca‑Cola Trademark."
+                "x": "En ChatGPT, Yesilyurt obtuvo una tarjeta por marca con el descuento, una fecha de fin, el código con un botón Copy y un botón \"Get deal\". Google AI Mode muestra los códigos como texto con tarjetas de fuente, Claude los lista como texto plano citando a Gizmodo y Cybernews, y Bing fue el que más respetó a los sitios web."
+              },
+              {
+                "t": "p",
+                "x": "Algunas webs de cupones podrían plantearse no mostrar códigos válidos a Googlebot u otros bots, pero muchas ya comparten estos datos en sus datos estructurados."
               }
             ]
           }
@@ -365,551 +455,309 @@
       }
     },
     {
-      "id": "kca-ai-fake-doctor-ads",
-      "source_lang": "ko",
+      "id": "marketing-bing-made-with-ai-label",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 가짜 의사 광고\n소비자원·플랫폼이 막는다",
-      "body": "소비자원이 네이버·카카오·틱톡과 AI 가짜 의사·유명인 광고를 감시·차단한다.",
-      "mini_headline": "AI 가짜 의사 광고 차단",
+      "headline": "Microsoft 광고에\nMade with AI",
+      "body": "Bing 광고 속 AI-generated 이미지엔 Made with AI가 붙는다.",
+      "mini_headline": "Microsoft 광고의 AI 이미지 라벨",
       "tool": "Marketing",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/economy/trend/6359058",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/bing-ads-made-with-ai-label-42579.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-            "cap": "기사 이해를 돕기 위한 AI 이미지."
+            "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
           },
           {
             "t": "p",
-            "x": "인공지능(AI)으로 만든 가짜 의사나 유명인을 내세운 부당광고를 신속하게 차단하기 위해 한국소비자원이 네이버·카카오·틱톡과 협력체계를 구축했다. 지난해 구글에 이어 협력 대상을 국내외 주요 플랫폼 4곳으로 넓혔다."
+            "x": "Microsoft가 Microsoft Advertising과 Bing Search 곳곳의 일부 광고에 \"Made with AI\"라는 새 라벨을 달기 시작했다. 광고 이미지 모서리에 붙는 이 라벨에는 \"Made with AI\"라고 적혀 있다."
           },
           {
             "t": "p",
-            "x": "최근 소셜미디어를 중심으로 AI로 생성한 가짜 전문가나 가상인물이 등장하는 부당광고가 확산하면서 소비자 피해 우려가 커지고 있다. 특히 라이브커머스와 쇼트폼 등 영상 광고는 정보 확산 속도가 빨라 신속한 대응이 필요하다는 설명이다."
+            "x": "Microsoft는 블로그에 스크린숏을 올리며 \"이제 Microsoft Advertising에서 AI 콘텐츠 투명성 제어 기능을 정식으로 쓸 수 있다\"고 밝혔다."
           },
           {
             "t": "p",
-            "x": "소비자원이 플랫폼에 게재된 AI 악용 부당광고를 모니터링해 의심 사례를 전달하면 해당 플랫폼은 광고주에게 사실관계를 확인하고 법률 위반 여부를 검토한다. 이후 광고를 수정하거나 차단한 뒤 그 결과를 소비자원에 회신한다."
+            "x": "실제 화면은 이렇다."
           },
-          {
-            "t": "p",
-            "x": "주요 모니터링 대상은 가짜 의사·연예인 등 전문가와 유명인을 사칭한 광고, 신체 변화 전후 모습을 조작하는 등 체험 후기를 꾸민 광고, 개별 법률을 위반한 광고다. 동일하거나 유사한 광고가 반복적으로 게재되면 각 플랫폼의 정책에 따른 제한 조치도 이뤄진다."
-          },
-          {
-            "t": "p",
-            "x": "각 플랫폼은 광고 게재 전 실증자료를 확인하는 사전 검수 체계도 강화한다. 지난 6월 개정된 '추천·보증 등에 관한 표시광고 심사지침'에 따라 가상인물의 추천·보증과 관련한 AI 생성물 표시 의무를 준수하도록 관리할 예정이다. 앞서 소비자원은 지난해 9월 구글과 사기성 광고 차단을 위한 민관 협력을 추진했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "AI 가짜 의사 광고\n소비자원·플랫폼이 막는다",
-          "body": "소비자원이 네이버·카카오·틱톡과 AI 가짜 의사·유명인 광고를 감시·차단한다.",
-          "mini_headline": "AI 가짜 의사 광고 차단",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "기사 이해를 돕기 위한 AI 이미지."
-              },
-              {
-                "t": "p",
-                "x": "인공지능(AI)으로 만든 가짜 의사나 유명인을 내세운 부당광고를 신속하게 차단하기 위해 한국소비자원이 네이버·카카오·틱톡과 협력체계를 구축했다. 지난해 구글에 이어 협력 대상을 국내외 주요 플랫폼 4곳으로 넓혔다."
-              },
-              {
-                "t": "p",
-                "x": "최근 소셜미디어를 중심으로 AI로 생성한 가짜 전문가나 가상인물이 등장하는 부당광고가 확산하면서 소비자 피해 우려가 커지고 있다. 특히 라이브커머스와 쇼트폼 등 영상 광고는 정보 확산 속도가 빨라 신속한 대응이 필요하다는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "소비자원이 플랫폼에 게재된 AI 악용 부당광고를 모니터링해 의심 사례를 전달하면 해당 플랫폼은 광고주에게 사실관계를 확인하고 법률 위반 여부를 검토한다. 이후 광고를 수정하거나 차단한 뒤 그 결과를 소비자원에 회신한다."
-              },
-              {
-                "t": "p",
-                "x": "주요 모니터링 대상은 가짜 의사·연예인 등 전문가와 유명인을 사칭한 광고, 신체 변화 전후 모습을 조작하는 등 체험 후기를 꾸민 광고, 개별 법률을 위반한 광고다. 동일하거나 유사한 광고가 반복적으로 게재되면 각 플랫폼의 정책에 따른 제한 조치도 이뤄진다."
-              },
-              {
-                "t": "p",
-                "x": "각 플랫폼은 광고 게재 전 실증자료를 확인하는 사전 검수 체계도 강화한다. 지난 6월 개정된 '추천·보증 등에 관한 표시광고 심사지침'에 따라 가상인물의 추천·보증과 관련한 AI 생성물 표시 의무를 준수하도록 관리할 예정이다. 앞서 소비자원은 지난해 9월 구글과 사기성 광고 차단을 위한 민관 협력을 추진했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "AI fake-doctor ads face\nKorean watchdog, platforms",
-          "body": "Korea's consumer agency will monitor and block AI fake-doctor and celebrity ads with Naver, Kakao and TikTok.",
-          "mini_headline": "Blocking AI fake-doctor ads",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "AI image used to help illustrate the article."
-              },
-              {
-                "t": "p",
-                "x": "The Korea Consumer Agency has set up a cooperation system with Naver, Kakao and TikTok to quickly block deceptive ads that feature fake doctors or celebrities made with artificial intelligence (AI). Following Google last year, it has widened its partners to 4 major domestic and foreign platforms."
-              },
-              {
-                "t": "p",
-                "x": "Concern over consumer harm is growing as deceptive ads featuring AI-generated fake experts or virtual personas spread, mainly on social media. Video ads such as live commerce and short-form content in particular spread information quickly and call for a fast response, the agency explained."
-              },
-              {
-                "t": "p",
-                "x": "When the agency monitors deceptive ads that misuse AI on the platforms and forwards suspected cases, the platform checks the facts with the advertiser and reviews whether any law has been broken. It then corrects or blocks the ad and reports the outcome back to the agency."
-              },
-              {
-                "t": "p",
-                "x": "The main monitoring targets are ads impersonating experts and celebrities such as fake doctors and entertainers, ads with fabricated testimonials such as manipulated before-and-after images of bodily changes, and ads that violate individual laws. If identical or similar ads are posted repeatedly, restrictions will also be imposed under each platform's policies."
-              },
-              {
-                "t": "p",
-                "x": "Each platform will also strengthen pre-screening that checks substantiation materials before ads go live. Under the 'Guidelines for Reviewing Labeling and Advertising Related to Recommendations and Endorsements' revised in June, they plan to ensure compliance with the duty to label AI-generated content tied to recommendations and endorsements by virtual personas. Earlier, in September last year, the agency pursued a public-private partnership with Google to block fraudulent ads."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI偽医師広告\n消費者院・各社が阻止",
-          "body": "消費者院がNaver・Kakao・TikTokとAI偽医師・有名人広告を監視し遮断する。",
-          "mini_headline": "AI偽医師広告を遮断",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "記事の理解を助けるためのAI画像。"
-              },
-              {
-                "t": "p",
-                "x": "人工知能(AI)で作った偽の医師や有名人を前面に出した不当広告を迅速に遮断するため、韓国消費者院がNaver・Kakao・TikTokと協力体制を構築した。昨年のGoogleに続き、協力先を国内外の主要プラットフォーム4社に広げた。"
-              },
-              {
-                "t": "p",
-                "x": "最近、ソーシャルメディアを中心にAIで生成した偽の専門家や仮想人物が登場する不当広告が広がり、消費者被害への懸念が高まっている。特にライブコマースやショート動画などの映像広告は情報の拡散が速く、迅速な対応が必要だという。"
-              },
-              {
-                "t": "p",
-                "x": "消費者院がプラットフォームに掲載されたAI悪用の不当広告をモニタリングして疑わしい事例を伝えると、当該プラットフォームは広告主に事実関係を確認し、法令違反の有無を検討する。その後、広告を修正または遮断し、結果を消費者院に回答する。"
-              },
-              {
-                "t": "p",
-                "x": "主なモニタリング対象は、偽の医師・芸能人など専門家や有名人をかたる広告、体の変化の前後の姿を加工するなど体験談を装った広告、個別の法律に違反する広告だ。同一または類似の広告が繰り返し掲載されれば、各プラットフォームのポリシーに基づく制限措置も取られる。"
-              },
-              {
-                "t": "p",
-                "x": "各プラットフォームは、広告掲載前に実証資料を確認する事前審査体制も強化する。6月に改正された「推薦・保証等に関する表示広告審査指針」に基づき、仮想人物による推薦・保証に関するAI生成物の表示義務を守るよう管理する方針だ。これに先立ち消費者院は昨年9月、Googleと詐欺的広告の遮断に向けた官民協力を進めた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI假医生广告\n韩国消费者院携平台拦截",
-          "body": "韩国消费者院与Naver、Kakao、TikTok合作，监测并拦截AI假医生和名人广告。",
-          "mini_headline": "拦截AI假医生广告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "为帮助理解文章而使用的AI图片。"
-              },
-              {
-                "t": "p",
-                "x": "为迅速拦截利用人工智能(AI)制作的假医生或名人进行宣传的不当广告，韩国消费者院与Naver、Kakao、TikTok建立了合作机制。继去年与Google合作之后，合作对象扩大到国内外4家主要平台。"
-              },
-              {
-                "t": "p",
-                "x": "近来，以社交媒体为中心，出现AI生成的假专家或虚拟人物的不当广告不断扩散，消费者受害的担忧日益加剧。消费者院解释称，尤其是直播电商和短视频等视频广告信息传播速度快，需要迅速应对。"
-              },
-              {
-                "t": "p",
-                "x": "消费者院监测平台上刊登的滥用AI的不当广告，并将可疑案例转交平台后，相关平台将向广告主核实事实，并审查是否违法。随后对广告进行修改或拦截，并将结果反馈给消费者院。"
-              },
-              {
-                "t": "p",
-                "x": "主要监测对象包括冒充假医生、艺人等专家和名人的广告，篡改身体变化前后对比等伪造体验评价的广告，以及违反个别法律的广告。若相同或类似广告反复刊登，还将依据各平台政策采取限制措施。"
-              },
-              {
-                "t": "p",
-                "x": "各平台还将加强广告刊登前核查实证材料的事前审核机制。根据6月修订的《关于推荐、保证等的标示广告审查指南》，平台将督促遵守与虚拟人物推荐、保证相关的AI生成物标示义务。此前，消费者院已于去年9月与Google推进旨在拦截欺诈性广告的官民合作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Médicos falsos hechos con AI:\nCorea y plataformas los frenan",
-          "body": "El ente coreano de consumo vigilará y frenará con Naver, Kakao y TikTok anuncios de médicos y famosos falsos de AI.",
-          "mini_headline": "Bloqueo a médicos falsos con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "Imagen de AI para ayudar a entender el artículo."
-              },
-              {
-                "t": "p",
-                "x": "Para bloquear con rapidez los anuncios engañosos que usan médicos o famosos falsos creados con inteligencia artificial (AI), la Agencia de Consumidores de Corea estableció un sistema de cooperación con Naver, Kakao y TikTok. Tras Google el año pasado, amplió la colaboración a 4 grandes plataformas nacionales y extranjeras."
-              },
-              {
-                "t": "p",
-                "x": "La preocupación por los daños a los consumidores crece a medida que se extienden, sobre todo en redes sociales, los anuncios engañosos con falsos expertos o personajes virtuales generados con AI. La agencia explicó que los anuncios en video, como el comercio en vivo y los formatos cortos, difunden la información con rapidez y exigen una respuesta ágil."
-              },
-              {
-                "t": "p",
-                "x": "Cuando la agencia detecta en su monitoreo anuncios engañosos que abusan de la AI en las plataformas y les remite los casos sospechosos, la plataforma verifica los hechos con el anunciante y revisa si se infringe la ley. Después corrige o bloquea el anuncio y comunica el resultado a la agencia."
-              },
-              {
-                "t": "p",
-                "x": "El monitoreo se centra en anuncios que suplantan a expertos y famosos, como falsos médicos o artistas; anuncios con testimonios inventados, por ejemplo con imágenes manipuladas del antes y después de cambios corporales; y anuncios que infringen leyes específicas. Si se publican de forma reiterada anuncios iguales o similares, también se aplicarán restricciones según la política de cada plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Cada plataforma reforzará además la revisión previa que comprueba la documentación de respaldo antes de publicar un anuncio. Conforme a las 'Directrices de revisión de etiquetado y publicidad sobre recomendaciones y avales', revisadas en junio, velarán por el cumplimiento de la obligación de señalar el contenido generado con AI en recomendaciones y avales de personajes virtuales. Antes, en septiembre del año pasado, la agencia impulsó con Google una cooperación público-privada para bloquear anuncios fraudulentos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "AI fake-doctor ads face\nKorean watchdog, platforms",
-          "body": "Korea's consumer agency will monitor and block AI fake-doctor and celebrity ads with Naver, Kakao and TikTok.",
-          "mini_headline": "Blocking AI fake-doctor ads",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "AI image used to help illustrate the article."
-              },
-              {
-                "t": "p",
-                "x": "The Korea Consumer Agency has set up a cooperation system with Naver, Kakao and TikTok to quickly block deceptive ads that feature fake doctors or celebrities made with artificial intelligence (AI). Following Google last year, it has widened its partners to 4 major domestic and foreign platforms."
-              },
-              {
-                "t": "p",
-                "x": "Concern over consumer harm is growing as deceptive ads featuring AI-generated fake experts or virtual personas spread, mainly on social media. Video ads such as live commerce and short-form content in particular spread information quickly and call for a fast response, the agency explained."
-              },
-              {
-                "t": "p",
-                "x": "When the agency monitors deceptive ads that misuse AI on the platforms and forwards suspected cases, the platform checks the facts with the advertiser and reviews whether any law has been broken. It then corrects or blocks the ad and reports the outcome back to the agency."
-              },
-              {
-                "t": "p",
-                "x": "The main monitoring targets are ads impersonating experts and celebrities such as fake doctors and entertainers, ads with fabricated testimonials such as manipulated before-and-after images of bodily changes, and ads that violate individual laws. If identical or similar ads are posted repeatedly, restrictions will also be imposed under each platform's policies."
-              },
-              {
-                "t": "p",
-                "x": "Each platform will also strengthen pre-screening that checks substantiation materials before ads go live. Under the 'Guidelines for Reviewing Labeling and Advertising Related to Recommendations and Endorsements' revised in June, they plan to ensure compliance with the duty to label AI-generated content tied to recommendations and endorsements by virtual personas. Earlier, in September last year, the agency pursued a public-private partnership with Google to block fraudulent ads."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI偽医師広告\n消費者院・各社が阻止",
-          "body": "消費者院がNaver・Kakao・TikTokとAI偽医師・有名人広告を監視し遮断する。",
-          "mini_headline": "AI偽医師広告を遮断",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "記事の理解を助けるためのAI画像。"
-              },
-              {
-                "t": "p",
-                "x": "人工知能(AI)で作った偽の医師や有名人を前面に出した不当広告を迅速に遮断するため、韓国消費者院がNaver・Kakao・TikTokと協力体制を構築した。昨年のGoogleに続き、協力先を国内外の主要プラットフォーム4社に広げた。"
-              },
-              {
-                "t": "p",
-                "x": "最近、ソーシャルメディアを中心にAIで生成した偽の専門家や仮想人物が登場する不当広告が広がり、消費者被害への懸念が高まっている。特にライブコマースやショート動画などの映像広告は情報の拡散が速く、迅速な対応が必要だという。"
-              },
-              {
-                "t": "p",
-                "x": "消費者院がプラットフォームに掲載されたAI悪用の不当広告をモニタリングして疑わしい事例を伝えると、当該プラットフォームは広告主に事実関係を確認し、法令違反の有無を検討する。その後、広告を修正または遮断し、結果を消費者院に回答する。"
-              },
-              {
-                "t": "p",
-                "x": "主なモニタリング対象は、偽の医師・芸能人など専門家や有名人をかたる広告、体の変化の前後の姿を加工するなど体験談を装った広告、個別の法律に違反する広告だ。同一または類似の広告が繰り返し掲載されれば、各プラットフォームのポリシーに基づく制限措置も取られる。"
-              },
-              {
-                "t": "p",
-                "x": "各プラットフォームは、広告掲載前に実証資料を確認する事前審査体制も強化する。6月に改正された「推薦・保証等に関する表示広告審査指針」に基づき、仮想人物による推薦・保証に関するAI生成物の表示義務を守るよう管理する方針だ。これに先立ち消費者院は昨年9月、Googleと詐欺的広告の遮断に向けた官民協力を進めた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI假医生广告\n韩国消费者院携平台拦截",
-          "body": "韩国消费者院与Naver、Kakao、TikTok合作，监测并拦截AI假医生和名人广告。",
-          "mini_headline": "拦截AI假医生广告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "为帮助理解文章而使用的AI图片。"
-              },
-              {
-                "t": "p",
-                "x": "为迅速拦截利用人工智能(AI)制作的假医生或名人进行宣传的不当广告，韩国消费者院与Naver、Kakao、TikTok建立了合作机制。继去年与Google合作之后，合作对象扩大到国内外4家主要平台。"
-              },
-              {
-                "t": "p",
-                "x": "近来，以社交媒体为中心，出现AI生成的假专家或虚拟人物的不当广告不断扩散，消费者受害的担忧日益加剧。消费者院解释称，尤其是直播电商和短视频等视频广告信息传播速度快，需要迅速应对。"
-              },
-              {
-                "t": "p",
-                "x": "消费者院监测平台上刊登的滥用AI的不当广告，并将可疑案例转交平台后，相关平台将向广告主核实事实，并审查是否违法。随后对广告进行修改或拦截，并将结果反馈给消费者院。"
-              },
-              {
-                "t": "p",
-                "x": "主要监测对象包括冒充假医生、艺人等专家和名人的广告，篡改身体变化前后对比等伪造体验评价的广告，以及违反个别法律的广告。若相同或类似广告反复刊登，还将依据各平台政策采取限制措施。"
-              },
-              {
-                "t": "p",
-                "x": "各平台还将加强广告刊登前核查实证材料的事前审核机制。根据6月修订的《关于推荐、保证等的标示广告审查指南》，平台将督促遵守与虚拟人物推荐、保证相关的AI生成物标示义务。此前，消费者院已于去年9月与Google推进旨在拦截欺诈性广告的官民合作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Médicos falsos hechos con AI:\nCorea y plataformas los frenan",
-          "body": "El ente coreano de consumo vigilará y frenará con Naver, Kakao y TikTok anuncios de médicos y famosos falsos de AI.",
-          "mini_headline": "Bloqueo a médicos falsos con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222047/high.jpg",
-                "cap": "Imagen de AI para ayudar a entender el artículo."
-              },
-              {
-                "t": "p",
-                "x": "Para bloquear con rapidez los anuncios engañosos que usan médicos o famosos falsos creados con inteligencia artificial (AI), la Agencia de Consumidores de Corea estableció un sistema de cooperación con Naver, Kakao y TikTok. Tras Google el año pasado, amplió la colaboración a 4 grandes plataformas nacionales y extranjeras."
-              },
-              {
-                "t": "p",
-                "x": "La preocupación por los daños a los consumidores crece a medida que se extienden, sobre todo en redes sociales, los anuncios engañosos con falsos expertos o personajes virtuales generados con AI. La agencia explicó que los anuncios en video, como el comercio en vivo y los formatos cortos, difunden la información con rapidez y exigen una respuesta ágil."
-              },
-              {
-                "t": "p",
-                "x": "Cuando la agencia detecta en su monitoreo anuncios engañosos que abusan de la AI en las plataformas y les remite los casos sospechosos, la plataforma verifica los hechos con el anunciante y revisa si se infringe la ley. Después corrige o bloquea el anuncio y comunica el resultado a la agencia."
-              },
-              {
-                "t": "p",
-                "x": "El monitoreo se centra en anuncios que suplantan a expertos y famosos, como falsos médicos o artistas; anuncios con testimonios inventados, por ejemplo con imágenes manipuladas del antes y después de cambios corporales; y anuncios que infringen leyes específicas. Si se publican de forma reiterada anuncios iguales o similares, también se aplicarán restricciones según la política de cada plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Cada plataforma reforzará además la revisión previa que comprueba la documentación de respaldo antes de publicar un anuncio. Conforme a las 'Directrices de revisión de etiquetado y publicidad sobre recomendaciones y avales', revisadas en junio, velarán por el cumplimiento de la obligación de señalar el contenido generado con AI en recomendaciones y avales de personajes virtuales. Antes, en septiembre del año pasado, la agencia impulsó con Google una cooperación público-privada para bloquear anuncios fraudulentos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "inmobi-accelerate-agents",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "InMobi AI 일곱이\n중소기업 광고 맡는다",
-      "body": "Accelerate의 AI가 Google·Meta·ChatGPT 광고를 돌린다.",
-      "mini_headline": "InMobi 에이전트, SMB 광고 맡는다",
-      "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+            "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
           },
           {
             "t": "p",
-            "x": "InMobi가 2026년 11월 18일 InMobi Accelerate를 출시했다. 중소기업과 이들을 돕는 대행사가 쓰는 플랫폼으로, AI 에이전트 일곱 개가 Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads, ChatGPT Ads 캠페인을 대시보드 하나에서 기획하고 만들고 집행하고 측정한다. 시작은 무료다."
+            "x": "광고주가 새 제어 기능으로 할 수 있는 일은 세 가지다."
           },
           {
             "t": "p",
-            "x": "InMobi가 꼽은 에이전트는 비즈니스 분석가, 오디언스 전략가, 미디어 플래너, 카피라이터, 크리에이티브 디자이너, 런치 엔지니어, 옵티마이저다. InMobi Accelerate VP 겸 GM Rohit Dosi는 “AI 에이전트는 전문성의 경제학을 바꾼다”고 말했다."
+            "x": "먼저 AI 생성(AI-generated) 이미지·동영상 콘텐츠를 신고한다. 이미지나 동영상에 AI-generated 콘텐츠가 들어갔는지 표시하고, 지원되면 눈에 보이는 워터마크도 고른다."
           },
           {
             "t": "p",
-            "x": "발표문에 따르면 “모든 계획과 크리에이티브 소재, 예산은 실제 집행 전에 승인을 받도록 제시된다.” 지속 최적화는 광고주가 정한 범위 안에서 허용했을 때만 돌아간다."
+            "x": "신고는 대규모로도 관리한다. Ads Studio Library에서 애셋을 하나씩, 또는 여러 개를 한꺼번에 업데이트하고 Microsoft Advertising APIs와 제품 피드도 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Accelerate는 InMobi 퍼스트파티 픽셀로 플랫폼 사이의 중복 전환을 걸러내고, 채널을 묶은 단일 지표 True ROAS를 보고한다. 이 지표는 InMobi의 의사결정 시스템 Mobius에 들어간다. 다만 발표문은 지표를 검증할 독립 감사 기관을 밝히지 않았다. 가격도 “무료로 시작”이라는 문구 말고는 공개하지 않았다."
+            "x": "Microsoft의 AI 탐지 신호도 확인할 수 있는데, 지원되는 애셋에 한해 참고 자료로 쓰인다. 신고할지는 여전히 광고주가 정하고 책임도 광고주가 진다."
+          },
+          {
+            "t": "p",
+            "x": "Google Ads도 AI 라벨을 지원하고, 실제 광고에 AI 라벨이 붙은 사례도 이미 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "InMobi's seven AI agents\nrun small-business ads",
-          "body": "InMobi Accelerate uses seven AI agents to run small advertisers' campaigns across Google, Meta and ChatGPT.",
-          "mini_headline": "InMobi agents run SMB ads",
+          "headline": "Microsoft ads add a\nMade with AI label",
+          "body": "Microsoft now marks AI-generated images in some Bing and Microsoft Advertising ads with a \"Made with AI\" corner label.",
+          "mini_headline": "Microsoft ads label AI images",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "On November 18, 2026, InMobi launched InMobi Accelerate, a platform that uses seven AI agents to plan, build, launch and measure advertising campaigns for small and medium-sized businesses and the agencies that serve them, across Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads and ChatGPT Ads from a single dashboard. It is free to start."
+                "x": "Microsoft is now showing a new label on some of its ads across Microsoft Advertising and Bing Search named \"Made with AI.\" The label is appended to the image on the ad, at the corner of the image, and says \"Made with AI.\""
               },
               {
                 "t": "p",
-                "x": "InMobi names the agents as a business analyst, an audience strategist, a media planner, a copywriter, a creative designer, a launch engineer and an optimizer. “AI agents change the economics of expertise,” said Rohit Dosi, VP and GM of InMobi Accelerate."
+                "x": "Microsoft posted screenshots of this on this blog post and wrote, \"AI content transparency controls are now generally available in Microsoft Advertising.\""
               },
               {
                 "t": "p",
-                "x": "“Every plan, creative asset and budget is presented for approval before anything goes live,” the announcement states. Continuous optimization runs only if advertisers authorize it within parameters they set."
+                "x": "Here is what they look like:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "Accelerate uses InMobi's first-party pixel to deduplicate conversions across platforms and reports one cross-channel figure, True ROAS, which feeds InMobi's Mobius decisioning system. The announcement names no independent auditor for that measure and publishes no prices beyond “free to start.”"
+                "x": "These new controls allow advertisers to:"
+              },
+              {
+                "t": "p",
+                "x": "Declare AI-generated image and video content: Mark whether an image or video includes AI-generated content. Then choose a visible watermark, where supported."
+              },
+              {
+                "t": "p",
+                "x": "Manage declarations at scale: Update one assets or many in the Ads Studio Library. You can also use the Microsoft Advertising APIs and product feeds."
+              },
+              {
+                "t": "p",
+                "x": "Check Microsoft's AI detection signals: Use them as a helpful reference for supported assets. You still decide on, and remain responsible for, your own declarations."
+              },
+              {
+                "t": "p",
+                "x": "As a reminder, Google Ads supports AI labels and we have even seen AI labels on those ads in the wild."
               }
             ]
           }
         },
         "ko": {
-          "headline": "InMobi AI 일곱이\n중소기업 광고 맡는다",
-          "body": "Accelerate의 AI가 Google·Meta·ChatGPT 광고를 돌린다.",
-          "mini_headline": "InMobi 에이전트, SMB 광고 맡는다",
+          "headline": "Microsoft 광고에\nMade with AI",
+          "body": "Bing 광고 속 AI-generated 이미지엔 Made with AI가 붙는다.",
+          "mini_headline": "Microsoft 광고의 AI 이미지 라벨",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "InMobi가 2026년 11월 18일 InMobi Accelerate를 출시했다. 중소기업과 이들을 돕는 대행사가 쓰는 플랫폼으로, AI 에이전트 일곱 개가 Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads, ChatGPT Ads 캠페인을 대시보드 하나에서 기획하고 만들고 집행하고 측정한다. 시작은 무료다."
+                "x": "Microsoft가 Microsoft Advertising과 Bing Search 곳곳의 일부 광고에 \"Made with AI\"라는 새 라벨을 달기 시작했다. 광고 이미지 모서리에 붙는 이 라벨에는 \"Made with AI\"라고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "InMobi가 꼽은 에이전트는 비즈니스 분석가, 오디언스 전략가, 미디어 플래너, 카피라이터, 크리에이티브 디자이너, 런치 엔지니어, 옵티마이저다. InMobi Accelerate VP 겸 GM Rohit Dosi는 “AI 에이전트는 전문성의 경제학을 바꾼다”고 말했다."
+                "x": "Microsoft는 블로그에 스크린숏을 올리며 \"이제 Microsoft Advertising에서 AI 콘텐츠 투명성 제어 기능을 정식으로 쓸 수 있다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "발표문에 따르면 “모든 계획과 크리에이티브 소재, 예산은 실제 집행 전에 승인을 받도록 제시된다.” 지속 최적화는 광고주가 정한 범위 안에서 허용했을 때만 돌아간다."
+                "x": "실제 화면은 이렇다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "Accelerate는 InMobi 퍼스트파티 픽셀로 플랫폼 사이의 중복 전환을 걸러내고, 채널을 묶은 단일 지표 True ROAS를 보고한다. 이 지표는 InMobi의 의사결정 시스템 Mobius에 들어간다. 다만 발표문은 지표를 검증할 독립 감사 기관을 밝히지 않았다. 가격도 “무료로 시작”이라는 문구 말고는 공개하지 않았다."
+                "x": "광고주가 새 제어 기능으로 할 수 있는 일은 세 가지다."
+              },
+              {
+                "t": "p",
+                "x": "먼저 AI 생성(AI-generated) 이미지·동영상 콘텐츠를 신고한다. 이미지나 동영상에 AI-generated 콘텐츠가 들어갔는지 표시하고, 지원되면 눈에 보이는 워터마크도 고른다."
+              },
+              {
+                "t": "p",
+                "x": "신고는 대규모로도 관리한다. Ads Studio Library에서 애셋을 하나씩, 또는 여러 개를 한꺼번에 업데이트하고 Microsoft Advertising APIs와 제품 피드도 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Microsoft의 AI 탐지 신호도 확인할 수 있는데, 지원되는 애셋에 한해 참고 자료로 쓰인다. 신고할지는 여전히 광고주가 정하고 책임도 광고주가 진다."
+              },
+              {
+                "t": "p",
+                "x": "Google Ads도 AI 라벨을 지원하고, 실제 광고에 AI 라벨이 붙은 사례도 이미 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "InMobi、AI七体が\n中小企業の広告を運用",
-          "body": "Accelerateの七つのAIがGoogle・Meta・ChatGPT広告を運用する。",
-          "mini_headline": "InMobiのエージェントがSMB広告を運用",
+          "headline": "Microsoft広告に\nMade with AI表示",
+          "body": "MicrosoftがAI-generated広告画像にMade with AIと表示する。",
+          "mini_headline": "Microsoft広告にAI画像ラベル",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "InMobiは2026年11月18日、InMobi Accelerateを発表した。七つのAIエージェントが、中小企業とそれを支援する代理店のために、Google Ads、Meta Ads、Microsoft Advertising、TikTok Ads、ChatGPT Adsにまたがる広告キャンペーンを一つのダッシュボードから企画、構築、配信、測定するプラットフォームで、無料で始められる。"
+                "x": "MicrosoftはMicrosoft AdvertisingとBing Searchの一部広告に「Made with AI」という新しいラベルを表示し始めた。ラベルは広告画像の隅に付加され、「Made with AI」と書かれている。"
               },
               {
                 "t": "p",
-                "x": "InMobiはエージェントの役割を、ビジネスアナリスト、オーディエンスストラテジスト、メディアプランナー、コピーライター、クリエイティブデザイナー、ローンチエンジニア、オプティマイザーとしている。「AIエージェントは専門知識の経済性を変える」と、InMobi AccelerateのVP兼GMであるRohit Dosiは述べた。"
+                "x": "Microsoftはこのブログ記事でスクリーンショットを公開し、「AIコンテンツの透明性コントロールがMicrosoft Advertisingで一般提供になった」と書いた。"
               },
               {
                 "t": "p",
-                "x": "発表には「すべての計画、クリエイティブ素材、予算は、配信前に承認を得るために提示される」とある。継続的な最適化は、広告主が自ら設定した範囲内で許可した場合にのみ実行される。"
+                "x": "表示例は次のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "AccelerateはInMobiのファーストパーティピクセルを使ってプラットフォーム間のコンバージョンの重複を除き、チャネル横断の単一指標「True ROAS」を報告する。この指標はInMobiの意思決定システムMobiusに取り込まれる。発表はこの指標の独立した監査機関を示しておらず、「無料で開始」以外の価格も公表していない。"
+                "x": "この新しいコントロールで広告主は次のことができる。"
+              },
+              {
+                "t": "p",
+                "x": "AI生成（AI-generated）の画像・動画コンテンツを申告：画像や動画にAI-generatedコンテンツが含まれるかを示す。対応している場合は、目に見える透かしも選べる。"
+              },
+              {
+                "t": "p",
+                "x": "申告を大規模に管理：Ads Studio Libraryで一つまたは複数のアセットを更新する。Microsoft Advertising APIsや商品フィードも使える。"
+              },
+              {
+                "t": "p",
+                "x": "MicrosoftのAI検出シグナルを確認：対応アセットの参考として活用する。申告の判断と責任は引き続き広告主にある。"
+              },
+              {
+                "t": "p",
+                "x": "なお、Google AdsもAIラベルに対応しており、実際の広告でAIラベルが確認されたこともある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "InMobi七个AI智能体\n代管小企业广告",
-          "body": "Accelerate用AI智能体替小商家投放Google、Meta、ChatGPT广告。",
-          "mini_headline": "InMobi智能体代管SMB广告",
+          "headline": "Microsoft广告\n加注Made with AI",
+          "body": "Microsoft为AI-generated广告图片标注“Made with AI”。",
+          "mini_headline": "Microsoft广告标注AI图片",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年11月18日，InMobi推出InMobi Accelerate。该平台用七个AI智能体，为中小企业及服务它们的代理商在单一控制面板上跨Google Ads、Meta Ads、Microsoft Advertising、TikTok Ads和ChatGPT Ads规划、搭建、上线并衡量广告活动，可免费起步。"
+                "x": "Microsoft开始在Microsoft Advertising和Bing Search的部分广告上显示一个名为“Made with AI”的新标签。该标签附在广告图片的角落，写着“Made with AI”。"
               },
               {
                 "t": "p",
-                "x": "InMobi列出的智能体角色为业务分析师、受众策略师、媒介策划、文案、创意设计师、上线工程师和优化师。InMobi Accelerate的VP兼GM Rohit Dosi表示：“AI智能体改变了专业能力的经济账。”"
+                "x": "Microsoft在这篇博文中发布了截图，并写道：“AI内容透明度控制功能现已在Microsoft Advertising中全面上线。”"
               },
               {
                 "t": "p",
-                "x": "公告称：“所有计划、创意素材和预算都会在上线前提交审批。”只有在广告主于自设参数范围内授权的情况下，才会进行持续优化。"
+                "x": "效果如下："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "Accelerate借助InMobi的第一方像素对跨平台转化进行去重，并报告一个跨渠道指标True ROAS，该指标会输入InMobi的Mobius决策系统。公告没有指明该指标的独立审计方，除“免费起步”外也未公布任何价格。"
+                "x": "这些新控制功能让广告主可以："
+              },
+              {
+                "t": "p",
+                "x": "声明AI生成（AI-generated）的图片和视频内容：标明图片或视频是否包含AI-generated内容，并在支持的情况下选择可见水印。"
+              },
+              {
+                "t": "p",
+                "x": "批量管理声明：在Ads Studio Library中更新一个或多个素材，也可以使用Microsoft Advertising APIs和产品数据源。"
+              },
+              {
+                "t": "p",
+                "x": "查看Microsoft的AI检测信号：将其作为受支持素材的参考。声明仍由广告主自行决定并承担责任。"
+              },
+              {
+                "t": "p",
+                "x": "需要提醒的是，Google Ads也支持AI标签，我们甚至在实际投放的广告上见过AI标签。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siete agentes de AI de InMobi\nllevan anuncios de pymes",
-          "body": "InMobi Accelerate usa siete agentes de AI para gestionar campañas de pequeños anunciantes en Google, Meta y ChatGPT.",
-          "mini_headline": "Agentes de InMobi para anuncios SMB",
+          "headline": "Los anuncios de Microsoft\nañaden la etiqueta Made with AI",
+          "body": "Microsoft marca con \"Made with AI\" las imágenes AI-generated de algunos anuncios de Bing y Microsoft Advertising.",
+          "mini_headline": "Microsoft etiqueta imágenes de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "El 18 de noviembre de 2026, InMobi lanzó InMobi Accelerate, una plataforma que usa siete agentes de AI para planificar, crear, lanzar y medir campañas publicitarias de pequeñas y medianas empresas y de las agencias que las atienden, en Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads y ChatGPT Ads desde un único panel. Empezar es gratis."
+                "x": "Microsoft muestra ahora una nueva etiqueta llamada \"Made with AI\" en algunos de sus anuncios de Microsoft Advertising y Bing Search. La etiqueta se añade a la imagen del anuncio, en una esquina, y dice \"Made with AI\"."
               },
               {
                 "t": "p",
-                "x": "InMobi define a los agentes como un analista de negocio, un estratega de audiencias, un planificador de medios, un redactor publicitario, un diseñador creativo, un ingeniero de lanzamiento y un optimizador. “Los agentes de AI cambian la economía de la experiencia profesional”, dijo Rohit Dosi, VP y GM de InMobi Accelerate."
+                "x": "Microsoft publicó capturas en esta entrada de blog y escribió: \"Los controles de transparencia de contenido de AI ya están disponibles de forma general en Microsoft Advertising\"."
               },
               {
                 "t": "p",
-                "x": "“Cada plan, pieza creativa y presupuesto se presenta para su aprobación antes de que nada salga en vivo”, señala el anuncio. La optimización continua solo funciona si los anunciantes la autorizan dentro de los parámetros que ellos mismos fijan."
+                "x": "Así se ven:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "Accelerate usa el píxel propio de InMobi para eliminar conversiones duplicadas entre plataformas e informa una sola cifra multicanal, True ROAS, que alimenta el sistema de decisiones Mobius de InMobi. El anuncio no nombra ningún auditor independiente para esa métrica ni publica precios más allá de “gratis para empezar”."
+                "x": "Estos nuevos controles permiten a los anunciantes:"
+              },
+              {
+                "t": "p",
+                "x": "Declarar contenido de imagen y video generado por AI (AI-generated): indicar si una imagen o un video incluye contenido AI-generated. Después, elegir una marca de agua visible, donde se admita."
+              },
+              {
+                "t": "p",
+                "x": "Gestionar declaraciones a escala: actualizar uno o varios recursos en Ads Studio Library. También se pueden usar las Microsoft Advertising APIs y los feeds de productos."
+              },
+              {
+                "t": "p",
+                "x": "Consultar las señales de detección de AI de Microsoft: usarlas como referencia útil para los recursos compatibles. El anunciante sigue decidiendo sus declaraciones y es responsable de ellas."
+              },
+              {
+                "t": "p",
+                "x": "Como recordatorio, Google Ads admite etiquetas de AI y ya hemos visto etiquetas de AI en esos anuncios en circulación."
               }
             ]
           }
@@ -917,121 +765,201 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "InMobi AI 일곱이\n중소기업 광고 맡는다",
-          "body": "Accelerate의 AI가 Google·Meta·ChatGPT 광고를 돌린다.",
-          "mini_headline": "InMobi 에이전트가 SMB 광고 운영",
+          "headline": "Microsoft 광고에\nMade with AI",
+          "body": "Bing 광고의 AI-generated 이미지에 Made with AI가 붙는다.",
+          "mini_headline": "Microsoft 광고에 AI 이미지 표시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "InMobi는 2026년 11월 18일 InMobi Accelerate를 출시했다. AI 에이전트 일곱 개가 중소기업과 이들을 돕는 대행사를 위해 Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads, ChatGPT Ads의 광고 캠페인을 하나의 대시보드에서 기획·제작·집행·측정하는 플랫폼이다. 무료로 시작할 수 있다."
+                "x": "Microsoft가 Microsoft Advertising과 Bing Search 전반의 일부 광고에 \"Made with AI\"라는 새 라벨을 표시하기 시작했다. 라벨은 광고 이미지 모서리에 덧붙으며 \"Made with AI\"라고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "InMobi가 밝힌 에이전트는 비즈니스 분석가, 오디언스 전략가, 미디어 플래너, 카피라이터, 크리에이티브 디자이너, 런치 엔지니어, 옵티마이저다. InMobi Accelerate의 VP 겸 GM인 Rohit Dosi는 “AI 에이전트는 전문성의 경제학을 바꾼다”고 말했다."
+                "x": "Microsoft는 블로그 게시물에 스크린숏을 올리고 \"이제 Microsoft Advertising에서 AI 콘텐츠 투명성 제어 기능을 정식으로 쓸 수 있다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "발표문은 “모든 계획과 크리에이티브 소재, 예산은 실제 집행 전에 승인을 받도록 제시된다”고 밝혔다. 지속적인 최적화는 광고주가 직접 정한 범위 안에서 허용할 때만 작동한다."
+                "x": "실제 모습은 다음과 같다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "Accelerate는 InMobi의 퍼스트파티 픽셀로 플랫폼 간 중복 전환을 걸러내고, 채널을 아우르는 단일 지표 True ROAS를 보고한다. 이 지표는 InMobi의 의사결정 시스템 Mobius에 쓰인다. 발표문은 이 지표를 검증할 독립 감사 기관을 밝히지 않았고, “무료로 시작”이라는 문구 외에는 가격도 공개하지 않았다."
+                "x": "새 제어 기능으로 광고주는 다음을 할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI 생성(AI-generated) 이미지·동영상 콘텐츠 신고: 이미지나 동영상에 AI-generated 콘텐츠가 포함됐는지 표시한다. 지원되는 경우 눈에 보이는 워터마크도 고른다."
+              },
+              {
+                "t": "p",
+                "x": "대규모 신고 관리: Ads Studio Library에서 애셋 하나 또는 여러 개를 업데이트한다. Microsoft Advertising APIs와 제품 피드도 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Microsoft의 AI 탐지 신호 확인: 지원되는 애셋에 대한 참고 자료로 활용한다. 신고 여부는 여전히 광고주가 결정하고 그 책임도 진다."
+              },
+              {
+                "t": "p",
+                "x": "참고로 Google Ads도 AI 라벨을 지원하며, 실제 광고에 AI 라벨이 붙은 사례도 확인된 바 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "InMobi、AI七体が\n中小企業の広告を運用",
-          "body": "Accelerateの七つのAIがGoogle・Meta・ChatGPT広告を運用する。",
-          "mini_headline": "InMobiのエージェントがSMB広告を運用",
+          "headline": "Microsoft広告に\nMade with AI表示",
+          "body": "MicrosoftがAI-generated広告画像にMade with AIと表示する。",
+          "mini_headline": "Microsoft広告にAI画像ラベル",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "InMobiは2026年11月18日、InMobi Accelerateを発表した。七つのAIエージェントが、中小企業とそれを支援する代理店のために、Google Ads、Meta Ads、Microsoft Advertising、TikTok Ads、ChatGPT Adsにまたがる広告キャンペーンを一つのダッシュボードから企画、構築、配信、測定するプラットフォームで、無料で始められる。"
+                "x": "MicrosoftはMicrosoft AdvertisingとBing Searchの一部広告に「Made with AI」という新しいラベルを表示し始めた。ラベルは広告画像の隅に付加され、「Made with AI」と書かれている。"
               },
               {
                 "t": "p",
-                "x": "InMobiはエージェントの役割を、ビジネスアナリスト、オーディエンスストラテジスト、メディアプランナー、コピーライター、クリエイティブデザイナー、ローンチエンジニア、オプティマイザーとしている。「AIエージェントは専門知識の経済性を変える」と、InMobi AccelerateのVP兼GMであるRohit Dosiは述べた。"
+                "x": "Microsoftはこのブログ記事でスクリーンショットを公開し、「AIコンテンツの透明性コントロールがMicrosoft Advertisingで一般提供になった」と書いた。"
               },
               {
                 "t": "p",
-                "x": "発表には「すべての計画、クリエイティブ素材、予算は、配信前に承認を得るために提示される」とある。継続的な最適化は、広告主が自ら設定した範囲内で許可した場合にのみ実行される。"
+                "x": "表示例は次のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "AccelerateはInMobiのファーストパーティピクセルを使ってプラットフォーム間のコンバージョンの重複を除き、チャネル横断の単一指標「True ROAS」を報告する。この指標はInMobiの意思決定システムMobiusに取り込まれる。発表はこの指標の独立した監査機関を示しておらず、「無料で開始」以外の価格も公表していない。"
+                "x": "この新しいコントロールで広告主は次のことができる。"
+              },
+              {
+                "t": "p",
+                "x": "AI生成（AI-generated）の画像・動画コンテンツを申告：画像や動画にAI-generatedコンテンツが含まれるかを示す。対応している場合は、目に見える透かしも選べる。"
+              },
+              {
+                "t": "p",
+                "x": "申告を大規模に管理：Ads Studio Libraryで一つまたは複数のアセットを更新する。Microsoft Advertising APIsや商品フィードも使える。"
+              },
+              {
+                "t": "p",
+                "x": "MicrosoftのAI検出シグナルを確認：対応アセットの参考として活用する。申告の判断と責任は引き続き広告主にある。"
+              },
+              {
+                "t": "p",
+                "x": "なお、Google AdsもAIラベルに対応しており、実際の広告でAIラベルが確認されたこともある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "InMobi七个AI智能体\n代管小企业广告",
-          "body": "Accelerate用AI智能体替小商家投放Google、Meta、ChatGPT广告。",
-          "mini_headline": "InMobi智能体代管SMB广告",
+          "headline": "Microsoft广告\n加注Made with AI",
+          "body": "Microsoft为AI-generated广告图片标注“Made with AI”。",
+          "mini_headline": "Microsoft广告标注AI图片",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年11月18日，InMobi推出InMobi Accelerate。该平台用七个AI智能体，为中小企业及服务它们的代理商在单一控制面板上跨Google Ads、Meta Ads、Microsoft Advertising、TikTok Ads和ChatGPT Ads规划、搭建、上线并衡量广告活动，可免费起步。"
+                "x": "Microsoft开始在Microsoft Advertising和Bing Search的部分广告上显示一个名为“Made with AI”的新标签。该标签附在广告图片的角落，写着“Made with AI”。"
               },
               {
                 "t": "p",
-                "x": "InMobi列出的智能体角色为业务分析师、受众策略师、媒介策划、文案、创意设计师、上线工程师和优化师。InMobi Accelerate的VP兼GM Rohit Dosi表示：“AI智能体改变了专业能力的经济账。”"
+                "x": "Microsoft在这篇博文中发布了截图，并写道：“AI内容透明度控制功能现已在Microsoft Advertising中全面上线。”"
               },
               {
                 "t": "p",
-                "x": "公告称：“所有计划、创意素材和预算都会在上线前提交审批。”只有在广告主于自设参数范围内授权的情况下，才会进行持续优化。"
+                "x": "效果如下："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "Accelerate借助InMobi的第一方像素对跨平台转化进行去重，并报告一个跨渠道指标True ROAS，该指标会输入InMobi的Mobius决策系统。公告没有指明该指标的独立审计方，除“免费起步”外也未公布任何价格。"
+                "x": "这些新控制功能让广告主可以："
+              },
+              {
+                "t": "p",
+                "x": "声明AI生成（AI-generated）的图片和视频内容：标明图片或视频是否包含AI-generated内容，并在支持的情况下选择可见水印。"
+              },
+              {
+                "t": "p",
+                "x": "批量管理声明：在Ads Studio Library中更新一个或多个素材，也可以使用Microsoft Advertising APIs和产品数据源。"
+              },
+              {
+                "t": "p",
+                "x": "查看Microsoft的AI检测信号：将其作为受支持素材的参考。声明仍由广告主自行决定并承担责任。"
+              },
+              {
+                "t": "p",
+                "x": "需要提醒的是，Google Ads也支持AI标签，我们甚至在实际投放的广告上见过AI标签。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siete agentes de AI de InMobi\nllevan anuncios de pymes",
-          "body": "InMobi Accelerate usa siete agentes de AI para gestionar campañas de pequeños anunciantes en Google, Meta y ChatGPT.",
-          "mini_headline": "Agentes de InMobi para anuncios SMB",
+          "headline": "Los anuncios de Microsoft\nañaden la etiqueta Made with AI",
+          "body": "Microsoft marca con \"Made with AI\" las imágenes AI-generated de algunos anuncios de Bing y Microsoft Advertising.",
+          "mini_headline": "Microsoft etiqueta imágenes de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/inmobi-accelerate-seven-ai-agents-small-business-ads-google-meta-chatgpt-corner-shop-helpers.jpg"
+                "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
               },
               {
                 "t": "p",
-                "x": "El 18 de noviembre de 2026, InMobi lanzó InMobi Accelerate, una plataforma que usa siete agentes de AI para planificar, crear, lanzar y medir campañas publicitarias de pequeñas y medianas empresas y de las agencias que las atienden, en Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads y ChatGPT Ads desde un único panel. Empezar es gratis."
+                "x": "Microsoft muestra ahora una nueva etiqueta llamada \"Made with AI\" en algunos de sus anuncios de Microsoft Advertising y Bing Search. La etiqueta se añade a la imagen del anuncio, en una esquina, y dice \"Made with AI\"."
               },
               {
                 "t": "p",
-                "x": "InMobi define a los agentes como un analista de negocio, un estratega de audiencias, un planificador de medios, un redactor publicitario, un diseñador creativo, un ingeniero de lanzamiento y un optimizador. “Los agentes de AI cambian la economía de la experiencia profesional”, dijo Rohit Dosi, VP y GM de InMobi Accelerate."
+                "x": "Microsoft publicó capturas en esta entrada de blog y escribió: \"Los controles de transparencia de contenido de AI ya están disponibles de forma general en Microsoft Advertising\"."
               },
               {
                 "t": "p",
-                "x": "“Cada plan, pieza creativa y presupuesto se presenta para su aprobación antes de que nada salga en vivo”, señala el anuncio. La optimización continua solo funciona si los anunciantes la autorizan dentro de los parámetros que ellos mismos fijan."
+                "x": "Así se ven:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
               },
               {
                 "t": "p",
-                "x": "Accelerate usa el píxel propio de InMobi para eliminar conversiones duplicadas entre plataformas e informa una sola cifra multicanal, True ROAS, que alimenta el sistema de decisiones Mobius de InMobi. El anuncio no nombra ningún auditor independiente para esa métrica ni publica precios más allá de “gratis para empezar”."
+                "x": "Estos nuevos controles permiten a los anunciantes:"
+              },
+              {
+                "t": "p",
+                "x": "Declarar contenido de imagen y video generado por AI (AI-generated): indicar si una imagen o un video incluye contenido AI-generated. Después, elegir una marca de agua visible, donde se admita."
+              },
+              {
+                "t": "p",
+                "x": "Gestionar declaraciones a escala: actualizar uno o varios recursos en Ads Studio Library. También se pueden usar las Microsoft Advertising APIs y los feeds de productos."
+              },
+              {
+                "t": "p",
+                "x": "Consultar las señales de detección de AI de Microsoft: usarlas como referencia útil para los recursos compatibles. El anunciante sigue decidiendo sus declaraciones y es responsable de ellas."
+              },
+              {
+                "t": "p",
+                "x": "Como recordatorio, Google Ads admite etiquetas de AI y ya hemos visto etiquetas de AI en esos anuncios en circulación."
               }
             ]
           }
@@ -1039,15 +967,15 @@
       }
     },
     {
-      "id": "hubspot-agent-crm-pricing",
+      "id": "romperjack-model-ai-ad-lawsuit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude·ChatGPT\nHubSpot 웃돈 없다",
-      "body": "HubSpot 좌석 요금에 Claude·ChatGPT 일상 CRM 사용이 들어간다.",
-      "mini_headline": "HubSpot, AI 에이전트에 웃돈 안 받는다",
+      "headline": "RomperJack 상대로\n모델이 AI 광고 소송",
+      "body": "RomperJack이 2021년 촬영 사진으로 AI 광고를 만들었다는 주장이다.",
+      "mini_headline": "AI 광고에 모델이 소송",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/hubspot-wont-charge-extra-when-claude-or-chatgpt-works-its-crm/",
+      "url": "https://ppc.land/model-sues-romperjack-after-2021-photos-became-ai-generated-instagram-ads/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -1055,173 +983,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+            "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
           },
           {
             "t": "p",
-            "x": "HubSpot은 2026년 11월 17일 게시글에서 고객이 Claude나 ChatGPT로 소프트웨어 안의 일상 업무를 처리해도 요금을 더 받지 않겠다고 밝혔다. 기존 APIs에 붙는 AI 에이전트도 HubSpot Credits를 차감하지 않는다. Credits가 나가는 곳은 세 번째 단계, 곧 HubSpot이 아직 구축 중이라는 에이전트용 관리 환경이다."
+            "x": "Los Angeles의 모델 겸 배우가 2026년 11월 18일 Texas 회사 Cooper Street, LLC를 상대로 연방 소송을 냈다. 이 회사는 RomperJack이라는 이름으로 영업한다. 현금 대가 없이 찍은 2021년 촬영분의 스틸 사진을 가져다 소셜 미디어 광고용 AI 생성(AI-generated) 이미지와 동영상으로 만들었다는 주장이다."
           },
           {
             "t": "p",
-            "x": "게시글에는 “모든 HubSpot 좌석에는 Claude나 ChatGPT에서 일상 업무를 마칠 수 있을 만큼의 헤드리스 접근 권한이 추가 비용 없이 포함된다”고 적혀 있다. 기존 APIs로 서드파티 에이전트를 쓰면 “요금제에 이미 포함된 API 용량에 반영되며 크레딧을 소모하지 않는다.” 에이전트에 거버넌스와 완전한 추적성, 전용 도구가 필요한 팀은 HubSpot Credits로 비용을 낸다."
+            "x": "Jeffrey S. Stanfield의 소장(사건번호 2:26-cv-13465, Central District of California)에는 허위 보증을 비롯해 청구 다섯 건이 담겼다. 소장에 따르면 RomperJack 소유주 Emmanuel Sullivan은 2025년 1월 사업체를 인수한 \"이후에 인공지능 보강 작업이 만들어졌다고 서신에서 인정했다\". 모두 아직 법정에서 가려지지 않은 주장이다."
           },
           {
             "t": "p",
-            "x": "새 환경의 요율이나 한도, 시작일은 게시글에 없었고 “일상 업무”가 무엇인지도 정의하지 않았다. HubSpot 카탈로그를 보면 추가 API 용량은 팩당 월 $500이고 최대 두 팩까지 살 수 있다."
+            "x": "Stanfield가 받은 것은 의류와 사진 사본뿐이고, 모델 출연 동의서에는 서명한 적이 없다. 광고에는 AI 생성(AI-generated) Instagram 이미지 두 장과 동영상이 들어갔다. 동영상은 실제로는 없었던 장면으로, \"Mr. Stanfield를 가상의 움직임 속에 넣고 새로운 표정, 몸짓, 시청각 행동을 만들어 낸\" 것이다."
           },
           {
             "t": "p",
-            "x": "HubSpot에 따르면 3분기 고객이 커넥터로 만든 CRM 객체는 2,200만 개를 넘었다. 2분기보다 157% 늘었다."
+            "x": "그의 하루 촬영료는 약 $2,500이고, 과거 사용료는 $2,500에서 $10,000 사이였다. 그는 손해배상과 이익 반환을 청구하면서, 서면 동의 없이 자신을 AI로 묘사하지 못하게 하는 명령도 구한다. 스틸 사진을 느슨하게 허락했다고 해서 당사자가 한 적 없는 합성 연기까지 허락한 셈이 되는지가 이번 사건에서 갈린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "HubSpot won't charge extra\nfor Claude or ChatGPT use",
-          "body": "HubSpot's seats cover everyday CRM use from Claude or ChatGPT, with credits reserved for heavy governed-agent work.",
-          "mini_headline": "HubSpot: no AI agent surcharge",
+          "headline": "Model sues RomperJack over\nAI ads made from old photos",
+          "body": "Model Jeffrey Stanfield says RomperJack's new owner turned his 2021 shoot into AI-generated image and video ads.",
+          "mini_headline": "Model sues over AI ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "HubSpot will not charge its customers more for routine work done inside the software from Claude or ChatGPT, and AI agents that plug into its existing APIs will not draw down HubSpot Credits, according to a post published on November 17, 2026. Credits enter at a third level: a governed environment for agents that HubSpot says it is still building."
+                "x": "A Los Angeles model and actor filed a federal lawsuit on November 18, 2026 against Cooper Street, LLC, the Texas company that trades as RomperJack, alleging it took still photographs from a 2021 shoot he was never paid cash for and turned them into AI-generated images and video for its social media advertising."
               },
               {
                 "t": "p",
-                "x": "“Every HubSpot seat comes with enough headless access to complete your everyday work from Claude or ChatGPT, at no additional cost,” the post reads. Third-party agent usage on existing APIs “counts toward the API capacity already included with their plan, and does not consume credits.” Teams wanting governance, full traceability and purpose-built tools for their agents pay in HubSpot Credits."
+                "x": "Jeffrey S. Stanfield's complaint (case 2:26-cv-13465, Central District of California) pleads five claims, led by false endorsement. RomperJack's owner, Emmanuel Sullivan, \"acknowledged in correspondence that the artificial-intelligence enhancements were created after\" he acquired the business in January 2025. The claims are allegations not yet tested in court."
               },
               {
                 "t": "p",
-                "x": "The post gives no rates, limits or start dates for the new environment, and does not define “everyday work.” Extra API capacity costs up to two packs at $500 a month each, per HubSpot's catalog."
+                "x": "Stanfield received clothing and copies of photographs and signed no model release. The ads include two AI-generated Instagram images and a video that \"placed Mr. Stanfield into simulated motion and created new facial expressions, gestures, and audiovisual conduct\" that never happened."
               },
               {
                 "t": "p",
-                "x": "HubSpot says customers created more than 22 million CRM objects through connectors in the third quarter, up 157% on the second quarter."
+                "x": "His day rate is about $2,500 and past usage fees ranged from $2,500 to $10,000. He seeks damages, profits and an order barring any AI depiction of him without written consent. The case tests whether loose permission for a still photo can stretch to a synthetic performance the person never gave."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude·ChatGPT\nHubSpot 웃돈 없다",
-          "body": "HubSpot 좌석 요금에 Claude·ChatGPT 일상 CRM 사용이 들어간다.",
-          "mini_headline": "HubSpot, AI 에이전트에 웃돈 안 받는다",
+          "headline": "RomperJack 상대로\n모델이 AI 광고 소송",
+          "body": "RomperJack이 2021년 촬영 사진으로 AI 광고를 만들었다는 주장이다.",
+          "mini_headline": "AI 광고에 모델이 소송",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "HubSpot은 2026년 11월 17일 게시글에서 고객이 Claude나 ChatGPT로 소프트웨어 안의 일상 업무를 처리해도 요금을 더 받지 않겠다고 밝혔다. 기존 APIs에 붙는 AI 에이전트도 HubSpot Credits를 차감하지 않는다. Credits가 나가는 곳은 세 번째 단계, 곧 HubSpot이 아직 구축 중이라는 에이전트용 관리 환경이다."
+                "x": "Los Angeles의 모델 겸 배우가 2026년 11월 18일 Texas 회사 Cooper Street, LLC를 상대로 연방 소송을 냈다. 이 회사는 RomperJack이라는 이름으로 영업한다. 현금 대가 없이 찍은 2021년 촬영분의 스틸 사진을 가져다 소셜 미디어 광고용 AI 생성(AI-generated) 이미지와 동영상으로 만들었다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "게시글에는 “모든 HubSpot 좌석에는 Claude나 ChatGPT에서 일상 업무를 마칠 수 있을 만큼의 헤드리스 접근 권한이 추가 비용 없이 포함된다”고 적혀 있다. 기존 APIs로 서드파티 에이전트를 쓰면 “요금제에 이미 포함된 API 용량에 반영되며 크레딧을 소모하지 않는다.” 에이전트에 거버넌스와 완전한 추적성, 전용 도구가 필요한 팀은 HubSpot Credits로 비용을 낸다."
+                "x": "Jeffrey S. Stanfield의 소장(사건번호 2:26-cv-13465, Central District of California)에는 허위 보증을 비롯해 청구 다섯 건이 담겼다. 소장에 따르면 RomperJack 소유주 Emmanuel Sullivan은 2025년 1월 사업체를 인수한 \"이후에 인공지능 보강 작업이 만들어졌다고 서신에서 인정했다\". 모두 아직 법정에서 가려지지 않은 주장이다."
               },
               {
                 "t": "p",
-                "x": "새 환경의 요율이나 한도, 시작일은 게시글에 없었고 “일상 업무”가 무엇인지도 정의하지 않았다. HubSpot 카탈로그를 보면 추가 API 용량은 팩당 월 $500이고 최대 두 팩까지 살 수 있다."
+                "x": "Stanfield가 받은 것은 의류와 사진 사본뿐이고, 모델 출연 동의서에는 서명한 적이 없다. 광고에는 AI 생성(AI-generated) Instagram 이미지 두 장과 동영상이 들어갔다. 동영상은 실제로는 없었던 장면으로, \"Mr. Stanfield를 가상의 움직임 속에 넣고 새로운 표정, 몸짓, 시청각 행동을 만들어 낸\" 것이다."
               },
               {
                 "t": "p",
-                "x": "HubSpot에 따르면 3분기 고객이 커넥터로 만든 CRM 객체는 2,200만 개를 넘었다. 2분기보다 157% 늘었다."
+                "x": "그의 하루 촬영료는 약 $2,500이고, 과거 사용료는 $2,500에서 $10,000 사이였다. 그는 손해배상과 이익 반환을 청구하면서, 서면 동의 없이 자신을 AI로 묘사하지 못하게 하는 명령도 구한다. 스틸 사진을 느슨하게 허락했다고 해서 당사자가 한 적 없는 합성 연기까지 허락한 셈이 되는지가 이번 사건에서 갈린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude・ChatGPT\nHubSpot追加料金なし",
-          "body": "HubSpotはClaudeやChatGPTからの日常的なCRM利用をシート料金に含める。",
-          "mini_headline": "HubSpot、AIエージェントに追加課金なし",
+          "headline": "RomperJackを提訴\n古い写真がAI広告に",
+          "body": "StanfieldはRomperJackが2021年の写真をAI広告に転用したと訴える。",
+          "mini_headline": "モデルがAI広告で提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年11月17日に公開された投稿によると、HubSpotはClaudeやChatGPTからソフトウェア内で行う日常業務について顧客に追加料金を請求せず、既存のAPIsに接続するAIエージェントもHubSpot Creditsを消費しない。Creditsが使われるのは第三の段階で、HubSpotがまだ構築中だとするエージェント向けの管理された環境だ。"
+                "x": "Los Angelesのモデル兼俳優が2026年11月18日、RomperJackの名で営業するTexasの企業Cooper Street, LLCを相手取り連邦訴訟を起こした。現金の支払いを受けていない2021年の撮影のスチール写真を使い、ソーシャルメディア広告向けのAI生成（AI-generated）画像と動画にしたと主張している。"
               },
               {
                 "t": "p",
-                "x": "投稿には「すべてのHubSpotシートには、ClaudeやChatGPTから日常業務を完了できる十分なヘッドレスアクセスが追加費用なしで含まれる」とある。既存のAPIsでのサードパーティ製エージェントの利用は「プランにすでに含まれるAPI容量にカウントされ、クレジットは消費しない」。エージェントにガバナンス、完全なトレーサビリティ、専用ツールを求めるチームはHubSpot Creditsで支払う。"
+                "x": "Jeffrey S. Stanfieldの訴状（事件番号2:26-cv-13465、Central District of California）は、虚偽の推奨を筆頭に五つの請求を挙げる。RomperJackのオーナーEmmanuel Sullivanは、2025年1月に事業を取得した「後に人工知能による加工が作られたことを書簡で認めた」という。これらの主張は法廷でまだ検証されていない申し立てだ。"
               },
               {
                 "t": "p",
-                "x": "投稿は新環境の料金、上限、開始日を示しておらず、「日常業務」も定義していない。HubSpotのカタログによれば、追加のAPI容量はパックあたり月$500で、最大二パックまで購入できる。"
+                "x": "Stanfieldが受け取ったのは衣類と写真のコピーで、モデルリリースには署名していない。広告にはAI生成（AI-generated）のInstagram画像二点と、実際には起きていない「Mr. Stanfieldを擬似的な動きの中に置き、新たな表情や身ぶり、視聴覚的な振る舞いを作り出した」動画が含まれる。"
               },
               {
                 "t": "p",
-                "x": "HubSpotによると、顧客が第三四半期にコネクター経由で作成したCRMオブジェクトは2,200万件を超え、第二四半期から157%増えた。"
+                "x": "彼の日当は約$2,500で、過去の使用料は$2,500から$10,000だった。損害賠償と利益の返還に加え、書面の同意なく彼をAIで描くことを禁じる命令を求めている。この訴訟は、スチール写真への緩い許可が、本人が一度も演じていない合成の演技にまで及ぶのかを問う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude和ChatGPT\nHubSpot不额外收费",
-          "body": "HubSpot席位涵盖经Claude或ChatGPT的日常CRM使用，受管智能体用积分。",
-          "mini_headline": "HubSpot：AI智能体不额外收费",
+          "headline": "模特起诉RomperJack\n用旧照做AI广告",
+          "body": "模特Stanfield称RomperJack新东家用其2021年照片做AI广告。",
+          "mini_headline": "模特因AI广告起诉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "根据2026年11月17日发布的一篇文章，HubSpot不会因客户通过Claude或ChatGPT在软件内完成日常工作而多收费，接入其现有APIs的AI智能体也不会消耗HubSpot Credits。Credits在第三个层级才会用到：HubSpot称仍在构建的、面向智能体的受管环境。"
+                "x": "一名Los Angeles模特兼演员于2026年11月18日对以RomperJack名义经营的Texas公司Cooper Street, LLC提起联邦诉讼，指控其拿走他在2021年一次未获现金报酬的拍摄中的静态照片，并将其制成AI生成（AI-generated）的图片和视频用于社交媒体广告。"
               },
               {
                 "t": "p",
-                "x": "文章写道：“每个HubSpot席位都附带足够的无头访问权限，可让你通过Claude或ChatGPT完成日常工作，且无需额外付费。”第三方智能体在现有APIs上的使用“计入其套餐已包含的API容量，不消耗积分”。希望为智能体获得治理能力、完整可追溯性和专用工具的团队，则需用HubSpot Credits付费。"
+                "x": "Jeffrey S. Stanfield的起诉书（案号2:26-cv-13465，Central District of California）提出五项诉求，以虚假代言为首。RomperJack的所有者Emmanuel Sullivan“在往来信函中承认，人工智能增强内容是在”他于2025年1月收购该业务“之后制作的”。这些说法均为尚未经法庭检验的指控。"
               },
               {
                 "t": "p",
-                "x": "文章没有给出新环境的费率、限额或启动日期，也没有界定何为“日常工作”。根据HubSpot的产品目录，额外API容量每包每月$500，最多可购买两包。"
+                "x": "Stanfield收到了服装和照片副本，没有签署模特授权书。涉事广告包括两张AI生成（AI-generated）的Instagram图片和一段视频，该视频“将Mr. Stanfield置于模拟动作中，并创造了新的面部表情、手势和视听行为”，而这些从未发生过。"
               },
               {
                 "t": "p",
-                "x": "HubSpot称，第三季度客户通过连接器创建的CRM对象超过2200万个，比第二季度增长157%。"
+                "x": "他的日薪约为$2,500，过往的使用费在$2,500到$10,000之间。他要求赔偿损失、返还利润，并请求法院禁止任何未经其书面同意的AI形象描绘。此案检验的是：对一张静态照片的宽松许可，能否延伸到当事人从未做出的合成表演。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HubSpot no cobrará extra por\nusar Claude o ChatGPT",
-          "body": "Las licencias de HubSpot cubren el uso diario del CRM desde Claude o ChatGPT; los créditos, para agentes gobernados.",
-          "mini_headline": "HubSpot: sin recargo por agentes de AI",
+          "headline": "Un modelo demanda a RomperJack\npor anuncios AI de fotos viejas",
+          "body": "Jeffrey Stanfield afirma que el nuevo dueño de RomperJack convirtió su sesión de 2021 en anuncios AI-generated.",
+          "mini_headline": "Un modelo demanda por anuncios AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "HubSpot no cobrará más a sus clientes por el trabajo rutinario que hagan dentro del software desde Claude o ChatGPT, y los agentes de AI que se conecten a sus APIs existentes no consumirán HubSpot Credits, según una publicación del 17 de noviembre de 2026. Los Credits entran en un tercer nivel: un entorno gobernado para agentes que HubSpot dice que aún está construyendo."
+                "x": "Un modelo y actor de Los Angeles presentó el 18 de noviembre de 2026 una demanda federal contra Cooper Street, LLC, la empresa de Texas que opera como RomperJack, alegando que tomó fotografías fijas de una sesión de 2021 por la que nunca recibió pago en efectivo y las convirtió en imágenes y video AI-generated para su publicidad en redes sociales."
               },
               {
                 "t": "p",
-                "x": "“Cada licencia de HubSpot incluye suficiente acceso headless para completar tu trabajo diario desde Claude o ChatGPT, sin costo adicional”, dice la publicación. El uso de agentes de terceros sobre las APIs existentes “cuenta para la capacidad de API ya incluida en su plan y no consume créditos”. Los equipos que quieran gobernanza, trazabilidad completa y herramientas específicas para sus agentes pagan en HubSpot Credits."
+                "x": "La demanda de Jeffrey S. Stanfield (caso 2:26-cv-13465, Central District of California) plantea cinco reclamaciones, encabezadas por la de falso respaldo. El dueño de RomperJack, Emmanuel Sullivan, \"reconoció por correspondencia que las mejoras de inteligencia artificial se crearon después de\" que adquiriera el negocio en enero de 2025. Las reclamaciones son alegaciones aún no probadas en los tribunales."
               },
               {
                 "t": "p",
-                "x": "La publicación no da tarifas, límites ni fechas de inicio para el nuevo entorno, y no define qué es el “trabajo diario”. La capacidad de API adicional cuesta hasta dos paquetes de $500 al mes cada uno, según el catálogo de HubSpot."
+                "x": "Stanfield recibió ropa y copias de las fotografías y no firmó ninguna autorización de modelo. Los anuncios incluyen dos imágenes AI-generated de Instagram y un video que \"colocó a Mr. Stanfield en un movimiento simulado y creó nuevas expresiones faciales, gestos y conducta audiovisual\" que nunca ocurrieron."
               },
               {
                 "t": "p",
-                "x": "HubSpot afirma que los clientes crearon más de 22 millones de objetos de CRM mediante conectores en el tercer trimestre, un 157% más que en el segundo."
+                "x": "Su tarifa diaria ronda los $2,500 y sus tarifas de uso anteriores fueron de $2,500 a $10,000. Pide daños, beneficios y una orden que prohíba cualquier representación de él con AI sin consentimiento por escrito. El caso pone a prueba si un permiso laxo para una foto fija puede extenderse a una actuación sintética que la persona nunca dio."
               }
             ]
           }
@@ -1229,121 +1157,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude·ChatGPT\nHubSpot 웃돈 없다",
-          "body": "HubSpot 좌석에 Claude·ChatGPT 일상 CRM 사용이 포함된다.",
-          "mini_headline": "HubSpot, AI 에이전트 추가 과금 없다",
+          "headline": "RomperJack 상대로\n모델이 AI 광고 소송",
+          "body": "RomperJack이 2021년 촬영 사진으로 AI 광고를 만들었다는 소송이다.",
+          "mini_headline": "모델, AI 광고로 소송",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "HubSpot은 2026년 11월 17일 게시한 글에서, 고객이 Claude나 ChatGPT로 소프트웨어 안의 일상 업무를 처리해도 요금을 더 받지 않고 기존 APIs에 연결되는 AI 에이전트도 HubSpot Credits를 차감하지 않는다고 밝혔다. Credits가 쓰이는 곳은 세 번째 단계로, HubSpot이 아직 구축 중이라고 밝힌 에이전트용 관리 환경이다."
+                "x": "Los Angeles의 모델 겸 배우가 2026년 11월 18일 RomperJack이라는 이름으로 영업하는 Texas 회사 Cooper Street, LLC를 상대로 연방 소송을 냈다. 현금 대가를 받지 못한 2021년 촬영의 스틸 사진을 가져가 소셜 미디어 광고용 AI 생성(AI-generated) 이미지와 동영상으로 만들었다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "게시글에는 “모든 HubSpot 좌석에는 Claude나 ChatGPT에서 일상 업무를 마칠 수 있을 만큼의 헤드리스 접근 권한이 추가 비용 없이 포함된다”고 적혀 있다. 기존 APIs를 통한 서드파티 에이전트 사용은 “요금제에 이미 포함된 API 용량에 반영되며 크레딧을 소모하지 않는다.” 에이전트에 거버넌스와 완전한 추적성, 전용 도구를 원하는 팀은 HubSpot Credits로 비용을 낸다."
+                "x": "Jeffrey S. Stanfield의 소장(사건번호 2:26-cv-13465, Central District of California)은 허위 보증을 필두로 다섯 가지 청구를 담았다. 소장에 따르면 RomperJack 소유주 Emmanuel Sullivan은 2025년 1월 사업체를 인수한 \"이후에 인공지능 보강 작업이 만들어졌다고 서신에서 인정했다\". 이 주장들은 아직 법정에서 검증되지 않은 혐의다."
               },
               {
                 "t": "p",
-                "x": "게시글은 새 환경의 요율이나 한도, 시작일을 밝히지 않았고 “일상 업무”의 정의도 내놓지 않았다. HubSpot 카탈로그에 따르면 추가 API 용량은 팩당 월 $500이며 최대 두 팩까지 살 수 있다."
+                "x": "Stanfield는 의류와 사진 사본을 받았을 뿐 모델 출연 동의서에는 서명하지 않았다. 광고에는 AI 생성(AI-generated) Instagram 이미지 두 장과, 실제로는 없었던 \"Mr. Stanfield를 가상의 움직임 속에 넣고 새로운 표정, 몸짓, 시청각 행동을 만들어 낸\" 동영상이 포함됐다."
               },
               {
                 "t": "p",
-                "x": "HubSpot은 3분기에 고객이 커넥터로 만든 CRM 객체가 2,200만 개를 넘었고, 2분기보다 157% 늘었다고 밝혔다."
+                "x": "그의 하루 촬영료는 약 $2,500이며, 과거 사용료는 $2,500에서 $10,000 사이였다. 그는 손해배상과 이익 반환, 그리고 서면 동의 없이 자신을 AI로 묘사하는 것을 금지하는 명령을 구한다. 이번 사건은 스틸 사진에 대한 느슨한 허락이 당사자가 한 적 없는 합성 연기로까지 확장될 수 있는지를 가늠한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude・ChatGPT\nHubSpot追加料金なし",
-          "body": "HubSpotはClaudeやChatGPTからの日常的なCRM利用をシート料金に含める。",
-          "mini_headline": "HubSpot、AIエージェントに追加課金なし",
+          "headline": "RomperJackを提訴\n古い写真がAI広告に",
+          "body": "StanfieldはRomperJackが2021年の写真をAI広告に転用したと訴える。",
+          "mini_headline": "モデルがAI広告で提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年11月17日に公開された投稿によると、HubSpotはClaudeやChatGPTからソフトウェア内で行う日常業務について顧客に追加料金を請求せず、既存のAPIsに接続するAIエージェントもHubSpot Creditsを消費しない。Creditsが使われるのは第三の段階で、HubSpotがまだ構築中だとするエージェント向けの管理された環境だ。"
+                "x": "Los Angelesのモデル兼俳優が2026年11月18日、RomperJackの名で営業するTexasの企業Cooper Street, LLCを相手取り連邦訴訟を起こした。現金の支払いを受けていない2021年の撮影のスチール写真を使い、ソーシャルメディア広告向けのAI生成（AI-generated）画像と動画にしたと主張している。"
               },
               {
                 "t": "p",
-                "x": "投稿には「すべてのHubSpotシートには、ClaudeやChatGPTから日常業務を完了できる十分なヘッドレスアクセスが追加費用なしで含まれる」とある。既存のAPIsでのサードパーティ製エージェントの利用は「プランにすでに含まれるAPI容量にカウントされ、クレジットは消費しない」。エージェントにガバナンス、完全なトレーサビリティ、専用ツールを求めるチームはHubSpot Creditsで支払う。"
+                "x": "Jeffrey S. Stanfieldの訴状（事件番号2:26-cv-13465、Central District of California）は、虚偽の推奨を筆頭に五つの請求を挙げる。RomperJackのオーナーEmmanuel Sullivanは、2025年1月に事業を取得した「後に人工知能による加工が作られたことを書簡で認めた」という。これらの主張は法廷でまだ検証されていない申し立てだ。"
               },
               {
                 "t": "p",
-                "x": "投稿は新環境の料金、上限、開始日を示しておらず、「日常業務」も定義していない。HubSpotのカタログによれば、追加のAPI容量はパックあたり月$500で、最大二パックまで購入できる。"
+                "x": "Stanfieldが受け取ったのは衣類と写真のコピーで、モデルリリースには署名していない。広告にはAI生成（AI-generated）のInstagram画像二点と、実際には起きていない「Mr. Stanfieldを擬似的な動きの中に置き、新たな表情や身ぶり、視聴覚的な振る舞いを作り出した」動画が含まれる。"
               },
               {
                 "t": "p",
-                "x": "HubSpotによると、顧客が第三四半期にコネクター経由で作成したCRMオブジェクトは2,200万件を超え、第二四半期から157%増えた。"
+                "x": "彼の日当は約$2,500で、過去の使用料は$2,500から$10,000だった。損害賠償と利益の返還に加え、書面の同意なく彼をAIで描くことを禁じる命令を求めている。この訴訟は、スチール写真への緩い許可が、本人が一度も演じていない合成の演技にまで及ぶのかを問う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude和ChatGPT\nHubSpot不额外收费",
-          "body": "HubSpot席位涵盖经Claude或ChatGPT的日常CRM使用，受管智能体用积分。",
-          "mini_headline": "HubSpot：AI智能体不额外收费",
+          "headline": "模特起诉RomperJack\n用旧照做AI广告",
+          "body": "模特Stanfield称RomperJack新东家用其2021年照片做AI广告。",
+          "mini_headline": "模特因AI广告起诉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "根据2026年11月17日发布的一篇文章，HubSpot不会因客户通过Claude或ChatGPT在软件内完成日常工作而多收费，接入其现有APIs的AI智能体也不会消耗HubSpot Credits。Credits在第三个层级才会用到：HubSpot称仍在构建的、面向智能体的受管环境。"
+                "x": "一名Los Angeles模特兼演员于2026年11月18日对以RomperJack名义经营的Texas公司Cooper Street, LLC提起联邦诉讼，指控其拿走他在2021年一次未获现金报酬的拍摄中的静态照片，并将其制成AI生成（AI-generated）的图片和视频用于社交媒体广告。"
               },
               {
                 "t": "p",
-                "x": "文章写道：“每个HubSpot席位都附带足够的无头访问权限，可让你通过Claude或ChatGPT完成日常工作，且无需额外付费。”第三方智能体在现有APIs上的使用“计入其套餐已包含的API容量，不消耗积分”。希望为智能体获得治理能力、完整可追溯性和专用工具的团队，则需用HubSpot Credits付费。"
+                "x": "Jeffrey S. Stanfield的起诉书（案号2:26-cv-13465，Central District of California）提出五项诉求，以虚假代言为首。RomperJack的所有者Emmanuel Sullivan“在往来信函中承认，人工智能增强内容是在”他于2025年1月收购该业务“之后制作的”。这些说法均为尚未经法庭检验的指控。"
               },
               {
                 "t": "p",
-                "x": "文章没有给出新环境的费率、限额或启动日期，也没有界定何为“日常工作”。根据HubSpot的产品目录，额外API容量每包每月$500，最多可购买两包。"
+                "x": "Stanfield收到了服装和照片副本，没有签署模特授权书。涉事广告包括两张AI生成（AI-generated）的Instagram图片和一段视频，该视频“将Mr. Stanfield置于模拟动作中，并创造了新的面部表情、手势和视听行为”，而这些从未发生过。"
               },
               {
                 "t": "p",
-                "x": "HubSpot称，第三季度客户通过连接器创建的CRM对象超过2200万个，比第二季度增长157%。"
+                "x": "他的日薪约为$2,500，过往的使用费在$2,500到$10,000之间。他要求赔偿损失、返还利润，并请求法院禁止任何未经其书面同意的AI形象描绘。此案检验的是：对一张静态照片的宽松许可，能否延伸到当事人从未做出的合成表演。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HubSpot no cobrará extra por\nusar Claude o ChatGPT",
-          "body": "Las licencias de HubSpot cubren el uso diario del CRM desde Claude o ChatGPT; los créditos, para agentes gobernados.",
-          "mini_headline": "HubSpot: sin recargo por agentes de AI",
+          "headline": "Un modelo demanda a RomperJack\npor anuncios AI de fotos viejas",
+          "body": "Jeffrey Stanfield afirma que el nuevo dueño de RomperJack convirtió su sesión de 2021 en anuncios AI-generated.",
+          "mini_headline": "Un modelo demanda por anuncios AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/11/hubspot-headless-pricing-claude-chatgpt-included-with-seat-credits-for-governed-agents-three-gates.jpg"
+                "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
               },
               {
                 "t": "p",
-                "x": "HubSpot no cobrará más a sus clientes por el trabajo rutinario que hagan dentro del software desde Claude o ChatGPT, y los agentes de AI que se conecten a sus APIs existentes no consumirán HubSpot Credits, según una publicación del 17 de noviembre de 2026. Los Credits entran en un tercer nivel: un entorno gobernado para agentes que HubSpot dice que aún está construyendo."
+                "x": "Un modelo y actor de Los Angeles presentó el 18 de noviembre de 2026 una demanda federal contra Cooper Street, LLC, la empresa de Texas que opera como RomperJack, alegando que tomó fotografías fijas de una sesión de 2021 por la que nunca recibió pago en efectivo y las convirtió en imágenes y video AI-generated para su publicidad en redes sociales."
               },
               {
                 "t": "p",
-                "x": "“Cada licencia de HubSpot incluye suficiente acceso headless para completar tu trabajo diario desde Claude o ChatGPT, sin costo adicional”, dice la publicación. El uso de agentes de terceros sobre las APIs existentes “cuenta para la capacidad de API ya incluida en su plan y no consume créditos”. Los equipos que quieran gobernanza, trazabilidad completa y herramientas específicas para sus agentes pagan en HubSpot Credits."
+                "x": "La demanda de Jeffrey S. Stanfield (caso 2:26-cv-13465, Central District of California) plantea cinco reclamaciones, encabezadas por la de falso respaldo. El dueño de RomperJack, Emmanuel Sullivan, \"reconoció por correspondencia que las mejoras de inteligencia artificial se crearon después de\" que adquiriera el negocio en enero de 2025. Las reclamaciones son alegaciones aún no probadas en los tribunales."
               },
               {
                 "t": "p",
-                "x": "La publicación no da tarifas, límites ni fechas de inicio para el nuevo entorno, y no define qué es el “trabajo diario”. La capacidad de API adicional cuesta hasta dos paquetes de $500 al mes cada uno, según el catálogo de HubSpot."
+                "x": "Stanfield recibió ropa y copias de las fotografías y no firmó ninguna autorización de modelo. Los anuncios incluyen dos imágenes AI-generated de Instagram y un video que \"colocó a Mr. Stanfield en un movimiento simulado y creó nuevas expresiones faciales, gestos y conducta audiovisual\" que nunca ocurrieron."
               },
               {
                 "t": "p",
-                "x": "HubSpot afirma que los clientes crearon más de 22 millones de objetos de CRM mediante conectores en el tercer trimestre, un 157% más que en el segundo."
+                "x": "Su tarifa diaria ronda los $2,500 y sus tarifas de uso anteriores fueron de $2,500 a $10,000. Pide daños, beneficios y una orden que prohíba cualquier representación de él con AI sin consentimiento por escrito. El caso pone a prueba si un permiso laxo para una foto fija puede extenderse a una actuación sintética que la persona nunca dio."
               }
             ]
           }
@@ -1351,267 +1279,189 @@
       }
     },
     {
-      "id": "target-ask-target-sales",
+      "id": "loblaw-meta-muse-grocery",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Target AI 비서\n쇼핑 매출 끌어올린다",
-      "body": "Target이 Q3 콜에서 AI 비서 Ask Target의 매출 효과를 공개했다.",
-      "mini_headline": "Target AI 비서가 낸 매출 성과",
+      "headline": "Meta Muse로 이제\n캐나다 Loblaw 장본다",
+      "body": "Loblaw가 Meta Muse 에이전트에 붙는 첫 캐나다 소매업체가 됐다.",
+      "mini_headline": "Muse로 Loblaw 장보기",
       "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/loblaw-lets-metas-muse-plan-meals-and-check-out-groceries-in-canada/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-            "cap": "Alexandria, Virginia에 있는 Target 매장. Dani James/Retail Dive"
+            "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
           },
           {
             "t": "p",
-            "x": "Target이 쇼핑 비서 Ask Target 베타를 내놓고 소비자용 AI 기술에 투자를 늘린다."
+            "x": "Meta는 2026년 11월 18일, 자사 AI 에이전트 앱 Muse에 카탈로그를 연결하는 첫 캐나다 소매업체가 Loblaw라고 발표했다. 쇼핑객은 앱을 떠나지 않고도 식단 계획과 장바구니 구성, 참여 Loblaw 배너 매장 결제까지 Muse에 맡길 수 있다."
           },
           {
             "t": "p",
-            "x": "CEO Michael Fiddelke는 수요일 실적 발표 콜에서 애널리스트들에게 회사가 이 도구의 초기 성과에 고무돼 있다고 말했다."
+            "x": "Meta는 \"Muse는 브랜드 선호와 음식 알레르기 같은 정보를 기억해 다음 주 계획을 한결 쉽게 만든다\"고 적었다. 다만 어떤 배너가 참여하는지는 밝히지 않았다. PC Optimum 포인트 언급도, Loblaw 측 입장도 게시물에는 없었다."
           },
           {
             "t": "p",
-            "x": "Fiddelke는 “우리는 사업의 토대를 받치는 시스템을 현대화하면서 혁신도 가속하고 있다. 상품 가용성과 팀 효율을 높이는 도구부터 AI 기반(AI-driven) 쇼핑 비서 Ask Target 같은 고객용 도구까지 그렇다”고 말했다. 새 기능은 앞으로 몇 달 안에 선보이겠다고 덧붙였다."
+            "x": "게시물에 따르면 캐나다 사용자는 움직이는 아바타와 음성으로 대화하고 스페이스 기능도 쓸 수 있다. 같은 날 Google은 11월 Marketing Platform 업데이트에서 Display & Video 360의 Commerce Media Suite에 Loblaw Advance 오디언스를 넣었다."
           },
           {
             "t": "p",
-            "x": "Business Insider의 10월 보도에 따르면 Ask Target 베타는 지난달 공개됐다."
-          },
-          {
-            "t": "p",
-            "x": "Fiddelke에 따르면 Ask Target을 쓰는 고객은 다른 경로보다 구매로 이어지는 비율이 약 두 배 높다."
-          },
-          {
-            "t": "p",
-            "x": "업계 웹사이트 트래픽 흐름이 계속 바뀌는 가운데, Fiddelke는 이 유통업체가 에이전틱 커머스 시대에 유리한 자리에 있다고 봤다."
-          },
-          {
-            "t": "p",
-            "x": "그는 “소비자 구매 퍼널에서 일어나는 모든 변화의 최전선에 서는 것이 중요하다”며 “소비자가 우리 상품을 찾는 방식의 변화에 오랫동안 잘 대응해 왔다고 생각한다. … 소비자가 좋은 상품을 찾는 방식의 최전선에 서고 싶다”고 말했다."
+            "x": "Loblaw는 2월에 이미 ChatGPT 안에 PC Express 앱을 내놓았다. Muse를 제한한 Amazon, eBay와 달리 Loblaw는 공인된 통합 경로를 택했다. 에이전트가 무엇을 볼지 소매업체가 얼마나 통제하느냐가 이 차이에서 갈린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Target's AI shopping\nassistant drives sales",
-          "body": "On its Q3 call, Target said its beta Ask Target AI assistant is showing early sales success.",
-          "mini_headline": "Target's AI assistant sells",
+          "headline": "Meta's Muse can now shop\nLoblaw groceries in Canada",
+          "body": "Loblaw is the first Canadian retail connector for Meta's Muse agent, which plans meals and checks out grocery baskets.",
+          "mini_headline": "Muse shops Loblaw groceries",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "Target storefront in Alexandria, Virginia. Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Target is investing more into consumer-facing AI technology with the beta launch of its Ask Target shopping assistant."
+                "x": "On November 18, 2026, Meta named Loblaw as the first Canadian retailer to connect its catalogue to Muse, the company's AI agent app. Shoppers can ask Muse to plan meals, build a basket and check out with participating Loblaw banners without leaving the app."
               },
               {
                 "t": "p",
-                "x": "The mass retailer has been encouraged by early results from the tool, CEO Michael Fiddelke told analysts on an earnings call Wednesday."
+                "x": "\"Muse can remember brand preferences and information like food allergies, making next week's planning even easier,\" Meta writes. The post does not say which banners take part, mention PC Optimum points or carry a statement from Loblaw."
               },
               {
                 "t": "p",
-                "x": "“We're modernizing the systems that support the foundation of our business while accelerating innovation too, from tools that improve product availability and team efficiency to guest-facing tools like Ask Target, our AI-driven shopping assistant,” Fiddelke said, adding that new capabilities will be introduced in the months ahead."
+                "x": "The same post brings voice conversations with an animated avatar, and spaces, to Canadian users. The same day, Google's November Marketing Platform update placed Loblaw Advance audiences inside the Commerce Media Suite in Display & Video 360."
               },
               {
                 "t": "p",
-                "x": "The beta version of Ask Target debuted last month, per reporting in October from Business Insider."
-              },
-              {
-                "t": "p",
-                "x": "Target is seeing customers move to purchase at about twice the rate through the use of Ask Target versus elsewhere, Fiddelke noted on the earnings call."
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke said the retailer is well-positioned in the age of agentic commerce as website traffic trends continue to change in the industry."
-              },
-              {
-                "t": "p",
-                "x": "“It's important for us to be at the forefront of any changes to the consumer purchase funnel,” he said. “I think we've navigated changes to how consumers find our product well over time. … We want to be at the forefront of how consumers find great products.”"
+                "x": "Loblaw already launched a PC Express app inside ChatGPT in February. Unlike Amazon and eBay, which restricted Muse, Loblaw is taking a sanctioned integration route - a distinction that shapes how much control a retailer keeps over what the agent sees."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Target AI 비서\n쇼핑 매출 끌어올린다",
-          "body": "Target이 Q3 콜에서 AI 비서 Ask Target의 매출 효과를 공개했다.",
-          "mini_headline": "Target AI 비서가 낸 매출 성과",
+          "headline": "Meta Muse로 이제\n캐나다 Loblaw 장본다",
+          "body": "Loblaw가 Meta Muse 에이전트에 붙는 첫 캐나다 소매업체가 됐다.",
+          "mini_headline": "Muse로 Loblaw 장보기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "Alexandria, Virginia에 있는 Target 매장. Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Target이 쇼핑 비서 Ask Target 베타를 내놓고 소비자용 AI 기술에 투자를 늘린다."
+                "x": "Meta는 2026년 11월 18일, 자사 AI 에이전트 앱 Muse에 카탈로그를 연결하는 첫 캐나다 소매업체가 Loblaw라고 발표했다. 쇼핑객은 앱을 떠나지 않고도 식단 계획과 장바구니 구성, 참여 Loblaw 배너 매장 결제까지 Muse에 맡길 수 있다."
               },
               {
                 "t": "p",
-                "x": "CEO Michael Fiddelke는 수요일 실적 발표 콜에서 애널리스트들에게 회사가 이 도구의 초기 성과에 고무돼 있다고 말했다."
+                "x": "Meta는 \"Muse는 브랜드 선호와 음식 알레르기 같은 정보를 기억해 다음 주 계획을 한결 쉽게 만든다\"고 적었다. 다만 어떤 배너가 참여하는지는 밝히지 않았다. PC Optimum 포인트 언급도, Loblaw 측 입장도 게시물에는 없었다."
               },
               {
                 "t": "p",
-                "x": "Fiddelke는 “우리는 사업의 토대를 받치는 시스템을 현대화하면서 혁신도 가속하고 있다. 상품 가용성과 팀 효율을 높이는 도구부터 AI 기반(AI-driven) 쇼핑 비서 Ask Target 같은 고객용 도구까지 그렇다”고 말했다. 새 기능은 앞으로 몇 달 안에 선보이겠다고 덧붙였다."
+                "x": "게시물에 따르면 캐나다 사용자는 움직이는 아바타와 음성으로 대화하고 스페이스 기능도 쓸 수 있다. 같은 날 Google은 11월 Marketing Platform 업데이트에서 Display & Video 360의 Commerce Media Suite에 Loblaw Advance 오디언스를 넣었다."
               },
               {
                 "t": "p",
-                "x": "Business Insider의 10월 보도에 따르면 Ask Target 베타는 지난달 공개됐다."
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke에 따르면 Ask Target을 쓰는 고객은 다른 경로보다 구매로 이어지는 비율이 약 두 배 높다."
-              },
-              {
-                "t": "p",
-                "x": "업계 웹사이트 트래픽 흐름이 계속 바뀌는 가운데, Fiddelke는 이 유통업체가 에이전틱 커머스 시대에 유리한 자리에 있다고 봤다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “소비자 구매 퍼널에서 일어나는 모든 변화의 최전선에 서는 것이 중요하다”며 “소비자가 우리 상품을 찾는 방식의 변화에 오랫동안 잘 대응해 왔다고 생각한다. … 소비자가 좋은 상품을 찾는 방식의 최전선에 서고 싶다”고 말했다."
+                "x": "Loblaw는 2월에 이미 ChatGPT 안에 PC Express 앱을 내놓았다. Muse를 제한한 Amazon, eBay와 달리 Loblaw는 공인된 통합 경로를 택했다. 에이전트가 무엇을 볼지 소매업체가 얼마나 통제하느냐가 이 차이에서 갈린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TargetのAI購買支援\n売上押し上げに貢献",
-          "body": "TargetはQ3決算説明会で、AIアシスタントAsk Targetの販売成果を示した。",
-          "mini_headline": "TargetのAIアシスタントが売上に貢献",
+          "headline": "MetaのMuseが\nカナダLoblawで買い物",
+          "body": "LoblawはMetaのAIエージェントMuseと連携する初のカナダ小売企業だ。",
+          "mini_headline": "MuseでLoblawの食料品を購入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "Alexandria, VirginiaにあるTargetの店舗。Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Targetは、ショッピングアシスタント「Ask Target」のベータ版を投入し、消費者向けAI技術への投資を強めている。"
+                "x": "Metaは2026年11月18日、同社のAIエージェントアプリMuseにカタログを接続する初のカナダの小売企業としてLoblawを発表した。買い物客はアプリを離れずに、Museに献立作り、買い物かごの作成、参加するLoblawのバナー店舗での決済を頼める。"
               },
               {
                 "t": "p",
-                "x": "CEOのMichael Fiddelkeは水曜日の決算説明会で、この大手小売りがツールの初期成果に手応えを感じているとアナリストに語った。"
+                "x": "Metaは「Museはブランドの好みや食物アレルギーなどの情報を記憶でき、翌週の計画がさらに楽になる」と書く。投稿はどのバナーが参加するかを明かさず、PC Optimumポイントにも触れず、Loblawの声明も載せていない。"
               },
               {
                 "t": "p",
-                "x": "「事業の基盤を支えるシステムを近代化しつつ、イノベーションも加速させている。商品の在庫確保やチームの効率を高めるツールから、当社のAI-driven（AI駆動）のショッピングアシスタントであるAsk Targetのような顧客向けツールまでだ」とFiddelkeは述べ、今後数カ月で新機能を導入すると付け加えた。"
+                "x": "同じ投稿では、アニメーションのアバターとの音声会話やスペース機能もカナダのユーザーに提供される。同日、Googleの11月のMarketing Platformアップデートは、Display & Video 360のCommerce Media Suite内にLoblaw Advanceのオーディエンスを組み込んだ。"
               },
               {
                 "t": "p",
-                "x": "Business Insiderの10月の報道によると、Ask Targetのベータ版は先月公開された。"
-              },
-              {
-                "t": "p",
-                "x": "Ask Targetを使った場合、顧客が購入に進む割合はそれ以外の場合の約二倍に達していると、Fiddelkeは決算説明会で指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "Fiddelkeは、業界でウェブサイトのトラフィック動向が変化し続けるなか、同社はエージェンティックコマースの時代に有利な位置にあると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "「消費者の購買ファネルのあらゆる変化の最前線にいることが重要だ」と彼は語った。「消費者が当社の商品を見つける方法の変化には、長年うまく対応してきたと思う。……消費者が優れた商品を見つける方法の最前線にいたい」"
+                "x": "Loblawは2月にすでにChatGPT内でPC Expressアプリを公開している。Museを制限したAmazonやeBayと異なり、Loblawは公認の統合ルートを選んだ。この違いが、エージェントに何を見せるかを小売企業がどこまで制御できるかを左右する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Target的AI购物助手\n带动销售",
-          "body": "Target在Q3财报电话会上称，测试版AI助手Ask Target初见销售成效。",
-          "mini_headline": "Target的AI助手带动销售",
+          "headline": "Meta的Muse现可\n在加拿大Loblaw购物",
+          "body": "Loblaw成为Meta旗下Muse智能体在加拿大的首个零售连接方，可规划餐食并结账。",
+          "mini_headline": "Muse可在Loblaw买菜",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "位于Alexandria, Virginia的Target门店。Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Target推出购物助手Ask Target测试版，加大对面向消费者的AI技术的投入。"
+                "x": "2026年11月18日，Meta宣布Loblaw成为首家将商品目录接入Muse的加拿大零售商。Muse是该公司的AI智能体应用。购物者无需离开应用，就能让Muse规划餐食、组建购物篮，并在参与合作的Loblaw旗下门店品牌结账。"
               },
               {
                 "t": "p",
-                "x": "CEO Michael Fiddelke周三在财报电话会上对分析师表示，这家大众零售商对该工具的早期成效感到鼓舞。"
+                "x": "Meta写道：“Muse能记住品牌偏好以及食物过敏等信息，让下周的规划更加轻松。”该帖子没有说明哪些门店品牌参与，没有提及PC Optimum积分，也没有附上Loblaw的声明。"
               },
               {
                 "t": "p",
-                "x": "Fiddelke表示：“我们在推动支撑业务根基的系统现代化的同时，也在加速创新，从提升商品供应和团队效率的工具，到面向顾客的工具，比如我们的AI-driven（AI驱动）购物助手Ask Target。”他还说，未来几个月将推出新功能。"
+                "x": "同一帖子还向加拿大用户推出了与动画头像的语音对话以及空间功能。同一天，Google的11月Marketing Platform更新将Loblaw Advance受众纳入Display & Video 360中的Commerce Media Suite。"
               },
               {
                 "t": "p",
-                "x": "据Business Insider 10月的报道，Ask Target测试版于上个月上线。"
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke在财报电话会上指出，通过Ask Target，顾客的购买转化率约为其他渠道的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke表示，随着行业网站流量趋势持续变化，这家零售商在智能体商务时代处于有利位置。"
-              },
-              {
-                "t": "p",
-                "x": "他说：“在消费者购买漏斗出现任何变化时站在最前沿，对我们很重要。我认为，长期以来我们很好地应对了消费者寻找我们产品方式的变化。……我们希望在消费者寻找好产品的方式上站在最前沿。”"
+                "x": "Loblaw已于2月在ChatGPT内推出PC Express应用。与限制Muse的Amazon和eBay不同，Loblaw走的是获得认可的集成路线——这一区别决定了零售商对智能体所见内容能保留多少控制权。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El asistente de compras con AI\nde Target impulsa las ventas",
-          "body": "En su llamada del Q3, Target dijo que su asistente de AI Ask Target, en beta, muestra un éxito inicial en ventas.",
-          "mini_headline": "El asistente de AI de Target vende",
+          "headline": "Muse de Meta ya puede hacer\nla compra en Loblaw en Canadá",
+          "body": "Loblaw es el primer conector minorista canadiense de Muse, el agente de Meta que planifica comidas y paga la compra.",
+          "mini_headline": "Muse compra en Loblaw",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "Tienda de Target en Alexandria, Virginia. Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Target invierte más en tecnología de AI orientada al consumidor con el lanzamiento en beta de su asistente de compras Ask Target."
+                "x": "El 18 de noviembre de 2026, Meta anunció a Loblaw como el primer minorista canadiense que conecta su catálogo a Muse, la app de agente de AI de la compañía. Los compradores pueden pedir a Muse que planifique comidas, arme una cesta y pague en las enseñas participantes de Loblaw sin salir de la app."
               },
               {
                 "t": "p",
-                "x": "La cadena minorista se siente alentada por los primeros resultados de la herramienta, dijo el CEO Michael Fiddelke a los analistas en una llamada de resultados el miércoles."
+                "x": "\"Muse puede recordar preferencias de marca e información como alergias alimentarias, lo que facilita aún más la planificación de la próxima semana\", escribe Meta. La publicación no dice qué enseñas participan, no menciona los puntos PC Optimum ni incluye una declaración de Loblaw."
               },
               {
                 "t": "p",
-                "x": "“Estamos modernizando los sistemas que sostienen la base de nuestro negocio y a la vez acelerando la innovación, desde herramientas que mejoran la disponibilidad de productos y la eficiencia de los equipos hasta herramientas para clientes como Ask Target, nuestro asistente de compras impulsado por AI (AI-driven)”, dijo Fiddelke, quien añadió que en los próximos meses se presentarán nuevas funciones."
+                "x": "La misma publicación lleva a los usuarios canadienses conversaciones de voz con un avatar animado, además de espacios. Ese mismo día, la actualización de noviembre de Google Marketing Platform incorporó las audiencias de Loblaw Advance a Commerce Media Suite en Display & Video 360."
               },
               {
                 "t": "p",
-                "x": "La versión beta de Ask Target debutó el mes pasado, según informó Business Insider en octubre."
-              },
-              {
-                "t": "p",
-                "x": "Target observa que los clientes pasan a comprar a una tasa aproximadamente del doble con Ask Target que por otras vías, señaló Fiddelke en la llamada de resultados."
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke dijo que la cadena está bien posicionada en la era del comercio agéntico, mientras las tendencias de tráfico web siguen cambiando en el sector."
-              },
-              {
-                "t": "p",
-                "x": "“Es importante para nosotros estar a la vanguardia de cualquier cambio en el embudo de compra del consumidor”, dijo. “Creo que hemos sabido adaptarnos con el tiempo a los cambios en la forma en que los consumidores encuentran nuestros productos. … Queremos estar a la vanguardia de cómo los consumidores encuentran grandes productos.”"
+                "x": "Loblaw ya lanzó en febrero una app de PC Express dentro de ChatGPT. A diferencia de Amazon y eBay, que restringieron Muse, Loblaw opta por una vía de integración autorizada, una diferencia que determina cuánto control conserva un minorista sobre lo que ve el agente."
               }
             ]
           }
@@ -1619,173 +1469,653 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Target AI 비서\n쇼핑 매출 끌어올린다",
-          "body": "Target은 Q3 콜에서 AI 비서 Ask Target의 매출 효과를 밝혔다.",
-          "mini_headline": "Target AI 비서, 매출 성과",
+          "headline": "Meta Muse로 이제\n캐나다 Loblaw 장본다",
+          "body": "Loblaw는 Meta Muse 에이전트의 첫 캐나다 소매 커넥터다.",
+          "mini_headline": "Muse로 Loblaw 장보기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "Alexandria, Virginia에 있는 Target 매장. Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Target이 쇼핑 비서 Ask Target 베타를 내놓으며 소비자용 AI 기술에 더 많이 투자하고 있다."
+                "x": "Meta는 2026년 11월 18일 자사 AI 에이전트 앱 Muse에 카탈로그를 연결하는 첫 캐나다 소매업체로 Loblaw를 발표했다. 쇼핑객은 앱을 벗어나지 않고 Muse에 식단 계획, 장바구니 구성, 참여 Loblaw 배너 매장에서의 결제를 맡길 수 있다."
               },
               {
                 "t": "p",
-                "x": "CEO Michael Fiddelke는 수요일 실적 발표 콜에서 애널리스트들에게 이 대형 유통업체가 도구의 초기 성과에 고무돼 있다고 말했다."
+                "x": "Meta는 \"Muse는 브랜드 선호와 음식 알레르기 같은 정보를 기억해 다음 주 계획을 한결 쉽게 만든다\"고 적었다. 게시물은 어떤 배너가 참여하는지 밝히지 않았고, PC Optimum 포인트도 언급하지 않았으며 Loblaw의 입장도 담지 않았다."
               },
               {
                 "t": "p",
-                "x": "Fiddelke는 “우리는 사업의 토대를 받치는 시스템을 현대화하면서 혁신도 가속하고 있다. 상품 가용성과 팀 효율을 높이는 도구부터 AI 기반(AI-driven) 쇼핑 비서 Ask Target 같은 고객용 도구까지 그렇다”고 말했다. 그는 앞으로 몇 달 안에 새 기능을 선보이겠다고 덧붙였다."
+                "x": "같은 게시물은 움직이는 아바타와의 음성 대화와 스페이스 기능도 캐나다 사용자에게 제공한다. 같은 날 Google의 11월 Marketing Platform 업데이트는 Display & Video 360의 Commerce Media Suite 안에 Loblaw Advance 오디언스를 넣었다."
               },
               {
                 "t": "p",
-                "x": "Business Insider의 10월 보도에 따르면 Ask Target 베타는 지난달 공개됐다."
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke는 실적 발표 콜에서 Ask Target을 쓰는 고객이 다른 경로보다 약 두 배 높은 비율로 구매로 이어지고 있다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke는 업계의 웹사이트 트래픽 흐름이 계속 바뀌는 가운데, 이 유통업체가 에이전틱 커머스 시대에 유리한 위치에 있다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “소비자 구매 퍼널에서 일어나는 모든 변화의 최전선에 서는 것이 중요하다”며 “소비자가 우리 상품을 찾는 방식의 변화에 오랫동안 잘 대응해 왔다고 생각한다. … 소비자가 좋은 상품을 찾는 방식의 최전선에 서고 싶다”고 말했다."
+                "x": "Loblaw는 이미 2월에 ChatGPT 안에 PC Express 앱을 출시했다. Muse를 제한한 Amazon, eBay와 달리 Loblaw는 공인된 통합 경로를 택했다. 이 차이가 에이전트가 무엇을 보는지에 대해 소매업체가 얼마나 통제권을 쥐는지를 가른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TargetのAI購買支援\n売上押し上げに貢献",
-          "body": "TargetはQ3決算説明会で、AIアシスタントAsk Targetの販売成果を示した。",
-          "mini_headline": "TargetのAIアシスタントが売上に貢献",
+          "headline": "MetaのMuseが\nカナダLoblawで買い物",
+          "body": "LoblawはMetaのAIエージェントMuseと連携する初のカナダ小売企業だ。",
+          "mini_headline": "MuseでLoblawの食料品を購入",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "Alexandria, VirginiaにあるTargetの店舗。Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Targetは、ショッピングアシスタント「Ask Target」のベータ版を投入し、消費者向けAI技術への投資を強めている。"
+                "x": "Metaは2026年11月18日、同社のAIエージェントアプリMuseにカタログを接続する初のカナダの小売企業としてLoblawを発表した。買い物客はアプリを離れずに、Museに献立作り、買い物かごの作成、参加するLoblawのバナー店舗での決済を頼める。"
               },
               {
                 "t": "p",
-                "x": "CEOのMichael Fiddelkeは水曜日の決算説明会で、この大手小売りがツールの初期成果に手応えを感じているとアナリストに語った。"
+                "x": "Metaは「Museはブランドの好みや食物アレルギーなどの情報を記憶でき、翌週の計画がさらに楽になる」と書く。投稿はどのバナーが参加するかを明かさず、PC Optimumポイントにも触れず、Loblawの声明も載せていない。"
               },
               {
                 "t": "p",
-                "x": "「事業の基盤を支えるシステムを近代化しつつ、イノベーションも加速させている。商品の在庫確保やチームの効率を高めるツールから、当社のAI-driven（AI駆動）のショッピングアシスタントであるAsk Targetのような顧客向けツールまでだ」とFiddelkeは述べ、今後数カ月で新機能を導入すると付け加えた。"
+                "x": "同じ投稿では、アニメーションのアバターとの音声会話やスペース機能もカナダのユーザーに提供される。同日、Googleの11月のMarketing Platformアップデートは、Display & Video 360のCommerce Media Suite内にLoblaw Advanceのオーディエンスを組み込んだ。"
               },
               {
                 "t": "p",
-                "x": "Business Insiderの10月の報道によると、Ask Targetのベータ版は先月公開された。"
-              },
-              {
-                "t": "p",
-                "x": "Ask Targetを使った場合、顧客が購入に進む割合はそれ以外の場合の約二倍に達していると、Fiddelkeは決算説明会で指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "Fiddelkeは、業界でウェブサイトのトラフィック動向が変化し続けるなか、同社はエージェンティックコマースの時代に有利な位置にあると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "「消費者の購買ファネルのあらゆる変化の最前線にいることが重要だ」と彼は語った。「消費者が当社の商品を見つける方法の変化には、長年うまく対応してきたと思う。……消費者が優れた商品を見つける方法の最前線にいたい」"
+                "x": "Loblawは2月にすでにChatGPT内でPC Expressアプリを公開している。Museを制限したAmazonやeBayと異なり、Loblawは公認の統合ルートを選んだ。この違いが、エージェントに何を見せるかを小売企業がどこまで制御できるかを左右する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Target的AI购物助手\n带动销售",
-          "body": "Target在Q3财报电话会上称，测试版AI助手Ask Target初见销售成效。",
-          "mini_headline": "Target的AI助手带动销售",
+          "headline": "Meta的Muse现可\n在加拿大Loblaw购物",
+          "body": "Loblaw成为Meta旗下Muse智能体在加拿大的首个零售连接方，可规划餐食并结账。",
+          "mini_headline": "Muse可在Loblaw买菜",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "位于Alexandria, Virginia的Target门店。Dani James/Retail Dive"
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
               },
               {
                 "t": "p",
-                "x": "Target推出购物助手Ask Target测试版，加大对面向消费者的AI技术的投入。"
+                "x": "2026年11月18日，Meta宣布Loblaw成为首家将商品目录接入Muse的加拿大零售商。Muse是该公司的AI智能体应用。购物者无需离开应用，就能让Muse规划餐食、组建购物篮，并在参与合作的Loblaw旗下门店品牌结账。"
               },
               {
                 "t": "p",
-                "x": "CEO Michael Fiddelke周三在财报电话会上对分析师表示，这家大众零售商对该工具的早期成效感到鼓舞。"
+                "x": "Meta写道：“Muse能记住品牌偏好以及食物过敏等信息，让下周的规划更加轻松。”该帖子没有说明哪些门店品牌参与，没有提及PC Optimum积分，也没有附上Loblaw的声明。"
               },
               {
                 "t": "p",
-                "x": "Fiddelke表示：“我们在推动支撑业务根基的系统现代化的同时，也在加速创新，从提升商品供应和团队效率的工具，到面向顾客的工具，比如我们的AI-driven（AI驱动）购物助手Ask Target。”他还说，未来几个月将推出新功能。"
+                "x": "同一帖子还向加拿大用户推出了与动画头像的语音对话以及空间功能。同一天，Google的11月Marketing Platform更新将Loblaw Advance受众纳入Display & Video 360中的Commerce Media Suite。"
               },
               {
                 "t": "p",
-                "x": "据Business Insider 10月的报道，Ask Target测试版于上个月上线。"
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke在财报电话会上指出，通过Ask Target，顾客的购买转化率约为其他渠道的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "Fiddelke表示，随着行业网站流量趋势持续变化，这家零售商在智能体商务时代处于有利位置。"
-              },
-              {
-                "t": "p",
-                "x": "他说：“在消费者购买漏斗出现任何变化时站在最前沿，对我们很重要。我认为，长期以来我们很好地应对了消费者寻找我们产品方式的变化。……我们希望在消费者寻找好产品的方式上站在最前沿。”"
+                "x": "Loblaw已于2月在ChatGPT内推出PC Express应用。与限制Muse的Amazon和eBay不同，Loblaw走的是获得认可的集成路线——这一区别决定了零售商对智能体所见内容能保留多少控制权。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El asistente de compras con AI\nde Target impulsa las ventas",
-          "body": "En su llamada del Q3, Target dijo que su asistente de AI Ask Target, en beta, muestra un éxito inicial en ventas.",
-          "mini_headline": "El asistente de AI de Target vende",
+          "headline": "Muse de Meta ya puede hacer\nla compra en Loblaw en Canadá",
+          "body": "Loblaw es el primer conector minorista canadiense de Muse, el agente de Meta que planifica comidas y paga la compra.",
+          "mini_headline": "Muse compra en Loblaw",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El 18 de noviembre de 2026, Meta anunció a Loblaw como el primer minorista canadiense que conecta su catálogo a Muse, la app de agente de AI de la compañía. Los compradores pueden pedir a Muse que planifique comidas, arme una cesta y pague en las enseñas participantes de Loblaw sin salir de la app."
+              },
+              {
+                "t": "p",
+                "x": "\"Muse puede recordar preferencias de marca e información como alergias alimentarias, lo que facilita aún más la planificación de la próxima semana\", escribe Meta. La publicación no dice qué enseñas participan, no menciona los puntos PC Optimum ni incluye una declaración de Loblaw."
+              },
+              {
+                "t": "p",
+                "x": "La misma publicación lleva a los usuarios canadienses conversaciones de voz con un avatar animado, además de espacios. Ese mismo día, la actualización de noviembre de Google Marketing Platform incorporó las audiencias de Loblaw Advance a Commerce Media Suite en Display & Video 360."
+              },
+              {
+                "t": "p",
+                "x": "Loblaw ya lanzó en febrero una app de PC Express dentro de ChatGPT. A diferencia de Amazon y eBay, que restringieron Muse, Loblaw opta por una vía de integración autorizada, una diferencia que determina cuánto control conserva un minorista sobre lo que ve el agente."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "cafe24-ai-referral-orders",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 경유 쇼핑 주문\n1년 새 4배 늘었다",
+      "body": "카페24 자사몰의 3분기 AI 유입 주문은 전년 대비 약 4배 늘었다.",
+      "mini_headline": "AI 경유 주문 4배",
+      "tool": "Marketing",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261120000232",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+            "cap": "카페24의 브랜드 성장 전략 컨퍼런스 'RUN YOUR BRAND' 현장. [사진=카페24]"
+          },
+          {
+            "t": "p",
+            "x": "생성형 인공지능(AI)을 통한 상품 추천이 실제 구매로 이어지는 사례가 늘어나는 것으로 나타났다. 카페24는 AI 쇼핑 환경에 대응하기 위해 자사몰의 상품 정보 구조를 개선하고 AI 검색 접근성을 높여야 한다고 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "카페24는 지난 19일 서울 용산구 케이브하우스에서 브랜드 성장 전략 컨퍼런스 '런 유어 브랜드(RUN YOUR BRAND)'를 개최했다. 행사에서는 AI 검색·추천 기반 쇼핑 확산에 따른 온라인 사업자의 대응 전략을 공유했다."
+          },
+          {
+            "t": "p",
+            "x": "이날 이준희 카페24 커머스테크플랫폼팀장은 'AI가 소개하고 추천하는 우리 브랜드'를 주제로 발표했다. 소비자가 포털에서 상품을 직접 검색하는 방식에서 벗어나 챗GPT 등 생성형 AI에 구매 조건을 설명하고 상품을 추천받는 방식으로 쇼핑 환경이 변화하고 있다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "실제 AI를 통한 상품 구매도 증가하고 있다. 카페24가 자사몰 데이터를 분석한 결과, 올해 3분기 주요 AI 서비스를 거쳐 유입된 방문 수는 전년 동기 대비 2배 이상, 주문 수는 약 4배 늘었다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 통해 유입된 고객이 상품 상세페이지로 바로 진입하는 비중은 일반 포털 검색 고객보다 약 2배 높았다. 상품 상세페이지로 직접 진입한 고객의 주문 전환율도 일반 진입 고객보다 약 2.5배 높았다."
+          },
+          {
+            "t": "p",
+            "x": "물론 AI 유입 비중은 포털 검색 유입 비중의 0.26%로 미미하지만, 빠르게 성장하고 있다는 게 회사 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "카페24는 AI 쇼핑 시대에 자사몰의 중요성이 커질 것으로 전망했다. 브랜드가 상품 정보와 외부 AI의 접근 권한을 직접 관리할 수 있기 때문이다. 예컨대 로봇 배제 표준(robots.txt) 설정을 통해 AI가 상품명과 가격, 혜택 등 최신 정보를 수집할 수 있는 길을 여는 등 지원할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이 팀장은 “AEO(답변 엔진 최적화)와 GEO(생성형 엔진 최적화)는 기존 SEO(검색엔진 최적화)를 기반으로 AI가 이해하기 쉬운 정보를 추가하는 과정”이라면서 “쇼핑몰 정보 구조를 AI 친화적으로 정비하면 새로운 성장 기회를 확보할 수 있다”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+            "cap": "카페24의 브랜드 성장 전략 컨퍼런스 'RUN YOUR BRAND' 현장. [사진=카페24]"
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "AI 경유 쇼핑 주문\n1년 새 4배 늘었다",
+          "body": "카페24 자사몰의 3분기 AI 유입 주문은 전년 대비 약 4배 늘었다.",
+          "mini_headline": "AI 경유 주문 4배",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/h2-NP4xXwHJJfAfhPf5QccsOW7_f8rjY23dxEX6owY8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-                "cap": "Tienda de Target en Alexandria, Virginia. Dani James/Retail Dive"
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "카페24의 브랜드 성장 전략 컨퍼런스 'RUN YOUR BRAND' 현장. [사진=카페24]"
               },
               {
                 "t": "p",
-                "x": "Target invierte más en tecnología de AI orientada al consumidor con el lanzamiento en beta de su asistente de compras Ask Target."
+                "x": "생성형 인공지능(AI)을 통한 상품 추천이 실제 구매로 이어지는 사례가 늘어나는 것으로 나타났다. 카페24는 AI 쇼핑 환경에 대응하기 위해 자사몰의 상품 정보 구조를 개선하고 AI 검색 접근성을 높여야 한다고 강조했다."
               },
               {
                 "t": "p",
-                "x": "La cadena minorista se siente alentada por los primeros resultados de la herramienta, dijo el CEO Michael Fiddelke a los analistas en una llamada de resultados el miércoles."
+                "x": "카페24는 지난 19일 서울 용산구 케이브하우스에서 브랜드 성장 전략 컨퍼런스 '런 유어 브랜드(RUN YOUR BRAND)'를 개최했다. 행사에서는 AI 검색·추천 기반 쇼핑 확산에 따른 온라인 사업자의 대응 전략을 공유했다."
               },
               {
                 "t": "p",
-                "x": "“Estamos modernizando los sistemas que sostienen la base de nuestro negocio y a la vez acelerando la innovación, desde herramientas que mejoran la disponibilidad de productos y la eficiencia de los equipos hasta herramientas para clientes como Ask Target, nuestro asistente de compras impulsado por AI (AI-driven)”, dijo Fiddelke, quien añadió que en los próximos meses se presentarán nuevas funciones."
+                "x": "이날 이준희 카페24 커머스테크플랫폼팀장은 'AI가 소개하고 추천하는 우리 브랜드'를 주제로 발표했다. 소비자가 포털에서 상품을 직접 검색하는 방식에서 벗어나 챗GPT 등 생성형 AI에 구매 조건을 설명하고 상품을 추천받는 방식으로 쇼핑 환경이 변화하고 있다고 설명했다."
               },
               {
                 "t": "p",
-                "x": "La versión beta de Ask Target debutó el mes pasado, según informó Business Insider en octubre."
+                "x": "실제 AI를 통한 상품 구매도 증가하고 있다. 카페24가 자사몰 데이터를 분석한 결과, 올해 3분기 주요 AI 서비스를 거쳐 유입된 방문 수는 전년 동기 대비 2배 이상, 주문 수는 약 4배 늘었다."
               },
               {
                 "t": "p",
-                "x": "Target observa que los clientes pasan a comprar a una tasa aproximadamente del doble con Ask Target que por otras vías, señaló Fiddelke en la llamada de resultados."
+                "x": "AI를 통해 유입된 고객이 상품 상세페이지로 바로 진입하는 비중은 일반 포털 검색 고객보다 약 2배 높았다. 상품 상세페이지로 직접 진입한 고객의 주문 전환율도 일반 진입 고객보다 약 2.5배 높았다."
               },
               {
                 "t": "p",
-                "x": "Fiddelke dijo que la cadena está bien posicionada en la era del comercio agéntico, mientras las tendencias de tráfico web siguen cambiando en el sector."
+                "x": "물론 AI 유입 비중은 포털 검색 유입 비중의 0.26%로 미미하지만, 빠르게 성장하고 있다는 게 회사 설명이다."
               },
               {
                 "t": "p",
-                "x": "“Es importante para nosotros estar a la vanguardia de cualquier cambio en el embudo de compra del consumidor”, dijo. “Creo que hemos sabido adaptarnos con el tiempo a los cambios en la forma en que los consumidores encuentran nuestros productos. … Queremos estar a la vanguardia de cómo los consumidores encuentran grandes productos.”"
+                "x": "카페24는 AI 쇼핑 시대에 자사몰의 중요성이 커질 것으로 전망했다. 브랜드가 상품 정보와 외부 AI의 접근 권한을 직접 관리할 수 있기 때문이다. 예컨대 로봇 배제 표준(robots.txt) 설정을 통해 AI가 상품명과 가격, 혜택 등 최신 정보를 수집할 수 있는 길을 여는 등 지원할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 팀장은 “AEO(답변 엔진 최적화)와 GEO(생성형 엔진 최적화)는 기존 SEO(검색엔진 최적화)를 기반으로 AI가 이해하기 쉬운 정보를 추가하는 과정”이라면서 “쇼핑몰 정보 구조를 AI 친화적으로 정비하면 새로운 성장 기회를 확보할 수 있다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "카페24의 브랜드 성장 전략 컨퍼런스 'RUN YOUR BRAND' 현장. [사진=카페24]"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Shopping orders via AI\ngrew 4 times in 1 year",
+          "body": "Orders referred by AI to Cafe24 brand-owned stores grew about 4 times year on year in Q3.",
+          "mini_headline": "AI referral orders up 4 times",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Cafe24's brand growth strategy conference 'RUN YOUR BRAND'. [Photo=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "Product recommendations made through generative artificial intelligence (AI) are increasingly leading to actual purchases. Cafe24 stressed that brand-owned online stores need to improve the structure of their product information and make it more accessible to AI search to respond to the AI shopping environment."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 held its brand growth strategy conference 'RUN YOUR BRAND' at Cave House in Yongsan-gu, Seoul, on the 19th. The event shared response strategies for online businesses as shopping based on AI search and recommendations spreads."
+              },
+              {
+                "t": "p",
+                "x": "Lee Jun-hee, head of Cafe24's commerce tech platform team, gave a talk titled 'Our brand, introduced and recommended by AI.' He explained that shopping is shifting away from consumers searching for products directly on portals, toward describing their purchase conditions to generative AI such as ChatGPT and getting product recommendations."
+              },
+              {
+                "t": "p",
+                "x": "Purchases made through AI are also rising. Cafe24's analysis of its brand-owned store data found that in Q3 this year, visits arriving via major AI services rose more than 2 times year on year, and orders grew about 4 times."
+              },
+              {
+                "t": "p",
+                "x": "Customers arriving through AI were about 2 times more likely than ordinary portal search customers to go straight to a product detail page. Customers who went straight to a product detail page also had an order conversion rate about 2.5 times higher than those who entered normally."
+              },
+              {
+                "t": "p",
+                "x": "AI traffic is still small at 0.26% of portal search traffic, but the company says it is growing quickly."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 expects brand-owned stores to matter more in the AI shopping era, because brands can directly manage their product information and outside AI's access to it. For example, setting the robots exclusion standard (robots.txt) can open the way for AI to collect up-to-date information such as product names, prices and benefits."
+              },
+              {
+                "t": "p",
+                "x": "Lee said, \"AEO (answer engine optimization) and GEO (generative engine optimization) are processes of adding information that AI can easily understand, built on existing SEO (search engine optimization),\" adding, \"If you reorganize your store's information structure to be AI-friendly, you can secure new growth opportunities.\""
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Cafe24's brand growth strategy conference 'RUN YOUR BRAND'. [Photo=Cafe24]"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI経由の買い物注文\n1年で4倍に増えた",
+          "body": "Cafe24の自社モールでは第3四半期のAI経由注文が前年比約4倍に増えた。",
+          "mini_headline": "AI経由の注文が4倍",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Cafe24のブランド成長戦略カンファレンス「RUN YOUR BRAND」の会場。[写真=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "生成AI（人工知能）による商品推薦が実際の購入につながるケースが増えていることが分かった。Cafe24は、AIショッピング環境に対応するため、自社モールの商品情報の構造を改善し、AI検索からのアクセス性を高めるべきだと強調した。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24は19日、ソウル・龍山区のケイブハウスでブランド成長戦略カンファレンス「ラン・ユア・ブランド（RUN YOUR BRAND）」を開いた。イベントでは、AI検索・推薦に基づくショッピングの広がりを受けたオンライン事業者の対応戦略が共有された。"
+              },
+              {
+                "t": "p",
+                "x": "この日、Cafe24コマーステックプラットフォームチームのイ・ジュンヒ チーム長は「AIが紹介し推薦する私たちのブランド」をテーマに発表した。消費者がポータルで商品を直接検索する方式から、ChatGPTなどの生成AIに購入条件を説明して商品を推薦してもらう方式へと、ショッピング環境が変わりつつあると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "AIを通じた商品購入も実際に増えている。Cafe24が自社モールのデータを分析した結果、今年第3四半期に主要AIサービスを経由した訪問数は前年同期比2倍以上、注文数は約4倍に増えた。"
+              },
+              {
+                "t": "p",
+                "x": "AI経由で流入した顧客が商品詳細ページに直接入る比率は、一般的なポータル検索の顧客より約2倍高かった。商品詳細ページに直接入った顧客の注文転換率も、一般の流入顧客より約2.5倍高かった。"
+              },
+              {
+                "t": "p",
+                "x": "もっとも、AI経由の流入はポータル検索経由の流入の0.26%とわずかだが、急速に伸びているというのが同社の説明だ。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24は、AIショッピング時代に自社モールの重要性が高まると見通した。ブランドが商品情報と外部AIのアクセス権限を直接管理できるためだ。たとえばロボット排除規約（robots.txt）の設定によって、AIが商品名や価格、特典などの最新情報を収集できる道を開くといった支援ができる。"
+              },
+              {
+                "t": "p",
+                "x": "イ・チーム長は「AEO（回答エンジン最適化）とGEO（生成エンジン最適化）は、既存のSEO（検索エンジン最適化）を土台に、AIが理解しやすい情報を加えるプロセスだ」としたうえで、「ショッピングモールの情報構造をAIフレンドリーに整えれば、新たな成長機会を確保できる」と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Cafe24のブランド成長戦略カンファレンス「RUN YOUR BRAND」の会場。[写真=Cafe24]"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI导流购物订单\n1年间增长4倍",
+          "body": "Cafe24自营商城第3季度经AI导流的订单同比增长约4倍。",
+          "mini_headline": "AI导流订单增4倍",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Cafe24品牌增长战略大会“RUN YOUR BRAND”现场。[图片=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "调查显示，通过生成式人工智能（AI）获得的商品推荐转化为实际购买的情况日益增多。Cafe24强调，为应对AI购物环境，自营商城需要改进商品信息结构，并提高对AI搜索的可访问性。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24于19日在首尔龙山区Cave House举办了品牌增长战略大会“RUN YOUR BRAND”。活动分享了在基于AI搜索和推荐的购物日益普及之下，线上商家的应对策略。"
+              },
+              {
+                "t": "p",
+                "x": "当天，Cafe24商务科技平台团队负责人Lee Jun-hee以“由AI介绍和推荐的我们的品牌”为题发表演讲。他表示，购物环境正在发生变化：消费者不再直接在门户网站上搜索商品，而是向ChatGPT等生成式AI说明购买条件并获取商品推荐。"
+              },
+              {
+                "t": "p",
+                "x": "通过AI购买商品的情况也在实际增加。Cafe24分析自营商城数据后发现，今年第3季度经主要AI服务进入的访问量同比增长2倍以上，订单量增长约4倍。"
+              },
+              {
+                "t": "p",
+                "x": "经AI进入的顾客直接进入商品详情页的比例，比普通门户搜索顾客高约2倍。直接进入商品详情页的顾客，其订单转化率也比普通进入的顾客高约2.5倍。"
+              },
+              {
+                "t": "p",
+                "x": "当然，AI导流的规模仅为门户搜索导流的0.26%，仍微不足道，但公司表示其增长迅速。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24预计，在AI购物时代，自营商城的重要性将会提升，因为品牌可以直接管理商品信息以及外部AI的访问权限。例如，可以通过设置机器人排除标准（robots.txt），为AI收集商品名称、价格、优惠等最新信息打开通道。"
+              },
+              {
+                "t": "p",
+                "x": "Lee Jun-hee表示：“AEO（答案引擎优化）和GEO（生成式引擎优化）是在现有SEO（搜索引擎优化）的基础上，增加AI易于理解的信息的过程。”他还说：“如果把购物商城的信息结构调整得对AI更友好，就能获得新的增长机会。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Cafe24品牌增长战略大会“RUN YOUR BRAND”现场。[图片=Cafe24]"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los pedidos de compra vía AI\nse multiplican por 4 en 1 año",
+          "body": "Los pedidos vía AI en las tiendas propias de Cafe24 crecieron cerca de 4 veces interanual en el 3.er trimestre.",
+          "mini_headline": "Pedidos vía AI, 4 veces más",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Conferencia de estrategia de crecimiento de marca 'RUN YOUR BRAND' de Cafe24. [Foto=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "Cada vez más recomendaciones de productos hechas por inteligencia artificial (AI) generativa se traducen en compras reales. Cafe24 subrayó que, para adaptarse al entorno de compras con AI, las tiendas propias deben mejorar la estructura de la información de sus productos y hacerla más accesible para la búsqueda con AI."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 celebró el día 19 su conferencia de estrategia de crecimiento de marca 'RUN YOUR BRAND' en Cave House, en el distrito de Yongsan (Seúl). En el evento se compartieron estrategias para que los negocios en línea respondan a la expansión de las compras basadas en búsquedas y recomendaciones de AI."
+              },
+              {
+                "t": "p",
+                "x": "Ese día, Lee Jun-hee, jefe del equipo de plataforma de tecnología comercial de Cafe24, dio una charla titulada 'Nuestra marca, presentada y recomendada por AI'. Explicó que el entorno de compras está cambiando: los consumidores ya no buscan productos directamente en portales, sino que describen sus condiciones de compra a AI generativas como ChatGPT y reciben recomendaciones de productos."
+              },
+              {
+                "t": "p",
+                "x": "Las compras a través de AI también aumentan. Según el análisis de Cafe24 de los datos de sus tiendas propias, en el 3.er trimestre de este año las visitas llegadas a través de los principales servicios de AI crecieron más de 2 veces interanual, y los pedidos, cerca de 4 veces."
+              },
+              {
+                "t": "p",
+                "x": "La proporción de clientes llegados por AI que entraron directamente en la página de detalle del producto fue cerca de 2 veces mayor que la de los clientes de búsqueda en portales. La tasa de conversión de pedidos de quienes entraron directamente en esa página también fue cerca de 2.5 veces mayor que la de los clientes con acceso normal."
+              },
+              {
+                "t": "p",
+                "x": "Por supuesto, el tráfico de AI equivale apenas al 0.26% del tráfico de búsqueda en portales, pero según la empresa crece con rapidez."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 prevé que las tiendas propias ganen importancia en la era de las compras con AI, porque las marcas pueden gestionar directamente la información de sus productos y los permisos de acceso de las AI externas. Por ejemplo, configurar el estándar de exclusión de robots (robots.txt) puede abrir el camino para que la AI recopile información actualizada como nombres de productos, precios y ventajas."
+              },
+              {
+                "t": "p",
+                "x": "Lee afirmó: \"AEO (optimización para motores de respuesta) y GEO (optimización para motores generativos) son procesos que, sobre la base del SEO (optimización para motores de búsqueda) existente, añaden información fácil de entender para la AI\", y agregó: \"Si se reorganiza la estructura de información de la tienda para que sea amigable con la AI, se pueden asegurar nuevas oportunidades de crecimiento\"."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Conferencia de estrategia de crecimiento de marca 'RUN YOUR BRAND' de Cafe24. [Foto=Cafe24]"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Shopping orders via AI\ngrew 4 times in 1 year",
+          "body": "Orders referred by AI to Cafe24 brand-owned stores grew about 4 times year on year in Q3.",
+          "mini_headline": "AI referral orders up 4 times",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Cafe24's brand growth strategy conference 'RUN YOUR BRAND'. [Photo=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "Product recommendations made through generative artificial intelligence (AI) are increasingly leading to actual purchases. Cafe24 stressed that brand-owned online stores need to improve the structure of their product information and make it more accessible to AI search to respond to the AI shopping environment."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 held its brand growth strategy conference 'RUN YOUR BRAND' at Cave House in Yongsan-gu, Seoul, on the 19th. The event shared response strategies for online businesses as shopping based on AI search and recommendations spreads."
+              },
+              {
+                "t": "p",
+                "x": "Lee Jun-hee, head of Cafe24's commerce tech platform team, gave a talk titled 'Our brand, introduced and recommended by AI.' He explained that shopping is shifting away from consumers searching for products directly on portals, toward describing their purchase conditions to generative AI such as ChatGPT and getting product recommendations."
+              },
+              {
+                "t": "p",
+                "x": "Purchases made through AI are also rising. Cafe24's analysis of its brand-owned store data found that in Q3 this year, visits arriving via major AI services rose more than 2 times year on year, and orders grew about 4 times."
+              },
+              {
+                "t": "p",
+                "x": "Customers arriving through AI were about 2 times more likely than ordinary portal search customers to go straight to a product detail page. Customers who went straight to a product detail page also had an order conversion rate about 2.5 times higher than those who entered normally."
+              },
+              {
+                "t": "p",
+                "x": "AI traffic is still small at 0.26% of portal search traffic, but the company says it is growing quickly."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 expects brand-owned stores to matter more in the AI shopping era, because brands can directly manage their product information and outside AI's access to it. For example, setting the robots exclusion standard (robots.txt) can open the way for AI to collect up-to-date information such as product names, prices and benefits."
+              },
+              {
+                "t": "p",
+                "x": "Lee said, \"AEO (answer engine optimization) and GEO (generative engine optimization) are processes of adding information that AI can easily understand, built on existing SEO (search engine optimization),\" adding, \"If you reorganize your store's information structure to be AI-friendly, you can secure new growth opportunities.\""
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Cafe24's brand growth strategy conference 'RUN YOUR BRAND'. [Photo=Cafe24]"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI経由の買い物注文\n1年で4倍に増えた",
+          "body": "Cafe24の自社モールでは第3四半期のAI経由注文が前年比約4倍に増えた。",
+          "mini_headline": "AI経由の注文が4倍",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Cafe24のブランド成長戦略カンファレンス「RUN YOUR BRAND」の会場。[写真=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "生成AI（人工知能）による商品推薦が実際の購入につながるケースが増えていることが分かった。Cafe24は、AIショッピング環境に対応するため、自社モールの商品情報の構造を改善し、AI検索からのアクセス性を高めるべきだと強調した。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24は19日、ソウル・龍山区のケイブハウスでブランド成長戦略カンファレンス「ラン・ユア・ブランド（RUN YOUR BRAND）」を開いた。イベントでは、AI検索・推薦に基づくショッピングの広がりを受けたオンライン事業者の対応戦略が共有された。"
+              },
+              {
+                "t": "p",
+                "x": "この日、Cafe24コマーステックプラットフォームチームのイ・ジュンヒ チーム長は「AIが紹介し推薦する私たちのブランド」をテーマに発表した。消費者がポータルで商品を直接検索する方式から、ChatGPTなどの生成AIに購入条件を説明して商品を推薦してもらう方式へと、ショッピング環境が変わりつつあると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "AIを通じた商品購入も実際に増えている。Cafe24が自社モールのデータを分析した結果、今年第3四半期に主要AIサービスを経由した訪問数は前年同期比2倍以上、注文数は約4倍に増えた。"
+              },
+              {
+                "t": "p",
+                "x": "AI経由で流入した顧客が商品詳細ページに直接入る比率は、一般的なポータル検索の顧客より約2倍高かった。商品詳細ページに直接入った顧客の注文転換率も、一般の流入顧客より約2.5倍高かった。"
+              },
+              {
+                "t": "p",
+                "x": "もっとも、AI経由の流入はポータル検索経由の流入の0.26%とわずかだが、急速に伸びているというのが同社の説明だ。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24は、AIショッピング時代に自社モールの重要性が高まると見通した。ブランドが商品情報と外部AIのアクセス権限を直接管理できるためだ。たとえばロボット排除規約（robots.txt）の設定によって、AIが商品名や価格、特典などの最新情報を収集できる道を開くといった支援ができる。"
+              },
+              {
+                "t": "p",
+                "x": "イ・チーム長は「AEO（回答エンジン最適化）とGEO（生成エンジン最適化）は、既存のSEO（検索エンジン最適化）を土台に、AIが理解しやすい情報を加えるプロセスだ」としたうえで、「ショッピングモールの情報構造をAIフレンドリーに整えれば、新たな成長機会を確保できる」と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Cafe24のブランド成長戦略カンファレンス「RUN YOUR BRAND」の会場。[写真=Cafe24]"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI导流购物订单\n1年间增长4倍",
+          "body": "Cafe24自营商城第3季度经AI导流的订单同比增长约4倍。",
+          "mini_headline": "AI导流订单增4倍",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Cafe24品牌增长战略大会“RUN YOUR BRAND”现场。[图片=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "调查显示，通过生成式人工智能（AI）获得的商品推荐转化为实际购买的情况日益增多。Cafe24强调，为应对AI购物环境，自营商城需要改进商品信息结构，并提高对AI搜索的可访问性。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24于19日在首尔龙山区Cave House举办了品牌增长战略大会“RUN YOUR BRAND”。活动分享了在基于AI搜索和推荐的购物日益普及之下，线上商家的应对策略。"
+              },
+              {
+                "t": "p",
+                "x": "当天，Cafe24商务科技平台团队负责人Lee Jun-hee以“由AI介绍和推荐的我们的品牌”为题发表演讲。他表示，购物环境正在发生变化：消费者不再直接在门户网站上搜索商品，而是向ChatGPT等生成式AI说明购买条件并获取商品推荐。"
+              },
+              {
+                "t": "p",
+                "x": "通过AI购买商品的情况也在实际增加。Cafe24分析自营商城数据后发现，今年第3季度经主要AI服务进入的访问量同比增长2倍以上，订单量增长约4倍。"
+              },
+              {
+                "t": "p",
+                "x": "经AI进入的顾客直接进入商品详情页的比例，比普通门户搜索顾客高约2倍。直接进入商品详情页的顾客，其订单转化率也比普通进入的顾客高约2.5倍。"
+              },
+              {
+                "t": "p",
+                "x": "当然，AI导流的规模仅为门户搜索导流的0.26%，仍微不足道，但公司表示其增长迅速。"
+              },
+              {
+                "t": "p",
+                "x": "Cafe24预计，在AI购物时代，自营商城的重要性将会提升，因为品牌可以直接管理商品信息以及外部AI的访问权限。例如，可以通过设置机器人排除标准（robots.txt），为AI收集商品名称、价格、优惠等最新信息打开通道。"
+              },
+              {
+                "t": "p",
+                "x": "Lee Jun-hee表示：“AEO（答案引擎优化）和GEO（生成式引擎优化）是在现有SEO（搜索引擎优化）的基础上，增加AI易于理解的信息的过程。”他还说：“如果把购物商城的信息结构调整得对AI更友好，就能获得新的增长机会。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Cafe24品牌增长战略大会“RUN YOUR BRAND”现场。[图片=Cafe24]"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los pedidos de compra vía AI\nse multiplican por 4 en 1 año",
+          "body": "Los pedidos vía AI en las tiendas propias de Cafe24 crecieron cerca de 4 veces interanual en el 3.er trimestre.",
+          "mini_headline": "Pedidos vía AI, 4 veces más",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+                "cap": "Conferencia de estrategia de crecimiento de marca 'RUN YOUR BRAND' de Cafe24. [Foto=Cafe24]"
+              },
+              {
+                "t": "p",
+                "x": "Cada vez más recomendaciones de productos hechas por inteligencia artificial (AI) generativa se traducen en compras reales. Cafe24 subrayó que, para adaptarse al entorno de compras con AI, las tiendas propias deben mejorar la estructura de la información de sus productos y hacerla más accesible para la búsqueda con AI."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 celebró el día 19 su conferencia de estrategia de crecimiento de marca 'RUN YOUR BRAND' en Cave House, en el distrito de Yongsan (Seúl). En el evento se compartieron estrategias para que los negocios en línea respondan a la expansión de las compras basadas en búsquedas y recomendaciones de AI."
+              },
+              {
+                "t": "p",
+                "x": "Ese día, Lee Jun-hee, jefe del equipo de plataforma de tecnología comercial de Cafe24, dio una charla titulada 'Nuestra marca, presentada y recomendada por AI'. Explicó que el entorno de compras está cambiando: los consumidores ya no buscan productos directamente en portales, sino que describen sus condiciones de compra a AI generativas como ChatGPT y reciben recomendaciones de productos."
+              },
+              {
+                "t": "p",
+                "x": "Las compras a través de AI también aumentan. Según el análisis de Cafe24 de los datos de sus tiendas propias, en el 3.er trimestre de este año las visitas llegadas a través de los principales servicios de AI crecieron más de 2 veces interanual, y los pedidos, cerca de 4 veces."
+              },
+              {
+                "t": "p",
+                "x": "La proporción de clientes llegados por AI que entraron directamente en la página de detalle del producto fue cerca de 2 veces mayor que la de los clientes de búsqueda en portales. La tasa de conversión de pedidos de quienes entraron directamente en esa página también fue cerca de 2.5 veces mayor que la de los clientes con acceso normal."
+              },
+              {
+                "t": "p",
+                "x": "Por supuesto, el tráfico de AI equivale apenas al 0.26% del tráfico de búsqueda en portales, pero según la empresa crece con rapidez."
+              },
+              {
+                "t": "p",
+                "x": "Cafe24 prevé que las tiendas propias ganen importancia en la era de las compras con AI, porque las marcas pueden gestionar directamente la información de sus productos y los permisos de acceso de las AI externas. Por ejemplo, configurar el estándar de exclusión de robots (robots.txt) puede abrir el camino para que la AI recopile información actualizada como nombres de productos, precios y ventajas."
+              },
+              {
+                "t": "p",
+                "x": "Lee afirmó: \"AEO (optimización para motores de respuesta) y GEO (optimización para motores generativos) son procesos que, sobre la base del SEO (optimización para motores de búsqueda) existente, añaden información fácil de entender para la AI\", y agregó: \"Si se reorganiza la estructura de información de la tienda para que sea amigable con la AI, se pueden asegurar nuevas oportunidades de crecimiento\"."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+                "cap": "Conferencia de estrategia de crecimiento de marca 'RUN YOUR BRAND' de Cafe24. [Foto=Cafe24]"
               }
             ]
           }

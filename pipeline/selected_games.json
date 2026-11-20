@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "games",
   "items": [
     {
-      "title": "Getting Started with Unreal MCP | Turn AI into Action in UE 5.8",
-      "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
-      "source": "Unreal Engine (YouTube)",
-      "published_iso": "2026-11-19T11:00:39-08:00",
-      "og_image": "https://i.ytimg.com/vi/OjffwpbcQsQ/maxresdefault.jpg",
-      "excerpt": "Epic publishes an official Unreal MCP course (one of a dozen videos dropped 11-19): the Epic-supported, experimental UE 5.8 bridge that lets agentic AI tools (Claude Code, Cursor) understand a project and create, modify and test in the editor, plus an in-editor Terminal plugin. Course/how-to format.",
+      "title": "Roblox launches creator program for devs to bring games to its platform for free",
+      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-11-17T15:07:20+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Roblox opens a creator program that ports existing mobile, PC and console games to its platform for free, using AI-assisted conversion tools to cut porting cost, with developers keeping IP ownership. Starting with a limited set of developers and games.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Most actionable item in the pool: Epic's official walkthrough for wiring Claude Code/Cursor into the UE editor through MCP."
+      "rationale": "New platform program with direct action for studios: free AI-assisted porting to Roblox, IP retained. GamesIndustry.biz chosen over the Game*Spark version of the same story."
     },
     {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "published_iso": "2026-11-18T18:13:42+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
-      "excerpt": "Google rolls out the Genie 4 world model in Project Genie to AI Ultra subscribers: edit interactive worlds in real time with natural language (weather, characters, native adaptive audio), a creative agent for building environments, and a community gallery for sharing/remixing; AI Pro waitlist. Access change after the Oct 28 Genie 4 announcement (Gemini API availability followed 11-19).",
+      "title": "Stellar Blade: Blood Rain is \"handmade from start to finish\" after AI music video backlash, Shift Up boss says – but, uh, the devs are still using AI",
+      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-11-20T12:17:30Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6-1920-80.jpg",
+      "excerpt": "At G-STAR/G-CON 2026, SHIFT UP CEO Kim Hyung-tae made \"handmade from start to finish\" the studio's new principle for Stellar Blade: Blood Rain after the AI music-video backlash, while saying AI stays essential in development.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Primary-source release: the Genie 4 world model moves from announcement to hands-on availability with real-time world editing and a creative agent (assigned to games only by the run brief)."
+      "rationale": "A major studio sets a public human-made principle after backlash yet keeps AI in the pipeline. Only card from the SHIFT UP cluster (GamesRadar+ chosen over Game*Spark, 아이뉴스24 and 4Gamer)."
     },
     {
-      "title": "Ubisoft Creates Generative AI Game Studio Called 'Motherbrain' as Part of New Operating Model",
-      "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
-      "source": "IGN",
-      "published_iso": "2026-11-19T21:34:57Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Ubisoft's Nov 19 earnings report reveals Motherbrain, a new subsidiary for 'AI for gameplay innovation' (smart NPCs with memory, AI game masters for systemic worlds); it is the team behind the voice-commanded AI-companion shooter Teammates. Follow-up to the Sept Motherbrain team reveal: now a standalone studio.",
+      "title": "[지스타 2026] 코에이 테크모 \"AI로 품질 검사 효율화…게임의 재미는 사람이\"",
+      "url": "https://www.inews24.com/view/2028436",
+      "source": "아이뉴스24",
+      "published_iso": "2026-11-20T12:06:15+09:00",
+      "og_image": "https://image.inews24.com/v1/261429f860458e.jpg",
+      "excerpt": "Koei Tecmo's Shibata Kohei at G-STAR 2026: AI handles QA and inspection work, and the time saved goes into polish such as frame-by-frame action tuning. He says fun has to be designed by people.",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A major publisher spins out a dedicated generative-AI gameplay studio (NPC memory, AI game masters); IGN chosen over Kotaku's layoffs angle per brief."
+      "rationale": "Concrete studio practice from a major Japanese publisher: AI goes into QA/inspection and the time saved goes into polish. It also brings a Korean outlet into the set."
     },
     {
-      "title": "슈퍼센트 \"AI가 바꾼 건 사업 기회의 총량\"… 에이전트 200개로 퍼블리싱 재편",
-      "url": "https://www.inven.co.kr/webzine/news/?news=323607",
-      "source": "인벤",
-      "published_iso": "2026-11-19T16:18:51+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-      "excerpt": "At Google Play's Playtime Korea 2026, mobile publisher Supercent said it rebuilt publishing around ~200 AI agents; its business lead said AI changed how many business bets the company can try, not just how fast it works. A studio deployment with specifics.",
+      "title": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
+      "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/",
+      "source": "PC Gamer",
+      "published_iso": "2026-11-18T17:49:59Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb-1920-80.jpg",
+      "excerpt": "A former Take-Two executive argues player hostility to AI in games will fade once one breakout title proves its worth, comparing it to Toy Story's role in CG animation.",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Concrete studio deployment (about 200 agents across mobile publishing) from a Korean outlet; it adds a regional, operations-level angle."
+      "rationale": "An industry veteran's counterpoint to the handmade trend, which frames this week's player-acceptance debate. This is a fresh statement, not a reaction to a story we already ran."
     },
     {
-      "title": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
-      "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-11-19T15:30:00+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Epic's AI-encouraged MegaJam popularity chart is topped by LSD: FIH, a game made without generative AI. Note: popularity ranking, check whether official winners are announced (brief: MegaJam official winners qualify once).",
+      "title": "Principal Venture Partners’ Songyee Yoon on AI-native games, human creativity and gaming’s new rivals | GamesBeat Next 2026",
+      "url": "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/",
+      "source": "GamesBeat",
+      "published_iso": "2026-11-19T18:28:04+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg",
+      "excerpt": "Former NCSoft president Songyee Yoon at GamesBeat Next 2026: AI-native games, where human creativity still matters, and how gaming's playbook will shape the next wave of AI companies.",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "The outcome of Epic's AI MegaJam (announced 10-23): a human-made game tops the popularity chart of a contest built to promote AI. RPS chosen over the Kotaku and AUTOMATON versions."
+      "rationale": "A separate GamesBeat Next session from the 11-13 AI-native development panel, with a former NCSoft leader's view on AI-native games and creative roles. Fifth distinct outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.youtube.com/watch?v=OjffwpbcQsQ": {
+      "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+        "nearest": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
         "new_action": ""
       },
-      "https://deepmind.google/blog/genie-4-is-now-available/": {
-        "verdict": "follow-up",
-        "nearest": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "new_action": "Release: Genie 4 rolls out in Project Genie to AI Ultra subscribers, adding real-time natural-language world editing, a creative agent and a community gallery (10-28 card was the model announcement only)"
-      },
-      "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain": {
-        "verdict": "new",
-        "nearest": "https://www.databricks.com/customers/ubisoft/unity-gateway",
-        "new_action": ""
-      },
-      "https://www.inven.co.kr/webzine/news/?news=323607": {
+      "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam": {
-        "verdict": "follow-up",
-        "nearest": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-        "new_action": "Announcement: MegaJam submissions closed and the popularity ranking was published, topped by the genAI-free LSD: FIH (10-23 card covered only the contest launch; no MegaJam card ran 11-18/11-19)"
+      "https://www.inews24.com/view/2028436": {
+        "verdict": "new",
+        "nearest": "https://www.inews24.com/view/2021651",
+        "new_action": ""
+      },
+      "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/": {
+        "verdict": "new",
+        "nearest": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+        "new_action": ""
+      },
+      "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/": {
+        "verdict": "new",
+        "nearest": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
+        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Kotaku Ubisoft layoffs/Motherbrain (same story as the IGN pick), Kotaku + AUTOMATON MegaJam (same story as the RPS pick), Wccftech Pearl Abyss AI design validation (likely repeat of the 11-14 Eurogamer Pearl Abyss AI-pipeline card, no new tool shipped), Kotaku student game-dev competition shutdown (same story as the 11-11 PC Gamer card), AUTOMATON Claude refusing Pokemon work (running story from the 11-02 'Anthropic tells Claude to stop remaking video games' card). Excluded by brief: 인벤 뤼튼 Crack IP (books only). Lower-ranked, not picked: MetaHuman markerless mocap deep dive (second UE YouTube item), 4Gamer genAI FMV game, Wccftech Claude Code sports league (vibe-coding cap), GameRiv GTA 6 DLSS 5 (deprioritized neural-rendering demo). published_urls.json (513KB) was too large to read whole; the cross-section check relied on the brief's assignments plus the 30-day games history_digest."
+    "note": "Cluster/brief caps: SHIFT UP 'handmade' cluster limited to 1 (kept GamesRadar+; dropped Game*Spark 175132, 아이뉴스24 2028184 김형태, 4Gamer 김형태×三上); Roblox porting limited to 1 (kept GamesIndustry.biz; dropped Game*Spark 175129). Running-story duplicates dropped: GamesRadar Take-Two CEO calling out Anthropic/OpenAI over AI game clones (reaction to the 11-02 'Anthropic tells Claude to stop remaking video games' card plus the 11-07 GTA 6 AI-clone story; commentary, no new release); GamesRadar Tim Sweeney on Steam AI disclosure being 'unfair' (same running criticism as the 10-24 Sweeney/Steam AI disclosures card). Cross-section caution: 4Gamer Wrtn 'hyper-personalization' G-CON talk not picked because the 11-20 run assigned a Wrtn (Crack IP) story to books, so it could repeat across sections; replaced by GamesBeat Songyee Yoon. Already removed upstream: AUTOMATON Steam AI-disclosure sales analysis. published_urls.json (4.7k lines) was too large to read whole with Read-only tools. The cross-section check relied on the brief's 11-21 assignments (none involve these picks) and the 30-day games history_digest. Diversity: 5 distinct outlets, 1 card each."
   }
 }

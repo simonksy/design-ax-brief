@@ -12673,6 +12673,140 @@
           "x": "Los ciclos integrados abarcan ciberseguridad, latencia y accesibilidad, y también se pueden crear ciclos personalizados, como mejorar la conversión en el pago. El ciclo de seguridad combina las capacidades de ciberseguridad de Gemini 4 Carbon con CodeMender, el agente autónomo de Google DeepMind que mejora la seguridad del código. Agentes de programación como Google Antigravity pueden obtener el contexto del producto a través de la Stitch CLI y MCP, y en Slack @stitch envía resúmenes diarios de hallazgos. La lista de espera se abre hoy para todos los usuarios, en todo el mundo, y los usuarios elegibles de Google AI Ultra tendrán acceso prioritario."
         }
       ]
+    },
+    "design/envato-ai-report-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Envato, la plataforma de recursos creativos y herramientas de AI propiedad de Shutterstock, encuestó a 1,033 profesionales creativos de 103 países y territorios para su segundo informe anual, Beyond the Hype: The State of AI in Creative Work."
+        },
+        {
+          "t": "p",
+          "x": "En el conjunto de la muestra, el 87% de los creativos ya usa AI en el trabajo y el 58% la usa a diario, frente al 49% del año pasado. El rechazo activo también creció, del 3% al 8%, y llega al 19% en U.S. (Estados Unidos), donde el 83% de quienes la evitan alude a preocupaciones éticas sobre cómo se entrena la AI."
+        },
+        {
+          "t": "p",
+          "x": "Más de la mitad (53%) de los creativos que usan AI la han empleado en trabajos clave para clientes sin decírselo; solo el 7% se sintió incómodo por ello. Entre los creativos que trabajan en equipo, el 57% no tiene una política de AI por escrito, e incluso en organizaciones de 250 personas o más, el 40% no tiene nada por escrito."
+        },
+        {
+          "t": "p",
+          "x": "Los creativos sitúan el gusto y el criterio como el principal factor de calidad (53%), y la habilidad con los prompts en el último lugar de ocho factores (19%). Aunque el 49% dice que la AI los hace más rápidos, solo el 7% afirma que ha aumentado sus ingresos. Los creativos de video, motion, 3D y VFX usan la AI un poco más que el resto, pero controlan mucho más la edición: el 44% no la usa en absoluto para editar."
+        }
+      ]
+    },
+    "design/fuser-tool-node": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fuser presentó el 13 de noviembre (hora de Corea) ‘Tool Node’, una función que crea herramientas de edición personalizadas a partir de frases. Basta con colocar un Tool Node en el lienzo y escribir qué material debe recibir, qué debe cambiar y qué valores se quieren ajustar directamente. Fuser diseña deslizadores e interruptores según la petición, escribe y prueba la herramienta y luego la coloca en el lienzo."
+        },
+        {
+          "t": "p",
+          "x": "Si se pide una herramienta para pixelar fotos, se pueden obtener deslizadores que controlan el tamaño de los bloques de píxeles y el número de colores que se usan. Al conectar una foto al nodo y mover los deslizadores, el resultado cambia al instante. Si se conecta otra foto al mismo nodo, se aplican los mismos ajustes. También se puede conectar el resultado pixelado a un nodo siguiente que separa los canales de color, para aplicar los dos efectos uno tras otro."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas ‘en vivo’, como el ajuste de color o el recorte, se ejecutan gratis en el navegador. Las herramientas ‘en la nube’, que leen texto en imágenes o detectan objetos, usan modelos de AI en los servidores de Fuser al pulsar el botón de ejecutar. Los créditos que cuesta cada ejecución aparecen en el botón. Crear una herramienta nueva o modificarla con una frase también requiere créditos."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas terminadas se guardan automáticamente en la biblioteca. Se pueden reutilizar en el siguiente proyecto o compartir con colegas en un espacio de trabajo de equipo. Para añadir un deslizador, basta con escribir el cambio en una frase. Fuser guarda la revisión como una versión nueva y, cuando es posible, conserva las conexiones de nodos y los valores existentes."
+        },
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+          "cap": "Lienzo de Fuser con nodos de pixelado y de separación de canales de color conectados a una foto"
+        }
+      ]
+    },
+    "design/gestalt-design-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+          "cap": "Un crítico marca con un círculo uno de dos diseños anónimos de portafolio con temática cítrica, como ilustración de la votación a ciegas entre Gestalt y Claude Fable 5.2."
+        },
+        {
+          "t": "p",
+          "x": "Diseñadores profesionales tenían delante dos respuestas al mismo encargo: una de Claude Fable 5.2 y otra de un modelo de AI no anunciado llamado Gestalt. Con ambos nombres ocultos, los diseñadores eligieron a Gestalt en el 78% de sus votos directos."
+        },
+        {
+          "t": "p",
+          "x": "Gestalt ocupó el primer puesto en el Frontier Design Benchmark de Contra Labs y BenchFlow. Cuando Kingy.ai lo consultó el 19 de noviembre de 2026, Gestalt tenía 1,931 Elo, 218 puntos por delante de Fable, con 1,713. La entrada más cercana en general fue el trabajo humano de referencia, con 1,739."
+        },
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+          "cap": "Los diseñadores eligieron a Gestalt en el 78% de los votos directos frente a Claude Fable 5.2 y en 20 de 28 votos frente a diseños humanos de referencia."
+        },
+        {
+          "t": "p",
+          "x": "Treinta y cinco diseñadores profesionales emitieron 4,311 votos en cinco rondas sobre 27 encargos adaptados de trabajos de marketplace y seis proyectos de startups. Con la rúbrica de diseño de Contra, Fable 5.2 y Claude Opus 5.5 obtuvieron 84 de 100; Gestalt obtuvo 83."
+        },
+        {
+          "t": "p",
+          "x": "El cofundador de Contra, Gajus Kuizinas, afirma que Contra no creó Gestalt, y el informe no nombra a su creador. Contra no ha revelado lo suficiente sobre las herramientas, los reintentos, el proceso de selección o el costo de Gestalt como para saber cuántos intentos necesitó el trabajo ganador."
+        }
+      ]
+    },
+    "design/uxcollective-sparkle-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+          "cap": "Una búsqueda en Google Imágenes de “sparkle AI icon”."
+        },
+        {
+          "t": "p",
+          "x": "Cómo descifrar la maqueta AI-generated de tu PM sin perder horas. El botón del destello se convirtió rápidamente en un patrón de diseño universal. Y hoy podríamos usarlo mucho más en nuestro trabajo. Durante más de una década, el icono ha significado en esencia “la máquina hizo esta parte por ti”, con Google a la cabeza desde mid-2010s."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+          "cap": "La historia del botón del destello en Google, de 2020 a 2026"
+        },
+        {
+          "t": "p",
+          "x": "Opines lo que opines del contenido AI-generated, cumple una función útil: te dice dónde está la AI. Más diseñadores necesitan eso en los traspasos: recibes una maqueta que un PM (o un directivo) generó con unos pocos prompts, pero solo unas pocas pistas muestran qué partes fueron decisiones y cuáles rellenó la AI. Si pudieras resaltar las partes AI-generated, sabrías exactamente qué cuestionar y qué conservar. En cambio, tu PM quizá se ahorró dos horas, pero tú pasarás cinco intentando descifrar la maqueta."
+        }
+      ]
+    },
+    "design/canva-ai-off-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Canva permitirá ahora desactivar sus funciones de AI generativa. Con este cambio se puede deshabilitar el conjunto de herramientas de AI de la plataforma de diseño gráfico, como Magic Expand, que amplía fotos con AI, y también la generación de imágenes con el chatbot de Canva."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, este interruptor no apaga todas las funciones AI-powered de Canva. El eliminador de fondos y la herramienta Magic Grab siguen activos porque “hacen más rápidas las tareas cotidianas sin generar nada nuevo”. Aun así, el interruptor desactiva Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes y más."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
+          "cap": "También se puede elegir una opción para ver menos contenido AI-generated en la biblioteca de Canva."
+        },
+        {
+          "t": "p",
+          "x": "Un segundo interruptor muestra primero el contenido creado por personas al buscar plantillas, gráficos y otros elementos de diseño en la biblioteca de Canva. Canva afirma que una “pequeña parte” de su biblioteca es AI-generated y que cualquier diseño que use esos elementos llevará una etiqueta de AI en sus metadatos."
+        },
+        {
+          "t": "p",
+          "x": "Los ajustes están en Profile > Settings > Permission (Enable generative AI features) y en Profile > Your account > AI personalization. Están disponibles para usuarios gratuitos y de pago."
+        }
+      ]
     }
   }
 }

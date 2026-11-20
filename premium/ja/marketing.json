@@ -5507,6 +5507,173 @@
           "x": "「これらの作業にかかる手作業は約65%減ると見積もっている」と、ChatGPT for SalesとHubSpotを併用するNeoBidのProf. Dr. Gunnar Gombertは語る。パートナープラグインや機能の提供状況は、プラン、地域、ワークスペースの設定によって異なる。"
         }
       ]
+    },
+    "marketing/marketing-bing-made-with-ai-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/microsoft-label-B386cpX5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftはMicrosoft AdvertisingとBing Searchの一部広告に「Made with AI」という新しいラベルを表示し始めた。ラベルは広告画像の隅に付加され、「Made with AI」と書かれている。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoftはこのブログ記事でスクリーンショットを公開し、「AIコンテンツの透明性コントロールがMicrosoft Advertisingで一般提供になった」と書いた。"
+        },
+        {
+          "t": "p",
+          "x": "表示例は次のとおりだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-microsoft-ads-made-with-ai-label-pA3x9oad.jpg"
+        },
+        {
+          "t": "p",
+          "x": "この新しいコントロールで広告主は次のことができる。"
+        },
+        {
+          "t": "p",
+          "x": "AI生成（AI-generated）の画像・動画コンテンツを申告：画像や動画にAI-generatedコンテンツが含まれるかを示す。対応している場合は、目に見える透かしも選べる。"
+        },
+        {
+          "t": "p",
+          "x": "申告を大規模に管理：Ads Studio Libraryで一つまたは複数のアセットを更新する。Microsoft Advertising APIsや商品フィードも使える。"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftのAI検出シグナルを確認：対応アセットの参考として活用する。申告の判断と責任は引き続き広告主にある。"
+        },
+        {
+          "t": "p",
+          "x": "なお、Google AdsもAIラベルに対応しており、実際の広告でAIラベルが確認されたこともある。"
+        }
+      ]
+    },
+    "marketing/romperjack-model-ai-ad-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/model-sues-romperjack-ai-generated-instagram-ads-2021-photos-paper-cutout-stepping-out-of-photo-frame.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los Angelesのモデル兼俳優が2026年11月18日、RomperJackの名で営業するTexasの企業Cooper Street, LLCを相手取り連邦訴訟を起こした。現金の支払いを受けていない2021年の撮影のスチール写真を使い、ソーシャルメディア広告向けのAI生成（AI-generated）画像と動画にしたと主張している。"
+        },
+        {
+          "t": "p",
+          "x": "Jeffrey S. Stanfieldの訴状（事件番号2:26-cv-13465、Central District of California）は、虚偽の推奨を筆頭に五つの請求を挙げる。RomperJackのオーナーEmmanuel Sullivanは、2025年1月に事業を取得した「後に人工知能による加工が作られたことを書簡で認めた」という。これらの主張は法廷でまだ検証されていない申し立てだ。"
+        },
+        {
+          "t": "p",
+          "x": "Stanfieldが受け取ったのは衣類と写真のコピーで、モデルリリースには署名していない。広告にはAI生成（AI-generated）のInstagram画像二点と、実際には起きていない「Mr. Stanfieldを擬似的な動きの中に置き、新たな表情や身ぶり、視聴覚的な振る舞いを作り出した」動画が含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "彼の日当は約$2,500で、過去の使用料は$2,500から$10,000だった。損害賠償と利益の返還に加え、書面の同意なく彼をAIで描くことを禁じる命令を求めている。この訴訟は、スチール写真への緩い許可が、本人が一度も演じていない合成の演技にまで及ぶのかを問う。"
+        }
+      ]
+    },
+    "marketing/loblaw-meta-muse-grocery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/loblaw-first-canadian-retail-partner-meta-muse-ai-agent-meal-planning-grocery-checkout-basket.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Metaは2026年11月18日、同社のAIエージェントアプリMuseにカタログを接続する初のカナダの小売企業としてLoblawを発表した。買い物客はアプリを離れずに、Museに献立作り、買い物かごの作成、参加するLoblawのバナー店舗での決済を頼める。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは「Museはブランドの好みや食物アレルギーなどの情報を記憶でき、翌週の計画がさらに楽になる」と書く。投稿はどのバナーが参加するかを明かさず、PC Optimumポイントにも触れず、Loblawの声明も載せていない。"
+        },
+        {
+          "t": "p",
+          "x": "同じ投稿では、アニメーションのアバターとの音声会話やスペース機能もカナダのユーザーに提供される。同日、Googleの11月のMarketing Platformアップデートは、Display & Video 360のCommerce Media Suite内にLoblaw Advanceのオーディエンスを組み込んだ。"
+        },
+        {
+          "t": "p",
+          "x": "Loblawは2月にすでにChatGPT内でPC Expressアプリを公開している。Museを制限したAmazonやeBayと異なり、Loblawは公認の統合ルートを選んだ。この違いが、エージェントに何を見せるかを小売企業がどこまで制御できるかを左右する。"
+        }
+      ]
+    },
+    "marketing/cafe24-ai-referral-orders": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.ad4b345847024536860646a6cc442d3f_P1.png",
+          "cap": "Cafe24のブランド成長戦略カンファレンス「RUN YOUR BRAND」の会場。[写真=Cafe24]"
+        },
+        {
+          "t": "p",
+          "x": "生成AI（人工知能）による商品推薦が実際の購入につながるケースが増えていることが分かった。Cafe24は、AIショッピング環境に対応するため、自社モールの商品情報の構造を改善し、AI検索からのアクセス性を高めるべきだと強調した。"
+        },
+        {
+          "t": "p",
+          "x": "Cafe24は19日、ソウル・龍山区のケイブハウスでブランド成長戦略カンファレンス「ラン・ユア・ブランド（RUN YOUR BRAND）」を開いた。イベントでは、AI検索・推薦に基づくショッピングの広がりを受けたオンライン事業者の対応戦略が共有された。"
+        },
+        {
+          "t": "p",
+          "x": "この日、Cafe24コマーステックプラットフォームチームのイ・ジュンヒ チーム長は「AIが紹介し推薦する私たちのブランド」をテーマに発表した。消費者がポータルで商品を直接検索する方式から、ChatGPTなどの生成AIに購入条件を説明して商品を推薦してもらう方式へと、ショッピング環境が変わりつつあると説明した。"
+        },
+        {
+          "t": "p",
+          "x": "AIを通じた商品購入も実際に増えている。Cafe24が自社モールのデータを分析した結果、今年第3四半期に主要AIサービスを経由した訪問数は前年同期比2倍以上、注文数は約4倍に増えた。"
+        },
+        {
+          "t": "p",
+          "x": "AI経由で流入した顧客が商品詳細ページに直接入る比率は、一般的なポータル検索の顧客より約2倍高かった。商品詳細ページに直接入った顧客の注文転換率も、一般の流入顧客より約2.5倍高かった。"
+        },
+        {
+          "t": "p",
+          "x": "もっとも、AI経由の流入はポータル検索経由の流入の0.26%とわずかだが、急速に伸びているというのが同社の説明だ。"
+        },
+        {
+          "t": "p",
+          "x": "Cafe24は、AIショッピング時代に自社モールの重要性が高まると見通した。ブランドが商品情報と外部AIのアクセス権限を直接管理できるためだ。たとえばロボット排除規約（robots.txt）の設定によって、AIが商品名や価格、特典などの最新情報を収集できる道を開くといった支援ができる。"
+        },
+        {
+          "t": "p",
+          "x": "イ・チーム長は「AEO（回答エンジン最適化）とGEO（生成エンジン最適化）は、既存のSEO（検索エンジン最適化）を土台に、AIが理解しやすい情報を加えるプロセスだ」としたうえで、「ショッピングモールの情報構造をAIフレンドリーに整えれば、新たな成長機会を確保できる」と述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.8bd1e8f49d1049e8b44647dce86edfb0_P1.png",
+          "cap": "Cafe24のブランド成長戦略カンファレンス「RUN YOUR BRAND」の会場。[写真=Cafe24]"
+        }
+      ]
+    },
+    "marketing/coca-cola-enjoy-joy-liveaction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lMVQM8W14A4_eu7GVgLQEkUkdz1SSkhGhYZt0VYqnOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2NhLUNvbGFfX19FbmpveV9Kb3lfXzMwXzAtMThfc2NyZWVuc2hvdC5wbmc=.webp",
+          "cap": "Cokeの「Enjoy Joy」TVスポットは、家族や友人が季節の行事を楽しむ様子を描く。提供：Coca-Cola"
+        },
+        {
+          "t": "p",
+          "x": "Coca-Colaは木曜日、TVスポットのシリーズ、デジタル・ソーシャルコンテンツ、体験型施策、パッケージ、パートナーシップを含む年末キャンペーンを始めた。「Enjoy Joy」のスポットは、家族や友人がアメリカンフットボールをし、七面鳥を揚げ、食事を楽しむ姿を描く。尺は30秒・15秒・6秒で、地上波TV、デジタル、ストリーミング、ソーシャルに展開する。"
+        },
+        {
+          "t": "p",
+          "x": "注目すべきは、新しいスポットが近年の年末キャンペーンと異なり、生成人工知能を使っていない点だ。Coca-Colaは過去二年間、生成AIで制作した広告を流し、社内の基準は上回ったものの、消費者の評価は割れた。今回のキャンペーンはWPP Open Xが制作し、Ogilvyが主導した。監督はPaul Dektor、プロダクションはMayan Productionsが担った。年末商戦のマーケターが人の手によるクリエイティブに再び力を入れるなかでの展開である。"
+        },
+        {
+          "t": "video",
+          "yt": "DqV0bcaIzNc"
+        },
+        {
+          "t": "p",
+          "x": "展開施策として、Meta、TikTok、Pinterest、YouTubeでのクリエイター主導のコンテンツ、ソーシャルシリーズ「Grandma's Holiday Table」、Amazonとのメディア提携がある。年末のキャラバンツアーは11月5日にNashvilleで始まり、全国270カ所以上を回る。"
+        },
+        {
+          "t": "p",
+          "x": "「人々がこのブランドにずっと愛してきたものを大切にしながら、Coca‑Colaをこの季節の一部にする新しい方法を見つけることです」と、Coca‑Cola Trademark担当副社長のStacy Jacksonは述べた。"
+        }
+      ]
     }
   }
 }

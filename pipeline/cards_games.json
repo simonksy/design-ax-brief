@@ -1,143 +1,317 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "games",
   "cards": [
     {
-      "id": "unreal-mcp-ue58-course",
+      "id": "roblox-free-porting-program",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unreal MCP 강좌\nUE 5.8 AI 에이전트",
-      "body": "Epic이 AI 에이전트용 UE 5.8 실험 기능 MCP 강좌를 내놨다.",
-      "mini_headline": "UE 5.8용 Unreal MCP 강좌",
+      "headline": "Roblox, 외부 게임\n무료 이식 길 연다",
+      "body": "Roblox가 AI-assisted 툴로 모바일·PC·콘솔 게임을 무료로 옮긴다.",
+      "mini_headline": "Roblox, 게임 무료 이식",
       "tool": "Games",
-      "source": "Unreal Engine (YouTube)",
-      "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "yt": "OjffwpbcQsQ"
+            "t": "p",
+            "x": "Roblox는 우선 모바일, PC, 콘솔의 일부 개발자·게임과 작업한다"
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Roblox"
           },
           {
             "t": "p",
-            "x": "Unreal MCP는 즐겨 쓰는 에이전트형 AI 도구를 Unreal Engine에 바로 잇는 방법으로, Epic이 공식 지원한다. 개방형 MCP 표준 위에서 AI 에이전트가 프로젝트를 파악하고 에디터 안에서 직접 일한다. 만들고 고치고 테스트하고 반복하는 일까지 맡는다."
+            "x": "Roblox가 개발자의 기존 게임을 자사 플랫폼으로 무료 전환해 주는 새 크리에이터 프로그램을 출시했다."
           },
           {
             "t": "p",
-            "x": "Unreal Engine 시니어 강사 Sam Deiter가 Unreal MCP(Unreal Engine 5.8의 실험 기능)를 처음 쓰는 데 필요한 내용을 이 강좌에서 모두 짚는다. 핵심 용어와 일곱 단계 설정, 문제 해결과 디버깅, 툴셋, 에디터 내 Terminal 플러그인 워크플로, 구성 설정, 시간을 아끼는 팁, 자주 묻는 질문까지 다룬다."
+            "x": "Roblox Game Solutions의 Jim Greer 시니어 디렉터는 Roblox가 \"게임을 Roblox로 옮겨 오는 에이전틱 전환 도구를 만들었고, 오늘 이 프로그램을 모두에게 연다\"고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Unity든 Unreal이든 엔진은 가리지 않는다. 어떤 엔진으로 만든 게임이든 개발자는 Roblox에 플랫폼 전환을 신청하면 된다."
+          },
+          {
+            "t": "p",
+            "x": "첫 대상은 모바일, PC, 콘솔의 일부 개발자와 게임이다. 승인을 받은 개발자는 소스 코드와 에셋을 넘겨야 한다."
+          },
+          {
+            "t": "p",
+            "x": "Roblox는 개발자 코드를 다룰 때 \"AI-assisted 도구를 쓸 수 있다\"면서도 \"제공된 코드와 에셋은 AI 모델 학습이나 파인튜닝에 쓰지 않는다\"고 못 박았다."
+          },
+          {
+            "t": "p",
+            "x": "전환 비용은 Roblox가 댄다. 게임과 지식재산, Roblox 버전의 소유권은 개발자에게 그대로 남는다. 개발자가 선택하지 않으면 Roblox 플랫폼에는 아무것도 공개되지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "Roblox는 지난 9월 크리에이터가 여러 플랫폼에 게임을 독립 앱으로 낼 수 있는 Everywhere 이니셔티브를 내놓았다."
+          },
+          {
+            "t": "p",
+            "x": "Roblox는 크리에이터가 곧 오프라인 솔로 플레이를 켤 수 있게 된다고도 발표했다. mid-2027 정식 출시에 앞서 얼리 액세스부터 연다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Epic's Unreal MCP course\nputs AI agents in UE 5.8",
-          "body": "Epic's course shows the experimental UE 5.8 MCP bridge letting AI agents create, modify and test in the editor.",
-          "mini_headline": "Unreal MCP course for UE 5.8",
+          "headline": "Roblox opens a free path\nfor games from other platforms",
+          "body": "Roblox will port existing mobile, PC and console games to its platform for free using AI-assisted tools.",
+          "mini_headline": "Roblox ports games for free",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "t": "p",
+                "x": "Firm is working with a limited number of developers and games across mobile, PC, and console"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Roblox"
               },
               {
                 "t": "p",
-                "x": "Unreal MCP is the official, Epic-supported way to connect your favorite agentic AI tools directly to Unreal Engine. Built on the open MCP standard, it lets AI agents understand your project and take action in the editor: creating, modifying, testing, and iterating on your work."
+                "x": "Roblox has launched a new creator program that lets developers convert existing games to its platform for free."
               },
               {
                 "t": "p",
-                "x": "In this course, Senior Unreal Engine Instructor Sam Deiter walks you through everything you need to get started with Unreal MCP (Experimental in Unreal Engine 5.8): key terminology, the seven-step setup, troubleshooting and debugging, toolsets, the in-editor Terminal plugin workflow, configuration settings, time-saving tips, and answers to the most common questions."
+                "x": "As Roblox Game Solutions senior director Jim Greer explained, Roblox has \"built agentic conversion tools that bring games to Roblox, and today we're opening the program to everyone.\""
+              },
+              {
+                "t": "p",
+                "x": "Developers with games built on any engine, including Unity and Unreal, can apply to have Roblox convert their titles to the platform."
+              },
+              {
+                "t": "p",
+                "x": "The program will initially include a limited group of developers and games across mobile, PC, and console. Approved developers will be asked to provide their source code and assets."
+              },
+              {
+                "t": "p",
+                "x": "Roblox clarified that while it \"may use AI-assisted tools\" to work with a developer's code, \"the code and assets provided won't be used to train or fine-tune AI models.\""
+              },
+              {
+                "t": "p",
+                "x": "Roblox will handle the conversion at no cost, and developers will retain ownership of their game, intellectual property, and the Roblox version. Nothing will be published on Roblox's platform unless a developer chooses to do so."
+              },
+              {
+                "t": "p",
+                "x": "In September, Roblox introduced the Everywhere initiative, enabling creators to publish games as standalone apps across multiple platforms."
+              },
+              {
+                "t": "p",
+                "x": "Roblox also announced that creators will soon be able to enable offline solo play, with early access available before the full release in mid-2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unreal MCP 강좌\nUE 5.8 AI 에이전트",
-          "body": "Epic이 AI 에이전트용 UE 5.8 실험 기능 MCP 강좌를 내놨다.",
-          "mini_headline": "UE 5.8용 Unreal MCP 강좌",
+          "headline": "Roblox, 외부 게임\n무료 이식 길 연다",
+          "body": "Roblox가 AI-assisted 툴로 모바일·PC·콘솔 게임을 무료로 옮긴다.",
+          "mini_headline": "Roblox, 게임 무료 이식",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "t": "p",
+                "x": "Roblox는 우선 모바일, PC, 콘솔의 일부 개발자·게임과 작업한다"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Roblox"
               },
               {
                 "t": "p",
-                "x": "Unreal MCP는 즐겨 쓰는 에이전트형 AI 도구를 Unreal Engine에 바로 잇는 방법으로, Epic이 공식 지원한다. 개방형 MCP 표준 위에서 AI 에이전트가 프로젝트를 파악하고 에디터 안에서 직접 일한다. 만들고 고치고 테스트하고 반복하는 일까지 맡는다."
+                "x": "Roblox가 개발자의 기존 게임을 자사 플랫폼으로 무료 전환해 주는 새 크리에이터 프로그램을 출시했다."
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 시니어 강사 Sam Deiter가 Unreal MCP(Unreal Engine 5.8의 실험 기능)를 처음 쓰는 데 필요한 내용을 이 강좌에서 모두 짚는다. 핵심 용어와 일곱 단계 설정, 문제 해결과 디버깅, 툴셋, 에디터 내 Terminal 플러그인 워크플로, 구성 설정, 시간을 아끼는 팁, 자주 묻는 질문까지 다룬다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unreal MCP课程\nAI智能体进驻UE 5.8",
-          "body": "Epic课程展示UE 5.8实验性MCP桥接，让AI智能体在编辑器中创建、修改和测试。",
-          "mini_headline": "UE 5.8版Unreal MCP课程",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "x": "Roblox Game Solutions의 Jim Greer 시니어 디렉터는 Roblox가 \"게임을 Roblox로 옮겨 오는 에이전틱 전환 도구를 만들었고, 오늘 이 프로그램을 모두에게 연다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "Unreal MCP是Epic官方支持的方式，可将你常用的智能体AI工具直接接入Unreal Engine。它基于开放的MCP标准，让AI智能体理解你的项目并在编辑器中采取行动：创建、修改、测试和迭代你的作品。"
+                "x": "Unity든 Unreal이든 엔진은 가리지 않는다. 어떤 엔진으로 만든 게임이든 개발자는 Roblox에 플랫폼 전환을 신청하면 된다."
               },
               {
                 "t": "p",
-                "x": "在本课程中，Unreal Engine高级讲师Sam Deiter将带你了解上手Unreal MCP（在Unreal Engine 5.8中为实验性功能）所需的一切：关键术语、七步设置、故障排除与调试、工具集、编辑器内Terminal插件工作流程、配置设置、省时技巧，以及常见问题解答。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El curso de Unreal MCP de Epic\nlleva agentes de AI a UE 5.8",
-          "body": "Epic muestra el MCP experimental de UE 5.8, que deja a agentes de AI crear, modificar y probar en el editor.",
-          "mini_headline": "Curso de Unreal MCP para UE 5.8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "x": "첫 대상은 모바일, PC, 콘솔의 일부 개발자와 게임이다. 승인을 받은 개발자는 소스 코드와 에셋을 넘겨야 한다."
               },
               {
                 "t": "p",
-                "x": "Unreal MCP es la vía oficial, con soporte de Epic, para conectar tus herramientas de AI agéntica favoritas directamente a Unreal Engine. Basado en el estándar abierto MCP, permite que los agentes de AI entiendan tu proyecto y actúen en el editor: crear, modificar, probar e iterar sobre tu trabajo."
+                "x": "Roblox는 개발자 코드를 다룰 때 \"AI-assisted 도구를 쓸 수 있다\"면서도 \"제공된 코드와 에셋은 AI 모델 학습이나 파인튜닝에 쓰지 않는다\"고 못 박았다."
               },
               {
                 "t": "p",
-                "x": "En este curso, el instructor sénior de Unreal Engine Sam Deiter explica todo lo necesario para empezar con Unreal MCP (experimental en Unreal Engine 5.8): terminología clave, la configuración en siete pasos, solución de problemas y depuración, conjuntos de herramientas, el flujo de trabajo con el plugin Terminal dentro del editor, ajustes de configuración, consejos para ahorrar tiempo y respuestas a las preguntas más frecuentes."
+                "x": "전환 비용은 Roblox가 댄다. 게임과 지식재산, Roblox 버전의 소유권은 개발자에게 그대로 남는다. 개발자가 선택하지 않으면 Roblox 플랫폼에는 아무것도 공개되지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Roblox는 지난 9월 크리에이터가 여러 플랫폼에 게임을 독립 앱으로 낼 수 있는 Everywhere 이니셔티브를 내놓았다."
+              },
+              {
+                "t": "p",
+                "x": "Roblox는 크리에이터가 곧 오프라인 솔로 플레이를 켤 수 있게 된다고도 발표했다. mid-2027 정식 출시에 앞서 얼리 액세스부터 연다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unreal MCP講座\nUE 5.8でAIが編集",
-          "body": "Epicの講座はUE 5.8の実験的MCPでAIエージェントがエディタを操作する方法を示す。",
-          "mini_headline": "UE 5.8向けUnreal MCP講座",
+          "headline": "Roblox、他機種の\nゲームを無料で移植",
+          "body": "RobloxはAI-assistedツールでPC・コンソール・モバイル作品を無料移植する。",
+          "mini_headline": "Roblox、ゲームを無料移植",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "t": "p",
+                "x": "Robloxはモバイル、PC、コンソールにわたり、限られた数の開発者とゲームを対象に取り組んでいる"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Roblox"
               },
               {
                 "t": "p",
-                "x": "Unreal MCPは、普段使っているエージェント型AIツールをUnreal Engineに直接つなぐ、Epic公式サポートの手段だ。オープンなMCP標準を基盤とし、AIエージェントがプロジェクトを理解して、エディタ上で作成、修正、テスト、反復といった作業を行う。"
+                "x": "Robloxは、開発者が既存のゲームを無料で自社プラットフォームへ移行できる新たなクリエイタープログラムを開始した。"
               },
               {
                 "t": "p",
-                "x": "本講座では、Unreal EngineのシニアインストラクターであるSam Deiterが、Unreal MCP（Unreal Engine 5.8では実験的機能）を使い始めるために必要なことを一通り解説する。主要な用語、七つのステップからなるセットアップ、トラブルシューティングとデバッグ、ツールセット、エディタ内のTerminalプラグインを使うワークフロー、構成設定、時間を節約するコツ、よくある質問への回答までを扱う。"
+                "x": "Roblox Game SolutionsのシニアディレクターであるJim Greer氏によれば、Robloxは「ゲームをRobloxに持ち込むエージェント型の変換ツールを構築し、今日このプログラムを全員に開放する」という。"
+              },
+              {
+                "t": "p",
+                "x": "UnityやUnrealを含め、どのエンジンで作られたゲームでも、開発者はRobloxにプラットフォームへの変換を申請できる。"
+              },
+              {
+                "t": "p",
+                "x": "当初は、モバイル、PC、コンソールにわたる限られた開発者とゲームが対象となる。承認された開発者には、ソースコードとアセットの提供が求められる。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxは、開発者のコードを扱う際に「AI-assistedツールを使う場合がある」としつつ、「提供されたコードとアセットをAIモデルの学習やファインチューニングに使うことはない」と明言した。"
+              },
+              {
+                "t": "p",
+                "x": "変換は無償でRobloxが担い、開発者はゲーム、知的財産、Roblox版の所有権を保持する。開発者が選ばない限り、Robloxのプラットフォームに何かが公開されることはない。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxは9月、クリエイターが複数のプラットフォームでゲームを単独アプリとして公開できるEverywhereイニシアチブを発表している。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxはまた、クリエイターが近くオフラインのソロプレイを有効にできるようになり、mid-2027の正式リリースに先立ってアーリーアクセスを提供すると発表した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Roblox向他平台游戏\n开放免费移植",
+          "body": "Roblox将借助AI-assisted工具，把现有手机、PC和主机游戏免费移植到其平台。",
+          "mini_headline": "Roblox免费移植游戏",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Roblox正与手机、PC和主机平台上数量有限的开发者和游戏展开合作"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Roblox"
+              },
+              {
+                "t": "p",
+                "x": "Roblox推出一项新的创作者计划，让开发者可以免费将现有游戏转换到其平台。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox Game Solutions高级总监Jim Greer解释称，Roblox已经“打造了把游戏带到Roblox的智能体转换工具，今天我们向所有人开放这项计划”。"
+              },
+              {
+                "t": "p",
+                "x": "无论游戏基于哪种引擎开发，包括Unity和Unreal，开发者都可以申请由Roblox将其作品转换到该平台。"
+              },
+              {
+                "t": "p",
+                "x": "该计划初期只纳入手机、PC和主机平台上有限的一批开发者和游戏。获批的开发者需要提供源代码和素材。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox澄清，虽然它在处理开发者代码时“可能会使用AI-assisted工具”，但“所提供的代码和素材不会用于训练或微调AI模型”。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox将免费完成转换，开发者保留其游戏、知识产权以及Roblox版本的所有权。除非开发者自行选择，否则不会有任何内容发布到Roblox平台上。"
+              },
+              {
+                "t": "p",
+                "x": "今年9月，Roblox推出Everywhere计划，让创作者能够以独立应用的形式在多个平台发布游戏。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox还宣布，创作者很快将能开启离线单人游玩，并在mid-2027正式上线之前提供抢先体验。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Roblox abre una vía gratuita\npara juegos de otras plataformas",
+          "body": "Roblox llevará gratis a su plataforma juegos existentes de móvil, PC y consola con herramientas AI-assisted.",
+          "mini_headline": "Roblox porta juegos gratis",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La empresa trabaja con un número limitado de desarrolladores y juegos de móvil, PC y consola"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Imagen: Roblox"
+              },
+              {
+                "t": "p",
+                "x": "Roblox ha lanzado un nuevo programa para creadores que permite a los desarrolladores convertir gratis sus juegos existentes a su plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Como explicó Jim Greer, director sénior de Roblox Game Solutions, Roblox ha \"creado herramientas de conversión agénticas que llevan juegos a Roblox, y hoy abrimos el programa a todos\"."
+              },
+              {
+                "t": "p",
+                "x": "Los desarrolladores con juegos hechos en cualquier motor, incluidos Unity y Unreal, pueden solicitar que Roblox convierta sus títulos a la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Al principio, el programa incluirá un grupo limitado de desarrolladores y juegos de móvil, PC y consola. A los desarrolladores aprobados se les pedirá que aporten su código fuente y sus recursos."
+              },
+              {
+                "t": "p",
+                "x": "Roblox aclaró que, aunque \"puede usar herramientas AI-assisted\" para trabajar con el código de un desarrollador, \"el código y los recursos aportados no se usarán para entrenar ni ajustar modelos de AI\"."
+              },
+              {
+                "t": "p",
+                "x": "Roblox se encargará de la conversión sin coste, y los desarrolladores conservarán la propiedad de su juego, su propiedad intelectual y la versión para Roblox. No se publicará nada en la plataforma de Roblox salvo que el desarrollador lo decida."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, Roblox presentó la iniciativa Everywhere, que permite a los creadores publicar juegos como aplicaciones independientes en varias plataformas."
+              },
+              {
+                "t": "p",
+                "x": "Roblox también anunció que los creadores podrán activar pronto el juego individual sin conexión, con acceso anticipado antes del lanzamiento completo a mid-2027."
               }
             ]
           }
@@ -145,89 +319,205 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unreal MCP 강좌\nUE 5.8 AI 에이전트",
-          "body": "Epic 강좌가 AI 에이전트용 UE 5.8 실험 기능 MCP를 소개한다.",
-          "mini_headline": "UE 5.8용 Unreal MCP 강좌",
+          "headline": "Roblox, 외부 게임\n무료 이식 길 연다",
+          "body": "Roblox는 AI-assisted 툴로 모바일·PC·콘솔 게임을 무료 이식한다.",
+          "mini_headline": "Roblox, 게임 무료 이식",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "t": "p",
+                "x": "Roblox는 모바일, PC, 콘솔 전반에서 제한된 수의 개발자·게임과 함께 작업하고 있다"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Roblox"
               },
               {
                 "t": "p",
-                "x": "Unreal MCP는 즐겨 쓰는 에이전트형 AI 도구를 Unreal Engine에 직접 연결하는, Epic이 공식 지원하는 방법이다. 개방형 MCP 표준을 기반으로 AI 에이전트가 프로젝트를 이해하고 에디터에서 직접 작업한다. 만들고, 고치고, 테스트하고, 반복하는 일까지 맡는다."
+                "x": "Roblox가 개발자의 기존 게임을 자사 플랫폼으로 무료 전환해 주는 새 크리에이터 프로그램을 출시했다."
               },
               {
                 "t": "p",
-                "x": "이 강좌에서 Unreal Engine 시니어 강사 Sam Deiter가 Unreal MCP(Unreal Engine 5.8의 실험 기능)를 시작하는 데 필요한 모든 것을 안내한다. 핵심 용어, 일곱 단계 설정, 문제 해결과 디버깅, 툴셋, 에디터 내 Terminal 플러그인 워크플로, 구성 설정, 시간을 아끼는 팁, 자주 묻는 질문에 대한 답을 다룬다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unreal MCP课程\nAI智能体进驻UE 5.8",
-          "body": "Epic课程展示UE 5.8实验性MCP桥接，让AI智能体在编辑器中创建、修改和测试。",
-          "mini_headline": "UE 5.8版Unreal MCP课程",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "x": "Roblox Game Solutions의 Jim Greer 시니어 디렉터는 Roblox가 \"게임을 Roblox로 옮겨 오는 에이전틱 전환 도구를 만들었고, 오늘 이 프로그램을 모두에게 연다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "Unreal MCP是Epic官方支持的方式，可将你常用的智能体AI工具直接接入Unreal Engine。它基于开放的MCP标准，让AI智能体理解你的项目并在编辑器中采取行动：创建、修改、测试和迭代你的作品。"
+                "x": "Unity와 Unreal을 비롯해 어떤 엔진으로 만든 게임이든, 개발자는 Roblox에 플랫폼 전환을 신청할 수 있다."
               },
               {
                 "t": "p",
-                "x": "在本课程中，Unreal Engine高级讲师Sam Deiter将带你了解上手Unreal MCP（在Unreal Engine 5.8中为实验性功能）所需的一切：关键术语、七步设置、故障排除与调试、工具集、编辑器内Terminal插件工作流程、配置设置、省时技巧，以及常见问题解答。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El curso de Unreal MCP de Epic\nlleva agentes de AI a UE 5.8",
-          "body": "Epic muestra el MCP experimental de UE 5.8, que deja a agentes de AI crear, modificar y probar en el editor.",
-          "mini_headline": "Curso de Unreal MCP para UE 5.8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "x": "프로그램은 처음에 모바일, PC, 콘솔 전반의 제한된 개발자와 게임으로 시작한다. 승인된 개발자는 소스 코드와 에셋을 제공해야 한다."
               },
               {
                 "t": "p",
-                "x": "Unreal MCP es la vía oficial, con soporte de Epic, para conectar tus herramientas de AI agéntica favoritas directamente a Unreal Engine. Basado en el estándar abierto MCP, permite que los agentes de AI entiendan tu proyecto y actúen en el editor: crear, modificar, probar e iterar sobre tu trabajo."
+                "x": "Roblox는 개발자 코드 작업에 \"AI-assisted 도구를 쓸 수 있다\"면서도 \"제공된 코드와 에셋은 AI 모델 학습이나 파인튜닝에 쓰지 않는다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "En este curso, el instructor sénior de Unreal Engine Sam Deiter explica todo lo necesario para empezar con Unreal MCP (experimental en Unreal Engine 5.8): terminología clave, la configuración en siete pasos, solución de problemas y depuración, conjuntos de herramientas, el flujo de trabajo con el plugin Terminal dentro del editor, ajustes de configuración, consejos para ahorrar tiempo y respuestas a las preguntas más frecuentes."
+                "x": "전환 비용은 Roblox가 부담하며, 개발자는 게임과 지식재산, Roblox 버전의 소유권을 그대로 갖는다. 개발자가 선택하지 않으면 Roblox 플랫폼에는 아무것도 공개되지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Roblox는 지난 9월 크리에이터가 여러 플랫폼에 게임을 독립 앱으로 출시할 수 있게 하는 Everywhere 이니셔티브를 선보였다."
+              },
+              {
+                "t": "p",
+                "x": "Roblox는 크리에이터가 곧 오프라인 솔로 플레이를 켤 수 있게 되며, mid-2027 정식 출시에 앞서 얼리 액세스를 제공한다고도 발표했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unreal MCP講座\nUE 5.8でAIが編集",
-          "body": "Epicの講座はUE 5.8の実験的MCPでAIエージェントがエディタを操作する方法を示す。",
-          "mini_headline": "UE 5.8向けUnreal MCP講座",
+          "headline": "Roblox、他機種の\nゲームを無料で移植",
+          "body": "RobloxはAI-assistedツールでPC・コンソール・モバイル作品を無料移植する。",
+          "mini_headline": "Roblox、ゲームを無料移植",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "OjffwpbcQsQ"
+                "t": "p",
+                "x": "Robloxはモバイル、PC、コンソールにわたり、限られた数の開発者とゲームを対象に取り組んでいる"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Roblox"
               },
               {
                 "t": "p",
-                "x": "Unreal MCPは、普段使っているエージェント型AIツールをUnreal Engineに直接つなぐ、Epic公式サポートの手段だ。オープンなMCP標準を基盤とし、AIエージェントがプロジェクトを理解して、エディタ上で作成、修正、テスト、反復といった作業を行う。"
+                "x": "Robloxは、開発者が既存のゲームを無料で自社プラットフォームへ移行できる新たなクリエイタープログラムを開始した。"
               },
               {
                 "t": "p",
-                "x": "本講座では、Unreal EngineのシニアインストラクターであるSam Deiterが、Unreal MCP（Unreal Engine 5.8では実験的機能）を使い始めるために必要なことを一通り解説する。主要な用語、七つのステップからなるセットアップ、トラブルシューティングとデバッグ、ツールセット、エディタ内のTerminalプラグインを使うワークフロー、構成設定、時間を節約するコツ、よくある質問への回答までを扱う。"
+                "x": "Roblox Game SolutionsのシニアディレクターであるJim Greer氏によれば、Robloxは「ゲームをRobloxに持ち込むエージェント型の変換ツールを構築し、今日このプログラムを全員に開放する」という。"
+              },
+              {
+                "t": "p",
+                "x": "UnityやUnrealを含め、どのエンジンで作られたゲームでも、開発者はRobloxにプラットフォームへの変換を申請できる。"
+              },
+              {
+                "t": "p",
+                "x": "当初は、モバイル、PC、コンソールにわたる限られた開発者とゲームが対象となる。承認された開発者には、ソースコードとアセットの提供が求められる。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxは、開発者のコードを扱う際に「AI-assistedツールを使う場合がある」としつつ、「提供されたコードとアセットをAIモデルの学習やファインチューニングに使うことはない」と明言した。"
+              },
+              {
+                "t": "p",
+                "x": "変換は無償でRobloxが担い、開発者はゲーム、知的財産、Roblox版の所有権を保持する。開発者が選ばない限り、Robloxのプラットフォームに何かが公開されることはない。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxは9月、クリエイターが複数のプラットフォームでゲームを単独アプリとして公開できるEverywhereイニシアチブを発表している。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxはまた、クリエイターが近くオフラインのソロプレイを有効にできるようになり、mid-2027の正式リリースに先立ってアーリーアクセスを提供すると発表した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Roblox向他平台游戏\n开放免费移植",
+          "body": "Roblox将借助AI-assisted工具，把现有手机、PC和主机游戏免费移植到其平台。",
+          "mini_headline": "Roblox免费移植游戏",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Roblox正与手机、PC和主机平台上数量有限的开发者和游戏展开合作"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Roblox"
+              },
+              {
+                "t": "p",
+                "x": "Roblox推出一项新的创作者计划，让开发者可以免费将现有游戏转换到其平台。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox Game Solutions高级总监Jim Greer解释称，Roblox已经“打造了把游戏带到Roblox的智能体转换工具，今天我们向所有人开放这项计划”。"
+              },
+              {
+                "t": "p",
+                "x": "无论游戏基于哪种引擎开发，包括Unity和Unreal，开发者都可以申请由Roblox将其作品转换到该平台。"
+              },
+              {
+                "t": "p",
+                "x": "该计划初期只纳入手机、PC和主机平台上有限的一批开发者和游戏。获批的开发者需要提供源代码和素材。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox澄清，虽然它在处理开发者代码时“可能会使用AI-assisted工具”，但“所提供的代码和素材不会用于训练或微调AI模型”。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox将免费完成转换，开发者保留其游戏、知识产权以及Roblox版本的所有权。除非开发者自行选择，否则不会有任何内容发布到Roblox平台上。"
+              },
+              {
+                "t": "p",
+                "x": "今年9月，Roblox推出Everywhere计划，让创作者能够以独立应用的形式在多个平台发布游戏。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox还宣布，创作者很快将能开启离线单人游玩，并在mid-2027正式上线之前提供抢先体验。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Roblox abre una vía gratuita\npara juegos de otras plataformas",
+          "body": "Roblox llevará gratis a su plataforma juegos existentes de móvil, PC y consola con herramientas AI-assisted.",
+          "mini_headline": "Roblox porta juegos gratis",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La empresa trabaja con un número limitado de desarrolladores y juegos de móvil, PC y consola"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Imagen: Roblox"
+              },
+              {
+                "t": "p",
+                "x": "Roblox ha lanzado un nuevo programa para creadores que permite a los desarrolladores convertir gratis sus juegos existentes a su plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Como explicó Jim Greer, director sénior de Roblox Game Solutions, Roblox ha \"creado herramientas de conversión agénticas que llevan juegos a Roblox, y hoy abrimos el programa a todos\"."
+              },
+              {
+                "t": "p",
+                "x": "Los desarrolladores con juegos hechos en cualquier motor, incluidos Unity y Unreal, pueden solicitar que Roblox convierta sus títulos a la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Al principio, el programa incluirá un grupo limitado de desarrolladores y juegos de móvil, PC y consola. A los desarrolladores aprobados se les pedirá que aporten su código fuente y sus recursos."
+              },
+              {
+                "t": "p",
+                "x": "Roblox aclaró que, aunque \"puede usar herramientas AI-assisted\" para trabajar con el código de un desarrollador, \"el código y los recursos aportados no se usarán para entrenar ni ajustar modelos de AI\"."
+              },
+              {
+                "t": "p",
+                "x": "Roblox se encargará de la conversión sin coste, y los desarrolladores conservarán la propiedad de su juego, su propiedad intelectual y la versión para Roblox. No se publicará nada en la plataforma de Roblox salvo que el desarrollador lo decida."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, Roblox presentó la iniciativa Everywhere, que permite a los creadores publicar juegos como aplicaciones independientes en varias plataformas."
+              },
+              {
+                "t": "p",
+                "x": "Roblox también anunció que los creadores podrán activar pronto el juego individual sin conexión, con acceso anticipado antes del lanzamiento completo a mid-2027."
               }
             ]
           }
@@ -235,189 +525,195 @@
       }
     },
     {
-      "id": "genie4-ultra-rollout",
+      "id": "shiftup-bloodrain-handmade",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Genie 4 실시간 편집\nAI Ultra에 공개",
-      "body": "AI Ultra 이용자는 이제 Genie 4 월드를 말로 실시간 편집한다.",
-      "mini_headline": "Genie 4, AI Ultra에 공개",
+      "headline": "Shift Up \"수작업\"\n그래도 AI는 쓴다",
+      "body": "Shift Up CEO는 Blood Rain이 수작업이어도 AI는 꼭 쓴다고 했다.",
+      "mini_headline": "Shift Up의 수작업 약속",
       "tool": "Games",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "EDp4IoAUsXY"
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+            "cap": "이미지 출처: Shift Up"
           },
           {
             "t": "p",
-            "x": "Genie 4가 Google AI Ultra 구독자 가운데 대상자에게 차례로 풀린다. 월드는 반응이 더 빨라졌고 여럿이 함께 즐길 수 있으며 상호작용도 풍부해졌다. 자연어로 환경을 실시간 편집하고 네이티브 오디오를 더해, 새 커뮤니티 갤러리에 작품을 올릴 수도 있다."
+            "x": "Stellar Blade: Blood Rain은 생성형 AI 콘텐츠로 채운 뮤직비디오가 큰 논란을 부르며 다시 화제가 됐다. 이 일로 Shift Up은 논란 많은 이 기술을 어디까지 쓸지 다시 따져 보게 됐다."
           },
           {
             "t": "p",
-            "x": "Genie 4는 지금까지 나온 월드 모델 가운데 가장 사실적이고 상호작용이 풍부하다. 세션 도중에도 프롬프트로 직접 만든 월드를 고친다. 날씨를 바꾸거나 캐릭터를 넣거나 전개 방향을 틀면 된다. 이런 영상에 장면 전개에 맞춰 변하는 실시간 네이티브 오디오를 붙인 것도 Genie 4가 처음이다. 더 긴 실행이나 파노라마 기반 공간이 필요하면 모델 선택기에서 Genie 3를 그대로 쓰면 된다."
+            "x": "Kim Hyung-tae CEO는 처음엔 주인공 Evie가 원래 인간 개발자들이 \"머리부터 발끝까지\" 만든 캐릭터라며 영상을 감쌌다. 이후 Shift Up은 커뮤니티의 우려를 \"진지하게\" 받아들이겠다고 약속하면서도 AI가 \"게임 개발에 많은 영향과 파급력을 미친다\"고 했다."
           },
           {
             "t": "p",
-            "x": "새 Project Genie 에이전트는 텍스트나 이미지 프롬프트 하나로 끝나지 않는다. 구상을 자연어로 설명하면 에이전트가 Google의 멀티모달 모델군을 엮어 초기 영상과 맞춤 배경 음악을 만든다. 새 갤러리에는 엄선한 월드와 커뮤니티 작품이 모였다. Will aka BLVCKL!GHT와 만든 “Villa Giallo”, 영화감독 Anand Gandhi와 만든 “The Life of Ants” 등을 둘러보고 리믹스해 볼 수 있다."
+            "x": "Kim은 Inven Global 인터뷰에서 이번 반발이 \"처음부터 끝까지 수작업\"이라는 새 모토를 낳았다고 밝혔다. 그렇다고 Shift Up이 AI를 끊은 건 아니다. 텍스처 웨더링, 성능을 위한 폴리곤 수 감축, 라이팅 테스트, 정리 같은 중간 작업엔 여전히 AI를 쓰고 마무리는 인간 개발자가 모두 손본다."
           },
           {
             "t": "p",
-            "x": "Project Genie로 만든 영상과 오디오에는 모두 SynthID 워터마크가 붙는다. Google AI Pro 회원은 대기자 명단에 이름을 올릴 수 있다."
+            "x": "Kim은 \"효율\"과 \"생산성\"만 앞세우는 건 옳은 길이 아니라고 했다. Shift Up이 AI를 쓰는 건 출시를 당기려는 게 아니라 품질을 끌어올리려는 것이라는 설명이다. 효율 때문에 AI에 기대는 게임은 결국 \"slop(저품질 양산물)\" 취급을 받는다고 보면서도, 단순한 품질 보증부터 심층 디버깅까지 두루 쓰이는 지금은 이 기술 없이 일하기가 더는 불가능하다고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Genie 4 opens to AI Ultra\nwith live world editing",
-          "body": "Project Genie's AI Ultra users can now edit Genie 4 worlds in real time with plain language, aided by a creative agent.",
-          "mini_headline": "Genie 4 opens to AI Ultra",
+          "headline": "Shift Up calls Blood Rain\nhandmade but keeps AI",
+          "body": "After an AI music-video backlash, Shift Up's CEO called Blood Rain handmade but said AI stays essential to development.",
+          "mini_headline": "Shift Up's handmade pledge",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "Image credit: Shift Up"
               },
               {
                 "t": "p",
-                "x": "We are rolling out Genie 4 to eligible Google AI Ultra subscribers, offering more responsive, social, and interactive world generation. You can now use natural language to edit environments in real time, add native audio, and share your creations in our new community gallery."
+                "x": "Stellar Blade: Blood Rain re-entered the limelight with a highly controversial music video full of generative AI content – a debacle that prompted Shift Up to reconsider its use of the contentious tech."
               },
               {
                 "t": "p",
-                "x": "With Genie 4, our most realistic and interactive world model yet, you can now prompt mid-session to change the world you created. Shift the weather, drop in a character, or redirect the action. For the first time, Genie 4 pairs these visuals with real-time native audio that adapts as the scene unfolds. Genie 3 remains available in the model picker for longer runs or panorama-seeded spaces."
+                "x": "CEO Kim Hyung-tae initially defended the video, saying star Evie was originally \"created from head to toe\" by human developers. Shift Up then promised it was taking community concerns \"seriously\", while saying AI has \"a lot of influence and impact on game development.\""
               },
               {
                 "t": "p",
-                "x": "The new Project Genie agent takes creation beyond a single text or image prompt: describe your vision in natural language, and the agent orchestrates Google’s suite of multimodal models to craft initial visuals and custom background scores. A new gallery brings together curated worlds and community creations, including “Villa Giallo” with Will aka BLVCKL!GHT and “The Life of Ants” with filmmaker Anand Gandhi, which you can explore and remix."
+                "x": "Speaking to Inven Global, Kim said the backlash birthed a new motto: \"Handmade from start to finish.\" That does not mean Shift Up has stopped using AI. It is still used for intermediate tasks such as texture weathering, reducing polygon counts for performance, testing lighting, and organization, with human developers refining everything at the end."
               },
               {
                 "t": "p",
-                "x": "All video and audio generated in Project Genie includes SynthID watermarking. Google AI Pro members can join the waitlist."
+                "x": "Kim said simply prioritizing \"efficiency\" and \"productivity\" isn't the way to go: Shift Up uses AI to raise quality, not to speed up releases. He believes games that rely on AI for efficiency end up regarded as \"slop\" — but working entirely without the tech is no longer feasible, as it's used in everything from simple quality assurance to more in-depth debugging."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Genie 4 실시간 편집\nAI Ultra에 공개",
-          "body": "AI Ultra 이용자는 이제 Genie 4 월드를 말로 실시간 편집한다.",
-          "mini_headline": "Genie 4, AI Ultra에 공개",
+          "headline": "Shift Up \"수작업\"\n그래도 AI는 쓴다",
+          "body": "Shift Up CEO는 Blood Rain이 수작업이어도 AI는 꼭 쓴다고 했다.",
+          "mini_headline": "Shift Up의 수작업 약속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "이미지 출처: Shift Up"
               },
               {
                 "t": "p",
-                "x": "Genie 4가 Google AI Ultra 구독자 가운데 대상자에게 차례로 풀린다. 월드는 반응이 더 빨라졌고 여럿이 함께 즐길 수 있으며 상호작용도 풍부해졌다. 자연어로 환경을 실시간 편집하고 네이티브 오디오를 더해, 새 커뮤니티 갤러리에 작품을 올릴 수도 있다."
+                "x": "Stellar Blade: Blood Rain은 생성형 AI 콘텐츠로 채운 뮤직비디오가 큰 논란을 부르며 다시 화제가 됐다. 이 일로 Shift Up은 논란 많은 이 기술을 어디까지 쓸지 다시 따져 보게 됐다."
               },
               {
                 "t": "p",
-                "x": "Genie 4는 지금까지 나온 월드 모델 가운데 가장 사실적이고 상호작용이 풍부하다. 세션 도중에도 프롬프트로 직접 만든 월드를 고친다. 날씨를 바꾸거나 캐릭터를 넣거나 전개 방향을 틀면 된다. 이런 영상에 장면 전개에 맞춰 변하는 실시간 네이티브 오디오를 붙인 것도 Genie 4가 처음이다. 더 긴 실행이나 파노라마 기반 공간이 필요하면 모델 선택기에서 Genie 3를 그대로 쓰면 된다."
+                "x": "Kim Hyung-tae CEO는 처음엔 주인공 Evie가 원래 인간 개발자들이 \"머리부터 발끝까지\" 만든 캐릭터라며 영상을 감쌌다. 이후 Shift Up은 커뮤니티의 우려를 \"진지하게\" 받아들이겠다고 약속하면서도 AI가 \"게임 개발에 많은 영향과 파급력을 미친다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "새 Project Genie 에이전트는 텍스트나 이미지 프롬프트 하나로 끝나지 않는다. 구상을 자연어로 설명하면 에이전트가 Google의 멀티모달 모델군을 엮어 초기 영상과 맞춤 배경 음악을 만든다. 새 갤러리에는 엄선한 월드와 커뮤니티 작품이 모였다. Will aka BLVCKL!GHT와 만든 “Villa Giallo”, 영화감독 Anand Gandhi와 만든 “The Life of Ants” 등을 둘러보고 리믹스해 볼 수 있다."
+                "x": "Kim은 Inven Global 인터뷰에서 이번 반발이 \"처음부터 끝까지 수작업\"이라는 새 모토를 낳았다고 밝혔다. 그렇다고 Shift Up이 AI를 끊은 건 아니다. 텍스처 웨더링, 성능을 위한 폴리곤 수 감축, 라이팅 테스트, 정리 같은 중간 작업엔 여전히 AI를 쓰고 마무리는 인간 개발자가 모두 손본다."
               },
               {
                 "t": "p",
-                "x": "Project Genie로 만든 영상과 오디오에는 모두 SynthID 워터마크가 붙는다. Google AI Pro 회원은 대기자 명단에 이름을 올릴 수 있다."
+                "x": "Kim은 \"효율\"과 \"생산성\"만 앞세우는 건 옳은 길이 아니라고 했다. Shift Up이 AI를 쓰는 건 출시를 당기려는 게 아니라 품질을 끌어올리려는 것이라는 설명이다. 효율 때문에 AI에 기대는 게임은 결국 \"slop(저품질 양산물)\" 취급을 받는다고 보면서도, 단순한 품질 보증부터 심층 디버깅까지 두루 쓰이는 지금은 이 기술 없이 일하기가 더는 불가능하다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "即時編集できるGenie 4\nAI Ultraに登場",
-          "body": "AI UltraユーザーはGenie 4の世界を自然言語でリアルタイムに編集できる。",
-          "mini_headline": "Genie 4がAI Ultraに登場",
+          "headline": "Shift Up「手作り」\nそれでもAIは使う",
+          "body": "Shift UpのCEOはBlood Rainを手作りとしつつ、AIは不可欠だと述べた。",
+          "mini_headline": "Shift Upの手作り宣言",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "画像提供：Shift Up"
               },
               {
                 "t": "p",
-                "x": "Genie 4を対象のGoogle AI Ultra加入者へ順次提供する。より応答性が高く、ソーシャルでインタラクティブなワールド生成が可能になる。自然言語で環境をリアルタイムに編集し、ネイティブ音声を加え、新しいコミュニティギャラリーで作品を共有できる。"
+                "x": "Stellar Blade: Blood Rainは、生成AIコンテンツだらけの物議を醸すミュージックビデオで再び注目を集めた。この騒動を受け、Shift Upは賛否の分かれるこの技術の使い方を見直すことになった。"
               },
               {
                 "t": "p",
-                "x": "これまでで最もリアルでインタラクティブなワールドモデルであるGenie 4では、セッションの途中でプロンプトを入力し、作成したワールドを変更できる。天候を変える、キャラクターを登場させる、展開の向きを変えるといった操作だ。Genie 4は初めて、こうした映像に場面の進行に合わせて変化するリアルタイムのネイティブ音声を組み合わせた。長時間の実行やパノラマを起点にした空間には、モデル選択でGenie 3も引き続き利用できる。"
+                "x": "Kim Hyung-tae CEOは当初、主人公のEvieはもともと人間の開発者が「頭からつま先まで」作り上げたキャラクターだとして映像を擁護した。その後Shift Upは、コミュニティの懸念を「真剣に」受け止めると約束しつつ、AIは「ゲーム開発に大きな影響と効果をもたらしている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "新しいProject Genieエージェントは、単一のテキストや画像のプロンプトを超えた制作を可能にする。構想を自然言語で伝えると、エージェントがGoogleのマルチモーダルモデル群を組み合わせ、最初のビジュアルと独自のBGMを作る。新ギャラリーには厳選したワールドとコミュニティ作品が集まり、Will aka BLVCKL!GHTと制作した「Villa Giallo」や映画監督Anand Gandhiと制作した「The Life of Ants」などを探索・リミックスできる。"
+                "x": "KimはInven Globalの取材に対し、今回の反発から「最初から最後まで手作り」という新たなモットーが生まれたと語った。とはいえ、Shift UpがAIの使用をやめたわけではない。テクスチャのウェザリング、パフォーマンスのためのポリゴン数削減、ライティングのテスト、整理といった中間作業には今もAIを使い、最後は人間の開発者がすべてを仕上げる。"
               },
               {
                 "t": "p",
-                "x": "Project Genieで生成した映像と音声にはすべてSynthIDの透かしが入る。Google AI Proの会員はウェイトリストに登録できる。"
+                "x": "Kimは、単に「効率」や「生産性」を優先するのは正しいやり方ではないとし、Shift Upはリリースを早めるためではなく品質を高めるためにAIを使っていると述べた。効率のためにAIに頼るゲームは結局「slop（粗製品）」と見なされると考える一方、簡単な品質保証から踏み込んだデバッグまであらゆる場面で使われている以上、この技術なしで作業することはもはや現実的ではないという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Genie 4支持实时改世界\n向AI Ultra用户开放",
-          "body": "AI Ultra用户现可借助创作智能体，用自然语言实时编辑Genie 4世界。",
-          "mini_headline": "Genie 4向AI Ultra开放",
+          "headline": "Shift Up称纯手工打造\n但仍保留AI",
+          "body": "Shift Up CEO称Blood Rain为手工打造，但表示AI仍是开发必需。",
+          "mini_headline": "Shift Up的手工承诺",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "图片来源：Shift Up"
               },
               {
                 "t": "p",
-                "x": "我们正向符合条件的Google AI Ultra订阅用户推出Genie 4，带来响应更快、更具社交性和互动性的世界生成体验。现在你可以用自然语言实时编辑环境、加入原生音频，并在新的社区画廊中分享作品。"
+                "x": "Stellar Blade: Blood Rain因一支充斥生成式AI内容、争议极大的音乐视频重回聚光灯下——这场风波促使Shift Up重新审视对这项争议技术的使用。"
               },
               {
                 "t": "p",
-                "x": "Genie 4是我们迄今最逼真、互动性最强的世界模型，你可以在会话中途输入提示来改变已创建的世界：改变天气、加入角色，或扭转情节走向。Genie 4首次将这些画面与随场景展开而变化的实时原生音频相结合。对于更长时间的运行或以全景图生成的空间，模型选择器中仍可使用Genie 3。"
+                "x": "CEO Kim Hyung-tae起初为视频辩护，称主角Evie最初是由人类开发者“从头到脚”打造的。随后Shift Up承诺会“认真”对待社区的担忧，同时表示AI对“游戏开发有很大的影响和作用”。"
               },
               {
                 "t": "p",
-                "x": "新的Project Genie智能体让创作不再局限于单条文本或图像提示：用自然语言描述你的构想，智能体便会调度Google的多模态模型套件，生成初始画面和定制背景配乐。新画廊汇集了精选世界与社区作品，包括与Will aka BLVCKL!GHT合作的“Villa Giallo”，以及与电影人Anand Gandhi合作的“The Life of Ants”，均可探索和二次创作。"
+                "x": "Kim在接受Inven Global采访时表示，这次反弹催生了一句新座右铭：“从头到尾纯手工打造。”但这并不意味着Shift Up已停止使用AI。贴图做旧、为性能削减多边形数量、测试光照以及整理等中间环节仍在使用AI，最后由人类开发者完成全部打磨。"
               },
               {
                 "t": "p",
-                "x": "Project Genie生成的所有视频和音频均带有SynthID水印。Google AI Pro会员可加入候补名单。"
+                "x": "Kim说，单纯追求“效率”和“生产力”并不可取：Shift Up用AI是为了提升品质，而不是加快发售。他认为，为效率而依赖AI的游戏最终会被视为“slop（粗制滥造之作）”——但完全不用这项技术已不再可行，因为从简单的质量保证到更深入的调试，处处都在用它。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Genie 4 llega a AI Ultra\ncon edición de mundos en vivo",
-          "body": "Los usuarios de AI Ultra ya editan en tiempo real mundos de Genie 4 con lenguaje natural, ayudados por un agente.",
-          "mini_headline": "Genie 4 llega a AI Ultra",
+          "headline": "Shift Up dice que Blood Rain es\nartesanal, pero sigue con la AI",
+          "body": "Tras la polémica por un videoclip con AI, el CEO de Shift Up llamó artesanal a Blood Rain, pero ve la AI esencial.",
+          "mini_headline": "El compromiso artesanal de Shift Up",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "Imagen: Shift Up"
               },
               {
                 "t": "p",
-                "x": "Estamos desplegando Genie 4 para los suscriptores elegibles de Google AI Ultra, con una generación de mundos más ágil, social e interactiva. Ahora se puede usar lenguaje natural para editar entornos en tiempo real, añadir audio nativo y compartir creaciones en nuestra nueva galería comunitaria."
+                "x": "Stellar Blade: Blood Rain volvió al primer plano con un videoclip muy polémico lleno de contenido de AI generativa, un tropiezo que llevó a Shift Up a replantearse el uso de esta tecnología tan discutida."
               },
               {
                 "t": "p",
-                "x": "Con Genie 4, nuestro modelo de mundos más realista e interactivo hasta la fecha, ahora es posible escribir instrucciones a mitad de sesión para cambiar el mundo creado: cambiar el clima, añadir un personaje o reorientar la acción. Por primera vez, Genie 4 combina estas imágenes con audio nativo en tiempo real que se adapta a medida que avanza la escena. Genie 3 sigue disponible en el selector de modelos para sesiones más largas o espacios generados a partir de panorámicas."
+                "x": "El CEO Kim Hyung-tae defendió al principio el video y dijo que la protagonista, Evie, fue \"creada de pies a cabeza\" por desarrolladores humanos. Después, Shift Up prometió que se tomaba \"en serio\" las preocupaciones de la comunidad, aunque afirmó que la AI tiene \"mucha influencia e impacto en el desarrollo de juegos\"."
               },
               {
                 "t": "p",
-                "x": "El nuevo agente de Project Genie lleva la creación más allá de una sola instrucción de texto o imagen: basta con describir la idea en lenguaje natural para que el agente coordine el conjunto de modelos multimodales de Google y cree las imágenes iniciales y bandas sonoras de fondo a medida. Una nueva galería reúne mundos seleccionados y creaciones de la comunidad, como “Villa Giallo”, con Will aka BLVCKL!GHT, y “The Life of Ants”, con el cineasta Anand Gandhi, que se pueden explorar y remezclar."
+                "x": "En declaraciones a Inven Global, Kim dijo que la reacción dio origen a un nuevo lema: \"Hecho a mano de principio a fin\". Eso no significa que Shift Up haya dejado de usar AI. La sigue empleando en tareas intermedias como el desgaste de texturas, la reducción de polígonos para mejorar el rendimiento, las pruebas de iluminación y la organización, y al final los desarrolladores humanos lo pulen todo."
               },
               {
                 "t": "p",
-                "x": "Todo el video y el audio generados en Project Genie incluyen la marca de agua SynthID. Los miembros de Google AI Pro pueden unirse a la lista de espera."
+                "x": "Kim dijo que priorizar sin más la \"eficiencia\" y la \"productividad\" no es el camino: Shift Up usa la AI para elevar la calidad, no para acelerar los lanzamientos. Cree que los juegos que dependen de la AI por eficiencia acaban vistos como \"slop\", pero trabajar del todo sin esta tecnología ya no es viable, porque se usa en todo, desde el control de calidad básico hasta la depuración más profunda."
               }
             ]
           }
@@ -425,121 +721,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Genie 4 실시간 편집\nAI Ultra에 공개",
-          "body": "AI Ultra 이용자는 이제 Genie 4 월드를 말로 실시간 편집한다.",
-          "mini_headline": "Genie 4, AI Ultra에 공개",
+          "headline": "Shift Up \"수작업\"\n그래도 AI는 쓴다",
+          "body": "Shift Up CEO는 Blood Rain이 수작업이지만 AI는 필수라고 했다.",
+          "mini_headline": "Shift Up의 수작업 약속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "이미지 출처: Shift Up"
               },
               {
                 "t": "p",
-                "x": "Google AI Ultra 구독자 중 대상자에게 Genie 4를 순차 제공한다. 반응이 더 빠르고, 함께 즐기며, 상호작용이 풍부한 월드 생성을 지원한다. 이제 자연어로 환경을 실시간 편집하고, 네이티브 오디오를 더하고, 새 커뮤니티 갤러리에 작품을 공유할 수 있다."
+                "x": "Stellar Blade: Blood Rain은 생성형 AI 콘텐츠로 가득한 뮤직비디오로 큰 논란에 휩싸이며 다시 주목받았고, 이 사태로 Shift Up은 논쟁적인 이 기술의 활용을 재검토하게 됐다."
               },
               {
                 "t": "p",
-                "x": "지금까지 가장 사실적이고 상호작용이 풍부한 월드 모델인 Genie 4에서는 세션 도중 프롬프트로 직접 만든 월드를 바꿀 수 있다. 날씨를 바꾸거나 캐릭터를 넣거나 전개 방향을 틀 수 있다. Genie 4는 처음으로 이런 영상에 장면 전개에 맞춰 변하는 실시간 네이티브 오디오를 결합했다. 더 긴 실행이나 파노라마 기반 공간에는 모델 선택기에서 Genie 3를 계속 쓸 수 있다."
+                "x": "Kim Hyung-tae CEO는 처음에 주인공 Evie가 원래 인간 개발자들이 \"머리부터 발끝까지\" 만든 캐릭터라며 영상을 옹호했다. 이후 Shift Up은 커뮤니티의 우려를 \"진지하게\" 받아들이겠다고 약속하면서도, AI가 \"게임 개발에 많은 영향과 파급력을 미친다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "새 Project Genie 에이전트는 텍스트나 이미지 프롬프트 하나에 머물지 않는다. 구상을 자연어로 설명하면 에이전트가 Google의 멀티모달 모델군을 조율해 초기 영상과 맞춤 배경 음악을 만든다. 새 갤러리에는 엄선한 월드와 커뮤니티 작품이 모였다. Will aka BLVCKL!GHT와 함께한 “Villa Giallo”, 영화감독 Anand Gandhi와 함께한 “The Life of Ants” 등을 둘러보고 리믹스할 수 있다."
+                "x": "Kim은 Inven Global과의 인터뷰에서 이번 반발로 \"처음부터 끝까지 수작업\"이라는 새 모토가 생겼다고 밝혔다. 그렇다고 Shift Up이 AI 사용을 멈춘 것은 아니다. 텍스처 웨더링, 성능을 위한 폴리곤 수 감축, 라이팅 테스트, 정리 같은 중간 작업에는 여전히 AI를 쓰고, 마지막에는 인간 개발자가 모든 것을 다듬는다."
               },
               {
                 "t": "p",
-                "x": "Project Genie에서 생성한 모든 영상과 오디오에는 SynthID 워터마크가 들어간다. Google AI Pro 회원은 대기자 명단에 등록할 수 있다."
+                "x": "Kim은 \"효율\"과 \"생산성\"만 앞세우는 것은 올바른 길이 아니라며, Shift Up은 출시를 앞당기려는 것이 아니라 품질을 높이려고 AI를 쓴다고 말했다. 효율을 위해 AI에 기대는 게임은 결국 \"slop(저품질 양산물)\"으로 여겨진다고 보지만, 단순한 품질 보증부터 심층 디버깅까지 두루 쓰이는 만큼 이 기술 없이 일하는 것은 더는 불가능하다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "即時編集できるGenie 4\nAI Ultraに登場",
-          "body": "AI UltraユーザーはGenie 4の世界を自然言語でリアルタイムに編集できる。",
-          "mini_headline": "Genie 4がAI Ultraに登場",
+          "headline": "Shift Up「手作り」\nそれでもAIは使う",
+          "body": "Shift UpのCEOはBlood Rainを手作りとしつつ、AIは不可欠だと述べた。",
+          "mini_headline": "Shift Upの手作り宣言",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "画像提供：Shift Up"
               },
               {
                 "t": "p",
-                "x": "Genie 4を対象のGoogle AI Ultra加入者へ順次提供する。より応答性が高く、ソーシャルでインタラクティブなワールド生成が可能になる。自然言語で環境をリアルタイムに編集し、ネイティブ音声を加え、新しいコミュニティギャラリーで作品を共有できる。"
+                "x": "Stellar Blade: Blood Rainは、生成AIコンテンツだらけの物議を醸すミュージックビデオで再び注目を集めた。この騒動を受け、Shift Upは賛否の分かれるこの技術の使い方を見直すことになった。"
               },
               {
                 "t": "p",
-                "x": "これまでで最もリアルでインタラクティブなワールドモデルであるGenie 4では、セッションの途中でプロンプトを入力し、作成したワールドを変更できる。天候を変える、キャラクターを登場させる、展開の向きを変えるといった操作だ。Genie 4は初めて、こうした映像に場面の進行に合わせて変化するリアルタイムのネイティブ音声を組み合わせた。長時間の実行やパノラマを起点にした空間には、モデル選択でGenie 3も引き続き利用できる。"
+                "x": "Kim Hyung-tae CEOは当初、主人公のEvieはもともと人間の開発者が「頭からつま先まで」作り上げたキャラクターだとして映像を擁護した。その後Shift Upは、コミュニティの懸念を「真剣に」受け止めると約束しつつ、AIは「ゲーム開発に大きな影響と効果をもたらしている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "新しいProject Genieエージェントは、単一のテキストや画像のプロンプトを超えた制作を可能にする。構想を自然言語で伝えると、エージェントがGoogleのマルチモーダルモデル群を組み合わせ、最初のビジュアルと独自のBGMを作る。新ギャラリーには厳選したワールドとコミュニティ作品が集まり、Will aka BLVCKL!GHTと制作した「Villa Giallo」や映画監督Anand Gandhiと制作した「The Life of Ants」などを探索・リミックスできる。"
+                "x": "KimはInven Globalの取材に対し、今回の反発から「最初から最後まで手作り」という新たなモットーが生まれたと語った。とはいえ、Shift UpがAIの使用をやめたわけではない。テクスチャのウェザリング、パフォーマンスのためのポリゴン数削減、ライティングのテスト、整理といった中間作業には今もAIを使い、最後は人間の開発者がすべてを仕上げる。"
               },
               {
                 "t": "p",
-                "x": "Project Genieで生成した映像と音声にはすべてSynthIDの透かしが入る。Google AI Proの会員はウェイトリストに登録できる。"
+                "x": "Kimは、単に「効率」や「生産性」を優先するのは正しいやり方ではないとし、Shift Upはリリースを早めるためではなく品質を高めるためにAIを使っていると述べた。効率のためにAIに頼るゲームは結局「slop（粗製品）」と見なされると考える一方、簡単な品質保証から踏み込んだデバッグまであらゆる場面で使われている以上、この技術なしで作業することはもはや現実的ではないという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Genie 4支持实时改世界\n向AI Ultra用户开放",
-          "body": "AI Ultra用户现可借助创作智能体，用自然语言实时编辑Genie 4世界。",
-          "mini_headline": "Genie 4向AI Ultra开放",
+          "headline": "Shift Up称纯手工打造\n但仍保留AI",
+          "body": "Shift Up CEO称Blood Rain为手工打造，但表示AI仍是开发必需。",
+          "mini_headline": "Shift Up的手工承诺",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "图片来源：Shift Up"
               },
               {
                 "t": "p",
-                "x": "我们正向符合条件的Google AI Ultra订阅用户推出Genie 4，带来响应更快、更具社交性和互动性的世界生成体验。现在你可以用自然语言实时编辑环境、加入原生音频，并在新的社区画廊中分享作品。"
+                "x": "Stellar Blade: Blood Rain因一支充斥生成式AI内容、争议极大的音乐视频重回聚光灯下——这场风波促使Shift Up重新审视对这项争议技术的使用。"
               },
               {
                 "t": "p",
-                "x": "Genie 4是我们迄今最逼真、互动性最强的世界模型，你可以在会话中途输入提示来改变已创建的世界：改变天气、加入角色，或扭转情节走向。Genie 4首次将这些画面与随场景展开而变化的实时原生音频相结合。对于更长时间的运行或以全景图生成的空间，模型选择器中仍可使用Genie 3。"
+                "x": "CEO Kim Hyung-tae起初为视频辩护，称主角Evie最初是由人类开发者“从头到脚”打造的。随后Shift Up承诺会“认真”对待社区的担忧，同时表示AI对“游戏开发有很大的影响和作用”。"
               },
               {
                 "t": "p",
-                "x": "新的Project Genie智能体让创作不再局限于单条文本或图像提示：用自然语言描述你的构想，智能体便会调度Google的多模态模型套件，生成初始画面和定制背景配乐。新画廊汇集了精选世界与社区作品，包括与Will aka BLVCKL!GHT合作的“Villa Giallo”，以及与电影人Anand Gandhi合作的“The Life of Ants”，均可探索和二次创作。"
+                "x": "Kim在接受Inven Global采访时表示，这次反弹催生了一句新座右铭：“从头到尾纯手工打造。”但这并不意味着Shift Up已停止使用AI。贴图做旧、为性能削减多边形数量、测试光照以及整理等中间环节仍在使用AI，最后由人类开发者完成全部打磨。"
               },
               {
                 "t": "p",
-                "x": "Project Genie生成的所有视频和音频均带有SynthID水印。Google AI Pro会员可加入候补名单。"
+                "x": "Kim说，单纯追求“效率”和“生产力”并不可取：Shift Up用AI是为了提升品质，而不是加快发售。他认为，为效率而依赖AI的游戏最终会被视为“slop（粗制滥造之作）”——但完全不用这项技术已不再可行，因为从简单的质量保证到更深入的调试，处处都在用它。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Genie 4 llega a AI Ultra\ncon edición de mundos en vivo",
-          "body": "Los usuarios de AI Ultra ya editan en tiempo real mundos de Genie 4 con lenguaje natural, ayudados por un agente.",
-          "mini_headline": "Genie 4 llega a AI Ultra",
+          "headline": "Shift Up dice que Blood Rain es\nartesanal, pero sigue con la AI",
+          "body": "Tras la polémica por un videoclip con AI, el CEO de Shift Up llamó artesanal a Blood Rain, pero ve la AI esencial.",
+          "mini_headline": "El compromiso artesanal de Shift Up",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "EDp4IoAUsXY"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+                "cap": "Imagen: Shift Up"
               },
               {
                 "t": "p",
-                "x": "Estamos desplegando Genie 4 para los suscriptores elegibles de Google AI Ultra, con una generación de mundos más ágil, social e interactiva. Ahora se puede usar lenguaje natural para editar entornos en tiempo real, añadir audio nativo y compartir creaciones en nuestra nueva galería comunitaria."
+                "x": "Stellar Blade: Blood Rain volvió al primer plano con un videoclip muy polémico lleno de contenido de AI generativa, un tropiezo que llevó a Shift Up a replantearse el uso de esta tecnología tan discutida."
               },
               {
                 "t": "p",
-                "x": "Con Genie 4, nuestro modelo de mundos más realista e interactivo hasta la fecha, ahora es posible escribir instrucciones a mitad de sesión para cambiar el mundo creado: cambiar el clima, añadir un personaje o reorientar la acción. Por primera vez, Genie 4 combina estas imágenes con audio nativo en tiempo real que se adapta a medida que avanza la escena. Genie 3 sigue disponible en el selector de modelos para sesiones más largas o espacios generados a partir de panorámicas."
+                "x": "El CEO Kim Hyung-tae defendió al principio el video y dijo que la protagonista, Evie, fue \"creada de pies a cabeza\" por desarrolladores humanos. Después, Shift Up prometió que se tomaba \"en serio\" las preocupaciones de la comunidad, aunque afirmó que la AI tiene \"mucha influencia e impacto en el desarrollo de juegos\"."
               },
               {
                 "t": "p",
-                "x": "El nuevo agente de Project Genie lleva la creación más allá de una sola instrucción de texto o imagen: basta con describir la idea en lenguaje natural para que el agente coordine el conjunto de modelos multimodales de Google y cree las imágenes iniciales y bandas sonoras de fondo a medida. Una nueva galería reúne mundos seleccionados y creaciones de la comunidad, como “Villa Giallo”, con Will aka BLVCKL!GHT, y “The Life of Ants”, con el cineasta Anand Gandhi, que se pueden explorar y remezclar."
+                "x": "En declaraciones a Inven Global, Kim dijo que la reacción dio origen a un nuevo lema: \"Hecho a mano de principio a fin\". Eso no significa que Shift Up haya dejado de usar AI. La sigue empleando en tareas intermedias como el desgaste de texturas, la reducción de polígonos para mejorar el rendimiento, las pruebas de iluminación y la organización, y al final los desarrolladores humanos lo pulen todo."
               },
               {
                 "t": "p",
-                "x": "Todo el video y el audio generados en Project Genie incluyen la marca de agua SynthID. Los miembros de Google AI Pro pueden unirse a la lista de espera."
+                "x": "Kim dijo que priorizar sin más la \"eficiencia\" y la \"productividad\" no es el camino: Shift Up usa la AI para elevar la calidad, no para acelerar los lanzamientos. Cree que los juegos que dependen de la AI por eficiencia acaban vistos como \"slop\", pero trabajar del todo sin esta tecnología ya no es viable, porque se usa en todo, desde el control de calidad básico hasta la depuración más profunda."
               }
             ]
           }
@@ -547,281 +847,401 @@
       }
     },
     {
-      "id": "ubisoft-motherbrain-studio",
-      "source_lang": "en",
+      "id": "koeitecmo-ai-qa-gstar",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Ubisoft 생성형 AI\nMotherbrain 출범",
-      "body": "Ubisoft가 NPCs를 만드는 AI 자회사 Motherbrain을 공개했다.",
-      "mini_headline": "Ubisoft, Motherbrain 출범",
+      "headline": "코에이 테크모\nAI는 검수, 재미는 사람",
+      "body": "코에이 테크모는 AI로 품질 검사를 효율화하고 아낀 시간을 게임 완성도에 쓴다.",
+      "mini_headline": "AI는 검수, 재미는 사람",
       "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+      "source": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2028436",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "\"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단순 작업을 대체할 수는 있지만, 최종적으로 무엇이 재미있는지 고민하고 만드는 것은 사람의 역할입니다.\""
+          },
+          {
+            "t": "p",
+            "x": "시바타 코헤이 코에이 테크모 게임즈 '팀 닌자' 프로듀서(PD)는 지난 19일 부산 벡스코에서 열린 '지스타 2026'에서 AI를 활용한 게임 개발에 대해 이같이 밝혔다. '인왕 3' 개발을 맡은 시바타 PD는 'G-CON' 강연 이후 취재진과 만났고, 인터뷰에는 '와룡 2'의 히라야마 마사카즈 PD도 참석했다."
+          },
+          {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "cap": "이미지 출처: Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+            "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+            "cap": "히라야마 마사카즈 코에이테크모 팀 닌자 PD(왼쪽)와 시바타 코헤이 PD(오른쪽)이 인터뷰를 진행하고 있다. [사진=곽민구 기자]"
           },
           {
             "t": "p",
-            "x": "Assassin’s Creed 개발사 Ubisoft가 게임용 생성형 AI 전문 스튜디오인 새 자회사 Motherbrain을 세웠다. 2026년 11월 19일 나온 Ubisoft 최신 실적 보고서를 보면, Motherbrain은 “모든 게임 제작자가 획기적인 경험을 개발하도록 지원”하려고 “게임플레이 혁신을 위한 AI”에 집중한다."
+            "x": "시바타 PD는 \"현재 AI를 품질 검사(QA)나 점검 업무에 활용해 일부 작업을 효율화하고 있다\"며 \"작업 시간이 단축되면 그만큼 게임 완성도를 높이는 데 시간을 사용할 수 있다\"고 말했다. AI 활용 범위는 \"새로운 기술인 만큼 어떻게 활용하는 것이 가장 좋은지 계속 검토하고 있다\"고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Motherbrain 개발진은 Ubisoft가 처음 내놓은 플레이 가능한 생성형 AI 체험 Teammates를 만든 팀이다. Teammates는 실시간 음성 명령으로 지시하는 로봇 AI 동료 둘과 함께하는 몰입형 일인칭 슈팅 게임이다. Motherbrain은 “새로운 플레이어 경험, 기억을 갖춘 똑똑한 NPCs, 대규모 시스템형 월드를 관리하는 AI 게임 마스터” 제작에 힘을 쏟고, 엄선한 기술 기업 몇 곳과 손잡을 계획이다."
+            "x": "히라야마 PD는 \"지금도 개발자들이 1~2프레임 단위로 움직임을 조정하면서 이용자가 직관적으로 느끼는 손맛을 구현하고 있다\"고 했다. 시바타 PD는 \"버튼을 눌렀을 때 반응하는 속도와 조작의 단순함은 액션 게임의 핵심\"이라고 강조했다."
           },
           {
             "t": "p",
-            "x": "“무엇보다 도구다. 두 해 넘게 작업해 왔고, 결론은 아주 멋진 도구이지만 여전히 도구일 뿐이라는 것”이라고 Teammates의 내러티브 디렉터 Virginie Mosser는 VideoGamesChronicle에 말했다. 공개 시점은 Ubisoft가 주요 스튜디오 두 곳에서 116명을 줄이는 추가 정리해고를 발표한 때와 겹친다."
+            "x": "난이도 설계에서는 적과 플레이어 사이의 공정성을 가장 중시한다. 히라야마 PD는 첫 공격에서 체력의 80%에 해당하는 피해를 입더라도 살아남아 다음 공격에 대응할 수 있도록 하는 것도 한 방법이라고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "팀 닌자는 일본의 엑스(X), 해외 레딧, 중국 SNS 등 각국 반응과 체험판 의견을 매일 분석해 정식 출시 전 개선할 부분을 파악하고 있다. 히라야마 PD는 이번 지스타 '와룡 2' 시연 현장에서도 이용자들의 플레이를 직접 지켜보며 정보를 수집했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Ubisoft launches Motherbrain\nas a generative AI studio",
-          "body": "Ubisoft's earnings report reveals Motherbrain, a new subsidiary building NPCs with memory and AI game masters.",
-          "mini_headline": "Ubisoft launches Motherbrain",
+        "ko": {
+          "headline": "코에이 테크모\nAI는 검수, 재미는 사람",
+          "body": "코에이 테크모는 AI로 품질 검사를 효율화하고 아낀 시간을 게임 완성도에 쓴다.",
+          "mini_headline": "AI는 검수, 재미는 사람",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "\"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단순 작업을 대체할 수는 있지만, 최종적으로 무엇이 재미있는지 고민하고 만드는 것은 사람의 역할입니다.\""
+              },
+              {
+                "t": "p",
+                "x": "시바타 코헤이 코에이 테크모 게임즈 '팀 닌자' 프로듀서(PD)는 지난 19일 부산 벡스코에서 열린 '지스타 2026'에서 AI를 활용한 게임 개발에 대해 이같이 밝혔다. '인왕 3' 개발을 맡은 시바타 PD는 'G-CON' 강연 이후 취재진과 만났고, 인터뷰에는 '와룡 2'의 히라야마 마사카즈 PD도 참석했다."
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Image Credits: Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "히라야마 마사카즈 코에이테크모 팀 닌자 PD(왼쪽)와 시바타 코헤이 PD(오른쪽)이 인터뷰를 진행하고 있다. [사진=곽민구 기자]"
               },
               {
                 "t": "p",
-                "x": "Assassin’s Creed developer Ubisoft has created a new subsidiary called Motherbrain, a studio dedicated specifically to the implementation of generative AI in games. Ubisoft’s latest earnings report, published on November 19, 2026, says Motherbrain focuses on “AI for gameplay innovation” to “support all game creators in developing groundbreaking experiences.”"
+                "x": "시바타 PD는 \"현재 AI를 품질 검사(QA)나 점검 업무에 활용해 일부 작업을 효율화하고 있다\"며 \"작업 시간이 단축되면 그만큼 게임 완성도를 높이는 데 시간을 사용할 수 있다\"고 말했다. AI 활용 범위는 \"새로운 기술인 만큼 어떻게 활용하는 것이 가장 좋은지 계속 검토하고 있다\"고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "The developers at Motherbrain are also the team behind Teammates, Ubisoft’s first playable generative AI experience — an immersive first-person shooter where players are accompanied by two robotic AI companions they can order around using real-time voice commands. Motherbrain is focused on creating “new player experiences, smart NPCs with memory, and AI game masters that manage large-scale systemic worlds,” and will form partnerships with selected technology actors."
+                "x": "히라야마 PD는 \"지금도 개발자들이 1~2프레임 단위로 움직임을 조정하면서 이용자가 직관적으로 느끼는 손맛을 구현하고 있다\"고 했다. 시바타 PD는 \"버튼을 눌렀을 때 반응하는 속도와 조작의 단순함은 액션 게임의 핵심\"이라고 강조했다."
               },
               {
                 "t": "p",
-                "x": "Teammates’ narrative director Virginie Mosser told VideoGamesChronicle: “It’s a tool first. We’ve been working on it for more than two years now, and our conclusion is that it’s a super cool tool, but it’s still a tool.” The reveal comes as Ubisoft announced another round of layoffs, cutting 116 jobs across two of its major studios."
+                "x": "난이도 설계에서는 적과 플레이어 사이의 공정성을 가장 중시한다. 히라야마 PD는 첫 공격에서 체력의 80%에 해당하는 피해를 입더라도 살아남아 다음 공격에 대응할 수 있도록 하는 것도 한 방법이라고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "팀 닌자는 일본의 엑스(X), 해외 레딧, 중국 SNS 등 각국 반응과 체험판 의견을 매일 분석해 정식 출시 전 개선할 부분을 파악하고 있다. 히라야마 PD는 이번 지스타 '와룡 2' 시연 현장에서도 이용자들의 플레이를 직접 지켜보며 정보를 수집했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Ubisoft 생성형 AI\nMotherbrain 출범",
-          "body": "Ubisoft가 NPCs를 만드는 AI 자회사 Motherbrain을 공개했다.",
-          "mini_headline": "Ubisoft, Motherbrain 출범",
+        "en": {
+          "headline": "Koei Tecmo: AI checks the work,\npeople make the fun",
+          "body": "Koei Tecmo uses AI to streamline quality checks and spends the saved time on polishing its games.",
+          "mini_headline": "AI checks, people make the fun",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "\"I believe a game can never become fun unless people make it themselves. AI can replace simple tasks, but in the end it is people's role to think about what is fun and to make it.\""
+              },
+              {
+                "t": "p",
+                "x": "Kohei Shibata, a producer (PD) at Koei Tecmo Games' Team Ninja, said this about game development using AI at G-Star 2026, held at BEXCO in Busan on the 19th. Shibata, who leads development of Nioh 3, met reporters after his G-CON talk, and Wo Long 2 PD Masakazu Hirayama also joined the interview."
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "이미지 출처: Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "Koei Tecmo Team Ninja PD Masakazu Hirayama (left) and PD Kohei Shibata (right) during the interview. [Photo = reporter Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "Assassin’s Creed 개발사 Ubisoft가 게임용 생성형 AI 전문 스튜디오인 새 자회사 Motherbrain을 세웠다. 2026년 11월 19일 나온 Ubisoft 최신 실적 보고서를 보면, Motherbrain은 “모든 게임 제작자가 획기적인 경험을 개발하도록 지원”하려고 “게임플레이 혁신을 위한 AI”에 집중한다."
+                "x": "\"We are currently using AI for quality assurance (QA) and inspection work, making some tasks more efficient,\" Shibata said. \"When work time is shortened, we can spend that much more time raising the game's level of completion.\" On the scope of AI use, he added, \"Since it is a new technology, we keep reviewing how best to use it.\""
               },
               {
                 "t": "p",
-                "x": "Motherbrain 개발진은 Ubisoft가 처음 내놓은 플레이 가능한 생성형 AI 체험 Teammates를 만든 팀이다. Teammates는 실시간 음성 명령으로 지시하는 로봇 AI 동료 둘과 함께하는 몰입형 일인칭 슈팅 게임이다. Motherbrain은 “새로운 플레이어 경험, 기억을 갖춘 똑똑한 NPCs, 대규모 시스템형 월드를 관리하는 AI 게임 마스터” 제작에 힘을 쏟고, 엄선한 기술 기업 몇 곳과 손잡을 계획이다."
+                "x": "Hirayama said, \"Even now, developers adjust movement in units of 1~2 frames to create the hand feel players sense intuitively.\" Shibata stressed, \"How fast the game responds when you press a button and how simple the controls are is the core of an action game.\""
               },
               {
                 "t": "p",
-                "x": "“무엇보다 도구다. 두 해 넘게 작업해 왔고, 결론은 아주 멋진 도구이지만 여전히 도구일 뿐이라는 것”이라고 Teammates의 내러티브 디렉터 Virginie Mosser는 VideoGamesChronicle에 말했다. 공개 시점은 Ubisoft가 주요 스튜디오 두 곳에서 116명을 줄이는 추가 정리해고를 발표한 때와 겹친다."
+                "x": "In difficulty design, fairness between enemies and the player matters most. Hirayama explained that one approach is to let players survive even when the first attack deals damage equal to 80% of their health, so they can respond to the next attack."
+              },
+              {
+                "t": "p",
+                "x": "Team Ninja analyzes reactions from each country every day, including X in Japan, Reddit overseas and Chinese SNS, along with demo feedback, to find what to improve before the official release. At this G-Star's Wo Long 2 demo area, Hirayama also watched players firsthand to gather information."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ubisoftが生成AIの\nMotherbrainを設立",
-          "body": "Ubisoftは記憶を持つNPCsなどを開発する子会社Motherbrainを明かした。",
-          "mini_headline": "UbisoftがMotherbrain設立",
+          "headline": "コーエーテクモ\nAIは検証、面白さは人",
+          "body": "コーエーテクモはAIで品質検査を効率化し、浮いた時間をゲームの完成度に充てる。",
+          "mini_headline": "AIは検証、面白さは人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "「人が自らの手で作らなければ、ゲームは決して面白くならないと考えています。AIで単純作業を置き換えることはできても、最終的に何が面白いかを考えて作るのは人の役割です」"
+              },
+              {
+                "t": "p",
+                "x": "コーエーテクモゲームス「Team NINJA」の柴田剛平プロデューサー（PD）は、19日に釜山BEXCOで開かれた「G-STAR 2026」で、AIを活用したゲーム開発についてこう語った。『仁王3』の開発を担う柴田PDは「G-CON」での講演後に取材に応じ、インタビューには『ウォーロン2』の平山（Masakazu Hirayama）PDも同席した。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "画像クレジット：Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "インタビューに応じるコーエーテクモ Team NINJAの平山（Masakazu Hirayama）PD（左）と柴田剛平PD（右）。［写真＝クァク・ミング記者］"
               },
               {
                 "t": "p",
-                "x": "『Assassin’s Creed』の開発元Ubisoftは、ゲームへの生成AI導入に特化したスタジオとして、新子会社Motherbrainを設立した。2026年11月19日に公開されたUbisoftの最新決算報告によると、Motherbrainは「すべてのゲームクリエイターが画期的な体験を開発できるよう支援する」ため、「ゲームプレイ革新のためのAI」に注力する。"
+                "x": "柴田PDは「現在、AIを品質検査（QA）や点検業務に活用し、一部の作業を効率化している」とし、「作業時間が短くなれば、その分をゲームの完成度を高めることに使える」と述べた。AIの活用範囲については「新しい技術なので、どう使うのが最善かを引き続き検討している」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Motherbrainの開発陣は、Ubisoft初のプレイ可能な生成AI体験Teammatesを手がけたチームでもある。Teammatesは、リアルタイムの音声コマンドで指示できる二体のロボットAI仲間とともに戦う没入型の一人称シューターだ。Motherbrainは「新しいプレイヤー体験、記憶を持つ賢いNPCs、大規模なシステミックワールドを管理するAIゲームマスター」の創出に注力し、選ばれたテクノロジー企業と提携する予定だ。"
+                "x": "平山PDは「今も開発者が1~2フレーム単位で動きを調整し、プレイヤーが直感的に感じる手応えを作り込んでいる」と話した。柴田PDは「ボタンを押したときの反応の速さと操作のシンプルさこそがアクションゲームの核心だ」と強調した。"
               },
               {
                 "t": "p",
-                "x": "Teammatesのナラティブディレクター、Virginie MosserはVideoGamesChronicleに対し「まず第一にツールだ。二年以上取り組んできて、とてもクールなツールだが、それでもツールに過ぎないというのが結論だ」と語った。この発表は、Ubisoftが主要スタジオ二か所で116人を削減する新たなレイオフを発表したさなかに行われた。"
+                "x": "難易度設計では、敵とプレイヤーの間の公平さを最も重視する。平山PDは、最初の攻撃で体力の80%に当たるダメージを受けても生き残り、次の攻撃に対応できるようにするのも一つの方法だと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Team NINJAは、日本のX、海外のReddit、中国のSNSなど各国の反応と体験版の意見を毎日分析し、正式発売前に改善すべき点を洗い出している。平山PDは今回のG-STARの『ウォーロン2』試遊会場でも、プレイヤーのプレイを直接見ながら情報を集めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ubisoft成立生成式AI\n工作室Motherbrain",
-          "body": "Ubisoft财报披露子公司Motherbrain，打造有记忆的NPCs与AI游戏主持人。",
-          "mini_headline": "Ubisoft成立Motherbrain",
+          "headline": "光荣特库摩\nAI管质检，乐趣靠人",
+          "body": "光荣特库摩用AI提升质检效率，把省下的时间用于打磨游戏完成度。",
+          "mini_headline": "AI管质检，乐趣靠人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "“我认为，游戏如果不是由人亲手制作，就绝不可能变得有趣。AI可以取代简单的工作，但最终思考什么好玩并把它做出来，是人的职责。”"
+              },
+              {
+                "t": "p",
+                "x": "光荣特库摩游戏旗下“Team NINJA”制作人（PD）柴田刚平19日在釜山BEXCO举行的“G-STAR 2026”上，就利用AI开发游戏一事如此表示。负责《仁王3》开发的柴田PD在“G-CON”演讲后接受了媒体采访，《卧龙2》的平山（Masakazu Hirayama）PD也一同出席。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "图片来源：Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "光荣特库摩Team NINJA的平山（Masakazu Hirayama）PD（左）与柴田刚平PD（右）正在接受采访。［摄影＝记者Kwak Min-gu］"
               },
               {
                 "t": "p",
-                "x": "《Assassin’s Creed》开发商Ubisoft成立了新子公司Motherbrain，这是一家专门将生成式AI应用于游戏的工作室。Ubisoft于2026年11月19日发布的最新财报称，Motherbrain专注于“用于游戏玩法创新的AI”，以“支持所有游戏创作者开发突破性体验”。"
+                "x": "柴田PD表示：“目前我们把AI用于质量检测（QA）和检查工作，让部分作业变得更高效。”他说：“作业时间缩短后，就能把相应的时间用来提高游戏的完成度。”关于AI的使用范围，他补充说：“由于这是一项新技术，我们仍在持续研究怎样用最好。”"
               },
               {
                 "t": "p",
-                "x": "Motherbrain的开发者也是Teammates的幕后团队。Teammates是Ubisoft首款可游玩的生成式AI体验，是一款沉浸式第一人称射击游戏，玩家身边有两名可通过实时语音命令指挥的机器人AI同伴。Motherbrain专注于打造“新的玩家体验、有记忆的智能NPCs，以及管理大规模系统性世界的AI游戏主持人”，并将与选定的技术伙伴建立合作。"
+                "x": "平山PD说：“现在开发者依然以1~2帧为单位调整动作，来实现玩家能直观感受到的手感。”柴田PD强调：“按下按键时的响应速度和操作的简洁，是动作游戏的核心。”"
               },
               {
                 "t": "p",
-                "x": "Teammates叙事总监Virginie Mosser对VideoGamesChronicle表示：“它首先是一个工具。我们已经做了两年多，结论是它是个超酷的工具，但终究还是工具。”此次披露之际，Ubisoft宣布了新一轮裁员，在旗下两家主要工作室裁撤116个岗位。"
+                "x": "在难度设计上，他们最看重敌人与玩家之间的公平性。平山PD解释说，即使第一次攻击就受到相当于80%体力的伤害，也能存活下来并应对下一次攻击，这也是一种方法。"
+              },
+              {
+                "t": "p",
+                "x": "Team NINJA每天分析日本的X、海外的Reddit、中国SNS等各地反应以及试玩版意见，以找出正式发售前需要改进的地方。平山PD在本届G-STAR的《卧龙2》试玩现场，也亲自观察玩家游玩并收集信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ubisoft lanza Motherbrain\ncomo estudio de AI generativa",
-          "body": "Ubisoft revela en sus resultados Motherbrain, una filial que crea NPCs con memoria y directores de juego con AI.",
-          "mini_headline": "Ubisoft lanza Motherbrain",
+          "headline": "Koei Tecmo: la AI revisa,\nlas personas crean la diversión",
+          "body": "Koei Tecmo usa AI para agilizar el control de calidad y dedica el tiempo ahorrado a pulir sus juegos.",
+          "mini_headline": "La AI revisa, las personas crean",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "\"Creo que un juego nunca puede ser divertido si no lo hacen personas con sus propias manos. La AI puede sustituir tareas simples, pero al final, pensar qué es divertido y crearlo es tarea de las personas\"."
+              },
+              {
+                "t": "p",
+                "x": "Así lo expresó Kohei Shibata, productor (PD) de Team Ninja en Koei Tecmo Games, sobre el desarrollo de juegos con AI en G-Star 2026, celebrado el día 19 en BEXCO, en Busan. Shibata, a cargo del desarrollo de Nioh 3, habló con la prensa tras su charla en G-CON, y a la entrevista también asistió Masakazu Hirayama, PD de Wo Long 2."
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Créditos de imagen: Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "Masakazu Hirayama (izquierda) y Kohei Shibata (derecha), PD de Team Ninja de Koei Tecmo, durante la entrevista. [Foto = periodista Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "Ubisoft, desarrolladora de Assassin’s Creed, ha creado una nueva filial llamada Motherbrain, un estudio dedicado específicamente a implementar AI generativa en los juegos. El último informe de resultados de Ubisoft, publicado el 19 de noviembre de 2026, indica que Motherbrain se centra en la “AI para la innovación en la jugabilidad” para “apoyar a todos los creadores de juegos en el desarrollo de experiencias pioneras”."
+                "x": "\"Ahora usamos AI en control de calidad (QA) y tareas de verificación para hacer más eficiente parte del trabajo\", dijo Shibata. \"Si se reduce el tiempo de trabajo, podemos dedicar ese tiempo a mejorar el acabado del juego\". Sobre el alcance del uso de AI, añadió: \"Como es una tecnología nueva, seguimos estudiando cuál es la mejor forma de usarla\"."
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores de Motherbrain son también el equipo detrás de Teammates, la primera experiencia jugable de AI generativa de Ubisoft: un shooter inmersivo en primera persona en el que los jugadores van acompañados de dos compañeros robóticos de AI a los que pueden dar órdenes mediante comandos de voz en tiempo real. Motherbrain se centra en crear “nuevas experiencias para los jugadores, NPCs inteligentes con memoria y directores de juego con AI que gestionan mundos sistémicos a gran escala”, y establecerá alianzas con actores tecnológicos seleccionados."
+                "x": "Hirayama afirmó: \"Incluso ahora, los desarrolladores ajustan los movimientos en unidades de 1~2 fotogramas para lograr la sensación de control que el jugador percibe de forma intuitiva\". Shibata subrayó: \"La velocidad de respuesta al pulsar un botón y la sencillez del control son la esencia de un juego de acción\"."
               },
               {
                 "t": "p",
-                "x": "La directora narrativa de Teammates, Virginie Mosser, dijo a VideoGamesChronicle: “Ante todo es una herramienta. Llevamos más de dos años trabajando en ello y nuestra conclusión es que es una herramienta genial, pero sigue siendo una herramienta”. El anuncio llega mientras Ubisoft comunica otra ronda de despidos, con 116 puestos recortados en dos de sus principales estudios."
+                "x": "En el diseño de la dificultad, lo más importante es la equidad entre enemigos y jugador. Hirayama explicó que una opción es permitir que el jugador sobreviva aunque el primer ataque le quite el 80% de la salud, para que pueda responder al siguiente."
+              },
+              {
+                "t": "p",
+                "x": "Team Ninja analiza a diario las reacciones de cada país, como X en Japón, Reddit en el extranjero y las SNS chinas, además de las opiniones sobre la demo, para detectar qué mejorar antes del lanzamiento oficial. Hirayama también observó en persona a los jugadores en la zona de prueba de Wo Long 2 de este G-Star para recopilar información."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Ubisoft 생성형 AI\nMotherbrain 출범",
-          "body": "Ubisoft가 NPCs를 만드는 AI 자회사 Motherbrain을 공개했다.",
-          "mini_headline": "Ubisoft, Motherbrain 출범",
+        "en": {
+          "headline": "Koei Tecmo: AI checks the work,\npeople make the fun",
+          "body": "Koei Tecmo uses AI to streamline quality checks and spends the saved time on polishing its games.",
+          "mini_headline": "AI checks, people make the fun",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "\"I believe a game can never become fun unless people make it themselves. AI can replace simple tasks, but in the end it is people's role to think about what is fun and to make it.\""
+              },
+              {
+                "t": "p",
+                "x": "Kohei Shibata, a producer (PD) at Koei Tecmo Games' Team Ninja, said this about game development using AI at G-Star 2026, held at BEXCO in Busan on the 19th. Shibata, who leads development of Nioh 3, met reporters after his G-CON talk, and Wo Long 2 PD Masakazu Hirayama also joined the interview."
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "이미지 출처: Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "Koei Tecmo Team Ninja PD Masakazu Hirayama (left) and PD Kohei Shibata (right) during the interview. [Photo = reporter Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "Assassin’s Creed 개발사 Ubisoft가 게임에 생성형 AI를 적용하는 데 특화한 스튜디오인 새 자회사 Motherbrain을 세웠다. 2026년 11월 19일 공개된 Ubisoft의 최신 실적 보고서에 따르면 Motherbrain은 “모든 게임 제작자가 획기적인 경험을 개발하도록 지원”하기 위해 “게임플레이 혁신을 위한 AI”에 집중한다."
+                "x": "\"We are currently using AI for quality assurance (QA) and inspection work, making some tasks more efficient,\" Shibata said. \"When work time is shortened, we can spend that much more time raising the game's level of completion.\" On the scope of AI use, he added, \"Since it is a new technology, we keep reviewing how best to use it.\""
               },
               {
                 "t": "p",
-                "x": "Motherbrain 개발진은 Ubisoft의 첫 플레이 가능한 생성형 AI 체험인 Teammates를 만든 팀이기도 하다. Teammates는 실시간 음성 명령으로 지시할 수 있는 로봇 AI 동료 둘과 함께하는 몰입형 일인칭 슈팅 게임이다. Motherbrain은 “새로운 플레이어 경험, 기억을 갖춘 똑똑한 NPCs, 대규모 시스템형 월드를 관리하는 AI 게임 마스터” 제작에 집중하며, 선별한 기술 기업들과 파트너십을 맺을 계획이다."
+                "x": "Hirayama said, \"Even now, developers adjust movement in units of 1~2 frames to create the hand feel players sense intuitively.\" Shibata stressed, \"How fast the game responds when you press a button and how simple the controls are is the core of an action game.\""
               },
               {
                 "t": "p",
-                "x": "Teammates의 내러티브 디렉터 Virginie Mosser는 VideoGamesChronicle에 “무엇보다 도구다. 두 해 넘게 작업해 왔고, 결론은 아주 멋진 도구이지만 여전히 도구일 뿐이라는 것”이라고 말했다. 이번 공개는 Ubisoft가 주요 스튜디오 두 곳에서 116명을 감원하는 추가 정리해고를 발표한 가운데 나왔다."
+                "x": "In difficulty design, fairness between enemies and the player matters most. Hirayama explained that one approach is to let players survive even when the first attack deals damage equal to 80% of their health, so they can respond to the next attack."
+              },
+              {
+                "t": "p",
+                "x": "Team Ninja analyzes reactions from each country every day, including X in Japan, Reddit overseas and Chinese SNS, along with demo feedback, to find what to improve before the official release. At this G-Star's Wo Long 2 demo area, Hirayama also watched players firsthand to gather information."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ubisoftが生成AIの\nMotherbrainを設立",
-          "body": "Ubisoftは記憶を持つNPCsなどを開発する子会社Motherbrainを明かした。",
-          "mini_headline": "UbisoftがMotherbrain設立",
+          "headline": "コーエーテクモ\nAIは検証、面白さは人",
+          "body": "コーエーテクモはAIで品質検査を効率化し、浮いた時間をゲームの完成度に充てる。",
+          "mini_headline": "AIは検証、面白さは人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "「人が自らの手で作らなければ、ゲームは決して面白くならないと考えています。AIで単純作業を置き換えることはできても、最終的に何が面白いかを考えて作るのは人の役割です」"
+              },
+              {
+                "t": "p",
+                "x": "コーエーテクモゲームス「Team NINJA」の柴田剛平プロデューサー（PD）は、19日に釜山BEXCOで開かれた「G-STAR 2026」で、AIを活用したゲーム開発についてこう語った。『仁王3』の開発を担う柴田PDは「G-CON」での講演後に取材に応じ、インタビューには『ウォーロン2』の平山（Masakazu Hirayama）PDも同席した。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "画像クレジット：Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "インタビューに応じるコーエーテクモ Team NINJAの平山（Masakazu Hirayama）PD（左）と柴田剛平PD（右）。［写真＝クァク・ミング記者］"
               },
               {
                 "t": "p",
-                "x": "『Assassin’s Creed』の開発元Ubisoftは、ゲームへの生成AI導入に特化したスタジオとして、新子会社Motherbrainを設立した。2026年11月19日に公開されたUbisoftの最新決算報告によると、Motherbrainは「すべてのゲームクリエイターが画期的な体験を開発できるよう支援する」ため、「ゲームプレイ革新のためのAI」に注力する。"
+                "x": "柴田PDは「現在、AIを品質検査（QA）や点検業務に活用し、一部の作業を効率化している」とし、「作業時間が短くなれば、その分をゲームの完成度を高めることに使える」と述べた。AIの活用範囲については「新しい技術なので、どう使うのが最善かを引き続き検討している」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Motherbrainの開発陣は、Ubisoft初のプレイ可能な生成AI体験Teammatesを手がけたチームでもある。Teammatesは、リアルタイムの音声コマンドで指示できる二体のロボットAI仲間とともに戦う没入型の一人称シューターだ。Motherbrainは「新しいプレイヤー体験、記憶を持つ賢いNPCs、大規模なシステミックワールドを管理するAIゲームマスター」の創出に注力し、選ばれたテクノロジー企業と提携する予定だ。"
+                "x": "平山PDは「今も開発者が1~2フレーム単位で動きを調整し、プレイヤーが直感的に感じる手応えを作り込んでいる」と話した。柴田PDは「ボタンを押したときの反応の速さと操作のシンプルさこそがアクションゲームの核心だ」と強調した。"
               },
               {
                 "t": "p",
-                "x": "Teammatesのナラティブディレクター、Virginie MosserはVideoGamesChronicleに対し「まず第一にツールだ。二年以上取り組んできて、とてもクールなツールだが、それでもツールに過ぎないというのが結論だ」と語った。この発表は、Ubisoftが主要スタジオ二か所で116人を削減する新たなレイオフを発表したさなかに行われた。"
+                "x": "難易度設計では、敵とプレイヤーの間の公平さを最も重視する。平山PDは、最初の攻撃で体力の80%に当たるダメージを受けても生き残り、次の攻撃に対応できるようにするのも一つの方法だと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Team NINJAは、日本のX、海外のReddit、中国のSNSなど各国の反応と体験版の意見を毎日分析し、正式発売前に改善すべき点を洗い出している。平山PDは今回のG-STARの『ウォーロン2』試遊会場でも、プレイヤーのプレイを直接見ながら情報を集めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ubisoft成立生成式AI\n工作室Motherbrain",
-          "body": "Ubisoft财报披露子公司Motherbrain，打造有记忆的NPCs与AI游戏主持人。",
-          "mini_headline": "Ubisoft成立Motherbrain",
+          "headline": "光荣特库摩\nAI管质检，乐趣靠人",
+          "body": "光荣特库摩用AI提升质检效率，把省下的时间用于打磨游戏完成度。",
+          "mini_headline": "AI管质检，乐趣靠人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "“我认为，游戏如果不是由人亲手制作，就绝不可能变得有趣。AI可以取代简单的工作，但最终思考什么好玩并把它做出来，是人的职责。”"
+              },
+              {
+                "t": "p",
+                "x": "光荣特库摩游戏旗下“Team NINJA”制作人（PD）柴田刚平19日在釜山BEXCO举行的“G-STAR 2026”上，就利用AI开发游戏一事如此表示。负责《仁王3》开发的柴田PD在“G-CON”演讲后接受了媒体采访，《卧龙2》的平山（Masakazu Hirayama）PD也一同出席。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "图片来源：Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "光荣特库摩Team NINJA的平山（Masakazu Hirayama）PD（左）与柴田刚平PD（右）正在接受采访。［摄影＝记者Kwak Min-gu］"
               },
               {
                 "t": "p",
-                "x": "《Assassin’s Creed》开发商Ubisoft成立了新子公司Motherbrain，这是一家专门将生成式AI应用于游戏的工作室。Ubisoft于2026年11月19日发布的最新财报称，Motherbrain专注于“用于游戏玩法创新的AI”，以“支持所有游戏创作者开发突破性体验”。"
+                "x": "柴田PD表示：“目前我们把AI用于质量检测（QA）和检查工作，让部分作业变得更高效。”他说：“作业时间缩短后，就能把相应的时间用来提高游戏的完成度。”关于AI的使用范围，他补充说：“由于这是一项新技术，我们仍在持续研究怎样用最好。”"
               },
               {
                 "t": "p",
-                "x": "Motherbrain的开发者也是Teammates的幕后团队。Teammates是Ubisoft首款可游玩的生成式AI体验，是一款沉浸式第一人称射击游戏，玩家身边有两名可通过实时语音命令指挥的机器人AI同伴。Motherbrain专注于打造“新的玩家体验、有记忆的智能NPCs，以及管理大规模系统性世界的AI游戏主持人”，并将与选定的技术伙伴建立合作。"
+                "x": "平山PD说：“现在开发者依然以1~2帧为单位调整动作，来实现玩家能直观感受到的手感。”柴田PD强调：“按下按键时的响应速度和操作的简洁，是动作游戏的核心。”"
               },
               {
                 "t": "p",
-                "x": "Teammates叙事总监Virginie Mosser对VideoGamesChronicle表示：“它首先是一个工具。我们已经做了两年多，结论是它是个超酷的工具，但终究还是工具。”此次披露之际，Ubisoft宣布了新一轮裁员，在旗下两家主要工作室裁撤116个岗位。"
+                "x": "在难度设计上，他们最看重敌人与玩家之间的公平性。平山PD解释说，即使第一次攻击就受到相当于80%体力的伤害，也能存活下来并应对下一次攻击，这也是一种方法。"
+              },
+              {
+                "t": "p",
+                "x": "Team NINJA每天分析日本的X、海外的Reddit、中国SNS等各地反应以及试玩版意见，以找出正式发售前需要改进的地方。平山PD在本届G-STAR的《卧龙2》试玩现场，也亲自观察玩家游玩并收集信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ubisoft lanza Motherbrain\ncomo estudio de AI generativa",
-          "body": "Ubisoft revela en sus resultados Motherbrain, una filial que crea NPCs con memoria y directores de juego con AI.",
-          "mini_headline": "Ubisoft lanza Motherbrain",
+          "headline": "Koei Tecmo: la AI revisa,\nlas personas crean la diversión",
+          "body": "Koei Tecmo usa AI para agilizar el control de calidad y dedica el tiempo ahorrado a pulir sus juegos.",
+          "mini_headline": "La AI revisa, las personas crean",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "\"Creo que un juego nunca puede ser divertido si no lo hacen personas con sus propias manos. La AI puede sustituir tareas simples, pero al final, pensar qué es divertido y crearlo es tarea de las personas\"."
+              },
+              {
+                "t": "p",
+                "x": "Así lo expresó Kohei Shibata, productor (PD) de Team Ninja en Koei Tecmo Games, sobre el desarrollo de juegos con AI en G-Star 2026, celebrado el día 19 en BEXCO, en Busan. Shibata, a cargo del desarrollo de Nioh 3, habló con la prensa tras su charla en G-CON, y a la entrevista también asistió Masakazu Hirayama, PD de Wo Long 2."
+              },
+              {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Créditos de imagen: Gabriele Malaspina, Unsplash.com \\ Ubisoft"
+                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+                "cap": "Masakazu Hirayama (izquierda) y Kohei Shibata (derecha), PD de Team Ninja de Koei Tecmo, durante la entrevista. [Foto = periodista Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "Ubisoft, desarrolladora de Assassin’s Creed, ha creado una nueva filial llamada Motherbrain, un estudio dedicado específicamente a implementar AI generativa en los juegos. El último informe de resultados de Ubisoft, publicado el 19 de noviembre de 2026, indica que Motherbrain se centra en la “AI para la innovación en la jugabilidad” para “apoyar a todos los creadores de juegos en el desarrollo de experiencias pioneras”."
+                "x": "\"Ahora usamos AI en control de calidad (QA) y tareas de verificación para hacer más eficiente parte del trabajo\", dijo Shibata. \"Si se reduce el tiempo de trabajo, podemos dedicar ese tiempo a mejorar el acabado del juego\". Sobre el alcance del uso de AI, añadió: \"Como es una tecnología nueva, seguimos estudiando cuál es la mejor forma de usarla\"."
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores de Motherbrain son también el equipo detrás de Teammates, la primera experiencia jugable de AI generativa de Ubisoft: un shooter inmersivo en primera persona en el que los jugadores van acompañados de dos compañeros robóticos de AI a los que pueden dar órdenes mediante comandos de voz en tiempo real. Motherbrain se centra en crear “nuevas experiencias para los jugadores, NPCs inteligentes con memoria y directores de juego con AI que gestionan mundos sistémicos a gran escala”, y establecerá alianzas con actores tecnológicos seleccionados."
+                "x": "Hirayama afirmó: \"Incluso ahora, los desarrolladores ajustan los movimientos en unidades de 1~2 fotogramas para lograr la sensación de control que el jugador percibe de forma intuitiva\". Shibata subrayó: \"La velocidad de respuesta al pulsar un botón y la sencillez del control son la esencia de un juego de acción\"."
               },
               {
                 "t": "p",
-                "x": "La directora narrativa de Teammates, Virginie Mosser, dijo a VideoGamesChronicle: “Ante todo es una herramienta. Llevamos más de dos años trabajando en ello y nuestra conclusión es que es una herramienta genial, pero sigue siendo una herramienta”. El anuncio llega mientras Ubisoft comunica otra ronda de despidos, con 116 puestos recortados en dos de sus principales estudios."
+                "x": "En el diseño de la dificultad, lo más importante es la equidad entre enemigos y jugador. Hirayama explicó que una opción es permitir que el jugador sobreviva aunque el primer ataque le quite el 80% de la salud, para que pueda responder al siguiente."
+              },
+              {
+                "t": "p",
+                "x": "Team Ninja analiza a diario las reacciones de cada país, como X en Japón, Reddit en el extranjero y las SNS chinas, además de las opiniones sobre la demo, para detectar qué mejorar antes del lanzamiento oficial. Hirayama también observó en persona a los jugadores en la zona de prueba de Wo Long 2 de este G-Star para recopilar información."
               }
             ]
           }
@@ -829,15 +1249,15 @@
       }
     },
     {
-      "id": "supercent-200-agents",
-      "source_lang": "ko",
+      "id": "taketwo-exboss-toystory-ai",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "슈퍼센트, AI 에이전트\n200개로 퍼블리싱 재편",
-      "body": "슈퍼센트는 AI 에이전트 200개 넘게 운용하며 퍼블리싱 구조를 재편했다고 밝혔다.",
-      "mini_headline": "슈퍼센트 AI 에이전트 200개",
+      "headline": "Ex-Take-Two 수장\nAI Toy Story론",
+      "body": "전 Take-Two 임원은 히트작 하나면 게임 속 AI 반감도 사라진다고 본다.",
+      "mini_headline": "AI의 Toy Story를 기다리며",
       "tool": "Games",
-      "source": "인벤",
-      "url": "https://www.inven.co.kr/webzine/news/?news=323607",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -845,305 +1265,355 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-            "cap": "권서희 슈퍼센트 사업 총괄 이사가 17일 플레이타임 코리아 2026에서 패널토크에 참여하고 있다 ©슈퍼센트 제공"
+            "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+            "cap": "이미지 출처: Rockstar"
           },
           {
             "t": "p",
-            "x": "슈퍼센트가 구글플레이 파트너 초청 행사 '플레이타임 코리아 2026' 메인 세션에서 AI로 달라진 퍼블리싱 방식과 사업 확장 방향을 지난 17일 공개했다. 권서희 사업 총괄 이사는 “AI의 가장 큰 임팩트는 한 사람이 몇 배로 일하는 것이 아니라, 회사가 시도할 수 있는 사업 기회의 총량이 완전히 달라지는 것”이라고 말했다."
+            "x": "Red Dead Redemption과 Grand Theft Auto 4 등을 총괄한 Ex-Take Two 수장 Ben Feder는 The Game Business와의 대화에서 사람들이 언젠가는 AI를 받아들인다며, 시간문제일 뿐이라고 했다."
           },
           {
             "t": "p",
-            "x": "슈퍼센트에 따르면 AI를 도입하고 1년 사이에 매달 수익성 검증 단계까지 오르는 게임 수가 수십 배로 늘었다. 이를 받치는 것은 자체 퍼블리싱 시스템 '퍼블리싱 시스템 루프(PSL)'로, 단계마다 목표 지표와 할 일이 미리 정해져 있어 사람이 하던 자리에 AI 에이전트를 그대로 넣을 수 있었다. 슈퍼센트는 현재 개발, 아트, 마케팅, 데이터 분석까지 퍼블리싱 전 과정에서 200개 넘는 AI 에이전트를 운용한다."
+            "x": "\"애니메이션이 손그림에서 컴퓨터 애니메이션으로 넘어갈 때 거대한 저항의 벽이 있었다\"고 그는 말한다. \"사람들은 보기 좋지 않다고 생각했다. 그러다 Pixar가 Toy Story를 내놓았다. 훌륭할 뿐 아니라 컴퓨터 생성 애니메이션을 썼고, 그 장점을 최대한 살리는 소재를 골라 놀라운 완성도로 만든 영화였다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+            "cap": "이미지 출처: Rockstar"
           },
           {
             "t": "p",
-            "x": "지금은 개발자가 아닌 구성원도 필요한 툴을 직접 만든다. 게임 운영에서는 AI가 3일마다 지표를 확인하고, 정해진 범위 안에서 밸런스를 조정·검증한 뒤 지표가 좋아지면 반영한다. 다음 무대는 숏드라마로, 슈퍼센트는 첫 숏드라마 사업을 조만간 공개한다."
+            "x": "\"Toy Story가 나오자 저항은 모두 사라졌다. 내 생각에 서구에서 소비자가 비디오게임 속 AI를 받아들이기까지 Toy Story 같은 순간 하나만 남았다. 동양은 이미 받아들였다.\""
           },
           {
             "t": "p",
-            "x": "슈퍼센트는 설립 5년 만에 누적 다운로드 18억 건, 글로벌 월간 활성 이용자(MAU) 1억 명을 기록했다고 밝혔다. 2025년에는 센서타워의 다운로드 기준 글로벌 모바일 게임 퍼블리셔 순위에서 7위에 올랐다."
+            "x": "PC Gamer 필자는 중국·한국 같은 나라에서 게임 개발의 AI가 더 널리 받아들여지는 듯하다는 데는 동의한다. 다만 공들여 손으로 만든 영화와 견주는 건 \"어처구니없다\"고 꼬집으며 현 Take-Two CEO Strauss Zelnick의 말을 인용한다. \"데이터셋은 본질적으로 과거를 보고, 창의성은 본질적으로 미래를 본다.\""
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "슈퍼센트, AI 에이전트\n200개로 퍼블리싱 재편",
-          "body": "슈퍼센트는 AI 에이전트 200개 넘게 운용하며 퍼블리싱 구조를 재편했다고 밝혔다.",
-          "mini_headline": "슈퍼센트 AI 에이전트 200개",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "권서희 슈퍼센트 사업 총괄 이사가 17일 플레이타임 코리아 2026에서 패널토크에 참여하고 있다 ©슈퍼센트 제공"
-              },
-              {
-                "t": "p",
-                "x": "슈퍼센트가 구글플레이 파트너 초청 행사 '플레이타임 코리아 2026' 메인 세션에서 AI로 달라진 퍼블리싱 방식과 사업 확장 방향을 지난 17일 공개했다. 권서희 사업 총괄 이사는 “AI의 가장 큰 임팩트는 한 사람이 몇 배로 일하는 것이 아니라, 회사가 시도할 수 있는 사업 기회의 총량이 완전히 달라지는 것”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "슈퍼센트에 따르면 AI를 도입하고 1년 사이에 매달 수익성 검증 단계까지 오르는 게임 수가 수십 배로 늘었다. 이를 받치는 것은 자체 퍼블리싱 시스템 '퍼블리싱 시스템 루프(PSL)'로, 단계마다 목표 지표와 할 일이 미리 정해져 있어 사람이 하던 자리에 AI 에이전트를 그대로 넣을 수 있었다. 슈퍼센트는 현재 개발, 아트, 마케팅, 데이터 분석까지 퍼블리싱 전 과정에서 200개 넘는 AI 에이전트를 운용한다."
-              },
-              {
-                "t": "p",
-                "x": "지금은 개발자가 아닌 구성원도 필요한 툴을 직접 만든다. 게임 운영에서는 AI가 3일마다 지표를 확인하고, 정해진 범위 안에서 밸런스를 조정·검증한 뒤 지표가 좋아지면 반영한다. 다음 무대는 숏드라마로, 슈퍼센트는 첫 숏드라마 사업을 조만간 공개한다."
-              },
-              {
-                "t": "p",
-                "x": "슈퍼센트는 설립 5년 만에 누적 다운로드 18억 건, 글로벌 월간 활성 이용자(MAU) 1억 명을 기록했다고 밝혔다. 2025년에는 센서타워의 다운로드 기준 글로벌 모바일 게임 퍼블리셔 순위에서 7위에 올랐다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Supercent reshapes publishing\nwith 200 AI agents",
-          "body": "Supercent says it has reorganized its publishing structure by running more than 200 AI agents.",
-          "mini_headline": "Supercent's 200 AI agents",
+          "headline": "Ex-Take-Two boss awaits\nAI's Toy Story moment",
+          "body": "A former Take-Two executive argues player hostility to AI in games will fade once one breakout title proves its worth.",
+          "mini_headline": "AI awaits its Toy Story",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "Kwon Seo-hee, head of business at Supercent, takes part in a panel talk at Playtime Korea 2026 on the 17th ©Courtesy of Supercent"
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "Image credit: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Supercent unveiled on the 17th how AI has changed its publishing approach and where it plans to expand its business, during a main session at 'Playtime Korea 2026,' a Google Play event for invited partners. Kwon Seo-hee, head of business, said, “The biggest impact of AI is not one person doing several times more work, but a complete change in the total volume of business opportunities a company can attempt.”"
+                "x": "Ex-Take Two boss Ben Feder, who oversaw games like Red Dead Redemption and Grand Theft Auto 4, has discussed with The Game Business how one day people will accept AI—it's just a matter of time."
               },
               {
                 "t": "p",
-                "x": "According to Supercent, within 1 year of adopting AI, the number of games reaching the profitability validation stage each month grew several dozen times over. Behind this is its in-house publishing system, the 'Publishing System Loop (PSL),' in which target metrics and tasks are set in advance for every stage, so AI agents could be slotted straight into roles people used to fill. Supercent now runs more than 200 AI agents across the entire publishing process, from development and art to marketing and data analysis."
+                "x": "\"When animation went from hand-drawn to computer animation, there was a massive wall of resistance,\" he says. \"People didn't think it looked good. Then Pixar launched Toy Story. They created a movie that not only was awesome, but used computer-generated animation and chose a subject matter that made the most of it, and did an amazing job with it."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "Image credit: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Now even team members who are not developers build the tools they need themselves. In game operations, AI checks metrics every 3 days, adjusts and validates balance within a set range, and applies the changes if the metrics improve. The next stage is short-form drama: Supercent will soon unveil its first short drama business."
+                "x": "\"Once Toy Story launched, all the resistance went away. My own view is that we are one Toy Story moment away from consumer acceptance of AI in videogames in the West. In the East, they've already accepted it.\""
               },
               {
                 "t": "p",
-                "x": "Supercent said that within 5 years of its founding it has recorded 1.8 billion (18억) cumulative downloads and 100 million (1억) global monthly active users (MAU). In 2025, it ranked 7th in Sensor Tower's global mobile game publisher rankings by downloads."
+                "x": "PC Gamer's writer agrees AI in game development seems more widely accepted in countries like China and South Korea, but calls the comparison to a painstakingly hand-crafted film \"mind-boggling,\" and cites current Take-Two CEO Strauss Zelnick: \"Datasets by their very nature are backward looking, creativity by its very nature is forward looking.\""
               }
             ]
           }
         },
-        "zh": {
-          "headline": "Supercent重组发行\n启用200个AI智能体",
-          "body": "Supercent表示，已运营超过200个AI智能体，并借此重组了发行结构。",
-          "mini_headline": "Supercent的200个AI智能体",
+        "ko": {
+          "headline": "Ex-Take-Two 수장\nAI Toy Story론",
+          "body": "전 Take-Two 임원은 히트작 하나면 게임 속 AI 반감도 사라진다고 본다.",
+          "mini_headline": "AI의 Toy Story를 기다리며",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "Supercent业务总监Kwon Seo-hee于17日在Playtime Korea 2026参加小组讨论 ©Supercent提供"
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "이미지 출처: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Supercent于17日在Google Play合作伙伴邀请活动“Playtime Korea 2026”的主会场环节中，公开了AI带来的发行方式变化与业务扩张方向。业务总监Kwon Seo-hee表示：“AI最大的影响不是让一个人干几倍的活，而是公司能够尝试的商业机会总量彻底改变。”"
+                "x": "Red Dead Redemption과 Grand Theft Auto 4 등을 총괄한 Ex-Take Two 수장 Ben Feder는 The Game Business와의 대화에서 사람들이 언젠가는 AI를 받아들인다며, 시간문제일 뿐이라고 했다."
               },
               {
                 "t": "p",
-                "x": "据Supercent介绍，引入AI后1年内，每月进入盈利性验证阶段的游戏数量增长了数十倍。支撑这一点的是其自研发行系统“发行系统循环（PSL）”，每个阶段的目标指标和待办事项都预先确定，因此可以把AI智能体直接放到原本由人负责的位置上。Supercent目前在开发、美术、营销乃至数据分析等整个发行流程中运营着200多个AI智能体。"
+                "x": "\"애니메이션이 손그림에서 컴퓨터 애니메이션으로 넘어갈 때 거대한 저항의 벽이 있었다\"고 그는 말한다. \"사람들은 보기 좋지 않다고 생각했다. 그러다 Pixar가 Toy Story를 내놓았다. 훌륭할 뿐 아니라 컴퓨터 생성 애니메이션을 썼고, 그 장점을 최대한 살리는 소재를 골라 놀라운 완성도로 만든 영화였다."
               },
-              {
-                "t": "p",
-                "x": "如今，非开发人员也会自己动手制作所需工具。在游戏运营中，AI每3天检查一次指标，在设定范围内调整并验证平衡性，指标改善后再正式应用。下一个舞台是短剧，Supercent即将公布其首个短剧业务。"
-              },
-              {
-                "t": "p",
-                "x": "Supercent表示，公司成立5年来累计下载量达18亿次，全球月活跃用户（MAU）达1亿人。2025年，它在Sensor Tower按下载量统计的全球手游发行商排名中位列第7。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Supercent rehace su publicación\ncon 200 agentes de AI",
-          "body": "Supercent afirma que reorganizó su estructura de publicación al operar más de 200 agentes de AI.",
-          "mini_headline": "Los 200 agentes de AI de Supercent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "Kwon Seo-hee, responsable general de negocio de Supercent, participa en una mesa redonda en Playtime Korea 2026 el día 17 ©Cortesía de Supercent"
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "이미지 출처: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Supercent presentó el día 17, en la sesión principal de 'Playtime Korea 2026', evento de Google Play para socios invitados, cómo la AI ha cambiado su forma de publicar y hacia dónde ampliará su negocio. Kwon Seo-hee, responsable general de negocio, afirmó: “El mayor impacto de la AI no es que una persona trabaje varias veces más, sino que cambia por completo el volumen total de oportunidades de negocio que una empresa puede intentar”."
+                "x": "\"Toy Story가 나오자 저항은 모두 사라졌다. 내 생각에 서구에서 소비자가 비디오게임 속 AI를 받아들이기까지 Toy Story 같은 순간 하나만 남았다. 동양은 이미 받아들였다.\""
               },
               {
                 "t": "p",
-                "x": "Según Supercent, en 1 año desde la adopción de la AI, el número de juegos que llegan cada mes a la fase de validación de rentabilidad se multiplicó por varias decenas. Lo sostiene su sistema propio de publicación, el 'Publishing System Loop (PSL)', en el que los indicadores objetivo y las tareas de cada fase están definidos de antemano, lo que permitió colocar agentes de AI directamente en los puestos que ocupaban personas. Supercent opera hoy más de 200 agentes de AI en todo el proceso de publicación, desde el desarrollo y el arte hasta el marketing y el análisis de datos."
-              },
-              {
-                "t": "p",
-                "x": "Ahora incluso los miembros que no son desarrolladores crean por sí mismos las herramientas que necesitan. En la operación de los juegos, la AI revisa los indicadores cada 3 días, ajusta y valida el equilibrio dentro de un rango fijado y aplica los cambios si los indicadores mejoran. El siguiente escenario son los dramas cortos: Supercent presentará pronto su primer negocio de este formato."
-              },
-              {
-                "t": "p",
-                "x": "Supercent indicó que, en 5 años desde su fundación, ha alcanzado 1800 millones (18억) de descargas acumuladas y 100 millones (1억) de usuarios activos mensuales (MAU) en todo el mundo. En 2025 ocupó el puesto 7 en el ranking mundial de editoras de juegos móviles por descargas de Sensor Tower."
+                "x": "PC Gamer 필자는 중국·한국 같은 나라에서 게임 개발의 AI가 더 널리 받아들여지는 듯하다는 데는 동의한다. 다만 공들여 손으로 만든 영화와 견주는 건 \"어처구니없다\"고 꼬집으며 현 Take-Two CEO Strauss Zelnick의 말을 인용한다. \"데이터셋은 본질적으로 과거를 보고, 창의성은 본질적으로 미래를 본다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェント200体で\nSupercentが配信再編",
-          "body": "SupercentはAIエージェント200体超を運用し、パブリッシングを再編した。",
-          "mini_headline": "SupercentのAIエージェント200体",
+          "headline": "Ex-Take-Two幹部\nAI版Toy Story待望",
+          "body": "元Take-Two幹部は、ヒット作が一つ出ればゲームAIへの反発は消えると主張する。",
+          "mini_headline": "AIはToy Storyを待つ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "17日、Playtime Korea 2026のパネルトークに参加するSupercentのクォン・ソヒ事業総括理事 ©Supercent提供"
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "画像提供: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Supercentは17日、Google Playのパートナー招待イベント「Playtime Korea 2026」のメインセッションで、AIによって変わったパブリッシングの手法と事業拡大の方向性を公開した。クォン・ソヒ事業総括理事は「AIの最大のインパクトは、一人が何倍も働くことではなく、会社が挑戦できる事業機会の総量がまったく変わることだ」と述べた。"
+                "x": "Red Dead RedemptionやGrand Theft Auto 4などを統括したEx-Take TwoトップのBen Federは、The Game Businessに対し、人々はいずれAIを受け入れる、それは時間の問題にすぎないと語った。"
               },
               {
                 "t": "p",
-                "x": "Supercentによると、AI導入から1年で、毎月収益性検証の段階まで進むゲームの数が数十倍に増えた。これを支えるのが自社のパブリッシングシステム「パブリッシング・システム・ループ（PSL）」だ。段階ごとに目標指標とやるべきことがあらかじめ決まっているため、人が担っていた位置にAIエージェントをそのまま組み込めた。Supercentは現在、開発、アート、マーケティング、データ分析まで、パブリッシングの全工程で200を超えるAIエージェントを運用している。"
+                "x": "「アニメーションが手描きからコンピューターアニメーションに移ったとき、巨大な抵抗の壁があった」と彼は言う。「人々は見栄えが良くないと考えていた。そこへPixarがToy Storyを公開した。素晴らしいだけでなく、コンピューター生成のアニメーションを使い、その強みを最大限に生かす題材を選び、見事に仕上げた映画だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "画像提供: Rockstar"
               },
               {
                 "t": "p",
-                "x": "今では開発者でないメンバーも、必要なツールを自ら作る。ゲーム運営では、AIが3日ごとに指標を確認し、決められた範囲内でバランスを調整・検証したうえで、指標が改善すれば反映する。次の舞台はショートドラマで、Supercentは初のショートドラマ事業を近く公開する。"
+                "x": "「Toy Storyが公開されると、抵抗はすべて消えた。私自身の見方では、西洋で消費者がビデオゲームのAIを受け入れるまで、あと一つのToy Story的瞬間を残すだけだ。東洋ではすでに受け入れられている」"
               },
               {
                 "t": "p",
-                "x": "Supercentは、設立から5年で累計ダウンロード数18億件、グローバル月間アクティブユーザー（MAU）1億人を記録したと明らかにした。2025年には、Sensor Towerのダウンロード数基準のグローバルモバイルゲームパブリッシャーランキングで7位に入った。"
+                "x": "PC Gamerの筆者は、中国や韓国のような国ではゲーム開発におけるAIがより広く受け入れられているようだと認めつつ、丹念に手作りされた映画との比較は「理解に苦しむ」と評し、現Take-Two CEOのStrauss Zelnickの言葉を引く。「データセットは本質的に過去を向き、創造性は本質的に未来を向く」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ex-Take-Two掌门\n静待AI版Toy Story",
+          "body": "前Take-Two高管认为，一款爆款作品证明价值后，玩家对游戏AI的敌意将消退。",
+          "mini_headline": "AI静待Toy Story时刻",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "图片来源：Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "曾主管Red Dead Redemption和Grand Theft Auto 4等游戏的Ex-Take Two掌门Ben Feder在与The Game Business交谈时表示，人们终有一天会接受AI——这只是时间问题。"
+              },
+              {
+                "t": "p",
+                "x": "“当动画从手绘转向电脑动画时，曾有一堵巨大的抵抗之墙，”他说。“人们觉得它不好看。后来Pixar推出了Toy Story。他们打造的电影不仅出色，还采用了电脑生成动画，并选择了能把这一技术发挥到极致的题材，完成得非常出色。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "图片来源：Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "“Toy Story一推出，所有抵触都消失了。我个人认为，在西方，消费者接受电子游戏中的AI只差一个Toy Story时刻。在东方，他们已经接受了。”"
+              },
+              {
+                "t": "p",
+                "x": "PC Gamer的作者认同，在中国和韩国等国家，游戏开发中的AI似乎更被广泛接受，但称将其与一部精心手工打造的电影相比“令人匪夷所思”，并引用现任Take-Two CEO Strauss Zelnick的话：“数据集本质上是向后看的，创造力本质上是向前看的。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un jefe Ex-Take-Two aguarda\nel momento Toy Story de la AI",
+          "body": "Un directivo Ex-Take-Two cree que el rechazo de los jugadores a la AI en juegos cederá cuando un éxito lo justifique.",
+          "mini_headline": "La AI espera su Toy Story",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "Crédito de imagen: Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "Ben Feder, jefe Ex-Take Two que supervisó juegos como Red Dead Redemption y Grand Theft Auto 4, comentó con The Game Business que algún día la gente aceptará la AI: es solo cuestión de tiempo."
+              },
+              {
+                "t": "p",
+                "x": "\"Cuando la animación pasó del dibujo a mano a la animación por ordenador, hubo un enorme muro de resistencia\", afirma. \"La gente no creía que se viera bien. Entonces Pixar lanzó Toy Story. Crearon una película que no solo era magnífica, sino que usaba animación generada por ordenador y eligió un tema que la aprovechaba al máximo, y lo hicieron de forma extraordinaria."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "Crédito de imagen: Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "\"En cuanto se estrenó Toy Story, toda la resistencia desapareció. Mi opinión es que estamos a un momento Toy Story de que los consumidores de Occidente acepten la AI en los videojuegos. En Oriente ya la han aceptado.\""
+              },
+              {
+                "t": "p",
+                "x": "El redactor de PC Gamer coincide en que la AI en el desarrollo de juegos parece más aceptada en países como China y Corea del Sur, pero califica de \"desconcertante\" la comparación con una película hecha a mano con tanto esmero, y cita al actual CEO de Take-Two, Strauss Zelnick: \"Los conjuntos de datos, por su propia naturaleza, miran hacia atrás; la creatividad, por su propia naturaleza, mira hacia adelante\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Supercent reshapes publishing\nwith 200 AI agents",
-          "body": "Supercent says it has reorganized its publishing structure by running more than 200 AI agents.",
-          "mini_headline": "Supercent's 200 AI agents",
+        "ko": {
+          "headline": "Ex-Take-Two 수장\nAI Toy Story론",
+          "body": "전 Take-Two 임원은 히트작 하나면 게임 AI 반감이 사라진다고 본다.",
+          "mini_headline": "AI의 Toy Story를 기다리며",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "Kwon Seo-hee, head of business at Supercent, takes part in a panel talk at Playtime Korea 2026 on the 17th ©Courtesy of Supercent"
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "이미지 출처: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Supercent unveiled on the 17th how AI has changed its publishing approach and where it plans to expand its business, during a main session at 'Playtime Korea 2026,' a Google Play event for invited partners. Kwon Seo-hee, head of business, said, “The biggest impact of AI is not one person doing several times more work, but a complete change in the total volume of business opportunities a company can attempt.”"
+                "x": "Red Dead Redemption과 Grand Theft Auto 4 등을 총괄한 Ex-Take Two 수장 Ben Feder는 The Game Business와 나눈 대화에서 사람들이 언젠가 AI를 받아들일 것이며, 그것은 시간문제일 뿐이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "According to Supercent, within 1 year of adopting AI, the number of games reaching the profitability validation stage each month grew several dozen times over. Behind this is its in-house publishing system, the 'Publishing System Loop (PSL),' in which target metrics and tasks are set in advance for every stage, so AI agents could be slotted straight into roles people used to fill. Supercent now runs more than 200 AI agents across the entire publishing process, from development and art to marketing and data analysis."
+                "x": "\"애니메이션이 손그림에서 컴퓨터 애니메이션으로 넘어갈 때 거대한 저항의 벽이 있었다\"고 그는 말한다. \"사람들은 보기 좋지 않다고 생각했다. 그러다 Pixar가 Toy Story를 내놓았다. 훌륭할 뿐 아니라 컴퓨터 생성 애니메이션을 썼고, 그 장점을 최대한 살리는 소재를 골라 놀라운 완성도로 만든 영화였다."
               },
-              {
-                "t": "p",
-                "x": "Now even team members who are not developers build the tools they need themselves. In game operations, AI checks metrics every 3 days, adjusts and validates balance within a set range, and applies the changes if the metrics improve. The next stage is short-form drama: Supercent will soon unveil its first short drama business."
-              },
-              {
-                "t": "p",
-                "x": "Supercent said that within 5 years of its founding it has recorded 1.8 billion (18억) cumulative downloads and 100 million (1억) global monthly active users (MAU). In 2025, it ranked 7th in Sensor Tower's global mobile game publisher rankings by downloads."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Supercent重组发行\n启用200个AI智能体",
-          "body": "Supercent表示，已运营超过200个AI智能体，并借此重组了发行结构。",
-          "mini_headline": "Supercent的200个AI智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "Supercent业务总监Kwon Seo-hee于17日在Playtime Korea 2026参加小组讨论 ©Supercent提供"
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "이미지 출처: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Supercent于17日在Google Play合作伙伴邀请活动“Playtime Korea 2026”的主会场环节中，公开了AI带来的发行方式变化与业务扩张方向。业务总监Kwon Seo-hee表示：“AI最大的影响不是让一个人干几倍的活，而是公司能够尝试的商业机会总量彻底改变。”"
+                "x": "\"Toy Story가 나오자 저항은 모두 사라졌다. 내 생각에 서구에서 소비자가 비디오게임 속 AI를 받아들이기까지 Toy Story 같은 순간 하나만 남았다. 동양은 이미 받아들였다.\""
               },
               {
                 "t": "p",
-                "x": "据Supercent介绍，引入AI后1年内，每月进入盈利性验证阶段的游戏数量增长了数十倍。支撑这一点的是其自研发行系统“发行系统循环（PSL）”，每个阶段的目标指标和待办事项都预先确定，因此可以把AI智能体直接放到原本由人负责的位置上。Supercent目前在开发、美术、营销乃至数据分析等整个发行流程中运营着200多个AI智能体。"
-              },
-              {
-                "t": "p",
-                "x": "如今，非开发人员也会自己动手制作所需工具。在游戏运营中，AI每3天检查一次指标，在设定范围内调整并验证平衡性，指标改善后再正式应用。下一个舞台是短剧，Supercent即将公布其首个短剧业务。"
-              },
-              {
-                "t": "p",
-                "x": "Supercent表示，公司成立5年来累计下载量达18亿次，全球月活跃用户（MAU）达1亿人。2025年，它在Sensor Tower按下载量统计的全球手游发行商排名中位列第7。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Supercent rehace su publicación\ncon 200 agentes de AI",
-          "body": "Supercent afirma que reorganizó su estructura de publicación al operar más de 200 agentes de AI.",
-          "mini_headline": "Los 200 agentes de AI de Supercent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "Kwon Seo-hee, responsable general de negocio de Supercent, participa en una mesa redonda en Playtime Korea 2026 el día 17 ©Cortesía de Supercent"
-              },
-              {
-                "t": "p",
-                "x": "Supercent presentó el día 17, en la sesión principal de 'Playtime Korea 2026', evento de Google Play para socios invitados, cómo la AI ha cambiado su forma de publicar y hacia dónde ampliará su negocio. Kwon Seo-hee, responsable general de negocio, afirmó: “El mayor impacto de la AI no es que una persona trabaje varias veces más, sino que cambia por completo el volumen total de oportunidades de negocio que una empresa puede intentar”."
-              },
-              {
-                "t": "p",
-                "x": "Según Supercent, en 1 año desde la adopción de la AI, el número de juegos que llegan cada mes a la fase de validación de rentabilidad se multiplicó por varias decenas. Lo sostiene su sistema propio de publicación, el 'Publishing System Loop (PSL)', en el que los indicadores objetivo y las tareas de cada fase están definidos de antemano, lo que permitió colocar agentes de AI directamente en los puestos que ocupaban personas. Supercent opera hoy más de 200 agentes de AI en todo el proceso de publicación, desde el desarrollo y el arte hasta el marketing y el análisis de datos."
-              },
-              {
-                "t": "p",
-                "x": "Ahora incluso los miembros que no son desarrolladores crean por sí mismos las herramientas que necesitan. En la operación de los juegos, la AI revisa los indicadores cada 3 días, ajusta y valida el equilibrio dentro de un rango fijado y aplica los cambios si los indicadores mejoran. El siguiente escenario son los dramas cortos: Supercent presentará pronto su primer negocio de este formato."
-              },
-              {
-                "t": "p",
-                "x": "Supercent indicó que, en 5 años desde su fundación, ha alcanzado 1800 millones (18억) de descargas acumuladas y 100 millones (1억) de usuarios activos mensuales (MAU) en todo el mundo. En 2025 ocupó el puesto 7 en el ranking mundial de editoras de juegos móviles por descargas de Sensor Tower."
+                "x": "PC Gamer 필자는 중국과 한국 같은 나라에서 게임 개발의 AI가 더 널리 받아들여지는 듯하다는 데 동의하면서도, 공들여 손으로 만든 영화와의 비교는 \"어처구니없다\"고 평하며 현 Take-Two CEO Strauss Zelnick의 말을 인용한다. \"데이터셋은 본질적으로 과거를 보고, 창의성은 본질적으로 미래를 본다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェント200体で\nSupercentが配信再編",
-          "body": "SupercentはAIエージェント200体超を運用し、パブリッシングを再編した。",
-          "mini_headline": "SupercentのAIエージェント200体",
+          "headline": "Ex-Take-Two幹部\nAI版Toy Story待望",
+          "body": "元Take-Two幹部は、ヒット作が一つ出ればゲームAIへの反発は消えると主張する。",
+          "mini_headline": "AIはToy Storyを待つ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg",
-                "cap": "17日、Playtime Korea 2026のパネルトークに参加するSupercentのクォン・ソヒ事業総括理事 ©Supercent提供"
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "画像提供: Rockstar"
               },
               {
                 "t": "p",
-                "x": "Supercentは17日、Google Playのパートナー招待イベント「Playtime Korea 2026」のメインセッションで、AIによって変わったパブリッシングの手法と事業拡大の方向性を公開した。クォン・ソヒ事業総括理事は「AIの最大のインパクトは、一人が何倍も働くことではなく、会社が挑戦できる事業機会の総量がまったく変わることだ」と述べた。"
+                "x": "Red Dead RedemptionやGrand Theft Auto 4などを統括したEx-Take TwoトップのBen Federは、The Game Businessに対し、人々はいずれAIを受け入れる、それは時間の問題にすぎないと語った。"
               },
               {
                 "t": "p",
-                "x": "Supercentによると、AI導入から1年で、毎月収益性検証の段階まで進むゲームの数が数十倍に増えた。これを支えるのが自社のパブリッシングシステム「パブリッシング・システム・ループ（PSL）」だ。段階ごとに目標指標とやるべきことがあらかじめ決まっているため、人が担っていた位置にAIエージェントをそのまま組み込めた。Supercentは現在、開発、アート、マーケティング、データ分析まで、パブリッシングの全工程で200を超えるAIエージェントを運用している。"
+                "x": "「アニメーションが手描きからコンピューターアニメーションに移ったとき、巨大な抵抗の壁があった」と彼は言う。「人々は見栄えが良くないと考えていた。そこへPixarがToy Storyを公開した。素晴らしいだけでなく、コンピューター生成のアニメーションを使い、その強みを最大限に生かす題材を選び、見事に仕上げた映画だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "画像提供: Rockstar"
               },
               {
                 "t": "p",
-                "x": "今では開発者でないメンバーも、必要なツールを自ら作る。ゲーム運営では、AIが3日ごとに指標を確認し、決められた範囲内でバランスを調整・検証したうえで、指標が改善すれば反映する。次の舞台はショートドラマで、Supercentは初のショートドラマ事業を近く公開する。"
+                "x": "「Toy Storyが公開されると、抵抗はすべて消えた。私自身の見方では、西洋で消費者がビデオゲームのAIを受け入れるまで、あと一つのToy Story的瞬間を残すだけだ。東洋ではすでに受け入れられている」"
               },
               {
                 "t": "p",
-                "x": "Supercentは、設立から5年で累計ダウンロード数18億件、グローバル月間アクティブユーザー（MAU）1億人を記録したと明らかにした。2025年には、Sensor Towerのダウンロード数基準のグローバルモバイルゲームパブリッシャーランキングで7位に入った。"
+                "x": "PC Gamerの筆者は、中国や韓国のような国ではゲーム開発におけるAIがより広く受け入れられているようだと認めつつ、丹念に手作りされた映画との比較は「理解に苦しむ」と評し、現Take-Two CEOのStrauss Zelnickの言葉を引く。「データセットは本質的に過去を向き、創造性は本質的に未来を向く」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ex-Take-Two掌门\n静待AI版Toy Story",
+          "body": "前Take-Two高管认为，一款爆款作品证明价值后，玩家对游戏AI的敌意将消退。",
+          "mini_headline": "AI静待Toy Story时刻",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "图片来源：Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "曾主管Red Dead Redemption和Grand Theft Auto 4等游戏的Ex-Take Two掌门Ben Feder在与The Game Business交谈时表示，人们终有一天会接受AI——这只是时间问题。"
+              },
+              {
+                "t": "p",
+                "x": "“当动画从手绘转向电脑动画时，曾有一堵巨大的抵抗之墙，”他说。“人们觉得它不好看。后来Pixar推出了Toy Story。他们打造的电影不仅出色，还采用了电脑生成动画，并选择了能把这一技术发挥到极致的题材，完成得非常出色。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "图片来源：Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "“Toy Story一推出，所有抵触都消失了。我个人认为，在西方，消费者接受电子游戏中的AI只差一个Toy Story时刻。在东方，他们已经接受了。”"
+              },
+              {
+                "t": "p",
+                "x": "PC Gamer的作者认同，在中国和韩国等国家，游戏开发中的AI似乎更被广泛接受，但称将其与一部精心手工打造的电影相比“令人匪夷所思”，并引用现任Take-Two CEO Strauss Zelnick的话：“数据集本质上是向后看的，创造力本质上是向前看的。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un jefe Ex-Take-Two aguarda\nel momento Toy Story de la AI",
+          "body": "Un directivo Ex-Take-Two cree que el rechazo de los jugadores a la AI en juegos cederá cuando un éxito lo justifique.",
+          "mini_headline": "La AI espera su Toy Story",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+                "cap": "Crédito de imagen: Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "Ben Feder, jefe Ex-Take Two que supervisó juegos como Red Dead Redemption y Grand Theft Auto 4, comentó con The Game Business que algún día la gente aceptará la AI: es solo cuestión de tiempo."
+              },
+              {
+                "t": "p",
+                "x": "\"Cuando la animación pasó del dibujo a mano a la animación por ordenador, hubo un enorme muro de resistencia\", afirma. \"La gente no creía que se viera bien. Entonces Pixar lanzó Toy Story. Crearon una película que no solo era magnífica, sino que usaba animación generada por ordenador y eligió un tema que la aprovechaba al máximo, y lo hicieron de forma extraordinaria."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+                "cap": "Crédito de imagen: Rockstar"
+              },
+              {
+                "t": "p",
+                "x": "\"En cuanto se estrenó Toy Story, toda la resistencia desapareció. Mi opinión es que estamos a un momento Toy Story de que los consumidores de Occidente acepten la AI en los videojuegos. En Oriente ya la han aceptado.\""
+              },
+              {
+                "t": "p",
+                "x": "El redactor de PC Gamer coincide en que la AI en el desarrollo de juegos parece más aceptada en países como China y Corea del Sur, pero califica de \"desconcertante\" la comparación con una película hecha a mano con tanto esmero, y cita al actual CEO de Take-Two, Strauss Zelnick: \"Los conjuntos de datos, por su propia naturaleza, miran hacia atrás; la creatividad, por su propia naturaleza, mira hacia adelante\"."
               }
             ]
           }
@@ -1151,15 +1621,15 @@
       }
     },
     {
-      "id": "megajam-lsd-fih-chart",
+      "id": "songyee-yoon-ai-native-gbn",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "genAI-free 게임이\nMegaJam 인기 정상",
-      "body": "genAI 없이 만든 LSD:FIH가 Epic MegaJam 인기 정상에 섰다.",
-      "mini_headline": "GenAI-free 게임, MegaJam 정상",
+      "headline": "Songyee Yoon의\nAI-native 게임론",
+      "body": "Ex-NCSoft Songyee Yoon은 게임 공식이 AI 기업을 키운다고 봤다.",
+      "mini_headline": "Songyee Yoon의 AI-native 플레이",
       "tool": "Games",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1167,203 +1637,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-            "cap": "LSD:FIH에서 저격하는 물고기. 이미지 출처: PolyCube"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
           },
           {
             "t": "p",
-            "x": "알다시피 Epic Games는 요즘 genAI에 크게 힘을 싣는다. Tim Sweeney가 이끄는 이 회사는 지난달 Epic AI MegaJam까지 발표했다. AI 에이전트나 도구의 도움을 원하는 만큼 받아 Unreal Engine 또는 Unreal Editor for Fortnite로 플레이 가능한 게임을 만들라는 행사였다."
+            "x": "Songyee Yoon은 던전 하나 보이지 않는 곳에서도 게임의 공식이 차세대 AI 기업을 만들 거라고 믿는다. Principal Venture Partners 매니징 파트너이자 Ex-NCSoft 사장 겸 최고전략책임자인 그는 San Francisco에서 열린 GamesBeat Next 2026에서 Dean Takahashi와 대담했다."
           },
           {
             "t": "p",
-            "x": "그런데 출품작을 인기순으로 정렬하면 저격총을 든 물고기 게임이 맨 위에 뜬다. 제작자 말로는 생성형 AI를 일부러 한 번도 쓰지 않았다. 게임 이름은 LSD:FIH, 개발자 PolyCube는 설명란에 \"이 게임을 만드는 데 AI는 쓰지 않았다\"고 적었다."
+            "x": "Yoon이 꼽은 게임의 본질은 \"리텐션과 인게이지먼트\"다. 그가 투자한 창업자들은 이 메커니즘을 소비자용 AI 앱에 가져다 쓴다. 개인화된 스토리 전개와 생성형 던전도 최근에야 플레이어가 즐길 만한 품질에 올라섰다. 그는 포트폴리오 기업 Operative Games를 예로 들었다. 이 회사의 AI 스토리텔링에선 캐릭터가 Zoom 회의와 캘린더 초대에 나타난다."
           },
           {
             "t": "p",
-            "x": "\"Epic의 'vibe-coding gamejam' megajam에 낼 게임을 AI 없이 나흘 만에 만들었다\"고 개발자는 Bluesky가 아닌 곳에서 덧붙였다."
-          },
-          {
-            "t": "video",
-            "yt": "Ya8rzhoFOVM"
+            "x": "이제 게임은 예측 시장 앱, AI-made 마이크로 드라마와 사용자 확보 비용을 놓고 다툰다. \"업계의 과제는 그만큼 몰입감 있고 재미있는 콘텐츠를 만드는 것\"이라고 그는 말했다."
           },
           {
             "t": "p",
-            "x": "genAI 없이 만든 게임도 출품할 수 있었던 건 잼 발표 직후 Epic이 해명을 내놓아야 했기 때문이다. genAI 사용은 필수 규칙이 아니며 얼마나 쓸지는 개발자가 정한다는 내용이었다."
+            "x": "Yoon은 Georgia Tech 연구라고 소개한 자료를 인용해, AI-generated 작업물은 사람의 작업보다 균질한 편이라 역발상 창작자에게 여지가 남는다고 말했다. 작은 스튜디오도 이제 훨씬 많이 만들 수 있게 됐다. 다만 첫 결과물을 손대지 않고 두면 저품질 콘텐츠가 나올 수 있다. 플레이어가 AI를 신경 쓰느냐는 U.S.(미국)와 아시아의 차이가 아니라 플레이어의 동기에 달렸다는 게 그의 시각이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A genAI-free fish game tops\nEpic's AI MegaJam chart",
-          "body": "LSD:FIH, a game made without generative AI, leads the popularity chart of Epic's MegaJam, a contest promoting AI.",
-          "mini_headline": "GenAI-free game tops MegaJam",
+          "headline": "Songyee Yoon on AI-native\ngames and human creativity",
+          "body": "Ex-NCSoft president Songyee Yoon told GamesBeat Next that gaming's playbook will shape the next wave of AI companies.",
+          "mini_headline": "Songyee Yoon on AI-native play",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "A fish sniping in LSD:FIH. Image credit: PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "Epic Games are, as you're probably aware, going big on genAI at the moment. To the extent that, last month, the Tim Sweeney-helmed company announced the Epic AI MegaJam. Build a playable game in Unreal Engine or Unreal Editor for Fortnite with help from as many AI agents or tools as you like was the pitch."
+                "x": "Songyee Yoon believes that gaming's playbook will build the next wave of AI companies, even when there isn't a dungeon in sight. The managing partner at Principal Venture Partners and former NCSoft president and chief strategy officer spoke at GamesBeat Next 2026 in San Francisco with Dean Takahashi."
               },
               {
                 "t": "p",
-                "x": "So, naturally, sorting the submissions to find the most popular one turns up a game about a fish with a sniper rifle whose creator says they deliberately made it without using any generative AI. The game's called LSD:FIH, and \"No AI was used to make this game,\" is a line in developer PolyCube's description."
+                "x": "The essence of gaming is \"retention and engagement,\" Yoon said, and the founders she backs apply those mechanics to consumer AI apps. Personalized story progression and generated dungeons have only recently reached a quality players enjoy; she pointed to portfolio company Operative Games, whose AI storytelling lets characters show up in Zoom meetings and calendar invites."
               },
               {
                 "t": "p",
-                "x": "\"I made a game for the Epic's 'vibe-coding gamejam' megajam without using any AI in four days,\" they expanded on not Bluesky."
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "Games now compete for user acquisition spending with prediction market apps and AI-made micro dramas. \"The industry's challenge,\" she said, \"is to build content that is just as engaging and entertaining.\""
               },
               {
                 "t": "p",
-                "x": "A game without genAI use could stand among the entries because Epic ended up having to make clearer not long after the jam was announced that submissions didn't have to make use of genAI as a hard rule, leaving it up to the developer how much or little was worked in."
+                "x": "AI-generated work tends to be more homogeneous than human work, Yoon said, citing a study she attributed to Georgia Tech, which leaves room for contrarian creators. Small studios can now produce far more, but leaving the first output untouched can produce slop. Whether players care about AI depends on player motivation, not a divide between the U.S. and Asia."
               }
             ]
           }
         },
         "ko": {
-          "headline": "genAI-free 게임이\nMegaJam 인기 정상",
-          "body": "genAI 없이 만든 LSD:FIH가 Epic MegaJam 인기 정상에 섰다.",
-          "mini_headline": "GenAI-free 게임, MegaJam 정상",
+          "headline": "Songyee Yoon의\nAI-native 게임론",
+          "body": "Ex-NCSoft Songyee Yoon은 게임 공식이 AI 기업을 키운다고 봤다.",
+          "mini_headline": "Songyee Yoon의 AI-native 플레이",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "LSD:FIH에서 저격하는 물고기. 이미지 출처: PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "알다시피 Epic Games는 요즘 genAI에 크게 힘을 싣는다. Tim Sweeney가 이끄는 이 회사는 지난달 Epic AI MegaJam까지 발표했다. AI 에이전트나 도구의 도움을 원하는 만큼 받아 Unreal Engine 또는 Unreal Editor for Fortnite로 플레이 가능한 게임을 만들라는 행사였다."
+                "x": "Songyee Yoon은 던전 하나 보이지 않는 곳에서도 게임의 공식이 차세대 AI 기업을 만들 거라고 믿는다. Principal Venture Partners 매니징 파트너이자 Ex-NCSoft 사장 겸 최고전략책임자인 그는 San Francisco에서 열린 GamesBeat Next 2026에서 Dean Takahashi와 대담했다."
               },
               {
                 "t": "p",
-                "x": "그런데 출품작을 인기순으로 정렬하면 저격총을 든 물고기 게임이 맨 위에 뜬다. 제작자 말로는 생성형 AI를 일부러 한 번도 쓰지 않았다. 게임 이름은 LSD:FIH, 개발자 PolyCube는 설명란에 \"이 게임을 만드는 데 AI는 쓰지 않았다\"고 적었다."
+                "x": "Yoon이 꼽은 게임의 본질은 \"리텐션과 인게이지먼트\"다. 그가 투자한 창업자들은 이 메커니즘을 소비자용 AI 앱에 가져다 쓴다. 개인화된 스토리 전개와 생성형 던전도 최근에야 플레이어가 즐길 만한 품질에 올라섰다. 그는 포트폴리오 기업 Operative Games를 예로 들었다. 이 회사의 AI 스토리텔링에선 캐릭터가 Zoom 회의와 캘린더 초대에 나타난다."
               },
               {
                 "t": "p",
-                "x": "\"Epic의 'vibe-coding gamejam' megajam에 낼 게임을 AI 없이 나흘 만에 만들었다\"고 개발자는 Bluesky가 아닌 곳에서 덧붙였다."
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "이제 게임은 예측 시장 앱, AI-made 마이크로 드라마와 사용자 확보 비용을 놓고 다툰다. \"업계의 과제는 그만큼 몰입감 있고 재미있는 콘텐츠를 만드는 것\"이라고 그는 말했다."
               },
               {
                 "t": "p",
-                "x": "genAI 없이 만든 게임도 출품할 수 있었던 건 잼 발표 직후 Epic이 해명을 내놓아야 했기 때문이다. genAI 사용은 필수 규칙이 아니며 얼마나 쓸지는 개발자가 정한다는 내용이었다."
+                "x": "Yoon은 Georgia Tech 연구라고 소개한 자료를 인용해, AI-generated 작업물은 사람의 작업보다 균질한 편이라 역발상 창작자에게 여지가 남는다고 말했다. 작은 스튜디오도 이제 훨씬 많이 만들 수 있게 됐다. 다만 첫 결과물을 손대지 않고 두면 저품질 콘텐츠가 나올 수 있다. 플레이어가 AI를 신경 쓰느냐는 U.S.(미국)와 아시아의 차이가 아니라 플레이어의 동기에 달렸다는 게 그의 시각이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "genAI-freeの作品\nMegaJamで人気首位",
-          "body": "生成AIを使わないLSD:FIHが、AI推進のEpic MegaJamで人気首位に立った。",
-          "mini_headline": "GenAI-freeのゲームがMegaJam首位",
+          "headline": "Songyee Yoonの\nAI-nativeゲーム論",
+          "body": "Ex-NCSoftのSongyee Yoonは、ゲームの手法が次のAI企業を築くと語った。",
+          "mini_headline": "Songyee YoonのAI-nativeな遊び",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "LSD:FIHで狙撃する魚。画像クレジット：PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "ご存じの通り、Epic GamesはいまgenAIに大きく力を入れている。Tim Sweeney率いる同社が先月、Epic AI MegaJamを発表したほどだ。好きなだけAIエージェントやツールの助けを借りて、Unreal EngineかUnreal Editor for Fortniteでプレイ可能なゲームを作る、というのが趣旨だった。"
+                "x": "Songyee Yoonは、ダンジョンがどこにも見当たらない場合でも、ゲームの手法が次世代のAI企業を築くと考えている。Principal Venture Partnersのマネージングパートナーで、Ex-NCSoftの社長兼最高戦略責任者である彼女は、San Franciscoで開かれたGamesBeat Next 2026でDean Takahashiと対談した。"
               },
               {
                 "t": "p",
-                "x": "ところが応募作を人気順に並べると、トップに出てくるのはスナイパーライフルを持った魚のゲームで、その制作者は生成AIを一切使わず意図的に作ったという。ゲーム名はLSD:FIHで、開発者PolyCubeの説明文には「このゲームの制作にAIは使っていない」という一文がある。"
+                "x": "ゲームの本質は「リテンションとエンゲージメント」だとYoonは述べ、彼女が支援する創業者たちはその仕組みを消費者向けAIアプリに応用しているという。パーソナライズされたストーリー展開や生成されたダンジョンは、最近になってようやくプレイヤーが楽しめる品質に達した。彼女はポートフォリオ企業のOperative Gamesを挙げた。同社のAIストーリーテリングでは、キャラクターがZoom会議やカレンダーの招待に登場する。"
               },
               {
                 "t": "p",
-                "x": "「Epicの'vibe-coding gamejam'であるmegajamに向けて、AIを一切使わず四日間でゲームを作った」と、開発者はBlueskyではない場で補足した。"
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "ゲームは今、ユーザー獲得の予算をめぐって予測市場アプリやAI-madeのマイクロドラマと競っている。「業界の課題は、それと同じくらい夢中になれて楽しいコンテンツを作ることだ」と彼女は語った。"
               },
               {
                 "t": "p",
-                "x": "genAIを使わないゲームが応募作に並べたのは、ジャムの発表後まもなく、EpicがgenAIの使用は応募の必須ルールではなく、どの程度取り入れるかは開発者次第だと明確にせざるを得なかったからだ。"
+                "x": "YoonはGeorgia Techのものだとする研究を引き、AI-generatedの作品は人間の作品より均質になりがちで、逆張りのクリエイターに余地が残ると述べた。小規模スタジオは今やはるかに多くを生み出せるが、最初の出力に手を加えずにおくと粗悪なコンテンツになりかねない。プレイヤーがAIを気にするかどうかは、U.S.とアジアの違いではなく、プレイヤーの動機次第だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "genAI-free鱼游戏\n登顶MegaJam人气榜",
-          "body": "未用生成式AI的LSD:FIH，登上推广AI的Epic MegaJam人气榜首。",
-          "mini_headline": "GenAI-free游戏登顶MegaJam",
+          "headline": "Songyee Yoon谈\nAI-native游戏与创意",
+          "body": "Ex-NCSoft总裁Songyee Yoon表示，游戏打法将塑造下一波AI公司。",
+          "mini_headline": "Songyee Yoon谈AI-native玩法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "LSD:FIH中一条正在狙击的鱼。图片来源：PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "你可能已经知道，Epic Games眼下正大力押注genAI，以至于上个月，这家由Tim Sweeney掌舵的公司宣布了Epic AI MegaJam。其主旨是：借助任意数量的AI智能体或工具，在Unreal Engine或Unreal Editor for Fortnite中打造一款可玩的游戏。"
+                "x": "Songyee Yoon认为，即便看不到任何地下城，游戏的打法也将缔造下一波AI公司。这位Principal Venture Partners的管理合伙人、Ex-NCSoft总裁兼首席战略官，在San Francisco举行的GamesBeat Next 2026上与Dean Takahashi对谈。"
               },
               {
                 "t": "p",
-                "x": "然而，按人气为参赛作品排序，排在最前面的却是一款关于持狙击步枪的鱼的游戏，其作者称自己刻意没有使用任何生成式AI。这款游戏名为LSD:FIH，开发者PolyCube的介绍中写着“制作这款游戏没有使用AI”。"
+                "x": "Yoon表示，游戏的本质是“留存与参与”，她投资的创始人正把这些机制用于消费级AI应用。个性化的故事推进和生成式地下城直到最近才达到玩家乐于体验的品质；她举出投资组合公司Operative Games为例，其AI叙事能让角色出现在Zoom会议和日历邀请中。"
               },
               {
                 "t": "p",
-                "x": "“我没用任何AI，用四天时间为Epic的'vibe-coding gamejam' megajam做了一款游戏，”开发者在并非Bluesky的平台上补充道。"
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "如今，游戏在用户获取支出上要与预测市场应用和AI-made微短剧竞争。她说：“行业的挑战，是打造同样引人入胜、同样有趣的内容。”"
               },
               {
                 "t": "p",
-                "x": "没有使用genAI的游戏之所以能跻身参赛作品，是因为在活动公布后不久，Epic不得不澄清：参赛作品并非硬性要求使用genAI，用多用少由开发者自行决定。"
+                "x": "Yoon引用一项她称出自Georgia Tech的研究说，AI-generated作品往往比人类作品更趋同质，这为逆向而行的创作者留下了空间。小型工作室如今能产出多得多的内容，但对初版输出不加修改，就可能产出粗劣内容。玩家是否在意AI，取决于玩家的动机，而非U.S.与亚洲之间的分野。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un juego de peces genAI-free\nlidera la AI MegaJam de Epic",
-          "body": "LSD:FIH, hecho sin AI generativa, lidera en popularidad la MegaJam de Epic, un concurso que promueve la AI.",
-          "mini_headline": "Un juego GenAI-free lidera la MegaJam",
+          "headline": "Songyee Yoon: juegos AI-native\ny creatividad humana",
+          "body": "Songyee Yoon, Ex-NCSoft, dijo en GamesBeat Next que las claves del juego moldearán la próxima ola de empresas de AI.",
+          "mini_headline": "Songyee Yoon y el juego AI-native",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "Un pez francotirador en LSD:FIH. Crédito de imagen: PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "Como probablemente sabes, Epic Games está apostando fuerte por la genAI en este momento. Hasta el punto de que el mes pasado la compañía dirigida por Tim Sweeney anunció la Epic AI MegaJam. La propuesta: crear un juego jugable en Unreal Engine o Unreal Editor for Fortnite con ayuda de tantos agentes o herramientas de AI como se quisiera."
+                "x": "Songyee Yoon cree que las claves del videojuego construirán la próxima ola de empresas de AI, incluso cuando no haya una mazmorra a la vista. La socia directora de Principal Venture Partners y presidenta y directora de estrategia Ex-NCSoft habló en GamesBeat Next 2026, en San Francisco, con Dean Takahashi."
               },
               {
                 "t": "p",
-                "x": "Así que, como cabía esperar, al ordenar los envíos para encontrar el más popular aparece un juego sobre un pez con un rifle de francotirador cuyo creador dice que lo hizo deliberadamente sin usar ninguna AI generativa. El juego se llama LSD:FIH, y \"No se usó AI para hacer este juego\" es una frase de la descripción del desarrollador PolyCube."
+                "x": "La esencia del juego es \"la retención y la implicación\", dijo Yoon, y los fundadores a los que respalda aplican esas mecánicas a aplicaciones de AI para consumidores. La progresión narrativa personalizada y las mazmorras generadas apenas han alcanzado hace poco una calidad que los jugadores disfrutan; citó a la empresa de su cartera Operative Games, cuya narrativa con AI permite que los personajes aparezcan en reuniones de Zoom y en invitaciones de calendario."
               },
               {
                 "t": "p",
-                "x": "\"Hice un juego para la megajam 'vibe-coding gamejam' de Epic sin usar ninguna AI en cuatro días\", amplió el desarrollador en un sitio que no es Bluesky."
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "Los juegos compiten ahora por el gasto en captación de usuarios con aplicaciones de mercados de predicción y microdramas AI-made. \"El reto de la industria\", dijo, \"es crear contenido igual de atractivo y entretenido\"."
               },
               {
                 "t": "p",
-                "x": "Un juego sin uso de genAI pudo figurar entre los participantes porque, poco después de anunciarse la jam, Epic tuvo que aclarar que usar genAI no era una regla obligatoria para los envíos y dejó en manos del desarrollador cuánto o cuán poco incorporarlo."
+                "x": "El trabajo AI-generated tiende a ser más homogéneo que el humano, dijo Yoon, citando un estudio que atribuyó a Georgia Tech, lo que deja espacio a los creadores que van a contracorriente. Los estudios pequeños pueden producir ahora mucho más, pero dejar intacto el primer resultado puede generar contenido de baja calidad. Que a los jugadores les importe la AI depende de su motivación, no de una división entre U.S. y Asia."
               }
             ]
           }
@@ -1371,141 +1811,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "genAI-free 게임이\nMegaJam 인기 정상",
-          "body": "genAI 없이 만든 LSD:FIH가 Epic MegaJam 인기 정상에 섰다.",
-          "mini_headline": "GenAI-free 게임, MegaJam 정상",
+          "headline": "Songyee Yoon의\nAI-native 게임론",
+          "body": "Ex-NCSoft Songyee Yoon은 게임 공식이 AI 기업을 빚는다고 했다.",
+          "mini_headline": "Songyee Yoon의 AI-native 플레이",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "LSD:FIH에서 저격하는 물고기. 이미지 출처: PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "알다시피 Epic Games는 요즘 genAI에 크게 힘을 싣고 있다. 지난달 Tim Sweeney가 이끄는 이 회사가 Epic AI MegaJam을 발표했을 정도다. 원하는 만큼 AI 에이전트나 도구의 도움을 받아 Unreal Engine 또는 Unreal Editor for Fortnite로 플레이 가능한 게임을 만들라는 것이 취지였다."
+                "x": "Songyee Yoon은 던전이 하나도 보이지 않는 곳에서도 게임의 공식이 차세대 AI 기업을 만들 것이라고 믿는다. Principal Venture Partners 매니징 파트너이자 Ex-NCSoft 사장 겸 최고전략책임자인 그는 San Francisco에서 열린 GamesBeat Next 2026에서 Dean Takahashi와 대담했다."
               },
               {
                 "t": "p",
-                "x": "그런데 출품작을 인기순으로 정렬하면 맨 위에 저격총을 든 물고기 게임이 나온다. 제작자는 생성형 AI를 일부러 전혀 쓰지 않고 만들었다고 말한다. 게임 이름은 LSD:FIH이고, 개발자 PolyCube의 설명에는 \"이 게임을 만드는 데 AI는 쓰지 않았다\"는 문장이 있다."
+                "x": "게임의 본질은 \"리텐션과 인게이지먼트\"라고 Yoon은 말했다. 그가 투자한 창업자들은 이 메커니즘을 소비자용 AI 앱에 적용한다. 개인화된 스토리 전개와 생성형 던전은 최근에야 플레이어가 즐길 만한 품질에 이르렀다. 그는 포트폴리오 기업 Operative Games를 예로 들었는데, 이 회사의 AI 스토리텔링은 캐릭터가 Zoom 회의와 캘린더 초대에 등장하게 한다."
               },
               {
                 "t": "p",
-                "x": "\"Epic의 'vibe-coding gamejam' megajam에 낼 게임을 AI 없이 나흘 만에 만들었다\"고 개발자는 Bluesky가 아닌 곳에서 덧붙였다."
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "게임은 이제 예측 시장 앱, AI-made 마이크로 드라마와 사용자 확보 비용을 두고 경쟁한다. \"업계의 과제는 그만큼 몰입감 있고 재미있는 콘텐츠를 만드는 것\"이라고 그는 말했다."
               },
               {
                 "t": "p",
-                "x": "genAI를 쓰지 않은 게임이 출품작에 오를 수 있었던 것은, 잼 발표 직후 Epic이 genAI 사용이 필수 규칙은 아니며 얼마나 활용할지는 개발자에게 맡긴다고 분명히 밝혀야 했기 때문이다."
+                "x": "Yoon은 Georgia Tech의 연구라고 밝힌 연구를 인용해, AI-generated 작업물은 사람의 작업보다 균질한 경향이 있어 역발상 창작자에게 여지가 남는다고 말했다. 작은 스튜디오도 이제 훨씬 많이 만들 수 있지만, 첫 결과물을 손대지 않고 두면 저품질 콘텐츠가 나올 수 있다. 플레이어가 AI를 신경 쓰는지는 U.S.(미국)와 아시아의 차이가 아니라 플레이어의 동기에 달려 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "genAI-freeの作品\nMegaJamで人気首位",
-          "body": "生成AIを使わないLSD:FIHが、AI推進のEpic MegaJamで人気首位に立った。",
-          "mini_headline": "GenAI-freeのゲームがMegaJam首位",
+          "headline": "Songyee Yoonの\nAI-nativeゲーム論",
+          "body": "Ex-NCSoftのSongyee Yoonは、ゲームの手法が次のAI企業を築くと語った。",
+          "mini_headline": "Songyee YoonのAI-nativeな遊び",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "LSD:FIHで狙撃する魚。画像クレジット：PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "ご存じの通り、Epic GamesはいまgenAIに大きく力を入れている。Tim Sweeney率いる同社が先月、Epic AI MegaJamを発表したほどだ。好きなだけAIエージェントやツールの助けを借りて、Unreal EngineかUnreal Editor for Fortniteでプレイ可能なゲームを作る、というのが趣旨だった。"
+                "x": "Songyee Yoonは、ダンジョンがどこにも見当たらない場合でも、ゲームの手法が次世代のAI企業を築くと考えている。Principal Venture Partnersのマネージングパートナーで、Ex-NCSoftの社長兼最高戦略責任者である彼女は、San Franciscoで開かれたGamesBeat Next 2026でDean Takahashiと対談した。"
               },
               {
                 "t": "p",
-                "x": "ところが応募作を人気順に並べると、トップに出てくるのはスナイパーライフルを持った魚のゲームで、その制作者は生成AIを一切使わず意図的に作ったという。ゲーム名はLSD:FIHで、開発者PolyCubeの説明文には「このゲームの制作にAIは使っていない」という一文がある。"
+                "x": "ゲームの本質は「リテンションとエンゲージメント」だとYoonは述べ、彼女が支援する創業者たちはその仕組みを消費者向けAIアプリに応用しているという。パーソナライズされたストーリー展開や生成されたダンジョンは、最近になってようやくプレイヤーが楽しめる品質に達した。彼女はポートフォリオ企業のOperative Gamesを挙げた。同社のAIストーリーテリングでは、キャラクターがZoom会議やカレンダーの招待に登場する。"
               },
               {
                 "t": "p",
-                "x": "「Epicの'vibe-coding gamejam'であるmegajamに向けて、AIを一切使わず四日間でゲームを作った」と、開発者はBlueskyではない場で補足した。"
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "ゲームは今、ユーザー獲得の予算をめぐって予測市場アプリやAI-madeのマイクロドラマと競っている。「業界の課題は、それと同じくらい夢中になれて楽しいコンテンツを作ることだ」と彼女は語った。"
               },
               {
                 "t": "p",
-                "x": "genAIを使わないゲームが応募作に並べたのは、ジャムの発表後まもなく、EpicがgenAIの使用は応募の必須ルールではなく、どの程度取り入れるかは開発者次第だと明確にせざるを得なかったからだ。"
+                "x": "YoonはGeorgia Techのものだとする研究を引き、AI-generatedの作品は人間の作品より均質になりがちで、逆張りのクリエイターに余地が残ると述べた。小規模スタジオは今やはるかに多くを生み出せるが、最初の出力に手を加えずにおくと粗悪なコンテンツになりかねない。プレイヤーがAIを気にするかどうかは、U.S.とアジアの違いではなく、プレイヤーの動機次第だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "genAI-free鱼游戏\n登顶MegaJam人气榜",
-          "body": "未用生成式AI的LSD:FIH，登上推广AI的Epic MegaJam人气榜首。",
-          "mini_headline": "GenAI-free游戏登顶MegaJam",
+          "headline": "Songyee Yoon谈\nAI-native游戏与创意",
+          "body": "Ex-NCSoft总裁Songyee Yoon表示，游戏打法将塑造下一波AI公司。",
+          "mini_headline": "Songyee Yoon谈AI-native玩法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "LSD:FIH中一条正在狙击的鱼。图片来源：PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "你可能已经知道，Epic Games眼下正大力押注genAI，以至于上个月，这家由Tim Sweeney掌舵的公司宣布了Epic AI MegaJam。其主旨是：借助任意数量的AI智能体或工具，在Unreal Engine或Unreal Editor for Fortnite中打造一款可玩的游戏。"
+                "x": "Songyee Yoon认为，即便看不到任何地下城，游戏的打法也将缔造下一波AI公司。这位Principal Venture Partners的管理合伙人、Ex-NCSoft总裁兼首席战略官，在San Francisco举行的GamesBeat Next 2026上与Dean Takahashi对谈。"
               },
               {
                 "t": "p",
-                "x": "然而，按人气为参赛作品排序，排在最前面的却是一款关于持狙击步枪的鱼的游戏，其作者称自己刻意没有使用任何生成式AI。这款游戏名为LSD:FIH，开发者PolyCube的介绍中写着“制作这款游戏没有使用AI”。"
+                "x": "Yoon表示，游戏的本质是“留存与参与”，她投资的创始人正把这些机制用于消费级AI应用。个性化的故事推进和生成式地下城直到最近才达到玩家乐于体验的品质；她举出投资组合公司Operative Games为例，其AI叙事能让角色出现在Zoom会议和日历邀请中。"
               },
               {
                 "t": "p",
-                "x": "“我没用任何AI，用四天时间为Epic的'vibe-coding gamejam' megajam做了一款游戏，”开发者在并非Bluesky的平台上补充道。"
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "如今，游戏在用户获取支出上要与预测市场应用和AI-made微短剧竞争。她说：“行业的挑战，是打造同样引人入胜、同样有趣的内容。”"
               },
               {
                 "t": "p",
-                "x": "没有使用genAI的游戏之所以能跻身参赛作品，是因为在活动公布后不久，Epic不得不澄清：参赛作品并非硬性要求使用genAI，用多用少由开发者自行决定。"
+                "x": "Yoon引用一项她称出自Georgia Tech的研究说，AI-generated作品往往比人类作品更趋同质，这为逆向而行的创作者留下了空间。小型工作室如今能产出多得多的内容，但对初版输出不加修改，就可能产出粗劣内容。玩家是否在意AI，取决于玩家的动机，而非U.S.与亚洲之间的分野。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un juego de peces genAI-free\nlidera la AI MegaJam de Epic",
-          "body": "LSD:FIH, hecho sin AI generativa, lidera en popularidad la MegaJam de Epic, un concurso que promueve la AI.",
-          "mini_headline": "Un juego GenAI-free lidera la MegaJam",
+          "headline": "Songyee Yoon: juegos AI-native\ny creatividad humana",
+          "body": "Songyee Yoon, Ex-NCSoft, dijo en GamesBeat Next que las claves del juego moldearán la próxima ola de empresas de AI.",
+          "mini_headline": "Songyee Yoon y el juego AI-native",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-                "cap": "Un pez francotirador en LSD:FIH. Crédito de imagen: PolyCube"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
               },
               {
                 "t": "p",
-                "x": "Como probablemente sabes, Epic Games está apostando fuerte por la genAI en este momento. Hasta el punto de que el mes pasado la compañía dirigida por Tim Sweeney anunció la Epic AI MegaJam. La propuesta: crear un juego jugable en Unreal Engine o Unreal Editor for Fortnite con ayuda de tantos agentes o herramientas de AI como se quisiera."
+                "x": "Songyee Yoon cree que las claves del videojuego construirán la próxima ola de empresas de AI, incluso cuando no haya una mazmorra a la vista. La socia directora de Principal Venture Partners y presidenta y directora de estrategia Ex-NCSoft habló en GamesBeat Next 2026, en San Francisco, con Dean Takahashi."
               },
               {
                 "t": "p",
-                "x": "Así que, como cabía esperar, al ordenar los envíos para encontrar el más popular aparece un juego sobre un pez con un rifle de francotirador cuyo creador dice que lo hizo deliberadamente sin usar ninguna AI generativa. El juego se llama LSD:FIH, y \"No se usó AI para hacer este juego\" es una frase de la descripción del desarrollador PolyCube."
+                "x": "La esencia del juego es \"la retención y la implicación\", dijo Yoon, y los fundadores a los que respalda aplican esas mecánicas a aplicaciones de AI para consumidores. La progresión narrativa personalizada y las mazmorras generadas apenas han alcanzado hace poco una calidad que los jugadores disfrutan; citó a la empresa de su cartera Operative Games, cuya narrativa con AI permite que los personajes aparezcan en reuniones de Zoom y en invitaciones de calendario."
               },
               {
                 "t": "p",
-                "x": "\"Hice un juego para la megajam 'vibe-coding gamejam' de Epic sin usar ninguna AI en cuatro días\", amplió el desarrollador en un sitio que no es Bluesky."
-              },
-              {
-                "t": "video",
-                "yt": "Ya8rzhoFOVM"
+                "x": "Los juegos compiten ahora por el gasto en captación de usuarios con aplicaciones de mercados de predicción y microdramas AI-made. \"El reto de la industria\", dijo, \"es crear contenido igual de atractivo y entretenido\"."
               },
               {
                 "t": "p",
-                "x": "Un juego sin uso de genAI pudo figurar entre los participantes porque, poco después de anunciarse la jam, Epic tuvo que aclarar que usar genAI no era una regla obligatoria para los envíos y dejó en manos del desarrollador cuánto o cuán poco incorporarlo."
+                "x": "El trabajo AI-generated tiende a ser más homogéneo que el humano, dijo Yoon, citando un estudio que atribuyó a Georgia Tech, lo que deja espacio a los creadores que van a contracorriente. Los estudios pequeños pueden producir ahora mucho más, pero dejar intacto el primer resultado puede generar contenido de baja calidad. Que a los jugadores les importe la AI depende de su motivación, no de una división entre U.S. y Asia."
               }
             ]
           }

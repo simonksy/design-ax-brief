@@ -1,101 +1,106 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "music",
   "items": [
     {
-      "title": "Australian music industry rejects 'divide and conquer' proposal to give musicians exemption from AI scraping",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-      "source": "The Guardian",
-      "published_iso": "2026-11-19T14:00:52+00:00",
-      "og_image": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f713b67a86b8386b7f04c5e329faf82",
-      "excerpt": "A reported government proposal to exempt musicians alone from AI text-and-data-mining was called 'unworkable' by ARIA's chief executive, who said the industry won't be split from other creatives.",
-      "category": "music",
+      "rank": 1,
       "tool": "Music",
+      "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New concrete development in Australia's AI copyright fight: a reported musician-only TDM exemption and the industry's formal rejection; assigned to music by the cross-section brief."
+      "title": "Eminem Publisher Eight Mile Style Files Amended Suno Copyright and DMCA Suit, Adding 100+ Allegedly Infringing Outputs",
+      "url": "https://www.digitalmusicnews.com/2026/11/20/eight-mile-style-v-suno-amended-suit/",
+      "source": "Digital Music News",
+      "published_iso": "2026-11-20T21:28:48+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+      "excerpt": "Eight Mile Style has filed an amended complaint against Suno adding DMCA and name/likeness claims and more than 100 allegedly infringing AI outputs echoing 'Lose Yourself' and 'Without Me'.",
+      "rationale": "A new court filing by a different plaintiff (Eminem's publisher) that adds DMCA and likeness claims plus 100+ cited outputs, which raises the legal stakes for anyone generating with Suno."
     },
     {
-      "title": "UMG says 68% of listeners want a 'kill switch' for AI music",
-      "url": "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/",
-      "source": "Music Ally",
-      "published_iso": "2026-11-19T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "UMG published its own listener research days after Deezer's survey: 68% say they want a 'kill switch' to filter AI music out of streaming, well above Deezer's 41% figure.",
-      "category": "music",
+      "rank": 2,
       "tool": "Music",
+      "category": "music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Fresh first-party data from the largest label signalling demand for AI-music filtering on DSPs; distinct release from Deezer's 11-18 report."
+      "title": "How many streams are AI tracks actually generating on DSPs? (They Aren't Listening: roughly 87% of tracks never streamed)",
+      "url": "https://www.digitalmusicnews.com/2026/11/19/ai-music-streams-analysis/",
+      "source": "Digital Music News",
+      "published_iso": "2026-11-20T01:00:06+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+      "excerpt": "New distributor data shared with DMN shows machine-generated tracks rack up far fewer streams and fans than their upload volume suggests; of ~300M tracks on DSPs only ~40M have a single stream.",
+      "rationale": "New distributor data on how far AI upload volume outruns actual listening, which is useful hard numbers for creators deciding whether bulk AI releases pay off."
     },
     {
-      "title": "Neutone announces Terra - Neural Drum Synth with Map-Based Exploration (AU & VST3)",
-      "url": "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705",
-      "source": "KVR Audio",
-      "published_iso": "2026-11-19T10:48:35+00:00",
-      "og_image": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-      "excerpt": "Neutone released Terra in early access: a neural drum synth where each 'map' is a continuous latent space for exploring analogue and digital drum sounds and variations.",
-      "category": "music",
+      "rank": 3,
       "tool": "Music",
+      "category": "music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "New producer-facing neural instrument (AU/VST3, early access) with a novel latent-map interface; separate product from Neutone's NeuSynth (11-11)."
+      "title": "Anukari 1.1 now available",
+      "url": "https://www.soundonsound.com/news/anukari-11-now-available",
+      "source": "Sound On Sound",
+      "published_iso": "2026-11-16T07:30:46+00:00",
+      "og_image": null,
+      "excerpt": "The 3D physics-modelling synth adds strings, plates, tubes and a blowable mouthpiece, plus new compatibility with AI assistants such as Claude and ChatGPT so users can build patches via prompts.",
+      "rationale": "A shipping instrument update that lets producers build synth patches by prompting Claude or ChatGPT, so it changes the sound-design workflow right away."
     },
     {
-      "title": "sonible Releases pure:smooth, an AI-Powered Resonance Suppression Plugin",
-      "url": "https://mixing.co.kr/en/44650",
-      "source": "월간 믹싱 (Mixing Magazine)",
-      "published_iso": "2026-11-19T11:18:38+09:00",
-      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-      "excerpt": "sonible has released pure:smooth, an AI-powered dynamic resonance suppressor that tames harsh resonances with minimal controls, joining its pure: line of simplified smart plugins.",
-      "category": "music",
+      "rank": 4,
       "tool": "Music",
+      "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Shipping AI mixing plugin usable in sessions tomorrow; adds a third outlet and a mixing-tool angle."
+      "title": "Grimes Releases Two New Psy Opera Songs",
+      "url": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+      "source": "Pitchfork",
+      "published_iso": "2026-11-20T18:11:09Z",
+      "og_image": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+      "excerpt": "Grimes shared 'Deepseek' and 'Killing God With Computers' from her AI-themed album Psy Opera; 'Deepseek' is the only track to actually use AI, adapted from a poem generated with the DeepSeek LLM.",
+      "rationale": "A major artist's new release that shows a specific, disclosed AI use (lyrics adapted from a DeepSeek-generated poem) rather than a fully generated track."
     },
     {
-      "title": "EU member states call for more AI copyright protections and European ownership for TikTok Europe",
-      "url": "https://completemusicupdate.com/eu-member-states-call-for-more-ai-copyright-protections-and-european-ownership-for-tiktok-europe/",
-      "source": "CMU",
-      "published_iso": "2026-11-19T17:08:10+00:00",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-      "excerpt": "As EU culture ministers met in Brussels, eleven member states backed stronger copyright protections against AI training, alongside a German-Austrian push for European ownership of TikTok Europe.",
-      "category": "music",
+      "rank": 5,
       "tool": "Music",
-      "accent": "#3b6bff",
+      "category": "music",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Official position from eleven EU member states at the Culture Council on AI-training copyright; a new EU-level policy signal not covered in any section."
+      "title": "Sonic Palette: Predicting Dynamic Color Themes from Music",
+      "url": "https://arxiv.org/abs/2611.25781",
+      "source": "arXiv",
+      "published_iso": "2026-11-19T09:12:45Z",
+      "og_image": null,
+      "excerpt": "A music-conditioned autoregressive Transformer predicts frame-wise five-colour palettes from audio, modelling how visual colour themes evolve over time in response to music.",
+      "rationale": "New research that turns audio into time-varying colour palettes, with a direct use for visualisers, lyric videos and stage design."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping": {
-        "verdict": "follow-up",
-        "nearest": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
-        "new_action": "A newly reported Australian government proposal to exempt musicians alone from AI text-and-data-mining, and ARIA's formal rejection of it (prior cards: 11-09 global music body warning, 11-17 'Not AI's to Take' campaign launch)."
+      "https://www.digitalmusicnews.com/2026/11/20/eight-mile-style-v-suno-amended-suit/": {
+        "verdict": "new",
+        "nearest": "https://www.digitalmusicnews.com/2026/11/16/elvis-presley-enterprises-amended-suno-lawsuit/",
+        "new_action": ""
       },
-      "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/": {
+      "https://www.digitalmusicnews.com/2026/11/19/ai-music-streams-analysis/": {
         "verdict": "new",
         "nearest": "https://musically.com/2026/11/17/deezer-report-ai-music-2026/",
         "new_action": ""
       },
-      "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705": {
+      "https://www.soundonsound.com/news/anukari-11-now-available": {
         "verdict": "new",
-        "nearest": "https://mixing.co.kr/en/44340",
+        "nearest": "https://www.musicradar.com/music-tech/massive-xl-is-here-native-instruments-supersizes-its-flagship-soft-synth-with-ai-powered-preset-generation-custom-wavetables-and-much-more",
         "new_action": ""
       },
-      "https://mixing.co.kr/en/44650": {
+      "https://pitchfork.com/story/listen-to-two-new-grimes-songs/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://completemusicupdate.com/eu-member-states-call-for-more-ai-copyright-protections-and-european-ownership-for-tiktok-europe/": {
+      "https://arxiv.org/abs/2611.25781": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: iZotope Photon (DJ Mag, likely-repeat of musictech 11-05 Photon card); Tim Minchin ARIA AI blast (Music Ally, commentary on the running Australian copyright story — same cluster as the Guardian pick, which carries the new concrete event). Dropped on scoring/fit: Contocracy label thought experiment (Hypebot, evergreen/fictional); Agentic AI music marketing feature (Music Ally, analysis; also keeps Music Ally at 1); DMN AI-streams analysis and Tencent 'negligible' AI streams (overlap the UMG listener-data pick); UMG/Sony withdraw DistroKid subpoena motion (procedural step in Suno litigation, covered repeatedly 11-12/11-18); Hive ticketing AI assistants (marketing-side); Harmonic Circuit arXiv (no image, lower actionability). Cross-section: checked published_urls.json politics/music for the Guardian and CMU EU-ministers stories — not published anywhere; Guardian item assigned to music by the curator brief (politics must not pick it)."
+    "note": "Dropped as duplicates or follow-ups: (1) Yonhap [인&아웃] column on the AI-sung Melon #1 is commentary on the 11-14 story (yna AKR20261113157000005). (2) Music Ally WMG/Spotify AI remix talk is exec commentary on the running Spotify remix story (DMN 11-02). (3) DMN UMG 'walled garden' is exec commentary in the running UMG AI-stance story (Music Ally 11-02, 11-20). (4) Peter Gabriel is an interview and reaction piece. Not chosen on score: Music Ally agentic marketing feature, A.I.Radio, Live Nation investor day, Tencent Music earnings remark, Hive (live-event marketing tool), Hypebot touring explainer (evergreen), Harmonic Circuit arXiv. Eight Mile Style is a separate plaintiff's amended complaint, not the Elvis/EPE filing; no earlier Eight Mile v. Suno card exists in the 30-day history. Outlets: DMN x2, Sound On Sound, Pitchfork, arXiv. I could not run a full exact-grep of published_urls.json (the file is too large to read in full here). The curator brief's cross-section list flags no music items, but roll's gate should confirm."
   }
 }

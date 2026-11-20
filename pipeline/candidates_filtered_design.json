@@ -1,84 +1,211 @@
 {
   "section": "design",
-  "now_iso": "2026-11-19T22:03:00Z",
+  "now_iso": "2026-11-20T22:00:39Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "category": "vr",
-      "published_iso": "2026-11-18T18:13:42Z",
-      "excerpt": "Google DeepMind rolls out a new Project Genie experience with its Genie 4 world model to eligible Google AI Ultra subscribers, adding real-time prompt edits inside a generated world, chainable worlds and a community gallery for remixing; a day later Genie 4 also opened on the Gemini API for 720p interactive worlds with native audio. Follow-up to the 10-28 Genie 4 model debut (games).",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png"
-    },
-    {
-      "title": "Canva adds an AI 'off' button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-11-19T12:30:00Z",
-      "excerpt": "Canva is rolling out settings that let users and teams switch off most of its generative AI features and filter AI-made images, saying AI does not suit every task; some AI tools stay on.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "history_match": {
-        "score": 0.211,
-        "date": "2026-10-26",
-        "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
-        "title": "Nobody asked for the sparkle button",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "published_iso": "2026-11-19T17:00:35Z",
-      "excerpt": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png"
-    },
-    {
-      "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
-      "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
-      "source": "NVIDIA Technical Blog",
-      "category": "render",
-      "published_iso": "2026-11-18T17:00:00Z",
-      "excerpt": "NVIDIA details a Cosmos workflow that generates diverse, training-ready synthetic scenes (rare defects, nighttime incidents) from two prompts for physical AI and world-model training.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/cosmos-gif-500x282.gif",
-      "history_match": {
-        "score": 0.368,
-        "date": "2026-10-25",
-        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Introducing Vercel Board",
-      "url": "https://vercel.com/blog/introducing-vercel-board",
-      "source": "Vercel",
       "category": "figma",
-      "published_iso": "2026-11-18T08:00:00Z",
-      "excerpt": "Vercel Board is an experimental shared message board where coding agents such as Claude Code and Codex coordinate tasks, exchange context and work together across tools.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca600397c120c7550d2d2c36/e9a2d078b2229c537525478b237c707a/og-board__1_.png",
+      "source": "Kingy AI",
+      "title": "Gestalt beat Claude Fable 5.2 in 78% of blind design votes",
+      "url": "https://kingy.ai/blog/gestalt-ai-design-benchmark/",
+      "published_iso": "2026-11-19T22:36:21+00:00",
+      "excerpt": "A stealth model called Gestalt took first place on Contra Labs and BenchFlow's Frontier Design Benchmark at 1,931 Elo, a 218-point lead; professional designers picked it over Claude Fable 5.2 in 78% of blind head-to-head votes. (Off-list: no on-list outlet covered it.)",
+      "og_image": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg"
+    },
+    {
+      "category": "figma",
+      "source": "UX Collective",
+      "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
+      "published_iso": "2026-11-17T23:25:20Z",
+      "excerpt": "How to decipher your PM's AI-generated mockup without losing hours: a practical method for auditing AI-produced prototypes using the sparkle convention as a marker.",
+      "og_image": "https://cdn-images-1.medium.com/max/1556/1*4RrFm9IcXORwVXjgB-_zlA.png"
+    },
+    {
+      "category": "render",
+      "source": "CG Channel",
+      "title": "Autodesk releases Maya 2027.3 with new agentic AI features",
+      "url": "https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/",
+      "published_iso": "2026-11-19T09:48:34+00:00",
+      "excerpt": "Maya 2027.3 gets an updated AI assistant that can edit scenes and a new MCP server for external agents; 3ds Max 2027.3 gets matching agentic workflows plus a DLSS-accelerated Arnold viewport. (Note: movies ran AWN's version 11-19.)",
+      "og_image": null,
       "history_match": {
-        "score": 0.162,
-        "date": "2026-11-11",
-        "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
-        "title": "Open your apps in Claude and work in them together",
+        "score": 0.17,
+        "date": "2026-11-08",
+        "url": "https://www.cgchannel.com/2026/11/autodesk-releases-flame-2027/",
+        "title": "Autodesk releases Flame 2027.2",
         "band": "related"
       }
     },
     {
+      "category": "render",
+      "source": "Pika",
+      "title": "Research Preview: Pika Enact",
+      "url": "https://pika.art/blog/pika-enact",
+      "published_iso": "2026-11-18T00:00:00Z",
+      "excerpt": "Pika Enact is a research preview of real-time AI filmmaking where creators talk to their cast, rehearse performances and shape scenes as they unfold, directing generated video live rather than prompt-and-wait.",
+      "og_image": "https://cdn.pika.art/v2/creation/cms/notion/3d4def814b639f561d66a26a482e3b70.webp"
+    },
+    {
+      "category": "render",
+      "source": "Design Compass",
+      "title": "퓨저, 문장으로 만드는 맞춤형 편집 도구 공개 (Fuser Tool Node)",
+      "url": "https://designcompass.org/2026/11/18/fuser-tool-node/",
+      "published_iso": "2026-11-18T06:00:00+00:00",
+      "excerpt": "Fuser's 'Tool Node' lets users describe an editing tool in a sentence; the AI designs sliders and switches, writes and tests the tool and places it on the canvas, where it can be chained with other nodes and shared via a team library. (Feature announced 11-13; article 11-18.)",
+      "og_image": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
+    },
+    {
+      "category": "render",
+      "source": "Design Compass",
+      "title": "에이바 스튜디오, 인기 출시 영상의 컷을 내 제품 화면으로 (Ava Studio Launch Videos)",
+      "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
+      "published_iso": "2026-11-19T02:59:00+00:00",
+      "excerpt": "Ava Studio's 'Launch Videos' (Claude Code / Codex plugin) analyzes cut order, shot length and camera moves of viral launch videos and rebuilds them with your product screens, logo, colors and type, saved as an editable HyperFrames project.",
+      "og_image": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+    },
+    {
+      "category": "render",
+      "source": "Android Authority",
+      "title": "Gemini can now be your go-to source for making GIFs",
+      "url": "https://www.androidauthority.com/gemini-gif-generation-rollout-3737901/",
+      "published_iso": "2026-11-20T20:10:28+00:00",
+      "excerpt": "Google announced Gemini can now create GIFs, using Google's latest video generation model. (Off-list; light AI depth in body.)",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/gemini-logo-november-2025-2-1000w-562h.jpg",
+      "history_match": {
+        "score": 0.289,
+        "date": "2026-11-05",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+        "title": "ChatGPT will now make you animated GIFs",
+        "band": "related"
+      }
+    },
+    {
+      "category": "cad",
+      "source": "DIGITAL PRODUCTION",
+      "title": "Rhino 9: Patches, SubDs and the AI in the Room",
+      "url": "https://digitalproduction.com/2026/11/18/rhino-9-patches-subds-and-the-ai-in-the-room/",
+      "published_iso": "2026-11-18T09:00:00+00:00",
+      "excerpt": "Rhino 9 brings RhinoAI with AI-assisted commands alongside rebuilt Patch surfacing, Setback fillets, hybrid SubD modeling, enhanced drafting and Grasshopper 2. (Off-list; product/industrial design CAD.)",
+      "og_image": "https://media.digitalproduction.download/2026/11/rhino-9-hero.webp",
+      "history_match": {
+        "score": 0.213,
+        "date": "2026-11-13",
+        "url": "https://aecmag.com/cad/rhino-world-2026-mcneel-lets-ai-in/",
+        "title": "Rhino World 2026: McNeel lets AI in",
+        "band": "related"
+      }
+    },
+    {
+      "category": "cad",
+      "source": "DEVELOP3D",
+      "title": "A turning point for CAD?",
+      "url": "https://develop3d.com/opinion/comment/a-turning-point-for-cad/",
+      "published_iso": "2026-11-18T09:45:10+00:00",
+      "excerpt": "AI is reshaping CAD, promising smarter tools for product designers while exposing the industry's resistance to rapid change.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/Engineer-using-cad-software_comment.jpg",
+      "history_match": {
+        "score": 0.166,
+        "date": "2026-11-03",
+        "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/",
+        "title": "What I learned from 45 years of CAD development: Doing more with less",
+        "band": "related"
+      }
+    },
+    {
+      "category": "cad",
+      "source": "Engineering.com",
+      "title": "Comsol Conference 2026 highlights: Simulation and AI",
+      "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+      "published_iso": "2026-11-20T16:34:49+00:00",
+      "excerpt": "Attendees explored the latest version of the Comsol Multiphysics simulation software and how engineers are using AI within simulation-driven design.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_comsolconf-mr-thumb-1024x576.png",
+      "history_match": {
+        "score": 0.163,
+        "date": "2026-11-16",
+        "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
+        "title": "SimScale launches Engineering AI Blueprint",
+        "band": "related"
+      }
+    },
+    {
+      "category": "tokens",
+      "source": "Nielsen Norman Group",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/",
+      "published_iso": "2026-11-20T18:00:00+00:00",
+      "excerpt": "In an NN/g study across two design tasks, AI-generated interfaces were better when the model received synthesized research findings and recommendations rather than raw user comments alone.",
+      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
+    },
+    {
+      "category": "tokens",
+      "source": "CSS-Tricks",
+      "title": "When Everything Has Changed, What Do We Do Next?",
+      "url": "https://css-tricks.com/when-everything-has-changed/",
+      "published_iso": "2026-11-18T07:55:21-07:00",
+      "excerpt": "A year-end reflection on how AI has upended front-end and web design practice, and what designers and developers should focus on next.",
+      "og_image": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png",
+      "history_match": {
+        "score": 0.19,
+        "date": "2026-10-23",
+        "url": "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
+        "title": "AI's next bottleneck is the engineer's desk",
+        "band": "related"
+      }
+    },
+    {
+      "category": "vr",
+      "source": "TestingCatalog",
+      "title": "Google opens Genie 4 world model to developers in Gemini API",
+      "url": "https://www.testingcatalog.com/google-opens-genie-4-world-model-to-developers-in-gemini-api/",
+      "published_iso": "2026-11-19T23:21:27Z",
+      "excerpt": "Genie 4 is now in the Gemini API and Google AI Studio for paid-tier developers, a day after Project Genie, at roughly $0.10 per second of streamed interactive world. (Cross-section: games ran DeepMind's Genie 4 post 11-20.)",
+      "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/Google-AI-Studio-11-19-2026_08_02_PM--1-.jpg",
+      "history_match": {
+        "score": 0.194,
+        "date": "2026-11-10",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+        "title": "Developers can now build with Google Maps Platform in AI Studio",
+        "band": "related"
+      }
+    },
+    {
+      "category": "workflow",
+      "source": "Animation World Network",
+      "title": "Envato's 2nd Annual AI Report Finds Adoption Has Outrun the Rules",
+      "url": "https://www.awn.com/news/envatos-2nd-annual-ai-report-finds-adoption-has-outrun-rules",
+      "published_iso": "2026-11-18T14:49:26-08:00",
+      "excerpt": "Envato's survey of 1,033 creatives finds 58% use AI daily, 53% have put it on client work without telling the client, and most in-house team creatives have no written AI policy.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081855-envato1.jpg?itok=6IhH1KNS"
+    },
+    {
+      "category": "workflow",
+      "source": "Fast Company",
+      "title": "Why 'you don't have to use AI' is the new AI pitch",
+      "url": "https://www.fastcompany.com/91642976/why-you-dont-have-to-use-ai-is-the-new-ai-pitch",
+      "published_iso": "2026-11-20T19:50:37Z",
+      "excerpt": "Watching Adobe's MAX keynote, the author sees creative-software makers walking a tightrope: being AI-forward while reassuring a hostile creative crowd that AI is optional.",
+      "og_image": null
+    },
+    {
+      "category": "workflow",
+      "source": "Fast Company",
+      "title": "How Anthropic believes branding will shape its post-IPO future",
+      "url": "https://www.fastcompany.com/91645937/how-anthropic-believes-branding-will-shape-its-post-ipo-future",
+      "published_iso": "2026-11-20T11:30:00+00:00",
+      "excerpt": "Technical superiority alone may not beat competition if users see rival models as interchangeable; Anthropic is betting on brand and design identity as it goes public.",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/11/p-1-91645937-rob-walker-anthropic.jpg"
+    },
+    {
+      "category": "workflow",
+      "source": "Creative Bloq",
       "title": "Artists and creators are leaving Etsy in droves over its new AI policy",
       "url": "https://www.creativebloq.com/news/artists-and-creators-are-leaving-etsy-in-droves-over-its-new-ai-policy",
-      "source": "Creative Bloq",
-      "category": "figma",
       "published_iso": "2026-11-18T08:00:00Z",
-      "excerpt": "Artists and makers are posting goodbye messages and leaving Etsy over its new AI policy. Follow-up to Etsy AI-policy stories covered 10-24/10-28.",
+      "excerpt": "Artistic goodbye messages are flooding social media as makers leave Etsy over its new AI policy.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/GTjDvhNpQHKbwDKqVCDpyC-1920-80.jpg",
       "history_match": {
-        "score": 0.193,
+        "score": 0.16,
         "date": "2026-11-12",
         "url": "https://www.creativebloq.com/news/is-artstations-new-ai-art-policy-good-enough",
         "title": "Is ArtStation's new AI art policy good enough?",
@@ -86,211 +213,43 @@
       }
     },
     {
-      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-      "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "published_iso": "2026-11-17T08:00:00Z",
-      "excerpt": "AI has sped up how teams design and build but QA testing has not kept pace and the web may be getting less accessible; Andrew Chung draws on new research to explain what separates teams that keep accessibility quality up.",
-      "og_image": "https://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
-    },
-    {
-      "title": "A turning point for CAD?",
-      "url": "https://develop3d.com/opinion/comment/a-turning-point-for-cad/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-11-18T09:45:10Z",
-      "excerpt": "DEVELOP3D comment: AI is reshaping CAD, promising smarter tools for designers while exposing the industry's resistance to rapid change. (Opinion piece.)",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/Engineer-using-cad-software_comment.jpg"
-    },
-    {
-      "title": "Pliera: a new BIM 2.0",
-      "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "published_iso": "2026-11-18T18:13:49Z",
-      "excerpt": "Pliera combines BIM modelling, AI-generated parametric objects and building configurators, with ambitious plans to challenge Revit.",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg",
-      "history_match": {
-        "score": 0.213,
-        "date": "2026-10-30",
-        "url": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
-        "title": "Snaptrude Agent launches for BIM workflows",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Mitsubishi Electric CNC work cell uses AI and humanoid robots",
-      "url": "https://www.engineering.com/mitsubishi-electric-cnc-work-cell-uses-ai-and-humanoid-robots/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-11-19T15:19:33Z",
-      "excerpt": "Shown at JIMTOF in Tokyo, Mitsubishi Electric's work cell combines AI, a CNC machine equipped with physical AI and a general-purpose humanoid robot.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/mitsubishi-ai-cncmachining.jpg"
-    },
-    {
-      "title": "Introducing the New Autodesk Fusion Plans: Simpler Access to Capabilities and More AI",
-      "url": "https://www.autodesk.com/products/fusion-360/blog/introducing-new-autodesk-fusion-plans-what-you-need-to-know/",
-      "source": "Autodesk Fusion Blog",
-      "category": "cad",
-      "published_iso": "2026-11-19T11:00:00Z",
-      "excerpt": "From January 28, 2027 Fusion moves to four plans (Starter, Standard, Professional, Enterprise) with AI capacity included in every plan and more AI at higher tiers; extensions are folded into the plans. (Pricing/packaging story; fetched via r.jina.ai, autodesk.com 403s curl.)",
-      "og_image": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/11/image-7-2.jpg",
-      "history_match": {
-        "score": 0.164,
-        "date": "2026-10-30",
-        "url": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
-        "title": "Autodesk Fusion October 2026 Update: 5 Features That Mean Less Rework",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch",
       "category": "workflow",
-      "published_iso": "2026-11-19T18:09:11Z",
-      "excerpt": "Gemini's Mac app gets computer use for AI Plus, Pro and Ultra users: an agent that can organize files, fill out forms and run multistep workflows across desktop apps.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
-      "history_match": {
-        "score": 0.161,
-        "date": "2026-11-06",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
-        "title": "Transform a quick drawing into a live app with Gemini.",
-        "band": "related"
-      }
+      "source": "Creative Bloq",
+      "title": "Adobe's making design accessible for all – so why am I so anxious?",
+      "url": "https://www.creativebloq.com/features/adobes-democratisation-of-design-doesnt-have-to-be-the-death-of-human-creativity",
+      "published_iso": "2026-11-19T14:00:00Z",
+      "excerpt": "Adobe's AI push to democratise design should feel like a utopia; a designer weighs what it means for human creativity and the profession.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/qiKJkbsfwyP8LAsE4EhRGa-1920-80.jpg"
     },
     {
-      "title": "What Your AGENTS.md Should Say About Your Design System",
-      "url": "https://www.supernova.io/blog/agents-md-design-system",
-      "source": "Supernova",
-      "category": "tokens",
-      "published_iso": "2026-11-17T00:00:00Z",
-      "excerpt": "Supernova checked 30 design-system repos for AGENTS.md and other agent files: 16 have one, none is written for teams consuming the system; it proposes a section to copy.",
-      "og_image": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png",
-      "history_match": {
-        "score": 0.172,
-        "date": "2026-10-24",
-        "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
-        "title": "How to Put Your Design System to Work With the Figma Agent",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Figma Variables vs Design Tokens in 2026",
-      "url": "https://www.supernova.io/blog/understanding-the-differences-between-figma-variables-and-design-tokens",
-      "source": "Supernova",
-      "category": "tokens",
-      "published_iso": "2026-11-18T00:00:00Z",
-      "excerpt": "How Figma variables differ from design tokens in 2026: what each stores, how the six variable types map to DTCG 2025.10 types, and what each gives an AI agent.",
-      "og_image": "https://www.supernova.io/static/images/blog/understanding-the-differences-between-figma-variables-and-design-tokens/hero.png"
-    },
-    {
-      "title": "From idea to decision: what we're learning about AI in engineering",
-      "url": "https://www.ntop.com/resources/blog/from-idea-to-decision-what-were-learning-about-ai-in-engineering",
-      "source": "nTop",
-      "category": "cad",
-      "published_iso": "2026-11-17T00:00:00Z",
-      "excerpt": "nTop shares what it is learning about using AI across the engineering design workflow, from early ideas to design decisions. (Vendor blog; date-only publish stamp.)",
-      "og_image": "https://cdn.sanity.io/images/aj762rqw/production/a8bd1701996d5b78e2eea7d5be9b0d8ff7b61e29-952x713.jpg?w=1200&q=85&auto=format"
-    },
-    {
-      "title": "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
-      "url": "https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP",
-      "source": "Higgsfield",
-      "category": "render",
-      "published_iso": "2026-11-18T19:00:00Z",
-      "excerpt": "Higgsfield guide to generating video, images, audio and ads from inside Claude via its MCP connector: setup, first video, credits and fixes. (Vendor how-to.)",
-      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/90db10e6fcacd88a0532aca3b86347eb9bd516a3-2720x1536.jpg",
-      "history_match": {
-        "score": 0.192,
-        "date": "2026-11-10",
-        "url": "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/",
-        "title": "Higgsfield Miracle promises real-time AI video editing, turning any clip into editable layers",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Krea Originals 01 & 02: ROCKET and RECESS",
-      "url": "https://www.krea.ai/blog/krea-originals-rocket-and-recess",
-      "source": "Krea",
-      "category": "render",
-      "published_iso": "2026-11-17T00:00:00Z",
-      "excerpt": "Krea's first two original short films, made on one Nodes canvas with Krea 2 Turbo for characters and locations, Seedance 2.5 for every scene and prompts written in Claude; the post breaks down the pipeline. Check movies for cross-section dup.",
-      "og_image": "https://s.krea.ai/KreaOpenGraph2.webp"
-    },
-    {
-      "title": "Too Claudified",
-      "url": "https://uxdesign.cc/too-claudified-9af067298b2a",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-11-18T20:17:04Z",
-      "excerpt": "A designer whose AI-built motion graphics were rejected by a client as 'too Claudified' revisits his June essay on AI design converging on one fluent look, and what changed in five months.",
-      "og_image": null
-    },
-    {
-      "title": "AI Prototype to Production: 7 Steps to Working UI",
-      "url": "https://www.eleken.co/blog-posts/prototype-to-production",
-      "source": "Eleken",
       "category": "workflow",
-      "published_iso": "2026-11-19T15:31:30Z",
-      "excerpt": "Design agency Eleken lays out a seven-step workflow for taking AI-generated prototypes to production-ready UI, pitched as roughly 2x faster delivery. (Agency blog.)",
-      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6aff164318a8221afaf0eaa9_prototype-to-production-cover-0.png",
+      "source": "Fstoppers",
+      "title": "Why Adobe's AI Agents Are Built for Busywork, Not Your Edits",
+      "url": "https://fstoppers.com/opinion/why-adobes-ai-agents-are-built-busywork-not-your-edits-905575",
+      "published_iso": "2026-11-18T11:03:02-05:00",
+      "excerpt": "Glyn Dewis argues AI agents suit repeatable jobs like resizing and renaming, not editing, and tests Claude on a raw sunrise to see where that line falls.",
+      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/11/cover_66.jpg.webp?itok=iCsKQ3ZC",
       "history_match": {
-        "score": 0.165,
-        "date": "2026-11-04",
-        "url": "https://www.eleken.co/blog-posts/code-based-prototyping",
-        "title": "Code-based prototyping: When it's worth the setup",
+        "score": 0.216,
+        "date": "2026-11-02",
+        "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+        "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
         "band": "related"
       }
-    },
-    {
-      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-      "source": "The Decoder",
-      "category": "render",
-      "published_iso": "2026-11-17T20:30:50Z",
-      "excerpt": "GPT-6.2 Astra pulls slide layouts, colors and typography from templates, built and animated 3D models in Blender in demos, and tops the AA-3D web-design benchmark (1,318 Elo vs Claude Fable 5.2 at 1,271); Astra API price cut 20%.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/Agents-Last-Exam-v1.1.png"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 20,
+    "dropped": 2,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 10,
+    "review": 9,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-21",
-      "title": "Neural Concept launches MCP to help AI agents operate commercial CAD tools",
-      "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
-      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "DxO ViewPoint 6 introduces AI masking, but maintains that no AI image generation takes place",
-      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "ChatGPT Slides lets users create, edit and present decks without leaving ChatGPT",
-      "url": "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes"
-    },
     {
       "date": "2026-10-22",
       "title": "Europe's Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
@@ -960,6 +919,31 @@
       "date": "2026-11-19",
       "title": "Generate multiple images from a single prompt",
       "url": "https://www.figma.com/release-notes/?title=generate-multiple-images-from-a-single-prompt"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Pliera: a new BIM 2.0",
+      "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Too Claudified",
+      "url": "https://uxdesign.cc/too-claudified-9af067298b2a"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "What Your AGENTS.md Should Say About Your Design System",
+      "url": "https://www.supernova.io/blog/agents-md-design-system"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Canva adds an AI 'off' button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
     }
   ]
 }
