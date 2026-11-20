@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "issue": "정리된 리서치를 받은 AI가 더 잘 디자인한다 — NN/g 실험",
+    "date": "2026.11.20",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "NN/g 원문(Megan Chan·Rachel Banawa, 2026.11.20 게재, datePublished 2026-11-20T18:00Z)과 방법론 사이드바(context-study-methodology, 같은 날) 대조. 숫자 확인: 종합 발견·권고 77.9% vs 원본 댓글 69.5%, 차이 8.4%p(p<0.001), 과제별 항공편 재예약 +11.4%p·결제 흐름 +5.5%p, 조건·과제당 8개 생성, 사람 채점 결과 사용·LLM 심사와 약 96% 일치, 과제당 댓글 약 100개(결제는 관련 65 + 무관 40), 발견·권고 9개(재예약)·11개(결제). 마일리지 사례·결제 단계 품목 표시 사례, '데이터가 크고 지저분할수록 격차가 커질 것'은 NN/g 예상(가설)으로 표기. 설계 모델 Claude Fable 5 하나만 시험(사이드바 한계 항목). 인용 두 개는 원문 번역. 정정: 날짜 11.21 → 게재일 11.20, 초안 1~5장이 같은 썸네일(pipeline/media/nngroup-synthesized-data.png, NN/g 자체 제작 이미지)을 반복하던 것을 빼고 전 장 stat·quote로(외부 미디어 없음).",
+    "sources": [
+      "Nielsen Norman Group — Can AI Generate Good Designs from Raw User Data? (2026.11.20)",
+      "Nielsen Norman Group — How Research Context Affects AI-Generated Interfaces: Methodology (2026.11.20)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "원본 댓글 69.5%",
+      "stat_arrow": "평가 기준 충족률",
+      "stat_bottom": "종합 결과 77.9%",
+      "stat_strike": false,
+      "eyebrow": "AI × 디자인 · 2026.11.20",
+      "headline": "정리된 리서치가 이겼다",
+      "body": "NN/g가 AI에 화면 설계를 맡기고 리서치 자료만 바꿨다. 정리된 발견·권고를 준 쪽이 8.4%p 앞섰다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "사용자 댓글 약 100개",
+      "stat_arrow": "연구자가 AI와 함께 정리",
+      "stat_bottom": "발견·권고 9~11개",
+      "stat_strike": false,
+      "eyebrow": "어떻게 시험했나",
+      "headline": "같은 과제, 다른 자료",
+      "body": "항공편 재예약 양식과 쇼핑몰 결제 흐름을 조건마다 8번씩 만들게 했다. 채점은 사람이 블라인드로 했다.",
+      "foot": "2026.11.20",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "결제 흐름 +5.5%p",
+      "stat_arrow": "과제별로 보면",
+      "stat_bottom": "재예약 +11.4%p",
+      "stat_strike": false,
+      "eyebrow": "어디서 갈렸나",
+      "headline": "재예약에서 더 벌어졌다",
+      "body": "마일리지 불만 댓글이 있었는데도 원본만 받은 디자인엔 마일리지 안내가 없었다. 종합본으로 만든 건 전부 넣었다.",
+      "foot": "2026.11.20",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "원본 데이터만 주면 AI는\n무엇을 만들지 짐작해야 한다.",
+      "quote_by": "NN/g · Megan Chan, Rachel Banawa",
+      "eyebrow": "왜 그런가",
+      "headline": "해석은 사람의 몫",
+      "body": "댓글은 문제를 말할 뿐 무엇을 만들지는 말하지 않는다. 연구자의 발견과 권고가 그 빈칸을 채운다.",
+      "foot": "2026.11.20",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "리서치 산출물의 독자는 이제 둘이다.\n팀원, 그리고 AI 도구.",
+      "quote_by": "NN/g · 제품팀에 주는 시사점",
+      "eyebrow": "그래서 지금",
+      "headline": "리서치 독자가 늘었다",
+      "body": "데이터가 크고 지저분할수록 격차는 커질 거라는 게 NN/g 예상이다. 설계 모델은 Claude Fable 5 하나만 썼다.",
+      "foot": "2026.11.20",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
