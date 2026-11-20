@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "AI 대화창이 계산대가 된다",
+    "date": "2026.11.21",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 대조(전자신문 2건은 curl 차단이라 enrichment 본문으로 확인): 추석 AI 경유 접속 4배 이상·86만명, 12월 16일·약 15개사·실제 운영 내년, Ask Target 구매 비율 약 두 배(about twice), Meta 11.18 발표·첫 캐나다 소매업체, 카페24 방문 2배+·주문 약 4배·포털 대비 0.26%. 사진은 카카오 1장만, 나머지는 stat·quote.",
+    "sources": [
+      "전자신문 — 현대백화점, 챗GPT에 '더현대 하이' 플러그인 서비스 출시 (2026.11.15)",
+      "바이라인네트워크 — [단독] 카카오, 내달 파트너사 대상 '비즈니스 에이전트 연동 플랫폼' 공개 (2026.11.18)",
+      "Retail Dive — Target's AI shopping assistant is driving sales (2026.11.19)",
+      "PPC Land — Loblaw lets Meta's Muse plan meals and check out groceries in Canada (2026.11.19)",
+      "전자신문 — 카페24 \"AI 경유 쇼핑 주문, 1년 새 4배 증가…자사몰 AI 접근성 높여야\" (2026.11.20)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 11.16~11.21",
+      "thread": [
+        {
+          "d": "11.16",
+          "t": "더현대",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.19",
+          "t": "카톡 결제",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.20",
+          "t": "Target",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.21",
+          "t": "Muse",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.21",
+          "t": "AI 주문",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "쇼핑이 AI 대화창 안에서 추천부터 결제까지 끝나기 시작했다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "AI 대화창이\n계산대가 된다",
+      "body": "한 건씩 보면 플러그인 출시나 시연이다. 한 주 사이 추천에서 결제까지 대화창으로 들어왔고, 주문 숫자도 따라왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "챗GPT 창에\n백화점이 들어왔다",
+      "body": "더현대 하이가 챗GPT 플러그인을 냈다. 추천 상품 링크로 구매·결제까지 잇는다. 추석엔 AI 경유 접속이 4배 넘게 늘었다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.etnews.com/20261115000021",
+      "_id": "thehyundai-hi-chatgpt-plugin",
+      "stat_top": "작년 추석",
+      "stat_arrow": "챗GPT·제미나이 경유 접속",
+      "stat_bottom": "4배 이상",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.19",
+      "headline": "이번엔 카톡을\n안 떠나고 결제",
+      "body": "카톡 속 AI 에이전트로 주문하고 카카오페이로 결제한다. 12월 16일 약 15개사와 시연, 실제 서비스는 내년 전망.",
+      "foot": "2026.11.19",
+      "_src": "https://byline.network/2026/11/18_391287374/",
+      "_id": "kakao-kanana-commerce",
+      "media": "pipeline/media/kakao-kanana-commerce.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.20",
+      "headline": "AI 비서 쓰면\n두 배로 산다",
+      "body": "Target CEO가 Q3 콜에서 밝혔다. Ask Target 베타를 쓴 고객은 다른 경로보다 구매 비율이 약 두 배다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
+      "_id": "target-ask-target-sales",
+      "stat_top": "다른 경로",
+      "stat_arrow": "Ask Target 쓴 고객의 구매 비율",
+      "stat_bottom": "약 2배",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.21",
+      "headline": "식단 짜고\n장바구니 결제까지",
+      "body": "Loblaw가 Meta Muse에 카탈로그를 붙인 첫 캐나다 소매업체가 됐다. 앱을 안 떠나고 장보기를 마친다.",
+      "foot": "2026.11.21",
+      "_src": "https://ppc.land/loblaw-lets-metas-muse-plan-meals-and-check-out-groceries-in-canada/",
+      "_id": "loblaw-meta-muse-grocery",
+      "quote": "브랜드 선호와 음식 알레르기를\n기억해 다음 주 계획을\n한결 쉽게 만든다",
+      "quote_by": "Meta, Muse 소개 글 · PPC Land 인용"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.21",
+      "headline": "AI 거쳐 온 주문\n1년 새 약 4배",
+      "body": "카페24 자사몰 3분기 AI 경유 방문은 2배 넘게, 주문은 약 4배 늘었다. 비중은 아직 포털 검색의 0.26%다.",
+      "foot": "2026.11.21",
+      "_src": "https://www.etnews.com/20261120000232",
+      "_id": "cafe24-ai-referral-orders",
+      "stat_top": "AI 경유 방문 2배+",
+      "stat_arrow": "3분기, 전년 동기 대비 주문",
+      "stat_bottom": "약 4배",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

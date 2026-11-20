@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "issue": "디자인 툴, 에이전트에 문을 열다",
+    "date": "2026.11.21",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(Figma 11.18→11.17, Silo 11.18→11.17(CG Channel), Supernova 11.20→11.17, Snap 11.19→11.18, NVIDIA 11.20→11.19). 시간순으로 Supernova를 3번째로 옮김. Supernova 사진은 stat(30곳 중 16곳, 사용팀용 0곳)으로 교체. 수치 함수 100개+, 30·16, 하루, SimReady 13개·768대 중 766대·약 두 시간 확인.",
+    "sources": [
+      "Figma — Manage an allowlist of approved OAuth apps, including MCP clients (2026.11.17)",
+      "CG Channel — Nevercenter releases Silo 2027.0 (2026.11.17)",
+      "Supernova — What Your AGENTS.md Should Say About Your Design System (2026.11.17)",
+      "TechCrunch — Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor (2026.11.18)",
+      "NVIDIA Blog — How Developers Turn Ideas Into Simulations With Frontier AI Agents (2026.11.19)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 디자인 · 11.17~11.19",
+      "thread": [
+        {
+          "d": "11.17",
+          "t": "허용 목록",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.17",
+          "t": "MCP 서버",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.17",
+          "t": "규칙 파일",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.18",
+          "t": "렌즈 CLI",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.19",
+          "t": "시뮬레이션",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "디자인·3D 툴을 쓰는 손이 사람에서 코딩 에이전트로 넓어진다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "디자인 툴,\n에이전트에 문을 열다",
+      "body": "한 건씩 보면 기능 추가다. 그런데 사흘 새 Figma·Silo·Snap·Omniverse가 모두 코딩 에이전트용 입구를 냈다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "들일 에이전트,\nFigma 관리자가 고른다",
+      "body": "Cursor·Claude Code 같은 MCP 클라이언트를 허용 목록으로 관리한다. 앱 요청 검토는 새 Extensions 탭에서.",
+      "foot": "2026.11.17",
+      "_src": "https://www.figma.com/release-notes/?title=manage-an-allowlist-of-approved-oauth-apps-including-mcp-clients",
+      "_id": "figma-oauth-mcp-allowlist",
+      "media": "pipeline/media/figma-oauth-mcp-allowlist.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "3D 모델러 Silo,\nMCP 서버를 달다",
+      "body": "Silo 2027.0이 함수 100개 넘는 JavaScript API와 MCP 서버를 더했다. Claude·ChatGPT로 조작한다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.cgchannel.com/2026/11/nevercenter-releases-silo-2027/",
+      "_id": "nevercenter-silo2027-mcp",
+      "video": "pipeline/media/nevercenter-silo2027-mcp.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "에이전트 규칙 파일,\n쓰는 팀 몫은 없다",
+      "body": "Supernova가 디자인 시스템 저장소 30곳을 봤다. 16곳에 AGENTS.md 등이 있지만 모두 기여자용이었다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.supernova.io/blog/agents-md-design-system",
+      "_id": "supernova-agentsmd-audit",
+      "stat_top": "30곳 중 16곳에 파일",
+      "stat_arrow": "그중 사용하는 팀을 위한 것",
+      "stat_bottom": "0곳",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "Snap 렌즈,\n코딩 에이전트가 만든다",
+      "body": "Easy Lens CLI로 Claude Code·Cursor·Codex에서 AR Lens를 만든다. 구상부터 게시까지 하루면 된다고.",
+      "foot": "2026.11.18",
+      "_src": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "_id": "snap-easy-lens-cli",
+      "video": "pipeline/media/snap-easy-lens-cli.mp4"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.19",
+      "headline": "시뮬레이션도\n말로 짓는다",
+      "body": "Claude Code가 SimReady 자산 13개로 집중치료실을 짓고 로봇 768대를 시험했다. 에이전트 작업은 약 두 시간.",
+      "foot": "2026.11.19",
+      "_src": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "_id": "nvidia-omniverse-sim-agents",
+      "video": "pipeline/media/nvidia-omniverse-sim-agents.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
