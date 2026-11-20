@@ -12963,6 +12963,140 @@
           "x": "組み込みのループはサイバーセキュリティ、レイテンシ、アクセシビリティを扱い、チェックアウトのコンバージョン改善のようなカスタムループも作れる。セキュリティループは、Gemini 4 Carbonのサイバーセキュリティ能力と、コードの安全性を高めるGoogle DeepMindの自律エージェントCodeMenderを組み合わせる。Google Antigravityなどのコーディングエージェントは、Stitch CLIとMCP経由で製品コンテキストを取得でき、Slackでは@stitchが毎日のインサイトのダイジェストを届ける。ウェイトリストは本日、世界中の全ユーザーに開かれ、対象となるGoogle AI Ultraユーザーは優先的に利用できる。"
         }
       ]
+    },
+    "design/envato-ai-report-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shutterstock傘下のクリエイティブ素材・AIツールのプラットフォームEnvatoは、二回目となる年次レポート「Beyond the Hype: The State of AI in Creative Work」のため、103の国と地域のクリエイティブ専門職1,033人を調査した。"
+        },
+        {
+          "t": "p",
+          "x": "全体では、クリエイターの87%が仕事でAIを使い、58%は毎日使っている。昨年の49%から増えた。積極的に避ける人も3%から8%に増え、U.S.(米国)では19%に達する。そこでAIを避ける人の83%は、AIの学習方法をめぐる倫理的懸念を理由に挙げる。"
+        },
+        {
+          "t": "p",
+          "x": "AIを使うクリエイターの半数超(53%)が、重要な顧客案件で顧客に告げずにAIを使ったことがあり、それに抵抗を感じたのは7%にとどまった。チームで働くクリエイターの57%には文書化されたAIポリシーがなく、250人以上の組織でも40%は書面の規定を何も持たない。"
+        },
+        {
+          "t": "p",
+          "x": "クリエイターは品質を左右する最大の要因にセンスと判断力(53%)を挙げ、プロンプトのスキルは八つの要因のうち最下位(19%)だった。49%がAIで作業が速くなったと答える一方、収入が増えたと答えたのは7%だけだった。映像、モーション、3D、VFXのクリエイターはほかの層よりややAIを多く使うが、編集ははるかに厳しく自分の手に残しており、44%は編集にまったくAIを使わない。"
+        }
+      ]
+    },
+    "design/fuser-tool-node": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fuserは11月13日(韓国時間)、文章でカスタム編集ツールを作る「Tool Node(ツールノード)」を公開した。キャンバスにTool Nodeを置き、どんな素材を受け取って何を変えるか、どの値を自分で調整したいかを書けばよい。Fuserは要望に合わせてスライダーとスイッチを設計し、ツールを作成してテストしたうえでキャンバスに配置する。"
+        },
+        {
+          "t": "p",
+          "x": "写真をピクセル化するツールを頼めば、ピクセルブロックの大きさと使う色の数を調整するスライダーを作れる。写真をノードにつないでスライダーを動かすと、結果がすぐに変わる。同じノードに別の写真をつなげば、既存の設定をそのまま適用できる。ピクセル化した結果を、色チャンネルを分離する次のノードにつなぎ、二つの効果を順に適用することもできる。"
+        },
+        {
+          "t": "p",
+          "x": "色調整や切り抜きのような「ライブ」ツールはブラウザ上で無料で動く。画像内の文字を読んだり物体を見つけたりする「クラウド」ツールは、実行ボタンを押すとFuserのサーバーでAIモデルを使う。実行にかかるクレジットはボタンに表示される。ツールを新たに作るときや文章で修正するときにもクレジットが必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "完成したツールは自動でライブラリに保存される。次のプロジェクトで呼び出したり、チームのワークスペースで同僚と共有したりできる。スライダーを追加したければ、変更内容を文章で入力すればよい。Fuserは修正版を新しいバージョンとして保存し、可能な場合は既存のノード接続と設定値を保つ。"
+        },
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+          "cap": "写真にピクセル化と色チャンネル分離のノードをつないだFuserのキャンバス"
+        }
+      ]
+    },
+    "design/gestalt-design-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+          "cap": "匿名の柑橘系ポートフォリオのレイアウト二つのうち一つに、批評家が丸をつける。GestaltとClaude Fable 5.2のブラインド投票を表したイメージだ。"
+        },
+        {
+          "t": "p",
+          "x": "プロのデザイナーの前に、同じブリーフに対する二つの回答が並んだ。一つはClaude Fable 5.2、もう一つはGestaltというステルスAIモデルによるものだ。どちらの名前も伏せた一対一の投票で、デザイナーは78%の割合でGestaltを選んだ。"
+        },
+        {
+          "t": "p",
+          "x": "GestaltはContra LabsとBenchFlowによるFrontier Design Benchmarkで首位に立った。Kingy.aiが2026年11月19日に確認した時点で、Gestaltは1,931 Eloで、1,713のFableに218ポイントの差をつけていた。全体で最も近かったのは、1,739の人間による参照作品だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+          "cap": "デザイナーは、Claude Fable 5.2との直接投票では78%で、人間の参照デザインとの投票では28票中20票でGestaltを選んだ。"
+        },
+        {
+          "t": "p",
+          "x": "三十五人のプロのデザイナーが五ラウンドにわたり4,311票を投じた。対象は、マーケットプレイスの案件と六つのスタートアップ案件を翻案した27のブリーフである。Contraのデザイン評価基準では、Fable 5.2とClaude Opus 5.5が100点満点中84点、Gestaltは83点だった。"
+        },
+        {
+          "t": "p",
+          "x": "Contraの共同創業者Gajus Kuizinasは、ContraはGestaltを開発していないと述べ、レポートも開発元を明かしていない。ContraはGestaltのツール、再試行、選別プロセス、コストについて十分に開示しておらず、勝った作品が何回の試行で生まれたのかは分からない。"
+        }
+      ]
+    },
+    "design/uxcollective-sparkle-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+          "cap": "Google画像で「sparkle AI icon」を検索した結果。"
+        },
+        {
+          "t": "p",
+          "x": "PMのAI-generatedモックアップを、何時間も費やさずに読み解く方法である。スパークルボタンはあっという間に普遍的なデザインパターンになった。そして今日の仕事で、もっと活用できるはずだ。十年以上にわたり、このアイコンは事実上「この部分は機械がやってくれた」を意味してきた。その流れを mid-2010s から主導してきたのがGoogleだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+          "cap": "Googleにおけるスパークルボタンの歴史、2020年から2026年まで"
+        },
+        {
+          "t": "p",
+          "x": "AI-generatedコンテンツをどう思うにせよ、それは一つ役に立つ仕事をする。AIがどこにあるかを教えてくれるのだ。ハンドオフでそれを必要とするデザイナーは多い。PM(あるいは経営陣)がいくつかのプロンプトで生成したモックアップを渡されても、どこが判断の結果で、どこをAIが埋めたのかを示す手がかりはわずかしかない。AI-generatedの部分を強調できれば、何を問い、何を残すべきかが正確にわかる。そうでなければ、PMは二時間を節約したかもしれないが、あなたはそのモックアップを読み解くのに五時間を費やすことになる。"
+        }
+      ]
+    },
+    "design/canva-ai-off-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Canvaは生成AI機能をオフにできるようにした。この変更により、AIで写真を拡張するMagic Expandなど、このグラフィックデザインプラットフォームの各種AIツールを無効化でき、Canvaのチャットボットで画像を生成する機能もオフにできる。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、このトグルでCanvaのAI-powered機能がすべてオフになるわけではない。背景除去ツールとMagic Grabは「何も新しく生成せずに日常作業を速くする」ため、オンのまま残る。それでもトグルはMagic Write、Magic Design、Magic Layers、Magic Edit、Dream Lab、Canva Code、AI Shapesなどをオフにする。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
+          "cap": "CanvaのライブラリでAI-generatedコンテンツの表示を減らすオプションも選べる。"
+        },
+        {
+          "t": "p",
+          "x": "もう一つのトグルは、Canvaのライブラリでテンプレートやグラフィックなどのデザイン要素を検索する際、人間が作ったコンテンツを先に表示する。Canvaによると、ライブラリのうちAI-generatedなのは「ごく一部」で、そうした要素を使ったデザインにはメタデータにAIラベルが付く。"
+        },
+        {
+          "t": "p",
+          "x": "設定はProfile > Settings > Permission (Enable generative AI features)と、Profile > Your account > AI personalizationにある。無料・有料どちらのユーザーも利用できる。"
+        }
+      ]
     }
   }
 }

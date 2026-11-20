@@ -1,993 +1,17 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "science",
   "cards": [
     {
-      "id": "llm-aphasia-lesion",
+      "id": "riemann-alpoge-claude-proof",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "층을 망가뜨린 언어 모델\n뇌졸중 실어증 닮아",
-      "body": "대형 언어 모델의 층을 망가뜨리자 뇌졸중 뒤 실어증 같은 오류가 나왔다.",
-      "mini_headline": "LLMs에 낸 뇌졸중형 손상",
-      "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-            "cap": "사진: Pixabay/CC0 Public Domain"
-          },
-          {
-            "t": "p",
-            "x": "연구자들은 150년 넘게 손상이 행동 결함을 어떻게 일으키는지 살피며 뇌 지도를 그려 왔다. 뇌졸중 뒤 언어·말하기 장애를 전문으로 연구하는 한 팀은 이 틀을 대형 언어 모델에도 쓸 수 있다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "University of South Carolina의 Julius Fridriksson 연구팀은 Patterns에 실린 연구에서 \"언어 모델의 층을 교란\"한 뒤 환자에게 쓰는 임상 검사를 똑같이 해 볼 수 있는지 물었다. 이 연구실은 뇌졸중 환자의 뇌 영상으로 실어증을 연구한다. Fridriksson은 \"LLMs는 실패가 대가를 치르는 상황에 배치되고 있다\"고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "일부러 만든 \"병변\"은 연구팀이 보는 실어증 환자와 비슷한 언어 오류를 냈다. 공동 저자 Roger Newman-Norlund는 모델이 사람처럼 언어·인지·이해 오류를 보인다고 말한다. Fridriksson은 이 접근법이 \"인과관계를 확립한다\"면서도, 논문이 보여 주는 건 실제 구조가 아니라 실패 패턴의 대응이라고 짚는다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 병변 기반 해석 가능성이 LLM의 \"블랙박스\"를 열어 불필요한 부분을 찾는 데 쓰이면 더 작고 에너지 효율 높은 모델로 이어질 수 있다고 말한다. 실어증 환자의 \"디지털 트윈\"을 만들어 임상시험을 시뮬레이션할 수도 있다. Fridriksson은 이 틀을 다른 신경 질환으로 넓힐 수 있다고 본다. \"이 접근법이 받아들여져 환자에게 도움이 되는 과학적 발견으로 이어지길 바란다.\""
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Lesioned language models\nshow stroke-like aphasia",
-          "body": "Damaging layers of large language models produced error patterns resembling human aphasia after stroke.",
-          "mini_headline": "Stroke-like damage in LLMs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "For more than 150 years, researchers have mapped the brain by studying how injuries cause behavioral deficits. A team specializing in post-stroke language and speech difficulties says the same framework can be applied to large language models."
-              },
-              {
-                "t": "p",
-                "x": "In a study in Patterns, the team led by Julius Fridriksson of the University of South Carolina, whose lab studies aphasia using brain imaging of stroke patients, asked whether they could \"perturb layers in the language model\" and give it the same clinical tests used on patients. \"LLMs are being deployed in situations where failure has consequences,\" Fridriksson says."
-              },
-              {
-                "t": "p",
-                "x": "The deliberately introduced \"lesions\" produced language errors resembling those of their aphasia patients. Coauthor Roger Newman-Norlund says the models make language, cognition and comprehension errors similar to humans'. Fridriksson says the approach \"establishes cause and effect,\" while noting the paper shows correspondence in failure patterns, not in actual structures."
-              },
-              {
-                "t": "p",
-                "x": "The researchers say lesion-based interpretability could help open the LLM \"black box\" and identify redundant parts, leading to smaller, more energy-efficient models, and could create \"digital twins\" of aphasia patients to simulate clinical trials. Fridriksson believes the framework could extend to other neurological conditions: \"I hope this approach will be embraced to make scientific discoveries that help patients.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "층을 망가뜨린 언어 모델\n뇌졸중 실어증 닮아",
-          "body": "대형 언어 모델의 층을 망가뜨리자 뇌졸중 뒤 실어증 같은 오류가 나왔다.",
-          "mini_headline": "LLMs에 낸 뇌졸중형 손상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "사진: Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "연구자들은 150년 넘게 손상이 행동 결함을 어떻게 일으키는지 살피며 뇌 지도를 그려 왔다. 뇌졸중 뒤 언어·말하기 장애를 전문으로 연구하는 한 팀은 이 틀을 대형 언어 모델에도 쓸 수 있다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "University of South Carolina의 Julius Fridriksson 연구팀은 Patterns에 실린 연구에서 \"언어 모델의 층을 교란\"한 뒤 환자에게 쓰는 임상 검사를 똑같이 해 볼 수 있는지 물었다. 이 연구실은 뇌졸중 환자의 뇌 영상으로 실어증을 연구한다. Fridriksson은 \"LLMs는 실패가 대가를 치르는 상황에 배치되고 있다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "일부러 만든 \"병변\"은 연구팀이 보는 실어증 환자와 비슷한 언어 오류를 냈다. 공동 저자 Roger Newman-Norlund는 모델이 사람처럼 언어·인지·이해 오류를 보인다고 말한다. Fridriksson은 이 접근법이 \"인과관계를 확립한다\"면서도, 논문이 보여 주는 건 실제 구조가 아니라 실패 패턴의 대응이라고 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 병변 기반 해석 가능성이 LLM의 \"블랙박스\"를 열어 불필요한 부분을 찾는 데 쓰이면 더 작고 에너지 효율 높은 모델로 이어질 수 있다고 말한다. 실어증 환자의 \"디지털 트윈\"을 만들어 임상시험을 시뮬레이션할 수도 있다. Fridriksson은 이 틀을 다른 신경 질환으로 넓힐 수 있다고 본다. \"이 접근법이 받아들여져 환자에게 도움이 되는 과학적 발견으로 이어지길 바란다.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "損傷させた言語モデル\n脳卒中型の失語を示す",
-          "body": "大規模言語モデルの層を損傷させると、脳卒中後の人の失語症に似た誤りのパターンが現れた。",
-          "mini_headline": "LLMsに脳卒中型の損傷",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "提供：Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "研究者は150年以上にわたり、損傷が行動の障害をどう引き起こすかを調べることで脳の地図を描いてきた。脳卒中後の言語・発話障害を専門とするチームは、同じ枠組みを大規模言語モデルにも適用できるという。"
-              },
-              {
-                "t": "p",
-                "x": "Patternsに掲載された研究で、University of South CarolinaのJulius Fridriksson率いるチーム（同氏の研究室は脳卒中患者の脳画像を使って失語症を研究している）は、「言語モデルの層をかき乱し」、患者と同じ臨床検査を受けさせられるかを問うた。「LLMsは失敗が重大な結果を招く場面に導入されつつある」とFridrikssonは言う。"
-              },
-              {
-                "t": "p",
-                "x": "意図的に加えた「病変」は、チームが診る失語症患者と似た言語の誤りを生んだ。共著者のRoger Newman-Norlundは、モデルが人間と似た言語・認知・理解の誤りを犯すと述べる。Fridrikssonはこの手法が「因果関係を確立する」とする一方、論文が示すのは実際の構造ではなく失敗パターンの対応だと指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームによれば、病変に基づく解釈可能性はLLMの「ブラックボックス」を開き、冗長な部分を特定する助けとなり、より小さく省エネなモデルにつながりうる。また失語症患者の「デジタルツイン」を作り、臨床試験をシミュレーションすることもできるという。Fridrikssonはこの枠組みが他の神経疾患にも広がりうると考える。「この手法が受け入れられ、患者を助ける科学的発見につながることを願う」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "受损的语言模型\n出现类似中风的失语",
-          "body": "破坏大语言模型的层后，模型出现了类似人类中风后失语症的错误模式。",
-          "mini_headline": "LLMs的类中风损伤",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "图片来源：Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "150多年来，研究人员一直通过研究损伤如何导致行为缺陷来绘制大脑图谱。一支专攻中风后语言和言语障碍的团队表示，同样的框架也可用于大语言模型。"
-              },
-              {
-                "t": "p",
-                "x": "在发表于Patterns的研究中，University of South Carolina的Julius Fridriksson带领团队提出疑问：能否“扰动语言模型中的层”，再让它接受与患者相同的临床测试。他的实验室利用中风患者的脑成像研究失语症。Fridriksson说：“LLMs正被部署在失败会带来后果的场景中。”"
-              },
-              {
-                "t": "p",
-                "x": "刻意引入的“病灶”产生了与团队失语症患者相似的语言错误。共同作者Roger Newman-Norlund表示，这些模型会犯与人类相似的语言、认知和理解错误。Fridriksson称这一方法“确立了因果关系”，同时指出论文展示的是失败模式上的对应，而非实际结构上的对应。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员表示，基于病灶的可解释性有助于打开LLM的“黑箱”，找出冗余部分，从而做出更小、更节能的模型，还可以创建失语症患者的“数字孪生”来模拟临床试验。Fridriksson认为该框架可扩展到其他神经系统疾病：“我希望这种方法能被采纳，用来做出帮助患者的科学发现。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Modelos de lenguaje lesionados\nmuestran afasia similar a ictus",
-          "body": "Dañar capas de grandes modelos de lenguaje produjo patrones de error parecidos a la afasia humana tras un ictus.",
-          "mini_headline": "Daño tipo ictus en LLMs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "Crédito: Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Durante más de 150 años, los investigadores han cartografiado el cerebro estudiando cómo las lesiones causan déficits conductuales. Un equipo especializado en trastornos del lenguaje y del habla tras un ictus afirma que el mismo marco puede aplicarse a los grandes modelos de lenguaje."
-              },
-              {
-                "t": "p",
-                "x": "En un estudio publicado en Patterns, el equipo dirigido por Julius Fridriksson, de la University of South Carolina, cuyo laboratorio estudia la afasia mediante imágenes cerebrales de pacientes con ictus, se preguntó si podía \"perturbar capas del modelo de lenguaje\" y aplicarle las mismas pruebas clínicas que a los pacientes. \"Los LLMs se están desplegando en situaciones donde los fallos tienen consecuencias\", dice Fridriksson."
-              },
-              {
-                "t": "p",
-                "x": "Las \"lesiones\" introducidas deliberadamente produjeron errores de lenguaje parecidos a los de sus pacientes con afasia. El coautor Roger Newman-Norlund señala que los modelos cometen errores de lenguaje, cognición y comprensión similares a los humanos. Fridriksson afirma que el enfoque \"establece causa y efecto\", aunque advierte que el artículo muestra una correspondencia en los patrones de fallo, no en las estructuras reales."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores dicen que la interpretabilidad basada en lesiones podría ayudar a abrir la \"caja negra\" de los LLM e identificar partes redundantes, lo que llevaría a modelos más pequeños y eficientes en energía, y podría crear \"gemelos digitales\" de pacientes con afasia para simular ensayos clínicos. Fridriksson cree que el marco podría extenderse a otras afecciones neurológicas: \"Espero que este enfoque se adopte para hacer descubrimientos científicos que ayuden a los pacientes\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "손상 입힌 언어 모델\n뇌졸중형 실어증 보여",
-          "body": "대형 언어 모델의 층을 손상시키자 뇌졸중 후 실어증과 비슷한 오류가 나타났다.",
-          "mini_headline": "LLMs에 생긴 뇌졸중형 손상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "사진: Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "연구자들은 150년 넘게 손상이 어떻게 행동 결함을 일으키는지 살피며 뇌의 지도를 그려 왔다. 뇌졸중 후 언어·말하기 장애를 전문으로 하는 한 연구팀은 같은 틀을 대형 언어 모델에도 적용할 수 있다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Patterns에 실린 연구에서 University of South Carolina의 Julius Fridriksson이 이끄는 연구팀은 \"언어 모델의 층을 교란\"한 뒤 환자에게 쓰는 것과 같은 임상 검사를 실시할 수 있는지 물었다. 이 연구실은 뇌졸중 환자의 뇌 영상으로 실어증을 연구한다. Fridriksson은 \"LLMs는 실패가 대가를 치르는 상황에 배치되고 있다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "의도적으로 만든 \"병변\"은 연구팀의 실어증 환자들과 비슷한 언어 오류를 낳았다. 공동 저자 Roger Newman-Norlund는 모델이 사람과 비슷한 언어·인지·이해 오류를 낸다고 말한다. Fridriksson은 이 접근법이 \"인과관계를 확립한다\"고 하면서도, 논문이 보여 주는 것은 실제 구조가 아니라 실패 패턴의 대응이라고 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 병변 기반 해석 가능성이 LLM의 \"블랙박스\"를 열고 불필요한 부분을 찾아내는 데 도움이 되어, 더 작고 에너지 효율이 높은 모델로 이어질 수 있다고 말한다. 실어증 환자의 \"디지털 트윈\"을 만들어 임상시험을 시뮬레이션할 수도 있다. Fridriksson은 이 틀이 다른 신경 질환으로도 넓어질 수 있다고 본다. \"이 접근법이 받아들여져 환자에게 도움이 되는 과학적 발견으로 이어지길 바란다.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "損傷させた言語モデル\n脳卒中型の失語を示す",
-          "body": "大規模言語モデルの層を損傷させると、脳卒中後の人の失語症に似た誤りのパターンが現れた。",
-          "mini_headline": "LLMsに脳卒中型の損傷",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "提供：Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "研究者は150年以上にわたり、損傷が行動の障害をどう引き起こすかを調べることで脳の地図を描いてきた。脳卒中後の言語・発話障害を専門とするチームは、同じ枠組みを大規模言語モデルにも適用できるという。"
-              },
-              {
-                "t": "p",
-                "x": "Patternsに掲載された研究で、University of South CarolinaのJulius Fridriksson率いるチーム（同氏の研究室は脳卒中患者の脳画像を使って失語症を研究している）は、「言語モデルの層をかき乱し」、患者と同じ臨床検査を受けさせられるかを問うた。「LLMsは失敗が重大な結果を招く場面に導入されつつある」とFridrikssonは言う。"
-              },
-              {
-                "t": "p",
-                "x": "意図的に加えた「病変」は、チームが診る失語症患者と似た言語の誤りを生んだ。共著者のRoger Newman-Norlundは、モデルが人間と似た言語・認知・理解の誤りを犯すと述べる。Fridrikssonはこの手法が「因果関係を確立する」とする一方、論文が示すのは実際の構造ではなく失敗パターンの対応だと指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームによれば、病変に基づく解釈可能性はLLMの「ブラックボックス」を開き、冗長な部分を特定する助けとなり、より小さく省エネなモデルにつながりうる。また失語症患者の「デジタルツイン」を作り、臨床試験をシミュレーションすることもできるという。Fridrikssonはこの枠組みが他の神経疾患にも広がりうると考える。「この手法が受け入れられ、患者を助ける科学的発見につながることを願う」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "受损的语言模型\n出现类似中风的失语",
-          "body": "破坏大语言模型的层后，模型出现了类似人类中风后失语症的错误模式。",
-          "mini_headline": "LLMs的类中风损伤",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "图片来源：Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "150多年来，研究人员一直通过研究损伤如何导致行为缺陷来绘制大脑图谱。一支专攻中风后语言和言语障碍的团队表示，同样的框架也可用于大语言模型。"
-              },
-              {
-                "t": "p",
-                "x": "在发表于Patterns的研究中，University of South Carolina的Julius Fridriksson带领团队提出疑问：能否“扰动语言模型中的层”，再让它接受与患者相同的临床测试。他的实验室利用中风患者的脑成像研究失语症。Fridriksson说：“LLMs正被部署在失败会带来后果的场景中。”"
-              },
-              {
-                "t": "p",
-                "x": "刻意引入的“病灶”产生了与团队失语症患者相似的语言错误。共同作者Roger Newman-Norlund表示，这些模型会犯与人类相似的语言、认知和理解错误。Fridriksson称这一方法“确立了因果关系”，同时指出论文展示的是失败模式上的对应，而非实际结构上的对应。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员表示，基于病灶的可解释性有助于打开LLM的“黑箱”，找出冗余部分，从而做出更小、更节能的模型，还可以创建失语症患者的“数字孪生”来模拟临床试验。Fridriksson认为该框架可扩展到其他神经系统疾病：“我希望这种方法能被采纳，用来做出帮助患者的科学发现。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Modelos de lenguaje lesionados\nmuestran afasia similar a ictus",
-          "body": "Dañar capas de grandes modelos de lenguaje produjo patrones de error parecidos a la afasia humana tras un ictus.",
-          "mini_headline": "Daño tipo ictus en LLMs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
-                "cap": "Crédito: Pixabay/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Durante más de 150 años, los investigadores han cartografiado el cerebro estudiando cómo las lesiones causan déficits conductuales. Un equipo especializado en trastornos del lenguaje y del habla tras un ictus afirma que el mismo marco puede aplicarse a los grandes modelos de lenguaje."
-              },
-              {
-                "t": "p",
-                "x": "En un estudio publicado en Patterns, el equipo dirigido por Julius Fridriksson, de la University of South Carolina, cuyo laboratorio estudia la afasia mediante imágenes cerebrales de pacientes con ictus, se preguntó si podía \"perturbar capas del modelo de lenguaje\" y aplicarle las mismas pruebas clínicas que a los pacientes. \"Los LLMs se están desplegando en situaciones donde los fallos tienen consecuencias\", dice Fridriksson."
-              },
-              {
-                "t": "p",
-                "x": "Las \"lesiones\" introducidas deliberadamente produjeron errores de lenguaje parecidos a los de sus pacientes con afasia. El coautor Roger Newman-Norlund señala que los modelos cometen errores de lenguaje, cognición y comprensión similares a los humanos. Fridriksson afirma que el enfoque \"establece causa y efecto\", aunque advierte que el artículo muestra una correspondencia en los patrones de fallo, no en las estructuras reales."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores dicen que la interpretabilidad basada en lesiones podría ayudar a abrir la \"caja negra\" de los LLM e identificar partes redundantes, lo que llevaría a modelos más pequeños y eficientes en energía, y podría crear \"gemelos digitales\" de pacientes con afasia para simular ensayos clínicos. Fridriksson cree que el marco podría extenderse a otras afecciones neurológicas: \"Espero que este enfoque se adopte para hacer descubrimientos científicos que ayuden a los pacientes\"."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "maya-vibe-archaeology",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "바이브 고고학 헛발질\n과학계 AI 논쟁 불러",
-      "body": "AI 에이전트가 마야 유적을 찾았다는 주장은 틀렸지만 과학계 AI 논쟁을 낳았다.",
-      "mini_headline": "바이브 고고학 소동",
+      "headline": "Anthropic 수학자\n리만 가설 증명 주장",
+      "body": "Alpöge가 Claude와 함께 167년 묵은 리만 가설 증명을 내놨다.",
+      "mini_headline": "Claude와 함께한 리만 증명",
       "tool": "Science",
       "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-            "cap": "앞서 기록된 고대 마야 유적. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-          },
-          {
-            "t": "p",
-            "x": "AI 연구자 Pietro Miotti는 11월 10일 멕시코에서 지도에 없던 고대 마야 시민 중심지로 보이는 곳을 X에 올렸다. 수십 개의 AI 에이전트를 풀어 공개된 NASA 라이다 데이터를 샅샅이 뒤져 찾았다고 했다. 게시물은 Polymarket 등 여러 계정을 타고 퍼졌고 \"vibe archaeology(바이브 고고학)\"라는 이름으로 화제가 됐다."
-          },
-          {
-            "t": "p",
-            "x": "새로운 발견은 아니었다. 하루도 안 돼 University of Alabama at Birmingham의 Sarah Parcak이 2025년 Tulane의 Francisco Estrada-Belli와 동료들이 이미 기록한 곳이라고 지적했다. Parcak은 \"이래서 동료 심사가 있는 것\"이라며 \"모든 것이 온라인에 있지는 않다\"고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "Estrada-Belli는 \"사람들이 AI로 시민 과학자가 되고 실험해 보려는 건 멋진 일\"이라면서도 \"그런 주장을 내놓기 전에 배경 확인이나 실사도 없이 결과를 맹목적으로 받아들여서는 안 된다고 본다\"고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Miotti는 게시물을 고쳐 해당 조사의 공을 밝혔다. 그는 \"이제는 가설을 가진 한 사람이 밤새 AI 에이전트를 돌려 전문가가 평가할 후보 구조물을 추려낼 수 있다\"면서, 이번 일로 \"문헌 검토, 현장 검증, 그 밖의 더 구체적인 분야 전문성\"이라는 사람의 몫이 드러났다고 덧붙였다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "A Maya site, 'vibe archaeology'\nand a fight over AI in science",
-          "body": "AI agents did not discover the Maya site, yet the viral claim sparked a clash over how AI should be used in science.",
-          "mini_headline": "Vibe archaeology dispute",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "The previously documented ancient Maya site. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "On November 10 AI researcher Pietro Miotti shared on X what appeared to be a previously unmapped ancient Maya civic center in Mexico, found by prompting dozens of AI agents to sift through public NASA lidar data. The post went viral as \"vibe archaeology,\" boosted by accounts including Polymarket."
-              },
-              {
-                "t": "p",
-                "x": "But the site wasn't a new discovery. Less than a day later, Sarah Parcak of the University of Alabama at Birmingham noted it had been documented by Tulane's Francisco Estrada-Belli and colleagues in 2025. \"This is why peer review exists,\" Parcak says. \"Not everything is online.\""
-              },
-              {
-                "t": "p",
-                "x": "“I think it’s great that people want to be citizen scientists using AI and experiment with it,” Estrada-Belli says. “But I think they shouldn’t just blindly take the results without doing some background checks or due diligence before they go out and make a claim like that.”"
-              },
-              {
-                "t": "p",
-                "x": "Miotti corrected his posts to credit the survey. \"Today a single person with a hypothesis can run AI agents overnight to triage candidate structures for experts to evaluate,\" he says, adding that the episode showed the human contribution: \"literature review, field verification and other more specific domain expertise.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "바이브 고고학 헛발질\n과학계 AI 논쟁 불러",
-          "body": "AI 에이전트가 마야 유적을 찾았다는 주장은 틀렸지만 과학계 AI 논쟁을 낳았다.",
-          "mini_headline": "바이브 고고학 소동",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "앞서 기록된 고대 마야 유적. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "AI 연구자 Pietro Miotti는 11월 10일 멕시코에서 지도에 없던 고대 마야 시민 중심지로 보이는 곳을 X에 올렸다. 수십 개의 AI 에이전트를 풀어 공개된 NASA 라이다 데이터를 샅샅이 뒤져 찾았다고 했다. 게시물은 Polymarket 등 여러 계정을 타고 퍼졌고 \"vibe archaeology(바이브 고고학)\"라는 이름으로 화제가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "새로운 발견은 아니었다. 하루도 안 돼 University of Alabama at Birmingham의 Sarah Parcak이 2025년 Tulane의 Francisco Estrada-Belli와 동료들이 이미 기록한 곳이라고 지적했다. Parcak은 \"이래서 동료 심사가 있는 것\"이라며 \"모든 것이 온라인에 있지는 않다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Estrada-Belli는 \"사람들이 AI로 시민 과학자가 되고 실험해 보려는 건 멋진 일\"이라면서도 \"그런 주장을 내놓기 전에 배경 확인이나 실사도 없이 결과를 맹목적으로 받아들여서는 안 된다고 본다\"고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Miotti는 게시물을 고쳐 해당 조사의 공을 밝혔다. 그는 \"이제는 가설을 가진 한 사람이 밤새 AI 에이전트를 돌려 전문가가 평가할 후보 구조물을 추려낼 수 있다\"면서, 이번 일로 \"문헌 검토, 현장 검증, 그 밖의 더 구체적인 분야 전문성\"이라는 사람의 몫이 드러났다고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "マヤ遺跡と「バイブ考古学」\n科学でのAI利用を巡る論争",
-          "body": "マヤ遺跡はAIエージェントの発見ではなかったが、投稿は科学でのAI利用を巡る論争を招いた。",
-          "mini_headline": "バイブ考古学論争",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "以前から記録されていた古代マヤ遺跡。Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "11月10日、AI研究者のPietro Miottiは、メキシコで未記録の古代マヤの市民センターとみられるものをXで公開した。数十のAIエージェントに公開されたNASAのライダーデータを精査させて見つけたという。投稿はPolymarketなどのアカウントに拡散され、「vibe archaeology（バイブ考古学）」として話題になった。"
-              },
-              {
-                "t": "p",
-                "x": "だが、この遺跡は新発見ではなかった。一日もたたないうちに、University of Alabama at BirminghamのSarah Parcakが、2025年にTulaneのFrancisco Estrada-Belliらがすでに記録していたと指摘した。「だからこそ査読がある」とParcakは言う。「すべてがオンラインにあるわけではない」"
-              },
-              {
-                "t": "p",
-                "x": "「人々がAIを使って市民科学者になり、試してみたいと思うのは素晴らしいことだと思う」とEstrada-Belliは言う。「だが、ああした主張を公にする前に、背景の確認や十分な検証をせず、結果を鵜呑みにすべきではないと思う」"
-              },
-              {
-                "t": "p",
-                "x": "Miottiは投稿を訂正し、調査の功績を明記した。「今では仮説を持つ一人の人間が、一晩でAIエージェントを走らせ、専門家が評価する候補構造を選別できる」と述べ、今回の件は「文献調査、現地での検証、その他のより具体的な専門知識」という人間の貢献を示したと付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "玛雅遗址与“氛围考古”\n科学中AI用法之争",
-          "body": "玛雅遗址并非AI智能体所发现，但这一走红的说法引发了科学界如何使用AI的争论。",
-          "mini_headline": "氛围考古之争",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "此前已有记录的古玛雅遗址。Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "11月10日，AI研究者Pietro Miotti在X上分享了墨西哥一处看似此前未被测绘的古玛雅市政中心，称是让数十个AI智能体筛查公开的NASA激光雷达数据后找到的。该帖子在Polymarket等账号的推动下走红，被称为“vibe archaeology”（氛围考古）。"
-              },
-              {
-                "t": "p",
-                "x": "但这处遗址并非新发现。不到一天，University of Alabama at Birmingham的Sarah Parcak就指出，Tulane的Francisco Estrada-Belli及其同事已于2025年记录过该遗址。Parcak说：“这就是同行评审存在的意义。并非所有东西都在网上。”"
-              },
-              {
-                "t": "p",
-                "x": "“我觉得人们想借助AI当公民科学家、做些尝试，这很好，”Estrada-Belli说，“但我认为，在公开提出那样的说法之前，他们不应在没有做背景核查或尽职调查的情况下盲目接受结果。”"
-              },
-              {
-                "t": "p",
-                "x": "Miotti更正了帖子，注明了该调查的功劳。他说：“如今一个有假设的人就能让AI智能体通宵运行，筛选出候选结构供专家评估。”他还表示，这件事显示了人的贡献：“文献综述、实地核实以及其他更具体的领域专长。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sitio maya, 'arqueología vibe'\ny una pugna por la IA en ciencia",
-          "body": "Los agentes de IA no hallaron el sitio maya, pero la afirmación viral abrió un debate sobre el uso científico de la IA.",
-          "mini_headline": "Disputa por la arqueología vibe",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "El antiguo sitio maya ya documentado. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "El 10 de noviembre, el investigador de IA Pietro Miotti compartió en X lo que parecía un antiguo centro cívico maya no cartografiado en México, hallado al pedir a decenas de agentes de IA que revisaran datos lidar públicos de la NASA. La publicación se volvió viral como \"vibe archaeology\" (arqueología vibe), impulsada por cuentas como Polymarket."
-              },
-              {
-                "t": "p",
-                "x": "Pero el sitio no era un descubrimiento nuevo. Menos de un día después, Sarah Parcak, de la University of Alabama at Birmingham, señaló que lo habían documentado Francisco Estrada-Belli, de Tulane, y sus colegas en 2025. \"Para esto existe la revisión por pares\", dice Parcak. \"No todo está en internet\"."
-              },
-              {
-                "t": "p",
-                "x": "“Me parece genial que la gente quiera ser científica ciudadana usando IA y experimentar con ella”, dice Estrada-Belli. “Pero creo que no deberían aceptar los resultados a ciegas sin hacer comprobaciones de contexto o la debida diligencia antes de salir a hacer una afirmación así”."
-              },
-              {
-                "t": "p",
-                "x": "Miotti corrigió sus publicaciones para reconocer el estudio. \"Hoy una sola persona con una hipótesis puede poner a trabajar agentes de IA durante la noche para preseleccionar estructuras candidatas que evalúen los expertos\", afirma, y añade que el episodio mostró la aportación humana: \"revisión bibliográfica, verificación de campo y otros conocimientos especializados más específicos\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "마야 유적과 바이브 고고학\n과학계 AI 활용 논쟁",
-          "body": "AI 에이전트의 마야 유적 발견 주장은 틀렸지만 과학계 AI 논쟁을 불렀다.",
-          "mini_headline": "바이브 고고학 논란",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "앞서 기록된 고대 마야 유적. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "11월 10일 AI 연구자 Pietro Miotti는 멕시코에서 지도에 없던 고대 마야 시민 중심지로 보이는 곳을 X에 공유했다. 수십 개의 AI 에이전트에게 공개된 NASA 라이다 데이터를 샅샅이 살피게 해 찾았다는 것이다. 게시물은 Polymarket 등 여러 계정을 타고 퍼지며 \"vibe archaeology(바이브 고고학)\"로 화제가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "하지만 이 유적은 새로운 발견이 아니었다. 하루도 지나지 않아 University of Alabama at Birmingham의 Sarah Parcak은 이곳을 2025년 Tulane의 Francisco Estrada-Belli와 동료들이 이미 기록했다고 지적했다. Parcak은 \"이래서 동료 심사가 있는 것\"이라며 \"모든 것이 온라인에 있지는 않다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Estrada-Belli는 \"사람들이 AI로 시민 과학자가 되고 실험해 보려는 건 멋진 일\"이라면서도 \"그런 주장을 내놓기 전에 배경 확인이나 실사도 없이 결과를 맹목적으로 받아들여서는 안 된다고 본다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Miotti는 게시물을 고쳐 해당 조사의 공로를 밝혔다. 그는 \"이제는 가설을 가진 한 사람이 밤새 AI 에이전트를 돌려 전문가가 평가할 후보 구조물을 추려낼 수 있다\"며, 이번 일이 \"문헌 검토, 현장 검증, 그 밖의 더 구체적인 분야 전문성\"이라는 인간의 몫을 보여 줬다고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "マヤ遺跡と「バイブ考古学」\n科学でのAI利用を巡る論争",
-          "body": "マヤ遺跡はAIエージェントの発見ではなかったが、投稿は科学でのAI利用を巡る論争を招いた。",
-          "mini_headline": "バイブ考古学論争",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "以前から記録されていた古代マヤ遺跡。Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "11月10日、AI研究者のPietro Miottiは、メキシコで未記録の古代マヤの市民センターとみられるものをXで公開した。数十のAIエージェントに公開されたNASAのライダーデータを精査させて見つけたという。投稿はPolymarketなどのアカウントに拡散され、「vibe archaeology（バイブ考古学）」として話題になった。"
-              },
-              {
-                "t": "p",
-                "x": "だが、この遺跡は新発見ではなかった。一日もたたないうちに、University of Alabama at BirminghamのSarah Parcakが、2025年にTulaneのFrancisco Estrada-Belliらがすでに記録していたと指摘した。「だからこそ査読がある」とParcakは言う。「すべてがオンラインにあるわけではない」"
-              },
-              {
-                "t": "p",
-                "x": "「人々がAIを使って市民科学者になり、試してみたいと思うのは素晴らしいことだと思う」とEstrada-Belliは言う。「だが、ああした主張を公にする前に、背景の確認や十分な検証をせず、結果を鵜呑みにすべきではないと思う」"
-              },
-              {
-                "t": "p",
-                "x": "Miottiは投稿を訂正し、調査の功績を明記した。「今では仮説を持つ一人の人間が、一晩でAIエージェントを走らせ、専門家が評価する候補構造を選別できる」と述べ、今回の件は「文献調査、現地での検証、その他のより具体的な専門知識」という人間の貢献を示したと付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "玛雅遗址与“氛围考古”\n科学中AI用法之争",
-          "body": "玛雅遗址并非AI智能体所发现，但这一走红的说法引发了科学界如何使用AI的争论。",
-          "mini_headline": "氛围考古之争",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "此前已有记录的古玛雅遗址。Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "11月10日，AI研究者Pietro Miotti在X上分享了墨西哥一处看似此前未被测绘的古玛雅市政中心，称是让数十个AI智能体筛查公开的NASA激光雷达数据后找到的。该帖子在Polymarket等账号的推动下走红，被称为“vibe archaeology”（氛围考古）。"
-              },
-              {
-                "t": "p",
-                "x": "但这处遗址并非新发现。不到一天，University of Alabama at Birmingham的Sarah Parcak就指出，Tulane的Francisco Estrada-Belli及其同事已于2025年记录过该遗址。Parcak说：“这就是同行评审存在的意义。并非所有东西都在网上。”"
-              },
-              {
-                "t": "p",
-                "x": "“我觉得人们想借助AI当公民科学家、做些尝试，这很好，”Estrada-Belli说，“但我认为，在公开提出那样的说法之前，他们不应在没有做背景核查或尽职调查的情况下盲目接受结果。”"
-              },
-              {
-                "t": "p",
-                "x": "Miotti更正了帖子，注明了该调查的功劳。他说：“如今一个有假设的人就能让AI智能体通宵运行，筛选出候选结构供专家评估。”他还表示，这件事显示了人的贡献：“文献综述、实地核实以及其他更具体的领域专长。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sitio maya, 'arqueología vibe'\ny una pugna por la IA en ciencia",
-          "body": "Los agentes de IA no hallaron el sitio maya, pero la afirmación viral abrió un debate sobre el uso científico de la IA.",
-          "mini_headline": "Disputa por la arqueología vibe",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200",
-                "cap": "El antiguo sitio maya ya documentado. Estrada-Belli et al., Journal of Archaeological Science: Reports, Vol. 66; October 2025"
-              },
-              {
-                "t": "p",
-                "x": "El 10 de noviembre, el investigador de IA Pietro Miotti compartió en X lo que parecía un antiguo centro cívico maya no cartografiado en México, hallado al pedir a decenas de agentes de IA que revisaran datos lidar públicos de la NASA. La publicación se volvió viral como \"vibe archaeology\" (arqueología vibe), impulsada por cuentas como Polymarket."
-              },
-              {
-                "t": "p",
-                "x": "Pero el sitio no era un descubrimiento nuevo. Menos de un día después, Sarah Parcak, de la University of Alabama at Birmingham, señaló que lo habían documentado Francisco Estrada-Belli, de Tulane, y sus colegas en 2025. \"Para esto existe la revisión por pares\", dice Parcak. \"No todo está en internet\"."
-              },
-              {
-                "t": "p",
-                "x": "“Me parece genial que la gente quiera ser científica ciudadana usando IA y experimentar con ella”, dice Estrada-Belli. “Pero creo que no deberían aceptar los resultados a ciegas sin hacer comprobaciones de contexto o la debida diligencia antes de salir a hacer una afirmación así”."
-              },
-              {
-                "t": "p",
-                "x": "Miotti corrigió sus publicaciones para reconocer el estudio. \"Hoy una sola persona con una hipótesis puede poner a trabajar agentes de IA durante la noche para preseleccionar estructuras candidatas que evalúen los expertos\", afirma, y añade que el episodio mostró la aportación humana: \"revisión bibliográfica, verificación de campo y otros conocimientos especializados más específicos\"."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gpt52-wildlife-species-id",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "GPT-5.2 종 정답률\n10장 중 1장 미만",
-      "body": "iNaturalist 사진 10,000장에서 GPT-5.2 종 정확도는 9.5%다.",
-      "mini_headline": "AI가 야생동물을 헷갈리는 지점",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-            "cap": "Morrocoy 보호구역 카메라 트랩 이미지. AI는 Bassariscus sumichrasti를 제시했고 전문가들은 Metachirus myosuros로 판정했다. 사진: Fundación Sembrandopaz"
-          },
-          {
-            "t": "p",
-            "x": "범용 AI 모델이 콜롬비아 Montes de María의 카메라 트랩에 찍힌 유대류를 Bassariscus sumichrasti로 식별했다. 관찰 장소를 알려 줬는데도 콜롬비아에서는 보고된 적 없는 종을 골랐다. 전문가가 살펴보니 이 동물은 Metachirus myosuros였다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-            "cap": "아르마딜로 Cabassous centralis. 사진: Fundación Sembrandopaz"
-          },
-          {
-            "t": "p",
-            "x": "Gustavo Nicolas Paez Salamanca가 Biodiversity Data Journal에 낸 연구는 콜롬비아 양서류·조류·어류·포유류·파충류의 연구 등급 iNaturalist 사진 10,000장(분류군당 2,000장)으로 OpenAI의 GPT-5.2를 시험했다. 종 수준 정확도는 9.5%에 그쳤다. 포유류와 파충류는 약 17–19%였고 양서류·조류·어류는 5%에도 못 미쳤다."
-          },
-          {
-            "t": "p",
-            "x": "공개 사진이 적은 종이나 2025년에 인정된 호저 Coendou vossi처럼 새로 기재된 종은 더 어려웠다. Paez Salamanca는 \"희귀한 동물이 더 익숙한 동물과 혼동되면 그 존재가 눈에 띄지 않을 수 있다\"고 말한다. 연구는 AI를 첫 단계로만 쓰고 불확실하거나 중요한 기록은 전문가에게 넘기자고 제안한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "GPT-5.2 named the right species\nin under 1 in 10 photos",
-          "body": "Tested on 10,000 iNaturalist photos of Colombian vertebrates, GPT-5.2 reached only 9.5% species-level accuracy.",
-          "mini_headline": "Where AI misreads wildlife",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Camera-trap image from the Morrocoy reserves: AI suggested Bassariscus sumichrasti; experts identified Metachirus myosuros. Credit: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "A general-purpose AI model identified a marsupial caught by a camera trap in Colombia's Montes de María as Bassariscus sumichrasti, a species not known from Colombia, even though it was told where the animal was seen. Expert review confirmed it as Metachirus myosuros."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "Armadillo Cabassous centralis. Credit: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "A study in the Biodiversity Data Journal by Gustavo Nicolas Paez Salamanca tested OpenAI's GPT-5.2 on 10,000 research-grade iNaturalist photos of Colombian amphibians, birds, fishes, mammals and reptiles, 2,000 per group. It reached 9.5% species-level accuracy: about 17–19% for mammals and reptiles, under 5% for amphibians, birds and fishes."
-              },
-              {
-                "t": "p",
-                "x": "Species with fewer public photos and recently described species, such as the porcupine Coendou vossi, recognized in 2025, were harder. \"If a rare animal is confused with a more familiar one, its presence might go unnoticed,\" Paez Salamanca says. The study proposes AI as a first step, with uncertain or high-stakes records sent to specialists."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "GPT-5.2 종 정답률\n10장 중 1장 미만",
-          "body": "iNaturalist 사진 10,000장에서 GPT-5.2 종 정확도는 9.5%다.",
-          "mini_headline": "AI가 야생동물을 헷갈리는 지점",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Morrocoy 보호구역 카메라 트랩 이미지. AI는 Bassariscus sumichrasti를 제시했고 전문가들은 Metachirus myosuros로 판정했다. 사진: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "범용 AI 모델이 콜롬비아 Montes de María의 카메라 트랩에 찍힌 유대류를 Bassariscus sumichrasti로 식별했다. 관찰 장소를 알려 줬는데도 콜롬비아에서는 보고된 적 없는 종을 골랐다. 전문가가 살펴보니 이 동물은 Metachirus myosuros였다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "아르마딜로 Cabassous centralis. 사진: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Nicolas Paez Salamanca가 Biodiversity Data Journal에 낸 연구는 콜롬비아 양서류·조류·어류·포유류·파충류의 연구 등급 iNaturalist 사진 10,000장(분류군당 2,000장)으로 OpenAI의 GPT-5.2를 시험했다. 종 수준 정확도는 9.5%에 그쳤다. 포유류와 파충류는 약 17–19%였고 양서류·조류·어류는 5%에도 못 미쳤다."
-              },
-              {
-                "t": "p",
-                "x": "공개 사진이 적은 종이나 2025년에 인정된 호저 Coendou vossi처럼 새로 기재된 종은 더 어려웠다. Paez Salamanca는 \"희귀한 동물이 더 익숙한 동물과 혼동되면 그 존재가 눈에 띄지 않을 수 있다\"고 말한다. 연구는 AI를 첫 단계로만 쓰고 불확실하거나 중요한 기록은 전문가에게 넘기자고 제안한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GPT-5.2の種判定\n正解は10枚に1枚未満",
-          "body": "GPT-5.2の種の正答率は、iNaturalist写真10,000枚で9.5%だった。",
-          "mini_headline": "AIが野生動物を見誤るとき",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Morrocoy保護区のカメラトラップ画像：AIはBassariscus sumichrastiと提示し、専門家はMetachirus myosurosと同定した。提供：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "汎用AIモデルは、コロンビアのMontes de Maríaでカメラトラップに写った有袋類を、目撃場所を伝えられていたにもかかわらず、コロンビアでは知られていない種Bassariscus sumichrastiと同定した。専門家による確認で、Metachirus myosurosと確定した。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "アルマジロCabassous centralis。提供：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Nicolas Paez SalamancaがBiodiversity Data Journalに発表した研究は、OpenAIのGPT-5.2を、コロンビアの両生類、鳥類、魚類、哺乳類、爬虫類の研究グレードのiNaturalist写真10,000枚（各グループ2,000枚）で検証した。種レベルの正答率は9.5%で、哺乳類と爬虫類は約17–19%、両生類、鳥類、魚類は5%未満だった。"
-              },
-              {
-                "t": "p",
-                "x": "公開写真が少ない種や、2025年に認められたヤマアラシCoendou vossiのように最近記載された種は、より難しかった。「希少な動物がよりなじみのある動物と混同されると、その存在が見過ごされるおそれがある」とPaez Salamancaは言う。研究は、AIを最初のステップとし、不確かな記録や重要度の高い記録は専門家に回すことを提案している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "GPT-5.2识别物种\n正确率不到十分之一",
-          "body": "GPT-5.2在10,000张iNaturalist脊椎动物照片上物种准确率仅9.5%。",
-          "mini_headline": "AI误认野生动物之处",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Morrocoy保护区的相机陷阱图像：AI给出的是Bassariscus sumichrasti，专家鉴定为Metachirus myosuros。图片来源：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "一个通用AI模型把哥伦比亚Montes de María相机陷阱拍到的一只有袋动物识别为Bassariscus sumichrasti，这是一个在哥伦比亚并无记录的物种，尽管模型已被告知该动物的发现地点。专家复核确认它是Metachirus myosuros。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "犰狳Cabassous centralis。图片来源：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Nicolas Paez Salamanca发表在Biodiversity Data Journal上的研究，用10,000张研究级iNaturalist照片测试了OpenAI的GPT-5.2，照片涵盖哥伦比亚的两栖类、鸟类、鱼类、哺乳类和爬行类，每类2,000张。其物种级准确率为9.5%：哺乳类和爬行类约为17–19%，两栖类、鸟类和鱼类不到5%。"
-              },
-              {
-                "t": "p",
-                "x": "公开照片较少的物种以及新近描述的物种更难识别，例如2025年才被确认的豪猪Coendou vossi。Paez Salamanca说：“如果一种稀有动物被误认为更常见的动物，它的存在可能就会被忽视。”研究建议把AI作为第一步，将不确定或高风险的记录交给专家。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "GPT-5.2 acertó la especie\nen menos de 1 de cada 10 fotos",
-          "body": "En 10.000 fotos de iNaturalist de vertebrados colombianos, GPT-5.2 solo alcanzó un 9,5% de precisión por especie.",
-          "mini_headline": "Dónde la IA confunde la fauna",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Imagen de cámara trampa de las reservas de Morrocoy: la IA sugirió Bassariscus sumichrasti; los expertos identificaron Metachirus myosuros. Crédito: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Un modelo de IA de uso general identificó un marsupial captado por una cámara trampa en los Montes de María, en Colombia, como Bassariscus sumichrasti, una especie no registrada en Colombia, pese a que se le indicó dónde se había visto al animal. La revisión de expertos confirmó que era Metachirus myosuros."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "Armadillo Cabassous centralis. Crédito: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio de Gustavo Nicolas Paez Salamanca en el Biodiversity Data Journal puso a prueba el GPT-5.2 de OpenAI con 10.000 fotos de grado de investigación de iNaturalist de anfibios, aves, peces, mamíferos y reptiles de Colombia, 2.000 por grupo. Alcanzó un 9,5% de precisión a nivel de especie: alrededor del 17–19% en mamíferos y reptiles, y menos del 5% en anfibios, aves y peces."
-              },
-              {
-                "t": "p",
-                "x": "Las especies con menos fotos públicas y las descritas recientemente, como el puercoespín Coendou vossi, reconocido en 2025, resultaron más difíciles. \"Si un animal raro se confunde con uno más conocido, su presencia podría pasar inadvertida\", dice Paez Salamanca. El estudio propone usar la IA como primer paso y enviar a especialistas los registros dudosos o de alto riesgo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "GPT-5.2 종 정답률\n10장 중 1장 미만",
-          "body": "GPT-5.2의 iNaturalist 사진 10,000장 종 정확도는 9.5%다.",
-          "mini_headline": "AI가 야생동물을 잘못 읽는 곳",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Morrocoy 보호구역의 카메라 트랩 이미지: AI는 Bassariscus sumichrasti를 제시했고, 전문가들은 Metachirus myosuros로 판정했다. 사진: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "범용 AI 모델이 콜롬비아 Montes de María에서 카메라 트랩에 찍힌 유대류를 Bassariscus sumichrasti로 식별했다. 동물이 관찰된 장소를 알려 줬는데도 콜롬비아에서는 알려지지 않은 종을 고른 것이다. 전문가 검토 결과 이 동물은 Metachirus myosuros로 확인됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "아르마딜로 Cabassous centralis. 사진: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Nicolas Paez Salamanca가 Biodiversity Data Journal에 발표한 연구는 OpenAI의 GPT-5.2를 콜롬비아 양서류·조류·어류·포유류·파충류의 연구 등급 iNaturalist 사진 10,000장(분류군당 2,000장)으로 시험했다. 종 수준 정확도는 9.5%였다. 포유류와 파충류는 약 17–19%, 양서류·조류·어류는 5% 미만이었다."
-              },
-              {
-                "t": "p",
-                "x": "공개 사진이 적은 종이나 2025년에 인정된 호저 Coendou vossi처럼 최근 기재된 종은 더 어려웠다. Paez Salamanca는 \"희귀한 동물이 더 익숙한 동물과 혼동되면 그 존재가 눈에 띄지 않을 수 있다\"고 말한다. 연구는 AI를 첫 단계로 쓰고, 불확실하거나 중요도가 높은 기록은 전문가에게 넘기자고 제안한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GPT-5.2の種判定\n正解は10枚に1枚未満",
-          "body": "GPT-5.2の種の正答率は、iNaturalist写真10,000枚で9.5%だった。",
-          "mini_headline": "AIが野生動物を見誤るとき",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Morrocoy保護区のカメラトラップ画像：AIはBassariscus sumichrastiと提示し、専門家はMetachirus myosurosと同定した。提供：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "汎用AIモデルは、コロンビアのMontes de Maríaでカメラトラップに写った有袋類を、目撃場所を伝えられていたにもかかわらず、コロンビアでは知られていない種Bassariscus sumichrastiと同定した。専門家による確認で、Metachirus myosurosと確定した。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "アルマジロCabassous centralis。提供：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Nicolas Paez SalamancaがBiodiversity Data Journalに発表した研究は、OpenAIのGPT-5.2を、コロンビアの両生類、鳥類、魚類、哺乳類、爬虫類の研究グレードのiNaturalist写真10,000枚（各グループ2,000枚）で検証した。種レベルの正答率は9.5%で、哺乳類と爬虫類は約17–19%、両生類、鳥類、魚類は5%未満だった。"
-              },
-              {
-                "t": "p",
-                "x": "公開写真が少ない種や、2025年に認められたヤマアラシCoendou vossiのように最近記載された種は、より難しかった。「希少な動物がよりなじみのある動物と混同されると、その存在が見過ごされるおそれがある」とPaez Salamancaは言う。研究は、AIを最初のステップとし、不確かな記録や重要度の高い記録は専門家に回すことを提案している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "GPT-5.2识别物种\n正确率不到十分之一",
-          "body": "GPT-5.2在10,000张iNaturalist脊椎动物照片上物种准确率仅9.5%。",
-          "mini_headline": "AI误认野生动物之处",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Morrocoy保护区的相机陷阱图像：AI给出的是Bassariscus sumichrasti，专家鉴定为Metachirus myosuros。图片来源：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "一个通用AI模型把哥伦比亚Montes de María相机陷阱拍到的一只有袋动物识别为Bassariscus sumichrasti，这是一个在哥伦比亚并无记录的物种，尽管模型已被告知该动物的发现地点。专家复核确认它是Metachirus myosuros。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "犰狳Cabassous centralis。图片来源：Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Gustavo Nicolas Paez Salamanca发表在Biodiversity Data Journal上的研究，用10,000张研究级iNaturalist照片测试了OpenAI的GPT-5.2，照片涵盖哥伦比亚的两栖类、鸟类、鱼类、哺乳类和爬行类，每类2,000张。其物种级准确率为9.5%：哺乳类和爬行类约为17–19%，两栖类、鸟类和鱼类不到5%。"
-              },
-              {
-                "t": "p",
-                "x": "公开照片较少的物种以及新近描述的物种更难识别，例如2025年才被确认的豪猪Coendou vossi。Paez Salamanca说：“如果一种稀有动物被误认为更常见的动物，它的存在可能就会被忽视。”研究建议把AI作为第一步，将不确定或高风险的记录交给专家。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "GPT-5.2 acertó la especie\nen menos de 1 de cada 10 fotos",
-          "body": "En 10.000 fotos de iNaturalist de vertebrados colombianos, GPT-5.2 solo alcanzó un 9,5% de precisión por especie.",
-          "mini_headline": "Dónde la IA confunde la fauna",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg",
-                "cap": "Imagen de cámara trampa de las reservas de Morrocoy: la IA sugirió Bassariscus sumichrasti; los expertos identificaron Metachirus myosuros. Crédito: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Un modelo de IA de uso general identificó un marsupial captado por una cámara trampa en los Montes de María, en Colombia, como Bassariscus sumichrasti, una especie no registrada en Colombia, pese a que se le indicó dónde se había visto al animal. La revisión de expertos confirmó que era Metachirus myosuros."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies-1.jpg",
-                "cap": "Armadillo Cabassous centralis. Crédito: Fundación Sembrandopaz"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio de Gustavo Nicolas Paez Salamanca en el Biodiversity Data Journal puso a prueba el GPT-5.2 de OpenAI con 10.000 fotos de grado de investigación de iNaturalist de anfibios, aves, peces, mamíferos y reptiles de Colombia, 2.000 por grupo. Alcanzó un 9,5% de precisión a nivel de especie: alrededor del 17–19% en mamíferos y reptiles, y menos del 5% en anfibios, aves y peces."
-              },
-              {
-                "t": "p",
-                "x": "Las especies con menos fotos públicas y las descritas recientemente, como el puercoespín Coendou vossi, reconocido en 2025, resultaron más difíciles. \"Si un animal raro se confunde con uno más conocido, su presencia podría pasar inadvertida\", dice Paez Salamanca. El estudio propone usar la IA como primer paso y enviar a especialistas los registros dudosos o de alto riesgo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ai2-asta-theorizer",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Ai2, Asta에\nTheorizer 추가",
-      "body": "Theorizer는 논문 결과로 후보 이론을 세우고 주장마다 근거 논문을 단다.",
-      "mini_headline": "Asta에 들어간 Theorizer",
-      "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/theorizer-in-asta",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -995,233 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+            "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+            "cap": "보라색 디지털 콘셉트로 표현한 수학 방정식"
           },
           {
             "t": "p",
-            "x": "Ai2가 과학 연구용 AI 에이전트 플랫폼 Asta에 Theorizer를 내놓고 코드도 오픈소스로 공개한다. Theorizer는 문헌을 검색한 뒤 논문마다 무엇을 뽑을지 템플릿을 만들고, 결과를 비교해 이론을 세운 다음 각 주장을 근거 논문과 잇는다."
+            "x": "인공지능 기업 Anthropic에서 일하는 수학자 Levent Alpöge가 금요일 LLM으로 수학에서 가장 유명한 문제를 증명했다고 주장했다. Alpöge는 웹사이트에 올린 성명에 “Claude와 함께 작업하며 리만 가설의 증명을 발견했다고 믿는다”고 썼다."
           },
           {
             "t": "p",
-            "x": "Providence Swedish Cancer Institute의 Dr. Sid Devarakonda는 이를 \"드라이버 음성(driver-negative)\" 폐선암에 써 봤다. 첫 이론들을 검토하던 순간을 그는 이렇게 떠올렸다. \"잠깐, 이건 정확히 내 생각과 같다. 이렇게 생각하기까지 나는 15년이 걸렸다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-            "cap": "알려진 유전적 드라이버 없이 자라는 폐선암을 설명하는 가능한 가설 세 가지."
+            "x": "리만 가설은 1859년 수학자 베른하르트 리만(Bernhard Riemann)이 처음 제기했다. 클레이 수학연구소(Clay Mathematics Institute)가 상금 백만 달러를 내건 몇 안 되는 미해결 문제이기도 하다."
           },
           {
             "t": "p",
-            "x": "Allen Institute의 Jérôme Lecoq는 한두 개를 예상했지만 Theorizer는 VIP 사이신경세포에 관한 후보 이론을 50개 내놓았다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-            "cap": "페루에서 최대 이슬점이 35°C를 넘은 셀. 그림: Piero Palacios, CIP."
+            "x": "Alpöge는 Claude가 Lean으로 작성한 증명을 공개했다. Lean은 논증 하나하나의 수학적 정확성을 검증하는 프로그래밍 언어다. 그는 이 증명이 “일반화된 리만 가설”을 확인한다고 말한다. 발표는 Anthropic이 증시에 기록적으로 데뷔한 지 하루 만에 나왔다."
           },
           {
             "t": "p",
-            "x": "International Potato Center에서는 틀렸지만 검증할 수 있는 설명 하나가 연구자들을 비현실적인 이슬점의 진짜 원인으로 이끌었다. Ai2는 Theorizer가 관련 연구를 놓치거나 독창성을 잘못 판단할 수 있다고 경고한다."
+            "x": "칠레 가톨릭대학교의 Hector Pasten은 “증명이 옳고 제대로 이해된다면, 연결이 부분적이었던 수학의 여러 분야 사이의 사전이 완성된다”며 “일종의 로제타석”이라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "MIT 수학자 Andrew Sutherland는 Alpöge의 결과를 Lean으로 따로 컴파일해 본 뒤 “참으로 역사적인 순간”이라며 “증명의 수학적 세부를 이해하려면 해야 할 일이 많다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ai2 adds Theorizer\nto its Asta science agent",
-          "body": "Theorizer extracts findings from papers and synthesizes candidate theories, linking every claim to supporting studies.",
-          "mini_headline": "Theorizer joins Asta",
+          "headline": "Anthropic mathematician claims\na Riemann hypothesis proof",
+          "body": "Levent Alpöge announced a Claude-assisted proof of the 167-year-old Riemann hypothesis, long thought out of reach.",
+          "mini_headline": "Claude-assisted Riemann proof",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "Math equations with purple digital concept"
               },
               {
                 "t": "p",
-                "x": "Ai2 is launching Theorizer in Asta, its platform of AI agents for scientific research, and open-sourcing the code. Theorizer searches the literature, creates a template of what to extract from each paper, and compares findings to generate theories, linking claims to the papers behind them."
+                "x": "Levent Alpöge, a mathematician and employee at artificial intelligence company Anthropic, claimed on Friday to have proven the most famous problem in all of mathematics using an LLM. “I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Alpöge wrote in a statement posted on his website."
               },
               {
                 "t": "p",
-                "x": "Dr. Sid Devarakonda of Providence Swedish Cancer Institute used it on \"driver-negative\" lung adenocarcinoma. Reviewing its first theories, he recalled: \"Wait a second, this is exactly what I think. And it took me 15 years to think like this.\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "Three possible explanations for growth in lung adenocarcinomas without a recognized genetic driver."
+                "x": "The Riemann hypothesis was first proposed in 1859 by the mathematician Bernhard Riemann. It is one of the few open problems on which the Clay Mathematics Institute has placed a million-dollar bounty."
               },
               {
                 "t": "p",
-                "x": "For the Allen Institute's Jérôme Lecoq, Theorizer returned 50 candidate theories about VIP interneurons, compared with the one or two he had expected."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "Cells where the maximum dew point exceeded 35°C in Peru. Figure: Piero Palacios, CIP."
+                "x": "Alpöge posted his Claude proof coded in the programming language Lean, which verifies the mathematical correctness of each argument. He says it confirms the “Generalized Riemann Hypothesis.” The announcement comes just a day after Anthropic's record-breaking debut on the stock market."
               },
               {
                 "t": "p",
-                "x": "At the International Potato Center, a wrong but testable explanation led researchers to the real source of implausible dew points. Ai2 cautions that Theorizer can miss relevant studies and misjudge originality."
+                "x": "“If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial,” says Hector Pasten of the Pontifical Catholic University of Chile. “Something like a Rosetta Stone.”"
+              },
+              {
+                "t": "p",
+                "x": "“This is indeed an historic moment,” said MIT mathematician Andrew Sutherland after he had independently compiled Alpöge’s result in Lean. “There is much work to be done to understand the mathematical details of the proof.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ai2, Asta에\nTheorizer 추가",
-          "body": "Theorizer는 논문 결과로 후보 이론을 세우고 주장마다 근거 논문을 단다.",
-          "mini_headline": "Asta에 들어간 Theorizer",
+          "headline": "Anthropic 수학자\n리만 가설 증명 주장",
+          "body": "Alpöge가 Claude와 함께 167년 묵은 리만 가설 증명을 내놨다.",
+          "mini_headline": "Claude와 함께한 리만 증명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "보라색 디지털 콘셉트로 표현한 수학 방정식"
               },
               {
                 "t": "p",
-                "x": "Ai2가 과학 연구용 AI 에이전트 플랫폼 Asta에 Theorizer를 내놓고 코드도 오픈소스로 공개한다. Theorizer는 문헌을 검색한 뒤 논문마다 무엇을 뽑을지 템플릿을 만들고, 결과를 비교해 이론을 세운 다음 각 주장을 근거 논문과 잇는다."
+                "x": "인공지능 기업 Anthropic에서 일하는 수학자 Levent Alpöge가 금요일 LLM으로 수학에서 가장 유명한 문제를 증명했다고 주장했다. Alpöge는 웹사이트에 올린 성명에 “Claude와 함께 작업하며 리만 가설의 증명을 발견했다고 믿는다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "Providence Swedish Cancer Institute의 Dr. Sid Devarakonda는 이를 \"드라이버 음성(driver-negative)\" 폐선암에 써 봤다. 첫 이론들을 검토하던 순간을 그는 이렇게 떠올렸다. \"잠깐, 이건 정확히 내 생각과 같다. 이렇게 생각하기까지 나는 15년이 걸렸다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "알려진 유전적 드라이버 없이 자라는 폐선암을 설명하는 가능한 가설 세 가지."
+                "x": "리만 가설은 1859년 수학자 베른하르트 리만(Bernhard Riemann)이 처음 제기했다. 클레이 수학연구소(Clay Mathematics Institute)가 상금 백만 달러를 내건 몇 안 되는 미해결 문제이기도 하다."
               },
               {
                 "t": "p",
-                "x": "Allen Institute의 Jérôme Lecoq는 한두 개를 예상했지만 Theorizer는 VIP 사이신경세포에 관한 후보 이론을 50개 내놓았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "페루에서 최대 이슬점이 35°C를 넘은 셀. 그림: Piero Palacios, CIP."
+                "x": "Alpöge는 Claude가 Lean으로 작성한 증명을 공개했다. Lean은 논증 하나하나의 수학적 정확성을 검증하는 프로그래밍 언어다. 그는 이 증명이 “일반화된 리만 가설”을 확인한다고 말한다. 발표는 Anthropic이 증시에 기록적으로 데뷔한 지 하루 만에 나왔다."
               },
               {
                 "t": "p",
-                "x": "International Potato Center에서는 틀렸지만 검증할 수 있는 설명 하나가 연구자들을 비현실적인 이슬점의 진짜 원인으로 이끌었다. Ai2는 Theorizer가 관련 연구를 놓치거나 독창성을 잘못 판단할 수 있다고 경고한다."
+                "x": "칠레 가톨릭대학교의 Hector Pasten은 “증명이 옳고 제대로 이해된다면, 연결이 부분적이었던 수학의 여러 분야 사이의 사전이 완성된다”며 “일종의 로제타석”이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "MIT 수학자 Andrew Sutherland는 Alpöge의 결과를 Lean으로 따로 컴파일해 본 뒤 “참으로 역사적인 순간”이라며 “증명의 수학적 세부를 이해하려면 해야 할 일이 많다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2、Astaに\nTheorizerを追加",
-          "body": "Theorizerは論文の知見から候補理論を合成し、各主張を根拠の研究に結び付ける。",
-          "mini_headline": "TheorizerがAstaに加わる",
+          "headline": "Anthropicの数学者\nリーマン予想の証明を主張",
+          "body": "AlpögeがClaudeの助けで167年来のリーマン予想の証明を発表した。",
+          "mini_headline": "Claude支援のリーマン証明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "紫色のデジタルコンセプトを背景にした数式"
               },
               {
                 "t": "p",
-                "x": "Ai2は、科学研究向けAIエージェントのプラットフォームAstaでTheorizerを公開し、コードもオープンソース化する。Theorizerは文献を検索し、各論文から何を抽出するかのテンプレートを作成したうえで知見を比較して理論を生成し、各主張を根拠となる論文に結び付ける。"
+                "x": "人工知能企業Anthropicの社員で数学者のLevent Alpögeは金曜日、LLMを使って数学全体で最も有名な問題を証明したと主張した。Alpögeは自身のウェブサイトに掲載した声明で「Claudeと協力して、リーマン予想の証明を発見したと考えている」と記した。"
               },
               {
                 "t": "p",
-                "x": "Providence Swedish Cancer InstituteのDr. Sid Devarakondaは、「driver-negative（ドライバー陰性）」の肺腺がんにこれを用いた。最初の理論を検討したときのことを、彼はこう振り返る。「ちょっと待て、これはまさに自分の考えだ。こう考えられるようになるまで15年かかったのに」"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "既知の遺伝的ドライバーを持たない肺腺がんの増殖を説明する三つの可能性。"
+                "x": "リーマン予想は1859年に数学者ベルンハルト・リーマンが初めて提唱した。クレイ数学研究所が百万ドルの懸賞金をかけた数少ない未解決問題の一つである。"
               },
               {
                 "t": "p",
-                "x": "Allen InstituteのJérôme Lecoqに対し、Theorizerは本人が予想していた一つか二つではなく、VIP介在ニューロンに関する50の候補理論を返した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "ペルーで最大露点が35°Cを超えたセル。図：Piero Palacios, CIP."
+                "x": "Alpögeは、各議論の数学的な正しさを検証するプログラミング言語Leanで記述したClaudeによる証明を公開した。彼によれば、この証明は「一般化リーマン予想」を確かめるものだという。発表は、Anthropicが株式市場で記録的なデビューを果たしたわずか一日後のことだった。"
               },
               {
                 "t": "p",
-                "x": "International Potato Centerでは、誤っているが検証可能な説明が、あり得ない露点の本当の原因へと研究者を導いた。Ai2は、Theorizerが関連研究を見落としたり、新規性を見誤ったりする可能性があると注意を促している。"
+                "x": "チリ・カトリック大学のHector Pastenは「証明が正しく、理解されれば、つながりが部分的でしかなかった数学の異なる分野の間の辞書が完成する」と述べ、「ロゼッタ・ストーンのようなものだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "MITの数学者Andrew SutherlandはAlpögeの結果をLeanで独自にコンパイルした後、「これはまさに歴史的な瞬間だ」と述べ、「証明の数学的な詳細を理解するには、なすべきことが多く残っている」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2为Asta科学智能体\n新增Theorizer",
-          "body": "Theorizer从论文中提取发现并综合出候选理论，每项主张都关联到支持它的研究。",
-          "mini_headline": "Theorizer加入Asta",
+          "headline": "Anthropic数学家\n宣称证明黎曼猜想",
+          "body": "Levent Alpöge宣布借助Claude证明了已有167年历史的黎曼猜想。",
+          "mini_headline": "Claude辅助的黎曼证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "带有紫色数字概念的数学方程"
               },
               {
                 "t": "p",
-                "x": "Ai2在其面向科学研究的AI智能体平台Asta中推出Theorizer，并开源代码。Theorizer会检索文献，为每篇论文制定提取内容的模板，再比较各项发现以生成理论，并把各项主张与其依据的论文关联起来。"
+                "x": "人工智能公司Anthropic的员工、数学家Levent Alpöge周五宣称，他借助LLM证明了整个数学领域最著名的问题。Alpöge在其个人网站发布的声明中写道：“我相信，我与Claude合作，发现了黎曼猜想的证明。”"
               },
               {
                 "t": "p",
-                "x": "Providence Swedish Cancer Institute的Dr. Sid Devarakonda将其用于“驱动基因阴性”（driver-negative）肺腺癌。回顾最初的几条理论时，他说：“等一下，这正是我的想法。而我花了15年才学会这样思考。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "对缺乏已知遗传驱动因素的肺腺癌生长的三种可能解释。"
+                "x": "黎曼猜想由数学家伯恩哈德·黎曼于1859年首次提出。它是克雷数学研究所悬赏百万美元的少数几个未解问题之一。"
               },
               {
                 "t": "p",
-                "x": "对于Allen Institute的Jérôme Lecoq，Theorizer给出了50个关于VIP中间神经元的候选理论，而他原本只预期一两个。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "秘鲁最大露点超过35°C的网格单元。图：Piero Palacios，CIP。"
+                "x": "Alpöge公布了用编程语言Lean编写的Claude证明，Lean可以验证每一步论证的数学正确性。他表示，该证明确认了“广义黎曼猜想”。此次宣布距Anthropic在股市创纪录上市仅过去一天。"
               },
               {
                 "t": "p",
-                "x": "在International Potato Center，一个错误但可检验的解释引导研究人员找到了离谱露点数据的真正来源。Ai2提醒，Theorizer可能遗漏相关研究，也可能误判原创性。"
+                "x": "智利天主教大学的Hector Pasten表示：“如果这个证明正确并被理解，它将补全数学不同分支之间原本只有部分联系的一部词典。”“有点像罗塞塔石碑。”"
+              },
+              {
+                "t": "p",
+                "x": "MIT数学家Andrew Sutherland在用Lean独立编译了Alpöge的结果后说：“这确实是一个历史性时刻。”“要理解该证明的数学细节，还有大量工作要做。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 suma Theorizer\na su agente científico Asta",
-          "body": "Theorizer extrae hallazgos de artículos, sintetiza teorías candidatas y vincula cada afirmación a estudios de apoyo.",
-          "mini_headline": "Theorizer llega a Asta",
+          "headline": "Matemático de Anthropic afirma\nprobar la hipótesis de Riemann",
+          "body": "Levent Alpöge anunció una prueba asistida por Claude de la hipótesis de Riemann, abierta desde hace 167 años.",
+          "mini_headline": "Prueba de Riemann asistida por Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "Ecuaciones matemáticas con un concepto digital en tono morado"
               },
               {
                 "t": "p",
-                "x": "Ai2 lanza Theorizer en Asta, su plataforma de agentes de IA para la investigación científica, y libera su código. Theorizer busca en la literatura, crea una plantilla de lo que debe extraer de cada artículo y compara los hallazgos para generar teorías, vinculando cada afirmación con los artículos que la sustentan."
+                "x": "Levent Alpöge, matemático y empleado de la empresa de inteligencia artificial Anthropic, afirmó el viernes haber demostrado el problema más famoso de todas las matemáticas con ayuda de un LLM. «Creo que, trabajando con Claude, he descubierto una demostración de la hipótesis de Riemann», escribió Alpöge en un comunicado publicado en su sitio web."
               },
               {
                 "t": "p",
-                "x": "El Dr. Sid Devarakonda, del Providence Swedish Cancer Institute, lo usó con el adenocarcinoma de pulmón \"sin mutación impulsora\" (\"driver-negative\"). Al revisar sus primeras teorías, recordó: \"Un momento, esto es exactamente lo que pienso. Y me llevó 15 años pensar así\"."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "Tres posibles explicaciones del crecimiento de adenocarcinomas de pulmón sin un impulsor genético reconocido."
+                "x": "La hipótesis de Riemann fue propuesta por primera vez en 1859 por el matemático Bernhard Riemann. Es uno de los pocos problemas abiertos por los que el Clay Mathematics Institute ofrece una recompensa de un millón de dólares."
               },
               {
                 "t": "p",
-                "x": "Para Jérôme Lecoq, del Allen Institute, Theorizer devolvió 50 teorías candidatas sobre las interneuronas VIP, frente a las una o dos que esperaba."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "Celdas donde el punto de rocío máximo superó los 35 °C en Perú. Figura: Piero Palacios, CIP."
+                "x": "Alpöge publicó su demostración hecha con Claude y codificada en el lenguaje de programación Lean, que verifica la corrección matemática de cada argumento. Según él, confirma la «hipótesis de Riemann generalizada». El anuncio llega apenas un día después del debut bursátil récord de Anthropic."
               },
               {
                 "t": "p",
-                "x": "En el International Potato Center, una explicación errónea pero comprobable llevó a los investigadores a la fuente real de unos puntos de rocío inverosímiles. Ai2 advierte que Theorizer puede pasar por alto estudios relevantes y juzgar mal la originalidad."
+                "x": "«Si la demostración es correcta y se comprende, completa un diccionario entre distintas ramas de las matemáticas cuyas conexiones eran solo parciales», dice Hector Pasten, de la Pontificia Universidad Católica de Chile. «Algo así como una piedra de Rosetta»."
+              },
+              {
+                "t": "p",
+                "x": "«Este es sin duda un momento histórico», dijo el matemático del MIT Andrew Sutherland tras compilar de forma independiente el resultado de Alpöge en Lean. «Queda mucho trabajo por hacer para entender los detalles matemáticos de la demostración»."
               }
             ]
           }
@@ -1229,161 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ai2, Asta에\nTheorizer 추가",
-          "body": "Theorizer는 논문 결과로 후보 이론을 세우고 주장마다 근거 연구를 붙인다.",
-          "mini_headline": "Asta에 합류한 Theorizer",
+          "headline": "Anthropic 수학자\n리만 가설 증명 주장",
+          "body": "Alpöge가 Claude의 도움으로 167년 된 리만 가설 증명을 발표했다.",
+          "mini_headline": "Claude와 함께한 리만 증명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "보라색 디지털 콘셉트의 수학 방정식"
               },
               {
                 "t": "p",
-                "x": "Ai2가 과학 연구용 AI 에이전트 플랫폼 Asta에 Theorizer를 내놓고 코드를 오픈소스로 공개한다. Theorizer는 문헌을 검색하고 각 논문에서 무엇을 추출할지 템플릿을 만든 뒤, 결과를 비교해 이론을 생성하고 각 주장을 근거가 된 논문과 연결한다."
+                "x": "인공지능 기업 Anthropic의 수학자이자 직원인 Levent Alpöge는 금요일, LLM을 활용해 수학 전체에서 가장 유명한 문제를 증명했다고 주장했다. Alpöge는 자신의 웹사이트에 올린 성명에서 “Claude와 함께 작업하며 리만 가설의 증명을 발견했다고 믿는다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "Providence Swedish Cancer Institute의 Dr. Sid Devarakonda는 이를 \"드라이버 음성(driver-negative)\" 폐선암에 적용했다. 그는 첫 이론들을 검토하던 순간을 이렇게 떠올렸다. \"잠깐, 이건 정확히 내 생각과 같다. 이렇게 생각하기까지 나는 15년이 걸렸다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "알려진 유전적 드라이버가 없는 폐선암의 성장을 설명하는 세 가지 가능한 가설."
+                "x": "리만 가설은 1859년 수학자 베른하르트 리만(Bernhard Riemann)이 처음 제기했다. 클레이 수학연구소(Clay Mathematics Institute)가 백만 달러의 상금을 건 몇 안 되는 미해결 문제 가운데 하나다."
               },
               {
                 "t": "p",
-                "x": "Allen Institute의 Jérôme Lecoq에게 Theorizer는 VIP 사이신경세포에 관한 후보 이론 50개를 내놓았다. 그가 예상한 것은 한두 개였다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "페루에서 최대 이슬점이 35°C를 넘은 셀. 그림: Piero Palacios, CIP."
+                "x": "Alpöge는 각 논증의 수학적 정확성을 검증하는 프로그래밍 언어 Lean으로 작성한 Claude 증명을 공개했다. 그는 이 증명이 “일반화된 리만 가설”을 확인한다고 말한다. 이번 발표는 Anthropic이 주식시장에 기록적으로 데뷔한 지 불과 하루 만에 나왔다."
               },
               {
                 "t": "p",
-                "x": "International Potato Center에서는 틀렸지만 검증 가능한 설명 하나가 연구자들을 비현실적인 이슬점의 실제 원인으로 이끌었다. Ai2는 Theorizer가 관련 연구를 놓치거나 독창성을 잘못 판단할 수 있다고 경고한다."
+                "x": "칠레 가톨릭대학교의 Hector Pasten은 “증명이 옳고 제대로 이해된다면, 연결이 부분적이었던 수학의 여러 분야 사이의 사전이 완성된다”며 “일종의 로제타석”이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "MIT 수학자 Andrew Sutherland는 Alpöge의 결과를 Lean으로 독립적으로 컴파일한 뒤 “참으로 역사적인 순간”이라며 “증명의 수학적 세부를 이해하려면 해야 할 일이 많다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2、Astaに\nTheorizerを追加",
-          "body": "Theorizerは論文の知見から候補理論を合成し、各主張を根拠の研究に結び付ける。",
-          "mini_headline": "TheorizerがAstaに加わる",
+          "headline": "Anthropicの数学者\nリーマン予想の証明を主張",
+          "body": "AlpögeがClaudeの助けで167年来のリーマン予想の証明を発表した。",
+          "mini_headline": "Claude支援のリーマン証明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "紫色のデジタルコンセプトを背景にした数式"
               },
               {
                 "t": "p",
-                "x": "Ai2は、科学研究向けAIエージェントのプラットフォームAstaでTheorizerを公開し、コードもオープンソース化する。Theorizerは文献を検索し、各論文から何を抽出するかのテンプレートを作成したうえで知見を比較して理論を生成し、各主張を根拠となる論文に結び付ける。"
+                "x": "人工知能企業Anthropicの社員で数学者のLevent Alpögeは金曜日、LLMを使って数学全体で最も有名な問題を証明したと主張した。Alpögeは自身のウェブサイトに掲載した声明で「Claudeと協力して、リーマン予想の証明を発見したと考えている」と記した。"
               },
               {
                 "t": "p",
-                "x": "Providence Swedish Cancer InstituteのDr. Sid Devarakondaは、「driver-negative（ドライバー陰性）」の肺腺がんにこれを用いた。最初の理論を検討したときのことを、彼はこう振り返る。「ちょっと待て、これはまさに自分の考えだ。こう考えられるようになるまで15年かかったのに」"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "既知の遺伝的ドライバーを持たない肺腺がんの増殖を説明する三つの可能性。"
+                "x": "リーマン予想は1859年に数学者ベルンハルト・リーマンが初めて提唱した。クレイ数学研究所が百万ドルの懸賞金をかけた数少ない未解決問題の一つである。"
               },
               {
                 "t": "p",
-                "x": "Allen InstituteのJérôme Lecoqに対し、Theorizerは本人が予想していた一つか二つではなく、VIP介在ニューロンに関する50の候補理論を返した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "ペルーで最大露点が35°Cを超えたセル。図：Piero Palacios, CIP."
+                "x": "Alpögeは、各議論の数学的な正しさを検証するプログラミング言語Leanで記述したClaudeによる証明を公開した。彼によれば、この証明は「一般化リーマン予想」を確かめるものだという。発表は、Anthropicが株式市場で記録的なデビューを果たしたわずか一日後のことだった。"
               },
               {
                 "t": "p",
-                "x": "International Potato Centerでは、誤っているが検証可能な説明が、あり得ない露点の本当の原因へと研究者を導いた。Ai2は、Theorizerが関連研究を見落としたり、新規性を見誤ったりする可能性があると注意を促している。"
+                "x": "チリ・カトリック大学のHector Pastenは「証明が正しく、理解されれば、つながりが部分的でしかなかった数学の異なる分野の間の辞書が完成する」と述べ、「ロゼッタ・ストーンのようなものだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "MITの数学者Andrew SutherlandはAlpögeの結果をLeanで独自にコンパイルした後、「これはまさに歴史的な瞬間だ」と述べ、「証明の数学的な詳細を理解するには、なすべきことが多く残っている」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2为Asta科学智能体\n新增Theorizer",
-          "body": "Theorizer从论文中提取发现并综合出候选理论，每项主张都关联到支持它的研究。",
-          "mini_headline": "Theorizer加入Asta",
+          "headline": "Anthropic数学家\n宣称证明黎曼猜想",
+          "body": "Levent Alpöge宣布借助Claude证明了已有167年历史的黎曼猜想。",
+          "mini_headline": "Claude辅助的黎曼证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "带有紫色数字概念的数学方程"
               },
               {
                 "t": "p",
-                "x": "Ai2在其面向科学研究的AI智能体平台Asta中推出Theorizer，并开源代码。Theorizer会检索文献，为每篇论文制定提取内容的模板，再比较各项发现以生成理论，并把各项主张与其依据的论文关联起来。"
+                "x": "人工智能公司Anthropic的员工、数学家Levent Alpöge周五宣称，他借助LLM证明了整个数学领域最著名的问题。Alpöge在其个人网站发布的声明中写道：“我相信，我与Claude合作，发现了黎曼猜想的证明。”"
               },
               {
                 "t": "p",
-                "x": "Providence Swedish Cancer Institute的Dr. Sid Devarakonda将其用于“驱动基因阴性”（driver-negative）肺腺癌。回顾最初的几条理论时，他说：“等一下，这正是我的想法。而我花了15年才学会这样思考。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "对缺乏已知遗传驱动因素的肺腺癌生长的三种可能解释。"
+                "x": "黎曼猜想由数学家伯恩哈德·黎曼于1859年首次提出。它是克雷数学研究所悬赏百万美元的少数几个未解问题之一。"
               },
               {
                 "t": "p",
-                "x": "对于Allen Institute的Jérôme Lecoq，Theorizer给出了50个关于VIP中间神经元的候选理论，而他原本只预期一两个。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "秘鲁最大露点超过35°C的网格单元。图：Piero Palacios，CIP。"
+                "x": "Alpöge公布了用编程语言Lean编写的Claude证明，Lean可以验证每一步论证的数学正确性。他表示，该证明确认了“广义黎曼猜想”。此次宣布距Anthropic在股市创纪录上市仅过去一天。"
               },
               {
                 "t": "p",
-                "x": "在International Potato Center，一个错误但可检验的解释引导研究人员找到了离谱露点数据的真正来源。Ai2提醒，Theorizer可能遗漏相关研究，也可能误判原创性。"
+                "x": "智利天主教大学的Hector Pasten表示：“如果这个证明正确并被理解，它将补全数学不同分支之间原本只有部分联系的一部词典。”“有点像罗塞塔石碑。”"
+              },
+              {
+                "t": "p",
+                "x": "MIT数学家Andrew Sutherland在用Lean独立编译了Alpöge的结果后说：“这确实是一个历史性时刻。”“要理解该证明的数学细节，还有大量工作要做。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 suma Theorizer\na su agente científico Asta",
-          "body": "Theorizer extrae hallazgos de artículos, sintetiza teorías candidatas y vincula cada afirmación a estudios de apoyo.",
-          "mini_headline": "Theorizer llega a Asta",
+          "headline": "Matemático de Anthropic afirma\nprobar la hipótesis de Riemann",
+          "body": "Levent Alpöge anunció una prueba asistida por Claude de la hipótesis de Riemann, abierta desde hace 167 años.",
+          "mini_headline": "Prueba de Riemann asistida por Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+                "cap": "Ecuaciones matemáticas con un concepto digital en tono morado"
               },
               {
                 "t": "p",
-                "x": "Ai2 lanza Theorizer en Asta, su plataforma de agentes de IA para la investigación científica, y libera su código. Theorizer busca en la literatura, crea una plantilla de lo que debe extraer de cada artículo y compara los hallazgos para generar teorías, vinculando cada afirmación con los artículos que la sustentan."
+                "x": "Levent Alpöge, matemático y empleado de la empresa de inteligencia artificial Anthropic, afirmó el viernes haber demostrado el problema más famoso de todas las matemáticas con ayuda de un LLM. «Creo que, trabajando con Claude, he descubierto una demostración de la hipótesis de Riemann», escribió Alpöge en un comunicado publicado en su sitio web."
               },
               {
                 "t": "p",
-                "x": "El Dr. Sid Devarakonda, del Providence Swedish Cancer Institute, lo usó con el adenocarcinoma de pulmón \"sin mutación impulsora\" (\"driver-negative\"). Al revisar sus primeras teorías, recordó: \"Un momento, esto es exactamente lo que pienso. Y me llevó 15 años pensar así\"."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795058396-theorizer-lung-diagram-teal.png",
-                "cap": "Tres posibles explicaciones del crecimiento de adenocarcinomas de pulmón sin un impulsor genético reconocido."
+                "x": "La hipótesis de Riemann fue propuesta por primera vez en 1859 por el matemático Bernhard Riemann. Es uno de los pocos problemas abiertos por los que el Clay Mathematics Institute ofrece una recompensa de un millón de dólares."
               },
               {
                 "t": "p",
-                "x": "Para Jérôme Lecoq, del Allen Institute, Theorizer devolvió 50 teorías candidatas sobre las interneuronas VIP, frente a las una o dos que esperaba."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1795054143-figure-peru-dewpoint-dark.png",
-                "cap": "Celdas donde el punto de rocío máximo superó los 35 °C en Perú. Figura: Piero Palacios, CIP."
+                "x": "Alpöge publicó su demostración hecha con Claude y codificada en el lenguaje de programación Lean, que verifica la corrección matemática de cada argumento. Según él, confirma la «hipótesis de Riemann generalizada». El anuncio llega apenas un día después del debut bursátil récord de Anthropic."
               },
               {
                 "t": "p",
-                "x": "En el International Potato Center, una explicación errónea pero comprobable llevó a los investigadores a la fuente real de unos puntos de rocío inverosímiles. Ai2 advierte que Theorizer puede pasar por alto estudios relevantes y juzgar mal la originalidad."
+                "x": "«Si la demostración es correcta y se comprende, completa un diccionario entre distintas ramas de las matemáticas cuyas conexiones eran solo parciales», dice Hector Pasten, de la Pontificia Universidad Católica de Chile. «Algo así como una piedra de Rosetta»."
+              },
+              {
+                "t": "p",
+                "x": "«Este es sin duda un momento histórico», dijo el matemático del MIT Andrew Sutherland tras compilar de forma independiente el resultado de Alpöge en Lean. «Queda mucho trabajo por hacer para entender los detalles matemáticos de la demostración»."
               }
             ]
           }
@@ -1391,195 +365,195 @@
       }
     },
     {
-      "id": "ai-supertelescope-rubin-euclid",
+      "id": "mofgen-agentic-mof-synthesis",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "관측소 셋을 묶는\nAI 초망원경 구상",
-      "body": "AI로 Rubin·Euclid·Roman 픽셀을 합치는 가상 관측소가 제안됐다.",
-      "mini_headline": "AI 초망원경",
+      "headline": "AI가 설계한 MOFs\n네 종 합성에 성공",
+      "body": "MOFGen 에이전트가 MOF 수십만 개를 제안·선별했고 그중 네 종이 합성됐다.",
+      "mini_headline": "AI가 꿈꾼 MOFs, 현실로",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
-      "accent": "#eb367f",
+      "source": "Nature Computational Science",
+      "url": "https://www.nature.com/articles/s43588-026-01058-x",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "생성 모델과 머신러닝은 CO2 포집과 수분 채집에 쓰이는 금속–유기 골격체(MOFs) 발견을 앞당길 것으로 기대를 모은다. 하지만 방대한 화학 공간을 뒤지면서 합성 가능성까지 챙기기는 상당히 어렵다."
+          },
+          {
+            "t": "p",
+            "x": "연구진이 내놓은 MOFGen은 여러 에이전트가 서로 맞물려 돌아가는 에이전트형 인공지능(AI) 시스템이다. MOF 조성을 제안하는 대규모 언어 모델, 결정 구조를 만드는 확산 모델, 후보를 최적화하고 걸러내는 양자역학 에이전트, 전문가 규칙과 머신러닝으로 합성 가능성을 따지는 에이전트로 구성된다."
+          },
+          {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-            "cap": "ESA/Euclid/Euclid Consortium/NASA"
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+            "cap": "그림 1: MOFGen 개요."
           },
           {
             "t": "p",
-            "x": "천문학자들이 Vera C. Rubin Observatory와 Euclid 우주망원경, Nancy Grace Roman Space Telescope를 하나의 AI-powered(AI 기반) 초망원경으로 묶으려 한다. Renaissance Philanthropy의 Gioia Rau는 \"함께 처리하면 네 번째 망원경이 된다. 그리고 아무도 그것을 켜지 않았다\"고 말한다."
+            "x": "MOFGen은 실험으로 보고된 다양한 MOFs와 계산 데이터베이스로 학습해 MOF 구조 수십만 개와 합성 가능한 유기 링커를 만들어냈다. QForge가 후보 구조 251,118개를 최적화했고, QHarden은 DFT-optimized MOF 구조 3,000개로 최종 데이터베이스를 꾸렸다."
           },
           {
             "t": "p",
-            "x": "Rau와 스물네 명이 넘는 공동 저자는 8월 행동을 촉구하는 프리프린트를 냈다. 공공 투자가 이미 60억 달러를 넘었으니 기회가 지나가기 전에 각 기관이 관측 자료를 잇는 작업에 돈을 대야 한다는 주장이다."
-          },
-          {
-            "t": "p",
-            "x": "Rubin 수석 과학자 Tony Tyson은 \"픽셀을 결합해 극도로 높은 해상도의 이미지를 얻는 것\"이 목표라고 말한다. 암흑 에너지와 암흑 물질, 초신성, 소행성 연구에 두루 쓰인다. Lior Shamir는 \"자원봉사자가 1억 명 있어도 Rubin Observatory가 수집하는 모든 것에 주석을 다는 데 120,000년이 걸릴 것\"이라며 \"AI로는 거의 즉시 끝난다\"고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "Yale의 Meg Urry는 \"반드시 해야 할 일\"이라고 했다. Roman은 2027년 초에 관측을 시작할 예정이다."
+            "x": "연구진은 고처리량 실험과 ‘AI-dreamt’ MOFs 네 종의 합성으로 이 접근법을 검증했다. ‘AI-dreamt’ MOFs 네 종을 합성하는 데는 몇 주면 충분했고, 일부는 며칠 만에 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A proposed AI supertelescope\nfrom three observatories",
-          "body": "Astronomers propose using AI to fuse Rubin, Euclid and Roman pixels into a sharper virtual fourth observatory.",
-          "mini_headline": "An AI supertelescope",
+          "headline": "Agentic AI designs MOFs,\nand four get synthesized",
+          "body": "MOFGen's agents propose and screen hundreds of thousands of MOFs, and four were successfully synthesized.",
+          "mini_headline": "AI-dreamt MOFs made real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Generative models and machine learning promise accelerated material discovery in metal–organic frameworks (MOFs) for CO2 capture and water harvesting, but face substantial challenges in navigating vast chemical spaces while ensuring synthesizability."
+              },
+              {
+                "t": "p",
+                "x": "Here we present MOFGen, a system of agentic artificial intelligence (AI) comprising interconnected agents: a large language model that proposes MOF compositions, a diffusion model that generates crystal structures, quantum mechanical agents that optimize and filter candidates, and synthetic-feasibility agents guided by expert rules and machine learning."
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "Fig. 1: Overview of MOFGen."
               },
               {
                 "t": "p",
-                "x": "Astronomers want to combine the Vera C. Rubin Observatory, the Euclid space telescope and the Nancy Grace Roman Space Telescope into a single AI-powered supertelescope. \"Processed together, they make a fourth. And nobody has switched it on,\" says Gioia Rau of Renaissance Philanthropy."
+                "x": "Trained on a broad set of experimentally reported MOFs and computational databases, MOFGen generated hundreds of thousands of MOF structures and synthesizable organic linkers. QForge optimized 251,118 candidate structures, and QHarden produced a final database of 3,000 DFT-optimized MOF structures."
               },
               {
                 "t": "p",
-                "x": "In August Rau and more than two dozen co-authors released a preprint calling for action. With public investment already above $6 billion, the paper argues agencies should fund stitching the surveys together before the opportunity passes."
-              },
-              {
-                "t": "p",
-                "x": "The goal is to \"combine the pixels to get an image that is extremely high-resolution,\" says Rubin chief scientist Tony Tyson, aiding studies of dark energy, dark matter, supernovae and asteroids. \"If we had 100 million volunteers, it would take us 120,000 years to annotate all of what the Rubin Observatory is acquiring,\" says Lior Shamir. \"With AI, it's pretty instant.\""
-              },
-              {
-                "t": "p",
-                "x": "\"It has to be done,\" says Yale's Meg Urry. Roman is expected to begin its survey in early 2027."
+                "x": "The approach was validated through high-throughput experiments and the successful synthesis of four ‘AI-dreamt’ MOFs. Within just a few weeks, we have synthesized four ‘AI-dreamt’ MOFs, with some completed in just few days."
               }
             ]
           }
         },
         "ko": {
-          "headline": "관측소 셋을 묶는\nAI 초망원경 구상",
-          "body": "AI로 Rubin·Euclid·Roman 픽셀을 합치는 가상 관측소가 제안됐다.",
-          "mini_headline": "AI 초망원경",
+          "headline": "AI가 설계한 MOFs\n네 종 합성에 성공",
+          "body": "MOFGen 에이전트가 MOF 수십만 개를 제안·선별했고 그중 네 종이 합성됐다.",
+          "mini_headline": "AI가 꿈꾼 MOFs, 현실로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "생성 모델과 머신러닝은 CO2 포집과 수분 채집에 쓰이는 금속–유기 골격체(MOFs) 발견을 앞당길 것으로 기대를 모은다. 하지만 방대한 화학 공간을 뒤지면서 합성 가능성까지 챙기기는 상당히 어렵다."
+              },
+              {
+                "t": "p",
+                "x": "연구진이 내놓은 MOFGen은 여러 에이전트가 서로 맞물려 돌아가는 에이전트형 인공지능(AI) 시스템이다. MOF 조성을 제안하는 대규모 언어 모델, 결정 구조를 만드는 확산 모델, 후보를 최적화하고 걸러내는 양자역학 에이전트, 전문가 규칙과 머신러닝으로 합성 가능성을 따지는 에이전트로 구성된다."
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "그림 1: MOFGen 개요."
               },
               {
                 "t": "p",
-                "x": "천문학자들이 Vera C. Rubin Observatory와 Euclid 우주망원경, Nancy Grace Roman Space Telescope를 하나의 AI-powered(AI 기반) 초망원경으로 묶으려 한다. Renaissance Philanthropy의 Gioia Rau는 \"함께 처리하면 네 번째 망원경이 된다. 그리고 아무도 그것을 켜지 않았다\"고 말한다."
+                "x": "MOFGen은 실험으로 보고된 다양한 MOFs와 계산 데이터베이스로 학습해 MOF 구조 수십만 개와 합성 가능한 유기 링커를 만들어냈다. QForge가 후보 구조 251,118개를 최적화했고, QHarden은 DFT-optimized MOF 구조 3,000개로 최종 데이터베이스를 꾸렸다."
               },
               {
                 "t": "p",
-                "x": "Rau와 스물네 명이 넘는 공동 저자는 8월 행동을 촉구하는 프리프린트를 냈다. 공공 투자가 이미 60억 달러를 넘었으니 기회가 지나가기 전에 각 기관이 관측 자료를 잇는 작업에 돈을 대야 한다는 주장이다."
-              },
-              {
-                "t": "p",
-                "x": "Rubin 수석 과학자 Tony Tyson은 \"픽셀을 결합해 극도로 높은 해상도의 이미지를 얻는 것\"이 목표라고 말한다. 암흑 에너지와 암흑 물질, 초신성, 소행성 연구에 두루 쓰인다. Lior Shamir는 \"자원봉사자가 1억 명 있어도 Rubin Observatory가 수집하는 모든 것에 주석을 다는 데 120,000년이 걸릴 것\"이라며 \"AI로는 거의 즉시 끝난다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Yale의 Meg Urry는 \"반드시 해야 할 일\"이라고 했다. Roman은 2027년 초에 관측을 시작할 예정이다."
+                "x": "연구진은 고처리량 실험과 ‘AI-dreamt’ MOFs 네 종의 합성으로 이 접근법을 검증했다. ‘AI-dreamt’ MOFs 네 종을 합성하는 데는 몇 주면 충분했고, 일부는 며칠 만에 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "三つの天文台を束ねる\nAIスーパー望遠鏡構想",
-          "body": "天文学者がRubin・Euclid・Romanの画素をAIで融合する仮想天文台を提案した。",
-          "mini_headline": "AIスーパー望遠鏡",
+          "headline": "AIエージェントが設計\nMOFsのうち四種を合成",
+          "body": "MOFGenのエージェントが数十万のMOFを提案・選別し、うち四種の合成に成功した。",
+          "mini_headline": "AIが夢見たMOFs、現実に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成モデルと機械学習は、CO2回収や水の捕集に使う金属–有機構造体（MOFs）の材料探索を加速すると期待されているが、合成可能性を確保しつつ広大な化学空間を探索するうえで大きな課題を抱えている。"
+              },
+              {
+                "t": "p",
+                "x": "本研究では、相互に連携するエージェントからなるエージェント型人工知能（AI）システムMOFGenを提示する。MOFの組成を提案する大規模言語モデル、結晶構造を生成する拡散モデル、候補を最適化・選別する量子力学エージェント、そして専門家のルールと機械学習に導かれる合成可能性エージェントで構成される。"
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "図1：MOFGenの概要。"
               },
               {
                 "t": "p",
-                "x": "天文学者たちは、Vera C. Rubin Observatory、Euclid宇宙望遠鏡、Nancy Grace Roman Space Telescopeを一つのAI-powered（AI駆動）スーパー望遠鏡にまとめたいと考えている。「まとめて処理すれば、四つ目の望遠鏡になる。そして誰もそのスイッチを入れていない」とRenaissance PhilanthropyのGioia Rauは言う。"
+                "x": "実験で報告された幅広いMOFsと計算データベースで学習したMOFGenは、数十万のMOF構造と合成可能な有機リンカーを生成した。QForgeは251,118の候補構造を最適化し、QHardenはDFT-optimizedのMOF構造3,000件からなる最終データベースを作成した。"
               },
               {
                 "t": "p",
-                "x": "8月、Rauと24人を超える共著者は、行動を呼びかけるプレプリントを公開した。公的投資がすでに60億ドルを超えるなか、論文は機会を逃す前に各機関がサーベイ同士をつなぎ合わせる取り組みに資金を出すべきだと主張する。"
-              },
-              {
-                "t": "p",
-                "x": "目標は「画素を組み合わせて極めて高解像度の画像を得ること」だと、Rubinの主任科学者Tony Tysonは言う。これは暗黒エネルギー、暗黒物質、超新星、小惑星の研究に役立つ。「ボランティアが1億人いても、Rubin Observatoryが取得するものすべてに注釈を付けるには120,000年かかる」とLior Shamirは言う。「AIならほぼ一瞬だ」"
-              },
-              {
-                "t": "p",
-                "x": "「やらなければならない」とYaleのMeg Urryは言う。Romanは2027年初めに観測を始める見込みだ。"
+                "x": "この手法は、ハイスループット実験と四つの「AI-dreamt」MOFsの合成成功によって検証された。わずか数週間で四つの「AI-dreamt」MOFsを合成し、一部はわずか数日で完成した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "提议用三座天文台\n组建AI超级望远镜",
-          "body": "天文学家提议用AI融合Rubin、Euclid与Roman像素，打造更清晰的虚拟天文台。",
-          "mini_headline": "AI超级望远镜",
+          "headline": "智能体AI设计MOFs\n其中四种已成功合成",
+          "body": "MOFGen的智能体提出并筛选了数十万种MOF，其中四种已成功合成。",
+          "mini_headline": "AI构想的MOFs成真",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成模型和机器学习有望加速用于CO2捕集和集水的金属–有机框架（MOFs）材料发现，但在确保可合成性的同时探索庞大化学空间方面面临重大挑战。"
+              },
+              {
+                "t": "p",
+                "x": "本文提出MOFGen，这是一个由相互连接的智能体组成的智能体人工智能（AI）系统：提出MOF组成的大语言模型、生成晶体结构的扩散模型、优化并筛选候选结构的量子力学智能体，以及由专家规则和机器学习引导的合成可行性智能体。"
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "图1：MOFGen概览。"
               },
               {
                 "t": "p",
-                "x": "天文学家希望把Vera C. Rubin Observatory、Euclid空间望远镜和Nancy Grace Roman Space Telescope整合为一台AI-powered（AI驱动的）超级望远镜。Renaissance Philanthropy的Gioia Rau说：“把它们放在一起处理，就构成了第四台望远镜。而还没有人打开过它。”"
+                "x": "MOFGen基于大量实验报道的MOFs和计算数据库进行训练，生成了数十万个MOF结构和可合成的有机连接体。QForge优化了251,118个候选结构，QHarden则产出了包含3,000个DFT-optimized MOF结构的最终数据库。"
               },
               {
                 "t": "p",
-                "x": "8月，Rau与超过24位合著者发布了一篇呼吁采取行动的预印本。论文认为，公共投资已超过60亿美元，各机构应在机会消失前资助将这些巡天数据拼接起来的工作。"
-              },
-              {
-                "t": "p",
-                "x": "Rubin首席科学家Tony Tyson说，目标是“把像素结合起来，得到分辨率极高的图像”，这将有助于暗能量、暗物质、超新星和小行星的研究。Lior Shamir说：“即使有1亿名志愿者，要为Rubin Observatory获取的全部数据做标注也需要120,000年。用AI的话，几乎是瞬间完成。”"
-              },
-              {
-                "t": "p",
-                "x": "Yale的Meg Urry说：“这件事必须做。”Roman预计将于2027年初开始巡天观测。"
+                "x": "该方法通过高通量实验和四种“AI-dreamt”MOFs的成功合成得到验证。短短几周内，研究团队合成了四种“AI-dreamt”MOFs，其中一些仅用几天就完成了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Propuesta de supertelescopio IA\na partir de tres observatorios",
-          "body": "Astrónomos proponen usar IA para unir píxeles de Rubin, Euclid y Roman en un cuarto observatorio virtual más nítido.",
-          "mini_headline": "Un supertelescopio de IA",
+          "headline": "IA agéntica diseña MOFs\ny cuatro llegan a sintetizarse",
+          "body": "Los agentes de MOFGen proponen y evalúan cientos de miles de MOFs, y cuatro de ellos se sintetizaron con éxito.",
+          "mini_headline": "MOFs ‘AI-dreamt’ hechos realidad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Los modelos generativos y el aprendizaje automático prometen acelerar el descubrimiento de materiales en las redes metal–orgánicas (MOFs) para la captura de CO2 y la recolección de agua, pero afrontan retos considerables para explorar vastos espacios químicos sin perder la sintetizabilidad."
+              },
+              {
+                "t": "p",
+                "x": "Aquí presentamos MOFGen, un sistema de inteligencia artificial (IA) agéntica formado por agentes interconectados: un modelo de lenguaje grande que propone composiciones de MOF, un modelo de difusión que genera estructuras cristalinas, agentes de mecánica cuántica que optimizan y filtran candidatos, y agentes de viabilidad sintética guiados por reglas expertas y aprendizaje automático."
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de MOFGen."
               },
               {
                 "t": "p",
-                "x": "Los astrónomos quieren combinar el Vera C. Rubin Observatory, el telescopio espacial Euclid y el Nancy Grace Roman Space Telescope en un único supertelescopio AI-powered (impulsado por IA). \"Procesados juntos, forman un cuarto. Y nadie lo ha encendido\", dice Gioia Rau, de Renaissance Philanthropy."
+                "x": "Entrenado con un amplio conjunto de MOFs reportados experimentalmente y bases de datos computacionales, MOFGen generó cientos de miles de estructuras de MOF y conectores orgánicos sintetizables. QForge optimizó 251.118 estructuras candidatas y QHarden produjo una base de datos final de 3000 estructuras de MOF DFT-optimized."
               },
               {
                 "t": "p",
-                "x": "En agosto, Rau y más de dos docenas de coautores publicaron un preprint que pide actuar. Con una inversión pública que ya supera los 6.000 millones de dólares, el artículo sostiene que las agencias deberían financiar la integración de los sondeos antes de que pase la oportunidad."
-              },
-              {
-                "t": "p",
-                "x": "El objetivo es \"combinar los píxeles para obtener una imagen de altísima resolución\", dice Tony Tyson, científico jefe de Rubin, lo que ayudaría a estudiar la energía oscura, la materia oscura, las supernovas y los asteroides. \"Si tuviéramos 100 millones de voluntarios, tardaríamos 120.000 años en anotar todo lo que adquiere el Rubin Observatory\", dice Lior Shamir. \"Con IA, es prácticamente instantáneo\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Hay que hacerlo\", dice Meg Urry, de Yale. Se espera que Roman comience su sondeo a principios de 2027."
+                "x": "El enfoque se validó mediante experimentos de alto rendimiento y la síntesis exitosa de cuatro MOFs ‘AI-dreamt’. En apenas unas semanas sintetizamos cuatro MOFs ‘AI-dreamt’, y algunos se completaron en solo unos días."
               }
             ]
           }
@@ -1587,125 +561,1051 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "세 관측소를 합친\nAI 초망원경 구상",
-          "body": "AI로 Rubin·Euclid·Roman 픽셀을 합친 가상 관측소 제안이 나왔다.",
-          "mini_headline": "AI 초망원경",
+          "headline": "AI가 설계한 MOFs\n네 종 합성에 성공",
+          "body": "MOFGen 에이전트가 MOF 수십만 개를 제안·선별했고 네 종이 합성됐다.",
+          "mini_headline": "AI가 꿈꾼 MOFs, 현실로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "생성 모델과 머신러닝은 CO2 포집과 수분 채집에 쓰이는 금속–유기 골격체(MOFs)의 소재 발견을 앞당길 것으로 기대되지만, 합성 가능성을 확보하면서 방대한 화학 공간을 탐색하는 데 상당한 어려움을 겪고 있다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 서로 연결된 에이전트로 이뤄진 에이전트형 인공지능(AI) 시스템 MOFGen을 제시한다. MOF 조성을 제안하는 대규모 언어 모델, 결정 구조를 생성하는 확산 모델, 후보를 최적화하고 걸러내는 양자역학 에이전트, 전문가 규칙과 머신러닝에 따라 합성 가능성을 판단하는 에이전트가 그 구성 요소다."
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "그림 1: MOFGen 개요."
               },
               {
                 "t": "p",
-                "x": "천문학자들은 Vera C. Rubin Observatory, Euclid 우주망원경, Nancy Grace Roman Space Telescope를 하나의 AI-powered(AI 기반) 초망원경으로 묶고자 한다. Renaissance Philanthropy의 Gioia Rau는 \"함께 처리하면 네 번째 망원경이 된다. 그리고 아무도 그것을 켜지 않았다\"고 말한다."
+                "x": "실험으로 보고된 폭넓은 MOFs와 계산 데이터베이스로 학습한 MOFGen은 수십만 개의 MOF 구조와 합성 가능한 유기 링커를 생성했다. QForge는 후보 구조 251,118개를 최적화했고, QHarden은 DFT-optimized MOF 구조 3,000개로 이뤄진 최종 데이터베이스를 만들었다."
               },
               {
                 "t": "p",
-                "x": "8월 Rau와 스물네 명이 넘는 공동 저자는 행동을 촉구하는 프리프린트를 공개했다. 공공 투자가 이미 60억 달러를 넘은 만큼, 논문은 기회가 지나가기 전에 각 기관이 관측 자료를 이어 붙이는 작업에 자금을 대야 한다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "Rubin 수석 과학자 Tony Tyson은 목표가 \"픽셀을 결합해 극도로 높은 해상도의 이미지를 얻는 것\"이라고 말한다. 이는 암흑 에너지, 암흑 물질, 초신성, 소행성 연구에 도움이 된다. Lior Shamir는 \"자원봉사자가 1억 명 있어도 Rubin Observatory가 수집하는 모든 것에 주석을 다는 데 120,000년이 걸릴 것\"이라며 \"AI로는 거의 즉시 끝난다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Yale의 Meg Urry는 \"반드시 해야 할 일\"이라고 말한다. Roman은 2027년 초에 관측을 시작할 예정이다."
+                "x": "이 접근법은 고처리량 실험과 ‘AI-dreamt’ MOFs 네 종의 합성 성공으로 검증됐다. 불과 몇 주 만에 ‘AI-dreamt’ MOFs 네 종을 합성했으며, 일부는 단 며칠 만에 완성됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "三つの天文台を束ねる\nAIスーパー望遠鏡構想",
-          "body": "天文学者がRubin・Euclid・Romanの画素をAIで融合する仮想天文台を提案した。",
-          "mini_headline": "AIスーパー望遠鏡",
+          "headline": "AIエージェントが設計\nMOFsのうち四種を合成",
+          "body": "MOFGenのエージェントが数十万のMOFを提案・選別し、うち四種の合成に成功した。",
+          "mini_headline": "AIが夢見たMOFs、現実に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成モデルと機械学習は、CO2回収や水の捕集に使う金属–有機構造体（MOFs）の材料探索を加速すると期待されているが、合成可能性を確保しつつ広大な化学空間を探索するうえで大きな課題を抱えている。"
+              },
+              {
+                "t": "p",
+                "x": "本研究では、相互に連携するエージェントからなるエージェント型人工知能（AI）システムMOFGenを提示する。MOFの組成を提案する大規模言語モデル、結晶構造を生成する拡散モデル、候補を最適化・選別する量子力学エージェント、そして専門家のルールと機械学習に導かれる合成可能性エージェントで構成される。"
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "図1：MOFGenの概要。"
               },
               {
                 "t": "p",
-                "x": "天文学者たちは、Vera C. Rubin Observatory、Euclid宇宙望遠鏡、Nancy Grace Roman Space Telescopeを一つのAI-powered（AI駆動）スーパー望遠鏡にまとめたいと考えている。「まとめて処理すれば、四つ目の望遠鏡になる。そして誰もそのスイッチを入れていない」とRenaissance PhilanthropyのGioia Rauは言う。"
+                "x": "実験で報告された幅広いMOFsと計算データベースで学習したMOFGenは、数十万のMOF構造と合成可能な有機リンカーを生成した。QForgeは251,118の候補構造を最適化し、QHardenはDFT-optimizedのMOF構造3,000件からなる最終データベースを作成した。"
               },
               {
                 "t": "p",
-                "x": "8月、Rauと24人を超える共著者は、行動を呼びかけるプレプリントを公開した。公的投資がすでに60億ドルを超えるなか、論文は機会を逃す前に各機関がサーベイ同士をつなぎ合わせる取り組みに資金を出すべきだと主張する。"
-              },
-              {
-                "t": "p",
-                "x": "目標は「画素を組み合わせて極めて高解像度の画像を得ること」だと、Rubinの主任科学者Tony Tysonは言う。これは暗黒エネルギー、暗黒物質、超新星、小惑星の研究に役立つ。「ボランティアが1億人いても、Rubin Observatoryが取得するものすべてに注釈を付けるには120,000年かかる」とLior Shamirは言う。「AIならほぼ一瞬だ」"
-              },
-              {
-                "t": "p",
-                "x": "「やらなければならない」とYaleのMeg Urryは言う。Romanは2027年初めに観測を始める見込みだ。"
+                "x": "この手法は、ハイスループット実験と四つの「AI-dreamt」MOFsの合成成功によって検証された。わずか数週間で四つの「AI-dreamt」MOFsを合成し、一部はわずか数日で完成した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "提议用三座天文台\n组建AI超级望远镜",
-          "body": "天文学家提议用AI融合Rubin、Euclid与Roman像素，打造更清晰的虚拟天文台。",
-          "mini_headline": "AI超级望远镜",
+          "headline": "智能体AI设计MOFs\n其中四种已成功合成",
+          "body": "MOFGen的智能体提出并筛选了数十万种MOF，其中四种已成功合成。",
+          "mini_headline": "AI构想的MOFs成真",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成模型和机器学习有望加速用于CO2捕集和集水的金属–有机框架（MOFs）材料发现，但在确保可合成性的同时探索庞大化学空间方面面临重大挑战。"
+              },
+              {
+                "t": "p",
+                "x": "本文提出MOFGen，这是一个由相互连接的智能体组成的智能体人工智能（AI）系统：提出MOF组成的大语言模型、生成晶体结构的扩散模型、优化并筛选候选结构的量子力学智能体，以及由专家规则和机器学习引导的合成可行性智能体。"
+              },
+              {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "图1：MOFGen概览。"
               },
               {
                 "t": "p",
-                "x": "天文学家希望把Vera C. Rubin Observatory、Euclid空间望远镜和Nancy Grace Roman Space Telescope整合为一台AI-powered（AI驱动的）超级望远镜。Renaissance Philanthropy的Gioia Rau说：“把它们放在一起处理，就构成了第四台望远镜。而还没有人打开过它。”"
+                "x": "MOFGen基于大量实验报道的MOFs和计算数据库进行训练，生成了数十万个MOF结构和可合成的有机连接体。QForge优化了251,118个候选结构，QHarden则产出了包含3,000个DFT-optimized MOF结构的最终数据库。"
               },
               {
                 "t": "p",
-                "x": "8月，Rau与超过24位合著者发布了一篇呼吁采取行动的预印本。论文认为，公共投资已超过60亿美元，各机构应在机会消失前资助将这些巡天数据拼接起来的工作。"
-              },
-              {
-                "t": "p",
-                "x": "Rubin首席科学家Tony Tyson说，目标是“把像素结合起来，得到分辨率极高的图像”，这将有助于暗能量、暗物质、超新星和小行星的研究。Lior Shamir说：“即使有1亿名志愿者，要为Rubin Observatory获取的全部数据做标注也需要120,000年。用AI的话，几乎是瞬间完成。”"
-              },
-              {
-                "t": "p",
-                "x": "Yale的Meg Urry说：“这件事必须做。”Roman预计将于2027年初开始巡天观测。"
+                "x": "该方法通过高通量实验和四种“AI-dreamt”MOFs的成功合成得到验证。短短几周内，研究团队合成了四种“AI-dreamt”MOFs，其中一些仅用几天就完成了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Propuesta de supertelescopio IA\na partir de tres observatorios",
-          "body": "Astrónomos proponen usar IA para unir píxeles de Rubin, Euclid y Roman en un cuarto observatorio virtual más nítido.",
-          "mini_headline": "Un supertelescopio de IA",
+          "headline": "IA agéntica diseña MOFs\ny cuatro llegan a sintetizarse",
+          "body": "Los agentes de MOFGen proponen y evalúan cientos de miles de MOFs, y cuatro de ellos se sintetizaron con éxito.",
+          "mini_headline": "MOFs ‘AI-dreamt’ hechos realidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los modelos generativos y el aprendizaje automático prometen acelerar el descubrimiento de materiales en las redes metal–orgánicas (MOFs) para la captura de CO2 y la recolección de agua, pero afrontan retos considerables para explorar vastos espacios químicos sin perder la sintetizabilidad."
+              },
+              {
+                "t": "p",
+                "x": "Aquí presentamos MOFGen, un sistema de inteligencia artificial (IA) agéntica formado por agentes interconectados: un modelo de lenguaje grande que propone composiciones de MOF, un modelo de difusión que genera estructuras cristalinas, agentes de mecánica cuántica que optimizan y filtran candidatos, y agentes de viabilidad sintética guiados por reglas expertas y aprendizaje automático."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de MOFGen."
+              },
+              {
+                "t": "p",
+                "x": "Entrenado con un amplio conjunto de MOFs reportados experimentalmente y bases de datos computacionales, MOFGen generó cientos de miles de estructuras de MOF y conectores orgánicos sintetizables. QForge optimizó 251.118 estructuras candidatas y QHarden produjo una base de datos final de 3000 estructuras de MOF DFT-optimized."
+              },
+              {
+                "t": "p",
+                "x": "El enfoque se validó mediante experimentos de alto rendimiento y la síntesis exitosa de cuatro MOFs ‘AI-dreamt’. En apenas unas semanas sintetizamos cuatro MOFs ‘AI-dreamt’, y algunos se completaron en solo unos días."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "mit-lids-chaos-surrogate",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "물리 제약 건 AI,\n혼돈 예측도 안정적",
+      "body": "MIT LIDS 연구진이 물리 제약을 걸어 혼돈계 예측이 범위를 못 벗어나게 했다.",
+      "mini_headline": "혼돈을 다루는 안정적 AI",
+      "tool": "Science",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+            "cap": "머신러닝 모델이 학습한 유계 영역 안에서 재현한 Lorenz 63 시스템의 나비 모양 패턴."
+          },
+          {
+            "t": "p",
+            "x": "날씨, 기후, 난류 같은 혼돈 과정의 모델은 지금도 시간이 갈수록 물리적으로 불가능한 예측으로 흘러가기 쉽다. MIT 정보·의사결정시스템연구소(LIDS) 연구진은 머신러닝 모델에 물리 기반 제약을 걸어 모델이 현실적인 범위를 절대 넘지 않게 하는 방법을 찾았다."
+          },
+          {
+            "t": "p",
+            "x": "연구 결과는 MIT 대학원생 Sunbochen Tang과 MIT 교수 Navid Azizan, Themistoklis Sapsis의 논문으로 PNAS에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "모델은 에너지와 비슷한 함수를 익히면서 혼돈 거동이 머물러야 할 경계도 함께 학습한다. 투영 층이 에너지 소산을 엄격한 제약으로 묶어 두기 때문에 예보 구간을 아무리 길게 잡아도 예측은 범위 안에 머문다. 혼돈을 다루는 머신러닝 모델에 이런 형식적 보장을 세운 연구는 이번이 처음이다."
+          },
+          {
+            "t": "p",
+            "x": "Azizan은 “혼돈이란 무엇이든 일어날 수 있다는 뜻이 아니다. 이런 시스템은 대개 범위 안에 머물며, 그 모델도 그래야 한다”고 말한다. 투영 층은 특정 모델에 묶이지 않고, 논문은 오픈소스 코드와 함께 공개됐다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Physics-bound AI models\nof chaos stay stable",
+          "body": "MIT LIDS researchers built a physics-constrained method that guarantees bounded predictions for chaotic systems.",
+          "mini_headline": "Stable AI for chaos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200",
-                "cap": "ESA/Euclid/Euclid Consortium/NASA"
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "The butterfly-shaped pattern of the Lorenz 63 system, reproduced by a machine learning model, inside a learned bounded region."
               },
               {
                 "t": "p",
-                "x": "Los astrónomos quieren combinar el Vera C. Rubin Observatory, el telescopio espacial Euclid y el Nancy Grace Roman Space Telescope en un único supertelescopio AI-powered (impulsado por IA). \"Procesados juntos, forman un cuarto. Y nadie lo ha encendido\", dice Gioia Rau, de Renaissance Philanthropy."
+                "x": "Modeling of chaotic processes such as weather, climate and turbulent flows is still prone to drift into physically impossible predictions over time. Researchers with MIT’s Laboratory for Information and Decision Systems (LIDS) have found a way to introduce physics-based restrictions on machine learning models that ensure such models never exceed realistic bounds."
               },
               {
                 "t": "p",
-                "x": "En agosto, Rau y más de dos docenas de coautores publicaron un preprint que pide actuar. Con una inversión pública que ya supera los 6.000 millones de dólares, el artículo sostiene que las agencias deberían financiar la integración de los sondeos antes de que pase la oportunidad."
+                "x": "The findings are published in PNAS in a paper by MIT graduate student Sunbochen Tang and MIT professors Navid Azizan and Themistoklis Sapsis."
               },
               {
                 "t": "p",
-                "x": "El objetivo es \"combinar los píxeles para obtener una imagen de altísima resolución\", dice Tony Tyson, científico jefe de Rubin, lo que ayudaría a estudiar la energía oscura, la materia oscura, las supernovas y los asteroides. \"Si tuviéramos 100 millones de voluntarios, tardaríamos 120.000 años en anotar todo lo que adquiere el Rubin Observatory\", dice Lior Shamir. \"Con IA, es prácticamente instantáneo\"."
+                "x": "The model learns an energy-like function and a boundary where its chaotic behavior should be confined; a projection layer enforces energy dissipation as a hard constraint, so predictions stay bounded over arbitrarily long forecast windows. This is the first work that establishes such formal guarantees for machine learning models of chaos."
               },
               {
                 "t": "p",
-                "x": "\"Hay que hacerlo\", dice Meg Urry, de Yale. Se espera que Roman comience su sondeo a principios de 2027."
+                "x": "“Chaos does not mean anything can happen. These systems often remain bounded, and their models should, too,” Azizan says. The projection layer is model-agnostic, and the paper is available with open-source code."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "물리 제약 건 AI,\n혼돈 예측도 안정적",
+          "body": "MIT LIDS 연구진이 물리 제약을 걸어 혼돈계 예측이 범위를 못 벗어나게 했다.",
+          "mini_headline": "혼돈을 다루는 안정적 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "머신러닝 모델이 학습한 유계 영역 안에서 재현한 Lorenz 63 시스템의 나비 모양 패턴."
+              },
+              {
+                "t": "p",
+                "x": "날씨, 기후, 난류 같은 혼돈 과정의 모델은 지금도 시간이 갈수록 물리적으로 불가능한 예측으로 흘러가기 쉽다. MIT 정보·의사결정시스템연구소(LIDS) 연구진은 머신러닝 모델에 물리 기반 제약을 걸어 모델이 현실적인 범위를 절대 넘지 않게 하는 방법을 찾았다."
+              },
+              {
+                "t": "p",
+                "x": "연구 결과는 MIT 대학원생 Sunbochen Tang과 MIT 교수 Navid Azizan, Themistoklis Sapsis의 논문으로 PNAS에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 에너지와 비슷한 함수를 익히면서 혼돈 거동이 머물러야 할 경계도 함께 학습한다. 투영 층이 에너지 소산을 엄격한 제약으로 묶어 두기 때문에 예보 구간을 아무리 길게 잡아도 예측은 범위 안에 머문다. 혼돈을 다루는 머신러닝 모델에 이런 형식적 보장을 세운 연구는 이번이 처음이다."
+              },
+              {
+                "t": "p",
+                "x": "Azizan은 “혼돈이란 무엇이든 일어날 수 있다는 뜻이 아니다. 이런 시스템은 대개 범위 안에 머물며, 그 모델도 그래야 한다”고 말한다. 투영 층은 특정 모델에 묶이지 않고, 논문은 오픈소스 코드와 함께 공개됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "物理で縛るAI\nカオス予測が安定",
+          "body": "MIT LIDSの研究者がカオス系予測の有界性を保証する物理制約手法を開発した。",
+          "mini_headline": "カオスに強い安定AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "学習された有界領域の内側で、機械学習モデルが再現したLorenz 63系の蝶の形をしたパターン。"
+              },
+              {
+                "t": "p",
+                "x": "天気、気候、乱流といったカオス的過程のモデリングは、今なお時間とともに物理的にあり得ない予測へと逸脱しやすい。MITの情報・意思決定システム研究所（LIDS）の研究者らは、機械学習モデルに物理に基づく制約を導入し、モデルが現実的な範囲を決して超えないようにする方法を見いだした。"
+              },
+              {
+                "t": "p",
+                "x": "研究成果は、MIT大学院生のSunbochen Tangと、MIT教授のNavid AzizanおよびThemistoklis Sapsisによる論文としてPNASに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "モデルはエネルギーに似た関数と、カオス的な振る舞いが閉じ込められるべき境界を学習する。射影層がエネルギー散逸を厳密な制約として課すため、予測は任意に長い予報期間にわたって有界に保たれる。カオスの機械学習モデルにこうした形式的保証を確立したのは、本研究が初めてである。"
+              },
+              {
+                "t": "p",
+                "x": "「カオスとは何でも起こり得るという意味ではない。こうしたシステムは多くの場合有界にとどまり、そのモデルもそうあるべきだ」とAzizanは言う。射影層は特定のモデルに依存せず、論文はオープンソースのコードとともに公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "受物理约束的AI\n让混沌模型保持稳定",
+          "body": "MIT LIDS研究人员构建了一种物理约束方法，可保证混沌系统的预测始终有界。",
+          "mini_headline": "面向混沌的稳定AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "由机器学习模型在学习得到的有界区域内复现的Lorenz 63系统蝴蝶状图案。"
+              },
+              {
+                "t": "p",
+                "x": "对天气、气候和湍流等混沌过程的建模，随着时间推移仍容易漂移出物理上不可能的预测。MIT信息与决策系统实验室（LIDS）的研究人员找到了一种方法，为机器学习模型引入基于物理的约束，确保这类模型绝不超出现实范围。"
+              },
+              {
+                "t": "p",
+                "x": "研究成果以论文形式发表在PNAS上，作者为MIT研究生Sunbochen Tang以及MIT教授Navid Azizan和Themistoklis Sapsis。"
+              },
+              {
+                "t": "p",
+                "x": "该模型学习一个类能量函数，以及其混沌行为应被限制在其中的边界；投影层将能量耗散作为硬约束强制执行，因此在任意长的预测窗口内预测都保持有界。这是首个为混沌机器学习模型建立此类形式化保证的研究。"
+              },
+              {
+                "t": "p",
+                "x": "“混沌并不意味着任何事情都可能发生。这些系统通常保持有界，它们的模型也应如此，”Azizan说。该投影层与模型无关，论文已连同开源代码一并公开。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "IA con restricciones físicas\nmodela el caos de forma estable",
+          "body": "Investigadores del MIT LIDS crearon un método con restricciones físicas que garantiza predicciones acotadas del caos.",
+          "mini_headline": "IA estable para el caos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "El patrón en forma de mariposa del sistema de Lorenz 63, reproducido por un modelo de aprendizaje automático, dentro de una región acotada aprendida."
+              },
+              {
+                "t": "p",
+                "x": "El modelado de procesos caóticos como el tiempo atmosférico, el clima y los flujos turbulentos sigue siendo propenso a derivar con el tiempo hacia predicciones físicamente imposibles. Investigadores del Laboratorio de Sistemas de Información y Decisión (LIDS) del MIT han encontrado una forma de introducir restricciones basadas en la física en los modelos de aprendizaje automático que garantizan que nunca superen límites realistas."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados se publican en PNAS en un artículo firmado por el estudiante de posgrado del MIT Sunbochen Tang y los profesores del MIT Navid Azizan y Themistoklis Sapsis."
+              },
+              {
+                "t": "p",
+                "x": "El modelo aprende una función similar a la energía y una frontera en la que debe quedar confinado su comportamiento caótico; una capa de proyección impone la disipación de energía como restricción estricta, de modo que las predicciones se mantienen acotadas en ventanas de pronóstico arbitrariamente largas. Es el primer trabajo que establece garantías formales de este tipo para modelos de aprendizaje automático del caos."
+              },
+              {
+                "t": "p",
+                "x": "«Caos no significa que pueda pasar cualquier cosa. Estos sistemas a menudo permanecen acotados, y sus modelos también deberían», afirma Azizan. La capa de proyección es independiente del modelo, y el artículo está disponible con código abierto."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "물리 제약 건 AI,\n혼돈 예측도 안정적",
+          "body": "MIT LIDS 연구진이 물리 제약으로 혼돈계 예측의 유계성을 보장했다.",
+          "mini_headline": "혼돈을 다루는 안정적 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "학습된 유계 영역 안에서 머신러닝 모델이 재현한 Lorenz 63 시스템의 나비 모양 패턴."
+              },
+              {
+                "t": "p",
+                "x": "날씨, 기후, 난류 같은 혼돈 과정의 모델링은 여전히 시간이 지나면서 물리적으로 불가능한 예측으로 흘러가기 쉽다. MIT 정보·의사결정시스템연구소(LIDS) 연구진은 머신러닝 모델에 물리 기반 제약을 도입해 모델이 현실적인 범위를 절대 넘지 않도록 하는 방법을 찾아냈다."
+              },
+              {
+                "t": "p",
+                "x": "연구 결과는 MIT 대학원생 Sunbochen Tang과 MIT 교수 Navid Azizan, Themistoklis Sapsis의 논문으로 PNAS에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 에너지와 유사한 함수와 함께 혼돈 거동이 머물러야 할 경계를 학습한다. 투영 층이 에너지 소산을 엄격한 제약으로 강제하므로, 예측은 임의로 긴 예보 구간에서도 범위 안에 머문다. 혼돈의 머신러닝 모델에 이런 형식적 보장을 확립한 첫 연구다."
+              },
+              {
+                "t": "p",
+                "x": "Azizan은 “혼돈이란 무엇이든 일어날 수 있다는 뜻이 아니다. 이런 시스템은 대개 범위 안에 머물며, 그 모델도 그래야 한다”고 말한다. 투영 층은 특정 모델에 얽매이지 않으며, 논문은 오픈소스 코드와 함께 공개돼 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "物理で縛るAI\nカオス予測が安定",
+          "body": "MIT LIDSの研究者がカオス系予測の有界性を保証する物理制約手法を開発した。",
+          "mini_headline": "カオスに強い安定AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "学習された有界領域の内側で、機械学習モデルが再現したLorenz 63系の蝶の形をしたパターン。"
+              },
+              {
+                "t": "p",
+                "x": "天気、気候、乱流といったカオス的過程のモデリングは、今なお時間とともに物理的にあり得ない予測へと逸脱しやすい。MITの情報・意思決定システム研究所（LIDS）の研究者らは、機械学習モデルに物理に基づく制約を導入し、モデルが現実的な範囲を決して超えないようにする方法を見いだした。"
+              },
+              {
+                "t": "p",
+                "x": "研究成果は、MIT大学院生のSunbochen Tangと、MIT教授のNavid AzizanおよびThemistoklis Sapsisによる論文としてPNASに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "モデルはエネルギーに似た関数と、カオス的な振る舞いが閉じ込められるべき境界を学習する。射影層がエネルギー散逸を厳密な制約として課すため、予測は任意に長い予報期間にわたって有界に保たれる。カオスの機械学習モデルにこうした形式的保証を確立したのは、本研究が初めてである。"
+              },
+              {
+                "t": "p",
+                "x": "「カオスとは何でも起こり得るという意味ではない。こうしたシステムは多くの場合有界にとどまり、そのモデルもそうあるべきだ」とAzizanは言う。射影層は特定のモデルに依存せず、論文はオープンソースのコードとともに公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "受物理约束的AI\n让混沌模型保持稳定",
+          "body": "MIT LIDS研究人员构建了一种物理约束方法，可保证混沌系统的预测始终有界。",
+          "mini_headline": "面向混沌的稳定AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "由机器学习模型在学习得到的有界区域内复现的Lorenz 63系统蝴蝶状图案。"
+              },
+              {
+                "t": "p",
+                "x": "对天气、气候和湍流等混沌过程的建模，随着时间推移仍容易漂移出物理上不可能的预测。MIT信息与决策系统实验室（LIDS）的研究人员找到了一种方法，为机器学习模型引入基于物理的约束，确保这类模型绝不超出现实范围。"
+              },
+              {
+                "t": "p",
+                "x": "研究成果以论文形式发表在PNAS上，作者为MIT研究生Sunbochen Tang以及MIT教授Navid Azizan和Themistoklis Sapsis。"
+              },
+              {
+                "t": "p",
+                "x": "该模型学习一个类能量函数，以及其混沌行为应被限制在其中的边界；投影层将能量耗散作为硬约束强制执行，因此在任意长的预测窗口内预测都保持有界。这是首个为混沌机器学习模型建立此类形式化保证的研究。"
+              },
+              {
+                "t": "p",
+                "x": "“混沌并不意味着任何事情都可能发生。这些系统通常保持有界，它们的模型也应如此，”Azizan说。该投影层与模型无关，论文已连同开源代码一并公开。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "IA con restricciones físicas\nmodela el caos de forma estable",
+          "body": "Investigadores del MIT LIDS crearon un método con restricciones físicas que garantiza predicciones acotadas del caos.",
+          "mini_headline": "IA estable para el caos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+                "cap": "El patrón en forma de mariposa del sistema de Lorenz 63, reproducido por un modelo de aprendizaje automático, dentro de una región acotada aprendida."
+              },
+              {
+                "t": "p",
+                "x": "El modelado de procesos caóticos como el tiempo atmosférico, el clima y los flujos turbulentos sigue siendo propenso a derivar con el tiempo hacia predicciones físicamente imposibles. Investigadores del Laboratorio de Sistemas de Información y Decisión (LIDS) del MIT han encontrado una forma de introducir restricciones basadas en la física en los modelos de aprendizaje automático que garantizan que nunca superen límites realistas."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados se publican en PNAS en un artículo firmado por el estudiante de posgrado del MIT Sunbochen Tang y los profesores del MIT Navid Azizan y Themistoklis Sapsis."
+              },
+              {
+                "t": "p",
+                "x": "El modelo aprende una función similar a la energía y una frontera en la que debe quedar confinado su comportamiento caótico; una capa de proyección impone la disipación de energía como restricción estricta, de modo que las predicciones se mantienen acotadas en ventanas de pronóstico arbitrariamente largas. Es el primer trabajo que establece garantías formales de este tipo para modelos de aprendizaje automático del caos."
+              },
+              {
+                "t": "p",
+                "x": "«Caos no significa que pueda pasar cualquier cosa. Estos sistemas a menudo permanecen acotados, y sus modelos también deberían», afirma Azizan. La capa de proyección es independiente del modelo, y el artículo está disponible con código abierto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "embodied-science-agent-wastewater",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 에이전트·로봇이\n폐수 실험 루프 완성",
+      "body": "ESA가 15회 폐루프 실험 끝에 폐수 투과율을 82%에서 99.7%로 올렸다.",
+      "mini_headline": "폐루프 실험 에이전트",
+      "tool": "Science",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+            "cap": "자율 실험실을 위한 인지–체화 하이브리드 패러다임인 Embodied Science Agent(ESA)의 세 가지 구성 요소 구조. 출처: arXiv (2026)"
+          },
+          {
+            "t": "p",
+            "x": "University College London, 홍콩과학기술대학교(광저우) 등 여러 기관 연구진이 Embodied Science Agent(ESA)를 개발해 arXiv에 프리프린트로 공개했다. 기존 연구 에이전트는 실험을 계획만 하고 실행은 사람이나 별도 시스템에 맡긴다. ESA는 디지털 에이전트와 장비를 제어하는 체화 에이전트, 둘 사이의 인터페이스를 하나로 잇는다."
+          },
+          {
+            "t": "p",
+            "x": "디지털 에이전트는 기존 데이터와 실험 기록, 베이지안 최적화로 다음에 시험할 조건을 고른다. 폐수 처리 실험에서 ESA는 2억 가지가 넘는 조합 가운데 15회 연속 라운드로 조건을 골라 용액 투과율을 82%에서 99.7%로 끌어올렸다. 저자들은 이 결과를 잔류 염료 농도 98.5% 감소와 연결 짓는다."
+          },
+          {
+            "t": "p",
+            "x": "로봇 제어는 전극 랙 위치를 바꿔도 문제없이 작동했다. 다만 측정 대상은 탈색뿐이어서 이것만으로 염료가 완전히 분해됐다거나 다른 오염물질까지 제거됐다고 볼 수는 없다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI agent and robot close\nthe loop on wastewater",
+          "body": "Over 15 closed-loop rounds, the Embodied Science Agent raised dye-removal transmittance from 82% to 99.7%.",
+          "mini_headline": "Closed-loop lab agent",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "The architecture of the Embodied Science Agent (ESA), a hybrid cognitive–embodied paradigm for self-driving laboratories with three components. Credit: arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "Researchers at University College London, the Hong Kong University of Science and Technology (Guangzhou) and other institutions developed the Embodied Science Agent (ESA), described in a preprint posted to arXiv. Unlike research agents that only plan experiments for humans or separate systems to carry out, ESA links a digital agent, an embodied agent that controls instruments, and an interface between the two."
+              },
+              {
+                "t": "p",
+                "x": "The digital agent uses prior data, experiment records and Bayesian optimization to choose what to test next. In wastewater treatment experiments, ESA selected conditions from more than 200 million possible combinations over 15 consecutive rounds, raising solution transmittance from 82% to 99.7%, which the authors link to a 98.5% reduction in residual dye concentration."
+              },
+              {
+                "t": "p",
+                "x": "Its robotic control kept working when an electrode rack was placed in different positions. The measurements covered decolorization only, which does not by itself show complete dye breakdown or removal of other pollutants."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 에이전트·로봇이\n폐수 실험 루프 완성",
+          "body": "ESA가 15회 폐루프 실험 끝에 폐수 투과율을 82%에서 99.7%로 올렸다.",
+          "mini_headline": "폐루프 실험 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "자율 실험실을 위한 인지–체화 하이브리드 패러다임인 Embodied Science Agent(ESA)의 세 가지 구성 요소 구조. 출처: arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "University College London, 홍콩과학기술대학교(광저우) 등 여러 기관 연구진이 Embodied Science Agent(ESA)를 개발해 arXiv에 프리프린트로 공개했다. 기존 연구 에이전트는 실험을 계획만 하고 실행은 사람이나 별도 시스템에 맡긴다. ESA는 디지털 에이전트와 장비를 제어하는 체화 에이전트, 둘 사이의 인터페이스를 하나로 잇는다."
+              },
+              {
+                "t": "p",
+                "x": "디지털 에이전트는 기존 데이터와 실험 기록, 베이지안 최적화로 다음에 시험할 조건을 고른다. 폐수 처리 실험에서 ESA는 2억 가지가 넘는 조합 가운데 15회 연속 라운드로 조건을 골라 용액 투과율을 82%에서 99.7%로 끌어올렸다. 저자들은 이 결과를 잔류 염료 농도 98.5% 감소와 연결 짓는다."
+              },
+              {
+                "t": "p",
+                "x": "로봇 제어는 전극 랙 위치를 바꿔도 문제없이 작동했다. 다만 측정 대상은 탈색뿐이어서 이것만으로 염료가 완전히 분해됐다거나 다른 오염물질까지 제거됐다고 볼 수는 없다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIエージェントとロボが\n廃水実験のループを閉じる",
+          "body": "ESAは15回の閉ループ実験で、溶液の透過率を82%から99.7%に高めた。",
+          "mini_headline": "閉ループ実験エージェント",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "自律実験室のための認知と身体性を組み合わせたハイブリッド型パラダイム、Embodied Science Agent（ESA）の三つの構成要素からなるアーキテクチャ。出典：arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "University College London、香港科技大学（広州）などの研究者がEmbodied Science Agent（ESA）を開発し、arXivに投稿したプレプリントで報告した。人間や別のシステムが実行する実験を計画するだけの研究エージェントと異なり、ESAはデジタルエージェント、機器を制御する身体性エージェント、そして両者をつなぐインターフェースを連携させる。"
+              },
+              {
+                "t": "p",
+                "x": "デジタルエージェントは、既存データ、実験記録、ベイズ最適化を用いて次に試す条件を選ぶ。廃水処理実験でESAは2億を超える組み合わせの候補から15回連続のラウンドで条件を選び、溶液の透過率を82%から99.7%に高めた。著者らはこれを残留染料濃度の98.5%低下に結びつけている。"
+              },
+              {
+                "t": "p",
+                "x": "ロボット制御は、電極ラックを異なる位置に置いても機能し続けた。測定は脱色のみを対象としており、それだけでは染料の完全な分解や他の汚染物質の除去を示すものではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI智能体与机器人\n打通废水实验闭环",
+          "body": "具身科学智能体ESA经过15轮闭环实验，将溶液透过率从82%提升至99.7%。",
+          "mini_headline": "闭环实验智能体",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "Embodied Science Agent（ESA）的架构，这是一种面向自主实验室的认知–具身混合范式，包含三个组成部分。图片来源：arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "伦敦大学学院（University College London）、香港科技大学（广州）等机构的研究人员开发了Embodied Science Agent（ESA），相关内容见于发布在arXiv上的一篇预印本。与只为人类或独立系统规划实验的研究智能体不同，ESA将数字智能体、控制仪器的具身智能体以及二者之间的接口连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "数字智能体利用先验数据、实验记录和贝叶斯优化来选择下一步要测试的条件。在废水处理实验中，ESA在连续15轮中从超过2亿种可能组合里选择条件，将溶液透过率从82%提升至99.7%，作者将其与残留染料浓度降低98.5%联系起来。"
+              },
+              {
+                "t": "p",
+                "x": "当电极架被放置在不同位置时，其机器人控制仍能持续工作。测量仅涵盖脱色，这本身并不能表明染料被完全降解或其他污染物被去除。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Agente de IA y robot cierran\nel ciclo en aguas residuales",
+          "body": "En 15 rondas de ciclo cerrado, el Embodied Science Agent elevó la transmitancia de la solución del 82% al 99,7%.",
+          "mini_headline": "Agente de laboratorio en ciclo cerrado",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "Arquitectura del Embodied Science Agent (ESA), un paradigma híbrido cognitivo–corporizado para laboratorios autónomos con tres componentes. Crédito: arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores del University College London, la Universidad de Ciencia y Tecnología de Hong Kong (Guangzhou) y otras instituciones desarrollaron el Embodied Science Agent (ESA), descrito en una preimpresión publicada en arXiv. A diferencia de los agentes de investigación que solo planifican experimentos para que los ejecuten personas o sistemas independientes, ESA conecta un agente digital, un agente corporizado que controla instrumentos y una interfaz entre ambos."
+              },
+              {
+                "t": "p",
+                "x": "El agente digital usa datos previos, registros de experimentos y optimización bayesiana para elegir qué probar a continuación. En experimentos de tratamiento de aguas residuales, ESA seleccionó condiciones entre más de 200 millones de combinaciones posibles a lo largo de 15 rondas consecutivas y elevó la transmitancia de la solución del 82% al 99,7%, lo que los autores vinculan con una reducción del 98,5% en la concentración de tinte residual."
+              },
+              {
+                "t": "p",
+                "x": "Su control robótico siguió funcionando cuando se colocó un soporte de electrodos en distintas posiciones. Las mediciones abarcaron solo la decoloración, lo que por sí solo no demuestra la degradación completa del tinte ni la eliminación de otros contaminantes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 에이전트·로봇이\n폐수 실험 루프 완성",
+          "body": "ESA는 15회 폐루프 실험으로 폐수 투과율을 82%에서 99.7%로 높였다.",
+          "mini_headline": "폐루프 실험 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "자율 실험실을 위한 인지–체화 하이브리드 패러다임인 Embodied Science Agent(ESA)의 세 가지 구성 요소 구조. 출처: arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "University College London, 홍콩과학기술대학교(광저우) 등 여러 기관 연구진이 Embodied Science Agent(ESA)를 개발했으며, 그 내용은 arXiv에 올라온 프리프린트에 담겼다. 사람이나 별도 시스템이 수행할 실험을 계획만 하는 연구 에이전트와 달리, ESA는 디지털 에이전트, 장비를 제어하는 체화 에이전트, 그리고 둘 사이의 인터페이스를 연결한다."
+              },
+              {
+                "t": "p",
+                "x": "디지털 에이전트는 기존 데이터, 실험 기록, 베이지안 최적화를 활용해 다음에 시험할 조건을 고른다. 폐수 처리 실험에서 ESA는 2억 가지가 넘는 조합 가운데 15회 연속 라운드에 걸쳐 조건을 골라 용액 투과율을 82%에서 99.7%로 끌어올렸고, 저자들은 이를 잔류 염료 농도 98.5% 감소와 연결 짓는다."
+              },
+              {
+                "t": "p",
+                "x": "로봇 제어는 전극 랙을 다른 위치에 놓아도 계속 작동했다. 측정은 탈색만을 다뤘으며, 이것만으로 염료가 완전히 분해되거나 다른 오염물질이 제거됐다고 볼 수는 없다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIエージェントとロボが\n廃水実験のループを閉じる",
+          "body": "ESAは15回の閉ループ実験で、溶液の透過率を82%から99.7%に高めた。",
+          "mini_headline": "閉ループ実験エージェント",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "自律実験室のための認知と身体性を組み合わせたハイブリッド型パラダイム、Embodied Science Agent（ESA）の三つの構成要素からなるアーキテクチャ。出典：arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "University College London、香港科技大学（広州）などの研究者がEmbodied Science Agent（ESA）を開発し、arXivに投稿したプレプリントで報告した。人間や別のシステムが実行する実験を計画するだけの研究エージェントと異なり、ESAはデジタルエージェント、機器を制御する身体性エージェント、そして両者をつなぐインターフェースを連携させる。"
+              },
+              {
+                "t": "p",
+                "x": "デジタルエージェントは、既存データ、実験記録、ベイズ最適化を用いて次に試す条件を選ぶ。廃水処理実験でESAは2億を超える組み合わせの候補から15回連続のラウンドで条件を選び、溶液の透過率を82%から99.7%に高めた。著者らはこれを残留染料濃度の98.5%低下に結びつけている。"
+              },
+              {
+                "t": "p",
+                "x": "ロボット制御は、電極ラックを異なる位置に置いても機能し続けた。測定は脱色のみを対象としており、それだけでは染料の完全な分解や他の汚染物質の除去を示すものではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI智能体与机器人\n打通废水实验闭环",
+          "body": "具身科学智能体ESA经过15轮闭环实验，将溶液透过率从82%提升至99.7%。",
+          "mini_headline": "闭环实验智能体",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "Embodied Science Agent（ESA）的架构，这是一种面向自主实验室的认知–具身混合范式，包含三个组成部分。图片来源：arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "伦敦大学学院（University College London）、香港科技大学（广州）等机构的研究人员开发了Embodied Science Agent（ESA），相关内容见于发布在arXiv上的一篇预印本。与只为人类或独立系统规划实验的研究智能体不同，ESA将数字智能体、控制仪器的具身智能体以及二者之间的接口连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "数字智能体利用先验数据、实验记录和贝叶斯优化来选择下一步要测试的条件。在废水处理实验中，ESA在连续15轮中从超过2亿种可能组合里选择条件，将溶液透过率从82%提升至99.7%，作者将其与残留染料浓度降低98.5%联系起来。"
+              },
+              {
+                "t": "p",
+                "x": "当电极架被放置在不同位置时，其机器人控制仍能持续工作。测量仅涵盖脱色，这本身并不能表明染料被完全降解或其他污染物被去除。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Agente de IA y robot cierran\nel ciclo en aguas residuales",
+          "body": "En 15 rondas de ciclo cerrado, el Embodied Science Agent elevó la transmitancia de la solución del 82% al 99,7%.",
+          "mini_headline": "Agente de laboratorio en ciclo cerrado",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+                "cap": "Arquitectura del Embodied Science Agent (ESA), un paradigma híbrido cognitivo–corporizado para laboratorios autónomos con tres componentes. Crédito: arXiv (2026)"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores del University College London, la Universidad de Ciencia y Tecnología de Hong Kong (Guangzhou) y otras instituciones desarrollaron el Embodied Science Agent (ESA), descrito en una preimpresión publicada en arXiv. A diferencia de los agentes de investigación que solo planifican experimentos para que los ejecuten personas o sistemas independientes, ESA conecta un agente digital, un agente corporizado que controla instrumentos y una interfaz entre ambos."
+              },
+              {
+                "t": "p",
+                "x": "El agente digital usa datos previos, registros de experimentos y optimización bayesiana para elegir qué probar a continuación. En experimentos de tratamiento de aguas residuales, ESA seleccionó condiciones entre más de 200 millones de combinaciones posibles a lo largo de 15 rondas consecutivas y elevó la transmitancia de la solución del 82% al 99,7%, lo que los autores vinculan con una reducción del 98,5% en la concentración de tinte residual."
+              },
+              {
+                "t": "p",
+                "x": "Su control robótico siguió funcionando cuando se colocó un soporte de electrodos en distintas posiciones. Las mediciones abarcaron solo la decoloración, lo que por sí solo no demuestra la degradación completa del tinte ni la eliminación de otros contaminantes."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "navier-stokes-buckmaster-alpoge",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Navier-Stokes의\n허점 AI-aided 봉합",
+      "body": "새 AI 보조 증명이 OpenAI의 9월 해법에 난 허점을 메웠다는 주장이다.",
+      "mini_headline": "Navier-Stokes 허점 봉합",
+      "tool": "Science",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+            "cap": "유체역학을 시각적으로 표현한 이미지."
+          },
+          {
+            "t": "p",
+            "x": "Levent Alpöge가 리만 가설 증명을 주장한 직후, 그와 뉴욕대학교(New York University) 교수 Tristan Buckmaster가 또 하나의 백만 달러 난제를 두고 OpenAI가 9월 내놓은 해법의 논란 많던 허점을 메웠다고 믿는다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Navier-Stokes 방정식은 유체가 소용돌이치고 와류를 이루는 방식을 모델링한다. OpenAI는 9월 이 방정식이 “폭발”한다는 것을 증명했다. 하지만 그 증명은 액체를 꼭 알맞게 “휘저어” 무한한 속도를 만들어내는, 비현실적이고 정교하게 조정된 힘을 전제로 했다. 많은 이들이 이를 문제 문구의 허점을 파고든 접근으로 본다."
+          },
+          {
+            "t": "p",
+            "x": "Buckmaster는 앞서 OpenAI가 자신과 Alpöge의 진척을 일부러 가로챘다고 주장했고, OpenAI는 부정행위 의혹을 부인했다."
+          },
+          {
+            "t": "p",
+            "x": "Buckmaster는 8:37 A.M. EST에 Mastodon에 빽빽한 AI-aided 증명을 올리면서 “지난번 일 이후” 자신과 Alpöge가 “기다릴 위험을 감수할 수 없었기에” 원고를 다듬지 못했다고 했다. 두 사람은 결과 인증서를 아직 공개하지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "New AI-aided proof closes\nthe Navier-Stokes loophole",
+          "body": "A new AI-aided blowup proof claims to close the loophole critics found in OpenAI's September Navier-Stokes solution.",
+          "mini_headline": "Navier-Stokes gap closed",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "A visual representation of fluid dynamics."
+              },
+              {
+                "t": "p",
+                "x": "Right after Levent Alpöge’s announcement of a claimed proof of the Riemann hypothesis, he and New York University professor Tristan Buckmaster said they believe they have closed a controversial loophole in OpenAI’s September solution of another million-dollar problem."
+              },
+              {
+                "t": "p",
+                "x": "The Navier-Stokes equations model how fluids swirl and eddy. In September OpenAI proved that the equations “blow up.” But its proof imagined an unrealistic, finely tuned force that “stirs” the liquid in just the right way to produce infinite velocity—an approach many consider a loophole in the wording of the problem."
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster had claimed OpenAI deliberately scooped his and Alpöge’s progress; OpenAI denied allegations of foul play."
+              },
+              {
+                "t": "p",
+                "x": "On Mastodon at 8:37 A.M. EST, Buckmaster posted a dense, artificial-intelligence-aided proof, noting the write-up was unpolished because, “after last time,” he and Alpöge “couldn’t risk waiting.” The two have not yet released the certificate of the result."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Navier-Stokes의\n허점 AI-aided 봉합",
+          "body": "새 AI 보조 증명이 OpenAI의 9월 해법에 난 허점을 메웠다는 주장이다.",
+          "mini_headline": "Navier-Stokes 허점 봉합",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "유체역학을 시각적으로 표현한 이미지."
+              },
+              {
+                "t": "p",
+                "x": "Levent Alpöge가 리만 가설 증명을 주장한 직후, 그와 뉴욕대학교(New York University) 교수 Tristan Buckmaster가 또 하나의 백만 달러 난제를 두고 OpenAI가 9월 내놓은 해법의 논란 많던 허점을 메웠다고 믿는다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Navier-Stokes 방정식은 유체가 소용돌이치고 와류를 이루는 방식을 모델링한다. OpenAI는 9월 이 방정식이 “폭발”한다는 것을 증명했다. 하지만 그 증명은 액체를 꼭 알맞게 “휘저어” 무한한 속도를 만들어내는, 비현실적이고 정교하게 조정된 힘을 전제로 했다. 많은 이들이 이를 문제 문구의 허점을 파고든 접근으로 본다."
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster는 앞서 OpenAI가 자신과 Alpöge의 진척을 일부러 가로챘다고 주장했고, OpenAI는 부정행위 의혹을 부인했다."
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster는 8:37 A.M. EST에 Mastodon에 빽빽한 AI-aided 증명을 올리면서 “지난번 일 이후” 자신과 Alpöge가 “기다릴 위험을 감수할 수 없었기에” 원고를 다듬지 못했다고 했다. 두 사람은 결과 인증서를 아직 공개하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Navier-Stokesの\nAI-aided証明で穴埋め",
+          "body": "新たなAI支援の証明が、OpenAIの9月の解法で批判された抜け穴を塞いだと主張する。",
+          "mini_headline": "Navier-Stokesの穴を塞ぐ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "流体力学を視覚的に表現した画像。"
+              },
+              {
+                "t": "p",
+                "x": "Levent Alpögeがリーマン予想の証明を主張した直後、彼とニューヨーク大学のTristan Buckmaster教授は、OpenAIが9月に示した別の百万ドル問題の解法にある、議論を呼んだ抜け穴を塞いだと考えていると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Navier-Stokes方程式は、流体が渦を巻き乱れる様子をモデル化する。9月、OpenAIはこの方程式が「爆発する」ことを証明した。しかしその証明は、液体をちょうどよく「かき混ぜて」無限大の速度を生み出す、非現実的で精密に調整された力を想定していた。多くの人は、これを問題文の表現上の抜け穴を突くアプローチと見なしている。"
+              },
+              {
+                "t": "p",
+                "x": "BuckmasterはOpenAIが自身とAlpögeの進展を意図的に出し抜いたと主張していた。OpenAIは不正の疑いを否定した。"
+              },
+              {
+                "t": "p",
+                "x": "Buckmasterは8:37 A.M. ESTにMastodonで、密度の高いAI-aidedの証明を投稿した。「前回のことがあったので」、自身とAlpögeは「待つリスクを冒せなかった」ため、原稿は未整理だと付け加えた。両者はまだ結果の証明書を公開していない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Navier-Stokes：\nAI-aided证明补上漏洞",
+          "body": "新的AI辅助证明称已补上OpenAI 9月Navier-Stokes解法的漏洞。",
+          "mini_headline": "Navier-Stokes漏洞被补上",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "流体动力学的视觉呈现。"
+              },
+              {
+                "t": "p",
+                "x": "就在Levent Alpöge宣布声称证明了黎曼猜想之后，他与纽约大学教授Tristan Buckmaster表示，他们相信已经补上了OpenAI 9月对另一个百万美元难题所给解法中一个有争议的漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "Navier-Stokes方程描述流体如何旋转和形成涡流。9月，OpenAI证明了这些方程会“爆破”。但其证明设想了一种不切实际、经过精细调校的力，以恰到好处的方式“搅动”液体，从而产生无限速度——许多人认为这种做法钻了问题表述的漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster曾声称OpenAI故意抢先发表了他和Alpöge的进展；OpenAI否认了不当行为的指控。"
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster于8:37 A.M. EST在Mastodon上发布了一份内容密集的AI-aided证明，并指出文稿尚未打磨，因为“有了上次的教训”，他和Alpöge“不能冒险等待”。两人尚未公布该结果的证书。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nueva demostración AI-aided\ncierra el vacío de Navier-Stokes",
+          "body": "Una nueva prueba asistida por IA dice cerrar el vacío que los críticos vieron en la solución de OpenAI de septiembre.",
+          "mini_headline": "Vacío de Navier-Stokes cerrado",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "Una representación visual de la dinámica de fluidos."
+              },
+              {
+                "t": "p",
+                "x": "Justo después de que Levent Alpöge anunciara una supuesta demostración de la hipótesis de Riemann, él y el profesor de la New York University Tristan Buckmaster dijeron creer que han cerrado un polémico vacío en la solución que OpenAI presentó en septiembre a otro problema del millón de dólares."
+              },
+              {
+                "t": "p",
+                "x": "Las ecuaciones de Navier-Stokes modelan cómo los fluidos giran y forman remolinos. En septiembre, OpenAI demostró que las ecuaciones «explotan». Pero su demostración imaginaba una fuerza poco realista y finamente ajustada que «agita» el líquido de la manera justa para producir una velocidad infinita, un enfoque que muchos consideran un vacío en la redacción del problema."
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster había afirmado que OpenAI se adelantó deliberadamente a sus avances y a los de Alpöge; OpenAI negó las acusaciones de juego sucio."
+              },
+              {
+                "t": "p",
+                "x": "En Mastodon, a las 8:37 A.M. EST, Buckmaster publicó una densa demostración AI-aided, y señaló que el texto estaba sin pulir porque, «después de la última vez», él y Alpöge «no podían arriesgarse a esperar». Los dos aún no han publicado el certificado del resultado."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Navier-Stokes의\n허점 AI-aided 봉합",
+          "body": "새 AI 보조 증명이 OpenAI 9월 해법의 허점을 메웠다고 주장한다.",
+          "mini_headline": "Navier-Stokes 허점 봉합",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "유체역학을 시각적으로 표현한 이미지."
+              },
+              {
+                "t": "p",
+                "x": "Levent Alpöge가 리만 가설 증명을 주장한 직후, 그와 뉴욕대학교(New York University) 교수 Tristan Buckmaster는 또 다른 백만 달러 난제에 대한 OpenAI의 9월 해법에서 논란이 된 허점을 메웠다고 믿는다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Navier-Stokes 방정식은 유체가 소용돌이치고 와류를 이루는 방식을 모델링한다. 9월 OpenAI는 이 방정식이 “폭발”한다는 것을 증명했다. 그러나 그 증명은 액체를 꼭 알맞게 “휘저어” 무한한 속도를 만들어내는, 비현실적이고 정교하게 조정된 힘을 상정했다. 많은 이들은 이를 문제 문구의 허점을 이용한 접근으로 본다."
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster는 OpenAI가 자신과 Alpöge의 진척을 의도적으로 가로챘다고 주장한 바 있으며, OpenAI는 부정행위 의혹을 부인했다."
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster는 8:37 A.M. EST에 Mastodon에 촘촘한 AI-aided 증명을 올리며, “지난번 일 이후” 자신과 Alpöge가 “기다릴 위험을 감수할 수 없었기에” 원고를 다듬지 못했다고 밝혔다. 두 사람은 아직 결과의 인증서를 공개하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Navier-Stokesの\nAI-aided証明で穴埋め",
+          "body": "新たなAI支援の証明が、OpenAIの9月の解法で批判された抜け穴を塞いだと主張する。",
+          "mini_headline": "Navier-Stokesの穴を塞ぐ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "流体力学を視覚的に表現した画像。"
+              },
+              {
+                "t": "p",
+                "x": "Levent Alpögeがリーマン予想の証明を主張した直後、彼とニューヨーク大学のTristan Buckmaster教授は、OpenAIが9月に示した別の百万ドル問題の解法にある、議論を呼んだ抜け穴を塞いだと考えていると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Navier-Stokes方程式は、流体が渦を巻き乱れる様子をモデル化する。9月、OpenAIはこの方程式が「爆発する」ことを証明した。しかしその証明は、液体をちょうどよく「かき混ぜて」無限大の速度を生み出す、非現実的で精密に調整された力を想定していた。多くの人は、これを問題文の表現上の抜け穴を突くアプローチと見なしている。"
+              },
+              {
+                "t": "p",
+                "x": "BuckmasterはOpenAIが自身とAlpögeの進展を意図的に出し抜いたと主張していた。OpenAIは不正の疑いを否定した。"
+              },
+              {
+                "t": "p",
+                "x": "Buckmasterは8:37 A.M. ESTにMastodonで、密度の高いAI-aidedの証明を投稿した。「前回のことがあったので」、自身とAlpögeは「待つリスクを冒せなかった」ため、原稿は未整理だと付け加えた。両者はまだ結果の証明書を公開していない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Navier-Stokes：\nAI-aided证明补上漏洞",
+          "body": "新的AI辅助证明称已补上OpenAI 9月Navier-Stokes解法的漏洞。",
+          "mini_headline": "Navier-Stokes漏洞被补上",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "流体动力学的视觉呈现。"
+              },
+              {
+                "t": "p",
+                "x": "就在Levent Alpöge宣布声称证明了黎曼猜想之后，他与纽约大学教授Tristan Buckmaster表示，他们相信已经补上了OpenAI 9月对另一个百万美元难题所给解法中一个有争议的漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "Navier-Stokes方程描述流体如何旋转和形成涡流。9月，OpenAI证明了这些方程会“爆破”。但其证明设想了一种不切实际、经过精细调校的力，以恰到好处的方式“搅动”液体，从而产生无限速度——许多人认为这种做法钻了问题表述的漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster曾声称OpenAI故意抢先发表了他和Alpöge的进展；OpenAI否认了不当行为的指控。"
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster于8:37 A.M. EST在Mastodon上发布了一份内容密集的AI-aided证明，并指出文稿尚未打磨，因为“有了上次的教训”，他和Alpöge“不能冒险等待”。两人尚未公布该结果的证书。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nueva demostración AI-aided\ncierra el vacío de Navier-Stokes",
+          "body": "Una nueva prueba asistida por IA dice cerrar el vacío que los críticos vieron en la solución de OpenAI de septiembre.",
+          "mini_headline": "Vacío de Navier-Stokes cerrado",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+                "cap": "Una representación visual de la dinámica de fluidos."
+              },
+              {
+                "t": "p",
+                "x": "Justo después de que Levent Alpöge anunciara una supuesta demostración de la hipótesis de Riemann, él y el profesor de la New York University Tristan Buckmaster dijeron creer que han cerrado un polémico vacío en la solución que OpenAI presentó en septiembre a otro problema del millón de dólares."
+              },
+              {
+                "t": "p",
+                "x": "Las ecuaciones de Navier-Stokes modelan cómo los fluidos giran y forman remolinos. En septiembre, OpenAI demostró que las ecuaciones «explotan». Pero su demostración imaginaba una fuerza poco realista y finamente ajustada que «agita» el líquido de la manera justa para producir una velocidad infinita, un enfoque que muchos consideran un vacío en la redacción del problema."
+              },
+              {
+                "t": "p",
+                "x": "Buckmaster había afirmado que OpenAI se adelantó deliberadamente a sus avances y a los de Alpöge; OpenAI negó las acusaciones de juego sucio."
+              },
+              {
+                "t": "p",
+                "x": "En Mastodon, a las 8:37 A.M. EST, Buckmaster publicó una densa demostración AI-aided, y señaló que el texto estaba sin pulir porque, «después de la última vez», él y Alpöge «no podían arriesgarse a esperar». Los dos aún no han publicado el certificado del resultado."
               }
             ]
           }

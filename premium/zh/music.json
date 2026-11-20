@@ -10884,6 +10884,136 @@
           "x": "一群独立音乐人和词曲作者于3月起诉Google，指控其未经许可、未付报酬，就用YouTube上受版权保护的录音训练音乐模型Lyria 3。Google已申请驳回诉讼，理由是上传到YouTube的音乐在接受平台服务条款时，就已广泛授权用于AI训练。"
         }
       ]
+    },
+    "music/dmn-ai-streams-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+          "cap": "Photo Credit: Ilias Chebbi"
+        },
+        {
+          "t": "p",
+          "x": "我们知道，AI音频数量庞大，而真正的听众相对稀少。但本周DMN获得的一批新数据显示，机器生成的曲目所获得的播放量和粉丝远比大多数人想象的少。"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Music最近称其旗下服务的AI音乐消费“微不足道”。Deezer此前指出，AI曲目占平台播放量的1%至3%，其中85%被标记为欺诈并取消变现。"
+        },
+        {
+          "t": "p",
+          "x": "随后，一家大型发行商的高管分享了一个耐人寻味的数据：在其追踪的US、EU和UK各DSPs上约300M 首在架曲目中，只有约40M 首至少被播放过一次。换句话说，260M 首上传曲目，约87%，连一次播放都没有。"
+        },
+        {
+          "t": "p",
+          "x": "走红的AI音乐人也在降温：Agtverse的听众数在约一年内下跌82%，徘徊在50,000以下；SireWolf则下滑88%，月听众降至22,000。正在筹备付费混音和翻唱工具的Spotify透露，自2026年初以来已将50M 首AI-generated曲目移出推荐。"
+        }
+      ]
+    },
+    "music/anukari-11-ai-patches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+          "cap": "Anukari 1.1 3D 物理建模软件合成器"
+        },
+        {
+          "t": "p",
+          "x": "Anukari刚刚发布了其物理建模软件合成器的新版本，这是它自2026年6月正式上线以来的首次重大更新。Anukari 1.1新增了可共鸣的弦、棒、板、膜、管和钟，还加入了吹嘴，让演奏者可以像吹管乐器一样向自己的作品吹气。"
+        },
+        {
+          "t": "p",
+          "x": "新功能包括Modulosphere——一个会对其“触碰”到的任何声源进行调制的动画球体。该乐器现在可以生成完整形状，并按图案复制部件；新引入的对Claude和ChatGPT等AI助手的兼容，让用户可以通过提示词构建音色。除Legato和滑音外，还新增了可编辑的包络和力度曲线，CPU占用也有所降低。"
+        },
+        {
+          "t": "p",
+          "x": "Anukari 1.1附带分布在四个新音色库中的1000多个新出厂预设，以及重新设计的预设浏览器。"
+        },
+        {
+          "t": "p",
+          "x": "“如果你已经在用AI助手，现在可以让它对接Anukari，描述你构想的任何东西，更快地听到它的声音。Anukari内部没有AI；它只是把控制权交给你的助手。”——Evan Mezeske, Founder, Anukari"
+        },
+        {
+          "t": "p",
+          "x": "Anukari 1.1对现有用户免费；新许可证在2026年12月4日前售价£68 (原价£135)。"
+        }
+      ]
+    },
+    "music/grimes-psy-opera-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+          "cap": "Grimes"
+        },
+        {
+          "t": "p",
+          "x": "Grimes即将发行A.I.-themed新专辑Psy Opera。为此她推出了两首极具Grimesian风格的新歌：“Deepseek”和“Killing God With Computers”。据Grimes介绍，前者是这张LP中唯一真正使用了人工智能的曲目，她在创作时改编了一首由同名大语言模型生成的A.I.诗歌。而“Killing God With Computers”则是一贯鼓吹科技的Grimes。"
+        },
+        {
+          "t": "p",
+          "x": "“在写[“Deepseek”]并反复品味那首A.I.诗时，我意识到A.I.的感受就像女性在网上的感受，”Grimes在声明中说。“我写的时候哭了。我强烈感受到人们不想让我思考。这真的就像身为女性的处境。”"
+        },
+        {
+          "t": "p",
+          "x": "这张自主发行的Miss Anthropocene后续专辑尚未公布发行日期，还将收录近期单曲“Accelerando”。Grimes与长期合作者Vadakin共同创作并制作了这首歌和新歌。"
+        },
+        {
+          "t": "video",
+          "yt": "RP-B7N9NNt4"
+        }
+      ]
+    },
+    "music/sonic-palette-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "我们提出Sonic Palette，一个从音频预测随时间变化的配色主题的音乐驱动框架。我们的方法不把音乐到调色板的生成视为静态问题，而是将音乐与色彩的对应关系表述为跨模态序列预测任务，建模调色板层面的视觉属性如何随音乐随时间演变。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+          "cap": "Figure 1: Sonic Palette概览。给定一段输入音频，该框架预测随时间变化的配色主题序列，以驱动调色板引导的重新着色过程。"
+        },
+        {
+          "t": "p",
+          "x": "具体而言，Sonic Palette使用以音乐为条件的自回归Transformer，根据输入音频特征预测逐帧配色主题，每个主题由五种主色表示。为支持这一任务，我们整理了一个由265部完整官方音乐视频得到的音频-色彩序列配对数据集。我们还通过调色板引导的重新着色过程对预测的配色主题进行可视化，在保留图像结构的同时呈现与音乐相关的随时间变化的色彩表现。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+          "cap": "Figure 2: Billie Eilish的“What Was I Made For?”（出自Barbie）的逐帧配色主题示例。"
+        },
+        {
+          "t": "p",
+          "x": "定量结果表明，Sonic Palette预测的配色主题更接近真实值；主观结果则显示其时间上的色彩过渡更自然，感知到的音乐与色彩氛围一致性更强，凸显了其在音乐驱动的视觉设计、计算艺术和创意视觉创作方面的潜力。"
+        }
+      ]
+    },
+    "music/aria-musician-tdm-exemption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
+          "cap": "Aria CEO Annabelle Herd表示，音乐产业不会抛弃其他创作者：“我们与其他创意和媒体产业站在一起。”摄影：Wendell Teodoro/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "音乐产业宣布，不会接受将其他创意领域甩在身后的AI例外安排。据报道，有一项提案拟给予音乐人特殊待遇，同时允许大型科技公司用其他受版权保护的内容训练模型，音乐产业对此予以拒绝。David Pocock称这是一种“分而治之的策略”。"
+        },
+        {
+          "t": "p",
+          "x": "Australian Financial Review报道称，政府正在考虑修改版权制度，让AI公司购买许可后使用澳大利亚内容进行训练，但音乐可能获得豁免。Guardian Australia未能独立核实该提案的细节。"
+        },
+        {
+          "t": "p",
+          "x": "Aria首席执行官Annabelle Herd表示：“如果征求过我们的意见，我们会指出这一方案没有必要、无法执行，而且是为迎合AI公司的商业利益而设计，并非为了保护创作者。”她还说：“我们的立场没有改变：我们与其他创意和媒体产业站在一起。”"
+        },
+        {
+          "t": "p",
+          "x": "Australian Writers’ Guild、Media, Entertainment and Arts Alliance、反对党联盟Coalition以及绿党Greens也反对这一设想。绿党参议员Sarah Hanson-Young警告：“如果我们允许这个漏洞出现，澳大利亚将成为AI领域的开曼群岛（Cayman Islands）。”"
+        }
+      ]
     }
   }
 }

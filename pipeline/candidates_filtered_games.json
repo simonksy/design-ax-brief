@@ -1,246 +1,195 @@
 {
   "section": "games",
-  "now_iso": "2026-11-19T22:03:00Z",
+  "now_iso": "2026-11-20T22:00:39Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Ubisoft Creates Generative AI Game Studio Called 'Motherbrain' as Part of New Operating Model",
-      "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
-      "source": "IGN",
+      "title": "Stellar Blade: Blood Rain is \"handmade from start to finish\" after AI music video backlash, Shift Up boss says – but, uh, the devs are still using AI",
+      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-19T21:34:57Z",
-      "excerpt": "Ubisoft's Nov 19 earnings report reveals Motherbrain, a new subsidiary for 'AI for gameplay innovation' (smart NPCs with memory, AI game masters for systemic worlds); it is the team behind the voice-commanded AI-companion shooter Teammates. Follow-up to the Sept Motherbrain team reveal: now a standalone studio.",
-      "og_image": "https://assets-prd.ignimgs.com/2026/11/19/ubisoft-ai-studio-1795123909618.jpg?width=1280&format=jpg&auto=webp&quality=80"
+      "published_iso": "2026-11-20T12:17:30Z",
+      "excerpt": "So, not handmade from start to finish?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6-1920-80.jpg",
+      "cluster": "c8"
     },
     {
-      "title": "Ubisoft Says It Has A 'Very Big Pipeline Of Productions' As It Lays Off Over 150 More Developers And Starts An AI Studio",
-      "url": "https://kotaku.com/ubisoft-lays-off-over-150-more-developers-with-no-big-releases-in-sight-2000758467",
-      "source": "Kotaku",
+      "title": "Ahead of GTA 6, Take-Two CEO calls out Anthropic and OpenAI over AI game clones as it's \"ironic\" to \"stomp on someone else's IP\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-19T17:15:32+00:00",
-      "excerpt": "Same Ubisoft story from the layoffs angle: 166 roles cut in Montreal/Quebec while the generative-AI team becomes the Motherbrain subsidiary. Alternate source for the Motherbrain card.",
-      "og_image": "https://kotaku.com/app/uploads/2023/02/db4438eec8aa988983cf2b0a7aa81229-1200x675.jpg",
+      "published_iso": "2026-11-14T13:10:08Z",
+      "excerpt": "After Claude blocked users from \"recreating someone else's specific game\"",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
       "history_match": {
-        "score": 0.156,
-        "date": "2026-11-09",
-        "url": "https://www.databricks.com/customers/ubisoft/unity-gateway",
-        "title": "Ubisoft scales AI coding agents to 4,000+ developers with Unity Gateway",
+        "score": 0.157,
+        "date": "2026-11-02",
+        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "title": "Anthropic tells Claude to stop remaking video games",
         "band": "related"
       }
     },
     {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
+      "title": "Epic Games' Tim Sweeney says Steam's AI disclosure is \"unfair to developers who use AI to make good games\" because it associates AI \"with bad games\"",
+      "url": "https://www.gamesradar.com/games/epic-games-tim-sweeney-says-steams-ai-disclosure-is-unfair-to-developers-who-use-ai-to-make-good-games-because-it-associates-ai-with-bad-games/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-18T18:13:42+00:00",
-      "excerpt": "Google rolls out the Genie 4 world model in Project Genie to AI Ultra subscribers: edit interactive worlds in real time with natural language (weather, characters, native adaptive audio), a creative agent for building environments, and a community gallery for sharing/remixing; AI Pro waitlist. Access change after the Oct 28 Genie 4 announcement (Gemini API availability followed 11-19).",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
-      "history_match": {
-        "score": 0.393,
-        "date": "2026-10-28",
-        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "title": "Genie 4: A new generation of world simulation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
-      "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-11-19T15:30:00+00:00",
-      "excerpt": "Epic's AI-encouraged MegaJam popularity chart is topped by LSD: FIH, a game made without generative AI. Note: popularity ranking, check whether official winners are announced (brief: MegaJam official winners qualify once).",
-      "og_image": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_iso": "2026-11-14T00:39:47Z",
+      "excerpt": "\"It's a guilt by association pattern that all developers need to push back on\"",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/umZkVR6nq6NmtKLHanmrFU-1920-80.jpg",
       "history_match": {
         "score": 0.175,
-        "date": "2026-10-23",
-        "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-        "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+        "date": "2026-10-24",
+        "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
+        "title": "Still mad at Valve for Steam's AI disclosures, Epic Games boss criticizes \"forcing developers to write a political statement to be used against them by the hate mob\"",
         "band": "related"
       }
     },
     {
-      "title": "The Most Popular Game From Epic Games' AI MegaJam Contest Is Pure Human-Made Slop",
-      "url": "https://kotaku.com/epic-ai-megajam-game-jam-slop-lsd-fih-aura-farming-tim-sweeney-2000758352",
-      "source": "Kotaku",
+      "title": "[지스타 2026] 코에이 테크모 \"AI로 품질 검사 효율화…게임의 재미는 사람이\"",
+      "url": "https://www.inews24.com/view/2028436",
+      "source": "아이뉴스24",
       "category": "games",
-      "published_iso": "2026-11-19T12:00:15+00:00",
-      "excerpt": "Kotaku on the same Epic AI MegaJam result: the human-made LSD: FIH leads a field full of AI-generated entries. Alternate source.",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/LSD-FIH-image-from-trailer-by-PolyCube.jpg",
+      "published_iso": "2026-11-20T12:06:15+09:00",
+      "excerpt": "QA·점검 업무에 AI 활용…확보한 시간, 게임 완성도 높이는 데 투입\r\n1~2프레임 단위 조정 고수…고난도 액션도 공정한 대응 기회 보장 \"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단순 작업을 대체할 수는 있지만, 최종적으로 무엇이 재미있는지 고민하고 만드는 것은 사람의 역할입니다.“시바타 코헤이 코에이 테크모 게 [아이뉴스24 곽민구 기자] \"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단",
+      "og_image": "https://image.inews24.com/v1/261429f860458e.jpg"
+    },
+    {
+      "title": "[지스타 2026] 김형태 시프트업 대표 \"AI 게임 쏟아질 2027년…수작업 돋보일 것\"",
+      "url": "https://www.inews24.com/view/2028184",
+      "source": "아이뉴스24",
+      "category": "games",
+      "published_iso": "2026-11-19T14:49:34+09:00",
+      "excerpt": "AI 활용해 개발 완성도 높이되 창작은 사람이 주도…시프트업 개발 철학 공개\r\n미카미 신지 \"정해진 반응 넘어선 AI 캐릭터 등장할 것…새로운 경험 제공\" “2027년에는 인공지능(AI)으로 만든 게임을 굉장히 많이 보게 될 것입니다. 그 가운데 사람의 손으로 만든 수공예 같은 작품들이 더 돋보일 수 있는 시대가 될 것이라고 생각합니다.”김형태 시프트업 대표는 19일 부산 벡스코에 [아이뉴스24 곽민구 기자] “2027년에는 인공지능(AI)으로 만든 게임을 ",
+      "og_image": "https://image.inews24.com/v1/43d08eb30b2f00.jpg"
+    },
+    {
+      "title": "『Roblox』が既存ゲームの無料移植を支援―AI支援ツールで移植コストの削減を目指す、IP所有権は開発者が維持",
+      "url": "http://www.gamespark.jp/article/2026/11/20/175129.html",
+      "source": "Game*Spark",
+      "category": "games",
+      "published_iso": "2026-11-20T19:30:03+09:00",
+      "excerpt": "Robloxは、既存ゲームを無償で自社プラットフォーム向けに変換するクリエイタープログラムを開始しました。",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1221779.jpg",
       "history_match": {
-        "score": 0.224,
-        "date": "2026-10-23",
-        "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-        "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+        "score": 0.23,
+        "date": "2026-10-30",
+        "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
+        "title": "Roblox says more than 80% of its top 100 games used AI to accelerate creation",
         "band": "related"
       }
     },
     {
-      "title": "賞金総額1000万円のAI利用推奨ゲームコンテストで「AI不使用ゲーム」が人気トップに",
-      "url": "https://automaton-media.com/articles/newsjp/20261118-479914/",
-      "source": "AUTOMATON",
+      "title": "『Stellar Blade』『NIKKE』のSHIFT UP「最初から最後まで手作り」を新たな社内理念に―反発を教訓と語る一方、AIは今後のゲーム開発に不可欠との見解も",
+      "url": "http://www.gamespark.jp/article/2026/11/20/175132.html",
+      "source": "Game*Spark",
       "category": "games",
-      "published_iso": "2026-11-18T10:18:57+00:00",
-      "excerpt": "AUTOMATON (JP) on Epic's AI-encouraged game jam (10M yen prize pool), where a game made without AI tops the popularity ranking. Alternate source for the MegaJam story.",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/header-4.jpg"
+      "published_iso": "2026-11-20T20:30:03+09:00",
+      "excerpt": "土台と仕上げ、始まりと終わりの両方に人間が責任を持つという考えを重要視する姿勢を見せました。",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1221826.png",
+      "cluster": "c8"
     },
     {
-      "title": "生成AIを活用したFMVゲーム「元カレ×デスゲーム」，2026年12月4日に基本プレイ無料で配信予定",
-      "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
+      "title": "Roblox launches creator program for devs to bring games to its platform for free",
+      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-11-17T15:07:20+00:00",
+      "excerpt": "Firm is working with a limited number of developers and games across mobile, PC, and console",
+      "og_image": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.199,
+        "date": "2026-10-27",
+        "url": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
+        "title": "Remix launches platform for anyone to build their own game on desktop, web or mobile",
+        "band": "related"
+      }
+    },
+    {
+      "title": "小説か，漫画か，ゲームかという問いは時代遅れに。「キャラぷ」のWrtnが語る「ハイパー・パーソナライゼーション」とAIエンタメの未来［G-STAR 2026］",
+      "url": "https://www.4gamer.net/games/991/G999104/20261120011/",
       "source": "4Gamer.net",
       "category": "games",
-      "published_iso": "2026-11-18T14:14:37+09:00",
-      "excerpt": "LIUGUANG STUDIO will release the free-to-play FMV game 'Ex-Boyfriend x Death Game', built with generative AI (100 ex-boyfriends gathered on a cruise ship), on Dec 4, 2026.",
-      "og_image": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+      "published_iso": "2026-11-20T14:03:07+09:00",
+      "excerpt": "AIでコンテンツの制作負荷は大きく下がり，体験はユーザーごとに分岐するようになる。小説か漫画かゲームかという区分を越えた「Narrative Industry」の姿とは。G-CON 2026のメイン…",
+      "og_image": "https://www.4gamer.net/games/991/G999104/20261120011/SS/002.jpg",
+      "cluster": "c8"
     },
     {
-      "title": "Getting Started with Unreal MCP | Turn AI into Action in UE 5.8",
-      "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
-      "source": "Unreal Engine (YouTube)",
+      "title": "「Stellar Blade」キム・ヒョンテ氏と「バイオハザード」三上真司氏が対談。物語の伝え方やAIとの付き合い方を語る［G-STAR 2026］",
+      "url": "https://www.4gamer.net/games/991/G999110/20261120014/",
+      "source": "4Gamer.net",
       "category": "games",
-      "published_iso": "2026-11-19T11:00:39-08:00",
-      "excerpt": "Epic publishes an official Unreal MCP course (one of a dozen videos dropped 11-19): the Epic-supported, experimental UE 5.8 bridge that lets agentic AI tools (Claude Code, Cursor) understand a project and create, modify and test in the editor, plus an in-editor Terminal plugin. Course/how-to format.",
-      "og_image": "https://i.ytimg.com/vi/OjffwpbcQsQ/maxresdefault.jpg",
+      "published_iso": "2026-11-20T14:09:30+09:00",
+      "excerpt": "韓国のゲームイベント「G-STAR 2026」と併催のカンファレンス「G-CON 2026」で，SHIFT UPのキム・ヒョンテ氏と，Unbound Gamesの三上真司氏による対談が行われた。2人…",
+      "og_image": "https://www.4gamer.net/games/991/G999110/20261120014/SS/005.jpg",
+      "cluster": "c8"
+    },
+    {
+      "title": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
+      "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-11-18T17:49:59Z",
+      "excerpt": "I'm not sure Toy Story is the best comparison here.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb-1920-80.jpg"
+    },
+    {
+      "title": "Principal Venture Partners’ Songyee Yoon on AI-native games, human creativity and gaming’s new rivals | GamesBeat Next 2026",
+      "url": "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-11-19T18:28:04+00:00",
+      "excerpt": "Songyee Yoon believes that gaming’s playbook will build the next wave of AI companies, even when there isn’t a dungeon in sight.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg",
       "history_match": {
-        "score": 0.194,
-        "date": "2026-11-11",
-        "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
-        "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
+        "score": 0.259,
+        "date": "2026-11-13",
+        "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
+        "title": "AI-native game development: Making games that can only be made with AI | GamesBeat Next 2026",
         "band": "related"
       }
-    },
-    {
-      "title": "MetaHuman Animator Markerless Motion Capture Deep Dive | Inside Unreal",
-      "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
-      "published_iso": "2026-11-19T13:32:45-08:00",
-      "excerpt": "Epic's Inside Unreal walks through the new MetaHuman Animator Markerless Motion Capture plugin (on Fab), which turns ordinary phone or webcam video into full-body MetaHuman animation, with Epic researcher Michael Black explaining the tech. Fits the 'AI animation games' keyword.",
-      "og_image": "https://i.ytimg.com/vi/zd7DCFBLCcc/maxresdefault.jpg"
-    },
-    {
-      "title": "対話型AI「Claude」が『ポケモン』関連の作業を拒否するようになったとの報告",
-      "url": "https://automaton-media.com/articles/newsjp/20261112-478893/",
-      "source": "AUTOMATON",
-      "category": "games",
-      "published_iso": "2026-11-12T08:03:12+00:00",
-      "excerpt": "Users report that Claude now refuses Pokemon-related generation, including game imitation, assets and logos: an AI-tool guardrail that affects fan/indie game creation.",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478893-header.jpg"
-    },
-    {
-      "title": "Crimson Desert Studio Pearl Abyss Now Uses AI to Validate Game Designs Before Developers Build Them",
-      "url": "https://wccftech.com/pearl-abyss-ai-validate-game-designs/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-16T08:00:00+00:00",
-      "excerpt": "Pearl Abyss details AI tools in its BlackSpace Engine that validate game designs before developers build them. Follow-up to the Pearl Abyss AI pipeline letter (published 11-14), so only use it if it adds a concrete tool.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/crimson-desert-charting-the-unknown-HD-1920x1080.jpeg",
-      "history_match": {
-        "score": 0.412,
-        "date": "2026-11-14",
-        "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
-        "title": "Crimson Desert studio Pearl Abyss is implementing AI \"throughout our entire development pipeline\", expects DokeV in 2028",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Developer Uses Claude Code To Build A Fully Automated 3D Sports League With 30 Teams And 38 Years Of Simulated History",
-      "url": "https://wccftech.com/developer-uses-claude-code-to-build-a-fully-automated-3d-sports-league/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-18T18:00:00+00:00",
-      "excerpt": "A developer built Fock Ball, a fully automated 3D sports league (30 teams, 38 years of simulated history, AI commentary), with Claude Code. Vibe-coding category is capped per brief: low priority.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-50.jpg"
-    },
-    {
-      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop",
-      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-11-10T23:00:35+00:00",
-      "excerpt": "A student game-dev competition was shut down after it was flooded with AI-generated submissions: an organizer's formal action on gen-AI entries.",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2218779363.jpg",
-      "history_match": {
-        "score": 0.304,
-        "date": "2026-11-11",
-        "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
-        "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
-        "band": "related"
-      }
-    },
-    {
-      "title": "GTA 6 Runs at 280 FPS With NVIDIA DLSS 5 on RTX 5090, but There's a Catch",
-      "url": "https://gameriv.com/gta-6-runs-at-280-fps-with-nvidia-dlss-5-on-rtx-5090-but-theres-a-catch/",
-      "source": "GameRiv",
-      "category": "games",
-      "published_iso": "2026-11-19T16:16:35+00:00",
-      "excerpt": "Demo shows GTA 6 output pushed to about 280 FPS with DLSS 5 neural rendering and frame generation on an RTX 5090. Deprioritized category (neural rendering, not a new SDK): low priority.",
-      "og_image": "https://gameriv.com/wp-content/uploads/2026/11/GTA-6-DLSS5-4k-60-FPS.jpg",
-      "history_match": {
-        "score": 0.299,
-        "date": "2026-10-25",
-        "url": "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/",
-        "title": "NVIDIA RTX Remix 1.6 Launches With DLSS 5, 6X Multi Frame Generation, Minecraft Java Edition Support, And More",
-        "band": "related"
-      }
-    },
-    {
-      "title": "슈퍼센트 \"AI가 바꾼 건 사업 기회의 총량\"… 에이전트 200개로 퍼블리싱 재편",
-      "url": "https://www.inven.co.kr/webzine/news/?news=323607",
-      "source": "인벤",
-      "category": "games",
-      "published_iso": "2026-11-19T16:18:51+09:00",
-      "excerpt": "At Google Play's Playtime Korea 2026, mobile publisher Supercent said it rebuilt publishing around ~200 AI agents; its business lead said AI changed how many business bets the company can try, not just how fast it works. A studio deployment with specifics.",
-      "og_image": "https://static.inven.co.kr/column/2026/11/19/news/i1421585160.jpg"
-    },
-    {
-      "title": "뤼튼 이세영 대표 \"크랙 IP, 전문 파트너와 게임으로 확장 가능\"",
-      "url": "https://www.inven.co.kr/webzine/news/?news=323626",
-      "source": "인벤",
-      "category": "games",
-      "published_iso": "2026-11-20T00:07:30+09:00",
-      "excerpt": "Wrtn (G-Star 2026 main sponsor) CEO says original IP from its AI character-chat service Crack (Kyarapu in Japan, OOC in North America) will expand into games with specialist partners. Plan, not a shipped product: weak.",
-      "og_image": "https://static.inven.co.kr/column/2026/11/20/news/i1730536528.jpg"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 14,
+    "dropped": 4,
+    "kept": 13,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 8,
-    "same_story_pairs": []
+    "dropped": [
+      {
+        "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+        "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析",
+        "match": {
+          "score": 0.515,
+          "date": "2026-11-07",
+          "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
+          "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？"
+        }
+      }
+    ],
+    "review": 5,
+    "same_story_pairs": [
+      [
+        "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
+        "http://www.gamespark.jp/article/2026/11/20/175132.html",
+        0.32
+      ],
+      [
+        "http://www.gamespark.jp/article/2026/11/20/175132.html",
+        "https://www.4gamer.net/games/991/G999110/20261120014/",
+        0.556
+      ],
+      [
+        "https://www.4gamer.net/games/991/G999104/20261120011/",
+        "https://www.4gamer.net/games/991/G999110/20261120014/",
+        0.397
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-21",
-      "title": "Adam Boyes' Vivrato issues report based on 101 game leaders' views on AI in gaming",
-      "url": "https://gamesbeat.com/adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai-in-gaming-exclusive/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "The AI state of play: AI laws and game development",
-      "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "New launcher for viral AI mash-ups of Elden Ring, Minecraft, and more emerges – with some very questionable terms of service, should you value your PC",
-      "url": "https://www.gamesradar.com/games/new-launcher-for-viral-ai-mash-ups-of-elden-ring-minecraft-and-more-emerges-with-some-very-questionable-terms-of-service-should-you-value-your-pc/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Google's AI Agents Just Killed the Ender Dragon in Minecraft Without Any Help in What Is Believed to Be a World First",
-      "url": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "[이슈] 'AI 카피캣' 우려에 국내 인디 스푸키친 데모 닫았다",
-      "url": "https://www.inven.co.kr/webzine/news/?news=322319"
-    },
     {
       "date": "2026-10-22",
       "title": "Xbox Manager Says 'Hundreds' There Are Using AI Before Deleting Account: 'If I'm Fired Tomorrow It Will Be Because I Told You The Truth That Nobody Wants You To Know'",
@@ -900,6 +849,31 @@
       "date": "2026-11-19",
       "title": "Will Wright's next game uses AI to map your memories",
       "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Ubisoft Creates Generative AI Game Studio Called 'Motherbrain' as Part of New Operating Model",
+      "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "슈퍼센트 \"AI가 바꾼 건 사업 기회의 총량\"… 에이전트 200개로 퍼블리싱 재편",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323607"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
+      "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Getting Started with Unreal MCP | Turn AI into Action in UE 5.8",
+      "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ"
     }
   ]
 }

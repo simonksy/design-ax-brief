@@ -12433,6 +12433,134 @@
           "x": "Caster Bluepanda said \"they're not really sorry at all,\" and ProtoANZ called for an esports talent union to push for contracts that \"essentially ban the use of our voices in generative AI.\""
         }
       ]
+    },
+    "games/shiftup-bloodrain-handmade": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
+          "cap": "Image credit: Shift Up"
+        },
+        {
+          "t": "p",
+          "x": "Stellar Blade: Blood Rain re-entered the limelight with a highly controversial music video full of generative AI content – a debacle that prompted Shift Up to reconsider its use of the contentious tech."
+        },
+        {
+          "t": "p",
+          "x": "CEO Kim Hyung-tae initially defended the video, saying star Evie was originally \"created from head to toe\" by human developers. Shift Up then promised it was taking community concerns \"seriously\", while saying AI has \"a lot of influence and impact on game development.\""
+        },
+        {
+          "t": "p",
+          "x": "Speaking to Inven Global, Kim said the backlash birthed a new motto: \"Handmade from start to finish.\" That does not mean Shift Up has stopped using AI. It is still used for intermediate tasks such as texture weathering, reducing polygon counts for performance, testing lighting, and organization, with human developers refining everything at the end."
+        },
+        {
+          "t": "p",
+          "x": "Kim said simply prioritizing \"efficiency\" and \"productivity\" isn't the way to go: Shift Up uses AI to raise quality, not to speed up releases. He believes games that rely on AI for efficiency end up regarded as \"slop\" — but working entirely without the tech is no longer feasible, as it's used in everything from simple quality assurance to more in-depth debugging."
+        }
+      ]
+    },
+    "games/koeitecmo-ai-qa-gstar": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "\"I believe a game can never become fun unless people make it themselves. AI can replace simple tasks, but in the end it is people's role to think about what is fun and to make it.\""
+        },
+        {
+          "t": "p",
+          "x": "Kohei Shibata, a producer (PD) at Koei Tecmo Games' Team Ninja, said this about game development using AI at G-Star 2026, held at BEXCO in Busan on the 19th. Shibata, who leads development of Nioh 3, met reporters after his G-CON talk, and Wo Long 2 PD Masakazu Hirayama also joined the interview."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/261429f860458e.jpg",
+          "cap": "Koei Tecmo Team Ninja PD Masakazu Hirayama (left) and PD Kohei Shibata (right) during the interview. [Photo = reporter Kwak Min-gu]"
+        },
+        {
+          "t": "p",
+          "x": "\"We are currently using AI for quality assurance (QA) and inspection work, making some tasks more efficient,\" Shibata said. \"When work time is shortened, we can spend that much more time raising the game's level of completion.\" On the scope of AI use, he added, \"Since it is a new technology, we keep reviewing how best to use it.\""
+        },
+        {
+          "t": "p",
+          "x": "Hirayama said, \"Even now, developers adjust movement in units of 1~2 frames to create the hand feel players sense intuitively.\" Shibata stressed, \"How fast the game responds when you press a button and how simple the controls are is the core of an action game.\""
+        },
+        {
+          "t": "p",
+          "x": "In difficulty design, fairness between enemies and the player matters most. Hirayama explained that one approach is to let players survive even when the first attack deals damage equal to 80% of their health, so they can respond to the next attack."
+        },
+        {
+          "t": "p",
+          "x": "Team Ninja analyzes reactions from each country every day, including X in Japan, Reddit overseas and Chinese SNS, along with demo feedback, to find what to improve before the official release. At this G-Star's Wo Long 2 demo area, Hirayama also watched players firsthand to gather information."
+        }
+      ]
+    },
+    "games/taketwo-exboss-toystory-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
+          "cap": "Image credit: Rockstar"
+        },
+        {
+          "t": "p",
+          "x": "Ex-Take Two boss Ben Feder, who oversaw games like Red Dead Redemption and Grand Theft Auto 4, has discussed with The Game Business how one day people will accept AI—it's just a matter of time."
+        },
+        {
+          "t": "p",
+          "x": "\"When animation went from hand-drawn to computer animation, there was a massive wall of resistance,\" he says. \"People didn't think it looked good. Then Pixar launched Toy Story. They created a movie that not only was awesome, but used computer-generated animation and chose a subject matter that made the most of it, and did an amazing job with it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
+          "cap": "Image credit: Rockstar"
+        },
+        {
+          "t": "p",
+          "x": "\"Once Toy Story launched, all the resistance went away. My own view is that we are one Toy Story moment away from consumer acceptance of AI in videogames in the West. In the East, they've already accepted it.\""
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer's writer agrees AI in game development seems more widely accepted in countries like China and South Korea, but calls the comparison to a painstakingly hand-crafted film \"mind-boggling,\" and cites current Take-Two CEO Strauss Zelnick: \"Datasets by their very nature are backward looking, creativity by its very nature is forward looking.\""
+        }
+      ]
+    },
+    "games/songyee-yoon-ai-native-gbn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Songyee Yoon believes that gaming's playbook will build the next wave of AI companies, even when there isn't a dungeon in sight. The managing partner at Principal Venture Partners and former NCSoft president and chief strategy officer spoke at GamesBeat Next 2026 in San Francisco with Dean Takahashi."
+        },
+        {
+          "t": "p",
+          "x": "The essence of gaming is \"retention and engagement,\" Yoon said, and the founders she backs apply those mechanics to consumer AI apps. Personalized story progression and generated dungeons have only recently reached a quality players enjoy; she pointed to portfolio company Operative Games, whose AI storytelling lets characters show up in Zoom meetings and calendar invites."
+        },
+        {
+          "t": "p",
+          "x": "Games now compete for user acquisition spending with prediction market apps and AI-made micro dramas. \"The industry's challenge,\" she said, \"is to build content that is just as engaging and entertaining.\""
+        },
+        {
+          "t": "p",
+          "x": "AI-generated work tends to be more homogeneous than human work, Yoon said, citing a study she attributed to Georgia Tech, which leaves room for contrarian creators. Small studios can now produce far more, but leaving the first output untouched can produce slop. Whether players care about AI depends on player motivation, not a divide between the U.S. and Asia."
+        }
+      ]
+    },
+    "games/unreal-mcp-ue58-course": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "OjffwpbcQsQ"
+        },
+        {
+          "t": "p",
+          "x": "Unreal MCP is the official, Epic-supported way to connect your favorite agentic AI tools directly to Unreal Engine. Built on the open MCP standard, it lets AI agents understand your project and take action in the editor: creating, modifying, testing, and iterating on your work."
+        },
+        {
+          "t": "p",
+          "x": "In this course, Senior Unreal Engine Instructor Sam Deiter walks you through everything you need to get started with Unreal MCP (Experimental in Unreal Engine 5.8): key terminology, the seven-step setup, troubleshooting and debugging, toolsets, the in-editor Terminal plugin workflow, configuration settings, time-saving tips, and answers to the most common questions."
+        }
+      ]
     }
   }
 }

@@ -18798,6 +18798,140 @@
           "x": "기본 루프는 사이버 보안, 지연 시간, 접근성을 다루고, 결제 전환율 개선 같은 맞춤 루프도 직접 만든다. 보안 루프는 Gemini 4 Carbon의 사이버 보안 역량에 코드 보안을 개선하는 Google DeepMind의 자율 에이전트 CodeMender를 붙였다. Google Antigravity 같은 코딩 에이전트는 Stitch CLI와 MCP로 제품 맥락을 가져오고, Slack에서는 @stitch가 매일 인사이트 요약을 보낸다. 대기자 명단은 오늘 전 세계 모든 사용자에게 열리고, 자격을 갖춘 Google AI Ultra 사용자는 우선 이용권을 받는다."
         }
       ]
+    },
+    "design/envato-ai-report-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shutterstock 산하의 크리에이티브 에셋·AI 도구 플랫폼 Envato가 두 번째 연례 보고서 Beyond the Hype: The State of AI in Creative Work를 내며 103개 국가·지역의 크리에이티브 전문가 1,033명을 조사했다."
+        },
+        {
+          "t": "p",
+          "x": "전체 표본에서 크리에이터 87%가 이제 업무에 AI를 쓰고, 58%는 매일 쓴다. 지난해 49%보다 늘었다. 적극적으로 피하는 비율도 3%에서 8%로 늘었고 U.S.(미국)에서는 19%에 달한다. 미국에서 AI를 피하는 이들의 83%는 AI 학습 방식을 둘러싼 윤리적 우려를 이유로 든다."
+        },
+        {
+          "t": "p",
+          "x": "AI를 쓰는 크리에이터의 절반 이상(53%)은 고객에게 알리지 않은 채 주요 고객 작업에 AI를 썼는데, 이를 불편하게 여긴 사람은 7%뿐이었다. 팀으로 일하는 크리에이터의 57%는 서면 AI 정책이 없고, 250명 이상 조직도 40%는 문서로 된 규정이 아예 없다."
+        },
+        {
+          "t": "p",
+          "x": "크리에이터들은 품질을 가르는 첫째 요인으로 안목과 판단력(53%)을 꼽았다. 프롬프트 기술은 여덟 가지 요인 중 꼴찌(19%)였다. 49%는 AI 덕분에 작업이 빨라졌다고 했지만 수입이 늘었다는 응답은 7%에 그쳤다. 영상·모션·3D·VFX 크리에이터는 다른 분야보다 AI를 조금 더 쓰면서도 편집만큼은 훨씬 엄격하게 직접 챙긴다. 44%는 편집에 AI를 전혀 쓰지 않는다."
+        }
+      ]
+    },
+    "design/fuser-tool-node": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "퓨저(Fuser)가 11월 13일(한국시간) 문장으로 맞춤형 편집 도구를 만드는 ‘툴 노드(Tool Node)’를 공개했습니다. 캔버스에 툴 노드를 놓고 어떤 자료를 받아 무엇을 바꿀지, 어떤 값을 직접 조절하고 싶은지 적으면 됩니다. 퓨저는 요청에 맞춰 슬라이더와 스위치를 설계하고, 도구를 작성해 테스트한 뒤 캔버스에 배치합니다."
+        },
+        {
+          "t": "p",
+          "x": "사진을 픽셀화하는 도구를 요청하면 픽셀 블록의 크기와 사용할 색의 수를 조절하는 슬라이더를 만들 수 있습니다. 사진을 노드에 연결하고 슬라이더를 움직이면 결과가 즉시 바뀝니다. 같은 노드에 다른 사진을 연결하면 기존 설정을 그대로 적용할 수 있습니다. 픽셀화한 결과를 색 채널을 분리하는 다음 노드에 연결해 두 효과를 차례로 적용할 수도 있습니다."
+        },
+        {
+          "t": "p",
+          "x": "색 조정이나 자르기 같은 ‘라이브’ 도구는 브라우저에서 무료로 실행됩니다. 이미지 속 글자를 읽거나 물체를 찾는 ‘클라우드’ 도구는 실행 버튼을 누르면 퓨저 서버에서 AI 모델을 사용합니다. 실행에 드는 크레딧은 버튼에 표시됩니다. 도구를 새로 만들거나 문장으로 수정할 때도 크레딧이 필요합니다."
+        },
+        {
+          "t": "p",
+          "x": "완성한 도구는 라이브러리에 자동으로 저장됩니다. 다음 프로젝트에서 꺼내 쓰거나 팀 작업 공간에서 동료와 공유할 수 있습니다. 슬라이더를 추가하고 싶다면 바꿀 내용을 문장으로 입력하면 됩니다. 퓨저는 수정본을 새 버전으로 저장하고, 가능한 경우 기존 노드 연결과 설정값을 유지합니다."
+        },
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+          "cap": "사진에 픽셀화와 색 채널 분리 노드를 연결한 퓨저 캔버스"
+        }
+      ]
+    },
+    "design/gestalt-design-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+          "cap": "평론가 한 명이 익명의 시트러스 포트폴리오 레이아웃 두 개 중 하나에 동그라미를 친다. Gestalt와 Claude Fable 5.2의 블라인드 투표를 그린 이미지다."
+        },
+        {
+          "t": "p",
+          "x": "전문 디자이너들 앞에 같은 브리프로 만든 결과물 두 개가 놓였다. 하나는 Claude Fable 5.2, 다른 하나는 Gestalt라는 스텔스 AI 모델의 작품이다. 이름을 모두 가린 일대일 투표에서 디자이너들은 78%의 확률로 Gestalt를 택했다."
+        },
+        {
+          "t": "p",
+          "x": "Gestalt는 Contra Labs와 BenchFlow가 만든 Frontier Design Benchmark에서 선두에 섰다. Kingy.ai가 2026년 11월 19일 확인한 점수는 Gestalt가 1,931 Elo로, 1,713인 Fable보다 218점 높았다. 전체에서 가장 근접한 항목은 1,739를 기록한 사람의 참고 작업이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+          "cap": "디자이너들은 Claude Fable 5.2와 맞붙은 투표에서 78%, 사람의 참고 디자인과 맞붙은 투표에서 28표 중 20표로 Gestalt를 골랐다."
+        },
+        {
+          "t": "p",
+          "x": "전문 디자이너 서른다섯 명이 다섯 라운드 동안 4,311표를 던졌다. 마켓플레이스 의뢰와 스타트업 프로젝트 여섯 건을 각색한 브리프 27개가 대상이었다. Contra 디자인 루브릭 점수는 Fable 5.2와 Claude Opus 5.5가 100점 만점에 84점, Gestalt가 83점이었다."
+        },
+        {
+          "t": "p",
+          "x": "Contra 공동 창업자 Gajus Kuizinas는 Gestalt를 Contra가 만든 게 아니라고 했고, 보고서에도 개발사는 나오지 않는다. Contra가 Gestalt의 도구·재시도·선별 과정·비용을 충분히 공개하지 않아 우승작이 몇 번 시도 끝에 나왔는지는 알 수 없다."
+        }
+      ]
+    },
+    "design/uxcollective-sparkle-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+          "cap": "Google 이미지에서 “sparkle AI icon”을 검색한 결과."
+        },
+        {
+          "t": "p",
+          "x": "PM의 AI-generated 목업을 몇 시간씩 붙잡지 않고 해독하는 방법이다. 반짝이 버튼은 금세 보편적인 디자인 패턴이 됐다. 지금 우리 작업에서는 훨씬 더 폭넓게 쓸 수 있다. 이 아이콘은 십여 년 넘게 사실상 “이 부분은 기계가 대신 해줬다”는 뜻이었다. mid-2010s 이후 그 흐름을 이끈 건 Google이다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+          "cap": "Google 반짝이 버튼의 역사(2020년~2026년)"
+        },
+        {
+          "t": "p",
+          "x": "AI-generated 콘텐츠를 어떻게 보든 쓸모 있는 일이 하나 있다. AI가 어디에 있는지 알려준다는 것이다. 핸드오프에서 이게 필요한 디자이너는 더 많다. PM(또는 임원)이 프롬프트 몇 번으로 만든 목업을 넘겨받지만 어디가 결정이고 어디를 AI가 채웠는지 보여주는 단서는 몇 개 없다. AI-generated 부분을 강조할 수 있다면 무엇을 따지고 무엇을 남길지 정확히 알 수 있다. 그러지 못하면 PM은 두 시간을 아꼈을지 몰라도 당신은 그 목업을 해독하느라 다섯 시간을 쓴다."
+        }
+      ]
+    },
+    "design/canva-ai-off-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Canva가 생성형 AI 기능을 끄는 설정을 내놨다. AI로 사진을 넓혀 주는 Magic Expand를 비롯한 이 그래픽 디자인 플랫폼의 AI 도구 여러 개와 Canva 챗봇의 이미지 생성 기능이 꺼진다."
+        },
+        {
+          "t": "p",
+          "x": "다만 이 토글로 Canva의 AI-powered 기능이 전부 꺼지지는 않는다. 배경 제거 도구와 Magic Grab 도구는 “새로운 것을 생성하지 않고 일상 작업을 더 빠르게 해 주기” 때문에 그대로 켜져 있다. 토글을 끄면 Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes 등이 꺼진다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
+          "cap": "Canva 라이브러리에서 AI-generated 콘텐츠를 덜 보는 옵션도 있다."
+        },
+        {
+          "t": "p",
+          "x": "두 번째 토글을 켜면 Canva 라이브러리에서 템플릿, 그래픽 같은 디자인 요소를 검색할 때 사람이 만든 콘텐츠가 먼저 뜬다. Canva는 라이브러리에서 AI-generated 콘텐츠는 “작은 일부”일 뿐이고, 이런 요소를 쓴 디자인에는 메타데이터에 AI 라벨이 붙는다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "설정 위치는 Profile > Settings > Permission (Enable generative AI features)와 Profile > Your account > AI personalization이다. 무료·유료 사용자 모두 쓸 수 있다."
+        }
+      ]
     }
   }
 }

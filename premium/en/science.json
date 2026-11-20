@@ -12102,6 +12102,127 @@
           "x": "Critics remain. Smell scientist Avery Gilbert argues some marketing claims are undocumented. Former Osmo consultant Michael Schmuker calls the technology an achievement but says context matters: Camembert shares a molecule with used nappies. Sensors must improve before goals like medical diagnostics, “the biggest prize.”"
         }
       ]
+    },
+    "science/mofgen-agentic-mof-synthesis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Generative models and machine learning promise accelerated material discovery in metal–organic frameworks (MOFs) for CO2 capture and water harvesting, but face substantial challenges in navigating vast chemical spaces while ensuring synthesizability."
+        },
+        {
+          "t": "p",
+          "x": "Here we present MOFGen, a system of agentic artificial intelligence (AI) comprising interconnected agents: a large language model that proposes MOF compositions, a diffusion model that generates crystal structures, quantum mechanical agents that optimize and filter candidates, and synthetic-feasibility agents guided by expert rules and machine learning."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+          "cap": "Fig. 1: Overview of MOFGen."
+        },
+        {
+          "t": "p",
+          "x": "Trained on a broad set of experimentally reported MOFs and computational databases, MOFGen generated hundreds of thousands of MOF structures and synthesizable organic linkers. QForge optimized 251,118 candidate structures, and QHarden produced a final database of 3,000 DFT-optimized MOF structures."
+        },
+        {
+          "t": "p",
+          "x": "The approach was validated through high-throughput experiments and the successful synthesis of four ‘AI-dreamt’ MOFs. Within just a few weeks, we have synthesized four ‘AI-dreamt’ MOFs, with some completed in just few days."
+        }
+      ]
+    },
+    "science/mit-lids-chaos-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+          "cap": "The butterfly-shaped pattern of the Lorenz 63 system, reproduced by a machine learning model, inside a learned bounded region."
+        },
+        {
+          "t": "p",
+          "x": "Modeling of chaotic processes such as weather, climate and turbulent flows is still prone to drift into physically impossible predictions over time. Researchers with MIT’s Laboratory for Information and Decision Systems (LIDS) have found a way to introduce physics-based restrictions on machine learning models that ensure such models never exceed realistic bounds."
+        },
+        {
+          "t": "p",
+          "x": "The findings are published in PNAS in a paper by MIT graduate student Sunbochen Tang and MIT professors Navid Azizan and Themistoklis Sapsis."
+        },
+        {
+          "t": "p",
+          "x": "The model learns an energy-like function and a boundary where its chaotic behavior should be confined; a projection layer enforces energy dissipation as a hard constraint, so predictions stay bounded over arbitrarily long forecast windows. This is the first work that establishes such formal guarantees for machine learning models of chaos."
+        },
+        {
+          "t": "p",
+          "x": "“Chaos does not mean anything can happen. These systems often remain bounded, and their models should, too,” Azizan says. The projection layer is model-agnostic, and the paper is available with open-source code."
+        }
+      ]
+    },
+    "science/embodied-science-agent-wastewater": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+          "cap": "The architecture of the Embodied Science Agent (ESA), a hybrid cognitive–embodied paradigm for self-driving laboratories with three components. Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at University College London, the Hong Kong University of Science and Technology (Guangzhou) and other institutions developed the Embodied Science Agent (ESA), described in a preprint posted to arXiv. Unlike research agents that only plan experiments for humans or separate systems to carry out, ESA links a digital agent, an embodied agent that controls instruments, and an interface between the two."
+        },
+        {
+          "t": "p",
+          "x": "The digital agent uses prior data, experiment records and Bayesian optimization to choose what to test next. In wastewater treatment experiments, ESA selected conditions from more than 200 million possible combinations over 15 consecutive rounds, raising solution transmittance from 82% to 99.7%, which the authors link to a 98.5% reduction in residual dye concentration."
+        },
+        {
+          "t": "p",
+          "x": "Its robotic control kept working when an electrode rack was placed in different positions. The measurements covered decolorization only, which does not by itself show complete dye breakdown or removal of other pollutants."
+        }
+      ]
+    },
+    "science/navier-stokes-buckmaster-alpoge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+          "cap": "A visual representation of fluid dynamics."
+        },
+        {
+          "t": "p",
+          "x": "Right after Levent Alpöge’s announcement of a claimed proof of the Riemann hypothesis, he and New York University professor Tristan Buckmaster said they believe they have closed a controversial loophole in OpenAI’s September solution of another million-dollar problem."
+        },
+        {
+          "t": "p",
+          "x": "The Navier-Stokes equations model how fluids swirl and eddy. In September OpenAI proved that the equations “blow up.” But its proof imagined an unrealistic, finely tuned force that “stirs” the liquid in just the right way to produce infinite velocity—an approach many consider a loophole in the wording of the problem."
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster had claimed OpenAI deliberately scooped his and Alpöge’s progress; OpenAI denied allegations of foul play."
+        },
+        {
+          "t": "p",
+          "x": "On Mastodon at 8:37 A.M. EST, Buckmaster posted a dense, artificial-intelligence-aided proof, noting the write-up was unpolished because, “after last time,” he and Alpöge “couldn’t risk waiting.” The two have not yet released the certificate of the result."
+        }
+      ]
+    },
+    "science/llm-aphasia-lesion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "For more than 150 years, researchers have mapped the brain by studying how injuries cause behavioral deficits. A team specializing in post-stroke language and speech difficulties says the same framework can be applied to large language models."
+        },
+        {
+          "t": "p",
+          "x": "In a study in Patterns, the team led by Julius Fridriksson of the University of South Carolina, whose lab studies aphasia using brain imaging of stroke patients, asked whether they could \"perturb layers in the language model\" and give it the same clinical tests used on patients. \"LLMs are being deployed in situations where failure has consequences,\" Fridriksson says."
+        },
+        {
+          "t": "p",
+          "x": "The deliberately introduced \"lesions\" produced language errors resembling those of their aphasia patients. Coauthor Roger Newman-Norlund says the models make language, cognition and comprehension errors similar to humans'. Fridriksson says the approach \"establishes cause and effect,\" while noting the paper shows correspondence in failure patterns, not in actual structures."
+        },
+        {
+          "t": "p",
+          "x": "The researchers say lesion-based interpretability could help open the LLM \"black box\" and identify redundant parts, leading to smaller, more energy-efficient models, and could create \"digital twins\" of aphasia patients to simulate clinical trials. Fridriksson believes the framework could extend to other neurological conditions: \"I hope this approach will be embraced to make scientific discoveries that help patients.\""
+        }
+      ]
     }
   }
 }

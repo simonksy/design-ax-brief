@@ -11413,6 +11413,127 @@
           "x": "质疑依然存在。嗅觉科学家Avery Gilbert认为部分营销说法缺少依据。Osmo前顾问Michael Schmuker称这项技术是一项成就，但强调情境很重要：Camembert干酪与用过的尿布共享同一种分子。要实现医疗诊断这类“最大的奖赏”式目标，传感器还得更好。"
         }
       ]
+    },
+    "science/mofgen-agentic-mof-synthesis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "生成模型和机器学习有望加速用于CO2捕集和集水的金属–有机框架（MOFs）材料发现，但在确保可合成性的同时探索庞大化学空间方面面临重大挑战。"
+        },
+        {
+          "t": "p",
+          "x": "本文提出MOFGen，这是一个由相互连接的智能体组成的智能体人工智能（AI）系统：提出MOF组成的大语言模型、生成晶体结构的扩散模型、优化并筛选候选结构的量子力学智能体，以及由专家规则和机器学习引导的合成可行性智能体。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+          "cap": "图1：MOFGen概览。"
+        },
+        {
+          "t": "p",
+          "x": "MOFGen基于大量实验报道的MOFs和计算数据库进行训练，生成了数十万个MOF结构和可合成的有机连接体。QForge优化了251,118个候选结构，QHarden则产出了包含3,000个DFT-optimized MOF结构的最终数据库。"
+        },
+        {
+          "t": "p",
+          "x": "该方法通过高通量实验和四种“AI-dreamt”MOFs的成功合成得到验证。短短几周内，研究团队合成了四种“AI-dreamt”MOFs，其中一些仅用几天就完成了。"
+        }
+      ]
+    },
+    "science/mit-lids-chaos-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+          "cap": "由机器学习模型在学习得到的有界区域内复现的Lorenz 63系统蝴蝶状图案。"
+        },
+        {
+          "t": "p",
+          "x": "对天气、气候和湍流等混沌过程的建模，随着时间推移仍容易漂移出物理上不可能的预测。MIT信息与决策系统实验室（LIDS）的研究人员找到了一种方法，为机器学习模型引入基于物理的约束，确保这类模型绝不超出现实范围。"
+        },
+        {
+          "t": "p",
+          "x": "研究成果以论文形式发表在PNAS上，作者为MIT研究生Sunbochen Tang以及MIT教授Navid Azizan和Themistoklis Sapsis。"
+        },
+        {
+          "t": "p",
+          "x": "该模型学习一个类能量函数，以及其混沌行为应被限制在其中的边界；投影层将能量耗散作为硬约束强制执行，因此在任意长的预测窗口内预测都保持有界。这是首个为混沌机器学习模型建立此类形式化保证的研究。"
+        },
+        {
+          "t": "p",
+          "x": "“混沌并不意味着任何事情都可能发生。这些系统通常保持有界，它们的模型也应如此，”Azizan说。该投影层与模型无关，论文已连同开源代码一并公开。"
+        }
+      ]
+    },
+    "science/embodied-science-agent-wastewater": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+          "cap": "Embodied Science Agent（ESA）的架构，这是一种面向自主实验室的认知–具身混合范式，包含三个组成部分。图片来源：arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "伦敦大学学院（University College London）、香港科技大学（广州）等机构的研究人员开发了Embodied Science Agent（ESA），相关内容见于发布在arXiv上的一篇预印本。与只为人类或独立系统规划实验的研究智能体不同，ESA将数字智能体、控制仪器的具身智能体以及二者之间的接口连接起来。"
+        },
+        {
+          "t": "p",
+          "x": "数字智能体利用先验数据、实验记录和贝叶斯优化来选择下一步要测试的条件。在废水处理实验中，ESA在连续15轮中从超过2亿种可能组合里选择条件，将溶液透过率从82%提升至99.7%，作者将其与残留染料浓度降低98.5%联系起来。"
+        },
+        {
+          "t": "p",
+          "x": "当电极架被放置在不同位置时，其机器人控制仍能持续工作。测量仅涵盖脱色，这本身并不能表明染料被完全降解或其他污染物被去除。"
+        }
+      ]
+    },
+    "science/navier-stokes-buckmaster-alpoge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+          "cap": "流体动力学的视觉呈现。"
+        },
+        {
+          "t": "p",
+          "x": "就在Levent Alpöge宣布声称证明了黎曼猜想之后，他与纽约大学教授Tristan Buckmaster表示，他们相信已经补上了OpenAI 9月对另一个百万美元难题所给解法中一个有争议的漏洞。"
+        },
+        {
+          "t": "p",
+          "x": "Navier-Stokes方程描述流体如何旋转和形成涡流。9月，OpenAI证明了这些方程会“爆破”。但其证明设想了一种不切实际、经过精细调校的力，以恰到好处的方式“搅动”液体，从而产生无限速度——许多人认为这种做法钻了问题表述的漏洞。"
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster曾声称OpenAI故意抢先发表了他和Alpöge的进展；OpenAI否认了不当行为的指控。"
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster于8:37 A.M. EST在Mastodon上发布了一份内容密集的AI-aided证明，并指出文稿尚未打磨，因为“有了上次的教训”，他和Alpöge“不能冒险等待”。两人尚未公布该结果的证书。"
+        }
+      ]
+    },
+    "science/llm-aphasia-lesion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg",
+          "cap": "图片来源：Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "150多年来，研究人员一直通过研究损伤如何导致行为缺陷来绘制大脑图谱。一支专攻中风后语言和言语障碍的团队表示，同样的框架也可用于大语言模型。"
+        },
+        {
+          "t": "p",
+          "x": "在发表于Patterns的研究中，University of South Carolina的Julius Fridriksson带领团队提出疑问：能否“扰动语言模型中的层”，再让它接受与患者相同的临床测试。他的实验室利用中风患者的脑成像研究失语症。Fridriksson说：“LLMs正被部署在失败会带来后果的场景中。”"
+        },
+        {
+          "t": "p",
+          "x": "刻意引入的“病灶”产生了与团队失语症患者相似的语言错误。共同作者Roger Newman-Norlund表示，这些模型会犯与人类相似的语言、认知和理解错误。Fridriksson称这一方法“确立了因果关系”，同时指出论文展示的是失败模式上的对应，而非实际结构上的对应。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员表示，基于病灶的可解释性有助于打开LLM的“黑箱”，找出冗余部分，从而做出更小、更节能的模型，还可以创建失语症患者的“数字孪生”来模拟临床试验。Fridriksson认为该框架可扩展到其他神经系统疾病：“我希望这种方法能被采纳，用来做出帮助患者的科学发现。”"
+        }
+      ]
     }
   }
 }

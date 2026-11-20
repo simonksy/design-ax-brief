@@ -12836,6 +12836,140 @@
           "x": "Built-in loops cover cybersecurity, latency, and accessibility, and you can create custom loops like improving checkout conversion. The security loop pairs Gemini 4 Carbon's cyber security capabilities with CodeMender, Google DeepMind's autonomous agent that improves code security. Coding agents like Google Antigravity can pull product context via the Stitch CLI and MCP, and in Slack @stitch delivers daily insight digests. The waitlist opens today for all users, globally, with eligible Google AI Ultra users getting priority access."
         }
       ]
+    },
+    "design/envato-ai-report-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Envato, the creative asset and AI tools platform owned by Shutterstock, surveyed 1,033 creative professionals in 103 countries and territories for its second annual Beyond the Hype: The State of AI in Creative Work report."
+        },
+        {
+          "t": "p",
+          "x": "Across the full sample, 87% of creatives now use AI at work and 58% use it daily, up from 49% last year. Active avoidance has grown too, from 3% to 8%, and reaches 19% in the U.S., where 83% of avoiders cite ethical concerns about how AI is trained."
+        },
+        {
+          "t": "p",
+          "x": "More than half (53%) of creatives who use AI have used it on key client work without telling the client; only 7% felt uncomfortable about it. Among creatives who work in a team, 57% have no written AI policy, and even at organizations of 250 or more people, 40% have nothing in writing."
+        },
+        {
+          "t": "p",
+          "x": "Creatives rank taste and judgment as the top driver of quality (53%), with prompt skill last of eight drivers (19%). While 49% say AI makes them faster, only 7% say it has increased their earnings. Video, motion, 3D and VFX creatives use AI slightly more than everyone else but keep a much tighter grip on editing: 44% don't use it for editing at all."
+        }
+      ]
+    },
+    "design/fuser-tool-node": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fuser released ‘Tool Node’ on November 13 (Korea time), a feature that builds custom editing tools from sentences. You place a Tool Node on the canvas and write what material it should take in, what it should change, and which values you want to adjust yourself. Fuser designs sliders and switches to fit the request, writes and tests the tool, and then places it on the canvas."
+        },
+        {
+          "t": "p",
+          "x": "If you ask for a tool that pixelates photos, you can get sliders that control the size of the pixel blocks and the number of colors used. Connect a photo to the node and move the sliders, and the result changes instantly. Connect a different photo to the same node and the existing settings apply as they are. You can also connect the pixelated result to a next node that separates color channels, applying the two effects in sequence."
+        },
+        {
+          "t": "p",
+          "x": "‘Live’ tools such as color adjustment and cropping run free in the browser. ‘Cloud’ tools that read text in images or find objects use AI models on Fuser's servers when you press the run button. The credits each run costs are shown on the button. Creating a new tool or revising one with a sentence also requires credits."
+        },
+        {
+          "t": "p",
+          "x": "Finished tools are saved to the library automatically. You can pull them into your next project or share them with colleagues in a team workspace. To add a slider, type the change you want as a sentence. Fuser saves the revision as a new version and, where possible, keeps existing node connections and settings."
+        },
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+          "cap": "A Fuser canvas with pixelation and color-channel separation nodes connected to a photo"
+        }
+      ]
+    },
+    "design/gestalt-design-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+          "cap": "A critic circles one of two anonymous citrus portfolio layouts, illustrating the blind vote between Gestalt and Claude Fable 5.2."
+        },
+        {
+          "t": "p",
+          "x": "Professional designers had two answers to the same brief in front of them, one from Claude Fable 5.2 and the other from a stealth AI model called Gestalt. With both names hidden, the designers chose Gestalt in 78% of their head-to-head votes."
+        },
+        {
+          "t": "p",
+          "x": "Gestalt took first place on the Frontier Design Benchmark from Contra Labs and BenchFlow. When Kingy.ai checked on November 19, 2026, Gestalt had 1,931 Elo, a 218-point lead over Fable at 1,713. The closest entry overall was the human reference work at 1,739."
+        },
+        {
+          "t": "img",
+          "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+          "cap": "Designers chose Gestalt in 78% of direct votes against Claude Fable 5.2 and in 20 of 28 votes against human reference designs."
+        },
+        {
+          "t": "p",
+          "x": "Thirty-five professional designers cast 4,311 votes over five rounds across 27 briefs adapted from marketplace jobs and six startup projects. On Contra's design rubric, Fable 5.2 and Claude Opus 5.5 earned 84 out of 100; Gestalt scored 83."
+        },
+        {
+          "t": "p",
+          "x": "Contra co-founder Gajus Kuizinas says Contra didn't build Gestalt, and the report leaves its maker unnamed. Contra hasn't disclosed enough about Gestalt's tools, retries, selection process or cost to say how many attempts the winning work took."
+        }
+      ]
+    },
+    "design/uxcollective-sparkle-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+          "cap": "A Google Image search for “sparkle AI icon.”"
+        },
+        {
+          "t": "p",
+          "x": "How to decipher your PM’s AI-generated mockup without losing hours. The sparkle button quickly became a universal design pattern. And we could use it a lot more in our work today. For over a decade, the icon has essentially meant “the machine did this part for you,” with Google leading the charge since the mid-2010s."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+          "cap": "Google’s history of the sparkle button, 2020 to 2026"
+        },
+        {
+          "t": "p",
+          "x": "However you feel about AI-generated content, it does one useful job: it tells you where the AI is. More designers need that in handoffs: you’re handed a mockup a PM (or executive) generated in a few prompts, but only a few hints show which parts were decisions and which the AI filled in. If you could highlight the AI-generated parts, you’d know exactly what to question and what to keep. Instead, your PM might have saved two hours, but you’ll spend five trying to decipher the mockup."
+        }
+      ]
+    },
+    "design/canva-ai-off-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform’s array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot."
+        },
+        {
+          "t": "p",
+          "x": "This toggle doesn’t turn off every AI-powered feature on Canva, however. Canva’s background remover and its Magic Grab tool stay on because they “make everyday tasks faster without generating anything new.” The toggle still turns off Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes, and more."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
+          "cap": "You can also select an option to see less AI-generated content in Canva’s library."
+        },
+        {
+          "t": "p",
+          "x": "A second toggle shows human-created content first when searching Canva’s library for templates, graphics, and other design elements. Canva says a “small portion” of its library is AI-generated, and any design using those elements will have an AI label in its metadata."
+        },
+        {
+          "t": "p",
+          "x": "The settings live under Profile > Settings > Permission (Enable generative AI features) and Profile > Your account > AI personalization. They are available to both free and paid users."
+        }
+      ]
     }
   }
 }

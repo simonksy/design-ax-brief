@@ -1,7 +1,29 @@
-{"date":"2026-11-20","section":"medicine","media":[
-{"id":"uhcleveland-ai-alerts-impact","type":"svg"},
-{"id":"elsevier-clinicalkey-ehr-context","type":"image","src":"pipeline/media/elsevier-clinicalkey-ehr-context.jpg"},
-{"id":"siemens-coronary-cockpit-fda","type":"image","src":"pipeline/media/siemens-coronary-cockpit-fda.png"},
-{"id":"eu-mdr2-ai-device-reform","type":"image","src":"pipeline/media/eu-mdr2-ai-device-reform.png"},
-{"id":"deepnoid-peritoneal-metastasis-ai","type":"image","src":"pipeline/media/deepnoid-peritoneal-metastasis-ai.jpg"}
-]}
+{
+  "date": "2026-11-21",
+  "section": "medicine",
+  "media": [
+    {
+      "id": "smartwatch-hypertension-screen",
+      "type": "image",
+      "src": "pipeline/media/smartwatch-hypertension-screen.jpg"
+    },
+    {
+      "id": "npj-cloud-vs-local-llm-triage",
+      "type": "svg"
+    },
+    {
+      "id": "jama-emotional-support-ai-cohort",
+      "type": "image",
+      "src": "pipeline/media/jama-emotional-support-ai-cohort.jpg"
+    },
+    {
+      "id": "revealdx-reviewer-lung-nodule",
+      "type": "svg"
+    },
+    {
+      "id": "healthcaredive-shadow-ai-breaches",
+      "type": "image",
+      "src": "pipeline/media/healthcaredive-shadow-ai-breaches.jpg"
+    }
+  ]
+}

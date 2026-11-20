@@ -1,291 +1,198 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-19T22:03:00Z",
+  "now_iso": "2026-11-20T22:00:39Z",
   "window_hours": 336,
   "items": [
+    {
+      "title": "Ray-Ban Meta (Gen 3) review: Minor upgrades that cost too much",
+      "url": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T14:30:00+00:00",
+      "excerpt": "Meta's very best AI glasses are only slightly better than other recent models.",
+      "og_image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg",
+      "history_match": {
+        "score": 0.282,
+        "date": "2026-10-27",
+        "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
+        "title": "Ray-Ban Meta: How to stop your glasses from training AI",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Nothing's AI device debuts December 8, and it looks like two vapes stuck together",
+      "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T17:32:02+00:00",
+      "excerpt": "Thanks, Swedish House Mafia. I guess.",
+      "og_image": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg",
+      "history_match": {
+        "score": 0.179,
+        "date": "2026-11-05",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+        "title": "Nothing teases a screen-free AI device ahead of launch next month",
+        "band": "related"
+      }
+    },
     {
       "title": "Meta’s Muse Charm might cost $300",
       "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
       "source": "The Verge",
       "category": "gadgets",
       "published_iso": "2026-11-19T20:22:17+00:00",
-      "excerpt": "Meta's upcoming Muse Charm AI wearable may cost about $300 and could come with a 12-month 5G data plan, per The Information; Meta says it will have more to share soon.",
+      "excerpt": "The AI gadget may also come with a 12-month 5G data plan.",
       "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "history_match": {
-        "score": 0.354,
+        "score": 0.332,
         "date": "2026-11-14",
         "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
         "title": "Your Wear OS watch can now run Meta’s Muse AI agent",
         "band": "related"
-      },
-      "cluster": "c0"
-    },
-    {
-      "title": "Meta's new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T21:58:06+00:00",
-      "excerpt": "Alternate source for the Muse Charm pricing story: Meta hasn't denied The Information's report and says it will 'have more to share soon' about its upcoming AI wearable.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
-      "history_match": {
-        "score": 0.33,
-        "date": "2026-11-14",
-        "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
-        "title": "Your Wear OS watch can now run Meta’s Muse AI agent",
-        "band": "related"
-      },
-      "cluster": "c0"
-    },
-    {
-      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
-      "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T14:30:00+00:00",
-      "excerpt": "Engadget reviews Pebble's Index 01 AI ring (8/10): it does one thing, is cheap and low-tech, but the reviewer found it very useful. Downsides noted: imperfect AI and a non-rechargeable battery.",
-      "og_image": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/l-intro-1795097160.jpg"
-    },
-    {
-      "title": "OpenAI is apparently serious about an AI phone, as report claims production order has been placed",
-      "url": "https://www.digitaltrends.com/phones/openai-smartphone-foxconn-assembly-report/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T07:07:18-08:00",
-      "excerpt": "China's Securities Times reports that Foxconn subsidiary FIH Mobile has received an order to help assemble a smartphone for OpenAI, suggesting the ChatGPT maker's first phone is moving toward production.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "OpenAI's first smartphone could launch in 2027 with help from iPhone manufacturer",
-      "url": "https://www.androidauthority.com/openai-phone-foxconn-assembly-3737193/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T13:51:06+00:00",
-      "excerpt": "Alternate source for the OpenAI phone story: the report says Foxconn secured an assembly order and puts launch in late 2027 or 2028.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/09/OpenAI-on-website-on-smartphone-stock-photo-3.jpg"
-    },
-    {
-      "title": "First look at Nothing's AI gadget shared ahead of launch",
-      "url": "https://www.notebookcheck.net/First-look-at-Nothing-s-AI-gadget-shared-ahead-of-launch.1454733.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T17:34:00+01:00",
-      "excerpt": "A first look shows the design of Nothing's dedicated AI device, which CEO Carl Pei teased earlier this month, along with hints at possible features. It joins the Humane AI Pin and Rabbit R1 category of dedicated AI gadgets.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/noting-ai-device.jpg",
-      "history_match": {
-        "score": 0.441,
-        "date": "2026-11-05",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
-        "band": "likely-repeat"
       }
     },
     {
-      "title": "Nothing’s first AI gadget appears in real ahead of its December launch, and it has a big Talk button",
-      "url": "https://www.digitaltrends.com/cool-tech/nothing-ai-device-leak/",
-      "source": "Digital Trends",
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-19T01:13:31-08:00",
-      "excerpt": "Alternate source for the Nothing device leak: a photo shows a screenless AI device with a Talk button, a record button and status lights, weeks before its December launch.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Nothing-AI-device.jpg?resize=1200%2C630&ssl=1",
+      "published_iso": "2026-11-20T18:00:00+00:00",
+      "excerpt": "From Google Assistant to Gemini.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
       "history_match": {
-        "score": 0.27,
-        "date": "2026-11-05",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
-        "band": "related"
-      },
-      "cluster": "c6"
-    },
-    {
-      "title": "Nothing’s upcoming AI gadget just leaked, with two buttons and more mystery",
-      "url": "https://www.androidauthority.com/nothing-ai-hardware-leak-3737082/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T09:56:35+00:00",
-      "excerpt": "Alternate source for the Nothing leak: the image shows two buttons on the device but makes its purpose no clearer.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/nothing-AI-gadget.jpg",
-      "history_match": {
-        "score": 0.167,
-        "date": "2026-11-05",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
-        "band": "related"
-      },
-      "cluster": "c6"
-    },
-    {
-      "title": "Samsung prepares Galaxy AI on Snapdragon X Elite for its upcoming Android laptops",
-      "url": "https://www.androidauthority.com/samsung-galaxy-ai-snapdragon-x-elite-android-laptops-apk-teardown-3737313/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T16:04:41+00:00",
-      "excerpt": "An APK teardown of the One UI 9.5 beta shows Samsung preparing on-device Galaxy AI photo tools, its Gauss language model and 8K video tools for Android laptops running Snapdragon X Elite.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-      "history_match": {
-        "score": 0.186,
-        "date": "2026-11-14",
-        "url": "https://www.digitaltrends.com/phones/samsungs-free-galaxy-ai-ride-might-be-ending-get-ready-to-pay-5-for-it/",
-        "title": "Samsung’s free Galaxy AI ride might be ending. Get ready to pay $5 for it",
+        "score": 0.197,
+        "date": "2026-10-29",
+        "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+        "title": "Amazon turns its most capable smart speaker into a smart camera, too",
         "band": "related"
       }
     },
     {
-      "title": "Scout Motors Is Using AI Earpieces to Train Factory Workers",
-      "url": "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/",
-      "source": "CNET",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-19T05:00:04-05:00",
-      "excerpt": "Scout Motors is replacing the instruction binder with AI earpieces whose voice walks new hires through hands-on tasks. The automaker sees the same approach reaching service centers and, eventually, owners' garages.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Aerial_BlythewoodProductionCenter.jpg"
+      "published_iso": "2026-11-19T13:00:00+00:00",
+      "excerpt": "I’m left asking myself: was it worth it?",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "파리로엠엔비, AI로 맥박 맞춰 자극 조절하는 헤드밴드 '뉴라온 어시스트' CES 2027서 첫 공개",
-      "url": "https://www.etnews.com/20261119000105",
-      "source": "전자신문",
+      "title": "InsBotics’ Pophie AI Robot Remembers Your Family and Speaks First",
+      "url": "https://the-gadgeteer.com/2026/11/20/insbotics-pophie-ai-companion-robot/",
+      "source": "The Gadgeteer",
       "category": "gadgets",
-      "published_iso": "2026-11-19T10:20:22+09:00",
-      "excerpt": "Healthcare startup Paryrom&B will debut Neuraon Assist at CES 2027. The AI wellness headband reads pulse changes in real time and adjusts the transcutaneous vagus nerve stimulation it delivers through contacts at the ear.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/19/news-p.v1.20261119.a28263be0239485abe7c8b448fe4056b_P1.png"
+      "published_iso": "2026-11-20T12:00:00-06:00",
+      "excerpt": "Meet Pophie, an AI companion robot from InsBotics designed to remember your family and start conversations without waiting for you to speak.",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
     },
     {
-      "title": "[포토] 샤오미, AI 후면 디스플레이 탑재 신제품 국내 출시",
-      "url": "https://www.etnews.com/20261118000227",
-      "source": "전자신문",
+      "title": "From SunLED to smart glasses: Dr Anne Berends’ next step in near-infrared light",
+      "url": "https://the-gadgeteer.com/2026/11/20/ai-glasses-near-infrared-light-eye-health-eyeon-focus/",
+      "source": "The Gadgeteer",
       "category": "gadgets",
-      "published_iso": "2026-11-18T13:15:53+09:00",
-      "excerpt": "Xiaomi Korea has officially launched the Xiaomi 18 Pro Max in Korea, a flagship with an AI rear display and Leica dual 200MP cameras (alternate/Korean angle for the Xiaomi 18 Pro launch).",
-      "og_image": "https://img.etnews.com/news/article/2026/11/18/news-p.v1.20261118.737ed543f1bd41cba69cd51cbbf7004b_P1.jpg",
-      "history_match": {
-        "score": 0.209,
-        "date": "2026-11-16",
-        "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-        "title": "The Xiaomi 18 Pro's rear displays support Google apps, Spotify, and custom GenAI apps",
-        "band": "related"
-      }
+      "published_iso": "2026-11-20T07:01:56-06:00",
+      "excerpt": "Eyeon Focus puts near-infrared LEDs inside AI glasses, shining invisible light into wearers' eyes all day. The Dutch proof of concept calls the frame an",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/eyeon-focus-hero-ces2027-tight2.jpg"
     },
     {
-      "title": "Xiaomi's 18 Pro series can generate vibe-coded apps for its tiny rear display",
-      "url": "https://www.engadget.com/2319013/xiaomi-18-pro-vibe-coded-apps-launch-hands-on/",
-      "source": "Engadget",
+      "title": "What's OSTA, Huawei's new phone brand?",
+      "url": "https://the-gadgeteer.com/2026/11/17/what-is-osta-huawei-new-phone-brand/",
+      "source": "The Gadgeteer",
       "category": "gadgets",
-      "published_iso": "2026-11-17T14:35:50+00:00",
-      "excerpt": "At the Xiaomi 18 Pro series global launch, Engadget went hands-on with the rear second screen, which can run vibe-coded mini apps generated with AI, alongside the cameras and a new red color.",
-      "og_image": "https://www.engadget.com/img/gallery/xiaomis-18-pro-series-can-generate-vibe-coded-apps-for-its-tiny-rear-display/l-intro-1794925745.jpg",
-      "history_match": {
-        "score": 0.413,
-        "date": "2026-11-16",
-        "url": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-        "title": "The Xiaomi 18 Pro's rear displays support Google apps, Spotify, and custom GenAI apps",
-        "band": "likely-repeat"
-      }
+      "published_iso": "2026-11-17T09:51:12-06:00",
+      "excerpt": "OSTA is a new Huawei phone brand, built around AI software and aimed at younger buyers, with a wide-screen first phone called the O1 Pro. In China it's called",
+      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/osta-o1-pro-hero.jpg"
     },
     {
-      "title": "Successor to well-reviewed Switchbot AI Art Frame unveiled with upgraded features for art and photo lovers",
-      "url": "https://www.notebookcheck.net/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-with-upgraded-features-for-art-and-photo-lovers.1452825.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-17T23:10:00+01:00",
-      "excerpt": "SwitchBot has released the AI Art Frame 2 (AI Art Canvas in Japan), a color E Ink frame. Its AI 'Weather Muse' changes the art to match the forecast, and a $3.99/month subscription adds voice-, text- and image-to-image AI art generation.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-      "history_match": {
-        "score": 0.16,
-        "date": "2026-11-15",
-        "url": "https://www.tomsguide.com/home/smart-home/amazon-alexa-photo-frame-review",
-        "title": "The Amazon Alexa Photo Frame made me cry — in a good way",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Xreal Aura Review: Android XR combined with lightweight glasses delivers a true next-gen spatial computing experience",
-      "url": "https://www.tomshardware.com/peripherals/wearable-tech/xreal-aura-review",
+      "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+      "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
       "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-11-17T15:37:47Z",
-      "excerpt": "Tom's Hardware reviews the $1,099 Xreal Aura Android XR glasses. A puck powered by Qualcomm's Snapdragon Reality Elite (48 TOPS of AI compute) drives them, and they ship with a controller that has a Gemini button. (Smart-glasses cap 1: shipping review)",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KoF2BTQypE9baEcMe3fShb-1999-80.jpg",
+      "published_iso": "2026-11-20T14:00:00Z",
+      "excerpt": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+    },
+    {
+      "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T10:30:00Z",
+      "excerpt": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1033-80.png"
+    },
+    {
+      "title": "South Korea busts 54 students cheating on national college admission exam by deploying emergency disaster alert during test — AI, micro cameras, and phones drive cheating epidemic that forced government crackdown",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T21:00:00Z",
+      "excerpt": "The South Korean government used extra measures to prevent cheating in its national college admission exams, due to a confession from a tax accountant exam top scorer admitting to AI-assisted cheating days before the CSAT.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bjpdQwBbxRAym237ixtkPo-2034-80.jpg"
+    },
+    {
+      "title": "AMD and Intel, move over: AI designed an all-new CPU — and claims it is 4.6x more efficient",
+      "url": "https://www.notebookcheck.net/AMD-and-Intel-move-over-AI-designed-an-all-new-CPU-and-claims-it-is-4-6x-more-efficient.1455225.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T13:08:00+01:00",
+      "excerpt": "AI startup Architect Labs claims its experimental Frostbite CPU architecture delivers 4.59x better performance per watt and 8.77x higher performance per unit of area than a conventional processor core. Designed from scratch using AI, Frostbite takes a radically different approach to computing, altho",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/frostbite.jpg"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T14:00:00+00:00",
+      "excerpt": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
+    },
+    {
+      "title": "The Xreal Aura are an impressive first step for Android XR glasses",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T14:00:00Z",
+      "excerpt": "The Xreal Aura are the first glasses-grade Android XR integration, and while you probably won't wear them about town, you might use them at home, in the office, and on the plane.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/h2W8SAeDzeCcYosxEJchUf-1920-80.jpg",
       "history_match": {
-        "score": 0.362,
+        "score": 0.494,
         "date": "2026-10-29",
         "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
         "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
-        "band": "related"
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "Flowtica Reveals Verso MagSafe AI Recorder With E-Ink Display",
-      "url": "https://tech.yahoo.com/wearables/articles/flowtica-reveals-verso-magsafe-ai-110000162.html",
-      "source": "Yahoo Tech",
+      "title": "Review: Amazon's Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what's not to love?",
+      "url": "https://9to5google.com/2026/11/18/amazon-alexa-tablet-8-review/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-11-17T11:00:00Z",
-      "excerpt": "Flowtica's Verso is a MagSafe AI voice recorder with a low-power E Ink screen that updates continuously during calls, meetings and voice memos. Preorders are open. (Off-list: no allowed-domain coverage found)",
-      "og_image": "https://s.yimg.com/lo/mysterio/api/1464708255a6f36bbd128cf4b11a6c62e67b85c78f575b6cb2232abb899fd268/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F9c326d9343963390f8a59d1c92608f3f.jpg",
+      "published_iso": "2026-11-18T21:00:00+00:00",
+      "excerpt": "Amazon shocked everyone in October when it launched its new Alexa Tablet series with Google Play support built-in, addressing the...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-alexa-tablet-8-1_420fa9.jpg?quality=82&strip=all&resize=1200,628",
       "history_match": {
-        "score": 0.18,
-        "date": "2026-10-21",
-        "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
-        "title": "Boya Notra Neo launches with AI-powered meeting transcriptions, summaries, and recordings and MagSafe mount",
-        "band": "related"
+        "score": 0.482,
+        "date": "2026-11-09",
+        "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
+        "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
+        "band": "likely-repeat"
       }
-    },
-    {
-      "title": "AceiiLab's tennis robot rallies back, roams the baseline, and folds into your trunk",
-      "url": "https://the-gadgeteer.com/2026/11/12/aceiilab-a1-tennis-robot-rallies-and-folds-into-a-trunk/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-12T23:30:00-06:00",
-      "excerpt": "The AceiiLab A1 tennis robot rolls along the baseline, watches your shots and returns them. After each session its AI coach reports a weakness analysis, training suggestions and progress tracking.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/final-hero.jpg"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 17,
+    "dropped": 1,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 11,
-    "same_story_pairs": [
-      [
-        "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-        "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        0.731
-      ],
-      [
-        "https://www.digitaltrends.com/cool-tech/nothing-ai-device-leak/",
-        "https://www.androidauthority.com/nothing-ai-hardware-leak-3737082/",
-        0.456
-      ]
-    ]
+    "review": 6,
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-21",
-      "title": "Get hands-free personalized help on the road with Gemini",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
-      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Boya Notra Neo launches with AI-powered meeting transcriptions, summaries, and recordings and MagSafe mount",
-      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Voxel 1 robot can tidy up, water plants and clean up dirt",
-      "url": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "An 'enormous influx' of new Garmin Connect IQ apps and watch faces spark fears of poor-quality AI slop flooding the store",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop"
-    },
     {
       "date": "2026-10-22",
       "title": "GM is giving OnStar an AI makeover",
@@ -960,6 +867,31 @@
       "date": "2026-11-19",
       "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
       "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Samsung prepares Galaxy AI on Snapdragon X Elite for its upcoming Android laptops",
+      "url": "https://www.androidauthority.com/samsung-galaxy-ai-snapdragon-x-elite-android-laptops-apk-teardown-3737313/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Scout Motors Is Using AI Earpieces to Train Factory Workers",
+      "url": "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "OpenAI is apparently serious about an AI phone, as report claims production order has been placed",
+      "url": "https://www.digitaltrends.com/phones/openai-smartphone-foxconn-assembly-report/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
+      "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Successor to well-reviewed Switchbot AI Art Frame unveiled with upgraded features for art and photo lovers",
+      "url": "https://www.notebookcheck.net/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-with-upgraded-features-for-art-and-photo-lovers.1452825.0.html"
     }
   ]
 }

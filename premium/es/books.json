@@ -11014,6 +11014,144 @@
           "x": "«Llevar estas herramientas a 21 mercados más significa que muchas más historias pueden encontrar oyentes», dijo Chester Lau, de Author Growth en Spotify."
         }
       ]
+    },
+    "books/ganjoor-claude-poetry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+          "cap": "Siyavush juega al polo mientras lo observa el rey turanio Afrasiyab, en la copia del Shahnameh de Ferdowsi que perteneció a Shah Tahmasp. (The Metropolitan Museum of Art, dominio público)"
+        },
+        {
+          "t": "p",
+          "x": "Arman Nejad, ingeniero de software iraní residente en Toronto, usó Claude para explicar en persa moderno (modern-Persian) más de 1,6 millones de dísticos persas en Ganjoor, una popular biblioteca en línea gratuita de poesía persa. Una nota anterior generada por IA (AI-generated) había confundido Delaray, nombre de mujer, con la palabra “dollar”."
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+          "cap": "Una publicación en persa en X se burla de la nota anterior de Ganjoor generada por IA, que leyó el nombre Delaray como la palabra “dollar”."
+        },
+        {
+          "t": "p",
+          "x": "El 9 de noviembre Nejad pidió ayuda en X; mana.space y zharf.ai donaron créditos. Para el 16 de noviembre había terminado notas nuevas para los 245 poetas, de Rudaki a Shahriar. Ganjoor las ha publicado en su sitio web y en su repositorio público de datos."
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+          "cap": "Precisión en el cuadernillo de 80 preguntas del examen Konkour. Claude Opus 5.5 (medium) y Gemini 3.8 Flash (highest) empataron con 74 de 80."
+        },
+        {
+          "t": "p",
+          "x": "Para elegir modelo, Nejad usó el examen de ingreso iraní Konkour; en las 30 preguntas de literatura Claude quedó primero con 27. El proceso requirió unas 155.000 solicitudes, 566 millones de tokens y unos 3.100 dólares. En una revisión de 500 dísticos al azar, la nota nueva fue preferida en 413 casos y la antigua en cuatro."
+        },
+        {
+          "t": "img",
+          "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+          "cap": "Ilustración generada por IA de la lectura corregida del Haft Peykar de Nezami."
+        },
+        {
+          "t": "p",
+          "x": "“Sudi hizo a Hafez”, escribió Nejad. “En 2026, los hicimos a todos”."
+        }
+      ]
+    },
+    "books/wotc-anthropic-payout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Wizards of the Coast, editora de Dungeons and Dragons, compartirá con los autores de D&D los fondos del acuerdo del caso Bartz v. Anthropic. “Wizards of the Coast participó en el acuerdo de Bartz v. Anthropic como titular de los derechos de autor de novelas, módulos e historias de Dungeons & Dragons”, dijo un representante de Wizards a Wargamer. “D&D no sería D&D sin los creadores que construyeron sus mundos”."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic aceptó un acuerdo de 1.500 millones de dólares en septiembre de 2025, aprobado en julio de 2026. Unos 500.000 libros eran elegibles: al menos 3.000 dólares por libro, menos comisiones, repartidos entre los titulares de derechos, con un reparto 50/50 por defecto entre editoriales y autores."
+        },
+        {
+          "t": "p",
+          "x": "Según el autor James Lowder, “Wizards of the Coast renuncia a su parte del pago de Anthropic y entrega todo el dinero a los autores”, lo que, según él, asciende a cientos de miles de dólares. Atribuyó el resultado a las conversaciones impulsadas por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
+        }
+      ]
+    },
+    "books/beeflix-movingtoon-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+        },
+        {
+          "t": "p",
+          "x": "El servicio de OTT surcoreano Beeflix ha lanzado Moving Toon, un nuevo servicio de webtoon que incorpora inteligencia artificial (IA) para añadir movimiento a cada viñeta de los webtoons."
+        },
+        {
+          "t": "p",
+          "x": "Moving Toon es un servicio que permite ver los webtoons tradicionales, centrados en imágenes fijas, como escenas en movimiento. Al aplicar un movimiento vivo a cada viñeta, permite a los lectores disfrutar de las historias de una forma nueva."
+        },
+        {
+          "t": "p",
+          "x": "Si el webtoon tradicional cuenta historias mediante imágenes fijas y la composición de viñetas, Moving Toon añade movimiento a cada una para ofrecer una experiencia más viva. Su rasgo distintivo es dar vitalidad a imágenes estáticas a partir de la estructura y el ritmo propios del webtoon."
+        },
+        {
+          "t": "p",
+          "x": "Beeflix desarrolló una tecnología que usa IA para aplicar movimiento a los webtoons y la incorporó al servicio Moving Toon. Al sumar movimiento al atractivo de los contenidos existentes, los lectores pueden vivir de un modo nuevo incluso historias conocidas."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología se desarrolló para poder usarse de inmediato no solo en Moving Toon de Beeflix, sino también en otros servicios de webtoon. Puede aplicarse a contenidos y servicios diversos y servir para ampliar las formas de presentar webtoons."
+        },
+        {
+          "t": "p",
+          "x": "Moving Toon plantea una nueva opción para disfrutar contenidos al combinar el webtoon con la tecnología de IA. Al añadir movimiento a cada escena, permite a los lectores vivir el desarrollo de la historia de forma más viva."
+        },
+        {
+          "t": "p",
+          "x": "El servicio Moving Toon de Beeflix está disponible en la web móvil y la web para PC de Beeflix."
+        }
+      ]
+    },
+    "books/cambridge-human-woty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Cambridge Dictionary ha elegido ‘human’ como palabra del año 2026 en respuesta a un año “definido por debates globales sobre lo que significa ser humano cuando la IA difumina los límites entre personas y máquinas”."
+        }
+      ]
+    },
+    "books/globalcomix-ai-relaunch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+        },
+        {
+          "t": "p",
+          "x": "GlobalComix busca integrar la inteligencia artificial en el futuro del cómic digital, pero su último rediseño ha despertado no pocas dudas. Tras cerrar una financiación de 13 millones de dólares y adquirir INKR, empresa de localización AI-assisted, presentó una tienda renovada junto con nuevas funciones de descubrimiento AI-powered: un asistente de AI, descripciones automáticas de páginas de cómic y espacios destacados para creadores."
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
+          "cap": "Conversación de Tom Cheredar con el nuevo asistente de AI de GlobalComix."
+        },
+        {
+          "t": "p",
+          "x": "Tom Cheredar, de Weird City Media, comprobó que la AI afirmaba haber podido extraer datos de plataformas de periodismo de cómics como IGN, Newsarama, CBR y The Beat. GlobalComix sostuvo que no utiliza los cómics de los creadores para entrenar modelos de AI, sino que analiza las páginas para generar descripciones y recomendaciones, y confirmó que los creadores no pueden excluirse de sus funciones de recomendación para todo el catálogo. Al ser preguntado por sus fuentes de entrenamiento, el asistente respondió: “No puedo hablar de fuentes o conjuntos de datos de entrenamiento específicos”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
+          "cap": "El nuevo diseño de GlobalComix"
+        },
+        {
+          "t": "p",
+          "x": "El rediseño cambia la identidad naranja por el verde y guarda un parecido notable con su rival Sweet Shop, cuyo CEO, Kenny Meyers, ha criticado la AI en el cómic digital. Varios creadores dijeron que retirarían su obra. Actualización: el CEO Henrik Rydberg aclaró que la empresa usa Gemini de Google y no un modelo propio."
+        }
+      ]
     }
   }
 }

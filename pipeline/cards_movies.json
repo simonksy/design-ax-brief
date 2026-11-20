@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "movies",
   "cards": [
     {
-      "id": "topview-film-studio-hybrid",
+      "id": "buchwald-kinison-ai-avatar",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Topview 스튜디오\n실사와 AI를 섞다",
-      "body": "Topview가 실사 영상의 조명을 바꾸고 새 앵글과 AI 엑스트라를 넣는다.",
-      "mini_headline": "Topview 하이브리드 AI 스튜디오",
+      "headline": "Sam Kinison·AI\nBuchwald와 계약",
+      "body": "Buchwald가 故 Sam Kinison 유족과 AI 아바타를 고객으로 맞았다.",
+      "mini_headline": "Buchwald, Kinison AI 아바타 계약",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/topview-launches-film-studio-hybrid-ai-production-platform",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,197 +19,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+            "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
           },
           {
             "t": "p",
-            "x": "싱가포르 AI 영상 기업 Topview가 실사 연기에 AI 생성(AI-generated) 환경·숏·시각효과를 결합하는 제작 플랫폼 Film Studio를 내놨다. 회사 설명으로는 Film Studio가 클립 단위가 아니라 제작 전 과정을 맡아, 영화나 시리즈 전체에서 이야기와 캐릭터가 흔들리지 않게 돕는다."
+            "x": "Buchwald가 스탠드업 코미디언 Sam Kinison의 유족 측과 계약하고 그의 이름과 초상으로 새 사업 기회를 찾는다. Kinison은 1992년 교통사고로 38세에 세상을 떠났다. 핵심은 AI 플랫폼 Uare.AI가 구동하는 Kinison의 AI 아바타다. Kinison 모델을 개발한 이 회사는 LivePerson 창업자 Rob LoCascio가 세웠다. Buchwald는 이 모델로 고인의 활동 기회를 “여러 분야에 걸쳐” “넓힐” 수 있다고 했다. 아바타를 쓸 곳은 Kinison의 형제이자 전 매니저인 Bill Kinison과 함께 찾는 중이다."
           },
           {
             "t": "p",
-            "x": "주요 도구로는 실시간 미리보기를 갖춘 3D 조명 시스템 Video Relight, 기존 실사 영상에서 새 앵글과 숏을 뽑아내 촬영장에 다시 가지 않고도 장면을 마무리하는 Camera Angle Presets, 실사 장면에 AI 생성(AI-generated) 군중을 채워 넣는 Add Extras가 있다. 그린스크린 자동 교체, 시간대·날씨·달의 위상 변경, 영상 레이어 분리도 지원한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+            "x": "“Sam은 언제나 코미디와 엔터테인먼트의 최전선에 있었다. Uare.ai의 뛰어난 작업과 Buchwald 에이전시의 비전으로 우리는 내 형제의 유산을 이어 가겠다는 약속을 지키고 있다.” Bill Kinison은 성명에서 이렇게 말했다."
           },
           {
             "t": "p",
-            "x": "Topview 공동창업자 겸 CEO 젠슨 우(Jensen Wu)는 “완전한 AI 생성(AI-generated) 영화는 할리우드의 반발에 부딪혔고 주류 배급에 접근하기 어려웠으며, 수익도 대부분 YouTube에 한정됐다”고 말했다. 그는 “실제 배우와 AI 보강을 결합한 하이브리드 제작 모델을 택하면, 영화 제작자는 할리우드 주류 배급 채널에 닿을 수 있고 수익을 내기에도 더 유리한 작품을 만들 수 있다”고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "Topview에 따르면 등록 사용자는 오백만 명이 넘고 이 가운데 약 40%가 AI 영화와 드라마를 만든다. 플랫폼에서 나오는 영상은 하루 약 백만 개다."
+            "x": "생존 여부와 상관없이 유명인들이 AI로 이름·목소리·초상을 수익화하는 흐름 속에서 나온 계약이다. Michael Caine은 Stan Lee와 Judy Garland의 유족 측에 이어 ElevenLabs에 목소리 사용권을 내줬다. Val Kilmer의 유족 측은 그의 모습을 “As Deep As the Grave”에 싣는 대가를 받았다. “The View” 공동 진행자 Sunny Hostin도 올여름 AI 스타트업 Fountain 0에 초상 사용권을 내줬다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Topview Film Studio blends AI\nwith live-action footage",
-          "body": "Topview's Film Studio relights live-action footage, adds new camera angles and AI extras, and replaces greenscreens.",
-          "mini_headline": "Topview's hybrid AI studio",
+          "headline": "Buchwald signs Sam Kinison\nand his AI avatar",
+          "body": "Talent agency Buchwald has signed late comic Sam Kinison's estate and his AI avatar to develop new business.",
+          "mini_headline": "Buchwald signs Kinison avatar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Singapore-based AI video company Topview has launched Film Studio, a production platform that lets filmmakers combine live-action performance with AI-generated environments, shots and visual effects. According to the company, Film Studio covers a full production rather than single clips, helping creators keep stories and characters consistent across a film or series."
+                "x": "Buchwald has signed the estate of stand-up comedian Sam Kinison, who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness. Enter Kinison’s AI avatar, powered by the AI platform Uare.AI. The company, founded by LivePerson founder Rob LoCascio, has developed a model of Kinison, which Buchwald says can be used to “expand opportunities” for the late comedian “across multiple verticals.” The agency is working with Kinison’s brother and former manager, Bill Kinison, to figure out places the avatar could be deployed."
               },
               {
                 "t": "p",
-                "x": "Its tools include Video Relight, a 3D lighting system with a real-time preview; Camera Angle Presets, which generate new angles and shots from existing live-action footage so a scene can be finished without returning to set; and Add Extras, which places AI-generated crowd members in a live-action scene. Other features handle automatic green-screen replacement, changes to the time of day, weather and moon phase, and splitting a video into layers."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "“Sam was always on the cutting-edge of comedy and entertainment, and with the genius of Uare.ai’s work and the Buchwald agency’s vision, we’re keeping the promise of my brother’s legacy alive,” Bill Kinison said in a statement."
               },
               {
                 "t": "p",
-                "x": "\"Fully AI-generated films have faced resistance from Hollywood and have had limited access to mainstream distribution, with revenue largely limited to YouTube,\" said Jensen Wu, Topview's co-founder and CEO. \"By adopting a hybrid production model that combines real actors with AI enhancement, filmmakers can create work that is accessible to Hollywood's mainstream distribution channels and better positioned to generate revenue.\""
-              },
-              {
-                "t": "p",
-                "x": "Topview says it has more than five million registered users, about 40% of whom make AI films and dramas, and roughly one million videos are generated on the platform each day."
+                "x": "The licensing comes as celebrities, living and dead, monetize their name, voice and likeness through AI: Michael Caine joined the estates of Stan Lee and Judy Garland in licensing his voice to ElevenLabs, and Val Kilmer’s estate was paid for his likeness to appear in “As Deep As the Grave.” “The View” co-host Sunny Hostin licensed her likeness this summer to AI startup Fountain 0."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Topview 스튜디오\n실사와 AI를 섞다",
-          "body": "Topview가 실사 영상의 조명을 바꾸고 새 앵글과 AI 엑스트라를 넣는다.",
-          "mini_headline": "Topview 하이브리드 AI 스튜디오",
+          "headline": "Sam Kinison·AI\nBuchwald와 계약",
+          "body": "Buchwald가 故 Sam Kinison 유족과 AI 아바타를 고객으로 맞았다.",
+          "mini_headline": "Buchwald, Kinison AI 아바타 계약",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "싱가포르 AI 영상 기업 Topview가 실사 연기에 AI 생성(AI-generated) 환경·숏·시각효과를 결합하는 제작 플랫폼 Film Studio를 내놨다. 회사 설명으로는 Film Studio가 클립 단위가 아니라 제작 전 과정을 맡아, 영화나 시리즈 전체에서 이야기와 캐릭터가 흔들리지 않게 돕는다."
+                "x": "Buchwald가 스탠드업 코미디언 Sam Kinison의 유족 측과 계약하고 그의 이름과 초상으로 새 사업 기회를 찾는다. Kinison은 1992년 교통사고로 38세에 세상을 떠났다. 핵심은 AI 플랫폼 Uare.AI가 구동하는 Kinison의 AI 아바타다. Kinison 모델을 개발한 이 회사는 LivePerson 창업자 Rob LoCascio가 세웠다. Buchwald는 이 모델로 고인의 활동 기회를 “여러 분야에 걸쳐” “넓힐” 수 있다고 했다. 아바타를 쓸 곳은 Kinison의 형제이자 전 매니저인 Bill Kinison과 함께 찾는 중이다."
               },
               {
                 "t": "p",
-                "x": "주요 도구로는 실시간 미리보기를 갖춘 3D 조명 시스템 Video Relight, 기존 실사 영상에서 새 앵글과 숏을 뽑아내 촬영장에 다시 가지 않고도 장면을 마무리하는 Camera Angle Presets, 실사 장면에 AI 생성(AI-generated) 군중을 채워 넣는 Add Extras가 있다. 그린스크린 자동 교체, 시간대·날씨·달의 위상 변경, 영상 레이어 분리도 지원한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "“Sam은 언제나 코미디와 엔터테인먼트의 최전선에 있었다. Uare.ai의 뛰어난 작업과 Buchwald 에이전시의 비전으로 우리는 내 형제의 유산을 이어 가겠다는 약속을 지키고 있다.” Bill Kinison은 성명에서 이렇게 말했다."
               },
               {
                 "t": "p",
-                "x": "Topview 공동창업자 겸 CEO 젠슨 우(Jensen Wu)는 “완전한 AI 생성(AI-generated) 영화는 할리우드의 반발에 부딪혔고 주류 배급에 접근하기 어려웠으며, 수익도 대부분 YouTube에 한정됐다”고 말했다. 그는 “실제 배우와 AI 보강을 결합한 하이브리드 제작 모델을 택하면, 영화 제작자는 할리우드 주류 배급 채널에 닿을 수 있고 수익을 내기에도 더 유리한 작품을 만들 수 있다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "Topview에 따르면 등록 사용자는 오백만 명이 넘고 이 가운데 약 40%가 AI 영화와 드라마를 만든다. 플랫폼에서 나오는 영상은 하루 약 백만 개다."
+                "x": "생존 여부와 상관없이 유명인들이 AI로 이름·목소리·초상을 수익화하는 흐름 속에서 나온 계약이다. Michael Caine은 Stan Lee와 Judy Garland의 유족 측에 이어 ElevenLabs에 목소리 사용권을 내줬다. Val Kilmer의 유족 측은 그의 모습을 “As Deep As the Grave”에 싣는 대가를 받았다. “The View” 공동 진행자 Sunny Hostin도 올여름 AI 스타트업 Fountain 0에 초상 사용권을 내줬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Topviewが実写と\nAIを融合する",
-          "body": "Topviewは実写映像の照明を変え、新たなアングルとAIエキストラを加える。",
-          "mini_headline": "TopviewのハイブリッドAIスタジオ",
+          "headline": "Buchwaldが契約\nSam KinisonとAI",
+          "body": "Buchwaldが故Sam Kinisonの遺産管理団体およびAIアバターと契約した。",
+          "mini_headline": "BuchwaldがKinisonのAIアバターと契約",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "シンガポールのAI動画企業Topviewは、実写の演技とAI生成(AI-generated)の環境、ショット、視覚効果を組み合わせられる制作プラットフォームFilm Studioを発表した。同社によると、Film Studioは単発のクリップではなく制作全体を対象とし、映画やシリーズを通して物語とキャラクターの一貫性を保てるよう制作者を支える。"
+                "x": "Buchwaldは、1992年の自動車事故により38歳で亡くなったスタンダップ・コメディアンSam Kinisonの遺産管理団体と契約し、その名前と肖像をめぐる新たなビジネス機会の開拓に乗り出した。そこで登場するのが、AIプラットフォームUare.AIが動かすKinisonのAIアバターだ。LivePersonの創業者Rob LoCascioが設立した同社はKinisonのモデルを開発しており、Buchwaldによれば、このモデルは故人の機会を「複数の分野にわたって」「広げる」ために使えるという。同エージェンシーはKinisonの兄弟で元マネージャーのBill Kinisonと組み、アバターを展開できる場を探っている。"
               },
               {
                 "t": "p",
-                "x": "主なツールには、リアルタイムプレビューを備えた3D照明システムVideo Relight、既存の実写映像から新しいアングルやショットを生成し、撮影現場に戻らずにシーンを仕上げられるCamera Angle Presets、AI生成(AI-generated)の群衆を実写シーンに配置するAdd Extrasがある。ほかにもグリーンスクリーンの自動置き換え、時間帯・天候・月相の変更、動画のレイヤー分割といった機能を備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "「Samは常にコメディとエンターテインメントの最先端にいた。Uare.aiの見事な仕事とBuchwaldエージェンシーのビジョンによって、私たちは兄弟の遺産を生かし続けるという約束を守っている」とBill Kinisonは声明で述べた。"
               },
               {
                 "t": "p",
-                "x": "Topviewの共同創業者でCEOのJensen Wu氏は「完全にAI生成(AI-generated)の映画はハリウッドの抵抗に遭い、主流の配給へのアクセスも限られ、収益はほぼYouTubeにとどまってきた」と述べた。さらに「実際の俳優とAIによる補強を組み合わせたハイブリッド制作モデルを採用すれば、映画制作者はハリウッドの主流配給チャネルに届き、収益化にも有利な作品を作れる」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Topviewによると、登録ユーザーは五百万人を超え、その約40%がAI映画やドラマを制作しており、プラットフォーム上では毎日約百万本の動画が生成されている。"
+                "x": "今回のライセンス契約は、存命・故人を問わず著名人がAIを通じて名前や声、肖像を収益化する流れの中で結ばれた。Michael CaineはStan LeeやJudy Garlandの遺産管理団体と同じくElevenLabsに声をライセンスし、Val Kilmerの遺産管理団体は彼の肖像が「As Deep As the Grave」に登場することへの対価を受け取った。「The View」の共同司会者Sunny Hostinは今夏、AIスタートアップFountain 0に自らの肖像をライセンスした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Topview让AI\n融入实拍影像",
-          "body": "Topview的工具可为实拍画面重新打光、添加新机位与AI群演，并替换绿幕。",
-          "mini_headline": "Topview混合式AI工作室",
+          "headline": "Buchwald签下\nSam Kinison及AI",
+          "body": "经纪公司Buchwald签下已故Sam Kinison的遗产及其AI分身，以开拓新业务。",
+          "mini_headline": "Buchwald签下Kinison AI分身",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "总部位于新加坡的AI视频公司Topview推出了制作平台Film Studio，让电影人能够将真人实拍表演与AI生成（AI-generated）的环境、镜头和视觉特效相结合。该公司表示，Film Studio覆盖整部作品的制作，而非单个片段，帮助创作者在整部电影或剧集中保持故事和角色的一致性。"
+                "x": "Buchwald已签下单口喜剧演员Sam Kinison的遗产管理方，围绕其姓名和肖像开发新的商业机会。Kinison于1992年因车祸去世，年仅38岁。登场的是由AI平台Uare.AI驱动的Kinison AI分身。这家由LivePerson创始人Rob LoCascio创办的公司开发了Kinison的模型，Buchwald表示，该模型可用于“在多个领域”为这位已故喜剧演员“拓展机会”。该经纪公司正与Kinison的兄弟、前经纪人Bill Kinison合作，寻找分身可以落地的场景。"
               },
               {
                 "t": "p",
-                "x": "其工具包括带实时预览的3D布光系统Video Relight；可从现有实拍素材生成新角度和新镜头、无需重返片场即可完成场景的Camera Angle Presets；以及在实拍场景中加入AI生成（AI-generated）群众演员的Add Extras。其他功能还包括自动替换绿幕，更改时段、天气和月相，以及将视频拆分为图层。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "“Sam始终站在喜剧和娱乐的最前沿。借助Uare.ai的出色工作和Buchwald经纪公司的远见，我们正在兑现让我兄弟的遗产延续下去的承诺。”Bill Kinison在声明中表示。"
               },
               {
                 "t": "p",
-                "x": "Topview联合创始人兼CEO Jensen Wu表示：“完全由AI生成（AI-generated）的电影遭到好莱坞抵制，进入主流发行渠道的机会有限，收入基本局限于YouTube。”他说：“通过采用真人演员与AI增强相结合的混合制作模式，电影人可以创作出能够进入好莱坞主流发行渠道、也更有条件创造收入的作品。”"
-              },
-              {
-                "t": "p",
-                "x": "Topview称其注册用户超过五百万，其中约40%制作AI电影和短剧，平台每天生成约一百万条视频。"
+                "x": "此次授权正值在世和已故名人纷纷借助AI将姓名、声音和肖像变现之际：Michael Caine继Stan Lee和Judy Garland的遗产管理方之后，将自己的声音授权给ElevenLabs；Val Kilmer的遗产管理方因其肖像出现在《As Deep As the Grave》中获得报酬。《The View》联合主持人Sunny Hostin今年夏天将自己的肖像授权给AI初创公司Fountain 0。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Topview Film Studio combina AI\ncon imágenes de acción real",
-          "body": "Film Studio de Topview reilumina tomas reales, añade nuevos ángulos y extras con AI y sustituye el croma.",
-          "mini_headline": "El estudio híbrido de AI de Topview",
+          "headline": "Buchwald firma a Sam Kinison\ny a su avatar de AI",
+          "body": "La agencia Buchwald firmó con el patrimonio del fallecido cómico Sam Kinison y su avatar de AI para nuevos negocios.",
+          "mini_headline": "Buchwald firma el avatar AI de Kinison",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Topview, empresa de video con AI con sede en Singapur, lanzó Film Studio, una plataforma de producción que permite a los cineastas combinar actuaciones de acción real con entornos, planos y efectos visuales generados por AI (AI-generated). Según la compañía, Film Studio abarca una producción completa y no solo clips sueltos, lo que ayuda a los creadores a mantener la coherencia de historias y personajes a lo largo de una película o una serie."
+                "x": "Buchwald ha firmado con el patrimonio del comediante de stand-up Sam Kinison, que murió a los 38 años en un accidente de tráfico en 1992, para desarrollar nuevas oportunidades de negocio en torno a su nombre e imagen. Aquí entra el avatar de AI de Kinison, impulsado por la plataforma de AI Uare.AI. La empresa, fundada por Rob LoCascio, fundador de LivePerson, ha desarrollado un modelo de Kinison que, según Buchwald, puede servir para “ampliar las oportunidades” del fallecido cómico “en múltiples sectores”. La agencia trabaja con el hermano y exmánager de Kinison, Bill Kinison, para decidir dónde podría desplegarse el avatar."
               },
               {
                 "t": "p",
-                "x": "Entre sus herramientas figuran Video Relight, un sistema de iluminación 3D con vista previa en tiempo real; Camera Angle Presets, que genera nuevos ángulos y planos a partir de material de acción real ya grabado para terminar una escena sin volver al set; y Add Extras, que coloca figurantes generados por AI (AI-generated) en una escena de acción real. Otras funciones reemplazan automáticamente el croma, cambian la hora del día, el clima y la fase lunar, y separan un video en capas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "“Sam siempre estuvo a la vanguardia de la comedia y el entretenimiento, y con el talento del trabajo de Uare.ai y la visión de la agencia Buchwald, mantenemos viva la promesa del legado de mi hermano”, dijo Bill Kinison en un comunicado."
               },
               {
                 "t": "p",
-                "x": "\"Las películas totalmente generadas por AI (AI-generated) han encontrado resistencia en Hollywood y han tenido un acceso limitado a la distribución convencional, con ingresos limitados en gran medida a YouTube\", dijo Jensen Wu, cofundador y CEO de Topview. \"Al adoptar un modelo de producción híbrido que combina actores reales con mejoras de AI, los cineastas pueden crear obras accesibles para los canales de distribución convencionales de Hollywood y mejor posicionadas para generar ingresos\"."
-              },
-              {
-                "t": "p",
-                "x": "Topview afirma tener más de cinco millones de usuarios registrados, de los cuales cerca del 40% hace películas y dramas con AI, y que en la plataforma se generan aproximadamente un millón de videos cada día."
+                "x": "La licencia llega en un momento en que celebridades, vivas y fallecidas, monetizan su nombre, voz e imagen a través de la AI: Michael Caine se sumó a los patrimonios de Stan Lee y Judy Garland al licenciar su voz a ElevenLabs, y el patrimonio de Val Kilmer recibió un pago para que su imagen apareciera en “As Deep As the Grave”. Sunny Hostin, copresentadora de “The View”, licenció este verano su imagen a la startup de AI Fountain 0."
               }
             ]
           }
@@ -217,137 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Topview 스튜디오\n실사와 AI를 섞다",
-          "body": "Topview가 실사 조명을 바꾸고 새 앵글과 AI 엑스트라를 더한다.",
-          "mini_headline": "Topview 하이브리드 AI 스튜디오",
+          "headline": "Sam Kinison·AI\nBuchwald와 계약",
+          "body": "에이전시 Buchwald가 故 Sam Kinison 유족·AI 아바타와 계약했다.",
+          "mini_headline": "Buchwald, Kinison AI 아바타 계약",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "싱가포르의 AI 영상 기업 Topview가 실사 연기와 AI 생성(AI-generated) 환경·숏·시각효과를 결합할 수 있는 제작 플랫폼 Film Studio를 출시했다. 회사에 따르면 Film Studio는 개별 클립이 아니라 제작 전 과정을 다루며, 창작자가 영화나 시리즈 전체에서 이야기와 캐릭터의 일관성을 유지하도록 돕는다."
+                "x": "Buchwald가 1992년 교통사고로 38세에 세상을 떠난 스탠드업 코미디언 Sam Kinison의 유족 측과 계약을 맺고, 그의 이름과 초상을 활용한 새 사업 기회를 찾는다. 중심에는 AI 플랫폼 Uare.AI가 구동하는 Kinison의 AI 아바타가 있다. LivePerson 창업자 Rob LoCascio가 세운 이 회사는 Kinison 모델을 개발했고, Buchwald는 이 모델로 고인의 활동 기회를 “여러 분야에 걸쳐” “넓힐” 수 있다고 밝혔다. 에이전시는 Kinison의 형제이자 전 매니저인 Bill Kinison과 함께 아바타를 활용할 곳을 찾고 있다."
               },
               {
                 "t": "p",
-                "x": "주요 도구로는 실시간 미리보기를 갖춘 3D 조명 시스템 Video Relight, 기존 실사 영상에서 새로운 앵글과 숏을 생성해 촬영장에 돌아가지 않고도 장면을 완성하게 하는 Camera Angle Presets, 실사 장면에 AI 생성(AI-generated) 군중을 배치하는 Add Extras가 있다. 이 밖에 그린스크린 자동 교체, 시간대·날씨·달의 위상 변경, 영상의 레이어 분리 기능도 제공한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "“Sam은 언제나 코미디와 엔터테인먼트의 최전선에 있었다. Uare.ai의 뛰어난 작업과 Buchwald 에이전시의 비전으로 우리는 내 형제의 유산을 이어 가겠다는 약속을 지키고 있다.” Bill Kinison은 성명에서 이렇게 말했다."
               },
               {
                 "t": "p",
-                "x": "Topview 공동창업자 겸 CEO 젠슨 우(Jensen Wu)는 “완전한 AI 생성(AI-generated) 영화는 할리우드의 반발에 부딪혔고 주류 배급에 접근하기 어려웠으며, 수익도 대부분 YouTube에 한정됐다”고 말했다. 이어 “실제 배우와 AI 보강을 결합한 하이브리드 제작 모델을 택하면, 영화 제작자는 할리우드 주류 배급 채널에 닿을 수 있고 수익을 내기에도 더 유리한 작품을 만들 수 있다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Topview는 등록 사용자가 오백만 명이 넘고 그중 약 40%가 AI 영화와 드라마를 만들며, 플랫폼에서 하루 약 백만 개의 영상이 생성된다고 밝혔다."
+                "x": "이번 계약은 살아 있든 세상을 떠났든 유명인들이 AI로 이름, 목소리, 초상을 수익화하는 흐름 속에서 나왔다. Michael Caine은 Stan Lee와 Judy Garland의 유족 측에 이어 ElevenLabs에 목소리 사용권을 내줬고, Val Kilmer의 유족 측은 그의 모습이 “As Deep As the Grave”에 등장하는 대가를 받았다. “The View” 공동 진행자 Sunny Hostin은 올여름 AI 스타트업 Fountain 0에 초상 사용권을 내줬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Topviewが実写と\nAIを融合する",
-          "body": "Topviewは実写映像の照明を変え、新たなアングルとAIエキストラを加える。",
-          "mini_headline": "TopviewのハイブリッドAIスタジオ",
+          "headline": "Buchwaldが契約\nSam KinisonとAI",
+          "body": "Buchwaldが故Sam Kinisonの遺産管理団体およびAIアバターと契約した。",
+          "mini_headline": "BuchwaldがKinisonのAIアバターと契約",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "シンガポールのAI動画企業Topviewは、実写の演技とAI生成(AI-generated)の環境、ショット、視覚効果を組み合わせられる制作プラットフォームFilm Studioを発表した。同社によると、Film Studioは単発のクリップではなく制作全体を対象とし、映画やシリーズを通して物語とキャラクターの一貫性を保てるよう制作者を支える。"
+                "x": "Buchwaldは、1992年の自動車事故により38歳で亡くなったスタンダップ・コメディアンSam Kinisonの遺産管理団体と契約し、その名前と肖像をめぐる新たなビジネス機会の開拓に乗り出した。そこで登場するのが、AIプラットフォームUare.AIが動かすKinisonのAIアバターだ。LivePersonの創業者Rob LoCascioが設立した同社はKinisonのモデルを開発しており、Buchwaldによれば、このモデルは故人の機会を「複数の分野にわたって」「広げる」ために使えるという。同エージェンシーはKinisonの兄弟で元マネージャーのBill Kinisonと組み、アバターを展開できる場を探っている。"
               },
               {
                 "t": "p",
-                "x": "主なツールには、リアルタイムプレビューを備えた3D照明システムVideo Relight、既存の実写映像から新しいアングルやショットを生成し、撮影現場に戻らずにシーンを仕上げられるCamera Angle Presets、AI生成(AI-generated)の群衆を実写シーンに配置するAdd Extrasがある。ほかにもグリーンスクリーンの自動置き換え、時間帯・天候・月相の変更、動画のレイヤー分割といった機能を備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "「Samは常にコメディとエンターテインメントの最先端にいた。Uare.aiの見事な仕事とBuchwaldエージェンシーのビジョンによって、私たちは兄弟の遺産を生かし続けるという約束を守っている」とBill Kinisonは声明で述べた。"
               },
               {
                 "t": "p",
-                "x": "Topviewの共同創業者でCEOのJensen Wu氏は「完全にAI生成(AI-generated)の映画はハリウッドの抵抗に遭い、主流の配給へのアクセスも限られ、収益はほぼYouTubeにとどまってきた」と述べた。さらに「実際の俳優とAIによる補強を組み合わせたハイブリッド制作モデルを採用すれば、映画制作者はハリウッドの主流配給チャネルに届き、収益化にも有利な作品を作れる」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Topviewによると、登録ユーザーは五百万人を超え、その約40%がAI映画やドラマを制作しており、プラットフォーム上では毎日約百万本の動画が生成されている。"
+                "x": "今回のライセンス契約は、存命・故人を問わず著名人がAIを通じて名前や声、肖像を収益化する流れの中で結ばれた。Michael CaineはStan LeeやJudy Garlandの遺産管理団体と同じくElevenLabsに声をライセンスし、Val Kilmerの遺産管理団体は彼の肖像が「As Deep As the Grave」に登場することへの対価を受け取った。「The View」の共同司会者Sunny Hostinは今夏、AIスタートアップFountain 0に自らの肖像をライセンスした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Topview让AI\n融入实拍影像",
-          "body": "Topview的工具可为实拍画面重新打光、添加新机位与AI群演，并替换绿幕。",
-          "mini_headline": "Topview混合式AI工作室",
+          "headline": "Buchwald签下\nSam Kinison及AI",
+          "body": "经纪公司Buchwald签下已故Sam Kinison的遗产及其AI分身，以开拓新业务。",
+          "mini_headline": "Buchwald签下Kinison AI分身",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "总部位于新加坡的AI视频公司Topview推出了制作平台Film Studio，让电影人能够将真人实拍表演与AI生成（AI-generated）的环境、镜头和视觉特效相结合。该公司表示，Film Studio覆盖整部作品的制作，而非单个片段，帮助创作者在整部电影或剧集中保持故事和角色的一致性。"
+                "x": "Buchwald已签下单口喜剧演员Sam Kinison的遗产管理方，围绕其姓名和肖像开发新的商业机会。Kinison于1992年因车祸去世，年仅38岁。登场的是由AI平台Uare.AI驱动的Kinison AI分身。这家由LivePerson创始人Rob LoCascio创办的公司开发了Kinison的模型，Buchwald表示，该模型可用于“在多个领域”为这位已故喜剧演员“拓展机会”。该经纪公司正与Kinison的兄弟、前经纪人Bill Kinison合作，寻找分身可以落地的场景。"
               },
               {
                 "t": "p",
-                "x": "其工具包括带实时预览的3D布光系统Video Relight；可从现有实拍素材生成新角度和新镜头、无需重返片场即可完成场景的Camera Angle Presets；以及在实拍场景中加入AI生成（AI-generated）群众演员的Add Extras。其他功能还包括自动替换绿幕，更改时段、天气和月相，以及将视频拆分为图层。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "“Sam始终站在喜剧和娱乐的最前沿。借助Uare.ai的出色工作和Buchwald经纪公司的远见，我们正在兑现让我兄弟的遗产延续下去的承诺。”Bill Kinison在声明中表示。"
               },
               {
                 "t": "p",
-                "x": "Topview联合创始人兼CEO Jensen Wu表示：“完全由AI生成（AI-generated）的电影遭到好莱坞抵制，进入主流发行渠道的机会有限，收入基本局限于YouTube。”他说：“通过采用真人演员与AI增强相结合的混合制作模式，电影人可以创作出能够进入好莱坞主流发行渠道、也更有条件创造收入的作品。”"
-              },
-              {
-                "t": "p",
-                "x": "Topview称其注册用户超过五百万，其中约40%制作AI电影和短剧，平台每天生成约一百万条视频。"
+                "x": "此次授权正值在世和已故名人纷纷借助AI将姓名、声音和肖像变现之际：Michael Caine继Stan Lee和Judy Garland的遗产管理方之后，将自己的声音授权给ElevenLabs；Val Kilmer的遗产管理方因其肖像出现在《As Deep As the Grave》中获得报酬。《The View》联合主持人Sunny Hostin今年夏天将自己的肖像授权给AI初创公司Fountain 0。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Topview Film Studio combina AI\ncon imágenes de acción real",
-          "body": "Film Studio de Topview reilumina tomas reales, añade nuevos ángulos y extras con AI y sustituye el croma.",
-          "mini_headline": "El estudio híbrido de AI de Topview",
+          "headline": "Buchwald firma a Sam Kinison\ny a su avatar de AI",
+          "body": "La agencia Buchwald firmó con el patrimonio del fallecido cómico Sam Kinison y su avatar de AI para nuevos negocios.",
+          "mini_headline": "Buchwald firma el avatar AI de Kinison",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/replace_green_screen-1280b.jpg?itok=2cFBQe2G"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Topview, empresa de video con AI con sede en Singapur, lanzó Film Studio, una plataforma de producción que permite a los cineastas combinar actuaciones de acción real con entornos, planos y efectos visuales generados por AI (AI-generated). Según la compañía, Film Studio abarca una producción completa y no solo clips sueltos, lo que ayuda a los creadores a mantener la coherencia de historias y personajes a lo largo de una película o una serie."
+                "x": "Buchwald ha firmado con el patrimonio del comediante de stand-up Sam Kinison, que murió a los 38 años en un accidente de tráfico en 1992, para desarrollar nuevas oportunidades de negocio en torno a su nombre e imagen. Aquí entra el avatar de AI de Kinison, impulsado por la plataforma de AI Uare.AI. La empresa, fundada por Rob LoCascio, fundador de LivePerson, ha desarrollado un modelo de Kinison que, según Buchwald, puede servir para “ampliar las oportunidades” del fallecido cómico “en múltiples sectores”. La agencia trabaja con el hermano y exmánager de Kinison, Bill Kinison, para decidir dónde podría desplegarse el avatar."
               },
               {
                 "t": "p",
-                "x": "Entre sus herramientas figuran Video Relight, un sistema de iluminación 3D con vista previa en tiempo real; Camera Angle Presets, que genera nuevos ángulos y planos a partir de material de acción real ya grabado para terminar una escena sin volver al set; y Add Extras, que coloca figurantes generados por AI (AI-generated) en una escena de acción real. Otras funciones reemplazan automáticamente el croma, cambian la hora del día, el clima y la fase lunar, y separan un video en capas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081864-video-relight-1-1280.jpg?itok=Uuggw1wh"
+                "x": "“Sam siempre estuvo a la vanguardia de la comedia y el entretenimiento, y con el talento del trabajo de Uare.ai y la visión de la agencia Buchwald, mantenemos viva la promesa del legado de mi hermano”, dijo Bill Kinison en un comunicado."
               },
               {
                 "t": "p",
-                "x": "\"Las películas totalmente generadas por AI (AI-generated) han encontrado resistencia en Hollywood y han tenido un acceso limitado a la distribución convencional, con ingresos limitados en gran medida a YouTube\", dijo Jensen Wu, cofundador y CEO de Topview. \"Al adoptar un modelo de producción híbrido que combina actores reales con mejoras de AI, los cineastas pueden crear obras accesibles para los canales de distribución convencionales de Hollywood y mejor posicionadas para generar ingresos\"."
-              },
-              {
-                "t": "p",
-                "x": "Topview afirma tener más de cinco millones de usuarios registrados, de los cuales cerca del 40% hace películas y dramas con AI, y que en la plataforma se generan aproximadamente un millón de videos cada día."
+                "x": "La licencia llega en un momento en que celebridades, vivas y fallecidas, monetizan su nombre, voz e imagen a través de la AI: Michael Caine se sumó a los patrimonios de Stan Lee y Judy Garland al licenciar su voz a ElevenLabs, y el patrimonio de Val Kilmer recibió un pago para que su imagen apareciera en “As Deep As the Grave”. Sunny Hostin, copresentadora de “The View”, licenció este verano su imagen a la startup de AI Fountain 0."
               }
             ]
           }
@@ -355,249 +275,189 @@
       }
     },
     {
-      "id": "visualcenter-cinema-genesis",
+      "id": "lemonlight-hero-production-os",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "한국 AI 3D 단편\n영화 발상지서 상영",
-      "body": "AI가 19세기 사진을 4K·3D로 되살린 단편이 Courant3D서 상영됐다.",
-      "mini_headline": "한국 AI 3D 영화, 프랑스로",
+      "headline": "Lemonlight, AI\n제작 OS Hero 출시",
+      "body": "Hero는 제작 협업을 한데 묶고 실사·AI-generated 영상까지 고친다.",
+      "mini_headline": "Lemonlight, Hero 출시",
       "tool": "Movies",
-      "source": "K-EnterTech Hub",
-      "url": "https://www.kentertechhub.com/visual-center-cinema-genesis-france-en/",
+      "source": "Broadcast",
+      "url": "https://www.broadcastnow.co.uk/tech-innovation/lemonlight-launches-ai-video-production-platform/5222645.article",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+            "t": "p",
+            "x": "Lemonlight가 제작 전 과정의 협업을 돕는 AI-powered 플랫폼 Hero를 내놨다. AI로 콘텐츠를 편집하는 기능도 갖췄다."
           },
           {
             "t": "p",
-            "x": "부산 AI 영상 기업 Visual Center가 ETRI, 부산국제단편영화제(BISFF)와 함께 만든 3D 입체 단편 〈Cinema Genesis〉가 10월 9일 앙굴렘 Courant3D 영화제의 AI 영화 경쟁 부문에 공식 노미네이트됐다."
+            "x": "사용자는 동기화된 허브 하나에서 프로젝트를 관리하고, 대본부터 스토리보드까지 요소마다 승인한다. AI-powered Hero 제작 에이전트는 콘텐츠를 직접 고치기도 한다. 전통 방식으로 찍었든 AI로 만들었든 가리지 않는다."
           },
           {
             "t": "p",
-            "x": "약 4분짜리인 이 영화는 머이브리지, 마레, 에디슨, 뤼미에르 형제, 멜리에스의 발명을 생성형 AI로 다시 풀어낸다. GAN 기반(GAN-based) AI가 손상된 19세기(19th-century) 사진과 초기 필름을 UHD 4K로 복원해 색을 입혔고, 깊이를 추정하고 좌우 시차를 계산해 2D 영상을 입체 3D로 바꿨다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-            "cap": "〈Cinema Genesis〉 상영 모습."
+            "x": "회사가 든 작업 흐름 예시를 보면, 플랫폼은 크리에이티브 브리프를 받아 크리에이티브 트리트먼트와 대본 초안을 쓰고 제공된 참조 사진으로 스토리보드를 만든다. 참조 이미지가 모든 프레임에 이어지니 첫 번째 숏의 배우는 20번째 숏에서도 얼굴이 같고 로고도 흐트러지지 않는다. 장면을 고쳐 쓰면 숏 리스트와 일정도 함께 바뀐다."
           },
           {
             "t": "p",
-            "x": "10월 10~12일 열린 'BISFF in PARIS'에서는 약 200명이 AI 영화와 입체 변환을 다룬 라운드테이블에 참석했고 3D 안경을 쓴 채 생성형 AI(generative-AI) 3D 단편 네 편을 봤다. 김창호 감독은 “생성형 AI는 인간의 예술성을 대체하지 않는다”며 “130년 전의 선구자들과 오늘의 창작자들이 시간을 넘어 협업하게 하는 세 번째 시선”이라고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-            "cap": "파리 한국문화원에서 열린 'AI 영화와 입체 변환' 라운드테이블."
+            "x": "내부 피치도 예로 들었다. 마케터는 Hero를 대략적인 스토리보드 작업에만 써도 되고, 같은 프로젝트의 감독은 숏마다 렌즈와 조명을 고르는 데까지 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "BISFF는 MK2 Agency, Artefact와도 협약을 맺었다. 2027년 제44회 BISFF에 AI 경쟁 부문을 새로 만들 발판이다."
+            "x": "“AI 덕분에 콘텐츠를 만들기는 쉬워졌지만, 제작은 그 어느 때보다 파편화됐다.” Lemonlight 창업자 겸 CEO Hope Horner의 말이다. “업계에는 서로 연동되지 않는 강력한 새 도구가 넘쳐난다. 고객을 위해 수천 편의 영상을 제작한 뒤, 우리는 AI 도구를 하나 더 만드는 것보다 영상 제작을 위한 단일 운영체제를 만드는 데 진짜 기회가 있다는 것을 깨달았다. Hero는 실사 촬영이든 AI 영상 생성이든 기획부터 납품까지 모든 것을 하나로 묶는다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Korean AI 3D film screens\nin cinema's birthplace",
-          "body": "Visual Center's short restored 19th-century photos to 4K with AI, turned 2D into 3D, and screened at France's Courant3D.",
-          "mini_headline": "Korean AI 3D film in France",
+          "headline": "Lemonlight launches Hero,\nan AI production OS",
+          "body": "Hero unifies production collaboration, and its agent can revise content whether shot traditionally or AI-generated.",
+          "mini_headline": "Lemonlight launches Hero",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+                "t": "p",
+                "x": "Lemonlight has launched Hero, an AI-powered platform for collaboration across production that can also edit content with AI."
               },
               {
                 "t": "p",
-                "x": "\"Cinema Genesis,\" a 3D stereoscopic short made by Busan AI video company Visual Center with ETRI and the Busan International Short Film Festival (BISFF), was officially nominated in the AI film competition at the Courant3D festival in Angoulême on Oct. 9."
+                "x": "Hero users can manage projects and approve components from scripts to storyboards in a single, synchronised hub. The AI-powered Hero production agent can also make revisions directly to the content, which can be shot traditionally or AI generated."
               },
               {
                 "t": "p",
-                "x": "The roughly four-minute film reinterprets the inventions of Muybridge, Marey, Edison, the Lumière brothers and Méliès with generative AI. GAN-based AI restored and colorized damaged 19th-century photographs and early film to UHD 4K; depth estimation and calculated left-right parallax turned 2D footage into stereoscopic 3D."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "A screening of \"Cinema Genesis.\""
+                "x": "An example workflow given by the company sees the platform draft a creative treatment and script from a creative brief, building a storyboard using provided reference photos. Those references carry through every frame, so an actor in shot one has the same face in shot 20, and logos never drift. If you rewrite a scene, the shot list and schedule update with it."
               },
               {
                 "t": "p",
-                "x": "From Oct. 10-12, at \"BISFF in PARIS,\" about 200 people attended a roundtable on AI film and stereoscopic conversion, watching four generative-AI 3D shorts in 3D glasses. \"Generative AI does not replace human artistry,\" director Kim Chang-ho said. \"It is a third perspective that lets the pioneers of 130 years ago and today's creators collaborate across time.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "The \"AI Film and Stereoscopic Conversion\" roundtable at the Korean Cultural Center in Paris."
+                "x": "Another example references an internal pitch, where a marketer might limit their use of Hero to a rough storyboard. Alternatively, a director on the same project could go so far as to employ Hero when choosing the lens and lighting for each shot."
               },
               {
                 "t": "p",
-                "x": "BISFF also signed an agreement with MK2 Agency and Artefact, laying the groundwork for a new AI competition section at the 44th BISFF in 2027."
+                "x": "“AI has made content easier to create, but production more fragmented than ever,” said Hope Horner, Founder and CEO of Lemonlight. “The industry is flooded with powerful new tools that don’t work together. After producing thousands of videos for clients, we realized that, rather than creating another AI tool, the real opportunity was building a single operating system for video production. Hero brings everything together from concept to delivery, whether you’re shooting live action or generating video with AI.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "한국 AI 3D 단편\n영화 발상지서 상영",
-          "body": "AI가 19세기 사진을 4K·3D로 되살린 단편이 Courant3D서 상영됐다.",
-          "mini_headline": "한국 AI 3D 영화, 프랑스로",
+          "headline": "Lemonlight, AI\n제작 OS Hero 출시",
+          "body": "Hero는 제작 협업을 한데 묶고 실사·AI-generated 영상까지 고친다.",
+          "mini_headline": "Lemonlight, Hero 출시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+                "t": "p",
+                "x": "Lemonlight가 제작 전 과정의 협업을 돕는 AI-powered 플랫폼 Hero를 내놨다. AI로 콘텐츠를 편집하는 기능도 갖췄다."
               },
               {
                 "t": "p",
-                "x": "부산 AI 영상 기업 Visual Center가 ETRI, 부산국제단편영화제(BISFF)와 함께 만든 3D 입체 단편 〈Cinema Genesis〉가 10월 9일 앙굴렘 Courant3D 영화제의 AI 영화 경쟁 부문에 공식 노미네이트됐다."
+                "x": "사용자는 동기화된 허브 하나에서 프로젝트를 관리하고, 대본부터 스토리보드까지 요소마다 승인한다. AI-powered Hero 제작 에이전트는 콘텐츠를 직접 고치기도 한다. 전통 방식으로 찍었든 AI로 만들었든 가리지 않는다."
               },
               {
                 "t": "p",
-                "x": "약 4분짜리인 이 영화는 머이브리지, 마레, 에디슨, 뤼미에르 형제, 멜리에스의 발명을 생성형 AI로 다시 풀어낸다. GAN 기반(GAN-based) AI가 손상된 19세기(19th-century) 사진과 초기 필름을 UHD 4K로 복원해 색을 입혔고, 깊이를 추정하고 좌우 시차를 계산해 2D 영상을 입체 3D로 바꿨다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "〈Cinema Genesis〉 상영 모습."
+                "x": "회사가 든 작업 흐름 예시를 보면, 플랫폼은 크리에이티브 브리프를 받아 크리에이티브 트리트먼트와 대본 초안을 쓰고 제공된 참조 사진으로 스토리보드를 만든다. 참조 이미지가 모든 프레임에 이어지니 첫 번째 숏의 배우는 20번째 숏에서도 얼굴이 같고 로고도 흐트러지지 않는다. 장면을 고쳐 쓰면 숏 리스트와 일정도 함께 바뀐다."
               },
               {
                 "t": "p",
-                "x": "10월 10~12일 열린 'BISFF in PARIS'에서는 약 200명이 AI 영화와 입체 변환을 다룬 라운드테이블에 참석했고 3D 안경을 쓴 채 생성형 AI(generative-AI) 3D 단편 네 편을 봤다. 김창호 감독은 “생성형 AI는 인간의 예술성을 대체하지 않는다”며 “130년 전의 선구자들과 오늘의 창작자들이 시간을 넘어 협업하게 하는 세 번째 시선”이라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "파리 한국문화원에서 열린 'AI 영화와 입체 변환' 라운드테이블."
+                "x": "내부 피치도 예로 들었다. 마케터는 Hero를 대략적인 스토리보드 작업에만 써도 되고, 같은 프로젝트의 감독은 숏마다 렌즈와 조명을 고르는 데까지 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "BISFF는 MK2 Agency, Artefact와도 협약을 맺었다. 2027년 제44회 BISFF에 AI 경쟁 부문을 새로 만들 발판이다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "韩国AI 3D电影\n在电影诞生地放映",
-          "body": "这部短片用AI把19世纪照片修复成4K、由2D转为3D，并在Courant3D放映。",
-          "mini_headline": "韩国AI 3D电影登陆法国",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
-              },
-              {
-                "t": "p",
-                "x": "釜山AI影像公司Visual Center与ETRI及釜山国际短片电影节（BISFF）合作制作的3D立体短片《Cinema Genesis》，于10月9日正式入围在昂古莱姆举行的Courant3D电影节AI电影竞赛单元。"
-              },
-              {
-                "t": "p",
-                "x": "这部约四分钟的影片以生成式AI重新诠释了迈布里奇、马雷、爱迪生、卢米埃尔兄弟和梅里爱的发明。基于GAN（GAN-based）的AI将受损的19世纪（19th-century）照片和早期胶片修复并上色至UHD 4K；通过深度估计和计算左右视差，将2D画面转换为立体3D。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "《Cinema Genesis》放映现场。"
-              },
-              {
-                "t": "p",
-                "x": "10月10日至12日，在“BISFF in PARIS”活动上，约200人参加了以AI电影与立体转换为主题的圆桌会，并戴上3D眼镜观看了四部生成式AI（generative-AI）3D短片。导演金昌浩表示：“生成式AI并不会取代人类的艺术创作。”他说：“它是第三种视角，让130年前的先驱与今天的创作者跨越时间展开合作。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "在巴黎韩国文化院举行的“AI电影与立体转换”圆桌会。"
-              },
-              {
-                "t": "p",
-                "x": "BISFF还与MK2 Agency和Artefact签署协议，为2027年第44届BISFF新设AI竞赛单元奠定基础。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Película coreana en 3D con AI\nllega a la cuna del cine",
-          "body": "El corto de Visual Center restauró fotos del siglo 19 a 4K con AI, pasó de 2D a 3D y se vio en el Courant3D francés.",
-          "mini_headline": "Cine coreano en 3D con AI en Francia",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
-              },
-              {
-                "t": "p",
-                "x": "\"Cinema Genesis\", un cortometraje estereoscópico en 3D realizado por la empresa de video con AI de Busan Visual Center junto con ETRI y el Festival Internacional de Cortometrajes de Busan (BISFF), fue nominado oficialmente en la competencia de cine con AI del festival Courant3D, en Angulema, el 9 de octubre."
-              },
-              {
-                "t": "p",
-                "x": "La película, de unos cuatro minutos, reinterpreta con AI generativa los inventos de Muybridge, Marey, Edison, los hermanos Lumière y Méliès. Una AI basada en GAN (GAN-based) restauró y coloreó fotografías del siglo 19 (19th-century) y películas tempranas dañadas hasta UHD 4K; la estimación de profundidad y el cálculo del paralaje izquierda-derecha convirtieron las imágenes 2D en 3D estereoscópico."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "Una proyección de \"Cinema Genesis\"."
-              },
-              {
-                "t": "p",
-                "x": "Del 10 al 12 de octubre, en \"BISFF in PARIS\", unas 200 personas asistieron a una mesa redonda sobre cine con AI y conversión estereoscópica, y vieron con gafas 3D cuatro cortos en 3D hechos con AI generativa (generative-AI). \"La AI generativa no sustituye la creatividad humana\", dijo el director Kim Chang-ho. \"Es una tercera perspectiva que permite a los pioneros de hace 130 años y a los creadores de hoy colaborar a través del tiempo\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "La mesa redonda \"Cine con AI y conversión estereoscópica\" en el Centro Cultural Coreano de París."
-              },
-              {
-                "t": "p",
-                "x": "BISFF también firmó un acuerdo con MK2 Agency y Artefact, que sienta las bases para una nueva sección competitiva de AI en la 44.ª edición del BISFF, en 2027."
+                "x": "“AI 덕분에 콘텐츠를 만들기는 쉬워졌지만, 제작은 그 어느 때보다 파편화됐다.” Lemonlight 창업자 겸 CEO Hope Horner의 말이다. “업계에는 서로 연동되지 않는 강력한 새 도구가 넘쳐난다. 고객을 위해 수천 편의 영상을 제작한 뒤, 우리는 AI 도구를 하나 더 만드는 것보다 영상 제작을 위한 단일 운영체제를 만드는 데 진짜 기회가 있다는 것을 깨달았다. Hero는 실사 촬영이든 AI 영상 생성이든 기획부터 납품까지 모든 것을 하나로 묶는다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国のAI 3D映画\n映画発祥の地で上映",
-          "body": "19世紀の写真をAIで4K 復元し、2Dを3D化した短編がCourant3Dで上映された。",
-          "mini_headline": "韓国のAI 3D映画がフランスへ",
+          "headline": "LemonlightがAI\n制作OS「Hero」発表",
+          "body": "Heroは制作の協業を一元化し、実写もAI-generatedもエージェントが修正できる。",
+          "mini_headline": "LemonlightがHeroを発表",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+                "t": "p",
+                "x": "Lemonlightは、制作全体の協業を支えるAI-poweredプラットフォーム「Hero」を発表した。AIでコンテンツを編集することもできる。"
               },
               {
                 "t": "p",
-                "x": "釜山のAI映像企業Visual CenterがETRI、釜山国際短編映画祭(BISFF)と制作した3D立体短編『Cinema Genesis』が、10月9日にアングレームで開かれたCourant3D映画祭のAI映画コンペティション部門に正式ノミネートされた。"
+                "x": "Heroのユーザーは、同期されたひとつのハブでプロジェクトを管理し、台本からストーリーボードまでの各要素を承認できる。AI-poweredのHero制作エージェントはコンテンツを直接修正することもでき、対象は従来の方法で撮影したものでもAIで生成したものでもよい。"
               },
               {
                 "t": "p",
-                "x": "約4分の本作は、マイブリッジ、マレー、エジソン、リュミエール兄弟、メリエスの発明を生成AIで再解釈する。GANベース(GAN-based)のAIが損傷した19世紀(19th-century)の写真や初期フィルムをUHD 4K に復元・カラー化し、深度推定と左右の視差計算によって2D映像を立体3Dに変換した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "『Cinema Genesis』の上映。"
+                "x": "同社が示したワークフロー例では、プラットフォームがクリエイティブブリーフからクリエイティブトリートメントと台本の草案を作り、提供された参考写真を使ってストーリーボードを組み立てる。参考素材はすべてのフレームに引き継がれるため、最初のショットの俳優は20番目のショットでも同じ顔のままで、ロゴもぶれない。シーンを書き直せば、ショットリストとスケジュールも連動して更新される。"
               },
               {
                 "t": "p",
-                "x": "10月10〜12日の「BISFF in PARIS」では、約200人がAI映画と立体変換をテーマにしたラウンドテーブルに参加し、3Dメガネをかけて生成AI(generative-AI)による3D短編四本を鑑賞した。キム・チャンホ監督は「生成AIは人間の芸術性に取って代わるものではない」と語り、「130年前の先駆者たちと今日の創作者たちが時を超えて協働できるようにする、第三の視点だ」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "パリの韓国文化院で開かれた「AI映画と立体変換」ラウンドテーブル。"
+                "x": "別の例は社内向けのピッチだ。マーケターならHeroの利用を大まかなストーリーボードにとどめるかもしれない。一方、同じプロジェクトの監督は、各ショットのレンズや照明を選ぶ段階までHeroを使うこともできる。"
               },
               {
                 "t": "p",
-                "x": "BISFFはMK2 Agency、Artefactとも協定を結び、2027年の第44回BISFFでAIコンペティション部門を新設する土台を整えた。"
+                "x": "「AIによってコンテンツは作りやすくなったが、制作はかつてないほど分断されている」とLemonlightの創業者兼CEO、Hope Hornerは語る。「業界には、互いに連携しない強力な新ツールがあふれている。クライアントのために何千本もの動画を制作した末に、私たちは新たなAIツールを作るよりも、動画制作のための単一のオペレーティングシステムを築くことにこそ本当の機会があると気づいた。Heroは、実写撮影でもAIによる動画生成でも、構想から納品までのすべてをひとつにまとめる」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lemonlight推出\nAI制作OS Hero",
+          "body": "Hero整合制作协作，其智能体可修改实拍或AI-generated的内容。",
+          "mini_headline": "Lemonlight推出Hero",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lemonlight推出了Hero，这是一个AI-powered平台，可支持整个制作流程中的协作，还能用AI编辑内容。"
+              },
+              {
+                "t": "p",
+                "x": "Hero用户可以在一个同步的统一中心里管理项目，并审批从剧本到故事板的各个环节。AI-powered的Hero制作智能体还可以直接修改内容，无论这些内容是传统拍摄的还是AI生成的。"
+              },
+              {
+                "t": "p",
+                "x": "在公司给出的一个工作流程示例中，平台根据创意简报起草创意方案和剧本，并用提供的参考照片搭建故事板。这些参考贯穿每一帧，因此第一个镜头里的演员到第20个镜头仍是同一张脸，标志也不会走样。如果改写某场戏，镜头清单和拍摄日程也会随之更新。"
+              },
+              {
+                "t": "p",
+                "x": "另一个示例涉及内部提案：营销人员可能只用Hero做粗略的故事板；而同一项目的导演则可以更进一步，在为每个镜头挑选镜头规格和布光时也使用Hero。"
+              },
+              {
+                "t": "p",
+                "x": "“AI让内容创作变得更容易，但制作却比以往任何时候都更加碎片化。”Lemonlight创始人兼CEO Hope Horner表示，“业界充斥着彼此无法协同的强大新工具。在为客户制作了数千条视频之后，我们意识到，真正的机会不是再做一款AI工具，而是打造一个统一的视频制作操作系统。无论是实拍还是用AI生成视频，Hero都能把从构思到交付的一切整合在一起。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lemonlight lanza Hero,\nun OS de producción con AI",
+          "body": "Hero unifica la colaboración en producción y su agente revisa contenido rodado de forma tradicional o AI-generated.",
+          "mini_headline": "Lemonlight lanza Hero",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lemonlight ha lanzado Hero, una plataforma AI-powered para la colaboración en toda la producción que también puede editar contenido con AI."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios de Hero pueden gestionar proyectos y aprobar componentes, desde guiones hasta storyboards, en un único centro sincronizado. El agente de producción de Hero, AI-powered, también puede hacer revisiones directamente en el contenido, ya sea rodado de forma tradicional o generado con AI."
+              },
+              {
+                "t": "p",
+                "x": "En un flujo de trabajo de ejemplo que ofrece la empresa, la plataforma redacta un tratamiento creativo y un guion a partir de un brief creativo, y construye un storyboard con las fotos de referencia proporcionadas. Esas referencias se mantienen en cada fotograma, de modo que un actor en el primer plano tiene la misma cara en el plano 20 y los logotipos nunca varían. Si se reescribe una escena, la lista de planos y el calendario se actualizan con ella."
+              },
+              {
+                "t": "p",
+                "x": "Otro ejemplo alude a una presentación interna, en la que un profesional de marketing podría limitar el uso de Hero a un storyboard preliminar. En cambio, un director del mismo proyecto podría llegar a emplear Hero para elegir el objetivo y la iluminación de cada plano."
+              },
+              {
+                "t": "p",
+                "x": "“La AI ha hecho que el contenido sea más fácil de crear, pero la producción está más fragmentada que nunca”, dijo Hope Horner, fundadora y CEO de Lemonlight. “La industria está inundada de nuevas herramientas potentes que no funcionan entre sí. Tras producir miles de videos para clientes, nos dimos cuenta de que, en lugar de crear otra herramienta de AI, la verdadera oportunidad era construir un único sistema operativo para la producción de video. Hero lo reúne todo, del concepto a la entrega, tanto si se rueda en imagen real como si se genera video con AI”."
               }
             ]
           }
@@ -605,161 +465,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "한국 AI 3D 단편\n영화 발상지서 상영",
-          "body": "19세기 사진을 AI로 4K·3D로 되살린 단편이 Courant3D서 상영됐다.",
-          "mini_headline": "한국 AI 3D 영화, 프랑스로",
+          "headline": "Lemonlight, AI\n제작 OS Hero 출시",
+          "body": "Hero는 제작 협업을 통합하고 실사·AI-generated 영상을 고친다.",
+          "mini_headline": "Lemonlight, Hero 출시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+                "t": "p",
+                "x": "Lemonlight가 제작 전반의 협업을 위한 AI-powered 플랫폼 Hero를 출시했다. 이 플랫폼은 AI로 콘텐츠를 편집할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "부산의 AI 영상 기업 Visual Center가 ETRI, 부산국제단편영화제(BISFF)와 함께 만든 3D 입체 단편 〈Cinema Genesis〉가 10월 9일 앙굴렘에서 열린 Courant3D 영화제의 AI 영화 경쟁 부문에 공식 노미네이트됐다."
+                "x": "Hero 사용자는 하나의 동기화된 허브에서 프로젝트를 관리하고 대본부터 스토리보드까지 각 요소를 승인할 수 있다. AI-powered Hero 제작 에이전트는 콘텐츠를 직접 수정할 수도 있는데, 전통 방식으로 촬영한 콘텐츠든 AI로 생성한 콘텐츠든 상관없다."
               },
               {
                 "t": "p",
-                "x": "약 4분 길이의 이 영화는 머이브리지, 마레, 에디슨, 뤼미에르 형제, 멜리에스의 발명을 생성형 AI로 재해석한다. GAN 기반(GAN-based) AI가 손상된 19세기(19th-century) 사진과 초기 필름을 UHD 4K로 복원하고 채색했으며, 깊이 추정과 좌우 시차 계산으로 2D 영상을 입체 3D로 바꿨다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "〈Cinema Genesis〉 상영 모습."
+                "x": "회사가 제시한 작업 흐름 예시에서 플랫폼은 크리에이티브 브리프를 바탕으로 크리에이티브 트리트먼트와 대본 초안을 쓰고, 제공된 참조 사진으로 스토리보드를 만든다. 참조 이미지는 모든 프레임에 이어지므로 첫 번째 숏의 배우는 20번째 숏에서도 같은 얼굴을 유지하고, 로고도 흐트러지지 않는다. 장면을 고쳐 쓰면 숏 리스트와 일정도 함께 바뀐다."
               },
               {
                 "t": "p",
-                "x": "10월 10~12일 열린 'BISFF in PARIS'에서는 약 200명이 AI 영화와 입체 변환을 주제로 한 라운드테이블에 참석해 3D 안경을 쓰고 생성형 AI(generative-AI) 3D 단편 네 편을 관람했다. 김창호 감독은 “생성형 AI는 인간의 예술성을 대체하지 않는다”며 “130년 전의 선구자들과 오늘의 창작자들이 시간을 넘어 협업하게 하는 세 번째 시선”이라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "파리 한국문화원에서 열린 'AI 영화와 입체 변환' 라운드테이블."
+                "x": "또 다른 예시는 내부 피치다. 마케터는 Hero를 대략적인 스토리보드 작업에만 쓸 수 있다. 반면 같은 프로젝트의 감독은 숏마다 렌즈와 조명을 고르는 데까지 Hero를 활용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "BISFF는 MK2 Agency, Artefact와도 협약을 맺어 2027년 제44회 BISFF에 AI 경쟁 부문을 신설할 기반을 마련했다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "韩国AI 3D电影\n在电影诞生地放映",
-          "body": "这部短片用AI把19世纪照片修复成4K、由2D转为3D，并在Courant3D放映。",
-          "mini_headline": "韩国AI 3D电影登陆法国",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
-              },
-              {
-                "t": "p",
-                "x": "釜山AI影像公司Visual Center与ETRI及釜山国际短片电影节（BISFF）合作制作的3D立体短片《Cinema Genesis》，于10月9日正式入围在昂古莱姆举行的Courant3D电影节AI电影竞赛单元。"
-              },
-              {
-                "t": "p",
-                "x": "这部约四分钟的影片以生成式AI重新诠释了迈布里奇、马雷、爱迪生、卢米埃尔兄弟和梅里爱的发明。基于GAN（GAN-based）的AI将受损的19世纪（19th-century）照片和早期胶片修复并上色至UHD 4K；通过深度估计和计算左右视差，将2D画面转换为立体3D。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "《Cinema Genesis》放映现场。"
-              },
-              {
-                "t": "p",
-                "x": "10月10日至12日，在“BISFF in PARIS”活动上，约200人参加了以AI电影与立体转换为主题的圆桌会，并戴上3D眼镜观看了四部生成式AI（generative-AI）3D短片。导演金昌浩表示：“生成式AI并不会取代人类的艺术创作。”他说：“它是第三种视角，让130年前的先驱与今天的创作者跨越时间展开合作。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "在巴黎韩国文化院举行的“AI电影与立体转换”圆桌会。"
-              },
-              {
-                "t": "p",
-                "x": "BISFF还与MK2 Agency和Artefact签署协议，为2027年第44届BISFF新设AI竞赛单元奠定基础。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Película coreana en 3D con AI\nllega a la cuna del cine",
-          "body": "El corto de Visual Center restauró fotos del siglo 19 a 4K con AI, pasó de 2D a 3D y se vio en el Courant3D francés.",
-          "mini_headline": "Cine coreano en 3D con AI en Francia",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
-              },
-              {
-                "t": "p",
-                "x": "\"Cinema Genesis\", un cortometraje estereoscópico en 3D realizado por la empresa de video con AI de Busan Visual Center junto con ETRI y el Festival Internacional de Cortometrajes de Busan (BISFF), fue nominado oficialmente en la competencia de cine con AI del festival Courant3D, en Angulema, el 9 de octubre."
-              },
-              {
-                "t": "p",
-                "x": "La película, de unos cuatro minutos, reinterpreta con AI generativa los inventos de Muybridge, Marey, Edison, los hermanos Lumière y Méliès. Una AI basada en GAN (GAN-based) restauró y coloreó fotografías del siglo 19 (19th-century) y películas tempranas dañadas hasta UHD 4K; la estimación de profundidad y el cálculo del paralaje izquierda-derecha convirtieron las imágenes 2D en 3D estereoscópico."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "Una proyección de \"Cinema Genesis\"."
-              },
-              {
-                "t": "p",
-                "x": "Del 10 al 12 de octubre, en \"BISFF in PARIS\", unas 200 personas asistieron a una mesa redonda sobre cine con AI y conversión estereoscópica, y vieron con gafas 3D cuatro cortos en 3D hechos con AI generativa (generative-AI). \"La AI generativa no sustituye la creatividad humana\", dijo el director Kim Chang-ho. \"Es una tercera perspectiva que permite a los pioneros de hace 130 años y a los creadores de hoy colaborar a través del tiempo\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "La mesa redonda \"Cine con AI y conversión estereoscópica\" en el Centro Cultural Coreano de París."
-              },
-              {
-                "t": "p",
-                "x": "BISFF también firmó un acuerdo con MK2 Agency y Artefact, que sienta las bases para una nueva sección competitiva de AI en la 44.ª edición del BISFF, en 2027."
+                "x": "“AI 덕분에 콘텐츠를 만들기는 쉬워졌지만, 제작은 그 어느 때보다 파편화됐다.” Lemonlight 창업자 겸 CEO Hope Horner의 말이다. “업계에는 서로 연동되지 않는 강력한 새 도구가 넘쳐난다. 고객을 위해 수천 편의 영상을 제작한 뒤, 우리는 AI 도구를 하나 더 만드는 것보다 영상 제작을 위한 단일 운영체제를 만드는 데 진짜 기회가 있다는 것을 깨달았다. Hero는 실사 촬영이든 AI 영상 생성이든 기획부터 납품까지 모든 것을 하나로 묶는다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国のAI 3D映画\n映画発祥の地で上映",
-          "body": "19世紀の写真をAIで4K 復元し、2Dを3D化した短編がCourant3Dで上映された。",
-          "mini_headline": "韓国のAI 3D映画がフランスへ",
+          "headline": "LemonlightがAI\n制作OS「Hero」発表",
+          "body": "Heroは制作の協業を一元化し、実写もAI-generatedもエージェントが修正できる。",
+          "mini_headline": "LemonlightがHeroを発表",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/n2ob83_202611181237.jpg"
+                "t": "p",
+                "x": "Lemonlightは、制作全体の協業を支えるAI-poweredプラットフォーム「Hero」を発表した。AIでコンテンツを編集することもできる。"
               },
               {
                 "t": "p",
-                "x": "釜山のAI映像企業Visual CenterがETRI、釜山国際短編映画祭(BISFF)と制作した3D立体短編『Cinema Genesis』が、10月9日にアングレームで開かれたCourant3D映画祭のAI映画コンペティション部門に正式ノミネートされた。"
+                "x": "Heroのユーザーは、同期されたひとつのハブでプロジェクトを管理し、台本からストーリーボードまでの各要素を承認できる。AI-poweredのHero制作エージェントはコンテンツを直接修正することもでき、対象は従来の方法で撮影したものでもAIで生成したものでもよい。"
               },
               {
                 "t": "p",
-                "x": "約4分の本作は、マイブリッジ、マレー、エジソン、リュミエール兄弟、メリエスの発明を生成AIで再解釈する。GANベース(GAN-based)のAIが損傷した19世紀(19th-century)の写真や初期フィルムをUHD 4K に復元・カラー化し、深度推定と左右の視差計算によって2D映像を立体3Dに変換した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/moqhv4_202611181237.jpg",
-                "cap": "『Cinema Genesis』の上映。"
+                "x": "同社が示したワークフロー例では、プラットフォームがクリエイティブブリーフからクリエイティブトリートメントと台本の草案を作り、提供された参考写真を使ってストーリーボードを組み立てる。参考素材はすべてのフレームに引き継がれるため、最初のショットの俳優は20番目のショットでも同じ顔のままで、ロゴもぶれない。シーンを書き直せば、ショットリストとスケジュールも連動して更新される。"
               },
               {
                 "t": "p",
-                "x": "10月10〜12日の「BISFF in PARIS」では、約200人がAI映画と立体変換をテーマにしたラウンドテーブルに参加し、3Dメガネをかけて生成AI(generative-AI)による3D短編四本を鑑賞した。キム・チャンホ監督は「生成AIは人間の芸術性に取って代わるものではない」と語り、「130年前の先駆者たちと今日の創作者たちが時を超えて協働できるようにする、第三の視点だ」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/3n6tcs_202611181237.jpg",
-                "cap": "パリの韓国文化院で開かれた「AI映画と立体変換」ラウンドテーブル。"
+                "x": "別の例は社内向けのピッチだ。マーケターならHeroの利用を大まかなストーリーボードにとどめるかもしれない。一方、同じプロジェクトの監督は、各ショットのレンズや照明を選ぶ段階までHeroを使うこともできる。"
               },
               {
                 "t": "p",
-                "x": "BISFFはMK2 Agency、Artefactとも協定を結び、2027年の第44回BISFFでAIコンペティション部門を新設する土台を整えた。"
+                "x": "「AIによってコンテンツは作りやすくなったが、制作はかつてないほど分断されている」とLemonlightの創業者兼CEO、Hope Hornerは語る。「業界には、互いに連携しない強力な新ツールがあふれている。クライアントのために何千本もの動画を制作した末に、私たちは新たなAIツールを作るよりも、動画制作のための単一のオペレーティングシステムを築くことにこそ本当の機会があると気づいた。Heroは、実写撮影でもAIによる動画生成でも、構想から納品までのすべてをひとつにまとめる」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lemonlight推出\nAI制作OS Hero",
+          "body": "Hero整合制作协作，其智能体可修改实拍或AI-generated的内容。",
+          "mini_headline": "Lemonlight推出Hero",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lemonlight推出了Hero，这是一个AI-powered平台，可支持整个制作流程中的协作，还能用AI编辑内容。"
+              },
+              {
+                "t": "p",
+                "x": "Hero用户可以在一个同步的统一中心里管理项目，并审批从剧本到故事板的各个环节。AI-powered的Hero制作智能体还可以直接修改内容，无论这些内容是传统拍摄的还是AI生成的。"
+              },
+              {
+                "t": "p",
+                "x": "在公司给出的一个工作流程示例中，平台根据创意简报起草创意方案和剧本，并用提供的参考照片搭建故事板。这些参考贯穿每一帧，因此第一个镜头里的演员到第20个镜头仍是同一张脸，标志也不会走样。如果改写某场戏，镜头清单和拍摄日程也会随之更新。"
+              },
+              {
+                "t": "p",
+                "x": "另一个示例涉及内部提案：营销人员可能只用Hero做粗略的故事板；而同一项目的导演则可以更进一步，在为每个镜头挑选镜头规格和布光时也使用Hero。"
+              },
+              {
+                "t": "p",
+                "x": "“AI让内容创作变得更容易，但制作却比以往任何时候都更加碎片化。”Lemonlight创始人兼CEO Hope Horner表示，“业界充斥着彼此无法协同的强大新工具。在为客户制作了数千条视频之后，我们意识到，真正的机会不是再做一款AI工具，而是打造一个统一的视频制作操作系统。无论是实拍还是用AI生成视频，Hero都能把从构思到交付的一切整合在一起。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lemonlight lanza Hero,\nun OS de producción con AI",
+          "body": "Hero unifica la colaboración en producción y su agente revisa contenido rodado de forma tradicional o AI-generated.",
+          "mini_headline": "Lemonlight lanza Hero",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lemonlight ha lanzado Hero, una plataforma AI-powered para la colaboración en toda la producción que también puede editar contenido con AI."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios de Hero pueden gestionar proyectos y aprobar componentes, desde guiones hasta storyboards, en un único centro sincronizado. El agente de producción de Hero, AI-powered, también puede hacer revisiones directamente en el contenido, ya sea rodado de forma tradicional o generado con AI."
+              },
+              {
+                "t": "p",
+                "x": "En un flujo de trabajo de ejemplo que ofrece la empresa, la plataforma redacta un tratamiento creativo y un guion a partir de un brief creativo, y construye un storyboard con las fotos de referencia proporcionadas. Esas referencias se mantienen en cada fotograma, de modo que un actor en el primer plano tiene la misma cara en el plano 20 y los logotipos nunca varían. Si se reescribe una escena, la lista de planos y el calendario se actualizan con ella."
+              },
+              {
+                "t": "p",
+                "x": "Otro ejemplo alude a una presentación interna, en la que un profesional de marketing podría limitar el uso de Hero a un storyboard preliminar. En cambio, un director del mismo proyecto podría llegar a emplear Hero para elegir el objetivo y la iluminación de cada plano."
+              },
+              {
+                "t": "p",
+                "x": "“La AI ha hecho que el contenido sea más fácil de crear, pero la producción está más fragmentada que nunca”, dijo Hope Horner, fundadora y CEO de Lemonlight. “La industria está inundada de nuevas herramientas potentes que no funcionan entre sí. Tras producir miles de videos para clientes, nos dimos cuenta de que, en lugar de crear otra herramienta de AI, la verdadera oportunidad era construir un único sistema operativo para la producción de video. Hero lo reúne todo, del concepto a la entrega, tanto si se rueda en imagen real como si se genera video con AI”."
               }
             ]
           }
@@ -767,15 +587,15 @@
       }
     },
     {
-      "id": "westworld-ai-lion-vfx",
+      "id": "the-piano-human-made-mark",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Westworld, AI를\nVFX 공정 안으로",
-      "body": "CG로 넉 달 걸릴 TV-drama 사자를 AI와 VFX로 한두 주 만에 만들었다.",
-      "mini_headline": "Westworld의 AI 플레이트와 VFX",
+      "headline": "단편 'The Piano'\nHuman Made 인증",
+      "body": "Human Made Mark가 Avery Kroll의 The Piano를 인증했다.",
+      "mini_headline": "'The Piano', Human Made Mark 획득",
       "tool": "Movies",
-      "source": "K-EnterTech Hub",
-      "url": "https://www.kentertechhub.com/icnx-westworld-ai-vfx-en/",
+      "source": "Animation Magazine",
+      "url": "https://www.animationmagazine.net/2026/11/the-piano-animated-short-receives-official-human-made-mark-certification/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -783,233 +603,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
           },
           {
             "t": "p",
-            "x": "임주영 Westworld 기술연구소장은 11월 4일 인천에서 열린 ICNX 2026 기술 쇼케이스에서 올해 JTBC 드라마 〈모두가 자신의 무가치함과 싸우고 있다(Everyone Is Fighting Their Own Worthlessness)〉에 쓰려고 만든 사자를 공개했다. 이런 크리처는 CG 작업만으로도 “넉 달 이상, 아티스트 30명 이상이 필요하다”는 게 그의 설명이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-            "cap": "기존 CG와 AI VFX, 두 방식으로 만든 같은 사자."
+            "x": "Avery Kroll이 연출한 Tribeca Festival-premiered 단편 The Piano가 온라인 공개를 앞두고 Human Made Mark 공식 인증을 받았다. Human Made Mark 이니셔티브는 영화를 만들면서 어떤 예술가도 생성형 AI(genAI)로 대체하지 않았음을 인증하고 기린다. Guillermo del Toro, Tamara Deverell, Deborah L Scott, Ruth E Carter 등 Academy Award 수상자들과 세계 각국의 길드·노조가 이 이니셔티브를 지지한다."
           },
           {
             "t": "p",
-            "x": "Westworld는 AI로 사자를 사전 시각화한 뒤 따로 학습시킨 모델로 사자 소스 영상을 만들고 털·눈·형태·깜빡임을 보정했다. 카메라를 트래킹하고 빛·색·그림자를 플레이트에 맞추기까지 한두 주가 걸렸다."
+            "x": "인증받은 영화는 본편에 앞서 BAFTA-longlisted 애니메이터 Gagandeep Kaur Chahal이 만든 애니메이션 아이덴트를 튼다. 엔딩 크레딧에는 고유 번호를 단 Human Made Mark 인증 표시가 들어가, 알고리즘보다 예술가를 앞세운 작품임을 관객에게 알린다."
           },
           {
             "t": "p",
-            "x": "임 소장은 “이미지나 영상을 AI에 넣고 프레임 전체를 다시 생성하면 4K 이상에서는 미세한 디테일이 깨지거나 변형된다”며 “그런 결과물은 납품할 수 없어서 소스를 생성하고 다시 합성하는 과정을 계속 반복한다”고 말했다. AI 결과물을 최종본으로 쓰지 못하는 이유로는 일관성, 통제, 품질, 권리를 들었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-            "cap": "AI 소스를 합성해 마른 시골길(왼쪽)을 설경(오른쪽)으로 바꿨다."
+            "x": "신청작은 모두 공개된 기준으로 심사한다. 사전 제작·제작 단계의 문서 증빙과 법적 선언, 콘텐츠 자체를 살피는 플래그 기반 검토 시스템이 근거다. “근본적으로 기술은 예술가를 도와야 한다. 대체해서는 안 된다.” Human Made Mark 프로젝트 창립자 William Grave의 말이다."
           },
           {
             "t": "video",
-            "yt": "tcT8APJwyXw"
+            "yt": "VtE6rvWbaJ0"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Westworld puts AI plates\ninside the VFX pipeline",
-          "body": "Westworld made a TV-drama lion from AI source plates plus VFX compositing in one to two weeks, versus four months in CG.",
-          "mini_headline": "AI plates meet VFX at Westworld",
+          "headline": "'The Piano' short earns\nthe Human Made Mark",
+          "body": "Avery Kroll's short The Piano gets the del Toro-backed Human Made Mark, certifying no artists were replaced by genAI.",
+          "mini_headline": "'The Piano' gets Human Made Mark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "At the ICNX 2026 Technology Showcase in Incheon on Nov. 4, Lim Ju-young, head of Westworld's technology lab, showed a lion made for this year's JTBC drama Everyone Is Fighting Their Own Worthlessness. The CG work for a creature like that alone \"takes more than four months and more than 30 artists,\" he said."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "The same lion made two ways: conventional CG versus AI VFX."
+                "x": "Tribeca Festival-premiered short The Piano directed by Avery Kroll, has been officially certified with the Human Made Mark ahead of its online release. Supported by Academy Award winners like Guillermo del Toro, Tamara Deverell, Deborah L Scott and Ruth E Carter, as well as guilds and unions around the world, the Human Made Mark initiative certifies and celebrates the fact a film production did not replace any artists with generative AI."
               },
               {
                 "t": "p",
-                "x": "Westworld previsualized the lion with AI, generated lion source footage with a separately trained model, fixed fur, eyes, shape and flicker, then tracked the camera and matched light, color and shadow to the plate — finished in one to two weeks."
+                "x": "For certified films, an animated ident, created by the BAFTA-longlisted animator Gagandeep Kaur Chahal, plays before the film starts. In the end credits, a certified Human Made Mark appears with a unique number to signal to the audience this production puts artists first, algorithms second."
               },
               {
                 "t": "p",
-                "x": "\"If you feed an image or video to AI and regenerate the entire frame, fine details break or deform at 4K and above,\" Lim said. \"We can't deliver that, so we keep repeating the cycle of generating sources and compositing them back.\" He listed consistency, control, quality and rights as the reasons AI output cannot be used as a final."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "A dry country road (left) turned into a snowscape (right) with AI source and compositing."
+                "x": "Each application is reviewed against published criteria, supported by pre-production and production document evidence, legal declaration and a flagged review system of the content itself. “Fundamentally, technology should support artists. Not replace them,” said William Grave, founder of the Human Made Mark project."
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Westworld, AI를\nVFX 공정 안으로",
-          "body": "CG로 넉 달 걸릴 TV-drama 사자를 AI와 VFX로 한두 주 만에 만들었다.",
-          "mini_headline": "Westworld의 AI 플레이트와 VFX",
+          "headline": "단편 'The Piano'\nHuman Made 인증",
+          "body": "Human Made Mark가 Avery Kroll의 The Piano를 인증했다.",
+          "mini_headline": "'The Piano', Human Made Mark 획득",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "임주영 Westworld 기술연구소장은 11월 4일 인천에서 열린 ICNX 2026 기술 쇼케이스에서 올해 JTBC 드라마 〈모두가 자신의 무가치함과 싸우고 있다(Everyone Is Fighting Their Own Worthlessness)〉에 쓰려고 만든 사자를 공개했다. 이런 크리처는 CG 작업만으로도 “넉 달 이상, 아티스트 30명 이상이 필요하다”는 게 그의 설명이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "기존 CG와 AI VFX, 두 방식으로 만든 같은 사자."
+                "x": "Avery Kroll이 연출한 Tribeca Festival-premiered 단편 The Piano가 온라인 공개를 앞두고 Human Made Mark 공식 인증을 받았다. Human Made Mark 이니셔티브는 영화를 만들면서 어떤 예술가도 생성형 AI(genAI)로 대체하지 않았음을 인증하고 기린다. Guillermo del Toro, Tamara Deverell, Deborah L Scott, Ruth E Carter 등 Academy Award 수상자들과 세계 각국의 길드·노조가 이 이니셔티브를 지지한다."
               },
               {
                 "t": "p",
-                "x": "Westworld는 AI로 사자를 사전 시각화한 뒤 따로 학습시킨 모델로 사자 소스 영상을 만들고 털·눈·형태·깜빡임을 보정했다. 카메라를 트래킹하고 빛·색·그림자를 플레이트에 맞추기까지 한두 주가 걸렸다."
+                "x": "인증받은 영화는 본편에 앞서 BAFTA-longlisted 애니메이터 Gagandeep Kaur Chahal이 만든 애니메이션 아이덴트를 튼다. 엔딩 크레딧에는 고유 번호를 단 Human Made Mark 인증 표시가 들어가, 알고리즘보다 예술가를 앞세운 작품임을 관객에게 알린다."
               },
               {
                 "t": "p",
-                "x": "임 소장은 “이미지나 영상을 AI에 넣고 프레임 전체를 다시 생성하면 4K 이상에서는 미세한 디테일이 깨지거나 변형된다”며 “그런 결과물은 납품할 수 없어서 소스를 생성하고 다시 합성하는 과정을 계속 반복한다”고 말했다. AI 결과물을 최종본으로 쓰지 못하는 이유로는 일관성, 통제, 품질, 권리를 들었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "AI 소스를 합성해 마른 시골길(왼쪽)을 설경(오른쪽)으로 바꿨다."
+                "x": "신청작은 모두 공개된 기준으로 심사한다. 사전 제작·제작 단계의 문서 증빙과 법적 선언, 콘텐츠 자체를 살피는 플래그 기반 검토 시스템이 근거다. “근본적으로 기술은 예술가를 도와야 한다. 대체해서는 안 된다.” Human Made Mark 프로젝트 창립자 William Grave의 말이다."
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Westworld、AIを\nVFX工程の中へ",
-          "body": "CGなら四カ月かかるTV-dramaのライオンを、AIとVFX合成で一、二週間で作った。",
-          "mini_headline": "Westworld、AIプレートとVFX",
+          "headline": "短編『The Piano』\nHuman Made認証取得",
+          "body": "Avery Kroll監督のThe PianoがHuman Made Markを取得した。",
+          "mini_headline": "『The Piano』がHuman Made Mark取得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "11月4日に仁川で開かれたICNX 2026 テクノロジーショーケースで、Westworld技術研究所長のイム・ジュヨン氏は、今年のJTBCドラマ『Everyone Is Fighting Their Own Worthlessness』のために制作したライオンを披露した。同氏によると、こうしたクリーチャーはCG作業だけで「四カ月以上、30人以上のアーティストを要する」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "同じライオンを二つの方法で制作:従来のCGとAI VFX。"
+                "x": "Tribeca Festival-premieredの短編で、Avery Krollが監督した『The Piano』が、オンライン公開を前にHuman Made Markの正式認証を受けた。Guillermo del Toro、Tamara Deverell、Deborah L Scott、Ruth E CarterといったAcademy Award受賞者や世界各地のギルド・組合が支援するHuman Made Markは、映画制作で生成AI(genAI)によってアーティストを一人も置き換えなかったことを認証し、たたえる取り組みだ。"
               },
               {
                 "t": "p",
-                "x": "WestworldはAIでライオンをプリビズし、別途学習させたモデルでライオンの素材映像を生成して、毛並み、目、形状、フリッカーを修正した。その後カメラをトラッキングし、光、色、影をプレートに合わせ、一、二週間で仕上げた。"
+                "x": "認証作品では、BAFTA-longlistedのアニメーター、Gagandeep Kaur Chahalが制作したアニメーションのアイデントが本編の前に流れる。エンドクレジットには固有番号付きのHuman Made Mark認証マークが表示され、この作品がアルゴリズムよりもアーティストを優先したことを観客に示す。"
               },
               {
                 "t": "p",
-                "x": "「画像や動画をAIに入れてフレーム全体を再生成すると、4K 以上では細部が崩れたり変形したりする」とイム氏は語る。「それでは納品できないので、素材を生成して合成し直すサイクルを繰り返している」。同氏は、AIの出力を最終版として使えない理由として、一貫性、制御、品質、権利を挙げた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "AI素材と合成によって、乾いた田舎道(左)を雪景色(右)に変えた。"
+                "x": "各申請は公開された基準に沿って審査され、プリプロダクションと制作段階の書類による証拠、法的宣誓、コンテンツそのものに対するフラグ付きレビューの仕組みが裏づけとなる。「根本的に、テクノロジーはアーティストを支えるべきだ。置き換えるのではない」とHuman Made Markプロジェクトの創設者William Graveは語った。"
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Westworld把AI\n融入VFX流程",
-          "body": "CG需四个月的TV-drama狮子，Westworld用AI素材加VFX合成一到两周完成。",
-          "mini_headline": "Westworld：AI素材遇上VFX",
+          "headline": "短片《The Piano》\n获Human Made认证",
+          "body": "短片The Piano获Human Made Mark，证明未用genAI取代艺术家。",
+          "mini_headline": "《The Piano》获Human Made Mark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "11月4日，在仁川举行的ICNX 2026 技术展示会上，Westworld技术研究所所长Lim Ju-young展示了为今年JTBC电视剧《Everyone Is Fighting Their Own Worthlessness》制作的狮子。他说，仅这类生物的CG制作就“需要四个多月和30多名美术师”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "同一只狮子的两种做法：传统CG与AI VFX。"
+                "x": "Tribeca Festival-premiered短片《The Piano》由Avery Kroll执导，在线上发布前正式获得Human Made Mark认证。Human Made Mark计划获得Guillermo del Toro、Tamara Deverell、Deborah L Scott和Ruth E Carter等Academy Award得主以及世界各地行会与工会的支持，旨在认证并表彰电影制作未用生成式AI（genAI）取代任何艺术家。"
               },
               {
                 "t": "p",
-                "x": "Westworld先用AI对狮子进行预演，再用单独训练的模型生成狮子素材画面，修正毛发、眼睛、形态和闪烁，随后进行摄影机跟踪，使光线、色彩和阴影与底片匹配——一到两周即完成。"
+                "x": "获得认证的影片会在正片开始前播放一段动画标识，由BAFTA-longlisted动画师Gagandeep Kaur Chahal制作。片尾字幕中会出现带有唯一编号的Human Made Mark认证标志，向观众表明该作品把艺术家放在首位，算法其次。"
               },
               {
                 "t": "p",
-                "x": "Lim Ju-young表示：“如果把图像或视频输入AI，重新生成整个画面，在4K 及以上分辨率下，细节会破碎或变形。”他说：“这样的结果无法交付，所以我们不断重复生成素材、再合成回去的循环。”他列出一致性、可控性、质量和版权，作为AI输出无法用作成品的原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "借助AI素材与合成，干燥的乡间小路（左）变成雪景（右）。"
+                "x": "每份申请都会依据公开标准审核，并以前期制作和制作阶段的文件证据、法律声明以及针对内容本身的标记审查系统为依据。“从根本上说，技术应该支持艺术家，而不是取代他们。”Human Made Mark项目创始人William Grave表示。"
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
         },
         "es": {
-          "headline": "Westworld lleva las placas AI\nal flujo de trabajo de VFX",
-          "body": "Westworld creó un león para un TV-drama con placas de AI y VFX en una o dos semanas, frente a cuatro meses con CG.",
-          "mini_headline": "Placas de AI y VFX en Westworld",
+          "headline": "El corto 'The Piano' obtiene\nla Human Made Mark",
+          "body": "The Piano, de Avery Kroll, recibe la Human Made Mark, que avala del Toro y acredita que genAI no sustituyó a artistas.",
+          "mini_headline": "'The Piano' obtiene la Human Made Mark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "En el ICNX 2026 Technology Showcase, celebrado en Incheon el 4 de noviembre, Lim Ju-young, director del laboratorio tecnológico de Westworld, mostró un león creado para el drama de JTBC de este año Everyone Is Fighting Their Own Worthlessness. Solo el trabajo de CG para una criatura así \"lleva más de cuatro meses y más de 30 artistas\", afirmó."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "El mismo león hecho de dos formas: CG convencional frente a AI VFX."
+                "x": "The Piano, cortometraje Tribeca Festival-premiered dirigido por Avery Kroll, ha recibido la certificación oficial Human Made Mark antes de su estreno en línea. Respaldada por ganadores del Academy Award como Guillermo del Toro, Tamara Deverell, Deborah L Scott y Ruth E Carter, así como por gremios y sindicatos de todo el mundo, la iniciativa Human Made Mark certifica y celebra que una producción cinematográfica no ha sustituido a ningún artista con AI generativa (genAI)."
               },
               {
                 "t": "p",
-                "x": "Westworld previsualizó el león con AI, generó material de origen del león con un modelo entrenado aparte, corrigió el pelaje, los ojos, la forma y el parpadeo, y luego hizo el seguimiento de cámara y ajustó la luz, el color y las sombras a la placa: todo quedó terminado en una a dos semanas."
+                "x": "En las películas certificadas, antes de que empiece la película se proyecta una ident animada creada por el animador Gagandeep Kaur Chahal, BAFTA-longlisted. En los créditos finales aparece una Human Made Mark certificada con un número único para indicar al público que esta producción pone a los artistas primero y a los algoritmos después."
               },
               {
                 "t": "p",
-                "x": "\"Si le das a la AI una imagen o un video y regeneras el fotograma completo, los detalles finos se rompen o se deforman a 4K o más\", dijo Lim. \"Eso no lo podemos entregar, así que repetimos sin parar el ciclo de generar material y volver a componerlo\". Citó la coherencia, el control, la calidad y los derechos como las razones por las que el resultado de la AI no puede usarse como versión final."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "Un camino rural seco (izquierda) convertido en un paisaje nevado (derecha) con material de AI y composición."
+                "x": "Cada solicitud se evalúa según criterios publicados, con el respaldo de pruebas documentales de preproducción y producción, una declaración legal y un sistema de revisión con alertas sobre el propio contenido. “En esencia, la tecnología debe apoyar a los artistas. No sustituirlos”, dijo William Grave, fundador del proyecto Human Made Mark."
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
@@ -1017,161 +777,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Westworld, AI를\nVFX 공정 안으로",
-          "body": "CG로 넉 달 걸릴 TV-drama 사자를 AI와 VFX로 한두 주 만에 만들었다.",
-          "mini_headline": "Westworld의 AI 플레이트와 VFX",
+          "headline": "단편 'The Piano'\nHuman Made 인증",
+          "body": "Avery Kroll의 The Piano가 Human Made Mark를 받았다.",
+          "mini_headline": "'The Piano', Human Made Mark 획득",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "임주영 Westworld 기술연구소장은 11월 4일 인천에서 열린 ICNX 2026 기술 쇼케이스에서 올해 JTBC 드라마 〈모두가 자신의 무가치함과 싸우고 있다(Everyone Is Fighting Their Own Worthlessness)〉를 위해 만든 사자를 공개했다. 그는 이런 크리처의 CG 작업만 해도 “넉 달 이상, 아티스트 30명 이상이 필요하다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "같은 사자를 두 방식으로 만든 결과: 기존 CG와 AI VFX."
+                "x": "Tribeca Festival-premiered 단편으로 Avery Kroll이 연출한 The Piano가 온라인 공개를 앞두고 Human Made Mark 공식 인증을 받았다. Human Made Mark 이니셔티브는 Guillermo del Toro, Tamara Deverell, Deborah L Scott, Ruth E Carter 등 Academy Award 수상자들과 세계 각국의 길드·노조가 지지하며, 영화 제작 과정에서 어떤 예술가도 생성형 AI(genAI)로 대체하지 않았다는 사실을 인증하고 기린다."
               },
               {
                 "t": "p",
-                "x": "Westworld는 AI로 사자를 사전 시각화하고, 별도로 학습한 모델로 사자 소스 영상을 생성한 뒤 털·눈·형태·깜빡임을 보정했다. 이어 카메라를 트래킹하고 빛·색·그림자를 플레이트에 맞춰 한두 주 만에 완성했다."
+                "x": "인증받은 영화는 본편 시작 전에 BAFTA-longlisted 애니메이터 Gagandeep Kaur Chahal이 만든 애니메이션 아이덴트가 나온다. 엔딩 크레딧에는 고유 번호가 붙은 Human Made Mark 인증 표시가 나와, 이 작품이 알고리즘보다 예술가를 앞세웠다는 점을 관객에게 알린다."
               },
               {
                 "t": "p",
-                "x": "임 소장은 “이미지나 영상을 AI에 넣고 프레임 전체를 다시 생성하면 4K 이상에서는 미세한 디테일이 깨지거나 변형된다”며 “그런 결과물은 납품할 수 없어서 소스를 생성하고 다시 합성하는 과정을 계속 반복한다”고 말했다. 그는 AI 결과물을 최종본으로 쓸 수 없는 이유로 일관성, 통제, 품질, 권리를 꼽았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "AI 소스와 합성으로 마른 시골길(왼쪽)을 설경(오른쪽)으로 바꿨다."
+                "x": "모든 신청은 공개된 기준에 따라 심사하며, 사전 제작·제작 단계의 문서 증빙, 법적 선언, 콘텐츠 자체에 대한 플래그 기반 검토 시스템을 근거로 삼는다. “근본적으로 기술은 예술가를 도와야 한다. 대체해서는 안 된다.” Human Made Mark 프로젝트 창립자 William Grave의 말이다."
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Westworld、AIを\nVFX工程の中へ",
-          "body": "CGなら四カ月かかるTV-dramaのライオンを、AIとVFX合成で一、二週間で作った。",
-          "mini_headline": "Westworld、AIプレートとVFX",
+          "headline": "短編『The Piano』\nHuman Made認証取得",
+          "body": "Avery Kroll監督のThe PianoがHuman Made Markを取得した。",
+          "mini_headline": "『The Piano』がHuman Made Mark取得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "11月4日に仁川で開かれたICNX 2026 テクノロジーショーケースで、Westworld技術研究所長のイム・ジュヨン氏は、今年のJTBCドラマ『Everyone Is Fighting Their Own Worthlessness』のために制作したライオンを披露した。同氏によると、こうしたクリーチャーはCG作業だけで「四カ月以上、30人以上のアーティストを要する」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "同じライオンを二つの方法で制作:従来のCGとAI VFX。"
+                "x": "Tribeca Festival-premieredの短編で、Avery Krollが監督した『The Piano』が、オンライン公開を前にHuman Made Markの正式認証を受けた。Guillermo del Toro、Tamara Deverell、Deborah L Scott、Ruth E CarterといったAcademy Award受賞者や世界各地のギルド・組合が支援するHuman Made Markは、映画制作で生成AI(genAI)によってアーティストを一人も置き換えなかったことを認証し、たたえる取り組みだ。"
               },
               {
                 "t": "p",
-                "x": "WestworldはAIでライオンをプリビズし、別途学習させたモデルでライオンの素材映像を生成して、毛並み、目、形状、フリッカーを修正した。その後カメラをトラッキングし、光、色、影をプレートに合わせ、一、二週間で仕上げた。"
+                "x": "認証作品では、BAFTA-longlistedのアニメーター、Gagandeep Kaur Chahalが制作したアニメーションのアイデントが本編の前に流れる。エンドクレジットには固有番号付きのHuman Made Mark認証マークが表示され、この作品がアルゴリズムよりもアーティストを優先したことを観客に示す。"
               },
               {
                 "t": "p",
-                "x": "「画像や動画をAIに入れてフレーム全体を再生成すると、4K 以上では細部が崩れたり変形したりする」とイム氏は語る。「それでは納品できないので、素材を生成して合成し直すサイクルを繰り返している」。同氏は、AIの出力を最終版として使えない理由として、一貫性、制御、品質、権利を挙げた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "AI素材と合成によって、乾いた田舎道(左)を雪景色(右)に変えた。"
+                "x": "各申請は公開された基準に沿って審査され、プリプロダクションと制作段階の書類による証拠、法的宣誓、コンテンツそのものに対するフラグ付きレビューの仕組みが裏づけとなる。「根本的に、テクノロジーはアーティストを支えるべきだ。置き換えるのではない」とHuman Made Markプロジェクトの創設者William Graveは語った。"
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Westworld把AI\n融入VFX流程",
-          "body": "CG需四个月的TV-drama狮子，Westworld用AI素材加VFX合成一到两周完成。",
-          "mini_headline": "Westworld：AI素材遇上VFX",
+          "headline": "短片《The Piano》\n获Human Made认证",
+          "body": "短片The Piano获Human Made Mark，证明未用genAI取代艺术家。",
+          "mini_headline": "《The Piano》获Human Made Mark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "11月4日，在仁川举行的ICNX 2026 技术展示会上，Westworld技术研究所所长Lim Ju-young展示了为今年JTBC电视剧《Everyone Is Fighting Their Own Worthlessness》制作的狮子。他说，仅这类生物的CG制作就“需要四个多月和30多名美术师”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "同一只狮子的两种做法：传统CG与AI VFX。"
+                "x": "Tribeca Festival-premiered短片《The Piano》由Avery Kroll执导，在线上发布前正式获得Human Made Mark认证。Human Made Mark计划获得Guillermo del Toro、Tamara Deverell、Deborah L Scott和Ruth E Carter等Academy Award得主以及世界各地行会与工会的支持，旨在认证并表彰电影制作未用生成式AI（genAI）取代任何艺术家。"
               },
               {
                 "t": "p",
-                "x": "Westworld先用AI对狮子进行预演，再用单独训练的模型生成狮子素材画面，修正毛发、眼睛、形态和闪烁，随后进行摄影机跟踪，使光线、色彩和阴影与底片匹配——一到两周即完成。"
+                "x": "获得认证的影片会在正片开始前播放一段动画标识，由BAFTA-longlisted动画师Gagandeep Kaur Chahal制作。片尾字幕中会出现带有唯一编号的Human Made Mark认证标志，向观众表明该作品把艺术家放在首位，算法其次。"
               },
               {
                 "t": "p",
-                "x": "Lim Ju-young表示：“如果把图像或视频输入AI，重新生成整个画面，在4K 及以上分辨率下，细节会破碎或变形。”他说：“这样的结果无法交付，所以我们不断重复生成素材、再合成回去的循环。”他列出一致性、可控性、质量和版权，作为AI输出无法用作成品的原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "借助AI素材与合成，干燥的乡间小路（左）变成雪景（右）。"
+                "x": "每份申请都会依据公开标准审核，并以前期制作和制作阶段的文件证据、法律声明以及针对内容本身的标记审查系统为依据。“从根本上说，技术应该支持艺术家，而不是取代他们。”Human Made Mark项目创始人William Grave表示。"
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
         },
         "es": {
-          "headline": "Westworld lleva las placas AI\nal flujo de trabajo de VFX",
-          "body": "Westworld creó un león para un TV-drama con placas de AI y VFX en una o dos semanas, frente a cuatro meses con CG.",
-          "mini_headline": "Placas de AI y VFX en Westworld",
+          "headline": "El corto 'The Piano' obtiene\nla Human Made Mark",
+          "body": "The Piano, de Avery Kroll, recibe la Human Made Mark, que avala del Toro y acredita que genAI no sustituyó a artistas.",
+          "mini_headline": "'The Piano' obtiene la Human Made Mark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4utpa9_202611190413.jpg"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
               },
               {
                 "t": "p",
-                "x": "En el ICNX 2026 Technology Showcase, celebrado en Incheon el 4 de noviembre, Lim Ju-young, director del laboratorio tecnológico de Westworld, mostró un león creado para el drama de JTBC de este año Everyone Is Fighting Their Own Worthlessness. Solo el trabajo de CG para una criatura así \"lleva más de cuatro meses y más de 30 artistas\", afirmó."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/qx5uax_202611190413.jpg",
-                "cap": "El mismo león hecho de dos formas: CG convencional frente a AI VFX."
+                "x": "The Piano, cortometraje Tribeca Festival-premiered dirigido por Avery Kroll, ha recibido la certificación oficial Human Made Mark antes de su estreno en línea. Respaldada por ganadores del Academy Award como Guillermo del Toro, Tamara Deverell, Deborah L Scott y Ruth E Carter, así como por gremios y sindicatos de todo el mundo, la iniciativa Human Made Mark certifica y celebra que una producción cinematográfica no ha sustituido a ningún artista con AI generativa (genAI)."
               },
               {
                 "t": "p",
-                "x": "Westworld previsualizó el león con AI, generó material de origen del león con un modelo entrenado aparte, corrigió el pelaje, los ojos, la forma y el parpadeo, y luego hizo el seguimiento de cámara y ajustó la luz, el color y las sombras a la placa: todo quedó terminado en una a dos semanas."
+                "x": "En las películas certificadas, antes de que empiece la película se proyecta una ident animada creada por el animador Gagandeep Kaur Chahal, BAFTA-longlisted. En los créditos finales aparece una Human Made Mark certificada con un número único para indicar al público que esta producción pone a los artistas primero y a los algoritmos después."
               },
               {
                 "t": "p",
-                "x": "\"Si le das a la AI una imagen o un video y regeneras el fotograma completo, los detalles finos se rompen o se deforman a 4K o más\", dijo Lim. \"Eso no lo podemos entregar, así que repetimos sin parar el ciclo de generar material y volver a componerlo\". Citó la coherencia, el control, la calidad y los derechos como las razones por las que el resultado de la AI no puede usarse como versión final."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/p4jfa6_202611190413.jpg",
-                "cap": "Un camino rural seco (izquierda) convertido en un paisaje nevado (derecha) con material de AI y composición."
+                "x": "Cada solicitud se evalúa según criterios publicados, con el respaldo de pruebas documentales de preproducción y producción, una declaración legal y un sistema de revisión con alertas sobre el propio contenido. “En esencia, la tecnología debe apoyar a los artistas. No sustituirlos”, dijo William Grave, fundador del proyecto Human Made Mark."
               },
               {
                 "t": "video",
-                "yt": "tcT8APJwyXw"
+                "yt": "VtE6rvWbaJ0"
               }
             ]
           }
@@ -1179,15 +899,15 @@
       }
     },
     {
-      "id": "docmakers-archive-ai-licensing",
+      "id": "qatar-film-committee-ai-certification",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "다큐 제작자들, AI에\n영상 팔까 고민",
-      "body": "제작자·아카이비스트가 AI 데이터 업체에 영상을 팔 때 따져볼 점을 짚었다.",
-      "mini_headline": "AI 학습용 다큐 아카이브",
+      "headline": "Qatar 영화위원회,\nAI 인증 표준 만든다",
+      "body": "Penotti가 Qatar Film Committee와 AI 인증을 만들고 있다.",
+      "mini_headline": "Qatar, AI 인증 추진",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760/",
+      "source": "Screen Daily",
+      "url": "https://www.screendaily.com/news/global-ai-certification-standard-in-development-by-qatars-film-committee-john-penotti/5222615.article",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1195,155 +915,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-            "cap": "About a Hero"
+            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
           },
           {
             "t": "p",
-            "x": "IDFA 산업 토크 'AI가 내 다큐멘터리를 훔치고 있나?(Is AI Stealing My Documentary?)'는 아카이브 영상을 AI에 라이선스하는 문제를 다뤘다. Rights Stuff의 CEO 웬디 번필드(Wendy Bernfield)는 AI가 “우리가 제대로 알아차리기도 전에 긁어 가거나 훔쳐 가고 있었다”고 말했다. 지금 이용할 수 있는 애그리게이터는 약 15곳인데, 아카이브 이미지 자료 수집에 특화된 곳은 몇 곳에 그친다. 이들은 권리 보호 장치를 갖춘 대신 수수료가 더 낮다."
+            "x": "Crazy Rich Asians를 제작한 John Penotti가 Doha Film Festival의 Doha Industry Days 패널에서, Media City Qatar의 Film Committee와 AI 인증 표준을 개발하고 있다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "아카이브 프로듀서 엘리자베스 클링크(Elizabeth Klinck)는 제안이 “거의 매주” 들어온다며 다큐 제작자들에게 “미래에 대비하라”고 했다. 아카이브에서 파생된 자료는 “오류·누락 보험 측면에서 버티지 못할 수 있다”는 이유다. 학습용 옵트아웃 조항에 닷새 기한이 붙은 계약도 있었다고 그는 돌이켰다."
+            "x": "“지난 한 해 동안 우리 작업의 상당 부분은 표준이 생기도록 AI 인증의 기회를 만드는 일이었다.” Penotti의 말이다. “지난 한 해 남짓 이곳 Film Committee에서 시작해, AI 인증이 전 세계에서 인정받는 절차를 개발해 왔다.”"
           },
           {
             "t": "p",
-            "x": "First Hand Films CEO 에스터 반 메셀(Esther Van Messel)은 AI 관련 요청이 대부분 5,000시간 이상의 대량 물량이라며 “우리 영화가 AI를 학습시켜야 한다고 생각한다… 물론 한계와 경계 안에서”라고 말했다. 번필드는 구매자들이 “더 적은 양에 더 많이 지불하는, 고도로 큐레이션된” 방향으로 옮겨 가는 중이라고 했다. Archive.org와 여러 도서관은 무료 접근을 제한했다."
+            "x": "표준 마련에는 여러 파트너가 함께했고, 세부 내용은 두 주 안에 공개된다. “우리가 입증할 수 있는 윤리적 저작권이 있다. 여기에는 ‘이것이 작가가 의도한 바이며, 우리는 작품의 수명 내내 이를 지킬 것’이라고 말하는 인장이 붙는다.” 함께 패널로 나선 Holywater Tech의 Anatolii Kasianov는 “몇 년 안에 물리적 제작은 더 이상 그리 중요하지 않을 것”이라고 내다봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Documentary makers weigh\nselling footage to AI",
-          "body": "Producers and archivists lay out the dos and don'ts of licensing archival footage to AI training-data aggregators.",
-          "mini_headline": "Doc archives for AI training",
+          "headline": "Qatar's Film Committee builds\nan AI certification standard",
+          "body": "Producer John Penotti said he spent a year with Qatar's Film Committee building an AI certification meant to go global.",
+          "mini_headline": "Qatar drafts AI certification",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "At IDFA, an industry talk titled \"Is AI Stealing My Documentary?\" took on the licensing of archival footage to AI. Wendy Bernfield, CEO at Rights Stuff, said AI has been \"scraping or stealing before we were even aware enough about it.\" Of the around 15 aggregators currently available, only a few are dedicated to harvesting archival image material; those have built-in rights protection but lower fees."
+                "x": "Crazy Rich Asians producer John Penotti is developing an AI certification standard with the Film Committee at Media City Qatar, he said during a panel at Doha Film Festival’s Doha Industry Days."
               },
               {
                 "t": "p",
-                "x": "Archive producer Elizabeth Klinck said she is approached \"just about every week\" and urged docmakers to \"future-proof\": material derived from archive \"may not hold up in terms of your errors and omissions insurance.\" She recalled a contract whose opt-out clause for training had a five-day limit."
+                "x": "“A lot of our work for the last year has been creating an AI certification opportunity, so that there’s a standard,” said Penotti. “Starting here at the Film Committee over the last year or so, we’ve been developing a process by which an AI certification is globally recognised.”"
               },
               {
                 "t": "p",
-                "x": "First Hand Films CEO Esther Van Messel said most AI requests are for bulk, 5,000 hours plus: \"I think our films should train AI... but of course, within the limits and boundaries.\" Bernfield said buyers are shifting to \"paying more for less, highly curated,\" while Archive.org and many libraries have restricted free access."
+                "x": "A group of partners has convened on the standard, with further details to be announced in the coming fortnight. “There’s an ethical authorship that we could prove, that has a stamp, that says ‘This is what the author intended, and we’re going to protect that throughout its lifespan.’” Fellow panellist Anatolii Kasianov of Holywater Tech predicted that “in a couple of years, physical production will not be that relevant anymore.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "다큐 제작자들, AI에\n영상 팔까 고민",
-          "body": "제작자·아카이비스트가 AI 데이터 업체에 영상을 팔 때 따져볼 점을 짚었다.",
-          "mini_headline": "AI 학습용 다큐 아카이브",
+          "headline": "Qatar 영화위원회,\nAI 인증 표준 만든다",
+          "body": "Penotti가 Qatar Film Committee와 AI 인증을 만들고 있다.",
+          "mini_headline": "Qatar, AI 인증 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "IDFA 산업 토크 'AI가 내 다큐멘터리를 훔치고 있나?(Is AI Stealing My Documentary?)'는 아카이브 영상을 AI에 라이선스하는 문제를 다뤘다. Rights Stuff의 CEO 웬디 번필드(Wendy Bernfield)는 AI가 “우리가 제대로 알아차리기도 전에 긁어 가거나 훔쳐 가고 있었다”고 말했다. 지금 이용할 수 있는 애그리게이터는 약 15곳인데, 아카이브 이미지 자료 수집에 특화된 곳은 몇 곳에 그친다. 이들은 권리 보호 장치를 갖춘 대신 수수료가 더 낮다."
+                "x": "Crazy Rich Asians를 제작한 John Penotti가 Doha Film Festival의 Doha Industry Days 패널에서, Media City Qatar의 Film Committee와 AI 인증 표준을 개발하고 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "아카이브 프로듀서 엘리자베스 클링크(Elizabeth Klinck)는 제안이 “거의 매주” 들어온다며 다큐 제작자들에게 “미래에 대비하라”고 했다. 아카이브에서 파생된 자료는 “오류·누락 보험 측면에서 버티지 못할 수 있다”는 이유다. 학습용 옵트아웃 조항에 닷새 기한이 붙은 계약도 있었다고 그는 돌이켰다."
+                "x": "“지난 한 해 동안 우리 작업의 상당 부분은 표준이 생기도록 AI 인증의 기회를 만드는 일이었다.” Penotti의 말이다. “지난 한 해 남짓 이곳 Film Committee에서 시작해, AI 인증이 전 세계에서 인정받는 절차를 개발해 왔다.”"
               },
               {
                 "t": "p",
-                "x": "First Hand Films CEO 에스터 반 메셀(Esther Van Messel)은 AI 관련 요청이 대부분 5,000시간 이상의 대량 물량이라며 “우리 영화가 AI를 학습시켜야 한다고 생각한다… 물론 한계와 경계 안에서”라고 말했다. 번필드는 구매자들이 “더 적은 양에 더 많이 지불하는, 고도로 큐레이션된” 방향으로 옮겨 가는 중이라고 했다. Archive.org와 여러 도서관은 무료 접근을 제한했다."
+                "x": "표준 마련에는 여러 파트너가 함께했고, 세부 내용은 두 주 안에 공개된다. “우리가 입증할 수 있는 윤리적 저작권이 있다. 여기에는 ‘이것이 작가가 의도한 바이며, 우리는 작품의 수명 내내 이를 지킬 것’이라고 말하는 인장이 붙는다.” 함께 패널로 나선 Holywater Tech의 Anatolii Kasianov는 “몇 년 안에 물리적 제작은 더 이상 그리 중요하지 않을 것”이라고 내다봤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ドキュメンタリー制作者\nAIへの映像販売を検討",
-          "body": "制作者とアーキビストが、AI学習データ業者への映像ライセンスの心得を語った。",
-          "mini_headline": "AI学習とドキュメンタリーのアーカイブ",
+          "headline": "Qatar映画委員会が\nAI認証の基準づくり",
+          "body": "John PenottiはQatarのFilm CommitteeとAI認証を作ってきた。",
+          "mini_headline": "Qatar、AI認証を策定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "IDFAで開かれた業界トーク「Is AI Stealing My Documentary?(AIは私のドキュメンタリーを盗んでいるのか?)」では、アーカイブ映像のAI向けライセンスが取り上げられた。Rights StuffのCEO、Wendy Bernfield氏は、AIは「私たちが十分に気づく前から、スクレイピングや盗用をしていた」と述べた。現在利用できる約15のアグリゲーターのうち、アーカイブ画像素材の収集に特化しているのはごく一部で、それらは権利保護の仕組みを備えるが、料金は低い。"
+                "x": "『Crazy Rich Asians』のプロデューサーJohn Penottiは、Doha Film FestivalのDoha Industry Daysのパネルで、Media City QatarのFilm CommitteeとともにAI認証基準を開発していると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "アーカイブ・プロデューサーのElizabeth Klinck氏は「ほぼ毎週」打診を受けていると話し、ドキュメンタリー制作者に「将来に備える」よう促した。アーカイブから派生した素材は「E&O保険(制作者賠償責任保険)の面で通用しない可能性がある」という。同氏は、学習へのオプトアウト条項に五日間の期限が付いた契約を振り返った。"
+                "x": "「この一年の私たちの仕事の多くは、基準ができるようAI認証の機会をつくることだった」とPenottiは語った。「ここFilm Committeeを起点に、この一年ほど、AI認証が世界的に認められるためのプロセスを開発してきた」"
               },
               {
                 "t": "p",
-                "x": "First Hand FilmsのCEO、Esther Van Messel氏によると、AIからの依頼の大半は5,000時間以上の大量案件だという。「私たちの映画はAIの学習に使われるべきだと思う……もちろん、限度と境界の範囲内で」。Bernfield氏は、買い手が「より少ない量に、より多く払う、高度にキュレーションされたもの」へと移りつつあると述べた。一方でArchive.orgや多くの図書館は無料アクセスを制限している。"
+                "x": "複数のパートナーがこの基準のもとに集まっており、詳細は今後二週間のうちに発表される予定だ。「証明できる倫理的な作者性があり、そこには『これが作者の意図したものであり、私たちはその寿命を通じてそれを守る』と示すスタンプが押される」。同じくパネリストを務めたHolywater TechのAnatolii Kasianovは「数年のうちに、物理的な制作はもはやそれほど重要ではなくなる」と予測した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纪录片人权衡\n把素材卖给AI",
-          "body": "制片人和档案专家梳理了向AI训练数据聚合商授权档案影像的注意事项。",
-          "mini_headline": "纪录片档案与AI训练",
+          "headline": "Qatar电影委员会\n打造AI认证标准",
+          "body": "John Penotti与Qatar的Film Committee花一年打造AI认证。",
+          "mini_headline": "Qatar制定AI认证",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "在IDFA，一场题为“Is AI Stealing My Documentary?”（AI在偷我的纪录片吗？）的行业讲座探讨了向AI授权档案影像的问题。Rights Stuff CEO Wendy Bernfield说，AI“在我们还没充分意识到之前就已经在抓取或窃取”。目前约15家聚合商中，只有少数专门收集档案影像素材；这些平台内置版权保护，但费用较低。"
+                "x": "《Crazy Rich Asians》制片人John Penotti在Doha Film Festival的Doha Industry Days小组讨论中表示，他正与Media City Qatar的Film Committee共同制定AI认证标准。"
               },
               {
                 "t": "p",
-                "x": "档案制片人Elizabeth Klinck说，她“几乎每周”都会接到询问，并敦促纪录片人“为未来做好准备”：源自档案的素材“在差错与遗漏保险方面可能站不住脚”。她回忆起一份合同，其中针对训练的退出条款只有五天期限。"
+                "x": "“过去一年，我们的很多工作是创造AI认证的机会，从而形成一套标准，”Penotti说，“过去一年左右，我们从Film Committee起步，一直在开发一套让AI认证获得全球认可的流程。”"
               },
               {
                 "t": "p",
-                "x": "First Hand Films CEO Esther Van Messel表示，大多数AI请求都是5,000小时以上的批量需求：“我认为我们的电影应该用来训练AI……当然，要在限度和边界之内。”Bernfield说，买家正转向“花更多钱买更少、经过精心筛选的内容”，而Archive.org和许多图书馆已限制免费访问。"
+                "x": "一批合作伙伴已围绕该标准聚集，更多细节将在未来两周内公布。“我们可以证明一种合乎伦理的作者身份，它带有一个印章，表明‘这就是作者的本意，我们将在其整个生命周期中守护它’。”同场嘉宾、Holywater Tech的Anatolii Kasianov预测，“几年之内，实体制作将不再那么重要。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Documentalistas sopesan vender\nmaterial de archivo a la AI",
-          "body": "Productores y archivistas repasan qué hacer y qué no al licenciar archivo a agregadores de datos para entrenar AI.",
-          "mini_headline": "Archivos documentales para entrenar AI",
+          "headline": "El Film Committee de Qatar crea\nun estándar de certificación AI",
+          "body": "El productor John Penotti dijo que pasó un año con el Film Committee de Qatar creando una certificación AI global.",
+          "mini_headline": "Qatar prepara una certificación AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "En IDFA, una charla del sector titulada \"Is AI Stealing My Documentary?\" abordó la concesión de licencias de material de archivo a la AI. Wendy Bernfield, CEO de Rights Stuff, dijo que la AI ha estado \"extrayendo o robando antes de que fuéramos siquiera lo bastante conscientes de ello\". De los cerca de 15 agregadores disponibles actualmente, solo unos pocos se dedican a recopilar material de imágenes de archivo; estos incluyen protección de derechos, pero pagan tarifas más bajas."
+                "x": "John Penotti, productor de Crazy Rich Asians, está desarrollando un estándar de certificación de AI con el Film Committee de Media City Qatar, según dijo en un panel de los Doha Industry Days del Doha Film Festival."
               },
               {
                 "t": "p",
-                "x": "La productora de archivo Elizabeth Klinck contó que la contactan \"casi todas las semanas\" e instó a los documentalistas a \"prepararse para el futuro\": el material derivado de archivo \"puede no sostenerse en términos de su seguro de errores y omisiones\". Recordó un contrato cuya cláusula de exclusión del entrenamiento tenía un plazo de cinco días."
+                "x": "“Gran parte de nuestro trabajo del último año ha consistido en crear una oportunidad de certificación de AI para que haya un estándar”, dijo Penotti. “Empezando aquí, en el Film Committee, durante el último año más o menos, hemos desarrollado un proceso para que una certificación de AI tenga reconocimiento mundial”."
               },
               {
                 "t": "p",
-                "x": "Esther Van Messel, CEO de First Hand Films, dijo que la mayoría de las solicitudes de AI son masivas, de más de 5000 horas: \"Creo que nuestras películas deberían entrenar a la AI... pero, por supuesto, dentro de los límites y las fronteras\". Bernfield señaló que los compradores están pasando a \"pagar más por menos, muy seleccionado\", mientras que Archive.org y muchas bibliotecas han restringido el acceso gratuito."
+                "x": "Un grupo de socios se ha reunido en torno al estándar, y se anunciarán más detalles en las próximas dos semanas. “Hay una autoría ética que podemos demostrar, con un sello que dice: ‘Esto es lo que el autor pretendía, y lo vamos a proteger durante toda su vida útil’”. Anatolii Kasianov, de Holywater Tech, también panelista, predijo que “en un par de años, la producción física ya no será tan relevante”."
               }
             ]
           }
@@ -1351,109 +1065,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "다큐 제작자들, AI에\n영상 팔까 고민",
-          "body": "제작자·아카이비스트가 AI 데이터 업체에 영상을 팔 때 유의점을 짚었다.",
-          "mini_headline": "AI 학습용 다큐 아카이브",
+          "headline": "Qatar 영화위원회,\nAI 인증 표준 만든다",
+          "body": "Penotti는 Qatar Film Committee와 AI 인증을 만들어 왔다.",
+          "mini_headline": "Qatar, AI 인증 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "IDFA에서 열린 산업 토크 'AI가 내 다큐멘터리를 훔치고 있나?(Is AI Stealing My Documentary?)'는 아카이브 영상을 AI에 라이선스하는 문제를 다뤘다. Rights Stuff의 CEO 웬디 번필드(Wendy Bernfield)는 AI가 “우리가 제대로 알아차리기도 전에 긁어 가거나 훔쳐 가고 있었다”고 말했다. 현재 이용할 수 있는 약 15곳의 애그리게이터 가운데 아카이브 이미지 자료 수집에 특화된 곳은 몇 곳뿐이며, 이들은 권리 보호 장치를 갖췄지만 수수료는 더 낮다."
+                "x": "Crazy Rich Asians의 제작자 John Penotti가 Media City Qatar의 Film Committee와 함께 AI 인증 표준을 개발하고 있다고 Doha Film Festival의 Doha Industry Days 패널에서 밝혔다."
               },
               {
                 "t": "p",
-                "x": "아카이브 프로듀서 엘리자베스 클링크(Elizabeth Klinck)는 “거의 매주” 제안을 받는다며 다큐 제작자들에게 “미래에 대비하라”고 당부했다. 아카이브에서 파생된 자료는 “오류·누락 보험 측면에서 버티지 못할 수 있다”는 것이다. 그는 학습용 옵트아웃 조항에 닷새 기한이 걸려 있던 계약을 떠올렸다."
+                "x": "“지난 한 해 동안 우리 작업의 상당 부분은 표준이 생기도록 AI 인증의 기회를 만드는 일이었다.” Penotti의 말이다. “지난 한 해 남짓 이곳 Film Committee에서 시작해, AI 인증이 전 세계에서 인정받는 절차를 개발해 왔다.”"
               },
               {
                 "t": "p",
-                "x": "First Hand Films CEO 에스터 반 메셀(Esther Van Messel)은 AI 관련 요청 대부분이 5,000시간 이상의 대량 물량이라며 “우리 영화가 AI를 학습시켜야 한다고 생각한다… 물론 한계와 경계 안에서”라고 말했다. 번필드는 구매자들이 “더 적은 양에 더 많이 지불하는, 고도로 큐레이션된” 방향으로 옮겨 가고 있다고 했고, Archive.org와 여러 도서관은 무료 접근을 제한했다."
+                "x": "여러 파트너가 이 표준을 위해 모였으며, 세부 내용은 앞으로 두 주 안에 나온다. “우리가 입증할 수 있는 윤리적 저작권이 있다. 여기에는 ‘이것이 작가가 의도한 바이며, 우리는 작품의 수명 내내 이를 지킬 것’이라고 말하는 인장이 붙는다.” 함께 패널로 나선 Holywater Tech의 Anatolii Kasianov는 “몇 년 안에 물리적 제작은 더 이상 그리 중요하지 않을 것”이라고 내다봤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ドキュメンタリー制作者\nAIへの映像販売を検討",
-          "body": "制作者とアーキビストが、AI学習データ業者への映像ライセンスの心得を語った。",
-          "mini_headline": "AI学習とドキュメンタリーのアーカイブ",
+          "headline": "Qatar映画委員会が\nAI認証の基準づくり",
+          "body": "John PenottiはQatarのFilm CommitteeとAI認証を作ってきた。",
+          "mini_headline": "Qatar、AI認証を策定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "IDFAで開かれた業界トーク「Is AI Stealing My Documentary?(AIは私のドキュメンタリーを盗んでいるのか?)」では、アーカイブ映像のAI向けライセンスが取り上げられた。Rights StuffのCEO、Wendy Bernfield氏は、AIは「私たちが十分に気づく前から、スクレイピングや盗用をしていた」と述べた。現在利用できる約15のアグリゲーターのうち、アーカイブ画像素材の収集に特化しているのはごく一部で、それらは権利保護の仕組みを備えるが、料金は低い。"
+                "x": "『Crazy Rich Asians』のプロデューサーJohn Penottiは、Doha Film FestivalのDoha Industry Daysのパネルで、Media City QatarのFilm CommitteeとともにAI認証基準を開発していると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "アーカイブ・プロデューサーのElizabeth Klinck氏は「ほぼ毎週」打診を受けていると話し、ドキュメンタリー制作者に「将来に備える」よう促した。アーカイブから派生した素材は「E&O保険(制作者賠償責任保険)の面で通用しない可能性がある」という。同氏は、学習へのオプトアウト条項に五日間の期限が付いた契約を振り返った。"
+                "x": "「この一年の私たちの仕事の多くは、基準ができるようAI認証の機会をつくることだった」とPenottiは語った。「ここFilm Committeeを起点に、この一年ほど、AI認証が世界的に認められるためのプロセスを開発してきた」"
               },
               {
                 "t": "p",
-                "x": "First Hand FilmsのCEO、Esther Van Messel氏によると、AIからの依頼の大半は5,000時間以上の大量案件だという。「私たちの映画はAIの学習に使われるべきだと思う……もちろん、限度と境界の範囲内で」。Bernfield氏は、買い手が「より少ない量に、より多く払う、高度にキュレーションされたもの」へと移りつつあると述べた。一方でArchive.orgや多くの図書館は無料アクセスを制限している。"
+                "x": "複数のパートナーがこの基準のもとに集まっており、詳細は今後二週間のうちに発表される予定だ。「証明できる倫理的な作者性があり、そこには『これが作者の意図したものであり、私たちはその寿命を通じてそれを守る』と示すスタンプが押される」。同じくパネリストを務めたHolywater TechのAnatolii Kasianovは「数年のうちに、物理的な制作はもはやそれほど重要ではなくなる」と予測した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纪录片人权衡\n把素材卖给AI",
-          "body": "制片人和档案专家梳理了向AI训练数据聚合商授权档案影像的注意事项。",
-          "mini_headline": "纪录片档案与AI训练",
+          "headline": "Qatar电影委员会\n打造AI认证标准",
+          "body": "John Penotti与Qatar的Film Committee花一年打造AI认证。",
+          "mini_headline": "Qatar制定AI认证",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "在IDFA，一场题为“Is AI Stealing My Documentary?”（AI在偷我的纪录片吗？）的行业讲座探讨了向AI授权档案影像的问题。Rights Stuff CEO Wendy Bernfield说，AI“在我们还没充分意识到之前就已经在抓取或窃取”。目前约15家聚合商中，只有少数专门收集档案影像素材；这些平台内置版权保护，但费用较低。"
+                "x": "《Crazy Rich Asians》制片人John Penotti在Doha Film Festival的Doha Industry Days小组讨论中表示，他正与Media City Qatar的Film Committee共同制定AI认证标准。"
               },
               {
                 "t": "p",
-                "x": "档案制片人Elizabeth Klinck说，她“几乎每周”都会接到询问，并敦促纪录片人“为未来做好准备”：源自档案的素材“在差错与遗漏保险方面可能站不住脚”。她回忆起一份合同，其中针对训练的退出条款只有五天期限。"
+                "x": "“过去一年，我们的很多工作是创造AI认证的机会，从而形成一套标准，”Penotti说，“过去一年左右，我们从Film Committee起步，一直在开发一套让AI认证获得全球认可的流程。”"
               },
               {
                 "t": "p",
-                "x": "First Hand Films CEO Esther Van Messel表示，大多数AI请求都是5,000小时以上的批量需求：“我认为我们的电影应该用来训练AI……当然，要在限度和边界之内。”Bernfield说，买家正转向“花更多钱买更少、经过精心筛选的内容”，而Archive.org和许多图书馆已限制免费访问。"
+                "x": "一批合作伙伴已围绕该标准聚集，更多细节将在未来两周内公布。“我们可以证明一种合乎伦理的作者身份，它带有一个印章，表明‘这就是作者的本意，我们将在其整个生命周期中守护它’。”同场嘉宾、Holywater Tech的Anatolii Kasianov预测，“几年之内，实体制作将不再那么重要。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Documentalistas sopesan vender\nmaterial de archivo a la AI",
-          "body": "Productores y archivistas repasan qué hacer y qué no al licenciar archivo a agregadores de datos para entrenar AI.",
-          "mini_headline": "Archivos documentales para entrenar AI",
+          "headline": "El Film Committee de Qatar crea\nun estándar de certificación AI",
+          "body": "El productor John Penotti dijo que pasó un año con el Film Committee de Qatar creando una certificación AI global.",
+          "mini_headline": "Qatar prepara una certificación AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg?w=1000&h=667&crop=1",
-                "cap": "About a Hero"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
               },
               {
                 "t": "p",
-                "x": "En IDFA, una charla del sector titulada \"Is AI Stealing My Documentary?\" abordó la concesión de licencias de material de archivo a la AI. Wendy Bernfield, CEO de Rights Stuff, dijo que la AI ha estado \"extrayendo o robando antes de que fuéramos siquiera lo bastante conscientes de ello\". De los cerca de 15 agregadores disponibles actualmente, solo unos pocos se dedican a recopilar material de imágenes de archivo; estos incluyen protección de derechos, pero pagan tarifas más bajas."
+                "x": "John Penotti, productor de Crazy Rich Asians, está desarrollando un estándar de certificación de AI con el Film Committee de Media City Qatar, según dijo en un panel de los Doha Industry Days del Doha Film Festival."
               },
               {
                 "t": "p",
-                "x": "La productora de archivo Elizabeth Klinck contó que la contactan \"casi todas las semanas\" e instó a los documentalistas a \"prepararse para el futuro\": el material derivado de archivo \"puede no sostenerse en términos de su seguro de errores y omisiones\". Recordó un contrato cuya cláusula de exclusión del entrenamiento tenía un plazo de cinco días."
+                "x": "“Gran parte de nuestro trabajo del último año ha consistido en crear una oportunidad de certificación de AI para que haya un estándar”, dijo Penotti. “Empezando aquí, en el Film Committee, durante el último año más o menos, hemos desarrollado un proceso para que una certificación de AI tenga reconocimiento mundial”."
               },
               {
                 "t": "p",
-                "x": "Esther Van Messel, CEO de First Hand Films, dijo que la mayoría de las solicitudes de AI son masivas, de más de 5000 horas: \"Creo que nuestras películas deberían entrenar a la AI... pero, por supuesto, dentro de los límites y las fronteras\". Bernfield señaló que los compradores están pasando a \"pagar más por menos, muy seleccionado\", mientras que Archive.org y muchas bibliotecas han restringido el acceso gratuito."
+                "x": "Un grupo de socios se ha reunido en torno al estándar, y se anunciarán más detalles en las próximas dos semanas. “Hay una autoría ética que podemos demostrar, con un sello que dice: ‘Esto es lo que el autor pretendía, y lo vamos a proteger durante toda su vida útil’”. Anatolii Kasianov, de Holywater Tech, también panelista, predijo que “en un par de años, la producción física ya no será tan relevante”."
               }
             ]
           }
@@ -1461,561 +1171,271 @@
       }
     },
     {
-      "id": "estsoft-kfast-ai-dubbing",
+      "id": "mateo-wiingeukjang-ai-drama",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "이스트소프트 AI 더빙\nK-콘텐츠 중남미로",
-      "body": "이스트소프트가 K-콘텐츠 300시간을 AI로 더빙해 중남미 FAST 채널을 열었다.",
-      "mini_headline": "이스트소프트 AI 더빙",
+      "headline": "100% AI 시대극\n'위인극장' 첫 공개",
+      "body": "관객 선택에 따라 전개가 바뀌는 AI 시대극 '위인극장'이 부산에서 공개됐다.",
+      "mini_headline": "AI 시대극 '위인극장'",
       "tool": "Movies",
-      "source": "AI타임스",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42794",
+      "source": "에너지뉴스 (2news.co.kr)",
+      "url": "https://www.2news.co.kr/news/articleView.html?idxno=33410",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-            "cap": "AI 더빙 특화 K-FAST 확산 지원 사업으로 현지화한 주요 IP 이미지 (사진:이스트소프트)"
+            "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
           },
           {
             "t": "p",
-            "x": "이스트소프트가 인공지능(AI) 더빙 기술을 활용해 한국 방송 콘텐츠의 중남미 시장 진출을 확대하고 있다. 2년간 300시간 분량의 콘텐츠를 현지화하고, 중남미 5개국에 한국 콘텐츠를 제공하는 FAST 채널 2개를 개설했다."
+            "x": "마테오AI스튜디오가 한국콘텐츠진흥원의 지원을 받아 제작한 100% 생성형 AI 인터랙티브 시대극 ‘위인극장’을 2026년 11월 20일 부산국제영화제 아시아콘텐츠&필름마켓(ACFM)에서 처음 공개했다. 부산 영상산업센터에서 열린 ACFM InnoAsia WIP 쇼케이스에서 작품의 주요 장면과 인터랙티브 구조를 공개했다."
           },
           {
             "t": "p",
-            "x": "AI 서비스 기업 이스트소프트(대표 정상원)는 과학기술정보통신부와 한국정보통신진흥협회(KAIT)가 추진하는 'AI 더빙 특화 K-FAST 확산 지원 사업'을 2년 연속 수행하며 AI 더빙 기술 고도화와 해외 유통 확대를 추진했다고 19일 밝혔다."
+            "x": "위인극장은 김홍도, 소현세자, 최부를 각각 주인공으로 한 총 3편의 에피소드로 구성됐다. 영상 전체를 100% 생성형 AI로 구현했으며 이번 쇼케이스에서는 단원 김홍도 편을 먼저 선보였다. 관객이 이야기의 주요 분기점마다 직접 선택을 내리고, 그 선택에 따라 다음 전개가 달라지는 인터랙티브 구조가 가장 큰 특징이다."
           },
           {
             "t": "p",
-            "x": "FAST(Free Ad-supported Streaming TV)는 광고를 기반으로 무료 콘텐츠를 제공하는 스트리밍 TV 서비스다. 이스트소프트는 사업을 통해 드라마·예능·다큐멘터리 등 약 1만 8,000분(300시간)의 콘텐츠에 AI 더빙 기술을 적용했다."
-          },
-          {
-            "t": "p",
-            "x": "특히 자사 서비스 '페르소 더빙(Perso Dubbing)'의 음성 합성 기술을 개선해 원작 화자의 목소리 톤과 감정 표현을 자연스럽게 구현하고, 콘텐츠 구간별 편집·다운로드 기능을 강화했다. 중남미 시장을 겨냥한 '중립 스페인어' 더빙 품질 가이드도 마련했다."
-          },
-          {
-            "t": "p",
-            "x": "사업에는 KBS, SBS, MBC, EBS, ENA, KT스튜디오지니, 채널A 등 국내 방송·콘텐츠 기업이 참여했다. 올해는 KT스튜디오지니의 K-숏드라마 1,958편과 채널A의 '신랑수업', K20의 뷰티 예능 콘텐츠 61편 등에 AI 더빙을 적용했다."
-          },
-          {
-            "t": "p",
-            "x": "이스트소프트 컨소시엄은 K20의 '트렌드온(TRENDON)'과 KT스튜디오지니의 '지니 쇼츠(GENIE Shorts)' 등 FAST 채널 2개를 개설하고, LG 채널스(LG Channels)를 통해 멕시코·페루·칠레·콜롬비아·아르헨티나 등 중남미 5개국에 콘텐츠 공급을 시작했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 더빙 서비스의 해외 이용자도 증가하고 있다. 페르소 더빙의 누적 가입자는 지난 10월 60만 명을 돌파해 2월보다 14만 명 늘었다. 8월부터 10월까지 신규 가입자의 약 90%는 해외 이용자로 집계됐다."
-          },
-          {
-            "t": "p",
-            "x": "지난 10월 글로벌 AI 영상 플랫폼 기업 헤이젠(HeyGen)의 자체 평가에서는 페르소 더빙이 8.3점을 기록했다. 같은 달 프랑스에서 열린 '밉컴 2026(MIPCOM 2026)'에서는 글로벌 방송·스트리밍 기술 기업 아마기(Amagi)와 콘텐츠 현지화 협력 방안을 논의했다."
-          },
-          {
-            "t": "p",
-            "x": "이스트소프트는 향후 K-FAST 서비스 지역을 스페인과 북미로 확대하고, 삼성 TV 채널 등으로 유통 경로를 다변화할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "정상원 이스트소프트 대표는 “K-FAST 사업으로 자사 페르소 더빙의 기술 고도화와 글로벌 확장을 동시에 추진할 수 있었다”며 “국책사업과 자체 기술력을 연계해 해외 시장에서 경쟁력을 높이고 지속적인 성과를 창출하겠다”고 밝혔다."
+            "x": "정주원 대표가 발표자로 나서 기획 의도와 제작 과정, 인터랙티브 분기 설계 방식을 소개했다. 마테오AI스튜디오는 AI 단편 ‘마테오’(2024)로 제1회 대한민국 AI 국제영화제 대상을, ‘목격자’(2024)로 제1회 부산국제AI영화제 대상을 받았으며, 100% 생성형 AI 장편 ‘라파엘’(2026)의 11월 25일 국내 개봉을 앞두고 있다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "이스트소프트 AI 더빙\nK-콘텐츠 중남미로",
-          "body": "이스트소프트가 K-콘텐츠 300시간을 AI로 더빙해 중남미 FAST 채널을 열었다.",
-          "mini_headline": "이스트소프트 AI 더빙",
+          "headline": "100% AI 시대극\n'위인극장' 첫 공개",
+          "body": "관객 선택에 따라 전개가 바뀌는 AI 시대극 '위인극장'이 부산에서 공개됐다.",
+          "mini_headline": "AI 시대극 '위인극장'",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "AI 더빙 특화 K-FAST 확산 지원 사업으로 현지화한 주요 IP 이미지 (사진:이스트소프트)"
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "이스트소프트가 인공지능(AI) 더빙 기술을 활용해 한국 방송 콘텐츠의 중남미 시장 진출을 확대하고 있다. 2년간 300시간 분량의 콘텐츠를 현지화하고, 중남미 5개국에 한국 콘텐츠를 제공하는 FAST 채널 2개를 개설했다."
+                "x": "마테오AI스튜디오가 한국콘텐츠진흥원의 지원을 받아 제작한 100% 생성형 AI 인터랙티브 시대극 ‘위인극장’을 2026년 11월 20일 부산국제영화제 아시아콘텐츠&필름마켓(ACFM)에서 처음 공개했다. 부산 영상산업센터에서 열린 ACFM InnoAsia WIP 쇼케이스에서 작품의 주요 장면과 인터랙티브 구조를 공개했다."
               },
               {
                 "t": "p",
-                "x": "AI 서비스 기업 이스트소프트(대표 정상원)는 과학기술정보통신부와 한국정보통신진흥협회(KAIT)가 추진하는 'AI 더빙 특화 K-FAST 확산 지원 사업'을 2년 연속 수행하며 AI 더빙 기술 고도화와 해외 유통 확대를 추진했다고 19일 밝혔다."
+                "x": "위인극장은 김홍도, 소현세자, 최부를 각각 주인공으로 한 총 3편의 에피소드로 구성됐다. 영상 전체를 100% 생성형 AI로 구현했으며 이번 쇼케이스에서는 단원 김홍도 편을 먼저 선보였다. 관객이 이야기의 주요 분기점마다 직접 선택을 내리고, 그 선택에 따라 다음 전개가 달라지는 인터랙티브 구조가 가장 큰 특징이다."
               },
               {
                 "t": "p",
-                "x": "FAST(Free Ad-supported Streaming TV)는 광고를 기반으로 무료 콘텐츠를 제공하는 스트리밍 TV 서비스다. 이스트소프트는 사업을 통해 드라마·예능·다큐멘터리 등 약 1만 8,000분(300시간)의 콘텐츠에 AI 더빙 기술을 적용했다."
-              },
-              {
-                "t": "p",
-                "x": "특히 자사 서비스 '페르소 더빙(Perso Dubbing)'의 음성 합성 기술을 개선해 원작 화자의 목소리 톤과 감정 표현을 자연스럽게 구현하고, 콘텐츠 구간별 편집·다운로드 기능을 강화했다. 중남미 시장을 겨냥한 '중립 스페인어' 더빙 품질 가이드도 마련했다."
-              },
-              {
-                "t": "p",
-                "x": "사업에는 KBS, SBS, MBC, EBS, ENA, KT스튜디오지니, 채널A 등 국내 방송·콘텐츠 기업이 참여했다. 올해는 KT스튜디오지니의 K-숏드라마 1,958편과 채널A의 '신랑수업', K20의 뷰티 예능 콘텐츠 61편 등에 AI 더빙을 적용했다."
-              },
-              {
-                "t": "p",
-                "x": "이스트소프트 컨소시엄은 K20의 '트렌드온(TRENDON)'과 KT스튜디오지니의 '지니 쇼츠(GENIE Shorts)' 등 FAST 채널 2개를 개설하고, LG 채널스(LG Channels)를 통해 멕시코·페루·칠레·콜롬비아·아르헨티나 등 중남미 5개국에 콘텐츠 공급을 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 더빙 서비스의 해외 이용자도 증가하고 있다. 페르소 더빙의 누적 가입자는 지난 10월 60만 명을 돌파해 2월보다 14만 명 늘었다. 8월부터 10월까지 신규 가입자의 약 90%는 해외 이용자로 집계됐다."
-              },
-              {
-                "t": "p",
-                "x": "지난 10월 글로벌 AI 영상 플랫폼 기업 헤이젠(HeyGen)의 자체 평가에서는 페르소 더빙이 8.3점을 기록했다. 같은 달 프랑스에서 열린 '밉컴 2026(MIPCOM 2026)'에서는 글로벌 방송·스트리밍 기술 기업 아마기(Amagi)와 콘텐츠 현지화 협력 방안을 논의했다."
-              },
-              {
-                "t": "p",
-                "x": "이스트소프트는 향후 K-FAST 서비스 지역을 스페인과 북미로 확대하고, 삼성 TV 채널 등으로 유통 경로를 다변화할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "정상원 이스트소프트 대표는 “K-FAST 사업으로 자사 페르소 더빙의 기술 고도화와 글로벌 확장을 동시에 추진할 수 있었다”며 “국책사업과 자체 기술력을 연계해 해외 시장에서 경쟁력을 높이고 지속적인 성과를 창출하겠다”고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ESTsoftのAI吹き替え\nK-コンテンツを中南米へ",
-          "body": "ESTsoftがK-コンテンツ300時間をAI吹替し中南米にFASTチャンネルを開いた。",
-          "mini_headline": "ESTsoftのAI吹き替え",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "AI吹き替え特化K-FAST拡散支援事業でローカライズした主要IPのイメージ(写真:ESTsoft)"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoftが人工知能(AI)吹き替え技術を活用し、韓国の放送コンテンツの中南米市場進出を広げている。2年間で300時間分のコンテンツをローカライズし、中南米5カ国に韓国コンテンツを届けるFASTチャンネルを2つ開設した。"
-              },
-              {
-                "t": "p",
-                "x": "AIサービス企業のESTsoft(代表:チョン・サンウォン)は19日、科学技術情報通信部と韓国情報通信振興協会(KAIT)が推進する「AI吹き替え特化K-FAST拡散支援事業」を2年連続で遂行し、AI吹き替え技術の高度化と海外流通の拡大を進めたと明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "FAST(Free Ad-supported Streaming TV)は、広告を基盤に無料コンテンツを提供するストリーミングTVサービスだ。ESTsoftは事業を通じて、ドラマ、バラエティ、ドキュメンタリーなど約1万8,000分(300時間)のコンテンツにAI吹き替え技術を適用した。"
-              },
-              {
-                "t": "p",
-                "x": "特に自社サービス「Perso Dubbing」の音声合成技術を改善し、原作の話者の声のトーンや感情表現を自然に再現できるようにしたほか、コンテンツの区間ごとの編集・ダウンロード機能を強化した。中南米市場を狙った「中立スペイン語」吹き替えの品質ガイドも整えた。"
-              },
-              {
-                "t": "p",
-                "x": "事業にはKBS、SBS、MBC、EBS、ENA、KT Studio Genie、Channel Aなど国内の放送・コンテンツ企業が参加した。今年はKT Studio GenieのK-ショートドラマ1,958本、Channel Aの「新郎授業」、K20のビューティーバラエティ61本などにAI吹き替えを適用した。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoftコンソーシアムは、K20の「TRENDON」とKT Studio Genieの「GENIE Shorts」など2つのFASTチャンネルを開設し、LG Channelsを通じてメキシコ、ペルー、チリ、コロンビア、アルゼンチンなど中南米5カ国へのコンテンツ供給を始めた。"
-              },
-              {
-                "t": "p",
-                "x": "AI吹き替えサービスの海外ユーザーも増えている。Perso Dubbingの累計登録者数は10月に60万人を突破し、2月より14万人増えた。8月から10月までの新規登録者の約90%は海外ユーザーだった。"
-              },
-              {
-                "t": "p",
-                "x": "10月にはグローバルAI映像プラットフォーム企業HeyGenの自社評価で、Perso Dubbingが8.3点を記録した。同月フランスで開かれた「MIPCOM 2026」では、グローバル放送・ストリーミング技術企業Amagiとコンテンツのローカライズ協力について協議した。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoftは今後、K-FASTのサービス地域をスペインと北米に広げ、Samsung TVのチャンネルなどへ流通経路を多様化する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoftのチョン・サンウォン代表は「K-FAST事業によって、自社のPerso Dubbingの技術高度化とグローバル展開を同時に進めることができた」とし、「国家事業と自社の技術力を連携させ、海外市場で競争力を高め、持続的な成果を生み出していく」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ESTsoft AI配音\n助K-内容进军拉美",
-          "body": "ESTsoft用AI为300小时K-内容配音，并在拉美开设了FAST频道。",
-          "mini_headline": "ESTsoft AI配音",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "通过AI配音特化K-FAST推广支持项目完成本地化的主要IP图片（图片：ESTsoft）"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft正利用人工智能（AI）配音技术，扩大韩国广播内容进军拉美市场。公司在2年间完成了300小时内容的本地化，并开设了2个向拉美5国提供韩国内容的FAST频道。"
-              },
-              {
-                "t": "p",
-                "x": "AI服务企业ESTsoft（代表Chung Sang-won）19日表示，已连续2年承担韩国科学技术信息通信部和韩国信息通信振兴协会（KAIT）推进的“AI配音特化K-FAST推广支持项目”，推动AI配音技术升级和海外发行扩张。"
-              },
-              {
-                "t": "p",
-                "x": "FAST（Free Ad-supported Streaming TV）是以广告为基础提供免费内容的流媒体TV服务。ESTsoft通过该项目，将AI配音技术应用于电视剧、综艺、纪录片等约1万8,000分钟（300小时）的内容。"
-              },
-              {
-                "t": "p",
-                "x": "尤其是，公司改进了自有服务“Perso Dubbing”的语音合成技术，自然再现原说话者的音色和情感表达，并强化了按内容片段编辑和下载的功能。公司还制定了面向拉美市场的“中性西班牙语”配音质量指南。"
-              },
-              {
-                "t": "p",
-                "x": "KBS、SBS、MBC、EBS、ENA、KT Studio Genie、Channel A等韩国广播及内容企业参与了该项目。今年，AI配音被应用于KT Studio Genie的1,958部K-短剧、Channel A的《新郎授课》以及K20的61部美妆综艺内容等。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft联合体开设了K20的“TRENDON”和KT Studio Genie的“GENIE Shorts”等2个FAST频道，并通过LG Channels开始向墨西哥、秘鲁、智利、哥伦比亚、阿根廷等拉美5国供应内容。"
-              },
-              {
-                "t": "p",
-                "x": "AI配音服务的海外用户也在增加。Perso Dubbing累计注册用户于10月突破60万，比2月增加14万。8月至10月新注册用户中约90%为海外用户。"
-              },
-              {
-                "t": "p",
-                "x": "10月，在全球AI视频平台企业HeyGen的内部评测中，Perso Dubbing获得8.3分。同月，在法国举行的“MIPCOM 2026”上，ESTsoft与全球广播及流媒体技术企业Amagi讨论了内容本地化合作方案。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft计划今后将K-FAST服务地区扩大到西班牙和北美，并通过Samsung TV频道等实现发行渠道多元化。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft代表Chung Sang-won表示：“通过K-FAST项目，我们得以同时推进自有Perso Dubbing的技术升级和全球扩张。”他还说：“我们将把国家项目与自身技术实力相结合，提升在海外市场的竞争力，持续创造成果。”"
+                "x": "정주원 대표가 발표자로 나서 기획 의도와 제작 과정, 인터랙티브 분기 설계 방식을 소개했다. 마테오AI스튜디오는 AI 단편 ‘마테오’(2024)로 제1회 대한민국 AI 국제영화제 대상을, ‘목격자’(2024)로 제1회 부산국제AI영화제 대상을 받았으며, 100% 생성형 AI 장편 ‘라파엘’(2026)의 11월 25일 국내 개봉을 앞두고 있다."
               }
             ]
           }
         },
         "en": {
-          "headline": "ESTsoft AI dubbing takes\nK-content to Latin America",
-          "body": "ESTsoft used AI to dub 300 hours of K-content and opened FAST channels for Latin America.",
-          "mini_headline": "ESTsoft AI dubbing",
+          "headline": "100% AI period drama\n'Wiin Geukjang' premieres",
+          "body": "'Wiin Geukjang', an AI period drama whose story changes with audience choices, premiered in Busan.",
+          "mini_headline": "AI period drama 'Wiin Geukjang'",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "Major IP localized through the AI dubbing-focused K-FAST expansion support program (Photo: ESTsoft)"
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "ESTsoft is using artificial intelligence (AI) dubbing technology to expand Korean broadcast content into the Latin American market. Over 2 years it localized 300 hours of content and opened 2 FAST channels that deliver Korean content to 5 Latin American countries."
+                "x": "Mateo AI Studio unveiled 'Wiin Geukjang', a 100% generative AI interactive period drama made with support from the Korea Creative Content Agency, for the first time on November 20, 2026, at the Busan International Film Festival's Asian Contents & Film Market (ACFM). At the ACFM InnoAsia WIP showcase held at the Busan Film Industry Center, the studio presented key scenes and the work's interactive structure."
               },
               {
                 "t": "p",
-                "x": "AI service company ESTsoft (CEO Chung Sang-won) said on the 19th that it carried out the 'K-FAST Expansion Support Program Specialized in AI Dubbing,' run by the Ministry of Science and ICT and the Korea Association for ICT Promotion (KAIT), for 2 consecutive years, advancing its AI dubbing technology and expanding overseas distribution."
+                "x": "'Wiin Geukjang' consists of 3 episodes, each centered on Kim Hong-do, Crown Prince Sohyeon and Choe Bu. The entire video was made with 100% generative AI, and the showcase presented the Danwon Kim Hong-do episode first. Its defining feature is an interactive structure in which the audience makes a choice at each major turning point of the story, and the next development changes with that choice."
               },
               {
                 "t": "p",
-                "x": "FAST (Free Ad-supported Streaming TV) is a streaming TV service that offers free content supported by advertising. Through the program, ESTsoft applied AI dubbing technology to about 1만 8,000분 (300 hours) of content, including dramas, variety shows and documentaries."
+                "x": "CEO Jeong Ju-won, the presenter, introduced the project's intent, production process and how its interactive branches were designed. Mateo AI Studio won the grand prize at the 1st Korea AI International Film Festival with the AI short 'Mateo' (2024) and the grand prize at the 1st Busan International AI Film Festival with 'The Witness' (2024), and its 100% generative AI feature 'Raphael' (2026) is set for release in Korea on November 25."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "100% AIの時代劇\n『偉人劇場』初公開",
+          "body": "観客の選択で展開が変わるAI時代劇『偉人劇場』が釜山で公開された。",
+          "mini_headline": "AI時代劇『偉人劇場』",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "In particular, it improved the speech synthesis of its own service, Perso Dubbing, to render the original speaker's vocal tone and emotional expression naturally, and strengthened segment-level editing and download features. It also prepared a 'neutral Spanish' dubbing quality guide aimed at the Latin American market."
+                "x": "マテオAIスタジオは、韓国コンテンツ振興院の支援を受けて制作した100%生成AIのインタラクティブ時代劇『偉人劇場』を、2026年11月20日に釜山国際映画祭アジアコンテンツ&フィルムマーケット(ACFM)で初公開した。釜山映像産業センターで開かれたACFM InnoAsia WIPショーケースで、作品の主要シーンとインタラクティブ構造を披露した。"
               },
               {
                 "t": "p",
-                "x": "Korean broadcasters and content companies including KBS, SBS, MBC, EBS, ENA, KT Studio Genie and Channel A took part in the program. This year, AI dubbing was applied to 1,958 K-short dramas from KT Studio Genie, Channel A's 'Groom Class' and 61 beauty variety titles from K20, among others."
+                "x": "『偉人劇場』は金弘道、昭顕世子、崔溥をそれぞれ主人公とする全3話のエピソードで構成される。映像全体を100%生成AIで制作し、今回のショーケースでは檀園・金弘道編を先行公開した。観客が物語の主要な分岐点ごとに自ら選択し、その選択によって次の展開が変わるインタラクティブ構造が最大の特徴だ。"
               },
               {
                 "t": "p",
-                "x": "The ESTsoft consortium opened 2 FAST channels, K20's TRENDON and KT Studio Genie's GENIE Shorts, and began supplying content through LG Channels to 5 Latin American countries, including Mexico, Peru, Chile, Colombia and Argentina."
+                "x": "チョン・ジュウォン代表が発表者として登壇し、企画意図と制作過程、インタラクティブな分岐の設計方法を紹介した。マテオAIスタジオはAI短編『マテオ』(2024)で第1回大韓民国AI国際映画祭の大賞を、『目撃者』(2024)で第1回釜山国際AI映画祭の大賞を受賞しており、100%生成AI長編『ラファエル』(2026)の11月25日の韓国公開を控えている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "100% AI历史剧\n《伟人剧场》首次公开",
+          "body": "可随观众选择改变剧情走向的AI历史剧《伟人剧场》在釜山首次亮相。",
+          "mini_headline": "AI历史剧《伟人剧场》",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "Overseas use of the AI dubbing service is also growing. Perso Dubbing's cumulative sign-ups passed 60만 in October, up 14만 from February. About 90% of new sign-ups from August to October came from overseas users."
+                "x": "马特奥AI工作室在韩国内容振兴院支持下制作的100%生成式AI互动历史剧《伟人剧场》，于2026年11月20日在釜山国际电影节亚洲内容与电影市场（ACFM）首次公开。在釜山影像产业中心举行的ACFM InnoAsia WIP展示会上，团队公开了作品的主要场景和互动结构。"
               },
               {
                 "t": "p",
-                "x": "In October, Perso Dubbing scored 8.3 points in an internal evaluation by HeyGen, a global AI video platform company. The same month, at MIPCOM 2026 in France, ESTsoft discussed content localization cooperation with Amagi, a global broadcast and streaming technology company."
+                "x": "《伟人剧场》共3集，分别以金弘道、昭显世子和崔溥为主人公。影像全部由100%生成式AI制作，此次展示会率先公开了檀园金弘道篇。最大特点是互动结构：观众在故事的每个关键分岔点亲自做出选择，下一步剧情随之改变。"
               },
               {
                 "t": "p",
-                "x": "ESTsoft plans to expand K-FAST service regions to Spain and North America and to diversify its distribution channels, including Samsung TV channels."
-              },
-              {
-                "t": "p",
-                "x": "\"Through the K-FAST program, we were able to advance the technology of our Perso Dubbing and expand globally at the same time,\" said ESTsoft CEO Chung Sang-won. \"By linking the national project with our own technology, we will strengthen our competitiveness in overseas markets and keep delivering results.\""
+                "x": "代表Jeong Ju-won作为发言人登台，介绍了策划意图、制作过程和互动分支的设计方式。马特奥AI工作室曾凭AI短片《马特奥》（2024）获得第1届大韩民国AI国际电影节大奖，凭《目击者》（2024）获得第1届釜山国际AI电影节大奖，其100%生成式AI长片《拉斐尔》（2026）将于11月25日在韩国上映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El doblaje con AI de ESTsoft\nlleva K-content a Latinoamérica",
-          "body": "ESTsoft dobló con AI 300 horas de K-content y abrió canales FAST para Latinoamérica.",
-          "mini_headline": "Doblaje con AI de ESTsoft",
+          "headline": "Drama de época 100% AI:\n'Wiin Geukjang' se estrena",
+          "body": "'Wiin Geukjang', un drama de época con AI cuya trama cambia según las decisiones del público, se presentó en Busan.",
+          "mini_headline": "Drama de época con AI 'Wiin Geukjang'",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "Imagen de las principales IP localizadas con el programa de apoyo a la expansión K-FAST especializado en doblaje con AI (foto: ESTsoft)"
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "ESTsoft está ampliando la llegada de contenidos de la televisión coreana al mercado latinoamericano con tecnología de doblaje por inteligencia artificial (AI). En 2 años localizó 300 horas de contenido y abrió 2 canales FAST que ofrecen contenido coreano en 5 países de Latinoamérica."
+                "x": "Mateo AI Studio presentó por primera vez el 20 de noviembre de 2026, en el Asian Contents & Film Market (ACFM) del Festival Internacional de Cine de Busan, 'Wiin Geukjang', un drama de época interactivo hecho al 100% con AI generativa y producido con el apoyo de la Agencia Coreana de Contenidos Creativos. En el showcase ACFM InnoAsia WIP, celebrado en el Centro de la Industria Audiovisual de Busan, mostró las escenas principales y la estructura interactiva de la obra."
               },
               {
                 "t": "p",
-                "x": "La empresa de servicios de AI ESTsoft (director ejecutivo: Chung Sang-won) informó el día 19 que ejecutó durante 2 años consecutivos el 'Programa de apoyo a la expansión K-FAST especializado en doblaje con AI', impulsado por el Ministerio de Ciencia y TIC y la Asociación Coreana para la Promoción de las TIC (KAIT), con lo que avanzó en su tecnología de doblaje con AI y amplió su distribución internacional."
+                "x": "'Wiin Geukjang' consta de 3 episodios protagonizados, respectivamente, por Kim Hong-do, el príncipe heredero Sohyeon y Choe Bu. Todo el metraje se realizó al 100% con AI generativa, y en el showcase se presentó primero el episodio de Danwon Kim Hong-do. Su rasgo principal es una estructura interactiva en la que el público toma decisiones en cada punto clave de la historia y el desarrollo siguiente cambia según esas elecciones."
               },
               {
                 "t": "p",
-                "x": "FAST (Free Ad-supported Streaming TV) es un servicio de TV en streaming que ofrece contenido gratuito financiado con publicidad. A través del programa, ESTsoft aplicó su tecnología de doblaje con AI a unos 1만 8,000분 (300 horas) de contenido, entre dramas, programas de variedades y documentales."
-              },
-              {
-                "t": "p",
-                "x": "En particular, mejoró la síntesis de voz de su servicio propio Perso Dubbing para reproducir con naturalidad el tono de voz y la expresión emocional del hablante original, y reforzó las funciones de edición y descarga por segmentos. También elaboró una guía de calidad de doblaje en 'español neutro' orientada al mercado latinoamericano."
-              },
-              {
-                "t": "p",
-                "x": "En el programa participaron empresas coreanas de radiodifusión y contenidos como KBS, SBS, MBC, EBS, ENA, KT Studio Genie y Channel A. Este año se aplicó el doblaje con AI a 1958 K-dramas cortos de KT Studio Genie, al programa 'Groom Class' de Channel A y a 61 títulos de variedades de belleza de K20, entre otros."
-              },
-              {
-                "t": "p",
-                "x": "El consorcio de ESTsoft abrió 2 canales FAST, TRENDON de K20 y GENIE Shorts de KT Studio Genie, y empezó a suministrar contenido a través de LG Channels a 5 países latinoamericanos, entre ellos México, Perú, Chile, Colombia y Argentina."
-              },
-              {
-                "t": "p",
-                "x": "También crecen los usuarios internacionales del servicio de doblaje con AI. Los registros acumulados de Perso Dubbing superaron los 60만 en octubre, 14만 más que en febrero. Cerca del 90% de los nuevos registros entre agosto y octubre correspondió a usuarios del extranjero."
-              },
-              {
-                "t": "p",
-                "x": "En octubre, Perso Dubbing obtuvo 8.3 puntos en una evaluación interna de HeyGen, empresa global de plataformas de video con AI. Ese mismo mes, en MIPCOM 2026, celebrado en Francia, ESTsoft conversó con Amagi, empresa global de tecnología de radiodifusión y streaming, sobre la cooperación en localización de contenidos."
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft planea ampliar las regiones del servicio K-FAST a España y Norteamérica, y diversificar sus canales de distribución, entre ellos los canales de Samsung TV."
-              },
-              {
-                "t": "p",
-                "x": "\"Con el programa K-FAST pudimos impulsar a la vez el avance tecnológico de nuestro Perso Dubbing y su expansión global\", dijo Chung Sang-won, director ejecutivo de ESTsoft. \"Vincularemos el proyecto nacional con nuestra propia capacidad tecnológica para ser más competitivos en los mercados internacionales y seguir generando resultados\"."
+                "x": "El director ejecutivo Jeong Ju-won expuso la intención del proyecto, el proceso de producción y el diseño de las ramificaciones interactivas. Mateo AI Studio ganó el gran premio del 1.º Festival Internacional de Cine de AI de Corea con el corto de AI 'Mateo' (2024) y el del 1.º Festival Internacional de Cine de AI de Busan con 'El testigo' (2024), y prepara el estreno en Corea, el 25 de noviembre, de 'Raphael' (2026), su largometraje hecho al 100% con AI generativa."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "ESTsoftのAI吹き替え\nK-コンテンツを中南米へ",
-          "body": "ESTsoftがK-コンテンツ300時間をAI吹替し中南米にFASTチャンネルを開いた。",
-          "mini_headline": "ESTsoftのAI吹き替え",
+        "en": {
+          "headline": "100% AI period drama\n'Wiin Geukjang' premieres",
+          "body": "'Wiin Geukjang', an AI period drama whose story changes with audience choices, premiered in Busan.",
+          "mini_headline": "AI period drama 'Wiin Geukjang'",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "AI吹き替え特化K-FAST拡散支援事業でローカライズした主要IPのイメージ(写真:ESTsoft)"
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "ESTsoftが人工知能(AI)吹き替え技術を活用し、韓国の放送コンテンツの中南米市場進出を広げている。2年間で300時間分のコンテンツをローカライズし、中南米5カ国に韓国コンテンツを届けるFASTチャンネルを2つ開設した。"
+                "x": "Mateo AI Studio unveiled 'Wiin Geukjang', a 100% generative AI interactive period drama made with support from the Korea Creative Content Agency, for the first time on November 20, 2026, at the Busan International Film Festival's Asian Contents & Film Market (ACFM). At the ACFM InnoAsia WIP showcase held at the Busan Film Industry Center, the studio presented key scenes and the work's interactive structure."
               },
               {
                 "t": "p",
-                "x": "AIサービス企業のESTsoft(代表:チョン・サンウォン)は19日、科学技術情報通信部と韓国情報通信振興協会(KAIT)が推進する「AI吹き替え特化K-FAST拡散支援事業」を2年連続で遂行し、AI吹き替え技術の高度化と海外流通の拡大を進めたと明らかにした。"
+                "x": "'Wiin Geukjang' consists of 3 episodes, each centered on Kim Hong-do, Crown Prince Sohyeon and Choe Bu. The entire video was made with 100% generative AI, and the showcase presented the Danwon Kim Hong-do episode first. Its defining feature is an interactive structure in which the audience makes a choice at each major turning point of the story, and the next development changes with that choice."
               },
               {
                 "t": "p",
-                "x": "FAST(Free Ad-supported Streaming TV)は、広告を基盤に無料コンテンツを提供するストリーミングTVサービスだ。ESTsoftは事業を通じて、ドラマ、バラエティ、ドキュメンタリーなど約1万8,000分(300時間)のコンテンツにAI吹き替え技術を適用した。"
+                "x": "CEO Jeong Ju-won, the presenter, introduced the project's intent, production process and how its interactive branches were designed. Mateo AI Studio won the grand prize at the 1st Korea AI International Film Festival with the AI short 'Mateo' (2024) and the grand prize at the 1st Busan International AI Film Festival with 'The Witness' (2024), and its 100% generative AI feature 'Raphael' (2026) is set for release in Korea on November 25."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "100% AIの時代劇\n『偉人劇場』初公開",
+          "body": "観客の選択で展開が変わるAI時代劇『偉人劇場』が釜山で公開された。",
+          "mini_headline": "AI時代劇『偉人劇場』",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "特に自社サービス「Perso Dubbing」の音声合成技術を改善し、原作の話者の声のトーンや感情表現を自然に再現できるようにしたほか、コンテンツの区間ごとの編集・ダウンロード機能を強化した。中南米市場を狙った「中立スペイン語」吹き替えの品質ガイドも整えた。"
+                "x": "マテオAIスタジオは、韓国コンテンツ振興院の支援を受けて制作した100%生成AIのインタラクティブ時代劇『偉人劇場』を、2026年11月20日に釜山国際映画祭アジアコンテンツ&フィルムマーケット(ACFM)で初公開した。釜山映像産業センターで開かれたACFM InnoAsia WIPショーケースで、作品の主要シーンとインタラクティブ構造を披露した。"
               },
               {
                 "t": "p",
-                "x": "事業にはKBS、SBS、MBC、EBS、ENA、KT Studio Genie、Channel Aなど国内の放送・コンテンツ企業が参加した。今年はKT Studio GenieのK-ショートドラマ1,958本、Channel Aの「新郎授業」、K20のビューティーバラエティ61本などにAI吹き替えを適用した。"
+                "x": "『偉人劇場』は金弘道、昭顕世子、崔溥をそれぞれ主人公とする全3話のエピソードで構成される。映像全体を100%生成AIで制作し、今回のショーケースでは檀園・金弘道編を先行公開した。観客が物語の主要な分岐点ごとに自ら選択し、その選択によって次の展開が変わるインタラクティブ構造が最大の特徴だ。"
               },
               {
                 "t": "p",
-                "x": "ESTsoftコンソーシアムは、K20の「TRENDON」とKT Studio Genieの「GENIE Shorts」など2つのFASTチャンネルを開設し、LG Channelsを通じてメキシコ、ペルー、チリ、コロンビア、アルゼンチンなど中南米5カ国へのコンテンツ供給を始めた。"
-              },
-              {
-                "t": "p",
-                "x": "AI吹き替えサービスの海外ユーザーも増えている。Perso Dubbingの累計登録者数は10月に60万人を突破し、2月より14万人増えた。8月から10月までの新規登録者の約90%は海外ユーザーだった。"
-              },
-              {
-                "t": "p",
-                "x": "10月にはグローバルAI映像プラットフォーム企業HeyGenの自社評価で、Perso Dubbingが8.3点を記録した。同月フランスで開かれた「MIPCOM 2026」では、グローバル放送・ストリーミング技術企業Amagiとコンテンツのローカライズ協力について協議した。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoftは今後、K-FASTのサービス地域をスペインと北米に広げ、Samsung TVのチャンネルなどへ流通経路を多様化する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoftのチョン・サンウォン代表は「K-FAST事業によって、自社のPerso Dubbingの技術高度化とグローバル展開を同時に進めることができた」とし、「国家事業と自社の技術力を連携させ、海外市場で競争力を高め、持続的な成果を生み出していく」と述べた。"
+                "x": "チョン・ジュウォン代表が発表者として登壇し、企画意図と制作過程、インタラクティブな分岐の設計方法を紹介した。マテオAIスタジオはAI短編『マテオ』(2024)で第1回大韓民国AI国際映画祭の大賞を、『目撃者』(2024)で第1回釜山国際AI映画祭の大賞を受賞しており、100%生成AI長編『ラファエル』(2026)の11月25日の韓国公開を控えている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ESTsoft AI配音\n助K-内容进军拉美",
-          "body": "ESTsoft用AI为300小时K-内容配音，并在拉美开设了FAST频道。",
-          "mini_headline": "ESTsoft AI配音",
+          "headline": "100% AI历史剧\n《伟人剧场》首次公开",
+          "body": "可随观众选择改变剧情走向的AI历史剧《伟人剧场》在釜山首次亮相。",
+          "mini_headline": "AI历史剧《伟人剧场》",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "通过AI配音特化K-FAST推广支持项目完成本地化的主要IP图片（图片：ESTsoft）"
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "ESTsoft正利用人工智能（AI）配音技术，扩大韩国广播内容进军拉美市场。公司在2年间完成了300小时内容的本地化，并开设了2个向拉美5国提供韩国内容的FAST频道。"
+                "x": "马特奥AI工作室在韩国内容振兴院支持下制作的100%生成式AI互动历史剧《伟人剧场》，于2026年11月20日在釜山国际电影节亚洲内容与电影市场（ACFM）首次公开。在釜山影像产业中心举行的ACFM InnoAsia WIP展示会上，团队公开了作品的主要场景和互动结构。"
               },
               {
                 "t": "p",
-                "x": "AI服务企业ESTsoft（代表Chung Sang-won）19日表示，已连续2年承担韩国科学技术信息通信部和韩国信息通信振兴协会（KAIT）推进的“AI配音特化K-FAST推广支持项目”，推动AI配音技术升级和海外发行扩张。"
+                "x": "《伟人剧场》共3集，分别以金弘道、昭显世子和崔溥为主人公。影像全部由100%生成式AI制作，此次展示会率先公开了檀园金弘道篇。最大特点是互动结构：观众在故事的每个关键分岔点亲自做出选择，下一步剧情随之改变。"
               },
               {
                 "t": "p",
-                "x": "FAST（Free Ad-supported Streaming TV）是以广告为基础提供免费内容的流媒体TV服务。ESTsoft通过该项目，将AI配音技术应用于电视剧、综艺、纪录片等约1万8,000分钟（300小时）的内容。"
-              },
-              {
-                "t": "p",
-                "x": "尤其是，公司改进了自有服务“Perso Dubbing”的语音合成技术，自然再现原说话者的音色和情感表达，并强化了按内容片段编辑和下载的功能。公司还制定了面向拉美市场的“中性西班牙语”配音质量指南。"
-              },
-              {
-                "t": "p",
-                "x": "KBS、SBS、MBC、EBS、ENA、KT Studio Genie、Channel A等韩国广播及内容企业参与了该项目。今年，AI配音被应用于KT Studio Genie的1,958部K-短剧、Channel A的《新郎授课》以及K20的61部美妆综艺内容等。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft联合体开设了K20的“TRENDON”和KT Studio Genie的“GENIE Shorts”等2个FAST频道，并通过LG Channels开始向墨西哥、秘鲁、智利、哥伦比亚、阿根廷等拉美5国供应内容。"
-              },
-              {
-                "t": "p",
-                "x": "AI配音服务的海外用户也在增加。Perso Dubbing累计注册用户于10月突破60万，比2月增加14万。8月至10月新注册用户中约90%为海外用户。"
-              },
-              {
-                "t": "p",
-                "x": "10月，在全球AI视频平台企业HeyGen的内部评测中，Perso Dubbing获得8.3分。同月，在法国举行的“MIPCOM 2026”上，ESTsoft与全球广播及流媒体技术企业Amagi讨论了内容本地化合作方案。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft计划今后将K-FAST服务地区扩大到西班牙和北美，并通过Samsung TV频道等实现发行渠道多元化。"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft代表Chung Sang-won表示：“通过K-FAST项目，我们得以同时推进自有Perso Dubbing的技术升级和全球扩张。”他还说：“我们将把国家项目与自身技术实力相结合，提升在海外市场的竞争力，持续创造成果。”"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "ESTsoft AI dubbing takes\nK-content to Latin America",
-          "body": "ESTsoft used AI to dub 300 hours of K-content and opened FAST channels for Latin America.",
-          "mini_headline": "ESTsoft AI dubbing",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "Major IP localized through the AI dubbing-focused K-FAST expansion support program (Photo: ESTsoft)"
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft is using artificial intelligence (AI) dubbing technology to expand Korean broadcast content into the Latin American market. Over 2 years it localized 300 hours of content and opened 2 FAST channels that deliver Korean content to 5 Latin American countries."
-              },
-              {
-                "t": "p",
-                "x": "AI service company ESTsoft (CEO Chung Sang-won) said on the 19th that it carried out the 'K-FAST Expansion Support Program Specialized in AI Dubbing,' run by the Ministry of Science and ICT and the Korea Association for ICT Promotion (KAIT), for 2 consecutive years, advancing its AI dubbing technology and expanding overseas distribution."
-              },
-              {
-                "t": "p",
-                "x": "FAST (Free Ad-supported Streaming TV) is a streaming TV service that offers free content supported by advertising. Through the program, ESTsoft applied AI dubbing technology to about 1만 8,000분 (300 hours) of content, including dramas, variety shows and documentaries."
-              },
-              {
-                "t": "p",
-                "x": "In particular, it improved the speech synthesis of its own service, Perso Dubbing, to render the original speaker's vocal tone and emotional expression naturally, and strengthened segment-level editing and download features. It also prepared a 'neutral Spanish' dubbing quality guide aimed at the Latin American market."
-              },
-              {
-                "t": "p",
-                "x": "Korean broadcasters and content companies including KBS, SBS, MBC, EBS, ENA, KT Studio Genie and Channel A took part in the program. This year, AI dubbing was applied to 1,958 K-short dramas from KT Studio Genie, Channel A's 'Groom Class' and 61 beauty variety titles from K20, among others."
-              },
-              {
-                "t": "p",
-                "x": "The ESTsoft consortium opened 2 FAST channels, K20's TRENDON and KT Studio Genie's GENIE Shorts, and began supplying content through LG Channels to 5 Latin American countries, including Mexico, Peru, Chile, Colombia and Argentina."
-              },
-              {
-                "t": "p",
-                "x": "Overseas use of the AI dubbing service is also growing. Perso Dubbing's cumulative sign-ups passed 60만 in October, up 14만 from February. About 90% of new sign-ups from August to October came from overseas users."
-              },
-              {
-                "t": "p",
-                "x": "In October, Perso Dubbing scored 8.3 points in an internal evaluation by HeyGen, a global AI video platform company. The same month, at MIPCOM 2026 in France, ESTsoft discussed content localization cooperation with Amagi, a global broadcast and streaming technology company."
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft plans to expand K-FAST service regions to Spain and North America and to diversify its distribution channels, including Samsung TV channels."
-              },
-              {
-                "t": "p",
-                "x": "\"Through the K-FAST program, we were able to advance the technology of our Perso Dubbing and expand globally at the same time,\" said ESTsoft CEO Chung Sang-won. \"By linking the national project with our own technology, we will strengthen our competitiveness in overseas markets and keep delivering results.\""
+                "x": "代表Jeong Ju-won作为发言人登台，介绍了策划意图、制作过程和互动分支的设计方式。马特奥AI工作室曾凭AI短片《马特奥》（2024）获得第1届大韩民国AI国际电影节大奖，凭《目击者》（2024）获得第1届釜山国际AI电影节大奖，其100%生成式AI长片《拉斐尔》（2026）将于11月25日在韩国上映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El doblaje con AI de ESTsoft\nlleva K-content a Latinoamérica",
-          "body": "ESTsoft dobló con AI 300 horas de K-content y abrió canales FAST para Latinoamérica.",
-          "mini_headline": "Doblaje con AI de ESTsoft",
+          "headline": "Drama de época 100% AI:\n'Wiin Geukjang' se estrena",
+          "body": "'Wiin Geukjang', un drama de época con AI cuya trama cambia según las decisiones del público, se presentó en Busan.",
+          "mini_headline": "Drama de época con AI 'Wiin Geukjang'",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42794_64292_5342.jpg",
-                "cap": "Imagen de las principales IP localizadas con el programa de apoyo a la expansión K-FAST especializado en doblaje con AI (foto: ESTsoft)"
+                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
               },
               {
                 "t": "p",
-                "x": "ESTsoft está ampliando la llegada de contenidos de la televisión coreana al mercado latinoamericano con tecnología de doblaje por inteligencia artificial (AI). En 2 años localizó 300 horas de contenido y abrió 2 canales FAST que ofrecen contenido coreano en 5 países de Latinoamérica."
+                "x": "Mateo AI Studio presentó por primera vez el 20 de noviembre de 2026, en el Asian Contents & Film Market (ACFM) del Festival Internacional de Cine de Busan, 'Wiin Geukjang', un drama de época interactivo hecho al 100% con AI generativa y producido con el apoyo de la Agencia Coreana de Contenidos Creativos. En el showcase ACFM InnoAsia WIP, celebrado en el Centro de la Industria Audiovisual de Busan, mostró las escenas principales y la estructura interactiva de la obra."
               },
               {
                 "t": "p",
-                "x": "La empresa de servicios de AI ESTsoft (director ejecutivo: Chung Sang-won) informó el día 19 que ejecutó durante 2 años consecutivos el 'Programa de apoyo a la expansión K-FAST especializado en doblaje con AI', impulsado por el Ministerio de Ciencia y TIC y la Asociación Coreana para la Promoción de las TIC (KAIT), con lo que avanzó en su tecnología de doblaje con AI y amplió su distribución internacional."
+                "x": "'Wiin Geukjang' consta de 3 episodios protagonizados, respectivamente, por Kim Hong-do, el príncipe heredero Sohyeon y Choe Bu. Todo el metraje se realizó al 100% con AI generativa, y en el showcase se presentó primero el episodio de Danwon Kim Hong-do. Su rasgo principal es una estructura interactiva en la que el público toma decisiones en cada punto clave de la historia y el desarrollo siguiente cambia según esas elecciones."
               },
               {
                 "t": "p",
-                "x": "FAST (Free Ad-supported Streaming TV) es un servicio de TV en streaming que ofrece contenido gratuito financiado con publicidad. A través del programa, ESTsoft aplicó su tecnología de doblaje con AI a unos 1만 8,000분 (300 horas) de contenido, entre dramas, programas de variedades y documentales."
-              },
-              {
-                "t": "p",
-                "x": "En particular, mejoró la síntesis de voz de su servicio propio Perso Dubbing para reproducir con naturalidad el tono de voz y la expresión emocional del hablante original, y reforzó las funciones de edición y descarga por segmentos. También elaboró una guía de calidad de doblaje en 'español neutro' orientada al mercado latinoamericano."
-              },
-              {
-                "t": "p",
-                "x": "En el programa participaron empresas coreanas de radiodifusión y contenidos como KBS, SBS, MBC, EBS, ENA, KT Studio Genie y Channel A. Este año se aplicó el doblaje con AI a 1958 K-dramas cortos de KT Studio Genie, al programa 'Groom Class' de Channel A y a 61 títulos de variedades de belleza de K20, entre otros."
-              },
-              {
-                "t": "p",
-                "x": "El consorcio de ESTsoft abrió 2 canales FAST, TRENDON de K20 y GENIE Shorts de KT Studio Genie, y empezó a suministrar contenido a través de LG Channels a 5 países latinoamericanos, entre ellos México, Perú, Chile, Colombia y Argentina."
-              },
-              {
-                "t": "p",
-                "x": "También crecen los usuarios internacionales del servicio de doblaje con AI. Los registros acumulados de Perso Dubbing superaron los 60만 en octubre, 14만 más que en febrero. Cerca del 90% de los nuevos registros entre agosto y octubre correspondió a usuarios del extranjero."
-              },
-              {
-                "t": "p",
-                "x": "En octubre, Perso Dubbing obtuvo 8.3 puntos en una evaluación interna de HeyGen, empresa global de plataformas de video con AI. Ese mismo mes, en MIPCOM 2026, celebrado en Francia, ESTsoft conversó con Amagi, empresa global de tecnología de radiodifusión y streaming, sobre la cooperación en localización de contenidos."
-              },
-              {
-                "t": "p",
-                "x": "ESTsoft planea ampliar las regiones del servicio K-FAST a España y Norteamérica, y diversificar sus canales de distribución, entre ellos los canales de Samsung TV."
-              },
-              {
-                "t": "p",
-                "x": "\"Con el programa K-FAST pudimos impulsar a la vez el avance tecnológico de nuestro Perso Dubbing y su expansión global\", dijo Chung Sang-won, director ejecutivo de ESTsoft. \"Vincularemos el proyecto nacional con nuestra propia capacidad tecnológica para ser más competitivos en los mercados internacionales y seguir generando resultados\"."
+                "x": "El director ejecutivo Jeong Ju-won expuso la intención del proyecto, el proceso de producción y el diseño de las ramificaciones interactivas. Mateo AI Studio ganó el gran premio del 1.º Festival Internacional de Cine de AI de Corea con el corto de AI 'Mateo' (2024) y el del 1.º Festival Internacional de Cine de AI de Busan con 'El testigo' (2024), y prepara el estreno en Corea, el 25 de noviembre, de 'Raphael' (2026), su largometraje hecho al 100% con AI generativa."
               }
             ]
           }

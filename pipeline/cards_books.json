@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "books",
   "cards": [
     {
-      "id": "globalcomix-ai-relaunch",
+      "id": "pangram-doj-detector",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "GlobalComix,\nAI 독서 안내로 재출시",
-      "body": "GlobalComix가 만화 추천·질문 응답 AI 챗봇을 달고 재출시했다.",
-      "mini_headline": "GlobalComix, AI로 전환",
+      "headline": "DOJ, Pangram으로\n변호인 AI 사용 겨냥",
+      "body": "연방 검찰이 변호인 서면을 Pangram에 돌려 AI-text 점수를 법정에 낸다.",
+      "mini_headline": "DOJ, 법정서 Pangram 활용",
       "tool": "Books",
-      "source": "The Comics Beat",
-      "url": "https://www.comicsbeat.com/globalcomixs-ai-powered-refresh-looks-a-lot-like-its-competition/",
+      "source": "404 Media",
+      "url": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,209 +19,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
           },
           {
             "t": "p",
-            "x": "GlobalComix는 디지털 만화의 미래에 인공지능을 심으려 한다. 그런데 최근 리디자인을 두고 의문이 적지 않다. 1300만 달러 투자를 받고 AI-assisted 현지화 기업 INKR을 인수한 직후, 회사는 새 스토어와 함께 AI-powered 탐색 기능을 내놨다. AI 어시스턴트와 만화 페이지 자동 설명, 크리에이터 스포트라이트다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-            "cap": "Tom Cheredar가 GlobalComix의 새 AI 어시스턴트와 나눈 대화."
+            "x": "404 Media가 검토한 법원 제출 문서를 보면 법무부(Department of Justice) 변호사들은 AI 글 탐지 서비스 Pangram 결과를 내세워 상대 변호인이 AI로 법률 주장을 쓴다고 주장한다. 한 사건에서는 상대 변호인이 “ChatGPT 변론(defense by ChatGPT)”을 하며 “AI slop” 서면을 낸다고 법원에 말하기도 했다."
           },
           {
             "t": "p",
-            "x": "Weird City Media의 Tom Cheredar는 이 AI가 IGN, Newsarama, CBR, The Beat 같은 만화 저널리즘 플랫폼에서 데이터를 모을 수 있었다고 말한 사실을 확인했다. GlobalComix는 크리에이터의 만화를 AI 모델 학습에 쓰지 않고 페이지를 분석해 설명과 추천을 만들 뿐이라고 밝혔다. 카탈로그 전체에 걸친 추천 기능에서 크리에이터가 빠질 방법이 없다는 점도 확인했다. 학습 출처를 묻자 어시스턴트는 “특정 학습 출처나 데이터셋에 대해서는 말씀드릴 수 없습니다”라고 답했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-            "cap": "GlobalComix의 바뀐 레이아웃"
+            "x": "정부 측을 비롯한 변호사들은 서로의 AI 사용을 잡아내려 들고, 잡아낸 사용 흔적을 법정 주장에 끌어다 쓴다. 정부 측 변호사들은 “이 사건의 신청 절차는 법을 다루려는 로봇이 생성한 문서에 답변서를 쓰는 것과 같다”고 썼다."
           },
           {
             "t": "p",
-            "x": "리디자인 뒤 주황색이던 브랜드 색은 초록색이 됐는데, 경쟁사 Sweet Shop과 눈에 띄게 닮았다. Sweet Shop의 CEO Kenny Meyers는 디지털 만화의 AI 사용을 비판해 왔다. 크리에이터 여럿이 작품을 내리겠다고 밝혔다. 업데이트: CEO Henrik Rydberg는 회사가 자체 모델이 아닌 Google의 Gemini를 쓴다고 해명했다."
+            "x": "사건의 중심 인물은 70세 인도 남성 Khalwinder Bhengura다. 2022년 이민 비자로 U.S.(미국)에 들어온 그는 2024년 시민권자라고 거짓 진술한 뒤 Texas에서 유권자 등록을 했다. 10월 세 가지 혐의 중 두 가지에서 유죄 판결이 났고, 곧 추방될 예정이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GlobalComix relaunches\nwith an AI reading guide",
-          "body": "GlobalComix relaunched with an AI chatbot that recommends comics and answers reader questions.",
-          "mini_headline": "GlobalComix goes AI",
+          "headline": "DOJ turns Pangram AI detector\non defense attorneys",
+          "body": "Federal prosecutors are running defense filings through Pangram and citing its AI-text scores in court.",
+          "mini_headline": "DOJ uses Pangram in court",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComix is looking to embed artificial intelligence into the future of digital comics, but its latest redesign has raised more than a few eyebrows. Fresh off securing $13 million in funding and acquiring the AI-assisted localization company INKR, it unveiled a revamped storefront alongside new AI-powered discovery features: an AI assistant, automated comic-page descriptions, and creator spotlights."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Tom Cheredar’s conversation with GlobalComix’s new AI assistant."
+                "x": "Lawyers for the Department of Justice are using the AI writing detection service Pangram to argue that opposing attorneys are using AI to write legal arguments, and in one case told the court that opposing counsel was doing “defense by ChatGPT,” and writing “AI slop” filings, according to court filings reviewed by 404 Media."
               },
               {
                 "t": "p",
-                "x": "Weird City Media’s Tom Cheredar found that the AI said it had been able to scrape data from comics journalism platforms such as IGN, Newsarama, CBR and The Beat. GlobalComix maintained that it does not use creators’ comics to train AI models, instead analyzing pages to generate descriptions and recommendations, and confirmed creators cannot opt out of its catalog-wide recommendation features. Pressed on training sources, the assistant replied: “I can’t speak to specific training sources or datasets.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "GlobalComix’s updated layout"
+                "x": "The filings show attorneys, including those working for the government, are trying to catch each other using AI, then are citing their opponents’ AI use in their arguments to the court. “Motions practice in this case is the equivalent of writing responses to documents generated by a robot that is attempting to practice law,” government attorneys wrote."
               },
               {
                 "t": "p",
-                "x": "The redesign swaps orange branding for green and bears a striking resemblance to rival Sweet Shop, whose CEO Kenny Meyers has criticized AI in digital comics. Several creators said they would withdraw their work. Update: CEO Henrik Rydberg clarified the company uses Google’s Gemini rather than its own proprietary model."
+                "x": "The case centers on Khalwinder Bhengura, a 70-year-old Indian man who entered the U.S. on an immigrant visa in 2022 and registered to vote in Texas in 2024 after falsely stating he was a citizen. He was found guilty in October on two of three counts and is set to be deported."
               }
             ]
           }
         },
         "ko": {
-          "headline": "GlobalComix,\nAI 독서 안내로 재출시",
-          "body": "GlobalComix가 만화 추천·질문 응답 AI 챗봇을 달고 재출시했다.",
-          "mini_headline": "GlobalComix, AI로 전환",
+          "headline": "DOJ, Pangram으로\n변호인 AI 사용 겨냥",
+          "body": "연방 검찰이 변호인 서면을 Pangram에 돌려 AI-text 점수를 법정에 낸다.",
+          "mini_headline": "DOJ, 법정서 Pangram 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComix는 디지털 만화의 미래에 인공지능을 심으려 한다. 그런데 최근 리디자인을 두고 의문이 적지 않다. 1300만 달러 투자를 받고 AI-assisted 현지화 기업 INKR을 인수한 직후, 회사는 새 스토어와 함께 AI-powered 탐색 기능을 내놨다. AI 어시스턴트와 만화 페이지 자동 설명, 크리에이터 스포트라이트다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Tom Cheredar가 GlobalComix의 새 AI 어시스턴트와 나눈 대화."
+                "x": "404 Media가 검토한 법원 제출 문서를 보면 법무부(Department of Justice) 변호사들은 AI 글 탐지 서비스 Pangram 결과를 내세워 상대 변호인이 AI로 법률 주장을 쓴다고 주장한다. 한 사건에서는 상대 변호인이 “ChatGPT 변론(defense by ChatGPT)”을 하며 “AI slop” 서면을 낸다고 법원에 말하기도 했다."
               },
               {
                 "t": "p",
-                "x": "Weird City Media의 Tom Cheredar는 이 AI가 IGN, Newsarama, CBR, The Beat 같은 만화 저널리즘 플랫폼에서 데이터를 모을 수 있었다고 말한 사실을 확인했다. GlobalComix는 크리에이터의 만화를 AI 모델 학습에 쓰지 않고 페이지를 분석해 설명과 추천을 만들 뿐이라고 밝혔다. 카탈로그 전체에 걸친 추천 기능에서 크리에이터가 빠질 방법이 없다는 점도 확인했다. 학습 출처를 묻자 어시스턴트는 “특정 학습 출처나 데이터셋에 대해서는 말씀드릴 수 없습니다”라고 답했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "GlobalComix의 바뀐 레이아웃"
+                "x": "정부 측을 비롯한 변호사들은 서로의 AI 사용을 잡아내려 들고, 잡아낸 사용 흔적을 법정 주장에 끌어다 쓴다. 정부 측 변호사들은 “이 사건의 신청 절차는 법을 다루려는 로봇이 생성한 문서에 답변서를 쓰는 것과 같다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "리디자인 뒤 주황색이던 브랜드 색은 초록색이 됐는데, 경쟁사 Sweet Shop과 눈에 띄게 닮았다. Sweet Shop의 CEO Kenny Meyers는 디지털 만화의 AI 사용을 비판해 왔다. 크리에이터 여럿이 작품을 내리겠다고 밝혔다. 업데이트: CEO Henrik Rydberg는 회사가 자체 모델이 아닌 Google의 Gemini를 쓴다고 해명했다."
+                "x": "사건의 중심 인물은 70세 인도 남성 Khalwinder Bhengura다. 2022년 이민 비자로 U.S.(미국)에 들어온 그는 2024년 시민권자라고 거짓 진술한 뒤 Texas에서 유권자 등록을 했다. 10월 세 가지 혐의 중 두 가지에서 유죄 판결이 났고, 곧 추방될 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GlobalComix\nAI案内役で再始動",
-          "body": "GlobalComixが漫画を薦め読者の質問に答えるAIチャットボットを備えて再始動した。",
-          "mini_headline": "GlobalComix、AIへ舵",
+          "headline": "DOJ、Pangramで\n弁護側のAI使用を追及",
+          "body": "連邦検察が弁護側書面をPangramにかけ、AI-textスコアを法廷で引用している。",
+          "mini_headline": "DOJ、法廷でPangram活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComixはデジタルコミックの未来に人工知能を組み込もうとしているが、最新のリデザインには少なからず疑問の声が上がった。1300万ドルの資金調達と、AI-assistedのローカライズ企業INKRの買収を終えたばかりの同社は、刷新したストアとともにAI-poweredの新たな発見機能を公開した。AIアシスタント、漫画ページの自動説明、クリエイター紹介である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Tom CheredarとGlobalComixの新しいAIアシスタントとの対話。"
+                "x": "404 Mediaが確認した裁判資料によると、司法省（Department of Justice）の弁護士らはAI文章検出サービスPangramを使い、相手方弁護士がAIで法的主張を書いていると主張している。ある事件では、相手方が「ChatGPTによる弁護（defense by ChatGPT）」を行い、「AI slop」の書面を出していると法廷で述べた。"
               },
               {
                 "t": "p",
-                "x": "Weird City MediaのTom Cheredarは、このAIがIGN、Newsarama、CBR、The Beatといったコミック報道プラットフォームからデータを収集できたと述べたことを確認した。GlobalComixは、クリエイターの漫画をAIモデルの学習には使わず、ページを分析して説明や推薦を生成しているだけだと主張し、カタログ全体に及ぶ推薦機能からクリエイターがオプトアウトできないことも認めた。学習元を問われたアシスタントは「特定の学習元やデータセットについてはお答えできません」と返した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "GlobalComixの新しいレイアウト"
+                "x": "資料からは、政府側を含む弁護士が互いのAI使用を見抜こうとし、相手のAI使用を法廷での主張に引用している様子がうかがえる。政府側弁護士は「本件の申立て手続きは、法律実務をこなそうとするロボットが生成した文書に答弁を書くに等しい」と記した。"
               },
               {
                 "t": "p",
-                "x": "リデザインではオレンジのブランドカラーが緑に替わり、競合Sweet Shopと驚くほど似ている。Sweet ShopのCEO、Kenny MeyersはデジタルコミックへのAI導入を批判してきた。複数のクリエイターが作品を引き上げると表明した。追記：CEOのHenrik Rydbergは、同社が独自モデルではなくGoogleのGeminiを使っていると説明した。"
+                "x": "事件の中心は70歳のインド人男性Khalwinder Bhenguraである。2022年に移民ビザでU.S.（米国）に入国し、2024年に市民だと偽ってTexasで有権者登録をした。10月に三つの罪状のうち二つで有罪となり、国外退去となる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GlobalComix\n携AI导读重新上线",
-          "body": "GlobalComix重新上线，新增可推荐漫画并回答读者提问的AI聊天机器人。",
-          "mini_headline": "GlobalComix转向AI",
+          "headline": "DOJ用Pangram\n检测辩护律师的AI使用",
+          "body": "联邦检察官用Pangram检测辩方文件，并在法庭上引用其AI-text评分。",
+          "mini_headline": "DOJ在法庭使用Pangram",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComix希望把人工智能嵌入数字漫画的未来，但其最新改版引来了不少质疑。公司刚完成1300万美元融资，并收购了AI-assisted本地化公司INKR，随即推出焕然一新的商店页面，以及一系列AI-powered发现功能：AI助手、漫画页面自动描述和创作者聚焦。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Tom Cheredar与GlobalComix新AI助手的对话。"
+                "x": "据404 Media查阅的法庭文件，司法部（Department of Justice）的律师正借助AI写作检测服务Pangram，指称对方律师用AI撰写法律论点；在一起案件中，他们向法庭称对方律师在搞“ChatGPT辩护”（defense by ChatGPT），提交的是“AI slop”文书。"
               },
               {
                 "t": "p",
-                "x": "Weird City Media的Tom Cheredar发现，这个AI称自己能够从IGN、Newsarama、CBR和The Beat等漫画新闻平台抓取数据。GlobalComix坚称不会用创作者的漫画训练AI模型，而是通过分析页面来生成描述和推荐，并确认创作者无法退出覆盖整个作品库的推荐功能。被追问训练来源时，助手回答：“我无法谈论具体的训练来源或数据集。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "GlobalComix改版后的界面"
+                "x": "文件显示，包括政府律师在内的律师们试图抓住彼此使用AI的把柄，再在向法庭提出的论点中援引对手的AI使用。政府律师写道：“本案的动议程序，相当于为一台试图从事法律工作的机器人生成的文件撰写回应。”"
               },
               {
                 "t": "p",
-                "x": "改版将橙色品牌色换成绿色，与竞争对手Sweet Shop高度相似，而Sweet Shop的CEO Kenny Meyers曾批评数字漫画中的AI。多位创作者表示将撤下作品。更新：CEO Henrik Rydberg澄清，公司使用的是Google的Gemini，而非自研模型。"
+                "x": "案件主角是70岁的印度男子Khalwinder Bhengura，他于2022年持移民签证进入U.S.（美国），2024年谎称自己是公民后在Texas登记为选民。他在10月被裁定三项罪名中的两项成立，即将被驱逐出境。"
               }
             ]
           }
         },
         "es": {
-          "headline": "GlobalComix se relanza\ncon una guía de lectura con AI",
-          "body": "GlobalComix se relanzó con un chatbot de AI que recomienda cómics y responde a las preguntas de los lectores.",
-          "mini_headline": "GlobalComix apuesta por la AI",
+          "headline": "El DOJ usa el detector Pangram\ncontra abogados defensores",
+          "body": "Fiscales federales pasan escritos de la defensa por Pangram y citan en el tribunal sus puntuaciones de AI-text.",
+          "mini_headline": "El DOJ usa Pangram en tribunales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComix busca integrar la inteligencia artificial en el futuro del cómic digital, pero su último rediseño ha despertado no pocas dudas. Tras cerrar una financiación de 13 millones de dólares y adquirir INKR, empresa de localización AI-assisted, presentó una tienda renovada junto con nuevas funciones de descubrimiento AI-powered: un asistente de AI, descripciones automáticas de páginas de cómic y espacios destacados para creadores."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Conversación de Tom Cheredar con el nuevo asistente de AI de GlobalComix."
+                "x": "Abogados del Departamento de Justicia (Department of Justice) usan el servicio de detección de escritura con IA Pangram para argumentar que los abogados contrarios redactan sus argumentos legales con IA, y en un caso dijeron al tribunal que la defensa practicaba una “defensa por ChatGPT” y presentaba escritos de “AI slop”, según documentos judiciales revisados por 404 Media."
               },
               {
                 "t": "p",
-                "x": "Tom Cheredar, de Weird City Media, comprobó que la AI afirmaba haber podido extraer datos de plataformas de periodismo de cómics como IGN, Newsarama, CBR y The Beat. GlobalComix sostuvo que no utiliza los cómics de los creadores para entrenar modelos de AI, sino que analiza las páginas para generar descripciones y recomendaciones, y confirmó que los creadores no pueden excluirse de sus funciones de recomendación para todo el catálogo. Al ser preguntado por sus fuentes de entrenamiento, el asistente respondió: “No puedo hablar de fuentes o conjuntos de datos de entrenamiento específicos”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "El nuevo diseño de GlobalComix"
+                "x": "Los documentos muestran que abogados, incluidos los que trabajan para el gobierno, intentan descubrirse unos a otros usando IA y luego citan ese uso en sus argumentos ante el tribunal. “La práctica de mociones en este caso equivale a responder documentos generados por un robot que intenta ejercer el derecho”, escribieron los abogados del gobierno."
               },
               {
                 "t": "p",
-                "x": "El rediseño cambia la identidad naranja por el verde y guarda un parecido notable con su rival Sweet Shop, cuyo CEO, Kenny Meyers, ha criticado la AI en el cómic digital. Varios creadores dijeron que retirarían su obra. Actualización: el CEO Henrik Rydberg aclaró que la empresa usa Gemini de Google y no un modelo propio."
+                "x": "El caso gira en torno a Khalwinder Bhengura, un hombre indio de 70 años que entró en U.S. (Estados Unidos) con una visa de inmigrante en 2022 y se registró para votar en Texas en 2024 tras declarar falsamente que era ciudadano. En octubre fue declarado culpable de dos de tres cargos y será deportado."
               }
             ]
           }
@@ -229,145 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "GlobalComix,\nAI 독서 안내로 재출시",
-          "body": "GlobalComix가 만화 추천·질문 응답 AI 챗봇을 달고 재출시했다.",
-          "mini_headline": "GlobalComix, AI로 전환",
+          "headline": "DOJ, Pangram으로\n변호인 AI 사용 겨냥",
+          "body": "연방 검찰이 변호인 서면을 Pangram에 돌려 AI-text 점수를 법정에 낸다.",
+          "mini_headline": "DOJ, 법정서 Pangram 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComix는 디지털 만화의 미래에 인공지능을 심으려 하지만, 최근 리디자인은 적잖은 의문을 낳았다. 1300만 달러 투자 유치와 AI-assisted 현지화 기업 INKR 인수 직후, 회사는 새로 꾸민 스토어와 함께 AI-powered 탐색 기능을 공개했다. AI 어시스턴트, 만화 페이지 자동 설명, 크리에이터 스포트라이트가 그것이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Tom Cheredar가 GlobalComix의 새 AI 어시스턴트와 나눈 대화."
+                "x": "404 Media가 검토한 법원 제출 문서에 따르면, 법무부(Department of Justice) 소속 변호사들이 AI 글 탐지 서비스 Pangram을 근거로 상대 변호인이 AI로 법률 주장을 쓴다고 주장하고 있다. 한 사건에서는 상대 변호인이 “ChatGPT 변론(defense by ChatGPT)”을 하고 “AI slop” 서면을 낸다고 법원에 말하기도 했다."
               },
               {
                 "t": "p",
-                "x": "Weird City Media의 Tom Cheredar는 이 AI가 IGN, Newsarama, CBR, The Beat 같은 만화 저널리즘 플랫폼에서 데이터를 수집할 수 있었다고 말한 사실을 확인했다. GlobalComix는 크리에이터의 만화를 AI 모델 학습에 쓰지 않고 페이지를 분석해 설명과 추천을 만들 뿐이라고 밝혔다. 또 카탈로그 전체에 적용되는 추천 기능에서 크리에이터가 빠질 수 없다는 점도 확인했다. 학습 출처를 묻자 어시스턴트는 “특정 학습 출처나 데이터셋에 대해서는 말씀드릴 수 없습니다”라고 답했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "GlobalComix의 바뀐 레이아웃"
+                "x": "문서를 보면 정부 측을 포함한 변호사들이 서로의 AI 사용을 잡아내려 하고, 상대의 AI 사용을 법정 주장에 인용한다. 정부 측 변호사들은 “이 사건의 신청 절차는 법을 다루려는 로봇이 생성한 문서에 답변서를 쓰는 것과 같다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "리디자인으로 주황색 브랜딩은 초록색으로 바뀌었고, 경쟁사 Sweet Shop과 눈에 띄게 닮았다. Sweet Shop의 CEO Kenny Meyers는 디지털 만화의 AI 사용을 비판해 왔다. 여러 크리에이터는 작품을 내리겠다고 밝혔다. 업데이트: CEO Henrik Rydberg는 회사가 자체 모델이 아닌 Google의 Gemini를 쓴다고 해명했다."
+                "x": "사건의 중심에는 70세 인도 남성 Khalwinder Bhengura가 있다. 그는 2022년 이민 비자로 U.S.(미국)에 입국했고, 2024년 시민권자라고 허위로 진술한 뒤 Texas에서 유권자 등록을 했다. 그는 10월 세 가지 혐의 중 두 가지에서 유죄 판결을 받았고 추방될 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GlobalComix\nAI案内役で再始動",
-          "body": "GlobalComixが漫画を薦め読者の質問に答えるAIチャットボットを備えて再始動した。",
-          "mini_headline": "GlobalComix、AIへ舵",
+          "headline": "DOJ、Pangramで\n弁護側のAI使用を追及",
+          "body": "連邦検察が弁護側書面をPangramにかけ、AI-textスコアを法廷で引用している。",
+          "mini_headline": "DOJ、法廷でPangram活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComixはデジタルコミックの未来に人工知能を組み込もうとしているが、最新のリデザインには少なからず疑問の声が上がった。1300万ドルの資金調達と、AI-assistedのローカライズ企業INKRの買収を終えたばかりの同社は、刷新したストアとともにAI-poweredの新たな発見機能を公開した。AIアシスタント、漫画ページの自動説明、クリエイター紹介である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Tom CheredarとGlobalComixの新しいAIアシスタントとの対話。"
+                "x": "404 Mediaが確認した裁判資料によると、司法省（Department of Justice）の弁護士らはAI文章検出サービスPangramを使い、相手方弁護士がAIで法的主張を書いていると主張している。ある事件では、相手方が「ChatGPTによる弁護（defense by ChatGPT）」を行い、「AI slop」の書面を出していると法廷で述べた。"
               },
               {
                 "t": "p",
-                "x": "Weird City MediaのTom Cheredarは、このAIがIGN、Newsarama、CBR、The Beatといったコミック報道プラットフォームからデータを収集できたと述べたことを確認した。GlobalComixは、クリエイターの漫画をAIモデルの学習には使わず、ページを分析して説明や推薦を生成しているだけだと主張し、カタログ全体に及ぶ推薦機能からクリエイターがオプトアウトできないことも認めた。学習元を問われたアシスタントは「特定の学習元やデータセットについてはお答えできません」と返した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "GlobalComixの新しいレイアウト"
+                "x": "資料からは、政府側を含む弁護士が互いのAI使用を見抜こうとし、相手のAI使用を法廷での主張に引用している様子がうかがえる。政府側弁護士は「本件の申立て手続きは、法律実務をこなそうとするロボットが生成した文書に答弁を書くに等しい」と記した。"
               },
               {
                 "t": "p",
-                "x": "リデザインではオレンジのブランドカラーが緑に替わり、競合Sweet Shopと驚くほど似ている。Sweet ShopのCEO、Kenny MeyersはデジタルコミックへのAI導入を批判してきた。複数のクリエイターが作品を引き上げると表明した。追記：CEOのHenrik Rydbergは、同社が独自モデルではなくGoogleのGeminiを使っていると説明した。"
+                "x": "事件の中心は70歳のインド人男性Khalwinder Bhenguraである。2022年に移民ビザでU.S.（米国）に入国し、2024年に市民だと偽ってTexasで有権者登録をした。10月に三つの罪状のうち二つで有罪となり、国外退去となる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GlobalComix\n携AI导读重新上线",
-          "body": "GlobalComix重新上线，新增可推荐漫画并回答读者提问的AI聊天机器人。",
-          "mini_headline": "GlobalComix转向AI",
+          "headline": "DOJ用Pangram\n检测辩护律师的AI使用",
+          "body": "联邦检察官用Pangram检测辩方文件，并在法庭上引用其AI-text评分。",
+          "mini_headline": "DOJ在法庭使用Pangram",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComix希望把人工智能嵌入数字漫画的未来，但其最新改版引来了不少质疑。公司刚完成1300万美元融资，并收购了AI-assisted本地化公司INKR，随即推出焕然一新的商店页面，以及一系列AI-powered发现功能：AI助手、漫画页面自动描述和创作者聚焦。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Tom Cheredar与GlobalComix新AI助手的对话。"
+                "x": "据404 Media查阅的法庭文件，司法部（Department of Justice）的律师正借助AI写作检测服务Pangram，指称对方律师用AI撰写法律论点；在一起案件中，他们向法庭称对方律师在搞“ChatGPT辩护”（defense by ChatGPT），提交的是“AI slop”文书。"
               },
               {
                 "t": "p",
-                "x": "Weird City Media的Tom Cheredar发现，这个AI称自己能够从IGN、Newsarama、CBR和The Beat等漫画新闻平台抓取数据。GlobalComix坚称不会用创作者的漫画训练AI模型，而是通过分析页面来生成描述和推荐，并确认创作者无法退出覆盖整个作品库的推荐功能。被追问训练来源时，助手回答：“我无法谈论具体的训练来源或数据集。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "GlobalComix改版后的界面"
+                "x": "文件显示，包括政府律师在内的律师们试图抓住彼此使用AI的把柄，再在向法庭提出的论点中援引对手的AI使用。政府律师写道：“本案的动议程序，相当于为一台试图从事法律工作的机器人生成的文件撰写回应。”"
               },
               {
                 "t": "p",
-                "x": "改版将橙色品牌色换成绿色，与竞争对手Sweet Shop高度相似，而Sweet Shop的CEO Kenny Meyers曾批评数字漫画中的AI。多位创作者表示将撤下作品。更新：CEO Henrik Rydberg澄清，公司使用的是Google的Gemini，而非自研模型。"
+                "x": "案件主角是70岁的印度男子Khalwinder Bhengura，他于2022年持移民签证进入U.S.（美国），2024年谎称自己是公民后在Texas登记为选民。他在10月被裁定三项罪名中的两项成立，即将被驱逐出境。"
               }
             ]
           }
         },
         "es": {
-          "headline": "GlobalComix se relanza\ncon una guía de lectura con AI",
-          "body": "GlobalComix se relanzó con un chatbot de AI que recomienda cómics y responde a las preguntas de los lectores.",
-          "mini_headline": "GlobalComix apuesta por la AI",
+          "headline": "El DOJ usa el detector Pangram\ncontra abogados defensores",
+          "body": "Fiscales federales pasan escritos de la defensa por Pangram y citan en el tribunal sus puntuaciones de AI-text.",
+          "mini_headline": "El DOJ usa Pangram en tribunales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_1128.png"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
               },
               {
                 "t": "p",
-                "x": "GlobalComix busca integrar la inteligencia artificial en el futuro del cómic digital, pero su último rediseño ha despertado no pocas dudas. Tras cerrar una financiación de 13 millones de dólares y adquirir INKR, empresa de localización AI-assisted, presentó una tienda renovada junto con nuevas funciones de descubrimiento AI-powered: un asistente de AI, descripciones automáticas de páginas de cómic y espacios destacados para creadores."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/ComicBot-004.png",
-                "cap": "Conversación de Tom Cheredar con el nuevo asistente de AI de GlobalComix."
+                "x": "Abogados del Departamento de Justicia (Department of Justice) usan el servicio de detección de escritura con IA Pangram para argumentar que los abogados contrarios redactan sus argumentos legales con IA, y en un caso dijeron al tribunal que la defensa practicaba una “defensa por ChatGPT” y presentaba escritos de “AI slop”, según documentos judiciales revisados por 404 Media."
               },
               {
                 "t": "p",
-                "x": "Tom Cheredar, de Weird City Media, comprobó que la AI afirmaba haber podido extraer datos de plataformas de periodismo de cómics como IGN, Newsarama, CBR y The Beat. GlobalComix sostuvo que no utiliza los cómics de los creadores para entrenar modelos de AI, sino que analiza las páginas para generar descripciones y recomendaciones, y confirmó que los creadores no pueden excluirse de sus funciones de recomendación para todo el catálogo. Al ser preguntado por sus fuentes de entrenamiento, el asistente respondió: “No puedo hablar de fuentes o conjuntos de datos de entrenamiento específicos”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/IMG_6875-1-scaled.png",
-                "cap": "El nuevo diseño de GlobalComix"
+                "x": "Los documentos muestran que abogados, incluidos los que trabajan para el gobierno, intentan descubrirse unos a otros usando IA y luego citan ese uso en sus argumentos ante el tribunal. “La práctica de mociones en este caso equivale a responder documentos generados por un robot que intenta ejercer el derecho”, escribieron los abogados del gobierno."
               },
               {
                 "t": "p",
-                "x": "El rediseño cambia la identidad naranja por el verde y guarda un parecido notable con su rival Sweet Shop, cuyo CEO, Kenny Meyers, ha criticado la AI en el cómic digital. Varios creadores dijeron que retirarían su obra. Actualización: el CEO Henrik Rydberg aclaró que la empresa usa Gemini de Google y no un modelo propio."
+                "x": "El caso gira en torno a Khalwinder Bhengura, un hombre indio de 70 años que entró en U.S. (Estados Unidos) con una visa de inmigrante en 2022 y se registró para votar en Texas en 2024 tras declarar falsamente que era ciudadano. En octubre fue declarado culpable de dos de tres cargos y será deportado."
               }
             ]
           }
@@ -375,15 +275,15 @@
       }
     },
     {
-      "id": "wrtn-crack-ip-expansion",
-      "source_lang": "ko",
+      "id": "ganjoor-claude-poetry",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "뤼튼, 크랙 이야기를\n웹툰·게임 IP로",
-      "body": "뤼튼이 AI 플랫폼 크랙의 자체 콘텐츠를 웹툰·웹소설·게임 IP로 키운다.",
-      "mini_headline": "크랙 콘텐츠, IP로",
+      "headline": "Claude, 페르시아 시\n1,000년을 풀다",
+      "body": "Arman Nejad가 Claude로 시 160만여 구절에 현대어 해설을 달았다.",
+      "mini_headline": "Claude, 페르시아 시 주해",
       "tool": "Books",
-      "source": "아주경제",
-      "url": "https://www.ajunews.com/amp/20261119124040877",
+      "source": "Iran International",
+      "url": "https://www.iranintl.com/en/202611205164",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -391,355 +291,455 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-            "cap": "이세영 뤼튼테크놀로지스 대표가 19일 부산 벡스코 제1전시장에 마련된 뤼튼 크랙 부스에서 간담회를 진행하고 있다."
+            "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+            "cap": "투란의 왕 Afrasiyab가 지켜보는 가운데 Siyavush가 폴로를 하는 장면. Shah Tahmasp 소장본 Ferdowsi의 『Shahnameh』에서. (The Metropolitan Museum of Art, 퍼블릭 도메인)"
           },
           {
             "t": "p",
-            "x": "\"크랙에서 만들어진 자체 콘텐츠를 웹툰, 웹소설, 게임 등으로 확장할 수 있다고 생각한다. 하나의 형식에 가두지 않고 다양한 콘텐츠 경험으로 넓혀 나가겠다.\" 이세영 뤼튼테크놀로지스 대표는 19일 부산 벡스코에서 열린 지스타 2026 미디어 간담회에서 \"크랙 오리지널 지식재산권(IP)을 지속적으로 발굴하고 글로벌 시장에 선보일 계획\"이라고 말했다. AI 캐릭터 채팅 서비스 크랙을 자체 콘텐츠를 생산하는 AI 엔터테인먼트 플랫폼으로 키우겠다는 구상이다."
-          },
-          {
-            "t": "p",
-            "x": "지스타 2026 메인 스폰서인 뤼튼은 한국·북미·일본에서 운영 중인 플랫폼을 더 많은 지역으로 넓히고, 이용자 반응을 얻은 오리지널 IP를 웹툰·애니메이션·게임 등으로 확장할 계획이다. 크랙은 세계관을 먼저 공개하고 이용자들이 직접 이야기를 만들어가는 과정에서 흥행 가능성을 확인한 뒤, 반응이 좋은 작품을 다른 형식으로 확장한다."
-          },
-          {
-            "t": "p",
-            "x": "이동재 최고제품책임자(CPO)는 \"현재 크랙에서 정산받는 크리에이터가 5500명을 넘어섰으며, 월 1000만원 이상을 받는 창작자도 수십 명에 이른다\"고 밝혔다."
+            "x": "토론토(Toronto)에 사는 이란 출신 소프트웨어 엔지니어 Arman Nejad가 Claude로 페르시아 2행시 160만여 구절을 현대 페르시아어(modern-Persian)로 풀었다. 대상은 인기 있는 무료 온라인 페르시아 시 도서관 Ganjoor에 실린 시들이다. 이전에 AI가 만든(AI-generated) 해설은 여성 이름 Delaray를 “dollar”라는 단어로 잘못 읽기도 했다."
           },
           {
             "t": "img",
-            "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-            "cap": "뤼튼 크랙의 인기 크리에이터 코기토가 19일 부산 벡스코에서 열린 지스타 간담회에서 상을 받는 모습"
+            "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+            "cap": "Ganjoor의 옛 AI 해설이 이름 Delaray를 “dollar”로 읽은 일을 비꼰 X의 페르시아어 게시물."
           },
           {
             "t": "p",
-            "x": "철학을 전공하는 대학생 크리에이터 코기토는 대표작 '아카데미 소환수로 빙의했다' 등으로 월 1000만원 수준의 수익을 올리고 있다며 \"창작에 대한 애정과 흥미가 있어야 수익이 발생하기까지의 시간을 버틸 수 있다\"고 말했다."
+            "x": "Nejad가 11월 9일 X에 도움을 청하자 mana.space와 zharf.ai가 크레딧을 내놓았다. 11월 16일까지 Rudaki부터 Shahriar까지 시인 245명 전원의 새 해설을 마쳤고, Ganjoor는 결과물을 웹사이트와 공개 데이터 저장소에 올렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+            "cap": "80문항 Konkour 시험지 정확도. Claude Opus 5.5(medium)와 Gemini 3.8 Flash(highest)가 80문항 중 74문항을 맞혀 동률을 이뤘다."
+          },
+          {
+            "t": "p",
+            "x": "Nejad는 모델을 고를 때 이란 대입 시험 Konkour를 썼다. 문학 30문항에서 Claude가 27문항을 맞혀 1위였다. 작업에는 요청 약 155,000건, 토큰 5억 6,600만 개, 비용 약 3,100달러가 들었다. 무작위로 뽑은 2행시 500구절을 검토해 보니 새 해설이 413건, 옛 해설이 네 건에서 더 낫다는 평가가 나왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+            "cap": "Nezami의 『Haft Peykar』를 바로잡은 해석을 AI로 그린 삽화."
+          },
+          {
+            "t": "p",
+            "x": "“Sudi는 Hafez를 주해했다.” Nejad는 이렇게 썼다. “2026년, 우리는 모든 시인을 주해했다.”"
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "뤼튼, 크랙 이야기를\n웹툰·게임 IP로",
-          "body": "뤼튼이 AI 플랫폼 크랙의 자체 콘텐츠를 웹툰·웹소설·게임 IP로 키운다.",
-          "mini_headline": "크랙 콘텐츠, IP로",
+        "en": {
+          "headline": "Claude explains 1,000 years\nof Persian poetry",
+          "body": "Toronto engineer Arman Nejad used Claude to write modern-Persian notes for over 1.6 million couplets on Ganjoor.",
+          "mini_headline": "Claude annotates Persian poetry",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "이세영 뤼튼테크놀로지스 대표가 19일 부산 벡스코 제1전시장에 마련된 뤼튼 크랙 부스에서 간담회를 진행하고 있다."
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "Siyavush plays polo as the Turanian king Afrasiyab watches, from Shah Tahmasp’s copy of Ferdowsi’s Shahnameh. (The Metropolitan Museum of Art, public domain)"
               },
               {
                 "t": "p",
-                "x": "\"크랙에서 만들어진 자체 콘텐츠를 웹툰, 웹소설, 게임 등으로 확장할 수 있다고 생각한다. 하나의 형식에 가두지 않고 다양한 콘텐츠 경험으로 넓혀 나가겠다.\" 이세영 뤼튼테크놀로지스 대표는 19일 부산 벡스코에서 열린 지스타 2026 미디어 간담회에서 \"크랙 오리지널 지식재산권(IP)을 지속적으로 발굴하고 글로벌 시장에 선보일 계획\"이라고 말했다. AI 캐릭터 채팅 서비스 크랙을 자체 콘텐츠를 생산하는 AI 엔터테인먼트 플랫폼으로 키우겠다는 구상이다."
-              },
-              {
-                "t": "p",
-                "x": "지스타 2026 메인 스폰서인 뤼튼은 한국·북미·일본에서 운영 중인 플랫폼을 더 많은 지역으로 넓히고, 이용자 반응을 얻은 오리지널 IP를 웹툰·애니메이션·게임 등으로 확장할 계획이다. 크랙은 세계관을 먼저 공개하고 이용자들이 직접 이야기를 만들어가는 과정에서 흥행 가능성을 확인한 뒤, 반응이 좋은 작품을 다른 형식으로 확장한다."
-              },
-              {
-                "t": "p",
-                "x": "이동재 최고제품책임자(CPO)는 \"현재 크랙에서 정산받는 크리에이터가 5500명을 넘어섰으며, 월 1000만원 이상을 받는 창작자도 수십 명에 이른다\"고 밝혔다."
+                "x": "A Toronto-based Iranian software engineer, Arman Nejad, has used Claude to explain more than 1.6 million Persian couplets in modern Persian on Ganjoor, a popular free online library of Persian poetry. An earlier AI-generated note had mistaken Delaray, a woman’s name, for the word “dollar.”"
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "뤼튼 크랙의 인기 크리에이터 코기토가 19일 부산 벡스코에서 열린 지스타 간담회에서 상을 받는 모습"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "A Persian-language post on X mocks Ganjoor's earlier AI-generated note, which read the name Delaray as the word \"dollar\"."
               },
               {
                 "t": "p",
-                "x": "철학을 전공하는 대학생 크리에이터 코기토는 대표작 '아카데미 소환수로 빙의했다' 등으로 월 1000만원 수준의 수익을 올리고 있다며 \"창작에 대한 애정과 흥미가 있어야 수익이 발생하기까지의 시간을 버틸 수 있다\"고 말했다."
+                "x": "On November 9 Nejad appealed for help on X; mana.space and zharf.ai donated credits. By November 16 he had finished new notes for all 245 poets, from Rudaki to Shahriar. Ganjoor has published them on its website and public data repository."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "Accuracy on the 80-question Konkour exam booklet. Claude Opus 5.5 (medium) and Gemini 3.8 Flash (highest) tied at 74 of 80."
+              },
+              {
+                "t": "p",
+                "x": "To pick a model, Nejad used Iran’s Konkour entrance exam; on the 30 literature questions Claude came first with 27. The run took about 155,000 requests, 566 million tokens and roughly $3,100. In a review of 500 random couplets, the new note was preferred in 413 cases and the old one in four."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "An AI-generated illustration of the corrected reading of Nezami's Haft Peykar."
+              },
+              {
+                "t": "p",
+                "x": "“Sudi did Hafez,” Nejad wrote. “In 2026, we did everyone.”"
               }
             ]
           }
         },
-        "en": {
-          "headline": "Wrtn turns Crack stories\ninto webtoon and game IP",
-          "body": "Wrtn is growing original content from its AI platform Crack into webtoon, web novel and game IP.",
-          "mini_headline": "Crack content becomes IP",
+        "ko": {
+          "headline": "Claude, 페르시아 시\n1,000년을 풀다",
+          "body": "Arman Nejad가 Claude로 시 160만여 구절에 현대어 해설을 달았다.",
+          "mini_headline": "Claude, 페르시아 시 주해",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "Lee Se-young, CEO of Wrtn Technologies, holds a press briefing at the Wrtn Crack booth in Exhibition Hall 1 of BEXCO in Busan on the 19th."
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "투란의 왕 Afrasiyab가 지켜보는 가운데 Siyavush가 폴로를 하는 장면. Shah Tahmasp 소장본 Ferdowsi의 『Shahnameh』에서. (The Metropolitan Museum of Art, 퍼블릭 도메인)"
               },
               {
                 "t": "p",
-                "x": "“I believe original content created on Crack can expand into webtoons, web novels, games and more. Rather than confining it to a single format, we will broaden it into a range of content experiences.” Lee Se-young, CEO of Wrtn Technologies, said at a G-STAR 2026 media briefing at BEXCO in Busan on the 19th that the company “plans to keep discovering Crack original intellectual property (IP) and bring it to the global market.” The idea is to grow Crack, an AI character chat service, into an AI entertainment platform that produces its own content."
-              },
-              {
-                "t": "p",
-                "x": "Wrtn, the main sponsor of G-STAR 2026, plans to extend the platform it runs in Korea, North America and Japan to more regions, and to expand original IP that has drawn a user response into webtoons, animation, games and other formats. Crack first releases a story world, gauges hit potential as users build the stories themselves, and then expands well-received works into other formats."
-              },
-              {
-                "t": "p",
-                "x": "Chief Product Officer (CPO) Lee Dong-jae said, “More than 5500 creators now receive payouts on Crack, and dozens of them earn 1000만원 (Korean won) or more a month.”"
+                "x": "토론토(Toronto)에 사는 이란 출신 소프트웨어 엔지니어 Arman Nejad가 Claude로 페르시아 2행시 160만여 구절을 현대 페르시아어(modern-Persian)로 풀었다. 대상은 인기 있는 무료 온라인 페르시아 시 도서관 Ganjoor에 실린 시들이다. 이전에 AI가 만든(AI-generated) 해설은 여성 이름 Delaray를 “dollar”라는 단어로 잘못 읽기도 했다."
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "Cogito, a popular creator on Wrtn Crack, receives an award at the G-STAR briefing at BEXCO in Busan on the 19th"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "Ganjoor의 옛 AI 해설이 이름 Delaray를 “dollar”로 읽은 일을 비꼰 X의 페르시아어 게시물."
               },
               {
                 "t": "p",
-                "x": "Cogito, a university student creator majoring in philosophy, said works including the signature title ‘Possessed as an Academy Summon’ bring in around 1000만원 a month, adding, “You need love for and interest in creating to endure the time it takes before income comes in.”"
+                "x": "Nejad가 11월 9일 X에 도움을 청하자 mana.space와 zharf.ai가 크레딧을 내놓았다. 11월 16일까지 Rudaki부터 Shahriar까지 시인 245명 전원의 새 해설을 마쳤고, Ganjoor는 결과물을 웹사이트와 공개 데이터 저장소에 올렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "80문항 Konkour 시험지 정확도. Claude Opus 5.5(medium)와 Gemini 3.8 Flash(highest)가 80문항 중 74문항을 맞혀 동률을 이뤘다."
+              },
+              {
+                "t": "p",
+                "x": "Nejad는 모델을 고를 때 이란 대입 시험 Konkour를 썼다. 문학 30문항에서 Claude가 27문항을 맞혀 1위였다. 작업에는 요청 약 155,000건, 토큰 5억 6,600만 개, 비용 약 3,100달러가 들었다. 무작위로 뽑은 2행시 500구절을 검토해 보니 새 해설이 413건, 옛 해설이 네 건에서 더 낫다는 평가가 나왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "Nezami의 『Haft Peykar』를 바로잡은 해석을 AI로 그린 삽화."
+              },
+              {
+                "t": "p",
+                "x": "“Sudi는 Hafez를 주해했다.” Nejad는 이렇게 썼다. “2026년, 우리는 모든 시인을 주해했다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wrtn、Crackの物語を\nウェブトゥーン・ゲームIPに",
-          "body": "WrtnがAI基盤Crackの独自作品をウェブトゥーン・ウェブ小説・ゲームIPへ広げる。",
-          "mini_headline": "Crack作品をIPへ",
+          "headline": "Claudeが読み解く\nペルシア詩1,000年",
+          "body": "Arman NejadがClaudeでGanjoorの160万超の対句を現代語で注釈した。",
+          "mini_headline": "Claudeがペルシア詩を注釈",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "19日、釜山BEXCO第1展示場のWrtn Crackブースで記者懇談会を行うWrtn TechnologiesのLee Se-young代表。"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "トゥランの王Afrasiyabが見守る中、ポロに興じるSiyavush。Shah Tahmasp所蔵のFerdowsi『Shahnameh』より。（The Metropolitan Museum of Art、パブリックドメイン）"
               },
               {
                 "t": "p",
-                "x": "「Crackで生まれた独自コンテンツは、ウェブトゥーン、ウェブ小説、ゲームなどへ広げられると考えている。一つの形式に閉じ込めず、多様なコンテンツ体験へと広げていく」。Wrtn TechnologiesのLee Se-young代表は19日、釜山BEXCOで開かれたG-STAR 2026のメディア懇談会でこう述べ、「Crackオリジナルの知的財産（IP）を継続的に発掘し、グローバル市場に送り出す計画だ」と語った。AIキャラクターチャットサービスのCrackを、独自コンテンツを生み出すAIエンターテインメントプラットフォームへ育てる構想である。"
-              },
-              {
-                "t": "p",
-                "x": "G-STAR 2026のメインスポンサーであるWrtnは、韓国・北米・日本で運営するプラットフォームをさらに多くの地域へ広げ、利用者の反応を得たオリジナルIPをウェブトゥーン・アニメ・ゲームなどへ展開する計画だ。Crackはまず世界観を公開し、利用者が自ら物語を紡ぐ過程でヒットの可能性を見極めたうえで、反応の良い作品を別の形式へ広げていく。"
-              },
-              {
-                "t": "p",
-                "x": "Lee Dong-jae最高製品責任者（CPO）は「現在Crackで収益の分配を受けるクリエイターは5500人を超え、月1000만원（1000万ウォン）以上を得る創作者も数十人に上る」と明らかにした。"
+                "x": "トロント（Toronto）在住のイラン人ソフトウェアエンジニアArman Nejadは、Claudeを使い、人気の無料オンラインペルシア詩ライブラリGanjoorに収められた160万超のペルシア語対句を現代ペルシア語（modern-Persian）で解説した。以前のAI生成（AI-generated）注釈は、女性名Delarayを「dollar」という単語と取り違えていた。"
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "19日、釜山BEXCOで開かれたG-STAR懇談会で表彰を受けるWrtn Crackの人気クリエイター、Cogito"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "Ganjoorの以前のAI生成注釈が名前Delarayを「dollar」と読んだことを揶揄する、X上のペルシア語投稿。"
               },
               {
                 "t": "p",
-                "x": "哲学を専攻する大学生クリエイターのCogitoは、代表作『アカデミーの召喚獣に憑依した』などで月1000만원（1000万ウォン）ほどの収益を上げていると述べ、「創作への愛情と興味がなければ、収益が出るまでの時間に耐えられない」と語った。"
+                "x": "11月9日、NejadはXで支援を呼びかけ、mana.spaceとzharf.aiがクレジットを寄付した。11月16日までに、RudakiからShahriarまで245人すべての詩人の新しい注釈を完成させた。Ganjoorはこれをウェブサイトと公開データリポジトリで公開している。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "80問のKonkour試験冊子での正答率。Claude Opus 5.5（medium）とGemini 3.8 Flash（highest）が80問中74問で並んだ。"
+              },
+              {
+                "t": "p",
+                "x": "モデル選びにNejadはイランの大学入試Konkourを使い、文学30問でClaudeが27問正解で首位となった。処理には約155,000件のリクエスト、5億6600万トークン、約3,100ドルを要した。無作為に選んだ500の対句を検証したところ、新しい注釈が支持されたのは413件、旧注釈は四件だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "Nezami『Haft Peykar』の訂正された読みをAIで描いたイラスト。"
+              },
+              {
+                "t": "p",
+                "x": "「SudiはHafezを注解した」とNejadは書いた。「2026年、我々は全員を注解した」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wrtn把Crack故事\n做成网漫和游戏IP",
-          "body": "Wrtn将把AI平台Crack的自有内容发展为网络漫画、网络小说和游戏IP。",
-          "mini_headline": "Crack内容走向IP",
+          "headline": "Claude注解\n1000年波斯诗歌",
+          "body": "Arman Nejad用Claude为Ganjoor上逾160万联诗作现代波斯语注释。",
+          "mini_headline": "Claude注解波斯诗歌",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "Wrtn Technologies代表Lee Se-young于19日在釜山BEXCO第1展厅的Wrtn Crack展台举行媒体座谈会。"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "图兰国王Afrasiyab注视下，Siyavush在打马球。出自Shah Tahmasp藏本Ferdowsi《Shahnameh》。（The Metropolitan Museum of Art，公有领域）"
               },
               {
                 "t": "p",
-                "x": "“我认为在Crack上诞生的自有内容可以扩展到网络漫画、网络小说、游戏等领域。我们不会把它局限于一种形式，而是要拓展为多样的内容体验。”Wrtn Technologies代表Lee Se-young于19日在釜山BEXCO举行的G-STAR 2026媒体座谈会上表示，公司“计划持续发掘Crack原创知识产权（IP），并推向全球市场”。其构想是把AI角色聊天服务Crack打造成自主生产内容的AI娱乐平台。"
-              },
-              {
-                "t": "p",
-                "x": "作为G-STAR 2026主赞助商，Wrtn计划将目前在韩国、北美和日本运营的平台扩展到更多地区，并把获得用户反响的原创IP延伸至网络漫画、动画、游戏等形式。Crack先公开世界观，在用户亲自创作故事的过程中确认作品的走红潜力，再把反响好的作品扩展为其他形式。"
-              },
-              {
-                "t": "p",
-                "x": "首席产品官（CPO）Lee Dong-jae表示：“目前在Crack获得结算收入的创作者已超过5500人，月收入1000만원（1000万韩元）以上的创作者也有数十人。”"
+                "x": "常驻Toronto的伊朗软件工程师Arman Nejad借助Claude，为广受欢迎的免费在线波斯诗歌库Ganjoor上逾160万联波斯语对句撰写现代波斯语（modern-Persian）释义。此前一条AI生成（AI-generated）的注释曾把女性名字Delaray误作单词“dollar”。"
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "Wrtn Crack人气创作者Cogito于19日在釜山BEXCO举行的G-STAR座谈会上领奖"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "X上一则波斯语帖子嘲讽Ganjoor此前AI生成的注释把名字Delaray读成了单词“dollar”。"
               },
               {
                 "t": "p",
-                "x": "主修哲学的大学生创作者Cogito表示，凭借代表作《附身学院召唤兽》等作品，每月收入约1000만원（1000万韩元），并说：“只有对创作怀有热爱和兴趣，才能撑过产生收益之前的那段时间。”"
+                "x": "11月9日，Nejad在X上求助，mana.space和zharf.ai捐赠了额度。到11月16日，他已为从Rudaki到Shahriar的全部245位诗人完成新注释。Ganjoor已在其网站和公开数据仓库发布这些注释。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "80题Konkour考试册的准确率。Claude Opus 5.5（medium）与Gemini 3.8 Flash（highest）均答对80题中的74题，并列第一。"
+              },
+              {
+                "t": "p",
+                "x": "为挑选模型，Nejad采用伊朗高考Konkour；在30道文学题上，Claude以答对27题居首。整个过程约用了155,000次请求、5.66亿个token，花费约3,100美元。在随机抽取的500联对句评审中，新注释在413例中更受青睐，旧注释仅四例。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "以AI生成的插图，呈现Nezami《Haft Peykar》经纠正后的解读。"
+              },
+              {
+                "t": "p",
+                "x": "“Sudi注解了Hafez，”Nejad写道，“2026年，我们注解了所有人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wrtn lleva relatos de Crack\na IP de webtoon y videojuego",
-          "body": "Wrtn convertirá el contenido propio de su plataforma de AI Crack en IP de webtoon, novela web y videojuegos.",
-          "mini_headline": "El contenido de Crack, a IP",
+          "headline": "Claude explica 1.000 años\nde poesía persa",
+          "body": "El ingeniero Arman Nejad usó Claude para anotar en persa moderno más de 1,6 millones de dísticos de Ganjoor.",
+          "mini_headline": "Claude anota poesía persa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "Lee Se-young, CEO de Wrtn Technologies, ofrece una rueda de prensa el día 19 en el stand de Wrtn Crack, en el pabellón 1 de BEXCO, en Busan."
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "Siyavush juega al polo mientras lo observa el rey turanio Afrasiyab, en la copia del Shahnameh de Ferdowsi que perteneció a Shah Tahmasp. (The Metropolitan Museum of Art, dominio público)"
               },
               {
                 "t": "p",
-                "x": "“Creo que el contenido propio creado en Crack puede ampliarse a webtoons, novelas web, videojuegos y otros formatos. No lo encerraremos en un solo formato, sino que lo extenderemos a experiencias de contenido diversas”. Lee Se-young, CEO de Wrtn Technologies, afirmó el día 19 en un encuentro con medios de G-STAR 2026 celebrado en BEXCO, en Busan, que la compañía “planea seguir descubriendo propiedad intelectual (IP) original de Crack y presentarla en el mercado global”. La idea es convertir Crack, un servicio de chat con personajes de AI, en una plataforma de entretenimiento con AI que produzca contenido propio."
-              },
-              {
-                "t": "p",
-                "x": "Wrtn, patrocinador principal de G-STAR 2026, planea llevar a más regiones la plataforma que opera en Corea, Norteamérica y Japón, y ampliar a webtoons, animación, videojuegos y otros formatos la IP original que haya obtenido respuesta del público. Crack publica primero un universo narrativo, comprueba su potencial de éxito mientras los usuarios construyen las historias por sí mismos y después lleva las obras mejor recibidas a otros formatos."
-              },
-              {
-                "t": "p",
-                "x": "Lee Dong-jae, director de producto (CPO), señaló: “Ya son más de 5500 los creadores que reciben pagos en Crack, y decenas de ellos ganan 1000만원 (wones) o más al mes”."
+                "x": "Arman Nejad, ingeniero de software iraní residente en Toronto, usó Claude para explicar en persa moderno (modern-Persian) más de 1,6 millones de dísticos persas en Ganjoor, una popular biblioteca en línea gratuita de poesía persa. Una nota anterior generada por IA (AI-generated) había confundido Delaray, nombre de mujer, con la palabra “dollar”."
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "Cogito, popular creador de Wrtn Crack, recibe un premio en el encuentro de G-STAR celebrado el día 19 en BEXCO, en Busan"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "Una publicación en persa en X se burla de la nota anterior de Ganjoor generada por IA, que leyó el nombre Delaray como la palabra “dollar”."
               },
               {
                 "t": "p",
-                "x": "Cogito, estudiante universitario de Filosofía y creador, dijo que obtiene unos ingresos de alrededor de 1000만원 al mes con obras como su título más conocido, ‘Poseído como invocación de la academia’, y añadió: “Solo si sientes cariño e interés por la creación puedes aguantar el tiempo que tarda en llegar el dinero”."
+                "x": "El 9 de noviembre Nejad pidió ayuda en X; mana.space y zharf.ai donaron créditos. Para el 16 de noviembre había terminado notas nuevas para los 245 poetas, de Rudaki a Shahriar. Ganjoor las ha publicado en su sitio web y en su repositorio público de datos."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "Precisión en el cuadernillo de 80 preguntas del examen Konkour. Claude Opus 5.5 (medium) y Gemini 3.8 Flash (highest) empataron con 74 de 80."
+              },
+              {
+                "t": "p",
+                "x": "Para elegir modelo, Nejad usó el examen de ingreso iraní Konkour; en las 30 preguntas de literatura Claude quedó primero con 27. El proceso requirió unas 155.000 solicitudes, 566 millones de tokens y unos 3.100 dólares. En una revisión de 500 dísticos al azar, la nota nueva fue preferida en 413 casos y la antigua en cuatro."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "Ilustración generada por IA de la lectura corregida del Haft Peykar de Nezami."
+              },
+              {
+                "t": "p",
+                "x": "“Sudi hizo a Hafez”, escribió Nejad. “En 2026, los hicimos a todos”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Wrtn turns Crack stories\ninto webtoon and game IP",
-          "body": "Wrtn is growing original content from its AI platform Crack into webtoon, web novel and game IP.",
-          "mini_headline": "Crack content becomes IP",
+        "ko": {
+          "headline": "Claude, 페르시아 시\n1,000년을 풀다",
+          "body": "Arman Nejad가 Claude로 시 160만여 구절에 현대어 해설을 달았다.",
+          "mini_headline": "Claude, 페르시아 시 주해",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "Lee Se-young, CEO of Wrtn Technologies, holds a press briefing at the Wrtn Crack booth in Exhibition Hall 1 of BEXCO in Busan on the 19th."
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "투란의 왕 Afrasiyab가 지켜보는 가운데 Siyavush가 폴로를 하는 장면. Shah Tahmasp 소장본 Ferdowsi의 『Shahnameh』에서. (The Metropolitan Museum of Art, 퍼블릭 도메인)"
               },
               {
                 "t": "p",
-                "x": "“I believe original content created on Crack can expand into webtoons, web novels, games and more. Rather than confining it to a single format, we will broaden it into a range of content experiences.” Lee Se-young, CEO of Wrtn Technologies, said at a G-STAR 2026 media briefing at BEXCO in Busan on the 19th that the company “plans to keep discovering Crack original intellectual property (IP) and bring it to the global market.” The idea is to grow Crack, an AI character chat service, into an AI entertainment platform that produces its own content."
-              },
-              {
-                "t": "p",
-                "x": "Wrtn, the main sponsor of G-STAR 2026, plans to extend the platform it runs in Korea, North America and Japan to more regions, and to expand original IP that has drawn a user response into webtoons, animation, games and other formats. Crack first releases a story world, gauges hit potential as users build the stories themselves, and then expands well-received works into other formats."
-              },
-              {
-                "t": "p",
-                "x": "Chief Product Officer (CPO) Lee Dong-jae said, “More than 5500 creators now receive payouts on Crack, and dozens of them earn 1000만원 (Korean won) or more a month.”"
+                "x": "토론토(Toronto)에 사는 이란 출신 소프트웨어 엔지니어 Arman Nejad가 Claude를 이용해, 인기 무료 온라인 페르시아 시 도서관 Ganjoor에 실린 페르시아 2행시 160만여 구절을 현대 페르시아어(modern-Persian)로 풀이했다. 앞서 AI가 생성한(AI-generated) 해설은 여성 이름 Delaray를 “dollar”라는 단어로 잘못 읽기도 했다."
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "Cogito, a popular creator on Wrtn Crack, receives an award at the G-STAR briefing at BEXCO in Busan on the 19th"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "Ganjoor의 이전 AI 생성 해설이 이름 Delaray를 “dollar”로 읽은 것을 조롱하는 X의 페르시아어 게시물."
               },
               {
                 "t": "p",
-                "x": "Cogito, a university student creator majoring in philosophy, said works including the signature title ‘Possessed as an Academy Summon’ bring in around 1000만원 a month, adding, “You need love for and interest in creating to endure the time it takes before income comes in.”"
+                "x": "11월 9일 Nejad는 X에서 도움을 요청했고, mana.space와 zharf.ai가 크레딧을 기부했다. 11월 16일까지 그는 Rudaki부터 Shahriar까지 시인 245명 전원의 새 해설을 마쳤다. Ganjoor는 이를 웹사이트와 공개 데이터 저장소에 공개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "80문항 Konkour 시험지 정확도. Claude Opus 5.5(medium)와 Gemini 3.8 Flash(highest)가 80문항 중 74문항으로 동률을 기록했다."
+              },
+              {
+                "t": "p",
+                "x": "모델을 고르기 위해 Nejad는 이란 대입 시험 Konkour를 활용했고, 문학 30문항에서 Claude가 27문항을 맞혀 1위를 했다. 작업에는 요청 약 155,000건, 토큰 5억 6,600만 개, 비용 약 3,100달러가 들었다. 무작위로 고른 2행시 500구절을 검토한 결과 새 해설이 413건, 옛 해설이 네 건에서 더 낫다는 평가를 받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "Nezami의 『Haft Peykar』를 바로잡은 해석을 AI로 그린 삽화."
+              },
+              {
+                "t": "p",
+                "x": "“Sudi는 Hafez를 주해했다.” Nejad는 이렇게 썼다. “2026년, 우리는 모든 시인을 주해했다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wrtn、Crackの物語を\nウェブトゥーン・ゲームIPに",
-          "body": "WrtnがAI基盤Crackの独自作品をウェブトゥーン・ウェブ小説・ゲームIPへ広げる。",
-          "mini_headline": "Crack作品をIPへ",
+          "headline": "Claudeが読み解く\nペルシア詩1,000年",
+          "body": "Arman NejadがClaudeでGanjoorの160万超の対句を現代語で注釈した。",
+          "mini_headline": "Claudeがペルシア詩を注釈",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "19日、釜山BEXCO第1展示場のWrtn Crackブースで記者懇談会を行うWrtn TechnologiesのLee Se-young代表。"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "トゥランの王Afrasiyabが見守る中、ポロに興じるSiyavush。Shah Tahmasp所蔵のFerdowsi『Shahnameh』より。（The Metropolitan Museum of Art、パブリックドメイン）"
               },
               {
                 "t": "p",
-                "x": "「Crackで生まれた独自コンテンツは、ウェブトゥーン、ウェブ小説、ゲームなどへ広げられると考えている。一つの形式に閉じ込めず、多様なコンテンツ体験へと広げていく」。Wrtn TechnologiesのLee Se-young代表は19日、釜山BEXCOで開かれたG-STAR 2026のメディア懇談会でこう述べ、「Crackオリジナルの知的財産（IP）を継続的に発掘し、グローバル市場に送り出す計画だ」と語った。AIキャラクターチャットサービスのCrackを、独自コンテンツを生み出すAIエンターテインメントプラットフォームへ育てる構想である。"
-              },
-              {
-                "t": "p",
-                "x": "G-STAR 2026のメインスポンサーであるWrtnは、韓国・北米・日本で運営するプラットフォームをさらに多くの地域へ広げ、利用者の反応を得たオリジナルIPをウェブトゥーン・アニメ・ゲームなどへ展開する計画だ。Crackはまず世界観を公開し、利用者が自ら物語を紡ぐ過程でヒットの可能性を見極めたうえで、反応の良い作品を別の形式へ広げていく。"
-              },
-              {
-                "t": "p",
-                "x": "Lee Dong-jae最高製品責任者（CPO）は「現在Crackで収益の分配を受けるクリエイターは5500人を超え、月1000만원（1000万ウォン）以上を得る創作者も数十人に上る」と明らかにした。"
+                "x": "トロント（Toronto）在住のイラン人ソフトウェアエンジニアArman Nejadは、Claudeを使い、人気の無料オンラインペルシア詩ライブラリGanjoorに収められた160万超のペルシア語対句を現代ペルシア語（modern-Persian）で解説した。以前のAI生成（AI-generated）注釈は、女性名Delarayを「dollar」という単語と取り違えていた。"
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "19日、釜山BEXCOで開かれたG-STAR懇談会で表彰を受けるWrtn Crackの人気クリエイター、Cogito"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "Ganjoorの以前のAI生成注釈が名前Delarayを「dollar」と読んだことを揶揄する、X上のペルシア語投稿。"
               },
               {
                 "t": "p",
-                "x": "哲学を専攻する大学生クリエイターのCogitoは、代表作『アカデミーの召喚獣に憑依した』などで月1000만원（1000万ウォン）ほどの収益を上げていると述べ、「創作への愛情と興味がなければ、収益が出るまでの時間に耐えられない」と語った。"
+                "x": "11月9日、NejadはXで支援を呼びかけ、mana.spaceとzharf.aiがクレジットを寄付した。11月16日までに、RudakiからShahriarまで245人すべての詩人の新しい注釈を完成させた。Ganjoorはこれをウェブサイトと公開データリポジトリで公開している。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "80問のKonkour試験冊子での正答率。Claude Opus 5.5（medium）とGemini 3.8 Flash（highest）が80問中74問で並んだ。"
+              },
+              {
+                "t": "p",
+                "x": "モデル選びにNejadはイランの大学入試Konkourを使い、文学30問でClaudeが27問正解で首位となった。処理には約155,000件のリクエスト、5億6600万トークン、約3,100ドルを要した。無作為に選んだ500の対句を検証したところ、新しい注釈が支持されたのは413件、旧注釈は四件だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "Nezami『Haft Peykar』の訂正された読みをAIで描いたイラスト。"
+              },
+              {
+                "t": "p",
+                "x": "「SudiはHafezを注解した」とNejadは書いた。「2026年、我々は全員を注解した」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wrtn把Crack故事\n做成网漫和游戏IP",
-          "body": "Wrtn将把AI平台Crack的自有内容发展为网络漫画、网络小说和游戏IP。",
-          "mini_headline": "Crack内容走向IP",
+          "headline": "Claude注解\n1000年波斯诗歌",
+          "body": "Arman Nejad用Claude为Ganjoor上逾160万联诗作现代波斯语注释。",
+          "mini_headline": "Claude注解波斯诗歌",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "Wrtn Technologies代表Lee Se-young于19日在釜山BEXCO第1展厅的Wrtn Crack展台举行媒体座谈会。"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "图兰国王Afrasiyab注视下，Siyavush在打马球。出自Shah Tahmasp藏本Ferdowsi《Shahnameh》。（The Metropolitan Museum of Art，公有领域）"
               },
               {
                 "t": "p",
-                "x": "“我认为在Crack上诞生的自有内容可以扩展到网络漫画、网络小说、游戏等领域。我们不会把它局限于一种形式，而是要拓展为多样的内容体验。”Wrtn Technologies代表Lee Se-young于19日在釜山BEXCO举行的G-STAR 2026媒体座谈会上表示，公司“计划持续发掘Crack原创知识产权（IP），并推向全球市场”。其构想是把AI角色聊天服务Crack打造成自主生产内容的AI娱乐平台。"
-              },
-              {
-                "t": "p",
-                "x": "作为G-STAR 2026主赞助商，Wrtn计划将目前在韩国、北美和日本运营的平台扩展到更多地区，并把获得用户反响的原创IP延伸至网络漫画、动画、游戏等形式。Crack先公开世界观，在用户亲自创作故事的过程中确认作品的走红潜力，再把反响好的作品扩展为其他形式。"
-              },
-              {
-                "t": "p",
-                "x": "首席产品官（CPO）Lee Dong-jae表示：“目前在Crack获得结算收入的创作者已超过5500人，月收入1000만원（1000万韩元）以上的创作者也有数十人。”"
+                "x": "常驻Toronto的伊朗软件工程师Arman Nejad借助Claude，为广受欢迎的免费在线波斯诗歌库Ganjoor上逾160万联波斯语对句撰写现代波斯语（modern-Persian）释义。此前一条AI生成（AI-generated）的注释曾把女性名字Delaray误作单词“dollar”。"
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "Wrtn Crack人气创作者Cogito于19日在釜山BEXCO举行的G-STAR座谈会上领奖"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "X上一则波斯语帖子嘲讽Ganjoor此前AI生成的注释把名字Delaray读成了单词“dollar”。"
               },
               {
                 "t": "p",
-                "x": "主修哲学的大学生创作者Cogito表示，凭借代表作《附身学院召唤兽》等作品，每月收入约1000만원（1000万韩元），并说：“只有对创作怀有热爱和兴趣，才能撑过产生收益之前的那段时间。”"
+                "x": "11月9日，Nejad在X上求助，mana.space和zharf.ai捐赠了额度。到11月16日，他已为从Rudaki到Shahriar的全部245位诗人完成新注释。Ganjoor已在其网站和公开数据仓库发布这些注释。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "80题Konkour考试册的准确率。Claude Opus 5.5（medium）与Gemini 3.8 Flash（highest）均答对80题中的74题，并列第一。"
+              },
+              {
+                "t": "p",
+                "x": "为挑选模型，Nejad采用伊朗高考Konkour；在30道文学题上，Claude以答对27题居首。整个过程约用了155,000次请求、5.66亿个token，花费约3,100美元。在随机抽取的500联对句评审中，新注释在413例中更受青睐，旧注释仅四例。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "以AI生成的插图，呈现Nezami《Haft Peykar》经纠正后的解读。"
+              },
+              {
+                "t": "p",
+                "x": "“Sudi注解了Hafez，”Nejad写道，“2026年，我们注解了所有人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wrtn lleva relatos de Crack\na IP de webtoon y videojuego",
-          "body": "Wrtn convertirá el contenido propio de su plataforma de AI Crack en IP de webtoon, novela web y videojuegos.",
-          "mini_headline": "El contenido de Crack, a IP",
+          "headline": "Claude explica 1.000 años\nde poesía persa",
+          "body": "El ingeniero Arman Nejad usó Claude para anotar en persa moderno más de 1,6 millones de dísticos de Ganjoor.",
+          "mini_headline": "Claude anota poesía persa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124239930056.jpg",
-                "cap": "Lee Se-young, CEO de Wrtn Technologies, ofrece una rueda de prensa el día 19 en el stand de Wrtn Crack, en el pabellón 1 de BEXCO, en Busan."
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
+                "cap": "Siyavush juega al polo mientras lo observa el rey turanio Afrasiyab, en la copia del Shahnameh de Ferdowsi que perteneció a Shah Tahmasp. (The Metropolitan Museum of Art, dominio público)"
               },
               {
                 "t": "p",
-                "x": "“Creo que el contenido propio creado en Crack puede ampliarse a webtoons, novelas web, videojuegos y otros formatos. No lo encerraremos en un solo formato, sino que lo extenderemos a experiencias de contenido diversas”. Lee Se-young, CEO de Wrtn Technologies, afirmó el día 19 en un encuentro con medios de G-STAR 2026 celebrado en BEXCO, en Busan, que la compañía “planea seguir descubriendo propiedad intelectual (IP) original de Crack y presentarla en el mercado global”. La idea es convertir Crack, un servicio de chat con personajes de AI, en una plataforma de entretenimiento con AI que produzca contenido propio."
-              },
-              {
-                "t": "p",
-                "x": "Wrtn, patrocinador principal de G-STAR 2026, planea llevar a más regiones la plataforma que opera en Corea, Norteamérica y Japón, y ampliar a webtoons, animación, videojuegos y otros formatos la IP original que haya obtenido respuesta del público. Crack publica primero un universo narrativo, comprueba su potencial de éxito mientras los usuarios construyen las historias por sí mismos y después lleva las obras mejor recibidas a otros formatos."
-              },
-              {
-                "t": "p",
-                "x": "Lee Dong-jae, director de producto (CPO), señaló: “Ya son más de 5500 los creadores que reciben pagos en Crack, y decenas de ellos ganan 1000만원 (wones) o más al mes”."
+                "x": "Arman Nejad, ingeniero de software iraní residente en Toronto, usó Claude para explicar en persa moderno (modern-Persian) más de 1,6 millones de dísticos persas en Ganjoor, una popular biblioteca en línea gratuita de poesía persa. Una nota anterior generada por IA (AI-generated) había confundido Delaray, nombre de mujer, con la palabra “dollar”."
               },
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/19/20261119124912822496.jpg",
-                "cap": "Cogito, popular creador de Wrtn Crack, recibe un premio en el encuentro de G-STAR celebrado el día 19 en BEXCO, en Busan"
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
+                "cap": "Una publicación en persa en X se burla de la nota anterior de Ganjoor generada por IA, que leyó el nombre Delaray como la palabra “dollar”."
               },
               {
                 "t": "p",
-                "x": "Cogito, estudiante universitario de Filosofía y creador, dijo que obtiene unos ingresos de alrededor de 1000만원 al mes con obras como su título más conocido, ‘Poseído como invocación de la academia’, y añadió: “Solo si sientes cariño e interés por la creación puedes aguantar el tiempo que tarda en llegar el dinero”."
+                "x": "El 9 de noviembre Nejad pidió ayuda en X; mana.space y zharf.ai donaron créditos. Para el 16 de noviembre había terminado notas nuevas para los 245 poetas, de Rudaki a Shahriar. Ganjoor las ha publicado en su sitio web y en su repositorio público de datos."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
+                "cap": "Precisión en el cuadernillo de 80 preguntas del examen Konkour. Claude Opus 5.5 (medium) y Gemini 3.8 Flash (highest) empataron con 74 de 80."
+              },
+              {
+                "t": "p",
+                "x": "Para elegir modelo, Nejad usó el examen de ingreso iraní Konkour; en las 30 preguntas de literatura Claude quedó primero con 27. El proceso requirió unas 155.000 solicitudes, 566 millones de tokens y unos 3.100 dólares. En una revisión de 500 dísticos al azar, la nota nueva fue preferida en 413 casos y la antigua en cuatro."
+              },
+              {
+                "t": "img",
+                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
+                "cap": "Ilustración generada por IA de la lectura corregida del Haft Peykar de Nezami."
+              },
+              {
+                "t": "p",
+                "x": "“Sudi hizo a Hafez”, escribió Nejad. “En 2026, los hicimos a todos”."
               }
             ]
           }
@@ -747,477 +747,165 @@
       }
     },
     {
-      "id": "manganow-getbackers-comic-anime",
+      "id": "wotc-anthropic-payout",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 되살아나는\nGetbackers 만화",
-      "body": "MangaNow Studio가 Getbackers를 AI 코믹 애니로 되살린다.",
-      "mini_headline": "Getbackers, AI 코믹 애니로",
+      "headline": "WotC, AI 합의금\nD&D 작가에게 전달",
+      "body": "WotC가 Anthropic 합의금 15억 달러 중 제 몫을 D&D 작가에게 준다.",
+      "mini_headline": "WotC, AI 배상금 나눠",
       "tool": "Books",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-19/getbackers-manga-gets-comic-anime-from-ai-platform-manganow-studio/.243992",
+      "source": "Wargamer",
+      "url": "https://www.wargamer.com/dnd/anthropic-settlement",
       "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Yūya Aoki와 Rando Ayamine의 만화 Getbackers가 12월 1일 YouTube에서 코믹 애니메이션으로 공개된다. 작품의 새 공식 X/Twitter 계정이 수요일 이같이 발표했다."
-          },
-          {
-            "t": "video",
-            "yt": "fn25Ug7TzW0"
-          },
-          {
-            "t": "p",
-            "x": "연출과 제작, 편집은 AI 플랫폼 MangaNow Studio가 맡는다. 두 주인공의 새 성우는 Ban Mido 역의 Tarō Shumi, Ginji Amano 역의 Takayuki Itō다."
-          },
-          {
-            "t": "p",
-            "x": "이야기는 남이 잃어버린 것을 ‘되찾아’ 주는 두 청년 Ban과 Ginji의 모험이다. Aoki와 Ayamine은 1999년 3월 Kodansha의 Weekly Shōnen Magazine에서 연재를 시작해 2007년 2월 끝냈다. 단행본은 39권이다. Tokyopop이 한때 출간했으나 2009년 판권을 잃었다."
-          },
-          {
-            "t": "p",
-            "x": "만화를 원작으로 한 총 49화(49-episode) 애니메이션 시리즈는 2002년 방영을 시작했고, 2004년 ADV Films가 미국에 내놨다. 애니메이션 판권은 이후 Sentai Filmworks가 가져갔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI brings Getbackers\nmanga to life",
-          "body": "AI platform MangaNow Studio is making a comic anime of the 1999 manga Getbackers, with a YouTube debut on December 1.",
-          "mini_headline": "Getbackers as AI comic anime",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "A new official X/Twitter account for Yūya Aoki and Rando Ayamine's Getbackers manga announced on Wednesday that the series is getting a comic anime on YouTube on December 1."
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "AI platform MangaNow Studio is directing, producing, and editing the comic anime. The new voice actors for the main duo are Tarō Shumi as Ban Mido and Takayuki Itō as Ginji Amano."
-              },
-              {
-                "t": "p",
-                "x": "The show follows the adventures of Ban and Ginji, two young men who hire themselves out to \"get back\" things that people have lost. Aoki and Ayamine debuted the manga in Kodansha's Weekly Shōnen Magazine in March 1999, and ended it in February 2007. The manga had 39 compiled book volumes. Tokyopop once published the manga before losing the rights in 2009."
-              },
-              {
-                "t": "p",
-                "x": "The manga inspired a 49-episode anime series that premiered in 2002, with an American release by ADV Films following in 2004. Sentai Filmworks then licensed the anime."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI로 되살아나는\nGetbackers 만화",
-          "body": "MangaNow Studio가 Getbackers를 AI 코믹 애니로 되살린다.",
-          "mini_headline": "Getbackers, AI 코믹 애니로",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Yūya Aoki와 Rando Ayamine의 만화 Getbackers가 12월 1일 YouTube에서 코믹 애니메이션으로 공개된다. 작품의 새 공식 X/Twitter 계정이 수요일 이같이 발표했다."
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "연출과 제작, 편집은 AI 플랫폼 MangaNow Studio가 맡는다. 두 주인공의 새 성우는 Ban Mido 역의 Tarō Shumi, Ginji Amano 역의 Takayuki Itō다."
-              },
-              {
-                "t": "p",
-                "x": "이야기는 남이 잃어버린 것을 ‘되찾아’ 주는 두 청년 Ban과 Ginji의 모험이다. Aoki와 Ayamine은 1999년 3월 Kodansha의 Weekly Shōnen Magazine에서 연재를 시작해 2007년 2월 끝냈다. 단행본은 39권이다. Tokyopop이 한때 출간했으나 2009년 판권을 잃었다."
-              },
-              {
-                "t": "p",
-                "x": "만화를 원작으로 한 총 49화(49-episode) 애니메이션 시리즈는 2002년 방영을 시작했고, 2004년 ADV Films가 미국에 내놨다. 애니메이션 판권은 이후 Sentai Filmworks가 가져갔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIで蘇る\n漫画Getbackers",
-          "body": "MangaNow StudioがGetbackersをAIでコミックアニメ化する。",
-          "mini_headline": "GetbackersをAIコミックアニメに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Yūya AokiとRando Ayamineによる漫画Getbackersの新しい公式X/Twitterアカウントは水曜日、同作が12月1日にYouTubeでコミックアニメ化されると発表した。"
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "AIプラットフォームのMangaNow Studioが、コミックアニメの監督・制作・編集を担う。主人公コンビの新キャストは、Ban Mido役がTarō Shumi、Ginji Amano役がTakayuki Itōである。"
-              },
-              {
-                "t": "p",
-                "x": "物語は、人々が失ったものを「奪還」する仕事を請け負う二人の青年、BanとGinjiの活躍を描く。AokiとAyamineは1999年3月に講談社（Kodansha）の『週刊少年マガジン』（Weekly Shōnen Magazine）で連載を始め、2007年2月に完結させた。単行本は全39巻。かつてTokyopopが刊行していたが、2009年に権利を失った。"
-              },
-              {
-                "t": "p",
-                "x": "この漫画を原作とする全49話（49-episode）のアニメシリーズが2002年に放送を開始し、2004年にはADV Filmsが米国でリリースした。その後、Sentai Filmworksがアニメのライセンスを取得した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI让Getbackers\n漫画重获新生",
-          "body": "MangaNow Studio用AI将Getbackers制成动态漫画，12月1日上线。",
-          "mini_headline": "Getbackers变身AI动态漫画",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Yūya Aoki与Rando Ayamine的漫画Getbackers新开设的官方X/Twitter账号于周三宣布，该作将于12月1日在YouTube推出动态漫画。"
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "AI平台MangaNow Studio负责这部动态漫画的导演、制作和剪辑。两位主角的新配音演员为：Tarō Shumi饰Ban Mido，Takayuki Itō饰Ginji Amano。"
-              },
-              {
-                "t": "p",
-                "x": "故事讲述Ban和Ginji两名年轻人的冒险，他们受雇帮人“夺回”失去的东西。Aoki与Ayamine于1999年3月在Kodansha（讲谈社）的Weekly Shōnen Magazine上开始连载，2007年2月完结，单行本共39卷。Tokyopop曾出版该漫画，后于2009年失去版权。"
-              },
-              {
-                "t": "p",
-                "x": "该漫画改编的49集（49-episode）动画于2002年开播，ADV Films随后于2004年在美国发行。此后，Sentai Filmworks获得了该动画的授权。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI da vida al manga\nGetbackers",
-          "body": "MangaNow Studio, plataforma de AI, adapta el manga Getbackers de 1999 a anime cómic para YouTube el 1 de diciembre.",
-          "mini_headline": "Getbackers, en anime cómic con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Una nueva cuenta oficial en X/Twitter del manga Getbackers, de Yūya Aoki y Rando Ayamine, anunció el miércoles que la serie tendrá un anime cómic en YouTube el 1 de diciembre."
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "La plataforma de AI MangaNow Studio dirige, produce y edita el anime cómic. Los nuevos actores de voz del dúo protagonista son Tarō Shumi como Ban Mido y Takayuki Itō como Ginji Amano."
-              },
-              {
-                "t": "p",
-                "x": "La serie sigue las aventuras de Ban y Ginji, dos jóvenes que se alquilan para “recuperar” lo que la gente ha perdido. Aoki y Ayamine estrenaron el manga en la Weekly Shōnen Magazine de Kodansha en marzo de 1999 y lo concluyeron en febrero de 2007. El manga se recopiló en 39 volúmenes. Tokyopop llegó a publicarlo antes de perder los derechos en 2009."
-              },
-              {
-                "t": "p",
-                "x": "El manga inspiró una serie de anime de 49 episodios (49-episode) que se estrenó en 2002, seguida de un lanzamiento en Estados Unidos a cargo de ADV Films en 2004. Después, Sentai Filmworks obtuvo la licencia del anime."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI로 되살아나는\nGetbackers 만화",
-          "body": "MangaNow Studio가 Getbackers를 AI 코믹 애니로 만든다.",
-          "mini_headline": "Getbackers, AI 코믹 애니로",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Yūya Aoki와 Rando Ayamine의 만화 Getbackers의 새 공식 X/Twitter 계정은 수요일, 이 작품이 12월 1일 YouTube에서 코믹 애니메이션으로 공개된다고 발표했다."
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "AI 플랫폼 MangaNow Studio가 코믹 애니메이션의 연출과 제작, 편집을 맡는다. 두 주인공의 새 성우는 Ban Mido 역의 Tarō Shumi, Ginji Amano 역의 Takayuki Itō다."
-              },
-              {
-                "t": "p",
-                "x": "작품은 사람들이 잃어버린 것을 ‘되찾아’ 주는 일을 하는 두 청년 Ban과 Ginji의 모험을 그린다. Aoki와 Ayamine은 1999년 3월 Kodansha의 Weekly Shōnen Magazine에서 연재를 시작해 2007년 2월 마쳤다. 단행본은 39권으로 나왔다. Tokyopop이 한때 이 만화를 출간했지만 2009년 판권을 잃었다."
-              },
-              {
-                "t": "p",
-                "x": "이 만화를 원작으로 한 총 49화(49-episode) 애니메이션 시리즈가 2002년 방영을 시작했고, 2004년 ADV Films가 미국에서 출시했다. 이후 Sentai Filmworks가 애니메이션 판권을 확보했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIで蘇る\n漫画Getbackers",
-          "body": "MangaNow StudioがGetbackersをAIでコミックアニメ化する。",
-          "mini_headline": "GetbackersをAIコミックアニメに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Yūya AokiとRando Ayamineによる漫画Getbackersの新しい公式X/Twitterアカウントは水曜日、同作が12月1日にYouTubeでコミックアニメ化されると発表した。"
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "AIプラットフォームのMangaNow Studioが、コミックアニメの監督・制作・編集を担う。主人公コンビの新キャストは、Ban Mido役がTarō Shumi、Ginji Amano役がTakayuki Itōである。"
-              },
-              {
-                "t": "p",
-                "x": "物語は、人々が失ったものを「奪還」する仕事を請け負う二人の青年、BanとGinjiの活躍を描く。AokiとAyamineは1999年3月に講談社（Kodansha）の『週刊少年マガジン』（Weekly Shōnen Magazine）で連載を始め、2007年2月に完結させた。単行本は全39巻。かつてTokyopopが刊行していたが、2009年に権利を失った。"
-              },
-              {
-                "t": "p",
-                "x": "この漫画を原作とする全49話（49-episode）のアニメシリーズが2002年に放送を開始し、2004年にはADV Filmsが米国でリリースした。その後、Sentai Filmworksがアニメのライセンスを取得した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI让Getbackers\n漫画重获新生",
-          "body": "MangaNow Studio用AI将Getbackers制成动态漫画，12月1日上线。",
-          "mini_headline": "Getbackers变身AI动态漫画",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Yūya Aoki与Rando Ayamine的漫画Getbackers新开设的官方X/Twitter账号于周三宣布，该作将于12月1日在YouTube推出动态漫画。"
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "AI平台MangaNow Studio负责这部动态漫画的导演、制作和剪辑。两位主角的新配音演员为：Tarō Shumi饰Ban Mido，Takayuki Itō饰Ginji Amano。"
-              },
-              {
-                "t": "p",
-                "x": "故事讲述Ban和Ginji两名年轻人的冒险，他们受雇帮人“夺回”失去的东西。Aoki与Ayamine于1999年3月在Kodansha（讲谈社）的Weekly Shōnen Magazine上开始连载，2007年2月完结，单行本共39卷。Tokyopop曾出版该漫画，后于2009年失去版权。"
-              },
-              {
-                "t": "p",
-                "x": "该漫画改编的49集（49-episode）动画于2002年开播，ADV Films随后于2004年在美国发行。此后，Sentai Filmworks获得了该动画的授权。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI da vida al manga\nGetbackers",
-          "body": "MangaNow Studio, plataforma de AI, adapta el manga Getbackers de 1999 a anime cómic para YouTube el 1 de diciembre.",
-          "mini_headline": "Getbackers, en anime cómic con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Una nueva cuenta oficial en X/Twitter del manga Getbackers, de Yūya Aoki y Rando Ayamine, anunció el miércoles que la serie tendrá un anime cómic en YouTube el 1 de diciembre."
-              },
-              {
-                "t": "video",
-                "yt": "fn25Ug7TzW0"
-              },
-              {
-                "t": "p",
-                "x": "La plataforma de AI MangaNow Studio dirige, produce y edita el anime cómic. Los nuevos actores de voz del dúo protagonista son Tarō Shumi como Ban Mido y Takayuki Itō como Ginji Amano."
-              },
-              {
-                "t": "p",
-                "x": "La serie sigue las aventuras de Ban y Ginji, dos jóvenes que se alquilan para “recuperar” lo que la gente ha perdido. Aoki y Ayamine estrenaron el manga en la Weekly Shōnen Magazine de Kodansha en marzo de 1999 y lo concluyeron en febrero de 2007. El manga se recopiló en 39 volúmenes. Tokyopop llegó a publicarlo antes de perder los derechos en 2009."
-              },
-              {
-                "t": "p",
-                "x": "El manga inspiró una serie de anime de 49 episodios (49-episode) que se estrenó en 2002, seguida de un lanzamiento en Estados Unidos a cargo de ADV Films en 2004. Después, Sentai Filmworks obtuvo la licencia del anime."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "scbwi-state-of-industry-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "SCBWI, 아동 출판의\nAI 영향을 따지다",
-      "body": "SCBWI 웨비나가 금서·오디오북·번역·계약에서 커지는 AI의 몫을 짚었다.",
-      "mini_headline": "SCBWI, AI를 말하다",
-      "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/101811-digital-fatigue-book-bans-and-ai-scbwi-s-2026-state-of-the-industry-overview.html",
-      "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+            "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
           },
           {
             "t": "p",
-            "x": "어린이책 작가·일러스트레이터 협회(Society of Children’s Book Writers and Illustrators)가 11월 13일 아동 도서 시장을 주제로 웨비나를 열었다. 작가이자 편집자인 Deborah Halverson은 독서 실태 연구의 주요 결과를 소개하고 도서 금지와 점점 늘어나는 AI 문제를 다뤘다. Portland State University 연구에 따르면 Gen Z의 66%가 자신을 독자라고 답했고 가장 선호하는 형식은 종이책이었다."
+            "x": "Dungeons and Dragons 출판사 Wizards of the Coast가 Bartz v. Anthropic 소송 합의금을 D&D 작가들과 나눈다. Wizards 대변인은 Wargamer에 “Wizards of the Coast는 Dungeons & Dragons 소설, 모듈, 스토리의 저작권자로서 Bartz v. Anthropic 합의에 참여했다”며 “D&D는 그 세계를 만든 창작자들 없이는 D&D가 될 수 없다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "Halverson은 약 12,000건의 도서 금지 사례를 집계한 PEN America 보고서를 인용하며 “AI, 그 두 글자짜리 괴물이 점점 검열 시도의 도구가 되고 있다는 사실을 알게 됐다”고 말했다. 그는 “성우에게 돈을 주는 것보다 빠르고 싸다”는 AI-narrated 오디오북이 늘어나는 현상도 짚었다. 다만 APA 설문에서 AI 낭독을 시도해 볼 의향은 2025년 70%에서 2026년 61%로 떨어졌다."
+            "x": "Anthropic은 2025년 9월 15억 달러 합의에 동의했고 합의안은 2026년 7월 승인이 났다. 대상 도서는 약 50만 권이다. 권리자들은 권당 최소 3,000달러에서 수수료를 뺀 금액을 나눠 갖는데, 출판사와 작가의 기본 배분은 50/50이다."
           },
           {
             "t": "p",
-            "x": "번역가를 두고는 “번역가는 더 이상 텍스트의 창의적 해석을 만들어내지 않고, 대규모 언어 모델 출력물의 편집자가 된다”고 했다. Authors Guild는 AI 모범 사례 시리즈를 내놨고, “에이전트들은 계약 대상인 원고나 작품을 LLMs에 넣을 수 없다는 문구를 계약서에 넣는 방식으로 [AI 사용에] 대응하고 있다”고 전했다."
+            "x": "작가 James Lowder에 따르면 “Wizards of the Coast는 Anthropic 배상금 중 자사 몫을 포기하고 그 돈을 모두 작가들에게 준다.” 액수는 수십만 달러에 이른다고 한다. 그는 작가들의 요청에서 시작된 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SCBWI weighs AI in\nchildren's publishing",
-          "body": "SCBWI's November 13 webinar weighed AI's growing role in book bans, audiobook narration, translation and contracts.",
-          "mini_headline": "SCBWI on AI",
+          "headline": "Wizards of the Coast passes\nAI settlement to D&D writers",
+          "body": "Wizards of the Coast will pass its share of the $1.5bn Anthropic settlement payments on to D&D's writers.",
+          "mini_headline": "WotC shares AI payout",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "On November 13, the Society of Children’s Book Writers and Illustrators held a children’s book marketplace webinar in which author and editor Deborah Halverson revealed key findings from readership studies and addressed book banning and the increasing presence of AI. Per Portland State University’s study, 66% of Gen Z identified as readers, and print is their top preferred format."
+                "x": "Dungeons and Dragons publisher Wizards of the Coast will share settlement funds from the Bartz v. Anthropic case with D&D authors. “Wizards of the Coast took part in the Bartz v. Anthropic settlement as the copyright owner of Dungeons & Dragons novels, modules, and stories,” a Wizards representative told Wargamer. “D&D wouldn't be D&D without the creators who built its worlds.”"
               },
               {
                 "t": "p",
-                "x": "Citing PEN America’s report of approximately 12,000 book ban instances, Halverson said: “We are finding out that AI—that two-letter bogeyman—is increasingly a tool for censorship efforts.” She noted the rise of AI-narrated audiobooks, “quicker and cheaper than paying voice actors,” while an APA survey found willingness to try AI narration fell from 70% in 2025 to 61% in 2026."
+                "x": "Anthropic agreed to a $1.5 billion settlement in September 2025, approved in July 2026. Around 500,000 books were eligible — at least $3,000 per book, minus fees, split among rightsholders, with 50/50 the default between publishers and authors."
               },
               {
                 "t": "p",
-                "x": "For translators, “translators no longer originate creative interpretation of the text; they become editors of the large language model outputs.” The Authors Guild has created a series of AI best practices, and “agents are addressing [the use of AI] by inserting language into contracts that says the manuscript or artwork under contract cannot be put into LLMs.”"
+                "x": "According to author James Lowder, “Wizards of the Coast is forgoing its share of the Anthropic payout and giving all the money to the authors,” which he says amounts to hundreds of thousands of dollars. He credited author-prompted talks, especially R.A. Salvatore’s efforts, and Wizards’ Dan Ayoub."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SCBWI, 아동 출판의\nAI 영향을 따지다",
-          "body": "SCBWI 웨비나가 금서·오디오북·번역·계약에서 커지는 AI의 몫을 짚었다.",
-          "mini_headline": "SCBWI, AI를 말하다",
+          "headline": "WotC, AI 합의금\nD&D 작가에게 전달",
+          "body": "WotC가 Anthropic 합의금 15억 달러 중 제 몫을 D&D 작가에게 준다.",
+          "mini_headline": "WotC, AI 배상금 나눠",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "어린이책 작가·일러스트레이터 협회(Society of Children’s Book Writers and Illustrators)가 11월 13일 아동 도서 시장을 주제로 웨비나를 열었다. 작가이자 편집자인 Deborah Halverson은 독서 실태 연구의 주요 결과를 소개하고 도서 금지와 점점 늘어나는 AI 문제를 다뤘다. Portland State University 연구에 따르면 Gen Z의 66%가 자신을 독자라고 답했고 가장 선호하는 형식은 종이책이었다."
+                "x": "Dungeons and Dragons 출판사 Wizards of the Coast가 Bartz v. Anthropic 소송 합의금을 D&D 작가들과 나눈다. Wizards 대변인은 Wargamer에 “Wizards of the Coast는 Dungeons & Dragons 소설, 모듈, 스토리의 저작권자로서 Bartz v. Anthropic 합의에 참여했다”며 “D&D는 그 세계를 만든 창작자들 없이는 D&D가 될 수 없다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Halverson은 약 12,000건의 도서 금지 사례를 집계한 PEN America 보고서를 인용하며 “AI, 그 두 글자짜리 괴물이 점점 검열 시도의 도구가 되고 있다는 사실을 알게 됐다”고 말했다. 그는 “성우에게 돈을 주는 것보다 빠르고 싸다”는 AI-narrated 오디오북이 늘어나는 현상도 짚었다. 다만 APA 설문에서 AI 낭독을 시도해 볼 의향은 2025년 70%에서 2026년 61%로 떨어졌다."
+                "x": "Anthropic은 2025년 9월 15억 달러 합의에 동의했고 합의안은 2026년 7월 승인이 났다. 대상 도서는 약 50만 권이다. 권리자들은 권당 최소 3,000달러에서 수수료를 뺀 금액을 나눠 갖는데, 출판사와 작가의 기본 배분은 50/50이다."
               },
               {
                 "t": "p",
-                "x": "번역가를 두고는 “번역가는 더 이상 텍스트의 창의적 해석을 만들어내지 않고, 대규모 언어 모델 출력물의 편집자가 된다”고 했다. Authors Guild는 AI 모범 사례 시리즈를 내놨고, “에이전트들은 계약 대상인 원고나 작품을 LLMs에 넣을 수 없다는 문구를 계약서에 넣는 방식으로 [AI 사용에] 대응하고 있다”고 전했다."
+                "x": "작가 James Lowder에 따르면 “Wizards of the Coast는 Anthropic 배상금 중 자사 몫을 포기하고 그 돈을 모두 작가들에게 준다.” 액수는 수십만 달러에 이른다고 한다. 그는 작가들의 요청에서 시작된 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SCBWI、児童書の\nAIを検証",
-          "body": "SCBWIのウェビナーが、禁書・オーディオブック・翻訳・契約で広がるAIの役割を論じた。",
-          "mini_headline": "SCBWIとAI",
+          "headline": "WotC、AI和解金を\nD&D作家に還元",
+          "body": "WotCはAnthropicの15億ドル和解金の自社取り分をD&D作家に渡す。",
+          "mini_headline": "WotC、AI和解金を分配",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "11月13日、児童書作家・イラストレーター協会（Society of Children’s Book Writers and Illustrators）は児童書市場に関するウェビナーを開催した。作家で編集者のDeborah Halversonが読書実態調査の主な結果を示し、禁書問題と存在感を増すAIについて語った。Portland State Universityの調査では、Gen Zの66%が自らを読書家と答え、最も好む形式は紙の本だった。"
+                "x": "Dungeons and Dragonsの出版元Wizards of the Coastは、Bartz v. Anthropic訴訟の和解金をD&Dの著者と分け合う。Wizardsの担当者はWargamerに対し、「Wizards of the Coastは、Dungeons & Dragonsの小説、モジュール、ストーリーの著作権者としてBartz v. Anthropicの和解に参加した」と述べ、「D&Dは、その世界を築いたクリエイターなしにはD&Dたり得ない」と語った。"
               },
               {
                 "t": "p",
-                "x": "HalversonはPEN Americaが報告した約12,000件の禁書事例を引き、「AIというあの二文字のお化けが、ますます検閲の道具になりつつあることが分かってきた」と述べた。また「声優に報酬を払うより速くて安い」AI-narratedオーディオブックの増加を指摘した。一方、APAの調査では、AIナレーションを試す意向が2025年の70%から2026年には61%に下がった。"
+                "x": "Anthropicは2025年9月に15億ドルの和解に合意し、和解は2026年7月に承認された。対象書籍は約50万冊で、1冊あたり最低3,000ドルから手数料を差し引いた額を権利者で分け、出版社と著者の配分は50/50が標準となる。"
               },
               {
                 "t": "p",
-                "x": "翻訳者については、「翻訳者はもはやテキストの創造的解釈を生み出すのではなく、大規模言語モデルの出力の編集者になる」とした。Authors GuildはAIのベストプラクティス集を作成しており、「エージェントは、契約対象の原稿や作品をLLMsに入力してはならないという文言を契約書に盛り込むことで、［AIの利用に］対処している」という。"
+                "x": "著者James Lowderによれば、「Wizards of the CoastはAnthropicからの支払いの自社分を放棄し、全額を著者に渡す」といい、その額は数十万ドルに上るという。彼は著者側の働きかけで始まった協議、特にR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SCBWI审视\n童书出版中的AI",
-          "body": "SCBWI的网络研讨会探讨了AI在禁书、有声书朗读、翻译与合同中日益重要的作用。",
-          "mini_headline": "SCBWI谈AI",
+          "headline": "WotC将AI和解金\n转给D&D作者",
+          "body": "WotC将把Anthropic 15亿美元和解金中的自身份额转给D&D作者。",
+          "mini_headline": "WotC分享AI赔付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "11月13日，童书作家与插画家协会（Society of Children’s Book Writers and Illustrators）举办童书市场网络研讨会，作家兼编辑Deborah Halverson公布了阅读调查的主要发现，并谈及禁书问题和AI日益增强的存在感。根据Portland State University的研究，66%的Gen Z自认为是读者，纸质书是他们最偏爱的形式。"
+                "x": "Dungeons and Dragons出版商Wizards of the Coast将与D&D作者分享Bartz v. Anthropic案的和解金。Wizards代表对Wargamer表示：“Wizards of the Coast以Dungeons & Dragons小说、模组和故事版权所有者的身份参与了Bartz v. Anthropic和解。没有构建其世界的创作者，D&D就不成其为D&D。”"
               },
               {
                 "t": "p",
-                "x": "Halverson引用PEN America约12,000起禁书事件的报告说：“我们发现，AI这个由两个字母组成的怪物，正越来越多地成为审查行动的工具。”她指出，AI-narrated有声书正在增加，“比付钱请配音演员更快、更便宜”；而APA的一项调查显示，愿意尝试AI朗读的比例从2025年的70%降至2026年的61%。"
+                "x": "Anthropic于2025年9月同意以15亿美元和解，该和解于2026年7月获批。约50万本书符合条件，每本至少3,000美元，扣除费用后由权利人分配，出版商与作者默认按50/50分成。"
               },
               {
                 "t": "p",
-                "x": "对于译者，“译者不再对文本进行创造性诠释，而是成为大语言模型输出内容的编辑”。Authors Guild已制定一系列AI最佳实践，而“经纪人正通过在合同中加入条款来应对［AI的使用］，规定合同所涉的手稿或作品不得输入LLMs”。"
+                "x": "据作者James Lowder称，“Wizards of the Coast放弃其在Anthropic赔付中的份额，把钱全部交给作者”，他说这笔钱达数十万美元。他将此归功于作者推动的谈判，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SCBWI analiza la AI en\nla edición infantil",
-          "body": "Un webinario de SCBWI analizó el creciente papel de la AI en vetos de libros, audiolibros, traducción y contratos.",
-          "mini_headline": "SCBWI y la AI",
+          "headline": "Wizards of the Coast da a los\nautores de D&D su pago de IA",
+          "body": "Wizards of the Coast dará a los autores de D&D su parte del acuerdo de 1,5 mil millones de dólares con Anthropic.",
+          "mini_headline": "WotC reparte el pago de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "El 13 de noviembre, la Society of Children’s Book Writers and Illustrators celebró un webinario sobre el mercado del libro infantil en el que la autora y editora Deborah Halverson presentó los principales hallazgos de estudios de lectura y abordó la prohibición de libros y la creciente presencia de la AI. Según un estudio de Portland State University, el 66% de la Gen Z se identificó como lectora, y el formato impreso es su preferido."
+                "x": "Wizards of the Coast, editora de Dungeons and Dragons, compartirá con los autores de D&D los fondos del acuerdo del caso Bartz v. Anthropic. “Wizards of the Coast participó en el acuerdo de Bartz v. Anthropic como titular de los derechos de autor de novelas, módulos e historias de Dungeons & Dragons”, dijo un representante de Wizards a Wargamer. “D&D no sería D&D sin los creadores que construyeron sus mundos”."
               },
               {
                 "t": "p",
-                "x": "Citando un informe de PEN America sobre aproximadamente 12,000 casos de prohibición de libros, Halverson dijo: “Estamos descubriendo que la AI —ese coco de dos letras— es cada vez más una herramienta para los intentos de censura”. Señaló el auge de los audiolibros AI-narrated, “más rápidos y baratos que pagar a actores de voz”, mientras que una encuesta de la APA halló que la disposición a probar la narración con AI bajó del 70% en 2025 al 61% en 2026."
+                "x": "Anthropic aceptó un acuerdo de 1.500 millones de dólares en septiembre de 2025, aprobado en julio de 2026. Unos 500.000 libros eran elegibles: al menos 3.000 dólares por libro, menos comisiones, repartidos entre los titulares de derechos, con un reparto 50/50 por defecto entre editoriales y autores."
               },
               {
                 "t": "p",
-                "x": "Sobre los traductores: “los traductores ya no originan la interpretación creativa del texto; se convierten en editores de los resultados de los grandes modelos de lenguaje”. El Authors Guild ha elaborado una serie de buenas prácticas sobre AI, y “los agentes están abordando [el uso de la AI] insertando en los contratos cláusulas que establecen que el manuscrito o las ilustraciones bajo contrato no pueden introducirse en LLMs”."
+                "x": "Según el autor James Lowder, “Wizards of the Coast renuncia a su parte del pago de Anthropic y entrega todo el dinero a los autores”, lo que, según él, asciende a cientos de miles de dólares. Atribuyó el resultado a las conversaciones impulsadas por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
               }
             ]
           }
@@ -1225,105 +913,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SCBWI, 아동 출판의\nAI 영향을 따지다",
-          "body": "SCBWI 웨비나가 금서·오디오북·번역·계약 속 커지는 AI 역할을 짚었다.",
-          "mini_headline": "SCBWI, AI를 말하다",
+          "headline": "WotC, AI 합의금\nD&D 작가에게 전달",
+          "body": "WotC가 Anthropic 합의금 15억 달러 중 제 몫을 D&D 작가에게 준다.",
+          "mini_headline": "WotC, AI 배상금 나눠",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "11월 13일 어린이책 작가·일러스트레이터 협회(Society of Children’s Book Writers and Illustrators)는 아동 도서 시장 웨비나를 열었다. 작가이자 편집자인 Deborah Halverson은 독서 실태 연구의 핵심 결과를 공개하고 도서 금지와 늘어나는 AI의 존재를 다뤘다. Portland State University 연구에 따르면 Gen Z의 66%가 스스로를 독자라고 답했고, 가장 선호하는 형식은 종이책이었다."
+                "x": "Dungeons and Dragons 출판사 Wizards of the Coast가 Bartz v. Anthropic 소송의 합의금을 D&D 작가들과 나눈다. Wizards 대변인은 Wargamer에 “Wizards of the Coast는 Dungeons & Dragons 소설, 모듈, 스토리의 저작권자로서 Bartz v. Anthropic 합의에 참여했다”며 “D&D는 그 세계를 만든 창작자들 없이는 D&D가 될 수 없다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Halverson은 약 12,000건의 도서 금지 사례를 집계한 PEN America 보고서를 인용하며 “AI, 그 두 글자짜리 괴물이 점점 검열 시도의 도구가 되고 있다는 사실을 알게 됐다”고 말했다. 그는 “성우에게 돈을 주는 것보다 빠르고 싸다”는 AI-narrated 오디오북의 증가도 짚었다. 한편 APA 설문에서는 AI 낭독을 시도해 볼 의향이 2025년 70%에서 2026년 61%로 떨어졌다."
+                "x": "Anthropic은 2025년 9월 15억 달러 합의에 동의했고, 합의는 2026년 7월 승인됐다. 대상 도서는 약 50만 권으로, 권당 최소 3,000달러에서 수수료를 뺀 금액을 권리자들이 나누며, 출판사와 작가 간 기본 배분은 50/50이다."
               },
               {
                 "t": "p",
-                "x": "번역가에 대해서는 “번역가는 더 이상 텍스트의 창의적 해석을 만들어내지 않고, 대규모 언어 모델 출력물의 편집자가 된다”고 말했다. Authors Guild는 AI 모범 사례 시리즈를 마련했고, “에이전트들은 계약 대상인 원고나 작품을 LLMs에 넣을 수 없다는 문구를 계약서에 넣는 방식으로 [AI 사용에] 대응하고 있다”고 전했다."
+                "x": "작가 James Lowder에 따르면 “Wizards of the Coast는 Anthropic 배상금 중 자사 몫을 포기하고 그 돈을 모두 작가들에게 준다.” 그는 그 액수가 수십만 달러에 이른다고 말했다. 그는 작가들의 요청으로 시작된 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SCBWI、児童書の\nAIを検証",
-          "body": "SCBWIのウェビナーが、禁書・オーディオブック・翻訳・契約で広がるAIの役割を論じた。",
-          "mini_headline": "SCBWIとAI",
+          "headline": "WotC、AI和解金を\nD&D作家に還元",
+          "body": "WotCはAnthropicの15億ドル和解金の自社取り分をD&D作家に渡す。",
+          "mini_headline": "WotC、AI和解金を分配",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "11月13日、児童書作家・イラストレーター協会（Society of Children’s Book Writers and Illustrators）は児童書市場に関するウェビナーを開催した。作家で編集者のDeborah Halversonが読書実態調査の主な結果を示し、禁書問題と存在感を増すAIについて語った。Portland State Universityの調査では、Gen Zの66%が自らを読書家と答え、最も好む形式は紙の本だった。"
+                "x": "Dungeons and Dragonsの出版元Wizards of the Coastは、Bartz v. Anthropic訴訟の和解金をD&Dの著者と分け合う。Wizardsの担当者はWargamerに対し、「Wizards of the Coastは、Dungeons & Dragonsの小説、モジュール、ストーリーの著作権者としてBartz v. Anthropicの和解に参加した」と述べ、「D&Dは、その世界を築いたクリエイターなしにはD&Dたり得ない」と語った。"
               },
               {
                 "t": "p",
-                "x": "HalversonはPEN Americaが報告した約12,000件の禁書事例を引き、「AIというあの二文字のお化けが、ますます検閲の道具になりつつあることが分かってきた」と述べた。また「声優に報酬を払うより速くて安い」AI-narratedオーディオブックの増加を指摘した。一方、APAの調査では、AIナレーションを試す意向が2025年の70%から2026年には61%に下がった。"
+                "x": "Anthropicは2025年9月に15億ドルの和解に合意し、和解は2026年7月に承認された。対象書籍は約50万冊で、1冊あたり最低3,000ドルから手数料を差し引いた額を権利者で分け、出版社と著者の配分は50/50が標準となる。"
               },
               {
                 "t": "p",
-                "x": "翻訳者については、「翻訳者はもはやテキストの創造的解釈を生み出すのではなく、大規模言語モデルの出力の編集者になる」とした。Authors GuildはAIのベストプラクティス集を作成しており、「エージェントは、契約対象の原稿や作品をLLMsに入力してはならないという文言を契約書に盛り込むことで、［AIの利用に］対処している」という。"
+                "x": "著者James Lowderによれば、「Wizards of the CoastはAnthropicからの支払いの自社分を放棄し、全額を著者に渡す」といい、その額は数十万ドルに上るという。彼は著者側の働きかけで始まった協議、特にR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SCBWI审视\n童书出版中的AI",
-          "body": "SCBWI的网络研讨会探讨了AI在禁书、有声书朗读、翻译与合同中日益重要的作用。",
-          "mini_headline": "SCBWI谈AI",
+          "headline": "WotC将AI和解金\n转给D&D作者",
+          "body": "WotC将把Anthropic 15亿美元和解金中的自身份额转给D&D作者。",
+          "mini_headline": "WotC分享AI赔付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "11月13日，童书作家与插画家协会（Society of Children’s Book Writers and Illustrators）举办童书市场网络研讨会，作家兼编辑Deborah Halverson公布了阅读调查的主要发现，并谈及禁书问题和AI日益增强的存在感。根据Portland State University的研究，66%的Gen Z自认为是读者，纸质书是他们最偏爱的形式。"
+                "x": "Dungeons and Dragons出版商Wizards of the Coast将与D&D作者分享Bartz v. Anthropic案的和解金。Wizards代表对Wargamer表示：“Wizards of the Coast以Dungeons & Dragons小说、模组和故事版权所有者的身份参与了Bartz v. Anthropic和解。没有构建其世界的创作者，D&D就不成其为D&D。”"
               },
               {
                 "t": "p",
-                "x": "Halverson引用PEN America约12,000起禁书事件的报告说：“我们发现，AI这个由两个字母组成的怪物，正越来越多地成为审查行动的工具。”她指出，AI-narrated有声书正在增加，“比付钱请配音演员更快、更便宜”；而APA的一项调查显示，愿意尝试AI朗读的比例从2025年的70%降至2026年的61%。"
+                "x": "Anthropic于2025年9月同意以15亿美元和解，该和解于2026年7月获批。约50万本书符合条件，每本至少3,000美元，扣除费用后由权利人分配，出版商与作者默认按50/50分成。"
               },
               {
                 "t": "p",
-                "x": "对于译者，“译者不再对文本进行创造性诠释，而是成为大语言模型输出内容的编辑”。Authors Guild已制定一系列AI最佳实践，而“经纪人正通过在合同中加入条款来应对［AI的使用］，规定合同所涉的手稿或作品不得输入LLMs”。"
+                "x": "据作者James Lowder称，“Wizards of the Coast放弃其在Anthropic赔付中的份额，把钱全部交给作者”，他说这笔钱达数十万美元。他将此归功于作者推动的谈判，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SCBWI analiza la AI en\nla edición infantil",
-          "body": "Un webinario de SCBWI analizó el creciente papel de la AI en vetos de libros, audiolibros, traducción y contratos.",
-          "mini_headline": "SCBWI y la AI",
+          "headline": "Wizards of the Coast da a los\nautores de D&D su pago de IA",
+          "body": "Wizards of the Coast dará a los autores de D&D su parte del acuerdo de 1,5 mil millones de dólares con Anthropic.",
+          "mini_headline": "WotC reparte el pago de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132932-1.JPG"
+                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
               },
               {
                 "t": "p",
-                "x": "El 13 de noviembre, la Society of Children’s Book Writers and Illustrators celebró un webinario sobre el mercado del libro infantil en el que la autora y editora Deborah Halverson presentó los principales hallazgos de estudios de lectura y abordó la prohibición de libros y la creciente presencia de la AI. Según un estudio de Portland State University, el 66% de la Gen Z se identificó como lectora, y el formato impreso es su preferido."
+                "x": "Wizards of the Coast, editora de Dungeons and Dragons, compartirá con los autores de D&D los fondos del acuerdo del caso Bartz v. Anthropic. “Wizards of the Coast participó en el acuerdo de Bartz v. Anthropic como titular de los derechos de autor de novelas, módulos e historias de Dungeons & Dragons”, dijo un representante de Wizards a Wargamer. “D&D no sería D&D sin los creadores que construyeron sus mundos”."
               },
               {
                 "t": "p",
-                "x": "Citando un informe de PEN America sobre aproximadamente 12,000 casos de prohibición de libros, Halverson dijo: “Estamos descubriendo que la AI —ese coco de dos letras— es cada vez más una herramienta para los intentos de censura”. Señaló el auge de los audiolibros AI-narrated, “más rápidos y baratos que pagar a actores de voz”, mientras que una encuesta de la APA halló que la disposición a probar la narración con AI bajó del 70% en 2025 al 61% en 2026."
+                "x": "Anthropic aceptó un acuerdo de 1.500 millones de dólares en septiembre de 2025, aprobado en julio de 2026. Unos 500.000 libros eran elegibles: al menos 3.000 dólares por libro, menos comisiones, repartidos entre los titulares de derechos, con un reparto 50/50 por defecto entre editoriales y autores."
               },
               {
                 "t": "p",
-                "x": "Sobre los traductores: “los traductores ya no originan la interpretación creativa del texto; se convierten en editores de los resultados de los grandes modelos de lenguaje”. El Authors Guild ha elaborado una serie de buenas prácticas sobre AI, y “los agentes están abordando [el uso de la AI] insertando en los contratos cláusulas que establecen que el manuscrito o las ilustraciones bajo contrato no pueden introducirse en LLMs”."
+                "x": "Según el autor James Lowder, “Wizards of the Coast renuncia a su parte del pago de Anthropic y entrega todo el dinero a los autores”, lo que, según él, asciende a cientos de miles de dólares. Atribuyó el resultado a las conversaciones impulsadas por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
               }
             ]
           }
@@ -1331,15 +1019,447 @@
       }
     },
     {
-      "id": "comstocks-sacramento-ai-pushback",
+      "id": "beeflix-movingtoon-ai",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "비플릭스 '무빙툰'\nAI로 웹툰에 움직임",
+      "body": "비플릭스가 AI로 웹툰 컷마다 움직임을 입힌 '무빙툰' 서비스를 출시했다.",
+      "mini_headline": "AI 무빙툰 출시",
+      "tool": "Books",
+      "source": "국제뉴스",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758253",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+          },
+          {
+            "t": "p",
+            "x": "국내 OTT 서비스 비플릭스가 인공지능(AI) 기술을 접목해 웹툰의 각 컷에 움직임을 더한 새로운 웹툰 서비스 ‘무빙툰’을 출시했다."
+          },
+          {
+            "t": "p",
+            "x": "무빙툰은 정지된 이미지 중심의 기존 웹툰을 움직이는 장면으로 감상할 수 있도록 만든 서비스다. 웹툰의 컷마다 생동감 있는 움직임을 적용해 독자들이 이야기를 새로운 방식으로 즐길 수 있도록 했다."
+          },
+          {
+            "t": "p",
+            "x": "기존 웹툰이 정지된 이미지와 컷의 구성으로 이야기를 전달한다면, 무빙툰은 각 컷에 움직임을 더해 한층 생동감 있는 감상 경험을 제공한다. 웹툰 특유의 구성과 흐름을 바탕으로 정적인 이미지에 활력을 더한 것이 특징이다."
+          },
+          {
+            "t": "p",
+            "x": "비플릭스는 AI 기술을 활용해 웹툰에 움직임을 적용하는 기술을 개발하고, 이를 무빙툰 서비스에 도입했다. 기존 웹툰이 가진 콘텐츠의 매력에 움직임을 더해 독자들이 익숙한 이야기도 새로운 느낌으로 접할 수 있도록 했다."
+          },
+          {
+            "t": "p",
+            "x": "이번 기술은 비플릭스의 무빙툰뿐 아니라 다른 웹툰 서비스에도 즉시 활용할 수 있도록 개발됐다. 다양한 웹툰 콘텐츠와 서비스에 적용할 수 있는 가능성을 갖춰, 웹툰을 선보이는 방식의 확장에도 활용될 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "무빙툰은 웹툰과 AI 기술의 결합을 통해 콘텐츠 감상 방식에 새로운 선택지를 제시한다. 웹툰의 각 장면에 움직임을 더함으로써 독자들이 이야기의 흐름을 더욱 생동감 있게 경험할 수 있도록 한 것이다."
+          },
+          {
+            "t": "p",
+            "x": "비플릭스 무빙툰 서비스는 비플릭스 모바일 웹과 PC 웹에서 이용할 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "비플릭스 '무빙툰'\nAI로 웹툰에 움직임",
+          "body": "비플릭스가 AI로 웹툰 컷마다 움직임을 입힌 '무빙툰' 서비스를 출시했다.",
+          "mini_headline": "AI 무빙툰 출시",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "국내 OTT 서비스 비플릭스가 인공지능(AI) 기술을 접목해 웹툰의 각 컷에 움직임을 더한 새로운 웹툰 서비스 ‘무빙툰’을 출시했다."
+              },
+              {
+                "t": "p",
+                "x": "무빙툰은 정지된 이미지 중심의 기존 웹툰을 움직이는 장면으로 감상할 수 있도록 만든 서비스다. 웹툰의 컷마다 생동감 있는 움직임을 적용해 독자들이 이야기를 새로운 방식으로 즐길 수 있도록 했다."
+              },
+              {
+                "t": "p",
+                "x": "기존 웹툰이 정지된 이미지와 컷의 구성으로 이야기를 전달한다면, 무빙툰은 각 컷에 움직임을 더해 한층 생동감 있는 감상 경험을 제공한다. 웹툰 특유의 구성과 흐름을 바탕으로 정적인 이미지에 활력을 더한 것이 특징이다."
+              },
+              {
+                "t": "p",
+                "x": "비플릭스는 AI 기술을 활용해 웹툰에 움직임을 적용하는 기술을 개발하고, 이를 무빙툰 서비스에 도입했다. 기존 웹툰이 가진 콘텐츠의 매력에 움직임을 더해 독자들이 익숙한 이야기도 새로운 느낌으로 접할 수 있도록 했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 기술은 비플릭스의 무빙툰뿐 아니라 다른 웹툰 서비스에도 즉시 활용할 수 있도록 개발됐다. 다양한 웹툰 콘텐츠와 서비스에 적용할 수 있는 가능성을 갖춰, 웹툰을 선보이는 방식의 확장에도 활용될 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "무빙툰은 웹툰과 AI 기술의 결합을 통해 콘텐츠 감상 방식에 새로운 선택지를 제시한다. 웹툰의 각 장면에 움직임을 더함으로써 독자들이 이야기의 흐름을 더욱 생동감 있게 경험할 수 있도록 한 것이다."
+              },
+              {
+                "t": "p",
+                "x": "비플릭스 무빙툰 서비스는 비플릭스 모바일 웹과 PC 웹에서 이용할 수 있다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Beeflix's 'Moving Toon' uses\nAI to animate webtoon panels",
+          "body": "Beeflix has launched Moving Toon, a service that uses AI to add motion to every panel of a webtoon.",
+          "mini_headline": "AI Moving Toon launches",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "Korean OTT service Beeflix has launched Moving Toon, a new webtoon service that applies artificial intelligence (AI) technology to add motion to each panel of a webtoon."
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon is a service that lets readers view conventional webtoons, which center on still images, as moving scenes. By applying lively motion to each panel, it lets readers enjoy stories in a new way."
+              },
+              {
+                "t": "p",
+                "x": "Where conventional webtoons tell stories through still images and the arrangement of panels, Moving Toon adds motion to each panel to offer a livelier viewing experience. Its distinguishing feature is that it brings energy to static images while building on the structure and flow particular to webtoons."
+              },
+              {
+                "t": "p",
+                "x": "Beeflix developed a technology that uses AI to apply motion to webtoons and introduced it into the Moving Toon service. By adding motion to the appeal of existing webtoon content, it lets readers experience even familiar stories in a fresh way."
+              },
+              {
+                "t": "p",
+                "x": "The technology was developed so that it can be used right away not only in Beeflix's Moving Toon but also in other webtoon services. With the potential to be applied to a range of webtoon content and services, it could also help expand the ways webtoons are presented."
+              },
+              {
+                "t": "p",
+                "x": "By combining webtoons with AI technology, Moving Toon offers a new option for how content is enjoyed. Adding motion to each scene of a webtoon lets readers experience the flow of a story more vividly."
+              },
+              {
+                "t": "p",
+                "x": "The Beeflix Moving Toon service is available on Beeflix's mobile web and PC web."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Beeflixの新サービス\nAIでウェブトゥーンが動く",
+          "body": "BeeflixがAIでウェブトゥーンの各コマに動きを加える「ムービングトゥーン」を始めた。",
+          "mini_headline": "AIムービングトゥーン開始",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "国内OTTサービスのBeeflixが、人工知能（AI）技術を取り入れ、ウェブトゥーンの各コマに動きを加えた新しいウェブトゥーンサービス「ムービングトゥーン」を開始した。"
+              },
+              {
+                "t": "p",
+                "x": "ムービングトゥーンは、静止画中心の従来のウェブトゥーンを動くシーンとして楽しめるようにしたサービスだ。コマごとに生き生きとした動きを付け、読者が物語を新しい形で楽しめるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "従来のウェブトゥーンが静止画とコマ割りで物語を伝えるのに対し、ムービングトゥーンは各コマに動きを加え、より生き生きとした鑑賞体験を提供する。ウェブトゥーン特有の構成と流れを土台に、静的な画像に活力を与えた点が特徴である。"
+              },
+              {
+                "t": "p",
+                "x": "BeeflixはAI技術を活用してウェブトゥーンに動きを付ける技術を開発し、ムービングトゥーンに導入した。既存のウェブトゥーンが持つコンテンツの魅力に動きを加え、読者がなじみのある物語も新鮮な感覚で味わえるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "この技術は、Beeflixのムービングトゥーンだけでなく、他のウェブトゥーンサービスにもすぐに活用できるよう開発された。さまざまなウェブトゥーンコンテンツやサービスに応用できる可能性を備え、ウェブトゥーンの見せ方を広げることにも生かせる。"
+              },
+              {
+                "t": "p",
+                "x": "ムービングトゥーンは、ウェブトゥーンとAI技術の組み合わせを通じて、コンテンツの楽しみ方に新たな選択肢を示す。ウェブトゥーンの各場面に動きを加えることで、読者が物語の流れをより生き生きと体験できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "Beeflixのムービングトゥーンは、BeeflixのモバイルウェブとPCウェブで利用できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Beeflix动态漫画上线\nAI让网漫动起来",
+          "body": "Beeflix推出“Moving Toon”服务，借助AI让网络漫画的每一格都动起来。",
+          "mini_headline": "AI Moving Toon上线",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "韩国OTT服务Beeflix结合人工智能（AI）技术，推出了为网络漫画每一格添加动态效果的全新网漫服务“Moving Toon”。"
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon让以静态图像为主的传统网络漫画可以作为动态画面来欣赏。它为每一格漫画加入生动的动作，让读者以全新的方式享受故事。"
+              },
+              {
+                "t": "p",
+                "x": "传统网络漫画通过静态图像和分格编排讲述故事，而Moving Toon为每一格加入动态，带来更生动的观看体验。其特点是在网络漫画特有的结构与节奏基础上，为静态图像注入活力。"
+              },
+              {
+                "t": "p",
+                "x": "Beeflix开发了利用AI技术为网络漫画加入动态的技术，并将其引入Moving Toon服务。在原有网漫内容魅力的基础上加入动态，让读者即使面对熟悉的故事也能获得新鲜感受。"
+              },
+              {
+                "t": "p",
+                "x": "这项技术在开发时就考虑到不仅能用于Beeflix的Moving Toon，也能立即用于其他网络漫画服务。它具备应用于多种网漫内容和服务的潜力，也可用于拓展网络漫画的呈现方式。"
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon通过网络漫画与AI技术的结合，为内容欣赏方式提供了新选择。通过为网络漫画的每个场景加入动态，让读者更生动地体验故事的发展。"
+              },
+              {
+                "t": "p",
+                "x": "Beeflix Moving Toon服务可在Beeflix移动网页版和PC网页版使用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Beeflix lanza 'Moving Toon':\nla IA da movimiento al webtoon",
+          "body": "Beeflix ha lanzado Moving Toon, un servicio que usa IA para dar movimiento a cada viñeta de un webtoon.",
+          "mini_headline": "Llega Moving Toon con IA",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "El servicio de OTT surcoreano Beeflix ha lanzado Moving Toon, un nuevo servicio de webtoon que incorpora inteligencia artificial (IA) para añadir movimiento a cada viñeta de los webtoons."
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon es un servicio que permite ver los webtoons tradicionales, centrados en imágenes fijas, como escenas en movimiento. Al aplicar un movimiento vivo a cada viñeta, permite a los lectores disfrutar de las historias de una forma nueva."
+              },
+              {
+                "t": "p",
+                "x": "Si el webtoon tradicional cuenta historias mediante imágenes fijas y la composición de viñetas, Moving Toon añade movimiento a cada una para ofrecer una experiencia más viva. Su rasgo distintivo es dar vitalidad a imágenes estáticas a partir de la estructura y el ritmo propios del webtoon."
+              },
+              {
+                "t": "p",
+                "x": "Beeflix desarrolló una tecnología que usa IA para aplicar movimiento a los webtoons y la incorporó al servicio Moving Toon. Al sumar movimiento al atractivo de los contenidos existentes, los lectores pueden vivir de un modo nuevo incluso historias conocidas."
+              },
+              {
+                "t": "p",
+                "x": "La tecnología se desarrolló para poder usarse de inmediato no solo en Moving Toon de Beeflix, sino también en otros servicios de webtoon. Puede aplicarse a contenidos y servicios diversos y servir para ampliar las formas de presentar webtoons."
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon plantea una nueva opción para disfrutar contenidos al combinar el webtoon con la tecnología de IA. Al añadir movimiento a cada escena, permite a los lectores vivir el desarrollo de la historia de forma más viva."
+              },
+              {
+                "t": "p",
+                "x": "El servicio Moving Toon de Beeflix está disponible en la web móvil y la web para PC de Beeflix."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Beeflix's 'Moving Toon' uses\nAI to animate webtoon panels",
+          "body": "Beeflix has launched Moving Toon, a service that uses AI to add motion to every panel of a webtoon.",
+          "mini_headline": "AI Moving Toon launches",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "Korean OTT service Beeflix has launched Moving Toon, a new webtoon service that applies artificial intelligence (AI) technology to add motion to each panel of a webtoon."
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon is a service that lets readers view conventional webtoons, which center on still images, as moving scenes. By applying lively motion to each panel, it lets readers enjoy stories in a new way."
+              },
+              {
+                "t": "p",
+                "x": "Where conventional webtoons tell stories through still images and the arrangement of panels, Moving Toon adds motion to each panel to offer a livelier viewing experience. Its distinguishing feature is that it brings energy to static images while building on the structure and flow particular to webtoons."
+              },
+              {
+                "t": "p",
+                "x": "Beeflix developed a technology that uses AI to apply motion to webtoons and introduced it into the Moving Toon service. By adding motion to the appeal of existing webtoon content, it lets readers experience even familiar stories in a fresh way."
+              },
+              {
+                "t": "p",
+                "x": "The technology was developed so that it can be used right away not only in Beeflix's Moving Toon but also in other webtoon services. With the potential to be applied to a range of webtoon content and services, it could also help expand the ways webtoons are presented."
+              },
+              {
+                "t": "p",
+                "x": "By combining webtoons with AI technology, Moving Toon offers a new option for how content is enjoyed. Adding motion to each scene of a webtoon lets readers experience the flow of a story more vividly."
+              },
+              {
+                "t": "p",
+                "x": "The Beeflix Moving Toon service is available on Beeflix's mobile web and PC web."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Beeflixの新サービス\nAIでウェブトゥーンが動く",
+          "body": "BeeflixがAIでウェブトゥーンの各コマに動きを加える「ムービングトゥーン」を始めた。",
+          "mini_headline": "AIムービングトゥーン開始",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "国内OTTサービスのBeeflixが、人工知能（AI）技術を取り入れ、ウェブトゥーンの各コマに動きを加えた新しいウェブトゥーンサービス「ムービングトゥーン」を開始した。"
+              },
+              {
+                "t": "p",
+                "x": "ムービングトゥーンは、静止画中心の従来のウェブトゥーンを動くシーンとして楽しめるようにしたサービスだ。コマごとに生き生きとした動きを付け、読者が物語を新しい形で楽しめるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "従来のウェブトゥーンが静止画とコマ割りで物語を伝えるのに対し、ムービングトゥーンは各コマに動きを加え、より生き生きとした鑑賞体験を提供する。ウェブトゥーン特有の構成と流れを土台に、静的な画像に活力を与えた点が特徴である。"
+              },
+              {
+                "t": "p",
+                "x": "BeeflixはAI技術を活用してウェブトゥーンに動きを付ける技術を開発し、ムービングトゥーンに導入した。既存のウェブトゥーンが持つコンテンツの魅力に動きを加え、読者がなじみのある物語も新鮮な感覚で味わえるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "この技術は、Beeflixのムービングトゥーンだけでなく、他のウェブトゥーンサービスにもすぐに活用できるよう開発された。さまざまなウェブトゥーンコンテンツやサービスに応用できる可能性を備え、ウェブトゥーンの見せ方を広げることにも生かせる。"
+              },
+              {
+                "t": "p",
+                "x": "ムービングトゥーンは、ウェブトゥーンとAI技術の組み合わせを通じて、コンテンツの楽しみ方に新たな選択肢を示す。ウェブトゥーンの各場面に動きを加えることで、読者が物語の流れをより生き生きと体験できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "Beeflixのムービングトゥーンは、BeeflixのモバイルウェブとPCウェブで利用できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Beeflix动态漫画上线\nAI让网漫动起来",
+          "body": "Beeflix推出“Moving Toon”服务，借助AI让网络漫画的每一格都动起来。",
+          "mini_headline": "AI Moving Toon上线",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "韩国OTT服务Beeflix结合人工智能（AI）技术，推出了为网络漫画每一格添加动态效果的全新网漫服务“Moving Toon”。"
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon让以静态图像为主的传统网络漫画可以作为动态画面来欣赏。它为每一格漫画加入生动的动作，让读者以全新的方式享受故事。"
+              },
+              {
+                "t": "p",
+                "x": "传统网络漫画通过静态图像和分格编排讲述故事，而Moving Toon为每一格加入动态，带来更生动的观看体验。其特点是在网络漫画特有的结构与节奏基础上，为静态图像注入活力。"
+              },
+              {
+                "t": "p",
+                "x": "Beeflix开发了利用AI技术为网络漫画加入动态的技术，并将其引入Moving Toon服务。在原有网漫内容魅力的基础上加入动态，让读者即使面对熟悉的故事也能获得新鲜感受。"
+              },
+              {
+                "t": "p",
+                "x": "这项技术在开发时就考虑到不仅能用于Beeflix的Moving Toon，也能立即用于其他网络漫画服务。它具备应用于多种网漫内容和服务的潜力，也可用于拓展网络漫画的呈现方式。"
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon通过网络漫画与AI技术的结合，为内容欣赏方式提供了新选择。通过为网络漫画的每个场景加入动态，让读者更生动地体验故事的发展。"
+              },
+              {
+                "t": "p",
+                "x": "Beeflix Moving Toon服务可在Beeflix移动网页版和PC网页版使用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Beeflix lanza 'Moving Toon':\nla IA da movimiento al webtoon",
+          "body": "Beeflix ha lanzado Moving Toon, un servicio que usa IA para dar movimiento a cada viñeta de un webtoon.",
+          "mini_headline": "Llega Moving Toon con IA",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+              },
+              {
+                "t": "p",
+                "x": "El servicio de OTT surcoreano Beeflix ha lanzado Moving Toon, un nuevo servicio de webtoon que incorpora inteligencia artificial (IA) para añadir movimiento a cada viñeta de los webtoons."
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon es un servicio que permite ver los webtoons tradicionales, centrados en imágenes fijas, como escenas en movimiento. Al aplicar un movimiento vivo a cada viñeta, permite a los lectores disfrutar de las historias de una forma nueva."
+              },
+              {
+                "t": "p",
+                "x": "Si el webtoon tradicional cuenta historias mediante imágenes fijas y la composición de viñetas, Moving Toon añade movimiento a cada una para ofrecer una experiencia más viva. Su rasgo distintivo es dar vitalidad a imágenes estáticas a partir de la estructura y el ritmo propios del webtoon."
+              },
+              {
+                "t": "p",
+                "x": "Beeflix desarrolló una tecnología que usa IA para aplicar movimiento a los webtoons y la incorporó al servicio Moving Toon. Al sumar movimiento al atractivo de los contenidos existentes, los lectores pueden vivir de un modo nuevo incluso historias conocidas."
+              },
+              {
+                "t": "p",
+                "x": "La tecnología se desarrolló para poder usarse de inmediato no solo en Moving Toon de Beeflix, sino también en otros servicios de webtoon. Puede aplicarse a contenidos y servicios diversos y servir para ampliar las formas de presentar webtoons."
+              },
+              {
+                "t": "p",
+                "x": "Moving Toon plantea una nueva opción para disfrutar contenidos al combinar el webtoon con la tecnología de IA. Al añadir movimiento a cada escena, permite a los lectores vivir el desarrollo de la historia de forma más viva."
+              },
+              {
+                "t": "p",
+                "x": "El servicio Moving Toon de Beeflix está disponible en la web móvil y la web para PC de Beeflix."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "cambridge-human-woty",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sacramento 서점가\nAI에 반기",
-      "body": "한 서점은 AI 책을, Sibylline Press는 AI 의심 원고를 거부한다.",
-      "mini_headline": "서점들, AI에 맞서다",
+      "headline": "Cambridge 사전,\n올해의 단어 'human'",
+      "body": "Cambridge 사전이 AI 시대의 2026년 단어로 'human'을 골랐다.",
+      "mini_headline": "Cambridge, 'human' 선정",
       "tool": "Books",
-      "source": "Comstock's Magazine",
-      "url": "https://www.comstocksmag.com/web-only/ai-changing-book-business-literary-community-pushing-back",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/cambridge-dictionary-names-human-word-of-the-year-2026",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1347,155 +1467,101 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-            "cap": "Sacramento 도심 Capital Books의 메인 매장. (사진: Eric Schucht)"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
           },
           {
             "t": "p",
-            "x": "Sacramento 도심의 Capital Books가 갖춘 약 12,000종 가운데 생성형 AI 책은 한 권도 없다. 공동 소유주 Ross Rojek가 들여놓지 않아서다. 그는 “사람들은 사람이 쓴 책을 사고 싶어 한다”고 말하면서도 어떤 글을 기계가 썼는지 갈수록 가려내기 어렵다고 털어놓는다."
-          },
-          {
-            "t": "p",
-            "x": "Sibylline Press의 편집장 Julia Park Tracey는 AI 텍스트가 의심되는 원고를 거절한다. 한 작가가 AI로 책을 고쳐 쓰고 교정했다고 인정하자 출판사는 직접 다시 쓰라고 했다. Park Tracey는 “기계가 느낄 수 있다고는 생각하지 않는다”고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "지역 작가들은 해적판 도서 700만 권을 둘러싼 Bartz v. Anthropic 15억 달러 합의도 따져본다. 요건을 갖춘 책 한 권에 약 3,000달러꼴이다. KDP 판매가 줄어든 작가 Michele Drier는 Amazon이 9월에 업로드를 주당 두 권으로 제한했지만 AI 책이 “정당한 작가들을 확실히 깎아내린다”고 우려한다."
+            "x": "Cambridge Dictionary(케임브리지 사전)가 2026년 올해의 단어로 ‘human’을 골랐다. “AI가 사람과 기계의 경계를 흐리는 가운데 인간이란 무엇을 의미하는지를 둘러싼 전 세계적 논쟁으로 규정된” 한 해에 내놓은 답이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sacramento's book world\npushes back on AI",
-          "body": "A Sacramento bookseller refuses to stock AI titles, and Sibylline Press rejects manuscripts suspected of AI text.",
-          "mini_headline": "Booksellers push back on AI",
+          "headline": "Cambridge Dictionary picks\n'human' as Word of the Year",
+          "body": "Cambridge Dictionary chose 'human' for 2026, a year of debate over being human as AI blurs the line with machines.",
+          "mini_headline": "Cambridge picks 'human'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "The main floor of Capital Books in downtown Sacramento. (Photo by Eric Schucht)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "Of approximately 12,000 titles at Capital Books in downtown Sacramento, co-owner Ross Rojek refuses to stock any generative AI titles. “People want to buy books by people,” he says, though he increasingly doubts what is or isn’t machine-written text."
-              },
-              {
-                "t": "p",
-                "x": "Julia Park Tracey, executive editor at Sibylline Press, rejects manuscripts suspected of AI text. When an author admitted using AI to rewrite and copyedit her book, the company asked her to rewrite it herself. “I just don’t think that machines can feel,” Park Tracey says."
-              },
-              {
-                "t": "p",
-                "x": "Local authors also weigh the Bartz v. Anthropic $1.5 billion settlement over 7 million pirated books, around $3,000 per qualifying book. Author Michele Drier, whose KDP sales have declined, worries AI books “absolutely undercut legitimate authors,” even as Amazon cut uploads to two titles a week in September."
+                "x": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026 in response to a year “defined by global debates on what it means to be human when AI is blurring the boundaries between people and machines”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sacramento 서점가\nAI에 반기",
-          "body": "한 서점은 AI 책을, Sibylline Press는 AI 의심 원고를 거부한다.",
-          "mini_headline": "서점들, AI에 맞서다",
+          "headline": "Cambridge 사전,\n올해의 단어 'human'",
+          "body": "Cambridge 사전이 AI 시대의 2026년 단어로 'human'을 골랐다.",
+          "mini_headline": "Cambridge, 'human' 선정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "Sacramento 도심 Capital Books의 메인 매장. (사진: Eric Schucht)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "Sacramento 도심의 Capital Books가 갖춘 약 12,000종 가운데 생성형 AI 책은 한 권도 없다. 공동 소유주 Ross Rojek가 들여놓지 않아서다. 그는 “사람들은 사람이 쓴 책을 사고 싶어 한다”고 말하면서도 어떤 글을 기계가 썼는지 갈수록 가려내기 어렵다고 털어놓는다."
-              },
-              {
-                "t": "p",
-                "x": "Sibylline Press의 편집장 Julia Park Tracey는 AI 텍스트가 의심되는 원고를 거절한다. 한 작가가 AI로 책을 고쳐 쓰고 교정했다고 인정하자 출판사는 직접 다시 쓰라고 했다. Park Tracey는 “기계가 느낄 수 있다고는 생각하지 않는다”고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "지역 작가들은 해적판 도서 700만 권을 둘러싼 Bartz v. Anthropic 15억 달러 합의도 따져본다. 요건을 갖춘 책 한 권에 약 3,000달러꼴이다. KDP 판매가 줄어든 작가 Michele Drier는 Amazon이 9월에 업로드를 주당 두 권으로 제한했지만 AI 책이 “정당한 작가들을 확실히 깎아내린다”고 우려한다."
+                "x": "Cambridge Dictionary(케임브리지 사전)가 2026년 올해의 단어로 ‘human’을 골랐다. “AI가 사람과 기계의 경계를 흐리는 가운데 인간이란 무엇을 의미하는지를 둘러싼 전 세계적 논쟁으로 규정된” 한 해에 내놓은 답이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sacramentoの出版界\nAIに反発",
-          "body": "地元書店はAI本を置かず、Sibylline PressはAIが疑われる原稿を断る。",
-          "mini_headline": "書店がAIに反発",
+          "headline": "Cambridge辞典の\n今年の単語は「human」",
+          "body": "Cambridge辞典は、AI時代の2026年を表す単語に「human」を選んだ。",
+          "mini_headline": "Cambridge、「human」を選出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "Sacramento中心部にあるCapital Booksのメインフロア（写真：Eric Schucht）"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "Sacramento中心部のCapital Booksが扱う約12,000タイトルのうち、生成AIによる本は一冊もない。共同オーナーのRoss Rojekが仕入れを拒んでいるからだ。「人は人が書いた本を買いたいのだ」と語る一方、何が機械の書いた文章で何がそうでないのか、ますます判断に迷うようになっているという。"
-              },
-              {
-                "t": "p",
-                "x": "Sibylline Pressのエグゼクティブエディター、Julia Park Traceyは、AIの文章が疑われる原稿を断っている。ある作家がAIで本を書き直し、校正したと認めた際には、自分で書き直すよう求めた。「機械が感じられるとはとても思えない」とPark Traceyは言う。"
-              },
-              {
-                "t": "p",
-                "x": "地元の作家たちは、海賊版700万冊をめぐるBartz v. Anthropicの15億ドルの和解にも注目している。対象となる本一冊あたり約3,000ドルだ。KDPでの売り上げが落ちた作家Michele Drierは、Amazonが9月にアップロードを週二タイトルに制限したにもかかわらず、AI本は「正当な作家を確実に食い物にしている」と懸念する。"
+                "x": "Cambridge Dictionary（ケンブリッジ辞典）は、「AIが人と機械の境界をあいまいにする中で、人間であるとは何を意味するのかをめぐる世界的な議論に特徴づけられた」年を受け、「human」を2026年の今年の単語に選んだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sacramento书业\n对AI说不",
-          "body": "当地一家书店拒售AI书籍，Sibylline Press也拒收疑似AI写作的稿件。",
-          "mini_headline": "书商抵制AI",
+          "headline": "Cambridge词典\n年度词选“human”",
+          "body": "Cambridge词典将“human”选为2026年度词汇，回应AI模糊人机界限的讨论。",
+          "mini_headline": "Cambridge选出“human”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "Sacramento市中心Capital Books的主营业层。（摄影：Eric Schucht）"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "Sacramento市中心的Capital Books约有12,000种图书，联合店主Ross Rojek拒绝上架任何生成式AI书籍。“人们想买人写的书，”他说。不过，什么是机器写的文字、什么不是，他越来越拿不准。"
-              },
-              {
-                "t": "p",
-                "x": "Sibylline Press执行编辑Julia Park Tracey会拒收疑似含AI文字的稿件。一位作者承认用AI改写并校订了自己的书后，公司要求她亲自重写。“我就是不认为机器能有感受，”Park Tracey说。"
-              },
-              {
-                "t": "p",
-                "x": "当地作者也在掂量Bartz v. Anthropic案就700万本盗版书达成的15亿美元和解，每本符合条件的书约3,000美元。KDP销量下滑的作家Michele Drier担心，尽管Amazon已于9月将上传量限制为每周两本，AI书籍仍“绝对在挤压正当作者”。"
+                "x": "Cambridge Dictionary（剑桥词典）将“human”评为2026年度词汇，以回应这一“由全球围绕AI模糊人与机器界限之际身为人类意味着什么的讨论所定义”的一年。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mundo del libro de Sacramento\nplanta cara a la AI",
-          "body": "Una librería de Sacramento no vende títulos de AI y Sibylline Press rechaza manuscritos sospechosos de texto de AI.",
-          "mini_headline": "Las librerías frenan a la AI",
+          "headline": "Cambridge Dictionary elige\n'human' como palabra del año",
+          "body": "Cambridge Dictionary eligió 'human' para 2026, año de debate sobre lo humano ante una IA que difumina límites.",
+          "mini_headline": "Cambridge elige 'human'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "La planta principal de Capital Books, en el centro de Sacramento. (Foto de Eric Schucht)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "De los aproximadamente 12,000 títulos de Capital Books, en el centro de Sacramento, ninguno es de AI generativa: su copropietario, Ross Rojek, se niega a tenerlos. “La gente quiere comprar libros escritos por personas”, afirma, aunque cada vez duda más sobre qué es y qué no es texto escrito por una máquina."
-              },
-              {
-                "t": "p",
-                "x": "Julia Park Tracey, editora ejecutiva de Sibylline Press, rechaza los manuscritos sospechosos de contener texto de AI. Cuando una autora admitió haber usado AI para reescribir y corregir su libro, la editorial le pidió que lo reescribiera ella misma. “Simplemente no creo que las máquinas puedan sentir”, dice Park Tracey."
-              },
-              {
-                "t": "p",
-                "x": "Los autores locales también sopesan el acuerdo de 1.5 mil millones de dólares del caso Bartz v. Anthropic por 7 millones de libros pirateados, unos 3,000 dólares por libro elegible. La autora Michele Drier, cuyas ventas en KDP han caído, teme que los libros de AI “socaven por completo a los autores legítimos”, pese a que Amazon limitó en septiembre las subidas a dos títulos por semana."
+                "x": "El Cambridge Dictionary ha elegido ‘human’ como palabra del año 2026 en respuesta a un año “definido por debates globales sobre lo que significa ser humano cuando la IA difumina los límites entre personas y máquinas”."
               }
             ]
           }
@@ -1503,109 +1569,73 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sacramento 서점가\nAI에 반기",
-          "body": "한 서점은 AI 책을, Sibylline Press는 AI 의심 원고를 거부한다.",
-          "mini_headline": "서점들, AI에 맞서다",
+          "headline": "Cambridge 사전,\n올해의 단어 'human'",
+          "body": "Cambridge 사전이 AI 시대의 2026년 단어로 'human'을 골랐다.",
+          "mini_headline": "Cambridge, 'human' 선정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "Sacramento 도심 Capital Books의 메인 매장. (사진: Eric Schucht)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "Sacramento 도심의 Capital Books가 갖춘 약 12,000종 가운데 생성형 AI 책은 하나도 없다. 공동 소유주 Ross Rojek가 들여놓기를 거부하기 때문이다. 그는 “사람들은 사람이 쓴 책을 사고 싶어 한다”고 말하면서도, 무엇이 기계가 쓴 글이고 무엇이 아닌지 점점 확신하기 어렵다고 털어놓는다."
-              },
-              {
-                "t": "p",
-                "x": "Sibylline Press의 편집장 Julia Park Tracey는 AI 텍스트가 의심되는 원고를 거절한다. 한 작가가 AI로 책을 다시 쓰고 교정했다고 인정하자, 회사는 직접 다시 쓰라고 요청했다. Park Tracey는 “기계가 느낄 수 있다고는 생각하지 않는다”고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "지역 작가들은 해적판 도서 700만 권을 둘러싼 Bartz v. Anthropic 15억 달러 합의도 따져보고 있다. 요건을 갖춘 책 한 권당 약 3,000달러다. KDP 판매가 줄어든 작가 Michele Drier는 Amazon이 9월 업로드를 주당 두 권으로 제한했는데도 AI 책이 “정당한 작가들을 확실히 깎아내린다”고 우려한다."
+                "x": "Cambridge Dictionary(케임브리지 사전)가 ‘human’을 2026년 올해의 단어로 선정했다. “AI가 사람과 기계의 경계를 흐리는 가운데 인간이란 무엇을 의미하는지를 둘러싼 전 세계적 논쟁으로 규정된” 한 해에 대한 응답이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sacramentoの出版界\nAIに反発",
-          "body": "地元書店はAI本を置かず、Sibylline PressはAIが疑われる原稿を断る。",
-          "mini_headline": "書店がAIに反発",
+          "headline": "Cambridge辞典の\n今年の単語は「human」",
+          "body": "Cambridge辞典は、AI時代の2026年を表す単語に「human」を選んだ。",
+          "mini_headline": "Cambridge、「human」を選出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "Sacramento中心部にあるCapital Booksのメインフロア（写真：Eric Schucht）"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "Sacramento中心部のCapital Booksが扱う約12,000タイトルのうち、生成AIによる本は一冊もない。共同オーナーのRoss Rojekが仕入れを拒んでいるからだ。「人は人が書いた本を買いたいのだ」と語る一方、何が機械の書いた文章で何がそうでないのか、ますます判断に迷うようになっているという。"
-              },
-              {
-                "t": "p",
-                "x": "Sibylline Pressのエグゼクティブエディター、Julia Park Traceyは、AIの文章が疑われる原稿を断っている。ある作家がAIで本を書き直し、校正したと認めた際には、自分で書き直すよう求めた。「機械が感じられるとはとても思えない」とPark Traceyは言う。"
-              },
-              {
-                "t": "p",
-                "x": "地元の作家たちは、海賊版700万冊をめぐるBartz v. Anthropicの15億ドルの和解にも注目している。対象となる本一冊あたり約3,000ドルだ。KDPでの売り上げが落ちた作家Michele Drierは、Amazonが9月にアップロードを週二タイトルに制限したにもかかわらず、AI本は「正当な作家を確実に食い物にしている」と懸念する。"
+                "x": "Cambridge Dictionary（ケンブリッジ辞典）は、「AIが人と機械の境界をあいまいにする中で、人間であるとは何を意味するのかをめぐる世界的な議論に特徴づけられた」年を受け、「human」を2026年の今年の単語に選んだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sacramento书业\n对AI说不",
-          "body": "当地一家书店拒售AI书籍，Sibylline Press也拒收疑似AI写作的稿件。",
-          "mini_headline": "书商抵制AI",
+          "headline": "Cambridge词典\n年度词选“human”",
+          "body": "Cambridge词典将“human”选为2026年度词汇，回应AI模糊人机界限的讨论。",
+          "mini_headline": "Cambridge选出“human”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "Sacramento市中心Capital Books的主营业层。（摄影：Eric Schucht）"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "Sacramento市中心的Capital Books约有12,000种图书，联合店主Ross Rojek拒绝上架任何生成式AI书籍。“人们想买人写的书，”他说。不过，什么是机器写的文字、什么不是，他越来越拿不准。"
-              },
-              {
-                "t": "p",
-                "x": "Sibylline Press执行编辑Julia Park Tracey会拒收疑似含AI文字的稿件。一位作者承认用AI改写并校订了自己的书后，公司要求她亲自重写。“我就是不认为机器能有感受，”Park Tracey说。"
-              },
-              {
-                "t": "p",
-                "x": "当地作者也在掂量Bartz v. Anthropic案就700万本盗版书达成的15亿美元和解，每本符合条件的书约3,000美元。KDP销量下滑的作家Michele Drier担心，尽管Amazon已于9月将上传量限制为每周两本，AI书籍仍“绝对在挤压正当作者”。"
+                "x": "Cambridge Dictionary（剑桥词典）将“human”评为2026年度词汇，以回应这一“由全球围绕AI模糊人与机器界限之际身为人类意味着什么的讨论所定义”的一年。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mundo del libro de Sacramento\nplanta cara a la AI",
-          "body": "Una librería de Sacramento no vende títulos de AI y Sibylline Press rechaza manuscritos sospechosos de texto de AI.",
-          "mini_headline": "Las librerías frenan a la AI",
+          "headline": "Cambridge Dictionary elige\n'human' como palabra del año",
+          "body": "Cambridge Dictionary eligió 'human' para 2026, año de debate sobre lo humano ante una IA que difumina límites.",
+          "mini_headline": "Cambridge elige 'human'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.comstocksmag.com/sites/main/files/imagecache/carousel/main-images/img_3981.png?1794941683",
-                "cap": "La planta principal de Capital Books, en el centro de Sacramento. (Foto de Eric Schucht)"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
               },
               {
                 "t": "p",
-                "x": "De los aproximadamente 12,000 títulos de Capital Books, en el centro de Sacramento, ninguno es de AI generativa: su copropietario, Ross Rojek, se niega a tenerlos. “La gente quiere comprar libros escritos por personas”, afirma, aunque cada vez duda más sobre qué es y qué no es texto escrito por una máquina."
-              },
-              {
-                "t": "p",
-                "x": "Julia Park Tracey, editora ejecutiva de Sibylline Press, rechaza los manuscritos sospechosos de contener texto de AI. Cuando una autora admitió haber usado AI para reescribir y corregir su libro, la editorial le pidió que lo reescribiera ella misma. “Simplemente no creo que las máquinas puedan sentir”, dice Park Tracey."
-              },
-              {
-                "t": "p",
-                "x": "Los autores locales también sopesan el acuerdo de 1.5 mil millones de dólares del caso Bartz v. Anthropic por 7 millones de libros pirateados, unos 3,000 dólares por libro elegible. La autora Michele Drier, cuyas ventas en KDP han caído, teme que los libros de AI “socaven por completo a los autores legítimos”, pese a que Amazon limitó en septiembre las subidas a dos títulos por semana."
+                "x": "El Cambridge Dictionary ha elegido ‘human’ como palabra del año 2026 en respuesta a un año “definido por debates globales sobre lo que significa ser humano cuando la IA difumina los límites entre personas y máquinas”."
               }
             ]
           }

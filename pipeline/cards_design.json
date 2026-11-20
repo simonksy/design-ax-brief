@@ -1,379 +1,17 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "design",
   "cards": [
     {
-      "id": "canva-ai-off-switch",
+      "id": "nngroup-synthesized-data",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Canva, AI 기능\n대부분 끄는 스위치",
-      "body": "Canva에서 생성형 AI 대부분을 끄고 AI-made 콘텐츠를 덜 볼 수 있다.",
-      "mini_headline": "Canva, AI 끄기 스위치 추가",
-      "tool": "AI Workflow",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "Canva가 생성형 AI 기능을 끄는 설정을 내놨다. AI로 사진을 넓혀 주는 Magic Expand를 비롯한 이 그래픽 디자인 플랫폼의 AI 도구 여러 개와 Canva 챗봇의 이미지 생성 기능이 꺼진다."
-          },
-          {
-            "t": "p",
-            "x": "다만 이 토글로 Canva의 AI-powered 기능이 전부 꺼지지는 않는다. 배경 제거 도구와 Magic Grab 도구는 “새로운 것을 생성하지 않고 일상 작업을 더 빠르게 해 주기” 때문에 그대로 켜져 있다. 토글을 끄면 Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes 등이 꺼진다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-            "cap": "Canva 라이브러리에서 AI-generated 콘텐츠를 덜 보는 옵션도 있다."
-          },
-          {
-            "t": "p",
-            "x": "두 번째 토글을 켜면 Canva 라이브러리에서 템플릿, 그래픽 같은 디자인 요소를 검색할 때 사람이 만든 콘텐츠가 먼저 뜬다. Canva는 라이브러리에서 AI-generated 콘텐츠는 “작은 일부”일 뿐이고, 이런 요소를 쓴 디자인에는 메타데이터에 AI 라벨이 붙는다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "설정 위치는 Profile > Settings > Permission (Enable generative AI features)와 Profile > Your account > AI personalization이다. 무료·유료 사용자 모두 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Canva adds a switch to\nturn most AI features off",
-          "body": "Canva now lets free and paid users switch off most generative AI features and see less AI-made content.",
-          "mini_headline": "Canva adds an AI off switch",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform’s array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot."
-              },
-              {
-                "t": "p",
-                "x": "This toggle doesn’t turn off every AI-powered feature on Canva, however. Canva’s background remover and its Magic Grab tool stay on because they “make everyday tasks faster without generating anything new.” The toggle still turns off Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes, and more."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "You can also select an option to see less AI-generated content in Canva’s library."
-              },
-              {
-                "t": "p",
-                "x": "A second toggle shows human-created content first when searching Canva’s library for templates, graphics, and other design elements. Canva says a “small portion” of its library is AI-generated, and any design using those elements will have an AI label in its metadata."
-              },
-              {
-                "t": "p",
-                "x": "The settings live under Profile > Settings > Permission (Enable generative AI features) and Profile > Your account > AI personalization. They are available to both free and paid users."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Canva, AI 기능\n대부분 끄는 스위치",
-          "body": "Canva에서 생성형 AI 대부분을 끄고 AI-made 콘텐츠를 덜 볼 수 있다.",
-          "mini_headline": "Canva, AI 끄기 스위치 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canva가 생성형 AI 기능을 끄는 설정을 내놨다. AI로 사진을 넓혀 주는 Magic Expand를 비롯한 이 그래픽 디자인 플랫폼의 AI 도구 여러 개와 Canva 챗봇의 이미지 생성 기능이 꺼진다."
-              },
-              {
-                "t": "p",
-                "x": "다만 이 토글로 Canva의 AI-powered 기능이 전부 꺼지지는 않는다. 배경 제거 도구와 Magic Grab 도구는 “새로운 것을 생성하지 않고 일상 작업을 더 빠르게 해 주기” 때문에 그대로 켜져 있다. 토글을 끄면 Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes 등이 꺼진다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "Canva 라이브러리에서 AI-generated 콘텐츠를 덜 보는 옵션도 있다."
-              },
-              {
-                "t": "p",
-                "x": "두 번째 토글을 켜면 Canva 라이브러리에서 템플릿, 그래픽 같은 디자인 요소를 검색할 때 사람이 만든 콘텐츠가 먼저 뜬다. Canva는 라이브러리에서 AI-generated 콘텐츠는 “작은 일부”일 뿐이고, 이런 요소를 쓴 디자인에는 메타데이터에 AI 라벨이 붙는다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "설정 위치는 Profile > Settings > Permission (Enable generative AI features)와 Profile > Your account > AI personalization이다. 무료·유료 사용자 모두 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Canva、大半のAI機能を\nオフにできるスイッチ",
-          "body": "Canvaが生成AIの大半をオフにし、AI-madeコンテンツを減らせる設定を導入した。",
-          "mini_headline": "Canva、AIオフスイッチを追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canvaは生成AI機能をオフにできるようにした。この変更により、AIで写真を拡張するMagic Expandなど、このグラフィックデザインプラットフォームの各種AIツールを無効化でき、Canvaのチャットボットで画像を生成する機能もオフにできる。"
-              },
-              {
-                "t": "p",
-                "x": "ただし、このトグルでCanvaのAI-powered機能がすべてオフになるわけではない。背景除去ツールとMagic Grabは「何も新しく生成せずに日常作業を速くする」ため、オンのまま残る。それでもトグルはMagic Write、Magic Design、Magic Layers、Magic Edit、Dream Lab、Canva Code、AI Shapesなどをオフにする。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "CanvaのライブラリでAI-generatedコンテンツの表示を減らすオプションも選べる。"
-              },
-              {
-                "t": "p",
-                "x": "もう一つのトグルは、Canvaのライブラリでテンプレートやグラフィックなどのデザイン要素を検索する際、人間が作ったコンテンツを先に表示する。Canvaによると、ライブラリのうちAI-generatedなのは「ごく一部」で、そうした要素を使ったデザインにはメタデータにAIラベルが付く。"
-              },
-              {
-                "t": "p",
-                "x": "設定はProfile > Settings > Permission (Enable generative AI features)と、Profile > Your account > AI personalizationにある。無料・有料どちらのユーザーも利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Canva推出开关\n可关闭多数AI功能",
-          "body": "Canva允许免费和付费用户关闭大部分生成式AI功能，并减少看到AI-made内容。",
-          "mini_headline": "Canva推出AI关闭开关",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canva现在允许用户关闭其生成式AI功能。借此改动，用户可以停用这一平面设计平台的多种AI工具，例如用AI扩展照片的Magic Expand功能，也可以关闭用Canva聊天机器人生成图像的功能。"
-              },
-              {
-                "t": "p",
-                "x": "不过，这一开关并不会关闭Canva上所有AI-powered功能。Canva的背景移除工具和Magic Grab工具仍保持开启，因为它们“让日常任务更快完成，而不会生成任何新东西”。该开关仍会关闭Magic Write、Magic Design、Magic Layers、Magic Edit、Dream Lab、Canva Code、AI Shapes等功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "你还可以选择在Canva素材库中少看AI-generated内容。"
-              },
-              {
-                "t": "p",
-                "x": "第二个开关会在用户于Canva素材库中搜索模板、图形和其他设计元素时，优先显示人类创作的内容。Canva表示，其素材库中只有“一小部分”是AI-generated内容，任何使用这些元素的设计都会在元数据中带有AI标签。"
-              },
-              {
-                "t": "p",
-                "x": "这些设置位于Profile > Settings > Permission (Enable generative AI features)以及Profile > Your account > AI personalization，免费和付费用户均可使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Canva añade un interruptor para\napagar la mayor parte de su AI",
-          "body": "Canva permite a usuarios gratuitos y de pago desactivar casi toda su AI generativa y ver menos contenido AI-made.",
-          "mini_headline": "Canva añade un interruptor para apagar la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canva permitirá ahora desactivar sus funciones de AI generativa. Con este cambio se puede deshabilitar el conjunto de herramientas de AI de la plataforma de diseño gráfico, como Magic Expand, que amplía fotos con AI, y también la generación de imágenes con el chatbot de Canva."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, este interruptor no apaga todas las funciones AI-powered de Canva. El eliminador de fondos y la herramienta Magic Grab siguen activos porque “hacen más rápidas las tareas cotidianas sin generar nada nuevo”. Aun así, el interruptor desactiva Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes y más."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "También se puede elegir una opción para ver menos contenido AI-generated en la biblioteca de Canva."
-              },
-              {
-                "t": "p",
-                "x": "Un segundo interruptor muestra primero el contenido creado por personas al buscar plantillas, gráficos y otros elementos de diseño en la biblioteca de Canva. Canva afirma que una “pequeña parte” de su biblioteca es AI-generated y que cualquier diseño que use esos elementos llevará una etiqueta de AI en sus metadatos."
-              },
-              {
-                "t": "p",
-                "x": "Los ajustes están en Profile > Settings > Permission (Enable generative AI features) y en Profile > Your account > AI personalization. Están disponibles para usuarios gratuitos y de pago."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Canva, 대부분의\nAI 기능 끄는 스위치",
-          "body": "Canva가 생성형 AI 대부분을 끄고 AI-made 콘텐츠를 줄이게 했다.",
-          "mini_headline": "Canva, AI 끄기 스위치 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canva가 생성형 AI 기능을 끌 수 있게 했다. 이번 변경으로 AI로 사진을 확장하는 Magic Expand 등 이 그래픽 디자인 플랫폼의 여러 AI 도구를 비활성화하고, Canva 챗봇으로 이미지를 생성하는 기능도 끌 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "다만 이 토글이 Canva의 AI-powered 기능을 모두 끄지는 않는다. 배경 제거 도구와 Magic Grab 도구는 “새로운 것을 생성하지 않고 일상 작업을 더 빠르게 해 주기” 때문에 켜진 채로 남는다. 그래도 토글을 끄면 Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes 등이 꺼진다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "Canva 라이브러리에서 AI-generated 콘텐츠를 덜 보도록 하는 옵션도 고를 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "두 번째 토글을 켜면 Canva 라이브러리에서 템플릿, 그래픽 등 디자인 요소를 검색할 때 사람이 만든 콘텐츠가 먼저 나온다. Canva는 라이브러리 중 AI-generated 콘텐츠는 “작은 일부”이며, 이런 요소를 쓴 디자인에는 메타데이터에 AI 라벨이 붙는다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "설정은 Profile > Settings > Permission (Enable generative AI features)와 Profile > Your account > AI personalization에 있다. 무료·유료 사용자 모두 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Canva、大半のAI機能を\nオフにできるスイッチ",
-          "body": "Canvaが生成AIの大半をオフにし、AI-madeコンテンツを減らせる設定を導入した。",
-          "mini_headline": "Canva、AIオフスイッチを追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canvaは生成AI機能をオフにできるようにした。この変更により、AIで写真を拡張するMagic Expandなど、このグラフィックデザインプラットフォームの各種AIツールを無効化でき、Canvaのチャットボットで画像を生成する機能もオフにできる。"
-              },
-              {
-                "t": "p",
-                "x": "ただし、このトグルでCanvaのAI-powered機能がすべてオフになるわけではない。背景除去ツールとMagic Grabは「何も新しく生成せずに日常作業を速くする」ため、オンのまま残る。それでもトグルはMagic Write、Magic Design、Magic Layers、Magic Edit、Dream Lab、Canva Code、AI Shapesなどをオフにする。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "CanvaのライブラリでAI-generatedコンテンツの表示を減らすオプションも選べる。"
-              },
-              {
-                "t": "p",
-                "x": "もう一つのトグルは、Canvaのライブラリでテンプレートやグラフィックなどのデザイン要素を検索する際、人間が作ったコンテンツを先に表示する。Canvaによると、ライブラリのうちAI-generatedなのは「ごく一部」で、そうした要素を使ったデザインにはメタデータにAIラベルが付く。"
-              },
-              {
-                "t": "p",
-                "x": "設定はProfile > Settings > Permission (Enable generative AI features)と、Profile > Your account > AI personalizationにある。無料・有料どちらのユーザーも利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Canva推出开关\n可关闭多数AI功能",
-          "body": "Canva允许免费和付费用户关闭大部分生成式AI功能，并减少看到AI-made内容。",
-          "mini_headline": "Canva推出AI关闭开关",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canva现在允许用户关闭其生成式AI功能。借此改动，用户可以停用这一平面设计平台的多种AI工具，例如用AI扩展照片的Magic Expand功能，也可以关闭用Canva聊天机器人生成图像的功能。"
-              },
-              {
-                "t": "p",
-                "x": "不过，这一开关并不会关闭Canva上所有AI-powered功能。Canva的背景移除工具和Magic Grab工具仍保持开启，因为它们“让日常任务更快完成，而不会生成任何新东西”。该开关仍会关闭Magic Write、Magic Design、Magic Layers、Magic Edit、Dream Lab、Canva Code、AI Shapes等功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "你还可以选择在Canva素材库中少看AI-generated内容。"
-              },
-              {
-                "t": "p",
-                "x": "第二个开关会在用户于Canva素材库中搜索模板、图形和其他设计元素时，优先显示人类创作的内容。Canva表示，其素材库中只有“一小部分”是AI-generated内容，任何使用这些元素的设计都会在元数据中带有AI标签。"
-              },
-              {
-                "t": "p",
-                "x": "这些设置位于Profile > Settings > Permission (Enable generative AI features)以及Profile > Your account > AI personalization，免费和付费用户均可使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Canva añade un interruptor para\napagar la mayor parte de su AI",
-          "body": "Canva permite a usuarios gratuitos y de pago desactivar casi toda su AI generativa y ver menos contenido AI-made.",
-          "mini_headline": "Canva añade un interruptor para apagar la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Canva permitirá ahora desactivar sus funciones de AI generativa. Con este cambio se puede deshabilitar el conjunto de herramientas de AI de la plataforma de diseño gráfico, como Magic Expand, que amplía fotos con AI, y también la generación de imágenes con el chatbot de Canva."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, este interruptor no apaga todas las funciones AI-powered de Canva. El eliminador de fondos y la herramienta Magic Grab siguen activos porque “hacen más rápidas las tareas cotidianas sin generar nada nuevo”. Aun así, el interruptor desactiva Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes y más."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/canva-ai-toggle.png?quality=90&strip=all",
-                "cap": "También se puede elegir una opción para ver menos contenido AI-generated en la biblioteca de Canva."
-              },
-              {
-                "t": "p",
-                "x": "Un segundo interruptor muestra primero el contenido creado por personas al buscar plantillas, gráficos y otros elementos de diseño en la biblioteca de Canva. Canva afirma que una “pequeña parte” de su biblioteca es AI-generated y que cualquier diseño que use esos elementos llevará una etiqueta de AI en sus metadatos."
-              },
-              {
-                "t": "p",
-                "x": "Los ajustes están en Profile > Settings > Permission (Enable generative AI features) y en Profile > Your account > AI personalization. Están disponibles para usuarios gratuitos y de pago."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "supernova-agentsmd-audit",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "디자인 시스템 에이전트\n파일, 쓰는 팀은 빠졌다",
-      "body": "Supernova가 본 30곳 중 16곳에 에이전트 파일이 있지만 사용팀용은 없다.",
-      "mini_headline": "디자인 시스템용 AGENTS.md",
+      "headline": "종합 리서치 받은 AI가\n더 잘 디자인한다",
+      "body": "NN/g 실험에서 AI는 원본 댓글보다 종합 권고를 받았을 때 더 잘 설계했다.",
+      "mini_headline": "AI에게는 종합 리서치를",
       "tool": "Design Tokens",
-      "source": "Supernova",
-      "url": "https://www.supernova.io/blog/agents-md-design-system",
+      "source": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -381,203 +19,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+            "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
           },
           {
             "t": "p",
-            "x": "“디자인 토큰은 스타일링 계약이다.” Workday의 Canvas Kit AGENTS.md 파일에 적힌 문장이다. 하지만 이 문장을 읽는 건 Canvas Kit 저장소 안에서 일하는 에이전트뿐이다. Canvas Kit로 Workday 제품을 만드는 엔지니어도, 그들의 에이전트도 이 문장을 보지 못한다."
+            "x": "이번 연구에서는 AI에게 원본 사용자 댓글만 줬을 때보다 종합한 결과와 권고를 줬을 때 AI-generated(AI 생성) 디자인이 더 좋았다."
           },
           {
             "t": "p",
-            "x": "Supernova는 2026년 11월 16일 디자인 시스템 30개의 주요 공개 저장소에 AGENTS.md, CLAUDE.md, Cursor 규칙, Copilot 지침이 있는지 확인했다. 에이전트 지침 파일을 둔 곳은 16개였다. AGENTS.md 12개, Copilot 지침 9개, CLAUDE.md 6개, Cursor 규칙 3개다."
+            "x": "NN/g는 AI 모델에 디자인 과제 두 개를 맡겼다. 취소된 항공편을 다시 예약하는 한 페이지짜리 양식과 온라인 상점의 여러 단계 결제 흐름이다. 프롬프트와 디자인 시스템 정보는 그대로 두고 리서치 맥락만 바꿨다. 과제마다 원본 사용자 댓글 약 100개를 주거나, 이 댓글로 종합한 결과와 권고를 줬다. 과제·조건별로 디자인 8개를 만들었고 사람 평가자와 LLM 심사자가 미리 정한 채점표로 각각 블라인드 채점했다."
           },
           {
             "t": "img",
-            "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-            "cap": "에이전트 파일 보유 16개, 디자인 토큰 언급 10개, 하드코딩 값 금지 5개, 문서 사이트 링크 5개, 시스템을 쓰는 팀을 위해 작성된 파일 0개."
+            "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+            "cap": "종합된 결과와 권고로 만든 디자인은 채점표 기준을 평균 77.9% 충족했다. 원본 사용자 댓글로 만든 디자인은 69.5%였다(p < 0.001)."
           },
           {
             "t": "p",
-            "x": "16개 파일 중 열 개가 토큰을 다루고, 다섯 개는 하드코딩 값을 쓰지 말라고 에이전트에 지시한다. 그런데 하나같이 디자인 시스템 기여자를 위한 파일이다. 자기 제품에서 시스템을 가져다 쓰는 팀을 위한 파일은 하나도 없다."
+            "x": "개선 폭은 항공편 재예약 과제에서 더 컸다(11.4퍼센트포인트, 결제 흐름은 5.5). 원본 댓글 일부가 로열티 마일리지 문제를 지적했지만 원본 댓글로 만든 디자인 중 이를 다룬 것은 하나도 없었다. 종합된 리서치로 만든 디자인은 모두 이를 반영했다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+            "cap": "원본 데이터만 받은 AI 도구는 무엇을 만들지 추측해야 한다. 종합된 결과와 권고가 있으면 팀이 이미 내린 결정에 따라 만든다."
           },
           {
             "t": "p",
-            "x": "Supernova가 내놓은 안은 제품 쪽 AGENTS.md에 붙여 넣을 디자인 시스템 섹션이다. 컴포넌트를 가져오고, 시맨틱 토큰을 쓰고, 지원 중단 항목을 나열하고, 필요한 것이 없을 때 할 일을 적어 두라는 내용이다. 릴리스마다 바뀌는 값은 디자인 시스템 MCP 서버에 두어야 한다는 주장도 덧붙였다."
+            "x": "이제 리서치 산출물을 읽는 쪽은 둘이다. 팀원과, 디자인 과정에 쓰이는 AI 도구다. UX-context design(UX 맥락 설계)은 AI-generated 디자인을 이끌 UX 지식을 고르고 정리하고 유지하는 일이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Design-system agent files\nskip the teams using them",
-          "body": "Supernova audited 30 design-system repos: 16 have agent files, but none are written for consuming teams.",
-          "mini_headline": "AGENTS.md for design systems",
+          "headline": "AI designs better from\nsynthesized research",
+          "body": "In NN/g tests, AI made better interfaces when fed synthesized findings and recommendations, not raw user comments.",
+          "mini_headline": "Feed AI synthesized research",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "“Design tokens are the styling contract.” That line is in the AGENTS.md file of Workday’s Canvas Kit, but it only reaches agents working inside the Canvas Kit repository — not the engineers building Workday products with it, or their agents."
+                "x": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone."
               },
               {
                 "t": "p",
-                "x": "Supernova checked the main public repositories of 30 design systems on 16 November 2026 for AGENTS.md, CLAUDE.md, Cursor rules and Copilot instructions. 16 have an agent instruction file: 12 AGENTS.md, 9 Copilot instructions, 6 CLAUDE.md, 3 Cursor rules."
+                "x": "NN/g gave an AI model two design tasks — a one-page form for rebooking a canceled flight and a multistep checkout flow for an online store — keeping the prompt and design-system information the same while changing the research context: about 100 raw user comments per task, or synthesized findings and recommendations based on the same comments. It generated 8 designs per task and condition; a human grader and an LLM judge blindly scored each against a predefined scorecard."
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "16 have an agent file, 10 mention design tokens, 5 ban hard-coded values, 5 link their docs site, 0 are written for teams using the system."
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "Designs generated from synthesized findings and recommendations met 77.9% of scorecard criteria on average, compared with 69.5% for designs generated from raw user comments (p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "Ten of the 16 files talk about tokens and five tell the agent not to use hard-coded values. But every one is written for people contributing to the design system, none for teams that use it in their own products."
+                "x": "The improvement was larger for the flight-rebooking task (11.4 percentage points, versus 5.5 for the checkout flow). A few raw comments complained about loyalty miles, yet none of the raw-comment designs addressed them; every design from synthesized research did."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "With raw data alone, the AI tool has to guess what to build. With synthesized findings and recommendations, it builds on decisions your team has already made."
               },
               {
                 "t": "p",
-                "x": "Supernova offers a design-system section to paste into a product’s own AGENTS.md — import components, use semantic tokens, list deprecations, say what to do when something is missing — and argues that values which change with each release belong in a design system MCP server."
+                "x": "Research artifacts now have two audiences: your teammates and the AI tools used in the design process. UX-context design is the practice of selecting, organizing, and maintaining the UX knowledge that guides AI-generated design."
               }
             ]
           }
         },
         "ko": {
-          "headline": "디자인 시스템 에이전트\n파일, 쓰는 팀은 빠졌다",
-          "body": "Supernova가 본 30곳 중 16곳에 에이전트 파일이 있지만 사용팀용은 없다.",
-          "mini_headline": "디자인 시스템용 AGENTS.md",
+          "headline": "종합 리서치 받은 AI가\n더 잘 디자인한다",
+          "body": "NN/g 실험에서 AI는 원본 댓글보다 종합 권고를 받았을 때 더 잘 설계했다.",
+          "mini_headline": "AI에게는 종합 리서치를",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "“디자인 토큰은 스타일링 계약이다.” Workday의 Canvas Kit AGENTS.md 파일에 적힌 문장이다. 하지만 이 문장을 읽는 건 Canvas Kit 저장소 안에서 일하는 에이전트뿐이다. Canvas Kit로 Workday 제품을 만드는 엔지니어도, 그들의 에이전트도 이 문장을 보지 못한다."
+                "x": "이번 연구에서는 AI에게 원본 사용자 댓글만 줬을 때보다 종합한 결과와 권고를 줬을 때 AI-generated(AI 생성) 디자인이 더 좋았다."
               },
               {
                 "t": "p",
-                "x": "Supernova는 2026년 11월 16일 디자인 시스템 30개의 주요 공개 저장소에 AGENTS.md, CLAUDE.md, Cursor 규칙, Copilot 지침이 있는지 확인했다. 에이전트 지침 파일을 둔 곳은 16개였다. AGENTS.md 12개, Copilot 지침 9개, CLAUDE.md 6개, Cursor 규칙 3개다."
+                "x": "NN/g는 AI 모델에 디자인 과제 두 개를 맡겼다. 취소된 항공편을 다시 예약하는 한 페이지짜리 양식과 온라인 상점의 여러 단계 결제 흐름이다. 프롬프트와 디자인 시스템 정보는 그대로 두고 리서치 맥락만 바꿨다. 과제마다 원본 사용자 댓글 약 100개를 주거나, 이 댓글로 종합한 결과와 권고를 줬다. 과제·조건별로 디자인 8개를 만들었고 사람 평가자와 LLM 심사자가 미리 정한 채점표로 각각 블라인드 채점했다."
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "에이전트 파일 보유 16개, 디자인 토큰 언급 10개, 하드코딩 값 금지 5개, 문서 사이트 링크 5개, 시스템을 쓰는 팀을 위해 작성된 파일 0개."
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "종합된 결과와 권고로 만든 디자인은 채점표 기준을 평균 77.9% 충족했다. 원본 사용자 댓글로 만든 디자인은 69.5%였다(p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "16개 파일 중 열 개가 토큰을 다루고, 다섯 개는 하드코딩 값을 쓰지 말라고 에이전트에 지시한다. 그런데 하나같이 디자인 시스템 기여자를 위한 파일이다. 자기 제품에서 시스템을 가져다 쓰는 팀을 위한 파일은 하나도 없다."
+                "x": "개선 폭은 항공편 재예약 과제에서 더 컸다(11.4퍼센트포인트, 결제 흐름은 5.5). 원본 댓글 일부가 로열티 마일리지 문제를 지적했지만 원본 댓글로 만든 디자인 중 이를 다룬 것은 하나도 없었다. 종합된 리서치로 만든 디자인은 모두 이를 반영했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "원본 데이터만 받은 AI 도구는 무엇을 만들지 추측해야 한다. 종합된 결과와 권고가 있으면 팀이 이미 내린 결정에 따라 만든다."
               },
               {
                 "t": "p",
-                "x": "Supernova가 내놓은 안은 제품 쪽 AGENTS.md에 붙여 넣을 디자인 시스템 섹션이다. 컴포넌트를 가져오고, 시맨틱 토큰을 쓰고, 지원 중단 항목을 나열하고, 필요한 것이 없을 때 할 일을 적어 두라는 내용이다. 릴리스마다 바뀌는 값은 디자인 시스템 MCP 서버에 두어야 한다는 주장도 덧붙였다."
+                "x": "이제 리서치 산출물을 읽는 쪽은 둘이다. 팀원과, 디자인 과정에 쓰이는 AI 도구다. UX-context design(UX 맥락 설계)은 AI-generated 디자인을 이끌 UX 지식을 고르고 정리하고 유지하는 일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザインシステムの指示書、\n利用チームは置き去り",
-          "body": "Supernova調査では30件中16件にエージェント文書があるが利用チーム向けはない。",
-          "mini_headline": "デザインシステムのAGENTS.md",
+          "headline": "AIは統合リサーチで\nより良く設計する",
+          "body": "NN/gの検証で、AIは生のコメントより統合された知見と提言を与えた方が良い画面を作った。",
+          "mini_headline": "AIには統合リサーチを渡す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "「デザイントークンはスタイリングの契約である」。WorkdayのCanvas KitのAGENTS.mdファイルにある一文だが、これが届くのはCanvas Kitリポジトリ内で作業するエージェントだけで、Canvas Kitを使ってWorkday製品を作るエンジニアやそのエージェントには届かない。"
+                "x": "今回の研究では、AI-generatedのデザイン(AI生成デザイン)は、AIが生のユーザーコメントだけを受け取った場合より、統合された知見と提言を受け取った場合のほうが優れていた。"
               },
               {
                 "t": "p",
-                "x": "Supernovaは2026年11月16日、30のデザインシステムの主要な公開リポジトリを対象に、AGENTS.md、CLAUDE.md、Cursorルール、Copilot指示の有無を確認した。エージェント指示ファイルがあったのは16件で、内訳はAGENTS.mdが12、Copilot指示が9、CLAUDE.mdが6、Cursorルールが3だった。"
+                "x": "NN/gはAIモデルに二つのデザイン課題を与えた。欠航した便を予約し直す単一ページのフォームと、オンラインストアの複数ステップの決済フローである。プロンプトとデザインシステムの情報は同じにしたまま、リサーチの文脈だけを変えた。課題ごとに約100件の生のユーザーコメントを与えるか、同じコメントに基づく統合された知見と提言を与えた。課題と条件ごとに8案を生成し、人間の評価者とLLMの審査役が、事前に定めた採点表に照らしてそれぞれをブラインドで採点した。"
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "エージェントファイルあり16、デザイントークンに言及10、ハードコード値を禁止5、ドキュメントサイトへのリンク5、システムを使うチーム向けに書かれたもの0。"
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "統合された知見と提言から生成したデザインは採点表の基準を平均77.9%満たし、生のユーザーコメントから生成したデザインは69.5%だった(p < 0.001)。"
               },
               {
                 "t": "p",
-                "x": "16ファイルのうち十件はトークンに触れ、五件はハードコード値を使わないようエージェントに指示している。だが、どれもデザインシステムへの貢献者向けに書かれており、自社製品でシステムを使うチーム向けのものは一つもない。"
+                "x": "改善幅は便の再予約課題のほうが大きかった(11.4パーセントポイント、決済フローは5.5)。生のコメントの一部はマイレージ特典への不満を述べていたが、生のコメントから作ったデザインはどれもそれに対応しなかった。統合リサーチから作ったデザインはすべて対応した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "生データだけでは、AIツールは何を作るべきか推測するしかない。統合された知見と提言があれば、チームがすでに下した判断の上に構築できる。"
               },
               {
                 "t": "p",
-                "x": "Supernovaは、製品側のAGENTS.mdに貼り付けるデザインシステム用のセクションを提案している。コンポーネントをインポートする、セマンティックトークンを使う、非推奨項目を列挙する、足りないものがあるときの対処を書く、といった内容だ。さらに、リリースごとに変わる値はデザインシステムのMCPサーバーに置くべきだと主張する。"
+                "x": "リサーチの成果物には今や二つの読み手がいる。チームメイトと、デザインプロセスで使われるAIツールだ。UX-context design(UXコンテキスト設計)とは、AI-generatedのデザインを導くUXの知識を選び、整理し、維持する実践である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计系统的智能体文件\n忽略了使用它的团队",
-          "body": "Supernova审查了30个设计系统仓库，16个有智能体文件，但无一面向使用团队。",
-          "mini_headline": "设计系统的AGENTS.md",
+          "headline": "AI用综合研究\n做出更好设计",
+          "body": "NN/g测试发现，向AI提供综合后的发现与建议而非原始用户评论，它做出的界面更好。",
+          "mini_headline": "给AI喂综合研究",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "“设计令牌是样式契约。”这句话写在Workday的Canvas Kit的AGENTS.md文件里，但它只能传达给在Canvas Kit仓库内工作的智能体，而传达不到用它构建Workday产品的工程师及其智能体。"
+                "x": "在我们的研究中，当AI获得综合后的发现与建议，而不只是原始用户评论时，AI-generated设计（AI生成的设计）表现更好。"
               },
               {
                 "t": "p",
-                "x": "Supernova于2026年11月16日检查了30个设计系统的主要公开仓库，查看其中是否有AGENTS.md、CLAUDE.md、Cursor规则和Copilot指令。16个设有智能体指令文件：12个有AGENTS.md，9个有Copilot指令，6个有CLAUDE.md，3个有Cursor规则。"
+                "x": "NN/g给一个AI模型布置了两项设计任务：一个用于改签已取消航班的单页表单，以及一个网店的多步骤结账流程。提示词和设计系统信息保持不变，只改变研究背景：每项任务提供约100条原始用户评论，或基于同一批评论得出的综合发现与建议。每项任务和条件各生成8个设计；一名人类评分者和一个LLM评审依据预先设定的评分表，对每个设计进行盲评。"
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "16个有智能体文件，10个提到设计令牌，5个禁止硬编码值，5个链接文档网站，0个是为使用该系统的团队编写的。"
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "基于综合发现与建议生成的设计平均满足评分表77.9%的标准，基于原始用户评论生成的设计为69.5%（p < 0.001）。"
               },
               {
                 "t": "p",
-                "x": "16个文件中有十个谈到令牌，五个要求智能体不要使用硬编码值。但每一个都是为设计系统的贡献者编写的，没有一个面向在自家产品中使用它的团队。"
+                "x": "航班改签任务的提升更大（11.4个百分点，结账流程为5.5个百分点）。少数原始评论抱怨了会员里程问题，但基于原始评论的设计无一处理；基于综合研究的设计则全部处理了。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "只有原始数据时，AI工具不得不猜测该做什么。有了综合发现与建议，它就能在团队已有决策的基础上构建。"
               },
               {
                 "t": "p",
-                "x": "Supernova提供了一段可粘贴进产品自身AGENTS.md的设计系统章节——导入组件、使用语义令牌、列出弃用项、说明缺少某样东西时该怎么做——并主张随每次发布而变化的值应放在设计系统MCP服务器中。"
+                "x": "研究成果如今有两类受众：你的团队成员，以及设计过程中使用的AI工具。UX-context design（UX情境设计）是指挑选、组织并维护用于指导AI-generated设计的UX知识的实践。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Archivos de agentes en sistemas\nde diseño ignoran a los equipos",
-          "body": "Supernova revisó 30 repositorios: 16 tienen archivos para agentes, pero ninguno es para los equipos que los usan.",
-          "mini_headline": "AGENTS.md para sistemas de diseño",
+          "headline": "La AI diseña mejor con\ninvestigación sintetizada",
+          "body": "En pruebas de NN/g, la AI diseñó mejores interfaces con hallazgos sintetizados que con comentarios en bruto.",
+          "mini_headline": "Dar a la AI investigación sintetizada",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "“Los tokens de diseño son el contrato de estilo.” Esa frase está en el archivo AGENTS.md de Canvas Kit, de Workday, pero solo llega a los agentes que trabajan dentro del repositorio de Canvas Kit, no a los ingenieros que crean productos de Workday con él ni a sus agentes."
+                "x": "En nuestro estudio, los diseños AI-generated (generados por AI) fueron mejores cuando la AI recibió hallazgos y recomendaciones sintetizados en lugar de solo comentarios de usuarios en bruto."
               },
               {
                 "t": "p",
-                "x": "Supernova revisó el 16 de noviembre de 2026 los principales repositorios públicos de 30 sistemas de diseño en busca de AGENTS.md, CLAUDE.md, reglas de Cursor e instrucciones de Copilot. 16 tienen un archivo de instrucciones para agentes: 12 AGENTS.md, 9 instrucciones de Copilot, 6 CLAUDE.md y 3 reglas de Cursor."
+                "x": "NN/g asignó a un modelo de AI dos tareas de diseño —un formulario de una sola página para reprogramar un vuelo cancelado y un flujo de pago de varios pasos para una tienda en línea— y mantuvo iguales el prompt y la información del sistema de diseño, pero cambió el contexto de investigación: unos 100 comentarios de usuarios en bruto por tarea, o hallazgos y recomendaciones sintetizados a partir de esos mismos comentarios. Generó 8 diseños por tarea y condición; un evaluador humano y un juez LLM puntuaron cada uno a ciegas con una rúbrica predefinida."
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "16 tienen un archivo para agentes, 10 mencionan tokens de diseño, 5 prohíben valores fijos en el código, 5 enlazan a su sitio de documentación y 0 están escritos para los equipos que usan el sistema."
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "Los diseños generados a partir de hallazgos y recomendaciones sintetizados cumplieron en promedio el 77.9% de los criterios de la rúbrica, frente al 69.5% de los diseños generados a partir de comentarios de usuarios en bruto (p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "Diez de los 16 archivos hablan de tokens y cinco indican al agente que no use valores fijos en el código. Pero todos están escritos para quienes contribuyen al sistema de diseño; ninguno para los equipos que lo usan en sus propios productos."
+                "x": "La mejora fue mayor en la tarea de reprogramar el vuelo (11.4 puntos porcentuales, frente a 5.5 en el flujo de pago). Algunos comentarios en bruto se quejaban de las millas de fidelidad, pero ninguno de los diseños basados en ellos lo abordó; todos los diseños basados en investigación sintetizada sí lo hicieron."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "Solo con datos en bruto, la herramienta de AI tiene que adivinar qué construir. Con hallazgos y recomendaciones sintetizados, construye sobre decisiones que tu equipo ya tomó."
               },
               {
                 "t": "p",
-                "x": "Supernova ofrece una sección sobre el sistema de diseño para pegar en el propio AGENTS.md de cada producto —importar componentes, usar tokens semánticos, listar elementos obsoletos, indicar qué hacer cuando falta algo— y sostiene que los valores que cambian con cada versión deben estar en un servidor MCP del sistema de diseño."
+                "x": "Los materiales de investigación tienen ahora dos públicos: tus compañeros de equipo y las herramientas de AI que se usan en el proceso de diseño. El UX-context design (diseño de contexto UX) es la práctica de seleccionar, organizar y mantener el conocimiento de UX que guía el diseño AI-generated."
               }
             ]
           }
@@ -585,141 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "디자인 시스템 에이전트\n파일, 쓰는 팀은 빠졌다",
-          "body": "Supernova가 본 30곳 중 16곳에 에이전트 파일이 있으나 사용팀용은 없다.",
-          "mini_headline": "디자인 시스템용 AGENTS.md",
+          "headline": "AI는 종합된 리서치로\n더 잘 디자인한다",
+          "body": "NN/g 실험에서 AI는 원본 댓글보다 종합된 권고를 받을 때 더 잘 설계했다.",
+          "mini_headline": "AI에는 종합된 리서치를",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "“디자인 토큰은 스타일링 계약이다.” Workday의 Canvas Kit AGENTS.md 파일에 있는 문장이다. 그러나 이 문장은 Canvas Kit 저장소 안에서 일하는 에이전트에게만 닿을 뿐, Canvas Kit로 Workday 제품을 만드는 엔지니어나 그들의 에이전트에게는 닿지 않는다."
+                "x": "이번 연구에서 AI-generated(AI 생성) 디자인은 AI가 원본 사용자 댓글만 받았을 때보다 종합된 결과와 권고를 받았을 때 더 나았다."
               },
               {
                 "t": "p",
-                "x": "Supernova는 2026년 11월 16일 디자인 시스템 30개의 주요 공개 저장소에 AGENTS.md, CLAUDE.md, Cursor 규칙, Copilot 지침이 있는지 확인했다. 에이전트 지침 파일이 있는 곳은 16개로, AGENTS.md 12개, Copilot 지침 9개, CLAUDE.md 6개, Cursor 규칙 3개였다."
+                "x": "NN/g는 AI 모델에 두 가지 디자인 과제를 줬다. 취소된 항공편을 다시 예약하는 한 페이지 양식과 온라인 상점의 여러 단계 결제 흐름이다. 프롬프트와 디자인 시스템 정보는 같게 두고 리서치 맥락만 바꿨다. 과제마다 원본 사용자 댓글 약 100개를 주거나, 같은 댓글을 바탕으로 종합한 결과와 권고를 줬다. 과제와 조건마다 디자인 8개를 생성했고, 사람 평가자와 LLM 심사자가 미리 정한 채점표에 따라 블라인드로 각각 점수를 매겼다."
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "에이전트 파일 보유 16개, 디자인 토큰 언급 10개, 하드코딩 값 금지 5개, 문서 사이트 링크 5개, 시스템을 쓰는 팀을 위해 작성된 파일 0개."
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "종합된 결과와 권고로 생성한 디자인은 채점표 기준의 평균 77.9%를 충족했고, 원본 사용자 댓글로 생성한 디자인은 69.5%였다(p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "16개 파일 중 열 개는 토큰을 다루고, 다섯 개는 에이전트에게 하드코딩 값을 쓰지 말라고 지시한다. 하지만 모두 디자인 시스템에 기여하는 사람을 위해 쓰였고, 자기 제품에서 시스템을 쓰는 팀을 위한 파일은 하나도 없다."
+                "x": "개선 폭은 항공편 재예약 과제에서 더 컸다(11.4퍼센트포인트, 결제 흐름은 5.5). 일부 원본 댓글은 로열티 마일리지 문제를 지적했지만, 원본 댓글로 만든 디자인 중 이를 다룬 것은 하나도 없었다. 종합된 리서치로 만든 디자인은 모두 이를 반영했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "원본 데이터만 있으면 AI 도구는 무엇을 만들지 추측해야 한다. 종합된 결과와 권고가 있으면 팀이 이미 내린 결정을 바탕으로 만든다."
               },
               {
                 "t": "p",
-                "x": "Supernova는 제품 자체의 AGENTS.md에 붙여 넣을 디자인 시스템 섹션을 제안한다. 컴포넌트를 가져오고, 시맨틱 토큰을 쓰고, 지원 중단 항목을 나열하고, 필요한 것이 없을 때 할 일을 적으라는 내용이다. 또 릴리스마다 바뀌는 값은 디자인 시스템 MCP 서버에 두어야 한다고 주장한다."
+                "x": "이제 리서치 산출물의 독자는 둘이다. 팀원, 그리고 디자인 과정에 쓰이는 AI 도구다. UX-context design(UX 맥락 설계)은 AI-generated 디자인을 이끄는 UX 지식을 고르고, 정리하고, 유지하는 일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザインシステムの指示書、\n利用チームは置き去り",
-          "body": "Supernova調査では30件中16件にエージェント文書があるが利用チーム向けはない。",
-          "mini_headline": "デザインシステムのAGENTS.md",
+          "headline": "AIは統合リサーチで\nより良く設計する",
+          "body": "NN/gの検証で、AIは生のコメントより統合された知見と提言を与えた方が良い画面を作った。",
+          "mini_headline": "AIには統合リサーチを渡す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "「デザイントークンはスタイリングの契約である」。WorkdayのCanvas KitのAGENTS.mdファイルにある一文だが、これが届くのはCanvas Kitリポジトリ内で作業するエージェントだけで、Canvas Kitを使ってWorkday製品を作るエンジニアやそのエージェントには届かない。"
+                "x": "今回の研究では、AI-generatedのデザイン(AI生成デザイン)は、AIが生のユーザーコメントだけを受け取った場合より、統合された知見と提言を受け取った場合のほうが優れていた。"
               },
               {
                 "t": "p",
-                "x": "Supernovaは2026年11月16日、30のデザインシステムの主要な公開リポジトリを対象に、AGENTS.md、CLAUDE.md、Cursorルール、Copilot指示の有無を確認した。エージェント指示ファイルがあったのは16件で、内訳はAGENTS.mdが12、Copilot指示が9、CLAUDE.mdが6、Cursorルールが3だった。"
+                "x": "NN/gはAIモデルに二つのデザイン課題を与えた。欠航した便を予約し直す単一ページのフォームと、オンラインストアの複数ステップの決済フローである。プロンプトとデザインシステムの情報は同じにしたまま、リサーチの文脈だけを変えた。課題ごとに約100件の生のユーザーコメントを与えるか、同じコメントに基づく統合された知見と提言を与えた。課題と条件ごとに8案を生成し、人間の評価者とLLMの審査役が、事前に定めた採点表に照らしてそれぞれをブラインドで採点した。"
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "エージェントファイルあり16、デザイントークンに言及10、ハードコード値を禁止5、ドキュメントサイトへのリンク5、システムを使うチーム向けに書かれたもの0。"
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "統合された知見と提言から生成したデザインは採点表の基準を平均77.9%満たし、生のユーザーコメントから生成したデザインは69.5%だった(p < 0.001)。"
               },
               {
                 "t": "p",
-                "x": "16ファイルのうち十件はトークンに触れ、五件はハードコード値を使わないようエージェントに指示している。だが、どれもデザインシステムへの貢献者向けに書かれており、自社製品でシステムを使うチーム向けのものは一つもない。"
+                "x": "改善幅は便の再予約課題のほうが大きかった(11.4パーセントポイント、決済フローは5.5)。生のコメントの一部はマイレージ特典への不満を述べていたが、生のコメントから作ったデザインはどれもそれに対応しなかった。統合リサーチから作ったデザインはすべて対応した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "生データだけでは、AIツールは何を作るべきか推測するしかない。統合された知見と提言があれば、チームがすでに下した判断の上に構築できる。"
               },
               {
                 "t": "p",
-                "x": "Supernovaは、製品側のAGENTS.mdに貼り付けるデザインシステム用のセクションを提案している。コンポーネントをインポートする、セマンティックトークンを使う、非推奨項目を列挙する、足りないものがあるときの対処を書く、といった内容だ。さらに、リリースごとに変わる値はデザインシステムのMCPサーバーに置くべきだと主張する。"
+                "x": "リサーチの成果物には今や二つの読み手がいる。チームメイトと、デザインプロセスで使われるAIツールだ。UX-context design(UXコンテキスト設計)とは、AI-generatedのデザインを導くUXの知識を選び、整理し、維持する実践である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计系统的智能体文件\n忽略了使用它的团队",
-          "body": "Supernova审查了30个设计系统仓库，16个有智能体文件，但无一面向使用团队。",
-          "mini_headline": "设计系统的AGENTS.md",
+          "headline": "AI用综合研究\n做出更好设计",
+          "body": "NN/g测试发现，向AI提供综合后的发现与建议而非原始用户评论，它做出的界面更好。",
+          "mini_headline": "给AI喂综合研究",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "“设计令牌是样式契约。”这句话写在Workday的Canvas Kit的AGENTS.md文件里，但它只能传达给在Canvas Kit仓库内工作的智能体，而传达不到用它构建Workday产品的工程师及其智能体。"
+                "x": "在我们的研究中，当AI获得综合后的发现与建议，而不只是原始用户评论时，AI-generated设计（AI生成的设计）表现更好。"
               },
               {
                 "t": "p",
-                "x": "Supernova于2026年11月16日检查了30个设计系统的主要公开仓库，查看其中是否有AGENTS.md、CLAUDE.md、Cursor规则和Copilot指令。16个设有智能体指令文件：12个有AGENTS.md，9个有Copilot指令，6个有CLAUDE.md，3个有Cursor规则。"
+                "x": "NN/g给一个AI模型布置了两项设计任务：一个用于改签已取消航班的单页表单，以及一个网店的多步骤结账流程。提示词和设计系统信息保持不变，只改变研究背景：每项任务提供约100条原始用户评论，或基于同一批评论得出的综合发现与建议。每项任务和条件各生成8个设计；一名人类评分者和一个LLM评审依据预先设定的评分表，对每个设计进行盲评。"
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "16个有智能体文件，10个提到设计令牌，5个禁止硬编码值，5个链接文档网站，0个是为使用该系统的团队编写的。"
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "基于综合发现与建议生成的设计平均满足评分表77.9%的标准，基于原始用户评论生成的设计为69.5%（p < 0.001）。"
               },
               {
                 "t": "p",
-                "x": "16个文件中有十个谈到令牌，五个要求智能体不要使用硬编码值。但每一个都是为设计系统的贡献者编写的，没有一个面向在自家产品中使用它的团队。"
+                "x": "航班改签任务的提升更大（11.4个百分点，结账流程为5.5个百分点）。少数原始评论抱怨了会员里程问题，但基于原始评论的设计无一处理；基于综合研究的设计则全部处理了。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "只有原始数据时，AI工具不得不猜测该做什么。有了综合发现与建议，它就能在团队已有决策的基础上构建。"
               },
               {
                 "t": "p",
-                "x": "Supernova提供了一段可粘贴进产品自身AGENTS.md的设计系统章节——导入组件、使用语义令牌、列出弃用项、说明缺少某样东西时该怎么做——并主张随每次发布而变化的值应放在设计系统MCP服务器中。"
+                "x": "研究成果如今有两类受众：你的团队成员，以及设计过程中使用的AI工具。UX-context design（UX情境设计）是指挑选、组织并维护用于指导AI-generated设计的UX知识的实践。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Archivos de agentes en sistemas\nde diseño ignoran a los equipos",
-          "body": "Supernova revisó 30 repositorios: 16 tienen archivos para agentes, pero ninguno es para los equipos que los usan.",
-          "mini_headline": "AGENTS.md para sistemas de diseño",
+          "headline": "La AI diseña mejor con\ninvestigación sintetizada",
+          "body": "En pruebas de NN/g, la AI diseñó mejores interfaces con hallazgos sintetizados que con comentarios en bruto.",
+          "mini_headline": "Dar a la AI investigación sintetizada",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.supernova.io/static/images/blog/agents-md-design-system/hero.png"
+                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
               },
               {
                 "t": "p",
-                "x": "“Los tokens de diseño son el contrato de estilo.” Esa frase está en el archivo AGENTS.md de Canvas Kit, de Workday, pero solo llega a los agentes que trabajan dentro del repositorio de Canvas Kit, no a los ingenieros que crean productos de Workday con él ni a sus agentes."
+                "x": "En nuestro estudio, los diseños AI-generated (generados por AI) fueron mejores cuando la AI recibió hallazgos y recomendaciones sintetizados en lugar de solo comentarios de usuarios en bruto."
               },
               {
                 "t": "p",
-                "x": "Supernova revisó el 16 de noviembre de 2026 los principales repositorios públicos de 30 sistemas de diseño en busca de AGENTS.md, CLAUDE.md, reglas de Cursor e instrucciones de Copilot. 16 tienen un archivo de instrucciones para agentes: 12 AGENTS.md, 9 instrucciones de Copilot, 6 CLAUDE.md y 3 reglas de Cursor."
+                "x": "NN/g asignó a un modelo de AI dos tareas de diseño —un formulario de una sola página para reprogramar un vuelo cancelado y un flujo de pago de varios pasos para una tienda en línea— y mantuvo iguales el prompt y la información del sistema de diseño, pero cambió el contexto de investigación: unos 100 comentarios de usuarios en bruto por tarea, o hallazgos y recomendaciones sintetizados a partir de esos mismos comentarios. Generó 8 diseños por tarea y condición; un evaluador humano y un juez LLM puntuaron cada uno a ciegas con una rúbrica predefinida."
               },
               {
                 "t": "img",
-                "src": "https://www.supernova.io/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fagents-md-design-system%2Fagent-files-count.png&w=3840&q=75",
-                "cap": "16 tienen un archivo para agentes, 10 mencionan tokens de diseño, 5 prohíben valores fijos en el código, 5 enlazan a su sitio de documentación y 0 están escritos para los equipos que usan el sistema."
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+                "cap": "Los diseños generados a partir de hallazgos y recomendaciones sintetizados cumplieron en promedio el 77.9% de los criterios de la rúbrica, frente al 69.5% de los diseños generados a partir de comentarios de usuarios en bruto (p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "Diez de los 16 archivos hablan de tokens y cinco indican al agente que no use valores fijos en el código. Pero todos están escritos para quienes contribuyen al sistema de diseño; ninguno para los equipos que lo usan en sus propios productos."
+                "x": "La mejora fue mayor en la tarea de reprogramar el vuelo (11.4 puntos porcentuales, frente a 5.5 en el flujo de pago). Algunos comentarios en bruto se quejaban de las millas de fidelidad, pero ninguno de los diseños basados en ellos lo abordó; todos los diseños basados en investigación sintetizada sí lo hicieron."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+                "cap": "Solo con datos en bruto, la herramienta de AI tiene que adivinar qué construir. Con hallazgos y recomendaciones sintetizados, construye sobre decisiones que tu equipo ya tomó."
               },
               {
                 "t": "p",
-                "x": "Supernova ofrece una sección sobre el sistema de diseño para pegar en el propio AGENTS.md de cada producto —importar componentes, usar tokens semánticos, listar elementos obsoletos, indicar qué hacer cuando falta algo— y sostiene que los valores que cambian con cada versión deben estar en un servidor MCP del sistema de diseño."
+                "x": "Los materiales de investigación tienen ahora dos públicos: tus compañeros de equipo y las herramientas de AI que se usan en el proceso de diseño. El UX-context design (diseño de contexto UX) es la práctica de seleccionar, organizar y mantener el conocimiento de UX que guía el diseño AI-generated."
               }
             ]
           }
@@ -727,391 +415,311 @@
       }
     },
     {
-      "id": "pliera-bim-revit",
+      "id": "envato-ai-report-2026",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Revit 겨냥한 BIM\nAI-assisted 표방",
-      "body": "Pliera가 AI-generated 객체·구성기로 BIM에서 Revit과 겨룬다.",
-      "mini_headline": "Pliera, Revit 정조준",
-      "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
-      "accent": "#7928ca",
-      "motif": "cube",
+      "headline": "크리에이터 AI 사용,\n규칙보다 앞서갔다",
+      "body": "Envato 조사 1,033명 중 58%는 매일, 53%는 고객 몰래 AI를 썼다.",
+      "mini_headline": "규칙보다 빠른 AI 사용",
+      "tool": "AI Workflow",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/envatos-2nd-annual-ai-report-finds-adoption-has-outrun-rules",
+      "accent": "#ff5a4d",
+      "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+            "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
           },
           {
             "t": "p",
-            "x": "Pliera는 Enscape 공동 창업자 Moritz Luck이 Karlsruhe 스타트업 NeoBIM에서 만든 새 클라우드 기반 BIM 플랫폼이다. 건축 모델링과 AI-generated 파라메트릭 객체, 규칙 기반 건물 구성기를 한데 묶었고, Revit에 도전하겠다는 야심도 숨기지 않는다. 11월 말 BIM World Munich에서 처음 공개된다."
+            "x": "Shutterstock 산하의 크리에이티브 에셋·AI 도구 플랫폼 Envato가 두 번째 연례 보고서 Beyond the Hype: The State of AI in Creative Work를 내며 103개 국가·지역의 크리에이티브 전문가 1,033명을 조사했다."
           },
           {
             "t": "p",
-            "x": "구성기는 여섯 개 분야용으로 나뉘어 각 회사의 설계 규칙을 담는다. 그중 Pliera Gen은 독일에서 주거 부지 타당성 검토용으로 이미 서비스 중이다. 지금 공개된 구성기는 개발자가 짠 규칙으로 돌아간다. 회사 지식을 AI로 규칙화하는 일은 더 먼 목표다."
-          },
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+            "x": "전체 표본에서 크리에이터 87%가 이제 업무에 AI를 쓰고, 58%는 매일 쓴다. 지난해 49%보다 늘었다. 적극적으로 피하는 비율도 3%에서 8%로 늘었고 U.S.(미국)에서는 19%에 달한다. 미국에서 AI를 피하는 이들의 83%는 AI 학습 방식을 둘러싼 윤리적 우려를 이유로 든다."
           },
           {
             "t": "p",
-            "x": "Pliera One은 알파 단계의 브라우저 기반 모델러로, Open Cascade 커널과 Three.js/WebGL 엔진 위에서 돌아간다. Auto Complete 시스템이 다음 모델링 단계를 제안하는데, 지금은 코드로 짠 알고리즘을 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+            "x": "AI를 쓰는 크리에이터의 절반 이상(53%)은 고객에게 알리지 않은 채 주요 고객 작업에 AI를 썼는데, 이를 불편하게 여긴 사람은 7%뿐이었다. 팀으로 일하는 크리에이터의 57%는 서면 AI 정책이 없고, 250명 이상 조직도 40%는 문서로 된 규정이 아예 없다."
           },
           {
             "t": "p",
-            "x": "생성형 AI는 텍스트나 이미지를 받아 맞춤형 파라메트릭 컴포넌트를 만든다. 프롬프트로 원형 창을, 사진으로 문을 만드는 식이며 Anthropic Claude, OpenAI, Google Gemini를 쓴다. Pliera Gen 가격은 월 €99 또는 €499다. 팀은 건축 설계를 완전히 자동화하는 데는 회의적이다."
+            "x": "크리에이터들은 품질을 가르는 첫째 요인으로 안목과 판단력(53%)을 꼽았다. 프롬프트 기술은 여덟 가지 요인 중 꼴찌(19%)였다. 49%는 AI 덕분에 작업이 빨라졌다고 했지만 수입이 늘었다는 응답은 7%에 그쳤다. 영상·모션·3D·VFX 크리에이터는 다른 분야보다 AI를 조금 더 쓰면서도 편집만큼은 훨씬 엄격하게 직접 챙긴다. 44%는 편집에 AI를 전혀 쓰지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pliera pitches AI-assisted BIM\nas a challenger to Revit",
-          "body": "Pliera pairs BIM modelling with AI-generated parametric objects and building configurators to take on Revit.",
-          "mini_headline": "Pliera takes aim at Revit",
+          "headline": "Creatives' AI use has\noutrun the rules",
+          "body": "Envato surveyed 1,033 creatives: 58% use AI daily, and 53% have used it on client work without telling the client.",
+          "mini_headline": "AI use outruns the rules",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Pliera is a new cloud-based BIM platform developed by Enscape co-founder Moritz Luck at Karlsruhe startup NeoBIM. It combines architectural modelling, AI-generated parametric objects and rule-based building configurators with ambitious plans to challenge Revit, and is being introduced at BIM World Munich at the end of November."
+                "x": "Envato, the creative asset and AI tools platform owned by Shutterstock, surveyed 1,033 creative professionals in 103 countries and territories for its second annual Beyond the Hype: The State of AI in Creative Work report."
               },
               {
                 "t": "p",
-                "x": "Configurators for six sectors capture firms’ design rules; Pliera Gen is live for residential site feasibility in Germany. The configurators shown use developer-written rules — using AI to compile a company’s knowledge into rules is the longer-term ambition."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+                "x": "Across the full sample, 87% of creatives now use AI at work and 58% use it daily, up from 49% last year. Active avoidance has grown too, from 3% to 8%, and reaches 19% in the U.S., where 83% of avoiders cite ethical concerns about how AI is trained."
               },
               {
                 "t": "p",
-                "x": "Pliera One, the browser-based modeller in alpha, runs on the Open Cascade kernel with a Three.js/WebGL engine. An Auto Complete system suggests next modelling steps, currently from coded algorithms."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+                "x": "More than half (53%) of creatives who use AI have used it on key client work without telling the client; only 7% felt uncomfortable about it. Among creatives who work in a team, 57% have no written AI policy, and even at organizations of 250 or more people, 40% have nothing in writing."
               },
               {
                 "t": "p",
-                "x": "Generative AI creates custom parametric components from text or images — a circular window from a prompt, a door from a photograph — using Anthropic Claude, OpenAI or Google Gemini. Pliera Gen costs €99 or €499 a month; the team is sceptical of fully automated architectural design."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "BIM AI-assisted: Pliera quiere\nrivalizar con Revit",
-          "body": "Pliera combina BIM con objetos paramétricos AI-generated y configuradores de edificios para competir con Revit.",
-          "mini_headline": "Pliera apunta a Revit",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Pliera es una nueva plataforma BIM en la nube desarrollada por Moritz Luck, cofundador de Enscape, en la startup NeoBIM de Karlsruhe. Combina modelado arquitectónico, objetos paramétricos AI-generated y configuradores de edificios basados en reglas, con el ambicioso plan de desafiar a Revit, y se presenta en BIM World Munich a finales de noviembre."
-              },
-              {
-                "t": "p",
-                "x": "Configuradores para seis sectores recogen las reglas de diseño de las empresas; Pliera Gen ya funciona en Alemania para estudios de viabilidad de terrenos residenciales. Los configuradores mostrados usan reglas escritas por los desarrolladores: usar AI para convertir el conocimiento de una empresa en reglas es la ambición a más largo plazo."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Pliera One, el modelador en el navegador que está en fase alfa, funciona sobre el kernel Open Cascade con un motor Three.js/WebGL. Un sistema Auto Complete sugiere los siguientes pasos de modelado, por ahora a partir de algoritmos programados."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La AI generativa crea componentes paramétricos personalizados a partir de texto o imágenes —una ventana circular a partir de un prompt, una puerta a partir de una fotografía— con Anthropic Claude, OpenAI o Google Gemini. Pliera Gen cuesta €99 o €499 al mes; el equipo se muestra escéptico ante el diseño arquitectónico totalmente automatizado."
+                "x": "Creatives rank taste and judgment as the top driver of quality (53%), with prompt skill last of eight drivers (19%). While 49% say AI makes them faster, only 7% say it has increased their earnings. Video, motion, 3D and VFX creatives use AI slightly more than everyone else but keep a much tighter grip on editing: 44% don't use it for editing at all."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Revit 겨냥한 BIM\nAI-assisted 표방",
-          "body": "Pliera가 AI-generated 객체·구성기로 BIM에서 Revit과 겨룬다.",
-          "mini_headline": "Pliera, Revit 정조준",
+          "headline": "크리에이터 AI 사용,\n규칙보다 앞서갔다",
+          "body": "Envato 조사 1,033명 중 58%는 매일, 53%는 고객 몰래 AI를 썼다.",
+          "mini_headline": "규칙보다 빠른 AI 사용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Pliera는 Enscape 공동 창업자 Moritz Luck이 Karlsruhe 스타트업 NeoBIM에서 만든 새 클라우드 기반 BIM 플랫폼이다. 건축 모델링과 AI-generated 파라메트릭 객체, 규칙 기반 건물 구성기를 한데 묶었고, Revit에 도전하겠다는 야심도 숨기지 않는다. 11월 말 BIM World Munich에서 처음 공개된다."
+                "x": "Shutterstock 산하의 크리에이티브 에셋·AI 도구 플랫폼 Envato가 두 번째 연례 보고서 Beyond the Hype: The State of AI in Creative Work를 내며 103개 국가·지역의 크리에이티브 전문가 1,033명을 조사했다."
               },
               {
                 "t": "p",
-                "x": "구성기는 여섯 개 분야용으로 나뉘어 각 회사의 설계 규칙을 담는다. 그중 Pliera Gen은 독일에서 주거 부지 타당성 검토용으로 이미 서비스 중이다. 지금 공개된 구성기는 개발자가 짠 규칙으로 돌아간다. 회사 지식을 AI로 규칙화하는 일은 더 먼 목표다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+                "x": "전체 표본에서 크리에이터 87%가 이제 업무에 AI를 쓰고, 58%는 매일 쓴다. 지난해 49%보다 늘었다. 적극적으로 피하는 비율도 3%에서 8%로 늘었고 U.S.(미국)에서는 19%에 달한다. 미국에서 AI를 피하는 이들의 83%는 AI 학습 방식을 둘러싼 윤리적 우려를 이유로 든다."
               },
               {
                 "t": "p",
-                "x": "Pliera One은 알파 단계의 브라우저 기반 모델러로, Open Cascade 커널과 Three.js/WebGL 엔진 위에서 돌아간다. Auto Complete 시스템이 다음 모델링 단계를 제안하는데, 지금은 코드로 짠 알고리즘을 쓴다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+                "x": "AI를 쓰는 크리에이터의 절반 이상(53%)은 고객에게 알리지 않은 채 주요 고객 작업에 AI를 썼는데, 이를 불편하게 여긴 사람은 7%뿐이었다. 팀으로 일하는 크리에이터의 57%는 서면 AI 정책이 없고, 250명 이상 조직도 40%는 문서로 된 규정이 아예 없다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI는 텍스트나 이미지를 받아 맞춤형 파라메트릭 컴포넌트를 만든다. 프롬프트로 원형 창을, 사진으로 문을 만드는 식이며 Anthropic Claude, OpenAI, Google Gemini를 쓴다. Pliera Gen 가격은 월 €99 또는 €499다. 팀은 건축 설계를 완전히 자동화하는 데는 회의적이다."
+                "x": "크리에이터들은 품질을 가르는 첫째 요인으로 안목과 판단력(53%)을 꼽았다. 프롬프트 기술은 여덟 가지 요인 중 꼴찌(19%)였다. 49%는 AI 덕분에 작업이 빨라졌다고 했지만 수입이 늘었다는 응답은 7%에 그쳤다. 영상·모션·3D·VFX 크리에이터는 다른 분야보다 AI를 조금 더 쓰면서도 편집만큼은 훨씬 엄격하게 직접 챙긴다. 44%는 편집에 AI를 전혀 쓰지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Revitに挑むBIM\nAI-assistedが武器",
-          "body": "PlieraはBIMにAI-generated部品と構成ツールを載せ、Revitに挑む。",
-          "mini_headline": "Pliera、Revitに照準",
+          "headline": "クリエイターのAI利用\nルールを追い越した",
+          "body": "Envatoの1,033人調査で58%がAIを毎日使い、53%は顧客に告げず案件に使った。",
+          "mini_headline": "AI利用がルールを追い越す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Plieraは、Enscapeの共同創業者Moritz LuckがKarlsruheのスタートアップNeoBIMで開発した、新しいクラウドベースのBIMプラットフォームだ。建築モデリング、AI-generatedのパラメトリックオブジェクト、ルールベースの建物コンフィギュレーターを組み合わせ、Revitに挑むという野心的な計画を掲げる。11月末のBIM World Munichで披露される。"
+                "x": "Shutterstock傘下のクリエイティブ素材・AIツールのプラットフォームEnvatoは、二回目となる年次レポート「Beyond the Hype: The State of AI in Creative Work」のため、103の国と地域のクリエイティブ専門職1,033人を調査した。"
               },
               {
                 "t": "p",
-                "x": "六つの分野向けのコンフィギュレーターが企業の設計ルールを取り込む。Pliera Genはドイツの住宅用地の実現可能性検討向けにすでに稼働している。紹介されたコンフィギュレーターは開発者が書いたルールを使っており、AIで企業の知識をルールにまとめることはより長期的な目標だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+                "x": "全体では、クリエイターの87%が仕事でAIを使い、58%は毎日使っている。昨年の49%から増えた。積極的に避ける人も3%から8%に増え、U.S.(米国)では19%に達する。そこでAIを避ける人の83%は、AIの学習方法をめぐる倫理的懸念を理由に挙げる。"
               },
               {
                 "t": "p",
-                "x": "アルファ版のブラウザベースのモデラーPliera Oneは、Open CascadeカーネルとThree.js/WebGLエンジンで動く。Auto Completeシステムが次のモデリング手順を提案するが、現時点ではコード化されたアルゴリズムによるものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+                "x": "AIを使うクリエイターの半数超(53%)が、重要な顧客案件で顧客に告げずにAIを使ったことがあり、それに抵抗を感じたのは7%にとどまった。チームで働くクリエイターの57%には文書化されたAIポリシーがなく、250人以上の組織でも40%は書面の規定を何も持たない。"
               },
               {
                 "t": "p",
-                "x": "生成AIはテキストや画像からカスタムのパラメトリックコンポーネントを作る。プロンプトから円形の窓を、写真からドアを作るといった具合で、Anthropic Claude、OpenAI、Google Geminiを使う。Pliera Genの価格は月€99または€499。チームは建築設計の完全自動化には懐疑的だ。"
+                "x": "クリエイターは品質を左右する最大の要因にセンスと判断力(53%)を挙げ、プロンプトのスキルは八つの要因のうち最下位(19%)だった。49%がAIで作業が速くなったと答える一方、収入が増えたと答えたのは7%だけだった。映像、モーション、3D、VFXのクリエイターはほかの層よりややAIを多く使うが、編集ははるかに厳しく自分の手に残しており、44%は編集にまったくAIを使わない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "瞄准Revit的BIM\n主打AI-assisted",
-          "body": "Pliera将BIM建模与AI-generated参数化对象及配置器结合，挑战Revit。",
-          "mini_headline": "Pliera瞄准Revit",
+          "headline": "创意人的AI使用\n已跑在规则前面",
+          "body": "Envato调查1,033名创意人：58%每天用AI，53%曾瞒着客户用于客户项目。",
+          "mini_headline": "AI使用跑在规则前面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Pliera是Enscape联合创始人Moritz Luck在Karlsruhe初创公司NeoBIM开发的一款新的云端BIM平台。它结合了建筑建模、AI-generated参数化对象和基于规则的建筑配置器，怀有挑战Revit的远大计划，并将于11月底在BIM World Munich上亮相。"
+                "x": "Shutterstock旗下的创意素材与AI工具平台Envato，为其第二份年度报告《Beyond the Hype: The State of AI in Creative Work》调查了103个国家和地区的1,033名创意专业人士。"
               },
               {
                 "t": "p",
-                "x": "面向六个领域的配置器可收录企业的设计规则；Pliera Gen已在德国上线，用于住宅用地可行性研究。演示中的配置器使用开发者编写的规则——用AI把企业知识整理成规则是更长远的目标。"
+                "x": "在全部样本中，87%的创意人士已在工作中使用AI，58%每天使用，高于去年的49%。主动回避者也从3%增至8%，在U.S.（美国）达到19%；那里83%的回避者以对AI训练方式的伦理担忧为由。"
               },
+              {
+                "t": "p",
+                "x": "使用AI的创意人士中，超过一半（53%）曾在重要客户项目中使用AI而未告知客户；只有7%对此感到不安。在团队中工作的创意人士里，57%没有书面AI政策；即便在250人及以上的机构中，也有40%没有任何书面规定。"
+              },
+              {
+                "t": "p",
+                "x": "创意人士认为品味与判断力是决定质量的首要因素（53%），提示词技巧在八项因素中排名最后（19%）。49%的人说AI让他们更快，但只有7%说AI提高了收入。视频、动态、3D和VFX创意人士使用AI略多于其他人，但对编辑把控得更紧：44%完全不用AI做编辑。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El uso de AI de los creativos\nva por delante de las reglas",
+          "body": "Envato encuestó a 1,033 creativos: el 58% usa AI a diario y el 53% la usó en trabajos para clientes sin avisarles.",
+          "mini_headline": "El uso de AI supera las reglas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Pliera One是一款处于alpha阶段的浏览器建模工具，运行在Open Cascade内核和Three.js/WebGL引擎之上。Auto Complete系统会建议下一步建模操作，目前依据的是编写好的算法。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+                "x": "Envato, la plataforma de recursos creativos y herramientas de AI propiedad de Shutterstock, encuestó a 1,033 profesionales creativos de 103 países y territorios para su segundo informe anual, Beyond the Hype: The State of AI in Creative Work."
               },
               {
                 "t": "p",
-                "x": "生成式AI可根据文字或图像创建定制参数化组件——用提示词生成圆形窗户，用照片生成门——所用模型为Anthropic Claude、OpenAI或Google Gemini。Pliera Gen每月收费€99或€499；团队对全自动建筑设计持怀疑态度。"
+                "x": "En el conjunto de la muestra, el 87% de los creativos ya usa AI en el trabajo y el 58% la usa a diario, frente al 49% del año pasado. El rechazo activo también creció, del 3% al 8%, y llega al 19% en U.S. (Estados Unidos), donde el 83% de quienes la evitan alude a preocupaciones éticas sobre cómo se entrena la AI."
+              },
+              {
+                "t": "p",
+                "x": "Más de la mitad (53%) de los creativos que usan AI la han empleado en trabajos clave para clientes sin decírselo; solo el 7% se sintió incómodo por ello. Entre los creativos que trabajan en equipo, el 57% no tiene una política de AI por escrito, e incluso en organizaciones de 250 personas o más, el 40% no tiene nada por escrito."
+              },
+              {
+                "t": "p",
+                "x": "Los creativos sitúan el gusto y el criterio como el principal factor de calidad (53%), y la habilidad con los prompts en el último lugar de ocho factores (19%). Aunque el 49% dice que la AI los hace más rápidos, solo el 7% afirma que ha aumentado sus ingresos. Los creativos de video, motion, 3D y VFX usan la AI un poco más que el resto, pero controlan mucho más la edición: el 44% no la usa en absoluto para editar."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "BIM AI-assisted: Pliera quiere\nrivalizar con Revit",
-          "body": "Pliera combina BIM con objetos paramétricos AI-generated y configuradores de edificios para competir con Revit.",
-          "mini_headline": "Pliera apunta a Revit",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Pliera es una nueva plataforma BIM en la nube desarrollada por Moritz Luck, cofundador de Enscape, en la startup NeoBIM de Karlsruhe. Combina modelado arquitectónico, objetos paramétricos AI-generated y configuradores de edificios basados en reglas, con el ambicioso plan de desafiar a Revit, y se presenta en BIM World Munich a finales de noviembre."
-              },
-              {
-                "t": "p",
-                "x": "Configuradores para seis sectores recogen las reglas de diseño de las empresas; Pliera Gen ya funciona en Alemania para estudios de viabilidad de terrenos residenciales. Los configuradores mostrados usan reglas escritas por los desarrolladores: usar AI para convertir el conocimiento de una empresa en reglas es la ambición a más largo plazo."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Pliera One, el modelador en el navegador que está en fase alfa, funciona sobre el kernel Open Cascade con un motor Three.js/WebGL. Un sistema Auto Complete sugiere los siguientes pasos de modelado, por ahora a partir de algoritmos programados."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La AI generativa crea componentes paramétricos personalizados a partir de texto o imágenes —una ventana circular a partir de un prompt, una puerta a partir de una fotografía— con Anthropic Claude, OpenAI o Google Gemini. Pliera Gen cuesta €99 o €499 al mes; el equipo se muestra escéptico ante el diseño arquitectónico totalmente automatizado."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Revit 겨냥한 BIM\nAI-assisted 표방",
-          "body": "Pliera가 AI-generated 객체·구성기로 BIM에서 Revit에 맞선다.",
-          "mini_headline": "Pliera, Revit 정조준",
+          "headline": "크리에이터의 AI 사용,\n규칙을 앞질렀다",
+          "body": "Envato 조사 1,033명 중 58%는 매일, 53%는 고객 몰래 AI를 썼다.",
+          "mini_headline": "규칙을 앞지른 AI 사용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Pliera는 Enscape 공동 창업자 Moritz Luck이 Karlsruhe 스타트업 NeoBIM에서 개발한 새 클라우드 기반 BIM 플랫폼이다. 건축 모델링, AI-generated 파라메트릭 객체, 규칙 기반 건물 구성기를 결합했으며 Revit에 도전하겠다는 야심 찬 계획을 품고 있다. 11월 말 BIM World Munich에서 처음 소개된다."
+                "x": "Shutterstock이 소유한 크리에이티브 에셋·AI 도구 플랫폼 Envato가 두 번째 연례 보고서 Beyond the Hype: The State of AI in Creative Work를 위해 103개 국가·지역의 크리에이티브 전문가 1,033명을 조사했다."
               },
               {
                 "t": "p",
-                "x": "여섯 개 분야용 구성기가 각 회사의 설계 규칙을 담아내며, Pliera Gen은 독일에서 주거 부지 타당성 검토용으로 이미 서비스 중이다. 공개된 구성기는 개발자가 작성한 규칙을 쓴다. AI로 회사의 지식을 규칙으로 정리하는 것은 더 장기적인 목표다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+                "x": "전체 표본에서 크리에이터의 87%가 이제 업무에 AI를 쓰고, 58%는 매일 쓴다. 지난해 49%에서 늘었다. 적극적으로 피하는 비율도 3%에서 8%로 늘었고, U.S.(미국)에서는 19%에 이른다. 그곳에서 AI를 피하는 이들의 83%는 AI 학습 방식에 대한 윤리적 우려를 이유로 든다."
               },
               {
                 "t": "p",
-                "x": "알파 단계인 브라우저 기반 모델러 Pliera One은 Open Cascade 커널과 Three.js/WebGL 엔진으로 동작한다. Auto Complete 시스템이 다음 모델링 단계를 제안하는데, 현재는 코드로 짠 알고리즘에 기반한다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+                "x": "AI를 쓰는 크리에이터의 절반 이상(53%)이 고객에게 알리지 않고 주요 고객 작업에 AI를 썼고, 이를 불편하게 느낀 사람은 7%뿐이었다. 팀으로 일하는 크리에이터의 57%는 서면 AI 정책이 없고, 250명 이상 조직에서도 40%는 문서로 된 규정이 전혀 없다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI는 텍스트나 이미지로 맞춤형 파라메트릭 컴포넌트를 만든다. 프롬프트로 원형 창을, 사진으로 문을 만드는 식이며 Anthropic Claude, OpenAI, Google Gemini를 쓴다. Pliera Gen 가격은 월 €99 또는 €499이며, 팀은 건축 설계의 완전 자동화에는 회의적이다."
+                "x": "크리에이터들은 품질을 좌우하는 첫째 요인으로 안목과 판단력(53%)을 꼽았고, 프롬프트 기술은 여덟 가지 요인 중 마지막(19%)이었다. 49%는 AI 덕분에 작업이 빨라졌다고 했지만, 수입이 늘었다는 응답은 7%뿐이었다. 영상·모션·3D·VFX 크리에이터는 다른 이들보다 AI를 조금 더 많이 쓰지만 편집은 훨씬 엄격하게 직접 쥐고 있다. 44%는 편집에 AI를 전혀 쓰지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Revitに挑むBIM\nAI-assistedが武器",
-          "body": "PlieraはBIMにAI-generated部品と構成ツールを載せ、Revitに挑む。",
-          "mini_headline": "Pliera、Revitに照準",
+          "headline": "クリエイターのAI利用\nルールを追い越した",
+          "body": "Envatoの1,033人調査で58%がAIを毎日使い、53%は顧客に告げず案件に使った。",
+          "mini_headline": "AI利用がルールを追い越す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Plieraは、Enscapeの共同創業者Moritz LuckがKarlsruheのスタートアップNeoBIMで開発した、新しいクラウドベースのBIMプラットフォームだ。建築モデリング、AI-generatedのパラメトリックオブジェクト、ルールベースの建物コンフィギュレーターを組み合わせ、Revitに挑むという野心的な計画を掲げる。11月末のBIM World Munichで披露される。"
+                "x": "Shutterstock傘下のクリエイティブ素材・AIツールのプラットフォームEnvatoは、二回目となる年次レポート「Beyond the Hype: The State of AI in Creative Work」のため、103の国と地域のクリエイティブ専門職1,033人を調査した。"
               },
               {
                 "t": "p",
-                "x": "六つの分野向けのコンフィギュレーターが企業の設計ルールを取り込む。Pliera Genはドイツの住宅用地の実現可能性検討向けにすでに稼働している。紹介されたコンフィギュレーターは開発者が書いたルールを使っており、AIで企業の知識をルールにまとめることはより長期的な目標だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+                "x": "全体では、クリエイターの87%が仕事でAIを使い、58%は毎日使っている。昨年の49%から増えた。積極的に避ける人も3%から8%に増え、U.S.(米国)では19%に達する。そこでAIを避ける人の83%は、AIの学習方法をめぐる倫理的懸念を理由に挙げる。"
               },
               {
                 "t": "p",
-                "x": "アルファ版のブラウザベースのモデラーPliera Oneは、Open CascadeカーネルとThree.js/WebGLエンジンで動く。Auto Completeシステムが次のモデリング手順を提案するが、現時点ではコード化されたアルゴリズムによるものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+                "x": "AIを使うクリエイターの半数超(53%)が、重要な顧客案件で顧客に告げずにAIを使ったことがあり、それに抵抗を感じたのは7%にとどまった。チームで働くクリエイターの57%には文書化されたAIポリシーがなく、250人以上の組織でも40%は書面の規定を何も持たない。"
               },
               {
                 "t": "p",
-                "x": "生成AIはテキストや画像からカスタムのパラメトリックコンポーネントを作る。プロンプトから円形の窓を、写真からドアを作るといった具合で、Anthropic Claude、OpenAI、Google Geminiを使う。Pliera Genの価格は月€99または€499。チームは建築設計の完全自動化には懐疑的だ。"
+                "x": "クリエイターは品質を左右する最大の要因にセンスと判断力(53%)を挙げ、プロンプトのスキルは八つの要因のうち最下位(19%)だった。49%がAIで作業が速くなったと答える一方、収入が増えたと答えたのは7%だけだった。映像、モーション、3D、VFXのクリエイターはほかの層よりややAIを多く使うが、編集ははるかに厳しく自分の手に残しており、44%は編集にまったくAIを使わない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "瞄准Revit的BIM\n主打AI-assisted",
-          "body": "Pliera将BIM建模与AI-generated参数化对象及配置器结合，挑战Revit。",
-          "mini_headline": "Pliera瞄准Revit",
+          "headline": "创意人的AI使用\n已跑在规则前面",
+          "body": "Envato调查1,033名创意人：58%每天用AI，53%曾瞒着客户用于客户项目。",
+          "mini_headline": "AI使用跑在规则前面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Pliera是Enscape联合创始人Moritz Luck在Karlsruhe初创公司NeoBIM开发的一款新的云端BIM平台。它结合了建筑建模、AI-generated参数化对象和基于规则的建筑配置器，怀有挑战Revit的远大计划，并将于11月底在BIM World Munich上亮相。"
+                "x": "Shutterstock旗下的创意素材与AI工具平台Envato，为其第二份年度报告《Beyond the Hype: The State of AI in Creative Work》调查了103个国家和地区的1,033名创意专业人士。"
               },
               {
                 "t": "p",
-                "x": "面向六个领域的配置器可收录企业的设计规则；Pliera Gen已在德国上线，用于住宅用地可行性研究。演示中的配置器使用开发者编写的规则——用AI把企业知识整理成规则是更长远的目标。"
+                "x": "在全部样本中，87%的创意人士已在工作中使用AI，58%每天使用，高于去年的49%。主动回避者也从3%增至8%，在U.S.（美国）达到19%；那里83%的回避者以对AI训练方式的伦理担忧为由。"
               },
+              {
+                "t": "p",
+                "x": "使用AI的创意人士中，超过一半（53%）曾在重要客户项目中使用AI而未告知客户；只有7%对此感到不安。在团队中工作的创意人士里，57%没有书面AI政策；即便在250人及以上的机构中，也有40%没有任何书面规定。"
+              },
+              {
+                "t": "p",
+                "x": "创意人士认为品味与判断力是决定质量的首要因素（53%），提示词技巧在八项因素中排名最后（19%）。49%的人说AI让他们更快，但只有7%说AI提高了收入。视频、动态、3D和VFX创意人士使用AI略多于其他人，但对编辑把控得更紧：44%完全不用AI做编辑。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El uso de AI de los creativos\nva por delante de las reglas",
+          "body": "Envato encuestó a 1,033 creativos: el 58% usa AI a diario y el 53% la usó en trabajos para clientes sin avisarles.",
+          "mini_headline": "El uso de AI supera las reglas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-3.jpg"
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
               },
               {
                 "t": "p",
-                "x": "Pliera One是一款处于alpha阶段的浏览器建模工具，运行在Open Cascade内核和Three.js/WebGL引擎之上。Auto Complete系统会建议下一步建模操作，目前依据的是编写好的算法。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/PLIERAOne-6.jpg"
+                "x": "Envato, la plataforma de recursos creativos y herramientas de AI propiedad de Shutterstock, encuestó a 1,033 profesionales creativos de 103 países y territorios para su segundo informe anual, Beyond the Hype: The State of AI in Creative Work."
               },
               {
                 "t": "p",
-                "x": "生成式AI可根据文字或图像创建定制参数化组件——用提示词生成圆形窗户，用照片生成门——所用模型为Anthropic Claude、OpenAI或Google Gemini。Pliera Gen每月收费€99或€499；团队对全自动建筑设计持怀疑态度。"
+                "x": "En el conjunto de la muestra, el 87% de los creativos ya usa AI en el trabajo y el 58% la usa a diario, frente al 49% del año pasado. El rechazo activo también creció, del 3% al 8%, y llega al 19% en U.S. (Estados Unidos), donde el 83% de quienes la evitan alude a preocupaciones éticas sobre cómo se entrena la AI."
+              },
+              {
+                "t": "p",
+                "x": "Más de la mitad (53%) de los creativos que usan AI la han empleado en trabajos clave para clientes sin decírselo; solo el 7% se sintió incómodo por ello. Entre los creativos que trabajan en equipo, el 57% no tiene una política de AI por escrito, e incluso en organizaciones de 250 personas o más, el 40% no tiene nada por escrito."
+              },
+              {
+                "t": "p",
+                "x": "Los creativos sitúan el gusto y el criterio como el principal factor de calidad (53%), y la habilidad con los prompts en el último lugar de ocho factores (19%). Aunque el 49% dice que la AI los hace más rápidos, solo el 7% afirma que ha aumentado sus ingresos. Los creativos de video, motion, 3D y VFX usan la AI un poco más que el resto, pero controlan mucho más la edición: el 44% no la usa en absoluto para editar."
               }
             ]
           }
@@ -1119,361 +727,361 @@
       }
     },
     {
-      "id": "nvidia-omniverse-sim-agents",
-      "source_lang": "en",
+      "id": "fuser-tool-node",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA, 에이전트와\nOmniverse 연계",
-      "body": "개발자들이 코딩 에이전트와 Omniverse로 프롬프트만 써서 시뮬레이션을 짓는다.",
-      "mini_headline": "Omniverse와 코딩 에이전트",
-      "tool": "Omniverse",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "headline": "퓨저, 문장 한 줄로\n편집 도구를 만든다",
+      "body": "퓨저의 툴 노드는 문장으로 설명한 편집 도구를 AI가 만들어 캔버스에 배치한다.",
+      "mini_headline": "문장으로 만드는 편집 도구",
+      "tool": "KeyShot",
+      "source": "Design Compass",
+      "url": "https://designcompass.org/2026/11/18/fuser-tool-node/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+            "t": "img",
+            "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "시뮬레이션 아이디어를 돌아가는 애플리케이션으로 만들려면 에셋을 조립하고 물리와 렌더링을 연결한 뒤 장면이 의도대로 움직이는지 확인해야 한다. 개발자들은 이 일에 프런티어 AI 모델과 NVIDIA Omniverse 라이브러리를 함께 쓴다. 시나리오를 탐색하고 실패 원인을 조사하고 설계를 개선하는 애플리케이션이 이렇게 나온다. 개발자는 자연어로 AI 에이전트에 지시하고, 결과를 검토해 수정 방향을 잡는다."
+            "x": "퓨저(Fuser)가 11월 13일(한국시간) 문장으로 맞춤형 편집 도구를 만드는 ‘툴 노드(Tool Node)’를 공개했습니다. 캔버스에 툴 노드를 놓고 어떤 자료를 받아 무엇을 바꿀지, 어떤 값을 직접 조절하고 싶은지 적으면 됩니다. 퓨저는 요청에 맞춰 슬라이더와 스위치를 설계하고, 도구를 작성해 테스트한 뒤 캔버스에 배치합니다."
           },
           {
             "t": "p",
-            "x": "KONGSBERG 계열사 Falkor의 고객은 GPT-6 Astra 모델로 컴퓨터 지원 설계·엔지니어링 데이터를 시설 규모의 디지털 트윈으로 바꾼다. 엔지니어는 현장에 가기 전에 시뮬레이션 안에서 계획을 세우고 시험해 본다."
+            "x": "사진을 픽셀화하는 도구를 요청하면 픽셀 블록의 크기와 사용할 색의 수를 조절하는 슬라이더를 만들 수 있습니다. 사진을 노드에 연결하고 슬라이더를 움직이면 결과가 즉시 바뀝니다. 같은 노드에 다른 사진을 연결하면 기존 설정을 그대로 적용할 수 있습니다. 픽셀화한 결과를 색 채널을 분리하는 다음 노드에 연결해 두 효과를 차례로 적용할 수도 있습니다."
+          },
+          {
+            "t": "p",
+            "x": "색 조정이나 자르기 같은 ‘라이브’ 도구는 브라우저에서 무료로 실행됩니다. 이미지 속 글자를 읽거나 물체를 찾는 ‘클라우드’ 도구는 실행 버튼을 누르면 퓨저 서버에서 AI 모델을 사용합니다. 실행에 드는 크레딧은 버튼에 표시됩니다. 도구를 새로 만들거나 문장으로 수정할 때도 크레딧이 필요합니다."
+          },
+          {
+            "t": "p",
+            "x": "완성한 도구는 라이브러리에 자동으로 저장됩니다. 다음 프로젝트에서 꺼내 쓰거나 팀 작업 공간에서 동료와 공유할 수 있습니다. 슬라이더를 추가하고 싶다면 바꿀 내용을 문장으로 입력하면 됩니다. 퓨저는 수정본을 새 버전으로 저장하고, 가능한 경우 기존 노드 연결과 설정값을 유지합니다."
           },
           {
             "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-            "cap": "NVIDIA Isaac Sim에서 SimReady 에셋으로 만든 픽 앤 플레이스 시뮬레이션."
-          },
-          {
-            "t": "p",
-            "x": "커뮤니티 개발자 Michael Wagner는 주말 사이 Claude Code로 SimReady Central 에셋을 쓴 음성 제어 VR 애플리케이션을 만들었다. 그의 교훈은 렌더와 로그는 에이전트에게 살펴보게 하고, 경험은 직접 확인하라는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "Maziyar Panahi는 Claude Code에 SimReady 병원 에셋 13개로 중환자실을 꾸리게 했다. 병동 256개를 돌린 결과, 시뮬레이션 시간 14초가 지나도 Microducks 768개 중 766개가 서 있었다. 다른 NVIDIA 팀들도 Astra를 썼다. Houdini에서 OP-1 신시사이저를 재현하고, PTC Onshape에서 자동차 서스펜션을 모델링하고, 가스터빈 what-if 디지털 트윈을 만들었다. 컨베이어 80개, 로봇 팔 40개, 상자 800개를 넣고도 초당 30프레임을 유지한 창고 시뮬레이션으로 스트레스 테스트도 했다."
+            "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+            "cap": "사진에 픽셀화와 색 채널 분리 노드를 연결한 퓨저 캔버스"
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "NVIDIA pairs coding agents\nwith Omniverse simulation",
-          "body": "Developers pair coding agents with Omniverse libraries to build simulations and iterate on designs from a prompt.",
-          "mini_headline": "Omniverse meets coding agents",
+        "ko": {
+          "headline": "퓨저, 문장 한 줄로\n편집 도구를 만든다",
+          "body": "퓨저의 툴 노드는 문장으로 설명한 편집 도구를 AI가 만들어 캔버스에 배치한다.",
+          "mini_headline": "문장으로 만드는 편집 도구",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. They direct AI agents through natural-language instructions, review results and guide changes."
+                "x": "퓨저(Fuser)가 11월 13일(한국시간) 문장으로 맞춤형 편집 도구를 만드는 ‘툴 노드(Tool Node)’를 공개했습니다. 캔버스에 툴 노드를 놓고 어떤 자료를 받아 무엇을 바꿀지, 어떤 값을 직접 조절하고 싶은지 적으면 됩니다. 퓨저는 요청에 맞춰 슬라이더와 스위치를 설계하고, 도구를 작성해 테스트한 뒤 캔버스에 배치합니다."
               },
               {
                 "t": "p",
-                "x": "Falkor, a KONGSBERG company, lets customers turn their computer-aided design and engineering data into facility-scale digital twins using the GPT-6 Astra model, so engineers can create and test plans in simulation before traveling on site."
+                "x": "사진을 픽셀화하는 도구를 요청하면 픽셀 블록의 크기와 사용할 색의 수를 조절하는 슬라이더를 만들 수 있습니다. 사진을 노드에 연결하고 슬라이더를 움직이면 결과가 즉시 바뀝니다. 같은 노드에 다른 사진을 연결하면 기존 설정을 그대로 적용할 수 있습니다. 픽셀화한 결과를 색 채널을 분리하는 다음 노드에 연결해 두 효과를 차례로 적용할 수도 있습니다."
+              },
+              {
+                "t": "p",
+                "x": "색 조정이나 자르기 같은 ‘라이브’ 도구는 브라우저에서 무료로 실행됩니다. 이미지 속 글자를 읽거나 물체를 찾는 ‘클라우드’ 도구는 실행 버튼을 누르면 퓨저 서버에서 AI 모델을 사용합니다. 실행에 드는 크레딧은 버튼에 표시됩니다. 도구를 새로 만들거나 문장으로 수정할 때도 크레딧이 필요합니다."
+              },
+              {
+                "t": "p",
+                "x": "완성한 도구는 라이브러리에 자동으로 저장됩니다. 다음 프로젝트에서 꺼내 쓰거나 팀 작업 공간에서 동료와 공유할 수 있습니다. 슬라이더를 추가하고 싶다면 바꿀 내용을 문장으로 입력하면 됩니다. 퓨저는 수정본을 새 버전으로 저장하고, 가능한 경우 기존 노드 연결과 설정값을 유지합니다."
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "A pick-and-place simulation built with SimReady assets in NVIDIA Isaac Sim."
-              },
-              {
-                "t": "p",
-                "x": "Community developer Michael Wagner used Claude Code to build a voice-controlled VR application with SimReady Central assets over a weekend. His takeaway: Give agents renders and logs to inspect, then check the experience directly."
-              },
-              {
-                "t": "p",
-                "x": "Maziyar Panahi directed Claude Code to assemble an intensive care unit from 13 SimReady hospital assets; in a 256-ward run, 766 of 768 Microducks were still standing after 14 simulated seconds. Other NVIDIA teams used Astra to recreate an OP-1 synthesizer in Houdini, model a car suspension in PTC Onshape, build a gas-turbine what-if digital twin and stress-test a warehouse simulation that sustained 30 frames per second with 80 conveyors, 40 arms and 800 boxes."
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "사진에 픽셀화와 색 채널 분리 노드를 연결한 퓨저 캔버스"
               }
             ]
           }
         },
-        "ko": {
-          "headline": "NVIDIA, 에이전트와\nOmniverse 연계",
-          "body": "개발자들이 코딩 에이전트와 Omniverse로 프롬프트만 써서 시뮬레이션을 짓는다.",
-          "mini_headline": "Omniverse와 코딩 에이전트",
+        "en": {
+          "headline": "Fuser builds editing tools\nfrom a single sentence",
+          "body": "Fuser's Tool Node has AI build an editing tool described in a sentence and place it on the canvas.",
+          "mini_headline": "Editing tools made from sentences",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "시뮬레이션 아이디어를 돌아가는 애플리케이션으로 만들려면 에셋을 조립하고 물리와 렌더링을 연결한 뒤 장면이 의도대로 움직이는지 확인해야 한다. 개발자들은 이 일에 프런티어 AI 모델과 NVIDIA Omniverse 라이브러리를 함께 쓴다. 시나리오를 탐색하고 실패 원인을 조사하고 설계를 개선하는 애플리케이션이 이렇게 나온다. 개발자는 자연어로 AI 에이전트에 지시하고, 결과를 검토해 수정 방향을 잡는다."
+                "x": "Fuser released ‘Tool Node’ on November 13 (Korea time), a feature that builds custom editing tools from sentences. You place a Tool Node on the canvas and write what material it should take in, what it should change, and which values you want to adjust yourself. Fuser designs sliders and switches to fit the request, writes and tests the tool, and then places it on the canvas."
               },
               {
                 "t": "p",
-                "x": "KONGSBERG 계열사 Falkor의 고객은 GPT-6 Astra 모델로 컴퓨터 지원 설계·엔지니어링 데이터를 시설 규모의 디지털 트윈으로 바꾼다. 엔지니어는 현장에 가기 전에 시뮬레이션 안에서 계획을 세우고 시험해 본다."
+                "x": "If you ask for a tool that pixelates photos, you can get sliders that control the size of the pixel blocks and the number of colors used. Connect a photo to the node and move the sliders, and the result changes instantly. Connect a different photo to the same node and the existing settings apply as they are. You can also connect the pixelated result to a next node that separates color channels, applying the two effects in sequence."
+              },
+              {
+                "t": "p",
+                "x": "‘Live’ tools such as color adjustment and cropping run free in the browser. ‘Cloud’ tools that read text in images or find objects use AI models on Fuser's servers when you press the run button. The credits each run costs are shown on the button. Creating a new tool or revising one with a sentence also requires credits."
+              },
+              {
+                "t": "p",
+                "x": "Finished tools are saved to the library automatically. You can pull them into your next project or share them with colleagues in a team workspace. To add a slider, type the change you want as a sentence. Fuser saves the revision as a new version and, where possible, keeps existing node connections and settings."
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "NVIDIA Isaac Sim에서 SimReady 에셋으로 만든 픽 앤 플레이스 시뮬레이션."
-              },
-              {
-                "t": "p",
-                "x": "커뮤니티 개발자 Michael Wagner는 주말 사이 Claude Code로 SimReady Central 에셋을 쓴 음성 제어 VR 애플리케이션을 만들었다. 그의 교훈은 렌더와 로그는 에이전트에게 살펴보게 하고, 경험은 직접 확인하라는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Maziyar Panahi는 Claude Code에 SimReady 병원 에셋 13개로 중환자실을 꾸리게 했다. 병동 256개를 돌린 결과, 시뮬레이션 시간 14초가 지나도 Microducks 768개 중 766개가 서 있었다. 다른 NVIDIA 팀들도 Astra를 썼다. Houdini에서 OP-1 신시사이저를 재현하고, PTC Onshape에서 자동차 서스펜션을 모델링하고, 가스터빈 what-if 디지털 트윈을 만들었다. 컨베이어 80개, 로봇 팔 40개, 상자 800개를 넣고도 초당 30프레임을 유지한 창고 시뮬레이션으로 스트레스 테스트도 했다."
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "A Fuser canvas with pixelation and color-channel separation nodes connected to a photo"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA、エージェントと\nOmniverseを連携",
-          "body": "開発者はコーディングエージェントとOmniverseでシミュレーションを構築し設計を磨く。",
-          "mini_headline": "Omniverseとコーディングエージェント",
+          "headline": "Fuser、一文で\n編集ツールを作る",
+          "body": "FuserのTool Nodeは文章で説明した編集ツールをAIが作りキャンバスに置く。",
+          "mini_headline": "文章で作る編集ツール",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "シミュレーションのアイデアを動くアプリケーションにするには、アセットを組み立て、物理とレンダリングをつなぎ、シーンが意図どおりに振る舞うかを確かめる必要がある。開発者はこの作業にフロンティアAIモデルとNVIDIA Omniverseライブラリを組み合わせ、シナリオの探索、失敗の調査、設計の改善のためのアプリケーションを作っている。自然言語の指示でAIエージェントを動かし、結果を確認して変更を導く。"
+                "x": "Fuserは11月13日(韓国時間)、文章でカスタム編集ツールを作る「Tool Node(ツールノード)」を公開した。キャンバスにTool Nodeを置き、どんな素材を受け取って何を変えるか、どの値を自分で調整したいかを書けばよい。Fuserは要望に合わせてスライダーとスイッチを設計し、ツールを作成してテストしたうえでキャンバスに配置する。"
               },
               {
                 "t": "p",
-                "x": "KONGSBERG傘下のFalkorは、顧客がGPT-6 Astraモデルを使ってコンピューター支援設計・エンジニアリングのデータを施設規模のデジタルツインに変換できるようにしている。エンジニアは現地に出向く前に、シミュレーションで計画を作成し検証できる。"
+                "x": "写真をピクセル化するツールを頼めば、ピクセルブロックの大きさと使う色の数を調整するスライダーを作れる。写真をノードにつないでスライダーを動かすと、結果がすぐに変わる。同じノードに別の写真をつなげば、既存の設定をそのまま適用できる。ピクセル化した結果を、色チャンネルを分離する次のノードにつなぎ、二つの効果を順に適用することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "色調整や切り抜きのような「ライブ」ツールはブラウザ上で無料で動く。画像内の文字を読んだり物体を見つけたりする「クラウド」ツールは、実行ボタンを押すとFuserのサーバーでAIモデルを使う。実行にかかるクレジットはボタンに表示される。ツールを新たに作るときや文章で修正するときにもクレジットが必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "完成したツールは自動でライブラリに保存される。次のプロジェクトで呼び出したり、チームのワークスペースで同僚と共有したりできる。スライダーを追加したければ、変更内容を文章で入力すればよい。Fuserは修正版を新しいバージョンとして保存し、可能な場合は既存のノード接続と設定値を保つ。"
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "NVIDIA Isaac SimでSimReadyアセットを使って作ったピック・アンド・プレースのシミュレーション。"
-              },
-              {
-                "t": "p",
-                "x": "コミュニティ開発者のMichael Wagnerは、週末のうちにClaude Codeを使い、SimReady Centralのアセットで音声操作のVRアプリケーションを作った。彼の教訓は、エージェントにはレンダーとログを確認させ、そのうえで体験は自分で直接確かめることだという。"
-              },
-              {
-                "t": "p",
-                "x": "Maziyar PanahiはClaude Codeに指示し、13個のSimReady病院アセットから集中治療室を組み立てさせた。256病棟の実行では、シミュレーション上の14秒後も768体のMicroducksのうち766体が立っていた。NVIDIAの他のチームはAstraを使い、HoudiniでOP-1シンセサイザーを再現し、PTC Onshapeで車のサスペンションをモデリングし、ガスタービンのwhat-ifデジタルツインを構築し、コンベヤー80台、アーム40本、箱800個で毎秒30フレームを維持した倉庫シミュレーションのストレステストを行った。"
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "写真にピクセル化と色チャンネル分離のノードをつないだFuserのキャンバス"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA让编程智能体\n联手Omniverse仿真",
-          "body": "开发者将编程智能体与Omniverse库结合，凭提示词构建仿真并迭代设计。",
-          "mini_headline": "Omniverse遇上编程智能体",
+          "headline": "Fuser用一句话\n生成编辑工具",
+          "body": "Fuser的Tool Node可让AI按文字描述生成编辑工具，并放到画布上。",
+          "mini_headline": "用文字生成编辑工具",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "要把仿真构想变成可运行的应用，需要组装资产、连接物理与渲染，并检查场景是否按预期运行。开发者正将前沿AI模型与NVIDIA Omniverse库结合来完成这些工作——构建用于探索场景、排查故障和改进设计的应用。他们通过自然语言指令指挥AI智能体，审阅结果并引导修改。"
+                "x": "Fuser于11月13日（韩国时间）发布了“Tool Node”（工具节点），可用文字生成定制编辑工具。用户只需在画布上放置Tool Node，写明要接收什么素材、改变什么，以及想亲自调节哪些参数。Fuser会按需求设计滑块和开关，编写并测试工具，然后将其放到画布上。"
               },
               {
                 "t": "p",
-                "x": "KONGSBERG旗下公司Falkor让客户借助GPT-6 Astra模型，把计算机辅助设计与工程数据转化为设施级数字孪生，使工程师在前往现场之前就能在仿真中制定并测试方案。"
+                "x": "如果请求一个将照片像素化的工具，就能生成用于调节像素块大小和所用颜色数量的滑块。把照片连接到节点并拖动滑块，结果会立即变化。把另一张照片连接到同一节点，可以直接沿用现有设置。还可以把像素化结果连接到下一个分离颜色通道的节点，依次应用两种效果。"
+              },
+              {
+                "t": "p",
+                "x": "调色、裁剪等“实时”工具在浏览器中免费运行。识别图像文字或查找物体的“云端”工具，在点击运行按钮后会调用Fuser服务器上的AI模型。运行所需的积分显示在按钮上。新建工具或用文字修改工具时也需要积分。"
+              },
+              {
+                "t": "p",
+                "x": "完成的工具会自动保存到资源库，可在下一个项目中调用，也可在团队工作区与同事共享。想添加滑块时，只需用文字输入要修改的内容。Fuser会把修改内容保存为新版本，并在可能的情况下保留原有的节点连接和参数设置。"
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "在NVIDIA Isaac Sim中用SimReady资产构建的抓取放置仿真。"
-              },
-              {
-                "t": "p",
-                "x": "社区开发者Michael Wagner用一个周末，借助Claude Code和SimReady Central资产构建了一款语音控制的VR应用。他的心得是：让智能体检查渲染图和日志，然后亲自检验体验。"
-              },
-              {
-                "t": "p",
-                "x": "Maziyar Panahi指挥Claude Code用13个SimReady医院资产搭建重症监护室；在256个病房的运行中，仿真14秒后，768个Microducks中仍有766个保持站立。NVIDIA其他团队则用Astra在Houdini中复刻OP-1合成器，在PTC Onshape中为汽车悬架建模，构建燃气轮机what-if数字孪生，并对一个仓库仿真进行压力测试——在80条传送带、40台机械臂和800个箱子的情况下仍保持每秒30帧。"
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "将像素化节点和颜色通道分离节点连接到照片上的Fuser画布"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA une agentes de código\ncon la simulación de Omniverse",
-          "body": "Los desarrolladores usan agentes de código y Omniverse para crear simulaciones e iterar diseños desde un prompt.",
-          "mini_headline": "Omniverse se une a los agentes de código",
+          "headline": "Fuser crea herramientas de\nedición con una sola frase",
+          "body": "Tool Node, de Fuser, usa AI para crear una herramienta de edición descrita en una frase y colocarla en el lienzo.",
+          "mini_headline": "Herramientas de edición a partir de frases",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Convertir una idea de simulación en una aplicación que funcione implica ensamblar recursos, conectar la física y el renderizado, y comprobar que la escena se comporta como se espera. Los desarrolladores combinan modelos de AI de frontera con bibliotecas de NVIDIA Omniverse para llevar a cabo ese trabajo: crean aplicaciones para explorar escenarios, investigar fallos y mejorar diseños. Dirigen a los agentes de AI con instrucciones en lenguaje natural, revisan los resultados y orientan los cambios."
+                "x": "Fuser presentó el 13 de noviembre (hora de Corea) ‘Tool Node’, una función que crea herramientas de edición personalizadas a partir de frases. Basta con colocar un Tool Node en el lienzo y escribir qué material debe recibir, qué debe cambiar y qué valores se quieren ajustar directamente. Fuser diseña deslizadores e interruptores según la petición, escribe y prueba la herramienta y luego la coloca en el lienzo."
               },
               {
                 "t": "p",
-                "x": "Falkor, una empresa de KONGSBERG, permite a sus clientes convertir sus datos de diseño e ingeniería asistidos por computadora en gemelos digitales a escala de instalación con el modelo GPT-6 Astra, de modo que los ingenieros puedan crear y probar planes en simulación antes de desplazarse al lugar."
+                "x": "Si se pide una herramienta para pixelar fotos, se pueden obtener deslizadores que controlan el tamaño de los bloques de píxeles y el número de colores que se usan. Al conectar una foto al nodo y mover los deslizadores, el resultado cambia al instante. Si se conecta otra foto al mismo nodo, se aplican los mismos ajustes. También se puede conectar el resultado pixelado a un nodo siguiente que separa los canales de color, para aplicar los dos efectos uno tras otro."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas ‘en vivo’, como el ajuste de color o el recorte, se ejecutan gratis en el navegador. Las herramientas ‘en la nube’, que leen texto en imágenes o detectan objetos, usan modelos de AI en los servidores de Fuser al pulsar el botón de ejecutar. Los créditos que cuesta cada ejecución aparecen en el botón. Crear una herramienta nueva o modificarla con una frase también requiere créditos."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas terminadas se guardan automáticamente en la biblioteca. Se pueden reutilizar en el siguiente proyecto o compartir con colegas en un espacio de trabajo de equipo. Para añadir un deslizador, basta con escribir el cambio en una frase. Fuser guarda la revisión como una versión nueva y, cuando es posible, conserva las conexiones de nodos y los valores existentes."
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "Una simulación de pick-and-place creada con recursos SimReady en NVIDIA Isaac Sim."
-              },
-              {
-                "t": "p",
-                "x": "El desarrollador de la comunidad Michael Wagner usó Claude Code para crear en un fin de semana una aplicación de VR controlada por voz con recursos de SimReady Central. Su conclusión: dar a los agentes renders y registros para inspeccionar y luego comprobar la experiencia directamente."
-              },
-              {
-                "t": "p",
-                "x": "Maziyar Panahi indicó a Claude Code que montara una unidad de cuidados intensivos con 13 recursos hospitalarios de SimReady; en una ejecución con 256 salas, 766 de 768 Microducks seguían en pie tras 14 segundos simulados. Otros equipos de NVIDIA usaron Astra para recrear un sintetizador OP-1 en Houdini, modelar la suspensión de un coche en PTC Onshape, construir un gemelo digital what-if de una turbina de gas y someter a una prueba de estrés una simulación de almacén que mantuvo 30 fotogramas por segundo con 80 cintas transportadoras, 40 brazos y 800 cajas."
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "Lienzo de Fuser con nodos de pixelado y de separación de canales de color conectados a una foto"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "NVIDIA, 에이전트와\nOmniverse 연계",
-          "body": "개발자는 코딩 에이전트와 Omniverse로 프롬프트만으로 시뮬레이션을 만든다.",
-          "mini_headline": "Omniverse와 코딩 에이전트",
+        "en": {
+          "headline": "Fuser builds editing tools\nfrom a single sentence",
+          "body": "Fuser's Tool Node has AI build an editing tool described in a sentence and place it on the canvas.",
+          "mini_headline": "Editing tools made from sentences",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "시뮬레이션 아이디어를 작동하는 애플리케이션으로 만들려면 에셋을 조립하고, 물리와 렌더링을 연결하고, 장면이 의도대로 움직이는지 확인해야 한다. 개발자들은 이 작업에 프런티어 AI 모델과 NVIDIA Omniverse 라이브러리를 함께 쓰며 시나리오 탐색, 실패 원인 조사, 설계 개선을 위한 애플리케이션을 만들고 있다. 자연어 지시로 AI 에이전트를 이끌고, 결과를 검토하며 수정 방향을 잡는다."
+                "x": "Fuser released ‘Tool Node’ on November 13 (Korea time), a feature that builds custom editing tools from sentences. You place a Tool Node on the canvas and write what material it should take in, what it should change, and which values you want to adjust yourself. Fuser designs sliders and switches to fit the request, writes and tests the tool, and then places it on the canvas."
               },
               {
                 "t": "p",
-                "x": "KONGSBERG 계열사 Falkor는 고객이 GPT-6 Astra 모델로 컴퓨터 지원 설계·엔지니어링 데이터를 시설 규모의 디지털 트윈으로 바꿀 수 있게 한다. 덕분에 엔지니어는 현장에 가기 전에 시뮬레이션에서 계획을 세우고 시험할 수 있다."
+                "x": "If you ask for a tool that pixelates photos, you can get sliders that control the size of the pixel blocks and the number of colors used. Connect a photo to the node and move the sliders, and the result changes instantly. Connect a different photo to the same node and the existing settings apply as they are. You can also connect the pixelated result to a next node that separates color channels, applying the two effects in sequence."
+              },
+              {
+                "t": "p",
+                "x": "‘Live’ tools such as color adjustment and cropping run free in the browser. ‘Cloud’ tools that read text in images or find objects use AI models on Fuser's servers when you press the run button. The credits each run costs are shown on the button. Creating a new tool or revising one with a sentence also requires credits."
+              },
+              {
+                "t": "p",
+                "x": "Finished tools are saved to the library automatically. You can pull them into your next project or share them with colleagues in a team workspace. To add a slider, type the change you want as a sentence. Fuser saves the revision as a new version and, where possible, keeps existing node connections and settings."
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "NVIDIA Isaac Sim에서 SimReady 에셋으로 만든 픽 앤 플레이스 시뮬레이션."
-              },
-              {
-                "t": "p",
-                "x": "커뮤니티 개발자 Michael Wagner는 주말 동안 Claude Code로 SimReady Central 에셋을 활용한 음성 제어 VR 애플리케이션을 만들었다. 그가 얻은 교훈은 에이전트에게 렌더와 로그를 살펴보게 한 뒤, 경험은 직접 확인하라는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Maziyar Panahi는 Claude Code에 SimReady 병원 에셋 13개로 중환자실을 구성하게 했다. 256개 병동 실행에서 시뮬레이션 시간 14초가 지난 뒤에도 Microducks 768개 중 766개가 서 있었다. 다른 NVIDIA 팀들은 Astra로 Houdini에서 OP-1 신시사이저를 재현하고, PTC Onshape에서 자동차 서스펜션을 모델링하고, 가스터빈 what-if 디지털 트윈을 만들고, 컨베이어 80개, 로봇 팔 40개, 상자 800개를 넣고도 초당 30프레임을 유지한 창고 시뮬레이션을 스트레스 테스트했다."
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "A Fuser canvas with pixelation and color-channel separation nodes connected to a photo"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA、エージェントと\nOmniverseを連携",
-          "body": "開発者はコーディングエージェントとOmniverseでシミュレーションを構築し設計を磨く。",
-          "mini_headline": "Omniverseとコーディングエージェント",
+          "headline": "Fuser、一文で\n編集ツールを作る",
+          "body": "FuserのTool Nodeは文章で説明した編集ツールをAIが作りキャンバスに置く。",
+          "mini_headline": "文章で作る編集ツール",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "シミュレーションのアイデアを動くアプリケーションにするには、アセットを組み立て、物理とレンダリングをつなぎ、シーンが意図どおりに振る舞うかを確かめる必要がある。開発者はこの作業にフロンティアAIモデルとNVIDIA Omniverseライブラリを組み合わせ、シナリオの探索、失敗の調査、設計の改善のためのアプリケーションを作っている。自然言語の指示でAIエージェントを動かし、結果を確認して変更を導く。"
+                "x": "Fuserは11月13日(韓国時間)、文章でカスタム編集ツールを作る「Tool Node(ツールノード)」を公開した。キャンバスにTool Nodeを置き、どんな素材を受け取って何を変えるか、どの値を自分で調整したいかを書けばよい。Fuserは要望に合わせてスライダーとスイッチを設計し、ツールを作成してテストしたうえでキャンバスに配置する。"
               },
               {
                 "t": "p",
-                "x": "KONGSBERG傘下のFalkorは、顧客がGPT-6 Astraモデルを使ってコンピューター支援設計・エンジニアリングのデータを施設規模のデジタルツインに変換できるようにしている。エンジニアは現地に出向く前に、シミュレーションで計画を作成し検証できる。"
+                "x": "写真をピクセル化するツールを頼めば、ピクセルブロックの大きさと使う色の数を調整するスライダーを作れる。写真をノードにつないでスライダーを動かすと、結果がすぐに変わる。同じノードに別の写真をつなげば、既存の設定をそのまま適用できる。ピクセル化した結果を、色チャンネルを分離する次のノードにつなぎ、二つの効果を順に適用することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "色調整や切り抜きのような「ライブ」ツールはブラウザ上で無料で動く。画像内の文字を読んだり物体を見つけたりする「クラウド」ツールは、実行ボタンを押すとFuserのサーバーでAIモデルを使う。実行にかかるクレジットはボタンに表示される。ツールを新たに作るときや文章で修正するときにもクレジットが必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "完成したツールは自動でライブラリに保存される。次のプロジェクトで呼び出したり、チームのワークスペースで同僚と共有したりできる。スライダーを追加したければ、変更内容を文章で入力すればよい。Fuserは修正版を新しいバージョンとして保存し、可能な場合は既存のノード接続と設定値を保つ。"
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "NVIDIA Isaac SimでSimReadyアセットを使って作ったピック・アンド・プレースのシミュレーション。"
-              },
-              {
-                "t": "p",
-                "x": "コミュニティ開発者のMichael Wagnerは、週末のうちにClaude Codeを使い、SimReady Centralのアセットで音声操作のVRアプリケーションを作った。彼の教訓は、エージェントにはレンダーとログを確認させ、そのうえで体験は自分で直接確かめることだという。"
-              },
-              {
-                "t": "p",
-                "x": "Maziyar PanahiはClaude Codeに指示し、13個のSimReady病院アセットから集中治療室を組み立てさせた。256病棟の実行では、シミュレーション上の14秒後も768体のMicroducksのうち766体が立っていた。NVIDIAの他のチームはAstraを使い、HoudiniでOP-1シンセサイザーを再現し、PTC Onshapeで車のサスペンションをモデリングし、ガスタービンのwhat-ifデジタルツインを構築し、コンベヤー80台、アーム40本、箱800個で毎秒30フレームを維持した倉庫シミュレーションのストレステストを行った。"
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "写真にピクセル化と色チャンネル分離のノードをつないだFuserのキャンバス"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA让编程智能体\n联手Omniverse仿真",
-          "body": "开发者将编程智能体与Omniverse库结合，凭提示词构建仿真并迭代设计。",
-          "mini_headline": "Omniverse遇上编程智能体",
+          "headline": "Fuser用一句话\n生成编辑工具",
+          "body": "Fuser的Tool Node可让AI按文字描述生成编辑工具，并放到画布上。",
+          "mini_headline": "用文字生成编辑工具",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "要把仿真构想变成可运行的应用，需要组装资产、连接物理与渲染，并检查场景是否按预期运行。开发者正将前沿AI模型与NVIDIA Omniverse库结合来完成这些工作——构建用于探索场景、排查故障和改进设计的应用。他们通过自然语言指令指挥AI智能体，审阅结果并引导修改。"
+                "x": "Fuser于11月13日（韩国时间）发布了“Tool Node”（工具节点），可用文字生成定制编辑工具。用户只需在画布上放置Tool Node，写明要接收什么素材、改变什么，以及想亲自调节哪些参数。Fuser会按需求设计滑块和开关，编写并测试工具，然后将其放到画布上。"
               },
               {
                 "t": "p",
-                "x": "KONGSBERG旗下公司Falkor让客户借助GPT-6 Astra模型，把计算机辅助设计与工程数据转化为设施级数字孪生，使工程师在前往现场之前就能在仿真中制定并测试方案。"
+                "x": "如果请求一个将照片像素化的工具，就能生成用于调节像素块大小和所用颜色数量的滑块。把照片连接到节点并拖动滑块，结果会立即变化。把另一张照片连接到同一节点，可以直接沿用现有设置。还可以把像素化结果连接到下一个分离颜色通道的节点，依次应用两种效果。"
+              },
+              {
+                "t": "p",
+                "x": "调色、裁剪等“实时”工具在浏览器中免费运行。识别图像文字或查找物体的“云端”工具，在点击运行按钮后会调用Fuser服务器上的AI模型。运行所需的积分显示在按钮上。新建工具或用文字修改工具时也需要积分。"
+              },
+              {
+                "t": "p",
+                "x": "完成的工具会自动保存到资源库，可在下一个项目中调用，也可在团队工作区与同事共享。想添加滑块时，只需用文字输入要修改的内容。Fuser会把修改内容保存为新版本，并在可能的情况下保留原有的节点连接和参数设置。"
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "在NVIDIA Isaac Sim中用SimReady资产构建的抓取放置仿真。"
-              },
-              {
-                "t": "p",
-                "x": "社区开发者Michael Wagner用一个周末，借助Claude Code和SimReady Central资产构建了一款语音控制的VR应用。他的心得是：让智能体检查渲染图和日志，然后亲自检验体验。"
-              },
-              {
-                "t": "p",
-                "x": "Maziyar Panahi指挥Claude Code用13个SimReady医院资产搭建重症监护室；在256个病房的运行中，仿真14秒后，768个Microducks中仍有766个保持站立。NVIDIA其他团队则用Astra在Houdini中复刻OP-1合成器，在PTC Onshape中为汽车悬架建模，构建燃气轮机what-if数字孪生，并对一个仓库仿真进行压力测试——在80条传送带、40台机械臂和800个箱子的情况下仍保持每秒30帧。"
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "将像素化节点和颜色通道分离节点连接到照片上的Fuser画布"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA une agentes de código\ncon la simulación de Omniverse",
-          "body": "Los desarrolladores usan agentes de código y Omniverse para crear simulaciones e iterar diseños desde un prompt.",
-          "mini_headline": "Omniverse se une a los agentes de código",
+          "headline": "Fuser crea herramientas de\nedición con una sola frase",
+          "body": "Tool Node, de Fuser, usa AI para crear una herramienta de edición descrita en una frase y colocarla en el lienzo.",
+          "mini_headline": "Herramientas de edición a partir de frases",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-ov-x-astra-1920x1080-1.mp4"
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Convertir una idea de simulación en una aplicación que funcione implica ensamblar recursos, conectar la física y el renderizado, y comprobar que la escena se comporta como se espera. Los desarrolladores combinan modelos de AI de frontera con bibliotecas de NVIDIA Omniverse para llevar a cabo ese trabajo: crean aplicaciones para explorar escenarios, investigar fallos y mejorar diseños. Dirigen a los agentes de AI con instrucciones en lenguaje natural, revisan los resultados y orientan los cambios."
+                "x": "Fuser presentó el 13 de noviembre (hora de Corea) ‘Tool Node’, una función que crea herramientas de edición personalizadas a partir de frases. Basta con colocar un Tool Node en el lienzo y escribir qué material debe recibir, qué debe cambiar y qué valores se quieren ajustar directamente. Fuser diseña deslizadores e interruptores según la petición, escribe y prueba la herramienta y luego la coloca en el lienzo."
               },
               {
                 "t": "p",
-                "x": "Falkor, una empresa de KONGSBERG, permite a sus clientes convertir sus datos de diseño e ingeniería asistidos por computadora en gemelos digitales a escala de instalación con el modelo GPT-6 Astra, de modo que los ingenieros puedan crear y probar planes en simulación antes de desplazarse al lugar."
+                "x": "Si se pide una herramienta para pixelar fotos, se pueden obtener deslizadores que controlan el tamaño de los bloques de píxeles y el número de colores que se usan. Al conectar una foto al nodo y mover los deslizadores, el resultado cambia al instante. Si se conecta otra foto al mismo nodo, se aplican los mismos ajustes. También se puede conectar el resultado pixelado a un nodo siguiente que separa los canales de color, para aplicar los dos efectos uno tras otro."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas ‘en vivo’, como el ajuste de color o el recorte, se ejecutan gratis en el navegador. Las herramientas ‘en la nube’, que leen texto en imágenes o detectan objetos, usan modelos de AI en los servidores de Fuser al pulsar el botón de ejecutar. Los créditos que cuesta cada ejecución aparecen en el botón. Crear una herramienta nueva o modificarla con una frase también requiere créditos."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas terminadas se guardan automáticamente en la biblioteca. Se pueden reutilizar en el siguiente proyecto o compartir con colegas en un espacio de trabajo de equipo. Para añadir un deslizador, basta con escribir el cambio en una frase. Fuser guarda la revisión como una versión nueva y, cuando es posible, conserva las conexiones de nodos y los valores existentes."
               },
               {
                 "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/11/figure-01-intro.gif",
-                "cap": "Una simulación de pick-and-place creada con recursos SimReady en NVIDIA Isaac Sim."
-              },
-              {
-                "t": "p",
-                "x": "El desarrollador de la comunidad Michael Wagner usó Claude Code para crear en un fin de semana una aplicación de VR controlada por voz con recursos de SimReady Central. Su conclusión: dar a los agentes renders y registros para inspeccionar y luego comprobar la experiencia directamente."
-              },
-              {
-                "t": "p",
-                "x": "Maziyar Panahi indicó a Claude Code que montara una unidad de cuidados intensivos con 13 recursos hospitalarios de SimReady; en una ejecución con 256 salas, 766 de 768 Microducks seguían en pie tras 14 segundos simulados. Otros equipos de NVIDIA usaron Astra para recrear un sintetizador OP-1 en Houdini, modelar la suspensión de un coche en PTC Onshape, construir un gemelo digital what-if de una turbina de gas y someter a una prueba de estrés una simulación de almacén que mantuvo 30 fotogramas por segundo con 80 cintas transportadoras, 40 brazos y 800 cajas."
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
+                "cap": "Lienzo de Fuser con nodos de pixelado y de separación de canales de color conectados a una foto"
               }
             ]
           }
@@ -1481,195 +1089,225 @@
       }
     },
     {
-      "id": "too-claudified-motion",
+      "id": "gestalt-design-benchmark",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 모션 작업 퇴짜,\n너무 Claudified",
-      "body": "고객은 AI-built 모션 작업을 너무 Claudified하다며 돌려보냈다.",
-      "mini_headline": "너무 Claudified",
+      "headline": "새 AI 디자인 벤치마크\nGestalt가 정상에",
+      "body": "Gestalt는 1,931 Elo로 선두, 표 78%로 Fable 5.2를 눌렀다.",
+      "mini_headline": "디자인 벤치마크 정상 Gestalt",
       "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/too-claudified-9af067298b2a",
+      "source": "Kingy AI",
+      "url": "https://kingy.ai/blog/gestalt-ai-design-benchmark/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+            "cap": "평론가 한 명이 익명의 시트러스 포트폴리오 레이아웃 두 개 중 하나에 동그라미를 친다. Gestalt와 Claude Fable 5.2의 블라인드 투표를 그린 이미지다."
+          },
+          {
             "t": "p",
-            "x": "한 고객이 내 모션 작업을 보고 기계가 만든 것 같다며 퇴짜를 놓았다. 그 진단은 내가 다섯 달 전에 이미 글로 발표한 것이었다."
+            "x": "전문 디자이너들 앞에 같은 브리프로 만든 결과물 두 개가 놓였다. 하나는 Claude Fable 5.2, 다른 하나는 Gestalt라는 스텔스 AI 모델의 작품이다. 이름을 모두 가린 일대일 투표에서 디자이너들은 78%의 확률로 Gestalt를 택했다."
+          },
+          {
+            "t": "p",
+            "x": "Gestalt는 Contra Labs와 BenchFlow가 만든 Frontier Design Benchmark에서 선두에 섰다. Kingy.ai가 2026년 11월 19일 확인한 점수는 Gestalt가 1,931 Elo로, 1,713인 Fable보다 218점 높았다. 전체에서 가장 근접한 항목은 1,739를 기록한 사람의 참고 작업이었다."
           },
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-            "cap": "Blake는 에디션을 마친 뒤 이 판을 잘라냈다. 글자가 거꾸로 읽히는 건 애초에 이 자리에서 읽으라고 만든 게 아니어서다."
+            "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+            "cap": "디자이너들은 Claude Fable 5.2와 맞붙은 투표에서 78%, 사람의 참고 디자인과 맞붙은 투표에서 28표 중 20표로 Gestalt를 골랐다."
           },
           {
             "t": "p",
-            "x": "2026년 6월 Takuma Kakehi는 에세이 한 편을 발표했다. AI-generated 디자인이 한눈에 알아볼 만한 하나의 모습으로 수렴했고, 문제는 추함이 아니라 유창함이라는 주장이었다. 수정을 거칠수록 결과물이 다른 모든 결과물을 더 닮아 간다는 것이다."
+            "x": "전문 디자이너 서른다섯 명이 다섯 라운드 동안 4,311표를 던졌다. 마켓플레이스 의뢰와 스타트업 프로젝트 여섯 건을 각색한 브리프 27개가 대상이었다. Contra 디자인 루브릭 점수는 Fable 5.2와 Claude Opus 5.5가 100점 만점에 84점, Gestalt가 83점이었다."
           },
           {
             "t": "p",
-            "x": "다섯 달 뒤 한 고객이 그에게 작업이 너무 Claudified하다고 했다. 마케팅팀의 모션 그래픽 작업이었고, 물량이 많고 반복이 빨라야 해서 After Effects 대신 AI로 만들었다. Figma에서 다듬고 하우스 스타일을 마크다운 파일에 정리해 두는 등 안전장치도 마련했다. 하지만 돌아온 반응은 그런 것과 상관이 없었다."
-          },
-          {
-            "t": "p",
-            "x": "그를 놀라게 한 건 진단 자체가 아니었다. 그 진단이 테이블 건너편에서, 디자인을 업으로 삼지 않는 사람 입에서, 단 한 단어로 나왔다는 점이었다."
+            "x": "Contra 공동 창업자 Gajus Kuizinas는 Gestalt를 Contra가 만든 게 아니라고 했고, 보고서에도 개발사는 나오지 않는다. Contra가 Gestalt의 도구·재시도·선별 과정·비용을 충분히 공개하지 않아 우승작이 몇 번 시도 끝에 나왔는지는 알 수 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A client rejects AI motion\nwork as too Claudified",
-          "body": "A client rejected AI-built motion work as too Claudified, renewing a designer's case that AI design converges.",
-          "mini_headline": "Too Claudified",
+          "headline": "Gestalt tops a new\nAI design benchmark",
+          "body": "Stealth model Gestalt led the Frontier Design Benchmark at 1,931 Elo and beat Claude Fable 5.2 in 78% of blind votes.",
+          "mini_headline": "Gestalt tops design benchmark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "A critic circles one of two anonymous citrus portfolio layouts, illustrating the blind vote between Gestalt and Claude Fable 5.2."
+              },
+              {
                 "t": "p",
-                "x": "A client rejected my motion work for looking machine-made. I’d published the diagnosis five months earlier."
+                "x": "Professional designers had two answers to the same brief in front of them, one from Claude Fable 5.2 and the other from a stealth AI model called Gestalt. With both names hidden, the designers chose Gestalt in 78% of their head-to-head votes."
+              },
+              {
+                "t": "p",
+                "x": "Gestalt took first place on the Frontier Design Benchmark from Contra Labs and BenchFlow. When Kingy.ai checked on November 19, 2026, Gestalt had 1,931 Elo, a 218-point lead over Fable at 1,713. The closest entry overall was the human reference work at 1,739."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "Blake cut this plate up after the edition was finished. The lettering reads backwards because it was never meant to be read here."
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "Designers chose Gestalt in 78% of direct votes against Claude Fable 5.2 and in 20 of 28 votes against human reference designs."
               },
               {
                 "t": "p",
-                "x": "In June 2026 Takuma Kakehi published an essay arguing that AI-generated design had converged on one recognizable look, and that the problem was fluency rather than ugliness: each revision cycle pulled the output closer to every other output."
+                "x": "Thirty-five professional designers cast 4,311 votes over five rounds across 27 briefs adapted from marketplace jobs and six startup projects. On Contra's design rubric, Fable 5.2 and Claude Opus 5.5 earned 84 out of 100; Gestalt scored 83."
               },
               {
                 "t": "p",
-                "x": "Five months later a client told him his work was too Claudified. The job was motion graphics for a marketing team, built with AI rather than in After Effects because the brief wanted volume and fast iteration. He had guardrails — tweaks in Figma, the house style written into markdown files — but none of that is what came back."
-              },
-              {
-                "t": "p",
-                "x": "What surprised him wasn’t the diagnosis but that it came from the other side of the table, in a single word, from someone who doesn’t design for a living."
+                "x": "Contra co-founder Gajus Kuizinas says Contra didn't build Gestalt, and the report leaves its maker unnamed. Contra hasn't disclosed enough about Gestalt's tools, retries, selection process or cost to say how many attempts the winning work took."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 모션 작업 퇴짜,\n너무 Claudified",
-          "body": "고객은 AI-built 모션 작업을 너무 Claudified하다며 돌려보냈다.",
-          "mini_headline": "너무 Claudified",
+          "headline": "새 AI 디자인 벤치마크\nGestalt가 정상에",
+          "body": "Gestalt는 1,931 Elo로 선두, 표 78%로 Fable 5.2를 눌렀다.",
+          "mini_headline": "디자인 벤치마크 정상 Gestalt",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "평론가 한 명이 익명의 시트러스 포트폴리오 레이아웃 두 개 중 하나에 동그라미를 친다. Gestalt와 Claude Fable 5.2의 블라인드 투표를 그린 이미지다."
+              },
+              {
                 "t": "p",
-                "x": "한 고객이 내 모션 작업을 보고 기계가 만든 것 같다며 퇴짜를 놓았다. 그 진단은 내가 다섯 달 전에 이미 글로 발표한 것이었다."
+                "x": "전문 디자이너들 앞에 같은 브리프로 만든 결과물 두 개가 놓였다. 하나는 Claude Fable 5.2, 다른 하나는 Gestalt라는 스텔스 AI 모델의 작품이다. 이름을 모두 가린 일대일 투표에서 디자이너들은 78%의 확률로 Gestalt를 택했다."
+              },
+              {
+                "t": "p",
+                "x": "Gestalt는 Contra Labs와 BenchFlow가 만든 Frontier Design Benchmark에서 선두에 섰다. Kingy.ai가 2026년 11월 19일 확인한 점수는 Gestalt가 1,931 Elo로, 1,713인 Fable보다 218점 높았다. 전체에서 가장 근접한 항목은 1,739를 기록한 사람의 참고 작업이었다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "Blake는 에디션을 마친 뒤 이 판을 잘라냈다. 글자가 거꾸로 읽히는 건 애초에 이 자리에서 읽으라고 만든 게 아니어서다."
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "디자이너들은 Claude Fable 5.2와 맞붙은 투표에서 78%, 사람의 참고 디자인과 맞붙은 투표에서 28표 중 20표로 Gestalt를 골랐다."
               },
               {
                 "t": "p",
-                "x": "2026년 6월 Takuma Kakehi는 에세이 한 편을 발표했다. AI-generated 디자인이 한눈에 알아볼 만한 하나의 모습으로 수렴했고, 문제는 추함이 아니라 유창함이라는 주장이었다. 수정을 거칠수록 결과물이 다른 모든 결과물을 더 닮아 간다는 것이다."
+                "x": "전문 디자이너 서른다섯 명이 다섯 라운드 동안 4,311표를 던졌다. 마켓플레이스 의뢰와 스타트업 프로젝트 여섯 건을 각색한 브리프 27개가 대상이었다. Contra 디자인 루브릭 점수는 Fable 5.2와 Claude Opus 5.5가 100점 만점에 84점, Gestalt가 83점이었다."
               },
               {
                 "t": "p",
-                "x": "다섯 달 뒤 한 고객이 그에게 작업이 너무 Claudified하다고 했다. 마케팅팀의 모션 그래픽 작업이었고, 물량이 많고 반복이 빨라야 해서 After Effects 대신 AI로 만들었다. Figma에서 다듬고 하우스 스타일을 마크다운 파일에 정리해 두는 등 안전장치도 마련했다. 하지만 돌아온 반응은 그런 것과 상관이 없었다."
-              },
-              {
-                "t": "p",
-                "x": "그를 놀라게 한 건 진단 자체가 아니었다. 그 진단이 테이블 건너편에서, 디자인을 업으로 삼지 않는 사람 입에서, 단 한 단어로 나왔다는 점이었다."
+                "x": "Contra 공동 창업자 Gajus Kuizinas는 Gestalt를 Contra가 만든 게 아니라고 했고, 보고서에도 개발사는 나오지 않는다. Contra가 Gestalt의 도구·재시도·선별 과정·비용을 충분히 공개하지 않아 우승작이 몇 번 시도 끝에 나왔는지는 알 수 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "顧客がAIモーションに\n「Claudifiedすぎ」",
-          "body": "顧客がAI-builtのモーションをClaudifiedすぎると却下し、収束論が再燃した。",
-          "mini_headline": "Claudifiedすぎ",
+          "headline": "新AIデザイン評価で\nGestaltが首位",
+          "body": "Gestaltは1,931 Elo、票の78%でClaude Fable 5.2を破った。",
+          "mini_headline": "Gestaltがデザイン評価で首位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "匿名の柑橘系ポートフォリオのレイアウト二つのうち一つに、批評家が丸をつける。GestaltとClaude Fable 5.2のブラインド投票を表したイメージだ。"
+              },
+              {
                 "t": "p",
-                "x": "クライアントに、私のモーション作品は機械が作ったように見えると却下された。その診断は、私が五か月前にすでに公表していたものだった。"
+                "x": "プロのデザイナーの前に、同じブリーフに対する二つの回答が並んだ。一つはClaude Fable 5.2、もう一つはGestaltというステルスAIモデルによるものだ。どちらの名前も伏せた一対一の投票で、デザイナーは78%の割合でGestaltを選んだ。"
+              },
+              {
+                "t": "p",
+                "x": "GestaltはContra LabsとBenchFlowによるFrontier Design Benchmarkで首位に立った。Kingy.aiが2026年11月19日に確認した時点で、Gestaltは1,931 Eloで、1,713のFableに218ポイントの差をつけていた。全体で最も近かったのは、1,739の人間による参照作品だった。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "Blakeはエディションを刷り終えた後、この版を切り分けた。文字が逆向きなのは、ここで読まれることを想定していなかったからだ。"
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "デザイナーは、Claude Fable 5.2との直接投票では78%で、人間の参照デザインとの投票では28票中20票でGestaltを選んだ。"
               },
               {
                 "t": "p",
-                "x": "2026年6月、Takuma Kakehiは、AI-generatedのデザインは見ればそれとわかる一つの見た目に収束しており、問題は醜さではなく流暢さにあると論じるエッセイを発表した。修正のサイクルを重ねるたびに、出力はほかのあらゆる出力に近づいていくというのだ。"
+                "x": "三十五人のプロのデザイナーが五ラウンドにわたり4,311票を投じた。対象は、マーケットプレイスの案件と六つのスタートアップ案件を翻案した27のブリーフである。Contraのデザイン評価基準では、Fable 5.2とClaude Opus 5.5が100点満点中84点、Gestaltは83点だった。"
               },
               {
                 "t": "p",
-                "x": "五か月後、あるクライアントが彼に、作品が「Claudifiedすぎる」と告げた。マーケティングチーム向けのモーショングラフィックスの仕事で、量と素早い反復が求められたため、After EffectsではなくAIで制作した。Figmaでの調整や、ハウススタイルをマークダウンファイルに書き込むといったガードレールは用意していたが、返ってきた反応はそのどれとも関係がなかった。"
-              },
-              {
-                "t": "p",
-                "x": "彼が驚いたのは診断そのものではなく、それがテーブルの向こう側から、デザインを生業としない人から、たった一語で返ってきたことだった。"
+                "x": "Contraの共同創業者Gajus Kuizinasは、ContraはGestaltを開発していないと述べ、レポートも開発元を明かしていない。ContraはGestaltのツール、再試行、選別プロセス、コストについて十分に開示しておらず、勝った作品が何回の試行で生まれたのかは分からない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "客户拒绝AI动效作品：\n“太Claudified”",
-          "body": "客户以“太Claudified”为由拒绝AI-built动效，AI设计趋同论再获关注。",
-          "mini_headline": "太Claudified",
+          "headline": "Gestalt登顶\n新AI设计基准",
+          "body": "Gestalt以1,931 Elo居首，盲投78%胜过Claude Fable 5.2。",
+          "mini_headline": "Gestalt登顶设计基准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "一位评论者在两份匿名柑橘主题作品集版式中圈出其中一份，示意Gestalt与Claude Fable 5.2之间的盲投。"
+              },
+              {
                 "t": "p",
-                "x": "一位客户以看起来像机器做的为由，拒绝了我的动效作品。而这个诊断，我早在五个月前就已发表。"
+                "x": "专业设计师面前摆着针对同一份设计简报的两份答卷，一份出自Claude Fable 5.2，另一份出自名为Gestalt的隐身AI模型。在两者名称均被隐藏的一对一投票中，设计师有78%选择了Gestalt。"
+              },
+              {
+                "t": "p",
+                "x": "Gestalt在Contra Labs与BenchFlow推出的Frontier Design Benchmark中位居榜首。Kingy.ai于2026年11月19日查看时，Gestalt为1,931 Elo，领先1,713的Fable达218分。整体最接近的是人类参考作品，为1,739。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "版画完成后，Blake把这块版切开了。上面的文字是反的，因为它本来就不是给人在这里读的。"
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "在与Claude Fable 5.2的直接投票中，设计师有78%选择了Gestalt；在与人类参考设计的投票中，28票里有20票选择了Gestalt。"
               },
               {
                 "t": "p",
-                "x": "2026年6月，Takuma Kakehi发表了一篇文章，认为AI-generated设计已经趋同为一种可辨认的面貌，而问题不在于丑，而在于流畅：每一轮修改都会让产出更接近其他所有产出。"
+                "x": "三十五名专业设计师在五轮中共投出4,311票，涉及27份由平台接单项目和六个初创项目改编的设计简报。在Contra的设计评分标准中，Fable 5.2和Claude Opus 5.5获得84分（满分100），Gestalt得83分。"
               },
               {
                 "t": "p",
-                "x": "五个月后，一位客户对他说，他的作品太Claudified了。这是为一个营销团队做的动态图形项目，由于需求是量大且迭代快，他用AI而不是After Effects来制作。他设了护栏——在Figma中微调，把品牌风格写进markdown文件——但客户的反馈与这些都无关。"
-              },
-              {
-                "t": "p",
-                "x": "让他意外的不是这个诊断本身，而是它来自桌子的另一边，出自一个并不以设计为生的人之口，而且只用了一个词。"
+                "x": "Contra联合创始人Gajus Kuizinas表示，Gestalt并非Contra开发，报告也未透露其开发方。Contra没有充分披露Gestalt的工具、重试次数、筛选流程或成本，因此无法判断获胜作品经过了多少次尝试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un cliente rechaza una animación\ncon AI: «demasiado Claudified»",
-          "body": "Al rechazar una animación AI-built por demasiado Claudified, un cliente reavivó la idea de que la AI converge.",
-          "mini_headline": "Demasiado Claudified",
+          "headline": "Gestalt encabeza un nuevo\nbenchmark de diseño con AI",
+          "body": "Gestalt lideró el Frontier Design Benchmark con 1,931 Elo y superó a Claude Fable 5.2 en el 78% de los votos a ciegas.",
+          "mini_headline": "Gestalt lidera un benchmark de diseño",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "Un crítico marca con un círculo uno de dos diseños anónimos de portafolio con temática cítrica, como ilustración de la votación a ciegas entre Gestalt y Claude Fable 5.2."
+              },
+              {
                 "t": "p",
-                "x": "Un cliente rechazó mi trabajo de animación porque parecía hecho por una máquina. Yo había publicado el diagnóstico cinco meses antes."
+                "x": "Diseñadores profesionales tenían delante dos respuestas al mismo encargo: una de Claude Fable 5.2 y otra de un modelo de AI no anunciado llamado Gestalt. Con ambos nombres ocultos, los diseñadores eligieron a Gestalt en el 78% de sus votos directos."
+              },
+              {
+                "t": "p",
+                "x": "Gestalt ocupó el primer puesto en el Frontier Design Benchmark de Contra Labs y BenchFlow. Cuando Kingy.ai lo consultó el 19 de noviembre de 2026, Gestalt tenía 1,931 Elo, 218 puntos por delante de Fable, con 1,713. La entrada más cercana en general fue el trabajo humano de referencia, con 1,739."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "Blake cortó esta plancha después de terminar la edición. Las letras se leen al revés porque nunca estuvieron pensadas para leerse aquí."
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "Los diseñadores eligieron a Gestalt en el 78% de los votos directos frente a Claude Fable 5.2 y en 20 de 28 votos frente a diseños humanos de referencia."
               },
               {
                 "t": "p",
-                "x": "En junio de 2026, Takuma Kakehi publicó un ensayo en el que sostenía que el diseño AI-generated había convergido en un aspecto único y reconocible, y que el problema no era la fealdad sino la fluidez: cada ciclo de revisión acercaba el resultado a todos los demás."
+                "x": "Treinta y cinco diseñadores profesionales emitieron 4,311 votos en cinco rondas sobre 27 encargos adaptados de trabajos de marketplace y seis proyectos de startups. Con la rúbrica de diseño de Contra, Fable 5.2 y Claude Opus 5.5 obtuvieron 84 de 100; Gestalt obtuvo 83."
               },
               {
                 "t": "p",
-                "x": "Cinco meses después, un cliente le dijo que su trabajo era demasiado Claudified. El encargo eran gráficos en movimiento para un equipo de marketing, hechos con AI en lugar de en After Effects porque el briefing pedía volumen e iteración rápida. Tenía salvaguardas —ajustes en Figma, el estilo de la casa escrito en archivos markdown—, pero nada de eso fue lo que señaló la respuesta."
-              },
-              {
-                "t": "p",
-                "x": "Lo que le sorprendió no fue el diagnóstico, sino que llegara del otro lado de la mesa, en una sola palabra, de alguien que no se dedica al diseño."
+                "x": "El cofundador de Contra, Gajus Kuizinas, afirma que Contra no creó Gestalt, y el informe no nombra a su creador. Contra no ha revelado lo suficiente sobre las herramientas, los reintentos, el proceso de selección o el costo de Gestalt como para saber cuántos intentos necesitó el trabajo ganador."
               }
             ]
           }
@@ -1677,125 +1315,437 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 모션 작업 퇴짜,\n너무 Claudified",
-          "body": "고객이 AI-built 모션을 너무 Claudified하다며 거절했다.",
-          "mini_headline": "너무 Claudified",
+          "headline": "새 AI 디자인 벤치마크\n정상에 선 Gestalt",
+          "body": "Gestalt는 1,931 Elo로 선두, 표 78%로 Fable 5.2를 꺾었다.",
+          "mini_headline": "Gestalt, 디자인 벤치마크 정상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "한 평론가가 익명의 시트러스 포트폴리오 레이아웃 두 개 중 하나에 동그라미를 친다. Gestalt와 Claude Fable 5.2의 블라인드 투표를 표현한 이미지다."
+              },
+              {
                 "t": "p",
-                "x": "한 고객이 내 모션 작업을 기계가 만든 것 같다며 거절했다. 그 진단은 내가 다섯 달 전에 이미 발표한 것이었다."
+                "x": "전문 디자이너들 앞에 같은 브리프에 대한 결과물 두 개가 놓였다. 하나는 Claude Fable 5.2가, 다른 하나는 Gestalt라는 스텔스 AI 모델이 만든 것이다. 두 이름을 모두 가린 일대일 투표에서 디자이너들은 78%의 경우 Gestalt를 골랐다."
+              },
+              {
+                "t": "p",
+                "x": "Gestalt는 Contra Labs와 BenchFlow가 만든 Frontier Design Benchmark에서 선두에 올랐다. Kingy.ai가 2026년 11월 19일 확인했을 때 Gestalt는 1,931 Elo로, 1,713인 Fable을 218점 앞섰다. 전체에서 가장 가까운 항목은 1,739를 기록한 사람의 참고 작업이었다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "Blake는 에디션을 마친 뒤 이 판을 잘라냈다. 글자가 거꾸로 읽히는 것은 애초에 여기서 읽히도록 만든 것이 아니기 때문이다."
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "디자이너들은 Claude Fable 5.2와의 직접 투표에서 78%, 사람의 참고 디자인과의 투표에서는 28표 중 20표로 Gestalt를 택했다."
               },
               {
                 "t": "p",
-                "x": "2026년 6월 Takuma Kakehi는 AI-generated 디자인이 한눈에 알아볼 수 있는 하나의 모습으로 수렴했고, 문제는 추함이 아니라 유창함이라고 주장하는 에세이를 발표했다. 수정을 거듭할 때마다 결과물이 다른 모든 결과물에 더 가까워진다는 것이다."
+                "x": "전문 디자이너 서른다섯 명이 다섯 라운드에 걸쳐 4,311표를 던졌다. 대상은 마켓플레이스 의뢰와 스타트업 프로젝트 여섯 건을 각색한 브리프 27개였다. Contra의 디자인 루브릭에서 Fable 5.2와 Claude Opus 5.5는 100점 만점에 84점, Gestalt는 83점을 받았다."
               },
               {
                 "t": "p",
-                "x": "다섯 달 뒤 한 고객이 그에게 작업이 너무 Claudified하다고 말했다. 마케팅팀을 위한 모션 그래픽 작업이었는데, 요구 사항이 많은 물량과 빠른 반복이어서 After Effects 대신 AI로 만들었다. Figma에서 손보고 하우스 스타일을 마크다운 파일에 적어 두는 등 안전장치를 마련했지만, 돌아온 반응은 그런 것과 무관했다."
-              },
-              {
-                "t": "p",
-                "x": "그를 놀라게 한 것은 진단 자체가 아니라, 그 진단이 테이블 건너편에서, 디자인을 업으로 삼지 않는 사람에게서, 단 한 단어로 나왔다는 점이었다."
+                "x": "Contra 공동 창업자 Gajus Kuizinas는 Contra가 Gestalt를 만들지 않았다고 말했고, 보고서도 개발사를 밝히지 않았다. Contra는 Gestalt의 도구, 재시도, 선별 과정, 비용을 충분히 공개하지 않아 우승작이 몇 번의 시도 끝에 나왔는지 알 수 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "顧客がAIモーションに\n「Claudifiedすぎ」",
-          "body": "顧客がAI-builtのモーションをClaudifiedすぎると却下し、収束論が再燃した。",
-          "mini_headline": "Claudifiedすぎ",
+          "headline": "新AIデザイン評価で\nGestaltが首位",
+          "body": "Gestaltは1,931 Elo、票の78%でClaude Fable 5.2を破った。",
+          "mini_headline": "Gestaltがデザイン評価で首位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "匿名の柑橘系ポートフォリオのレイアウト二つのうち一つに、批評家が丸をつける。GestaltとClaude Fable 5.2のブラインド投票を表したイメージだ。"
+              },
+              {
                 "t": "p",
-                "x": "クライアントに、私のモーション作品は機械が作ったように見えると却下された。その診断は、私が五か月前にすでに公表していたものだった。"
+                "x": "プロのデザイナーの前に、同じブリーフに対する二つの回答が並んだ。一つはClaude Fable 5.2、もう一つはGestaltというステルスAIモデルによるものだ。どちらの名前も伏せた一対一の投票で、デザイナーは78%の割合でGestaltを選んだ。"
+              },
+              {
+                "t": "p",
+                "x": "GestaltはContra LabsとBenchFlowによるFrontier Design Benchmarkで首位に立った。Kingy.aiが2026年11月19日に確認した時点で、Gestaltは1,931 Eloで、1,713のFableに218ポイントの差をつけていた。全体で最も近かったのは、1,739の人間による参照作品だった。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "Blakeはエディションを刷り終えた後、この版を切り分けた。文字が逆向きなのは、ここで読まれることを想定していなかったからだ。"
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "デザイナーは、Claude Fable 5.2との直接投票では78%で、人間の参照デザインとの投票では28票中20票でGestaltを選んだ。"
               },
               {
                 "t": "p",
-                "x": "2026年6月、Takuma Kakehiは、AI-generatedのデザインは見ればそれとわかる一つの見た目に収束しており、問題は醜さではなく流暢さにあると論じるエッセイを発表した。修正のサイクルを重ねるたびに、出力はほかのあらゆる出力に近づいていくというのだ。"
+                "x": "三十五人のプロのデザイナーが五ラウンドにわたり4,311票を投じた。対象は、マーケットプレイスの案件と六つのスタートアップ案件を翻案した27のブリーフである。Contraのデザイン評価基準では、Fable 5.2とClaude Opus 5.5が100点満点中84点、Gestaltは83点だった。"
               },
               {
                 "t": "p",
-                "x": "五か月後、あるクライアントが彼に、作品が「Claudifiedすぎる」と告げた。マーケティングチーム向けのモーショングラフィックスの仕事で、量と素早い反復が求められたため、After EffectsではなくAIで制作した。Figmaでの調整や、ハウススタイルをマークダウンファイルに書き込むといったガードレールは用意していたが、返ってきた反応はそのどれとも関係がなかった。"
-              },
-              {
-                "t": "p",
-                "x": "彼が驚いたのは診断そのものではなく、それがテーブルの向こう側から、デザインを生業としない人から、たった一語で返ってきたことだった。"
+                "x": "Contraの共同創業者Gajus Kuizinasは、ContraはGestaltを開発していないと述べ、レポートも開発元を明かしていない。ContraはGestaltのツール、再試行、選別プロセス、コストについて十分に開示しておらず、勝った作品が何回の試行で生まれたのかは分からない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "客户拒绝AI动效作品：\n“太Claudified”",
-          "body": "客户以“太Claudified”为由拒绝AI-built动效，AI设计趋同论再获关注。",
-          "mini_headline": "太Claudified",
+          "headline": "Gestalt登顶\n新AI设计基准",
+          "body": "Gestalt以1,931 Elo居首，盲投78%胜过Claude Fable 5.2。",
+          "mini_headline": "Gestalt登顶设计基准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "一位评论者在两份匿名柑橘主题作品集版式中圈出其中一份，示意Gestalt与Claude Fable 5.2之间的盲投。"
+              },
+              {
                 "t": "p",
-                "x": "一位客户以看起来像机器做的为由，拒绝了我的动效作品。而这个诊断，我早在五个月前就已发表。"
+                "x": "专业设计师面前摆着针对同一份设计简报的两份答卷，一份出自Claude Fable 5.2，另一份出自名为Gestalt的隐身AI模型。在两者名称均被隐藏的一对一投票中，设计师有78%选择了Gestalt。"
+              },
+              {
+                "t": "p",
+                "x": "Gestalt在Contra Labs与BenchFlow推出的Frontier Design Benchmark中位居榜首。Kingy.ai于2026年11月19日查看时，Gestalt为1,931 Elo，领先1,713的Fable达218分。整体最接近的是人类参考作品，为1,739。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "版画完成后，Blake把这块版切开了。上面的文字是反的，因为它本来就不是给人在这里读的。"
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "在与Claude Fable 5.2的直接投票中，设计师有78%选择了Gestalt；在与人类参考设计的投票中，28票里有20票选择了Gestalt。"
               },
               {
                 "t": "p",
-                "x": "2026年6月，Takuma Kakehi发表了一篇文章，认为AI-generated设计已经趋同为一种可辨认的面貌，而问题不在于丑，而在于流畅：每一轮修改都会让产出更接近其他所有产出。"
+                "x": "三十五名专业设计师在五轮中共投出4,311票，涉及27份由平台接单项目和六个初创项目改编的设计简报。在Contra的设计评分标准中，Fable 5.2和Claude Opus 5.5获得84分（满分100），Gestalt得83分。"
               },
               {
                 "t": "p",
-                "x": "五个月后，一位客户对他说，他的作品太Claudified了。这是为一个营销团队做的动态图形项目，由于需求是量大且迭代快，他用AI而不是After Effects来制作。他设了护栏——在Figma中微调，把品牌风格写进markdown文件——但客户的反馈与这些都无关。"
-              },
-              {
-                "t": "p",
-                "x": "让他意外的不是这个诊断本身，而是它来自桌子的另一边，出自一个并不以设计为生的人之口，而且只用了一个词。"
+                "x": "Contra联合创始人Gajus Kuizinas表示，Gestalt并非Contra开发，报告也未透露其开发方。Contra没有充分披露Gestalt的工具、重试次数、筛选流程或成本，因此无法判断获胜作品经过了多少次尝试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un cliente rechaza una animación\ncon AI: «demasiado Claudified»",
-          "body": "Al rechazar una animación AI-built por demasiado Claudified, un cliente reavivó la idea de que la AI converge.",
-          "mini_headline": "Demasiado Claudified",
+          "headline": "Gestalt encabeza un nuevo\nbenchmark de diseño con AI",
+          "body": "Gestalt lideró el Frontier Design Benchmark con 1,931 Elo y superó a Claude Fable 5.2 en el 78% de los votos a ciegas.",
+          "mini_headline": "Gestalt lidera un benchmark de diseño",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
+                "cap": "Un crítico marca con un círculo uno de dos diseños anónimos de portafolio con temática cítrica, como ilustración de la votación a ciegas entre Gestalt y Claude Fable 5.2."
+              },
+              {
                 "t": "p",
-                "x": "Un cliente rechazó mi trabajo de animación porque parecía hecho por una máquina. Yo había publicado el diagnóstico cinco meses antes."
+                "x": "Diseñadores profesionales tenían delante dos respuestas al mismo encargo: una de Claude Fable 5.2 y otra de un modelo de AI no anunciado llamado Gestalt. Con ambos nombres ocultos, los diseñadores eligieron a Gestalt en el 78% de sus votos directos."
+              },
+              {
+                "t": "p",
+                "x": "Gestalt ocupó el primer puesto en el Frontier Design Benchmark de Contra Labs y BenchFlow. Cuando Kingy.ai lo consultó el 19 de noviembre de 2026, Gestalt tenía 1,931 Elo, 218 puntos por delante de Fable, con 1,713. La entrada más cercana en general fue el trabajo humano de referencia, con 1,739."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:600/0*k5uI3X8C4vFS2_ZB.jpg",
-                "cap": "Blake cortó esta plancha después de terminar la edición. Las letras se leen al revés porque nunca estuvieron pensadas para leerse aquí."
+                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
+                "cap": "Los diseñadores eligieron a Gestalt en el 78% de los votos directos frente a Claude Fable 5.2 y en 20 de 28 votos frente a diseños humanos de referencia."
               },
               {
                 "t": "p",
-                "x": "En junio de 2026, Takuma Kakehi publicó un ensayo en el que sostenía que el diseño AI-generated había convergido en un aspecto único y reconocible, y que el problema no era la fealdad sino la fluidez: cada ciclo de revisión acercaba el resultado a todos los demás."
+                "x": "Treinta y cinco diseñadores profesionales emitieron 4,311 votos en cinco rondas sobre 27 encargos adaptados de trabajos de marketplace y seis proyectos de startups. Con la rúbrica de diseño de Contra, Fable 5.2 y Claude Opus 5.5 obtuvieron 84 de 100; Gestalt obtuvo 83."
               },
               {
                 "t": "p",
-                "x": "Cinco meses después, un cliente le dijo que su trabajo era demasiado Claudified. El encargo eran gráficos en movimiento para un equipo de marketing, hechos con AI en lugar de en After Effects porque el briefing pedía volumen e iteración rápida. Tenía salvaguardas —ajustes en Figma, el estilo de la casa escrito en archivos markdown—, pero nada de eso fue lo que señaló la respuesta."
+                "x": "El cofundador de Contra, Gajus Kuizinas, afirma que Contra no creó Gestalt, y el informe no nombra a su creador. Contra no ha revelado lo suficiente sobre las herramientas, los reintentos, el proceso de selección o el costo de Gestalt como para saber cuántos intentos necesitó el trabajo ganador."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "uxcollective-sparkle-audit",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "반짝이 아이콘으로\nAI 목업 검수하기",
+      "body": "AI 반짝이로 PM의 AI-generated 목업을 빨리 검수하자는 제안이다.",
+      "mini_headline": "반짝이로 AI 목업 검수",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+            "cap": "Google 이미지에서 “sparkle AI icon”을 검색한 결과."
+          },
+          {
+            "t": "p",
+            "x": "PM의 AI-generated 목업을 몇 시간씩 붙잡지 않고 해독하는 방법이다. 반짝이 버튼은 금세 보편적인 디자인 패턴이 됐다. 지금 우리 작업에서는 훨씬 더 폭넓게 쓸 수 있다. 이 아이콘은 십여 년 넘게 사실상 “이 부분은 기계가 대신 해줬다”는 뜻이었다. mid-2010s 이후 그 흐름을 이끈 건 Google이다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+            "cap": "Google 반짝이 버튼의 역사(2020년~2026년)"
+          },
+          {
+            "t": "p",
+            "x": "AI-generated 콘텐츠를 어떻게 보든 쓸모 있는 일이 하나 있다. AI가 어디에 있는지 알려준다는 것이다. 핸드오프에서 이게 필요한 디자이너는 더 많다. PM(또는 임원)이 프롬프트 몇 번으로 만든 목업을 넘겨받지만 어디가 결정이고 어디를 AI가 채웠는지 보여주는 단서는 몇 개 없다. AI-generated 부분을 강조할 수 있다면 무엇을 따지고 무엇을 남길지 정확히 알 수 있다. 그러지 못하면 PM은 두 시간을 아꼈을지 몰라도 당신은 그 목업을 해독하느라 다섯 시간을 쓴다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Sparkles as a marker for\nauditing AI mockups",
+          "body": "The piece proposes using the familiar AI sparkle as a marker to audit a PM's AI-generated mockup without losing hours.",
+          "mini_headline": "Sparkles for AI mockup audits",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "A Google Image search for “sparkle AI icon.”"
               },
               {
                 "t": "p",
-                "x": "Lo que le sorprendió no fue el diagnóstico, sino que llegara del otro lado de la mesa, en una sola palabra, de alguien que no se dedica al diseño."
+                "x": "How to decipher your PM’s AI-generated mockup without losing hours. The sparkle button quickly became a universal design pattern. And we could use it a lot more in our work today. For over a decade, the icon has essentially meant “the machine did this part for you,” with Google leading the charge since the mid-2010s."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "Google’s history of the sparkle button, 2020 to 2026"
+              },
+              {
+                "t": "p",
+                "x": "However you feel about AI-generated content, it does one useful job: it tells you where the AI is. More designers need that in handoffs: you’re handed a mockup a PM (or executive) generated in a few prompts, but only a few hints show which parts were decisions and which the AI filled in. If you could highlight the AI-generated parts, you’d know exactly what to question and what to keep. Instead, your PM might have saved two hours, but you’ll spend five trying to decipher the mockup."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "반짝이 아이콘으로\nAI 목업 검수하기",
+          "body": "AI 반짝이로 PM의 AI-generated 목업을 빨리 검수하자는 제안이다.",
+          "mini_headline": "반짝이로 AI 목업 검수",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "Google 이미지에서 “sparkle AI icon”을 검색한 결과."
+              },
+              {
+                "t": "p",
+                "x": "PM의 AI-generated 목업을 몇 시간씩 붙잡지 않고 해독하는 방법이다. 반짝이 버튼은 금세 보편적인 디자인 패턴이 됐다. 지금 우리 작업에서는 훨씬 더 폭넓게 쓸 수 있다. 이 아이콘은 십여 년 넘게 사실상 “이 부분은 기계가 대신 해줬다”는 뜻이었다. mid-2010s 이후 그 흐름을 이끈 건 Google이다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "Google 반짝이 버튼의 역사(2020년~2026년)"
+              },
+              {
+                "t": "p",
+                "x": "AI-generated 콘텐츠를 어떻게 보든 쓸모 있는 일이 하나 있다. AI가 어디에 있는지 알려준다는 것이다. 핸드오프에서 이게 필요한 디자이너는 더 많다. PM(또는 임원)이 프롬프트 몇 번으로 만든 목업을 넘겨받지만 어디가 결정이고 어디를 AI가 채웠는지 보여주는 단서는 몇 개 없다. AI-generated 부분을 강조할 수 있다면 무엇을 따지고 무엇을 남길지 정확히 알 수 있다. 그러지 못하면 PM은 두 시간을 아꼈을지 몰라도 당신은 그 목업을 해독하느라 다섯 시간을 쓴다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIモックアップ監査の\n目印にスパークルを",
+          "body": "AIスパークルを目印に、PMのAI-generatedモックを手早く点検する提案だ。",
+          "mini_headline": "AIモック監査にスパークルを",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "Google画像で「sparkle AI icon」を検索した結果。"
+              },
+              {
+                "t": "p",
+                "x": "PMのAI-generatedモックアップを、何時間も費やさずに読み解く方法である。スパークルボタンはあっという間に普遍的なデザインパターンになった。そして今日の仕事で、もっと活用できるはずだ。十年以上にわたり、このアイコンは事実上「この部分は機械がやってくれた」を意味してきた。その流れを mid-2010s から主導してきたのがGoogleだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "Googleにおけるスパークルボタンの歴史、2020年から2026年まで"
+              },
+              {
+                "t": "p",
+                "x": "AI-generatedコンテンツをどう思うにせよ、それは一つ役に立つ仕事をする。AIがどこにあるかを教えてくれるのだ。ハンドオフでそれを必要とするデザイナーは多い。PM(あるいは経営陣)がいくつかのプロンプトで生成したモックアップを渡されても、どこが判断の結果で、どこをAIが埋めたのかを示す手がかりはわずかしかない。AI-generatedの部分を強調できれば、何を問い、何を残すべきかが正確にわかる。そうでなければ、PMは二時間を節約したかもしれないが、あなたはそのモックアップを読み解くのに五時間を費やすことになる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用AI闪光图标\n审查AI生成的样稿",
+          "body": "文章建议以常见的AI闪光图标为标记，快速审查PM的AI-generated样稿。",
+          "mini_headline": "用闪光图标审查AI样稿",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "在Google图片中搜索“sparkle AI icon”的结果。"
+              },
+              {
+                "t": "p",
+                "x": "如何在不耗费数小时的情况下读懂PM的AI-generated样稿。闪光按钮很快成为一种通用的设计模式，而我们如今的工作还可以更多地利用它。十多年来，这个图标基本上意味着“这部分由机器替你完成”，而Google自 mid-2010s 起一直引领这一潮流。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "Google闪光按钮的历史，2020年至2026年"
+              },
+              {
+                "t": "p",
+                "x": "无论你如何看待AI-generated内容，它都做了一件有用的事：告诉你AI在哪里。更多设计师在交接时需要这一点：你拿到一份PM(或高管)用几条提示词生成的样稿，却只有少数线索能说明哪些部分是决策，哪些是AI填充的。如果能把AI-generated的部分标出来，你就能确切知道该质疑什么、保留什么。否则，你的PM也许省下了两个小时，你却要花五个小时去读懂这份样稿。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El destello de AI como marca\npara auditar maquetas con AI",
+          "body": "El texto propone usar el destello de AI como marca para auditar sin perder horas la maqueta AI-generated de un PM.",
+          "mini_headline": "Destellos para auditar maquetas de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "Una búsqueda en Google Imágenes de “sparkle AI icon”."
+              },
+              {
+                "t": "p",
+                "x": "Cómo descifrar la maqueta AI-generated de tu PM sin perder horas. El botón del destello se convirtió rápidamente en un patrón de diseño universal. Y hoy podríamos usarlo mucho más en nuestro trabajo. Durante más de una década, el icono ha significado en esencia “la máquina hizo esta parte por ti”, con Google a la cabeza desde mid-2010s."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "La historia del botón del destello en Google, de 2020 a 2026"
+              },
+              {
+                "t": "p",
+                "x": "Opines lo que opines del contenido AI-generated, cumple una función útil: te dice dónde está la AI. Más diseñadores necesitan eso en los traspasos: recibes una maqueta que un PM (o un directivo) generó con unos pocos prompts, pero solo unas pocas pistas muestran qué partes fueron decisiones y cuáles rellenó la AI. Si pudieras resaltar las partes AI-generated, sabrías exactamente qué cuestionar y qué conservar. En cambio, tu PM quizá se ahorró dos horas, pero tú pasarás cinco intentando descifrar la maqueta."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 목업 검수의\n표식이 된 반짝이",
+          "body": "AI 반짝이로 PM의 AI-generated 목업을 빠르게 검수하자는 제안이다.",
+          "mini_headline": "AI 목업 검수용 반짝이 표식",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "Google 이미지에서 “sparkle AI icon”을 검색한 결과."
+              },
+              {
+                "t": "p",
+                "x": "PM의 AI-generated 목업을 몇 시간씩 허비하지 않고 해독하는 방법이다. 반짝이 버튼은 빠르게 보편적인 디자인 패턴이 됐다. 그리고 오늘날 우리 작업에서 훨씬 더 많이 활용할 수 있다. 십여 년 넘게 이 아이콘은 사실상 “이 부분은 기계가 대신 해줬다”는 뜻이었고, mid-2010s 이후 Google이 그 흐름을 이끌었다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "Google 반짝이 버튼의 역사, 2020년부터 2026년까지"
+              },
+              {
+                "t": "p",
+                "x": "AI-generated 콘텐츠를 어떻게 보든, 그것은 한 가지 쓸모 있는 일을 한다. AI가 어디에 있는지 알려준다는 점이다. 핸드오프에서 이것이 필요한 디자이너는 더 많다. PM(또는 임원)이 프롬프트 몇 번으로 만든 목업을 넘겨받지만, 어느 부분이 결정이고 어느 부분을 AI가 채웠는지 보여주는 단서는 몇 개뿐이다. AI-generated 부분을 강조할 수 있다면 무엇을 따지고 무엇을 남길지 정확히 알 수 있다. 그렇지 않으면 PM은 두 시간을 아꼈을지 몰라도, 당신은 그 목업을 해독하느라 다섯 시간을 쓰게 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIモックアップ監査の\n目印にスパークルを",
+          "body": "AIスパークルを目印に、PMのAI-generatedモックを手早く点検する提案だ。",
+          "mini_headline": "AIモック監査にスパークルを",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "Google画像で「sparkle AI icon」を検索した結果。"
+              },
+              {
+                "t": "p",
+                "x": "PMのAI-generatedモックアップを、何時間も費やさずに読み解く方法である。スパークルボタンはあっという間に普遍的なデザインパターンになった。そして今日の仕事で、もっと活用できるはずだ。十年以上にわたり、このアイコンは事実上「この部分は機械がやってくれた」を意味してきた。その流れを mid-2010s から主導してきたのがGoogleだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "Googleにおけるスパークルボタンの歴史、2020年から2026年まで"
+              },
+              {
+                "t": "p",
+                "x": "AI-generatedコンテンツをどう思うにせよ、それは一つ役に立つ仕事をする。AIがどこにあるかを教えてくれるのだ。ハンドオフでそれを必要とするデザイナーは多い。PM(あるいは経営陣)がいくつかのプロンプトで生成したモックアップを渡されても、どこが判断の結果で、どこをAIが埋めたのかを示す手がかりはわずかしかない。AI-generatedの部分を強調できれば、何を問い、何を残すべきかが正確にわかる。そうでなければ、PMは二時間を節約したかもしれないが、あなたはそのモックアップを読み解くのに五時間を費やすことになる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用AI闪光图标\n审查AI生成的样稿",
+          "body": "文章建议以常见的AI闪光图标为标记，快速审查PM的AI-generated样稿。",
+          "mini_headline": "用闪光图标审查AI样稿",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "在Google图片中搜索“sparkle AI icon”的结果。"
+              },
+              {
+                "t": "p",
+                "x": "如何在不耗费数小时的情况下读懂PM的AI-generated样稿。闪光按钮很快成为一种通用的设计模式，而我们如今的工作还可以更多地利用它。十多年来，这个图标基本上意味着“这部分由机器替你完成”，而Google自 mid-2010s 起一直引领这一潮流。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "Google闪光按钮的历史，2020年至2026年"
+              },
+              {
+                "t": "p",
+                "x": "无论你如何看待AI-generated内容，它都做了一件有用的事：告诉你AI在哪里。更多设计师在交接时需要这一点：你拿到一份PM(或高管)用几条提示词生成的样稿，却只有少数线索能说明哪些部分是决策，哪些是AI填充的。如果能把AI-generated的部分标出来，你就能确切知道该质疑什么、保留什么。否则，你的PM也许省下了两个小时，你却要花五个小时去读懂这份样稿。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El destello de AI como marca\npara auditar maquetas con AI",
+          "body": "El texto propone usar el destello de AI como marca para auditar sin perder horas la maqueta AI-generated de un PM.",
+          "mini_headline": "Destellos para auditar maquetas de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
+                "cap": "Una búsqueda en Google Imágenes de “sparkle AI icon”."
+              },
+              {
+                "t": "p",
+                "x": "Cómo descifrar la maqueta AI-generated de tu PM sin perder horas. El botón del destello se convirtió rápidamente en un patrón de diseño universal. Y hoy podríamos usarlo mucho más en nuestro trabajo. Durante más de una década, el icono ha significado en esencia “la máquina hizo esta parte por ti”, con Google a la cabeza desde mid-2010s."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
+                "cap": "La historia del botón del destello en Google, de 2020 a 2026"
+              },
+              {
+                "t": "p",
+                "x": "Opines lo que opines del contenido AI-generated, cumple una función útil: te dice dónde está la AI. Más diseñadores necesitan eso en los traspasos: recibes una maqueta que un PM (o un directivo) generó con unos pocos prompts, pero solo unas pocas pistas muestran qué partes fueron decisiones y cuáles rellenó la AI. Si pudieras resaltar las partes AI-generated, sabrías exactamente qué cuestionar y qué conservar. En cambio, tu PM quizá se ahorró dos horas, pero tú pasarás cinco intentando descifrar la maqueta."
               }
             ]
           }

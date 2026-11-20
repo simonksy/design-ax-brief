@@ -1,32 +1,7 @@
-{
-  "date": "2026-11-20",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "coca-cola-enjoy-joy-liveaction",
-      "type": "video",
-      "src": "pipeline/media/coca-cola-enjoy-joy-liveaction.mp4",
-      "poster": "pipeline/media/coca-cola-enjoy-joy-liveaction.jpg"
-    },
-    {
-      "id": "kca-ai-fake-doctor-ads",
-      "type": "image",
-      "src": "pipeline/media/kca-ai-fake-doctor-ads.jpg"
-    },
-    {
-      "id": "inmobi-accelerate-agents",
-      "type": "image",
-      "src": "pipeline/media/inmobi-accelerate-agents.jpg"
-    },
-    {
-      "id": "hubspot-agent-crm-pricing",
-      "type": "image",
-      "src": "pipeline/media/hubspot-agent-crm-pricing.jpg"
-    },
-    {
-      "id": "target-ask-target-sales",
-      "type": "image",
-      "src": "pipeline/media/target-ask-target-sales.jpg"
-    }
-  ]
-}
+{"date":"2026-11-21","section":"marketing","media":[
+{"id":"marketing-google-chatgpt-coupons","type":"image","src":"pipeline/media/marketing-google-chatgpt-coupons.jpg"},
+{"id":"marketing-bing-made-with-ai-label","type":"image","src":"pipeline/media/marketing-bing-made-with-ai-label.jpg"},
+{"id":"romperjack-model-ai-ad-lawsuit","type":"image","src":"pipeline/media/romperjack-model-ai-ad-lawsuit.jpg"},
+{"id":"loblaw-meta-muse-grocery","type":"image","src":"pipeline/media/loblaw-meta-muse-grocery.jpg"},
+{"id":"cafe24-ai-referral-orders","type":"image","src":"pipeline/media/cafe24-ai-referral-orders.png"}
+]}

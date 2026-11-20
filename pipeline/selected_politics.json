@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "politics",
   "picks": [
     {
-      "title": "Jacobs, Maloy, Beyer Release Outline For Sweeping, Bipartisan AI Safety Legislation",
-      "url": "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation",
-      "source": "Office of Rep. Sara Jacobs (U.S. House)",
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "source": "The Guardian",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Primary document: bipartisan SAFE AI Act outline would mandate safety frameworks, incident reporting and transparency for frontier labs, which is a new federal bill on the policy axis.",
-      "published_iso": "2026-11-19",
-      "og_image": "https://sarajacobs.house.gov/themes/jacobs/images/sharelogo.jpg?1",
-      "excerpt": "Reps. Jacobs (D-CA), Maloy (R-UT) and Beyer (D-VA) released an outline of the bipartisan SAFE AI Act, forthcoming legislation that would mandate safety frameworks, incident reporting and transparency from frontier AI labs under federal oversight."
+      "rationale": "Geopolitics axis, new formal action: California's attorney general opened an investigation and subpoenaed Nvidia over possible AI-chip diversion to China and investor disclosures. This is the first state-level enforcement step in the Megaspeed story.",
+      "published_iso": "2026-11-20T09:18:30Z",
+      "og_image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd",
+      "excerpt": "California's attorney general has opened an investigation and subpoenaed Nvidia over whether its AI chips were diverted to China and whether the company misled investors, saying the Megaspeed scandal 'raises bright red flags'."
     },
     {
-      "title": "Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure.",
-      "url": "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure",
-      "source": "The Verge",
+      "title": "베선트 \"미중 정상, AI 군사 결정에 인간 개입 합의\"",
+      "url": "https://www.yna.co.kr/view/AKR20261121004500072",
+      "source": "연합뉴스",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Geopolitics axis: newly released Commerce Department license data (via House Foreign Affairs Chair Mast) quantifies approved AI-chip sales to China, ahead of Jensen Huang's testimony.",
-      "published_iso": "2026-11-19T21:19:44+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-      "excerpt": "House Foreign Affairs Chair Brian Mast released Commerce Department license data showing more than 879,000 advanced AI chips approved for sale to Chinese companies (of ~3.4M requested), ahead of Jensen Huang's testimony; Ranking Member Meeks says licenses were approved with little scrutiny."
+      "rationale": "Geopolitics axis: per Treasury Secretary Bessent, the US and Chinese leaders agreed to keep humans in the loop on all AI-driven military decisions. That is a reported summit outcome, not the pre-summit preview published on 11-12. No signed text has been released, so the claim is attributed to Bessent.",
+      "published_iso": "2026-11-21T02:38:11+09:00",
+      "og_image": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
+      "excerpt": "스콧 베선트 미 재무장관이 CNBC 인터뷰에서 트럼프 대통령과 시진핑 주석이 AI를 활용한 모든 군사적 결정에 항상 인간이 개입해야 하며 주요 군사작전에서 자율 작동을 허용하지 않기로 합의했다고 밝혔다. 서명된 공동성명 텍스트는 아직 없음."
     },
     {
-      "title": "Governor Newsom's nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight",
-      "url": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/",
-      "source": "Office of the Governor of California",
+      "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
+      "source": "Federal Register (ACUS)",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "State-level primary release: recommendations for mandatory frontier-AI standards, independent oversight and emergency shutdown authority on top of SB 53.",
-      "published_iso": "2026-11-18T16:16:05+00:00",
-      "og_image": "https://www.gov.ca.gov/wp-content/uploads/2026/11/Governor-Newsoms-nation-leading-AI-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight-SEO-GFX-v2.png",
-      "excerpt": "California released expert recommendations for mandatory frontier-AI safety standards, independent oversight, emergency shutdown ('kill switch') authority for dangerous systems and limits on self-improving AI, as next steps on top of SB 53."
+      "rationale": "Policy axis, primary document: ACUS is seeking public comment on rules for generative AI use by federal adjudicators, staff and parties, and the input will shape a government-wide best-practice recommendation that people can respond to now.",
+      "published_iso": "2026-11-19T00:00:00-05:00",
+      "og_image": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
+      "excerpt": "The Administrative Conference of the United States requests public comment on policies for use of generative AI by agency adjudicators, staff, parties and representatives in federal agency adjudications; responses feed an ACUS best-practice recommendation."
     },
     {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "source": "Ars Technica",
+      "title": "2026 Elections: Taiwan tells Meta of China accounts to influence polls",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
+      "source": "Taipei Times",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Liability litigation: a new lawsuit over a public-sector AI surveillance deployment, alleging that more than 99% of the system's alerts were false positives.",
-      "published_iso": "2026-11-19T20:19:28+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-      "excerpt": "Four Baltimore County students sued their school system and police after an AI gun-detection system flagged a Doritos bag as a weapon; the suit alleges over 99% of the system's alerts were false positives."
+      "rationale": "Elections axis: ahead of the Nov. 28 local elections, Taiwan's government formally flagged about 2,700 Threads accounts to Meta as a suspected Chinese influence campaign that spread more than 2,150 AI-generated videos. It is a new government-to-platform action, separate from the 11-13 police deepfake tally.",
+      "published_iso": "2026-11-21T00:00:00+08:00",
+      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
+      "excerpt": "Taiwan flagged nearly 2,700 Threads accounts to Meta as a suspected Chinese influence campaign before the Nov. 28 local elections; internal reports say ~260 accounts spread 2,150+ AI-generated videos with 2.35M interactions. Meta says many were already disabled."
     },
     {
-      "title": "Don't buy smart glasses, Dutch data watchdog advises",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
-      "source": "BBC News",
+      "title": "Artificial intelligence (AI) in social care",
+      "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
+      "source": "GOV.UK",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Regulator action in Europe: the Dutch DPA formally advises consumers against AI smart glasses, citing safety failures in tests and privacy risks to bystanders.",
-      "published_iso": "2026-11-19T16:33:17.386Z",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
-      "excerpt": "The Dutch data protection authority (Autoriteit Persoonsgegevens) advised consumers not to buy AI smart glasses, citing tests where devices misread medicine instructions or pretended to call an ambulance, plus privacy risks to bystanders."
+      "rationale": "Policy axis, primary document: the UK government published non-statutory guidance for using AI in children's and adults' social care in England, which directly affects vendors and providers building AI tools for the sector.",
+      "published_iso": "2026-11-20T10:00:01+00:00",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "excerpt": "UK government publishes non-statutory guidance on the use of artificial intelligence in children's and adults' social care in England."
     }
   ],
   "dedup": {
     "checks": {
-      "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation": {
-        "verdict": "new",
-        "nearest": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
-        "new_action": ""
+      "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china": {
+        "verdict": "follow-up",
+        "nearest": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
+        "new_action": "California Attorney General opened a state investigation and issued a subpoena to Nvidia (new enforcement action by a new authority)."
       },
-      "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-        "new_action": ""
+      "https://www.yna.co.kr/view/AKR20261121004500072": {
+        "verdict": "follow-up",
+        "nearest": "https://www.yna.co.kr/view/AKR20261111129300009",
+        "new_action": "Treasury Secretary Bessent announced the summit outcome: US-China leaders agreed to human control over AI military decisions (11-12 card was only a pre-summit preview)."
       },
-      "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/": {
-        "verdict": "new",
-        "nearest": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
-        "new_action": ""
-      },
-      "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/": {
+      "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o": {
+      "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133": {
+        "verdict": "new",
+        "nearest": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867622",
+        "new_action": ""
+      },
+      "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped: the Guardian Australia music-industry AI copyright item, which the brief assigned to music. Korean 수능 AI-cheating cluster: the 與 10-year-ban bill (yna AKR20261118177800001) repeats the 11-18 etnews 20261117000355 10-year restriction; the 전자신문 98-cases tally (etnews 20261119000454) is extra reporting on a running story (history_match 11-08). The 윤재옥 'AI커닝 퇴출법' (yna AKR20261119121900001) is a genuinely new filing, but I skipped it because the section ran this cluster six times in 13 days (11-08/10/16/17/18 plus the UK letter on 11-19). It is the first fallback if a pick is swapped out. Treated as running-story reactions or analysis, not new actions: TSMC tightens curbs (Taipei Times, sources-based, related to 11-16/11-17 export-rule cards), Dutch resist MATCH Act (POLITICO Europe, reaction to the 11-16 Congress export bill), Singapore PM on chip checks (reaction to the 11-13 SE Asia rule), The Decoder double-hit (analysis), Verge Philippines/Pax Silica (analysis). Also dropped: the 李 APEC AI-center remarks (a speech, no new action) and the 개보위-Japan meeting (weak). Strong reserves, all fresh: Alberta Bill 42 data-centre siting, NY AG ASSET unit, ACUS Federal Register RFC, Nextgov cyber/AI review board bill. Cross-section: every pick except gov.ca.gov was published after the 11-19 07:00 KST run, so none can be in published_urls; gov.ca.gov is politics-only and not in the politics history. Outlets: 5 distinct."
+    "note": "Dropped: Taipei Times 'Probe opened over Nvidia influence' (House letter to Lutnick). The brief allows at most one card from the Nvidia/Megaspeed pair, and the California AG subpoena is the stronger formal action. Not picked on scope/strength: Trump 'tremendous tax' on foreign AI data centers (an off-hand statement, no order, not yet run by staff), the EC AI-assisted cyberattack (incident, no policy action), China AI agents 0-day (vendor threat report, not government), and Senate Democrats' nudify-app letters to Apple/Google (oldest item, 11-18; first fallback if a pick is swapped, followed by the Trump data-center statement). No candidate URL matched the politics history_digest. All picks were published 11-19 or later, after the previous run. I could not exact-grep published_urls.json across sections from this agent (Read-only tools), so the orchestrator should run that check before roll. Outlets: 5 distinct (Guardian, Yonhap, Federal Register, Taipei Times, GOV.UK)."
   }
 }

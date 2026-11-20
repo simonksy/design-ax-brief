@@ -12626,6 +12626,147 @@
           "x": "業界関係者は「スマートホーム業界は自社アプリや音声アシスタント中心の機器操作から離れ、外部の汎用AIサービスとの接続を広げる流れにある」とし、「利用者が特定メーカーのアプリを起動せずとも、日常の会話で複数の家電を管理する方向へスマートホームサービスが進化している」と語った。"
         }
       ]
+    },
+    "gadgets/nothing-ai-device-dec8-design": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Carl Peiらしいやり方で、Nothingは最新製品の詳細を小出しにし始めた。同社は金曜日、「新しい画面がなく、アプリでは作れなかった体験」を備えた新しい「AI-native device」を12月8日に正式発表する予定だと明らかにした。それだけなら記事にはしなかっただろうが、意外な人物のおかげで、この端末の写真がフルーツ味のニコチンの煙のようにソーシャルメディアをふわふわと漂った。"
+        },
+        {
+          "t": "p",
+          "x": "水曜日の10:28PM ET、ハウスミュージックのトリオSwedish House MafiaのDJ、Sebastian IngrossoがNothingの公式Xアカウントをタグ付けした写真をソーシャルメディアに投稿した。Nothing Headphone 1 ProヘッドホンとMacBook Proの間に、Nothingが説明した画面のないガジェットにぴったり当てはまる端末が写っている。あるXユーザーはIngrossoの写真に「Bro... y u leak?」と返信した。これはNothingによる仕組まれたマーケティングなのか？（もちろんそうだ。）判断は各自に任せたい。"
+        },
+        {
+          "t": "p",
+          "x": "どうしても気になるのは、電子タバコを2本くっつけたように見えることだ。同社が公開したティーザーからすると、少なくとも1台のカメラも搭載しており、何らかの視覚インテリジェンス機能用とみられる。実機を見るまで評価は控えるが、現時点ではNothingのデザインチームには珍しい失敗に見える。"
+        },
+        {
+          "t": "p",
+          "x": "冗談はさておき、Nothingがこの端末をどう位置づけるかは興味深い。AIガジェットの実績は決して芳しくない。Humaneは昨年初めに事業を畳み、RabbitはR1の発売以来どうにか細々と続いている。"
+        }
+      ]
+    },
+    "gadgets/rayban-meta-gen3-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+        },
+        {
+          "t": "p",
+          "x": "評価：7.3/10。Metaの第三世代Ray-Banグラスは外観が少し変わり、性能も細かな部分でいくつか向上した。フレームはより細身になったWayfarer、新しいキャットアイ型のZena、Aviatorの三つのスタイルで、価格は$449、ZenaとAviatorは$529からだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Aviatorのフレームは大きすぎて鼻からずり落ち続けた。ほかの一部のMetaグラスと違い、専門家による調整が必要だ。Gen 3にはMeta AIへのあらゆる問いかけを呼び出せるカスタマイズ可能なショートカット「アクションボタン」、「最大9時間」のバッテリー持続時間とケースによる50時間、通話をよりクリアにする追加マイクが加わった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta AIは現在Muse Sparkで動いており、会話がより自然になり誤りも減った。Metaはまだ「beta」のMuseエージェントをグラス上で先行公開した。レビュアーはAI機能がMeta Oneのサブスクリプションへの誘導に使われることを懸念している。新しい設定では、グラスの「visual data」を学習に使わせないよう選べる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+        },
+        {
+          "t": "p",
+          "x": "non-Ray-BanのMetaグラスも$249から基本的に同じ機能を備え、Gen 2は$349、Gen 1 $224だ。Gen 3を選ぶ理由はRay-Banのスタイルか、わずかに長いバッテリー持続時間くらいしかない。"
+        }
+      ]
+    },
+    "gadgets/phison-npu-ssd-sc26": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PhisonはSupercomputer 2026（SC26）で、エンタープライズ向けSSDの新設計2種を詳しく紹介した。1つはNPUと130 GB/sの64GBメモリを内蔵し、PyTorch、vLLM、OpenVINO、llama.cppをドライブ上で直接実行できるもの。もう1つは高速なpSLCキャッシュと大容量のQLCを1基のコントローラーにまとめたものだ。同社は「紹介した製品や機能の多くはまだ開発中」としている。"
+        },
+        {
+          "t": "p",
+          "x": "このコンピュテーショナルストレージ・ドライブは、データが置かれた場所でAIコードを実行し、データセット全体ではなく結果だけを返す。Phisonによれば、対象となるワークロードでは転送データ量を10〜100分の1に減らせる可能性があるという。NPUは「36,800 DMIPSの演算性能」を発揮する見込みだが、TOPSの数値は示されず、ホストがドライブの演算機能にどうアクセスするかも明らかにされていない。"
+        },
+        {
+          "t": "p",
+          "x": "Mixed Mediaドライブは16チャネル構成で、pSLC領域とQLC領域に別々のネームスペースを割り当てるため、専用キャッシュドライブが不要になる。Phisonは「24台のうち1台を失っても、キャッシュの損失は25%ではなく4%で済む」と説明する。KioxiaとDapuStorも同様の設計を披露している。2つのうち、製品化が近そうなのはMixed Mediaだ。"
+        }
+      ]
+    },
+    "gadgets/insbotics-pophie-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Pophieはウェイクワードを待たない。InsBoticsが作ったこのぬいぐるみ風の卓上ロボットは、部屋の様子を見守り、ここぞという瞬間に自分から話しかける。このProactive Interaction機能は月額$20のProプランでのみ動作する。価格は$399で、Black Friday割引もある。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+        },
+        {
+          "t": "p",
+          "x": "超広角カメラと音声の方向を感知するデュアルマイクアレイにより常に周囲を認識し、連続型のVAD感情モデルが表情を動かす。サイズは5.1×5.7×6.1インチ、重さは1.9ポンドで、TFT LCDの目2つ、ステッピングモーター5基、タッチセンサー8個を備える。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "InsBoticsによると、Pophieは家族やペットの名前、誰が誰か、何が好きかを覚え、声と顔で人ごとに別々の記憶を保持する。11言語を話す。目を閉じると視覚はオフになるが、音声での会話は続く。"
+        },
+        {
+          "t": "p",
+          "x": "すべてのPophieにはProプラン2か月分が付く。その後、無料プランでは1日10分まで会話でき、Standardは月額$10。Kickstarterでは1,168人の支援者から$439,275を集めて終了した。"
+        }
+      ]
+    },
+    "gadgets/openai-foxconn-phone-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Shimul Sood / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはスマートフォン投入の計画を進めているようだ。中国（China）のSecurities Timesによると、Foxconn子会社のFIH Mobileが、ChatGPTを手がける同社のスマートフォン組み立てを支援する注文を受けたという。FoxconnはiPhones、MacsなどApple製ハードウェアの組み立てを担ってきたAppleの主要パートナーだ。"
+        },
+        {
+          "t": "p",
+          "x": "注文の規模や仕様、市場投入の目標に関する詳細は乏しく、報道は匿名のサプライチェーン関係者に依拠している。"
+        },
+        {
+          "t": "p",
+          "x": "今年初め、TF International SecuritiesのアナリストMing-Chi Kuoは、同社がエージェント型AI体験を重視したスマートフォンを開発中で、プロセッサーの供給ではMediaTekがQualcommより有利な立場にあるようだと報告した。KuoはFoxconnではなくLuxshareを独占的な設計・製造パートナーに挙げており、二つの報道がどう整合するのかは不明だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはスマートフォン計画について沈黙を守っているが、元Appleデザイン責任者Jony Iveが設立したioとともにAI-firstのハードウェアを開発している。市場参入は容易ではない。GoogleはAndroidでAIに全面的に注力し、AppleはSiri AIで勢いに乗っている。OpenAIが独自のオペレーティングシステムを開発する可能性は低い。"
+        }
+      ]
     }
   }
 }

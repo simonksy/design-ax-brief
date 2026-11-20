@@ -12287,6 +12287,147 @@
           "x": "一位业内人士表示：“智能家居行业正在摆脱以自有应用和语音助手为中心的设备控制，扩大与外部通用AI服务的连接。”他还说：“智能家居服务正朝着让用户无需打开特定厂商的应用，也能通过日常对话管理多台家电的方向演进。”"
         }
       ]
+    },
+    "gadgets/nothing-ai-device-dec8-design": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nothing延续Carl Pei一贯的风格，开始陆续透露新产品的细节。公司周五表示，计划于12月8日正式发布这款新的“AI-native device”，它“没有新屏幕，带来一种无法以应用形式实现的体验”。如果只有这些，我们大概不会写这篇报道，但多亏了一个意想不到的来源，这款设备的照片像一团浓浓的水果味尼古丁烟雾一样，在社交媒体上慢悠悠地飘散开来。"
+        },
+        {
+          "t": "p",
+          "x": "周三10:28PM ET，浩室音乐三人组Swedish House Mafia的DJ Sebastian Ingrosso在社交媒体上发布了一张照片，并标记了Nothing的官方X账号。在一副Nothing Headphone 1 Pro耳机和一台MacBook Pro之间，可以看到一台明显符合Nothing所描述的无屏设备。一位X用户回复Ingrosso的照片：“Bro... y u leak?”这是Nothing精心策划的营销噱头吗？（当然是。）请自行判断。"
+        },
+        {
+          "t": "p",
+          "x": "我最无法释怀的是，它看起来就像两支电子烟拼在一起。从公司发布的预告来看，它还至少有一个摄像头，很可能用于某种视觉智能功能。在亲眼见到实物之前我们暂不下定论，但目前看来，这是Nothing设计团队少见的失手。"
+        },
+        {
+          "t": "p",
+          "x": "玩笑归玩笑，Nothing将如何定位这款设备值得关注；AI硬件的过往记录并不令人鼓舞。Humane在去年年初倒闭，而Rabbit自推出R1以来一直不温不火。"
+        }
+      ]
+    },
+    "gadgets/rayban-meta-gen3-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+        },
+        {
+          "t": "p",
+          "x": "评分：7.3/10。Meta第三代Ray-Ban眼镜在外观上略有更新，性能也在细节处有少许提升。共有三种镜框款式——更纤薄的Wayfarer、全新猫眼款Zena和Aviator——售价$449，Zena和Aviator起价$529。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Aviator镜框显得过大，总是从鼻梁上往下滑；与其他一些Meta眼镜不同，它需要专业人员调整。Gen 3新增了操作按钮，这是一个可自定义的快捷键，可用于任何Meta AI查询；电池续航\"最长9小时\"，充电盒另可提供50小时；还增加了一个麦克风，让通话更清晰。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta AI现由Muse Spark驱动，对话更自然，错误也减少了。Meta在眼镜上预览了仍处于\"beta\"阶段的Muse智能体，评测者担心AI功能会被用来推销Meta One订阅。一项新设置允许用户拒绝将眼镜的\"visual data\"用于训练。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+        },
+        {
+          "t": "p",
+          "x": "non-Ray-Ban的Meta眼镜从$249起就提供基本相同的功能，Gen 2售价$349，Gen 1 $224，因此选择Gen 3的唯一理由是Ray-Ban的款式或稍长一点的续航。"
+        }
+      ]
+    },
+    "gadgets/phison-npu-ssd-sc26": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Phison在Supercomputer 2026（SC26）上详细介绍了两款新的企业级SSD设计：一款内置NPU和64GB、130 GB/s的内存，支持在硬盘上直接运行PyTorch、vLLM、OpenVINO和llama.cpp；另一款则用单个控制器将高速pSLC缓存与大容量QLC结合在一起。公司指出，“所提及的许多产品和功能仍在开发中”。"
+        },
+        {
+          "t": "p",
+          "x": "这款计算存储硬盘在数据所在之处运行AI代码，只回传结果而非整个数据集。Phison称，对于适用的工作负载，传输的数据量可减少10到100倍。NPU预计可提供“36,800 DMIPS的计算性能”，但未给出TOPS数据，也没有透露主机如何调用硬盘的计算能力。"
+        },
+        {
+          "t": "p",
+          "x": "Mixed Media硬盘是一款16通道产品，其pSLC和QLC区域拥有独立的命名空间，因此无需专用缓存盘。Phison表示：“24块硬盘中损失一块，只会造成4%的缓存损失，而不是25%。”Kioxia和DapuStor也展示过类似设计。两者之中，Mixed Media看起来更接近量产。"
+        }
+      ]
+    },
+    "gadgets/insbotics-pophie-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Pophie不等唤醒词。InsBotics打造的这款毛绒桌面机器人会观察房间，在时机合适时主动开口——这项Proactive Interaction功能仅在每月$20的Pro方案中运行。它售价$399，并有Black Friday折扣。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+        },
+        {
+          "t": "p",
+          "x": "超广角摄像头和可感知声音方向的双麦克风阵列让她始终感知周围环境，连续VAD情绪模型驱动她的表情。她的尺寸为5.1×5.7×6.1英寸，重1.9磅，配有两只TFT LCD眼睛、五个步进电机和八个触摸传感器。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "InsBotics表示，她能记住你的家人和宠物——名字、谁是谁以及他们喜欢什么——并通过声音和面孔为每个人分别保存记忆。她会说十一种语言。闭上眼睛时视觉功能关闭，语音对话则继续进行。"
+        },
+        {
+          "t": "p",
+          "x": "每台Pophie都附带两个月Pro服务；之后免费方案每天可对话十分钟，Standard方案每月$10。她的Kickstarter众筹以1,168名支持者、$439,275的金额结束。"
+        }
+      ]
+    },
+    "gadgets/openai-foxconn-phone-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Shimul Sood / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI似乎正在推进推出智能手机的计划。中国（China）《Securities Times》报道称，Foxconn旗下子公司FIH Mobile已获得订单，协助这家ChatGPT开发商组装智能手机。Foxconn一直是Apple组装iPhones、Macs及其他Apple硬件的主要合作伙伴。"
+        },
+        {
+          "t": "p",
+          "x": "关于订单规模、规格和上市目标的细节很少，报道依据的是匿名供应链消息人士。"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，TF International Securities分析师Ming-Chi Kuo报告称，该公司正在开发一款大力侧重智能体AI体验的智能手机，在处理器供应上MediaTek似乎比Qualcomm更具优势。Kuo点名的独家设计与制造合作伙伴是Luxshare而非Foxconn，因此两份报道如何吻合尚不清楚。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI对其智能手机计划一直保持沉默，但正与前Apple设计主管Jony Ive创立的公司io合作开发AI-first硬件。打入市场并不容易：Google已借Android全力押注AI，Apple也凭借Siri AI步入正轨。OpenAI不太可能打造自己的操作系统。"
+        }
+      ]
     }
   }
 }

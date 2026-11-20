@@ -1,221 +1,197 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "gadgets",
   "cards": [
     {
-      "id": "openai-foxconn-phone-order",
+      "id": "google-assistant-nest-shutdown",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI 첫 스마트폰\n생산 단계로 다가서다",
-      "body": "Foxconn 자회사 FIH Mobile이 OpenAI 폰 조립 주문을 따냈다.",
-      "mini_headline": "OpenAI 폰, 생산 임박",
+      "headline": "Assistant, 내년\n스마트 스피커서 퇴장",
+      "body": "2027년 8월 2일 Gemini for Home이 Assistant를 대신한다.",
+      "mini_headline": "Assistant, 스피커서 퇴장",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/openai-smartphone-foxconn-assembly-report/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Shimul Sood / Digital Trends"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+            "cap": "사진: Dan Seifert / The Verge"
           },
           {
             "t": "p",
-            "x": "OpenAI가 스마트폰 출시 계획을 실제로 밀어붙이는 모양새다. 중국(China) 매체 Securities Times는 Foxconn 자회사 FIH Mobile이 ChatGPT 개발사의 스마트폰 조립을 돕는 주문을 받았다고 보도했다. Foxconn은 iPhones, Macs 등 Apple 하드웨어를 조립해 온 Apple의 핵심 파트너다."
+            "x": "Google이 스마트홈 소프트웨어를 크게 손본다. 내년부터 Nest 앱을 없애 Google Home 앱 하나로 합치고, 스마트홈 기기의 Google Assistant도 물러나게 한다."
           },
           {
             "t": "p",
-            "x": "주문 규모나 사양, 시장 출시 목표는 거의 알려지지 않았다. 보도도 익명의 공급망 소식통에 기댔다."
+            "x": "Nest 앱은 2027년 1월 25일 문을 닫는다. 그 뒤로는 Nest 온도조절기와 카메라, Nest Protect 경보기 같은 Nest 제품을 Google Home 앱에서 관리해야 한다. Google Home 앱을 미리 설정해 두면 1월 25일 당일 Google이 카메라와 영상 기록까지 포함해 Nest 기기를 Home 앱으로 옮겨 준다. Nest Aware(1세대) 구독은 Google Home Premium으로 자동 전환된다. Nest 계정 데이터는 2027년 3월 25일부터 지우기 시작한다고 Google은 밝혔다."
           },
           {
             "t": "p",
-            "x": "올해 초 TF International Securities의 애널리스트 Ming-Chi Kuo는 이 회사가 에이전트형 AI 경험에 크게 기댄 스마트폰을 개발 중이며, 프로세서 공급에서는 MediaTek이 Qualcomm보다 유리해 보인다고 전했다. 다만 Kuo는 이 폰의 독점 설계·제조 파트너로 Foxconn이 아닌 Luxshare를 꼽았다. 두 보도가 어떻게 맞물리는지는 아직 분명하지 않다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+            "x": "Google Assistant 쪽 변화는 이보다 늦다. 회사에 따르면 2027년 8월 2일, 스마트 스피커와 스마트 디스플레이에서 Gemini for Home 음성 비서가 Google Assistant 자리를 넘겨받는다. Google은 Gemini for Home이 있으면 전용 명령어나 정해진 표현 없이도 더 복잡한 질문을 평소 말투로 던질 수 있다고 설명한다."
           },
           {
             "t": "p",
-            "x": "OpenAI는 스마트폰 계획에는 말을 아끼지만 전 Apple 디자인 책임자 Jony Ive가 세운 io와 함께 AI-first 하드웨어를 개발하고 있다. 시장 진입은 쉽지 않다. Google은 Android로 AI에 전력을 쏟았고, Apple은 Siri AI로 궤도에 올랐다. OpenAI가 자체 운영체제를 만들 가능성은 낮다."
+            "x": "Gemini for Home이 지난해 발표된 만큼 Google이 스마트홈에서 Google Assistant를 정리하는 건 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 2027년 8월 전환 전에 추가 소식을 내놓겠다고 회사는 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OpenAI's first phone moves\ntoward production",
-          "body": "Foxconn's FIH Mobile has reportedly received an order to help assemble a smartphone for OpenAI.",
-          "mini_headline": "OpenAI phone nears production",
+          "headline": "Google Assistant leaves\nsmart speakers next year",
+          "body": "Google says Gemini for Home will replace Assistant on its smart speakers and smart displays on August 2nd, 2027.",
+          "mini_headline": "Assistant exits\nsmart speakers",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "Photo by Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAI is apparently moving ahead with its plans to launch a smartphone. A report from China's Securities Times claims that Foxconn subsidiary FIH Mobile has received an order to help assemble a smartphone for the ChatGPT maker. Foxconn has been Apple's lead partner for assembling iPhones, Macs and other Apple hardware."
+                "x": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices."
               },
               {
                 "t": "p",
-                "x": "Details are slim on the order size, the specs and the market launch targets, and the report relies on unnamed supply chain sources."
+                "x": "The Nest app shutdown takes place on January 25th, 2027, meaning you’ll have to manage your Nest products, including Nest thermostats, cameras, and Nest Protect alarms, from the Google Home app instead. If you get the Google Home app set up, Google will move over your Nest devices, including cameras and video history, to the Home app on that January 25th date. The company will also automatically transfer Nest Aware (1st Gen) subscriptions to Google Home Premium. Google says it will begin deleting Nest account data on March 25th, 2027."
               },
               {
                 "t": "p",
-                "x": "Earlier this year, TF International Securities analyst Ming-Chi Kuo reported that the company is working on a smartphone that will lean heavily into agentic AI experiences, with MediaTek appearing better positioned than Qualcomm to supply the processor. Kuo named Luxshare, not Foxconn, as the phone's exclusive design and manufacturing partner, so it's unclear how the two reports fit together."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "The changes for Google Assistant will take place later: On August 2nd, 2027, the Gemini for Home voice assistant will replace Google Assistant on smart speakers and smart displays, the company says. Google argues that Gemini for Home allows users to ask more complex questions and speak naturally instead of needing to use dedicated commands or specific language."
               },
               {
                 "t": "p",
-                "x": "OpenAI has remained mum on its smartphone plans, but it is developing AI-first hardware with io, the company started by former Apple design chief Jony Ive. Breaking into the market won't be easy: Google has gone all in on AI with Android, and Apple has hit its stride with Siri AI. It's unlikely OpenAI will build its own operating system."
+                "x": "Gemini for Home was announced last year, so it’s not exactly a shock that Google is going to move on from Google Assistant in the smart home (especially when the company also killed Google Assistant on phones earlier this year). The company says it plans to share more updates about the changes ahead of the August 2027 transition."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI 첫 스마트폰\n생산 단계로 다가서다",
-          "body": "Foxconn 자회사 FIH Mobile이 OpenAI 폰 조립 주문을 따냈다.",
-          "mini_headline": "OpenAI 폰, 생산 임박",
+          "headline": "Assistant, 내년\n스마트 스피커서 퇴장",
+          "body": "2027년 8월 2일 Gemini for Home이 Assistant를 대신한다.",
+          "mini_headline": "Assistant, 스피커서 퇴장",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "사진: Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 스마트폰 출시 계획을 실제로 밀어붙이는 모양새다. 중국(China) 매체 Securities Times는 Foxconn 자회사 FIH Mobile이 ChatGPT 개발사의 스마트폰 조립을 돕는 주문을 받았다고 보도했다. Foxconn은 iPhones, Macs 등 Apple 하드웨어를 조립해 온 Apple의 핵심 파트너다."
+                "x": "Google이 스마트홈 소프트웨어를 크게 손본다. 내년부터 Nest 앱을 없애 Google Home 앱 하나로 합치고, 스마트홈 기기의 Google Assistant도 물러나게 한다."
               },
               {
                 "t": "p",
-                "x": "주문 규모나 사양, 시장 출시 목표는 거의 알려지지 않았다. 보도도 익명의 공급망 소식통에 기댔다."
+                "x": "Nest 앱은 2027년 1월 25일 문을 닫는다. 그 뒤로는 Nest 온도조절기와 카메라, Nest Protect 경보기 같은 Nest 제품을 Google Home 앱에서 관리해야 한다. Google Home 앱을 미리 설정해 두면 1월 25일 당일 Google이 카메라와 영상 기록까지 포함해 Nest 기기를 Home 앱으로 옮겨 준다. Nest Aware(1세대) 구독은 Google Home Premium으로 자동 전환된다. Nest 계정 데이터는 2027년 3월 25일부터 지우기 시작한다고 Google은 밝혔다."
               },
               {
                 "t": "p",
-                "x": "올해 초 TF International Securities의 애널리스트 Ming-Chi Kuo는 이 회사가 에이전트형 AI 경험에 크게 기댄 스마트폰을 개발 중이며, 프로세서 공급에서는 MediaTek이 Qualcomm보다 유리해 보인다고 전했다. 다만 Kuo는 이 폰의 독점 설계·제조 파트너로 Foxconn이 아닌 Luxshare를 꼽았다. 두 보도가 어떻게 맞물리는지는 아직 분명하지 않다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Google Assistant 쪽 변화는 이보다 늦다. 회사에 따르면 2027년 8월 2일, 스마트 스피커와 스마트 디스플레이에서 Gemini for Home 음성 비서가 Google Assistant 자리를 넘겨받는다. Google은 Gemini for Home이 있으면 전용 명령어나 정해진 표현 없이도 더 복잡한 질문을 평소 말투로 던질 수 있다고 설명한다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 스마트폰 계획에는 말을 아끼지만 전 Apple 디자인 책임자 Jony Ive가 세운 io와 함께 AI-first 하드웨어를 개발하고 있다. 시장 진입은 쉽지 않다. Google은 Android로 AI에 전력을 쏟았고, Apple은 Siri AI로 궤도에 올랐다. OpenAI가 자체 운영체제를 만들 가능성은 낮다."
+                "x": "Gemini for Home이 지난해 발표된 만큼 Google이 스마트홈에서 Google Assistant를 정리하는 건 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 2027년 8월 전환 전에 추가 소식을 내놓겠다고 회사는 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI初のスマホ\n生産に向け前進",
-          "body": "FoxconnのFIH MobileがOpenAIのスマホ組み立てを受注したと報じられた。",
-          "mini_headline": "OpenAIスマホ、生産間近",
+          "headline": "Assistant、来年\nスマートスピーカーから撤退",
+          "body": "Assistantは2027年8月2日、Gemini for Homeに置き換わる。",
+          "mini_headline": "Assistant、スピーカーから撤退",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "写真：Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAIはスマートフォン投入の計画を進めているようだ。中国（China）のSecurities Timesによると、Foxconn子会社のFIH Mobileが、ChatGPTを手がける同社のスマートフォン組み立てを支援する注文を受けたという。FoxconnはiPhones、MacsなどApple製ハードウェアの組み立てを担ってきたAppleの主要パートナーだ。"
+                "x": "Googleはスマートホーム向けソフトウェアに大きな変更を加えると発表した。来年からNestアプリを終了してGoogle Homeアプリに一本化し、スマートホーム機器のGoogle Assistantも廃止する。"
               },
               {
                 "t": "p",
-                "x": "注文の規模や仕様、市場投入の目標に関する詳細は乏しく、報道は匿名のサプライチェーン関係者に依拠している。"
+                "x": "Nestアプリは2027年1月25日に終了する。以降、Nestサーモスタットやカメラ、Nest Protect警報器などのNest製品はGoogle Homeアプリで管理することになる。Google Homeアプリを設定しておけば、1月25日当日にGoogleがカメラや映像履歴を含むNest機器をHomeアプリへ移行する。Nest Aware（第1世代）のサブスクリプションもGoogle Home Premiumへ自動的に移される。Googleは2027年3月25日からNestアカウントのデータ削除を始めるとしている。"
               },
               {
                 "t": "p",
-                "x": "今年初め、TF International SecuritiesのアナリストMing-Chi Kuoは、同社がエージェント型AI体験を重視したスマートフォンを開発中で、プロセッサーの供給ではMediaTekがQualcommより有利な立場にあるようだと報告した。KuoはFoxconnではなくLuxshareを独占的な設計・製造パートナーに挙げており、二つの報道がどう整合するのかは不明だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Google Assistantの変更はその後になる。同社によると、2027年8月2日にスマートスピーカーとスマートディスプレイでGemini for Home音声アシスタントがGoogle Assistantに置き換わる。Googleは、Gemini for Homeなら専用のコマンドや決まった言い回しを使わずに、より複雑な質問を自然な話し言葉で尋ねられると説明する。"
               },
               {
                 "t": "p",
-                "x": "OpenAIはスマートフォン計画について沈黙を守っているが、元Appleデザイン責任者Jony Iveが設立したioとともにAI-firstのハードウェアを開発している。市場参入は容易ではない。GoogleはAndroidでAIに全面的に注力し、AppleはSiri AIで勢いに乗っている。OpenAIが独自のオペレーティングシステムを開発する可能性は低い。"
+                "x": "Gemini for Homeは昨年発表されており、Googleがスマートホームで Google Assistantから移行するのは意外ではない（同社は今年初めにスマートフォンのGoogle Assistantも終了している）。同社は2027年8月の移行に先立ち、さらに詳しい情報を共有する予定だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI首款手机\n迈向量产",
-          "body": "据报道，Foxconn旗下FIH Mobile获得订单，协助为OpenAI组装智能手机。",
-          "mini_headline": "OpenAI手机接近量产",
+          "headline": "Assistant明年\n退出智能音箱",
+          "body": "Google称，2027年8月2日Gemini for Home将取代Assistant。",
+          "mini_headline": "Assistant退出智能音箱",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "摄影：Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAI似乎正在推进推出智能手机的计划。中国（China）《Securities Times》报道称，Foxconn旗下子公司FIH Mobile已获得订单，协助这家ChatGPT开发商组装智能手机。Foxconn一直是Apple组装iPhones、Macs及其他Apple硬件的主要合作伙伴。"
+                "x": "Google宣布对其智能家居软件进行多项重大调整。从明年起，公司将关闭Nest应用、改用Google Home应用，并在智能家居设备上停用Google Assistant。"
               },
               {
                 "t": "p",
-                "x": "关于订单规模、规格和上市目标的细节很少，报道依据的是匿名供应链消息人士。"
+                "x": "Nest应用将于2027年1月25日关闭，届时用户需要改用Google Home应用管理Nest产品，包括Nest温控器、摄像头和Nest Protect报警器。如果已设置好Google Home应用，Google会在1月25日当天把Nest设备（包括摄像头和视频历史）迁移到Home应用中。公司还会将Nest Aware（第1代）订阅自动转为Google Home Premium。Google表示将从2027年3月25日开始删除Nest账户数据。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，TF International Securities分析师Ming-Chi Kuo报告称，该公司正在开发一款大力侧重智能体AI体验的智能手机，在处理器供应上MediaTek似乎比Qualcomm更具优势。Kuo点名的独家设计与制造合作伙伴是Luxshare而非Foxconn，因此两份报道如何吻合尚不清楚。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Google Assistant的变化会稍晚到来：公司表示，2027年8月2日，Gemini for Home语音助手将在智能音箱和智能显示屏上取代Google Assistant。Google认为，Gemini for Home让用户可以提出更复杂的问题，并以自然的方式说话，而无需使用专门指令或特定说法。"
               },
               {
                 "t": "p",
-                "x": "OpenAI对其智能手机计划一直保持沉默，但正与前Apple设计主管Jony Ive创立的公司io合作开发AI-first硬件。打入市场并不容易：Google已借Android全力押注AI，Apple也凭借Siri AI步入正轨。OpenAI不太可能打造自己的操作系统。"
+                "x": "Gemini for Home于去年发布，因此Google在智能家居领域告别Google Assistant并不令人意外（何况公司今年早些时候已在手机上停用了Google Assistant）。公司表示，计划在2027年8月过渡之前分享更多相关信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El primer teléfono de OpenAI\navanza hacia la producción",
-          "body": "FIH Mobile, filial de Foxconn, habría recibido un pedido para ayudar a ensamblar un smartphone de OpenAI.",
-          "mini_headline": "El teléfono de OpenAI, cerca de producción",
+          "headline": "Google Assistant dejará\nlos altavoces el próximo año",
+          "body": "Según Google, Gemini for Home sustituirá a Assistant en sus altavoces y pantallas inteligentes el 2 de agosto de 2027.",
+          "mini_headline": "Assistant deja los altavoces",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "Foto de Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAI parece avanzar con sus planes de lanzar un smartphone. Un informe del diario Securities Times, de China, asegura que FIH Mobile, filial de Foxconn, recibió un pedido para ayudar a ensamblar un smartphone para el creador de ChatGPT. Foxconn ha sido el socio principal de Apple para ensamblar iPhones, Macs y otro hardware de Apple."
+                "x": "Google anuncia cambios importantes en su software para el hogar inteligente. A partir del próximo año, la compañía cerrará la app Nest en favor de la app Google Home y retirará Google Assistant de sus dispositivos para el hogar inteligente."
               },
               {
                 "t": "p",
-                "x": "Hay pocos detalles sobre el tamaño del pedido, las especificaciones y los objetivos de lanzamiento al mercado, y el informe se basa en fuentes anónimas de la cadena de suministro."
+                "x": "El cierre de la app Nest será el 25 de enero de 2027, por lo que habrá que gestionar los productos Nest, incluidos los termostatos Nest, las cámaras y las alarmas Nest Protect, desde la app Google Home. Si ya se ha configurado la app Google Home, Google trasladará los dispositivos Nest, incluidas las cámaras y el historial de video, a la app Home ese mismo 25 de enero. La compañía también transferirá automáticamente las suscripciones a Nest Aware (1.ª generación) a Google Home Premium. Google indica que empezará a borrar los datos de las cuentas Nest el 25 de marzo de 2027."
               },
               {
                 "t": "p",
-                "x": "A principios de este año, el analista de TF International Securities Ming-Chi Kuo informó de que la compañía trabaja en un smartphone muy centrado en experiencias de AI agéntica, y que MediaTek parecía mejor situada que Qualcomm para suministrar el procesador. Kuo señaló a Luxshare, no a Foxconn, como socio exclusivo de diseño y fabricación del teléfono, por lo que no está claro cómo encajan ambos informes."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Los cambios en Google Assistant llegarán más tarde: el 2 de agosto de 2027, el asistente de voz Gemini for Home sustituirá a Google Assistant en altavoces y pantallas inteligentes, según la compañía. Google sostiene que Gemini for Home permite hacer preguntas más complejas y hablar con naturalidad, sin necesidad de usar comandos específicos ni un lenguaje determinado."
               },
               {
                 "t": "p",
-                "x": "OpenAI ha guardado silencio sobre sus planes de smartphone, pero desarrolla hardware AI-first con io, la empresa fundada por el exjefe de diseño de Apple Jony Ive. Entrar en el mercado no será fácil: Google ha apostado todo por la AI con Android, y Apple ha encontrado su ritmo con Siri AI. Es poco probable que OpenAI desarrolle su propio sistema operativo."
+                "x": "Gemini for Home se anunció el año pasado, así que no sorprende demasiado que Google deje atrás a Google Assistant en el hogar inteligente (sobre todo porque la compañía ya retiró Google Assistant de los teléfonos a principios de este año). La compañía dice que planea compartir más novedades sobre los cambios antes de la transición de agosto de 2027."
               }
             ]
           }
@@ -223,141 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI 첫 스마트폰\n생산 단계로 다가서다",
-          "body": "Foxconn의 FIH Mobile이 OpenAI 폰 조립 주문을 받았다고 한다.",
-          "mini_headline": "OpenAI 폰, 생산 임박",
+          "headline": "Assistant, 내년\n스마트 스피커서 퇴장",
+          "body": "2027년 8월 2일 Gemini for Home이 Assistant를 대체한다.",
+          "mini_headline": "Assistant, 스피커서 퇴장",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "사진: Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 스마트폰 출시 계획을 실제로 밀고 나가는 것으로 보인다. 중국(China) 매체 Securities Times는 Foxconn 자회사 FIH Mobile이 ChatGPT 개발사의 스마트폰 조립을 돕는 주문을 받았다고 보도했다. Foxconn은 iPhones, Macs 등 Apple 하드웨어 조립을 맡아 온 Apple의 핵심 파트너다."
+                "x": "Google이 스마트홈 소프트웨어에 큰 변화를 예고했다. 내년부터 Nest 앱을 종료해 Google Home 앱으로 일원화하고, 스마트홈 기기에서 Google Assistant도 퇴역시킨다."
               },
               {
                 "t": "p",
-                "x": "주문 규모와 사양, 시장 출시 목표에 관한 세부 정보는 거의 없고, 보도는 익명의 공급망 소식통에 기대고 있다."
+                "x": "Nest 앱은 2027년 1월 25일 종료된다. 이후 Nest 온도조절기와 카메라, Nest Protect 경보기 등 Nest 제품은 Google Home 앱에서 관리해야 한다. Google Home 앱을 설정해 두면 Google이 1월 25일 당일 카메라와 영상 기록을 포함한 Nest 기기를 Home 앱으로 옮긴다. Nest Aware(1세대) 구독도 Google Home Premium으로 자동 전환된다. Google은 2027년 3월 25일부터 Nest 계정 데이터를 삭제하기 시작한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "올해 초 TF International Securities의 애널리스트 Ming-Chi Kuo는 이 회사가 에이전트형 AI 경험에 크게 기댄 스마트폰을 개발 중이며, 프로세서 공급에서는 MediaTek이 Qualcomm보다 유리해 보인다고 전했다. Kuo는 Foxconn이 아닌 Luxshare를 이 폰의 독점 설계·제조 파트너로 꼽았기 때문에, 두 보도가 어떻게 맞물리는지는 분명하지 않다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Google Assistant의 변화는 그보다 늦다. 회사에 따르면 2027년 8월 2일 스마트 스피커와 스마트 디스플레이에서 Gemini for Home 음성 비서가 Google Assistant를 대체한다. Google은 Gemini for Home을 쓰면 전용 명령어나 정해진 표현 없이도 더 복잡한 질문을 자연스러운 말로 할 수 있다고 설명한다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 스마트폰 계획에 대해 말을 아끼고 있지만, 전 Apple 디자인 책임자 Jony Ive가 세운 io와 함께 AI-first 하드웨어를 개발하고 있다. 시장 진입은 쉽지 않다. Google은 Android로 AI에 전력을 쏟았고, Apple은 Siri AI로 궤도에 올랐다. OpenAI가 자체 운영체제를 만들 가능성은 낮다."
+                "x": "Gemini for Home은 지난해 발표됐으니 Google이 스마트홈에서 Google Assistant를 정리하는 것은 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 회사는 2027년 8월 전환에 앞서 추가 소식을 공유할 계획이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI初のスマホ\n生産に向け前進",
-          "body": "FoxconnのFIH MobileがOpenAIのスマホ組み立てを受注したと報じられた。",
-          "mini_headline": "OpenAIスマホ、生産間近",
+          "headline": "Assistant、来年\nスマートスピーカーから撤退",
+          "body": "Assistantは2027年8月2日、Gemini for Homeに置き換わる。",
+          "mini_headline": "Assistant、スピーカーから撤退",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "写真：Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAIはスマートフォン投入の計画を進めているようだ。中国（China）のSecurities Timesによると、Foxconn子会社のFIH Mobileが、ChatGPTを手がける同社のスマートフォン組み立てを支援する注文を受けたという。FoxconnはiPhones、MacsなどApple製ハードウェアの組み立てを担ってきたAppleの主要パートナーだ。"
+                "x": "Googleはスマートホーム向けソフトウェアに大きな変更を加えると発表した。来年からNestアプリを終了してGoogle Homeアプリに一本化し、スマートホーム機器のGoogle Assistantも廃止する。"
               },
               {
                 "t": "p",
-                "x": "注文の規模や仕様、市場投入の目標に関する詳細は乏しく、報道は匿名のサプライチェーン関係者に依拠している。"
+                "x": "Nestアプリは2027年1月25日に終了する。以降、Nestサーモスタットやカメラ、Nest Protect警報器などのNest製品はGoogle Homeアプリで管理することになる。Google Homeアプリを設定しておけば、1月25日当日にGoogleがカメラや映像履歴を含むNest機器をHomeアプリへ移行する。Nest Aware（第1世代）のサブスクリプションもGoogle Home Premiumへ自動的に移される。Googleは2027年3月25日からNestアカウントのデータ削除を始めるとしている。"
               },
               {
                 "t": "p",
-                "x": "今年初め、TF International SecuritiesのアナリストMing-Chi Kuoは、同社がエージェント型AI体験を重視したスマートフォンを開発中で、プロセッサーの供給ではMediaTekがQualcommより有利な立場にあるようだと報告した。KuoはFoxconnではなくLuxshareを独占的な設計・製造パートナーに挙げており、二つの報道がどう整合するのかは不明だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Google Assistantの変更はその後になる。同社によると、2027年8月2日にスマートスピーカーとスマートディスプレイでGemini for Home音声アシスタントがGoogle Assistantに置き換わる。Googleは、Gemini for Homeなら専用のコマンドや決まった言い回しを使わずに、より複雑な質問を自然な話し言葉で尋ねられると説明する。"
               },
               {
                 "t": "p",
-                "x": "OpenAIはスマートフォン計画について沈黙を守っているが、元Appleデザイン責任者Jony Iveが設立したioとともにAI-firstのハードウェアを開発している。市場参入は容易ではない。GoogleはAndroidでAIに全面的に注力し、AppleはSiri AIで勢いに乗っている。OpenAIが独自のオペレーティングシステムを開発する可能性は低い。"
+                "x": "Gemini for Homeは昨年発表されており、Googleがスマートホームで Google Assistantから移行するのは意外ではない（同社は今年初めにスマートフォンのGoogle Assistantも終了している）。同社は2027年8月の移行に先立ち、さらに詳しい情報を共有する予定だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI首款手机\n迈向量产",
-          "body": "据报道，Foxconn旗下FIH Mobile获得订单，协助为OpenAI组装智能手机。",
-          "mini_headline": "OpenAI手机接近量产",
+          "headline": "Assistant明年\n退出智能音箱",
+          "body": "Google称，2027年8月2日Gemini for Home将取代Assistant。",
+          "mini_headline": "Assistant退出智能音箱",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "摄影：Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAI似乎正在推进推出智能手机的计划。中国（China）《Securities Times》报道称，Foxconn旗下子公司FIH Mobile已获得订单，协助这家ChatGPT开发商组装智能手机。Foxconn一直是Apple组装iPhones、Macs及其他Apple硬件的主要合作伙伴。"
+                "x": "Google宣布对其智能家居软件进行多项重大调整。从明年起，公司将关闭Nest应用、改用Google Home应用，并在智能家居设备上停用Google Assistant。"
               },
               {
                 "t": "p",
-                "x": "关于订单规模、规格和上市目标的细节很少，报道依据的是匿名供应链消息人士。"
+                "x": "Nest应用将于2027年1月25日关闭，届时用户需要改用Google Home应用管理Nest产品，包括Nest温控器、摄像头和Nest Protect报警器。如果已设置好Google Home应用，Google会在1月25日当天把Nest设备（包括摄像头和视频历史）迁移到Home应用中。公司还会将Nest Aware（第1代）订阅自动转为Google Home Premium。Google表示将从2027年3月25日开始删除Nest账户数据。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，TF International Securities分析师Ming-Chi Kuo报告称，该公司正在开发一款大力侧重智能体AI体验的智能手机，在处理器供应上MediaTek似乎比Qualcomm更具优势。Kuo点名的独家设计与制造合作伙伴是Luxshare而非Foxconn，因此两份报道如何吻合尚不清楚。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Google Assistant的变化会稍晚到来：公司表示，2027年8月2日，Gemini for Home语音助手将在智能音箱和智能显示屏上取代Google Assistant。Google认为，Gemini for Home让用户可以提出更复杂的问题，并以自然的方式说话，而无需使用专门指令或特定说法。"
               },
               {
                 "t": "p",
-                "x": "OpenAI对其智能手机计划一直保持沉默，但正与前Apple设计主管Jony Ive创立的公司io合作开发AI-first硬件。打入市场并不容易：Google已借Android全力押注AI，Apple也凭借Siri AI步入正轨。OpenAI不太可能打造自己的操作系统。"
+                "x": "Gemini for Home于去年发布，因此Google在智能家居领域告别Google Assistant并不令人意外（何况公司今年早些时候已在手机上停用了Google Assistant）。公司表示，计划在2027年8月过渡之前分享更多相关信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El primer teléfono de OpenAI\navanza hacia la producción",
-          "body": "FIH Mobile, filial de Foxconn, habría recibido un pedido para ayudar a ensamblar un smartphone de OpenAI.",
-          "mini_headline": "El teléfono de OpenAI, cerca de producción",
+          "headline": "Google Assistant dejará\nlos altavoces el próximo año",
+          "body": "Según Google, Gemini for Home sustituirá a Assistant en sus altavoces y pantallas inteligentes el 2 de agosto de 2027.",
+          "mini_headline": "Assistant deja los altavoces",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Shimul Sood / Digital Trends"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+                "cap": "Foto de Dan Seifert / The Verge"
               },
               {
                 "t": "p",
-                "x": "OpenAI parece avanzar con sus planes de lanzar un smartphone. Un informe del diario Securities Times, de China, asegura que FIH Mobile, filial de Foxconn, recibió un pedido para ayudar a ensamblar un smartphone para el creador de ChatGPT. Foxconn ha sido el socio principal de Apple para ensamblar iPhones, Macs y otro hardware de Apple."
+                "x": "Google anuncia cambios importantes en su software para el hogar inteligente. A partir del próximo año, la compañía cerrará la app Nest en favor de la app Google Home y retirará Google Assistant de sus dispositivos para el hogar inteligente."
               },
               {
                 "t": "p",
-                "x": "Hay pocos detalles sobre el tamaño del pedido, las especificaciones y los objetivos de lanzamiento al mercado, y el informe se basa en fuentes anónimas de la cadena de suministro."
+                "x": "El cierre de la app Nest será el 25 de enero de 2027, por lo que habrá que gestionar los productos Nest, incluidos los termostatos Nest, las cámaras y las alarmas Nest Protect, desde la app Google Home. Si ya se ha configurado la app Google Home, Google trasladará los dispositivos Nest, incluidas las cámaras y el historial de video, a la app Home ese mismo 25 de enero. La compañía también transferirá automáticamente las suscripciones a Nest Aware (1.ª generación) a Google Home Premium. Google indica que empezará a borrar los datos de las cuentas Nest el 25 de marzo de 2027."
               },
               {
                 "t": "p",
-                "x": "A principios de este año, el analista de TF International Securities Ming-Chi Kuo informó de que la compañía trabaja en un smartphone muy centrado en experiencias de AI agéntica, y que MediaTek parecía mejor situada que Qualcomm para suministrar el procesador. Kuo señaló a Luxshare, no a Foxconn, como socio exclusivo de diseño y fabricación del teléfono, por lo que no está claro cómo encajan ambos informes."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+                "x": "Los cambios en Google Assistant llegarán más tarde: el 2 de agosto de 2027, el asistente de voz Gemini for Home sustituirá a Google Assistant en altavoces y pantallas inteligentes, según la compañía. Google sostiene que Gemini for Home permite hacer preguntas más complejas y hablar con naturalidad, sin necesidad de usar comandos específicos ni un lenguaje determinado."
               },
               {
                 "t": "p",
-                "x": "OpenAI ha guardado silencio sobre sus planes de smartphone, pero desarrolla hardware AI-first con io, la empresa fundada por el exjefe de diseño de Apple Jony Ive. Entrar en el mercado no será fácil: Google ha apostado todo por la AI con Android, y Apple ha encontrado su ritmo con Siri AI. Es poco probable que OpenAI desarrolle su propio sistema operativo."
+                "x": "Gemini for Home se anunció el año pasado, así que no sorprende demasiado que Google deje atrás a Google Assistant en el hogar inteligente (sobre todo porque la compañía ya retiró Google Assistant de los teléfonos a principios de este año). La compañía dice que planea compartir más novedades sobre los cambios antes de la transición de agosto de 2027."
               }
             ]
           }
@@ -365,225 +325,189 @@
       }
     },
     {
-      "id": "pebble-index01-ring-review",
+      "id": "nothing-ai-device-dec8-design",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pebble, 기능 하나를\nIndex 01로 제품화",
-      "body": "AI 허점과 충전 불가 배터리에도 Engadget은 이 반지에 8/10점을 줬다.",
-      "mini_headline": "Pebble의 단일 기능 AI 반지",
+      "headline": "Nothing AI 기기\n12월 8일 공개",
+      "body": "12월 8일 나올 Nothing AI 기기는 전자담배 두 개를 붙인 모양새다.",
+      "mini_headline": "Nothing AI 기기 12월 8일 공개",
       "tool": "Gadgets",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
+      "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-            "cap": "Daniel Cooper for Engadget"
+            "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
           },
           {
             "t": "p",
-            "x": "평점: 8/10. 장점: 단순하고 저렴하며 쓰기 쉽다. 단점: 용도가 하나뿐이고, Pebble의 AI가 완벽하지 않으며, 배터리를 충전할 수 없다."
+            "x": "Carl Pei답게 Nothing이 신제품 정보를 조금씩 흘리기 시작했다. 회사는 금요일, “새 화면 없이, 앱으로는 만들 수 없었던 경험”을 담은 새 “AI-native 기기”를 12월 8일 공식 공개한다고 밝혔다. 소식이 그것뿐이었다면 이 기사를 쓸 일도 없었다. 그런데 뜻밖의 출처에서 기기 사진이 나왔고, 과일향 니코틴 연기처럼 소셜 미디어에 느릿하게 퍼졌다."
           },
           {
             "t": "p",
-            "x": "Index 01은 검지에 끼우는 $75짜리 스테인리스 스틸 반지로, 스마트 기능은 없다. 물리 버튼 하나와 RGB LED, 근거리 마이크, Bluetooth에 충전이 안 되는 산화은 배터리가 들어갔다. 배터리는 이삼 년 갈 것으로 본다. 교체용 반지를 살 때는 재활용할 수 있게 기존 반지를 돌려보내 달라는 게 Pebble의 요청이다."
+            "x": "수요일 10:28PM ET, 하우스 음악 트리오 Swedish House Mafia의 DJ Sebastian Ingrosso가 Nothing 공식 X 계정을 태그한 사진을 소셜 미디어에 올렸다. Nothing Headphone 1 Pro 헤드폰과 MacBook Pro 사이에 Nothing이 말한 화면 없는 기기와 꼭 맞아떨어지는 장치가 놓여 있다. 한 X 사용자는 Ingrosso의 사진에 “Bro... y u leak?”이라고 댓글을 달았다. Nothing이 계획한 마케팅 이벤트일까? (당연히 그렇다.) 판단은 각자에게 맡긴다."
           },
           {
             "t": "p",
-            "x": "버튼을 누른 채 말하면 Pebble이 자체 개발한 AI인 Index Agent로 넘어가거나 로컬에서 처리되고, 약 10초면 휴대폰에서 처리가 끝난다. 메모, 리마인더, 쇼핑 목록, 타이머는 흠잡을 데 없이 작동했다. 일정 질문은 웹 검색보다 훨씬 믿을 만했는데, 웹 검색에서는 에이전트가 축구 감독 관련 질문으로 체면을 구겼다. 다른 AI 에이전트나 웹훅, MCP 서버로 보내도록 설정할 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-            "cap": "Daniel Cooper for Engadget"
+            "x": "도무지 넘어가지지 않는 건 생김새다. 전자담배 두 개를 붙여 놓은 것 같다. 회사가 공개한 티저를 보면 카메라도 최소 하나 달렸는데, 일종의 시각 인식용으로 보인다. 실물을 보기 전까지 판단은 미루겠지만, 지금으로선 Nothing 디자인팀의 보기 드문 실책 같다."
           },
           {
             "t": "p",
-            "x": "Index 01은 원래라면 소프트웨어 기능에 그쳤을 것을 손에 잡히는 물건으로 만든 제품이다. 꼭 필요한 사람은 없지만, 이 가격이라면 부담 없는 기기로서 누구의 예상보다 훨씬 많은 사람의 일상에 자리 잡을 수도 있다."
+            "x": "농담은 접어 두더라도 Nothing이 이 기기를 어떻게 내세울지는 지켜볼 만하다. AI 기기의 전력이 그리 밝지 않아서다. Humane은 지난해 초 사업을 접었고, Rabbit은 R1 출시 이후 그럭저럭 버티는 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pebble's Index 01 ring makes\none feature the product",
-          "body": "Engadget scores the cheap, single-purpose ring 8/10, despite imperfect AI and a battery you can't recharge.",
-          "mini_headline": "Pebble's one-trick AI ring",
+          "headline": "Nothing's AI device\ndebuts December 8",
+          "body": "Nothing will debut its AI device on December 8, and a photo posted by a DJ shows it looks like two vapes stuck together.",
+          "mini_headline": "Nothing AI device\non December 8",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "Rating: 8/10. Pros: simple, affordable, easy to use. Cons: single use, Pebble's AI isn't perfect, non-rechargeable battery."
+                "x": "In classic Carl Pei fashion, Nothing has begun to trickle out details about its latest product. On Friday the company shared that it plans to officially debut the new \"AI-native device\" with \"no new screen and an experience that couldn't have been built as an app,\" on December 8. And if that was all there was to report, we probably wouldn't be publishing this story, but a photo of gadget has lazily drifted across social media like a fat cloud of fruit-flavored nicotine, thanks an unlikely source."
               },
               {
                 "t": "p",
-                "x": "The Index 01 is a $75 non-smart, stainless steel ring for your index finger with a single physical button, an RGB LED, a short range microphone, Bluetooth and a non-rechargeable silver oxide battery expected to last between two and three years. Pebble asks you to send the old ring back for recycling when you buy a replacement."
+                "x": "On Wednesday at 10:28PM ET, Sebastian Ingrosso of house music trio Swedish House Mafia posted a photo on social media with Nothing's official X account tagged. Between a pair of Nothing Headphone 1 Pro headphones and a MacBook Pro, we can see a device that clearly fits the description of a screenless gadget like the one described by Nothing. \"Bro... y u leak?\" one X user wrote in response to the Ingrosso's photo. Is this a coordinated marketing stunt by Nothing? (Yes, duh.) Decide for yourself."
               },
               {
                 "t": "p",
-                "x": "Hold the button and talk, and your words go to Pebble's homegrown AI, Index Agent, or can be processed locally; within about 10 seconds it's handled on your phone. Notes, reminders, shopping lists and timers have worked flawlessly. Questions about your schedule were far more reliable than web lookups, where the agent embarrassed itself on a soccer manager question. You can also route it to another AI agent, a webhook or an MCP server."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "The one thing I can't get over is the fact that it looks like two vapes put together. Judging from the teaser the company shared, it also has at least one camera, likely for some kind of visual intelligence feature. We'll reserve judgment until we see the new device in person, but right now it looks like a rare miss by Nothing's design team."
               },
               {
                 "t": "p",
-                "x": "The Index 01 is a physical manifestation of what would otherwise be a software feature — nobody really needs it, but at this price it's a low-investment gadget that might become an integral part of far more people's days than anyone expects."
+                "x": "Joking aside, it will be interesting to see how Nothing positions this device; the track record for AI gadgets isn't exactly encouraging. Humane went out of business at the start of last year, and Rabbit has sort of plodded along ever since the debut of the R1."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pebble, 기능 하나를\nIndex 01로 제품화",
-          "body": "AI 허점과 충전 불가 배터리에도 Engadget은 이 반지에 8/10점을 줬다.",
-          "mini_headline": "Pebble의 단일 기능 AI 반지",
+          "headline": "Nothing AI 기기\n12월 8일 공개",
+          "body": "12월 8일 나올 Nothing AI 기기는 전자담배 두 개를 붙인 모양새다.",
+          "mini_headline": "Nothing AI 기기 12월 8일 공개",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "평점: 8/10. 장점: 단순하고 저렴하며 쓰기 쉽다. 단점: 용도가 하나뿐이고, Pebble의 AI가 완벽하지 않으며, 배터리를 충전할 수 없다."
+                "x": "Carl Pei답게 Nothing이 신제품 정보를 조금씩 흘리기 시작했다. 회사는 금요일, “새 화면 없이, 앱으로는 만들 수 없었던 경험”을 담은 새 “AI-native 기기”를 12월 8일 공식 공개한다고 밝혔다. 소식이 그것뿐이었다면 이 기사를 쓸 일도 없었다. 그런데 뜻밖의 출처에서 기기 사진이 나왔고, 과일향 니코틴 연기처럼 소셜 미디어에 느릿하게 퍼졌다."
               },
               {
                 "t": "p",
-                "x": "Index 01은 검지에 끼우는 $75짜리 스테인리스 스틸 반지로, 스마트 기능은 없다. 물리 버튼 하나와 RGB LED, 근거리 마이크, Bluetooth에 충전이 안 되는 산화은 배터리가 들어갔다. 배터리는 이삼 년 갈 것으로 본다. 교체용 반지를 살 때는 재활용할 수 있게 기존 반지를 돌려보내 달라는 게 Pebble의 요청이다."
+                "x": "수요일 10:28PM ET, 하우스 음악 트리오 Swedish House Mafia의 DJ Sebastian Ingrosso가 Nothing 공식 X 계정을 태그한 사진을 소셜 미디어에 올렸다. Nothing Headphone 1 Pro 헤드폰과 MacBook Pro 사이에 Nothing이 말한 화면 없는 기기와 꼭 맞아떨어지는 장치가 놓여 있다. 한 X 사용자는 Ingrosso의 사진에 “Bro... y u leak?”이라고 댓글을 달았다. Nothing이 계획한 마케팅 이벤트일까? (당연히 그렇다.) 판단은 각자에게 맡긴다."
               },
               {
                 "t": "p",
-                "x": "버튼을 누른 채 말하면 Pebble이 자체 개발한 AI인 Index Agent로 넘어가거나 로컬에서 처리되고, 약 10초면 휴대폰에서 처리가 끝난다. 메모, 리마인더, 쇼핑 목록, 타이머는 흠잡을 데 없이 작동했다. 일정 질문은 웹 검색보다 훨씬 믿을 만했는데, 웹 검색에서는 에이전트가 축구 감독 관련 질문으로 체면을 구겼다. 다른 AI 에이전트나 웹훅, MCP 서버로 보내도록 설정할 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "도무지 넘어가지지 않는 건 생김새다. 전자담배 두 개를 붙여 놓은 것 같다. 회사가 공개한 티저를 보면 카메라도 최소 하나 달렸는데, 일종의 시각 인식용으로 보인다. 실물을 보기 전까지 판단은 미루겠지만, 지금으로선 Nothing 디자인팀의 보기 드문 실책 같다."
               },
               {
                 "t": "p",
-                "x": "Index 01은 원래라면 소프트웨어 기능에 그쳤을 것을 손에 잡히는 물건으로 만든 제품이다. 꼭 필요한 사람은 없지만, 이 가격이라면 부담 없는 기기로서 누구의 예상보다 훨씬 많은 사람의 일상에 자리 잡을 수도 있다."
+                "x": "농담은 접어 두더라도 Nothing이 이 기기를 어떻게 내세울지는 지켜볼 만하다. AI 기기의 전력이 그리 밝지 않아서다. Humane은 지난해 초 사업을 접었고, Rabbit은 R1 출시 이후 그럭저럭 버티는 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pebbleは単機能を\nIndex 01で製品化",
-          "body": "Engadgetは、AIに難があり充電もできない安価な単機能リングに8/10 を付けた。",
-          "mini_headline": "Pebbleの単機能AIリング",
+          "headline": "NothingのAIデバイス\n12月8日にデビュー",
+          "body": "NothingのAIデバイスは12月8日発表、見た目は電子タバコ2本をつなげた形だ。",
+          "mini_headline": "NothingのAIデバイス、12月8日発表",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "評価：8/10。長所：シンプル、手頃、使いやすい。短所：用途が一つだけ、PebbleのAIは完璧ではない、バッテリーは充電不可。"
+                "x": "Carl Peiらしいやり方で、Nothingは最新製品の詳細を小出しにし始めた。同社は金曜日、「新しい画面がなく、アプリでは作れなかった体験」を備えた新しい「AI-native device」を12月8日に正式発表する予定だと明らかにした。それだけなら記事にはしなかっただろうが、意外な人物のおかげで、この端末の写真がフルーツ味のニコチンの煙のようにソーシャルメディアをふわふわと漂った。"
               },
               {
                 "t": "p",
-                "x": "Index 01は人差し指にはめる$75のステンレススチール製リングで、スマート機能は持たない。物理ボタン一つ、RGB LED、近距離マイク、Bluetooth、そして二～三年もつとされる充電不可の酸化銀電池を備える。Pebbleは買い替えの際、古いリングをリサイクルのため返送するよう求めている。"
+                "x": "水曜日の10:28PM ET、ハウスミュージックのトリオSwedish House MafiaのDJ、Sebastian IngrossoがNothingの公式Xアカウントをタグ付けした写真をソーシャルメディアに投稿した。Nothing Headphone 1 ProヘッドホンとMacBook Proの間に、Nothingが説明した画面のないガジェットにぴったり当てはまる端末が写っている。あるXユーザーはIngrossoの写真に「Bro... y u leak?」と返信した。これはNothingによる仕組まれたマーケティングなのか？（もちろんそうだ。）判断は各自に任せたい。"
               },
               {
                 "t": "p",
-                "x": "ボタンを押しながら話すと、その言葉はPebble独自のAI「Index Agent」に送られるか、ローカルで処理され、約10秒以内にスマートフォン上で処理される。メモ、リマインダー、買い物リスト、タイマーは問題なく動いた。予定に関する質問はウェブ検索よりはるかに信頼でき、ウェブ検索ではエージェントがサッカー監督に関する質問で醜態をさらした。別のAIエージェントやウェブフック、MCPサーバーに送ることもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "どうしても気になるのは、電子タバコを2本くっつけたように見えることだ。同社が公開したティーザーからすると、少なくとも1台のカメラも搭載しており、何らかの視覚インテリジェンス機能用とみられる。実機を見るまで評価は控えるが、現時点ではNothingのデザインチームには珍しい失敗に見える。"
               },
               {
                 "t": "p",
-                "x": "Index 01は、本来ならソフトウェアの一機能にすぎないものを物理的な形にしたものだ。本当に必要な人はいないが、この価格なら投資の小さいガジェットであり、誰の予想よりもはるかに多くの人の日常に欠かせない存在になるかもしれない。"
+                "x": "冗談はさておき、Nothingがこの端末をどう位置づけるかは興味深い。AIガジェットの実績は決して芳しくない。Humaneは昨年初めに事業を畳み、RabbitはR1の発売以来どうにか細々と続いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pebble把单一功能\n做成Index 01戒指",
-          "body": "尽管AI不完美、电池不能充电，Engadget仍给这款廉价单一用途戒指打出8/10分。",
-          "mini_headline": "Pebble单一用途AI戒指",
+          "headline": "Nothing AI设备\n12月8日亮相",
+          "body": "Nothing将于12月8日发布AI设备，DJ晒出的照片显示它像两支电子烟粘在一起。",
+          "mini_headline": "Nothing AI设备12月8日亮相",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "评分：8/10。优点：简单、实惠、易用。缺点：用途单一，Pebble的AI并不完美，电池不可充电。"
+                "x": "Nothing延续Carl Pei一贯的风格，开始陆续透露新产品的细节。公司周五表示，计划于12月8日正式发布这款新的“AI-native device”，它“没有新屏幕，带来一种无法以应用形式实现的体验”。如果只有这些，我们大概不会写这篇报道，但多亏了一个意想不到的来源，这款设备的照片像一团浓浓的水果味尼古丁烟雾一样，在社交媒体上慢悠悠地飘散开来。"
               },
               {
                 "t": "p",
-                "x": "Index 01是一款售价$75、戴在食指上的不锈钢戒指，没有智能功能，配有一个实体按键、RGB LED、短距离麦克风、Bluetooth，以及预计可用两到三年的不可充电氧化银电池。Pebble要求用户在购买替换戒指时将旧戒指寄回回收。"
+                "x": "周三10:28PM ET，浩室音乐三人组Swedish House Mafia的DJ Sebastian Ingrosso在社交媒体上发布了一张照片，并标记了Nothing的官方X账号。在一副Nothing Headphone 1 Pro耳机和一台MacBook Pro之间，可以看到一台明显符合Nothing所描述的无屏设备。一位X用户回复Ingrosso的照片：“Bro... y u leak?”这是Nothing精心策划的营销噱头吗？（当然是。）请自行判断。"
               },
               {
                 "t": "p",
-                "x": "按住按键说话，你的话会发送到Pebble自研的AI——Index Agent，也可在本地处理；约10秒内即可在手机上完成处理。笔记、提醒、购物清单和计时器都运行得完美无缺。关于日程的提问远比网络查询可靠，后者在一个关于足球主教练的问题上出了丑。你也可以把它转给其他AI智能体、webhook或MCP服务器。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "我最无法释怀的是，它看起来就像两支电子烟拼在一起。从公司发布的预告来看，它还至少有一个摄像头，很可能用于某种视觉智能功能。在亲眼见到实物之前我们暂不下定论，但目前看来，这是Nothing设计团队少见的失手。"
               },
               {
                 "t": "p",
-                "x": "Index 01把原本只是软件功能的东西变成了实体——没人真正需要它，但以这个价格，它是一款投入很低的小设备，可能会比任何人预期的更多地融入人们的日常。"
+                "x": "玩笑归玩笑，Nothing将如何定位这款设备值得关注；AI硬件的过往记录并不令人鼓舞。Humane在去年年初倒闭，而Rabbit自推出R1以来一直不温不火。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El anillo Index 01 de Pebble\nhace de una función el producto",
-          "body": "Engadget da un 8/10 a este anillo barato y de un solo uso, pese a su AI imperfecta y su batería no recargable.",
-          "mini_headline": "El anillo con AI de un solo uso de Pebble",
+          "headline": "El dispositivo de IA de Nothing\nse presenta el 8 de diciembre",
+          "body": "Nothing lanzará su dispositivo de IA el 8 de diciembre, y una foto de un DJ muestra que parece dos vapeadores unidos.",
+          "mini_headline": "Dispositivo de IA de Nothing, 8 de diciembre",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "Valoración: 8/10. A favor: sencillo, asequible, fácil de usar. En contra: un solo uso, la AI de Pebble no es perfecta, batería no recargable."
+                "x": "Fiel al estilo de Carl Pei, Nothing ha empezado a dosificar detalles de su último producto. El viernes, la compañía anunció que planea presentar oficialmente el 8 de diciembre su nuevo “AI-native device”, con “ninguna pantalla nueva y una experiencia que no se habría podido crear como una app”. Si eso fuera todo, probablemente no publicaríamos esta nota, pero una foto del aparato ha flotado perezosamente por las redes sociales como una densa nube de nicotina con sabor a fruta, gracias a una fuente inesperada."
               },
               {
                 "t": "p",
-                "x": "El Index 01 es un anillo de acero inoxidable sin funciones inteligentes, de $75, para el dedo índice, con un único botón físico, un RGB LED, un micrófono de corto alcance, Bluetooth y una batería de óxido de plata no recargable que debería durar entre dos y tres años. Pebble pide devolver el anillo viejo para su reciclaje al comprar uno de reemplazo."
+                "x": "El miércoles a las 10:28PM ET, Sebastian Ingrosso, DJ del trío de música house Swedish House Mafia, publicó una foto en redes sociales etiquetando la cuenta oficial de Nothing en X. Entre unos auriculares Nothing Headphone 1 Pro y una MacBook Pro se ve un dispositivo que encaja claramente con la descripción del aparato sin pantalla que anunció Nothing. “Bro... y u leak?”, respondió un usuario de X a la foto de Ingrosso. ¿Es una maniobra de marketing coordinada por Nothing? (Sí, evidentemente.) Juzgue usted mismo."
               },
               {
                 "t": "p",
-                "x": "Se mantiene pulsado el botón y se habla, y las palabras van a la AI propia de Pebble, Index Agent, o pueden procesarse localmente; en unos 10 segundos se gestionan en el teléfono. Notas, recordatorios, listas de la compra y temporizadores han funcionado sin fallos. Las preguntas sobre la agenda fueron mucho más fiables que las búsquedas web, donde el agente hizo el ridículo con una pregunta sobre un entrenador de fútbol. También se puede enviar a otro agente de AI, a un webhook o a un servidor MCP."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "Lo que no logro superar es que parece dos vapeadores pegados. A juzgar por el adelanto que compartió la compañía, también tiene al menos una cámara, probablemente para algún tipo de función de inteligencia visual. Nos reservamos el juicio hasta ver el dispositivo en persona, pero por ahora parece un raro desacierto del equipo de diseño de Nothing."
               },
               {
                 "t": "p",
-                "x": "El Index 01 es la manifestación física de lo que de otro modo sería una función de software: nadie lo necesita realmente, pero a este precio es un gadget de baja inversión que podría convertirse en parte integral del día a día de muchas más personas de lo que nadie espera."
+                "x": "Bromas aparte, será interesante ver cómo posiciona Nothing este dispositivo; el historial de los aparatos de IA no es precisamente alentador. Humane cerró a comienzos del año pasado, y Rabbit ha avanzado a duras penas desde el lanzamiento del R1."
               }
             ]
           }
@@ -591,145 +515,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pebble, 기능 하나를\nIndex 01로 제품화",
-          "body": "Engadget은 AI의 허점과 충전 불가 배터리에도 반지에 8/10점을 줬다.",
-          "mini_headline": "Pebble의 단일 기능 AI 반지",
+          "headline": "Nothing AI 기기\n12월 8일 공개",
+          "body": "12월 8일 공개될 Nothing AI 기기는 전자담배 두 개를 붙인 모양이다.",
+          "mini_headline": "Nothing AI 기기 12월 8일 공개",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "평점: 8/10. 장점: 단순하고 저렴하며 쓰기 쉽다. 단점: 용도가 하나뿐이고, Pebble의 AI가 완벽하지 않으며, 배터리를 충전할 수 없다."
+                "x": "Carl Pei다운 방식으로 Nothing이 최신 제품의 세부 정보를 조금씩 흘리기 시작했다. 회사는 금요일, “새 화면 없이, 앱으로는 만들 수 없었던 경험”을 담은 새 “AI-native 기기”를 12월 8일 공식 공개할 계획이라고 밝혔다. 전할 소식이 그것뿐이었다면 이 기사를 쓰지 않았겠지만, 뜻밖의 출처 덕분에 이 기기의 사진이 과일향 니코틴 연기처럼 소셜 미디어에 느릿하게 퍼졌다."
               },
               {
                 "t": "p",
-                "x": "Index 01은 검지에 끼우는 $75짜리 스테인리스 스틸 반지로, 스마트 기능은 없다. 물리 버튼 하나와 RGB LED, 근거리 마이크, Bluetooth, 그리고 이삼 년 쓸 것으로 예상되는 충전 불가 산화은 배터리를 갖췄다. Pebble은 교체용 반지를 살 때 기존 반지를 재활용할 수 있도록 돌려보내 달라고 요청한다."
+                "x": "수요일 10:28PM ET, 하우스 음악 트리오 Swedish House Mafia의 DJ Sebastian Ingrosso가 Nothing 공식 X 계정을 태그한 사진을 소셜 미디어에 올렸다. Nothing Headphone 1 Pro 헤드폰과 MacBook Pro 사이로, Nothing이 설명한 화면 없는 기기와 딱 맞아떨어지는 장치가 보인다. 한 X 사용자는 Ingrosso의 사진에 “Bro... y u leak?”이라고 답했다. Nothing이 계획한 마케팅 이벤트일까? (당연히 그렇다.) 판단은 각자에게 맡긴다."
               },
               {
                 "t": "p",
-                "x": "버튼을 누른 채 말하면 그 내용이 Pebble이 자체 개발한 AI인 Index Agent로 전달되거나 로컬에서 처리되며, 약 10초 안에 휴대폰에서 처리가 끝난다. 메모, 리마인더, 쇼핑 목록, 타이머는 흠잡을 데 없이 작동했다. 일정에 관한 질문은 웹 검색보다 훨씬 믿을 만했는데, 웹 검색에서는 에이전트가 축구 감독 관련 질문으로 체면을 구겼다. 다른 AI 에이전트나 웹훅, MCP 서버로 보내도록 설정할 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "도무지 넘어가지지 않는 점은 전자담배 두 개를 붙여 놓은 것처럼 생겼다는 사실이다. 회사가 공개한 티저를 보면 카메라도 최소 하나 달려 있는데, 일종의 시각 인식 기능을 위한 것으로 보인다. 실물을 보기 전까지 판단은 미루겠지만, 지금으로서는 Nothing 디자인팀의 보기 드문 실책처럼 보인다."
               },
               {
                 "t": "p",
-                "x": "Index 01은 원래라면 소프트웨어 기능에 그쳤을 것을 물리적으로 구현한 제품이다. 꼭 필요한 사람은 없지만, 이 가격이라면 부담 없는 기기로서 누구의 예상보다 훨씬 많은 사람의 일상에 자리 잡을 수도 있다."
+                "x": "농담은 접어 두고, Nothing이 이 기기를 어떻게 자리매김할지는 지켜볼 만하다. AI 기기의 전력이 그리 고무적이지는 않기 때문이다. Humane은 지난해 초 사업을 접었고, Rabbit은 R1 출시 이후 그럭저럭 버티고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pebbleは単機能を\nIndex 01で製品化",
-          "body": "Engadgetは、AIに難があり充電もできない安価な単機能リングに8/10 を付けた。",
-          "mini_headline": "Pebbleの単機能AIリング",
+          "headline": "NothingのAIデバイス\n12月8日にデビュー",
+          "body": "NothingのAIデバイスは12月8日発表、見た目は電子タバコ2本をつなげた形だ。",
+          "mini_headline": "NothingのAIデバイス、12月8日発表",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "評価：8/10。長所：シンプル、手頃、使いやすい。短所：用途が一つだけ、PebbleのAIは完璧ではない、バッテリーは充電不可。"
+                "x": "Carl Peiらしいやり方で、Nothingは最新製品の詳細を小出しにし始めた。同社は金曜日、「新しい画面がなく、アプリでは作れなかった体験」を備えた新しい「AI-native device」を12月8日に正式発表する予定だと明らかにした。それだけなら記事にはしなかっただろうが、意外な人物のおかげで、この端末の写真がフルーツ味のニコチンの煙のようにソーシャルメディアをふわふわと漂った。"
               },
               {
                 "t": "p",
-                "x": "Index 01は人差し指にはめる$75のステンレススチール製リングで、スマート機能は持たない。物理ボタン一つ、RGB LED、近距離マイク、Bluetooth、そして二～三年もつとされる充電不可の酸化銀電池を備える。Pebbleは買い替えの際、古いリングをリサイクルのため返送するよう求めている。"
+                "x": "水曜日の10:28PM ET、ハウスミュージックのトリオSwedish House MafiaのDJ、Sebastian IngrossoがNothingの公式Xアカウントをタグ付けした写真をソーシャルメディアに投稿した。Nothing Headphone 1 ProヘッドホンとMacBook Proの間に、Nothingが説明した画面のないガジェットにぴったり当てはまる端末が写っている。あるXユーザーはIngrossoの写真に「Bro... y u leak?」と返信した。これはNothingによる仕組まれたマーケティングなのか？（もちろんそうだ。）判断は各自に任せたい。"
               },
               {
                 "t": "p",
-                "x": "ボタンを押しながら話すと、その言葉はPebble独自のAI「Index Agent」に送られるか、ローカルで処理され、約10秒以内にスマートフォン上で処理される。メモ、リマインダー、買い物リスト、タイマーは問題なく動いた。予定に関する質問はウェブ検索よりはるかに信頼でき、ウェブ検索ではエージェントがサッカー監督に関する質問で醜態をさらした。別のAIエージェントやウェブフック、MCPサーバーに送ることもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "どうしても気になるのは、電子タバコを2本くっつけたように見えることだ。同社が公開したティーザーからすると、少なくとも1台のカメラも搭載しており、何らかの視覚インテリジェンス機能用とみられる。実機を見るまで評価は控えるが、現時点ではNothingのデザインチームには珍しい失敗に見える。"
               },
               {
                 "t": "p",
-                "x": "Index 01は、本来ならソフトウェアの一機能にすぎないものを物理的な形にしたものだ。本当に必要な人はいないが、この価格なら投資の小さいガジェットであり、誰の予想よりもはるかに多くの人の日常に欠かせない存在になるかもしれない。"
+                "x": "冗談はさておき、Nothingがこの端末をどう位置づけるかは興味深い。AIガジェットの実績は決して芳しくない。Humaneは昨年初めに事業を畳み、RabbitはR1の発売以来どうにか細々と続いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pebble把单一功能\n做成Index 01戒指",
-          "body": "尽管AI不完美、电池不能充电，Engadget仍给这款廉价单一用途戒指打出8/10分。",
-          "mini_headline": "Pebble单一用途AI戒指",
+          "headline": "Nothing AI设备\n12月8日亮相",
+          "body": "Nothing将于12月8日发布AI设备，DJ晒出的照片显示它像两支电子烟粘在一起。",
+          "mini_headline": "Nothing AI设备12月8日亮相",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "评分：8/10。优点：简单、实惠、易用。缺点：用途单一，Pebble的AI并不完美，电池不可充电。"
+                "x": "Nothing延续Carl Pei一贯的风格，开始陆续透露新产品的细节。公司周五表示，计划于12月8日正式发布这款新的“AI-native device”，它“没有新屏幕，带来一种无法以应用形式实现的体验”。如果只有这些，我们大概不会写这篇报道，但多亏了一个意想不到的来源，这款设备的照片像一团浓浓的水果味尼古丁烟雾一样，在社交媒体上慢悠悠地飘散开来。"
               },
               {
                 "t": "p",
-                "x": "Index 01是一款售价$75、戴在食指上的不锈钢戒指，没有智能功能，配有一个实体按键、RGB LED、短距离麦克风、Bluetooth，以及预计可用两到三年的不可充电氧化银电池。Pebble要求用户在购买替换戒指时将旧戒指寄回回收。"
+                "x": "周三10:28PM ET，浩室音乐三人组Swedish House Mafia的DJ Sebastian Ingrosso在社交媒体上发布了一张照片，并标记了Nothing的官方X账号。在一副Nothing Headphone 1 Pro耳机和一台MacBook Pro之间，可以看到一台明显符合Nothing所描述的无屏设备。一位X用户回复Ingrosso的照片：“Bro... y u leak?”这是Nothing精心策划的营销噱头吗？（当然是。）请自行判断。"
               },
               {
                 "t": "p",
-                "x": "按住按键说话，你的话会发送到Pebble自研的AI——Index Agent，也可在本地处理；约10秒内即可在手机上完成处理。笔记、提醒、购物清单和计时器都运行得完美无缺。关于日程的提问远比网络查询可靠，后者在一个关于足球主教练的问题上出了丑。你也可以把它转给其他AI智能体、webhook或MCP服务器。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "我最无法释怀的是，它看起来就像两支电子烟拼在一起。从公司发布的预告来看，它还至少有一个摄像头，很可能用于某种视觉智能功能。在亲眼见到实物之前我们暂不下定论，但目前看来，这是Nothing设计团队少见的失手。"
               },
               {
                 "t": "p",
-                "x": "Index 01把原本只是软件功能的东西变成了实体——没人真正需要它，但以这个价格，它是一款投入很低的小设备，可能会比任何人预期的更多地融入人们的日常。"
+                "x": "玩笑归玩笑，Nothing将如何定位这款设备值得关注；AI硬件的过往记录并不令人鼓舞。Humane在去年年初倒闭，而Rabbit自推出R1以来一直不温不火。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El anillo Index 01 de Pebble\nhace de una función el producto",
-          "body": "Engadget da un 8/10 a este anillo barato y de un solo uso, pese a su AI imperfecta y su batería no recargable.",
-          "mini_headline": "El anillo con AI de un solo uso de Pebble",
+          "headline": "El dispositivo de IA de Nothing\nse presenta el 8 de diciembre",
+          "body": "Nothing lanzará su dispositivo de IA el 8 de diciembre, y una foto de un DJ muestra que parece dos vapeadores unidos.",
+          "mini_headline": "Dispositivo de IA de Nothing, 8 de diciembre",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/intro-1795097160.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
               },
               {
                 "t": "p",
-                "x": "Valoración: 8/10. A favor: sencillo, asequible, fácil de usar. En contra: un solo uso, la AI de Pebble no es perfecta, batería no recargable."
+                "x": "Fiel al estilo de Carl Pei, Nothing ha empezado a dosificar detalles de su último producto. El viernes, la compañía anunció que planea presentar oficialmente el 8 de diciembre su nuevo “AI-native device”, con “ninguna pantalla nueva y una experiencia que no se habría podido crear como una app”. Si eso fuera todo, probablemente no publicaríamos esta nota, pero una foto del aparato ha flotado perezosamente por las redes sociales como una densa nube de nicotina con sabor a fruta, gracias a una fuente inesperada."
               },
               {
                 "t": "p",
-                "x": "El Index 01 es un anillo de acero inoxidable sin funciones inteligentes, de $75, para el dedo índice, con un único botón físico, un RGB LED, un micrófono de corto alcance, Bluetooth y una batería de óxido de plata no recargable que debería durar entre dos y tres años. Pebble pide devolver el anillo viejo para su reciclaje al comprar uno de reemplazo."
+                "x": "El miércoles a las 10:28PM ET, Sebastian Ingrosso, DJ del trío de música house Swedish House Mafia, publicó una foto en redes sociales etiquetando la cuenta oficial de Nothing en X. Entre unos auriculares Nothing Headphone 1 Pro y una MacBook Pro se ve un dispositivo que encaja claramente con la descripción del aparato sin pantalla que anunció Nothing. “Bro... y u leak?”, respondió un usuario de X a la foto de Ingrosso. ¿Es una maniobra de marketing coordinada por Nothing? (Sí, evidentemente.) Juzgue usted mismo."
               },
               {
                 "t": "p",
-                "x": "Se mantiene pulsado el botón y se habla, y las palabras van a la AI propia de Pebble, Index Agent, o pueden procesarse localmente; en unos 10 segundos se gestionan en el teléfono. Notas, recordatorios, listas de la compra y temporizadores han funcionado sin fallos. Las preguntas sobre la agenda fueron mucho más fiables que las búsquedas web, donde el agente hizo el ridículo con una pregunta sobre un entrenador de fútbol. También se puede enviar a otro agente de AI, a un webhook o a un servidor MCP."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/wrap-up-1795097161.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "x": "Lo que no logro superar es que parece dos vapeadores pegados. A juzgar por el adelanto que compartió la compañía, también tiene al menos una cámara, probablemente para algún tipo de función de inteligencia visual. Nos reservamos el juicio hasta ver el dispositivo en persona, pero por ahora parece un raro desacierto del equipo de diseño de Nothing."
               },
               {
                 "t": "p",
-                "x": "El Index 01 es la manifestación física de lo que de otro modo sería una función de software: nadie lo necesita realmente, pero a este precio es un gadget de baja inversión que podría convertirse en parte integral del día a día de muchas más personas de lo que nadie espera."
+                "x": "Bromas aparte, será interesante ver cómo posiciona Nothing este dispositivo; el historial de los aparatos de IA no es precisamente alentador. Humane cerró a comienzos del año pasado, y Rabbit ha avanzado a duras penas desde el lanzamiento del R1."
               }
             ]
           }
@@ -737,15 +637,15 @@
       }
     },
     {
-      "id": "samsung-galaxyai-android-laptops",
+      "id": "rayban-meta-gen3-review",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Samsung, 노트북용\nGalaxy AI 준비",
-      "body": "One UI 9.5에서 노트북용 Galaxy AI와 Gauss 모델이 드러났다.",
-      "mini_headline": "Android 노트북용 Galaxy AI",
+      "headline": "Ray-Ban Meta\nGen 3 개선 적고 비싸",
+      "body": "Engadget은 Meta 최고급 AI 안경이 조금 나아졌지만 너무 비싸다고 봤다.",
+      "mini_headline": "Ray-Ban Meta Gen 3 리뷰",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-galaxy-ai-snapdragon-x-elite-android-laptops-apk-teardown-3737313/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -753,209 +653,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-            "cap": "Hadlee Simons / Android Authority"
+            "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
           },
           {
             "t": "p",
-            "x": "One UI 9.5 Beta 1의 코드를 보면 Samsung은 코드명 Origin인 Snapdragon X Elite-powered Android 노트북용 온디바이스 Galaxy AI 기능을 준비 중이다. 개발 중인 코드에서 나온 내용이라 실제로는 출시되지 않을 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "기기가 자체 칩에서 어떤 Galaxy AI 모델을 돌릴 수 있는지 정하는 앱 Samsung AI Core에 Snapdragon X Elite(sc8380) 항목이 새로 생겼다. 이 항목은 Generative Edit, in-painting과 out-painting, 하모나이제이션을 켜는 것으로 보인다. 지금으로선 이 노트북 칩이 받는 AI Core 기능이 Samsung 최신 폰보다 적다."
+            "x": "평점: 7.3/10. Meta의 세 번째 세대 Ray-Ban 안경은 겉모습이 조금 달라졌고 성능도 곳곳에서 조금씩 나아졌다. 프레임은 더 얇아진 Wayfarer, 새 캣아이 Zena, Aviator 세 가지이며 가격은 $449, Zena와 Aviator는 $529부터다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-            "cap": "AssembleDebug / Android Authority"
+            "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
           },
           {
             "t": "p",
-            "x": "Samsung Semantic Core는 이제 Gauss 언어 모델을 실행할 수 있는 칩 목록에 Snapdragon X Elite를 올렸고, 번역·시맨틱 검색·비전 모델도 지원하도록 설정돼 있다. 노트북에서도 Galaxy AI 글쓰기·번역 도구가 로컬로 돌아간다는 뜻으로 읽힌다."
+            "x": "Aviator 프레임은 너무 커서 자꾸 콧등 아래로 흘러내렸고, 다른 일부 Meta 안경과 달리 전문가가 조정해 줘야 한다. Gen 3에는 어떤 Meta AI 질의든 불러오는 맞춤형 단축키인 액션 버튼, \"최대 9시간\" 가는 배터리와 케이스로 더하는 50시간, 통화를 더 선명하게 해 주는 추가 마이크가 들어갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
           },
           {
             "t": "p",
-            "x": "Samsung의 Video Editor에는 \"Origin\"이라는 이름이 붙은 Snapdragon X Elite X1E-80-100 프로필이 추가됐고, Samsung 플래그십 폰과 같은 8K 편집 한도가 적용된다. Samsung은 아직 Android 노트북을 발표하지 않았다."
+            "x": "이제 Meta AI는 Muse Spark로 돌아가며, 대화가 더 자연스러워지고 오류도 줄었다. Meta는 아직 \"beta\" 단계인 Muse 에이전트를 안경에서 먼저 선보였다. 리뷰어는 AI 기능이 Meta One 구독을 밀어붙이는 수단이 될까 걱정한다. 새 설정에서는 안경의 \"visual data\"를 학습에 쓰지 못하게 막을 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+          },
+          {
+            "t": "p",
+            "x": "non-Ray-Ban Meta 안경도 $249부터 사실상 같은 기능을 갖췄고, Gen 2는 $349, Gen 1 $224다. 결국 Gen 3를 고를 이유는 Ray-Ban 스타일이나 조금 더 긴 배터리 수명 정도다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Samsung readies Galaxy AI\nfor Android laptops",
-          "body": "A One UI 9.5 teardown shows Galaxy AI photo tools and the Gauss model readied for Snapdragon X Elite laptops.",
-          "mini_headline": "Galaxy AI for Android laptops",
+          "headline": "Ray-Ban Meta Gen 3 brings\nminor upgrades at a steep price",
+          "body": "Engadget finds Meta's top AI glasses only slightly better than recent models, with minor upgrades that cost too much.",
+          "mini_headline": "Ray-Ban Meta\nGen 3 review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "Code in One UI 9.5 Beta 1 reveals that Samsung is preparing on-device Galaxy AI features for its upcoming Snapdragon X Elite-powered Android laptops, codenamed Origin. This reporting is based on work-in-progress code; these features may not ship."
-              },
-              {
-                "t": "p",
-                "x": "Samsung AI Core, the app that decides which Galaxy AI models a device can run on its own chip, gets a new entry for the Snapdragon X Elite (sc8380) that seemingly turns on Generative Edit, in-painting and out-painting, and harmonization. For now, the laptop chip gets fewer AI Core features than Samsung's recent phones."
+                "x": "Rating: 7.3/10. Meta's third-generation Ray-Ban glasses get cosmetic updates and a few performance upgrades around the edges. They come in three frame styles — a slimmer Wayfarer, the new cat-eye Zena and Aviator — at $449, while Zena and Aviator start at $529."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Core now lists the Snapdragon X Elite among the chips that can run its Gauss language model, and it's also set up for translation, semantic search and vision models — pointing to Galaxy AI writing and translation tools running locally on the laptops."
+                "x": "The Aviator frames felt oversized and kept slipping down the nose; unlike some other Meta glasses, they need to be adjusted professionally. Gen 3 adds the action button, a customizable shortcut for any Meta AI query, battery life of \"up to 9 hours\" plus 50 hours from the case, and an extra microphone for clearer calls."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung's Video Editor added a Snapdragon X Elite X1E-80-100 profile labeled \"Origin\" with the same 8K editing limits as Samsung's flagship phones. Samsung hasn't announced its Android laptops yet."
+                "x": "Meta AI is now powered by Muse Spark, which made conversations feel more natural and reduced errors. Meta previewed its Muse agent on the glasses, still in \"beta,\" and the reviewer worries AI features will push Meta One subscriptions. A new setting lets you opt out of training on \"visual data\" from the glasses."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meta's non-Ray-Ban glasses offer basically the same features from $249, Gen 2 is $349 and Gen 1 $224, so the only reasons to choose Gen 3 are the Ray-Ban styles or the extra bit of battery life."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Samsung, 노트북용\nGalaxy AI 준비",
-          "body": "One UI 9.5에서 노트북용 Galaxy AI와 Gauss 모델이 드러났다.",
-          "mini_headline": "Android 노트북용 Galaxy AI",
+          "headline": "Ray-Ban Meta\nGen 3 개선 적고 비싸",
+          "body": "Engadget은 Meta 최고급 AI 안경이 조금 나아졌지만 너무 비싸다고 봤다.",
+          "mini_headline": "Ray-Ban Meta Gen 3 리뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9.5 Beta 1의 코드를 보면 Samsung은 코드명 Origin인 Snapdragon X Elite-powered Android 노트북용 온디바이스 Galaxy AI 기능을 준비 중이다. 개발 중인 코드에서 나온 내용이라 실제로는 출시되지 않을 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "기기가 자체 칩에서 어떤 Galaxy AI 모델을 돌릴 수 있는지 정하는 앱 Samsung AI Core에 Snapdragon X Elite(sc8380) 항목이 새로 생겼다. 이 항목은 Generative Edit, in-painting과 out-painting, 하모나이제이션을 켜는 것으로 보인다. 지금으로선 이 노트북 칩이 받는 AI Core 기능이 Samsung 최신 폰보다 적다."
+                "x": "평점: 7.3/10. Meta의 세 번째 세대 Ray-Ban 안경은 겉모습이 조금 달라졌고 성능도 곳곳에서 조금씩 나아졌다. 프레임은 더 얇아진 Wayfarer, 새 캣아이 Zena, Aviator 세 가지이며 가격은 $449, Zena와 Aviator는 $529부터다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Core는 이제 Gauss 언어 모델을 실행할 수 있는 칩 목록에 Snapdragon X Elite를 올렸고, 번역·시맨틱 검색·비전 모델도 지원하도록 설정돼 있다. 노트북에서도 Galaxy AI 글쓰기·번역 도구가 로컬로 돌아간다는 뜻으로 읽힌다."
+                "x": "Aviator 프레임은 너무 커서 자꾸 콧등 아래로 흘러내렸고, 다른 일부 Meta 안경과 달리 전문가가 조정해 줘야 한다. Gen 3에는 어떤 Meta AI 질의든 불러오는 맞춤형 단축키인 액션 버튼, \"최대 9시간\" 가는 배터리와 케이스로 더하는 50시간, 통화를 더 선명하게 해 주는 추가 마이크가 들어갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung의 Video Editor에는 \"Origin\"이라는 이름이 붙은 Snapdragon X Elite X1E-80-100 프로필이 추가됐고, Samsung 플래그십 폰과 같은 8K 편집 한도가 적용된다. Samsung은 아직 Android 노트북을 발표하지 않았다."
+                "x": "이제 Meta AI는 Muse Spark로 돌아가며, 대화가 더 자연스러워지고 오류도 줄었다. Meta는 아직 \"beta\" 단계인 Muse 에이전트를 안경에서 먼저 선보였다. 리뷰어는 AI 기능이 Meta One 구독을 밀어붙이는 수단이 될까 걱정한다. 새 설정에서는 안경의 \"visual data\"를 학습에 쓰지 못하게 막을 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "non-Ray-Ban Meta 안경도 $249부터 사실상 같은 기능을 갖췄고, Gen 2는 $349, Gen 1 $224다. 결국 Gen 3를 고를 이유는 Ray-Ban 스타일이나 조금 더 긴 배터리 수명 정도다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Galaxy AIが\nAndroidノートPCへ",
-          "body": "One UI 9.5の解析でノートPC向けGalaxy AIとGaussの準備が判明した。",
-          "mini_headline": "Androidノート向けGalaxy AI",
+          "headline": "Ray-Ban Meta\nGen 3は高価な小改良",
+          "body": "EngadgetはMeta最上位のAIグラスを、改良が小さく割高だと評した。",
+          "mini_headline": "Ray-Ban Meta Gen 3レビュー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9.5 Beta 1のコードから、SamsungがコードネームOriginと呼ばれるSnapdragon X Elite-poweredのAndroidノートPC向けに、オンデバイスのGalaxy AI機能を準備していることが分かった。この報道は開発途中のコードに基づくもので、これらの機能が実際に提供されない可能性もある。"
-              },
-              {
-                "t": "p",
-                "x": "デバイスが自らのチップでどのGalaxy AIモデルを実行できるかを決めるアプリSamsung AI Coreに、Snapdragon X Elite（sc8380）の項目が新たに加わり、Generative Edit、in-paintingとout-painting、ハーモナイゼーションを有効にするとみられる。現時点では、このノートPC向けチップが得るAI Core機能はSamsungの最近のスマートフォンより少ない。"
+                "x": "評価：7.3/10。Metaの第三世代Ray-Banグラスは外観が少し変わり、性能も細かな部分でいくつか向上した。フレームはより細身になったWayfarer、新しいキャットアイ型のZena、Aviatorの三つのスタイルで、価格は$449、ZenaとAviatorは$529からだ。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Coreは、Gauss言語モデルを実行できるチップの一覧にSnapdragon X Eliteを加え、翻訳、セマンティック検索、ビジョンモデルにも対応するよう設定されている。ノートPC上でGalaxy AIの文章作成・翻訳ツールがローカルで動くことを示唆している。"
+                "x": "Aviatorのフレームは大きすぎて鼻からずり落ち続けた。ほかの一部のMetaグラスと違い、専門家による調整が必要だ。Gen 3にはMeta AIへのあらゆる問いかけを呼び出せるカスタマイズ可能なショートカット「アクションボタン」、「最大9時間」のバッテリー持続時間とケースによる50時間、通話をよりクリアにする追加マイクが加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "SamsungのVideo Editorには「Origin」と名付けられたSnapdragon X Elite X1E-80-100のプロファイルが追加され、Samsungのフラッグシップスマートフォンと同じ8K の編集上限が設定されている。SamsungはまだAndroidノートPCを発表していない。"
+                "x": "Meta AIは現在Muse Sparkで動いており、会話がより自然になり誤りも減った。Metaはまだ「beta」のMuseエージェントをグラス上で先行公開した。レビュアーはAI機能がMeta Oneのサブスクリプションへの誘導に使われることを懸念している。新しい設定では、グラスの「visual data」を学習に使わせないよう選べる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "non-Ray-BanのMetaグラスも$249から基本的に同じ機能を備え、Gen 2は$349、Gen 1 $224だ。Gen 3を選ぶ理由はRay-Banのスタイルか、わずかに長いバッテリー持続時間くらいしかない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Galaxy AI将登陆\nAndroid笔记本",
-          "body": "One UI 9.5代码显示，Galaxy AI照片工具与Gauss模型已为笔记本备妥。",
-          "mini_headline": "Android笔记本版Galaxy AI",
+          "headline": "Ray-Ban Meta\nGen 3小幅升级却价高",
+          "body": "Engadget认为Meta顶级AI眼镜仅比近期机型略好，小幅升级却定价过高。",
+          "mini_headline": "Ray-Ban Meta Gen 3评测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9.5 Beta 1中的代码显示，Samsung正在为即将推出、代号Origin的Snapdragon X Elite-powered Android笔记本电脑准备端侧Galaxy AI功能。该报道基于仍在开发中的代码，这些功能未必会推出。"
-              },
-              {
-                "t": "p",
-                "x": "Samsung AI Core是决定设备可在自身芯片上运行哪些Galaxy AI模型的应用，它新增了Snapdragon X Elite（sc8380）条目，似乎启用了Generative Edit、in-painting和out-painting以及画面协调功能。目前，这款笔记本芯片获得的AI Core功能少于Samsung近期的手机。"
+                "x": "评分：7.3/10。Meta第三代Ray-Ban眼镜在外观上略有更新，性能也在细节处有少许提升。共有三种镜框款式——更纤薄的Wayfarer、全新猫眼款Zena和Aviator——售价$449，Zena和Aviator起价$529。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Core现已将Snapdragon X Elite列入可运行其Gauss语言模型的芯片，并为翻译、语义搜索和视觉模型做好了设置——这表明Galaxy AI写作和翻译工具将在笔记本上本地运行。"
+                "x": "Aviator镜框显得过大，总是从鼻梁上往下滑；与其他一些Meta眼镜不同，它需要专业人员调整。Gen 3新增了操作按钮，这是一个可自定义的快捷键，可用于任何Meta AI查询；电池续航\"最长9小时\"，充电盒另可提供50小时；还增加了一个麦克风，让通话更清晰。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung的Video Editor新增了一个标注为“Origin”的Snapdragon X Elite X1E-80-100配置文件，其8K 编辑上限与Samsung旗舰手机相同。Samsung尚未发布其Android笔记本电脑。"
+                "x": "Meta AI现由Muse Spark驱动，对话更自然，错误也减少了。Meta在眼镜上预览了仍处于\"beta\"阶段的Muse智能体，评测者担心AI功能会被用来推销Meta One订阅。一项新设置允许用户拒绝将眼镜的\"visual data\"用于训练。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "non-Ray-Ban的Meta眼镜从$249起就提供基本相同的功能，Gen 2售价$349，Gen 1 $224，因此选择Gen 3的唯一理由是Ray-Ban的款式或稍长一点的续航。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung prepara Galaxy AI\npara portátiles Android",
-          "body": "El código de One UI 9.5 prepara Galaxy AI y el modelo Gauss para portátiles con Snapdragon X Elite.",
-          "mini_headline": "Galaxy AI para portátiles Android",
+          "headline": "Ray-Ban Meta Gen 3 trae\nmejoras menores a precio alto",
+          "body": "Para Engadget, las mejores gafas con AI de Meta apenas superan a modelos recientes y sus mejoras cuestan demasiado.",
+          "mini_headline": "Ray-Ban Meta Gen 3: análisis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "El código de One UI 9.5 Beta 1 revela que Samsung prepara funciones de Galaxy AI en el propio dispositivo para sus próximos portátiles Android, Snapdragon X Elite-powered y con nombre en clave Origin. Esta información se basa en código en desarrollo; estas funciones podrían no llegar a lanzarse."
-              },
-              {
-                "t": "p",
-                "x": "Samsung AI Core, la app que decide qué modelos de Galaxy AI puede ejecutar un dispositivo en su propio chip, recibe una nueva entrada para el Snapdragon X Elite (sc8380) que aparentemente activa Generative Edit, el in-painting y el out-painting, y la armonización. Por ahora, el chip del portátil recibe menos funciones de AI Core que los teléfonos recientes de Samsung."
+                "x": "Calificación: 7.3/10. Las gafas Ray-Ban de tercera generación de Meta reciben cambios estéticos y algunas mejoras de rendimiento en aspectos puntuales. Se ofrecen en tres estilos de montura —una Wayfarer más delgada, la nueva Zena tipo cat-eye y Aviator— a $449, mientras que Zena y Aviator parten de $529."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Core incluye ahora el Snapdragon X Elite entre los chips capaces de ejecutar su modelo de lenguaje Gauss, y también está configurado para traducción, búsqueda semántica y modelos de visión, lo que apunta a herramientas de escritura y traducción de Galaxy AI funcionando localmente en los portátiles."
+                "x": "La montura Aviator resultaba demasiado grande y se deslizaba por la nariz; a diferencia de otras gafas de Meta, requiere un ajuste profesional. Gen 3 añade el botón de acción, un atajo personalizable para cualquier consulta a Meta AI, una batería de \"hasta 9 horas\" más 50 horas desde el estuche y un micrófono adicional para llamadas más claras."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "El Video Editor de Samsung añadió un perfil de Snapdragon X Elite X1E-80-100 con la etiqueta \"Origin\" y los mismos límites de edición en 8K que los teléfonos insignia de Samsung. Samsung aún no ha anunciado sus portátiles Android."
+                "x": "Meta AI ahora funciona con Muse Spark, lo que hizo las conversaciones más naturales y redujo los errores. Meta mostró de forma preliminar su agente Muse en las gafas, aún en \"beta\", y al autor de la reseña le preocupa que las funciones de AI impulsen las suscripciones a Meta One. Un nuevo ajuste permite excluirse del entrenamiento con los \"visual data\" de las gafas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Las gafas non-Ray-Ban de Meta ofrecen básicamente las mismas funciones desde $249, Gen 2 cuesta $349 y Gen 1 $224, así que las únicas razones para elegir Gen 3 son los estilos Ray-Ban o un poco más de batería."
               }
             ]
           }
@@ -963,145 +899,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Samsung, 노트북용\nGalaxy AI 준비",
-          "body": "One UI 9.5에서 노트북용 Galaxy AI와 Gauss 모델이 드러났다.",
-          "mini_headline": "Android 노트북용 Galaxy AI",
+          "headline": "Ray-Ban Meta\nGen 3 비싼 소폭 개선",
+          "body": "Engadget은 Meta 최고급 AI 안경의 소폭 개선이 너무 비싸다고 평가했다.",
+          "mini_headline": "Ray-Ban Meta Gen 3 리뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9.5 Beta 1의 코드를 보면 Samsung이 코드명 Origin으로 불리는 Snapdragon X Elite-powered Android 노트북을 위해 온디바이스 Galaxy AI 기능을 준비하고 있다. 이 내용은 개발 중인 코드에 기반한 것으로, 해당 기능이 실제로 출시되지 않을 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "기기가 자체 칩에서 어떤 Galaxy AI 모델을 돌릴 수 있는지 정하는 앱 Samsung AI Core에 Snapdragon X Elite(sc8380) 항목이 새로 생겼고, 이 항목은 Generative Edit, in-painting과 out-painting, 하모나이제이션을 켜는 것으로 보인다. 현재로서는 이 노트북 칩이 받는 AI Core 기능이 Samsung의 최신 폰보다 적다."
+                "x": "평점: 7.3/10. Meta의 세 번째 세대 Ray-Ban 안경은 외관이 조금 바뀌고 성능도 군데군데 소폭 개선됐다. 프레임은 더 얇아진 Wayfarer, 새로운 캣아이 Zena, Aviator 등 세 가지 스타일로 나오며 가격은 $449, Zena와 Aviator는 $529부터 시작한다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Core는 이제 Gauss 언어 모델을 실행할 수 있는 칩 목록에 Snapdragon X Elite를 올렸고, 번역·시맨틱 검색·비전 모델도 지원하도록 설정돼 있다. 노트북에서 Galaxy AI 글쓰기·번역 도구가 로컬로 돌아갈 것임을 시사한다."
+                "x": "Aviator 프레임은 지나치게 커서 계속 콧등 아래로 흘러내렸고, 다른 일부 Meta 안경과 달리 전문가의 조정이 필요하다. Gen 3에는 어떤 Meta AI 질의든 불러올 수 있는 맞춤형 단축키인 액션 버튼, \"최대 9시간\"의 배터리 수명과 케이스로 더하는 50시간, 더 선명한 통화를 위한 추가 마이크가 들어갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung의 Video Editor에는 \"Origin\"이라는 이름이 붙은 Snapdragon X Elite X1E-80-100 프로필이 추가됐고, Samsung 플래그십 폰과 같은 8K 편집 한도가 적용된다. Samsung은 아직 Android 노트북을 발표하지 않았다."
+                "x": "이제 Meta AI는 Muse Spark로 구동되며, 대화가 더 자연스러워지고 오류도 줄었다. Meta는 아직 \"beta\" 단계인 Muse 에이전트를 안경에서 미리 선보였고, 리뷰어는 AI 기능이 Meta One 구독을 밀어붙이는 수단이 될까 우려한다. 새 설정으로 안경의 \"visual data\"를 학습에 쓰지 않도록 거부할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "non-Ray-Ban Meta 안경도 $249부터 사실상 같은 기능을 제공하고, Gen 2는 $349, Gen 1 $224다. 따라서 Gen 3를 고를 이유는 Ray-Ban 스타일이나 조금 더 긴 배터리 수명뿐이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Galaxy AIが\nAndroidノートPCへ",
-          "body": "One UI 9.5の解析でノートPC向けGalaxy AIとGaussの準備が判明した。",
-          "mini_headline": "Androidノート向けGalaxy AI",
+          "headline": "Ray-Ban Meta\nGen 3は高価な小改良",
+          "body": "EngadgetはMeta最上位のAIグラスを、改良が小さく割高だと評した。",
+          "mini_headline": "Ray-Ban Meta Gen 3レビュー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9.5 Beta 1のコードから、SamsungがコードネームOriginと呼ばれるSnapdragon X Elite-poweredのAndroidノートPC向けに、オンデバイスのGalaxy AI機能を準備していることが分かった。この報道は開発途中のコードに基づくもので、これらの機能が実際に提供されない可能性もある。"
-              },
-              {
-                "t": "p",
-                "x": "デバイスが自らのチップでどのGalaxy AIモデルを実行できるかを決めるアプリSamsung AI Coreに、Snapdragon X Elite（sc8380）の項目が新たに加わり、Generative Edit、in-paintingとout-painting、ハーモナイゼーションを有効にするとみられる。現時点では、このノートPC向けチップが得るAI Core機能はSamsungの最近のスマートフォンより少ない。"
+                "x": "評価：7.3/10。Metaの第三世代Ray-Banグラスは外観が少し変わり、性能も細かな部分でいくつか向上した。フレームはより細身になったWayfarer、新しいキャットアイ型のZena、Aviatorの三つのスタイルで、価格は$449、ZenaとAviatorは$529からだ。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Coreは、Gauss言語モデルを実行できるチップの一覧にSnapdragon X Eliteを加え、翻訳、セマンティック検索、ビジョンモデルにも対応するよう設定されている。ノートPC上でGalaxy AIの文章作成・翻訳ツールがローカルで動くことを示唆している。"
+                "x": "Aviatorのフレームは大きすぎて鼻からずり落ち続けた。ほかの一部のMetaグラスと違い、専門家による調整が必要だ。Gen 3にはMeta AIへのあらゆる問いかけを呼び出せるカスタマイズ可能なショートカット「アクションボタン」、「最大9時間」のバッテリー持続時間とケースによる50時間、通話をよりクリアにする追加マイクが加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "SamsungのVideo Editorには「Origin」と名付けられたSnapdragon X Elite X1E-80-100のプロファイルが追加され、Samsungのフラッグシップスマートフォンと同じ8K の編集上限が設定されている。SamsungはまだAndroidノートPCを発表していない。"
+                "x": "Meta AIは現在Muse Sparkで動いており、会話がより自然になり誤りも減った。Metaはまだ「beta」のMuseエージェントをグラス上で先行公開した。レビュアーはAI機能がMeta Oneのサブスクリプションへの誘導に使われることを懸念している。新しい設定では、グラスの「visual data」を学習に使わせないよう選べる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "non-Ray-BanのMetaグラスも$249から基本的に同じ機能を備え、Gen 2は$349、Gen 1 $224だ。Gen 3を選ぶ理由はRay-Banのスタイルか、わずかに長いバッテリー持続時間くらいしかない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Galaxy AI将登陆\nAndroid笔记本",
-          "body": "One UI 9.5代码显示，Galaxy AI照片工具与Gauss模型已为笔记本备妥。",
-          "mini_headline": "Android笔记本版Galaxy AI",
+          "headline": "Ray-Ban Meta\nGen 3小幅升级却价高",
+          "body": "Engadget认为Meta顶级AI眼镜仅比近期机型略好，小幅升级却定价过高。",
+          "mini_headline": "Ray-Ban Meta Gen 3评测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9.5 Beta 1中的代码显示，Samsung正在为即将推出、代号Origin的Snapdragon X Elite-powered Android笔记本电脑准备端侧Galaxy AI功能。该报道基于仍在开发中的代码，这些功能未必会推出。"
-              },
-              {
-                "t": "p",
-                "x": "Samsung AI Core是决定设备可在自身芯片上运行哪些Galaxy AI模型的应用，它新增了Snapdragon X Elite（sc8380）条目，似乎启用了Generative Edit、in-painting和out-painting以及画面协调功能。目前，这款笔记本芯片获得的AI Core功能少于Samsung近期的手机。"
+                "x": "评分：7.3/10。Meta第三代Ray-Ban眼镜在外观上略有更新，性能也在细节处有少许提升。共有三种镜框款式——更纤薄的Wayfarer、全新猫眼款Zena和Aviator——售价$449，Zena和Aviator起价$529。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Core现已将Snapdragon X Elite列入可运行其Gauss语言模型的芯片，并为翻译、语义搜索和视觉模型做好了设置——这表明Galaxy AI写作和翻译工具将在笔记本上本地运行。"
+                "x": "Aviator镜框显得过大，总是从鼻梁上往下滑；与其他一些Meta眼镜不同，它需要专业人员调整。Gen 3新增了操作按钮，这是一个可自定义的快捷键，可用于任何Meta AI查询；电池续航\"最长9小时\"，充电盒另可提供50小时；还增加了一个麦克风，让通话更清晰。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung的Video Editor新增了一个标注为“Origin”的Snapdragon X Elite X1E-80-100配置文件，其8K 编辑上限与Samsung旗舰手机相同。Samsung尚未发布其Android笔记本电脑。"
+                "x": "Meta AI现由Muse Spark驱动，对话更自然，错误也减少了。Meta在眼镜上预览了仍处于\"beta\"阶段的Muse智能体，评测者担心AI功能会被用来推销Meta One订阅。一项新设置允许用户拒绝将眼镜的\"visual data\"用于训练。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "non-Ray-Ban的Meta眼镜从$249起就提供基本相同的功能，Gen 2售价$349，Gen 1 $224，因此选择Gen 3的唯一理由是Ray-Ban的款式或稍长一点的续航。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Samsung prepara Galaxy AI\npara portátiles Android",
-          "body": "El código de One UI 9.5 prepara Galaxy AI y el modelo Gauss para portátiles con Snapdragon X Elite.",
-          "mini_headline": "Galaxy AI para portátiles Android",
+          "headline": "Ray-Ban Meta Gen 3 trae\nmejoras menores a precio alto",
+          "body": "Para Engadget, las mejores gafas con AI de Meta apenas superan a modelos recientes y sus mejoras cuestan demasiado.",
+          "mini_headline": "Ray-Ban Meta Gen 3: análisis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2023/10/Snapdragon-X-Elite-dummy-chip-resized.jpg",
-                "cap": "Hadlee Simons / Android Authority"
+                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
               },
               {
                 "t": "p",
-                "x": "El código de One UI 9.5 Beta 1 revela que Samsung prepara funciones de Galaxy AI en el propio dispositivo para sus próximos portátiles Android, Snapdragon X Elite-powered y con nombre en clave Origin. Esta información se basa en código en desarrollo; estas funciones podrían no llegar a lanzarse."
-              },
-              {
-                "t": "p",
-                "x": "Samsung AI Core, la app que decide qué modelos de Galaxy AI puede ejecutar un dispositivo en su propio chip, recibe una nueva entrada para el Snapdragon X Elite (sc8380) que aparentemente activa Generative Edit, el in-painting y el out-painting, y la armonización. Por ahora, el chip del portátil recibe menos funciones de AI Core que los teléfonos recientes de Samsung."
+                "x": "Calificación: 7.3/10. Las gafas Ray-Ban de tercera generación de Meta reciben cambios estéticos y algunas mejoras de rendimiento en aspectos puntuales. Se ofrecen en tres estilos de montura —una Wayfarer más delgada, la nueva Zena tipo cat-eye y Aviator— a $449, mientras que Zena y Aviator parten de $529."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Snapdragon-X-Elite-SoC-support-for-Samsung-AI-Core.jpg",
-                "cap": "AssembleDebug / Android Authority"
+                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
               },
               {
                 "t": "p",
-                "x": "Samsung Semantic Core incluye ahora el Snapdragon X Elite entre los chips capaces de ejecutar su modelo de lenguaje Gauss, y también está configurado para traducción, búsqueda semántica y modelos de visión, lo que apunta a herramientas de escritura y traducción de Galaxy AI funcionando localmente en los portátiles."
+                "x": "La montura Aviator resultaba demasiado grande y se deslizaba por la nariz; a diferencia de otras gafas de Meta, requiere un ajuste profesional. Gen 3 añade el botón de acción, un atajo personalizable para cualquier consulta a Meta AI, una batería de \"hasta 9 horas\" más 50 horas desde el estuche y un micrófono adicional para llamadas más claras."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
               },
               {
                 "t": "p",
-                "x": "El Video Editor de Samsung añadió un perfil de Snapdragon X Elite X1E-80-100 con la etiqueta \"Origin\" y los mismos límites de edición en 8K que los teléfonos insignia de Samsung. Samsung aún no ha anunciado sus portátiles Android."
+                "x": "Meta AI ahora funciona con Muse Spark, lo que hizo las conversaciones más naturales y redujo los errores. Meta mostró de forma preliminar su agente Muse en las gafas, aún en \"beta\", y al autor de la reseña le preocupa que las funciones de AI impulsen las suscripciones a Meta One. Un nuevo ajuste permite excluirse del entrenamiento con los \"visual data\" de las gafas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Las gafas non-Ray-Ban de Meta ofrecen básicamente las mismas funciones desde $249, Gen 2 cuesta $349 y Gen 1 $224, así que las únicas razones para elegir Gen 3 son los estilos Ray-Ban o un poco más de batería."
               }
             ]
           }
@@ -1109,15 +1069,15 @@
       }
     },
     {
-      "id": "switchbot-artframe2-weather",
+      "id": "phison-npu-ssd-sc26",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "SwitchBot 액자\n예보 따라 그림 바꾼다",
-      "body": "월 $3.99에 AI 그림 생성과 예보 맞춤 Weather Muse가 붙는다.",
-      "mini_headline": "날씨를 읽는 SwitchBot 액자",
+      "headline": "Phison, SSD에\nNPU·64GB 메모리",
+      "body": "Phison이 SC26에서 NPU와 64GB 메모리를 품은 SSD를 공개했다.",
+      "mini_headline": "Phison SSD에 NPU 탑재",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-with-upgraded-features-for-art-and-photo-lovers.1452825.0.html",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -1125,395 +1085,255 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-            "cap": "Switchbot AI Art Frame 2는 휴대폰과 카메라, 디지털 갤러리의 그림·사진을 E Ink 디스플레이를 단 전통 액자에 띄운다."
+            "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "Switchbot이 일본에서는 AI Art Canvas로도 불리는 AI Art Frame 2를 내놓았다. 컬러 E Ink Spectra 6 디스플레이는 최대 65,000가지 색을 내고, 띄워 둔 이미지를 유지하는 데는 전기가 들지 않는다. 내장 배터리로 최대 삼 년 동안 이미지를 바꿀 수 있다."
+            "x": "Phison은 Supercomputer 2026(SC26)에서 엔터프라이즈 SSD 설계 두 가지를 자세히 공개했다. 하나는 NPU와 130 GB/s 속도의 64GB 메모리를 품어 PyTorch, vLLM, OpenVINO, llama.cpp를 드라이브 안에서 바로 돌릴 수 있다. 다른 하나는 빠른 pSLC 캐시와 대용량 QLC를 컨트롤러 하나로 묶었다. 회사는 “언급된 제품과 기능 중 상당수는 아직 개발 중”이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "베젤은 호두나무색, 디스플레이는 무광이다. 오프라인으로 써도 되고 클라우드에 연결해 써도 된다. 16 GB 저장 공간에 이미지 약 5,000장이 들어가며, 스마트폰과 카메라, 노트북에서 원격으로 올리면 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-            "cap": "AI-powered 기능 Weather Muse는 그날 일기예보에 맞춰 그림을 알아서 바꾼다."
+            "x": "이 연산 스토리지 드라이브는 데이터가 있는 자리에서 AI 코드를 실행해 데이터셋 전체가 아닌 결과만 돌려보낸다. Phison은 이런 워크로드에서 전송 데이터가 10~100배 줄어들 수 있다고 주장한다. NPU는 “36,800 DMIPS의 연산 성능”을 낼 것으로 예상되지만 TOPS 수치는 나오지 않았다. 호스트가 드라이브의 연산 기능에 어떻게 접근하는지도 아직 알려지지 않았다."
           },
           {
             "t": "p",
-            "x": "Switchbot은 명화 500점을 무료로 주고, 월 $3.99를 구독하면 음성, 텍스트, image-to-image 방식으로 AI-generated 사진과 그림을 만들 수 있다. 그날 날씨에 맞춰 작품을 바꿔 주는 Weather Muse도 구독에 들어 있다. 사진은 액자를 세 번 두드리거나 음성 제어, 스마트폰 앱으로 바꾼다."
-          },
-          {
-            "t": "p",
-            "x": "13.3인치 AI Art Frame 2는 $399.99다. $169.99짜리 7.1인치 모델과 $1,399.99짜리 31.5인치 모델도 나와 있다."
-          },
-          {
-            "t": "video",
-            "yt": "Kk1L8B84w3Q"
+            "x": "Mixed Media 드라이브는 16채널 제품이다. pSLC와 QLC 영역에 네임스페이스를 따로 줘서 전용 캐시 드라이브가 필요 없다. Phison은 “드라이브 24개 중 하나를 잃으면 캐시 손실이 25%가 아니라 4%에 그친다”고 설명한다. Kioxia와 DapuStor도 비슷한 설계를 내놓은 적이 있다. 둘 중 출시에 더 가까워 보이는 쪽은 Mixed Media다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SwitchBot's AI Art Frame 2\npaints to the forecast",
-          "body": "Its $3.99 monthly plan adds AI art generation and a Weather Muse that matches the color E Ink art to the forecast.",
-          "mini_headline": "SwitchBot's weather-aware frame",
+          "headline": "Phison puts an NPU and\n64GB of memory in an SSD",
+          "body": "At SC26, Phison showed an SSD with a built-in NPU and 64GB of memory that runs PyTorch and llama.cpp on the drive.",
+          "mini_headline": "Phison SSD\ngets an NPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "The Switchbot AI Art Frame 2 showcases art and photos from phones, cameras, and digital galleries in a traditional picture frame with an E Ink display."
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbot has released the AI Art Frame 2, also called AI Art Canvas in Japan, with a color E Ink Spectra 6 display that can show up to 65,000 shades of color and needs no electricity to maintain an image. An internal battery powers image changes for up to three years."
+                "x": "Phison detailed two new enterprise SSD designs at Supercomputer 2026 (SC26): one with a built-in NPU and 64GB of 130 GB/s memory that supports running PyTorch, vLLM, OpenVINO, and llama.cpp directly on the drive, and another that merges fast pSLC cache with large QLC capacity behind just one controller. The company notes that “many of the products and features mentioned are still in development.”"
               },
               {
                 "t": "p",
-                "x": "It has a walnut-colored bezel and a matte display, works offline or cloud-connected, and has 16 GB of storage for around 5,000 images that can be uploaded remotely from smartphones, cameras and laptops."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "The AI-powered Weather Muse can automatically change art based on the day's weather forecast."
+                "x": "The computational-storage drive runs AI code on the data where it resides and sends back results instead of whole datasets, which Phison claims could mean 10 to 100 times less data transferred for applicable workloads. The NPU is expected to deliver “36,800 DMIPS of compute performance,” though no TOPS figure was given, and nothing was disclosed about how a host reaches the drive’s compute."
               },
               {
                 "t": "p",
-                "x": "Switchbot offers 500 famous works of art for free, and a $3.99 per month subscription enables voice, text, and image-to-image creation of AI-generated photos and art. The subscription provides access to Weather Muse, which can change the art work to match the weather of the day. Photos can be changed with a triple knock on the frame, voice control or the smartphone app."
-              },
-              {
-                "t": "p",
-                "x": "The 13.3-inch AI Art Frame 2 costs $399.99; a $169.99 7.1-inch model and a $1,399.99 31.5-inch model are also available."
-              },
-              {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El AI Art Frame 2 de SwitchBot\npinta según el pronóstico",
-          "body": "Su plan de $3.99 al mes añade arte creado con AI y Weather Muse, que adapta el arte E Ink en color al pronóstico.",
-          "mini_headline": "El marco de SwitchBot que sigue el tiempo",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "El Switchbot AI Art Frame 2 muestra arte y fotos de teléfonos, cámaras y galerías digitales en un marco tradicional con pantalla E Ink."
-              },
-              {
-                "t": "p",
-                "x": "Switchbot ha lanzado el AI Art Frame 2, también llamado AI Art Canvas en Japón (Japan), con una pantalla E Ink Spectra 6 a color que puede mostrar hasta 65,000 tonos de color y no necesita electricidad para mantener una imagen. Una batería interna alimenta los cambios de imagen durante hasta tres años."
-              },
-              {
-                "t": "p",
-                "x": "Tiene un bisel color nogal y una pantalla mate, funciona sin conexión o conectado a la nube y cuenta con 16 GB de almacenamiento para unas 5,000 imágenes, que se pueden subir a distancia desde smartphones, cámaras y portátiles."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "El Weather Muse AI-powered puede cambiar automáticamente el arte según el pronóstico del tiempo del día."
-              },
-              {
-                "t": "p",
-                "x": "Switchbot ofrece gratis 500 obras de arte famosas, y una suscripción de $3.99 al mes permite crear fotos y arte AI-generated por voz, texto e image-to-image. La suscripción da acceso a Weather Muse, que puede cambiar la obra para que coincida con el tiempo del día. Las fotos se pueden cambiar con tres golpes en el marco, control por voz o la app del smartphone."
-              },
-              {
-                "t": "p",
-                "x": "El AI Art Frame 2 de 13.3-inch cuesta $399.99; también hay un modelo de 7.1-inch por $169.99 y otro de 31.5-inch por $1,399.99."
-              },
-              {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
+                "x": "The Mixed Media drive is a 16-channel part whose pSLC and QLC regions get separate namespaces, so no dedicated cache drives are needed; “losing one drive out of 24 would result in a 4% cache loss instead of a 25% loss,” Phison says. Kioxia and DapuStor have shown similar designs. Of the two, Mixed Media looks like the nearer product."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SwitchBot 액자\n예보 따라 그림 바꾼다",
-          "body": "월 $3.99에 AI 그림 생성과 예보 맞춤 Weather Muse가 붙는다.",
-          "mini_headline": "날씨를 읽는 SwitchBot 액자",
+          "headline": "Phison, SSD에\nNPU·64GB 메모리",
+          "body": "Phison이 SC26에서 NPU와 64GB 메모리를 품은 SSD를 공개했다.",
+          "mini_headline": "Phison SSD에 NPU 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "Switchbot AI Art Frame 2는 휴대폰과 카메라, 디지털 갤러리의 그림·사진을 E Ink 디스플레이를 단 전통 액자에 띄운다."
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbot이 일본에서는 AI Art Canvas로도 불리는 AI Art Frame 2를 내놓았다. 컬러 E Ink Spectra 6 디스플레이는 최대 65,000가지 색을 내고, 띄워 둔 이미지를 유지하는 데는 전기가 들지 않는다. 내장 배터리로 최대 삼 년 동안 이미지를 바꿀 수 있다."
+                "x": "Phison은 Supercomputer 2026(SC26)에서 엔터프라이즈 SSD 설계 두 가지를 자세히 공개했다. 하나는 NPU와 130 GB/s 속도의 64GB 메모리를 품어 PyTorch, vLLM, OpenVINO, llama.cpp를 드라이브 안에서 바로 돌릴 수 있다. 다른 하나는 빠른 pSLC 캐시와 대용량 QLC를 컨트롤러 하나로 묶었다. 회사는 “언급된 제품과 기능 중 상당수는 아직 개발 중”이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "베젤은 호두나무색, 디스플레이는 무광이다. 오프라인으로 써도 되고 클라우드에 연결해 써도 된다. 16 GB 저장 공간에 이미지 약 5,000장이 들어가며, 스마트폰과 카메라, 노트북에서 원격으로 올리면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "AI-powered 기능 Weather Muse는 그날 일기예보에 맞춰 그림을 알아서 바꾼다."
+                "x": "이 연산 스토리지 드라이브는 데이터가 있는 자리에서 AI 코드를 실행해 데이터셋 전체가 아닌 결과만 돌려보낸다. Phison은 이런 워크로드에서 전송 데이터가 10~100배 줄어들 수 있다고 주장한다. NPU는 “36,800 DMIPS의 연산 성능”을 낼 것으로 예상되지만 TOPS 수치는 나오지 않았다. 호스트가 드라이브의 연산 기능에 어떻게 접근하는지도 아직 알려지지 않았다."
               },
               {
                 "t": "p",
-                "x": "Switchbot은 명화 500점을 무료로 주고, 월 $3.99를 구독하면 음성, 텍스트, image-to-image 방식으로 AI-generated 사진과 그림을 만들 수 있다. 그날 날씨에 맞춰 작품을 바꿔 주는 Weather Muse도 구독에 들어 있다. 사진은 액자를 세 번 두드리거나 음성 제어, 스마트폰 앱으로 바꾼다."
-              },
-              {
-                "t": "p",
-                "x": "13.3인치 AI Art Frame 2는 $399.99다. $169.99짜리 7.1인치 모델과 $1,399.99짜리 31.5인치 모델도 나와 있다."
-              },
-              {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
+                "x": "Mixed Media 드라이브는 16채널 제품이다. pSLC와 QLC 영역에 네임스페이스를 따로 줘서 전용 캐시 드라이브가 필요 없다. Phison은 “드라이브 24개 중 하나를 잃으면 캐시 손실이 25%가 아니라 4%에 그친다”고 설명한다. Kioxia와 DapuStor도 비슷한 설계를 내놓은 적이 있다. 둘 중 출시에 더 가까워 보이는 쪽은 Mixed Media다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SwitchBot AI額縁\n予報に合わせて絵を描く",
-          "body": "月額$3.99のプランでAI画像生成と予報連動のWeather Museが使える。",
-          "mini_headline": "天気を読むSwitchBotの額縁",
+          "headline": "Phison、SSDに\nNPUと64GBメモリ",
+          "body": "PhisonはSC26で、NPUと64GBメモリを内蔵したSSDを披露した。",
+          "mini_headline": "Phison SSDにNPU搭載",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "Switchbot AI Art Frame 2は、スマートフォンやカメラ、デジタルギャラリーのアートや写真を、E Inkディスプレイを備えた伝統的な額縁に表示する。"
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbotは、日本ではAI Art Canvasとも呼ばれるAI Art Frame 2を発売した。カラーE Ink Spectra 6ディスプレイは最大65,000色を表示でき、画像の保持に電力を必要としない。内蔵バッテリーで最大三年間、画像を切り替えられる。"
+                "x": "PhisonはSupercomputer 2026（SC26）で、エンタープライズ向けSSDの新設計2種を詳しく紹介した。1つはNPUと130 GB/sの64GBメモリを内蔵し、PyTorch、vLLM、OpenVINO、llama.cppをドライブ上で直接実行できるもの。もう1つは高速なpSLCキャッシュと大容量のQLCを1基のコントローラーにまとめたものだ。同社は「紹介した製品や機能の多くはまだ開発中」としている。"
               },
               {
                 "t": "p",
-                "x": "ウォールナット色のベゼルとマット仕上げのディスプレイを備え、オフラインでもクラウド接続でも使える。16 GBのストレージには約5,000枚の画像を保存でき、スマートフォンやカメラ、ノートパソコンからリモートでアップロードできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "AI-poweredのWeather Museは、その日の天気予報に応じてアートを自動で切り替えられる。"
+                "x": "このコンピュテーショナルストレージ・ドライブは、データが置かれた場所でAIコードを実行し、データセット全体ではなく結果だけを返す。Phisonによれば、対象となるワークロードでは転送データ量を10〜100分の1に減らせる可能性があるという。NPUは「36,800 DMIPSの演算性能」を発揮する見込みだが、TOPSの数値は示されず、ホストがドライブの演算機能にどうアクセスするかも明らかにされていない。"
               },
               {
                 "t": "p",
-                "x": "Switchbotは名画500点を無料で提供し、月額$3.99のサブスクリプションでは音声、テキスト、image-to-imageによるAI-generatedの写真やアートの作成が可能になる。サブスクリプションでは、その日の天気に合わせて作品を変えるWeather Museも利用できる。写真は額縁を三回ノックするか、音声操作やスマートフォンアプリで切り替えられる。"
-              },
-              {
-                "t": "p",
-                "x": "13.3インチのAI Art Frame 2は$399.99である。$169.99の7.1インチモデルと$1,399.99の31.5インチモデルも用意されている。"
-              },
-              {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
+                "x": "Mixed Mediaドライブは16チャネル構成で、pSLC領域とQLC領域に別々のネームスペースを割り当てるため、専用キャッシュドライブが不要になる。Phisonは「24台のうち1台を失っても、キャッシュの損失は25%ではなく4%で済む」と説明する。KioxiaとDapuStorも同様の設計を披露している。2つのうち、製品化が近そうなのはMixed Mediaだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SwitchBot新相框\n随天气预报换画",
-          "body": "每月$3.99的订阅可用AI生成画作，并解锁按天气预报换画的Weather Muse。",
-          "mini_headline": "会看天气的SwitchBot相框",
+          "headline": "Phison在SSD中\n塞进NPU和64GB内存",
+          "body": "Phison在SC26展示内置NPU和64GB内存的SSD，可在盘上运行PyTorch。",
+          "mini_headline": "Phison SSD内置NPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "Switchbot AI Art Frame 2在配备E Ink显示屏的传统相框中，展示来自手机、相机和数字画廊的艺术作品与照片。"
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbot推出了AI Art Frame 2，该产品在日本也称为AI Art Canvas，采用彩色E Ink Spectra 6显示屏，最多可显示65,000种色彩，且保持画面无需耗电。内置电池可支持最长三年的画面切换。"
+                "x": "Phison在Supercomputer 2026（SC26）上详细介绍了两款新的企业级SSD设计：一款内置NPU和64GB、130 GB/s的内存，支持在硬盘上直接运行PyTorch、vLLM、OpenVINO和llama.cpp；另一款则用单个控制器将高速pSLC缓存与大容量QLC结合在一起。公司指出，“所提及的许多产品和功能仍在开发中”。"
               },
               {
                 "t": "p",
-                "x": "它采用胡桃木色边框和哑光显示屏，可离线使用，也可连接云端，并配有16 GB存储空间，可容纳约5,000张图片，支持从智能手机、相机和笔记本电脑远程上传。"
+                "x": "这款计算存储硬盘在数据所在之处运行AI代码，只回传结果而非整个数据集。Phison称，对于适用的工作负载，传输的数据量可减少10到100倍。NPU预计可提供“36,800 DMIPS的计算性能”，但未给出TOPS数据，也没有透露主机如何调用硬盘的计算能力。"
               },
+              {
+                "t": "p",
+                "x": "Mixed Media硬盘是一款16通道产品，其pSLC和QLC区域拥有独立的命名空间，因此无需专用缓存盘。Phison表示：“24块硬盘中损失一块，只会造成4%的缓存损失，而不是25%。”Kioxia和DapuStor也展示过类似设计。两者之中，Mixed Media看起来更接近量产。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Phison pone una NPU y 64GB\nde memoria en un SSD",
+          "body": "En SC26, Phison mostró un SSD con NPU integrada y 64GB de memoria que ejecuta PyTorch y llama.cpp en la propia unidad.",
+          "mini_headline": "El SSD de Phison suma una NPU",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "AI-powered的Weather Muse可根据当天的天气预报自动更换画作。"
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbot免费提供500幅名画，每月$3.99的订阅则支持通过语音、文字和image-to-image方式创作AI-generated照片与画作。订阅还可使用Weather Muse，让作品随当天天气变化。用户可通过轻敲相框三下、语音控制或智能手机应用更换照片。"
+                "x": "Phison detalló dos nuevos diseños de SSD empresariales en Supercomputer 2026 (SC26): uno con NPU integrada y 64GB de memoria a 130 GB/s que permite ejecutar PyTorch, vLLM, OpenVINO y llama.cpp directamente en la unidad, y otro que combina una caché pSLC rápida con una gran capacidad QLC detrás de un solo controlador. La compañía advierte que “muchos de los productos y funciones mencionados siguen en desarrollo”."
               },
               {
                 "t": "p",
-                "x": "13.3英寸的AI Art Frame 2售价$399.99；另有售价$169.99的7.1英寸型号和售价$1,399.99的31.5英寸型号。"
+                "x": "La unidad de almacenamiento computacional ejecuta código de IA sobre los datos donde residen y devuelve resultados en lugar de conjuntos de datos completos, lo que según Phison podría suponer transferir entre 10 y 100 veces menos datos en las cargas de trabajo aplicables. Se espera que la NPU ofrezca “36,800 DMIPS de rendimiento de cómputo”, aunque no se dio ninguna cifra de TOPS ni se explicó cómo accede un host a la capacidad de cómputo de la unidad."
               },
               {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
+                "t": "p",
+                "x": "La unidad Mixed Media es un componente de 16 canales cuyas regiones pSLC y QLC reciben espacios de nombres separados, por lo que no hacen falta unidades de caché dedicadas; “perder una unidad de 24 supondría una pérdida de caché del 4% en lugar del 25%”, afirma Phison. Kioxia y DapuStor han mostrado diseños similares. De los dos, Mixed Media parece el producto más cercano."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "El AI Art Frame 2 de SwitchBot\npinta según el pronóstico",
-          "body": "Su plan de $3.99 al mes añade arte creado con AI y Weather Muse, que adapta el arte E Ink en color al pronóstico.",
-          "mini_headline": "El marco de SwitchBot que sigue el tiempo",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "El Switchbot AI Art Frame 2 muestra arte y fotos de teléfonos, cámaras y galerías digitales en un marco tradicional con pantalla E Ink."
-              },
-              {
-                "t": "p",
-                "x": "Switchbot ha lanzado el AI Art Frame 2, también llamado AI Art Canvas en Japón (Japan), con una pantalla E Ink Spectra 6 a color que puede mostrar hasta 65,000 tonos de color y no necesita electricidad para mantener una imagen. Una batería interna alimenta los cambios de imagen durante hasta tres años."
-              },
-              {
-                "t": "p",
-                "x": "Tiene un bisel color nogal y una pantalla mate, funciona sin conexión o conectado a la nube y cuenta con 16 GB de almacenamiento para unas 5,000 imágenes, que se pueden subir a distancia desde smartphones, cámaras y portátiles."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "El Weather Muse AI-powered puede cambiar automáticamente el arte según el pronóstico del tiempo del día."
-              },
-              {
-                "t": "p",
-                "x": "Switchbot ofrece gratis 500 obras de arte famosas, y una suscripción de $3.99 al mes permite crear fotos y arte AI-generated por voz, texto e image-to-image. La suscripción da acceso a Weather Muse, que puede cambiar la obra para que coincida con el tiempo del día. Las fotos se pueden cambiar con tres golpes en el marco, control por voz o la app del smartphone."
-              },
-              {
-                "t": "p",
-                "x": "El AI Art Frame 2 de 13.3-inch cuesta $399.99; también hay un modelo de 7.1-inch por $169.99 y otro de 31.5-inch por $1,399.99."
-              },
-              {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "SwitchBot 액자\n예보 따라 그림 바꾼다",
-          "body": "월 $3.99에 AI 그림 생성과 예보 맞춤 Weather Muse가 붙는다.",
-          "mini_headline": "날씨를 읽는 SwitchBot 액자",
+          "headline": "Phison, SSD에\nNPU·64GB 메모리",
+          "body": "Phison이 SC26에서 NPU와 64GB 메모리를 넣은 SSD를 선보였다.",
+          "mini_headline": "Phison SSD에 NPU 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "Switchbot AI Art Frame 2는 휴대폰, 카메라, 디지털 갤러리의 그림과 사진을 E Ink 디스플레이를 갖춘 전통적인 액자에 보여준다."
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbot이 일본에서는 AI Art Canvas로도 불리는 AI Art Frame 2를 내놓았다. 컬러 E Ink Spectra 6 디스플레이는 최대 65,000가지 색을 표현하며, 이미지를 유지하는 데 전기가 필요 없다. 내장 배터리로 최대 삼 년 동안 이미지를 바꿀 수 있다."
+                "x": "Phison은 Supercomputer 2026(SC26)에서 엔터프라이즈 SSD 설계 두 가지를 자세히 소개했다. 하나는 NPU와 130 GB/s 속도의 64GB 메모리를 내장해 PyTorch, vLLM, OpenVINO, llama.cpp를 드라이브에서 바로 실행할 수 있고, 다른 하나는 빠른 pSLC 캐시와 대용량 QLC를 컨트롤러 하나로 묶었다. 회사는 “언급된 제품과 기능 중 상당수는 아직 개발 중”이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "호두나무색 베젤과 무광 디스플레이를 갖췄고, 오프라인으로도 클라우드에 연결해서도 쓸 수 있다. 16 GB 저장 공간에는 이미지 약 5,000장을 담을 수 있으며, 스마트폰과 카메라, 노트북에서 원격으로 올릴 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "AI-powered 기능인 Weather Muse는 그날의 일기예보에 따라 그림을 자동으로 바꿀 수 있다."
+                "x": "이 연산 스토리지 드라이브는 데이터가 저장된 자리에서 AI 코드를 실행하고 데이터셋 전체 대신 결과만 돌려보낸다. Phison은 해당 워크로드에서 전송 데이터가 10~100배 줄어들 수 있다고 주장한다. NPU는 “36,800 DMIPS의 연산 성능”을 낼 것으로 예상되지만 TOPS 수치는 공개되지 않았고, 호스트가 드라이브의 연산 기능에 접근하는 방식도 밝혀지지 않았다."
               },
               {
                 "t": "p",
-                "x": "Switchbot은 명화 500점을 무료로 제공하며, 월 $3.99 구독을 하면 음성, 텍스트, image-to-image 방식으로 AI-generated 사진과 그림을 만들 수 있다. 구독에는 그날의 날씨에 맞춰 작품을 바꿔 주는 Weather Muse도 포함된다. 사진은 액자를 세 번 두드리거나 음성 제어, 스마트폰 앱으로 바꿀 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "13.3인치 AI Art Frame 2는 $399.99다. $169.99짜리 7.1인치 모델과 $1,399.99짜리 31.5인치 모델도 나와 있다."
-              },
-              {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
+                "x": "Mixed Media 드라이브는 16채널 제품으로, pSLC와 QLC 영역에 별도 네임스페이스를 부여해 전용 캐시 드라이브가 필요 없다. Phison은 “드라이브 24개 중 하나를 잃으면 캐시 손실이 25%가 아니라 4%에 그친다”고 설명한다. Kioxia와 DapuStor도 비슷한 설계를 선보인 바 있다. 두 제품 중 출시에 더 가까워 보이는 쪽은 Mixed Media다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SwitchBot AI額縁\n予報に合わせて絵を描く",
-          "body": "月額$3.99のプランでAI画像生成と予報連動のWeather Museが使える。",
-          "mini_headline": "天気を読むSwitchBotの額縁",
+          "headline": "Phison、SSDに\nNPUと64GBメモリ",
+          "body": "PhisonはSC26で、NPUと64GBメモリを内蔵したSSDを披露した。",
+          "mini_headline": "Phison SSDにNPU搭載",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "Switchbot AI Art Frame 2は、スマートフォンやカメラ、デジタルギャラリーのアートや写真を、E Inkディスプレイを備えた伝統的な額縁に表示する。"
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbotは、日本ではAI Art Canvasとも呼ばれるAI Art Frame 2を発売した。カラーE Ink Spectra 6ディスプレイは最大65,000色を表示でき、画像の保持に電力を必要としない。内蔵バッテリーで最大三年間、画像を切り替えられる。"
+                "x": "PhisonはSupercomputer 2026（SC26）で、エンタープライズ向けSSDの新設計2種を詳しく紹介した。1つはNPUと130 GB/sの64GBメモリを内蔵し、PyTorch、vLLM、OpenVINO、llama.cppをドライブ上で直接実行できるもの。もう1つは高速なpSLCキャッシュと大容量のQLCを1基のコントローラーにまとめたものだ。同社は「紹介した製品や機能の多くはまだ開発中」としている。"
               },
               {
                 "t": "p",
-                "x": "ウォールナット色のベゼルとマット仕上げのディスプレイを備え、オフラインでもクラウド接続でも使える。16 GBのストレージには約5,000枚の画像を保存でき、スマートフォンやカメラ、ノートパソコンからリモートでアップロードできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "AI-poweredのWeather Museは、その日の天気予報に応じてアートを自動で切り替えられる。"
+                "x": "このコンピュテーショナルストレージ・ドライブは、データが置かれた場所でAIコードを実行し、データセット全体ではなく結果だけを返す。Phisonによれば、対象となるワークロードでは転送データ量を10〜100分の1に減らせる可能性があるという。NPUは「36,800 DMIPSの演算性能」を発揮する見込みだが、TOPSの数値は示されず、ホストがドライブの演算機能にどうアクセスするかも明らかにされていない。"
               },
               {
                 "t": "p",
-                "x": "Switchbotは名画500点を無料で提供し、月額$3.99のサブスクリプションでは音声、テキスト、image-to-imageによるAI-generatedの写真やアートの作成が可能になる。サブスクリプションでは、その日の天気に合わせて作品を変えるWeather Museも利用できる。写真は額縁を三回ノックするか、音声操作やスマートフォンアプリで切り替えられる。"
-              },
-              {
-                "t": "p",
-                "x": "13.3インチのAI Art Frame 2は$399.99である。$169.99の7.1インチモデルと$1,399.99の31.5インチモデルも用意されている。"
-              },
-              {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
+                "x": "Mixed Mediaドライブは16チャネル構成で、pSLC領域とQLC領域に別々のネームスペースを割り当てるため、専用キャッシュドライブが不要になる。Phisonは「24台のうち1台を失っても、キャッシュの損失は25%ではなく4%で済む」と説明する。KioxiaとDapuStorも同様の設計を披露している。2つのうち、製品化が近そうなのはMixed Mediaだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SwitchBot新相框\n随天气预报换画",
-          "body": "每月$3.99的订阅可用AI生成画作，并解锁按天气预报换画的Weather Muse。",
-          "mini_headline": "会看天气的SwitchBot相框",
+          "headline": "Phison在SSD中\n塞进NPU和64GB内存",
+          "body": "Phison在SC26展示内置NPU和64GB内存的SSD，可在盘上运行PyTorch。",
+          "mini_headline": "Phison SSD内置NPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled.jpg",
-                "cap": "Switchbot AI Art Frame 2在配备E Ink显示屏的传统相框中，展示来自手机、相机和数字画廊的艺术作品与照片。"
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbot推出了AI Art Frame 2，该产品在日本也称为AI Art Canvas，采用彩色E Ink Spectra 6显示屏，最多可显示65,000种色彩，且保持画面无需耗电。内置电池可支持最长三年的画面切换。"
+                "x": "Phison在Supercomputer 2026（SC26）上详细介绍了两款新的企业级SSD设计：一款内置NPU和64GB、130 GB/s的内存，支持在硬盘上直接运行PyTorch、vLLM、OpenVINO和llama.cpp；另一款则用单个控制器将高速pSLC缓存与大容量QLC结合在一起。公司指出，“所提及的许多产品和功能仍在开发中”。"
               },
               {
                 "t": "p",
-                "x": "它采用胡桃木色边框和哑光显示屏，可离线使用，也可连接云端，并配有16 GB存储空间，可容纳约5,000张图片，支持从智能手机、相机和笔记本电脑远程上传。"
+                "x": "这款计算存储硬盘在数据所在之处运行AI代码，只回传结果而非整个数据集。Phison称，对于适用的工作负载，传输的数据量可减少10到100倍。NPU预计可提供“36,800 DMIPS的计算性能”，但未给出TOPS数据，也没有透露主机如何调用硬盘的计算能力。"
               },
+              {
+                "t": "p",
+                "x": "Mixed Media硬盘是一款16通道产品，其pSLC和QLC区域拥有独立的命名空间，因此无需专用缓存盘。Phison表示：“24块硬盘中损失一块，只会造成4%的缓存损失，而不是25%。”Kioxia和DapuStor也展示过类似设计。两者之中，Mixed Media看起来更接近量产。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Phison pone una NPU y 64GB\nde memoria en un SSD",
+          "body": "En SC26, Phison mostró un SSD con NPU integrada y 64GB de memoria que ejecuta PyTorch y llama.cpp en la propia unidad.",
+          "mini_headline": "El SSD de Phison suma una NPU",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-b.jpg",
-                "cap": "AI-powered的Weather Muse可根据当天的天气预报自动更换画作。"
+                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Switchbot免费提供500幅名画，每月$3.99的订阅则支持通过语音、文字和image-to-image方式创作AI-generated照片与画作。订阅还可使用Weather Muse，让作品随当天天气变化。用户可通过轻敲相框三下、语音控制或智能手机应用更换照片。"
+                "x": "Phison detalló dos nuevos diseños de SSD empresariales en Supercomputer 2026 (SC26): uno con NPU integrada y 64GB de memoria a 130 GB/s que permite ejecutar PyTorch, vLLM, OpenVINO y llama.cpp directamente en la unidad, y otro que combina una caché pSLC rápida con una gran capacidad QLC detrás de un solo controlador. La compañía advierte que “muchos de los productos y funciones mencionados siguen en desarrollo”."
               },
               {
                 "t": "p",
-                "x": "13.3英寸的AI Art Frame 2售价$399.99；另有售价$169.99的7.1英寸型号和售价$1,399.99的31.5英寸型号。"
+                "x": "La unidad de almacenamiento computacional ejecuta código de IA sobre los datos donde residen y devuelve resultados en lugar de conjuntos de datos completos, lo que según Phison podría suponer transferir entre 10 y 100 veces menos datos en las cargas de trabajo aplicables. Se espera que la NPU ofrezca “36,800 DMIPS de rendimiento de cómputo”, aunque no se dio ninguna cifra de TOPS ni se explicó cómo accede un host a la capacidad de cómputo de la unidad."
               },
               {
-                "t": "video",
-                "yt": "Kk1L8B84w3Q"
+                "t": "p",
+                "x": "La unidad Mixed Media es un componente de 16 canales cuyas regiones pSLC y QLC reciben espacios de nombres separados, por lo que no hacen falta unidades de caché dedicadas; “perder una unidad de 24 supondría una pérdida de caché del 4% en lugar del 25%”, afirma Phison. Kioxia y DapuStor han mostrado diseños similares. De los dos, Mixed Media parece el producto más cercano."
               }
             ]
           }
@@ -1521,225 +1341,237 @@
       }
     },
     {
-      "id": "scout-motors-ai-earpieces",
+      "id": "insbotics-pophie-robot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Scout Motors,\nAI 이어피스로 신입 교육",
-      "body": "Scout Motors는 바인더 대신 AI 이어피스로 신입에게 실습을 안내한다.",
-      "mini_headline": "공장 현장의 AI 이어피스",
+      "headline": "Pophie 로봇, 가족을\n기억하고 먼저 말 건다",
+      "body": "InsBotics의 반려 로봇 Pophie는 가족을 기억하고 먼저 말을 건다.",
+      "mini_headline": "먼저 말 거는 Pophie 로봇",
       "tool": "Gadgets",
-      "source": "CNET",
-      "url": "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/20/insbotics-pophie-ai-companion-robot/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Scout Motors가 공장 인력 채용과 온보딩, 교육에 AI 도구를 쓴다고 밝혔다. 작업 중인 교육생을 이어피스로 안내하는 AI 어시스턴트도 그중 하나다. CEO Scott Keogh는 \"신입을 앉혀 놓고 교육용 바인더와 시험을 주는\" 대신, South Carolina주 Blythewood 공장에서 작업자들이 AI-driven 실습 경험을 쌓는다고 말했다."
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
           },
           {
             "t": "p",
-            "x": "부품 피킹 작업에서 작업자는 상자 12개로 걸어가 부품 12개를 꺼내고, 순서를 확인하고 결함을 점검한다. 그사이 이어피스가 실시간으로 지시를 내린다. Keogh는 \"몇 분 안에 교육할 수 있다\"고 말했다."
+            "x": "Pophie는 호출어를 기다리지 않는다. InsBotics가 만든 봉제 인형 모양의 탁상 로봇으로, 방 안을 지켜보다 적절한 순간이다 싶으면 먼저 말을 건다. 이 Proactive Interaction 기능은 월 $20짜리 Pro 요금제에서만 작동한다. 가격은 $399이고 Black Friday 할인이 적용된다."
           },
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-            "cap": "Scout는 사람에게는 잘 보이지 않는 기술과 업무 사이의 연결을 AI가 찾아낼 수 있다고 말한다. Antuan Goodwin/CNET"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
           },
           {
             "t": "p",
-            "x": "2028년까지 4,000개 넘는 일자리를 채워야 하는 Scout에서, AI 시스템은 신입마다 가장 잘 맞는 자리도 제안한다. 전략·브랜드 담당 부사장 Ryan Decker는 AI가 사람마다 교육을 맞춤화하고 각 기수에서 학습한다고 말했다."
+            "x": "초광각 카메라와 음성 방향을 잡아내는 듀얼 마이크 어레이로 주변을 늘 살피고, 연속형 VAD 감정 모델이 표정을 움직인다. 크기는 5.1×5.7×6.1인치, 무게는 1.9파운드다. TFT LCD 눈 두 개와 스테퍼 모터 다섯 개, 터치 센서 여덟 개가 들어갔다."
           },
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-            "cap": "Scout Motors"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
           },
           {
             "t": "p",
-            "x": "Scout는 증강현실 안경을 이용한 비전 기반 교육도 검토 중이다. 이 도구를 공장과 서비스 센터, 나아가 가정의 차주에게까지 넓힐 계획이다. AI는 수십 년 치 장비 매뉴얼과 문서를 학습했고, 이어피스는 이를 실시간으로 꺼내 보여줄 수 있다."
+            "x": "InsBotics에 따르면 Pophie는 가족과 반려동물의 이름, 누가 누구인지, 무엇을 좋아하는지 기억한다. 목소리와 얼굴로 사람을 구분해 기억도 따로 관리한다. 열한 개 언어를 할 줄 안다. 눈을 감으면 시각 기능은 꺼지지만 음성 대화는 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "모든 Pophie에는 Pro 2개월이 딸려 온다. 그 뒤 무료 요금제는 하루 10분 대화를 허용하고, Standard는 월 $10이다. Kickstarter 캠페인은 1,168명의 후원자에게서 $439,275를 모으고 마감했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Scout Motors trains factory\nhires with AI earpieces",
-          "body": "Scout Motors is swapping the instruction binder for AI earpieces that talk new hires through hands-on tasks.",
-          "mini_headline": "AI earpieces on the factory floor",
+          "headline": "Pophie robot remembers\nyour family, speaks first",
+          "body": "InsBotics' Pophie is a companion robot designed to remember your family and start conversations unprompted.",
+          "mini_headline": "Pophie robot\nspeaks first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motors says it's using AI tools to help hire, onboard and train factory workers, including an AI assistant in an earpiece that guides trainees through tasks as they perform them. CEO Scott Keogh said that rather than \"sitting new hires down with an instructional binder and a test,\" workers get AI-driven, hands-on experience at the Blythewood, South Carolina factory."
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "In parts picking, a worker walks to 12 boxes, pulls 12 parts, confirms the sequence and checks for defects while the earpiece gives real-time instructions. \"We can train that within minutes,\" Keogh said."
+                "x": "Pophie doesn’t wait for a wake word. InsBotics built this plush desktop robot to watch the room and speak first when the moment looks right — a Proactive Interaction feature that only runs on the $20 a month Pro plan. It sells for $399, with a Black Friday discount."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scout says that AI can find connections between skills and tasks that may not be obvious to humans. Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "An AI system also suggests where each new hire might fit best, as Scout fills over 4,000 roles by 2028. Ryan Decker, vice president of strategy and brand, said the AI tailors instruction to each person and learns from each cohort."
+                "x": "A super wide-angle camera and dual-mic array with voice-direction sensing give her always-on awareness, and a continuous VAD emotion model drives her expressions. She stands 5.1 by 5.7 by 6.1 inches, weighs 1.9 pounds, and uses two TFT LCD eyes, five stepper motors and eight touch sensors."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout is exploring vision-based training with augmented reality glasses and plans to scale the tools into the factory and service centers, and eventually for owners at home. The AI has been fed decades of equipment manuals and documentation that the earpiece can surface in real time."
+                "x": "InsBotics says she remembers your people and pets — names, who’s who and what they love — keeping separate memories per person by voice and face. She speaks eleven languages. Closing her eyes turns vision off while voice conversation keeps running."
+              },
+              {
+                "t": "p",
+                "x": "Every Pophie includes two months of Pro; the free plan then allows ten minutes of conversation a day, and Standard costs $10 a month. Her Kickstarter closed at $439,275 from 1,168 backers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Scout Motors,\nAI 이어피스로 신입 교육",
-          "body": "Scout Motors는 바인더 대신 AI 이어피스로 신입에게 실습을 안내한다.",
-          "mini_headline": "공장 현장의 AI 이어피스",
+          "headline": "Pophie 로봇, 가족을\n기억하고 먼저 말 건다",
+          "body": "InsBotics의 반려 로봇 Pophie는 가족을 기억하고 먼저 말을 건다.",
+          "mini_headline": "먼저 말 거는 Pophie 로봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motors가 공장 인력 채용과 온보딩, 교육에 AI 도구를 쓴다고 밝혔다. 작업 중인 교육생을 이어피스로 안내하는 AI 어시스턴트도 그중 하나다. CEO Scott Keogh는 \"신입을 앉혀 놓고 교육용 바인더와 시험을 주는\" 대신, South Carolina주 Blythewood 공장에서 작업자들이 AI-driven 실습 경험을 쌓는다고 말했다."
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "부품 피킹 작업에서 작업자는 상자 12개로 걸어가 부품 12개를 꺼내고, 순서를 확인하고 결함을 점검한다. 그사이 이어피스가 실시간으로 지시를 내린다. Keogh는 \"몇 분 안에 교육할 수 있다\"고 말했다."
+                "x": "Pophie는 호출어를 기다리지 않는다. InsBotics가 만든 봉제 인형 모양의 탁상 로봇으로, 방 안을 지켜보다 적절한 순간이다 싶으면 먼저 말을 건다. 이 Proactive Interaction 기능은 월 $20짜리 Pro 요금제에서만 작동한다. 가격은 $399이고 Black Friday 할인이 적용된다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scout는 사람에게는 잘 보이지 않는 기술과 업무 사이의 연결을 AI가 찾아낼 수 있다고 말한다. Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "2028년까지 4,000개 넘는 일자리를 채워야 하는 Scout에서, AI 시스템은 신입마다 가장 잘 맞는 자리도 제안한다. 전략·브랜드 담당 부사장 Ryan Decker는 AI가 사람마다 교육을 맞춤화하고 각 기수에서 학습한다고 말했다."
+                "x": "초광각 카메라와 음성 방향을 잡아내는 듀얼 마이크 어레이로 주변을 늘 살피고, 연속형 VAD 감정 모델이 표정을 움직인다. 크기는 5.1×5.7×6.1인치, 무게는 1.9파운드다. TFT LCD 눈 두 개와 스테퍼 모터 다섯 개, 터치 센서 여덟 개가 들어갔다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout는 증강현실 안경을 이용한 비전 기반 교육도 검토 중이다. 이 도구를 공장과 서비스 센터, 나아가 가정의 차주에게까지 넓힐 계획이다. AI는 수십 년 치 장비 매뉴얼과 문서를 학습했고, 이어피스는 이를 실시간으로 꺼내 보여줄 수 있다."
+                "x": "InsBotics에 따르면 Pophie는 가족과 반려동물의 이름, 누가 누구인지, 무엇을 좋아하는지 기억한다. 목소리와 얼굴로 사람을 구분해 기억도 따로 관리한다. 열한 개 언어를 할 줄 안다. 눈을 감으면 시각 기능은 꺼지지만 음성 대화는 이어진다."
+              },
+              {
+                "t": "p",
+                "x": "모든 Pophie에는 Pro 2개월이 딸려 온다. 그 뒤 무료 요금제는 하루 10분 대화를 허용하고, Standard는 월 $10이다. Kickstarter 캠페인은 1,168명의 후원자에게서 $439,275를 모으고 마감했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Scout Motors、\nAIイヤピースで新人研修",
-          "body": "Scout Motorsはバインダーに代え、AIイヤピースで新人に実作業を指導する。",
-          "mini_headline": "工場現場のAIイヤピース",
+          "headline": "Pophieロボット\n家族を覚え自ら話しかける",
+          "body": "InsBoticsのPophieは、家族を覚えて自分から話しかけるコンパニオンロボットだ。",
+          "mini_headline": "自ら話しかけるPophie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motorsは、工場作業員の採用、オンボーディング、研修にAIツールを活用していると明らかにした。研修生が作業を行う最中にガイドするイヤピース型AIアシスタントもその一つだ。CEOのScott Keoghは、「新人を座らせて教本バインダーとテストを渡す」のではなく、South Carolina州Blythewoodの工場で作業員がAI-drivenの実地経験を積むと述べた。"
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "部品ピッキングでは、作業員が12個の箱まで歩き、12個の部品を取り出し、順序を確認して欠陥をチェックする。その間、イヤピースがリアルタイムで指示を出す。「数分で研修できる」とKeoghは語った。"
+                "x": "Pophieはウェイクワードを待たない。InsBoticsが作ったこのぬいぐるみ風の卓上ロボットは、部屋の様子を見守り、ここぞという瞬間に自分から話しかける。このProactive Interaction機能は月額$20のProプランでのみ動作する。価格は$399で、Black Friday割引もある。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scoutによると、AIは人間には見えにくいスキルと業務のつながりを見つけられるという。Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "Scoutが2028年までに4,000以上の職を埋めるなか、AIシステムは新人それぞれが最も適した配置も提案する。戦略・ブランド担当副社長のRyan Deckerは、AIが一人ひとりに合わせて指導内容を調整し、各期の受講者から学習すると述べた。"
+                "x": "超広角カメラと音声の方向を感知するデュアルマイクアレイにより常に周囲を認識し、連続型のVAD感情モデルが表情を動かす。サイズは5.1×5.7×6.1インチ、重さは1.9ポンドで、TFT LCDの目2つ、ステッピングモーター5基、タッチセンサー8個を備える。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scoutは拡張現実グラスを使った視覚ベースの研修も検討しており、これらのツールを工場やサービスセンター、さらに将来的には自宅のオーナーにまで広げる計画だ。AIには数十年分の機器マニュアルや資料が取り込まれており、イヤピースはそれをリアルタイムで提示できる。"
+                "x": "InsBoticsによると、Pophieは家族やペットの名前、誰が誰か、何が好きかを覚え、声と顔で人ごとに別々の記憶を保持する。11言語を話す。目を閉じると視覚はオフになるが、音声での会話は続く。"
+              },
+              {
+                "t": "p",
+                "x": "すべてのPophieにはProプラン2か月分が付く。その後、無料プランでは1日10分まで会話でき、Standardは月額$10。Kickstarterでは1,168人の支援者から$439,275を集めて終了した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Scout Motors用\nAI耳机培训工厂新人",
-          "body": "Scout Motors用AI耳机取代培训手册，在实操中一步步指导新员工。",
-          "mini_headline": "工厂车间里的AI耳机",
+          "headline": "Pophie机器人记得\n你的家人还会主动开口",
+          "body": "InsBotics推出的Pophie是一款陪伴机器人，能记住家人并主动发起对话。",
+          "mini_headline": "主动开口的Pophie机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motors表示，正在用AI工具帮助招聘、入职培训和培训工厂工人，其中包括一款装在耳机里的AI助手，可在学员执行任务时一步步指导。CEO Scott Keogh说，与其“让新员工坐下来，发一本操作手册和一份试卷”，不如让工人在South Carolina州Blythewood工厂获得AI-driven的实操经验。"
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "在零件拣选中，工人走到12个箱子前，取出12个零件，确认顺序并检查缺陷，耳机同时给出实时指令。Keogh说：“我们可以在几分钟内完成这项培训。”"
+                "x": "Pophie不等唤醒词。InsBotics打造的这款毛绒桌面机器人会观察房间，在时机合适时主动开口——这项Proactive Interaction功能仅在每月$20的Pro方案中运行。它售价$399，并有Black Friday折扣。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scout表示，AI能发现技能与任务之间人类不易察觉的关联。Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "随着Scout要在2028年前填补4,000多个岗位，一套AI系统还会建议每位新员工最适合的岗位。战略与品牌副总裁Ryan Decker表示，AI会针对每个人定制培训内容，并从每一批学员中学习。"
+                "x": "超广角摄像头和可感知声音方向的双麦克风阵列让她始终感知周围环境，连续VAD情绪模型驱动她的表情。她的尺寸为5.1×5.7×6.1英寸，重1.9磅，配有两只TFT LCD眼睛、五个步进电机和八个触摸传感器。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout正在探索借助增强现实眼镜的视觉培训，并计划将这些工具推广到工厂和服务中心，最终推广至在家的车主。AI已学习了数十年的设备手册和文档，耳机可实时调出这些内容。"
+                "x": "InsBotics表示，她能记住你的家人和宠物——名字、谁是谁以及他们喜欢什么——并通过声音和面孔为每个人分别保存记忆。她会说十一种语言。闭上眼睛时视觉功能关闭，语音对话则继续进行。"
+              },
+              {
+                "t": "p",
+                "x": "每台Pophie都附带两个月Pro服务；之后免费方案每天可对话十分钟，Standard方案每月$10。她的Kickstarter众筹以1,168名支持者、$439,275的金额结束。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Scout Motors forma a operarios\ncon auriculares de AI",
-          "body": "Scout Motors cambia el manual por auriculares con AI que guían a los nuevos empleados en tareas prácticas.",
-          "mini_headline": "Auriculares con AI en la planta",
+          "headline": "El robot Pophie recuerda\na tu familia y habla primero",
+          "body": "Pophie, de InsBotics, es un robot de compañía pensado para recordar a tu familia e iniciar conversaciones por sí solo.",
+          "mini_headline": "El robot Pophie habla primero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motors afirma que usa herramientas de AI para contratar, incorporar y formar a trabajadores de fábrica, incluido un asistente de AI en un auricular que guía a los aprendices en las tareas mientras las realizan. El CEO Scott Keogh dijo que, en lugar de \"sentar a los nuevos empleados con un manual de instrucciones y un examen\", los trabajadores adquieren experiencia práctica AI-driven en la fábrica de Blythewood, South Carolina."
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "En la preparación de piezas, un trabajador camina hasta 12 cajas, saca 12 piezas, confirma la secuencia y revisa si hay defectos mientras el auricular le da instrucciones en tiempo real. \"Podemos formar en eso en cuestión de minutos\", dijo Keogh."
+                "x": "Pophie no espera una palabra de activación. InsBotics creó este robot de escritorio de peluche para observar la habitación y hablar primero cuando el momento parece oportuno, una función llamada Proactive Interaction que solo funciona con el plan Pro de $20 al mes. Se vende por $399, con un descuento de Black Friday."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scout afirma que la AI puede encontrar conexiones entre habilidades y tareas que quizá no sean obvias para las personas. Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "Un sistema de AI también sugiere dónde encajaría mejor cada nuevo empleado, mientras Scout cubre más de 4,000 puestos de aquí a 2028. Ryan Decker, vicepresidente de estrategia y marca, dijo que la AI adapta la formación a cada persona y aprende de cada promoción."
+                "x": "Una cámara de gran angular y un conjunto de dos micrófonos que detecta la dirección de la voz le dan una percepción permanente del entorno, y un modelo de emociones VAD continuo controla sus expresiones. Mide 5.1 por 5.7 por 6.1 pulgadas, pesa 1.9 libras y usa dos ojos TFT LCD, cinco motores paso a paso y ocho sensores táctiles."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout explora la formación basada en visión con gafas de realidad aumentada y planea extender las herramientas a la fábrica y los centros de servicio, y con el tiempo a los propietarios en casa. La AI se ha alimentado con décadas de manuales y documentación de equipos que el auricular puede mostrar en tiempo real."
+                "x": "Según InsBotics, recuerda a tus personas y mascotas —nombres, quién es quién y qué les gusta— y guarda recuerdos separados para cada persona por voz y rostro. Habla once idiomas. Al cerrar los ojos se desactiva la visión, mientras la conversación por voz sigue funcionando."
+              },
+              {
+                "t": "p",
+                "x": "Cada Pophie incluye dos meses de Pro; después, el plan gratuito permite diez minutos de conversación al día, y Standard cuesta $10 al mes. Su campaña de Kickstarter cerró con $439,275 de 1,168 patrocinadores."
               }
             ]
           }
@@ -1747,145 +1579,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Scout Motors,\nAI 이어피스로 신입 교육",
-          "body": "Scout Motors는 바인더 대신 AI 이어피스로 신입에게 실습을 안내한다.",
-          "mini_headline": "공장 현장의 AI 이어피스",
+          "headline": "Pophie 로봇, 가족을\n기억하고 먼저 말 건다",
+          "body": "InsBotics의 Pophie는 가족을 기억하고 먼저 말을 거는 반려 로봇이다.",
+          "mini_headline": "먼저 말 거는 Pophie 로봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motors는 공장 인력의 채용, 온보딩, 교육에 AI 도구를 쓰고 있다고 밝혔다. 여기에는 교육생이 작업을 하는 동안 이어피스로 안내하는 AI 어시스턴트도 포함된다. CEO Scott Keogh는 \"신입을 앉혀 놓고 교육용 바인더와 시험을 주는\" 대신, South Carolina주 Blythewood 공장에서 작업자들이 AI-driven 실습 경험을 쌓는다고 말했다."
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "부품 피킹 작업에서 작업자는 상자 12개로 걸어가 부품 12개를 꺼내고, 순서를 확인하고 결함을 점검한다. 그동안 이어피스가 실시간으로 지시를 준다. Keogh는 \"몇 분 안에 교육할 수 있다\"고 말했다."
+                "x": "Pophie는 호출어를 기다리지 않는다. InsBotics가 만든 이 봉제 인형형 탁상 로봇은 방 안을 지켜보다가 적절한 순간이라고 판단하면 먼저 말을 건다. 이 Proactive Interaction 기능은 월 $20인 Pro 요금제에서만 작동한다. 가격은 $399이며 Black Friday 할인이 적용된다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scout는 사람에게는 잘 보이지 않는 기술과 업무 사이의 연결을 AI가 찾아낼 수 있다고 말한다. Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout가 2028년까지 4,000개 넘는 일자리를 채우는 가운데, AI 시스템은 신입 각자가 가장 잘 맞을 자리도 제안한다. 전략·브랜드 담당 부사장 Ryan Decker는 AI가 사람마다 교육을 맞춤화하고 각 기수에서 학습한다고 말했다."
+                "x": "초광각 카메라와 음성 방향을 감지하는 듀얼 마이크 어레이로 주변을 늘 인식하고, 연속형 VAD 감정 모델이 표정을 움직인다. 크기는 5.1×5.7×6.1인치, 무게는 1.9파운드이며, TFT LCD 눈 두 개와 스테퍼 모터 다섯 개, 터치 센서 여덟 개를 갖췄다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout는 증강현실 안경을 이용한 비전 기반 교육도 검토하고 있으며, 이 도구를 공장과 서비스 센터로, 나아가 가정의 차주에게까지 넓힐 계획이다. AI는 수십 년 치 장비 매뉴얼과 문서를 학습했고, 이어피스는 이를 실시간으로 꺼내 보여줄 수 있다."
+                "x": "InsBotics에 따르면 Pophie는 가족과 반려동물의 이름, 누가 누구인지, 무엇을 좋아하는지를 기억하며, 목소리와 얼굴로 사람마다 기억을 따로 관리한다. 열한 개 언어를 구사한다. 눈을 감으면 시각 기능은 꺼지고 음성 대화는 계속된다."
+              },
+              {
+                "t": "p",
+                "x": "모든 Pophie에는 Pro 2개월이 포함된다. 이후 무료 요금제는 하루 10분 대화를 허용하며, Standard는 월 $10이다. Kickstarter 캠페인은 1,168명의 후원자에게서 $439,275를 모으고 마감했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Scout Motors、\nAIイヤピースで新人研修",
-          "body": "Scout Motorsはバインダーに代え、AIイヤピースで新人に実作業を指導する。",
-          "mini_headline": "工場現場のAIイヤピース",
+          "headline": "Pophieロボット\n家族を覚え自ら話しかける",
+          "body": "InsBoticsのPophieは、家族を覚えて自分から話しかけるコンパニオンロボットだ。",
+          "mini_headline": "自ら話しかけるPophie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motorsは、工場作業員の採用、オンボーディング、研修にAIツールを活用していると明らかにした。研修生が作業を行う最中にガイドするイヤピース型AIアシスタントもその一つだ。CEOのScott Keoghは、「新人を座らせて教本バインダーとテストを渡す」のではなく、South Carolina州Blythewoodの工場で作業員がAI-drivenの実地経験を積むと述べた。"
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "部品ピッキングでは、作業員が12個の箱まで歩き、12個の部品を取り出し、順序を確認して欠陥をチェックする。その間、イヤピースがリアルタイムで指示を出す。「数分で研修できる」とKeoghは語った。"
+                "x": "Pophieはウェイクワードを待たない。InsBoticsが作ったこのぬいぐるみ風の卓上ロボットは、部屋の様子を見守り、ここぞという瞬間に自分から話しかける。このProactive Interaction機能は月額$20のProプランでのみ動作する。価格は$399で、Black Friday割引もある。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scoutによると、AIは人間には見えにくいスキルと業務のつながりを見つけられるという。Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "Scoutが2028年までに4,000以上の職を埋めるなか、AIシステムは新人それぞれが最も適した配置も提案する。戦略・ブランド担当副社長のRyan Deckerは、AIが一人ひとりに合わせて指導内容を調整し、各期の受講者から学習すると述べた。"
+                "x": "超広角カメラと音声の方向を感知するデュアルマイクアレイにより常に周囲を認識し、連続型のVAD感情モデルが表情を動かす。サイズは5.1×5.7×6.1インチ、重さは1.9ポンドで、TFT LCDの目2つ、ステッピングモーター5基、タッチセンサー8個を備える。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scoutは拡張現実グラスを使った視覚ベースの研修も検討しており、これらのツールを工場やサービスセンター、さらに将来的には自宅のオーナーにまで広げる計画だ。AIには数十年分の機器マニュアルや資料が取り込まれており、イヤピースはそれをリアルタイムで提示できる。"
+                "x": "InsBoticsによると、Pophieは家族やペットの名前、誰が誰か、何が好きかを覚え、声と顔で人ごとに別々の記憶を保持する。11言語を話す。目を閉じると視覚はオフになるが、音声での会話は続く。"
+              },
+              {
+                "t": "p",
+                "x": "すべてのPophieにはProプラン2か月分が付く。その後、無料プランでは1日10分まで会話でき、Standardは月額$10。Kickstarterでは1,168人の支援者から$439,275を集めて終了した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Scout Motors用\nAI耳机培训工厂新人",
-          "body": "Scout Motors用AI耳机取代培训手册，在实操中一步步指导新员工。",
-          "mini_headline": "工厂车间里的AI耳机",
+          "headline": "Pophie机器人记得\n你的家人还会主动开口",
+          "body": "InsBotics推出的Pophie是一款陪伴机器人，能记住家人并主动发起对话。",
+          "mini_headline": "主动开口的Pophie机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motors表示，正在用AI工具帮助招聘、入职培训和培训工厂工人，其中包括一款装在耳机里的AI助手，可在学员执行任务时一步步指导。CEO Scott Keogh说，与其“让新员工坐下来，发一本操作手册和一份试卷”，不如让工人在South Carolina州Blythewood工厂获得AI-driven的实操经验。"
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "在零件拣选中，工人走到12个箱子前，取出12个零件，确认顺序并检查缺陷，耳机同时给出实时指令。Keogh说：“我们可以在几分钟内完成这项培训。”"
+                "x": "Pophie不等唤醒词。InsBotics打造的这款毛绒桌面机器人会观察房间，在时机合适时主动开口——这项Proactive Interaction功能仅在每月$20的Pro方案中运行。它售价$399，并有Black Friday折扣。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scout表示，AI能发现技能与任务之间人类不易察觉的关联。Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "随着Scout要在2028年前填补4,000多个岗位，一套AI系统还会建议每位新员工最适合的岗位。战略与品牌副总裁Ryan Decker表示，AI会针对每个人定制培训内容，并从每一批学员中学习。"
+                "x": "超广角摄像头和可感知声音方向的双麦克风阵列让她始终感知周围环境，连续VAD情绪模型驱动她的表情。她的尺寸为5.1×5.7×6.1英寸，重1.9磅，配有两只TFT LCD眼睛、五个步进电机和八个触摸传感器。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout正在探索借助增强现实眼镜的视觉培训，并计划将这些工具推广到工厂和服务中心，最终推广至在家的车主。AI已学习了数十年的设备手册和文档，耳机可实时调出这些内容。"
+                "x": "InsBotics表示，她能记住你的家人和宠物——名字、谁是谁以及他们喜欢什么——并通过声音和面孔为每个人分别保存记忆。她会说十一种语言。闭上眼睛时视觉功能关闭，语音对话则继续进行。"
+              },
+              {
+                "t": "p",
+                "x": "每台Pophie都附带两个月Pro服务；之后免费方案每天可对话十分钟，Standard方案每月$10。她的Kickstarter众筹以1,168名支持者、$439,275的金额结束。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Scout Motors forma a operarios\ncon auriculares de AI",
-          "body": "Scout Motors cambia el manual por auriculares con AI que guían a los nuevos empleados en tareas prácticas.",
-          "mini_headline": "Auriculares con AI en la planta",
+          "headline": "El robot Pophie recuerda\na tu familia y habla primero",
+          "body": "Pophie, de InsBotics, es un robot de compañía pensado para recordar a tu familia e iniciar conversaciones por sí solo.",
+          "mini_headline": "El robot Pophie habla primero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Scout Motors afirma que usa herramientas de AI para contratar, incorporar y formar a trabajadores de fábrica, incluido un asistente de AI en un auricular que guía a los aprendices en las tareas mientras las realizan. El CEO Scott Keogh dijo que, en lugar de \"sentar a los nuevos empleados con un manual de instrucciones y un examen\", los trabajadores adquieren experiencia práctica AI-driven en la fábrica de Blythewood, South Carolina."
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
               },
               {
                 "t": "p",
-                "x": "En la preparación de piezas, un trabajador camina hasta 12 cajas, saca 12 piezas, confirma la secuencia y revisa si hay defectos mientras el auricular le da instrucciones en tiempo real. \"Podemos formar en eso en cuestión de minutos\", dijo Keogh."
+                "x": "Pophie no espera una palabra de activación. InsBotics creó este robot de escritorio de peluche para observar la habitación y hablar primero cuando el momento parece oportuno, una función llamada Proactive Interaction que solo funciona con el plan Pro de $20 al mes. Se vende por $399, con un descuento de Black Friday."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/scout-training-facility-exterior.jpeg?w=864",
-                "cap": "Scout afirma que la AI puede encontrar conexiones entre habilidades y tareas que quizá no sean obvias para las personas. Antuan Goodwin/CNET"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
               },
               {
                 "t": "p",
-                "x": "Un sistema de AI también sugiere dónde encajaría mejor cada nuevo empleado, mientras Scout cubre más de 4,000 puestos de aquí a 2028. Ryan Decker, vicepresidente de estrategia y marca, dijo que la AI adapta la formación a cada persona y aprende de cada promoción."
+                "x": "Una cámara de gran angular y un conjunto de dos micrófonos que detecta la dirección de la voz le dan una percepción permanente del entorno, y un modelo de emociones VAD continuo controla sus expresiones. Mide 5.1 por 5.7 por 6.1 pulgadas, pesa 1.9 libras y usa dos ojos TFT LCD, cinco motores paso a paso y ocho sensores táctiles."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Assembly_BlythewoodProductionCenter.jpg?w=864",
-                "cap": "Scout Motors"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
               },
               {
                 "t": "p",
-                "x": "Scout explora la formación basada en visión con gafas de realidad aumentada y planea extender las herramientas a la fábrica y los centros de servicio, y con el tiempo a los propietarios en casa. La AI se ha alimentado con décadas de manuales y documentación de equipos que el auricular puede mostrar en tiempo real."
+                "x": "Según InsBotics, recuerda a tus personas y mascotas —nombres, quién es quién y qué les gusta— y guarda recuerdos separados para cada persona por voz y rostro. Habla once idiomas. Al cerrar los ojos se desactiva la visión, mientras la conversación por voz sigue funcionando."
+              },
+              {
+                "t": "p",
+                "x": "Cada Pophie incluye dos meses de Pro; después, el plan gratuito permite diez minutos de conversación al día, y Standard cuesta $10 al mes. Su campaña de Kickstarter cerró con $439,275 de 1,168 patrocinadores."
               }
             ]
           }

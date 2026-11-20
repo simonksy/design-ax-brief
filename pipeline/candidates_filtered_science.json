@@ -1,90 +1,102 @@
 {
   "section": "science",
-  "now_iso": "2026-11-19T22:03:00Z",
+  "now_iso": "2026-11-20T22:00:39Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI helps researchers track beluga whales using aerial drone images",
-      "url": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
-      "source": "Phys.org",
-      "category": "life_science",
-      "published_iso": "2026-11-19T15:40:08-05:00",
-      "excerpt": "Florida Atlantic University researchers built SEMI-DETR, a semi-supervised deep-learning model that detects, tracks and separates beluga adults from calves in drone image sequences (Frontiers in Marine Science). With only 34 labeled images it beat the best fully supervised model by about 20% mAP, with the largest gain on calves.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg"
-    },
-    {
-      "title": "Researchers use AI to optimize sensor design for ultrasensitive vitamin C detection",
-      "url": "https://phys.org/news/2026-11-ai-optimize-sensor-ultrasensitive-vitamin.html",
-      "source": "Phys.org",
-      "category": "materials",
-      "published_iso": "2026-11-19T07:40:01-05:00",
-      "excerpt": "Sungkyunkwan University trained a machine-learning model on 25 of 625 possible fabrication conditions to pick untested recipes for a molecularly imprinted electrochemical sensor, then built and validated them (Chemical Engineering Journal). The optimized sensor reached a 778 pM detection limit and tracked ELISA results in urine.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-researchers-use-a.jpg"
-    },
-    {
-      "title": "When AI misidentifies wildlife: New study maps where species identification fails",
-      "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
-      "source": "Phys.org",
-      "category": "life_science",
-      "published_iso": "2026-11-18T10:50:01-05:00",
-      "excerpt": "A Biodiversity Data Journal study tested OpenAI's GPT-5.2 on 10,000 iNaturalist photos of Colombian vertebrates and found only 9.5% species-level accuracy, under 5% for amphibians, birds and fishes, even when told the location.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-misidentifies.jpg"
-    },
-    {
-      "title": "Brain researchers afflict LLMs with 'injuries' similar to those of stroke victims to unpack AI language mechanisms",
-      "url": "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html",
-      "source": "Tech Xplore",
-      "category": "cognition",
-      "published_iso": "2026-11-19T11:00:13-05:00",
-      "excerpt": "University of South Carolina aphasia researchers (Julius Fridriksson) lesioned layers of large language models and gave them the same tests used on post-stroke patients (Patterns). The damaged models produced error patterns resembling human aphasia, offering a clinical-neuroscience framework for probing LLMs.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-regions-1.jpg"
-    },
-    {
-      "title": "How AI can identify the magnetic structures behind high-frequency energy loss",
-      "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
-      "source": "Tech Xplore",
-      "category": "physics",
-      "published_iso": "2026-11-18T15:40:09-05:00",
-      "excerpt": "Tokyo University of Science (Masato Kotsugi) combined large-scale simulations of a nanocrystalline soft magnet with persistent homology and explainable, physics-interpretable topological machine learning to pinpoint which domain-wall structures drive energy barriers at high frequency (NPG Asia Materials).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg"
-    },
-    {
-      "title": "AI can identify themes in human interviews but still misses nuances in meaning",
-      "url": "https://techxplore.com/news/2026-11-ai-themes-human-nuances.html",
-      "source": "Tech Xplore",
-      "category": "psychology",
-      "published_iso": "2026-11-17T16:00:09-05:00",
-      "excerpt": "University of Missouri's AURA framework compared BERTopic topics with human-coded themes from 32 interviews (International Journal of Qualitative Methods): 11 of 12 human themes matched an AI topic, but the model merged or split themes and missed contextual meaning.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-test-finds-ai-matc.jpg"
-    },
-    {
-      "title": "An AI-powered 'supertelescope' could revolutionize astronomy—provided someone builds it",
-      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
+      "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
       "source": "Scientific American",
-      "category": "astronomy",
-      "published_iso": "2026-11-19T09:00:00-05:00",
-      "excerpt": "Astronomers led by Gioia Rau propose using AI to fuse overlapping pixels from Rubin, Euclid and Roman into a virtual fourth observatory with sharper images for dark-matter and dark-energy studies, petabytes at a time.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200"
+      "category": "science",
+      "published_iso": "2026-11-20T09:00:00-05:00",
+      "excerpt": "Anthropic mathematician Levent Alpöge announced an AI-generated (Claude-assisted) proof of the 167-year-old Riemann hypothesis, long considered far out of reach for human mathematicians, capping AI's year-long run of math results.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+      "subtopic": "research_automation/math",
+      "history_match": {
+        "score": 0.205,
+        "date": "2026-10-28",
+        "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+        "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
+        "band": "related"
+      },
+      "cluster": "c0"
     },
     {
-      "title": "Ancient Maya site uncovered with 'vibe archaeology' ignites firestorm over AI in science",
-      "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/",
+      "title": "The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest",
+      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
       "source": "Scientific American",
-      "category": "humanities",
-      "published_iso": "2026-11-19T06:00:00-05:00",
-      "excerpt": "Contrary to viral claims, AI agents did not discover an ancient Maya site, but the episode sparked a clash among archaeologists over how AI tools should be used and credited in science.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/b334372c-f7bd-4651-b8b3-87b2a1c2b07b/maya-site.png?m=1795042074.768&w=1200"
+      "category": "science",
+      "published_iso": "2026-11-20T16:00:00-05:00",
+      "excerpt": "Independent mathematicians say they are near to completing verification of the claimed AI-assisted solution to the Riemann hypothesis and that it is almost certainly correct. Follow-up to the same-day announcement; curator should pick one Riemann item.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/64e45f50-d1c5-4a9f-ad48-60b52541abcc/riemann-proven.jpg?m=1795211310.647&w=1200",
+      "subtopic": "research_automation/math",
+      "cluster": "c0"
+    },
+    {
+      "title": "AI just solved the 'real' Navier-Stokes problem",
+      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-11-20T12:00:00-05:00",
+      "excerpt": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge claim a new AI-aided proof of Navier-Stokes blowup that closes the loophole critics found in OpenAI's September solution of the fluid-dynamics Millennium Prize problem.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+      "subtopic": "physics/fluid dynamics",
+      "history_match": {
+        "score": 0.253,
+        "date": "2026-10-23",
+        "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
+        "title": "The inside story behind OpenAI's million-dollar math proof",
+        "band": "related"
+      }
+    },
+    {
+      "title": "New approach enables physically consistent AI models of chaotic systems",
+      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-11-20T20:00:00Z",
+      "excerpt": "MIT LIDS researchers developed a physics-constrained machine learning approach that guarantees bounded predictions for chaotic systems, enabling reliable AI surrogates for turbulent flows, weather and climate modeling.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
+      "subtopic": "physics/turbulence neural PDE"
+    },
+    {
+      "title": "System of agentic AI for the discovery of metal-organic frameworks (MOFGen)",
+      "url": "https://www.nature.com/articles/s43588-026-01058-x",
+      "source": "Nature Computational Science",
+      "category": "science",
+      "published_iso": "2026-11-20T10:01:46Z",
+      "excerpt": "MOFGen chains an LLM that proposes MOF compositions, a diffusion model that generates crystal structures, quantum-mechanical filter agents and synthesizability agents; it generated hundreds of thousands of MOFs and four 'AI-dreamt' MOFs were successfully synthesized. Off-list exception: no on-list outlet covered this materials result.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+      "subtopic": "materials/synthesized MOF"
+    },
+    {
+      "title": "AI virtual cell technology could reveal how genetic changes and drugs alter cells",
+      "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-11-19T22:00:06-05:00",
+      "excerpt": "Texas A&M's PertReason model predicts how genetic perturbations and drugs alter cell behavior and traces the biological pathways behind the change; its PertReasonQA benchmark checks whether LLMs reach right answers with the right evidence (arXiv, NeurIPS 2026).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+      "subtopic": "life_science/virtual cell",
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-11-12",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+        "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "band": "related"
+      }
     },
     {
       "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
       "url": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
-      "source": "SingularityHub",
-      "category": "life_science",
+      "source": "Singularity Hub",
+      "category": "science",
       "published_iso": "2026-11-18T10:17:56-08:00",
-      "excerpt": "University of Missouri (Bing Yang) adapted Profluent's AI-designed gene editor OpenCRISPR-1 for rice, reaching up to 97% editing efficiency; edited plants resisted three strains of bacterial blight and passed the edits to the next generation.",
+      "excerpt": "University of Missouri's Bing Yang adapted Profluent's AI-designed OpenCRISPR-1 editor for plants, knocking out three SWEET genes in rice with up to 97% efficiency; edited plants resisted three bacterial blight strains and passed edits to offspring.",
       "og_image": "https://singularityhub.com/uploads/2026/11/rice-terraces-bali.jpeg?auto=webp",
+      "subtopic": "life_science/plant molecular biology",
       "history_match": {
-        "score": 0.496,
+        "score": 0.457,
         "date": "2026-10-29",
         "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
         "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
@@ -92,150 +104,154 @@
       }
     },
     {
-      "title": "AI Agents Ran a Biology Lab. Humans Popped in to Empty the Trash.",
-      "url": "https://singularityhub.com/2026/11/10/ai-agents-ran-a-biology-lab-humans-popped-in-to-empty-the-trash/",
-      "source": "SingularityHub",
-      "category": "research_automation",
-      "published_iso": "2026-11-10T08:18:21-08:00",
-      "excerpt": "Shanghai Jiao Tong University's AutoDNA agents planned workflows from literature and wrote code to drive robots across 20+ instrument types, running DNA synthesis, PCR (~98% yield) and sequencing with minimal human help, including writing and decoding a 78-strand DNA message.",
-      "og_image": "https://singularityhub.com/uploads/2026/11/pink-pipette-rows-of-test-tubes.jpeg?auto=webp",
+      "title": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
+      "url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-11-20T08:00:08-05:00",
+      "excerpt": "UCL and HKUST(GZ)'s Embodied Science Agent pairs a Bayesian-optimization planner with an adaptive robot; over 15 closed-loop rounds of dye-removal experiments it raised solution transmittance from 82% to 99.7% (arXiv preprint).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
+      "subtopic": "research_automation/self-driving lab"
+    },
+    {
+      "title": "How AI can identify the magnetic structures behind high-frequency energy loss",
+      "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-11-18T15:40:09-05:00",
+      "excerpt": "Tokyo University of Science used interpretable AI (persistent homology plus energy-landscape mapping) on micromagnetic simulations of an iron-based nanocrystalline soft magnet, pinpointing domain-wall features that raise the energy barrier as frequency climbs (NPG Asia Materials).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+      "subtopic": "materials/magnets"
+    },
+    {
+      "title": "Noninvasive brain interface uses AI suggestions to convey messages nearly three times faster",
+      "url": "https://techxplore.com/news/2026-11-noninvasive-brain-interface-ai-convey.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-11-20T15:00:04-05:00",
+      "excerpt": "Rutgers researchers paired a noninvasive BCI with a locally run fine-tuned language model that suggests words and phrases; healthy participants spelled meaning-based messages nearly three times faster than with dictionary prediction (IEEE TBME).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-group-of-people-stan.jpg",
+      "subtopic": "cognition/BCI (deprioritized)"
+    },
+    {
+      "title": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations",
+      "url": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-11-20T15:20:11-05:00",
+      "excerpt": "Penn State's PSUMamba fuses spectral, temporal and spatial hyperspectral data to flag crop stress before it is visible, reaching 94.47% accuracy on white button mushrooms with about ten times fewer operations than a Vision Transformer (Scientific Reports).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/novel-ai-model-can-rel.jpg",
+      "subtopic": "life_science/plant"
+    },
+    {
+      "title": "Researchers use AI to optimize sensor design for ultrasensitive vitamin C detection",
+      "url": "https://phys.org/news/2026-11-ai-optimize-sensor-ultrasensitive-vitamin.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-11-19T07:40:01-05:00",
+      "excerpt": "Sungkyunkwan University trained a machine learning model on 25 experiments to pick sensor-fabrication conditions out of 625 combinations; the AI-guided imprinted-polymer sensor hit a 778 pM detection limit and matched ELISA on urine samples (Chemical Engineering Journal).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-researchers-use-a.jpg",
+      "subtopic": "materials/AI-guided synthesis"
+    },
+    {
+      "title": "Your Best Quantum Error Correction Engineer Might Be a Bot",
+      "url": "https://quantumcomputingreport.com/your-best-quantum-error-correction-engineer-might-be-a-bot/",
+      "source": "Quantum Computing Report",
+      "category": "science",
+      "published_iso": "2026-11-19T23:44:15+00:00",
+      "excerpt": "An analysis of how AI is taking an increasingly central role in designing new quantum error-correcting codes and decoders, from neural decoders to AI-searched code constructions.",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-143.png",
+      "subtopic": "quantum/QEC decoders",
       "history_match": {
-        "score": 0.393,
-        "date": "2026-11-07",
-        "url": "https://www.nature.com/articles/d41586-026-03552-8",
-        "title": "AI agents run this automated biology lab that sequences DNA and more",
+        "score": 0.265,
+        "date": "2026-10-30",
+        "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
+        "title": "Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction",
         "band": "related"
       }
     },
     {
-      "title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
-      "url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
-      "source": "The Quantum Insider",
-      "category": "quantum",
-      "published_iso": "2026-11-19T11:51:36+00:00",
-      "excerpt": "BMO says it demonstrated quantum utility on IBM quantum hardware for feature selection, identifying which dataset variables are most useful for a machine-learning model (QML-on-hardware, deprioritized subtopic).",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/BMO-Financial-Group-Communications-BMO-Demonstrates-Quantum-Ut-1024x768.jpg",
+      "title": "Sand grain-sized wireless chip can monitor reactions to provide data for self-driving labs",
+      "url": "https://www.chemistryworld.com/news/sand-grain-sized-wireless-chip-can-monitor-reactions-to-provide-data-for-self-driving-labs/4024549.article",
+      "source": "Chemistry World",
+      "category": "science",
+      "published_iso": "2026-11-20T10:44:00+00:00",
+      "excerpt": "A sand-grain-sized wireless sensor chip checks reaction temperature in real time, producing thousands of data points per hour to train the AI models that steer self-driving labs.",
+      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/5/8/3/552583_science.aei784012fig1d4index_699011.jpg",
+      "subtopic": "research_automation/self-driving lab",
       "history_match": {
-        "score": 0.227,
-        "date": "2026-11-15",
-        "url": "https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/",
-        "title": "QodeX Quantum, NVIDIA, RTX BBN and U.S. Navy researchers forecast unstructured PDEs on 52-qubit IBM hardware",
+        "score": 0.274,
+        "date": "2026-10-22",
+        "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
+        "title": "Researchers develop conversational AI for self-driving labs",
         "band": "related"
       }
     },
     {
-      "title": "The Communal Brain Behind RFD4-Proteina",
-      "url": "https://www.ipd.uw.edu/2026/11/the-communal-brain-behind-rfd4-proteina/",
-      "source": "Institute for Protein Design",
-      "category": "life_science",
-      "published_iso": "2026-11-19T21:58:31+00:00",
-      "excerpt": "IPD describes RFD4-Proteina, a generative protein-design model co-developed with NVIDIA that merges the RFdiffusion and Proteina-Complexa lineages and delivers 5-10x the throughput of high-quality designs. Same story as the R&D World enzyme item.",
-      "og_image": "https://www.ipd.uw.edu/wp-content/uploads/2026/11/RFD4_image_cropped_blur.jpg",
-      "history_match": {
-        "score": 0.309,
-        "date": "2026-10-24",
-        "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
-        "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
-        "band": "related"
-      }
+      "title": "Following the 'mathocalypse,' mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-11-20T15:20:00Z",
+      "excerpt": "At MIT, leading mathematicians discussed the quality of AI-generated math, how the 'mathocalypse' is challenging research norms, and what remains for mathematicians whether they embrace machines or stay 'AI vegans.'",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-Math-AI-01-press.jpg",
+      "subtopic": "research_automation/math (commentary)"
     },
     {
-      "title": "How NVIDIA and David Baker's lab designed an enzyme with AI",
-      "url": "https://www.rdworldonline.com/nvidia-exec-on-how-ai-helped-david-bakers-lab-design-a-pesticide-degrading-enzyme/",
-      "source": "R&D World",
-      "category": "life_science",
-      "published_iso": "2026-11-18T17:33:28+00:00",
-      "excerpt": "Off-list (on-list IPD post lacks results): RFD4-Proteina designed metal-binding enzymes that break down the pesticide paraoxon; 89 of 288 designs were active vs 0 of 192 RFD3 designs, and six had 10-1,000x higher catalytic efficiency than earlier designs. Paper at rfd4-proteina.org, code on RosettaCommons.",
-      "og_image": "https://www.rdworldonline.com/wp-content/uploads/2026/11/image4-2.webp",
-      "history_match": {
-        "score": 0.235,
-        "date": "2026-10-24",
-        "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
-        "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
-        "band": "related"
-      }
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-11-19T22:15:00Z",
+      "excerpt": "Researchers used AI to examine nearly 4,000 studies and hundreds of code repositories, finding gaps in the information needed to scrutinize and reuse published prediction research.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/medical-code-pollard-research-00.jpeg",
+      "subtopic": "research meta (deprioritized: scientometrics)"
     },
     {
-      "title": "Theorizer comes to Asta",
-      "url": "https://allenai.org/blog/theorizer-in-asta",
-      "source": "Ai2",
-      "category": "research_automation",
-      "published_iso": "2026-11-19T00:00:00-08:00",
-      "excerpt": "Ai2 added Theorizer to its Asta science agent: it extracts findings from papers into templates and synthesizes candidate theories, each claim linked to supporting studies. No benchmark numbers reported.",
-      "og_image": "https://www.datocms-assets.com/64837/1795042518-theorizer-title-image-centered.png"
+      "title": "An Anthropic mathematician claims to have proven the Riemann hypothesis. We have to rethink how we reward expertise.",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion",
+      "source": "Live Science",
+      "category": "science",
+      "published_iso": "2026-11-20T16:52:18Z",
+      "excerpt": "Opinion: AI has upended the math community with a flood of results, and the field must rethink how it judges which questions and answers matter, putting humans back at the center. Same story as the SciAm Riemann items.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bVhGwBRqE9LgZ5wEdB3vzf-2000-80.jpg",
+      "subtopic": "research_automation/math (opinion)",
+      "cluster": "c0"
     },
     {
-      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
-      "source": "NVIDIA Newsroom",
-      "category": "research_automation",
-      "published_iso": "2026-11-16T16:04:00+00:00",
-      "excerpt": "Off-list (scientific foundation model release, no on-list coverage found): NVIDIA launched Nemotron for Science at SC26, open science-tuned models, an open chemistry dataset and post-training tools for agentic scientific discovery.",
-      "og_image": "https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_3ae01a42-fd11-4792-b9a1-a25649fd94c1-prv.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1"
-    },
-    {
-      "title": "The Art of Asking Questions: From Stephen Hawking to AI",
-      "url": "https://physics.aps.org/articles/v19/154",
-      "source": "Physics (APS)",
-      "category": "physics",
-      "published_iso": "2026-11-18T10:00:00+00:00",
-      "excerpt": "APS Physics essay on question-asking in physics, from Stephen Hawking to AI systems (commentary, not a new result).",
-      "og_image": "https://physics.aps.org/assets/3d890c06-0378-4714-a523-78759b0e791c/e154_2_thumb.png",
-      "history_match": {
-        "score": 0.194,
-        "date": "2026-11-02",
-        "url": "https://techxplore.com/news/2026-10-ai-human.html",
-        "title": "AI often passes for human, but asking follow-up questions can trip it up",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Using AI to accelerate neuroscience research",
-      "url": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
-      "source": "Medical Xpress",
-      "category": "cognition",
-      "published_iso": "2026-11-14T17:00:00+00:00",
-      "excerpt": "Neuroscience 2026 roundup (Tsinghua, UC Irvine, Berkeley Lab): a learning principle shared by artificial neural networks and fruit flies, a plain-English genomic-analysis tool, and brain-data standards. Conference presentations, no journal paper.",
-      "og_image": null
+      "title": "Catching AI's Mistakes Is a Mental Burden—and a Drag on Productivity",
+      "url": "https://singularityhub.com/2026/11/20/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity/",
+      "source": "Singularity Hub",
+      "category": "science",
+      "published_iso": "2026-11-20T07:00:00-08:00",
+      "excerpt": "A cognitive engineer explains the 'verification burden': productivity gains from AI are offset by the time and mental effort spent checking output, an instance of Woods' responsibility-authority double bind.",
+      "og_image": "https://singularityhub.com/uploads/2026/11/worker-at-desk-with-laptop.jpeg?auto=webp",
+      "subtopic": "psychology/cognitive offloading (essay)"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 17,
+    "dropped": 0,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
     "review": 6,
-    "same_story_pairs": []
+    "same_story_pairs": [
+      [
+        "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+        "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+        0.304
+      ],
+      [
+        "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+        "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion",
+        0.347
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-21",
-      "title": "Synthetic public opinion polling: AI personas don't always change their minds like real voters do",
-      "url": "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "AI that reconstructs cloud-covered ground in satellite images with photo-like clarity",
-      "url": "https://techxplore.com/news/2026-10-ai-reconstructs-cloud-ground-satellite.html"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Researchers dispute whether AI has passed the Turing test",
-      "url": "https://techxplore.com/news/2026-10-dispute-ai-turing.html"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
-      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip"
-    },
     {
       "date": "2026-10-22",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -905,6 +921,31 @@
       "date": "2026-11-19",
       "title": "This smell startup says its AI nose is as good as a human's",
       "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Theorizer comes to Asta",
+      "url": "https://allenai.org/blog/theorizer-in-asta"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "When AI misidentifies wildlife: New study maps where species identification fails",
+      "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Brain researchers afflict LLMs with 'injuries' similar to those of stroke victims to unpack AI language mechanisms",
+      "url": "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Ancient Maya site uncovered with 'vibe archaeology' ignites firestorm over AI in science",
+      "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "An AI-powered 'supertelescope' could revolutionize astronomy—provided someone builds it",
+      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/"
     }
   ]
 }

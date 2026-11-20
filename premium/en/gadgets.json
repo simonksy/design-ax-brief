@@ -13031,6 +13031,147 @@
           "x": "An industry official said, “The smart home industry is moving away from device control centered on its own apps and voice assistants and expanding connections with external general-purpose AI services,” adding, “Smart home services are evolving toward letting users manage multiple appliances through everyday conversation without opening a specific manufacturer's app.”"
         }
       ]
+    },
+    "gadgets/nothing-ai-device-dec8-design": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In classic Carl Pei fashion, Nothing has begun to trickle out details about its latest product. On Friday the company shared that it plans to officially debut the new \"AI-native device\" with \"no new screen and an experience that couldn't have been built as an app,\" on December 8. And if that was all there was to report, we probably wouldn't be publishing this story, but a photo of gadget has lazily drifted across social media like a fat cloud of fruit-flavored nicotine, thanks an unlikely source."
+        },
+        {
+          "t": "p",
+          "x": "On Wednesday at 10:28PM ET, Sebastian Ingrosso of house music trio Swedish House Mafia posted a photo on social media with Nothing's official X account tagged. Between a pair of Nothing Headphone 1 Pro headphones and a MacBook Pro, we can see a device that clearly fits the description of a screenless gadget like the one described by Nothing. \"Bro... y u leak?\" one X user wrote in response to the Ingrosso's photo. Is this a coordinated marketing stunt by Nothing? (Yes, duh.) Decide for yourself."
+        },
+        {
+          "t": "p",
+          "x": "The one thing I can't get over is the fact that it looks like two vapes put together. Judging from the teaser the company shared, it also has at least one camera, likely for some kind of visual intelligence feature. We'll reserve judgment until we see the new device in person, but right now it looks like a rare miss by Nothing's design team."
+        },
+        {
+          "t": "p",
+          "x": "Joking aside, it will be interesting to see how Nothing positions this device; the track record for AI gadgets isn't exactly encouraging. Humane went out of business at the start of last year, and Rabbit has sort of plodded along ever since the debut of the R1."
+        }
+      ]
+    },
+    "gadgets/rayban-meta-gen3-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rating: 7.3/10. Meta's third-generation Ray-Ban glasses get cosmetic updates and a few performance upgrades around the edges. They come in three frame styles — a slimmer Wayfarer, the new cat-eye Zena and Aviator — at $449, while Zena and Aviator start at $529."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Aviator frames felt oversized and kept slipping down the nose; unlike some other Meta glasses, they need to be adjusted professionally. Gen 3 adds the action button, a customizable shortcut for any Meta AI query, battery life of \"up to 9 hours\" plus 50 hours from the case, and an extra microphone for clearer calls."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta AI is now powered by Muse Spark, which made conversations feel more natural and reduced errors. Meta previewed its Muse agent on the glasses, still in \"beta,\" and the reviewer worries AI features will push Meta One subscriptions. A new setting lets you opt out of training on \"visual data\" from the glasses."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta's non-Ray-Ban glasses offer basically the same features from $249, Gen 2 is $349 and Gen 1 $224, so the only reasons to choose Gen 3 are the Ray-Ban styles or the extra bit of battery life."
+        }
+      ]
+    },
+    "gadgets/phison-npu-ssd-sc26": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Phison detailed two new enterprise SSD designs at Supercomputer 2026 (SC26): one with a built-in NPU and 64GB of 130 GB/s memory that supports running PyTorch, vLLM, OpenVINO, and llama.cpp directly on the drive, and another that merges fast pSLC cache with large QLC capacity behind just one controller. The company notes that “many of the products and features mentioned are still in development.”"
+        },
+        {
+          "t": "p",
+          "x": "The computational-storage drive runs AI code on the data where it resides and sends back results instead of whole datasets, which Phison claims could mean 10 to 100 times less data transferred for applicable workloads. The NPU is expected to deliver “36,800 DMIPS of compute performance,” though no TOPS figure was given, and nothing was disclosed about how a host reaches the drive’s compute."
+        },
+        {
+          "t": "p",
+          "x": "The Mixed Media drive is a 16-channel part whose pSLC and QLC regions get separate namespaces, so no dedicated cache drives are needed; “losing one drive out of 24 would result in a 4% cache loss instead of a 25% loss,” Phison says. Kioxia and DapuStor have shown similar designs. Of the two, Mixed Media looks like the nearer product."
+        }
+      ]
+    },
+    "gadgets/insbotics-pophie-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Pophie doesn’t wait for a wake word. InsBotics built this plush desktop robot to watch the room and speak first when the moment looks right — a Proactive Interaction feature that only runs on the $20 a month Pro plan. It sells for $399, with a Black Friday discount."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A super wide-angle camera and dual-mic array with voice-direction sensing give her always-on awareness, and a continuous VAD emotion model drives her expressions. She stands 5.1 by 5.7 by 6.1 inches, weighs 1.9 pounds, and uses two TFT LCD eyes, five stepper motors and eight touch sensors."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "InsBotics says she remembers your people and pets — names, who’s who and what they love — keeping separate memories per person by voice and face. She speaks eleven languages. Closing her eyes turns vision off while voice conversation keeps running."
+        },
+        {
+          "t": "p",
+          "x": "Every Pophie includes two months of Pro; the free plan then allows ten minutes of conversation a day, and Standard costs $10 a month. Her Kickstarter closed at $439,275 from 1,168 backers."
+        }
+      ]
+    },
+    "gadgets/openai-foxconn-phone-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Shimul Sood / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is apparently moving ahead with its plans to launch a smartphone. A report from China's Securities Times claims that Foxconn subsidiary FIH Mobile has received an order to help assemble a smartphone for the ChatGPT maker. Foxconn has been Apple's lead partner for assembling iPhones, Macs and other Apple hardware."
+        },
+        {
+          "t": "p",
+          "x": "Details are slim on the order size, the specs and the market launch targets, and the report relies on unnamed supply chain sources."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, TF International Securities analyst Ming-Chi Kuo reported that the company is working on a smartphone that will lean heavily into agentic AI experiences, with MediaTek appearing better positioned than Qualcomm to supply the processor. Kuo named Luxshare, not Foxconn, as the phone's exclusive design and manufacturing partner, so it's unclear how the two reports fit together."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI has remained mum on its smartphone plans, but it is developing AI-first hardware with io, the company started by former Apple design chief Jony Ive. Breaking into the market won't be easy: Google has gone all in on AI with Android, and Apple has hit its stride with Siri AI. It's unlikely OpenAI will build its own operating system."
+        }
+      ]
     }
   }
 }

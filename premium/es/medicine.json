@@ -5053,6 +5053,119 @@
           "x": "Baek Seung-wook, presidente de Lunit, señaló: “Todavía no hay consenso sobre cuánto vale aumentar un 1% la tasa de detección del cáncer”, y destacó la necesidad de que la remuneración sea previsible. Como fuentes de financiación se plantearon el erario público, el seguro nacional de salud y los seguros privados, pero no se ha definido cómo se repartiría el coste."
         }
       ]
+    },
+    "medicine/npj-cloud-vs-local-llm-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los mensajes del portal del paciente concentran una parte sustancial de la comunicación ambulatoria, y el creciente volumen ha ralentizado la respuesta clínica a las preocupaciones urgentes que llegan mezcladas con el tráfico rutinario. Aún no está claro si los modelos de lenguaje de gran tamaño (LLMs) pueden clasificar estos mensajes ni si los modelos de pesos abiertos alojados localmente pueden igualar a los alojados en la nube."
+        },
+        {
+          "t": "p",
+          "x": "Evaluamos seis LLMs (GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B) frente a un estándar de referencia médico en tres cohortes: 500 mensajes de atención primaria enriquecidos con casos urgentes, 503 mensajes de una clínica de epilepsia del mismo sistema de salud y 300 mensajes escritos por pacientes en plataformas públicas ajenas a él."
+        },
+        {
+          "t": "p",
+          "x": "Con la adjudicación por mayoría (Majority) en atención primaria, GPT-5 no pasó por alto ningún mensaje urgente, y cuatro de los seis modelos, incluido uno que puede desplegarse en las propias instalaciones, alcanzaron una sensibilidad de 0,97 o superior y un valor predictivo negativo de 0,98 o superior. El orden de clasificación se mantuvo en todas las cohortes. Tanto los LLMs en la nube como los locales pueden descartar mensajes urgentes con alta sensibilidad, aunque la especificidad siguió siendo limitada."
+        }
+      ]
+    },
+    "medicine/jama-emotional-support-ai-cohort": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los sistemas de inteligencia artificial (IA) generativa son hoy fuentes accesibles de apoyo emocional privado, pero su valor clínico es incierto. Este estudio de cohorte longitudinal de panel en internet, con 2 oleadas, usó datos basales de 2024 y de seguimiento de 2025 de la Japan COVID-19 and Society Internet Survey (JACSIS) para examinar si las necesidades basales de salud mental se asociaban con el uso regular de IA generativa de apoyo emocional en el seguimiento entre personas sin una fuente habitual de atención."
+        },
+        {
+          "t": "p",
+          "x": "Entre 6852 encuestados sin una fuente habitual de atención, el uso regular de IA de apoyo emocional aumentó con el nivel de necesidad: 4,6% de quienes tenían menor necesidad, 9,4% de quienes tenían necesidad elevada, 16,3% de quienes tenían necesidad alta y 20,7% de quienes presentaban ambos indicadores. La PR ajustada fue de 1,67 para necesidad elevada, 2,61 para necesidad alta y 2,71 para ambos indicadores."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
+          "cap": "Uso regular de IA generativa de apoyo emocional según el nivel basal de necesidad de salud mental"
+        },
+        {
+          "t": "p",
+          "x": "Estos hallazgos no deben interpretarse como prueba de que el uso de IA sea terapéutico, seguro o un sustituto de la atención profesional. Más bien, el uso de IA de apoyo emocional puede ser un marcador de una necesidad de apoyo considerable y de búsqueda digital de ayuda entre personas cuyas necesidades pueden no ser visibles a través de las vías habituales de atención."
+        }
+      ]
+    },
+    "medicine/revealdx-reviewer-lung-nodule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RevealDx, desarrolladora de IA para nódulos pulmonares, presenta dos productos de imagen pulmonar e IA."
+        },
+        {
+          "t": "p",
+          "x": "Los productos son ReViewer, un visor de imágenes de calidad diagnóstica para identificar y cuantificar nódulos pulmonares, y ReViz, un panel de garantía de calidad y gestión de la práctica para supervisar el rendimiento de la IA."
+        },
+        {
+          "t": "p",
+          "x": "ReViewer permite desplegar el software RevealAI-Lung de la compañía en cualquier PACS, mientras que ReViz permite a los proveedores de salud seguir el rendimiento de la IA. Los clientes pueden seguir usando sistemas de detección y gestión de nódulos de terceros, según la empresa."
+        },
+        {
+          "t": "p",
+          "x": "RevealAI-Lung recibió en 2026 la autorización (FDA-cleared) de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. Food and Drug Administration, FDA) para su uso en nódulos pulmonares detectados de forma incidental. RevealDx indicó que también prevé ofrecer gratis su software de cribado de cáncer de pulmón RevealAI-Screen a pacientes de EE. UU. (U.S.), a la espera de la autorización de la FDA."
+        }
+      ]
+    },
+    "medicine/healthcaredive-shadow-ai-breaches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "Las empresas sanitarias se enfrentan a graves riesgos de ciberseguridad por depender de sistemas de IA que no supervisan con cuidado, según un informe publicado el martes por la firma de seguridad DNSFilter."
+        },
+        {
+          "t": "p",
+          "x": "En la encuesta de DNSFilter, solo el 27% de los encuestados dijo estar seguro de que su organización supervisaba todas sus herramientas de seguridad, y 4 de cada 10 afirmaron supervisar menos de la mitad."
+        },
+        {
+          "t": "p",
+          "x": "El 27% de los profesionales de TI (IT) y ciberseguridad de organizaciones sanitarias dijo conocer conexiones de IA no autorizadas a sus plataformas, y otro 23% sospechaba que se habían producido, aunque no podía demostrarlo. Aunque el 70% afirmó que su organización tiene políticas de IA, solo el 40% dijo que su empresa las aplica de forma sistemática."
+        },
+        {
+          "t": "p",
+          "x": "En casi la mitad (47%) de las organizaciones sanitarias, los empleadores pueden autorizar que una nueva herramienta de IA acceda a los sistemas de la empresa sin aprobación de un nivel superior. Uno de cada 10 encuestados dijo que una herramienta de IA no aprobada ya había provocado un incidente de ciberseguridad."
+        }
+      ]
+    },
+    "medicine/uhcleveland-ai-alerts-impact": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En esta presentación científica, los investigadores mostrarán el impacto real de las alertas de AI que señalan hallazgos radiológicos posiblemente omitidos."
+        },
+        {
+          "t": "p",
+          "x": "El ponente Charit R. Tippareddy, MD, de UH Radiology Cleveland, y sus colegas evaluaron el impacto clínico real, el daño potencial y la carga operativa de las alertas de AI por “non-engagement” (falta de interacción). Estas alertas piden al radiólogo reevaluar un caso cuando apenas interactuó con un resultado positivo de la AI que no quedó documentado en el informe."
+        },
+        {
+          "t": "p",
+          "x": "El grupo analizó de forma retrospectiva 154 alertas generadas durante un año tras implantar una plataforma comercial de AI en un gran sistema de salud."
+        },
+        {
+          "t": "p",
+          "x": "Solo 19 alertas (12%) produjeron cambios significativos en el manejo. Las alertas de embolia pulmonar y hemorragia intracraneal fueron las que con más probabilidad cambiaron la atención, aunque algunas alertas de embolia pulmonar derivaron en complicaciones del tratamiento, incluido un episodio de sangrado mayor, según los investigadores."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, el tipo más común —las alertas de fractura costal— no tuvo un impacto clínico significativo, y las alertas de otros hallazgos tampoco cambiaron el manejo. Aun así, cada alerta activó un flujo de trabajo de varios pasos gestionado por el personal de informática radiológica, lo que hizo que incluso las alertas de bajo rendimiento consumieran tiempo y recursos de forma desproporcionada, observaron los investigadores."
+        },
+        {
+          "t": "p",
+          "x": "“Los sistemas de alertas de AI deben evaluarse según los resultados reales —no solo la detección— para reducir la fatiga por alertas, evitar intervenciones innecesarias y garantizar mejoras significativas en la atención al paciente”, escribieron los investigadores."
+        }
+      ]
     }
   }
 }

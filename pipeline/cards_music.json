@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "section": "music",
   "cards": [
     {
-      "id": "aria-musician-tdm-exemption",
+      "id": "eightmile-suno-amended",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "호주 음악계,\n음악인만 AI 면제 거부",
-      "body": "ARIA는 음악인만 빼주는 AI 면제안을 실행 불가능하다며 다른 창작자 편에 섰다.",
-      "mini_headline": "ARIA, 음악인 전용 면제 거부",
+      "headline": "Eminem 음악출판사\nSuno 소송 범위 넓혀",
+      "body": "Eight Mile Style이 Eminem 26곡의 Suno판 108건을 보탰다.",
+      "mini_headline": "Eminem 측, Suno 소송 확대",
       "tool": "Music",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/20/eight-mile-style-v-suno-amended-suit/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-            "cap": "Aria CEO Annabelle Herd는 음악 산업이 다른 창작자를 저버리지 않겠다며 ‘우리는 나머지 창작·미디어 산업과 함께한다’고 말했다. 사진: Wendell Teodoro/Getty Images"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+            "cap": "Photo Credit: EJ Hersom"
           },
           {
             "t": "p",
-            "x": "음악 산업이 다른 창작 분야를 버려두는 AI 예외 협상은 받아들이지 않겠다고 선언했다. 음악인만 특별 대우하고 빅테크에는 다른 저작물로 학습할 길을 열어 주는 방안이 보도되자 곧바로 거부했다. David Pocock은 이를 “분할 통치 전략”이라고 불렀다."
+            "x": "Suno를 상대로 한 저작권 침해 소송이 또 범위를 넓혔다. 이번엔 Eminem의 음악 출판사 Eight Mile Style이다. Elvis Presley Enterprises, Reservoir 등에 이어 거액이 걸린 청구를 보강했다."
           },
           {
             "t": "p",
-            "x": "Australian Financial Review 보도에 따르면 정부는 저작권 제도 손질을 검토 중이다. AI 기업이 허가를 사서 호주 콘텐츠로 학습하게 하되 음악만은 예외로 둘 수도 있다는 안이다. Guardian Australia는 세부 내용을 따로 확인하지 못했다."
+            "x": "Eight Mile은 이 생성형 AI 신생 기업을 처음 고소한 지 두 주도 안 돼 수정 소장을 냈다. 원고 주장은 이렇다. Suno가 Eminem 작품 269곡을 무단으로 긁어 모델 학습에 썼고 그 과정에서 DMCA를 어겼으며, 구독자들이 허락 없는 2차 결과물을 만들게 놔뒀다. 그 상당수가 Slim Shady의 목소리를 흉내 냈다고 원고 측은 본다."
           },
           {
             "t": "p",
-            "x": "Aria 최고경영자 Annabelle Herd는 “우리와 협의했다면 이 제도가 불필요하고 실행 불가능하며, 창작자를 보호하기보다 AI 기업의 상업적 이익에 맞춰 설계됐다고 조언했을 것”이라고 했다. 그러면서 “우리 입장은 변함없다. 우리는 나머지 창작·미디어 산업과 함께한다”고 덧붙였다."
+            "x": "Eight Mile이 저작권 침해와 DMCA 위반을 합쳐 요구한 법정 손해배상은 총 $47.8M 이다. 침해됐다는 작품 수와 청구액은 두 소장이 같다."
           },
           {
             "t": "p",
-            "x": "Australian Writers’ Guild, Media, Entertainment and Arts Alliance, 야당 연합 Coalition, 녹색당 Greens도 이 구상에 반대하고 나섰다. 녹색당 상원의원 Sarah Hanson-Young은 “이런 허점을 허용하면 호주는 AI의 케이맨 제도(Cayman Islands)로 알려지게 될 것”이라고 경고했다."
+            "x": "달라진 건 원고가 “다수의 추가 사례를…관련 작품 중 스물여섯 곡에 대한 추가 침해 결과물 108건을 포함해” 덧붙였다는 점이다. 사례는 공개 Vimeo 폴더에 모여 있다. DJ가 재해석한 “Without Me”, “헤비 얼터너티브 록” 버전의 “The Real Slim Shady”, “재즈” 풍의 “Lose Yourself” 등이다."
+          },
+          {
+            "t": "p",
+            "x": "Bright Data는 앞서 Gerencia 360 v. Suno와 Round Hill v. Suno 소송에서 무단 수집한 학습 파일을 댄 혐의로 이름이 올랐다. 이번엔 곧바로 빠져 이후 소장에서는 피고가 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Australian music rejects\nmusician-only AI exemption",
-          "body": "ARIA called a reported musician-only AI scraping exemption unworkable, refusing to be split from other creatives.",
-          "mini_headline": "ARIA rejects musician-only exemption",
+          "headline": "Eminem's publisher widens\nits copyright suit against Suno",
+          "body": "Eight Mile Style's amended complaint adds 108 more allegedly infringing Suno outputs drawn from 26 Eminem works.",
+          "mini_headline": "Eminem publisher widens Suno suit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "The Aria CEO, Annabelle Herd, says the music industry won’t desert other creatives: ‘We stand with the rest of the creative and media industries.’ Photograph: Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "The music industry has declared it will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other copyrighted material – described by David Pocock as a “divide and conquer strategy”."
+                "x": "Suno is facing yet another expanded copyright infringement lawsuit – this time from Eminem publisher Eight Mile Style, which has joined Elvis Presley Enterprises, Reservoir, and others in bolstering its high-stakes claims."
               },
               {
                 "t": "p",
-                "x": "The Australian Financial Review reported the government was considering a copyright change under which AI companies would buy permits to train on Australian content but that music may be exempted. Guardian Australia was not able to independently verify details of the proposal."
+                "x": "Eight Mile made the amended action official less than two weeks after initially suing the gen AI upstart. The plaintiff maintains that Suno scraped 269 Eminem works and used them to train its models, allegedly violating the DMCA in the process, then allowed subscribers to generate unauthorized derivative outputs, a number of which allegedly mimicked Slim Shady’s voice."
               },
               {
                 "t": "p",
-                "x": "“Had we been consulted, we would have advised this scheme is unnecessary, unworkable and designed to suit the commercial interests of AI companies, not protect creators,” Aria chief executive Annabelle Herd said. “Our position is unchanged: we stand with the rest of the creative and media industries.”"
+                "x": "Eight Mile is pushing for a cumulative $47.8 million in statutory damages on the infringement and DMCA sides. The allegedly infringed works count and the sought damages are the same across both versions of the suit."
               },
               {
                 "t": "p",
-                "x": "The Australian Writers’ Guild, the Media, Entertainment and Arts Alliance, the Coalition and the Greens also rejected the idea. Greens senator Sarah Hanson-Young warned: “Australia will become known as the Cayman Islands for AI if we allow this loophole to happen.”"
+                "x": "What’s new: the plaintiff “added a multitude of additional examples…including 108 further examples of additional infringing output of twenty-six of” the relevant works, compiled in a public Vimeo folder – among them a DJ’s take on “Without Me,” a “heavy alternative rock” version of “The Real Slim Shady” and a “jazz” spin on “Lose Yourself.”"
+              },
+              {
+                "t": "p",
+                "x": "Bright Data, earlier named in Gerencia 360 v. Suno and Round Hill v. Suno for allegedly supplying scraped training files, was quickly dropped and isn’t a defendant in subsequent complaints."
               }
             ]
           }
         },
         "ko": {
-          "headline": "호주 음악계,\n음악인만 AI 면제 거부",
-          "body": "ARIA는 음악인만 빼주는 AI 면제안을 실행 불가능하다며 다른 창작자 편에 섰다.",
-          "mini_headline": "ARIA, 음악인 전용 면제 거부",
+          "headline": "Eminem 음악출판사\nSuno 소송 범위 넓혀",
+          "body": "Eight Mile Style이 Eminem 26곡의 Suno판 108건을 보탰다.",
+          "mini_headline": "Eminem 측, Suno 소송 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "Aria CEO Annabelle Herd는 음악 산업이 다른 창작자를 저버리지 않겠다며 ‘우리는 나머지 창작·미디어 산업과 함께한다’고 말했다. 사진: Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "음악 산업이 다른 창작 분야를 버려두는 AI 예외 협상은 받아들이지 않겠다고 선언했다. 음악인만 특별 대우하고 빅테크에는 다른 저작물로 학습할 길을 열어 주는 방안이 보도되자 곧바로 거부했다. David Pocock은 이를 “분할 통치 전략”이라고 불렀다."
+                "x": "Suno를 상대로 한 저작권 침해 소송이 또 범위를 넓혔다. 이번엔 Eminem의 음악 출판사 Eight Mile Style이다. Elvis Presley Enterprises, Reservoir 등에 이어 거액이 걸린 청구를 보강했다."
               },
               {
                 "t": "p",
-                "x": "Australian Financial Review 보도에 따르면 정부는 저작권 제도 손질을 검토 중이다. AI 기업이 허가를 사서 호주 콘텐츠로 학습하게 하되 음악만은 예외로 둘 수도 있다는 안이다. Guardian Australia는 세부 내용을 따로 확인하지 못했다."
+                "x": "Eight Mile은 이 생성형 AI 신생 기업을 처음 고소한 지 두 주도 안 돼 수정 소장을 냈다. 원고 주장은 이렇다. Suno가 Eminem 작품 269곡을 무단으로 긁어 모델 학습에 썼고 그 과정에서 DMCA를 어겼으며, 구독자들이 허락 없는 2차 결과물을 만들게 놔뒀다. 그 상당수가 Slim Shady의 목소리를 흉내 냈다고 원고 측은 본다."
               },
               {
                 "t": "p",
-                "x": "Aria 최고경영자 Annabelle Herd는 “우리와 협의했다면 이 제도가 불필요하고 실행 불가능하며, 창작자를 보호하기보다 AI 기업의 상업적 이익에 맞춰 설계됐다고 조언했을 것”이라고 했다. 그러면서 “우리 입장은 변함없다. 우리는 나머지 창작·미디어 산업과 함께한다”고 덧붙였다."
+                "x": "Eight Mile이 저작권 침해와 DMCA 위반을 합쳐 요구한 법정 손해배상은 총 $47.8M 이다. 침해됐다는 작품 수와 청구액은 두 소장이 같다."
               },
               {
                 "t": "p",
-                "x": "Australian Writers’ Guild, Media, Entertainment and Arts Alliance, 야당 연합 Coalition, 녹색당 Greens도 이 구상에 반대하고 나섰다. 녹색당 상원의원 Sarah Hanson-Young은 “이런 허점을 허용하면 호주는 AI의 케이맨 제도(Cayman Islands)로 알려지게 될 것”이라고 경고했다."
+                "x": "달라진 건 원고가 “다수의 추가 사례를…관련 작품 중 스물여섯 곡에 대한 추가 침해 결과물 108건을 포함해” 덧붙였다는 점이다. 사례는 공개 Vimeo 폴더에 모여 있다. DJ가 재해석한 “Without Me”, “헤비 얼터너티브 록” 버전의 “The Real Slim Shady”, “재즈” 풍의 “Lose Yourself” 등이다."
+              },
+              {
+                "t": "p",
+                "x": "Bright Data는 앞서 Gerencia 360 v. Suno와 Round Hill v. Suno 소송에서 무단 수집한 학습 파일을 댄 혐의로 이름이 올랐다. 이번엔 곧바로 빠져 이후 소장에서는 피고가 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪音楽界、音楽家限定の\nAI例外を拒否",
-          "body": "ARIAは音楽家限定のAI例外案を実行不可能と退け、他の創作者との分断を拒んだ。",
-          "mini_headline": "ARIA、音楽家限定の例外を拒否",
+          "headline": "Eminemの出版社\nSuno訴訟を拡大",
+          "body": "Eight Mile StyleがEminem 26作品のSuno版108件を追加した。",
+          "mini_headline": "Eminem側がSuno訴訟を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "Aria CEOのAnnabelle Herdは、音楽業界が他の創作者を見捨てることはないと語った。「私たちは他のクリエイティブ産業、メディア産業と共にある」。写真：Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "音楽業界は、他の創作分野を置き去りにするAIの例外措置は受け入れないと表明した。音楽家だけを特別扱いし、ビッグテックが他の著作物で学習することを認めるという報道された案を拒否したのである。David Pocockはこの案を「分割統治の戦略」と評した。"
+                "x": "Sunoがまたも拡大された著作権侵害訴訟に直面している。今回はEminemの音楽出版社Eight Mile Styleで、Elvis Presley Enterprises、Reservoirなどに続き、巨額がかかった請求を強化した。"
               },
               {
                 "t": "p",
-                "x": "Australian Financial Reviewによると、政府はAI企業が許可を購入してオーストラリアのコンテンツで学習できるようにする著作権制度の変更を検討しており、音楽はその対象外になる可能性がある。Guardian Australiaは案の詳細を独自に確認できていない。"
+                "x": "Eight Mileは、この生成AI新興企業を最初に提訴してから二週間足らずで修正訴状を正式に提出した。原告は、SunoがEminemの作品269曲を無断収集してモデルの学習に使い、その過程でDMCAに違反したうえ、加入者に無許可の二次的生成物を作らせたと主張している。その一部はSlim Shadyの声を模倣していたとされる。"
               },
               {
                 "t": "p",
-                "x": "Aria最高経営責任者のAnnabelle Herdは「相談があれば、この制度は不要で実行不可能であり、創作者を守るためではなくAI企業の商業的利益に合わせて設計されていると助言しただろう」と述べた。さらに「私たちの立場は変わらない。他のクリエイティブ産業、メディア産業と共にある」と語った。"
+                "x": "Eight Mileは、著作権侵害とDMCA違反を合わせて総額$47.8M の法定損害賠償を求めている。侵害されたとする作品数と請求額は、新旧どちらの訴状でも変わらない。"
               },
               {
                 "t": "p",
-                "x": "Australian Writers’ Guild、Media, Entertainment and Arts Alliance、野党連合のCoalition、緑の党のGreensもこの案に反対した。緑の党のSarah Hanson-Young上院議員は「この抜け穴を認めれば、オーストラリアはAIのケイマン諸島（Cayman Islands）として知られることになる」と警告した。"
+                "x": "新たな点は、原告が「多数の追加事例を…関連作品のうち二十六曲についての追加の侵害出力108件を含めて」加えたことだ。これらは公開のVimeoフォルダにまとめられており、DJによる「Without Me」、「ヘビーなオルタナティブ・ロック」版の「The Real Slim Shady」、「ジャズ」風の「Lose Yourself」などが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "以前Gerencia 360 v. SunoとRound Hill v. Sunoで、無断収集した学習用ファイルを提供したとして名指しされたBright Dataはすぐに外され、その後の訴状では被告になっていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳大利亚音乐界拒绝\n仅限音乐人的AI豁免",
-          "body": "ARIA称传闻中仅限音乐人的AI数据抓取豁免不可行，拒绝与其他创作者割裂。",
-          "mini_headline": "ARIA拒绝仅限音乐人的豁免",
+          "headline": "Eminem出版商\n扩大对Suno的版权诉讼",
+          "body": "Eight Mile Style新增108个Suno侵权输出，涉及Eminem 26首歌。",
+          "mini_headline": "Eminem出版商扩大Suno诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "Aria CEO Annabelle Herd表示，音乐产业不会抛弃其他创作者：“我们与其他创意和媒体产业站在一起。”摄影：Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "音乐产业宣布，不会接受将其他创意领域甩在身后的AI例外安排。据报道，有一项提案拟给予音乐人特殊待遇，同时允许大型科技公司用其他受版权保护的内容训练模型，音乐产业对此予以拒绝。David Pocock称这是一种“分而治之的策略”。"
+                "x": "Suno再次面临一起扩大范围的版权侵权诉讼——这次来自Eminem的音乐出版商Eight Mile Style，它继Elvis Presley Enterprises、Reservoir等之后，也加码了这场高风险的索赔。"
               },
               {
                 "t": "p",
-                "x": "Australian Financial Review报道称，政府正在考虑修改版权制度，让AI公司购买许可后使用澳大利亚内容进行训练，但音乐可能获得豁免。Guardian Australia未能独立核实该提案的细节。"
+                "x": "Eight Mile在首次起诉这家生成式AI新创公司不到两周后，正式提交了修订诉状。原告坚称，Suno抓取了269首Eminem作品用于训练模型，涉嫌在此过程中违反DMCA，随后又允许订阅用户生成未经授权的衍生作品，其中一些据称模仿了Slim Shady的声音。"
               },
               {
                 "t": "p",
-                "x": "Aria首席执行官Annabelle Herd表示：“如果征求过我们的意见，我们会指出这一方案没有必要、无法执行，而且是为迎合AI公司的商业利益而设计，并非为了保护创作者。”她还说：“我们的立场没有改变：我们与其他创意和媒体产业站在一起。”"
+                "x": "Eight Mile就侵权和DMCA两方面合计索赔$47.8M 法定赔偿。两版诉状中涉嫌被侵权的作品数量和索赔金额相同。"
               },
               {
                 "t": "p",
-                "x": "Australian Writers’ Guild、Media, Entertainment and Arts Alliance、反对党联盟Coalition以及绿党Greens也反对这一设想。绿党参议员Sarah Hanson-Young警告：“如果我们允许这个漏洞出现，澳大利亚将成为AI领域的开曼群岛（Cayman Islands）。”"
+                "x": "新增内容是：原告“补充了大量额外示例……包括针对相关作品中二十六首的108个额外侵权输出示例”，并汇集在一个公开的Vimeo文件夹中——其中有DJ版的“Without Me”、“重型另类摇滚”版的“The Real Slim Shady”以及“爵士”版的“Lose Yourself”。"
+              },
+              {
+                "t": "p",
+                "x": "Bright Data此前在Gerencia 360 v. Suno和Round Hill v. Suno案中因涉嫌提供抓取的训练文件而被点名，但很快被撤下，在后续诉状中已不是被告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La música australiana rechaza\nexención de AI solo a músicos",
-          "body": "ARIA calificó de inviable la supuesta exención de AI solo para músicos y se negó a separarse de otros creadores.",
-          "mini_headline": "ARIA rechaza una exención solo para músicos",
+          "headline": "La editora de Eminem amplía\nsu demanda contra Suno",
+          "body": "La demanda enmendada de Eight Mile Style añade 108 resultados infractores de Suno basados en 26 obras de Eminem.",
+          "mini_headline": "La editora de Eminem amplía su demanda a Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "La CEO de Aria, Annabelle Herd, afirma que la industria musical no abandonará a otros creadores: ‘Estamos con el resto de las industrias creativas y de medios’. Fotografía: Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "La industria musical ha declarado que no aceptará un acuerdo de excepción sobre AI que deje atrás a otros sectores creativos, y ha rechazado una propuesta, según informaciones publicadas, que daría a los músicos un trato especial mientras permite a las grandes tecnológicas entrenar con otro material protegido por derechos de autor, algo que David Pocock describió como una “estrategia de divide y vencerás”."
+                "x": "Suno enfrenta otra demanda ampliada por infracción de copyright, esta vez de Eight Mile Style, la editora de Eminem, que se suma a Elvis Presley Enterprises, Reservoir y otros en reforzar sus reclamaciones de alto riesgo."
               },
               {
                 "t": "p",
-                "x": "The Australian Financial Review informó de que el Gobierno estudiaba un cambio en los derechos de autor por el que las empresas de AI comprarían permisos para entrenar con contenido australiano, aunque la música podría quedar exenta. Guardian Australia no pudo verificar de forma independiente los detalles de la propuesta."
+                "x": "Eight Mile oficializó la demanda enmendada menos de dos semanas después de demandar por primera vez a la empresa emergente de AI generativa. La demandante sostiene que Suno extrajo 269 obras de Eminem y las usó para entrenar sus modelos, supuestamente violando la DMCA en el proceso, y luego permitió que los suscriptores generaran obras derivadas no autorizadas, algunas de las cuales supuestamente imitaban la voz de Slim Shady."
               },
               {
                 "t": "p",
-                "x": "“Si nos hubieran consultado, habríamos advertido que este esquema es innecesario, inviable y está diseñado para servir a los intereses comerciales de las empresas de AI, no para proteger a los creadores”, dijo la directora ejecutiva de Aria, Annabelle Herd. “Nuestra posición no ha cambiado: estamos con el resto de las industrias creativas y de medios”."
+                "x": "Eight Mile reclama un total de $47.8 millones en daños legales por la infracción y por la DMCA. El número de obras supuestamente infringidas y la indemnización solicitada son iguales en ambas versiones de la demanda."
               },
               {
                 "t": "p",
-                "x": "The Australian Writers’ Guild, la Media, Entertainment and Arts Alliance, la Coalition y los Greens también rechazaron la idea. La senadora de los Greens Sarah Hanson-Young advirtió: “Australia será conocida como las Cayman Islands de la AI si permitimos que exista este resquicio”."
+                "x": "La novedad: la demandante “añadió multitud de ejemplos adicionales…incluidos 108 ejemplos más de resultados infractores adicionales de veintiséis de” las obras en cuestión, recopilados en una carpeta pública de Vimeo; entre ellos, una versión de un DJ de “Without Me”, una versión de “rock alternativo pesado” de “The Real Slim Shady” y una versión “jazz” de “Lose Yourself”."
+              },
+              {
+                "t": "p",
+                "x": "Bright Data, mencionada antes en Gerencia 360 v. Suno y Round Hill v. Suno por supuestamente suministrar archivos de entrenamiento extraídos, fue retirada rápidamente y no figura como demandada en las demandas posteriores."
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "호주 음악계,\n음악인만 AI 면제 거부",
-          "body": "ARIA는 음악인 전용 AI 면제안이 실행 불가능하다며 다른 창작자 편에 섰다.",
-          "mini_headline": "ARIA, 음악인 전용 면제 거부",
+          "headline": "Eminem 음악출판사\nSuno 상대 소송 확대",
+          "body": "Eight Mile Style은 Eminem 26곡의 Suno판 108건을 더했다.",
+          "mini_headline": "Eminem 측, Suno 소송 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "Aria CEO Annabelle Herd는 음악 산업이 다른 창작자들을 저버리지 않을 것이라며 ‘우리는 나머지 창작·미디어 산업과 함께한다’고 말했다. 사진: Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "음악 산업은 다른 창작 분야를 뒤에 남겨두는 AI 예외 협상을 받아들이지 않겠다고 선언했다. 음악인에게만 특별 대우를 하면서 빅테크가 다른 저작물로는 학습하도록 허용하는 방안이 보도되자 이를 거부한 것이다. David Pocock은 이 방안을 “분할 통치 전략”이라고 불렀다."
+                "x": "Suno가 또 한 번 범위가 넓어진 저작권 침해 소송에 맞닥뜨렸다. 이번에는 Eminem의 음악 출판사 Eight Mile Style로, Elvis Presley Enterprises, Reservoir 등에 이어 막대한 금액이 걸린 청구를 보강했다."
               },
               {
                 "t": "p",
-                "x": "Australian Financial Review는 정부가 저작권 제도 변경을 검토하고 있다고 보도했다. AI 기업이 허가를 사서 호주 콘텐츠로 학습하도록 하되 음악은 예외로 둘 수 있다는 내용이다. Guardian Australia는 이 방안의 세부 내용을 독자적으로 확인하지 못했다."
+                "x": "Eight Mile은 이 생성형 AI 신생 기업을 처음 고소한 지 두 주도 지나지 않아 수정 소장을 공식 제출했다. 원고는 Suno가 Eminem 작품 269곡을 무단 수집해 모델 학습에 썼고, 그 과정에서 DMCA를 위반했으며, 이후 구독자들이 승인받지 않은 2차 결과물을 만들도록 허용했다고 주장한다. 그중 상당수는 Slim Shady의 목소리를 흉내 냈다는 것이 원고 측 주장이다."
               },
               {
                 "t": "p",
-                "x": "Aria 최고경영자 Annabelle Herd는 “우리와 협의했다면 이 제도가 불필요하고 실행 불가능하며, 창작자를 보호하기보다 AI 기업의 상업적 이익에 맞춰 설계됐다고 조언했을 것”이라고 말했다. 이어 “우리 입장은 변함없다. 우리는 나머지 창작·미디어 산업과 함께한다”고 밝혔다."
+                "x": "Eight Mile은 저작권 침해와 DMCA 위반을 합쳐 총 $47.8M 의 법정 손해배상을 요구하고 있다. 침해됐다고 주장하는 작품 수와 청구 손해배상액은 두 버전의 소장에서 같다."
               },
               {
                 "t": "p",
-                "x": "Australian Writers’ Guild, Media, Entertainment and Arts Alliance, 야당 연합 Coalition, 녹색당 Greens도 이 구상에 반대했다. 녹색당 상원의원 Sarah Hanson-Young은 “이런 허점을 허용하면 호주는 AI의 케이맨 제도(Cayman Islands)로 알려지게 될 것”이라고 경고했다."
+                "x": "달라진 점은 원고가 “다수의 추가 사례를…관련 작품 중 스물여섯 곡에 대한 추가 침해 결과물 108건을 포함해” 덧붙였다는 것이다. 이 사례들은 공개 Vimeo 폴더에 정리돼 있으며, DJ가 재해석한 “Without Me”, “헤비 얼터너티브 록” 버전의 “The Real Slim Shady”, “재즈” 풍의 “Lose Yourself” 등이 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "앞서 Gerencia 360 v. Suno와 Round Hill v. Suno 소송에서 무단 수집한 학습 파일을 공급한 혐의로 이름이 올랐던 Bright Data는 곧바로 빠졌고, 이후 소장에서는 피고가 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪音楽界、音楽家限定の\nAI例外を拒否",
-          "body": "ARIAは音楽家限定のAI例外案を実行不可能と退け、他の創作者との分断を拒んだ。",
-          "mini_headline": "ARIA、音楽家限定の例外を拒否",
+          "headline": "Eminemの出版社\nSuno訴訟を拡大",
+          "body": "Eight Mile StyleがEminem 26作品のSuno版108件を追加した。",
+          "mini_headline": "Eminem側がSuno訴訟を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "Aria CEOのAnnabelle Herdは、音楽業界が他の創作者を見捨てることはないと語った。「私たちは他のクリエイティブ産業、メディア産業と共にある」。写真：Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "音楽業界は、他の創作分野を置き去りにするAIの例外措置は受け入れないと表明した。音楽家だけを特別扱いし、ビッグテックが他の著作物で学習することを認めるという報道された案を拒否したのである。David Pocockはこの案を「分割統治の戦略」と評した。"
+                "x": "Sunoがまたも拡大された著作権侵害訴訟に直面している。今回はEminemの音楽出版社Eight Mile Styleで、Elvis Presley Enterprises、Reservoirなどに続き、巨額がかかった請求を強化した。"
               },
               {
                 "t": "p",
-                "x": "Australian Financial Reviewによると、政府はAI企業が許可を購入してオーストラリアのコンテンツで学習できるようにする著作権制度の変更を検討しており、音楽はその対象外になる可能性がある。Guardian Australiaは案の詳細を独自に確認できていない。"
+                "x": "Eight Mileは、この生成AI新興企業を最初に提訴してから二週間足らずで修正訴状を正式に提出した。原告は、SunoがEminemの作品269曲を無断収集してモデルの学習に使い、その過程でDMCAに違反したうえ、加入者に無許可の二次的生成物を作らせたと主張している。その一部はSlim Shadyの声を模倣していたとされる。"
               },
               {
                 "t": "p",
-                "x": "Aria最高経営責任者のAnnabelle Herdは「相談があれば、この制度は不要で実行不可能であり、創作者を守るためではなくAI企業の商業的利益に合わせて設計されていると助言しただろう」と述べた。さらに「私たちの立場は変わらない。他のクリエイティブ産業、メディア産業と共にある」と語った。"
+                "x": "Eight Mileは、著作権侵害とDMCA違反を合わせて総額$47.8M の法定損害賠償を求めている。侵害されたとする作品数と請求額は、新旧どちらの訴状でも変わらない。"
               },
               {
                 "t": "p",
-                "x": "Australian Writers’ Guild、Media, Entertainment and Arts Alliance、野党連合のCoalition、緑の党のGreensもこの案に反対した。緑の党のSarah Hanson-Young上院議員は「この抜け穴を認めれば、オーストラリアはAIのケイマン諸島（Cayman Islands）として知られることになる」と警告した。"
+                "x": "新たな点は、原告が「多数の追加事例を…関連作品のうち二十六曲についての追加の侵害出力108件を含めて」加えたことだ。これらは公開のVimeoフォルダにまとめられており、DJによる「Without Me」、「ヘビーなオルタナティブ・ロック」版の「The Real Slim Shady」、「ジャズ」風の「Lose Yourself」などが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "以前Gerencia 360 v. SunoとRound Hill v. Sunoで、無断収集した学習用ファイルを提供したとして名指しされたBright Dataはすぐに外され、その後の訴状では被告になっていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳大利亚音乐界拒绝\n仅限音乐人的AI豁免",
-          "body": "ARIA称传闻中仅限音乐人的AI数据抓取豁免不可行，拒绝与其他创作者割裂。",
-          "mini_headline": "ARIA拒绝仅限音乐人的豁免",
+          "headline": "Eminem出版商\n扩大对Suno的版权诉讼",
+          "body": "Eight Mile Style新增108个Suno侵权输出，涉及Eminem 26首歌。",
+          "mini_headline": "Eminem出版商扩大Suno诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "Aria CEO Annabelle Herd表示，音乐产业不会抛弃其他创作者：“我们与其他创意和媒体产业站在一起。”摄影：Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "音乐产业宣布，不会接受将其他创意领域甩在身后的AI例外安排。据报道，有一项提案拟给予音乐人特殊待遇，同时允许大型科技公司用其他受版权保护的内容训练模型，音乐产业对此予以拒绝。David Pocock称这是一种“分而治之的策略”。"
+                "x": "Suno再次面临一起扩大范围的版权侵权诉讼——这次来自Eminem的音乐出版商Eight Mile Style，它继Elvis Presley Enterprises、Reservoir等之后，也加码了这场高风险的索赔。"
               },
               {
                 "t": "p",
-                "x": "Australian Financial Review报道称，政府正在考虑修改版权制度，让AI公司购买许可后使用澳大利亚内容进行训练，但音乐可能获得豁免。Guardian Australia未能独立核实该提案的细节。"
+                "x": "Eight Mile在首次起诉这家生成式AI新创公司不到两周后，正式提交了修订诉状。原告坚称，Suno抓取了269首Eminem作品用于训练模型，涉嫌在此过程中违反DMCA，随后又允许订阅用户生成未经授权的衍生作品，其中一些据称模仿了Slim Shady的声音。"
               },
               {
                 "t": "p",
-                "x": "Aria首席执行官Annabelle Herd表示：“如果征求过我们的意见，我们会指出这一方案没有必要、无法执行，而且是为迎合AI公司的商业利益而设计，并非为了保护创作者。”她还说：“我们的立场没有改变：我们与其他创意和媒体产业站在一起。”"
+                "x": "Eight Mile就侵权和DMCA两方面合计索赔$47.8M 法定赔偿。两版诉状中涉嫌被侵权的作品数量和索赔金额相同。"
               },
               {
                 "t": "p",
-                "x": "Australian Writers’ Guild、Media, Entertainment and Arts Alliance、反对党联盟Coalition以及绿党Greens也反对这一设想。绿党参议员Sarah Hanson-Young警告：“如果我们允许这个漏洞出现，澳大利亚将成为AI领域的开曼群岛（Cayman Islands）。”"
+                "x": "新增内容是：原告“补充了大量额外示例……包括针对相关作品中二十六首的108个额外侵权输出示例”，并汇集在一个公开的Vimeo文件夹中——其中有DJ版的“Without Me”、“重型另类摇滚”版的“The Real Slim Shady”以及“爵士”版的“Lose Yourself”。"
+              },
+              {
+                "t": "p",
+                "x": "Bright Data此前在Gerencia 360 v. Suno和Round Hill v. Suno案中因涉嫌提供抓取的训练文件而被点名，但很快被撤下，在后续诉状中已不是被告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La música australiana rechaza\nexención de AI solo a músicos",
-          "body": "ARIA calificó de inviable la supuesta exención de AI solo para músicos y se negó a separarse de otros creadores.",
-          "mini_headline": "ARIA rechaza una exención solo para músicos",
+          "headline": "La editora de Eminem amplía\nsu demanda contra Suno",
+          "body": "La demanda enmendada de Eight Mile Style añade 108 resultados infractores de Suno basados en 26 obras de Eminem.",
+          "mini_headline": "La editora de Eminem amplía su demanda a Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
-                "cap": "La CEO de Aria, Annabelle Herd, afirma que la industria musical no abandonará a otros creadores: ‘Estamos con el resto de las industrias creativas y de medios’. Fotografía: Wendell Teodoro/Getty Images"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+                "cap": "Photo Credit: EJ Hersom"
               },
               {
                 "t": "p",
-                "x": "La industria musical ha declarado que no aceptará un acuerdo de excepción sobre AI que deje atrás a otros sectores creativos, y ha rechazado una propuesta, según informaciones publicadas, que daría a los músicos un trato especial mientras permite a las grandes tecnológicas entrenar con otro material protegido por derechos de autor, algo que David Pocock describió como una “estrategia de divide y vencerás”."
+                "x": "Suno enfrenta otra demanda ampliada por infracción de copyright, esta vez de Eight Mile Style, la editora de Eminem, que se suma a Elvis Presley Enterprises, Reservoir y otros en reforzar sus reclamaciones de alto riesgo."
               },
               {
                 "t": "p",
-                "x": "The Australian Financial Review informó de que el Gobierno estudiaba un cambio en los derechos de autor por el que las empresas de AI comprarían permisos para entrenar con contenido australiano, aunque la música podría quedar exenta. Guardian Australia no pudo verificar de forma independiente los detalles de la propuesta."
+                "x": "Eight Mile oficializó la demanda enmendada menos de dos semanas después de demandar por primera vez a la empresa emergente de AI generativa. La demandante sostiene que Suno extrajo 269 obras de Eminem y las usó para entrenar sus modelos, supuestamente violando la DMCA en el proceso, y luego permitió que los suscriptores generaran obras derivadas no autorizadas, algunas de las cuales supuestamente imitaban la voz de Slim Shady."
               },
               {
                 "t": "p",
-                "x": "“Si nos hubieran consultado, habríamos advertido que este esquema es innecesario, inviable y está diseñado para servir a los intereses comerciales de las empresas de AI, no para proteger a los creadores”, dijo la directora ejecutiva de Aria, Annabelle Herd. “Nuestra posición no ha cambiado: estamos con el resto de las industrias creativas y de medios”."
+                "x": "Eight Mile reclama un total de $47.8 millones en daños legales por la infracción y por la DMCA. El número de obras supuestamente infringidas y la indemnización solicitada son iguales en ambas versiones de la demanda."
               },
               {
                 "t": "p",
-                "x": "The Australian Writers’ Guild, la Media, Entertainment and Arts Alliance, la Coalition y los Greens también rechazaron la idea. La senadora de los Greens Sarah Hanson-Young advirtió: “Australia será conocida como las Cayman Islands de la AI si permitimos que exista este resquicio”."
+                "x": "La novedad: la demandante “añadió multitud de ejemplos adicionales…incluidos 108 ejemplos más de resultados infractores adicionales de veintiséis de” las obras en cuestión, recopilados en una carpeta pública de Vimeo; entre ellos, una versión de un DJ de “Without Me”, una versión de “rock alternativo pesado” de “The Real Slim Shady” y una versión “jazz” de “Lose Yourself”."
+              },
+              {
+                "t": "p",
+                "x": "Bright Data, mencionada antes en Gerencia 360 v. Suno y Round Hill v. Suno por supuestamente suministrar archivos de entrenamiento extraídos, fue retirada rápidamente y no figura como demandada en las demandas posteriores."
               }
             ]
           }
@@ -325,15 +365,15 @@
       }
     },
     {
-      "id": "umg-ai-kill-switch-survey",
+      "id": "dmn-ai-streams-data",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UMG 조사 청취자 68%\nAI 음악 킬 스위치 원해",
-      "body": "UMG 조사에선 68%가 AI 음악 킬 스위치를 원해 Deezer 41%를 앞섰다.",
-      "mini_headline": "68%, AI 음악 킬 스위치 원해",
+      "headline": "AI 곡 업로드는 넘쳐도\n듣는 사람은 드물다",
+      "body": "DMN 새 데이터를 보면 AI 곡의 스트리밍과 팬은 업로드에 한참 못 미친다.",
+      "mini_headline": "AI 업로드, 스트리밍 앞질러",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/19/ai-music-streams-analysis/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -341,131 +381,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-            "cap": ""
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+            "cap": "Photo Credit: Ilias Chebbi"
           },
           {
             "t": "p",
-            "x": "Deezer가 이번 주 초 내놓은 설문에서는 청취자의 41%가 “음악 스트리밍 플랫폼에서 100% AI 생성(AI-generated) 음악을 걸러내고” 싶다고 답했다. UMG도 같은 질문으로 자체 조사를 했는데 수치가 더 높았다. 청취자의 68%가 AI 음악용 ‘킬 스위치’를 원했다."
+            "x": "AI 오디오가 양만 많고 실제 청취자는 적다는 건 이미 알려진 얘기다. 그런데 DMN이 이번 주 입수한 새 데이터를 보면 기계가 만든 곡이 모으는 스트리밍과 팬은 대부분의 예상보다 훨씬 적다."
           },
           {
             "t": "p",
-            "x": "“대다수 소비자는 투명성을 요구한다. 그들은 [AI-generated] 콘텐츠가 식별되기를 원한다. 콘텐츠에 표시가 붙기를 원한다. 우리가 킬 스위치라고 부르는 기능을 찾는 비율도 늘고 있다.” UMG의 EVP 겸 최고디지털책임자 Michael Nash는 이번 주 Morgan Stanley European Technology, Media and Telecom Conference의 UMG 세션에서 이렇게 말했다."
+            "x": "Tencent Music은 최근 자사 서비스의 AI 음악 소비를 “무시할 만한 수준”이라고 했다. Deezer도 앞서 AI 곡이 플랫폼 스트리밍의 1%에서 3%를 차지하고, 그중 85%는 부정 재생으로 분류돼 수익화가 막혔다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "여기에 한 대형 유통사 최고 임원이 눈여겨볼 통계를 내놨다. 이 회사가 US, EU, UK 전역의 DSPs에서 추적하는 활성 곡 약 300M 개 가운데 한 번이라도 재생된 곡은 약 40M 개뿐이다. 업로드된 260M 개, 약 87%는 한 번도 재생되지 않았다는 얘기다."
+          },
+          {
+            "t": "p",
+            "x": "한때 화제였던 AI 아티스트들도 시들하다. Agtverse 청취자는 약 일 년 새 82% 줄어 50,000명 아래를 맴돈다. SireWolf는 88% 급감해 월간 청취자가 22,000명으로 떨어졌다. 유료 리믹스·커버 도구를 준비하는 Spotify는 2026년 초부터 AI-generated 트랙 50M 개를 추천에서 뺐다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UMG: 68% of listeners want\nan AI music kill switch",
-          "body": "UMG listener research found 68% want a kill switch to filter AI music from streaming, far above Deezer's 41%.",
-          "mini_headline": "68% want an AI music kill switch",
+          "headline": "AI uploads far outpace\nwhat listeners actually stream",
+          "body": "New data shared with DMN shows AI tracks draw far fewer streams and fans than their upload volume suggests.",
+          "mini_headline": "AI uploads outpace streams",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "A survey published by Deezer earlier this week claimed that 41% of listeners would like to “filter out 100% AI-generated music from their music streaming platform”. However, UMG has been conducting its own research into this question, and come up with some higher numbers: 68% of listeners want a ‘kill switch’ for AI music."
+                "x": "We know AI audio is heavy on volume and comparatively light on actual listeners. But a fresh tranche of data shared with DMN this week reveals that machine-generated tracks are racking up far fewer streams and fans than most realize."
               },
               {
                 "t": "p",
-                "x": "“The vast majority of consumers demand transparency. They want the [AI-generated] content identified. They want the content labeled. An increasing percentage are looking for what we call a kill switch,” said EVP and chief digital officer Michael Nash during UMG’s session at the Morgan Stanley European Technology, Media and Telecom Conference this week."
+                "x": "Tencent Music recently described its services’ AI music consumption as “negligible.” Deezer had previously pointed to AI tracks accounting for between 1% and 3% of on-platform streams – with 85% thereof flagged as fraudulent and demonetized."
+              },
+              {
+                "t": "p",
+                "x": "A top exec at a major distributor then shared a telling stat: of the 300 million or so actively available tracks it tracks on DSPs across the US, EU and the UK, only around 40 million have generated at least one stream. Put differently, 260 million uploads, about 87%, haven’t received even a single play."
+              },
+              {
+                "t": "p",
+                "x": "Viral AI acts have faded too: Agtverse’s listener count is hovering beneath 50,000 – down 82% in roughly one year – and SireWolf suffered an 88% slip, to 22,000 monthly listeners. Spotify, preparing a paid remix and cover tool, revealed it’d booted 50 million AI-generated tracks from recommendations since 2026’s beginning."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UMG 조사 청취자 68%\nAI 음악 킬 스위치 원해",
-          "body": "UMG 조사에선 68%가 AI 음악 킬 스위치를 원해 Deezer 41%를 앞섰다.",
-          "mini_headline": "68%, AI 음악 킬 스위치 원해",
+          "headline": "AI 곡 업로드는 넘쳐도\n듣는 사람은 드물다",
+          "body": "DMN 새 데이터를 보면 AI 곡의 스트리밍과 팬은 업로드에 한참 못 미친다.",
+          "mini_headline": "AI 업로드, 스트리밍 앞질러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Deezer가 이번 주 초 내놓은 설문에서는 청취자의 41%가 “음악 스트리밍 플랫폼에서 100% AI 생성(AI-generated) 음악을 걸러내고” 싶다고 답했다. UMG도 같은 질문으로 자체 조사를 했는데 수치가 더 높았다. 청취자의 68%가 AI 음악용 ‘킬 스위치’를 원했다."
+                "x": "AI 오디오가 양만 많고 실제 청취자는 적다는 건 이미 알려진 얘기다. 그런데 DMN이 이번 주 입수한 새 데이터를 보면 기계가 만든 곡이 모으는 스트리밍과 팬은 대부분의 예상보다 훨씬 적다."
               },
               {
                 "t": "p",
-                "x": "“대다수 소비자는 투명성을 요구한다. 그들은 [AI-generated] 콘텐츠가 식별되기를 원한다. 콘텐츠에 표시가 붙기를 원한다. 우리가 킬 스위치라고 부르는 기능을 찾는 비율도 늘고 있다.” UMG의 EVP 겸 최고디지털책임자 Michael Nash는 이번 주 Morgan Stanley European Technology, Media and Telecom Conference의 UMG 세션에서 이렇게 말했다."
+                "x": "Tencent Music은 최근 자사 서비스의 AI 음악 소비를 “무시할 만한 수준”이라고 했다. Deezer도 앞서 AI 곡이 플랫폼 스트리밍의 1%에서 3%를 차지하고, 그중 85%는 부정 재생으로 분류돼 수익화가 막혔다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "여기에 한 대형 유통사 최고 임원이 눈여겨볼 통계를 내놨다. 이 회사가 US, EU, UK 전역의 DSPs에서 추적하는 활성 곡 약 300M 개 가운데 한 번이라도 재생된 곡은 약 40M 개뿐이다. 업로드된 260M 개, 약 87%는 한 번도 재생되지 않았다는 얘기다."
+              },
+              {
+                "t": "p",
+                "x": "한때 화제였던 AI 아티스트들도 시들하다. Agtverse 청취자는 약 일 년 새 82% 줄어 50,000명 아래를 맴돈다. SireWolf는 88% 급감해 월간 청취자가 22,000명으로 떨어졌다. 유료 리믹스·커버 도구를 준비하는 Spotify는 2026년 초부터 AI-generated 트랙 50M 개를 추천에서 뺐다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UMG：聴き手の68%が\nAI音楽の遮断機能を望む",
-          "body": "UMGの調査では68%がAI音楽のキルスイッチを望み、Deezerの41%を上回った。",
-          "mini_headline": "68%がAI音楽のキルスイッチを要望",
+          "headline": "AI曲は投稿ばかり多く\n実際の再生は少ない",
+          "body": "DMNが得た新データでは、AI曲の再生数とファン数は投稿量に比べてはるかに少ない。",
+          "mini_headline": "AI曲、投稿が再生を上回る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Deezerが今週初めに公表した調査では、リスナーの41%が「音楽ストリーミングプラットフォームから100% AI生成（AI-generated）の音楽を除外したい」と答えたという。一方、UMGもこの問いについて独自に調査を進めており、より高い数字を得た。リスナーの68%がAI音楽の「キルスイッチ」を求めているという。"
+                "x": "AI音源は量ばかり多く、実際のリスナーは比較的少ないことは知られている。だが今週DMNに提供された新たなデータは、機械が生成した楽曲が大方の想像よりはるかに少ない再生数とファンしか得ていないことを示している。"
               },
               {
                 "t": "p",
-                "x": "「消費者の大多数は透明性を求めている。[AI-generated]コンテンツが識別されることを望み、ラベル表示を望んでいる。私たちがキルスイッチと呼ぶものを求める人の割合も増えている」。UMGのEVP兼最高デジタル責任者Michael Nashは今週、Morgan Stanley European Technology, Media and Telecom ConferenceでのUMGのセッションでこう語った。"
+                "x": "Tencent Musicは最近、自社サービスにおけるAI音楽の消費を「ごくわずか」と表現した。Deezerは以前、AI楽曲がプラットフォーム上の再生の1%から3%を占め、そのうち85%が不正と判定されて収益化を停止されたと指摘していた。"
+              },
+              {
+                "t": "p",
+                "x": "さらに大手ディストリビューターの幹部が示唆に富む数字を明かした。同社がUS、EU、UKのDSPsで追跡している約300M 曲の配信中楽曲のうち、一度でも再生されたのは約40M 曲にすぎない。言い換えれば、アップロードされた260M 曲、約87%は一度も再生されていない。"
+              },
+              {
+                "t": "p",
+                "x": "話題になったAIアーティストも失速している。Agtverseのリスナー数は約一年で82%減って50,000人を下回る水準で推移し、SireWolfは88%減の月間リスナー22,000人に落ち込んだ。有料のリミックス・カバー機能を準備中のSpotifyは、2026年初めからAI-generated楽曲50M 曲をおすすめから外したと明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UMG：68%听众希望\n能一键屏蔽AI音乐",
-          "body": "UMG调查显示68%的听众希望一键过滤流媒体上的AI音乐，远高于Deezer的41%。",
-          "mini_headline": "68%听众想要AI音乐屏蔽开关",
+          "headline": "AI歌曲上传量激增\n实际播放却远远落后",
+          "body": "DMN获得的新数据显示，AI歌曲的播放量和粉丝数远低于其上传量所显示的水平。",
+          "mini_headline": "AI上传量远超播放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Deezer本周早些时候发布的一项调查称，41%的听众希望“在音乐流媒体平台上过滤掉100% AI生成（AI-generated）的音乐”。不过，UMG也一直在就这一问题开展自己的研究，得出的数字更高：68%的听众希望为AI音乐设置“一键屏蔽开关”（kill switch）。"
+                "x": "我们知道，AI音频数量庞大，而真正的听众相对稀少。但本周DMN获得的一批新数据显示，机器生成的曲目所获得的播放量和粉丝远比大多数人想象的少。"
               },
               {
                 "t": "p",
-                "x": "“绝大多数消费者要求透明。他们希望[AI-generated]内容被识别出来，希望内容带有标注。越来越多的人在寻找我们所说的一键屏蔽开关。”UMG的EVP兼首席数字官Michael Nash本周在Morgan Stanley European Technology, Media and Telecom Conference的UMG专场上这样表示。"
+                "x": "Tencent Music最近称其旗下服务的AI音乐消费“微不足道”。Deezer此前指出，AI曲目占平台播放量的1%至3%，其中85%被标记为欺诈并取消变现。"
+              },
+              {
+                "t": "p",
+                "x": "随后，一家大型发行商的高管分享了一个耐人寻味的数据：在其追踪的US、EU和UK各DSPs上约300M 首在架曲目中，只有约40M 首至少被播放过一次。换句话说，260M 首上传曲目，约87%，连一次播放都没有。"
+              },
+              {
+                "t": "p",
+                "x": "走红的AI音乐人也在降温：Agtverse的听众数在约一年内下跌82%，徘徊在50,000以下；SireWolf则下滑88%，月听众降至22,000。正在筹备付费混音和翻唱工具的Spotify透露，自2026年初以来已将50M 首AI-generated曲目移出推荐。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UMG: el 68% de oyentes quiere\nun interruptor para música AI",
-          "body": "UMG halló que el 68% de oyentes quiere un interruptor para filtrar la música AI, frente al 41% de Deezer.",
-          "mini_headline": "El 68% quiere un interruptor para la música AI",
+          "headline": "Las pistas de AI se suben mucho\nmás de lo que se escuchan",
+          "body": "Datos cedidos a DMN muestran que las pistas de AI logran muchas menos escuchas y fans de lo que sugiere su volumen.",
+          "mini_headline": "Las subidas de AI superan a las escuchas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Una encuesta publicada por Deezer a principios de esta semana afirmaba que el 41% de los oyentes querría “filtrar la música 100% AI-generated de su plataforma de streaming musical”. Sin embargo, UMG ha realizado su propia investigación sobre esta cuestión y ha obtenido cifras más altas: el 68% de los oyentes quiere un ‘interruptor de apagado’ para la música AI."
+                "x": "Sabemos que el audio de AI abunda en volumen y escasea, en comparación, en oyentes reales. Pero un nuevo lote de datos compartido con DMN esta semana revela que las pistas generadas por máquinas acumulan muchas menos escuchas y fans de lo que la mayoría cree."
               },
               {
                 "t": "p",
-                "x": "“La gran mayoría de los consumidores exige transparencia. Quieren que el contenido [AI-generated] esté identificado. Quieren que el contenido esté etiquetado. Un porcentaje creciente busca lo que llamamos un interruptor de apagado”, dijo el EVP y director digital Michael Nash durante la sesión de UMG en la Morgan Stanley European Technology, Media and Telecom Conference esta semana."
+                "x": "Tencent Music describió recientemente el consumo de música de AI en sus servicios como “insignificante”. Deezer ya había señalado que las pistas de AI representan entre el 1% y el 3% de las escuchas en la plataforma, y que el 85% de ellas se marca como fraudulento y se desmonetiza."
+              },
+              {
+                "t": "p",
+                "x": "Un alto directivo de una gran distribuidora compartió después un dato revelador: de las cerca de 300 millones de pistas activas que rastrea en DSPs de US, EU y UK, solo unos 40 millones han generado al menos una escucha. Dicho de otro modo, 260 millones de subidas, cerca del 87%, no han recibido ni una sola reproducción."
+              },
+              {
+                "t": "p",
+                "x": "Los artistas de AI virales también se han desinflado: la cifra de oyentes de Agtverse ronda por debajo de 50,000, con una caída del 82% en aproximadamente un año, y SireWolf sufrió un descenso del 88%, hasta 22,000 oyentes mensuales. Spotify, que prepara una herramienta de pago para remixes y versiones, reveló que ha retirado de sus recomendaciones 50 millones de pistas AI-generated desde comienzos de 2026."
               }
             ]
           }
@@ -473,93 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UMG: 청취자 68%\nAI 음악 킬 스위치 원해",
-          "body": "UMG 조사에서 68%가 AI 음악 킬 스위치를 원해 Deezer 41%를 넘었다.",
-          "mini_headline": "68%, AI 음악 킬 스위치 원해",
+          "headline": "AI 곡 업로드는 넘쳐도\n실제 청취는 한참 적다",
+          "body": "DMN이 받은 새 데이터상 AI 곡의 스트리밍과 팬은 업로드 규모보다 훨씬 적다.",
+          "mini_headline": "AI 업로드, 스트리밍 앞질러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Deezer가 이번 주 초 발표한 설문에 따르면 청취자의 41%가 “음악 스트리밍 플랫폼에서 100% AI 생성(AI-generated) 음악을 걸러내고” 싶어 한다. 그런데 UMG도 같은 질문을 두고 자체 조사를 진행했고, 더 높은 수치를 얻었다. 청취자의 68%가 AI 음악용 ‘킬 스위치’를 원한다는 것이다."
+                "x": "AI 오디오가 양은 많고 실제 청취자는 상대적으로 적다는 점은 이미 알려져 있다. 하지만 이번 주 DMN이 받은 새 데이터는 기계가 만든 곡들이 대부분의 예상보다 훨씬 적은 스트리밍과 팬을 모으고 있음을 보여준다."
               },
               {
                 "t": "p",
-                "x": "“대다수 소비자는 투명성을 요구한다. 그들은 [AI-generated] 콘텐츠가 식별되기를 원한다. 콘텐츠에 표시가 붙기를 원한다. 우리가 킬 스위치라고 부르는 기능을 찾는 비율도 늘고 있다.” UMG의 EVP 겸 최고디지털책임자 Michael Nash는 이번 주 Morgan Stanley European Technology, Media and Telecom Conference의 UMG 세션에서 이렇게 말했다."
+                "x": "Tencent Music은 최근 자사 서비스의 AI 음악 소비를 “무시할 만한 수준”이라고 표현했다. Deezer는 앞서 AI 곡이 플랫폼 스트리밍의 1%에서 3%를 차지하며, 그중 85%가 부정 재생으로 분류돼 수익화가 막혔다고 밝힌 바 있다."
+              },
+              {
+                "t": "p",
+                "x": "이어 한 대형 유통사의 최고 임원이 의미심장한 통계를 공유했다. 이 회사가 US, EU, UK 전역의 DSPs에서 추적하는 약 300M 개의 활성 곡 가운데 한 번이라도 재생된 곡은 약 40M 개뿐이라는 것이다. 바꿔 말하면 업로드된 260M 개, 약 87%가 단 한 번도 재생되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "화제를 모았던 AI 아티스트들도 시들해졌다. Agtverse의 청취자 수는 약 일 년 만에 82% 줄어 50,000명 아래를 맴돌고, SireWolf는 88% 급감해 월간 청취자 22,000명으로 떨어졌다. 유료 리믹스·커버 도구를 준비 중인 Spotify는 2026년 초부터 AI-generated 트랙 50M 개를 추천에서 뺐다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UMG：聴き手の68%が\nAI音楽の遮断機能を望む",
-          "body": "UMGの調査では68%がAI音楽のキルスイッチを望み、Deezerの41%を上回った。",
-          "mini_headline": "68%がAI音楽のキルスイッチを要望",
+          "headline": "AI曲は投稿ばかり多く\n実際の再生は少ない",
+          "body": "DMNが得た新データでは、AI曲の再生数とファン数は投稿量に比べてはるかに少ない。",
+          "mini_headline": "AI曲、投稿が再生を上回る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Deezerが今週初めに公表した調査では、リスナーの41%が「音楽ストリーミングプラットフォームから100% AI生成（AI-generated）の音楽を除外したい」と答えたという。一方、UMGもこの問いについて独自に調査を進めており、より高い数字を得た。リスナーの68%がAI音楽の「キルスイッチ」を求めているという。"
+                "x": "AI音源は量ばかり多く、実際のリスナーは比較的少ないことは知られている。だが今週DMNに提供された新たなデータは、機械が生成した楽曲が大方の想像よりはるかに少ない再生数とファンしか得ていないことを示している。"
               },
               {
                 "t": "p",
-                "x": "「消費者の大多数は透明性を求めている。[AI-generated]コンテンツが識別されることを望み、ラベル表示を望んでいる。私たちがキルスイッチと呼ぶものを求める人の割合も増えている」。UMGのEVP兼最高デジタル責任者Michael Nashは今週、Morgan Stanley European Technology, Media and Telecom ConferenceでのUMGのセッションでこう語った。"
+                "x": "Tencent Musicは最近、自社サービスにおけるAI音楽の消費を「ごくわずか」と表現した。Deezerは以前、AI楽曲がプラットフォーム上の再生の1%から3%を占め、そのうち85%が不正と判定されて収益化を停止されたと指摘していた。"
+              },
+              {
+                "t": "p",
+                "x": "さらに大手ディストリビューターの幹部が示唆に富む数字を明かした。同社がUS、EU、UKのDSPsで追跡している約300M 曲の配信中楽曲のうち、一度でも再生されたのは約40M 曲にすぎない。言い換えれば、アップロードされた260M 曲、約87%は一度も再生されていない。"
+              },
+              {
+                "t": "p",
+                "x": "話題になったAIアーティストも失速している。Agtverseのリスナー数は約一年で82%減って50,000人を下回る水準で推移し、SireWolfは88%減の月間リスナー22,000人に落ち込んだ。有料のリミックス・カバー機能を準備中のSpotifyは、2026年初めからAI-generated楽曲50M 曲をおすすめから外したと明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UMG：68%听众希望\n能一键屏蔽AI音乐",
-          "body": "UMG调查显示68%的听众希望一键过滤流媒体上的AI音乐，远高于Deezer的41%。",
-          "mini_headline": "68%听众想要AI音乐屏蔽开关",
+          "headline": "AI歌曲上传量激增\n实际播放却远远落后",
+          "body": "DMN获得的新数据显示，AI歌曲的播放量和粉丝数远低于其上传量所显示的水平。",
+          "mini_headline": "AI上传量远超播放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Deezer本周早些时候发布的一项调查称，41%的听众希望“在音乐流媒体平台上过滤掉100% AI生成（AI-generated）的音乐”。不过，UMG也一直在就这一问题开展自己的研究，得出的数字更高：68%的听众希望为AI音乐设置“一键屏蔽开关”（kill switch）。"
+                "x": "我们知道，AI音频数量庞大，而真正的听众相对稀少。但本周DMN获得的一批新数据显示，机器生成的曲目所获得的播放量和粉丝远比大多数人想象的少。"
               },
               {
                 "t": "p",
-                "x": "“绝大多数消费者要求透明。他们希望[AI-generated]内容被识别出来，希望内容带有标注。越来越多的人在寻找我们所说的一键屏蔽开关。”UMG的EVP兼首席数字官Michael Nash本周在Morgan Stanley European Technology, Media and Telecom Conference的UMG专场上这样表示。"
+                "x": "Tencent Music最近称其旗下服务的AI音乐消费“微不足道”。Deezer此前指出，AI曲目占平台播放量的1%至3%，其中85%被标记为欺诈并取消变现。"
+              },
+              {
+                "t": "p",
+                "x": "随后，一家大型发行商的高管分享了一个耐人寻味的数据：在其追踪的US、EU和UK各DSPs上约300M 首在架曲目中，只有约40M 首至少被播放过一次。换句话说，260M 首上传曲目，约87%，连一次播放都没有。"
+              },
+              {
+                "t": "p",
+                "x": "走红的AI音乐人也在降温：Agtverse的听众数在约一年内下跌82%，徘徊在50,000以下；SireWolf则下滑88%，月听众降至22,000。正在筹备付费混音和翻唱工具的Spotify透露，自2026年初以来已将50M 首AI-generated曲目移出推荐。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UMG: el 68% de oyentes quiere\nun interruptor para música AI",
-          "body": "UMG halló que el 68% de oyentes quiere un interruptor para filtrar la música AI, frente al 41% de Deezer.",
-          "mini_headline": "El 68% quiere un interruptor para la música AI",
+          "headline": "Las pistas de AI se suben mucho\nmás de lo que se escuchan",
+          "body": "Datos cedidos a DMN muestran que las pistas de AI logran muchas menos escuchas y fans de lo que sugiere su volumen.",
+          "mini_headline": "Las subidas de AI superan a las escuchas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-48.png?fit=780%2C585&ssl=1",
-                "cap": ""
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+                "cap": "Photo Credit: Ilias Chebbi"
               },
               {
                 "t": "p",
-                "x": "Una encuesta publicada por Deezer a principios de esta semana afirmaba que el 41% de los oyentes querría “filtrar la música 100% AI-generated de su plataforma de streaming musical”. Sin embargo, UMG ha realizado su propia investigación sobre esta cuestión y ha obtenido cifras más altas: el 68% de los oyentes quiere un ‘interruptor de apagado’ para la música AI."
+                "x": "Sabemos que el audio de AI abunda en volumen y escasea, en comparación, en oyentes reales. Pero un nuevo lote de datos compartido con DMN esta semana revela que las pistas generadas por máquinas acumulan muchas menos escuchas y fans de lo que la mayoría cree."
               },
               {
                 "t": "p",
-                "x": "“La gran mayoría de los consumidores exige transparencia. Quieren que el contenido [AI-generated] esté identificado. Quieren que el contenido esté etiquetado. Un porcentaje creciente busca lo que llamamos un interruptor de apagado”, dijo el EVP y director digital Michael Nash durante la sesión de UMG en la Morgan Stanley European Technology, Media and Telecom Conference esta semana."
+                "x": "Tencent Music describió recientemente el consumo de música de AI en sus servicios como “insignificante”. Deezer ya había señalado que las pistas de AI representan entre el 1% y el 3% de las escuchas en la plataforma, y que el 85% de ellas se marca como fraudulento y se desmonetiza."
+              },
+              {
+                "t": "p",
+                "x": "Un alto directivo de una gran distribuidora compartió después un dato revelador: de las cerca de 300 millones de pistas activas que rastrea en DSPs de US, EU y UK, solo unos 40 millones han generado al menos una escucha. Dicho de otro modo, 260 millones de subidas, cerca del 87%, no han recibido ni una sola reproducción."
+              },
+              {
+                "t": "p",
+                "x": "Los artistas de AI virales también se han desinflado: la cifra de oyentes de Agtverse ronda por debajo de 50,000, con una caída del 82% en aproximadamente un año, y SireWolf sufrió un descenso del 88%, hasta 22,000 oyentes mensuales. Spotify, que prepara una herramienta de pago para remixes y versiones, reveló que ha retirado de sus recomendaciones 50 millones de pistas AI-generated desde comienzos de 2026."
               }
             ]
           }
@@ -567,219 +687,219 @@
       }
     },
     {
-      "id": "neutone-terra-drum-synth",
+      "id": "anukari-11-ai-patches",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Neutone Terra,\n뉴럴 드럼을 지도로",
-      "body": "Neutone Terra는 맵마다 아날로그·디지털 드럼의 연속 공간을 펼친다.",
-      "mini_headline": "Neutone Terra 뉴럴 드럼 신스",
+      "headline": "Anukari 1.1이면\n신스 패치도 프롬프트로",
+      "body": "Anukari 3D 신스에서 Claude·ChatGPT 같은 AI로 패치를 만든다.",
+      "mini_headline": "Anukari 1.1, 프롬프트 지원",
       "tool": "Music",
-      "source": "KVR Audio",
-      "url": "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705",
+      "source": "Sound On Sound",
+      "url": "https://www.soundonsound.com/news/anukari-11-now-available",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "yt": "CyerBPkloAM"
-          },
-          {
-            "t": "p",
-            "x": "Neutone이 AU·VST3용 뉴럴 드럼 신스 Terra를 얼리 액세스로 공개했다. 맵 기반(map-based) 탐색을 중심에 둔 제품이다. 맵 하나하나가 아날로그·디지털 드럼 사운드를 오가는 연속 공간이며 드럼, FM, Foley, FX를 아우른다."
-          },
-          {
             "t": "img",
-            "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-            "cap": "Terra 인터페이스"
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+            "cap": "Anukari 1.1 3D 물리 기반 소프트웨어 신시사이저"
           },
           {
             "t": "p",
-            "x": "Terra에는 샘플이 없다. 타격음은 전부 실시간으로 합성한다. 맵 위에 경로를 그리면 리듬이 되고 엔진이 사운드마다 미세한 변주를 끝없이 만들어낸다."
+            "x": "Anukari가 물리 기반 소프트웨어 신스의 새 버전을 내놨다. 2026년 6월 정식 출시 뒤 첫 대규모 업데이트다. Anukari 1.1에는 공명하는 현, 바, 플레이트, 멤브레인, 튜브, 벨이 추가됐다. 관악기처럼 숨을 불어 넣는 마우스피스도 생겼다."
           },
           {
             "t": "p",
-            "x": "무한 라운드 로빈(round-robins), 사운드 간 매끄러운 모핑, 생성형 사운드 디자인을 위한 Drift 모드, 탐색할 수 있는 50개 이상의 맵, 완전 무작위 키트 생성 기능을 갖췄다."
+            "x": "새 기능 가운데 하나는 ‘닿는’ 모든 소스를 모듈레이션하는 움직이는 구체 Modulosphere다. 악기 전체 형태를 생성하고 부품을 패턴으로 복제하는 기능도 들어갔다. 새로 생긴 Claude, ChatGPT 등 AI 어시스턴트 호환 기능을 쓰면 프롬프트로 패치를 만든다. Legato와 glide에 더해 엔벌로프·벨로시티 커브도 편집할 수 있고 CPU 사용량은 줄었다."
           },
           {
             "t": "p",
-            "x": "Terra는 지금 얼리 액세스 단계여서 2026년 12월 정식 출시 전까지 무료로 써볼 수 있다. 피드백 설문을 마친 얼리 액세스 사용자는 $99가 아닌 출시가 $49에 살 수 있다."
+            "x": "Anukari 1.1은 새 뱅크 네 개에 팩토리 프리셋 1000개 이상을 새로 담았고 프리셋 브라우저도 새로 디자인했다."
+          },
+          {
+            "t": "p",
+            "x": "“이미 AI 어시스턴트를 쓰고 있다면 이제 Anukari에 연결해 떠올린 무엇이든 설명하고, 그 소리를 훨씬 빨리 들어볼 수 있습니다. Anukari 안에 AI는 없습니다. 어시스턴트에게 조작 권한을 줄 뿐입니다.” — Evan Mezeske, Founder, Anukari"
+          },
+          {
+            "t": "p",
+            "x": "기존 사용자는 Anukari 1.1을 무료로 받는다. 신규 라이선스는 2026년 12월 4일까지 £68 (정가 £135)이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Neutone Terra maps\nneural drum sounds",
-          "body": "Terra, Neutone's early-access neural drum synth, makes each map a continuous space of analogue and digital drums.",
-          "mini_headline": "Neutone Terra neural drum synth",
+          "headline": "Anukari 1.1 lets you build\nsynth patches by prompt",
+          "body": "Anukari's 3D synth now works with AI assistants such as Claude and ChatGPT so users can build patches from prompts.",
+          "mini_headline": "Anukari 1.1 takes prompts",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutone has released Terra in early access, a neural drum synth for AU and VST3 built around map-based exploration. Each map provides a continuous space to explore analogue and digital drum sounds, spanning drums, FM, Foley and FX."
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Terra interface"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1 3D physics software synthesizer"
               },
               {
                 "t": "p",
-                "x": "Terra contains no samples: every hit is synthesized in real time. Users can draw paths through maps to build rhythms, and the engine generates endless micro-variations of each sound."
+                "x": "Anukari have just released a new version of their physics-based software synth, its first major update since its full launch in June 2026. Anukari 1.1 adds resonating strings, bars, plates, membranes, tubes and bells, along with a mouthpiece that lets players blow into their creations like a wind instrument."
               },
               {
                 "t": "p",
-                "x": "Features include infinite round-robins, smooth morphing between sounds, a Drift mode for generative sound design, 50+ maps to explore and fully randomized kit generation."
+                "x": "New functions include the Modulosphere, an animated sphere that modulates any source it ‘touches’. The instrument can now generate whole shapes and duplicate pieces in patterns, while newly introduced compatibility with AI assistants such as Claude and ChatGPT give users the option of building patches via prompts. Legato and glide are joined by editable envelope and velocity curves, with reductions in CPU usage."
               },
               {
                 "t": "p",
-                "x": "Terra is currently in early access and free to try before it launches in full in December 2026. Early access users who complete a feedback survey can get the launch price of $49 instead of $99."
+                "x": "Anukari 1.1 ships with more than 1000 new factory presets across four new banks, plus a redesigned preset browser."
+              },
+              {
+                "t": "p",
+                "x": "“If you already use an AI assistant, you can now point it at Anukari, describe whatever you’ve dreamt up, and hear how it sounds much sooner. There’s no AI inside Anukari; it just gives your assistant the controls.” — Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1 is free to existing users; new licenses are £68 (usually £135) until 4 December 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Neutone Terra,\n뉴럴 드럼을 지도로",
-          "body": "Neutone Terra는 맵마다 아날로그·디지털 드럼의 연속 공간을 펼친다.",
-          "mini_headline": "Neutone Terra 뉴럴 드럼 신스",
+          "headline": "Anukari 1.1이면\n신스 패치도 프롬프트로",
+          "body": "Anukari 3D 신스에서 Claude·ChatGPT 같은 AI로 패치를 만든다.",
+          "mini_headline": "Anukari 1.1, 프롬프트 지원",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutone이 AU·VST3용 뉴럴 드럼 신스 Terra를 얼리 액세스로 공개했다. 맵 기반(map-based) 탐색을 중심에 둔 제품이다. 맵 하나하나가 아날로그·디지털 드럼 사운드를 오가는 연속 공간이며 드럼, FM, Foley, FX를 아우른다."
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Terra 인터페이스"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1 3D 물리 기반 소프트웨어 신시사이저"
               },
               {
                 "t": "p",
-                "x": "Terra에는 샘플이 없다. 타격음은 전부 실시간으로 합성한다. 맵 위에 경로를 그리면 리듬이 되고 엔진이 사운드마다 미세한 변주를 끝없이 만들어낸다."
+                "x": "Anukari가 물리 기반 소프트웨어 신스의 새 버전을 내놨다. 2026년 6월 정식 출시 뒤 첫 대규모 업데이트다. Anukari 1.1에는 공명하는 현, 바, 플레이트, 멤브레인, 튜브, 벨이 추가됐다. 관악기처럼 숨을 불어 넣는 마우스피스도 생겼다."
               },
               {
                 "t": "p",
-                "x": "무한 라운드 로빈(round-robins), 사운드 간 매끄러운 모핑, 생성형 사운드 디자인을 위한 Drift 모드, 탐색할 수 있는 50개 이상의 맵, 완전 무작위 키트 생성 기능을 갖췄다."
+                "x": "새 기능 가운데 하나는 ‘닿는’ 모든 소스를 모듈레이션하는 움직이는 구체 Modulosphere다. 악기 전체 형태를 생성하고 부품을 패턴으로 복제하는 기능도 들어갔다. 새로 생긴 Claude, ChatGPT 등 AI 어시스턴트 호환 기능을 쓰면 프롬프트로 패치를 만든다. Legato와 glide에 더해 엔벌로프·벨로시티 커브도 편집할 수 있고 CPU 사용량은 줄었다."
               },
               {
                 "t": "p",
-                "x": "Terra는 지금 얼리 액세스 단계여서 2026년 12월 정식 출시 전까지 무료로 써볼 수 있다. 피드백 설문을 마친 얼리 액세스 사용자는 $99가 아닌 출시가 $49에 살 수 있다."
+                "x": "Anukari 1.1은 새 뱅크 네 개에 팩토리 프리셋 1000개 이상을 새로 담았고 프리셋 브라우저도 새로 디자인했다."
+              },
+              {
+                "t": "p",
+                "x": "“이미 AI 어시스턴트를 쓰고 있다면 이제 Anukari에 연결해 떠올린 무엇이든 설명하고, 그 소리를 훨씬 빨리 들어볼 수 있습니다. Anukari 안에 AI는 없습니다. 어시스턴트에게 조작 권한을 줄 뿐입니다.” — Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "기존 사용자는 Anukari 1.1을 무료로 받는다. 신규 라이선스는 2026년 12월 4일까지 £68 (정가 £135)이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Neutone Terra\nニューラルドラム音を地図化",
-          "body": "NeutoneのTerraは、各マップをアナログとデジタルのドラムが連なる空間にする。",
-          "mini_headline": "Neutone Terraニューラルドラムシンセ",
+          "headline": "Anukari 1.1は\nプロンプトでパッチ作成",
+          "body": "Anukariの3DシンセはClaudeやChatGPT等のAIへの指示でパッチを作れる。",
+          "mini_headline": "Anukari 1.1がプロンプト対応",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutoneは、マップ型（map-based）の探索を軸にしたAU・VST3対応のニューラルドラムシンセTerraをアーリーアクセスで公開した。各マップはアナログとデジタルのドラムサウンドを探索できる連続的な空間で、ドラム、FM、Foley、FXまでを網羅する。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Terraのインターフェース"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1 3D 物理ベースのソフトウェアシンセサイザー"
               },
               {
                 "t": "p",
-                "x": "Terraにはサンプルが一切含まれておらず、すべての打音をリアルタイムで合成する。ユーザーはマップ上に経路を描いてリズムを組み立てられ、エンジンは各サウンドの微細なバリエーションを際限なく生成する。"
+                "x": "Anukariは物理ベースのソフトウェアシンセの新バージョンをリリースした。2026年6月の正式リリース以来、初の大型アップデートとなる。Anukari 1.1では共鳴する弦、バー、プレート、膜、チューブ、ベルが加わり、管楽器のように息を吹き込めるマウスピースも搭載した。"
               },
               {
                 "t": "p",
-                "x": "無限のラウンドロビン（round-robins）、サウンド間の滑らかなモーフィング、ジェネレーティブなサウンドデザイン向けのDriftモード、50以上の探索可能なマップ、完全ランダムなキット生成などの機能を備える。"
+                "x": "新機能には、「触れた」あらゆるソースをモジュレートするアニメーション球体Modulosphereがある。楽器全体の形状を生成したり、パーツをパターン状に複製したりできるようになったほか、新たにClaudeやChatGPTなどのAIアシスタントに対応し、プロンプトでパッチを作成することも可能になった。Legatoとglideに加え、エンベロープとベロシティのカーブも編集可能になり、CPU使用率も下がった。"
               },
               {
                 "t": "p",
-                "x": "Terraは現在アーリーアクセス段階にあり、2026年12月の正式リリースまで無料で試せる。フィードバック調査に回答したアーリーアクセスユーザーは、$99ではなくローンチ価格の$49で購入できる。"
+                "x": "Anukari 1.1には、四つの新バンクにわたる1000種類以上の新ファクトリープリセットと、刷新されたプリセットブラウザが付属する。"
+              },
+              {
+                "t": "p",
+                "x": "「すでにAIアシスタントを使っているなら、それをAnukariに向け、思い描いたものを説明すれば、ずっと早くその音を聴けます。Anukariの中にAIはありません。アシスタントに操作手段を渡すだけです」 — Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1は既存ユーザーには無料で、新規ライセンスは2026年12月4日まで£68 (通常£135)だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Neutone Terra\n用地图探索神经鼓声",
-          "body": "Neutone抢先体验版神经鼓合成器Terra让每张地图都成为模拟与数字鼓声的连续空间。",
-          "mini_headline": "Neutone Terra神经鼓合成器",
+          "headline": "Anukari 1.1\n可用提示词制作合成器音色",
+          "body": "Anukari的3D合成器可配合Claude和ChatGPT等AI助手，用提示词制作音色。",
+          "mini_headline": "Anukari 1.1支持提示词",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutone以抢先体验形式发布了Terra，这是一款支持AU和VST3、围绕地图式（map-based）探索打造的神经鼓合成器。每张地图都提供一个连续空间，用来探索模拟与数字鼓声，涵盖鼓、FM、Foley和FX。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Terra界面"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1 3D 物理建模软件合成器"
               },
               {
                 "t": "p",
-                "x": "Terra不含任何采样：每一次击打都是实时合成的。用户可以在地图上绘制路径来构建节奏，引擎则为每个声音生成无穷无尽的细微变化。"
+                "x": "Anukari刚刚发布了其物理建模软件合成器的新版本，这是它自2026年6月正式上线以来的首次重大更新。Anukari 1.1新增了可共鸣的弦、棒、板、膜、管和钟，还加入了吹嘴，让演奏者可以像吹管乐器一样向自己的作品吹气。"
               },
               {
                 "t": "p",
-                "x": "功能包括无限轮替采样（round-robins）、声音之间的平滑渐变、用于生成式声音设计的Drift模式、50+张可供探索的地图，以及完全随机的套鼓生成。"
+                "x": "新功能包括Modulosphere——一个会对其“触碰”到的任何声源进行调制的动画球体。该乐器现在可以生成完整形状，并按图案复制部件；新引入的对Claude和ChatGPT等AI助手的兼容，让用户可以通过提示词构建音色。除Legato和滑音外，还新增了可编辑的包络和力度曲线，CPU占用也有所降低。"
               },
               {
                 "t": "p",
-                "x": "Terra目前处于抢先体验阶段，在2026年12月正式发布前可免费试用。完成反馈问卷的抢先体验用户可以按$49的首发价购买，而不是$99。"
+                "x": "Anukari 1.1附带分布在四个新音色库中的1000多个新出厂预设，以及重新设计的预设浏览器。"
+              },
+              {
+                "t": "p",
+                "x": "“如果你已经在用AI助手，现在可以让它对接Anukari，描述你构想的任何东西，更快地听到它的声音。Anukari内部没有AI；它只是把控制权交给你的助手。”——Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1对现有用户免费；新许可证在2026年12月4日前售价£68 (原价£135)。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Neutone Terra cartografía\nsonidos de batería neuronal",
-          "body": "Terra, sintetizador neuronal de Neutone, hace de cada mapa un espacio continuo de baterías analógicas y digitales.",
-          "mini_headline": "Neutone Terra, sintetizador neuronal de batería",
+          "headline": "Anukari 1.1 permite crear\nparches de síntesis con prompts",
+          "body": "El sintetizador 3D de Anukari ya funciona con asistentes de AI como Claude y ChatGPT para crear parches con prompts.",
+          "mini_headline": "Anukari 1.1 admite prompts",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutone ha lanzado en acceso anticipado Terra, un sintetizador neuronal de batería para AU y VST3 basado en la exploración de mapas (map-based). Cada mapa ofrece un espacio continuo para explorar sonidos de batería analógicos y digitales, que abarcan baterías, FM, Foley y FX."
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Interfaz de Terra"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1, sintetizador de software 3D basado en física"
               },
               {
                 "t": "p",
-                "x": "Terra no contiene samples: cada golpe se sintetiza en tiempo real. Los usuarios pueden trazar recorridos por los mapas para construir ritmos, y el motor genera infinitas microvariaciones de cada sonido."
+                "x": "Anukari acaba de lanzar una nueva versión de su sintetizador de software basado en física, la primera gran actualización desde su lanzamiento completo en junio de 2026. Anukari 1.1 añade cuerdas, barras, placas, membranas, tubos y campanas resonantes, junto con una boquilla que permite soplar en las creaciones como en un instrumento de viento."
               },
               {
                 "t": "p",
-                "x": "Entre sus funciones figuran round-robins infinitos, transiciones suaves entre sonidos, un modo Drift para el diseño de sonido generativo, más de 50 mapas para explorar y la generación de kits totalmente aleatoria."
+                "x": "Entre las nuevas funciones está el Modulosphere, una esfera animada que modula cualquier fuente que ‘toca’. El instrumento ahora puede generar formas completas y duplicar piezas en patrones, mientras que la nueva compatibilidad con asistentes de AI como Claude y ChatGPT permite crear parches mediante prompts. Al Legato y el glide se suman curvas de envolvente y velocidad editables, con un menor uso de CPU."
               },
               {
                 "t": "p",
-                "x": "Terra está actualmente en acceso anticipado y se puede probar gratis antes de su lanzamiento completo en diciembre de 2026. Los usuarios del acceso anticipado que completen una encuesta de opinión pueden obtener el precio de lanzamiento de $49 en lugar de $99."
+                "x": "Anukari 1.1 incluye más de 1000 nuevos presets de fábrica repartidos en cuatro nuevos bancos, además de un navegador de presets rediseñado."
+              },
+              {
+                "t": "p",
+                "x": "“Si ya usas un asistente de AI, ahora puedes dirigirlo a Anukari, describir lo que hayas imaginado y oír cómo suena mucho antes. No hay AI dentro de Anukari; solo le da los controles a tu asistente.” — Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1 es gratuito para los usuarios actuales; las nuevas licencias cuestan £68 (normalmente £135) hasta el 4 de diciembre de 2026."
               }
             ]
           }
@@ -787,141 +907,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Neutone Terra,\n뉴럴 드럼을 지도로",
-          "body": "Neutone Terra는 맵마다 아날로그·디지털 드럼의 연속 공간을 펼친다.",
-          "mini_headline": "Neutone Terra 뉴럴 드럼 신스",
+          "headline": "Anukari 1.1로\n프롬프트 신스 패치 제작",
+          "body": "Anukari 3D 신스는 Claude·ChatGPT 등 AI로 패치를 만든다.",
+          "mini_headline": "Anukari 1.1, 프롬프트 지원",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutone이 맵 기반(map-based) 탐색을 중심으로 만든 AU·VST3용 뉴럴 드럼 신스 Terra를 얼리 액세스로 공개했다. 각 맵은 아날로그·디지털 드럼 사운드를 탐색하는 연속 공간을 제공하며 드럼, FM, Foley, FX를 아우른다."
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Terra 인터페이스"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1 3D 물리 기반 소프트웨어 신시사이저"
               },
               {
                 "t": "p",
-                "x": "Terra에는 샘플이 없다. 모든 타격음을 실시간으로 합성한다. 사용자는 맵 위에 경로를 그려 리듬을 만들 수 있고, 엔진은 각 사운드의 미세한 변주를 끝없이 만들어낸다."
+                "x": "Anukari가 물리 기반 소프트웨어 신스의 새 버전을 내놨다. 2026년 6월 정식 출시 이후 첫 대규모 업데이트다. Anukari 1.1은 공명하는 현, 바, 플레이트, 멤브레인, 튜브, 벨을 더했고, 관악기처럼 직접 숨을 불어 넣을 수 있는 마우스피스도 갖췄다."
               },
               {
                 "t": "p",
-                "x": "무한 라운드 로빈(round-robins), 사운드 간 매끄러운 모핑, 생성형 사운드 디자인을 위한 Drift 모드, 탐색할 수 있는 50개 이상의 맵, 완전 무작위 키트 생성 기능을 갖췄다."
+                "x": "새 기능으로는 ‘닿는’ 모든 소스를 모듈레이션하는 움직이는 구체 Modulosphere가 있다. 이제 악기 전체 형태를 생성하고 부품을 패턴으로 복제할 수 있으며, 새로 도입된 Claude, ChatGPT 등 AI 어시스턴트 호환 기능으로 프롬프트를 통해 패치를 만들 수도 있다. Legato와 glide에 더해 엔벌로프·벨로시티 커브를 편집할 수 있게 됐고, CPU 사용량도 줄었다."
               },
               {
                 "t": "p",
-                "x": "Terra는 현재 얼리 액세스 단계로, 2026년 12월 정식 출시 전까지 무료로 써볼 수 있다. 피드백 설문을 마친 얼리 액세스 사용자는 $99 대신 출시가 $49에 구매할 수 있다."
+                "x": "Anukari 1.1에는 새 뱅크 네 개에 걸친 1000개가 넘는 새 팩토리 프리셋과 새로 디자인한 프리셋 브라우저가 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "“이미 AI 어시스턴트를 쓰고 있다면 이제 Anukari에 연결해 떠올린 무엇이든 설명하고, 그 소리를 훨씬 빨리 들어볼 수 있습니다. Anukari 안에 AI는 없습니다. 어시스턴트에게 조작 권한을 줄 뿐입니다.” — Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1은 기존 사용자에게 무료이며, 신규 라이선스는 2026년 12월 4일까지 £68 (정가 £135)이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Neutone Terra\nニューラルドラム音を地図化",
-          "body": "NeutoneのTerraは、各マップをアナログとデジタルのドラムが連なる空間にする。",
-          "mini_headline": "Neutone Terraニューラルドラムシンセ",
+          "headline": "Anukari 1.1は\nプロンプトでパッチ作成",
+          "body": "Anukariの3DシンセはClaudeやChatGPT等のAIへの指示でパッチを作れる。",
+          "mini_headline": "Anukari 1.1がプロンプト対応",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutoneは、マップ型（map-based）の探索を軸にしたAU・VST3対応のニューラルドラムシンセTerraをアーリーアクセスで公開した。各マップはアナログとデジタルのドラムサウンドを探索できる連続的な空間で、ドラム、FM、Foley、FXまでを網羅する。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Terraのインターフェース"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1 3D 物理ベースのソフトウェアシンセサイザー"
               },
               {
                 "t": "p",
-                "x": "Terraにはサンプルが一切含まれておらず、すべての打音をリアルタイムで合成する。ユーザーはマップ上に経路を描いてリズムを組み立てられ、エンジンは各サウンドの微細なバリエーションを際限なく生成する。"
+                "x": "Anukariは物理ベースのソフトウェアシンセの新バージョンをリリースした。2026年6月の正式リリース以来、初の大型アップデートとなる。Anukari 1.1では共鳴する弦、バー、プレート、膜、チューブ、ベルが加わり、管楽器のように息を吹き込めるマウスピースも搭載した。"
               },
               {
                 "t": "p",
-                "x": "無限のラウンドロビン（round-robins）、サウンド間の滑らかなモーフィング、ジェネレーティブなサウンドデザイン向けのDriftモード、50以上の探索可能なマップ、完全ランダムなキット生成などの機能を備える。"
+                "x": "新機能には、「触れた」あらゆるソースをモジュレートするアニメーション球体Modulosphereがある。楽器全体の形状を生成したり、パーツをパターン状に複製したりできるようになったほか、新たにClaudeやChatGPTなどのAIアシスタントに対応し、プロンプトでパッチを作成することも可能になった。Legatoとglideに加え、エンベロープとベロシティのカーブも編集可能になり、CPU使用率も下がった。"
               },
               {
                 "t": "p",
-                "x": "Terraは現在アーリーアクセス段階にあり、2026年12月の正式リリースまで無料で試せる。フィードバック調査に回答したアーリーアクセスユーザーは、$99ではなくローンチ価格の$49で購入できる。"
+                "x": "Anukari 1.1には、四つの新バンクにわたる1000種類以上の新ファクトリープリセットと、刷新されたプリセットブラウザが付属する。"
+              },
+              {
+                "t": "p",
+                "x": "「すでにAIアシスタントを使っているなら、それをAnukariに向け、思い描いたものを説明すれば、ずっと早くその音を聴けます。Anukariの中にAIはありません。アシスタントに操作手段を渡すだけです」 — Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1は既存ユーザーには無料で、新規ライセンスは2026年12月4日まで£68 (通常£135)だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Neutone Terra\n用地图探索神经鼓声",
-          "body": "Neutone抢先体验版神经鼓合成器Terra让每张地图都成为模拟与数字鼓声的连续空间。",
-          "mini_headline": "Neutone Terra神经鼓合成器",
+          "headline": "Anukari 1.1\n可用提示词制作合成器音色",
+          "body": "Anukari的3D合成器可配合Claude和ChatGPT等AI助手，用提示词制作音色。",
+          "mini_headline": "Anukari 1.1支持提示词",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutone以抢先体验形式发布了Terra，这是一款支持AU和VST3、围绕地图式（map-based）探索打造的神经鼓合成器。每张地图都提供一个连续空间，用来探索模拟与数字鼓声，涵盖鼓、FM、Foley和FX。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Terra界面"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1 3D 物理建模软件合成器"
               },
               {
                 "t": "p",
-                "x": "Terra不含任何采样：每一次击打都是实时合成的。用户可以在地图上绘制路径来构建节奏，引擎则为每个声音生成无穷无尽的细微变化。"
+                "x": "Anukari刚刚发布了其物理建模软件合成器的新版本，这是它自2026年6月正式上线以来的首次重大更新。Anukari 1.1新增了可共鸣的弦、棒、板、膜、管和钟，还加入了吹嘴，让演奏者可以像吹管乐器一样向自己的作品吹气。"
               },
               {
                 "t": "p",
-                "x": "功能包括无限轮替采样（round-robins）、声音之间的平滑渐变、用于生成式声音设计的Drift模式、50+张可供探索的地图，以及完全随机的套鼓生成。"
+                "x": "新功能包括Modulosphere——一个会对其“触碰”到的任何声源进行调制的动画球体。该乐器现在可以生成完整形状，并按图案复制部件；新引入的对Claude和ChatGPT等AI助手的兼容，让用户可以通过提示词构建音色。除Legato和滑音外，还新增了可编辑的包络和力度曲线，CPU占用也有所降低。"
               },
               {
                 "t": "p",
-                "x": "Terra目前处于抢先体验阶段，在2026年12月正式发布前可免费试用。完成反馈问卷的抢先体验用户可以按$49的首发价购买，而不是$99。"
+                "x": "Anukari 1.1附带分布在四个新音色库中的1000多个新出厂预设，以及重新设计的预设浏览器。"
+              },
+              {
+                "t": "p",
+                "x": "“如果你已经在用AI助手，现在可以让它对接Anukari，描述你构想的任何东西，更快地听到它的声音。Anukari内部没有AI；它只是把控制权交给你的助手。”——Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1对现有用户免费；新许可证在2026年12月4日前售价£68 (原价£135)。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Neutone Terra cartografía\nsonidos de batería neuronal",
-          "body": "Terra, sintetizador neuronal de Neutone, hace de cada mapa un espacio continuo de baterías analógicas y digitales.",
-          "mini_headline": "Neutone Terra, sintetizador neuronal de batería",
+          "headline": "Anukari 1.1 permite crear\nparches de síntesis con prompts",
+          "body": "El sintetizador 3D de Anukari ya funciona con asistentes de AI como Claude y ChatGPT para crear parches con prompts.",
+          "mini_headline": "Anukari 1.1 admite prompts",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "CyerBPkloAM"
-              },
-              {
-                "t": "p",
-                "x": "Neutone ha lanzado en acceso anticipado Terra, un sintetizador neuronal de batería para AU y VST3 basado en la exploración de mapas (map-based). Cada mapa ofrece un espacio continuo para explorar sonidos de batería analógicos y digitales, que abarcan baterías, FM, Foley y FX."
-              },
-              {
                 "t": "img",
-                "src": "https://static.kvraudio.com/i/b/terra_interface.jpg",
-                "cap": "Interfaz de Terra"
+                "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+                "cap": "Anukari 1.1, sintetizador de software 3D basado en física"
               },
               {
                 "t": "p",
-                "x": "Terra no contiene samples: cada golpe se sintetiza en tiempo real. Los usuarios pueden trazar recorridos por los mapas para construir ritmos, y el motor genera infinitas microvariaciones de cada sonido."
+                "x": "Anukari acaba de lanzar una nueva versión de su sintetizador de software basado en física, la primera gran actualización desde su lanzamiento completo en junio de 2026. Anukari 1.1 añade cuerdas, barras, placas, membranas, tubos y campanas resonantes, junto con una boquilla que permite soplar en las creaciones como en un instrumento de viento."
               },
               {
                 "t": "p",
-                "x": "Entre sus funciones figuran round-robins infinitos, transiciones suaves entre sonidos, un modo Drift para el diseño de sonido generativo, más de 50 mapas para explorar y la generación de kits totalmente aleatoria."
+                "x": "Entre las nuevas funciones está el Modulosphere, una esfera animada que modula cualquier fuente que ‘toca’. El instrumento ahora puede generar formas completas y duplicar piezas en patrones, mientras que la nueva compatibilidad con asistentes de AI como Claude y ChatGPT permite crear parches mediante prompts. Al Legato y el glide se suman curvas de envolvente y velocidad editables, con un menor uso de CPU."
               },
               {
                 "t": "p",
-                "x": "Terra está actualmente en acceso anticipado y se puede probar gratis antes de su lanzamiento completo en diciembre de 2026. Los usuarios del acceso anticipado que completen una encuesta de opinión pueden obtener el precio de lanzamiento de $49 en lugar de $99."
+                "x": "Anukari 1.1 incluye más de 1000 nuevos presets de fábrica repartidos en cuatro nuevos bancos, además de un navegador de presets rediseñado."
+              },
+              {
+                "t": "p",
+                "x": "“Si ya usas un asistente de AI, ahora puedes dirigirlo a Anukari, describir lo que hayas imaginado y oír cómo suena mucho antes. No hay AI dentro de Anukari; solo le da los controles a tu asistente.” — Evan Mezeske, Founder, Anukari"
+              },
+              {
+                "t": "p",
+                "x": "Anukari 1.1 es gratuito para los usuarios actuales; las nuevas licencias cuestan £68 (normalmente £135) hasta el 4 de diciembre de 2026."
               }
             ]
           }
@@ -929,15 +1049,15 @@
       }
     },
     {
-      "id": "sonible-pure-smooth-resonance",
+      "id": "grimes-psy-opera-deepseek",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "pure:smooth,\nAI로 공진 억제",
-      "body": "pure:smooth는 음원 프로필을 고르면 AI가 거친 공진을 찾아 줄인다.",
-      "mini_headline": "sonible pure:smooth AI 플러그인",
+      "headline": "Grimes 신곡 두 곡\nAI-themed 앨범에서",
+      "body": "'Deepseek'만 AI를 썼고 DeepSeek 언어 모델이 쓴 시를 각색했다.",
+      "mini_headline": "Grimes, Psy Opera 미리 공개",
       "tool": "Music",
-      "source": "월간 믹싱 (Mixing Magazine)",
-      "url": "https://mixing.co.kr/en/44650",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -945,425 +1065,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-            "cap": "이미지: sonible"
+            "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+            "cap": "Grimes"
           },
           {
             "t": "p",
-            "x": "sonible이 AI 기반(AI-powered) 공진 억제 플러그인 pure:smooth를 출시했다."
+            "x": "Grimes가 A.I.-themed 신보 Psy Opera 발매를 앞두고 지극히 Grimesian한 신곡 두 곡 “Deepseek”과 “Killing God With Computers”를 내놨다. Grimes 말로는 앞의 곡이 이 LP에서 실제로 인공지능을 쓴 유일한 곡이다. 곡명과 같은 대규모 언어 모델로 만든 A.I. 시를 각색했다. “Killing God With Computers”는 기술을 예찬하는 평소의 Grimes 그대로다."
           },
           {
             "t": "p",
-            "x": "pure:smooth는 오디오에서 거슬리는 공진과 거친 주파수 대역을 찾아 줄이는 디하셔(de-harsher) 플러그인이다. 문제 주파수를 손으로 찾지 않아도 더 부드럽고 균형 잡힌 소리가 자동으로 나온다."
+            "x": "“[“Deepseek”]을 쓰며 A.I. 시를 곱씹다가, A.I.가 여성들이 인터넷에서 느끼는 감정과 닮았다는 걸 깨달았어요.” Grimes는 성명에서 이렇게 말했다. “쓰면서 울었어요. 사람들이 제가 생각하길 원치 않는다는 걸 강하게 느꼈죠. 정말 여성으로 산다는 것과 같아요.”"
           },
           {
             "t": "p",
-            "x": "음원 프로필을 고르면 플러그인이 오디오를 분석해 처리 방식을 알아서 맞춘다. 보컬, 기타, 드럼, 신스, 스트링 등 음원을 가리지 않는다."
+            "x": "자체 발매하는 이 앨범은 Miss Anthropocene의 후속작이다. 발매일은 아직 정해지지 않았고 최근 싱글 “Accelerando”도 실린다. Grimes는 이 곡과 신곡들을 오랜 협업자 Vadakin과 함께 쓰고 프로듀싱했다."
           },
           {
             "t": "video",
-            "yt": "yjnmUv3_2aM"
-          },
-          {
-            "t": "p",
-            "x": "조작 항목은 Smoothing, Resolution, Shaping, Frequency Range, Feedback이다. Smoothing은 공진 감소량을 정하고, Resolution은 폭넓은 음색 다듬기와 정밀한 공진 감소 사이를 전환한다. Shaping으로는 원래 음색 균형을 지키거나 스펙트럼을 더 뚜렷하게 조정한다."
-          },
-          {
-            "t": "p",
-            "x": "Frequency Range는 처리할 대역을 좁힌다. Feedback은 감소량을 실시간으로 보여준다. Difference Monitoring을 켜면 깎여 나가는 소리만 따로 들을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "정가는 €39이고 12월 14일까지는 출시 기념가 €25에 판다. 플러그인은 macOS와 Windows에서 VST3, AU, AAX 포맷을 지원한다."
+            "yt": "RP-B7N9NNt4"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "sonible's pure:smooth\ntames resonances with AI",
-          "body": "Plugin maker sonible's pure:smooth uses AI to find and reduce harsh resonances after you pick a source profile.",
-          "mini_headline": "sonible pure:smooth AI plugin",
+          "headline": "Grimes shares two songs\nfrom AI-themed Psy Opera",
+          "body": "Only one of the new tracks, 'Deepseek', actually uses AI, adapting a poem generated with the DeepSeek language model.",
+          "mini_headline": "Grimes previews Psy Opera",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "Image: sonible"
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
               },
               {
                 "t": "p",
-                "x": "sonible has released pure:smooth, an AI-powered resonance suppression plugin."
+                "x": "Grimes is gearing up to release her new A.I.-themed album, Psy Opera. To that end, two extremely Grimesian new songs: “Deepseek” and “Killing God With Computers.” The former is the only track on the LP to actually use artificial intelligence, according to Grimes, who adapted an A.I. poem made using the titular large language model in writing the song. “Killing God With Computers,” meanwhile, is regular old tech-boosting Grimes."
               },
               {
                 "t": "p",
-                "x": "pure:smooth is a de-harsher plugin that finds and reduces unpleasant resonances and harsh frequency ranges in audio. Users can get a smoother, more balanced sound automatically, without hunting for problem frequencies by hand."
+                "x": "“While writing [“Deepseek”] and reflecting on the A.I. poem, I realized A.I. feels like how women feel on the internet,” Grimes said in a statement. “I cried while writing it. I felt so strongly how people don’t want me to think. It really is like what it is being a woman.”"
               },
               {
                 "t": "p",
-                "x": "After the user selects a source profile, the plugin analyzes the audio and adjusts its processing automatically. It works with a wide range of sources, including vocals, guitars, drums, synths, and strings."
+                "x": "The self-released Miss Anthropocene follow-up, which does not yet have a release date, is also set to feature recent single “Accelerando.” Grimes co-wrote and co-produced both that song and the new ones with longtime collaborator Vadakin."
               },
               {
                 "t": "video",
-                "yt": "yjnmUv3_2aM"
-              },
-              {
-                "t": "p",
-                "x": "Its controls are Smoothing, Resolution, Shaping, Frequency Range, and Feedback. Smoothing sets the amount of resonance reduction, while Resolution switches between broad tonal smoothing and precise resonance reduction. Shaping lets users keep the original tonal balance or apply a more pronounced spectral adjustment."
-              },
-              {
-                "t": "p",
-                "x": "Frequency Range limits processing to a specific band. Feedback shows the applied reduction in real time. With Difference Monitoring, users can also listen to exactly what is being removed."
-              },
-              {
-                "t": "p",
-                "x": "The regular price is €39, and an introductory price of €25 is available until December 14. The plugin supports VST3, AU, and AAX formats on macOS and Windows."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "pure:smooth,\nAI로 공진 억제",
-          "body": "pure:smooth는 음원 프로필을 고르면 AI가 거친 공진을 찾아 줄인다.",
-          "mini_headline": "sonible pure:smooth AI 플러그인",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "이미지: sonible"
-              },
-              {
-                "t": "p",
-                "x": "sonible이 AI 기반(AI-powered) 공진 억제 플러그인 pure:smooth를 출시했다."
-              },
-              {
-                "t": "p",
-                "x": "pure:smooth는 오디오에서 거슬리는 공진과 거친 주파수 대역을 찾아 줄이는 디하셔(de-harsher) 플러그인이다. 문제 주파수를 손으로 찾지 않아도 더 부드럽고 균형 잡힌 소리가 자동으로 나온다."
-              },
-              {
-                "t": "p",
-                "x": "음원 프로필을 고르면 플러그인이 오디오를 분석해 처리 방식을 알아서 맞춘다. 보컬, 기타, 드럼, 신스, 스트링 등 음원을 가리지 않는다."
-              },
-              {
-                "t": "video",
-                "yt": "yjnmUv3_2aM"
-              },
-              {
-                "t": "p",
-                "x": "조작 항목은 Smoothing, Resolution, Shaping, Frequency Range, Feedback이다. Smoothing은 공진 감소량을 정하고, Resolution은 폭넓은 음색 다듬기와 정밀한 공진 감소 사이를 전환한다. Shaping으로는 원래 음색 균형을 지키거나 스펙트럼을 더 뚜렷하게 조정한다."
-              },
-              {
-                "t": "p",
-                "x": "Frequency Range는 처리할 대역을 좁힌다. Feedback은 감소량을 실시간으로 보여준다. Difference Monitoring을 켜면 깎여 나가는 소리만 따로 들을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "정가는 €39이고 12월 14일까지는 출시 기념가 €25에 판다. 플러그인은 macOS와 Windows에서 VST3, AU, AAX 포맷을 지원한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "pure:smooth、\nAIで共振を抑える",
-          "body": "pure:smoothは、音源プロファイルを選ぶとAIが耳障りな共振を検出し抑える。",
-          "mini_headline": "sonible pure:smooth AIプラグイン",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "画像：sonible"
-              },
-              {
-                "t": "p",
-                "x": "sonibleは、AI搭載（AI-powered）の共振抑制プラグインpure:smoothをリリースした。"
-              },
-              {
-                "t": "p",
-                "x": "pure:smoothは、オーディオ内の不快な共振や耳障りな周波数帯域を検出して抑えるディハーシャー（de-harsher）プラグインだ。問題のある周波数を手作業で探さなくても、より滑らかでバランスの取れたサウンドが自動で得られる。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーが音源プロファイルを選ぶと、プラグインがオーディオを解析して処理を自動で調整する。ボーカル、ギター、ドラム、シンセ、ストリングスなど幅広い音源に対応する。"
-              },
-              {
-                "t": "video",
-                "yt": "yjnmUv3_2aM"
-              },
-              {
-                "t": "p",
-                "x": "操作項目はSmoothing、Resolution、Shaping、Frequency Range、Feedbackである。Smoothingは共振の低減量を設定し、Resolutionは広い帯域での音色の平滑化と精密な共振低減を切り替える。Shapingでは元の音色バランスを保つか、よりはっきりしたスペクトル調整を加えるかを選べる。"
-              },
-              {
-                "t": "p",
-                "x": "Frequency Rangeは処理を特定の帯域に限定する。Feedbackは適用中の低減量をリアルタイムで表示する。Difference Monitoringを使えば、何が取り除かれているかを正確に聴くこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "通常価格は€39で、12月14日まで€25の導入価格で購入できる。macOSとWindowsでVST3、AU、AAXの各フォーマットに対応する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "pure:smooth\n用AI抑制刺耳共振",
-          "body": "插件厂商sonible的pure:smooth在选定音源配置后，用AI找出并削减刺耳共振。",
-          "mini_headline": "sonible pure:smooth AI插件",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "图片：sonible"
-              },
-              {
-                "t": "p",
-                "x": "sonible发布了AI驱动（AI-powered）的共振抑制插件pure:smooth。"
-              },
-              {
-                "t": "p",
-                "x": "pure:smooth是一款去刺耳（de-harsher）插件，能找出并削减音频中令人不适的共振和刺耳频段。用户无需手动寻找问题频率，就能自动获得更平滑、更均衡的声音。"
-              },
-              {
-                "t": "p",
-                "x": "用户选定音源配置后，插件会分析音频并自动调整处理方式。它适用于人声、吉他、鼓、合成器和弦乐等多种音源。"
-              },
-              {
-                "t": "video",
-                "yt": "yjnmUv3_2aM"
-              },
-              {
-                "t": "p",
-                "x": "其控制项包括Smoothing、Resolution、Shaping、Frequency Range和Feedback。Smoothing设定共振削减量，Resolution在宽泛的音色平滑与精确的共振削减之间切换。Shaping让用户保留原有的音色平衡，或施加更明显的频谱调整。"
-              },
-              {
-                "t": "p",
-                "x": "Frequency Range将处理限定在特定频段。Feedback实时显示所施加的削减量。借助Difference Monitoring，用户还能准确听到被去除的内容。"
-              },
-              {
-                "t": "p",
-                "x": "正式价格为€39，12月14日前可享€25的首发优惠价。该插件在macOS和Windows上支持VST3、AU和AAX格式。"
+                "yt": "RP-B7N9NNt4"
               }
             ]
           }
         },
         "es": {
-          "headline": "pure:smooth de sonible doma\nresonancias con AI",
-          "body": "El plugin pure:smooth de sonible usa AI para detectar y reducir resonancias ásperas tras elegir un perfil de fuente.",
-          "mini_headline": "sonible pure:smooth, plugin con AI",
+          "headline": "Grimes estrena dos canciones\nde su álbum AI-themed Psy Opera",
+          "body": "Solo una de las nuevas canciones, 'Deepseek', usa AI: adapta un poema generado con el modelo de lenguaje DeepSeek.",
+          "mini_headline": "Grimes adelanta Psy Opera",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "Imagen: sonible"
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
               },
               {
                 "t": "p",
-                "x": "sonible ha lanzado pure:smooth, un plugin de supresión de resonancias AI-powered, basado en AI."
+                "x": "Grimes se prepara para lanzar su nuevo álbum A.I.-themed, Psy Opera. Para ello, presenta dos canciones nuevas de lo más Grimesian: “Deepseek” y “Killing God With Computers”. La primera es la única pista del LP que usa realmente inteligencia artificial, según Grimes, que adaptó un poema de A.I. creado con el gran modelo de lenguaje que da título al tema. “Killing God With Computers”, en cambio, es la Grimes de siempre, entusiasta de la tecnología."
               },
               {
                 "t": "p",
-                "x": "pure:smooth es un plugin de-harsher que detecta y reduce resonancias desagradables y rangos de frecuencia ásperos en el audio. Los usuarios pueden obtener de forma automática un sonido más suave y equilibrado, sin buscar a mano las frecuencias problemáticas."
+                "x": "“Mientras escribía [“Deepseek”] y reflexionaba sobre el poema de A.I., me di cuenta de que la A.I. se siente como se sienten las mujeres en internet”, dijo Grimes en un comunicado. “Lloré mientras lo escribía. Sentí con mucha fuerza que la gente no quiere que piense. De verdad es como ser mujer”."
               },
               {
                 "t": "p",
-                "x": "Tras seleccionar el usuario un perfil de fuente, el plugin analiza el audio y ajusta su procesamiento automáticamente. Funciona con una amplia variedad de fuentes, como voces, guitarras, baterías, sintetizadores y cuerdas."
+                "x": "La continuación de Miss Anthropocene, autoeditada y aún sin fecha de lanzamiento, incluirá también el reciente sencillo “Accelerando”. Grimes coescribió y coprodujo esa canción y las nuevas con su colaborador de muchos años Vadakin."
               },
               {
                 "t": "video",
-                "yt": "yjnmUv3_2aM"
+                "yt": "RP-B7N9NNt4"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Grimes 신곡 두 곡\nAI-themed 앨범에서",
+          "body": "'Deepseek'만 AI를 썼고 DeepSeek 언어 모델이 쓴 시를 각색했다.",
+          "mini_headline": "Grimes, Psy Opera 미리 공개",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
               },
               {
                 "t": "p",
-                "x": "Sus controles son Smoothing, Resolution, Shaping, Frequency Range y Feedback. Smoothing fija la cantidad de reducción de resonancias, mientras que Resolution alterna entre un suavizado tonal amplio y una reducción precisa de resonancias. Shaping permite conservar el equilibrio tonal original o aplicar un ajuste espectral más marcado."
+                "x": "Grimes가 A.I.-themed 신보 Psy Opera 발매를 앞두고 지극히 Grimesian한 신곡 두 곡 “Deepseek”과 “Killing God With Computers”를 내놨다. Grimes 말로는 앞의 곡이 이 LP에서 실제로 인공지능을 쓴 유일한 곡이다. 곡명과 같은 대규모 언어 모델로 만든 A.I. 시를 각색했다. “Killing God With Computers”는 기술을 예찬하는 평소의 Grimes 그대로다."
               },
               {
                 "t": "p",
-                "x": "Frequency Range limita el procesamiento a una banda concreta. Feedback muestra en tiempo real la reducción aplicada. Con Difference Monitoring, los usuarios también pueden escuchar exactamente lo que se está eliminando."
+                "x": "“[“Deepseek”]을 쓰며 A.I. 시를 곱씹다가, A.I.가 여성들이 인터넷에서 느끼는 감정과 닮았다는 걸 깨달았어요.” Grimes는 성명에서 이렇게 말했다. “쓰면서 울었어요. 사람들이 제가 생각하길 원치 않는다는 걸 강하게 느꼈죠. 정말 여성으로 산다는 것과 같아요.”"
               },
               {
                 "t": "p",
-                "x": "El precio habitual es de €39, y hay un precio de lanzamiento de €25 disponible hasta el 14 de diciembre. El plugin admite los formatos VST3, AU y AAX en macOS y Windows."
+                "x": "자체 발매하는 이 앨범은 Miss Anthropocene의 후속작이다. 발매일은 아직 정해지지 않았고 최근 싱글 “Accelerando”도 실린다. Grimes는 이 곡과 신곡들을 오랜 협업자 Vadakin과 함께 쓰고 프로듀싱했다."
+              },
+              {
+                "t": "video",
+                "yt": "RP-B7N9NNt4"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Grimesが新曲二曲\nAI-themedアルバム",
+          "body": "新曲でAIを使ったのは「Deepseek」だけで、DeepSeekが生成した詩を翻案した。",
+          "mini_headline": "Grimes、Psy Operaを予告",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
+              },
+              {
+                "t": "p",
+                "x": "GrimesがA.I.-themedの新作アルバムPsy Operaのリリースを控えている。それに合わせ、極めてGrimesianな新曲二曲「Deepseek」と「Killing God With Computers」を公開した。Grimesによれば、前者はこのLPで実際に人工知能を使った唯一の曲で、曲名と同じ大規模言語モデルで作ったA.I.詩を翻案して書いたという。一方の「Killing God With Computers」は、テクノロジーを持ち上げるいつものGrimesだ。"
+              },
+              {
+                "t": "p",
+                "x": "「[「Deepseek」]を書きながらA.I.詩について考えていて、A.I.は女性がインターネットで感じていることに似ていると気づいた」とGrimesは声明で述べた。「書きながら泣いた。人々が私に考えてほしくないと思っていることを強く感じた。本当に女性であるということそのものだ」"
+              },
+              {
+                "t": "p",
+                "x": "まだ発売日が決まっていない自主リリースのMiss Anthropocene後継作には、最近のシングル「Accelerando」も収録される予定だ。Grimesはこの曲と新曲の両方を、長年の協力者Vadakinと共作・共同プロデュースした。"
+              },
+              {
+                "t": "video",
+                "yt": "RP-B7N9NNt4"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Grimes发布两首新歌\nAI-themed专辑",
+          "body": "新歌中只有《Deepseek》真正使用了AI，改编自DeepSeek语言模型生成的诗。",
+          "mini_headline": "Grimes预告Psy Opera",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
+              },
+              {
+                "t": "p",
+                "x": "Grimes即将发行A.I.-themed新专辑Psy Opera。为此她推出了两首极具Grimesian风格的新歌：“Deepseek”和“Killing God With Computers”。据Grimes介绍，前者是这张LP中唯一真正使用了人工智能的曲目，她在创作时改编了一首由同名大语言模型生成的A.I.诗歌。而“Killing God With Computers”则是一贯鼓吹科技的Grimes。"
+              },
+              {
+                "t": "p",
+                "x": "“在写[“Deepseek”]并反复品味那首A.I.诗时，我意识到A.I.的感受就像女性在网上的感受，”Grimes在声明中说。“我写的时候哭了。我强烈感受到人们不想让我思考。这真的就像身为女性的处境。”"
+              },
+              {
+                "t": "p",
+                "x": "这张自主发行的Miss Anthropocene后续专辑尚未公布发行日期，还将收录近期单曲“Accelerando”。Grimes与长期合作者Vadakin共同创作并制作了这首歌和新歌。"
+              },
+              {
+                "t": "video",
+                "yt": "RP-B7N9NNt4"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "pure:smooth,\nAI로 공진 억제",
-          "body": "pure:smooth는 음원 프로필을 고르면 AI가 거친 공진을 찾아 줄인다.",
-          "mini_headline": "sonible pure:smooth AI 플러그인",
+        "es": {
+          "headline": "Grimes estrena dos canciones\nde su álbum AI-themed Psy Opera",
+          "body": "Solo una de las nuevas canciones, 'Deepseek', usa AI: adapta un poema generado con el modelo de lenguaje DeepSeek.",
+          "mini_headline": "Grimes adelanta Psy Opera",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "이미지: sonible"
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
               },
               {
                 "t": "p",
-                "x": "sonible이 AI 기반(AI-powered) 공진 억제 플러그인 pure:smooth를 출시했다."
+                "x": "Grimes se prepara para lanzar su nuevo álbum A.I.-themed, Psy Opera. Para ello, presenta dos canciones nuevas de lo más Grimesian: “Deepseek” y “Killing God With Computers”. La primera es la única pista del LP que usa realmente inteligencia artificial, según Grimes, que adaptó un poema de A.I. creado con el gran modelo de lenguaje que da título al tema. “Killing God With Computers”, en cambio, es la Grimes de siempre, entusiasta de la tecnología."
               },
               {
                 "t": "p",
-                "x": "pure:smooth는 오디오에서 거슬리는 공진과 거친 주파수 대역을 찾아 줄이는 디하셔(de-harsher) 플러그인이다. 사용자는 문제 주파수를 손으로 찾지 않아도 더 부드럽고 균형 잡힌 소리를 자동으로 얻을 수 있다."
+                "x": "“Mientras escribía [“Deepseek”] y reflexionaba sobre el poema de A.I., me di cuenta de que la A.I. se siente como se sienten las mujeres en internet”, dijo Grimes en un comunicado. “Lloré mientras lo escribía. Sentí con mucha fuerza que la gente no quiere que piense. De verdad es como ser mujer”."
               },
               {
                 "t": "p",
-                "x": "사용자가 음원 프로필을 고르면 플러그인이 오디오를 분석해 처리 방식을 자동으로 조정한다. 보컬, 기타, 드럼, 신스, 스트링 등 다양한 음원에 쓸 수 있다."
+                "x": "La continuación de Miss Anthropocene, autoeditada y aún sin fecha de lanzamiento, incluirá también el reciente sencillo “Accelerando”. Grimes coescribió y coprodujo esa canción y las nuevas con su colaborador de muchos años Vadakin."
               },
               {
                 "t": "video",
-                "yt": "yjnmUv3_2aM"
+                "yt": "RP-B7N9NNt4"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Grimes 신곡 두 곡\nAI-themed 앨범에서",
+          "body": "'Deepseek'만 AI를 썼고, DeepSeek 언어 모델이 쓴 시를 각색했다.",
+          "mini_headline": "Grimes, Psy Opera 미리 공개",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
               },
               {
                 "t": "p",
-                "x": "조작 항목은 Smoothing, Resolution, Shaping, Frequency Range, Feedback이다. Smoothing은 공진 감소량을 정하고, Resolution은 폭넓은 음색 다듬기와 정밀한 공진 감소 사이를 전환한다. Shaping으로는 원래 음색 균형을 유지하거나 더 뚜렷한 스펙트럼 조정을 적용할 수 있다."
+                "x": "Grimes가 A.I.-themed 신보 Psy Opera 발매를 앞두고 있다. 이에 맞춰 지극히 Grimesian한 신곡 두 곡 “Deepseek”과 “Killing God With Computers”를 공개했다. Grimes에 따르면 앞의 곡은 이 LP에서 실제로 인공지능을 쓴 유일한 곡으로, 곡명과 같은 대규모 언어 모델로 만든 A.I. 시를 각색해 썼다. 반면 “Killing God With Computers”는 기술을 예찬하는 평소의 Grimes 그대로다."
               },
               {
                 "t": "p",
-                "x": "Frequency Range는 처리를 특정 대역으로 제한한다. Feedback은 적용된 감소량을 실시간으로 보여준다. Difference Monitoring을 쓰면 무엇이 제거되는지 정확히 들어볼 수도 있다."
+                "x": "“[“Deepseek”]을 쓰며 A.I. 시를 곱씹다가, A.I.가 여성들이 인터넷에서 느끼는 감정과 닮았다는 걸 깨달았어요.” Grimes는 성명에서 이렇게 말했다. “쓰면서 울었어요. 사람들이 제가 생각하길 원치 않는다는 걸 강하게 느꼈죠. 정말 여성으로 산다는 것과 같아요.”"
               },
               {
                 "t": "p",
-                "x": "정가는 €39이며 12월 14일까지 €25의 출시 기념가가 적용된다. 플러그인은 macOS와 Windows에서 VST3, AU, AAX 포맷을 지원한다."
+                "x": "아직 발매일이 정해지지 않은 이 자체 발매 앨범은 Miss Anthropocene의 후속작으로, 최근 싱글 “Accelerando”도 수록될 예정이다. Grimes는 이 곡과 신곡들을 오랜 협업자 Vadakin과 함께 쓰고 프로듀싱했다."
+              },
+              {
+                "t": "video",
+                "yt": "RP-B7N9NNt4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "pure:smooth、\nAIで共振を抑える",
-          "body": "pure:smoothは、音源プロファイルを選ぶとAIが耳障りな共振を検出し抑える。",
-          "mini_headline": "sonible pure:smooth AIプラグイン",
+          "headline": "Grimesが新曲二曲\nAI-themedアルバム",
+          "body": "新曲でAIを使ったのは「Deepseek」だけで、DeepSeekが生成した詩を翻案した。",
+          "mini_headline": "Grimes、Psy Operaを予告",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "画像：sonible"
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
               },
               {
                 "t": "p",
-                "x": "sonibleは、AI搭載（AI-powered）の共振抑制プラグインpure:smoothをリリースした。"
+                "x": "GrimesがA.I.-themedの新作アルバムPsy Operaのリリースを控えている。それに合わせ、極めてGrimesianな新曲二曲「Deepseek」と「Killing God With Computers」を公開した。Grimesによれば、前者はこのLPで実際に人工知能を使った唯一の曲で、曲名と同じ大規模言語モデルで作ったA.I.詩を翻案して書いたという。一方の「Killing God With Computers」は、テクノロジーを持ち上げるいつものGrimesだ。"
               },
               {
                 "t": "p",
-                "x": "pure:smoothは、オーディオ内の不快な共振や耳障りな周波数帯域を検出して抑えるディハーシャー（de-harsher）プラグインだ。問題のある周波数を手作業で探さなくても、より滑らかでバランスの取れたサウンドが自動で得られる。"
+                "x": "「[「Deepseek」]を書きながらA.I.詩について考えていて、A.I.は女性がインターネットで感じていることに似ていると気づいた」とGrimesは声明で述べた。「書きながら泣いた。人々が私に考えてほしくないと思っていることを強く感じた。本当に女性であるということそのものだ」"
               },
               {
                 "t": "p",
-                "x": "ユーザーが音源プロファイルを選ぶと、プラグインがオーディオを解析して処理を自動で調整する。ボーカル、ギター、ドラム、シンセ、ストリングスなど幅広い音源に対応する。"
+                "x": "まだ発売日が決まっていない自主リリースのMiss Anthropocene後継作には、最近のシングル「Accelerando」も収録される予定だ。Grimesはこの曲と新曲の両方を、長年の協力者Vadakinと共作・共同プロデュースした。"
               },
               {
                 "t": "video",
-                "yt": "yjnmUv3_2aM"
-              },
-              {
-                "t": "p",
-                "x": "操作項目はSmoothing、Resolution、Shaping、Frequency Range、Feedbackである。Smoothingは共振の低減量を設定し、Resolutionは広い帯域での音色の平滑化と精密な共振低減を切り替える。Shapingでは元の音色バランスを保つか、よりはっきりしたスペクトル調整を加えるかを選べる。"
-              },
-              {
-                "t": "p",
-                "x": "Frequency Rangeは処理を特定の帯域に限定する。Feedbackは適用中の低減量をリアルタイムで表示する。Difference Monitoringを使えば、何が取り除かれているかを正確に聴くこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "通常価格は€39で、12月14日まで€25の導入価格で購入できる。macOSとWindowsでVST3、AU、AAXの各フォーマットに対応する。"
+                "yt": "RP-B7N9NNt4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "pure:smooth\n用AI抑制刺耳共振",
-          "body": "插件厂商sonible的pure:smooth在选定音源配置后，用AI找出并削减刺耳共振。",
-          "mini_headline": "sonible pure:smooth AI插件",
+          "headline": "Grimes发布两首新歌\nAI-themed专辑",
+          "body": "新歌中只有《Deepseek》真正使用了AI，改编自DeepSeek语言模型生成的诗。",
+          "mini_headline": "Grimes预告Psy Opera",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "图片：sonible"
+                "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+                "cap": "Grimes"
               },
               {
                 "t": "p",
-                "x": "sonible发布了AI驱动（AI-powered）的共振抑制插件pure:smooth。"
+                "x": "Grimes即将发行A.I.-themed新专辑Psy Opera。为此她推出了两首极具Grimesian风格的新歌：“Deepseek”和“Killing God With Computers”。据Grimes介绍，前者是这张LP中唯一真正使用了人工智能的曲目，她在创作时改编了一首由同名大语言模型生成的A.I.诗歌。而“Killing God With Computers”则是一贯鼓吹科技的Grimes。"
               },
               {
                 "t": "p",
-                "x": "pure:smooth是一款去刺耳（de-harsher）插件，能找出并削减音频中令人不适的共振和刺耳频段。用户无需手动寻找问题频率，就能自动获得更平滑、更均衡的声音。"
+                "x": "“在写[“Deepseek”]并反复品味那首A.I.诗时，我意识到A.I.的感受就像女性在网上的感受，”Grimes在声明中说。“我写的时候哭了。我强烈感受到人们不想让我思考。这真的就像身为女性的处境。”"
               },
               {
                 "t": "p",
-                "x": "用户选定音源配置后，插件会分析音频并自动调整处理方式。它适用于人声、吉他、鼓、合成器和弦乐等多种音源。"
+                "x": "这张自主发行的Miss Anthropocene后续专辑尚未公布发行日期，还将收录近期单曲“Accelerando”。Grimes与长期合作者Vadakin共同创作并制作了这首歌和新歌。"
               },
               {
                 "t": "video",
-                "yt": "yjnmUv3_2aM"
-              },
-              {
-                "t": "p",
-                "x": "其控制项包括Smoothing、Resolution、Shaping、Frequency Range和Feedback。Smoothing设定共振削减量，Resolution在宽泛的音色平滑与精确的共振削减之间切换。Shaping让用户保留原有的音色平衡，或施加更明显的频谱调整。"
-              },
-              {
-                "t": "p",
-                "x": "Frequency Range将处理限定在特定频段。Feedback实时显示所施加的削减量。借助Difference Monitoring，用户还能准确听到被去除的内容。"
-              },
-              {
-                "t": "p",
-                "x": "正式价格为€39，12月14日前可享€25的首发优惠价。该插件在macOS和Windows上支持VST3、AU和AAX格式。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "pure:smooth de sonible doma\nresonancias con AI",
-          "body": "El plugin pure:smooth de sonible usa AI para detectar y reducir resonancias ásperas tras elegir un perfil de fuente.",
-          "mini_headline": "sonible pure:smooth, plugin con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mmagimg.speedgabia.com/2026/11/img-1795053715205-bfe434cfbeb9bf24.webp",
-                "cap": "Imagen: sonible"
-              },
-              {
-                "t": "p",
-                "x": "sonible ha lanzado pure:smooth, un plugin de supresión de resonancias AI-powered, basado en AI."
-              },
-              {
-                "t": "p",
-                "x": "pure:smooth es un plugin de-harsher que detecta y reduce resonancias desagradables y rangos de frecuencia ásperos en el audio. Los usuarios pueden obtener de forma automática un sonido más suave y equilibrado, sin buscar a mano las frecuencias problemáticas."
-              },
-              {
-                "t": "p",
-                "x": "Tras seleccionar el usuario un perfil de fuente, el plugin analiza el audio y ajusta su procesamiento automáticamente. Funciona con una amplia variedad de fuentes, como voces, guitarras, baterías, sintetizadores y cuerdas."
-              },
-              {
-                "t": "video",
-                "yt": "yjnmUv3_2aM"
-              },
-              {
-                "t": "p",
-                "x": "Sus controles son Smoothing, Resolution, Shaping, Frequency Range y Feedback. Smoothing fija la cantidad de reducción de resonancias, mientras que Resolution alterna entre un suavizado tonal amplio y una reducción precisa de resonancias. Shaping permite conservar el equilibrio tonal original o aplicar un ajuste espectral más marcado."
-              },
-              {
-                "t": "p",
-                "x": "Frequency Range limita el procesamiento a una banda concreta. Feedback muestra en tiempo real la reducción aplicada. Con Difference Monitoring, los usuarios también pueden escuchar exactamente lo que se está eliminando."
-              },
-              {
-                "t": "p",
-                "x": "El precio habitual es de €39, y hay un precio de lanzamiento de €25 disponible hasta el 14 de diciembre. El plugin admite los formatos VST3, AU y AAX en macOS y Windows."
+                "yt": "RP-B7N9NNt4"
               }
             ]
           }
@@ -1371,171 +1371,201 @@
       }
     },
     {
-      "id": "eu-ministers-ai-copyright",
+      "id": "sonic-palette-arxiv",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU 열한 개국,\nAI 저작권 보호 지지",
-      "body": "브뤼셀 회의를 앞두고 EU 열한 개국이 AI 저작권 보호 입법을 촉구했다.",
-      "mini_headline": "EU 회원국, AI 저작권 보호 지지",
+      "headline": "음악을 따라 바뀌는\n색 팔레트 예측 모델",
+      "body": "Transformer가 곡 흐름을 따라 프레임마다 다섯 색 팔레트를 예측한다.",
+      "mini_headline": "음악을 색 팔레트로",
       "tool": "Music",
-      "source": "CMU",
-      "url": "https://completemusicupdate.com/eu-member-states-call-for-more-ai-copyright-protections-and-european-ownership-for-tiktok-europe/",
-      "accent": "#3b6bff",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.25781",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "연구진이 내놓은 Sonic Palette는 오디오에서 시간에 따라 변하는 색 테마를 예측하는 음악 기반 프레임워크다. 음악-팔레트 생성을 정적인 문제로 보지 않고 음악과 색의 대응을 크로스모달 시퀀스 예측 과제로 정식화했다. 팔레트 수준의 시각 속성이 음악에 반응해 시간에 따라 어떻게 변하는지 모델링하는 방식이다."
+          },
+          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-            "cap": ""
+            "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+            "cap": "Figure 1: Sonic Palette 개요. 입력 오디오 구간을 넣으면 프레임워크가 시간에 따라 변하는 색 테마 시퀀스를 예측하고, 이것으로 팔레트 기반 리컬러링을 돌린다."
           },
           {
             "t": "p",
-            "x": "EU 각국 문화장관이 브뤼셀에 모여 회의 중이다. 그에 앞서 독일과 오스트리아 정부가 TikTok Europe을 유럽 소유로 강제 전환하자는 과감한 안을 내놨다. TikTok 대변인은 Politico에 이 제안이 “전혀 가치가 없다”고 말했다."
+            "x": "Sonic Palette는 음악 조건부 자기회귀 Transformer로 입력 오디오 특징에서 프레임별 색 테마를 예측한다. 테마 하나는 주요 색 다섯 가지로 이뤄진다. 이를 위해 연구진은 공식 뮤직비디오 전편 265편에서 오디오-색 시퀀스 쌍을 뽑아 데이터셋을 만들었다. 예측한 색 테마는 팔레트 기반 리컬러링으로 시각화했는데, 이미지 구조는 그대로 두고 음악에 따라 시간적으로 달라지는 색감을 드러낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+            "cap": "Figure 2: Billie Eilish의 “What Was I Made For?”(Barbie 수록)에서 뽑은 프레임별 색 테마 예시."
           },
           {
             "t": "p",
-            "x": "이와 별개로 EU 열한 개 회원국은 AI 시대에 맞게 유럽 저작권 보호를 강화할 법 개정안을 내라고 유럽 집행위원회(European Commission)에 요구하는 데 힘을 실었다. 문화장관들이 승인한 문서는 AI가 “인간의 창작 과정과 예술·문화에 대한 인식과 경험에 깊은 격변을 일으켰다”고 진단하고 “European Commission이 가능한 한 빨리 입법안을 제출할 것을 촉구한다”고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "쟁점은 주로 AI 기업이 AI 모델을 학습시키려고 기존 콘텐츠를 복제할 때 져야 하는 저작권·투명성 의무다. 많은 AI 기업은 EU 법의 텍스트·데이터 마이닝 저작권 예외가 AI 학습에도 적용된다고 주장한다. Euronews는 여러 EU 정부 안에서 의견이 갈린다고 짚었다. 산업 부처는 대체로 AI 기업 편에, 문화 부처는 창작자와 권리자 편에 선다."
+            "x": "정량 평가에서 Sonic Palette가 예측한 색 테마는 실제 정답에 더 가까웠다. 주관 평가에서도 시간에 따른 색 전환이 더 자연스러웠고 음악과 색의 분위기도 더 잘 맞았다. 음악 기반 비주얼 디자인, 컴퓨테이셔널 아트, 창작 시각 저작에 활용될 가능성을 보여주는 결과다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Eleven EU states back\nAI copyright protections",
-          "body": "Ahead of a Brussels culture council, eleven EU member states urged new laws boosting copyright protection against AI.",
-          "mini_headline": "EU states back AI copyright push",
+          "headline": "A model that turns music\ninto shifting color palettes",
+          "body": "A music-conditioned Transformer predicts five-color palettes frame by frame as a song's audio unfolds.",
+          "mini_headline": "Music into color palettes",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "We present Sonic Palette, a music-driven framework for predicting time-varying color themes from audio. Rather than treating music-to-palette generation as a static problem, our method formulates music--color correspondence as a cross-modal sequence prediction task that models how palette-level visual attributes evolve over time in response to music."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Overview of Sonic Palette. Given an input audio segment, the framework predicts a time-varying sequence of color themes to drive a palette-guided recoloring process."
               },
               {
                 "t": "p",
-                "x": "Culture ministers from across the European Union are meeting in Brussels, and ahead of that meeting the governments of Germany and Austria presented a bold proposal to force TikTok Europe into European ownership. A TikTok spokesperson told Politico the proposal has “zero merit”."
+                "x": "Specifically, Sonic Palette uses a music-conditioned autoregressive Transformer to predict frame-wise color themes, each represented by five dominant colors, from input audio features. To support this task, we curate a dataset of paired audio--color sequences derived from 265 full-length official music videos. We further visualize the predicted color themes through a palette-guided recoloring process that preserves image structure while revealing temporally varying color appearance associated with the music."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Examples of frame-wise color themes from Billie Eilish’s “What Was I Made For?” (from Barbie)."
               },
               {
                 "t": "p",
-                "x": "Eleven EU states are backing a separate call for the European Commission to draft legal reforms to boost copyright protections in Europe in the context of AI. A document endorsed by their culture ministers says AI “has led to profound upheavals in human creative processes and the perception and experience of art and culture”, adding: “we call on the European Commission to present a legislative proposal as soon as possible”."
-              },
-              {
-                "t": "p",
-                "x": "Much of this comes down to the copyright and transparency obligations of AI companies when they copy existing content to train AI models. Many AI companies claim the text and data mining copyright exception in EU law covers AI training. Euronews notes division within many EU governments, with business departments often siding with AI companies and culture departments with creators and rightsholders."
+                "x": "Quantitative results show that Sonic Palette predicts color themes that more closely match the ground truth, while subjective results indicate more natural temporal color transitions and stronger perceived music--color atmosphere alignment, highlighting its potential for music-driven visual design, computational art, and creative visual authoring."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU 열한 개국,\nAI 저작권 보호 지지",
-          "body": "브뤼셀 회의를 앞두고 EU 열한 개국이 AI 저작권 보호 입법을 촉구했다.",
-          "mini_headline": "EU 회원국, AI 저작권 보호 지지",
+          "headline": "음악을 따라 바뀌는\n색 팔레트 예측 모델",
+          "body": "Transformer가 곡 흐름을 따라 프레임마다 다섯 색 팔레트를 예측한다.",
+          "mini_headline": "음악을 색 팔레트로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "연구진이 내놓은 Sonic Palette는 오디오에서 시간에 따라 변하는 색 테마를 예측하는 음악 기반 프레임워크다. 음악-팔레트 생성을 정적인 문제로 보지 않고 음악과 색의 대응을 크로스모달 시퀀스 예측 과제로 정식화했다. 팔레트 수준의 시각 속성이 음악에 반응해 시간에 따라 어떻게 변하는지 모델링하는 방식이다."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Sonic Palette 개요. 입력 오디오 구간을 넣으면 프레임워크가 시간에 따라 변하는 색 테마 시퀀스를 예측하고, 이것으로 팔레트 기반 리컬러링을 돌린다."
               },
               {
                 "t": "p",
-                "x": "EU 각국 문화장관이 브뤼셀에 모여 회의 중이다. 그에 앞서 독일과 오스트리아 정부가 TikTok Europe을 유럽 소유로 강제 전환하자는 과감한 안을 내놨다. TikTok 대변인은 Politico에 이 제안이 “전혀 가치가 없다”고 말했다."
+                "x": "Sonic Palette는 음악 조건부 자기회귀 Transformer로 입력 오디오 특징에서 프레임별 색 테마를 예측한다. 테마 하나는 주요 색 다섯 가지로 이뤄진다. 이를 위해 연구진은 공식 뮤직비디오 전편 265편에서 오디오-색 시퀀스 쌍을 뽑아 데이터셋을 만들었다. 예측한 색 테마는 팔레트 기반 리컬러링으로 시각화했는데, 이미지 구조는 그대로 두고 음악에 따라 시간적으로 달라지는 색감을 드러낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Billie Eilish의 “What Was I Made For?”(Barbie 수록)에서 뽑은 프레임별 색 테마 예시."
               },
               {
                 "t": "p",
-                "x": "이와 별개로 EU 열한 개 회원국은 AI 시대에 맞게 유럽 저작권 보호를 강화할 법 개정안을 내라고 유럽 집행위원회(European Commission)에 요구하는 데 힘을 실었다. 문화장관들이 승인한 문서는 AI가 “인간의 창작 과정과 예술·문화에 대한 인식과 경험에 깊은 격변을 일으켰다”고 진단하고 “European Commission이 가능한 한 빨리 입법안을 제출할 것을 촉구한다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "쟁점은 주로 AI 기업이 AI 모델을 학습시키려고 기존 콘텐츠를 복제할 때 져야 하는 저작권·투명성 의무다. 많은 AI 기업은 EU 법의 텍스트·데이터 마이닝 저작권 예외가 AI 학습에도 적용된다고 주장한다. Euronews는 여러 EU 정부 안에서 의견이 갈린다고 짚었다. 산업 부처는 대체로 AI 기업 편에, 문화 부처는 창작자와 권리자 편에 선다."
+                "x": "정량 평가에서 Sonic Palette가 예측한 색 테마는 실제 정답에 더 가까웠다. 주관 평가에서도 시간에 따른 색 전환이 더 자연스러웠고 음악과 색의 분위기도 더 잘 맞았다. 음악 기반 비주얼 디자인, 컴퓨테이셔널 아트, 창작 시각 저작에 활용될 가능성을 보여주는 결과다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU十一カ国、\nAI著作権保護を支持",
-          "body": "ブリュッセルの文化相理事会を前に、EU十一カ国がAIに対する著作権保護の新法を求めた。",
-          "mini_headline": "EU加盟国、AI著作権保護を後押し",
+          "headline": "音楽を刻々と変わる\n配色に変換するモデル",
+          "body": "音楽連動のTransformerが曲の進行に合わせ五色のパレットを毎フレーム予測する。",
+          "mini_headline": "音楽を配色に",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "本研究では、音声から時間とともに変化するカラーテーマを予測する音楽駆動型フレームワークSonic Paletteを提示する。音楽からのパレット生成を静的な問題として扱うのではなく、音楽と色の対応をクロスモーダルな系列予測タスクとして定式化し、パレット単位の視覚的属性が音楽に応じて時間とともにどう変化するかをモデル化する。"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Sonic Paletteの概要。入力音声セグメントが与えられると、フレームワークは時間変化するカラーテーマの系列を予測し、パレット誘導型の再着色処理を駆動する。"
               },
               {
                 "t": "p",
-                "x": "EU各国の文化相がブリュッセルで会合を開いている。それに先立ち、ドイツとオーストリアの政府はTikTok Europeを欧州資本の所有に強制的に移すという大胆な提案を示した。TikTokの広報担当者はPoliticoに対し、この提案には「まったく価値がない」と述べた。"
+                "x": "具体的には、Sonic Paletteは音楽条件付きの自己回帰型Transformerを用い、入力音声の特徴量からフレームごとのカラーテーマを予測する。各テーマは五つの主要色で表される。このタスクのため、265本のフルレングスの公式ミュージックビデオから得た音声と色の系列ペアのデータセットを構築した。さらに、画像の構造を保ちながら音楽に伴う時間的な色の変化を表す、パレット誘導型の再着色処理によって予測したカラーテーマを可視化した。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Billie Eilish「What Was I Made For?」(Barbieより)のフレームごとのカラーテーマの例。"
               },
               {
                 "t": "p",
-                "x": "EU十一カ国は、これとは別に、AIを踏まえて欧州の著作権保護を強化する法改正案の作成を欧州委員会（European Commission）に求める呼びかけを支持している。各国の文化相が承認した文書は、AIが「人間の創作プロセスと、芸術・文化の受け止め方や体験に深刻な激変をもたらした」とし、「European Commissionに対し、できるだけ早く立法案を提示するよう求める」と付け加えている。"
-              },
-              {
-                "t": "p",
-                "x": "争点の多くは、AI企業がAIモデルの学習のために既存コンテンツを複製する際の著作権と透明性の義務にある。多くのAI企業は、EU法のテキスト・データマイニングに関する著作権例外がAIの学習にも適用されると主張している。Euronewsは、多くのEU加盟国の政府内に分裂があり、産業担当の省庁はAI企業側に、文化担当の省庁はクリエイターや権利者側につくことが多いと指摘している。"
+                "x": "定量評価では、Sonic Paletteが正解データにより近いカラーテーマを予測することが示され、主観評価ではより自然な時間的色遷移と、音楽と色の雰囲気のより強い一致が認められた。音楽駆動型のビジュアルデザイン、コンピュテーショナルアート、創作的な視覚表現への応用可能性を示す結果だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "十一个EU成员国\n支持AI版权保护",
-          "body": "布鲁塞尔文化部长理事会召开前，十一个EU成员国呼吁出台新法，加强针对AI的版权保护。",
-          "mini_headline": "EU成员国支持加强AI版权保护",
+          "headline": "将音乐转化为\n动态配色方案的模型",
+          "body": "以音乐为条件的Transformer随歌曲音频推进，逐帧预测五色调色板。",
+          "mini_headline": "把音乐变成调色板",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "我们提出Sonic Palette，一个从音频预测随时间变化的配色主题的音乐驱动框架。我们的方法不把音乐到调色板的生成视为静态问题，而是将音乐与色彩的对应关系表述为跨模态序列预测任务，建模调色板层面的视觉属性如何随音乐随时间演变。"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Sonic Palette概览。给定一段输入音频，该框架预测随时间变化的配色主题序列，以驱动调色板引导的重新着色过程。"
               },
               {
                 "t": "p",
-                "x": "EU各国文化部长正在布鲁塞尔开会。会前，德国和奥地利政府提出一项大胆提议，要求强制将TikTok Europe转为欧洲所有。TikTok一位发言人对Politico表示，该提议“毫无价值”。"
+                "x": "具体而言，Sonic Palette使用以音乐为条件的自回归Transformer，根据输入音频特征预测逐帧配色主题，每个主题由五种主色表示。为支持这一任务，我们整理了一个由265部完整官方音乐视频得到的音频-色彩序列配对数据集。我们还通过调色板引导的重新着色过程对预测的配色主题进行可视化，在保留图像结构的同时呈现与音乐相关的随时间变化的色彩表现。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Billie Eilish的“What Was I Made For?”（出自Barbie）的逐帧配色主题示例。"
               },
               {
                 "t": "p",
-                "x": "另有十一个EU成员国支持呼吁欧盟委员会（European Commission）起草法律改革方案，在AI背景下加强欧洲的版权保护。一份经这些国家文化部长认可的文件称，AI“给人类的创作过程以及人们对艺术和文化的感知与体验带来了深刻剧变”，并补充说：“我们呼吁European Commission尽快提出立法提案。”"
-              },
-              {
-                "t": "p",
-                "x": "问题的核心在于AI公司复制现有内容来训练AI模型时所承担的版权和透明度义务。许多AI公司声称，EU法律中的文本与数据挖掘版权例外涵盖AI训练。Euronews指出，许多EU国家政府内部存在分歧：经济部门往往站在AI公司一边，文化部门则站在创作者和权利人一边。"
+                "x": "定量结果表明，Sonic Palette预测的配色主题更接近真实值；主观结果则显示其时间上的色彩过渡更自然，感知到的音乐与色彩氛围一致性更强，凸显了其在音乐驱动的视觉设计、计算艺术和创意视觉创作方面的潜力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Once países de la EU respaldan\nel copyright frente a la AI",
-          "body": "Antes del consejo de cultura de Bruselas, once estados de la EU pidieron leyes que refuercen el copyright ante la AI.",
-          "mini_headline": "Estados de la EU respaldan proteger el copyright ante la AI",
+          "headline": "Un modelo que convierte música\nen paletas de color cambiantes",
+          "body": "Un Transformer condicionado por música predice paletas de cinco colores cuadro a cuadro según avanza el audio.",
+          "mini_headline": "Música convertida en paletas de color",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Presentamos Sonic Palette, un marco guiado por la música para predecir temas de color variables en el tiempo a partir del audio. En lugar de tratar la generación de paletas a partir de música como un problema estático, nuestro método formula la correspondencia música-color como una tarea de predicción de secuencias intermodal que modela cómo evolucionan en el tiempo los atributos visuales a nivel de paleta en respuesta a la música."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Descripción general de Sonic Palette. Dado un segmento de audio de entrada, el marco predice una secuencia de temas de color variable en el tiempo que guía un proceso de recoloreado basado en paletas."
               },
               {
                 "t": "p",
-                "x": "Los ministros de Cultura de toda la Unión Europea se reúnen en Bruselas y, antes de esa reunión, los gobiernos de Alemania y Austria presentaron una propuesta audaz para obligar a que TikTok Europe pase a manos europeas. Un portavoz de TikTok dijo a Politico que la propuesta tiene “cero mérito”."
+                "x": "En concreto, Sonic Palette utiliza un Transformer autorregresivo condicionado por la música para predecir temas de color por fotograma, cada uno representado por cinco colores dominantes, a partir de características del audio de entrada. Para respaldar esta tarea, reunimos un conjunto de datos de secuencias emparejadas de audio y color derivado de 265 videos musicales oficiales completos. Además, visualizamos los temas de color predichos mediante un proceso de recoloreado guiado por paletas que conserva la estructura de la imagen y revela la variación temporal del color asociada a la música."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Ejemplos de temas de color por fotograma de “What Was I Made For?” de Billie Eilish (de Barbie)."
               },
               {
                 "t": "p",
-                "x": "Once estados de la EU respaldan otra petición para que la European Commission elabore reformas legales que refuercen la protección de los derechos de autor en Europa en el contexto de la AI. Un documento avalado por sus ministros de Cultura afirma que la AI “ha provocado profundas convulsiones en los procesos creativos humanos y en la percepción y la experiencia del arte y la cultura”, y añade: “pedimos a la European Commission que presente una propuesta legislativa lo antes posible”."
-              },
-              {
-                "t": "p",
-                "x": "Gran parte de la cuestión se reduce a las obligaciones de derechos de autor y transparencia de las empresas de AI cuando copian contenido existente para entrenar modelos de AI. Muchas empresas de AI sostienen que la excepción de derechos de autor para minería de textos y datos de la legislación de la EU cubre el entrenamiento de AI. Euronews señala la división dentro de muchos gobiernos de la EU: los departamentos económicos suelen ponerse del lado de las empresas de AI y los de cultura, del lado de los creadores y titulares de derechos."
+                "x": "Los resultados cuantitativos muestran que Sonic Palette predice temas de color más cercanos a la referencia real, mientras que los resultados subjetivos indican transiciones de color temporales más naturales y una mayor alineación percibida de la atmósfera entre música y color, lo que destaca su potencial para el diseño visual guiado por la música, el arte computacional y la creación visual."
               }
             ]
           }
@@ -1543,109 +1573,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU 열한 개국,\nAI 저작권 보호 지지",
-          "body": "브뤼셀 회의를 앞두고 EU 열한 개국이 AI 저작권 보호 입법을 촉구했다.",
-          "mini_headline": "EU 회원국, AI 저작권 보호 지지",
+          "headline": "음악을 시시각각 바뀌는\n색 팔레트로 바꾸는 모델",
+          "body": "Transformer가 곡의 흐름에 따라 다섯 색 팔레트를 프레임별로 예측한다.",
+          "mini_headline": "음악을 색 팔레트로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "연구진은 오디오에서 시간에 따라 변하는 색 테마를 예측하는 음악 기반 프레임워크 Sonic Palette를 제시한다. 이 방법은 음악-팔레트 생성을 정적인 문제로 다루지 않고, 음악과 색의 대응을 크로스모달 시퀀스 예측 과제로 정식화해 팔레트 수준의 시각 속성이 음악에 반응해 시간에 따라 어떻게 변하는지 모델링한다."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Sonic Palette 개요. 입력 오디오 구간이 주어지면 프레임워크가 시간에 따라 변하는 색 테마 시퀀스를 예측해 팔레트 기반 리컬러링 과정을 구동한다."
               },
               {
                 "t": "p",
-                "x": "EU 각국 문화장관들이 브뤼셀에서 회의를 열고 있다. 회의에 앞서 독일과 오스트리아 정부는 TikTok Europe을 유럽 소유로 강제 전환하자는 과감한 제안을 내놓았다. TikTok 대변인은 Politico에 이 제안이 “전혀 가치가 없다”고 말했다."
+                "x": "구체적으로 Sonic Palette는 음악 조건부 자기회귀 Transformer로 입력 오디오 특징에서 프레임별 색 테마를 예측하며, 각 테마는 다섯 가지 주요 색으로 표현된다. 이를 위해 연구진은 공식 뮤직비디오 전편 265편에서 추출한 오디오-색 시퀀스 쌍 데이터셋을 구축했다. 또한 이미지 구조는 유지하면서 음악에 따라 시간적으로 달라지는 색감을 드러내는 팔레트 기반 리컬러링 과정으로 예측한 색 테마를 시각화했다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Billie Eilish의 “What Was I Made For?”(Barbie 수록)에서 뽑은 프레임별 색 테마 예시."
               },
               {
                 "t": "p",
-                "x": "EU 열한 개 회원국은 이와 별개로 유럽 집행위원회(European Commission)에 AI 시대에 맞춰 유럽의 저작권 보호를 강화하는 법 개정안을 마련하라는 요구를 지지하고 있다. 이들 문화장관이 승인한 문서는 AI가 “인간의 창작 과정과 예술·문화에 대한 인식과 경험에 깊은 격변을 일으켰다”고 진단하며 “European Commission이 가능한 한 빨리 입법안을 제출할 것을 촉구한다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "쟁점의 상당 부분은 AI 기업이 AI 모델 학습을 위해 기존 콘텐츠를 복제할 때 지는 저작권·투명성 의무다. 많은 AI 기업은 EU 법의 텍스트·데이터 마이닝 저작권 예외가 AI 학습에도 적용된다고 주장한다. Euronews는 여러 EU 정부 내부에 분열이 있다고 짚었다. 산업 부처는 대체로 AI 기업 편에, 문화 부처는 창작자와 권리자 편에 선다는 것이다."
+                "x": "정량 평가에서 Sonic Palette는 실제 정답에 더 가까운 색 테마를 예측했고, 주관 평가에서는 더 자연스러운 시간적 색 전환과 더 강한 음악-색 분위기 일치가 확인됐다. 음악 기반 비주얼 디자인, 컴퓨테이셔널 아트, 창작 시각 저작에 활용될 가능성을 보여주는 결과다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU十一カ国、\nAI著作権保護を支持",
-          "body": "ブリュッセルの文化相理事会を前に、EU十一カ国がAIに対する著作権保護の新法を求めた。",
-          "mini_headline": "EU加盟国、AI著作権保護を後押し",
+          "headline": "音楽を刻々と変わる\n配色に変換するモデル",
+          "body": "音楽連動のTransformerが曲の進行に合わせ五色のパレットを毎フレーム予測する。",
+          "mini_headline": "音楽を配色に",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "本研究では、音声から時間とともに変化するカラーテーマを予測する音楽駆動型フレームワークSonic Paletteを提示する。音楽からのパレット生成を静的な問題として扱うのではなく、音楽と色の対応をクロスモーダルな系列予測タスクとして定式化し、パレット単位の視覚的属性が音楽に応じて時間とともにどう変化するかをモデル化する。"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Sonic Paletteの概要。入力音声セグメントが与えられると、フレームワークは時間変化するカラーテーマの系列を予測し、パレット誘導型の再着色処理を駆動する。"
               },
               {
                 "t": "p",
-                "x": "EU各国の文化相がブリュッセルで会合を開いている。それに先立ち、ドイツとオーストリアの政府はTikTok Europeを欧州資本の所有に強制的に移すという大胆な提案を示した。TikTokの広報担当者はPoliticoに対し、この提案には「まったく価値がない」と述べた。"
+                "x": "具体的には、Sonic Paletteは音楽条件付きの自己回帰型Transformerを用い、入力音声の特徴量からフレームごとのカラーテーマを予測する。各テーマは五つの主要色で表される。このタスクのため、265本のフルレングスの公式ミュージックビデオから得た音声と色の系列ペアのデータセットを構築した。さらに、画像の構造を保ちながら音楽に伴う時間的な色の変化を表す、パレット誘導型の再着色処理によって予測したカラーテーマを可視化した。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Billie Eilish「What Was I Made For?」(Barbieより)のフレームごとのカラーテーマの例。"
               },
               {
                 "t": "p",
-                "x": "EU十一カ国は、これとは別に、AIを踏まえて欧州の著作権保護を強化する法改正案の作成を欧州委員会（European Commission）に求める呼びかけを支持している。各国の文化相が承認した文書は、AIが「人間の創作プロセスと、芸術・文化の受け止め方や体験に深刻な激変をもたらした」とし、「European Commissionに対し、できるだけ早く立法案を提示するよう求める」と付け加えている。"
-              },
-              {
-                "t": "p",
-                "x": "争点の多くは、AI企業がAIモデルの学習のために既存コンテンツを複製する際の著作権と透明性の義務にある。多くのAI企業は、EU法のテキスト・データマイニングに関する著作権例外がAIの学習にも適用されると主張している。Euronewsは、多くのEU加盟国の政府内に分裂があり、産業担当の省庁はAI企業側に、文化担当の省庁はクリエイターや権利者側につくことが多いと指摘している。"
+                "x": "定量評価では、Sonic Paletteが正解データにより近いカラーテーマを予測することが示され、主観評価ではより自然な時間的色遷移と、音楽と色の雰囲気のより強い一致が認められた。音楽駆動型のビジュアルデザイン、コンピュテーショナルアート、創作的な視覚表現への応用可能性を示す結果だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "十一个EU成员国\n支持AI版权保护",
-          "body": "布鲁塞尔文化部长理事会召开前，十一个EU成员国呼吁出台新法，加强针对AI的版权保护。",
-          "mini_headline": "EU成员国支持加强AI版权保护",
+          "headline": "将音乐转化为\n动态配色方案的模型",
+          "body": "以音乐为条件的Transformer随歌曲音频推进，逐帧预测五色调色板。",
+          "mini_headline": "把音乐变成调色板",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "我们提出Sonic Palette，一个从音频预测随时间变化的配色主题的音乐驱动框架。我们的方法不把音乐到调色板的生成视为静态问题，而是将音乐与色彩的对应关系表述为跨模态序列预测任务，建模调色板层面的视觉属性如何随音乐随时间演变。"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Sonic Palette概览。给定一段输入音频，该框架预测随时间变化的配色主题序列，以驱动调色板引导的重新着色过程。"
               },
               {
                 "t": "p",
-                "x": "EU各国文化部长正在布鲁塞尔开会。会前，德国和奥地利政府提出一项大胆提议，要求强制将TikTok Europe转为欧洲所有。TikTok一位发言人对Politico表示，该提议“毫无价值”。"
+                "x": "具体而言，Sonic Palette使用以音乐为条件的自回归Transformer，根据输入音频特征预测逐帧配色主题，每个主题由五种主色表示。为支持这一任务，我们整理了一个由265部完整官方音乐视频得到的音频-色彩序列配对数据集。我们还通过调色板引导的重新着色过程对预测的配色主题进行可视化，在保留图像结构的同时呈现与音乐相关的随时间变化的色彩表现。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Billie Eilish的“What Was I Made For?”（出自Barbie）的逐帧配色主题示例。"
               },
               {
                 "t": "p",
-                "x": "另有十一个EU成员国支持呼吁欧盟委员会（European Commission）起草法律改革方案，在AI背景下加强欧洲的版权保护。一份经这些国家文化部长认可的文件称，AI“给人类的创作过程以及人们对艺术和文化的感知与体验带来了深刻剧变”，并补充说：“我们呼吁European Commission尽快提出立法提案。”"
-              },
-              {
-                "t": "p",
-                "x": "问题的核心在于AI公司复制现有内容来训练AI模型时所承担的版权和透明度义务。许多AI公司声称，EU法律中的文本与数据挖掘版权例外涵盖AI训练。Euronews指出，许多EU国家政府内部存在分歧：经济部门往往站在AI公司一边，文化部门则站在创作者和权利人一边。"
+                "x": "定量结果表明，Sonic Palette预测的配色主题更接近真实值；主观结果则显示其时间上的色彩过渡更自然，感知到的音乐与色彩氛围一致性更强，凸显了其在音乐驱动的视觉设计、计算艺术和创意视觉创作方面的潜力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Once países de la EU respaldan\nel copyright frente a la AI",
-          "body": "Antes del consejo de cultura de Bruselas, once estados de la EU pidieron leyes que refuercen el copyright ante la AI.",
-          "mini_headline": "Estados de la EU respaldan proteger el copyright ante la AI",
+          "headline": "Un modelo que convierte música\nen paletas de color cambiantes",
+          "body": "Un Transformer condicionado por música predice paletas de cinco colores cuadro a cuadro según avanza el audio.",
+          "mini_headline": "Música convertida en paletas de color",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Presentamos Sonic Palette, un marco guiado por la música para predecir temas de color variables en el tiempo a partir del audio. En lugar de tratar la generación de paletas a partir de música como un problema estático, nuestro método formula la correspondencia música-color como una tarea de predicción de secuencias intermodal que modela cómo evolucionan en el tiempo los atributos visuales a nivel de paleta en respuesta a la música."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tiktok-europe.png",
-                "cap": ""
+                "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+                "cap": "Figure 1: Descripción general de Sonic Palette. Dado un segmento de audio de entrada, el marco predice una secuencia de temas de color variable en el tiempo que guía un proceso de recoloreado basado en paletas."
               },
               {
                 "t": "p",
-                "x": "Los ministros de Cultura de toda la Unión Europea se reúnen en Bruselas y, antes de esa reunión, los gobiernos de Alemania y Austria presentaron una propuesta audaz para obligar a que TikTok Europe pase a manos europeas. Un portavoz de TikTok dijo a Politico que la propuesta tiene “cero mérito”."
+                "x": "En concreto, Sonic Palette utiliza un Transformer autorregresivo condicionado por la música para predecir temas de color por fotograma, cada uno representado por cinco colores dominantes, a partir de características del audio de entrada. Para respaldar esta tarea, reunimos un conjunto de datos de secuencias emparejadas de audio y color derivado de 265 videos musicales oficiales completos. Además, visualizamos los temas de color predichos mediante un proceso de recoloreado guiado por paletas que conserva la estructura de la imagen y revela la variación temporal del color asociada a la música."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+                "cap": "Figure 2: Ejemplos de temas de color por fotograma de “What Was I Made For?” de Billie Eilish (de Barbie)."
               },
               {
                 "t": "p",
-                "x": "Once estados de la EU respaldan otra petición para que la European Commission elabore reformas legales que refuercen la protección de los derechos de autor en Europa en el contexto de la AI. Un documento avalado por sus ministros de Cultura afirma que la AI “ha provocado profundas convulsiones en los procesos creativos humanos y en la percepción y la experiencia del arte y la cultura”, y añade: “pedimos a la European Commission que presente una propuesta legislativa lo antes posible”."
-              },
-              {
-                "t": "p",
-                "x": "Gran parte de la cuestión se reduce a las obligaciones de derechos de autor y transparencia de las empresas de AI cuando copian contenido existente para entrenar modelos de AI. Muchas empresas de AI sostienen que la excepción de derechos de autor para minería de textos y datos de la legislación de la EU cubre el entrenamiento de AI. Euronews señala la división dentro de muchos gobiernos de la EU: los departamentos económicos suelen ponerse del lado de las empresas de AI y los de cultura, del lado de los creadores y titulares de derechos."
+                "x": "Los resultados cuantitativos muestran que Sonic Palette predice temas de color más cercanos a la referencia real, mientras que los resultados subjetivos indican transiciones de color temporales más naturales y una mayor alineación percibida de la atmósfera entre música y color, lo que destaca su potencial para el diseño visual guiado por la música, el arte computacional y la creación visual."
               }
             ]
           }

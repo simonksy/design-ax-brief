@@ -16014,6 +16014,136 @@
           "x": "독립 음악가·작곡가 그룹은 3월 Google에 소송을 걸었다. Google이 허가도 보상도 없이 YouTube의 저작권 녹음물로 음악 모델 Lyria 3를 학습시켰다는 주장이다. Google은 기각을 요청했다. 이용약관에 동의하는 순간 YouTube에 올린 음악은 이미 AI 학습용으로 폭넓게 라이선스됐다는 논리다."
         }
       ]
+    },
+    "music/dmn-ai-streams-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
+          "cap": "Photo Credit: Ilias Chebbi"
+        },
+        {
+          "t": "p",
+          "x": "AI 오디오가 양만 많고 실제 청취자는 적다는 건 이미 알려진 얘기다. 그런데 DMN이 이번 주 입수한 새 데이터를 보면 기계가 만든 곡이 모으는 스트리밍과 팬은 대부분의 예상보다 훨씬 적다."
+        },
+        {
+          "t": "p",
+          "x": "Tencent Music은 최근 자사 서비스의 AI 음악 소비를 “무시할 만한 수준”이라고 했다. Deezer도 앞서 AI 곡이 플랫폼 스트리밍의 1%에서 3%를 차지하고, 그중 85%는 부정 재생으로 분류돼 수익화가 막혔다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "여기에 한 대형 유통사 최고 임원이 눈여겨볼 통계를 내놨다. 이 회사가 US, EU, UK 전역의 DSPs에서 추적하는 활성 곡 약 300M 개 가운데 한 번이라도 재생된 곡은 약 40M 개뿐이다. 업로드된 260M 개, 약 87%는 한 번도 재생되지 않았다는 얘기다."
+        },
+        {
+          "t": "p",
+          "x": "한때 화제였던 AI 아티스트들도 시들하다. Agtverse 청취자는 약 일 년 새 82% 줄어 50,000명 아래를 맴돈다. SireWolf는 88% 급감해 월간 청취자가 22,000명으로 떨어졌다. 유료 리믹스·커버 도구를 준비하는 Spotify는 2026년 초부터 AI-generated 트랙 50M 개를 추천에서 뺐다고 밝혔다."
+        }
+      ]
+    },
+    "music/anukari-11-ai-patches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/a/anukari_1_1-Dh3xxJmp7FNJYUYyYBE8ZxCX5tsS5F8H.jpg",
+          "cap": "Anukari 1.1 3D 물리 기반 소프트웨어 신시사이저"
+        },
+        {
+          "t": "p",
+          "x": "Anukari가 물리 기반 소프트웨어 신스의 새 버전을 내놨다. 2026년 6월 정식 출시 뒤 첫 대규모 업데이트다. Anukari 1.1에는 공명하는 현, 바, 플레이트, 멤브레인, 튜브, 벨이 추가됐다. 관악기처럼 숨을 불어 넣는 마우스피스도 생겼다."
+        },
+        {
+          "t": "p",
+          "x": "새 기능 가운데 하나는 ‘닿는’ 모든 소스를 모듈레이션하는 움직이는 구체 Modulosphere다. 악기 전체 형태를 생성하고 부품을 패턴으로 복제하는 기능도 들어갔다. 새로 생긴 Claude, ChatGPT 등 AI 어시스턴트 호환 기능을 쓰면 프롬프트로 패치를 만든다. Legato와 glide에 더해 엔벌로프·벨로시티 커브도 편집할 수 있고 CPU 사용량은 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "Anukari 1.1은 새 뱅크 네 개에 팩토리 프리셋 1000개 이상을 새로 담았고 프리셋 브라우저도 새로 디자인했다."
+        },
+        {
+          "t": "p",
+          "x": "“이미 AI 어시스턴트를 쓰고 있다면 이제 Anukari에 연결해 떠올린 무엇이든 설명하고, 그 소리를 훨씬 빨리 들어볼 수 있습니다. Anukari 안에 AI는 없습니다. 어시스턴트에게 조작 권한을 줄 뿐입니다.” — Evan Mezeske, Founder, Anukari"
+        },
+        {
+          "t": "p",
+          "x": "기존 사용자는 Anukari 1.1을 무료로 받는다. 신규 라이선스는 2026년 12월 4일까지 £68 (정가 £135)이다."
+        }
+      ]
+    },
+    "music/grimes-psy-opera-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
+          "cap": "Grimes"
+        },
+        {
+          "t": "p",
+          "x": "Grimes가 A.I.-themed 신보 Psy Opera 발매를 앞두고 지극히 Grimesian한 신곡 두 곡 “Deepseek”과 “Killing God With Computers”를 내놨다. Grimes 말로는 앞의 곡이 이 LP에서 실제로 인공지능을 쓴 유일한 곡이다. 곡명과 같은 대규모 언어 모델로 만든 A.I. 시를 각색했다. “Killing God With Computers”는 기술을 예찬하는 평소의 Grimes 그대로다."
+        },
+        {
+          "t": "p",
+          "x": "“[“Deepseek”]을 쓰며 A.I. 시를 곱씹다가, A.I.가 여성들이 인터넷에서 느끼는 감정과 닮았다는 걸 깨달았어요.” Grimes는 성명에서 이렇게 말했다. “쓰면서 울었어요. 사람들이 제가 생각하길 원치 않는다는 걸 강하게 느꼈죠. 정말 여성으로 산다는 것과 같아요.”"
+        },
+        {
+          "t": "p",
+          "x": "자체 발매하는 이 앨범은 Miss Anthropocene의 후속작이다. 발매일은 아직 정해지지 않았고 최근 싱글 “Accelerando”도 실린다. Grimes는 이 곡과 신곡들을 오랜 협업자 Vadakin과 함께 쓰고 프로듀싱했다."
+        },
+        {
+          "t": "video",
+          "yt": "RP-B7N9NNt4"
+        }
+      ]
+    },
+    "music/sonic-palette-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "연구진이 내놓은 Sonic Palette는 오디오에서 시간에 따라 변하는 색 테마를 예측하는 음악 기반 프레임워크다. 음악-팔레트 생성을 정적인 문제로 보지 않고 음악과 색의 대응을 크로스모달 시퀀스 예측 과제로 정식화했다. 팔레트 수준의 시각 속성이 음악에 반응해 시간에 따라 어떻게 변하는지 모델링하는 방식이다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.25781v1/SG26Fig1.png",
+          "cap": "Figure 1: Sonic Palette 개요. 입력 오디오 구간을 넣으면 프레임워크가 시간에 따라 변하는 색 테마 시퀀스를 예측하고, 이것으로 팔레트 기반 리컬러링을 돌린다."
+        },
+        {
+          "t": "p",
+          "x": "Sonic Palette는 음악 조건부 자기회귀 Transformer로 입력 오디오 특징에서 프레임별 색 테마를 예측한다. 테마 하나는 주요 색 다섯 가지로 이뤄진다. 이를 위해 연구진은 공식 뮤직비디오 전편 265편에서 오디오-색 시퀀스 쌍을 뽑아 데이터셋을 만들었다. 예측한 색 테마는 팔레트 기반 리컬러링으로 시각화했는데, 이미지 구조는 그대로 두고 음악에 따라 시간적으로 달라지는 색감을 드러낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.25781v1/color_theme.png",
+          "cap": "Figure 2: Billie Eilish의 “What Was I Made For?”(Barbie 수록)에서 뽑은 프레임별 색 테마 예시."
+        },
+        {
+          "t": "p",
+          "x": "정량 평가에서 Sonic Palette가 예측한 색 테마는 실제 정답에 더 가까웠다. 주관 평가에서도 시간에 따른 색 전환이 더 자연스러웠고 음악과 색의 분위기도 더 잘 맞았다. 음악 기반 비주얼 디자인, 컴퓨테이셔널 아트, 창작 시각 저작에 활용될 가능성을 보여주는 결과다."
+        }
+      ]
+    },
+    "music/aria-musician-tdm-exemption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=465&dpr=1&s=none&crop=none",
+          "cap": "Aria CEO Annabelle Herd는 음악 산업이 다른 창작자를 저버리지 않겠다며 ‘우리는 나머지 창작·미디어 산업과 함께한다’고 말했다. 사진: Wendell Teodoro/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "음악 산업이 다른 창작 분야를 버려두는 AI 예외 협상은 받아들이지 않겠다고 선언했다. 음악인만 특별 대우하고 빅테크에는 다른 저작물로 학습할 길을 열어 주는 방안이 보도되자 곧바로 거부했다. David Pocock은 이를 “분할 통치 전략”이라고 불렀다."
+        },
+        {
+          "t": "p",
+          "x": "Australian Financial Review 보도에 따르면 정부는 저작권 제도 손질을 검토 중이다. AI 기업이 허가를 사서 호주 콘텐츠로 학습하게 하되 음악만은 예외로 둘 수도 있다는 안이다. Guardian Australia는 세부 내용을 따로 확인하지 못했다."
+        },
+        {
+          "t": "p",
+          "x": "Aria 최고경영자 Annabelle Herd는 “우리와 협의했다면 이 제도가 불필요하고 실행 불가능하며, 창작자를 보호하기보다 AI 기업의 상업적 이익에 맞춰 설계됐다고 조언했을 것”이라고 했다. 그러면서 “우리 입장은 변함없다. 우리는 나머지 창작·미디어 산업과 함께한다”고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "Australian Writers’ Guild, Media, Entertainment and Arts Alliance, 야당 연합 Coalition, 녹색당 Greens도 이 구상에 반대하고 나섰다. 녹색당 상원의원 Sarah Hanson-Young은 “이런 허점을 허용하면 호주는 AI의 케이맨 제도(Cayman Islands)로 알려지게 될 것”이라고 경고했다."
+        }
+      ]
     }
   }
 }

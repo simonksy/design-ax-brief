@@ -13075,6 +13075,147 @@
           "x": "Un representante del sector afirmó: “La industria del hogar inteligente se está alejando del control de dispositivos centrado en sus propias apps y asistentes de voz, y amplía la conexión con servicios externos de AI de uso general”, y añadió: “Los servicios de hogar inteligente evolucionan hacia un modelo en el que el usuario gestiona varios electrodomésticos con conversaciones cotidianas, sin abrir la app de un fabricante concreto”."
         }
       ]
+    },
+    "gadgets/nothing-ai-device-dec8-design": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fiel al estilo de Carl Pei, Nothing ha empezado a dosificar detalles de su último producto. El viernes, la compañía anunció que planea presentar oficialmente el 8 de diciembre su nuevo “AI-native device”, con “ninguna pantalla nueva y una experiencia que no se habría podido crear como una app”. Si eso fuera todo, probablemente no publicaríamos esta nota, pero una foto del aparato ha flotado perezosamente por las redes sociales como una densa nube de nicotina con sabor a fruta, gracias a una fuente inesperada."
+        },
+        {
+          "t": "p",
+          "x": "El miércoles a las 10:28PM ET, Sebastian Ingrosso, DJ del trío de música house Swedish House Mafia, publicó una foto en redes sociales etiquetando la cuenta oficial de Nothing en X. Entre unos auriculares Nothing Headphone 1 Pro y una MacBook Pro se ve un dispositivo que encaja claramente con la descripción del aparato sin pantalla que anunció Nothing. “Bro... y u leak?”, respondió un usuario de X a la foto de Ingrosso. ¿Es una maniobra de marketing coordinada por Nothing? (Sí, evidentemente.) Juzgue usted mismo."
+        },
+        {
+          "t": "p",
+          "x": "Lo que no logro superar es que parece dos vapeadores pegados. A juzgar por el adelanto que compartió la compañía, también tiene al menos una cámara, probablemente para algún tipo de función de inteligencia visual. Nos reservamos el juicio hasta ver el dispositivo en persona, pero por ahora parece un raro desacierto del equipo de diseño de Nothing."
+        },
+        {
+          "t": "p",
+          "x": "Bromas aparte, será interesante ver cómo posiciona Nothing este dispositivo; el historial de los aparatos de IA no es precisamente alentador. Humane cerró a comienzos del año pasado, y Rabbit ha avanzado a duras penas desde el lanzamiento del R1."
+        }
+      ]
+    },
+    "gadgets/rayban-meta-gen3-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Calificación: 7.3/10. Las gafas Ray-Ban de tercera generación de Meta reciben cambios estéticos y algunas mejoras de rendimiento en aspectos puntuales. Se ofrecen en tres estilos de montura —una Wayfarer más delgada, la nueva Zena tipo cat-eye y Aviator— a $449, mientras que Zena y Aviator parten de $529."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La montura Aviator resultaba demasiado grande y se deslizaba por la nariz; a diferencia de otras gafas de Meta, requiere un ajuste profesional. Gen 3 añade el botón de acción, un atajo personalizable para cualquier consulta a Meta AI, una batería de \"hasta 9 horas\" más 50 horas desde el estuche y un micrófono adicional para llamadas más claras."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta AI ahora funciona con Muse Spark, lo que hizo las conversaciones más naturales y redujo los errores. Meta mostró de forma preliminar su agente Muse en las gafas, aún en \"beta\", y al autor de la reseña le preocupa que las funciones de AI impulsen las suscripciones a Meta One. Un nuevo ajuste permite excluirse del entrenamiento con los \"visual data\" de las gafas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas non-Ray-Ban de Meta ofrecen básicamente las mismas funciones desde $249, Gen 2 cuesta $349 y Gen 1 $224, así que las únicas razones para elegir Gen 3 son los estilos Ray-Ban o un poco más de batería."
+        }
+      ]
+    },
+    "gadgets/phison-npu-ssd-sc26": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Phison detalló dos nuevos diseños de SSD empresariales en Supercomputer 2026 (SC26): uno con NPU integrada y 64GB de memoria a 130 GB/s que permite ejecutar PyTorch, vLLM, OpenVINO y llama.cpp directamente en la unidad, y otro que combina una caché pSLC rápida con una gran capacidad QLC detrás de un solo controlador. La compañía advierte que “muchos de los productos y funciones mencionados siguen en desarrollo”."
+        },
+        {
+          "t": "p",
+          "x": "La unidad de almacenamiento computacional ejecuta código de IA sobre los datos donde residen y devuelve resultados en lugar de conjuntos de datos completos, lo que según Phison podría suponer transferir entre 10 y 100 veces menos datos en las cargas de trabajo aplicables. Se espera que la NPU ofrezca “36,800 DMIPS de rendimiento de cómputo”, aunque no se dio ninguna cifra de TOPS ni se explicó cómo accede un host a la capacidad de cómputo de la unidad."
+        },
+        {
+          "t": "p",
+          "x": "La unidad Mixed Media es un componente de 16 canales cuyas regiones pSLC y QLC reciben espacios de nombres separados, por lo que no hacen falta unidades de caché dedicadas; “perder una unidad de 24 supondría una pérdida de caché del 4% en lugar del 25%”, afirma Phison. Kioxia y DapuStor han mostrado diseños similares. De los dos, Mixed Media parece el producto más cercano."
+        }
+      ]
+    },
+    "gadgets/insbotics-pophie-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Pophie no espera una palabra de activación. InsBotics creó este robot de escritorio de peluche para observar la habitación y hablar primero cuando el momento parece oportuno, una función llamada Proactive Interaction que solo funciona con el plan Pro de $20 al mes. Se vende por $399, con un descuento de Black Friday."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una cámara de gran angular y un conjunto de dos micrófonos que detecta la dirección de la voz le dan una percepción permanente del entorno, y un modelo de emociones VAD continuo controla sus expresiones. Mide 5.1 por 5.7 por 6.1 pulgadas, pesa 1.9 libras y usa dos ojos TFT LCD, cinco motores paso a paso y ocho sensores táctiles."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según InsBotics, recuerda a tus personas y mascotas —nombres, quién es quién y qué les gusta— y guarda recuerdos separados para cada persona por voz y rostro. Habla once idiomas. Al cerrar los ojos se desactiva la visión, mientras la conversación por voz sigue funcionando."
+        },
+        {
+          "t": "p",
+          "x": "Cada Pophie incluye dos meses de Pro; después, el plan gratuito permite diez minutos de conversación al día, y Standard cuesta $10 al mes. Su campaña de Kickstarter cerró con $439,275 de 1,168 patrocinadores."
+        }
+      ]
+    },
+    "gadgets/openai-foxconn-phone-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Shimul Sood / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI parece avanzar con sus planes de lanzar un smartphone. Un informe del diario Securities Times, de China, asegura que FIH Mobile, filial de Foxconn, recibió un pedido para ayudar a ensamblar un smartphone para el creador de ChatGPT. Foxconn ha sido el socio principal de Apple para ensamblar iPhones, Macs y otro hardware de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Hay pocos detalles sobre el tamaño del pedido, las especificaciones y los objetivos de lanzamiento al mercado, y el informe se basa en fuentes anónimas de la cadena de suministro."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año, el analista de TF International Securities Ming-Chi Kuo informó de que la compañía trabaja en un smartphone muy centrado en experiencias de AI agéntica, y que MediaTek parecía mejor situada que Qualcomm para suministrar el procesador. Kuo señaló a Luxshare, no a Foxconn, como socio exclusivo de diseño y fabricación del teléfono, por lo que no está claro cómo encajan ambos informes."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-2026-03-24T011153.319.jpg?resize=2000%2C1200&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI ha guardado silencio sobre sus planes de smartphone, pero desarrolla hardware AI-first con io, la empresa fundada por el exjefe de diseño de Apple Jony Ive. Entrar en el mercado no será fácil: Google ha apostado todo por la AI con Android, y Apple ha encontrado su ritmo con Siri AI. Es poco probable que OpenAI desarrolle su propio sistema operativo."
+        }
+      ]
     }
   }
 }
