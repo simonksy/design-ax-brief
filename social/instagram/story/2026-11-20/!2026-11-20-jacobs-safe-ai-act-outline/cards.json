@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "issue": "초당파 SAFE AI Act 개요 공개, 프런티어 AI에 연방 안전 기준",
+    "date": "2026.11.19",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "Sara Jacobs 의원실 보도자료(2026.11.19 게재) 원문과, 보도자료가 링크한 법안 개요 PDF(beyer.house.gov/UploadedFiles/SAFE_AI_Act_Outline.pdf, 2쪽) 직접 대조. 발의자 3인(Jacobs D-CA, Maloy R-UT, Beyer D-VA)·법안 정식 명칭·세 인용 확인. 정정: 초안 '법안을 냈다' → 아직 발의 전, '곧 나올(forthcoming)' 법안의 개요 공개이며 Beyer는 입법 문안에 대해 전문가 의견을 더 듣는 중이라 밝힘. 초안 날짜 11.20 → 보도자료 게재일 11.19. 개요에는 수치 임계치(연산량·매출 등)가 없다 — '임계치'는 각 기업이 자기 프레임워크에 적어야 하는 완화 발동 기준이고, 적용 범위·위험 영역은 시간에 따라 바뀔 수 있으며 스타트업·학계는 대체로 대상이 아니라고만 적음. 프레임워크 공개·제출·일방 완화 금지, CAISI가 정보기관·에너지부 등과 최소 요건 작성, 주는 연방 기준 위로 규제 가능, 정부 팀 평가+정부 공인 제3자 검증, 개발사가 평가자에 직접 지불 금지(기금 방식·단일 개발사 출연 상한), CAISI 배정·의무 순환, 출시·광범위 내부 사용 전 평가, 사법 심사 전제 긴급 권한, 민사 제재·고의 가중·형사 회부 절차, 제3자 피해 책임 명확화, 내부고발자 보호 — 모두 개요 PDF로 확인. 사진 없음: 전 장 stat·quote.",
+    "sources": [
+      "Rep. Sara Jacobs — Jacobs, Maloy, Beyer Release Outline For Sweeping, Bipartisan AI Safety Legislation (2026.11.19)",
+      "SAFE AI Act 개요(Safe and Accountable Federal Evaluations of Artificial Intelligence Act Outline, PDF) (2026.11.19)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "기업이 쓴 규칙",
+      "stat_arrow": "SAFE AI Act 개요",
+      "stat_bottom": "연방 안전 기준",
+      "stat_strike": true,
+      "eyebrow": "AI × 정책 · 2026.11.19",
+      "headline": "프런티어 AI에 연방 기준",
+      "body": "민주당 제이컵스·베이어, 공화당 멀로이 하원의원이 초당파 AI 안전법의 개요를 공개했다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "어떤 산업도 스스로를 단속하게\n두지 않는다. AI도 예외가 아니다.",
+      "quote_by": "세라 제이컵스 하원의원 (민주·캘리포니아)",
+      "eyebrow": "왜 꺼냈나",
+      "headline": "자율 규제로는 부족",
+      "body": "지금은 기업이 안전 규칙을 직접 쓰고, 지켜지는지 바깥에서 확인할 길이 없다는 게 개요의 진단이다.",
+      "foot": "2026.11.19",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "내부 안전 규칙",
+      "stat_arrow": "공개·제출, 멋대로 못 푼다",
+      "stat_bottom": "공개 프레임워크",
+      "stat_strike": true,
+      "eyebrow": "무엇을 내야 하나",
+      "headline": "안전 계획을 공개로",
+      "body": "무엇을 시험하고, 어느 임계치에서 어떤 완화책을 쓰는지 적는다. 최소 요건은 CAISI가 정한다.",
+      "foot": "2026.11.19",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "개발사가 직접 지불",
+      "stat_arrow": "기금으로 지급·의무 순환",
+      "stat_bottom": "CAISI가 배정",
+      "stat_strike": true,
+      "eyebrow": "누가 검사하나",
+      "headline": "평가자는 정부가 배정",
+      "body": "출시나 광범위한 내부 사용 전에 평가한다. 정부 공인 검증기관이 맡고, 최종 권한은 정부 팀에 있다.",
+      "foot": "2026.11.19",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "곧 나올 법안 문안을 두고 전문가와\n안전 분야 리더의 의견을 구하는 중이다.",
+      "quote_by": "돈 베이어 하원의원 (민주·버지니아)",
+      "eyebrow": "그래서 지금",
+      "headline": "문안은 아직, 개요부터",
+      "body": "위반엔 민사 제재, 임박한 중대 위험엔 사법 심사를 전제로 완화 명령. 주는 더 강한 규제를 둘 수 있다.",
+      "foot": "2026.11.19",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
