@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "issue": "유니티, Unity 7에 AI 코딩 에이전트 플러그인",
+    "date": "2026.11.17",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "Unity 공식 블로그 'Unite Tokyo 2026 Keynote recap'(Adam Smith, Unity 엔진 제품 총괄 SVP 작성, datePublished 2026-11-17) 원문 대조. 확인: Claude·Codex·Google Antigravity·Grok용 공식 플러그인, Unity 팀이 만들고 검토·보안 점검한 스킬 동봉, '수백만 개발자가 이미 Unity CLI 사용'(Unity 주장으로 귀속), Unity CLI 1.0 정식 공개·명령 추가 가능, Keijiro Takahashi 시연(Unity 공식 플러그인을 단 Claude Code가 실제 Unity 프로젝트에서 1인칭 퍼즐 시제품 — 코드 작성·컴파일·오류 읽기·플레이테스트), Unity Neural = 렌더링 가속·메모리 절감 AI 도구 모음, Neural Texture Compression이 Atrio 텍스처 메모리 '거의 30%' 절감, Unity 6.7 LTS 실험 기능 → Unity 7 정식 계획, Asset Library 플러그인(입력한 에셋 하나를 Asset Store·보유 에셋에서 찾아 씬에 투입, 같은 검색을 CLI에서 어떤 에이전트로도), 2019년 이후 첫 Unite. 정정: 초안 날짜 2026.11.22(수집일) → 기사 게재일 2026.11.17. 초안 본문의 'Unity Neural ... Atrio 메모리를 30%'는 원문상 '텍스처 메모리'라 고침. UGK의 62%는 AI 기능이 아니라 빼고, Meta VR Glasses·Synty 인수·Fellowship도 AI 주제가 아니라 뺌. 초안 영상(pipeline/media, 키노트 YouTube 발췌)은 쓰지 않고, Unity 블로그에 실린 Unity 공식 행사 사진 세 장(Adam Smith 무대, Keijiro Takahashi CLI 시연, Sangbae Nam·Atrio 씬)을 각 한 장씩 씀 — 사진가 크레딧·워터마크 없음.",
+    "sources": [
+      "Unity Blog — Unite Tokyo 2026 Keynote recap: Built for the speed of your ideas (2026.11.17)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "src/unite-tokyo-adam-smith.jpg",
+      "eyebrow": "AI × 게임 · 2026.11.17",
+      "headline": "유니티, AI 에이전트 품다",
+      "body": "Unite Tokyo 2026 키노트에서 Unity가 Claude·Codex·Antigravity·Grok용 공식 플러그인을 내놨다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "media": "src/unite-tokyo-keijiro-cli.jpg",
+      "eyebrow": "무대에서 뭘 보여줬나",
+      "headline": "에이전트가 짠 퍼즐 게임",
+      "body": "Keijiro Takahashi가 Claude Code에 1인칭 퍼즐 시제품을 시켰다. 에이전트가 코드를 쓰고, 오류를 읽고, 직접 플레이해 봤다.",
+      "foot": "2026.11.17",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "Unity 팀이 직접 만들고 검토하고\n보안 점검까지 마친 스킬이 함께 간다.",
+      "quote_by": "Adam Smith · Unity 엔진 제품 총괄 SVP",
+      "eyebrow": "무엇이 다른가",
+      "headline": "유니티가 검증한 스킬",
+      "body": "Unity CLI도 1.0으로 정식 공개됐다. 명령을 직접 더할 수 있고, Unity는 이미 수백만 명이 쓴다고 했다.",
+      "foot": "2026.11.17",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "media": "src/unite-tokyo-atrio.jpg",
+      "eyebrow": "그래픽엔 무엇이",
+      "headline": "AI가 줄인 텍스처 메모리",
+      "body": "AI 도구 모음 Unity Neural의 텍스처 압축이 샘플 씬 Atrio의 텍스처 메모리를 30% 가까이 덜어냈다.",
+      "foot": "2026.11.17",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "필요한 걸 입력하면 그 에셋 하나를 찾아\n씬에 바로 넣어 준다.",
+      "quote_by": "Unity · Asset Library 플러그인 소개",
+      "eyebrow": "그래서 지금",
+      "headline": "에셋 찾기도 에이전트로",
+      "body": "같은 검색을 CLI에서 어떤 에이전트로도 쓸 수 있다. 엔진이 사람 손과 에이전트 손을 함께 받기 시작했다.",
+      "foot": "2026.11.17",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
