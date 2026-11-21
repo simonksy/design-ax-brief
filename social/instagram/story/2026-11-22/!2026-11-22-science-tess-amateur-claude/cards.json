@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "issue": "Claude로 찾은 행성 후보 둘, 아마추어 행성 사냥의 명암",
+    "date": "2026.11.20",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "Nature 뉴스(2026.11.20, dc.date) 원문 대조 — 기사 후반부는 유료 벽이라 공개된 부분과 1차 자료로만 썼다. 랍체비치 Zenodo 프리프린트(doi:10.5281/zenodo.22967455, 2026.09.25) 대조: 대상 별 TIC 4206066(StKM 1-561, 후기 K형 왜성), 주기 3.18일·11.13일(Nature '약 3일·11일'), Sector 98에서 발견해 Sector 6·32(2018·2020)로 거슬러 확인, 3.18일 신호는 대상 별을 돈다면 지구 반지름 1.4배, 저자 스스로 '통계적 검증은 주장하지 않음'. ExoFOP 확인: TIC 4206066 = TOI-7930, .01·.02 둘 다 PC(행성 후보), TOI 등록 2026.11.05~06, 거리 35.6pc ≈ 116광년(Nature 116광년과 일치). 별 12만 개 이상·2025년 말~2026년 초 관측·약 2주·쿠니모토 공개 알고리즘으로 검증·동료 심사 전·TESS 천문학자 독자 분석 후 공식 후보 목록 등재·쿠니모토 인용은 Nature 원문. 정정: 초안 날짜 11.22 → 기사 게재일 11.20. 미디어: 초안 썸네일 pipeline/media/science-tess-amateur-claude.jpg는 Nature 기사 리드 이미지(Credit: Hypersphere/SPL, 사이언스 포토 라이브러리 = 에이전시)라 버리고, 표지에 NASA 공식 TESS 위성 일러스트(퍼블릭 도메인, Wikimedia Commons 'Transiting Exoplanet Survey Satellite artist concept (black background).png', 출처 tess.gsfc.nasa.gov) 한 장, 나머지는 stat·quote. Nature 인용 2번 참고문헌(Tripp, arXiv 2610.28575)은 arXiv가 '생성형 AI 사용 기준 미달'로 철회했으나 Nature 본문 해당 대목을 유료 벽 때문에 못 봐서 싣지 않음.",
+    "sources": [
+      "Nature — Claude, find me a planet: amateur astronomers are using AI with mixed results (2026.11.20)",
+      "Zenodo — Rabtsevich, Two Transit-like Signals in TESS Photometry of the Nearby K Dwarf TIC 4206066 (2026.09.25)",
+      "ExoFOP-TESS — TIC 4206066 / TOI-7930 (2026.11.22 확인)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 과학 · 2026.11.20",
+      "headline": "AI로 찾은 행성 후보",
+      "body": "천문학을 배운 적 없는 AI 전문가가 Claude Code로 NASA 위성 자료를 뒤져 행성 후보 둘을 찾았다.",
+      "foot": "밀어서 보기 →",
+      "media": "src/tess-nasa.png",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "별 12만 개+",
+      "stat_arrow": "Claude Code로 약 2주",
+      "stat_bottom": "행성 후보 2개",
+      "stat_strike": false,
+      "eyebrow": "무엇을 했나",
+      "headline": "별 12만 개에서 둘",
+      "body": "9월, 스페인의 AI 전문가 파벨 랍체비치가 TESS 위성이 최근 관측한 별 자료를 Claude Code에 맡겼다.",
+      "foot": "2026.11.20",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "3일·11일 주기",
+      "stat_arrow": "2018·2020년 자료로 거슬러",
+      "stat_bottom": "같은 무늬 확인",
+      "stat_strike": false,
+      "eyebrow": "어떻게 찾았나",
+      "headline": "두 박자로 흐린 별빛",
+      "body": "116광년 떨어진 별 TIC 4206066이 약 3일, 11일마다 어두워졌다. 행성 두 개가 앞을 지나간다는 신호다.",
+      "foot": "2026.11.20",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "개인 프리프린트",
+      "stat_arrow": "TESS 팀이 따로 분석",
+      "stat_bottom": "공식 후보 목록",
+      "stat_strike": false,
+      "eyebrow": "인정받았나",
+      "headline": "TESS 공식 후보에",
+      "body": "9월 25일 Zenodo에 올린 논문은 동료 심사 전이다. 그래도 TESS 천문학자들이 TOI-7930으로 올렸다.",
+      "foot": "2026.11.20",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "AI로 쓴 논문이 압도적으로 밀려드는데,\n후보의 질은 대체로 좋지 않다.",
+      "quote_by": "미셸 쿠니모토 · UBC 외계행성 연구자",
+      "eyebrow": "그래서 지금",
+      "headline": "행성 확정은 아직",
+      "body": "AI가 쓰는 알고리즘을 모르면 결과를 검증할 수 없다. 이번 두 후보도 전문가들이 확인하는 중이다.",
+      "foot": "2026.11.20",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
