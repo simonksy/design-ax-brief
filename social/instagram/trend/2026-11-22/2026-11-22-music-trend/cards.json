@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "AI, 곡보다 악기 속으로",
+    "date": "2026.11.22",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조(KVR은 WebFetch): Heritage 무료 펌웨어·NAM A2·CPU/지연 없음, Terra 샘플 없음·맵 50개+·12월 정식 출시, Anukari 'There's no AI inside Anukari'(외부 AI 비서에 조작을 맡김), Mooer 55종·69종·AI tone assistant·NAM A2 확인. 기사 게재일은 11.06·11.19·11.16·11.21(카드 날짜와 다름).",
+    "sources": [
+      "Sound On Sound — Heritage Audio's i73 Pro gains NAM A2 support (2026.11.06)",
+      "KVR Audio — Neutone announces Terra - Neural Drum Synth with Map-Based Exploration (AU & VST3) (2026.11.19)",
+      "Sound On Sound — Anukari 1.1 now available (2026.11.16)",
+      "Guitar World — Mooer debuts Future Flex, a next-gen amp modeler with a built-in speaker, AI and NAM A2 (2026.11.21)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.8~11.22",
+      "thread": [
+        {
+          "d": "11.8",
+          "t": "인터페이스",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.20",
+          "t": "드럼신스",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.21",
+          "t": "신스패치",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.22",
+          "t": "앰프페달",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI가 곡을 대신 쓰기보다 악기와 장비 속으로 들어간다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI, 곡보다\n악기 속으로",
+      "body": "한 건씩 보면 신제품 소식이다. 이어 보면 인터페이스, 드럼 신스, 신스, 앰프 페달까지 AI가 장비 안에 자리 잡는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.08",
+      "headline": "인터페이스가\n앰프를 돌린다",
+      "body": "Heritage Audio가 무료 펌웨어로 i73 Pro 내장 DSP에서 NAM A2 캡처를 돌린다. CPU도 지연도 더하지 않는다.",
+      "foot": "2026.11.08",
+      "_src": "https://www.soundonsound.com/news/heritage-audios-i73-pro-gains-nam-a2-support",
+      "_id": "heritage-i73pro-nam-a2",
+      "media": "pipeline/media/heritage-i73pro-nam-a2.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.20",
+      "headline": "샘플 없이\n드럼을 합성",
+      "body": "Neutone Terra는 샘플 없이 모든 타격음을 실시간 합성한다. 맵 50개 이상, 12월 정식 출시 전까지 무료 얼리 액세스.",
+      "foot": "2026.11.20",
+      "_src": "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705",
+      "_id": "neutone-terra-drum-synth",
+      "video": "pipeline/media/neutone-terra-drum-synth.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.21",
+      "headline": "신스 패치도\n프롬프트로",
+      "body": "Anukari 1.1은 Claude·ChatGPT 같은 AI 비서에 조작을 맡긴다. 창업자 말로는 'Anukari 안에 AI는 없다'.",
+      "foot": "2026.11.21",
+      "_src": "https://www.soundonsound.com/news/anukari-11-now-available",
+      "_id": "anukari-11-ai-patches",
+      "media": "pipeline/media/anukari-11-ai-patches.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.22",
+      "headline": "AI 톤 비서,\n페달 안으로",
+      "body": "Mooer Future Flex는 앰프 55종·효과 69종에 AI 톤 비서와 NAM A2 호환을 한 상자에 담았다.",
+      "foot": "2026.11.22",
+      "_src": "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex",
+      "_id": "mooer-future-flex-modeler",
+      "media": "pipeline/media/mooer-future-flex-modeler.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI 증명, 남은 건 검증",
+    "date": "2026.11.22",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(SciAm 설문 11.19→11.16, ForShor 11.19→11.18, 리만·Navier-Stokes 11.21→11.20). 268명·약 60개 기관·10명 중 7명·13%, Shor 인용, 1859년·Lean·Sutherland 독립 컴파일, 9월 OpenAI 해법의 '휘젓는 힘' 허점·인증서 미공개 확인. 사진은 쓰지 않고 영상 2장(서로 다른 파일)·quote·stat로 구성.",
+    "sources": [
+      "Scientific American — Math students fear AI will take their jobs—they're using it anyway (2026.11.16)",
+      "The Quantum Insider — Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research (2026.11.18)",
+      "Scientific American — Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math (2026.11.20)",
+      "Scientific American — After months of controversy, AI finally solved the 'real' Navier-Stokes problem (2026.11.20)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 11.16~11.20",
+      "thread": [
+        {
+          "d": "11.16",
+          "t": "불안한 신진",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.18",
+          "t": "검증 과제",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.20",
+          "t": "리만 가설",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.20",
+          "t": "인증서 대기",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 증명을 쏟아낼수록 수학의 일은 검증으로 옮겨 간다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI 증명,\n남은 건 검증",
+      "body": "한 건씩 보면 대발견이다. 엮어 보면 닷새 사이 증명은 쏟아지고, 누가 어떻게 확인하느냐가 남았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "두려워하며\n쓰는 젊은 수학자들",
+      "body": "대학원생·박사후연구원 268명 설문. 10명 중 7명은 수학에 남을 가능성이 줄었다고 답했다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/",
+      "_id": "sciam-math-students-ai-survey",
+      "video": "pipeline/media/sciam-math-students-ai-survey.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.18",
+      "headline": "AI 양자 연구,\n형식 검증부터",
+      "body": "Zapata·UMD의 ForShor.ai. 형식 검증된 Shor 알고리즘 위에서 AI가 낸 답을 겨룬다.",
+      "foot": "2026.11.18",
+      "_src": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
+      "_id": "zapata-forshor-quantum-verify",
+      "quote": "수학적으로 증명되지 않은\n결과는 믿을 수 없다",
+      "quote_by": "Peter Shor · MIT 교수"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.20",
+      "headline": "Claude와 함께 쓴\n리만 가설 증명",
+      "body": "1859년 제기된 가설. Alpöge가 Lean으로 짠 증명을 올렸고, 독립 연구자들이 검증했다고 전했다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "_id": "riemann-alpoge-claude-proof",
+      "video": "pipeline/media/riemann-alpoge-claude-proof.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.20",
+      "headline": "Navier-Stokes\n허점 봉합 주장",
+      "body": "9월 OpenAI 해법의 '휘젓는 힘' 허점을 막았다는 AI 보조 증명. 서둘러 내느라 인증서는 아직이다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
+      "_id": "navier-stokes-buckmaster-alpoge",
+      "stat_top": "9월 OpenAI 해법",
+      "stat_arrow": "허점을 메웠다는 새 증명",
+      "stat_bottom": "인증서는 곧",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

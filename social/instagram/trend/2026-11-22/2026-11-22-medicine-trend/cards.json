@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "AI 판독, 성적표를 다시 매긴다",
+    "date": "2026.11.22",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조: 딥노이드 기사 게재일을 원문대로 11.20→11.19로 고쳐 순서를 맞춤(의학신문 2026-11-19 17:07 KST). 76.5%→91.5%, 민감도 66.2%→92.6%, 100초→50초, 전문의 5명 확인. AuntMinnie 3건은 오늘 Cloudflare 차단이라 enrichment 단계가 원문에서 받아 둔 본문으로 154건·19건(12%), ReViewer·ReViz, 2,347명·80% 이상·대조군 62%를 확인. 사진은 딥노이드 한 장만, 나머지는 stat.",
+    "sources": [
+      "의학신문 — 딥노이드, 위·대장암 복막 전이 판별 AI 연구 'JKMS' 게재 (2026.11.19)",
+      "AuntMinnie — How often do AI alerts meaningfully impact patient care? (2026.11.20)",
+      "AuntMinnie — RevealDx launches lung nodule viewer, AI monitoring dashboard (2026.11.21)",
+      "AuntMinnie — Will AI affect radiology malpractice cases? (2026.11.22)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.19~11.22",
+      "thread": [
+        {
+          "d": "11.19",
+          "t": "판독 보조",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.20",
+          "t": "경보 12%",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.21",
+          "t": "성능 감시",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.22",
+          "t": "과실 책임",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "AI 판독 보조, 이제 정확도보다 실제 효과와 책임을 따진다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "AI 판독, 성적표를\n다시 매긴다",
+      "body": "한 건만 보면 정확도 기사다. 나흘을 이어 보면 질문이 바뀐다. 진료를 바꿨나, 누가 지켜보나, 틀리면 누구 탓인가.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.19",
+      "headline": "AI 보조로\n판독 정확도 91.5%",
+      "body": "병리 전문의 5명이 복수 세포검사를 AI와 함께 읽자 정확도 76.5%→91.5%, 슬라이드당 시간은 약 100초→50초.",
+      "foot": "2026.11.19",
+      "_src": "https://www.bosa.co.kr/news/articleView.html?idxno=3016882",
+      "_id": "deepnoid-peritoneal-metastasis-ai",
+      "media": "pipeline/media/deepnoid-peritoneal-metastasis-ai.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.20",
+      "headline": "경보 154건,\n진료 바꾼 건 19건",
+      "body": "한 해 동안 상용 영상 AI 경보를 따져 보니 대부분 진료를 못 바꿨다. 그래도 경보마다 확인 업무는 따라붙었다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care",
+      "_id": "uhcleveland-ai-alerts-impact",
+      "stat_top": "AI 경보 154건",
+      "stat_arrow": "진료 방침을 바꾼 것",
+      "stat_bottom": "19건 · 12%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.21",
+      "headline": "AI 성능,\n병원이 직접 추적",
+      "body": "RevealDx는 어느 PACS에서나 폐결절 AI를 돌리는 ReViewer와, AI 성능을 추적하는 대시보드 ReViz를 함께 냈다.",
+      "foot": "2026.11.21",
+      "_src": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542141/revealdx-revealdx-launches-lung-nodule-viewer-ai-monitoring-dashboard",
+      "_id": "revealdx-reviewer-lung-nodule",
+      "stat_top": "판독 뷰어 ReViewer",
+      "stat_arrow": "함께 내놓은 것",
+      "stat_bottom": "성능 감시 ReViz",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.22",
+      "headline": "틀린 AI 따르면\n배심원은 의사 탓",
+      "body": "미국 성인 2,347명 모의 배심. 맞게 본 판독을 AI 따라 바꿨다 놓치면 80% 넘게 의사를 탓했다. AI 없을 땐 62%.",
+      "foot": "2026.11.22",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases",
+      "_id": "rsna-ai-malpractice-jury",
+      "stat_top": "AI 없을 때 62%",
+      "stat_arrow": "맞는 판독을 AI 따라 바꾸면",
+      "stat_bottom": "80% 넘게",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
