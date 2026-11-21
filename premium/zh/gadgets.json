@@ -12428,6 +12428,129 @@
           "x": "OpenAI对其智能手机计划一直保持沉默，但正与前Apple设计主管Jony Ive创立的公司io合作开发AI-first硬件。打入市场并不容易：Google已借Android全力押注AI，Apple也凭借Siri AI步入正轨。OpenAI不太可能打造自己的操作系统。"
         }
       ]
+    },
+    "gadgets/beambox-polly-phone-pet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+          "cap": "Beambox的Polly数字宠物可磁吸在智能手机上，配备360 × 360像素触摸屏。"
+        },
+        {
+          "t": "p",
+          "x": "拓麻歌子找到了一个意想不到的新住址：智能手机背面。一款名为Polly的小型数字宠物已在日本推出，把喂食、玩耍和养育虚拟生物这些熟悉的事情，搬到了一个随手机携带的磁吸小设备上。"
+        },
+        {
+          "t": "p",
+          "x": "预购于11月20日在Makuake开启，起价¥10,999，比计划零售价¥15,713低30%，预计2027年1月交付。"
+        },
+        {
+          "t": "p",
+          "x": "Polly从一颗种子开始，根据照料方式成长为不同角色。长时间疏于照顾，它可能生病甚至死亡。Polly进入第二个成长阶段后，即可使用AI对话和虚拟旅行功能。这些功能需要Wi-Fi和配套应用，但基础活动可离线进行。"
+        },
+        {
+          "t": "p",
+          "x": "这款61 × 61 × 11.5 mm的设备重40.8 g，可吸附在MagSafe-compatible iPhones上；Android用户则需要合适的磁吸手机壳或指环。Beambox称，按每天仅六次互动计算，电池续航约三天。"
+        },
+        {
+          "t": "video",
+          "yt": "2Ayn-O0dJWE"
+        },
+        {
+          "t": "p",
+          "x": "Beambox官网上Polly的标价为$69.80，支持英语、中文和日语。"
+        }
+      ]
+    },
+    "gadgets/snes-superfx-chatgpt-client": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+          "cap": "SNES版ChatGPT（图片来源：Benj Edwards）"
+        },
+        {
+          "t": "p",
+          "x": "任天堂经典主机SNES如今有了自己的ChatGPT聊天机器人。由于平台年代久远、资源有限，这个（小型）语言模型是由OpenAI的GPT-OSS-120b蒸馏而来的220万（2.2-million）参数模型。复古计算博主Benj Edwards借助“Super NES最强的GPU——Super FX 2芯片”提升了聊天机器人的响应速度。"
+        },
+        {
+          "t": "p",
+          "x": "Edwards在一个嵌入了SNES9x模拟器的浏览器页面中提供试用：可以选择4MB模型，或选择19MB模型，后者将150,000篇Simple English Wikipedia文章的开头句子整合进知识库（存储在卡带的MSU-1数据文件中）。"
+        },
+        {
+          "t": "p",
+          "x": "它除了满足好奇心之外用处非常有限——Edwards解释说：“这个模型比ChatGPT背后的模型小数百万倍。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+          "cap": "运行中的SNES版ChatGPT（图片来源：Future）"
+        },
+        {
+          "t": "p",
+          "x": "随《Yoshi's Island》首次亮相的Super FX 2协处理器内置一颗21.47 MHz的RISC CPU，而SNES主CPU是一颗运行频率为2.68 MHz的16位Ricoh 5A22。借助支持Super FX（Wikipedia版本还需支持MSU-1）的烧录卡，该应用也能在真实的SNES上运行。"
+        }
+      ]
+    },
+    "gadgets/hyundai-elantra-gleo-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+          "cap": "新款Elantra Hybrid可能比标准版晚几个月上市，但应该值得等待。Hyundai"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai在LA车展上发布了全新2027款Elantra轿车和2028款Elantra Hybrid。注重经济性的购车者会对这款紧凑型混动轿车53 mpg的目标油耗感兴趣，也会关注Gleo——Hyundai全新的AI语音助手，用于控制其全新的Android Automotive OS-based仪表台技术。"
+        },
+        {
+          "t": "p",
+          "x": "这款混动车型将1.6升四缸发动机与6速双离合变速箱搭配，输出155马力，升级后的能量回收制动现在可提供“EV-like的单踏板驾驶体验”。新的Stay模式可在停车时让空调和信息娱乐系统运行最多30分钟。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+          "cap": "新的仪表台设计把仪表盘推离驾驶者，移向前挡风玻璃。Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Pleos Connect是Hyundai的Android Automotive OS-based信息娱乐套件，搭载于12.9英寸中央显示屏。与之配套的Gleo AI让驾驶者和乘客可以与汽车对话；Hyundai表示，它具备“情境语言支持、多指令能力和分区识别”，因此汽车能知道是谁在说话、坐在哪个座位。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+          "cap": "Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai尚未公布价格；CNET预计2027款Elantra将于2027年初推出，2028款Elantra Hybrid则于2027年底跟进。"
+        }
+      ]
+    },
+    "gadgets/google-assistant-nest-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+          "cap": "摄影：Dan Seifert / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Google宣布对其智能家居软件进行多项重大调整。从明年起，公司将关闭Nest应用、改用Google Home应用，并在智能家居设备上停用Google Assistant。"
+        },
+        {
+          "t": "p",
+          "x": "Nest应用将于2027年1月25日关闭，届时用户需要改用Google Home应用管理Nest产品，包括Nest温控器、摄像头和Nest Protect报警器。如果已设置好Google Home应用，Google会在1月25日当天把Nest设备（包括摄像头和视频历史）迁移到Home应用中。公司还会将Nest Aware（第1代）订阅自动转为Google Home Premium。Google表示将从2027年3月25日开始删除Nest账户数据。"
+        },
+        {
+          "t": "p",
+          "x": "Google Assistant的变化会稍晚到来：公司表示，2027年8月2日，Gemini for Home语音助手将在智能音箱和智能显示屏上取代Google Assistant。Google认为，Gemini for Home让用户可以提出更复杂的问题，并以自然的方式说话，而无需使用专门指令或特定说法。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home于去年发布，因此Google在智能家居领域告别Google Assistant并不令人意外（何况公司今年早些时候已在手机上停用了Google Assistant）。公司表示，计划在2027年8月过渡之前分享更多相关信息。"
+        }
+      ]
     }
   }
 }

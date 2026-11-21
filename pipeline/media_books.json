@@ -1,7 +1,30 @@
-{"date":"2026-11-21","section":"books","media":[
-{"id":"pangram-doj-detector","type":"image","src":"pipeline/media/pangram-doj-detector.png"},
-{"id":"ganjoor-claude-poetry","type":"image","src":"pipeline/media/ganjoor-claude-poetry.jpg"},
-{"id":"wotc-anthropic-payout","type":"image","src":"pipeline/media/wotc-anthropic-payout.jpg"},
-{"id":"beeflix-movingtoon-ai","type":"image","src":"pipeline/media/beeflix-movingtoon-ai.png"},
-{"id":"cambridge-human-woty","type":"image","src":"pipeline/media/cambridge-human-woty.jpg"}
-]}
+{
+  "date": "2026-11-22",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-tor-crown-cover",
+      "type": "image",
+      "src": "pipeline/media/books-tor-crown-cover.jpg"
+    },
+    {
+      "id": "books-carlson-selfhelp-suit",
+      "type": "svg"
+    },
+    {
+      "id": "books-not-ais-to-take",
+      "type": "image",
+      "src": "pipeline/media/books-not-ais-to-take.png"
+    },
+    {
+      "id": "books-namoo-memoir-app",
+      "type": "image",
+      "src": "pipeline/media/books-namoo-memoir-app.jpg"
+    },
+    {
+      "id": "books-guardian-wild-west",
+      "type": "image",
+      "src": "pipeline/media/books-guardian-wild-west.jpg"
+    }
+  ]
+}

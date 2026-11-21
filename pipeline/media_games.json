@@ -1,7 +1,34 @@
-{"date":"2026-11-21","section":"games","media":[
-{"id":"roblox-free-porting-program","type":"image","src":"pipeline/media/roblox-free-porting-program.jpg"},
-{"id":"shiftup-bloodrain-handmade","type":"image","src":"pipeline/media/shiftup-bloodrain-handmade.jpg"},
-{"id":"koeitecmo-ai-qa-gstar","type":"svg"},
-{"id":"taketwo-exboss-toystory-ai","type":"image","src":"pipeline/media/taketwo-exboss-toystory-ai.jpg"},
-{"id":"songyee-yoon-ai-native-gbn","type":"image","src":"pipeline/media/songyee-yoon-ai-native-gbn.jpg"}
-]}
+{
+  "date": "2026-11-22",
+  "section": "games",
+  "media": [
+    {
+      "id": "epic-ue6-blueprint-ai-port",
+      "type": "image",
+      "src": "pipeline/media/epic-ue6-blueprint-ai-port.jpg"
+    },
+    {
+      "id": "unity-neural-unite-tokyo",
+      "type": "video",
+      "src": "pipeline/media/unity-neural-unite-tokyo.mp4",
+      "poster": "pipeline/media/unity-neural-unite-tokyo.jpg"
+    },
+    {
+      "id": "hoyoverse-petit-planet-npc",
+      "type": "video",
+      "src": "pipeline/media/hoyoverse-petit-planet-npc.mp4",
+      "poster": "pipeline/media/hoyoverse-petit-planet-npc.jpg"
+    },
+    {
+      "id": "romero-design-ai-trash",
+      "type": "image",
+      "src": "pipeline/media/romero-design-ai-trash.jpg"
+    },
+    {
+      "id": "tripo-ai-gstar-b2c",
+      "type": "video",
+      "src": "pipeline/media/tripo-ai-gstar-b2c.mp4",
+      "poster": "pipeline/media/tripo-ai-gstar-b2c.jpg"
+    }
+  ]
+}

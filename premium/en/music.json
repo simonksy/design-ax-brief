@@ -11865,6 +11865,142 @@
           "x": "The Australian Writers’ Guild, the Media, Entertainment and Arts Alliance, the Coalition and the Greens also rejected the idea. Greens senator Sarah Hanson-Young warned: “Australia will become known as the Cayman Islands for AI if we allow this loophole to happen.”"
         }
       ]
+    },
+    "music/mooer-future-flex-modeler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
+          "cap": "Mooer Future Flex amp modeler (Image credit: Mooer)"
+        },
+        {
+          "t": "p",
+          "x": "Mooer has taken a novel approach to the amp modeler concept with the Future Flex. Fundamentally, it offers 55 amp models, 69 effects, four footswitches, a built-in speaker, an AI tone assistant and NAM A2 compatibility, unlocking thousands more free-to-use tones. Add in a drum machine, looper, and a rounded 1.28” touchscreen at its center."
+        },
+        {
+          "t": "p",
+          "x": "Building off Mooer’s StemLab, the Future Flex is “built for players tired of cabling” by keeping everything in one box. A companion mobile app can configure just about everything it can do. Dual 2.2” Hi-Fi speakers pack 15-watts of stereo output, and there’s an XLR input with 48 volts of phantom power. There are 80 preset slots and 10 slots for third-party Impulse Responses; the battery runs up to six hours, and it weighs 1.2 kg."
+        },
+        {
+          "t": "p",
+          "x": "AI is a big feature here: the same stem separation tech found in the StemLab, as well as AI tone generation for curating a full effects chain from user-entered prompts. The NAM A2 integration gives access to thousands of next-gen amp models through the TONE3000 ecosystem."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
+          "cap": "Mooer Future Flex amp modeler (Image credit: Mooer)"
+        },
+        {
+          "t": "p",
+          "x": "The Mooer Future Flex is available now for £199 (an official US price is yet to be confirmed) in Snowfall White and Phantom Black finishes."
+        }
+      ]
+    },
+    "music/hive-ai-ticket-assistants": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Live-event marketing platform Hive has launched a suite of AI Marketing Assistants designed to help venues, promoters and festivals manage their marketing campaigns without expanding their teams. Announced November 18, the tools use existing ticketing information, event schedules and audience data to automatically prepare email and SMS campaigns, drawing on an organization's previous campaigns and brand preferences. Every campaign must be reviewed and approved before being sent."
+        },
+        {
+          "t": "p",
+          "x": "The initial rollout includes five assistants: Just Announced, Onsale, Newsletter, Countdown and Post Show. Campaigns appear in a centralized inbox where teams can edit, approve or reject them, and the system learns from that feedback."
+        },
+        {
+          "t": "p",
+          "x": "“Live-event marketers know their audiences and their shows. What they often need is more time to get the work done,” says Ian Roberts, CEO and Co-Founder of Hive."
+        },
+        {
+          "t": "p",
+          "x": "The assistants start at $50 per month for 5,000 credits, deducted only when campaigns are approved; a 30-day free trial includes 5,000 credits. Hive says its platform serves more than 1,500 venues, promoters and festivals and has helped customers generate over $1 billion in ticket sales."
+        }
+      ]
+    },
+    "music/kimhaon-ai-noah-sbs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
+          "cap": "SBS's 36th-anniversary special documentary 'My Stranger' airs Part 3, 'AI, You Who Resemble Me,' at 11:15 p.m. on the 22nd. (Photo: SBS)"
+        },
+        {
+          "t": "p",
+          "x": "Rapper Kim Ha-on and an artificial intelligence (AI) trained on him go head to head in a rap battle."
+        },
+        {
+          "t": "p",
+          "x": "SBS's 36th-anniversary special documentary 'My Stranger' airs Part 3, 'AI, You Who Resemble Me,' at 11:15 p.m. on the 22nd."
+        },
+        {
+          "t": "p",
+          "x": "The episode features 'Noah (NOAH)', an AI doppelganger trained on Kim Ha-on's voice, manner of speaking, music and records of his life. The name is his name, 'HAON', spelled backward. Noah lays down a challenge: \"I will catch up with Kim Ha-on within a week. And if possible, I will surpass him.\""
+        },
+        {
+          "t": "p",
+          "x": "Kim Ha-on suggests that Noah write lyrics on the theme of 'pain'. Noah finishes the lyrics in an instant, but Kim Ha-on questions how an AI that has never actually experienced pain can express emotion. \"You have to know pain before you can truly understand Kim Ha-on the human,\" he says."
+        },
+        {
+          "t": "p",
+          "x": "Noah then meets Kim Ha-on's family, shares his daily life and builds lyrics and raps of its own. On the final day, the two face off in a rap battle in front of an audience."
+        },
+        {
+          "t": "p",
+          "x": "Parts 1 and 2, aired earlier, told the stories of people who met an AI daughter and an AI friend. 'My Stranger' won the top prize at the Broadcasting Content Awards."
+        }
+      ]
+    },
+    "music/harmonic-circuit-chord-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+        },
+        {
+          "t": "p",
+          "x": "Mechanistic Interpretability (MI) seeks to decode neural network computations into human-understandable logic. A core methodology in MI is circuit discovery: identifying the information flow in sub-networks that drive specific model behaviors. While circuit discovery has matured within Natural Language Processing (NLP), the interpretable circuits in music models remain largely unexplored."
+        },
+        {
+          "t": "p",
+          "x": "In this work, we identify a music-functional circuit within two symbolic music generative models: ChatMusician and MuPT. The music function we consider is the prediction of the terminal tonic root in a classical harmonic progression pattern I … V → I. We use the Auto-Emergence algorithm to extract a principal sparse sub-network as the identified circuit. Validation via causal intervention confirms that this identified circuit is a primary driver of harmonic progression behaviors in the symbolic music models. To our knowledge, this represents the first systematic circuit-discovery study conducted within the music domain."
+        },
+        {
+          "t": "p",
+          "x": "Demo page: https://ukiyo23rui.github.io/auto-emergence-demo/"
+        }
+      ]
+    },
+    "music/eightmile-suno-amended": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
+          "cap": "Photo Credit: EJ Hersom"
+        },
+        {
+          "t": "p",
+          "x": "Suno is facing yet another expanded copyright infringement lawsuit – this time from Eminem publisher Eight Mile Style, which has joined Elvis Presley Enterprises, Reservoir, and others in bolstering its high-stakes claims."
+        },
+        {
+          "t": "p",
+          "x": "Eight Mile made the amended action official less than two weeks after initially suing the gen AI upstart. The plaintiff maintains that Suno scraped 269 Eminem works and used them to train its models, allegedly violating the DMCA in the process, then allowed subscribers to generate unauthorized derivative outputs, a number of which allegedly mimicked Slim Shady’s voice."
+        },
+        {
+          "t": "p",
+          "x": "Eight Mile is pushing for a cumulative $47.8 million in statutory damages on the infringement and DMCA sides. The allegedly infringed works count and the sought damages are the same across both versions of the suit."
+        },
+        {
+          "t": "p",
+          "x": "What’s new: the plaintiff “added a multitude of additional examples…including 108 further examples of additional infringing output of twenty-six of” the relevant works, compiled in a public Vimeo folder – among them a DJ’s take on “Without Me,” a “heavy alternative rock” version of “The Real Slim Shady” and a “jazz” spin on “Lose Yourself.”"
+        },
+        {
+          "t": "p",
+          "x": "Bright Data, earlier named in Gerencia 360 v. Suno and Round Hill v. Suno for allegedly supplying scraped training files, was quickly dropped and isn’t a defendant in subsequent complaints."
+        }
+      ]
     }
   }
 }

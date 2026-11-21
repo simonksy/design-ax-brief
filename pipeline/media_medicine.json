@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "medicine",
   "media": [
     {
-      "id": "smartwatch-hypertension-screen",
-      "type": "image",
-      "src": "pipeline/media/smartwatch-hypertension-screen.jpg"
-    },
-    {
-      "id": "npj-cloud-vs-local-llm-triage",
+      "id": "tabmbio-pancreatic-ct",
       "type": "svg"
     },
     {
-      "id": "jama-emotional-support-ai-cohort",
-      "type": "image",
-      "src": "pipeline/media/jama-emotional-support-ai-cohort.jpg"
-    },
-    {
-      "id": "revealdx-reviewer-lung-nodule",
+      "id": "rsna-ai-malpractice-jury",
       "type": "svg"
     },
     {
-      "id": "healthcaredive-shadow-ai-breaches",
+      "id": "athlete-ecg-foundation-models",
       "type": "image",
-      "src": "pipeline/media/healthcaredive-shadow-ai-breaches.jpg"
+      "src": "pipeline/media/athlete-ecg-foundation-models.png"
+    },
+    {
+      "id": "prehospital-thrombectomy-xai",
+      "type": "image",
+      "src": "pipeline/media/prehospital-thrombectomy-xai.png"
+    },
+    {
+      "id": "uk-dhsc-social-care-ai-guidance",
+      "type": "image",
+      "src": "pipeline/media/uk-dhsc-social-care-ai-guidance.jpg"
     }
   ]
 }

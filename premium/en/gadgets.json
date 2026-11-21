@@ -13172,6 +13172,129 @@
           "x": "OpenAI has remained mum on its smartphone plans, but it is developing AI-first hardware with io, the company started by former Apple design chief Jony Ive. Breaking into the market won't be easy: Google has gone all in on AI with Android, and Apple has hit its stride with Siri AI. It's unlikely OpenAI will build its own operating system."
         }
       ]
+    },
+    "gadgets/beambox-polly-phone-pet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+          "cap": "Beambox's Polly digital pet attaches magnetically to a smartphone and features a 360 × 360-pixel touchscreen."
+        },
+        {
+          "t": "p",
+          "x": "The Tamagotchi has found an unlikely new address: the back of your smartphone. A tiny digital pet called Polly has launched in Japan, bringing the familiar business of feeding, playing with and raising a virtual creature to a magnetic gadget that travels with your phone."
+        },
+        {
+          "t": "p",
+          "x": "Pre-orders opened on Makuake on 20 November, starting at ¥10,999, which is 30% below the planned retail price of ¥15,713, with deliveries planned for January 2027."
+        },
+        {
+          "t": "p",
+          "x": "Polly starts life as a seed, growing into different characters depending on how it's cared for. Neglect it for too long and it can fall ill and even die. Once Polly reaches its second development stage, AI conversations and virtual travel become available. Those features require Wi-Fi and the companion app, though basic activities work offline."
+        },
+        {
+          "t": "p",
+          "x": "The 61 × 61 × 11.5 mm gadget weighs 40.8 g and attaches to MagSafe-compatible iPhones; Android users need a suitable magnetic case or ring. Beambox claims approximately three days of battery life, based on just six daily interactions."
+        },
+        {
+          "t": "video",
+          "yt": "2Ayn-O0dJWE"
+        },
+        {
+          "t": "p",
+          "x": "Beambox's own website lists Polly for $69.80, with support for English, Chinese and Japanese."
+        }
+      ]
+    },
+    "gadgets/snes-superfx-chatgpt-client": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+          "cap": "ChatGPT for SNES (Image credit: Benj Edwards)"
+        },
+        {
+          "t": "p",
+          "x": "Nintendo's classic SNES console now has its own ChatGPT chatbot. Due to the platform's age and limited resources, the (small) language model is a 2.2-million-parameter distillation of OpenAI's GPT-OSS-120b. Vintage Computing blogger Benj Edwards accelerated the chatbot's responsiveness using “the Super NES's best GPU, the Super FX 2 chip.”"
+        },
+        {
+          "t": "p",
+          "x": "You can try it in a browser page where Edwards has embedded the SNES9x emulator: choose the 4MB model, or a 19MB one with the opening sentences of 150,000 Simple English Wikipedia articles integrated into the knowledge base (stored in the cartridge's MSU-1 data file)."
+        },
+        {
+          "t": "p",
+          "x": "Its usefulness beyond curiosity value is very limited — Edwards explains that “the model is millions of times smaller than the models behind ChatGPT.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+          "cap": "ChatGPT for SNES in action (Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "The Super FX 2 coprocessor, which debuted with Yoshi's Island, contains a 21.47 MHz RISC CPU, versus the SNES main CPU, a 16-bit Ricoh 5A22 running at 2.68 MHz. The app can also run on a real SNES with a flash cart that supports Super FX (and MSU-1 for the Wikipedia build)."
+        }
+      ]
+    },
+    "gadgets/hyundai-elantra-gleo-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+          "cap": "The updated Elantra Hybrid may arrive a few months after the standard spec, but it should be worth the wait. Hyundai"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai pulled back the cover on the new 2027 Elantra sedan and 2028 Elantra Hybrid at the LA Auto Show. Economy car shoppers will be interested in the compact hybrid sedan's targeted 53 mpg and Gleo, Hyundai's new AI voice assistant that controls the automaker's new Android Automotive OS-based dashboard tech."
+        },
+        {
+          "t": "p",
+          "x": "The hybrid pairs a 1.6-liter four-cylinder engine with a 6-speed dual-clutch gearbox for 155 horsepower, and its updated regenerative braking now offers an “EV-like one-pedal driving experience.” A new Stay mode runs climate and infotainment while parked for up to 30 minutes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+          "cap": "The new dashboard design pushes the instrument cluster away from the driver and toward the windshield. Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Pleos Connect, Hyundai's Android Automotive OS-based infotainment suite, lives on a 12.9-inch center display. It is matched with Gleo AI, which lets drivers and passengers talk to the car; Hyundai says it features “contextual language support, multi-command capability and zone-specific recognition,” so the car knows who's talking and which seat they're in."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+          "cap": "Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai did not announce pricing; CNET expects the 2027 Elantra in early 2027, with the 2028 Elantra Hybrid following in late 2027."
+        }
+      ]
+    },
+    "gadgets/google-assistant-nest-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+          "cap": "Photo by Dan Seifert / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices."
+        },
+        {
+          "t": "p",
+          "x": "The Nest app shutdown takes place on January 25th, 2027, meaning you’ll have to manage your Nest products, including Nest thermostats, cameras, and Nest Protect alarms, from the Google Home app instead. If you get the Google Home app set up, Google will move over your Nest devices, including cameras and video history, to the Home app on that January 25th date. The company will also automatically transfer Nest Aware (1st Gen) subscriptions to Google Home Premium. Google says it will begin deleting Nest account data on March 25th, 2027."
+        },
+        {
+          "t": "p",
+          "x": "The changes for Google Assistant will take place later: On August 2nd, 2027, the Gemini for Home voice assistant will replace Google Assistant on smart speakers and smart displays, the company says. Google argues that Gemini for Home allows users to ask more complex questions and speak naturally instead of needing to use dedicated commands or specific language."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home was announced last year, so it’s not exactly a shock that Google is going to move on from Google Assistant in the smart home (especially when the company also killed Google Assistant on phones earlier this year). The company says it plans to share more updates about the changes ahead of the August 2027 transition."
+        }
+      ]
     }
   }
 }

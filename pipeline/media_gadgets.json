@@ -1,31 +1,27 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "gadgets",
   "media": [
     {
-      "id": "google-assistant-nest-shutdown",
+      "id": "rayneo-io-lifelog-glasses",
       "type": "image",
-      "src": "pipeline/media/google-assistant-nest-shutdown.jpg"
+      "src": "pipeline/media/rayneo-io-lifelog-glasses.jpg"
     },
     {
-      "id": "nothing-ai-device-dec8-design",
-      "type": "image",
-      "src": "pipeline/media/nothing-ai-device-dec8-design.jpg"
+      "id": "beambox-polly-phone-pet",
+      "type": "video",
+      "src": "pipeline/media/beambox-polly-phone-pet.mp4",
+      "poster": "pipeline/media/beambox-polly-phone-pet.jpg"
     },
     {
-      "id": "rayban-meta-gen3-review",
+      "id": "snes-superfx-chatgpt-client",
       "type": "image",
-      "src": "pipeline/media/rayban-meta-gen3-review.jpg"
+      "src": "pipeline/media/snes-superfx-chatgpt-client.jpg"
     },
     {
-      "id": "phison-npu-ssd-sc26",
+      "id": "hyundai-elantra-gleo-ai",
       "type": "image",
-      "src": "pipeline/media/phison-npu-ssd-sc26.jpg"
-    },
-    {
-      "id": "insbotics-pophie-robot",
-      "type": "image",
-      "src": "pipeline/media/insbotics-pophie-robot.jpg"
+      "src": "pipeline/media/hyundai-elantra-gleo-ai.jpg"
     }
   ]
 }

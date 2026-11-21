@@ -1,50 +1,19 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-20T22:00:39Z",
+  "now_iso": "2026-11-21T22:01:02Z",
   "window_hours": 336,
+  "note": "Thin fresh AI-hardware news (Sunday, Black Friday week). Dropped on relevance (AI only in nav/sidebar or headline stands without AI): Xreal Aura reviews (Engadget/Tom's Guide), Alexa Tablet 8, Galaxy Buds On, SwitchBot S30/Hub 4, Lumix SHX1, Hidisc glasses, Dynabook Copilot+ laptops, Motorola Signature 27, Coway walking robot, VeriSilicon PR. Muse Charm appears twice (TechCrunch + ZDNet Korea) - dedup to one; it was covered in design 2026-09-27 (reveal) - this is new price/date news. Siri Recap (Verge) is on-wrist AI wearable hands-on but borders the Siri-software cap.",
   "items": [
     {
-      "title": "Ray-Ban Meta (Gen 3) review: Minor upgrades that cost too much",
-      "url": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
-      "source": "Engadget",
+      "title": "Meta's new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch",
       "category": "gadgets",
-      "published_iso": "2026-11-20T14:30:00+00:00",
-      "excerpt": "Meta's very best AI glasses are only slightly better than other recent models.",
-      "og_image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg",
+      "published_iso": "2026-11-19T21:58:06+00:00",
+      "excerpt": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
       "history_match": {
-        "score": 0.282,
-        "date": "2026-10-27",
-        "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
-        "title": "Ray-Ban Meta: How to stop your glasses from training AI",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Nothing's AI device debuts December 8, and it looks like two vapes stuck together",
-      "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T17:32:02+00:00",
-      "excerpt": "Thanks, Swedish House Mafia. I guess.",
-      "og_image": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg",
-      "history_match": {
-        "score": 0.179,
-        "date": "2026-11-05",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T20:22:17+00:00",
-      "excerpt": "The AI gadget may also come with a 12-month 5G data plan.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "history_match": {
-        "score": 0.332,
+        "score": 0.323,
         "date": "2026-11-14",
         "url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
         "title": "Your Wear OS watch can now run Meta’s Muse AI agent",
@@ -52,20 +21,83 @@
       }
     },
     {
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "source": "The Verge",
+      "title": "브리즘, '안경 본질'로 스마트 글라스 시장 공략…'25g' 인사이트 출시",
+      "url": "https://www.etnews.com/20261119000287",
+      "source": "전자신문",
       "category": "gadgets",
-      "published_iso": "2026-11-20T18:00:00+00:00",
-      "excerpt": "From Google Assistant to Gemini.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+      "published_iso": "2026-11-19T14:19:09+09:00",
+      "excerpt": "안경 브랜드 브리즘이 자체 개발한 오디오 스마트 글라스 '인사이트(in*sight)'를 앞세워 스마트 글라스 시장에 진출한다. 카메라와 디스플레이 등 기능을 한꺼번에 넣기보다 무게와 착용감, 시력 교정 등 '안경의 기본기'를 우선했다. 약 12만명의 고객 얼굴 데이터와 3D 맞춤 제작 기술을 강점으로 시장 저변을 넓힌 뒤, 마이크 특화 모델과 착탈식 카메라 등으로 제품군을 확대할 방침이다. 박형진 브리즘 대표는 19일 서울 성동구 브리즘 파운드",
+      "og_image": "https://img.etnews.com/news/article/2026/11/19/news-p.v1.20261119.892907be64dd4312b3ef727fa46bfc6a_P1.png"
+    },
+    {
+      "title": "Apple Reportedly Finalizes Smart Glasses Hardware, Puts Siri at Strategic Center",
+      "url": "https://roadtovr.com/apple-finalizes-smart-glasses-siri-support-report/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-11-17T13:25:27+00:00",
+      "excerpt": "Apple’s reported smart glasses, codenamed ‘N50’, are expected to be unveiled at the company’s Worldwide Developers Conference (WWDC) next June. Now, a fresh report from Bloomberg’s Mark Gurman maintains that much of the hardware is finalized, and Apple is putting Siri at the heart of its software ecosystem. The News Gurman reported earlier this summer […]",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2023/05/apple-wwdc-2023.jpg"
+    },
+    {
+      "title": "RayNeo IO Review: Just so You Know, My Smart Glasses Are Listening",
+      "url": "https://gizmodo.com/rayneo-io-smart-glasses-review-2000829940",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T17:30:00Z",
+      "excerpt": "Gizmodo reviews the $499 camera-free RayNeo IO smart glasses: AI live translation and a teleprompter are useful, but the optional Lifelog feature that listens all day and keeps text transcripts feels too invasive.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg"
+    },
+    {
+      "title": "The Alexa Tablet 12 Pro knocked the Kindle Fire-shaped chip from my shoulder, but unless you really like Amazon services, I’m not sure who it’s for",
+      "url": "https://www.techradar.com/alexa-tablet-12-pro-review",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T12:49:19Z",
+      "excerpt": "Amazon surprised even its skeptics when it announced its first Android tablet, but does the Alexa Tablet 12 Pro stand up against its competition?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Atnwbm9HkajevHPu579TxH-1280-80.jpg",
       "history_match": {
-        "score": 0.197,
-        "date": "2026-10-29",
-        "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-        "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+        "score": 0.361,
+        "date": "2026-11-09",
+        "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
+        "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
         "band": "related"
       }
+    },
+    {
+      "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
+      "url": "https://www.engadget.com/2321939/apple-homepod-mini-2-review/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-19T17:30:00+00:00",
+      "excerpt": "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works.",
+      "og_image": "https://www.engadget.com/img/gallery/apple-homepod-mini-2-review-a-necessary-but-underwhelming-update/l-intro-1795105229.jpg"
+    },
+    {
+      "title": "New Hyundai Elantra Hybrid Debuts With 53 Mpg, AI in the Dash",
+      "url": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T06:00:11-05:00",
+      "excerpt": "The redesigned compact sedan features Hyundai’s new AI voice assistant, Gleo AI, and an updated regenerative braking system with EV-like one-pedal driving.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg"
+    },
+    {
+      "title": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T15:02:17Z",
+      "excerpt": "Nintendo’s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7-1920-80.jpg"
+    },
+    {
+      "title": "Tamagotchi-style digital pet turns the back of your smartphone into its new home",
+      "url": "https://www.notebookcheck.net/Tamagotchi-style-digital-pet-turns-the-back-of-your-smartphone-into-its-new-home.1455500.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T19:19:00+01:00",
+      "excerpt": "A Tamagotchi-style digital pet has found a new home on the back of your smartphone. Beambox's Polly combines magnetic attachment, a touchscreen and AI chat, with Japanese crowdfunding prices starting at ¥10,999 and deliveries planned for January 2027.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/beambox-polly-digital-pet-202674.jpg"
     },
     {
       "title": "I let Apple’s always-listening AI summarize my life for two weeks",
@@ -75,149 +107,20 @@
       "published_iso": "2026-11-19T13:00:00+00:00",
       "excerpt": "I’m left asking myself: was it worth it?",
       "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "InsBotics’ Pophie AI Robot Remembers Your Family and Speaks First",
-      "url": "https://the-gadgeteer.com/2026/11/20/insbotics-pophie-ai-companion-robot/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T12:00:00-06:00",
-      "excerpt": "Meet Pophie, an AI companion robot from InsBotics designed to remember your family and start conversations without waiting for you to speak.",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
-    },
-    {
-      "title": "From SunLED to smart glasses: Dr Anne Berends’ next step in near-infrared light",
-      "url": "https://the-gadgeteer.com/2026/11/20/ai-glasses-near-infrared-light-eye-health-eyeon-focus/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T07:01:56-06:00",
-      "excerpt": "Eyeon Focus puts near-infrared LEDs inside AI glasses, shining invisible light into wearers' eyes all day. The Dutch proof of concept calls the frame an",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/eyeon-focus-hero-ces2027-tight2.jpg"
-    },
-    {
-      "title": "What's OSTA, Huawei's new phone brand?",
-      "url": "https://the-gadgeteer.com/2026/11/17/what-is-osta-huawei-new-phone-brand/",
-      "source": "The Gadgeteer",
-      "category": "gadgets",
-      "published_iso": "2026-11-17T09:51:12-06:00",
-      "excerpt": "OSTA is a new Huawei phone brand, built around AI software and aimed at younger buyers, with a wide-screen first phone called the O1 Pro. In China it's called",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/osta-o1-pro-hero.jpg"
-    },
-    {
-      "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
-      "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T14:00:00Z",
-      "excerpt": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
-    },
-    {
-      "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T10:30:00Z",
-      "excerpt": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1033-80.png"
-    },
-    {
-      "title": "South Korea busts 54 students cheating on national college admission exam by deploying emergency disaster alert during test — AI, micro cameras, and phones drive cheating epidemic that forced government crackdown",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T21:00:00Z",
-      "excerpt": "The South Korean government used extra measures to prevent cheating in its national college admission exams, due to a confession from a tax accountant exam top scorer admitting to AI-assisted cheating days before the CSAT.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/bjpdQwBbxRAym237ixtkPo-2034-80.jpg"
-    },
-    {
-      "title": "AMD and Intel, move over: AI designed an all-new CPU — and claims it is 4.6x more efficient",
-      "url": "https://www.notebookcheck.net/AMD-and-Intel-move-over-AI-designed-an-all-new-CPU-and-claims-it-is-4-6x-more-efficient.1455225.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T13:08:00+01:00",
-      "excerpt": "AI startup Architect Labs claims its experimental Frostbite CPU architecture delivers 4.59x better performance per watt and 8.77x higher performance per unit of area than a conventional processor core. Designed from scratch using AI, Frostbite takes a radically different approach to computing, altho",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/frostbite.jpg"
-    },
-    {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T14:00:00+00:00",
-      "excerpt": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
-    },
-    {
-      "title": "The Xreal Aura are an impressive first step for Android XR glasses",
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-11-17T14:00:00Z",
-      "excerpt": "The Xreal Aura are the first glasses-grade Android XR integration, and while you probably won't wear them about town, you might use them at home, in the office, and on the plane.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/h2W8SAeDzeCcYosxEJchUf-1920-80.jpg",
-      "history_match": {
-        "score": 0.494,
-        "date": "2026-10-29",
-        "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
-        "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Review: Amazon's Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what's not to love?",
-      "url": "https://9to5google.com/2026/11/18/amazon-alexa-tablet-8-review/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-11-18T21:00:00+00:00",
-      "excerpt": "Amazon shocked everyone in October when it launched its new Alexa Tablet series with Google Play support built-in, addressing the...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-alexa-tablet-8-1_420fa9.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.482,
-        "date": "2026-11-09",
-        "url": "https://the-gadgeteer.com/2026/11/08/amazons-alexa-tablet-12-pro-ditches-fire-os-for-real-android-at-499-99/",
-        "title": "Amazon’s Alexa Tablet 12 Pro ditches Fire OS for real Android",
-        "band": "likely-repeat"
-      }
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 15,
+    "kept": 10,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
+    "review": 2,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-22",
-      "title": "GM is giving OnStar an AI makeover",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Philips Hue Bridge Pro custom AI behaviors launch next week",
-      "url": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "The Timekettle LiveTalk earbuds can play audio, translate, and help you learn a language",
-      "url": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "SpeakON introduces magnetic iPhone button with AI-powered voice actions",
-      "url": "https://www.notebookcheck.net/SpeakON-introduces-magnetic-iPhone-button-with-AI-powered-voice-actions.1429977.0.html"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Unitree reveals H2-X humanoid bodyguard robot — 'Kung Fu Legend Guardian' packs 8-hour battery and martial arts defense skills",
-      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills"
-    },
     {
       "date": "2026-10-23",
       "title": "The Mori Is a Mushroom-Shaped AI Lamp Companion, and I'm Smitten",
@@ -892,6 +795,31 @@
       "date": "2026-11-20",
       "title": "Successor to well-reviewed Switchbot AI Art Frame unveiled with upgraded features for art and photo lovers",
       "url": "https://www.notebookcheck.net/Successor-to-well-reviewed-Switchbot-AI-Art-Frame-unveiled-with-upgraded-features-for-art-and-photo-lovers.1452825.0.html"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "InsBotics' Pophie AI Robot Remembers Your Family and Speaks First",
+      "url": "https://the-gadgeteer.com/2026/11/20/insbotics-pophie-ai-companion-robot/"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Ray-Ban Meta (Gen 3) review: Minor upgrades that cost too much",
+      "url": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Nothing's AI device debuts December 8, and it looks like two vapes stuck together",
+      "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Google says it's going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+      "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller"
     }
   ]
 }

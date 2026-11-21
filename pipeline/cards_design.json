@@ -1,1103 +1,17 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "design",
   "cards": [
     {
-      "id": "nngroup-synthesized-data",
+      "id": "figma-specs-agent-plan",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "종합 리서치 받은 AI가\n더 잘 디자인한다",
-      "body": "NN/g 실험에서 AI는 원본 댓글보다 종합 권고를 받았을 때 더 잘 설계했다.",
-      "mini_headline": "AI에게는 종합 리서치를",
-      "tool": "Design Tokens",
-      "source": "Nielsen Norman Group",
-      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-          },
-          {
-            "t": "p",
-            "x": "이번 연구에서는 AI에게 원본 사용자 댓글만 줬을 때보다 종합한 결과와 권고를 줬을 때 AI-generated(AI 생성) 디자인이 더 좋았다."
-          },
-          {
-            "t": "p",
-            "x": "NN/g는 AI 모델에 디자인 과제 두 개를 맡겼다. 취소된 항공편을 다시 예약하는 한 페이지짜리 양식과 온라인 상점의 여러 단계 결제 흐름이다. 프롬프트와 디자인 시스템 정보는 그대로 두고 리서치 맥락만 바꿨다. 과제마다 원본 사용자 댓글 약 100개를 주거나, 이 댓글로 종합한 결과와 권고를 줬다. 과제·조건별로 디자인 8개를 만들었고 사람 평가자와 LLM 심사자가 미리 정한 채점표로 각각 블라인드 채점했다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-            "cap": "종합된 결과와 권고로 만든 디자인은 채점표 기준을 평균 77.9% 충족했다. 원본 사용자 댓글로 만든 디자인은 69.5%였다(p < 0.001)."
-          },
-          {
-            "t": "p",
-            "x": "개선 폭은 항공편 재예약 과제에서 더 컸다(11.4퍼센트포인트, 결제 흐름은 5.5). 원본 댓글 일부가 로열티 마일리지 문제를 지적했지만 원본 댓글로 만든 디자인 중 이를 다룬 것은 하나도 없었다. 종합된 리서치로 만든 디자인은 모두 이를 반영했다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-            "cap": "원본 데이터만 받은 AI 도구는 무엇을 만들지 추측해야 한다. 종합된 결과와 권고가 있으면 팀이 이미 내린 결정에 따라 만든다."
-          },
-          {
-            "t": "p",
-            "x": "이제 리서치 산출물을 읽는 쪽은 둘이다. 팀원과, 디자인 과정에 쓰이는 AI 도구다. UX-context design(UX 맥락 설계)은 AI-generated 디자인을 이끌 UX 지식을 고르고 정리하고 유지하는 일이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI designs better from\nsynthesized research",
-          "body": "In NN/g tests, AI made better interfaces when fed synthesized findings and recommendations, not raw user comments.",
-          "mini_headline": "Feed AI synthesized research",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone."
-              },
-              {
-                "t": "p",
-                "x": "NN/g gave an AI model two design tasks — a one-page form for rebooking a canceled flight and a multistep checkout flow for an online store — keeping the prompt and design-system information the same while changing the research context: about 100 raw user comments per task, or synthesized findings and recommendations based on the same comments. It generated 8 designs per task and condition; a human grader and an LLM judge blindly scored each against a predefined scorecard."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "Designs generated from synthesized findings and recommendations met 77.9% of scorecard criteria on average, compared with 69.5% for designs generated from raw user comments (p < 0.001)."
-              },
-              {
-                "t": "p",
-                "x": "The improvement was larger for the flight-rebooking task (11.4 percentage points, versus 5.5 for the checkout flow). A few raw comments complained about loyalty miles, yet none of the raw-comment designs addressed them; every design from synthesized research did."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "With raw data alone, the AI tool has to guess what to build. With synthesized findings and recommendations, it builds on decisions your team has already made."
-              },
-              {
-                "t": "p",
-                "x": "Research artifacts now have two audiences: your teammates and the AI tools used in the design process. UX-context design is the practice of selecting, organizing, and maintaining the UX knowledge that guides AI-generated design."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "종합 리서치 받은 AI가\n더 잘 디자인한다",
-          "body": "NN/g 실험에서 AI는 원본 댓글보다 종합 권고를 받았을 때 더 잘 설계했다.",
-          "mini_headline": "AI에게는 종합 리서치를",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "이번 연구에서는 AI에게 원본 사용자 댓글만 줬을 때보다 종합한 결과와 권고를 줬을 때 AI-generated(AI 생성) 디자인이 더 좋았다."
-              },
-              {
-                "t": "p",
-                "x": "NN/g는 AI 모델에 디자인 과제 두 개를 맡겼다. 취소된 항공편을 다시 예약하는 한 페이지짜리 양식과 온라인 상점의 여러 단계 결제 흐름이다. 프롬프트와 디자인 시스템 정보는 그대로 두고 리서치 맥락만 바꿨다. 과제마다 원본 사용자 댓글 약 100개를 주거나, 이 댓글로 종합한 결과와 권고를 줬다. 과제·조건별로 디자인 8개를 만들었고 사람 평가자와 LLM 심사자가 미리 정한 채점표로 각각 블라인드 채점했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "종합된 결과와 권고로 만든 디자인은 채점표 기준을 평균 77.9% 충족했다. 원본 사용자 댓글로 만든 디자인은 69.5%였다(p < 0.001)."
-              },
-              {
-                "t": "p",
-                "x": "개선 폭은 항공편 재예약 과제에서 더 컸다(11.4퍼센트포인트, 결제 흐름은 5.5). 원본 댓글 일부가 로열티 마일리지 문제를 지적했지만 원본 댓글로 만든 디자인 중 이를 다룬 것은 하나도 없었다. 종합된 리서치로 만든 디자인은 모두 이를 반영했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "원본 데이터만 받은 AI 도구는 무엇을 만들지 추측해야 한다. 종합된 결과와 권고가 있으면 팀이 이미 내린 결정에 따라 만든다."
-              },
-              {
-                "t": "p",
-                "x": "이제 리서치 산출물을 읽는 쪽은 둘이다. 팀원과, 디자인 과정에 쓰이는 AI 도구다. UX-context design(UX 맥락 설계)은 AI-generated 디자인을 이끌 UX 지식을 고르고 정리하고 유지하는 일이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIは統合リサーチで\nより良く設計する",
-          "body": "NN/gの検証で、AIは生のコメントより統合された知見と提言を与えた方が良い画面を作った。",
-          "mini_headline": "AIには統合リサーチを渡す",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "今回の研究では、AI-generatedのデザイン(AI生成デザイン)は、AIが生のユーザーコメントだけを受け取った場合より、統合された知見と提言を受け取った場合のほうが優れていた。"
-              },
-              {
-                "t": "p",
-                "x": "NN/gはAIモデルに二つのデザイン課題を与えた。欠航した便を予約し直す単一ページのフォームと、オンラインストアの複数ステップの決済フローである。プロンプトとデザインシステムの情報は同じにしたまま、リサーチの文脈だけを変えた。課題ごとに約100件の生のユーザーコメントを与えるか、同じコメントに基づく統合された知見と提言を与えた。課題と条件ごとに8案を生成し、人間の評価者とLLMの審査役が、事前に定めた採点表に照らしてそれぞれをブラインドで採点した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "統合された知見と提言から生成したデザインは採点表の基準を平均77.9%満たし、生のユーザーコメントから生成したデザインは69.5%だった(p < 0.001)。"
-              },
-              {
-                "t": "p",
-                "x": "改善幅は便の再予約課題のほうが大きかった(11.4パーセントポイント、決済フローは5.5)。生のコメントの一部はマイレージ特典への不満を述べていたが、生のコメントから作ったデザインはどれもそれに対応しなかった。統合リサーチから作ったデザインはすべて対応した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "生データだけでは、AIツールは何を作るべきか推測するしかない。統合された知見と提言があれば、チームがすでに下した判断の上に構築できる。"
-              },
-              {
-                "t": "p",
-                "x": "リサーチの成果物には今や二つの読み手がいる。チームメイトと、デザインプロセスで使われるAIツールだ。UX-context design(UXコンテキスト設計)とは、AI-generatedのデザインを導くUXの知識を選び、整理し、維持する実践である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI用综合研究\n做出更好设计",
-          "body": "NN/g测试发现，向AI提供综合后的发现与建议而非原始用户评论，它做出的界面更好。",
-          "mini_headline": "给AI喂综合研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "在我们的研究中，当AI获得综合后的发现与建议，而不只是原始用户评论时，AI-generated设计（AI生成的设计）表现更好。"
-              },
-              {
-                "t": "p",
-                "x": "NN/g给一个AI模型布置了两项设计任务：一个用于改签已取消航班的单页表单，以及一个网店的多步骤结账流程。提示词和设计系统信息保持不变，只改变研究背景：每项任务提供约100条原始用户评论，或基于同一批评论得出的综合发现与建议。每项任务和条件各生成8个设计；一名人类评分者和一个LLM评审依据预先设定的评分表，对每个设计进行盲评。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "基于综合发现与建议生成的设计平均满足评分表77.9%的标准，基于原始用户评论生成的设计为69.5%（p < 0.001）。"
-              },
-              {
-                "t": "p",
-                "x": "航班改签任务的提升更大（11.4个百分点，结账流程为5.5个百分点）。少数原始评论抱怨了会员里程问题，但基于原始评论的设计无一处理；基于综合研究的设计则全部处理了。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "只有原始数据时，AI工具不得不猜测该做什么。有了综合发现与建议，它就能在团队已有决策的基础上构建。"
-              },
-              {
-                "t": "p",
-                "x": "研究成果如今有两类受众：你的团队成员，以及设计过程中使用的AI工具。UX-context design（UX情境设计）是指挑选、组织并维护用于指导AI-generated设计的UX知识的实践。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI diseña mejor con\ninvestigación sintetizada",
-          "body": "En pruebas de NN/g, la AI diseñó mejores interfaces con hallazgos sintetizados que con comentarios en bruto.",
-          "mini_headline": "Dar a la AI investigación sintetizada",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "En nuestro estudio, los diseños AI-generated (generados por AI) fueron mejores cuando la AI recibió hallazgos y recomendaciones sintetizados en lugar de solo comentarios de usuarios en bruto."
-              },
-              {
-                "t": "p",
-                "x": "NN/g asignó a un modelo de AI dos tareas de diseño —un formulario de una sola página para reprogramar un vuelo cancelado y un flujo de pago de varios pasos para una tienda en línea— y mantuvo iguales el prompt y la información del sistema de diseño, pero cambió el contexto de investigación: unos 100 comentarios de usuarios en bruto por tarea, o hallazgos y recomendaciones sintetizados a partir de esos mismos comentarios. Generó 8 diseños por tarea y condición; un evaluador humano y un juez LLM puntuaron cada uno a ciegas con una rúbrica predefinida."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "Los diseños generados a partir de hallazgos y recomendaciones sintetizados cumplieron en promedio el 77.9% de los criterios de la rúbrica, frente al 69.5% de los diseños generados a partir de comentarios de usuarios en bruto (p < 0.001)."
-              },
-              {
-                "t": "p",
-                "x": "La mejora fue mayor en la tarea de reprogramar el vuelo (11.4 puntos porcentuales, frente a 5.5 en el flujo de pago). Algunos comentarios en bruto se quejaban de las millas de fidelidad, pero ninguno de los diseños basados en ellos lo abordó; todos los diseños basados en investigación sintetizada sí lo hicieron."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "Solo con datos en bruto, la herramienta de AI tiene que adivinar qué construir. Con hallazgos y recomendaciones sintetizados, construye sobre decisiones que tu equipo ya tomó."
-              },
-              {
-                "t": "p",
-                "x": "Los materiales de investigación tienen ahora dos públicos: tus compañeros de equipo y las herramientas de AI que se usan en el proceso de diseño. El UX-context design (diseño de contexto UX) es la práctica de seleccionar, organizar y mantener el conocimiento de UX que guía el diseño AI-generated."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI는 종합된 리서치로\n더 잘 디자인한다",
-          "body": "NN/g 실험에서 AI는 원본 댓글보다 종합된 권고를 받을 때 더 잘 설계했다.",
-          "mini_headline": "AI에는 종합된 리서치를",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "이번 연구에서 AI-generated(AI 생성) 디자인은 AI가 원본 사용자 댓글만 받았을 때보다 종합된 결과와 권고를 받았을 때 더 나았다."
-              },
-              {
-                "t": "p",
-                "x": "NN/g는 AI 모델에 두 가지 디자인 과제를 줬다. 취소된 항공편을 다시 예약하는 한 페이지 양식과 온라인 상점의 여러 단계 결제 흐름이다. 프롬프트와 디자인 시스템 정보는 같게 두고 리서치 맥락만 바꿨다. 과제마다 원본 사용자 댓글 약 100개를 주거나, 같은 댓글을 바탕으로 종합한 결과와 권고를 줬다. 과제와 조건마다 디자인 8개를 생성했고, 사람 평가자와 LLM 심사자가 미리 정한 채점표에 따라 블라인드로 각각 점수를 매겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "종합된 결과와 권고로 생성한 디자인은 채점표 기준의 평균 77.9%를 충족했고, 원본 사용자 댓글로 생성한 디자인은 69.5%였다(p < 0.001)."
-              },
-              {
-                "t": "p",
-                "x": "개선 폭은 항공편 재예약 과제에서 더 컸다(11.4퍼센트포인트, 결제 흐름은 5.5). 일부 원본 댓글은 로열티 마일리지 문제를 지적했지만, 원본 댓글로 만든 디자인 중 이를 다룬 것은 하나도 없었다. 종합된 리서치로 만든 디자인은 모두 이를 반영했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "원본 데이터만 있으면 AI 도구는 무엇을 만들지 추측해야 한다. 종합된 결과와 권고가 있으면 팀이 이미 내린 결정을 바탕으로 만든다."
-              },
-              {
-                "t": "p",
-                "x": "이제 리서치 산출물의 독자는 둘이다. 팀원, 그리고 디자인 과정에 쓰이는 AI 도구다. UX-context design(UX 맥락 설계)은 AI-generated 디자인을 이끄는 UX 지식을 고르고, 정리하고, 유지하는 일이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIは統合リサーチで\nより良く設計する",
-          "body": "NN/gの検証で、AIは生のコメントより統合された知見と提言を与えた方が良い画面を作った。",
-          "mini_headline": "AIには統合リサーチを渡す",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "今回の研究では、AI-generatedのデザイン(AI生成デザイン)は、AIが生のユーザーコメントだけを受け取った場合より、統合された知見と提言を受け取った場合のほうが優れていた。"
-              },
-              {
-                "t": "p",
-                "x": "NN/gはAIモデルに二つのデザイン課題を与えた。欠航した便を予約し直す単一ページのフォームと、オンラインストアの複数ステップの決済フローである。プロンプトとデザインシステムの情報は同じにしたまま、リサーチの文脈だけを変えた。課題ごとに約100件の生のユーザーコメントを与えるか、同じコメントに基づく統合された知見と提言を与えた。課題と条件ごとに8案を生成し、人間の評価者とLLMの審査役が、事前に定めた採点表に照らしてそれぞれをブラインドで採点した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "統合された知見と提言から生成したデザインは採点表の基準を平均77.9%満たし、生のユーザーコメントから生成したデザインは69.5%だった(p < 0.001)。"
-              },
-              {
-                "t": "p",
-                "x": "改善幅は便の再予約課題のほうが大きかった(11.4パーセントポイント、決済フローは5.5)。生のコメントの一部はマイレージ特典への不満を述べていたが、生のコメントから作ったデザインはどれもそれに対応しなかった。統合リサーチから作ったデザインはすべて対応した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "生データだけでは、AIツールは何を作るべきか推測するしかない。統合された知見と提言があれば、チームがすでに下した判断の上に構築できる。"
-              },
-              {
-                "t": "p",
-                "x": "リサーチの成果物には今や二つの読み手がいる。チームメイトと、デザインプロセスで使われるAIツールだ。UX-context design(UXコンテキスト設計)とは、AI-generatedのデザインを導くUXの知識を選び、整理し、維持する実践である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI用综合研究\n做出更好设计",
-          "body": "NN/g测试发现，向AI提供综合后的发现与建议而非原始用户评论，它做出的界面更好。",
-          "mini_headline": "给AI喂综合研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "在我们的研究中，当AI获得综合后的发现与建议，而不只是原始用户评论时，AI-generated设计（AI生成的设计）表现更好。"
-              },
-              {
-                "t": "p",
-                "x": "NN/g给一个AI模型布置了两项设计任务：一个用于改签已取消航班的单页表单，以及一个网店的多步骤结账流程。提示词和设计系统信息保持不变，只改变研究背景：每项任务提供约100条原始用户评论，或基于同一批评论得出的综合发现与建议。每项任务和条件各生成8个设计；一名人类评分者和一个LLM评审依据预先设定的评分表，对每个设计进行盲评。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "基于综合发现与建议生成的设计平均满足评分表77.9%的标准，基于原始用户评论生成的设计为69.5%（p < 0.001）。"
-              },
-              {
-                "t": "p",
-                "x": "航班改签任务的提升更大（11.4个百分点，结账流程为5.5个百分点）。少数原始评论抱怨了会员里程问题，但基于原始评论的设计无一处理；基于综合研究的设计则全部处理了。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "只有原始数据时，AI工具不得不猜测该做什么。有了综合发现与建议，它就能在团队已有决策的基础上构建。"
-              },
-              {
-                "t": "p",
-                "x": "研究成果如今有两类受众：你的团队成员，以及设计过程中使用的AI工具。UX-context design（UX情境设计）是指挑选、组织并维护用于指导AI-generated设计的UX知识的实践。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI diseña mejor con\ninvestigación sintetizada",
-          "body": "En pruebas de NN/g, la AI diseñó mejores interfaces con hallazgos sintetizados que con comentarios en bruto.",
-          "mini_headline": "Dar a la AI investigación sintetizada",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
-              },
-              {
-                "t": "p",
-                "x": "En nuestro estudio, los diseños AI-generated (generados por AI) fueron mejores cuando la AI recibió hallazgos y recomendaciones sintetizados en lugar de solo comentarios de usuarios en bruto."
-              },
-              {
-                "t": "p",
-                "x": "NN/g asignó a un modelo de AI dos tareas de diseño —un formulario de una sola página para reprogramar un vuelo cancelado y un flujo de pago de varios pasos para una tienda en línea— y mantuvo iguales el prompt y la información del sistema de diseño, pero cambió el contexto de investigación: unos 100 comentarios de usuarios en bruto por tarea, o hallazgos y recomendaciones sintetizados a partir de esos mismos comentarios. Generó 8 diseños por tarea y condición; un evaluador humano y un juez LLM puntuaron cada uno a ciegas con una rúbrica predefinida."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
-                "cap": "Los diseños generados a partir de hallazgos y recomendaciones sintetizados cumplieron en promedio el 77.9% de los criterios de la rúbrica, frente al 69.5% de los diseños generados a partir de comentarios de usuarios en bruto (p < 0.001)."
-              },
-              {
-                "t": "p",
-                "x": "La mejora fue mayor en la tarea de reprogramar el vuelo (11.4 puntos porcentuales, frente a 5.5 en el flujo de pago). Algunos comentarios en bruto se quejaban de las millas de fidelidad, pero ninguno de los diseños basados en ellos lo abordó; todos los diseños basados en investigación sintetizada sí lo hicieron."
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
-                "cap": "Solo con datos en bruto, la herramienta de AI tiene que adivinar qué construir. Con hallazgos y recomendaciones sintetizados, construye sobre decisiones que tu equipo ya tomó."
-              },
-              {
-                "t": "p",
-                "x": "Los materiales de investigación tienen ahora dos públicos: tus compañeros de equipo y las herramientas de AI que se usan en el proceso de diseño. El UX-context design (diseño de contexto UX) es la práctica de seleccionar, organizar y mantener el conocimiento de UX que guía el diseño AI-generated."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "envato-ai-report-2026",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "크리에이터 AI 사용,\n규칙보다 앞서갔다",
-      "body": "Envato 조사 1,033명 중 58%는 매일, 53%는 고객 몰래 AI를 썼다.",
-      "mini_headline": "규칙보다 빠른 AI 사용",
-      "tool": "AI Workflow",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/envatos-2nd-annual-ai-report-finds-adoption-has-outrun-rules",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Shutterstock 산하의 크리에이티브 에셋·AI 도구 플랫폼 Envato가 두 번째 연례 보고서 Beyond the Hype: The State of AI in Creative Work를 내며 103개 국가·지역의 크리에이티브 전문가 1,033명을 조사했다."
-          },
-          {
-            "t": "p",
-            "x": "전체 표본에서 크리에이터 87%가 이제 업무에 AI를 쓰고, 58%는 매일 쓴다. 지난해 49%보다 늘었다. 적극적으로 피하는 비율도 3%에서 8%로 늘었고 U.S.(미국)에서는 19%에 달한다. 미국에서 AI를 피하는 이들의 83%는 AI 학습 방식을 둘러싼 윤리적 우려를 이유로 든다."
-          },
-          {
-            "t": "p",
-            "x": "AI를 쓰는 크리에이터의 절반 이상(53%)은 고객에게 알리지 않은 채 주요 고객 작업에 AI를 썼는데, 이를 불편하게 여긴 사람은 7%뿐이었다. 팀으로 일하는 크리에이터의 57%는 서면 AI 정책이 없고, 250명 이상 조직도 40%는 문서로 된 규정이 아예 없다."
-          },
-          {
-            "t": "p",
-            "x": "크리에이터들은 품질을 가르는 첫째 요인으로 안목과 판단력(53%)을 꼽았다. 프롬프트 기술은 여덟 가지 요인 중 꼴찌(19%)였다. 49%는 AI 덕분에 작업이 빨라졌다고 했지만 수입이 늘었다는 응답은 7%에 그쳤다. 영상·모션·3D·VFX 크리에이터는 다른 분야보다 AI를 조금 더 쓰면서도 편집만큼은 훨씬 엄격하게 직접 챙긴다. 44%는 편집에 AI를 전혀 쓰지 않는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Creatives' AI use has\noutrun the rules",
-          "body": "Envato surveyed 1,033 creatives: 58% use AI daily, and 53% have used it on client work without telling the client.",
-          "mini_headline": "AI use outruns the rules",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Envato, the creative asset and AI tools platform owned by Shutterstock, surveyed 1,033 creative professionals in 103 countries and territories for its second annual Beyond the Hype: The State of AI in Creative Work report."
-              },
-              {
-                "t": "p",
-                "x": "Across the full sample, 87% of creatives now use AI at work and 58% use it daily, up from 49% last year. Active avoidance has grown too, from 3% to 8%, and reaches 19% in the U.S., where 83% of avoiders cite ethical concerns about how AI is trained."
-              },
-              {
-                "t": "p",
-                "x": "More than half (53%) of creatives who use AI have used it on key client work without telling the client; only 7% felt uncomfortable about it. Among creatives who work in a team, 57% have no written AI policy, and even at organizations of 250 or more people, 40% have nothing in writing."
-              },
-              {
-                "t": "p",
-                "x": "Creatives rank taste and judgment as the top driver of quality (53%), with prompt skill last of eight drivers (19%). While 49% say AI makes them faster, only 7% say it has increased their earnings. Video, motion, 3D and VFX creatives use AI slightly more than everyone else but keep a much tighter grip on editing: 44% don't use it for editing at all."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "크리에이터 AI 사용,\n규칙보다 앞서갔다",
-          "body": "Envato 조사 1,033명 중 58%는 매일, 53%는 고객 몰래 AI를 썼다.",
-          "mini_headline": "규칙보다 빠른 AI 사용",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Shutterstock 산하의 크리에이티브 에셋·AI 도구 플랫폼 Envato가 두 번째 연례 보고서 Beyond the Hype: The State of AI in Creative Work를 내며 103개 국가·지역의 크리에이티브 전문가 1,033명을 조사했다."
-              },
-              {
-                "t": "p",
-                "x": "전체 표본에서 크리에이터 87%가 이제 업무에 AI를 쓰고, 58%는 매일 쓴다. 지난해 49%보다 늘었다. 적극적으로 피하는 비율도 3%에서 8%로 늘었고 U.S.(미국)에서는 19%에 달한다. 미국에서 AI를 피하는 이들의 83%는 AI 학습 방식을 둘러싼 윤리적 우려를 이유로 든다."
-              },
-              {
-                "t": "p",
-                "x": "AI를 쓰는 크리에이터의 절반 이상(53%)은 고객에게 알리지 않은 채 주요 고객 작업에 AI를 썼는데, 이를 불편하게 여긴 사람은 7%뿐이었다. 팀으로 일하는 크리에이터의 57%는 서면 AI 정책이 없고, 250명 이상 조직도 40%는 문서로 된 규정이 아예 없다."
-              },
-              {
-                "t": "p",
-                "x": "크리에이터들은 품질을 가르는 첫째 요인으로 안목과 판단력(53%)을 꼽았다. 프롬프트 기술은 여덟 가지 요인 중 꼴찌(19%)였다. 49%는 AI 덕분에 작업이 빨라졌다고 했지만 수입이 늘었다는 응답은 7%에 그쳤다. 영상·모션·3D·VFX 크리에이터는 다른 분야보다 AI를 조금 더 쓰면서도 편집만큼은 훨씬 엄격하게 직접 챙긴다. 44%는 편집에 AI를 전혀 쓰지 않는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "クリエイターのAI利用\nルールを追い越した",
-          "body": "Envatoの1,033人調査で58%がAIを毎日使い、53%は顧客に告げず案件に使った。",
-          "mini_headline": "AI利用がルールを追い越す",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Shutterstock傘下のクリエイティブ素材・AIツールのプラットフォームEnvatoは、二回目となる年次レポート「Beyond the Hype: The State of AI in Creative Work」のため、103の国と地域のクリエイティブ専門職1,033人を調査した。"
-              },
-              {
-                "t": "p",
-                "x": "全体では、クリエイターの87%が仕事でAIを使い、58%は毎日使っている。昨年の49%から増えた。積極的に避ける人も3%から8%に増え、U.S.(米国)では19%に達する。そこでAIを避ける人の83%は、AIの学習方法をめぐる倫理的懸念を理由に挙げる。"
-              },
-              {
-                "t": "p",
-                "x": "AIを使うクリエイターの半数超(53%)が、重要な顧客案件で顧客に告げずにAIを使ったことがあり、それに抵抗を感じたのは7%にとどまった。チームで働くクリエイターの57%には文書化されたAIポリシーがなく、250人以上の組織でも40%は書面の規定を何も持たない。"
-              },
-              {
-                "t": "p",
-                "x": "クリエイターは品質を左右する最大の要因にセンスと判断力(53%)を挙げ、プロンプトのスキルは八つの要因のうち最下位(19%)だった。49%がAIで作業が速くなったと答える一方、収入が増えたと答えたのは7%だけだった。映像、モーション、3D、VFXのクリエイターはほかの層よりややAIを多く使うが、編集ははるかに厳しく自分の手に残しており、44%は編集にまったくAIを使わない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "创意人的AI使用\n已跑在规则前面",
-          "body": "Envato调查1,033名创意人：58%每天用AI，53%曾瞒着客户用于客户项目。",
-          "mini_headline": "AI使用跑在规则前面",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Shutterstock旗下的创意素材与AI工具平台Envato，为其第二份年度报告《Beyond the Hype: The State of AI in Creative Work》调查了103个国家和地区的1,033名创意专业人士。"
-              },
-              {
-                "t": "p",
-                "x": "在全部样本中，87%的创意人士已在工作中使用AI，58%每天使用，高于去年的49%。主动回避者也从3%增至8%，在U.S.（美国）达到19%；那里83%的回避者以对AI训练方式的伦理担忧为由。"
-              },
-              {
-                "t": "p",
-                "x": "使用AI的创意人士中，超过一半（53%）曾在重要客户项目中使用AI而未告知客户；只有7%对此感到不安。在团队中工作的创意人士里，57%没有书面AI政策；即便在250人及以上的机构中，也有40%没有任何书面规定。"
-              },
-              {
-                "t": "p",
-                "x": "创意人士认为品味与判断力是决定质量的首要因素（53%），提示词技巧在八项因素中排名最后（19%）。49%的人说AI让他们更快，但只有7%说AI提高了收入。视频、动态、3D和VFX创意人士使用AI略多于其他人，但对编辑把控得更紧：44%完全不用AI做编辑。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El uso de AI de los creativos\nva por delante de las reglas",
-          "body": "Envato encuestó a 1,033 creativos: el 58% usa AI a diario y el 53% la usó en trabajos para clientes sin avisarles.",
-          "mini_headline": "El uso de AI supera las reglas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Envato, la plataforma de recursos creativos y herramientas de AI propiedad de Shutterstock, encuestó a 1,033 profesionales creativos de 103 países y territorios para su segundo informe anual, Beyond the Hype: The State of AI in Creative Work."
-              },
-              {
-                "t": "p",
-                "x": "En el conjunto de la muestra, el 87% de los creativos ya usa AI en el trabajo y el 58% la usa a diario, frente al 49% del año pasado. El rechazo activo también creció, del 3% al 8%, y llega al 19% en U.S. (Estados Unidos), donde el 83% de quienes la evitan alude a preocupaciones éticas sobre cómo se entrena la AI."
-              },
-              {
-                "t": "p",
-                "x": "Más de la mitad (53%) de los creativos que usan AI la han empleado en trabajos clave para clientes sin decírselo; solo el 7% se sintió incómodo por ello. Entre los creativos que trabajan en equipo, el 57% no tiene una política de AI por escrito, e incluso en organizaciones de 250 personas o más, el 40% no tiene nada por escrito."
-              },
-              {
-                "t": "p",
-                "x": "Los creativos sitúan el gusto y el criterio como el principal factor de calidad (53%), y la habilidad con los prompts en el último lugar de ocho factores (19%). Aunque el 49% dice que la AI los hace más rápidos, solo el 7% afirma que ha aumentado sus ingresos. Los creativos de video, motion, 3D y VFX usan la AI un poco más que el resto, pero controlan mucho más la edición: el 44% no la usa en absoluto para editar."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "크리에이터의 AI 사용,\n규칙을 앞질렀다",
-          "body": "Envato 조사 1,033명 중 58%는 매일, 53%는 고객 몰래 AI를 썼다.",
-          "mini_headline": "규칙을 앞지른 AI 사용",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Shutterstock이 소유한 크리에이티브 에셋·AI 도구 플랫폼 Envato가 두 번째 연례 보고서 Beyond the Hype: The State of AI in Creative Work를 위해 103개 국가·지역의 크리에이티브 전문가 1,033명을 조사했다."
-              },
-              {
-                "t": "p",
-                "x": "전체 표본에서 크리에이터의 87%가 이제 업무에 AI를 쓰고, 58%는 매일 쓴다. 지난해 49%에서 늘었다. 적극적으로 피하는 비율도 3%에서 8%로 늘었고, U.S.(미국)에서는 19%에 이른다. 그곳에서 AI를 피하는 이들의 83%는 AI 학습 방식에 대한 윤리적 우려를 이유로 든다."
-              },
-              {
-                "t": "p",
-                "x": "AI를 쓰는 크리에이터의 절반 이상(53%)이 고객에게 알리지 않고 주요 고객 작업에 AI를 썼고, 이를 불편하게 느낀 사람은 7%뿐이었다. 팀으로 일하는 크리에이터의 57%는 서면 AI 정책이 없고, 250명 이상 조직에서도 40%는 문서로 된 규정이 전혀 없다."
-              },
-              {
-                "t": "p",
-                "x": "크리에이터들은 품질을 좌우하는 첫째 요인으로 안목과 판단력(53%)을 꼽았고, 프롬프트 기술은 여덟 가지 요인 중 마지막(19%)이었다. 49%는 AI 덕분에 작업이 빨라졌다고 했지만, 수입이 늘었다는 응답은 7%뿐이었다. 영상·모션·3D·VFX 크리에이터는 다른 이들보다 AI를 조금 더 많이 쓰지만 편집은 훨씬 엄격하게 직접 쥐고 있다. 44%는 편집에 AI를 전혀 쓰지 않는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "クリエイターのAI利用\nルールを追い越した",
-          "body": "Envatoの1,033人調査で58%がAIを毎日使い、53%は顧客に告げず案件に使った。",
-          "mini_headline": "AI利用がルールを追い越す",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Shutterstock傘下のクリエイティブ素材・AIツールのプラットフォームEnvatoは、二回目となる年次レポート「Beyond the Hype: The State of AI in Creative Work」のため、103の国と地域のクリエイティブ専門職1,033人を調査した。"
-              },
-              {
-                "t": "p",
-                "x": "全体では、クリエイターの87%が仕事でAIを使い、58%は毎日使っている。昨年の49%から増えた。積極的に避ける人も3%から8%に増え、U.S.(米国)では19%に達する。そこでAIを避ける人の83%は、AIの学習方法をめぐる倫理的懸念を理由に挙げる。"
-              },
-              {
-                "t": "p",
-                "x": "AIを使うクリエイターの半数超(53%)が、重要な顧客案件で顧客に告げずにAIを使ったことがあり、それに抵抗を感じたのは7%にとどまった。チームで働くクリエイターの57%には文書化されたAIポリシーがなく、250人以上の組織でも40%は書面の規定を何も持たない。"
-              },
-              {
-                "t": "p",
-                "x": "クリエイターは品質を左右する最大の要因にセンスと判断力(53%)を挙げ、プロンプトのスキルは八つの要因のうち最下位(19%)だった。49%がAIで作業が速くなったと答える一方、収入が増えたと答えたのは7%だけだった。映像、モーション、3D、VFXのクリエイターはほかの層よりややAIを多く使うが、編集ははるかに厳しく自分の手に残しており、44%は編集にまったくAIを使わない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "创意人的AI使用\n已跑在规则前面",
-          "body": "Envato调查1,033名创意人：58%每天用AI，53%曾瞒着客户用于客户项目。",
-          "mini_headline": "AI使用跑在规则前面",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Shutterstock旗下的创意素材与AI工具平台Envato，为其第二份年度报告《Beyond the Hype: The State of AI in Creative Work》调查了103个国家和地区的1,033名创意专业人士。"
-              },
-              {
-                "t": "p",
-                "x": "在全部样本中，87%的创意人士已在工作中使用AI，58%每天使用，高于去年的49%。主动回避者也从3%增至8%，在U.S.（美国）达到19%；那里83%的回避者以对AI训练方式的伦理担忧为由。"
-              },
-              {
-                "t": "p",
-                "x": "使用AI的创意人士中，超过一半（53%）曾在重要客户项目中使用AI而未告知客户；只有7%对此感到不安。在团队中工作的创意人士里，57%没有书面AI政策；即便在250人及以上的机构中，也有40%没有任何书面规定。"
-              },
-              {
-                "t": "p",
-                "x": "创意人士认为品味与判断力是决定质量的首要因素（53%），提示词技巧在八项因素中排名最后（19%）。49%的人说AI让他们更快，但只有7%说AI提高了收入。视频、动态、3D和VFX创意人士使用AI略多于其他人，但对编辑把控得更紧：44%完全不用AI做编辑。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El uso de AI de los creativos\nva por delante de las reglas",
-          "body": "Envato encuestó a 1,033 creativos: el 58% usa AI a diario y el 53% la usó en trabajos para clientes sin avisarles.",
-          "mini_headline": "El uso de AI supera las reglas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081855-envato1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Envato, la plataforma de recursos creativos y herramientas de AI propiedad de Shutterstock, encuestó a 1,033 profesionales creativos de 103 países y territorios para su segundo informe anual, Beyond the Hype: The State of AI in Creative Work."
-              },
-              {
-                "t": "p",
-                "x": "En el conjunto de la muestra, el 87% de los creativos ya usa AI en el trabajo y el 58% la usa a diario, frente al 49% del año pasado. El rechazo activo también creció, del 3% al 8%, y llega al 19% en U.S. (Estados Unidos), donde el 83% de quienes la evitan alude a preocupaciones éticas sobre cómo se entrena la AI."
-              },
-              {
-                "t": "p",
-                "x": "Más de la mitad (53%) de los creativos que usan AI la han empleado en trabajos clave para clientes sin decírselo; solo el 7% se sintió incómodo por ello. Entre los creativos que trabajan en equipo, el 57% no tiene una política de AI por escrito, e incluso en organizaciones de 250 personas o más, el 40% no tiene nada por escrito."
-              },
-              {
-                "t": "p",
-                "x": "Los creativos sitúan el gusto y el criterio como el principal factor de calidad (53%), y la habilidad con los prompts en el último lugar de ocho factores (19%). Aunque el 49% dice que la AI los hace más rápidos, solo el 7% afirma que ha aumentado sus ingresos. Los creativos de video, motion, 3D y VFX usan la AI un poco más que el resto, pero controlan mucho más la edición: el 44% no la usa en absoluto para editar."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "fuser-tool-node",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "퓨저, 문장 한 줄로\n편집 도구를 만든다",
-      "body": "퓨저의 툴 노드는 문장으로 설명한 편집 도구를 AI가 만들어 캔버스에 배치한다.",
-      "mini_headline": "문장으로 만드는 편집 도구",
-      "tool": "KeyShot",
-      "source": "Design Compass",
-      "url": "https://designcompass.org/2026/11/18/fuser-tool-node/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-          },
-          {
-            "t": "p",
-            "x": "퓨저(Fuser)가 11월 13일(한국시간) 문장으로 맞춤형 편집 도구를 만드는 ‘툴 노드(Tool Node)’를 공개했습니다. 캔버스에 툴 노드를 놓고 어떤 자료를 받아 무엇을 바꿀지, 어떤 값을 직접 조절하고 싶은지 적으면 됩니다. 퓨저는 요청에 맞춰 슬라이더와 스위치를 설계하고, 도구를 작성해 테스트한 뒤 캔버스에 배치합니다."
-          },
-          {
-            "t": "p",
-            "x": "사진을 픽셀화하는 도구를 요청하면 픽셀 블록의 크기와 사용할 색의 수를 조절하는 슬라이더를 만들 수 있습니다. 사진을 노드에 연결하고 슬라이더를 움직이면 결과가 즉시 바뀝니다. 같은 노드에 다른 사진을 연결하면 기존 설정을 그대로 적용할 수 있습니다. 픽셀화한 결과를 색 채널을 분리하는 다음 노드에 연결해 두 효과를 차례로 적용할 수도 있습니다."
-          },
-          {
-            "t": "p",
-            "x": "색 조정이나 자르기 같은 ‘라이브’ 도구는 브라우저에서 무료로 실행됩니다. 이미지 속 글자를 읽거나 물체를 찾는 ‘클라우드’ 도구는 실행 버튼을 누르면 퓨저 서버에서 AI 모델을 사용합니다. 실행에 드는 크레딧은 버튼에 표시됩니다. 도구를 새로 만들거나 문장으로 수정할 때도 크레딧이 필요합니다."
-          },
-          {
-            "t": "p",
-            "x": "완성한 도구는 라이브러리에 자동으로 저장됩니다. 다음 프로젝트에서 꺼내 쓰거나 팀 작업 공간에서 동료와 공유할 수 있습니다. 슬라이더를 추가하고 싶다면 바꿀 내용을 문장으로 입력하면 됩니다. 퓨저는 수정본을 새 버전으로 저장하고, 가능한 경우 기존 노드 연결과 설정값을 유지합니다."
-          },
-          {
-            "t": "img",
-            "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-            "cap": "사진에 픽셀화와 색 채널 분리 노드를 연결한 퓨저 캔버스"
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "퓨저, 문장 한 줄로\n편집 도구를 만든다",
-          "body": "퓨저의 툴 노드는 문장으로 설명한 편집 도구를 AI가 만들어 캔버스에 배치한다.",
-          "mini_headline": "문장으로 만드는 편집 도구",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "퓨저(Fuser)가 11월 13일(한국시간) 문장으로 맞춤형 편집 도구를 만드는 ‘툴 노드(Tool Node)’를 공개했습니다. 캔버스에 툴 노드를 놓고 어떤 자료를 받아 무엇을 바꿀지, 어떤 값을 직접 조절하고 싶은지 적으면 됩니다. 퓨저는 요청에 맞춰 슬라이더와 스위치를 설계하고, 도구를 작성해 테스트한 뒤 캔버스에 배치합니다."
-              },
-              {
-                "t": "p",
-                "x": "사진을 픽셀화하는 도구를 요청하면 픽셀 블록의 크기와 사용할 색의 수를 조절하는 슬라이더를 만들 수 있습니다. 사진을 노드에 연결하고 슬라이더를 움직이면 결과가 즉시 바뀝니다. 같은 노드에 다른 사진을 연결하면 기존 설정을 그대로 적용할 수 있습니다. 픽셀화한 결과를 색 채널을 분리하는 다음 노드에 연결해 두 효과를 차례로 적용할 수도 있습니다."
-              },
-              {
-                "t": "p",
-                "x": "색 조정이나 자르기 같은 ‘라이브’ 도구는 브라우저에서 무료로 실행됩니다. 이미지 속 글자를 읽거나 물체를 찾는 ‘클라우드’ 도구는 실행 버튼을 누르면 퓨저 서버에서 AI 모델을 사용합니다. 실행에 드는 크레딧은 버튼에 표시됩니다. 도구를 새로 만들거나 문장으로 수정할 때도 크레딧이 필요합니다."
-              },
-              {
-                "t": "p",
-                "x": "완성한 도구는 라이브러리에 자동으로 저장됩니다. 다음 프로젝트에서 꺼내 쓰거나 팀 작업 공간에서 동료와 공유할 수 있습니다. 슬라이더를 추가하고 싶다면 바꿀 내용을 문장으로 입력하면 됩니다. 퓨저는 수정본을 새 버전으로 저장하고, 가능한 경우 기존 노드 연결과 설정값을 유지합니다."
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "사진에 픽셀화와 색 채널 분리 노드를 연결한 퓨저 캔버스"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Fuser builds editing tools\nfrom a single sentence",
-          "body": "Fuser's Tool Node has AI build an editing tool described in a sentence and place it on the canvas.",
-          "mini_headline": "Editing tools made from sentences",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuser released ‘Tool Node’ on November 13 (Korea time), a feature that builds custom editing tools from sentences. You place a Tool Node on the canvas and write what material it should take in, what it should change, and which values you want to adjust yourself. Fuser designs sliders and switches to fit the request, writes and tests the tool, and then places it on the canvas."
-              },
-              {
-                "t": "p",
-                "x": "If you ask for a tool that pixelates photos, you can get sliders that control the size of the pixel blocks and the number of colors used. Connect a photo to the node and move the sliders, and the result changes instantly. Connect a different photo to the same node and the existing settings apply as they are. You can also connect the pixelated result to a next node that separates color channels, applying the two effects in sequence."
-              },
-              {
-                "t": "p",
-                "x": "‘Live’ tools such as color adjustment and cropping run free in the browser. ‘Cloud’ tools that read text in images or find objects use AI models on Fuser's servers when you press the run button. The credits each run costs are shown on the button. Creating a new tool or revising one with a sentence also requires credits."
-              },
-              {
-                "t": "p",
-                "x": "Finished tools are saved to the library automatically. You can pull them into your next project or share them with colleagues in a team workspace. To add a slider, type the change you want as a sentence. Fuser saves the revision as a new version and, where possible, keeps existing node connections and settings."
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "A Fuser canvas with pixelation and color-channel separation nodes connected to a photo"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fuser、一文で\n編集ツールを作る",
-          "body": "FuserのTool Nodeは文章で説明した編集ツールをAIが作りキャンバスに置く。",
-          "mini_headline": "文章で作る編集ツール",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuserは11月13日(韓国時間)、文章でカスタム編集ツールを作る「Tool Node(ツールノード)」を公開した。キャンバスにTool Nodeを置き、どんな素材を受け取って何を変えるか、どの値を自分で調整したいかを書けばよい。Fuserは要望に合わせてスライダーとスイッチを設計し、ツールを作成してテストしたうえでキャンバスに配置する。"
-              },
-              {
-                "t": "p",
-                "x": "写真をピクセル化するツールを頼めば、ピクセルブロックの大きさと使う色の数を調整するスライダーを作れる。写真をノードにつないでスライダーを動かすと、結果がすぐに変わる。同じノードに別の写真をつなげば、既存の設定をそのまま適用できる。ピクセル化した結果を、色チャンネルを分離する次のノードにつなぎ、二つの効果を順に適用することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "色調整や切り抜きのような「ライブ」ツールはブラウザ上で無料で動く。画像内の文字を読んだり物体を見つけたりする「クラウド」ツールは、実行ボタンを押すとFuserのサーバーでAIモデルを使う。実行にかかるクレジットはボタンに表示される。ツールを新たに作るときや文章で修正するときにもクレジットが必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "完成したツールは自動でライブラリに保存される。次のプロジェクトで呼び出したり、チームのワークスペースで同僚と共有したりできる。スライダーを追加したければ、変更内容を文章で入力すればよい。Fuserは修正版を新しいバージョンとして保存し、可能な場合は既存のノード接続と設定値を保つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "写真にピクセル化と色チャンネル分離のノードをつないだFuserのキャンバス"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fuser用一句话\n生成编辑工具",
-          "body": "Fuser的Tool Node可让AI按文字描述生成编辑工具，并放到画布上。",
-          "mini_headline": "用文字生成编辑工具",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuser于11月13日（韩国时间）发布了“Tool Node”（工具节点），可用文字生成定制编辑工具。用户只需在画布上放置Tool Node，写明要接收什么素材、改变什么，以及想亲自调节哪些参数。Fuser会按需求设计滑块和开关，编写并测试工具，然后将其放到画布上。"
-              },
-              {
-                "t": "p",
-                "x": "如果请求一个将照片像素化的工具，就能生成用于调节像素块大小和所用颜色数量的滑块。把照片连接到节点并拖动滑块，结果会立即变化。把另一张照片连接到同一节点，可以直接沿用现有设置。还可以把像素化结果连接到下一个分离颜色通道的节点，依次应用两种效果。"
-              },
-              {
-                "t": "p",
-                "x": "调色、裁剪等“实时”工具在浏览器中免费运行。识别图像文字或查找物体的“云端”工具，在点击运行按钮后会调用Fuser服务器上的AI模型。运行所需的积分显示在按钮上。新建工具或用文字修改工具时也需要积分。"
-              },
-              {
-                "t": "p",
-                "x": "完成的工具会自动保存到资源库，可在下一个项目中调用，也可在团队工作区与同事共享。想添加滑块时，只需用文字输入要修改的内容。Fuser会把修改内容保存为新版本，并在可能的情况下保留原有的节点连接和参数设置。"
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "将像素化节点和颜色通道分离节点连接到照片上的Fuser画布"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fuser crea herramientas de\nedición con una sola frase",
-          "body": "Tool Node, de Fuser, usa AI para crear una herramienta de edición descrita en una frase y colocarla en el lienzo.",
-          "mini_headline": "Herramientas de edición a partir de frases",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuser presentó el 13 de noviembre (hora de Corea) ‘Tool Node’, una función que crea herramientas de edición personalizadas a partir de frases. Basta con colocar un Tool Node en el lienzo y escribir qué material debe recibir, qué debe cambiar y qué valores se quieren ajustar directamente. Fuser diseña deslizadores e interruptores según la petición, escribe y prueba la herramienta y luego la coloca en el lienzo."
-              },
-              {
-                "t": "p",
-                "x": "Si se pide una herramienta para pixelar fotos, se pueden obtener deslizadores que controlan el tamaño de los bloques de píxeles y el número de colores que se usan. Al conectar una foto al nodo y mover los deslizadores, el resultado cambia al instante. Si se conecta otra foto al mismo nodo, se aplican los mismos ajustes. También se puede conectar el resultado pixelado a un nodo siguiente que separa los canales de color, para aplicar los dos efectos uno tras otro."
-              },
-              {
-                "t": "p",
-                "x": "Las herramientas ‘en vivo’, como el ajuste de color o el recorte, se ejecutan gratis en el navegador. Las herramientas ‘en la nube’, que leen texto en imágenes o detectan objetos, usan modelos de AI en los servidores de Fuser al pulsar el botón de ejecutar. Los créditos que cuesta cada ejecución aparecen en el botón. Crear una herramienta nueva o modificarla con una frase también requiere créditos."
-              },
-              {
-                "t": "p",
-                "x": "Las herramientas terminadas se guardan automáticamente en la biblioteca. Se pueden reutilizar en el siguiente proyecto o compartir con colegas en un espacio de trabajo de equipo. Para añadir un deslizador, basta con escribir el cambio en una frase. Fuser guarda la revisión como una versión nueva y, cuando es posible, conserva las conexiones de nodos y los valores existentes."
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "Lienzo de Fuser con nodos de pixelado y de separación de canales de color conectados a una foto"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Fuser builds editing tools\nfrom a single sentence",
-          "body": "Fuser's Tool Node has AI build an editing tool described in a sentence and place it on the canvas.",
-          "mini_headline": "Editing tools made from sentences",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuser released ‘Tool Node’ on November 13 (Korea time), a feature that builds custom editing tools from sentences. You place a Tool Node on the canvas and write what material it should take in, what it should change, and which values you want to adjust yourself. Fuser designs sliders and switches to fit the request, writes and tests the tool, and then places it on the canvas."
-              },
-              {
-                "t": "p",
-                "x": "If you ask for a tool that pixelates photos, you can get sliders that control the size of the pixel blocks and the number of colors used. Connect a photo to the node and move the sliders, and the result changes instantly. Connect a different photo to the same node and the existing settings apply as they are. You can also connect the pixelated result to a next node that separates color channels, applying the two effects in sequence."
-              },
-              {
-                "t": "p",
-                "x": "‘Live’ tools such as color adjustment and cropping run free in the browser. ‘Cloud’ tools that read text in images or find objects use AI models on Fuser's servers when you press the run button. The credits each run costs are shown on the button. Creating a new tool or revising one with a sentence also requires credits."
-              },
-              {
-                "t": "p",
-                "x": "Finished tools are saved to the library automatically. You can pull them into your next project or share them with colleagues in a team workspace. To add a slider, type the change you want as a sentence. Fuser saves the revision as a new version and, where possible, keeps existing node connections and settings."
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "A Fuser canvas with pixelation and color-channel separation nodes connected to a photo"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fuser、一文で\n編集ツールを作る",
-          "body": "FuserのTool Nodeは文章で説明した編集ツールをAIが作りキャンバスに置く。",
-          "mini_headline": "文章で作る編集ツール",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuserは11月13日(韓国時間)、文章でカスタム編集ツールを作る「Tool Node(ツールノード)」を公開した。キャンバスにTool Nodeを置き、どんな素材を受け取って何を変えるか、どの値を自分で調整したいかを書けばよい。Fuserは要望に合わせてスライダーとスイッチを設計し、ツールを作成してテストしたうえでキャンバスに配置する。"
-              },
-              {
-                "t": "p",
-                "x": "写真をピクセル化するツールを頼めば、ピクセルブロックの大きさと使う色の数を調整するスライダーを作れる。写真をノードにつないでスライダーを動かすと、結果がすぐに変わる。同じノードに別の写真をつなげば、既存の設定をそのまま適用できる。ピクセル化した結果を、色チャンネルを分離する次のノードにつなぎ、二つの効果を順に適用することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "色調整や切り抜きのような「ライブ」ツールはブラウザ上で無料で動く。画像内の文字を読んだり物体を見つけたりする「クラウド」ツールは、実行ボタンを押すとFuserのサーバーでAIモデルを使う。実行にかかるクレジットはボタンに表示される。ツールを新たに作るときや文章で修正するときにもクレジットが必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "完成したツールは自動でライブラリに保存される。次のプロジェクトで呼び出したり、チームのワークスペースで同僚と共有したりできる。スライダーを追加したければ、変更内容を文章で入力すればよい。Fuserは修正版を新しいバージョンとして保存し、可能な場合は既存のノード接続と設定値を保つ。"
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "写真にピクセル化と色チャンネル分離のノードをつないだFuserのキャンバス"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fuser用一句话\n生成编辑工具",
-          "body": "Fuser的Tool Node可让AI按文字描述生成编辑工具，并放到画布上。",
-          "mini_headline": "用文字生成编辑工具",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuser于11月13日（韩国时间）发布了“Tool Node”（工具节点），可用文字生成定制编辑工具。用户只需在画布上放置Tool Node，写明要接收什么素材、改变什么，以及想亲自调节哪些参数。Fuser会按需求设计滑块和开关，编写并测试工具，然后将其放到画布上。"
-              },
-              {
-                "t": "p",
-                "x": "如果请求一个将照片像素化的工具，就能生成用于调节像素块大小和所用颜色数量的滑块。把照片连接到节点并拖动滑块，结果会立即变化。把另一张照片连接到同一节点，可以直接沿用现有设置。还可以把像素化结果连接到下一个分离颜色通道的节点，依次应用两种效果。"
-              },
-              {
-                "t": "p",
-                "x": "调色、裁剪等“实时”工具在浏览器中免费运行。识别图像文字或查找物体的“云端”工具，在点击运行按钮后会调用Fuser服务器上的AI模型。运行所需的积分显示在按钮上。新建工具或用文字修改工具时也需要积分。"
-              },
-              {
-                "t": "p",
-                "x": "完成的工具会自动保存到资源库，可在下一个项目中调用，也可在团队工作区与同事共享。想添加滑块时，只需用文字输入要修改的内容。Fuser会把修改内容保存为新版本，并在可能的情况下保留原有的节点连接和参数设置。"
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "将像素化节点和颜色通道分离节点连接到照片上的Fuser画布"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fuser crea herramientas de\nedición con una sola frase",
-          "body": "Tool Node, de Fuser, usa AI para crear una herramienta de edición descrita en una frase y colocarla en el lienzo.",
-          "mini_headline": "Herramientas de edición a partir de frases",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fuser presentó el 13 de noviembre (hora de Corea) ‘Tool Node’, una función que crea herramientas de edición personalizadas a partir de frases. Basta con colocar un Tool Node en el lienzo y escribir qué material debe recibir, qué debe cambiar y qué valores se quieren ajustar directamente. Fuser diseña deslizadores e interruptores según la petición, escribe y prueba la herramienta y luego la coloca en el lienzo."
-              },
-              {
-                "t": "p",
-                "x": "Si se pide una herramienta para pixelar fotos, se pueden obtener deslizadores que controlan el tamaño de los bloques de píxeles y el número de colores que se usan. Al conectar una foto al nodo y mover los deslizadores, el resultado cambia al instante. Si se conecta otra foto al mismo nodo, se aplican los mismos ajustes. También se puede conectar el resultado pixelado a un nodo siguiente que separa los canales de color, para aplicar los dos efectos uno tras otro."
-              },
-              {
-                "t": "p",
-                "x": "Las herramientas ‘en vivo’, como el ajuste de color o el recorte, se ejecutan gratis en el navegador. Las herramientas ‘en la nube’, que leen texto en imágenes o detectan objetos, usan modelos de AI en los servidores de Fuser al pulsar el botón de ejecutar. Los créditos que cuesta cada ejecución aparecen en el botón. Crear una herramienta nueva o modificarla con una frase también requiere créditos."
-              },
-              {
-                "t": "p",
-                "x": "Las herramientas terminadas se guardan automáticamente en la biblioteca. Se pueden reutilizar en el siguiente proyecto o compartir con colegas en un espacio de trabajo de equipo. Para añadir un deslizador, basta con escribir el cambio en una frase. Fuser guarda la revisión como una versión nueva y, cuando es posible, conserva las conexiones de nodos y los valores existentes."
-              },
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-5-scaled.jpg",
-                "cap": "Lienzo de Fuser con nodos de pixelado y de separación de canales de color conectados a una foto"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gestalt-design-benchmark",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "새 AI 디자인 벤치마크\nGestalt가 정상에",
-      "body": "Gestalt는 1,931 Elo로 선두, 표 78%로 Fable 5.2를 눌렀다.",
-      "mini_headline": "디자인 벤치마크 정상 Gestalt",
+      "headline": "Figma Specs가\n맥락을 계획으로 바꾼다",
+      "body": "Figma Specs는 요구사항과 제약을 디자인 곁에 모아 에이전트 계획을 돕는다.",
+      "mini_headline": "Figma Specs, 에이전트의 재료",
       "tool": "Figma",
-      "source": "Kingy AI",
-      "url": "https://kingy.ai/blog/gestalt-ai-design-benchmark/",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -1105,209 +19,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-            "cap": "평론가 한 명이 익명의 시트러스 포트폴리오 레이아웃 두 개 중 하나에 동그라미를 친다. Gestalt와 Claude Fable 5.2의 블라인드 투표를 그린 이미지다."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
           },
           {
             "t": "p",
-            "x": "전문 디자이너들 앞에 같은 브리프로 만든 결과물 두 개가 놓였다. 하나는 Claude Fable 5.2, 다른 하나는 Gestalt라는 스텔스 AI 모델의 작품이다. 이름을 모두 가린 일대일 투표에서 디자이너들은 78%의 확률로 Gestalt를 택했다."
+            "x": "팀이 프로토타입에서 프로덕션으로 어느 때보다 빠르게 넘어가면서 글로 쓴 요구사항과 디자인 세부 사항, 엔지니어링 지침이 제각각 다른 문서와 링크로 흩어지기 일쑤다. Specs는 이런 맥락을 캔버스 위에 모아 두는 공유 공간이다. 팀원과 에이전트가 함께 내용을 보탠다. 아래 워크플로에서는 가상의 마켓플레이스 쇼핑 앱 Pickup의 엔지니어가 Specs와 Figma 에이전트로 흩어진 맥락을 모아 코딩 에이전트가 구현할 계획으로 정리한다."
           },
           {
             "t": "p",
-            "x": "Gestalt는 Contra Labs와 BenchFlow가 만든 Frontier Design Benchmark에서 선두에 섰다. Kingy.ai가 2026년 11월 19일 확인한 점수는 Gestalt가 1,931 Elo로, 1,713인 Fable보다 218점 높았다. 전체에서 가장 근접한 항목은 1,739를 기록한 사람의 참고 작업이었다."
+            "x": "엔지니어는 Hex 커넥터를 추가한 뒤 Pickup이 가장 많이 쓰이는 곳을 찾아 달라고 에이전트에게 요청한다. 에이전트는 도시별 앱 사용량과 주문량을 정리한 스펙을 만들고 상위 네 개 도시를 지도로 보여 주는 코드 레이어도 함께 내놓는다. 팀은 인도(India) Bengaluru에서 출시하기로 한다."
           },
           {
             "t": "img",
-            "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-            "cap": "디자이너들은 Claude Fable 5.2와 맞붙은 투표에서 78%, 사람의 참고 디자인과 맞붙은 투표에서 28표 중 20표로 Gestalt를 골랐다."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+            "cap": "Figma 에이전트가 만든 사용량 보고서와 지도 코드 레이어 네 개로 팀은 출시 후보 도시를 비교한다."
           },
           {
             "t": "p",
-            "x": "전문 디자이너 서른다섯 명이 다섯 라운드 동안 4,311표를 던졌다. 마켓플레이스 의뢰와 스타트업 프로젝트 여섯 건을 각색한 브리프 27개가 대상이었다. Contra 디자인 루브릭 점수는 Fable 5.2와 Claude Opus 5.5가 100점 만점에 84점, Gestalt가 83점이었다."
+            "x": "엔지니어는 기술 스펙, 주석을 단 디자인 프레임, 인터랙티브 지도 코드 레이어, 새 컴포넌트, 디자인 시스템 가이드를 골라 팀의 build-implementation-plan 스킬을 실행한다. 에이전트는 이 재료를 한데 묶어 코딩 에이전트가 기능을 구현할 때 따를 계획을 새 스펙으로 만든다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+            "cap": "에이전트가 구현 계획을 스펙으로 정리하면 엔지니어가 코딩 에이전트에 넘기기 전에 검토한다."
           },
           {
             "t": "p",
-            "x": "Contra 공동 창업자 Gajus Kuizinas는 Gestalt를 Contra가 만든 게 아니라고 했고, 보고서에도 개발사는 나오지 않는다. Contra가 Gestalt의 도구·재시도·선별 과정·비용을 충분히 공개하지 않아 우승작이 몇 번 시도 끝에 나왔는지는 알 수 없다."
+            "x": "엔지니어는 에이전트, 디자이너와 댓글로 세부 사항을 다듬은 뒤 스펙 링크를 Codex에 붙여 넣고 “이 기능을 구현해(Implement this feature.)”라고 지시한다. Codex는 Figma의 MCP 덕분에 링크 하나만으로 스펙, 주석 프레임, 코드 레이어, 디자인 시스템 컴포넌트를 모두 읽어 들인다. Specs는 모든 요금제에 오픈 베타로 열려 있고 웹, 데스크톱, 모바일에서 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gestalt tops a new\nAI design benchmark",
-          "body": "Stealth model Gestalt led the Frontier Design Benchmark at 1,931 Elo and beat Claude Fable 5.2 in 78% of blind votes.",
-          "mini_headline": "Gestalt tops design benchmark",
+          "headline": "Specs and the Figma agent\nturn context into a plan",
+          "body": "Figma's Specs keep requirements and constraints beside the design so its agent can plan and hand off to code.",
+          "mini_headline": "Figma Specs feed the agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "A critic circles one of two anonymous citrus portfolio layouts, illustrating the blind vote between Gestalt and Claude Fable 5.2."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Professional designers had two answers to the same brief in front of them, one from Claude Fable 5.2 and the other from a stealth AI model called Gestalt. With both names hidden, the designers chose Gestalt in 78% of their head-to-head votes."
+                "x": "When teams are going from prototype to production faster than ever, written requirements, design details, and engineering guidance often end up scattered across separate documents and links. Specs provides a shared container for context right on the canvas, where teammates and agents can contribute together. In this workflow, an engineer at Pickup, a fictional marketplace shopping app, uses Specs and the Figma agent to turn sprawling context into a plan their coding agent can build from."
               },
               {
                 "t": "p",
-                "x": "Gestalt took first place on the Frontier Design Benchmark from Contra Labs and BenchFlow. When Kingy.ai checked on November 19, 2026, Gestalt had 1,931 Elo, a 218-point lead over Fable at 1,713. The closest entry overall was the human reference work at 1,739."
+                "x": "With the Hex connector added, the engineer prompts the agent to find where Pickup has the most usage. The agent produces a spec with app usage and order volume by city, plus code layers showing maps for the top four cities. The team decides to launch in Bengaluru, India."
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "Designers chose Gestalt in 78% of direct votes against Claude Fable 5.2 and in 20 of 28 votes against human reference designs."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "The Figma agent creates a usage report and four map code layers to help the team compare potential launch cities."
               },
               {
                 "t": "p",
-                "x": "Thirty-five professional designers cast 4,311 votes over five rounds across 27 briefs adapted from marketplace jobs and six startup projects. On Contra's design rubric, Fable 5.2 and Claude Opus 5.5 earned 84 out of 100; Gestalt scored 83."
+                "x": "The engineer selects the technical spec, annotated design frames, interactive map code layer, new component, and design system guidance, then runs the team's build-implementation-plan skill. The agent creates a new spec that brings those inputs together into a plan for a coding agent to build the feature."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "The agent creates a spec with an implementation plan for the engineer to review before handing it to a coding agent."
               },
               {
                 "t": "p",
-                "x": "Contra co-founder Gajus Kuizinas says Contra didn't build Gestalt, and the report leaves its maker unnamed. Contra hasn't disclosed enough about Gestalt's tools, retries, selection process or cost to say how many attempts the winning work took."
+                "x": "After fixing details through comments with the agent and a designer, the engineer pastes the spec link into Codex and prompts: \"Implement this feature.\" Through Figma's MCP, Codex can read the spec, annotated frames, code layers, and design system components with just one link. Specs is in open beta on all plans and available on web, desktop, and mobile."
               }
             ]
           }
         },
         "ko": {
-          "headline": "새 AI 디자인 벤치마크\nGestalt가 정상에",
-          "body": "Gestalt는 1,931 Elo로 선두, 표 78%로 Fable 5.2를 눌렀다.",
-          "mini_headline": "디자인 벤치마크 정상 Gestalt",
+          "headline": "Figma Specs가\n맥락을 계획으로 바꾼다",
+          "body": "Figma Specs는 요구사항과 제약을 디자인 곁에 모아 에이전트 계획을 돕는다.",
+          "mini_headline": "Figma Specs, 에이전트의 재료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "평론가 한 명이 익명의 시트러스 포트폴리오 레이아웃 두 개 중 하나에 동그라미를 친다. Gestalt와 Claude Fable 5.2의 블라인드 투표를 그린 이미지다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "전문 디자이너들 앞에 같은 브리프로 만든 결과물 두 개가 놓였다. 하나는 Claude Fable 5.2, 다른 하나는 Gestalt라는 스텔스 AI 모델의 작품이다. 이름을 모두 가린 일대일 투표에서 디자이너들은 78%의 확률로 Gestalt를 택했다."
+                "x": "팀이 프로토타입에서 프로덕션으로 어느 때보다 빠르게 넘어가면서 글로 쓴 요구사항과 디자인 세부 사항, 엔지니어링 지침이 제각각 다른 문서와 링크로 흩어지기 일쑤다. Specs는 이런 맥락을 캔버스 위에 모아 두는 공유 공간이다. 팀원과 에이전트가 함께 내용을 보탠다. 아래 워크플로에서는 가상의 마켓플레이스 쇼핑 앱 Pickup의 엔지니어가 Specs와 Figma 에이전트로 흩어진 맥락을 모아 코딩 에이전트가 구현할 계획으로 정리한다."
               },
               {
                 "t": "p",
-                "x": "Gestalt는 Contra Labs와 BenchFlow가 만든 Frontier Design Benchmark에서 선두에 섰다. Kingy.ai가 2026년 11월 19일 확인한 점수는 Gestalt가 1,931 Elo로, 1,713인 Fable보다 218점 높았다. 전체에서 가장 근접한 항목은 1,739를 기록한 사람의 참고 작업이었다."
+                "x": "엔지니어는 Hex 커넥터를 추가한 뒤 Pickup이 가장 많이 쓰이는 곳을 찾아 달라고 에이전트에게 요청한다. 에이전트는 도시별 앱 사용량과 주문량을 정리한 스펙을 만들고 상위 네 개 도시를 지도로 보여 주는 코드 레이어도 함께 내놓는다. 팀은 인도(India) Bengaluru에서 출시하기로 한다."
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "디자이너들은 Claude Fable 5.2와 맞붙은 투표에서 78%, 사람의 참고 디자인과 맞붙은 투표에서 28표 중 20표로 Gestalt를 골랐다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "Figma 에이전트가 만든 사용량 보고서와 지도 코드 레이어 네 개로 팀은 출시 후보 도시를 비교한다."
               },
               {
                 "t": "p",
-                "x": "전문 디자이너 서른다섯 명이 다섯 라운드 동안 4,311표를 던졌다. 마켓플레이스 의뢰와 스타트업 프로젝트 여섯 건을 각색한 브리프 27개가 대상이었다. Contra 디자인 루브릭 점수는 Fable 5.2와 Claude Opus 5.5가 100점 만점에 84점, Gestalt가 83점이었다."
+                "x": "엔지니어는 기술 스펙, 주석을 단 디자인 프레임, 인터랙티브 지도 코드 레이어, 새 컴포넌트, 디자인 시스템 가이드를 골라 팀의 build-implementation-plan 스킬을 실행한다. 에이전트는 이 재료를 한데 묶어 코딩 에이전트가 기능을 구현할 때 따를 계획을 새 스펙으로 만든다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "에이전트가 구현 계획을 스펙으로 정리하면 엔지니어가 코딩 에이전트에 넘기기 전에 검토한다."
               },
               {
                 "t": "p",
-                "x": "Contra 공동 창업자 Gajus Kuizinas는 Gestalt를 Contra가 만든 게 아니라고 했고, 보고서에도 개발사는 나오지 않는다. Contra가 Gestalt의 도구·재시도·선별 과정·비용을 충분히 공개하지 않아 우승작이 몇 번 시도 끝에 나왔는지는 알 수 없다."
+                "x": "엔지니어는 에이전트, 디자이너와 댓글로 세부 사항을 다듬은 뒤 스펙 링크를 Codex에 붙여 넣고 “이 기능을 구현해(Implement this feature.)”라고 지시한다. Codex는 Figma의 MCP 덕분에 링크 하나만으로 스펙, 주석 프레임, 코드 레이어, 디자인 시스템 컴포넌트를 모두 읽어 들인다. Specs는 모든 요금제에 오픈 베타로 열려 있고 웹, 데스크톱, 모바일에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "新AIデザイン評価で\nGestaltが首位",
-          "body": "Gestaltは1,931 Elo、票の78%でClaude Fable 5.2を破った。",
-          "mini_headline": "Gestaltがデザイン評価で首位",
+          "headline": "Figma Specsが\n文脈を計画に変える",
+          "body": "Figma Specsは要件と制約をデザインの横に置き、エージェントの計画と実装を助ける。",
+          "mini_headline": "Figma Specsがエージェントを支える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "匿名の柑橘系ポートフォリオのレイアウト二つのうち一つに、批評家が丸をつける。GestaltとClaude Fable 5.2のブラインド投票を表したイメージだ。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "プロのデザイナーの前に、同じブリーフに対する二つの回答が並んだ。一つはClaude Fable 5.2、もう一つはGestaltというステルスAIモデルによるものだ。どちらの名前も伏せた一対一の投票で、デザイナーは78%の割合でGestaltを選んだ。"
+                "x": "チームがかつてない速さでプロトタイプから本番へ進むなか、文章の要件やデザインの詳細、エンジニアリングの指針は別々のドキュメントやリンクに散らばりがちだ。Specsはキャンバス上に文脈をまとめる共有の器で、チームメンバーとエージェントが一緒に書き込める。このワークフローでは、架空のマーケットプレイス型ショッピングアプリPickupのエンジニアが、SpecsとFigmaエージェントを使い、広がった文脈をコーディングエージェントが実装できる計画にまとめる。"
               },
               {
                 "t": "p",
-                "x": "GestaltはContra LabsとBenchFlowによるFrontier Design Benchmarkで首位に立った。Kingy.aiが2026年11月19日に確認した時点で、Gestaltは1,931 Eloで、1,713のFableに218ポイントの差をつけていた。全体で最も近かったのは、1,739の人間による参照作品だった。"
+                "x": "Hexコネクタを追加したエンジニアは、Pickupの利用が最も多い地域を探すようエージェントに指示する。エージェントは都市別のアプリ利用と注文量をまとめたスペックに加え、上位四都市の地図を示すコードレイヤーを作成する。チームはBengaluru, India(インド・ベンガルール)でのローンチを決める。"
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "デザイナーは、Claude Fable 5.2との直接投票では78%で、人間の参照デザインとの投票では28票中20票でGestaltを選んだ。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "Figmaエージェントが利用状況レポートと四つの地図コードレイヤーを作成し、チームがローンチ候補都市を比較できるようにする。"
               },
               {
                 "t": "p",
-                "x": "三十五人のプロのデザイナーが五ラウンドにわたり4,311票を投じた。対象は、マーケットプレイスの案件と六つのスタートアップ案件を翻案した27のブリーフである。Contraのデザイン評価基準では、Fable 5.2とClaude Opus 5.5が100点満点中84点、Gestaltは83点だった。"
+                "x": "エンジニアは技術スペック、注釈付きデザインフレーム、インタラクティブな地図コードレイヤー、新しいコンポーネント、デザインシステムのガイダンスを選び、チームのbuild-implementation-planスキルを実行する。エージェントはこれらの入力を一つの計画にまとめた新しいスペックを作り、コーディングエージェントが機能を実装できるようにする。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "エージェントは実装計画を含むスペックを作成し、エンジニアはそれをコーディングエージェントに渡す前に確認する。"
               },
               {
                 "t": "p",
-                "x": "Contraの共同創業者Gajus Kuizinasは、ContraはGestaltを開発していないと述べ、レポートも開発元を明かしていない。ContraはGestaltのツール、再試行、選別プロセス、コストについて十分に開示しておらず、勝った作品が何回の試行で生まれたのかは分からない。"
+                "x": "エージェントやデザイナーとコメントで細部を詰めた後、エンジニアはスペックのリンクをCodexに貼り付け、「この機能を実装して(Implement this feature.)」と指示する。FigmaのMCPを通じて、Codexはリンク一つでスペック、注釈付きフレーム、コードレイヤー、デザインシステムのコンポーネントを読み取れる。Specsは全プランでオープンベータとして提供され、ウェブ、デスクトップ、モバイルで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gestalt登顶\n新AI设计基准",
-          "body": "Gestalt以1,931 Elo居首，盲投78%胜过Claude Fable 5.2。",
-          "mini_headline": "Gestalt登顶设计基准",
+          "headline": "Figma Specs\n将上下文变为计划",
+          "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
+          "mini_headline": "Figma Specs为智能体供料",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "一位评论者在两份匿名柑橘主题作品集版式中圈出其中一份，示意Gestalt与Claude Fable 5.2之间的盲投。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "专业设计师面前摆着针对同一份设计简报的两份答卷，一份出自Claude Fable 5.2，另一份出自名为Gestalt的隐身AI模型。在两者名称均被隐藏的一对一投票中，设计师有78%选择了Gestalt。"
+                "x": "如今团队从原型走向生产的速度前所未有，书面需求、设计细节和工程指导常常散落在不同的文档和链接里。Specs在画布上提供了一个共享的上下文容器，团队成员和智能体可以一起补充内容。在这个工作流中，虚构的集市购物应用Pickup的一名工程师用Specs和Figma智能体，把繁杂的上下文整理成编码智能体可以据此构建的计划。"
               },
               {
                 "t": "p",
-                "x": "Gestalt在Contra Labs与BenchFlow推出的Frontier Design Benchmark中位居榜首。Kingy.ai于2026年11月19日查看时，Gestalt为1,931 Elo，领先1,713的Fable达218分。整体最接近的是人类参考作品，为1,739。"
+                "x": "添加Hex连接器后，工程师让智能体找出Pickup使用量最高的地方。智能体生成了一份按城市列出应用使用量和订单量的规格，并附上展示前四个城市地图的代码图层。团队决定在Bengaluru, India（印度班加罗尔）上线。"
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "在与Claude Fable 5.2的直接投票中，设计师有78%选择了Gestalt；在与人类参考设计的投票中，28票里有20票选择了Gestalt。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "Figma智能体生成使用情况报告和四个地图代码图层，帮助团队比较潜在的上线城市。"
               },
               {
                 "t": "p",
-                "x": "三十五名专业设计师在五轮中共投出4,311票，涉及27份由平台接单项目和六个初创项目改编的设计简报。在Contra的设计评分标准中，Fable 5.2和Claude Opus 5.5获得84分（满分100），Gestalt得83分。"
+                "x": "工程师选中技术规格、带注释的设计画框、交互式地图代码图层、新组件和设计系统指南，然后运行团队的build-implementation-plan技能。智能体创建一份新规格，把这些输入整合成供编码智能体构建该功能的计划。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "智能体生成一份含实施计划的规格，供工程师在交给编码智能体之前审阅。"
               },
               {
                 "t": "p",
-                "x": "Contra联合创始人Gajus Kuizinas表示，Gestalt并非Contra开发，报告也未透露其开发方。Contra没有充分披露Gestalt的工具、重试次数、筛选流程或成本，因此无法判断获胜作品经过了多少次尝试。"
+                "x": "在评论中与智能体和一位设计师敲定细节后，工程师把规格链接粘贴到Codex并输入提示：“实现这个功能（Implement this feature.）”。借助Figma的MCP，Codex只需一个链接就能读取规格、带注释的画框、代码图层和设计系统组件。Specs已在所有方案中开放公测，可在网页、桌面和移动端使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gestalt encabeza un nuevo\nbenchmark de diseño con AI",
-          "body": "Gestalt lideró el Frontier Design Benchmark con 1,931 Elo y superó a Claude Fable 5.2 en el 78% de los votos a ciegas.",
-          "mini_headline": "Gestalt lidera un benchmark de diseño",
+          "headline": "Specs y el agente de Figma\nconvierten contexto en plan",
+          "body": "Las Specs de Figma mantienen requisitos y restricciones junto al diseño para que su agente planifique y pase al código.",
+          "mini_headline": "Figma Specs alimenta al agente",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "Un crítico marca con un círculo uno de dos diseños anónimos de portafolio con temática cítrica, como ilustración de la votación a ciegas entre Gestalt y Claude Fable 5.2."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Diseñadores profesionales tenían delante dos respuestas al mismo encargo: una de Claude Fable 5.2 y otra de un modelo de AI no anunciado llamado Gestalt. Con ambos nombres ocultos, los diseñadores eligieron a Gestalt en el 78% de sus votos directos."
+                "x": "Ahora que los equipos pasan del prototipo a producción más rápido que nunca, los requisitos escritos, los detalles de diseño y las pautas de ingeniería suelen quedar dispersos en documentos y enlaces separados. Specs ofrece un contenedor compartido para el contexto directamente en el lienzo, donde compañeros y agentes pueden contribuir juntos. En este flujo de trabajo, un ingeniero de Pickup, una app ficticia de compras tipo marketplace, usa Specs y el agente de Figma para convertir un contexto disperso en un plan a partir del cual su agente de código puede construir."
               },
               {
                 "t": "p",
-                "x": "Gestalt ocupó el primer puesto en el Frontier Design Benchmark de Contra Labs y BenchFlow. Cuando Kingy.ai lo consultó el 19 de noviembre de 2026, Gestalt tenía 1,931 Elo, 218 puntos por delante de Fable, con 1,713. La entrada más cercana en general fue el trabajo humano de referencia, con 1,739."
+                "x": "Con el conector de Hex añadido, el ingeniero pide al agente que encuentre dónde tiene Pickup más uso. El agente genera una spec con el uso de la app y el volumen de pedidos por ciudad, además de capas de código con mapas de las cuatro ciudades principales. El equipo decide lanzar en Bengaluru, India."
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "Los diseñadores eligieron a Gestalt en el 78% de los votos directos frente a Claude Fable 5.2 y en 20 de 28 votos frente a diseños humanos de referencia."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "El agente de Figma crea un informe de uso y cuatro capas de código con mapas para ayudar al equipo a comparar posibles ciudades de lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Treinta y cinco diseñadores profesionales emitieron 4,311 votos en cinco rondas sobre 27 encargos adaptados de trabajos de marketplace y seis proyectos de startups. Con la rúbrica de diseño de Contra, Fable 5.2 y Claude Opus 5.5 obtuvieron 84 de 100; Gestalt obtuvo 83."
+                "x": "El ingeniero selecciona la spec técnica, los frames de diseño anotados, la capa de código del mapa interactivo, el nuevo componente y las pautas del sistema de diseño, y luego ejecuta la skill build-implementation-plan del equipo. El agente crea una nueva spec que reúne esas entradas en un plan para que un agente de código construya la función."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "El agente crea una spec con un plan de implementación para que el ingeniero la revise antes de entregarla a un agente de código."
               },
               {
                 "t": "p",
-                "x": "El cofundador de Contra, Gajus Kuizinas, afirma que Contra no creó Gestalt, y el informe no nombra a su creador. Contra no ha revelado lo suficiente sobre las herramientas, los reintentos, el proceso de selección o el costo de Gestalt como para saber cuántos intentos necesitó el trabajo ganador."
+                "x": "Tras ajustar detalles mediante comentarios con el agente y un diseñador, el ingeniero pega el enlace de la spec en Codex y escribe: “Implementa esta función” (Implement this feature.). A través del MCP de Figma, Codex puede leer la spec, los frames anotados, las capas de código y los componentes del sistema de diseño con un solo enlace. Specs está en beta abierta en todos los planes y disponible en web, escritorio y móvil."
               }
             ]
           }
@@ -1315,145 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "새 AI 디자인 벤치마크\n정상에 선 Gestalt",
-          "body": "Gestalt는 1,931 Elo로 선두, 표 78%로 Fable 5.2를 꺾었다.",
-          "mini_headline": "Gestalt, 디자인 벤치마크 정상",
+          "headline": "Figma Specs가\n맥락을 계획으로 바꾼다",
+          "body": "Figma Specs는 요구사항과 제약을 디자인 옆에 둬 에이전트 계획을 돕는다.",
+          "mini_headline": "Figma Specs, 에이전트의 재료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "한 평론가가 익명의 시트러스 포트폴리오 레이아웃 두 개 중 하나에 동그라미를 친다. Gestalt와 Claude Fable 5.2의 블라인드 투표를 표현한 이미지다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "전문 디자이너들 앞에 같은 브리프에 대한 결과물 두 개가 놓였다. 하나는 Claude Fable 5.2가, 다른 하나는 Gestalt라는 스텔스 AI 모델이 만든 것이다. 두 이름을 모두 가린 일대일 투표에서 디자이너들은 78%의 경우 Gestalt를 골랐다."
+                "x": "팀이 프로토타입에서 프로덕션으로 그 어느 때보다 빠르게 넘어가면서, 글로 쓴 요구사항과 디자인 세부 사항, 엔지니어링 지침이 별도의 문서와 링크로 흩어지는 일이 잦다. Specs는 캔버스 위에 맥락을 모아 두는 공유 공간으로, 팀원과 에이전트가 함께 내용을 보탤 수 있다. 이 워크플로에서는 가상의 마켓플레이스 쇼핑 앱 Pickup의 엔지니어가 Specs와 Figma 에이전트를 써서 흩어진 맥락을 코딩 에이전트가 구현할 수 있는 계획으로 정리한다."
               },
               {
                 "t": "p",
-                "x": "Gestalt는 Contra Labs와 BenchFlow가 만든 Frontier Design Benchmark에서 선두에 올랐다. Kingy.ai가 2026년 11월 19일 확인했을 때 Gestalt는 1,931 Elo로, 1,713인 Fable을 218점 앞섰다. 전체에서 가장 가까운 항목은 1,739를 기록한 사람의 참고 작업이었다."
+                "x": "Hex 커넥터를 추가한 엔지니어는 Pickup 사용량이 가장 많은 곳을 찾아 달라고 에이전트에게 요청한다. 에이전트는 도시별 앱 사용량과 주문량을 담은 스펙과 함께, 상위 네 개 도시의 지도를 보여 주는 코드 레이어를 만든다. 팀은 인도(India) Bengaluru에서 출시하기로 결정한다."
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "디자이너들은 Claude Fable 5.2와의 직접 투표에서 78%, 사람의 참고 디자인과의 투표에서는 28표 중 20표로 Gestalt를 택했다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "Figma 에이전트가 사용량 보고서와 지도 코드 레이어 네 개를 만들어, 팀이 출시 후보 도시를 비교하도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "전문 디자이너 서른다섯 명이 다섯 라운드에 걸쳐 4,311표를 던졌다. 대상은 마켓플레이스 의뢰와 스타트업 프로젝트 여섯 건을 각색한 브리프 27개였다. Contra의 디자인 루브릭에서 Fable 5.2와 Claude Opus 5.5는 100점 만점에 84점, Gestalt는 83점을 받았다."
+                "x": "엔지니어는 기술 스펙, 주석을 단 디자인 프레임, 인터랙티브 지도 코드 레이어, 새 컴포넌트, 디자인 시스템 가이드를 선택한 뒤 팀의 build-implementation-plan 스킬을 실행한다. 에이전트는 이 입력을 한데 묶어 코딩 에이전트가 기능을 구현할 계획을 담은 새 스펙을 만든다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "에이전트가 구현 계획을 담은 스펙을 만들고, 엔지니어는 이를 코딩 에이전트에 넘기기 전에 검토한다."
               },
               {
                 "t": "p",
-                "x": "Contra 공동 창업자 Gajus Kuizinas는 Contra가 Gestalt를 만들지 않았다고 말했고, 보고서도 개발사를 밝히지 않았다. Contra는 Gestalt의 도구, 재시도, 선별 과정, 비용을 충분히 공개하지 않아 우승작이 몇 번의 시도 끝에 나왔는지 알 수 없다."
+                "x": "엔지니어는 에이전트, 디자이너와 댓글로 세부 사항을 다듬은 뒤 스펙 링크를 Codex에 붙여 넣고 “이 기능을 구현해(Implement this feature.)”라고 지시한다. Figma의 MCP를 통해 Codex는 링크 하나만으로 스펙, 주석 프레임, 코드 레이어, 디자인 시스템 컴포넌트를 읽을 수 있다. Specs는 모든 요금제에서 오픈 베타로 제공되며 웹, 데스크톱, 모바일에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "新AIデザイン評価で\nGestaltが首位",
-          "body": "Gestaltは1,931 Elo、票の78%でClaude Fable 5.2を破った。",
-          "mini_headline": "Gestaltがデザイン評価で首位",
+          "headline": "Figma Specsが\n文脈を計画に変える",
+          "body": "Figma Specsは要件と制約をデザインの横に置き、エージェントの計画と実装を助ける。",
+          "mini_headline": "Figma Specsがエージェントを支える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "匿名の柑橘系ポートフォリオのレイアウト二つのうち一つに、批評家が丸をつける。GestaltとClaude Fable 5.2のブラインド投票を表したイメージだ。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "プロのデザイナーの前に、同じブリーフに対する二つの回答が並んだ。一つはClaude Fable 5.2、もう一つはGestaltというステルスAIモデルによるものだ。どちらの名前も伏せた一対一の投票で、デザイナーは78%の割合でGestaltを選んだ。"
+                "x": "チームがかつてない速さでプロトタイプから本番へ進むなか、文章の要件やデザインの詳細、エンジニアリングの指針は別々のドキュメントやリンクに散らばりがちだ。Specsはキャンバス上に文脈をまとめる共有の器で、チームメンバーとエージェントが一緒に書き込める。このワークフローでは、架空のマーケットプレイス型ショッピングアプリPickupのエンジニアが、SpecsとFigmaエージェントを使い、広がった文脈をコーディングエージェントが実装できる計画にまとめる。"
               },
               {
                 "t": "p",
-                "x": "GestaltはContra LabsとBenchFlowによるFrontier Design Benchmarkで首位に立った。Kingy.aiが2026年11月19日に確認した時点で、Gestaltは1,931 Eloで、1,713のFableに218ポイントの差をつけていた。全体で最も近かったのは、1,739の人間による参照作品だった。"
+                "x": "Hexコネクタを追加したエンジニアは、Pickupの利用が最も多い地域を探すようエージェントに指示する。エージェントは都市別のアプリ利用と注文量をまとめたスペックに加え、上位四都市の地図を示すコードレイヤーを作成する。チームはBengaluru, India(インド・ベンガルール)でのローンチを決める。"
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "デザイナーは、Claude Fable 5.2との直接投票では78%で、人間の参照デザインとの投票では28票中20票でGestaltを選んだ。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "Figmaエージェントが利用状況レポートと四つの地図コードレイヤーを作成し、チームがローンチ候補都市を比較できるようにする。"
               },
               {
                 "t": "p",
-                "x": "三十五人のプロのデザイナーが五ラウンドにわたり4,311票を投じた。対象は、マーケットプレイスの案件と六つのスタートアップ案件を翻案した27のブリーフである。Contraのデザイン評価基準では、Fable 5.2とClaude Opus 5.5が100点満点中84点、Gestaltは83点だった。"
+                "x": "エンジニアは技術スペック、注釈付きデザインフレーム、インタラクティブな地図コードレイヤー、新しいコンポーネント、デザインシステムのガイダンスを選び、チームのbuild-implementation-planスキルを実行する。エージェントはこれらの入力を一つの計画にまとめた新しいスペックを作り、コーディングエージェントが機能を実装できるようにする。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "エージェントは実装計画を含むスペックを作成し、エンジニアはそれをコーディングエージェントに渡す前に確認する。"
               },
               {
                 "t": "p",
-                "x": "Contraの共同創業者Gajus Kuizinasは、ContraはGestaltを開発していないと述べ、レポートも開発元を明かしていない。ContraはGestaltのツール、再試行、選別プロセス、コストについて十分に開示しておらず、勝った作品が何回の試行で生まれたのかは分からない。"
+                "x": "エージェントやデザイナーとコメントで細部を詰めた後、エンジニアはスペックのリンクをCodexに貼り付け、「この機能を実装して(Implement this feature.)」と指示する。FigmaのMCPを通じて、Codexはリンク一つでスペック、注釈付きフレーム、コードレイヤー、デザインシステムのコンポーネントを読み取れる。Specsは全プランでオープンベータとして提供され、ウェブ、デスクトップ、モバイルで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gestalt登顶\n新AI设计基准",
-          "body": "Gestalt以1,931 Elo居首，盲投78%胜过Claude Fable 5.2。",
-          "mini_headline": "Gestalt登顶设计基准",
+          "headline": "Figma Specs\n将上下文变为计划",
+          "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
+          "mini_headline": "Figma Specs为智能体供料",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "一位评论者在两份匿名柑橘主题作品集版式中圈出其中一份，示意Gestalt与Claude Fable 5.2之间的盲投。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "专业设计师面前摆着针对同一份设计简报的两份答卷，一份出自Claude Fable 5.2，另一份出自名为Gestalt的隐身AI模型。在两者名称均被隐藏的一对一投票中，设计师有78%选择了Gestalt。"
+                "x": "如今团队从原型走向生产的速度前所未有，书面需求、设计细节和工程指导常常散落在不同的文档和链接里。Specs在画布上提供了一个共享的上下文容器，团队成员和智能体可以一起补充内容。在这个工作流中，虚构的集市购物应用Pickup的一名工程师用Specs和Figma智能体，把繁杂的上下文整理成编码智能体可以据此构建的计划。"
               },
               {
                 "t": "p",
-                "x": "Gestalt在Contra Labs与BenchFlow推出的Frontier Design Benchmark中位居榜首。Kingy.ai于2026年11月19日查看时，Gestalt为1,931 Elo，领先1,713的Fable达218分。整体最接近的是人类参考作品，为1,739。"
+                "x": "添加Hex连接器后，工程师让智能体找出Pickup使用量最高的地方。智能体生成了一份按城市列出应用使用量和订单量的规格，并附上展示前四个城市地图的代码图层。团队决定在Bengaluru, India（印度班加罗尔）上线。"
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "在与Claude Fable 5.2的直接投票中，设计师有78%选择了Gestalt；在与人类参考设计的投票中，28票里有20票选择了Gestalt。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "Figma智能体生成使用情况报告和四个地图代码图层，帮助团队比较潜在的上线城市。"
               },
               {
                 "t": "p",
-                "x": "三十五名专业设计师在五轮中共投出4,311票，涉及27份由平台接单项目和六个初创项目改编的设计简报。在Contra的设计评分标准中，Fable 5.2和Claude Opus 5.5获得84分（满分100），Gestalt得83分。"
+                "x": "工程师选中技术规格、带注释的设计画框、交互式地图代码图层、新组件和设计系统指南，然后运行团队的build-implementation-plan技能。智能体创建一份新规格，把这些输入整合成供编码智能体构建该功能的计划。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "智能体生成一份含实施计划的规格，供工程师在交给编码智能体之前审阅。"
               },
               {
                 "t": "p",
-                "x": "Contra联合创始人Gajus Kuizinas表示，Gestalt并非Contra开发，报告也未透露其开发方。Contra没有充分披露Gestalt的工具、重试次数、筛选流程或成本，因此无法判断获胜作品经过了多少次尝试。"
+                "x": "在评论中与智能体和一位设计师敲定细节后，工程师把规格链接粘贴到Codex并输入提示：“实现这个功能（Implement this feature.）”。借助Figma的MCP，Codex只需一个链接就能读取规格、带注释的画框、代码图层和设计系统组件。Specs已在所有方案中开放公测，可在网页、桌面和移动端使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gestalt encabeza un nuevo\nbenchmark de diseño con AI",
-          "body": "Gestalt lideró el Frontier Design Benchmark con 1,931 Elo y superó a Claude Fable 5.2 en el 78% de los votos a ciegas.",
-          "mini_headline": "Gestalt lidera un benchmark de diseño",
+          "headline": "Specs y el agente de Figma\nconvierten contexto en plan",
+          "body": "Las Specs de Figma mantienen requisitos y restricciones junto al diseño para que su agente planifique y pase al código.",
+          "mini_headline": "Figma Specs alimenta al agente",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-                "cap": "Un crítico marca con un círculo uno de dos diseños anónimos de portafolio con temática cítrica, como ilustración de la votación a ciegas entre Gestalt y Claude Fable 5.2."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Diseñadores profesionales tenían delante dos respuestas al mismo encargo: una de Claude Fable 5.2 y otra de un modelo de AI no anunciado llamado Gestalt. Con ambos nombres ocultos, los diseñadores eligieron a Gestalt en el 78% de sus votos directos."
+                "x": "Ahora que los equipos pasan del prototipo a producción más rápido que nunca, los requisitos escritos, los detalles de diseño y las pautas de ingeniería suelen quedar dispersos en documentos y enlaces separados. Specs ofrece un contenedor compartido para el contexto directamente en el lienzo, donde compañeros y agentes pueden contribuir juntos. En este flujo de trabajo, un ingeniero de Pickup, una app ficticia de compras tipo marketplace, usa Specs y el agente de Figma para convertir un contexto disperso en un plan a partir del cual su agente de código puede construir."
               },
               {
                 "t": "p",
-                "x": "Gestalt ocupó el primer puesto en el Frontier Design Benchmark de Contra Labs y BenchFlow. Cuando Kingy.ai lo consultó el 19 de noviembre de 2026, Gestalt tenía 1,931 Elo, 218 puntos por delante de Fable, con 1,713. La entrada más cercana en general fue el trabajo humano de referencia, con 1,739."
+                "x": "Con el conector de Hex añadido, el ingeniero pide al agente que encuentre dónde tiene Pickup más uso. El agente genera una spec con el uso de la app y el volumen de pedidos por ciudad, además de capas de código con mapas de las cuatro ciudades principales. El equipo decide lanzar en Bengaluru, India."
               },
               {
                 "t": "img",
-                "src": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark-chart.png",
-                "cap": "Los diseñadores eligieron a Gestalt en el 78% de los votos directos frente a Claude Fable 5.2 y en 20 de 28 votos frente a diseños humanos de referencia."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+                "cap": "El agente de Figma crea un informe de uso y cuatro capas de código con mapas para ayudar al equipo a comparar posibles ciudades de lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Treinta y cinco diseñadores profesionales emitieron 4,311 votos en cinco rondas sobre 27 encargos adaptados de trabajos de marketplace y seis proyectos de startups. Con la rúbrica de diseño de Contra, Fable 5.2 y Claude Opus 5.5 obtuvieron 84 de 100; Gestalt obtuvo 83."
+                "x": "El ingeniero selecciona la spec técnica, los frames de diseño anotados, la capa de código del mapa interactivo, el nuevo componente y las pautas del sistema de diseño, y luego ejecuta la skill build-implementation-plan del equipo. El agente crea una nueva spec que reúne esas entradas en un plan para que un agente de código construya la función."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+                "cap": "El agente crea una spec con un plan de implementación para que el ingeniero la revise antes de entregarla a un agente de código."
               },
               {
                 "t": "p",
-                "x": "El cofundador de Contra, Gajus Kuizinas, afirma que Contra no creó Gestalt, y el informe no nombra a su creador. Contra no ha revelado lo suficiente sobre las herramientas, los reintentos, el proceso de selección o el costo de Gestalt como para saber cuántos intentos necesitó el trabajo ganador."
+                "x": "Tras ajustar detalles mediante comentarios con el agente y un diseñador, el ingeniero pega el enlace de la spec en Codex y escribe: “Implementa esta función” (Implement this feature.). A través del MCP de Figma, Codex puede leer la spec, los frames anotados, las capas de código y los componentes del sistema de diseño con un solo enlace. Specs está en beta abierta en todos los planes y disponible en web, escritorio y móvil."
               }
             ]
           }
@@ -1461,177 +415,117 @@
       }
     },
     {
-      "id": "uxcollective-sparkle-audit",
+      "id": "claude-mobile-tabbar",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "반짝이 아이콘으로\nAI 목업 검수하기",
-      "body": "AI 반짝이로 PM의 AI-generated 목업을 빨리 검수하자는 제안이다.",
-      "mini_headline": "반짝이로 AI 목업 검수",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
-      "accent": "#3b6bff",
+      "headline": "Claude 모바일 앱에\n하단 탭바가 생겼다",
+      "body": "ChatGPT에 이어 Anthropic의 Claude 앱도 하단 탭바를 달았다.",
+      "mini_headline": "Claude에 탭 바",
+      "tool": "AI Workflow",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
+      "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-            "cap": "Google 이미지에서 “sparkle AI icon”을 검색한 결과."
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
           },
           {
             "t": "p",
-            "x": "PM의 AI-generated 목업을 몇 시간씩 붙잡지 않고 해독하는 방법이다. 반짝이 버튼은 금세 보편적인 디자인 패턴이 됐다. 지금 우리 작업에서는 훨씬 더 폭넓게 쓸 수 있다. 이 아이콘은 십여 년 넘게 사실상 “이 부분은 기계가 대신 해줬다”는 뜻이었다. mid-2010s 이후 그 흐름을 이끈 건 Google이다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-            "cap": "Google 반짝이 버튼의 역사(2020년~2026년)"
-          },
-          {
-            "t": "p",
-            "x": "AI-generated 콘텐츠를 어떻게 보든 쓸모 있는 일이 하나 있다. AI가 어디에 있는지 알려준다는 것이다. 핸드오프에서 이게 필요한 디자이너는 더 많다. PM(또는 임원)이 프롬프트 몇 번으로 만든 목업을 넘겨받지만 어디가 결정이고 어디를 AI가 채웠는지 보여주는 단서는 몇 개 없다. AI-generated 부분을 강조할 수 있다면 무엇을 따지고 무엇을 남길지 정확히 알 수 있다. 그러지 못하면 PM은 두 시간을 아꼈을지 몰라도 당신은 그 목업을 해독하느라 다섯 시간을 쓴다."
+            "x": "이번 개편으로 chat, Projects, Code, Artifacts 탭을 담은 하단 바가 생겼다. Anthropic의 Daniel Destefanis는 X 게시물에서 새 디자인이 배포되기 시작했다고 알렸다. OpenAI가 하단 탭 바를 넣은 ChatGPT 앱 개편을 발표한 지 하루 만이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sparkles as a marker for\nauditing AI mockups",
-          "body": "The piece proposes using the familiar AI sparkle as a marker to audit a PM's AI-generated mockup without losing hours.",
-          "mini_headline": "Sparkles for AI mockup audits",
+          "headline": "Claude's mobile app moves\nto a bottom tab bar",
+          "body": "Anthropic's Claude app puts chat, Projects, Code and Artifacts in a bottom tab bar, echoing ChatGPT's redesign.",
+          "mini_headline": "Claude gets a tab bar",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "A Google Image search for “sparkle AI icon.”"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "How to decipher your PM’s AI-generated mockup without losing hours. The sparkle button quickly became a universal design pattern. And we could use it a lot more in our work today. For over a decade, the icon has essentially meant “the machine did this part for you,” with Google leading the charge since the mid-2010s."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "Google’s history of the sparkle button, 2020 to 2026"
-              },
-              {
-                "t": "p",
-                "x": "However you feel about AI-generated content, it does one useful job: it tells you where the AI is. More designers need that in handoffs: you’re handed a mockup a PM (or executive) generated in a few prompts, but only a few hints show which parts were decisions and which the AI filled in. If you could highlight the AI-generated parts, you’d know exactly what to question and what to keep. Instead, your PM might have saved two hours, but you’ll spend five trying to decipher the mockup."
+                "x": "The refresh adds a bottom bar with tabs for chat, Projects, Code, and Artifacts. Anthropic’s Daniel Destefanis said in a post on X the design refresh has started rolling out, just a day after OpenAI announced a ChatGPT app redesign that also includes a bottom tab bar."
               }
             ]
           }
         },
         "ko": {
-          "headline": "반짝이 아이콘으로\nAI 목업 검수하기",
-          "body": "AI 반짝이로 PM의 AI-generated 목업을 빨리 검수하자는 제안이다.",
-          "mini_headline": "반짝이로 AI 목업 검수",
+          "headline": "Claude 모바일 앱에\n하단 탭바가 생겼다",
+          "body": "ChatGPT에 이어 Anthropic의 Claude 앱도 하단 탭바를 달았다.",
+          "mini_headline": "Claude에 탭 바",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "Google 이미지에서 “sparkle AI icon”을 검색한 결과."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "PM의 AI-generated 목업을 몇 시간씩 붙잡지 않고 해독하는 방법이다. 반짝이 버튼은 금세 보편적인 디자인 패턴이 됐다. 지금 우리 작업에서는 훨씬 더 폭넓게 쓸 수 있다. 이 아이콘은 십여 년 넘게 사실상 “이 부분은 기계가 대신 해줬다”는 뜻이었다. mid-2010s 이후 그 흐름을 이끈 건 Google이다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "Google 반짝이 버튼의 역사(2020년~2026년)"
-              },
-              {
-                "t": "p",
-                "x": "AI-generated 콘텐츠를 어떻게 보든 쓸모 있는 일이 하나 있다. AI가 어디에 있는지 알려준다는 것이다. 핸드오프에서 이게 필요한 디자이너는 더 많다. PM(또는 임원)이 프롬프트 몇 번으로 만든 목업을 넘겨받지만 어디가 결정이고 어디를 AI가 채웠는지 보여주는 단서는 몇 개 없다. AI-generated 부분을 강조할 수 있다면 무엇을 따지고 무엇을 남길지 정확히 알 수 있다. 그러지 못하면 PM은 두 시간을 아꼈을지 몰라도 당신은 그 목업을 해독하느라 다섯 시간을 쓴다."
+                "x": "이번 개편으로 chat, Projects, Code, Artifacts 탭을 담은 하단 바가 생겼다. Anthropic의 Daniel Destefanis는 X 게시물에서 새 디자인이 배포되기 시작했다고 알렸다. OpenAI가 하단 탭 바를 넣은 ChatGPT 앱 개편을 발표한 지 하루 만이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIモックアップ監査の\n目印にスパークルを",
-          "body": "AIスパークルを目印に、PMのAI-generatedモックを手早く点検する提案だ。",
-          "mini_headline": "AIモック監査にスパークルを",
+          "headline": "Claudeのモバイルアプリ\n下部タブバーに移行",
+          "body": "AnthropicのClaudeアプリはChatGPTに倣い下部タブバーを導入した。",
+          "mini_headline": "Claudeにタブバー",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "Google画像で「sparkle AI icon」を検索した結果。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "PMのAI-generatedモックアップを、何時間も費やさずに読み解く方法である。スパークルボタンはあっという間に普遍的なデザインパターンになった。そして今日の仕事で、もっと活用できるはずだ。十年以上にわたり、このアイコンは事実上「この部分は機械がやってくれた」を意味してきた。その流れを mid-2010s から主導してきたのがGoogleだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "Googleにおけるスパークルボタンの歴史、2020年から2026年まで"
-              },
-              {
-                "t": "p",
-                "x": "AI-generatedコンテンツをどう思うにせよ、それは一つ役に立つ仕事をする。AIがどこにあるかを教えてくれるのだ。ハンドオフでそれを必要とするデザイナーは多い。PM(あるいは経営陣)がいくつかのプロンプトで生成したモックアップを渡されても、どこが判断の結果で、どこをAIが埋めたのかを示す手がかりはわずかしかない。AI-generatedの部分を強調できれば、何を問い、何を残すべきかが正確にわかる。そうでなければ、PMは二時間を節約したかもしれないが、あなたはそのモックアップを読み解くのに五時間を費やすことになる。"
+                "x": "今回の刷新では、chat、Projects、Code、Artifactsのタブを備えた下部バーが加わった。AnthropicのDaniel DestefanisはXへの投稿で、デザイン刷新の展開が始まったと明らかにした。OpenAIが同じく下部タブバーを含むChatGPTアプリの刷新を発表した、わずか一日後のことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用AI闪光图标\n审查AI生成的样稿",
-          "body": "文章建议以常见的AI闪光图标为标记，快速审查PM的AI-generated样稿。",
-          "mini_headline": "用闪光图标审查AI样稿",
+          "headline": "Claude移动应用\n改用底部标签栏",
+          "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
+          "mini_headline": "Claude启用标签栏",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "在Google图片中搜索“sparkle AI icon”的结果。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "如何在不耗费数小时的情况下读懂PM的AI-generated样稿。闪光按钮很快成为一种通用的设计模式，而我们如今的工作还可以更多地利用它。十多年来，这个图标基本上意味着“这部分由机器替你完成”，而Google自 mid-2010s 起一直引领这一潮流。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "Google闪光按钮的历史，2020年至2026年"
-              },
-              {
-                "t": "p",
-                "x": "无论你如何看待AI-generated内容，它都做了一件有用的事：告诉你AI在哪里。更多设计师在交接时需要这一点：你拿到一份PM(或高管)用几条提示词生成的样稿，却只有少数线索能说明哪些部分是决策，哪些是AI填充的。如果能把AI-generated的部分标出来，你就能确切知道该质疑什么、保留什么。否则，你的PM也许省下了两个小时，你却要花五个小时去读懂这份样稿。"
+                "x": "此次改版新增了底部栏，包含chat、Projects、Code和Artifacts标签。Anthropic的Daniel Destefanis在X上发帖称，这次设计改版已开始推送，而就在一天前，OpenAI刚刚宣布ChatGPT应用改版，同样加入了底部标签栏。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El destello de AI como marca\npara auditar maquetas con AI",
-          "body": "El texto propone usar el destello de AI como marca para auditar sin perder horas la maqueta AI-generated de un PM.",
-          "mini_headline": "Destellos para auditar maquetas de AI",
+          "headline": "La app móvil de Claude adopta\nuna barra de pestañas inferior",
+          "body": "La app Claude de Anthropic reúne chat, Projects, Code y Artifacts en una barra inferior, como el rediseño de ChatGPT.",
+          "mini_headline": "Claude estrena barra de pestañas",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "Una búsqueda en Google Imágenes de “sparkle AI icon”."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Cómo descifrar la maqueta AI-generated de tu PM sin perder horas. El botón del destello se convirtió rápidamente en un patrón de diseño universal. Y hoy podríamos usarlo mucho más en nuestro trabajo. Durante más de una década, el icono ha significado en esencia “la máquina hizo esta parte por ti”, con Google a la cabeza desde mid-2010s."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "La historia del botón del destello en Google, de 2020 a 2026"
-              },
-              {
-                "t": "p",
-                "x": "Opines lo que opines del contenido AI-generated, cumple una función útil: te dice dónde está la AI. Más diseñadores necesitan eso en los traspasos: recibes una maqueta que un PM (o un directivo) generó con unos pocos prompts, pero solo unas pocas pistas muestran qué partes fueron decisiones y cuáles rellenó la AI. Si pudieras resaltar las partes AI-generated, sabrías exactamente qué cuestionar y qué conservar. En cambio, tu PM quizá se ahorró dos horas, pero tú pasarás cinco intentando descifrar la maqueta."
+                "x": "La actualización añade una barra inferior con pestañas para chat, Projects, Code y Artifacts. Daniel Destefanis, de Anthropic, dijo en una publicación en X que el rediseño ha empezado a desplegarse, apenas un día después de que OpenAI anunciara un rediseño de la app de ChatGPT que también incluye una barra de pestañas inferior."
               }
             ]
           }
@@ -1639,113 +533,1169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 목업 검수의\n표식이 된 반짝이",
-          "body": "AI 반짝이로 PM의 AI-generated 목업을 빠르게 검수하자는 제안이다.",
-          "mini_headline": "AI 목업 검수용 반짝이 표식",
+          "headline": "Claude 모바일 앱\n하단 탭바 도입",
+          "body": "Anthropic의 Claude 앱이 ChatGPT에 이어 하단 탭바를 도입했다.",
+          "mini_headline": "Claude에 탭 바",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "Google 이미지에서 “sparkle AI icon”을 검색한 결과."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "PM의 AI-generated 목업을 몇 시간씩 허비하지 않고 해독하는 방법이다. 반짝이 버튼은 빠르게 보편적인 디자인 패턴이 됐다. 그리고 오늘날 우리 작업에서 훨씬 더 많이 활용할 수 있다. 십여 년 넘게 이 아이콘은 사실상 “이 부분은 기계가 대신 해줬다”는 뜻이었고, mid-2010s 이후 Google이 그 흐름을 이끌었다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "Google 반짝이 버튼의 역사, 2020년부터 2026년까지"
-              },
-              {
-                "t": "p",
-                "x": "AI-generated 콘텐츠를 어떻게 보든, 그것은 한 가지 쓸모 있는 일을 한다. AI가 어디에 있는지 알려준다는 점이다. 핸드오프에서 이것이 필요한 디자이너는 더 많다. PM(또는 임원)이 프롬프트 몇 번으로 만든 목업을 넘겨받지만, 어느 부분이 결정이고 어느 부분을 AI가 채웠는지 보여주는 단서는 몇 개뿐이다. AI-generated 부분을 강조할 수 있다면 무엇을 따지고 무엇을 남길지 정확히 알 수 있다. 그렇지 않으면 PM은 두 시간을 아꼈을지 몰라도, 당신은 그 목업을 해독하느라 다섯 시간을 쓰게 된다."
+                "x": "이번 개편으로 chat, Projects, Code, Artifacts 탭이 있는 하단 바가 추가됐다. Anthropic의 Daniel Destefanis는 X 게시물에서 디자인 개편이 배포되기 시작했다고 밝혔다. OpenAI가 역시 하단 탭 바를 넣은 ChatGPT 앱 개편을 발표한 지 불과 하루 만이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIモックアップ監査の\n目印にスパークルを",
-          "body": "AIスパークルを目印に、PMのAI-generatedモックを手早く点検する提案だ。",
-          "mini_headline": "AIモック監査にスパークルを",
+          "headline": "Claudeのモバイルアプリ\n下部タブバーに移行",
+          "body": "AnthropicのClaudeアプリはChatGPTに倣い下部タブバーを導入した。",
+          "mini_headline": "Claudeにタブバー",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "Google画像で「sparkle AI icon」を検索した結果。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "PMのAI-generatedモックアップを、何時間も費やさずに読み解く方法である。スパークルボタンはあっという間に普遍的なデザインパターンになった。そして今日の仕事で、もっと活用できるはずだ。十年以上にわたり、このアイコンは事実上「この部分は機械がやってくれた」を意味してきた。その流れを mid-2010s から主導してきたのがGoogleだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "Googleにおけるスパークルボタンの歴史、2020年から2026年まで"
-              },
-              {
-                "t": "p",
-                "x": "AI-generatedコンテンツをどう思うにせよ、それは一つ役に立つ仕事をする。AIがどこにあるかを教えてくれるのだ。ハンドオフでそれを必要とするデザイナーは多い。PM(あるいは経営陣)がいくつかのプロンプトで生成したモックアップを渡されても、どこが判断の結果で、どこをAIが埋めたのかを示す手がかりはわずかしかない。AI-generatedの部分を強調できれば、何を問い、何を残すべきかが正確にわかる。そうでなければ、PMは二時間を節約したかもしれないが、あなたはそのモックアップを読み解くのに五時間を費やすことになる。"
+                "x": "今回の刷新では、chat、Projects、Code、Artifactsのタブを備えた下部バーが加わった。AnthropicのDaniel DestefanisはXへの投稿で、デザイン刷新の展開が始まったと明らかにした。OpenAIが同じく下部タブバーを含むChatGPTアプリの刷新を発表した、わずか一日後のことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用AI闪光图标\n审查AI生成的样稿",
-          "body": "文章建议以常见的AI闪光图标为标记，快速审查PM的AI-generated样稿。",
-          "mini_headline": "用闪光图标审查AI样稿",
+          "headline": "Claude移动应用\n改用底部标签栏",
+          "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
+          "mini_headline": "Claude启用标签栏",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "在Google图片中搜索“sparkle AI icon”的结果。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "如何在不耗费数小时的情况下读懂PM的AI-generated样稿。闪光按钮很快成为一种通用的设计模式，而我们如今的工作还可以更多地利用它。十多年来，这个图标基本上意味着“这部分由机器替你完成”，而Google自 mid-2010s 起一直引领这一潮流。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "Google闪光按钮的历史，2020年至2026年"
-              },
-              {
-                "t": "p",
-                "x": "无论你如何看待AI-generated内容，它都做了一件有用的事：告诉你AI在哪里。更多设计师在交接时需要这一点：你拿到一份PM(或高管)用几条提示词生成的样稿，却只有少数线索能说明哪些部分是决策，哪些是AI填充的。如果能把AI-generated的部分标出来，你就能确切知道该质疑什么、保留什么。否则，你的PM也许省下了两个小时，你却要花五个小时去读懂这份样稿。"
+                "x": "此次改版新增了底部栏，包含chat、Projects、Code和Artifacts标签。Anthropic的Daniel Destefanis在X上发帖称，这次设计改版已开始推送，而就在一天前，OpenAI刚刚宣布ChatGPT应用改版，同样加入了底部标签栏。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El destello de AI como marca\npara auditar maquetas con AI",
-          "body": "El texto propone usar el destello de AI como marca para auditar sin perder horas la maqueta AI-generated de un PM.",
-          "mini_headline": "Destellos para auditar maquetas de AI",
+          "headline": "La app móvil de Claude adopta\nuna barra de pestañas inferior",
+          "body": "La app Claude de Anthropic reúne chat, Projects, Code y Artifacts en una barra inferior, como el rediseño de ChatGPT.",
+          "mini_headline": "Claude estrena barra de pestañas",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+              },
+              {
+                "t": "p",
+                "x": "La actualización añade una barra inferior con pestañas para chat, Projects, Code y Artifacts. Daniel Destefanis, de Anthropic, dijo en una publicación en X que el rediseño ha empezado a desplegarse, apenas un día después de que OpenAI anunciara un rediseño de la app de ChatGPT que también incluye una barra de pestañas inferior."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ava-studio-launch-videos",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "에이바, 인기 출시 영상\n컷을 내 화면으로",
+      "body": "에이바 스튜디오는 인기 출시 영상의 컷 구성을 내 제품 화면으로 재현한다.",
+      "mini_headline": "출시 영상 컷 재현",
+      "tool": "AI Workflow",
+      "source": "Design Compass (디자인 나침반)",
+      "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+          },
+          {
+            "t": "p",
+            "x": "에이바 스튜디오가 11월 17일 제품 출시 영상 제작 기능 ‘Launch Videos’를 공개했습니다. 엑스에서 주목받은 출시 영상의 장면 순서와 컷 길이, 카메라 움직임을 분석해 사용자의 제품 화면으로 영상을 만드는 도구입니다. 클로드 코드와 코덱스에서 플러그인으로 사용할 수 있습니다."
+          },
+          {
+            "t": "p",
+            "x": "사용자가 제품 웹사이트 주소와 원하는 영상 길이, 화면 비율을 알려주면 에이전트가 참고 영상을 찾아줍니다. 제품 화면을 처음 공개하는 장면이나 세로형 스마트폰 시연처럼 영상 구성에 따라 참고작을 고를 수 있습니다."
+          },
+          {
+            "t": "p",
+            "x": "참고작을 고르면 에이전트가 실제 제품 페이지를 캡처하고 사용자의 로고와 색상, 서체를 적용해 장면을 구성합니다. 공식 데모에서는 ‘퍼플렉시티 컴퓨터’ 출시 영상의 컷과 카메라 움직임을 가져와 ‘Router’의 화면을 소개하는 14초 영상을 만들었습니다. 원본과 결과물을 같은 시점에서 나란히 재생할 수 있어, 제품 화면이 언제 등장하고 어디서 확대되는지 비교할 수 있습니다."
+          },
+          {
+            "t": "p",
+            "x": "영상은 맥이나 리눅스 컴퓨터에서 렌더링하며 편집 가능한 하이퍼프레임스 프로젝트로 저장됩니다. 첫 결과를 본 뒤 제목 문구를 바꾸거나 특정 장면을 더 길게 보여달라고 요청해 다시 렌더링할 수 있습니다. 참고 영상 검색과 열람은 무료이며, 편집에 맞춰 음악을 생성하면 에이바 크레딧이 차감됩니다."
+          },
+          {
+            "t": "video",
+            "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+          },
+          {
+            "t": "p",
+            "x": "퍼플렉시티 컴퓨터 출시 영상과 Router 리메이크"
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "에이바, 인기 출시 영상\n컷을 내 화면으로",
+          "body": "에이바 스튜디오는 인기 출시 영상의 컷 구성을 내 제품 화면으로 재현한다.",
+          "mini_headline": "출시 영상 컷 재현",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "에이바 스튜디오가 11월 17일 제품 출시 영상 제작 기능 ‘Launch Videos’를 공개했습니다. 엑스에서 주목받은 출시 영상의 장면 순서와 컷 길이, 카메라 움직임을 분석해 사용자의 제품 화면으로 영상을 만드는 도구입니다. 클로드 코드와 코덱스에서 플러그인으로 사용할 수 있습니다."
+              },
+              {
+                "t": "p",
+                "x": "사용자가 제품 웹사이트 주소와 원하는 영상 길이, 화면 비율을 알려주면 에이전트가 참고 영상을 찾아줍니다. 제품 화면을 처음 공개하는 장면이나 세로형 스마트폰 시연처럼 영상 구성에 따라 참고작을 고를 수 있습니다."
+              },
+              {
+                "t": "p",
+                "x": "참고작을 고르면 에이전트가 실제 제품 페이지를 캡처하고 사용자의 로고와 색상, 서체를 적용해 장면을 구성합니다. 공식 데모에서는 ‘퍼플렉시티 컴퓨터’ 출시 영상의 컷과 카메라 움직임을 가져와 ‘Router’의 화면을 소개하는 14초 영상을 만들었습니다. 원본과 결과물을 같은 시점에서 나란히 재생할 수 있어, 제품 화면이 언제 등장하고 어디서 확대되는지 비교할 수 있습니다."
+              },
+              {
+                "t": "p",
+                "x": "영상은 맥이나 리눅스 컴퓨터에서 렌더링하며 편집 가능한 하이퍼프레임스 프로젝트로 저장됩니다. 첫 결과를 본 뒤 제목 문구를 바꾸거나 특정 장면을 더 길게 보여달라고 요청해 다시 렌더링할 수 있습니다. 참고 영상 검색과 열람은 무료이며, 편집에 맞춰 음악을 생성하면 에이바 크레딧이 차감됩니다."
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "퍼플렉시티 컴퓨터 출시 영상과 Router 리메이크"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Ava Studio remakes hit launch\nvideo cuts with your screens",
+          "body": "Ava Studio recreates the cut structure of popular launch videos using screens from your own product.",
+          "mini_headline": "Launch video cuts, recreated",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "On November 17, Ava Studio unveiled ‘Launch Videos’, a feature for making product launch videos. The tool analyzes the scene order, cut lengths and camera movement of launch videos that drew attention on X, then builds a video from the user's own product screens. It can be used as a plugin in Claude Code and Codex."
+              },
+              {
+                "t": "p",
+                "x": "When the user provides the product website address, the desired video length and the aspect ratio, the agent finds reference videos. References can be chosen by video structure, such as a scene that first reveals the product screen or a vertical smartphone demo."
+              },
+              {
+                "t": "p",
+                "x": "Once a reference is chosen, the agent captures the actual product pages and builds the scenes with the user's logo, colors and typefaces. In the official demo, it took the cuts and camera movement from the ‘Perplexity Computer’ launch video to make a 14-second video introducing the screens of ‘Router’. The original and the result can be played side by side at the same point in time, so users can compare when the product screen appears and where it zooms in."
+              },
+              {
+                "t": "p",
+                "x": "Videos are rendered on a Mac or Linux computer and saved as editable HyperFrames projects. After seeing the first result, users can ask to change the title text or show a specific scene for longer, then render again. Searching and viewing reference videos is free, while generating music to fit the edit deducts Ava credits."
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "The Perplexity Computer launch video and the Router remake"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ava、人気ローンチ動画の\nカットを自分の画面で",
+          "body": "Ava Studioは人気のローンチ動画のカット構成を自社製品の画面で再現する。",
+          "mini_headline": "ローンチ動画のカットを再現",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ava Studioは11月17日、製品ローンチ動画の制作機能‘Launch Videos’を公開した。Xで注目を集めたローンチ動画のシーン順、カットの長さ、カメラの動きを分析し、ユーザーの製品画面で動画を作るツールだ。Claude CodeとCodexでプラグインとして使える。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーが製品のウェブサイトのアドレスと希望する動画の長さ、画面比率を伝えると、エージェントが参考動画を探してくれる。製品画面を初めて見せるシーンや縦型スマートフォンでのデモなど、動画の構成に応じて参考作を選べる。"
+              },
+              {
+                "t": "p",
+                "x": "参考作を選ぶと、エージェントが実際の製品ページをキャプチャし、ユーザーのロゴや色、書体を適用してシーンを組み立てる。公式デモでは‘Perplexity Computer’のローンチ動画のカットとカメラの動きを取り入れ、‘Router’の画面を紹介する14秒の動画を作った。元動画と結果を同じタイミングで並べて再生でき、製品画面がいつ現れ、どこで拡大されるかを比較できる。"
+              },
+              {
+                "t": "p",
+                "x": "動画はMacまたはLinuxのコンピューターでレンダリングされ、編集可能なHyperFramesプロジェクトとして保存される。最初の結果を見た後、タイトルの文言を変えたり特定のシーンを長く見せたりするよう依頼して、再レンダリングできる。参考動画の検索と閲覧は無料で、編集に合わせて音楽を生成するとAvaのクレジットが消費される。"
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity Computerのローンチ動画とRouterのリメイク"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ava把热门发布视频\n剪辑搬到你的画面",
+          "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
+          "mini_headline": "重现发布视频剪辑",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ava Studio于11月17日发布了产品发布视频制作功能‘Launch Videos’。这款工具会分析在X上走红的发布视频的场景顺序、镜头时长和运镜，再用用户自己的产品画面生成视频。它可以作为插件在Claude Code和Codex中使用。"
+              },
+              {
+                "t": "p",
+                "x": "用户提供产品网站地址、想要的视频时长和画面比例后，智能体会帮忙寻找参考视频。用户可以按视频结构挑选参考作品，例如首次展示产品画面的场景，或竖屏手机演示。"
+              },
+              {
+                "t": "p",
+                "x": "选定参考作品后，智能体会截取真实的产品页面，并套用用户的标志、颜色和字体来搭建场景。在官方演示中，它借用‘Perplexity Computer’发布视频的剪辑和运镜，制作了一段介绍‘Router’画面的14秒视频。原片和成品可以在同一时间点并排播放，便于比较产品画面何时出现、在哪里放大。"
+              },
+              {
+                "t": "p",
+                "x": "视频在Mac或Linux电脑上渲染，并保存为可编辑的HyperFrames项目。看过初版后，用户可以要求修改标题文字或延长某个场景，再重新渲染。参考视频的搜索和浏览免费，按剪辑生成音乐则会扣除Ava积分。"
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity Computer发布视频与Router翻拍"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ava Studio recrea cortes de\nvideos de lanzamiento famosos",
+          "body": "Ava Studio reproduce la estructura de cortes de videos de lanzamiento populares con pantallas del propio producto.",
+          "mini_headline": "Cortes de lanzamientos, recreados",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ava Studio presentó el 17 de noviembre ‘Launch Videos’, una función para crear videos de lanzamiento de productos. La herramienta analiza el orden de escenas, la duración de los cortes y los movimientos de cámara de videos de lanzamiento que llamaron la atención en X, y genera un video con las pantallas del producto del usuario. Puede usarse como plugin en Claude Code y Codex."
+              },
+              {
+                "t": "p",
+                "x": "Cuando el usuario indica la dirección web del producto, la duración deseada del video y la relación de aspecto, el agente busca videos de referencia. Se pueden elegir referencias según la estructura del video, como una escena que revela por primera vez la pantalla del producto o una demostración vertical en un teléfono inteligente."
+              },
+              {
+                "t": "p",
+                "x": "Tras elegir una referencia, el agente captura las páginas reales del producto y arma las escenas con el logotipo, los colores y las tipografías del usuario. En la demostración oficial, tomó los cortes y los movimientos de cámara del video de lanzamiento de ‘Perplexity Computer’ para crear un video de 14 segundos que presenta las pantallas de ‘Router’. El original y el resultado pueden reproducirse lado a lado en el mismo punto, lo que permite comparar cuándo aparece la pantalla del producto y dónde se amplía."
+              },
+              {
+                "t": "p",
+                "x": "Los videos se renderizan en un equipo Mac o Linux y se guardan como proyectos editables de HyperFrames. Tras ver el primer resultado, se puede pedir que cambie el texto del título o que una escena se muestre durante más tiempo, y volver a renderizar. Buscar y ver videos de referencia es gratis; generar música ajustada a la edición descuenta créditos de Ava."
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Video de lanzamiento de Perplexity Computer y la nueva versión con Router"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Ava Studio remakes hit launch\nvideo cuts with your screens",
+          "body": "Ava Studio recreates the cut structure of popular launch videos using screens from your own product.",
+          "mini_headline": "Launch video cuts, recreated",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "On November 17, Ava Studio unveiled ‘Launch Videos’, a feature for making product launch videos. The tool analyzes the scene order, cut lengths and camera movement of launch videos that drew attention on X, then builds a video from the user's own product screens. It can be used as a plugin in Claude Code and Codex."
+              },
+              {
+                "t": "p",
+                "x": "When the user provides the product website address, the desired video length and the aspect ratio, the agent finds reference videos. References can be chosen by video structure, such as a scene that first reveals the product screen or a vertical smartphone demo."
+              },
+              {
+                "t": "p",
+                "x": "Once a reference is chosen, the agent captures the actual product pages and builds the scenes with the user's logo, colors and typefaces. In the official demo, it took the cuts and camera movement from the ‘Perplexity Computer’ launch video to make a 14-second video introducing the screens of ‘Router’. The original and the result can be played side by side at the same point in time, so users can compare when the product screen appears and where it zooms in."
+              },
+              {
+                "t": "p",
+                "x": "Videos are rendered on a Mac or Linux computer and saved as editable HyperFrames projects. After seeing the first result, users can ask to change the title text or show a specific scene for longer, then render again. Searching and viewing reference videos is free, while generating music to fit the edit deducts Ava credits."
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "The Perplexity Computer launch video and the Router remake"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ava、人気ローンチ動画の\nカットを自分の画面で",
+          "body": "Ava Studioは人気のローンチ動画のカット構成を自社製品の画面で再現する。",
+          "mini_headline": "ローンチ動画のカットを再現",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ava Studioは11月17日、製品ローンチ動画の制作機能‘Launch Videos’を公開した。Xで注目を集めたローンチ動画のシーン順、カットの長さ、カメラの動きを分析し、ユーザーの製品画面で動画を作るツールだ。Claude CodeとCodexでプラグインとして使える。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーが製品のウェブサイトのアドレスと希望する動画の長さ、画面比率を伝えると、エージェントが参考動画を探してくれる。製品画面を初めて見せるシーンや縦型スマートフォンでのデモなど、動画の構成に応じて参考作を選べる。"
+              },
+              {
+                "t": "p",
+                "x": "参考作を選ぶと、エージェントが実際の製品ページをキャプチャし、ユーザーのロゴや色、書体を適用してシーンを組み立てる。公式デモでは‘Perplexity Computer’のローンチ動画のカットとカメラの動きを取り入れ、‘Router’の画面を紹介する14秒の動画を作った。元動画と結果を同じタイミングで並べて再生でき、製品画面がいつ現れ、どこで拡大されるかを比較できる。"
+              },
+              {
+                "t": "p",
+                "x": "動画はMacまたはLinuxのコンピューターでレンダリングされ、編集可能なHyperFramesプロジェクトとして保存される。最初の結果を見た後、タイトルの文言を変えたり特定のシーンを長く見せたりするよう依頼して、再レンダリングできる。参考動画の検索と閲覧は無料で、編集に合わせて音楽を生成するとAvaのクレジットが消費される。"
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity Computerのローンチ動画とRouterのリメイク"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ava把热门发布视频\n剪辑搬到你的画面",
+          "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
+          "mini_headline": "重现发布视频剪辑",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ava Studio于11月17日发布了产品发布视频制作功能‘Launch Videos’。这款工具会分析在X上走红的发布视频的场景顺序、镜头时长和运镜，再用用户自己的产品画面生成视频。它可以作为插件在Claude Code和Codex中使用。"
+              },
+              {
+                "t": "p",
+                "x": "用户提供产品网站地址、想要的视频时长和画面比例后，智能体会帮忙寻找参考视频。用户可以按视频结构挑选参考作品，例如首次展示产品画面的场景，或竖屏手机演示。"
+              },
+              {
+                "t": "p",
+                "x": "选定参考作品后，智能体会截取真实的产品页面，并套用用户的标志、颜色和字体来搭建场景。在官方演示中，它借用‘Perplexity Computer’发布视频的剪辑和运镜，制作了一段介绍‘Router’画面的14秒视频。原片和成品可以在同一时间点并排播放，便于比较产品画面何时出现、在哪里放大。"
+              },
+              {
+                "t": "p",
+                "x": "视频在Mac或Linux电脑上渲染，并保存为可编辑的HyperFrames项目。看过初版后，用户可以要求修改标题文字或延长某个场景，再重新渲染。参考视频的搜索和浏览免费，按剪辑生成音乐则会扣除Ava积分。"
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity Computer发布视频与Router翻拍"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ava Studio recrea cortes de\nvideos de lanzamiento famosos",
+          "body": "Ava Studio reproduce la estructura de cortes de videos de lanzamiento populares con pantallas del propio producto.",
+          "mini_headline": "Cortes de lanzamientos, recreados",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ava Studio presentó el 17 de noviembre ‘Launch Videos’, una función para crear videos de lanzamiento de productos. La herramienta analiza el orden de escenas, la duración de los cortes y los movimientos de cámara de videos de lanzamiento que llamaron la atención en X, y genera un video con las pantallas del producto del usuario. Puede usarse como plugin en Claude Code y Codex."
+              },
+              {
+                "t": "p",
+                "x": "Cuando el usuario indica la dirección web del producto, la duración deseada del video y la relación de aspecto, el agente busca videos de referencia. Se pueden elegir referencias según la estructura del video, como una escena que revela por primera vez la pantalla del producto o una demostración vertical en un teléfono inteligente."
+              },
+              {
+                "t": "p",
+                "x": "Tras elegir una referencia, el agente captura las páginas reales del producto y arma las escenas con el logotipo, los colores y las tipografías del usuario. En la demostración oficial, tomó los cortes y los movimientos de cámara del video de lanzamiento de ‘Perplexity Computer’ para crear un video de 14 segundos que presenta las pantallas de ‘Router’. El original y el resultado pueden reproducirse lado a lado en el mismo punto, lo que permite comparar cuándo aparece la pantalla del producto y dónde se amplía."
+              },
+              {
+                "t": "p",
+                "x": "Los videos se renderizan en un equipo Mac o Linux y se guardan como proyectos editables de HyperFrames. Tras ver el primer resultado, se puede pedir que cambie el texto del título o que una escena se muestre durante más tiempo, y volver a renderizar. Buscar y ver videos de referencia es gratis; generar música ajustada a la edición descuenta créditos de Ava."
+              },
+              {
+                "t": "video",
+                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Video de lanzamiento de Perplexity Computer y la nueva versión con Router"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "xjet-atelier-jewelry",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "XJet Atelier\n프롬프트가 금속 참으로",
+      "body": "XJet Atelier는 글이나 사진을 장신구로 바꿔 금속 3D 프린터로 뽑는다.",
+      "mini_headline": "XJet, 프롬프트 장신구 출력",
+      "tool": "Text-to-CAD",
+      "source": "VoxelMatters",
+      "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "NanoParticle Jetting 기업 XJet이 Formnext 2026에서 새 온라인 플랫폼 XJet Atelier를 선보인다. AI 지원(AI-assisted) 장신구 디자인을 자사 제조 워크플로에 연결해 맞춤 장신구를 만들도록 돕는다. XJet의 NPJ 공정은 금속이나 세라믹 입자를 채운 액상 분산액과 용해성 서포트 소재를 쓴다. 장신구처럼 형상이 섬세하고 작고 복잡한 부품에 잘 맞는다."
+          },
+          {
+            "t": "p",
+            "x": "소비자는 XJet Atelier에서 프롬프트나 이미지로 자기만의 참을 만든 뒤 XJet의 3D 프린터로 제작한다. “사용자는 몇 마디 말이나 사진 한 장으로 시작해 참 디자인을 탐색하고 다듬으며, XJet의 NPJ 워크플로를 통한 실물 생산으로 넘어가기 전에 결과물을 360°로 미리 볼 수 있다.” 소재는 스테인리스 스틸과 스털링 실버 가운데 고른다. 디자인 생성 도구는 Hall 11.0, 부스 C21에서 직접 써 볼 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "XJet은 세라믹·금속 AM 서비스 XPARTS도 함께 알리며 Carmel Pro와 Carmel ORO 플랫폼의 첫 고객 주문도 발표했다. CEO Guy Zimmerman은 “완성 부품이 필요하든, 자체 생산 시스템이 필요하든, 개인화된 디자인을 장신구로 바꿀 방법이 필요하든 더 많은 고객이 XJet의 모든 역량을 활용할 수 있게 하고 있다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "XJet Atelier turns a prompt\ninto a printed metal charm",
+          "body": "XJet Atelier turns a few words or a photo into a jewelry design and prints it on metal 3D printers in steel or silver.",
+          "mini_headline": "XJet prints prompted jewelry",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*4RrFm9IcXORwVXjgB-_zlA.png",
-                "cap": "Una búsqueda en Google Imágenes de “sparkle AI icon”."
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
               },
               {
                 "t": "p",
-                "x": "Cómo descifrar la maqueta AI-generated de tu PM sin perder horas. El botón del destello se convirtió rápidamente en un patrón de diseño universal. Y hoy podríamos usarlo mucho más en nuestro trabajo. Durante más de una década, el icono ha significado en esencia “la máquina hizo esta parte por ti”, con Google a la cabeza desde mid-2010s."
+                "x": "NanoParticle Jetting company XJet is exhibiting at Formnext 2026, including XJet Atelier, a new online platform that connects AI-assisted jewelry design with the company’s manufacturing workflow to facilitate custom jewelry production. XJet’s NPJ process uses liquid dispersions filled with metal or ceramic particles and a soluble support material, and suits small, complex parts with fine features, such as jewelry."
+              },
+              {
+                "t": "p",
+                "x": "XJet Atelier gives consumers the ability to create their own charms based on prompts or images and have them produced on XJet’s 3D printers. “Users can start with a few words or a photo, explore and refine charm designs and preview their creation in 360° before moving toward physical production through XJet’s NPJ workflow.” Customers can choose stainless steel or sterling silver. Visitors can try the design generation tool at booth C21, Hall 11.0."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*ORP3GmFOOP5Aff4yrKKnHA.png",
-                "cap": "La historia del botón del destello en Google, de 2020 a 2026"
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
               },
               {
                 "t": "p",
-                "x": "Opines lo que opines del contenido AI-generated, cumple una función útil: te dice dónde está la AI. Más diseñadores necesitan eso en los traspasos: recibes una maqueta que un PM (o un directivo) generó con unos pocos prompts, pero solo unas pocas pistas muestran qué partes fueron decisiones y cuáles rellenó la AI. Si pudieras resaltar las partes AI-generated, sabrías exactamente qué cuestionar y qué conservar. En cambio, tu PM quizá se ahorró dos horas, pero tú pasarás cinco intentando descifrar la maqueta."
+                "x": "XJet is also promoting XPARTS, its ceramic and metal AM service, and announced first customer orders for its Carmel Pro and Carmel ORO platforms. “We are making the full capabilities of XJet available to more customers, whether they need finished parts, their own production system or a way to turn a personalized design into jewelry,” said CEO Guy Zimmerman."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "XJet Atelier\n프롬프트가 금속 참으로",
+          "body": "XJet Atelier는 글이나 사진을 장신구로 바꿔 금속 3D 프린터로 뽑는다.",
+          "mini_headline": "XJet, 프롬프트 장신구 출력",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "NanoParticle Jetting 기업 XJet이 Formnext 2026에서 새 온라인 플랫폼 XJet Atelier를 선보인다. AI 지원(AI-assisted) 장신구 디자인을 자사 제조 워크플로에 연결해 맞춤 장신구를 만들도록 돕는다. XJet의 NPJ 공정은 금속이나 세라믹 입자를 채운 액상 분산액과 용해성 서포트 소재를 쓴다. 장신구처럼 형상이 섬세하고 작고 복잡한 부품에 잘 맞는다."
+              },
+              {
+                "t": "p",
+                "x": "소비자는 XJet Atelier에서 프롬프트나 이미지로 자기만의 참을 만든 뒤 XJet의 3D 프린터로 제작한다. “사용자는 몇 마디 말이나 사진 한 장으로 시작해 참 디자인을 탐색하고 다듬으며, XJet의 NPJ 워크플로를 통한 실물 생산으로 넘어가기 전에 결과물을 360°로 미리 볼 수 있다.” 소재는 스테인리스 스틸과 스털링 실버 가운데 고른다. 디자인 생성 도구는 Hall 11.0, 부스 C21에서 직접 써 볼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet은 세라믹·금속 AM 서비스 XPARTS도 함께 알리며 Carmel Pro와 Carmel ORO 플랫폼의 첫 고객 주문도 발표했다. CEO Guy Zimmerman은 “완성 부품이 필요하든, 자체 생산 시스템이 필요하든, 개인화된 디자인을 장신구로 바꿀 방법이 필요하든 더 많은 고객이 XJet의 모든 역량을 활용할 수 있게 하고 있다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "XJet Atelier、\nプロンプトを金属チャームに",
+          "body": "XJet Atelierは言葉や写真を基にジュエリーを金属 3D プリンターで作る。",
+          "mini_headline": "XJet、プロンプトでジュエリー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "NanoParticle Jetting企業のXJetはFormnext 2026に出展し、新しいオンラインプラットフォームXJet Atelierを披露している。AI-assisted(AI支援)のジュエリーデザインを同社の製造ワークフローとつなぎ、カスタムジュエリーの生産を後押しするものだ。XJetのNPJプロセスは金属またはセラミック粒子を含む液体分散液と可溶性のサポート材を使い、ジュエリーのように微細な形状を持つ小さく複雑な部品に適している。"
+              },
+              {
+                "t": "p",
+                "x": "XJet Atelierでは、消費者がプロンプトや画像をもとに自分だけのチャームを作り、XJetの 3D プリンターで製造してもらえる。「ユーザーは数語の言葉や一枚の写真から始め、チャームのデザインを探って磨き上げ、XJetのNPJワークフローによる実物の生産に進む前に、作品を360°でプレビューできる」。顧客はステンレス鋼かスターリングシルバーを選べる。来場者はHall 11.0のブースC21でデザイン生成ツールを試せる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJetはセラミックと金属のAMサービスXPARTSも打ち出し、Carmel ProとCarmel ORO両プラットフォームの初の顧客受注を発表した。CEOのGuy Zimmermanは「完成部品が必要な場合も、自社の生産システムが必要な場合も、パーソナライズしたデザインをジュエリーにする方法が必要な場合も、XJetの能力をすべて、より多くの顧客に提供していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "XJet Atelier\n把提示词变成金属吊坠",
+          "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
+          "mini_headline": "XJet按提示打印首饰",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "纳米颗粒喷射（NanoParticle Jetting）公司XJet正在Formnext 2026参展，展品包括新的在线平台XJet Atelier。该平台将AI-assisted（AI辅助）首饰设计与公司的制造工作流相连，便于定制首饰生产。XJet的NPJ工艺使用填充金属或陶瓷颗粒的液态分散液和可溶性支撑材料，适合首饰这类带有精细特征的小型复杂零件。"
+              },
+              {
+                "t": "p",
+                "x": "借助XJet Atelier，消费者可以根据提示词或图片创作自己的吊坠，并交由XJet的 3D 打印机制造。“用户可以从几句话或一张照片开始，探索并完善吊坠设计，在通过XJet的NPJ工作流进入实物生产之前，以360°预览自己的作品。”顾客可以选择不锈钢或纯银。观众可在Hall 11.0的C21展位试用这款设计生成工具。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet还在推广其陶瓷和金属AM服务XPARTS，并宣布Carmel Pro和Carmel ORO平台获得首批客户订单。CEO Guy Zimmerman表示：“无论客户需要成品零件、自有生产系统，还是把个性化设计变成首饰的方法，我们都在让更多客户用上XJet的全部能力。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "XJet Atelier pasa de un prompt\na un colgante de metal impreso",
+          "body": "XJet Atelier convierte unas palabras o una foto en una joya y la imprime en acero o plata con impresoras 3D de metal.",
+          "mini_headline": "XJet imprime joyas desde prompts",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet, empresa de NanoParticle Jetting, expone en Formnext 2026 e incluye XJet Atelier, una nueva plataforma en línea que conecta el diseño de joyería AI-assisted (asistido por IA) con el flujo de fabricación de la compañía para facilitar la producción de joyas personalizadas. El proceso NPJ de XJet utiliza dispersiones líquidas cargadas de partículas metálicas o cerámicas y un material de soporte soluble, y es adecuado para piezas pequeñas y complejas con detalles finos, como las joyas."
+              },
+              {
+                "t": "p",
+                "x": "XJet Atelier permite a los consumidores crear sus propios colgantes a partir de prompts o imágenes y fabricarlos en las impresoras 3D de XJet. “Los usuarios pueden empezar con unas pocas palabras o una foto, explorar y pulir diseños de colgantes y previsualizar su creación en 360° antes de pasar a la producción física mediante el flujo NPJ de XJet”. Los clientes pueden elegir acero inoxidable o plata de ley. Los visitantes pueden probar la herramienta de generación de diseños en el stand C21, Hall 11.0."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet también promociona XPARTS, su servicio de AM en cerámica y metal, y anunció los primeros pedidos de clientes para sus plataformas Carmel Pro y Carmel ORO. “Estamos poniendo todas las capacidades de XJet al alcance de más clientes, ya necesiten piezas terminadas, su propio sistema de producción o una forma de convertir un diseño personalizado en joya”, dijo el CEO Guy Zimmerman."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "XJet Atelier,\n프롬프트를 금속 참으로",
+          "body": "XJet Atelier는 글·사진을 장신구로 바꿔 금속 3D 프린터로 출력한다.",
+          "mini_headline": "XJet, 프롬프트 장신구 출력",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "NanoParticle Jetting 기업 XJet이 Formnext 2026에 참가해 새 온라인 플랫폼 XJet Atelier를 선보인다. AI 지원(AI-assisted) 장신구 디자인을 회사의 제조 워크플로와 연결해 맞춤형 장신구 생산을 돕는 플랫폼이다. XJet의 NPJ 공정은 금속이나 세라믹 입자를 채운 액상 분산액과 용해성 서포트 소재를 사용하며, 장신구처럼 섬세한 형상을 지닌 작고 복잡한 부품에 적합하다."
+              },
+              {
+                "t": "p",
+                "x": "XJet Atelier에서 소비자는 프롬프트나 이미지를 바탕으로 자신만의 참을 만들고 XJet의 3D 프린터로 제작할 수 있다. “사용자는 몇 마디 말이나 사진 한 장으로 시작해 참 디자인을 탐색하고 다듬으며, XJet의 NPJ 워크플로를 통한 실물 생산으로 넘어가기 전에 결과물을 360°로 미리 볼 수 있다.” 소비자는 스테인리스 스틸 또는 스털링 실버를 고를 수 있다. 방문객은 Hall 11.0, 부스 C21에서 디자인 생성 도구를 체험할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet은 세라믹·금속 AM 서비스 XPARTS도 알리고 있으며, Carmel Pro와 Carmel ORO 플랫폼의 첫 고객 주문을 발표했다. CEO Guy Zimmerman은 “완성 부품이 필요하든, 자체 생산 시스템이 필요하든, 개인화된 디자인을 장신구로 바꿀 방법이 필요하든 더 많은 고객이 XJet의 모든 역량을 활용할 수 있게 하고 있다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "XJet Atelier、\nプロンプトを金属チャームに",
+          "body": "XJet Atelierは言葉や写真を基にジュエリーを金属 3D プリンターで作る。",
+          "mini_headline": "XJet、プロンプトでジュエリー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "NanoParticle Jetting企業のXJetはFormnext 2026に出展し、新しいオンラインプラットフォームXJet Atelierを披露している。AI-assisted(AI支援)のジュエリーデザインを同社の製造ワークフローとつなぎ、カスタムジュエリーの生産を後押しするものだ。XJetのNPJプロセスは金属またはセラミック粒子を含む液体分散液と可溶性のサポート材を使い、ジュエリーのように微細な形状を持つ小さく複雑な部品に適している。"
+              },
+              {
+                "t": "p",
+                "x": "XJet Atelierでは、消費者がプロンプトや画像をもとに自分だけのチャームを作り、XJetの 3D プリンターで製造してもらえる。「ユーザーは数語の言葉や一枚の写真から始め、チャームのデザインを探って磨き上げ、XJetのNPJワークフローによる実物の生産に進む前に、作品を360°でプレビューできる」。顧客はステンレス鋼かスターリングシルバーを選べる。来場者はHall 11.0のブースC21でデザイン生成ツールを試せる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJetはセラミックと金属のAMサービスXPARTSも打ち出し、Carmel ProとCarmel ORO両プラットフォームの初の顧客受注を発表した。CEOのGuy Zimmermanは「完成部品が必要な場合も、自社の生産システムが必要な場合も、パーソナライズしたデザインをジュエリーにする方法が必要な場合も、XJetの能力をすべて、より多くの顧客に提供していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "XJet Atelier\n把提示词变成金属吊坠",
+          "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
+          "mini_headline": "XJet按提示打印首饰",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "纳米颗粒喷射（NanoParticle Jetting）公司XJet正在Formnext 2026参展，展品包括新的在线平台XJet Atelier。该平台将AI-assisted（AI辅助）首饰设计与公司的制造工作流相连，便于定制首饰生产。XJet的NPJ工艺使用填充金属或陶瓷颗粒的液态分散液和可溶性支撑材料，适合首饰这类带有精细特征的小型复杂零件。"
+              },
+              {
+                "t": "p",
+                "x": "借助XJet Atelier，消费者可以根据提示词或图片创作自己的吊坠，并交由XJet的 3D 打印机制造。“用户可以从几句话或一张照片开始，探索并完善吊坠设计，在通过XJet的NPJ工作流进入实物生产之前，以360°预览自己的作品。”顾客可以选择不锈钢或纯银。观众可在Hall 11.0的C21展位试用这款设计生成工具。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet还在推广其陶瓷和金属AM服务XPARTS，并宣布Carmel Pro和Carmel ORO平台获得首批客户订单。CEO Guy Zimmerman表示：“无论客户需要成品零件、自有生产系统，还是把个性化设计变成首饰的方法，我们都在让更多客户用上XJet的全部能力。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "XJet Atelier pasa de un prompt\na un colgante de metal impreso",
+          "body": "XJet Atelier convierte unas palabras o una foto en una joya y la imprime en acero o plata con impresoras 3D de metal.",
+          "mini_headline": "XJet imprime joyas desde prompts",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet, empresa de NanoParticle Jetting, expone en Formnext 2026 e incluye XJet Atelier, una nueva plataforma en línea que conecta el diseño de joyería AI-assisted (asistido por IA) con el flujo de fabricación de la compañía para facilitar la producción de joyas personalizadas. El proceso NPJ de XJet utiliza dispersiones líquidas cargadas de partículas metálicas o cerámicas y un material de soporte soluble, y es adecuado para piezas pequeñas y complejas con detalles finos, como las joyas."
+              },
+              {
+                "t": "p",
+                "x": "XJet Atelier permite a los consumidores crear sus propios colgantes a partir de prompts o imágenes y fabricarlos en las impresoras 3D de XJet. “Los usuarios pueden empezar con unas pocas palabras o una foto, explorar y pulir diseños de colgantes y previsualizar su creación en 360° antes de pasar a la producción física mediante el flujo NPJ de XJet”. Los clientes pueden elegir acero inoxidable o plata de ley. Los visitantes pueden probar la herramienta de generación de diseños en el stand C21, Hall 11.0."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "XJet también promociona XPARTS, su servicio de AM en cerámica y metal, y anunció los primeros pedidos de clientes para sus plataformas Carmel Pro y Carmel ORO. “Estamos poniendo todas las capacidades de XJet al alcance de más clientes, ya necesiten piezas terminadas, su propio sistema de producción o una forma de convertir un diseño personalizado en joya”, dijo el CEO Guy Zimmerman."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "artificial-poster-aislop",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Artificial 포스터\n일부러 AI slop 흉내",
+      "body": "AI-slop처럼 보이는 Artificial 포스터, 실은 사람이 일부러 만들었다.",
+      "mini_headline": "AI slop을 흉내 낸 포스터",
+      "tool": "Figma",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+          },
+          {
+            "t": "p",
+            "x": "요즘 영화계에서 AI slop 포스터는 드물지 않다. Luca Guadagnino의 신작 Artificial 디자인을 봤을 때도 눈을 한 번 굴리고 스크롤을 넘겼다. 그 반응이 바로 감독이 노린 것이라고는 꿈에도 몰랐다."
+          },
+          {
+            "t": "p",
+            "x": "조금만 더 눈여겨봤다면 오른쪽 아래 구석의 작은 문구 “Artwork made by Humans”를 찾았을 것이다. 맞다. 이 포스터는 섬뜩한 AI slop의 요소를 고루 갖췄고, 바로 그게 핵심이다. 조심해라, AI. 인간이 네 일자리를 노린다."
+          },
+          {
+            "t": "p",
+            "x": "“당신이 보는 미래의 이미지는 무엇인가? Luca Guadagnino의 ARTIFICIAL. 크리스마스 일부 극장 개봉. 1월 8일 전체 개봉.” (X 게시물, 2026년 11월 19일)"
+          },
+          {
+            "t": "p",
+            "x": "제일 먼저 눈에 들어온 건 Andrew Garfield의 기묘한 얼굴이다. OpenAI CEO Sam Altman을 연기한 그의 눈은 텅 비어 섬뜩할 정도라 보자마자 AI 경보가 요란하게 울린다."
+          },
+          {
+            "t": "p",
+            "x": "뜯어볼수록 어긋난 곳이 늘어난다. 물에 잠긴 Golden Gate Bridge, 위에서 뜬금없이 어른거리는 뱀들, 뒤집힌 비행기, 그리고 가장 거슬리는 디테일인 나무 사이에 숨은 섬뜩한 Pinocchio 얼굴까지. 한 X 사용자는 “오래 볼수록 더 미쳐 간다”고 썼고 다른 사용자는 “올해의 포스터”라며 치켜세웠다."
+          },
+          {
+            "t": "p",
+            "x": "“인간이 만든 아트(Gravillis Inc.와 Mike Thompson).” (X 게시물, 2026년 11월 19일)"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Artificial's poster fakes\nAI slop on purpose",
+          "body": "The poster for Artificial, the Sam Altman film, is packed with AI-slop tells, but human artists made it on purpose.",
+          "mini_headline": "A poster faking AI slop",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nowadays, AI slop posters are no rarity in the movie world, so when I saw the design for Luca Guadagnino's latest film, Artificial, I rolled my eyes and continued scrolling. Little did I know that was the exact reaction the director wanted."
+              },
+              {
+                "t": "p",
+                "x": "Had I been a little more observant, I'd have spotted the little text in the bottom right corner reading \"Artwork made by Humans\". Yes, this movie poster has all the makings of uncanny AI slop, but that's the point. Watch out, AI; humans are coming for your job."
+              },
+              {
+                "t": "p",
+                "x": "“What is the image of the future that you see? Luca Guadagnino’s ARTIFICIAL. In select theaters Christmas Day. Everywhere January 8.” (post on X, November 19, 2026)"
+              },
+              {
+                "t": "p",
+                "x": "The first thing that strikes me is Andrew Garfield's uncanny face. Starring as OpenAI CEO Sam Altman, the soullessness in his eyes is downright eerie, already ringing major AI alarm bells."
+              },
+              {
+                "t": "p",
+                "x": "A closer look reveals more discrepancies – the underwater Golden Gate Bridge, random snakes looming above, the upside-down plane and my least favourite detail: the terrifying Pinocchio face lurking in the trees. \"The longer you look at this the more insane it gets,\" one X commenter wrote. \"Poster of the year,\" another praised."
+              },
+              {
+                "t": "p",
+                "x": "“Art made by humans (Gravillis Inc. and Mike Thompson).” (post on X, November 19, 2026)"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Artificial 포스터\n일부러 AI slop 흉내",
+          "body": "AI-slop처럼 보이는 Artificial 포스터, 실은 사람이 일부러 만들었다.",
+          "mini_headline": "AI slop을 흉내 낸 포스터",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "요즘 영화계에서 AI slop 포스터는 드물지 않다. Luca Guadagnino의 신작 Artificial 디자인을 봤을 때도 눈을 한 번 굴리고 스크롤을 넘겼다. 그 반응이 바로 감독이 노린 것이라고는 꿈에도 몰랐다."
+              },
+              {
+                "t": "p",
+                "x": "조금만 더 눈여겨봤다면 오른쪽 아래 구석의 작은 문구 “Artwork made by Humans”를 찾았을 것이다. 맞다. 이 포스터는 섬뜩한 AI slop의 요소를 고루 갖췄고, 바로 그게 핵심이다. 조심해라, AI. 인간이 네 일자리를 노린다."
+              },
+              {
+                "t": "p",
+                "x": "“당신이 보는 미래의 이미지는 무엇인가? Luca Guadagnino의 ARTIFICIAL. 크리스마스 일부 극장 개봉. 1월 8일 전체 개봉.” (X 게시물, 2026년 11월 19일)"
+              },
+              {
+                "t": "p",
+                "x": "제일 먼저 눈에 들어온 건 Andrew Garfield의 기묘한 얼굴이다. OpenAI CEO Sam Altman을 연기한 그의 눈은 텅 비어 섬뜩할 정도라 보자마자 AI 경보가 요란하게 울린다."
+              },
+              {
+                "t": "p",
+                "x": "뜯어볼수록 어긋난 곳이 늘어난다. 물에 잠긴 Golden Gate Bridge, 위에서 뜬금없이 어른거리는 뱀들, 뒤집힌 비행기, 그리고 가장 거슬리는 디테일인 나무 사이에 숨은 섬뜩한 Pinocchio 얼굴까지. 한 X 사용자는 “오래 볼수록 더 미쳐 간다”고 썼고 다른 사용자는 “올해의 포스터”라며 치켜세웠다."
+              },
+              {
+                "t": "p",
+                "x": "“인간이 만든 아트(Gravillis Inc.와 Mike Thompson).” (X 게시물, 2026년 11월 19일)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Artificialポスター\nあえてAI slop風に",
+          "body": "Artificialのポスターは一見AI-slopだが、人間があえて作ったものだ。",
+          "mini_headline": "AI slopを装うポスター",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "今や映画界でAI slopのポスターは珍しくない。だからLuca Guadagninoの新作Artificialのデザインを見たとき、私はあきれてそのままスクロールした。それこそが監督の狙った反応だとは思いもしなかった。"
+              },
+              {
+                "t": "p",
+                "x": "もう少し注意深ければ、右下の隅にある「Artwork made by Humans」という小さな文字に気づいたはずだ。そう、この映画ポスターには不気味なAI slopの要素がすべてそろっているが、それこそが狙いなのだ。気をつけろ、AI。人間がお前の仕事を奪いに来ている。"
+              },
+              {
+                "t": "p",
+                "x": "「あなたが見る未来のイメージとは何か? Luca GuadagninoのARTIFICIAL。クリスマスに一部劇場で公開。1月8日に全国公開。」(Xへの投稿、2026年11月19日)"
+              },
+              {
+                "t": "p",
+                "x": "まず目を引くのはAndrew Garfieldの不気味な顔だ。OpenAIのCEO、Sam Altmanを演じる彼の目に宿る魂の抜けた感じは実に薄気味悪く、早くもAIへの警報を鳴らしている。"
+              },
+              {
+                "t": "p",
+                "x": "よく見るとさらに不自然な点が見つかる。水中に沈んだGolden Gate Bridge、上空に唐突に浮かぶ蛇、逆さまの飛行機、そして私が最も嫌いなディテールである、木々に潜む恐ろしいPinocchioの顔だ。「見れば見るほど狂っていく」とあるXユーザーは書き、別のユーザーは「今年のポスターだ」と称賛した。"
+              },
+              {
+                "t": "p",
+                "x": "「人間が作ったアート(Gravillis Inc.とMike Thompson)」(Xへの投稿、2026年11月19日)"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "《Artificial》海报\n故意模仿AI slop",
+          "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
+          "mini_headline": "故意模仿AI slop的海报",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "如今，AI slop海报在电影圈已不稀奇，所以当我看到Luca Guadagnino新片《Artificial》的设计时，翻了个白眼就继续往下滑。我没想到，这正是导演想要的反应。"
+              },
+              {
+                "t": "p",
+                "x": "如果我再细心一点，就会发现右下角写着“Artwork made by Humans”的小字。没错，这张电影海报具备了诡异AI slop的全部特征，但这正是重点。当心了，AI；人类要来抢你的饭碗了。"
+              },
+              {
+                "t": "p",
+                "x": "“你看到的未来图景是什么？Luca Guadagnino的《ARTIFICIAL》。圣诞节部分影院上映。1月8日全面上映。”（X上的帖子，2026年11月19日）"
+              },
+              {
+                "t": "p",
+                "x": "首先让我在意的是Andrew Garfield那张诡异的脸。他饰演OpenAI CEO Sam Altman，眼神中的空洞简直令人发毛，已经拉响了AI的警报。"
+              },
+              {
+                "t": "p",
+                "x": "仔细看还会发现更多破绽——沉在水下的Golden Gate Bridge、头顶莫名盘踞的蛇、倒置的飞机，以及我最不喜欢的细节：藏在树丛中的可怕Pinocchio面孔。一位X网友写道：“越看越疯狂。”另一位则称赞：“年度海报。”"
+              },
+              {
+                "t": "p",
+                "x": "“由人类创作的艺术（Gravillis Inc.与Mike Thompson）。”（X上的帖子，2026年11月19日）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El póster de Artificial imita\nel AI slop a propósito",
+          "body": "El póster de Artificial, la película sobre Sam Altman, imita el AI-slop, pero lo hicieron artistas humanos a propósito.",
+          "mini_headline": "Un póster que finge ser AI slop",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Hoy en día, los pósteres de AI slop no son una rareza en el cine, así que cuando vi el diseño de la última película de Luca Guadagnino, Artificial, puse los ojos en blanco y seguí desplazándome. No sabía que esa era exactamente la reacción que buscaba el director."
+              },
+              {
+                "t": "p",
+                "x": "Si hubiera sido un poco más observador, habría visto el pequeño texto en la esquina inferior derecha que dice “Artwork made by Humans”. Sí, este póster tiene todos los ingredientes de un inquietante AI slop, pero de eso se trata. Cuidado, AI: los humanos vienen a quitarte el trabajo."
+              },
+              {
+                "t": "p",
+                "x": "“¿Cuál es la imagen del futuro que ves? ARTIFICIAL, de Luca Guadagnino. En cines seleccionados el día de Navidad. En todas partes el 8 de enero.” (publicación en X, 19 de noviembre de 2026)"
+              },
+              {
+                "t": "p",
+                "x": "Lo primero que me llama la atención es el rostro inquietante de Andrew Garfield. En su papel del CEO de OpenAI, Sam Altman, la falta de alma en su mirada resulta francamente escalofriante y ya hace sonar todas las alarmas de AI."
+              },
+              {
+                "t": "p",
+                "x": "Una mirada más atenta revela más incongruencias: el Golden Gate Bridge bajo el agua, serpientes al azar que se ciernen desde arriba, el avión boca abajo y mi detalle menos favorito: la aterradora cara de Pinocchio que acecha entre los árboles. “Cuanto más lo miras, más demencial se vuelve”, escribió un comentarista en X. “Póster del año”, elogió otro."
+              },
+              {
+                "t": "p",
+                "x": "“Arte hecho por humanos (Gravillis Inc. y Mike Thompson).” (publicación en X, 19 de noviembre de 2026)"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Artificial 포스터\n일부러 AI slop 흉내",
+          "body": "Artificial 포스터는 AI-slop 같지만 사람이 일부러 만들었다.",
+          "mini_headline": "AI slop을 흉내 낸 포스터",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "요즘 영화계에서 AI slop 포스터는 드물지 않다. 그래서 Luca Guadagnino의 신작 Artificial의 디자인을 봤을 때도 눈을 굴리며 스크롤을 넘겼다. 그게 바로 감독이 노린 반응이었다는 것은 꿈에도 몰랐다."
+              },
+              {
+                "t": "p",
+                "x": "조금만 더 주의 깊게 봤다면 오른쪽 아래 구석에 적힌 “Artwork made by Humans”라는 작은 문구를 발견했을 것이다. 그렇다. 이 영화 포스터는 섬뜩한 AI slop의 요소를 모두 갖췄지만, 그게 핵심이다. 조심하라, AI. 인간이 네 일자리를 노리고 있다."
+              },
+              {
+                "t": "p",
+                "x": "“당신이 보는 미래의 이미지는 무엇인가? Luca Guadagnino의 ARTIFICIAL. 크리스마스 일부 극장 개봉. 1월 8일 전체 개봉.” (X 게시물, 2026년 11월 19일)"
+              },
+              {
+                "t": "p",
+                "x": "가장 먼저 눈에 띈 것은 Andrew Garfield의 기묘한 얼굴이다. OpenAI CEO Sam Altman 역을 맡은 그의 눈에 담긴 공허함은 정말 섬뜩해, 벌써부터 AI 경보를 크게 울린다."
+              },
+              {
+                "t": "p",
+                "x": "자세히 보면 어긋난 부분이 더 보인다. 물에 잠긴 Golden Gate Bridge, 위에서 뜬금없이 어른거리는 뱀들, 뒤집힌 비행기, 그리고 가장 싫은 디테일인 나무 사이에 숨은 섬뜩한 Pinocchio 얼굴까지. 한 X 사용자는 “오래 볼수록 더 미쳐 간다”고 썼고, 다른 사용자는 “올해의 포스터”라고 치켜세웠다."
+              },
+              {
+                "t": "p",
+                "x": "“인간이 만든 아트(Gravillis Inc.와 Mike Thompson).” (X 게시물, 2026년 11월 19일)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Artificialポスター\nあえてAI slop風に",
+          "body": "Artificialのポスターは一見AI-slopだが、人間があえて作ったものだ。",
+          "mini_headline": "AI slopを装うポスター",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "今や映画界でAI slopのポスターは珍しくない。だからLuca Guadagninoの新作Artificialのデザインを見たとき、私はあきれてそのままスクロールした。それこそが監督の狙った反応だとは思いもしなかった。"
+              },
+              {
+                "t": "p",
+                "x": "もう少し注意深ければ、右下の隅にある「Artwork made by Humans」という小さな文字に気づいたはずだ。そう、この映画ポスターには不気味なAI slopの要素がすべてそろっているが、それこそが狙いなのだ。気をつけろ、AI。人間がお前の仕事を奪いに来ている。"
+              },
+              {
+                "t": "p",
+                "x": "「あなたが見る未来のイメージとは何か? Luca GuadagninoのARTIFICIAL。クリスマスに一部劇場で公開。1月8日に全国公開。」(Xへの投稿、2026年11月19日)"
+              },
+              {
+                "t": "p",
+                "x": "まず目を引くのはAndrew Garfieldの不気味な顔だ。OpenAIのCEO、Sam Altmanを演じる彼の目に宿る魂の抜けた感じは実に薄気味悪く、早くもAIへの警報を鳴らしている。"
+              },
+              {
+                "t": "p",
+                "x": "よく見るとさらに不自然な点が見つかる。水中に沈んだGolden Gate Bridge、上空に唐突に浮かぶ蛇、逆さまの飛行機、そして私が最も嫌いなディテールである、木々に潜む恐ろしいPinocchioの顔だ。「見れば見るほど狂っていく」とあるXユーザーは書き、別のユーザーは「今年のポスターだ」と称賛した。"
+              },
+              {
+                "t": "p",
+                "x": "「人間が作ったアート(Gravillis Inc.とMike Thompson)」(Xへの投稿、2026年11月19日)"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "《Artificial》海报\n故意模仿AI slop",
+          "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
+          "mini_headline": "故意模仿AI slop的海报",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "如今，AI slop海报在电影圈已不稀奇，所以当我看到Luca Guadagnino新片《Artificial》的设计时，翻了个白眼就继续往下滑。我没想到，这正是导演想要的反应。"
+              },
+              {
+                "t": "p",
+                "x": "如果我再细心一点，就会发现右下角写着“Artwork made by Humans”的小字。没错，这张电影海报具备了诡异AI slop的全部特征，但这正是重点。当心了，AI；人类要来抢你的饭碗了。"
+              },
+              {
+                "t": "p",
+                "x": "“你看到的未来图景是什么？Luca Guadagnino的《ARTIFICIAL》。圣诞节部分影院上映。1月8日全面上映。”（X上的帖子，2026年11月19日）"
+              },
+              {
+                "t": "p",
+                "x": "首先让我在意的是Andrew Garfield那张诡异的脸。他饰演OpenAI CEO Sam Altman，眼神中的空洞简直令人发毛，已经拉响了AI的警报。"
+              },
+              {
+                "t": "p",
+                "x": "仔细看还会发现更多破绽——沉在水下的Golden Gate Bridge、头顶莫名盘踞的蛇、倒置的飞机，以及我最不喜欢的细节：藏在树丛中的可怕Pinocchio面孔。一位X网友写道：“越看越疯狂。”另一位则称赞：“年度海报。”"
+              },
+              {
+                "t": "p",
+                "x": "“由人类创作的艺术（Gravillis Inc.与Mike Thompson）。”（X上的帖子，2026年11月19日）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El póster de Artificial imita\nel AI slop a propósito",
+          "body": "El póster de Artificial, la película sobre Sam Altman, imita el AI-slop, pero lo hicieron artistas humanos a propósito.",
+          "mini_headline": "Un póster que finge ser AI slop",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Hoy en día, los pósteres de AI slop no son una rareza en el cine, así que cuando vi el diseño de la última película de Luca Guadagnino, Artificial, puse los ojos en blanco y seguí desplazándome. No sabía que esa era exactamente la reacción que buscaba el director."
+              },
+              {
+                "t": "p",
+                "x": "Si hubiera sido un poco más observador, habría visto el pequeño texto en la esquina inferior derecha que dice “Artwork made by Humans”. Sí, este póster tiene todos los ingredientes de un inquietante AI slop, pero de eso se trata. Cuidado, AI: los humanos vienen a quitarte el trabajo."
+              },
+              {
+                "t": "p",
+                "x": "“¿Cuál es la imagen del futuro que ves? ARTIFICIAL, de Luca Guadagnino. En cines seleccionados el día de Navidad. En todas partes el 8 de enero.” (publicación en X, 19 de noviembre de 2026)"
+              },
+              {
+                "t": "p",
+                "x": "Lo primero que me llama la atención es el rostro inquietante de Andrew Garfield. En su papel del CEO de OpenAI, Sam Altman, la falta de alma en su mirada resulta francamente escalofriante y ya hace sonar todas las alarmas de AI."
+              },
+              {
+                "t": "p",
+                "x": "Una mirada más atenta revela más incongruencias: el Golden Gate Bridge bajo el agua, serpientes al azar que se ciernen desde arriba, el avión boca abajo y mi detalle menos favorito: la aterradora cara de Pinocchio que acecha entre los árboles. “Cuanto más lo miras, más demencial se vuelve”, escribió un comentarista en X. “Póster del año”, elogió otro."
+              },
+              {
+                "t": "p",
+                "x": "“Arte hecho por humanos (Gravillis Inc. y Mike Thompson).” (publicación en X, 19 de noviembre de 2026)"
               }
             ]
           }

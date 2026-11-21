@@ -11534,6 +11534,123 @@
           "x": "研究人员表示，基于病灶的可解释性有助于打开LLM的“黑箱”，找出冗余部分，从而做出更小、更节能的模型，还可以创建失语症患者的“数字孪生”来模拟临床试验。Fridriksson认为该框架可扩展到其他神经系统疾病：“我希望这种方法能被采纳，用来做出帮助患者的科学发现。”"
         }
       ]
+    },
+    "science/qubrio-neutral-atom-compiler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+        },
+        {
+          "t": "p",
+          "x": "来自UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology和University of Wisconsin–Madison的研究人员推出了Qubrio，这是一个用于中性原子量子电路编译的多智能体LLM框架，已被NeurIPS 2026接收。它将专门化的LLM提议智能体与确定性约束验证器和硬件模拟器配合，自动完成量子比特布局、AOD路由和调度优化。"
+        },
+        {
+          "t": "p",
+          "x": "三级分解将电路拆分为CZ门阶段，把布局与路由和调度分开，并反馈局部化的错误诊断。智能体的推理日志显示，它们自行发现了车队式穿梭方式，在GHZ-78上每次AOD移动最多搬运30.3个量子比特。"
+        },
+        {
+          "t": "p",
+          "x": "在最多78个量子比特的QASMBench工作负载上，Qubrio相比PowerMove编译器平均将运行时间缩短4.7×，保真度提升1.3×，批量编译各阶段约需五分钟。论文已发布在arXiv上，代码在GitHub开源。"
+        }
+      ]
+    },
+    "science/york-ann-brain-mismatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+          "cap": "Credit: AI/ScienceDaily.com"
+        },
+        {
+          "t": "p",
+          "x": "York University发表在Nature Machine Intelligence上的一项研究发现，被广泛用于模拟大脑视觉处理方式的人工神经网络存在弱点。由助理教授Kohitij Kar与博士后研究员Sabine Muzellec带领的团队开展了“反向预测性”(reverse predictivity)测试：不只问AI能否预测大脑活动，还问记录到的大脑活动能否预测模型的内部状态。"
+        },
+        {
+          "t": "p",
+          "x": "研究使用了包含10种物体的1,320张自然与合成图像，以及300张风格化图像，发现模型能较好地预测记录到的神经元，但神经元对模型许多特征的预测却很差——这种差距在不同大脑之间并不存在。"
+        },
+        {
+          "t": "p",
+          "x": "Kar表示：“研究结果表明，如今的AI系统在解决视觉任务时，部分采用了大脑可能并不使用的内部策略。”团队发布了一个公开测试工具包，供开发者评估自己的模型。"
+        }
+      ]
+    },
+    "science/pertreason-virtual-cell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+          "cap": "扰动建模中所提出解决方案的概览。Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "由Yang Shen博士领导的Texas A&M电气与计算机工程研究人员，与Dongkwan Kim博士及Ph.D.学生Yiming Gao一起，正在开发AI“虚拟细胞”技术，用以预测遗传与药物效应如何改变细胞行为，并揭示这些变化背后的生物学机制。"
+        },
+        {
+          "t": "p",
+          "x": "他们的模型PertReason已被NeurIPS 2026接收，并已发布在arXiv上；早期版本曾在ICML 2026的一个研讨会上展示。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+          "cap": "PertReasonQA构建流程概览。Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "团队的PertReasonQA基准不仅评估LLM的准确率，还评估答案背后的推理是否合理，并标记模型未使用恰当数据却答对的情况。Shen受到与乳腺癌临床医生合作的启发，希望它能帮助确定优先研究哪些通路，并计划在Texas A&M的VISION超级计算机上构建多尺度数字孪生。"
+        }
+      ]
+    },
+    "science/tus-magnet-domain-wall-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+          "cap": "利用可解释AI和持续同调识别出的畴壁区域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+        },
+        {
+          "t": "p",
+          "x": "变压器和电感器中的软磁材料为电动汽车、可再生能源系统和数据中心供电，但传统模型无法揭示是哪些微观结构导致了高频下的损耗。"
+        },
+        {
+          "t": "p",
+          "x": "由Masato Kotsugi教授领导、Kosuke Nishioka参与的Tokyo University of Science团队，对一种理想化铁基纳米晶软磁材料在100 kHz、1 MHz和10 MHz下的Fugaku微磁模拟采用了物理可解释的AI方法，并结合持续同调以及带逆映射的能量景观进行分析。"
+        },
+        {
+          "t": "p",
+          "x": "随着频率升高，磁畴被越分越细，矫顽区附近的能垒也随频率上升。高贡献特征集中在传播中的反向磁畴尖端和部分精细畴壁片段周围；该能垒是源于交换作用的结构能量代价，并非对耗散热量的直接测量。研究发表于NPG Asia Materials。"
+        }
+      ]
+    },
+    "science/riemann-alpoge-claude-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+          "cap": "带有紫色数字概念的数学方程"
+        },
+        {
+          "t": "p",
+          "x": "人工智能公司Anthropic的员工、数学家Levent Alpöge周五宣称，他借助LLM证明了整个数学领域最著名的问题。Alpöge在其个人网站发布的声明中写道：“我相信，我与Claude合作，发现了黎曼猜想的证明。”"
+        },
+        {
+          "t": "p",
+          "x": "黎曼猜想由数学家伯恩哈德·黎曼于1859年首次提出。它是克雷数学研究所悬赏百万美元的少数几个未解问题之一。"
+        },
+        {
+          "t": "p",
+          "x": "Alpöge公布了用编程语言Lean编写的Claude证明，Lean可以验证每一步论证的数学正确性。他表示，该证明确认了“广义黎曼猜想”。此次宣布距Anthropic在股市创纪录上市仅过去一天。"
+        },
+        {
+          "t": "p",
+          "x": "智利天主教大学的Hector Pasten表示：“如果这个证明正确并被理解，它将补全数学不同分支之间原本只有部分联系的一部词典。”“有点像罗塞塔石碑。”"
+        },
+        {
+          "t": "p",
+          "x": "MIT数学家Andrew Sutherland在用Lean独立编译了Alpöge的结果后说：“这确实是一个历史性时刻。”“要理解该证明的数学细节，还有大量工作要做。”"
+        }
+      ]
     }
   }
 }

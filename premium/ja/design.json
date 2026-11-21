@@ -13097,6 +13097,140 @@
           "x": "設定はProfile > Settings > Permission (Enable generative AI features)と、Profile > Your account > AI personalizationにある。無料・有料どちらのユーザーも利用できる。"
         }
       ]
+    },
+    "design/claude-mobile-tabbar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "今回の刷新では、chat、Projects、Code、Artifactsのタブを備えた下部バーが加わった。AnthropicのDaniel DestefanisはXへの投稿で、デザイン刷新の展開が始まったと明らかにした。OpenAIが同じく下部タブバーを含むChatGPTアプリの刷新を発表した、わずか一日後のことだ。"
+        }
+      ]
+    },
+    "design/ava-studio-launch-videos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ava Studioは11月17日、製品ローンチ動画の制作機能‘Launch Videos’を公開した。Xで注目を集めたローンチ動画のシーン順、カットの長さ、カメラの動きを分析し、ユーザーの製品画面で動画を作るツールだ。Claude CodeとCodexでプラグインとして使える。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーが製品のウェブサイトのアドレスと希望する動画の長さ、画面比率を伝えると、エージェントが参考動画を探してくれる。製品画面を初めて見せるシーンや縦型スマートフォンでのデモなど、動画の構成に応じて参考作を選べる。"
+        },
+        {
+          "t": "p",
+          "x": "参考作を選ぶと、エージェントが実際の製品ページをキャプチャし、ユーザーのロゴや色、書体を適用してシーンを組み立てる。公式デモでは‘Perplexity Computer’のローンチ動画のカットとカメラの動きを取り入れ、‘Router’の画面を紹介する14秒の動画を作った。元動画と結果を同じタイミングで並べて再生でき、製品画面がいつ現れ、どこで拡大されるかを比較できる。"
+        },
+        {
+          "t": "p",
+          "x": "動画はMacまたはLinuxのコンピューターでレンダリングされ、編集可能なHyperFramesプロジェクトとして保存される。最初の結果を見た後、タイトルの文言を変えたり特定のシーンを長く見せたりするよう依頼して、再レンダリングできる。参考動画の検索と閲覧は無料で、編集に合わせて音楽を生成するとAvaのクレジットが消費される。"
+        },
+        {
+          "t": "video",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity Computerのローンチ動画とRouterのリメイク"
+        }
+      ]
+    },
+    "design/xjet-atelier-jewelry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "NanoParticle Jetting企業のXJetはFormnext 2026に出展し、新しいオンラインプラットフォームXJet Atelierを披露している。AI-assisted(AI支援)のジュエリーデザインを同社の製造ワークフローとつなぎ、カスタムジュエリーの生産を後押しするものだ。XJetのNPJプロセスは金属またはセラミック粒子を含む液体分散液と可溶性のサポート材を使い、ジュエリーのように微細な形状を持つ小さく複雑な部品に適している。"
+        },
+        {
+          "t": "p",
+          "x": "XJet Atelierでは、消費者がプロンプトや画像をもとに自分だけのチャームを作り、XJetの 3D プリンターで製造してもらえる。「ユーザーは数語の言葉や一枚の写真から始め、チャームのデザインを探って磨き上げ、XJetのNPJワークフローによる実物の生産に進む前に、作品を360°でプレビューできる」。顧客はステンレス鋼かスターリングシルバーを選べる。来場者はHall 11.0のブースC21でデザイン生成ツールを試せる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "XJetはセラミックと金属のAMサービスXPARTSも打ち出し、Carmel ProとCarmel ORO両プラットフォームの初の顧客受注を発表した。CEOのGuy Zimmermanは「完成部品が必要な場合も、自社の生産システムが必要な場合も、パーソナライズしたデザインをジュエリーにする方法が必要な場合も、XJetの能力をすべて、より多くの顧客に提供していく」と述べた。"
+        }
+      ]
+    },
+    "design/artificial-poster-aislop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "今や映画界でAI slopのポスターは珍しくない。だからLuca Guadagninoの新作Artificialのデザインを見たとき、私はあきれてそのままスクロールした。それこそが監督の狙った反応だとは思いもしなかった。"
+        },
+        {
+          "t": "p",
+          "x": "もう少し注意深ければ、右下の隅にある「Artwork made by Humans」という小さな文字に気づいたはずだ。そう、この映画ポスターには不気味なAI slopの要素がすべてそろっているが、それこそが狙いなのだ。気をつけろ、AI。人間がお前の仕事を奪いに来ている。"
+        },
+        {
+          "t": "p",
+          "x": "「あなたが見る未来のイメージとは何か? Luca GuadagninoのARTIFICIAL。クリスマスに一部劇場で公開。1月8日に全国公開。」(Xへの投稿、2026年11月19日)"
+        },
+        {
+          "t": "p",
+          "x": "まず目を引くのはAndrew Garfieldの不気味な顔だ。OpenAIのCEO、Sam Altmanを演じる彼の目に宿る魂の抜けた感じは実に薄気味悪く、早くもAIへの警報を鳴らしている。"
+        },
+        {
+          "t": "p",
+          "x": "よく見るとさらに不自然な点が見つかる。水中に沈んだGolden Gate Bridge、上空に唐突に浮かぶ蛇、逆さまの飛行機、そして私が最も嫌いなディテールである、木々に潜む恐ろしいPinocchioの顔だ。「見れば見るほど狂っていく」とあるXユーザーは書き、別のユーザーは「今年のポスターだ」と称賛した。"
+        },
+        {
+          "t": "p",
+          "x": "「人間が作ったアート(Gravillis Inc.とMike Thompson)」(Xへの投稿、2026年11月19日)"
+        }
+      ]
+    },
+    "design/nngroup-synthesized-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
+        },
+        {
+          "t": "p",
+          "x": "今回の研究では、AI-generatedのデザイン(AI生成デザイン)は、AIが生のユーザーコメントだけを受け取った場合より、統合された知見と提言を受け取った場合のほうが優れていた。"
+        },
+        {
+          "t": "p",
+          "x": "NN/gはAIモデルに二つのデザイン課題を与えた。欠航した便を予約し直す単一ページのフォームと、オンラインストアの複数ステップの決済フローである。プロンプトとデザインシステムの情報は同じにしたまま、リサーチの文脈だけを変えた。課題ごとに約100件の生のユーザーコメントを与えるか、同じコメントに基づく統合された知見と提言を与えた。課題と条件ごとに8案を生成し、人間の評価者とLLMの審査役が、事前に定めた採点表に照らしてそれぞれをブラインドで採点した。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+          "cap": "統合された知見と提言から生成したデザインは採点表の基準を平均77.9%満たし、生のユーザーコメントから生成したデザインは69.5%だった(p < 0.001)。"
+        },
+        {
+          "t": "p",
+          "x": "改善幅は便の再予約課題のほうが大きかった(11.4パーセントポイント、決済フローは5.5)。生のコメントの一部はマイレージ特典への不満を述べていたが、生のコメントから作ったデザインはどれもそれに対応しなかった。統合リサーチから作ったデザインはすべて対応した。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+          "cap": "生データだけでは、AIツールは何を作るべきか推測するしかない。統合された知見と提言があれば、チームがすでに下した判断の上に構築できる。"
+        },
+        {
+          "t": "p",
+          "x": "リサーチの成果物には今や二つの読み手がいる。チームメイトと、デザインプロセスで使われるAIツールだ。UX-context design(UXコンテキスト設計)とは、AI-generatedのデザインを導くUXの知識を選び、整理し、維持する実践である。"
+        }
+      ]
     }
   }
 }

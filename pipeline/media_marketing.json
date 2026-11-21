@@ -1,7 +1,31 @@
-{"date":"2026-11-21","section":"marketing","media":[
-{"id":"marketing-google-chatgpt-coupons","type":"image","src":"pipeline/media/marketing-google-chatgpt-coupons.jpg"},
-{"id":"marketing-bing-made-with-ai-label","type":"image","src":"pipeline/media/marketing-bing-made-with-ai-label.jpg"},
-{"id":"romperjack-model-ai-ad-lawsuit","type":"image","src":"pipeline/media/romperjack-model-ai-ad-lawsuit.jpg"},
-{"id":"loblaw-meta-muse-grocery","type":"image","src":"pipeline/media/loblaw-meta-muse-grocery.jpg"},
-{"id":"cafe24-ai-referral-orders","type":"image","src":"pipeline/media/cafe24-ai-referral-orders.png"}
-]}
+{
+  "date": "2026-11-22",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "google-ucp-grocery-carts-gemini",
+      "type": "image",
+      "src": "pipeline/media/google-ucp-grocery-carts-gemini.jpg"
+    },
+    {
+      "id": "verve-amazon-ai-answer-share",
+      "type": "image",
+      "src": "pipeline/media/verve-amazon-ai-answer-share.jpg"
+    },
+    {
+      "id": "oliveyoung-define-omni-agentic",
+      "type": "image",
+      "src": "pipeline/media/oliveyoung-define-omni-agentic.jpg"
+    },
+    {
+      "id": "walmart-connect-agentic-ads",
+      "type": "image",
+      "src": "pipeline/media/walmart-connect-agentic-ads.jpg"
+    },
+    {
+      "id": "openai-business-hub-terms-rewrite",
+      "type": "image",
+      "src": "pipeline/media/openai-business-hub-terms-rewrite.jpg"
+    }
+  ]
+}

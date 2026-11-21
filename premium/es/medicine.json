@@ -5166,6 +5166,97 @@
           "x": "“Los sistemas de alertas de AI deben evaluarse según los resultados reales —no solo la detección— para reducir la fatiga por alertas, evitar intervenciones innecesarias y garantizar mejoras significativas en la atención al paciente”, escribieron los investigadores."
         }
       ]
+    },
+    "medicine/rsna-ai-malpractice-jury": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cómo los radiólogos utilizan la IA y cómo documentan ese uso podría influir en los jurados en un caso de negligencia. La presentadora Elizabeth Song, de Brown University, y sus colegas examinaron cómo distintos flujos de trabajo AI-radiologist afectan la responsabilidad por negligencia percibida."
+        },
+        {
+          "t": "p",
+          "x": "En un experimento en línea, 2,347 adultos de U.S. actuaron como jurados hipotéticos en un caso de hemorragia intracraneal no detectada. Los participantes fueron asignados al azar a un grupo de control sin IA (no-AI) o a uno de 21 escenarios con IA, que variaban el flujo de lectura simple frente a doble, si el radiólogo documentó una interpretación inicial y si se informó a los jurados de las tasas de error de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Los flujos de doble lectura, las interpretaciones iniciales documentadas y la divulgación de las tasas de error de la IA redujeron la responsabilidad percibida. La responsabilidad fue máxima cuando los radiólogos detectaron inicialmente la anomalía pero luego cambiaron su interpretación después de que la IA no la detectara: más del 80% de los participantes consideró responsable al radiólogo, frente al 62% en el grupo de control. Los investigadores llaman a este efecto \"penalización por cambio erróneo\" (erroneous change penalty)."
+        },
+        {
+          "t": "p",
+          "x": "\"La responsabilidad del radiólogo está fuertemente influida por el diseño del flujo de trabajo, las prácticas de documentación y la inclusión de las tasas de error de la IA\", escribieron los investigadores."
+        }
+      ]
+    },
+    "medicine/athlete-ecg-foundation-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El cribado cardíaco impulsado por IA (AI-powered) podría hacer evolucionar la medicina deportiva al mejorar la precisión, la eficiencia y la rentabilidad, y la interpretación automatizada del ECG basada en modelos fundacionales se está volviendo clave para el cribado de atletas a gran escala. Antes de su implantación, es crucial verificar si estos modelos desarrollados en el ámbito clínico son aplicables a esta población. Evaluamos si los modelos fundacionales de ECG entrenados con poblaciones clínicas generales pueden diagnosticar hallazgos de ECG específicos de atletas. Ajustamos tres modelos (ECG-FM, HuBERT-ECG, ECGFounder) con PhysioNet/CinC 2021, 87,662 muestras, y los probamos en 43 ECGs anotados por expertos de atletas altamente entrenados/de nivel nacional. El rendimiento fue alto en PhysioNet/CinC 2021 (AUROC 0.97, AUPRC 0.57, sensibilidad 0.89), pero cayó con los datos de los atletas, lo que confirma un cambio de dominio. ECGFounder obtuvo el mejor rendimiento (AUROC 0.84, AUPRC 0.72, sensibilidad 0.57) y detectó bien los hallazgos más frecuentes, la bradicardia sinusal (Sinus Bradycardia, AUROC 0.87) y la arritmia sinusal (Sinus Arrhythmia, AUROC 0.95). Las estimaciones por etiqueta para las clases poco frecuentes deben interpretarse con cautela, dado el pequeño tamaño de la cohorte. Este trabajo contribuye a desarrollar marcos de IA centrados en atletas para un cribado fiable basado en ECG (ECG-based)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+          "cap": "Fig. 1: Mapa de calor de predicciones del modelo con mejor rendimiento (ECGFounder) para cada atleta y cada etiqueta diagnóstica en el conjunto de datos LMU."
+        }
+      ]
+    },
+    "medicine/prehospital-thrombectomy-xai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El ictus isquémico agudo por oclusión de gran vaso requiere un tratamiento endovascular (EVT) rápido. Las escalas prehospitalarias de ictus, aunque ampliamente utilizadas, no han logrado un equilibrio óptimo entre sensibilidad, especificidad y rendimiento discriminativo global, lo que subraya la necesidad de evaluar enfoques de aprendizaje automático (ML) para mejorar la identificación temprana de candidatos a EVT. Realizamos un estudio retrospectivo de desarrollo y validación interna basado en datos digitales del mundo real de pacientes consecutivos con sospecha de ictus trasladados por EMS (EMS-transported) (n = 1,435, 94 eventos de EVT [6.6%]) de la iniciativa Stroke Angel en una región rural de Alemania (Rhön-Grabfeld), en el periodo de enero de 2015 a junio de 2021. Las probabilidades predichas de seis modelos de ML se recalibraron mediante Platt scaling, y la relevancia clínica se evaluó con análisis de curva de decisión (DCA). Se calcularon valores de SHapley Additive exPlanations (SHAP) para cuantificar la contribución de cada variable a las predicciones del modelo. Entre 287 pacientes (24 eventos de EVT) de la cohorte de evaluación, Random Forest obtuvo el AUROC más alto (0.85 [95% CI, 0.78–0.90]), con una sensibilidad de 0.92 [0.74–0.99] y una especificidad de 0.66 [0.60–0.72]. La 4I-SS (puntuación > 2) arrojó un AUROC de 0.82 [0.72–0.89], una sensibilidad de 0.87 [0.67–0.96] y una especificidad de 0.69 [0.64–0.74]. Los intervalos obtenidos por bootstrap se solaparon en todas las métricas y en las probabilidades de Platt scaling, lo que sugiere que no hubo una superioridad estadísticamente significativa."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+          "cap": "Fig. 2: Curvas ROC y PR para identificar candidatos a EVT en la cohorte de evaluación."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+          "cap": "Fig. 4: Gráficos resumen de SHAP que muestran la contribución de las variables al modelo predictivo."
+        }
+      ]
+    },
+    "medicine/uk-dhsc-social-care-ai-guidance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se ha publicado la primera guía intersectorial sobre el uso de la inteligencia artificial en la atención social a menores y adultos, que expone cómo los servicios y proveedores de atención social pueden aprovechar al máximo la IA para reducir la carga administrativa y mejorar la calidad de la atención."
+        },
+        {
+          "t": "p",
+          "x": "Un piloto en la atención social de adultos de Swindon Borough Council constató que usar una herramienta de IA para apoyar a los trabajadores sociales redujo un 63% el tiempo administrativo. También recortó el tiempo medio para completar una entrevista de evaluación de la Care Act de 1.5 horas a solo 30 minutos, y el tiempo de redacción de las evaluaciones de 4 horas a solo 1.5 horas."
+        },
+        {
+          "t": "p",
+          "x": "El personal del ayuntamiento de Peterborough desarrolló un asistente de IA a medida llamado Hey Geraldine, que respondió a más de 1,200 preguntas y ahorró unos 15 minutos por interacción."
+        },
+        {
+          "t": "p",
+          "x": "La ministra de Estado de Atención Social y Salud Mental, Alison McGovern, declaró: \"La carga administrativa y el papeleo interminable en la atención social con demasiada frecuencia desvían la atención de los pacientes. Aprovechando el poder de la IA, podemos devolver ese foco a lo que más importa: cuidar\"."
+        },
+        {
+          "t": "p",
+          "x": "La guía es un punto de referencia nacional único para líderes, profesionales y organizaciones del sector, y establece principios clave sobre gobernanza, rendición de cuentas, protección de datos y supervisión profesional, junto con consejos prácticos."
+        }
+      ]
+    },
+    "medicine/smartwatch-hypertension-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con la ayuda de la inteligencia artificial, un smartwatch de consumo tuvo un rendimiento similar al de la medición de la hipertensión en consulta en un estudio clínico prospectivo, lo que sugiere una nueva estrategia para el cribado oportunista a escala poblacional."
+        },
+        {
+          "t": "p",
+          "x": "La hipertensión aumenta el riesgo de enfermedad cardiovascular y de mortalidad por todas las causas, pero alrededor de la mitad de los adultos con hipertensión (sobre todo los más jóvenes) no saben que la tienen. Los wearables de consumo, ampliamente disponibles, pueden medir la presión arterial (BP), pero suelen requerir calibración con mediciones de BP con manguito. Además, faltan datos sobre su rendimiento frente al cribado establecido, lo que limita su traslado a la práctica clínica."
+        }
+      ]
     }
   }
 }

@@ -1,317 +1,167 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "games",
   "cards": [
     {
-      "id": "roblox-free-porting-program",
+      "id": "epic-ue6-blueprint-ai-port",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Roblox, 외부 게임\n무료 이식 길 연다",
-      "body": "Roblox가 AI-assisted 툴로 모바일·PC·콘솔 게임을 무료로 옮긴다.",
-      "mini_headline": "Roblox, 게임 무료 이식",
+      "headline": "Epic, AI로 UE5\n프로젝트를 UE6로",
+      "body": "Fortnite Blueprints 20,000여 개를 AI가 Verse로 옮겼다.",
+      "mini_headline": "Epic의 UE6 AI 전환",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+      "source": "Unreal Engine (Epic Games)",
+      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Roblox는 우선 모바일, PC, 콘솔의 일부 개발자·게임과 작업한다"
-          },
-          {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Roblox"
+            "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
           },
           {
             "t": "p",
-            "x": "Roblox가 개발자의 기존 게임을 자사 플랫폼으로 무료 전환해 주는 새 크리에이터 프로그램을 출시했다."
+            "x": "UE6 Early Access를 포함해 UE6에는 Blueprints와 Actor Gameplay Framework가 빠진다고 Marcus Wassmer가 밝혔다. 게임플레이는 Verse와 새 Scene Graph 프레임워크로 만든다. 유월만 해도 Epic은 UE6 Early Access와 6.0에서 Blueprints와 Actors가 공존한다고 했다. 이번에는 “최근 AI 역량이 발전하면서 AI가 UE5 프로젝트의 UE6 전환을 크게 도울 것이고, 그 과정을 완전히 자동화할 수도 있다고 본다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Roblox Game Solutions의 Jim Greer 시니어 디렉터는 Roblox가 \"게임을 Roblox로 옮겨 오는 에이전틱 전환 도구를 만들었고, 오늘 이 프로그램을 모두에게 연다\"고 했다."
+            "x": "Epic이 꼽은 이유는 두 가지다. AI로 작업 하나를 처리하는 비용이 해마다 13x 수준으로 떨어진다. 두 주 전에는 Epic이 AI로 Fortnite Battle Royale의 Blueprints 전체를 Verse로 바꿔 보는 실험도 했다. 몇 년은 걸리리라 예상한 프로젝트였지만, 20,000개 넘는 Blueprints를 옮긴 끝에 약 300만 줄의 Verse 코드로 돌아가는 프로토타입이 나왔다."
           },
           {
             "t": "p",
-            "x": "Unity든 Unreal이든 엔진은 가리지 않는다. 어떤 엔진으로 만든 게임이든 개발자는 Roblox에 플랫폼 전환을 신청하면 된다."
-          },
-          {
-            "t": "p",
-            "x": "첫 대상은 모바일, PC, 콘솔의 일부 개발자와 게임이다. 승인을 받은 개발자는 소스 코드와 에셋을 넘겨야 한다."
-          },
-          {
-            "t": "p",
-            "x": "Roblox는 개발자 코드를 다룰 때 \"AI-assisted 도구를 쓸 수 있다\"면서도 \"제공된 코드와 에셋은 AI 모델 학습이나 파인튜닝에 쓰지 않는다\"고 못 박았다."
-          },
-          {
-            "t": "p",
-            "x": "전환 비용은 Roblox가 댄다. 게임과 지식재산, Roblox 버전의 소유권은 개발자에게 그대로 남는다. 개발자가 선택하지 않으면 Roblox 플랫폼에는 아무것도 공개되지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "Roblox는 지난 9월 크리에이터가 여러 플랫폼에 게임을 독립 앱으로 낼 수 있는 Everywhere 이니셔티브를 내놓았다."
-          },
-          {
-            "t": "p",
-            "x": "Roblox는 크리에이터가 곧 오프라인 솔로 플레이를 켤 수 있게 된다고도 발표했다. mid-2027 정식 출시에 앞서 얼리 액세스부터 연다."
+            "x": "UE6용으로 만든 AI 도구가 UE 5.9 MegaJam Preview를 시작으로 UE5에도 들어온다. Python 스크립팅 확장, Model Context Protocol(MCP) 개선, Web 타깃 플랫폼, 에셋을 만드는 Unreal Canvas가 들어 있다. “UE 5.9의 상당 부분을 AI 에이전트로 만들었고, 웹 플랫폼 작업 대부분도 그렇다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Roblox opens a free path\nfor games from other platforms",
-          "body": "Roblox will port existing mobile, PC and console games to its platform for free using AI-assisted tools.",
-          "mini_headline": "Roblox ports games for free",
+          "headline": "Epic will use AI to carry\nUE5 projects into UE6",
+          "body": "Epic expects AI to make UE6 conversion practical, and used it to port Fortnite's 20,000+ Blueprints to Verse.",
+          "mini_headline": "Epic's AI path to UE6",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Firm is working with a limited number of developers and games across mobile, PC, and console"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Roblox has launched a new creator program that lets developers convert existing games to its platform for free."
+                "x": "Marcus Wassmer says UE6, including UE6 Early Access, won't include Blueprints or the Actor Gameplay Framework; gameplay will be built in Verse and on the new Scene Graph framework. In June Epic said Blueprints and Actors would coexist in UE6 Early Access and 6.0, but \"with recent advances in AI capability, we expect AI to massively help with converting UE5 projects to UE6, if not make that process fully automatic.\""
               },
               {
                 "t": "p",
-                "x": "As Roblox Game Solutions senior director Jim Greer explained, Roblox has \"built agentic conversion tools that bring games to Roblox, and today we're opening the program to everyone.\""
+                "x": "Epic gives two reasons. The cost of any given task with AI has been going down 13x year over year. And two weeks ago Epic experimented with using AI to convert all of the Blueprints for Fortnite Battle Royale to Verse: a project expected to take years now has a working prototype of about 3 million lines of Verse code after porting more than 20,000 Blueprints."
               },
               {
                 "t": "p",
-                "x": "Developers with games built on any engine, including Unity and Unreal, can apply to have Roblox convert their titles to the platform."
-              },
-              {
-                "t": "p",
-                "x": "The program will initially include a limited group of developers and games across mobile, PC, and console. Approved developers will be asked to provide their source code and assets."
-              },
-              {
-                "t": "p",
-                "x": "Roblox clarified that while it \"may use AI-assisted tools\" to work with a developer's code, \"the code and assets provided won't be used to train or fine-tune AI models.\""
-              },
-              {
-                "t": "p",
-                "x": "Roblox will handle the conversion at no cost, and developers will retain ownership of their game, intellectual property, and the Roblox version. Nothing will be published on Roblox's platform unless a developer chooses to do so."
-              },
-              {
-                "t": "p",
-                "x": "In September, Roblox introduced the Everywhere initiative, enabling creators to publish games as standalone apps across multiple platforms."
-              },
-              {
-                "t": "p",
-                "x": "Roblox also announced that creators will soon be able to enable offline solo play, with early access available before the full release in mid-2027."
+                "x": "AI tooling built for UE6 is coming back to UE5, starting with the UE 5.9 MegaJam Preview: expanded Python scripting, Model Context Protocol (MCP) improvements, Web as a target platform, and Unreal Canvas for generating assets. \"We built much of UE 5.9 with AI agents, including most of the web platform work.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Roblox, 외부 게임\n무료 이식 길 연다",
-          "body": "Roblox가 AI-assisted 툴로 모바일·PC·콘솔 게임을 무료로 옮긴다.",
-          "mini_headline": "Roblox, 게임 무료 이식",
+          "headline": "Epic, AI로 UE5\n프로젝트를 UE6로",
+          "body": "Fortnite Blueprints 20,000여 개를 AI가 Verse로 옮겼다.",
+          "mini_headline": "Epic의 UE6 AI 전환",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Roblox는 우선 모바일, PC, 콘솔의 일부 개발자·게임과 작업한다"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Roblox가 개발자의 기존 게임을 자사 플랫폼으로 무료 전환해 주는 새 크리에이터 프로그램을 출시했다."
+                "x": "UE6 Early Access를 포함해 UE6에는 Blueprints와 Actor Gameplay Framework가 빠진다고 Marcus Wassmer가 밝혔다. 게임플레이는 Verse와 새 Scene Graph 프레임워크로 만든다. 유월만 해도 Epic은 UE6 Early Access와 6.0에서 Blueprints와 Actors가 공존한다고 했다. 이번에는 “최근 AI 역량이 발전하면서 AI가 UE5 프로젝트의 UE6 전환을 크게 도울 것이고, 그 과정을 완전히 자동화할 수도 있다고 본다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Roblox Game Solutions의 Jim Greer 시니어 디렉터는 Roblox가 \"게임을 Roblox로 옮겨 오는 에이전틱 전환 도구를 만들었고, 오늘 이 프로그램을 모두에게 연다\"고 했다."
+                "x": "Epic이 꼽은 이유는 두 가지다. AI로 작업 하나를 처리하는 비용이 해마다 13x 수준으로 떨어진다. 두 주 전에는 Epic이 AI로 Fortnite Battle Royale의 Blueprints 전체를 Verse로 바꿔 보는 실험도 했다. 몇 년은 걸리리라 예상한 프로젝트였지만, 20,000개 넘는 Blueprints를 옮긴 끝에 약 300만 줄의 Verse 코드로 돌아가는 프로토타입이 나왔다."
               },
               {
                 "t": "p",
-                "x": "Unity든 Unreal이든 엔진은 가리지 않는다. 어떤 엔진으로 만든 게임이든 개발자는 Roblox에 플랫폼 전환을 신청하면 된다."
-              },
-              {
-                "t": "p",
-                "x": "첫 대상은 모바일, PC, 콘솔의 일부 개발자와 게임이다. 승인을 받은 개발자는 소스 코드와 에셋을 넘겨야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Roblox는 개발자 코드를 다룰 때 \"AI-assisted 도구를 쓸 수 있다\"면서도 \"제공된 코드와 에셋은 AI 모델 학습이나 파인튜닝에 쓰지 않는다\"고 못 박았다."
-              },
-              {
-                "t": "p",
-                "x": "전환 비용은 Roblox가 댄다. 게임과 지식재산, Roblox 버전의 소유권은 개발자에게 그대로 남는다. 개발자가 선택하지 않으면 Roblox 플랫폼에는 아무것도 공개되지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Roblox는 지난 9월 크리에이터가 여러 플랫폼에 게임을 독립 앱으로 낼 수 있는 Everywhere 이니셔티브를 내놓았다."
-              },
-              {
-                "t": "p",
-                "x": "Roblox는 크리에이터가 곧 오프라인 솔로 플레이를 켤 수 있게 된다고도 발표했다. mid-2027 정식 출시에 앞서 얼리 액세스부터 연다."
+                "x": "UE6용으로 만든 AI 도구가 UE 5.9 MegaJam Preview를 시작으로 UE5에도 들어온다. Python 스크립팅 확장, Model Context Protocol(MCP) 개선, Web 타깃 플랫폼, 에셋을 만드는 Unreal Canvas가 들어 있다. “UE 5.9의 상당 부분을 AI 에이전트로 만들었고, 웹 플랫폼 작업 대부분도 그렇다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roblox、他機種の\nゲームを無料で移植",
-          "body": "RobloxはAI-assistedツールでPC・コンソール・モバイル作品を無料移植する。",
-          "mini_headline": "Roblox、ゲームを無料移植",
+          "headline": "Epic、AIで\nUE5をUE6へ移す",
+          "body": "AIでFortniteのBlueprints 20,000超をVerseへ移植した。",
+          "mini_headline": "EpicのUE6へのAI移行",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Robloxはモバイル、PC、コンソールにわたり、限られた数の開発者とゲームを対象に取り組んでいる"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Robloxは、開発者が既存のゲームを無料で自社プラットフォームへ移行できる新たなクリエイタープログラムを開始した。"
+                "x": "Marcus Wassmerによると、UE6 Early Accessを含むUE6にはBlueprintsとActor Gameplay Frameworkが含まれず、ゲームプレイはVerseと新しいScene Graphフレームワークで構築される。Epicは六月、UE6 Early Accessと6.0でBlueprintsとActorsが共存すると説明していたが、「最近のAIの能力向上により、UE5プロジェクトのUE6への変換はAIが大きく助けるはずで、完全に自動化できる可能性もある」としている。"
               },
               {
                 "t": "p",
-                "x": "Roblox Game SolutionsのシニアディレクターであるJim Greer氏によれば、Robloxは「ゲームをRobloxに持ち込むエージェント型の変換ツールを構築し、今日このプログラムを全員に開放する」という。"
+                "x": "Epicが挙げる理由は二つだ。AIによるタスクのコストは年に13x のペースで下がっている。そして二週間前、EpicはAIでFortnite Battle RoyaleのBlueprintsをすべてVerseに変換する実験を行った。何年もかかると見込まれていたプロジェクトは、20,000を超えるBlueprintsを移植した結果、約300万行のVerseコードによる動作するプロトタイプに到達した。"
               },
               {
                 "t": "p",
-                "x": "UnityやUnrealを含め、どのエンジンで作られたゲームでも、開発者はRobloxにプラットフォームへの変換を申請できる。"
-              },
-              {
-                "t": "p",
-                "x": "当初は、モバイル、PC、コンソールにわたる限られた開発者とゲームが対象となる。承認された開発者には、ソースコードとアセットの提供が求められる。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxは、開発者のコードを扱う際に「AI-assistedツールを使う場合がある」としつつ、「提供されたコードとアセットをAIモデルの学習やファインチューニングに使うことはない」と明言した。"
-              },
-              {
-                "t": "p",
-                "x": "変換は無償でRobloxが担い、開発者はゲーム、知的財産、Roblox版の所有権を保持する。開発者が選ばない限り、Robloxのプラットフォームに何かが公開されることはない。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxは9月、クリエイターが複数のプラットフォームでゲームを単独アプリとして公開できるEverywhereイニシアチブを発表している。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxはまた、クリエイターが近くオフラインのソロプレイを有効にできるようになり、mid-2027の正式リリースに先立ってアーリーアクセスを提供すると発表した。"
+                "x": "UE6向けに作られたAIツールは、UE 5.9 MegaJam Previewを皮切りにUE5にも戻ってくる。Pythonスクリプトの拡張、Model Context Protocol(MCP)の改善、ターゲットプラットフォームとしてのWeb、アセットを生成するUnreal Canvasが含まれる。「UE 5.9の多くはAIエージェントで作った。Webプラットフォームの作業もほとんどがそうだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roblox向他平台游戏\n开放免费移植",
-          "body": "Roblox将借助AI-assisted工具，把现有手机、PC和主机游戏免费移植到其平台。",
-          "mini_headline": "Roblox免费移植游戏",
+          "headline": "Epic将用AI把UE5\n项目迁移至UE6",
+          "body": "Epic已用AI将Fortnite的20,000多个Blueprints移植到Verse。",
+          "mini_headline": "Epic的UE6 AI迁移之路",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Roblox正与手机、PC和主机平台上数量有限的开发者和游戏展开合作"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Roblox推出一项新的创作者计划，让开发者可以免费将现有游戏转换到其平台。"
+                "x": "Marcus Wassmer表示，UE6（包括UE6 Early Access）将不再包含Blueprints和Actor Gameplay Framework，玩法将基于Verse和全新的Scene Graph框架构建。Epic六月曾表示Blueprints与Actors会在UE6 Early Access和6.0中共存，但“随着AI能力近来的进步，我们预计AI将在把UE5项目转换到UE6的过程中提供巨大帮助，甚至让这一过程完全自动化。”"
               },
               {
                 "t": "p",
-                "x": "Roblox Game Solutions高级总监Jim Greer解释称，Roblox已经“打造了把游戏带到Roblox的智能体转换工具，今天我们向所有人开放这项计划”。"
+                "x": "Epic给出两个理由。用AI完成任何一项任务的成本正以每年13x 的幅度下降。两周前，Epic尝试用AI把Fortnite Battle Royale的全部Blueprints转换为Verse：一个原本预计耗时数年的项目，在移植20,000多个Blueprints后，已有约300万行Verse代码的可运行原型。"
               },
               {
                 "t": "p",
-                "x": "无论游戏基于哪种引擎开发，包括Unity和Unreal，开发者都可以申请由Roblox将其作品转换到该平台。"
-              },
-              {
-                "t": "p",
-                "x": "该计划初期只纳入手机、PC和主机平台上有限的一批开发者和游戏。获批的开发者需要提供源代码和素材。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox澄清，虽然它在处理开发者代码时“可能会使用AI-assisted工具”，但“所提供的代码和素材不会用于训练或微调AI模型”。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox将免费完成转换，开发者保留其游戏、知识产权以及Roblox版本的所有权。除非开发者自行选择，否则不会有任何内容发布到Roblox平台上。"
-              },
-              {
-                "t": "p",
-                "x": "今年9月，Roblox推出Everywhere计划，让创作者能够以独立应用的形式在多个平台发布游戏。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox还宣布，创作者很快将能开启离线单人游玩，并在mid-2027正式上线之前提供抢先体验。"
+                "x": "为UE6打造的AI工具正回流到UE5，首先是UE 5.9 MegaJam Preview：扩展的Python脚本、Model Context Protocol（MCP）改进、作为目标平台的Web，以及用于生成资产的Unreal Canvas。“UE 5.9的大部分是我们借助AI智能体完成的，包括大部分Web平台工作。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Roblox abre una vía gratuita\npara juegos de otras plataformas",
-          "body": "Roblox llevará gratis a su plataforma juegos existentes de móvil, PC y consola con herramientas AI-assisted.",
-          "mini_headline": "Roblox porta juegos gratis",
+          "headline": "Epic usará AI para llevar\nproyectos de UE5 a UE6",
+          "body": "Epic cree que la AI hará viable pasar a UE6 y ya la usó para portar más de 20,000 Blueprints de Fortnite a Verse.",
+          "mini_headline": "El camino de Epic hacia UE6 con AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La empresa trabaja con un número limitado de desarrolladores y juegos de móvil, PC y consola"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Imagen: Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Roblox ha lanzado un nuevo programa para creadores que permite a los desarrolladores convertir gratis sus juegos existentes a su plataforma."
+                "x": "Marcus Wassmer afirma que UE6, incluido UE6 Early Access, no incluirá Blueprints ni el Actor Gameplay Framework; el gameplay se construirá en Verse y sobre el nuevo framework Scene Graph. En junio, Epic dijo que Blueprints y Actors coexistirían en UE6 Early Access y 6.0, pero “con los avances recientes en la capacidad de la AI, esperamos que la AI ayude enormemente a convertir proyectos de UE5 a UE6, si no que haga ese proceso totalmente automático”."
               },
               {
                 "t": "p",
-                "x": "Como explicó Jim Greer, director sénior de Roblox Game Solutions, Roblox ha \"creado herramientas de conversión agénticas que llevan juegos a Roblox, y hoy abrimos el programa a todos\"."
+                "x": "Epic da dos razones. El costo de cualquier tarea con AI ha bajado 13x año tras año. Y hace dos semanas Epic experimentó con usar AI para convertir todos los Blueprints de Fortnite Battle Royale a Verse: un proyecto que se esperaba que tomara años ya tiene un prototipo funcional de unos 3 millones de líneas de código Verse tras portar más de 20,000 Blueprints."
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores con juegos hechos en cualquier motor, incluidos Unity y Unreal, pueden solicitar que Roblox convierta sus títulos a la plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Al principio, el programa incluirá un grupo limitado de desarrolladores y juegos de móvil, PC y consola. A los desarrolladores aprobados se les pedirá que aporten su código fuente y sus recursos."
-              },
-              {
-                "t": "p",
-                "x": "Roblox aclaró que, aunque \"puede usar herramientas AI-assisted\" para trabajar con el código de un desarrollador, \"el código y los recursos aportados no se usarán para entrenar ni ajustar modelos de AI\"."
-              },
-              {
-                "t": "p",
-                "x": "Roblox se encargará de la conversión sin coste, y los desarrolladores conservarán la propiedad de su juego, su propiedad intelectual y la versión para Roblox. No se publicará nada en la plataforma de Roblox salvo que el desarrollador lo decida."
-              },
-              {
-                "t": "p",
-                "x": "En septiembre, Roblox presentó la iniciativa Everywhere, que permite a los creadores publicar juegos como aplicaciones independientes en varias plataformas."
-              },
-              {
-                "t": "p",
-                "x": "Roblox también anunció que los creadores podrán activar pronto el juego individual sin conexión, con acceso anticipado antes del lanzamiento completo a mid-2027."
+                "x": "Las herramientas de AI creadas para UE6 vuelven a UE5, empezando por UE 5.9 MegaJam Preview: scripting de Python ampliado, mejoras en Model Context Protocol (MCP), Web como plataforma de destino y Unreal Canvas para generar assets. “Construimos gran parte de UE 5.9 con agentes de AI, incluida la mayor parte del trabajo de la plataforma web”."
               }
             ]
           }
@@ -319,205 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Roblox, 외부 게임\n무료 이식 길 연다",
-          "body": "Roblox는 AI-assisted 툴로 모바일·PC·콘솔 게임을 무료 이식한다.",
-          "mini_headline": "Roblox, 게임 무료 이식",
+          "headline": "Epic, AI로 UE5\n프로젝트를 UE6로",
+          "body": "Fortnite Blueprints 20,000여 개를 AI로 Verse로 옮겼다.",
+          "mini_headline": "Epic의 UE6 AI 전환",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Roblox는 모바일, PC, 콘솔 전반에서 제한된 수의 개발자·게임과 함께 작업하고 있다"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Roblox가 개발자의 기존 게임을 자사 플랫폼으로 무료 전환해 주는 새 크리에이터 프로그램을 출시했다."
+                "x": "Marcus Wassmer는 UE6 Early Access를 포함한 UE6에 Blueprints와 Actor Gameplay Framework가 들어가지 않는다고 밝혔다. 게임플레이는 Verse와 새 Scene Graph 프레임워크로 만든다. Epic은 유월에 UE6 Early Access와 6.0에서 Blueprints와 Actors가 공존한다고 했지만, “최근 AI 역량이 발전하면서 AI가 UE5 프로젝트의 UE6 전환을 크게 도울 것이고, 그 과정을 완전히 자동화할 수도 있다고 본다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Roblox Game Solutions의 Jim Greer 시니어 디렉터는 Roblox가 \"게임을 Roblox로 옮겨 오는 에이전틱 전환 도구를 만들었고, 오늘 이 프로그램을 모두에게 연다\"고 설명했다."
+                "x": "Epic이 내세운 이유는 두 가지다. AI로 어떤 작업을 처리하는 비용이 해마다 13x 수준으로 떨어지고 있다. 그리고 두 주 전 Epic은 AI로 Fortnite Battle Royale의 Blueprints 전체를 Verse로 바꾸는 실험을 했다. 몇 년이 걸릴 것으로 보던 프로젝트가 20,000개가 넘는 Blueprints를 이식한 끝에 약 300만 줄의 Verse 코드로 된 작동 프로토타입을 갖췄다."
               },
               {
                 "t": "p",
-                "x": "Unity와 Unreal을 비롯해 어떤 엔진으로 만든 게임이든, 개발자는 Roblox에 플랫폼 전환을 신청할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "프로그램은 처음에 모바일, PC, 콘솔 전반의 제한된 개발자와 게임으로 시작한다. 승인된 개발자는 소스 코드와 에셋을 제공해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "Roblox는 개발자 코드 작업에 \"AI-assisted 도구를 쓸 수 있다\"면서도 \"제공된 코드와 에셋은 AI 모델 학습이나 파인튜닝에 쓰지 않는다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "전환 비용은 Roblox가 부담하며, 개발자는 게임과 지식재산, Roblox 버전의 소유권을 그대로 갖는다. 개발자가 선택하지 않으면 Roblox 플랫폼에는 아무것도 공개되지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Roblox는 지난 9월 크리에이터가 여러 플랫폼에 게임을 독립 앱으로 출시할 수 있게 하는 Everywhere 이니셔티브를 선보였다."
-              },
-              {
-                "t": "p",
-                "x": "Roblox는 크리에이터가 곧 오프라인 솔로 플레이를 켤 수 있게 되며, mid-2027 정식 출시에 앞서 얼리 액세스를 제공한다고도 발표했다."
+                "x": "UE6용으로 만든 AI 도구가 UE 5.9 MegaJam Preview를 시작으로 UE5에도 들어온다. Python 스크립팅 확장, Model Context Protocol(MCP) 개선, 타깃 플랫폼으로서의 Web, 에셋 생성용 Unreal Canvas가 담겼다. “UE 5.9의 상당 부분을 AI 에이전트로 만들었고, 웹 플랫폼 작업 대부분도 그렇다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roblox、他機種の\nゲームを無料で移植",
-          "body": "RobloxはAI-assistedツールでPC・コンソール・モバイル作品を無料移植する。",
-          "mini_headline": "Roblox、ゲームを無料移植",
+          "headline": "Epic、AIで\nUE5をUE6へ移す",
+          "body": "AIでFortniteのBlueprints 20,000超をVerseへ移植した。",
+          "mini_headline": "EpicのUE6へのAI移行",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Robloxはモバイル、PC、コンソールにわたり、限られた数の開発者とゲームを対象に取り組んでいる"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Robloxは、開発者が既存のゲームを無料で自社プラットフォームへ移行できる新たなクリエイタープログラムを開始した。"
+                "x": "Marcus Wassmerによると、UE6 Early Accessを含むUE6にはBlueprintsとActor Gameplay Frameworkが含まれず、ゲームプレイはVerseと新しいScene Graphフレームワークで構築される。Epicは六月、UE6 Early Accessと6.0でBlueprintsとActorsが共存すると説明していたが、「最近のAIの能力向上により、UE5プロジェクトのUE6への変換はAIが大きく助けるはずで、完全に自動化できる可能性もある」としている。"
               },
               {
                 "t": "p",
-                "x": "Roblox Game SolutionsのシニアディレクターであるJim Greer氏によれば、Robloxは「ゲームをRobloxに持ち込むエージェント型の変換ツールを構築し、今日このプログラムを全員に開放する」という。"
+                "x": "Epicが挙げる理由は二つだ。AIによるタスクのコストは年に13x のペースで下がっている。そして二週間前、EpicはAIでFortnite Battle RoyaleのBlueprintsをすべてVerseに変換する実験を行った。何年もかかると見込まれていたプロジェクトは、20,000を超えるBlueprintsを移植した結果、約300万行のVerseコードによる動作するプロトタイプに到達した。"
               },
               {
                 "t": "p",
-                "x": "UnityやUnrealを含め、どのエンジンで作られたゲームでも、開発者はRobloxにプラットフォームへの変換を申請できる。"
-              },
-              {
-                "t": "p",
-                "x": "当初は、モバイル、PC、コンソールにわたる限られた開発者とゲームが対象となる。承認された開発者には、ソースコードとアセットの提供が求められる。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxは、開発者のコードを扱う際に「AI-assistedツールを使う場合がある」としつつ、「提供されたコードとアセットをAIモデルの学習やファインチューニングに使うことはない」と明言した。"
-              },
-              {
-                "t": "p",
-                "x": "変換は無償でRobloxが担い、開発者はゲーム、知的財産、Roblox版の所有権を保持する。開発者が選ばない限り、Robloxのプラットフォームに何かが公開されることはない。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxは9月、クリエイターが複数のプラットフォームでゲームを単独アプリとして公開できるEverywhereイニシアチブを発表している。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxはまた、クリエイターが近くオフラインのソロプレイを有効にできるようになり、mid-2027の正式リリースに先立ってアーリーアクセスを提供すると発表した。"
+                "x": "UE6向けに作られたAIツールは、UE 5.9 MegaJam Previewを皮切りにUE5にも戻ってくる。Pythonスクリプトの拡張、Model Context Protocol(MCP)の改善、ターゲットプラットフォームとしてのWeb、アセットを生成するUnreal Canvasが含まれる。「UE 5.9の多くはAIエージェントで作った。Webプラットフォームの作業もほとんどがそうだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roblox向他平台游戏\n开放免费移植",
-          "body": "Roblox将借助AI-assisted工具，把现有手机、PC和主机游戏免费移植到其平台。",
-          "mini_headline": "Roblox免费移植游戏",
+          "headline": "Epic将用AI把UE5\n项目迁移至UE6",
+          "body": "Epic已用AI将Fortnite的20,000多个Blueprints移植到Verse。",
+          "mini_headline": "Epic的UE6 AI迁移之路",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Roblox正与手机、PC和主机平台上数量有限的开发者和游戏展开合作"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Roblox推出一项新的创作者计划，让开发者可以免费将现有游戏转换到其平台。"
+                "x": "Marcus Wassmer表示，UE6（包括UE6 Early Access）将不再包含Blueprints和Actor Gameplay Framework，玩法将基于Verse和全新的Scene Graph框架构建。Epic六月曾表示Blueprints与Actors会在UE6 Early Access和6.0中共存，但“随着AI能力近来的进步，我们预计AI将在把UE5项目转换到UE6的过程中提供巨大帮助，甚至让这一过程完全自动化。”"
               },
               {
                 "t": "p",
-                "x": "Roblox Game Solutions高级总监Jim Greer解释称，Roblox已经“打造了把游戏带到Roblox的智能体转换工具，今天我们向所有人开放这项计划”。"
+                "x": "Epic给出两个理由。用AI完成任何一项任务的成本正以每年13x 的幅度下降。两周前，Epic尝试用AI把Fortnite Battle Royale的全部Blueprints转换为Verse：一个原本预计耗时数年的项目，在移植20,000多个Blueprints后，已有约300万行Verse代码的可运行原型。"
               },
               {
                 "t": "p",
-                "x": "无论游戏基于哪种引擎开发，包括Unity和Unreal，开发者都可以申请由Roblox将其作品转换到该平台。"
-              },
-              {
-                "t": "p",
-                "x": "该计划初期只纳入手机、PC和主机平台上有限的一批开发者和游戏。获批的开发者需要提供源代码和素材。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox澄清，虽然它在处理开发者代码时“可能会使用AI-assisted工具”，但“所提供的代码和素材不会用于训练或微调AI模型”。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox将免费完成转换，开发者保留其游戏、知识产权以及Roblox版本的所有权。除非开发者自行选择，否则不会有任何内容发布到Roblox平台上。"
-              },
-              {
-                "t": "p",
-                "x": "今年9月，Roblox推出Everywhere计划，让创作者能够以独立应用的形式在多个平台发布游戏。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox还宣布，创作者很快将能开启离线单人游玩，并在mid-2027正式上线之前提供抢先体验。"
+                "x": "为UE6打造的AI工具正回流到UE5，首先是UE 5.9 MegaJam Preview：扩展的Python脚本、Model Context Protocol（MCP）改进、作为目标平台的Web，以及用于生成资产的Unreal Canvas。“UE 5.9的大部分是我们借助AI智能体完成的，包括大部分Web平台工作。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Roblox abre una vía gratuita\npara juegos de otras plataformas",
-          "body": "Roblox llevará gratis a su plataforma juegos existentes de móvil, PC y consola con herramientas AI-assisted.",
-          "mini_headline": "Roblox porta juegos gratis",
+          "headline": "Epic usará AI para llevar\nproyectos de UE5 a UE6",
+          "body": "Epic cree que la AI hará viable pasar a UE6 y ya la usó para portar más de 20,000 Blueprints de Fortnite a Verse.",
+          "mini_headline": "El camino de Epic hacia UE6 con AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La empresa trabaja con un número limitado de desarrolladores y juegos de móvil, PC y consola"
-              },
-              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Imagen: Roblox"
+                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
               },
               {
                 "t": "p",
-                "x": "Roblox ha lanzado un nuevo programa para creadores que permite a los desarrolladores convertir gratis sus juegos existentes a su plataforma."
+                "x": "Marcus Wassmer afirma que UE6, incluido UE6 Early Access, no incluirá Blueprints ni el Actor Gameplay Framework; el gameplay se construirá en Verse y sobre el nuevo framework Scene Graph. En junio, Epic dijo que Blueprints y Actors coexistirían en UE6 Early Access y 6.0, pero “con los avances recientes en la capacidad de la AI, esperamos que la AI ayude enormemente a convertir proyectos de UE5 a UE6, si no que haga ese proceso totalmente automático”."
               },
               {
                 "t": "p",
-                "x": "Como explicó Jim Greer, director sénior de Roblox Game Solutions, Roblox ha \"creado herramientas de conversión agénticas que llevan juegos a Roblox, y hoy abrimos el programa a todos\"."
+                "x": "Epic da dos razones. El costo de cualquier tarea con AI ha bajado 13x año tras año. Y hace dos semanas Epic experimentó con usar AI para convertir todos los Blueprints de Fortnite Battle Royale a Verse: un proyecto que se esperaba que tomara años ya tiene un prototipo funcional de unos 3 millones de líneas de código Verse tras portar más de 20,000 Blueprints."
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores con juegos hechos en cualquier motor, incluidos Unity y Unreal, pueden solicitar que Roblox convierta sus títulos a la plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Al principio, el programa incluirá un grupo limitado de desarrolladores y juegos de móvil, PC y consola. A los desarrolladores aprobados se les pedirá que aporten su código fuente y sus recursos."
-              },
-              {
-                "t": "p",
-                "x": "Roblox aclaró que, aunque \"puede usar herramientas AI-assisted\" para trabajar con el código de un desarrollador, \"el código y los recursos aportados no se usarán para entrenar ni ajustar modelos de AI\"."
-              },
-              {
-                "t": "p",
-                "x": "Roblox se encargará de la conversión sin coste, y los desarrolladores conservarán la propiedad de su juego, su propiedad intelectual y la versión para Roblox. No se publicará nada en la plataforma de Roblox salvo que el desarrollador lo decida."
-              },
-              {
-                "t": "p",
-                "x": "En septiembre, Roblox presentó la iniciativa Everywhere, que permite a los creadores publicar juegos como aplicaciones independientes en varias plataformas."
-              },
-              {
-                "t": "p",
-                "x": "Roblox también anunció que los creadores podrán activar pronto el juego individual sin conexión, con acceso anticipado antes del lanzamiento completo a mid-2027."
+                "x": "Las herramientas de AI creadas para UE6 vuelven a UE5, empezando por UE 5.9 MegaJam Preview: scripting de Python ampliado, mejoras en Model Context Protocol (MCP), Web como plataforma de destino y Unreal Canvas para generar assets. “Construimos gran parte de UE 5.9 con agentes de AI, incluida la mayor parte del trabajo de la plataforma web”."
               }
             ]
           }
@@ -525,15 +275,15 @@
       }
     },
     {
-      "id": "shiftup-bloodrain-handmade",
+      "id": "unity-neural-unite-tokyo",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Shift Up \"수작업\"\n그래도 AI는 쓴다",
-      "body": "Shift Up CEO는 Blood Rain이 수작업이어도 AI는 꼭 쓴다고 했다.",
-      "mini_headline": "Shift Up의 수작업 약속",
+      "headline": "Unity Neural과\n에이전트 plug-ins",
+      "body": "Unity Neural 텍스처 압축이 Atrio 메모리를 30% 가까이 줄였다.",
+      "mini_headline": "Unite Tokyo의 Unity Neural",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
+      "source": "Unity Blog",
+      "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -541,179 +291,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-            "cap": "이미지 출처: Shift Up"
+            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+            "cap": "Unite Tokyo 2026 Keynote에서 발표하는 Adam Smith"
+          },
+          {
+            "t": "video",
+            "yt": "ZWX5TfR1UAI"
           },
           {
             "t": "p",
-            "x": "Stellar Blade: Blood Rain은 생성형 AI 콘텐츠로 채운 뮤직비디오가 큰 논란을 부르며 다시 화제가 됐다. 이 일로 Shift Up은 논란 많은 이 기술을 어디까지 쓸지 다시 따져 보게 됐다."
+            "x": "Unite Tokyo 2026의 중심은 “아이디어의 속도에 맞춰 만든” Unity 7이었다. ECS for All, Unity CLI 1.0, 코딩 에이전트용 공식 plug-ins, Editor 안에서 Unity Asset Store를 검색하는 Asset Library plug-in이 나왔다. Claude, Codex, Google Antigravity, Grok용 plug-ins에는 Unity 팀이 직접 만들어 검토하고 보안 점검까지 마친 스킬이 들어 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+            "cap": "Unite Tokyo 2026에서 새 그래픽 도구와 Atrio 샘플 씬을 보여주는 Sangbae Nam"
           },
           {
             "t": "p",
-            "x": "Kim Hyung-tae CEO는 처음엔 주인공 Evie가 원래 인간 개발자들이 \"머리부터 발끝까지\" 만든 캐릭터라며 영상을 감쌌다. 이후 Shift Up은 커뮤니티의 우려를 \"진지하게\" 받아들이겠다고 약속하면서도 AI가 \"게임 개발에 많은 영향과 파급력을 미친다\"고 했다."
+            "x": "Unity Neural은 렌더링은 빠르게, 메모리 사용은 적게 만드는 AI-powered 도구 모음이다. Neural Texture Compression은 Atrio의 텍스처 메모리를 30% 가까이 줄였다. Unity 6.7 LTS에 실험 기능으로 들어가고, 정식 출시는 Unity 7에서 할 계획이다. Unity Graphics Kernel(UGK)은 레이 트레이싱을 켠 상태에서 Atrio의 GPU 성능을 62% 넘게 끌어올렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+            "cap": "Unity CLI와 Pipeline API로 프로젝트 전체를 처음부터 끝까지 시연하는 Keijiro Takahashi"
           },
           {
             "t": "p",
-            "x": "Kim은 Inven Global 인터뷰에서 이번 반발이 \"처음부터 끝까지 수작업\"이라는 새 모토를 낳았다고 밝혔다. 그렇다고 Shift Up이 AI를 끊은 건 아니다. 텍스처 웨더링, 성능을 위한 폴리곤 수 감축, 라이팅 테스트, 정리 같은 중간 작업엔 여전히 AI를 쓰고 마무리는 인간 개발자가 모두 손본다."
-          },
-          {
-            "t": "p",
-            "x": "Kim은 \"효율\"과 \"생산성\"만 앞세우는 건 옳은 길이 아니라고 했다. Shift Up이 AI를 쓰는 건 출시를 당기려는 게 아니라 품질을 끌어올리려는 것이라는 설명이다. 효율 때문에 AI에 기대는 게임은 결국 \"slop(저품질 양산물)\" 취급을 받는다고 보면서도, 단순한 품질 보증부터 심층 디버깅까지 두루 쓰이는 지금은 이 기술 없이 일하기가 더는 불가능하다고 덧붙였다."
+            "x": "Keijiro Takahashi는 에이전트(Unity 공식 plug-in을 단 Claude Code)에게 일인칭 퍼즐 프로토타입을 만들게 했다. 에이전트는 코드를 쓰고 컴파일한 뒤 오류를 읽고 플레이테스트까지 했다. 새 Asset Library plug-in은 요청에 맞는 에셋 하나를 찾아 씬에 넣어 준다. 같은 검색은 CLI에서 어느 에이전트로든 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shift Up calls Blood Rain\nhandmade but keeps AI",
-          "body": "After an AI music-video backlash, Shift Up's CEO called Blood Rain handmade but said AI stays essential to development.",
-          "mini_headline": "Shift Up's handmade pledge",
+          "headline": "Unity unveils Unity Neural\nand agent plug-ins",
+          "body": "Unity's Neural Texture Compression cut Atrio's texture memory by nearly 30%, with a full release planned for Unity 7.",
+          "mini_headline": "Unity Neural at Unite Tokyo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "Image credit: Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Adam Smith speaks during the Unite Tokyo 2026 Keynote"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rain re-entered the limelight with a highly controversial music video full of generative AI content – a debacle that prompted Shift Up to reconsider its use of the contentious tech."
+                "x": "Unite Tokyo 2026 centered on Unity 7, \"built for the speed of your ideas\": ECS for All, Unity CLI 1.0, official plug-ins for coding agents, and an Asset Library plug-in that searches the Unity Asset Store from inside the Editor. The plug-ins for Claude, Codex, Google Antigravity, and Grok ship with skills Unity's own team built, reviewed, and security checked."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Sangbae Nam shows new graphics tools and the Atrio sample scene at Unite Tokyo 2026"
               },
               {
                 "t": "p",
-                "x": "CEO Kim Hyung-tae initially defended the video, saying star Evie was originally \"created from head to toe\" by human developers. Shift Up then promised it was taking community concerns \"seriously\", while saying AI has \"a lot of influence and impact on game development.\""
+                "x": "Unity Neural is a set of AI-powered tools for faster rendering and lower memory use. Neural Texture Compression cut Atrio's texture memory by nearly 30%. It arrives as an experimental feature in Unity 6.7 LTS, with a full release planned for Unity 7. Unity Graphics Kernel (UGK) raised GPU performance in Atrio by more than 62% with ray tracing enabled."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Keijiro Takahashi takes the audience through an entire project from end to end using the Unity CLI and Pipeline API"
               },
               {
                 "t": "p",
-                "x": "Speaking to Inven Global, Kim said the backlash birthed a new motto: \"Handmade from start to finish.\" That does not mean Shift Up has stopped using AI. It is still used for intermediate tasks such as texture weathering, reducing polygon counts for performance, testing lighting, and organization, with human developers refining everything at the end."
-              },
-              {
-                "t": "p",
-                "x": "Kim said simply prioritizing \"efficiency\" and \"productivity\" isn't the way to go: Shift Up uses AI to raise quality, not to speed up releases. He believes games that rely on AI for efficiency end up regarded as \"slop\" — but working entirely without the tech is no longer feasible, as it's used in everything from simple quality assurance to more in-depth debugging."
+                "x": "Keijiro Takahashi prompted an agent (Claude Code with Unity's official plug-in) to build a first-person puzzle prototype; the agent wrote code, compiled, read errors, and playtested. The new Asset Library plug-in finds a single asset from a typed request and drops it into your scene, and the same search works from the CLI with any agent."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Shift Up \"수작업\"\n그래도 AI는 쓴다",
-          "body": "Shift Up CEO는 Blood Rain이 수작업이어도 AI는 꼭 쓴다고 했다.",
-          "mini_headline": "Shift Up의 수작업 약속",
+          "headline": "Unity Neural과\n에이전트 plug-ins",
+          "body": "Unity Neural 텍스처 압축이 Atrio 메모리를 30% 가까이 줄였다.",
+          "mini_headline": "Unite Tokyo의 Unity Neural",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "이미지 출처: Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Unite Tokyo 2026 Keynote에서 발표하는 Adam Smith"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rain은 생성형 AI 콘텐츠로 채운 뮤직비디오가 큰 논란을 부르며 다시 화제가 됐다. 이 일로 Shift Up은 논란 많은 이 기술을 어디까지 쓸지 다시 따져 보게 됐다."
+                "x": "Unite Tokyo 2026의 중심은 “아이디어의 속도에 맞춰 만든” Unity 7이었다. ECS for All, Unity CLI 1.0, 코딩 에이전트용 공식 plug-ins, Editor 안에서 Unity Asset Store를 검색하는 Asset Library plug-in이 나왔다. Claude, Codex, Google Antigravity, Grok용 plug-ins에는 Unity 팀이 직접 만들어 검토하고 보안 점검까지 마친 스킬이 들어 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Unite Tokyo 2026에서 새 그래픽 도구와 Atrio 샘플 씬을 보여주는 Sangbae Nam"
               },
               {
                 "t": "p",
-                "x": "Kim Hyung-tae CEO는 처음엔 주인공 Evie가 원래 인간 개발자들이 \"머리부터 발끝까지\" 만든 캐릭터라며 영상을 감쌌다. 이후 Shift Up은 커뮤니티의 우려를 \"진지하게\" 받아들이겠다고 약속하면서도 AI가 \"게임 개발에 많은 영향과 파급력을 미친다\"고 했다."
+                "x": "Unity Neural은 렌더링은 빠르게, 메모리 사용은 적게 만드는 AI-powered 도구 모음이다. Neural Texture Compression은 Atrio의 텍스처 메모리를 30% 가까이 줄였다. Unity 6.7 LTS에 실험 기능으로 들어가고, 정식 출시는 Unity 7에서 할 계획이다. Unity Graphics Kernel(UGK)은 레이 트레이싱을 켠 상태에서 Atrio의 GPU 성능을 62% 넘게 끌어올렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Unity CLI와 Pipeline API로 프로젝트 전체를 처음부터 끝까지 시연하는 Keijiro Takahashi"
               },
               {
                 "t": "p",
-                "x": "Kim은 Inven Global 인터뷰에서 이번 반발이 \"처음부터 끝까지 수작업\"이라는 새 모토를 낳았다고 밝혔다. 그렇다고 Shift Up이 AI를 끊은 건 아니다. 텍스처 웨더링, 성능을 위한 폴리곤 수 감축, 라이팅 테스트, 정리 같은 중간 작업엔 여전히 AI를 쓰고 마무리는 인간 개발자가 모두 손본다."
-              },
-              {
-                "t": "p",
-                "x": "Kim은 \"효율\"과 \"생산성\"만 앞세우는 건 옳은 길이 아니라고 했다. Shift Up이 AI를 쓰는 건 출시를 당기려는 게 아니라 품질을 끌어올리려는 것이라는 설명이다. 효율 때문에 AI에 기대는 게임은 결국 \"slop(저품질 양산물)\" 취급을 받는다고 보면서도, 단순한 품질 보증부터 심층 디버깅까지 두루 쓰이는 지금은 이 기술 없이 일하기가 더는 불가능하다고 덧붙였다."
+                "x": "Keijiro Takahashi는 에이전트(Unity 공식 plug-in을 단 Claude Code)에게 일인칭 퍼즐 프로토타입을 만들게 했다. 에이전트는 코드를 쓰고 컴파일한 뒤 오류를 읽고 플레이테스트까지 했다. 새 Asset Library plug-in은 요청에 맞는 에셋 하나를 찾아 씬에 넣어 준다. 같은 검색은 CLI에서 어느 에이전트로든 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shift Up「手作り」\nそれでもAIは使う",
-          "body": "Shift UpのCEOはBlood Rainを手作りとしつつ、AIは不可欠だと述べた。",
-          "mini_headline": "Shift Upの手作り宣言",
+          "headline": "Unity Neuralと\nエージェントplug-ins",
+          "body": "Unity NeuralはAtrioのテクスチャメモリを30%近く削減した。",
+          "mini_headline": "Unite TokyoのUnity Neural",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "画像提供：Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Unite Tokyo 2026 Keynoteで講演するAdam Smith"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rainは、生成AIコンテンツだらけの物議を醸すミュージックビデオで再び注目を集めた。この騒動を受け、Shift Upは賛否の分かれるこの技術の使い方を見直すことになった。"
+                "x": "Unite Tokyo 2026の中心は「アイデアのスピードに合わせて作られた」Unity 7だった。ECS for All、Unity CLI 1.0、コーディングエージェント向けの公式plug-ins、そしてEditor内からUnity Asset Storeを検索できるAsset Library plug-inが示された。Claude、Codex、Google Antigravity、Grok向けのplug-insには、Unityのチーム自身が作成・レビューし、セキュリティチェックを済ませたスキルが付属する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Unite Tokyo 2026で新しいグラフィックスツールとAtrioのサンプルシーンを紹介するSangbae Nam"
               },
               {
                 "t": "p",
-                "x": "Kim Hyung-tae CEOは当初、主人公のEvieはもともと人間の開発者が「頭からつま先まで」作り上げたキャラクターだとして映像を擁護した。その後Shift Upは、コミュニティの懸念を「真剣に」受け止めると約束しつつ、AIは「ゲーム開発に大きな影響と効果をもたらしている」と述べた。"
+                "x": "Unity Neuralは、レンダリングの高速化とメモリ使用量の削減を図るAI-poweredツール群だ。Neural Texture CompressionはAtrioのテクスチャメモリを30%近く削減した。Unity 6.7 LTSで実験的機能として導入され、正式リリースはUnity 7で予定されている。Unity Graphics Kernel(UGK)は、レイトレーシング有効時のAtrioでGPU性能を62%以上向上させた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Unity CLIとPipeline APIを使い、プロジェクト全体を最初から最後まで案内するKeijiro Takahashi"
               },
               {
                 "t": "p",
-                "x": "KimはInven Globalの取材に対し、今回の反発から「最初から最後まで手作り」という新たなモットーが生まれたと語った。とはいえ、Shift UpがAIの使用をやめたわけではない。テクスチャのウェザリング、パフォーマンスのためのポリゴン数削減、ライティングのテスト、整理といった中間作業には今もAIを使い、最後は人間の開発者がすべてを仕上げる。"
-              },
-              {
-                "t": "p",
-                "x": "Kimは、単に「効率」や「生産性」を優先するのは正しいやり方ではないとし、Shift Upはリリースを早めるためではなく品質を高めるためにAIを使っていると述べた。効率のためにAIに頼るゲームは結局「slop（粗製品）」と見なされると考える一方、簡単な品質保証から踏み込んだデバッグまであらゆる場面で使われている以上、この技術なしで作業することはもはや現実的ではないという。"
+                "x": "Keijiro Takahashiはエージェント(Unity公式plug-inを入れたClaude Code)に一人称パズルのプロトタイプを作らせた。エージェントはコードを書き、コンパイルし、エラーを読み、プレイテストまで行った。新しいAsset Library plug-inは、入力した要望から一つのアセットを見つけてシーンに配置する。同じ検索はCLIからどのエージェントでも使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shift Up称纯手工打造\n但仍保留AI",
-          "body": "Shift Up CEO称Blood Rain为手工打造，但表示AI仍是开发必需。",
-          "mini_headline": "Shift Up的手工承诺",
+          "headline": "Unity Neural亮相\n同步推出智能体插件",
+          "body": "Neural Texture Compression使Atrio纹理内存减少近30%。",
+          "mini_headline": "Unite Tokyo上的Unity Neural",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "图片来源：Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Adam Smith在Unite Tokyo 2026 Keynote上发言"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rain因一支充斥生成式AI内容、争议极大的音乐视频重回聚光灯下——这场风波促使Shift Up重新审视对这项争议技术的使用。"
+                "x": "Unite Tokyo 2026的核心是“为你的创意速度而打造”的Unity 7：ECS for All、Unity CLI 1.0、面向编程智能体的官方plug-ins，以及可在Editor内搜索Unity Asset Store的Asset Library plug-in。面向Claude、Codex、Google Antigravity和Grok的plug-ins附带由Unity自家团队开发、审核并经过安全检查的技能。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Sangbae Nam在Unite Tokyo 2026上展示新的图形工具和Atrio示例场景"
               },
               {
                 "t": "p",
-                "x": "CEO Kim Hyung-tae起初为视频辩护，称主角Evie最初是由人类开发者“从头到脚”打造的。随后Shift Up承诺会“认真”对待社区的担忧，同时表示AI对“游戏开发有很大的影响和作用”。"
+                "x": "Unity Neural是一套AI-powered工具，可加快渲染并降低内存占用。Neural Texture Compression使Atrio的纹理内存减少近30%。它将作为实验功能加入Unity 6.7 LTS，计划在Unity 7中正式发布。在开启光线追踪的情况下，Unity Graphics Kernel（UGK）将Atrio的GPU性能提升了62%以上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Keijiro Takahashi使用Unity CLI和Pipeline API，带观众从头到尾走完整个项目"
               },
               {
                 "t": "p",
-                "x": "Kim在接受Inven Global采访时表示，这次反弹催生了一句新座右铭：“从头到尾纯手工打造。”但这并不意味着Shift Up已停止使用AI。贴图做旧、为性能削减多边形数量、测试光照以及整理等中间环节仍在使用AI，最后由人类开发者完成全部打磨。"
-              },
-              {
-                "t": "p",
-                "x": "Kim说，单纯追求“效率”和“生产力”并不可取：Shift Up用AI是为了提升品质，而不是加快发售。他认为，为效率而依赖AI的游戏最终会被视为“slop（粗制滥造之作）”——但完全不用这项技术已不再可行，因为从简单的质量保证到更深入的调试，处处都在用它。"
+                "x": "Keijiro Takahashi让一个智能体（装有Unity官方plug-in的Claude Code）构建第一人称解谜游戏原型；智能体编写代码、编译、读取错误并进行试玩。新的Asset Library plug-in能根据输入的请求找到单个资产并放入场景，同样的搜索也可在CLI中配合任意智能体使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shift Up dice que Blood Rain es\nartesanal, pero sigue con la AI",
-          "body": "Tras la polémica por un videoclip con AI, el CEO de Shift Up llamó artesanal a Blood Rain, pero ve la AI esencial.",
-          "mini_headline": "El compromiso artesanal de Shift Up",
+          "headline": "Unity presenta Unity Neural\ny plug-ins para agentes",
+          "body": "Neural Texture Compression de Unity redujo casi un 30% la memoria de texturas de Atrio y llegará completa en Unity 7.",
+          "mini_headline": "Unity Neural en Unite Tokyo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "Imagen: Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Adam Smith habla durante la Keynote de Unite Tokyo 2026"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rain volvió al primer plano con un videoclip muy polémico lleno de contenido de AI generativa, un tropiezo que llevó a Shift Up a replantearse el uso de esta tecnología tan discutida."
+                "x": "Unite Tokyo 2026 giró en torno a Unity 7, “creado para la velocidad de tus ideas”: ECS for All, Unity CLI 1.0, plug-ins oficiales para agentes de programación y un Asset Library plug-in que busca en la Unity Asset Store desde el Editor. Los plug-ins para Claude, Codex, Google Antigravity y Grok incluyen skills que el propio equipo de Unity creó, revisó y sometió a controles de seguridad."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Sangbae Nam muestra nuevas herramientas gráficas y la escena de ejemplo Atrio en Unite Tokyo 2026"
               },
               {
                 "t": "p",
-                "x": "El CEO Kim Hyung-tae defendió al principio el video y dijo que la protagonista, Evie, fue \"creada de pies a cabeza\" por desarrolladores humanos. Después, Shift Up prometió que se tomaba \"en serio\" las preocupaciones de la comunidad, aunque afirmó que la AI tiene \"mucha influencia e impacto en el desarrollo de juegos\"."
+                "x": "Unity Neural es un conjunto de herramientas AI-powered para renderizar más rápido y usar menos memoria. Neural Texture Compression redujo casi un 30% la memoria de texturas de Atrio. Llega como función experimental en Unity 6.7 LTS, con lanzamiento completo previsto para Unity 7. Unity Graphics Kernel (UGK) elevó más de un 62% el rendimiento de GPU en Atrio con ray tracing activado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Keijiro Takahashi guía al público por un proyecto completo de principio a fin con Unity CLI y Pipeline API"
               },
               {
                 "t": "p",
-                "x": "En declaraciones a Inven Global, Kim dijo que la reacción dio origen a un nuevo lema: \"Hecho a mano de principio a fin\". Eso no significa que Shift Up haya dejado de usar AI. La sigue empleando en tareas intermedias como el desgaste de texturas, la reducción de polígonos para mejorar el rendimiento, las pruebas de iluminación y la organización, y al final los desarrolladores humanos lo pulen todo."
-              },
-              {
-                "t": "p",
-                "x": "Kim dijo que priorizar sin más la \"eficiencia\" y la \"productividad\" no es el camino: Shift Up usa la AI para elevar la calidad, no para acelerar los lanzamientos. Cree que los juegos que dependen de la AI por eficiencia acaban vistos como \"slop\", pero trabajar del todo sin esta tecnología ya no es viable, porque se usa en todo, desde el control de calidad básico hasta la depuración más profunda."
+                "x": "Keijiro Takahashi pidió a un agente (Claude Code con el plug-in oficial de Unity) que creara un prototipo de puzle en primera persona; el agente escribió código, compiló, leyó errores e hizo pruebas de juego. El nuevo Asset Library plug-in encuentra un único asset a partir de una petición escrita y lo coloca en la escena, y la misma búsqueda funciona desde la CLI con cualquier agente."
               }
             ]
           }
@@ -721,125 +531,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Shift Up \"수작업\"\n그래도 AI는 쓴다",
-          "body": "Shift Up CEO는 Blood Rain이 수작업이지만 AI는 필수라고 했다.",
-          "mini_headline": "Shift Up의 수작업 약속",
+          "headline": "Unity Neural과\n에이전트 plug-ins",
+          "body": "Unity Neural 텍스처 압축이 Atrio 메모리를 30% 가까이 줄였다.",
+          "mini_headline": "Unite Tokyo의 Unity Neural",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "이미지 출처: Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Unite Tokyo 2026 Keynote에서 발표하는 Adam Smith"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rain은 생성형 AI 콘텐츠로 가득한 뮤직비디오로 큰 논란에 휩싸이며 다시 주목받았고, 이 사태로 Shift Up은 논쟁적인 이 기술의 활용을 재검토하게 됐다."
+                "x": "Unite Tokyo 2026의 중심은 “아이디어의 속도에 맞춰 만든” Unity 7이었다. ECS for All, Unity CLI 1.0, 코딩 에이전트용 공식 plug-ins, 그리고 Editor 안에서 Unity Asset Store를 검색하는 Asset Library plug-in이 공개됐다. Claude, Codex, Google Antigravity, Grok용 plug-ins에는 Unity 팀이 직접 만들고 검토하고 보안 점검까지 마친 스킬이 함께 들어 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Unite Tokyo 2026에서 새 그래픽 도구와 Atrio 샘플 씬을 보여주는 Sangbae Nam"
               },
               {
                 "t": "p",
-                "x": "Kim Hyung-tae CEO는 처음에 주인공 Evie가 원래 인간 개발자들이 \"머리부터 발끝까지\" 만든 캐릭터라며 영상을 옹호했다. 이후 Shift Up은 커뮤니티의 우려를 \"진지하게\" 받아들이겠다고 약속하면서도, AI가 \"게임 개발에 많은 영향과 파급력을 미친다\"고 말했다."
+                "x": "Unity Neural은 렌더링을 빠르게 하고 메모리 사용을 줄이는 AI-powered 도구 모음이다. Neural Texture Compression은 Atrio의 텍스처 메모리를 30% 가까이 줄였다. Unity 6.7 LTS에 실험 기능으로 들어가고, 정식 출시는 Unity 7로 계획돼 있다. Unity Graphics Kernel(UGK)은 레이 트레이싱을 켠 상태에서 Atrio의 GPU 성능을 62% 넘게 끌어올렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Unity CLI와 Pipeline API로 프로젝트 전체를 처음부터 끝까지 시연하는 Keijiro Takahashi"
               },
               {
                 "t": "p",
-                "x": "Kim은 Inven Global과의 인터뷰에서 이번 반발로 \"처음부터 끝까지 수작업\"이라는 새 모토가 생겼다고 밝혔다. 그렇다고 Shift Up이 AI 사용을 멈춘 것은 아니다. 텍스처 웨더링, 성능을 위한 폴리곤 수 감축, 라이팅 테스트, 정리 같은 중간 작업에는 여전히 AI를 쓰고, 마지막에는 인간 개발자가 모든 것을 다듬는다."
-              },
-              {
-                "t": "p",
-                "x": "Kim은 \"효율\"과 \"생산성\"만 앞세우는 것은 올바른 길이 아니라며, Shift Up은 출시를 앞당기려는 것이 아니라 품질을 높이려고 AI를 쓴다고 말했다. 효율을 위해 AI에 기대는 게임은 결국 \"slop(저품질 양산물)\"으로 여겨진다고 보지만, 단순한 품질 보증부터 심층 디버깅까지 두루 쓰이는 만큼 이 기술 없이 일하는 것은 더는 불가능하다고 했다."
+                "x": "Keijiro Takahashi는 에이전트(Unity 공식 plug-in을 단 Claude Code)에게 일인칭 퍼즐 프로토타입을 만들게 했다. 에이전트는 코드를 쓰고, 컴파일하고, 오류를 읽고, 플레이테스트까지 했다. 새 Asset Library plug-in은 입력한 요청에 맞는 에셋 하나를 찾아 씬에 넣어 주며, 같은 검색을 CLI에서 어떤 에이전트로도 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shift Up「手作り」\nそれでもAIは使う",
-          "body": "Shift UpのCEOはBlood Rainを手作りとしつつ、AIは不可欠だと述べた。",
-          "mini_headline": "Shift Upの手作り宣言",
+          "headline": "Unity Neuralと\nエージェントplug-ins",
+          "body": "Unity NeuralはAtrioのテクスチャメモリを30%近く削減した。",
+          "mini_headline": "Unite TokyoのUnity Neural",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "画像提供：Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Unite Tokyo 2026 Keynoteで講演するAdam Smith"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rainは、生成AIコンテンツだらけの物議を醸すミュージックビデオで再び注目を集めた。この騒動を受け、Shift Upは賛否の分かれるこの技術の使い方を見直すことになった。"
+                "x": "Unite Tokyo 2026の中心は「アイデアのスピードに合わせて作られた」Unity 7だった。ECS for All、Unity CLI 1.0、コーディングエージェント向けの公式plug-ins、そしてEditor内からUnity Asset Storeを検索できるAsset Library plug-inが示された。Claude、Codex、Google Antigravity、Grok向けのplug-insには、Unityのチーム自身が作成・レビューし、セキュリティチェックを済ませたスキルが付属する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Unite Tokyo 2026で新しいグラフィックスツールとAtrioのサンプルシーンを紹介するSangbae Nam"
               },
               {
                 "t": "p",
-                "x": "Kim Hyung-tae CEOは当初、主人公のEvieはもともと人間の開発者が「頭からつま先まで」作り上げたキャラクターだとして映像を擁護した。その後Shift Upは、コミュニティの懸念を「真剣に」受け止めると約束しつつ、AIは「ゲーム開発に大きな影響と効果をもたらしている」と述べた。"
+                "x": "Unity Neuralは、レンダリングの高速化とメモリ使用量の削減を図るAI-poweredツール群だ。Neural Texture CompressionはAtrioのテクスチャメモリを30%近く削減した。Unity 6.7 LTSで実験的機能として導入され、正式リリースはUnity 7で予定されている。Unity Graphics Kernel(UGK)は、レイトレーシング有効時のAtrioでGPU性能を62%以上向上させた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Unity CLIとPipeline APIを使い、プロジェクト全体を最初から最後まで案内するKeijiro Takahashi"
               },
               {
                 "t": "p",
-                "x": "KimはInven Globalの取材に対し、今回の反発から「最初から最後まで手作り」という新たなモットーが生まれたと語った。とはいえ、Shift UpがAIの使用をやめたわけではない。テクスチャのウェザリング、パフォーマンスのためのポリゴン数削減、ライティングのテスト、整理といった中間作業には今もAIを使い、最後は人間の開発者がすべてを仕上げる。"
-              },
-              {
-                "t": "p",
-                "x": "Kimは、単に「効率」や「生産性」を優先するのは正しいやり方ではないとし、Shift Upはリリースを早めるためではなく品質を高めるためにAIを使っていると述べた。効率のためにAIに頼るゲームは結局「slop（粗製品）」と見なされると考える一方、簡単な品質保証から踏み込んだデバッグまであらゆる場面で使われている以上、この技術なしで作業することはもはや現実的ではないという。"
+                "x": "Keijiro Takahashiはエージェント(Unity公式plug-inを入れたClaude Code)に一人称パズルのプロトタイプを作らせた。エージェントはコードを書き、コンパイルし、エラーを読み、プレイテストまで行った。新しいAsset Library plug-inは、入力した要望から一つのアセットを見つけてシーンに配置する。同じ検索はCLIからどのエージェントでも使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shift Up称纯手工打造\n但仍保留AI",
-          "body": "Shift Up CEO称Blood Rain为手工打造，但表示AI仍是开发必需。",
-          "mini_headline": "Shift Up的手工承诺",
+          "headline": "Unity Neural亮相\n同步推出智能体插件",
+          "body": "Neural Texture Compression使Atrio纹理内存减少近30%。",
+          "mini_headline": "Unite Tokyo上的Unity Neural",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "图片来源：Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Adam Smith在Unite Tokyo 2026 Keynote上发言"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rain因一支充斥生成式AI内容、争议极大的音乐视频重回聚光灯下——这场风波促使Shift Up重新审视对这项争议技术的使用。"
+                "x": "Unite Tokyo 2026的核心是“为你的创意速度而打造”的Unity 7：ECS for All、Unity CLI 1.0、面向编程智能体的官方plug-ins，以及可在Editor内搜索Unity Asset Store的Asset Library plug-in。面向Claude、Codex、Google Antigravity和Grok的plug-ins附带由Unity自家团队开发、审核并经过安全检查的技能。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Sangbae Nam在Unite Tokyo 2026上展示新的图形工具和Atrio示例场景"
               },
               {
                 "t": "p",
-                "x": "CEO Kim Hyung-tae起初为视频辩护，称主角Evie最初是由人类开发者“从头到脚”打造的。随后Shift Up承诺会“认真”对待社区的担忧，同时表示AI对“游戏开发有很大的影响和作用”。"
+                "x": "Unity Neural是一套AI-powered工具，可加快渲染并降低内存占用。Neural Texture Compression使Atrio的纹理内存减少近30%。它将作为实验功能加入Unity 6.7 LTS，计划在Unity 7中正式发布。在开启光线追踪的情况下，Unity Graphics Kernel（UGK）将Atrio的GPU性能提升了62%以上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Keijiro Takahashi使用Unity CLI和Pipeline API，带观众从头到尾走完整个项目"
               },
               {
                 "t": "p",
-                "x": "Kim在接受Inven Global采访时表示，这次反弹催生了一句新座右铭：“从头到尾纯手工打造。”但这并不意味着Shift Up已停止使用AI。贴图做旧、为性能削减多边形数量、测试光照以及整理等中间环节仍在使用AI，最后由人类开发者完成全部打磨。"
-              },
-              {
-                "t": "p",
-                "x": "Kim说，单纯追求“效率”和“生产力”并不可取：Shift Up用AI是为了提升品质，而不是加快发售。他认为，为效率而依赖AI的游戏最终会被视为“slop（粗制滥造之作）”——但完全不用这项技术已不再可行，因为从简单的质量保证到更深入的调试，处处都在用它。"
+                "x": "Keijiro Takahashi让一个智能体（装有Unity官方plug-in的Claude Code）构建第一人称解谜游戏原型；智能体编写代码、编译、读取错误并进行试玩。新的Asset Library plug-in能根据输入的请求找到单个资产并放入场景，同样的搜索也可在CLI中配合任意智能体使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shift Up dice que Blood Rain es\nartesanal, pero sigue con la AI",
-          "body": "Tras la polémica por un videoclip con AI, el CEO de Shift Up llamó artesanal a Blood Rain, pero ve la AI esencial.",
-          "mini_headline": "El compromiso artesanal de Shift Up",
+          "headline": "Unity presenta Unity Neural\ny plug-ins para agentes",
+          "body": "Neural Texture Compression de Unity redujo casi un 30% la memoria de texturas de Atrio y llegará completa en Unity 7.",
+          "mini_headline": "Unity Neural en Unite Tokyo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6.jpg",
-                "cap": "Imagen: Shift Up"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+                "cap": "Adam Smith habla durante la Keynote de Unite Tokyo 2026"
+              },
+              {
+                "t": "video",
+                "yt": "ZWX5TfR1UAI"
               },
               {
                 "t": "p",
-                "x": "Stellar Blade: Blood Rain volvió al primer plano con un videoclip muy polémico lleno de contenido de AI generativa, un tropiezo que llevó a Shift Up a replantearse el uso de esta tecnología tan discutida."
+                "x": "Unite Tokyo 2026 giró en torno a Unity 7, “creado para la velocidad de tus ideas”: ECS for All, Unity CLI 1.0, plug-ins oficiales para agentes de programación y un Asset Library plug-in que busca en la Unity Asset Store desde el Editor. Los plug-ins para Claude, Codex, Google Antigravity y Grok incluyen skills que el propio equipo de Unity creó, revisó y sometió a controles de seguridad."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+                "cap": "Sangbae Nam muestra nuevas herramientas gráficas y la escena de ejemplo Atrio en Unite Tokyo 2026"
               },
               {
                 "t": "p",
-                "x": "El CEO Kim Hyung-tae defendió al principio el video y dijo que la protagonista, Evie, fue \"creada de pies a cabeza\" por desarrolladores humanos. Después, Shift Up prometió que se tomaba \"en serio\" las preocupaciones de la comunidad, aunque afirmó que la AI tiene \"mucha influencia e impacto en el desarrollo de juegos\"."
+                "x": "Unity Neural es un conjunto de herramientas AI-powered para renderizar más rápido y usar menos memoria. Neural Texture Compression redujo casi un 30% la memoria de texturas de Atrio. Llega como función experimental en Unity 6.7 LTS, con lanzamiento completo previsto para Unity 7. Unity Graphics Kernel (UGK) elevó más de un 62% el rendimiento de GPU en Atrio con ray tracing activado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+                "cap": "Keijiro Takahashi guía al público por un proyecto completo de principio a fin con Unity CLI y Pipeline API"
               },
               {
                 "t": "p",
-                "x": "En declaraciones a Inven Global, Kim dijo que la reacción dio origen a un nuevo lema: \"Hecho a mano de principio a fin\". Eso no significa que Shift Up haya dejado de usar AI. La sigue empleando en tareas intermedias como el desgaste de texturas, la reducción de polígonos para mejorar el rendimiento, las pruebas de iluminación y la organización, y al final los desarrolladores humanos lo pulen todo."
-              },
-              {
-                "t": "p",
-                "x": "Kim dijo que priorizar sin más la \"eficiencia\" y la \"productividad\" no es el camino: Shift Up usa la AI para elevar la calidad, no para acelerar los lanzamientos. Cree que los juegos que dependen de la AI por eficiencia acaban vistos como \"slop\", pero trabajar del todo sin esta tecnología ya no es viable, porque se usa en todo, desde el control de calidad básico hasta la depuración más profunda."
+                "x": "Keijiro Takahashi pidió a un agente (Claude Code con el plug-in oficial de Unity) que creara un prototipo de puzle en primera persona; el agente escribió código, compiló, leyó errores e hizo pruebas de juego. El nuevo Asset Library plug-in encuentra un único asset a partir de una petición escrita y lo coloca en la escena, y la misma búsqueda funciona desde la CLI con cualquier agente."
               }
             ]
           }
@@ -847,401 +697,311 @@
       }
     },
     {
-      "id": "koeitecmo-ai-qa-gstar",
-      "source_lang": "ko",
+      "id": "hoyoverse-petit-planet-npc",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "코에이 테크모\nAI는 검수, 재미는 사람",
-      "body": "코에이 테크모는 AI로 품질 검사를 효율화하고 아낀 시간을 게임 완성도에 쓴다.",
-      "mini_headline": "AI는 검수, 재미는 사람",
+      "headline": "HoYoverse가 정한\nAI NPCs 안전장치",
+      "body": "Petit Planet의 AI NPCs는 유해 요청을 거절하고 끌 수 있다.",
+      "mini_headline": "AI NPCs 안전장치",
       "tool": "Games",
-      "source": "아이뉴스24",
-      "url": "https://www.inews24.com/view/2028436",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "\"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단순 작업을 대체할 수는 있지만, 최종적으로 무엇이 재미있는지 고민하고 만드는 것은 사람의 역할입니다.\""
-          },
-          {
-            "t": "p",
-            "x": "시바타 코헤이 코에이 테크모 게임즈 '팀 닌자' 프로듀서(PD)는 지난 19일 부산 벡스코에서 열린 '지스타 2026'에서 AI를 활용한 게임 개발에 대해 이같이 밝혔다. '인왕 3' 개발을 맡은 시바타 PD는 'G-CON' 강연 이후 취재진과 만났고, 인터뷰에는 '와룡 2'의 히라야마 마사카즈 PD도 참석했다."
-          },
-          {
             "t": "img",
-            "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-            "cap": "히라야마 마사카즈 코에이테크모 팀 닌자 PD(왼쪽)와 시바타 코헤이 PD(오른쪽)이 인터뷰를 진행하고 있다. [사진=곽민구 기자]"
+            "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
           },
           {
             "t": "p",
-            "x": "시바타 PD는 \"현재 AI를 품질 검사(QA)나 점검 업무에 활용해 일부 작업을 효율화하고 있다\"며 \"작업 시간이 단축되면 그만큼 게임 완성도를 높이는 데 시간을 사용할 수 있다\"고 말했다. AI 활용 범위는 \"새로운 기술인 만큼 어떻게 활용하는 것이 가장 좋은지 계속 검토하고 있다\"고 덧붙였다."
+            "x": "HoYoverse가 선보일 아늑한 생활 시뮬레이션 Petit Planet에는 AI-driven NPC인 Nalo가 운영하는 카페가 있다. Nalo는 지난 대화를 기억했다가 상황에 따라 달라지는 맞춤형 답을 내놓는다. 다만 클로즈드 베타 테스트에서는 무겁거나 자기파괴적인 주제로 흐르는 불편한 상호작용이 일부 나왔다."
           },
           {
             "t": "p",
-            "x": "히라야마 PD는 \"지금도 개발자들이 1~2프레임 단위로 움직임을 조정하면서 이용자가 직관적으로 느끼는 손맛을 구현하고 있다\"고 했다. 시바타 PD는 \"버튼을 눌렀을 때 반응하는 속도와 조작의 단순함은 액션 게임의 핵심\"이라고 강조했다."
+            "x": "개발자 Yinli Huang은 Nalo가 무엇이든 답하는 챗봇은 아니라고 선을 그었다. \"Nalo처럼 AI 시스템을 쓰는 NPCs는 미리 정해진 도덕적 가치관과 성격을 갖는다.\" \"플레이어가 부적절한 말을 하면 Nalo는 그 요청에 응답하거나 더 이상 상호작용하기를 거절한다.\""
+          },
+          {
+            "t": "video",
+            "yt": "RTjd0hhFO74"
           },
           {
             "t": "p",
-            "x": "난이도 설계에서는 적과 플레이어 사이의 공정성을 가장 중시한다. 히라야마 PD는 첫 공격에서 체력의 80%에 해당하는 피해를 입더라도 살아남아 다음 공격에 대응할 수 있도록 하는 것도 한 방법이라고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "팀 닌자는 일본의 엑스(X), 해외 레딧, 중국 SNS 등 각국 반응과 체험판 의견을 매일 분석해 정식 출시 전 개선할 부분을 파악하고 있다. 히라야마 PD는 이번 지스타 '와룡 2' 시연 현장에서도 이용자들의 플레이를 직접 지켜보며 정보를 수집했다."
+            "x": "HoYoverse는 단계별 대응 체계도 갖췄다. Murphy는 \"그런 상호작용이 이어지면 팝업 알림 창이나 필요에 따른 사람의 개입처럼 플레이어에게 더 많은 제한을 둘 것\"이라고 설명했다. AI 기능은 게임 안 토글로 켜고 끄는 완전한 선택 사항이다. 기능을 끈 플레이어도 Nalo의 카페를 그대로 이용하고, 진행도·업적에서도 불이익이 없다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "코에이 테크모\nAI는 검수, 재미는 사람",
-          "body": "코에이 테크모는 AI로 품질 검사를 효율화하고 아낀 시간을 게임 완성도에 쓴다.",
-          "mini_headline": "AI는 검수, 재미는 사람",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "\"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단순 작업을 대체할 수는 있지만, 최종적으로 무엇이 재미있는지 고민하고 만드는 것은 사람의 역할입니다.\""
-              },
-              {
-                "t": "p",
-                "x": "시바타 코헤이 코에이 테크모 게임즈 '팀 닌자' 프로듀서(PD)는 지난 19일 부산 벡스코에서 열린 '지스타 2026'에서 AI를 활용한 게임 개발에 대해 이같이 밝혔다. '인왕 3' 개발을 맡은 시바타 PD는 'G-CON' 강연 이후 취재진과 만났고, 인터뷰에는 '와룡 2'의 히라야마 마사카즈 PD도 참석했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "히라야마 마사카즈 코에이테크모 팀 닌자 PD(왼쪽)와 시바타 코헤이 PD(오른쪽)이 인터뷰를 진행하고 있다. [사진=곽민구 기자]"
-              },
-              {
-                "t": "p",
-                "x": "시바타 PD는 \"현재 AI를 품질 검사(QA)나 점검 업무에 활용해 일부 작업을 효율화하고 있다\"며 \"작업 시간이 단축되면 그만큼 게임 완성도를 높이는 데 시간을 사용할 수 있다\"고 말했다. AI 활용 범위는 \"새로운 기술인 만큼 어떻게 활용하는 것이 가장 좋은지 계속 검토하고 있다\"고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "히라야마 PD는 \"지금도 개발자들이 1~2프레임 단위로 움직임을 조정하면서 이용자가 직관적으로 느끼는 손맛을 구현하고 있다\"고 했다. 시바타 PD는 \"버튼을 눌렀을 때 반응하는 속도와 조작의 단순함은 액션 게임의 핵심\"이라고 강조했다."
-              },
-              {
-                "t": "p",
-                "x": "난이도 설계에서는 적과 플레이어 사이의 공정성을 가장 중시한다. 히라야마 PD는 첫 공격에서 체력의 80%에 해당하는 피해를 입더라도 살아남아 다음 공격에 대응할 수 있도록 하는 것도 한 방법이라고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "팀 닌자는 일본의 엑스(X), 해외 레딧, 중국 SNS 등 각국 반응과 체험판 의견을 매일 분석해 정식 출시 전 개선할 부분을 파악하고 있다. 히라야마 PD는 이번 지스타 '와룡 2' 시연 현장에서도 이용자들의 플레이를 직접 지켜보며 정보를 수집했다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Koei Tecmo: AI checks the work,\npeople make the fun",
-          "body": "Koei Tecmo uses AI to streamline quality checks and spends the saved time on polishing its games.",
-          "mini_headline": "AI checks, people make the fun",
+          "headline": "HoYoverse sets guardrails\nfor Petit Planet's AI NPCs",
+          "body": "Petit Planet's AI NPCs hold preset values, refuse toxic prompts, escalate to humans, and can be turned off.",
+          "mini_headline": "Guardrails for AI NPCs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "\"I believe a game can never become fun unless people make it themselves. AI can replace simple tasks, but in the end it is people's role to think about what is fun and to make it.\""
-              },
-              {
-                "t": "p",
-                "x": "Kohei Shibata, a producer (PD) at Koei Tecmo Games' Team Ninja, said this about game development using AI at G-Star 2026, held at BEXCO in Busan on the 19th. Shibata, who leads development of Nioh 3, met reporters after his G-CON talk, and Wo Long 2 PD Masakazu Hirayama also joined the interview."
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "Koei Tecmo Team Ninja PD Masakazu Hirayama (left) and PD Kohei Shibata (right) during the interview. [Photo = reporter Kwak Min-gu]"
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "\"We are currently using AI for quality assurance (QA) and inspection work, making some tasks more efficient,\" Shibata said. \"When work time is shortened, we can spend that much more time raising the game's level of completion.\" On the scope of AI use, he added, \"Since it is a new technology, we keep reviewing how best to use it.\""
+                "x": "In HoYoverse's upcoming cozy life sim Petit Planet, players can visit a cafe run by an AI-driven NPC called Nalo, who remembers past conversations to deliver dynamic, personalized responses. During closed beta testing, some unsettling interactions involving heavy or self-destructive topics were noticed."
               },
               {
                 "t": "p",
-                "x": "Hirayama said, \"Even now, developers adjust movement in units of 1~2 frames to create the hand feel players sense intuitively.\" Shibata stressed, \"How fast the game responds when you press a button and how simple the controls are is the core of an action game.\""
+                "x": "Developer Yinli Huang said Nalo is not an open-ended chatbot: \"the NPCs that use the AI system, such as Nalo, will have a preset moral value and personality.\" \"Once players have said something inappropriate, Nalo will decline to respond to those requests or interact further.\""
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
               },
               {
                 "t": "p",
-                "x": "In difficulty design, fairness between enemies and the player matters most. Hirayama explained that one approach is to let players survive even when the first attack deals damage equal to 80% of their health, so they can respond to the next attack."
-              },
-              {
-                "t": "p",
-                "x": "Team Ninja analyzes reactions from each country every day, including X in Japan, Reddit overseas and Chinese SNS, along with demo feedback, to find what to improve before the official release. At this G-Star's Wo Long 2 demo area, Hirayama also watched players firsthand to gather information."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "コーエーテクモ\nAIは検証、面白さは人",
-          "body": "コーエーテクモはAIで品質検査を効率化し、浮いた時間をゲームの完成度に充てる。",
-          "mini_headline": "AIは検証、面白さは人",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "「人が自らの手で作らなければ、ゲームは決して面白くならないと考えています。AIで単純作業を置き換えることはできても、最終的に何が面白いかを考えて作るのは人の役割です」"
-              },
-              {
-                "t": "p",
-                "x": "コーエーテクモゲームス「Team NINJA」の柴田剛平プロデューサー（PD）は、19日に釜山BEXCOで開かれた「G-STAR 2026」で、AIを活用したゲーム開発についてこう語った。『仁王3』の開発を担う柴田PDは「G-CON」での講演後に取材に応じ、インタビューには『ウォーロン2』の平山（Masakazu Hirayama）PDも同席した。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "インタビューに応じるコーエーテクモ Team NINJAの平山（Masakazu Hirayama）PD（左）と柴田剛平PD（右）。［写真＝クァク・ミング記者］"
-              },
-              {
-                "t": "p",
-                "x": "柴田PDは「現在、AIを品質検査（QA）や点検業務に活用し、一部の作業を効率化している」とし、「作業時間が短くなれば、その分をゲームの完成度を高めることに使える」と述べた。AIの活用範囲については「新しい技術なので、どう使うのが最善かを引き続き検討している」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "平山PDは「今も開発者が1~2フレーム単位で動きを調整し、プレイヤーが直感的に感じる手応えを作り込んでいる」と話した。柴田PDは「ボタンを押したときの反応の速さと操作のシンプルさこそがアクションゲームの核心だ」と強調した。"
-              },
-              {
-                "t": "p",
-                "x": "難易度設計では、敵とプレイヤーの間の公平さを最も重視する。平山PDは、最初の攻撃で体力の80%に当たるダメージを受けても生き残り、次の攻撃に対応できるようにするのも一つの方法だと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Team NINJAは、日本のX、海外のReddit、中国のSNSなど各国の反応と体験版の意見を毎日分析し、正式発売前に改善すべき点を洗い出している。平山PDは今回のG-STARの『ウォーロン2』試遊会場でも、プレイヤーのプレイを直接見ながら情報を集めた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "光荣特库摩\nAI管质检，乐趣靠人",
-          "body": "光荣特库摩用AI提升质检效率，把省下的时间用于打磨游戏完成度。",
-          "mini_headline": "AI管质检，乐趣靠人",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“我认为，游戏如果不是由人亲手制作，就绝不可能变得有趣。AI可以取代简单的工作，但最终思考什么好玩并把它做出来，是人的职责。”"
-              },
-              {
-                "t": "p",
-                "x": "光荣特库摩游戏旗下“Team NINJA”制作人（PD）柴田刚平19日在釜山BEXCO举行的“G-STAR 2026”上，就利用AI开发游戏一事如此表示。负责《仁王3》开发的柴田PD在“G-CON”演讲后接受了媒体采访，《卧龙2》的平山（Masakazu Hirayama）PD也一同出席。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "光荣特库摩Team NINJA的平山（Masakazu Hirayama）PD（左）与柴田刚平PD（右）正在接受采访。［摄影＝记者Kwak Min-gu］"
-              },
-              {
-                "t": "p",
-                "x": "柴田PD表示：“目前我们把AI用于质量检测（QA）和检查工作，让部分作业变得更高效。”他说：“作业时间缩短后，就能把相应的时间用来提高游戏的完成度。”关于AI的使用范围，他补充说：“由于这是一项新技术，我们仍在持续研究怎样用最好。”"
-              },
-              {
-                "t": "p",
-                "x": "平山PD说：“现在开发者依然以1~2帧为单位调整动作，来实现玩家能直观感受到的手感。”柴田PD强调：“按下按键时的响应速度和操作的简洁，是动作游戏的核心。”"
-              },
-              {
-                "t": "p",
-                "x": "在难度设计上，他们最看重敌人与玩家之间的公平性。平山PD解释说，即使第一次攻击就受到相当于80%体力的伤害，也能存活下来并应对下一次攻击，这也是一种方法。"
-              },
-              {
-                "t": "p",
-                "x": "Team NINJA每天分析日本的X、海外的Reddit、中国SNS等各地反应以及试玩版意见，以找出正式发售前需要改进的地方。平山PD在本届G-STAR的《卧龙2》试玩现场，也亲自观察玩家游玩并收集信息。"
+                "x": "HoYoverse also built a tiered escalation system: \"If that kind of interaction continues, we will put more limits [on] the player, such as a pop-up window notification and human intervention as needed,\" Murphy explained. The AI features are entirely optional, with an in-game toggle, and players who opt out won't be locked out of Nalo's cafe or penalized in progression or achievements."
               }
             ]
           }
         },
         "es": {
-          "headline": "Koei Tecmo: la AI revisa,\nlas personas crean la diversión",
-          "body": "Koei Tecmo usa AI para agilizar el control de calidad y dedica el tiempo ahorrado a pulir sus juegos.",
-          "mini_headline": "La AI revisa, las personas crean",
+          "headline": "HoYoverse limita los NPCs\ncon AI de Petit Planet",
+          "body": "Los NPCs con AI de Petit Planet tienen valores fijados, rechazan mensajes tóxicos, escalan a humanos y pueden apagarse.",
+          "mini_headline": "Límites para NPCs con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "\"Creo que un juego nunca puede ser divertido si no lo hacen personas con sus propias manos. La AI puede sustituir tareas simples, pero al final, pensar qué es divertido y crearlo es tarea de las personas\"."
+                "t": "img",
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "Así lo expresó Kohei Shibata, productor (PD) de Team Ninja en Koei Tecmo Games, sobre el desarrollo de juegos con AI en G-Star 2026, celebrado el día 19 en BEXCO, en Busan. Shibata, a cargo del desarrollo de Nioh 3, habló con la prensa tras su charla en G-CON, y a la entrevista también asistió Masakazu Hirayama, PD de Wo Long 2."
+                "x": "En Petit Planet, el próximo simulador de vida acogedor de HoYoverse, los jugadores pueden visitar una cafetería regentada por un NPC AI-driven llamado Nalo, que recuerda conversaciones pasadas para dar respuestas dinámicas y personalizadas. Durante la beta cerrada se detectaron algunas interacciones inquietantes sobre temas delicados o autodestructivos."
               },
+              {
+                "t": "p",
+                "x": "Yinli Huang, del equipo de desarrollo, dijo que Nalo no es un chatbot abierto: “los NPCs que usan el sistema de AI, como Nalo, tendrán valores morales y una personalidad predefinidos”. “Cuando los jugadores digan algo inapropiado, Nalo se negará a responder a esas peticiones o a seguir interactuando”."
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
+              },
+              {
+                "t": "p",
+                "x": "HoYoverse también creó un sistema de escalado por niveles: “Si ese tipo de interacción continúa, pondremos más límites al jugador, como una notificación en ventana emergente e intervención humana cuando sea necesario”, explicó Murphy. Las funciones de AI son totalmente opcionales, con un interruptor en el juego, y quienes las desactiven no perderán el acceso a la cafetería de Nalo ni sufrirán penalizaciones en progreso o logros."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "HoYoverse가 정한\nAI NPCs 안전장치",
+          "body": "Petit Planet의 AI NPCs는 유해 요청을 거절하고 끌 수 있다.",
+          "mini_headline": "AI NPCs 안전장치",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "Masakazu Hirayama (izquierda) y Kohei Shibata (derecha), PD de Team Ninja de Koei Tecmo, durante la entrevista. [Foto = periodista Kwak Min-gu]"
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "\"Ahora usamos AI en control de calidad (QA) y tareas de verificación para hacer más eficiente parte del trabajo\", dijo Shibata. \"Si se reduce el tiempo de trabajo, podemos dedicar ese tiempo a mejorar el acabado del juego\". Sobre el alcance del uso de AI, añadió: \"Como es una tecnología nueva, seguimos estudiando cuál es la mejor forma de usarla\"."
+                "x": "HoYoverse가 선보일 아늑한 생활 시뮬레이션 Petit Planet에는 AI-driven NPC인 Nalo가 운영하는 카페가 있다. Nalo는 지난 대화를 기억했다가 상황에 따라 달라지는 맞춤형 답을 내놓는다. 다만 클로즈드 베타 테스트에서는 무겁거나 자기파괴적인 주제로 흐르는 불편한 상호작용이 일부 나왔다."
               },
               {
                 "t": "p",
-                "x": "Hirayama afirmó: \"Incluso ahora, los desarrolladores ajustan los movimientos en unidades de 1~2 fotogramas para lograr la sensación de control que el jugador percibe de forma intuitiva\". Shibata subrayó: \"La velocidad de respuesta al pulsar un botón y la sencillez del control son la esencia de un juego de acción\"."
+                "x": "개발자 Yinli Huang은 Nalo가 무엇이든 답하는 챗봇은 아니라고 선을 그었다. \"Nalo처럼 AI 시스템을 쓰는 NPCs는 미리 정해진 도덕적 가치관과 성격을 갖는다.\" \"플레이어가 부적절한 말을 하면 Nalo는 그 요청에 응답하거나 더 이상 상호작용하기를 거절한다.\""
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
               },
               {
                 "t": "p",
-                "x": "En el diseño de la dificultad, lo más importante es la equidad entre enemigos y jugador. Hirayama explicó que una opción es permitir que el jugador sobreviva aunque el primer ataque le quite el 80% de la salud, para que pueda responder al siguiente."
+                "x": "HoYoverse는 단계별 대응 체계도 갖췄다. Murphy는 \"그런 상호작용이 이어지면 팝업 알림 창이나 필요에 따른 사람의 개입처럼 플레이어에게 더 많은 제한을 둘 것\"이라고 설명했다. AI 기능은 게임 안 토글로 켜고 끄는 완전한 선택 사항이다. 기능을 끈 플레이어도 Nalo의 카페를 그대로 이용하고, 진행도·업적에서도 불이익이 없다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HoYoverseが\nAI NPCsに安全策",
+          "body": "Petit PlanetのAI NPCsは有害な要求を拒み、人に引き継ぎ、オフにもできる。",
+          "mini_headline": "AI NPCsの安全策",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "Team Ninja analiza a diario las reacciones de cada país, como X en Japón, Reddit en el extranjero y las SNS chinas, además de las opiniones sobre la demo, para detectar qué mejorar antes del lanzamiento oficial. Hirayama también observó en persona a los jugadores en la zona de prueba de Wo Long 2 de este G-Star para recopilar información."
+                "x": "HoYoverseが近く出す癒やし系生活シミュレーション「Petit Planet」では、AI-driven NPCのNaloが営むカフェを訪れることができる。Naloは過去の会話を覚えており、動的で個別化された応答を返す。クローズドベータテストでは、重い話題や自己破壊的な話題をめぐる不穏なやり取りがいくつか確認された。"
+              },
+              {
+                "t": "p",
+                "x": "開発者のYinli Huangは、Naloは何でも答えるチャットボットではないと述べた。「NaloのようにAIシステムを使うNPCsは、あらかじめ設定された道徳的価値観と性格を持つ」「プレイヤーが不適切なことを言えば、Naloはその要求への応答やそれ以上のやり取りを断る」"
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
+              },
+              {
+                "t": "p",
+                "x": "HoYoverseは段階的な対応の仕組みも設けた。Murphyは「そうしたやり取りが続けば、ポップアップ通知や必要に応じた人の介入など、プレイヤーにさらなる制限をかける」と説明した。AI機能はゲーム内のトグルで切り替えられる完全な任意機能で、オフにしたプレイヤーもNaloのカフェから締め出されたり、進行や実績で不利になったりはしない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HoYoverse为\nAI NPCs设安全护栏",
+          "body": "Petit Planet的AI NPCs拒绝有害请求，可转交人工，也可关闭。",
+          "mini_headline": "AI NPCs的安全护栏",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+              },
+              {
+                "t": "p",
+                "x": "在HoYoverse即将推出的休闲生活模拟游戏Petit Planet中，玩家可以造访由AI-driven NPC Nalo经营的咖啡馆。Nalo会记住过去的对话，给出动态、个性化的回应。封闭测试期间，出现了一些涉及沉重或自我毁灭话题的令人不安的互动。"
+              },
+              {
+                "t": "p",
+                "x": "开发者Yinli Huang表示，Nalo并不是开放式聊天机器人：\"像Nalo这样使用AI系统的NPCs，会有预设的道德价值观和性格。\"\"一旦玩家说了不当的话，Nalo会拒绝回应这些请求或继续互动。\""
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
+              },
+              {
+                "t": "p",
+                "x": "HoYoverse还建立了分级升级机制。Murphy解释说：\"如果这类互动持续下去，我们会对玩家施加更多限制，例如弹窗通知，并在需要时进行人工干预。\"AI功能完全可选，游戏内设有开关；选择关闭的玩家不会被挡在Nalo的咖啡馆门外，也不会在进度或成就上受到惩罚。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Koei Tecmo: AI checks the work,\npeople make the fun",
-          "body": "Koei Tecmo uses AI to streamline quality checks and spends the saved time on polishing its games.",
-          "mini_headline": "AI checks, people make the fun",
+        "es": {
+          "headline": "HoYoverse limita los NPCs\ncon AI de Petit Planet",
+          "body": "Los NPCs con AI de Petit Planet tienen valores fijados, rechazan mensajes tóxicos, escalan a humanos y pueden apagarse.",
+          "mini_headline": "Límites para NPCs con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "\"I believe a game can never become fun unless people make it themselves. AI can replace simple tasks, but in the end it is people's role to think about what is fun and to make it.\""
+                "t": "img",
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "Kohei Shibata, a producer (PD) at Koei Tecmo Games' Team Ninja, said this about game development using AI at G-Star 2026, held at BEXCO in Busan on the 19th. Shibata, who leads development of Nioh 3, met reporters after his G-CON talk, and Wo Long 2 PD Masakazu Hirayama also joined the interview."
+                "x": "En Petit Planet, el próximo simulador de vida acogedor de HoYoverse, los jugadores pueden visitar una cafetería regentada por un NPC AI-driven llamado Nalo, que recuerda conversaciones pasadas para dar respuestas dinámicas y personalizadas. Durante la beta cerrada se detectaron algunas interacciones inquietantes sobre temas delicados o autodestructivos."
               },
+              {
+                "t": "p",
+                "x": "Yinli Huang, del equipo de desarrollo, dijo que Nalo no es un chatbot abierto: “los NPCs que usan el sistema de AI, como Nalo, tendrán valores morales y una personalidad predefinidos”. “Cuando los jugadores digan algo inapropiado, Nalo se negará a responder a esas peticiones o a seguir interactuando”."
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
+              },
+              {
+                "t": "p",
+                "x": "HoYoverse también creó un sistema de escalado por niveles: “Si ese tipo de interacción continúa, pondremos más límites al jugador, como una notificación en ventana emergente e intervención humana cuando sea necesario”, explicó Murphy. Las funciones de AI son totalmente opcionales, con un interruptor en el juego, y quienes las desactiven no perderán el acceso a la cafetería de Nalo ni sufrirán penalizaciones en progreso o logros."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "HoYoverse가 정한\nAI NPCs 안전장치",
+          "body": "Petit Planet의 AI NPCs는 유해 요청을 거절하고 끌 수 있다.",
+          "mini_headline": "AI NPCs 안전장치",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "Koei Tecmo Team Ninja PD Masakazu Hirayama (left) and PD Kohei Shibata (right) during the interview. [Photo = reporter Kwak Min-gu]"
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "\"We are currently using AI for quality assurance (QA) and inspection work, making some tasks more efficient,\" Shibata said. \"When work time is shortened, we can spend that much more time raising the game's level of completion.\" On the scope of AI use, he added, \"Since it is a new technology, we keep reviewing how best to use it.\""
+                "x": "HoYoverse가 선보일 아늑한 생활 시뮬레이션 Petit Planet에서 플레이어는 AI-driven NPC인 Nalo가 운영하는 카페를 찾을 수 있다. Nalo는 지난 대화를 기억해 역동적이고 개인화된 답을 내놓는다. 클로즈드 베타 테스트 중에는 무겁거나 자기파괴적인 주제를 둘러싼 불편한 상호작용이 일부 눈에 띄었다."
               },
               {
                 "t": "p",
-                "x": "Hirayama said, \"Even now, developers adjust movement in units of 1~2 frames to create the hand feel players sense intuitively.\" Shibata stressed, \"How fast the game responds when you press a button and how simple the controls are is the core of an action game.\""
+                "x": "개발자 Yinli Huang은 Nalo가 무엇이든 답하는 챗봇이 아니라고 밝혔다. \"Nalo처럼 AI 시스템을 쓰는 NPCs는 미리 정해진 도덕적 가치관과 성격을 갖는다.\" \"플레이어가 부적절한 말을 하면 Nalo는 그 요청에 응답하거나 더 이상 상호작용하기를 거절한다.\""
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
               },
               {
                 "t": "p",
-                "x": "In difficulty design, fairness between enemies and the player matters most. Hirayama explained that one approach is to let players survive even when the first attack deals damage equal to 80% of their health, so they can respond to the next attack."
-              },
-              {
-                "t": "p",
-                "x": "Team Ninja analyzes reactions from each country every day, including X in Japan, Reddit overseas and Chinese SNS, along with demo feedback, to find what to improve before the official release. At this G-Star's Wo Long 2 demo area, Hirayama also watched players firsthand to gather information."
+                "x": "HoYoverse는 단계별 대응 체계도 갖췄다. Murphy는 \"그런 상호작용이 이어지면 팝업 알림 창이나 필요에 따른 사람의 개입처럼 플레이어에게 더 많은 제한을 둘 것\"이라고 설명했다. AI 기능은 게임 내 토글로 켜고 끌 수 있는 완전한 선택 사항이며, 끄는 플레이어도 Nalo의 카페 이용이 막히거나 진행도·업적에서 불이익을 받지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コーエーテクモ\nAIは検証、面白さは人",
-          "body": "コーエーテクモはAIで品質検査を効率化し、浮いた時間をゲームの完成度に充てる。",
-          "mini_headline": "AIは検証、面白さは人",
+          "headline": "HoYoverseが\nAI NPCsに安全策",
+          "body": "Petit PlanetのAI NPCsは有害な要求を拒み、人に引き継ぎ、オフにもできる。",
+          "mini_headline": "AI NPCsの安全策",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "「人が自らの手で作らなければ、ゲームは決して面白くならないと考えています。AIで単純作業を置き換えることはできても、最終的に何が面白いかを考えて作るのは人の役割です」"
-              },
-              {
-                "t": "p",
-                "x": "コーエーテクモゲームス「Team NINJA」の柴田剛平プロデューサー（PD）は、19日に釜山BEXCOで開かれた「G-STAR 2026」で、AIを活用したゲーム開発についてこう語った。『仁王3』の開発を担う柴田PDは「G-CON」での講演後に取材に応じ、インタビューには『ウォーロン2』の平山（Masakazu Hirayama）PDも同席した。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "インタビューに応じるコーエーテクモ Team NINJAの平山（Masakazu Hirayama）PD（左）と柴田剛平PD（右）。［写真＝クァク・ミング記者］"
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "柴田PDは「現在、AIを品質検査（QA）や点検業務に活用し、一部の作業を効率化している」とし、「作業時間が短くなれば、その分をゲームの完成度を高めることに使える」と述べた。AIの活用範囲については「新しい技術なので、どう使うのが最善かを引き続き検討している」と付け加えた。"
+                "x": "HoYoverseが近く出す癒やし系生活シミュレーション「Petit Planet」では、AI-driven NPCのNaloが営むカフェを訪れることができる。Naloは過去の会話を覚えており、動的で個別化された応答を返す。クローズドベータテストでは、重い話題や自己破壊的な話題をめぐる不穏なやり取りがいくつか確認された。"
               },
               {
                 "t": "p",
-                "x": "平山PDは「今も開発者が1~2フレーム単位で動きを調整し、プレイヤーが直感的に感じる手応えを作り込んでいる」と話した。柴田PDは「ボタンを押したときの反応の速さと操作のシンプルさこそがアクションゲームの核心だ」と強調した。"
+                "x": "開発者のYinli Huangは、Naloは何でも答えるチャットボットではないと述べた。「NaloのようにAIシステムを使うNPCsは、あらかじめ設定された道徳的価値観と性格を持つ」「プレイヤーが不適切なことを言えば、Naloはその要求への応答やそれ以上のやり取りを断る」"
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
               },
               {
                 "t": "p",
-                "x": "難易度設計では、敵とプレイヤーの間の公平さを最も重視する。平山PDは、最初の攻撃で体力の80%に当たるダメージを受けても生き残り、次の攻撃に対応できるようにするのも一つの方法だと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Team NINJAは、日本のX、海外のReddit、中国のSNSなど各国の反応と体験版の意見を毎日分析し、正式発売前に改善すべき点を洗い出している。平山PDは今回のG-STARの『ウォーロン2』試遊会場でも、プレイヤーのプレイを直接見ながら情報を集めた。"
+                "x": "HoYoverseは段階的な対応の仕組みも設けた。Murphyは「そうしたやり取りが続けば、ポップアップ通知や必要に応じた人の介入など、プレイヤーにさらなる制限をかける」と説明した。AI機能はゲーム内のトグルで切り替えられる完全な任意機能で、オフにしたプレイヤーもNaloのカフェから締め出されたり、進行や実績で不利になったりはしない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "光荣特库摩\nAI管质检，乐趣靠人",
-          "body": "光荣特库摩用AI提升质检效率，把省下的时间用于打磨游戏完成度。",
-          "mini_headline": "AI管质检，乐趣靠人",
+          "headline": "HoYoverse为\nAI NPCs设安全护栏",
+          "body": "Petit Planet的AI NPCs拒绝有害请求，可转交人工，也可关闭。",
+          "mini_headline": "AI NPCs的安全护栏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "“我认为，游戏如果不是由人亲手制作，就绝不可能变得有趣。AI可以取代简单的工作，但最终思考什么好玩并把它做出来，是人的职责。”"
-              },
-              {
-                "t": "p",
-                "x": "光荣特库摩游戏旗下“Team NINJA”制作人（PD）柴田刚平19日在釜山BEXCO举行的“G-STAR 2026”上，就利用AI开发游戏一事如此表示。负责《仁王3》开发的柴田PD在“G-CON”演讲后接受了媒体采访，《卧龙2》的平山（Masakazu Hirayama）PD也一同出席。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "光荣特库摩Team NINJA的平山（Masakazu Hirayama）PD（左）与柴田刚平PD（右）正在接受采访。［摄影＝记者Kwak Min-gu］"
+                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
               },
               {
                 "t": "p",
-                "x": "柴田PD表示：“目前我们把AI用于质量检测（QA）和检查工作，让部分作业变得更高效。”他说：“作业时间缩短后，就能把相应的时间用来提高游戏的完成度。”关于AI的使用范围，他补充说：“由于这是一项新技术，我们仍在持续研究怎样用最好。”"
+                "x": "在HoYoverse即将推出的休闲生活模拟游戏Petit Planet中，玩家可以造访由AI-driven NPC Nalo经营的咖啡馆。Nalo会记住过去的对话，给出动态、个性化的回应。封闭测试期间，出现了一些涉及沉重或自我毁灭话题的令人不安的互动。"
               },
               {
                 "t": "p",
-                "x": "平山PD说：“现在开发者依然以1~2帧为单位调整动作，来实现玩家能直观感受到的手感。”柴田PD强调：“按下按键时的响应速度和操作的简洁，是动作游戏的核心。”"
+                "x": "开发者Yinli Huang表示，Nalo并不是开放式聊天机器人：\"像Nalo这样使用AI系统的NPCs，会有预设的道德价值观和性格。\"\"一旦玩家说了不当的话，Nalo会拒绝回应这些请求或继续互动。\""
+              },
+              {
+                "t": "video",
+                "yt": "RTjd0hhFO74"
               },
               {
                 "t": "p",
-                "x": "在难度设计上，他们最看重敌人与玩家之间的公平性。平山PD解释说，即使第一次攻击就受到相当于80%体力的伤害，也能存活下来并应对下一次攻击，这也是一种方法。"
-              },
-              {
-                "t": "p",
-                "x": "Team NINJA每天分析日本的X、海外的Reddit、中国SNS等各地反应以及试玩版意见，以找出正式发售前需要改进的地方。平山PD在本届G-STAR的《卧龙2》试玩现场，也亲自观察玩家游玩并收集信息。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Koei Tecmo: la AI revisa,\nlas personas crean la diversión",
-          "body": "Koei Tecmo usa AI para agilizar el control de calidad y dedica el tiempo ahorrado a pulir sus juegos.",
-          "mini_headline": "La AI revisa, las personas crean",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "\"Creo que un juego nunca puede ser divertido si no lo hacen personas con sus propias manos. La AI puede sustituir tareas simples, pero al final, pensar qué es divertido y crearlo es tarea de las personas\"."
-              },
-              {
-                "t": "p",
-                "x": "Así lo expresó Kohei Shibata, productor (PD) de Team Ninja en Koei Tecmo Games, sobre el desarrollo de juegos con AI en G-Star 2026, celebrado el día 19 en BEXCO, en Busan. Shibata, a cargo del desarrollo de Nioh 3, habló con la prensa tras su charla en G-CON, y a la entrevista también asistió Masakazu Hirayama, PD de Wo Long 2."
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/261429f860458e.jpg",
-                "cap": "Masakazu Hirayama (izquierda) y Kohei Shibata (derecha), PD de Team Ninja de Koei Tecmo, durante la entrevista. [Foto = periodista Kwak Min-gu]"
-              },
-              {
-                "t": "p",
-                "x": "\"Ahora usamos AI en control de calidad (QA) y tareas de verificación para hacer más eficiente parte del trabajo\", dijo Shibata. \"Si se reduce el tiempo de trabajo, podemos dedicar ese tiempo a mejorar el acabado del juego\". Sobre el alcance del uso de AI, añadió: \"Como es una tecnología nueva, seguimos estudiando cuál es la mejor forma de usarla\"."
-              },
-              {
-                "t": "p",
-                "x": "Hirayama afirmó: \"Incluso ahora, los desarrolladores ajustan los movimientos en unidades de 1~2 fotogramas para lograr la sensación de control que el jugador percibe de forma intuitiva\". Shibata subrayó: \"La velocidad de respuesta al pulsar un botón y la sencillez del control son la esencia de un juego de acción\"."
-              },
-              {
-                "t": "p",
-                "x": "En el diseño de la dificultad, lo más importante es la equidad entre enemigos y jugador. Hirayama explicó que una opción es permitir que el jugador sobreviva aunque el primer ataque le quite el 80% de la salud, para que pueda responder al siguiente."
-              },
-              {
-                "t": "p",
-                "x": "Team Ninja analiza a diario las reacciones de cada país, como X en Japón, Reddit en el extranjero y las SNS chinas, además de las opiniones sobre la demo, para detectar qué mejorar antes del lanzamiento oficial. Hirayama también observó en persona a los jugadores en la zona de prueba de Wo Long 2 de este G-Star para recopilar información."
+                "x": "HoYoverse还建立了分级升级机制。Murphy解释说：\"如果这类互动持续下去，我们会对玩家施加更多限制，例如弹窗通知，并在需要时进行人工干预。\"AI功能完全可选，游戏内设有开关；选择关闭的玩家不会被挡在Nalo的咖啡馆门外，也不会在进度或成就上受到惩罚。"
               }
             ]
           }
@@ -1249,15 +1009,15 @@
       }
     },
     {
-      "id": "taketwo-exboss-toystory-ai",
+      "id": "romero-design-ai-trash",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ex-Take-Two 수장\nAI Toy Story론",
-      "body": "전 Take-Two 임원은 히트작 하나면 게임 속 AI 반감도 사라진다고 본다.",
-      "mini_headline": "AI의 Toy Story를 기다리며",
+      "headline": "John Romero\n디자인이 어느 때보다 중요",
+      "body": "Romero는 신작 대부분이 쓰레기이고 상당수가 AI-generated라고 했다.",
+      "mini_headline": "디자인을 강조한 Romero",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1265,209 +1025,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-            "cap": "이미지 출처: Rockstar"
+            "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
           },
           {
             "t": "p",
-            "x": "Red Dead Redemption과 Grand Theft Auto 4 등을 총괄한 Ex-Take Two 수장 Ben Feder는 The Game Business와의 대화에서 사람들이 언젠가는 AI를 받아들인다며, 시간문제일 뿐이라고 했다."
+            "x": "Doom을 함께 만든 John Romero는 특히 모바일에 저품질 신작이 넘쳐난다고 본다. 그는 FRVR Podcast에서 유통이 그 어느 때보다 쉬워졌다며 이렇게 말했다. “그때는 유통이 정말 어려웠다. 지금은 아주 쉽다.”"
           },
           {
             "t": "p",
-            "x": "\"애니메이션이 손그림에서 컴퓨터 애니메이션으로 넘어갈 때 거대한 저항의 벽이 있었다\"고 그는 말한다. \"사람들은 보기 좋지 않다고 생각했다. 그러다 Pixar가 Toy Story를 내놓았다. 훌륭할 뿐 아니라 컴퓨터 생성 애니메이션을 썼고, 그 장점을 최대한 살리는 소재를 골라 놀라운 완성도로 만든 영화였다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-            "cap": "이미지 출처: Rockstar"
+            "x": "“대부분은 쓰레기다.” 그의 말이다. “대부분이 AI-generated이거나, 게임 제작 키트로 그냥 자동 생성한 것이다. 아주 많다. 그래도 자기 작품을 세상에 내놓는 일이 민주화돼 현실이 된 건 멋진 일이다.”"
           },
           {
             "t": "p",
-            "x": "\"Toy Story가 나오자 저항은 모두 사라졌다. 내 생각에 서구에서 소비자가 비디오게임 속 AI를 받아들이기까지 Toy Story 같은 순간 하나만 남았다. 동양은 이미 받아들였다.\""
-          },
-          {
-            "t": "p",
-            "x": "PC Gamer 필자는 중국·한국 같은 나라에서 게임 개발의 AI가 더 널리 받아들여지는 듯하다는 데는 동의한다. 다만 공들여 손으로 만든 영화와 견주는 건 \"어처구니없다\"고 꼬집으며 현 Take-Two CEO Strauss Zelnick의 말을 인용한다. \"데이터셋은 본질적으로 과거를 보고, 창의성은 본질적으로 미래를 본다.\""
+            "x": "Romero는 “지금은 그 어느 때보다 디자인이 중요하다”며 “정말 훌륭한 디자인을 갖추면 사람들이 그 게임에 대해 이야기하고 싶어 할 것”이라고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ex-Take-Two boss awaits\nAI's Toy Story moment",
-          "body": "A former Take-Two executive argues player hostility to AI in games will fade once one breakout title proves its worth.",
-          "mini_headline": "AI awaits its Toy Story",
+          "headline": "John Romero says design\nmatters more than ever",
+          "body": "Romero says games are easier than ever to make, but most new releases, many AI-generated, are trash.",
+          "mini_headline": "Romero: design matters",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "Image credit: Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "Ex-Take Two boss Ben Feder, who oversaw games like Red Dead Redemption and Grand Theft Auto 4, has discussed with The Game Business how one day people will accept AI—it's just a matter of time."
+                "x": "The Doom co-creator says mobile in particular is full of low quality releases. Speaking on the FRVR Podcast, John Romero said distribution is easier than it has ever been: \"Distribution was so hard back then. Now, it's really easy.\""
               },
               {
                 "t": "p",
-                "x": "\"When animation went from hand-drawn to computer animation, there was a massive wall of resistance,\" he says. \"People didn't think it looked good. Then Pixar launched Toy Story. They created a movie that not only was awesome, but used computer-generated animation and chose a subject matter that made the most of it, and did an amazing job with it."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "Image credit: Rockstar"
+                "x": "\"Most of them are trash,\" he said. \"Most of them are AI-generated or there's a game making kit used to just generate them automatically, you know? A lot of them. But it's great, that the democratisation of getting your stuff out there is a reality now.\""
               },
               {
                 "t": "p",
-                "x": "\"Once Toy Story launched, all the resistance went away. My own view is that we are one Toy Story moment away from consumer acceptance of AI in videogames in the West. In the East, they've already accepted it.\""
-              },
-              {
-                "t": "p",
-                "x": "PC Gamer's writer agrees AI in game development seems more widely accepted in countries like China and South Korea, but calls the comparison to a painstakingly hand-crafted film \"mind-boggling,\" and cites current Take-Two CEO Strauss Zelnick: \"Datasets by their very nature are backward looking, creativity by its very nature is forward looking.\""
+                "x": "Romero explained that \"now, more than ever, it's about design\": \"Have a really great design and people are going to want to talk about it.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ex-Take-Two 수장\nAI Toy Story론",
-          "body": "전 Take-Two 임원은 히트작 하나면 게임 속 AI 반감도 사라진다고 본다.",
-          "mini_headline": "AI의 Toy Story를 기다리며",
+          "headline": "John Romero\n디자인이 어느 때보다 중요",
+          "body": "Romero는 신작 대부분이 쓰레기이고 상당수가 AI-generated라고 했다.",
+          "mini_headline": "디자인을 강조한 Romero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "이미지 출처: Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "Red Dead Redemption과 Grand Theft Auto 4 등을 총괄한 Ex-Take Two 수장 Ben Feder는 The Game Business와의 대화에서 사람들이 언젠가는 AI를 받아들인다며, 시간문제일 뿐이라고 했다."
+                "x": "Doom을 함께 만든 John Romero는 특히 모바일에 저품질 신작이 넘쳐난다고 본다. 그는 FRVR Podcast에서 유통이 그 어느 때보다 쉬워졌다며 이렇게 말했다. “그때는 유통이 정말 어려웠다. 지금은 아주 쉽다.”"
               },
               {
                 "t": "p",
-                "x": "\"애니메이션이 손그림에서 컴퓨터 애니메이션으로 넘어갈 때 거대한 저항의 벽이 있었다\"고 그는 말한다. \"사람들은 보기 좋지 않다고 생각했다. 그러다 Pixar가 Toy Story를 내놓았다. 훌륭할 뿐 아니라 컴퓨터 생성 애니메이션을 썼고, 그 장점을 최대한 살리는 소재를 골라 놀라운 완성도로 만든 영화였다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "이미지 출처: Rockstar"
+                "x": "“대부분은 쓰레기다.” 그의 말이다. “대부분이 AI-generated이거나, 게임 제작 키트로 그냥 자동 생성한 것이다. 아주 많다. 그래도 자기 작품을 세상에 내놓는 일이 민주화돼 현실이 된 건 멋진 일이다.”"
               },
               {
                 "t": "p",
-                "x": "\"Toy Story가 나오자 저항은 모두 사라졌다. 내 생각에 서구에서 소비자가 비디오게임 속 AI를 받아들이기까지 Toy Story 같은 순간 하나만 남았다. 동양은 이미 받아들였다.\""
-              },
-              {
-                "t": "p",
-                "x": "PC Gamer 필자는 중국·한국 같은 나라에서 게임 개발의 AI가 더 널리 받아들여지는 듯하다는 데는 동의한다. 다만 공들여 손으로 만든 영화와 견주는 건 \"어처구니없다\"고 꼬집으며 현 Take-Two CEO Strauss Zelnick의 말을 인용한다. \"데이터셋은 본질적으로 과거를 보고, 창의성은 본질적으로 미래를 본다.\""
+                "x": "Romero는 “지금은 그 어느 때보다 디자인이 중요하다”며 “정말 훌륭한 디자인을 갖추면 사람들이 그 게임에 대해 이야기하고 싶어 할 것”이라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ex-Take-Two幹部\nAI版Toy Story待望",
-          "body": "元Take-Two幹部は、ヒット作が一つ出ればゲームAIへの反発は消えると主張する。",
-          "mini_headline": "AIはToy Storyを待つ",
+          "headline": "John Romero\n今こそデザインが重要",
+          "body": "Romeroは、新作の大半はゴミで、多くがAI-generatedだと語った。",
+          "mini_headline": "Romero：デザインが重要",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "画像提供: Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "Red Dead RedemptionやGrand Theft Auto 4などを統括したEx-Take TwoトップのBen Federは、The Game Businessに対し、人々はいずれAIを受け入れる、それは時間の問題にすぎないと語った。"
+                "x": "Doomの共同制作者は、特にモバイルは低品質な新作であふれていると語る。John RomeroはFRVR Podcastで、流通はかつてないほど容易になったと述べた。「当時は流通がとても難しかった。今は本当に簡単だ」"
               },
               {
                 "t": "p",
-                "x": "「アニメーションが手描きからコンピューターアニメーションに移ったとき、巨大な抵抗の壁があった」と彼は言う。「人々は見栄えが良くないと考えていた。そこへPixarがToy Storyを公開した。素晴らしいだけでなく、コンピューター生成のアニメーションを使い、その強みを最大限に生かす題材を選び、見事に仕上げた映画だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "画像提供: Rockstar"
+                "x": "「ほとんどはゴミだ」と彼は言う。「ほとんどはAI-generatedか、ゲーム制作キットで自動生成しただけのものだ。本当に多い。それでも、自分の作品を世に出すことの民主化が現実になったのは素晴らしい」"
               },
               {
                 "t": "p",
-                "x": "「Toy Storyが公開されると、抵抗はすべて消えた。私自身の見方では、西洋で消費者がビデオゲームのAIを受け入れるまで、あと一つのToy Story的瞬間を残すだけだ。東洋ではすでに受け入れられている」"
-              },
-              {
-                "t": "p",
-                "x": "PC Gamerの筆者は、中国や韓国のような国ではゲーム開発におけるAIがより広く受け入れられているようだと認めつつ、丹念に手作りされた映画との比較は「理解に苦しむ」と評し、現Take-Two CEOのStrauss Zelnickの言葉を引く。「データセットは本質的に過去を向き、創造性は本質的に未来を向く」"
+                "x": "Romeroは「今こそ、かつてないほどデザインが大事だ」と説明し、「本当に優れたデザインがあれば、人々はそれについて語りたくなる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ex-Take-Two掌门\n静待AI版Toy Story",
-          "body": "前Take-Two高管认为，一款爆款作品证明价值后，玩家对游戏AI的敌意将消退。",
-          "mini_headline": "AI静待Toy Story时刻",
+          "headline": "John Romero称\n设计比以往更重要",
+          "body": "Romero称做游戏从未如此容易，但新作大多是垃圾，且不少是AI-generated。",
+          "mini_headline": "Romero：设计至上",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "图片来源：Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "曾主管Red Dead Redemption和Grand Theft Auto 4等游戏的Ex-Take Two掌门Ben Feder在与The Game Business交谈时表示，人们终有一天会接受AI——这只是时间问题。"
+                "x": "这位Doom联合创作者表示，移动平台尤其充斥着低质量作品。John Romero在FRVR Podcast上说，发行比以往任何时候都容易：“那时候发行太难了。现在真的很容易。”"
               },
               {
                 "t": "p",
-                "x": "“当动画从手绘转向电脑动画时，曾有一堵巨大的抵抗之墙，”他说。“人们觉得它不好看。后来Pixar推出了Toy Story。他们打造的电影不仅出色，还采用了电脑生成动画，并选择了能把这一技术发挥到极致的题材，完成得非常出色。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "图片来源：Rockstar"
+                "x": "“大多数都是垃圾，”他说。“大多数是AI-generated的，或者用游戏制作工具包直接自动生成的，你知道吗？很多都是这样。但让人人都能把作品发布出去的民主化已成为现实，这很棒。”"
               },
               {
                 "t": "p",
-                "x": "“Toy Story一推出，所有抵触都消失了。我个人认为，在西方，消费者接受电子游戏中的AI只差一个Toy Story时刻。在东方，他们已经接受了。”"
-              },
-              {
-                "t": "p",
-                "x": "PC Gamer的作者认同，在中国和韩国等国家，游戏开发中的AI似乎更被广泛接受，但称将其与一部精心手工打造的电影相比“令人匪夷所思”，并引用现任Take-Two CEO Strauss Zelnick的话：“数据集本质上是向后看的，创造力本质上是向前看的。”"
+                "x": "Romero解释说，“现在比以往任何时候都更关乎设计”：“只要设计真的出色，人们就会想谈论它。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un jefe Ex-Take-Two aguarda\nel momento Toy Story de la AI",
-          "body": "Un directivo Ex-Take-Two cree que el rechazo de los jugadores a la AI en juegos cederá cuando un éxito lo justifique.",
-          "mini_headline": "La AI espera su Toy Story",
+          "headline": "John Romero: el diseño importa\nmás que nunca",
+          "body": "Romero dice que crear juegos es más fácil que nunca, pero la mayoría de estrenos, muchos AI-generated, son basura.",
+          "mini_headline": "Romero: el diseño importa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "Crédito de imagen: Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "Ben Feder, jefe Ex-Take Two que supervisó juegos como Red Dead Redemption y Grand Theft Auto 4, comentó con The Game Business que algún día la gente aceptará la AI: es solo cuestión de tiempo."
+                "x": "El cocreador de Doom afirma que el móvil, en particular, está lleno de lanzamientos de baja calidad. En el FRVR Podcast, John Romero dijo que la distribución es más fácil que nunca: “La distribución era muy difícil entonces. Ahora es muy fácil”."
               },
               {
                 "t": "p",
-                "x": "\"Cuando la animación pasó del dibujo a mano a la animación por ordenador, hubo un enorme muro de resistencia\", afirma. \"La gente no creía que se viera bien. Entonces Pixar lanzó Toy Story. Crearon una película que no solo era magnífica, sino que usaba animación generada por ordenador y eligió un tema que la aprovechaba al máximo, y lo hicieron de forma extraordinaria."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "Crédito de imagen: Rockstar"
+                "x": "“La mayoría son basura”, dijo. “La mayoría son AI-generated o se usa un kit de creación de juegos para generarlos automáticamente, ¿sabes? Muchísimos. Pero es genial que la democratización de poder publicar tus cosas ya sea una realidad”."
               },
               {
                 "t": "p",
-                "x": "\"En cuanto se estrenó Toy Story, toda la resistencia desapareció. Mi opinión es que estamos a un momento Toy Story de que los consumidores de Occidente acepten la AI en los videojuegos. En Oriente ya la han aceptado.\""
-              },
-              {
-                "t": "p",
-                "x": "El redactor de PC Gamer coincide en que la AI en el desarrollo de juegos parece más aceptada en países como China y Corea del Sur, pero califica de \"desconcertante\" la comparación con una película hecha a mano con tanto esmero, y cita al actual CEO de Take-Two, Strauss Zelnick: \"Los conjuntos de datos, por su propia naturaleza, miran hacia atrás; la creatividad, por su propia naturaleza, mira hacia adelante\"."
+                "x": "Romero explicó que “ahora, más que nunca, se trata del diseño”: “Ten un diseño realmente bueno y la gente va a querer hablar de él”."
               }
             ]
           }
@@ -1475,145 +1175,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ex-Take-Two 수장\nAI Toy Story론",
-          "body": "전 Take-Two 임원은 히트작 하나면 게임 AI 반감이 사라진다고 본다.",
-          "mini_headline": "AI의 Toy Story를 기다리며",
+          "headline": "John Romero\n디자인이 어느 때보다 중요",
+          "body": "Romero는 신작 대부분이 쓰레기이고 상당수가 AI-generated라고 했다.",
+          "mini_headline": "Romero: 디자인이 중요",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "이미지 출처: Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "Red Dead Redemption과 Grand Theft Auto 4 등을 총괄한 Ex-Take Two 수장 Ben Feder는 The Game Business와 나눈 대화에서 사람들이 언젠가 AI를 받아들일 것이며, 그것은 시간문제일 뿐이라고 말했다."
+                "x": "Doom의 공동 제작자는 특히 모바일이 저품질 신작으로 가득하다고 말한다. John Romero는 FRVR Podcast에서 유통이 그 어느 때보다 쉬워졌다며 이렇게 말했다. “그때는 유통이 정말 어려웠다. 지금은 아주 쉽다.”"
               },
               {
                 "t": "p",
-                "x": "\"애니메이션이 손그림에서 컴퓨터 애니메이션으로 넘어갈 때 거대한 저항의 벽이 있었다\"고 그는 말한다. \"사람들은 보기 좋지 않다고 생각했다. 그러다 Pixar가 Toy Story를 내놓았다. 훌륭할 뿐 아니라 컴퓨터 생성 애니메이션을 썼고, 그 장점을 최대한 살리는 소재를 골라 놀라운 완성도로 만든 영화였다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "이미지 출처: Rockstar"
+                "x": "“대부분은 쓰레기다.” 그는 말했다. “대부분이 AI-generated이거나, 게임 제작 키트로 그냥 자동 생성한 것이다. 아주 많다. 그래도 자기 작품을 세상에 내놓는 일이 민주화돼 현실이 된 건 멋진 일이다.”"
               },
               {
                 "t": "p",
-                "x": "\"Toy Story가 나오자 저항은 모두 사라졌다. 내 생각에 서구에서 소비자가 비디오게임 속 AI를 받아들이기까지 Toy Story 같은 순간 하나만 남았다. 동양은 이미 받아들였다.\""
-              },
-              {
-                "t": "p",
-                "x": "PC Gamer 필자는 중국과 한국 같은 나라에서 게임 개발의 AI가 더 널리 받아들여지는 듯하다는 데 동의하면서도, 공들여 손으로 만든 영화와의 비교는 \"어처구니없다\"고 평하며 현 Take-Two CEO Strauss Zelnick의 말을 인용한다. \"데이터셋은 본질적으로 과거를 보고, 창의성은 본질적으로 미래를 본다.\""
+                "x": "Romero는 “지금은 그 어느 때보다 디자인이 중요하다”며 “정말 훌륭한 디자인을 갖추면 사람들이 그 게임에 대해 이야기하고 싶어 할 것”이라고 설명했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ex-Take-Two幹部\nAI版Toy Story待望",
-          "body": "元Take-Two幹部は、ヒット作が一つ出ればゲームAIへの反発は消えると主張する。",
-          "mini_headline": "AIはToy Storyを待つ",
+          "headline": "John Romero\n今こそデザインが重要",
+          "body": "Romeroは、新作の大半はゴミで、多くがAI-generatedだと語った。",
+          "mini_headline": "Romero：デザインが重要",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "画像提供: Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "Red Dead RedemptionやGrand Theft Auto 4などを統括したEx-Take TwoトップのBen Federは、The Game Businessに対し、人々はいずれAIを受け入れる、それは時間の問題にすぎないと語った。"
+                "x": "Doomの共同制作者は、特にモバイルは低品質な新作であふれていると語る。John RomeroはFRVR Podcastで、流通はかつてないほど容易になったと述べた。「当時は流通がとても難しかった。今は本当に簡単だ」"
               },
               {
                 "t": "p",
-                "x": "「アニメーションが手描きからコンピューターアニメーションに移ったとき、巨大な抵抗の壁があった」と彼は言う。「人々は見栄えが良くないと考えていた。そこへPixarがToy Storyを公開した。素晴らしいだけでなく、コンピューター生成のアニメーションを使い、その強みを最大限に生かす題材を選び、見事に仕上げた映画だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "画像提供: Rockstar"
+                "x": "「ほとんどはゴミだ」と彼は言う。「ほとんどはAI-generatedか、ゲーム制作キットで自動生成しただけのものだ。本当に多い。それでも、自分の作品を世に出すことの民主化が現実になったのは素晴らしい」"
               },
               {
                 "t": "p",
-                "x": "「Toy Storyが公開されると、抵抗はすべて消えた。私自身の見方では、西洋で消費者がビデオゲームのAIを受け入れるまで、あと一つのToy Story的瞬間を残すだけだ。東洋ではすでに受け入れられている」"
-              },
-              {
-                "t": "p",
-                "x": "PC Gamerの筆者は、中国や韓国のような国ではゲーム開発におけるAIがより広く受け入れられているようだと認めつつ、丹念に手作りされた映画との比較は「理解に苦しむ」と評し、現Take-Two CEOのStrauss Zelnickの言葉を引く。「データセットは本質的に過去を向き、創造性は本質的に未来を向く」"
+                "x": "Romeroは「今こそ、かつてないほどデザインが大事だ」と説明し、「本当に優れたデザインがあれば、人々はそれについて語りたくなる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ex-Take-Two掌门\n静待AI版Toy Story",
-          "body": "前Take-Two高管认为，一款爆款作品证明价值后，玩家对游戏AI的敌意将消退。",
-          "mini_headline": "AI静待Toy Story时刻",
+          "headline": "John Romero称\n设计比以往更重要",
+          "body": "Romero称做游戏从未如此容易，但新作大多是垃圾，且不少是AI-generated。",
+          "mini_headline": "Romero：设计至上",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "图片来源：Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "曾主管Red Dead Redemption和Grand Theft Auto 4等游戏的Ex-Take Two掌门Ben Feder在与The Game Business交谈时表示，人们终有一天会接受AI——这只是时间问题。"
+                "x": "这位Doom联合创作者表示，移动平台尤其充斥着低质量作品。John Romero在FRVR Podcast上说，发行比以往任何时候都容易：“那时候发行太难了。现在真的很容易。”"
               },
               {
                 "t": "p",
-                "x": "“当动画从手绘转向电脑动画时，曾有一堵巨大的抵抗之墙，”他说。“人们觉得它不好看。后来Pixar推出了Toy Story。他们打造的电影不仅出色，还采用了电脑生成动画，并选择了能把这一技术发挥到极致的题材，完成得非常出色。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "图片来源：Rockstar"
+                "x": "“大多数都是垃圾，”他说。“大多数是AI-generated的，或者用游戏制作工具包直接自动生成的，你知道吗？很多都是这样。但让人人都能把作品发布出去的民主化已成为现实，这很棒。”"
               },
               {
                 "t": "p",
-                "x": "“Toy Story一推出，所有抵触都消失了。我个人认为，在西方，消费者接受电子游戏中的AI只差一个Toy Story时刻。在东方，他们已经接受了。”"
-              },
-              {
-                "t": "p",
-                "x": "PC Gamer的作者认同，在中国和韩国等国家，游戏开发中的AI似乎更被广泛接受，但称将其与一部精心手工打造的电影相比“令人匪夷所思”，并引用现任Take-Two CEO Strauss Zelnick的话：“数据集本质上是向后看的，创造力本质上是向前看的。”"
+                "x": "Romero解释说，“现在比以往任何时候都更关乎设计”：“只要设计真的出色，人们就会想谈论它。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un jefe Ex-Take-Two aguarda\nel momento Toy Story de la AI",
-          "body": "Un directivo Ex-Take-Two cree que el rechazo de los jugadores a la AI en juegos cederá cuando un éxito lo justifique.",
-          "mini_headline": "La AI espera su Toy Story",
+          "headline": "John Romero: el diseño importa\nmás que nunca",
+          "body": "Romero dice que crear juegos es más fácil que nunca, pero la mayoría de estrenos, muchos AI-generated, son basura.",
+          "mini_headline": "Romero: el diseño importa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb.jpg",
-                "cap": "Crédito de imagen: Rockstar"
+                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
               },
               {
                 "t": "p",
-                "x": "Ben Feder, jefe Ex-Take Two que supervisó juegos como Red Dead Redemption y Grand Theft Auto 4, comentó con The Game Business que algún día la gente aceptará la AI: es solo cuestión de tiempo."
+                "x": "El cocreador de Doom afirma que el móvil, en particular, está lleno de lanzamientos de baja calidad. En el FRVR Podcast, John Romero dijo que la distribución es más fácil que nunca: “La distribución era muy difícil entonces. Ahora es muy fácil”."
               },
               {
                 "t": "p",
-                "x": "\"Cuando la animación pasó del dibujo a mano a la animación por ordenador, hubo un enorme muro de resistencia\", afirma. \"La gente no creía que se viera bien. Entonces Pixar lanzó Toy Story. Crearon una película que no solo era magnífica, sino que usaba animación generada por ordenador y eligió un tema que la aprovechaba al máximo, y lo hicieron de forma extraordinaria."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3wYeRWjVYBcpjvJXGCzvuC.jpg",
-                "cap": "Crédito de imagen: Rockstar"
+                "x": "“La mayoría son basura”, dijo. “La mayoría son AI-generated o se usa un kit de creación de juegos para generarlos automáticamente, ¿sabes? Muchísimos. Pero es genial que la democratización de poder publicar tus cosas ya sea una realidad”."
               },
               {
                 "t": "p",
-                "x": "\"En cuanto se estrenó Toy Story, toda la resistencia desapareció. Mi opinión es que estamos a un momento Toy Story de que los consumidores de Occidente acepten la AI en los videojuegos. En Oriente ya la han aceptado.\""
-              },
-              {
-                "t": "p",
-                "x": "El redactor de PC Gamer coincide en que la AI en el desarrollo de juegos parece más aceptada en países como China y Corea del Sur, pero califica de \"desconcertante\" la comparación con una película hecha a mano con tanto esmero, y cita al actual CEO de Take-Two, Strauss Zelnick: \"Los conjuntos de datos, por su propia naturaleza, miran hacia atrás; la creatividad, por su propia naturaleza, mira hacia adelante\"."
+                "x": "Romero explicó que “ahora, más que nunca, se trata del diseño”: “Ten un diseño realmente bueno y la gente va a querer hablar de él”."
               }
             ]
           }
@@ -1621,15 +1281,15 @@
       }
     },
     {
-      "id": "songyee-yoon-ai-native-gbn",
+      "id": "tripo-ai-gstar-b2c",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Songyee Yoon의\nAI-native 게임론",
-      "body": "Ex-NCSoft Songyee Yoon은 게임 공식이 AI 기업을 키운다고 봤다.",
-      "mini_headline": "Songyee Yoon의 AI-native 플레이",
+      "headline": "Tripo AI, 3D\n모델 생성기 소비자 공략",
+      "body": "Tripo AI는 G-Star 2026에 학생·인디 개발자용 B2C 부스를 냈다.",
+      "mini_headline": "Tripo AI, B2C로",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/",
+      "source": "Inven Global",
+      "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1637,173 +1297,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+            "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
           },
           {
             "t": "p",
-            "x": "Songyee Yoon은 던전 하나 보이지 않는 곳에서도 게임의 공식이 차세대 AI 기업을 만들 거라고 믿는다. Principal Venture Partners 매니징 파트너이자 Ex-NCSoft 사장 겸 최고전략책임자인 그는 San Francisco에서 열린 GamesBeat Next 2026에서 Dean Takahashi와 대담했다."
+            "x": "텍스트·이미지·스케치로 3D 모델을 만드는 3D 모델 생성 플랫폼 Tripo AI가 올해도 G-STAR에 참가했다. B2B관까지 오기 어려운 학생, 소규모 인디 개발 스튜디오와 만나려고 B2C관에도 부스를 차렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+            "cap": "방문객이 3D 모델을 직접 생성하고 편집하며 기능과 성능을 체험할 수 있는 공간도 마련됐다 ©INVEN"
           },
           {
             "t": "p",
-            "x": "Yoon이 꼽은 게임의 본질은 \"리텐션과 인게이지먼트\"다. 그가 투자한 창업자들은 이 메커니즘을 소비자용 AI 앱에 가져다 쓴다. 개인화된 스토리 전개와 생성형 던전도 최근에야 플레이어가 즐길 만한 품질에 올라섰다. 그는 포트폴리오 기업 Operative Games를 예로 들었다. 이 회사의 AI 스토리텔링에선 캐릭터가 Zoom 회의와 캘린더 초대에 나타난다."
+            "x": "제품 총괄(Head of Product) Jack Fan은 Tripo가 클릭 한 번으로 3D 모델을 만드는 'Tripo Studio'와 작업을 단계별로 나누는 'Canvas'에 집중한다고 말했다. 서비스는 매주 여러 차례 업데이트되고 몇 달마다 새 기반 모델이 나온다. 'H3.1'은 초고정밀 모델이고, 'P2.0'은 50,000 폴리곤 미만의 가벼운 지오메트리로 5초 안에 모델을 만든다."
           },
           {
             "t": "p",
-            "x": "이제 게임은 예측 시장 앱, AI-made 마이크로 드라마와 사용자 확보 비용을 놓고 다툰다. \"업계의 과제는 그만큼 몰입감 있고 재미있는 콘텐츠를 만드는 것\"이라고 그는 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Yoon은 Georgia Tech 연구라고 소개한 자료를 인용해, AI-generated 작업물은 사람의 작업보다 균질한 편이라 역발상 창작자에게 여지가 남는다고 말했다. 작은 스튜디오도 이제 훨씬 많이 만들 수 있게 됐다. 다만 첫 결과물을 손대지 않고 두면 저품질 콘텐츠가 나올 수 있다. 플레이어가 AI를 신경 쓰느냐는 U.S.(미국)와 아시아의 차이가 아니라 플레이어의 동기에 달렸다는 게 그의 시각이다."
+            "x": "사용자 상당수는 평소 쓰는 에이전트에서 MCP(Model Context Protocol)로 Tripo AI에 접속한다. 한국·일본 시장 총괄(Head of Korea & Japan Markets) Ellie Wang은 올해 게임 업계의 관심이 폭발적으로 늘었다고 했다. 한국 스튜디오의 피드백을 받아 만든, 에셋을 함께 쓰는 'Team Plan'도 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Songyee Yoon on AI-native\ngames and human creativity",
-          "body": "Ex-NCSoft president Songyee Yoon told GamesBeat Next that gaming's playbook will shape the next wave of AI companies.",
-          "mini_headline": "Songyee Yoon on AI-native play",
+          "headline": "Tripo AI takes its 3D model\ngenerator to consumers",
+          "body": "At G-Star 2026, Tripo AI, widely used by game developers, added a B2C booth to reach students and indie developers.",
+          "mini_headline": "Tripo AI goes B2C",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoon believes that gaming's playbook will build the next wave of AI companies, even when there isn't a dungeon in sight. The managing partner at Principal Venture Partners and former NCSoft president and chief strategy officer spoke at GamesBeat Next 2026 in San Francisco with Dean Takahashi."
+                "x": "Tripo AI, a 3D model generation platform that generates 3D models from text, images, or sketches, attended G-STAR again this year and set up a booth in the B2C hall as well, to expand touchpoints with students and small indie development studios who might find it difficult to visit the B2B hall."
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "A space was also provided where visitors could directly generate and edit 3D models to experience its features and performance ©INVEN"
               },
               {
                 "t": "p",
-                "x": "The essence of gaming is \"retention and engagement,\" Yoon said, and the founders she backs apply those mechanics to consumer AI apps. Personalized story progression and generated dungeons have only recently reached a quality players enjoy; she pointed to portfolio company Operative Games, whose AI storytelling lets characters show up in Zoom meetings and calendar invites."
+                "x": "Head of Product Jack Fan said Tripo focuses on 'Tripo Studio,' which generates 3D models with a single click, and 'Canvas,' which splits work into step-by-step stages. The service is updated multiple times every week, with new foundational models every few months. 'H3.1' is an ultra-high-precision model, while 'P2.0' generates models in under 5 seconds with lightweight geometry under 50,000 polygons."
               },
               {
                 "t": "p",
-                "x": "Games now compete for user acquisition spending with prediction market apps and AI-made micro dramas. \"The industry's challenge,\" she said, \"is to build content that is just as engaging and entertaining.\""
-              },
-              {
-                "t": "p",
-                "x": "AI-generated work tends to be more homogeneous than human work, Yoon said, citing a study she attributed to Georgia Tech, which leaves room for contrarian creators. Small studios can now produce far more, but leaving the first output untouched can produce slop. Whether players care about AI depends on player motivation, not a divide between the U.S. and Asia."
+                "x": "Many users enter Tripo AI from whichever agent they use via MCP (Model Context Protocol). Ellie Wang, Head of Korea & Japan Markets, said interest from the gaming sector expanded explosively this year; feedback from Korean studios led to a 'Team Plan' for sharing created assets."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Songyee Yoon의\nAI-native 게임론",
-          "body": "Ex-NCSoft Songyee Yoon은 게임 공식이 AI 기업을 키운다고 봤다.",
-          "mini_headline": "Songyee Yoon의 AI-native 플레이",
+          "headline": "Tripo AI, 3D\n모델 생성기 소비자 공략",
+          "body": "Tripo AI는 G-Star 2026에 학생·인디 개발자용 B2C 부스를 냈다.",
+          "mini_headline": "Tripo AI, B2C로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoon은 던전 하나 보이지 않는 곳에서도 게임의 공식이 차세대 AI 기업을 만들 거라고 믿는다. Principal Venture Partners 매니징 파트너이자 Ex-NCSoft 사장 겸 최고전략책임자인 그는 San Francisco에서 열린 GamesBeat Next 2026에서 Dean Takahashi와 대담했다."
+                "x": "텍스트·이미지·스케치로 3D 모델을 만드는 3D 모델 생성 플랫폼 Tripo AI가 올해도 G-STAR에 참가했다. B2B관까지 오기 어려운 학생, 소규모 인디 개발 스튜디오와 만나려고 B2C관에도 부스를 차렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "방문객이 3D 모델을 직접 생성하고 편집하며 기능과 성능을 체험할 수 있는 공간도 마련됐다 ©INVEN"
               },
               {
                 "t": "p",
-                "x": "Yoon이 꼽은 게임의 본질은 \"리텐션과 인게이지먼트\"다. 그가 투자한 창업자들은 이 메커니즘을 소비자용 AI 앱에 가져다 쓴다. 개인화된 스토리 전개와 생성형 던전도 최근에야 플레이어가 즐길 만한 품질에 올라섰다. 그는 포트폴리오 기업 Operative Games를 예로 들었다. 이 회사의 AI 스토리텔링에선 캐릭터가 Zoom 회의와 캘린더 초대에 나타난다."
+                "x": "제품 총괄(Head of Product) Jack Fan은 Tripo가 클릭 한 번으로 3D 모델을 만드는 'Tripo Studio'와 작업을 단계별로 나누는 'Canvas'에 집중한다고 말했다. 서비스는 매주 여러 차례 업데이트되고 몇 달마다 새 기반 모델이 나온다. 'H3.1'은 초고정밀 모델이고, 'P2.0'은 50,000 폴리곤 미만의 가벼운 지오메트리로 5초 안에 모델을 만든다."
               },
               {
                 "t": "p",
-                "x": "이제 게임은 예측 시장 앱, AI-made 마이크로 드라마와 사용자 확보 비용을 놓고 다툰다. \"업계의 과제는 그만큼 몰입감 있고 재미있는 콘텐츠를 만드는 것\"이라고 그는 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Yoon은 Georgia Tech 연구라고 소개한 자료를 인용해, AI-generated 작업물은 사람의 작업보다 균질한 편이라 역발상 창작자에게 여지가 남는다고 말했다. 작은 스튜디오도 이제 훨씬 많이 만들 수 있게 됐다. 다만 첫 결과물을 손대지 않고 두면 저품질 콘텐츠가 나올 수 있다. 플레이어가 AI를 신경 쓰느냐는 U.S.(미국)와 아시아의 차이가 아니라 플레이어의 동기에 달렸다는 게 그의 시각이다."
+                "x": "사용자 상당수는 평소 쓰는 에이전트에서 MCP(Model Context Protocol)로 Tripo AI에 접속한다. 한국·일본 시장 총괄(Head of Korea & Japan Markets) Ellie Wang은 올해 게임 업계의 관심이 폭발적으로 늘었다고 했다. 한국 스튜디오의 피드백을 받아 만든, 에셋을 함께 쓰는 'Team Plan'도 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Songyee Yoonの\nAI-nativeゲーム論",
-          "body": "Ex-NCSoftのSongyee Yoonは、ゲームの手法が次のAI企業を築くと語った。",
-          "mini_headline": "Songyee YoonのAI-nativeな遊び",
+          "headline": "Tripo AI、3Dモデル\n生成を一般向けに",
+          "body": "Tripo AIはG-Star 2026で学生やインディー開発者向けB2Cブースを設けた。",
+          "mini_headline": "Tripo AI、B2Cへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoonは、ダンジョンがどこにも見当たらない場合でも、ゲームの手法が次世代のAI企業を築くと考えている。Principal Venture Partnersのマネージングパートナーで、Ex-NCSoftの社長兼最高戦略責任者である彼女は、San Franciscoで開かれたGamesBeat Next 2026でDean Takahashiと対談した。"
+                "x": "テキスト、画像、スケッチから3Dモデルを生成する3Dモデル生成プラットフォームTripo AIは、今年もG-STARに出展し、B2Bホールを訪れにくい学生や小規模インディー開発スタジオとの接点を広げるため、B2Cホールにもブースを構えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "来場者が3Dモデルを直接生成・編集し、機能と性能を体験できるスペースも設けられた ©INVEN"
               },
               {
                 "t": "p",
-                "x": "ゲームの本質は「リテンションとエンゲージメント」だとYoonは述べ、彼女が支援する創業者たちはその仕組みを消費者向けAIアプリに応用しているという。パーソナライズされたストーリー展開や生成されたダンジョンは、最近になってようやくプレイヤーが楽しめる品質に達した。彼女はポートフォリオ企業のOperative Gamesを挙げた。同社のAIストーリーテリングでは、キャラクターがZoom会議やカレンダーの招待に登場する。"
+                "x": "Head of ProductのJack Fanによると、Tripoはワンクリックで3Dモデルを生成する「Tripo Studio」と、作業を段階ごとに分ける「Canvas」に注力している。サービスは毎週複数回更新され、数か月ごとに新しい基盤モデルが登場する。「H3.1」は超高精度モデル、「P2.0」は50,000ポリゴン未満の軽量ジオメトリで5秒以内にモデルを生成する。"
               },
               {
                 "t": "p",
-                "x": "ゲームは今、ユーザー獲得の予算をめぐって予測市場アプリやAI-madeのマイクロドラマと競っている。「業界の課題は、それと同じくらい夢中になれて楽しいコンテンツを作ることだ」と彼女は語った。"
-              },
-              {
-                "t": "p",
-                "x": "YoonはGeorgia Techのものだとする研究を引き、AI-generatedの作品は人間の作品より均質になりがちで、逆張りのクリエイターに余地が残ると述べた。小規模スタジオは今やはるかに多くを生み出せるが、最初の出力に手を加えずにおくと粗悪なコンテンツになりかねない。プレイヤーがAIを気にするかどうかは、U.S.とアジアの違いではなく、プレイヤーの動機次第だという。"
+                "x": "多くのユーザーは、自分が使うエージェントからMCP(Model Context Protocol)経由でTripo AIに入ってくる。Head of Korea & Japan MarketsのEllie Wangは、今年はゲーム分野からの関心が爆発的に広がったと述べた。韓国のスタジオからのフィードバックを受け、作成したアセットを共有する「Team Plan」が生まれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Songyee Yoon谈\nAI-native游戏与创意",
-          "body": "Ex-NCSoft总裁Songyee Yoon表示，游戏打法将塑造下一波AI公司。",
-          "mini_headline": "Songyee Yoon谈AI-native玩法",
+          "headline": "Tripo AI把3D模型\n生成器带给消费者",
+          "body": "Tripo AI在G-Star 2026增设B2C展位，面向学生和独立开发者。",
+          "mini_headline": "Tripo AI进军B2C",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoon认为，即便看不到任何地下城，游戏的打法也将缔造下一波AI公司。这位Principal Venture Partners的管理合伙人、Ex-NCSoft总裁兼首席战略官，在San Francisco举行的GamesBeat Next 2026上与Dean Takahashi对谈。"
+                "x": "Tripo AI是一个能从文本、图像或草图生成3D模型的3D模型生成平台。今年它再次参加G-STAR，并在B2C展馆也设立了展位，以扩大与难以前往B2B展馆的学生和小型独立开发工作室的接触。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "现场还设有体验区，参观者可直接生成和编辑3D模型，体验其功能与性能 ©INVEN"
               },
               {
                 "t": "p",
-                "x": "Yoon表示，游戏的本质是“留存与参与”，她投资的创始人正把这些机制用于消费级AI应用。个性化的故事推进和生成式地下城直到最近才达到玩家乐于体验的品质；她举出投资组合公司Operative Games为例，其AI叙事能让角色出现在Zoom会议和日历邀请中。"
+                "x": "Head of Product Jack Fan表示，Tripo专注于一键生成3D模型的“Tripo Studio”和将工作拆分为逐步阶段的“Canvas”。服务每周更新多次，每隔几个月推出新的基础模型。“H3.1”是超高精度模型，“P2.0”则能在5秒内生成低于50,000个多边形的轻量几何模型。"
               },
               {
                 "t": "p",
-                "x": "如今，游戏在用户获取支出上要与预测市场应用和AI-made微短剧竞争。她说：“行业的挑战，是打造同样引人入胜、同样有趣的内容。”"
-              },
-              {
-                "t": "p",
-                "x": "Yoon引用一项她称出自Georgia Tech的研究说，AI-generated作品往往比人类作品更趋同质，这为逆向而行的创作者留下了空间。小型工作室如今能产出多得多的内容，但对初版输出不加修改，就可能产出粗劣内容。玩家是否在意AI，取决于玩家的动机，而非U.S.与亚洲之间的分野。"
+                "x": "许多用户通过MCP（Model Context Protocol）从自己使用的智能体进入Tripo AI。Head of Korea & Japan Markets Ellie Wang表示，今年游戏领域的关注度呈爆发式增长；韩国工作室的反馈催生了用于共享所创建资产的“Team Plan”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Songyee Yoon: juegos AI-native\ny creatividad humana",
-          "body": "Songyee Yoon, Ex-NCSoft, dijo en GamesBeat Next que las claves del juego moldearán la próxima ola de empresas de AI.",
-          "mini_headline": "Songyee Yoon y el juego AI-native",
+          "headline": "Tripo AI lleva su generador 3D\nal público general",
+          "body": "En G-Star 2026, Tripo AI, muy usado por desarrolladores de juegos, sumó un stand B2C para estudiantes e indies.",
+          "mini_headline": "Tripo AI apuesta por B2C",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoon cree que las claves del videojuego construirán la próxima ola de empresas de AI, incluso cuando no haya una mazmorra a la vista. La socia directora de Principal Venture Partners y presidenta y directora de estrategia Ex-NCSoft habló en GamesBeat Next 2026, en San Francisco, con Dean Takahashi."
+                "x": "Tripo AI, una plataforma que genera modelos 3D a partir de texto, imágenes o bocetos, volvió a participar este año en G-STAR y también montó un stand en el pabellón B2C para ampliar el contacto con estudiantes y pequeños estudios indie a los que les resulta difícil visitar el pabellón B2B."
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "También se habilitó un espacio donde los visitantes podían generar y editar modelos 3D para probar sus funciones y rendimiento ©INVEN"
               },
               {
                 "t": "p",
-                "x": "La esencia del juego es \"la retención y la implicación\", dijo Yoon, y los fundadores a los que respalda aplican esas mecánicas a aplicaciones de AI para consumidores. La progresión narrativa personalizada y las mazmorras generadas apenas han alcanzado hace poco una calidad que los jugadores disfrutan; citó a la empresa de su cartera Operative Games, cuya narrativa con AI permite que los personajes aparezcan en reuniones de Zoom y en invitaciones de calendario."
+                "x": "El Head of Product, Jack Fan, dijo que Tripo se centra en 'Tripo Studio', que genera modelos 3D con un solo clic, y en 'Canvas', que divide el trabajo en etapas. El servicio se actualiza varias veces por semana y cada pocos meses llegan nuevos modelos base. 'H3.1' es un modelo de altísima precisión, mientras que 'P2.0' genera modelos en menos de 5 segundos con geometría ligera de menos de 50,000 polígonos."
               },
               {
                 "t": "p",
-                "x": "Los juegos compiten ahora por el gasto en captación de usuarios con aplicaciones de mercados de predicción y microdramas AI-made. \"El reto de la industria\", dijo, \"es crear contenido igual de atractivo y entretenido\"."
-              },
-              {
-                "t": "p",
-                "x": "El trabajo AI-generated tiende a ser más homogéneo que el humano, dijo Yoon, citando un estudio que atribuyó a Georgia Tech, lo que deja espacio a los creadores que van a contracorriente. Los estudios pequeños pueden producir ahora mucho más, pero dejar intacto el primer resultado puede generar contenido de baja calidad. Que a los jugadores les importe la AI depende de su motivación, no de una división entre U.S. y Asia."
+                "x": "Muchos usuarios llegan a Tripo AI desde el agente que usan mediante MCP (Model Context Protocol). Ellie Wang, Head of Korea & Japan Markets, dijo que el interés del sector de los videojuegos creció de forma explosiva este año; los comentarios de estudios coreanos dieron lugar a un 'Team Plan' para compartir los assets creados."
               }
             ]
           }
@@ -1811,121 +1477,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Songyee Yoon의\nAI-native 게임론",
-          "body": "Ex-NCSoft Songyee Yoon은 게임 공식이 AI 기업을 빚는다고 했다.",
-          "mini_headline": "Songyee Yoon의 AI-native 플레이",
+          "headline": "Tripo AI, 3D\n모델 생성기 소비자 공략",
+          "body": "Tripo AI는 G-Star 2026에 학생·인디 개발자용 B2C 부스를 냈다.",
+          "mini_headline": "Tripo AI, B2C로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoon은 던전이 하나도 보이지 않는 곳에서도 게임의 공식이 차세대 AI 기업을 만들 것이라고 믿는다. Principal Venture Partners 매니징 파트너이자 Ex-NCSoft 사장 겸 최고전략책임자인 그는 San Francisco에서 열린 GamesBeat Next 2026에서 Dean Takahashi와 대담했다."
+                "x": "텍스트·이미지·스케치로 3D 모델을 만드는 3D 모델 생성 플랫폼 Tripo AI가 올해도 G-STAR에 참가했다. B2B관을 찾기 어려운 학생과 소규모 인디 개발 스튜디오와 접점을 넓히려고 B2C관에도 부스를 차렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "방문객이 3D 모델을 직접 생성하고 편집하며 기능과 성능을 체험할 수 있는 공간도 마련됐다 ©INVEN"
               },
               {
                 "t": "p",
-                "x": "게임의 본질은 \"리텐션과 인게이지먼트\"라고 Yoon은 말했다. 그가 투자한 창업자들은 이 메커니즘을 소비자용 AI 앱에 적용한다. 개인화된 스토리 전개와 생성형 던전은 최근에야 플레이어가 즐길 만한 품질에 이르렀다. 그는 포트폴리오 기업 Operative Games를 예로 들었는데, 이 회사의 AI 스토리텔링은 캐릭터가 Zoom 회의와 캘린더 초대에 등장하게 한다."
+                "x": "제품 총괄(Head of Product) Jack Fan은 Tripo가 클릭 한 번으로 3D 모델을 만드는 'Tripo Studio'와 작업을 단계별로 나누는 'Canvas'에 집중한다고 말했다. 서비스는 매주 여러 차례 업데이트되고, 몇 달마다 새 기반 모델이 나온다. 'H3.1'은 초고정밀 모델이고, 'P2.0'은 50,000 폴리곤 미만의 가벼운 지오메트리로 5초 안에 모델을 만든다."
               },
               {
                 "t": "p",
-                "x": "게임은 이제 예측 시장 앱, AI-made 마이크로 드라마와 사용자 확보 비용을 두고 경쟁한다. \"업계의 과제는 그만큼 몰입감 있고 재미있는 콘텐츠를 만드는 것\"이라고 그는 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Yoon은 Georgia Tech의 연구라고 밝힌 연구를 인용해, AI-generated 작업물은 사람의 작업보다 균질한 경향이 있어 역발상 창작자에게 여지가 남는다고 말했다. 작은 스튜디오도 이제 훨씬 많이 만들 수 있지만, 첫 결과물을 손대지 않고 두면 저품질 콘텐츠가 나올 수 있다. 플레이어가 AI를 신경 쓰는지는 U.S.(미국)와 아시아의 차이가 아니라 플레이어의 동기에 달려 있다."
+                "x": "많은 사용자가 자신이 쓰는 에이전트에서 MCP(Model Context Protocol)를 통해 Tripo AI로 들어온다. 한국·일본 시장 총괄(Head of Korea & Japan Markets) Ellie Wang은 올해 게임 업계의 관심이 폭발적으로 늘었다고 했다. 한국 스튜디오들의 피드백을 계기로 만든 에셋을 공유하는 'Team Plan'도 생겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Songyee Yoonの\nAI-nativeゲーム論",
-          "body": "Ex-NCSoftのSongyee Yoonは、ゲームの手法が次のAI企業を築くと語った。",
-          "mini_headline": "Songyee YoonのAI-nativeな遊び",
+          "headline": "Tripo AI、3Dモデル\n生成を一般向けに",
+          "body": "Tripo AIはG-Star 2026で学生やインディー開発者向けB2Cブースを設けた。",
+          "mini_headline": "Tripo AI、B2Cへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoonは、ダンジョンがどこにも見当たらない場合でも、ゲームの手法が次世代のAI企業を築くと考えている。Principal Venture Partnersのマネージングパートナーで、Ex-NCSoftの社長兼最高戦略責任者である彼女は、San Franciscoで開かれたGamesBeat Next 2026でDean Takahashiと対談した。"
+                "x": "テキスト、画像、スケッチから3Dモデルを生成する3Dモデル生成プラットフォームTripo AIは、今年もG-STARに出展し、B2Bホールを訪れにくい学生や小規模インディー開発スタジオとの接点を広げるため、B2Cホールにもブースを構えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "来場者が3Dモデルを直接生成・編集し、機能と性能を体験できるスペースも設けられた ©INVEN"
               },
               {
                 "t": "p",
-                "x": "ゲームの本質は「リテンションとエンゲージメント」だとYoonは述べ、彼女が支援する創業者たちはその仕組みを消費者向けAIアプリに応用しているという。パーソナライズされたストーリー展開や生成されたダンジョンは、最近になってようやくプレイヤーが楽しめる品質に達した。彼女はポートフォリオ企業のOperative Gamesを挙げた。同社のAIストーリーテリングでは、キャラクターがZoom会議やカレンダーの招待に登場する。"
+                "x": "Head of ProductのJack Fanによると、Tripoはワンクリックで3Dモデルを生成する「Tripo Studio」と、作業を段階ごとに分ける「Canvas」に注力している。サービスは毎週複数回更新され、数か月ごとに新しい基盤モデルが登場する。「H3.1」は超高精度モデル、「P2.0」は50,000ポリゴン未満の軽量ジオメトリで5秒以内にモデルを生成する。"
               },
               {
                 "t": "p",
-                "x": "ゲームは今、ユーザー獲得の予算をめぐって予測市場アプリやAI-madeのマイクロドラマと競っている。「業界の課題は、それと同じくらい夢中になれて楽しいコンテンツを作ることだ」と彼女は語った。"
-              },
-              {
-                "t": "p",
-                "x": "YoonはGeorgia Techのものだとする研究を引き、AI-generatedの作品は人間の作品より均質になりがちで、逆張りのクリエイターに余地が残ると述べた。小規模スタジオは今やはるかに多くを生み出せるが、最初の出力に手を加えずにおくと粗悪なコンテンツになりかねない。プレイヤーがAIを気にするかどうかは、U.S.とアジアの違いではなく、プレイヤーの動機次第だという。"
+                "x": "多くのユーザーは、自分が使うエージェントからMCP(Model Context Protocol)経由でTripo AIに入ってくる。Head of Korea & Japan MarketsのEllie Wangは、今年はゲーム分野からの関心が爆発的に広がったと述べた。韓国のスタジオからのフィードバックを受け、作成したアセットを共有する「Team Plan」が生まれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Songyee Yoon谈\nAI-native游戏与创意",
-          "body": "Ex-NCSoft总裁Songyee Yoon表示，游戏打法将塑造下一波AI公司。",
-          "mini_headline": "Songyee Yoon谈AI-native玩法",
+          "headline": "Tripo AI把3D模型\n生成器带给消费者",
+          "body": "Tripo AI在G-Star 2026增设B2C展位，面向学生和独立开发者。",
+          "mini_headline": "Tripo AI进军B2C",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoon认为，即便看不到任何地下城，游戏的打法也将缔造下一波AI公司。这位Principal Venture Partners的管理合伙人、Ex-NCSoft总裁兼首席战略官，在San Francisco举行的GamesBeat Next 2026上与Dean Takahashi对谈。"
+                "x": "Tripo AI是一个能从文本、图像或草图生成3D模型的3D模型生成平台。今年它再次参加G-STAR，并在B2C展馆也设立了展位，以扩大与难以前往B2B展馆的学生和小型独立开发工作室的接触。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "现场还设有体验区，参观者可直接生成和编辑3D模型，体验其功能与性能 ©INVEN"
               },
               {
                 "t": "p",
-                "x": "Yoon表示，游戏的本质是“留存与参与”，她投资的创始人正把这些机制用于消费级AI应用。个性化的故事推进和生成式地下城直到最近才达到玩家乐于体验的品质；她举出投资组合公司Operative Games为例，其AI叙事能让角色出现在Zoom会议和日历邀请中。"
+                "x": "Head of Product Jack Fan表示，Tripo专注于一键生成3D模型的“Tripo Studio”和将工作拆分为逐步阶段的“Canvas”。服务每周更新多次，每隔几个月推出新的基础模型。“H3.1”是超高精度模型，“P2.0”则能在5秒内生成低于50,000个多边形的轻量几何模型。"
               },
               {
                 "t": "p",
-                "x": "如今，游戏在用户获取支出上要与预测市场应用和AI-made微短剧竞争。她说：“行业的挑战，是打造同样引人入胜、同样有趣的内容。”"
-              },
-              {
-                "t": "p",
-                "x": "Yoon引用一项她称出自Georgia Tech的研究说，AI-generated作品往往比人类作品更趋同质，这为逆向而行的创作者留下了空间。小型工作室如今能产出多得多的内容，但对初版输出不加修改，就可能产出粗劣内容。玩家是否在意AI，取决于玩家的动机，而非U.S.与亚洲之间的分野。"
+                "x": "许多用户通过MCP（Model Context Protocol）从自己使用的智能体进入Tripo AI。Head of Korea & Japan Markets Ellie Wang表示，今年游戏领域的关注度呈爆发式增长；韩国工作室的反馈催生了用于共享所创建资产的“Team Plan”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Songyee Yoon: juegos AI-native\ny creatividad humana",
-          "body": "Songyee Yoon, Ex-NCSoft, dijo en GamesBeat Next que las claves del juego moldearán la próxima ola de empresas de AI.",
-          "mini_headline": "Songyee Yoon y el juego AI-native",
+          "headline": "Tripo AI lleva su generador 3D\nal público general",
+          "body": "En G-Star 2026, Tripo AI, muy usado por desarrolladores de juegos, sumó un stand B2C para estudiantes e indies.",
+          "mini_headline": "Tripo AI apuesta por B2C",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
               },
               {
                 "t": "p",
-                "x": "Songyee Yoon cree que las claves del videojuego construirán la próxima ola de empresas de AI, incluso cuando no haya una mazmorra a la vista. La socia directora de Principal Venture Partners y presidenta y directora de estrategia Ex-NCSoft habló en GamesBeat Next 2026, en San Francisco, con Dean Takahashi."
+                "x": "Tripo AI, una plataforma que genera modelos 3D a partir de texto, imágenes o bocetos, volvió a participar este año en G-STAR y también montó un stand en el pabellón B2C para ampliar el contacto con estudiantes y pequeños estudios indie a los que les resulta difícil visitar el pabellón B2B."
+              },
+              {
+                "t": "img",
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+                "cap": "También se habilitó un espacio donde los visitantes podían generar y editar modelos 3D para probar sus funciones y rendimiento ©INVEN"
               },
               {
                 "t": "p",
-                "x": "La esencia del juego es \"la retención y la implicación\", dijo Yoon, y los fundadores a los que respalda aplican esas mecánicas a aplicaciones de AI para consumidores. La progresión narrativa personalizada y las mazmorras generadas apenas han alcanzado hace poco una calidad que los jugadores disfrutan; citó a la empresa de su cartera Operative Games, cuya narrativa con AI permite que los personajes aparezcan en reuniones de Zoom y en invitaciones de calendario."
+                "x": "El Head of Product, Jack Fan, dijo que Tripo se centra en 'Tripo Studio', que genera modelos 3D con un solo clic, y en 'Canvas', que divide el trabajo en etapas. El servicio se actualiza varias veces por semana y cada pocos meses llegan nuevos modelos base. 'H3.1' es un modelo de altísima precisión, mientras que 'P2.0' genera modelos en menos de 5 segundos con geometría ligera de menos de 50,000 polígonos."
               },
               {
                 "t": "p",
-                "x": "Los juegos compiten ahora por el gasto en captación de usuarios con aplicaciones de mercados de predicción y microdramas AI-made. \"El reto de la industria\", dijo, \"es crear contenido igual de atractivo y entretenido\"."
-              },
-              {
-                "t": "p",
-                "x": "El trabajo AI-generated tiende a ser más homogéneo que el humano, dijo Yoon, citando un estudio que atribuyó a Georgia Tech, lo que deja espacio a los creadores que van a contracorriente. Los estudios pequeños pueden producir ahora mucho más, pero dejar intacto el primer resultado puede generar contenido de baja calidad. Que a los jugadores les importe la AI depende de su motivación, no de una división entre U.S. y Asia."
+                "x": "Muchos usuarios llegan a Tripo AI desde el agente que usan mediante MCP (Model Context Protocol). Ellie Wang, Head of Korea & Japan Markets, dijo que el interés del sector de los videojuegos creció de forma explosiva este año; los comentarios de estudios coreanos dieron lugar a un 'Team Plan' para compartir los assets creados."
               }
             ]
           }

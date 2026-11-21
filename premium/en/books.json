@@ -11386,6 +11386,128 @@
           "x": "The redesign swaps orange branding for green and bears a striking resemblance to rival Sweet Shop, whose CEO Kenny Meyers has criticized AI in digital comics. Several creators said they would withdraw their work. Update: CEO Henrik Rydberg clarified the company uses Google’s Gemini rather than its own proprietary model."
         }
       ]
+    },
+    "books/books-carlson-selfhelp-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Copyright owner of the Don't Sweat the Small Stuff series of books is the latest to take on the AI heavyweights. Anthropic and Meta allegedly helped themselves to over two dozen books in the self-improvement genre and have used them to train their artificial intelligence models, a new federal lawsuit asserts (Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
+        },
+        {
+          "t": "p",
+          "x": "Carlson LLC is the registered copyright owner of works by R. and K. Carlson. R. Carlson's 1997 book spent more than 100 weeks on the New York Times bestseller list. The complaint asserts each company harvested training materials from pirate libraries like Books3 and Anna's Archive, and acquired materials by scanning physical books without permission."
+        },
+        {
+          "t": "p",
+          "x": "Carlson opted out of the Bartz class action settlement with Anthropic, asserting the books “are more valuable than other works in the class.” The suit joins Anthropic and Meta in one complaint, though two Northern District of California judges have already rejected efforts to join multiple AI companies as defendants. The defendants have not yet challenged joinder."
+        }
+      ]
+    },
+    "books/books-not-ais-to-take": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
+        },
+        {
+          "t": "p",
+          "x": "The Australian Society of Authors, Australian Publishers Association and other creative industry and media organisations have launched “Not AI’s to Take”, “a national campaign to protect Australian creativity”."
+        },
+        {
+          "t": "p",
+          "x": "A petition, signed by more than 1,200 people at the time of writing, calls on the Australian government to “keep existing copyright protections in place”."
+        },
+        {
+          "t": "p",
+          "x": "“AI companies should not be allowed to use Australian creative work to train their models without first seeking permission,” said the organisations behind the petition, noting that Australia’s creative and media sector contributes $70.3 billion to the Australian economy “and supports almost 600,000 workers, alongside businesses and supply chains across the country”."
+        },
+        {
+          "t": "p",
+          "x": "“We’re calling on the Australian Government to stay firm on its commitment to Australia’s and the world’s creative industries. AI on Australia’s terms means they can’t use creative work without permission first, and agreed payment.”"
+        },
+        {
+          "t": "p",
+          "x": "In addition to encouraging people to sign the petition, the campaign asks supporters to write a letter to their MP via its website and share the campaign on social media."
+        }
+      ]
+    },
+    "books/books-namoo-memoir-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
+        },
+        {
+          "t": "p",
+          "x": "We built Namoo to record our parents' stories more systematically. Famous people often hire ghostwriters or devote enormous amounts of time to recording their pasts."
+        },
+        {
+          "t": "p",
+          "x": "We could talk with our parents ourselves and keep a record, but conducting the interviews in person is not easy, and neither is preparing and organizing the questions."
+        },
+        {
+          "t": "p",
+          "x": "In Namoo, AI takes the role of interviewer and asks one question at a time. Parents simply do the interview by voice in the app. The next question changes depending on the answer, and the conversation is organized chapter by chapter."
+        },
+        {
+          "t": "p",
+          "x": "The final result can be generated as an e-book and an audiobook. Rather than simply storing recording files, the aim was to keep the record in a form the family can read and listen to."
+        },
+        {
+          "t": "p",
+          "x": "Service: https://namoo.ai, or search for namoo in the App Store or Google Play."
+        }
+      ]
+    },
+    "books/books-guardian-wild-west": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+          "cap": "Illustration: Ricardo Tomás/The Guardian"
+        },
+        {
+          "t": "p",
+          "x": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through publishing. Romance novelist Coral Hart (a pen name) has written 370 novels under 21 pen names using AI since 2025, earning “high six figures” on Kindle Unlimited. One study led by Tuhin Chakrabarty estimates around one fifth of recently self-published books contain at least 25% AI-generated text."
+        },
+        {
+          "t": "p",
+          "x": "One literary agent likens mainstream publishing to “the wild west”. Hachette withdrew Shy Girl in March; agents for debut novelist Jerry Falade withdrew from a $2m deal; Thélyson Orélien was struck off the Goncourt longlist. Accused writers find it hard to clear their names, and AALA’s Hannah Bowman calls for “a fair and thoughtful process”."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "Illustration: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+        },
+        {
+          "t": "p",
+          "x": "Publishing expert Thad McIlroy says publishers need to be “brave” and publish extensive AI policies. US copyright law requires a book to be “human authored”. In France, the Prix Pascal de Littérature IA was launched for fiction writers working with AI."
+        }
+      ]
+    },
+    "books/pangram-doj-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+        },
+        {
+          "t": "p",
+          "x": "Lawyers for the Department of Justice are using the AI writing detection service Pangram to argue that opposing attorneys are using AI to write legal arguments, and in one case told the court that opposing counsel was doing “defense by ChatGPT,” and writing “AI slop” filings, according to court filings reviewed by 404 Media."
+        },
+        {
+          "t": "p",
+          "x": "The filings show attorneys, including those working for the government, are trying to catch each other using AI, then are citing their opponents’ AI use in their arguments to the court. “Motions practice in this case is the equivalent of writing responses to documents generated by a robot that is attempting to practice law,” government attorneys wrote."
+        },
+        {
+          "t": "p",
+          "x": "The case centers on Khalwinder Bhengura, a 70-year-old Indian man who entered the U.S. on an immigrant visa in 2022 and registered to vote in Texas in 2024 after falsely stating he was a citizen. He was found guilty in October on two of three counts and is set to be deported."
+        }
+      ]
     }
   }
 }

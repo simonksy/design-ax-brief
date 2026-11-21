@@ -1,7 +1,30 @@
-{"date":"2026-11-21","section":"music","media":[
- {"id":"eightmile-suno-amended","type":"image","src":"pipeline/media/eightmile-suno-amended.jpg"},
- {"id":"dmn-ai-streams-data","type":"image","src":"pipeline/media/dmn-ai-streams-data.jpg"},
- {"id":"anukari-11-ai-patches","type":"image","src":"pipeline/media/anukari-11-ai-patches.jpg"},
- {"id":"grimes-psy-opera-deepseek","type":"video","src":"pipeline/media/grimes-psy-opera-deepseek.mp4","poster":"pipeline/media/grimes-psy-opera-deepseek.jpg"},
- {"id":"sonic-palette-arxiv","type":"image","src":"pipeline/media/sonic-palette-arxiv.png"}
-]}
+{
+  "date": "2026-11-22",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-instagram-content-protection",
+      "type": "image",
+      "src": "pipeline/media/music-instagram-content-protection.png"
+    },
+    {
+      "id": "mooer-future-flex-modeler",
+      "type": "image",
+      "src": "pipeline/media/mooer-future-flex-modeler.jpg"
+    },
+    {
+      "id": "hive-ai-ticket-assistants",
+      "type": "image",
+      "src": "pipeline/media/hive-ai-ticket-assistants.png"
+    },
+    {
+      "id": "kimhaon-ai-noah-sbs",
+      "type": "svg"
+    },
+    {
+      "id": "harmonic-circuit-chord-arxiv",
+      "type": "image",
+      "src": "pipeline/media/harmonic-circuit-chord-arxiv.png"
+    }
+  ]
+}

@@ -12408,6 +12408,123 @@
           "x": "研究チームによれば、病変に基づく解釈可能性はLLMの「ブラックボックス」を開き、冗長な部分を特定する助けとなり、より小さく省エネなモデルにつながりうる。また失語症患者の「デジタルツイン」を作り、臨床試験をシミュレーションすることもできるという。Fridrikssonはこの枠組みが他の神経疾患にも広がりうると考える。「この手法が受け入れられ、患者を助ける科学的発見につながることを願う」"
         }
       ]
+    },
+    "science/qubrio-neutral-atom-compiler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+        },
+        {
+          "t": "p",
+          "x": "UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology、University of Wisconsin–Madisonの研究者らが、中性原子量子回路のコンパイル向けマルチエージェントLLMフレームワーク「Qubrio」を発表した。NeurIPS 2026に採択されたこの手法は、専門化したLLM提案エージェントに決定論的な制約検証器とハードウェアシミュレーターを組み合わせ、量子ビット配置、AODルーティング、スケジュール最適化を自動化する。"
+        },
+        {
+          "t": "p",
+          "x": "三層の分解によって回路をCZゲート段に分け、配置をルーティングとスケジューリングから切り離し、局所的なエラー診断をフィードバックする。エージェントの推論ログからは、隊列型のシャトリングを自ら見いだし、GHZ-78ではAOD移動一回あたり最大30.3量子ビットを詰め込んだことがわかる。"
+        },
+        {
+          "t": "p",
+          "x": "最大78量子ビットのQASMBenchワークロードで、QubrioはPowerMoveコンパイラに比べ平均で実行時間を4.7×短縮し、忠実度を1.3×高めた。複数段のバッチは約五分でコンパイルできる。論文はarXivで公開され、コードはGitHubでオープンソースになっている。"
+        }
+      ]
+    },
+    "science/york-ann-brain-mismatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+          "cap": "Credit: AI/ScienceDaily.com"
+        },
+        {
+          "t": "p",
+          "x": "York UniversityがNature Machine Intelligenceに発表した研究は、脳の視覚処理をモデル化するのに広く使われている人工ニューラルネットワークの弱点を明らかにした。Kohitij Kar助教がポスドク研究員のSabine Muzellecとともに率いたチームは「逆予測性(reverse predictivity)」テストを行った。AIが脳活動を予測できるかだけでなく、記録された脳活動がモデルの内部を予測できるかを問うものだ。"
+        },
+        {
+          "t": "p",
+          "x": "10種類の物体を写した自然画像と合成画像1,320枚に加え、様式化した画像300枚を用いたところ、モデルは記録されたニューロンをかなりよく予測したが、ニューロンはモデルの多くの特徴をうまく予測できなかった。異なる脳どうしでは見られない差である。"
+        },
+        {
+          "t": "p",
+          "x": "「今回の結果は、現在のAIシステムが視覚課題を解く際、脳が使っていない可能性のある内部戦略を部分的に用いていることを示唆している」とKarは言う。チームは開発者が自らのモデルを評価できるよう、テスト用ツールキットを公開した。"
+        }
+      ]
+    },
+    "science/pertreason-virtual-cell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+          "cap": "摂動モデリングで提案されている手法の概要。Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&Mの電気・コンピュータ工学の研究者らは、Yang Shen博士を中心に、Dongkwan Kim博士やPh.D.課程の学生Yiming Gaoとともに、遺伝的要因や薬の作用が細胞の振る舞いをどう変えるかを予測し、その変化の背後にある生物学的メカニズムを明らかにできるAI「仮想細胞」技術を開発している。"
+        },
+        {
+          "t": "p",
+          "x": "彼らのモデルPertReasonはNeurIPS 2026に採択され、arXivで公開されている。初期版はICML 2026のワークショップで発表された。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+          "cap": "PertReasonQA構築パイプラインの概要。Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "チームのPertReasonQAベンチマークは、LLMの正答率だけでなく、答えに至る推論が妥当かどうかも評価し、モデルが適切なデータを使わずに正解した事例を検出する。乳がんの臨床医との共同研究に着想を得たShenは、どの経路を優先して調べるべきかの判断に役立つことを期待しており、Texas A&MのスーパーコンピューターVISIONでマルチスケールのデジタルツインを構築する計画だ。"
+        }
+      ]
+    },
+    "science/tus-magnet-domain-wall-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+          "cap": "説明可能なAIとパーシステントホモロジーで特定された磁壁領域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+        },
+        {
+          "t": "p",
+          "x": "変圧器やインダクタに使われる軟磁性材料は電気自動車や再生可能エネルギーシステム、データセンターを支えているが、従来のモデルでは、どの微細構造が高周波での損失を生んでいるのかがわからない。"
+        },
+        {
+          "t": "p",
+          "x": "Tokyo University of ScienceのMasato Kotsugi教授が率い、Kosuke Nishiokaが参加したチームは、理想化した鉄系ナノ結晶軟磁性体を100 kHz、1 MHz、10 MHzで計算したFugakuのマイクロ磁気シミュレーションに物理的に解釈可能なAI手法を適用し、パーシステントホモロジーと逆写像を伴うエネルギーランドスケープを用いた。"
+        },
+        {
+          "t": "p",
+          "x": "周波数が上がるにつれて磁区はますます細かく分かれ、保磁力領域付近のエネルギー障壁も周波数とともに高まった。寄与の大きい特徴は、伝播する逆磁区の先端と一部の細かな磁壁セグメントに集中していた。この障壁は交換相互作用に由来する構造的なエネルギーコストであり、散逸した熱を直接測定したものではない。研究はNPG Asia Materialsに掲載された。"
+        }
+      ]
+    },
+    "science/riemann-alpoge-claude-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+          "cap": "紫色のデジタルコンセプトを背景にした数式"
+        },
+        {
+          "t": "p",
+          "x": "人工知能企業Anthropicの社員で数学者のLevent Alpögeは金曜日、LLMを使って数学全体で最も有名な問題を証明したと主張した。Alpögeは自身のウェブサイトに掲載した声明で「Claudeと協力して、リーマン予想の証明を発見したと考えている」と記した。"
+        },
+        {
+          "t": "p",
+          "x": "リーマン予想は1859年に数学者ベルンハルト・リーマンが初めて提唱した。クレイ数学研究所が百万ドルの懸賞金をかけた数少ない未解決問題の一つである。"
+        },
+        {
+          "t": "p",
+          "x": "Alpögeは、各議論の数学的な正しさを検証するプログラミング言語Leanで記述したClaudeによる証明を公開した。彼によれば、この証明は「一般化リーマン予想」を確かめるものだという。発表は、Anthropicが株式市場で記録的なデビューを果たしたわずか一日後のことだった。"
+        },
+        {
+          "t": "p",
+          "x": "チリ・カトリック大学のHector Pastenは「証明が正しく、理解されれば、つながりが部分的でしかなかった数学の異なる分野の間の辞書が完成する」と述べ、「ロゼッタ・ストーンのようなものだ」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "MITの数学者Andrew SutherlandはAlpögeの結果をLeanで独自にコンパイルした後、「これはまさに歴史的な瞬間だ」と述べ、「証明の数学的な詳細を理解するには、なすべきことが多く残っている」と語った。"
+        }
+      ]
     }
   }
 }

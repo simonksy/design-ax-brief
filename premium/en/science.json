@@ -12223,6 +12223,123 @@
           "x": "The researchers say lesion-based interpretability could help open the LLM \"black box\" and identify redundant parts, leading to smaller, more energy-efficient models, and could create \"digital twins\" of aphasia patients to simulate clinical trials. Fridriksson believes the framework could extend to other neurological conditions: \"I hope this approach will be embraced to make scientific discoveries that help patients.\""
         }
       ]
+    },
+    "science/qubrio-neutral-atom-compiler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology and the University of Wisconsin–Madison introduced Qubrio, a multi-agent LLM framework for neutral-atom quantum circuit compilation accepted to NeurIPS 2026. It pairs specialized LLM proposal agents with deterministic constraint verifiers and a hardware simulator to automate qubit placement, AOD routing and schedule optimization."
+        },
+        {
+          "t": "p",
+          "x": "A three-level decomposition splits circuits into CZ gate stages, separates placement from routing and scheduling, and feeds back localized error diagnostics. The agents’ reasoning logs show they discovered convoy-style shuttling on their own, packing up to 30.3 qubits per AOD move on GHZ-78."
+        },
+        {
+          "t": "p",
+          "x": "On QASMBench workloads up to 78 qubits, Qubrio averaged a 4.7× runtime reduction and 1.3× fidelity gain over the PowerMove compiler, compiling batches of stages in roughly five minutes. The paper is on arXiv and the code is open source on GitHub."
+        }
+      ]
+    },
+    "science/york-ann-brain-mismatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+          "cap": "Credit: AI/ScienceDaily.com"
+        },
+        {
+          "t": "p",
+          "x": "A York University study in Nature Machine Intelligence finds a weakness in artificial neural networks widely used to model how the brain processes vision. Led by Assistant Professor Kohitij Kar with postdoctoral fellow Sabine Muzellec, the team ran “reverse predictivity” tests: instead of asking only whether AI predicts brain activity, they asked whether recorded brain activity predicts the models’ internals."
+        },
+        {
+          "t": "p",
+          "x": "Using 1,320 natural and synthetic images of 10 objects plus 300 stylized images, they found models predicted recorded neurons fairly well, but neurons predicted many model features poorly — a gap not seen between different brains."
+        },
+        {
+          "t": "p",
+          "x": "“The findings suggest that today's AI systems solve visual tasks partly using internal strategies that the brain may not use,” says Kar. The team released a public testing toolkit so developers can evaluate their own models."
+        }
+      ]
+    },
+    "science/pertreason-virtual-cell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+          "cap": "Overview of proposed solutions in perturbation modeling. Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&M electrical and computer engineering researchers led by Dr. Yang Shen, with Dr. Dongkwan Kim and Ph.D. student Yiming Gao, are building AI “virtual cell” technology that can predict how genetic and drug effects alter cellular behavior and uncover the biological mechanisms behind those changes."
+        },
+        {
+          "t": "p",
+          "x": "Their model, PertReason, has been accepted to NeurIPS 2026 and is on arXiv; an earlier version was presented at an ICML 2026 workshop."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+          "cap": "Overview of the PertReasonQA construction pipeline. Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "The team's PertReasonQA benchmark evaluates not only LLM accuracy but whether the reasoning behind an answer is sound, flagging cases where a model got the right answer without using the proper data. Inspired by work with breast cancer clinicians, Shen hopes it helps prioritize which pathways to investigate, and plans multiscale digital twins on Texas A&M's VISION supercomputer."
+        }
+      ]
+    },
+    "science/tus-magnet-domain-wall-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+          "cap": "Domain-wall regions identified with explainable AI and persistent homology. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+        },
+        {
+          "t": "p",
+          "x": "Soft magnetic materials in transformers and inductors power electric vehicles, renewable energy systems and data centers, but conventional models do not show which microscopic structures drive losses at high frequencies."
+        },
+        {
+          "t": "p",
+          "x": "A Tokyo University of Science team led by Professor Masato Kotsugi, with Kosuke Nishioka, used a physics-interpretable AI approach on Fugaku micromagnetic simulations of an idealized iron-based nanocrystalline soft magnet at 100 kHz, 1 MHz and 10 MHz, applying persistent homology and an energy landscape with inverse mapping."
+        },
+        {
+          "t": "p",
+          "x": "Domains became increasingly subdivided as frequency increased, and the energy barrier near the coercive region rose with frequency. High-contribution features concentrated around propagating reversed-domain tips and selected fine wall segments; the barrier is an exchange-derived structural energy cost, not a direct measurement of dissipated heat. The study appears in NPG Asia Materials."
+        }
+      ]
+    },
+    "science/riemann-alpoge-claude-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+          "cap": "Math equations with purple digital concept"
+        },
+        {
+          "t": "p",
+          "x": "Levent Alpöge, a mathematician and employee at artificial intelligence company Anthropic, claimed on Friday to have proven the most famous problem in all of mathematics using an LLM. “I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Alpöge wrote in a statement posted on his website."
+        },
+        {
+          "t": "p",
+          "x": "The Riemann hypothesis was first proposed in 1859 by the mathematician Bernhard Riemann. It is one of the few open problems on which the Clay Mathematics Institute has placed a million-dollar bounty."
+        },
+        {
+          "t": "p",
+          "x": "Alpöge posted his Claude proof coded in the programming language Lean, which verifies the mathematical correctness of each argument. He says it confirms the “Generalized Riemann Hypothesis.” The announcement comes just a day after Anthropic's record-breaking debut on the stock market."
+        },
+        {
+          "t": "p",
+          "x": "“If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial,” says Hector Pasten of the Pontifical Catholic University of Chile. “Something like a Rosetta Stone.”"
+        },
+        {
+          "t": "p",
+          "x": "“This is indeed an historic moment,” said MIT mathematician Andrew Sutherland after he had independently compiled Alpöge’s result in Lean. “There is much work to be done to understand the mathematical details of the proof.”"
+        }
+      ]
     }
   }
 }

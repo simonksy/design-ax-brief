@@ -1,197 +1,167 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "politics",
   "cards": [
     {
-      "id": "nvidia-california-subpoena",
+      "id": "house-china-ai-models-report",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "캘리포니아주, Nvidia\n칩 수출 조사 착수",
-      "body": "캘리포니아주가 AI 칩 중국 유입·투자자 기만 의혹으로 Nvidia를 소환했다.",
-      "mini_headline": "캘리포니아, Nvidia 조사",
+      "headline": "중국 AI 모델에 기댄\nUS 기업에 하원 경고",
+      "body": "하원 위원장 둘이 중국 개방형 모델을 쓰는 US 기업의 출처·증류 문제를 짚었다.",
+      "mini_headline": "중국 AI에 기댄 US 기업",
       "tool": "Politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "source": "House Select Committee on the CCP",
+      "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-            "cap": "젠슨 황(Jensen Huang, 사진)이 혼외 관계를 인정한 뒤 Nvidia 주가는 오분의 일 하락했고 목요일에는 최근 한 해 사이 가장 낮은 수준까지 떨어졌다. 사진: VCG/Getty Images"
+            "t": "p",
+            "x": "하원 중국특별위원회(House Select Committee on China) 위원장 John Moolenaar(R-MI)와 하원 국토안보위원회(House Committee on Homeland Security) 위원장 Andrew R. Garbarino(R-NY)가 중국이 개발한(Chinese-developed) open-weight AI 모델이 미국 기업의 소비자 플랫폼에 들어가는 실태를 함께 조사해 보고서를 냈다. 보고서는 모델의 출처와 데이터, 학습 과정, 무단 증류 가능성, 기업의 구매·조달 방식을 들여다봤다. U.S. open-weight AI 전략이 비싸거나 독점적인 U.S. 모델과 싸고 성능 좋은 중국 기반(China-based) 대안 사이의 양자택일에서 미국 기업들을 벗어나게 해 주는지도 따졌다."
           },
           {
             "t": "p",
-            "x": "캘리포니아주가 Nvidia에 조사 소환장을 발부했다. 공동 창업자로 오랫동안 최고경영자를 지낸 젠슨 황(Jensen Huang)이 스캔들로 물러난 뒤다. 미국(US) 주 법무장관 롭 본타(Rob Bonta)는 이 회사의 첨단 반도체 칩이 미국(US) 규제를 어기고 중국으로 흘러갔는지 들여다보는 조사의 하나로 소환장을 냈다."
+            "x": "두 위원회는 2026년 4월 Anysphere와 Airbnb에 서한을 보내 조사에 착수했고, 2026년 7월에는 DoorDash에도 서한을 보냈다."
           },
           {
             "t": "p",
-            "x": "본타는 “Nvidia와 전 최고경영자의 행위는 회사가 투자자를 오도했을 수 있는 방식을 포함해 뚜렷한 적신호를 드러낸다”고 말했다."
+            "x": "두 위원장은 미국 기업들이 PRC-developed(중국이 개발한) open-weight 모델을 갈수록 많이 들여오는 이유로 \"저렴하고, 맞춤화가 가능하며, 미국 최고 시스템과 경쟁할 만하기 때문\"을 들었다. 연방 조사에서 주요 PRC 개발사들이 \"프록시 네트워크와 사기 계정을 이용해 미국 프런티어 모델의 출력물을 수집했다\"는 사실도 드러났다고 적었다."
           },
           {
             "t": "p",
-            "x": "소환장은 목요일 발부됐다. 황이 사임한 지 일주일 만이다. 황은 중국 스파이로 의심받는 앨리스 황(Alice Huang)을 비롯해 여러 차례 불륜을 저지른 사실이 드러나 물러났다. 앨리스 황은 싱가포르에 본사를 둔 Megaspeed와 연관돼 있다. 이 회사는 최근 몇 년간 Nvidia 칩과 하드웨어를 $5bn (£3.8bn) 가까이 사들였고, 규제 대상 첨단 칩을 중국으로 빼돌렸을 가능성으로 조사를 받고 있다. Megaspeed는 자사가 “합법적이고 적법한” 사업체이며 황이 지난해 말 회사를 떠났다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "본타는 “우리 사무실은 Nvidia나 젠슨 황(Jensen Huang)의 행위로 중국이 첨단 칩이나 기밀 정보를 얻게 됐는지 조사하고 있다”고 말했다. 황이 불륜을 인정한 뒤 Nvidia 주가는 오분의 일 하락했다. 황은 12월 1일 여러 의회 위원회에서 증언할 예정이다."
+            "x": "위원회에 따르면 PLA Cyberspace Force 1st Bureau와 연관된 인력이 Zhipu의 Beijing(베이징) 본사에 여러 차례 드나들었고, 가장 최근은 2026년 8월이다. PLA 조달 기록에는 DeepSeek, Alibaba의 Qwen, Moonshot, MiniMax 모델이 군 사이버 작전에 탑재된 정황이 담겼다. 위원회에 제출된 문서를 보면 같은 계열 모델이 미국 주요 기업 내부에서 돌아간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "California opens probe\ninto Nvidia chip exports",
-          "body": "California's attorney general subpoenaed Nvidia over whether AI chips reached China and investors were misled.",
-          "mini_headline": "California probes Nvidia",
+          "headline": "House report warns of US firms\nhooked on Chinese AI models",
+          "body": "Two House chairs say US companies building on Chinese open-weight models face questions on origin and distillation.",
+          "mini_headline": "US firms hooked on Chinese AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Nvidia’s shares are down by a fifth since Jensen Huang (pictured) admitted to the extramarital affair, hitting a one-year low on Thursday. Photograph: VCG/Getty Images"
+                "t": "p",
+                "x": "Chairman John Moolenaar (R-MI) of the House Select Committee on China and Chairman Andrew R. Garbarino (R-NY) of the House Committee on Homeland Security released a report following their joint investigation into the integration of Chinese-developed open-weight AI models into American companies' consumer platforms. It focused on the origin of these models, their data, training, potential for unauthorized distillation, and how companies purchase and acquire them, and evaluated whether the U.S. open-weight AI strategy spares American entities a choice between expensive or proprietary U.S. models and cheap, capable China-based alternatives."
               },
               {
                 "t": "p",
-                "x": "California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the company’s advanced semiconductor chips ended up in China, contravening US restrictions."
+                "x": "The committees began the investigation in April 2026 with letters to Anysphere and Airbnb, and sent a letter to DoorDash in July 2026."
               },
               {
                 "t": "p",
-                "x": "“The conduct of Nvidia and its former chief executive raises bright red flags, including about the ways in which the company may have misled investors,” said Bonta."
+                "x": "The chairmen write that American businesses are increasingly adopting PRC-developed open-weight models \"because they are inexpensive, customizable, and competitive with leading American systems,\" and that federal investigations found major PRC developers \"used proxy networks and fraudulent accounts to harvest outputs from American frontier models.\""
               },
               {
                 "t": "p",
-                "x": "The subpoena, issued on Thursday, followed Huang’s resignation a week ago after it emerged he had multiple affairs, including one with Alice Huang, a suspected Chinese spy. She is associated with Singapore-based Megaspeed, which has bought nearly $5bn (£3.8bn) of Nvidia chips and hardware in recent years and is being investigated for possibly diverting advanced restricted chips to China. Megaspeed has said it is a “legitimate and lawful” business, and that Huang left the company late last year."
-              },
-              {
-                "t": "p",
-                "x": "“My office is investigating whether Nvidia or Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information,” Bonta said. Nvidia’s shares are down by a fifth since Huang admitted the affair, and he is due to testify before several congressional committees on 1 December."
+                "x": "The committees say personnel associated with the 1st Bureau of the PLA Cyberspace Force were present on multiple occasions at Zhipu's Beijing headquarters, most recently in August 2026, and that PLA procurement records show DeepSeek, Alibaba's Qwen, Moonshot and MiniMax models being built into military cyber operations. Documents produced to the committees show these same model families running inside major American companies."
               }
             ]
           }
         },
         "ko": {
-          "headline": "캘리포니아주, Nvidia\n칩 수출 조사 착수",
-          "body": "캘리포니아주가 AI 칩 중국 유입·투자자 기만 의혹으로 Nvidia를 소환했다.",
-          "mini_headline": "캘리포니아, Nvidia 조사",
+          "headline": "중국 AI 모델에 기댄\nUS 기업에 하원 경고",
+          "body": "하원 위원장 둘이 중국 개방형 모델을 쓰는 US 기업의 출처·증류 문제를 짚었다.",
+          "mini_headline": "중국 AI에 기댄 US 기업",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "젠슨 황(Jensen Huang, 사진)이 혼외 관계를 인정한 뒤 Nvidia 주가는 오분의 일 하락했고 목요일에는 최근 한 해 사이 가장 낮은 수준까지 떨어졌다. 사진: VCG/Getty Images"
+                "t": "p",
+                "x": "하원 중국특별위원회(House Select Committee on China) 위원장 John Moolenaar(R-MI)와 하원 국토안보위원회(House Committee on Homeland Security) 위원장 Andrew R. Garbarino(R-NY)가 중국이 개발한(Chinese-developed) open-weight AI 모델이 미국 기업의 소비자 플랫폼에 들어가는 실태를 함께 조사해 보고서를 냈다. 보고서는 모델의 출처와 데이터, 학습 과정, 무단 증류 가능성, 기업의 구매·조달 방식을 들여다봤다. U.S. open-weight AI 전략이 비싸거나 독점적인 U.S. 모델과 싸고 성능 좋은 중국 기반(China-based) 대안 사이의 양자택일에서 미국 기업들을 벗어나게 해 주는지도 따졌다."
               },
               {
                 "t": "p",
-                "x": "캘리포니아주가 Nvidia에 조사 소환장을 발부했다. 공동 창업자로 오랫동안 최고경영자를 지낸 젠슨 황(Jensen Huang)이 스캔들로 물러난 뒤다. 미국(US) 주 법무장관 롭 본타(Rob Bonta)는 이 회사의 첨단 반도체 칩이 미국(US) 규제를 어기고 중국으로 흘러갔는지 들여다보는 조사의 하나로 소환장을 냈다."
+                "x": "두 위원회는 2026년 4월 Anysphere와 Airbnb에 서한을 보내 조사에 착수했고, 2026년 7월에는 DoorDash에도 서한을 보냈다."
               },
               {
                 "t": "p",
-                "x": "본타는 “Nvidia와 전 최고경영자의 행위는 회사가 투자자를 오도했을 수 있는 방식을 포함해 뚜렷한 적신호를 드러낸다”고 말했다."
+                "x": "두 위원장은 미국 기업들이 PRC-developed(중국이 개발한) open-weight 모델을 갈수록 많이 들여오는 이유로 \"저렴하고, 맞춤화가 가능하며, 미국 최고 시스템과 경쟁할 만하기 때문\"을 들었다. 연방 조사에서 주요 PRC 개발사들이 \"프록시 네트워크와 사기 계정을 이용해 미국 프런티어 모델의 출력물을 수집했다\"는 사실도 드러났다고 적었다."
               },
               {
                 "t": "p",
-                "x": "소환장은 목요일 발부됐다. 황이 사임한 지 일주일 만이다. 황은 중국 스파이로 의심받는 앨리스 황(Alice Huang)을 비롯해 여러 차례 불륜을 저지른 사실이 드러나 물러났다. 앨리스 황은 싱가포르에 본사를 둔 Megaspeed와 연관돼 있다. 이 회사는 최근 몇 년간 Nvidia 칩과 하드웨어를 $5bn (£3.8bn) 가까이 사들였고, 규제 대상 첨단 칩을 중국으로 빼돌렸을 가능성으로 조사를 받고 있다. Megaspeed는 자사가 “합법적이고 적법한” 사업체이며 황이 지난해 말 회사를 떠났다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "본타는 “우리 사무실은 Nvidia나 젠슨 황(Jensen Huang)의 행위로 중국이 첨단 칩이나 기밀 정보를 얻게 됐는지 조사하고 있다”고 말했다. 황이 불륜을 인정한 뒤 Nvidia 주가는 오분의 일 하락했다. 황은 12월 1일 여러 의회 위원회에서 증언할 예정이다."
+                "x": "위원회에 따르면 PLA Cyberspace Force 1st Bureau와 연관된 인력이 Zhipu의 Beijing(베이징) 본사에 여러 차례 드나들었고, 가장 최근은 2026년 8월이다. PLA 조달 기록에는 DeepSeek, Alibaba의 Qwen, Moonshot, MiniMax 모델이 군 사이버 작전에 탑재된 정황이 담겼다. 위원회에 제출된 문서를 보면 같은 계열 모델이 미국 주요 기업 내부에서 돌아간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カリフォルニア州、\nNvidia半導体輸出を調査",
-          "body": "カリフォルニア州司法長官はAI半導体の中国流出と投資家欺瞞の疑いでNvidiaを召喚した。",
-          "mini_headline": "カリフォルニア州がNvidiaを調査",
+          "headline": "中国AIモデル依存の\nUS企業に下院が警告",
+          "body": "下院の両委員長は、中国製オープンウェイトモデルを使うUS企業の出所・蒸留問題を指摘した。",
+          "mini_headline": "中国AIに依存するUS企業",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "ジェンセン・フアン(Jensen Huang、写真)が不倫を認めて以降、Nvidiaの株価は五分の一下落し、木曜日には過去一年で最安値をつけた。写真:VCG/Getty Images"
+                "t": "p",
+                "x": "下院中国特別委員会(House Select Committee on China)のJohn Moolenaar委員長(R-MI)と下院国土安全保障委員会(House Committee on Homeland Security)のAndrew R. Garbarino委員長(R-NY)は、中国で開発された(Chinese-developed)open-weight AIモデルが米国企業の消費者向けプラットフォームに組み込まれている実態をめぐる合同調査を経て、報告書を公表した。報告書はこれらのモデルの出所、データ、学習、無許可の蒸留の可能性、企業による購入・調達の方法に焦点を当て、U.S.のopen-weight AI戦略が、高価または独占的なU.S.モデルと、安価で高性能な中国拠点(China-based)の代替との二択から米国の事業者を解放するかどうかを評価した。"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州は、共同創業者で長年最高経営責任者を務めたジェンセン・フアン(Jensen Huang)の退任につながったスキャンダルを受け、Nvidiaに調査のための召喚状を送付した。米国(US)の州司法長官ロブ・ボンタ(Rob Bonta)は、同社の先端半導体チップの輸出品が米国(US)の規制に反して中国に渡ったかどうかを調べる捜査の一環として召喚状を出した。"
+                "x": "両委員会は2026年4月にAnysphereとAirbnbへ書簡を送って調査を始め、2026年7月にはDoorDashにも書簡を送った。"
               },
               {
                 "t": "p",
-                "x": "「Nvidiaと同社の元最高経営責任者の行為は、同社が投資家を誤導した可能性がある点を含め、明白な危険信号を示している」とボンタは述べた。"
+                "x": "両委員長は、米国企業がPRC-developed(中国開発)のopen-weightモデルの採用を増やしているのは「安価で、カスタマイズ可能で、米国の主要システムに匹敵するから」だと記し、さらに連邦の調査で主要なPRCの開発企業が「プロキシネットワークと不正アカウントを使って米国のフロンティアモデルの出力を収集していた」ことが判明したと述べている。"
               },
               {
                 "t": "p",
-                "x": "召喚状は木曜日に出された。その一週間前、フアンは中国のスパイと疑われるアリス・フアン(Alice Huang)を含む複数の相手との不倫が発覚して辞任していた。アリス・フアンはシンガポールを拠点とするMegaspeedと関係がある。同社は近年、Nvidiaのチップとハードウェアを$5bn (£3.8bn) 近く購入しており、規制対象の先端チップを中国に横流しした可能性で調査を受けている。Megaspeedは自社が「正当かつ合法的な」事業であり、フアンは昨年末に同社を去ったとしている。"
-              },
-              {
-                "t": "p",
-                "x": "「私の事務所は、Nvidiaまたはジェンセン・フアン(Jensen Huang)の行為によって中国が先端チップや機密情報を入手したかどうかを調査している」とボンタは述べた。フアンが不倫を認めて以降、Nvidiaの株価は五分の一下落しており、フアンは12月1日に複数の議会委員会で証言する予定だ。"
+                "x": "両委員会によると、PLA Cyberspace Force 1st Bureauに関係する人員がZhipuのBeijing(北京)本社に複数回姿を見せており、直近は2026年8月だという。またPLAの調達記録には、DeepSeek、AlibabaのQwen、Moonshot、MiniMaxのモデルが軍のサイバー作戦に組み込まれていることが示されている。委員会に提出された文書は、同じモデル群が米国の大手企業の内部で稼働していることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加州对Nvidia芯片\n出口展开调查",
-          "body": "加州总检察长就AI芯片是否流入中国及投资者是否被误导向Nvidia发出传票。",
-          "mini_headline": "加州调查Nvidia",
+          "headline": "众议院报告警告\nUS企业依赖中国AI模型",
+          "body": "两位众议院委员会主席称，基于中国开放权重模型构建产品的US企业面临来源与蒸馏方面的质疑。",
+          "mini_headline": "依赖中国AI的US企业",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "自黄仁勋(Jensen Huang,图)承认婚外情以来,Nvidia股价已下跌五分之一,周四跌至一年来最低点。摄影:VCG/Getty Images"
+                "t": "p",
+                "x": "众议院中国特别委员会（House Select Committee on China）主席John Moolenaar（R-MI）与众议院国土安全委员会（House Committee on Homeland Security）主席Andrew R. Garbarino（R-NY）在联合调查中国开发（Chinese-developed）的open-weight AI模型融入美国企业消费者平台的情况后，发布了一份报告。报告聚焦这些模型的来源、数据、训练、遭未经授权蒸馏的可能性，以及企业采购和获取模型的方式，并评估U.S.的open-weight AI战略能否让美国实体不必在昂贵或专有的U.S.模型与廉价而强大的中国本土（China-based）替代品之间二选一。"
               },
               {
                 "t": "p",
-                "x": "联合创始人、长期担任首席执行官的黄仁勋(Jensen Huang)因丑闻离职后,加州向Nvidia送达了调查传票。美国(US)该州总检察长罗布·邦塔(Rob Bonta)签发这份传票,是为调查该公司的先进半导体芯片出口是否违反美国(US)限制、最终流入中国。"
+                "x": "两个委员会于2026年4月致函Anysphere和Airbnb，由此启动调查，并于2026年7月致函DoorDash。"
               },
               {
                 "t": "p",
-                "x": "邦塔说:“Nvidia及其前首席执行官的行为亮起了鲜明的红旗,包括公司可能误导投资者的方式。”"
+                "x": "两位主席写道，美国企业正越来越多地采用PRC-developed（中国开发）的open-weight模型，“因为它们价格低廉、可定制，并能与领先的美国系统竞争”；联邦调查还发现，主要的PRC开发商“利用代理网络和欺诈账户获取美国前沿模型的输出”。"
               },
               {
                 "t": "p",
-                "x": "传票于周四签发。一周前,黄仁勋被曝有多段婚外情,其中一人是涉嫌为中国间谍的Alice Huang,随后辞职。Alice Huang与总部位于新加坡的Megaspeed有关联;该公司近年来购买了近$5bn (£3.8bn) 的Nvidia芯片和硬件,并因可能将受限先进芯片转运至中国而接受调查。Megaspeed表示,公司是“正当合法”的企业,且黄已于去年底离开公司。"
-              },
-              {
-                "t": "p",
-                "x": "邦塔说:“我的办公室正在调查Nvidia或黄仁勋(Jensen Huang)的行为是否导致中国获得先进芯片或机密信息。”自黄仁勋承认婚外情以来,Nvidia股价已下跌五分之一,他将于12月1日在多个国会委员会作证。"
+                "x": "两个委员会称，与PLA Cyberspace Force 1st Bureau相关的人员曾多次出现在Zhipu位于Beijing（北京）的总部，最近一次是在2026年8月；PLA采购记录显示，DeepSeek、Alibaba的Qwen、Moonshot和MiniMax模型被嵌入军事网络行动。提交给委员会的文件显示，同样的模型系列正在美国大型企业内部运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "California investiga a Nvidia\npor la exportación de chips",
-          "body": "El fiscal general de California citó a Nvidia para saber si chips de AI llegaron a China y si se engañó a inversores.",
-          "mini_headline": "California investiga a Nvidia",
+          "headline": "Informe de la House: firmas US\ndependen de modelos de AI chinos",
+          "body": "Dos presidentes de la House cuestionan el origen y la destilación de modelos chinos abiertos usados en firmas de US.",
+          "mini_headline": "Firmas de US atadas a la AI china",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Las acciones de Nvidia han caído una quinta parte desde que Jensen Huang (en la foto) admitió la relación extramatrimonial, y el jueves tocaron su mínimo de un año. Fotografía: VCG/Getty Images"
+                "t": "p",
+                "x": "El presidente John Moolenaar (R-MI), del House Select Committee on China, y el presidente Andrew R. Garbarino (R-NY), del House Committee on Homeland Security, publicaron un informe tras su investigación conjunta sobre la integración de modelos de AI open-weight de desarrollo chino (Chinese-developed) en las plataformas de consumo de empresas estadounidenses. El informe se centró en el origen de estos modelos, sus datos, su entrenamiento, el potencial de destilación no autorizada y la forma en que las empresas los compran y adquieren, y evaluó si la estrategia de AI open-weight de U.S. evita a las entidades estadounidenses tener que elegir entre modelos de U.S. caros o propietarios y alternativas baratas y capaces con sede en China (China-based)."
               },
               {
                 "t": "p",
-                "x": "California ha entregado una citación de investigación a Nvidia tras un escándalo que provocó la salida de su cofundador y director ejecutivo durante muchos años, Jensen Huang. Rob Bonta, fiscal general de ese estado de US, emitió la citación como parte de una investigación sobre si las exportaciones de los chips semiconductores avanzados de la empresa acabaron en China, en contra de las restricciones de US."
+                "x": "Los comités iniciaron la investigación en abril de 2026 con cartas a Anysphere y Airbnb, y enviaron una carta a DoorDash en julio de 2026."
               },
               {
                 "t": "p",
-                "x": "“La conducta de Nvidia y de su ex director ejecutivo enciende claras señales de alarma, también sobre las formas en que la empresa pudo haber engañado a los inversores”, dijo Bonta."
+                "x": "Los presidentes escriben que las empresas estadounidenses adoptan cada vez más modelos open-weight PRC-developed (desarrollados en China) \"porque son baratos, personalizables y competitivos frente a los principales sistemas estadounidenses\", y que investigaciones federales determinaron que grandes desarrolladores de la PRC \"usaron redes proxy y cuentas fraudulentas para recolectar resultados de modelos de frontera estadounidenses\"."
               },
               {
                 "t": "p",
-                "x": "La citación, emitida el jueves, llegó después de que Huang dimitiera hace una semana, cuando se supo que había tenido varias aventuras, entre ellas una con Alice Huang, sospechosa de ser espía china. Ella está vinculada a Megaspeed, con sede en Singapur, que ha comprado cerca de $5bn (£3.8bn) en chips y hardware de Nvidia en los últimos años y está siendo investigada por haber desviado posiblemente chips avanzados restringidos a China. Megaspeed ha dicho que es un negocio “legítimo y lícito” y que Huang dejó la empresa a finales del año pasado."
-              },
-              {
-                "t": "p",
-                "x": "“Mi oficina está investigando si las acciones de Nvidia o de Jensen Huang hicieron que China obtuviera chips avanzados o información confidencial”, dijo Bonta. Las acciones de Nvidia han caído una quinta parte desde que Huang admitió la aventura, y está previsto que testifique ante varios comités del Congreso el 1 de diciembre."
+                "x": "Los comités afirman que personal vinculado al 1st Bureau de la PLA Cyberspace Force estuvo presente en varias ocasiones en la sede de Zhipu en Beijing, la más reciente en agosto de 2026, y que registros de adquisiciones de la PLA muestran modelos de DeepSeek, Qwen de Alibaba, Moonshot y MiniMax integrados en operaciones cibernéticas militares. Documentos entregados a los comités muestran estas mismas familias de modelos funcionando dentro de grandes empresas estadounidenses."
               }
             ]
           }
@@ -199,125 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "캘리포니아주, Nvidia\n칩 수출 조사 착수",
-          "body": "캘리포니아주가 AI 칩 중국 유입·투자자 기만 의혹으로 Nvidia를 소환했다.",
-          "mini_headline": "캘리포니아, Nvidia 조사",
+          "headline": "중국 AI 모델에 기댄\nUS 기업에 하원 경고",
+          "body": "하원 위원장 둘이 중국 개방형 모델을 쓰는 US 기업의 출처·증류 문제를 짚었다.",
+          "mini_headline": "중국 AI에 기댄 US 기업",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "젠슨 황(Jensen Huang, 사진)이 혼외 관계를 인정한 뒤 Nvidia 주가는 오분의 일 하락했고, 목요일에는 최근 한 해 중 최저치를 기록했다. 사진: VCG/Getty Images"
+                "t": "p",
+                "x": "하원 중국특별위원회(House Select Committee on China) 위원장 John Moolenaar(R-MI)와 하원 국토안보위원회(House Committee on Homeland Security) 위원장 Andrew R. Garbarino(R-NY)가 중국이 개발한(Chinese-developed) open-weight AI 모델이 미국 기업의 소비자 플랫폼에 통합되는 실태를 함께 조사한 뒤 보고서를 냈다. 보고서는 이들 모델의 출처와 데이터, 학습, 무단 증류 가능성, 기업의 구매·조달 방식을 집중적으로 살폈고, U.S. open-weight AI 전략이 미국 기업들을 비싸거나 독점적인 U.S. 모델과 저렴하면서도 성능 좋은 중국 기반(China-based) 대안 사이의 선택에서 벗어나게 해 주는지를 평가했다."
               },
               {
                 "t": "p",
-                "x": "캘리포니아주가 공동 창업자이자 오랜 최고경영자였던 젠슨 황(Jensen Huang)의 퇴진으로 이어진 스캔들 이후 Nvidia에 조사 소환장을 발부했다. 미국(US) 주 법무장관인 롭 본타(Rob Bonta)는 이 회사의 첨단 반도체 칩 수출품이 미국(US)의 규제를 어기고 중국으로 흘러갔는지 들여다보는 조사의 일환으로 소환장을 발부했다."
+                "x": "두 위원회는 2026년 4월 Anysphere와 Airbnb에 서한을 보내며 조사를 시작했고, 2026년 7월에는 DoorDash에 서한을 보냈다."
               },
               {
                 "t": "p",
-                "x": "본타는 “Nvidia와 전 최고경영자의 행위는 회사가 투자자를 오도했을 수 있는 방식을 포함해 뚜렷한 적신호를 드러낸다”고 말했다."
+                "x": "두 위원장은 미국 기업들이 PRC-developed(중국이 개발한) open-weight 모델을 점점 더 많이 도입하고 있으며 그 이유는 \"저렴하고, 맞춤화가 가능하며, 미국 최고 시스템과 경쟁할 만하기 때문\"이라고 썼다. 또 연방 조사 결과 주요 PRC 개발사들이 \"프록시 네트워크와 사기 계정을 이용해 미국 프런티어 모델의 출력물을 수집했다\"는 사실이 드러났다고 적었다."
               },
               {
                 "t": "p",
-                "x": "목요일 발부된 이번 소환장은 일주일 전 황의 사임에 뒤이은 것이다. 황은 중국 스파이로 의심받는 앨리스 황(Alice Huang)을 포함해 여러 차례 불륜을 저지른 사실이 드러나 물러났다. 앨리스 황은 싱가포르에 본사를 둔 Megaspeed와 연관돼 있다. 이 회사는 최근 몇 년간 Nvidia 칩과 하드웨어를 $5bn (£3.8bn) 가까이 사들였고, 규제 대상 첨단 칩을 중국으로 빼돌렸을 가능성으로 조사를 받고 있다. Megaspeed는 자사가 “합법적이고 적법한” 사업체이며 황이 지난해 말 회사를 떠났다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "본타는 “우리 사무실은 Nvidia나 젠슨 황(Jensen Huang)의 행위로 중국이 첨단 칩이나 기밀 정보를 얻게 됐는지 조사하고 있다”고 말했다. 황이 불륜을 인정한 뒤 Nvidia 주가는 오분의 일 하락했으며, 그는 12월 1일 여러 의회 위원회에서 증언할 예정이다."
+                "x": "위원회에 따르면 PLA Cyberspace Force 1st Bureau와 연관된 인력이 Zhipu의 Beijing(베이징) 본사에 여러 차례 나타났고, 가장 최근은 2026년 8월이다. 또 PLA 조달 기록에는 DeepSeek, Alibaba의 Qwen, Moonshot, MiniMax 모델이 군 사이버 작전에 탑재되는 정황이 담겨 있다. 위원회에 제출된 문서에는 같은 모델 계열이 미국 주요 기업 내부에서 돌아가고 있는 것으로 나타난다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カリフォルニア州、\nNvidia半導体輸出を調査",
-          "body": "カリフォルニア州司法長官はAI半導体の中国流出と投資家欺瞞の疑いでNvidiaを召喚した。",
-          "mini_headline": "カリフォルニア州がNvidiaを調査",
+          "headline": "中国AIモデル依存の\nUS企業に下院が警告",
+          "body": "下院の両委員長は、中国製オープンウェイトモデルを使うUS企業の出所・蒸留問題を指摘した。",
+          "mini_headline": "中国AIに依存するUS企業",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "ジェンセン・フアン(Jensen Huang、写真)が不倫を認めて以降、Nvidiaの株価は五分の一下落し、木曜日には過去一年で最安値をつけた。写真:VCG/Getty Images"
+                "t": "p",
+                "x": "下院中国特別委員会(House Select Committee on China)のJohn Moolenaar委員長(R-MI)と下院国土安全保障委員会(House Committee on Homeland Security)のAndrew R. Garbarino委員長(R-NY)は、中国で開発された(Chinese-developed)open-weight AIモデルが米国企業の消費者向けプラットフォームに組み込まれている実態をめぐる合同調査を経て、報告書を公表した。報告書はこれらのモデルの出所、データ、学習、無許可の蒸留の可能性、企業による購入・調達の方法に焦点を当て、U.S.のopen-weight AI戦略が、高価または独占的なU.S.モデルと、安価で高性能な中国拠点(China-based)の代替との二択から米国の事業者を解放するかどうかを評価した。"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州は、共同創業者で長年最高経営責任者を務めたジェンセン・フアン(Jensen Huang)の退任につながったスキャンダルを受け、Nvidiaに調査のための召喚状を送付した。米国(US)の州司法長官ロブ・ボンタ(Rob Bonta)は、同社の先端半導体チップの輸出品が米国(US)の規制に反して中国に渡ったかどうかを調べる捜査の一環として召喚状を出した。"
+                "x": "両委員会は2026年4月にAnysphereとAirbnbへ書簡を送って調査を始め、2026年7月にはDoorDashにも書簡を送った。"
               },
               {
                 "t": "p",
-                "x": "「Nvidiaと同社の元最高経営責任者の行為は、同社が投資家を誤導した可能性がある点を含め、明白な危険信号を示している」とボンタは述べた。"
+                "x": "両委員長は、米国企業がPRC-developed(中国開発)のopen-weightモデルの採用を増やしているのは「安価で、カスタマイズ可能で、米国の主要システムに匹敵するから」だと記し、さらに連邦の調査で主要なPRCの開発企業が「プロキシネットワークと不正アカウントを使って米国のフロンティアモデルの出力を収集していた」ことが判明したと述べている。"
               },
               {
                 "t": "p",
-                "x": "召喚状は木曜日に出された。その一週間前、フアンは中国のスパイと疑われるアリス・フアン(Alice Huang)を含む複数の相手との不倫が発覚して辞任していた。アリス・フアンはシンガポールを拠点とするMegaspeedと関係がある。同社は近年、Nvidiaのチップとハードウェアを$5bn (£3.8bn) 近く購入しており、規制対象の先端チップを中国に横流しした可能性で調査を受けている。Megaspeedは自社が「正当かつ合法的な」事業であり、フアンは昨年末に同社を去ったとしている。"
-              },
-              {
-                "t": "p",
-                "x": "「私の事務所は、Nvidiaまたはジェンセン・フアン(Jensen Huang)の行為によって中国が先端チップや機密情報を入手したかどうかを調査している」とボンタは述べた。フアンが不倫を認めて以降、Nvidiaの株価は五分の一下落しており、フアンは12月1日に複数の議会委員会で証言する予定だ。"
+                "x": "両委員会によると、PLA Cyberspace Force 1st Bureauに関係する人員がZhipuのBeijing(北京)本社に複数回姿を見せており、直近は2026年8月だという。またPLAの調達記録には、DeepSeek、AlibabaのQwen、Moonshot、MiniMaxのモデルが軍のサイバー作戦に組み込まれていることが示されている。委員会に提出された文書は、同じモデル群が米国の大手企業の内部で稼働していることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加州对Nvidia芯片\n出口展开调查",
-          "body": "加州总检察长就AI芯片是否流入中国及投资者是否被误导向Nvidia发出传票。",
-          "mini_headline": "加州调查Nvidia",
+          "headline": "众议院报告警告\nUS企业依赖中国AI模型",
+          "body": "两位众议院委员会主席称，基于中国开放权重模型构建产品的US企业面临来源与蒸馏方面的质疑。",
+          "mini_headline": "依赖中国AI的US企业",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "自黄仁勋(Jensen Huang,图)承认婚外情以来,Nvidia股价已下跌五分之一,周四跌至一年来最低点。摄影:VCG/Getty Images"
+                "t": "p",
+                "x": "众议院中国特别委员会（House Select Committee on China）主席John Moolenaar（R-MI）与众议院国土安全委员会（House Committee on Homeland Security）主席Andrew R. Garbarino（R-NY）在联合调查中国开发（Chinese-developed）的open-weight AI模型融入美国企业消费者平台的情况后，发布了一份报告。报告聚焦这些模型的来源、数据、训练、遭未经授权蒸馏的可能性，以及企业采购和获取模型的方式，并评估U.S.的open-weight AI战略能否让美国实体不必在昂贵或专有的U.S.模型与廉价而强大的中国本土（China-based）替代品之间二选一。"
               },
               {
                 "t": "p",
-                "x": "联合创始人、长期担任首席执行官的黄仁勋(Jensen Huang)因丑闻离职后,加州向Nvidia送达了调查传票。美国(US)该州总检察长罗布·邦塔(Rob Bonta)签发这份传票,是为调查该公司的先进半导体芯片出口是否违反美国(US)限制、最终流入中国。"
+                "x": "两个委员会于2026年4月致函Anysphere和Airbnb，由此启动调查，并于2026年7月致函DoorDash。"
               },
               {
                 "t": "p",
-                "x": "邦塔说:“Nvidia及其前首席执行官的行为亮起了鲜明的红旗,包括公司可能误导投资者的方式。”"
+                "x": "两位主席写道，美国企业正越来越多地采用PRC-developed（中国开发）的open-weight模型，“因为它们价格低廉、可定制，并能与领先的美国系统竞争”；联邦调查还发现，主要的PRC开发商“利用代理网络和欺诈账户获取美国前沿模型的输出”。"
               },
               {
                 "t": "p",
-                "x": "传票于周四签发。一周前,黄仁勋被曝有多段婚外情,其中一人是涉嫌为中国间谍的Alice Huang,随后辞职。Alice Huang与总部位于新加坡的Megaspeed有关联;该公司近年来购买了近$5bn (£3.8bn) 的Nvidia芯片和硬件,并因可能将受限先进芯片转运至中国而接受调查。Megaspeed表示,公司是“正当合法”的企业,且黄已于去年底离开公司。"
-              },
-              {
-                "t": "p",
-                "x": "邦塔说:“我的办公室正在调查Nvidia或黄仁勋(Jensen Huang)的行为是否导致中国获得先进芯片或机密信息。”自黄仁勋承认婚外情以来,Nvidia股价已下跌五分之一,他将于12月1日在多个国会委员会作证。"
+                "x": "两个委员会称，与PLA Cyberspace Force 1st Bureau相关的人员曾多次出现在Zhipu位于Beijing（北京）的总部，最近一次是在2026年8月；PLA采购记录显示，DeepSeek、Alibaba的Qwen、Moonshot和MiniMax模型被嵌入军事网络行动。提交给委员会的文件显示，同样的模型系列正在美国大型企业内部运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "California investiga a Nvidia\npor la exportación de chips",
-          "body": "El fiscal general de California citó a Nvidia para saber si chips de AI llegaron a China y si se engañó a inversores.",
-          "mini_headline": "California investiga a Nvidia",
+          "headline": "Informe de la House: firmas US\ndependen de modelos de AI chinos",
+          "body": "Dos presidentes de la House cuestionan el origen y la destilación de modelos chinos abiertos usados en firmas de US.",
+          "mini_headline": "Firmas de US atadas a la AI china",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&dpr=1&s=none&crop=none",
-                "cap": "Las acciones de Nvidia han caído una quinta parte desde que Jensen Huang (en la foto) admitió la relación extramatrimonial, y el jueves tocaron su mínimo de un año. Fotografía: VCG/Getty Images"
+                "t": "p",
+                "x": "El presidente John Moolenaar (R-MI), del House Select Committee on China, y el presidente Andrew R. Garbarino (R-NY), del House Committee on Homeland Security, publicaron un informe tras su investigación conjunta sobre la integración de modelos de AI open-weight de desarrollo chino (Chinese-developed) en las plataformas de consumo de empresas estadounidenses. El informe se centró en el origen de estos modelos, sus datos, su entrenamiento, el potencial de destilación no autorizada y la forma en que las empresas los compran y adquieren, y evaluó si la estrategia de AI open-weight de U.S. evita a las entidades estadounidenses tener que elegir entre modelos de U.S. caros o propietarios y alternativas baratas y capaces con sede en China (China-based)."
               },
               {
                 "t": "p",
-                "x": "California ha entregado una citación de investigación a Nvidia tras un escándalo que provocó la salida de su cofundador y director ejecutivo durante muchos años, Jensen Huang. Rob Bonta, fiscal general de ese estado de US, emitió la citación como parte de una investigación sobre si las exportaciones de los chips semiconductores avanzados de la empresa acabaron en China, en contra de las restricciones de US."
+                "x": "Los comités iniciaron la investigación en abril de 2026 con cartas a Anysphere y Airbnb, y enviaron una carta a DoorDash en julio de 2026."
               },
               {
                 "t": "p",
-                "x": "“La conducta de Nvidia y de su ex director ejecutivo enciende claras señales de alarma, también sobre las formas en que la empresa pudo haber engañado a los inversores”, dijo Bonta."
+                "x": "Los presidentes escriben que las empresas estadounidenses adoptan cada vez más modelos open-weight PRC-developed (desarrollados en China) \"porque son baratos, personalizables y competitivos frente a los principales sistemas estadounidenses\", y que investigaciones federales determinaron que grandes desarrolladores de la PRC \"usaron redes proxy y cuentas fraudulentas para recolectar resultados de modelos de frontera estadounidenses\"."
               },
               {
                 "t": "p",
-                "x": "La citación, emitida el jueves, llegó después de que Huang dimitiera hace una semana, cuando se supo que había tenido varias aventuras, entre ellas una con Alice Huang, sospechosa de ser espía china. Ella está vinculada a Megaspeed, con sede en Singapur, que ha comprado cerca de $5bn (£3.8bn) en chips y hardware de Nvidia en los últimos años y está siendo investigada por haber desviado posiblemente chips avanzados restringidos a China. Megaspeed ha dicho que es un negocio “legítimo y lícito” y que Huang dejó la empresa a finales del año pasado."
-              },
-              {
-                "t": "p",
-                "x": "“Mi oficina está investigando si las acciones de Nvidia o de Jensen Huang hicieron que China obtuviera chips avanzados o información confidencial”, dijo Bonta. Las acciones de Nvidia han caído una quinta parte desde que Huang admitió la aventura, y está previsto que testifique ante varios comités del Congreso el 1 de diciembre."
+                "x": "Los comités afirman que personal vinculado al 1st Bureau de la PLA Cyberspace Force estuvo presente en varias ocasiones en la sede de Zhipu en Beijing, la más reciente en agosto de 2026, y que registros de adquisiciones de la PLA muestran modelos de DeepSeek, Qwen de Alibaba, Moonshot y MiniMax integrados en operaciones cibernéticas militares. Documentos entregados a los comités muestran estas mismas familias de modelos funcionando dentro de grandes empresas estadounidenses."
               }
             ]
           }
@@ -325,401 +275,321 @@
       }
     },
     {
-      "id": "bessent-uschina-ai-military",
-      "source_lang": "ko",
+      "id": "ccw-autonomous-weapons-2028",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "미중 정상, AI 군사\n결정에 인간 개입 합의",
-      "body": "베선트 장관은 미중 정상이 AI 군사 결정 시 인간 개입에 합의했다고 밝혔다.",
-      "mini_headline": "미중 AI 군사 인간 개입 합의",
+      "headline": "128개국, 자율무기\n두 해 협의 지지",
+      "body": "CCW가 2028년까지 자율무기 문서에 합의했고 러시아 등은 강한 권한을 막았다.",
+      "mini_headline": "킬러 로봇 규범 2028년으로 연기",
       "tool": "Politics",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261121004500072",
+      "source": "POLITICO Europe",
+      "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-            "cap": "도널드 트럼프 미국 대통령(왼쪽)과 스콧 베선트 재무장관 [로이터=연합뉴스]"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+            "cap": "2026년 11월 16일 제네바에서 열린 U.N. 특정재래식무기금지협약 회의에 대표단이 참석하고 있다. | Fabrice Coffrini/AFP via Getty Images"
           },
           {
             "t": "p",
-            "x": "(뉴욕=연합뉴스) 김연숙 특파원 = 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 인공지능(AI) 기술을 활용한 군사적 결정에 항상 인간이 개입해야 한다는 점에 합의했다고 스콧 베선트 미국 재무부 장관이 20일(현지시간) 밝혔다."
+            "x": "AI 기반(AI-powered) 킬러 로봇 규제를 논의한 U.N. 회의가 토요일 협상 권한을 얻지 못하고 끝났다. 각국은 논의를 2028년까지 이어 가기로 했고, NGOs는 결과를 \"실망스럽다\"고 평가했다."
           },
           {
             "t": "p",
-            "x": "베선트 장관은 이날 미 경제매체 CNBC와의 인터뷰에서 이같이 전하며 이번 합의가 트럼프 대통령의 아시아 순방 중 거둔 주요성과 중 하나라고 말했다."
+            "x": "법적 구속력 있는 규칙을 만들려는 시도는 여러 나라, 특히 러시아의 반대에 막혔다. 회의 의장인 스위스 외교관 쥘리앵 퇴니(Julien Thöni)는 128개 회원국이 앞으로 두 해 동안 \"치명적 자율무기체계에 관한 국제 문서의 마련\"에 착수하기로 끝내 합의했다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "그는 \"트럼프 대통령과 시 주석이 '슈퍼지능'(SI·도널드 트럼프 행정부가 AI를 지칭하는 용어)을 활용한 모든 군사적 결정에 항상 인간이 개입해야 하며, 주요 군사 작전에서 이 기술이 자율적으로 작동하도록 허용해서는 안 된다는 점에 합의한 것은 매우 중요한 일\"이라고 말했다."
+            "x": "회의가 합의제로 운영되는 탓에 러시아가 한 주 내내 공식 협상을 막았고, 논의는 비공식으로 이어졌다. EU 외교관 두 명은 U.S., U.K., 한국, 일본, 튀르키예, 이스라엘도 구속력 있는 규제에 반대했다고 전했다. 정부 간 전문가 그룹은 2028년 조약 당사국 회의에 결과를 보고한다."
           },
           {
             "t": "p",
-            "x": "그는 이 같은 합의가 양국 간의 AI 패권 경쟁과는 별개의 문제라고 설명했다. 또 사이버 공격에 악용되는 \"위험한\" 중국의 AI 모델들에 대응하기 위해 미국 AI 연구소들이 기술적 우위를 유지해야 한다고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "이와 함께 베선트 장관은 원유 인도가격 하락을 언급하며, 일부 위원들이 지지하는 큰 폭의 금리 인상을 받아들이지 말라고 연방준비제도(Fed·연준)에 촉구했다. 그는 현재 금리 50bp(1bp=0.01%포인트) 인상을 주장하는 크리스토퍼 월러 연준 이사를 겨냥해 그가 지난 1월 연방공개시장위원회(FOMC)에서 50bp 인하를 주장했던 점을 거론하며 \"불과 11∼12개월 만에 이제는 더 큰 폭의 금리 인상을 원한다는 것은 다소 오락가락하는(peripatetic) 듯 보인다\"고 지적했다."
-          },
-          {
-            "t": "p",
-            "x": "그는 \"연준이 과거가 아닌 미래를 내다보기를 바란다\"고 했다."
+            "x": "아시아태평양 법·안보연구소(Asia-Pacific Institute for Law and Security)의 레인 리보야(Rain Liivoja)는 결정문에 법적 구속력 있는 문서 언급이 없다며 \"2028년 말까지 조약이 나오지 않을 가능성은 여전히 있다. 심지어 그럴 공산이 크다\"고 말했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "미중 정상, AI 군사\n결정에 인간 개입 합의",
-          "body": "베선트 장관은 미중 정상이 AI 군사 결정 시 인간 개입에 합의했다고 밝혔다.",
-          "mini_headline": "미중 AI 군사 인간 개입 합의",
+        "en": {
+          "headline": "128 states back two-year talks\non autonomous weapons",
+          "body": "The CCW review agreed to draft an autonomous weapons instrument by 2028, but Russia and others blocked a firmer mandate.",
+          "mini_headline": "Killer-robot rules pushed to 2028",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "도널드 트럼프 미국 대통령(왼쪽)과 스콧 베선트 재무장관 [로이터=연합뉴스]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "Delegates attend the U.N. Convention on Certain Conventional Weapons in Geneva on Nov. 16, 2026. | Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(뉴욕=연합뉴스) 김연숙 특파원 = 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 인공지능(AI) 기술을 활용한 군사적 결정에 항상 인간이 개입해야 한다는 점에 합의했다고 스콧 베선트 미국 재무부 장관이 20일(현지시간) 밝혔다."
+                "x": "U.N. talks on regulating AI-powered killer robots ended without a negotiating mandate Saturday, as countries decided to extend discussions until 2028. NGOs called the result \"disappointing.\""
               },
               {
                 "t": "p",
-                "x": "베선트 장관은 이날 미 경제매체 CNBC와의 인터뷰에서 이같이 전하며 이번 합의가 트럼프 대통령의 아시아 순방 중 거둔 주요성과 중 하나라고 말했다."
+                "x": "Resistance from several countries, and especially Russia, blocked efforts to elaborate legally binding rules. In the end, the 128 member countries agreed to launch \"the elaboration of an international instrument on lethal autonomous weapons systems\" over the next two years, said Julien Thöni, the Swiss diplomat who chaired the talks."
               },
               {
                 "t": "p",
-                "x": "그는 \"트럼프 대통령과 시 주석이 '슈퍼지능'(SI·도널드 트럼프 행정부가 AI를 지칭하는 용어)을 활용한 모든 군사적 결정에 항상 인간이 개입해야 하며, 주요 군사 작전에서 이 기술이 자율적으로 작동하도록 허용해서는 안 된다는 점에 합의한 것은 매우 중요한 일\"이라고 말했다."
+                "x": "Because consensus is required, Russia blocked formal negotiations all week; talks were held informally instead. Two EU diplomats listed the U.S., the U.K., South Korea, Japan, Turkey and Israel as also resisting a binding regulation. A group of intergovernmental experts should report to a 2028 meeting of countries party to the treaty."
               },
               {
                 "t": "p",
-                "x": "그는 이 같은 합의가 양국 간의 AI 패권 경쟁과는 별개의 문제라고 설명했다. 또 사이버 공격에 악용되는 \"위험한\" 중국의 AI 모델들에 대응하기 위해 미국 AI 연구소들이 기술적 우위를 유지해야 한다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "이와 함께 베선트 장관은 원유 인도가격 하락을 언급하며, 일부 위원들이 지지하는 큰 폭의 금리 인상을 받아들이지 말라고 연방준비제도(Fed·연준)에 촉구했다. 그는 현재 금리 50bp(1bp=0.01%포인트) 인상을 주장하는 크리스토퍼 월러 연준 이사를 겨냥해 그가 지난 1월 연방공개시장위원회(FOMC)에서 50bp 인하를 주장했던 점을 거론하며 \"불과 11∼12개월 만에 이제는 더 큰 폭의 금리 인상을 원한다는 것은 다소 오락가락하는(peripatetic) 듯 보인다\"고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 \"연준이 과거가 아닌 미래를 내다보기를 바란다\"고 했다."
+                "x": "With no mention of a legally binding instrument in the decision, \"it remains possible — likely, even — that there will be no treaty by the end of 2028,\" said Rain Liivoja of the Asia-Pacific Institute for Law and Security."
               }
             ]
           }
         },
-        "en": {
-          "headline": "US-China leaders agree to keep\nhumans in military AI calls",
-          "body": "Bessent said the US and Chinese leaders agreed that humans must be involved in AI-driven military decisions.",
-          "mini_headline": "US-China deal on human control of military AI",
+        "ko": {
+          "headline": "128개국, 자율무기\n두 해 협의 지지",
+          "body": "CCW가 2028년까지 자율무기 문서에 합의했고 러시아 등은 강한 권한을 막았다.",
+          "mini_headline": "킬러 로봇 규범 2028년으로 연기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "US President Donald Trump (left) and Treasury Secretary Scott Bessent [Reuters=Yonhap News]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "2026년 11월 16일 제네바에서 열린 U.N. 특정재래식무기금지협약 회의에 대표단이 참석하고 있다. | Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(New York=Yonhap News) Correspondent Kim Yeon-sook = US President Donald Trump and Chinese President Xi Jinping have agreed that humans must always be involved in military decisions that use artificial intelligence (AI) technology, US Treasury Secretary Scott Bessent said on the 20th (local time)."
+                "x": "AI 기반(AI-powered) 킬러 로봇 규제를 논의한 U.N. 회의가 토요일 협상 권한을 얻지 못하고 끝났다. 각국은 논의를 2028년까지 이어 가기로 했고, NGOs는 결과를 \"실망스럽다\"고 평가했다."
               },
               {
                 "t": "p",
-                "x": "In an interview with US business outlet CNBC that day, Bessent relayed the agreement and said it was one of the major achievements of President Trump's tour of Asia."
+                "x": "법적 구속력 있는 규칙을 만들려는 시도는 여러 나라, 특히 러시아의 반대에 막혔다. 회의 의장인 스위스 외교관 쥘리앵 퇴니(Julien Thöni)는 128개 회원국이 앞으로 두 해 동안 \"치명적 자율무기체계에 관한 국제 문서의 마련\"에 착수하기로 끝내 합의했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "He said, “It is very significant that President Trump and President Xi agreed that humans must always be involved in every military decision using ‘super intelligence’ (SI, the term the Donald Trump administration uses for AI), and that this technology must not be allowed to operate autonomously in major military operations.”"
+                "x": "회의가 합의제로 운영되는 탓에 러시아가 한 주 내내 공식 협상을 막았고, 논의는 비공식으로 이어졌다. EU 외교관 두 명은 U.S., U.K., 한국, 일본, 튀르키예, 이스라엘도 구속력 있는 규제에 반대했다고 전했다. 정부 간 전문가 그룹은 2028년 조약 당사국 회의에 결과를 보고한다."
               },
               {
                 "t": "p",
-                "x": "He explained that the agreement is a separate matter from the AI supremacy race between the two countries. He added that US AI labs must maintain their technological edge to counter “dangerous” Chinese AI models that are exploited in cyberattacks."
-              },
-              {
-                "t": "p",
-                "x": "Bessent also cited the fall in delivered crude oil prices and urged the Federal Reserve (Fed) not to accept the large rate hike backed by some members. Aiming at Fed Governor Christopher Waller, who is currently calling for a 50bp (1bp=0.01% point) rate hike, he noted that Waller had argued for a 50bp cut at the Federal Open Market Committee (FOMC) meeting in January, and said, “Wanting an even bigger rate hike now, just 11 to 12 months later, seems somewhat peripatetic.”"
-              },
-              {
-                "t": "p",
-                "x": "He said, “I hope the Fed will look to the future, not the past.”"
+                "x": "아시아태평양 법·안보연구소(Asia-Pacific Institute for Law and Security)의 레인 리보야(Rain Liivoja)는 결정문에 법적 구속력 있는 문서 언급이 없다며 \"2028년 말까지 조약이 나오지 않을 가능성은 여전히 있다. 심지어 그럴 공산이 크다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米中首脳、AI軍事判断に\n人間の関与で合意",
-          "body": "ベッセント長官は米中首脳がAIによる軍事判断に人間が関与することで合意したと述べた。",
-          "mini_headline": "米中、AI軍事判断への人間関与で合意",
+          "headline": "128カ国、自律兵器の\n二年間の協議を支持",
+          "body": "CCWは2028年までの自律兵器文書作成で合意したが、ロシアなどが強い権限を阻んだ。",
+          "mini_headline": "キラーロボット規制は2028年へ先送り",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "ドナルド・トランプ米大統領(左)とスコット・ベッセント財務長官[ロイター=聯合ニュース]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "2026年11月16日、ジュネーブで開かれたU.N.特定通常兵器使用禁止制限条約の会合に出席する代表団。| Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(ニューヨーク=聯合ニュース)キム・ヨンスク特派員=ドナルド・トランプ米大統領と習近平中国国家主席が、人工知能(AI)技術を活用した軍事的決定には常に人間が関与しなければならないという点で合意したと、スコット・ベッセント米財務長官が20日(現地時間)明らかにした。"
+                "x": "AIを搭載した(AI-powered)殺人ロボットの規制を巡るU.N.の協議は土曜日、交渉マンデートを得られないまま閉幕し、各国は議論を2028年まで延長することを決めた。NGOsは結果を「期待外れ」と評した。"
               },
               {
                 "t": "p",
-                "x": "ベッセント長官は同日、米経済メディアCNBCとのインタビューでこれを伝え、今回の合意はトランプ大統領のアジア歴訪で得た主要な成果の一つだと述べた。"
+                "x": "複数の国、とりわけロシアの抵抗により、法的拘束力のあるルールを策定する取り組みは阻まれた。最終的に128の加盟国は、今後二年間で「致死性自律兵器システムに関する国際的な文書の策定」に着手することで合意したと、協議の議長を務めたスイスの外交官Julien Thöni氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "同氏は「トランプ大統領と習主席が、『スーパーインテリジェンス』(SI・ドナルド・トランプ政権がAIを指して使う用語)を活用したすべての軍事的決定に常に人間が関与しなければならず、主要な軍事作戦でこの技術が自律的に作動することを許してはならないという点で合意したことは、非常に重要だ」と述べた。"
+                "x": "コンセンサスが必要なため、ロシアは一週間を通じて正式な交渉を阻み、協議は代わりに非公式に行われた。EUの外交官二人は、U.S.、U.K.、韓国、日本、トルコ、イスラエルも拘束力のある規制に抵抗していると挙げた。政府間専門家グループは、2028年の条約締約国会議に報告することになっている。"
               },
               {
                 "t": "p",
-                "x": "同氏は、この合意は両国間のAI覇権争いとは別の問題だと説明した。また、サイバー攻撃に悪用される「危険な」中国のAIモデルに対抗するため、米国のAI研究所が技術的優位を維持しなければならないと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "あわせてベッセント長官は原油の受け渡し価格の下落に触れ、一部の委員が支持する大幅な利上げを受け入れないよう連邦準備制度(Fed)に求めた。同氏は現在50bp(1bp=0.01%ポイント)の利上げを主張しているクリストファー・ウォラーFed理事を念頭に、ウォラー氏が1月の連邦公開市場委員会(FOMC)で50bpの利下げを主張していた点を挙げ、「わずか11〜12か月で、今度はより大幅な利上げを望むというのは、ややふらついている(peripatetic)ように見える」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "同氏は「Fedが過去ではなく未来を見据えることを望む」と述べた。"
+                "x": "決定に法的拘束力のある文書への言及がないことから、「2028年末までに条約ができない可能性は依然としてある。むしろその公算が大きい」と、アジア太平洋法・安全保障研究所(Asia-Pacific Institute for Law and Security)のRain Liivoja氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美中元首同意AI军事\n决策须有人类参与",
-          "body": "贝森特部长表示,美中元首已就AI军事决策须有人类参与达成一致。",
-          "mini_headline": "美中就AI军事决策须有人类参与达成一致",
+          "headline": "128国支持就自主武器\n展开两年谈判",
+          "body": "CCW审议会议同意在2028年前起草自主武器文书，但俄罗斯等国阻挡了更有力的授权。",
+          "mini_headline": "杀手机器人规则推迟至2028年",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "美国总统唐纳德·特朗普(左)与财政部长斯科特·贝森特[路透社=韩联社]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "2026年11月16日，代表们出席在日内瓦举行的U.N.《特定常规武器公约》会议。| Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(纽约=韩联社)特派记者金妍淑 = 美国财政部长斯科特·贝森特20日(当地时间)表示,美国总统唐纳德·特朗普与中国国家主席习近平已就利用人工智能(AI)技术作出的军事决策必须始终有人类参与达成一致。"
+                "x": "关于监管AI驱动（AI-powered）杀手机器人的U.N.谈判于周六结束，未能获得谈判授权，各国决定将讨论延长至2028年。NGOs称这一结果“令人失望”。"
               },
               {
                 "t": "p",
-                "x": "贝森特当天在接受美国财经媒体CNBC采访时转述了上述内容,并称这一协议是特朗普总统亚洲之行取得的主要成果之一。"
+                "x": "多个国家、尤其是俄罗斯的抵制，阻碍了制定具有法律约束力规则的努力。主持谈判的瑞士外交官Julien Thöni表示，128个成员国最终同意在未来两年内启动“关于致命性自主武器系统的国际文书的拟订工作”。"
               },
               {
                 "t": "p",
-                "x": "他说:“特朗普总统和习主席同意,在利用‘超级智能’(SI,唐纳德·特朗普政府对AI的称呼)作出的所有军事决策中必须始终有人类参与,并且不应允许这项技术在重大军事行动中自主运行,这一点非常重要。”"
+                "x": "由于需要协商一致，俄罗斯整周阻挠正式谈判，会谈只得以非正式方式进行。两名EU外交官列出，U.S.、U.K.、韩国、日本、土耳其和以色列也抵制具有约束力的监管。一个政府间专家组将向2028年的条约缔约国会议提交报告。"
               },
               {
                 "t": "p",
-                "x": "他解释说,这一协议与两国之间的AI霸权竞争是两回事。他还补充说,为应对被用于网络攻击的“危险”中国AI模型,美国AI研究机构必须保持技术优势。"
-              },
-              {
-                "t": "p",
-                "x": "此外,贝森特提及原油交割价格下跌,敦促美国联邦储备系统(Fed,美联储)不要接受部分委员支持的大幅加息。他针对目前主张加息50bp(1bp=0.01%个百分点)的美联储理事克里斯托弗·沃勒指出,沃勒曾在1月的联邦公开市场委员会(FOMC)会议上主张降息50bp,并表示:“仅仅过了11至12个月,如今却想要更大幅度的加息,似乎有些摇摆不定(peripatetic)。”"
-              },
-              {
-                "t": "p",
-                "x": "他说:“希望美联储着眼未来,而不是过去。”"
+                "x": "亚太法律与安全研究所（Asia-Pacific Institute for Law and Security）的Rain Liivoja表示，由于决定中没有提及具有法律约束力的文书，“到2028年底仍可能——甚至很可能——不会有条约”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "EE. UU. y China pactan\ncontrol humano en AI militar",
-          "body": "Bessent dijo que los líderes de EE. UU. y China acordaron la intervención humana en decisiones militares con AI.",
-          "mini_headline": "EE. UU. y China: control humano de la AI militar",
+          "headline": "128 Estados respaldan dos años\nde debate sobre armas autónomas",
+          "body": "La CCW pactó redactar un instrumento sobre armas autónomas para 2028, pero Rusia y otros frenaron un mandato más firme.",
+          "mini_headline": "Reglas sobre robots asesinos, aplazadas a 2028",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "El presidente de EE. UU., Donald Trump (izquierda), y el secretario del Tesoro, Scott Bessent [Reuters=Yonhap]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "Delegados asisten a la Convención sobre Ciertas Armas Convencionales de la U.N. en Ginebra el 16 de noviembre de 2026. | Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(Nueva York=Yonhap) Kim Yeon-sook, corresponsal = El presidente de EE. UU., Donald Trump, y el presidente de China, Xi Jinping, acordaron que siempre debe haber intervención humana en las decisiones militares que utilicen tecnología de inteligencia artificial (AI), según afirmó el día 20 (hora local) el secretario del Tesoro de EE. UU., Scott Bessent."
+                "x": "Las conversaciones de la U.N. para regular los robots asesinos impulsados por IA (AI-powered) terminaron el sábado sin un mandato de negociación, y los países decidieron prolongar los debates hasta 2028. Las NGOs calificaron el resultado de \"decepcionante\"."
               },
               {
                 "t": "p",
-                "x": "Bessent lo dijo ese mismo día en una entrevista con el medio económico estadounidense CNBC, y señaló que el acuerdo es uno de los principales logros de la gira asiática del presidente Trump."
+                "x": "La resistencia de varios países, y en especial de Rusia, bloqueó los esfuerzos por elaborar normas jurídicamente vinculantes. Al final, los 128 países miembros acordaron iniciar \"la elaboración de un instrumento internacional sobre sistemas de armas autónomas letales\" en los próximos dos años, dijo Julien Thöni, el diplomático suizo que presidió las conversaciones."
               },
               {
                 "t": "p",
-                "x": "“Es muy importante que el presidente Trump y el presidente Xi acordaran que siempre debe haber intervención humana en todas las decisiones militares que utilicen la ‘superinteligencia’ (SI, término con el que el gobierno de Donald Trump se refiere a la AI) y que no se debe permitir que esta tecnología funcione de forma autónoma en operaciones militares importantes”, dijo."
+                "x": "Como se requiere consenso, Rusia bloqueó las negociaciones formales toda la semana; en su lugar, las conversaciones fueron informales. Dos diplomáticos de la EU señalaron que U.S., U.K., Corea del Sur, Japón, Turquía e Israel también se resisten a una regulación vinculante. Un grupo de expertos intergubernamentales deberá informar a una reunión de 2028 de los países parte del tratado."
               },
               {
                 "t": "p",
-                "x": "Explicó que este acuerdo es una cuestión distinta de la competencia por la hegemonía en AI entre ambos países. Añadió que los laboratorios de AI de EE. UU. deben mantener su ventaja tecnológica para hacer frente a los modelos de AI chinos “peligrosos” que se utilizan en ciberataques."
-              },
-              {
-                "t": "p",
-                "x": "Bessent también mencionó la caída del precio de entrega del crudo e instó a la Reserva Federal (Fed) a no aceptar la fuerte subida de tipos que respaldan algunos miembros. En alusión al gobernador de la Fed Christopher Waller, que actualmente defiende una subida de 50bp (1bp=0.01% punto porcentual), recordó que Waller había defendido un recorte de 50bp en la reunión de enero del Comité Federal de Mercado Abierto (FOMC) y afirmó: “Querer ahora una subida aún mayor, apenas 11 o 12 meses después, parece algo vacilante (peripatetic)”."
-              },
-              {
-                "t": "p",
-                "x": "“Espero que la Fed mire hacia el futuro y no hacia el pasado”, dijo."
+                "x": "Sin mención alguna a un instrumento jurídicamente vinculante en la decisión, \"sigue siendo posible —incluso probable— que no haya tratado a finales de 2028\", dijo Rain Liivoja, del Asia-Pacific Institute for Law and Security."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "US-China leaders agree to keep\nhumans in military AI calls",
-          "body": "Bessent said the US and Chinese leaders agreed that humans must be involved in AI-driven military decisions.",
-          "mini_headline": "US-China deal on human control of military AI",
+        "ko": {
+          "headline": "128개국, 자율무기\n두 해 협의 지지",
+          "body": "CCW는 2028년까지 자율무기 문서에 합의, 러시아 등은 강한 권한을 막았다.",
+          "mini_headline": "킬러 로봇 규범 2028년으로 연기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "US President Donald Trump (left) and Treasury Secretary Scott Bessent [Reuters=Yonhap News]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "2026년 11월 16일 제네바에서 열린 U.N. 특정재래식무기금지협약 회의에 대표단이 참석하고 있다. | Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(New York=Yonhap News) Correspondent Kim Yeon-sook = US President Donald Trump and Chinese President Xi Jinping have agreed that humans must always be involved in military decisions that use artificial intelligence (AI) technology, US Treasury Secretary Scott Bessent said on the 20th (local time)."
+                "x": "AI 기반(AI-powered) 킬러 로봇 규제를 다룬 U.N. 회의가 토요일 협상 권한을 얻지 못한 채 끝났고, 각국은 논의를 2028년까지 이어 가기로 했다. NGOs는 결과를 \"실망스럽다\"고 평가했다."
               },
               {
                 "t": "p",
-                "x": "In an interview with US business outlet CNBC that day, Bessent relayed the agreement and said it was one of the major achievements of President Trump's tour of Asia."
+                "x": "여러 나라, 특히 러시아의 반대로 법적 구속력 있는 규칙을 마련하려는 시도는 막혔다. 회의 의장을 맡은 스위스 외교관 쥘리앵 퇴니(Julien Thöni)는 결국 128개 회원국이 앞으로 두 해 동안 \"치명적 자율무기체계에 관한 국제 문서의 마련\"에 착수하기로 합의했다고 말했다."
               },
               {
                 "t": "p",
-                "x": "He said, “It is very significant that President Trump and President Xi agreed that humans must always be involved in every military decision using ‘super intelligence’ (SI, the term the Donald Trump administration uses for AI), and that this technology must not be allowed to operate autonomously in major military operations.”"
+                "x": "합의제 방식이어서 러시아가 한 주 내내 공식 협상을 막았고, 회의는 대신 비공식으로 진행됐다. EU 외교관 두 명은 U.S., U.K., 한국, 일본, 튀르키예, 이스라엘도 구속력 있는 규제에 반대했다고 꼽았다. 정부 간 전문가 그룹은 2028년 조약 당사국 회의에 보고할 예정이다."
               },
               {
                 "t": "p",
-                "x": "He explained that the agreement is a separate matter from the AI supremacy race between the two countries. He added that US AI labs must maintain their technological edge to counter “dangerous” Chinese AI models that are exploited in cyberattacks."
-              },
-              {
-                "t": "p",
-                "x": "Bessent also cited the fall in delivered crude oil prices and urged the Federal Reserve (Fed) not to accept the large rate hike backed by some members. Aiming at Fed Governor Christopher Waller, who is currently calling for a 50bp (1bp=0.01% point) rate hike, he noted that Waller had argued for a 50bp cut at the Federal Open Market Committee (FOMC) meeting in January, and said, “Wanting an even bigger rate hike now, just 11 to 12 months later, seems somewhat peripatetic.”"
-              },
-              {
-                "t": "p",
-                "x": "He said, “I hope the Fed will look to the future, not the past.”"
+                "x": "아시아태평양 법·안보연구소(Asia-Pacific Institute for Law and Security)의 레인 리보야(Rain Liivoja)는 결정문에 법적 구속력 있는 문서에 대한 언급이 없다는 점을 들어 \"2028년 말까지 조약이 나오지 않을 가능성은 여전히 있다. 심지어 그럴 공산이 크다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米中首脳、AI軍事判断に\n人間の関与で合意",
-          "body": "ベッセント長官は米中首脳がAIによる軍事判断に人間が関与することで合意したと述べた。",
-          "mini_headline": "米中、AI軍事判断への人間関与で合意",
+          "headline": "128カ国、自律兵器の\n二年間の協議を支持",
+          "body": "CCWは2028年までの自律兵器文書作成で合意したが、ロシアなどが強い権限を阻んだ。",
+          "mini_headline": "キラーロボット規制は2028年へ先送り",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "ドナルド・トランプ米大統領(左)とスコット・ベッセント財務長官[ロイター=聯合ニュース]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "2026年11月16日、ジュネーブで開かれたU.N.特定通常兵器使用禁止制限条約の会合に出席する代表団。| Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(ニューヨーク=聯合ニュース)キム・ヨンスク特派員=ドナルド・トランプ米大統領と習近平中国国家主席が、人工知能(AI)技術を活用した軍事的決定には常に人間が関与しなければならないという点で合意したと、スコット・ベッセント米財務長官が20日(現地時間)明らかにした。"
+                "x": "AIを搭載した(AI-powered)殺人ロボットの規制を巡るU.N.の協議は土曜日、交渉マンデートを得られないまま閉幕し、各国は議論を2028年まで延長することを決めた。NGOsは結果を「期待外れ」と評した。"
               },
               {
                 "t": "p",
-                "x": "ベッセント長官は同日、米経済メディアCNBCとのインタビューでこれを伝え、今回の合意はトランプ大統領のアジア歴訪で得た主要な成果の一つだと述べた。"
+                "x": "複数の国、とりわけロシアの抵抗により、法的拘束力のあるルールを策定する取り組みは阻まれた。最終的に128の加盟国は、今後二年間で「致死性自律兵器システムに関する国際的な文書の策定」に着手することで合意したと、協議の議長を務めたスイスの外交官Julien Thöni氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "同氏は「トランプ大統領と習主席が、『スーパーインテリジェンス』(SI・ドナルド・トランプ政権がAIを指して使う用語)を活用したすべての軍事的決定に常に人間が関与しなければならず、主要な軍事作戦でこの技術が自律的に作動することを許してはならないという点で合意したことは、非常に重要だ」と述べた。"
+                "x": "コンセンサスが必要なため、ロシアは一週間を通じて正式な交渉を阻み、協議は代わりに非公式に行われた。EUの外交官二人は、U.S.、U.K.、韓国、日本、トルコ、イスラエルも拘束力のある規制に抵抗していると挙げた。政府間専門家グループは、2028年の条約締約国会議に報告することになっている。"
               },
               {
                 "t": "p",
-                "x": "同氏は、この合意は両国間のAI覇権争いとは別の問題だと説明した。また、サイバー攻撃に悪用される「危険な」中国のAIモデルに対抗するため、米国のAI研究所が技術的優位を維持しなければならないと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "あわせてベッセント長官は原油の受け渡し価格の下落に触れ、一部の委員が支持する大幅な利上げを受け入れないよう連邦準備制度(Fed)に求めた。同氏は現在50bp(1bp=0.01%ポイント)の利上げを主張しているクリストファー・ウォラーFed理事を念頭に、ウォラー氏が1月の連邦公開市場委員会(FOMC)で50bpの利下げを主張していた点を挙げ、「わずか11〜12か月で、今度はより大幅な利上げを望むというのは、ややふらついている(peripatetic)ように見える」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "同氏は「Fedが過去ではなく未来を見据えることを望む」と述べた。"
+                "x": "決定に法的拘束力のある文書への言及がないことから、「2028年末までに条約ができない可能性は依然としてある。むしろその公算が大きい」と、アジア太平洋法・安全保障研究所(Asia-Pacific Institute for Law and Security)のRain Liivoja氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美中元首同意AI军事\n决策须有人类参与",
-          "body": "贝森特部长表示,美中元首已就AI军事决策须有人类参与达成一致。",
-          "mini_headline": "美中就AI军事决策须有人类参与达成一致",
+          "headline": "128国支持就自主武器\n展开两年谈判",
+          "body": "CCW审议会议同意在2028年前起草自主武器文书，但俄罗斯等国阻挡了更有力的授权。",
+          "mini_headline": "杀手机器人规则推迟至2028年",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "美国总统唐纳德·特朗普(左)与财政部长斯科特·贝森特[路透社=韩联社]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "2026年11月16日，代表们出席在日内瓦举行的U.N.《特定常规武器公约》会议。| Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(纽约=韩联社)特派记者金妍淑 = 美国财政部长斯科特·贝森特20日(当地时间)表示,美国总统唐纳德·特朗普与中国国家主席习近平已就利用人工智能(AI)技术作出的军事决策必须始终有人类参与达成一致。"
+                "x": "关于监管AI驱动（AI-powered）杀手机器人的U.N.谈判于周六结束，未能获得谈判授权，各国决定将讨论延长至2028年。NGOs称这一结果“令人失望”。"
               },
               {
                 "t": "p",
-                "x": "贝森特当天在接受美国财经媒体CNBC采访时转述了上述内容,并称这一协议是特朗普总统亚洲之行取得的主要成果之一。"
+                "x": "多个国家、尤其是俄罗斯的抵制，阻碍了制定具有法律约束力规则的努力。主持谈判的瑞士外交官Julien Thöni表示，128个成员国最终同意在未来两年内启动“关于致命性自主武器系统的国际文书的拟订工作”。"
               },
               {
                 "t": "p",
-                "x": "他说:“特朗普总统和习主席同意,在利用‘超级智能’(SI,唐纳德·特朗普政府对AI的称呼)作出的所有军事决策中必须始终有人类参与,并且不应允许这项技术在重大军事行动中自主运行,这一点非常重要。”"
+                "x": "由于需要协商一致，俄罗斯整周阻挠正式谈判，会谈只得以非正式方式进行。两名EU外交官列出，U.S.、U.K.、韩国、日本、土耳其和以色列也抵制具有约束力的监管。一个政府间专家组将向2028年的条约缔约国会议提交报告。"
               },
               {
                 "t": "p",
-                "x": "他解释说,这一协议与两国之间的AI霸权竞争是两回事。他还补充说,为应对被用于网络攻击的“危险”中国AI模型,美国AI研究机构必须保持技术优势。"
-              },
-              {
-                "t": "p",
-                "x": "此外,贝森特提及原油交割价格下跌,敦促美国联邦储备系统(Fed,美联储)不要接受部分委员支持的大幅加息。他针对目前主张加息50bp(1bp=0.01%个百分点)的美联储理事克里斯托弗·沃勒指出,沃勒曾在1月的联邦公开市场委员会(FOMC)会议上主张降息50bp,并表示:“仅仅过了11至12个月,如今却想要更大幅度的加息,似乎有些摇摆不定(peripatetic)。”"
-              },
-              {
-                "t": "p",
-                "x": "他说:“希望美联储着眼未来,而不是过去。”"
+                "x": "亚太法律与安全研究所（Asia-Pacific Institute for Law and Security）的Rain Liivoja表示，由于决定中没有提及具有法律约束力的文书，“到2028年底仍可能——甚至很可能——不会有条约”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "EE. UU. y China pactan\ncontrol humano en AI militar",
-          "body": "Bessent dijo que los líderes de EE. UU. y China acordaron la intervención humana en decisiones militares con AI.",
-          "mini_headline": "EE. UU. y China: control humano de la AI militar",
+          "headline": "128 Estados respaldan dos años\nde debate sobre armas autónomas",
+          "body": "La CCW pactó redactar un instrumento sobre armas autónomas para 2028, pero Rusia y otros frenaron un mandato más firme.",
+          "mini_headline": "Reglas sobre robots asesinos, aplazadas a 2028",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-                "cap": "El presidente de EE. UU., Donald Trump (izquierda), y el secretario del Tesoro, Scott Bessent [Reuters=Yonhap]"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+                "cap": "Delegados asisten a la Convención sobre Ciertas Armas Convencionales de la U.N. en Ginebra el 16 de noviembre de 2026. | Fabrice Coffrini/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "(Nueva York=Yonhap) Kim Yeon-sook, corresponsal = El presidente de EE. UU., Donald Trump, y el presidente de China, Xi Jinping, acordaron que siempre debe haber intervención humana en las decisiones militares que utilicen tecnología de inteligencia artificial (AI), según afirmó el día 20 (hora local) el secretario del Tesoro de EE. UU., Scott Bessent."
+                "x": "Las conversaciones de la U.N. para regular los robots asesinos impulsados por IA (AI-powered) terminaron el sábado sin un mandato de negociación, y los países decidieron prolongar los debates hasta 2028. Las NGOs calificaron el resultado de \"decepcionante\"."
               },
               {
                 "t": "p",
-                "x": "Bessent lo dijo ese mismo día en una entrevista con el medio económico estadounidense CNBC, y señaló que el acuerdo es uno de los principales logros de la gira asiática del presidente Trump."
+                "x": "La resistencia de varios países, y en especial de Rusia, bloqueó los esfuerzos por elaborar normas jurídicamente vinculantes. Al final, los 128 países miembros acordaron iniciar \"la elaboración de un instrumento internacional sobre sistemas de armas autónomas letales\" en los próximos dos años, dijo Julien Thöni, el diplomático suizo que presidió las conversaciones."
               },
               {
                 "t": "p",
-                "x": "“Es muy importante que el presidente Trump y el presidente Xi acordaran que siempre debe haber intervención humana en todas las decisiones militares que utilicen la ‘superinteligencia’ (SI, término con el que el gobierno de Donald Trump se refiere a la AI) y que no se debe permitir que esta tecnología funcione de forma autónoma en operaciones militares importantes”, dijo."
+                "x": "Como se requiere consenso, Rusia bloqueó las negociaciones formales toda la semana; en su lugar, las conversaciones fueron informales. Dos diplomáticos de la EU señalaron que U.S., U.K., Corea del Sur, Japón, Turquía e Israel también se resisten a una regulación vinculante. Un grupo de expertos intergubernamentales deberá informar a una reunión de 2028 de los países parte del tratado."
               },
               {
                 "t": "p",
-                "x": "Explicó que este acuerdo es una cuestión distinta de la competencia por la hegemonía en AI entre ambos países. Añadió que los laboratorios de AI de EE. UU. deben mantener su ventaja tecnológica para hacer frente a los modelos de AI chinos “peligrosos” que se utilizan en ciberataques."
-              },
-              {
-                "t": "p",
-                "x": "Bessent también mencionó la caída del precio de entrega del crudo e instó a la Reserva Federal (Fed) a no aceptar la fuerte subida de tipos que respaldan algunos miembros. En alusión al gobernador de la Fed Christopher Waller, que actualmente defiende una subida de 50bp (1bp=0.01% punto porcentual), recordó que Waller había defendido un recorte de 50bp en la reunión de enero del Comité Federal de Mercado Abierto (FOMC) y afirmó: “Querer ahora una subida aún mayor, apenas 11 o 12 meses después, parece algo vacilante (peripatetic)”."
-              },
-              {
-                "t": "p",
-                "x": "“Espero que la Fed mire hacia el futuro y no hacia el pasado”, dijo."
+                "x": "Sin mención alguna a un instrumento jurídicamente vinculante en la decisión, \"sigue siendo posible —incluso probable— que no haya tratado a finales de 2028\", dijo Rain Liivoja, del Asia-Pacific Institute for Law and Security."
               }
             ]
           }
@@ -727,15 +597,15 @@
       }
     },
     {
-      "id": "acus-genai-adjudication-rfc",
+      "id": "puma-shen-deepfake-indictment",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ACUS, 행정심판 AI\n활용 의견 수렴",
-      "body": "ACUS가 연방 심판관·직원·당사자의 생성형 AI 활용을 두고 의견을 묻는다.",
-      "mini_headline": "ACUS, 행정심판 AI 활용 검토",
+      "headline": "타이베이 시장 후보\n딥페이크 유포 남성 기소",
+      "body": "타오위안 검찰이 Puma Shen 딥페이크 음성 영상 게시자에 1년형을 구형했다.",
+      "mini_headline": "Puma Shen 딥페이크 기소",
       "tool": "Politics",
-      "source": "Federal Register (ACUS)",
-      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868134",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -743,149 +613,179 @@
         "blocks": [
           {
             "t": "p",
-            "x": "ACUS 의장실이 연방 기관 심판에서 기관 심판관, 기타 기관 직원, 당사자, 대리인 및 기타 참여자가 생성형 초지능(이전에는 생성형 인공지능으로 지칭)을 쓰는 데 필요한 정책을 마련하려고 공개 의견을 받는다. 제출된 의견은 기관에 모범 사례를 권고하는 ACUS의 진행 중인 프로젝트에 반영될 수 있다. 의견은 2027년 1월 19일 오전 10시(ET)까지 도착해야 한다."
+            "x": "타오위안 검찰이 민주진보당(DPP) 타이베이 시장 후보 선보양(Puma Shen, 沈伯洋)의 딥페이크 영상을 Threads에 올린 혐의로 49세 남성을 기소하고 징역 1년을 구형했다."
           },
           {
             "t": "p",
-            "x": "ACUS는 GenSI를 책임 있게 쓰면 기관이 고지문·명령·결정문 초안을 쓰고 방대한 제출 자료와 증거를 요약하며, 조사와 심리 녹취, 문서 번역에도 도움을 받을 수 있다고 밝혔다. 다만 기관은 심판관의 분석이나 개인정보 등 민감한 이익에 미치는 영향 같은 위험도 따져야 한다."
+            "x": "기소장에 따르면 Cheng(鄭)이라는 성의 이 남성은 Facebook에서 문제의 영상을 봤다. 영상은 Shen의 목소리를 흉내 낸 음성으로, 그가 시민 회복력을 키우려고 세운 단체 Kuma Academy를 거쳐 US 무기 구매 리베이트를 받았다고 인정하는 것처럼 꾸몄다는 의혹을 받는다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+            "cap": "타오위안 지방검찰서 청사. 사진: Yu Jui-jen, Taipei Times"
           },
           {
             "t": "p",
-            "x": "공고는 당사자와 대리인 쪽의 환각 문제를 짚었다. 존재하지 않는 법적 근거를 인용해 널리 알려진 사례도 여기에 들어간다. GenSI 도구가 딥페이크 증거 조작에 쓰일 수 있다는 우려도 나왔다. EOIR과 미국 특허상표청(U.S. Patent and Trademark Office)은 구체적인 정책을 내놨고, 일부 심판관은 GenSI 사용 사실을 공개하거나 인증하라고 요구한다."
+            "x": "검찰은 Cheng이 내용을 확인하지 않고 10월 30일 Threads에 영상을 공개 게시해 Shen의 명예를 훼손하고 유권자 지지를 떨어뜨리려 했다고 판단했다. 법원은 보석금 NT$100,000(US$3,036)을 조건으로 그를 풀어 주고 대만 출국을 금지했다."
           },
           {
             "t": "p",
-            "x": "ACUS가 던진 질문 가운데는 기관이 GenSI에 어떤 제한을 둬야 하는지, 당사자가 사용 사실을 공개하거나 인증해야 하는지, 부적절하게 쓰면 어떤 결과가 따라야 하는지가 있다."
+            "x": "검찰은 Cheng이 Shen의 목소리를 딥페이크로 꾸민 허위 정보를 퍼뜨려 당선을 막으려 했다며 공직인원선거파면법 위반 혐의를 적용했다. 목요일 기소하면서 검찰은 그가 Shen의 명예를 크게 훼손했고 선거 기간 딥페이크 허위 정보 확산에 일조했다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ACUS seeks comment on AI\nin agency adjudication",
-          "body": "ACUS is seeking public comment on how federal adjudicators, staff and parties should use generative AI.",
-          "mini_headline": "ACUS weighs AI in adjudication",
+          "headline": "Man indicted over deepfake\nof Taipei mayoral candidate",
+          "body": "Taoyuan prosecutors seek a one-year sentence for a man who posted a deepfake voice video of Puma Shen before the vote.",
+          "mini_headline": "Indictment over Puma Shen deepfake",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "The Office of the Chairman of ACUS is requesting public input on the development of policies regarding the use of generative super intelligence, previously referenced as generative artificial intelligence, by agency adjudicators, other agency personnel, parties, representatives, and other participants in federal agency adjudications. Responses may inform an ongoing ACUS project that will recommend best practices for agencies. Comments must be received no later than 10 a.m. (ET) January 19, 2027."
+                "x": "Taoyuan prosecutors are seeking a one-year prison sentence for a 49-year-old man charged with posting a deepfake video of Democratic Progressive Party (DPP) Taipei mayoral candidate Puma Shen (沈伯洋) on Threads."
               },
               {
                 "t": "p",
-                "x": "ACUS says that, when used responsibly, GenSI could help agencies draft notices, orders and decisions, summarize lengthy submissions and evidence, conduct research, transcribe hearings and translate documents. At the same time, agencies must consider risks, including effects on adjudicators' analysis and on privacy and other sensitive interests."
+                "x": "The man, surnamed Cheng (鄭), found the video on Facebook, the indictment said. The video allegedly used a voice imitating Shen's to make it sound as though he had admitted to receiving kickbacks from US arms purchases through the Kuma Academy, an organization he founded to build civil resilience."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "The Taoyuan District Prosecutors' Office building. Photo: Yu Jui-jen, Taipei Times"
               },
               {
                 "t": "p",
-                "x": "For parties and representatives, the notice cites hallucinations, including well-publicized instances of nonexistent legal authorities being cited, and concerns that GenSI tools could be used to fabricate deepfake evidence. EOIR and the U.S. Patent and Trademark Office have published specific policies, and some adjudicators require disclosure or certification of GenSI use."
+                "x": "Prosecutors alleged that Cheng posted it publicly on Threads on Oct. 30 without verifying its contents to damage Shen's reputation and dissuade voters from supporting him. The court released him on NT$100,000 (US$3,036) bail and barred him from leaving Taiwan."
               },
               {
                 "t": "p",
-                "x": "ACUS asks, among other questions, what restrictions agencies should place on GenSI, whether parties should disclose or certify their use of it, and what consequences improper use should carry."
+                "x": "Prosecutors accused Cheng of contravening the Civil Servants Election and Recall Act by using a deepfake of Shen's voice to spread false information intended to prevent him from being elected. They indicted Cheng on Thursday, saying he had seriously damaged Shen's reputation and contributed to the spread of deepfake misinformation during the campaign."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ACUS, 행정심판 AI\n활용 의견 수렴",
-          "body": "ACUS가 연방 심판관·직원·당사자의 생성형 AI 활용을 두고 의견을 묻는다.",
-          "mini_headline": "ACUS, 행정심판 AI 활용 검토",
+          "headline": "타이베이 시장 후보\n딥페이크 유포 남성 기소",
+          "body": "타오위안 검찰이 Puma Shen 딥페이크 음성 영상 게시자에 1년형을 구형했다.",
+          "mini_headline": "Puma Shen 딥페이크 기소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ACUS 의장실이 연방 기관 심판에서 기관 심판관, 기타 기관 직원, 당사자, 대리인 및 기타 참여자가 생성형 초지능(이전에는 생성형 인공지능으로 지칭)을 쓰는 데 필요한 정책을 마련하려고 공개 의견을 받는다. 제출된 의견은 기관에 모범 사례를 권고하는 ACUS의 진행 중인 프로젝트에 반영될 수 있다. 의견은 2027년 1월 19일 오전 10시(ET)까지 도착해야 한다."
+                "x": "타오위안 검찰이 민주진보당(DPP) 타이베이 시장 후보 선보양(Puma Shen, 沈伯洋)의 딥페이크 영상을 Threads에 올린 혐의로 49세 남성을 기소하고 징역 1년을 구형했다."
               },
               {
                 "t": "p",
-                "x": "ACUS는 GenSI를 책임 있게 쓰면 기관이 고지문·명령·결정문 초안을 쓰고 방대한 제출 자료와 증거를 요약하며, 조사와 심리 녹취, 문서 번역에도 도움을 받을 수 있다고 밝혔다. 다만 기관은 심판관의 분석이나 개인정보 등 민감한 이익에 미치는 영향 같은 위험도 따져야 한다."
+                "x": "기소장에 따르면 Cheng(鄭)이라는 성의 이 남성은 Facebook에서 문제의 영상을 봤다. 영상은 Shen의 목소리를 흉내 낸 음성으로, 그가 시민 회복력을 키우려고 세운 단체 Kuma Academy를 거쳐 US 무기 구매 리베이트를 받았다고 인정하는 것처럼 꾸몄다는 의혹을 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "타오위안 지방검찰서 청사. 사진: Yu Jui-jen, Taipei Times"
               },
               {
                 "t": "p",
-                "x": "공고는 당사자와 대리인 쪽의 환각 문제를 짚었다. 존재하지 않는 법적 근거를 인용해 널리 알려진 사례도 여기에 들어간다. GenSI 도구가 딥페이크 증거 조작에 쓰일 수 있다는 우려도 나왔다. EOIR과 미국 특허상표청(U.S. Patent and Trademark Office)은 구체적인 정책을 내놨고, 일부 심판관은 GenSI 사용 사실을 공개하거나 인증하라고 요구한다."
+                "x": "검찰은 Cheng이 내용을 확인하지 않고 10월 30일 Threads에 영상을 공개 게시해 Shen의 명예를 훼손하고 유권자 지지를 떨어뜨리려 했다고 판단했다. 법원은 보석금 NT$100,000(US$3,036)을 조건으로 그를 풀어 주고 대만 출국을 금지했다."
               },
               {
                 "t": "p",
-                "x": "ACUS가 던진 질문 가운데는 기관이 GenSI에 어떤 제한을 둬야 하는지, 당사자가 사용 사실을 공개하거나 인증해야 하는지, 부적절하게 쓰면 어떤 결과가 따라야 하는지가 있다."
+                "x": "검찰은 Cheng이 Shen의 목소리를 딥페이크로 꾸민 허위 정보를 퍼뜨려 당선을 막으려 했다며 공직인원선거파면법 위반 혐의를 적용했다. 목요일 기소하면서 검찰은 그가 Shen의 명예를 크게 훼손했고 선거 기간 딥페이크 허위 정보 확산에 일조했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ACUS、行政審判での\nAI利用に意見募集",
-          "body": "ACUSは連邦の審判官や職員、当事者による生成AIの使い方について意見を募っている。",
-          "mini_headline": "ACUS、審判でのAI利用を検討",
+          "headline": "台北市長候補の\nディープフェイクで男起訴",
+          "body": "桃園地検はPuma Shen氏のディープフェイク音声動画を投稿した男に懲役1年を求刑した。",
+          "mini_headline": "Puma Shen氏のディープフェイクで起訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ACUS議長室は、連邦機関の審判において、機関の審判官、その他の機関職員、当事者、代理人、その他の参加者が生成スーパーインテリジェンス(以前は生成人工知能と呼ばれていた)を利用することに関する方針策定について、一般からの意見を求めている。寄せられた意見は、機関向けのベストプラクティスを勧告する、進行中のACUSのプロジェクトに反映される可能性がある。意見は2027年1月19日午前10時(ET)までに届く必要がある。"
+                "x": "桃園地検は、民進党(DPP)の台北市長候補Puma Shen(沈伯洋)氏のディープフェイク動画をThreadsに投稿したとして起訴された49歳の男に、懲役1年を求刑している。"
               },
               {
                 "t": "p",
-                "x": "ACUSによれば、責任ある形で使えば、GenSIは機関による通知・命令・決定の起案、長大な提出書類や証拠の要約、調査、審理の文字起こし、文書の翻訳を助けうる。同時に機関は、審判官の分析への影響や、プライバシーその他の機微な利益への影響を含むリスクを考慮しなければならない。"
+                "x": "起訴状によると、Cheng(鄭)姓の男はFacebookでこの動画を見つけた。動画はShen氏の声をまねた音声を使い、同氏が市民のレジリエンス強化のために設立した団体Kuma Academyを通じてUSの武器購入からキックバックを受け取ったと認めたかのように見せかけたとされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "桃園地方検察署の庁舎。写真:Yu Jui-jen、Taipei Times"
               },
               {
                 "t": "p",
-                "x": "当事者と代理人については、存在しない法的根拠が引用された広く知られた事例を含むハルシネーションや、GenSIツールがディープフェイクの証拠捏造に使われうるという懸念を告示は挙げている。EOIRと米国特許商標庁(U.S. Patent and Trademark Office)は具体的な方針を公表しており、一部の審判官はGenSI利用の開示または証明を求めている。"
+                "x": "検察によると、Cheng被告は10月30日、内容を確認しないままThreadsに動画を公開投稿し、Shen氏の評判を傷つけ、有権者に支持を思いとどまらせようとした。裁判所はNT$100,000(US$3,036)の保釈金で同被告を釈放し、台湾からの出国を禁じた。"
               },
               {
                 "t": "p",
-                "x": "ACUSは、機関がGenSIにどのような制限を設けるべきか、当事者がその利用を開示または証明すべきか、不適切な利用にどのような結果を伴わせるべきかなどを問うている。"
+                "x": "検察は、Cheng被告がShen氏の声のディープフェイクを使い、同氏の当選を妨げる目的で虚偽情報を広めたとして、公職人員選挙罷免法違反に問うた。検察は木曜日にCheng被告を起訴し、同被告がShen氏の評判を著しく傷つけ、選挙戦中のディープフェイクによる誤情報の拡散に加担したと指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ACUS就机构裁决中\nAI使用征求意见",
-          "body": "ACUS正就联邦裁决人员、工作人员及当事方应如何使用生成式AI公开征求意见。",
-          "mini_headline": "ACUS研究裁决中的AI使用",
+          "headline": "男子遭起诉：深度伪造\n台北市长参选人",
+          "body": "桃园检方对一名在投票前发布Puma Shen深度伪造语音视频的男子求处一年徒刑。",
+          "mini_headline": "Puma Shen深度伪造案起诉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ACUS主席办公室正就制定相关政策公开征求意见,内容涉及机构裁决人员、其他机构人员、当事方、代理人及联邦机构裁决的其他参与者使用生成式超级智能(此前称为生成式人工智能)。征集的意见可能为ACUS一个正在进行的项目提供参考,该项目将向各机构推荐最佳做法。意见须在2027年1月19日上午10点(ET)之前送达。"
+                "x": "桃园检方对一名49岁男子求处一年徒刑，该男子被控在Threads上发布民进党（DPP）台北市长参选人沈伯洋（Puma Shen）的深度伪造视频。"
               },
               {
                 "t": "p",
-                "x": "ACUS表示,若负责任地使用,GenSI可帮助各机构起草通知、命令和决定,总结冗长的提交材料和证据,开展研究,转录听证内容并翻译文件。与此同时,各机构必须考虑风险,包括对裁决人员分析工作的影响,以及对隐私和其他敏感利益的影响。"
+                "x": "起诉书称，这名郑（Cheng）姓男子是在Facebook上发现该视频的。该视频据称使用模仿Shen声音的语音，让他听起来像是承认通过其为建立民间韧性而创办的组织Kuma Academy，从US军购中收取回扣。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "桃园地方检察署大楼。摄影：Yu Jui-jen，Taipei Times"
               },
               {
                 "t": "p",
-                "x": "对于当事方和代理人,通知列举了幻觉问题,包括广为人知的引用不存在的法律依据的案例,以及GenSI工具可能被用来伪造深度伪造证据的担忧。EOIR和美国专利商标局(U.S. Patent and Trademark Office)已发布具体政策,一些裁决人员要求披露或证明GenSI的使用情况。"
+                "x": "检方指控Cheng在10月30日未经核实内容便在Threads上公开发布该视频，意图损害Shen的名誉并劝阻选民支持他。法院裁定他以NT$100,000（US$3,036）交保，并限制其离开台湾。"
               },
               {
                 "t": "p",
-                "x": "ACUS提出的问题包括:各机构应对GenSI施加哪些限制,当事方是否应披露或证明其使用情况,以及不当使用应承担何种后果。"
+                "x": "检方指控Cheng利用深度伪造的Shen声音散布意图阻止其当选的不实信息，违反《公职人员选举罢免法》。检方于周四起诉Cheng，称他严重损害了Shen的名誉，并助长了竞选期间深度伪造不实信息的传播。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ACUS pide opiniones sobre la AI\nen la adjudicación de agencias",
-          "body": "ACUS pide comentarios sobre cómo deben usar la AI generativa los adjudicadores federales, su personal y las partes.",
-          "mini_headline": "ACUS estudia la AI en la adjudicación",
+          "headline": "Acusan a un hombre por deepfake\nde candidato a alcalde de Taipei",
+          "body": "Fiscales de Taoyuan piden un año de cárcel a un hombre que subió un video deepfake de voz de Puma Shen antes del voto.",
+          "mini_headline": "Acusación por el deepfake de Puma Shen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La Oficina del Presidente de ACUS solicita aportes públicos para la elaboración de políticas sobre el uso de la superinteligencia generativa, antes denominada inteligencia artificial generativa, por parte de adjudicadores de las agencias, otro personal de las agencias, partes, representantes y otros participantes en las adjudicaciones de las agencias federales. Las respuestas podrán servir de base a un proyecto en curso de ACUS que recomendará buenas prácticas para las agencias. Los comentarios deben recibirse a más tardar a las 10 a.m. (ET) del 19 de enero de 2027."
+                "x": "La fiscalía de Taoyuan pide un año de prisión para un hombre de 49 años acusado de publicar en Threads un video deepfake del candidato a alcalde de Taipei por el Partido Democrático Progresista (DPP), Puma Shen (沈伯洋)."
               },
               {
                 "t": "p",
-                "x": "ACUS afirma que, usada de forma responsable, la GenSI podría ayudar a las agencias a redactar avisos, órdenes y decisiones, resumir escritos y pruebas extensos, realizar investigaciones, transcribir audiencias y traducir documentos. Al mismo tiempo, las agencias deben considerar los riesgos, incluidos los efectos sobre el análisis de los adjudicadores y sobre la privacidad y otros intereses sensibles."
+                "x": "El hombre, de apellido Cheng (鄭), encontró el video en Facebook, según la acusación. Presuntamente, el video usaba una voz que imitaba la de Shen para que pareciera que admitía haber recibido comisiones ilegales de compras de armas de US a través de la Kuma Academy, una organización que fundó para fortalecer la resiliencia civil."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "Edificio de la Fiscalía del Distrito de Taoyuan. Foto: Yu Jui-jen, Taipei Times"
               },
               {
                 "t": "p",
-                "x": "En cuanto a las partes y los representantes, el aviso menciona las alucinaciones, incluidos casos muy difundidos en los que se citaron fuentes jurídicas inexistentes, y la preocupación de que las herramientas de GenSI puedan usarse para fabricar pruebas deepfake. La EOIR y la Oficina de Patentes y Marcas de EE. UU. (U.S. Patent and Trademark Office) han publicado políticas específicas, y algunos adjudicadores exigen que se divulgue o certifique el uso de GenSI."
+                "x": "La fiscalía sostiene que Cheng lo publicó abiertamente en Threads el 30 de octubre sin verificar su contenido, para dañar la reputación de Shen y disuadir a los votantes de apoyarlo. El tribunal lo dejó en libertad bajo una fianza de NT$100,000 (US$3,036) y le prohibió salir de Taiwán."
               },
               {
                 "t": "p",
-                "x": "ACUS pregunta, entre otras cuestiones, qué restricciones deberían imponer las agencias a la GenSI, si las partes deberían divulgar o certificar su uso y qué consecuencias debería acarrear un uso indebido."
+                "x": "La fiscalía acusó a Cheng de infringir la Ley de Elección y Revocación de Funcionarios Públicos al usar un deepfake de la voz de Shen para difundir información falsa destinada a impedir su elección. Lo acusaron formalmente el jueves, al considerar que dañó gravemente la reputación de Shen y contribuyó a la difusión de desinformación deepfake durante la campaña."
               }
             ]
           }
@@ -893,105 +793,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ACUS, 행정심판 AI\n활용 의견 수렴",
-          "body": "ACUS가 연방 심판관·직원·당사자의 생성형 AI 활용 방식에 대해 의견을 구한다.",
-          "mini_headline": "ACUS, 행정심판 AI 활용 검토",
+          "headline": "타이베이 시장 후보\n딥페이크 유포 남성 기소",
+          "body": "타오위안 검찰은 Puma Shen 딥페이크 음성 영상 게시자에 1년형을 구형했다.",
+          "mini_headline": "Puma Shen 딥페이크 기소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ACUS 의장실은 연방 기관 심판에서 기관 심판관, 기타 기관 직원, 당사자, 대리인 및 기타 참여자가 생성형 초지능(이전에는 생성형 인공지능으로 지칭)을 사용하는 것에 관한 정책 수립을 위해 공개 의견을 요청하고 있다. 제출된 의견은 기관을 위한 모범 사례를 권고할 ACUS의 진행 중인 프로젝트에 반영될 수 있다. 의견은 2027년 1월 19일 오전 10시(ET)까지 도착해야 한다."
+                "x": "타오위안 검찰은 민주진보당(DPP) 타이베이 시장 후보 선보양(Puma Shen, 沈伯洋)의 딥페이크 영상을 Threads에 올린 혐의로 기소된 49세 남성에게 징역 1년을 구형했다."
               },
               {
                 "t": "p",
-                "x": "ACUS는 GenSI를 책임 있게 사용하면 기관이 고지문·명령·결정문 초안을 작성하고, 방대한 제출 자료와 증거를 요약하고, 조사를 수행하고, 심리를 녹취하고, 문서를 번역하는 데 도움이 될 수 있다고 밝혔다. 동시에 기관은 심판관의 분석과 개인정보 및 기타 민감한 이익에 미치는 영향을 포함한 위험을 고려해야 한다."
+                "x": "기소장에 따르면 성이 Cheng(鄭)인 이 남성은 Facebook에서 영상을 발견했다. 영상은 Shen의 목소리를 흉내 낸 음성을 써서, 그가 시민 회복력을 키우려고 세운 단체 Kuma Academy를 통해 US 무기 구매에서 리베이트를 받았다고 인정한 것처럼 꾸몄다는 의혹을 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "타오위안 지방검찰서 청사. 사진: Yu Jui-jen, Taipei Times"
               },
               {
                 "t": "p",
-                "x": "공고는 당사자와 대리인에 대해 존재하지 않는 법적 근거를 인용해 널리 알려진 사례를 포함한 환각 문제와, GenSI 도구가 딥페이크 증거 조작에 쓰일 수 있다는 우려를 지적한다. EOIR과 미국 특허상표청(U.S. Patent and Trademark Office)은 구체적인 정책을 발표했으며, 일부 심판관은 GenSI 사용 사실의 공개나 인증을 요구한다."
+                "x": "검찰은 Cheng이 내용을 확인하지 않은 채 10월 30일 Threads에 영상을 공개 게시해 Shen의 명예를 훼손하고 유권자의 지지를 꺾으려 했다고 봤다. 법원은 NT$100,000(US$3,036)의 보석금을 조건으로 그를 석방하고 대만 출국을 금지했다."
               },
               {
                 "t": "p",
-                "x": "ACUS는 여러 질문 가운데 기관이 GenSI에 어떤 제한을 둬야 하는지, 당사자가 사용 사실을 공개하거나 인증해야 하는지, 부적절한 사용에 어떤 결과가 따라야 하는지를 묻고 있다."
+                "x": "검찰은 Cheng이 Shen의 목소리를 딥페이크로 꾸며 그의 당선을 막으려는 허위 정보를 퍼뜨려 공직인원선거파면법을 위반했다고 봤다. 검찰은 목요일 Cheng을 기소하며 그가 Shen의 명예를 크게 훼손하고 선거 기간 딥페이크 허위 정보 확산에 일조했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ACUS、行政審判での\nAI利用に意見募集",
-          "body": "ACUSは連邦の審判官や職員、当事者による生成AIの使い方について意見を募っている。",
-          "mini_headline": "ACUS、審判でのAI利用を検討",
+          "headline": "台北市長候補の\nディープフェイクで男起訴",
+          "body": "桃園地検はPuma Shen氏のディープフェイク音声動画を投稿した男に懲役1年を求刑した。",
+          "mini_headline": "Puma Shen氏のディープフェイクで起訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ACUS議長室は、連邦機関の審判において、機関の審判官、その他の機関職員、当事者、代理人、その他の参加者が生成スーパーインテリジェンス(以前は生成人工知能と呼ばれていた)を利用することに関する方針策定について、一般からの意見を求めている。寄せられた意見は、機関向けのベストプラクティスを勧告する、進行中のACUSのプロジェクトに反映される可能性がある。意見は2027年1月19日午前10時(ET)までに届く必要がある。"
+                "x": "桃園地検は、民進党(DPP)の台北市長候補Puma Shen(沈伯洋)氏のディープフェイク動画をThreadsに投稿したとして起訴された49歳の男に、懲役1年を求刑している。"
               },
               {
                 "t": "p",
-                "x": "ACUSによれば、責任ある形で使えば、GenSIは機関による通知・命令・決定の起案、長大な提出書類や証拠の要約、調査、審理の文字起こし、文書の翻訳を助けうる。同時に機関は、審判官の分析への影響や、プライバシーその他の機微な利益への影響を含むリスクを考慮しなければならない。"
+                "x": "起訴状によると、Cheng(鄭)姓の男はFacebookでこの動画を見つけた。動画はShen氏の声をまねた音声を使い、同氏が市民のレジリエンス強化のために設立した団体Kuma Academyを通じてUSの武器購入からキックバックを受け取ったと認めたかのように見せかけたとされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "桃園地方検察署の庁舎。写真:Yu Jui-jen、Taipei Times"
               },
               {
                 "t": "p",
-                "x": "当事者と代理人については、存在しない法的根拠が引用された広く知られた事例を含むハルシネーションや、GenSIツールがディープフェイクの証拠捏造に使われうるという懸念を告示は挙げている。EOIRと米国特許商標庁(U.S. Patent and Trademark Office)は具体的な方針を公表しており、一部の審判官はGenSI利用の開示または証明を求めている。"
+                "x": "検察によると、Cheng被告は10月30日、内容を確認しないままThreadsに動画を公開投稿し、Shen氏の評判を傷つけ、有権者に支持を思いとどまらせようとした。裁判所はNT$100,000(US$3,036)の保釈金で同被告を釈放し、台湾からの出国を禁じた。"
               },
               {
                 "t": "p",
-                "x": "ACUSは、機関がGenSIにどのような制限を設けるべきか、当事者がその利用を開示または証明すべきか、不適切な利用にどのような結果を伴わせるべきかなどを問うている。"
+                "x": "検察は、Cheng被告がShen氏の声のディープフェイクを使い、同氏の当選を妨げる目的で虚偽情報を広めたとして、公職人員選挙罷免法違反に問うた。検察は木曜日にCheng被告を起訴し、同被告がShen氏の評判を著しく傷つけ、選挙戦中のディープフェイクによる誤情報の拡散に加担したと指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ACUS就机构裁决中\nAI使用征求意见",
-          "body": "ACUS正就联邦裁决人员、工作人员及当事方应如何使用生成式AI公开征求意见。",
-          "mini_headline": "ACUS研究裁决中的AI使用",
+          "headline": "男子遭起诉：深度伪造\n台北市长参选人",
+          "body": "桃园检方对一名在投票前发布Puma Shen深度伪造语音视频的男子求处一年徒刑。",
+          "mini_headline": "Puma Shen深度伪造案起诉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ACUS主席办公室正就制定相关政策公开征求意见,内容涉及机构裁决人员、其他机构人员、当事方、代理人及联邦机构裁决的其他参与者使用生成式超级智能(此前称为生成式人工智能)。征集的意见可能为ACUS一个正在进行的项目提供参考,该项目将向各机构推荐最佳做法。意见须在2027年1月19日上午10点(ET)之前送达。"
+                "x": "桃园检方对一名49岁男子求处一年徒刑，该男子被控在Threads上发布民进党（DPP）台北市长参选人沈伯洋（Puma Shen）的深度伪造视频。"
               },
               {
                 "t": "p",
-                "x": "ACUS表示,若负责任地使用,GenSI可帮助各机构起草通知、命令和决定,总结冗长的提交材料和证据,开展研究,转录听证内容并翻译文件。与此同时,各机构必须考虑风险,包括对裁决人员分析工作的影响,以及对隐私和其他敏感利益的影响。"
+                "x": "起诉书称，这名郑（Cheng）姓男子是在Facebook上发现该视频的。该视频据称使用模仿Shen声音的语音，让他听起来像是承认通过其为建立民间韧性而创办的组织Kuma Academy，从US军购中收取回扣。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "桃园地方检察署大楼。摄影：Yu Jui-jen，Taipei Times"
               },
               {
                 "t": "p",
-                "x": "对于当事方和代理人,通知列举了幻觉问题,包括广为人知的引用不存在的法律依据的案例,以及GenSI工具可能被用来伪造深度伪造证据的担忧。EOIR和美国专利商标局(U.S. Patent and Trademark Office)已发布具体政策,一些裁决人员要求披露或证明GenSI的使用情况。"
+                "x": "检方指控Cheng在10月30日未经核实内容便在Threads上公开发布该视频，意图损害Shen的名誉并劝阻选民支持他。法院裁定他以NT$100,000（US$3,036）交保，并限制其离开台湾。"
               },
               {
                 "t": "p",
-                "x": "ACUS提出的问题包括:各机构应对GenSI施加哪些限制,当事方是否应披露或证明其使用情况,以及不当使用应承担何种后果。"
+                "x": "检方指控Cheng利用深度伪造的Shen声音散布意图阻止其当选的不实信息，违反《公职人员选举罢免法》。检方于周四起诉Cheng，称他严重损害了Shen的名誉，并助长了竞选期间深度伪造不实信息的传播。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ACUS pide opiniones sobre la AI\nen la adjudicación de agencias",
-          "body": "ACUS pide comentarios sobre cómo deben usar la AI generativa los adjudicadores federales, su personal y las partes.",
-          "mini_headline": "ACUS estudia la AI en la adjudicación",
+          "headline": "Acusan a un hombre por deepfake\nde candidato a alcalde de Taipei",
+          "body": "Fiscales de Taoyuan piden un año de cárcel a un hombre que subió un video deepfake de voz de Puma Shen antes del voto.",
+          "mini_headline": "Acusación por el deepfake de Puma Shen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La Oficina del Presidente de ACUS solicita aportes públicos para la elaboración de políticas sobre el uso de la superinteligencia generativa, antes denominada inteligencia artificial generativa, por parte de adjudicadores de las agencias, otro personal de las agencias, partes, representantes y otros participantes en las adjudicaciones de las agencias federales. Las respuestas podrán servir de base a un proyecto en curso de ACUS que recomendará buenas prácticas para las agencias. Los comentarios deben recibirse a más tardar a las 10 a.m. (ET) del 19 de enero de 2027."
+                "x": "La fiscalía de Taoyuan pide un año de prisión para un hombre de 49 años acusado de publicar en Threads un video deepfake del candidato a alcalde de Taipei por el Partido Democrático Progresista (DPP), Puma Shen (沈伯洋)."
               },
               {
                 "t": "p",
-                "x": "ACUS afirma que, usada de forma responsable, la GenSI podría ayudar a las agencias a redactar avisos, órdenes y decisiones, resumir escritos y pruebas extensos, realizar investigaciones, transcribir audiencias y traducir documentos. Al mismo tiempo, las agencias deben considerar los riesgos, incluidos los efectos sobre el análisis de los adjudicadores y sobre la privacidad y otros intereses sensibles."
+                "x": "El hombre, de apellido Cheng (鄭), encontró el video en Facebook, según la acusación. Presuntamente, el video usaba una voz que imitaba la de Shen para que pareciera que admitía haber recibido comisiones ilegales de compras de armas de US a través de la Kuma Academy, una organización que fundó para fortalecer la resiliencia civil."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+                "cap": "Edificio de la Fiscalía del Distrito de Taoyuan. Foto: Yu Jui-jen, Taipei Times"
               },
               {
                 "t": "p",
-                "x": "En cuanto a las partes y los representantes, el aviso menciona las alucinaciones, incluidos casos muy difundidos en los que se citaron fuentes jurídicas inexistentes, y la preocupación de que las herramientas de GenSI puedan usarse para fabricar pruebas deepfake. La EOIR y la Oficina de Patentes y Marcas de EE. UU. (U.S. Patent and Trademark Office) han publicado políticas específicas, y algunos adjudicadores exigen que se divulgue o certifique el uso de GenSI."
+                "x": "La fiscalía sostiene que Cheng lo publicó abiertamente en Threads el 30 de octubre sin verificar su contenido, para dañar la reputación de Shen y disuadir a los votantes de apoyarlo. El tribunal lo dejó en libertad bajo una fianza de NT$100,000 (US$3,036) y le prohibió salir de Taiwán."
               },
               {
                 "t": "p",
-                "x": "ACUS pregunta, entre otras cuestiones, qué restricciones deberían imponer las agencias a la GenSI, si las partes deberían divulgar o certificar su uso y qué consecuencias debería acarrear un uso indebido."
+                "x": "La fiscalía acusó a Cheng de infringir la Ley de Elección y Revocación de Funcionarios Públicos al usar un deepfake de la voz de Shen para difundir información falsa destinada a impedir su elección. Lo acusaron formalmente el jueves, al considerar que dañó gravemente la reputación de Shen y contribuyó a la difusión de desinformación deepfake durante la campaña."
               }
             ]
           }
@@ -999,15 +919,15 @@
       }
     },
     {
-      "id": "taiwan-meta-threads-influence",
-      "source_lang": "en",
+      "id": "exam-fairness-tf-cheongwadae",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "대만, Meta에 中연계\nThreads 계정 통보",
-      "body": "대만이 AI영상 등 中공작 Threads 계정 약 2,700개를 Meta에 알렸다.",
-      "mini_headline": "대만, 中연계 계정 Meta에 통보",
+      "headline": "청와대, AI 부정행위\n근절 TF로 확대",
+      "body": "청와대가 수능 AI 부정 대응 TF를 '시험 공정성 회복 TF'로 확대했다.",
+      "mini_headline": "AI 부정 근절 TF 확대",
       "tool": "Politics",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261120154100001",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1015,305 +935,305 @@
         "blocks": [
           {
             "t": "p",
-            "x": "대만이 다음 주 토요일 치러지는 선거에 영향을 주려는 중국 정보전 캠페인의 일부로 보이는 소셜미디어 계정 약 2,700개를 Meta Platforms에 통보했다. 정부 관계자 세 명과 로이터(Reuters)가 검토한 내부 보고서에서 확인된 내용이다. Threads의 이 계정들은 거의 모두 최근 넉 달 사이 개설됐고 한꺼번에 만들어진 것으로 보인다."
+            "x": "청와대는 인공지능(AI)을 활용한 부정행위를 막기 위해 가칭 '시험 공정성 회복 TF(태스크포스)'를 구성·운영한다고 20일 밝혔다. 이번 수능시험을 이틀 앞뒀던 지난 17일 꾸린 'AI 악용 부정행위 비상 대응 TF'를 확대해 운영하기로 한 것이다."
+          },
+          {
+            "t": "p",
+            "x": "TF는 AI와 첨단 장비를 활용한 부정행위 근절 대책을 마련하고, 수능을 포함한 각종 시험의 감독 현황을 점검, 국가적 차원의 시험 공정성 확보를 위한 근본적인 대책을 마련하기로 했다. 또한 과거 국가시험 등에서의 부정행위에 대해서도 엄정하고 단호하게 대응하기로 했다."
           },
           {
             "t": "img",
-            "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-            "cap": "10월 19일 제작된 이미지 속 Meta Platforms 로고와 키보드."
+            "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+            "cap": "예산안 제안 설명하는 임광현 대통령 비서실장"
           },
           {
             "t": "p",
-            "x": "Meta 대변인은 대만 정부가 지목한 계정들을 삭제했으며 그중 다수는 이미 자사 시스템이 비활성화해 둔 상태였다고 밝혔다. 이들 “저품질 가짜 계정” 가운데 선거 관련 글을 올린 계정은 없었고 대부분 팔로워도 없었다는 설명이다. 중국 대만사무판공실은 논평 요청에 답하지 않았다."
+            "x": "TF 단장인 임광현 비서실장은 국무총리실이 주관해 중앙제보센터를 가동하되 이를 각 주관부처가 운영하는 제보 센터와 연계해 운영하도록 지시했다. 그러면서 접수된 제보에 대해선 관계기관 및 AI 기업들과 협조해 부정행위 의심 사례들을 철저하게 조사하게 하고 책임을 단호하게 물으라고 주문했다."
           },
           {
             "t": "p",
-            "x": "정부 보고서 하나에 따르면 대만이 지목한 Threads 계정 2,400개 중 74퍼센트가 위치를 중국으로 표시했다. 보고서는 군집 27개를 짚으며 “중국 또는 러시아의 운영자들에 의한” 일괄 생성 가능성을 제기했다."
-          },
-          {
-            "t": "p",
-            "x": "대만은 약 260개 계정이 인공지능으로 만든 영상 2,150건 이상을 퍼뜨렸다는 사실도 Meta에 알렸다. 당국자들은 이 영상들을 중국 캠페인의 일부로 본다. 보고서에 따르면 영상들은 상호작용 2.35M 건을 끌어냈고 대부분 민주진보당(DPP) 정치인과 정책을 겨냥했다. 타이베이 시장 후보 푸마 선(Puma Shen)도 그 대상이었으며, 그는 일부 영상에 담긴 의혹을 부인했다."
+            "x": "한편, 이날 이재명 대통령 주재 수석보좌관 회의에서는 AI미래기획수석실이 '온오프라인 AI 국민 교실 신속 확산 방안'을 보고했다. 이 대통령은 \"AI를 배우고 가르치는 활동에 대한 지원이 소득재분배의 수단이 될 수 있겠다\"면서 프로그램 인증제가 필요하다는 점을 언급했다고 강유정 수석대변인은 전했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Taiwan flags China-linked\nThreads accounts to Meta",
-          "body": "Taiwan flagged nearly 2,700 Threads accounts to Meta as a suspected Chinese campaign, some spreading AI videos.",
-          "mini_headline": "Taiwan flags accounts to Meta",
+        "ko": {
+          "headline": "청와대, AI 부정행위\n근절 TF로 확대",
+          "body": "청와대가 수능 AI 부정 대응 TF를 '시험 공정성 회복 TF'로 확대했다.",
+          "mini_headline": "AI 부정 근절 TF 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Taiwan has flagged nearly 2,700 social media accounts to Meta Platforms that it says appear to be part of a Chinese information warfare campaign seeking to influence Taiwan’s elections on Saturday next week, according to three government officials and internal reports reviewed by Reuters. The accounts on Threads were almost all opened in the past four months and appeared to have been created in batches."
+                "x": "청와대는 인공지능(AI)을 활용한 부정행위를 막기 위해 가칭 '시험 공정성 회복 TF(태스크포스)'를 구성·운영한다고 20일 밝혔다. 이번 수능시험을 이틀 앞뒀던 지난 17일 꾸린 'AI 악용 부정행위 비상 대응 TF'를 확대해 운영하기로 한 것이다."
+              },
+              {
+                "t": "p",
+                "x": "TF는 AI와 첨단 장비를 활용한 부정행위 근절 대책을 마련하고, 수능을 포함한 각종 시험의 감독 현황을 점검, 국가적 차원의 시험 공정성 확보를 위한 근본적인 대책을 마련하기로 했다. 또한 과거 국가시험 등에서의 부정행위에 대해서도 엄정하고 단호하게 대응하기로 했다."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "Meta Platforms’ logo and a keyboard are pictured in an image created on Oct. 19."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "예산안 제안 설명하는 임광현 대통령 비서실장"
               },
               {
                 "t": "p",
-                "x": "A Meta spokesperson said the company had removed the accounts flagged by the Taiwanese government, many of which had already been disabled by its systems. None of these “low-quality fake accounts” had posted about election-related topics and most had no followers, the spokesperson said. China’s Taiwan Affairs Office did not respond to a request for comment."
+                "x": "TF 단장인 임광현 비서실장은 국무총리실이 주관해 중앙제보센터를 가동하되 이를 각 주관부처가 운영하는 제보 센터와 연계해 운영하도록 지시했다. 그러면서 접수된 제보에 대해선 관계기관 및 AI 기업들과 협조해 부정행위 의심 사례들을 철저하게 조사하게 하고 책임을 단호하게 물으라고 주문했다."
               },
               {
                 "t": "p",
-                "x": "Of 2,400 Threads accounts flagged by Taiwan, 74 percent listed China as their location, one government report said, describing 27 clusters that suggested batch creation “by operators in China or Russia.”"
-              },
-              {
-                "t": "p",
-                "x": "Taiwan also told Meta that about 260 accounts had disseminated more than 2,150 videos generated by artificial intelligence that officials say were part of the Chinese campaign. Those videos attracted 2.35 million interactions, according to the report, which said most targeted Democratic Progressive Party (DPP) politicians and policies, including Taipei mayoral candidate Puma Shen, who has denied allegations made in some of them."
+                "x": "한편, 이날 이재명 대통령 주재 수석보좌관 회의에서는 AI미래기획수석실이 '온오프라인 AI 국민 교실 신속 확산 방안'을 보고했다. 이 대통령은 \"AI를 배우고 가르치는 활동에 대한 지원이 소득재분배의 수단이 될 수 있겠다\"면서 프로그램 인증제가 필요하다는 점을 언급했다고 강유정 수석대변인은 전했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "대만, Meta에 中연계\nThreads 계정 통보",
-          "body": "대만이 AI영상 등 中공작 Threads 계정 약 2,700개를 Meta에 알렸다.",
-          "mini_headline": "대만, 中연계 계정 Meta에 통보",
+        "en": {
+          "headline": "Cheong Wa Dae widens TF to\nroot out AI cheating",
+          "body": "Cheong Wa Dae expanded its TF on AI cheating in the college entrance exam into an 'Exam Fairness Restoration TF'.",
+          "mini_headline": "AI cheating TF expanded",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "대만이 다음 주 토요일 치러지는 선거에 영향을 주려는 중국 정보전 캠페인의 일부로 보이는 소셜미디어 계정 약 2,700개를 Meta Platforms에 통보했다. 정부 관계자 세 명과 로이터(Reuters)가 검토한 내부 보고서에서 확인된 내용이다. Threads의 이 계정들은 거의 모두 최근 넉 달 사이 개설됐고 한꺼번에 만들어진 것으로 보인다."
+                "x": "Cheong Wa Dae said on the 20th that it will form and run a provisionally named 'Exam Fairness Restoration TF (task force)' to prevent cheating using artificial intelligence (AI). The move expands the 'Emergency Response TF on AI-Abuse Cheating' set up on the 17th, two days before this year's college entrance exam (Suneung)."
+              },
+              {
+                "t": "p",
+                "x": "The TF will draw up measures to root out cheating using AI and advanced devices, check the state of proctoring for various exams including the Suneung, and prepare fundamental measures to secure exam fairness at the national level. It also decided to respond strictly and firmly to past cheating in national exams and other tests."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "10월 19일 제작된 이미지 속 Meta Platforms 로고와 키보드."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "Presidential Chief of Staff Lim Kwang-hyun explains the budget proposal"
               },
               {
                 "t": "p",
-                "x": "Meta 대변인은 대만 정부가 지목한 계정들을 삭제했으며 그중 다수는 이미 자사 시스템이 비활성화해 둔 상태였다고 밝혔다. 이들 “저품질 가짜 계정” 가운데 선거 관련 글을 올린 계정은 없었고 대부분 팔로워도 없었다는 설명이다. 중국 대만사무판공실은 논평 요청에 답하지 않았다."
+                "x": "Chief of Staff Lim Kwang-hyun, who heads the TF, ordered that a central tip-off center be run under the Office of the Prime Minister and linked with the tip-off centers operated by each supervising ministry. He also instructed that tips received be thoroughly investigated for suspected cheating in cooperation with relevant agencies and AI companies, and that those responsible be held firmly accountable."
               },
               {
                 "t": "p",
-                "x": "정부 보고서 하나에 따르면 대만이 지목한 Threads 계정 2,400개 중 74퍼센트가 위치를 중국으로 표시했다. 보고서는 군집 27개를 짚으며 “중국 또는 러시아의 운영자들에 의한” 일괄 생성 가능성을 제기했다."
-              },
-              {
-                "t": "p",
-                "x": "대만은 약 260개 계정이 인공지능으로 만든 영상 2,150건 이상을 퍼뜨렸다는 사실도 Meta에 알렸다. 당국자들은 이 영상들을 중국 캠페인의 일부로 본다. 보고서에 따르면 영상들은 상호작용 2.35M 건을 끌어냈고 대부분 민주진보당(DPP) 정치인과 정책을 겨냥했다. 타이베이 시장 후보 푸마 선(Puma Shen)도 그 대상이었으며, 그는 일부 영상에 담긴 의혹을 부인했다."
+                "x": "Meanwhile, at a meeting of senior secretaries chaired by President Lee Jae-myung the same day, the Office of the Senior Secretary for AI Future Planning reported a 'plan for rapidly expanding online and offline AI citizen classrooms.' President Lee said \"support for activities that learn and teach AI could become a means of income redistribution\" and mentioned the need for a program certification system, chief spokesperson Kang Yu-jung said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾、中国系Threads\nアカウントをMetaに通報",
-          "body": "台湾は中国系Threads約2,700件をMetaに通報し、一部はAI動画を拡散した。",
-          "mini_headline": "台湾、Metaにアカウントを通報",
+          "headline": "青瓦台、AI不正行為\n根絶TFに拡大",
+          "body": "青瓦台は大学修学能力試験のAI不正対応TFを「試験公正性回復TF」に拡大した。",
+          "mini_headline": "AI不正根絶TFを拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "政府当局者三人とロイター(Reuters)が確認した内部報告書によると、台湾は、来週土曜日に行われる台湾の選挙に影響を与えようとする中国の情報戦キャンペーンの一部とみられるソーシャルメディアのアカウント約2,700件をMeta Platformsに通報した。Threads上のこれらのアカウントはほぼすべてが過去四か月以内に開設され、まとめて作成されたとみられる。"
+                "x": "青瓦台は20日、人工知能(AI)を使った不正行為を防ぐため、仮称「試験公正性回復TF(タスクフォース)」を設置・運営すると明らかにした。今回の大学修学能力試験(修能)を二日後に控えた17日に設けた「AI悪用不正行為緊急対応TF」を拡大して運営する。"
+              },
+              {
+                "t": "p",
+                "x": "TFは、AIや先端機器を使った不正行為の根絶策を整え、修能をはじめ各種試験の監督状況を点検し、国家レベルで試験の公正性を確保するための抜本的な対策をまとめる。また、過去の国家試験などでの不正行為にも厳正かつ断固として対応する方針だ。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "10月19日に作成された画像に写るMeta Platformsのロゴとキーボード。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "予算案の提案説明をするイム・グァンヒョン大統領秘書室長"
               },
               {
                 "t": "p",
-                "x": "Metaの広報担当者は、台湾政府が指摘したアカウントを削除したと述べ、その多くは同社のシステムによってすでに無効化されていたという。広報担当者によると、これらの「低品質な偽アカウント」はいずれも選挙関連の話題を投稿しておらず、大半はフォロワーもいなかった。中国の台湾事務弁公室はコメントの要請に応じなかった。"
+                "x": "TF団長のイム・グァンヒョン秘書室長は、国務総理室の主管で中央通報センターを稼働させ、各主管省庁が運営する通報センターと連携して運営するよう指示した。そのうえで、寄せられた通報については関係機関やAI企業と協力して不正行為の疑いがある事例を徹底的に調べ、断固として責任を問うよう求めた。"
               },
               {
                 "t": "p",
-                "x": "ある政府報告書によると、台湾が指摘したThreadsアカウント2,400件のうち74パーセントが所在地を中国としていた。報告書は「中国またはロシアの運営者による」一括作成を示唆する27のクラスターについて記述している。"
-              },
-              {
-                "t": "p",
-                "x": "台湾はまた、約260のアカウントが、当局者が中国のキャンペーンの一部だとする人工知能生成の動画2,150本以上を拡散したとMetaに伝えた。報告書によると、これらの動画は2.35M 件の反応を集め、その大半は民主進歩党(DPP)の政治家や政策を標的にしていた。その中には台北市長候補の沈伯洋(Puma Shen)も含まれ、同氏は一部の動画で示された疑惑を否定している。"
+                "x": "一方、同日に李在明大統領が主宰した首席秘書官会議では、AI未来企画首席室が「オンライン・オフラインAI国民教室の迅速な拡大策」を報告した。カン・ユジョン首席報道官によると、李大統領は「AIを学び教える活動への支援は所得再分配の手段になりうる」と述べ、プログラム認証制度の必要性に言及した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾向Meta通报\n涉中Threads账号",
-          "body": "台湾向Meta通报近2,700个疑似中方操控的Threads账号,其中部分散布AI视频。",
-          "mini_headline": "台湾向Meta通报账号",
+          "headline": "青瓦台：AI作弊应对\n扩大为根除TF",
+          "body": "青瓦台将韩国高考AI作弊应对TF扩大为“考试公正性恢复TF”。",
+          "mini_headline": "AI作弊根除TF扩大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "据三名政府官员及路透社(Reuters)查阅的内部报告,台湾已向Meta Platforms通报近2,700个社交媒体账号,称这些账号似乎属于一场试图影响下周六台湾选举的中国信息战行动。这些Threads账号几乎都是在过去四个月内开设的,且似乎是批量创建的。"
+                "x": "青瓦台20日表示，为防止利用人工智能（AI）作弊，将组建并运营暂定名为“考试公正性恢复TF（工作组）”的机构。这是将本次高考前两天、即17日组建的“AI滥用作弊紧急应对TF”扩大运营。"
+              },
+              {
+                "t": "p",
+                "x": "TF将制定根除利用AI和尖端设备作弊的对策，检查包括高考在内各类考试的监考情况，并从国家层面制定确保考试公正的根本对策。此外，对于过去国家考试等中的作弊行为也将严正、果断应对。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "10月19日制作的图片中的Meta Platforms标志和键盘。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "正在说明预算案的总统秘书室长Lim Kwang-hyun"
               },
               {
                 "t": "p",
-                "x": "Meta发言人表示,公司已删除台湾政府通报的账号,其中许多已被其系统停用。发言人说,这些“低质量虚假账号”均未发布与选举相关的话题,大多数也没有粉丝。中国国台办未回应置评请求。"
+                "x": "担任TF团长的秘书室长Lim Kwang-hyun指示，由国务总理室牵头运行中央举报中心，并与各主管部门运营的举报中心联动。他还要求，对收到的举报要与相关机构及AI企业合作，彻底调查涉嫌作弊的案例，并果断追究责任。"
               },
               {
                 "t": "p",
-                "x": "一份政府报告称,在台湾通报的2,400个Threads账号中,74%将所在地标为中国;报告描述了27个集群,显示这些账号系“由中国或俄罗斯的操作者”批量创建。"
-              },
-              {
-                "t": "p",
-                "x": "台湾还告诉Meta,约260个账号传播了2,150多段由人工智能生成的视频,官员称这些视频属于中国行动的一部分。报告称,这些视频获得了2.35M 次互动,其中大部分针对民主进步党(DPP)的政治人物和政策,包括台北市长候选人沈伯洋(Puma Shen),他否认了部分视频中的指控。"
+                "x": "另外，当天在李在明总统主持的首席秘书会议上，AI未来规划首席室汇报了“线上线下AI国民课堂快速推广方案”。据首席发言人Kang Yu-jung介绍，李总统表示“对学习和教授AI活动的支持可以成为收入再分配的手段”，并提到有必要建立项目认证制度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taiwán alerta a Meta de cuentas\nde Threads ligadas a China",
-          "body": "Taiwán alertó a Meta de casi 2,700 cuentas de Threads de una presunta campaña china; algunas difundían videos de AI.",
-          "mini_headline": "Taiwán alerta a Meta de cuentas",
+          "headline": "Cheong Wa Dae amplía su TF\ncontra las trampas con AI",
+          "body": "Cheong Wa Dae amplió su TF de fraude con AI en el examen de acceso a una 'TF de recuperación de equidad en exámenes'.",
+          "mini_headline": "Se amplía la TF contra el fraude con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Taiwán ha alertado a Meta Platforms sobre casi 2,700 cuentas de redes sociales que, según afirma, parecen formar parte de una campaña china de guerra informativa que busca influir en las elecciones de Taiwán del sábado de la próxima semana, según tres funcionarios del gobierno e informes internos revisados por Reuters. Casi todas las cuentas de Threads se abrieron en los últimos cuatro meses y parecen haberse creado en lotes."
+                "x": "Cheong Wa Dae anunció el día 20 que formará y pondrá en marcha una 'TF (grupo de trabajo) para la recuperación de la equidad en los exámenes', nombre provisional, para impedir las trampas con inteligencia artificial (AI). Se trata de ampliar la 'TF de respuesta de emergencia ante trampas con abuso de AI', creada el día 17, dos días antes del examen de acceso a la universidad (Suneung) de este año."
+              },
+              {
+                "t": "p",
+                "x": "La TF preparará medidas para erradicar las trampas con AI y equipos de alta tecnología, revisará la vigilancia de diversos exámenes, incluido el Suneung, y elaborará medidas de fondo para garantizar la equidad de los exámenes a escala nacional. También decidió responder con rigor y firmeza a las trampas cometidas en exámenes nacionales anteriores."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "El logotipo de Meta Platforms y un teclado, en una imagen creada el 19 de octubre."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "Lim Kwang-hyun, jefe de gabinete presidencial, explica la propuesta de presupuesto"
               },
               {
                 "t": "p",
-                "x": "Un portavoz de Meta dijo que la empresa había eliminado las cuentas señaladas por el gobierno taiwanés, muchas de las cuales ya habían sido desactivadas por sus sistemas. Ninguna de estas “cuentas falsas de baja calidad” había publicado sobre temas electorales y la mayoría no tenía seguidores, según el portavoz. La Oficina de Asuntos de Taiwán de China no respondió a una solicitud de comentarios."
+                "x": "Lim Kwang-hyun, jefe de gabinete y director de la TF, ordenó que la Oficina del Primer Ministro ponga en marcha un centro central de denuncias vinculado a los centros de denuncias que gestiona cada ministerio competente. Además, pidió que las denuncias recibidas se investiguen a fondo en cooperación con los organismos pertinentes y las empresas de AI, y que se exijan responsabilidades con firmeza."
               },
               {
                 "t": "p",
-                "x": "De 2,400 cuentas de Threads señaladas por Taiwán, el 74 por ciento indicaba China como ubicación, según un informe del gobierno que describía 27 grupos que sugerían una creación en lotes “por operadores en China o Rusia”."
-              },
-              {
-                "t": "p",
-                "x": "Taiwán también informó a Meta de que unas 260 cuentas habían difundido más de 2,150 videos generados por inteligencia artificial que, según los funcionarios, formaban parte de la campaña china. Esos videos sumaron 2.35 millones de interacciones, según el informe, que señaló que la mayoría tenía como blanco a políticos y políticas del Partido Democrático Progresista (DPP), incluido el candidato a la alcaldía de Taipéi Puma Shen, quien ha negado las acusaciones hechas en algunos de ellos."
+                "x": "Por otra parte, en la reunión de secretarios principales presidida ese día por el presidente Lee Jae-myung, la Oficina del Secretario Principal de Planificación del Futuro de la AI presentó un 'plan para extender con rapidez las aulas ciudadanas de AI en línea y presenciales'. El presidente Lee dijo que \"el apoyo a las actividades de aprender y enseñar AI podría convertirse en un medio de redistribución del ingreso\" y mencionó la necesidad de un sistema de certificación de programas, según la portavoz principal Kang Yu-jung."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "대만, Meta에 中연계\nThreads 계정 통보",
-          "body": "대만이 AI영상 등 中공작 Threads 계정 약 2,700개를 Meta에 알렸다.",
-          "mini_headline": "대만, 中연계 계정 Meta에 통보",
+        "en": {
+          "headline": "Cheong Wa Dae widens TF to\nroot out AI cheating",
+          "body": "Cheong Wa Dae expanded its TF on AI cheating in the college entrance exam into an 'Exam Fairness Restoration TF'.",
+          "mini_headline": "AI cheating TF expanded",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "정부 관계자 세 명과 로이터(Reuters)가 검토한 내부 보고서에 따르면, 대만은 다음 주 토요일 치러지는 대만 선거에 영향을 미치려는 중국 정보전 캠페인의 일부로 보이는 소셜미디어 계정 약 2,700개를 Meta Platforms에 통보했다. Threads의 이 계정들은 거의 모두 지난 넉 달 사이에 개설됐으며 일괄 생성된 것으로 보인다."
+                "x": "Cheong Wa Dae said on the 20th that it will form and run a provisionally named 'Exam Fairness Restoration TF (task force)' to prevent cheating using artificial intelligence (AI). The move expands the 'Emergency Response TF on AI-Abuse Cheating' set up on the 17th, two days before this year's college entrance exam (Suneung)."
+              },
+              {
+                "t": "p",
+                "x": "The TF will draw up measures to root out cheating using AI and advanced devices, check the state of proctoring for various exams including the Suneung, and prepare fundamental measures to secure exam fairness at the national level. It also decided to respond strictly and firmly to past cheating in national exams and other tests."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "10월 19일 제작된 이미지 속 Meta Platforms 로고와 키보드."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "Presidential Chief of Staff Lim Kwang-hyun explains the budget proposal"
               },
               {
                 "t": "p",
-                "x": "Meta 대변인은 회사가 대만 정부가 지목한 계정들을 삭제했으며, 그중 다수는 이미 자사 시스템이 비활성화한 상태였다고 밝혔다. 대변인은 이들 “저품질 가짜 계정” 가운데 선거 관련 주제로 글을 올린 계정은 없었고 대부분은 팔로워도 없었다고 말했다. 중국 대만사무판공실은 논평 요청에 응하지 않았다."
+                "x": "Chief of Staff Lim Kwang-hyun, who heads the TF, ordered that a central tip-off center be run under the Office of the Prime Minister and linked with the tip-off centers operated by each supervising ministry. He also instructed that tips received be thoroughly investigated for suspected cheating in cooperation with relevant agencies and AI companies, and that those responsible be held firmly accountable."
               },
               {
                 "t": "p",
-                "x": "한 정부 보고서에 따르면 대만이 지목한 Threads 계정 2,400개 가운데 74퍼센트가 위치를 중국으로 표시했다. 보고서는 “중국 또는 러시아의 운영자들에 의한” 일괄 생성을 시사하는 27개 군집을 기술했다."
-              },
-              {
-                "t": "p",
-                "x": "대만은 또 약 260개 계정이 인공지능으로 생성한 영상 2,150건 이상을 퍼뜨렸다고 Meta에 알렸다. 당국자들은 이 영상들이 중국 캠페인의 일부라고 본다. 보고서에 따르면 이 영상들은 상호작용 2.35M 건을 끌어냈고, 대부분 민주진보당(DPP) 정치인과 정책을 겨냥했다. 여기에는 타이베이 시장 후보 푸마 선(Puma Shen)도 포함되며, 그는 일부 영상에 담긴 의혹을 부인했다."
+                "x": "Meanwhile, at a meeting of senior secretaries chaired by President Lee Jae-myung the same day, the Office of the Senior Secretary for AI Future Planning reported a 'plan for rapidly expanding online and offline AI citizen classrooms.' President Lee said \"support for activities that learn and teach AI could become a means of income redistribution\" and mentioned the need for a program certification system, chief spokesperson Kang Yu-jung said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾、中国系Threads\nアカウントをMetaに通報",
-          "body": "台湾は中国系Threads約2,700件をMetaに通報し、一部はAI動画を拡散した。",
-          "mini_headline": "台湾、Metaにアカウントを通報",
+          "headline": "青瓦台、AI不正行為\n根絶TFに拡大",
+          "body": "青瓦台は大学修学能力試験のAI不正対応TFを「試験公正性回復TF」に拡大した。",
+          "mini_headline": "AI不正根絶TFを拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "政府当局者三人とロイター(Reuters)が確認した内部報告書によると、台湾は、来週土曜日に行われる台湾の選挙に影響を与えようとする中国の情報戦キャンペーンの一部とみられるソーシャルメディアのアカウント約2,700件をMeta Platformsに通報した。Threads上のこれらのアカウントはほぼすべてが過去四か月以内に開設され、まとめて作成されたとみられる。"
+                "x": "青瓦台は20日、人工知能(AI)を使った不正行為を防ぐため、仮称「試験公正性回復TF(タスクフォース)」を設置・運営すると明らかにした。今回の大学修学能力試験(修能)を二日後に控えた17日に設けた「AI悪用不正行為緊急対応TF」を拡大して運営する。"
+              },
+              {
+                "t": "p",
+                "x": "TFは、AIや先端機器を使った不正行為の根絶策を整え、修能をはじめ各種試験の監督状況を点検し、国家レベルで試験の公正性を確保するための抜本的な対策をまとめる。また、過去の国家試験などでの不正行為にも厳正かつ断固として対応する方針だ。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "10月19日に作成された画像に写るMeta Platformsのロゴとキーボード。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "予算案の提案説明をするイム・グァンヒョン大統領秘書室長"
               },
               {
                 "t": "p",
-                "x": "Metaの広報担当者は、台湾政府が指摘したアカウントを削除したと述べ、その多くは同社のシステムによってすでに無効化されていたという。広報担当者によると、これらの「低品質な偽アカウント」はいずれも選挙関連の話題を投稿しておらず、大半はフォロワーもいなかった。中国の台湾事務弁公室はコメントの要請に応じなかった。"
+                "x": "TF団長のイム・グァンヒョン秘書室長は、国務総理室の主管で中央通報センターを稼働させ、各主管省庁が運営する通報センターと連携して運営するよう指示した。そのうえで、寄せられた通報については関係機関やAI企業と協力して不正行為の疑いがある事例を徹底的に調べ、断固として責任を問うよう求めた。"
               },
               {
                 "t": "p",
-                "x": "ある政府報告書によると、台湾が指摘したThreadsアカウント2,400件のうち74パーセントが所在地を中国としていた。報告書は「中国またはロシアの運営者による」一括作成を示唆する27のクラスターについて記述している。"
-              },
-              {
-                "t": "p",
-                "x": "台湾はまた、約260のアカウントが、当局者が中国のキャンペーンの一部だとする人工知能生成の動画2,150本以上を拡散したとMetaに伝えた。報告書によると、これらの動画は2.35M 件の反応を集め、その大半は民主進歩党(DPP)の政治家や政策を標的にしていた。その中には台北市長候補の沈伯洋(Puma Shen)も含まれ、同氏は一部の動画で示された疑惑を否定している。"
+                "x": "一方、同日に李在明大統領が主宰した首席秘書官会議では、AI未来企画首席室が「オンライン・オフラインAI国民教室の迅速な拡大策」を報告した。カン・ユジョン首席報道官によると、李大統領は「AIを学び教える活動への支援は所得再分配の手段になりうる」と述べ、プログラム認証制度の必要性に言及した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾向Meta通报\n涉中Threads账号",
-          "body": "台湾向Meta通报近2,700个疑似中方操控的Threads账号,其中部分散布AI视频。",
-          "mini_headline": "台湾向Meta通报账号",
+          "headline": "青瓦台：AI作弊应对\n扩大为根除TF",
+          "body": "青瓦台将韩国高考AI作弊应对TF扩大为“考试公正性恢复TF”。",
+          "mini_headline": "AI作弊根除TF扩大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "据三名政府官员及路透社(Reuters)查阅的内部报告,台湾已向Meta Platforms通报近2,700个社交媒体账号,称这些账号似乎属于一场试图影响下周六台湾选举的中国信息战行动。这些Threads账号几乎都是在过去四个月内开设的,且似乎是批量创建的。"
+                "x": "青瓦台20日表示，为防止利用人工智能（AI）作弊，将组建并运营暂定名为“考试公正性恢复TF（工作组）”的机构。这是将本次高考前两天、即17日组建的“AI滥用作弊紧急应对TF”扩大运营。"
+              },
+              {
+                "t": "p",
+                "x": "TF将制定根除利用AI和尖端设备作弊的对策，检查包括高考在内各类考试的监考情况，并从国家层面制定确保考试公正的根本对策。此外，对于过去国家考试等中的作弊行为也将严正、果断应对。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "10月19日制作的图片中的Meta Platforms标志和键盘。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "正在说明预算案的总统秘书室长Lim Kwang-hyun"
               },
               {
                 "t": "p",
-                "x": "Meta发言人表示,公司已删除台湾政府通报的账号,其中许多已被其系统停用。发言人说,这些“低质量虚假账号”均未发布与选举相关的话题,大多数也没有粉丝。中国国台办未回应置评请求。"
+                "x": "担任TF团长的秘书室长Lim Kwang-hyun指示，由国务总理室牵头运行中央举报中心，并与各主管部门运营的举报中心联动。他还要求，对收到的举报要与相关机构及AI企业合作，彻底调查涉嫌作弊的案例，并果断追究责任。"
               },
               {
                 "t": "p",
-                "x": "一份政府报告称,在台湾通报的2,400个Threads账号中,74%将所在地标为中国;报告描述了27个集群,显示这些账号系“由中国或俄罗斯的操作者”批量创建。"
-              },
-              {
-                "t": "p",
-                "x": "台湾还告诉Meta,约260个账号传播了2,150多段由人工智能生成的视频,官员称这些视频属于中国行动的一部分。报告称,这些视频获得了2.35M 次互动,其中大部分针对民主进步党(DPP)的政治人物和政策,包括台北市长候选人沈伯洋(Puma Shen),他否认了部分视频中的指控。"
+                "x": "另外，当天在李在明总统主持的首席秘书会议上，AI未来规划首席室汇报了“线上线下AI国民课堂快速推广方案”。据首席发言人Kang Yu-jung介绍，李总统表示“对学习和教授AI活动的支持可以成为收入再分配的手段”，并提到有必要建立项目认证制度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taiwán alerta a Meta de cuentas\nde Threads ligadas a China",
-          "body": "Taiwán alertó a Meta de casi 2,700 cuentas de Threads de una presunta campaña china; algunas difundían videos de AI.",
-          "mini_headline": "Taiwán alerta a Meta de cuentas",
+          "headline": "Cheong Wa Dae amplía su TF\ncontra las trampas con AI",
+          "body": "Cheong Wa Dae amplió su TF de fraude con AI en el examen de acceso a una 'TF de recuperación de equidad en exámenes'.",
+          "mini_headline": "Se amplía la TF contra el fraude con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Taiwán ha alertado a Meta Platforms sobre casi 2,700 cuentas de redes sociales que, según afirma, parecen formar parte de una campaña china de guerra informativa que busca influir en las elecciones de Taiwán del sábado de la próxima semana, según tres funcionarios del gobierno e informes internos revisados por Reuters. Casi todas las cuentas de Threads se abrieron en los últimos cuatro meses y parecen haberse creado en lotes."
+                "x": "Cheong Wa Dae anunció el día 20 que formará y pondrá en marcha una 'TF (grupo de trabajo) para la recuperación de la equidad en los exámenes', nombre provisional, para impedir las trampas con inteligencia artificial (AI). Se trata de ampliar la 'TF de respuesta de emergencia ante trampas con abuso de AI', creada el día 17, dos días antes del examen de acceso a la universidad (Suneung) de este año."
+              },
+              {
+                "t": "p",
+                "x": "La TF preparará medidas para erradicar las trampas con AI y equipos de alta tecnología, revisará la vigilancia de diversos exámenes, incluido el Suneung, y elaborará medidas de fondo para garantizar la equidad de los exámenes a escala nacional. También decidió responder con rigor y firmeza a las trampas cometidas en exámenes nacionales anteriores."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-                "cap": "El logotipo de Meta Platforms y un teclado, en una imagen creada el 19 de octubre."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+                "cap": "Lim Kwang-hyun, jefe de gabinete presidencial, explica la propuesta de presupuesto"
               },
               {
                 "t": "p",
-                "x": "Un portavoz de Meta dijo que la empresa había eliminado las cuentas señaladas por el gobierno taiwanés, muchas de las cuales ya habían sido desactivadas por sus sistemas. Ninguna de estas “cuentas falsas de baja calidad” había publicado sobre temas electorales y la mayoría no tenía seguidores, según el portavoz. La Oficina de Asuntos de Taiwán de China no respondió a una solicitud de comentarios."
+                "x": "Lim Kwang-hyun, jefe de gabinete y director de la TF, ordenó que la Oficina del Primer Ministro ponga en marcha un centro central de denuncias vinculado a los centros de denuncias que gestiona cada ministerio competente. Además, pidió que las denuncias recibidas se investiguen a fondo en cooperación con los organismos pertinentes y las empresas de AI, y que se exijan responsabilidades con firmeza."
               },
               {
                 "t": "p",
-                "x": "De 2,400 cuentas de Threads señaladas por Taiwán, el 74 por ciento indicaba China como ubicación, según un informe del gobierno que describía 27 grupos que sugerían una creación en lotes “por operadores en China o Rusia”."
-              },
-              {
-                "t": "p",
-                "x": "Taiwán también informó a Meta de que unas 260 cuentas habían difundido más de 2,150 videos generados por inteligencia artificial que, según los funcionarios, formaban parte de la campaña china. Esos videos sumaron 2.35 millones de interacciones, según el informe, que señaló que la mayoría tenía como blanco a políticos y políticas del Partido Democrático Progresista (DPP), incluido el candidato a la alcaldía de Taipéi Puma Shen, quien ha negado las acusaciones hechas en algunos de ellos."
+                "x": "Por otra parte, en la reunión de secretarios principales presidida ese día por el presidente Lee Jae-myung, la Oficina del Secretario Principal de Planificación del Futuro de la AI presentó un 'plan para extender con rapidez las aulas ciudadanas de AI en línea y presenciales'. El presidente Lee dijo que \"el apoyo a las actividades de aprender y enseñar AI podría convertirse en un medio de redistribución del ingreso\" y mencionó la necesidad de un sistema de certificación de programas, según la portavoz principal Kang Yu-jung."
               }
             ]
           }
@@ -1321,165 +1241,189 @@
       }
     },
     {
-      "id": "govuk-ai-social-care-guidance",
+      "id": "trump-offshore-datacenter-tax",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UK, 잉글랜드 사회돌봄\nAI 활용 지침 발표",
-      "body": "UK 정부가 잉글랜드 아동·성인 사회돌봄의 AI 활용을 다룬 비법정 지침을 냈다.",
-      "mini_headline": "UK, 사회돌봄 AI 지침",
+      "headline": "트럼프, 해외 AI\n데이터센터 과세 시사",
+      "body": "트럼프가 해외에 AI 데이터센터를 짓는 US 기업에 '엄청난 세금'을 경고했다.",
+      "mini_headline": "트럼프, 해외 데이터센터 과세 시사",
       "tool": "Politics",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "잉글랜드 아동·성인 사회돌봄의 인공지능 활용을 다룬 비법정 지침."
+            "x": "도널드 트럼프 대통령이 US 밖에 데이터센터를 짓는 기업에 \"엄청난 세금\"을 물리겠다고 했다. 미국 곳곳의 주와 도시가 데이터센터 신규 건설 신청을 제한하는 가운데 나온 발언이다."
           },
           {
             "t": "p",
-            "x": "교육부(DfE)와 보건사회복지부(DHSC)가 사회돌봄의 인공지능(AI) 활용을 어떻게 보는지 정리한 문서다. 사회돌봄 현장이 AI를 안전하게 도입하고 활용하도록 돕는 기초 지침을 주려는 것이다."
+            "x": "트럼프는 금요일 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 정상회담을 마친 뒤 기자회견에서 \"우리 기업들이 나라 밖에 데이터센터를 짓도록 놔두지 않겠다\"고 말했다. US가 해외 데이터센터 건설을 허용하면 \"중국이 전부 가져갈 것\"이라는 경고도 덧붙였다."
+          },
+          {
+            "t": "video",
+            "yt": "VD-KP5xTESY"
           },
           {
             "t": "p",
-            "x": "주된 대상은 아동·성인 사회돌봄을 맡는 지방정부다. 다만 지침의 원칙은 사회돌봄과 관련 서비스를 제공하는 다른 기관에도 적용된다."
+            "x": "세부 계획은 거의 밝히지 않았고, 이 구상을 공개적으로 꺼낸 건 이번이 처음인 듯하다. 트럼프는 \"이게 속보인지는 모르겠다. 하지만 아직 우리 사람들에게도 말하지 않았다\"며 \"그들이 그렇게 한다면 할 수는 있지만, 우리는 그들에게 엄청난 세금을 매길 것\"이라고 말했다."
           },
           {
             "t": "p",
-            "x": "문서는 AI 활용의 토대를 놓는 데 목적이 있다. 추가 자료와 지원은 앞으로 이 지침을 바탕으로 마련될 것으로 내다본다."
+            "x": "The Verge는 몇 달 뒤 민주당이 다수인 새 의회가 출범하면 이 약속을 지키기 어려울 수 있다고 짚었다. 주마다 모라토리엄과 새 규제를 도입하고 있어 기업들이 해외로 눈을 돌릴 수밖에 없을 수도 있다는 분석이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK sets out AI guidance\nfor social care in England",
-          "body": "The UK government published non-statutory guidance on using AI in children's and adults' social care in England.",
-          "mini_headline": "UK guidance on AI in social care",
+          "headline": "Trump says he could tax\nAI data centers built abroad",
+          "body": "Trump floated a 'tremendous tax' on US firms building AI data centers abroad, a spoken threat, not a written policy.",
+          "mini_headline": "Trump floats offshore data-center tax",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Non-statutory guidance on the use of artificial intelligence in children’s and adults’ social care in England."
+                "x": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them."
               },
               {
                 "t": "p",
-                "x": "This document sets out the position of the Department for Education (DfE) and Department of Health and Social Care (DHSC) on the use of artificial intelligence (AI) in social care. It intends to provide foundational guidance to support the safe adoption and use of AI in social care."
+                "x": "\"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. Should the US allow data centers to be built outside of the country, Trump warned, \"China will take them all.\""
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "It is primarily aimed at local authorities providing children’s and adults’ social care, but the principles of this guidance will also apply to other organisations providing social care and related services."
+                "x": "Trump didn't share many details behind the plan, and apparently was floating the proposal publicly for the first time. \"I don't know if that's a breaking story. But I haven't even said that to my people,\" Trump said. \"If they do that, they can, but we're going to put a tremendous tax on them.\""
               },
               {
                 "t": "p",
-                "x": "This document intends to lay the foundations for AI use. We anticipate additional resources and support will build on this guidance in future."
+                "x": "The Verge notes the promise could be difficult to fulfill with a new Democratic majority Congress being sworn in within a couple of months, and that with states installing moratoriums and new restrictions, companies may be forced to look outside of the country."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UK, 잉글랜드 사회돌봄\nAI 활용 지침 발표",
-          "body": "UK 정부가 잉글랜드 아동·성인 사회돌봄의 AI 활용을 다룬 비법정 지침을 냈다.",
-          "mini_headline": "UK, 사회돌봄 AI 지침",
+          "headline": "트럼프, 해외 AI\n데이터센터 과세 시사",
+          "body": "트럼프가 해외에 AI 데이터센터를 짓는 US 기업에 '엄청난 세금'을 경고했다.",
+          "mini_headline": "트럼프, 해외 데이터센터 과세 시사",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "잉글랜드 아동·성인 사회돌봄의 인공지능 활용을 다룬 비법정 지침."
+                "x": "도널드 트럼프 대통령이 US 밖에 데이터센터를 짓는 기업에 \"엄청난 세금\"을 물리겠다고 했다. 미국 곳곳의 주와 도시가 데이터센터 신규 건설 신청을 제한하는 가운데 나온 발언이다."
               },
               {
                 "t": "p",
-                "x": "교육부(DfE)와 보건사회복지부(DHSC)가 사회돌봄의 인공지능(AI) 활용을 어떻게 보는지 정리한 문서다. 사회돌봄 현장이 AI를 안전하게 도입하고 활용하도록 돕는 기초 지침을 주려는 것이다."
+                "x": "트럼프는 금요일 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 정상회담을 마친 뒤 기자회견에서 \"우리 기업들이 나라 밖에 데이터센터를 짓도록 놔두지 않겠다\"고 말했다. US가 해외 데이터센터 건설을 허용하면 \"중국이 전부 가져갈 것\"이라는 경고도 덧붙였다."
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "주된 대상은 아동·성인 사회돌봄을 맡는 지방정부다. 다만 지침의 원칙은 사회돌봄과 관련 서비스를 제공하는 다른 기관에도 적용된다."
+                "x": "세부 계획은 거의 밝히지 않았고, 이 구상을 공개적으로 꺼낸 건 이번이 처음인 듯하다. 트럼프는 \"이게 속보인지는 모르겠다. 하지만 아직 우리 사람들에게도 말하지 않았다\"며 \"그들이 그렇게 한다면 할 수는 있지만, 우리는 그들에게 엄청난 세금을 매길 것\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "문서는 AI 활용의 토대를 놓는 데 목적이 있다. 추가 자료와 지원은 앞으로 이 지침을 바탕으로 마련될 것으로 내다본다."
+                "x": "The Verge는 몇 달 뒤 민주당이 다수인 새 의회가 출범하면 이 약속을 지키기 어려울 수 있다고 짚었다. 주마다 모라토리엄과 새 규제를 도입하고 있어 기업들이 해외로 눈을 돌릴 수밖에 없을 수도 있다는 분석이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK、イングランドの\n社会的ケアのAI指針",
-          "body": "UK政府はイングランドの児童・成人向け社会的ケアにおけるAI利用の非法定指針を公表した。",
-          "mini_headline": "UK、社会的ケアのAI指針",
+          "headline": "トランプ氏、海外建設の\nAIデータセンターに課税も",
+          "body": "トランプ氏は海外にAIデータセンターを建てるUS企業に「途方もない税」を課すと口にした。",
+          "mini_headline": "トランプ氏、海外データセンター課税を示唆",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "イングランドの児童・成人向け社会的ケアにおける人工知能の利用に関する非法定ガイダンス。"
+                "x": "ドナルド・トランプ大統領は、USの外にデータセンターを建設する企業に「途方もない税」を課すと約束した。全米の州や市が、データセンター建設の新規申請に制限をかけているさなかの発言だ。"
               },
               {
                 "t": "p",
-                "x": "本文書は、社会的ケアにおける人工知能(AI)の利用について、教育省(DfE)と保健社会福祉省(DHSC)の立場を示すものである。社会的ケアにおけるAIの安全な導入と利用を支える基礎的なガイダンスの提供を目的としている。"
+                "x": "「わが国の企業が国外にデータセンターを建てることは認めない」。トランプ氏は金曜日、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領との首脳会談後の記者会見でこう述べた。USが国外でのデータセンター建設を認めれば「中国がすべて持っていく」とも警告した。"
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "主な対象は児童・成人向け社会的ケアを提供する地方自治体だが、本ガイダンスの原則は、社会的ケアや関連サービスを提供する他の組織にも適用される。"
+                "x": "トランプ氏は計画の詳細をほとんど明かさず、この案を公の場で示したのは初めてとみられる。「これが速報になるかどうかは分からない。だが、まだ側近にも言っていない」とトランプ氏は語り、「彼らがそうするならそれはできる。だが我々は彼らに途方もない税を課す」と述べた。"
               },
               {
                 "t": "p",
-                "x": "本文書はAI利用の土台を築くことを目的としている。今後、追加の資料や支援が本ガイダンスを基に整備されると見込んでいる。"
+                "x": "The Vergeは、数カ月以内に民主党が多数を占める新議会が発足するため約束の実現は難しい可能性があり、州がモラトリアムや新たな規制を導入するなかで、企業は国外に目を向けざるを得なくなるかもしれないと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK发布英格兰\n社会护理AI指南",
-          "body": "UK政府发布了英格兰儿童和成人社会护理中使用AI的非法定指南。",
-          "mini_headline": "UK社会护理AI指南",
+          "headline": "特朗普称可能对海外\nAI数据中心征税",
+          "body": "特朗普扬言对在海外建AI数据中心的US企业征收“巨额税”，但这只是口头威胁。",
+          "mini_headline": "特朗普暗示对海外数据中心征税",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "关于在英格兰儿童和成人社会护理中使用人工智能的非法定指南。"
+                "x": "美国总统唐纳德·特朗普承诺，对在US境外建设数据中心的企业征收“巨额税”；与此同时，全美各州和城市正在限制新的数据中心建设申请。"
               },
               {
                 "t": "p",
-                "x": "本文件阐明了教育部(DfE)和卫生与社会护理部(DHSC)对在社会护理中使用人工智能(AI)的立场,旨在提供基础性指导,支持在社会护理中安全采用和使用AI。"
+                "x": "特朗普周五在与中国国家主席习近平、俄罗斯总统弗拉基米尔·普京举行峰会后的记者会上说：“我们不会允许我们的企业在国外建数据中心。”特朗普警告，如果US允许在境外建设数据中心，“中国会把它们全部拿走”。"
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "本指南主要面向提供儿童和成人社会护理的地方政府,但其原则同样适用于提供社会护理及相关服务的其他组织。"
+                "x": "特朗普没有透露该计划的更多细节，这似乎是他首次公开提出这一设想。“我不知道这算不算突发新闻。但我甚至还没跟我的人说过，”特朗普说，“如果他们那样做，他们可以，但我们会对他们征收巨额税。”"
               },
               {
                 "t": "p",
-                "x": "本文件旨在为AI的使用奠定基础。我们预计,今后将在本指南基础上提供更多资源和支持。"
+                "x": "The Verge指出，由于民主党占多数的新一届国会将在几个月内宣誓就职，这一承诺可能难以兑现；而随着各州实施暂停令和新限制，企业可能被迫把目光投向国外。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UK publica una guía sobre AI\nen la atención social inglesa",
-          "body": "El gobierno de UK publicó una guía no estatutaria sobre la AI en la atención social a niños y adultos en Inglaterra.",
-          "mini_headline": "UK: guía sobre AI en la atención social",
+          "headline": "Trump dice que gravaría centros\nde datos de AI en el exterior",
+          "body": "Trump planteó un 'impuesto tremendo' a firmas US que levanten centros de datos de AI en el exterior, solo de palabra.",
+          "mini_headline": "Trump sugiere gravar centros de datos en el exterior",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Guía no estatutaria sobre el uso de la inteligencia artificial en la atención social a niños y adultos en Inglaterra."
+                "x": "El presidente Donald Trump prometió aplicar un \"impuesto tremendo\" a las empresas que construyan centros de datos fuera de US, mientras estados y ciudades de todo el país imponen restricciones a las nuevas solicitudes para construirlos."
               },
               {
                 "t": "p",
-                "x": "Este documento expone la posición del Departamento de Educación (DfE) y del Departamento de Salud y Atención Social (DHSC) sobre el uso de la inteligencia artificial (AI) en la atención social. Su objetivo es ofrecer una guía básica que respalde la adopción y el uso seguros de la AI en la atención social."
+                "x": "\"No vamos a permitir que nuestras empresas construyan centros de datos fuera de nuestro país\", dijo Trump el viernes en una rueda de prensa tras su cumbre con el presidente de China, Xi Jinping, y el presidente de Rusia, Vladimir Putin. Si US permite que se construyan centros de datos fuera del país, advirtió Trump, \"China se los llevará todos\"."
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "Está dirigida principalmente a las autoridades locales que prestan atención social a niños y adultos, pero los principios de esta guía también se aplicarán a otras organizaciones que prestan atención social y servicios relacionados."
+                "x": "Trump no dio muchos detalles del plan y, al parecer, era la primera vez que planteaba la propuesta en público. \"No sé si esto es una primicia. Pero ni siquiera se lo he dicho a mi gente\", dijo Trump. \"Si lo hacen, pueden, pero les vamos a poner un impuesto tremendo\"."
               },
               {
                 "t": "p",
-                "x": "Este documento pretende sentar las bases para el uso de la AI. Prevemos que en el futuro se sumarán recursos y apoyos adicionales a partir de esta guía."
+                "x": "The Verge señala que la promesa podría ser difícil de cumplir con un nuevo Congreso de mayoría demócrata que asumirá en un par de meses, y que, con los estados imponiendo moratorias y nuevas restricciones, las empresas podrían verse obligadas a buscar fuera del país."
               }
             ]
           }
@@ -1487,105 +1431,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UK, 잉글랜드 사회돌봄\nAI 활용 지침 발표",
-          "body": "UK 정부가 잉글랜드 아동·성인 사회돌봄의 AI 활용에 관한 비법정 지침을 냈다.",
-          "mini_headline": "UK, 사회돌봄 AI 지침",
+          "headline": "트럼프, 해외 AI\n데이터센터 과세 시사",
+          "body": "트럼프가 해외에 AI 데이터센터를 짓는 US 기업에 '엄청난 세금'을 거론했다.",
+          "mini_headline": "트럼프, 해외 데이터센터 과세 시사",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "잉글랜드의 아동·성인 사회돌봄에서 인공지능을 활용하는 데 관한 비법정 지침."
+                "x": "도널드 트럼프 대통령은 US 밖에 데이터센터를 짓는 기업에 \"엄청난 세금\"을 물리겠다고 약속했다. 미국 곳곳의 주와 도시들이 데이터센터 신규 건설 신청을 제한하고 있는 가운데 나온 발언이다."
               },
               {
                 "t": "p",
-                "x": "이 문서는 사회돌봄에서의 인공지능(AI) 활용에 대한 교육부(DfE)와 보건사회복지부(DHSC)의 입장을 제시한다. 사회돌봄에서 AI를 안전하게 도입하고 활용하도록 돕는 기초 지침을 제공하는 것이 목적이다."
+                "x": "트럼프는 금요일 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 정상회담을 마친 뒤 기자회견에서 \"우리 기업들이 나라 밖에 데이터센터를 짓도록 놔두지 않겠다\"고 말했다. 트럼프는 US가 해외 데이터센터 건설을 허용하면 \"중국이 전부 가져갈 것\"이라고 경고했다."
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "주된 대상은 아동·성인 사회돌봄을 제공하는 지방정부지만, 이 지침의 원칙은 사회돌봄과 관련 서비스를 제공하는 다른 기관에도 적용된다."
+                "x": "트럼프는 계획의 세부 내용을 거의 밝히지 않았고, 이 구상을 공개적으로 꺼낸 것은 이번이 처음인 것으로 보인다. 트럼프는 \"이게 속보인지는 모르겠다. 하지만 아직 우리 사람들에게도 말하지 않았다\"며 \"그들이 그렇게 한다면 할 수는 있지만, 우리는 그들에게 엄청난 세금을 매길 것\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "이 문서는 AI 활용의 토대를 마련하려는 것이다. 앞으로 추가 자료와 지원이 이 지침을 바탕으로 마련될 것으로 예상한다."
+                "x": "The Verge는 몇 달 안에 민주당이 다수인 새 의회가 출범하는 만큼 이 약속을 지키기 어려울 수 있고, 주들이 모라토리엄과 새 규제를 도입하면서 기업들이 해외로 눈을 돌릴 수밖에 없을 수도 있다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK、イングランドの\n社会的ケアのAI指針",
-          "body": "UK政府はイングランドの児童・成人向け社会的ケアにおけるAI利用の非法定指針を公表した。",
-          "mini_headline": "UK、社会的ケアのAI指針",
+          "headline": "トランプ氏、海外建設の\nAIデータセンターに課税も",
+          "body": "トランプ氏は海外にAIデータセンターを建てるUS企業に「途方もない税」を課すと口にした。",
+          "mini_headline": "トランプ氏、海外データセンター課税を示唆",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "イングランドの児童・成人向け社会的ケアにおける人工知能の利用に関する非法定ガイダンス。"
+                "x": "ドナルド・トランプ大統領は、USの外にデータセンターを建設する企業に「途方もない税」を課すと約束した。全米の州や市が、データセンター建設の新規申請に制限をかけているさなかの発言だ。"
               },
               {
                 "t": "p",
-                "x": "本文書は、社会的ケアにおける人工知能(AI)の利用について、教育省(DfE)と保健社会福祉省(DHSC)の立場を示すものである。社会的ケアにおけるAIの安全な導入と利用を支える基礎的なガイダンスの提供を目的としている。"
+                "x": "「わが国の企業が国外にデータセンターを建てることは認めない」。トランプ氏は金曜日、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領との首脳会談後の記者会見でこう述べた。USが国外でのデータセンター建設を認めれば「中国がすべて持っていく」とも警告した。"
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "主な対象は児童・成人向け社会的ケアを提供する地方自治体だが、本ガイダンスの原則は、社会的ケアや関連サービスを提供する他の組織にも適用される。"
+                "x": "トランプ氏は計画の詳細をほとんど明かさず、この案を公の場で示したのは初めてとみられる。「これが速報になるかどうかは分からない。だが、まだ側近にも言っていない」とトランプ氏は語り、「彼らがそうするならそれはできる。だが我々は彼らに途方もない税を課す」と述べた。"
               },
               {
                 "t": "p",
-                "x": "本文書はAI利用の土台を築くことを目的としている。今後、追加の資料や支援が本ガイダンスを基に整備されると見込んでいる。"
+                "x": "The Vergeは、数カ月以内に民主党が多数を占める新議会が発足するため約束の実現は難しい可能性があり、州がモラトリアムや新たな規制を導入するなかで、企業は国外に目を向けざるを得なくなるかもしれないと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK发布英格兰\n社会护理AI指南",
-          "body": "UK政府发布了英格兰儿童和成人社会护理中使用AI的非法定指南。",
-          "mini_headline": "UK社会护理AI指南",
+          "headline": "特朗普称可能对海外\nAI数据中心征税",
+          "body": "特朗普扬言对在海外建AI数据中心的US企业征收“巨额税”，但这只是口头威胁。",
+          "mini_headline": "特朗普暗示对海外数据中心征税",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "关于在英格兰儿童和成人社会护理中使用人工智能的非法定指南。"
+                "x": "美国总统唐纳德·特朗普承诺，对在US境外建设数据中心的企业征收“巨额税”；与此同时，全美各州和城市正在限制新的数据中心建设申请。"
               },
               {
                 "t": "p",
-                "x": "本文件阐明了教育部(DfE)和卫生与社会护理部(DHSC)对在社会护理中使用人工智能(AI)的立场,旨在提供基础性指导,支持在社会护理中安全采用和使用AI。"
+                "x": "特朗普周五在与中国国家主席习近平、俄罗斯总统弗拉基米尔·普京举行峰会后的记者会上说：“我们不会允许我们的企业在国外建数据中心。”特朗普警告，如果US允许在境外建设数据中心，“中国会把它们全部拿走”。"
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "本指南主要面向提供儿童和成人社会护理的地方政府,但其原则同样适用于提供社会护理及相关服务的其他组织。"
+                "x": "特朗普没有透露该计划的更多细节，这似乎是他首次公开提出这一设想。“我不知道这算不算突发新闻。但我甚至还没跟我的人说过，”特朗普说，“如果他们那样做，他们可以，但我们会对他们征收巨额税。”"
               },
               {
                 "t": "p",
-                "x": "本文件旨在为AI的使用奠定基础。我们预计,今后将在本指南基础上提供更多资源和支持。"
+                "x": "The Verge指出，由于民主党占多数的新一届国会将在几个月内宣誓就职，这一承诺可能难以兑现；而随着各州实施暂停令和新限制，企业可能被迫把目光投向国外。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UK publica una guía sobre AI\nen la atención social inglesa",
-          "body": "El gobierno de UK publicó una guía no estatutaria sobre la AI en la atención social a niños y adultos en Inglaterra.",
-          "mini_headline": "UK: guía sobre AI en la atención social",
+          "headline": "Trump dice que gravaría centros\nde datos de AI en el exterior",
+          "body": "Trump planteó un 'impuesto tremendo' a firmas US que levanten centros de datos de AI en el exterior, solo de palabra.",
+          "mini_headline": "Trump sugiere gravar centros de datos en el exterior",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Guía no estatutaria sobre el uso de la inteligencia artificial en la atención social a niños y adultos en Inglaterra."
+                "x": "El presidente Donald Trump prometió aplicar un \"impuesto tremendo\" a las empresas que construyan centros de datos fuera de US, mientras estados y ciudades de todo el país imponen restricciones a las nuevas solicitudes para construirlos."
               },
               {
                 "t": "p",
-                "x": "Este documento expone la posición del Departamento de Educación (DfE) y del Departamento de Salud y Atención Social (DHSC) sobre el uso de la inteligencia artificial (AI) en la atención social. Su objetivo es ofrecer una guía básica que respalde la adopción y el uso seguros de la AI en la atención social."
+                "x": "\"No vamos a permitir que nuestras empresas construyan centros de datos fuera de nuestro país\", dijo Trump el viernes en una rueda de prensa tras su cumbre con el presidente de China, Xi Jinping, y el presidente de Rusia, Vladimir Putin. Si US permite que se construyan centros de datos fuera del país, advirtió Trump, \"China se los llevará todos\"."
+              },
+              {
+                "t": "video",
+                "yt": "VD-KP5xTESY"
               },
               {
                 "t": "p",
-                "x": "Está dirigida principalmente a las autoridades locales que prestan atención social a niños y adultos, pero los principios de esta guía también se aplicarán a otras organizaciones que prestan atención social y servicios relacionados."
+                "x": "Trump no dio muchos detalles del plan y, al parecer, era la primera vez que planteaba la propuesta en público. \"No sé si esto es una primicia. Pero ni siquiera se lo he dicho a mi gente\", dijo Trump. \"Si lo hacen, pueden, pero les vamos a poner un impuesto tremendo\"."
               },
               {
                 "t": "p",
-                "x": "Este documento pretende sentar las bases para el uso de la AI. Prevemos que en el futuro se sumarán recursos y apoyos adicionales a partir de esta guía."
+                "x": "The Verge señala que la promesa podría ser difícil de cumplir con un nuevo Congreso de mayoría demócrata que asumirá en un par de meses, y que, con los estados imponiendo moratorias y nuevas restricciones, las empresas podrían verse obligadas a buscar fuera del país."
               }
             ]
           }

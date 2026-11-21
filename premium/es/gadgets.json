@@ -13216,6 +13216,129 @@
           "x": "OpenAI ha guardado silencio sobre sus planes de smartphone, pero desarrolla hardware AI-first con io, la empresa fundada por el exjefe de diseño de Apple Jony Ive. Entrar en el mercado no será fácil: Google ha apostado todo por la AI con Android, y Apple ha encontrado su ritmo con Siri AI. Es poco probable que OpenAI desarrolle su propio sistema operativo."
         }
       ]
+    },
+    "gadgets/beambox-polly-phone-pet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+          "cap": "La mascota digital Polly de Beambox se fija magnéticamente a un smartphone y tiene una pantalla táctil de 360 × 360 píxeles."
+        },
+        {
+          "t": "p",
+          "x": "El Tamagotchi ha encontrado una nueva e inesperada dirección: la parte trasera del smartphone. Una pequeña mascota digital llamada Polly se ha lanzado en Japón y traslada la conocida tarea de alimentar, jugar con y criar a una criatura virtual a un dispositivo magnético que viaja con el teléfono."
+        },
+        {
+          "t": "p",
+          "x": "Las reservas se abrieron en Makuake el 20 de noviembre, desde ¥10,999, un 30% por debajo del precio de venta previsto de ¥15,713, con entregas previstas para enero de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Polly empieza su vida como una semilla y se convierte en distintos personajes según cómo se la cuide. Si se la descuida demasiado tiempo, puede enfermar e incluso morir. Cuando Polly alcanza su segunda etapa de desarrollo, se habilitan las conversaciones con IA y los viajes virtuales. Esas funciones requieren Wi-Fi y la app complementaria, aunque las actividades básicas funcionan sin conexión."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo, de 61 × 61 × 11,5 mm, pesa 40,8 g y se acopla a los iPhones compatibles con MagSafe (MagSafe-compatible); los usuarios de Android necesitan una funda o un anillo magnético adecuados. Beambox asegura una autonomía de aproximadamente tres días, con solo seis interacciones diarias."
+        },
+        {
+          "t": "video",
+          "yt": "2Ayn-O0dJWE"
+        },
+        {
+          "t": "p",
+          "x": "El sitio web de Beambox ofrece Polly por $69,80, con soporte para inglés, chino y japonés."
+        }
+      ]
+    },
+    "gadgets/snes-superfx-chatgpt-client": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+          "cap": "ChatGPT para SNES (Imagen: Benj Edwards)"
+        },
+        {
+          "t": "p",
+          "x": "La clásica consola SNES de Nintendo ya tiene su propio chatbot ChatGPT. Por la antigüedad de la plataforma y sus recursos limitados, el (pequeño) modelo de lenguaje es una destilación de 2,2 millones de parámetros (2.2-million-parameter) del GPT-OSS-120b de OpenAI. El bloguero de Vintage Computing Benj Edwards aceleró la capacidad de respuesta del chatbot usando “la mejor GPU de la Super NES, el chip Super FX 2”."
+        },
+        {
+          "t": "p",
+          "x": "Se puede probar en una página web donde Edwards ha integrado el emulador SNES9x: hay que elegir el modelo de 4MB o uno de 19MB que integra en su base de conocimiento las frases iniciales de 150.000 artículos de la Simple English Wikipedia (almacenadas en el archivo de datos MSU-1 del cartucho)."
+        },
+        {
+          "t": "p",
+          "x": "Su utilidad más allá de la curiosidad es muy limitada: Edwards explica que “el modelo es millones de veces más pequeño que los modelos detrás de ChatGPT”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+          "cap": "ChatGPT para SNES en funcionamiento (Imagen: Future)"
+        },
+        {
+          "t": "p",
+          "x": "El coprocesador Super FX 2, que debutó con Yoshi's Island, contiene una CPU RISC de 21,47 MHz, frente a la CPU principal de la SNES, un Ricoh 5A22 de 16 bits a 2,68 MHz. La aplicación también puede ejecutarse en una SNES real con un cartucho flash compatible con Super FX (y con MSU-1 para la versión con Wikipedia)."
+        }
+      ]
+    },
+    "gadgets/hyundai-elantra-gleo-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+          "cap": "El Elantra Hybrid actualizado podría llegar unos meses después de la versión estándar, pero debería valer la pena la espera. Hyundai"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai presentó el nuevo sedán Elantra 2027 y el Elantra Hybrid 2028 en el Salón del Automóvil de LA. A quienes buscan un vehículo económico les interesarán los 53 mpg previstos del sedán híbrido compacto y Gleo, el nuevo asistente de voz con IA de Hyundai que controla la nueva tecnología de tablero de la marca, basada en Android Automotive OS (Android Automotive OS-based)."
+        },
+        {
+          "t": "p",
+          "x": "El híbrido combina un motor de cuatro cilindros de 1,6 litros con una caja de doble embrague de 6 velocidades para 155 caballos de fuerza, y su frenado regenerativo actualizado ofrece ahora una “experiencia de conducción de un solo pedal EV-like”. Un nuevo modo Stay mantiene en funcionamiento la climatización y el sistema de infoentretenimiento con el vehículo estacionado durante hasta 30 minutos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+          "cap": "El nuevo diseño del tablero aleja el cuadro de instrumentos del conductor y lo acerca al parabrisas. Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Pleos Connect, el sistema de infoentretenimiento de Hyundai basado en Android Automotive OS, ocupa una pantalla central de 12,9 pulgadas. Lo acompaña Gleo AI, que permite a conductores y pasajeros hablar con el vehículo; según Hyundai, ofrece “soporte de lenguaje contextual, capacidad multicomando y reconocimiento por zonas”, de modo que el vehículo sabe quién habla y en qué asiento está."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+          "cap": "Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai no anunció precios; CNET prevé el Elantra 2027 a principios de 2027 y el Elantra Hybrid 2028 a finales de 2027."
+        }
+      ]
+    },
+    "gadgets/google-assistant-nest-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+          "cap": "Foto de Dan Seifert / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Google anuncia cambios importantes en su software para el hogar inteligente. A partir del próximo año, la compañía cerrará la app Nest en favor de la app Google Home y retirará Google Assistant de sus dispositivos para el hogar inteligente."
+        },
+        {
+          "t": "p",
+          "x": "El cierre de la app Nest será el 25 de enero de 2027, por lo que habrá que gestionar los productos Nest, incluidos los termostatos Nest, las cámaras y las alarmas Nest Protect, desde la app Google Home. Si ya se ha configurado la app Google Home, Google trasladará los dispositivos Nest, incluidas las cámaras y el historial de video, a la app Home ese mismo 25 de enero. La compañía también transferirá automáticamente las suscripciones a Nest Aware (1.ª generación) a Google Home Premium. Google indica que empezará a borrar los datos de las cuentas Nest el 25 de marzo de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Los cambios en Google Assistant llegarán más tarde: el 2 de agosto de 2027, el asistente de voz Gemini for Home sustituirá a Google Assistant en altavoces y pantallas inteligentes, según la compañía. Google sostiene que Gemini for Home permite hacer preguntas más complejas y hablar con naturalidad, sin necesidad de usar comandos específicos ni un lenguaje determinado."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home se anunció el año pasado, así que no sorprende demasiado que Google deje atrás a Google Assistant en el hogar inteligente (sobre todo porque la compañía ya retiró Google Assistant de los teléfonos a principios de este año). La compañía dice que planea compartir más novedades sobre los cambios antes de la transición de agosto de 2027."
+        }
+      ]
     }
   }
 }

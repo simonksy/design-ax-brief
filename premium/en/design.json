@@ -12970,6 +12970,140 @@
           "x": "The settings live under Profile > Settings > Permission (Enable generative AI features) and Profile > Your account > AI personalization. They are available to both free and paid users."
         }
       ]
+    },
+    "design/claude-mobile-tabbar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "The refresh adds a bottom bar with tabs for chat, Projects, Code, and Artifacts. Anthropic’s Daniel Destefanis said in a post on X the design refresh has started rolling out, just a day after OpenAI announced a ChatGPT app redesign that also includes a bottom tab bar."
+        }
+      ]
+    },
+    "design/ava-studio-launch-videos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On November 17, Ava Studio unveiled ‘Launch Videos’, a feature for making product launch videos. The tool analyzes the scene order, cut lengths and camera movement of launch videos that drew attention on X, then builds a video from the user's own product screens. It can be used as a plugin in Claude Code and Codex."
+        },
+        {
+          "t": "p",
+          "x": "When the user provides the product website address, the desired video length and the aspect ratio, the agent finds reference videos. References can be chosen by video structure, such as a scene that first reveals the product screen or a vertical smartphone demo."
+        },
+        {
+          "t": "p",
+          "x": "Once a reference is chosen, the agent captures the actual product pages and builds the scenes with the user's logo, colors and typefaces. In the official demo, it took the cuts and camera movement from the ‘Perplexity Computer’ launch video to make a 14-second video introducing the screens of ‘Router’. The original and the result can be played side by side at the same point in time, so users can compare when the product screen appears and where it zooms in."
+        },
+        {
+          "t": "p",
+          "x": "Videos are rendered on a Mac or Linux computer and saved as editable HyperFrames projects. After seeing the first result, users can ask to change the title text or show a specific scene for longer, then render again. Searching and viewing reference videos is free, while generating music to fit the edit deducts Ava credits."
+        },
+        {
+          "t": "video",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The Perplexity Computer launch video and the Router remake"
+        }
+      ]
+    },
+    "design/xjet-atelier-jewelry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "NanoParticle Jetting company XJet is exhibiting at Formnext 2026, including XJet Atelier, a new online platform that connects AI-assisted jewelry design with the company’s manufacturing workflow to facilitate custom jewelry production. XJet’s NPJ process uses liquid dispersions filled with metal or ceramic particles and a soluble support material, and suits small, complex parts with fine features, such as jewelry."
+        },
+        {
+          "t": "p",
+          "x": "XJet Atelier gives consumers the ability to create their own charms based on prompts or images and have them produced on XJet’s 3D printers. “Users can start with a few words or a photo, explore and refine charm designs and preview their creation in 360° before moving toward physical production through XJet’s NPJ workflow.” Customers can choose stainless steel or sterling silver. Visitors can try the design generation tool at booth C21, Hall 11.0."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "XJet is also promoting XPARTS, its ceramic and metal AM service, and announced first customer orders for its Carmel Pro and Carmel ORO platforms. “We are making the full capabilities of XJet available to more customers, whether they need finished parts, their own production system or a way to turn a personalized design into jewelry,” said CEO Guy Zimmerman."
+        }
+      ]
+    },
+    "design/artificial-poster-aislop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nowadays, AI slop posters are no rarity in the movie world, so when I saw the design for Luca Guadagnino's latest film, Artificial, I rolled my eyes and continued scrolling. Little did I know that was the exact reaction the director wanted."
+        },
+        {
+          "t": "p",
+          "x": "Had I been a little more observant, I'd have spotted the little text in the bottom right corner reading \"Artwork made by Humans\". Yes, this movie poster has all the makings of uncanny AI slop, but that's the point. Watch out, AI; humans are coming for your job."
+        },
+        {
+          "t": "p",
+          "x": "“What is the image of the future that you see? Luca Guadagnino’s ARTIFICIAL. In select theaters Christmas Day. Everywhere January 8.” (post on X, November 19, 2026)"
+        },
+        {
+          "t": "p",
+          "x": "The first thing that strikes me is Andrew Garfield's uncanny face. Starring as OpenAI CEO Sam Altman, the soullessness in his eyes is downright eerie, already ringing major AI alarm bells."
+        },
+        {
+          "t": "p",
+          "x": "A closer look reveals more discrepancies – the underwater Golden Gate Bridge, random snakes looming above, the upside-down plane and my least favourite detail: the terrifying Pinocchio face lurking in the trees. \"The longer you look at this the more insane it gets,\" one X commenter wrote. \"Poster of the year,\" another praised."
+        },
+        {
+          "t": "p",
+          "x": "“Art made by humans (Gravillis Inc. and Mike Thompson).” (post on X, November 19, 2026)"
+        }
+      ]
+    },
+    "design/nngroup-synthesized-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
+        },
+        {
+          "t": "p",
+          "x": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone."
+        },
+        {
+          "t": "p",
+          "x": "NN/g gave an AI model two design tasks — a one-page form for rebooking a canceled flight and a multistep checkout flow for an online store — keeping the prompt and design-system information the same while changing the research context: about 100 raw user comments per task, or synthesized findings and recommendations based on the same comments. It generated 8 designs per task and condition; a human grader and an LLM judge blindly scored each against a predefined scorecard."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+          "cap": "Designs generated from synthesized findings and recommendations met 77.9% of scorecard criteria on average, compared with 69.5% for designs generated from raw user comments (p < 0.001)."
+        },
+        {
+          "t": "p",
+          "x": "The improvement was larger for the flight-rebooking task (11.4 percentage points, versus 5.5 for the checkout flow). A few raw comments complained about loyalty miles, yet none of the raw-comment designs addressed them; every design from synthesized research did."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+          "cap": "With raw data alone, the AI tool has to guess what to build. With synthesized findings and recommendations, it builds on decisions your team has already made."
+        },
+        {
+          "t": "p",
+          "x": "Research artifacts now have two audiences: your teammates and the AI tools used in the design process. UX-context design is the practice of selecting, organizing, and maintaining the UX knowledge that guides AI-generated design."
+        }
+      ]
     }
   }
 }

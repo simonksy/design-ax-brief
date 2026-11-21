@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "politics",
   "picks": [
     {
-      "title": "California investigates Nvidia over whether chip exports ended up in China",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "source": "The Guardian",
+      "title": "Joint Investigation Report: China is Trying to Get U.S. Companies Addicted to Chinese AI Models",
+      "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+      "source": "House Select Committee on the CCP",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Geopolitics axis, new formal action: California's attorney general opened an investigation and subpoenaed Nvidia over possible AI-chip diversion to China and investor disclosures. This is the first state-level enforcement step in the Megaspeed story.",
-      "published_iso": "2026-11-20T09:18:30Z",
-      "og_image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd",
-      "excerpt": "California's attorney general has opened an investigation and subpoenaed Nvidia over whether its AI chips were diverted to China and whether the company misled investors, saying the Megaspeed scandal 'raises bright red flags'."
+      "rationale": "Geopolitics axis, primary document: the chairs of the House China Select Committee (Moolenaar) and Homeland Security Committee (Garbarino) released a joint investigation report on US firms building on Chinese open-weight models. It names the provenance, training-data and distillation questions every team shipping on those models now faces. Claims are attributed to the committees.",
+      "published_iso": "2026-11-20T14:25:26-05:00",
+      "og_image": null,
+      "excerpt": "Chairs Moolenaar (China Select Committee) and Garbarino (Homeland Security) released a joint investigation report on US companies integrating Chinese open-weight AI models (origin, training data, possible unauthorized distillation) and on whether the US open-weight AI strategy leaves firms a real alternative. Investigation began April 2026 with letters to Anysphere (Cursor) and Airbnb."
     },
     {
-      "title": "베선트 \"미중 정상, AI 군사 결정에 인간 개입 합의\"",
-      "url": "https://www.yna.co.kr/view/AKR20261121004500072",
-      "source": "연합뉴스",
+      "title": "Effort to regulate 'killer robots' delayed to 2028",
+      "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
+      "source": "POLITICO Europe",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Geopolitics axis: per Treasury Secretary Bessent, the US and Chinese leaders agreed to keep humans in the loop on all AI-driven military decisions. That is a reported summit outcome, not the pre-summit preview published on 11-12. No signed text has been released, so the claim is attributed to Bessent.",
-      "published_iso": "2026-11-21T02:38:11+09:00",
-      "og_image": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-      "excerpt": "스콧 베선트 미 재무장관이 CNBC 인터뷰에서 트럼프 대통령과 시진핑 주석이 AI를 활용한 모든 군사적 결정에 항상 인간이 개입해야 하며 주요 군사작전에서 자율 작동을 허용하지 않기로 합의했다고 밝혔다. 서명된 공동성명 텍스트는 아직 없음."
+      "rationale": "Geopolitics and policy axis, new decision: the CCW Seventh Review Conference closed with 128 states adopting a two-year mandate to draft an international instrument on lethal autonomous weapons, reporting in 2028. This is the adopted outcome, not the pre-conference positioning covered on 11-09.",
+      "published_iso": "2026-11-21T16:43:51+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+      "excerpt": "The CCW Seventh Review Conference closed with 128 states agreeing to launch 'the elaboration of an international instrument on lethal autonomous weapons systems' over two years, reporting to a 2028 meeting; Russia blocked a firmer mandate and binding status was left open."
     },
     {
-      "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
-      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
-      "source": "Federal Register (ACUS)",
+      "title": "2026 Elections: Man indicted over fake video of Puma Shen",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868134",
+      "source": "Taipei Times",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Policy axis, primary document: ACUS is seeking public comment on rules for generative AI use by federal adjudicators, staff and parties, and the input will shape a government-wide best-practice recommendation that people can respond to now.",
-      "published_iso": "2026-11-19T00:00:00-05:00",
-      "og_image": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
-      "excerpt": "The Administrative Conference of the United States requests public comment on policies for use of generative AI by agency adjudicators, staff, parties and representatives in federal agency adjudications; responses feed an ACUS best-practice recommendation."
+      "rationale": "Elections axis, new filing: Taoyuan prosecutors indicted a man and are seeking a one-year sentence under the election and recall law for posting a deepfake voice video of a Taipei mayoral candidate ahead of the Nov. 28 vote. It is a criminal indictment, a separate event from the 11-21 card on accounts flagged to Meta.",
+      "published_iso": "2026-11-21T00:00:00+08:00",
+      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+      "excerpt": "Taoyuan prosecutors indicted a 49-year-old man and are seeking a one-year sentence under the Civil Servants Election and Recall Act for posting a deepfake voice video of DPP Taipei mayoral candidate Puma Shen on Threads ahead of the 11-28 local elections."
     },
     {
-      "title": "2026 Elections: Taiwan tells Meta of China accounts to influence polls",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
-      "source": "Taipei Times",
+      "title": "靑, '시험공정성회복TF' 구성…'AI부정행위 근절' 근본대책 마련",
+      "url": "https://www.yna.co.kr/view/AKR20261120154100001",
+      "source": "연합뉴스",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Elections axis: ahead of the Nov. 28 local elections, Taiwan's government formally flagged about 2,700 Threads accounts to Meta as a suspected Chinese influence campaign that spread more than 2,150 AI-generated videos. It is a new government-to-platform action, separate from the 11-13 police deepfake tally.",
-      "published_iso": "2026-11-21T00:00:00+08:00",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg",
-      "excerpt": "Taiwan flagged nearly 2,700 Threads accounts to Meta as a suspected Chinese influence campaign before the Nov. 28 local elections; internal reports say ~260 accounts spread 2,150+ AI-generated videos with 2.35M interactions. Meta says many were already disabled."
+      "rationale": "Policy axis, new official action: the presidential office expanded its emergency suneung AI-cheating TF into a standing 'Exam Fairness Recovery TF' led by the chief of staff and ordered a central tip-off center under the Prime Minister's office. The president also ordered a full overhaul of national exams. These steps go beyond the 11-18 announcement of post-exam probes with big tech.",
+      "published_iso": "2026-11-20T17:24:18+09:00",
+      "og_image": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
+      "excerpt": "청와대가 수능 직전 꾸린 'AI 악용 부정행위 비상 대응 TF'를 '시험 공정성 회복 TF'(단장 비서실장)로 확대하고, 총리실 주관 중앙제보센터 가동을 지시했다. 같은 날 이 대통령은 국가시험 제도 전면 개편을 주문."
     },
     {
-      "title": "Artificial intelligence (AI) in social care",
-      "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
-      "source": "GOV.UK",
+      "title": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Policy axis, primary document: the UK government published non-statutory guidance for using AI in children's and adults' social care in England, which directly affects vendors and providers building AI tools for the sector.",
-      "published_iso": "2026-11-20T10:00:01+00:00",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "UK government publishes non-statutory guidance on the use of artificial intelligence in children's and adults' social care in England."
+      "rationale": "Geopolitics axis: President Trump said he could impose a 'tremendous tax' on, or ban, US companies that build AI data centers abroad. It is a stated intent from the president, not a written policy, and he said he had not yet run the idea by staff. The card must present it that way. This is the single pick from the BBC/Verge cluster, chosen because The Verge is on the politics whitelist.",
+      "published_iso": "2026-11-20T18:50:19+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "excerpt": "Trump floated a 'tremendous tax' on US companies that build AI data centers overseas, saying he had not run the idea by staff."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china": {
-        "verdict": "follow-up",
-        "nearest": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
-        "new_action": "California Attorney General opened a state investigation and issued a subpoena to Nvidia (new enforcement action by a new authority)."
-      },
-      "https://www.yna.co.kr/view/AKR20261121004500072": {
-        "verdict": "follow-up",
-        "nearest": "https://www.yna.co.kr/view/AKR20261111129300009",
-        "new_action": "Treasury Secretary Bessent announced the summit outcome: US-China leaders agreed to human control over AI military decisions (11-12 card was only a pre-summit preview)."
-      },
-      "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments": {
+      "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
         "new_action": ""
       },
-      "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133": {
+      "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+        "new_action": "CCW Seventh Review Conference adopted its outcome: 128 states agreed a two-year mandate to elaborate an international instrument on lethal autonomous weapons, reporting in 2028. The 11-09 card covered only the pre-conference push by Russia and the US to block binding rules."
+      },
+      "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868134": {
         "verdict": "new",
-        "nearest": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867622",
+        "nearest": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
         "new_action": ""
       },
-      "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care": {
+      "https://www.yna.co.kr/view/AKR20261120154100001": {
+        "verdict": "follow-up",
+        "nearest": "https://www.etnews.com/20261117000355",
+        "new_action": "Presidential office upgraded the emergency TF into the standing 'Exam Fairness Recovery TF' under the chief of staff, ordered a PM-office central tip-off center, and the president ordered a full overhaul of national exams."
+      },
+      "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
         "new_action": ""
       }
     },
-    "note": "Dropped: Taipei Times 'Probe opened over Nvidia influence' (House letter to Lutnick). The brief allows at most one card from the Nvidia/Megaspeed pair, and the California AG subpoena is the stronger formal action. Not picked on scope/strength: Trump 'tremendous tax' on foreign AI data centers (an off-hand statement, no order, not yet run by staff), the EC AI-assisted cyberattack (incident, no policy action), China AI agents 0-day (vendor threat report, not government), and Senate Democrats' nudify-app letters to Apple/Google (oldest item, 11-18; first fallback if a pick is swapped, followed by the Trump data-center statement). No candidate URL matched the politics history_digest. All picks were published 11-19 or later, after the previous run. I could not exact-grep published_urls.json across sections from this agent (Read-only tools), so the orchestrator should run that check before roll. Outlets: 5 distinct (Guardian, Yonhap, Federal Register, Taipei Times, GOV.UK)."
+    "note": "Dropped as same story: BBC 'Trump threatens ban on US firms building AI data centres overseas' (cluster c2, same statement as The Verge pick); Yonhap 'AI 커닝 추적, 빅테크 협조' (restates the 11-18 etnews post-exam big-tech probe, so it adds no new action); Tencent GPU-ban reaction (reaction to the rule covered 11-17 by Ars Technica). Not picked on scope or strength: The Register 'China attackers AI agents 0-day' (vendor disclosure tied to the 11-17 FBI/AWS card), Yonhap university hacking/ARTEX (security-firm analysis, not a government action), The Register EC AI-assisted cyberattack (an incident with no policy action; first fallback if a pick is swapped), IAPP ADMT column (analysis), Tech Policy Press AI-and-elections roundup (research roundup), etnews Lee at the Ulsan SK AI datacenter (site visit, no new document). Only the five picks above were checked against the 30-day politics history_digest; no pick shares a URL with it. Cross-section exact-grep of published_urls.json was not possible here (Read-only tools; the file is large), so the orchestrator should grep the 5 pick URLs before roll. Outlets: 5 distinct (House Select Committee, POLITICO Europe, Taipei Times, Yonhap, The Verge)."
   }
 }

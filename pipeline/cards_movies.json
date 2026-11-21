@@ -1,167 +1,623 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "movies",
   "cards": [
     {
-      "id": "buchwald-kinison-ai-avatar",
+      "id": "fincher-cliff-booth-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sam Kinison·AI\nBuchwald와 계약",
-      "body": "Buchwald가 故 Sam Kinison 유족과 AI 아바타를 고객으로 맞았다.",
-      "mini_headline": "Buchwald, Kinison AI 아바타 계약",
+      "headline": "Fincher, AI 옹호\nCliff Booth 논란",
+      "body": "화면 속 생성 AI 지적에 David Fincher는 존재하니 써야 한다고 답했다.",
+      "mini_headline": "Fincher, 생성 AI 옹호",
+      "tool": "Movies",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+            "cap": "David Fincher가 'The Further Mis-Adventures of Cliff Booth'를 둘러싼 비판에도 화면 속 Gen AI 사용을 옹호했다."
+          },
+          {
+            "t": "p",
+            "x": "The Further Mis-Adventures of Cliff Booth는 Hollywood의 옛 시절을 향한 향수가 짙은 영화다. 그래도 David Fincher는 자신이 미래 편에 서 있다고 말한다."
+          },
+          {
+            "t": "p",
+            "x": "Quentin Tarantino가 각본을 쓴 Once Upon a Time in Hollywood(2019)의 속편이 화면에 Gen AI를 쓴 것으로 보인다는 비판이 잇따르자 Oscar 후보에 3번 오른 감독이 최근 빠르게 커 가는 이 기술을 두고 입을 열었다."
+          },
+          {
+            "t": "p",
+            "x": "“나는 러다이트(Luddite)가 아니어서 미지의 것을 두려워하지 않는다.” Fincher는 Los Angeles Times에 이렇게 말하며 “어쨌든 그것은 존재한다. 그런데 쓰지 말아야 하나?”라고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "발언이 나온 건 여러 팬이 소셜미디어에서 영화 속 AI 사용을 두고 “터무니없을 만큼 놀랍다”고 비판하던 무렵이다. 한 관객은 “Cliff Booth를 보고 완전히 낙담한 채 극장을 나왔다”고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Once Upon a Time…의 여덟 해 뒤인 1977년이 배경인 The Further Mis-Adventures of Cliff Booth는 Brad Pitt가 연기한 동명의 스턴트맨을 따라간다. 지금은 영사기사로 일하면서 Hollywood 해결사 노릇을 부업으로 하는 그가 필리핀 갱단과 도난당한 Oscar 트로피가 얽힌 음모에 휘말린다."
+          },
+          {
+            "t": "p",
+            "x": "The Further Mis-Adventures of Cliff Booth는 추수감사절에 Imax에서 먼저 상영한 뒤 12월 23일 Netflix로 공개된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Fincher defends gen AI\nin Netflix's Cliff Booth",
+          "body": "Facing claims of visible generative AI on screen, David Fincher said it exists, so filmmakers should use it.",
+          "mini_headline": "Fincher defends gen AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "David Fincher defends onscreen use of Gen AI amid criticism of 'The Further Mis-Adventures of Cliff Booth'."
+              },
+              {
+                "t": "p",
+                "x": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future."
+              },
+              {
+                "t": "p",
+                "x": "While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the rapidly growing tech."
+              },
+              {
+                "t": "p",
+                "x": "“I’m not a Luddite, so I don’t fear the unknown,” Fincher told the Los Angeles Times. Fincher added, “Well, it exists. Should we not use it?”"
+              },
+              {
+                "t": "p",
+                "x": "The comments come as several fans have taken to social media to criticize the apparent use of AI in the film as “astounding to an absurd degree,” with one viewer saying they “walked out of Cliff Booth completely gutted.”"
+              },
+              {
+                "t": "p",
+                "x": "Set in 1977, eight years after Once Upon a Time…, The Further Mis-Adventures of Cliff Booth follows Brad Pitt’s eponymous stuntman, now a projectionist who moonlights as a Hollywood fixer, getting caught up in a conspiracy that involves a Filipino gang and a stolen Oscar."
+              },
+              {
+                "t": "p",
+                "x": "Premiering Thanksgiving on Imax, The Further Mis-Adventures of Cliff Booth premieres Dec. 23 on Netflix."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Fincher, AI 옹호\nCliff Booth 논란",
+          "body": "화면 속 생성 AI 지적에 David Fincher는 존재하니 써야 한다고 답했다.",
+          "mini_headline": "Fincher, 생성 AI 옹호",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "David Fincher가 'The Further Mis-Adventures of Cliff Booth'를 둘러싼 비판에도 화면 속 Gen AI 사용을 옹호했다."
+              },
+              {
+                "t": "p",
+                "x": "The Further Mis-Adventures of Cliff Booth는 Hollywood의 옛 시절을 향한 향수가 짙은 영화다. 그래도 David Fincher는 자신이 미래 편에 서 있다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Quentin Tarantino가 각본을 쓴 Once Upon a Time in Hollywood(2019)의 속편이 화면에 Gen AI를 쓴 것으로 보인다는 비판이 잇따르자 Oscar 후보에 3번 오른 감독이 최근 빠르게 커 가는 이 기술을 두고 입을 열었다."
+              },
+              {
+                "t": "p",
+                "x": "“나는 러다이트(Luddite)가 아니어서 미지의 것을 두려워하지 않는다.” Fincher는 Los Angeles Times에 이렇게 말하며 “어쨌든 그것은 존재한다. 그런데 쓰지 말아야 하나?”라고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "발언이 나온 건 여러 팬이 소셜미디어에서 영화 속 AI 사용을 두고 “터무니없을 만큼 놀랍다”고 비판하던 무렵이다. 한 관객은 “Cliff Booth를 보고 완전히 낙담한 채 극장을 나왔다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Once Upon a Time…의 여덟 해 뒤인 1977년이 배경인 The Further Mis-Adventures of Cliff Booth는 Brad Pitt가 연기한 동명의 스턴트맨을 따라간다. 지금은 영사기사로 일하면서 Hollywood 해결사 노릇을 부업으로 하는 그가 필리핀 갱단과 도난당한 Oscar 트로피가 얽힌 음모에 휘말린다."
+              },
+              {
+                "t": "p",
+                "x": "The Further Mis-Adventures of Cliff Booth는 추수감사절에 Imax에서 먼저 상영한 뒤 12월 23일 Netflix로 공개된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Fincher、生成AI擁護\nCliff Booth巡り",
+          "body": "画面の生成AI指摘に、David Fincherは存在する以上使うべきだと述べた。",
+          "mini_headline": "Fincher、生成AIを擁護",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "『The Further Mis-Adventures of Cliff Booth』への批判の中、David Fincherは画面上でのGen AI使用を擁護した。"
+              },
+              {
+                "t": "p",
+                "x": "The Further Mis-Adventures of Cliff BoothはHollywoodの過去への郷愁に満ちているが、David Fincherは自らが未来を体現していると主張する。"
+              },
+              {
+                "t": "p",
+                "x": "Quentin Tarantinoが脚本を手がけたOnce Upon a Time in Hollywood（2019）の続編は、画面上でGen AIを使ったとみられる点で多くの批判を受けている。Oscarに3度ノミネートされたこの監督は、急成長するこの技術について最近考えを語った。"
+              },
+              {
+                "t": "p",
+                "x": "「私はラッダイト（Luddite）ではないので、未知のものを恐れない」とFincherはLos Angeles Timesに語った。さらに「まあ、それは存在する。使わないでおくべきか？」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、複数のファンがSNSで本作のAI使用を「ばかげたほど驚くべきもの」と批判する中で出たものだ。ある観客は「Cliff Boothを見終えて、すっかり打ちのめされて劇場を出た」と書いた。"
+              },
+              {
+                "t": "p",
+                "x": "Once Upon a Time…の八年後、1977年を舞台にしたThe Further Mis-Adventures of Cliff Boothは、Brad Pitt演じる同名のスタントマンを追う。今は映写技師として働き、Hollywoodのフィクサーを副業とする彼は、フィリピン人ギャングと盗まれたOscar像が絡む陰謀に巻き込まれる。"
+              },
+              {
+                "t": "p",
+                "x": "感謝祭にImaxで先行公開されるThe Further Mis-Adventures of Cliff Boothは、12月23日にNetflixで配信される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Fincher力挺生成式AI\nCliff Booth争议",
+          "body": "面对银幕上明显使用生成式AI的指责，David Fincher称它既然存在就该用。",
+          "mini_headline": "Fincher力挺生成式AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "在《The Further Mis-Adventures of Cliff Booth》遭到批评之际，David Fincher为片中使用Gen AI辩护。"
+              },
+              {
+                "t": "p",
+                "x": "尽管The Further Mis-Adventures of Cliff Booth充满对Hollywood往昔的怀旧，David Fincher却自称代表未来。"
+              },
+              {
+                "t": "p",
+                "x": "这部由Quentin Tarantino编剧的Once Upon a Time in Hollywood（2019）续集，因银幕上疑似使用Gen AI而饱受批评；这位3次获Oscar提名的导演近日谈及了对这项快速发展技术的看法。"
+              },
+              {
+                "t": "p",
+                "x": "“我不是卢德分子（Luddite），所以我不惧怕未知，”Fincher对Los Angeles Times说。他补充道：“它已经存在了。难道我们不该用它吗？”"
+              },
+              {
+                "t": "p",
+                "x": "此番言论发表之际，多名影迷在社交媒体上批评片中明显使用AI“令人震惊到荒谬的程度”，一名观众称自己“看完Cliff Booth后彻底心碎地离场”。"
+              },
+              {
+                "t": "p",
+                "x": "影片设定在1977年，即Once Upon a Time…八年之后。The Further Mis-Adventures of Cliff Booth讲述Brad Pitt饰演的同名特技替身，如今当上放映员、兼职做Hollywood“救火员”，卷入一起涉及菲律宾帮派和一座被盗Oscar奖杯的阴谋。"
+              },
+              {
+                "t": "p",
+                "x": "The Further Mis-Adventures of Cliff Booth将于感恩节在Imax首映，12月23日登陆Netflix。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fincher defiende usar AI\nen Cliff Booth, de Netflix",
+          "body": "Ante críticas por AI generativa visible en pantalla, David Fincher dijo que existe y que los cineastas deben usarla.",
+          "mini_headline": "Fincher defiende la AI generativa",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "David Fincher defiende el uso en pantalla de Gen AI ante las críticas a 'The Further Mis-Adventures of Cliff Booth'."
+              },
+              {
+                "t": "p",
+                "x": "Aunque The Further Mis-Adventures of Cliff Booth está impregnada de nostalgia por el pasado de Hollywood, David Fincher afirma representar el futuro."
+              },
+              {
+                "t": "p",
+                "x": "Mientras muchos critican la secuela de Once Upon a Time in Hollywood (2019), escrita por Quentin Tarantino, por el aparente uso de Gen AI en pantalla, el director, nominado 3 veces al Oscar, compartió hace poco su opinión sobre esta tecnología en rápido crecimiento."
+              },
+              {
+                "t": "p",
+                "x": "“No soy un ludita (Luddite), así que no temo a lo desconocido”, dijo Fincher a Los Angeles Times. Y añadió: “Bueno, existe. ¿Acaso no deberíamos usarla?”"
+              },
+              {
+                "t": "p",
+                "x": "Los comentarios llegan mientras varios fans critican en redes sociales el aparente uso de AI en la película como “asombroso hasta un grado absurdo”, y un espectador dijo que “salió de Cliff Booth completamente destrozado”."
+              },
+              {
+                "t": "p",
+                "x": "Ambientada en 1977, ocho años después de Once Upon a Time…, The Further Mis-Adventures of Cliff Booth sigue al doble de acción que da título al filme, interpretado por Brad Pitt, ahora proyeccionista y solucionador de problemas en Hollywood en sus ratos libres, envuelto en una conspiración con una banda filipina y un Oscar robado."
+              },
+              {
+                "t": "p",
+                "x": "Tras su estreno en Imax por el Día de Acción de Gracias, The Further Mis-Adventures of Cliff Booth llega a Netflix el 23 de diciembre."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Fincher, AI 옹호\nCliff Booth 논란",
+          "body": "화면 속 생성 AI 지적에 David Fincher는 존재하니 써야 한다고 말했다.",
+          "mini_headline": "Fincher, 생성 AI 옹호",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "David Fincher가 'The Further Mis-Adventures of Cliff Booth'를 둘러싼 비판 속에 화면 속 Gen AI 사용을 옹호했다."
+              },
+              {
+                "t": "p",
+                "x": "The Further Mis-Adventures of Cliff Booth는 Hollywood의 과거를 향한 향수로 가득하지만, David Fincher는 자신이 미래를 대변한다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Quentin Tarantino가 각본을 쓴 Once Upon a Time in Hollywood(2019)의 속편이 화면에 Gen AI를 쓴 것으로 보인다는 비판이 잇따르는 가운데, Oscar 후보에 3번 오른 이 감독이 최근 빠르게 성장하는 이 기술에 대한 생각을 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“나는 러다이트(Luddite)가 아니어서 미지의 것을 두려워하지 않는다.” Fincher는 Los Angeles Times에 이렇게 말했다. 그는 “어쨌든 그것은 존재한다. 그런데 쓰지 말아야 하나?”라고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이 발언은 여러 팬이 소셜미디어에서 영화 속 AI 사용이 “터무니없을 만큼 놀랍다”고 비판하는 가운데 나왔다. 한 관객은 “Cliff Booth를 보고 완전히 낙담한 채 극장을 나왔다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Once Upon a Time…으로부터 여덟 해 뒤인 1977년을 배경으로 한 The Further Mis-Adventures of Cliff Booth는 Brad Pitt가 연기한 동명의 스턴트맨을 따라간다. 지금은 영사기사로 일하며 Hollywood의 해결사로 부업을 하는 그는 필리핀 갱단과 도난당한 Oscar 트로피가 얽힌 음모에 휘말린다."
+              },
+              {
+                "t": "p",
+                "x": "추수감사절에 Imax에서 먼저 공개되는 The Further Mis-Adventures of Cliff Booth는 12월 23일 Netflix에서 공개된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Fincher、生成AI擁護\nCliff Booth巡り",
+          "body": "画面の生成AI指摘に、David Fincherは存在する以上使うべきだと述べた。",
+          "mini_headline": "Fincher、生成AIを擁護",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "『The Further Mis-Adventures of Cliff Booth』への批判の中、David Fincherは画面上でのGen AI使用を擁護した。"
+              },
+              {
+                "t": "p",
+                "x": "The Further Mis-Adventures of Cliff BoothはHollywoodの過去への郷愁に満ちているが、David Fincherは自らが未来を体現していると主張する。"
+              },
+              {
+                "t": "p",
+                "x": "Quentin Tarantinoが脚本を手がけたOnce Upon a Time in Hollywood（2019）の続編は、画面上でGen AIを使ったとみられる点で多くの批判を受けている。Oscarに3度ノミネートされたこの監督は、急成長するこの技術について最近考えを語った。"
+              },
+              {
+                "t": "p",
+                "x": "「私はラッダイト（Luddite）ではないので、未知のものを恐れない」とFincherはLos Angeles Timesに語った。さらに「まあ、それは存在する。使わないでおくべきか？」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、複数のファンがSNSで本作のAI使用を「ばかげたほど驚くべきもの」と批判する中で出たものだ。ある観客は「Cliff Boothを見終えて、すっかり打ちのめされて劇場を出た」と書いた。"
+              },
+              {
+                "t": "p",
+                "x": "Once Upon a Time…の八年後、1977年を舞台にしたThe Further Mis-Adventures of Cliff Boothは、Brad Pitt演じる同名のスタントマンを追う。今は映写技師として働き、Hollywoodのフィクサーを副業とする彼は、フィリピン人ギャングと盗まれたOscar像が絡む陰謀に巻き込まれる。"
+              },
+              {
+                "t": "p",
+                "x": "感謝祭にImaxで先行公開されるThe Further Mis-Adventures of Cliff Boothは、12月23日にNetflixで配信される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Fincher力挺生成式AI\nCliff Booth争议",
+          "body": "面对银幕上明显使用生成式AI的指责，David Fincher称它既然存在就该用。",
+          "mini_headline": "Fincher力挺生成式AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "在《The Further Mis-Adventures of Cliff Booth》遭到批评之际，David Fincher为片中使用Gen AI辩护。"
+              },
+              {
+                "t": "p",
+                "x": "尽管The Further Mis-Adventures of Cliff Booth充满对Hollywood往昔的怀旧，David Fincher却自称代表未来。"
+              },
+              {
+                "t": "p",
+                "x": "这部由Quentin Tarantino编剧的Once Upon a Time in Hollywood（2019）续集，因银幕上疑似使用Gen AI而饱受批评；这位3次获Oscar提名的导演近日谈及了对这项快速发展技术的看法。"
+              },
+              {
+                "t": "p",
+                "x": "“我不是卢德分子（Luddite），所以我不惧怕未知，”Fincher对Los Angeles Times说。他补充道：“它已经存在了。难道我们不该用它吗？”"
+              },
+              {
+                "t": "p",
+                "x": "此番言论发表之际，多名影迷在社交媒体上批评片中明显使用AI“令人震惊到荒谬的程度”，一名观众称自己“看完Cliff Booth后彻底心碎地离场”。"
+              },
+              {
+                "t": "p",
+                "x": "影片设定在1977年，即Once Upon a Time…八年之后。The Further Mis-Adventures of Cliff Booth讲述Brad Pitt饰演的同名特技替身，如今当上放映员、兼职做Hollywood“救火员”，卷入一起涉及菲律宾帮派和一座被盗Oscar奖杯的阴谋。"
+              },
+              {
+                "t": "p",
+                "x": "The Further Mis-Adventures of Cliff Booth将于感恩节在Imax首映，12月23日登陆Netflix。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fincher defiende usar AI\nen Cliff Booth, de Netflix",
+          "body": "Ante críticas por AI generativa visible en pantalla, David Fincher dijo que existe y que los cineastas deben usarla.",
+          "mini_headline": "Fincher defiende la AI generativa",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+                "cap": "David Fincher defiende el uso en pantalla de Gen AI ante las críticas a 'The Further Mis-Adventures of Cliff Booth'."
+              },
+              {
+                "t": "p",
+                "x": "Aunque The Further Mis-Adventures of Cliff Booth está impregnada de nostalgia por el pasado de Hollywood, David Fincher afirma representar el futuro."
+              },
+              {
+                "t": "p",
+                "x": "Mientras muchos critican la secuela de Once Upon a Time in Hollywood (2019), escrita por Quentin Tarantino, por el aparente uso de Gen AI en pantalla, el director, nominado 3 veces al Oscar, compartió hace poco su opinión sobre esta tecnología en rápido crecimiento."
+              },
+              {
+                "t": "p",
+                "x": "“No soy un ludita (Luddite), así que no temo a lo desconocido”, dijo Fincher a Los Angeles Times. Y añadió: “Bueno, existe. ¿Acaso no deberíamos usarla?”"
+              },
+              {
+                "t": "p",
+                "x": "Los comentarios llegan mientras varios fans critican en redes sociales el aparente uso de AI en la película como “asombroso hasta un grado absurdo”, y un espectador dijo que “salió de Cliff Booth completamente destrozado”."
+              },
+              {
+                "t": "p",
+                "x": "Ambientada en 1977, ocho años después de Once Upon a Time…, The Further Mis-Adventures of Cliff Booth sigue al doble de acción que da título al filme, interpretado por Brad Pitt, ahora proyeccionista y solucionador de problemas en Hollywood en sus ratos libres, envuelto en una conspiración con una banda filipina y un Oscar robado."
+              },
+              {
+                "t": "p",
+                "x": "Tras su estreno en Imax por el Día de Acción de Gracias, The Further Mis-Adventures of Cliff Booth llega a Netflix el 23 de diciembre."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "caa-lourd-no-fakes-act",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "CAA 대표 Lourd\nNO FAKES법 촉구",
+      "body": "CAA의 Bryan Lourd는 의회에 NO FAKES Act 통과를 촉구했다.",
+      "mini_headline": "CAA, NO FAKES Act 지지",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233/",
-      "accent": "#0070f3",
+      "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/",
+      "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+            "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+            "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
           },
           {
             "t": "p",
-            "x": "Buchwald가 스탠드업 코미디언 Sam Kinison의 유족 측과 계약하고 그의 이름과 초상으로 새 사업 기회를 찾는다. Kinison은 1992년 교통사고로 38세에 세상을 떠났다. 핵심은 AI 플랫폼 Uare.AI가 구동하는 Kinison의 AI 아바타다. Kinison 모델을 개발한 이 회사는 LivePerson 창업자 Rob LoCascio가 세웠다. Buchwald는 이 모델로 고인의 활동 기회를 “여러 분야에 걸쳐” “넓힐” 수 있다고 했다. 아바타를 쓸 곳은 Kinison의 형제이자 전 매니저인 Bill Kinison과 함께 찾는 중이다."
+            "x": "Creative Arts Agency CEO Bryan Lourd는 토요일 New York Times 오피니언 기고에서 무단 AI 딥페이크를 규제하는 NO FAKES Act를 통과시켜 달라고 의회에 요구했다. 그는 “우리 모두 원치 않는 초상 사용을 거부할 권리를 가져야 한다”고 썼다."
           },
           {
             "t": "p",
-            "x": "“Sam은 언제나 코미디와 엔터테인먼트의 최전선에 있었다. Uare.ai의 뛰어난 작업과 Buchwald 에이전시의 비전으로 우리는 내 형제의 유산을 이어 가겠다는 약속을 지키고 있다.” Bill Kinison은 성명에서 이렇게 말했다."
+            "x": "그는 “나는 글로벌 탤런트 에이전시를 운영한다. 고객이 자신의 초상과 연기를 라이선스하도록 돕는 것도 우리 일이고, 때로는 그 상대가 AI 기업이다”라고 썼다. “의회에 계류 중인 이 법안은 업계에 필요한 것을 담고 있으며 모든 미국인을 보호할 것이다”라는 말도 보탰다."
           },
           {
             "t": "p",
-            "x": "생존 여부와 상관없이 유명인들이 AI로 이름·목소리·초상을 수익화하는 흐름 속에서 나온 계약이다. Michael Caine은 Stan Lee와 Judy Garland의 유족 측에 이어 ElevenLabs에 목소리 사용권을 내줬다. Val Kilmer의 유족 측은 그의 모습을 “As Deep As the Grave”에 싣는 대가를 받았다. “The View” 공동 진행자 Sunny Hostin도 올여름 AI 스타트업 Fountain 0에 초상 사용권을 내줬다."
+            "x": "Lourd는 2023년 Tom Hanks가 겪은 일을 예로 들었다. 한 치과가 젊은 시절 그의 모습을 AI 딥페이크로 만들어 광고에 썼다며 팔로워들에게 경고한 일이다. 그는 “빠진 것은 AI 시대에 그 권리를 분명히 확인하는 명확한 규칙이며, 의회는 올해가 가기 전에 이를 마련할 수 있다”고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "CAA는 Cate Blanchett이 지원하는 Human Consent Foundation과 손잡고, AI 모델이 초상을 수집할 때 사람들이 사용 허락을 직접 관리하도록 돕는다. New York Times가 OpenAI를 상대로 낸 소송에서는 법정 조언자 의견서에 이름을 올렸다."
+          },
+          {
+            "t": "p",
+            "x": "NO FAKES Act 지지 진영에는 SAG-AFTRA, Motion Picture Association, RIAA, Recording Academy, National Association of Broadcasters, OpenAI, AFL-CIO, YouTube, IBM 등이 이름을 올렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Buchwald signs Sam Kinison\nand his AI avatar",
-          "body": "Talent agency Buchwald has signed late comic Sam Kinison's estate and his AI avatar to develop new business.",
-          "mini_headline": "Buchwald signs Kinison avatar",
+          "headline": "CAA's Bryan Lourd urges\nCongress to pass NO FAKES",
+          "body": "CAA's Bryan Lourd urged Congress to pass the NO FAKES Act, a federal digital-replica right he says protects everyone.",
+          "mini_headline": "CAA backs NO FAKES Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwald has signed the estate of stand-up comedian Sam Kinison, who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness. Enter Kinison’s AI avatar, powered by the AI platform Uare.AI. The company, founded by LivePerson founder Rob LoCascio, has developed a model of Kinison, which Buchwald says can be used to “expand opportunities” for the late comedian “across multiple verticals.” The agency is working with Kinison’s brother and former manager, Bill Kinison, to figure out places the avatar could be deployed."
+                "x": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate unauthorized AI deepfakes, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of our likeness.”"
               },
               {
                 "t": "p",
-                "x": "“Sam was always on the cutting-edge of comedy and entertainment, and with the genius of Uare.ai’s work and the Buchwald agency’s vision, we’re keeping the promise of my brother’s legacy alive,” Bill Kinison said in a statement."
+                "x": "“I run a global talent agency. Part of our job is to help our clients license their likenesses and performances, sometimes to AI companies,” he wrote. “The bill pending in Congress delivers what the industry needs and what will protect all Americans.”"
               },
               {
                 "t": "p",
-                "x": "The licensing comes as celebrities, living and dead, monetize their name, voice and likeness through AI: Michael Caine joined the estates of Stan Lee and Judy Garland in licensing his voice to ElevenLabs, and Val Kilmer’s estate was paid for his likeness to appear in “As Deep As the Grave.” “The View” co-host Sunny Hostin licensed her likeness this summer to AI startup Fountain 0."
+                "x": "Lourd cited Tom Hanks, who warned his followers in 2023 about a dental office using an AI deepfake of a younger version of him in an ad. “What’s missing is a bright-line rule affirming that right in the AI age, and it is one Congress can supply before the year is out,” Lourd wrote."
+              },
+              {
+                "t": "p",
+                "x": "CAA has worked with the Cate Blanchett-backed Human Consent Foundation to help people control permissions for their likenesses if they’re scraped by AI models, and joined an amicus brief in the New York Times’ lawsuit against OpenAI."
+              },
+              {
+                "t": "p",
+                "x": "Other backers of the NO FAKES Act include SAG-AFTRA, the Motion Picture Association, the RIAA, the Recording Academy, the National Association of Broadcasters, OpenAI, the AFL-CIO, YouTube and IBM."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sam Kinison·AI\nBuchwald와 계약",
-          "body": "Buchwald가 故 Sam Kinison 유족과 AI 아바타를 고객으로 맞았다.",
-          "mini_headline": "Buchwald, Kinison AI 아바타 계약",
+          "headline": "CAA 대표 Lourd\nNO FAKES법 촉구",
+          "body": "CAA의 Bryan Lourd는 의회에 NO FAKES Act 통과를 촉구했다.",
+          "mini_headline": "CAA, NO FAKES Act 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwald가 스탠드업 코미디언 Sam Kinison의 유족 측과 계약하고 그의 이름과 초상으로 새 사업 기회를 찾는다. Kinison은 1992년 교통사고로 38세에 세상을 떠났다. 핵심은 AI 플랫폼 Uare.AI가 구동하는 Kinison의 AI 아바타다. Kinison 모델을 개발한 이 회사는 LivePerson 창업자 Rob LoCascio가 세웠다. Buchwald는 이 모델로 고인의 활동 기회를 “여러 분야에 걸쳐” “넓힐” 수 있다고 했다. 아바타를 쓸 곳은 Kinison의 형제이자 전 매니저인 Bill Kinison과 함께 찾는 중이다."
+                "x": "Creative Arts Agency CEO Bryan Lourd는 토요일 New York Times 오피니언 기고에서 무단 AI 딥페이크를 규제하는 NO FAKES Act를 통과시켜 달라고 의회에 요구했다. 그는 “우리 모두 원치 않는 초상 사용을 거부할 권리를 가져야 한다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "“Sam은 언제나 코미디와 엔터테인먼트의 최전선에 있었다. Uare.ai의 뛰어난 작업과 Buchwald 에이전시의 비전으로 우리는 내 형제의 유산을 이어 가겠다는 약속을 지키고 있다.” Bill Kinison은 성명에서 이렇게 말했다."
+                "x": "그는 “나는 글로벌 탤런트 에이전시를 운영한다. 고객이 자신의 초상과 연기를 라이선스하도록 돕는 것도 우리 일이고, 때로는 그 상대가 AI 기업이다”라고 썼다. “의회에 계류 중인 이 법안은 업계에 필요한 것을 담고 있으며 모든 미국인을 보호할 것이다”라는 말도 보탰다."
               },
               {
                 "t": "p",
-                "x": "생존 여부와 상관없이 유명인들이 AI로 이름·목소리·초상을 수익화하는 흐름 속에서 나온 계약이다. Michael Caine은 Stan Lee와 Judy Garland의 유족 측에 이어 ElevenLabs에 목소리 사용권을 내줬다. Val Kilmer의 유족 측은 그의 모습을 “As Deep As the Grave”에 싣는 대가를 받았다. “The View” 공동 진행자 Sunny Hostin도 올여름 AI 스타트업 Fountain 0에 초상 사용권을 내줬다."
+                "x": "Lourd는 2023년 Tom Hanks가 겪은 일을 예로 들었다. 한 치과가 젊은 시절 그의 모습을 AI 딥페이크로 만들어 광고에 썼다며 팔로워들에게 경고한 일이다. 그는 “빠진 것은 AI 시대에 그 권리를 분명히 확인하는 명확한 규칙이며, 의회는 올해가 가기 전에 이를 마련할 수 있다”고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "CAA는 Cate Blanchett이 지원하는 Human Consent Foundation과 손잡고, AI 모델이 초상을 수집할 때 사람들이 사용 허락을 직접 관리하도록 돕는다. New York Times가 OpenAI를 상대로 낸 소송에서는 법정 조언자 의견서에 이름을 올렸다."
+              },
+              {
+                "t": "p",
+                "x": "NO FAKES Act 지지 진영에는 SAG-AFTRA, Motion Picture Association, RIAA, Recording Academy, National Association of Broadcasters, OpenAI, AFL-CIO, YouTube, IBM 등이 이름을 올렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Buchwaldが契約\nSam KinisonとAI",
-          "body": "Buchwaldが故Sam Kinisonの遺産管理団体およびAIアバターと契約した。",
-          "mini_headline": "BuchwaldがKinisonのAIアバターと契約",
+          "headline": "CAAのLourd氏が\n議会にNO FAKES法要請",
+          "body": "CAAのBryan Lourd氏は、議会にNO FAKES Actの可決を求めた。",
+          "mini_headline": "CAA、NO FAKES Actを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwaldは、1992年の自動車事故により38歳で亡くなったスタンダップ・コメディアンSam Kinisonの遺産管理団体と契約し、その名前と肖像をめぐる新たなビジネス機会の開拓に乗り出した。そこで登場するのが、AIプラットフォームUare.AIが動かすKinisonのAIアバターだ。LivePersonの創業者Rob LoCascioが設立した同社はKinisonのモデルを開発しており、Buchwaldによれば、このモデルは故人の機会を「複数の分野にわたって」「広げる」ために使えるという。同エージェンシーはKinisonの兄弟で元マネージャーのBill Kinisonと組み、アバターを展開できる場を探っている。"
+                "x": "Creative Arts AgencyのCEO、Bryan Lourd氏は土曜日、New York Timesのオピニオン欄への寄稿で、無断のAIディープフェイクを規制するNO FAKES Actの可決を議会に求めた。「私たちは誰もが、望まない形で自分の肖像が使われることを拒む権利を持つべきだ」と記した。"
               },
               {
                 "t": "p",
-                "x": "「Samは常にコメディとエンターテインメントの最先端にいた。Uare.aiの見事な仕事とBuchwaldエージェンシーのビジョンによって、私たちは兄弟の遺産を生かし続けるという約束を守っている」とBill Kinisonは声明で述べた。"
+                "x": "「私はグローバルなタレントエージェンシーを経営している。顧客が自らの肖像や演技をライセンスするのを手助けするのも私たちの仕事であり、その相手がAI企業のこともある」と同氏は書いた。「議会で審議中の法案は、業界が必要とするものをもたらし、すべての米国人を守るものだ」"
               },
               {
                 "t": "p",
-                "x": "今回のライセンス契約は、存命・故人を問わず著名人がAIを通じて名前や声、肖像を収益化する流れの中で結ばれた。Michael CaineはStan LeeやJudy Garlandの遺産管理団体と同じくElevenLabsに声をライセンスし、Val Kilmerの遺産管理団体は彼の肖像が「As Deep As the Grave」に登場することへの対価を受け取った。「The View」の共同司会者Sunny Hostinは今夏、AIスタートアップFountain 0に自らの肖像をライセンスした。"
+                "x": "Lourd氏は、2023年に歯科医院が若い頃の自分のAIディープフェイクを広告に使っているとフォロワーに警告したTom Hanksを例に挙げた。「欠けているのは、AI時代にその権利を確認する明確なルールであり、議会は年内にそれを用意できる」と書いた。"
+              },
+              {
+                "t": "p",
+                "x": "CAAはCate Blanchettが支援するHuman Consent Foundationと協力し、AIモデルに肖像を収集された場合に本人が利用許可を管理できるよう支援してきた。また、New York TimesがOpenAIを相手取った訴訟ではアミカス・ブリーフに加わった。"
+              },
+              {
+                "t": "p",
+                "x": "NO FAKES Actの支持者には、SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube、IBMなどが名を連ねる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Buchwald签下\nSam Kinison及AI",
-          "body": "经纪公司Buchwald签下已故Sam Kinison的遗产及其AI分身，以开拓新业务。",
-          "mini_headline": "Buchwald签下Kinison AI分身",
+          "headline": "CAA的Lourd呼吁国会\n通过NO FAKES法案",
+          "body": "CAA的Bryan Lourd呼吁国会通过NO FAKES Act，称其保护每个人。",
+          "mini_headline": "CAA支持NO FAKES Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwald已签下单口喜剧演员Sam Kinison的遗产管理方，围绕其姓名和肖像开发新的商业机会。Kinison于1992年因车祸去世，年仅38岁。登场的是由AI平台Uare.AI驱动的Kinison AI分身。这家由LivePerson创始人Rob LoCascio创办的公司开发了Kinison的模型，Buchwald表示，该模型可用于“在多个领域”为这位已故喜剧演员“拓展机会”。该经纪公司正与Kinison的兄弟、前经纪人Bill Kinison合作，寻找分身可以落地的场景。"
+                "x": "Creative Arts Agency首席执行官Bryan Lourd周六在New York Times发表评论文章，敦促国会通过旨在规范未经授权AI深度伪造的NO FAKES Act。他写道：“我们每个人都应有权拒绝他人以不受欢迎的方式使用我们的肖像。”"
               },
               {
                 "t": "p",
-                "x": "“Sam始终站在喜剧和娱乐的最前沿。借助Uare.ai的出色工作和Buchwald经纪公司的远见，我们正在兑现让我兄弟的遗产延续下去的承诺。”Bill Kinison在声明中表示。"
+                "x": "“我经营一家全球人才经纪公司。我们的部分工作是帮助客户授权使用他们的肖像和表演，有时授权对象就是AI公司，”他写道。“国会正在审议的这项法案满足了行业所需，也将保护所有美国人。”"
               },
               {
                 "t": "p",
-                "x": "此次授权正值在世和已故名人纷纷借助AI将姓名、声音和肖像变现之际：Michael Caine继Stan Lee和Judy Garland的遗产管理方之后，将自己的声音授权给ElevenLabs；Val Kilmer的遗产管理方因其肖像出现在《As Deep As the Grave》中获得报酬。《The View》联合主持人Sunny Hostin今年夏天将自己的肖像授权给AI初创公司Fountain 0。"
+                "x": "Lourd援引了Tom Hanks的例子：2023年，Tom Hanks曾提醒粉丝，一家牙科诊所在广告中使用了他年轻时的AI深度伪造形象。Lourd写道：“缺少的是一条在AI时代确认这项权利的明确规则，而国会可以在年底前提供。”"
+              },
+              {
+                "t": "p",
+                "x": "CAA曾与Cate Blanchett支持的Human Consent Foundation合作，帮助人们在肖像被AI模型抓取时掌控使用许可，并在New York Times起诉OpenAI一案中加入了法庭之友意见书。"
+              },
+              {
+                "t": "p",
+                "x": "NO FAKES Act的其他支持者包括SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube和IBM。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Buchwald firma a Sam Kinison\ny a su avatar de AI",
-          "body": "La agencia Buchwald firmó con el patrimonio del fallecido cómico Sam Kinison y su avatar de AI para nuevos negocios.",
-          "mini_headline": "Buchwald firma el avatar AI de Kinison",
+          "headline": "Bryan Lourd, de CAA, insta al\nCongreso a aprobar NO FAKES",
+          "body": "Bryan Lourd (CAA) instó al Congreso a aprobar la NO FAKES Act, un derecho federal de réplica digital para todos.",
+          "mini_headline": "CAA respalda la NO FAKES Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwald ha firmado con el patrimonio del comediante de stand-up Sam Kinison, que murió a los 38 años en un accidente de tráfico en 1992, para desarrollar nuevas oportunidades de negocio en torno a su nombre e imagen. Aquí entra el avatar de AI de Kinison, impulsado por la plataforma de AI Uare.AI. La empresa, fundada por Rob LoCascio, fundador de LivePerson, ha desarrollado un modelo de Kinison que, según Buchwald, puede servir para “ampliar las oportunidades” del fallecido cómico “en múltiples sectores”. La agencia trabaja con el hermano y exmánager de Kinison, Bill Kinison, para decidir dónde podría desplegarse el avatar."
+                "x": "El CEO de Creative Arts Agency, Bryan Lourd, instó el sábado al Congreso a aprobar la NO FAKES Act, un proyecto de ley que regularía los deepfakes de AI no autorizados, en una columna de opinión en el New York Times donde escribió que “cada uno de nosotros debería tener derecho a negarse a un uso no deseado de su imagen”."
               },
               {
                 "t": "p",
-                "x": "“Sam siempre estuvo a la vanguardia de la comedia y el entretenimiento, y con el talento del trabajo de Uare.ai y la visión de la agencia Buchwald, mantenemos viva la promesa del legado de mi hermano”, dijo Bill Kinison en un comunicado."
+                "x": "“Dirijo una agencia de talento global. Parte de nuestro trabajo es ayudar a nuestros clientes a licenciar su imagen y sus interpretaciones, a veces a empresas de AI”, escribió. “El proyecto pendiente en el Congreso ofrece lo que la industria necesita y lo que protegerá a todos los estadounidenses”."
               },
               {
                 "t": "p",
-                "x": "La licencia llega en un momento en que celebridades, vivas y fallecidas, monetizan su nombre, voz e imagen a través de la AI: Michael Caine se sumó a los patrimonios de Stan Lee y Judy Garland al licenciar su voz a ElevenLabs, y el patrimonio de Val Kilmer recibió un pago para que su imagen apareciera en “As Deep As the Grave”. Sunny Hostin, copresentadora de “The View”, licenció este verano su imagen a la startup de AI Fountain 0."
+                "x": "Lourd citó a Tom Hanks, quien en 2023 advirtió a sus seguidores sobre una clínica dental que usaba en un anuncio un deepfake de AI de una versión más joven de él. “Lo que falta es una regla clara que afirme ese derecho en la era de la AI, y es algo que el Congreso puede aportar antes de que termine el año”, escribió Lourd."
+              },
+              {
+                "t": "p",
+                "x": "CAA ha colaborado con la Human Consent Foundation, respaldada por Cate Blanchett, para ayudar a las personas a controlar los permisos sobre su imagen si los modelos de AI la recopilan, y se sumó a un escrito amicus en la demanda del New York Times contra OpenAI."
+              },
+              {
+                "t": "p",
+                "x": "Otros partidarios de la NO FAKES Act son SAG-AFTRA, la Motion Picture Association, la RIAA, la Recording Academy, la National Association of Broadcasters, OpenAI, la AFL-CIO, YouTube e IBM."
               }
             ]
           }
@@ -169,105 +625,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sam Kinison·AI\nBuchwald와 계약",
-          "body": "에이전시 Buchwald가 故 Sam Kinison 유족·AI 아바타와 계약했다.",
-          "mini_headline": "Buchwald, Kinison AI 아바타 계약",
+          "headline": "CAA 대표 Lourd\nNO FAKES법 촉구",
+          "body": "CAA의 Bryan Lourd는 의회에 NO FAKES Act 통과를 촉구했다.",
+          "mini_headline": "CAA, NO FAKES Act 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwald가 1992년 교통사고로 38세에 세상을 떠난 스탠드업 코미디언 Sam Kinison의 유족 측과 계약을 맺고, 그의 이름과 초상을 활용한 새 사업 기회를 찾는다. 중심에는 AI 플랫폼 Uare.AI가 구동하는 Kinison의 AI 아바타가 있다. LivePerson 창업자 Rob LoCascio가 세운 이 회사는 Kinison 모델을 개발했고, Buchwald는 이 모델로 고인의 활동 기회를 “여러 분야에 걸쳐” “넓힐” 수 있다고 밝혔다. 에이전시는 Kinison의 형제이자 전 매니저인 Bill Kinison과 함께 아바타를 활용할 곳을 찾고 있다."
+                "x": "Creative Arts Agency CEO Bryan Lourd는 토요일 New York Times 오피니언 기고에서 무단 AI 딥페이크를 규제하는 법안인 NO FAKES Act를 통과시켜 달라고 의회에 촉구하며 “우리 모두 원치 않는 초상 사용을 거부할 권리를 가져야 한다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "“Sam은 언제나 코미디와 엔터테인먼트의 최전선에 있었다. Uare.ai의 뛰어난 작업과 Buchwald 에이전시의 비전으로 우리는 내 형제의 유산을 이어 가겠다는 약속을 지키고 있다.” Bill Kinison은 성명에서 이렇게 말했다."
+                "x": "그는 “나는 글로벌 탤런트 에이전시를 운영한다. 고객이 자신의 초상과 연기를 라이선스하도록 돕는 것도 우리 일이고, 때로는 그 상대가 AI 기업이다”라고 썼다. 이어 “의회에 계류 중인 이 법안은 업계에 필요한 것을 담고 있으며 모든 미국인을 보호할 것이다”라고 했다."
               },
               {
                 "t": "p",
-                "x": "이번 계약은 살아 있든 세상을 떠났든 유명인들이 AI로 이름, 목소리, 초상을 수익화하는 흐름 속에서 나왔다. Michael Caine은 Stan Lee와 Judy Garland의 유족 측에 이어 ElevenLabs에 목소리 사용권을 내줬고, Val Kilmer의 유족 측은 그의 모습이 “As Deep As the Grave”에 등장하는 대가를 받았다. “The View” 공동 진행자 Sunny Hostin은 올여름 AI 스타트업 Fountain 0에 초상 사용권을 내줬다."
+                "x": "Lourd는 2023년 한 치과가 젊은 시절 자신의 모습을 AI 딥페이크로 만들어 광고에 썼다고 팔로워들에게 경고한 Tom Hanks를 예로 들었다. 그는 “빠진 것은 AI 시대에 그 권리를 분명히 확인하는 명확한 규칙이며, 의회는 올해가 가기 전에 이를 마련할 수 있다”고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "CAA는 Cate Blanchett이 지원하는 Human Consent Foundation과 손잡고 AI 모델이 초상을 수집할 경우 사람들이 사용 허락을 직접 관리할 수 있도록 돕고 있으며, OpenAI를 상대로 한 New York Times의 소송에서 법정 조언자 의견서에도 이름을 올렸다."
+              },
+              {
+                "t": "p",
+                "x": "NO FAKES Act를 지지하는 곳으로는 SAG-AFTRA, Motion Picture Association, RIAA, Recording Academy, National Association of Broadcasters, OpenAI, AFL-CIO, YouTube, IBM 등이 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Buchwaldが契約\nSam KinisonとAI",
-          "body": "Buchwaldが故Sam Kinisonの遺産管理団体およびAIアバターと契約した。",
-          "mini_headline": "BuchwaldがKinisonのAIアバターと契約",
+          "headline": "CAAのLourd氏が\n議会にNO FAKES法要請",
+          "body": "CAAのBryan Lourd氏は、議会にNO FAKES Actの可決を求めた。",
+          "mini_headline": "CAA、NO FAKES Actを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwaldは、1992年の自動車事故により38歳で亡くなったスタンダップ・コメディアンSam Kinisonの遺産管理団体と契約し、その名前と肖像をめぐる新たなビジネス機会の開拓に乗り出した。そこで登場するのが、AIプラットフォームUare.AIが動かすKinisonのAIアバターだ。LivePersonの創業者Rob LoCascioが設立した同社はKinisonのモデルを開発しており、Buchwaldによれば、このモデルは故人の機会を「複数の分野にわたって」「広げる」ために使えるという。同エージェンシーはKinisonの兄弟で元マネージャーのBill Kinisonと組み、アバターを展開できる場を探っている。"
+                "x": "Creative Arts AgencyのCEO、Bryan Lourd氏は土曜日、New York Timesのオピニオン欄への寄稿で、無断のAIディープフェイクを規制するNO FAKES Actの可決を議会に求めた。「私たちは誰もが、望まない形で自分の肖像が使われることを拒む権利を持つべきだ」と記した。"
               },
               {
                 "t": "p",
-                "x": "「Samは常にコメディとエンターテインメントの最先端にいた。Uare.aiの見事な仕事とBuchwaldエージェンシーのビジョンによって、私たちは兄弟の遺産を生かし続けるという約束を守っている」とBill Kinisonは声明で述べた。"
+                "x": "「私はグローバルなタレントエージェンシーを経営している。顧客が自らの肖像や演技をライセンスするのを手助けするのも私たちの仕事であり、その相手がAI企業のこともある」と同氏は書いた。「議会で審議中の法案は、業界が必要とするものをもたらし、すべての米国人を守るものだ」"
               },
               {
                 "t": "p",
-                "x": "今回のライセンス契約は、存命・故人を問わず著名人がAIを通じて名前や声、肖像を収益化する流れの中で結ばれた。Michael CaineはStan LeeやJudy Garlandの遺産管理団体と同じくElevenLabsに声をライセンスし、Val Kilmerの遺産管理団体は彼の肖像が「As Deep As the Grave」に登場することへの対価を受け取った。「The View」の共同司会者Sunny Hostinは今夏、AIスタートアップFountain 0に自らの肖像をライセンスした。"
+                "x": "Lourd氏は、2023年に歯科医院が若い頃の自分のAIディープフェイクを広告に使っているとフォロワーに警告したTom Hanksを例に挙げた。「欠けているのは、AI時代にその権利を確認する明確なルールであり、議会は年内にそれを用意できる」と書いた。"
+              },
+              {
+                "t": "p",
+                "x": "CAAはCate Blanchettが支援するHuman Consent Foundationと協力し、AIモデルに肖像を収集された場合に本人が利用許可を管理できるよう支援してきた。また、New York TimesがOpenAIを相手取った訴訟ではアミカス・ブリーフに加わった。"
+              },
+              {
+                "t": "p",
+                "x": "NO FAKES Actの支持者には、SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube、IBMなどが名を連ねる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Buchwald签下\nSam Kinison及AI",
-          "body": "经纪公司Buchwald签下已故Sam Kinison的遗产及其AI分身，以开拓新业务。",
-          "mini_headline": "Buchwald签下Kinison AI分身",
+          "headline": "CAA的Lourd呼吁国会\n通过NO FAKES法案",
+          "body": "CAA的Bryan Lourd呼吁国会通过NO FAKES Act，称其保护每个人。",
+          "mini_headline": "CAA支持NO FAKES Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwald已签下单口喜剧演员Sam Kinison的遗产管理方，围绕其姓名和肖像开发新的商业机会。Kinison于1992年因车祸去世，年仅38岁。登场的是由AI平台Uare.AI驱动的Kinison AI分身。这家由LivePerson创始人Rob LoCascio创办的公司开发了Kinison的模型，Buchwald表示，该模型可用于“在多个领域”为这位已故喜剧演员“拓展机会”。该经纪公司正与Kinison的兄弟、前经纪人Bill Kinison合作，寻找分身可以落地的场景。"
+                "x": "Creative Arts Agency首席执行官Bryan Lourd周六在New York Times发表评论文章，敦促国会通过旨在规范未经授权AI深度伪造的NO FAKES Act。他写道：“我们每个人都应有权拒绝他人以不受欢迎的方式使用我们的肖像。”"
               },
               {
                 "t": "p",
-                "x": "“Sam始终站在喜剧和娱乐的最前沿。借助Uare.ai的出色工作和Buchwald经纪公司的远见，我们正在兑现让我兄弟的遗产延续下去的承诺。”Bill Kinison在声明中表示。"
+                "x": "“我经营一家全球人才经纪公司。我们的部分工作是帮助客户授权使用他们的肖像和表演，有时授权对象就是AI公司，”他写道。“国会正在审议的这项法案满足了行业所需，也将保护所有美国人。”"
               },
               {
                 "t": "p",
-                "x": "此次授权正值在世和已故名人纷纷借助AI将姓名、声音和肖像变现之际：Michael Caine继Stan Lee和Judy Garland的遗产管理方之后，将自己的声音授权给ElevenLabs；Val Kilmer的遗产管理方因其肖像出现在《As Deep As the Grave》中获得报酬。《The View》联合主持人Sunny Hostin今年夏天将自己的肖像授权给AI初创公司Fountain 0。"
+                "x": "Lourd援引了Tom Hanks的例子：2023年，Tom Hanks曾提醒粉丝，一家牙科诊所在广告中使用了他年轻时的AI深度伪造形象。Lourd写道：“缺少的是一条在AI时代确认这项权利的明确规则，而国会可以在年底前提供。”"
+              },
+              {
+                "t": "p",
+                "x": "CAA曾与Cate Blanchett支持的Human Consent Foundation合作，帮助人们在肖像被AI模型抓取时掌控使用许可，并在New York Times起诉OpenAI一案中加入了法庭之友意见书。"
+              },
+              {
+                "t": "p",
+                "x": "NO FAKES Act的其他支持者包括SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube和IBM。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Buchwald firma a Sam Kinison\ny a su avatar de AI",
-          "body": "La agencia Buchwald firmó con el patrimonio del fallecido cómico Sam Kinison y su avatar de AI para nuevos negocios.",
-          "mini_headline": "Buchwald firma el avatar AI de Kinison",
+          "headline": "Bryan Lourd, de CAA, insta al\nCongreso a aprobar NO FAKES",
+          "body": "Bryan Lourd (CAA) instó al Congreso a aprobar la NO FAKES Act, un derecho federal de réplica digital para todos.",
+          "mini_headline": "CAA respalda la NO FAKES Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
+                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
               },
               {
                 "t": "p",
-                "x": "Buchwald ha firmado con el patrimonio del comediante de stand-up Sam Kinison, que murió a los 38 años en un accidente de tráfico en 1992, para desarrollar nuevas oportunidades de negocio en torno a su nombre e imagen. Aquí entra el avatar de AI de Kinison, impulsado por la plataforma de AI Uare.AI. La empresa, fundada por Rob LoCascio, fundador de LivePerson, ha desarrollado un modelo de Kinison que, según Buchwald, puede servir para “ampliar las oportunidades” del fallecido cómico “en múltiples sectores”. La agencia trabaja con el hermano y exmánager de Kinison, Bill Kinison, para decidir dónde podría desplegarse el avatar."
+                "x": "El CEO de Creative Arts Agency, Bryan Lourd, instó el sábado al Congreso a aprobar la NO FAKES Act, un proyecto de ley que regularía los deepfakes de AI no autorizados, en una columna de opinión en el New York Times donde escribió que “cada uno de nosotros debería tener derecho a negarse a un uso no deseado de su imagen”."
               },
               {
                 "t": "p",
-                "x": "“Sam siempre estuvo a la vanguardia de la comedia y el entretenimiento, y con el talento del trabajo de Uare.ai y la visión de la agencia Buchwald, mantenemos viva la promesa del legado de mi hermano”, dijo Bill Kinison en un comunicado."
+                "x": "“Dirijo una agencia de talento global. Parte de nuestro trabajo es ayudar a nuestros clientes a licenciar su imagen y sus interpretaciones, a veces a empresas de AI”, escribió. “El proyecto pendiente en el Congreso ofrece lo que la industria necesita y lo que protegerá a todos los estadounidenses”."
               },
               {
                 "t": "p",
-                "x": "La licencia llega en un momento en que celebridades, vivas y fallecidas, monetizan su nombre, voz e imagen a través de la AI: Michael Caine se sumó a los patrimonios de Stan Lee y Judy Garland al licenciar su voz a ElevenLabs, y el patrimonio de Val Kilmer recibió un pago para que su imagen apareciera en “As Deep As the Grave”. Sunny Hostin, copresentadora de “The View”, licenció este verano su imagen a la startup de AI Fountain 0."
+                "x": "Lourd citó a Tom Hanks, quien en 2023 advirtió a sus seguidores sobre una clínica dental que usaba en un anuncio un deepfake de AI de una versión más joven de él. “Lo que falta es una regla clara que afirme ese derecho en la era de la AI, y es algo que el Congreso puede aportar antes de que termine el año”, escribió Lourd."
+              },
+              {
+                "t": "p",
+                "x": "CAA ha colaborado con la Human Consent Foundation, respaldada por Cate Blanchett, para ayudar a las personas a controlar los permisos sobre su imagen si los modelos de AI la recopilan, y se sumó a un escrito amicus en la demanda del New York Times contra OpenAI."
+              },
+              {
+                "t": "p",
+                "x": "Otros partidarios de la NO FAKES Act son SAG-AFTRA, la Motion Picture Association, la RIAA, la Recording Academy, la National Association of Broadcasters, OpenAI, la AFL-CIO, YouTube e IBM."
               }
             ]
           }
@@ -275,327 +767,15 @@
       }
     },
     {
-      "id": "lemonlight-hero-production-os",
+      "id": "raphael-mbc-ai-feature-review",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Lemonlight, AI\n제작 OS Hero 출시",
-      "body": "Hero는 제작 협업을 한데 묶고 실사·AI-generated 영상까지 고친다.",
-      "mini_headline": "Lemonlight, Hero 출시",
+      "headline": "AI 영화 Raphael\n눈부신 영상, 익숙한 서사",
+      "body": "25일 개봉하는 all-AI 영화 Raphael은 영상은 빼어나도 서사는 익숙하다.",
+      "mini_headline": "AI 영화 Raphael 리뷰",
       "tool": "Movies",
-      "source": "Broadcast",
-      "url": "https://www.broadcastnow.co.uk/tech-innovation/lemonlight-launches-ai-video-production-platform/5222645.article",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Lemonlight가 제작 전 과정의 협업을 돕는 AI-powered 플랫폼 Hero를 내놨다. AI로 콘텐츠를 편집하는 기능도 갖췄다."
-          },
-          {
-            "t": "p",
-            "x": "사용자는 동기화된 허브 하나에서 프로젝트를 관리하고, 대본부터 스토리보드까지 요소마다 승인한다. AI-powered Hero 제작 에이전트는 콘텐츠를 직접 고치기도 한다. 전통 방식으로 찍었든 AI로 만들었든 가리지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "회사가 든 작업 흐름 예시를 보면, 플랫폼은 크리에이티브 브리프를 받아 크리에이티브 트리트먼트와 대본 초안을 쓰고 제공된 참조 사진으로 스토리보드를 만든다. 참조 이미지가 모든 프레임에 이어지니 첫 번째 숏의 배우는 20번째 숏에서도 얼굴이 같고 로고도 흐트러지지 않는다. 장면을 고쳐 쓰면 숏 리스트와 일정도 함께 바뀐다."
-          },
-          {
-            "t": "p",
-            "x": "내부 피치도 예로 들었다. 마케터는 Hero를 대략적인 스토리보드 작업에만 써도 되고, 같은 프로젝트의 감독은 숏마다 렌즈와 조명을 고르는 데까지 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "“AI 덕분에 콘텐츠를 만들기는 쉬워졌지만, 제작은 그 어느 때보다 파편화됐다.” Lemonlight 창업자 겸 CEO Hope Horner의 말이다. “업계에는 서로 연동되지 않는 강력한 새 도구가 넘쳐난다. 고객을 위해 수천 편의 영상을 제작한 뒤, 우리는 AI 도구를 하나 더 만드는 것보다 영상 제작을 위한 단일 운영체제를 만드는 데 진짜 기회가 있다는 것을 깨달았다. Hero는 실사 촬영이든 AI 영상 생성이든 기획부터 납품까지 모든 것을 하나로 묶는다.”"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Lemonlight launches Hero,\nan AI production OS",
-          "body": "Hero unifies production collaboration, and its agent can revise content whether shot traditionally or AI-generated.",
-          "mini_headline": "Lemonlight launches Hero",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlight has launched Hero, an AI-powered platform for collaboration across production that can also edit content with AI."
-              },
-              {
-                "t": "p",
-                "x": "Hero users can manage projects and approve components from scripts to storyboards in a single, synchronised hub. The AI-powered Hero production agent can also make revisions directly to the content, which can be shot traditionally or AI generated."
-              },
-              {
-                "t": "p",
-                "x": "An example workflow given by the company sees the platform draft a creative treatment and script from a creative brief, building a storyboard using provided reference photos. Those references carry through every frame, so an actor in shot one has the same face in shot 20, and logos never drift. If you rewrite a scene, the shot list and schedule update with it."
-              },
-              {
-                "t": "p",
-                "x": "Another example references an internal pitch, where a marketer might limit their use of Hero to a rough storyboard. Alternatively, a director on the same project could go so far as to employ Hero when choosing the lens and lighting for each shot."
-              },
-              {
-                "t": "p",
-                "x": "“AI has made content easier to create, but production more fragmented than ever,” said Hope Horner, Founder and CEO of Lemonlight. “The industry is flooded with powerful new tools that don’t work together. After producing thousands of videos for clients, we realized that, rather than creating another AI tool, the real opportunity was building a single operating system for video production. Hero brings everything together from concept to delivery, whether you’re shooting live action or generating video with AI.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Lemonlight, AI\n제작 OS Hero 출시",
-          "body": "Hero는 제작 협업을 한데 묶고 실사·AI-generated 영상까지 고친다.",
-          "mini_headline": "Lemonlight, Hero 출시",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlight가 제작 전 과정의 협업을 돕는 AI-powered 플랫폼 Hero를 내놨다. AI로 콘텐츠를 편집하는 기능도 갖췄다."
-              },
-              {
-                "t": "p",
-                "x": "사용자는 동기화된 허브 하나에서 프로젝트를 관리하고, 대본부터 스토리보드까지 요소마다 승인한다. AI-powered Hero 제작 에이전트는 콘텐츠를 직접 고치기도 한다. 전통 방식으로 찍었든 AI로 만들었든 가리지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "회사가 든 작업 흐름 예시를 보면, 플랫폼은 크리에이티브 브리프를 받아 크리에이티브 트리트먼트와 대본 초안을 쓰고 제공된 참조 사진으로 스토리보드를 만든다. 참조 이미지가 모든 프레임에 이어지니 첫 번째 숏의 배우는 20번째 숏에서도 얼굴이 같고 로고도 흐트러지지 않는다. 장면을 고쳐 쓰면 숏 리스트와 일정도 함께 바뀐다."
-              },
-              {
-                "t": "p",
-                "x": "내부 피치도 예로 들었다. 마케터는 Hero를 대략적인 스토리보드 작업에만 써도 되고, 같은 프로젝트의 감독은 숏마다 렌즈와 조명을 고르는 데까지 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“AI 덕분에 콘텐츠를 만들기는 쉬워졌지만, 제작은 그 어느 때보다 파편화됐다.” Lemonlight 창업자 겸 CEO Hope Horner의 말이다. “업계에는 서로 연동되지 않는 강력한 새 도구가 넘쳐난다. 고객을 위해 수천 편의 영상을 제작한 뒤, 우리는 AI 도구를 하나 더 만드는 것보다 영상 제작을 위한 단일 운영체제를 만드는 데 진짜 기회가 있다는 것을 깨달았다. Hero는 실사 촬영이든 AI 영상 생성이든 기획부터 납품까지 모든 것을 하나로 묶는다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LemonlightがAI\n制作OS「Hero」発表",
-          "body": "Heroは制作の協業を一元化し、実写もAI-generatedもエージェントが修正できる。",
-          "mini_headline": "LemonlightがHeroを発表",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlightは、制作全体の協業を支えるAI-poweredプラットフォーム「Hero」を発表した。AIでコンテンツを編集することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "Heroのユーザーは、同期されたひとつのハブでプロジェクトを管理し、台本からストーリーボードまでの各要素を承認できる。AI-poweredのHero制作エージェントはコンテンツを直接修正することもでき、対象は従来の方法で撮影したものでもAIで生成したものでもよい。"
-              },
-              {
-                "t": "p",
-                "x": "同社が示したワークフロー例では、プラットフォームがクリエイティブブリーフからクリエイティブトリートメントと台本の草案を作り、提供された参考写真を使ってストーリーボードを組み立てる。参考素材はすべてのフレームに引き継がれるため、最初のショットの俳優は20番目のショットでも同じ顔のままで、ロゴもぶれない。シーンを書き直せば、ショットリストとスケジュールも連動して更新される。"
-              },
-              {
-                "t": "p",
-                "x": "別の例は社内向けのピッチだ。マーケターならHeroの利用を大まかなストーリーボードにとどめるかもしれない。一方、同じプロジェクトの監督は、各ショットのレンズや照明を選ぶ段階までHeroを使うこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "「AIによってコンテンツは作りやすくなったが、制作はかつてないほど分断されている」とLemonlightの創業者兼CEO、Hope Hornerは語る。「業界には、互いに連携しない強力な新ツールがあふれている。クライアントのために何千本もの動画を制作した末に、私たちは新たなAIツールを作るよりも、動画制作のための単一のオペレーティングシステムを築くことにこそ本当の機会があると気づいた。Heroは、実写撮影でもAIによる動画生成でも、構想から納品までのすべてをひとつにまとめる」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lemonlight推出\nAI制作OS Hero",
-          "body": "Hero整合制作协作，其智能体可修改实拍或AI-generated的内容。",
-          "mini_headline": "Lemonlight推出Hero",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlight推出了Hero，这是一个AI-powered平台，可支持整个制作流程中的协作，还能用AI编辑内容。"
-              },
-              {
-                "t": "p",
-                "x": "Hero用户可以在一个同步的统一中心里管理项目，并审批从剧本到故事板的各个环节。AI-powered的Hero制作智能体还可以直接修改内容，无论这些内容是传统拍摄的还是AI生成的。"
-              },
-              {
-                "t": "p",
-                "x": "在公司给出的一个工作流程示例中，平台根据创意简报起草创意方案和剧本，并用提供的参考照片搭建故事板。这些参考贯穿每一帧，因此第一个镜头里的演员到第20个镜头仍是同一张脸，标志也不会走样。如果改写某场戏，镜头清单和拍摄日程也会随之更新。"
-              },
-              {
-                "t": "p",
-                "x": "另一个示例涉及内部提案：营销人员可能只用Hero做粗略的故事板；而同一项目的导演则可以更进一步，在为每个镜头挑选镜头规格和布光时也使用Hero。"
-              },
-              {
-                "t": "p",
-                "x": "“AI让内容创作变得更容易，但制作却比以往任何时候都更加碎片化。”Lemonlight创始人兼CEO Hope Horner表示，“业界充斥着彼此无法协同的强大新工具。在为客户制作了数千条视频之后，我们意识到，真正的机会不是再做一款AI工具，而是打造一个统一的视频制作操作系统。无论是实拍还是用AI生成视频，Hero都能把从构思到交付的一切整合在一起。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lemonlight lanza Hero,\nun OS de producción con AI",
-          "body": "Hero unifica la colaboración en producción y su agente revisa contenido rodado de forma tradicional o AI-generated.",
-          "mini_headline": "Lemonlight lanza Hero",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlight ha lanzado Hero, una plataforma AI-powered para la colaboración en toda la producción que también puede editar contenido con AI."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios de Hero pueden gestionar proyectos y aprobar componentes, desde guiones hasta storyboards, en un único centro sincronizado. El agente de producción de Hero, AI-powered, también puede hacer revisiones directamente en el contenido, ya sea rodado de forma tradicional o generado con AI."
-              },
-              {
-                "t": "p",
-                "x": "En un flujo de trabajo de ejemplo que ofrece la empresa, la plataforma redacta un tratamiento creativo y un guion a partir de un brief creativo, y construye un storyboard con las fotos de referencia proporcionadas. Esas referencias se mantienen en cada fotograma, de modo que un actor en el primer plano tiene la misma cara en el plano 20 y los logotipos nunca varían. Si se reescribe una escena, la lista de planos y el calendario se actualizan con ella."
-              },
-              {
-                "t": "p",
-                "x": "Otro ejemplo alude a una presentación interna, en la que un profesional de marketing podría limitar el uso de Hero a un storyboard preliminar. En cambio, un director del mismo proyecto podría llegar a emplear Hero para elegir el objetivo y la iluminación de cada plano."
-              },
-              {
-                "t": "p",
-                "x": "“La AI ha hecho que el contenido sea más fácil de crear, pero la producción está más fragmentada que nunca”, dijo Hope Horner, fundadora y CEO de Lemonlight. “La industria está inundada de nuevas herramientas potentes que no funcionan entre sí. Tras producir miles de videos para clientes, nos dimos cuenta de que, en lugar de crear otra herramienta de AI, la verdadera oportunidad era construir un único sistema operativo para la producción de video. Hero lo reúne todo, del concepto a la entrega, tanto si se rueda en imagen real como si se genera video con AI”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Lemonlight, AI\n제작 OS Hero 출시",
-          "body": "Hero는 제작 협업을 통합하고 실사·AI-generated 영상을 고친다.",
-          "mini_headline": "Lemonlight, Hero 출시",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlight가 제작 전반의 협업을 위한 AI-powered 플랫폼 Hero를 출시했다. 이 플랫폼은 AI로 콘텐츠를 편집할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Hero 사용자는 하나의 동기화된 허브에서 프로젝트를 관리하고 대본부터 스토리보드까지 각 요소를 승인할 수 있다. AI-powered Hero 제작 에이전트는 콘텐츠를 직접 수정할 수도 있는데, 전통 방식으로 촬영한 콘텐츠든 AI로 생성한 콘텐츠든 상관없다."
-              },
-              {
-                "t": "p",
-                "x": "회사가 제시한 작업 흐름 예시에서 플랫폼은 크리에이티브 브리프를 바탕으로 크리에이티브 트리트먼트와 대본 초안을 쓰고, 제공된 참조 사진으로 스토리보드를 만든다. 참조 이미지는 모든 프레임에 이어지므로 첫 번째 숏의 배우는 20번째 숏에서도 같은 얼굴을 유지하고, 로고도 흐트러지지 않는다. 장면을 고쳐 쓰면 숏 리스트와 일정도 함께 바뀐다."
-              },
-              {
-                "t": "p",
-                "x": "또 다른 예시는 내부 피치다. 마케터는 Hero를 대략적인 스토리보드 작업에만 쓸 수 있다. 반면 같은 프로젝트의 감독은 숏마다 렌즈와 조명을 고르는 데까지 Hero를 활용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“AI 덕분에 콘텐츠를 만들기는 쉬워졌지만, 제작은 그 어느 때보다 파편화됐다.” Lemonlight 창업자 겸 CEO Hope Horner의 말이다. “업계에는 서로 연동되지 않는 강력한 새 도구가 넘쳐난다. 고객을 위해 수천 편의 영상을 제작한 뒤, 우리는 AI 도구를 하나 더 만드는 것보다 영상 제작을 위한 단일 운영체제를 만드는 데 진짜 기회가 있다는 것을 깨달았다. Hero는 실사 촬영이든 AI 영상 생성이든 기획부터 납품까지 모든 것을 하나로 묶는다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LemonlightがAI\n制作OS「Hero」発表",
-          "body": "Heroは制作の協業を一元化し、実写もAI-generatedもエージェントが修正できる。",
-          "mini_headline": "LemonlightがHeroを発表",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlightは、制作全体の協業を支えるAI-poweredプラットフォーム「Hero」を発表した。AIでコンテンツを編集することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "Heroのユーザーは、同期されたひとつのハブでプロジェクトを管理し、台本からストーリーボードまでの各要素を承認できる。AI-poweredのHero制作エージェントはコンテンツを直接修正することもでき、対象は従来の方法で撮影したものでもAIで生成したものでもよい。"
-              },
-              {
-                "t": "p",
-                "x": "同社が示したワークフロー例では、プラットフォームがクリエイティブブリーフからクリエイティブトリートメントと台本の草案を作り、提供された参考写真を使ってストーリーボードを組み立てる。参考素材はすべてのフレームに引き継がれるため、最初のショットの俳優は20番目のショットでも同じ顔のままで、ロゴもぶれない。シーンを書き直せば、ショットリストとスケジュールも連動して更新される。"
-              },
-              {
-                "t": "p",
-                "x": "別の例は社内向けのピッチだ。マーケターならHeroの利用を大まかなストーリーボードにとどめるかもしれない。一方、同じプロジェクトの監督は、各ショットのレンズや照明を選ぶ段階までHeroを使うこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "「AIによってコンテンツは作りやすくなったが、制作はかつてないほど分断されている」とLemonlightの創業者兼CEO、Hope Hornerは語る。「業界には、互いに連携しない強力な新ツールがあふれている。クライアントのために何千本もの動画を制作した末に、私たちは新たなAIツールを作るよりも、動画制作のための単一のオペレーティングシステムを築くことにこそ本当の機会があると気づいた。Heroは、実写撮影でもAIによる動画生成でも、構想から納品までのすべてをひとつにまとめる」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lemonlight推出\nAI制作OS Hero",
-          "body": "Hero整合制作协作，其智能体可修改实拍或AI-generated的内容。",
-          "mini_headline": "Lemonlight推出Hero",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlight推出了Hero，这是一个AI-powered平台，可支持整个制作流程中的协作，还能用AI编辑内容。"
-              },
-              {
-                "t": "p",
-                "x": "Hero用户可以在一个同步的统一中心里管理项目，并审批从剧本到故事板的各个环节。AI-powered的Hero制作智能体还可以直接修改内容，无论这些内容是传统拍摄的还是AI生成的。"
-              },
-              {
-                "t": "p",
-                "x": "在公司给出的一个工作流程示例中，平台根据创意简报起草创意方案和剧本，并用提供的参考照片搭建故事板。这些参考贯穿每一帧，因此第一个镜头里的演员到第20个镜头仍是同一张脸，标志也不会走样。如果改写某场戏，镜头清单和拍摄日程也会随之更新。"
-              },
-              {
-                "t": "p",
-                "x": "另一个示例涉及内部提案：营销人员可能只用Hero做粗略的故事板；而同一项目的导演则可以更进一步，在为每个镜头挑选镜头规格和布光时也使用Hero。"
-              },
-              {
-                "t": "p",
-                "x": "“AI让内容创作变得更容易，但制作却比以往任何时候都更加碎片化。”Lemonlight创始人兼CEO Hope Horner表示，“业界充斥着彼此无法协同的强大新工具。在为客户制作了数千条视频之后，我们意识到，真正的机会不是再做一款AI工具，而是打造一个统一的视频制作操作系统。无论是实拍还是用AI生成视频，Hero都能把从构思到交付的一切整合在一起。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lemonlight lanza Hero,\nun OS de producción con AI",
-          "body": "Hero unifica la colaboración en producción y su agente revisa contenido rodado de forma tradicional o AI-generated.",
-          "mini_headline": "Lemonlight lanza Hero",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lemonlight ha lanzado Hero, una plataforma AI-powered para la colaboración en toda la producción que también puede editar contenido con AI."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios de Hero pueden gestionar proyectos y aprobar componentes, desde guiones hasta storyboards, en un único centro sincronizado. El agente de producción de Hero, AI-powered, también puede hacer revisiones directamente en el contenido, ya sea rodado de forma tradicional o generado con AI."
-              },
-              {
-                "t": "p",
-                "x": "En un flujo de trabajo de ejemplo que ofrece la empresa, la plataforma redacta un tratamiento creativo y un guion a partir de un brief creativo, y construye un storyboard con las fotos de referencia proporcionadas. Esas referencias se mantienen en cada fotograma, de modo que un actor en el primer plano tiene la misma cara en el plano 20 y los logotipos nunca varían. Si se reescribe una escena, la lista de planos y el calendario se actualizan con ella."
-              },
-              {
-                "t": "p",
-                "x": "Otro ejemplo alude a una presentación interna, en la que un profesional de marketing podría limitar el uso de Hero a un storyboard preliminar. En cambio, un director del mismo proyecto podría llegar a emplear Hero para elegir el objetivo y la iluminación de cada plano."
-              },
-              {
-                "t": "p",
-                "x": "“La AI ha hecho que el contenido sea más fácil de crear, pero la producción está más fragmentada que nunca”, dijo Hope Horner, fundadora y CEO de Lemonlight. “La industria está inundada de nuevas herramientas potentes que no funcionan entre sí. Tras producir miles de videos para clientes, nos dimos cuenta de que, en lugar de crear otra herramienta de AI, la verdadera oportunidad era construir un único sistema operativo para la producción de video. Hero lo reúne todo, del concepto a la entrega, tanto si se rueda en imagen real como si se genera video con AI”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "the-piano-human-made-mark",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "단편 'The Piano'\nHuman Made 인증",
-      "body": "Human Made Mark가 Avery Kroll의 The Piano를 인증했다.",
-      "mini_headline": "'The Piano', Human Made Mark 획득",
-      "tool": "Movies",
-      "source": "Animation Magazine",
-      "url": "https://www.animationmagazine.net/2026/11/the-piano-animated-short-receives-official-human-made-mark-certification/",
+      "source": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -603,173 +783,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+            "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+            "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
           },
           {
             "t": "p",
-            "x": "Avery Kroll이 연출한 Tribeca Festival-premiered 단편 The Piano가 온라인 공개를 앞두고 Human Made Mark 공식 인증을 받았다. Human Made Mark 이니셔티브는 영화를 만들면서 어떤 예술가도 생성형 AI(genAI)로 대체하지 않았음을 인증하고 기린다. Guillermo del Toro, Tamara Deverell, Deborah L Scott, Ruth E Carter 등 Academy Award 수상자들과 세계 각국의 길드·노조가 이 이니셔티브를 지지한다."
+            "x": "생성형 AI만으로 만든 한국 첫 장편 영화 “Raphael”이 11월 25일 국내 극장에 걸린다. 이야기는 익숙한 장르 공식에 크게 기대는 반면 영상은 매끈하고 던지는 철학적 질문도 야심 차다."
           },
           {
             "t": "p",
-            "x": "인증받은 영화는 본편에 앞서 BAFTA-longlisted 애니메이터 Gagandeep Kaur Chahal이 만든 애니메이션 아이덴트를 튼다. 엔딩 크레딧에는 고유 번호를 단 Human Made Mark 인증 표시가 들어가, 알고리즘보다 예술가를 앞세운 작품임을 관객에게 알린다."
+            "x": "Yang Ik-june, Moon Shin-woo, Jung Joo-won이 공동 연출하고 Matteo AI Studio가 MBC C&I AI Contents Lab과 함께 제작했다. 실제 배우와는 단 한 장면도 찍지 않았고 완성까지 14개월이 걸렸다. 기획과 각본 말고는 캐릭터와 풍경부터 목소리 연기, 음악, 효과음까지 모두 생성형 AI가 만들었다."
           },
           {
             "t": "p",
-            "x": "신청작은 모두 공개된 기준으로 심사한다. 사전 제작·제작 단계의 문서 증빙과 법적 선언, 콘텐츠 자체를 살피는 플래그 기반 검토 시스템이 근거다. “근본적으로 기술은 예술가를 도와야 한다. 대체해서는 안 된다.” Human Made Mark 프로젝트 창립자 William Grave의 말이다."
+            "x": "배경은 2050년대다. 무자비한 전투 안드로이드 Alexei가 미등록 소녀 Sophia와 인류의 마지막 사제 Michael을 만난 뒤 인간의 감정을 느끼기 시작한다."
           },
           {
-            "t": "video",
-            "yt": "VtE6rvWbaJ0"
+            "t": "img",
+            "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+            "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+          },
+          {
+            "t": "p",
+            "x": "영상에서는 14개월 동안 컷마다 다듬은 공이 드러난다. AI 영상에 흔한 어색한 시각 오류나 캐릭터 외모가 갑자기 바뀌는 문제를 피했고 입 모양도 한층 자연스럽다. 다만 이야기는 지나치게 익숙하다. 138분 내내 이어지는 어두운 미래 설정이 뻔하게 느껴지기도 한다."
+          },
+          {
+            "t": "p",
+            "x": "한국 영화계는 비용 상승과 투자 위축에 시달리고 있다. “Raphael”은 AI가 대규모 SF를 적은 비용으로 만드는 도구가 될 수 있음을 보여준다. 동시에 관객을 끄는 진짜 힘은 결국 이야기에서 나온다는 사실도 일깨운다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "'The Piano' short earns\nthe Human Made Mark",
-          "body": "Avery Kroll's short The Piano gets the del Toro-backed Human Made Mark, certifying no artists were replaced by genAI.",
-          "mini_headline": "'The Piano' gets Human Made Mark",
+          "headline": "AI film Raphael dazzles,\nbut its story feels familiar",
+          "body": "Korea's first all-AI feature Raphael, out Nov. 25, pushes AI visuals to their limits but tells a familiar story.",
+          "mini_headline": "AI film Raphael reviewed",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "A scene from AI movie “Raphael” / Courtesy of 300 & Co."
               },
               {
                 "t": "p",
-                "x": "Tribeca Festival-premiered short The Piano directed by Avery Kroll, has been officially certified with the Human Made Mark ahead of its online release. Supported by Academy Award winners like Guillermo del Toro, Tamara Deverell, Deborah L Scott and Ruth E Carter, as well as guilds and unions around the world, the Human Made Mark initiative certifies and celebrates the fact a film production did not replace any artists with generative AI."
+                "x": "\"Raphael,\" Korea's first feature-length film created entirely with generative AI, hits local theaters on Nov. 25. It stands out for its polished visuals and ambitious philosophical questions, even if its narrative relies heavily on familiar genre formulas."
               },
               {
                 "t": "p",
-                "x": "For certified films, an animated ident, created by the BAFTA-longlisted animator Gagandeep Kaur Chahal, plays before the film starts. In the end credits, a certified Human Made Mark appears with a unique number to signal to the audience this production puts artists first, algorithms second."
+                "x": "Co-directed by Yang Ik-june, Moon Shin-woo and Jung Joo-won, and produced by Matteo AI Studio alongside MBC C&I AI Contents Lab, it was completed over 14 months without shooting a single scene with real actors. Aside from planning and screenwriting, generative AI built every element, from characters and landscapes to voice acting, music and sound effects."
               },
               {
                 "t": "p",
-                "x": "Each application is reviewed against published criteria, supported by pre-production and production document evidence, legal declaration and a flagged review system of the content itself. “Fundamentally, technology should support artists. Not replace them,” said William Grave, founder of the Human Made Mark project."
+                "x": "Set in the 2050s, it follows Alexei, a ruthless combat android who begins to experience human feelings after meeting an unregistered girl, Sophia, and Michael, humanity's last priest."
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "A scene from AI movie “Raphael” / Courtesy of 300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "Visually, the 14 months of cut-by-cut refinement pay off: it avoids the awkward visual errors and sudden changes in character appearance common in AI videos, and lip movements are smoother. But the story feels overly familiar, and across 138 minutes the dark future setting can feel predictable."
+              },
+              {
+                "t": "p",
+                "x": "As the Korean film industry struggles with rising costs and shrinking investment, \"Raphael\" highlights AI as a cost-effective tool for large-scale sci-fi, while reminding that compelling storytelling remains the true driving force."
               }
             ]
           }
         },
         "ko": {
-          "headline": "단편 'The Piano'\nHuman Made 인증",
-          "body": "Human Made Mark가 Avery Kroll의 The Piano를 인증했다.",
-          "mini_headline": "'The Piano', Human Made Mark 획득",
+          "headline": "AI 영화 Raphael\n눈부신 영상, 익숙한 서사",
+          "body": "25일 개봉하는 all-AI 영화 Raphael은 영상은 빼어나도 서사는 익숙하다.",
+          "mini_headline": "AI 영화 Raphael 리뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
               },
               {
                 "t": "p",
-                "x": "Avery Kroll이 연출한 Tribeca Festival-premiered 단편 The Piano가 온라인 공개를 앞두고 Human Made Mark 공식 인증을 받았다. Human Made Mark 이니셔티브는 영화를 만들면서 어떤 예술가도 생성형 AI(genAI)로 대체하지 않았음을 인증하고 기린다. Guillermo del Toro, Tamara Deverell, Deborah L Scott, Ruth E Carter 등 Academy Award 수상자들과 세계 각국의 길드·노조가 이 이니셔티브를 지지한다."
+                "x": "생성형 AI만으로 만든 한국 첫 장편 영화 “Raphael”이 11월 25일 국내 극장에 걸린다. 이야기는 익숙한 장르 공식에 크게 기대는 반면 영상은 매끈하고 던지는 철학적 질문도 야심 차다."
               },
               {
                 "t": "p",
-                "x": "인증받은 영화는 본편에 앞서 BAFTA-longlisted 애니메이터 Gagandeep Kaur Chahal이 만든 애니메이션 아이덴트를 튼다. 엔딩 크레딧에는 고유 번호를 단 Human Made Mark 인증 표시가 들어가, 알고리즘보다 예술가를 앞세운 작품임을 관객에게 알린다."
+                "x": "Yang Ik-june, Moon Shin-woo, Jung Joo-won이 공동 연출하고 Matteo AI Studio가 MBC C&I AI Contents Lab과 함께 제작했다. 실제 배우와는 단 한 장면도 찍지 않았고 완성까지 14개월이 걸렸다. 기획과 각본 말고는 캐릭터와 풍경부터 목소리 연기, 음악, 효과음까지 모두 생성형 AI가 만들었다."
               },
               {
                 "t": "p",
-                "x": "신청작은 모두 공개된 기준으로 심사한다. 사전 제작·제작 단계의 문서 증빙과 법적 선언, 콘텐츠 자체를 살피는 플래그 기반 검토 시스템이 근거다. “근본적으로 기술은 예술가를 도와야 한다. 대체해서는 안 된다.” Human Made Mark 프로젝트 창립자 William Grave의 말이다."
+                "x": "배경은 2050년대다. 무자비한 전투 안드로이드 Alexei가 미등록 소녀 Sophia와 인류의 마지막 사제 Michael을 만난 뒤 인간의 감정을 느끼기 시작한다."
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+              },
+              {
+                "t": "p",
+                "x": "영상에서는 14개월 동안 컷마다 다듬은 공이 드러난다. AI 영상에 흔한 어색한 시각 오류나 캐릭터 외모가 갑자기 바뀌는 문제를 피했고 입 모양도 한층 자연스럽다. 다만 이야기는 지나치게 익숙하다. 138분 내내 이어지는 어두운 미래 설정이 뻔하게 느껴지기도 한다."
+              },
+              {
+                "t": "p",
+                "x": "한국 영화계는 비용 상승과 투자 위축에 시달리고 있다. “Raphael”은 AI가 대규모 SF를 적은 비용으로 만드는 도구가 될 수 있음을 보여준다. 동시에 관객을 끄는 진짜 힘은 결국 이야기에서 나온다는 사실도 일깨운다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "短編『The Piano』\nHuman Made認証取得",
-          "body": "Avery Kroll監督のThe PianoがHuman Made Markを取得した。",
-          "mini_headline": "『The Piano』がHuman Made Mark取得",
+          "headline": "AI映画Raphael\n映像は圧巻、物語は既視感",
+          "body": "韓国初のall-AI長編Raphaelは11月25日公開、映像は極限だが物語は既視感がある。",
+          "mini_headline": "AI映画Raphaelを評す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
               },
               {
                 "t": "p",
-                "x": "Tribeca Festival-premieredの短編で、Avery Krollが監督した『The Piano』が、オンライン公開を前にHuman Made Markの正式認証を受けた。Guillermo del Toro、Tamara Deverell、Deborah L Scott、Ruth E CarterといったAcademy Award受賞者や世界各地のギルド・組合が支援するHuman Made Markは、映画制作で生成AI(genAI)によってアーティストを一人も置き換えなかったことを認証し、たたえる取り組みだ。"
+                "x": "生成AIだけで制作された韓国初の長編映画「Raphael」が、11月25日に国内で劇場公開される。物語はおなじみのジャンルの型に大きく頼っているものの、洗練された映像と意欲的な哲学的問いが際立つ。"
               },
               {
                 "t": "p",
-                "x": "認証作品では、BAFTA-longlistedのアニメーター、Gagandeep Kaur Chahalが制作したアニメーションのアイデントが本編の前に流れる。エンドクレジットには固有番号付きのHuman Made Mark認証マークが表示され、この作品がアルゴリズムよりもアーティストを優先したことを観客に示す。"
+                "x": "Yang Ik-june、Moon Shin-woo、Jung Joo-wonが共同監督を務め、Matteo AI StudioがMBC C&I AI Contents Labと共同で制作した本作は、実際の俳優による撮影を一場面も行わず、14か月をかけて完成した。企画と脚本を除き、キャラクターや風景から声の演技、音楽、効果音まで、すべての要素を生成AIが作り上げた。"
               },
               {
                 "t": "p",
-                "x": "各申請は公開された基準に沿って審査され、プリプロダクションと制作段階の書類による証拠、法的宣誓、コンテンツそのものに対するフラグ付きレビューの仕組みが裏づけとなる。「根本的に、テクノロジーはアーティストを支えるべきだ。置き換えるのではない」とHuman Made Markプロジェクトの創設者William Graveは語った。"
+                "x": "舞台は2050年代。冷酷な戦闘アンドロイドのAlexeiが、未登録の少女Sophiaと人類最後の司祭Michaelに出会い、人間の感情を抱き始める姿を描く。"
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "映像面では、14か月に及ぶカットごとの磨き込みが実を結んでいる。AI映像にありがちな不自然な視覚エラーやキャラクターの容姿の急な変化を避け、口の動きもより滑らかだ。ただ物語はあまりに既視感が強く、138分にわたって暗い未来の設定が予測可能に感じられることもある。"
+              },
+              {
+                "t": "p",
+                "x": "韓国映画界がコスト上昇と投資縮小に苦しむ中、「Raphael」はAIが大規模SFの費用対効果の高い道具になり得ることを示す一方、真の原動力はやはり人を引きつける物語だと思い出させる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "短片《The Piano》\n获Human Made认证",
-          "body": "短片The Piano获Human Made Mark，证明未用genAI取代艺术家。",
-          "mini_headline": "《The Piano》获Human Made Mark",
+          "headline": "AI电影Raphael\n画面惊艳，故事似曾相识",
+          "body": "韩国首部all-AI长片Raphael于11月25日上映，画面逼近极限，故事却似曾相识。",
+          "mini_headline": "AI电影Raphael影评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
               },
               {
                 "t": "p",
-                "x": "Tribeca Festival-premiered短片《The Piano》由Avery Kroll执导，在线上发布前正式获得Human Made Mark认证。Human Made Mark计划获得Guillermo del Toro、Tamara Deverell、Deborah L Scott和Ruth E Carter等Academy Award得主以及世界各地行会与工会的支持，旨在认证并表彰电影制作未用生成式AI（genAI）取代任何艺术家。"
+                "x": "完全由生成式AI制作的韩国首部长片《Raphael》将于11月25日在韩国院线上映。尽管叙事在很大程度上依赖熟悉的类型套路，但其精致的画面和雄心勃勃的哲学追问令人瞩目。"
               },
               {
                 "t": "p",
-                "x": "获得认证的影片会在正片开始前播放一段动画标识，由BAFTA-longlisted动画师Gagandeep Kaur Chahal制作。片尾字幕中会出现带有唯一编号的Human Made Mark认证标志，向观众表明该作品把艺术家放在首位，算法其次。"
+                "x": "该片由Yang Ik-june、Moon Shin-woo和Jung Joo-won联合执导，Matteo AI Studio与MBC C&I AI Contents Lab共同制作，历时14个月完成，没有用真人演员拍摄任何一个镜头。除策划和编剧外，从角色、场景到配音、音乐和音效，所有元素都由生成式AI打造。"
               },
               {
                 "t": "p",
-                "x": "每份申请都会依据公开标准审核，并以前期制作和制作阶段的文件证据、法律声明以及针对内容本身的标记审查系统为依据。“从根本上说，技术应该支持艺术家，而不是取代他们。”Human Made Mark项目创始人William Grave表示。"
+                "x": "故事设定在2050年代，讲述冷酷的战斗机器人Alexei在遇见未登记的少女Sophia和人类最后一位神父Michael后，开始体验人类情感。"
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
+              },
+              {
+                "t": "p",
+                "x": "画面上，14个月逐镜头的打磨收到成效：影片避开了AI视频常见的别扭视觉错误和角色外貌突变，口型也更为流畅。但故事过于熟悉，138分钟里，黑暗的未来设定可能显得可预测。"
+              },
+              {
+                "t": "p",
+                "x": "在韩国电影业受困于成本上升和投资萎缩之际，《Raphael》凸显了AI作为大规模科幻片高性价比工具的价值，同时提醒人们，引人入胜的故事才是真正的驱动力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El corto 'The Piano' obtiene\nla Human Made Mark",
-          "body": "The Piano, de Avery Kroll, recibe la Human Made Mark, que avala del Toro y acredita que genAI no sustituyó a artistas.",
-          "mini_headline": "'The Piano' obtiene la Human Made Mark",
+          "headline": "La cinta de AI Raphael deslumbra\npero su historia es conocida",
+          "body": "Raphael, primer largometraje all-AI de Corea, llega el 25 de noviembre con imágenes al límite y una historia conocida.",
+          "mini_headline": "Reseña de Raphael, cinta de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
               },
               {
                 "t": "p",
-                "x": "The Piano, cortometraje Tribeca Festival-premiered dirigido por Avery Kroll, ha recibido la certificación oficial Human Made Mark antes de su estreno en línea. Respaldada por ganadores del Academy Award como Guillermo del Toro, Tamara Deverell, Deborah L Scott y Ruth E Carter, así como por gremios y sindicatos de todo el mundo, la iniciativa Human Made Mark certifica y celebra que una producción cinematográfica no ha sustituido a ningún artista con AI generativa (genAI)."
+                "x": "“Raphael”, el primer largometraje de Corea creado íntegramente con AI generativa, llega a los cines del país el 25 de noviembre. Destaca por su imagen pulida y sus ambiciosas preguntas filosóficas, aunque su narrativa depende mucho de fórmulas de género conocidas."
               },
               {
                 "t": "p",
-                "x": "En las películas certificadas, antes de que empiece la película se proyecta una ident animada creada por el animador Gagandeep Kaur Chahal, BAFTA-longlisted. En los créditos finales aparece una Human Made Mark certificada con un número único para indicar al público que esta producción pone a los artistas primero y a los algoritmos después."
+                "x": "Codirigida por Yang Ik-june, Moon Shin-woo y Jung Joo-won, y producida por Matteo AI Studio junto con MBC C&I AI Contents Lab, se completó en 14 meses sin rodar una sola escena con actores reales. Salvo la planificación y el guion, la AI generativa creó todos los elementos, desde personajes y paisajes hasta la actuación de voz, la música y los efectos de sonido."
               },
               {
                 "t": "p",
-                "x": "Cada solicitud se evalúa según criterios publicados, con el respaldo de pruebas documentales de preproducción y producción, una declaración legal y un sistema de revisión con alertas sobre el propio contenido. “En esencia, la tecnología debe apoyar a los artistas. No sustituirlos”, dijo William Grave, fundador del proyecto Human Made Mark."
+                "x": "Ambientada en la década de 2050, sigue a Alexei, un despiadado androide de combate que empieza a experimentar sentimientos humanos tras conocer a Sophia, una niña no registrada, y a Michael, el último sacerdote de la humanidad."
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "En lo visual, los 14 meses de pulido plano a plano dan fruto: evita los torpes errores visuales y los cambios bruscos en la apariencia de los personajes habituales en los videos de AI, y el movimiento de los labios es más fluido. Pero la historia resulta demasiado conocida, y a lo largo de 138 minutos el oscuro escenario futuro puede volverse predecible."
+              },
+              {
+                "t": "p",
+                "x": "Mientras la industria cinematográfica coreana lidia con el aumento de costos y la caída de la inversión, “Raphael” muestra la AI como una herramienta rentable para la ciencia ficción a gran escala, a la vez que recuerda que una narración atractiva sigue siendo el verdadero motor."
               }
             ]
           }
@@ -777,121 +1017,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "단편 'The Piano'\nHuman Made 인증",
-          "body": "Avery Kroll의 The Piano가 Human Made Mark를 받았다.",
-          "mini_headline": "'The Piano', Human Made Mark 획득",
+          "headline": "AI 영화 Raphael\n눈부신 영상, 익숙한 서사",
+          "body": "25일 개봉하는 all-AI 영화 Raphael은 영상은 빼어나도 서사는 익숙하다.",
+          "mini_headline": "AI 영화 Raphael 리뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
               },
               {
                 "t": "p",
-                "x": "Tribeca Festival-premiered 단편으로 Avery Kroll이 연출한 The Piano가 온라인 공개를 앞두고 Human Made Mark 공식 인증을 받았다. Human Made Mark 이니셔티브는 Guillermo del Toro, Tamara Deverell, Deborah L Scott, Ruth E Carter 등 Academy Award 수상자들과 세계 각국의 길드·노조가 지지하며, 영화 제작 과정에서 어떤 예술가도 생성형 AI(genAI)로 대체하지 않았다는 사실을 인증하고 기린다."
+                "x": "생성형 AI만으로 만든 한국 첫 장편 영화 “Raphael”이 11월 25일 국내 극장에 걸린다. 서사는 익숙한 장르 공식에 크게 기대지만, 매끈한 영상과 야심 찬 철학적 질문이 돋보인다."
               },
               {
                 "t": "p",
-                "x": "인증받은 영화는 본편 시작 전에 BAFTA-longlisted 애니메이터 Gagandeep Kaur Chahal이 만든 애니메이션 아이덴트가 나온다. 엔딩 크레딧에는 고유 번호가 붙은 Human Made Mark 인증 표시가 나와, 이 작품이 알고리즘보다 예술가를 앞세웠다는 점을 관객에게 알린다."
+                "x": "Yang Ik-june, Moon Shin-woo, Jung Joo-won이 공동 연출하고 Matteo AI Studio가 MBC C&I AI Contents Lab과 함께 제작한 이 영화는 실제 배우와 단 한 장면도 촬영하지 않고 14개월에 걸쳐 완성됐다. 기획과 각본을 제외하면 캐릭터와 풍경부터 목소리 연기, 음악, 효과음까지 모든 요소를 생성형 AI가 만들었다."
               },
               {
                 "t": "p",
-                "x": "모든 신청은 공개된 기준에 따라 심사하며, 사전 제작·제작 단계의 문서 증빙, 법적 선언, 콘텐츠 자체에 대한 플래그 기반 검토 시스템을 근거로 삼는다. “근본적으로 기술은 예술가를 도와야 한다. 대체해서는 안 된다.” Human Made Mark 프로젝트 창립자 William Grave의 말이다."
+                "x": "2050년대를 배경으로, 무자비한 전투 안드로이드 Alexei가 미등록 소녀 Sophia와 인류의 마지막 사제 Michael을 만난 뒤 인간의 감정을 느끼기 시작하는 이야기를 따라간다."
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+              },
+              {
+                "t": "p",
+                "x": "영상만 보면 14개월에 걸친 컷 단위 보정이 빛을 발한다. AI 영상에 흔한 어색한 시각 오류나 캐릭터 외모의 급격한 변화를 피했고, 입 모양도 한층 자연스럽다. 다만 이야기는 지나치게 익숙하고, 138분 동안 어두운 미래 설정이 뻔하게 느껴질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "한국 영화계가 비용 상승과 투자 위축에 시달리는 가운데, “Raphael”은 AI가 대규모 SF를 위한 비용 효율적 도구가 될 수 있음을 보여주는 한편, 결국 진짜 동력은 흡인력 있는 이야기라는 점을 일깨운다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "短編『The Piano』\nHuman Made認証取得",
-          "body": "Avery Kroll監督のThe PianoがHuman Made Markを取得した。",
-          "mini_headline": "『The Piano』がHuman Made Mark取得",
+          "headline": "AI映画Raphael\n映像は圧巻、物語は既視感",
+          "body": "韓国初のall-AI長編Raphaelは11月25日公開、映像は極限だが物語は既視感がある。",
+          "mini_headline": "AI映画Raphaelを評す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
               },
               {
                 "t": "p",
-                "x": "Tribeca Festival-premieredの短編で、Avery Krollが監督した『The Piano』が、オンライン公開を前にHuman Made Markの正式認証を受けた。Guillermo del Toro、Tamara Deverell、Deborah L Scott、Ruth E CarterといったAcademy Award受賞者や世界各地のギルド・組合が支援するHuman Made Markは、映画制作で生成AI(genAI)によってアーティストを一人も置き換えなかったことを認証し、たたえる取り組みだ。"
+                "x": "生成AIだけで制作された韓国初の長編映画「Raphael」が、11月25日に国内で劇場公開される。物語はおなじみのジャンルの型に大きく頼っているものの、洗練された映像と意欲的な哲学的問いが際立つ。"
               },
               {
                 "t": "p",
-                "x": "認証作品では、BAFTA-longlistedのアニメーター、Gagandeep Kaur Chahalが制作したアニメーションのアイデントが本編の前に流れる。エンドクレジットには固有番号付きのHuman Made Mark認証マークが表示され、この作品がアルゴリズムよりもアーティストを優先したことを観客に示す。"
+                "x": "Yang Ik-june、Moon Shin-woo、Jung Joo-wonが共同監督を務め、Matteo AI StudioがMBC C&I AI Contents Labと共同で制作した本作は、実際の俳優による撮影を一場面も行わず、14か月をかけて完成した。企画と脚本を除き、キャラクターや風景から声の演技、音楽、効果音まで、すべての要素を生成AIが作り上げた。"
               },
               {
                 "t": "p",
-                "x": "各申請は公開された基準に沿って審査され、プリプロダクションと制作段階の書類による証拠、法的宣誓、コンテンツそのものに対するフラグ付きレビューの仕組みが裏づけとなる。「根本的に、テクノロジーはアーティストを支えるべきだ。置き換えるのではない」とHuman Made Markプロジェクトの創設者William Graveは語った。"
+                "x": "舞台は2050年代。冷酷な戦闘アンドロイドのAlexeiが、未登録の少女Sophiaと人類最後の司祭Michaelに出会い、人間の感情を抱き始める姿を描く。"
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "映像面では、14か月に及ぶカットごとの磨き込みが実を結んでいる。AI映像にありがちな不自然な視覚エラーやキャラクターの容姿の急な変化を避け、口の動きもより滑らかだ。ただ物語はあまりに既視感が強く、138分にわたって暗い未来の設定が予測可能に感じられることもある。"
+              },
+              {
+                "t": "p",
+                "x": "韓国映画界がコスト上昇と投資縮小に苦しむ中、「Raphael」はAIが大規模SFの費用対効果の高い道具になり得ることを示す一方、真の原動力はやはり人を引きつける物語だと思い出させる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "短片《The Piano》\n获Human Made认证",
-          "body": "短片The Piano获Human Made Mark，证明未用genAI取代艺术家。",
-          "mini_headline": "《The Piano》获Human Made Mark",
+          "headline": "AI电影Raphael\n画面惊艳，故事似曾相识",
+          "body": "韩国首部all-AI长片Raphael于11月25日上映，画面逼近极限，故事却似曾相识。",
+          "mini_headline": "AI电影Raphael影评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
               },
               {
                 "t": "p",
-                "x": "Tribeca Festival-premiered短片《The Piano》由Avery Kroll执导，在线上发布前正式获得Human Made Mark认证。Human Made Mark计划获得Guillermo del Toro、Tamara Deverell、Deborah L Scott和Ruth E Carter等Academy Award得主以及世界各地行会与工会的支持，旨在认证并表彰电影制作未用生成式AI（genAI）取代任何艺术家。"
+                "x": "完全由生成式AI制作的韩国首部长片《Raphael》将于11月25日在韩国院线上映。尽管叙事在很大程度上依赖熟悉的类型套路，但其精致的画面和雄心勃勃的哲学追问令人瞩目。"
               },
               {
                 "t": "p",
-                "x": "获得认证的影片会在正片开始前播放一段动画标识，由BAFTA-longlisted动画师Gagandeep Kaur Chahal制作。片尾字幕中会出现带有唯一编号的Human Made Mark认证标志，向观众表明该作品把艺术家放在首位，算法其次。"
+                "x": "该片由Yang Ik-june、Moon Shin-woo和Jung Joo-won联合执导，Matteo AI Studio与MBC C&I AI Contents Lab共同制作，历时14个月完成，没有用真人演员拍摄任何一个镜头。除策划和编剧外，从角色、场景到配音、音乐和音效，所有元素都由生成式AI打造。"
               },
               {
                 "t": "p",
-                "x": "每份申请都会依据公开标准审核，并以前期制作和制作阶段的文件证据、法律声明以及针对内容本身的标记审查系统为依据。“从根本上说，技术应该支持艺术家，而不是取代他们。”Human Made Mark项目创始人William Grave表示。"
+                "x": "故事设定在2050年代，讲述冷酷的战斗机器人Alexei在遇见未登记的少女Sophia和人类最后一位神父Michael后，开始体验人类情感。"
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
+              },
+              {
+                "t": "p",
+                "x": "画面上，14个月逐镜头的打磨收到成效：影片避开了AI视频常见的别扭视觉错误和角色外貌突变，口型也更为流畅。但故事过于熟悉，138分钟里，黑暗的未来设定可能显得可预测。"
+              },
+              {
+                "t": "p",
+                "x": "在韩国电影业受困于成本上升和投资萎缩之际，《Raphael》凸显了AI作为大规模科幻片高性价比工具的价值，同时提醒人们，引人入胜的故事才是真正的驱动力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El corto 'The Piano' obtiene\nla Human Made Mark",
-          "body": "The Piano, de Avery Kroll, recibe la Human Made Mark, que avala del Toro y acredita que genAI no sustituyó a artistas.",
-          "mini_headline": "'The Piano' obtiene la Human Made Mark",
+          "headline": "La cinta de AI Raphael deslumbra\npero su historia es conocida",
+          "body": "Raphael, primer largometraje all-AI de Corea, llega el 25 de noviembre con imágenes al límite y una historia conocida.",
+          "mini_headline": "Reseña de Raphael, cinta de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Piano-7.27.47-.png"
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
+                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
               },
               {
                 "t": "p",
-                "x": "The Piano, cortometraje Tribeca Festival-premiered dirigido por Avery Kroll, ha recibido la certificación oficial Human Made Mark antes de su estreno en línea. Respaldada por ganadores del Academy Award como Guillermo del Toro, Tamara Deverell, Deborah L Scott y Ruth E Carter, así como por gremios y sindicatos de todo el mundo, la iniciativa Human Made Mark certifica y celebra que una producción cinematográfica no ha sustituido a ningún artista con AI generativa (genAI)."
+                "x": "“Raphael”, el primer largometraje de Corea creado íntegramente con AI generativa, llega a los cines del país el 25 de noviembre. Destaca por su imagen pulida y sus ambiciosas preguntas filosóficas, aunque su narrativa depende mucho de fórmulas de género conocidas."
               },
               {
                 "t": "p",
-                "x": "En las películas certificadas, antes de que empiece la película se proyecta una ident animada creada por el animador Gagandeep Kaur Chahal, BAFTA-longlisted. En los créditos finales aparece una Human Made Mark certificada con un número único para indicar al público que esta producción pone a los artistas primero y a los algoritmos después."
+                "x": "Codirigida por Yang Ik-june, Moon Shin-woo y Jung Joo-won, y producida por Matteo AI Studio junto con MBC C&I AI Contents Lab, se completó en 14 meses sin rodar una sola escena con actores reales. Salvo la planificación y el guion, la AI generativa creó todos los elementos, desde personajes y paisajes hasta la actuación de voz, la música y los efectos de sonido."
               },
               {
                 "t": "p",
-                "x": "Cada solicitud se evalúa según criterios publicados, con el respaldo de pruebas documentales de preproducción y producción, una declaración legal y un sistema de revisión con alertas sobre el propio contenido. “En esencia, la tecnología debe apoyar a los artistas. No sustituirlos”, dijo William Grave, fundador del proyecto Human Made Mark."
+                "x": "Ambientada en la década de 2050, sigue a Alexei, un despiadado androide de combate que empieza a experimentar sentimientos humanos tras conocer a Sophia, una niña no registrada, y a Michael, el último sacerdote de la humanidad."
               },
               {
-                "t": "video",
-                "yt": "VtE6rvWbaJ0"
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
+                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
+              },
+              {
+                "t": "p",
+                "x": "En lo visual, los 14 meses de pulido plano a plano dan fruto: evita los torpes errores visuales y los cambios bruscos en la apariencia de los personajes habituales en los videos de AI, y el movimiento de los labios es más fluido. Pero la historia resulta demasiado conocida, y a lo largo de 138 minutos el oscuro escenario futuro puede volverse predecible."
+              },
+              {
+                "t": "p",
+                "x": "Mientras la industria cinematográfica coreana lidia con el aumento de costos y la caída de la inversión, “Raphael” muestra la AI como una herramienta rentable para la ciencia ficción a gran escala, a la vez que recuerda que una narración atractiva sigue siendo el verdadero motor."
               }
             ]
           }
@@ -899,15 +1179,15 @@
       }
     },
     {
-      "id": "qatar-film-committee-ai-certification",
+      "id": "hampton-tallinn-ai-super-google",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Qatar 영화위원회,\nAI 인증 표준 만든다",
-      "body": "Penotti가 Qatar Film Committee와 AI 인증을 만들고 있다.",
-      "mini_headline": "Qatar, AI 인증 추진",
+      "headline": "오스카 수상 Hampton\nAI는 슈퍼 Google",
+      "body": "Hampton은 PÖFF에서 AI로 각본을 쓰는 건 쉬운 길이라고 꼬집었다.",
+      "mini_headline": "Hampton, AI는 슈퍼 Google",
       "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/news/global-ai-certification-standard-in-development-by-qatars-film-committee-john-penotti/5222615.article",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -915,149 +1195,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+            "cap": "Tallinn 2026 마스터클래스에 나선 Sir Christopher Hampton(왼쪽)."
           },
           {
             "t": "p",
-            "x": "Crazy Rich Asians를 제작한 John Penotti가 Doha Film Festival의 Doha Industry Days 패널에서, Media City Qatar의 Film Committee와 AI 인증 표준을 개발하고 있다고 밝혔다."
+            "x": "Oscar를 두 번 받은 각본가 겸 감독 Christopher Hampton이 제30회 Tallinn Black Nights Film Festival(PÖFF)에서 “From Stage to Screen: The Art of Adaptation” 마스터클래스를 열며 Industry@Tallinn & Baltic Event의 Discovery Campus 2026 첫 순서를 맡았다."
           },
           {
             "t": "p",
-            "x": "“지난 한 해 동안 우리 작업의 상당 부분은 표준이 생기도록 AI 인증의 기회를 만드는 일이었다.” Penotti의 말이다. “지난 한 해 남짓 이곳 Film Committee에서 시작해, AI 인증이 전 세계에서 인정받는 절차를 개발해 왔다.”"
+            "x": "그는 “인공지능은 나를 크게 괴롭힌 주제가 아니다”라며 “나는 진짜 지능에 더 관심이 있다. … 흥미로운 작업도 많겠지만, 내게는 일종의 슈퍼 Google에 지나지 않는다”고 말했다."
           },
           {
             "t": "p",
-            "x": "표준 마련에는 여러 파트너가 함께했고, 세부 내용은 두 주 안에 공개된다. “우리가 입증할 수 있는 윤리적 저작권이 있다. 여기에는 ‘이것이 작가가 의도한 바이며, 우리는 작품의 수명 내내 이를 지킬 것’이라고 말하는 인장이 붙는다.” 함께 패널로 나선 Holywater Tech의 Anatolii Kasianov는 “몇 년 안에 물리적 제작은 더 이상 그리 중요하지 않을 것”이라고 내다봤다."
+            "x": "AI가 작가 자리를 대신할지를 두고는 “다들 이 문제로 불안해하는 걸 알지만, 그런 일은 일어나지 않을 것이다. … 우리의 작업이 그쪽 작업보다 더 흥미롭다고 생각한다”고 했다."
+          },
+          {
+            "t": "p",
+            "x": "AI에 기대려는 젊은 작가에게는 “차라리 다른 직업을 고르는 편이 낫다”고 했다. “AI의 도움으로 각본을 쓴다면 쉬운 길을 고르는 것이다. 게으른 것이다.”"
+          },
+          {
+            "t": "p",
+            "x": "질의응답(Q&A)에서 그는 “AI는, 아마 모든 것이 늘 공식대로 하도록 등을 떠미는 것 같고, 물론 그게 Hollywood 스튜디오들을 기쁘게 한다”고 덧붙였다. Hampton은 이번 영화제에서 공식 경쟁 부문 심사위원장을 맡아 다섯 명의 심사위원단을 이끈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Qatar's Film Committee builds\nan AI certification standard",
-          "body": "Producer John Penotti said he spent a year with Qatar's Film Committee building an AI certification meant to go global.",
-          "mini_headline": "Qatar drafts AI certification",
+          "headline": "Oscar winner Hampton calls\nAI just a super Google",
+          "body": "Two-time Oscar winner Christopher Hampton told Tallinn's PÖFF that scripting with AI is choosing something easy.",
+          "mini_headline": "Hampton: AI a super Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Sir Christopher Hampton (left) during his Tallinn 2026 masterclass."
               },
               {
                 "t": "p",
-                "x": "Crazy Rich Asians producer John Penotti is developing an AI certification standard with the Film Committee at Media City Qatar, he said during a panel at Doha Film Festival’s Doha Industry Days."
+                "x": "Two-time Oscar-winning screenwriter and director Christopher Hampton spoke at the 30th Tallinn Black Nights Film Festival (PÖFF) in a masterclass, “From Stage to Screen: The Art of Adaptation,” kicking off the Industry@Tallinn & Baltic Event's Discovery Campus 2026."
               },
               {
                 "t": "p",
-                "x": "“A lot of our work for the last year has been creating an AI certification opportunity, so that there’s a standard,” said Penotti. “Starting here at the Film Committee over the last year or so, we’ve been developing a process by which an AI certification is globally recognised.”"
+                "x": "“It’s not a subject, artificial intelligence, that has troubled me very much,” he said. “I’m more interested in real intelligence. … I’m sure a lot of the work is very interesting, but for me, it’s nothing other than a sort of super Google.”"
               },
               {
                 "t": "p",
-                "x": "A group of partners has convened on the standard, with further details to be announced in the coming fortnight. “There’s an ethical authorship that we could prove, that has a stamp, that says ‘This is what the author intended, and we’re going to protect that throughout its lifespan.’” Fellow panellist Anatolii Kasianov of Holywater Tech predicted that “in a couple of years, physical production will not be that relevant anymore.”"
+                "x": "On AI replacing scribes: “I know everyone’s anxious about all this, but I don’t think it’s going to happen. … I think our work is more interesting than its work.”"
+              },
+              {
+                "t": "p",
+                "x": "He suggested young writers “may as well choose a different profession” if they want to rely on AI. “If you write a script with the help of AI, you’re choosing something easy. You’re being lazy.”"
+              },
+              {
+                "t": "p",
+                "x": "In the Q&A he added: “AI, I suppose everything is nudging you to always be formulaic, and of course that’s what makes the studios in Hollywood happy.” Hampton heads the five-member jury for the festival's official competition."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Qatar 영화위원회,\nAI 인증 표준 만든다",
-          "body": "Penotti가 Qatar Film Committee와 AI 인증을 만들고 있다.",
-          "mini_headline": "Qatar, AI 인증 추진",
+          "headline": "오스카 수상 Hampton\nAI는 슈퍼 Google",
+          "body": "Hampton은 PÖFF에서 AI로 각본을 쓰는 건 쉬운 길이라고 꼬집었다.",
+          "mini_headline": "Hampton, AI는 슈퍼 Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Tallinn 2026 마스터클래스에 나선 Sir Christopher Hampton(왼쪽)."
               },
               {
                 "t": "p",
-                "x": "Crazy Rich Asians를 제작한 John Penotti가 Doha Film Festival의 Doha Industry Days 패널에서, Media City Qatar의 Film Committee와 AI 인증 표준을 개발하고 있다고 밝혔다."
+                "x": "Oscar를 두 번 받은 각본가 겸 감독 Christopher Hampton이 제30회 Tallinn Black Nights Film Festival(PÖFF)에서 “From Stage to Screen: The Art of Adaptation” 마스터클래스를 열며 Industry@Tallinn & Baltic Event의 Discovery Campus 2026 첫 순서를 맡았다."
               },
               {
                 "t": "p",
-                "x": "“지난 한 해 동안 우리 작업의 상당 부분은 표준이 생기도록 AI 인증의 기회를 만드는 일이었다.” Penotti의 말이다. “지난 한 해 남짓 이곳 Film Committee에서 시작해, AI 인증이 전 세계에서 인정받는 절차를 개발해 왔다.”"
+                "x": "그는 “인공지능은 나를 크게 괴롭힌 주제가 아니다”라며 “나는 진짜 지능에 더 관심이 있다. … 흥미로운 작업도 많겠지만, 내게는 일종의 슈퍼 Google에 지나지 않는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "표준 마련에는 여러 파트너가 함께했고, 세부 내용은 두 주 안에 공개된다. “우리가 입증할 수 있는 윤리적 저작권이 있다. 여기에는 ‘이것이 작가가 의도한 바이며, 우리는 작품의 수명 내내 이를 지킬 것’이라고 말하는 인장이 붙는다.” 함께 패널로 나선 Holywater Tech의 Anatolii Kasianov는 “몇 년 안에 물리적 제작은 더 이상 그리 중요하지 않을 것”이라고 내다봤다."
+                "x": "AI가 작가 자리를 대신할지를 두고는 “다들 이 문제로 불안해하는 걸 알지만, 그런 일은 일어나지 않을 것이다. … 우리의 작업이 그쪽 작업보다 더 흥미롭다고 생각한다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "AI에 기대려는 젊은 작가에게는 “차라리 다른 직업을 고르는 편이 낫다”고 했다. “AI의 도움으로 각본을 쓴다면 쉬운 길을 고르는 것이다. 게으른 것이다.”"
+              },
+              {
+                "t": "p",
+                "x": "질의응답(Q&A)에서 그는 “AI는, 아마 모든 것이 늘 공식대로 하도록 등을 떠미는 것 같고, 물론 그게 Hollywood 스튜디오들을 기쁘게 한다”고 덧붙였다. Hampton은 이번 영화제에서 공식 경쟁 부문 심사위원장을 맡아 다섯 명의 심사위원단을 이끈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Qatar映画委員会が\nAI認証の基準づくり",
-          "body": "John PenottiはQatarのFilm CommitteeとAI認証を作ってきた。",
-          "mini_headline": "Qatar、AI認証を策定",
+          "headline": "オスカー受賞Hampton\nAIは「超Google」",
+          "body": "Hampton氏はTallinnのPÖFFで、AIで脚本を書くのは安易な選択だと語った。",
+          "mini_headline": "Hampton「AIは超Google」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Tallinn 2026のマスタークラスに登壇したSir Christopher Hampton（左）。"
               },
               {
                 "t": "p",
-                "x": "『Crazy Rich Asians』のプロデューサーJohn Penottiは、Doha Film FestivalのDoha Industry Daysのパネルで、Media City QatarのFilm CommitteeとともにAI認証基準を開発していると明らかにした。"
+                "x": "Oscarを二度受賞した脚本家・監督のChristopher Hamptonが、第30回Tallinn Black Nights Film Festival（PÖFF）でマスタークラス「From Stage to Screen: The Art of Adaptation」に登壇し、Industry@Tallinn & Baltic EventのDiscovery Campus 2026の幕を開けた。"
               },
               {
                 "t": "p",
-                "x": "「この一年の私たちの仕事の多くは、基準ができるようAI認証の機会をつくることだった」とPenottiは語った。「ここFilm Committeeを起点に、この一年ほど、AI認証が世界的に認められるためのプロセスを開発してきた」"
+                "x": "「人工知能は、私をそれほど悩ませてきたテーマではない」と彼は語った。「私は本物の知性のほうに関心がある。…興味深い仕事も多いのだろうが、私にとっては一種のスーパーGoogleにすぎない」"
               },
               {
                 "t": "p",
-                "x": "複数のパートナーがこの基準のもとに集まっており、詳細は今後二週間のうちに発表される予定だ。「証明できる倫理的な作者性があり、そこには『これが作者の意図したものであり、私たちはその寿命を通じてそれを守る』と示すスタンプが押される」。同じくパネリストを務めたHolywater TechのAnatolii Kasianovは「数年のうちに、物理的な制作はもはやそれほど重要ではなくなる」と予測した。"
+                "x": "AIが脚本家に取って代わるかについては、「皆がこのことで不安を抱いているのは知っているが、そうはならないと思う。…私たちの仕事のほうが、あちらの仕事より面白い」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "AIに頼りたいなら、若い書き手は「別の職業を選んだほうがいい」とも示唆した。「AIの助けを借りて脚本を書くなら、それは安易な道を選んでいるということだ。怠けているのだ」"
+              },
+              {
+                "t": "p",
+                "x": "質疑応答（Q&A）では「AIというのは、何もかもが常に型どおりになるよう背中を押してくるのだと思う。もちろん、それこそがHollywoodのスタジオを喜ばせる」と付け加えた。Hamptonは同映画祭の公式コンペティション部門で五人構成の審査員団の長を務める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Qatar电影委员会\n打造AI认证标准",
-          "body": "John Penotti与Qatar的Film Committee花一年打造AI认证。",
-          "mini_headline": "Qatar制定AI认证",
+          "headline": "奥斯卡得主Hampton\n称AI只是超级Google",
+          "body": "两度获奥斯卡的Christopher Hampton在PÖFF表示，用AI写剧本是图省事。",
+          "mini_headline": "Hampton：AI是超级Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Sir Christopher Hampton（左）在Tallinn 2026大师班上。"
               },
               {
                 "t": "p",
-                "x": "《Crazy Rich Asians》制片人John Penotti在Doha Film Festival的Doha Industry Days小组讨论中表示，他正与Media City Qatar的Film Committee共同制定AI认证标准。"
+                "x": "两度获得Oscar的编剧兼导演Christopher Hampton在第30届Tallinn Black Nights Film Festival（PÖFF）主讲大师班“From Stage to Screen: The Art of Adaptation”，为Industry@Tallinn & Baltic Event的Discovery Campus 2026拉开序幕。"
               },
               {
                 "t": "p",
-                "x": "“过去一年，我们的很多工作是创造AI认证的机会，从而形成一套标准，”Penotti说，“过去一年左右，我们从Film Committee起步，一直在开发一套让AI认证获得全球认可的流程。”"
+                "x": "“人工智能并不是一个让我太困扰的话题，”他说。“我对真正的智能更感兴趣。……我相信很多相关工作都很有意思，但对我来说，它不过是一种超级Google。”"
               },
               {
                 "t": "p",
-                "x": "一批合作伙伴已围绕该标准聚集，更多细节将在未来两周内公布。“我们可以证明一种合乎伦理的作者身份，它带有一个印章，表明‘这就是作者的本意，我们将在其整个生命周期中守护它’。”同场嘉宾、Holywater Tech的Anatolii Kasianov预测，“几年之内，实体制作将不再那么重要。”"
+                "x": "谈到AI取代编剧：“我知道大家都为此焦虑，但我认为这不会发生。……我觉得我们的作品比它的作品更有意思。”"
+              },
+              {
+                "t": "p",
+                "x": "他建议，如果年轻编剧想依赖AI，“不如干脆换个职业”。“如果你借助AI写剧本，你就是在选择轻松的路。你在偷懒。”"
+              },
+              {
+                "t": "p",
+                "x": "在问答环节（Q&A）中他补充道：“AI，我想一切都在推着你始终套用公式，当然，这正是让Hollywood片厂高兴的东西。”Hampton担任本届电影节官方竞赛单元五人评审团主席。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Film Committee de Qatar crea\nun estándar de certificación AI",
-          "body": "El productor John Penotti dijo que pasó un año con el Film Committee de Qatar creando una certificación AI global.",
-          "mini_headline": "Qatar prepara una certificación AI",
+          "headline": "Hampton, ganador del Oscar:\nla AI es solo un súper Google",
+          "body": "El dos veces ganador del Oscar Christopher Hampton dijo en el PÖFF de Tallinn que escribir con AI es elegir lo fácil.",
+          "mini_headline": "Hampton: la AI, un súper Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Sir Christopher Hampton (izquierda) durante su clase magistral en Tallinn 2026."
               },
               {
                 "t": "p",
-                "x": "John Penotti, productor de Crazy Rich Asians, está desarrollando un estándar de certificación de AI con el Film Committee de Media City Qatar, según dijo en un panel de los Doha Industry Days del Doha Film Festival."
+                "x": "El guionista y director Christopher Hampton, dos veces ganador del Oscar, habló en el 30.º Tallinn Black Nights Film Festival (PÖFF) en la clase magistral “From Stage to Screen: The Art of Adaptation”, que inauguró el Discovery Campus 2026 de Industry@Tallinn & Baltic Event."
               },
               {
                 "t": "p",
-                "x": "“Gran parte de nuestro trabajo del último año ha consistido en crear una oportunidad de certificación de AI para que haya un estándar”, dijo Penotti. “Empezando aquí, en el Film Committee, durante el último año más o menos, hemos desarrollado un proceso para que una certificación de AI tenga reconocimiento mundial”."
+                "x": "“La inteligencia artificial no es un tema que me haya inquietado mucho”, dijo. “Me interesa más la inteligencia real. … Seguro que gran parte del trabajo es muy interesante, pero para mí no es más que una especie de súper Google”."
               },
               {
                 "t": "p",
-                "x": "Un grupo de socios se ha reunido en torno al estándar, y se anunciarán más detalles en las próximas dos semanas. “Hay una autoría ética que podemos demostrar, con un sello que dice: ‘Esto es lo que el autor pretendía, y lo vamos a proteger durante toda su vida útil’”. Anatolii Kasianov, de Holywater Tech, también panelista, predijo que “en un par de años, la producción física ya no será tan relevante”."
+                "x": "Sobre la AI reemplazando a los guionistas: “Sé que todos están inquietos por esto, pero no creo que vaya a suceder. … Creo que nuestro trabajo es más interesante que el suyo”."
+              },
+              {
+                "t": "p",
+                "x": "Sugirió que los escritores jóvenes “bien podrían elegir otra profesión” si quieren depender de la AI. “Si escribes un guion con ayuda de la AI, estás eligiendo algo fácil. Estás siendo perezoso”."
+              },
+              {
+                "t": "p",
+                "x": "En la sesión de Q&A añadió: “Con la AI, supongo que todo te empuja a ser siempre formulaico, y por supuesto eso es lo que hace felices a los estudios de Hollywood”. Hampton preside el jurado de cinco miembros de la competencia oficial del festival."
               }
             ]
           }
@@ -1065,105 +1399,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Qatar 영화위원회,\nAI 인증 표준 만든다",
-          "body": "Penotti는 Qatar Film Committee와 AI 인증을 만들어 왔다.",
-          "mini_headline": "Qatar, AI 인증 추진",
+          "headline": "오스카 수상 Hampton\nAI는 슈퍼 Google",
+          "body": "Hampton은 PÖFF에서 AI로 각본을 쓰는 건 쉬운 선택이라고 말했다.",
+          "mini_headline": "Hampton, AI는 슈퍼 Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Tallinn 2026 마스터클래스에 나선 Sir Christopher Hampton(왼쪽)."
               },
               {
                 "t": "p",
-                "x": "Crazy Rich Asians의 제작자 John Penotti가 Media City Qatar의 Film Committee와 함께 AI 인증 표준을 개발하고 있다고 Doha Film Festival의 Doha Industry Days 패널에서 밝혔다."
+                "x": "Oscar를 두 번 받은 각본가 겸 감독 Christopher Hampton이 제30회 Tallinn Black Nights Film Festival(PÖFF)에서 “From Stage to Screen: The Art of Adaptation” 마스터클래스로 Industry@Tallinn & Baltic Event의 Discovery Campus 2026의 문을 열었다."
               },
               {
                 "t": "p",
-                "x": "“지난 한 해 동안 우리 작업의 상당 부분은 표준이 생기도록 AI 인증의 기회를 만드는 일이었다.” Penotti의 말이다. “지난 한 해 남짓 이곳 Film Committee에서 시작해, AI 인증이 전 세계에서 인정받는 절차를 개발해 왔다.”"
+                "x": "그는 “인공지능은 나를 크게 괴롭힌 주제가 아니다”라며 “나는 진짜 지능에 더 관심이 있다. … 흥미로운 작업도 많겠지만, 내게는 일종의 슈퍼 Google에 지나지 않는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "여러 파트너가 이 표준을 위해 모였으며, 세부 내용은 앞으로 두 주 안에 나온다. “우리가 입증할 수 있는 윤리적 저작권이 있다. 여기에는 ‘이것이 작가가 의도한 바이며, 우리는 작품의 수명 내내 이를 지킬 것’이라고 말하는 인장이 붙는다.” 함께 패널로 나선 Holywater Tech의 Anatolii Kasianov는 “몇 년 안에 물리적 제작은 더 이상 그리 중요하지 않을 것”이라고 내다봤다."
+                "x": "AI가 작가를 대체할지에 대해서는 “다들 이 문제로 불안해하는 걸 알지만, 그런 일은 일어나지 않을 것이다. … 우리의 작업이 그쪽 작업보다 더 흥미롭다고 생각한다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 젊은 작가들이 AI에 기대려 한다면 “차라리 다른 직업을 고르는 편이 낫다”고 했다. “AI의 도움으로 각본을 쓴다면 쉬운 길을 고르는 것이다. 게으른 것이다.”"
+              },
+              {
+                "t": "p",
+                "x": "질의응답(Q&A)에서 그는 “AI는, 아마 모든 것이 늘 공식대로 하도록 등을 떠미는 것 같고, 물론 그게 Hollywood 스튜디오들을 기쁘게 한다”고 덧붙였다. Hampton은 영화제 공식 경쟁 부문 다섯 명 심사위원단의 위원장을 맡고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Qatar映画委員会が\nAI認証の基準づくり",
-          "body": "John PenottiはQatarのFilm CommitteeとAI認証を作ってきた。",
-          "mini_headline": "Qatar、AI認証を策定",
+          "headline": "オスカー受賞Hampton\nAIは「超Google」",
+          "body": "Hampton氏はTallinnのPÖFFで、AIで脚本を書くのは安易な選択だと語った。",
+          "mini_headline": "Hampton「AIは超Google」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Tallinn 2026のマスタークラスに登壇したSir Christopher Hampton（左）。"
               },
               {
                 "t": "p",
-                "x": "『Crazy Rich Asians』のプロデューサーJohn Penottiは、Doha Film FestivalのDoha Industry Daysのパネルで、Media City QatarのFilm CommitteeとともにAI認証基準を開発していると明らかにした。"
+                "x": "Oscarを二度受賞した脚本家・監督のChristopher Hamptonが、第30回Tallinn Black Nights Film Festival（PÖFF）でマスタークラス「From Stage to Screen: The Art of Adaptation」に登壇し、Industry@Tallinn & Baltic EventのDiscovery Campus 2026の幕を開けた。"
               },
               {
                 "t": "p",
-                "x": "「この一年の私たちの仕事の多くは、基準ができるようAI認証の機会をつくることだった」とPenottiは語った。「ここFilm Committeeを起点に、この一年ほど、AI認証が世界的に認められるためのプロセスを開発してきた」"
+                "x": "「人工知能は、私をそれほど悩ませてきたテーマではない」と彼は語った。「私は本物の知性のほうに関心がある。…興味深い仕事も多いのだろうが、私にとっては一種のスーパーGoogleにすぎない」"
               },
               {
                 "t": "p",
-                "x": "複数のパートナーがこの基準のもとに集まっており、詳細は今後二週間のうちに発表される予定だ。「証明できる倫理的な作者性があり、そこには『これが作者の意図したものであり、私たちはその寿命を通じてそれを守る』と示すスタンプが押される」。同じくパネリストを務めたHolywater TechのAnatolii Kasianovは「数年のうちに、物理的な制作はもはやそれほど重要ではなくなる」と予測した。"
+                "x": "AIが脚本家に取って代わるかについては、「皆がこのことで不安を抱いているのは知っているが、そうはならないと思う。…私たちの仕事のほうが、あちらの仕事より面白い」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "AIに頼りたいなら、若い書き手は「別の職業を選んだほうがいい」とも示唆した。「AIの助けを借りて脚本を書くなら、それは安易な道を選んでいるということだ。怠けているのだ」"
+              },
+              {
+                "t": "p",
+                "x": "質疑応答（Q&A）では「AIというのは、何もかもが常に型どおりになるよう背中を押してくるのだと思う。もちろん、それこそがHollywoodのスタジオを喜ばせる」と付け加えた。Hamptonは同映画祭の公式コンペティション部門で五人構成の審査員団の長を務める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Qatar电影委员会\n打造AI认证标准",
-          "body": "John Penotti与Qatar的Film Committee花一年打造AI认证。",
-          "mini_headline": "Qatar制定AI认证",
+          "headline": "奥斯卡得主Hampton\n称AI只是超级Google",
+          "body": "两度获奥斯卡的Christopher Hampton在PÖFF表示，用AI写剧本是图省事。",
+          "mini_headline": "Hampton：AI是超级Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Sir Christopher Hampton（左）在Tallinn 2026大师班上。"
               },
               {
                 "t": "p",
-                "x": "《Crazy Rich Asians》制片人John Penotti在Doha Film Festival的Doha Industry Days小组讨论中表示，他正与Media City Qatar的Film Committee共同制定AI认证标准。"
+                "x": "两度获得Oscar的编剧兼导演Christopher Hampton在第30届Tallinn Black Nights Film Festival（PÖFF）主讲大师班“From Stage to Screen: The Art of Adaptation”，为Industry@Tallinn & Baltic Event的Discovery Campus 2026拉开序幕。"
               },
               {
                 "t": "p",
-                "x": "“过去一年，我们的很多工作是创造AI认证的机会，从而形成一套标准，”Penotti说，“过去一年左右，我们从Film Committee起步，一直在开发一套让AI认证获得全球认可的流程。”"
+                "x": "“人工智能并不是一个让我太困扰的话题，”他说。“我对真正的智能更感兴趣。……我相信很多相关工作都很有意思，但对我来说，它不过是一种超级Google。”"
               },
               {
                 "t": "p",
-                "x": "一批合作伙伴已围绕该标准聚集，更多细节将在未来两周内公布。“我们可以证明一种合乎伦理的作者身份，它带有一个印章，表明‘这就是作者的本意，我们将在其整个生命周期中守护它’。”同场嘉宾、Holywater Tech的Anatolii Kasianov预测，“几年之内，实体制作将不再那么重要。”"
+                "x": "谈到AI取代编剧：“我知道大家都为此焦虑，但我认为这不会发生。……我觉得我们的作品比它的作品更有意思。”"
+              },
+              {
+                "t": "p",
+                "x": "他建议，如果年轻编剧想依赖AI，“不如干脆换个职业”。“如果你借助AI写剧本，你就是在选择轻松的路。你在偷懒。”"
+              },
+              {
+                "t": "p",
+                "x": "在问答环节（Q&A）中他补充道：“AI，我想一切都在推着你始终套用公式，当然，这正是让Hollywood片厂高兴的东西。”Hampton担任本届电影节官方竞赛单元五人评审团主席。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Film Committee de Qatar crea\nun estándar de certificación AI",
-          "body": "El productor John Penotti dijo que pasó un año con el Film Committee de Qatar creando una certificación AI global.",
-          "mini_headline": "Qatar prepara una certificación AI",
+          "headline": "Hampton, ganador del Oscar:\nla AI es solo un súper Google",
+          "body": "El dos veces ganador del Oscar Christopher Hampton dijo en el PÖFF de Tallinn que escribir con AI es elegir lo fácil.",
+          "mini_headline": "Hampton: la AI, un súper Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/8/3/1492683_whatsappimage20261120at12.19.50_607371.jpeg"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
+                "cap": "Sir Christopher Hampton (izquierda) durante su clase magistral en Tallinn 2026."
               },
               {
                 "t": "p",
-                "x": "John Penotti, productor de Crazy Rich Asians, está desarrollando un estándar de certificación de AI con el Film Committee de Media City Qatar, según dijo en un panel de los Doha Industry Days del Doha Film Festival."
+                "x": "El guionista y director Christopher Hampton, dos veces ganador del Oscar, habló en el 30.º Tallinn Black Nights Film Festival (PÖFF) en la clase magistral “From Stage to Screen: The Art of Adaptation”, que inauguró el Discovery Campus 2026 de Industry@Tallinn & Baltic Event."
               },
               {
                 "t": "p",
-                "x": "“Gran parte de nuestro trabajo del último año ha consistido en crear una oportunidad de certificación de AI para que haya un estándar”, dijo Penotti. “Empezando aquí, en el Film Committee, durante el último año más o menos, hemos desarrollado un proceso para que una certificación de AI tenga reconocimiento mundial”."
+                "x": "“La inteligencia artificial no es un tema que me haya inquietado mucho”, dijo. “Me interesa más la inteligencia real. … Seguro que gran parte del trabajo es muy interesante, pero para mí no es más que una especie de súper Google”."
               },
               {
                 "t": "p",
-                "x": "Un grupo de socios se ha reunido en torno al estándar, y se anunciarán más detalles en las próximas dos semanas. “Hay una autoría ética que podemos demostrar, con un sello que dice: ‘Esto es lo que el autor pretendía, y lo vamos a proteger durante toda su vida útil’”. Anatolii Kasianov, de Holywater Tech, también panelista, predijo que “en un par de años, la producción física ya no será tan relevante”."
+                "x": "Sobre la AI reemplazando a los guionistas: “Sé que todos están inquietos por esto, pero no creo que vaya a suceder. … Creo que nuestro trabajo es más interesante que el suyo”."
+              },
+              {
+                "t": "p",
+                "x": "Sugirió que los escritores jóvenes “bien podrían elegir otra profesión” si quieren depender de la AI. “Si escribes un guion con ayuda de la AI, estás eligiendo algo fácil. Estás siendo perezoso”."
+              },
+              {
+                "t": "p",
+                "x": "En la sesión de Q&A añadió: “Con la AI, supongo que todo te empuja a ser siempre formulaico, y por supuesto eso es lo que hace felices a los estudios de Hollywood”. Hampton preside el jurado de cinco miembros de la competencia oficial del festival."
               }
             ]
           }
@@ -1171,15 +1541,15 @@
       }
     },
     {
-      "id": "mateo-wiingeukjang-ai-drama",
-      "source_lang": "ko",
+      "id": "thewrap-genz-ai-film-backlash",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "100% AI 시대극\n'위인극장' 첫 공개",
-      "body": "관객 선택에 따라 전개가 바뀌는 AI 시대극 '위인극장'이 부산에서 공개됐다.",
-      "mini_headline": "AI 시대극 '위인극장'",
+      "headline": "할리우드는 AI 수용\nGen Z는 반발한다",
+      "body": "스튜디오는 AI를 반기지만 AI에 익숙한 젊은 관객은 영화 속 AI를 꺼린다.",
+      "mini_headline": "Gen Z, AI 영화에 반발",
       "tool": "Movies",
-      "source": "에너지뉴스 (2news.co.kr)",
-      "url": "https://www.2news.co.kr/news/articleView.html?idxno=33410",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/industry-news/tech/gen-z-hollywood-ai-opposition-films/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1187,255 +1557,375 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
           },
           {
             "t": "p",
-            "x": "마테오AI스튜디오가 한국콘텐츠진흥원의 지원을 받아 제작한 100% 생성형 AI 인터랙티브 시대극 ‘위인극장’을 2026년 11월 20일 부산국제영화제 아시아콘텐츠&필름마켓(ACFM)에서 처음 공개했다. 부산 영상산업센터에서 열린 ACFM InnoAsia WIP 쇼케이스에서 작품의 주요 장면과 인터랙티브 구조를 공개했다."
+            "x": "젊은 관객은 AI 사용을 받아들였지만 영화에 AI를 쓰는 일에는 여전히 반대가 많다. 조사업체 NRG가 TheWrap에 제공한 데이터를 보면 Gen Z 응답자의 삼분의 이 가까이가 AI가 연기하는(AI-played) 주인공은 받아들일 수 없다고 답했다. 포스터와 예고편 같은 마케팅에 AI를 쓰는 것도 더 경계했다."
           },
           {
             "t": "p",
-            "x": "위인극장은 김홍도, 소현세자, 최부를 각각 주인공으로 한 총 3편의 에피소드로 구성됐다. 영상 전체를 100% 생성형 AI로 구현했으며 이번 쇼케이스에서는 단원 김홍도 편을 먼저 선보였다. 관객이 이야기의 주요 분기점마다 직접 선택을 내리고, 그 선택에 따라 다음 전개가 달라지는 인터랙티브 구조가 가장 큰 특징이다."
+            "x": "그럼에도 Gen Z 응답자의 39%는 AI 생성 소재가 일부 들어간 영화에 더 관심이 간다고 답했다. Millennials와 Gen X보다 높은 수치다. 특수효과나 색보정, 스턴트 대역 같은 영역이라면 거부감이 덜하다는 신호다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
           },
           {
             "t": "p",
-            "x": "정주원 대표가 발표자로 나서 기획 의도와 제작 과정, 인터랙티브 분기 설계 방식을 소개했다. 마테오AI스튜디오는 AI 단편 ‘마테오’(2024)로 제1회 대한민국 AI 국제영화제 대상을, ‘목격자’(2024)로 제1회 부산국제AI영화제 대상을 받았으며, 100% 생성형 AI 장편 ‘라파엘’(2026)의 11월 25일 국내 개봉을 앞두고 있다."
+            "x": "반감은 상당 부분 일자리를 잃을지 모른다는 두려움에서 나온다. Hartbeat의 Jeff Clanagan 대표는 “Gen Z는 소셜미디어 속에서 살기 때문에 질 낮은 AI 찌꺼기(slop)를 늘 받아먹고 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "관객 분위기는 초기 AI 영화들에서 먼저 드러날 것이다. Fable Studio의 “Gods Don’t Give Gifts”가 12월 4일 극장에 걸리고 Secret Level의 Jason Zada는 하이브리드 AI 호러 영화 “Terrarium”을 만들고 있다."
+          },
+          {
+            "t": "p",
+            "x": "NRG의 Kevin Tran은 “Gen Z는 전반적으로 배우와 작가를 대체하며 창작 과정 곳곳에 AI가 퍼지는 것보다, 색보정이나 특수효과 제작처럼 비하인드 작업을 보강하는 AI에 가장 관대하다”고 말했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "100% AI 시대극\n'위인극장' 첫 공개",
-          "body": "관객 선택에 따라 전개가 바뀌는 AI 시대극 '위인극장'이 부산에서 공개됐다.",
-          "mini_headline": "AI 시대극 '위인극장'",
+        "en": {
+          "headline": "Hollywood embraces AI,\nGen Z is pushing back",
+          "body": "While studios embrace AI, younger audiences who have embraced using it show notable opposition to AI in film.",
+          "mini_headline": "Gen Z pushes back on AI films",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "마테오AI스튜디오가 한국콘텐츠진흥원의 지원을 받아 제작한 100% 생성형 AI 인터랙티브 시대극 ‘위인극장’을 2026년 11월 20일 부산국제영화제 아시아콘텐츠&필름마켓(ACFM)에서 처음 공개했다. 부산 영상산업센터에서 열린 ACFM InnoAsia WIP 쇼케이스에서 작품의 주요 장면과 인터랙티브 구조를 공개했다."
+                "x": "While younger audiences have embraced using AI, there’s still a lot of opposition to its use in cinema. Data gathered by research firm NRG for TheWrap found nearly two-thirds of Gen Z respondents feel an AI-played main character unacceptable, and are more wary of AI in posters, trailers and other marketing."
               },
               {
                 "t": "p",
-                "x": "위인극장은 김홍도, 소현세자, 최부를 각각 주인공으로 한 총 3편의 에피소드로 구성됐다. 영상 전체를 100% 생성형 AI로 구현했으며 이번 쇼케이스에서는 단원 김홍도 편을 먼저 선보였다. 관객이 이야기의 주요 분기점마다 직접 선택을 내리고, 그 선택에 따라 다음 전개가 달라지는 인터랙티브 구조가 가장 큰 특징이다."
+                "x": "Yet 39% of Gen Z respondents said they would be more interested in a movie that had some AI generated material — above Millennials and Gen X, suggesting more acceptance in areas like special effects, color correction or stunt doubles."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "정주원 대표가 발표자로 나서 기획 의도와 제작 과정, 인터랙티브 분기 설계 방식을 소개했다. 마테오AI스튜디오는 AI 단편 ‘마테오’(2024)로 제1회 대한민국 AI 국제영화제 대상을, ‘목격자’(2024)로 제1회 부산국제AI영화제 대상을 받았으며, 100% 생성형 AI 장편 ‘라파엘’(2026)의 11월 25일 국내 개봉을 앞두고 있다."
+                "x": "Jobs fears underpin much of the opposition. “Gen Z lives on social media, so they’re getting fed bad AI slop all the time,” said Hartbeat president Jeff Clanagan."
+              },
+              {
+                "t": "p",
+                "x": "Early AI films will test the mood: Fable Studio's “Gods Don’t Give Gifts” hits theaters Dec. 4, and Secret Level's Jason Zada is making the hybrid AI horror film “Terrarium.”"
+              },
+              {
+                "t": "p",
+                "x": "“Gen Z overall remains most permissive of AI augmenting behind-the-scenes workflows like color-correcting and creating special effects, rather than having it omnipresent in the creative process replacing actors and writers,” said NRG's Kevin Tran."
               }
             ]
           }
         },
-        "en": {
-          "headline": "100% AI period drama\n'Wiin Geukjang' premieres",
-          "body": "'Wiin Geukjang', an AI period drama whose story changes with audience choices, premiered in Busan.",
-          "mini_headline": "AI period drama 'Wiin Geukjang'",
+        "ko": {
+          "headline": "할리우드는 AI 수용\nGen Z는 반발한다",
+          "body": "스튜디오는 AI를 반기지만 AI에 익숙한 젊은 관객은 영화 속 AI를 꺼린다.",
+          "mini_headline": "Gen Z, AI 영화에 반발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Mateo AI Studio unveiled 'Wiin Geukjang', a 100% generative AI interactive period drama made with support from the Korea Creative Content Agency, for the first time on November 20, 2026, at the Busan International Film Festival's Asian Contents & Film Market (ACFM). At the ACFM InnoAsia WIP showcase held at the Busan Film Industry Center, the studio presented key scenes and the work's interactive structure."
+                "x": "젊은 관객은 AI 사용을 받아들였지만 영화에 AI를 쓰는 일에는 여전히 반대가 많다. 조사업체 NRG가 TheWrap에 제공한 데이터를 보면 Gen Z 응답자의 삼분의 이 가까이가 AI가 연기하는(AI-played) 주인공은 받아들일 수 없다고 답했다. 포스터와 예고편 같은 마케팅에 AI를 쓰는 것도 더 경계했다."
               },
               {
                 "t": "p",
-                "x": "'Wiin Geukjang' consists of 3 episodes, each centered on Kim Hong-do, Crown Prince Sohyeon and Choe Bu. The entire video was made with 100% generative AI, and the showcase presented the Danwon Kim Hong-do episode first. Its defining feature is an interactive structure in which the audience makes a choice at each major turning point of the story, and the next development changes with that choice."
+                "x": "그럼에도 Gen Z 응답자의 39%는 AI 생성 소재가 일부 들어간 영화에 더 관심이 간다고 답했다. Millennials와 Gen X보다 높은 수치다. 특수효과나 색보정, 스턴트 대역 같은 영역이라면 거부감이 덜하다는 신호다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "CEO Jeong Ju-won, the presenter, introduced the project's intent, production process and how its interactive branches were designed. Mateo AI Studio won the grand prize at the 1st Korea AI International Film Festival with the AI short 'Mateo' (2024) and the grand prize at the 1st Busan International AI Film Festival with 'The Witness' (2024), and its 100% generative AI feature 'Raphael' (2026) is set for release in Korea on November 25."
+                "x": "반감은 상당 부분 일자리를 잃을지 모른다는 두려움에서 나온다. Hartbeat의 Jeff Clanagan 대표는 “Gen Z는 소셜미디어 속에서 살기 때문에 질 낮은 AI 찌꺼기(slop)를 늘 받아먹고 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "관객 분위기는 초기 AI 영화들에서 먼저 드러날 것이다. Fable Studio의 “Gods Don’t Give Gifts”가 12월 4일 극장에 걸리고 Secret Level의 Jason Zada는 하이브리드 AI 호러 영화 “Terrarium”을 만들고 있다."
+              },
+              {
+                "t": "p",
+                "x": "NRG의 Kevin Tran은 “Gen Z는 전반적으로 배우와 작가를 대체하며 창작 과정 곳곳에 AI가 퍼지는 것보다, 색보정이나 특수효과 제작처럼 비하인드 작업을 보강하는 AI에 가장 관대하다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "100% AIの時代劇\n『偉人劇場』初公開",
-          "body": "観客の選択で展開が変わるAI時代劇『偉人劇場』が釜山で公開された。",
-          "mini_headline": "AI時代劇『偉人劇場』",
+          "headline": "HollywoodはAI歓迎\nGen Zは反発",
+          "body": "スタジオがAIを歓迎する一方、AIに慣れた若い観客は映画でのAI利用に目立って反対している。",
+          "mini_headline": "Gen Z、AI映画に反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "マテオAIスタジオは、韓国コンテンツ振興院の支援を受けて制作した100%生成AIのインタラクティブ時代劇『偉人劇場』を、2026年11月20日に釜山国際映画祭アジアコンテンツ&フィルムマーケット(ACFM)で初公開した。釜山映像産業センターで開かれたACFM InnoAsia WIPショーケースで、作品の主要シーンとインタラクティブ構造を披露した。"
+                "x": "若い観客はAIの利用を受け入れているが、映画での使用にはなお反対が根強い。調査会社NRGがTheWrapのために集めたデータによると、Gen Zの回答者の三分の二近くがAIが演じる主人公（AI-played）を受け入れられないと感じ、ポスターや予告編などのマーケティングでのAIにも一段と警戒している。"
               },
               {
                 "t": "p",
-                "x": "『偉人劇場』は金弘道、昭顕世子、崔溥をそれぞれ主人公とする全3話のエピソードで構成される。映像全体を100%生成AIで制作し、今回のショーケースでは檀園・金弘道編を先行公開した。観客が物語の主要な分岐点ごとに自ら選択し、その選択によって次の展開が変わるインタラクティブ構造が最大の特徴だ。"
+                "x": "それでもGen Zの回答者の39%は、AI生成素材を一部含む映画にはより興味が湧くと答えた。MillennialsやGen Xを上回る数字で、特殊効果や色補正、スタントダブルといった分野では受容度が高いことがうかがえる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "チョン・ジュウォン代表が発表者として登壇し、企画意図と制作過程、インタラクティブな分岐の設計方法を紹介した。マテオAIスタジオはAI短編『マテオ』(2024)で第1回大韓民国AI国際映画祭の大賞を、『目撃者』(2024)で第1回釜山国際AI映画祭の大賞を受賞しており、100%生成AI長編『ラファエル』(2026)の11月25日の韓国公開を控えている。"
+                "x": "反対の多くは雇用への不安に根ざしている。Hartbeatのプレジデント、Jeff Clanaganは「Gen ZはSNSの中で暮らしているから、質の悪いAIスロップを常に浴びている」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "初期のAI映画が空気を試すことになる。Fable Studioの「Gods Don’t Give Gifts」が12月4日に劇場公開され、Secret LevelのJason ZadaはハイブリッドAIホラー映画「Terrarium」を制作中だ。"
+              },
+              {
+                "t": "p",
+                "x": "NRGのKevin Tranは「Gen Zは全体として、俳優や脚本家に取って代わり創作過程のあらゆる場面にAIが入り込むことよりも、色補正や特殊効果の制作といった裏方の作業をAIが補うことに最も寛容だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "100% AI历史剧\n《伟人剧场》首次公开",
-          "body": "可随观众选择改变剧情走向的AI历史剧《伟人剧场》在釜山首次亮相。",
-          "mini_headline": "AI历史剧《伟人剧场》",
+          "headline": "Hollywood拥抱AI\nGen Z却在抵制",
+          "body": "片厂拥抱AI之际，惯用AI的年轻观众却明显反对电影使用AI。",
+          "mini_headline": "Gen Z抵制AI电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "马特奥AI工作室在韩国内容振兴院支持下制作的100%生成式AI互动历史剧《伟人剧场》，于2026年11月20日在釜山国际电影节亚洲内容与电影市场（ACFM）首次公开。在釜山影像产业中心举行的ACFM InnoAsia WIP展示会上，团队公开了作品的主要场景和互动结构。"
+                "x": "尽管年轻观众已乐于使用AI，但电影中使用AI仍遭到不少反对。调研公司NRG为TheWrap收集的数据显示，近三分之二的Gen Z受访者认为由AI扮演主角（AI-played）不可接受，并对海报、预告片等营销中的AI更加警惕。"
               },
               {
                 "t": "p",
-                "x": "《伟人剧场》共3集，分别以金弘道、昭显世子和崔溥为主人公。影像全部由100%生成式AI制作，此次展示会率先公开了檀园金弘道篇。最大特点是互动结构：观众在故事的每个关键分岔点亲自做出选择，下一步剧情随之改变。"
+                "x": "不过，39%的Gen Z受访者表示，会对含有部分AI生成素材的电影更感兴趣，高于Millennials和Gen X，这表明他们在特效、调色或特技替身等领域接受度更高。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "代表Jeong Ju-won作为发言人登台，介绍了策划意图、制作过程和互动分支的设计方式。马特奥AI工作室曾凭AI短片《马特奥》（2024）获得第1届大韩民国AI国际电影节大奖，凭《目击者》（2024）获得第1届釜山国际AI电影节大奖，其100%生成式AI长片《拉斐尔》（2026）将于11月25日在韩国上映。"
+                "x": "对工作的担忧是反对声音的主要根源。Hartbeat总裁Jeff Clanagan说：“Gen Z生活在社交媒体上，所以一直被灌输劣质的AI垃圾内容。”"
+              },
+              {
+                "t": "p",
+                "x": "早期AI电影将试探市场情绪：Fable Studio的《Gods Don’t Give Gifts》将于12月4日上映，Secret Level的Jason Zada正在制作混合AI恐怖片《Terrarium》。"
+              },
+              {
+                "t": "p",
+                "x": "NRG的Kevin Tran表示：“总体而言，Gen Z最能接受AI辅助调色、制作特效等幕后工作，而不是让AI充斥创作过程、取代演员和编剧。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Drama de época 100% AI:\n'Wiin Geukjang' se estrena",
-          "body": "'Wiin Geukjang', un drama de época con AI cuya trama cambia según las decisiones del público, se presentó en Busan.",
-          "mini_headline": "Drama de época con AI 'Wiin Geukjang'",
+          "headline": "Hollywood abraza la AI,\npero la Gen Z se resiste",
+          "body": "Mientras los estudios abrazan la AI, el público joven que ya la usa muestra un rechazo notable a la AI en el cine.",
+          "mini_headline": "La Gen Z rechaza el cine con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Mateo AI Studio presentó por primera vez el 20 de noviembre de 2026, en el Asian Contents & Film Market (ACFM) del Festival Internacional de Cine de Busan, 'Wiin Geukjang', un drama de época interactivo hecho al 100% con AI generativa y producido con el apoyo de la Agencia Coreana de Contenidos Creativos. En el showcase ACFM InnoAsia WIP, celebrado en el Centro de la Industria Audiovisual de Busan, mostró las escenas principales y la estructura interactiva de la obra."
+                "x": "Aunque el público joven ha adoptado el uso de la AI, todavía hay mucha oposición a su uso en el cine. Datos recopilados por la firma de investigación NRG para TheWrap muestran que casi dos tercios de los encuestados de la Gen Z consideran inaceptable un protagonista interpretado por AI (AI-played), y desconfían más de la AI en pósteres, tráileres y otro marketing."
               },
               {
                 "t": "p",
-                "x": "'Wiin Geukjang' consta de 3 episodios protagonizados, respectivamente, por Kim Hong-do, el príncipe heredero Sohyeon y Choe Bu. Todo el metraje se realizó al 100% con AI generativa, y en el showcase se presentó primero el episodio de Danwon Kim Hong-do. Su rasgo principal es una estructura interactiva en la que el público toma decisiones en cada punto clave de la historia y el desarrollo siguiente cambia según esas elecciones."
+                "x": "Aun así, el 39% de los encuestados de la Gen Z dijo que le interesaría más una película con algo de material generado por AI, por encima de los Millennials y la Gen X, lo que sugiere mayor aceptación en áreas como efectos especiales, corrección de color o dobles de riesgo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo Jeong Ju-won expuso la intención del proyecto, el proceso de producción y el diseño de las ramificaciones interactivas. Mateo AI Studio ganó el gran premio del 1.º Festival Internacional de Cine de AI de Corea con el corto de AI 'Mateo' (2024) y el del 1.º Festival Internacional de Cine de AI de Busan con 'El testigo' (2024), y prepara el estreno en Corea, el 25 de noviembre, de 'Raphael' (2026), su largometraje hecho al 100% con AI generativa."
+                "x": "El temor por el empleo sostiene buena parte de la oposición. “La Gen Z vive en las redes sociales, así que recibe basura de AI de mala calidad todo el tiempo”, dijo Jeff Clanagan, presidente de Hartbeat."
+              },
+              {
+                "t": "p",
+                "x": "Las primeras películas de AI pondrán a prueba el ánimo: “Gods Don’t Give Gifts”, de Fable Studio, llega a los cines el 4 de diciembre, y Jason Zada, de Secret Level, prepara la película de terror híbrida con AI “Terrarium”."
+              },
+              {
+                "t": "p",
+                "x": "“En general, la Gen Z sigue siendo más permisiva con la AI que refuerza flujos de trabajo tras bambalinas, como la corrección de color y la creación de efectos especiales, que con su omnipresencia en el proceso creativo reemplazando a actores y guionistas”, dijo Kevin Tran, de NRG."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "100% AI period drama\n'Wiin Geukjang' premieres",
-          "body": "'Wiin Geukjang', an AI period drama whose story changes with audience choices, premiered in Busan.",
-          "mini_headline": "AI period drama 'Wiin Geukjang'",
+        "ko": {
+          "headline": "할리우드는 AI 수용\nGen Z는 반발한다",
+          "body": "스튜디오는 AI를 반기지만, AI에 익숙한 젊은 관객은 영화 속 AI에 반대한다.",
+          "mini_headline": "Gen Z, AI 영화에 반발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Mateo AI Studio unveiled 'Wiin Geukjang', a 100% generative AI interactive period drama made with support from the Korea Creative Content Agency, for the first time on November 20, 2026, at the Busan International Film Festival's Asian Contents & Film Market (ACFM). At the ACFM InnoAsia WIP showcase held at the Busan Film Industry Center, the studio presented key scenes and the work's interactive structure."
+                "x": "젊은 관객은 AI 사용을 받아들였지만, 영화에 AI를 쓰는 데에는 여전히 반대가 많다. 조사업체 NRG가 TheWrap을 위해 수집한 데이터에 따르면 Gen Z 응답자의 삼분의 이 가까이가 AI가 연기하는(AI-played) 주인공을 받아들일 수 없다고 느꼈고, 포스터와 예고편 등 마케팅에 쓰이는 AI에도 더 경계심을 보였다."
               },
               {
                 "t": "p",
-                "x": "'Wiin Geukjang' consists of 3 episodes, each centered on Kim Hong-do, Crown Prince Sohyeon and Choe Bu. The entire video was made with 100% generative AI, and the showcase presented the Danwon Kim Hong-do episode first. Its defining feature is an interactive structure in which the audience makes a choice at each major turning point of the story, and the next development changes with that choice."
+                "x": "그럼에도 Gen Z 응답자의 39%는 AI 생성 소재가 일부 들어간 영화에 더 관심이 간다고 답했다. Millennials와 Gen X보다 높은 수치로, 특수효과나 색보정, 스턴트 대역 같은 영역에서는 수용도가 더 높다는 뜻으로 읽힌다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "CEO Jeong Ju-won, the presenter, introduced the project's intent, production process and how its interactive branches were designed. Mateo AI Studio won the grand prize at the 1st Korea AI International Film Festival with the AI short 'Mateo' (2024) and the grand prize at the 1st Busan International AI Film Festival with 'The Witness' (2024), and its 100% generative AI feature 'Raphael' (2026) is set for release in Korea on November 25."
+                "x": "반대의 상당 부분은 일자리에 대한 두려움에서 나온다. Hartbeat의 Jeff Clanagan 대표는 “Gen Z는 소셜미디어 속에서 살기 때문에 질 낮은 AI 찌꺼기(slop)를 늘 받아먹고 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "초기 AI 영화들이 분위기를 가늠할 시험대가 된다. Fable Studio의 “Gods Don’t Give Gifts”가 12월 4일 극장에 걸리고, Secret Level의 Jason Zada는 하이브리드 AI 호러 영화 “Terrarium”을 만들고 있다."
+              },
+              {
+                "t": "p",
+                "x": "NRG의 Kevin Tran은 “Gen Z는 전반적으로 배우와 작가를 대체하며 창작 과정 곳곳에 AI가 퍼지는 것보다, 색보정이나 특수효과 제작처럼 비하인드 작업을 보강하는 AI에 가장 관대하다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "100% AIの時代劇\n『偉人劇場』初公開",
-          "body": "観客の選択で展開が変わるAI時代劇『偉人劇場』が釜山で公開された。",
-          "mini_headline": "AI時代劇『偉人劇場』",
+          "headline": "HollywoodはAI歓迎\nGen Zは反発",
+          "body": "スタジオがAIを歓迎する一方、AIに慣れた若い観客は映画でのAI利用に目立って反対している。",
+          "mini_headline": "Gen Z、AI映画に反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "マテオAIスタジオは、韓国コンテンツ振興院の支援を受けて制作した100%生成AIのインタラクティブ時代劇『偉人劇場』を、2026年11月20日に釜山国際映画祭アジアコンテンツ&フィルムマーケット(ACFM)で初公開した。釜山映像産業センターで開かれたACFM InnoAsia WIPショーケースで、作品の主要シーンとインタラクティブ構造を披露した。"
+                "x": "若い観客はAIの利用を受け入れているが、映画での使用にはなお反対が根強い。調査会社NRGがTheWrapのために集めたデータによると、Gen Zの回答者の三分の二近くがAIが演じる主人公（AI-played）を受け入れられないと感じ、ポスターや予告編などのマーケティングでのAIにも一段と警戒している。"
               },
               {
                 "t": "p",
-                "x": "『偉人劇場』は金弘道、昭顕世子、崔溥をそれぞれ主人公とする全3話のエピソードで構成される。映像全体を100%生成AIで制作し、今回のショーケースでは檀園・金弘道編を先行公開した。観客が物語の主要な分岐点ごとに自ら選択し、その選択によって次の展開が変わるインタラクティブ構造が最大の特徴だ。"
+                "x": "それでもGen Zの回答者の39%は、AI生成素材を一部含む映画にはより興味が湧くと答えた。MillennialsやGen Xを上回る数字で、特殊効果や色補正、スタントダブルといった分野では受容度が高いことがうかがえる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "チョン・ジュウォン代表が発表者として登壇し、企画意図と制作過程、インタラクティブな分岐の設計方法を紹介した。マテオAIスタジオはAI短編『マテオ』(2024)で第1回大韓民国AI国際映画祭の大賞を、『目撃者』(2024)で第1回釜山国際AI映画祭の大賞を受賞しており、100%生成AI長編『ラファエル』(2026)の11月25日の韓国公開を控えている。"
+                "x": "反対の多くは雇用への不安に根ざしている。Hartbeatのプレジデント、Jeff Clanaganは「Gen ZはSNSの中で暮らしているから、質の悪いAIスロップを常に浴びている」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "初期のAI映画が空気を試すことになる。Fable Studioの「Gods Don’t Give Gifts」が12月4日に劇場公開され、Secret LevelのJason ZadaはハイブリッドAIホラー映画「Terrarium」を制作中だ。"
+              },
+              {
+                "t": "p",
+                "x": "NRGのKevin Tranは「Gen Zは全体として、俳優や脚本家に取って代わり創作過程のあらゆる場面にAIが入り込むことよりも、色補正や特殊効果の制作といった裏方の作業をAIが補うことに最も寛容だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "100% AI历史剧\n《伟人剧场》首次公开",
-          "body": "可随观众选择改变剧情走向的AI历史剧《伟人剧场》在釜山首次亮相。",
-          "mini_headline": "AI历史剧《伟人剧场》",
+          "headline": "Hollywood拥抱AI\nGen Z却在抵制",
+          "body": "片厂拥抱AI之际，惯用AI的年轻观众却明显反对电影使用AI。",
+          "mini_headline": "Gen Z抵制AI电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "马特奥AI工作室在韩国内容振兴院支持下制作的100%生成式AI互动历史剧《伟人剧场》，于2026年11月20日在釜山国际电影节亚洲内容与电影市场（ACFM）首次公开。在釜山影像产业中心举行的ACFM InnoAsia WIP展示会上，团队公开了作品的主要场景和互动结构。"
+                "x": "尽管年轻观众已乐于使用AI，但电影中使用AI仍遭到不少反对。调研公司NRG为TheWrap收集的数据显示，近三分之二的Gen Z受访者认为由AI扮演主角（AI-played）不可接受，并对海报、预告片等营销中的AI更加警惕。"
               },
               {
                 "t": "p",
-                "x": "《伟人剧场》共3集，分别以金弘道、昭显世子和崔溥为主人公。影像全部由100%生成式AI制作，此次展示会率先公开了檀园金弘道篇。最大特点是互动结构：观众在故事的每个关键分岔点亲自做出选择，下一步剧情随之改变。"
+                "x": "不过，39%的Gen Z受访者表示，会对含有部分AI生成素材的电影更感兴趣，高于Millennials和Gen X，这表明他们在特效、调色或特技替身等领域接受度更高。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "代表Jeong Ju-won作为发言人登台，介绍了策划意图、制作过程和互动分支的设计方式。马特奥AI工作室曾凭AI短片《马特奥》（2024）获得第1届大韩民国AI国际电影节大奖，凭《目击者》（2024）获得第1届釜山国际AI电影节大奖，其100%生成式AI长片《拉斐尔》（2026）将于11月25日在韩国上映。"
+                "x": "对工作的担忧是反对声音的主要根源。Hartbeat总裁Jeff Clanagan说：“Gen Z生活在社交媒体上，所以一直被灌输劣质的AI垃圾内容。”"
+              },
+              {
+                "t": "p",
+                "x": "早期AI电影将试探市场情绪：Fable Studio的《Gods Don’t Give Gifts》将于12月4日上映，Secret Level的Jason Zada正在制作混合AI恐怖片《Terrarium》。"
+              },
+              {
+                "t": "p",
+                "x": "NRG的Kevin Tran表示：“总体而言，Gen Z最能接受AI辅助调色、制作特效等幕后工作，而不是让AI充斥创作过程、取代演员和编剧。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Drama de época 100% AI:\n'Wiin Geukjang' se estrena",
-          "body": "'Wiin Geukjang', un drama de época con AI cuya trama cambia según las decisiones del público, se presentó en Busan.",
-          "mini_headline": "Drama de época con AI 'Wiin Geukjang'",
+          "headline": "Hollywood abraza la AI,\npero la Gen Z se resiste",
+          "body": "Mientras los estudios abrazan la AI, el público joven que ya la usa muestra un rechazo notable a la AI en el cine.",
+          "mini_headline": "La Gen Z rechaza el cine con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.2news.co.kr/news/photo/202611/33410_22946_5730.jpg"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Mateo AI Studio presentó por primera vez el 20 de noviembre de 2026, en el Asian Contents & Film Market (ACFM) del Festival Internacional de Cine de Busan, 'Wiin Geukjang', un drama de época interactivo hecho al 100% con AI generativa y producido con el apoyo de la Agencia Coreana de Contenidos Creativos. En el showcase ACFM InnoAsia WIP, celebrado en el Centro de la Industria Audiovisual de Busan, mostró las escenas principales y la estructura interactiva de la obra."
+                "x": "Aunque el público joven ha adoptado el uso de la AI, todavía hay mucha oposición a su uso en el cine. Datos recopilados por la firma de investigación NRG para TheWrap muestran que casi dos tercios de los encuestados de la Gen Z consideran inaceptable un protagonista interpretado por AI (AI-played), y desconfían más de la AI en pósteres, tráileres y otro marketing."
               },
               {
                 "t": "p",
-                "x": "'Wiin Geukjang' consta de 3 episodios protagonizados, respectivamente, por Kim Hong-do, el príncipe heredero Sohyeon y Choe Bu. Todo el metraje se realizó al 100% con AI generativa, y en el showcase se presentó primero el episodio de Danwon Kim Hong-do. Su rasgo principal es una estructura interactiva en la que el público toma decisiones en cada punto clave de la historia y el desarrollo siguiente cambia según esas elecciones."
+                "x": "Aun así, el 39% de los encuestados de la Gen Z dijo que le interesaría más una película con algo de material generado por AI, por encima de los Millennials y la Gen X, lo que sugiere mayor aceptación en áreas como efectos especiales, corrección de color o dobles de riesgo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo Jeong Ju-won expuso la intención del proyecto, el proceso de producción y el diseño de las ramificaciones interactivas. Mateo AI Studio ganó el gran premio del 1.º Festival Internacional de Cine de AI de Corea con el corto de AI 'Mateo' (2024) y el del 1.º Festival Internacional de Cine de AI de Busan con 'El testigo' (2024), y prepara el estreno en Corea, el 25 de noviembre, de 'Raphael' (2026), su largometraje hecho al 100% con AI generativa."
+                "x": "El temor por el empleo sostiene buena parte de la oposición. “La Gen Z vive en las redes sociales, así que recibe basura de AI de mala calidad todo el tiempo”, dijo Jeff Clanagan, presidente de Hartbeat."
+              },
+              {
+                "t": "p",
+                "x": "Las primeras películas de AI pondrán a prueba el ánimo: “Gods Don’t Give Gifts”, de Fable Studio, llega a los cines el 4 de diciembre, y Jason Zada, de Secret Level, prepara la película de terror híbrida con AI “Terrarium”."
+              },
+              {
+                "t": "p",
+                "x": "“En general, la Gen Z sigue siendo más permisiva con la AI que refuerza flujos de trabajo tras bambalinas, como la corrección de color y la creación de efectos especiales, que con su omnipresencia en el proceso creativo reemplazando a actores y guionistas”, dijo Kevin Tran, de NRG."
               }
             ]
           }

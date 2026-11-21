@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "medicine",
   "items": [
     {
@@ -7,95 +7,95 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "Harnessing smartwatches to spot undiagnosed hypertension",
-      "url": "https://www.nature.com/articles/d41591-026-00058-8",
-      "source": "Nature Medicine",
-      "published_iso": "2026-11-19T12:11:29Z",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg",
-      "excerpt": "With AI, a consumer smartwatch performed similarly to office-based hypertension measurement in a prospective clinical study, suggesting a route to population-level opportunistic screening for the roughly half of hypertensive adults who are undiagnosed.",
-      "rationale": "Prospective clinical evidence that a consumer wearable plus AI can screen for undiagnosed hypertension at population scale; top-tier journal, patient-facing."
+      "title": "CT imaging biomarkers boost detection of early pancreatic cancer",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16542228/ct-imaging-biomarkers-boost-detection-of-early-pancreatic-cancer",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-20T12:00:00Z",
+      "og_image": null,
+      "excerpt": "RSNA 2026 preview: Johns Hopkins' TabMBio AI combines CT-derived tumor, pancreas and duct biomarkers with age and sex; on a 3,788-subject, 147-center benchmark it hit AUC 0.99 for sub-2 cm cancers and lifted sensitivity on prediagnostic CTs from 19.5% to 29.3%.",
+      "rationale": "Large multicenter benchmark for catching sub-2 cm pancreatic cancer on routine CT, including prediagnostic scans; a high-mortality cancer where earlier detection changes outcomes."
     },
     {
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Cloud vs. on-premise large language models for urgent patient-portal message screening: a comparative evaluation",
-      "url": "https://www.nature.com/articles/s41746-026-03477-6",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-20T17:36:00Z",
+      "title": "Will AI affect radiology malpractice cases?",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-11T12:00:00Z",
       "og_image": null,
-      "excerpt": "Study tests whether LLMs can flag urgent concerns buried in rising patient-portal message volume, and whether locally hosted open-weight models can match cloud models for this outpatient triage task.",
-      "rationale": "Directly actionable for health systems choosing between cloud and locally hosted LLMs for inbox triage — a live privacy/deployment decision."
+      "excerpt": "RSNA 2026 preview: in a randomized mock-jury experiment with 2,347 U.S. adults over a missed brain bleed, double reads, documented initial reads and disclosed AI error rates lowered perceived radiologist liability, but over 80% found the radiologist liable after switching a correct read to follow a wrong AI.",
+      "rationale": "Randomized evidence on how juries assign liability when radiologists follow or override AI; concrete documentation practices that reduce exposure."
     },
     {
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Mental Health Needs and Emotional-Support Artificial Intelligence Use",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.44315",
-      "source": "JAMA Network Open",
-      "published_iso": "2026-11-17T16:30:24Z",
-      "og_image": null,
-      "excerpt": "Cohort study in JAMA Network Open examines whether mental health needs are associated with regular use of emotional-support generative AI. (Date via Crossref created.)",
-      "rationale": "Peer-reviewed cohort data on who leans on chatbots for emotional support — patient-safety relevant; distinct from the 11-06 LLM manipulation study."
+      "title": "ECG foundation models for cardiovascular screening in a cohort of young competitive athletes",
+      "url": "https://www.nature.com/articles/s41746-026-03474-9",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-21T14:54:56Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+      "excerpt": "Three ECG foundation models (ECG-FM, HuBERT-ECG, ECGFounder) fine-tuned on 87,662 clinical ECGs were tested on 43 expert-annotated ECGs from national-level athletes, checking whether AI trained on general patients transfers to athlete pre-participation screening before deployment.",
+      "rationale": "Tests whether general-population ECG AI transfers to athlete pre-participation screening, a known failure point given athletic-heart ECG patterns; freshest item in pool."
     },
     {
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "RevealDx launches lung nodule viewer, AI monitoring dashboard",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542141/revealdx-revealdx-launches-lung-nodule-viewer-ai-monitoring-dashboard",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-19T19:48:56Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg",
-      "excerpt": "RevealDx launched ReViewer, a diagnostic viewer that lets its FDA-cleared RevealAI-Lung nodule software run in any PACS, and ReViz, a dashboard for tracking AI performance; it plans to offer RevealAI-Screen lung cancer screening free to U.S. patients pending FDA clearance.",
-      "rationale": "New product release putting FDA-cleared lung-nodule AI into any PACS plus post-deployment performance monitoring; concrete for radiology practices."
+      "title": "Explainable artificial intelligence for prehospital identification of endovascular thrombectomy candidates: a retrospective real-world study",
+      "url": "https://www.nature.com/articles/s41598-026-80551-9",
+      "source": "Scientific Reports",
+      "published_iso": "2026-11-19T06:04:53Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig1_HTML.png",
+      "excerpt": "Using real-world EMS and hospital data from consecutive suspected-stroke transports, researchers built explainable machine-learning models to flag large-vessel-occlusion patients who need thrombectomy before hospital arrival, aiming to beat conventional prehospital stroke scales and cut transfer delays.",
+      "rationale": "Prehospital EMS triage for large-vessel-occlusion stroke; a new care setting (ambulance routing) versus the in-hospital stroke AI already covered."
     },
     {
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Healthcare firms fail to monitor AI tools as shadow AI leads to breaches",
-      "url": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-11-19T16:03:24Z",
-      "og_image": "https://imgproxy.divecdn.com/UmCejir4FxFkxi54i45YEhIe9hjq-37SiAlfl20cmSA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp",
-      "excerpt": "Healthcare organizations are adopting AI faster than their stretched security teams can monitor it, and unsanctioned 'shadow AI' use is already leading to data breaches.",
-      "rationale": "Patient-data safety angle: unsanctioned AI use in hospitals is already causing breaches; governance-relevant for health systems."
+      "title": "New AI guidance to cut paperwork and free more time for care",
+      "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+      "source": "GOV.UK (DHSC)",
+      "published_iso": "2026-11-20T09:57:29Z",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "excerpt": "UK government issues national guidance on adopting AI in adult social care; a Swindon pilot cut social workers' admin time 63% and Care Act assessment conversations from 1.5 hours to 30 minutes.",
+      "rationale": "Primary-source government guidance (new official release) on AI adoption in care settings, with pilot figures; regulator-facing and distinct from prior NHS/WHO items."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nature.com/articles/d41591-026-00058-8": {
+      "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16542228/ct-imaging-biomarkers-boost-detection-of-early-pancreatic-cancer": {
         "verdict": "new",
-        "nearest": "https://newsroom.heart.org/news/wearable-devices-+-ai-analysis-may-predict-high-blood-pressure-crisis-up-to-3-days-early",
+        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014596",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03477-6": {
+      "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases": {
         "verdict": "new",
-        "nearest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41364",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
         "new_action": ""
       },
-      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.44315": {
+      "https://www.nature.com/articles/s41746-026-03474-9": {
         "verdict": "new",
-        "nearest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
+        "nearest": "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings",
         "new_action": ""
       },
-      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542141/revealdx-revealdx-launches-lung-nodule-viewer-ai-monitoring-dashboard": {
+      "https://www.nature.com/articles/s41598-026-80551-9": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders",
         "new_action": ""
       },
-      "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/": {
+      "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care": {
         "verdict": "new",
-        "nearest": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/",
+        "nearest": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicate: Cardiovascular Business 'AI imaging reports comparable to sonographers and cardiologists' (likely-repeat of the 11-10 AHA echo story, same trial). Dropped as running-story commentary without a new action: STAT Epic defends practices/pledges AI access (HLTH remarks; Epic Connectors ran 10-22), STAT AI scribe market winners/losers (newsletter analysis), Healthcare Dive 'AI is coming for primary care' (HLTH commentary), MedCity 'Medicare pays for AI eye scan' (opinion). Passed over on score/diversity (not dups): Tele-Cranio (would make 3 nature.com cards), Mosaic Reporting 100K/day (usage milestone), Prenuvo whole-body MRI body composition (RSNA preview; related-band match to HOPPR 10-30 is a different product), Recursion REC-4881 FDA Phase 3 design (off-list source, AI incidental to the regulatory news). Cross-section check: published_urls.json could not be exact-grepped in this agent (Read-only tools); none of the picks' URLs or event names appear in the medicine 30-day digest, and all are clinical studies/products unlikely to have run elsewhere — orchestrator should confirm with an exact grep before roll."
+    "note": "Dropped as duplicates: Cardiovascular Business 'AI imaging reports comparable to sonographers and cardiologists' (likely-repeat of the 11-10 AHA echo trial); 2 Minute Medicine perinatal chatbot RCT (same JAMA Netw Open trial published 11-05; paper 11-04 is stale). Dropped as running-story commentary: STAT Epic HLTH pledge (also passed over 11-21 as no new action), MedCity Medicare eye-scan (opinion). Not picked: NEJM AI sepsis tool and both Lancet Digital Health items (no body read, excerpts too thin), JAMA AI-failure Viewpoint (no body), Medigate MIRA agent (Nature paper date unverified, notable-papers relay), Recursion REC-4881 (off-list, AI incidental to the FDA design news), Zimmer Monogram 510(k) (AI role not explicit in excerpt), AuntMinnie stroke-outcomes RSNA preview (would be a 3rd AuntMinnie card and a 2nd stroke card), npj colorectal radiomics (would be a 3rd nature.com card). GOV.UK history_match (11-10 echo time-savings) is unrelated content. Cross-section: published_urls.json is too large to scan in this Read-only agent and could not be exact-grepped; none of the pick URLs or event names appear in the medicine 30-day digest — orchestrator should exact-grep the 5 URLs before roll."
   }
 }

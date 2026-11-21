@@ -1,7 +1,31 @@
-{"date":"2026-11-21","section":"politics","media":[
-{"id":"nvidia-california-subpoena","type":"image","src":"pipeline/media/nvidia-california-subpoena.jpg"},
-{"id":"bessent-uschina-ai-military","type":"image","src":"pipeline/media/bessent-uschina-ai-military.jpg"},
-{"id":"acus-genai-adjudication-rfc","type":"svg"},
-{"id":"taiwan-meta-threads-influence","type":"image","src":"pipeline/media/taiwan-meta-threads-influence.jpg"},
-{"id":"govuk-ai-social-care-guidance","type":"image","src":"pipeline/media/govuk-ai-social-care-guidance.png"}
-]}
+{
+  "date": "2026-11-22",
+  "section": "politics",
+  "media": [
+    {
+      "id": "house-china-ai-models-report",
+      "type": "svg"
+    },
+    {
+      "id": "ccw-autonomous-weapons-2028",
+      "type": "image",
+      "src": "pipeline/media/ccw-autonomous-weapons-2028.jpg"
+    },
+    {
+      "id": "puma-shen-deepfake-indictment",
+      "type": "image",
+      "src": "pipeline/media/puma-shen-deepfake-indictment.jpg"
+    },
+    {
+      "id": "exam-fairness-tf-cheongwadae",
+      "type": "image",
+      "src": "pipeline/media/exam-fairness-tf-cheongwadae.jpg"
+    },
+    {
+      "id": "trump-offshore-datacenter-tax",
+      "type": "video",
+      "src": "pipeline/media/trump-offshore-datacenter-tax.mp4",
+      "poster": "pipeline/media/trump-offshore-datacenter-tax.jpg"
+    }
+  ]
+}

@@ -12162,6 +12162,155 @@
           "x": "En este curso, el instructor sénior de Unreal Engine Sam Deiter explica todo lo necesario para empezar con Unreal MCP (experimental en Unreal Engine 5.8): terminología clave, la configuración en siete pasos, solución de problemas y depuración, conjuntos de herramientas, el flujo de trabajo con el plugin Terminal dentro del editor, ajustes de configuración, consejos para ahorrar tiempo y respuestas a las preguntas más frecuentes."
         }
       ]
+    },
+    "games/unity-neural-unite-tokyo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+          "cap": "Adam Smith habla durante la Keynote de Unite Tokyo 2026"
+        },
+        {
+          "t": "video",
+          "yt": "ZWX5TfR1UAI"
+        },
+        {
+          "t": "p",
+          "x": "Unite Tokyo 2026 giró en torno a Unity 7, “creado para la velocidad de tus ideas”: ECS for All, Unity CLI 1.0, plug-ins oficiales para agentes de programación y un Asset Library plug-in que busca en la Unity Asset Store desde el Editor. Los plug-ins para Claude, Codex, Google Antigravity y Grok incluyen skills que el propio equipo de Unity creó, revisó y sometió a controles de seguridad."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+          "cap": "Sangbae Nam muestra nuevas herramientas gráficas y la escena de ejemplo Atrio en Unite Tokyo 2026"
+        },
+        {
+          "t": "p",
+          "x": "Unity Neural es un conjunto de herramientas AI-powered para renderizar más rápido y usar menos memoria. Neural Texture Compression redujo casi un 30% la memoria de texturas de Atrio. Llega como función experimental en Unity 6.7 LTS, con lanzamiento completo previsto para Unity 7. Unity Graphics Kernel (UGK) elevó más de un 62% el rendimiento de GPU en Atrio con ray tracing activado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+          "cap": "Keijiro Takahashi guía al público por un proyecto completo de principio a fin con Unity CLI y Pipeline API"
+        },
+        {
+          "t": "p",
+          "x": "Keijiro Takahashi pidió a un agente (Claude Code con el plug-in oficial de Unity) que creara un prototipo de puzle en primera persona; el agente escribió código, compiló, leyó errores e hizo pruebas de juego. El nuevo Asset Library plug-in encuentra un único asset a partir de una petición escrita y lo coloca en la escena, y la misma búsqueda funciona desde la CLI con cualquier agente."
+        }
+      ]
+    },
+    "games/hoyoverse-petit-planet-npc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+        },
+        {
+          "t": "p",
+          "x": "En Petit Planet, el próximo simulador de vida acogedor de HoYoverse, los jugadores pueden visitar una cafetería regentada por un NPC AI-driven llamado Nalo, que recuerda conversaciones pasadas para dar respuestas dinámicas y personalizadas. Durante la beta cerrada se detectaron algunas interacciones inquietantes sobre temas delicados o autodestructivos."
+        },
+        {
+          "t": "p",
+          "x": "Yinli Huang, del equipo de desarrollo, dijo que Nalo no es un chatbot abierto: “los NPCs que usan el sistema de AI, como Nalo, tendrán valores morales y una personalidad predefinidos”. “Cuando los jugadores digan algo inapropiado, Nalo se negará a responder a esas peticiones o a seguir interactuando”."
+        },
+        {
+          "t": "video",
+          "yt": "RTjd0hhFO74"
+        },
+        {
+          "t": "p",
+          "x": "HoYoverse también creó un sistema de escalado por niveles: “Si ese tipo de interacción continúa, pondremos más límites al jugador, como una notificación en ventana emergente e intervención humana cuando sea necesario”, explicó Murphy. Las funciones de AI son totalmente opcionales, con un interruptor en el juego, y quienes las desactiven no perderán el acceso a la cafetería de Nalo ni sufrirán penalizaciones en progreso o logros."
+        }
+      ]
+    },
+    "games/romero-design-ai-trash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El cocreador de Doom afirma que el móvil, en particular, está lleno de lanzamientos de baja calidad. En el FRVR Podcast, John Romero dijo que la distribución es más fácil que nunca: “La distribución era muy difícil entonces. Ahora es muy fácil”."
+        },
+        {
+          "t": "p",
+          "x": "“La mayoría son basura”, dijo. “La mayoría son AI-generated o se usa un kit de creación de juegos para generarlos automáticamente, ¿sabes? Muchísimos. Pero es genial que la democratización de poder publicar tus cosas ya sea una realidad”."
+        },
+        {
+          "t": "p",
+          "x": "Romero explicó que “ahora, más que nunca, se trata del diseño”: “Ten un diseño realmente bueno y la gente va a querer hablar de él”."
+        }
+      ]
+    },
+    "games/tripo-ai-gstar-b2c": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI, una plataforma que genera modelos 3D a partir de texto, imágenes o bocetos, volvió a participar este año en G-STAR y también montó un stand en el pabellón B2C para ampliar el contacto con estudiantes y pequeños estudios indie a los que les resulta difícil visitar el pabellón B2B."
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+          "cap": "También se habilitó un espacio donde los visitantes podían generar y editar modelos 3D para probar sus funciones y rendimiento ©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "El Head of Product, Jack Fan, dijo que Tripo se centra en 'Tripo Studio', que genera modelos 3D con un solo clic, y en 'Canvas', que divide el trabajo en etapas. El servicio se actualiza varias veces por semana y cada pocos meses llegan nuevos modelos base. 'H3.1' es un modelo de altísima precisión, mientras que 'P2.0' genera modelos en menos de 5 segundos con geometría ligera de menos de 50,000 polígonos."
+        },
+        {
+          "t": "p",
+          "x": "Muchos usuarios llegan a Tripo AI desde el agente que usan mediante MCP (Model Context Protocol). Ellie Wang, Head of Korea & Japan Markets, dijo que el interés del sector de los videojuegos creció de forma explosiva este año; los comentarios de estudios coreanos dieron lugar a un 'Team Plan' para compartir los assets creados."
+        }
+      ]
+    },
+    "games/roblox-free-porting-program": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La empresa trabaja con un número limitado de desarrolladores y juegos de móvil, PC y consola"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Imagen: Roblox"
+        },
+        {
+          "t": "p",
+          "x": "Roblox ha lanzado un nuevo programa para creadores que permite a los desarrolladores convertir gratis sus juegos existentes a su plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Como explicó Jim Greer, director sénior de Roblox Game Solutions, Roblox ha \"creado herramientas de conversión agénticas que llevan juegos a Roblox, y hoy abrimos el programa a todos\"."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores con juegos hechos en cualquier motor, incluidos Unity y Unreal, pueden solicitar que Roblox convierta sus títulos a la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Al principio, el programa incluirá un grupo limitado de desarrolladores y juegos de móvil, PC y consola. A los desarrolladores aprobados se les pedirá que aporten su código fuente y sus recursos."
+        },
+        {
+          "t": "p",
+          "x": "Roblox aclaró que, aunque \"puede usar herramientas AI-assisted\" para trabajar con el código de un desarrollador, \"el código y los recursos aportados no se usarán para entrenar ni ajustar modelos de AI\"."
+        },
+        {
+          "t": "p",
+          "x": "Roblox se encargará de la conversión sin coste, y los desarrolladores conservarán la propiedad de su juego, su propiedad intelectual y la versión para Roblox. No se publicará nada en la plataforma de Roblox salvo que el desarrollador lo decida."
+        },
+        {
+          "t": "p",
+          "x": "En septiembre, Roblox presentó la iniciativa Everywhere, que permite a los creadores publicar juegos como aplicaciones independientes en varias plataformas."
+        },
+        {
+          "t": "p",
+          "x": "Roblox también anunció que los creadores podrán activar pronto el juego individual sin conexión, con acceso anticipado antes del lanzamiento completo a mid-2027."
+        }
+      ]
     }
   }
 }
