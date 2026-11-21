@@ -1,375 +1,191 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "medicine",
   "cards": [
     {
-      "id": "smartwatch-hypertension-screen",
+      "id": "tabmbio-pancreatic-ct",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "스마트워치 AI가\n숨은 고혈압 찾는다",
-      "body": "AI를 얹은 소비자용 스마트워치, 전향적 임상연구서 진료실 혈압 측정과 대등했다.",
-      "mini_headline": "스마트워치, 숨은 고혈압 포착",
+      "headline": "AI, 일반 CT로 찾는\nsub-2 cm 췌장암",
+      "body": "TabMBio가 sub-2 cm 종양에서 AUC 0.99를 냈다.",
+      "mini_headline": "CT로 작은 췌장 종양 잡는 AI",
       "tool": "Medicine",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/d41591-026-00058-8",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16542228/ct-imaging-biomarkers-boost-detection-of-early-pancreatic-cancer",
       "accent": "#00897b",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-          },
-          {
-            "t": "p",
-            "x": "인공지능을 접목한 소비자용 스마트워치가 전향적 임상연구에서 진료실 고혈압 측정과 비슷한 성능을 냈다. 인구 집단 단위로 기회 선별검사를 할 새 전략이 될 수 있다는 결과다."
-          },
-          {
-            "t": "p",
-            "x": "고혈압은 심혈관질환과 전체 원인 사망 위험을 높인다. 그런데도 고혈압이 있는 성인의 약 절반, 특히 젊은 성인은 자기가 고혈압인 줄 모른다. 널리 쓰이는 소비자용 웨어러블로 혈압(BP)을 잴 수는 있지만 대개 커프 BP 측정으로 보정해야 한다. 기존 선별검사와 견준 성능 데이터도 부족해 임상에 쓰기 어렵다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Smartwatch AI flags hidden\nhigh blood pressure",
-          "body": "Paired with AI, a consumer smartwatch matched office-based hypertension checks in a prospective clinical study.",
-          "mini_headline": "Smartwatch flags\nhidden hypertension",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "With the help of artificial intelligence, a consumer smartwatch performed similarly to office-based hypertension measurement in a prospective clinical study, which suggests a new strategy for population-level opportunistic screening."
-              },
-              {
-                "t": "p",
-                "x": "Hypertension increases the risk of cardiovascular disease and all-cause mortality, but around half of all adults with hypertension (especially younger adults) do not know that they have it. Widely available consumer wearables can measure blood pressure (BP), but these usually require calibration with cuff BP measurements. Moreover, data on their performance relative to established screening is lacking, which limits clinical translation."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "스마트워치 AI가\n숨은 고혈압 찾는다",
-          "body": "AI를 얹은 소비자용 스마트워치, 전향적 임상연구서 진료실 혈압 측정과 대등했다.",
-          "mini_headline": "스마트워치, 숨은 고혈압 포착",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "인공지능을 접목한 소비자용 스마트워치가 전향적 임상연구에서 진료실 고혈압 측정과 비슷한 성능을 냈다. 인구 집단 단위로 기회 선별검사를 할 새 전략이 될 수 있다는 결과다."
-              },
-              {
-                "t": "p",
-                "x": "고혈압은 심혈관질환과 전체 원인 사망 위험을 높인다. 그런데도 고혈압이 있는 성인의 약 절반, 특히 젊은 성인은 자기가 고혈압인 줄 모른다. 널리 쓰이는 소비자용 웨어러블로 혈압(BP)을 잴 수는 있지만 대개 커프 BP 측정으로 보정해야 한다. 기존 선별검사와 견준 성능 데이터도 부족해 임상에 쓰기 어렵다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "スマートウォッチAIが\n隠れ高血圧を検出",
-          "body": "AIと組み合わせた市販のスマートウォッチが、前向き臨床研究で診察室の高血圧検査に匹敵した。",
-          "mini_headline": "スマートウォッチが隠れ高血圧を検出",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "人工知能の助けを借りた一般向けスマートウォッチが、前向き臨床研究において診察室での高血圧測定と同等の性能を示した。集団レベルの機会的スクリーニングに向けた新たな戦略を示唆する結果である。"
-              },
-              {
-                "t": "p",
-                "x": "高血圧は心血管疾患と全死因死亡のリスクを高めるが、高血圧のある成人の約半数（特に若年成人）は自覚していない。広く普及した一般向けウェアラブルは血圧（BP）を測定できるが、通常はカフによるBP測定での較正を必要とする。さらに、既存のスクリーニングと比較した性能のデータが不足しており、臨床への応用が限られている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "智能手表AI\n揪出隐性高血压",
-          "body": "借助AI，一款消费级智能手表在前瞻性临床研究中的表现与诊室高血压检测相当。",
-          "mini_headline": "智能手表揪出隐性高血压",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在人工智能的帮助下，一款消费级智能手表在一项前瞻性临床研究中的表现与诊室高血压测量相近，这为人群层面的机会性筛查提供了新策略。"
-              },
-              {
-                "t": "p",
-                "x": "高血压会增加心血管疾病和全因死亡风险，但约一半高血压成人患者（尤其是较年轻的成年人）并不知道自己患病。广泛普及的消费级可穿戴设备可以测量血压（BP），但通常需要用袖带 BP 测量进行校准。此外，缺乏其与既有筛查方法相比的性能数据，限制了临床转化。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un smartwatch con IA detecta\nla hipertensión oculta",
-          "body": "Con IA, un smartwatch de consumo igualó la detección de hipertensión en consulta en un estudio clínico prospectivo.",
-          "mini_headline": "Un smartwatch detecta la hipertensión oculta",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Con la ayuda de la inteligencia artificial, un smartwatch de consumo tuvo un rendimiento similar al de la medición de la hipertensión en consulta en un estudio clínico prospectivo, lo que sugiere una nueva estrategia para el cribado oportunista a escala poblacional."
-              },
-              {
-                "t": "p",
-                "x": "La hipertensión aumenta el riesgo de enfermedad cardiovascular y de mortalidad por todas las causas, pero alrededor de la mitad de los adultos con hipertensión (sobre todo los más jóvenes) no saben que la tienen. Los wearables de consumo, ampliamente disponibles, pueden medir la presión arterial (BP), pero suelen requerir calibración con mediciones de BP con manguito. Además, faltan datos sobre su rendimiento frente al cribado establecido, lo que limita su traslado a la práctica clínica."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "스마트워치 AI가\n숨은 고혈압 찾는다",
-          "body": "AI를 더한 소비자용 스마트워치가 전향적 임상연구에서 진료실 혈압 측정과 대등했다.",
-          "mini_headline": "스마트워치, 숨은 고혈압 포착",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "인공지능의 도움을 받은 소비자용 스마트워치가 전향적 임상연구에서 진료실 기반 고혈압 측정과 비슷한 성능을 보였다. 인구 집단 수준의 기회 선별검사를 위한 새로운 전략을 시사하는 결과다."
-              },
-              {
-                "t": "p",
-                "x": "고혈압은 심혈관질환과 전체 원인 사망 위험을 높이지만, 고혈압이 있는 성인의 약 절반(특히 젊은 성인)은 자신이 고혈압이라는 사실을 모른다. 널리 보급된 소비자용 웨어러블은 혈압(BP)을 측정할 수 있지만, 대개 커프 BP 측정으로 보정해야 한다. 게다가 기존 선별검사와 비교한 성능 데이터가 부족해 임상 적용이 제한된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "スマートウォッチAIが\n隠れ高血圧を検出",
-          "body": "AIと組み合わせた市販のスマートウォッチが、前向き臨床研究で診察室の高血圧検査に匹敵した。",
-          "mini_headline": "スマートウォッチが隠れ高血圧を検出",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "人工知能の助けを借りた一般向けスマートウォッチが、前向き臨床研究において診察室での高血圧測定と同等の性能を示した。集団レベルの機会的スクリーニングに向けた新たな戦略を示唆する結果である。"
-              },
-              {
-                "t": "p",
-                "x": "高血圧は心血管疾患と全死因死亡のリスクを高めるが、高血圧のある成人の約半数（特に若年成人）は自覚していない。広く普及した一般向けウェアラブルは血圧（BP）を測定できるが、通常はカフによるBP測定での較正を必要とする。さらに、既存のスクリーニングと比較した性能のデータが不足しており、臨床への応用が限られている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "智能手表AI\n揪出隐性高血压",
-          "body": "借助AI，一款消费级智能手表在前瞻性临床研究中的表现与诊室高血压检测相当。",
-          "mini_headline": "智能手表揪出隐性高血压",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在人工智能的帮助下，一款消费级智能手表在一项前瞻性临床研究中的表现与诊室高血压测量相近，这为人群层面的机会性筛查提供了新策略。"
-              },
-              {
-                "t": "p",
-                "x": "高血压会增加心血管疾病和全因死亡风险，但约一半高血压成人患者（尤其是较年轻的成年人）并不知道自己患病。广泛普及的消费级可穿戴设备可以测量血压（BP），但通常需要用袖带 BP 测量进行校准。此外，缺乏其与既有筛查方法相比的性能数据，限制了临床转化。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un smartwatch con IA detecta\nla hipertensión oculta",
-          "body": "Con IA, un smartwatch de consumo igualó la detección de hipertensión en consulta en un estudio clínico prospectivo.",
-          "mini_headline": "Un smartwatch detecta la hipertensión oculta",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Con la ayuda de la inteligencia artificial, un smartwatch de consumo tuvo un rendimiento similar al de la medición de la hipertensión en consulta en un estudio clínico prospectivo, lo que sugiere una nueva estrategia para el cribado oportunista a escala poblacional."
-              },
-              {
-                "t": "p",
-                "x": "La hipertensión aumenta el riesgo de enfermedad cardiovascular y de mortalidad por todas las causas, pero alrededor de la mitad de los adultos con hipertensión (sobre todo los más jóvenes) no saben que la tienen. Los wearables de consumo, ampliamente disponibles, pueden medir la presión arterial (BP), pero suelen requerir calibración con mediciones de BP con manguito. Además, faltan datos sobre su rendimiento frente al cribado establecido, lo que limita su traslado a la práctica clínica."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "npj-cloud-vs-local-llm-triage",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "클라우드·로컬 LLMs\n긴급 환자 메시지 분류",
-      "body": "클라우드든 로컬이든 LLMs는 긴급 메시지 민감도가 높고 특이도엔 한계가 있었다.",
-      "mini_headline": "클라우드·로컬 LLMs 메시지 분류",
-      "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03477-6",
-      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "환자 포털 메시지는 외래 소통에서 큰 비중을 차지한다. 메시지가 늘면서 일상적인 메시지에 섞인 긴급한 문제에 의료진이 늦게 대응하게 됐다. 대규모 언어모델(LLMs)이 이런 메시지를 분류할 수 있는지, 로컬에서 돌리는 오픈 웨이트 모델이 클라우드 모델만큼 해낼 수 있는지는 아직 분명하지 않다."
+            "x": "연구진은 CT 영상 바이오마커에 임상 변수를 더하면 병변을 직접 분할할 때보다 조기 췌장암을 더 잘 찾는다는 결과를 발표할 예정이다."
           },
           {
             "t": "p",
-            "x": "연구진은 LLMs 여섯 종(GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B)의 판정을 의사 기준과 견주며 세 코호트에서 성능을 따졌다. 긴급 사례를 보강한 일차의료 메시지 500건, 같은 의료 시스템의 뇌전증 클리닉 메시지 503건, 이 시스템 밖 공개 플랫폼에 환자가 올린 메시지 300건이다."
+            "x": "발표를 맡은 Wenxuan Li(Baltimore 소재 Johns Hopkins University PhD 후보생)는 이 방식이 \"기존 스캔을 활용한 기회 검진\"을 뒷받침한다고 설명한다."
           },
           {
             "t": "p",
-            "x": "일차의료 메시지에서 다수결(Majority) 판정을 기준으로 삼자 GPT-5는 긴급 메시지를 하나도 놓치지 않았다. 온프레미스 배포가 가능한 모델 하나를 포함해 여섯 모델 중 네 모델이 민감도 0.97 이상, 음성예측도 0.98 이상을 기록했고, 모델 순위는 코호트가 달라져도 그대로였다. 클라우드든 온프레미스든 LLMs는 높은 민감도로 긴급 메시지를 배제할 수 있었지만 특이도는 여전히 한계가 있었다."
+            "x": "Li는 화요일 오후 세션에서 동료들과 개발한 AI 알고리즘 TabMBio의 시험 결과를 공유한다. TabMBio는 종양·췌장·췌관에서 뽑은 영상 바이오마커에 환자 나이·성별 같은 임상 변수를 합쳐 일상 CT에서 조기 췌장암을 찾아낸다. 연구진은 이 과정에서 바이오마커 벤치마크 PanTab도 만들었다. 147개 기관 피험자 3,788명의 데이터로, 확진된 조기 췌장암 1,487건(이 중 333건은 2 cm 미만)과 대조군 2,301건이 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "2 cm 미만 췌장암과 대조군을 가르는 조기 검출에서 TabMBio의 수신자 조작 특성 곡선 아래 면적은 0.99였다. 진단 전 CT에서도 차이가 났다. 진단 세 달에서 36개월 전에 찍은 영상으로, 영상의학과 전문의의 민감도가 0%인 구간이다. 연구진은 여기서 다중모달 바이오마커 학습이 민감도를 19.5%에서 29.3%로 끌어올렸다고 보고했다."
+          },
+          {
+            "t": "p",
+            "x": "Li와 동료들은 \"조기 [췌장암] 검출이 병변 단서에만 의존해서는 안 된다\"고 결론 내렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cloud vs. local LLMs for\nurgent patient messages",
-          "body": "Both cloud and on-premise LLMs caught urgent patient-portal messages with high sensitivity, but specificity was limited.",
-          "mini_headline": "Cloud or local LLMs\nfor inbox triage",
+          "headline": "AI reads routine CT for\nsub-2 cm pancreatic cancer",
+          "body": "Johns Hopkins' TabMBio hit AUC 0.99 for sub-2 cm tumors and raised prediagnostic CT sensitivity from 19.5% to 29.3%.",
+          "mini_headline": "AI spots tiny pancreatic tumors on CT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Patient portal messaging carries a substantial share of outpatient communication, and rising message volume has slowed clinical response to urgent concerns embedded in routine traffic. Whether large language models (LLMs) can triage these messages, and whether locally hosted open-weight models can match cloud-hosted ones, remains unclear."
+                "x": "Researchers will report that combining CT imaging biomarkers with clinical variables boosts detection of early-stage pancreatic cancer beyond direct lesion segmentation."
               },
               {
                 "t": "p",
-                "x": "We evaluated six LLMs (GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B) against a physician reference standard in three cohorts: 500 primary care messages enriched for urgent cases, 503 epilepsy clinic messages from the same health system, and 300 patient-authored messages from public platforms outside it."
+                "x": "The approach supports \"opportunistic screening on existing scans,\" according to study presenter and PhD candidate Wenxuan Li of Johns Hopkins University in Baltimore."
               },
               {
                 "t": "p",
-                "x": "Under Majority adjudication in primary care, GPT-5 missed no urgent message, and four of six models, including one deployable on-premises, reached sensitivity 0.97 or higher and negative predictive value 0.98 or higher. Rank ordering held across cohorts. Both cloud-hosted and on-premise LLMs can rule out urgent messages with high sensitivity, though specificity remained limited."
+                "x": "In this Tuesday afternoon session, Li will share results from a study that tested an AI algorithm she and colleagues developed called TabMBio, which combines image-derived biomarkers from the tumor, pancreas, and the pancreatic duct with clinical variables such as patient age and sex to identify early-stage pancreatic cancer on routine CT. As part of the research, the group created a biomarker benchmark called PanTab, which included data from 3,788 subjects from 147 centers with 1,487 confirmed early-stage pancreatic cancers (333 of which were smaller than 2 cm) and 2,301 controls."
+              },
+              {
+                "t": "p",
+                "x": "For early detection of pancreatic cancers less than 2 cm versus controls, TabMBio achieved an area under the receiver operating curve of 0.99. The investigators also reported that, on prediagnostic CT obtained three to 36 months before diagnosis -- where radiologist sensitivity is 0% -- multimodal biomarker learning improved sensitivity from 19.5% to 29.3%."
+              },
+              {
+                "t": "p",
+                "x": "The bottom line? \"Early [pancreatic cancer] detection should not rely on lesion cues alone,\" Li and colleagues concluded."
               }
             ]
           }
         },
         "ko": {
-          "headline": "클라우드·로컬 LLMs\n긴급 환자 메시지 분류",
-          "body": "클라우드든 로컬이든 LLMs는 긴급 메시지 민감도가 높고 특이도엔 한계가 있었다.",
-          "mini_headline": "클라우드·로컬 LLMs 메시지 분류",
+          "headline": "AI, 일반 CT로 찾는\nsub-2 cm 췌장암",
+          "body": "TabMBio가 sub-2 cm 종양에서 AUC 0.99를 냈다.",
+          "mini_headline": "CT로 작은 췌장 종양 잡는 AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "환자 포털 메시지는 외래 소통에서 큰 비중을 차지한다. 메시지가 늘면서 일상적인 메시지에 섞인 긴급한 문제에 의료진이 늦게 대응하게 됐다. 대규모 언어모델(LLMs)이 이런 메시지를 분류할 수 있는지, 로컬에서 돌리는 오픈 웨이트 모델이 클라우드 모델만큼 해낼 수 있는지는 아직 분명하지 않다."
+                "x": "연구진은 CT 영상 바이오마커에 임상 변수를 더하면 병변을 직접 분할할 때보다 조기 췌장암을 더 잘 찾는다는 결과를 발표할 예정이다."
               },
               {
                 "t": "p",
-                "x": "연구진은 LLMs 여섯 종(GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B)의 판정을 의사 기준과 견주며 세 코호트에서 성능을 따졌다. 긴급 사례를 보강한 일차의료 메시지 500건, 같은 의료 시스템의 뇌전증 클리닉 메시지 503건, 이 시스템 밖 공개 플랫폼에 환자가 올린 메시지 300건이다."
+                "x": "발표를 맡은 Wenxuan Li(Baltimore 소재 Johns Hopkins University PhD 후보생)는 이 방식이 \"기존 스캔을 활용한 기회 검진\"을 뒷받침한다고 설명한다."
               },
               {
                 "t": "p",
-                "x": "일차의료 메시지에서 다수결(Majority) 판정을 기준으로 삼자 GPT-5는 긴급 메시지를 하나도 놓치지 않았다. 온프레미스 배포가 가능한 모델 하나를 포함해 여섯 모델 중 네 모델이 민감도 0.97 이상, 음성예측도 0.98 이상을 기록했고, 모델 순위는 코호트가 달라져도 그대로였다. 클라우드든 온프레미스든 LLMs는 높은 민감도로 긴급 메시지를 배제할 수 있었지만 특이도는 여전히 한계가 있었다."
+                "x": "Li는 화요일 오후 세션에서 동료들과 개발한 AI 알고리즘 TabMBio의 시험 결과를 공유한다. TabMBio는 종양·췌장·췌관에서 뽑은 영상 바이오마커에 환자 나이·성별 같은 임상 변수를 합쳐 일상 CT에서 조기 췌장암을 찾아낸다. 연구진은 이 과정에서 바이오마커 벤치마크 PanTab도 만들었다. 147개 기관 피험자 3,788명의 데이터로, 확진된 조기 췌장암 1,487건(이 중 333건은 2 cm 미만)과 대조군 2,301건이 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "2 cm 미만 췌장암과 대조군을 가르는 조기 검출에서 TabMBio의 수신자 조작 특성 곡선 아래 면적은 0.99였다. 진단 전 CT에서도 차이가 났다. 진단 세 달에서 36개월 전에 찍은 영상으로, 영상의학과 전문의의 민감도가 0%인 구간이다. 연구진은 여기서 다중모달 바이오마커 학습이 민감도를 19.5%에서 29.3%로 끌어올렸다고 보고했다."
+              },
+              {
+                "t": "p",
+                "x": "Li와 동료들은 \"조기 [췌장암] 검출이 병변 단서에만 의존해서는 안 된다\"고 결론 내렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "クラウド対ローカルLLMs\n緊急の患者メッセージ選別",
-          "body": "クラウド型もオンプレミス型もLLMsは緊急メッセージを高感度で拾えたが、特異度は限られた。",
-          "mini_headline": "クラウドかローカルか、LLMsで受信箱を選別",
+          "headline": "AIが通常CTで読む\nsub-2 cmの膵がん",
+          "body": "TabMBioはsub-2 cmの腫瘍でAUC 0.99を達成した。",
+          "mini_headline": "CTで小さな膵腫瘍を見つけるAI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "患者ポータルのメッセージは外来コミュニケーションの大きな部分を担っており、メッセージ量の増加によって、日常的なやり取りに紛れた緊急の懸念への臨床対応が遅れている。大規模言語モデル（LLMs）がこうしたメッセージを選別できるのか、またローカルで運用するオープンウェイトモデルがクラウド型に匹敵するのかは、まだ明らかでない。"
+                "x": "研究チームは、CT画像バイオマーカーと臨床変数を組み合わせることで、病変を直接セグメンテーションする手法を上回る早期膵がんの検出が可能になると報告する予定だ。"
               },
               {
                 "t": "p",
-                "x": "研究チームは6つのLLMs（GPT-4o、GPT-5、GPT-5 Mini、Llama 4 Scout、GPT-OSS 20B、Gemma 3 27B）を、医師による基準判定と照らして3つのコホートで評価した。緊急例を多く含めたプライマリケアのメッセージ500件、同じ医療システムのてんかん外来のメッセージ503件、そしてシステム外の公開プラットフォームから集めた患者作成のメッセージ300件である。"
+                "x": "発表者でBaltimoreのJohns Hopkins UniversityのPhD候補生、Wenxuan Li氏によると、この手法は「既存のスキャンを用いた機会的スクリーニング」を後押しする。"
               },
               {
                 "t": "p",
-                "x": "プライマリケアにおける多数決（Majority）判定では、GPT-5は緊急メッセージを一件も見逃さず、オンプレミスで導入可能な1モデルを含む6モデル中4モデルが感度0.97以上、陰性的中率0.98以上に達した。モデルの順位はコホート間で変わらなかった。クラウド型とオンプレミス型のLLMsはいずれも高い感度で緊急メッセージを除外できるが、特異度は限られたままだった。"
+                "x": "火曜午後のセッションでLi氏は、自身と同僚が開発したAIアルゴリズムTabMBioを検証した研究の結果を発表する。TabMBioは腫瘍、膵臓、膵管から得た画像由来バイオマーカーに、患者の年齢や性別といった臨床変数を組み合わせ、通常のCTで早期膵がんを見つける。研究の一環として、チームはバイオマーカーのベンチマークPanTabを構築した。147施設の被験者3,788人のデータを含み、確定した早期膵がん1,487例（うち333例は2 cm未満）と対照2,301例から成る。"
+              },
+              {
+                "t": "p",
+                "x": "2 cm未満の膵がんを対照と区別する早期検出で、TabMBioは受信者動作特性曲線下面積0.99を達成した。また、診断の三か月前から36か月前に撮影された診断前CT（放射線科医の感度は0%）では、マルチモーダルなバイオマーカー学習により感度が19.5%から29.3%に向上したと研究者らは報告した。"
+              },
+              {
+                "t": "p",
+                "x": "結論は何か。Li氏らは「早期の[膵がん]検出は病変の手がかりだけに頼るべきではない」と結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "云端与本地LLMs\n分诊紧急患者消息",
-          "body": "云端与本地部署的LLMs都能以高灵敏度识别紧急患者门户消息，但特异度有限。",
-          "mini_headline": "云端还是本地LLMs分诊收件箱",
+          "headline": "AI解读常规CT\n识别sub-2 cm胰腺癌",
+          "body": "Johns Hopkins的TabMBio对sub-2 cm肿瘤AUC达0.99。",
+          "mini_headline": "AI在CT上发现微小胰腺肿瘤",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "患者门户消息承担了门诊沟通的相当大一部分，而消息量的增加拖慢了临床对夹杂在日常往来中的紧急问题的响应。大语言模型（LLMs）能否对这些消息进行分诊，以及本地部署的开放权重模型能否与云端模型相媲美，目前尚不清楚。"
+                "x": "研究人员将报告，将CT影像生物标志物与临床变量相结合，可使早期胰腺癌的检出效果优于直接病灶分割。"
               },
               {
                 "t": "p",
-                "x": "研究人员以医生参考标准为对照，在三个队列中评估了六个LLMs（GPT-4o、GPT-5、GPT-5 Mini、Llama 4 Scout、GPT-OSS 20B、Gemma 3 27B）：500条富集了紧急病例的初级保健消息、503条来自同一医疗系统癫痫门诊的消息，以及300条来自该系统外公共平台的患者撰写消息。"
+                "x": "研究报告人、Baltimore的Johns Hopkins University PhD候选人Wenxuan Li表示，该方法支持“利用现有扫描进行机会性筛查”。"
               },
               {
                 "t": "p",
-                "x": "在初级保健的多数（Majority）判定下，GPT-5没有漏掉任何紧急消息，六个模型中有四个（包括一个可本地部署的模型）灵敏度达到0.97或以上，阴性预测值达到0.98或以上。各模型的排名在不同队列中保持一致。云端和本地部署的LLMs都能以高灵敏度排除紧急消息，但特异度仍然有限。"
+                "x": "在周二下午的会议上，Li将分享一项研究结果，该研究测试了她与同事开发的AI算法TabMBio。该算法将来自肿瘤、胰腺和胰管的影像衍生生物标志物与患者年龄、性别等临床变量相结合，在常规CT上识别早期胰腺癌。作为研究的一部分，团队建立了名为PanTab的生物标志物基准，包含来自147个中心的3,788名受试者的数据，其中有1,487例确诊早期胰腺癌（其中333例小于2 cm）和2,301名对照。"
+              },
+              {
+                "t": "p",
+                "x": "在区分小于2 cm胰腺癌与对照的早期检测中，TabMBio的受试者工作特征曲线下面积达到0.99。研究人员还报告，在诊断前三至36个月获得的诊断前CT上（放射科医生的敏感度为0%），多模态生物标志物学习将敏感度从19.5%提升至29.3%。"
+              },
+              {
+                "t": "p",
+                "x": "结论是什么？Li及同事总结称：“早期[胰腺癌]检测不应仅依赖病灶线索。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "LLMs en la nube o locales para\nmensajes urgentes de pacientes",
-          "body": "Los LLMs en la nube y locales detectaron mensajes urgentes con alta sensibilidad, pero con especificidad limitada.",
-          "mini_headline": "LLMs en la nube o locales para el triaje",
+          "headline": "La IA lee CT de rutina\ncáncer de páncreas sub-2 cm",
+          "body": "TabMBio, de Johns Hopkins, logró un AUC de 0.99 en tumores sub-2 cm y subió la sensibilidad del 19.5% al 29.3%.",
+          "mini_headline": "La IA detecta tumores pancreáticos diminutos en CT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los mensajes del portal del paciente concentran una parte sustancial de la comunicación ambulatoria, y el creciente volumen ha ralentizado la respuesta clínica a las preocupaciones urgentes que llegan mezcladas con el tráfico rutinario. Aún no está claro si los modelos de lenguaje de gran tamaño (LLMs) pueden clasificar estos mensajes ni si los modelos de pesos abiertos alojados localmente pueden igualar a los alojados en la nube."
+                "x": "Los investigadores informarán que combinar biomarcadores de imagen de CT con variables clínicas mejora la detección del cáncer de páncreas en etapa temprana más allá de la segmentación directa de la lesión."
               },
               {
                 "t": "p",
-                "x": "Evaluamos seis LLMs (GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B) frente a un estándar de referencia médico en tres cohortes: 500 mensajes de atención primaria enriquecidos con casos urgentes, 503 mensajes de una clínica de epilepsia del mismo sistema de salud y 300 mensajes escritos por pacientes en plataformas públicas ajenas a él."
+                "x": "El enfoque respalda la \"detección oportunista en estudios ya existentes\", según la presentadora del estudio y candidata a PhD Wenxuan Li, de Johns Hopkins University en Baltimore."
               },
               {
                 "t": "p",
-                "x": "Con la adjudicación por mayoría (Majority) en atención primaria, GPT-5 no pasó por alto ningún mensaje urgente, y cuatro de los seis modelos, incluido uno que puede desplegarse en las propias instalaciones, alcanzaron una sensibilidad de 0,97 o superior y un valor predictivo negativo de 0,98 o superior. El orden de clasificación se mantuvo en todas las cohortes. Tanto los LLMs en la nube como los locales pueden descartar mensajes urgentes con alta sensibilidad, aunque la especificidad siguió siendo limitada."
+                "x": "En esta sesión del martes por la tarde, Li compartirá los resultados de un estudio que puso a prueba TabMBio, un algoritmo de IA que ella y sus colegas desarrollaron y que combina biomarcadores derivados de imagen del tumor, el páncreas y el conducto pancreático con variables clínicas como la edad y el sexo del paciente para identificar cáncer de páncreas en etapa temprana en CT de rutina. Como parte de la investigación, el grupo creó un benchmark de biomarcadores llamado PanTab, con datos de 3,788 sujetos de 147 centros, que incluía 1,487 cánceres de páncreas en etapa temprana confirmados (333 de ellos menores de 2 cm) y 2,301 controles."
+              },
+              {
+                "t": "p",
+                "x": "En la detección temprana de cánceres de páncreas menores de 2 cm frente a controles, TabMBio alcanzó un área bajo la curva característica operativa del receptor de 0.99. Los investigadores también informaron que, en CT prediagnósticas obtenidas de tres a 36 meses antes del diagnóstico, donde la sensibilidad de los radiólogos es del 0%, el aprendizaje multimodal de biomarcadores elevó la sensibilidad del 19.5% al 29.3%."
+              },
+              {
+                "t": "p",
+                "x": "¿La conclusión? \"La detección temprana del [cáncer de páncreas] no debería depender solo de las señales de la lesión\", concluyeron Li y sus colegas."
               }
             ]
           }
@@ -377,89 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "클라우드 대 로컬 LLMs\n긴급 환자 메시지 분류",
-          "body": "클라우드·온프레미스 LLMs 모두 긴급 메시지 민감도는 높고 특이도는 제한적이었다.",
-          "mini_headline": "클라우드·로컬 LLMs 메시지 분류",
+          "headline": "AI, 일반 CT로 찾는\nsub-2 cm 췌장암",
+          "body": "TabMBio는 sub-2 cm 종양에서 AUC 0.99를 기록했다.",
+          "mini_headline": "CT에서 작은 췌장 종양 찾는 AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "환자 포털 메시지는 외래 소통에서 상당한 비중을 차지하며, 메시지 양이 늘면서 일상적인 메시지 속에 섞인 긴급한 문제에 대한 임상 대응이 늦어졌다. 대규모 언어모델(LLMs)이 이런 메시지를 분류할 수 있는지, 로컬에서 구동하는 오픈 웨이트 모델이 클라우드 모델에 필적할 수 있는지는 아직 분명하지 않다."
+                "x": "연구진은 CT 영상 바이오마커와 임상 변수를 결합하면 병변을 직접 분할하는 방식보다 조기 췌장암 검출이 향상된다고 발표할 예정이다."
               },
               {
                 "t": "p",
-                "x": "연구진은 LLMs 여섯 종(GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B)을 의사 기준 판정과 비교해 세 코호트에서 평가했다. 긴급 사례를 보강한 일차의료 메시지 500건, 같은 의료 시스템 뇌전증 클리닉 메시지 503건, 이 시스템 밖 공개 플랫폼에서 환자가 작성한 메시지 300건이다."
+                "x": "발표자이자 Baltimore 소재 Johns Hopkins University의 PhD 후보생인 Wenxuan Li에 따르면, 이 접근법은 \"기존 스캔을 활용한 기회 검진\"을 뒷받침한다."
               },
               {
                 "t": "p",
-                "x": "일차의료에서 다수결(Majority) 판정 기준으로 GPT-5는 긴급 메시지를 하나도 놓치지 않았고, 온프레미스 배포가 가능한 모델 하나를 포함해 여섯 모델 중 네 모델이 민감도 0.97 이상, 음성예측도 0.98 이상을 기록했다. 모델 순위는 코호트 전반에서 유지됐다. 클라우드 기반과 온프레미스 LLMs 모두 높은 민감도로 긴급 메시지를 배제할 수 있지만, 특이도는 여전히 제한적이었다."
+                "x": "화요일 오후 세션에서 Li는 자신과 동료들이 개발한 AI 알고리즘 TabMBio를 시험한 연구 결과를 공유한다. TabMBio는 종양, 췌장, 췌관에서 얻은 영상 기반 바이오마커와 환자 나이·성별 같은 임상 변수를 결합해 일상적인 CT에서 조기 췌장암을 찾아낸다. 연구진은 이 과정에서 PanTab이라는 바이오마커 벤치마크를 만들었고, 여기에는 147개 기관의 피험자 3,788명 데이터가 담겼다. 확진된 조기 췌장암 1,487건(이 중 333건은 2 cm 미만)과 대조군 2,301건이다."
+              },
+              {
+                "t": "p",
+                "x": "2 cm 미만 췌장암을 대조군과 구별하는 조기 검출에서 TabMBio는 수신자 조작 특성 곡선 아래 면적 0.99를 기록했다. 연구진은 또 진단 세 달에서 36개월 전에 촬영한 진단 전 CT(영상의학과 전문의의 민감도가 0%인 영역)에서 다중모달 바이오마커 학습이 민감도를 19.5%에서 29.3%로 높였다고 보고했다."
+              },
+              {
+                "t": "p",
+                "x": "결론은 무엇인가. Li와 동료들은 \"조기 [췌장암] 검출이 병변 단서에만 의존해서는 안 된다\"고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "クラウド対ローカルLLMs\n緊急の患者メッセージ選別",
-          "body": "クラウド型もオンプレミス型もLLMsは緊急メッセージを高感度で拾えたが、特異度は限られた。",
-          "mini_headline": "クラウドかローカルか、LLMsで受信箱を選別",
+          "headline": "AIが通常CTで読む\nsub-2 cmの膵がん",
+          "body": "TabMBioはsub-2 cmの腫瘍でAUC 0.99を達成した。",
+          "mini_headline": "CTで小さな膵腫瘍を見つけるAI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "患者ポータルのメッセージは外来コミュニケーションの大きな部分を担っており、メッセージ量の増加によって、日常的なやり取りに紛れた緊急の懸念への臨床対応が遅れている。大規模言語モデル（LLMs）がこうしたメッセージを選別できるのか、またローカルで運用するオープンウェイトモデルがクラウド型に匹敵するのかは、まだ明らかでない。"
+                "x": "研究チームは、CT画像バイオマーカーと臨床変数を組み合わせることで、病変を直接セグメンテーションする手法を上回る早期膵がんの検出が可能になると報告する予定だ。"
               },
               {
                 "t": "p",
-                "x": "研究チームは6つのLLMs（GPT-4o、GPT-5、GPT-5 Mini、Llama 4 Scout、GPT-OSS 20B、Gemma 3 27B）を、医師による基準判定と照らして3つのコホートで評価した。緊急例を多く含めたプライマリケアのメッセージ500件、同じ医療システムのてんかん外来のメッセージ503件、そしてシステム外の公開プラットフォームから集めた患者作成のメッセージ300件である。"
+                "x": "発表者でBaltimoreのJohns Hopkins UniversityのPhD候補生、Wenxuan Li氏によると、この手法は「既存のスキャンを用いた機会的スクリーニング」を後押しする。"
               },
               {
                 "t": "p",
-                "x": "プライマリケアにおける多数決（Majority）判定では、GPT-5は緊急メッセージを一件も見逃さず、オンプレミスで導入可能な1モデルを含む6モデル中4モデルが感度0.97以上、陰性的中率0.98以上に達した。モデルの順位はコホート間で変わらなかった。クラウド型とオンプレミス型のLLMsはいずれも高い感度で緊急メッセージを除外できるが、特異度は限られたままだった。"
+                "x": "火曜午後のセッションでLi氏は、自身と同僚が開発したAIアルゴリズムTabMBioを検証した研究の結果を発表する。TabMBioは腫瘍、膵臓、膵管から得た画像由来バイオマーカーに、患者の年齢や性別といった臨床変数を組み合わせ、通常のCTで早期膵がんを見つける。研究の一環として、チームはバイオマーカーのベンチマークPanTabを構築した。147施設の被験者3,788人のデータを含み、確定した早期膵がん1,487例（うち333例は2 cm未満）と対照2,301例から成る。"
+              },
+              {
+                "t": "p",
+                "x": "2 cm未満の膵がんを対照と区別する早期検出で、TabMBioは受信者動作特性曲線下面積0.99を達成した。また、診断の三か月前から36か月前に撮影された診断前CT（放射線科医の感度は0%）では、マルチモーダルなバイオマーカー学習により感度が19.5%から29.3%に向上したと研究者らは報告した。"
+              },
+              {
+                "t": "p",
+                "x": "結論は何か。Li氏らは「早期の[膵がん]検出は病変の手がかりだけに頼るべきではない」と結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "云端与本地LLMs\n分诊紧急患者消息",
-          "body": "云端与本地部署的LLMs都能以高灵敏度识别紧急患者门户消息，但特异度有限。",
-          "mini_headline": "云端还是本地LLMs分诊收件箱",
+          "headline": "AI解读常规CT\n识别sub-2 cm胰腺癌",
+          "body": "Johns Hopkins的TabMBio对sub-2 cm肿瘤AUC达0.99。",
+          "mini_headline": "AI在CT上发现微小胰腺肿瘤",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "患者门户消息承担了门诊沟通的相当大一部分，而消息量的增加拖慢了临床对夹杂在日常往来中的紧急问题的响应。大语言模型（LLMs）能否对这些消息进行分诊，以及本地部署的开放权重模型能否与云端模型相媲美，目前尚不清楚。"
+                "x": "研究人员将报告，将CT影像生物标志物与临床变量相结合，可使早期胰腺癌的检出效果优于直接病灶分割。"
               },
               {
                 "t": "p",
-                "x": "研究人员以医生参考标准为对照，在三个队列中评估了六个LLMs（GPT-4o、GPT-5、GPT-5 Mini、Llama 4 Scout、GPT-OSS 20B、Gemma 3 27B）：500条富集了紧急病例的初级保健消息、503条来自同一医疗系统癫痫门诊的消息，以及300条来自该系统外公共平台的患者撰写消息。"
+                "x": "研究报告人、Baltimore的Johns Hopkins University PhD候选人Wenxuan Li表示，该方法支持“利用现有扫描进行机会性筛查”。"
               },
               {
                 "t": "p",
-                "x": "在初级保健的多数（Majority）判定下，GPT-5没有漏掉任何紧急消息，六个模型中有四个（包括一个可本地部署的模型）灵敏度达到0.97或以上，阴性预测值达到0.98或以上。各模型的排名在不同队列中保持一致。云端和本地部署的LLMs都能以高灵敏度排除紧急消息，但特异度仍然有限。"
+                "x": "在周二下午的会议上，Li将分享一项研究结果，该研究测试了她与同事开发的AI算法TabMBio。该算法将来自肿瘤、胰腺和胰管的影像衍生生物标志物与患者年龄、性别等临床变量相结合，在常规CT上识别早期胰腺癌。作为研究的一部分，团队建立了名为PanTab的生物标志物基准，包含来自147个中心的3,788名受试者的数据，其中有1,487例确诊早期胰腺癌（其中333例小于2 cm）和2,301名对照。"
+              },
+              {
+                "t": "p",
+                "x": "在区分小于2 cm胰腺癌与对照的早期检测中，TabMBio的受试者工作特征曲线下面积达到0.99。研究人员还报告，在诊断前三至36个月获得的诊断前CT上（放射科医生的敏感度为0%），多模态生物标志物学习将敏感度从19.5%提升至29.3%。"
+              },
+              {
+                "t": "p",
+                "x": "结论是什么？Li及同事总结称：“早期[胰腺癌]检测不应仅依赖病灶线索。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "LLMs en la nube o locales para\nmensajes urgentes de pacientes",
-          "body": "Los LLMs en la nube y locales detectaron mensajes urgentes con alta sensibilidad, pero con especificidad limitada.",
-          "mini_headline": "LLMs en la nube o locales para el triaje",
+          "headline": "La IA lee CT de rutina\ncáncer de páncreas sub-2 cm",
+          "body": "TabMBio, de Johns Hopkins, logró un AUC de 0.99 en tumores sub-2 cm y subió la sensibilidad del 19.5% al 29.3%.",
+          "mini_headline": "La IA detecta tumores pancreáticos diminutos en CT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los mensajes del portal del paciente concentran una parte sustancial de la comunicación ambulatoria, y el creciente volumen ha ralentizado la respuesta clínica a las preocupaciones urgentes que llegan mezcladas con el tráfico rutinario. Aún no está claro si los modelos de lenguaje de gran tamaño (LLMs) pueden clasificar estos mensajes ni si los modelos de pesos abiertos alojados localmente pueden igualar a los alojados en la nube."
+                "x": "Los investigadores informarán que combinar biomarcadores de imagen de CT con variables clínicas mejora la detección del cáncer de páncreas en etapa temprana más allá de la segmentación directa de la lesión."
               },
               {
                 "t": "p",
-                "x": "Evaluamos seis LLMs (GPT-4o, GPT-5, GPT-5 Mini, Llama 4 Scout, GPT-OSS 20B, Gemma 3 27B) frente a un estándar de referencia médico en tres cohortes: 500 mensajes de atención primaria enriquecidos con casos urgentes, 503 mensajes de una clínica de epilepsia del mismo sistema de salud y 300 mensajes escritos por pacientes en plataformas públicas ajenas a él."
+                "x": "El enfoque respalda la \"detección oportunista en estudios ya existentes\", según la presentadora del estudio y candidata a PhD Wenxuan Li, de Johns Hopkins University en Baltimore."
               },
               {
                 "t": "p",
-                "x": "Con la adjudicación por mayoría (Majority) en atención primaria, GPT-5 no pasó por alto ningún mensaje urgente, y cuatro de los seis modelos, incluido uno que puede desplegarse en las propias instalaciones, alcanzaron una sensibilidad de 0,97 o superior y un valor predictivo negativo de 0,98 o superior. El orden de clasificación se mantuvo en todas las cohortes. Tanto los LLMs en la nube como los locales pueden descartar mensajes urgentes con alta sensibilidad, aunque la especificidad siguió siendo limitada."
+                "x": "En esta sesión del martes por la tarde, Li compartirá los resultados de un estudio que puso a prueba TabMBio, un algoritmo de IA que ella y sus colegas desarrollaron y que combina biomarcadores derivados de imagen del tumor, el páncreas y el conducto pancreático con variables clínicas como la edad y el sexo del paciente para identificar cáncer de páncreas en etapa temprana en CT de rutina. Como parte de la investigación, el grupo creó un benchmark de biomarcadores llamado PanTab, con datos de 3,788 sujetos de 147 centros, que incluía 1,487 cánceres de páncreas en etapa temprana confirmados (333 de ellos menores de 2 cm) y 2,301 controles."
+              },
+              {
+                "t": "p",
+                "x": "En la detección temprana de cánceres de páncreas menores de 2 cm frente a controles, TabMBio alcanzó un área bajo la curva característica operativa del receptor de 0.99. Los investigadores también informaron que, en CT prediagnósticas obtenidas de tres a 36 meses antes del diagnóstico, donde la sensibilidad de los radiólogos es del 0%, el aprendizaje multimodal de biomarcadores elevó la sensibilidad del 19.5% al 29.3%."
+              },
+              {
+                "t": "p",
+                "x": "¿La conclusión? \"La detección temprana del [cáncer de páncreas] no debería depender solo de las señales de la lesión\", concluyeron Li y sus colegas."
               }
             ]
           }
@@ -467,15 +315,287 @@
       }
     },
     {
-      "id": "jama-emotional-support-ai-cohort",
+      "id": "rsna-ai-malpractice-jury",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "정신건강 수요와\n정서 지원 AI 이용",
-      "body": "일본 코호트의 정서지원 AI 이용률은 정신건강 수요별로 4.6%~20.7%였다.",
-      "mini_headline": "정신건강 수요와 AI 지원 이용",
+      "headline": "모의 배심원이 본\n영상의학 AI 과실 책임",
+      "body": "2,347명 모의 배심 연구서 80% 넘게 틀린 AI 따라 판독 바꾼 걸 탓했다.",
+      "mini_headline": "AI 따른 영상의학과 의사를 보는 배심원 시선",
       "tool": "Medicine",
-      "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.44315",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "영상의학과 의사가 AI를 어떻게 쓰고 그 사용을 어떻게 기록하느냐에 따라 의료과실 소송의 배심원 판단이 달라질 수 있다. 발표자인 Brown University의 Elizabeth Song과 동료들은 AI-radiologist 워크플로 유형별로 배심원이 느끼는 과실 책임이 어떻게 바뀌는지 살폈다."
+          },
+          {
+            "t": "p",
+            "x": "온라인 실험에 참여한 U.S. 성인 2,347명은 두개내출혈을 놓친 사건의 가상 배심원이 됐다. 참가자는 AI 미사용(no-AI) 대조군이나 21가지 AI 시나리오 중 하나에 무작위로 배정됐다. 시나리오는 단일 판독이냐 이중 판독 워크플로냐, 영상의학과 의사가 초기 판독을 기록했느냐, 배심원에게 AI 오류율을 알렸느냐에 따라 나뉘었다."
+          },
+          {
+            "t": "p",
+            "x": "이중 판독 워크플로, 초기 판독 기록, AI 오류율 공개는 모두 배심원이 보는 책임을 낮췄다. 책임이 가장 무겁게 매겨진 경우는 영상의학과 의사가 처음엔 이상 소견을 찾았다가 AI가 이를 놓치자 판독을 바꾼 때였다. 이때 참가자 80% 이상이 의사에게 책임을 물었다. 대조군에서는 62%였다. 연구진은 이 효과를 '잘못된 변경 페널티(erroneous change penalty)'라고 부른다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 \"영상의학과 의사의 책임은 워크플로 설계, 기록 관행, AI 오류율 포함 여부에 크게 좌우된다\"고 썼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Mock juries weigh AI in\nradiology malpractice",
+          "body": "In a 2,347-person mock jury study, over 80% blamed radiologists who switched a correct read to follow a wrong AI.",
+          "mini_headline": "Juries judge radiologists who follow AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "How radiologists utilize AI and how they document that use could sway jurors in a malpractice case. Presenter Elizabeth Song of Brown University and colleagues examined how different AI-radiologist workflows affect perceived malpractice liability."
+              },
+              {
+                "t": "p",
+                "x": "In an online experiment, 2,347 U.S. adults acted as hypothetical jurors in a case involving a missed intracranial hemorrhage. Participants were randomized to either a no-AI control or one of 21 AI scenarios, varying single- versus double-read workflow, whether the radiologist documented an initial interpretation, and whether jurors were told the AI's error rates."
+              },
+              {
+                "t": "p",
+                "x": "Double-read workflows, documented initial interpretations, and disclosure of AI error rates all lowered perceived liability. Liability was highest when radiologists initially spotted the abnormality but then changed their interpretation after the AI missed it: more than 80% of participants found the radiologist liable, compared with 62% in the control group. The researchers call this effect an \"erroneous change penalty.\""
+              },
+              {
+                "t": "p",
+                "x": "\"Radiologist liability is strongly influenced by workflow design, documentation practices, and inclusion of AI error rates,\" the researchers wrote."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "모의 배심원이 본\n영상의학 AI 과실 책임",
+          "body": "2,347명 모의 배심 연구서 80% 넘게 틀린 AI 따라 판독 바꾼 걸 탓했다.",
+          "mini_headline": "AI 따른 영상의학과 의사를 보는 배심원 시선",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "영상의학과 의사가 AI를 어떻게 쓰고 그 사용을 어떻게 기록하느냐에 따라 의료과실 소송의 배심원 판단이 달라질 수 있다. 발표자인 Brown University의 Elizabeth Song과 동료들은 AI-radiologist 워크플로 유형별로 배심원이 느끼는 과실 책임이 어떻게 바뀌는지 살폈다."
+              },
+              {
+                "t": "p",
+                "x": "온라인 실험에 참여한 U.S. 성인 2,347명은 두개내출혈을 놓친 사건의 가상 배심원이 됐다. 참가자는 AI 미사용(no-AI) 대조군이나 21가지 AI 시나리오 중 하나에 무작위로 배정됐다. 시나리오는 단일 판독이냐 이중 판독 워크플로냐, 영상의학과 의사가 초기 판독을 기록했느냐, 배심원에게 AI 오류율을 알렸느냐에 따라 나뉘었다."
+              },
+              {
+                "t": "p",
+                "x": "이중 판독 워크플로, 초기 판독 기록, AI 오류율 공개는 모두 배심원이 보는 책임을 낮췄다. 책임이 가장 무겁게 매겨진 경우는 영상의학과 의사가 처음엔 이상 소견을 찾았다가 AI가 이를 놓치자 판독을 바꾼 때였다. 이때 참가자 80% 이상이 의사에게 책임을 물었다. 대조군에서는 62%였다. 연구진은 이 효과를 '잘못된 변경 페널티(erroneous change penalty)'라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 \"영상의학과 의사의 책임은 워크플로 설계, 기록 관행, AI 오류율 포함 여부에 크게 좌우된다\"고 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "模擬陪審が裁く\n放射線科AIの過失",
+          "body": "2,347人の模擬陪審研究で、誤ったAIに従い正しい読影を変えた医師を80%超が非難した。",
+          "mini_headline": "AIに従った放射線科医を陪審はどう裁くか",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "放射線科医がAIをどう使い、その使用をどう記録するかは、医療過誤訴訟で陪審員の判断を左右しうる。発表者であるBrown UniversityのElizabeth Songらは、AI-radiologistワークフローの違いが、認識される過誤責任にどう影響するかを調べた。"
+              },
+              {
+                "t": "p",
+                "x": "オンライン実験では、U.S.の成人2,347人が、頭蓋内出血の見落としをめぐる事例で仮想の陪審員を務めた。参加者はAIなし（no-AI）の対照群か、21種類のAIシナリオのいずれかに無作為に割り付けられた。シナリオでは、単独読影か二重読影かというワークフロー、放射線科医が初回の読影を記録したかどうか、陪審員にAIの誤り率が伝えられたかどうかを変えた。"
+              },
+              {
+                "t": "p",
+                "x": "二重読影のワークフロー、記録された初回読影、AIの誤り率の開示は、いずれも認識される責任を下げた。責任が最も重く見られたのは、放射線科医が当初は異常を見つけていたのに、AIが見落とした後で読影を変更した場合で、参加者の80%超が放射線科医に責任があると判断した。対照群では62%だった。研究者らはこの効果を「誤った変更ペナルティ（erroneous change penalty）」と呼ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "「放射線科医の責任は、ワークフローの設計、記録の慣行、AIの誤り率を含めるかどうかに強く左右される」と研究者らは記している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "模拟陪审团如何看\n放射科AI医疗过失",
+          "body": "在2,347人模拟陪审研究中，逾80%指责因错误AI而改掉正确判读的医生。",
+          "mini_headline": "陪审团如何评判听从AI的放射科医生",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "放射科医生如何使用AI、又如何记录这种使用，可能左右医疗过失案件中陪审员的判断。报告人、Brown University的Elizabeth Song及其同事研究了不同的AI-radiologist工作流程如何影响人们对医疗过失责任的认定。"
+              },
+              {
+                "t": "p",
+                "x": "在一项在线实验中，2,347名U.S.成年人在一起漏诊颅内出血的案件中担任假想陪审员。参与者被随机分配到无AI（no-AI）对照组或21种AI情景之一，这些情景在单人阅片与双人阅片工作流程、放射科医生是否记录初始判读，以及陪审员是否被告知AI错误率等方面各不相同。"
+              },
+              {
+                "t": "p",
+                "x": "双人阅片工作流程、有记录的初始判读以及披露AI错误率，都降低了被认定的责任。当放射科医生起初发现了异常、却在AI漏检后改变判读时，责任认定最高：超过80%的参与者认为该放射科医生应承担责任，而对照组为62%。研究人员将这一效应称为“错误更改惩罚”（erroneous change penalty）。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员写道：“放射科医生的责任在很大程度上受工作流程设计、记录做法以及是否纳入AI错误率的影响。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jurados simulados juzgan la IA\nen negligencia radiológica",
+          "body": "Con 2,347 jurados simulados, más del 80% culpó al radiólogo que cambió una lectura correcta siguiendo a una IA errónea.",
+          "mini_headline": "Jurados juzgan a radiólogos que siguen a la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cómo los radiólogos utilizan la IA y cómo documentan ese uso podría influir en los jurados en un caso de negligencia. La presentadora Elizabeth Song, de Brown University, y sus colegas examinaron cómo distintos flujos de trabajo AI-radiologist afectan la responsabilidad por negligencia percibida."
+              },
+              {
+                "t": "p",
+                "x": "En un experimento en línea, 2,347 adultos de U.S. actuaron como jurados hipotéticos en un caso de hemorragia intracraneal no detectada. Los participantes fueron asignados al azar a un grupo de control sin IA (no-AI) o a uno de 21 escenarios con IA, que variaban el flujo de lectura simple frente a doble, si el radiólogo documentó una interpretación inicial y si se informó a los jurados de las tasas de error de la IA."
+              },
+              {
+                "t": "p",
+                "x": "Los flujos de doble lectura, las interpretaciones iniciales documentadas y la divulgación de las tasas de error de la IA redujeron la responsabilidad percibida. La responsabilidad fue máxima cuando los radiólogos detectaron inicialmente la anomalía pero luego cambiaron su interpretación después de que la IA no la detectara: más del 80% de los participantes consideró responsable al radiólogo, frente al 62% en el grupo de control. Los investigadores llaman a este efecto \"penalización por cambio erróneo\" (erroneous change penalty)."
+              },
+              {
+                "t": "p",
+                "x": "\"La responsabilidad del radiólogo está fuertemente influida por el diseño del flujo de trabajo, las prácticas de documentación y la inclusión de las tasas de error de la IA\", escribieron los investigadores."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "모의 배심원이 본\n영상의학 AI 과실 책임",
+          "body": "2,347명 모의 배심 연구서 80% 넘게 틀린 AI 따른 판독 변경을 탓했다.",
+          "mini_headline": "AI 따른 영상의학과 의사, 배심원 판단은",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "영상의학과 의사가 AI를 어떻게 활용하고 그 사용을 어떻게 기록하느냐가 의료과실 소송에서 배심원의 판단을 좌우할 수 있다. 발표자인 Brown University의 Elizabeth Song과 동료들은 AI-radiologist 워크플로 유형에 따라 인지된 과실 책임이 어떻게 달라지는지 살폈다."
+              },
+              {
+                "t": "p",
+                "x": "온라인 실험에서 U.S. 성인 2,347명이 두개내출혈을 놓친 사건의 가상 배심원 역할을 맡았다. 참가자는 AI 미사용(no-AI) 대조군 또는 21가지 AI 시나리오 중 하나에 무작위 배정됐다. 시나리오마다 단일 판독과 이중 판독 워크플로, 영상의학과 의사의 초기 판독 기록 여부, 배심원에게 AI 오류율을 알렸는지 여부가 달랐다."
+              },
+              {
+                "t": "p",
+                "x": "이중 판독 워크플로, 기록된 초기 판독, AI 오류율 공개는 모두 인지된 책임을 낮췄다. 책임은 영상의학과 의사가 처음엔 이상 소견을 발견했으나 AI가 이를 놓친 뒤 판독을 바꾼 경우에 가장 높았다. 이때 참가자의 80% 이상이 의사에게 책임이 있다고 판단했으며, 대조군에서는 62%였다. 연구진은 이 효과를 '잘못된 변경 페널티(erroneous change penalty)'라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 \"영상의학과 의사의 책임은 워크플로 설계, 기록 관행, AI 오류율 포함 여부에 크게 좌우된다\"고 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "模擬陪審が裁く\n放射線科AIの過失",
+          "body": "2,347人の模擬陪審研究で、誤ったAIに従い正しい読影を変えた医師を80%超が非難した。",
+          "mini_headline": "AIに従った放射線科医を陪審はどう裁くか",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "放射線科医がAIをどう使い、その使用をどう記録するかは、医療過誤訴訟で陪審員の判断を左右しうる。発表者であるBrown UniversityのElizabeth Songらは、AI-radiologistワークフローの違いが、認識される過誤責任にどう影響するかを調べた。"
+              },
+              {
+                "t": "p",
+                "x": "オンライン実験では、U.S.の成人2,347人が、頭蓋内出血の見落としをめぐる事例で仮想の陪審員を務めた。参加者はAIなし（no-AI）の対照群か、21種類のAIシナリオのいずれかに無作為に割り付けられた。シナリオでは、単独読影か二重読影かというワークフロー、放射線科医が初回の読影を記録したかどうか、陪審員にAIの誤り率が伝えられたかどうかを変えた。"
+              },
+              {
+                "t": "p",
+                "x": "二重読影のワークフロー、記録された初回読影、AIの誤り率の開示は、いずれも認識される責任を下げた。責任が最も重く見られたのは、放射線科医が当初は異常を見つけていたのに、AIが見落とした後で読影を変更した場合で、参加者の80%超が放射線科医に責任があると判断した。対照群では62%だった。研究者らはこの効果を「誤った変更ペナルティ（erroneous change penalty）」と呼ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "「放射線科医の責任は、ワークフローの設計、記録の慣行、AIの誤り率を含めるかどうかに強く左右される」と研究者らは記している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "模拟陪审团如何看\n放射科AI医疗过失",
+          "body": "在2,347人模拟陪审研究中，逾80%指责因错误AI而改掉正确判读的医生。",
+          "mini_headline": "陪审团如何评判听从AI的放射科医生",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "放射科医生如何使用AI、又如何记录这种使用，可能左右医疗过失案件中陪审员的判断。报告人、Brown University的Elizabeth Song及其同事研究了不同的AI-radiologist工作流程如何影响人们对医疗过失责任的认定。"
+              },
+              {
+                "t": "p",
+                "x": "在一项在线实验中，2,347名U.S.成年人在一起漏诊颅内出血的案件中担任假想陪审员。参与者被随机分配到无AI（no-AI）对照组或21种AI情景之一，这些情景在单人阅片与双人阅片工作流程、放射科医生是否记录初始判读，以及陪审员是否被告知AI错误率等方面各不相同。"
+              },
+              {
+                "t": "p",
+                "x": "双人阅片工作流程、有记录的初始判读以及披露AI错误率，都降低了被认定的责任。当放射科医生起初发现了异常、却在AI漏检后改变判读时，责任认定最高：超过80%的参与者认为该放射科医生应承担责任，而对照组为62%。研究人员将这一效应称为“错误更改惩罚”（erroneous change penalty）。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员写道：“放射科医生的责任在很大程度上受工作流程设计、记录做法以及是否纳入AI错误率的影响。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jurados simulados juzgan la IA\nen negligencia radiológica",
+          "body": "Con 2,347 jurados simulados, más del 80% culpó al radiólogo que cambió una lectura correcta siguiendo a una IA errónea.",
+          "mini_headline": "Jurados juzgan a radiólogos que siguen a la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cómo los radiólogos utilizan la IA y cómo documentan ese uso podría influir en los jurados en un caso de negligencia. La presentadora Elizabeth Song, de Brown University, y sus colegas examinaron cómo distintos flujos de trabajo AI-radiologist afectan la responsabilidad por negligencia percibida."
+              },
+              {
+                "t": "p",
+                "x": "En un experimento en línea, 2,347 adultos de U.S. actuaron como jurados hipotéticos en un caso de hemorragia intracraneal no detectada. Los participantes fueron asignados al azar a un grupo de control sin IA (no-AI) o a uno de 21 escenarios con IA, que variaban el flujo de lectura simple frente a doble, si el radiólogo documentó una interpretación inicial y si se informó a los jurados de las tasas de error de la IA."
+              },
+              {
+                "t": "p",
+                "x": "Los flujos de doble lectura, las interpretaciones iniciales documentadas y la divulgación de las tasas de error de la IA redujeron la responsabilidad percibida. La responsabilidad fue máxima cuando los radiólogos detectaron inicialmente la anomalía pero luego cambiaron su interpretación después de que la IA no la detectara: más del 80% de los participantes consideró responsable al radiólogo, frente al 62% en el grupo de control. Los investigadores llaman a este efecto \"penalización por cambio erróneo\" (erroneous change penalty)."
+              },
+              {
+                "t": "p",
+                "x": "\"La responsabilidad del radiólogo está fuertemente influida por el diseño del flujo de trabajo, las prácticas de documentación y la inclusión de las tasas de error de la IA\", escribieron los investigadores."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "athlete-ecg-foundation-models",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "ECG AI 모델을\n젊은 경기 선수로 검증",
+      "body": "임상 ECGs 87,662건으로 익힌 모델 세 개를 선수 기록 43건으로 시험했다.",
+      "mini_headline": "젊은 선수에게 시험한 ECG AI",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03474-9",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -483,265 +603,185 @@
         "blocks": [
           {
             "t": "p",
-            "x": "생성형 인공지능(AI) 시스템은 이제 사적인 정서적 지원을 손쉽게 구하는 통로가 됐지만 임상적 가치는 불확실하다. 연구진은 일본 COVID-19와 사회 인터넷 조사(JACSIS)의 2024년 기준선 자료와 2025년 추적 자료로 2개 시점 종단 인터넷 패널 코호트 연구를 했다. 평소 다니는 의료기관이 없는 사람들에게서 기준선 정신건강 수요가 추적 시점의 정서 지원 생성형 AI 정기 이용과 이어지는지 살폈다."
-          },
-          {
-            "t": "p",
-            "x": "평소 다니는 의료기관이 없는 응답자 6852명에서 정서 지원 AI를 정기적으로 쓰는 비율은 수요가 클수록 높았다. 수요가 낮은 응답자는 4.6%, 수요가 높아진 응답자는 9.4%, 수요가 높은 응답자는 16.3%, 두 지표에 모두 해당하는 응답자는 20.7%였다. 보정 PR은 수요 상승 1.67, 높은 수요 2.61, 두 지표 모두 2.71이었다."
+            "x": "AI-powered 심장 검진은 정확도와 효율, 비용 효율을 끌어올려 스포츠 의학을 발전시킬 수 있다. 파운데이션 모델로 자동 ECG 판독을 하는 방식은 대규모 선수 검진의 핵심으로 떠오르는 중이다. 다만 임상 환경에서 만든 모델을 들여오기 전에, 이 집단에도 들어맞는지부터 확인해야 한다. 연구진은 일반 임상 집단으로 학습한 ECG 파운데이션 모델이 선수 특유의 ECG 소견을 진단해 내는지 평가했다. 세 모델(ECG-FM, HuBERT-ECG, ECGFounder)을 PhysioNet/CinC 2021의 87,662개 샘플로 미세 조정한 뒤, 고도로 훈련된 국가대표급 선수의 전문가 주석 ECGs 43건으로 시험했다. PhysioNet/CinC 2021에서는 성능이 높았지만(AUROC 0.97, AUPRC 0.57, Sensitivity 0.89) 선수 데이터에서는 떨어져 도메인 이동이 드러났다. 가장 성능이 좋은 모델은 ECGFounder(AUROC 0.84, AUPRC 0.72, Sensitivity 0.57)였고, 가장 흔한 소견인 Sinus Bradycardia(AUROC 0.87)와 Sinus Arrhythmia(AUROC 0.95)도 잘 잡아냈다. 코호트가 작아 드문 클래스의 Per-label 추정치는 조심해서 읽어야 한다. 연구는 믿을 만한 ECG-based 검진을 위한 선수 중심 AI 프레임워크 개발에 보탬이 된다."
           },
           {
             "t": "img",
-            "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-            "cap": "기준선 정신건강 수요 수준별 정서 지원 생성형 AI 정기 이용"
-          },
-          {
-            "t": "p",
-            "x": "이 결과를 AI 이용이 치료 효과가 있다거나 안전하다는 근거로, 혹은 전문 진료를 대신할 수 있다는 근거로 읽어서는 안 된다. 정서 지원 AI 이용은 오히려 일반 진료 경로에서는 잘 드러나지 않는 사람들의 상당한 지원 수요와 디지털 도움 요청을 보여주는 지표일 수 있다."
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+            "cap": "Fig. 1: LMU 데이터셋의 선수별·진단 레이블별 최고 성능 모델(ECGFounder) 예측 히트맵."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mental health needs and\nemotional-support AI use",
-          "body": "In a Japanese cohort, regular emotional-support AI use rose from 4.6% to 20.7% as mental health needs increased.",
-          "mini_headline": "Mental health needs\nand AI support use",
+          "headline": "Testing ECG AI models\non young competitive athletes",
+          "body": "Three ECG foundation models fine-tuned on 87,662 clinical ECGs were tested on 43 expert-annotated athlete ECGs.",
+          "mini_headline": "ECG AI tested on young athletes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Generative artificial intelligence (AI) systems are now accessible sources of private emotional support, but their clinical value is uncertain. This 2-wave longitudinal internet-panel cohort study used 2024 baseline and 2025 follow-up data from the Japan COVID-19 and Society Internet Survey (JACSIS) to examine whether baseline mental health needs were associated with regular emotional-support generative AI use at follow-up among people without a usual source of care."
-              },
-              {
-                "t": "p",
-                "x": "Among 6852 respondents without a usual source of care, regular emotional-support AI use increased across need levels: 4.6% of lower-need respondents, 9.4% of elevated-need respondents, 16.3% of high-need respondents, and 20.7% of respondents with both indicators. The adjusted PR was 1.67 for elevated need, 2.61 for high need, and 2.71 for both indicators."
+                "x": "AI-powered cardiac screening could evolve sports medicine by boosting accuracy, efficiency, and cost-effectiveness, with automated ECG interpretation based on foundation models becoming key for large-scale athlete screening. Before deployment, it is crucial to verify whether these clinically developed models are applicable to this population. We evaluated whether ECG foundation models trained on general clinical populations can diagnose athlete-specific ECG findings. We fine-tuned three models (ECG-FM, HuBERT-ECG, ECGFounder) on PhysioNet/CinC 2021, 87,662 samples, and tested them on 43 expert-annotated ECGs from highly trained/national-level athletes. Performance was strong on PhysioNet/CinC 2021 (AUROC 0.97, AUPRC 0.57, Sensitivity 0.89) but dropped on athletes’ data, confirming domain shift. ECGFounder performed best (AUROC 0.84, AUPRC 0.72, Sensitivity 0.57) and detected the most frequent findings, Sinus Bradycardia (AUROC 0.87) and Sinus Arrhythmia (AUROC 0.95), well. Per-label estimates for rare classes must be interpreted cautiously, given the small cohort. This work contributes to developing athlete-focused AI frameworks for reliable ECG-based screening."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "Regular emotional-support generative AI use by baseline mental health–need level"
-              },
-              {
-                "t": "p",
-                "x": "These findings should not be interpreted as evidence that AI use is therapeutic, safe, or a substitute for professional care. Instead, emotional-support AI use may be a marker of substantial support need and digital help-seeking among people whose needs may not be visible through usual care pathways."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "정신건강 수요와\n정서 지원 AI 이용",
-          "body": "일본 코호트의 정서지원 AI 이용률은 정신건강 수요별로 4.6%~20.7%였다.",
-          "mini_headline": "정신건강 수요와 AI 지원 이용",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "생성형 인공지능(AI) 시스템은 이제 사적인 정서적 지원을 손쉽게 구하는 통로가 됐지만 임상적 가치는 불확실하다. 연구진은 일본 COVID-19와 사회 인터넷 조사(JACSIS)의 2024년 기준선 자료와 2025년 추적 자료로 2개 시점 종단 인터넷 패널 코호트 연구를 했다. 평소 다니는 의료기관이 없는 사람들에게서 기준선 정신건강 수요가 추적 시점의 정서 지원 생성형 AI 정기 이용과 이어지는지 살폈다."
-              },
-              {
-                "t": "p",
-                "x": "평소 다니는 의료기관이 없는 응답자 6852명에서 정서 지원 AI를 정기적으로 쓰는 비율은 수요가 클수록 높았다. 수요가 낮은 응답자는 4.6%, 수요가 높아진 응답자는 9.4%, 수요가 높은 응답자는 16.3%, 두 지표에 모두 해당하는 응답자는 20.7%였다. 보정 PR은 수요 상승 1.67, 높은 수요 2.61, 두 지표 모두 2.71이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "기준선 정신건강 수요 수준별 정서 지원 생성형 AI 정기 이용"
-              },
-              {
-                "t": "p",
-                "x": "이 결과를 AI 이용이 치료 효과가 있다거나 안전하다는 근거로, 혹은 전문 진료를 대신할 수 있다는 근거로 읽어서는 안 된다. 정서 지원 AI 이용은 오히려 일반 진료 경로에서는 잘 드러나지 않는 사람들의 상당한 지원 수요와 디지털 도움 요청을 보여주는 지표일 수 있다."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1: Prediction heat map for the best-performing model (ECGFounder) for each athlete and each diagnostic label on the LMU dataset."
               }
             ]
           }
         },
         "ja": {
-          "headline": "メンタルヘルスの必要性と\n感情支援AIの利用",
-          "body": "日本のコホートで精神的ニーズが高いほど感情支援AIの利用は4.6%から20.7%に増えた。",
-          "mini_headline": "メンタルヘルスの必要性とAI支援の利用",
+          "headline": "ECGのAIモデルを\n若い競技選手で検証",
+          "body": "臨床ECGs 87,662件で調整した三つの基盤モデルを選手のECGs 43件で検証した。",
+          "mini_headline": "若い選手でECG AIを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "生成人工知能（AI）システムは今や、個人的な感情的支えを得られる身近な手段となっているが、その臨床的価値は不確かである。この2時点の縦断的インターネットパネル・コホート研究は、日本のCOVID-19と社会に関するインターネット調査（JACSIS）の2024年ベースラインと2025年追跡のデータを用い、普段かかる医療機関がない人々において、ベースライン時のメンタルヘルス上の必要性が追跡時の感情支援目的の生成AIの定期利用と関連するかを調べた。"
-              },
-              {
-                "t": "p",
-                "x": "普段かかる医療機関がない回答者6852人のうち、感情支援AIの定期利用は必要性の水準に応じて増加した。必要性が低い回答者で4.6%、高まった回答者で9.4%、高い回答者で16.3%、両指標に該当する回答者で20.7%だった。調整PRは、必要性の高まりで1.67、高い必要性で2.61、両指標で2.71だった。"
+                "x": "AIを活用した（AI-powered）心臓スクリーニングは、精度、効率、費用対効果を高めることでスポーツ医学を進化させる可能性があり、基盤モデルに基づくECGの自動解析は大規模な選手スクリーニングの鍵になりつつある。導入前に、臨床向けに開発されたこれらのモデルがこの集団に適用できるかを検証することが不可欠である。我々は、一般臨床集団で学習したECG基盤モデルが選手特有のECG所見を診断できるかを評価した。三つのモデル（ECG-FM、HuBERT-ECG、ECGFounder）をPhysioNet/CinC 2021の87,662サンプルでファインチューニングし、高度に鍛えられた/国家代表レベルの選手から得た専門家注釈付きECGs 43件で検証した。PhysioNet/CinC 2021での性能は高かった（AUROC 0.97、AUPRC 0.57、感度0.89）が、選手データでは低下し、ドメインシフトが確認された。ECGFounderが最も良好な性能（AUROC 0.84、AUPRC 0.72、感度0.57）を示し、最も頻度の高い所見である洞徐脈（Sinus Bradycardia、AUROC 0.87）と洞性不整脈（Sinus Arrhythmia、AUROC 0.95）をよく検出した。コホートが小さいため、まれなクラスのラベル別推定値は慎重に解釈する必要がある。本研究は、ECGに基づく（ECG-based）信頼性の高いスクリーニングに向けた選手特化型AIフレームワークの開発に貢献する。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "ベースライン時のメンタルヘルス上の必要性の水準別にみた、感情支援目的の生成AIの定期利用"
-              },
-              {
-                "t": "p",
-                "x": "これらの結果は、AIの利用が治療的である、安全である、あるいは専門的ケアの代わりになるという証拠として解釈すべきではない。むしろ感情支援AIの利用は、通常の医療経路では必要性が見えにくい人々における、大きな支援ニーズとデジタルな援助希求の指標となり得る。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1: LMUデータセットにおける、最高性能モデル（ECGFounder）の選手ごと・診断ラベルごとの予測ヒートマップ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "心理健康需求与\n情感支持AI的使用",
-          "body": "在一项日本队列中，随着心理健康需求升高，情感支持AI的规律使用率从4.6%升至20.7%。",
-          "mini_headline": "心理健康需求与AI支持使用",
+          "headline": "ECG AI模型\n接受年轻运动员检验",
+          "body": "三个ECG基础模型经87,662份临床ECGs微调，在43份运动员ECGs上测试。",
+          "mini_headline": "ECG AI在年轻运动员身上接受测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "生成式人工智能（AI）系统如今已成为获取私密情感支持的便捷渠道，但其临床价值尚不确定。这项两轮纵向互联网面板队列研究使用了日本COVID-19与社会互联网调查（JACSIS）2024年基线和2025年随访数据，考察在没有固定就医来源的人群中，基线心理健康需求是否与随访时规律使用情感支持类生成式AI相关。"
-              },
-              {
-                "t": "p",
-                "x": "在6852名没有固定就医来源的受访者中，规律使用情感支持AI的比例随需求水平上升：需求较低者为4.6%，需求升高者为9.4%，高需求者为16.3%，两项指标兼具者为20.7%。经调整的PR在需求升高、高需求和两项指标兼具组中分别为1.67、2.61和2.71。"
+                "x": "AI驱动（AI-powered）的心脏筛查有望通过提升准确性、效率和成本效益推动运动医学发展，基于基础模型的自动ECG判读正成为大规模运动员筛查的关键。在部署之前，必须验证这些在临床环境中开发的模型是否适用于这一人群。我们评估了在一般临床人群上训练的ECG基础模型能否诊断运动员特有的ECG表现。我们在PhysioNet/CinC 2021的87,662个样本上微调了三个模型（ECG-FM、HuBERT-ECG、ECGFounder），并在43份来自高水平训练/国家级运动员、经专家标注的ECGs上进行测试。模型在PhysioNet/CinC 2021上表现出色（AUROC 0.97，AUPRC 0.57，灵敏度0.89），但在运动员数据上性能下降，证实存在领域偏移。ECGFounder表现最佳（AUROC 0.84，AUPRC 0.72，灵敏度0.57），并能较好地识别最常见的表现：窦性心动过缓（Sinus Bradycardia，AUROC 0.87）和窦性心律不齐（Sinus Arrhythmia，AUROC 0.95）。鉴于队列规模较小，罕见类别的逐标签估计值须谨慎解读。本研究有助于开发面向运动员的AI框架，以实现可靠的基于ECG（ECG-based）的筛查。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "按基线心理健康需求水平划分的情感支持类生成式AI规律使用情况"
-              },
-              {
-                "t": "p",
-                "x": "这些发现不应被解读为AI使用具有治疗作用、安全或可替代专业诊疗的证据。相反，情感支持AI的使用可能标志着这些人存在相当大的支持需求和数字化求助行为，而他们的需求可能无法通过常规诊疗途径被发现。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1：最佳模型（ECGFounder）在LMU数据集上针对每名运动员和每个诊断标签的预测热图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Necesidades de salud mental y\nuso de IA de apoyo emocional",
-          "body": "En una cohorte japonesa, el uso de IA de apoyo emocional subió del 4,6% al 20,7% a mayor necesidad de salud mental.",
-          "mini_headline": "Salud mental y uso de IA de apoyo",
+          "headline": "Modelos de IA de ECG a prueba\nen jóvenes atletas competitivos",
+          "body": "Tres modelos base de ECG, ajustados con 87,662 ECGs clínicos, se probaron en 43 ECGs de atletas anotados por expertos.",
+          "mini_headline": "IA de ECG puesta a prueba en atletas jóvenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los sistemas de inteligencia artificial (IA) generativa son hoy fuentes accesibles de apoyo emocional privado, pero su valor clínico es incierto. Este estudio de cohorte longitudinal de panel en internet, con 2 oleadas, usó datos basales de 2024 y de seguimiento de 2025 de la Japan COVID-19 and Society Internet Survey (JACSIS) para examinar si las necesidades basales de salud mental se asociaban con el uso regular de IA generativa de apoyo emocional en el seguimiento entre personas sin una fuente habitual de atención."
-              },
-              {
-                "t": "p",
-                "x": "Entre 6852 encuestados sin una fuente habitual de atención, el uso regular de IA de apoyo emocional aumentó con el nivel de necesidad: 4,6% de quienes tenían menor necesidad, 9,4% de quienes tenían necesidad elevada, 16,3% de quienes tenían necesidad alta y 20,7% de quienes presentaban ambos indicadores. La PR ajustada fue de 1,67 para necesidad elevada, 2,61 para necesidad alta y 2,71 para ambos indicadores."
+                "x": "El cribado cardíaco impulsado por IA (AI-powered) podría hacer evolucionar la medicina deportiva al mejorar la precisión, la eficiencia y la rentabilidad, y la interpretación automatizada del ECG basada en modelos fundacionales se está volviendo clave para el cribado de atletas a gran escala. Antes de su implantación, es crucial verificar si estos modelos desarrollados en el ámbito clínico son aplicables a esta población. Evaluamos si los modelos fundacionales de ECG entrenados con poblaciones clínicas generales pueden diagnosticar hallazgos de ECG específicos de atletas. Ajustamos tres modelos (ECG-FM, HuBERT-ECG, ECGFounder) con PhysioNet/CinC 2021, 87,662 muestras, y los probamos en 43 ECGs anotados por expertos de atletas altamente entrenados/de nivel nacional. El rendimiento fue alto en PhysioNet/CinC 2021 (AUROC 0.97, AUPRC 0.57, sensibilidad 0.89), pero cayó con los datos de los atletas, lo que confirma un cambio de dominio. ECGFounder obtuvo el mejor rendimiento (AUROC 0.84, AUPRC 0.72, sensibilidad 0.57) y detectó bien los hallazgos más frecuentes, la bradicardia sinusal (Sinus Bradycardia, AUROC 0.87) y la arritmia sinusal (Sinus Arrhythmia, AUROC 0.95). Las estimaciones por etiqueta para las clases poco frecuentes deben interpretarse con cautela, dado el pequeño tamaño de la cohorte. Este trabajo contribuye a desarrollar marcos de IA centrados en atletas para un cribado fiable basado en ECG (ECG-based)."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "Uso regular de IA generativa de apoyo emocional según el nivel basal de necesidad de salud mental"
-              },
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1: Mapa de calor de predicciones del modelo con mejor rendimiento (ECGFounder) para cada atleta y cada etiqueta diagnóstica en el conjunto de datos LMU."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ECG AI 모델을\n젊은 경기 선수로 검증",
+          "body": "임상 ECGs 87,662건으로 익힌 모델 세 개를 선수 기록 43건으로 시험했다.",
+          "mini_headline": "젊은 선수에게 시험한 ECG AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "p",
-                "x": "Estos hallazgos no deben interpretarse como prueba de que el uso de IA sea terapéutico, seguro o un sustituto de la atención profesional. Más bien, el uso de IA de apoyo emocional puede ser un marcador de una necesidad de apoyo considerable y de búsqueda digital de ayuda entre personas cuyas necesidades pueden no ser visibles a través de las vías habituales de atención."
+                "x": "AI-powered 심장 검진은 정확도와 효율, 비용 효율을 끌어올려 스포츠 의학을 발전시킬 수 있다. 파운데이션 모델로 자동 ECG 판독을 하는 방식은 대규모 선수 검진의 핵심으로 떠오르는 중이다. 다만 임상 환경에서 만든 모델을 들여오기 전에, 이 집단에도 들어맞는지부터 확인해야 한다. 연구진은 일반 임상 집단으로 학습한 ECG 파운데이션 모델이 선수 특유의 ECG 소견을 진단해 내는지 평가했다. 세 모델(ECG-FM, HuBERT-ECG, ECGFounder)을 PhysioNet/CinC 2021의 87,662개 샘플로 미세 조정한 뒤, 고도로 훈련된 국가대표급 선수의 전문가 주석 ECGs 43건으로 시험했다. PhysioNet/CinC 2021에서는 성능이 높았지만(AUROC 0.97, AUPRC 0.57, Sensitivity 0.89) 선수 데이터에서는 떨어져 도메인 이동이 드러났다. 가장 성능이 좋은 모델은 ECGFounder(AUROC 0.84, AUPRC 0.72, Sensitivity 0.57)였고, 가장 흔한 소견인 Sinus Bradycardia(AUROC 0.87)와 Sinus Arrhythmia(AUROC 0.95)도 잘 잡아냈다. 코호트가 작아 드문 클래스의 Per-label 추정치는 조심해서 읽어야 한다. 연구는 믿을 만한 ECG-based 검진을 위한 선수 중심 AI 프레임워크 개발에 보탬이 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1: LMU 데이터셋의 선수별·진단 레이블별 최고 성능 모델(ECGFounder) 예측 히트맵."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "정신건강 수요와\n정서 지원 AI 이용",
-          "body": "일본 코호트의 정서지원 AI 이용률은 정신건강 수요별로 4.6%~20.7%였다.",
-          "mini_headline": "정신건강 수요와 AI 지원 이용",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "생성형 인공지능(AI) 시스템은 이제 사적인 정서적 지원을 쉽게 얻을 수 있는 통로가 됐지만, 임상적 가치는 불확실하다. 이 2개 시점 종단 인터넷 패널 코호트 연구는 일본 COVID-19와 사회 인터넷 조사(JACSIS)의 2024년 기준선 자료와 2025년 추적 자료를 활용해, 평소 다니는 의료기관이 없는 사람들에서 기준선 정신건강 수요가 추적 시점의 정서 지원 생성형 AI 정기 이용과 관련이 있는지 살폈다."
-              },
-              {
-                "t": "p",
-                "x": "평소 다니는 의료기관이 없는 응답자 6852명 가운데 정서 지원 AI 정기 이용은 수요 수준에 따라 늘었다. 수요가 낮은 응답자의 4.6%, 수요가 높아진 응답자의 9.4%, 수요가 높은 응답자의 16.3%, 두 지표에 모두 해당하는 응답자의 20.7%였다. 보정 PR은 수요 상승 1.67, 높은 수요 2.61, 두 지표 모두 2.71이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "기준선 정신건강 수요 수준별 정서 지원 생성형 AI 정기 이용"
-              },
-              {
-                "t": "p",
-                "x": "이 결과를 AI 이용이 치료 효과가 있거나 안전하다는, 또는 전문 진료를 대체할 수 있다는 근거로 해석해서는 안 된다. 오히려 정서 지원 AI 이용은 일반적인 진료 경로로는 드러나지 않을 수 있는 사람들의 상당한 지원 수요와 디지털 도움 요청을 보여주는 지표일 수 있다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "メンタルヘルスの必要性と\n感情支援AIの利用",
-          "body": "日本のコホートで精神的ニーズが高いほど感情支援AIの利用は4.6%から20.7%に増えた。",
-          "mini_headline": "メンタルヘルスの必要性とAI支援の利用",
+          "headline": "ECGのAIモデルを\n若い競技選手で検証",
+          "body": "臨床ECGs 87,662件で調整した三つの基盤モデルを選手のECGs 43件で検証した。",
+          "mini_headline": "若い選手でECG AIを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "生成人工知能（AI）システムは今や、個人的な感情的支えを得られる身近な手段となっているが、その臨床的価値は不確かである。この2時点の縦断的インターネットパネル・コホート研究は、日本のCOVID-19と社会に関するインターネット調査（JACSIS）の2024年ベースラインと2025年追跡のデータを用い、普段かかる医療機関がない人々において、ベースライン時のメンタルヘルス上の必要性が追跡時の感情支援目的の生成AIの定期利用と関連するかを調べた。"
-              },
-              {
-                "t": "p",
-                "x": "普段かかる医療機関がない回答者6852人のうち、感情支援AIの定期利用は必要性の水準に応じて増加した。必要性が低い回答者で4.6%、高まった回答者で9.4%、高い回答者で16.3%、両指標に該当する回答者で20.7%だった。調整PRは、必要性の高まりで1.67、高い必要性で2.61、両指標で2.71だった。"
+                "x": "AIを活用した（AI-powered）心臓スクリーニングは、精度、効率、費用対効果を高めることでスポーツ医学を進化させる可能性があり、基盤モデルに基づくECGの自動解析は大規模な選手スクリーニングの鍵になりつつある。導入前に、臨床向けに開発されたこれらのモデルがこの集団に適用できるかを検証することが不可欠である。我々は、一般臨床集団で学習したECG基盤モデルが選手特有のECG所見を診断できるかを評価した。三つのモデル（ECG-FM、HuBERT-ECG、ECGFounder）をPhysioNet/CinC 2021の87,662サンプルでファインチューニングし、高度に鍛えられた/国家代表レベルの選手から得た専門家注釈付きECGs 43件で検証した。PhysioNet/CinC 2021での性能は高かった（AUROC 0.97、AUPRC 0.57、感度0.89）が、選手データでは低下し、ドメインシフトが確認された。ECGFounderが最も良好な性能（AUROC 0.84、AUPRC 0.72、感度0.57）を示し、最も頻度の高い所見である洞徐脈（Sinus Bradycardia、AUROC 0.87）と洞性不整脈（Sinus Arrhythmia、AUROC 0.95）をよく検出した。コホートが小さいため、まれなクラスのラベル別推定値は慎重に解釈する必要がある。本研究は、ECGに基づく（ECG-based）信頼性の高いスクリーニングに向けた選手特化型AIフレームワークの開発に貢献する。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "ベースライン時のメンタルヘルス上の必要性の水準別にみた、感情支援目的の生成AIの定期利用"
-              },
-              {
-                "t": "p",
-                "x": "これらの結果は、AIの利用が治療的である、安全である、あるいは専門的ケアの代わりになるという証拠として解釈すべきではない。むしろ感情支援AIの利用は、通常の医療経路では必要性が見えにくい人々における、大きな支援ニーズとデジタルな援助希求の指標となり得る。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1: LMUデータセットにおける、最高性能モデル（ECGFounder）の選手ごと・診断ラベルごとの予測ヒートマップ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "心理健康需求与\n情感支持AI的使用",
-          "body": "在一项日本队列中，随着心理健康需求升高，情感支持AI的规律使用率从4.6%升至20.7%。",
-          "mini_headline": "心理健康需求与AI支持使用",
+          "headline": "ECG AI模型\n接受年轻运动员检验",
+          "body": "三个ECG基础模型经87,662份临床ECGs微调，在43份运动员ECGs上测试。",
+          "mini_headline": "ECG AI在年轻运动员身上接受测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "生成式人工智能（AI）系统如今已成为获取私密情感支持的便捷渠道，但其临床价值尚不确定。这项两轮纵向互联网面板队列研究使用了日本COVID-19与社会互联网调查（JACSIS）2024年基线和2025年随访数据，考察在没有固定就医来源的人群中，基线心理健康需求是否与随访时规律使用情感支持类生成式AI相关。"
-              },
-              {
-                "t": "p",
-                "x": "在6852名没有固定就医来源的受访者中，规律使用情感支持AI的比例随需求水平上升：需求较低者为4.6%，需求升高者为9.4%，高需求者为16.3%，两项指标兼具者为20.7%。经调整的PR在需求升高、高需求和两项指标兼具组中分别为1.67、2.61和2.71。"
+                "x": "AI驱动（AI-powered）的心脏筛查有望通过提升准确性、效率和成本效益推动运动医学发展，基于基础模型的自动ECG判读正成为大规模运动员筛查的关键。在部署之前，必须验证这些在临床环境中开发的模型是否适用于这一人群。我们评估了在一般临床人群上训练的ECG基础模型能否诊断运动员特有的ECG表现。我们在PhysioNet/CinC 2021的87,662个样本上微调了三个模型（ECG-FM、HuBERT-ECG、ECGFounder），并在43份来自高水平训练/国家级运动员、经专家标注的ECGs上进行测试。模型在PhysioNet/CinC 2021上表现出色（AUROC 0.97，AUPRC 0.57，灵敏度0.89），但在运动员数据上性能下降，证实存在领域偏移。ECGFounder表现最佳（AUROC 0.84，AUPRC 0.72，灵敏度0.57），并能较好地识别最常见的表现：窦性心动过缓（Sinus Bradycardia，AUROC 0.87）和窦性心律不齐（Sinus Arrhythmia，AUROC 0.95）。鉴于队列规模较小，罕见类别的逐标签估计值须谨慎解读。本研究有助于开发面向运动员的AI框架，以实现可靠的基于ECG（ECG-based）的筛查。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "按基线心理健康需求水平划分的情感支持类生成式AI规律使用情况"
-              },
-              {
-                "t": "p",
-                "x": "这些发现不应被解读为AI使用具有治疗作用、安全或可替代专业诊疗的证据。相反，情感支持AI的使用可能标志着这些人存在相当大的支持需求和数字化求助行为，而他们的需求可能无法通过常规诊疗途径被发现。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1：最佳模型（ECGFounder）在LMU数据集上针对每名运动员和每个诊断标签的预测热图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Necesidades de salud mental y\nuso de IA de apoyo emocional",
-          "body": "En una cohorte japonesa, el uso de IA de apoyo emocional subió del 4,6% al 20,7% a mayor necesidad de salud mental.",
-          "mini_headline": "Salud mental y uso de IA de apoyo",
+          "headline": "Modelos de IA de ECG a prueba\nen jóvenes atletas competitivos",
+          "body": "Tres modelos base de ECG, ajustados con 87,662 ECGs clínicos, se probaron en 43 ECGs de atletas anotados por expertos.",
+          "mini_headline": "IA de ECG puesta a prueba en atletas jóvenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los sistemas de inteligencia artificial (IA) generativa son hoy fuentes accesibles de apoyo emocional privado, pero su valor clínico es incierto. Este estudio de cohorte longitudinal de panel en internet, con 2 oleadas, usó datos basales de 2024 y de seguimiento de 2025 de la Japan COVID-19 and Society Internet Survey (JACSIS) para examinar si las necesidades basales de salud mental se asociaban con el uso regular de IA generativa de apoyo emocional en el seguimiento entre personas sin una fuente habitual de atención."
-              },
-              {
-                "t": "p",
-                "x": "Entre 6852 encuestados sin una fuente habitual de atención, el uso regular de IA de apoyo emocional aumentó con el nivel de necesidad: 4,6% de quienes tenían menor necesidad, 9,4% de quienes tenían necesidad elevada, 16,3% de quienes tenían necesidad alta y 20,7% de quienes presentaban ambos indicadores. La PR ajustada fue de 1,67 para necesidad elevada, 2,61 para necesidad alta y 2,71 para ambos indicadores."
+                "x": "El cribado cardíaco impulsado por IA (AI-powered) podría hacer evolucionar la medicina deportiva al mejorar la precisión, la eficiencia y la rentabilidad, y la interpretación automatizada del ECG basada en modelos fundacionales se está volviendo clave para el cribado de atletas a gran escala. Antes de su implantación, es crucial verificar si estos modelos desarrollados en el ámbito clínico son aplicables a esta población. Evaluamos si los modelos fundacionales de ECG entrenados con poblaciones clínicas generales pueden diagnosticar hallazgos de ECG específicos de atletas. Ajustamos tres modelos (ECG-FM, HuBERT-ECG, ECGFounder) con PhysioNet/CinC 2021, 87,662 muestras, y los probamos en 43 ECGs anotados por expertos de atletas altamente entrenados/de nivel nacional. El rendimiento fue alto en PhysioNet/CinC 2021 (AUROC 0.97, AUPRC 0.57, sensibilidad 0.89), pero cayó con los datos de los atletas, lo que confirma un cambio de dominio. ECGFounder obtuvo el mejor rendimiento (AUROC 0.84, AUPRC 0.72, sensibilidad 0.57) y detectó bien los hallazgos más frecuentes, la bradicardia sinusal (Sinus Bradycardia, AUROC 0.87) y la arritmia sinusal (Sinus Arrhythmia, AUROC 0.95). Las estimaciones por etiqueta para las clases poco frecuentes deben interpretarse con cautela, dado el pequeño tamaño de la cohorte. Este trabajo contribuye a desarrollar marcos de IA centrados en atletas para un cribado fiable basado en ECG (ECG-based)."
               },
               {
                 "t": "img",
-                "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13d0/13779086/69b1153ee5f1/jamanetwopen-e2644315-g001.webp",
-                "cap": "Uso regular de IA generativa de apoyo emocional según el nivel basal de necesidad de salud mental"
-              },
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1: Mapa de calor de predicciones del modelo con mejor rendimiento (ECGFounder) para cada atleta y cada etiqueta diagnóstica en el conjunto de datos LMU."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ECG AI 모델을\n젊은 경기 선수로 검증",
+          "body": "임상 ECGs 87,662건으로 익힌 모델 세 개를 선수 43건에 시험했다.",
+          "mini_headline": "젊은 선수에게 시험한 ECG AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "p",
-                "x": "Estos hallazgos no deben interpretarse como prueba de que el uso de IA sea terapéutico, seguro o un sustituto de la atención profesional. Más bien, el uso de IA de apoyo emocional puede ser un marcador de una necesidad de apoyo considerable y de búsqueda digital de ayuda entre personas cuyas necesidades pueden no ser visibles a través de las vías habituales de atención."
+                "x": "AI-powered 심장 검진은 정확도, 효율성, 비용 효율을 높여 스포츠 의학을 발전시킬 수 있으며, 파운데이션 모델 기반의 자동 ECG 판독은 대규모 선수 검진의 핵심이 되고 있다. 도입에 앞서 임상 환경에서 개발된 이 모델들이 이 집단에도 적용되는지 검증하는 일이 중요하다. 연구진은 일반 임상 집단으로 학습한 ECG 파운데이션 모델이 선수 특유의 ECG 소견을 진단할 수 있는지 평가했다. 세 모델(ECG-FM, HuBERT-ECG, ECGFounder)을 PhysioNet/CinC 2021의 87,662개 샘플로 미세 조정한 뒤, 고도로 훈련된 국가대표급 선수의 전문가 주석 ECGs 43건으로 시험했다. 성능은 PhysioNet/CinC 2021에서 높았지만(AUROC 0.97, AUPRC 0.57, Sensitivity 0.89) 선수 데이터에서는 떨어져 도메인 이동이 확인됐다. ECGFounder가 가장 좋은 성능(AUROC 0.84, AUPRC 0.72, Sensitivity 0.57)을 보였고, 가장 흔한 소견인 Sinus Bradycardia(AUROC 0.87)와 Sinus Arrhythmia(AUROC 0.95)를 잘 잡아냈다. 코호트가 작으므로 드문 클래스의 Per-label 추정치는 신중하게 해석해야 한다. 이 연구는 신뢰할 수 있는 ECG-based 검진을 위한 선수 중심 AI 프레임워크 개발에 기여한다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+                "cap": "Fig. 1: LMU 데이터셋에서 선수별·진단 레이블별로 본 최고 성능 모델(ECGFounder)의 예측 히트맵."
               }
             ]
           }
@@ -749,189 +789,153 @@
       }
     },
     {
-      "id": "revealdx-reviewer-lung-nodule",
+      "id": "prehospital-thrombectomy-xai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "RevealDx 폐결절\nAI를 모든 PACS로",
-      "body": "RevealDx가 어느 PACS에서나 폐결절 AI를 돌리는 ReViewer를 냈다.",
-      "mini_headline": "어느 PACS에서나 RevealDx 폐 AI",
+      "headline": "설명 가능한 AI,\n이송 중 혈전제거술 선별",
+      "body": "실제 EMS 데이터로 만든 설명형 모델, 병원 도착 전 대혈관 폐색 뇌졸중 가린다.",
+      "mini_headline": "구급차 AI가 혈전제거술 대상 가려낸다",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542141/revealdx-revealdx-launches-lung-nodule-viewer-ai-monitoring-dashboard",
+      "source": "Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-026-80551-9",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "대혈관 폐색으로 생긴 급성 허혈성 뇌졸중은 혈관 내 치료(EVT)를 서둘러야 한다. 병원 전 뇌졸중 척도는 널리 쓰이지만 민감도, 특이도, 전반적 판별 성능 사이에서 최적의 균형을 잡지 못했다. EVT 대상자를 일찍 가려낼 머신러닝(ML) 접근법을 평가해야 하는 이유다. 우리는 독일 농촌 지역(Rhön-Grabfeld) Stroke Angel 이니셔티브에서 2015년 1월부터 2021년 6월까지 EMS로 연속 이송된(EMS-transported) 뇌졸중 의심 환자(n = 1,435, EVT 사례 94건 [6.6%])의 디지털 실제 데이터로 후향적 개발·내부 검증 연구를 했다. 여섯 개 ML 모델의 예측 확률은 Platt scaling으로 재보정했고, 임상적 유용성은 결정 곡선 분석(DCA)으로 평가했다. 특성마다 모델 예측에 얼마나 기여했는지는 SHapley Additive exPlanations(SHAP) 값으로 정량화했다. 평가 코호트 환자 287명(EVT 사례 24건)에서는 Random Forest의 AUROC(0.85 [95% CI, 0.78–0.90])가 가장 높았고, 민감도 0.92 [0.74–0.99], 특이도 0.66 [0.60–0.72]였다. 4I-SS(점수 > 2)는 AUROC 0.82 [0.72–0.89], 민감도 0.87 [0.67–0.96], 특이도 0.69 [0.64–0.74]였다. 부트스트랩 구간이 모든 지표와 Platt scaling 확률에서 겹쳐 통계적으로 유의한 우위는 없었다."
+          },
+          {
             "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+            "cap": "Fig. 2: 평가 코호트에서 EVT 대상자를 가려내는 ROC·PR 곡선."
           },
           {
-            "t": "p",
-            "x": "폐결절 AI 개발사 RevealDx가 폐 영상과 AI용 제품 두 가지를 내놓는다."
-          },
-          {
-            "t": "p",
-            "x": "하나는 폐결절을 찾아 정량화하는 진단용 품질의 영상 뷰어 ReViewer, 다른 하나는 AI 성능을 모니터링하는 품질 보증·진료 관리 대시보드 ReViz다."
-          },
-          {
-            "t": "p",
-            "x": "ReViewer로는 회사의 RevealAI-Lung 소프트웨어를 어떤 PACS에든 배포할 수 있고, 의료기관은 ReViz로 AI 성능을 추적한다. 서드파티 결절 검출·관리 시스템도 계속 쓸 수 있다고 회사는 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "RevealAI-Lung은 2026년 우연히 발견된 폐결절 용도로 미국(U.S.) 식품의약국(FDA) 허가(FDA-cleared)를 받았다. RevealDx는 FDA 허가를 받는다는 전제로 폐암 검진 소프트웨어 RevealAI-Screen도 미국(U.S.) 환자에게 무료로 제공할 계획이다."
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+            "cap": "Fig. 4: 특성별로 예측 모델에 기여한 정도를 보여주는 SHAP 요약 플롯."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "RevealDx puts lung-nodule\nAI into any PACS viewer",
-          "body": "RevealDx launched ReViewer to run its FDA-cleared lung-nodule AI in any PACS, plus ReViz to track AI performance.",
-          "mini_headline": "RevealDx lung AI\nfor any PACS",
+          "headline": "Explainable AI flags stroke\nthrombectomy cases en route",
+          "body": "Explainable models built on real-world EMS data aim to flag large-vessel-occlusion strokes before hospital arrival.",
+          "mini_headline": "Ambulance AI flags thrombectomy cases",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Acute ischaemic stroke due to large-vessel occlusion requires rapid endovascular treatment (EVT). Prehospital stroke scales, though widely used, have not achieved an optimal balance of sensitivity, specificity, and overall discriminative performance, underlining the need for evaluation of machine learning (ML) approaches to improve early identification of EVT candidates. We conducted a retrospective development and internal validation study based on digital real-world data from consecutive EMS-transported patients with suspected stroke (n = 1,435, 94 EVT events [6.6%]) from the Stroke Angel initiative in a rural region in Germany (Rhön-Grabfeld), covering the period from January 2015 to June 2021. Predicted probabilities of six ML models were recalibrated using Platt scaling, and clinical relevance was evaluated using decision curve analysis (DCA). SHapley Additive exPlanations (SHAP) values were computed to quantify individual feature contributions to model predictions. Among 287 patients (24 EVT events) in the evaluation cohort, Random Forest achieved the highest AUROC (0.85 [95% CI, 0.78–0.90]), with sensitivity of 0.92 [0.74–0.99], specificity of 0.66 [0.60–0.72]. The 4I-SS (score > 2) yielded an AUROC of 0.82 [0.72–0.89], sensitivity of 0.87 [0.67–0.96], and specificity of 0.69 [0.64–0.74]. Bootstrapped intervals overlapped across all metrics and platt scaling probabilities, suggesting no statistically significant superiority."
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2: ROC and PR curves for identifying EVT candidates within the evaluation cohort."
               },
               {
-                "t": "p",
-                "x": "Lung nodule AI developer RevealDx is introducing two products for lung imaging and AI."
-              },
-              {
-                "t": "p",
-                "x": "The products include ReViewer, a diagnostic-quality image viewer for identifying and quantifying lung nodules, and ReViz, a quality assurance and practice management dashboard for monitoring AI performance."
-              },
-              {
-                "t": "p",
-                "x": "ReViewer allows the company’s RevealAI-Lung software to be deployed in any PACS, while ReViz lets healthcare providers track AI performance. Customers can continue to use third-party nodule detection and management systems, the company said."
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lung received clearance from the U.S. Food and Drug Administration (FDA) in 2026 for use with incidentally detected lung nodules. RevealDx said it also plans to offer its RevealAI-Screen lung cancer screening software to U.S. patients at no charge, pending FDA clearance."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4: SHAP summary plots illustrating feature contributions to the predictive model."
               }
             ]
           }
         },
         "ko": {
-          "headline": "RevealDx 폐결절\nAI를 모든 PACS로",
-          "body": "RevealDx가 어느 PACS에서나 폐결절 AI를 돌리는 ReViewer를 냈다.",
-          "mini_headline": "어느 PACS에서나 RevealDx 폐 AI",
+          "headline": "설명 가능한 AI,\n이송 중 혈전제거술 선별",
+          "body": "실제 EMS 데이터로 만든 설명형 모델, 병원 도착 전 대혈관 폐색 뇌졸중 가린다.",
+          "mini_headline": "구급차 AI가 혈전제거술 대상 가려낸다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "대혈관 폐색으로 생긴 급성 허혈성 뇌졸중은 혈관 내 치료(EVT)를 서둘러야 한다. 병원 전 뇌졸중 척도는 널리 쓰이지만 민감도, 특이도, 전반적 판별 성능 사이에서 최적의 균형을 잡지 못했다. EVT 대상자를 일찍 가려낼 머신러닝(ML) 접근법을 평가해야 하는 이유다. 우리는 독일 농촌 지역(Rhön-Grabfeld) Stroke Angel 이니셔티브에서 2015년 1월부터 2021년 6월까지 EMS로 연속 이송된(EMS-transported) 뇌졸중 의심 환자(n = 1,435, EVT 사례 94건 [6.6%])의 디지털 실제 데이터로 후향적 개발·내부 검증 연구를 했다. 여섯 개 ML 모델의 예측 확률은 Platt scaling으로 재보정했고, 임상적 유용성은 결정 곡선 분석(DCA)으로 평가했다. 특성마다 모델 예측에 얼마나 기여했는지는 SHapley Additive exPlanations(SHAP) 값으로 정량화했다. 평가 코호트 환자 287명(EVT 사례 24건)에서는 Random Forest의 AUROC(0.85 [95% CI, 0.78–0.90])가 가장 높았고, 민감도 0.92 [0.74–0.99], 특이도 0.66 [0.60–0.72]였다. 4I-SS(점수 > 2)는 AUROC 0.82 [0.72–0.89], 민감도 0.87 [0.67–0.96], 특이도 0.69 [0.64–0.74]였다. 부트스트랩 구간이 모든 지표와 Platt scaling 확률에서 겹쳐 통계적으로 유의한 우위는 없었다."
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2: 평가 코호트에서 EVT 대상자를 가려내는 ROC·PR 곡선."
               },
               {
-                "t": "p",
-                "x": "폐결절 AI 개발사 RevealDx가 폐 영상과 AI용 제품 두 가지를 내놓는다."
-              },
-              {
-                "t": "p",
-                "x": "하나는 폐결절을 찾아 정량화하는 진단용 품질의 영상 뷰어 ReViewer, 다른 하나는 AI 성능을 모니터링하는 품질 보증·진료 관리 대시보드 ReViz다."
-              },
-              {
-                "t": "p",
-                "x": "ReViewer로는 회사의 RevealAI-Lung 소프트웨어를 어떤 PACS에든 배포할 수 있고, 의료기관은 ReViz로 AI 성능을 추적한다. 서드파티 결절 검출·관리 시스템도 계속 쓸 수 있다고 회사는 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lung은 2026년 우연히 발견된 폐결절 용도로 미국(U.S.) 식품의약국(FDA) 허가(FDA-cleared)를 받았다. RevealDx는 FDA 허가를 받는다는 전제로 폐암 검진 소프트웨어 RevealAI-Screen도 미국(U.S.) 환자에게 무료로 제공할 계획이다."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4: 특성별로 예측 모델에 기여한 정도를 보여주는 SHAP 요약 플롯."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RevealDxの肺結節AI\nどのPACSでも利用可に",
-          "body": "RevealDxは肺結節AIを任意のPACSで動かせるReViewerを発表した。",
-          "mini_headline": "どのPACSでもRevealDxの肺AI",
+          "headline": "説明可能なAI、\n搬送中に血栓回収の適応判定",
+          "body": "実際のEMSデータで作った説明可能なモデルで、病院到着前に大血管閉塞脳卒中を見極める狙いだ。",
+          "mini_headline": "救急車AIが血栓回収の適応を判別",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大血管閉塞による急性虚血性脳卒中には、迅速な血管内治療（EVT）が必要である。病院前脳卒中スケールは広く使われているものの、感度、特異度、全体的な識別性能の最適なバランスを実現できておらず、EVT候補を早期に特定するための機械学習（ML）アプローチを評価する必要性が浮き彫りになっている。我々は、ドイツの農村地域（Rhön-Grabfeld）におけるStroke Angelイニシアチブで、2015年1月から2021年6月までにEMSで連続搬送された（EMS-transported）脳卒中疑い患者（n = 1,435、EVT事例94件 [6.6%]）のデジタル実臨床データに基づき、後ろ向きの開発・内部検証研究を実施した。六つのMLモデルの予測確率はPlatt scalingで再較正し、臨床的有用性は決定曲線分析（DCA）で評価した。SHapley Additive exPlanations（SHAP）値を算出し、各特徴量がモデル予測に与える寄与を定量化した。評価コホートの患者287人（EVT事例24件）では、Random Forestが最も高いAUROC（0.85 [95% CI, 0.78–0.90]）を達成し、感度は0.92 [0.74–0.99]、特異度は0.66 [0.60–0.72]だった。4I-SS（スコア > 2）はAUROC 0.82 [0.72–0.89]、感度0.87 [0.67–0.96]、特異度0.69 [0.64–0.74]を示した。ブートストラップ区間はすべての指標とPlatt scaling確率で重なり、統計的に有意な優位性はないことが示唆された。"
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2: 評価コホートにおけるEVT候補特定のためのROC曲線とPR曲線。"
               },
               {
-                "t": "p",
-                "x": "肺結節AIの開発企業RevealDxが、肺画像とAI向けの2つの製品を投入する。"
-              },
-              {
-                "t": "p",
-                "x": "製品は、肺結節を検出・定量化するための診断品質の画像ビューア「ReViewer」と、AIの性能を監視するための品質保証・診療管理ダッシュボード「ReViz」である。"
-              },
-              {
-                "t": "p",
-                "x": "ReViewerにより同社のRevealAI-LungソフトウェアをどのPACSにも導入でき、ReVizでは医療機関がAIの性能を追跡できる。顧客は引き続きサードパーティの結節検出・管理システムを利用できると同社は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lungは2026年、偶発的に見つかった肺結節への使用について米国（U.S.）食品医薬品局（FDA）のクリアランス（FDA-cleared）を取得した。RevealDxは、FDAのクリアランスを前提に、肺がん検診ソフトウェアRevealAI-Screenを米国（U.S.）の患者に無償で提供する計画も明らかにした。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4: 予測モデルへの特徴量の寄与を示すSHAPサマリープロット。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RevealDx肺结节AI\n可接入任意PACS",
-          "body": "RevealDx推出ReViewer，让其肺结节AI可在任意PACS中运行。",
-          "mini_headline": "RevealDx肺部AI接入任意PACS",
+          "headline": "可解释AI在转运途中\n识别卒中取栓病例",
+          "body": "基于真实世界EMS数据的可解释模型，旨在患者抵达医院前识别大血管闭塞卒中。",
+          "mini_headline": "救护车AI识别取栓病例",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大血管闭塞所致的急性缺血性卒中需要快速进行血管内治疗（EVT）。院前卒中量表虽被广泛使用，但在灵敏度、特异度与整体判别性能之间尚未达到最佳平衡，这凸显了评估机器学习（ML）方法以改进EVT候选者早期识别的必要性。我们基于德国农村地区（Rhön-Grabfeld）Stroke Angel项目中2015年1月至2021年6月期间由EMS连续转运（EMS-transported）的疑似卒中患者（n = 1,435，EVT事件94例 [6.6%]）的数字化真实世界数据，开展了一项回顾性开发与内部验证研究。六个ML模型的预测概率采用Platt scaling重新校准，临床相关性通过决策曲线分析（DCA）评估。我们计算了SHapley Additive exPlanations（SHAP）值，以量化各特征对模型预测的贡献。在评估队列的287名患者（EVT事件24例）中，Random Forest的AUROC最高（0.85 [95% CI, 0.78–0.90]），灵敏度为0.92 [0.74–0.99]，特异度为0.66 [0.60–0.72]。4I-SS（评分 > 2）的AUROC为0.82 [0.72–0.89]，灵敏度为0.87 [0.67–0.96]，特异度为0.69 [0.64–0.74]。自助法区间在所有指标和Platt scaling概率上均有重叠，提示不存在统计学上的显著优势。"
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2：评估队列中识别EVT候选者的ROC曲线和PR曲线。"
               },
               {
-                "t": "p",
-                "x": "肺结节AI开发商RevealDx推出两款面向肺部影像和AI的产品。"
-              },
-              {
-                "t": "p",
-                "x": "这两款产品包括ReViewer——一款用于识别和量化肺结节的诊断级影像查看器，以及ReViz——一个用于监测AI性能的质量保证与执业管理仪表板。"
-              },
-              {
-                "t": "p",
-                "x": "ReViewer使该公司的RevealAI-Lung软件可部署在任何PACS中，而ReViz让医疗服务提供者能够追踪AI性能。该公司表示，客户可以继续使用第三方结节检测和管理系统。"
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lung于2026年获得美国（U.S.）食品药品监督管理局（FDA）许可（FDA-cleared），用于偶然发现的肺结节。RevealDx表示，在获得FDA许可后，还计划向美国（U.S.）患者免费提供其RevealAI-Screen肺癌筛查软件。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4：展示各特征对预测模型贡献的SHAP摘要图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "RevealDx lleva su IA de nódulos\npulmonares a cualquier PACS",
-          "body": "RevealDx lanzó ReViewer para usar en cualquier PACS su IA de nódulos pulmonares autorizada por la FDA.",
-          "mini_headline": "La IA pulmonar de RevealDx para cualquier PACS",
+          "headline": "IA explicable detecta en ruta\ncasos de trombectomía por ictus",
+          "body": "Modelos explicables con datos reales de EMS buscan detectar ictus por oclusión de gran vaso antes del ingreso.",
+          "mini_headline": "IA en ambulancia detecta casos de trombectomía",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El ictus isquémico agudo por oclusión de gran vaso requiere un tratamiento endovascular (EVT) rápido. Las escalas prehospitalarias de ictus, aunque ampliamente utilizadas, no han logrado un equilibrio óptimo entre sensibilidad, especificidad y rendimiento discriminativo global, lo que subraya la necesidad de evaluar enfoques de aprendizaje automático (ML) para mejorar la identificación temprana de candidatos a EVT. Realizamos un estudio retrospectivo de desarrollo y validación interna basado en datos digitales del mundo real de pacientes consecutivos con sospecha de ictus trasladados por EMS (EMS-transported) (n = 1,435, 94 eventos de EVT [6.6%]) de la iniciativa Stroke Angel en una región rural de Alemania (Rhön-Grabfeld), en el periodo de enero de 2015 a junio de 2021. Las probabilidades predichas de seis modelos de ML se recalibraron mediante Platt scaling, y la relevancia clínica se evaluó con análisis de curva de decisión (DCA). Se calcularon valores de SHapley Additive exPlanations (SHAP) para cuantificar la contribución de cada variable a las predicciones del modelo. Entre 287 pacientes (24 eventos de EVT) de la cohorte de evaluación, Random Forest obtuvo el AUROC más alto (0.85 [95% CI, 0.78–0.90]), con una sensibilidad de 0.92 [0.74–0.99] y una especificidad de 0.66 [0.60–0.72]. La 4I-SS (puntuación > 2) arrojó un AUROC de 0.82 [0.72–0.89], una sensibilidad de 0.87 [0.67–0.96] y una especificidad de 0.69 [0.64–0.74]. Los intervalos obtenidos por bootstrap se solaparon en todas las métricas y en las probabilidades de Platt scaling, lo que sugiere que no hubo una superioridad estadísticamente significativa."
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2: Curvas ROC y PR para identificar candidatos a EVT en la cohorte de evaluación."
               },
               {
-                "t": "p",
-                "x": "RevealDx, desarrolladora de IA para nódulos pulmonares, presenta dos productos de imagen pulmonar e IA."
-              },
-              {
-                "t": "p",
-                "x": "Los productos son ReViewer, un visor de imágenes de calidad diagnóstica para identificar y cuantificar nódulos pulmonares, y ReViz, un panel de garantía de calidad y gestión de la práctica para supervisar el rendimiento de la IA."
-              },
-              {
-                "t": "p",
-                "x": "ReViewer permite desplegar el software RevealAI-Lung de la compañía en cualquier PACS, mientras que ReViz permite a los proveedores de salud seguir el rendimiento de la IA. Los clientes pueden seguir usando sistemas de detección y gestión de nódulos de terceros, según la empresa."
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lung recibió en 2026 la autorización (FDA-cleared) de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. Food and Drug Administration, FDA) para su uso en nódulos pulmonares detectados de forma incidental. RevealDx indicó que también prevé ofrecer gratis su software de cribado de cáncer de pulmón RevealAI-Screen a pacientes de EE. UU. (U.S.), a la espera de la autorización de la FDA."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4: Gráficos resumen de SHAP que muestran la contribución de las variables al modelo predictivo."
               }
             ]
           }
@@ -939,121 +943,97 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "RevealDx 폐결절\nAI를 모든 PACS로",
-          "body": "RevealDx가 폐결절 AI를 모든 PACS에서 쓰는 ReViewer를 냈다.",
-          "mini_headline": "어느 PACS에서나 RevealDx 폐 AI",
+          "headline": "설명 가능한 AI,\n이송 중 혈전제거술 선별",
+          "body": "실제 EMS 데이터 기반 설명형 모델이 병원 도착 전 대혈관 폐색 뇌졸중을 찾는다.",
+          "mini_headline": "구급차 AI가 혈전제거술 대상 가려낸다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "대혈관 폐색으로 인한 급성 허혈성 뇌졸중은 신속한 혈관 내 치료(EVT)가 필요하다. 병원 전 뇌졸중 척도는 널리 쓰이지만 민감도, 특이도, 전반적 판별 성능 사이에서 최적의 균형을 이루지 못했으며, 이는 EVT 대상자를 조기에 식별하기 위한 머신러닝(ML) 접근법을 평가할 필요성을 보여준다. 우리는 독일 농촌 지역(Rhön-Grabfeld)의 Stroke Angel 이니셔티브에서 2015년 1월부터 2021년 6월까지 EMS로 연속 이송된(EMS-transported) 뇌졸중 의심 환자(n = 1,435, EVT 사례 94건 [6.6%])의 디지털 실제 데이터를 바탕으로 후향적 개발 및 내부 검증 연구를 수행했다. 여섯 개 ML 모델의 예측 확률은 Platt scaling으로 재보정했고, 임상적 유용성은 결정 곡선 분석(DCA)으로 평가했다. 각 특성이 모델 예측에 기여한 정도를 정량화하기 위해 SHapley Additive exPlanations(SHAP) 값을 계산했다. 평가 코호트 환자 287명(EVT 사례 24건) 가운데 Random Forest가 가장 높은 AUROC(0.85 [95% CI, 0.78–0.90])를 기록했으며, 민감도는 0.92 [0.74–0.99], 특이도는 0.66 [0.60–0.72]였다. 4I-SS(점수 > 2)는 AUROC 0.82 [0.72–0.89], 민감도 0.87 [0.67–0.96], 특이도 0.69 [0.64–0.74]를 보였다. 부트스트랩 구간은 모든 지표와 Platt scaling 확률에서 겹쳐, 통계적으로 유의한 우위는 없는 것으로 나타났다."
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2: 평가 코호트에서 EVT 대상자 식별을 위한 ROC 및 PR 곡선."
               },
               {
-                "t": "p",
-                "x": "폐결절 AI 개발사 RevealDx가 폐 영상과 AI를 위한 제품 두 가지를 선보인다."
-              },
-              {
-                "t": "p",
-                "x": "제품은 폐결절을 찾아내고 정량화하는 진단용 품질의 영상 뷰어 ReViewer, 그리고 AI 성능을 모니터링하는 품질 보증·진료 관리 대시보드 ReViz다."
-              },
-              {
-                "t": "p",
-                "x": "ReViewer를 쓰면 회사의 RevealAI-Lung 소프트웨어를 어떤 PACS에든 배포할 수 있고, ReViz로는 의료기관이 AI 성능을 추적할 수 있다. 고객은 서드파티 결절 검출·관리 시스템을 계속 쓸 수 있다고 회사는 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lung은 2026년 우연히 발견된 폐결절 용도로 미국(U.S.) 식품의약국(FDA) 허가(FDA-cleared)를 받았다. RevealDx는 FDA 허가를 전제로 폐암 검진 소프트웨어 RevealAI-Screen도 미국(U.S.) 환자에게 무료로 제공할 계획이라고 밝혔다."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4: 예측 모델에 대한 특성 기여도를 보여주는 SHAP 요약 플롯."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RevealDxの肺結節AI\nどのPACSでも利用可に",
-          "body": "RevealDxは肺結節AIを任意のPACSで動かせるReViewerを発表した。",
-          "mini_headline": "どのPACSでもRevealDxの肺AI",
+          "headline": "説明可能なAI、\n搬送中に血栓回収の適応判定",
+          "body": "実際のEMSデータで作った説明可能なモデルで、病院到着前に大血管閉塞脳卒中を見極める狙いだ。",
+          "mini_headline": "救急車AIが血栓回収の適応を判別",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大血管閉塞による急性虚血性脳卒中には、迅速な血管内治療（EVT）が必要である。病院前脳卒中スケールは広く使われているものの、感度、特異度、全体的な識別性能の最適なバランスを実現できておらず、EVT候補を早期に特定するための機械学習（ML）アプローチを評価する必要性が浮き彫りになっている。我々は、ドイツの農村地域（Rhön-Grabfeld）におけるStroke Angelイニシアチブで、2015年1月から2021年6月までにEMSで連続搬送された（EMS-transported）脳卒中疑い患者（n = 1,435、EVT事例94件 [6.6%]）のデジタル実臨床データに基づき、後ろ向きの開発・内部検証研究を実施した。六つのMLモデルの予測確率はPlatt scalingで再較正し、臨床的有用性は決定曲線分析（DCA）で評価した。SHapley Additive exPlanations（SHAP）値を算出し、各特徴量がモデル予測に与える寄与を定量化した。評価コホートの患者287人（EVT事例24件）では、Random Forestが最も高いAUROC（0.85 [95% CI, 0.78–0.90]）を達成し、感度は0.92 [0.74–0.99]、特異度は0.66 [0.60–0.72]だった。4I-SS（スコア > 2）はAUROC 0.82 [0.72–0.89]、感度0.87 [0.67–0.96]、特異度0.69 [0.64–0.74]を示した。ブートストラップ区間はすべての指標とPlatt scaling確率で重なり、統計的に有意な優位性はないことが示唆された。"
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2: 評価コホートにおけるEVT候補特定のためのROC曲線とPR曲線。"
               },
               {
-                "t": "p",
-                "x": "肺結節AIの開発企業RevealDxが、肺画像とAI向けの2つの製品を投入する。"
-              },
-              {
-                "t": "p",
-                "x": "製品は、肺結節を検出・定量化するための診断品質の画像ビューア「ReViewer」と、AIの性能を監視するための品質保証・診療管理ダッシュボード「ReViz」である。"
-              },
-              {
-                "t": "p",
-                "x": "ReViewerにより同社のRevealAI-LungソフトウェアをどのPACSにも導入でき、ReVizでは医療機関がAIの性能を追跡できる。顧客は引き続きサードパーティの結節検出・管理システムを利用できると同社は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lungは2026年、偶発的に見つかった肺結節への使用について米国（U.S.）食品医薬品局（FDA）のクリアランス（FDA-cleared）を取得した。RevealDxは、FDAのクリアランスを前提に、肺がん検診ソフトウェアRevealAI-Screenを米国（U.S.）の患者に無償で提供する計画も明らかにした。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4: 予測モデルへの特徴量の寄与を示すSHAPサマリープロット。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RevealDx肺结节AI\n可接入任意PACS",
-          "body": "RevealDx推出ReViewer，让其肺结节AI可在任意PACS中运行。",
-          "mini_headline": "RevealDx肺部AI接入任意PACS",
+          "headline": "可解释AI在转运途中\n识别卒中取栓病例",
+          "body": "基于真实世界EMS数据的可解释模型，旨在患者抵达医院前识别大血管闭塞卒中。",
+          "mini_headline": "救护车AI识别取栓病例",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大血管闭塞所致的急性缺血性卒中需要快速进行血管内治疗（EVT）。院前卒中量表虽被广泛使用，但在灵敏度、特异度与整体判别性能之间尚未达到最佳平衡，这凸显了评估机器学习（ML）方法以改进EVT候选者早期识别的必要性。我们基于德国农村地区（Rhön-Grabfeld）Stroke Angel项目中2015年1月至2021年6月期间由EMS连续转运（EMS-transported）的疑似卒中患者（n = 1,435，EVT事件94例 [6.6%]）的数字化真实世界数据，开展了一项回顾性开发与内部验证研究。六个ML模型的预测概率采用Platt scaling重新校准，临床相关性通过决策曲线分析（DCA）评估。我们计算了SHapley Additive exPlanations（SHAP）值，以量化各特征对模型预测的贡献。在评估队列的287名患者（EVT事件24例）中，Random Forest的AUROC最高（0.85 [95% CI, 0.78–0.90]），灵敏度为0.92 [0.74–0.99]，特异度为0.66 [0.60–0.72]。4I-SS（评分 > 2）的AUROC为0.82 [0.72–0.89]，灵敏度为0.87 [0.67–0.96]，特异度为0.69 [0.64–0.74]。自助法区间在所有指标和Platt scaling概率上均有重叠，提示不存在统计学上的显著优势。"
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2：评估队列中识别EVT候选者的ROC曲线和PR曲线。"
               },
               {
-                "t": "p",
-                "x": "肺结节AI开发商RevealDx推出两款面向肺部影像和AI的产品。"
-              },
-              {
-                "t": "p",
-                "x": "这两款产品包括ReViewer——一款用于识别和量化肺结节的诊断级影像查看器，以及ReViz——一个用于监测AI性能的质量保证与执业管理仪表板。"
-              },
-              {
-                "t": "p",
-                "x": "ReViewer使该公司的RevealAI-Lung软件可部署在任何PACS中，而ReViz让医疗服务提供者能够追踪AI性能。该公司表示，客户可以继续使用第三方结节检测和管理系统。"
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lung于2026年获得美国（U.S.）食品药品监督管理局（FDA）许可（FDA-cleared），用于偶然发现的肺结节。RevealDx表示，在获得FDA许可后，还计划向美国（U.S.）患者免费提供其RevealAI-Screen肺癌筛查软件。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4：展示各特征对预测模型贡献的SHAP摘要图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "RevealDx lleva su IA de nódulos\npulmonares a cualquier PACS",
-          "body": "RevealDx lanzó ReViewer para usar en cualquier PACS su IA de nódulos pulmonares autorizada por la FDA.",
-          "mini_headline": "La IA pulmonar de RevealDx para cualquier PACS",
+          "headline": "IA explicable detecta en ruta\ncasos de trombectomía por ictus",
+          "body": "Modelos explicables con datos reales de EMS buscan detectar ictus por oclusión de gran vaso antes del ingreso.",
+          "mini_headline": "IA en ambulancia detecta casos de trombectomía",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El ictus isquémico agudo por oclusión de gran vaso requiere un tratamiento endovascular (EVT) rápido. Las escalas prehospitalarias de ictus, aunque ampliamente utilizadas, no han logrado un equilibrio óptimo entre sensibilidad, especificidad y rendimiento discriminativo global, lo que subraya la necesidad de evaluar enfoques de aprendizaje automático (ML) para mejorar la identificación temprana de candidatos a EVT. Realizamos un estudio retrospectivo de desarrollo y validación interna basado en datos digitales del mundo real de pacientes consecutivos con sospecha de ictus trasladados por EMS (EMS-transported) (n = 1,435, 94 eventos de EVT [6.6%]) de la iniciativa Stroke Angel en una región rural de Alemania (Rhön-Grabfeld), en el periodo de enero de 2015 a junio de 2021. Las probabilidades predichas de seis modelos de ML se recalibraron mediante Platt scaling, y la relevancia clínica se evaluó con análisis de curva de decisión (DCA). Se calcularon valores de SHapley Additive exPlanations (SHAP) para cuantificar la contribución de cada variable a las predicciones del modelo. Entre 287 pacientes (24 eventos de EVT) de la cohorte de evaluación, Random Forest obtuvo el AUROC más alto (0.85 [95% CI, 0.78–0.90]), con una sensibilidad de 0.92 [0.74–0.99] y una especificidad de 0.66 [0.60–0.72]. La 4I-SS (puntuación > 2) arrojó un AUROC de 0.82 [0.72–0.89], una sensibilidad de 0.87 [0.67–0.96] y una especificidad de 0.69 [0.64–0.74]. Los intervalos obtenidos por bootstrap se solaparon en todas las métricas y en las probabilidades de Platt scaling, lo que sugiere que no hubo una superioridad estadísticamente significativa."
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/lung-technology-medicine-400-1.omLLrXd9BZ.jpg"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+                "cap": "Fig. 2: Curvas ROC y PR para identificar candidatos a EVT en la cohorte de evaluación."
               },
               {
-                "t": "p",
-                "x": "RevealDx, desarrolladora de IA para nódulos pulmonares, presenta dos productos de imagen pulmonar e IA."
-              },
-              {
-                "t": "p",
-                "x": "Los productos son ReViewer, un visor de imágenes de calidad diagnóstica para identificar y cuantificar nódulos pulmonares, y ReViz, un panel de garantía de calidad y gestión de la práctica para supervisar el rendimiento de la IA."
-              },
-              {
-                "t": "p",
-                "x": "ReViewer permite desplegar el software RevealAI-Lung de la compañía en cualquier PACS, mientras que ReViz permite a los proveedores de salud seguir el rendimiento de la IA. Los clientes pueden seguir usando sistemas de detección y gestión de nódulos de terceros, según la empresa."
-              },
-              {
-                "t": "p",
-                "x": "RevealAI-Lung recibió en 2026 la autorización (FDA-cleared) de la Administración de Alimentos y Medicamentos de EE. UU. (U.S. Food and Drug Administration, FDA) para su uso en nódulos pulmonares detectados de forma incidental. RevealDx indicó que también prevé ofrecer gratis su software de cribado de cáncer de pulmón RevealAI-Screen a pacientes de EE. UU. (U.S.), a la espera de la autorización de la FDA."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+                "cap": "Fig. 4: Gráficos resumen de SHAP que muestran la contribución de las variables al modelo predictivo."
               }
             ]
           }
@@ -1061,189 +1041,189 @@
       }
     },
     {
-      "id": "healthcaredive-shadow-ai-breaches",
+      "id": "uk-dhsc-social-care-ai-guidance",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "의료계 섀도 AI,\n이미 정보 유출 부른다",
-      "body": "의료계 AI 도입이 보안 감시를 앞지르면서 무단 섀도 AI가 벌써 유출을 일으킨다.",
-      "mini_headline": "섀도 AI가 부른 의료 정보 유출",
+      "headline": "UK, 사회돌봄 분야\nAI 지침 발표",
+      "body": "Swindon에선 AI로 행정시간이 63% 줄고 면담은 1.5시간→30분이 됐다.",
+      "mini_headline": "UK, 사회돌봄 AI 지침",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/",
+      "source": "GOV.UK (DHSC)",
+      "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+            "t": "p",
+            "x": "아동·성인 사회돌봄에서 인공지능을 쓰는 방법을 다룬 사상 첫 부문 횡단 지침이 나왔다. 사회돌봄 서비스와 제공기관이 AI를 최대한 활용해 행정 부담을 덜고 돌봄의 질을 높이는 길을 담았다."
           },
           {
             "t": "p",
-            "x": "보안업체 DNSFilter는 화요일 낸 보고서에서 의료 기업들이 제대로 감시하지 않는 AI 시스템에 기대면서 심각한 사이버보안 위험에 놓였다고 밝혔다."
+            "x": "Swindon Borough Council의 성인 사회돌봄 시범사업에서는 AI 도구로 사회복지사를 도운 결과 행정 시간이 63% 줄었다. Care Act 평가 면담에 걸리는 평균 시간은 1.5시간에서 30분으로, 평가서 작성 시간은 4시간에서 1.5시간으로 줄었다."
           },
           {
             "t": "p",
-            "x": "DNSFilter 설문에서 소속 조직이 보안 도구를 빠짐없이 모니터링한다고 확신한 응답자는 27%에 그쳤다. 응답자 10명 중 4명은 도구의 절반도 모니터링하지 못한다고 답했다."
+            "x": "Peterborough 시의회 직원들은 맞춤형 AI 어시스턴트 Hey Geraldine을 만들었다. 이 어시스턴트는 1,200건 넘는 질문에 답했고, 상호작용 한 번에 약 15분을 아꼈다."
           },
           {
             "t": "p",
-            "x": "의료기관 IT·사이버보안 전문가의 27%는 자사 플랫폼에 무단 AI 연결이 있다는 걸 안다고 답했다. 또 다른 23%는 그런 연결을 의심하지만 입증하지는 못했다. 조직에 AI 정책이 있다는 응답은 70%였지만 이를 일관되게 시행한다는 곳은 40%뿐이었다."
+            "x": "Alison McGovern 사회돌봄·정신건강 담당 국무장관은 \"사회돌봄의 행정 부담과 끝없는 서류 작업은 너무나 자주 환자에게서 관심을 앗아간다. AI의 힘을 활용하면 그 초점을 가장 중요한 것, 곧 돌봄으로 되돌릴 수 있다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "의료기관의 절반 가까이(47%)는 상위 승인 없이도 고용주가 새 AI 도구에 회사 시스템 접근을 허용할 수 있다. 응답자 10명 중 1명은 승인받지 않은 AI 도구 때문에 이미 사이버보안 사고가 났다고 답했다."
+            "x": "지침은 리더와 실무자, 부문 단체가 참고할 단일 국가 기준점이다. 실무 조언과 함께 거버넌스, 책임성, 데이터 보호, 전문적 감독에 관한 핵심 원칙을 담았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Healthcare's shadow AI\nis already causing breaches",
-          "body": "Healthcare AI adoption is outpacing security monitoring, and unsanctioned shadow AI is already causing data breaches.",
-          "mini_headline": "Shadow AI drives\nhealthcare breaches",
+          "headline": "UK issues AI guidance\nfor social care",
+          "body": "In a Swindon pilot, AI cut social workers' admin time by 63% and shrank assessment talks from 1.5 hours to 30 minutes.",
+          "mini_headline": "UK guidance on AI in social care",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "The first ever cross-sector guidance on the use of artificial intelligence in children's and adult social care has been published, setting out how social care services and providers can make best use of AI to cut administrative burden and improve the quality of care."
               },
               {
                 "t": "p",
-                "x": "Healthcare firms face serious cybersecurity risks because of their reliance on AI systems that they aren’t carefully monitoring, the security firm DNSFilter said in a report published Tuesday."
+                "x": "A pilot in Swindon Borough Council's adult social care found that using an AI tool to support social workers delivered a 63% reduction in administrative time. It also slashed the average time taken to complete a Care Act assessment conversation from 1.5 hours to just 30 minutes, and the time to write up assessments from 4 hours to just 1.5 hours."
               },
               {
                 "t": "p",
-                "x": "In DNSFilter’s survey, only 27% of respondents said they were confident that their organization monitored all of their security tools, and 4 in 10 respondents said they monitored fewer than half of their tools."
+                "x": "Staff at Peterborough council developed a bespoke AI assistant called Hey Geraldine, which answered over 1,200 questions and saved around 15 minutes per interaction."
               },
               {
                 "t": "p",
-                "x": "Twenty-seven percent of IT and cybersecurity professionals at healthcare organizations said they were aware of unauthorized AI connections to their platforms, while another 23% suspected such connections had occurred but couldn’t prove it. While 70% said their organizations have AI policies in place, only 40% said their companies enforce them consistently."
+                "x": "Minister of State for Social Care and Mental Health Alison McGovern said: \"The administrative load and endless paperwork in social care can all too often take the focus away from patients. By harnessing the power of AI, we can shift that focus right back on what matters most, caring.\""
               },
               {
                 "t": "p",
-                "x": "At nearly half (47%) of healthcare organizations, employers can authorize a new AI tool to access their company’s systems without higher-level approval. One in 10 respondents said an unapproved AI tool had already led to a cybersecurity incident."
+                "x": "The guidance is a single national reference point for leaders, practitioners and sector organisations, setting out key principles on governance, accountability, data protection and professional oversight, alongside practical advice."
               }
             ]
           }
         },
         "ko": {
-          "headline": "의료계 섀도 AI,\n이미 정보 유출 부른다",
-          "body": "의료계 AI 도입이 보안 감시를 앞지르면서 무단 섀도 AI가 벌써 유출을 일으킨다.",
-          "mini_headline": "섀도 AI가 부른 의료 정보 유출",
+          "headline": "UK, 사회돌봄 분야\nAI 지침 발표",
+          "body": "Swindon에선 AI로 행정시간이 63% 줄고 면담은 1.5시간→30분이 됐다.",
+          "mini_headline": "UK, 사회돌봄 AI 지침",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "아동·성인 사회돌봄에서 인공지능을 쓰는 방법을 다룬 사상 첫 부문 횡단 지침이 나왔다. 사회돌봄 서비스와 제공기관이 AI를 최대한 활용해 행정 부담을 덜고 돌봄의 질을 높이는 길을 담았다."
               },
               {
                 "t": "p",
-                "x": "보안업체 DNSFilter는 화요일 낸 보고서에서 의료 기업들이 제대로 감시하지 않는 AI 시스템에 기대면서 심각한 사이버보안 위험에 놓였다고 밝혔다."
+                "x": "Swindon Borough Council의 성인 사회돌봄 시범사업에서는 AI 도구로 사회복지사를 도운 결과 행정 시간이 63% 줄었다. Care Act 평가 면담에 걸리는 평균 시간은 1.5시간에서 30분으로, 평가서 작성 시간은 4시간에서 1.5시간으로 줄었다."
               },
               {
                 "t": "p",
-                "x": "DNSFilter 설문에서 소속 조직이 보안 도구를 빠짐없이 모니터링한다고 확신한 응답자는 27%에 그쳤다. 응답자 10명 중 4명은 도구의 절반도 모니터링하지 못한다고 답했다."
+                "x": "Peterborough 시의회 직원들은 맞춤형 AI 어시스턴트 Hey Geraldine을 만들었다. 이 어시스턴트는 1,200건 넘는 질문에 답했고, 상호작용 한 번에 약 15분을 아꼈다."
               },
               {
                 "t": "p",
-                "x": "의료기관 IT·사이버보안 전문가의 27%는 자사 플랫폼에 무단 AI 연결이 있다는 걸 안다고 답했다. 또 다른 23%는 그런 연결을 의심하지만 입증하지는 못했다. 조직에 AI 정책이 있다는 응답은 70%였지만 이를 일관되게 시행한다는 곳은 40%뿐이었다."
+                "x": "Alison McGovern 사회돌봄·정신건강 담당 국무장관은 \"사회돌봄의 행정 부담과 끝없는 서류 작업은 너무나 자주 환자에게서 관심을 앗아간다. AI의 힘을 활용하면 그 초점을 가장 중요한 것, 곧 돌봄으로 되돌릴 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "의료기관의 절반 가까이(47%)는 상위 승인 없이도 고용주가 새 AI 도구에 회사 시스템 접근을 허용할 수 있다. 응답자 10명 중 1명은 승인받지 않은 AI 도구 때문에 이미 사이버보안 사고가 났다고 답했다."
+                "x": "지침은 리더와 실무자, 부문 단체가 참고할 단일 국가 기준점이다. 실무 조언과 함께 거버넌스, 책임성, 데이터 보호, 전문적 감독에 관한 핵심 원칙을 담았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "医療のシャドーAI、\n既に情報漏洩を招く",
-          "body": "医療のAI導入はセキュリティ監視を上回り、無許可のシャドーAIが既に情報漏洩を招いている。",
-          "mini_headline": "シャドーAIが医療の情報漏洩を招く",
+          "headline": "UK、社会的ケアの\nAI指針を公表",
+          "body": "Swindonの試行でAIは事務時間を63%減らし、面談を1.5時間から30分に短縮した。",
+          "mini_headline": "UK、社会的ケアのAI指針",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "児童・成人向け社会的ケアにおける人工知能の活用について、分野横断で初となるガイダンスが公表された。社会的ケアのサービスや事業者がAIを最大限に生かし、事務負担を減らしてケアの質を高める方法を示している。"
               },
               {
                 "t": "p",
-                "x": "医療企業は十分に監視していないAIシステムに依存しているため、深刻なサイバーセキュリティ上のリスクに直面していると、セキュリティ企業DNSFilterが火曜日に公表した報告書で指摘した。"
+                "x": "Swindon Borough Councilの成人向け社会的ケアでの試行では、ソーシャルワーカーを支援するAIツールの活用により事務時間が63%削減された。Care Act評価面談を終えるまでの平均時間も1.5時間からわずか30分に、評価書の作成時間は4時間からわずか1.5時間に短縮された。"
               },
               {
                 "t": "p",
-                "x": "DNSFilterの調査では、組織がすべてのセキュリティツールを監視していると確信している回答者はわずか27%で、回答者の10人に4人は監視しているツールが半分に満たないと答えた。"
+                "x": "Peterborough市議会の職員は、Hey Geraldineという独自のAIアシスタントを開発した。このアシスタントは1,200件を超える質問に答え、やり取りごとに約15分を節約した。"
               },
               {
                 "t": "p",
-                "x": "医療機関のITおよびサイバーセキュリティ専門家の27%は自社プラットフォームへの無許可のAI接続を把握していると答え、さらに23%はそうした接続があったと疑っているものの証明できないとした。70%が組織にAIポリシーがあると答えた一方、それが一貫して運用されていると答えたのは40%にとどまった。"
+                "x": "社会的ケア・メンタルヘルス担当国務大臣のAlison McGovernは「社会的ケアにおける事務負担と際限のない書類仕事は、あまりにも頻繁に患者から関心を奪ってしまう。AIの力を活用することで、その関心を最も大切なこと、つまりケアへと引き戻せる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "医療機関の半数近く（47%）では、雇用主が上位の承認なしに新しいAIツールに自社システムへのアクセスを許可できる。回答者の10人に1人は、未承認のAIツールが既にサイバーセキュリティ事故につながったと答えた。"
+                "x": "このガイダンスは、リーダー、実務者、関係団体にとって単一の全国的な参照点となるもので、実践的な助言とあわせて、ガバナンス、説明責任、データ保護、専門職による監督に関する主要原則を示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医疗业影子AI\n已在引发数据泄露",
-          "body": "医疗行业AI应用速度超过安全监控，未经批准的影子AI已在造成数据泄露。",
-          "mini_headline": "影子AI引发医疗数据泄露",
+          "headline": "UK发布社会照护领域\nAI使用指南",
+          "body": "Swindon试点中，AI让社工行政时间减少63%，评估面谈从1.5小时缩至30分钟。",
+          "mini_headline": "UK发布社会照护AI指南",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "首份关于在儿童和成人社会照护中使用人工智能的跨部门指南已经发布，阐明社会照护服务机构和提供方如何充分利用AI来减轻行政负担、提升照护质量。"
               },
               {
                 "t": "p",
-                "x": "安全公司DNSFilter在周二发布的一份报告中表示，医疗企业依赖其未加严格监控的AI系统，因而面临严重的网络安全风险。"
+                "x": "Swindon Borough Council成人社会照护部门的一项试点发现，使用AI工具支持社工使行政时间减少了63%。完成一次Care Act评估面谈的平均用时也从1.5小时缩短到仅30分钟，撰写评估报告的时间则从4小时缩短到仅1.5小时。"
               },
               {
                 "t": "p",
-                "x": "在DNSFilter的调查中，只有27%的受访者表示确信其组织监控了全部安全工具，每10名受访者中有4人表示，他们监控的工具不到一半。"
+                "x": "Peterborough市政府的工作人员开发了一款名为Hey Geraldine的定制AI助手，它回答了1,200多个问题，每次互动节省约15分钟。"
               },
               {
                 "t": "p",
-                "x": "医疗机构的IT和网络安全专业人员中，有27%表示知道其平台存在未经授权的AI连接，另有23%怀疑发生过此类连接但无法证实。虽然70%表示其组织制定了AI政策，但只有40%表示公司会一贯执行这些政策。"
+                "x": "社会照护与心理健康国务大臣Alison McGovern表示：“社会照护中的行政负担和没完没了的文书工作，常常让人们的注意力偏离患者。借助AI的力量，我们可以把注意力重新拉回到最重要的事情上：照护。”"
               },
               {
                 "t": "p",
-                "x": "在近一半（47%）的医疗机构中，雇主无需更高层级批准即可授权新的AI工具访问公司系统。每10名受访者中就有1人表示，未经批准的AI工具已经导致了网络安全事件。"
+                "x": "该指南是面向领导者、从业人员和行业组织的统一国家参考，在提供实用建议的同时，阐明了治理、问责、数据保护和专业监督方面的关键原则。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA en la sombra en salud ya\nprovoca filtraciones de datos",
-          "body": "En salud, la adopción de IA supera la vigilancia de seguridad y la IA en la sombra ya provoca filtraciones de datos.",
-          "mini_headline": "La IA en la sombra causa filtraciones en salud",
+          "headline": "Reino Unido (UK) publica guía\nde IA para la atención social",
+          "body": "Un piloto de IA en Swindon redujo un 63% el tiempo administrativo y acortó las evaluaciones de 1.5 horas a 30 minutos.",
+          "mini_headline": "Guía del Reino Unido (UK) sobre IA en atención social",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "Se ha publicado la primera guía intersectorial sobre el uso de la inteligencia artificial en la atención social a menores y adultos, que expone cómo los servicios y proveedores de atención social pueden aprovechar al máximo la IA para reducir la carga administrativa y mejorar la calidad de la atención."
               },
               {
                 "t": "p",
-                "x": "Las empresas sanitarias se enfrentan a graves riesgos de ciberseguridad por depender de sistemas de IA que no supervisan con cuidado, según un informe publicado el martes por la firma de seguridad DNSFilter."
+                "x": "Un piloto en la atención social de adultos de Swindon Borough Council constató que usar una herramienta de IA para apoyar a los trabajadores sociales redujo un 63% el tiempo administrativo. También recortó el tiempo medio para completar una entrevista de evaluación de la Care Act de 1.5 horas a solo 30 minutos, y el tiempo de redacción de las evaluaciones de 4 horas a solo 1.5 horas."
               },
               {
                 "t": "p",
-                "x": "En la encuesta de DNSFilter, solo el 27% de los encuestados dijo estar seguro de que su organización supervisaba todas sus herramientas de seguridad, y 4 de cada 10 afirmaron supervisar menos de la mitad."
+                "x": "El personal del ayuntamiento de Peterborough desarrolló un asistente de IA a medida llamado Hey Geraldine, que respondió a más de 1,200 preguntas y ahorró unos 15 minutos por interacción."
               },
               {
                 "t": "p",
-                "x": "El 27% de los profesionales de TI (IT) y ciberseguridad de organizaciones sanitarias dijo conocer conexiones de IA no autorizadas a sus plataformas, y otro 23% sospechaba que se habían producido, aunque no podía demostrarlo. Aunque el 70% afirmó que su organización tiene políticas de IA, solo el 40% dijo que su empresa las aplica de forma sistemática."
+                "x": "La ministra de Estado de Atención Social y Salud Mental, Alison McGovern, declaró: \"La carga administrativa y el papeleo interminable en la atención social con demasiada frecuencia desvían la atención de los pacientes. Aprovechando el poder de la IA, podemos devolver ese foco a lo que más importa: cuidar\"."
               },
               {
                 "t": "p",
-                "x": "En casi la mitad (47%) de las organizaciones sanitarias, los empleadores pueden autorizar que una nueva herramienta de IA acceda a los sistemas de la empresa sin aprobación de un nivel superior. Uno de cada 10 encuestados dijo que una herramienta de IA no aprobada ya había provocado un incidente de ciberseguridad."
+                "x": "La guía es un punto de referencia nacional único para líderes, profesionales y organizaciones del sector, y establece principios clave sobre gobernanza, rendición de cuentas, protección de datos y supervisión profesional, junto con consejos prácticos."
               }
             ]
           }
@@ -1251,121 +1231,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "의료계 섀도 AI,\n이미 정보 유출 부른다",
-          "body": "의료계 AI 도입이 보안 감시를 앞질러, 무단 섀도 AI가 이미 유출을 낳는다.",
-          "mini_headline": "섀도 AI가 부른 의료 정보 유출",
+          "headline": "UK, 사회돌봄 분야\nAI 지침 발표",
+          "body": "Swindon서 AI가 행정시간 63%를 줄였고 면담은 1.5시간→30분이 됐다.",
+          "mini_headline": "UK, 사회돌봄 AI 지침",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "아동·성인 사회돌봄 분야의 인공지능 활용에 관한 사상 첫 부문 횡단 지침이 발표됐다. 지침은 사회돌봄 서비스와 제공기관이 AI를 최대한 활용해 행정 부담을 줄이고 돌봄의 질을 높이는 방법을 제시한다."
               },
               {
                 "t": "p",
-                "x": "의료 기업들이 제대로 감시하지 않는 AI 시스템에 의존하면서 심각한 사이버보안 위험에 놓였다고 보안업체 DNSFilter가 화요일 발표한 보고서에서 밝혔다."
+                "x": "Swindon Borough Council의 성인 사회돌봄 시범사업에서는 AI 도구로 사회복지사를 지원한 결과 행정 시간이 63% 줄었다. Care Act 평가 면담을 마치는 데 걸리는 평균 시간도 1.5시간에서 30분으로, 평가서 작성 시간은 4시간에서 1.5시간으로 크게 단축됐다."
               },
               {
                 "t": "p",
-                "x": "DNSFilter 설문에서 소속 조직이 모든 보안 도구를 모니터링한다고 확신한 응답자는 27%에 그쳤고, 응답자 10명 중 4명은 도구의 절반도 모니터링하지 못한다고 답했다."
+                "x": "Peterborough 시의회 직원들은 Hey Geraldine이라는 맞춤형 AI 어시스턴트를 개발했다. 이 어시스턴트는 1,200건이 넘는 질문에 답했고 상호작용 한 번에 약 15분을 절약했다."
               },
               {
                 "t": "p",
-                "x": "의료기관의 IT·사이버보안 전문가 중 27%는 자사 플랫폼에 무단 AI 연결이 있다는 사실을 알고 있다고 답했고, 또 다른 23%는 그런 연결이 있었다고 의심하지만 입증하지는 못했다. 70%는 조직에 AI 정책이 있다고 했지만, 이를 일관되게 시행한다는 응답은 40%뿐이었다."
+                "x": "Alison McGovern 사회돌봄·정신건강 담당 국무장관은 \"사회돌봄의 행정 부담과 끝없는 서류 작업은 너무나 자주 환자에게서 관심을 앗아간다. AI의 힘을 활용하면 그 초점을 가장 중요한 것, 곧 돌봄으로 되돌릴 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "의료기관의 절반 가까이(47%)에서는 고용주가 상위 승인 없이도 새 AI 도구의 회사 시스템 접근을 허용할 수 있다. 응답자 10명 중 1명은 승인되지 않은 AI 도구가 이미 사이버보안 사고로 이어졌다고 답했다."
+                "x": "이 지침은 리더, 실무자, 부문 단체를 위한 단일 국가 기준점으로, 실무 조언과 함께 거버넌스, 책임성, 데이터 보호, 전문적 감독에 관한 핵심 원칙을 제시한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "医療のシャドーAI、\n既に情報漏洩を招く",
-          "body": "医療のAI導入はセキュリティ監視を上回り、無許可のシャドーAIが既に情報漏洩を招いている。",
-          "mini_headline": "シャドーAIが医療の情報漏洩を招く",
+          "headline": "UK、社会的ケアの\nAI指針を公表",
+          "body": "Swindonの試行でAIは事務時間を63%減らし、面談を1.5時間から30分に短縮した。",
+          "mini_headline": "UK、社会的ケアのAI指針",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "児童・成人向け社会的ケアにおける人工知能の活用について、分野横断で初となるガイダンスが公表された。社会的ケアのサービスや事業者がAIを最大限に生かし、事務負担を減らしてケアの質を高める方法を示している。"
               },
               {
                 "t": "p",
-                "x": "医療企業は十分に監視していないAIシステムに依存しているため、深刻なサイバーセキュリティ上のリスクに直面していると、セキュリティ企業DNSFilterが火曜日に公表した報告書で指摘した。"
+                "x": "Swindon Borough Councilの成人向け社会的ケアでの試行では、ソーシャルワーカーを支援するAIツールの活用により事務時間が63%削減された。Care Act評価面談を終えるまでの平均時間も1.5時間からわずか30分に、評価書の作成時間は4時間からわずか1.5時間に短縮された。"
               },
               {
                 "t": "p",
-                "x": "DNSFilterの調査では、組織がすべてのセキュリティツールを監視していると確信している回答者はわずか27%で、回答者の10人に4人は監視しているツールが半分に満たないと答えた。"
+                "x": "Peterborough市議会の職員は、Hey Geraldineという独自のAIアシスタントを開発した。このアシスタントは1,200件を超える質問に答え、やり取りごとに約15分を節約した。"
               },
               {
                 "t": "p",
-                "x": "医療機関のITおよびサイバーセキュリティ専門家の27%は自社プラットフォームへの無許可のAI接続を把握していると答え、さらに23%はそうした接続があったと疑っているものの証明できないとした。70%が組織にAIポリシーがあると答えた一方、それが一貫して運用されていると答えたのは40%にとどまった。"
+                "x": "社会的ケア・メンタルヘルス担当国務大臣のAlison McGovernは「社会的ケアにおける事務負担と際限のない書類仕事は、あまりにも頻繁に患者から関心を奪ってしまう。AIの力を活用することで、その関心を最も大切なこと、つまりケアへと引き戻せる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "医療機関の半数近く（47%）では、雇用主が上位の承認なしに新しいAIツールに自社システムへのアクセスを許可できる。回答者の10人に1人は、未承認のAIツールが既にサイバーセキュリティ事故につながったと答えた。"
+                "x": "このガイダンスは、リーダー、実務者、関係団体にとって単一の全国的な参照点となるもので、実践的な助言とあわせて、ガバナンス、説明責任、データ保護、専門職による監督に関する主要原則を示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医疗业影子AI\n已在引发数据泄露",
-          "body": "医疗行业AI应用速度超过安全监控，未经批准的影子AI已在造成数据泄露。",
-          "mini_headline": "影子AI引发医疗数据泄露",
+          "headline": "UK发布社会照护领域\nAI使用指南",
+          "body": "Swindon试点中，AI让社工行政时间减少63%，评估面谈从1.5小时缩至30分钟。",
+          "mini_headline": "UK发布社会照护AI指南",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "首份关于在儿童和成人社会照护中使用人工智能的跨部门指南已经发布，阐明社会照护服务机构和提供方如何充分利用AI来减轻行政负担、提升照护质量。"
               },
               {
                 "t": "p",
-                "x": "安全公司DNSFilter在周二发布的一份报告中表示，医疗企业依赖其未加严格监控的AI系统，因而面临严重的网络安全风险。"
+                "x": "Swindon Borough Council成人社会照护部门的一项试点发现，使用AI工具支持社工使行政时间减少了63%。完成一次Care Act评估面谈的平均用时也从1.5小时缩短到仅30分钟，撰写评估报告的时间则从4小时缩短到仅1.5小时。"
               },
               {
                 "t": "p",
-                "x": "在DNSFilter的调查中，只有27%的受访者表示确信其组织监控了全部安全工具，每10名受访者中有4人表示，他们监控的工具不到一半。"
+                "x": "Peterborough市政府的工作人员开发了一款名为Hey Geraldine的定制AI助手，它回答了1,200多个问题，每次互动节省约15分钟。"
               },
               {
                 "t": "p",
-                "x": "医疗机构的IT和网络安全专业人员中，有27%表示知道其平台存在未经授权的AI连接，另有23%怀疑发生过此类连接但无法证实。虽然70%表示其组织制定了AI政策，但只有40%表示公司会一贯执行这些政策。"
+                "x": "社会照护与心理健康国务大臣Alison McGovern表示：“社会照护中的行政负担和没完没了的文书工作，常常让人们的注意力偏离患者。借助AI的力量，我们可以把注意力重新拉回到最重要的事情上：照护。”"
               },
               {
                 "t": "p",
-                "x": "在近一半（47%）的医疗机构中，雇主无需更高层级批准即可授权新的AI工具访问公司系统。每10名受访者中就有1人表示，未经批准的AI工具已经导致了网络安全事件。"
+                "x": "该指南是面向领导者、从业人员和行业组织的统一国家参考，在提供实用建议的同时，阐明了治理、问责、数据保护和专业监督方面的关键原则。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA en la sombra en salud ya\nprovoca filtraciones de datos",
-          "body": "En salud, la adopción de IA supera la vigilancia de seguridad y la IA en la sombra ya provoca filtraciones de datos.",
-          "mini_headline": "La IA en la sombra causa filtraciones en salud",
+          "headline": "Reino Unido (UK) publica guía\nde IA para la atención social",
+          "body": "Un piloto de IA en Swindon redujo un 63% el tiempo administrativo y acortó las evaluaciones de 1.5 horas a 30 minutos.",
+          "mini_headline": "Guía del Reino Unido (UK) sobre IA en atención social",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/e1mDhz_r_VyKPS27zbqGn8wY7x0OYez6Sh2SLNCEg0o/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMTczMTY2LmpwZw==.webp"
+                "t": "p",
+                "x": "Se ha publicado la primera guía intersectorial sobre el uso de la inteligencia artificial en la atención social a menores y adultos, que expone cómo los servicios y proveedores de atención social pueden aprovechar al máximo la IA para reducir la carga administrativa y mejorar la calidad de la atención."
               },
               {
                 "t": "p",
-                "x": "Las empresas sanitarias se enfrentan a graves riesgos de ciberseguridad por depender de sistemas de IA que no supervisan con cuidado, según un informe publicado el martes por la firma de seguridad DNSFilter."
+                "x": "Un piloto en la atención social de adultos de Swindon Borough Council constató que usar una herramienta de IA para apoyar a los trabajadores sociales redujo un 63% el tiempo administrativo. También recortó el tiempo medio para completar una entrevista de evaluación de la Care Act de 1.5 horas a solo 30 minutos, y el tiempo de redacción de las evaluaciones de 4 horas a solo 1.5 horas."
               },
               {
                 "t": "p",
-                "x": "En la encuesta de DNSFilter, solo el 27% de los encuestados dijo estar seguro de que su organización supervisaba todas sus herramientas de seguridad, y 4 de cada 10 afirmaron supervisar menos de la mitad."
+                "x": "El personal del ayuntamiento de Peterborough desarrolló un asistente de IA a medida llamado Hey Geraldine, que respondió a más de 1,200 preguntas y ahorró unos 15 minutos por interacción."
               },
               {
                 "t": "p",
-                "x": "El 27% de los profesionales de TI (IT) y ciberseguridad de organizaciones sanitarias dijo conocer conexiones de IA no autorizadas a sus plataformas, y otro 23% sospechaba que se habían producido, aunque no podía demostrarlo. Aunque el 70% afirmó que su organización tiene políticas de IA, solo el 40% dijo que su empresa las aplica de forma sistemática."
+                "x": "La ministra de Estado de Atención Social y Salud Mental, Alison McGovern, declaró: \"La carga administrativa y el papeleo interminable en la atención social con demasiada frecuencia desvían la atención de los pacientes. Aprovechando el poder de la IA, podemos devolver ese foco a lo que más importa: cuidar\"."
               },
               {
                 "t": "p",
-                "x": "En casi la mitad (47%) de las organizaciones sanitarias, los empleadores pueden autorizar que una nueva herramienta de IA acceda a los sistemas de la empresa sin aprobación de un nivel superior. Uno de cada 10 encuestados dijo que una herramienta de IA no aprobada ya había provocado un incidente de ciberseguridad."
+                "x": "La guía es un punto de referencia nacional único para líderes, profesionales y organizaciones del sector, y establece principios clave sobre gobernanza, rendición de cuentas, protección de datos y supervisión profesional, junto con consejos prácticos."
               }
             ]
           }

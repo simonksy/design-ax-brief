@@ -10919,6 +10919,128 @@
           "x": "改版将橙色品牌色换成绿色，与竞争对手Sweet Shop高度相似，而Sweet Shop的CEO Kenny Meyers曾批评数字漫画中的AI。多位创作者表示将撤下作品。更新：CEO Henrik Rydberg澄清，公司使用的是Google的Gemini，而非自研模型。"
         }
       ]
+    },
+    "books/books-carlson-selfhelp-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Don't Sweat the Small Stuff系列图书的版权方成为最新一个挑战AI巨头的权利人。一起新的联邦诉讼称，Anthropic和Meta擅自取用了两打以上自我提升类图书，并用来训练其人工智能模型（Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026)）。"
+        },
+        {
+          "t": "p",
+          "x": "Carlson LLC是R. Carlson和K. Carlson作品的注册版权所有者。R. Carlson于1997年出版的书曾在New York Times畅销书榜上停留超过100周。诉状称，两家公司从Books3和Anna's Archive等盗版图书馆收集训练材料，并在未经许可的情况下扫描实体书获取材料。"
+        },
+        {
+          "t": "p",
+          "x": "Carlson退出了与Anthropic的Bartz集体诉讼和解，称这些书“比集体中的其他作品更有价值”。此案将Anthropic和Meta列入同一份诉状，但Northern District of California已有两位法官驳回了将多家AI公司列为共同被告的做法。被告方尚未对合并提出异议。"
+        }
+      ]
+    },
+    "books/books-not-ais-to-take": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
+        },
+        {
+          "t": "p",
+          "x": "Australian Society of Authors、Australian Publishers Association及其他创意产业和媒体组织发起了“Not AI’s to Take”，这是“一项保护澳大利亚创造力的全国性运动”。"
+        },
+        {
+          "t": "p",
+          "x": "截至发稿时，已有超过1,200人签署的一份请愿书呼吁澳大利亚政府“维持现有的版权保护”。"
+        },
+        {
+          "t": "p",
+          "x": "发起请愿的组织表示：“不应允许AI公司在未事先征得许可的情况下，使用澳大利亚的创意作品训练其模型。”他们指出，澳大利亚的创意和媒体行业为澳大利亚经济贡献了 $70.3 billion ，“并与全国各地的企业和供应链一起，支撑着近600,000名从业者”。"
+        },
+        {
+          "t": "p",
+          "x": "“我们呼吁澳大利亚政府坚守其对澳大利亚乃至全球创意产业的承诺。按澳大利亚的条件发展AI，意味着未经事先许可、未支付约定报酬，就不能使用创意作品。”"
+        },
+        {
+          "t": "p",
+          "x": "除了鼓励人们签署请愿书，该运动还请支持者通过其网站给所在选区的议员（MP）写信，并在社交媒体上分享这项运动。"
+        }
+      ]
+    },
+    "books/books-namoo-memoir-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
+        },
+        {
+          "t": "p",
+          "x": "为了更系统地记录父母的故事，我们做了Namoo。名人们常常雇用代笔作家，或花大量时间记录自己的过去。"
+        },
+        {
+          "t": "p",
+          "x": "我们当然也可以自己和父母聊天、留下记录，但亲自进行访谈并不容易，准备和整理问题也不容易。"
+        },
+        {
+          "t": "p",
+          "x": "在Namoo中，AI担任采访者，每次只提一个问题。父母只需在应用里用语音完成访谈。下一个问题会根据回答而变化，对话内容按章节整理。"
+        },
+        {
+          "t": "p",
+          "x": "最终成果可以生成e-book和有声书。我们的目标不是单纯保存录音文件，而是以家人能读、能听的形式留下记录。"
+        },
+        {
+          "t": "p",
+          "x": "服务：https://namoo.ai ，或在App Store、Google Play搜索 namoo 即可。"
+        }
+      ]
+    },
+    "books/books-guardian-wild-west": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+          "cap": "插图：Ricardo Tomás/The Guardian"
+        },
+        {
+          "t": "p",
+          "x": "作者失去丰厚合约、作家被移出奖项短名单，使用AI的指控正在出版界掀起冲击波。言情小说家Coral Hart（笔名）自2025年起借助AI以21个笔名写了370部小说，在Kindle Unlimited上赚到“六位数高段”的收入。Tuhin Chakrabarty领导的一项研究估计，近期自出版的图书中约有五分之一含有至少25%的AI生成（AI-generated）文本。"
+        },
+        {
+          "t": "p",
+          "x": "一位文学经纪人把主流出版业比作“蛮荒西部”。Hachette在三月撤回了Shy Girl；新人小说家Jerry Falade的经纪人退出了一份 $2m 的合约；Thélyson Orélien被移出Goncourt长名单。被指控的作家很难自证清白，AALA’s Hannah Bowman呼吁建立“公平而周全的程序”。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "插图：CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+        },
+        {
+          "t": "p",
+          "x": "出版专家Thad McIlroy表示，出版商需要“勇敢”一些，发布详尽的AI政策。US版权法要求图书必须由“人类创作”。在法国，面向与AI合作的小说作者的Prix Pascal de Littérature IA已经设立。"
+        }
+      ]
+    },
+    "books/pangram-doj-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+        },
+        {
+          "t": "p",
+          "x": "据404 Media查阅的法庭文件，司法部（Department of Justice）的律师正借助AI写作检测服务Pangram，指称对方律师用AI撰写法律论点；在一起案件中，他们向法庭称对方律师在搞“ChatGPT辩护”（defense by ChatGPT），提交的是“AI slop”文书。"
+        },
+        {
+          "t": "p",
+          "x": "文件显示，包括政府律师在内的律师们试图抓住彼此使用AI的把柄，再在向法庭提出的论点中援引对手的AI使用。政府律师写道：“本案的动议程序，相当于为一台试图从事法律工作的机器人生成的文件撰写回应。”"
+        },
+        {
+          "t": "p",
+          "x": "案件主角是70岁的印度男子Khalwinder Bhengura，他于2022年持移民签证进入U.S.（美国），2024年谎称自己是公民后在Texas登记为选民。他在10月被裁定三项罪名中的两项成立，即将被驱逐出境。"
+        }
+      ]
     }
   }
 }

@@ -1,102 +1,102 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "design",
   "user_selection": null,
   "items": [
     {
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "source": "Nielsen Norman Group",
-      "title": "Can AI Generate Good Designs from Raw User Data?",
-      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/",
-      "published_iso": "2026-11-20T18:00:00Z",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png",
-      "excerpt": "In an NN/g study across two design tasks, AI-generated interfaces were better when the model received synthesized research findings and recommendations rather than raw user comments alone.",
-      "rationale": "Primary NN/g study with a directly usable rule: feed AI synthesized research, not raw comments — changes how designers prompt tomorrow."
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "source": "Figma Blog",
+      "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
+      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+      "published_iso": "2026-11-20T22:17:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma walks through a workflow in which Specs and the Figma agent hold the product context (requirements, decisions, constraints) next to the design, so the agent can turn it into an implementation plan and hand it to code.",
+      "rationale": "Primary-source, step-by-step workflow for keeping requirements beside the design so the Figma agent can plan and hand off to code — usable tomorrow."
     },
     {
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "source": "Animation World Network",
-      "title": "Envato's 2nd Annual AI Report Finds Adoption Has Outrun the Rules",
-      "url": "https://www.awn.com/news/envatos-2nd-annual-ai-report-finds-adoption-has-outrun-rules",
-      "published_iso": "2026-11-18T14:49:26-08:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081855-envato1.jpg?itok=6IhH1KNS",
-      "excerpt": "Envato's survey of 1,033 creatives finds 58% use AI daily, 53% have put it on client work without telling the client, and most in-house team creatives have no written AI policy.",
-      "rationale": "Fresh survey data on creatives' AI use and undisclosed client work; assigned to design (not movies) by the run brief."
+      "source": "The Verge",
+      "title": "Claude has a new mobile design, too.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
+      "published_iso": "2026-11-20T21:42:14Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C23.731093659104%2C100%2C52.537812681792&w=1200",
+      "excerpt": "Anthropic is rolling out a refreshed Claude mobile app with a bottom tab bar for chat, Projects, Code and Artifacts (iOS 26+ first), a day after OpenAI previewed a similar tab-bar redesign of ChatGPT; AI assistants are converging on the same app layout.",
+      "rationale": "Shipped UI redesign that, with ChatGPT's same-week tab-bar test, shows AI assistant apps converging on one navigation pattern — a live reference for product designers (one card for the c5 cluster)."
     },
     {
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "source": "Design Compass",
-      "title": "퓨저, 문장으로 만드는 맞춤형 편집 도구 공개 (Fuser Tool Node)",
-      "url": "https://designcompass.org/2026/11/18/fuser-tool-node/",
-      "published_iso": "2026-11-18T06:00:00+00:00",
-      "og_image": "https://designcompass.org/wp-content/uploads/2026/11/fuser-final-media-3-web-thumbnail-scaled.jpg",
-      "excerpt": "Fuser's 'Tool Node' lets users describe an editing tool in a sentence; the AI designs sliders and switches, writes and tests the tool and places it on the canvas, where it can be chained with other nodes and shared via a team library.",
-      "rationale": "Concrete new feature: designers generate their own canvas editing tools from a sentence and share them team-wide."
-    },
-    {
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
       "motif": "frame",
-      "source": "Kingy AI",
-      "title": "Gestalt beat Claude Fable 5.2 in 78% of blind design votes",
-      "url": "https://kingy.ai/blog/gestalt-ai-design-benchmark/",
-      "published_iso": "2026-11-19T22:36:21+00:00",
-      "og_image": "https://kingy.ai/wp-content/uploads/2026/11/gestalt-ai-design-benchmark.jpg",
-      "excerpt": "A stealth model called Gestalt took first place on Contra Labs and BenchFlow's Frontier Design Benchmark at 1,931 Elo, a 218-point lead; professional designers picked it over Claude Fable 5.2 in 78% of blind head-to-head votes.",
-      "rationale": "New design-specific benchmark result judged by professional designers; signals which model to watch for UI generation (off-list outlet, only coverage)."
+      "source": "Design Compass (디자인 나침반)",
+      "title": "에이바 스튜디오, 인기 출시 영상의 컷을 내 제품 화면으로",
+      "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
+      "published_iso": "2026-11-19T02:59:00Z",
+      "og_image": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg",
+      "excerpt": "Ava Studio released 'Launch Videos' (Nov 17), which analyses the shot order, cut lengths and camera moves of launch videos that went viral on X and rebuilds them with the user's own product screens; it runs as a plugin inside Claude Code and Codex.",
+      "rationale": "New release that lets designers produce launch videos from proven cut structures with their own product screens, inside the coding agents they already use."
+    },
+    {
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "source": "VoxelMatters",
+      "title": "XJet launches AI-driven Atelier platform for bespoke jewelry",
+      "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
+      "published_iso": "2026-11-19T15:37:00Z",
+      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440-780x470.jpeg",
+      "excerpt": "XJet Atelier lets users describe a charm in a few words or upload a photo; AI tools generate and refine the design, show a 360-degree preview and send it to XJet's metal 3D printers in stainless steel or sterling silver.",
+      "rationale": "New product launch taking text/photo prompts all the way to printed metal parts — a concrete prompt-to-fabrication pipeline for product designers."
     },
     {
       "category": "figma",
       "tool": "Figma",
       "accent": "#3b6bff",
       "motif": "frame",
-      "source": "UX Collective",
-      "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
-      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
-      "published_iso": "2026-11-17T23:25:20Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1556/1*4RrFm9IcXORwVXjgB-_zlA.png",
-      "excerpt": "How to decipher your PM's AI-generated mockup without losing hours: a practical method for auditing AI-produced prototypes using the sparkle convention as a marker.",
-      "rationale": "Practical audit method for AI-generated mockups from PMs — immediately usable in design reviews."
+      "source": "Creative Bloq",
+      "title": "This movie poster is one big AI slop Easter egg hunt",
+      "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
+      "published_iso": "2026-11-21T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg",
+      "excerpt": "The poster for 'Artificial', the Sam Altman/OpenAI film, is deliberately packed with AI-slop tells for viewers to spot; Fast Company reports it was made by humans as a marketing play.",
+      "rationale": "Fresh design-culture moment: human designers deliberately faking AI-slop tells as a campaign device; assigned to design only by the run brief."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/": {
+      "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/": {
         "verdict": "new",
-        "nearest": "https://www.nngroup.com/articles/research-in-the-loop/",
+        "nearest": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
         "new_action": ""
       },
-      "https://www.awn.com/news/envatos-2nd-annual-ai-report-finds-adoption-has-outrun-rules": {
+      "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
         "new_action": ""
       },
-      "https://designcompass.org/2026/11/18/fuser-tool-node/": {
+      "https://designcompass.org/2026/11/19/ava-studio-launch-videos/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://designcompass.org/2026/11/18/fuser-tool-node/",
         "new_action": ""
       },
-      "https://kingy.ai/blog/gestalt-ai-design-benchmark/": {
+      "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/": {
         "verdict": "new",
-        "nearest": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+        "nearest": "https://www.voxelmatters.com/tripo-ai-previews-its-h3-5-model-and-polipop-agent-for-3d-printing-at-formnext/",
         "new_action": ""
       },
-      "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11": {
+      "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+        "nearest": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/cross-section: Maya 2027.3 agentic AI (CG Channel) = already published in movies 11-19; Genie 4 in Gemini API (TestingCatalog) = follow-up of games' 11-20 Genie 4 card; Etsy creators leaving (Creative Bloq) = reaction to the Etsy AI policy story published in design 10-28 (no new action); Rhino 9 / RhinoAI (DIGITAL PRODUCTION) = same running story as Rhino World 2026 'McNeel lets AI in' (11-13), no new release beyond what was covered. Skipped on merit: Gemini GIFs (off-list, thin AI depth, ChatGPT GIFs ran 11-05), Anthropic post-IPO branding (AI-business), Fast Company / Creative Bloq / Fstoppers / CSS-Tricks / DEVELOP3D commentary pieces, Comsol conference recap, Pika Enact (closer to movies), Ava Studio Launch Videos (would be 2nd Design Compass + 2nd render; first backup). Diversity: 5 outlets, categories tokens/workflow/render/figma x2 (second figma card uses palette accent #3b6bff)."
+    "note": "Within-pool dup: 'OpenAI is testing a new design for mobile ChatGPT' (The Verge) dropped as same c5 cluster as the Claude mobile redesign (kept one, Claude, which covers both). No candidate matched a published design story by URL or content; the history_match tags (Figma agent 10-24, ChatGPT GIFs 11-05, Gemini drawings 11-06, SimScale 11-16) are related-only, different products/events. Skipped on merit: Etsy no-AI-training clarification (Engadget) — running Etsy AI-policy story (design 10-28; 11-18 exodus coverage) and its 11-18 card could not be verified in published_urls across sections, so left out as risky follow-up; Gemini 4 Neon (The Decoder) and Matt Wolfe roundup — weak design angle per brief; Gemini GIFs (off-list, ChatGPT GIFs ran 11-05); Gemini Mac computer use (third Verge-type general assistant item); CopilotKit WebMCP (vendor blog); Runway software factory (engineering-process post); Autodesk Research SCAD recap; Comsol conference recap; UX Collective essay (RSS excerpt only). Diversity: 5 distinct outlets (Figma, The Verge, Design Compass, VoxelMatters, Creative Bloq); categories figma x2 (2nd accent #3b6bff), workflow x2 (2nd accent #eb367f), cad x1."
   }
 }

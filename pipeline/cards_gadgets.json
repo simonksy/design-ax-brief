@@ -1,197 +1,281 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "gadgets",
   "cards": [
     {
-      "id": "google-assistant-nest-shutdown",
+      "id": "rayneo-io-lifelog-glasses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Assistant, 내년\n스마트 스피커서 퇴장",
-      "body": "2027년 8월 2일 Gemini for Home이 Assistant를 대신한다.",
-      "mini_headline": "Assistant, 스피커서 퇴장",
+      "headline": "RayNeo IO 안경은\n카메라 없이 종일 듣는다",
+      "body": "$499 RayNeo IO, 번역은 쓸 만하지만 Lifelog 받아쓰기는 거슬린다.",
+      "mini_headline": "RayNeo IO는 늘 듣는다",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/rayneo-io-smart-glasses-review-2000829940",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-            "cap": "사진: Dan Seifert / The Verge"
+            "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+            "cap": "© Raymond Wong / Gizmodo"
           },
           {
             "t": "p",
-            "x": "Google이 스마트홈 소프트웨어를 크게 손본다. 내년부터 Nest 앱을 없애 Google Home 앱 하나로 합치고, 스마트홈 기기의 Google Assistant도 물러나게 한다."
+            "x": "$499짜리 RayNeo IO Smart Glasses는 카메라 대신 AI와 흑백 디스플레이, 알림·날씨·받아쓰기·번역·녹음 같은 생산성 기능을 넣었다. 스피커는 없다."
           },
           {
             "t": "p",
-            "x": "Nest 앱은 2027년 1월 25일 문을 닫는다. 그 뒤로는 Nest 온도조절기와 카메라, Nest Protect 경보기 같은 Nest 제품을 Google Home 앱에서 관리해야 한다. Google Home 앱을 미리 설정해 두면 1월 25일 당일 Google이 카메라와 영상 기록까지 포함해 Nest 기기를 Home 앱으로 옮겨 준다. Nest Aware(1세대) 구독은 Google Home Premium으로 자동 전환된다. Nest 계정 데이터는 2027년 3월 25일부터 지우기 시작한다고 Google은 밝혔다."
+            "x": "RayNeo AI 앱의 선택 기능인 Lifelog는 안경 마이크로 하루 내내 소리를 듣는다. 포착한 내용은 모두 요약과 받아쓰기로 정리하고 할 일도 뽑아낸다. 쓸모 있는 수준에 가까울 때도 있었지만 AI 요약은 과장이 심했고, 한 번은 리뷰어를 동료로 착각했다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+            "cap": "Lifelog를 켜 두면 RayNeo가 할 일 목록을 알아서 채운다. © Raymond Wong / Gizmodo"
           },
           {
             "t": "p",
-            "x": "Google Assistant 쪽 변화는 이보다 늦다. 회사에 따르면 2027년 8월 2일, 스마트 스피커와 스마트 디스플레이에서 Gemini for Home 음성 비서가 Google Assistant 자리를 넘겨받는다. Google은 Gemini for Home이 있으면 전용 명령어나 정해진 표현 없이도 더 복잡한 질문을 평소 말투로 던질 수 있다고 설명한다."
+            "x": "RayNeo에 따르면 오디오 녹음은 저장하지 않지만 텍스트 받아쓰기는 보관한다. 안경이 듣는 중임을 알리는 표시는 오른쪽 안경다리 끝 LED 하나뿐인데, 놓치기 쉽다."
           },
           {
             "t": "p",
-            "x": "Gemini for Home이 지난해 발표된 만큼 Google이 스마트홈에서 Google Assistant를 정리하는 건 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 2027년 8월 전환 전에 추가 소식을 내놓겠다고 회사는 밝혔다."
+            "x": "AI 번역은 빠르고 대체로 정확했다. 실시간 자막은 큰 줄기를 잡아냈고 음성 신호로 넘기는 텔레프롬프터도 꽤 잘 작동했다. 베타 기능 Live Answers는 같은 말을 되풀이하는 느낌이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+            "cap": "안경 속 텔레프롬프터는 이렇게 보인다. © Raymond Wong / Gizmodo"
+          },
+          {
+            "t": "p",
+            "x": "하드웨어는 가볍고 편하다. Smart Dial 디지털 크라운과 밝은 양안 디스플레이도 갖췄다. 배터리는 일반 사용 시 최대 48시간, 연속 녹음 시 18시간으로 표기돼 있다. 쓸모 있는 구석은 있어도, 쉼 없이 조용히 듣는 기능은 사생활을 내줄 만큼의 가치가 없다는 게 결론이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Assistant leaves\nsmart speakers next year",
-          "body": "Google says Gemini for Home will replace Assistant on its smart speakers and smart displays on August 2nd, 2027.",
-          "mini_headline": "Assistant exits\nsmart speakers",
+          "headline": "Camera-free RayNeo IO glasses\nthat keep listening all day",
+          "body": "The $499 RayNeo IO's live translation is useful, but its optional all-day Lifelog transcription feels invasive.",
+          "mini_headline": "RayNeo IO is always listening",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "Photo by Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices."
+                "x": "The $499 RayNeo IO Smart Glasses drop cameras in favor of AI, a monochrome display and productivity features — notifications, weather, transcription, translation and audio recording — with no speakers."
               },
               {
                 "t": "p",
-                "x": "The Nest app shutdown takes place on January 25th, 2027, meaning you’ll have to manage your Nest products, including Nest thermostats, cameras, and Nest Protect alarms, from the Google Home app instead. If you get the Google Home app set up, Google will move over your Nest devices, including cameras and video history, to the Home app on that January 25th date. The company will also automatically transfer Nest Aware (1st Gen) subscriptions to Google Home Premium. Google says it will begin deleting Nest account data on March 25th, 2027."
+                "x": "An optional feature in the RayNeo AI app called Lifelog uses the glasses' microphone to listen throughout your day, providing a summary and a transcription of everything it captures and pulling out actionable items. It sometimes bordered on useful, but its AI summaries were hyperbolic and once confused the reviewer with a colleague."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "RayNeo will auto-populate to-dos if you keep Lifelog active. © Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "The changes for Google Assistant will take place later: On August 2nd, 2027, the Gemini for Home voice assistant will replace Google Assistant on smart speakers and smart displays, the company says. Google argues that Gemini for Home allows users to ask more complex questions and speak naturally instead of needing to use dedicated commands or specific language."
+                "x": "RayNeo says it doesn't store audio recordings, but it does hold onto text transcripts, and the only sign the glasses are listening is an LED on the right temple tip that is easy to miss."
               },
               {
                 "t": "p",
-                "x": "Gemini for Home was announced last year, so it’s not exactly a shock that Google is going to move on from Google Assistant in the smart home (especially when the company also killed Google Assistant on phones earlier this year). The company says it plans to share more updates about the changes ahead of the August 2027 transition."
+                "x": "AI translation was snappy and mostly accurate, live captions got the broad strokes, and a voice-cued teleprompter worked fairly well. A beta Live Answers feature felt regurgitative."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "This is a glimpse of what the teleprompter looks like in the glasses. © Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "The hardware is light and comfortable, with a Smart Dial digital crown and a bright binocular display; battery is rated up to 48 hours of typical use, 18 hours with continuous audio recording. The verdict: useful in places, but persistent, discreet listening isn't worth the privacy trade-off."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Assistant, 내년\n스마트 스피커서 퇴장",
-          "body": "2027년 8월 2일 Gemini for Home이 Assistant를 대신한다.",
-          "mini_headline": "Assistant, 스피커서 퇴장",
+          "headline": "RayNeo IO 안경은\n카메라 없이 종일 듣는다",
+          "body": "$499 RayNeo IO, 번역은 쓸 만하지만 Lifelog 받아쓰기는 거슬린다.",
+          "mini_headline": "RayNeo IO는 늘 듣는다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "사진: Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google이 스마트홈 소프트웨어를 크게 손본다. 내년부터 Nest 앱을 없애 Google Home 앱 하나로 합치고, 스마트홈 기기의 Google Assistant도 물러나게 한다."
+                "x": "$499짜리 RayNeo IO Smart Glasses는 카메라 대신 AI와 흑백 디스플레이, 알림·날씨·받아쓰기·번역·녹음 같은 생산성 기능을 넣었다. 스피커는 없다."
               },
               {
                 "t": "p",
-                "x": "Nest 앱은 2027년 1월 25일 문을 닫는다. 그 뒤로는 Nest 온도조절기와 카메라, Nest Protect 경보기 같은 Nest 제품을 Google Home 앱에서 관리해야 한다. Google Home 앱을 미리 설정해 두면 1월 25일 당일 Google이 카메라와 영상 기록까지 포함해 Nest 기기를 Home 앱으로 옮겨 준다. Nest Aware(1세대) 구독은 Google Home Premium으로 자동 전환된다. Nest 계정 데이터는 2027년 3월 25일부터 지우기 시작한다고 Google은 밝혔다."
+                "x": "RayNeo AI 앱의 선택 기능인 Lifelog는 안경 마이크로 하루 내내 소리를 듣는다. 포착한 내용은 모두 요약과 받아쓰기로 정리하고 할 일도 뽑아낸다. 쓸모 있는 수준에 가까울 때도 있었지만 AI 요약은 과장이 심했고, 한 번은 리뷰어를 동료로 착각했다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "Lifelog를 켜 두면 RayNeo가 할 일 목록을 알아서 채운다. © Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google Assistant 쪽 변화는 이보다 늦다. 회사에 따르면 2027년 8월 2일, 스마트 스피커와 스마트 디스플레이에서 Gemini for Home 음성 비서가 Google Assistant 자리를 넘겨받는다. Google은 Gemini for Home이 있으면 전용 명령어나 정해진 표현 없이도 더 복잡한 질문을 평소 말투로 던질 수 있다고 설명한다."
+                "x": "RayNeo에 따르면 오디오 녹음은 저장하지 않지만 텍스트 받아쓰기는 보관한다. 안경이 듣는 중임을 알리는 표시는 오른쪽 안경다리 끝 LED 하나뿐인데, 놓치기 쉽다."
               },
               {
                 "t": "p",
-                "x": "Gemini for Home이 지난해 발표된 만큼 Google이 스마트홈에서 Google Assistant를 정리하는 건 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 2027년 8월 전환 전에 추가 소식을 내놓겠다고 회사는 밝혔다."
+                "x": "AI 번역은 빠르고 대체로 정확했다. 실시간 자막은 큰 줄기를 잡아냈고 음성 신호로 넘기는 텔레프롬프터도 꽤 잘 작동했다. 베타 기능 Live Answers는 같은 말을 되풀이하는 느낌이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "안경 속 텔레프롬프터는 이렇게 보인다. © Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "하드웨어는 가볍고 편하다. Smart Dial 디지털 크라운과 밝은 양안 디스플레이도 갖췄다. 배터리는 일반 사용 시 최대 48시간, 연속 녹음 시 18시간으로 표기돼 있다. 쓸모 있는 구석은 있어도, 쉼 없이 조용히 듣는 기능은 사생활을 내줄 만큼의 가치가 없다는 게 결론이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Assistant、来年\nスマートスピーカーから撤退",
-          "body": "Assistantは2027年8月2日、Gemini for Homeに置き換わる。",
-          "mini_headline": "Assistant、スピーカーから撤退",
+          "headline": "RayNeo IOは\nカメラなしで一日中聴く",
+          "body": "$499のRayNeo IOは翻訳が便利だが、終日記録するLifelogは行き過ぎだ。",
+          "mini_headline": "RayNeo IOは常に聴いている",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "写真：Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Googleはスマートホーム向けソフトウェアに大きな変更を加えると発表した。来年からNestアプリを終了してGoogle Homeアプリに一本化し、スマートホーム機器のGoogle Assistantも廃止する。"
+                "x": "$499のRayNeo IO Smart Glassesはカメラを省き、AI、モノクロディスプレイ、そして通知・天気・文字起こし・翻訳・録音といった生産性機能を採用した。スピーカーはない。"
               },
               {
                 "t": "p",
-                "x": "Nestアプリは2027年1月25日に終了する。以降、Nestサーモスタットやカメラ、Nest Protect警報器などのNest製品はGoogle Homeアプリで管理することになる。Google Homeアプリを設定しておけば、1月25日当日にGoogleがカメラや映像履歴を含むNest機器をHomeアプリへ移行する。Nest Aware（第1世代）のサブスクリプションもGoogle Home Premiumへ自動的に移される。Googleは2027年3月25日からNestアカウントのデータ削除を始めるとしている。"
+                "x": "RayNeo AIアプリのオプション機能Lifelogは、眼鏡のマイクで一日中周囲を聴き取り、捉えたすべての内容の要約と文字起こしを提供し、やるべきことを抽出する。役に立ちそうな場面もあったが、AIの要約は誇張が多く、一度はレビュアーを同僚と取り違えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "Lifelogを有効にしておくと、RayNeoがやることリストを自動で作成する。© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google Assistantの変更はその後になる。同社によると、2027年8月2日にスマートスピーカーとスマートディスプレイでGemini for Home音声アシスタントがGoogle Assistantに置き換わる。Googleは、Gemini for Homeなら専用のコマンドや決まった言い回しを使わずに、より複雑な質問を自然な話し言葉で尋ねられると説明する。"
+                "x": "RayNeoは音声録音は保存しないとしているが、テキストの文字起こしは保持する。眼鏡が聴いていることを示す唯一の手がかりは右テンプル先端のLEDだけで、見落としやすい。"
               },
               {
                 "t": "p",
-                "x": "Gemini for Homeは昨年発表されており、Googleがスマートホームで Google Assistantから移行するのは意外ではない（同社は今年初めにスマートフォンのGoogle Assistantも終了している）。同社は2027年8月の移行に先立ち、さらに詳しい情報を共有する予定だという。"
+                "x": "AI翻訳は素早くおおむね正確で、ライブ字幕は大筋を捉え、音声で進むテレプロンプターもそれなりに機能した。ベータ版のLive Answers機能は同じことを繰り返しているように感じられた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "眼鏡の中でテレプロンプターがどう見えるかの一例。© Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "ハードウェアは軽く快適で、Smart Dialのデジタルクラウンと明るい両眼ディスプレイを備える。バッテリーは通常使用で最大48時間、連続録音時で18時間とされる。結論として、役立つ場面はあるものの、絶え間なく目立たずに聴き続けることはプライバシーを差し出すに値しない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Assistant明年\n退出智能音箱",
-          "body": "Google称，2027年8月2日Gemini for Home将取代Assistant。",
-          "mini_headline": "Assistant退出智能音箱",
+          "headline": "RayNeo IO眼镜\n无摄像头却整天在听",
+          "body": "$499的RayNeo IO实时翻译很实用，但可选的全天Lifelog转录过于侵扰。",
+          "mini_headline": "RayNeo IO一直在听",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "摄影：Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google宣布对其智能家居软件进行多项重大调整。从明年起，公司将关闭Nest应用、改用Google Home应用，并在智能家居设备上停用Google Assistant。"
+                "x": "售价$499的RayNeo IO Smart Glasses舍弃了摄像头，转而采用AI、单色显示屏和生产力功能——通知、天气、转录、翻译和录音——且没有扬声器。"
               },
               {
                 "t": "p",
-                "x": "Nest应用将于2027年1月25日关闭，届时用户需要改用Google Home应用管理Nest产品，包括Nest温控器、摄像头和Nest Protect报警器。如果已设置好Google Home应用，Google会在1月25日当天把Nest设备（包括摄像头和视频历史）迁移到Home应用中。公司还会将Nest Aware（第1代）订阅自动转为Google Home Premium。Google表示将从2027年3月25日开始删除Nest账户数据。"
+                "x": "RayNeo AI应用中有一项名为Lifelog的可选功能，它通过眼镜的麦克风全天聆听，为捕捉到的所有内容提供摘要和转录，并提炼出待办事项。它有时接近实用，但AI摘要言过其实，还曾把评测者和一位同事搞混。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "如果保持Lifelog开启，RayNeo会自动生成待办事项。© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google Assistant的变化会稍晚到来：公司表示，2027年8月2日，Gemini for Home语音助手将在智能音箱和智能显示屏上取代Google Assistant。Google认为，Gemini for Home让用户可以提出更复杂的问题，并以自然的方式说话，而无需使用专门指令或特定说法。"
+                "x": "RayNeo表示不会存储录音，但会保留文字转录稿；而眼镜正在聆听的唯一迹象，是右侧镜腿末端一个很容易被忽略的LED。"
               },
               {
                 "t": "p",
-                "x": "Gemini for Home于去年发布，因此Google在智能家居领域告别Google Assistant并不令人意外（何况公司今年早些时候已在手机上停用了Google Assistant）。公司表示，计划在2027年8月过渡之前分享更多相关信息。"
+                "x": "AI翻译反应迅速且大体准确，实时字幕能抓住大意，语音提示的提词器也表现不错。测试版Live Answers功能则显得只是在照搬复述。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "这是眼镜中提词器的大致样子。© Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "硬件轻巧舒适，配有Smart Dial数字表冠和明亮的双目显示屏；电池在典型使用下最长可达48小时，持续录音时为18小时。结论是：它在某些方面有用，但持续而隐蔽的聆听不值得以隐私为代价。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Assistant dejará\nlos altavoces el próximo año",
-          "body": "Según Google, Gemini for Home sustituirá a Assistant en sus altavoces y pantallas inteligentes el 2 de agosto de 2027.",
-          "mini_headline": "Assistant deja los altavoces",
+          "headline": "RayNeo IO: gafas sin cámara\nque escuchan todo el día",
+          "body": "Las RayNeo IO de $499 traducen bien en vivo, pero su transcripción opcional Lifelog de todo el día resulta invasiva.",
+          "mini_headline": "RayNeo IO siempre escucha",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "Foto de Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google anuncia cambios importantes en su software para el hogar inteligente. A partir del próximo año, la compañía cerrará la app Nest en favor de la app Google Home y retirará Google Assistant de sus dispositivos para el hogar inteligente."
+                "x": "Las RayNeo IO Smart Glasses de $499 prescinden de cámaras en favor de la IA, una pantalla monocromática y funciones de productividad —notificaciones, clima, transcripción, traducción y grabación de audio—, sin altavoces."
               },
               {
                 "t": "p",
-                "x": "El cierre de la app Nest será el 25 de enero de 2027, por lo que habrá que gestionar los productos Nest, incluidos los termostatos Nest, las cámaras y las alarmas Nest Protect, desde la app Google Home. Si ya se ha configurado la app Google Home, Google trasladará los dispositivos Nest, incluidas las cámaras y el historial de video, a la app Home ese mismo 25 de enero. La compañía también transferirá automáticamente las suscripciones a Nest Aware (1.ª generación) a Google Home Premium. Google indica que empezará a borrar los datos de las cuentas Nest el 25 de marzo de 2027."
+                "x": "Una función opcional de la app RayNeo AI llamada Lifelog usa el micrófono de las gafas para escuchar a lo largo del día, ofrece un resumen y una transcripción de todo lo que capta y extrae tareas pendientes. A veces rozó lo útil, pero sus resúmenes con IA eran exagerados y en una ocasión confundieron al autor de la reseña con un colega."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "RayNeo completa automáticamente las tareas pendientes si se mantiene Lifelog activo. © Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Los cambios en Google Assistant llegarán más tarde: el 2 de agosto de 2027, el asistente de voz Gemini for Home sustituirá a Google Assistant en altavoces y pantallas inteligentes, según la compañía. Google sostiene que Gemini for Home permite hacer preguntas más complejas y hablar con naturalidad, sin necesidad de usar comandos específicos ni un lenguaje determinado."
+                "x": "RayNeo afirma que no almacena grabaciones de audio, pero sí conserva las transcripciones de texto, y la única señal de que las gafas están escuchando es un LED en la punta de la patilla derecha que pasa fácilmente desapercibido."
               },
               {
                 "t": "p",
-                "x": "Gemini for Home se anunció el año pasado, así que no sorprende demasiado que Google deje atrás a Google Assistant en el hogar inteligente (sobre todo porque la compañía ya retiró Google Assistant de los teléfonos a principios de este año). La compañía dice que planea compartir más novedades sobre los cambios antes de la transición de agosto de 2027."
+                "x": "La traducción con IA fue ágil y en general precisa, los subtítulos en vivo captaron lo esencial y un teleprompter guiado por voz funcionó bastante bien. Una función beta, Live Answers, pareció limitarse a repetir información."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "Así se ve el teleprompter dentro de las gafas. © Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "El hardware es ligero y cómodo, con una corona digital Smart Dial y una pantalla binocular brillante; la batería está calificada para hasta 48 horas de uso típico y 18 horas con grabación de audio continua. El veredicto: útil en algunos aspectos, pero la escucha persistente y discreta no compensa la pérdida de privacidad."
               }
             ]
           }
@@ -199,125 +283,181 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Assistant, 내년\n스마트 스피커서 퇴장",
-          "body": "2027년 8월 2일 Gemini for Home이 Assistant를 대체한다.",
-          "mini_headline": "Assistant, 스피커서 퇴장",
+          "headline": "RayNeo IO 안경은\n카메라 없이 종일 듣는다",
+          "body": "$499 RayNeo IO의 번역은 유용하나 Lifelog 받아쓰기는 거슬린다.",
+          "mini_headline": "RayNeo IO는 늘 듣고 있다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "사진: Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google이 스마트홈 소프트웨어에 큰 변화를 예고했다. 내년부터 Nest 앱을 종료해 Google Home 앱으로 일원화하고, 스마트홈 기기에서 Google Assistant도 퇴역시킨다."
+                "x": "$499짜리 RayNeo IO Smart Glasses는 카메라를 빼고 AI, 흑백 디스플레이, 그리고 알림·날씨·받아쓰기·번역·녹음 같은 생산성 기능을 택했다. 스피커는 없다."
               },
               {
                 "t": "p",
-                "x": "Nest 앱은 2027년 1월 25일 종료된다. 이후 Nest 온도조절기와 카메라, Nest Protect 경보기 등 Nest 제품은 Google Home 앱에서 관리해야 한다. Google Home 앱을 설정해 두면 Google이 1월 25일 당일 카메라와 영상 기록을 포함한 Nest 기기를 Home 앱으로 옮긴다. Nest Aware(1세대) 구독도 Google Home Premium으로 자동 전환된다. Google은 2027년 3월 25일부터 Nest 계정 데이터를 삭제하기 시작한다고 밝혔다."
+                "x": "RayNeo AI 앱의 선택 기능인 Lifelog는 안경의 마이크로 하루 내내 소리를 듣고, 포착한 모든 내용의 요약과 받아쓰기를 제공하며 실행할 일을 뽑아낸다. 때로는 쓸모 있는 수준에 가까웠지만, AI 요약은 과장이 심했고 한 번은 리뷰어를 동료와 혼동했다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "Lifelog를 켜 두면 RayNeo가 할 일 목록을 자동으로 채운다. © Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google Assistant의 변화는 그보다 늦다. 회사에 따르면 2027년 8월 2일 스마트 스피커와 스마트 디스플레이에서 Gemini for Home 음성 비서가 Google Assistant를 대체한다. Google은 Gemini for Home을 쓰면 전용 명령어나 정해진 표현 없이도 더 복잡한 질문을 자연스러운 말로 할 수 있다고 설명한다."
+                "x": "RayNeo는 오디오 녹음은 저장하지 않지만 텍스트 받아쓰기는 보관한다고 밝혔다. 안경이 듣고 있다는 유일한 표시는 오른쪽 안경다리 끝의 LED뿐인데, 놓치기 쉽다."
               },
               {
                 "t": "p",
-                "x": "Gemini for Home은 지난해 발표됐으니 Google이 스마트홈에서 Google Assistant를 정리하는 것은 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 회사는 2027년 8월 전환에 앞서 추가 소식을 공유할 계획이라고 밝혔다."
+                "x": "AI 번역은 빠르고 대체로 정확했고, 실시간 자막은 큰 줄기를 잡아냈으며, 음성 신호로 넘기는 텔레프롬프터도 꽤 잘 작동했다. 베타 기능 Live Answers는 같은 말을 되풀이하는 느낌이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "안경 속 텔레프롬프터가 어떻게 보이는지 엿볼 수 있다. © Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "하드웨어는 가볍고 편안하며, Smart Dial 디지털 크라운과 밝은 양안 디스플레이를 갖췄다. 배터리는 일반 사용 시 최대 48시간, 연속 녹음 시 18시간으로 표기된다. 결론은 쓸모 있는 구석도 있지만, 끊임없이 조용히 듣는 기능은 사생활을 내줄 만한 가치가 없다는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Assistant、来年\nスマートスピーカーから撤退",
-          "body": "Assistantは2027年8月2日、Gemini for Homeに置き換わる。",
-          "mini_headline": "Assistant、スピーカーから撤退",
+          "headline": "RayNeo IOは\nカメラなしで一日中聴く",
+          "body": "$499のRayNeo IOは翻訳が便利だが、終日記録するLifelogは行き過ぎだ。",
+          "mini_headline": "RayNeo IOは常に聴いている",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "写真：Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Googleはスマートホーム向けソフトウェアに大きな変更を加えると発表した。来年からNestアプリを終了してGoogle Homeアプリに一本化し、スマートホーム機器のGoogle Assistantも廃止する。"
+                "x": "$499のRayNeo IO Smart Glassesはカメラを省き、AI、モノクロディスプレイ、そして通知・天気・文字起こし・翻訳・録音といった生産性機能を採用した。スピーカーはない。"
               },
               {
                 "t": "p",
-                "x": "Nestアプリは2027年1月25日に終了する。以降、Nestサーモスタットやカメラ、Nest Protect警報器などのNest製品はGoogle Homeアプリで管理することになる。Google Homeアプリを設定しておけば、1月25日当日にGoogleがカメラや映像履歴を含むNest機器をHomeアプリへ移行する。Nest Aware（第1世代）のサブスクリプションもGoogle Home Premiumへ自動的に移される。Googleは2027年3月25日からNestアカウントのデータ削除を始めるとしている。"
+                "x": "RayNeo AIアプリのオプション機能Lifelogは、眼鏡のマイクで一日中周囲を聴き取り、捉えたすべての内容の要約と文字起こしを提供し、やるべきことを抽出する。役に立ちそうな場面もあったが、AIの要約は誇張が多く、一度はレビュアーを同僚と取り違えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "Lifelogを有効にしておくと、RayNeoがやることリストを自動で作成する。© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google Assistantの変更はその後になる。同社によると、2027年8月2日にスマートスピーカーとスマートディスプレイでGemini for Home音声アシスタントがGoogle Assistantに置き換わる。Googleは、Gemini for Homeなら専用のコマンドや決まった言い回しを使わずに、より複雑な質問を自然な話し言葉で尋ねられると説明する。"
+                "x": "RayNeoは音声録音は保存しないとしているが、テキストの文字起こしは保持する。眼鏡が聴いていることを示す唯一の手がかりは右テンプル先端のLEDだけで、見落としやすい。"
               },
               {
                 "t": "p",
-                "x": "Gemini for Homeは昨年発表されており、Googleがスマートホームで Google Assistantから移行するのは意外ではない（同社は今年初めにスマートフォンのGoogle Assistantも終了している）。同社は2027年8月の移行に先立ち、さらに詳しい情報を共有する予定だという。"
+                "x": "AI翻訳は素早くおおむね正確で、ライブ字幕は大筋を捉え、音声で進むテレプロンプターもそれなりに機能した。ベータ版のLive Answers機能は同じことを繰り返しているように感じられた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "眼鏡の中でテレプロンプターがどう見えるかの一例。© Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "ハードウェアは軽く快適で、Smart Dialのデジタルクラウンと明るい両眼ディスプレイを備える。バッテリーは通常使用で最大48時間、連続録音時で18時間とされる。結論として、役立つ場面はあるものの、絶え間なく目立たずに聴き続けることはプライバシーを差し出すに値しない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Assistant明年\n退出智能音箱",
-          "body": "Google称，2027年8月2日Gemini for Home将取代Assistant。",
-          "mini_headline": "Assistant退出智能音箱",
+          "headline": "RayNeo IO眼镜\n无摄像头却整天在听",
+          "body": "$499的RayNeo IO实时翻译很实用，但可选的全天Lifelog转录过于侵扰。",
+          "mini_headline": "RayNeo IO一直在听",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "摄影：Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google宣布对其智能家居软件进行多项重大调整。从明年起，公司将关闭Nest应用、改用Google Home应用，并在智能家居设备上停用Google Assistant。"
+                "x": "售价$499的RayNeo IO Smart Glasses舍弃了摄像头，转而采用AI、单色显示屏和生产力功能——通知、天气、转录、翻译和录音——且没有扬声器。"
               },
               {
                 "t": "p",
-                "x": "Nest应用将于2027年1月25日关闭，届时用户需要改用Google Home应用管理Nest产品，包括Nest温控器、摄像头和Nest Protect报警器。如果已设置好Google Home应用，Google会在1月25日当天把Nest设备（包括摄像头和视频历史）迁移到Home应用中。公司还会将Nest Aware（第1代）订阅自动转为Google Home Premium。Google表示将从2027年3月25日开始删除Nest账户数据。"
+                "x": "RayNeo AI应用中有一项名为Lifelog的可选功能，它通过眼镜的麦克风全天聆听，为捕捉到的所有内容提供摘要和转录，并提炼出待办事项。它有时接近实用，但AI摘要言过其实，还曾把评测者和一位同事搞混。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "如果保持Lifelog开启，RayNeo会自动生成待办事项。© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google Assistant的变化会稍晚到来：公司表示，2027年8月2日，Gemini for Home语音助手将在智能音箱和智能显示屏上取代Google Assistant。Google认为，Gemini for Home让用户可以提出更复杂的问题，并以自然的方式说话，而无需使用专门指令或特定说法。"
+                "x": "RayNeo表示不会存储录音，但会保留文字转录稿；而眼镜正在聆听的唯一迹象，是右侧镜腿末端一个很容易被忽略的LED。"
               },
               {
                 "t": "p",
-                "x": "Gemini for Home于去年发布，因此Google在智能家居领域告别Google Assistant并不令人意外（何况公司今年早些时候已在手机上停用了Google Assistant）。公司表示，计划在2027年8月过渡之前分享更多相关信息。"
+                "x": "AI翻译反应迅速且大体准确，实时字幕能抓住大意，语音提示的提词器也表现不错。测试版Live Answers功能则显得只是在照搬复述。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "这是眼镜中提词器的大致样子。© Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "硬件轻巧舒适，配有Smart Dial数字表冠和明亮的双目显示屏；电池在典型使用下最长可达48小时，持续录音时为18小时。结论是：它在某些方面有用，但持续而隐蔽的聆听不值得以隐私为代价。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Assistant dejará\nlos altavoces el próximo año",
-          "body": "Según Google, Gemini for Home sustituirá a Assistant en sus altavoces y pantallas inteligentes el 2 de agosto de 2027.",
-          "mini_headline": "Assistant deja los altavoces",
+          "headline": "RayNeo IO: gafas sin cámara\nque escuchan todo el día",
+          "body": "Las RayNeo IO de $499 traducen bien en vivo, pero su transcripción opcional Lifelog de todo el día resulta invasiva.",
+          "mini_headline": "RayNeo IO siempre escucha",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
-                "cap": "Foto de Dan Seifert / The Verge"
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+                "cap": "© Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Google anuncia cambios importantes en su software para el hogar inteligente. A partir del próximo año, la compañía cerrará la app Nest en favor de la app Google Home y retirará Google Assistant de sus dispositivos para el hogar inteligente."
+                "x": "Las RayNeo IO Smart Glasses de $499 prescinden de cámaras en favor de la IA, una pantalla monocromática y funciones de productividad —notificaciones, clima, transcripción, traducción y grabación de audio—, sin altavoces."
               },
               {
                 "t": "p",
-                "x": "El cierre de la app Nest será el 25 de enero de 2027, por lo que habrá que gestionar los productos Nest, incluidos los termostatos Nest, las cámaras y las alarmas Nest Protect, desde la app Google Home. Si ya se ha configurado la app Google Home, Google trasladará los dispositivos Nest, incluidas las cámaras y el historial de video, a la app Home ese mismo 25 de enero. La compañía también transferirá automáticamente las suscripciones a Nest Aware (1.ª generación) a Google Home Premium. Google indica que empezará a borrar los datos de las cuentas Nest el 25 de marzo de 2027."
+                "x": "Una función opcional de la app RayNeo AI llamada Lifelog usa el micrófono de las gafas para escuchar a lo largo del día, ofrece un resumen y una transcripción de todo lo que capta y extrae tareas pendientes. A veces rozó lo útil, pero sus resúmenes con IA eran exagerados y en una ocasión confundieron al autor de la reseña con un colega."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+                "cap": "RayNeo completa automáticamente las tareas pendientes si se mantiene Lifelog activo. © Raymond Wong / Gizmodo"
               },
               {
                 "t": "p",
-                "x": "Los cambios en Google Assistant llegarán más tarde: el 2 de agosto de 2027, el asistente de voz Gemini for Home sustituirá a Google Assistant en altavoces y pantallas inteligentes, según la compañía. Google sostiene que Gemini for Home permite hacer preguntas más complejas y hablar con naturalidad, sin necesidad de usar comandos específicos ni un lenguaje determinado."
+                "x": "RayNeo afirma que no almacena grabaciones de audio, pero sí conserva las transcripciones de texto, y la única señal de que las gafas están escuchando es un LED en la punta de la patilla derecha que pasa fácilmente desapercibido."
               },
               {
                 "t": "p",
-                "x": "Gemini for Home se anunció el año pasado, así que no sorprende demasiado que Google deje atrás a Google Assistant en el hogar inteligente (sobre todo porque la compañía ya retiró Google Assistant de los teléfonos a principios de este año). La compañía dice que planea compartir más novedades sobre los cambios antes de la transición de agosto de 2027."
+                "x": "La traducción con IA fue ágil y en general precisa, los subtítulos en vivo captaron lo esencial y un teleprompter guiado por voz funcionó bastante bien. Una función beta, Live Answers, pareció limitarse a repetir información."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+                "cap": "Así se ve el teleprompter dentro de las gafas. © Raymond Wong / Gizmodo"
+              },
+              {
+                "t": "p",
+                "x": "El hardware es ligero y cómodo, con una corona digital Smart Dial y una pantalla binocular brillante; la batería está calificada para hasta 48 horas de uso típico y 18 horas con grabación de audio continua. El veredicto: útil en algunos aspectos, pero la escucha persistente y discreta no compensa la pérdida de privacidad."
               }
             ]
           }
@@ -325,327 +465,15 @@
       }
     },
     {
-      "id": "nothing-ai-device-dec8-design",
+      "id": "beambox-polly-phone-pet",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nothing AI 기기\n12월 8일 공개",
-      "body": "12월 8일 나올 Nothing AI 기기는 전자담배 두 개를 붙인 모양새다.",
-      "mini_headline": "Nothing AI 기기 12월 8일 공개",
+      "headline": "다마고치 같은 AI 펫\n휴대폰 뒷면에 붙는다",
+      "body": "Beambox의 자석식 AI 대화 펫 Polly가 일본에서 펀딩에 나섰다.",
+      "mini_headline": "휴대폰 뒷면의 AI 펫",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Carl Pei답게 Nothing이 신제품 정보를 조금씩 흘리기 시작했다. 회사는 금요일, “새 화면 없이, 앱으로는 만들 수 없었던 경험”을 담은 새 “AI-native 기기”를 12월 8일 공식 공개한다고 밝혔다. 소식이 그것뿐이었다면 이 기사를 쓸 일도 없었다. 그런데 뜻밖의 출처에서 기기 사진이 나왔고, 과일향 니코틴 연기처럼 소셜 미디어에 느릿하게 퍼졌다."
-          },
-          {
-            "t": "p",
-            "x": "수요일 10:28PM ET, 하우스 음악 트리오 Swedish House Mafia의 DJ Sebastian Ingrosso가 Nothing 공식 X 계정을 태그한 사진을 소셜 미디어에 올렸다. Nothing Headphone 1 Pro 헤드폰과 MacBook Pro 사이에 Nothing이 말한 화면 없는 기기와 꼭 맞아떨어지는 장치가 놓여 있다. 한 X 사용자는 Ingrosso의 사진에 “Bro... y u leak?”이라고 댓글을 달았다. Nothing이 계획한 마케팅 이벤트일까? (당연히 그렇다.) 판단은 각자에게 맡긴다."
-          },
-          {
-            "t": "p",
-            "x": "도무지 넘어가지지 않는 건 생김새다. 전자담배 두 개를 붙여 놓은 것 같다. 회사가 공개한 티저를 보면 카메라도 최소 하나 달렸는데, 일종의 시각 인식용으로 보인다. 실물을 보기 전까지 판단은 미루겠지만, 지금으로선 Nothing 디자인팀의 보기 드문 실책 같다."
-          },
-          {
-            "t": "p",
-            "x": "농담은 접어 두더라도 Nothing이 이 기기를 어떻게 내세울지는 지켜볼 만하다. AI 기기의 전력이 그리 밝지 않아서다. Humane은 지난해 초 사업을 접었고, Rabbit은 R1 출시 이후 그럭저럭 버티는 중이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Nothing's AI device\ndebuts December 8",
-          "body": "Nothing will debut its AI device on December 8, and a photo posted by a DJ shows it looks like two vapes stuck together.",
-          "mini_headline": "Nothing AI device\non December 8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In classic Carl Pei fashion, Nothing has begun to trickle out details about its latest product. On Friday the company shared that it plans to officially debut the new \"AI-native device\" with \"no new screen and an experience that couldn't have been built as an app,\" on December 8. And if that was all there was to report, we probably wouldn't be publishing this story, but a photo of gadget has lazily drifted across social media like a fat cloud of fruit-flavored nicotine, thanks an unlikely source."
-              },
-              {
-                "t": "p",
-                "x": "On Wednesday at 10:28PM ET, Sebastian Ingrosso of house music trio Swedish House Mafia posted a photo on social media with Nothing's official X account tagged. Between a pair of Nothing Headphone 1 Pro headphones and a MacBook Pro, we can see a device that clearly fits the description of a screenless gadget like the one described by Nothing. \"Bro... y u leak?\" one X user wrote in response to the Ingrosso's photo. Is this a coordinated marketing stunt by Nothing? (Yes, duh.) Decide for yourself."
-              },
-              {
-                "t": "p",
-                "x": "The one thing I can't get over is the fact that it looks like two vapes put together. Judging from the teaser the company shared, it also has at least one camera, likely for some kind of visual intelligence feature. We'll reserve judgment until we see the new device in person, but right now it looks like a rare miss by Nothing's design team."
-              },
-              {
-                "t": "p",
-                "x": "Joking aside, it will be interesting to see how Nothing positions this device; the track record for AI gadgets isn't exactly encouraging. Humane went out of business at the start of last year, and Rabbit has sort of plodded along ever since the debut of the R1."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Nothing AI 기기\n12월 8일 공개",
-          "body": "12월 8일 나올 Nothing AI 기기는 전자담배 두 개를 붙인 모양새다.",
-          "mini_headline": "Nothing AI 기기 12월 8일 공개",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Carl Pei답게 Nothing이 신제품 정보를 조금씩 흘리기 시작했다. 회사는 금요일, “새 화면 없이, 앱으로는 만들 수 없었던 경험”을 담은 새 “AI-native 기기”를 12월 8일 공식 공개한다고 밝혔다. 소식이 그것뿐이었다면 이 기사를 쓸 일도 없었다. 그런데 뜻밖의 출처에서 기기 사진이 나왔고, 과일향 니코틴 연기처럼 소셜 미디어에 느릿하게 퍼졌다."
-              },
-              {
-                "t": "p",
-                "x": "수요일 10:28PM ET, 하우스 음악 트리오 Swedish House Mafia의 DJ Sebastian Ingrosso가 Nothing 공식 X 계정을 태그한 사진을 소셜 미디어에 올렸다. Nothing Headphone 1 Pro 헤드폰과 MacBook Pro 사이에 Nothing이 말한 화면 없는 기기와 꼭 맞아떨어지는 장치가 놓여 있다. 한 X 사용자는 Ingrosso의 사진에 “Bro... y u leak?”이라고 댓글을 달았다. Nothing이 계획한 마케팅 이벤트일까? (당연히 그렇다.) 판단은 각자에게 맡긴다."
-              },
-              {
-                "t": "p",
-                "x": "도무지 넘어가지지 않는 건 생김새다. 전자담배 두 개를 붙여 놓은 것 같다. 회사가 공개한 티저를 보면 카메라도 최소 하나 달렸는데, 일종의 시각 인식용으로 보인다. 실물을 보기 전까지 판단은 미루겠지만, 지금으로선 Nothing 디자인팀의 보기 드문 실책 같다."
-              },
-              {
-                "t": "p",
-                "x": "농담은 접어 두더라도 Nothing이 이 기기를 어떻게 내세울지는 지켜볼 만하다. AI 기기의 전력이 그리 밝지 않아서다. Humane은 지난해 초 사업을 접었고, Rabbit은 R1 출시 이후 그럭저럭 버티는 중이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NothingのAIデバイス\n12月8日にデビュー",
-          "body": "NothingのAIデバイスは12月8日発表、見た目は電子タバコ2本をつなげた形だ。",
-          "mini_headline": "NothingのAIデバイス、12月8日発表",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Carl Peiらしいやり方で、Nothingは最新製品の詳細を小出しにし始めた。同社は金曜日、「新しい画面がなく、アプリでは作れなかった体験」を備えた新しい「AI-native device」を12月8日に正式発表する予定だと明らかにした。それだけなら記事にはしなかっただろうが、意外な人物のおかげで、この端末の写真がフルーツ味のニコチンの煙のようにソーシャルメディアをふわふわと漂った。"
-              },
-              {
-                "t": "p",
-                "x": "水曜日の10:28PM ET、ハウスミュージックのトリオSwedish House MafiaのDJ、Sebastian IngrossoがNothingの公式Xアカウントをタグ付けした写真をソーシャルメディアに投稿した。Nothing Headphone 1 ProヘッドホンとMacBook Proの間に、Nothingが説明した画面のないガジェットにぴったり当てはまる端末が写っている。あるXユーザーはIngrossoの写真に「Bro... y u leak?」と返信した。これはNothingによる仕組まれたマーケティングなのか？（もちろんそうだ。）判断は各自に任せたい。"
-              },
-              {
-                "t": "p",
-                "x": "どうしても気になるのは、電子タバコを2本くっつけたように見えることだ。同社が公開したティーザーからすると、少なくとも1台のカメラも搭載しており、何らかの視覚インテリジェンス機能用とみられる。実機を見るまで評価は控えるが、現時点ではNothingのデザインチームには珍しい失敗に見える。"
-              },
-              {
-                "t": "p",
-                "x": "冗談はさておき、Nothingがこの端末をどう位置づけるかは興味深い。AIガジェットの実績は決して芳しくない。Humaneは昨年初めに事業を畳み、RabbitはR1の発売以来どうにか細々と続いている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Nothing AI设备\n12月8日亮相",
-          "body": "Nothing将于12月8日发布AI设备，DJ晒出的照片显示它像两支电子烟粘在一起。",
-          "mini_headline": "Nothing AI设备12月8日亮相",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nothing延续Carl Pei一贯的风格，开始陆续透露新产品的细节。公司周五表示，计划于12月8日正式发布这款新的“AI-native device”，它“没有新屏幕，带来一种无法以应用形式实现的体验”。如果只有这些，我们大概不会写这篇报道，但多亏了一个意想不到的来源，这款设备的照片像一团浓浓的水果味尼古丁烟雾一样，在社交媒体上慢悠悠地飘散开来。"
-              },
-              {
-                "t": "p",
-                "x": "周三10:28PM ET，浩室音乐三人组Swedish House Mafia的DJ Sebastian Ingrosso在社交媒体上发布了一张照片，并标记了Nothing的官方X账号。在一副Nothing Headphone 1 Pro耳机和一台MacBook Pro之间，可以看到一台明显符合Nothing所描述的无屏设备。一位X用户回复Ingrosso的照片：“Bro... y u leak?”这是Nothing精心策划的营销噱头吗？（当然是。）请自行判断。"
-              },
-              {
-                "t": "p",
-                "x": "我最无法释怀的是，它看起来就像两支电子烟拼在一起。从公司发布的预告来看，它还至少有一个摄像头，很可能用于某种视觉智能功能。在亲眼见到实物之前我们暂不下定论，但目前看来，这是Nothing设计团队少见的失手。"
-              },
-              {
-                "t": "p",
-                "x": "玩笑归玩笑，Nothing将如何定位这款设备值得关注；AI硬件的过往记录并不令人鼓舞。Humane在去年年初倒闭，而Rabbit自推出R1以来一直不温不火。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El dispositivo de IA de Nothing\nse presenta el 8 de diciembre",
-          "body": "Nothing lanzará su dispositivo de IA el 8 de diciembre, y una foto de un DJ muestra que parece dos vapeadores unidos.",
-          "mini_headline": "Dispositivo de IA de Nothing, 8 de diciembre",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fiel al estilo de Carl Pei, Nothing ha empezado a dosificar detalles de su último producto. El viernes, la compañía anunció que planea presentar oficialmente el 8 de diciembre su nuevo “AI-native device”, con “ninguna pantalla nueva y una experiencia que no se habría podido crear como una app”. Si eso fuera todo, probablemente no publicaríamos esta nota, pero una foto del aparato ha flotado perezosamente por las redes sociales como una densa nube de nicotina con sabor a fruta, gracias a una fuente inesperada."
-              },
-              {
-                "t": "p",
-                "x": "El miércoles a las 10:28PM ET, Sebastian Ingrosso, DJ del trío de música house Swedish House Mafia, publicó una foto en redes sociales etiquetando la cuenta oficial de Nothing en X. Entre unos auriculares Nothing Headphone 1 Pro y una MacBook Pro se ve un dispositivo que encaja claramente con la descripción del aparato sin pantalla que anunció Nothing. “Bro... y u leak?”, respondió un usuario de X a la foto de Ingrosso. ¿Es una maniobra de marketing coordinada por Nothing? (Sí, evidentemente.) Juzgue usted mismo."
-              },
-              {
-                "t": "p",
-                "x": "Lo que no logro superar es que parece dos vapeadores pegados. A juzgar por el adelanto que compartió la compañía, también tiene al menos una cámara, probablemente para algún tipo de función de inteligencia visual. Nos reservamos el juicio hasta ver el dispositivo en persona, pero por ahora parece un raro desacierto del equipo de diseño de Nothing."
-              },
-              {
-                "t": "p",
-                "x": "Bromas aparte, será interesante ver cómo posiciona Nothing este dispositivo; el historial de los aparatos de IA no es precisamente alentador. Humane cerró a comienzos del año pasado, y Rabbit ha avanzado a duras penas desde el lanzamiento del R1."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Nothing AI 기기\n12월 8일 공개",
-          "body": "12월 8일 공개될 Nothing AI 기기는 전자담배 두 개를 붙인 모양이다.",
-          "mini_headline": "Nothing AI 기기 12월 8일 공개",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Carl Pei다운 방식으로 Nothing이 최신 제품의 세부 정보를 조금씩 흘리기 시작했다. 회사는 금요일, “새 화면 없이, 앱으로는 만들 수 없었던 경험”을 담은 새 “AI-native 기기”를 12월 8일 공식 공개할 계획이라고 밝혔다. 전할 소식이 그것뿐이었다면 이 기사를 쓰지 않았겠지만, 뜻밖의 출처 덕분에 이 기기의 사진이 과일향 니코틴 연기처럼 소셜 미디어에 느릿하게 퍼졌다."
-              },
-              {
-                "t": "p",
-                "x": "수요일 10:28PM ET, 하우스 음악 트리오 Swedish House Mafia의 DJ Sebastian Ingrosso가 Nothing 공식 X 계정을 태그한 사진을 소셜 미디어에 올렸다. Nothing Headphone 1 Pro 헤드폰과 MacBook Pro 사이로, Nothing이 설명한 화면 없는 기기와 딱 맞아떨어지는 장치가 보인다. 한 X 사용자는 Ingrosso의 사진에 “Bro... y u leak?”이라고 답했다. Nothing이 계획한 마케팅 이벤트일까? (당연히 그렇다.) 판단은 각자에게 맡긴다."
-              },
-              {
-                "t": "p",
-                "x": "도무지 넘어가지지 않는 점은 전자담배 두 개를 붙여 놓은 것처럼 생겼다는 사실이다. 회사가 공개한 티저를 보면 카메라도 최소 하나 달려 있는데, 일종의 시각 인식 기능을 위한 것으로 보인다. 실물을 보기 전까지 판단은 미루겠지만, 지금으로서는 Nothing 디자인팀의 보기 드문 실책처럼 보인다."
-              },
-              {
-                "t": "p",
-                "x": "농담은 접어 두고, Nothing이 이 기기를 어떻게 자리매김할지는 지켜볼 만하다. AI 기기의 전력이 그리 고무적이지는 않기 때문이다. Humane은 지난해 초 사업을 접었고, Rabbit은 R1 출시 이후 그럭저럭 버티고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NothingのAIデバイス\n12月8日にデビュー",
-          "body": "NothingのAIデバイスは12月8日発表、見た目は電子タバコ2本をつなげた形だ。",
-          "mini_headline": "NothingのAIデバイス、12月8日発表",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Carl Peiらしいやり方で、Nothingは最新製品の詳細を小出しにし始めた。同社は金曜日、「新しい画面がなく、アプリでは作れなかった体験」を備えた新しい「AI-native device」を12月8日に正式発表する予定だと明らかにした。それだけなら記事にはしなかっただろうが、意外な人物のおかげで、この端末の写真がフルーツ味のニコチンの煙のようにソーシャルメディアをふわふわと漂った。"
-              },
-              {
-                "t": "p",
-                "x": "水曜日の10:28PM ET、ハウスミュージックのトリオSwedish House MafiaのDJ、Sebastian IngrossoがNothingの公式Xアカウントをタグ付けした写真をソーシャルメディアに投稿した。Nothing Headphone 1 ProヘッドホンとMacBook Proの間に、Nothingが説明した画面のないガジェットにぴったり当てはまる端末が写っている。あるXユーザーはIngrossoの写真に「Bro... y u leak?」と返信した。これはNothingによる仕組まれたマーケティングなのか？（もちろんそうだ。）判断は各自に任せたい。"
-              },
-              {
-                "t": "p",
-                "x": "どうしても気になるのは、電子タバコを2本くっつけたように見えることだ。同社が公開したティーザーからすると、少なくとも1台のカメラも搭載しており、何らかの視覚インテリジェンス機能用とみられる。実機を見るまで評価は控えるが、現時点ではNothingのデザインチームには珍しい失敗に見える。"
-              },
-              {
-                "t": "p",
-                "x": "冗談はさておき、Nothingがこの端末をどう位置づけるかは興味深い。AIガジェットの実績は決して芳しくない。Humaneは昨年初めに事業を畳み、RabbitはR1の発売以来どうにか細々と続いている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Nothing AI设备\n12月8日亮相",
-          "body": "Nothing将于12月8日发布AI设备，DJ晒出的照片显示它像两支电子烟粘在一起。",
-          "mini_headline": "Nothing AI设备12月8日亮相",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nothing延续Carl Pei一贯的风格，开始陆续透露新产品的细节。公司周五表示，计划于12月8日正式发布这款新的“AI-native device”，它“没有新屏幕，带来一种无法以应用形式实现的体验”。如果只有这些，我们大概不会写这篇报道，但多亏了一个意想不到的来源，这款设备的照片像一团浓浓的水果味尼古丁烟雾一样，在社交媒体上慢悠悠地飘散开来。"
-              },
-              {
-                "t": "p",
-                "x": "周三10:28PM ET，浩室音乐三人组Swedish House Mafia的DJ Sebastian Ingrosso在社交媒体上发布了一张照片，并标记了Nothing的官方X账号。在一副Nothing Headphone 1 Pro耳机和一台MacBook Pro之间，可以看到一台明显符合Nothing所描述的无屏设备。一位X用户回复Ingrosso的照片：“Bro... y u leak?”这是Nothing精心策划的营销噱头吗？（当然是。）请自行判断。"
-              },
-              {
-                "t": "p",
-                "x": "我最无法释怀的是，它看起来就像两支电子烟拼在一起。从公司发布的预告来看，它还至少有一个摄像头，很可能用于某种视觉智能功能。在亲眼见到实物之前我们暂不下定论，但目前看来，这是Nothing设计团队少见的失手。"
-              },
-              {
-                "t": "p",
-                "x": "玩笑归玩笑，Nothing将如何定位这款设备值得关注；AI硬件的过往记录并不令人鼓舞。Humane在去年年初倒闭，而Rabbit自推出R1以来一直不温不火。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El dispositivo de IA de Nothing\nse presenta el 8 de diciembre",
-          "body": "Nothing lanzará su dispositivo de IA el 8 de diciembre, y una foto de un DJ muestra que parece dos vapeadores unidos.",
-          "mini_headline": "Dispositivo de IA de Nothing, 8 de diciembre",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Fiel al estilo de Carl Pei, Nothing ha empezado a dosificar detalles de su último producto. El viernes, la compañía anunció que planea presentar oficialmente el 8 de diciembre su nuevo “AI-native device”, con “ninguna pantalla nueva y una experiencia que no se habría podido crear como una app”. Si eso fuera todo, probablemente no publicaríamos esta nota, pero una foto del aparato ha flotado perezosamente por las redes sociales como una densa nube de nicotina con sabor a fruta, gracias a una fuente inesperada."
-              },
-              {
-                "t": "p",
-                "x": "El miércoles a las 10:28PM ET, Sebastian Ingrosso, DJ del trío de música house Swedish House Mafia, publicó una foto en redes sociales etiquetando la cuenta oficial de Nothing en X. Entre unos auriculares Nothing Headphone 1 Pro y una MacBook Pro se ve un dispositivo que encaja claramente con la descripción del aparato sin pantalla que anunció Nothing. “Bro... y u leak?”, respondió un usuario de X a la foto de Ingrosso. ¿Es una maniobra de marketing coordinada por Nothing? (Sí, evidentemente.) Juzgue usted mismo."
-              },
-              {
-                "t": "p",
-                "x": "Lo que no logro superar es que parece dos vapeadores pegados. A juzgar por el adelanto que compartió la compañía, también tiene al menos una cámara, probablemente para algún tipo de función de inteligencia visual. Nos reservamos el juicio hasta ver el dispositivo en persona, pero por ahora parece un raro desacierto del equipo de diseño de Nothing."
-              },
-              {
-                "t": "p",
-                "x": "Bromas aparte, será interesante ver cómo posiciona Nothing este dispositivo; el historial de los aparatos de IA no es precisamente alentador. Humane cerró a comienzos del año pasado, y Rabbit ha avanzado a duras penas desde el lanzamiento del R1."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "rayban-meta-gen3-review",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Ray-Ban Meta\nGen 3 개선 적고 비싸",
-      "body": "Engadget은 Meta 최고급 AI 안경이 조금 나아졌지만 너무 비싸다고 봤다.",
-      "mini_headline": "Ray-Ban Meta Gen 3 리뷰",
-      "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Tamagotchi-style-digital-pet-turns-the-back-of-your-smartphone-into-its-new-home.1455500.0.html",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -653,245 +481,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+            "cap": "Beambox의 Polly 디지털 펫은 스마트폰에 자석으로 붙고 360 × 360픽셀 터치스크린을 달았다."
           },
           {
             "t": "p",
-            "x": "평점: 7.3/10. Meta의 세 번째 세대 Ray-Ban 안경은 겉모습이 조금 달라졌고 성능도 곳곳에서 조금씩 나아졌다. 프레임은 더 얇아진 Wayfarer, 새 캣아이 Zena, Aviator 세 가지이며 가격은 $449, Zena와 Aviator는 $529부터다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+            "x": "다마고치가 뜻밖의 새 자리를 찾았다. 스마트폰 뒷면이다. 일본에서 출시된 작은 디지털 펫 Polly는 가상 생명체에게 먹이를 주고 함께 놀며 키우는 익숙한 놀이를 휴대폰에 붙여 다니는 자석식 기기로 옮겨 왔다."
           },
           {
             "t": "p",
-            "x": "Aviator 프레임은 너무 커서 자꾸 콧등 아래로 흘러내렸고, 다른 일부 Meta 안경과 달리 전문가가 조정해 줘야 한다. Gen 3에는 어떤 Meta AI 질의든 불러오는 맞춤형 단축키인 액션 버튼, \"최대 9시간\" 가는 배터리와 케이스로 더하는 50시간, 통화를 더 선명하게 해 주는 추가 마이크가 들어갔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+            "x": "사전 주문은 11월 20일 Makuake에서 시작됐다. 가격은 ¥10,999부터로 예정 소매가 ¥15,713보다 30% 싸고, 배송은 2027년 1월 예정이다."
           },
           {
             "t": "p",
-            "x": "이제 Meta AI는 Muse Spark로 돌아가며, 대화가 더 자연스러워지고 오류도 줄었다. Meta는 아직 \"beta\" 단계인 Muse 에이전트를 안경에서 먼저 선보였다. 리뷰어는 AI 기능이 Meta One 구독을 밀어붙이는 수단이 될까 걱정한다. 새 설정에서는 안경의 \"visual data\"를 학습에 쓰지 못하게 막을 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+            "x": "Polly는 씨앗에서 출발해 돌보는 방식에 따라 서로 다른 캐릭터로 자란다. 너무 오래 내버려 두면 병들고 죽을 수도 있다. 두 번째 성장 단계에 이르면 AI 대화와 가상 여행이 열린다. 이 기능은 Wi-Fi와 전용 앱이 있어야 하지만 기본 활동은 오프라인에서도 된다."
           },
           {
             "t": "p",
-            "x": "non-Ray-Ban Meta 안경도 $249부터 사실상 같은 기능을 갖췄고, Gen 2는 $349, Gen 1 $224다. 결국 Gen 3를 고를 이유는 Ray-Ban 스타일이나 조금 더 긴 배터리 수명 정도다."
+            "x": "크기는 61 × 61 × 11.5 mm, 무게는 40.8 g이며 MagSafe-compatible iPhones에 붙는다. Android 사용자라면 맞는 자석 케이스나 링을 따로 갖춰야 한다. Beambox는 하루 여섯 번 상호작용하면 배터리가 약 사흘 간다고 밝혔다."
+          },
+          {
+            "t": "video",
+            "yt": "2Ayn-O0dJWE"
+          },
+          {
+            "t": "p",
+            "x": "Polly는 Beambox 자체 웹사이트에 $69.80로 올라 있고 영어·중국어·일본어를 지원한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ray-Ban Meta Gen 3 brings\nminor upgrades at a steep price",
-          "body": "Engadget finds Meta's top AI glasses only slightly better than recent models, with minor upgrades that cost too much.",
-          "mini_headline": "Ray-Ban Meta\nGen 3 review",
+          "headline": "A Tamagotchi-style AI pet\nfor the back of your phone",
+          "body": "Beambox's Polly is a magnetic touchscreen AI chat pet, crowdfunding in Japan from ¥10,999 and shipping January 2027.",
+          "mini_headline": "AI pet for your phone's back",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "Beambox's Polly digital pet attaches magnetically to a smartphone and features a 360 × 360-pixel touchscreen."
               },
               {
                 "t": "p",
-                "x": "Rating: 7.3/10. Meta's third-generation Ray-Ban glasses get cosmetic updates and a few performance upgrades around the edges. They come in three frame styles — a slimmer Wayfarer, the new cat-eye Zena and Aviator — at $449, while Zena and Aviator start at $529."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "The Tamagotchi has found an unlikely new address: the back of your smartphone. A tiny digital pet called Polly has launched in Japan, bringing the familiar business of feeding, playing with and raising a virtual creature to a magnetic gadget that travels with your phone."
               },
               {
                 "t": "p",
-                "x": "The Aviator frames felt oversized and kept slipping down the nose; unlike some other Meta glasses, they need to be adjusted professionally. Gen 3 adds the action button, a customizable shortcut for any Meta AI query, battery life of \"up to 9 hours\" plus 50 hours from the case, and an extra microphone for clearer calls."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "Pre-orders opened on Makuake on 20 November, starting at ¥10,999, which is 30% below the planned retail price of ¥15,713, with deliveries planned for January 2027."
               },
               {
                 "t": "p",
-                "x": "Meta AI is now powered by Muse Spark, which made conversations feel more natural and reduced errors. Meta previewed its Muse agent on the glasses, still in \"beta,\" and the reviewer worries AI features will push Meta One subscriptions. A new setting lets you opt out of training on \"visual data\" from the glasses."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Polly starts life as a seed, growing into different characters depending on how it's cared for. Neglect it for too long and it can fall ill and even die. Once Polly reaches its second development stage, AI conversations and virtual travel become available. Those features require Wi-Fi and the companion app, though basic activities work offline."
               },
               {
                 "t": "p",
-                "x": "Meta's non-Ray-Ban glasses offer basically the same features from $249, Gen 2 is $349 and Gen 1 $224, so the only reasons to choose Gen 3 are the Ray-Ban styles or the extra bit of battery life."
+                "x": "The 61 × 61 × 11.5 mm gadget weighs 40.8 g and attaches to MagSafe-compatible iPhones; Android users need a suitable magnetic case or ring. Beambox claims approximately three days of battery life, based on just six daily interactions."
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "Beambox's own website lists Polly for $69.80, with support for English, Chinese and Japanese."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ray-Ban Meta\nGen 3 개선 적고 비싸",
-          "body": "Engadget은 Meta 최고급 AI 안경이 조금 나아졌지만 너무 비싸다고 봤다.",
-          "mini_headline": "Ray-Ban Meta Gen 3 리뷰",
+          "headline": "다마고치 같은 AI 펫\n휴대폰 뒷면에 붙는다",
+          "body": "Beambox의 자석식 AI 대화 펫 Polly가 일본에서 펀딩에 나섰다.",
+          "mini_headline": "휴대폰 뒷면의 AI 펫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "Beambox의 Polly 디지털 펫은 스마트폰에 자석으로 붙고 360 × 360픽셀 터치스크린을 달았다."
               },
               {
                 "t": "p",
-                "x": "평점: 7.3/10. Meta의 세 번째 세대 Ray-Ban 안경은 겉모습이 조금 달라졌고 성능도 곳곳에서 조금씩 나아졌다. 프레임은 더 얇아진 Wayfarer, 새 캣아이 Zena, Aviator 세 가지이며 가격은 $449, Zena와 Aviator는 $529부터다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "다마고치가 뜻밖의 새 자리를 찾았다. 스마트폰 뒷면이다. 일본에서 출시된 작은 디지털 펫 Polly는 가상 생명체에게 먹이를 주고 함께 놀며 키우는 익숙한 놀이를 휴대폰에 붙여 다니는 자석식 기기로 옮겨 왔다."
               },
               {
                 "t": "p",
-                "x": "Aviator 프레임은 너무 커서 자꾸 콧등 아래로 흘러내렸고, 다른 일부 Meta 안경과 달리 전문가가 조정해 줘야 한다. Gen 3에는 어떤 Meta AI 질의든 불러오는 맞춤형 단축키인 액션 버튼, \"최대 9시간\" 가는 배터리와 케이스로 더하는 50시간, 통화를 더 선명하게 해 주는 추가 마이크가 들어갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "사전 주문은 11월 20일 Makuake에서 시작됐다. 가격은 ¥10,999부터로 예정 소매가 ¥15,713보다 30% 싸고, 배송은 2027년 1월 예정이다."
               },
               {
                 "t": "p",
-                "x": "이제 Meta AI는 Muse Spark로 돌아가며, 대화가 더 자연스러워지고 오류도 줄었다. Meta는 아직 \"beta\" 단계인 Muse 에이전트를 안경에서 먼저 선보였다. 리뷰어는 AI 기능이 Meta One 구독을 밀어붙이는 수단이 될까 걱정한다. 새 설정에서는 안경의 \"visual data\"를 학습에 쓰지 못하게 막을 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Polly는 씨앗에서 출발해 돌보는 방식에 따라 서로 다른 캐릭터로 자란다. 너무 오래 내버려 두면 병들고 죽을 수도 있다. 두 번째 성장 단계에 이르면 AI 대화와 가상 여행이 열린다. 이 기능은 Wi-Fi와 전용 앱이 있어야 하지만 기본 활동은 오프라인에서도 된다."
               },
               {
                 "t": "p",
-                "x": "non-Ray-Ban Meta 안경도 $249부터 사실상 같은 기능을 갖췄고, Gen 2는 $349, Gen 1 $224다. 결국 Gen 3를 고를 이유는 Ray-Ban 스타일이나 조금 더 긴 배터리 수명 정도다."
+                "x": "크기는 61 × 61 × 11.5 mm, 무게는 40.8 g이며 MagSafe-compatible iPhones에 붙는다. Android 사용자라면 맞는 자석 케이스나 링을 따로 갖춰야 한다. Beambox는 하루 여섯 번 상호작용하면 배터리가 약 사흘 간다고 밝혔다."
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "Polly는 Beambox 자체 웹사이트에 $69.80로 올라 있고 영어·중국어·일본어를 지원한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Meta\nGen 3は高価な小改良",
-          "body": "EngadgetはMeta最上位のAIグラスを、改良が小さく割高だと評した。",
-          "mini_headline": "Ray-Ban Meta Gen 3レビュー",
+          "headline": "たまごっち風のAIペット\nスマホの背面に装着",
+          "body": "BeamboxのPollyは磁石で付くAIチャットペットで、日本で資金募集中だ。",
+          "mini_headline": "スマホ背面のAIペット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "BeamboxのPollyデジタルペットはスマートフォンに磁石で取り付けられ、360 × 360ピクセルのタッチスクリーンを備える。"
               },
               {
                 "t": "p",
-                "x": "評価：7.3/10。Metaの第三世代Ray-Banグラスは外観が少し変わり、性能も細かな部分でいくつか向上した。フレームはより細身になったWayfarer、新しいキャットアイ型のZena、Aviatorの三つのスタイルで、価格は$449、ZenaとAviatorは$529からだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "たまごっちが意外な新居を見つけた。スマートフォンの背面だ。Pollyという小さなデジタルペットが日本で登場し、仮想の生き物に餌をあげ、遊び、育てるというおなじみの営みを、スマホと一緒に持ち歩ける磁気式ガジェットに持ち込んだ。"
               },
               {
                 "t": "p",
-                "x": "Aviatorのフレームは大きすぎて鼻からずり落ち続けた。ほかの一部のMetaグラスと違い、専門家による調整が必要だ。Gen 3にはMeta AIへのあらゆる問いかけを呼び出せるカスタマイズ可能なショートカット「アクションボタン」、「最大9時間」のバッテリー持続時間とケースによる50時間、通話をよりクリアにする追加マイクが加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "予約は11月20日にMakuakeで始まり、価格は¥10,999からで、予定小売価格¥15,713より30%安い。配送は2027年1月の予定だ。"
               },
               {
                 "t": "p",
-                "x": "Meta AIは現在Muse Sparkで動いており、会話がより自然になり誤りも減った。Metaはまだ「beta」のMuseエージェントをグラス上で先行公開した。レビュアーはAI機能がMeta Oneのサブスクリプションへの誘導に使われることを懸念している。新しい設定では、グラスの「visual data」を学習に使わせないよう選べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Pollyは種から生まれ、世話の仕方によって異なるキャラクターに育つ。長く放置しすぎると病気になり、死んでしまうこともある。Pollyが第二の成長段階に達すると、AIとの会話やバーチャル旅行が使えるようになる。これらの機能にはWi-Fiと専用アプリが必要だが、基本的な遊びはオフラインでも動く。"
               },
               {
                 "t": "p",
-                "x": "non-Ray-BanのMetaグラスも$249から基本的に同じ機能を備え、Gen 2は$349、Gen 1 $224だ。Gen 3を選ぶ理由はRay-Banのスタイルか、わずかに長いバッテリー持続時間くらいしかない。"
+                "x": "61 × 61 × 11.5 mmのこのガジェットは重さ40.8 gで、MagSafe-compatible iPhonesに取り付けられる。Androidユーザーは対応する磁気ケースかリングが必要だ。Beamboxは、一日わずか六回の操作を前提に、バッテリーは約三日もつとしている。"
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "Beambox自身のウェブサイトではPollyが$69.80で掲載されており、英語・中国語・日本語に対応する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta\nGen 3小幅升级却价高",
-          "body": "Engadget认为Meta顶级AI眼镜仅比近期机型略好，小幅升级却定价过高。",
-          "mini_headline": "Ray-Ban Meta Gen 3评测",
+          "headline": "拓麻歌子式AI宠物\n贴在手机背面",
+          "body": "Beambox的Polly是磁吸式触屏AI聊天宠物，在日本众筹，2027年1月发货。",
+          "mini_headline": "手机背面的AI宠物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "Beambox的Polly数字宠物可磁吸在智能手机上，配备360 × 360像素触摸屏。"
               },
               {
                 "t": "p",
-                "x": "评分：7.3/10。Meta第三代Ray-Ban眼镜在外观上略有更新，性能也在细节处有少许提升。共有三种镜框款式——更纤薄的Wayfarer、全新猫眼款Zena和Aviator——售价$449，Zena和Aviator起价$529。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "拓麻歌子找到了一个意想不到的新住址：智能手机背面。一款名为Polly的小型数字宠物已在日本推出，把喂食、玩耍和养育虚拟生物这些熟悉的事情，搬到了一个随手机携带的磁吸小设备上。"
               },
               {
                 "t": "p",
-                "x": "Aviator镜框显得过大，总是从鼻梁上往下滑；与其他一些Meta眼镜不同，它需要专业人员调整。Gen 3新增了操作按钮，这是一个可自定义的快捷键，可用于任何Meta AI查询；电池续航\"最长9小时\"，充电盒另可提供50小时；还增加了一个麦克风，让通话更清晰。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "预购于11月20日在Makuake开启，起价¥10,999，比计划零售价¥15,713低30%，预计2027年1月交付。"
               },
               {
                 "t": "p",
-                "x": "Meta AI现由Muse Spark驱动，对话更自然，错误也减少了。Meta在眼镜上预览了仍处于\"beta\"阶段的Muse智能体，评测者担心AI功能会被用来推销Meta One订阅。一项新设置允许用户拒绝将眼镜的\"visual data\"用于训练。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Polly从一颗种子开始，根据照料方式成长为不同角色。长时间疏于照顾，它可能生病甚至死亡。Polly进入第二个成长阶段后，即可使用AI对话和虚拟旅行功能。这些功能需要Wi-Fi和配套应用，但基础活动可离线进行。"
               },
               {
                 "t": "p",
-                "x": "non-Ray-Ban的Meta眼镜从$249起就提供基本相同的功能，Gen 2售价$349，Gen 1 $224，因此选择Gen 3的唯一理由是Ray-Ban的款式或稍长一点的续航。"
+                "x": "这款61 × 61 × 11.5 mm的设备重40.8 g，可吸附在MagSafe-compatible iPhones上；Android用户则需要合适的磁吸手机壳或指环。Beambox称，按每天仅六次互动计算，电池续航约三天。"
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "Beambox官网上Polly的标价为$69.80，支持英语、中文和日语。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ray-Ban Meta Gen 3 trae\nmejoras menores a precio alto",
-          "body": "Para Engadget, las mejores gafas con AI de Meta apenas superan a modelos recientes y sus mejoras cuestan demasiado.",
-          "mini_headline": "Ray-Ban Meta Gen 3: análisis",
+          "headline": "Una mascota IA tipo Tamagotchi\npara el dorso del teléfono",
+          "body": "Polly, de Beambox, es una mascota magnética de chat con IA y pantalla táctil que se financia en Japón desde ¥10,999.",
+          "mini_headline": "Mascota IA para el dorso del teléfono",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "La mascota digital Polly de Beambox se fija magnéticamente a un smartphone y tiene una pantalla táctil de 360 × 360 píxeles."
               },
               {
                 "t": "p",
-                "x": "Calificación: 7.3/10. Las gafas Ray-Ban de tercera generación de Meta reciben cambios estéticos y algunas mejoras de rendimiento en aspectos puntuales. Se ofrecen en tres estilos de montura —una Wayfarer más delgada, la nueva Zena tipo cat-eye y Aviator— a $449, mientras que Zena y Aviator parten de $529."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "El Tamagotchi ha encontrado una nueva e inesperada dirección: la parte trasera del smartphone. Una pequeña mascota digital llamada Polly se ha lanzado en Japón y traslada la conocida tarea de alimentar, jugar con y criar a una criatura virtual a un dispositivo magnético que viaja con el teléfono."
               },
               {
                 "t": "p",
-                "x": "La montura Aviator resultaba demasiado grande y se deslizaba por la nariz; a diferencia de otras gafas de Meta, requiere un ajuste profesional. Gen 3 añade el botón de acción, un atajo personalizable para cualquier consulta a Meta AI, una batería de \"hasta 9 horas\" más 50 horas desde el estuche y un micrófono adicional para llamadas más claras."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "Las reservas se abrieron en Makuake el 20 de noviembre, desde ¥10,999, un 30% por debajo del precio de venta previsto de ¥15,713, con entregas previstas para enero de 2027."
               },
               {
                 "t": "p",
-                "x": "Meta AI ahora funciona con Muse Spark, lo que hizo las conversaciones más naturales y redujo los errores. Meta mostró de forma preliminar su agente Muse en las gafas, aún en \"beta\", y al autor de la reseña le preocupa que las funciones de AI impulsen las suscripciones a Meta One. Un nuevo ajuste permite excluirse del entrenamiento con los \"visual data\" de las gafas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Polly empieza su vida como una semilla y se convierte en distintos personajes según cómo se la cuide. Si se la descuida demasiado tiempo, puede enfermar e incluso morir. Cuando Polly alcanza su segunda etapa de desarrollo, se habilitan las conversaciones con IA y los viajes virtuales. Esas funciones requieren Wi-Fi y la app complementaria, aunque las actividades básicas funcionan sin conexión."
               },
               {
                 "t": "p",
-                "x": "Las gafas non-Ray-Ban de Meta ofrecen básicamente las mismas funciones desde $249, Gen 2 cuesta $349 y Gen 1 $224, así que las únicas razones para elegir Gen 3 son los estilos Ray-Ban o un poco más de batería."
+                "x": "El dispositivo, de 61 × 61 × 11,5 mm, pesa 40,8 g y se acopla a los iPhones compatibles con MagSafe (MagSafe-compatible); los usuarios de Android necesitan una funda o un anillo magnético adecuados. Beambox asegura una autonomía de aproximadamente tres días, con solo seis interacciones diarias."
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "El sitio web de Beambox ofrece Polly por $69,80, con soporte para inglés, chino y japonés."
               }
             ]
           }
@@ -899,169 +709,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ray-Ban Meta\nGen 3 비싼 소폭 개선",
-          "body": "Engadget은 Meta 최고급 AI 안경의 소폭 개선이 너무 비싸다고 평가했다.",
-          "mini_headline": "Ray-Ban Meta Gen 3 리뷰",
+          "headline": "다마고치 같은 AI 펫\n휴대폰 뒷면에 붙는다",
+          "body": "Beambox의 Polly는 자석식 AI 대화 펫으로, 일본에서 펀딩 중이다.",
+          "mini_headline": "휴대폰 뒷면의 AI 펫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "Beambox의 Polly 디지털 펫은 스마트폰에 자석으로 붙으며 360 × 360픽셀 터치스크린을 갖췄다."
               },
               {
                 "t": "p",
-                "x": "평점: 7.3/10. Meta의 세 번째 세대 Ray-Ban 안경은 외관이 조금 바뀌고 성능도 군데군데 소폭 개선됐다. 프레임은 더 얇아진 Wayfarer, 새로운 캣아이 Zena, Aviator 등 세 가지 스타일로 나오며 가격은 $449, Zena와 Aviator는 $529부터 시작한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "다마고치가 뜻밖의 새 주소를 찾았다. 바로 스마트폰 뒷면이다. Polly라는 작은 디지털 펫이 일본에서 출시돼, 가상 생명체에게 먹이를 주고 함께 놀며 키우는 익숙한 일을 휴대폰과 함께 다니는 자석식 기기로 옮겨 왔다."
               },
               {
                 "t": "p",
-                "x": "Aviator 프레임은 지나치게 커서 계속 콧등 아래로 흘러내렸고, 다른 일부 Meta 안경과 달리 전문가의 조정이 필요하다. Gen 3에는 어떤 Meta AI 질의든 불러올 수 있는 맞춤형 단축키인 액션 버튼, \"최대 9시간\"의 배터리 수명과 케이스로 더하는 50시간, 더 선명한 통화를 위한 추가 마이크가 들어갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "11월 20일 Makuake에서 사전 주문이 시작됐다. 가격은 ¥10,999부터로 예정 소매가 ¥15,713보다 30% 낮으며, 배송은 2027년 1월로 예정돼 있다."
               },
               {
                 "t": "p",
-                "x": "이제 Meta AI는 Muse Spark로 구동되며, 대화가 더 자연스러워지고 오류도 줄었다. Meta는 아직 \"beta\" 단계인 Muse 에이전트를 안경에서 미리 선보였고, 리뷰어는 AI 기능이 Meta One 구독을 밀어붙이는 수단이 될까 우려한다. 새 설정으로 안경의 \"visual data\"를 학습에 쓰지 않도록 거부할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Polly는 씨앗에서 시작해, 어떻게 돌보느냐에 따라 서로 다른 캐릭터로 자란다. 너무 오래 방치하면 병에 걸리고 죽을 수도 있다. Polly가 두 번째 성장 단계에 이르면 AI 대화와 가상 여행을 쓸 수 있다. 이 기능에는 Wi-Fi와 전용 앱이 필요하지만, 기본 활동은 오프라인에서도 된다."
               },
               {
                 "t": "p",
-                "x": "non-Ray-Ban Meta 안경도 $249부터 사실상 같은 기능을 제공하고, Gen 2는 $349, Gen 1 $224다. 따라서 Gen 3를 고를 이유는 Ray-Ban 스타일이나 조금 더 긴 배터리 수명뿐이다."
+                "x": "61 × 61 × 11.5 mm 크기의 이 기기는 무게가 40.8 g이며 MagSafe-compatible iPhones에 붙는다. Android 사용자는 맞는 자석 케이스나 링이 필요하다. Beambox는 하루 여섯 번의 상호작용을 기준으로 배터리가 약 사흘 간다고 밝혔다."
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "Beambox 자체 웹사이트에는 Polly가 $69.80로 올라 있으며, 영어·중국어·일본어를 지원한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Meta\nGen 3は高価な小改良",
-          "body": "EngadgetはMeta最上位のAIグラスを、改良が小さく割高だと評した。",
-          "mini_headline": "Ray-Ban Meta Gen 3レビュー",
+          "headline": "たまごっち風のAIペット\nスマホの背面に装着",
+          "body": "BeamboxのPollyは磁石で付くAIチャットペットで、日本で資金募集中だ。",
+          "mini_headline": "スマホ背面のAIペット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "BeamboxのPollyデジタルペットはスマートフォンに磁石で取り付けられ、360 × 360ピクセルのタッチスクリーンを備える。"
               },
               {
                 "t": "p",
-                "x": "評価：7.3/10。Metaの第三世代Ray-Banグラスは外観が少し変わり、性能も細かな部分でいくつか向上した。フレームはより細身になったWayfarer、新しいキャットアイ型のZena、Aviatorの三つのスタイルで、価格は$449、ZenaとAviatorは$529からだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "たまごっちが意外な新居を見つけた。スマートフォンの背面だ。Pollyという小さなデジタルペットが日本で登場し、仮想の生き物に餌をあげ、遊び、育てるというおなじみの営みを、スマホと一緒に持ち歩ける磁気式ガジェットに持ち込んだ。"
               },
               {
                 "t": "p",
-                "x": "Aviatorのフレームは大きすぎて鼻からずり落ち続けた。ほかの一部のMetaグラスと違い、専門家による調整が必要だ。Gen 3にはMeta AIへのあらゆる問いかけを呼び出せるカスタマイズ可能なショートカット「アクションボタン」、「最大9時間」のバッテリー持続時間とケースによる50時間、通話をよりクリアにする追加マイクが加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "予約は11月20日にMakuakeで始まり、価格は¥10,999からで、予定小売価格¥15,713より30%安い。配送は2027年1月の予定だ。"
               },
               {
                 "t": "p",
-                "x": "Meta AIは現在Muse Sparkで動いており、会話がより自然になり誤りも減った。Metaはまだ「beta」のMuseエージェントをグラス上で先行公開した。レビュアーはAI機能がMeta Oneのサブスクリプションへの誘導に使われることを懸念している。新しい設定では、グラスの「visual data」を学習に使わせないよう選べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Pollyは種から生まれ、世話の仕方によって異なるキャラクターに育つ。長く放置しすぎると病気になり、死んでしまうこともある。Pollyが第二の成長段階に達すると、AIとの会話やバーチャル旅行が使えるようになる。これらの機能にはWi-Fiと専用アプリが必要だが、基本的な遊びはオフラインでも動く。"
               },
               {
                 "t": "p",
-                "x": "non-Ray-BanのMetaグラスも$249から基本的に同じ機能を備え、Gen 2は$349、Gen 1 $224だ。Gen 3を選ぶ理由はRay-Banのスタイルか、わずかに長いバッテリー持続時間くらいしかない。"
+                "x": "61 × 61 × 11.5 mmのこのガジェットは重さ40.8 gで、MagSafe-compatible iPhonesに取り付けられる。Androidユーザーは対応する磁気ケースかリングが必要だ。Beamboxは、一日わずか六回の操作を前提に、バッテリーは約三日もつとしている。"
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "Beambox自身のウェブサイトではPollyが$69.80で掲載されており、英語・中国語・日本語に対応する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta\nGen 3小幅升级却价高",
-          "body": "Engadget认为Meta顶级AI眼镜仅比近期机型略好，小幅升级却定价过高。",
-          "mini_headline": "Ray-Ban Meta Gen 3评测",
+          "headline": "拓麻歌子式AI宠物\n贴在手机背面",
+          "body": "Beambox的Polly是磁吸式触屏AI聊天宠物，在日本众筹，2027年1月发货。",
+          "mini_headline": "手机背面的AI宠物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "Beambox的Polly数字宠物可磁吸在智能手机上，配备360 × 360像素触摸屏。"
               },
               {
                 "t": "p",
-                "x": "评分：7.3/10。Meta第三代Ray-Ban眼镜在外观上略有更新，性能也在细节处有少许提升。共有三种镜框款式——更纤薄的Wayfarer、全新猫眼款Zena和Aviator——售价$449，Zena和Aviator起价$529。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "拓麻歌子找到了一个意想不到的新住址：智能手机背面。一款名为Polly的小型数字宠物已在日本推出，把喂食、玩耍和养育虚拟生物这些熟悉的事情，搬到了一个随手机携带的磁吸小设备上。"
               },
               {
                 "t": "p",
-                "x": "Aviator镜框显得过大，总是从鼻梁上往下滑；与其他一些Meta眼镜不同，它需要专业人员调整。Gen 3新增了操作按钮，这是一个可自定义的快捷键，可用于任何Meta AI查询；电池续航\"最长9小时\"，充电盒另可提供50小时；还增加了一个麦克风，让通话更清晰。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "预购于11月20日在Makuake开启，起价¥10,999，比计划零售价¥15,713低30%，预计2027年1月交付。"
               },
               {
                 "t": "p",
-                "x": "Meta AI现由Muse Spark驱动，对话更自然，错误也减少了。Meta在眼镜上预览了仍处于\"beta\"阶段的Muse智能体，评测者担心AI功能会被用来推销Meta One订阅。一项新设置允许用户拒绝将眼镜的\"visual data\"用于训练。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Polly从一颗种子开始，根据照料方式成长为不同角色。长时间疏于照顾，它可能生病甚至死亡。Polly进入第二个成长阶段后，即可使用AI对话和虚拟旅行功能。这些功能需要Wi-Fi和配套应用，但基础活动可离线进行。"
               },
               {
                 "t": "p",
-                "x": "non-Ray-Ban的Meta眼镜从$249起就提供基本相同的功能，Gen 2售价$349，Gen 1 $224，因此选择Gen 3的唯一理由是Ray-Ban的款式或稍长一点的续航。"
+                "x": "这款61 × 61 × 11.5 mm的设备重40.8 g，可吸附在MagSafe-compatible iPhones上；Android用户则需要合适的磁吸手机壳或指环。Beambox称，按每天仅六次互动计算，电池续航约三天。"
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "Beambox官网上Polly的标价为$69.80，支持英语、中文和日语。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ray-Ban Meta Gen 3 trae\nmejoras menores a precio alto",
-          "body": "Para Engadget, las mejores gafas con AI de Meta apenas superan a modelos recientes y sus mejoras cuestan demasiado.",
-          "mini_headline": "Ray-Ban Meta Gen 3: análisis",
+          "headline": "Una mascota IA tipo Tamagotchi\npara el dorso del teléfono",
+          "body": "Polly, de Beambox, es una mascota magnética de chat con IA y pantalla táctil que se financia en Japón desde ¥10,999.",
+          "mini_headline": "Mascota IA para el dorso del teléfono",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+                "cap": "La mascota digital Polly de Beambox se fija magnéticamente a un smartphone y tiene una pantalla táctil de 360 × 360 píxeles."
               },
               {
                 "t": "p",
-                "x": "Calificación: 7.3/10. Las gafas Ray-Ban de tercera generación de Meta reciben cambios estéticos y algunas mejoras de rendimiento en aspectos puntuales. Se ofrecen en tres estilos de montura —una Wayfarer más delgada, la nueva Zena tipo cat-eye y Aviator— a $449, mientras que Zena y Aviator parten de $529."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ReBVOm-1795148397.jpg"
+                "x": "El Tamagotchi ha encontrado una nueva e inesperada dirección: la parte trasera del smartphone. Una pequeña mascota digital llamada Polly se ha lanzado en Japón y traslada la conocida tarea de alimentar, jugar con y criar a una criatura virtual a un dispositivo magnético que viaja con el teléfono."
               },
               {
                 "t": "p",
-                "x": "La montura Aviator resultaba demasiado grande y se deslizaba por la nariz; a diferencia de otras gafas de Meta, requiere un ajuste profesional. Gen 3 añade el botón de acción, un atajo personalizable para cualquier consulta a Meta AI, una batería de \"hasta 9 horas\" más 50 horas desde el estuche y un micrófono adicional para llamadas más claras."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-IhhHGj-1795148598.jpg"
+                "x": "Las reservas se abrieron en Makuake el 20 de noviembre, desde ¥10,999, un 30% por debajo del precio de venta previsto de ¥15,713, con entregas previstas para enero de 2027."
               },
               {
                 "t": "p",
-                "x": "Meta AI ahora funciona con Muse Spark, lo que hizo las conversaciones más naturales y redujo los errores. Meta mostró de forma preliminar su agente Muse en las gafas, aún en \"beta\", y al autor de la reseña le preocupa que las funciones de AI impulsen las suscripciones a Meta One. Un nuevo ajuste permite excluirse del entrenamiento con los \"visual data\" de las gafas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-ofac6r-1795148502.jpg"
+                "x": "Polly empieza su vida como una semilla y se convierte en distintos personajes según cómo se la cuide. Si se la descuida demasiado tiempo, puede enfermar e incluso morir. Cuando Polly alcanza su segunda etapa de desarrollo, se habilitan las conversaciones con IA y los viajes virtuales. Esas funciones requieren Wi-Fi y la app complementaria, aunque las actividades básicas funcionan sin conexión."
               },
               {
                 "t": "p",
-                "x": "Las gafas non-Ray-Ban de Meta ofrecen básicamente las mismas funciones desde $249, Gen 2 cuesta $349 y Gen 1 $224, así que las únicas razones para elegir Gen 3 son los estilos Ray-Ban o un poco más de batería."
+                "x": "El dispositivo, de 61 × 61 × 11,5 mm, pesa 40,8 g y se acopla a los iPhones compatibles con MagSafe (MagSafe-compatible); los usuarios de Android necesitan una funda o un anillo magnético adecuados. Beambox asegura una autonomía de aproximadamente tres días, con solo seis interacciones diarias."
+              },
+              {
+                "t": "video",
+                "yt": "2Ayn-O0dJWE"
+              },
+              {
+                "t": "p",
+                "x": "El sitio web de Beambox ofrece Polly por $69,80, con soporte para inglés, chino y japonés."
               }
             ]
           }
@@ -1069,15 +867,15 @@
       }
     },
     {
-      "id": "phison-npu-ssd-sc26",
+      "id": "snes-superfx-chatgpt-client",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Phison, SSD에\nNPU·64GB 메모리",
-      "body": "Phison이 SC26에서 NPU와 64GB 메모리를 품은 SSD를 공개했다.",
-      "mini_headline": "Phison SSD에 NPU 탑재",
+      "headline": "35년 된 SNES에서\n220만 파라미터 챗봇",
+      "body": "비공식 SNES판 ChatGPT가 220만 파라미터 증류 모델을 돌린다.",
+      "mini_headline": "SNES에서 도는 작은 챗봇",
       "tool": "Gadgets",
       "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -1085,149 +883,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+            "cap": "SNES용 ChatGPT (이미지 출처: Benj Edwards)"
           },
           {
             "t": "p",
-            "x": "Phison은 Supercomputer 2026(SC26)에서 엔터프라이즈 SSD 설계 두 가지를 자세히 공개했다. 하나는 NPU와 130 GB/s 속도의 64GB 메모리를 품어 PyTorch, vLLM, OpenVINO, llama.cpp를 드라이브 안에서 바로 돌릴 수 있다. 다른 하나는 빠른 pSLC 캐시와 대용량 QLC를 컨트롤러 하나로 묶었다. 회사는 “언급된 제품과 기능 중 상당수는 아직 개발 중”이라고 밝혔다."
+            "x": "닌텐도 고전 콘솔 SNES에 전용 ChatGPT 챗봇이 생겼다. 오래되고 자원이 빠듯한 플랫폼이라 이 (작은) 언어 모델은 OpenAI의 GPT-OSS-120b를 220만(2.2-million) 파라미터 규모로 증류해 만들었다. 빈티지 컴퓨팅 블로거 Benj Edwards는 “Super NES 최고의 GPU인 Super FX 2 칩”으로 챗봇 응답 속도를 끌어올렸다."
           },
           {
             "t": "p",
-            "x": "이 연산 스토리지 드라이브는 데이터가 있는 자리에서 AI 코드를 실행해 데이터셋 전체가 아닌 결과만 돌려보낸다. Phison은 이런 워크로드에서 전송 데이터가 10~100배 줄어들 수 있다고 주장한다. NPU는 “36,800 DMIPS의 연산 성능”을 낼 것으로 예상되지만 TOPS 수치는 나오지 않았다. 호스트가 드라이브의 연산 기능에 어떻게 접근하는지도 아직 알려지지 않았다."
+            "x": "SNES9x 에뮬레이터를 심어 둔 Edwards의 브라우저 페이지에서 직접 써 볼 수 있다. 4MB 모델을 고르거나, Simple English Wikipedia 문서 150,000개의 첫 문장을 지식 베이스에 넣은 19MB 모델을 고르면 된다(카트리지의 MSU-1 데이터 파일에 저장)."
           },
           {
             "t": "p",
-            "x": "Mixed Media 드라이브는 16채널 제품이다. pSLC와 QLC 영역에 네임스페이스를 따로 줘서 전용 캐시 드라이브가 필요 없다. Phison은 “드라이브 24개 중 하나를 잃으면 캐시 손실이 25%가 아니라 4%에 그친다”고 설명한다. Kioxia와 DapuStor도 비슷한 설계를 내놓은 적이 있다. 둘 중 출시에 더 가까워 보이는 쪽은 Mixed Media다."
+            "x": "호기심을 채우는 것 말고는 쓸모가 매우 제한적이다. Edwards의 말대로 “이 모델은 ChatGPT를 떠받치는 모델보다 수백만 배 작다”."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+            "cap": "작동 중인 SNES용 ChatGPT (이미지 출처: Future)"
+          },
+          {
+            "t": "p",
+            "x": "Yoshi's Island와 함께 데뷔한 Super FX 2 코프로세서에는 21.47 MHz RISC CPU가 들어 있다. SNES 메인 CPU는 2.68 MHz로 동작하는 16비트 Ricoh 5A22다. 이 앱은 Super FX(Wikipedia 빌드는 MSU-1도)를 지원하는 플래시 카트를 쓰면 실제 SNES에서도 돌릴 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Phison puts an NPU and\n64GB of memory in an SSD",
-          "body": "At SC26, Phison showed an SSD with a built-in NPU and 64GB of memory that runs PyTorch and llama.cpp on the drive.",
-          "mini_headline": "Phison SSD\ngets an NPU",
+          "headline": "A 35-year-old SNES\nruns a 2.2M-parameter chatbot",
+          "body": "An unofficial ChatGPT for SNES runs a 2.2M-parameter distillation of gpt-oss-120b, sped up by the Super FX 2 chip.",
+          "mini_headline": "SNES runs a tiny chatbot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "ChatGPT for SNES (Image credit: Benj Edwards)"
               },
               {
                 "t": "p",
-                "x": "Phison detailed two new enterprise SSD designs at Supercomputer 2026 (SC26): one with a built-in NPU and 64GB of 130 GB/s memory that supports running PyTorch, vLLM, OpenVINO, and llama.cpp directly on the drive, and another that merges fast pSLC cache with large QLC capacity behind just one controller. The company notes that “many of the products and features mentioned are still in development.”"
+                "x": "Nintendo's classic SNES console now has its own ChatGPT chatbot. Due to the platform's age and limited resources, the (small) language model is a 2.2-million-parameter distillation of OpenAI's GPT-OSS-120b. Vintage Computing blogger Benj Edwards accelerated the chatbot's responsiveness using “the Super NES's best GPU, the Super FX 2 chip.”"
               },
               {
                 "t": "p",
-                "x": "The computational-storage drive runs AI code on the data where it resides and sends back results instead of whole datasets, which Phison claims could mean 10 to 100 times less data transferred for applicable workloads. The NPU is expected to deliver “36,800 DMIPS of compute performance,” though no TOPS figure was given, and nothing was disclosed about how a host reaches the drive’s compute."
+                "x": "You can try it in a browser page where Edwards has embedded the SNES9x emulator: choose the 4MB model, or a 19MB one with the opening sentences of 150,000 Simple English Wikipedia articles integrated into the knowledge base (stored in the cartridge's MSU-1 data file)."
               },
               {
                 "t": "p",
-                "x": "The Mixed Media drive is a 16-channel part whose pSLC and QLC regions get separate namespaces, so no dedicated cache drives are needed; “losing one drive out of 24 would result in a 4% cache loss instead of a 25% loss,” Phison says. Kioxia and DapuStor have shown similar designs. Of the two, Mixed Media looks like the nearer product."
+                "x": "Its usefulness beyond curiosity value is very limited — Edwards explains that “the model is millions of times smaller than the models behind ChatGPT.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "ChatGPT for SNES in action (Image credit: Future)"
+              },
+              {
+                "t": "p",
+                "x": "The Super FX 2 coprocessor, which debuted with Yoshi's Island, contains a 21.47 MHz RISC CPU, versus the SNES main CPU, a 16-bit Ricoh 5A22 running at 2.68 MHz. The app can also run on a real SNES with a flash cart that supports Super FX (and MSU-1 for the Wikipedia build)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Phison, SSD에\nNPU·64GB 메모리",
-          "body": "Phison이 SC26에서 NPU와 64GB 메모리를 품은 SSD를 공개했다.",
-          "mini_headline": "Phison SSD에 NPU 탑재",
+          "headline": "35년 된 SNES에서\n220만 파라미터 챗봇",
+          "body": "비공식 SNES판 ChatGPT가 220만 파라미터 증류 모델을 돌린다.",
+          "mini_headline": "SNES에서 도는 작은 챗봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "SNES용 ChatGPT (이미지 출처: Benj Edwards)"
               },
               {
                 "t": "p",
-                "x": "Phison은 Supercomputer 2026(SC26)에서 엔터프라이즈 SSD 설계 두 가지를 자세히 공개했다. 하나는 NPU와 130 GB/s 속도의 64GB 메모리를 품어 PyTorch, vLLM, OpenVINO, llama.cpp를 드라이브 안에서 바로 돌릴 수 있다. 다른 하나는 빠른 pSLC 캐시와 대용량 QLC를 컨트롤러 하나로 묶었다. 회사는 “언급된 제품과 기능 중 상당수는 아직 개발 중”이라고 밝혔다."
+                "x": "닌텐도 고전 콘솔 SNES에 전용 ChatGPT 챗봇이 생겼다. 오래되고 자원이 빠듯한 플랫폼이라 이 (작은) 언어 모델은 OpenAI의 GPT-OSS-120b를 220만(2.2-million) 파라미터 규모로 증류해 만들었다. 빈티지 컴퓨팅 블로거 Benj Edwards는 “Super NES 최고의 GPU인 Super FX 2 칩”으로 챗봇 응답 속도를 끌어올렸다."
               },
               {
                 "t": "p",
-                "x": "이 연산 스토리지 드라이브는 데이터가 있는 자리에서 AI 코드를 실행해 데이터셋 전체가 아닌 결과만 돌려보낸다. Phison은 이런 워크로드에서 전송 데이터가 10~100배 줄어들 수 있다고 주장한다. NPU는 “36,800 DMIPS의 연산 성능”을 낼 것으로 예상되지만 TOPS 수치는 나오지 않았다. 호스트가 드라이브의 연산 기능에 어떻게 접근하는지도 아직 알려지지 않았다."
+                "x": "SNES9x 에뮬레이터를 심어 둔 Edwards의 브라우저 페이지에서 직접 써 볼 수 있다. 4MB 모델을 고르거나, Simple English Wikipedia 문서 150,000개의 첫 문장을 지식 베이스에 넣은 19MB 모델을 고르면 된다(카트리지의 MSU-1 데이터 파일에 저장)."
               },
               {
                 "t": "p",
-                "x": "Mixed Media 드라이브는 16채널 제품이다. pSLC와 QLC 영역에 네임스페이스를 따로 줘서 전용 캐시 드라이브가 필요 없다. Phison은 “드라이브 24개 중 하나를 잃으면 캐시 손실이 25%가 아니라 4%에 그친다”고 설명한다. Kioxia와 DapuStor도 비슷한 설계를 내놓은 적이 있다. 둘 중 출시에 더 가까워 보이는 쪽은 Mixed Media다."
+                "x": "호기심을 채우는 것 말고는 쓸모가 매우 제한적이다. Edwards의 말대로 “이 모델은 ChatGPT를 떠받치는 모델보다 수백만 배 작다”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "작동 중인 SNES용 ChatGPT (이미지 출처: Future)"
+              },
+              {
+                "t": "p",
+                "x": "Yoshi's Island와 함께 데뷔한 Super FX 2 코프로세서에는 21.47 MHz RISC CPU가 들어 있다. SNES 메인 CPU는 2.68 MHz로 동작하는 16비트 Ricoh 5A22다. 이 앱은 Super FX(Wikipedia 빌드는 MSU-1도)를 지원하는 플래시 카트를 쓰면 실제 SNES에서도 돌릴 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Phison、SSDに\nNPUと64GBメモリ",
-          "body": "PhisonはSC26で、NPUと64GBメモリを内蔵したSSDを披露した。",
-          "mini_headline": "Phison SSDにNPU搭載",
+          "headline": "35年前のSNESで動く\n220万パラメータ対話AI",
+          "body": "非公式のSNES版ChatGPTが、220万パラメータの蒸留モデルを動かす。",
+          "mini_headline": "SNESで動く小さなチャットボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "SNES用ChatGPT(画像提供:Benj Edwards)"
               },
               {
                 "t": "p",
-                "x": "PhisonはSupercomputer 2026（SC26）で、エンタープライズ向けSSDの新設計2種を詳しく紹介した。1つはNPUと130 GB/sの64GBメモリを内蔵し、PyTorch、vLLM、OpenVINO、llama.cppをドライブ上で直接実行できるもの。もう1つは高速なpSLCキャッシュと大容量のQLCを1基のコントローラーにまとめたものだ。同社は「紹介した製品や機能の多くはまだ開発中」としている。"
+                "x": "任天堂の名機SNESに、独自のChatGPTチャットボットが登場した。プラットフォームの古さと限られたリソースのため、この(小さな)言語モデルはOpenAIのGPT-OSS-120bを蒸留した220万(2.2-million)パラメータのモデルだ。ヴィンテージコンピューティング系ブロガーのBenj Edwardsは、「Super NES最高のGPU、Super FX 2チップ」を使ってチャットボットの応答を高速化した。"
               },
               {
                 "t": "p",
-                "x": "このコンピュテーショナルストレージ・ドライブは、データが置かれた場所でAIコードを実行し、データセット全体ではなく結果だけを返す。Phisonによれば、対象となるワークロードでは転送データ量を10〜100分の1に減らせる可能性があるという。NPUは「36,800 DMIPSの演算性能」を発揮する見込みだが、TOPSの数値は示されず、ホストがドライブの演算機能にどうアクセスするかも明らかにされていない。"
+                "x": "EdwardsがSNES9xエミュレーターを埋め込んだブラウザページで試せる。4MBのモデルか、Simple English Wikipediaの記事150,000本の冒頭の文をナレッジベースに統合した19MBのモデルを選べる(カートリッジのMSU-1データファイルに格納)。"
               },
               {
                 "t": "p",
-                "x": "Mixed Mediaドライブは16チャネル構成で、pSLC領域とQLC領域に別々のネームスペースを割り当てるため、専用キャッシュドライブが不要になる。Phisonは「24台のうち1台を失っても、キャッシュの損失は25%ではなく4%で済む」と説明する。KioxiaとDapuStorも同様の設計を披露している。2つのうち、製品化が近そうなのはMixed Mediaだ。"
+                "x": "好奇心を満たす以上の実用性はごく限られる。Edwardsは「このモデルはChatGPTを支えるモデルより数百万倍小さい」と説明する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "動作中のSNES用ChatGPT(画像提供:Future)"
+              },
+              {
+                "t": "p",
+                "x": "Yoshi's Islandで初登場したSuper FX 2コプロセッサーは21.47 MHzのRISC CPUを搭載し、対するSNESのメインCPUは2.68 MHzで動く16ビットのRicoh 5A22だ。このアプリは、Super FX(Wikipedia版はMSU-1も)に対応したフラッシュカートを使えば実機のSNESでも動作する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Phison在SSD中\n塞进NPU和64GB内存",
-          "body": "Phison在SC26展示内置NPU和64GB内存的SSD，可在盘上运行PyTorch。",
-          "mini_headline": "Phison SSD内置NPU",
+          "headline": "35岁高龄的SNES\n跑起220万参数聊天机器人",
+          "body": "非官方SNES版ChatGPT运行220万参数的gpt-oss-120b蒸馏模型。",
+          "mini_headline": "SNES跑起迷你聊天机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "SNES版ChatGPT（图片来源：Benj Edwards）"
               },
               {
                 "t": "p",
-                "x": "Phison在Supercomputer 2026（SC26）上详细介绍了两款新的企业级SSD设计：一款内置NPU和64GB、130 GB/s的内存，支持在硬盘上直接运行PyTorch、vLLM、OpenVINO和llama.cpp；另一款则用单个控制器将高速pSLC缓存与大容量QLC结合在一起。公司指出，“所提及的许多产品和功能仍在开发中”。"
+                "x": "任天堂经典主机SNES如今有了自己的ChatGPT聊天机器人。由于平台年代久远、资源有限，这个（小型）语言模型是由OpenAI的GPT-OSS-120b蒸馏而来的220万（2.2-million）参数模型。复古计算博主Benj Edwards借助“Super NES最强的GPU——Super FX 2芯片”提升了聊天机器人的响应速度。"
               },
               {
                 "t": "p",
-                "x": "这款计算存储硬盘在数据所在之处运行AI代码，只回传结果而非整个数据集。Phison称，对于适用的工作负载，传输的数据量可减少10到100倍。NPU预计可提供“36,800 DMIPS的计算性能”，但未给出TOPS数据，也没有透露主机如何调用硬盘的计算能力。"
+                "x": "Edwards在一个嵌入了SNES9x模拟器的浏览器页面中提供试用：可以选择4MB模型，或选择19MB模型，后者将150,000篇Simple English Wikipedia文章的开头句子整合进知识库（存储在卡带的MSU-1数据文件中）。"
               },
               {
                 "t": "p",
-                "x": "Mixed Media硬盘是一款16通道产品，其pSLC和QLC区域拥有独立的命名空间，因此无需专用缓存盘。Phison表示：“24块硬盘中损失一块，只会造成4%的缓存损失，而不是25%。”Kioxia和DapuStor也展示过类似设计。两者之中，Mixed Media看起来更接近量产。"
+                "x": "它除了满足好奇心之外用处非常有限——Edwards解释说：“这个模型比ChatGPT背后的模型小数百万倍。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "运行中的SNES版ChatGPT（图片来源：Future）"
+              },
+              {
+                "t": "p",
+                "x": "随《Yoshi's Island》首次亮相的Super FX 2协处理器内置一颗21.47 MHz的RISC CPU，而SNES主CPU是一颗运行频率为2.68 MHz的16位Ricoh 5A22。借助支持Super FX（Wikipedia版本还需支持MSU-1）的烧录卡，该应用也能在真实的SNES上运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Phison pone una NPU y 64GB\nde memoria en un SSD",
-          "body": "En SC26, Phison mostró un SSD con NPU integrada y 64GB de memoria que ejecuta PyTorch y llama.cpp en la propia unidad.",
-          "mini_headline": "El SSD de Phison suma una NPU",
+          "headline": "Una SNES de 35 años ejecuta\nun chatbot de 2.2M parámetros",
+          "body": "Un ChatGPT no oficial para SNES ejecuta un destilado de 2,2 millones de parámetros de gpt-oss-120b.",
+          "mini_headline": "La SNES ejecuta un pequeño chatbot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "ChatGPT para SNES (Imagen: Benj Edwards)"
               },
               {
                 "t": "p",
-                "x": "Phison detalló dos nuevos diseños de SSD empresariales en Supercomputer 2026 (SC26): uno con NPU integrada y 64GB de memoria a 130 GB/s que permite ejecutar PyTorch, vLLM, OpenVINO y llama.cpp directamente en la unidad, y otro que combina una caché pSLC rápida con una gran capacidad QLC detrás de un solo controlador. La compañía advierte que “muchos de los productos y funciones mencionados siguen en desarrollo”."
+                "x": "La clásica consola SNES de Nintendo ya tiene su propio chatbot ChatGPT. Por la antigüedad de la plataforma y sus recursos limitados, el (pequeño) modelo de lenguaje es una destilación de 2,2 millones de parámetros (2.2-million-parameter) del GPT-OSS-120b de OpenAI. El bloguero de Vintage Computing Benj Edwards aceleró la capacidad de respuesta del chatbot usando “la mejor GPU de la Super NES, el chip Super FX 2”."
               },
               {
                 "t": "p",
-                "x": "La unidad de almacenamiento computacional ejecuta código de IA sobre los datos donde residen y devuelve resultados en lugar de conjuntos de datos completos, lo que según Phison podría suponer transferir entre 10 y 100 veces menos datos en las cargas de trabajo aplicables. Se espera que la NPU ofrezca “36,800 DMIPS de rendimiento de cómputo”, aunque no se dio ninguna cifra de TOPS ni se explicó cómo accede un host a la capacidad de cómputo de la unidad."
+                "x": "Se puede probar en una página web donde Edwards ha integrado el emulador SNES9x: hay que elegir el modelo de 4MB o uno de 19MB que integra en su base de conocimiento las frases iniciales de 150.000 artículos de la Simple English Wikipedia (almacenadas en el archivo de datos MSU-1 del cartucho)."
               },
               {
                 "t": "p",
-                "x": "La unidad Mixed Media es un componente de 16 canales cuyas regiones pSLC y QLC reciben espacios de nombres separados, por lo que no hacen falta unidades de caché dedicadas; “perder una unidad de 24 supondría una pérdida de caché del 4% en lugar del 25%”, afirma Phison. Kioxia y DapuStor han mostrado diseños similares. De los dos, Mixed Media parece el producto más cercano."
+                "x": "Su utilidad más allá de la curiosidad es muy limitada: Edwards explica que “el modelo es millones de veces más pequeño que los modelos detrás de ChatGPT”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "ChatGPT para SNES en funcionamiento (Imagen: Future)"
+              },
+              {
+                "t": "p",
+                "x": "El coprocesador Super FX 2, que debutó con Yoshi's Island, contiene una CPU RISC de 21,47 MHz, frente a la CPU principal de la SNES, un Ricoh 5A22 de 16 bits a 2,68 MHz. La aplicación también puede ejecutarse en una SNES real con un cartucho flash compatible con Super FX (y con MSU-1 para la versión con Wikipedia)."
               }
             ]
           }
@@ -1235,105 +1093,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Phison, SSD에\nNPU·64GB 메모리",
-          "body": "Phison이 SC26에서 NPU와 64GB 메모리를 넣은 SSD를 선보였다.",
-          "mini_headline": "Phison SSD에 NPU 탑재",
+          "headline": "35년 된 SNES에서\n220만 파라미터 챗봇",
+          "body": "비공식 SNES판 ChatGPT가 220만 파라미터 증류 모델을 돌린다.",
+          "mini_headline": "SNES에서 도는 작은 챗봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "SNES용 ChatGPT (이미지 출처: Benj Edwards)"
               },
               {
                 "t": "p",
-                "x": "Phison은 Supercomputer 2026(SC26)에서 엔터프라이즈 SSD 설계 두 가지를 자세히 소개했다. 하나는 NPU와 130 GB/s 속도의 64GB 메모리를 내장해 PyTorch, vLLM, OpenVINO, llama.cpp를 드라이브에서 바로 실행할 수 있고, 다른 하나는 빠른 pSLC 캐시와 대용량 QLC를 컨트롤러 하나로 묶었다. 회사는 “언급된 제품과 기능 중 상당수는 아직 개발 중”이라고 밝혔다."
+                "x": "닌텐도의 고전 콘솔 SNES에 이제 전용 ChatGPT 챗봇이 생겼다. 플랫폼이 오래되고 자원이 제한적이어서, 이 (작은) 언어 모델은 OpenAI의 GPT-OSS-120b를 220만(2.2-million) 파라미터 규모로 증류한 모델이다. 빈티지 컴퓨팅 블로거 Benj Edwards는 “Super NES 최고의 GPU인 Super FX 2 칩”을 활용해 챗봇의 응답 속도를 높였다."
               },
               {
                 "t": "p",
-                "x": "이 연산 스토리지 드라이브는 데이터가 저장된 자리에서 AI 코드를 실행하고 데이터셋 전체 대신 결과만 돌려보낸다. Phison은 해당 워크로드에서 전송 데이터가 10~100배 줄어들 수 있다고 주장한다. NPU는 “36,800 DMIPS의 연산 성능”을 낼 것으로 예상되지만 TOPS 수치는 공개되지 않았고, 호스트가 드라이브의 연산 기능에 접근하는 방식도 밝혀지지 않았다."
+                "x": "Edwards가 SNES9x 에뮬레이터를 심어 둔 브라우저 페이지에서 직접 써 볼 수 있다. 4MB 모델을 고르거나, Simple English Wikipedia 문서 150,000개의 첫 문장들을 지식 베이스에 통합한 19MB 모델을 고르면 된다(카트리지의 MSU-1 데이터 파일에 저장)."
               },
               {
                 "t": "p",
-                "x": "Mixed Media 드라이브는 16채널 제품으로, pSLC와 QLC 영역에 별도 네임스페이스를 부여해 전용 캐시 드라이브가 필요 없다. Phison은 “드라이브 24개 중 하나를 잃으면 캐시 손실이 25%가 아니라 4%에 그친다”고 설명한다. Kioxia와 DapuStor도 비슷한 설계를 선보인 바 있다. 두 제품 중 출시에 더 가까워 보이는 쪽은 Mixed Media다."
+                "x": "호기심을 넘어서는 쓸모는 매우 제한적이다. Edwards는 “이 모델은 ChatGPT를 떠받치는 모델보다 수백만 배 작다”고 설명한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "작동 중인 SNES용 ChatGPT (이미지 출처: Future)"
+              },
+              {
+                "t": "p",
+                "x": "Yoshi's Island와 함께 데뷔한 Super FX 2 코프로세서에는 21.47 MHz RISC CPU가 들어 있다. SNES 메인 CPU는 2.68 MHz로 동작하는 16비트 Ricoh 5A22다. 이 앱은 Super FX(Wikipedia 빌드는 MSU-1도)를 지원하는 플래시 카트를 쓰면 실제 SNES에서도 돌릴 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Phison、SSDに\nNPUと64GBメモリ",
-          "body": "PhisonはSC26で、NPUと64GBメモリを内蔵したSSDを披露した。",
-          "mini_headline": "Phison SSDにNPU搭載",
+          "headline": "35年前のSNESで動く\n220万パラメータ対話AI",
+          "body": "非公式のSNES版ChatGPTが、220万パラメータの蒸留モデルを動かす。",
+          "mini_headline": "SNESで動く小さなチャットボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "SNES用ChatGPT(画像提供:Benj Edwards)"
               },
               {
                 "t": "p",
-                "x": "PhisonはSupercomputer 2026（SC26）で、エンタープライズ向けSSDの新設計2種を詳しく紹介した。1つはNPUと130 GB/sの64GBメモリを内蔵し、PyTorch、vLLM、OpenVINO、llama.cppをドライブ上で直接実行できるもの。もう1つは高速なpSLCキャッシュと大容量のQLCを1基のコントローラーにまとめたものだ。同社は「紹介した製品や機能の多くはまだ開発中」としている。"
+                "x": "任天堂の名機SNESに、独自のChatGPTチャットボットが登場した。プラットフォームの古さと限られたリソースのため、この(小さな)言語モデルはOpenAIのGPT-OSS-120bを蒸留した220万(2.2-million)パラメータのモデルだ。ヴィンテージコンピューティング系ブロガーのBenj Edwardsは、「Super NES最高のGPU、Super FX 2チップ」を使ってチャットボットの応答を高速化した。"
               },
               {
                 "t": "p",
-                "x": "このコンピュテーショナルストレージ・ドライブは、データが置かれた場所でAIコードを実行し、データセット全体ではなく結果だけを返す。Phisonによれば、対象となるワークロードでは転送データ量を10〜100分の1に減らせる可能性があるという。NPUは「36,800 DMIPSの演算性能」を発揮する見込みだが、TOPSの数値は示されず、ホストがドライブの演算機能にどうアクセスするかも明らかにされていない。"
+                "x": "EdwardsがSNES9xエミュレーターを埋め込んだブラウザページで試せる。4MBのモデルか、Simple English Wikipediaの記事150,000本の冒頭の文をナレッジベースに統合した19MBのモデルを選べる(カートリッジのMSU-1データファイルに格納)。"
               },
               {
                 "t": "p",
-                "x": "Mixed Mediaドライブは16チャネル構成で、pSLC領域とQLC領域に別々のネームスペースを割り当てるため、専用キャッシュドライブが不要になる。Phisonは「24台のうち1台を失っても、キャッシュの損失は25%ではなく4%で済む」と説明する。KioxiaとDapuStorも同様の設計を披露している。2つのうち、製品化が近そうなのはMixed Mediaだ。"
+                "x": "好奇心を満たす以上の実用性はごく限られる。Edwardsは「このモデルはChatGPTを支えるモデルより数百万倍小さい」と説明する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "動作中のSNES用ChatGPT(画像提供:Future)"
+              },
+              {
+                "t": "p",
+                "x": "Yoshi's Islandで初登場したSuper FX 2コプロセッサーは21.47 MHzのRISC CPUを搭載し、対するSNESのメインCPUは2.68 MHzで動く16ビットのRicoh 5A22だ。このアプリは、Super FX(Wikipedia版はMSU-1も)に対応したフラッシュカートを使えば実機のSNESでも動作する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Phison在SSD中\n塞进NPU和64GB内存",
-          "body": "Phison在SC26展示内置NPU和64GB内存的SSD，可在盘上运行PyTorch。",
-          "mini_headline": "Phison SSD内置NPU",
+          "headline": "35岁高龄的SNES\n跑起220万参数聊天机器人",
+          "body": "非官方SNES版ChatGPT运行220万参数的gpt-oss-120b蒸馏模型。",
+          "mini_headline": "SNES跑起迷你聊天机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "SNES版ChatGPT（图片来源：Benj Edwards）"
               },
               {
                 "t": "p",
-                "x": "Phison在Supercomputer 2026（SC26）上详细介绍了两款新的企业级SSD设计：一款内置NPU和64GB、130 GB/s的内存，支持在硬盘上直接运行PyTorch、vLLM、OpenVINO和llama.cpp；另一款则用单个控制器将高速pSLC缓存与大容量QLC结合在一起。公司指出，“所提及的许多产品和功能仍在开发中”。"
+                "x": "任天堂经典主机SNES如今有了自己的ChatGPT聊天机器人。由于平台年代久远、资源有限，这个（小型）语言模型是由OpenAI的GPT-OSS-120b蒸馏而来的220万（2.2-million）参数模型。复古计算博主Benj Edwards借助“Super NES最强的GPU——Super FX 2芯片”提升了聊天机器人的响应速度。"
               },
               {
                 "t": "p",
-                "x": "这款计算存储硬盘在数据所在之处运行AI代码，只回传结果而非整个数据集。Phison称，对于适用的工作负载，传输的数据量可减少10到100倍。NPU预计可提供“36,800 DMIPS的计算性能”，但未给出TOPS数据，也没有透露主机如何调用硬盘的计算能力。"
+                "x": "Edwards在一个嵌入了SNES9x模拟器的浏览器页面中提供试用：可以选择4MB模型，或选择19MB模型，后者将150,000篇Simple English Wikipedia文章的开头句子整合进知识库（存储在卡带的MSU-1数据文件中）。"
               },
               {
                 "t": "p",
-                "x": "Mixed Media硬盘是一款16通道产品，其pSLC和QLC区域拥有独立的命名空间，因此无需专用缓存盘。Phison表示：“24块硬盘中损失一块，只会造成4%的缓存损失，而不是25%。”Kioxia和DapuStor也展示过类似设计。两者之中，Mixed Media看起来更接近量产。"
+                "x": "它除了满足好奇心之外用处非常有限——Edwards解释说：“这个模型比ChatGPT背后的模型小数百万倍。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "运行中的SNES版ChatGPT（图片来源：Future）"
+              },
+              {
+                "t": "p",
+                "x": "随《Yoshi's Island》首次亮相的Super FX 2协处理器内置一颗21.47 MHz的RISC CPU，而SNES主CPU是一颗运行频率为2.68 MHz的16位Ricoh 5A22。借助支持Super FX（Wikipedia版本还需支持MSU-1）的烧录卡，该应用也能在真实的SNES上运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Phison pone una NPU y 64GB\nde memoria en un SSD",
-          "body": "En SC26, Phison mostró un SSD con NPU integrada y 64GB de memoria que ejecuta PyTorch y llama.cpp en la propia unidad.",
-          "mini_headline": "El SSD de Phison suma una NPU",
+          "headline": "Una SNES de 35 años ejecuta\nun chatbot de 2.2M parámetros",
+          "body": "Un ChatGPT no oficial para SNES ejecuta un destilado de 2,2 millones de parámetros de gpt-oss-120b.",
+          "mini_headline": "La SNES ejecuta un pequeño chatbot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/c53FixYcJoZsy7PAf8WuxR-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+                "cap": "ChatGPT para SNES (Imagen: Benj Edwards)"
               },
               {
                 "t": "p",
-                "x": "Phison detalló dos nuevos diseños de SSD empresariales en Supercomputer 2026 (SC26): uno con NPU integrada y 64GB de memoria a 130 GB/s que permite ejecutar PyTorch, vLLM, OpenVINO y llama.cpp directamente en la unidad, y otro que combina una caché pSLC rápida con una gran capacidad QLC detrás de un solo controlador. La compañía advierte que “muchos de los productos y funciones mencionados siguen en desarrollo”."
+                "x": "La clásica consola SNES de Nintendo ya tiene su propio chatbot ChatGPT. Por la antigüedad de la plataforma y sus recursos limitados, el (pequeño) modelo de lenguaje es una destilación de 2,2 millones de parámetros (2.2-million-parameter) del GPT-OSS-120b de OpenAI. El bloguero de Vintage Computing Benj Edwards aceleró la capacidad de respuesta del chatbot usando “la mejor GPU de la Super NES, el chip Super FX 2”."
               },
               {
                 "t": "p",
-                "x": "La unidad de almacenamiento computacional ejecuta código de IA sobre los datos donde residen y devuelve resultados en lugar de conjuntos de datos completos, lo que según Phison podría suponer transferir entre 10 y 100 veces menos datos en las cargas de trabajo aplicables. Se espera que la NPU ofrezca “36,800 DMIPS de rendimiento de cómputo”, aunque no se dio ninguna cifra de TOPS ni se explicó cómo accede un host a la capacidad de cómputo de la unidad."
+                "x": "Se puede probar en una página web donde Edwards ha integrado el emulador SNES9x: hay que elegir el modelo de 4MB o uno de 19MB que integra en su base de conocimiento las frases iniciales de 150.000 artículos de la Simple English Wikipedia (almacenadas en el archivo de datos MSU-1 del cartucho)."
               },
               {
                 "t": "p",
-                "x": "La unidad Mixed Media es un componente de 16 canales cuyas regiones pSLC y QLC reciben espacios de nombres separados, por lo que no hacen falta unidades de caché dedicadas; “perder una unidad de 24 supondría una pérdida de caché del 4% en lugar del 25%”, afirma Phison. Kioxia y DapuStor han mostrado diseños similares. De los dos, Mixed Media parece el producto más cercano."
+                "x": "Su utilidad más allá de la curiosidad es muy limitada: Edwards explica que “el modelo es millones de veces más pequeño que los modelos detrás de ChatGPT”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+                "cap": "ChatGPT para SNES en funcionamiento (Imagen: Future)"
+              },
+              {
+                "t": "p",
+                "x": "El coprocesador Super FX 2, que debutó con Yoshi's Island, contiene una CPU RISC de 21,47 MHz, frente a la CPU principal de la SNES, un Ricoh 5A22 de 16 bits a 2,68 MHz. La aplicación también puede ejecutarse en una SNES real con un cartucho flash compatible con Super FX (y con MSU-1 para la versión con Wikipedia)."
               }
             ]
           }
@@ -1341,15 +1239,15 @@
       }
     },
     {
-      "id": "insbotics-pophie-robot",
+      "id": "hyundai-elantra-gleo-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pophie 로봇, 가족을\n기억하고 먼저 말 건다",
-      "body": "InsBotics의 반려 로봇 Pophie는 가족을 기억하고 먼저 말을 건다.",
-      "mini_headline": "먼저 말 거는 Pophie 로봇",
+      "headline": "Elantra Hybrid\n현대 Gleo AI 탑재",
+      "body": "신형 Elantra Hybrid에 Gleo AI와 원페달 주행이 들어갔다.",
+      "mini_headline": "Elantra Hybrid에 Gleo AI",
       "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/20/insbotics-pophie-ai-companion-robot/",
+      "source": "CNET",
+      "url": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1357,221 +1255,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+            "cap": "새 Elantra Hybrid는 일반 사양보다 몇 달 늦게 나올 수 있지만 기다릴 만하다. Hyundai"
           },
           {
             "t": "p",
-            "x": "Pophie는 호출어를 기다리지 않는다. InsBotics가 만든 봉제 인형 모양의 탁상 로봇으로, 방 안을 지켜보다 적절한 순간이다 싶으면 먼저 말을 건다. 이 Proactive Interaction 기능은 월 $20짜리 Pro 요금제에서만 작동한다. 가격은 $399이고 Black Friday 할인이 적용된다."
+            "x": "Hyundai가 LA 오토쇼에서 2027 Elantra 세단과 2028 Elantra Hybrid를 공개했다. 연비를 따지는 소비자라면 이 컴팩트 하이브리드 세단의 목표 연비 53 mpg와, Hyundai의 새 Android Automotive OS-based 대시보드 기술을 제어하는 새 AI 음성 비서 Gleo를 눈여겨볼 만하다."
+          },
+          {
+            "t": "p",
+            "x": "하이브리드는 1.6리터 4기통 엔진과 6단 듀얼 클러치 변속기를 짝지어 155마력을 낸다. 회생 제동도 개선돼 이제 “EV-like 원페달 주행 경험”을 준다. 새 Stay 모드를 켜면 주차 중에도 최대 30분 동안 공조와 인포테인먼트가 돌아간다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+            "cap": "새 대시보드는 계기판을 운전자에게서 멀리, 앞유리 쪽으로 밀어냈다. Antuan Goodwin/CNET"
           },
           {
             "t": "p",
-            "x": "초광각 카메라와 음성 방향을 잡아내는 듀얼 마이크 어레이로 주변을 늘 살피고, 연속형 VAD 감정 모델이 표정을 움직인다. 크기는 5.1×5.7×6.1인치, 무게는 1.9파운드다. TFT LCD 눈 두 개와 스테퍼 모터 다섯 개, 터치 센서 여덟 개가 들어갔다."
+            "x": "Hyundai의 Android Automotive OS-based 인포테인먼트 제품군 Pleos Connect는 12.9인치 중앙 디스플레이에 들어간다. 짝을 이루는 Gleo AI로 운전자와 승객은 차와 대화할 수 있다. Hyundai 설명에 따르면 Gleo AI는 “맥락 기반 언어 지원, 다중 명령 처리, 구역별 인식”을 갖춰 누가 어느 좌석에서 말하는지 차가 알아챈다."
           },
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+            "cap": "Antuan Goodwin/CNET"
           },
           {
             "t": "p",
-            "x": "InsBotics에 따르면 Pophie는 가족과 반려동물의 이름, 누가 누구인지, 무엇을 좋아하는지 기억한다. 목소리와 얼굴로 사람을 구분해 기억도 따로 관리한다. 열한 개 언어를 할 줄 안다. 눈을 감으면 시각 기능은 꺼지지만 음성 대화는 이어진다."
-          },
-          {
-            "t": "p",
-            "x": "모든 Pophie에는 Pro 2개월이 딸려 온다. 그 뒤 무료 요금제는 하루 10분 대화를 허용하고, Standard는 월 $10이다. Kickstarter 캠페인은 1,168명의 후원자에게서 $439,275를 모으고 마감했다."
+            "x": "Hyundai는 가격을 발표하지 않았다. CNET은 2027 Elantra가 2027년 초, 2028 Elantra Hybrid가 2027년 말에 나올 것으로 내다본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pophie robot remembers\nyour family, speaks first",
-          "body": "InsBotics' Pophie is a companion robot designed to remember your family and start conversations unprompted.",
-          "mini_headline": "Pophie robot\nspeaks first",
+          "headline": "Hyundai's new Elantra Hybrid\nbrings Gleo AI to the dash",
+          "body": "The redesigned Elantra Hybrid adds Hyundai's Gleo AI voice assistant and EV-like one-pedal driving, with 53 mpg.",
+          "mini_headline": "Elantra Hybrid gets Gleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "The updated Elantra Hybrid may arrive a few months after the standard spec, but it should be worth the wait. Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophie doesn’t wait for a wake word. InsBotics built this plush desktop robot to watch the room and speak first when the moment looks right — a Proactive Interaction feature that only runs on the $20 a month Pro plan. It sells for $399, with a Black Friday discount."
+                "x": "Hyundai pulled back the cover on the new 2027 Elantra sedan and 2028 Elantra Hybrid at the LA Auto Show. Economy car shoppers will be interested in the compact hybrid sedan's targeted 53 mpg and Gleo, Hyundai's new AI voice assistant that controls the automaker's new Android Automotive OS-based dashboard tech."
+              },
+              {
+                "t": "p",
+                "x": "The hybrid pairs a 1.6-liter four-cylinder engine with a 6-speed dual-clutch gearbox for 155 horsepower, and its updated regenerative braking now offers an “EV-like one-pedal driving experience.” A new Stay mode runs climate and infotainment while parked for up to 30 minutes."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "The new dashboard design pushes the instrument cluster away from the driver and toward the windshield. Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "A super wide-angle camera and dual-mic array with voice-direction sensing give her always-on awareness, and a continuous VAD emotion model drives her expressions. She stands 5.1 by 5.7 by 6.1 inches, weighs 1.9 pounds, and uses two TFT LCD eyes, five stepper motors and eight touch sensors."
+                "x": "Pleos Connect, Hyundai's Android Automotive OS-based infotainment suite, lives on a 12.9-inch center display. It is matched with Gleo AI, which lets drivers and passengers talk to the car; Hyundai says it features “contextual language support, multi-command capability and zone-specific recognition,” so the car knows who's talking and which seat they're in."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "InsBotics says she remembers your people and pets — names, who’s who and what they love — keeping separate memories per person by voice and face. She speaks eleven languages. Closing her eyes turns vision off while voice conversation keeps running."
-              },
-              {
-                "t": "p",
-                "x": "Every Pophie includes two months of Pro; the free plan then allows ten minutes of conversation a day, and Standard costs $10 a month. Her Kickstarter closed at $439,275 from 1,168 backers."
+                "x": "Hyundai did not announce pricing; CNET expects the 2027 Elantra in early 2027, with the 2028 Elantra Hybrid following in late 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pophie 로봇, 가족을\n기억하고 먼저 말 건다",
-          "body": "InsBotics의 반려 로봇 Pophie는 가족을 기억하고 먼저 말을 건다.",
-          "mini_headline": "먼저 말 거는 Pophie 로봇",
+          "headline": "Elantra Hybrid\n현대 Gleo AI 탑재",
+          "body": "신형 Elantra Hybrid에 Gleo AI와 원페달 주행이 들어갔다.",
+          "mini_headline": "Elantra Hybrid에 Gleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "새 Elantra Hybrid는 일반 사양보다 몇 달 늦게 나올 수 있지만 기다릴 만하다. Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophie는 호출어를 기다리지 않는다. InsBotics가 만든 봉제 인형 모양의 탁상 로봇으로, 방 안을 지켜보다 적절한 순간이다 싶으면 먼저 말을 건다. 이 Proactive Interaction 기능은 월 $20짜리 Pro 요금제에서만 작동한다. 가격은 $399이고 Black Friday 할인이 적용된다."
+                "x": "Hyundai가 LA 오토쇼에서 2027 Elantra 세단과 2028 Elantra Hybrid를 공개했다. 연비를 따지는 소비자라면 이 컴팩트 하이브리드 세단의 목표 연비 53 mpg와, Hyundai의 새 Android Automotive OS-based 대시보드 기술을 제어하는 새 AI 음성 비서 Gleo를 눈여겨볼 만하다."
+              },
+              {
+                "t": "p",
+                "x": "하이브리드는 1.6리터 4기통 엔진과 6단 듀얼 클러치 변속기를 짝지어 155마력을 낸다. 회생 제동도 개선돼 이제 “EV-like 원페달 주행 경험”을 준다. 새 Stay 모드를 켜면 주차 중에도 최대 30분 동안 공조와 인포테인먼트가 돌아간다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "새 대시보드는 계기판을 운전자에게서 멀리, 앞유리 쪽으로 밀어냈다. Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "초광각 카메라와 음성 방향을 잡아내는 듀얼 마이크 어레이로 주변을 늘 살피고, 연속형 VAD 감정 모델이 표정을 움직인다. 크기는 5.1×5.7×6.1인치, 무게는 1.9파운드다. TFT LCD 눈 두 개와 스테퍼 모터 다섯 개, 터치 센서 여덟 개가 들어갔다."
+                "x": "Hyundai의 Android Automotive OS-based 인포테인먼트 제품군 Pleos Connect는 12.9인치 중앙 디스플레이에 들어간다. 짝을 이루는 Gleo AI로 운전자와 승객은 차와 대화할 수 있다. Hyundai 설명에 따르면 Gleo AI는 “맥락 기반 언어 지원, 다중 명령 처리, 구역별 인식”을 갖춰 누가 어느 좌석에서 말하는지 차가 알아챈다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "InsBotics에 따르면 Pophie는 가족과 반려동물의 이름, 누가 누구인지, 무엇을 좋아하는지 기억한다. 목소리와 얼굴로 사람을 구분해 기억도 따로 관리한다. 열한 개 언어를 할 줄 안다. 눈을 감으면 시각 기능은 꺼지지만 음성 대화는 이어진다."
-              },
-              {
-                "t": "p",
-                "x": "모든 Pophie에는 Pro 2개월이 딸려 온다. 그 뒤 무료 요금제는 하루 10분 대화를 허용하고, Standard는 월 $10이다. Kickstarter 캠페인은 1,168명의 후원자에게서 $439,275를 모으고 마감했다."
+                "x": "Hyundai는 가격을 발표하지 않았다. CNET은 2027 Elantra가 2027년 초, 2028 Elantra Hybrid가 2027년 말에 나올 것으로 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pophieロボット\n家族を覚え自ら話しかける",
-          "body": "InsBoticsのPophieは、家族を覚えて自分から話しかけるコンパニオンロボットだ。",
-          "mini_headline": "自ら話しかけるPophie",
+          "headline": "Elantra Hybrid\n現代のGleo AIを搭載",
+          "body": "Elantra HybridはGleo AIとワンペダル走行を備え、53 mpgを狙う。",
+          "mini_headline": "Elantra HybridにGleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "新しいElantra Hybridは標準仕様より数カ月遅れて登場する可能性があるが、待つ価値はありそうだ。Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophieはウェイクワードを待たない。InsBoticsが作ったこのぬいぐるみ風の卓上ロボットは、部屋の様子を見守り、ここぞという瞬間に自分から話しかける。このProactive Interaction機能は月額$20のProプランでのみ動作する。価格は$399で、Black Friday割引もある。"
+                "x": "HyundaiはLAオートショーで、新型2027 Elantraセダンと2028 Elantra Hybridを披露した。燃費重視の購入者が注目しそうなのは、このコンパクトハイブリッドセダンの目標燃費53 mpgと、同社の新しいAndroid Automotive OS-basedのダッシュボード技術を操作する新AI音声アシスタントGleoだ。"
+              },
+              {
+                "t": "p",
+                "x": "ハイブリッドは1.6リッター4気筒エンジンと6速デュアルクラッチ変速機を組み合わせて155馬力を発揮し、改良された回生ブレーキは「EV-likeなワンペダル走行体験」を提供する。新しいStayモードは、駐車中に最大30分間、空調とインフォテインメントを作動させる。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "新しいダッシュボードデザインでは、メータークラスターが運転者から離れてフロントガラス側に押し出されている。Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "超広角カメラと音声の方向を感知するデュアルマイクアレイにより常に周囲を認識し、連続型のVAD感情モデルが表情を動かす。サイズは5.1×5.7×6.1インチ、重さは1.9ポンドで、TFT LCDの目2つ、ステッピングモーター5基、タッチセンサー8個を備える。"
+                "x": "HyundaiのAndroid Automotive OS-basedインフォテインメントスイートPleos Connectは、12.9インチのセンターディスプレイに収まる。これと組み合わされるGleo AIにより、ドライバーと同乗者はクルマと会話できる。Hyundaiによれば、Gleo AIは「文脈に応じた言語サポート、マルチコマンド機能、ゾーン別認識」を備え、誰がどの席で話しているかをクルマが把握する。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "InsBoticsによると、Pophieは家族やペットの名前、誰が誰か、何が好きかを覚え、声と顔で人ごとに別々の記憶を保持する。11言語を話す。目を閉じると視覚はオフになるが、音声での会話は続く。"
-              },
-              {
-                "t": "p",
-                "x": "すべてのPophieにはProプラン2か月分が付く。その後、無料プランでは1日10分まで会話でき、Standardは月額$10。Kickstarterでは1,168人の支援者から$439,275を集めて終了した。"
+                "x": "Hyundaiは価格を発表していない。CNETは2027 Elantraを2027年初め、2028 Elantra Hybridを2027年後半に見込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pophie机器人记得\n你的家人还会主动开口",
-          "body": "InsBotics推出的Pophie是一款陪伴机器人，能记住家人并主动发起对话。",
-          "mini_headline": "主动开口的Pophie机器人",
+          "headline": "Elantra Hybrid\n中控搭载现代Gleo AI",
+          "body": "新款Elantra Hybrid加入Gleo AI助手与单踏板驾驶，目标53 mpg。",
+          "mini_headline": "Elantra Hybrid搭载Gleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "新款Elantra Hybrid可能比标准版晚几个月上市，但应该值得等待。Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophie不等唤醒词。InsBotics打造的这款毛绒桌面机器人会观察房间，在时机合适时主动开口——这项Proactive Interaction功能仅在每月$20的Pro方案中运行。它售价$399，并有Black Friday折扣。"
+                "x": "Hyundai在LA车展上发布了全新2027款Elantra轿车和2028款Elantra Hybrid。注重经济性的购车者会对这款紧凑型混动轿车53 mpg的目标油耗感兴趣，也会关注Gleo——Hyundai全新的AI语音助手，用于控制其全新的Android Automotive OS-based仪表台技术。"
+              },
+              {
+                "t": "p",
+                "x": "这款混动车型将1.6升四缸发动机与6速双离合变速箱搭配，输出155马力，升级后的能量回收制动现在可提供“EV-like的单踏板驾驶体验”。新的Stay模式可在停车时让空调和信息娱乐系统运行最多30分钟。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "新的仪表台设计把仪表盘推离驾驶者，移向前挡风玻璃。Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "超广角摄像头和可感知声音方向的双麦克风阵列让她始终感知周围环境，连续VAD情绪模型驱动她的表情。她的尺寸为5.1×5.7×6.1英寸，重1.9磅，配有两只TFT LCD眼睛、五个步进电机和八个触摸传感器。"
+                "x": "Pleos Connect是Hyundai的Android Automotive OS-based信息娱乐套件，搭载于12.9英寸中央显示屏。与之配套的Gleo AI让驾驶者和乘客可以与汽车对话；Hyundai表示，它具备“情境语言支持、多指令能力和分区识别”，因此汽车能知道是谁在说话、坐在哪个座位。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "InsBotics表示，她能记住你的家人和宠物——名字、谁是谁以及他们喜欢什么——并通过声音和面孔为每个人分别保存记忆。她会说十一种语言。闭上眼睛时视觉功能关闭，语音对话则继续进行。"
-              },
-              {
-                "t": "p",
-                "x": "每台Pophie都附带两个月Pro服务；之后免费方案每天可对话十分钟，Standard方案每月$10。她的Kickstarter众筹以1,168名支持者、$439,275的金额结束。"
+                "x": "Hyundai尚未公布价格；CNET预计2027款Elantra将于2027年初推出，2028款Elantra Hybrid则于2027年底跟进。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El robot Pophie recuerda\na tu familia y habla primero",
-          "body": "Pophie, de InsBotics, es un robot de compañía pensado para recordar a tu familia e iniciar conversaciones por sí solo.",
-          "mini_headline": "El robot Pophie habla primero",
+          "headline": "El nuevo Elantra Hybrid lleva\nGleo AI de Hyundai al tablero",
+          "body": "El renovado Elantra Hybrid suma el asistente de voz Gleo AI y una conducción de un pedal EV-like, con 53 mpg.",
+          "mini_headline": "El Elantra Hybrid estrena Gleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "El Elantra Hybrid actualizado podría llegar unos meses después de la versión estándar, pero debería valer la pena la espera. Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophie no espera una palabra de activación. InsBotics creó este robot de escritorio de peluche para observar la habitación y hablar primero cuando el momento parece oportuno, una función llamada Proactive Interaction que solo funciona con el plan Pro de $20 al mes. Se vende por $399, con un descuento de Black Friday."
+                "x": "Hyundai presentó el nuevo sedán Elantra 2027 y el Elantra Hybrid 2028 en el Salón del Automóvil de LA. A quienes buscan un vehículo económico les interesarán los 53 mpg previstos del sedán híbrido compacto y Gleo, el nuevo asistente de voz con IA de Hyundai que controla la nueva tecnología de tablero de la marca, basada en Android Automotive OS (Android Automotive OS-based)."
+              },
+              {
+                "t": "p",
+                "x": "El híbrido combina un motor de cuatro cilindros de 1,6 litros con una caja de doble embrague de 6 velocidades para 155 caballos de fuerza, y su frenado regenerativo actualizado ofrece ahora una “experiencia de conducción de un solo pedal EV-like”. Un nuevo modo Stay mantiene en funcionamiento la climatización y el sistema de infoentretenimiento con el vehículo estacionado durante hasta 30 minutos."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "El nuevo diseño del tablero aleja el cuadro de instrumentos del conductor y lo acerca al parabrisas. Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "Una cámara de gran angular y un conjunto de dos micrófonos que detecta la dirección de la voz le dan una percepción permanente del entorno, y un modelo de emociones VAD continuo controla sus expresiones. Mide 5.1 por 5.7 por 6.1 pulgadas, pesa 1.9 libras y usa dos ojos TFT LCD, cinco motores paso a paso y ocho sensores táctiles."
+                "x": "Pleos Connect, el sistema de infoentretenimiento de Hyundai basado en Android Automotive OS, ocupa una pantalla central de 12,9 pulgadas. Lo acompaña Gleo AI, que permite a conductores y pasajeros hablar con el vehículo; según Hyundai, ofrece “soporte de lenguaje contextual, capacidad multicomando y reconocimiento por zonas”, de modo que el vehículo sabe quién habla y en qué asiento está."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "Según InsBotics, recuerda a tus personas y mascotas —nombres, quién es quién y qué les gusta— y guarda recuerdos separados para cada persona por voz y rostro. Habla once idiomas. Al cerrar los ojos se desactiva la visión, mientras la conversación por voz sigue funcionando."
-              },
-              {
-                "t": "p",
-                "x": "Cada Pophie incluye dos meses de Pro; después, el plan gratuito permite diez minutos de conversación al día, y Standard cuesta $10 al mes. Su campaña de Kickstarter cerró con $439,275 de 1,168 patrocinadores."
+                "x": "Hyundai no anunció precios; CNET prevé el Elantra 2027 a principios de 2027 y el Elantra Hybrid 2028 a finales de 2027."
               }
             ]
           }
@@ -1579,153 +1495,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pophie 로봇, 가족을\n기억하고 먼저 말 건다",
-          "body": "InsBotics의 Pophie는 가족을 기억하고 먼저 말을 거는 반려 로봇이다.",
-          "mini_headline": "먼저 말 거는 Pophie 로봇",
+          "headline": "Elantra Hybrid\n현대 Gleo AI 탑재",
+          "body": "신형 Elantra Hybrid는 Gleo AI와 원페달 주행을 더했다.",
+          "mini_headline": "Elantra Hybrid에 Gleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "새 Elantra Hybrid는 일반 사양보다 몇 달 늦게 나올 수 있지만, 기다릴 만한 가치가 있을 것이다. Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophie는 호출어를 기다리지 않는다. InsBotics가 만든 이 봉제 인형형 탁상 로봇은 방 안을 지켜보다가 적절한 순간이라고 판단하면 먼저 말을 건다. 이 Proactive Interaction 기능은 월 $20인 Pro 요금제에서만 작동한다. 가격은 $399이며 Black Friday 할인이 적용된다."
+                "x": "Hyundai는 LA 오토쇼에서 2027 Elantra 세단과 2028 Elantra Hybrid를 공개했다. 경제적인 차를 찾는 소비자라면 이 컴팩트 하이브리드 세단의 목표 연비 53 mpg와, Hyundai의 새 Android Automotive OS-based 대시보드 기술을 제어하는 새 AI 음성 비서 Gleo에 관심을 가질 만하다."
+              },
+              {
+                "t": "p",
+                "x": "하이브리드는 1.6리터 4기통 엔진에 6단 듀얼 클러치 변속기를 짝지어 155마력을 내며, 개선된 회생 제동은 이제 “EV-like 원페달 주행 경험”을 제공한다. 새 Stay 모드는 주차 중 최대 30분 동안 공조와 인포테인먼트를 작동시킨다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "새 대시보드 디자인은 계기판을 운전자에게서 멀리, 앞유리 쪽으로 밀어냈다. Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "초광각 카메라와 음성 방향을 감지하는 듀얼 마이크 어레이로 주변을 늘 인식하고, 연속형 VAD 감정 모델이 표정을 움직인다. 크기는 5.1×5.7×6.1인치, 무게는 1.9파운드이며, TFT LCD 눈 두 개와 스테퍼 모터 다섯 개, 터치 센서 여덟 개를 갖췄다."
+                "x": "Hyundai의 Android Automotive OS-based 인포테인먼트 제품군 Pleos Connect는 12.9인치 중앙 디스플레이에 자리한다. 여기에 운전자와 승객이 차와 대화할 수 있게 해 주는 Gleo AI가 짝을 이룬다. Hyundai는 Gleo AI가 “맥락 기반 언어 지원, 다중 명령 처리, 구역별 인식”을 갖춰 누가 어느 좌석에서 말하는지 차가 안다고 설명한다."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "InsBotics에 따르면 Pophie는 가족과 반려동물의 이름, 누가 누구인지, 무엇을 좋아하는지를 기억하며, 목소리와 얼굴로 사람마다 기억을 따로 관리한다. 열한 개 언어를 구사한다. 눈을 감으면 시각 기능은 꺼지고 음성 대화는 계속된다."
-              },
-              {
-                "t": "p",
-                "x": "모든 Pophie에는 Pro 2개월이 포함된다. 이후 무료 요금제는 하루 10분 대화를 허용하며, Standard는 월 $10이다. Kickstarter 캠페인은 1,168명의 후원자에게서 $439,275를 모으고 마감했다."
+                "x": "Hyundai는 가격을 발표하지 않았다. CNET은 2027 Elantra가 2027년 초, 2028 Elantra Hybrid가 2027년 말에 나올 것으로 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pophieロボット\n家族を覚え自ら話しかける",
-          "body": "InsBoticsのPophieは、家族を覚えて自分から話しかけるコンパニオンロボットだ。",
-          "mini_headline": "自ら話しかけるPophie",
+          "headline": "Elantra Hybrid\n現代のGleo AIを搭載",
+          "body": "Elantra HybridはGleo AIとワンペダル走行を備え、53 mpgを狙う。",
+          "mini_headline": "Elantra HybridにGleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "新しいElantra Hybridは標準仕様より数カ月遅れて登場する可能性があるが、待つ価値はありそうだ。Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophieはウェイクワードを待たない。InsBoticsが作ったこのぬいぐるみ風の卓上ロボットは、部屋の様子を見守り、ここぞという瞬間に自分から話しかける。このProactive Interaction機能は月額$20のProプランでのみ動作する。価格は$399で、Black Friday割引もある。"
+                "x": "HyundaiはLAオートショーで、新型2027 Elantraセダンと2028 Elantra Hybridを披露した。燃費重視の購入者が注目しそうなのは、このコンパクトハイブリッドセダンの目標燃費53 mpgと、同社の新しいAndroid Automotive OS-basedのダッシュボード技術を操作する新AI音声アシスタントGleoだ。"
+              },
+              {
+                "t": "p",
+                "x": "ハイブリッドは1.6リッター4気筒エンジンと6速デュアルクラッチ変速機を組み合わせて155馬力を発揮し、改良された回生ブレーキは「EV-likeなワンペダル走行体験」を提供する。新しいStayモードは、駐車中に最大30分間、空調とインフォテインメントを作動させる。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "新しいダッシュボードデザインでは、メータークラスターが運転者から離れてフロントガラス側に押し出されている。Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "超広角カメラと音声の方向を感知するデュアルマイクアレイにより常に周囲を認識し、連続型のVAD感情モデルが表情を動かす。サイズは5.1×5.7×6.1インチ、重さは1.9ポンドで、TFT LCDの目2つ、ステッピングモーター5基、タッチセンサー8個を備える。"
+                "x": "HyundaiのAndroid Automotive OS-basedインフォテインメントスイートPleos Connectは、12.9インチのセンターディスプレイに収まる。これと組み合わされるGleo AIにより、ドライバーと同乗者はクルマと会話できる。Hyundaiによれば、Gleo AIは「文脈に応じた言語サポート、マルチコマンド機能、ゾーン別認識」を備え、誰がどの席で話しているかをクルマが把握する。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "InsBoticsによると、Pophieは家族やペットの名前、誰が誰か、何が好きかを覚え、声と顔で人ごとに別々の記憶を保持する。11言語を話す。目を閉じると視覚はオフになるが、音声での会話は続く。"
-              },
-              {
-                "t": "p",
-                "x": "すべてのPophieにはProプラン2か月分が付く。その後、無料プランでは1日10分まで会話でき、Standardは月額$10。Kickstarterでは1,168人の支援者から$439,275を集めて終了した。"
+                "x": "Hyundaiは価格を発表していない。CNETは2027 Elantraを2027年初め、2028 Elantra Hybridを2027年後半に見込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pophie机器人记得\n你的家人还会主动开口",
-          "body": "InsBotics推出的Pophie是一款陪伴机器人，能记住家人并主动发起对话。",
-          "mini_headline": "主动开口的Pophie机器人",
+          "headline": "Elantra Hybrid\n中控搭载现代Gleo AI",
+          "body": "新款Elantra Hybrid加入Gleo AI助手与单踏板驾驶，目标53 mpg。",
+          "mini_headline": "Elantra Hybrid搭载Gleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "新款Elantra Hybrid可能比标准版晚几个月上市，但应该值得等待。Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophie不等唤醒词。InsBotics打造的这款毛绒桌面机器人会观察房间，在时机合适时主动开口——这项Proactive Interaction功能仅在每月$20的Pro方案中运行。它售价$399，并有Black Friday折扣。"
+                "x": "Hyundai在LA车展上发布了全新2027款Elantra轿车和2028款Elantra Hybrid。注重经济性的购车者会对这款紧凑型混动轿车53 mpg的目标油耗感兴趣，也会关注Gleo——Hyundai全新的AI语音助手，用于控制其全新的Android Automotive OS-based仪表台技术。"
+              },
+              {
+                "t": "p",
+                "x": "这款混动车型将1.6升四缸发动机与6速双离合变速箱搭配，输出155马力，升级后的能量回收制动现在可提供“EV-like的单踏板驾驶体验”。新的Stay模式可在停车时让空调和信息娱乐系统运行最多30分钟。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "新的仪表台设计把仪表盘推离驾驶者，移向前挡风玻璃。Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "超广角摄像头和可感知声音方向的双麦克风阵列让她始终感知周围环境，连续VAD情绪模型驱动她的表情。她的尺寸为5.1×5.7×6.1英寸，重1.9磅，配有两只TFT LCD眼睛、五个步进电机和八个触摸传感器。"
+                "x": "Pleos Connect是Hyundai的Android Automotive OS-based信息娱乐套件，搭载于12.9英寸中央显示屏。与之配套的Gleo AI让驾驶者和乘客可以与汽车对话；Hyundai表示，它具备“情境语言支持、多指令能力和分区识别”，因此汽车能知道是谁在说话、坐在哪个座位。"
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "InsBotics表示，她能记住你的家人和宠物——名字、谁是谁以及他们喜欢什么——并通过声音和面孔为每个人分别保存记忆。她会说十一种语言。闭上眼睛时视觉功能关闭，语音对话则继续进行。"
-              },
-              {
-                "t": "p",
-                "x": "每台Pophie都附带两个月Pro服务；之后免费方案每天可对话十分钟，Standard方案每月$10。她的Kickstarter众筹以1,168名支持者、$439,275的金额结束。"
+                "x": "Hyundai尚未公布价格；CNET预计2027款Elantra将于2027年初推出，2028款Elantra Hybrid则于2027年底跟进。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El robot Pophie recuerda\na tu familia y habla primero",
-          "body": "Pophie, de InsBotics, es un robot de compañía pensado para recordar a tu familia e iniciar conversaciones por sí solo.",
-          "mini_headline": "El robot Pophie habla primero",
+          "headline": "El nuevo Elantra Hybrid lleva\nGleo AI de Hyundai al tablero",
+          "body": "El renovado Elantra Hybrid suma el asistente de voz Gleo AI y una conducción de un pedal EV-like, con 53 mpg.",
+          "mini_headline": "El Elantra Hybrid estrena Gleo AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Pophie-A-True-AI-Lifeform.jpeg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+                "cap": "El Elantra Hybrid actualizado podría llegar unos meses después de la versión estándar, pero debería valer la pena la espera. Hyundai"
               },
               {
                 "t": "p",
-                "x": "Pophie no espera una palabra de activación. InsBotics creó este robot de escritorio de peluche para observar la habitación y hablar primero cuando el momento parece oportuno, una función llamada Proactive Interaction que solo funciona con el plan Pro de $20 al mes. Se vende por $399, con un descuento de Black Friday."
+                "x": "Hyundai presentó el nuevo sedán Elantra 2027 y el Elantra Hybrid 2028 en el Salón del Automóvil de LA. A quienes buscan un vehículo económico les interesarán los 53 mpg previstos del sedán híbrido compacto y Gleo, el nuevo asistente de voz con IA de Hyundai que controla la nueva tecnología de tablero de la marca, basada en Android Automotive OS (Android Automotive OS-based)."
+              },
+              {
+                "t": "p",
+                "x": "El híbrido combina un motor de cuatro cilindros de 1,6 litros con una caja de doble embrague de 6 velocidades para 155 caballos de fuerza, y su frenado regenerativo actualizado ofrece ahora una “experiencia de conducción de un solo pedal EV-like”. Un nuevo modo Stay mantiene en funcionamiento la climatización y el sistema de infoentretenimiento con el vehículo estacionado durante hasta 30 minutos."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-living-room.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+                "cap": "El nuevo diseño del tablero aleja el cuadro de instrumentos del conductor y lo acerca al parabrisas. Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "Una cámara de gran angular y un conjunto de dos micrófonos que detecta la dirección de la voz le dan una percepción permanente del entorno, y un modelo de emociones VAD continuo controla sus expresiones. Mide 5.1 por 5.7 por 6.1 pulgadas, pesa 1.9 libras y usa dos ojos TFT LCD, cinco motores paso a paso y ocho sensores táctiles."
+                "x": "Pleos Connect, el sistema de infoentretenimiento de Hyundai basado en Android Automotive OS, ocupa una pantalla central de 12,9 pulgadas. Lo acompaña Gleo AI, que permite a conductores y pasajeros hablar con el vehículo; según Hyundai, ofrece “soporte de lenguaje contextual, capacidad multicomando y reconocimiento por zonas”, de modo que el vehículo sabe quién habla y en qué asiento está."
               },
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/pophie-kitchen.jpg"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+                "cap": "Antuan Goodwin/CNET"
               },
               {
                 "t": "p",
-                "x": "Según InsBotics, recuerda a tus personas y mascotas —nombres, quién es quién y qué les gusta— y guarda recuerdos separados para cada persona por voz y rostro. Habla once idiomas. Al cerrar los ojos se desactiva la visión, mientras la conversación por voz sigue funcionando."
-              },
-              {
-                "t": "p",
-                "x": "Cada Pophie incluye dos meses de Pro; después, el plan gratuito permite diez minutos de conversación al día, y Standard cuesta $10 al mes. Su campaña de Kickstarter cerró con $439,275 de 1,168 patrocinadores."
+                "x": "Hyundai no anunció precios; CNET prevé el Elantra 2027 a principios de 2027 y el Elantra Hybrid 2028 a finales de 2027."
               }
             ]
           }

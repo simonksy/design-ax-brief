@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "games",
   "items": [
     {
-      "title": "Roblox launches creator program for devs to bring games to its platform for free",
-      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-11-17T15:07:20+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Roblox opens a creator program that ports existing mobile, PC and console games to its platform for free, using AI-assisted conversion tools to cut porting cost, with developers keeping IP ownership. Starting with a limited set of developers and games.",
+      "title": "Epic: AI to convert UE5 projects to UE6; Fortnite's 20,000+ Blueprints ported to ~3M lines of Verse by AI; UE 5.9 gets UE6 AI tooling (Python, MCP)",
+      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+      "source": "Unreal Engine (Epic Games)",
+      "published_iso": "2026-11-20T00:00:00Z",
+      "og_image": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn",
+      "excerpt": "Epic's Marcus Wassmer says Blueprints will no longer coexist with Scene Graph in UE6 because AI is expected to make UE5-to-UE6 conversion practical or automatic; Epic used AI to port Fortnite Battle Royale's 20,000+ Blueprints into a ~3M-line Verse prototype, and brings expanded Python scripting and MCP improvements to UE 5.9. Epic says much of UE 5.9 was built with AI agents.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New platform program with direct action for studios: free AI-assisted porting to Roblox, IP retained. GamesIndustry.biz chosen over the Game*Spark version of the same story."
+      "rationale": "Primary-source Epic post that tells every Unreal team how its Blueprint projects will reach UE6 (AI conversion, Fortnite port as proof, Python/MCP in 5.9). This is the most actionable item in the pool."
     },
     {
-      "title": "Stellar Blade: Blood Rain is \"handmade from start to finish\" after AI music video backlash, Shift Up boss says – but, uh, the devs are still using AI",
-      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-11-20T12:17:30Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6-1920-80.jpg",
-      "excerpt": "At G-STAR/G-CON 2026, SHIFT UP CEO Kim Hyung-tae made \"handmade from start to finish\" the studio's new principle for Stellar Blade: Blood Rain after the AI music-video backlash, while saying AI stays essential in development.",
+      "title": "Unite Tokyo 2026 Keynote recap: Unity Neural (neural texture compression), official coding-agent plug-ins for Claude/Codex/Antigravity/Grok, AI Asset Library search",
+      "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+      "source": "Unity Blog",
+      "published_iso": "2026-11-17T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/c434ae876ad1d579e55874528c20ba43bbe9545d-1920x1080.png",
+      "excerpt": "Unity showed Unity Neural, AI-powered rendering tools whose Neural Texture Compression cut the Atrio demo's texture memory by ~30% (experimental in Unity 6.7 LTS, full in Unity 7), official plug-ins for Claude, Codex, Google Antigravity and Grok, an agent-driven prototype demo, and an Asset Library plug-in that finds assets by text prompt.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A major studio sets a public human-made principle after backlash yet keeps AI in the pipeline. Only card from the SHIFT UP cluster (GamesRadar+ chosen over Game*Spark, 아이뉴스24 and 4Gamer)."
+      "rationale": "Primary-source Unity announcement of new tools: Neural Texture Compression with a version roadmap, more official agent plug-ins, and prompt-based asset search. Pairs with the Epic card as this week's engine-side news."
     },
     {
-      "title": "[지스타 2026] 코에이 테크모 \"AI로 품질 검사 효율화…게임의 재미는 사람이\"",
-      "url": "https://www.inews24.com/view/2028436",
-      "source": "아이뉴스24",
-      "published_iso": "2026-11-20T12:06:15+09:00",
-      "og_image": "https://image.inews24.com/v1/261429f860458e.jpg",
-      "excerpt": "Koei Tecmo's Shibata Kohei at G-STAR 2026: AI handles QA and inspection work, and the time saved goes into polish such as frame-by-frame action tuning. He says fun has to be designed by people.",
+      "title": "How HoYoverse Is Keeping Petit Planet's AI NPCs From Harassing Players",
+      "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
+      "source": "GameSpot",
+      "published_iso": "2026-11-17T10:36:49+00:00",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png",
+      "excerpt": "Petit Planet's AI cafe NPC Nalo remembers past conversations; HoYoverse says AI NPCs have preset moral values, refuse toxic or manipulative prompts, escalate to warnings and human intervention, and the AI features are optional via an in-game toggle.",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Concrete studio practice from a major Japanese publisher: AI goes into QA/inspection and the time saved goes into polish. It also brings a Korean outlet into the set."
+      "rationale": "Concrete design pattern for shipping LLM NPCs: preset values, refusal, escalation to humans, and an opt-out toggle. Any designer building AI characters can reuse it."
     },
     {
-      "title": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
-      "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/",
-      "source": "PC Gamer",
-      "published_iso": "2026-11-18T17:49:59Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb-1920-80.jpg",
-      "excerpt": "A former Take-Two executive argues player hostility to AI in games will fade once one breakout title proves its worth, comparing it to Toy Story's role in CG animation.",
+      "title": "'Now, more than ever, it's about design': John Romero loves that games are easier to make but warns 'most are trash'",
+      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+      "source": "Video Games Chronicle",
+      "published_iso": "2026-11-20T10:54:34+00:00",
+      "og_image": "https://www.videogameschronicle.com/files/2024/10/romero.jpg",
+      "excerpt": "John Romero says game-making is easier than ever but most new releases are 'trash', many AI-generated or auto-generated with game-making kits, so design now matters more than ever.",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "An industry veteran's counterpoint to the handmade trend, which frames this week's player-acceptance debate. This is a fresh statement, not a reaction to a story we already ran."
+      "rationale": "A veteran's take on the AI-slop flood that argues design is what sets a game apart. Kept as the single card on this theme over the GamesIndustry.biz Warshaw/E.T. piece."
     },
     {
-      "title": "Principal Venture Partners’ Songyee Yoon on AI-native games, human creativity and gaming’s new rivals | GamesBeat Next 2026",
-      "url": "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/",
-      "source": "GamesBeat",
-      "published_iso": "2026-11-19T18:28:04+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg",
-      "excerpt": "Former NCSoft president Songyee Yoon at GamesBeat Next 2026: AI-native games, where human creativity still matters, and how gaming's playbook will shape the next wave of AI companies.",
+      "title": "\"Making 3D Modeling Easy for Everyone\": Tripo AI Expands Reach to B2C",
+      "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+      "source": "Inven Global",
+      "published_iso": "2026-11-20T06:07:22+00:00",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg",
+      "excerpt": "At G-Star 2026, 3D model generation platform Tripo AI, already widely used by game developers, outlined its push to expand from B2B game-studio use toward everyday consumer creators.",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A separate GamesBeat Next session from the 11-13 AI-native development panel, with a former NCSoft leader's view on AI-native games and creative roles. Fifth distinct outlet."
+      "rationale": "A 3D-asset generation tool that studios already use announces a move into consumer creators at G-Star. It is a different story from the 11-12 Tripothon hackathon card and brings in a fifth outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free": {
+      "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6": {
+        "verdict": "follow-up",
+        "nearest": "https://www.4gamer.net/games/210/G021013/20261104013/",
+        "new_action": "Epic's official 11-20 post announces AI-driven UE5-to-UE6 project conversion, reveals the AI port of Fortnite BR's 20,000+ Blueprints into ~3M lines of Verse, and ships UE6 AI tooling (expanded Python, MCP) in UE 5.9. The 11-05 card only reported Sweeney's keynote plan to drop Blueprints; the 11-20 YouTube Unreal MCP tutorial (history_match) was a how-to video."
+      },
+      "https://unity.com/blog/unite-tokyo-2026-keynote-recap": {
+        "verdict": "follow-up",
+        "nearest": "https://www.youtube.com/watch?v=gobNINSU3JE",
+        "new_action": "Unite Tokyo 2026 announces Unity Neural / Neural Texture Compression (experimental in 6.7 LTS, full in Unity 7), new official Claude/Codex/Grok plug-ins beyond the Antigravity one covered 11-03, and an AI Asset Library prompt-search plug-in."
+      },
+      "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/": {
         "verdict": "new",
-        "nearest": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
+        "nearest": "https://www.inews24.com/view/2019597",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/": {
+      "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
         "new_action": ""
       },
-      "https://www.inews24.com/view/2028436": {
+      "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c": {
         "verdict": "new",
-        "nearest": "https://www.inews24.com/view/2021651",
-        "new_action": ""
-      },
-      "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/": {
-        "verdict": "new",
-        "nearest": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-        "new_action": ""
-      },
-      "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/": {
-        "verdict": "new",
-        "nearest": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
+        "nearest": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
         "new_action": ""
       }
     },
-    "note": "Cluster/brief caps: SHIFT UP 'handmade' cluster limited to 1 (kept GamesRadar+; dropped Game*Spark 175132, 아이뉴스24 2028184 김형태, 4Gamer 김형태×三上); Roblox porting limited to 1 (kept GamesIndustry.biz; dropped Game*Spark 175129). Running-story duplicates dropped: GamesRadar Take-Two CEO calling out Anthropic/OpenAI over AI game clones (reaction to the 11-02 'Anthropic tells Claude to stop remaking video games' card plus the 11-07 GTA 6 AI-clone story; commentary, no new release); GamesRadar Tim Sweeney on Steam AI disclosure being 'unfair' (same running criticism as the 10-24 Sweeney/Steam AI disclosures card). Cross-section caution: 4Gamer Wrtn 'hyper-personalization' G-CON talk not picked because the 11-20 run assigned a Wrtn (Crack IP) story to books, so it could repeat across sections; replaced by GamesBeat Songyee Yoon. Already removed upstream: AUTOMATON Steam AI-disclosure sales analysis. published_urls.json (4.7k lines) was too large to read whole with Read-only tools. The cross-section check relied on the brief's 11-21 assignments (none involve these picks) and the 30-day games history_digest. Diversity: 5 distinct outlets, 1 card each."
+    "note": "Dropped as running-story duplicates: Inven Global 'Unity and OpenAI' interview (an interview about the Unity AI Game Jam already published 11-19 as inven ?news=323546; no new release); Wccftech AMDLSS5 2.5 (version bump of the mod covered 11-12 via PC Gamer; lower priority, not a design-facing change). Theme cap: GamesIndustry.biz Warshaw/E.T. 'AI glut like 1983' dropped in favour of the Romero piece (same commentary theme, 1 card max). Cross-section caution: 4Gamer Wrtn G-CON keynote not picked because a Wrtn story was assigned to books on 11-20. Lower-scored and not picked: Wccftech GTA VI Veyra/Neural Screen (third-party capture trick, weak), ThisIsGame 4-company localization MOU (business agreement), Inven Global legal-experts conference (academic discussion). published_urls.json (4.8k lines) is too large to read whole with Read-only tools, so the all-section exact-grep was NOT run. The cross-section check relied on the 11-22 brief's assignments (none involve these picks) and the 30-day games history_digest. The orchestrator should grep unrealengine.com/news/an-update-on-blueprints, unity.com/blog/unite-tokyo-2026 and 'Petit Planet' across sections before roll. Diversity: 5 distinct outlets, 1 card each (unrealengine.com, unity.com, gamespot.com, videogameschronicle.com, invenglobal.com)."
   }
 }

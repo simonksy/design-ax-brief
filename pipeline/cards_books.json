@@ -1,167 +1,173 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "books",
   "cards": [
     {
-      "id": "pangram-doj-detector",
+      "id": "books-tor-crown-cover",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DOJ, Pangram으로\n변호인 AI 사용 겨냥",
-      "body": "연방 검찰이 변호인 서면을 Pangram에 돌려 AI-text 점수를 법정에 낸다.",
-      "mini_headline": "DOJ, 법정서 Pangram 활용",
+      "headline": "AI-tainted 표지\nTor가 내린다",
+      "body": "AI 요소가 no-AI 조항을 비켜 가자 Tor가 소설 표지를 바꾼다.",
+      "mini_headline": "Tor, AI 표지 교체",
       "tool": "Books",
-      "source": "404 Media",
-      "url": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
+      "source": "Ilona Andrews (author blog)",
+      "url": "https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "This Crown Will Not Rule Me의 표지가 공개되자 독자들 사이에서 AI 생성(AI-generated) 요소가 섞였을 수 있다는 우려가 나왔다. Ilona Andrews는 출판사에 이를 알리고 사람이 그렸다는 증거를 요청했다. “우리 계약서에는 no-AI 조항이 있습니다. Tor도 아트 계약서에 no-AI 조항을 두고 있습니다.”"
+          },
+          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+            "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+            "cap": "Tor의 성명"
           },
           {
             "t": "p",
-            "x": "404 Media가 검토한 법원 제출 문서를 보면 법무부(Department of Justice) 변호사들은 AI 글 탐지 서비스 Pangram 결과를 내세워 상대 변호인이 AI로 법률 주장을 쓴다고 주장한다. 한 사건에서는 상대 변호인이 “ChatGPT 변론(defense by ChatGPT)”을 하며 “AI slop” 서면을 낸다고 법원에 말하기도 했다."
+            "x": "Tor Publishing Group은 표지 그림을 만드는 과정에 생성형 AI가 “Tor도 저자들도 모르는 사이에” 쓰였다고 밝혔다. 최근 공개한 표지는 내리고 이 이미지는 어떤 완성본에도 쓰지 않으며 내부 검토 절차도 강화하겠다고 했다. “분명히 말하지만, 이는 저자들이 아니라 우리의 책임입니다.” Tor는 Instagram 댓글로 문제를 짚어 준 Markova와 Zakuga Art에 공을 돌렸다."
           },
           {
             "t": "p",
-            "x": "정부 측을 비롯한 변호사들은 서로의 AI 사용을 잡아내려 들고, 잡아낸 사용 흔적을 법정 주장에 끌어다 쓴다. 정부 측 변호사들은 “이 사건의 신청 절차는 법을 다루려는 로봇이 생성한 문서에 답변서를 쓰는 것과 같다”고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "사건의 중심 인물은 70세 인도 남성 Khalwinder Bhengura다. 2022년 이민 비자로 U.S.(미국)에 들어온 그는 2024년 시민권자라고 거짓 진술한 뒤 Texas에서 유권자 등록을 했다. 10월 세 가지 혐의 중 두 가지에서 유죄 판결이 났고, 곧 추방될 예정이다."
+            "x": "저자들은 독자들에게 아티스트를 비난하지 말아 달라고 당부했다. “생성형 AI가 매우 정교해졌다”는 것이다. 표지는 출판사가 의뢰했고 스케치도 “전형적인 표지 스케치처럼 보였다”고 했다. 앞으로는 의뢰한 작업마다 프로젝트 파일을 받아 검토할 수도 있다며 “이제 아티스트를 검증하는 것으로는 안 됩니다. 그림 하나하나를 검증해야 합니다”라고 덧붙였다. 한 세로형 드라마 회사와의 계약도 해지했다. 그 회사의 생성형 AI 사용 수준이 자신들의 기준에 맞지 않는다는 걸 알게 돼서다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DOJ turns Pangram AI detector\non defense attorneys",
-          "body": "Federal prosecutors are running defense filings through Pangram and citing its AI-text scores in court.",
-          "mini_headline": "DOJ uses Pangram in court",
+          "headline": "Tor pulls AI-tainted cover\nfrom Ilona Andrews novel",
+          "body": "Tor is replacing the cover of This Crown Will Not Rule Me after AI elements slipped past no-AI clauses.",
+          "mini_headline": "Tor swaps AI cover",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "When the cover of This Crown Will Not Rule Me was released, readers expressed concerns about possible AI-generated elements. Ilona Andrews notified the publisher and asked for proof of human-created art. “We have a no-AI clause in our contract. Tor also has a no-AI clause in their art contracts.”"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Statement from Tor"
               },
               {
                 "t": "p",
-                "x": "Lawyers for the Department of Justice are using the AI writing detection service Pangram to argue that opposing attorneys are using AI to write legal arguments, and in one case told the court that opposing counsel was doing “defense by ChatGPT,” and writing “AI slop” filings, according to court filings reviewed by 404 Media."
+                "x": "Tor Publishing Group says generative AI was used in the creation of the cover art “without the knowledge of either Tor or of the authors.” It is taking down the recently revealed cover, will not use the imagery on any completed books, and will bolster its internal review processes. “To be clear, this is on us, not the authors.” Tor credited Markova and Zakuga Art, whose Instagram comments alerted it to the issue."
               },
               {
                 "t": "p",
-                "x": "The filings show attorneys, including those working for the government, are trying to catch each other using AI, then are citing their opponents’ AI use in their arguments to the court. “Motions practice in this case is the equivalent of writing responses to documents generated by a robot that is attempting to practice law,” government attorneys wrote."
-              },
-              {
-                "t": "p",
-                "x": "The case centers on Khalwinder Bhengura, a 70-year-old Indian man who entered the U.S. on an immigrant visa in 2022 and registered to vote in Texas in 2024 after falsely stating he was a citizen. He was found guilty in October on two of three counts and is set to be deported."
+                "x": "The authors asked readers not to flame the artist. “The generative AI has gotten very sophisticated,” they wrote; the cover was commissioned by the publisher and the sketch “looked like a typical cover sketch.” They may request project files for review of all commissioned work going forward: “We can no longer vet the artist. We have to vet every individual painting.” They also terminated a contract with a vertical drama company after realizing its level of generative AI use did not align with their preferences."
               }
             ]
           }
         },
         "ko": {
-          "headline": "DOJ, Pangram으로\n변호인 AI 사용 겨냥",
-          "body": "연방 검찰이 변호인 서면을 Pangram에 돌려 AI-text 점수를 법정에 낸다.",
-          "mini_headline": "DOJ, 법정서 Pangram 활용",
+          "headline": "AI-tainted 표지\nTor가 내린다",
+          "body": "AI 요소가 no-AI 조항을 비켜 가자 Tor가 소설 표지를 바꾼다.",
+          "mini_headline": "Tor, AI 표지 교체",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "This Crown Will Not Rule Me의 표지가 공개되자 독자들 사이에서 AI 생성(AI-generated) 요소가 섞였을 수 있다는 우려가 나왔다. Ilona Andrews는 출판사에 이를 알리고 사람이 그렸다는 증거를 요청했다. “우리 계약서에는 no-AI 조항이 있습니다. Tor도 아트 계약서에 no-AI 조항을 두고 있습니다.”"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Tor의 성명"
               },
               {
                 "t": "p",
-                "x": "404 Media가 검토한 법원 제출 문서를 보면 법무부(Department of Justice) 변호사들은 AI 글 탐지 서비스 Pangram 결과를 내세워 상대 변호인이 AI로 법률 주장을 쓴다고 주장한다. 한 사건에서는 상대 변호인이 “ChatGPT 변론(defense by ChatGPT)”을 하며 “AI slop” 서면을 낸다고 법원에 말하기도 했다."
+                "x": "Tor Publishing Group은 표지 그림을 만드는 과정에 생성형 AI가 “Tor도 저자들도 모르는 사이에” 쓰였다고 밝혔다. 최근 공개한 표지는 내리고 이 이미지는 어떤 완성본에도 쓰지 않으며 내부 검토 절차도 강화하겠다고 했다. “분명히 말하지만, 이는 저자들이 아니라 우리의 책임입니다.” Tor는 Instagram 댓글로 문제를 짚어 준 Markova와 Zakuga Art에 공을 돌렸다."
               },
               {
                 "t": "p",
-                "x": "정부 측을 비롯한 변호사들은 서로의 AI 사용을 잡아내려 들고, 잡아낸 사용 흔적을 법정 주장에 끌어다 쓴다. 정부 측 변호사들은 “이 사건의 신청 절차는 법을 다루려는 로봇이 생성한 문서에 답변서를 쓰는 것과 같다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "사건의 중심 인물은 70세 인도 남성 Khalwinder Bhengura다. 2022년 이민 비자로 U.S.(미국)에 들어온 그는 2024년 시민권자라고 거짓 진술한 뒤 Texas에서 유권자 등록을 했다. 10월 세 가지 혐의 중 두 가지에서 유죄 판결이 났고, 곧 추방될 예정이다."
+                "x": "저자들은 독자들에게 아티스트를 비난하지 말아 달라고 당부했다. “생성형 AI가 매우 정교해졌다”는 것이다. 표지는 출판사가 의뢰했고 스케치도 “전형적인 표지 스케치처럼 보였다”고 했다. 앞으로는 의뢰한 작업마다 프로젝트 파일을 받아 검토할 수도 있다며 “이제 아티스트를 검증하는 것으로는 안 됩니다. 그림 하나하나를 검증해야 합니다”라고 덧붙였다. 한 세로형 드라마 회사와의 계약도 해지했다. 그 회사의 생성형 AI 사용 수준이 자신들의 기준에 맞지 않는다는 걸 알게 돼서다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DOJ、Pangramで\n弁護側のAI使用を追及",
-          "body": "連邦検察が弁護側書面をPangramにかけ、AI-textスコアを法廷で引用している。",
-          "mini_headline": "DOJ、法廷でPangram活用",
+          "headline": "Tor、Andrews作の\nAI-tainted表紙撤回",
+          "body": "no-AI条項をすり抜けたAI要素を受け、Torが小説の表紙を差し替える。",
+          "mini_headline": "Tor、AI表紙を差し替え",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "This Crown Will Not Rule Meの表紙が公開されると、読者からAI生成（AI-generated）の要素が含まれているのではないかと懸念する声が上がった。Ilona Andrewsは出版社に知らせ、人間が制作したアートである証拠を求めた。「私たちの契約にはno-AI条項がある。Torもアート契約にno-AI条項を設けている」"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Torの声明"
               },
               {
                 "t": "p",
-                "x": "404 Mediaが確認した裁判資料によると、司法省（Department of Justice）の弁護士らはAI文章検出サービスPangramを使い、相手方弁護士がAIで法的主張を書いていると主張している。ある事件では、相手方が「ChatGPTによる弁護（defense by ChatGPT）」を行い、「AI slop」の書面を出していると法廷で述べた。"
+                "x": "Tor Publishing Groupによると、表紙アートの制作には「Torも著者も知らないうちに」生成AIが使われていた。同社は先日公開した表紙を取り下げ、完成した本にはこの画像を一切使わず、社内の審査手続きを強化するという。「はっきり言えば、これは著者ではなく私たちの責任だ」。TorはInstagramのコメントで問題を知らせたMarkovaとZakuga Artの功績を認めた。"
               },
               {
                 "t": "p",
-                "x": "資料からは、政府側を含む弁護士が互いのAI使用を見抜こうとし、相手のAI使用を法廷での主張に引用している様子がうかがえる。政府側弁護士は「本件の申立て手続きは、法律実務をこなそうとするロボットが生成した文書に答弁を書くに等しい」と記した。"
-              },
-              {
-                "t": "p",
-                "x": "事件の中心は70歳のインド人男性Khalwinder Bhenguraである。2022年に移民ビザでU.S.（米国）に入国し、2024年に市民だと偽ってTexasで有権者登録をした。10月に三つの罪状のうち二つで有罪となり、国外退去となる予定だ。"
+                "x": "著者らは読者に、アーティストを攻撃しないよう求めた。「生成AIは非常に巧妙になった」と彼らは書いている。表紙は出版社が発注したもので、スケッチも「よくある表紙のスケッチに見えた」という。今後は発注したすべての作品を確認するため、プロジェクトファイルを求める可能性があるとし、「もはやアーティストを審査するだけでは足りない。すべての絵を個別に審査しなければならない」と述べた。また、ある縦型ドラマ会社の生成AIの使用度合いが自分たちの方針に合わないと分かり、同社との契約を解消した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DOJ用Pangram\n检测辩护律师的AI使用",
-          "body": "联邦检察官用Pangram检测辩方文件，并在法庭上引用其AI-text评分。",
-          "mini_headline": "DOJ在法庭使用Pangram",
+          "headline": "Tor撤下Andrews书的\nAI-tainted封面",
+          "body": "AI元素绕过no-AI条款，Tor将更换Ilona Andrews小说的封面。",
+          "mini_headline": "Tor更换AI封面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "This Crown Will Not Rule Me的封面公布后，读者担心其中可能含有AI生成（AI-generated）元素。Ilona Andrews通知了出版社，并要求对方提供由人类创作的证明。“我们的合同里有no-AI条款。Tor的美术合同里也有no-AI条款。”"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Tor的声明"
               },
               {
                 "t": "p",
-                "x": "据404 Media查阅的法庭文件，司法部（Department of Justice）的律师正借助AI写作检测服务Pangram，指称对方律师用AI撰写法律论点；在一起案件中，他们向法庭称对方律师在搞“ChatGPT辩护”（defense by ChatGPT），提交的是“AI slop”文书。"
+                "x": "Tor Publishing Group表示，封面美术的创作使用了生成式AI，而这“Tor和作者都不知情”。该公司将撤下最近公布的封面，不会在任何已完成的书上使用这些图像，并将加强内部审核流程。“需要说明的是，责任在我们，而不在作者。”Tor感谢Markova和Zakuga Art，正是她们在Instagram上的评论提醒了这一问题。"
               },
               {
                 "t": "p",
-                "x": "文件显示，包括政府律师在内的律师们试图抓住彼此使用AI的把柄，再在向法庭提出的论点中援引对手的AI使用。政府律师写道：“本案的动议程序，相当于为一台试图从事法律工作的机器人生成的文件撰写回应。”"
-              },
-              {
-                "t": "p",
-                "x": "案件主角是70岁的印度男子Khalwinder Bhengura，他于2022年持移民签证进入U.S.（美国），2024年谎称自己是公民后在Texas登记为选民。他在10月被裁定三项罪名中的两项成立，即将被驱逐出境。"
+                "x": "作者们请读者不要攻击这位画师。他们写道：“生成式AI已经变得非常精巧。”封面由出版社委托绘制，草图“看起来就像一张普通的封面草图”。今后他们可能会要求查看项目文件，以审核所有委托作品：“我们已经不能只审核画师了，必须审核每一幅画。”他们还在发现一家竖屏短剧公司使用生成式AI的程度与自己的偏好不符后，终止了与该公司的合同。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El DOJ usa el detector Pangram\ncontra abogados defensores",
-          "body": "Fiscales federales pasan escritos de la defensa por Pangram y citan en el tribunal sus puntuaciones de AI-text.",
-          "mini_headline": "El DOJ usa Pangram en tribunales",
+          "headline": "Tor retira la portada AI-tainted\nde la novela de Ilona Andrews",
+          "body": "Tor reemplaza la portada de This Crown Will Not Rule Me después de que elementos de AI eludieran las cláusulas no-AI.",
+          "mini_headline": "Tor cambia la portada con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Cuando se presentó la portada de This Crown Will Not Rule Me, los lectores expresaron su preocupación por posibles elementos AI-generated, es decir, generados por inteligencia artificial. Ilona Andrews avisó a la editorial y pidió pruebas de que el arte había sido creado por personas. “Tenemos una cláusula no-AI en nuestro contrato. Tor también tiene una cláusula no-AI en sus contratos de arte”."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Comunicado de Tor"
               },
               {
                 "t": "p",
-                "x": "Abogados del Departamento de Justicia (Department of Justice) usan el servicio de detección de escritura con IA Pangram para argumentar que los abogados contrarios redactan sus argumentos legales con IA, y en un caso dijeron al tribunal que la defensa practicaba una “defensa por ChatGPT” y presentaba escritos de “AI slop”, según documentos judiciales revisados por 404 Media."
+                "x": "Tor Publishing Group afirma que se usó AI generativa en la creación de la ilustración de portada “sin el conocimiento ni de Tor ni de los autores”. Retirará la portada presentada recientemente, no usará esas imágenes en ningún libro terminado y reforzará sus procesos internos de revisión. “Para que quede claro, la responsabilidad es nuestra, no de los autores”. Tor reconoció a Markova y Zakuga Art, cuyos comentarios en Instagram le alertaron del problema."
               },
               {
                 "t": "p",
-                "x": "Los documentos muestran que abogados, incluidos los que trabajan para el gobierno, intentan descubrirse unos a otros usando IA y luego citan ese uso en sus argumentos ante el tribunal. “La práctica de mociones en este caso equivale a responder documentos generados por un robot que intenta ejercer el derecho”, escribieron los abogados del gobierno."
-              },
-              {
-                "t": "p",
-                "x": "El caso gira en torno a Khalwinder Bhengura, un hombre indio de 70 años que entró en U.S. (Estados Unidos) con una visa de inmigrante en 2022 y se registró para votar en Texas en 2024 tras declarar falsamente que era ciudadano. En octubre fue declarado culpable de dos de tres cargos y será deportado."
+                "x": "Los autores pidieron a los lectores que no atacaran al artista. “La AI generativa se ha vuelto muy sofisticada”, escribieron; la portada fue encargada por la editorial y el boceto “parecía un boceto de portada típico”. En adelante podrían solicitar los archivos de proyecto para revisar todo el trabajo encargado: “Ya no podemos limitarnos a evaluar al artista. Tenemos que evaluar cada pintura por separado”. También rescindieron un contrato con una empresa de dramas verticales tras darse cuenta de que su nivel de uso de AI generativa no se ajustaba a sus preferencias."
               }
             ]
           }
@@ -169,105 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "DOJ, Pangram으로\n변호인 AI 사용 겨냥",
-          "body": "연방 검찰이 변호인 서면을 Pangram에 돌려 AI-text 점수를 법정에 낸다.",
-          "mini_headline": "DOJ, 법정서 Pangram 활용",
+          "headline": "AI-tainted 표지\nTor가 내린다",
+          "body": "AI 요소가 no-AI 조항을 비켜 가자 Tor가 소설 표지를 교체한다.",
+          "mini_headline": "Tor, AI 표지 교체",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "This Crown Will Not Rule Me의 표지가 공개되자 독자들은 AI 생성(AI-generated) 요소가 있을 수 있다는 우려를 나타냈다. Ilona Andrews는 출판사에 이를 알리고 사람이 만든 그림이라는 증거를 요청했다. “우리 계약서에는 no-AI 조항이 있습니다. Tor도 아트 계약서에 no-AI 조항을 두고 있습니다.”"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Tor의 성명"
               },
               {
                 "t": "p",
-                "x": "404 Media가 검토한 법원 제출 문서에 따르면, 법무부(Department of Justice) 소속 변호사들이 AI 글 탐지 서비스 Pangram을 근거로 상대 변호인이 AI로 법률 주장을 쓴다고 주장하고 있다. 한 사건에서는 상대 변호인이 “ChatGPT 변론(defense by ChatGPT)”을 하고 “AI slop” 서면을 낸다고 법원에 말하기도 했다."
+                "x": "Tor Publishing Group은 표지 그림 제작에 생성형 AI가 “Tor도 저자들도 모르는 사이에” 쓰였다고 밝혔다. 최근 공개한 표지를 내리고, 완성된 어떤 책에도 이 이미지를 쓰지 않으며, 내부 검토 절차를 강화하겠다고 했다. “분명히 말하지만, 이는 저자들이 아니라 우리의 책임입니다.” Tor는 Instagram 댓글로 문제를 알려 준 Markova와 Zakuga Art에 공을 돌렸다."
               },
               {
                 "t": "p",
-                "x": "문서를 보면 정부 측을 포함한 변호사들이 서로의 AI 사용을 잡아내려 하고, 상대의 AI 사용을 법정 주장에 인용한다. 정부 측 변호사들은 “이 사건의 신청 절차는 법을 다루려는 로봇이 생성한 문서에 답변서를 쓰는 것과 같다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "사건의 중심에는 70세 인도 남성 Khalwinder Bhengura가 있다. 그는 2022년 이민 비자로 U.S.(미국)에 입국했고, 2024년 시민권자라고 허위로 진술한 뒤 Texas에서 유권자 등록을 했다. 그는 10월 세 가지 혐의 중 두 가지에서 유죄 판결을 받았고 추방될 예정이다."
+                "x": "저자들은 독자들에게 아티스트를 비난하지 말아 달라고 당부했다. 이들은 “생성형 AI가 매우 정교해졌다”고 썼다. 표지는 출판사가 의뢰했고 스케치도 “전형적인 표지 스케치처럼 보였다”는 것이다. 앞으로는 의뢰한 모든 작업을 검토하기 위해 프로젝트 파일을 요청할 수도 있다며 “이제 아티스트를 검증하는 것으로는 안 됩니다. 그림 하나하나를 검증해야 합니다”라고 했다. 이들은 또 한 세로형 드라마 회사의 생성형 AI 사용 수준이 자신들의 기준과 맞지 않는다는 것을 알고 그 회사와의 계약을 해지했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DOJ、Pangramで\n弁護側のAI使用を追及",
-          "body": "連邦検察が弁護側書面をPangramにかけ、AI-textスコアを法廷で引用している。",
-          "mini_headline": "DOJ、法廷でPangram活用",
+          "headline": "Tor、Andrews作の\nAI-tainted表紙撤回",
+          "body": "no-AI条項をすり抜けたAI要素を受け、Torが小説の表紙を差し替える。",
+          "mini_headline": "Tor、AI表紙を差し替え",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "This Crown Will Not Rule Meの表紙が公開されると、読者からAI生成（AI-generated）の要素が含まれているのではないかと懸念する声が上がった。Ilona Andrewsは出版社に知らせ、人間が制作したアートである証拠を求めた。「私たちの契約にはno-AI条項がある。Torもアート契約にno-AI条項を設けている」"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Torの声明"
               },
               {
                 "t": "p",
-                "x": "404 Mediaが確認した裁判資料によると、司法省（Department of Justice）の弁護士らはAI文章検出サービスPangramを使い、相手方弁護士がAIで法的主張を書いていると主張している。ある事件では、相手方が「ChatGPTによる弁護（defense by ChatGPT）」を行い、「AI slop」の書面を出していると法廷で述べた。"
+                "x": "Tor Publishing Groupによると、表紙アートの制作には「Torも著者も知らないうちに」生成AIが使われていた。同社は先日公開した表紙を取り下げ、完成した本にはこの画像を一切使わず、社内の審査手続きを強化するという。「はっきり言えば、これは著者ではなく私たちの責任だ」。TorはInstagramのコメントで問題を知らせたMarkovaとZakuga Artの功績を認めた。"
               },
               {
                 "t": "p",
-                "x": "資料からは、政府側を含む弁護士が互いのAI使用を見抜こうとし、相手のAI使用を法廷での主張に引用している様子がうかがえる。政府側弁護士は「本件の申立て手続きは、法律実務をこなそうとするロボットが生成した文書に答弁を書くに等しい」と記した。"
-              },
-              {
-                "t": "p",
-                "x": "事件の中心は70歳のインド人男性Khalwinder Bhenguraである。2022年に移民ビザでU.S.（米国）に入国し、2024年に市民だと偽ってTexasで有権者登録をした。10月に三つの罪状のうち二つで有罪となり、国外退去となる予定だ。"
+                "x": "著者らは読者に、アーティストを攻撃しないよう求めた。「生成AIは非常に巧妙になった」と彼らは書いている。表紙は出版社が発注したもので、スケッチも「よくある表紙のスケッチに見えた」という。今後は発注したすべての作品を確認するため、プロジェクトファイルを求める可能性があるとし、「もはやアーティストを審査するだけでは足りない。すべての絵を個別に審査しなければならない」と述べた。また、ある縦型ドラマ会社の生成AIの使用度合いが自分たちの方針に合わないと分かり、同社との契約を解消した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DOJ用Pangram\n检测辩护律师的AI使用",
-          "body": "联邦检察官用Pangram检测辩方文件，并在法庭上引用其AI-text评分。",
-          "mini_headline": "DOJ在法庭使用Pangram",
+          "headline": "Tor撤下Andrews书的\nAI-tainted封面",
+          "body": "AI元素绕过no-AI条款，Tor将更换Ilona Andrews小说的封面。",
+          "mini_headline": "Tor更换AI封面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "This Crown Will Not Rule Me的封面公布后，读者担心其中可能含有AI生成（AI-generated）元素。Ilona Andrews通知了出版社，并要求对方提供由人类创作的证明。“我们的合同里有no-AI条款。Tor的美术合同里也有no-AI条款。”"
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Tor的声明"
               },
               {
                 "t": "p",
-                "x": "据404 Media查阅的法庭文件，司法部（Department of Justice）的律师正借助AI写作检测服务Pangram，指称对方律师用AI撰写法律论点；在一起案件中，他们向法庭称对方律师在搞“ChatGPT辩护”（defense by ChatGPT），提交的是“AI slop”文书。"
+                "x": "Tor Publishing Group表示，封面美术的创作使用了生成式AI，而这“Tor和作者都不知情”。该公司将撤下最近公布的封面，不会在任何已完成的书上使用这些图像，并将加强内部审核流程。“需要说明的是，责任在我们，而不在作者。”Tor感谢Markova和Zakuga Art，正是她们在Instagram上的评论提醒了这一问题。"
               },
               {
                 "t": "p",
-                "x": "文件显示，包括政府律师在内的律师们试图抓住彼此使用AI的把柄，再在向法庭提出的论点中援引对手的AI使用。政府律师写道：“本案的动议程序，相当于为一台试图从事法律工作的机器人生成的文件撰写回应。”"
-              },
-              {
-                "t": "p",
-                "x": "案件主角是70岁的印度男子Khalwinder Bhengura，他于2022年持移民签证进入U.S.（美国），2024年谎称自己是公民后在Texas登记为选民。他在10月被裁定三项罪名中的两项成立，即将被驱逐出境。"
+                "x": "作者们请读者不要攻击这位画师。他们写道：“生成式AI已经变得非常精巧。”封面由出版社委托绘制，草图“看起来就像一张普通的封面草图”。今后他们可能会要求查看项目文件，以审核所有委托作品：“我们已经不能只审核画师了，必须审核每一幅画。”他们还在发现一家竖屏短剧公司使用生成式AI的程度与自己的偏好不符后，终止了与该公司的合同。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El DOJ usa el detector Pangram\ncontra abogados defensores",
-          "body": "Fiscales federales pasan escritos de la defensa por Pangram y citan en el tribunal sus puntuaciones de AI-text.",
-          "mini_headline": "El DOJ usa Pangram en tribunales",
+          "headline": "Tor retira la portada AI-tainted\nde la novela de Ilona Andrews",
+          "body": "Tor reemplaza la portada de This Crown Will Not Rule Me después de que elementos de AI eludieran las cláusulas no-AI.",
+          "mini_headline": "Tor cambia la portada con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Cuando se presentó la portada de This Crown Will Not Rule Me, los lectores expresaron su preocupación por posibles elementos AI-generated, es decir, generados por inteligencia artificial. Ilona Andrews avisó a la editorial y pidió pruebas de que el arte había sido creado por personas. “Tenemos una cláusula no-AI en nuestro contrato. Tor también tiene una cláusula no-AI en sus contratos de arte”."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+                "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
+                "cap": "Comunicado de Tor"
               },
               {
                 "t": "p",
-                "x": "Abogados del Departamento de Justicia (Department of Justice) usan el servicio de detección de escritura con IA Pangram para argumentar que los abogados contrarios redactan sus argumentos legales con IA, y en un caso dijeron al tribunal que la defensa practicaba una “defensa por ChatGPT” y presentaba escritos de “AI slop”, según documentos judiciales revisados por 404 Media."
+                "x": "Tor Publishing Group afirma que se usó AI generativa en la creación de la ilustración de portada “sin el conocimiento ni de Tor ni de los autores”. Retirará la portada presentada recientemente, no usará esas imágenes en ningún libro terminado y reforzará sus procesos internos de revisión. “Para que quede claro, la responsabilidad es nuestra, no de los autores”. Tor reconoció a Markova y Zakuga Art, cuyos comentarios en Instagram le alertaron del problema."
               },
               {
                 "t": "p",
-                "x": "Los documentos muestran que abogados, incluidos los que trabajan para el gobierno, intentan descubrirse unos a otros usando IA y luego citan ese uso en sus argumentos ante el tribunal. “La práctica de mociones en este caso equivale a responder documentos generados por un robot que intenta ejercer el derecho”, escribieron los abogados del gobierno."
-              },
-              {
-                "t": "p",
-                "x": "El caso gira en torno a Khalwinder Bhengura, un hombre indio de 70 años que entró en U.S. (Estados Unidos) con una visa de inmigrante en 2022 y se registró para votar en Texas en 2024 tras declarar falsamente que era ciudadano. En octubre fue declarado culpable de dos de tres cargos y será deportado."
+                "x": "Los autores pidieron a los lectores que no atacaran al artista. “La AI generativa se ha vuelto muy sofisticada”, escribieron; la portada fue encargada por la editorial y el boceto “parecía un boceto de portada típico”. En adelante podrían solicitar los archivos de proyecto para revisar todo el trabajo encargado: “Ya no podemos limitarnos a evaluar al artista. Tenemos que evaluar cada pintura por separado”. También rescindieron un contrato con una empresa de dramas verticales tras darse cuenta de que su nivel de uso de AI generativa no se ajustaba a sus preferencias."
               }
             ]
           }
@@ -275,15 +285,15 @@
       }
     },
     {
-      "id": "ganjoor-claude-poetry",
+      "id": "books-carlson-selfhelp-suit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude, 페르시아 시\n1,000년을 풀다",
-      "body": "Arman Nejad가 Claude로 시 160만여 구절에 현대어 해설을 달았다.",
-      "mini_headline": "Claude, 페르시아 시 주해",
+      "headline": "Anthropic·Meta\nCarlson 측이 제소",
+      "body": "Carlson LLC가 Bartz 합의 대신 자기계발서 AI 학습 소송을 냈다.",
+      "mini_headline": "Carlson, Anthropic·Meta 제소",
       "tool": "Books",
-      "source": "Iran International",
-      "url": "https://www.iranintl.com/en/202611205164",
+      "source": "VitalLaw (Wolters Kluwer)",
+      "url": "https://www.vitallaw.com/news/copyright-news-anthropic-and-meta-self-helped-themselves-to-ai-training-materials-new-lawsuit-asserts/ipm01eea3882904794aa786ea89a4f8e8a780",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -291,269 +301,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-            "cap": "투란의 왕 Afrasiyab가 지켜보는 가운데 Siyavush가 폴로를 하는 장면. Shah Tahmasp 소장본 Ferdowsi의 『Shahnameh』에서. (The Metropolitan Museum of Art, 퍼블릭 도메인)"
+            "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
           },
           {
             "t": "p",
-            "x": "토론토(Toronto)에 사는 이란 출신 소프트웨어 엔지니어 Arman Nejad가 Claude로 페르시아 2행시 160만여 구절을 현대 페르시아어(modern-Persian)로 풀었다. 대상은 인기 있는 무료 온라인 페르시아 시 도서관 Ganjoor에 실린 시들이다. 이전에 AI가 만든(AI-generated) 해설은 여성 이름 Delaray를 “dollar”라는 단어로 잘못 읽기도 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-            "cap": "Ganjoor의 옛 AI 해설이 이름 Delaray를 “dollar”로 읽은 일을 비꼰 X의 페르시아어 게시물."
+            "x": "Don't Sweat the Small Stuff 시리즈의 저작권자가 AI 거대 기업들과의 싸움에 뛰어들었다. 새로 제기된 연방 소송에 따르면 Anthropic과 Meta는 자기계발서 두 다스 이상을 무단으로 가져다 자사 인공지능 모델 학습에 썼다(Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
           },
           {
             "t": "p",
-            "x": "Nejad가 11월 9일 X에 도움을 청하자 mana.space와 zharf.ai가 크레딧을 내놓았다. 11월 16일까지 Rudaki부터 Shahriar까지 시인 245명 전원의 새 해설을 마쳤고, Ganjoor는 결과물을 웹사이트와 공개 데이터 저장소에 올렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-            "cap": "80문항 Konkour 시험지 정확도. Claude Opus 5.5(medium)와 Gemini 3.8 Flash(highest)가 80문항 중 74문항을 맞혀 동률을 이뤘다."
+            "x": "Carlson LLC는 R. Carlson과 K. Carlson 작품의 저작권을 등록한 권리자다. R. Carlson이 1997년에 낸 책은 New York Times 베스트셀러 목록에 100주 넘게 올랐다. 소장에 따르면 두 회사는 Books3, Anna's Archive 같은 해적 도서관에서 학습 자료를 긁어모으고 실물 책도 허락 없이 스캔했다."
           },
           {
             "t": "p",
-            "x": "Nejad는 모델을 고를 때 이란 대입 시험 Konkour를 썼다. 문학 30문항에서 Claude가 27문항을 맞혀 1위였다. 작업에는 요청 약 155,000건, 토큰 5억 6,600만 개, 비용 약 3,100달러가 들었다. 무작위로 뽑은 2행시 500구절을 검토해 보니 새 해설이 413건, 옛 해설이 네 건에서 더 낫다는 평가가 나왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-            "cap": "Nezami의 『Haft Peykar』를 바로잡은 해석을 AI로 그린 삽화."
-          },
-          {
-            "t": "p",
-            "x": "“Sudi는 Hafez를 주해했다.” Nejad는 이렇게 썼다. “2026년, 우리는 모든 시인을 주해했다.”"
+            "x": "Carlson은 Anthropic과의 Bartz 집단소송 합의에서 빠지며 이 책들이 “집단 내 다른 작품보다 더 가치가 있다”고 주장했다. 이번 소송은 Anthropic과 Meta를 한 소장에 함께 묶었다. 하지만 Northern District of California 판사 두 명은 여러 AI 기업을 공동 피고로 묶으려는 시도를 이미 기각한 바 있다. 피고들은 아직 병합에 이의를 제기하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claude explains 1,000 years\nof Persian poetry",
-          "body": "Toronto engineer Arman Nejad used Claude to write modern-Persian notes for over 1.6 million couplets on Ganjoor.",
-          "mini_headline": "Claude annotates Persian poetry",
+          "headline": "Carlson rights holder sues\nAnthropic and Meta",
+          "body": "Opting out of the Bartz settlement, Carlson LLC alleges over two dozen self-help books were used to train AI.",
+          "mini_headline": "Carlson sues Anthropic, Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "Siyavush plays polo as the Turanian king Afrasiyab watches, from Shah Tahmasp’s copy of Ferdowsi’s Shahnameh. (The Metropolitan Museum of Art, public domain)"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "A Toronto-based Iranian software engineer, Arman Nejad, has used Claude to explain more than 1.6 million Persian couplets in modern Persian on Ganjoor, a popular free online library of Persian poetry. An earlier AI-generated note had mistaken Delaray, a woman’s name, for the word “dollar.”"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "A Persian-language post on X mocks Ganjoor's earlier AI-generated note, which read the name Delaray as the word \"dollar\"."
+                "x": "Copyright owner of the Don't Sweat the Small Stuff series of books is the latest to take on the AI heavyweights. Anthropic and Meta allegedly helped themselves to over two dozen books in the self-improvement genre and have used them to train their artificial intelligence models, a new federal lawsuit asserts (Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
               },
               {
                 "t": "p",
-                "x": "On November 9 Nejad appealed for help on X; mana.space and zharf.ai donated credits. By November 16 he had finished new notes for all 245 poets, from Rudaki to Shahriar. Ganjoor has published them on its website and public data repository."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "Accuracy on the 80-question Konkour exam booklet. Claude Opus 5.5 (medium) and Gemini 3.8 Flash (highest) tied at 74 of 80."
+                "x": "Carlson LLC is the registered copyright owner of works by R. and K. Carlson. R. Carlson's 1997 book spent more than 100 weeks on the New York Times bestseller list. The complaint asserts each company harvested training materials from pirate libraries like Books3 and Anna's Archive, and acquired materials by scanning physical books without permission."
               },
               {
                 "t": "p",
-                "x": "To pick a model, Nejad used Iran’s Konkour entrance exam; on the 30 literature questions Claude came first with 27. The run took about 155,000 requests, 566 million tokens and roughly $3,100. In a review of 500 random couplets, the new note was preferred in 413 cases and the old one in four."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "An AI-generated illustration of the corrected reading of Nezami's Haft Peykar."
-              },
-              {
-                "t": "p",
-                "x": "“Sudi did Hafez,” Nejad wrote. “In 2026, we did everyone.”"
+                "x": "Carlson opted out of the Bartz class action settlement with Anthropic, asserting the books “are more valuable than other works in the class.” The suit joins Anthropic and Meta in one complaint, though two Northern District of California judges have already rejected efforts to join multiple AI companies as defendants. The defendants have not yet challenged joinder."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude, 페르시아 시\n1,000년을 풀다",
-          "body": "Arman Nejad가 Claude로 시 160만여 구절에 현대어 해설을 달았다.",
-          "mini_headline": "Claude, 페르시아 시 주해",
+          "headline": "Anthropic·Meta\nCarlson 측이 제소",
+          "body": "Carlson LLC가 Bartz 합의 대신 자기계발서 AI 학습 소송을 냈다.",
+          "mini_headline": "Carlson, Anthropic·Meta 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "투란의 왕 Afrasiyab가 지켜보는 가운데 Siyavush가 폴로를 하는 장면. Shah Tahmasp 소장본 Ferdowsi의 『Shahnameh』에서. (The Metropolitan Museum of Art, 퍼블릭 도메인)"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "토론토(Toronto)에 사는 이란 출신 소프트웨어 엔지니어 Arman Nejad가 Claude로 페르시아 2행시 160만여 구절을 현대 페르시아어(modern-Persian)로 풀었다. 대상은 인기 있는 무료 온라인 페르시아 시 도서관 Ganjoor에 실린 시들이다. 이전에 AI가 만든(AI-generated) 해설은 여성 이름 Delaray를 “dollar”라는 단어로 잘못 읽기도 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "Ganjoor의 옛 AI 해설이 이름 Delaray를 “dollar”로 읽은 일을 비꼰 X의 페르시아어 게시물."
+                "x": "Don't Sweat the Small Stuff 시리즈의 저작권자가 AI 거대 기업들과의 싸움에 뛰어들었다. 새로 제기된 연방 소송에 따르면 Anthropic과 Meta는 자기계발서 두 다스 이상을 무단으로 가져다 자사 인공지능 모델 학습에 썼다(Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
               },
               {
                 "t": "p",
-                "x": "Nejad가 11월 9일 X에 도움을 청하자 mana.space와 zharf.ai가 크레딧을 내놓았다. 11월 16일까지 Rudaki부터 Shahriar까지 시인 245명 전원의 새 해설을 마쳤고, Ganjoor는 결과물을 웹사이트와 공개 데이터 저장소에 올렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "80문항 Konkour 시험지 정확도. Claude Opus 5.5(medium)와 Gemini 3.8 Flash(highest)가 80문항 중 74문항을 맞혀 동률을 이뤘다."
+                "x": "Carlson LLC는 R. Carlson과 K. Carlson 작품의 저작권을 등록한 권리자다. R. Carlson이 1997년에 낸 책은 New York Times 베스트셀러 목록에 100주 넘게 올랐다. 소장에 따르면 두 회사는 Books3, Anna's Archive 같은 해적 도서관에서 학습 자료를 긁어모으고 실물 책도 허락 없이 스캔했다."
               },
               {
                 "t": "p",
-                "x": "Nejad는 모델을 고를 때 이란 대입 시험 Konkour를 썼다. 문학 30문항에서 Claude가 27문항을 맞혀 1위였다. 작업에는 요청 약 155,000건, 토큰 5억 6,600만 개, 비용 약 3,100달러가 들었다. 무작위로 뽑은 2행시 500구절을 검토해 보니 새 해설이 413건, 옛 해설이 네 건에서 더 낫다는 평가가 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "Nezami의 『Haft Peykar』를 바로잡은 해석을 AI로 그린 삽화."
-              },
-              {
-                "t": "p",
-                "x": "“Sudi는 Hafez를 주해했다.” Nejad는 이렇게 썼다. “2026년, 우리는 모든 시인을 주해했다.”"
+                "x": "Carlson은 Anthropic과의 Bartz 집단소송 합의에서 빠지며 이 책들이 “집단 내 다른 작품보다 더 가치가 있다”고 주장했다. 이번 소송은 Anthropic과 Meta를 한 소장에 함께 묶었다. 하지만 Northern District of California 판사 두 명은 여러 AI 기업을 공동 피고로 묶으려는 시도를 이미 기각한 바 있다. 피고들은 아직 병합에 이의를 제기하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeが読み解く\nペルシア詩1,000年",
-          "body": "Arman NejadがClaudeでGanjoorの160万超の対句を現代語で注釈した。",
-          "mini_headline": "Claudeがペルシア詩を注釈",
+          "headline": "Anthropic・Meta\nCarlson側が提訴",
+          "body": "Bartz和解を離脱したCarlson LLCは二ダース超の自己啓発書のAI学習を訴える。",
+          "mini_headline": "Carlson、Anthropic・Metaを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "トゥランの王Afrasiyabが見守る中、ポロに興じるSiyavush。Shah Tahmasp所蔵のFerdowsi『Shahnameh』より。（The Metropolitan Museum of Art、パブリックドメイン）"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "トロント（Toronto）在住のイラン人ソフトウェアエンジニアArman Nejadは、Claudeを使い、人気の無料オンラインペルシア詩ライブラリGanjoorに収められた160万超のペルシア語対句を現代ペルシア語（modern-Persian）で解説した。以前のAI生成（AI-generated）注釈は、女性名Delarayを「dollar」という単語と取り違えていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "Ganjoorの以前のAI生成注釈が名前Delarayを「dollar」と読んだことを揶揄する、X上のペルシア語投稿。"
+                "x": "Don't Sweat the Small Stuffシリーズの著作権者が、AI大手に挑む新たな当事者となった。新たな連邦訴訟によると、AnthropicとMetaは自己啓発ジャンルの書籍二ダース超を勝手に取り込み、自社の人工知能モデルの学習に使ったという（Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026)）。"
               },
               {
                 "t": "p",
-                "x": "11月9日、NejadはXで支援を呼びかけ、mana.spaceとzharf.aiがクレジットを寄付した。11月16日までに、RudakiからShahriarまで245人すべての詩人の新しい注釈を完成させた。Ganjoorはこれをウェブサイトと公開データリポジトリで公開している。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "80問のKonkour試験冊子での正答率。Claude Opus 5.5（medium）とGemini 3.8 Flash（highest）が80問中74問で並んだ。"
+                "x": "Carlson LLCはR. CarlsonとK. Carlsonの作品の登録著作権者である。R. Carlsonの1997年の著書はNew York Timesのベストセラーリストに100週以上載った。訴状によると、両社はBooks3やAnna's Archiveといった海賊版ライブラリーから学習データを収集し、さらに許可なく紙の本をスキャンして素材を入手した。"
               },
               {
                 "t": "p",
-                "x": "モデル選びにNejadはイランの大学入試Konkourを使い、文学30問でClaudeが27問正解で首位となった。処理には約155,000件のリクエスト、5億6600万トークン、約3,100ドルを要した。無作為に選んだ500の対句を検証したところ、新しい注釈が支持されたのは413件、旧注釈は四件だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "Nezami『Haft Peykar』の訂正された読みをAIで描いたイラスト。"
-              },
-              {
-                "t": "p",
-                "x": "「SudiはHafezを注解した」とNejadは書いた。「2026年、我々は全員を注解した」"
+                "x": "CarlsonはAnthropicとのBartz集団訴訟の和解から離脱し、これらの本は「クラス内の他の作品より価値が高い」と主張した。今回の訴訟はAnthropicとMetaを一つの訴状にまとめているが、Northern District of Californiaの判事二人はすでに複数のAI企業を共同被告とする試みを退けている。被告側はまだ併合に異議を唱えていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude注解\n1000年波斯诗歌",
-          "body": "Arman Nejad用Claude为Ganjoor上逾160万联诗作现代波斯语注释。",
-          "mini_headline": "Claude注解波斯诗歌",
+          "headline": "Carlson版权方起诉\nAnthropic和Meta",
+          "body": "Carlson LLC退出Bartz和解，指控两打以上自助书被用于训练AI。",
+          "mini_headline": "Carlson起诉Anthropic、Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "图兰国王Afrasiyab注视下，Siyavush在打马球。出自Shah Tahmasp藏本Ferdowsi《Shahnameh》。（The Metropolitan Museum of Art，公有领域）"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "常驻Toronto的伊朗软件工程师Arman Nejad借助Claude，为广受欢迎的免费在线波斯诗歌库Ganjoor上逾160万联波斯语对句撰写现代波斯语（modern-Persian）释义。此前一条AI生成（AI-generated）的注释曾把女性名字Delaray误作单词“dollar”。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "X上一则波斯语帖子嘲讽Ganjoor此前AI生成的注释把名字Delaray读成了单词“dollar”。"
+                "x": "Don't Sweat the Small Stuff系列图书的版权方成为最新一个挑战AI巨头的权利人。一起新的联邦诉讼称，Anthropic和Meta擅自取用了两打以上自我提升类图书，并用来训练其人工智能模型（Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026)）。"
               },
               {
                 "t": "p",
-                "x": "11月9日，Nejad在X上求助，mana.space和zharf.ai捐赠了额度。到11月16日，他已为从Rudaki到Shahriar的全部245位诗人完成新注释。Ganjoor已在其网站和公开数据仓库发布这些注释。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "80题Konkour考试册的准确率。Claude Opus 5.5（medium）与Gemini 3.8 Flash（highest）均答对80题中的74题，并列第一。"
+                "x": "Carlson LLC是R. Carlson和K. Carlson作品的注册版权所有者。R. Carlson于1997年出版的书曾在New York Times畅销书榜上停留超过100周。诉状称，两家公司从Books3和Anna's Archive等盗版图书馆收集训练材料，并在未经许可的情况下扫描实体书获取材料。"
               },
               {
                 "t": "p",
-                "x": "为挑选模型，Nejad采用伊朗高考Konkour；在30道文学题上，Claude以答对27题居首。整个过程约用了155,000次请求、5.66亿个token，花费约3,100美元。在随机抽取的500联对句评审中，新注释在413例中更受青睐，旧注释仅四例。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "以AI生成的插图，呈现Nezami《Haft Peykar》经纠正后的解读。"
-              },
-              {
-                "t": "p",
-                "x": "“Sudi注解了Hafez，”Nejad写道，“2026年，我们注解了所有人。”"
+                "x": "Carlson退出了与Anthropic的Bartz集体诉讼和解，称这些书“比集体中的其他作品更有价值”。此案将Anthropic和Meta列入同一份诉状，但Northern District of California已有两位法官驳回了将多家AI公司列为共同被告的做法。被告方尚未对合并提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude explica 1.000 años\nde poesía persa",
-          "body": "El ingeniero Arman Nejad usó Claude para anotar en persa moderno más de 1,6 millones de dísticos de Ganjoor.",
-          "mini_headline": "Claude anota poesía persa",
+          "headline": "El titular de Carlson demanda\na Anthropic y Meta",
+          "body": "Fuera del acuerdo Bartz, Carlson LLC alega que más de dos docenas de libros de autoayuda se usaron para entrenar AI.",
+          "mini_headline": "Carlson demanda a Anthropic y Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "Siyavush juega al polo mientras lo observa el rey turanio Afrasiyab, en la copia del Shahnameh de Ferdowsi que perteneció a Shah Tahmasp. (The Metropolitan Museum of Art, dominio público)"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "Arman Nejad, ingeniero de software iraní residente en Toronto, usó Claude para explicar en persa moderno (modern-Persian) más de 1,6 millones de dísticos persas en Ganjoor, una popular biblioteca en línea gratuita de poesía persa. Una nota anterior generada por IA (AI-generated) había confundido Delaray, nombre de mujer, con la palabra “dollar”."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "Una publicación en persa en X se burla de la nota anterior de Ganjoor generada por IA, que leyó el nombre Delaray como la palabra “dollar”."
+                "x": "El titular de los derechos de autor de la serie de libros Don't Sweat the Small Stuff es el último en enfrentarse a los gigantes de la AI. Según una nueva demanda federal, Anthropic y Meta se habrían apropiado de más de dos docenas de libros del género de superación personal y los habrían usado para entrenar sus modelos de inteligencia artificial (Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
               },
               {
                 "t": "p",
-                "x": "El 9 de noviembre Nejad pidió ayuda en X; mana.space y zharf.ai donaron créditos. Para el 16 de noviembre había terminado notas nuevas para los 245 poetas, de Rudaki a Shahriar. Ganjoor las ha publicado en su sitio web y en su repositorio público de datos."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "Precisión en el cuadernillo de 80 preguntas del examen Konkour. Claude Opus 5.5 (medium) y Gemini 3.8 Flash (highest) empataron con 74 de 80."
+                "x": "Carlson LLC es el titular registrado de los derechos de autor de las obras de R. y K. Carlson. El libro de R. Carlson de 1997 pasó más de 100 semanas en la lista de éxitos de ventas del New York Times. La demanda sostiene que cada empresa obtuvo material de entrenamiento de bibliotecas piratas como Books3 y Anna's Archive, y que adquirió material escaneando libros físicos sin permiso."
               },
               {
                 "t": "p",
-                "x": "Para elegir modelo, Nejad usó el examen de ingreso iraní Konkour; en las 30 preguntas de literatura Claude quedó primero con 27. El proceso requirió unas 155.000 solicitudes, 566 millones de tokens y unos 3.100 dólares. En una revisión de 500 dísticos al azar, la nota nueva fue preferida en 413 casos y la antigua en cuatro."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "Ilustración generada por IA de la lectura corregida del Haft Peykar de Nezami."
-              },
-              {
-                "t": "p",
-                "x": "“Sudi hizo a Hafez”, escribió Nejad. “En 2026, los hicimos a todos”."
+                "x": "Carlson se excluyó del acuerdo de la demanda colectiva Bartz con Anthropic, alegando que los libros “son más valiosos que otras obras de la clase”. La demanda reúne a Anthropic y Meta en una sola querella, aunque dos jueces del Northern District of California ya han rechazado intentos de juntar a varias empresas de AI como demandadas. Los demandados aún no han impugnado la acumulación."
               }
             ]
           }
@@ -561,185 +451,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude, 페르시아 시\n1,000년을 풀다",
-          "body": "Arman Nejad가 Claude로 시 160만여 구절에 현대어 해설을 달았다.",
-          "mini_headline": "Claude, 페르시아 시 주해",
+          "headline": "Anthropic·Meta\nCarlson 측이 제소",
+          "body": "Carlson LLC는 Bartz 합의 대신 자기계발서 AI 학습을 제소했다.",
+          "mini_headline": "Carlson, Anthropic·Meta 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "투란의 왕 Afrasiyab가 지켜보는 가운데 Siyavush가 폴로를 하는 장면. Shah Tahmasp 소장본 Ferdowsi의 『Shahnameh』에서. (The Metropolitan Museum of Art, 퍼블릭 도메인)"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "토론토(Toronto)에 사는 이란 출신 소프트웨어 엔지니어 Arman Nejad가 Claude를 이용해, 인기 무료 온라인 페르시아 시 도서관 Ganjoor에 실린 페르시아 2행시 160만여 구절을 현대 페르시아어(modern-Persian)로 풀이했다. 앞서 AI가 생성한(AI-generated) 해설은 여성 이름 Delaray를 “dollar”라는 단어로 잘못 읽기도 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "Ganjoor의 이전 AI 생성 해설이 이름 Delaray를 “dollar”로 읽은 것을 조롱하는 X의 페르시아어 게시물."
+                "x": "Don't Sweat the Small Stuff 시리즈의 저작권자가 AI 거대 기업들과의 싸움에 새로 뛰어들었다. 새 연방 소송에 따르면 Anthropic과 Meta는 자기계발 분야의 책 두 다스 이상을 멋대로 가져다 자사 인공지능 모델 학습에 썼다(Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
               },
               {
                 "t": "p",
-                "x": "11월 9일 Nejad는 X에서 도움을 요청했고, mana.space와 zharf.ai가 크레딧을 기부했다. 11월 16일까지 그는 Rudaki부터 Shahriar까지 시인 245명 전원의 새 해설을 마쳤다. Ganjoor는 이를 웹사이트와 공개 데이터 저장소에 공개했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "80문항 Konkour 시험지 정확도. Claude Opus 5.5(medium)와 Gemini 3.8 Flash(highest)가 80문항 중 74문항으로 동률을 기록했다."
+                "x": "Carlson LLC는 R. Carlson과 K. Carlson 작품의 등록 저작권자다. R. Carlson의 1997년 책은 New York Times 베스트셀러 목록에 100주 넘게 올랐다. 소장에 따르면 두 회사는 Books3, Anna's Archive 같은 해적 도서관에서 학습 자료를 긁어모았고, 허락 없이 실물 책을 스캔해 자료를 확보했다."
               },
               {
                 "t": "p",
-                "x": "모델을 고르기 위해 Nejad는 이란 대입 시험 Konkour를 활용했고, 문학 30문항에서 Claude가 27문항을 맞혀 1위를 했다. 작업에는 요청 약 155,000건, 토큰 5억 6,600만 개, 비용 약 3,100달러가 들었다. 무작위로 고른 2행시 500구절을 검토한 결과 새 해설이 413건, 옛 해설이 네 건에서 더 낫다는 평가를 받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "Nezami의 『Haft Peykar』를 바로잡은 해석을 AI로 그린 삽화."
-              },
-              {
-                "t": "p",
-                "x": "“Sudi는 Hafez를 주해했다.” Nejad는 이렇게 썼다. “2026년, 우리는 모든 시인을 주해했다.”"
+                "x": "Carlson은 Anthropic과의 Bartz 집단소송 합의에서 빠지면서, 이 책들이 “집단 내 다른 작품보다 더 가치가 있다”고 주장했다. 이번 소송은 Anthropic과 Meta를 하나의 소장에 묶었지만, Northern District of California의 판사 두 명은 이미 여러 AI 기업을 공동 피고로 묶으려는 시도를 기각한 바 있다. 피고들은 아직 병합에 이의를 제기하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeが読み解く\nペルシア詩1,000年",
-          "body": "Arman NejadがClaudeでGanjoorの160万超の対句を現代語で注釈した。",
-          "mini_headline": "Claudeがペルシア詩を注釈",
+          "headline": "Anthropic・Meta\nCarlson側が提訴",
+          "body": "Bartz和解を離脱したCarlson LLCは二ダース超の自己啓発書のAI学習を訴える。",
+          "mini_headline": "Carlson、Anthropic・Metaを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "トゥランの王Afrasiyabが見守る中、ポロに興じるSiyavush。Shah Tahmasp所蔵のFerdowsi『Shahnameh』より。（The Metropolitan Museum of Art、パブリックドメイン）"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "トロント（Toronto）在住のイラン人ソフトウェアエンジニアArman Nejadは、Claudeを使い、人気の無料オンラインペルシア詩ライブラリGanjoorに収められた160万超のペルシア語対句を現代ペルシア語（modern-Persian）で解説した。以前のAI生成（AI-generated）注釈は、女性名Delarayを「dollar」という単語と取り違えていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "Ganjoorの以前のAI生成注釈が名前Delarayを「dollar」と読んだことを揶揄する、X上のペルシア語投稿。"
+                "x": "Don't Sweat the Small Stuffシリーズの著作権者が、AI大手に挑む新たな当事者となった。新たな連邦訴訟によると、AnthropicとMetaは自己啓発ジャンルの書籍二ダース超を勝手に取り込み、自社の人工知能モデルの学習に使ったという（Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026)）。"
               },
               {
                 "t": "p",
-                "x": "11月9日、NejadはXで支援を呼びかけ、mana.spaceとzharf.aiがクレジットを寄付した。11月16日までに、RudakiからShahriarまで245人すべての詩人の新しい注釈を完成させた。Ganjoorはこれをウェブサイトと公開データリポジトリで公開している。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "80問のKonkour試験冊子での正答率。Claude Opus 5.5（medium）とGemini 3.8 Flash（highest）が80問中74問で並んだ。"
+                "x": "Carlson LLCはR. CarlsonとK. Carlsonの作品の登録著作権者である。R. Carlsonの1997年の著書はNew York Timesのベストセラーリストに100週以上載った。訴状によると、両社はBooks3やAnna's Archiveといった海賊版ライブラリーから学習データを収集し、さらに許可なく紙の本をスキャンして素材を入手した。"
               },
               {
                 "t": "p",
-                "x": "モデル選びにNejadはイランの大学入試Konkourを使い、文学30問でClaudeが27問正解で首位となった。処理には約155,000件のリクエスト、5億6600万トークン、約3,100ドルを要した。無作為に選んだ500の対句を検証したところ、新しい注釈が支持されたのは413件、旧注釈は四件だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "Nezami『Haft Peykar』の訂正された読みをAIで描いたイラスト。"
-              },
-              {
-                "t": "p",
-                "x": "「SudiはHafezを注解した」とNejadは書いた。「2026年、我々は全員を注解した」"
+                "x": "CarlsonはAnthropicとのBartz集団訴訟の和解から離脱し、これらの本は「クラス内の他の作品より価値が高い」と主張した。今回の訴訟はAnthropicとMetaを一つの訴状にまとめているが、Northern District of Californiaの判事二人はすでに複数のAI企業を共同被告とする試みを退けている。被告側はまだ併合に異議を唱えていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude注解\n1000年波斯诗歌",
-          "body": "Arman Nejad用Claude为Ganjoor上逾160万联诗作现代波斯语注释。",
-          "mini_headline": "Claude注解波斯诗歌",
+          "headline": "Carlson版权方起诉\nAnthropic和Meta",
+          "body": "Carlson LLC退出Bartz和解，指控两打以上自助书被用于训练AI。",
+          "mini_headline": "Carlson起诉Anthropic、Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "图兰国王Afrasiyab注视下，Siyavush在打马球。出自Shah Tahmasp藏本Ferdowsi《Shahnameh》。（The Metropolitan Museum of Art，公有领域）"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "常驻Toronto的伊朗软件工程师Arman Nejad借助Claude，为广受欢迎的免费在线波斯诗歌库Ganjoor上逾160万联波斯语对句撰写现代波斯语（modern-Persian）释义。此前一条AI生成（AI-generated）的注释曾把女性名字Delaray误作单词“dollar”。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "X上一则波斯语帖子嘲讽Ganjoor此前AI生成的注释把名字Delaray读成了单词“dollar”。"
+                "x": "Don't Sweat the Small Stuff系列图书的版权方成为最新一个挑战AI巨头的权利人。一起新的联邦诉讼称，Anthropic和Meta擅自取用了两打以上自我提升类图书，并用来训练其人工智能模型（Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026)）。"
               },
               {
                 "t": "p",
-                "x": "11月9日，Nejad在X上求助，mana.space和zharf.ai捐赠了额度。到11月16日，他已为从Rudaki到Shahriar的全部245位诗人完成新注释。Ganjoor已在其网站和公开数据仓库发布这些注释。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "80题Konkour考试册的准确率。Claude Opus 5.5（medium）与Gemini 3.8 Flash（highest）均答对80题中的74题，并列第一。"
+                "x": "Carlson LLC是R. Carlson和K. Carlson作品的注册版权所有者。R. Carlson于1997年出版的书曾在New York Times畅销书榜上停留超过100周。诉状称，两家公司从Books3和Anna's Archive等盗版图书馆收集训练材料，并在未经许可的情况下扫描实体书获取材料。"
               },
               {
                 "t": "p",
-                "x": "为挑选模型，Nejad采用伊朗高考Konkour；在30道文学题上，Claude以答对27题居首。整个过程约用了155,000次请求、5.66亿个token，花费约3,100美元。在随机抽取的500联对句评审中，新注释在413例中更受青睐，旧注释仅四例。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "以AI生成的插图，呈现Nezami《Haft Peykar》经纠正后的解读。"
-              },
-              {
-                "t": "p",
-                "x": "“Sudi注解了Hafez，”Nejad写道，“2026年，我们注解了所有人。”"
+                "x": "Carlson退出了与Anthropic的Bartz集体诉讼和解，称这些书“比集体中的其他作品更有价值”。此案将Anthropic和Meta列入同一份诉状，但Northern District of California已有两位法官驳回了将多家AI公司列为共同被告的做法。被告方尚未对合并提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude explica 1.000 años\nde poesía persa",
-          "body": "El ingeniero Arman Nejad usó Claude para anotar en persa moderno más de 1,6 millones de dísticos de Ganjoor.",
-          "mini_headline": "Claude anota poesía persa",
+          "headline": "El titular de Carlson demanda\na Anthropic y Meta",
+          "body": "Fuera del acuerdo Bartz, Carlson LLC alega que más de dos docenas de libros de autoayuda se usaron para entrenar AI.",
+          "mini_headline": "Carlson demanda a Anthropic y Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/803cb850ccf8e17461f5709bc1c626d712c8f3eb-1718x2058.png?rect=39,544,1679,881&w=1200&h=630&q=66&fit=max&auto=format",
-                "cap": "Siyavush juega al polo mientras lo observa el rey turanio Afrasiyab, en la copia del Shahnameh de Ferdowsi que perteneció a Shah Tahmasp. (The Metropolitan Museum of Art, dominio público)"
+                "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
               },
               {
                 "t": "p",
-                "x": "Arman Nejad, ingeniero de software iraní residente en Toronto, usó Claude para explicar en persa moderno (modern-Persian) más de 1,6 millones de dísticos persas en Ganjoor, una popular biblioteca en línea gratuita de poesía persa. Una nota anterior generada por IA (AI-generated) había confundido Delaray, nombre de mujer, con la palabra “dollar”."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/74f3d5b4f0da23843f26ebbdbd6c7f67fdf5cd9f-1097x604.jpg?w=1200&auto=format",
-                "cap": "Una publicación en persa en X se burla de la nota anterior de Ganjoor generada por IA, que leyó el nombre Delaray como la palabra “dollar”."
+                "x": "El titular de los derechos de autor de la serie de libros Don't Sweat the Small Stuff es el último en enfrentarse a los gigantes de la AI. Según una nueva demanda federal, Anthropic y Meta se habrían apropiado de más de dos docenas de libros del género de superación personal y los habrían usado para entrenar sus modelos de inteligencia artificial (Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
               },
               {
                 "t": "p",
-                "x": "El 9 de noviembre Nejad pidió ayuda en X; mana.space y zharf.ai donaron créditos. Para el 16 de noviembre había terminado notas nuevas para los 245 poetas, de Rudaki a Shahriar. Ganjoor las ha publicado en su sitio web y en su repositorio público de datos."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/3e4ee401d15a417a3034f9307a43673fd0095b47-2400x2370.png?w=1200&auto=format",
-                "cap": "Precisión en el cuadernillo de 80 preguntas del examen Konkour. Claude Opus 5.5 (medium) y Gemini 3.8 Flash (highest) empataron con 74 de 80."
+                "x": "Carlson LLC es el titular registrado de los derechos de autor de las obras de R. y K. Carlson. El libro de R. Carlson de 1997 pasó más de 100 semanas en la lista de éxitos de ventas del New York Times. La demanda sostiene que cada empresa obtuvo material de entrenamiento de bibliotecas piratas como Books3 y Anna's Archive, y que adquirió material escaneando libros físicos sin permiso."
               },
               {
                 "t": "p",
-                "x": "Para elegir modelo, Nejad usó el examen de ingreso iraní Konkour; en las 30 preguntas de literatura Claude quedó primero con 27. El proceso requirió unas 155.000 solicitudes, 566 millones de tokens y unos 3.100 dólares. En una revisión de 500 dísticos al azar, la nota nueva fue preferida en 413 casos y la antigua en cuatro."
-              },
-              {
-                "t": "img",
-                "src": "https://i.iranintl.com/images/rdk9umy0/production/83daddf6ac214d9484d5c8f15493c872c0a6cd41-1536x1024.jpg?w=1200&auto=format",
-                "cap": "Ilustración generada por IA de la lectura corregida del Haft Peykar de Nezami."
-              },
-              {
-                "t": "p",
-                "x": "“Sudi hizo a Hafez”, escribió Nejad. “En 2026, los hicimos a todos”."
+                "x": "Carlson se excluyó del acuerdo de la demanda colectiva Bartz con Anthropic, alegando que los libros “son más valiosos que otras obras de la clase”. La demanda reúne a Anthropic y Meta en una sola querella, aunque dos jueces del Northern District of California ya han rechazado intentos de juntar a varias empresas de AI como demandadas. Los demandados aún no han impugnado la acumulación."
               }
             ]
           }
@@ -747,165 +557,213 @@
       }
     },
     {
-      "id": "wotc-anthropic-payout",
+      "id": "books-not-ais-to-take",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "WotC, AI 합의금\nD&D 작가에게 전달",
-      "body": "WotC가 Anthropic 합의금 15억 달러 중 제 몫을 D&D 작가에게 준다.",
-      "mini_headline": "WotC, AI 배상금 나눠",
+      "headline": "호주 작가 Not AI's\nto Take 캠페인 출범",
+      "body": "작가·출판사·언론 단체가 호주 작품 AI 학습 전 동의 의무화를 정부에 청원한다.",
+      "mini_headline": "Not AI's to Take 출범",
       "tool": "Books",
-      "source": "Wargamer",
-      "url": "https://www.wargamer.com/dnd/anthropic-settlement",
+      "source": "Books+Publishing",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+            "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
           },
           {
             "t": "p",
-            "x": "Dungeons and Dragons 출판사 Wizards of the Coast가 Bartz v. Anthropic 소송 합의금을 D&D 작가들과 나눈다. Wizards 대변인은 Wargamer에 “Wizards of the Coast는 Dungeons & Dragons 소설, 모듈, 스토리의 저작권자로서 Bartz v. Anthropic 합의에 참여했다”며 “D&D는 그 세계를 만든 창작자들 없이는 D&D가 될 수 없다”고 밝혔다."
+            "x": "Australian Society of Authors, Australian Publishers Association 등 창작 산업·언론 단체들이 “Not AI’s to Take” 캠페인을 시작했다. “호주의 창의성을 지키기 위한 전국 캠페인”이다."
           },
           {
             "t": "p",
-            "x": "Anthropic은 2025년 9월 15억 달러 합의에 동의했고 합의안은 2026년 7월 승인이 났다. 대상 도서는 약 50만 권이다. 권리자들은 권당 최소 3,000달러에서 수수료를 뺀 금액을 나눠 갖는데, 출판사와 작가의 기본 배분은 50/50이다."
+            "x": "청원에는 기사 작성 시점 기준 1,200명 넘게 서명했다. 청원은 호주 정부에 “기존 저작권 보호 장치를 유지하라”고 요구한다."
           },
           {
             "t": "p",
-            "x": "작가 James Lowder에 따르면 “Wizards of the Coast는 Anthropic 배상금 중 자사 몫을 포기하고 그 돈을 모두 작가들에게 준다.” 액수는 수십만 달러에 이른다고 한다. 그는 작가들의 요청에서 시작된 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+            "x": "청원을 주도한 단체들은 “AI 기업이 먼저 허락을 구하지 않고 호주의 창작물로 모델을 학습시키도록 허용해서는 안 된다”고 밝혔다. 호주 창작·미디어 부문은 호주 경제에 $70.3 billion을 기여하고 “전국의 기업, 공급망과 함께 600,000명에 가까운 노동자를 떠받치고 있다”는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "“우리는 호주 정부가 호주와 세계 창작 산업에 대한 약속을 굳건히 지키기를 촉구합니다. 호주의 조건에 따른 AI란, 먼저 허락을 받고 합의된 대가를 치르지 않으면 창작물을 쓸 수 없다는 뜻입니다.”"
+          },
+          {
+            "t": "p",
+            "x": "캠페인은 청원 서명을 독려하는 한편 지지자들에게 웹사이트에서 지역구 의원(MP)에게 편지를 쓰고 소셜 미디어에 캠페인을 공유해 달라고 요청한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Wizards of the Coast passes\nAI settlement to D&D writers",
-          "body": "Wizards of the Coast will pass its share of the $1.5bn Anthropic settlement payments on to D&D's writers.",
-          "mini_headline": "WotC shares AI payout",
+          "headline": "Australian authors launch\nNot AI's to Take campaign",
+          "body": "Authors, publishers and media bodies petition Canberra to require consent before AI trains on Australian work.",
+          "mini_headline": "Not AI's to Take launches",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Dungeons and Dragons publisher Wizards of the Coast will share settlement funds from the Bartz v. Anthropic case with D&D authors. “Wizards of the Coast took part in the Bartz v. Anthropic settlement as the copyright owner of Dungeons & Dragons novels, modules, and stories,” a Wizards representative told Wargamer. “D&D wouldn't be D&D without the creators who built its worlds.”"
+                "x": "The Australian Society of Authors, Australian Publishers Association and other creative industry and media organisations have launched “Not AI’s to Take”, “a national campaign to protect Australian creativity”."
               },
               {
                 "t": "p",
-                "x": "Anthropic agreed to a $1.5 billion settlement in September 2025, approved in July 2026. Around 500,000 books were eligible — at least $3,000 per book, minus fees, split among rightsholders, with 50/50 the default between publishers and authors."
+                "x": "A petition, signed by more than 1,200 people at the time of writing, calls on the Australian government to “keep existing copyright protections in place”."
               },
               {
                 "t": "p",
-                "x": "According to author James Lowder, “Wizards of the Coast is forgoing its share of the Anthropic payout and giving all the money to the authors,” which he says amounts to hundreds of thousands of dollars. He credited author-prompted talks, especially R.A. Salvatore’s efforts, and Wizards’ Dan Ayoub."
+                "x": "“AI companies should not be allowed to use Australian creative work to train their models without first seeking permission,” said the organisations behind the petition, noting that Australia’s creative and media sector contributes $70.3 billion to the Australian economy “and supports almost 600,000 workers, alongside businesses and supply chains across the country”."
+              },
+              {
+                "t": "p",
+                "x": "“We’re calling on the Australian Government to stay firm on its commitment to Australia’s and the world’s creative industries. AI on Australia’s terms means they can’t use creative work without permission first, and agreed payment.”"
+              },
+              {
+                "t": "p",
+                "x": "In addition to encouraging people to sign the petition, the campaign asks supporters to write a letter to their MP via its website and share the campaign on social media."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WotC, AI 합의금\nD&D 작가에게 전달",
-          "body": "WotC가 Anthropic 합의금 15억 달러 중 제 몫을 D&D 작가에게 준다.",
-          "mini_headline": "WotC, AI 배상금 나눠",
+          "headline": "호주 작가 Not AI's\nto Take 캠페인 출범",
+          "body": "작가·출판사·언론 단체가 호주 작품 AI 학습 전 동의 의무화를 정부에 청원한다.",
+          "mini_headline": "Not AI's to Take 출범",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Dungeons and Dragons 출판사 Wizards of the Coast가 Bartz v. Anthropic 소송 합의금을 D&D 작가들과 나눈다. Wizards 대변인은 Wargamer에 “Wizards of the Coast는 Dungeons & Dragons 소설, 모듈, 스토리의 저작권자로서 Bartz v. Anthropic 합의에 참여했다”며 “D&D는 그 세계를 만든 창작자들 없이는 D&D가 될 수 없다”고 밝혔다."
+                "x": "Australian Society of Authors, Australian Publishers Association 등 창작 산업·언론 단체들이 “Not AI’s to Take” 캠페인을 시작했다. “호주의 창의성을 지키기 위한 전국 캠페인”이다."
               },
               {
                 "t": "p",
-                "x": "Anthropic은 2025년 9월 15억 달러 합의에 동의했고 합의안은 2026년 7월 승인이 났다. 대상 도서는 약 50만 권이다. 권리자들은 권당 최소 3,000달러에서 수수료를 뺀 금액을 나눠 갖는데, 출판사와 작가의 기본 배분은 50/50이다."
+                "x": "청원에는 기사 작성 시점 기준 1,200명 넘게 서명했다. 청원은 호주 정부에 “기존 저작권 보호 장치를 유지하라”고 요구한다."
               },
               {
                 "t": "p",
-                "x": "작가 James Lowder에 따르면 “Wizards of the Coast는 Anthropic 배상금 중 자사 몫을 포기하고 그 돈을 모두 작가들에게 준다.” 액수는 수십만 달러에 이른다고 한다. 그는 작가들의 요청에서 시작된 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+                "x": "청원을 주도한 단체들은 “AI 기업이 먼저 허락을 구하지 않고 호주의 창작물로 모델을 학습시키도록 허용해서는 안 된다”고 밝혔다. 호주 창작·미디어 부문은 호주 경제에 $70.3 billion을 기여하고 “전국의 기업, 공급망과 함께 600,000명에 가까운 노동자를 떠받치고 있다”는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "“우리는 호주 정부가 호주와 세계 창작 산업에 대한 약속을 굳건히 지키기를 촉구합니다. 호주의 조건에 따른 AI란, 먼저 허락을 받고 합의된 대가를 치르지 않으면 창작물을 쓸 수 없다는 뜻입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "캠페인은 청원 서명을 독려하는 한편 지지자들에게 웹사이트에서 지역구 의원(MP)에게 편지를 쓰고 소셜 미디어에 캠페인을 공유해 달라고 요청한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WotC、AI和解金を\nD&D作家に還元",
-          "body": "WotCはAnthropicの15億ドル和解金の自社取り分をD&D作家に渡す。",
-          "mini_headline": "WotC、AI和解金を分配",
+          "headline": "豪作家らがNot AI's\nto Take運動を開始",
+          "body": "作家や出版社、メディア団体が豪作品のAI学習に事前同意を求め豪政府に請願した。",
+          "mini_headline": "Not AI's to Takeが始動",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Dungeons and Dragonsの出版元Wizards of the Coastは、Bartz v. Anthropic訴訟の和解金をD&Dの著者と分け合う。Wizardsの担当者はWargamerに対し、「Wizards of the Coastは、Dungeons & Dragonsの小説、モジュール、ストーリーの著作権者としてBartz v. Anthropicの和解に参加した」と述べ、「D&Dは、その世界を築いたクリエイターなしにはD&Dたり得ない」と語った。"
+                "x": "Australian Society of Authors、Australian Publishers Associationをはじめとする創作産業・メディア団体が、「オーストラリアの創造性を守るための全国キャンペーン」である「Not AI’s to Take」を立ち上げた。"
               },
               {
                 "t": "p",
-                "x": "Anthropicは2025年9月に15億ドルの和解に合意し、和解は2026年7月に承認された。対象書籍は約50万冊で、1冊あたり最低3,000ドルから手数料を差し引いた額を権利者で分け、出版社と著者の配分は50/50が標準となる。"
+                "x": "執筆時点で1,200人以上が署名した請願は、オーストラリア政府に「既存の著作権保護を維持する」よう求めている。"
               },
               {
                 "t": "p",
-                "x": "著者James Lowderによれば、「Wizards of the CoastはAnthropicからの支払いの自社分を放棄し、全額を著者に渡す」といい、その額は数十万ドルに上るという。彼は著者側の働きかけで始まった協議、特にR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
+                "x": "請願を主導する団体は「AI企業が事前に許可を求めることなく、オーストラリアの創作物をモデルの学習に使うことを認めるべきではない」と述べた。また、オーストラリアの創作・メディア部門は同国経済に$70.3 billion を貢献し、「全国の企業やサプライチェーンとともに、600,000人近い労働者を支えている」と指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "「私たちはオーストラリア政府に対し、オーストラリアと世界の創作産業への約束を堅持するよう求める。オーストラリアの条件に沿ったAIとは、事前の許可と合意した対価なしに創作物を使えないということだ」"
+              },
+              {
+                "t": "p",
+                "x": "キャンペーンは請願への署名を呼びかけるほか、支持者にウェブサイトを通じて地元の議員（MP）に手紙を書き、ソーシャルメディアでキャンペーンを共有するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WotC将AI和解金\n转给D&D作者",
-          "body": "WotC将把Anthropic 15亿美元和解金中的自身份额转给D&D作者。",
-          "mini_headline": "WotC分享AI赔付",
+          "headline": "澳作家发起Not AI's\nto Take运动",
+          "body": "作家、出版商和媒体机构请愿澳政府，要求AI使用澳洲作品训练前须获同意。",
+          "mini_headline": "Not AI's to Take启动",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Dungeons and Dragons出版商Wizards of the Coast将与D&D作者分享Bartz v. Anthropic案的和解金。Wizards代表对Wargamer表示：“Wizards of the Coast以Dungeons & Dragons小说、模组和故事版权所有者的身份参与了Bartz v. Anthropic和解。没有构建其世界的创作者，D&D就不成其为D&D。”"
+                "x": "Australian Society of Authors、Australian Publishers Association及其他创意产业和媒体组织发起了“Not AI’s to Take”，这是“一项保护澳大利亚创造力的全国性运动”。"
               },
               {
                 "t": "p",
-                "x": "Anthropic于2025年9月同意以15亿美元和解，该和解于2026年7月获批。约50万本书符合条件，每本至少3,000美元，扣除费用后由权利人分配，出版商与作者默认按50/50分成。"
+                "x": "截至发稿时，已有超过1,200人签署的一份请愿书呼吁澳大利亚政府“维持现有的版权保护”。"
               },
               {
                 "t": "p",
-                "x": "据作者James Lowder称，“Wizards of the Coast放弃其在Anthropic赔付中的份额，把钱全部交给作者”，他说这笔钱达数十万美元。他将此归功于作者推动的谈判，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
+                "x": "发起请愿的组织表示：“不应允许AI公司在未事先征得许可的情况下，使用澳大利亚的创意作品训练其模型。”他们指出，澳大利亚的创意和媒体行业为澳大利亚经济贡献了 $70.3 billion ，“并与全国各地的企业和供应链一起，支撑着近600,000名从业者”。"
+              },
+              {
+                "t": "p",
+                "x": "“我们呼吁澳大利亚政府坚守其对澳大利亚乃至全球创意产业的承诺。按澳大利亚的条件发展AI，意味着未经事先许可、未支付约定报酬，就不能使用创意作品。”"
+              },
+              {
+                "t": "p",
+                "x": "除了鼓励人们签署请愿书，该运动还请支持者通过其网站给所在选区的议员（MP）写信，并在社交媒体上分享这项运动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wizards of the Coast da a los\nautores de D&D su pago de IA",
-          "body": "Wizards of the Coast dará a los autores de D&D su parte del acuerdo de 1,5 mil millones de dólares con Anthropic.",
-          "mini_headline": "WotC reparte el pago de IA",
+          "headline": "Autores australianos lanzan\nla campaña Not AI's to Take",
+          "body": "Autores, editoriales y medios piden a Canberra exigir consentimiento antes de entrenar AI con obras australianas.",
+          "mini_headline": "Nace Not AI's to Take",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Wizards of the Coast, editora de Dungeons and Dragons, compartirá con los autores de D&D los fondos del acuerdo del caso Bartz v. Anthropic. “Wizards of the Coast participó en el acuerdo de Bartz v. Anthropic como titular de los derechos de autor de novelas, módulos e historias de Dungeons & Dragons”, dijo un representante de Wizards a Wargamer. “D&D no sería D&D sin los creadores que construyeron sus mundos”."
+                "x": "La Australian Society of Authors, la Australian Publishers Association y otras organizaciones de las industrias creativas y de los medios han lanzado “Not AI’s to Take”, “una campaña nacional para proteger la creatividad australiana”."
               },
               {
                 "t": "p",
-                "x": "Anthropic aceptó un acuerdo de 1.500 millones de dólares en septiembre de 2025, aprobado en julio de 2026. Unos 500.000 libros eran elegibles: al menos 3.000 dólares por libro, menos comisiones, repartidos entre los titulares de derechos, con un reparto 50/50 por defecto entre editoriales y autores."
+                "x": "Una petición, firmada por más de 1,200 personas al momento de escribir esta nota, pide al gobierno australiano que “mantenga las protecciones de derechos de autor existentes”."
               },
               {
                 "t": "p",
-                "x": "Según el autor James Lowder, “Wizards of the Coast renuncia a su parte del pago de Anthropic y entrega todo el dinero a los autores”, lo que, según él, asciende a cientos de miles de dólares. Atribuyó el resultado a las conversaciones impulsadas por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
+                "x": "“No se debe permitir que las empresas de AI usen obras creativas australianas para entrenar sus modelos sin pedir permiso primero”, afirmaron las organizaciones que impulsan la petición, y señalaron que el sector creativo y de medios de Australia aporta $70.3 billion a la economía australiana “y sostiene a casi 600,000 trabajadores, junto con empresas y cadenas de suministro en todo el país”."
+              },
+              {
+                "t": "p",
+                "x": "“Pedimos al Gobierno australiano que se mantenga firme en su compromiso con las industrias creativas de Australia y del mundo. Una AI en los términos de Australia significa que no se puede usar obra creativa sin permiso previo y sin un pago acordado”."
+              },
+              {
+                "t": "p",
+                "x": "Además de animar a la gente a firmar la petición, la campaña pide a sus simpatizantes que escriban una carta a su MP, su representante en el Parlamento, a través de su sitio web y que compartan la campaña en redes sociales."
               }
             ]
           }
@@ -913,105 +771,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "WotC, AI 합의금\nD&D 작가에게 전달",
-          "body": "WotC가 Anthropic 합의금 15억 달러 중 제 몫을 D&D 작가에게 준다.",
-          "mini_headline": "WotC, AI 배상금 나눠",
+          "headline": "호주 작가 Not AI's\nto Take 캠페인 출범",
+          "body": "작가·출판사·언론 단체가 정부에 호주 작품 AI 학습 전 동의 의무화를 청원한다.",
+          "mini_headline": "Not AI's to Take 출범",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Dungeons and Dragons 출판사 Wizards of the Coast가 Bartz v. Anthropic 소송의 합의금을 D&D 작가들과 나눈다. Wizards 대변인은 Wargamer에 “Wizards of the Coast는 Dungeons & Dragons 소설, 모듈, 스토리의 저작권자로서 Bartz v. Anthropic 합의에 참여했다”며 “D&D는 그 세계를 만든 창작자들 없이는 D&D가 될 수 없다”고 말했다."
+                "x": "Australian Society of Authors, Australian Publishers Association을 비롯한 창작 산업·언론 단체들이 “호주의 창의성을 지키기 위한 전국 캠페인”인 “Not AI’s to Take”를 시작했다."
               },
               {
                 "t": "p",
-                "x": "Anthropic은 2025년 9월 15억 달러 합의에 동의했고, 합의는 2026년 7월 승인됐다. 대상 도서는 약 50만 권으로, 권당 최소 3,000달러에서 수수료를 뺀 금액을 권리자들이 나누며, 출판사와 작가 간 기본 배분은 50/50이다."
+                "x": "이 글을 쓰는 시점에 1,200명 넘게 서명한 청원은 호주 정부에 “기존 저작권 보호 장치를 유지하라”고 요구한다."
               },
               {
                 "t": "p",
-                "x": "작가 James Lowder에 따르면 “Wizards of the Coast는 Anthropic 배상금 중 자사 몫을 포기하고 그 돈을 모두 작가들에게 준다.” 그는 그 액수가 수십만 달러에 이른다고 말했다. 그는 작가들의 요청으로 시작된 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+                "x": "청원을 주도한 단체들은 “AI 기업이 먼저 허락을 구하지 않고 호주의 창작물로 모델을 학습시키도록 허용해서는 안 된다”고 밝혔다. 이들은 호주의 창작·미디어 부문이 호주 경제에 $70.3 billion 을 기여하며 “전국의 기업, 공급망과 함께 600,000명에 가까운 노동자를 떠받치고 있다”고 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "“우리는 호주 정부가 호주와 세계 창작 산업에 대한 약속을 굳건히 지키기를 촉구합니다. 호주의 조건에 따른 AI란, 먼저 허락을 받고 합의된 대가를 치르지 않으면 창작물을 쓸 수 없다는 뜻입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "캠페인은 청원 서명을 독려하는 한편, 지지자들에게 웹사이트를 통해 지역구 의원(MP)에게 편지를 쓰고 소셜 미디어에 캠페인을 공유해 달라고 요청한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WotC、AI和解金を\nD&D作家に還元",
-          "body": "WotCはAnthropicの15億ドル和解金の自社取り分をD&D作家に渡す。",
-          "mini_headline": "WotC、AI和解金を分配",
+          "headline": "豪作家らがNot AI's\nto Take運動を開始",
+          "body": "作家や出版社、メディア団体が豪作品のAI学習に事前同意を求め豪政府に請願した。",
+          "mini_headline": "Not AI's to Takeが始動",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Dungeons and Dragonsの出版元Wizards of the Coastは、Bartz v. Anthropic訴訟の和解金をD&Dの著者と分け合う。Wizardsの担当者はWargamerに対し、「Wizards of the Coastは、Dungeons & Dragonsの小説、モジュール、ストーリーの著作権者としてBartz v. Anthropicの和解に参加した」と述べ、「D&Dは、その世界を築いたクリエイターなしにはD&Dたり得ない」と語った。"
+                "x": "Australian Society of Authors、Australian Publishers Associationをはじめとする創作産業・メディア団体が、「オーストラリアの創造性を守るための全国キャンペーン」である「Not AI’s to Take」を立ち上げた。"
               },
               {
                 "t": "p",
-                "x": "Anthropicは2025年9月に15億ドルの和解に合意し、和解は2026年7月に承認された。対象書籍は約50万冊で、1冊あたり最低3,000ドルから手数料を差し引いた額を権利者で分け、出版社と著者の配分は50/50が標準となる。"
+                "x": "執筆時点で1,200人以上が署名した請願は、オーストラリア政府に「既存の著作権保護を維持する」よう求めている。"
               },
               {
                 "t": "p",
-                "x": "著者James Lowderによれば、「Wizards of the CoastはAnthropicからの支払いの自社分を放棄し、全額を著者に渡す」といい、その額は数十万ドルに上るという。彼は著者側の働きかけで始まった協議、特にR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
+                "x": "請願を主導する団体は「AI企業が事前に許可を求めることなく、オーストラリアの創作物をモデルの学習に使うことを認めるべきではない」と述べた。また、オーストラリアの創作・メディア部門は同国経済に$70.3 billion を貢献し、「全国の企業やサプライチェーンとともに、600,000人近い労働者を支えている」と指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "「私たちはオーストラリア政府に対し、オーストラリアと世界の創作産業への約束を堅持するよう求める。オーストラリアの条件に沿ったAIとは、事前の許可と合意した対価なしに創作物を使えないということだ」"
+              },
+              {
+                "t": "p",
+                "x": "キャンペーンは請願への署名を呼びかけるほか、支持者にウェブサイトを通じて地元の議員（MP）に手紙を書き、ソーシャルメディアでキャンペーンを共有するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WotC将AI和解金\n转给D&D作者",
-          "body": "WotC将把Anthropic 15亿美元和解金中的自身份额转给D&D作者。",
-          "mini_headline": "WotC分享AI赔付",
+          "headline": "澳作家发起Not AI's\nto Take运动",
+          "body": "作家、出版商和媒体机构请愿澳政府，要求AI使用澳洲作品训练前须获同意。",
+          "mini_headline": "Not AI's to Take启动",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Dungeons and Dragons出版商Wizards of the Coast将与D&D作者分享Bartz v. Anthropic案的和解金。Wizards代表对Wargamer表示：“Wizards of the Coast以Dungeons & Dragons小说、模组和故事版权所有者的身份参与了Bartz v. Anthropic和解。没有构建其世界的创作者，D&D就不成其为D&D。”"
+                "x": "Australian Society of Authors、Australian Publishers Association及其他创意产业和媒体组织发起了“Not AI’s to Take”，这是“一项保护澳大利亚创造力的全国性运动”。"
               },
               {
                 "t": "p",
-                "x": "Anthropic于2025年9月同意以15亿美元和解，该和解于2026年7月获批。约50万本书符合条件，每本至少3,000美元，扣除费用后由权利人分配，出版商与作者默认按50/50分成。"
+                "x": "截至发稿时，已有超过1,200人签署的一份请愿书呼吁澳大利亚政府“维持现有的版权保护”。"
               },
               {
                 "t": "p",
-                "x": "据作者James Lowder称，“Wizards of the Coast放弃其在Anthropic赔付中的份额，把钱全部交给作者”，他说这笔钱达数十万美元。他将此归功于作者推动的谈判，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
+                "x": "发起请愿的组织表示：“不应允许AI公司在未事先征得许可的情况下，使用澳大利亚的创意作品训练其模型。”他们指出，澳大利亚的创意和媒体行业为澳大利亚经济贡献了 $70.3 billion ，“并与全国各地的企业和供应链一起，支撑着近600,000名从业者”。"
+              },
+              {
+                "t": "p",
+                "x": "“我们呼吁澳大利亚政府坚守其对澳大利亚乃至全球创意产业的承诺。按澳大利亚的条件发展AI，意味着未经事先许可、未支付约定报酬，就不能使用创意作品。”"
+              },
+              {
+                "t": "p",
+                "x": "除了鼓励人们签署请愿书，该运动还请支持者通过其网站给所在选区的议员（MP）写信，并在社交媒体上分享这项运动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wizards of the Coast da a los\nautores de D&D su pago de IA",
-          "body": "Wizards of the Coast dará a los autores de D&D su parte del acuerdo de 1,5 mil millones de dólares con Anthropic.",
-          "mini_headline": "WotC reparte el pago de IA",
+          "headline": "Autores australianos lanzan\nla campaña Not AI's to Take",
+          "body": "Autores, editoriales y medios piden a Canberra exigir consentimiento antes de entrenar AI con obras australianas.",
+          "mini_headline": "Nace Not AI's to Take",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.wargamer.com/wp-content/sites/wargamer/2026/11/dnd-languages-spell.jpg"
+                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
               },
               {
                 "t": "p",
-                "x": "Wizards of the Coast, editora de Dungeons and Dragons, compartirá con los autores de D&D los fondos del acuerdo del caso Bartz v. Anthropic. “Wizards of the Coast participó en el acuerdo de Bartz v. Anthropic como titular de los derechos de autor de novelas, módulos e historias de Dungeons & Dragons”, dijo un representante de Wizards a Wargamer. “D&D no sería D&D sin los creadores que construyeron sus mundos”."
+                "x": "La Australian Society of Authors, la Australian Publishers Association y otras organizaciones de las industrias creativas y de los medios han lanzado “Not AI’s to Take”, “una campaña nacional para proteger la creatividad australiana”."
               },
               {
                 "t": "p",
-                "x": "Anthropic aceptó un acuerdo de 1.500 millones de dólares en septiembre de 2025, aprobado en julio de 2026. Unos 500.000 libros eran elegibles: al menos 3.000 dólares por libro, menos comisiones, repartidos entre los titulares de derechos, con un reparto 50/50 por defecto entre editoriales y autores."
+                "x": "Una petición, firmada por más de 1,200 personas al momento de escribir esta nota, pide al gobierno australiano que “mantenga las protecciones de derechos de autor existentes”."
               },
               {
                 "t": "p",
-                "x": "Según el autor James Lowder, “Wizards of the Coast renuncia a su parte del pago de Anthropic y entrega todo el dinero a los autores”, lo que, según él, asciende a cientos de miles de dólares. Atribuyó el resultado a las conversaciones impulsadas por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
+                "x": "“No se debe permitir que las empresas de AI usen obras creativas australianas para entrenar sus modelos sin pedir permiso primero”, afirmaron las organizaciones que impulsan la petición, y señalaron que el sector creativo y de medios de Australia aporta $70.3 billion a la economía australiana “y sostiene a casi 600,000 trabajadores, junto con empresas y cadenas de suministro en todo el país”."
+              },
+              {
+                "t": "p",
+                "x": "“Pedimos al Gobierno australiano que se mantenga firme en su compromiso con las industrias creativas de Australia y del mundo. Una AI en los términos de Australia significa que no se puede usar obra creativa sin permiso previo y sin un pago acordado”."
+              },
+              {
+                "t": "p",
+                "x": "Además de animar a la gente a firmar la petición, la campaña pide a sus simpatizantes que escriban una carta a su MP, su representante en el Parlamento, a través de su sitio web y que compartan la campaña en redes sociales."
               }
             ]
           }
@@ -1019,15 +909,15 @@
       }
     },
     {
-      "id": "beeflix-movingtoon-ai",
+      "id": "books-namoo-memoir-app",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "비플릭스 '무빙툰'\nAI로 웹툰에 움직임",
-      "body": "비플릭스가 AI로 웹툰 컷마다 움직임을 입힌 '무빙툰' 서비스를 출시했다.",
-      "mini_headline": "AI 무빙툰 출시",
+      "headline": "AI 인터뷰로 엮는\n부모님 회고록 앱 나무",
+      "body": "나무는 AI가 부모님을 인터뷰한 내용을 회고록 이북과 오디오북으로 만들어 준다.",
+      "mini_headline": "AI 회고록 앱 나무",
       "tool": "Books",
-      "source": "국제뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758253",
+      "source": "GeekNews",
+      "url": "https://news.hada.io/topic?id=37506",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1035,245 +925,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+            "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
           },
           {
             "t": "p",
-            "x": "국내 OTT 서비스 비플릭스가 인공지능(AI) 기술을 접목해 웹툰의 각 컷에 움직임을 더한 새로운 웹툰 서비스 ‘무빙툰’을 출시했다."
+            "x": "부모님의 이야기를 좀 더 체계적으로 기록하기 위해 Namoo를 만들었습니다. 유명인들은 대필 작가를 고용하거나 엄청난 시간을 할애해서 자신의 과거를 기록해두곤 합니다."
           },
           {
             "t": "p",
-            "x": "무빙툰은 정지된 이미지 중심의 기존 웹툰을 움직이는 장면으로 감상할 수 있도록 만든 서비스다. 웹툰의 컷마다 생동감 있는 움직임을 적용해 독자들이 이야기를 새로운 방식으로 즐길 수 있도록 했다."
+            "x": "우리가 직접 부모님과 대화를 나누며 기록을 남기는 것도 가능하겠지만 직접 인터뷰를 진행하는 것도, 질문을 준비하고 정리하는 것도 쉽지 않습니다."
           },
           {
             "t": "p",
-            "x": "기존 웹툰이 정지된 이미지와 컷의 구성으로 이야기를 전달한다면, 무빙툰은 각 컷에 움직임을 더해 한층 생동감 있는 감상 경험을 제공한다. 웹툰 특유의 구성과 흐름을 바탕으로 정적인 이미지에 활력을 더한 것이 특징이다."
+            "x": "Namoo는 AI가 인터뷰어 역할을 맡아 한 번에 하나씩 질문합니다. 부모님은 앱에서 음성으로 인터뷰를 진행하면 됩니다. 답변에 따라 다음 질문이 달라지고, 대화 내용은 챕터 단위로 정리됩니다."
           },
           {
             "t": "p",
-            "x": "비플릭스는 AI 기술을 활용해 웹툰에 움직임을 적용하는 기술을 개발하고, 이를 무빙툰 서비스에 도입했다. 기존 웹툰이 가진 콘텐츠의 매력에 움직임을 더해 독자들이 익숙한 이야기도 새로운 느낌으로 접할 수 있도록 했다."
+            "x": "최종 결과물은 e-book과 오디오북으로 생성할 수 있습니다. 단순히 녹음 파일을 보관하는 대신, 가족이 읽고 들을 수 있는 형태로 기록하는 것을 목표로 했습니다."
           },
           {
             "t": "p",
-            "x": "이번 기술은 비플릭스의 무빙툰뿐 아니라 다른 웹툰 서비스에도 즉시 활용할 수 있도록 개발됐다. 다양한 웹툰 콘텐츠와 서비스에 적용할 수 있는 가능성을 갖춰, 웹툰을 선보이는 방식의 확장에도 활용될 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "무빙툰은 웹툰과 AI 기술의 결합을 통해 콘텐츠 감상 방식에 새로운 선택지를 제시한다. 웹툰의 각 장면에 움직임을 더함으로써 독자들이 이야기의 흐름을 더욱 생동감 있게 경험할 수 있도록 한 것이다."
-          },
-          {
-            "t": "p",
-            "x": "비플릭스 무빙툰 서비스는 비플릭스 모바일 웹과 PC 웹에서 이용할 수 있다."
+            "x": "서비스: https://namoo.ai 혹은 앱스토어, 구글플레이에서 namoo 로 검색하면 됩니다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "비플릭스 '무빙툰'\nAI로 웹툰에 움직임",
-          "body": "비플릭스가 AI로 웹툰 컷마다 움직임을 입힌 '무빙툰' 서비스를 출시했다.",
-          "mini_headline": "AI 무빙툰 출시",
+          "headline": "AI 인터뷰로 엮는\n부모님 회고록 앱 나무",
+          "body": "나무는 AI가 부모님을 인터뷰한 내용을 회고록 이북과 오디오북으로 만들어 준다.",
+          "mini_headline": "AI 회고록 앱 나무",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "국내 OTT 서비스 비플릭스가 인공지능(AI) 기술을 접목해 웹툰의 각 컷에 움직임을 더한 새로운 웹툰 서비스 ‘무빙툰’을 출시했다."
+                "x": "부모님의 이야기를 좀 더 체계적으로 기록하기 위해 Namoo를 만들었습니다. 유명인들은 대필 작가를 고용하거나 엄청난 시간을 할애해서 자신의 과거를 기록해두곤 합니다."
               },
               {
                 "t": "p",
-                "x": "무빙툰은 정지된 이미지 중심의 기존 웹툰을 움직이는 장면으로 감상할 수 있도록 만든 서비스다. 웹툰의 컷마다 생동감 있는 움직임을 적용해 독자들이 이야기를 새로운 방식으로 즐길 수 있도록 했다."
+                "x": "우리가 직접 부모님과 대화를 나누며 기록을 남기는 것도 가능하겠지만 직접 인터뷰를 진행하는 것도, 질문을 준비하고 정리하는 것도 쉽지 않습니다."
               },
               {
                 "t": "p",
-                "x": "기존 웹툰이 정지된 이미지와 컷의 구성으로 이야기를 전달한다면, 무빙툰은 각 컷에 움직임을 더해 한층 생동감 있는 감상 경험을 제공한다. 웹툰 특유의 구성과 흐름을 바탕으로 정적인 이미지에 활력을 더한 것이 특징이다."
+                "x": "Namoo는 AI가 인터뷰어 역할을 맡아 한 번에 하나씩 질문합니다. 부모님은 앱에서 음성으로 인터뷰를 진행하면 됩니다. 답변에 따라 다음 질문이 달라지고, 대화 내용은 챕터 단위로 정리됩니다."
               },
               {
                 "t": "p",
-                "x": "비플릭스는 AI 기술을 활용해 웹툰에 움직임을 적용하는 기술을 개발하고, 이를 무빙툰 서비스에 도입했다. 기존 웹툰이 가진 콘텐츠의 매력에 움직임을 더해 독자들이 익숙한 이야기도 새로운 느낌으로 접할 수 있도록 했다."
+                "x": "최종 결과물은 e-book과 오디오북으로 생성할 수 있습니다. 단순히 녹음 파일을 보관하는 대신, 가족이 읽고 들을 수 있는 형태로 기록하는 것을 목표로 했습니다."
               },
               {
                 "t": "p",
-                "x": "이번 기술은 비플릭스의 무빙툰뿐 아니라 다른 웹툰 서비스에도 즉시 활용할 수 있도록 개발됐다. 다양한 웹툰 콘텐츠와 서비스에 적용할 수 있는 가능성을 갖춰, 웹툰을 선보이는 방식의 확장에도 활용될 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "무빙툰은 웹툰과 AI 기술의 결합을 통해 콘텐츠 감상 방식에 새로운 선택지를 제시한다. 웹툰의 각 장면에 움직임을 더함으로써 독자들이 이야기의 흐름을 더욱 생동감 있게 경험할 수 있도록 한 것이다."
-              },
-              {
-                "t": "p",
-                "x": "비플릭스 무빙툰 서비스는 비플릭스 모바일 웹과 PC 웹에서 이용할 수 있다."
+                "x": "서비스: https://namoo.ai 혹은 앱스토어, 구글플레이에서 namoo 로 검색하면 됩니다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Beeflix's 'Moving Toon' uses\nAI to animate webtoon panels",
-          "body": "Beeflix has launched Moving Toon, a service that uses AI to add motion to every panel of a webtoon.",
-          "mini_headline": "AI Moving Toon launches",
+          "headline": "Namoo, a parent memoir app\nbuilt on AI interviews",
+          "body": "Namoo turns AI interviews with parents into a memoir in e-book and audiobook form.",
+          "mini_headline": "AI memoir app Namoo",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "Korean OTT service Beeflix has launched Moving Toon, a new webtoon service that applies artificial intelligence (AI) technology to add motion to each panel of a webtoon."
+                "x": "We built Namoo to record our parents' stories more systematically. Famous people often hire ghostwriters or devote enormous amounts of time to recording their pasts."
               },
               {
                 "t": "p",
-                "x": "Moving Toon is a service that lets readers view conventional webtoons, which center on still images, as moving scenes. By applying lively motion to each panel, it lets readers enjoy stories in a new way."
+                "x": "We could talk with our parents ourselves and keep a record, but conducting the interviews in person is not easy, and neither is preparing and organizing the questions."
               },
               {
                 "t": "p",
-                "x": "Where conventional webtoons tell stories through still images and the arrangement of panels, Moving Toon adds motion to each panel to offer a livelier viewing experience. Its distinguishing feature is that it brings energy to static images while building on the structure and flow particular to webtoons."
+                "x": "In Namoo, AI takes the role of interviewer and asks one question at a time. Parents simply do the interview by voice in the app. The next question changes depending on the answer, and the conversation is organized chapter by chapter."
               },
               {
                 "t": "p",
-                "x": "Beeflix developed a technology that uses AI to apply motion to webtoons and introduced it into the Moving Toon service. By adding motion to the appeal of existing webtoon content, it lets readers experience even familiar stories in a fresh way."
+                "x": "The final result can be generated as an e-book and an audiobook. Rather than simply storing recording files, the aim was to keep the record in a form the family can read and listen to."
               },
               {
                 "t": "p",
-                "x": "The technology was developed so that it can be used right away not only in Beeflix's Moving Toon but also in other webtoon services. With the potential to be applied to a range of webtoon content and services, it could also help expand the ways webtoons are presented."
-              },
-              {
-                "t": "p",
-                "x": "By combining webtoons with AI technology, Moving Toon offers a new option for how content is enjoyed. Adding motion to each scene of a webtoon lets readers experience the flow of a story more vividly."
-              },
-              {
-                "t": "p",
-                "x": "The Beeflix Moving Toon service is available on Beeflix's mobile web and PC web."
+                "x": "Service: https://namoo.ai, or search for namoo in the App Store or Google Play."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Beeflixの新サービス\nAIでウェブトゥーンが動く",
-          "body": "BeeflixがAIでウェブトゥーンの各コマに動きを加える「ムービングトゥーン」を始めた。",
-          "mini_headline": "AIムービングトゥーン開始",
+          "headline": "AIインタビューで綴る\n親の回顧録アプリNamoo",
+          "body": "NamooはAIによる親へのインタビューを回顧録の電子書籍とオーディオブックにする。",
+          "mini_headline": "AI回顧録アプリNamoo",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "国内OTTサービスのBeeflixが、人工知能（AI）技術を取り入れ、ウェブトゥーンの各コマに動きを加えた新しいウェブトゥーンサービス「ムービングトゥーン」を開始した。"
+                "x": "親の話をもっと体系的に記録するためにNamooを作った。著名人はゴーストライターを雇ったり、膨大な時間を割いたりして自分の過去を記録しておくことが多い。"
               },
               {
                 "t": "p",
-                "x": "ムービングトゥーンは、静止画中心の従来のウェブトゥーンを動くシーンとして楽しめるようにしたサービスだ。コマごとに生き生きとした動きを付け、読者が物語を新しい形で楽しめるようにした。"
+                "x": "自分で親と話しながら記録を残すこともできるだろうが、直接インタビューを進めるのも、質問を準備して整理するのも簡単ではない。"
               },
               {
                 "t": "p",
-                "x": "従来のウェブトゥーンが静止画とコマ割りで物語を伝えるのに対し、ムービングトゥーンは各コマに動きを加え、より生き生きとした鑑賞体験を提供する。ウェブトゥーン特有の構成と流れを土台に、静的な画像に活力を与えた点が特徴である。"
+                "x": "NamooではAIがインタビュアーを務め、質問を一つずつ投げかける。親はアプリ上で音声でインタビューに答えればよい。答えに応じて次の質問が変わり、会話の内容はチャプター単位で整理される。"
               },
               {
                 "t": "p",
-                "x": "BeeflixはAI技術を活用してウェブトゥーンに動きを付ける技術を開発し、ムービングトゥーンに導入した。既存のウェブトゥーンが持つコンテンツの魅力に動きを加え、読者がなじみのある物語も新鮮な感覚で味わえるようにした。"
+                "x": "最終的な成果物はe-bookとオーディオブックとして生成できる。録音ファイルをただ保管するのではなく、家族が読んだり聞いたりできる形で記録することを目指した。"
               },
               {
                 "t": "p",
-                "x": "この技術は、Beeflixのムービングトゥーンだけでなく、他のウェブトゥーンサービスにもすぐに活用できるよう開発された。さまざまなウェブトゥーンコンテンツやサービスに応用できる可能性を備え、ウェブトゥーンの見せ方を広げることにも生かせる。"
-              },
-              {
-                "t": "p",
-                "x": "ムービングトゥーンは、ウェブトゥーンとAI技術の組み合わせを通じて、コンテンツの楽しみ方に新たな選択肢を示す。ウェブトゥーンの各場面に動きを加えることで、読者が物語の流れをより生き生きと体験できるようにした。"
-              },
-              {
-                "t": "p",
-                "x": "Beeflixのムービングトゥーンは、BeeflixのモバイルウェブとPCウェブで利用できる。"
+                "x": "サービス：https://namoo.ai 、またはApp Store、Google Playで namoo と検索すればよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Beeflix动态漫画上线\nAI让网漫动起来",
-          "body": "Beeflix推出“Moving Toon”服务，借助AI让网络漫画的每一格都动起来。",
-          "mini_headline": "AI Moving Toon上线",
+          "headline": "用AI访谈编织\n父母回忆录应用Namoo",
+          "body": "Namoo把AI对父母的访谈内容制作成回忆录电子书和有声书。",
+          "mini_headline": "AI回忆录应用Namoo",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "韩国OTT服务Beeflix结合人工智能（AI）技术，推出了为网络漫画每一格添加动态效果的全新网漫服务“Moving Toon”。"
+                "x": "为了更系统地记录父母的故事，我们做了Namoo。名人们常常雇用代笔作家，或花大量时间记录自己的过去。"
               },
               {
                 "t": "p",
-                "x": "Moving Toon让以静态图像为主的传统网络漫画可以作为动态画面来欣赏。它为每一格漫画加入生动的动作，让读者以全新的方式享受故事。"
+                "x": "我们当然也可以自己和父母聊天、留下记录，但亲自进行访谈并不容易，准备和整理问题也不容易。"
               },
               {
                 "t": "p",
-                "x": "传统网络漫画通过静态图像和分格编排讲述故事，而Moving Toon为每一格加入动态，带来更生动的观看体验。其特点是在网络漫画特有的结构与节奏基础上，为静态图像注入活力。"
+                "x": "在Namoo中，AI担任采访者，每次只提一个问题。父母只需在应用里用语音完成访谈。下一个问题会根据回答而变化，对话内容按章节整理。"
               },
               {
                 "t": "p",
-                "x": "Beeflix开发了利用AI技术为网络漫画加入动态的技术，并将其引入Moving Toon服务。在原有网漫内容魅力的基础上加入动态，让读者即使面对熟悉的故事也能获得新鲜感受。"
+                "x": "最终成果可以生成e-book和有声书。我们的目标不是单纯保存录音文件，而是以家人能读、能听的形式留下记录。"
               },
               {
                 "t": "p",
-                "x": "这项技术在开发时就考虑到不仅能用于Beeflix的Moving Toon，也能立即用于其他网络漫画服务。它具备应用于多种网漫内容和服务的潜力，也可用于拓展网络漫画的呈现方式。"
-              },
-              {
-                "t": "p",
-                "x": "Moving Toon通过网络漫画与AI技术的结合，为内容欣赏方式提供了新选择。通过为网络漫画的每个场景加入动态，让读者更生动地体验故事的发展。"
-              },
-              {
-                "t": "p",
-                "x": "Beeflix Moving Toon服务可在Beeflix移动网页版和PC网页版使用。"
+                "x": "服务：https://namoo.ai ，或在App Store、Google Play搜索 namoo 即可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Beeflix lanza 'Moving Toon':\nla IA da movimiento al webtoon",
-          "body": "Beeflix ha lanzado Moving Toon, un servicio que usa IA para dar movimiento a cada viñeta de un webtoon.",
-          "mini_headline": "Llega Moving Toon con IA",
+          "headline": "Namoo: memorias de tus padres\ntejidas con entrevistas de AI",
+          "body": "Namoo convierte las entrevistas que la AI hace a los padres en un libro electrónico y un audiolibro de memorias.",
+          "mini_headline": "Namoo, app de memorias con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "El servicio de OTT surcoreano Beeflix ha lanzado Moving Toon, un nuevo servicio de webtoon que incorpora inteligencia artificial (IA) para añadir movimiento a cada viñeta de los webtoons."
+                "x": "Creamos Namoo para registrar de forma más sistemática las historias de nuestros padres. Las personas famosas suelen contratar a escritores fantasma o dedicar muchísimo tiempo a dejar constancia de su pasado."
               },
               {
                 "t": "p",
-                "x": "Moving Toon es un servicio que permite ver los webtoons tradicionales, centrados en imágenes fijas, como escenas en movimiento. Al aplicar un movimiento vivo a cada viñeta, permite a los lectores disfrutar de las historias de una forma nueva."
+                "x": "Podríamos conversar nosotros mismos con nuestros padres y dejar un registro, pero no es fácil hacer las entrevistas en persona, ni preparar y ordenar las preguntas."
               },
               {
                 "t": "p",
-                "x": "Si el webtoon tradicional cuenta historias mediante imágenes fijas y la composición de viñetas, Moving Toon añade movimiento a cada una para ofrecer una experiencia más viva. Su rasgo distintivo es dar vitalidad a imágenes estáticas a partir de la estructura y el ritmo propios del webtoon."
+                "x": "En Namoo, la AI hace de entrevistadora y formula una pregunta a la vez. Los padres solo tienen que hacer la entrevista por voz en la aplicación. La siguiente pregunta cambia según la respuesta, y la conversación se organiza por capítulos."
               },
               {
                 "t": "p",
-                "x": "Beeflix desarrolló una tecnología que usa IA para aplicar movimiento a los webtoons y la incorporó al servicio Moving Toon. Al sumar movimiento al atractivo de los contenidos existentes, los lectores pueden vivir de un modo nuevo incluso historias conocidas."
+                "x": "El resultado final puede generarse como e-book y como audiolibro. En lugar de limitarse a guardar archivos de grabación, el objetivo fue dejar un registro que la familia pueda leer y escuchar."
               },
               {
                 "t": "p",
-                "x": "La tecnología se desarrolló para poder usarse de inmediato no solo en Moving Toon de Beeflix, sino también en otros servicios de webtoon. Puede aplicarse a contenidos y servicios diversos y servir para ampliar las formas de presentar webtoons."
-              },
-              {
-                "t": "p",
-                "x": "Moving Toon plantea una nueva opción para disfrutar contenidos al combinar el webtoon con la tecnología de IA. Al añadir movimiento a cada escena, permite a los lectores vivir el desarrollo de la historia de forma más viva."
-              },
-              {
-                "t": "p",
-                "x": "El servicio Moving Toon de Beeflix está disponible en la web móvil y la web para PC de Beeflix."
+                "x": "Servicio: https://namoo.ai, o busca namoo en App Store o Google Play."
               }
             ]
           }
@@ -1281,169 +1123,137 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Beeflix's 'Moving Toon' uses\nAI to animate webtoon panels",
-          "body": "Beeflix has launched Moving Toon, a service that uses AI to add motion to every panel of a webtoon.",
-          "mini_headline": "AI Moving Toon launches",
+          "headline": "Namoo, a parent memoir app\nbuilt on AI interviews",
+          "body": "Namoo turns AI interviews with parents into a memoir in e-book and audiobook form.",
+          "mini_headline": "AI memoir app Namoo",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "Korean OTT service Beeflix has launched Moving Toon, a new webtoon service that applies artificial intelligence (AI) technology to add motion to each panel of a webtoon."
+                "x": "We built Namoo to record our parents' stories more systematically. Famous people often hire ghostwriters or devote enormous amounts of time to recording their pasts."
               },
               {
                 "t": "p",
-                "x": "Moving Toon is a service that lets readers view conventional webtoons, which center on still images, as moving scenes. By applying lively motion to each panel, it lets readers enjoy stories in a new way."
+                "x": "We could talk with our parents ourselves and keep a record, but conducting the interviews in person is not easy, and neither is preparing and organizing the questions."
               },
               {
                 "t": "p",
-                "x": "Where conventional webtoons tell stories through still images and the arrangement of panels, Moving Toon adds motion to each panel to offer a livelier viewing experience. Its distinguishing feature is that it brings energy to static images while building on the structure and flow particular to webtoons."
+                "x": "In Namoo, AI takes the role of interviewer and asks one question at a time. Parents simply do the interview by voice in the app. The next question changes depending on the answer, and the conversation is organized chapter by chapter."
               },
               {
                 "t": "p",
-                "x": "Beeflix developed a technology that uses AI to apply motion to webtoons and introduced it into the Moving Toon service. By adding motion to the appeal of existing webtoon content, it lets readers experience even familiar stories in a fresh way."
+                "x": "The final result can be generated as an e-book and an audiobook. Rather than simply storing recording files, the aim was to keep the record in a form the family can read and listen to."
               },
               {
                 "t": "p",
-                "x": "The technology was developed so that it can be used right away not only in Beeflix's Moving Toon but also in other webtoon services. With the potential to be applied to a range of webtoon content and services, it could also help expand the ways webtoons are presented."
-              },
-              {
-                "t": "p",
-                "x": "By combining webtoons with AI technology, Moving Toon offers a new option for how content is enjoyed. Adding motion to each scene of a webtoon lets readers experience the flow of a story more vividly."
-              },
-              {
-                "t": "p",
-                "x": "The Beeflix Moving Toon service is available on Beeflix's mobile web and PC web."
+                "x": "Service: https://namoo.ai, or search for namoo in the App Store or Google Play."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Beeflixの新サービス\nAIでウェブトゥーンが動く",
-          "body": "BeeflixがAIでウェブトゥーンの各コマに動きを加える「ムービングトゥーン」を始めた。",
-          "mini_headline": "AIムービングトゥーン開始",
+          "headline": "AIインタビューで綴る\n親の回顧録アプリNamoo",
+          "body": "NamooはAIによる親へのインタビューを回顧録の電子書籍とオーディオブックにする。",
+          "mini_headline": "AI回顧録アプリNamoo",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "国内OTTサービスのBeeflixが、人工知能（AI）技術を取り入れ、ウェブトゥーンの各コマに動きを加えた新しいウェブトゥーンサービス「ムービングトゥーン」を開始した。"
+                "x": "親の話をもっと体系的に記録するためにNamooを作った。著名人はゴーストライターを雇ったり、膨大な時間を割いたりして自分の過去を記録しておくことが多い。"
               },
               {
                 "t": "p",
-                "x": "ムービングトゥーンは、静止画中心の従来のウェブトゥーンを動くシーンとして楽しめるようにしたサービスだ。コマごとに生き生きとした動きを付け、読者が物語を新しい形で楽しめるようにした。"
+                "x": "自分で親と話しながら記録を残すこともできるだろうが、直接インタビューを進めるのも、質問を準備して整理するのも簡単ではない。"
               },
               {
                 "t": "p",
-                "x": "従来のウェブトゥーンが静止画とコマ割りで物語を伝えるのに対し、ムービングトゥーンは各コマに動きを加え、より生き生きとした鑑賞体験を提供する。ウェブトゥーン特有の構成と流れを土台に、静的な画像に活力を与えた点が特徴である。"
+                "x": "NamooではAIがインタビュアーを務め、質問を一つずつ投げかける。親はアプリ上で音声でインタビューに答えればよい。答えに応じて次の質問が変わり、会話の内容はチャプター単位で整理される。"
               },
               {
                 "t": "p",
-                "x": "BeeflixはAI技術を活用してウェブトゥーンに動きを付ける技術を開発し、ムービングトゥーンに導入した。既存のウェブトゥーンが持つコンテンツの魅力に動きを加え、読者がなじみのある物語も新鮮な感覚で味わえるようにした。"
+                "x": "最終的な成果物はe-bookとオーディオブックとして生成できる。録音ファイルをただ保管するのではなく、家族が読んだり聞いたりできる形で記録することを目指した。"
               },
               {
                 "t": "p",
-                "x": "この技術は、Beeflixのムービングトゥーンだけでなく、他のウェブトゥーンサービスにもすぐに活用できるよう開発された。さまざまなウェブトゥーンコンテンツやサービスに応用できる可能性を備え、ウェブトゥーンの見せ方を広げることにも生かせる。"
-              },
-              {
-                "t": "p",
-                "x": "ムービングトゥーンは、ウェブトゥーンとAI技術の組み合わせを通じて、コンテンツの楽しみ方に新たな選択肢を示す。ウェブトゥーンの各場面に動きを加えることで、読者が物語の流れをより生き生きと体験できるようにした。"
-              },
-              {
-                "t": "p",
-                "x": "Beeflixのムービングトゥーンは、BeeflixのモバイルウェブとPCウェブで利用できる。"
+                "x": "サービス：https://namoo.ai 、またはApp Store、Google Playで namoo と検索すればよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Beeflix动态漫画上线\nAI让网漫动起来",
-          "body": "Beeflix推出“Moving Toon”服务，借助AI让网络漫画的每一格都动起来。",
-          "mini_headline": "AI Moving Toon上线",
+          "headline": "用AI访谈编织\n父母回忆录应用Namoo",
+          "body": "Namoo把AI对父母的访谈内容制作成回忆录电子书和有声书。",
+          "mini_headline": "AI回忆录应用Namoo",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "韩国OTT服务Beeflix结合人工智能（AI）技术，推出了为网络漫画每一格添加动态效果的全新网漫服务“Moving Toon”。"
+                "x": "为了更系统地记录父母的故事，我们做了Namoo。名人们常常雇用代笔作家，或花大量时间记录自己的过去。"
               },
               {
                 "t": "p",
-                "x": "Moving Toon让以静态图像为主的传统网络漫画可以作为动态画面来欣赏。它为每一格漫画加入生动的动作，让读者以全新的方式享受故事。"
+                "x": "我们当然也可以自己和父母聊天、留下记录，但亲自进行访谈并不容易，准备和整理问题也不容易。"
               },
               {
                 "t": "p",
-                "x": "传统网络漫画通过静态图像和分格编排讲述故事，而Moving Toon为每一格加入动态，带来更生动的观看体验。其特点是在网络漫画特有的结构与节奏基础上，为静态图像注入活力。"
+                "x": "在Namoo中，AI担任采访者，每次只提一个问题。父母只需在应用里用语音完成访谈。下一个问题会根据回答而变化，对话内容按章节整理。"
               },
               {
                 "t": "p",
-                "x": "Beeflix开发了利用AI技术为网络漫画加入动态的技术，并将其引入Moving Toon服务。在原有网漫内容魅力的基础上加入动态，让读者即使面对熟悉的故事也能获得新鲜感受。"
+                "x": "最终成果可以生成e-book和有声书。我们的目标不是单纯保存录音文件，而是以家人能读、能听的形式留下记录。"
               },
               {
                 "t": "p",
-                "x": "这项技术在开发时就考虑到不仅能用于Beeflix的Moving Toon，也能立即用于其他网络漫画服务。它具备应用于多种网漫内容和服务的潜力，也可用于拓展网络漫画的呈现方式。"
-              },
-              {
-                "t": "p",
-                "x": "Moving Toon通过网络漫画与AI技术的结合，为内容欣赏方式提供了新选择。通过为网络漫画的每个场景加入动态，让读者更生动地体验故事的发展。"
-              },
-              {
-                "t": "p",
-                "x": "Beeflix Moving Toon服务可在Beeflix移动网页版和PC网页版使用。"
+                "x": "服务：https://namoo.ai ，或在App Store、Google Play搜索 namoo 即可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Beeflix lanza 'Moving Toon':\nla IA da movimiento al webtoon",
-          "body": "Beeflix ha lanzado Moving Toon, un servicio que usa IA para dar movimiento a cada viñeta de un webtoon.",
-          "mini_headline": "Llega Moving Toon con IA",
+          "headline": "Namoo: memorias de tus padres\ntejidas con entrevistas de AI",
+          "body": "Namoo convierte las entrevistas que la AI hace a los padres en un libro electrónico y un audiolibro de memorias.",
+          "mini_headline": "Namoo, app de memorias con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gukjenews.com/news/photo/202611/3758253_3941614_5640.png"
+                "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
               },
               {
                 "t": "p",
-                "x": "El servicio de OTT surcoreano Beeflix ha lanzado Moving Toon, un nuevo servicio de webtoon que incorpora inteligencia artificial (IA) para añadir movimiento a cada viñeta de los webtoons."
+                "x": "Creamos Namoo para registrar de forma más sistemática las historias de nuestros padres. Las personas famosas suelen contratar a escritores fantasma o dedicar muchísimo tiempo a dejar constancia de su pasado."
               },
               {
                 "t": "p",
-                "x": "Moving Toon es un servicio que permite ver los webtoons tradicionales, centrados en imágenes fijas, como escenas en movimiento. Al aplicar un movimiento vivo a cada viñeta, permite a los lectores disfrutar de las historias de una forma nueva."
+                "x": "Podríamos conversar nosotros mismos con nuestros padres y dejar un registro, pero no es fácil hacer las entrevistas en persona, ni preparar y ordenar las preguntas."
               },
               {
                 "t": "p",
-                "x": "Si el webtoon tradicional cuenta historias mediante imágenes fijas y la composición de viñetas, Moving Toon añade movimiento a cada una para ofrecer una experiencia más viva. Su rasgo distintivo es dar vitalidad a imágenes estáticas a partir de la estructura y el ritmo propios del webtoon."
+                "x": "En Namoo, la AI hace de entrevistadora y formula una pregunta a la vez. Los padres solo tienen que hacer la entrevista por voz en la aplicación. La siguiente pregunta cambia según la respuesta, y la conversación se organiza por capítulos."
               },
               {
                 "t": "p",
-                "x": "Beeflix desarrolló una tecnología que usa IA para aplicar movimiento a los webtoons y la incorporó al servicio Moving Toon. Al sumar movimiento al atractivo de los contenidos existentes, los lectores pueden vivir de un modo nuevo incluso historias conocidas."
+                "x": "El resultado final puede generarse como e-book y como audiolibro. En lugar de limitarse a guardar archivos de grabación, el objetivo fue dejar un registro que la familia pueda leer y escuchar."
               },
               {
                 "t": "p",
-                "x": "La tecnología se desarrolló para poder usarse de inmediato no solo en Moving Toon de Beeflix, sino también en otros servicios de webtoon. Puede aplicarse a contenidos y servicios diversos y servir para ampliar las formas de presentar webtoons."
-              },
-              {
-                "t": "p",
-                "x": "Moving Toon plantea una nueva opción para disfrutar contenidos al combinar el webtoon con la tecnología de IA. Al añadir movimiento a cada escena, permite a los lectores vivir el desarrollo de la historia de forma más viva."
-              },
-              {
-                "t": "p",
-                "x": "El servicio Moving Toon de Beeflix está disponible en la web móvil y la web para PC de Beeflix."
+                "x": "Servicio: https://namoo.ai, o busca namoo en App Store o Google Play."
               }
             ]
           }
@@ -1451,15 +1261,15 @@
       }
     },
     {
-      "id": "cambridge-human-woty",
+      "id": "books-guardian-wild-west",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Cambridge 사전,\n올해의 단어 'human'",
-      "body": "Cambridge 사전이 AI 시대의 2026년 단어로 'human'을 골랐다.",
-      "mini_headline": "Cambridge, 'human' 선정",
+      "headline": "AI는 어떻게 출판계를\n무법지대로 만들었나",
+      "body": "출판사 AI 방침은 없는데 한 인디 작가는 2025년부터 AI로 370편을 썼다.",
+      "mini_headline": "AI가 만든 문학 무법지대",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/cambridge-dictionary-names-human-word-of-the-year-2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1467,101 +1277,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+            "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+            "cap": "일러스트: Ricardo Tomás/The Guardian"
           },
           {
             "t": "p",
-            "x": "Cambridge Dictionary(케임브리지 사전)가 2026년 올해의 단어로 ‘human’을 골랐다. “AI가 사람과 기계의 경계를 흐리는 가운데 인간이란 무엇을 의미하는지를 둘러싼 전 세계적 논쟁으로 규정된” 한 해에 내놓은 답이다."
+            "x": "AI 사용 의혹이 출판계를 흔들고 있다. 작가들은 수익성 좋은 계약을 잃고 문학상 최종 후보에서 빠진다. 로맨스 소설가 Coral Hart(필명)는 2025년부터 AI로 21개 필명을 써 가며 소설 370편을 썼고, Kindle Unlimited에서 “여섯 자릿수 후반대” 수입을 올렸다. Tuhin Chakrabarty가 이끈 한 연구는 최근 자가 출판된 책 다섯 권 중 한 권꼴로 AI 생성(AI-generated) 텍스트가 25% 이상 들어 있다고 추정한다."
+          },
+          {
+            "t": "p",
+            "x": "한 문학 에이전트는 주류 출판계를 “무법지대”에 빗댄다. Hachette는 삼월에 Shy Girl을 회수했다. 데뷔 소설가 Jerry Falade의 에이전트들은 $2m 규모 계약에서 발을 뺐고 Thélyson Orélien은 Goncourt 롱리스트에서 빠졌다. 의혹을 받은 작가가 결백을 입증하기는 어렵다. AALA’s Hannah Bowman은 “공정하고 사려 깊은 절차”를 촉구한다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+            "cap": "일러스트: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+          },
+          {
+            "t": "p",
+            "x": "출판 전문가 Thad McIlroy는 출판사들이 “용기”를 내서 폭넓은 AI 정책을 내놔야 한다고 말한다. US 저작권법상 책은 “인간이 저술한” 것이어야 한다. 프랑스에는 AI와 함께 작업하는 소설가를 위한 Prix Pascal de Littérature IA가 생겼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cambridge Dictionary picks\n'human' as Word of the Year",
-          "body": "Cambridge Dictionary chose 'human' for 2026, a year of debate over being human as AI blurs the line with machines.",
-          "mini_headline": "Cambridge picks 'human'",
+          "headline": "How AI turned publishing\ninto the wild west",
+          "body": "Publishers offer agents no clear AI policy while one indie author has written 370 novels with AI since 2025.",
+          "mini_headline": "AI's literary wild west",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "Illustration: Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026 in response to a year “defined by global debates on what it means to be human when AI is blurring the boundaries between people and machines”."
+                "x": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through publishing. Romance novelist Coral Hart (a pen name) has written 370 novels under 21 pen names using AI since 2025, earning “high six figures” on Kindle Unlimited. One study led by Tuhin Chakrabarty estimates around one fifth of recently self-published books contain at least 25% AI-generated text."
+              },
+              {
+                "t": "p",
+                "x": "One literary agent likens mainstream publishing to “the wild west”. Hachette withdrew Shy Girl in March; agents for debut novelist Jerry Falade withdrew from a $2m deal; Thélyson Orélien was struck off the Goncourt longlist. Accused writers find it hard to clear their names, and AALA’s Hannah Bowman calls for “a fair and thoughtful process”."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "Illustration: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "Publishing expert Thad McIlroy says publishers need to be “brave” and publish extensive AI policies. US copyright law requires a book to be “human authored”. In France, the Prix Pascal de Littérature IA was launched for fiction writers working with AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Cambridge 사전,\n올해의 단어 'human'",
-          "body": "Cambridge 사전이 AI 시대의 2026년 단어로 'human'을 골랐다.",
-          "mini_headline": "Cambridge, 'human' 선정",
+          "headline": "AI는 어떻게 출판계를\n무법지대로 만들었나",
+          "body": "출판사 AI 방침은 없는데 한 인디 작가는 2025년부터 AI로 370편을 썼다.",
+          "mini_headline": "AI가 만든 문학 무법지대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "일러스트: Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Cambridge Dictionary(케임브리지 사전)가 2026년 올해의 단어로 ‘human’을 골랐다. “AI가 사람과 기계의 경계를 흐리는 가운데 인간이란 무엇을 의미하는지를 둘러싼 전 세계적 논쟁으로 규정된” 한 해에 내놓은 답이다."
+                "x": "AI 사용 의혹이 출판계를 흔들고 있다. 작가들은 수익성 좋은 계약을 잃고 문학상 최종 후보에서 빠진다. 로맨스 소설가 Coral Hart(필명)는 2025년부터 AI로 21개 필명을 써 가며 소설 370편을 썼고, Kindle Unlimited에서 “여섯 자릿수 후반대” 수입을 올렸다. Tuhin Chakrabarty가 이끈 한 연구는 최근 자가 출판된 책 다섯 권 중 한 권꼴로 AI 생성(AI-generated) 텍스트가 25% 이상 들어 있다고 추정한다."
+              },
+              {
+                "t": "p",
+                "x": "한 문학 에이전트는 주류 출판계를 “무법지대”에 빗댄다. Hachette는 삼월에 Shy Girl을 회수했다. 데뷔 소설가 Jerry Falade의 에이전트들은 $2m 규모 계약에서 발을 뺐고 Thélyson Orélien은 Goncourt 롱리스트에서 빠졌다. 의혹을 받은 작가가 결백을 입증하기는 어렵다. AALA’s Hannah Bowman은 “공정하고 사려 깊은 절차”를 촉구한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "일러스트: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "출판 전문가 Thad McIlroy는 출판사들이 “용기”를 내서 폭넓은 AI 정책을 내놔야 한다고 말한다. US 저작권법상 책은 “인간이 저술한” 것이어야 한다. 프랑스에는 AI와 함께 작업하는 소설가를 위한 Prix Pascal de Littérature IA가 생겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cambridge辞典の\n今年の単語は「human」",
-          "body": "Cambridge辞典は、AI時代の2026年を表す単語に「human」を選んだ。",
-          "mini_headline": "Cambridge、「human」を選出",
+          "headline": "AIはいかに出版界を\n無法地帯に変えたか",
+          "body": "出版社はAI方針を示さず、あるインディー作家は2025年以降AIで小説370作を書いた。",
+          "mini_headline": "AIが生んだ文学の無法地帯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "イラスト：Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Cambridge Dictionary（ケンブリッジ辞典）は、「AIが人と機械の境界をあいまいにする中で、人間であるとは何を意味するのかをめぐる世界的な議論に特徴づけられた」年を受け、「human」を2026年の今年の単語に選んだ。"
+                "x": "作家が高額な契約を失い、文学賞の最終候補から外される中、AI使用の疑惑が出版界に衝撃を広げている。ロマンス作家のCoral Hart（筆名）は2025年以降、AIを使って21の筆名で370作の小説を書き、Kindle Unlimitedで「六桁台後半」の収入を得た。Tuhin Chakrabartyが率いた研究は、最近自費出版された本のおよそ五分の一に、AI生成（AI-generated）のテキストが25%以上含まれていると推定している。"
+              },
+              {
+                "t": "p",
+                "x": "ある文芸エージェントは、大手出版の現状を「無法地帯」になぞらえる。Hachetteは三月にShy Girlを撤回し、デビュー作家Jerry Faladeのエージェントは$2m の契約から手を引き、Thélyson OrélienはGoncourtのロングリストから外された。疑いをかけられた作家が潔白を証明するのは難しく、AALA’s Hannah Bowmanは「公正で思慮深い手続き」を求めている。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "イラスト：CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "出版の専門家Thad McIlroyは、出版社は「勇気」を持って包括的なAI方針を公表すべきだと言う。US著作権法は、本が「人間によって書かれた」ものであることを求めている。フランスでは、AIとともに執筆する小説家を対象にPrix Pascal de Littérature IAが創設された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cambridge词典\n年度词选“human”",
-          "body": "Cambridge词典将“human”选为2026年度词汇，回应AI模糊人机界限的讨论。",
-          "mini_headline": "Cambridge选出“human”",
+          "headline": "AI如何把出版业\n变成蛮荒西部",
+          "body": "出版商未向经纪人给出明确AI政策，一位独立作者自2025年起用AI写了370部小说。",
+          "mini_headline": "AI与文学的蛮荒西部",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "插图：Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Cambridge Dictionary（剑桥词典）将“human”评为2026年度词汇，以回应这一“由全球围绕AI模糊人与机器界限之际身为人类意味着什么的讨论所定义”的一年。"
+                "x": "作者失去丰厚合约、作家被移出奖项短名单，使用AI的指控正在出版界掀起冲击波。言情小说家Coral Hart（笔名）自2025年起借助AI以21个笔名写了370部小说，在Kindle Unlimited上赚到“六位数高段”的收入。Tuhin Chakrabarty领导的一项研究估计，近期自出版的图书中约有五分之一含有至少25%的AI生成（AI-generated）文本。"
+              },
+              {
+                "t": "p",
+                "x": "一位文学经纪人把主流出版业比作“蛮荒西部”。Hachette在三月撤回了Shy Girl；新人小说家Jerry Falade的经纪人退出了一份 $2m 的合约；Thélyson Orélien被移出Goncourt长名单。被指控的作家很难自证清白，AALA’s Hannah Bowman呼吁建立“公平而周全的程序”。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "插图：CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "出版专家Thad McIlroy表示，出版商需要“勇敢”一些，发布详尽的AI政策。US版权法要求图书必须由“人类创作”。在法国，面向与AI合作的小说作者的Prix Pascal de Littérature IA已经设立。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cambridge Dictionary elige\n'human' como palabra del año",
-          "body": "Cambridge Dictionary eligió 'human' para 2026, año de debate sobre lo humano ante una IA que difumina límites.",
-          "mini_headline": "Cambridge elige 'human'",
+          "headline": "Cómo la AI convirtió la edición\nen el salvaje oeste",
+          "body": "Las editoriales no dan pautas claras de AI a los agentes y un autor indie ha escrito 370 novelas con AI desde 2025.",
+          "mini_headline": "El salvaje oeste literario de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "Ilustración: Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "El Cambridge Dictionary ha elegido ‘human’ como palabra del año 2026 en respuesta a un año “definido por debates globales sobre lo que significa ser humano cuando la IA difumina los límites entre personas y máquinas”."
+                "x": "Con autores que pierden contratos lucrativos y escritores retirados de listas finales de premios, las acusaciones de uso de AI están sacudiendo el mundo editorial. La novelista romántica Coral Hart (un seudónimo) ha escrito 370 novelas con 21 seudónimos usando AI desde 2025, y ha ganado “seis cifras altas” en Kindle Unlimited. Un estudio dirigido por Tuhin Chakrabarty estima que alrededor de una quinta parte de los libros autopublicados recientemente contiene al menos un 25% de texto AI-generated."
+              },
+              {
+                "t": "p",
+                "x": "Una agente literaria compara la edición convencional con “el salvaje oeste”. Hachette retiró Shy Girl en marzo; los agentes del novelista debutante Jerry Falade se retiraron de un acuerdo de $2m; Thélyson Orélien fue eliminado de la lista larga del Goncourt. A los escritores acusados les cuesta limpiar su nombre, y Hannah Bowman, de AALA (AALA’s), pide “un proceso justo y reflexivo”."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "Ilustración: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "El experto editorial Thad McIlroy afirma que las editoriales deben ser “valientes” y publicar políticas de AI amplias. La ley de derechos de autor de US exige que un libro sea de “autoría humana”. En Francia se creó el Prix Pascal de Littérature IA para autores de ficción que trabajan con AI."
               }
             ]
           }
@@ -1569,73 +1463,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Cambridge 사전,\n올해의 단어 'human'",
-          "body": "Cambridge 사전이 AI 시대의 2026년 단어로 'human'을 골랐다.",
-          "mini_headline": "Cambridge, 'human' 선정",
+          "headline": "AI는 어떻게 출판계를\n무법지대로 만들었나",
+          "body": "출판사 AI 방침은 없고, 한 인디 작가는 2025년부터 AI로 370편을 썼다.",
+          "mini_headline": "AI가 만든 문학 무법지대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "일러스트: Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Cambridge Dictionary(케임브리지 사전)가 ‘human’을 2026년 올해의 단어로 선정했다. “AI가 사람과 기계의 경계를 흐리는 가운데 인간이란 무엇을 의미하는지를 둘러싼 전 세계적 논쟁으로 규정된” 한 해에 대한 응답이다."
+                "x": "작가들이 수익성 좋은 계약을 잃고 문학상 최종 후보에서 빠지는 가운데, AI 사용 의혹이 출판계에 충격파를 일으키고 있다. 로맨스 소설가 Coral Hart(필명)는 2025년부터 AI를 써서 21개 필명으로 소설 370편을 썼고, Kindle Unlimited에서 “여섯 자릿수 후반대” 수입을 올렸다. Tuhin Chakrabarty가 이끈 한 연구는 최근 자가 출판된 책의 약 다섯 권 중 한 권꼴이 AI 생성(AI-generated) 텍스트를 25% 이상 담고 있다고 추정한다."
+              },
+              {
+                "t": "p",
+                "x": "한 문학 에이전트는 주류 출판계를 “무법지대”에 비유한다. Hachette는 삼월에 Shy Girl을 회수했고, 데뷔 소설가 Jerry Falade의 에이전트들은 $2m 규모의 계약에서 발을 뺐으며, Thélyson Orélien은 Goncourt 롱리스트에서 제외됐다. 의혹을 받은 작가들은 결백을 입증하기 어렵고, AALA’s Hannah Bowman은 “공정하고 사려 깊은 절차”를 촉구한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "일러스트: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "출판 전문가 Thad McIlroy는 출판사들이 “용기”를 내 폭넓은 AI 정책을 내놓아야 한다고 말한다. US 저작권법은 책이 “인간이 저술한” 것이어야 한다고 규정한다. 프랑스에서는 AI와 함께 작업하는 소설가를 위한 Prix Pascal de Littérature IA가 만들어졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cambridge辞典の\n今年の単語は「human」",
-          "body": "Cambridge辞典は、AI時代の2026年を表す単語に「human」を選んだ。",
-          "mini_headline": "Cambridge、「human」を選出",
+          "headline": "AIはいかに出版界を\n無法地帯に変えたか",
+          "body": "出版社はAI方針を示さず、あるインディー作家は2025年以降AIで小説370作を書いた。",
+          "mini_headline": "AIが生んだ文学の無法地帯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "イラスト：Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Cambridge Dictionary（ケンブリッジ辞典）は、「AIが人と機械の境界をあいまいにする中で、人間であるとは何を意味するのかをめぐる世界的な議論に特徴づけられた」年を受け、「human」を2026年の今年の単語に選んだ。"
+                "x": "作家が高額な契約を失い、文学賞の最終候補から外される中、AI使用の疑惑が出版界に衝撃を広げている。ロマンス作家のCoral Hart（筆名）は2025年以降、AIを使って21の筆名で370作の小説を書き、Kindle Unlimitedで「六桁台後半」の収入を得た。Tuhin Chakrabartyが率いた研究は、最近自費出版された本のおよそ五分の一に、AI生成（AI-generated）のテキストが25%以上含まれていると推定している。"
+              },
+              {
+                "t": "p",
+                "x": "ある文芸エージェントは、大手出版の現状を「無法地帯」になぞらえる。Hachetteは三月にShy Girlを撤回し、デビュー作家Jerry Faladeのエージェントは$2m の契約から手を引き、Thélyson OrélienはGoncourtのロングリストから外された。疑いをかけられた作家が潔白を証明するのは難しく、AALA’s Hannah Bowmanは「公正で思慮深い手続き」を求めている。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "イラスト：CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "出版の専門家Thad McIlroyは、出版社は「勇気」を持って包括的なAI方針を公表すべきだと言う。US著作権法は、本が「人間によって書かれた」ものであることを求めている。フランスでは、AIとともに執筆する小説家を対象にPrix Pascal de Littérature IAが創設された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cambridge词典\n年度词选“human”",
-          "body": "Cambridge词典将“human”选为2026年度词汇，回应AI模糊人机界限的讨论。",
-          "mini_headline": "Cambridge选出“human”",
+          "headline": "AI如何把出版业\n变成蛮荒西部",
+          "body": "出版商未向经纪人给出明确AI政策，一位独立作者自2025年起用AI写了370部小说。",
+          "mini_headline": "AI与文学的蛮荒西部",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "插图：Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Cambridge Dictionary（剑桥词典）将“human”评为2026年度词汇，以回应这一“由全球围绕AI模糊人与机器界限之际身为人类意味着什么的讨论所定义”的一年。"
+                "x": "作者失去丰厚合约、作家被移出奖项短名单，使用AI的指控正在出版界掀起冲击波。言情小说家Coral Hart（笔名）自2025年起借助AI以21个笔名写了370部小说，在Kindle Unlimited上赚到“六位数高段”的收入。Tuhin Chakrabarty领导的一项研究估计，近期自出版的图书中约有五分之一含有至少25%的AI生成（AI-generated）文本。"
+              },
+              {
+                "t": "p",
+                "x": "一位文学经纪人把主流出版业比作“蛮荒西部”。Hachette在三月撤回了Shy Girl；新人小说家Jerry Falade的经纪人退出了一份 $2m 的合约；Thélyson Orélien被移出Goncourt长名单。被指控的作家很难自证清白，AALA’s Hannah Bowman呼吁建立“公平而周全的程序”。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "插图：CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "出版专家Thad McIlroy表示，出版商需要“勇敢”一些，发布详尽的AI政策。US版权法要求图书必须由“人类创作”。在法国，面向与AI合作的小说作者的Prix Pascal de Littérature IA已经设立。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cambridge Dictionary elige\n'human' como palabra del año",
-          "body": "Cambridge Dictionary eligió 'human' para 2026, año de debate sobre lo humano ante una IA que difumina límites.",
-          "mini_headline": "Cambridge elige 'human'",
+          "headline": "Cómo la AI convirtió la edición\nen el salvaje oeste",
+          "body": "Las editoriales no dan pautas claras de AI a los agentes y un autor indie ha escrito 370 novelas con AI desde 2025.",
+          "mini_headline": "El salvaje oeste literario de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/qwe8.jpg"
+                "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+                "cap": "Ilustración: Ricardo Tomás/The Guardian"
               },
               {
                 "t": "p",
-                "x": "El Cambridge Dictionary ha elegido ‘human’ como palabra del año 2026 en respuesta a un año “definido por debates globales sobre lo que significa ser humano cuando la IA difumina los límites entre personas y máquinas”."
+                "x": "Con autores que pierden contratos lucrativos y escritores retirados de listas finales de premios, las acusaciones de uso de AI están sacudiendo el mundo editorial. La novelista romántica Coral Hart (un seudónimo) ha escrito 370 novelas con 21 seudónimos usando AI desde 2025, y ha ganado “seis cifras altas” en Kindle Unlimited. Un estudio dirigido por Tuhin Chakrabarty estima que alrededor de una quinta parte de los libros autopublicados recientemente contiene al menos un 25% de texto AI-generated."
+              },
+              {
+                "t": "p",
+                "x": "Una agente literaria compara la edición convencional con “el salvaje oeste”. Hachette retiró Shy Girl en marzo; los agentes del novelista debutante Jerry Falade se retiraron de un acuerdo de $2m; Thélyson Orélien fue eliminado de la lista larga del Goncourt. A los escritores acusados les cuesta limpiar su nombre, y Hannah Bowman, de AALA (AALA’s), pide “un proceso justo y reflexivo”."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "Ilustración: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+              },
+              {
+                "t": "p",
+                "x": "El experto editorial Thad McIlroy afirma que las editoriales deben ser “valientes” y publicar políticas de AI amplias. La ley de derechos de autor de US exige que un libro sea de “autoría humana”. En Francia se creó el Prix Pascal de Littérature IA para autores de ficción que trabajan con AI."
               }
             ]
           }

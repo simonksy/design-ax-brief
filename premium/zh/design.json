@@ -12711,6 +12711,140 @@
           "x": "这些设置位于Profile > Settings > Permission (Enable generative AI features)以及Profile > Your account > AI personalization，免费和付费用户均可使用。"
         }
       ]
+    },
+    "design/claude-mobile-tabbar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "此次改版新增了底部栏，包含chat、Projects、Code和Artifacts标签。Anthropic的Daniel Destefanis在X上发帖称，这次设计改版已开始推送，而就在一天前，OpenAI刚刚宣布ChatGPT应用改版，同样加入了底部标签栏。"
+        }
+      ]
+    },
+    "design/ava-studio-launch-videos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ava Studio于11月17日发布了产品发布视频制作功能‘Launch Videos’。这款工具会分析在X上走红的发布视频的场景顺序、镜头时长和运镜，再用用户自己的产品画面生成视频。它可以作为插件在Claude Code和Codex中使用。"
+        },
+        {
+          "t": "p",
+          "x": "用户提供产品网站地址、想要的视频时长和画面比例后，智能体会帮忙寻找参考视频。用户可以按视频结构挑选参考作品，例如首次展示产品画面的场景，或竖屏手机演示。"
+        },
+        {
+          "t": "p",
+          "x": "选定参考作品后，智能体会截取真实的产品页面，并套用用户的标志、颜色和字体来搭建场景。在官方演示中，它借用‘Perplexity Computer’发布视频的剪辑和运镜，制作了一段介绍‘Router’画面的14秒视频。原片和成品可以在同一时间点并排播放，便于比较产品画面何时出现、在哪里放大。"
+        },
+        {
+          "t": "p",
+          "x": "视频在Mac或Linux电脑上渲染，并保存为可编辑的HyperFrames项目。看过初版后，用户可以要求修改标题文字或延长某个场景，再重新渲染。参考视频的搜索和浏览免费，按剪辑生成音乐则会扣除Ava积分。"
+        },
+        {
+          "t": "video",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity Computer发布视频与Router翻拍"
+        }
+      ]
+    },
+    "design/xjet-atelier-jewelry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "纳米颗粒喷射（NanoParticle Jetting）公司XJet正在Formnext 2026参展，展品包括新的在线平台XJet Atelier。该平台将AI-assisted（AI辅助）首饰设计与公司的制造工作流相连，便于定制首饰生产。XJet的NPJ工艺使用填充金属或陶瓷颗粒的液态分散液和可溶性支撑材料，适合首饰这类带有精细特征的小型复杂零件。"
+        },
+        {
+          "t": "p",
+          "x": "借助XJet Atelier，消费者可以根据提示词或图片创作自己的吊坠，并交由XJet的 3D 打印机制造。“用户可以从几句话或一张照片开始，探索并完善吊坠设计，在通过XJet的NPJ工作流进入实物生产之前，以360°预览自己的作品。”顾客可以选择不锈钢或纯银。观众可在Hall 11.0的C21展位试用这款设计生成工具。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "XJet还在推广其陶瓷和金属AM服务XPARTS，并宣布Carmel Pro和Carmel ORO平台获得首批客户订单。CEO Guy Zimmerman表示：“无论客户需要成品零件、自有生产系统，还是把个性化设计变成首饰的方法，我们都在让更多客户用上XJet的全部能力。”"
+        }
+      ]
+    },
+    "design/artificial-poster-aislop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "如今，AI slop海报在电影圈已不稀奇，所以当我看到Luca Guadagnino新片《Artificial》的设计时，翻了个白眼就继续往下滑。我没想到，这正是导演想要的反应。"
+        },
+        {
+          "t": "p",
+          "x": "如果我再细心一点，就会发现右下角写着“Artwork made by Humans”的小字。没错，这张电影海报具备了诡异AI slop的全部特征，但这正是重点。当心了，AI；人类要来抢你的饭碗了。"
+        },
+        {
+          "t": "p",
+          "x": "“你看到的未来图景是什么？Luca Guadagnino的《ARTIFICIAL》。圣诞节部分影院上映。1月8日全面上映。”（X上的帖子，2026年11月19日）"
+        },
+        {
+          "t": "p",
+          "x": "首先让我在意的是Andrew Garfield那张诡异的脸。他饰演OpenAI CEO Sam Altman，眼神中的空洞简直令人发毛，已经拉响了AI的警报。"
+        },
+        {
+          "t": "p",
+          "x": "仔细看还会发现更多破绽——沉在水下的Golden Gate Bridge、头顶莫名盘踞的蛇、倒置的飞机，以及我最不喜欢的细节：藏在树丛中的可怕Pinocchio面孔。一位X网友写道：“越看越疯狂。”另一位则称赞：“年度海报。”"
+        },
+        {
+          "t": "p",
+          "x": "“由人类创作的艺术（Gravillis Inc.与Mike Thompson）。”（X上的帖子，2026年11月19日）"
+        }
+      ]
+    },
+    "design/nngroup-synthesized-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
+        },
+        {
+          "t": "p",
+          "x": "在我们的研究中，当AI获得综合后的发现与建议，而不只是原始用户评论时，AI-generated设计（AI生成的设计）表现更好。"
+        },
+        {
+          "t": "p",
+          "x": "NN/g给一个AI模型布置了两项设计任务：一个用于改签已取消航班的单页表单，以及一个网店的多步骤结账流程。提示词和设计系统信息保持不变，只改变研究背景：每项任务提供约100条原始用户评论，或基于同一批评论得出的综合发现与建议。每项任务和条件各生成8个设计；一名人类评分者和一个LLM评审依据预先设定的评分表，对每个设计进行盲评。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+          "cap": "基于综合发现与建议生成的设计平均满足评分表77.9%的标准，基于原始用户评论生成的设计为69.5%（p < 0.001）。"
+        },
+        {
+          "t": "p",
+          "x": "航班改签任务的提升更大（11.4个百分点，结账流程为5.5个百分点）。少数原始评论抱怨了会员里程问题，但基于原始评论的设计无一处理；基于综合研究的设计则全部处理了。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+          "cap": "只有原始数据时，AI工具不得不猜测该做什么。有了综合发现与建议，它就能在团队已有决策的基础上构建。"
+        },
+        {
+          "t": "p",
+          "x": "研究成果如今有两类受众：你的团队成员，以及设计过程中使用的AI工具。UX-context design（UX情境设计）是指挑选、组织并维护用于指导AI-generated设计的UX知识的实践。"
+        }
+      ]
     }
   }
 }

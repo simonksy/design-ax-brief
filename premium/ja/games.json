@@ -12189,6 +12189,155 @@
           "x": "本講座では、Unreal EngineのシニアインストラクターであるSam Deiterが、Unreal MCP（Unreal Engine 5.8では実験的機能）を使い始めるために必要なことを一通り解説する。主要な用語、七つのステップからなるセットアップ、トラブルシューティングとデバッグ、ツールセット、エディタ内のTerminalプラグインを使うワークフロー、構成設定、時間を節約するコツ、よくある質問への回答までを扱う。"
         }
       ]
+    },
+    "games/unity-neural-unite-tokyo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+          "cap": "Unite Tokyo 2026 Keynoteで講演するAdam Smith"
+        },
+        {
+          "t": "video",
+          "yt": "ZWX5TfR1UAI"
+        },
+        {
+          "t": "p",
+          "x": "Unite Tokyo 2026の中心は「アイデアのスピードに合わせて作られた」Unity 7だった。ECS for All、Unity CLI 1.0、コーディングエージェント向けの公式plug-ins、そしてEditor内からUnity Asset Storeを検索できるAsset Library plug-inが示された。Claude、Codex、Google Antigravity、Grok向けのplug-insには、Unityのチーム自身が作成・レビューし、セキュリティチェックを済ませたスキルが付属する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+          "cap": "Unite Tokyo 2026で新しいグラフィックスツールとAtrioのサンプルシーンを紹介するSangbae Nam"
+        },
+        {
+          "t": "p",
+          "x": "Unity Neuralは、レンダリングの高速化とメモリ使用量の削減を図るAI-poweredツール群だ。Neural Texture CompressionはAtrioのテクスチャメモリを30%近く削減した。Unity 6.7 LTSで実験的機能として導入され、正式リリースはUnity 7で予定されている。Unity Graphics Kernel(UGK)は、レイトレーシング有効時のAtrioでGPU性能を62%以上向上させた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+          "cap": "Unity CLIとPipeline APIを使い、プロジェクト全体を最初から最後まで案内するKeijiro Takahashi"
+        },
+        {
+          "t": "p",
+          "x": "Keijiro Takahashiはエージェント(Unity公式plug-inを入れたClaude Code)に一人称パズルのプロトタイプを作らせた。エージェントはコードを書き、コンパイルし、エラーを読み、プレイテストまで行った。新しいAsset Library plug-inは、入力した要望から一つのアセットを見つけてシーンに配置する。同じ検索はCLIからどのエージェントでも使える。"
+        }
+      ]
+    },
+    "games/hoyoverse-petit-planet-npc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+        },
+        {
+          "t": "p",
+          "x": "HoYoverseが近く出す癒やし系生活シミュレーション「Petit Planet」では、AI-driven NPCのNaloが営むカフェを訪れることができる。Naloは過去の会話を覚えており、動的で個別化された応答を返す。クローズドベータテストでは、重い話題や自己破壊的な話題をめぐる不穏なやり取りがいくつか確認された。"
+        },
+        {
+          "t": "p",
+          "x": "開発者のYinli Huangは、Naloは何でも答えるチャットボットではないと述べた。「NaloのようにAIシステムを使うNPCsは、あらかじめ設定された道徳的価値観と性格を持つ」「プレイヤーが不適切なことを言えば、Naloはその要求への応答やそれ以上のやり取りを断る」"
+        },
+        {
+          "t": "video",
+          "yt": "RTjd0hhFO74"
+        },
+        {
+          "t": "p",
+          "x": "HoYoverseは段階的な対応の仕組みも設けた。Murphyは「そうしたやり取りが続けば、ポップアップ通知や必要に応じた人の介入など、プレイヤーにさらなる制限をかける」と説明した。AI機能はゲーム内のトグルで切り替えられる完全な任意機能で、オフにしたプレイヤーもNaloのカフェから締め出されたり、進行や実績で不利になったりはしない。"
+        }
+      ]
+    },
+    "games/romero-design-ai-trash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Doomの共同制作者は、特にモバイルは低品質な新作であふれていると語る。John RomeroはFRVR Podcastで、流通はかつてないほど容易になったと述べた。「当時は流通がとても難しかった。今は本当に簡単だ」"
+        },
+        {
+          "t": "p",
+          "x": "「ほとんどはゴミだ」と彼は言う。「ほとんどはAI-generatedか、ゲーム制作キットで自動生成しただけのものだ。本当に多い。それでも、自分の作品を世に出すことの民主化が現実になったのは素晴らしい」"
+        },
+        {
+          "t": "p",
+          "x": "Romeroは「今こそ、かつてないほどデザインが大事だ」と説明し、「本当に優れたデザインがあれば、人々はそれについて語りたくなる」と述べた。"
+        }
+      ]
+    },
+    "games/tripo-ai-gstar-b2c": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "テキスト、画像、スケッチから3Dモデルを生成する3Dモデル生成プラットフォームTripo AIは、今年もG-STARに出展し、B2Bホールを訪れにくい学生や小規模インディー開発スタジオとの接点を広げるため、B2Cホールにもブースを構えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+          "cap": "来場者が3Dモデルを直接生成・編集し、機能と性能を体験できるスペースも設けられた ©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "Head of ProductのJack Fanによると、Tripoはワンクリックで3Dモデルを生成する「Tripo Studio」と、作業を段階ごとに分ける「Canvas」に注力している。サービスは毎週複数回更新され、数か月ごとに新しい基盤モデルが登場する。「H3.1」は超高精度モデル、「P2.0」は50,000ポリゴン未満の軽量ジオメトリで5秒以内にモデルを生成する。"
+        },
+        {
+          "t": "p",
+          "x": "多くのユーザーは、自分が使うエージェントからMCP(Model Context Protocol)経由でTripo AIに入ってくる。Head of Korea & Japan MarketsのEllie Wangは、今年はゲーム分野からの関心が爆発的に広がったと述べた。韓国のスタジオからのフィードバックを受け、作成したアセットを共有する「Team Plan」が生まれた。"
+        }
+      ]
+    },
+    "games/roblox-free-porting-program": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Robloxはモバイル、PC、コンソールにわたり、限られた数の開発者とゲームを対象に取り組んでいる"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "画像提供：Roblox"
+        },
+        {
+          "t": "p",
+          "x": "Robloxは、開発者が既存のゲームを無料で自社プラットフォームへ移行できる新たなクリエイタープログラムを開始した。"
+        },
+        {
+          "t": "p",
+          "x": "Roblox Game SolutionsのシニアディレクターであるJim Greer氏によれば、Robloxは「ゲームをRobloxに持ち込むエージェント型の変換ツールを構築し、今日このプログラムを全員に開放する」という。"
+        },
+        {
+          "t": "p",
+          "x": "UnityやUnrealを含め、どのエンジンで作られたゲームでも、開発者はRobloxにプラットフォームへの変換を申請できる。"
+        },
+        {
+          "t": "p",
+          "x": "当初は、モバイル、PC、コンソールにわたる限られた開発者とゲームが対象となる。承認された開発者には、ソースコードとアセットの提供が求められる。"
+        },
+        {
+          "t": "p",
+          "x": "Robloxは、開発者のコードを扱う際に「AI-assistedツールを使う場合がある」としつつ、「提供されたコードとアセットをAIモデルの学習やファインチューニングに使うことはない」と明言した。"
+        },
+        {
+          "t": "p",
+          "x": "変換は無償でRobloxが担い、開発者はゲーム、知的財産、Roblox版の所有権を保持する。開発者が選ばない限り、Robloxのプラットフォームに何かが公開されることはない。"
+        },
+        {
+          "t": "p",
+          "x": "Robloxは9月、クリエイターが複数のプラットフォームでゲームを単独アプリとして公開できるEverywhereイニシアチブを発表している。"
+        },
+        {
+          "t": "p",
+          "x": "Robloxはまた、クリエイターが近くオフラインのソロプレイを有効にできるようになり、mid-2027の正式リリースに先立ってアーリーアクセスを提供すると発表した。"
+        }
+      ]
     }
   }
 }

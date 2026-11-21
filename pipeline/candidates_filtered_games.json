@@ -1,109 +1,84 @@
 {
   "section": "games",
-  "now_iso": "2026-11-20T22:00:39Z",
+  "now_iso": "2026-11-21T22:01:02Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Stellar Blade: Blood Rain is \"handmade from start to finish\" after AI music video backlash, Shift Up boss says – but, uh, the devs are still using AI",
-      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
-      "source": "GamesRadar+",
+      "title": "Epic: AI to convert UE5 projects to UE6; Fortnite's 20,000+ Blueprints ported to ~3M lines of Verse by AI; UE 5.9 gets UE6 AI tooling (Python, MCP)",
+      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+      "source": "Unreal Engine (Epic Games)",
       "category": "games",
-      "published_iso": "2026-11-20T12:17:30Z",
-      "excerpt": "So, not handmade from start to finish?",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RdbjwMeBFtaVL7Q5Bg5w6-1920-80.jpg",
-      "cluster": "c8"
+      "published_iso": "2026-11-20T00:00:00Z",
+      "excerpt": "Epic's Marcus Wassmer says Blueprints will no longer coexist with Scene Graph in UE6 because AI is expected to make UE5-to-UE6 conversion practical or automatic; Epic used AI to port Fortnite Battle Royale's 20,000+ Blueprints into a ~3M-line Verse prototype, and brings expanded Python scripting and MCP improvements to UE 5.9. Epic says much of UE 5.9 was built with AI agents.",
+      "og_image": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn",
+      "history_match": {
+        "score": 0.18,
+        "date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
+        "title": "Getting Started with Unreal MCP | Turn AI into Action in UE 5.8",
+        "band": "related"
+      }
     },
     {
-      "title": "Ahead of GTA 6, Take-Two CEO calls out Anthropic and OpenAI over AI game clones as it's \"ironic\" to \"stomp on someone else's IP\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/",
-      "source": "GamesRadar+",
+      "title": "How HoYoverse Is Keeping Petit Planet's AI NPCs From Harassing Players",
+      "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
+      "source": "GameSpot",
       "category": "games",
-      "published_iso": "2026-11-14T13:10:08Z",
-      "excerpt": "After Claude blocked users from \"recreating someone else's specific game\"",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
+      "published_iso": "2026-11-17T10:36:49+00:00",
+      "excerpt": "Petit Planet's AI cafe NPC Nalo remembers past conversations; HoYoverse says AI NPCs have preset moral values, refuse toxic or manipulative prompts, escalate to warnings and human intervention, and the AI features are optional via an in-game toggle.",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+    },
+    {
+      "title": "게임사 글로벌 진출, 4개사 손잡고 AI로 준비 기간 줄인다 (현지화·LQA·폰트·사운드 AI 접목)",
+      "url": "https://www.thisisgame.com/articles/433045",
+      "source": "ThisIsGame (디스이즈게임)",
+      "category": "games",
+      "published_iso": "2026-11-19T15:34:29Z",
+      "excerpt": "한국모바일게임협회 임원사 도브러너·모리사와코리아·라티스글로벌커뮤니케이션스·창조공작소가 지스타 2026에서 원스톱 수출 지원 협약을 맺고, 보안·다국어 폰트·현지화/LQA·사운드 서비스에 AI를 접목해 출시 준비 기간을 줄이기로 했다.",
+      "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/11/20/1639307306144028545_517a684f-c0aa-4dd1-b8ed-91e059df0331_1795104696020.jpg"
+    },
+    {
+      "title": "\"Making 3D Modeling Easy for Everyone\": Tripo AI Expands Reach to B2C",
+      "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+      "source": "Inven Global",
+      "category": "games",
+      "published_iso": "2026-11-20T06:07:22+00:00",
+      "excerpt": "At G-Star 2026, 3D model generation platform Tripo AI, already widely used by game developers, outlined its push to expand from B2B game-studio use toward everyday consumer creators.",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg",
       "history_match": {
         "score": 0.157,
-        "date": "2026-11-02",
-        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-        "title": "Anthropic tells Claude to stop remaking video games",
+        "date": "2026-11-12",
+        "url": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
+        "title": "Creators Built Playable Worlds, VR Games & Digital Pets for Tripothon",
         "band": "related"
       }
     },
     {
-      "title": "Epic Games' Tim Sweeney says Steam's AI disclosure is \"unfair to developers who use AI to make good games\" because it associates AI \"with bad games\"",
-      "url": "https://www.gamesradar.com/games/epic-games-tim-sweeney-says-steams-ai-disclosure-is-unfair-to-developers-who-use-ai-to-make-good-games-because-it-associates-ai-with-bad-games/",
-      "source": "GamesRadar+",
+      "title": "Unity and OpenAI: \"In the Era of AI Gaming, the Role and Capabilities of Developers Become Even More Crucial\"",
+      "url": "https://www.invenglobal.com/articles/28921/unity-and-openai-in-the-era-of-ai-gaming-the-role-and-capabilities-of-developers-become-even-more-crucial",
+      "source": "Inven Global",
       "category": "games",
-      "published_iso": "2026-11-14T00:39:47Z",
-      "excerpt": "\"It's a guilt by association pattern that all developers need to push back on\"",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/umZkVR6nq6NmtKLHanmrFU-1920-80.jpg",
-      "history_match": {
-        "score": 0.175,
-        "date": "2026-10-24",
-        "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
-        "title": "Still mad at Valve for Steam's AI disclosures, Epic Games boss criticizes \"forcing developers to write a political statement to be used against them by the hate mob\"",
-        "band": "related"
-      }
+      "published_iso": "2026-11-21T03:12:33+00:00",
+      "excerpt": "Interview with Unity and OpenAI after the 24-hour Unity AI Game Jam held ahead of G-Star 2026, on how AI tooling changes developer roles and workflows.",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/21/r1795230914172457.jpeg"
     },
     {
-      "title": "[지스타 2026] 코에이 테크모 \"AI로 품질 검사 효율화…게임의 재미는 사람이\"",
-      "url": "https://www.inews24.com/view/2028436",
-      "source": "아이뉴스24",
+      "title": "Legal Experts Re-examine 'Boundaries of Games' Surrounding AI Chat Apps and Private Server Users",
+      "url": "https://www.invenglobal.com/articles/28894/legal-experts-re-examine-boundaries-of-games-surrounding-ai-chat-apps-and-private-server-users",
+      "source": "Inven Global",
       "category": "games",
-      "published_iso": "2026-11-20T12:06:15+09:00",
-      "excerpt": "QA·점검 업무에 AI 활용…확보한 시간, 게임 완성도 높이는 데 투입\r\n1~2프레임 단위 조정 고수…고난도 액션도 공정한 대응 기회 보장 \"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단순 작업을 대체할 수는 있지만, 최종적으로 무엇이 재미있는지 고민하고 만드는 것은 사람의 역할입니다.“시바타 코헤이 코에이 테크모 게 [아이뉴스24 곽민구 기자] \"사람이 직접 만들지 않으면 게임은 절대 재미있어질 수 없다고 생각합니다. AI로 단",
-      "og_image": "https://image.inews24.com/v1/261429f860458e.jpg"
+      "published_iso": "2026-11-20T10:04:53+00:00",
+      "excerpt": "Korean legal and academic experts examined how AI chat apps and illegal private servers are challenging the boundaries of game regulation at a G-Star 2026 academic conference.",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/r1795169169728321.jpeg"
     },
     {
-      "title": "[지스타 2026] 김형태 시프트업 대표 \"AI 게임 쏟아질 2027년…수작업 돋보일 것\"",
-      "url": "https://www.inews24.com/view/2028184",
-      "source": "아이뉴스24",
-      "category": "games",
-      "published_iso": "2026-11-19T14:49:34+09:00",
-      "excerpt": "AI 활용해 개발 완성도 높이되 창작은 사람이 주도…시프트업 개발 철학 공개\r\n미카미 신지 \"정해진 반응 넘어선 AI 캐릭터 등장할 것…새로운 경험 제공\" “2027년에는 인공지능(AI)으로 만든 게임을 굉장히 많이 보게 될 것입니다. 그 가운데 사람의 손으로 만든 수공예 같은 작품들이 더 돋보일 수 있는 시대가 될 것이라고 생각합니다.”김형태 시프트업 대표는 19일 부산 벡스코에 [아이뉴스24 곽민구 기자] “2027년에는 인공지능(AI)으로 만든 게임을 ",
-      "og_image": "https://image.inews24.com/v1/43d08eb30b2f00.jpg"
-    },
-    {
-      "title": "『Roblox』が既存ゲームの無料移植を支援―AI支援ツールで移植コストの削減を目指す、IP所有権は開発者が維持",
-      "url": "http://www.gamespark.jp/article/2026/11/20/175129.html",
-      "source": "Game*Spark",
-      "category": "games",
-      "published_iso": "2026-11-20T19:30:03+09:00",
-      "excerpt": "Robloxは、既存ゲームを無償で自社プラットフォーム向けに変換するクリエイタープログラムを開始しました。",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1221779.jpg",
-      "history_match": {
-        "score": 0.23,
-        "date": "2026-10-30",
-        "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
-        "title": "Roblox says more than 80% of its top 100 games used AI to accelerate creation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "『Stellar Blade』『NIKKE』のSHIFT UP「最初から最後まで手作り」を新たな社内理念に―反発を教訓と語る一方、AIは今後のゲーム開発に不可欠との見解も",
-      "url": "http://www.gamespark.jp/article/2026/11/20/175132.html",
-      "source": "Game*Spark",
-      "category": "games",
-      "published_iso": "2026-11-20T20:30:03+09:00",
-      "excerpt": "土台と仕上げ、始まりと終わりの両方に人間が責任を持つという考えを重要視する姿勢を見せました。",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1221826.png",
-      "cluster": "c8"
-    },
-    {
-      "title": "Roblox launches creator program for devs to bring games to its platform for free",
-      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+      "title": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
+      "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
       "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-11-17T15:07:20+00:00",
-      "excerpt": "Firm is working with a limited number of developers and games across mobile, PC, and console",
-      "og_image": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "history_match": {
-        "score": 0.199,
-        "date": "2026-10-27",
-        "url": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
-        "title": "Remix launches platform for anyone to build their own game on desktop, web or mobile",
-        "band": "related"
-      }
+      "published_iso": "2026-11-20T11:13:00+00:00",
+      "excerpt": "Howard Scott Warshaw said that although he doesn't see a similar crash occurring, the new challenge with the flood of AI-made games is finding a way to \"winnow out the crap\".",
+      "og_image": "https://assetsio.gnwcdn.com/IMG_8185.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
       "title": "小説か，漫画か，ゲームかという問いは時代遅れに。「キャラぷ」のWrtnが語る「ハイパー・パーソナライゼーション」とAIエンタメの未来［G-STAR 2026］",
@@ -111,110 +86,79 @@
       "source": "4Gamer.net",
       "category": "games",
       "published_iso": "2026-11-20T14:03:07+09:00",
-      "excerpt": "AIでコンテンツの制作負荷は大きく下がり，体験はユーザーごとに分岐するようになる。小説か漫画かゲームかという区分を越えた「Narrative Industry」の姿とは。G-CON 2026のメイン…",
-      "og_image": "https://www.4gamer.net/games/991/G999104/20261120011/SS/002.jpg",
-      "cluster": "c8"
+      "excerpt": "G-CON 2026 keynote by Wrtn (Crack / Kyarapu): AI sharply lowers content production cost and branches experiences per user, blurring novel/comic/game boundaries into a 'Narrative Industry'.",
+      "og_image": "https://www.4gamer.net/games/991/G999104/20261120011/SS/002.jpg"
     },
     {
-      "title": "「Stellar Blade」キム・ヒョンテ氏と「バイオハザード」三上真司氏が対談。物語の伝え方やAIとの付き合い方を語る［G-STAR 2026］",
-      "url": "https://www.4gamer.net/games/991/G999110/20261120014/",
-      "source": "4Gamer.net",
+      "title": "Grand Theft Auto VI PS5 Streams/Captures Get DLSS 5 and Frame Generation on PC Through Veyra/Neural Screen, But Gameplay Still Runs at 30FPS",
+      "url": "https://wccftech.com/grand-theft-auto-vi-ps5-dlss-5-frame-generation-pc-veyra-neural-screen/",
+      "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-11-20T14:09:30+09:00",
-      "excerpt": "韓国のゲームイベント「G-STAR 2026」と併催のカンファレンス「G-CON 2026」で，SHIFT UPのキム・ヒョンテ氏と，Unbound Gamesの三上真司氏による対談が行われた。2人…",
-      "og_image": "https://www.4gamer.net/games/991/G999110/20261120014/SS/005.jpg",
-      "cluster": "c8"
-    },
-    {
-      "title": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
-      "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-11-18T17:49:59Z",
-      "excerpt": "I'm not sure Toy Story is the best comparison here.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KdxWCFDZsXW7CbYzsMzvSb-1920-80.jpg"
-    },
-    {
-      "title": "Principal Venture Partners’ Songyee Yoon on AI-native games, human creativity and gaming’s new rivals | GamesBeat Next 2026",
-      "url": "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-11-19T18:28:04+00:00",
-      "excerpt": "Songyee Yoon believes that gaming’s playbook will build the next wave of AI companies, even when there isn’t a dungeon in sight.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/GBN1126DSC_3201.jpg",
+      "published_iso": "2026-11-21T15:00:00+00:00",
+      "excerpt": "Third-party tools Veyra and Neural Screen inject DLSS 5 neural rendering and frame generation into captured GTA VI PS5 footage on PC, but add latency and the real frame rate stays at 30.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/veyra-nr-GTAVI-HD-1920x1103.jpeg",
       "history_match": {
-        "score": 0.259,
+        "score": 0.182,
         "date": "2026-11-13",
-        "url": "https://gamesbeat.com/ai-native-game-development-making-games-that-can-only-be-made-with-ai-gamesbeat-next-2026/",
-        "title": "AI-native game development: Making games that can only be made with AI | GamesBeat Next 2026",
+        "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
+        "title": "Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support",
         "band": "related"
       }
+    },
+    {
+      "title": "Radeon RX 9070 XT Reportedly Runs Resident Evil Requiem 10% Faster With AMDLSS5 2.5, While Using Around 500 MB Less VRAM",
+      "url": "https://wccftech.com/amdlss5-2-5-boosts-dlss-5-style-neural-rendering-performance-by-60-on-amd-gpus/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-11-21T11:01:37+00:00",
+      "excerpt": "AMDLSS5 2.5, a mod bringing DLSS 5-style neural rendering to AMD GPUs, reportedly adds ~10% performance, up to 6x frame generation and ~500MB lower VRAM use versus 2.0.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/AMDLSS5-2.5-Baldurs-Gate-1920x1077.jpg",
+      "history_match": {
+        "score": 0.301,
+        "date": "2026-11-12",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+        "title": "This mod to get DLSS 5 running on AMD RX 9000-series GPUs promises better performance than others",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Unite Tokyo 2026 Keynote recap: Unity Neural (neural texture compression), official coding-agent plug-ins for Claude/Codex/Antigravity/Grok, AI Asset Library search",
+      "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+      "source": "Unity Blog",
+      "category": "games",
+      "published_iso": "2026-11-17T00:00:00Z",
+      "excerpt": "Unity showed Unity Neural, AI-powered rendering tools whose Neural Texture Compression cut the Atrio demo's texture memory by ~30% (experimental in Unity 6.7 LTS, full in Unity 7), official plug-ins for Claude, Codex, Google Antigravity and Grok, an agent-driven prototype demo, and an Asset Library plug-in that finds assets by text prompt.",
+      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/c434ae876ad1d579e55874528c20ba43bbe9545d-1920x1080.png",
+      "history_match": {
+        "score": 0.211,
+        "date": "2026-11-03",
+        "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
+        "title": "Introducing the official Unity plugin for Antigravity",
+        "band": "related"
+      }
+    },
+    {
+      "title": "'Now, more than ever, it's about design': John Romero loves that games are easier to make but warns 'most are trash'",
+      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+      "source": "Video Games Chronicle",
+      "category": "games",
+      "published_iso": "2026-11-20T10:54:34+00:00",
+      "excerpt": "John Romero says game-making is easier than ever but most new releases are 'trash', many AI-generated or auto-generated with game-making kits, so design now matters more than ever.",
+      "og_image": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
     }
   ],
   "dedup": {
     "dropped": 4,
-    "kept": 13,
+    "kept": 12,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
-        "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析",
-        "match": {
-          "score": 0.515,
-          "date": "2026-11-07",
-          "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
-          "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？"
-        }
-      }
-    ],
+    "dropped": [],
     "review": 5,
-    "same_story_pairs": [
-      [
-        "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
-        "http://www.gamespark.jp/article/2026/11/20/175132.html",
-        0.32
-      ],
-      [
-        "http://www.gamespark.jp/article/2026/11/20/175132.html",
-        "https://www.4gamer.net/games/991/G999110/20261120014/",
-        0.556
-      ],
-      [
-        "https://www.4gamer.net/games/991/G999104/20261120011/",
-        "https://www.4gamer.net/games/991/G999110/20261120014/",
-        0.397
-      ]
-    ]
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-22",
-      "title": "Xbox Manager Says 'Hundreds' There Are Using AI Before Deleting Account: 'If I'm Fired Tomorrow It Will Be Because I Told You The Truth That Nobody Wants You To Know'",
-      "url": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "누구나 만드는 '바이브 코딩 웹게임'의 위험성",
-      "url": "https://www.gamemeca.com/view.php?gid=1782007"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "크래프톤, 독자 개발 LLM '라온-1 미니' 성능 공개",
-      "url": "https://www.gamemeca.com/view.php?gid=1782130"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Agree IP terms early, cut through AI hype, stop overloading players: Four lessons from PGC Nordics",
-      "url": "https://www.pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
-      "url": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway"
-    },
     {
       "date": "2026-10-23",
       "title": "Wonder Interactive's Strata uses AI to take Unreal Engine games to browsers using WebAssembly and WebGPU",
@@ -874,6 +818,31 @@
       "date": "2026-11-20",
       "title": "Getting Started with Unreal MCP | Turn AI into Action in UE 5.8",
       "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Principal Venture Partners’ Songyee Yoon on AI-native games, human creativity and gaming’s new rivals | GamesBeat Next 2026",
+      "url": "https://gamesbeat.com/principal-venture-partners-songyee-yoon-on-ai-native-games-human-creativity-and-gamings-new-rivals-gamesbeat-next-2026/"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Roblox launches creator program for devs to bring games to its platform for free",
+      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Stellar Blade: Blood Rain is \"handmade from start to finish\" after AI music video backlash, Shift Up boss says – but, uh, the devs are still using AI",
+      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "[지스타 2026] 코에이 테크모 \"AI로 품질 검사 효율화…게임의 재미는 사람이\"",
+      "url": "https://www.inews24.com/view/2028436"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
+      "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/"
     }
   ]
 }

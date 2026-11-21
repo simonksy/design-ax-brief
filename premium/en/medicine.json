@@ -5166,6 +5166,97 @@
           "x": "“AI alert systems should be evaluated based on real-world outcomes — not detection alone — to reduce alert fatigue, avoid unnecessary interventions, and ensure meaningful improvements in patient care,” the researchers wrote."
         }
       ]
+    },
+    "medicine/rsna-ai-malpractice-jury": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "How radiologists utilize AI and how they document that use could sway jurors in a malpractice case. Presenter Elizabeth Song of Brown University and colleagues examined how different AI-radiologist workflows affect perceived malpractice liability."
+        },
+        {
+          "t": "p",
+          "x": "In an online experiment, 2,347 U.S. adults acted as hypothetical jurors in a case involving a missed intracranial hemorrhage. Participants were randomized to either a no-AI control or one of 21 AI scenarios, varying single- versus double-read workflow, whether the radiologist documented an initial interpretation, and whether jurors were told the AI's error rates."
+        },
+        {
+          "t": "p",
+          "x": "Double-read workflows, documented initial interpretations, and disclosure of AI error rates all lowered perceived liability. Liability was highest when radiologists initially spotted the abnormality but then changed their interpretation after the AI missed it: more than 80% of participants found the radiologist liable, compared with 62% in the control group. The researchers call this effect an \"erroneous change penalty.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Radiologist liability is strongly influenced by workflow design, documentation practices, and inclusion of AI error rates,\" the researchers wrote."
+        }
+      ]
+    },
+    "medicine/athlete-ecg-foundation-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI-powered cardiac screening could evolve sports medicine by boosting accuracy, efficiency, and cost-effectiveness, with automated ECG interpretation based on foundation models becoming key for large-scale athlete screening. Before deployment, it is crucial to verify whether these clinically developed models are applicable to this population. We evaluated whether ECG foundation models trained on general clinical populations can diagnose athlete-specific ECG findings. We fine-tuned three models (ECG-FM, HuBERT-ECG, ECGFounder) on PhysioNet/CinC 2021, 87,662 samples, and tested them on 43 expert-annotated ECGs from highly trained/national-level athletes. Performance was strong on PhysioNet/CinC 2021 (AUROC 0.97, AUPRC 0.57, Sensitivity 0.89) but dropped on athletes’ data, confirming domain shift. ECGFounder performed best (AUROC 0.84, AUPRC 0.72, Sensitivity 0.57) and detected the most frequent findings, Sinus Bradycardia (AUROC 0.87) and Sinus Arrhythmia (AUROC 0.95), well. Per-label estimates for rare classes must be interpreted cautiously, given the small cohort. This work contributes to developing athlete-focused AI frameworks for reliable ECG-based screening."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
+          "cap": "Fig. 1: Prediction heat map for the best-performing model (ECGFounder) for each athlete and each diagnostic label on the LMU dataset."
+        }
+      ]
+    },
+    "medicine/prehospital-thrombectomy-xai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Acute ischaemic stroke due to large-vessel occlusion requires rapid endovascular treatment (EVT). Prehospital stroke scales, though widely used, have not achieved an optimal balance of sensitivity, specificity, and overall discriminative performance, underlining the need for evaluation of machine learning (ML) approaches to improve early identification of EVT candidates. We conducted a retrospective development and internal validation study based on digital real-world data from consecutive EMS-transported patients with suspected stroke (n = 1,435, 94 EVT events [6.6%]) from the Stroke Angel initiative in a rural region in Germany (Rhön-Grabfeld), covering the period from January 2015 to June 2021. Predicted probabilities of six ML models were recalibrated using Platt scaling, and clinical relevance was evaluated using decision curve analysis (DCA). SHapley Additive exPlanations (SHAP) values were computed to quantify individual feature contributions to model predictions. Among 287 patients (24 EVT events) in the evaluation cohort, Random Forest achieved the highest AUROC (0.85 [95% CI, 0.78–0.90]), with sensitivity of 0.92 [0.74–0.99], specificity of 0.66 [0.60–0.72]. The 4I-SS (score > 2) yielded an AUROC of 0.82 [0.72–0.89], sensitivity of 0.87 [0.67–0.96], and specificity of 0.69 [0.64–0.74]. Bootstrapped intervals overlapped across all metrics and platt scaling probabilities, suggesting no statistically significant superiority."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig2_HTML.png",
+          "cap": "Fig. 2: ROC and PR curves for identifying EVT candidates within the evaluation cohort."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig4_HTML.png",
+          "cap": "Fig. 4: SHAP summary plots illustrating feature contributions to the predictive model."
+        }
+      ]
+    },
+    "medicine/uk-dhsc-social-care-ai-guidance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The first ever cross-sector guidance on the use of artificial intelligence in children's and adult social care has been published, setting out how social care services and providers can make best use of AI to cut administrative burden and improve the quality of care."
+        },
+        {
+          "t": "p",
+          "x": "A pilot in Swindon Borough Council's adult social care found that using an AI tool to support social workers delivered a 63% reduction in administrative time. It also slashed the average time taken to complete a Care Act assessment conversation from 1.5 hours to just 30 minutes, and the time to write up assessments from 4 hours to just 1.5 hours."
+        },
+        {
+          "t": "p",
+          "x": "Staff at Peterborough council developed a bespoke AI assistant called Hey Geraldine, which answered over 1,200 questions and saved around 15 minutes per interaction."
+        },
+        {
+          "t": "p",
+          "x": "Minister of State for Social Care and Mental Health Alison McGovern said: \"The administrative load and endless paperwork in social care can all too often take the focus away from patients. By harnessing the power of AI, we can shift that focus right back on what matters most, caring.\""
+        },
+        {
+          "t": "p",
+          "x": "The guidance is a single national reference point for leaders, practitioners and sector organisations, setting out key principles on governance, accountability, data protection and professional oversight, alongside practical advice."
+        }
+      ]
+    },
+    "medicine/smartwatch-hypertension-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00058-8/d41591-026-00058-8_53997330.jpg"
+        },
+        {
+          "t": "p",
+          "x": "With the help of artificial intelligence, a consumer smartwatch performed similarly to office-based hypertension measurement in a prospective clinical study, which suggests a new strategy for population-level opportunistic screening."
+        },
+        {
+          "t": "p",
+          "x": "Hypertension increases the risk of cardiovascular disease and all-cause mortality, but around half of all adults with hypertension (especially younger adults) do not know that they have it. Widely available consumer wearables can measure blood pressure (BP), but these usually require calibration with cuff BP measurements. Moreover, data on their performance relative to established screening is lacking, which limits clinical translation."
+        }
+      ]
     }
   }
 }

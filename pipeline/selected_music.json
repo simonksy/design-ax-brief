@@ -1,106 +1,101 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "music",
   "items": [
     {
-      "rank": 1,
-      "tool": "Music",
+      "title": "Instagram launches content protection tool for unauthorised reposts and AI-modification",
+      "url": "https://musically.com/2026/11/20/instagram-launches-content-protection-tool-for-unauthorised-reposts-and-ai-modification/",
+      "source": "Music Ally",
       "category": "music",
+      "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Eminem Publisher Eight Mile Style Files Amended Suno Copyright and DMCA Suit, Adding 100+ Allegedly Infringing Outputs",
-      "url": "https://www.digitalmusicnews.com/2026/11/20/eight-mile-style-v-suno-amended-suit/",
-      "source": "Digital Music News",
-      "published_iso": "2026-11-20T21:28:48+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Eminem-Live-1024x546.jpg",
-      "excerpt": "Eight Mile Style has filed an amended complaint against Suno adding DMCA and name/likeness claims and more than 100 allegedly infringing AI outputs echoing 'Lose Yourself' and 'Without Me'.",
-      "rationale": "A new court filing by a different plaintiff (Eminem's publisher) that adds DMCA and likeness claims plus 100+ cited outputs, which raises the legal stakes for anyone generating with Suno."
+      "published_iso": "2026-11-20T10:58:53+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
+      "excerpt": "Instagram is rolling out 'content protection', which detects unauthorised reposts of creators' original Reels and is being extended to flag AI-modified versions of their content - relevant to musicians whose clips get remixed by AI.",
+      "rationale": "New platform feature musicians can switch on now to catch reposted and AI-modified versions of their Reels."
     },
     {
-      "rank": 2,
-      "tool": "Music",
+      "title": "Mooer debuts Future Flex, a next-gen amp modeler with a built-in speaker, AI and NAM A2",
+      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex",
+      "source": "Guitar World",
       "category": "music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "How many streams are AI tracks actually generating on DSPs? (They Aren't Listening: roughly 87% of tracks never streamed)",
-      "url": "https://www.digitalmusicnews.com/2026/11/19/ai-music-streams-analysis/",
-      "source": "Digital Music News",
-      "published_iso": "2026-11-20T01:00:06+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/AI-Streams-Data-1024x546.jpg",
-      "excerpt": "New distributor data shared with DMN shows machine-generated tracks rack up far fewer streams and fans than their upload volume suggests; of ~300M tracks on DSPs only ~40M have a single stream.",
-      "rationale": "New distributor data on how far AI upload volume outruns actual listening, which is useful hard numbers for creators deciding whether bulk AI releases pay off."
-    },
-    {
-      "rank": 3,
       "tool": "Music",
-      "category": "music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "title": "Anukari 1.1 now available",
-      "url": "https://www.soundonsound.com/news/anukari-11-now-available",
-      "source": "Sound On Sound",
-      "published_iso": "2026-11-16T07:30:46+00:00",
-      "og_image": null,
-      "excerpt": "The 3D physics-modelling synth adds strings, plates, tubes and a blowable mouthpiece, plus new compatibility with AI assistants such as Claude and ChatGPT so users can build patches via prompts.",
-      "rationale": "A shipping instrument update that lets producers build synth patches by prompting Claude or ChatGPT, so it changes the sound-design workflow right away."
-    },
-    {
-      "rank": 4,
-      "tool": "Music",
-      "category": "music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "Grimes Releases Two New Psy Opera Songs",
-      "url": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
-      "source": "Pitchfork",
-      "published_iso": "2026-11-20T18:11:09Z",
-      "og_image": "https://media.pitchfork.com/photos/6b008b2c40d468bfa5dcac08/16:9/w_1280,c_limit/grimes-songs.jpg",
-      "excerpt": "Grimes shared 'Deepseek' and 'Killing God With Computers' from her AI-themed album Psy Opera; 'Deepseek' is the only track to actually use AI, adapted from a poem generated with the DeepSeek LLM.",
-      "rationale": "A major artist's new release that shows a specific, disclosed AI use (lyrics adapted from a DeepSeek-generated poem) rather than a fully generated track."
-    },
-    {
-      "rank": 5,
-      "tool": "Music",
-      "category": "music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Sonic Palette: Predicting Dynamic Color Themes from Music",
-      "url": "https://arxiv.org/abs/2611.25781",
+      "published_iso": "2026-11-21T16:00:00+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh-1200-80.jpg",
+      "excerpt": "Mooer's Future Flex all-in-one amp modeler packs 55 amp models, 69 effects, a built-in speaker, an AI tone assistant and NAM A2 neural-capture compatibility.",
+      "rationale": "Fresh hardware launch putting an AI tone assistant and NAM A2 neural captures into a single guitar modeler."
+    },
+    {
+      "title": "Hive Launches AI Assistants to Help Venues and Promoters Sell More Tickets",
+      "url": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/",
+      "source": "Hypebot",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-11-18T15:50:41+00:00",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png",
+      "excerpt": "Fan-marketing platform Hive launched AI assistants that automatically draft email and SMS campaigns for venues and promoters, freeing live-event marketers to focus on strategy and creative.",
+      "rationale": "Concrete product launch for the live-music business side: AI-drafted email/SMS ticket campaigns."
+    },
+    {
+      "title": "김하온 복제한 AI 등장…\"일주일 안에 넘어보겠다\"",
+      "url": "https://www.newsis.com/view/NISX20261120_0003877136",
+      "source": "Newsis",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "published_iso": "2026-11-21T00:00:00+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
+      "excerpt": "래퍼 김하온과 그의 목소리·말투·음악을 학습한 AI 도플갱어 '노아(NOAH)'가 SBS 다큐 '나의 이방인' 3부 'AI, 나를 닮은 너'(22일 방송)에서 랩 대결을 펼친다.",
+      "rationale": "Korean artist vs. his own AI voice clone on SBS airing today - timely local angle on artist cloning."
+    },
+    {
+      "title": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models",
+      "url": "https://arxiv.org/abs/2611.24453v1",
       "source": "arXiv",
-      "published_iso": "2026-11-19T09:12:45Z",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "published_iso": "2026-11-18T14:01:33+00:00",
       "og_image": null,
-      "excerpt": "A music-conditioned autoregressive Transformer predicts frame-wise five-colour palettes from audio, modelling how visual colour themes evolve over time in response to music.",
-      "rationale": "New research that turns audio into time-varying colour palettes, with a direct use for visualisers, lyric videos and stage design."
+      "excerpt": "Mechanistic-interpretability study that locates sparse 'circuits' inside symbolic music transformers responsible for chord-progression prediction, opening a path to more controllable AI composition models.",
+      "rationale": "New research locating the chord-progression circuitry in symbolic music models - a route to more controllable composition AI."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.digitalmusicnews.com/2026/11/20/eight-mile-style-v-suno-amended-suit/": {
+      "https://musically.com/2026/11/20/instagram-launches-content-protection-tool-for-unauthorised-reposts-and-ai-modification/": {
         "verdict": "new",
-        "nearest": "https://www.digitalmusicnews.com/2026/11/16/elvis-presley-enterprises-amended-suno-lawsuit/",
+        "nearest": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
         "new_action": ""
       },
-      "https://www.digitalmusicnews.com/2026/11/19/ai-music-streams-analysis/": {
+      "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex": {
         "verdict": "new",
-        "nearest": "https://musically.com/2026/11/17/deezer-report-ai-music-2026/",
+        "nearest": "https://www.soundonsound.com/news/heritage-audios-i73-pro-gains-nam-a2-support",
         "new_action": ""
       },
-      "https://www.soundonsound.com/news/anukari-11-now-available": {
-        "verdict": "new",
-        "nearest": "https://www.musicradar.com/music-tech/massive-xl-is-here-native-instruments-supersizes-its-flagship-soft-synth-with-ai-powered-preset-generation-custom-wavetables-and-much-more",
-        "new_action": ""
-      },
-      "https://pitchfork.com/story/listen-to-two-new-grimes-songs/": {
+      "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2611.25781": {
+      "https://www.newsis.com/view/NISX20261120_0003877136": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.newsis.com/view/NISX20261107_0003858783",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2611.24453v1": {
+        "verdict": "new",
+        "nearest": "https://arxiv.org/abs/2610.32007",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups: (1) Yonhap [인&아웃] column on the AI-sung Melon #1 is commentary on the 11-14 story (yna AKR20261113157000005). (2) Music Ally WMG/Spotify AI remix talk is exec commentary on the running Spotify remix story (DMN 11-02). (3) DMN UMG 'walled garden' is exec commentary in the running UMG AI-stance story (Music Ally 11-02, 11-20). (4) Peter Gabriel is an interview and reaction piece. Not chosen on score: Music Ally agentic marketing feature, A.I.Radio, Live Nation investor day, Tencent Music earnings remark, Hive (live-event marketing tool), Hypebot touring explainer (evergreen), Harmonic Circuit arXiv. Eight Mile Style is a separate plaintiff's amended complaint, not the Elvis/EPE filing; no earlier Eight Mile v. Suno card exists in the 30-day history. Outlets: DMN x2, Sound On Sound, Pitchfork, arXiv. I could not run a full exact-grep of published_urls.json (the file is too large to read in full here). The curator brief's cross-section list flags no music items, but roll's gate should confirm."
+    "note": "Dropped as duplicates: CMU 'Music may be excluded from Australia's AI-friendly copyright reforms' (same story as 11-20 Guardian 'Australian music industry rejects divide-and-conquer exemption'); DMN 'Universal Music lambasts walled garden criticism' (same Morgan Stanley TMT conference UMG remarks as the 11-20 Music Ally 'UMG says 68% want a kill switch' card); Music Ally 'WMG and Spotify talk AI remixes' (conference commentary, related to 11-02 Spotify AI remix tool card, no new release). Excluded per brief: Variety CAA/NO FAKES (movies only). Passed over on score: Dexerto Binding of Isaac (off-list, better items available), Peter Gabriel and Hendrix-sister interviews (commentary), IMPALA streaming-fraud interview, Hypebot touring explainer (evergreen), Music Ally agentic-marketing feature (paywalled), Newsis AI glasses at concerts (feature). Mooer Future Flex is a different product from the 11-08 Heritage i73 Pro NAM A2 card, so new. Caveat: curator has Read-only tools and could not exact-grep the 4.8k-line published_urls.json across all sections - orchestrator should grep the 5 picked URLs and 'Instagram content protection' / 'Mooer' / 'Hive' / '김하온' before roll."
   }
 }

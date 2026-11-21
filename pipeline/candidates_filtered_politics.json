@@ -1,98 +1,109 @@
 {
   "section": "politics",
-  "now_iso": "2026-11-20T22:00:39Z",
+  "now_iso": "2026-11-21T22:01:02Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "title": "Effort to regulate 'killer robots' delayed to 2028",
+      "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
+      "source": "POLITICO Europe",
+      "category": "politics",
+      "published_iso": "2026-11-21T16:43:51+00:00",
+      "excerpt": "The CCW Seventh Review Conference closed with 128 states agreeing to launch 'the elaboration of an international instrument on lethal autonomous weapons systems' over two years, reporting to a 2028 meeting; Russia blocked a firmer mandate and binding status was left open. Hook: adopted CCW outcome (flagged high-priority in keywords).",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+      "history_match": {
+        "score": 0.27,
+        "date": "2026-11-09",
+        "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+        "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
+        "band": "related"
+      }
+    },
+    {
+      "title": "2026 Elections: Man indicted over fake video of Puma Shen",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868134",
+      "source": "Taipei Times",
+      "category": "politics",
+      "published_iso": "2026-11-21T00:00:00+08:00",
+      "excerpt": "Taoyuan prosecutors indicted a 49-year-old man and are seeking a one-year sentence under the Civil Servants Election and Recall Act for posting a deepfake voice video of DPP Taipei mayoral candidate Puma Shen on Threads ahead of the 11-28 local elections. New: a formal indictment (prior cards covered CIB counts and the Threads account takedown).",
+      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
+      "history_match": {
+        "score": 0.157,
+        "date": "2026-11-21",
+        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
+        "title": "2026 Elections: Taiwan tells Meta of China accounts to influence polls",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "source": "BBC News",
+      "category": "politics",
+      "published_iso": "2026-11-20T19:51:52.870Z",
+      "excerpt": "President Trump said he could penalise or ban US companies that build AI data centres abroad, giving little detail and saying his team was hearing the idea for the first time. Statement, not yet a written policy; attribute to Trump.",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-11-10",
+        "url": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
+        "title": "Norway suspends electricity grid access for new data centres",
+        "band": "related"
+      },
+      "cluster": "c2"
+    },
+    {
+      "title": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
       "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "source": "The Verge",
       "category": "politics",
       "published_iso": "2026-11-20T18:50:19+00:00",
-      "excerpt": "President Trump said US companies building AI data centers abroad would face a 'tremendous tax' (BBC reports he floated a ban), adding he had not yet run the idea by his staff. AI geopolitics / datacenter siting; statement, no formal order yet.",
+      "excerpt": "Trump floated a 'tremendous tax' on US companies that build AI data centers overseas, saying he had not run the idea by staff. Same story as the BBC item - pick one.",
       "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "history_match": {
-        "score": 0.155,
-        "date": "2026-10-22",
-        "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-        "title": "Judge rejects Trump's claim EPA can dismiss data center pollution lawsuits",
-        "band": "related"
-      }
+      "cluster": "c2"
     },
     {
-      "title": "California investigates Nvidia over whether chip exports ended up in China",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "source": "The Guardian",
+      "title": "Joint Investigation Report: China is Trying to Get U.S. Companies Addicted to Chinese AI Models",
+      "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+      "source": "House Select Committee on the CCP",
       "category": "politics",
-      "published_iso": "2026-11-20T09:18:30Z",
-      "excerpt": "California's attorney general has opened an investigation and subpoenaed Nvidia over whether its AI chips were diverted to China and whether the company misled investors, saying the Megaspeed scandal 'raises bright red flags'. New state-level formal action in the chip-export story.",
-      "og_image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd",
+      "published_iso": "2026-11-20T14:25:26-05:00",
+      "excerpt": "Chairs Moolenaar (China Select Committee) and Garbarino (Homeland Security) released a joint investigation report on US companies integrating Chinese open-weight AI models (origin, training data, possible unauthorized distillation) and on whether the US open-weight AI strategy leaves firms a real alternative. Investigation began April 2026 with letters to Anysphere (Cursor) and Airbnb. Primary document.",
+      "og_image": null,
       "history_match": {
-        "score": 0.22,
-        "date": "2026-11-16",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+        "score": 0.179,
+        "date": "2026-10-27",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+        "title": "Alibaba's Qwen AI caught trying to contact server in China",
         "band": "related"
       }
     },
     {
-      "title": "Probe opened over Nvidia influence on US government",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/21/2003868107",
-      "source": "Taipei Times",
-      "category": "politics",
-      "published_iso": "2026-11-21T00:00:00+08:00",
-      "excerpt": "US representatives sent a letter dated Thursday to Commerce Secretary Lutnick opening a probe into whether Nvidia was allowed to interfere with Commerce's investigation of Megaspeed over possible illegal diversion of AI chips to China (Reuters). Formal congressional action, distinct from the 879k-license disclosure.",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P09-261121-323.jpg",
-      "history_match": {
-        "score": 0.25,
-        "date": "2026-11-18",
-        "url": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
-        "title": "Joint statement from Department of Commerce and Department of Justice on Megaspeed investigation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "베선트 \"미중 정상, AI 군사 결정에 인간 개입 합의\"",
-      "url": "https://www.yna.co.kr/view/AKR20261121004500072",
+      "title": "靑, '시험공정성회복TF' 구성…'AI부정행위 근절' 근본대책 마련",
+      "url": "https://www.yna.co.kr/view/AKR20261120154100001",
       "source": "연합뉴스",
       "category": "politics",
-      "published_iso": "2026-11-21T02:38:11+09:00",
-      "excerpt": "스콧 베선트 미 재무장관이 CNBC 인터뷰에서 트럼프 대통령과 시진핑 주석이 AI(슈퍼지능)를 활용한 모든 군사적 결정에 항상 인간이 개입해야 하며 주요 군사작전에서 자율 작동을 허용하지 않기로 합의했다고 밝혔다. 서명된 공동성명 텍스트는 아직 없음 — 공식 발언 기준.",
-      "og_image": "https://img9.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P4.jpg",
-      "history_match": {
-        "score": 0.172,
-        "date": "2026-11-12",
-        "url": "https://www.yna.co.kr/view/AKR20261111129300009",
-        "title": "美 재무 \"미중 정상, 내주 회동서 AI 대화 진전시킬 것\"",
-        "band": "related"
-      }
+      "published_iso": "2026-11-20T17:24:18+09:00",
+      "excerpt": "청와대가 수능 직전 꾸린 'AI 악용 부정행위 비상 대응 TF'를 '시험 공정성 회복 TF'(단장 임광현 비서실장)로 확대하고, 총리실 주관 중앙제보센터 가동을 지시했다. 같은 날 이 대통령은 국가시험 제도 전면 개편을 주문. 11-18 수능 AI 부정 카드의 후속 - 새 공식 조치(TF 격상·제보센터)인지 큐레이터 판단 필요.",
+      "og_image": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg"
     },
     {
-      "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
-      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
-      "source": "Federal Register (ACUS)",
+      "title": "수능 끝나도 'AI 커닝' 추적…빅테크 협조로 부정행위 가린다",
+      "url": "https://www.yna.co.kr/view/AKR20261120143100017",
+      "source": "연합뉴스",
       "category": "politics",
-      "published_iso": "2026-11-19T00:00:00-05:00",
-      "excerpt": "The Administrative Conference of the United States requests public comment on policies for use of generative AI ('generative super intelligence') by agency adjudicators, staff, parties and representatives in federal agency adjudications; responses feed an ACUS best-practice recommendation. Primary document; FR publication date 2026-11-19 (no time given).",
-      "og_image": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+      "published_iso": "2026-11-20T17:00:15+09:00",
+      "excerpt": "정부가 2027학년도 수능 이후에도 AI를 악용한 부정행위를 추적·조사하며 빅테크 기업 협조로 의심 사례를 가려내고 있다. 수능 AI 부정 연속 보도의 후속 - 공식 조치 내용 확인 필요.",
+      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111816270005400_P4.jpg"
     },
     {
-      "title": "Artificial intelligence (AI) in social care",
-      "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care",
-      "source": "GOV.UK",
+      "title": "국내 대학 연쇄 해킹에 중국 해킹 커뮤니티 연관 AI 도구 흔적",
+      "url": "https://www.yna.co.kr/view/AKR20261120131200017",
+      "source": "연합뉴스",
       "category": "politics",
-      "published_iso": "2026-11-20T10:00:01+00:00",
-      "excerpt": "UK government publishes non-statutory guidance on the use of artificial intelligence in children's and adults' social care in England. Primary document.",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-    },
-    {
-      "title": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
-      "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
-      "source": "The Guardian",
-      "category": "politics",
-      "published_iso": "2026-11-18T16:39:25Z",
-      "excerpt": "Three Senate Democrats sent letters to Apple and Google CEOs saying app-store safeguards against AI 'nudification' apps are insufficient and teens can still reach them despite parental controls.",
-      "og_image": "https://i.guim.co.uk/img/media/e2ed5d5a662380c8bc35eddb7768f22cbfcb9b8e/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66c6fe40c9862a3b0bb42cf7b0fcd404"
+      "published_iso": "2026-11-22T06:15:02+09:00",
+      "excerpt": "국내 대학 20여 곳 연쇄 해킹에서 중국어 AI 침투테스트 도구 ARTEX 기반 'Prtseek' 사용 흔적을 S2W가 발견했다. 공격자가 연구행정·회계시스템 취약점으로 계정·계좌정보를 탈취한 정황. 보안업체 분석(정부 조치 아님); 11-17 FBI/Amazon ARTEX 경보 카드와 연관.",
+      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110512170001300_P4.jpg"
     },
     {
       "title": "European Commission scrambles to contain AI-assisted cyberattack",
@@ -100,7 +111,7 @@
       "source": "The Register",
       "category": "politics",
       "published_iso": "2026-11-19T15:14:54Z",
-      "excerpt": "The European Commission confirmed attackers used an AI tool in a cyberattack that took staff HR and medical-reimbursement systems offline; officials are investigating whether personal data was compromised.",
+      "excerpt": "The European Commission took staff HR and medical reimbursement systems offline after an AI-assisted cyberattack and is investigating whether personal data was compromised; a Commission official confirmed the October attack used AI.",
       "og_image": "https://image.theregister.com/5311112.jpg?imageId=5311112&x=0&y=0&cropw=100&croph=84.87&panox=0&panoy=0&panow=100&panoh=84.87&width=1200&height=683"
     },
     {
@@ -109,56 +120,71 @@
       "source": "The Register",
       "category": "politics",
       "published_iso": "2026-11-20T17:30:00Z",
-      "excerpt": "Amazon CISO CJ Moses says suspected Chinese state-linked attackers used the open-source Cairn AI agent framework to autonomously find and exploit a zero-day in MONAI Label and seize a university server, adapting for nearly a day without human direction. Vendor threat report, not a government action.",
+      "excerpt": "Amazon CISO CJ Moses said suspected Chinese state-linked attackers used AI agents built on the open-source Cairn pentest framework that ran for nearly a day without human direction, found a zero-day and took full control of a university server. Vendor disclosure, not a government action.",
       "og_image": "https://image.theregister.com/5311400.jpg?imageId=5311400&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-      "title": "2026 Elections: Taiwan tells Meta of China accounts to influence polls",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
-      "source": "Taipei Times",
+      "title": "Chinese web giant Tencent says new US GPU ban 'sets everyone back in China'",
+      "url": "https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927",
+      "source": "The Register",
       "category": "politics",
-      "published_iso": "2026-11-21T00:00:00+08:00",
-      "excerpt": "Taiwan flagged nearly 2,700 Threads accounts to Meta as a suspected Chinese influence campaign before the Nov. 28 local elections; internal reports say ~260 accounts spread 2,150+ AI-generated videos with 2.35M interactions. Meta says many were already disabled. Check vs taiwan-cib-election-deepfake (11-13).",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-328.jpg"
+      "published_iso": "2026-11-19T00:39:16Z",
+      "excerpt": "Tencent's president said the new US remote-access GPU restrictions set back all of China's AI developers but will also push China's domestic chip industry. Reaction to the already-covered Commerce remote-access rule - likely duplicate unless curator wants the China-side response.",
+      "og_image": "https://image.theregister.com/233376.jpg?imageId=233376&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "history_match": {
+        "score": 0.243,
+        "date": "2026-11-17",
+        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+        "title": "US moves to cut China’s remote access to AI chips",
+        "band": "related"
+      }
+    },
+    {
+      "title": "A view from DC: Navigating the California and Colorado ADMT rules",
+      "url": "https://iapp.org/news/a/a-view-from-dc-navigating-the-california-and-colorado-admt-rules",
+      "source": "IAPP",
+      "category": "politics",
+      "published_iso": "2026-11-20T15:10:19.940Z",
+      "excerpt": "New obligations for AI used in automated decisions under California's CPPA ADMT regulations and Colorado's rules take effect 1 Jan 2027; the column walks through what deployers must do. Analysis, no new document.",
+      "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt78ce839ab681a824/6b005dacdae41d6061c75672/cobun-zweifel-keegan-view-from-dc-112026.jpg"
+    },
+    {
+      "title": "What We Now Know About AI and Elections",
+      "url": "https://www.techpolicy.press/what-we-now-know-about-ai-and-elections/",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "published_iso": "2026-11-19T15:09:16.361Z",
+      "excerpt": "NYU's Center for Social Media, AI and Politics and the Knight-Georgetown Institute convened researchers and policy experts to take stock of how generative AI actually affected the 2026 election cycle. Research roundup, not an official action.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/23f637fcb5eba74f4e86225290dc95ba58d21d9f-1200x675.png"
+    },
+    {
+      "title": "울산 SK AI데이터센터 찾은 李…\"韓 AX는 AI 고속도로가 열 것\"",
+      "url": "https://www.etnews.com/20261121000052",
+      "source": "전자신문",
+      "category": "politics",
+      "published_iso": "2026-11-21T18:08:24+09:00",
+      "excerpt": "이재명 대통령이 21일 울산 SK AI 데이터센터(공정률 71%, 2027년 말 가동) 건설 현장을 찾아 속도전 지원을 약속하며 'AI 고속도로'가 AI 대전환을 열 것이라고 말했다. 현장 방문·발언 - 새 문서 없음; AIDC 하위법령 입법예고와 같은 축.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/21/rcv.YNA.20261121.PYH2026112102660001300_P1.jpg"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 10,
+    "dropped": 2,
+    "kept": 14,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
-    "same_story_pairs": []
+    "review": 5,
+    "same_story_pairs": [
+      [
+        "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+        "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        0.355
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-22",
-      "title": "New UN initiative will aim to tackle the military uses of AI",
-      "url": "https://apnews.com/article/un-artificial-intelligence-military-china-us-e0a3c48c91a9de89cab72609d185f658"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Judge rejects Trump's claim EPA can dismiss data center pollution lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
-      "url": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Publishers want Brussels and London to stop Meta's new AI terms",
-      "url": "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "[AI픽] \"전기는 국가망에서 받으라더니\"…AI 데이터센터 새 규제 논란",
-      "url": "https://www.yna.co.kr/view/AKR20261021039400017"
-    },
     {
       "date": "2026-10-23",
       "title": "Nunes Marques suspende postagens ilegais contra campanha de Lula",
@@ -833,6 +859,31 @@
       "date": "2026-11-20",
       "title": "Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure.",
       "url": "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Artificial intelligence (AI) in social care",
+      "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "2026 Elections: Taiwan tells Meta of China accounts to influence polls",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "베선트 \"미중 정상, AI 군사 결정에 인간 개입 합의\"",
+      "url": "https://www.yna.co.kr/view/AKR20261121004500072"
     }
   ]
 }

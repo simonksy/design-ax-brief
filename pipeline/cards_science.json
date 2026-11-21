@@ -1,701 +1,17 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "section": "science",
   "cards": [
     {
-      "id": "riemann-alpoge-claude-proof",
+      "id": "science-tess-amateur-claude",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Anthropic 수학자\n리만 가설 증명 주장",
-      "body": "Alpöge가 Claude와 함께 167년 묵은 리만 가설 증명을 내놨다.",
-      "mini_headline": "Claude와 함께한 리만 증명",
+      "headline": "Claude로 행성 찾는\n아마추어, 성과는 엇갈려",
+      "body": "TESS 공식 목록의 행성 후보 둘은 아마추어가 Claude Code로 찾아냈다.",
+      "mini_headline": "AI로 행성 찾는 아마추어들",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-            "cap": "보라색 디지털 콘셉트로 표현한 수학 방정식"
-          },
-          {
-            "t": "p",
-            "x": "인공지능 기업 Anthropic에서 일하는 수학자 Levent Alpöge가 금요일 LLM으로 수학에서 가장 유명한 문제를 증명했다고 주장했다. Alpöge는 웹사이트에 올린 성명에 “Claude와 함께 작업하며 리만 가설의 증명을 발견했다고 믿는다”고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "리만 가설은 1859년 수학자 베른하르트 리만(Bernhard Riemann)이 처음 제기했다. 클레이 수학연구소(Clay Mathematics Institute)가 상금 백만 달러를 내건 몇 안 되는 미해결 문제이기도 하다."
-          },
-          {
-            "t": "p",
-            "x": "Alpöge는 Claude가 Lean으로 작성한 증명을 공개했다. Lean은 논증 하나하나의 수학적 정확성을 검증하는 프로그래밍 언어다. 그는 이 증명이 “일반화된 리만 가설”을 확인한다고 말한다. 발표는 Anthropic이 증시에 기록적으로 데뷔한 지 하루 만에 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "칠레 가톨릭대학교의 Hector Pasten은 “증명이 옳고 제대로 이해된다면, 연결이 부분적이었던 수학의 여러 분야 사이의 사전이 완성된다”며 “일종의 로제타석”이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "MIT 수학자 Andrew Sutherland는 Alpöge의 결과를 Lean으로 따로 컴파일해 본 뒤 “참으로 역사적인 순간”이라며 “증명의 수학적 세부를 이해하려면 해야 할 일이 많다”고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Anthropic mathematician claims\na Riemann hypothesis proof",
-          "body": "Levent Alpöge announced a Claude-assisted proof of the 167-year-old Riemann hypothesis, long thought out of reach.",
-          "mini_headline": "Claude-assisted Riemann proof",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "Math equations with purple digital concept"
-              },
-              {
-                "t": "p",
-                "x": "Levent Alpöge, a mathematician and employee at artificial intelligence company Anthropic, claimed on Friday to have proven the most famous problem in all of mathematics using an LLM. “I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,” Alpöge wrote in a statement posted on his website."
-              },
-              {
-                "t": "p",
-                "x": "The Riemann hypothesis was first proposed in 1859 by the mathematician Bernhard Riemann. It is one of the few open problems on which the Clay Mathematics Institute has placed a million-dollar bounty."
-              },
-              {
-                "t": "p",
-                "x": "Alpöge posted his Claude proof coded in the programming language Lean, which verifies the mathematical correctness of each argument. He says it confirms the “Generalized Riemann Hypothesis.” The announcement comes just a day after Anthropic's record-breaking debut on the stock market."
-              },
-              {
-                "t": "p",
-                "x": "“If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial,” says Hector Pasten of the Pontifical Catholic University of Chile. “Something like a Rosetta Stone.”"
-              },
-              {
-                "t": "p",
-                "x": "“This is indeed an historic moment,” said MIT mathematician Andrew Sutherland after he had independently compiled Alpöge’s result in Lean. “There is much work to be done to understand the mathematical details of the proof.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Anthropic 수학자\n리만 가설 증명 주장",
-          "body": "Alpöge가 Claude와 함께 167년 묵은 리만 가설 증명을 내놨다.",
-          "mini_headline": "Claude와 함께한 리만 증명",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "보라색 디지털 콘셉트로 표현한 수학 방정식"
-              },
-              {
-                "t": "p",
-                "x": "인공지능 기업 Anthropic에서 일하는 수학자 Levent Alpöge가 금요일 LLM으로 수학에서 가장 유명한 문제를 증명했다고 주장했다. Alpöge는 웹사이트에 올린 성명에 “Claude와 함께 작업하며 리만 가설의 증명을 발견했다고 믿는다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "리만 가설은 1859년 수학자 베른하르트 리만(Bernhard Riemann)이 처음 제기했다. 클레이 수학연구소(Clay Mathematics Institute)가 상금 백만 달러를 내건 몇 안 되는 미해결 문제이기도 하다."
-              },
-              {
-                "t": "p",
-                "x": "Alpöge는 Claude가 Lean으로 작성한 증명을 공개했다. Lean은 논증 하나하나의 수학적 정확성을 검증하는 프로그래밍 언어다. 그는 이 증명이 “일반화된 리만 가설”을 확인한다고 말한다. 발표는 Anthropic이 증시에 기록적으로 데뷔한 지 하루 만에 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "칠레 가톨릭대학교의 Hector Pasten은 “증명이 옳고 제대로 이해된다면, 연결이 부분적이었던 수학의 여러 분야 사이의 사전이 완성된다”며 “일종의 로제타석”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "MIT 수학자 Andrew Sutherland는 Alpöge의 결과를 Lean으로 따로 컴파일해 본 뒤 “참으로 역사적인 순간”이라며 “증명의 수학적 세부를 이해하려면 해야 할 일이 많다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Anthropicの数学者\nリーマン予想の証明を主張",
-          "body": "AlpögeがClaudeの助けで167年来のリーマン予想の証明を発表した。",
-          "mini_headline": "Claude支援のリーマン証明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "紫色のデジタルコンセプトを背景にした数式"
-              },
-              {
-                "t": "p",
-                "x": "人工知能企業Anthropicの社員で数学者のLevent Alpögeは金曜日、LLMを使って数学全体で最も有名な問題を証明したと主張した。Alpögeは自身のウェブサイトに掲載した声明で「Claudeと協力して、リーマン予想の証明を発見したと考えている」と記した。"
-              },
-              {
-                "t": "p",
-                "x": "リーマン予想は1859年に数学者ベルンハルト・リーマンが初めて提唱した。クレイ数学研究所が百万ドルの懸賞金をかけた数少ない未解決問題の一つである。"
-              },
-              {
-                "t": "p",
-                "x": "Alpögeは、各議論の数学的な正しさを検証するプログラミング言語Leanで記述したClaudeによる証明を公開した。彼によれば、この証明は「一般化リーマン予想」を確かめるものだという。発表は、Anthropicが株式市場で記録的なデビューを果たしたわずか一日後のことだった。"
-              },
-              {
-                "t": "p",
-                "x": "チリ・カトリック大学のHector Pastenは「証明が正しく、理解されれば、つながりが部分的でしかなかった数学の異なる分野の間の辞書が完成する」と述べ、「ロゼッタ・ストーンのようなものだ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "MITの数学者Andrew SutherlandはAlpögeの結果をLeanで独自にコンパイルした後、「これはまさに歴史的な瞬間だ」と述べ、「証明の数学的な詳細を理解するには、なすべきことが多く残っている」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Anthropic数学家\n宣称证明黎曼猜想",
-          "body": "Levent Alpöge宣布借助Claude证明了已有167年历史的黎曼猜想。",
-          "mini_headline": "Claude辅助的黎曼证明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "带有紫色数字概念的数学方程"
-              },
-              {
-                "t": "p",
-                "x": "人工智能公司Anthropic的员工、数学家Levent Alpöge周五宣称，他借助LLM证明了整个数学领域最著名的问题。Alpöge在其个人网站发布的声明中写道：“我相信，我与Claude合作，发现了黎曼猜想的证明。”"
-              },
-              {
-                "t": "p",
-                "x": "黎曼猜想由数学家伯恩哈德·黎曼于1859年首次提出。它是克雷数学研究所悬赏百万美元的少数几个未解问题之一。"
-              },
-              {
-                "t": "p",
-                "x": "Alpöge公布了用编程语言Lean编写的Claude证明，Lean可以验证每一步论证的数学正确性。他表示，该证明确认了“广义黎曼猜想”。此次宣布距Anthropic在股市创纪录上市仅过去一天。"
-              },
-              {
-                "t": "p",
-                "x": "智利天主教大学的Hector Pasten表示：“如果这个证明正确并被理解，它将补全数学不同分支之间原本只有部分联系的一部词典。”“有点像罗塞塔石碑。”"
-              },
-              {
-                "t": "p",
-                "x": "MIT数学家Andrew Sutherland在用Lean独立编译了Alpöge的结果后说：“这确实是一个历史性时刻。”“要理解该证明的数学细节，还有大量工作要做。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Matemático de Anthropic afirma\nprobar la hipótesis de Riemann",
-          "body": "Levent Alpöge anunció una prueba asistida por Claude de la hipótesis de Riemann, abierta desde hace 167 años.",
-          "mini_headline": "Prueba de Riemann asistida por Claude",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "Ecuaciones matemáticas con un concepto digital en tono morado"
-              },
-              {
-                "t": "p",
-                "x": "Levent Alpöge, matemático y empleado de la empresa de inteligencia artificial Anthropic, afirmó el viernes haber demostrado el problema más famoso de todas las matemáticas con ayuda de un LLM. «Creo que, trabajando con Claude, he descubierto una demostración de la hipótesis de Riemann», escribió Alpöge en un comunicado publicado en su sitio web."
-              },
-              {
-                "t": "p",
-                "x": "La hipótesis de Riemann fue propuesta por primera vez en 1859 por el matemático Bernhard Riemann. Es uno de los pocos problemas abiertos por los que el Clay Mathematics Institute ofrece una recompensa de un millón de dólares."
-              },
-              {
-                "t": "p",
-                "x": "Alpöge publicó su demostración hecha con Claude y codificada en el lenguaje de programación Lean, que verifica la corrección matemática de cada argumento. Según él, confirma la «hipótesis de Riemann generalizada». El anuncio llega apenas un día después del debut bursátil récord de Anthropic."
-              },
-              {
-                "t": "p",
-                "x": "«Si la demostración es correcta y se comprende, completa un diccionario entre distintas ramas de las matemáticas cuyas conexiones eran solo parciales», dice Hector Pasten, de la Pontificia Universidad Católica de Chile. «Algo así como una piedra de Rosetta»."
-              },
-              {
-                "t": "p",
-                "x": "«Este es sin duda un momento histórico», dijo el matemático del MIT Andrew Sutherland tras compilar de forma independiente el resultado de Alpöge en Lean. «Queda mucho trabajo por hacer para entender los detalles matemáticos de la demostración»."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Anthropic 수학자\n리만 가설 증명 주장",
-          "body": "Alpöge가 Claude의 도움으로 167년 된 리만 가설 증명을 발표했다.",
-          "mini_headline": "Claude와 함께한 리만 증명",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "보라색 디지털 콘셉트의 수학 방정식"
-              },
-              {
-                "t": "p",
-                "x": "인공지능 기업 Anthropic의 수학자이자 직원인 Levent Alpöge는 금요일, LLM을 활용해 수학 전체에서 가장 유명한 문제를 증명했다고 주장했다. Alpöge는 자신의 웹사이트에 올린 성명에서 “Claude와 함께 작업하며 리만 가설의 증명을 발견했다고 믿는다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "리만 가설은 1859년 수학자 베른하르트 리만(Bernhard Riemann)이 처음 제기했다. 클레이 수학연구소(Clay Mathematics Institute)가 백만 달러의 상금을 건 몇 안 되는 미해결 문제 가운데 하나다."
-              },
-              {
-                "t": "p",
-                "x": "Alpöge는 각 논증의 수학적 정확성을 검증하는 프로그래밍 언어 Lean으로 작성한 Claude 증명을 공개했다. 그는 이 증명이 “일반화된 리만 가설”을 확인한다고 말한다. 이번 발표는 Anthropic이 주식시장에 기록적으로 데뷔한 지 불과 하루 만에 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "칠레 가톨릭대학교의 Hector Pasten은 “증명이 옳고 제대로 이해된다면, 연결이 부분적이었던 수학의 여러 분야 사이의 사전이 완성된다”며 “일종의 로제타석”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "MIT 수학자 Andrew Sutherland는 Alpöge의 결과를 Lean으로 독립적으로 컴파일한 뒤 “참으로 역사적인 순간”이라며 “증명의 수학적 세부를 이해하려면 해야 할 일이 많다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Anthropicの数学者\nリーマン予想の証明を主張",
-          "body": "AlpögeがClaudeの助けで167年来のリーマン予想の証明を発表した。",
-          "mini_headline": "Claude支援のリーマン証明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "紫色のデジタルコンセプトを背景にした数式"
-              },
-              {
-                "t": "p",
-                "x": "人工知能企業Anthropicの社員で数学者のLevent Alpögeは金曜日、LLMを使って数学全体で最も有名な問題を証明したと主張した。Alpögeは自身のウェブサイトに掲載した声明で「Claudeと協力して、リーマン予想の証明を発見したと考えている」と記した。"
-              },
-              {
-                "t": "p",
-                "x": "リーマン予想は1859年に数学者ベルンハルト・リーマンが初めて提唱した。クレイ数学研究所が百万ドルの懸賞金をかけた数少ない未解決問題の一つである。"
-              },
-              {
-                "t": "p",
-                "x": "Alpögeは、各議論の数学的な正しさを検証するプログラミング言語Leanで記述したClaudeによる証明を公開した。彼によれば、この証明は「一般化リーマン予想」を確かめるものだという。発表は、Anthropicが株式市場で記録的なデビューを果たしたわずか一日後のことだった。"
-              },
-              {
-                "t": "p",
-                "x": "チリ・カトリック大学のHector Pastenは「証明が正しく、理解されれば、つながりが部分的でしかなかった数学の異なる分野の間の辞書が完成する」と述べ、「ロゼッタ・ストーンのようなものだ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "MITの数学者Andrew SutherlandはAlpögeの結果をLeanで独自にコンパイルした後、「これはまさに歴史的な瞬間だ」と述べ、「証明の数学的な詳細を理解するには、なすべきことが多く残っている」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Anthropic数学家\n宣称证明黎曼猜想",
-          "body": "Levent Alpöge宣布借助Claude证明了已有167年历史的黎曼猜想。",
-          "mini_headline": "Claude辅助的黎曼证明",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "带有紫色数字概念的数学方程"
-              },
-              {
-                "t": "p",
-                "x": "人工智能公司Anthropic的员工、数学家Levent Alpöge周五宣称，他借助LLM证明了整个数学领域最著名的问题。Alpöge在其个人网站发布的声明中写道：“我相信，我与Claude合作，发现了黎曼猜想的证明。”"
-              },
-              {
-                "t": "p",
-                "x": "黎曼猜想由数学家伯恩哈德·黎曼于1859年首次提出。它是克雷数学研究所悬赏百万美元的少数几个未解问题之一。"
-              },
-              {
-                "t": "p",
-                "x": "Alpöge公布了用编程语言Lean编写的Claude证明，Lean可以验证每一步论证的数学正确性。他表示，该证明确认了“广义黎曼猜想”。此次宣布距Anthropic在股市创纪录上市仅过去一天。"
-              },
-              {
-                "t": "p",
-                "x": "智利天主教大学的Hector Pasten表示：“如果这个证明正确并被理解，它将补全数学不同分支之间原本只有部分联系的一部词典。”“有点像罗塞塔石碑。”"
-              },
-              {
-                "t": "p",
-                "x": "MIT数学家Andrew Sutherland在用Lean独立编译了Alpöge的结果后说：“这确实是一个历史性时刻。”“要理解该证明的数学细节，还有大量工作要做。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Matemático de Anthropic afirma\nprobar la hipótesis de Riemann",
-          "body": "Levent Alpöge anunció una prueba asistida por Claude de la hipótesis de Riemann, abierta desde hace 167 años.",
-          "mini_headline": "Prueba de Riemann asistida por Claude",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-                "cap": "Ecuaciones matemáticas con un concepto digital en tono morado"
-              },
-              {
-                "t": "p",
-                "x": "Levent Alpöge, matemático y empleado de la empresa de inteligencia artificial Anthropic, afirmó el viernes haber demostrado el problema más famoso de todas las matemáticas con ayuda de un LLM. «Creo que, trabajando con Claude, he descubierto una demostración de la hipótesis de Riemann», escribió Alpöge en un comunicado publicado en su sitio web."
-              },
-              {
-                "t": "p",
-                "x": "La hipótesis de Riemann fue propuesta por primera vez en 1859 por el matemático Bernhard Riemann. Es uno de los pocos problemas abiertos por los que el Clay Mathematics Institute ofrece una recompensa de un millón de dólares."
-              },
-              {
-                "t": "p",
-                "x": "Alpöge publicó su demostración hecha con Claude y codificada en el lenguaje de programación Lean, que verifica la corrección matemática de cada argumento. Según él, confirma la «hipótesis de Riemann generalizada». El anuncio llega apenas un día después del debut bursátil récord de Anthropic."
-              },
-              {
-                "t": "p",
-                "x": "«Si la demostración es correcta y se comprende, completa un diccionario entre distintas ramas de las matemáticas cuyas conexiones eran solo parciales», dice Hector Pasten, de la Pontificia Universidad Católica de Chile. «Algo así como una piedra de Rosetta»."
-              },
-              {
-                "t": "p",
-                "x": "«Este es sin duda un momento histórico», dijo el matemático del MIT Andrew Sutherland tras compilar de forma independiente el resultado de Alpöge en Lean. «Queda mucho trabajo por hacer para entender los detalles matemáticos de la demostración»."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "mofgen-agentic-mof-synthesis",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 설계한 MOFs\n네 종 합성에 성공",
-      "body": "MOFGen 에이전트가 MOF 수십만 개를 제안·선별했고 그중 네 종이 합성됐다.",
-      "mini_headline": "AI가 꿈꾼 MOFs, 현실로",
-      "tool": "Science",
-      "source": "Nature Computational Science",
-      "url": "https://www.nature.com/articles/s43588-026-01058-x",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "생성 모델과 머신러닝은 CO2 포집과 수분 채집에 쓰이는 금속–유기 골격체(MOFs) 발견을 앞당길 것으로 기대를 모은다. 하지만 방대한 화학 공간을 뒤지면서 합성 가능성까지 챙기기는 상당히 어렵다."
-          },
-          {
-            "t": "p",
-            "x": "연구진이 내놓은 MOFGen은 여러 에이전트가 서로 맞물려 돌아가는 에이전트형 인공지능(AI) 시스템이다. MOF 조성을 제안하는 대규모 언어 모델, 결정 구조를 만드는 확산 모델, 후보를 최적화하고 걸러내는 양자역학 에이전트, 전문가 규칙과 머신러닝으로 합성 가능성을 따지는 에이전트로 구성된다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-            "cap": "그림 1: MOFGen 개요."
-          },
-          {
-            "t": "p",
-            "x": "MOFGen은 실험으로 보고된 다양한 MOFs와 계산 데이터베이스로 학습해 MOF 구조 수십만 개와 합성 가능한 유기 링커를 만들어냈다. QForge가 후보 구조 251,118개를 최적화했고, QHarden은 DFT-optimized MOF 구조 3,000개로 최종 데이터베이스를 꾸렸다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 고처리량 실험과 ‘AI-dreamt’ MOFs 네 종의 합성으로 이 접근법을 검증했다. ‘AI-dreamt’ MOFs 네 종을 합성하는 데는 몇 주면 충분했고, 일부는 며칠 만에 나왔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Agentic AI designs MOFs,\nand four get synthesized",
-          "body": "MOFGen's agents propose and screen hundreds of thousands of MOFs, and four were successfully synthesized.",
-          "mini_headline": "AI-dreamt MOFs made real",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Generative models and machine learning promise accelerated material discovery in metal–organic frameworks (MOFs) for CO2 capture and water harvesting, but face substantial challenges in navigating vast chemical spaces while ensuring synthesizability."
-              },
-              {
-                "t": "p",
-                "x": "Here we present MOFGen, a system of agentic artificial intelligence (AI) comprising interconnected agents: a large language model that proposes MOF compositions, a diffusion model that generates crystal structures, quantum mechanical agents that optimize and filter candidates, and synthetic-feasibility agents guided by expert rules and machine learning."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "Fig. 1: Overview of MOFGen."
-              },
-              {
-                "t": "p",
-                "x": "Trained on a broad set of experimentally reported MOFs and computational databases, MOFGen generated hundreds of thousands of MOF structures and synthesizable organic linkers. QForge optimized 251,118 candidate structures, and QHarden produced a final database of 3,000 DFT-optimized MOF structures."
-              },
-              {
-                "t": "p",
-                "x": "The approach was validated through high-throughput experiments and the successful synthesis of four ‘AI-dreamt’ MOFs. Within just a few weeks, we have synthesized four ‘AI-dreamt’ MOFs, with some completed in just few days."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI가 설계한 MOFs\n네 종 합성에 성공",
-          "body": "MOFGen 에이전트가 MOF 수십만 개를 제안·선별했고 그중 네 종이 합성됐다.",
-          "mini_headline": "AI가 꿈꾼 MOFs, 현실로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "생성 모델과 머신러닝은 CO2 포집과 수분 채집에 쓰이는 금속–유기 골격체(MOFs) 발견을 앞당길 것으로 기대를 모은다. 하지만 방대한 화학 공간을 뒤지면서 합성 가능성까지 챙기기는 상당히 어렵다."
-              },
-              {
-                "t": "p",
-                "x": "연구진이 내놓은 MOFGen은 여러 에이전트가 서로 맞물려 돌아가는 에이전트형 인공지능(AI) 시스템이다. MOF 조성을 제안하는 대규모 언어 모델, 결정 구조를 만드는 확산 모델, 후보를 최적화하고 걸러내는 양자역학 에이전트, 전문가 규칙과 머신러닝으로 합성 가능성을 따지는 에이전트로 구성된다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "그림 1: MOFGen 개요."
-              },
-              {
-                "t": "p",
-                "x": "MOFGen은 실험으로 보고된 다양한 MOFs와 계산 데이터베이스로 학습해 MOF 구조 수십만 개와 합성 가능한 유기 링커를 만들어냈다. QForge가 후보 구조 251,118개를 최적화했고, QHarden은 DFT-optimized MOF 구조 3,000개로 최종 데이터베이스를 꾸렸다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 고처리량 실험과 ‘AI-dreamt’ MOFs 네 종의 합성으로 이 접근법을 검증했다. ‘AI-dreamt’ MOFs 네 종을 합성하는 데는 몇 주면 충분했고, 일부는 며칠 만에 나왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントが設計\nMOFsのうち四種を合成",
-          "body": "MOFGenのエージェントが数十万のMOFを提案・選別し、うち四種の合成に成功した。",
-          "mini_headline": "AIが夢見たMOFs、現実に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成モデルと機械学習は、CO2回収や水の捕集に使う金属–有機構造体（MOFs）の材料探索を加速すると期待されているが、合成可能性を確保しつつ広大な化学空間を探索するうえで大きな課題を抱えている。"
-              },
-              {
-                "t": "p",
-                "x": "本研究では、相互に連携するエージェントからなるエージェント型人工知能（AI）システムMOFGenを提示する。MOFの組成を提案する大規模言語モデル、結晶構造を生成する拡散モデル、候補を最適化・選別する量子力学エージェント、そして専門家のルールと機械学習に導かれる合成可能性エージェントで構成される。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "図1：MOFGenの概要。"
-              },
-              {
-                "t": "p",
-                "x": "実験で報告された幅広いMOFsと計算データベースで学習したMOFGenは、数十万のMOF構造と合成可能な有機リンカーを生成した。QForgeは251,118の候補構造を最適化し、QHardenはDFT-optimizedのMOF構造3,000件からなる最終データベースを作成した。"
-              },
-              {
-                "t": "p",
-                "x": "この手法は、ハイスループット実験と四つの「AI-dreamt」MOFsの合成成功によって検証された。わずか数週間で四つの「AI-dreamt」MOFsを合成し、一部はわずか数日で完成した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "智能体AI设计MOFs\n其中四种已成功合成",
-          "body": "MOFGen的智能体提出并筛选了数十万种MOF，其中四种已成功合成。",
-          "mini_headline": "AI构想的MOFs成真",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成模型和机器学习有望加速用于CO2捕集和集水的金属–有机框架（MOFs）材料发现，但在确保可合成性的同时探索庞大化学空间方面面临重大挑战。"
-              },
-              {
-                "t": "p",
-                "x": "本文提出MOFGen，这是一个由相互连接的智能体组成的智能体人工智能（AI）系统：提出MOF组成的大语言模型、生成晶体结构的扩散模型、优化并筛选候选结构的量子力学智能体，以及由专家规则和机器学习引导的合成可行性智能体。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "图1：MOFGen概览。"
-              },
-              {
-                "t": "p",
-                "x": "MOFGen基于大量实验报道的MOFs和计算数据库进行训练，生成了数十万个MOF结构和可合成的有机连接体。QForge优化了251,118个候选结构，QHarden则产出了包含3,000个DFT-optimized MOF结构的最终数据库。"
-              },
-              {
-                "t": "p",
-                "x": "该方法通过高通量实验和四种“AI-dreamt”MOFs的成功合成得到验证。短短几周内，研究团队合成了四种“AI-dreamt”MOFs，其中一些仅用几天就完成了。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IA agéntica diseña MOFs\ny cuatro llegan a sintetizarse",
-          "body": "Los agentes de MOFGen proponen y evalúan cientos de miles de MOFs, y cuatro de ellos se sintetizaron con éxito.",
-          "mini_headline": "MOFs ‘AI-dreamt’ hechos realidad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los modelos generativos y el aprendizaje automático prometen acelerar el descubrimiento de materiales en las redes metal–orgánicas (MOFs) para la captura de CO2 y la recolección de agua, pero afrontan retos considerables para explorar vastos espacios químicos sin perder la sintetizabilidad."
-              },
-              {
-                "t": "p",
-                "x": "Aquí presentamos MOFGen, un sistema de inteligencia artificial (IA) agéntica formado por agentes interconectados: un modelo de lenguaje grande que propone composiciones de MOF, un modelo de difusión que genera estructuras cristalinas, agentes de mecánica cuántica que optimizan y filtran candidatos, y agentes de viabilidad sintética guiados por reglas expertas y aprendizaje automático."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de MOFGen."
-              },
-              {
-                "t": "p",
-                "x": "Entrenado con un amplio conjunto de MOFs reportados experimentalmente y bases de datos computacionales, MOFGen generó cientos de miles de estructuras de MOF y conectores orgánicos sintetizables. QForge optimizó 251.118 estructuras candidatas y QHarden produjo una base de datos final de 3000 estructuras de MOF DFT-optimized."
-              },
-              {
-                "t": "p",
-                "x": "El enfoque se validó mediante experimentos de alto rendimiento y la síntesis exitosa de cuatro MOFs ‘AI-dreamt’. En apenas unas semanas sintetizamos cuatro MOFs ‘AI-dreamt’, y algunos se completaron en solo unos días."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI가 설계한 MOFs\n네 종 합성에 성공",
-          "body": "MOFGen 에이전트가 MOF 수십만 개를 제안·선별했고 네 종이 합성됐다.",
-          "mini_headline": "AI가 꿈꾼 MOFs, 현실로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "생성 모델과 머신러닝은 CO2 포집과 수분 채집에 쓰이는 금속–유기 골격체(MOFs)의 소재 발견을 앞당길 것으로 기대되지만, 합성 가능성을 확보하면서 방대한 화학 공간을 탐색하는 데 상당한 어려움을 겪고 있다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 서로 연결된 에이전트로 이뤄진 에이전트형 인공지능(AI) 시스템 MOFGen을 제시한다. MOF 조성을 제안하는 대규모 언어 모델, 결정 구조를 생성하는 확산 모델, 후보를 최적화하고 걸러내는 양자역학 에이전트, 전문가 규칙과 머신러닝에 따라 합성 가능성을 판단하는 에이전트가 그 구성 요소다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "그림 1: MOFGen 개요."
-              },
-              {
-                "t": "p",
-                "x": "실험으로 보고된 폭넓은 MOFs와 계산 데이터베이스로 학습한 MOFGen은 수십만 개의 MOF 구조와 합성 가능한 유기 링커를 생성했다. QForge는 후보 구조 251,118개를 최적화했고, QHarden은 DFT-optimized MOF 구조 3,000개로 이뤄진 최종 데이터베이스를 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "이 접근법은 고처리량 실험과 ‘AI-dreamt’ MOFs 네 종의 합성 성공으로 검증됐다. 불과 몇 주 만에 ‘AI-dreamt’ MOFs 네 종을 합성했으며, 일부는 단 며칠 만에 완성됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントが設計\nMOFsのうち四種を合成",
-          "body": "MOFGenのエージェントが数十万のMOFを提案・選別し、うち四種の合成に成功した。",
-          "mini_headline": "AIが夢見たMOFs、現実に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成モデルと機械学習は、CO2回収や水の捕集に使う金属–有機構造体（MOFs）の材料探索を加速すると期待されているが、合成可能性を確保しつつ広大な化学空間を探索するうえで大きな課題を抱えている。"
-              },
-              {
-                "t": "p",
-                "x": "本研究では、相互に連携するエージェントからなるエージェント型人工知能（AI）システムMOFGenを提示する。MOFの組成を提案する大規模言語モデル、結晶構造を生成する拡散モデル、候補を最適化・選別する量子力学エージェント、そして専門家のルールと機械学習に導かれる合成可能性エージェントで構成される。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "図1：MOFGenの概要。"
-              },
-              {
-                "t": "p",
-                "x": "実験で報告された幅広いMOFsと計算データベースで学習したMOFGenは、数十万のMOF構造と合成可能な有機リンカーを生成した。QForgeは251,118の候補構造を最適化し、QHardenはDFT-optimizedのMOF構造3,000件からなる最終データベースを作成した。"
-              },
-              {
-                "t": "p",
-                "x": "この手法は、ハイスループット実験と四つの「AI-dreamt」MOFsの合成成功によって検証された。わずか数週間で四つの「AI-dreamt」MOFsを合成し、一部はわずか数日で完成した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "智能体AI设计MOFs\n其中四种已成功合成",
-          "body": "MOFGen的智能体提出并筛选了数十万种MOF，其中四种已成功合成。",
-          "mini_headline": "AI构想的MOFs成真",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成模型和机器学习有望加速用于CO2捕集和集水的金属–有机框架（MOFs）材料发现，但在确保可合成性的同时探索庞大化学空间方面面临重大挑战。"
-              },
-              {
-                "t": "p",
-                "x": "本文提出MOFGen，这是一个由相互连接的智能体组成的智能体人工智能（AI）系统：提出MOF组成的大语言模型、生成晶体结构的扩散模型、优化并筛选候选结构的量子力学智能体，以及由专家规则和机器学习引导的合成可行性智能体。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "图1：MOFGen概览。"
-              },
-              {
-                "t": "p",
-                "x": "MOFGen基于大量实验报道的MOFs和计算数据库进行训练，生成了数十万个MOF结构和可合成的有机连接体。QForge优化了251,118个候选结构，QHarden则产出了包含3,000个DFT-optimized MOF结构的最终数据库。"
-              },
-              {
-                "t": "p",
-                "x": "该方法通过高通量实验和四种“AI-dreamt”MOFs的成功合成得到验证。短短几周内，研究团队合成了四种“AI-dreamt”MOFs，其中一些仅用几天就完成了。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IA agéntica diseña MOFs\ny cuatro llegan a sintetizarse",
-          "body": "Los agentes de MOFGen proponen y evalúan cientos de miles de MOFs, y cuatro de ellos se sintetizaron con éxito.",
-          "mini_headline": "MOFs ‘AI-dreamt’ hechos realidad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los modelos generativos y el aprendizaje automático prometen acelerar el descubrimiento de materiales en las redes metal–orgánicas (MOFs) para la captura de CO2 y la recolección de agua, pero afrontan retos considerables para explorar vastos espacios químicos sin perder la sintetizabilidad."
-              },
-              {
-                "t": "p",
-                "x": "Aquí presentamos MOFGen, un sistema de inteligencia artificial (IA) agéntica formado por agentes interconectados: un modelo de lenguaje grande que propone composiciones de MOF, un modelo de difusión que genera estructuras cristalinas, agentes de mecánica cuántica que optimizan y filtran candidatos, y agentes de viabilidad sintética guiados por reglas expertas y aprendizaje automático."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de MOFGen."
-              },
-              {
-                "t": "p",
-                "x": "Entrenado con un amplio conjunto de MOFs reportados experimentalmente y bases de datos computacionales, MOFGen generó cientos de miles de estructuras de MOF y conectores orgánicos sintetizables. QForge optimizó 251.118 estructuras candidatas y QHarden produjo una base de datos final de 3000 estructuras de MOF DFT-optimized."
-              },
-              {
-                "t": "p",
-                "x": "El enfoque se validó mediante experimentos de alto rendimiento y la síntesis exitosa de cuatro MOFs ‘AI-dreamt’. En apenas unas semanas sintetizamos cuatro MOFs ‘AI-dreamt’, y algunos se completaron en solo unos días."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "mit-lids-chaos-surrogate",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "물리 제약 건 AI,\n혼돈 예측도 안정적",
-      "body": "MIT LIDS 연구진이 물리 제약을 걸어 혼돈계 예측이 범위를 못 벗어나게 했다.",
-      "mini_headline": "혼돈을 다루는 안정적 AI",
-      "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03790-w",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -703,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-            "cap": "머신러닝 모델이 학습한 유계 영역 안에서 재현한 Lorenz 63 시스템의 나비 모양 패턴."
+            "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+            "cap": "시민 과학자들이 인공지능 도구로 아직 발견되지 않은 외계행성을 찾는다(상상도). Credit: Hypersphere/SPL"
           },
           {
             "t": "p",
-            "x": "날씨, 기후, 난류 같은 혼돈 과정의 모델은 지금도 시간이 갈수록 물리적으로 불가능한 예측으로 흘러가기 쉽다. MIT 정보·의사결정시스템연구소(LIDS) 연구진은 머신러닝 모델에 물리 기반 제약을 걸어 모델이 현실적인 범위를 절대 넘지 않게 하는 방법을 찾았다."
+            "x": "지난 9월, 천문학을 정식으로 배운 적 없는 스페인의 AI 전문가 Pavel Rabtsevich가 AI 모델에 행성을 찾아 달라고 했다. 모델은 약 두 주 만에 지구에서 116광년 떨어진 별을 도는 행성 후보 두 개를 내놓았다."
           },
           {
             "t": "p",
-            "x": "연구 결과는 MIT 대학원생 Sunbochen Tang과 MIT 교수 Navid Azizan, Themistoklis Sapsis의 논문으로 PNAS에 실렸다."
+            "x": "그는 Claude Code로 NASA의 TESS가 2025년 말과 2026년 초에 관측한 별 120,000개 이상의 데이터를 걸러냈고, 널리 쓰이는 행성 탐지 알고리즘으로 밝기가 떨어지는 구간을 찾았다. Claude가 짚어낸 별은 TIC 4206066이었다. 약 3일과 11일 간격으로 되풀이되는 두 감광 주기가 보였다. 2018년과 2020년 TESS 보관 데이터에도 같은 패턴이 남아 있었고, Claude는 Michelle Kunimoto가 만든 공개 알고리즘을 돌려 신호를 검증했다."
           },
           {
             "t": "p",
-            "x": "모델은 에너지와 비슷한 함수를 익히면서 혼돈 거동이 머물러야 할 경계도 함께 학습한다. 투영 층이 에너지 소산을 엄격한 제약으로 묶어 두기 때문에 예보 구간을 아무리 길게 잡아도 예측은 범위 안에 머문다. 혼돈을 다루는 머신러닝 모델에 이런 형식적 보장을 세운 연구는 이번이 처음이다."
+            "x": "Rabtsevich는 9월 25일 Zenodo에 프리프린트를 올렸다. 동료 심사는 받지 않았지만 TESS 천문학자들이 신호를 따로 분석해 공식 행성 후보 목록에 넣었다."
           },
           {
             "t": "p",
-            "x": "Azizan은 “혼돈이란 무엇이든 일어날 수 있다는 뜻이 아니다. 이런 시스템은 대개 범위 안에 머물며, 그 모델도 그래야 한다”고 말한다. 투영 층은 특정 모델에 묶이지 않고, 논문은 오픈소스 코드와 함께 공개됐다."
+            "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 모델이 낸 결과를 검증하지 못하는 아마추어도 있다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Physics-bound AI models\nof chaos stay stable",
-          "body": "MIT LIDS researchers built a physics-constrained method that guarantees bounded predictions for chaotic systems.",
-          "mini_headline": "Stable AI for chaos",
+          "headline": "Amateurs hunt planets with\nClaude, with mixed results",
+          "body": "An amateur's Claude Code sweep of TESS data yielded two planet candidates now on the official TESS list.",
+          "mini_headline": "Amateurs hunt planets with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "The butterfly-shaped pattern of the Lorenz 63 system, reproduced by a machine learning model, inside a learned bounded region."
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "Artificial-intelligence tools are helping citizen scientists to find undiscovered exoplanets (artist’s illustration). Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "Modeling of chaotic processes such as weather, climate and turbulent flows is still prone to drift into physically impossible predictions over time. Researchers with MIT’s Laboratory for Information and Decision Systems (LIDS) have found a way to introduce physics-based restrictions on machine learning models that ensure such models never exceed realistic bounds."
+                "x": "In September, Pavel Rabtsevich, an AI specialist in Spain with no formal astronomy education, asked an AI model to discover a planet. In about two weeks it delivered two possible planets orbiting a star 116 light years from Earth."
               },
               {
                 "t": "p",
-                "x": "The findings are published in PNAS in a paper by MIT graduate student Sunbochen Tang and MIT professors Navid Azizan and Themistoklis Sapsis."
+                "x": "He enlisted Claude Code to sift data from more than 120,000 stars observed by NASA’s TESS in late 2025 and early 2026, using a popular planet-detection algorithm to search for dips in brightness. Claude zeroed in on TIC 4206066, which showed two cycles of dimming, roughly every 3 days and every 11 days. Archival TESS data from 2018 and 2020 recorded the same pattern, and Claude ran a public algorithm written by Michelle Kunimoto to validate the signals."
               },
               {
                 "t": "p",
-                "x": "The model learns an energy-like function and a boundary where its chaotic behavior should be confined; a projection layer enforces energy dissipation as a hard constraint, so predictions stay bounded over arbitrarily long forecast windows. This is the first work that establishes such formal guarantees for machine learning models of chaos."
+                "x": "Rabtsevich posted a preprint on Zenodo on 25 September. It has not been peer reviewed, but TESS astronomers have independently analysed the signals and added them to their official list of planet candidates."
               },
               {
                 "t": "p",
-                "x": "“Chaos does not mean anything can happen. These systems often remain bounded, and their models should, too,” Azizan says. The projection layer is model-agnostic, and the paper is available with open-source code."
+                "x": "Kunimoto, an exoplanet researcher at the University of British Columbia, warns that some amateurs can’t validate the models’ findings: “There’s been a huge, overwhelming surge of AI-driven papers, which tend to have [planet] candidates that are not the best quality.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "물리 제약 건 AI,\n혼돈 예측도 안정적",
-          "body": "MIT LIDS 연구진이 물리 제약을 걸어 혼돈계 예측이 범위를 못 벗어나게 했다.",
-          "mini_headline": "혼돈을 다루는 안정적 AI",
+          "headline": "Claude로 행성 찾는\n아마추어, 성과는 엇갈려",
+          "body": "TESS 공식 목록의 행성 후보 둘은 아마추어가 Claude Code로 찾아냈다.",
+          "mini_headline": "AI로 행성 찾는 아마추어들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "머신러닝 모델이 학습한 유계 영역 안에서 재현한 Lorenz 63 시스템의 나비 모양 패턴."
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "시민 과학자들이 인공지능 도구로 아직 발견되지 않은 외계행성을 찾는다(상상도). Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "날씨, 기후, 난류 같은 혼돈 과정의 모델은 지금도 시간이 갈수록 물리적으로 불가능한 예측으로 흘러가기 쉽다. MIT 정보·의사결정시스템연구소(LIDS) 연구진은 머신러닝 모델에 물리 기반 제약을 걸어 모델이 현실적인 범위를 절대 넘지 않게 하는 방법을 찾았다."
+                "x": "지난 9월, 천문학을 정식으로 배운 적 없는 스페인의 AI 전문가 Pavel Rabtsevich가 AI 모델에 행성을 찾아 달라고 했다. 모델은 약 두 주 만에 지구에서 116광년 떨어진 별을 도는 행성 후보 두 개를 내놓았다."
               },
               {
                 "t": "p",
-                "x": "연구 결과는 MIT 대학원생 Sunbochen Tang과 MIT 교수 Navid Azizan, Themistoklis Sapsis의 논문으로 PNAS에 실렸다."
+                "x": "그는 Claude Code로 NASA의 TESS가 2025년 말과 2026년 초에 관측한 별 120,000개 이상의 데이터를 걸러냈고, 널리 쓰이는 행성 탐지 알고리즘으로 밝기가 떨어지는 구간을 찾았다. Claude가 짚어낸 별은 TIC 4206066이었다. 약 3일과 11일 간격으로 되풀이되는 두 감광 주기가 보였다. 2018년과 2020년 TESS 보관 데이터에도 같은 패턴이 남아 있었고, Claude는 Michelle Kunimoto가 만든 공개 알고리즘을 돌려 신호를 검증했다."
               },
               {
                 "t": "p",
-                "x": "모델은 에너지와 비슷한 함수를 익히면서 혼돈 거동이 머물러야 할 경계도 함께 학습한다. 투영 층이 에너지 소산을 엄격한 제약으로 묶어 두기 때문에 예보 구간을 아무리 길게 잡아도 예측은 범위 안에 머문다. 혼돈을 다루는 머신러닝 모델에 이런 형식적 보장을 세운 연구는 이번이 처음이다."
+                "x": "Rabtsevich는 9월 25일 Zenodo에 프리프린트를 올렸다. 동료 심사는 받지 않았지만 TESS 천문학자들이 신호를 따로 분석해 공식 행성 후보 목록에 넣었다."
               },
               {
                 "t": "p",
-                "x": "Azizan은 “혼돈이란 무엇이든 일어날 수 있다는 뜻이 아니다. 이런 시스템은 대개 범위 안에 머물며, 그 모델도 그래야 한다”고 말한다. 투영 층은 특정 모델에 묶이지 않고, 논문은 오픈소스 코드와 함께 공개됐다."
+                "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 모델이 낸 결과를 검증하지 못하는 아마추어도 있다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "物理で縛るAI\nカオス予測が安定",
-          "body": "MIT LIDSの研究者がカオス系予測の有界性を保証する物理制約手法を開発した。",
-          "mini_headline": "カオスに強い安定AI",
+          "headline": "Claudeで惑星探し\nアマチュアの成果はまちまち",
+          "body": "アマチュアがClaude CodeでTESSデータを探り、惑星候補二つが公式リスト入りした。",
+          "mini_headline": "AIで惑星を探すアマチュア",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "学習された有界領域の内側で、機械学習モデルが再現したLorenz 63系の蝶の形をしたパターン。"
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "人工知能ツールが市民科学者による未発見の系外惑星探しを後押ししている(想像図)。Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "天気、気候、乱流といったカオス的過程のモデリングは、今なお時間とともに物理的にあり得ない予測へと逸脱しやすい。MITの情報・意思決定システム研究所（LIDS）の研究者らは、機械学習モデルに物理に基づく制約を導入し、モデルが現実的な範囲を決して超えないようにする方法を見いだした。"
+                "x": "9月、天文学の正式な教育を受けていないスペインのAI専門家Pavel Rabtsevichは、AIモデルに惑星の発見を依頼した。約二週間で、モデルは地球から116光年離れた恒星を回る惑星候補を二つ示した。"
               },
               {
                 "t": "p",
-                "x": "研究成果は、MIT大学院生のSunbochen Tangと、MIT教授のNavid AzizanおよびThemistoklis Sapsisによる論文としてPNASに掲載された。"
+                "x": "彼はClaude Codeを使い、NASAのTESSが2025年末から2026年初めに観測した120,000個を超える恒星のデータを精査し、広く使われる惑星検出アルゴリズムで明るさの低下を探した。Claudeが絞り込んだのはTIC 4206066で、およそ3日ごとと11日ごとの二つの減光周期が見られた。2018年と2020年のTESSアーカイブデータにも同じパターンが記録されており、ClaudeはMichelle Kunimotoが書いた公開アルゴリズムを実行して信号を検証した。"
               },
               {
                 "t": "p",
-                "x": "モデルはエネルギーに似た関数と、カオス的な振る舞いが閉じ込められるべき境界を学習する。射影層がエネルギー散逸を厳密な制約として課すため、予測は任意に長い予報期間にわたって有界に保たれる。カオスの機械学習モデルにこうした形式的保証を確立したのは、本研究が初めてである。"
+                "x": "Rabtsevichは9月25日にZenodoでプレプリントを公開した。査読は経ていないが、TESSの天文学者たちが信号を独自に解析し、公式の惑星候補リストに加えた。"
               },
               {
                 "t": "p",
-                "x": "「カオスとは何でも起こり得るという意味ではない。こうしたシステムは多くの場合有界にとどまり、そのモデルもそうあるべきだ」とAzizanは言う。射影層は特定のモデルに依存せず、論文はオープンソースのコードとともに公開されている。"
+                "x": "University of British Columbiaの系外惑星研究者であるKunimotoは、一部のアマチュアはモデルの発見を検証できないと警告する。「AI-drivenな論文が圧倒的な勢いで急増しており、そうした論文の[惑星]候補は質が最良とはいえないことが多い」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "受物理约束的AI\n让混沌模型保持稳定",
-          "body": "MIT LIDS研究人员构建了一种物理约束方法，可保证混沌系统的预测始终有界。",
-          "mini_headline": "面向混沌的稳定AI",
+          "headline": "业余玩家用Claude找行星\n成果好坏参半",
+          "body": "业余爱好者用Claude Code筛查TESS数据，所得两颗候选行星已列入TESS官方名单。",
+          "mini_headline": "业余爱好者借AI寻找行星",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "由机器学习模型在学习得到的有界区域内复现的Lorenz 63系统蝴蝶状图案。"
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "人工智能工具正在帮助公民科学家发现未知的系外行星(艺术想象图)。Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "对天气、气候和湍流等混沌过程的建模，随着时间推移仍容易漂移出物理上不可能的预测。MIT信息与决策系统实验室（LIDS）的研究人员找到了一种方法，为机器学习模型引入基于物理的约束，确保这类模型绝不超出现实范围。"
+                "x": "9月，没有受过正规天文学教育的西班牙AI专家Pavel Rabtsevich请一个AI模型去发现一颗行星。大约两周后，模型给出了两颗可能的行星，它们绕着一颗距地球116光年的恒星运行。"
               },
               {
                 "t": "p",
-                "x": "研究成果以论文形式发表在PNAS上，作者为MIT研究生Sunbochen Tang以及MIT教授Navid Azizan和Themistoklis Sapsis。"
+                "x": "他让Claude Code筛查NASA的TESS在2025年末和2026年初观测的120,000多颗恒星的数据，并使用一种常用的行星探测算法寻找亮度下降。Claude锁定了TIC 4206066，这颗恒星呈现两个变暗周期，大约每3天和每11天一次。2018年和2020年的TESS存档数据记录了同样的模式，Claude还运行了Michelle Kunimoto编写的公开算法来验证这些信号。"
               },
               {
                 "t": "p",
-                "x": "该模型学习一个类能量函数，以及其混沌行为应被限制在其中的边界；投影层将能量耗散作为硬约束强制执行，因此在任意长的预测窗口内预测都保持有界。这是首个为混沌机器学习模型建立此类形式化保证的研究。"
+                "x": "Rabtsevich于9月25日在Zenodo上发布了预印本。论文尚未经过同行评审，但TESS天文学家已独立分析了这些信号，并将其列入官方候选行星名单。"
               },
               {
                 "t": "p",
-                "x": "“混沌并不意味着任何事情都可能发生。这些系统通常保持有界，它们的模型也应如此，”Azizan说。该投影层与模型无关，论文已连同开源代码一并公开。"
+                "x": "University of British Columbia的系外行星研究者Kunimoto警告说，一些业余爱好者无法验证模型的发现：“AI-driven论文正在大量、压倒性地涌现，其中的[行星]候选往往质量不是最好的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "IA con restricciones físicas\nmodela el caos de forma estable",
-          "body": "Investigadores del MIT LIDS crearon un método con restricciones físicas que garantiza predicciones acotadas del caos.",
-          "mini_headline": "IA estable para el caos",
+          "headline": "Aficionados buscan planetas con\nClaude, con resultados dispares",
+          "body": "Un aficionado rastreó datos de TESS con Claude Code; dos candidatos a planeta entraron en la lista oficial de TESS.",
+          "mini_headline": "Aficionados buscan planetas con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "El patrón en forma de mariposa del sistema de Lorenz 63, reproducido por un modelo de aprendizaje automático, dentro de una región acotada aprendida."
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "Las herramientas de inteligencia artificial ayudan a científicos ciudadanos a encontrar exoplanetas no descubiertos (ilustración artística). Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "El modelado de procesos caóticos como el tiempo atmosférico, el clima y los flujos turbulentos sigue siendo propenso a derivar con el tiempo hacia predicciones físicamente imposibles. Investigadores del Laboratorio de Sistemas de Información y Decisión (LIDS) del MIT han encontrado una forma de introducir restricciones basadas en la física en los modelos de aprendizaje automático que garantizan que nunca superen límites realistas."
+                "x": "En septiembre, Pavel Rabtsevich, especialista en AI en España sin formación académica en astronomía, pidió a un modelo de AI que descubriera un planeta. En unas dos semanas, el modelo entregó dos posibles planetas que orbitan una estrella situada a 116 años luz de la Tierra."
               },
               {
                 "t": "p",
-                "x": "Los resultados se publican en PNAS en un artículo firmado por el estudiante de posgrado del MIT Sunbochen Tang y los profesores del MIT Navid Azizan y Themistoklis Sapsis."
+                "x": "Recurrió a Claude Code para cribar datos de más de 120,000 estrellas observadas por TESS de NASA a finales de 2025 y principios de 2026, con un algoritmo popular de detección de planetas que busca caídas de brillo. Claude se centró en TIC 4206066, que mostraba dos ciclos de atenuación, aproximadamente cada 3 días y cada 11 días. Los datos de archivo de TESS de 2018 y 2020 registraban el mismo patrón, y Claude ejecutó un algoritmo público escrito por Michelle Kunimoto para validar las señales."
               },
               {
                 "t": "p",
-                "x": "El modelo aprende una función similar a la energía y una frontera en la que debe quedar confinado su comportamiento caótico; una capa de proyección impone la disipación de energía como restricción estricta, de modo que las predicciones se mantienen acotadas en ventanas de pronóstico arbitrariamente largas. Es el primer trabajo que establece garantías formales de este tipo para modelos de aprendizaje automático del caos."
+                "x": "Rabtsevich publicó un preprint en Zenodo el 25 de septiembre. No ha pasado revisión por pares, pero astrónomos de TESS analizaron las señales de forma independiente y las añadieron a su lista oficial de candidatos a planeta."
               },
               {
                 "t": "p",
-                "x": "«Caos no significa que pueda pasar cualquier cosa. Estos sistemas a menudo permanecen acotados, y sus modelos también deberían», afirma Azizan. La capa de proyección es independiente del modelo, y el artículo está disponible con código abierto."
+                "x": "Kunimoto, investigadora de exoplanetas en la University of British Columbia, advierte que algunos aficionados no pueden validar los hallazgos de los modelos: “Ha habido un aumento enorme y abrumador de artículos AI-driven, que suelen tener candidatos [a planeta] que no son de la mejor calidad.”"
               }
             ]
           }
@@ -883,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "물리 제약 건 AI,\n혼돈 예측도 안정적",
-          "body": "MIT LIDS 연구진이 물리 제약으로 혼돈계 예측의 유계성을 보장했다.",
-          "mini_headline": "혼돈을 다루는 안정적 AI",
+          "headline": "Claude로 행성 찾는\n아마추어, 성과는 엇갈려",
+          "body": "TESS 공식 목록에 든 행성 후보 둘은 아마추어가 Claude Code로 찾았다.",
+          "mini_headline": "AI로 행성 찾는 아마추어들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "학습된 유계 영역 안에서 머신러닝 모델이 재현한 Lorenz 63 시스템의 나비 모양 패턴."
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "인공지능 도구가 시민 과학자들의 미발견 외계행성 탐색을 돕고 있다(상상도). Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "날씨, 기후, 난류 같은 혼돈 과정의 모델링은 여전히 시간이 지나면서 물리적으로 불가능한 예측으로 흘러가기 쉽다. MIT 정보·의사결정시스템연구소(LIDS) 연구진은 머신러닝 모델에 물리 기반 제약을 도입해 모델이 현실적인 범위를 절대 넘지 않도록 하는 방법을 찾아냈다."
+                "x": "지난 9월, 정식 천문학 교육을 받은 적 없는 스페인의 AI 전문가 Pavel Rabtsevich는 AI 모델에 행성을 발견해 달라고 요청했다. 모델은 약 두 주 만에 지구에서 116광년 떨어진 별을 도는 행성 후보 두 개를 내놓았다."
               },
               {
                 "t": "p",
-                "x": "연구 결과는 MIT 대학원생 Sunbochen Tang과 MIT 교수 Navid Azizan, Themistoklis Sapsis의 논문으로 PNAS에 실렸다."
+                "x": "그는 Claude Code를 동원해 NASA의 TESS가 2025년 말과 2026년 초에 관측한 120,000개 이상의 별 데이터를 걸러냈고, 널리 쓰이는 행성 탐지 알고리즘으로 밝기가 떨어지는 구간을 찾았다. Claude가 주목한 별은 TIC 4206066으로, 약 3일마다 그리고 11일마다 반복되는 두 가지 감광 주기를 보였다. 2018년과 2020년의 TESS 보관 데이터에도 같은 패턴이 기록돼 있었고, Claude는 Michelle Kunimoto가 작성한 공개 알고리즘을 돌려 신호를 검증했다."
               },
               {
                 "t": "p",
-                "x": "모델은 에너지와 유사한 함수와 함께 혼돈 거동이 머물러야 할 경계를 학습한다. 투영 층이 에너지 소산을 엄격한 제약으로 강제하므로, 예측은 임의로 긴 예보 구간에서도 범위 안에 머문다. 혼돈의 머신러닝 모델에 이런 형식적 보장을 확립한 첫 연구다."
+                "x": "Rabtsevich는 9월 25일 Zenodo에 프리프린트를 올렸다. 동료 심사는 거치지 않았지만, TESS 천문학자들이 신호를 독립적으로 분석해 공식 행성 후보 목록에 추가했다."
               },
               {
                 "t": "p",
-                "x": "Azizan은 “혼돈이란 무엇이든 일어날 수 있다는 뜻이 아니다. 이런 시스템은 대개 범위 안에 머물며, 그 모델도 그래야 한다”고 말한다. 투영 층은 특정 모델에 얽매이지 않으며, 논문은 오픈소스 코드와 함께 공개돼 있다."
+                "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 일부 아마추어가 모델의 결과를 검증하지 못한다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "物理で縛るAI\nカオス予測が安定",
-          "body": "MIT LIDSの研究者がカオス系予測の有界性を保証する物理制約手法を開発した。",
-          "mini_headline": "カオスに強い安定AI",
+          "headline": "Claudeで惑星探し\nアマチュアの成果はまちまち",
+          "body": "アマチュアがClaude CodeでTESSデータを探り、惑星候補二つが公式リスト入りした。",
+          "mini_headline": "AIで惑星を探すアマチュア",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "学習された有界領域の内側で、機械学習モデルが再現したLorenz 63系の蝶の形をしたパターン。"
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "人工知能ツールが市民科学者による未発見の系外惑星探しを後押ししている(想像図)。Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "天気、気候、乱流といったカオス的過程のモデリングは、今なお時間とともに物理的にあり得ない予測へと逸脱しやすい。MITの情報・意思決定システム研究所（LIDS）の研究者らは、機械学習モデルに物理に基づく制約を導入し、モデルが現実的な範囲を決して超えないようにする方法を見いだした。"
+                "x": "9月、天文学の正式な教育を受けていないスペインのAI専門家Pavel Rabtsevichは、AIモデルに惑星の発見を依頼した。約二週間で、モデルは地球から116光年離れた恒星を回る惑星候補を二つ示した。"
               },
               {
                 "t": "p",
-                "x": "研究成果は、MIT大学院生のSunbochen Tangと、MIT教授のNavid AzizanおよびThemistoklis Sapsisによる論文としてPNASに掲載された。"
+                "x": "彼はClaude Codeを使い、NASAのTESSが2025年末から2026年初めに観測した120,000個を超える恒星のデータを精査し、広く使われる惑星検出アルゴリズムで明るさの低下を探した。Claudeが絞り込んだのはTIC 4206066で、およそ3日ごとと11日ごとの二つの減光周期が見られた。2018年と2020年のTESSアーカイブデータにも同じパターンが記録されており、ClaudeはMichelle Kunimotoが書いた公開アルゴリズムを実行して信号を検証した。"
               },
               {
                 "t": "p",
-                "x": "モデルはエネルギーに似た関数と、カオス的な振る舞いが閉じ込められるべき境界を学習する。射影層がエネルギー散逸を厳密な制約として課すため、予測は任意に長い予報期間にわたって有界に保たれる。カオスの機械学習モデルにこうした形式的保証を確立したのは、本研究が初めてである。"
+                "x": "Rabtsevichは9月25日にZenodoでプレプリントを公開した。査読は経ていないが、TESSの天文学者たちが信号を独自に解析し、公式の惑星候補リストに加えた。"
               },
               {
                 "t": "p",
-                "x": "「カオスとは何でも起こり得るという意味ではない。こうしたシステムは多くの場合有界にとどまり、そのモデルもそうあるべきだ」とAzizanは言う。射影層は特定のモデルに依存せず、論文はオープンソースのコードとともに公開されている。"
+                "x": "University of British Columbiaの系外惑星研究者であるKunimotoは、一部のアマチュアはモデルの発見を検証できないと警告する。「AI-drivenな論文が圧倒的な勢いで急増しており、そうした論文の[惑星]候補は質が最良とはいえないことが多い」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "受物理约束的AI\n让混沌模型保持稳定",
-          "body": "MIT LIDS研究人员构建了一种物理约束方法，可保证混沌系统的预测始终有界。",
-          "mini_headline": "面向混沌的稳定AI",
+          "headline": "业余玩家用Claude找行星\n成果好坏参半",
+          "body": "业余爱好者用Claude Code筛查TESS数据，所得两颗候选行星已列入TESS官方名单。",
+          "mini_headline": "业余爱好者借AI寻找行星",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "由机器学习模型在学习得到的有界区域内复现的Lorenz 63系统蝴蝶状图案。"
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "人工智能工具正在帮助公民科学家发现未知的系外行星(艺术想象图)。Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "对天气、气候和湍流等混沌过程的建模，随着时间推移仍容易漂移出物理上不可能的预测。MIT信息与决策系统实验室（LIDS）的研究人员找到了一种方法，为机器学习模型引入基于物理的约束，确保这类模型绝不超出现实范围。"
+                "x": "9月，没有受过正规天文学教育的西班牙AI专家Pavel Rabtsevich请一个AI模型去发现一颗行星。大约两周后，模型给出了两颗可能的行星，它们绕着一颗距地球116光年的恒星运行。"
               },
               {
                 "t": "p",
-                "x": "研究成果以论文形式发表在PNAS上，作者为MIT研究生Sunbochen Tang以及MIT教授Navid Azizan和Themistoklis Sapsis。"
+                "x": "他让Claude Code筛查NASA的TESS在2025年末和2026年初观测的120,000多颗恒星的数据，并使用一种常用的行星探测算法寻找亮度下降。Claude锁定了TIC 4206066，这颗恒星呈现两个变暗周期，大约每3天和每11天一次。2018年和2020年的TESS存档数据记录了同样的模式，Claude还运行了Michelle Kunimoto编写的公开算法来验证这些信号。"
               },
               {
                 "t": "p",
-                "x": "该模型学习一个类能量函数，以及其混沌行为应被限制在其中的边界；投影层将能量耗散作为硬约束强制执行，因此在任意长的预测窗口内预测都保持有界。这是首个为混沌机器学习模型建立此类形式化保证的研究。"
+                "x": "Rabtsevich于9月25日在Zenodo上发布了预印本。论文尚未经过同行评审，但TESS天文学家已独立分析了这些信号，并将其列入官方候选行星名单。"
               },
               {
                 "t": "p",
-                "x": "“混沌并不意味着任何事情都可能发生。这些系统通常保持有界，它们的模型也应如此，”Azizan说。该投影层与模型无关，论文已连同开源代码一并公开。"
+                "x": "University of British Columbia的系外行星研究者Kunimoto警告说，一些业余爱好者无法验证模型的发现：“AI-driven论文正在大量、压倒性地涌现，其中的[行星]候选往往质量不是最好的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "IA con restricciones físicas\nmodela el caos de forma estable",
-          "body": "Investigadores del MIT LIDS crearon un método con restricciones físicas que garantiza predicciones acotadas del caos.",
-          "mini_headline": "IA estable para el caos",
+          "headline": "Aficionados buscan planetas con\nClaude, con resultados dispares",
+          "body": "Un aficionado rastreó datos de TESS con Claude Code; dos candidatos a planeta entraron en la lista oficial de TESS.",
+          "mini_headline": "Aficionados buscan planetas con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/mit-lids-stable_chaos.jpg",
-                "cap": "El patrón en forma de mariposa del sistema de Lorenz 63, reproducido por un modelo de aprendizaje automático, dentro de una región acotada aprendida."
+                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+                "cap": "Las herramientas de inteligencia artificial ayudan a científicos ciudadanos a encontrar exoplanetas no descubiertos (ilustración artística). Credit: Hypersphere/SPL"
               },
               {
                 "t": "p",
-                "x": "El modelado de procesos caóticos como el tiempo atmosférico, el clima y los flujos turbulentos sigue siendo propenso a derivar con el tiempo hacia predicciones físicamente imposibles. Investigadores del Laboratorio de Sistemas de Información y Decisión (LIDS) del MIT han encontrado una forma de introducir restricciones basadas en la física en los modelos de aprendizaje automático que garantizan que nunca superen límites realistas."
+                "x": "En septiembre, Pavel Rabtsevich, especialista en AI en España sin formación académica en astronomía, pidió a un modelo de AI que descubriera un planeta. En unas dos semanas, el modelo entregó dos posibles planetas que orbitan una estrella situada a 116 años luz de la Tierra."
               },
               {
                 "t": "p",
-                "x": "Los resultados se publican en PNAS en un artículo firmado por el estudiante de posgrado del MIT Sunbochen Tang y los profesores del MIT Navid Azizan y Themistoklis Sapsis."
+                "x": "Recurrió a Claude Code para cribar datos de más de 120,000 estrellas observadas por TESS de NASA a finales de 2025 y principios de 2026, con un algoritmo popular de detección de planetas que busca caídas de brillo. Claude se centró en TIC 4206066, que mostraba dos ciclos de atenuación, aproximadamente cada 3 días y cada 11 días. Los datos de archivo de TESS de 2018 y 2020 registraban el mismo patrón, y Claude ejecutó un algoritmo público escrito por Michelle Kunimoto para validar las señales."
               },
               {
                 "t": "p",
-                "x": "El modelo aprende una función similar a la energía y una frontera en la que debe quedar confinado su comportamiento caótico; una capa de proyección impone la disipación de energía como restricción estricta, de modo que las predicciones se mantienen acotadas en ventanas de pronóstico arbitrariamente largas. Es el primer trabajo que establece garantías formales de este tipo para modelos de aprendizaje automático del caos."
+                "x": "Rabtsevich publicó un preprint en Zenodo el 25 de septiembre. No ha pasado revisión por pares, pero astrónomos de TESS analizaron las señales de forma independiente y las añadieron a su lista oficial de candidatos a planeta."
               },
               {
                 "t": "p",
-                "x": "«Caos no significa que pueda pasar cualquier cosa. Estos sistemas a menudo permanecen acotados, y sus modelos también deberían», afirma Azizan. La capa de proyección es independiente del modelo, y el artículo está disponible con código abierto."
+                "x": "Kunimoto, investigadora de exoplanetas en la University of British Columbia, advierte que algunos aficionados no pueden validar los hallazgos de los modelos: “Ha habido un aumento enorme y abrumador de artículos AI-driven, que suelen tener candidatos [a planeta] que no son de la mejor calidad.”"
               }
             ]
           }
@@ -1009,15 +325,569 @@
       }
     },
     {
-      "id": "embodied-science-agent-wastewater",
+      "id": "qubrio-neutral-atom-compiler",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트·로봇이\n폐수 실험 루프 완성",
-      "body": "ESA가 15회 폐루프 실험 끝에 폐수 투과율을 82%에서 99.7%로 올렸다.",
-      "mini_headline": "폐루프 실험 에이전트",
+      "headline": "중성원자용 LLM\n컴파일러 Qubrio",
+      "body": "Qubrio LLM은 78큐비트에서 PowerMove를 4.7x·1.3x 앞섰다.",
+      "mini_headline": "중성원자용 LLM 컴파일러",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
+      "source": "Quantum Computing Report",
+      "url": "https://quantumcomputingreport.com/university-of-california-quera-and-collaborators-introduce-multi-agent-llm-compiler-qubrio-for-neutral-atom-processors/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+          },
+          {
+            "t": "p",
+            "x": "UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology, University of Wisconsin–Madison 연구진이 중성원자 양자회로를 컴파일하는 멀티 에이전트 LLM 프레임워크 Qubrio를 공개했다. NeurIPS 2026에 채택된 이 프레임워크는 전문 LLM 제안 에이전트에 결정론적 제약 검증기와 하드웨어 시뮬레이터를 붙여 큐비트 배치, AOD 라우팅, 스케줄 최적화를 자동으로 처리한다."
+          },
+          {
+            "t": "p",
+            "x": "회로는 세 단계로 나눠 다룬다. CZ 게이트 단계별로 쪼개고, 배치를 라우팅·스케줄링과 떼어 놓은 뒤, 국소 오류 진단 결과를 다시 반영하는 식이다. 에이전트 추론 로그를 보면 이들은 호송대식 셔틀링을 스스로 찾아냈고, GHZ-78에서는 AOD 이동 한 번에 큐비트를 최대 30.3개까지 실었다."
+          },
+          {
+            "t": "p",
+            "x": "최대 78큐비트 QASMBench 워크로드에서 Qubrio는 PowerMove 컴파일러보다 실행시간을 평균 4.7× 줄이고 충실도를 1.3× 높였다. 여러 단계를 묶어 컴파일하는 데는 약 오 분이 걸렸다. 논문은 arXiv에, 코드는 GitHub에 오픈소스로 공개됐다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Qubrio, an LLM compiler\nfor neutral-atom qubits",
+          "body": "Qubrio's LLM agents cut runtime 4.7x and lifted fidelity 1.3x over PowerMove on circuits of up to 78 qubits.",
+          "mini_headline": "LLM compiler for neutral atoms",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "Researchers from UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology and the University of Wisconsin–Madison introduced Qubrio, a multi-agent LLM framework for neutral-atom quantum circuit compilation accepted to NeurIPS 2026. It pairs specialized LLM proposal agents with deterministic constraint verifiers and a hardware simulator to automate qubit placement, AOD routing and schedule optimization."
+              },
+              {
+                "t": "p",
+                "x": "A three-level decomposition splits circuits into CZ gate stages, separates placement from routing and scheduling, and feeds back localized error diagnostics. The agents’ reasoning logs show they discovered convoy-style shuttling on their own, packing up to 30.3 qubits per AOD move on GHZ-78."
+              },
+              {
+                "t": "p",
+                "x": "On QASMBench workloads up to 78 qubits, Qubrio averaged a 4.7× runtime reduction and 1.3× fidelity gain over the PowerMove compiler, compiling batches of stages in roughly five minutes. The paper is on arXiv and the code is open source on GitHub."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "중성원자용 LLM\n컴파일러 Qubrio",
+          "body": "Qubrio LLM은 78큐비트에서 PowerMove를 4.7x·1.3x 앞섰다.",
+          "mini_headline": "중성원자용 LLM 컴파일러",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology, University of Wisconsin–Madison 연구진이 중성원자 양자회로를 컴파일하는 멀티 에이전트 LLM 프레임워크 Qubrio를 공개했다. NeurIPS 2026에 채택된 이 프레임워크는 전문 LLM 제안 에이전트에 결정론적 제약 검증기와 하드웨어 시뮬레이터를 붙여 큐비트 배치, AOD 라우팅, 스케줄 최적화를 자동으로 처리한다."
+              },
+              {
+                "t": "p",
+                "x": "회로는 세 단계로 나눠 다룬다. CZ 게이트 단계별로 쪼개고, 배치를 라우팅·스케줄링과 떼어 놓은 뒤, 국소 오류 진단 결과를 다시 반영하는 식이다. 에이전트 추론 로그를 보면 이들은 호송대식 셔틀링을 스스로 찾아냈고, GHZ-78에서는 AOD 이동 한 번에 큐비트를 최대 30.3개까지 실었다."
+              },
+              {
+                "t": "p",
+                "x": "최대 78큐비트 QASMBench 워크로드에서 Qubrio는 PowerMove 컴파일러보다 실행시간을 평균 4.7× 줄이고 충실도를 1.3× 높였다. 여러 단계를 묶어 컴파일하는 데는 약 오 분이 걸렸다. 논문은 arXiv에, 코드는 GitHub에 오픈소스로 공개됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "中性原子向けのLLM\nコンパイラ「Qubrio」",
+          "body": "QubrioのLLMは78量子ビットでPowerMove比4.7x高速、1.3x高忠実だ。",
+          "mini_headline": "中性原子向けLLMコンパイラ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology、University of Wisconsin–Madisonの研究者らが、中性原子量子回路のコンパイル向けマルチエージェントLLMフレームワーク「Qubrio」を発表した。NeurIPS 2026に採択されたこの手法は、専門化したLLM提案エージェントに決定論的な制約検証器とハードウェアシミュレーターを組み合わせ、量子ビット配置、AODルーティング、スケジュール最適化を自動化する。"
+              },
+              {
+                "t": "p",
+                "x": "三層の分解によって回路をCZゲート段に分け、配置をルーティングとスケジューリングから切り離し、局所的なエラー診断をフィードバックする。エージェントの推論ログからは、隊列型のシャトリングを自ら見いだし、GHZ-78ではAOD移動一回あたり最大30.3量子ビットを詰め込んだことがわかる。"
+              },
+              {
+                "t": "p",
+                "x": "最大78量子ビットのQASMBenchワークロードで、QubrioはPowerMoveコンパイラに比べ平均で実行時間を4.7×短縮し、忠実度を1.3×高めた。複数段のバッチは約五分でコンパイルできる。論文はarXivで公開され、コードはGitHubでオープンソースになっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Qubrio：面向中性原子\n量子比特的LLM编译器",
+          "body": "Qubrio的LLM在78量子比特内较PowerMove提速4.7x、保真度提升1.3x。",
+          "mini_headline": "面向中性原子的LLM编译器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "来自UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology和University of Wisconsin–Madison的研究人员推出了Qubrio，这是一个用于中性原子量子电路编译的多智能体LLM框架，已被NeurIPS 2026接收。它将专门化的LLM提议智能体与确定性约束验证器和硬件模拟器配合，自动完成量子比特布局、AOD路由和调度优化。"
+              },
+              {
+                "t": "p",
+                "x": "三级分解将电路拆分为CZ门阶段，把布局与路由和调度分开，并反馈局部化的错误诊断。智能体的推理日志显示，它们自行发现了车队式穿梭方式，在GHZ-78上每次AOD移动最多搬运30.3个量子比特。"
+              },
+              {
+                "t": "p",
+                "x": "在最多78个量子比特的QASMBench工作负载上，Qubrio相比PowerMove编译器平均将运行时间缩短4.7×，保真度提升1.3×，批量编译各阶段约需五分钟。论文已发布在arXiv上，代码在GitHub开源。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Qubrio, un compilador LLM\npara cúbits de átomos neutros",
+          "body": "Frente a PowerMove, los agentes LLM de Qubrio redujeron 4.7x el tiempo y subieron 1.3x la fidelidad en hasta 78 cúbits.",
+          "mini_headline": "Compilador LLM para átomos neutros",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology y la University of Wisconsin–Madison presentaron Qubrio, un marco LLM multiagente para la compilación de circuitos cuánticos de átomos neutros, aceptado en NeurIPS 2026. Combina agentes LLM especializados que proponen soluciones con verificadores deterministas de restricciones y un simulador de hardware para automatizar la colocación de cúbits, el enrutamiento AOD y la optimización del calendario."
+              },
+              {
+                "t": "p",
+                "x": "Una descomposición en tres niveles divide los circuitos en etapas de puertas CZ, separa la colocación del enrutamiento y la planificación, y retroalimenta diagnósticos de errores localizados. Los registros de razonamiento de los agentes muestran que descubrieron por sí solos un traslado en convoy, con hasta 30.3 cúbits por movimiento AOD en GHZ-78."
+              },
+              {
+                "t": "p",
+                "x": "En cargas de trabajo de QASMBench de hasta 78 cúbits, Qubrio logró de media una reducción de 4.7× del tiempo de ejecución y una mejora de 1.3× en la fidelidad frente al compilador PowerMove, y compiló lotes de etapas en unos cinco minutos. El artículo está en arXiv y el código se publica como código abierto en GitHub."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "중성원자용 LLM\n컴파일러 Qubrio",
+          "body": "Qubrio LLM은 78큐비트서 PowerMove를 4.7x·1.3x 앞섰다.",
+          "mini_headline": "중성원자용 LLM 컴파일러",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology, University of Wisconsin–Madison 연구진이 중성원자 양자회로 컴파일을 위한 멀티 에이전트 LLM 프레임워크 Qubrio를 공개했다. NeurIPS 2026에 채택된 이 프레임워크는 전문화된 LLM 제안 에이전트에 결정론적 제약 검증기와 하드웨어 시뮬레이터를 결합해 큐비트 배치, AOD 라우팅, 스케줄 최적화를 자동화한다."
+              },
+              {
+                "t": "p",
+                "x": "세 단계 분해 방식으로 회로를 CZ 게이트 단계로 나누고, 배치를 라우팅·스케줄링과 분리하며, 국소적 오류 진단을 다시 반영한다. 에이전트의 추론 로그를 보면 이들은 호송대식 셔틀링을 스스로 찾아내, GHZ-78에서 AOD 이동 한 번에 최대 30.3개의 큐비트를 실었다."
+              },
+              {
+                "t": "p",
+                "x": "최대 78큐비트의 QASMBench 워크로드에서 Qubrio는 PowerMove 컴파일러 대비 평균 4.7× 실행시간 단축과 1.3× 충실도 향상을 기록했고, 여러 단계를 묶어 약 오 분 만에 컴파일했다. 논문은 arXiv에 있고 코드는 GitHub에 오픈소스로 공개됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "中性原子向けのLLM\nコンパイラ「Qubrio」",
+          "body": "QubrioのLLMは78量子ビットでPowerMove比4.7x高速、1.3x高忠実だ。",
+          "mini_headline": "中性原子向けLLMコンパイラ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology、University of Wisconsin–Madisonの研究者らが、中性原子量子回路のコンパイル向けマルチエージェントLLMフレームワーク「Qubrio」を発表した。NeurIPS 2026に採択されたこの手法は、専門化したLLM提案エージェントに決定論的な制約検証器とハードウェアシミュレーターを組み合わせ、量子ビット配置、AODルーティング、スケジュール最適化を自動化する。"
+              },
+              {
+                "t": "p",
+                "x": "三層の分解によって回路をCZゲート段に分け、配置をルーティングとスケジューリングから切り離し、局所的なエラー診断をフィードバックする。エージェントの推論ログからは、隊列型のシャトリングを自ら見いだし、GHZ-78ではAOD移動一回あたり最大30.3量子ビットを詰め込んだことがわかる。"
+              },
+              {
+                "t": "p",
+                "x": "最大78量子ビットのQASMBenchワークロードで、QubrioはPowerMoveコンパイラに比べ平均で実行時間を4.7×短縮し、忠実度を1.3×高めた。複数段のバッチは約五分でコンパイルできる。論文はarXivで公開され、コードはGitHubでオープンソースになっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Qubrio：面向中性原子\n量子比特的LLM编译器",
+          "body": "Qubrio的LLM在78量子比特内较PowerMove提速4.7x、保真度提升1.3x。",
+          "mini_headline": "面向中性原子的LLM编译器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "来自UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology和University of Wisconsin–Madison的研究人员推出了Qubrio，这是一个用于中性原子量子电路编译的多智能体LLM框架，已被NeurIPS 2026接收。它将专门化的LLM提议智能体与确定性约束验证器和硬件模拟器配合，自动完成量子比特布局、AOD路由和调度优化。"
+              },
+              {
+                "t": "p",
+                "x": "三级分解将电路拆分为CZ门阶段，把布局与路由和调度分开，并反馈局部化的错误诊断。智能体的推理日志显示，它们自行发现了车队式穿梭方式，在GHZ-78上每次AOD移动最多搬运30.3个量子比特。"
+              },
+              {
+                "t": "p",
+                "x": "在最多78个量子比特的QASMBench工作负载上，Qubrio相比PowerMove编译器平均将运行时间缩短4.7×，保真度提升1.3×，批量编译各阶段约需五分钟。论文已发布在arXiv上，代码在GitHub开源。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Qubrio, un compilador LLM\npara cúbits de átomos neutros",
+          "body": "Frente a PowerMove, los agentes LLM de Qubrio redujeron 4.7x el tiempo y subieron 1.3x la fidelidad en hasta 78 cúbits.",
+          "mini_headline": "Compilador LLM para átomos neutros",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology y la University of Wisconsin–Madison presentaron Qubrio, un marco LLM multiagente para la compilación de circuitos cuánticos de átomos neutros, aceptado en NeurIPS 2026. Combina agentes LLM especializados que proponen soluciones con verificadores deterministas de restricciones y un simulador de hardware para automatizar la colocación de cúbits, el enrutamiento AOD y la optimización del calendario."
+              },
+              {
+                "t": "p",
+                "x": "Una descomposición en tres niveles divide los circuitos en etapas de puertas CZ, separa la colocación del enrutamiento y la planificación, y retroalimenta diagnósticos de errores localizados. Los registros de razonamiento de los agentes muestran que descubrieron por sí solos un traslado en convoy, con hasta 30.3 cúbits por movimiento AOD en GHZ-78."
+              },
+              {
+                "t": "p",
+                "x": "En cargas de trabajo de QASMBench de hasta 78 cúbits, Qubrio logró de media una reducción de 4.7× del tiempo de ejecución y una mejora de 1.3× en la fidelidad frente al compilador PowerMove, y compiló lotes de etapas en unos cinco minutos. El artículo está en arXiv y el código se publica como código abierto en GitHub."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "york-ann-brain-mismatch",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "뇌 닮은 AI, 실제로는\n뇌처럼 일하지 않을 수도",
+      "body": "York 연구에 따르면 피질을 잘 맞히는 시각 모델도 뇌가 안 쓰는 과정에 기댄다.",
+      "mini_headline": "뇌를 닮지 않은 AI 시각",
+      "tool": "Science",
+      "source": "ScienceDaily (York University)",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+            "cap": "Credit: AI/ScienceDaily.com"
+          },
+          {
+            "t": "p",
+            "x": "York University 연구진이 Nature Machine Intelligence에 발표한 연구에서, 뇌의 시각 처리를 모델링할 때 널리 쓰이는 인공신경망의 약점이 드러났다. Kohitij Kar 조교수와 박사후연구원 Sabine Muzellec이 이끈 연구팀은 ‘역예측성(reverse predictivity)’ 시험을 했다. AI가 뇌 활동을 예측하는지만 보지 않고, 기록된 뇌 활동으로 모델 내부를 예측할 수 있는지도 따졌다."
+          },
+          {
+            "t": "p",
+            "x": "10개 사물을 담은 자연·합성 이미지 1,320장과 양식화된 이미지 300장으로 시험해 보니, 모델은 기록된 뉴런을 꽤 잘 예측했지만 뉴런은 모델의 여러 특징을 잘 예측하지 못했다. 서로 다른 뇌끼리는 나타나지 않는 격차다."
+          },
+          {
+            "t": "p",
+            "x": "Kar는 “이번 결과는 오늘날의 AI 시스템이 시각 과제를 풀 때 뇌가 쓰지 않을 수도 있는 내부 전략을 부분적으로 사용한다는 점을 시사한다”고 말한다. 연구팀은 개발자들이 자기 모델을 평가해 볼 수 있게 공개 테스트 도구를 내놓았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Brain-like AI may not work\nthe way the brain does",
+          "body": "A York study finds vision models that predict primate cortex well can still rely on processes the brain does not use.",
+          "mini_headline": "AI vision is not brain-like",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "A York University study in Nature Machine Intelligence finds a weakness in artificial neural networks widely used to model how the brain processes vision. Led by Assistant Professor Kohitij Kar with postdoctoral fellow Sabine Muzellec, the team ran “reverse predictivity” tests: instead of asking only whether AI predicts brain activity, they asked whether recorded brain activity predicts the models’ internals."
+              },
+              {
+                "t": "p",
+                "x": "Using 1,320 natural and synthetic images of 10 objects plus 300 stylized images, they found models predicted recorded neurons fairly well, but neurons predicted many model features poorly — a gap not seen between different brains."
+              },
+              {
+                "t": "p",
+                "x": "“The findings suggest that today's AI systems solve visual tasks partly using internal strategies that the brain may not use,” says Kar. The team released a public testing toolkit so developers can evaluate their own models."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "뇌 닮은 AI, 실제로는\n뇌처럼 일하지 않을 수도",
+          "body": "York 연구에 따르면 피질을 잘 맞히는 시각 모델도 뇌가 안 쓰는 과정에 기댄다.",
+          "mini_headline": "뇌를 닮지 않은 AI 시각",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "York University 연구진이 Nature Machine Intelligence에 발표한 연구에서, 뇌의 시각 처리를 모델링할 때 널리 쓰이는 인공신경망의 약점이 드러났다. Kohitij Kar 조교수와 박사후연구원 Sabine Muzellec이 이끈 연구팀은 ‘역예측성(reverse predictivity)’ 시험을 했다. AI가 뇌 활동을 예측하는지만 보지 않고, 기록된 뇌 활동으로 모델 내부를 예측할 수 있는지도 따졌다."
+              },
+              {
+                "t": "p",
+                "x": "10개 사물을 담은 자연·합성 이미지 1,320장과 양식화된 이미지 300장으로 시험해 보니, 모델은 기록된 뉴런을 꽤 잘 예측했지만 뉴런은 모델의 여러 특징을 잘 예측하지 못했다. 서로 다른 뇌끼리는 나타나지 않는 격차다."
+              },
+              {
+                "t": "p",
+                "x": "Kar는 “이번 결과는 오늘날의 AI 시스템이 시각 과제를 풀 때 뇌가 쓰지 않을 수도 있는 내부 전략을 부분적으로 사용한다는 점을 시사한다”고 말한다. 연구팀은 개발자들이 자기 모델을 평가해 볼 수 있게 공개 테스트 도구를 내놓았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "脳に似たAIは脳のように\n働いていないかもしれない",
+          "body": "York大学の研究で、皮質をよく予測する視覚モデルも脳が使わない処理に頼りうるとわかった。",
+          "mini_headline": "AIの視覚は脳に似ていない",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "York UniversityがNature Machine Intelligenceに発表した研究は、脳の視覚処理をモデル化するのに広く使われている人工ニューラルネットワークの弱点を明らかにした。Kohitij Kar助教がポスドク研究員のSabine Muzellecとともに率いたチームは「逆予測性(reverse predictivity)」テストを行った。AIが脳活動を予測できるかだけでなく、記録された脳活動がモデルの内部を予測できるかを問うものだ。"
+              },
+              {
+                "t": "p",
+                "x": "10種類の物体を写した自然画像と合成画像1,320枚に加え、様式化した画像300枚を用いたところ、モデルは記録されたニューロンをかなりよく予測したが、ニューロンはモデルの多くの特徴をうまく予測できなかった。異なる脳どうしでは見られない差である。"
+              },
+              {
+                "t": "p",
+                "x": "「今回の結果は、現在のAIシステムが視覚課題を解く際、脳が使っていない可能性のある内部戦略を部分的に用いていることを示唆している」とKarは言う。チームは開発者が自らのモデルを評価できるよう、テスト用ツールキットを公開した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "类脑AI的工作方式\n未必与大脑相同",
+          "body": "York的研究发现，能很好预测灵长类皮层的视觉模型，仍可能依赖大脑并不使用的过程。",
+          "mini_headline": "AI视觉并不像大脑",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "York University发表在Nature Machine Intelligence上的一项研究发现，被广泛用于模拟大脑视觉处理方式的人工神经网络存在弱点。由助理教授Kohitij Kar与博士后研究员Sabine Muzellec带领的团队开展了“反向预测性”(reverse predictivity)测试：不只问AI能否预测大脑活动，还问记录到的大脑活动能否预测模型的内部状态。"
+              },
+              {
+                "t": "p",
+                "x": "研究使用了包含10种物体的1,320张自然与合成图像，以及300张风格化图像，发现模型能较好地预测记录到的神经元，但神经元对模型许多特征的预测却很差——这种差距在不同大脑之间并不存在。"
+              },
+              {
+                "t": "p",
+                "x": "Kar表示：“研究结果表明，如今的AI系统在解决视觉任务时，部分采用了大脑可能并不使用的内部策略。”团队发布了一个公开测试工具包，供开发者评估自己的模型。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una AI similar al cerebro puede\nno funcionar como el cerebro",
+          "body": "Un estudio de York revela que modelos visuales que predicen bien la corteza primate usan procesos ajenos al cerebro.",
+          "mini_headline": "La visión AI no imita al cerebro",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "Un estudio de la York University publicado en Nature Machine Intelligence detecta una debilidad en las redes neuronales artificiales muy usadas para modelar cómo procesa el cerebro la visión. Dirigido por el profesor adjunto Kohitij Kar junto con la investigadora posdoctoral Sabine Muzellec, el equipo realizó pruebas de “predictividad inversa” (reverse predictivity): en lugar de preguntar solo si la AI predice la actividad cerebral, se preguntaron si la actividad cerebral registrada predice el funcionamiento interno de los modelos."
+              },
+              {
+                "t": "p",
+                "x": "Con 1,320 imágenes naturales y sintéticas de 10 objetos, más 300 imágenes estilizadas, comprobaron que los modelos predecían bastante bien las neuronas registradas, pero las neuronas predecían mal muchas características de los modelos, una brecha que no se observa entre cerebros distintos."
+              },
+              {
+                "t": "p",
+                "x": "“Los resultados sugieren que los sistemas de AI actuales resuelven tareas visuales usando en parte estrategias internas que el cerebro quizá no utiliza”, afirma Kar. El equipo publicó un conjunto de herramientas de prueba abierto para que los desarrolladores evalúen sus propios modelos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "뇌 닮은 AI, 실제로는\n뇌처럼 일하지 않을 수도",
+          "body": "York 연구에 따르면 피질을 잘 맞히는 시각 모델도 뇌가 안 쓰는 과정에 기댄다.",
+          "mini_headline": "뇌를 닮지 않은 AI 시각",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "York University 연구진이 Nature Machine Intelligence에 발표한 연구는 뇌의 시각 처리 방식을 모델링하는 데 널리 쓰이는 인공신경망의 약점을 찾아냈다. Kohitij Kar 조교수가 박사후연구원 Sabine Muzellec과 함께 이끈 연구팀은 ‘역예측성(reverse predictivity)’ 시험을 진행했다. AI가 뇌 활동을 예측하는지만 묻는 대신, 기록된 뇌 활동이 모델의 내부를 예측하는지도 물은 것이다."
+              },
+              {
+                "t": "p",
+                "x": "10개 사물을 담은 자연·합성 이미지 1,320장과 양식화된 이미지 300장을 사용한 결과, 모델은 기록된 뉴런을 꽤 잘 예측했지만 뉴런은 모델의 여러 특징을 잘 예측하지 못했다. 서로 다른 뇌 사이에서는 보이지 않는 격차다."
+              },
+              {
+                "t": "p",
+                "x": "Kar는 “이번 결과는 오늘날의 AI 시스템이 시각 과제를 풀 때 뇌가 쓰지 않을 수도 있는 내부 전략을 부분적으로 사용한다는 점을 시사한다”고 말한다. 연구팀은 개발자들이 자신의 모델을 평가할 수 있도록 공개 테스트 도구를 내놓았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "脳に似たAIは脳のように\n働いていないかもしれない",
+          "body": "York大学の研究で、皮質をよく予測する視覚モデルも脳が使わない処理に頼りうるとわかった。",
+          "mini_headline": "AIの視覚は脳に似ていない",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "York UniversityがNature Machine Intelligenceに発表した研究は、脳の視覚処理をモデル化するのに広く使われている人工ニューラルネットワークの弱点を明らかにした。Kohitij Kar助教がポスドク研究員のSabine Muzellecとともに率いたチームは「逆予測性(reverse predictivity)」テストを行った。AIが脳活動を予測できるかだけでなく、記録された脳活動がモデルの内部を予測できるかを問うものだ。"
+              },
+              {
+                "t": "p",
+                "x": "10種類の物体を写した自然画像と合成画像1,320枚に加え、様式化した画像300枚を用いたところ、モデルは記録されたニューロンをかなりよく予測したが、ニューロンはモデルの多くの特徴をうまく予測できなかった。異なる脳どうしでは見られない差である。"
+              },
+              {
+                "t": "p",
+                "x": "「今回の結果は、現在のAIシステムが視覚課題を解く際、脳が使っていない可能性のある内部戦略を部分的に用いていることを示唆している」とKarは言う。チームは開発者が自らのモデルを評価できるよう、テスト用ツールキットを公開した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "类脑AI的工作方式\n未必与大脑相同",
+          "body": "York的研究发现，能很好预测灵长类皮层的视觉模型，仍可能依赖大脑并不使用的过程。",
+          "mini_headline": "AI视觉并不像大脑",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "York University发表在Nature Machine Intelligence上的一项研究发现，被广泛用于模拟大脑视觉处理方式的人工神经网络存在弱点。由助理教授Kohitij Kar与博士后研究员Sabine Muzellec带领的团队开展了“反向预测性”(reverse predictivity)测试：不只问AI能否预测大脑活动，还问记录到的大脑活动能否预测模型的内部状态。"
+              },
+              {
+                "t": "p",
+                "x": "研究使用了包含10种物体的1,320张自然与合成图像，以及300张风格化图像，发现模型能较好地预测记录到的神经元，但神经元对模型许多特征的预测却很差——这种差距在不同大脑之间并不存在。"
+              },
+              {
+                "t": "p",
+                "x": "Kar表示：“研究结果表明，如今的AI系统在解决视觉任务时，部分采用了大脑可能并不使用的内部策略。”团队发布了一个公开测试工具包，供开发者评估自己的模型。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una AI similar al cerebro puede\nno funcionar como el cerebro",
+          "body": "Un estudio de York revela que modelos visuales que predicen bien la corteza primate usan procesos ajenos al cerebro.",
+          "mini_headline": "La visión AI no imita al cerebro",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                "cap": "Credit: AI/ScienceDaily.com"
+              },
+              {
+                "t": "p",
+                "x": "Un estudio de la York University publicado en Nature Machine Intelligence detecta una debilidad en las redes neuronales artificiales muy usadas para modelar cómo procesa el cerebro la visión. Dirigido por el profesor adjunto Kohitij Kar junto con la investigadora posdoctoral Sabine Muzellec, el equipo realizó pruebas de “predictividad inversa” (reverse predictivity): en lugar de preguntar solo si la AI predice la actividad cerebral, se preguntaron si la actividad cerebral registrada predice el funcionamiento interno de los modelos."
+              },
+              {
+                "t": "p",
+                "x": "Con 1,320 imágenes naturales y sintéticas de 10 objetos, más 300 imágenes estilizadas, comprobaron que los modelos predecían bastante bien las neuronas registradas, pero las neuronas predecían mal muchas características de los modelos, una brecha que no se observa entre cerebros distintos."
+              },
+              {
+                "t": "p",
+                "x": "“Los resultados sugieren que los sistemas de AI actuales resuelven tareas visuales usando en parte estrategias internas que el cerebro quizá no utiliza”, afirma Kar. El equipo publicó un conjunto de herramientas de prueba abierto para que los desarrolladores evalúen sus propios modelos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "pertreason-virtual-cell",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "세포 변화와 그 이유\nPertReason이 예측",
+      "body": "Texas A&M의 PertReason은 교란·약물의 세포 영향과 경로를 짚는다.",
+      "mini_headline": "이유까지 설명하는 가상 세포",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -1025,155 +895,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-            "cap": "자율 실험실을 위한 인지–체화 하이브리드 패러다임인 Embodied Science Agent(ESA)의 세 가지 구성 요소 구조. 출처: arXiv (2026)"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+            "cap": "교란 모델링에서 제안된 해법 개요. Credit: arXiv (2026)"
           },
           {
             "t": "p",
-            "x": "University College London, 홍콩과학기술대학교(광저우) 등 여러 기관 연구진이 Embodied Science Agent(ESA)를 개발해 arXiv에 프리프린트로 공개했다. 기존 연구 에이전트는 실험을 계획만 하고 실행은 사람이나 별도 시스템에 맡긴다. ESA는 디지털 에이전트와 장비를 제어하는 체화 에이전트, 둘 사이의 인터페이스를 하나로 잇는다."
+            "x": "Texas A&M 전기·컴퓨터공학과의 Yang Shen 박사 연구진은 Dongkwan Kim 박사, Ph.D. 과정 학생 Yiming Gao와 함께 AI ‘가상 세포’ 기술을 개발하고 있다. 유전적·약물 효과가 세포 행동을 어떻게 바꾸는지 예측하고, 그 변화 뒤의 생물학적 메커니즘까지 밝히는 기술이다."
           },
           {
             "t": "p",
-            "x": "디지털 에이전트는 기존 데이터와 실험 기록, 베이지안 최적화로 다음에 시험할 조건을 고른다. 폐수 처리 실험에서 ESA는 2억 가지가 넘는 조합 가운데 15회 연속 라운드로 조건을 골라 용액 투과율을 82%에서 99.7%로 끌어올렸다. 저자들은 이 결과를 잔류 염료 농도 98.5% 감소와 연결 짓는다."
+            "x": "연구진의 모델 PertReason은 NeurIPS 2026에 채택돼 arXiv에 공개됐다. 초기 버전은 ICML 2026 워크숍에서 발표했다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+            "cap": "PertReasonQA 구축 파이프라인 개요. Credit: arXiv (2026)"
           },
           {
             "t": "p",
-            "x": "로봇 제어는 전극 랙 위치를 바꿔도 문제없이 작동했다. 다만 측정 대상은 탈색뿐이어서 이것만으로 염료가 완전히 분해됐다거나 다른 오염물질까지 제거됐다고 볼 수는 없다."
+            "x": "PertReasonQA 벤치마크는 LLM의 정확도뿐 아니라 답에 이른 추론이 타당한지도 평가한다. 모델이 적절한 데이터를 쓰지 않고 정답을 맞힌 경우를 걸러내는 셈이다. Shen은 유방암 임상의들과 협업하며 영감을 얻었고, 이 도구가 어떤 경로부터 조사할지 정하는 데 쓰이길 바란다. Texas A&M의 VISION 슈퍼컴퓨터에서는 다중 스케일 디지털 트윈을 구현할 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agent and robot close\nthe loop on wastewater",
-          "body": "Over 15 closed-loop rounds, the Embodied Science Agent raised dye-removal transmittance from 82% to 99.7%.",
-          "mini_headline": "Closed-loop lab agent",
+          "headline": "PertReason predicts how\ncells change, and why",
+          "body": "Texas A&M's PertReason predicts how genetic perturbations and drugs alter cells and traces the pathways behind it.",
+          "mini_headline": "A virtual cell that explains",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "The architecture of the Embodied Science Agent (ESA), a hybrid cognitive–embodied paradigm for self-driving laboratories with three components. Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "Overview of proposed solutions in perturbation modeling. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "Researchers at University College London, the Hong Kong University of Science and Technology (Guangzhou) and other institutions developed the Embodied Science Agent (ESA), described in a preprint posted to arXiv. Unlike research agents that only plan experiments for humans or separate systems to carry out, ESA links a digital agent, an embodied agent that controls instruments, and an interface between the two."
+                "x": "Texas A&M electrical and computer engineering researchers led by Dr. Yang Shen, with Dr. Dongkwan Kim and Ph.D. student Yiming Gao, are building AI “virtual cell” technology that can predict how genetic and drug effects alter cellular behavior and uncover the biological mechanisms behind those changes."
               },
               {
                 "t": "p",
-                "x": "The digital agent uses prior data, experiment records and Bayesian optimization to choose what to test next. In wastewater treatment experiments, ESA selected conditions from more than 200 million possible combinations over 15 consecutive rounds, raising solution transmittance from 82% to 99.7%, which the authors link to a 98.5% reduction in residual dye concentration."
+                "x": "Their model, PertReason, has been accepted to NeurIPS 2026 and is on arXiv; an earlier version was presented at an ICML 2026 workshop."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "Overview of the PertReasonQA construction pipeline. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "Its robotic control kept working when an electrode rack was placed in different positions. The measurements covered decolorization only, which does not by itself show complete dye breakdown or removal of other pollutants."
+                "x": "The team's PertReasonQA benchmark evaluates not only LLM accuracy but whether the reasoning behind an answer is sound, flagging cases where a model got the right answer without using the proper data. Inspired by work with breast cancer clinicians, Shen hopes it helps prioritize which pathways to investigate, and plans multiscale digital twins on Texas A&M's VISION supercomputer."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트·로봇이\n폐수 실험 루프 완성",
-          "body": "ESA가 15회 폐루프 실험 끝에 폐수 투과율을 82%에서 99.7%로 올렸다.",
-          "mini_headline": "폐루프 실험 에이전트",
+          "headline": "세포 변화와 그 이유\nPertReason이 예측",
+          "body": "Texas A&M의 PertReason은 교란·약물의 세포 영향과 경로를 짚는다.",
+          "mini_headline": "이유까지 설명하는 가상 세포",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "자율 실험실을 위한 인지–체화 하이브리드 패러다임인 Embodied Science Agent(ESA)의 세 가지 구성 요소 구조. 출처: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "교란 모델링에서 제안된 해법 개요. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "University College London, 홍콩과학기술대학교(광저우) 등 여러 기관 연구진이 Embodied Science Agent(ESA)를 개발해 arXiv에 프리프린트로 공개했다. 기존 연구 에이전트는 실험을 계획만 하고 실행은 사람이나 별도 시스템에 맡긴다. ESA는 디지털 에이전트와 장비를 제어하는 체화 에이전트, 둘 사이의 인터페이스를 하나로 잇는다."
+                "x": "Texas A&M 전기·컴퓨터공학과의 Yang Shen 박사 연구진은 Dongkwan Kim 박사, Ph.D. 과정 학생 Yiming Gao와 함께 AI ‘가상 세포’ 기술을 개발하고 있다. 유전적·약물 효과가 세포 행동을 어떻게 바꾸는지 예측하고, 그 변화 뒤의 생물학적 메커니즘까지 밝히는 기술이다."
               },
               {
                 "t": "p",
-                "x": "디지털 에이전트는 기존 데이터와 실험 기록, 베이지안 최적화로 다음에 시험할 조건을 고른다. 폐수 처리 실험에서 ESA는 2억 가지가 넘는 조합 가운데 15회 연속 라운드로 조건을 골라 용액 투과율을 82%에서 99.7%로 끌어올렸다. 저자들은 이 결과를 잔류 염료 농도 98.5% 감소와 연결 짓는다."
+                "x": "연구진의 모델 PertReason은 NeurIPS 2026에 채택돼 arXiv에 공개됐다. 초기 버전은 ICML 2026 워크숍에서 발표했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "PertReasonQA 구축 파이프라인 개요. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "로봇 제어는 전극 랙 위치를 바꿔도 문제없이 작동했다. 다만 측정 대상은 탈색뿐이어서 이것만으로 염료가 완전히 분해됐다거나 다른 오염물질까지 제거됐다고 볼 수는 없다."
+                "x": "PertReasonQA 벤치마크는 LLM의 정확도뿐 아니라 답에 이른 추론이 타당한지도 평가한다. 모델이 적절한 데이터를 쓰지 않고 정답을 맞힌 경우를 걸러내는 셈이다. Shen은 유방암 임상의들과 협업하며 영감을 얻었고, 이 도구가 어떤 경로부터 조사할지 정하는 데 쓰이길 바란다. Texas A&M의 VISION 슈퍼컴퓨터에서는 다중 스케일 디지털 트윈을 구현할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントとロボが\n廃水実験のループを閉じる",
-          "body": "ESAは15回の閉ループ実験で、溶液の透過率を82%から99.7%に高めた。",
-          "mini_headline": "閉ループ実験エージェント",
+          "headline": "PertReason、細胞の\n変化とその理由を予測",
+          "body": "Texas A&MのPertReasonは遺伝子摂動や薬による細胞変化を予測し、経路も示す。",
+          "mini_headline": "理由も説明する仮想細胞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "自律実験室のための認知と身体性を組み合わせたハイブリッド型パラダイム、Embodied Science Agent（ESA）の三つの構成要素からなるアーキテクチャ。出典：arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "摂動モデリングで提案されている手法の概要。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "University College London、香港科技大学（広州）などの研究者がEmbodied Science Agent（ESA）を開発し、arXivに投稿したプレプリントで報告した。人間や別のシステムが実行する実験を計画するだけの研究エージェントと異なり、ESAはデジタルエージェント、機器を制御する身体性エージェント、そして両者をつなぐインターフェースを連携させる。"
+                "x": "Texas A&Mの電気・コンピュータ工学の研究者らは、Yang Shen博士を中心に、Dongkwan Kim博士やPh.D.課程の学生Yiming Gaoとともに、遺伝的要因や薬の作用が細胞の振る舞いをどう変えるかを予測し、その変化の背後にある生物学的メカニズムを明らかにできるAI「仮想細胞」技術を開発している。"
               },
               {
                 "t": "p",
-                "x": "デジタルエージェントは、既存データ、実験記録、ベイズ最適化を用いて次に試す条件を選ぶ。廃水処理実験でESAは2億を超える組み合わせの候補から15回連続のラウンドで条件を選び、溶液の透過率を82%から99.7%に高めた。著者らはこれを残留染料濃度の98.5%低下に結びつけている。"
+                "x": "彼らのモデルPertReasonはNeurIPS 2026に採択され、arXivで公開されている。初期版はICML 2026のワークショップで発表された。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "PertReasonQA構築パイプラインの概要。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "ロボット制御は、電極ラックを異なる位置に置いても機能し続けた。測定は脱色のみを対象としており、それだけでは染料の完全な分解や他の汚染物質の除去を示すものではない。"
+                "x": "チームのPertReasonQAベンチマークは、LLMの正答率だけでなく、答えに至る推論が妥当かどうかも評価し、モデルが適切なデータを使わずに正解した事例を検出する。乳がんの臨床医との共同研究に着想を得たShenは、どの経路を優先して調べるべきかの判断に役立つことを期待しており、Texas A&MのスーパーコンピューターVISIONでマルチスケールのデジタルツインを構築する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体与机器人\n打通废水实验闭环",
-          "body": "具身科学智能体ESA经过15轮闭环实验，将溶液透过率从82%提升至99.7%。",
-          "mini_headline": "闭环实验智能体",
+          "headline": "PertReason预测细胞\n如何变化及其原因",
+          "body": "Texas A&M的PertReason可预测基因扰动和药物如何改变细胞，并追溯背后的通路。",
+          "mini_headline": "能解释原因的虚拟细胞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "Embodied Science Agent（ESA）的架构，这是一种面向自主实验室的认知–具身混合范式，包含三个组成部分。图片来源：arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "扰动建模中所提出解决方案的概览。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "伦敦大学学院（University College London）、香港科技大学（广州）等机构的研究人员开发了Embodied Science Agent（ESA），相关内容见于发布在arXiv上的一篇预印本。与只为人类或独立系统规划实验的研究智能体不同，ESA将数字智能体、控制仪器的具身智能体以及二者之间的接口连接起来。"
+                "x": "由Yang Shen博士领导的Texas A&M电气与计算机工程研究人员，与Dongkwan Kim博士及Ph.D.学生Yiming Gao一起，正在开发AI“虚拟细胞”技术，用以预测遗传与药物效应如何改变细胞行为，并揭示这些变化背后的生物学机制。"
               },
               {
                 "t": "p",
-                "x": "数字智能体利用先验数据、实验记录和贝叶斯优化来选择下一步要测试的条件。在废水处理实验中，ESA在连续15轮中从超过2亿种可能组合里选择条件，将溶液透过率从82%提升至99.7%，作者将其与残留染料浓度降低98.5%联系起来。"
+                "x": "他们的模型PertReason已被NeurIPS 2026接收，并已发布在arXiv上；早期版本曾在ICML 2026的一个研讨会上展示。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "PertReasonQA构建流程概览。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "当电极架被放置在不同位置时，其机器人控制仍能持续工作。测量仅涵盖脱色，这本身并不能表明染料被完全降解或其他污染物被去除。"
+                "x": "团队的PertReasonQA基准不仅评估LLM的准确率，还评估答案背后的推理是否合理，并标记模型未使用恰当数据却答对的情况。Shen受到与乳腺癌临床医生合作的启发，希望它能帮助确定优先研究哪些通路，并计划在Texas A&M的VISION超级计算机上构建多尺度数字孪生。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente de IA y robot cierran\nel ciclo en aguas residuales",
-          "body": "En 15 rondas de ciclo cerrado, el Embodied Science Agent elevó la transmitancia de la solución del 82% al 99,7%.",
-          "mini_headline": "Agente de laboratorio en ciclo cerrado",
+          "headline": "PertReason predice cómo cambian\nlas células, y por qué",
+          "body": "PertReason, de Texas A&M, predice cómo las perturbaciones genéticas y fármacos alteran las células y rastrea sus vías.",
+          "mini_headline": "Una célula virtual que explica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "Arquitectura del Embodied Science Agent (ESA), un paradigma híbrido cognitivo–corporizado para laboratorios autónomos con tres componentes. Crédito: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "Resumen de las soluciones propuestas en el modelado de perturbaciones. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del University College London, la Universidad de Ciencia y Tecnología de Hong Kong (Guangzhou) y otras instituciones desarrollaron el Embodied Science Agent (ESA), descrito en una preimpresión publicada en arXiv. A diferencia de los agentes de investigación que solo planifican experimentos para que los ejecuten personas o sistemas independientes, ESA conecta un agente digital, un agente corporizado que controla instrumentos y una interfaz entre ambos."
+                "x": "Investigadores de ingeniería eléctrica y de computación de Texas A&M dirigidos por el Dr. Yang Shen, con el Dr. Dongkwan Kim y el estudiante de Ph.D. Yiming Gao, desarrollan una tecnología de AI de “célula virtual” capaz de predecir cómo los efectos genéticos y farmacológicos alteran el comportamiento celular y de desvelar los mecanismos biológicos detrás de esos cambios."
               },
               {
                 "t": "p",
-                "x": "El agente digital usa datos previos, registros de experimentos y optimización bayesiana para elegir qué probar a continuación. En experimentos de tratamiento de aguas residuales, ESA seleccionó condiciones entre más de 200 millones de combinaciones posibles a lo largo de 15 rondas consecutivas y elevó la transmitancia de la solución del 82% al 99,7%, lo que los autores vinculan con una reducción del 98,5% en la concentración de tinte residual."
+                "x": "Su modelo, PertReason, ha sido aceptado en NeurIPS 2026 y está en arXiv; una versión anterior se presentó en un taller de ICML 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "Resumen del proceso de construcción de PertReasonQA. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "Su control robótico siguió funcionando cuando se colocó un soporte de electrodos en distintas posiciones. Las mediciones abarcaron solo la decoloración, lo que por sí solo no demuestra la degradación completa del tinte ni la eliminación de otros contaminantes."
+                "x": "El banco de pruebas PertReasonQA del equipo evalúa no solo la precisión de los LLM sino también si el razonamiento detrás de una respuesta es sólido, y señala los casos en que un modelo acertó sin usar los datos adecuados. Inspirado por su trabajo con médicos especialistas en cáncer de mama, Shen espera que ayude a priorizar qué vías investigar, y planea gemelos digitales multiescala en el superordenador VISION de Texas A&M."
               }
             ]
           }
@@ -1181,109 +1081,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트·로봇이\n폐수 실험 루프 완성",
-          "body": "ESA는 15회 폐루프 실험으로 폐수 투과율을 82%에서 99.7%로 높였다.",
-          "mini_headline": "폐루프 실험 에이전트",
+          "headline": "세포 변화와 그 이유\nPertReason이 예측",
+          "body": "Texas A&M의 PertReason은 교란·약물의 세포 영향과 경로를 짚는다.",
+          "mini_headline": "이유까지 설명하는 가상 세포",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "자율 실험실을 위한 인지–체화 하이브리드 패러다임인 Embodied Science Agent(ESA)의 세 가지 구성 요소 구조. 출처: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "교란 모델링에서 제안된 해법 개요. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "University College London, 홍콩과학기술대학교(광저우) 등 여러 기관 연구진이 Embodied Science Agent(ESA)를 개발했으며, 그 내용은 arXiv에 올라온 프리프린트에 담겼다. 사람이나 별도 시스템이 수행할 실험을 계획만 하는 연구 에이전트와 달리, ESA는 디지털 에이전트, 장비를 제어하는 체화 에이전트, 그리고 둘 사이의 인터페이스를 연결한다."
+                "x": "Yang Shen 박사가 이끄는 Texas A&M 전기·컴퓨터공학과 연구진은 Dongkwan Kim 박사, Ph.D. 과정 학생 Yiming Gao와 함께 유전적·약물 효과가 세포 행동을 어떻게 바꾸는지 예측하고 그 변화 뒤의 생물학적 메커니즘을 밝혀낼 수 있는 AI ‘가상 세포’ 기술을 개발하고 있다."
               },
               {
                 "t": "p",
-                "x": "디지털 에이전트는 기존 데이터, 실험 기록, 베이지안 최적화를 활용해 다음에 시험할 조건을 고른다. 폐수 처리 실험에서 ESA는 2억 가지가 넘는 조합 가운데 15회 연속 라운드에 걸쳐 조건을 골라 용액 투과율을 82%에서 99.7%로 끌어올렸고, 저자들은 이를 잔류 염료 농도 98.5% 감소와 연결 짓는다."
+                "x": "이들의 모델 PertReason은 NeurIPS 2026에 채택돼 arXiv에 공개됐으며, 초기 버전은 ICML 2026 워크숍에서 발표됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "PertReasonQA 구축 파이프라인 개요. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "로봇 제어는 전극 랙을 다른 위치에 놓아도 계속 작동했다. 측정은 탈색만을 다뤘으며, 이것만으로 염료가 완전히 분해되거나 다른 오염물질이 제거됐다고 볼 수는 없다."
+                "x": "연구팀의 PertReasonQA 벤치마크는 LLM의 정확도뿐 아니라 답을 낸 추론이 타당한지까지 평가해, 모델이 적절한 데이터를 쓰지 않고도 정답을 맞힌 경우를 가려낸다. 유방암 임상의들과의 협업에서 영감을 얻은 Shen은 이 도구가 어떤 경로를 먼저 조사할지 정하는 데 도움이 되길 바라며, Texas A&M의 VISION 슈퍼컴퓨터에서 다중 스케일 디지털 트윈을 구현할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントとロボが\n廃水実験のループを閉じる",
-          "body": "ESAは15回の閉ループ実験で、溶液の透過率を82%から99.7%に高めた。",
-          "mini_headline": "閉ループ実験エージェント",
+          "headline": "PertReason、細胞の\n変化とその理由を予測",
+          "body": "Texas A&MのPertReasonは遺伝子摂動や薬による細胞変化を予測し、経路も示す。",
+          "mini_headline": "理由も説明する仮想細胞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "自律実験室のための認知と身体性を組み合わせたハイブリッド型パラダイム、Embodied Science Agent（ESA）の三つの構成要素からなるアーキテクチャ。出典：arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "摂動モデリングで提案されている手法の概要。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "University College London、香港科技大学（広州）などの研究者がEmbodied Science Agent（ESA）を開発し、arXivに投稿したプレプリントで報告した。人間や別のシステムが実行する実験を計画するだけの研究エージェントと異なり、ESAはデジタルエージェント、機器を制御する身体性エージェント、そして両者をつなぐインターフェースを連携させる。"
+                "x": "Texas A&Mの電気・コンピュータ工学の研究者らは、Yang Shen博士を中心に、Dongkwan Kim博士やPh.D.課程の学生Yiming Gaoとともに、遺伝的要因や薬の作用が細胞の振る舞いをどう変えるかを予測し、その変化の背後にある生物学的メカニズムを明らかにできるAI「仮想細胞」技術を開発している。"
               },
               {
                 "t": "p",
-                "x": "デジタルエージェントは、既存データ、実験記録、ベイズ最適化を用いて次に試す条件を選ぶ。廃水処理実験でESAは2億を超える組み合わせの候補から15回連続のラウンドで条件を選び、溶液の透過率を82%から99.7%に高めた。著者らはこれを残留染料濃度の98.5%低下に結びつけている。"
+                "x": "彼らのモデルPertReasonはNeurIPS 2026に採択され、arXivで公開されている。初期版はICML 2026のワークショップで発表された。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "PertReasonQA構築パイプラインの概要。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "ロボット制御は、電極ラックを異なる位置に置いても機能し続けた。測定は脱色のみを対象としており、それだけでは染料の完全な分解や他の汚染物質の除去を示すものではない。"
+                "x": "チームのPertReasonQAベンチマークは、LLMの正答率だけでなく、答えに至る推論が妥当かどうかも評価し、モデルが適切なデータを使わずに正解した事例を検出する。乳がんの臨床医との共同研究に着想を得たShenは、どの経路を優先して調べるべきかの判断に役立つことを期待しており、Texas A&MのスーパーコンピューターVISIONでマルチスケールのデジタルツインを構築する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体与机器人\n打通废水实验闭环",
-          "body": "具身科学智能体ESA经过15轮闭环实验，将溶液透过率从82%提升至99.7%。",
-          "mini_headline": "闭环实验智能体",
+          "headline": "PertReason预测细胞\n如何变化及其原因",
+          "body": "Texas A&M的PertReason可预测基因扰动和药物如何改变细胞，并追溯背后的通路。",
+          "mini_headline": "能解释原因的虚拟细胞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "Embodied Science Agent（ESA）的架构，这是一种面向自主实验室的认知–具身混合范式，包含三个组成部分。图片来源：arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "扰动建模中所提出解决方案的概览。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "伦敦大学学院（University College London）、香港科技大学（广州）等机构的研究人员开发了Embodied Science Agent（ESA），相关内容见于发布在arXiv上的一篇预印本。与只为人类或独立系统规划实验的研究智能体不同，ESA将数字智能体、控制仪器的具身智能体以及二者之间的接口连接起来。"
+                "x": "由Yang Shen博士领导的Texas A&M电气与计算机工程研究人员，与Dongkwan Kim博士及Ph.D.学生Yiming Gao一起，正在开发AI“虚拟细胞”技术，用以预测遗传与药物效应如何改变细胞行为，并揭示这些变化背后的生物学机制。"
               },
               {
                 "t": "p",
-                "x": "数字智能体利用先验数据、实验记录和贝叶斯优化来选择下一步要测试的条件。在废水处理实验中，ESA在连续15轮中从超过2亿种可能组合里选择条件，将溶液透过率从82%提升至99.7%，作者将其与残留染料浓度降低98.5%联系起来。"
+                "x": "他们的模型PertReason已被NeurIPS 2026接收，并已发布在arXiv上；早期版本曾在ICML 2026的一个研讨会上展示。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "PertReasonQA构建流程概览。Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "当电极架被放置在不同位置时，其机器人控制仍能持续工作。测量仅涵盖脱色，这本身并不能表明染料被完全降解或其他污染物被去除。"
+                "x": "团队的PertReasonQA基准不仅评估LLM的准确率，还评估答案背后的推理是否合理，并标记模型未使用恰当数据却答对的情况。Shen受到与乳腺癌临床医生合作的启发，希望它能帮助确定优先研究哪些通路，并计划在Texas A&M的VISION超级计算机上构建多尺度数字孪生。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente de IA y robot cierran\nel ciclo en aguas residuales",
-          "body": "En 15 rondas de ciclo cerrado, el Embodied Science Agent elevó la transmitancia de la solución del 82% al 99,7%.",
-          "mini_headline": "Agente de laboratorio en ciclo cerrado",
+          "headline": "PertReason predice cómo cambian\nlas células, y por qué",
+          "body": "PertReason, de Texas A&M, predice cómo las perturbaciones genéticas y fármacos alteran las células y rastrea sus vías.",
+          "mini_headline": "Una célula virtual que explica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agent-runs-wastewat-1.jpg",
-                "cap": "Arquitectura del Embodied Science Agent (ESA), un paradigma híbrido cognitivo–corporizado para laboratorios autónomos con tres componentes. Crédito: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+                "cap": "Resumen de las soluciones propuestas en el modelado de perturbaciones. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del University College London, la Universidad de Ciencia y Tecnología de Hong Kong (Guangzhou) y otras instituciones desarrollaron el Embodied Science Agent (ESA), descrito en una preimpresión publicada en arXiv. A diferencia de los agentes de investigación que solo planifican experimentos para que los ejecuten personas o sistemas independientes, ESA conecta un agente digital, un agente corporizado que controla instrumentos y una interfaz entre ambos."
+                "x": "Investigadores de ingeniería eléctrica y de computación de Texas A&M dirigidos por el Dr. Yang Shen, con el Dr. Dongkwan Kim y el estudiante de Ph.D. Yiming Gao, desarrollan una tecnología de AI de “célula virtual” capaz de predecir cómo los efectos genéticos y farmacológicos alteran el comportamiento celular y de desvelar los mecanismos biológicos detrás de esos cambios."
               },
               {
                 "t": "p",
-                "x": "El agente digital usa datos previos, registros de experimentos y optimización bayesiana para elegir qué probar a continuación. En experimentos de tratamiento de aguas residuales, ESA seleccionó condiciones entre más de 200 millones de combinaciones posibles a lo largo de 15 rondas consecutivas y elevó la transmitancia de la solución del 82% al 99,7%, lo que los autores vinculan con una reducción del 98,5% en la concentración de tinte residual."
+                "x": "Su modelo, PertReason, ha sido aceptado en NeurIPS 2026 y está en arXiv; una versión anterior se presentó en un taller de ICML 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+                "cap": "Resumen del proceso de construcción de PertReasonQA. Credit: arXiv (2026)"
               },
               {
                 "t": "p",
-                "x": "Su control robótico siguió funcionando cuando se colocó un soporte de electrodos en distintas posiciones. Las mediciones abarcaron solo la decoloración, lo que por sí solo no demuestra la degradación completa del tinte ni la eliminación de otros contaminantes."
+                "x": "El banco de pruebas PertReasonQA del equipo evalúa no solo la precisión de los LLM sino también si el razonamiento detrás de una respuesta es sólido, y señala los casos en que un modelo acertó sin usar los datos adecuados. Inspirado por su trabajo con médicos especialistas en cáncer de mama, Shen espera que ayude a priorizar qué vías investigar, y planea gemelos digitales multiescala en el superordenador VISION de Texas A&M."
               }
             ]
           }
@@ -1291,15 +1211,15 @@
       }
     },
     {
-      "id": "navier-stokes-buckmaster-alpoge",
+      "id": "tus-magnet-domain-wall-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Navier-Stokes의\n허점 AI-aided 봉합",
-      "body": "새 AI 보조 증명이 OpenAI의 9월 해법에 난 허점을 메웠다는 주장이다.",
-      "mini_headline": "Navier-Stokes 허점 봉합",
+      "headline": "고주파 에너지 손실의\n자기적 뿌리, AI가 짚다",
+      "body": "해석 가능한 AI가 철 기반 연자성체의 고주파 손실을 특정 자구벽 특징에서 찾았다.",
+      "mini_headline": "AI가 추적한 자기 에너지 손실",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1307,179 +1227,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-            "cap": "유체역학을 시각적으로 표현한 이미지."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+            "cap": "설명 가능한 AI와 지속 호몰로지로 찾아낸 자구벽 영역. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
           },
           {
             "t": "p",
-            "x": "Levent Alpöge가 리만 가설 증명을 주장한 직후, 그와 뉴욕대학교(New York University) 교수 Tristan Buckmaster가 또 하나의 백만 달러 난제를 두고 OpenAI가 9월 내놓은 해법의 논란 많던 허점을 메웠다고 믿는다고 밝혔다."
+            "x": "변압기와 인덕터에 들어가는 연자성 재료는 전기차, 재생에너지 시스템, 데이터센터에 전력을 대지만, 어떤 미세 구조가 고주파 손실을 일으키는지는 기존 모델로 알 수 없다."
           },
           {
             "t": "p",
-            "x": "Navier-Stokes 방정식은 유체가 소용돌이치고 와류를 이루는 방식을 모델링한다. OpenAI는 9월 이 방정식이 “폭발”한다는 것을 증명했다. 하지만 그 증명은 액체를 꼭 알맞게 “휘저어” 무한한 속도를 만들어내는, 비현실적이고 정교하게 조정된 힘을 전제로 했다. 많은 이들이 이를 문제 문구의 허점을 파고든 접근으로 본다."
+            "x": "Masato Kotsugi 교수가 이끌고 Kosuke Nishioka가 참여한 Tokyo University of Science 연구팀은 Fugaku 미세자기 시뮬레이션에 물리 해석 가능한 AI 기법을 적용했다. 시뮬레이션은 이상화된 철 기반 나노결정 연자성체를 100 kHz, 1 MHz, 10 MHz에서 다뤘다. 분석에는 지속 호몰로지와 역매핑을 결합한 에너지 지형을 썼다."
           },
           {
             "t": "p",
-            "x": "Buckmaster는 앞서 OpenAI가 자신과 Alpöge의 진척을 일부러 가로챘다고 주장했고, OpenAI는 부정행위 의혹을 부인했다."
-          },
-          {
-            "t": "p",
-            "x": "Buckmaster는 8:37 A.M. EST에 Mastodon에 빽빽한 AI-aided 증명을 올리면서 “지난번 일 이후” 자신과 Alpöge가 “기다릴 위험을 감수할 수 없었기에” 원고를 다듬지 못했다고 했다. 두 사람은 결과 인증서를 아직 공개하지 않았다."
+            "x": "주파수가 높아질수록 자구는 점점 잘게 쪼개졌고, 보자력 영역 근처의 에너지 장벽도 함께 높아졌다. 기여도가 큰 특징은 전파하는 역자구의 끝부분과 일부 미세한 자벽 구간에 몰려 있었다. 이 장벽은 교환 상호작용에서 생기는 구조적 에너지 비용으로, 소산된 열을 직접 잰 값은 아니다. 연구는 NPG Asia Materials에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "New AI-aided proof closes\nthe Navier-Stokes loophole",
-          "body": "A new AI-aided blowup proof claims to close the loophole critics found in OpenAI's September Navier-Stokes solution.",
-          "mini_headline": "Navier-Stokes gap closed",
+          "headline": "AI pinpoints the magnetic roots\nof high-frequency energy loss",
+          "body": "Interpretable AI traced high-frequency losses in an iron-based soft magnet to specific domain-wall features.",
+          "mini_headline": "AI traces magnetic energy loss",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "A visual representation of fluid dynamics."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "Domain-wall regions identified with explainable AI and persistent homology. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "Right after Levent Alpöge’s announcement of a claimed proof of the Riemann hypothesis, he and New York University professor Tristan Buckmaster said they believe they have closed a controversial loophole in OpenAI’s September solution of another million-dollar problem."
+                "x": "Soft magnetic materials in transformers and inductors power electric vehicles, renewable energy systems and data centers, but conventional models do not show which microscopic structures drive losses at high frequencies."
               },
               {
                 "t": "p",
-                "x": "The Navier-Stokes equations model how fluids swirl and eddy. In September OpenAI proved that the equations “blow up.” But its proof imagined an unrealistic, finely tuned force that “stirs” the liquid in just the right way to produce infinite velocity—an approach many consider a loophole in the wording of the problem."
+                "x": "A Tokyo University of Science team led by Professor Masato Kotsugi, with Kosuke Nishioka, used a physics-interpretable AI approach on Fugaku micromagnetic simulations of an idealized iron-based nanocrystalline soft magnet at 100 kHz, 1 MHz and 10 MHz, applying persistent homology and an energy landscape with inverse mapping."
               },
               {
                 "t": "p",
-                "x": "Buckmaster had claimed OpenAI deliberately scooped his and Alpöge’s progress; OpenAI denied allegations of foul play."
-              },
-              {
-                "t": "p",
-                "x": "On Mastodon at 8:37 A.M. EST, Buckmaster posted a dense, artificial-intelligence-aided proof, noting the write-up was unpolished because, “after last time,” he and Alpöge “couldn’t risk waiting.” The two have not yet released the certificate of the result."
+                "x": "Domains became increasingly subdivided as frequency increased, and the energy barrier near the coercive region rose with frequency. High-contribution features concentrated around propagating reversed-domain tips and selected fine wall segments; the barrier is an exchange-derived structural energy cost, not a direct measurement of dissipated heat. The study appears in NPG Asia Materials."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Navier-Stokes의\n허점 AI-aided 봉합",
-          "body": "새 AI 보조 증명이 OpenAI의 9월 해법에 난 허점을 메웠다는 주장이다.",
-          "mini_headline": "Navier-Stokes 허점 봉합",
+          "headline": "고주파 에너지 손실의\n자기적 뿌리, AI가 짚다",
+          "body": "해석 가능한 AI가 철 기반 연자성체의 고주파 손실을 특정 자구벽 특징에서 찾았다.",
+          "mini_headline": "AI가 추적한 자기 에너지 손실",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "유체역학을 시각적으로 표현한 이미지."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "설명 가능한 AI와 지속 호몰로지로 찾아낸 자구벽 영역. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "Levent Alpöge가 리만 가설 증명을 주장한 직후, 그와 뉴욕대학교(New York University) 교수 Tristan Buckmaster가 또 하나의 백만 달러 난제를 두고 OpenAI가 9월 내놓은 해법의 논란 많던 허점을 메웠다고 믿는다고 밝혔다."
+                "x": "변압기와 인덕터에 들어가는 연자성 재료는 전기차, 재생에너지 시스템, 데이터센터에 전력을 대지만, 어떤 미세 구조가 고주파 손실을 일으키는지는 기존 모델로 알 수 없다."
               },
               {
                 "t": "p",
-                "x": "Navier-Stokes 방정식은 유체가 소용돌이치고 와류를 이루는 방식을 모델링한다. OpenAI는 9월 이 방정식이 “폭발”한다는 것을 증명했다. 하지만 그 증명은 액체를 꼭 알맞게 “휘저어” 무한한 속도를 만들어내는, 비현실적이고 정교하게 조정된 힘을 전제로 했다. 많은 이들이 이를 문제 문구의 허점을 파고든 접근으로 본다."
+                "x": "Masato Kotsugi 교수가 이끌고 Kosuke Nishioka가 참여한 Tokyo University of Science 연구팀은 Fugaku 미세자기 시뮬레이션에 물리 해석 가능한 AI 기법을 적용했다. 시뮬레이션은 이상화된 철 기반 나노결정 연자성체를 100 kHz, 1 MHz, 10 MHz에서 다뤘다. 분석에는 지속 호몰로지와 역매핑을 결합한 에너지 지형을 썼다."
               },
               {
                 "t": "p",
-                "x": "Buckmaster는 앞서 OpenAI가 자신과 Alpöge의 진척을 일부러 가로챘다고 주장했고, OpenAI는 부정행위 의혹을 부인했다."
-              },
-              {
-                "t": "p",
-                "x": "Buckmaster는 8:37 A.M. EST에 Mastodon에 빽빽한 AI-aided 증명을 올리면서 “지난번 일 이후” 자신과 Alpöge가 “기다릴 위험을 감수할 수 없었기에” 원고를 다듬지 못했다고 했다. 두 사람은 결과 인증서를 아직 공개하지 않았다."
+                "x": "주파수가 높아질수록 자구는 점점 잘게 쪼개졌고, 보자력 영역 근처의 에너지 장벽도 함께 높아졌다. 기여도가 큰 특징은 전파하는 역자구의 끝부분과 일부 미세한 자벽 구간에 몰려 있었다. 이 장벽은 교환 상호작용에서 생기는 구조적 에너지 비용으로, 소산된 열을 직접 잰 값은 아니다. 연구는 NPG Asia Materials에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Navier-Stokesの\nAI-aided証明で穴埋め",
-          "body": "新たなAI支援の証明が、OpenAIの9月の解法で批判された抜け穴を塞いだと主張する。",
-          "mini_headline": "Navier-Stokesの穴を塞ぐ",
+          "headline": "高周波のエネルギー損失\nその磁気的な根源をAIが特定",
+          "body": "解釈可能なAIが、鉄系軟磁性材料の高周波損失を特定の磁壁の特徴に結びつけた。",
+          "mini_headline": "AIが磁気エネルギー損失を追跡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "流体力学を視覚的に表現した画像。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "説明可能なAIとパーシステントホモロジーで特定された磁壁領域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "Levent Alpögeがリーマン予想の証明を主張した直後、彼とニューヨーク大学のTristan Buckmaster教授は、OpenAIが9月に示した別の百万ドル問題の解法にある、議論を呼んだ抜け穴を塞いだと考えていると述べた。"
+                "x": "変圧器やインダクタに使われる軟磁性材料は電気自動車や再生可能エネルギーシステム、データセンターを支えているが、従来のモデルでは、どの微細構造が高周波での損失を生んでいるのかがわからない。"
               },
               {
                 "t": "p",
-                "x": "Navier-Stokes方程式は、流体が渦を巻き乱れる様子をモデル化する。9月、OpenAIはこの方程式が「爆発する」ことを証明した。しかしその証明は、液体をちょうどよく「かき混ぜて」無限大の速度を生み出す、非現実的で精密に調整された力を想定していた。多くの人は、これを問題文の表現上の抜け穴を突くアプローチと見なしている。"
+                "x": "Tokyo University of ScienceのMasato Kotsugi教授が率い、Kosuke Nishiokaが参加したチームは、理想化した鉄系ナノ結晶軟磁性体を100 kHz、1 MHz、10 MHzで計算したFugakuのマイクロ磁気シミュレーションに物理的に解釈可能なAI手法を適用し、パーシステントホモロジーと逆写像を伴うエネルギーランドスケープを用いた。"
               },
               {
                 "t": "p",
-                "x": "BuckmasterはOpenAIが自身とAlpögeの進展を意図的に出し抜いたと主張していた。OpenAIは不正の疑いを否定した。"
-              },
-              {
-                "t": "p",
-                "x": "Buckmasterは8:37 A.M. ESTにMastodonで、密度の高いAI-aidedの証明を投稿した。「前回のことがあったので」、自身とAlpögeは「待つリスクを冒せなかった」ため、原稿は未整理だと付け加えた。両者はまだ結果の証明書を公開していない。"
+                "x": "周波数が上がるにつれて磁区はますます細かく分かれ、保磁力領域付近のエネルギー障壁も周波数とともに高まった。寄与の大きい特徴は、伝播する逆磁区の先端と一部の細かな磁壁セグメントに集中していた。この障壁は交換相互作用に由来する構造的なエネルギーコストであり、散逸した熱を直接測定したものではない。研究はNPG Asia Materialsに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Navier-Stokes：\nAI-aided证明补上漏洞",
-          "body": "新的AI辅助证明称已补上OpenAI 9月Navier-Stokes解法的漏洞。",
-          "mini_headline": "Navier-Stokes漏洞被补上",
+          "headline": "高频能量损耗的磁性根源\n由AI精准定位",
+          "body": "一种可解释AI将铁基软磁材料的高频损耗，追溯到了特定的畴壁特征。",
+          "mini_headline": "AI追踪磁性能量损耗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "流体动力学的视觉呈现。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "利用可解释AI和持续同调识别出的畴壁区域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "就在Levent Alpöge宣布声称证明了黎曼猜想之后，他与纽约大学教授Tristan Buckmaster表示，他们相信已经补上了OpenAI 9月对另一个百万美元难题所给解法中一个有争议的漏洞。"
+                "x": "变压器和电感器中的软磁材料为电动汽车、可再生能源系统和数据中心供电，但传统模型无法揭示是哪些微观结构导致了高频下的损耗。"
               },
               {
                 "t": "p",
-                "x": "Navier-Stokes方程描述流体如何旋转和形成涡流。9月，OpenAI证明了这些方程会“爆破”。但其证明设想了一种不切实际、经过精细调校的力，以恰到好处的方式“搅动”液体，从而产生无限速度——许多人认为这种做法钻了问题表述的漏洞。"
+                "x": "由Masato Kotsugi教授领导、Kosuke Nishioka参与的Tokyo University of Science团队，对一种理想化铁基纳米晶软磁材料在100 kHz、1 MHz和10 MHz下的Fugaku微磁模拟采用了物理可解释的AI方法，并结合持续同调以及带逆映射的能量景观进行分析。"
               },
               {
                 "t": "p",
-                "x": "Buckmaster曾声称OpenAI故意抢先发表了他和Alpöge的进展；OpenAI否认了不当行为的指控。"
-              },
-              {
-                "t": "p",
-                "x": "Buckmaster于8:37 A.M. EST在Mastodon上发布了一份内容密集的AI-aided证明，并指出文稿尚未打磨，因为“有了上次的教训”，他和Alpöge“不能冒险等待”。两人尚未公布该结果的证书。"
+                "x": "随着频率升高，磁畴被越分越细，矫顽区附近的能垒也随频率上升。高贡献特征集中在传播中的反向磁畴尖端和部分精细畴壁片段周围；该能垒是源于交换作用的结构能量代价，并非对耗散热量的直接测量。研究发表于NPG Asia Materials。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva demostración AI-aided\ncierra el vacío de Navier-Stokes",
-          "body": "Una nueva prueba asistida por IA dice cerrar el vacío que los críticos vieron en la solución de OpenAI de septiembre.",
-          "mini_headline": "Vacío de Navier-Stokes cerrado",
+          "headline": "La AI halla el origen magnético\nde pérdidas en alta frecuencia",
+          "body": "Una AI interpretable vinculó las pérdidas a alta frecuencia de un imán blando de hierro a rasgos de paredes de dominio.",
+          "mini_headline": "La AI rastrea la pérdida de energía magnética",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "Una representación visual de la dinámica de fluidos."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "Regiones de paredes de dominio identificadas con AI explicable y homología persistente. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "Justo después de que Levent Alpöge anunciara una supuesta demostración de la hipótesis de Riemann, él y el profesor de la New York University Tristan Buckmaster dijeron creer que han cerrado un polémico vacío en la solución que OpenAI presentó en septiembre a otro problema del millón de dólares."
+                "x": "Los materiales magnéticos blandos de transformadores e inductores alimentan vehículos eléctricos, sistemas de energía renovable y centros de datos, pero los modelos convencionales no muestran qué estructuras microscópicas provocan las pérdidas a altas frecuencias."
               },
               {
                 "t": "p",
-                "x": "Las ecuaciones de Navier-Stokes modelan cómo los fluidos giran y forman remolinos. En septiembre, OpenAI demostró que las ecuaciones «explotan». Pero su demostración imaginaba una fuerza poco realista y finamente ajustada que «agita» el líquido de la manera justa para producir una velocidad infinita, un enfoque que muchos consideran un vacío en la redacción del problema."
+                "x": "Un equipo de la Tokyo University of Science dirigido por el profesor Masato Kotsugi, con Kosuke Nishioka, aplicó un enfoque de AI físicamente interpretable a simulaciones micromagnéticas en Fugaku de un imán blando nanocristalino idealizado a base de hierro a 100 kHz, 1 MHz y 10 MHz, con homología persistente y un paisaje energético con mapeo inverso."
               },
               {
                 "t": "p",
-                "x": "Buckmaster había afirmado que OpenAI se adelantó deliberadamente a sus avances y a los de Alpöge; OpenAI negó las acusaciones de juego sucio."
-              },
-              {
-                "t": "p",
-                "x": "En Mastodon, a las 8:37 A.M. EST, Buckmaster publicó una densa demostración AI-aided, y señaló que el texto estaba sin pulir porque, «después de la última vez», él y Alpöge «no podían arriesgarse a esperar». Los dos aún no han publicado el certificado del resultado."
+                "x": "Los dominios se subdividieron cada vez más al aumentar la frecuencia, y la barrera energética cerca de la región coercitiva creció con la frecuencia. Los rasgos de mayor contribución se concentraron en torno a las puntas de dominios invertidos en propagación y en ciertos segmentos finos de pared; la barrera es un coste energético estructural derivado del intercambio, no una medición directa del calor disipado. El estudio aparece en NPG Asia Materials."
               }
             ]
           }
@@ -1487,125 +1383,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Navier-Stokes의\n허점 AI-aided 봉합",
-          "body": "새 AI 보조 증명이 OpenAI 9월 해법의 허점을 메웠다고 주장한다.",
-          "mini_headline": "Navier-Stokes 허점 봉합",
+          "headline": "고주파 에너지 손실의\n자기적 뿌리, AI가 짚다",
+          "body": "해석 가능한 AI가 철 기반 연자성체의 고주파 손실을 특정 자구벽 특징에서 찾았다.",
+          "mini_headline": "AI가 추적한 자기 에너지 손실",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "유체역학을 시각적으로 표현한 이미지."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "설명 가능한 AI와 지속 호몰로지로 찾아낸 자구벽 영역. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "Levent Alpöge가 리만 가설 증명을 주장한 직후, 그와 뉴욕대학교(New York University) 교수 Tristan Buckmaster는 또 다른 백만 달러 난제에 대한 OpenAI의 9월 해법에서 논란이 된 허점을 메웠다고 믿는다고 밝혔다."
+                "x": "변압기와 인덕터에 쓰이는 연자성 재료는 전기차, 재생에너지 시스템, 데이터센터에 전력을 공급하지만, 기존 모델로는 어떤 미세 구조가 고주파 손실을 일으키는지 알 수 없다."
               },
               {
                 "t": "p",
-                "x": "Navier-Stokes 방정식은 유체가 소용돌이치고 와류를 이루는 방식을 모델링한다. 9월 OpenAI는 이 방정식이 “폭발”한다는 것을 증명했다. 그러나 그 증명은 액체를 꼭 알맞게 “휘저어” 무한한 속도를 만들어내는, 비현실적이고 정교하게 조정된 힘을 상정했다. 많은 이들은 이를 문제 문구의 허점을 이용한 접근으로 본다."
+                "x": "Masato Kotsugi 교수가 이끌고 Kosuke Nishioka가 참여한 Tokyo University of Science 연구팀은 이상화된 철 기반 나노결정 연자성체를 100 kHz, 1 MHz, 10 MHz에서 다룬 Fugaku 미세자기 시뮬레이션에 물리 해석 가능한 AI 기법을 적용했다. 분석에는 지속 호몰로지와 역매핑을 결합한 에너지 지형을 활용했다."
               },
               {
                 "t": "p",
-                "x": "Buckmaster는 OpenAI가 자신과 Alpöge의 진척을 의도적으로 가로챘다고 주장한 바 있으며, OpenAI는 부정행위 의혹을 부인했다."
-              },
-              {
-                "t": "p",
-                "x": "Buckmaster는 8:37 A.M. EST에 Mastodon에 촘촘한 AI-aided 증명을 올리며, “지난번 일 이후” 자신과 Alpöge가 “기다릴 위험을 감수할 수 없었기에” 원고를 다듬지 못했다고 밝혔다. 두 사람은 아직 결과의 인증서를 공개하지 않았다."
+                "x": "주파수가 높아질수록 자구는 점점 더 잘게 나뉘었고, 보자력 영역 근처의 에너지 장벽도 주파수와 함께 높아졌다. 기여도가 높은 특징은 전파하는 역자구의 끝부분과 일부 미세한 자벽 구간에 몰려 있었다. 이 장벽은 교환 상호작용에서 비롯한 구조적 에너지 비용이며, 소산된 열을 직접 측정한 값은 아니다. 연구는 NPG Asia Materials에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Navier-Stokesの\nAI-aided証明で穴埋め",
-          "body": "新たなAI支援の証明が、OpenAIの9月の解法で批判された抜け穴を塞いだと主張する。",
-          "mini_headline": "Navier-Stokesの穴を塞ぐ",
+          "headline": "高周波のエネルギー損失\nその磁気的な根源をAIが特定",
+          "body": "解釈可能なAIが、鉄系軟磁性材料の高周波損失を特定の磁壁の特徴に結びつけた。",
+          "mini_headline": "AIが磁気エネルギー損失を追跡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "流体力学を視覚的に表現した画像。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "説明可能なAIとパーシステントホモロジーで特定された磁壁領域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "Levent Alpögeがリーマン予想の証明を主張した直後、彼とニューヨーク大学のTristan Buckmaster教授は、OpenAIが9月に示した別の百万ドル問題の解法にある、議論を呼んだ抜け穴を塞いだと考えていると述べた。"
+                "x": "変圧器やインダクタに使われる軟磁性材料は電気自動車や再生可能エネルギーシステム、データセンターを支えているが、従来のモデルでは、どの微細構造が高周波での損失を生んでいるのかがわからない。"
               },
               {
                 "t": "p",
-                "x": "Navier-Stokes方程式は、流体が渦を巻き乱れる様子をモデル化する。9月、OpenAIはこの方程式が「爆発する」ことを証明した。しかしその証明は、液体をちょうどよく「かき混ぜて」無限大の速度を生み出す、非現実的で精密に調整された力を想定していた。多くの人は、これを問題文の表現上の抜け穴を突くアプローチと見なしている。"
+                "x": "Tokyo University of ScienceのMasato Kotsugi教授が率い、Kosuke Nishiokaが参加したチームは、理想化した鉄系ナノ結晶軟磁性体を100 kHz、1 MHz、10 MHzで計算したFugakuのマイクロ磁気シミュレーションに物理的に解釈可能なAI手法を適用し、パーシステントホモロジーと逆写像を伴うエネルギーランドスケープを用いた。"
               },
               {
                 "t": "p",
-                "x": "BuckmasterはOpenAIが自身とAlpögeの進展を意図的に出し抜いたと主張していた。OpenAIは不正の疑いを否定した。"
-              },
-              {
-                "t": "p",
-                "x": "Buckmasterは8:37 A.M. ESTにMastodonで、密度の高いAI-aidedの証明を投稿した。「前回のことがあったので」、自身とAlpögeは「待つリスクを冒せなかった」ため、原稿は未整理だと付け加えた。両者はまだ結果の証明書を公開していない。"
+                "x": "周波数が上がるにつれて磁区はますます細かく分かれ、保磁力領域付近のエネルギー障壁も周波数とともに高まった。寄与の大きい特徴は、伝播する逆磁区の先端と一部の細かな磁壁セグメントに集中していた。この障壁は交換相互作用に由来する構造的なエネルギーコストであり、散逸した熱を直接測定したものではない。研究はNPG Asia Materialsに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Navier-Stokes：\nAI-aided证明补上漏洞",
-          "body": "新的AI辅助证明称已补上OpenAI 9月Navier-Stokes解法的漏洞。",
-          "mini_headline": "Navier-Stokes漏洞被补上",
+          "headline": "高频能量损耗的磁性根源\n由AI精准定位",
+          "body": "一种可解释AI将铁基软磁材料的高频损耗，追溯到了特定的畴壁特征。",
+          "mini_headline": "AI追踪磁性能量损耗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "流体动力学的视觉呈现。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "利用可解释AI和持续同调识别出的畴壁区域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "就在Levent Alpöge宣布声称证明了黎曼猜想之后，他与纽约大学教授Tristan Buckmaster表示，他们相信已经补上了OpenAI 9月对另一个百万美元难题所给解法中一个有争议的漏洞。"
+                "x": "变压器和电感器中的软磁材料为电动汽车、可再生能源系统和数据中心供电，但传统模型无法揭示是哪些微观结构导致了高频下的损耗。"
               },
               {
                 "t": "p",
-                "x": "Navier-Stokes方程描述流体如何旋转和形成涡流。9月，OpenAI证明了这些方程会“爆破”。但其证明设想了一种不切实际、经过精细调校的力，以恰到好处的方式“搅动”液体，从而产生无限速度——许多人认为这种做法钻了问题表述的漏洞。"
+                "x": "由Masato Kotsugi教授领导、Kosuke Nishioka参与的Tokyo University of Science团队，对一种理想化铁基纳米晶软磁材料在100 kHz、1 MHz和10 MHz下的Fugaku微磁模拟采用了物理可解释的AI方法，并结合持续同调以及带逆映射的能量景观进行分析。"
               },
               {
                 "t": "p",
-                "x": "Buckmaster曾声称OpenAI故意抢先发表了他和Alpöge的进展；OpenAI否认了不当行为的指控。"
-              },
-              {
-                "t": "p",
-                "x": "Buckmaster于8:37 A.M. EST在Mastodon上发布了一份内容密集的AI-aided证明，并指出文稿尚未打磨，因为“有了上次的教训”，他和Alpöge“不能冒险等待”。两人尚未公布该结果的证书。"
+                "x": "随着频率升高，磁畴被越分越细，矫顽区附近的能垒也随频率上升。高贡献特征集中在传播中的反向磁畴尖端和部分精细畴壁片段周围；该能垒是源于交换作用的结构能量代价，并非对耗散热量的直接测量。研究发表于NPG Asia Materials。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva demostración AI-aided\ncierra el vacío de Navier-Stokes",
-          "body": "Una nueva prueba asistida por IA dice cerrar el vacío que los críticos vieron en la solución de OpenAI de septiembre.",
-          "mini_headline": "Vacío de Navier-Stokes cerrado",
+          "headline": "La AI halla el origen magnético\nde pérdidas en alta frecuencia",
+          "body": "Una AI interpretable vinculó las pérdidas a alta frecuencia de un imán blando de hierro a rasgos de paredes de dominio.",
+          "mini_headline": "La AI rastrea la pérdida de energía magnética",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
-                "cap": "Una representación visual de la dinámica de fluidos."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+                "cap": "Regiones de paredes de dominio identificadas con AI explicable y homología persistente. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
               },
               {
                 "t": "p",
-                "x": "Justo después de que Levent Alpöge anunciara una supuesta demostración de la hipótesis de Riemann, él y el profesor de la New York University Tristan Buckmaster dijeron creer que han cerrado un polémico vacío en la solución que OpenAI presentó en septiembre a otro problema del millón de dólares."
+                "x": "Los materiales magnéticos blandos de transformadores e inductores alimentan vehículos eléctricos, sistemas de energía renovable y centros de datos, pero los modelos convencionales no muestran qué estructuras microscópicas provocan las pérdidas a altas frecuencias."
               },
               {
                 "t": "p",
-                "x": "Las ecuaciones de Navier-Stokes modelan cómo los fluidos giran y forman remolinos. En septiembre, OpenAI demostró que las ecuaciones «explotan». Pero su demostración imaginaba una fuerza poco realista y finamente ajustada que «agita» el líquido de la manera justa para producir una velocidad infinita, un enfoque que muchos consideran un vacío en la redacción del problema."
+                "x": "Un equipo de la Tokyo University of Science dirigido por el profesor Masato Kotsugi, con Kosuke Nishioka, aplicó un enfoque de AI físicamente interpretable a simulaciones micromagnéticas en Fugaku de un imán blando nanocristalino idealizado a base de hierro a 100 kHz, 1 MHz y 10 MHz, con homología persistente y un paisaje energético con mapeo inverso."
               },
               {
                 "t": "p",
-                "x": "Buckmaster había afirmado que OpenAI se adelantó deliberadamente a sus avances y a los de Alpöge; OpenAI negó las acusaciones de juego sucio."
-              },
-              {
-                "t": "p",
-                "x": "En Mastodon, a las 8:37 A.M. EST, Buckmaster publicó una densa demostración AI-aided, y señaló que el texto estaba sin pulir porque, «después de la última vez», él y Alpöge «no podían arriesgarse a esperar». Los dos aún no han publicado el certificado del resultado."
+                "x": "Los dominios se subdividieron cada vez más al aumentar la frecuencia, y la barrera energética cerca de la región coercitiva creció con la frecuencia. Los rasgos de mayor contribución se concentraron en torno a las puntas de dominios invertidos en propagación y en ciertos segmentos finos de pared; la barrera es un coste energético estructural derivado del intercambio, no una medición directa del calor disipado. El estudio aparece en NPG Asia Materials."
               }
             ]
           }

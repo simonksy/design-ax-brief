@@ -11973,6 +11973,123 @@
           "x": "Los investigadores dicen que la interpretabilidad basada en lesiones podría ayudar a abrir la \"caja negra\" de los LLM e identificar partes redundantes, lo que llevaría a modelos más pequeños y eficientes en energía, y podría crear \"gemelos digitales\" de pacientes con afasia para simular ensayos clínicos. Fridriksson cree que el marco podría extenderse a otras afecciones neurológicas: \"Espero que este enfoque se adopte para hacer descubrimientos científicos que ayuden a los pacientes\"."
         }
       ]
+    },
+    "science/qubrio-neutral-atom-compiler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology y la University of Wisconsin–Madison presentaron Qubrio, un marco LLM multiagente para la compilación de circuitos cuánticos de átomos neutros, aceptado en NeurIPS 2026. Combina agentes LLM especializados que proponen soluciones con verificadores deterministas de restricciones y un simulador de hardware para automatizar la colocación de cúbits, el enrutamiento AOD y la optimización del calendario."
+        },
+        {
+          "t": "p",
+          "x": "Una descomposición en tres niveles divide los circuitos en etapas de puertas CZ, separa la colocación del enrutamiento y la planificación, y retroalimenta diagnósticos de errores localizados. Los registros de razonamiento de los agentes muestran que descubrieron por sí solos un traslado en convoy, con hasta 30.3 cúbits por movimiento AOD en GHZ-78."
+        },
+        {
+          "t": "p",
+          "x": "En cargas de trabajo de QASMBench de hasta 78 cúbits, Qubrio logró de media una reducción de 4.7× del tiempo de ejecución y una mejora de 1.3× en la fidelidad frente al compilador PowerMove, y compiló lotes de etapas en unos cinco minutos. El artículo está en arXiv y el código se publica como código abierto en GitHub."
+        }
+      ]
+    },
+    "science/york-ann-brain-mismatch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+          "cap": "Credit: AI/ScienceDaily.com"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio de la York University publicado en Nature Machine Intelligence detecta una debilidad en las redes neuronales artificiales muy usadas para modelar cómo procesa el cerebro la visión. Dirigido por el profesor adjunto Kohitij Kar junto con la investigadora posdoctoral Sabine Muzellec, el equipo realizó pruebas de “predictividad inversa” (reverse predictivity): en lugar de preguntar solo si la AI predice la actividad cerebral, se preguntaron si la actividad cerebral registrada predice el funcionamiento interno de los modelos."
+        },
+        {
+          "t": "p",
+          "x": "Con 1,320 imágenes naturales y sintéticas de 10 objetos, más 300 imágenes estilizadas, comprobaron que los modelos predecían bastante bien las neuronas registradas, pero las neuronas predecían mal muchas características de los modelos, una brecha que no se observa entre cerebros distintos."
+        },
+        {
+          "t": "p",
+          "x": "“Los resultados sugieren que los sistemas de AI actuales resuelven tareas visuales usando en parte estrategias internas que el cerebro quizá no utiliza”, afirma Kar. El equipo publicó un conjunto de herramientas de prueba abierto para que los desarrolladores evalúen sus propios modelos."
+        }
+      ]
+    },
+    "science/pertreason-virtual-cell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
+          "cap": "Resumen de las soluciones propuestas en el modelado de perturbaciones. Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de ingeniería eléctrica y de computación de Texas A&M dirigidos por el Dr. Yang Shen, con el Dr. Dongkwan Kim y el estudiante de Ph.D. Yiming Gao, desarrollan una tecnología de AI de “célula virtual” capaz de predecir cómo los efectos genéticos y farmacológicos alteran el comportamiento celular y de desvelar los mecanismos biológicos detrás de esos cambios."
+        },
+        {
+          "t": "p",
+          "x": "Su modelo, PertReason, ha sido aceptado en NeurIPS 2026 y está en arXiv; una versión anterior se presentó en un taller de ICML 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
+          "cap": "Resumen del proceso de construcción de PertReasonQA. Credit: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "El banco de pruebas PertReasonQA del equipo evalúa no solo la precisión de los LLM sino también si el razonamiento detrás de una respuesta es sólido, y señala los casos en que un modelo acertó sin usar los datos adecuados. Inspirado por su trabajo con médicos especialistas en cáncer de mama, Shen espera que ayude a priorizar qué vías investigar, y planea gemelos digitales multiescala en el superordenador VISION de Texas A&M."
+        }
+      ]
+    },
+    "science/tus-magnet-domain-wall-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
+          "cap": "Regiones de paredes de dominio identificadas con AI explicable y homología persistente. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+        },
+        {
+          "t": "p",
+          "x": "Los materiales magnéticos blandos de transformadores e inductores alimentan vehículos eléctricos, sistemas de energía renovable y centros de datos, pero los modelos convencionales no muestran qué estructuras microscópicas provocan las pérdidas a altas frecuencias."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de la Tokyo University of Science dirigido por el profesor Masato Kotsugi, con Kosuke Nishioka, aplicó un enfoque de AI físicamente interpretable a simulaciones micromagnéticas en Fugaku de un imán blando nanocristalino idealizado a base de hierro a 100 kHz, 1 MHz y 10 MHz, con homología persistente y un paisaje energético con mapeo inverso."
+        },
+        {
+          "t": "p",
+          "x": "Los dominios se subdividieron cada vez más al aumentar la frecuencia, y la barrera energética cerca de la región coercitiva creció con la frecuencia. Los rasgos de mayor contribución se concentraron en torno a las puntas de dominios invertidos en propagación y en ciertos segmentos finos de pared; la barrera es un coste energético estructural derivado del intercambio, no una medición directa del calor disipado. El estudio aparece en NPG Asia Materials."
+        }
+      ]
+    },
+    "science/riemann-alpoge-claude-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
+          "cap": "Ecuaciones matemáticas con un concepto digital en tono morado"
+        },
+        {
+          "t": "p",
+          "x": "Levent Alpöge, matemático y empleado de la empresa de inteligencia artificial Anthropic, afirmó el viernes haber demostrado el problema más famoso de todas las matemáticas con ayuda de un LLM. «Creo que, trabajando con Claude, he descubierto una demostración de la hipótesis de Riemann», escribió Alpöge en un comunicado publicado en su sitio web."
+        },
+        {
+          "t": "p",
+          "x": "La hipótesis de Riemann fue propuesta por primera vez en 1859 por el matemático Bernhard Riemann. Es uno de los pocos problemas abiertos por los que el Clay Mathematics Institute ofrece una recompensa de un millón de dólares."
+        },
+        {
+          "t": "p",
+          "x": "Alpöge publicó su demostración hecha con Claude y codificada en el lenguaje de programación Lean, que verifica la corrección matemática de cada argumento. Según él, confirma la «hipótesis de Riemann generalizada». El anuncio llega apenas un día después del debut bursátil récord de Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "«Si la demostración es correcta y se comprende, completa un diccionario entre distintas ramas de las matemáticas cuyas conexiones eran solo parciales», dice Hector Pasten, de la Pontificia Universidad Católica de Chile. «Algo así como una piedra de Rosetta»."
+        },
+        {
+          "t": "p",
+          "x": "«Este es sin duda un momento histórico», dijo el matemático del MIT Andrew Sutherland tras compilar de forma independiente el resultado de Alpöge en Lean. «Queda mucho trabajo por hacer para entender los detalles matemáticos de la demostración»."
+        }
+      ]
     }
   }
 }

@@ -11152,6 +11152,128 @@
           "x": "El rediseño cambia la identidad naranja por el verde y guarda un parecido notable con su rival Sweet Shop, cuyo CEO, Kenny Meyers, ha criticado la AI en el cómic digital. Varios creadores dijeron que retirarían su obra. Actualización: el CEO Henrik Rydberg aclaró que la empresa usa Gemini de Google y no un modelo propio."
         }
       ]
+    },
+    "books/books-carlson-selfhelp-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_512x288.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El titular de los derechos de autor de la serie de libros Don't Sweat the Small Stuff es el último en enfrentarse a los gigantes de la AI. Según una nueva demanda federal, Anthropic y Meta se habrían apropiado de más de dos docenas de libros del género de superación personal y los habrían usado para entrenar sus modelos de inteligencia artificial (Carlson LLC v. Anthropic PBC, No. 3:26-cv-14248 (N.D. Cal. Nov. 19, 2026))."
+        },
+        {
+          "t": "p",
+          "x": "Carlson LLC es el titular registrado de los derechos de autor de las obras de R. y K. Carlson. El libro de R. Carlson de 1997 pasó más de 100 semanas en la lista de éxitos de ventas del New York Times. La demanda sostiene que cada empresa obtuvo material de entrenamiento de bibliotecas piratas como Books3 y Anna's Archive, y que adquirió material escaneando libros físicos sin permiso."
+        },
+        {
+          "t": "p",
+          "x": "Carlson se excluyó del acuerdo de la demanda colectiva Bartz con Anthropic, alegando que los libros “son más valiosos que otras obras de la clase”. La demanda reúne a Anthropic y Meta en una sola querella, aunque dos jueces del Northern District of California ya han rechazado intentos de juntar a varias empresas de AI como demandadas. Los demandados aún no han impugnado la acumulación."
+        }
+      ]
+    },
+    "books/books-not-ais-to-take": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png"
+        },
+        {
+          "t": "p",
+          "x": "La Australian Society of Authors, la Australian Publishers Association y otras organizaciones de las industrias creativas y de los medios han lanzado “Not AI’s to Take”, “una campaña nacional para proteger la creatividad australiana”."
+        },
+        {
+          "t": "p",
+          "x": "Una petición, firmada por más de 1,200 personas al momento de escribir esta nota, pide al gobierno australiano que “mantenga las protecciones de derechos de autor existentes”."
+        },
+        {
+          "t": "p",
+          "x": "“No se debe permitir que las empresas de AI usen obras creativas australianas para entrenar sus modelos sin pedir permiso primero”, afirmaron las organizaciones que impulsan la petición, y señalaron que el sector creativo y de medios de Australia aporta $70.3 billion a la economía australiana “y sostiene a casi 600,000 trabajadores, junto con empresas y cadenas de suministro en todo el país”."
+        },
+        {
+          "t": "p",
+          "x": "“Pedimos al Gobierno australiano que se mantenga firme en su compromiso con las industrias creativas de Australia y del mundo. Una AI en los términos de Australia significa que no se puede usar obra creativa sin permiso previo y sin un pago acordado”."
+        },
+        {
+          "t": "p",
+          "x": "Además de animar a la gente a firmar la petición, la campaña pide a sus simpatizantes que escriban una carta a su MP, su representante en el Parlamento, a través de su sitio web y que compartan la campaña en redes sociales."
+        }
+      ]
+    },
+    "books/books-namoo-memoir-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560"
+        },
+        {
+          "t": "p",
+          "x": "Creamos Namoo para registrar de forma más sistemática las historias de nuestros padres. Las personas famosas suelen contratar a escritores fantasma o dedicar muchísimo tiempo a dejar constancia de su pasado."
+        },
+        {
+          "t": "p",
+          "x": "Podríamos conversar nosotros mismos con nuestros padres y dejar un registro, pero no es fácil hacer las entrevistas en persona, ni preparar y ordenar las preguntas."
+        },
+        {
+          "t": "p",
+          "x": "En Namoo, la AI hace de entrevistadora y formula una pregunta a la vez. Los padres solo tienen que hacer la entrevista por voz en la aplicación. La siguiente pregunta cambia según la respuesta, y la conversación se organiza por capítulos."
+        },
+        {
+          "t": "p",
+          "x": "El resultado final puede generarse como e-book y como audiolibro. En lugar de limitarse a guardar archivos de grabación, el objetivo fue dejar un registro que la familia pueda leer y escuchar."
+        },
+        {
+          "t": "p",
+          "x": "Servicio: https://namoo.ai, o busca namoo en App Store o Google Play."
+        }
+      ]
+    },
+    "books/books-guardian-wild-west": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/1314_1100_4459_5573/master/4459.jpg?width=480&dpr=1&s=none&crop=none",
+          "cap": "Ilustración: Ricardo Tomás/The Guardian"
+        },
+        {
+          "t": "p",
+          "x": "Con autores que pierden contratos lucrativos y escritores retirados de listas finales de premios, las acusaciones de uso de AI están sacudiendo el mundo editorial. La novelista romántica Coral Hart (un seudónimo) ha escrito 370 novelas con 21 seudónimos usando AI desde 2025, y ha ganado “seis cifras altas” en Kindle Unlimited. Un estudio dirigido por Tuhin Chakrabarty estima que alrededor de una quinta parte de los libros autopublicados recientemente contiene al menos un 25% de texto AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "Una agente literaria compara la edición convencional con “el salvaje oeste”. Hachette retiró Shy Girl en marzo; los agentes del novelista debutante Jerry Falade se retiraron de un acuerdo de $2m; Thélyson Orélien fue eliminado de la lista larga del Goncourt. A los escritores acusados les cuesta limpiar su nombre, y Hannah Bowman, de AALA (AALA’s), pide “un proceso justo y reflexivo”."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2d2841decc2c053990a30794f96ba24cf91e8b81/389_0_3563_4453/master/3563.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "Ilustración: CSA Images/Getty Images/CSA Images RF/ Ricardo Tomás"
+        },
+        {
+          "t": "p",
+          "x": "El experto editorial Thad McIlroy afirma que las editoriales deben ser “valientes” y publicar políticas de AI amplias. La ley de derechos de autor de US exige que un libro sea de “autoría humana”. En Francia se creó el Prix Pascal de Littérature IA para autores de ficción que trabajan con AI."
+        }
+      ]
+    },
+    "books/pangram-doj-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/CleanShot-2026-11-17-at-7.11.44-AM@2x.png"
+        },
+        {
+          "t": "p",
+          "x": "Abogados del Departamento de Justicia (Department of Justice) usan el servicio de detección de escritura con IA Pangram para argumentar que los abogados contrarios redactan sus argumentos legales con IA, y en un caso dijeron al tribunal que la defensa practicaba una “defensa por ChatGPT” y presentaba escritos de “AI slop”, según documentos judiciales revisados por 404 Media."
+        },
+        {
+          "t": "p",
+          "x": "Los documentos muestran que abogados, incluidos los que trabajan para el gobierno, intentan descubrirse unos a otros usando IA y luego citan ese uso en sus argumentos ante el tribunal. “La práctica de mociones en este caso equivale a responder documentos generados por un robot que intenta ejercer el derecho”, escribieron los abogados del gobierno."
+        },
+        {
+          "t": "p",
+          "x": "El caso gira en torno a Khalwinder Bhengura, un hombre indio de 70 años que entró en U.S. (Estados Unidos) con una visa de inmigrante en 2022 y se registró para votar en Texas en 2024 tras declarar falsamente que era ciudadano. En octubre fue declarado culpable de dos de tres cargos y será deportado."
+        }
+      ]
     }
   }
 }

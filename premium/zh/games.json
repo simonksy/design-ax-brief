@@ -12035,6 +12035,155 @@
           "x": "在本课程中，Unreal Engine高级讲师Sam Deiter将带你了解上手Unreal MCP（在Unreal Engine 5.8中为实验性功能）所需的一切：关键术语、七步设置、故障排除与调试、工具集、编辑器内Terminal插件工作流程、配置设置、省时技巧，以及常见问题解答。"
         }
       ]
+    },
+    "games/unity-neural-unite-tokyo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
+          "cap": "Adam Smith在Unite Tokyo 2026 Keynote上发言"
+        },
+        {
+          "t": "video",
+          "yt": "ZWX5TfR1UAI"
+        },
+        {
+          "t": "p",
+          "x": "Unite Tokyo 2026的核心是“为你的创意速度而打造”的Unity 7：ECS for All、Unity CLI 1.0、面向编程智能体的官方plug-ins，以及可在Editor内搜索Unity Asset Store的Asset Library plug-in。面向Claude、Codex、Google Antigravity和Grok的plug-ins附带由Unity自家团队开发、审核并经过安全检查的技能。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
+          "cap": "Sangbae Nam在Unite Tokyo 2026上展示新的图形工具和Atrio示例场景"
+        },
+        {
+          "t": "p",
+          "x": "Unity Neural是一套AI-powered工具，可加快渲染并降低内存占用。Neural Texture Compression使Atrio的纹理内存减少近30%。它将作为实验功能加入Unity 6.7 LTS，计划在Unity 7中正式发布。在开启光线追踪的情况下，Unity Graphics Kernel（UGK）将Atrio的GPU性能提升了62%以上。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
+          "cap": "Keijiro Takahashi使用Unity CLI和Pipeline API，带观众从头到尾走完整个项目"
+        },
+        {
+          "t": "p",
+          "x": "Keijiro Takahashi让一个智能体（装有Unity官方plug-in的Claude Code）构建第一人称解谜游戏原型；智能体编写代码、编译、读取错误并进行试玩。新的Asset Library plug-in能根据输入的请求找到单个资产并放入场景，同样的搜索也可在CLI中配合任意智能体使用。"
+        }
+      ]
+    },
+    "games/hoyoverse-petit-planet-npc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+        },
+        {
+          "t": "p",
+          "x": "在HoYoverse即将推出的休闲生活模拟游戏Petit Planet中，玩家可以造访由AI-driven NPC Nalo经营的咖啡馆。Nalo会记住过去的对话，给出动态、个性化的回应。封闭测试期间，出现了一些涉及沉重或自我毁灭话题的令人不安的互动。"
+        },
+        {
+          "t": "p",
+          "x": "开发者Yinli Huang表示，Nalo并不是开放式聊天机器人：\"像Nalo这样使用AI系统的NPCs，会有预设的道德价值观和性格。\"\"一旦玩家说了不当的话，Nalo会拒绝回应这些请求或继续互动。\""
+        },
+        {
+          "t": "video",
+          "yt": "RTjd0hhFO74"
+        },
+        {
+          "t": "p",
+          "x": "HoYoverse还建立了分级升级机制。Murphy解释说：\"如果这类互动持续下去，我们会对玩家施加更多限制，例如弹窗通知，并在需要时进行人工干预。\"AI功能完全可选，游戏内设有开关；选择关闭的玩家不会被挡在Nalo的咖啡馆门外，也不会在进度或成就上受到惩罚。"
+        }
+      ]
+    },
+    "games/romero-design-ai-trash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+        },
+        {
+          "t": "p",
+          "x": "这位Doom联合创作者表示，移动平台尤其充斥着低质量作品。John Romero在FRVR Podcast上说，发行比以往任何时候都容易：“那时候发行太难了。现在真的很容易。”"
+        },
+        {
+          "t": "p",
+          "x": "“大多数都是垃圾，”他说。“大多数是AI-generated的，或者用游戏制作工具包直接自动生成的，你知道吗？很多都是这样。但让人人都能把作品发布出去的民主化已成为现实，这很棒。”"
+        },
+        {
+          "t": "p",
+          "x": "Romero解释说，“现在比以往任何时候都更关乎设计”：“只要设计真的出色，人们就会想谈论它。”"
+        }
+      ]
+    },
+    "games/tripo-ai-gstar-b2c": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI是一个能从文本、图像或草图生成3D模型的3D模型生成平台。今年它再次参加G-STAR，并在B2C展馆也设立了展位，以扩大与难以前往B2B展馆的学生和小型独立开发工作室的接触。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
+          "cap": "现场还设有体验区，参观者可直接生成和编辑3D模型，体验其功能与性能 ©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "Head of Product Jack Fan表示，Tripo专注于一键生成3D模型的“Tripo Studio”和将工作拆分为逐步阶段的“Canvas”。服务每周更新多次，每隔几个月推出新的基础模型。“H3.1”是超高精度模型，“P2.0”则能在5秒内生成低于50,000个多边形的轻量几何模型。"
+        },
+        {
+          "t": "p",
+          "x": "许多用户通过MCP（Model Context Protocol）从自己使用的智能体进入Tripo AI。Head of Korea & Japan Markets Ellie Wang表示，今年游戏领域的关注度呈爆发式增长；韩国工作室的反馈催生了用于共享所创建资产的“Team Plan”。"
+        }
+      ]
+    },
+    "games/roblox-free-porting-program": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Roblox正与手机、PC和主机平台上数量有限的开发者和游戏展开合作"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：Roblox"
+        },
+        {
+          "t": "p",
+          "x": "Roblox推出一项新的创作者计划，让开发者可以免费将现有游戏转换到其平台。"
+        },
+        {
+          "t": "p",
+          "x": "Roblox Game Solutions高级总监Jim Greer解释称，Roblox已经“打造了把游戏带到Roblox的智能体转换工具，今天我们向所有人开放这项计划”。"
+        },
+        {
+          "t": "p",
+          "x": "无论游戏基于哪种引擎开发，包括Unity和Unreal，开发者都可以申请由Roblox将其作品转换到该平台。"
+        },
+        {
+          "t": "p",
+          "x": "该计划初期只纳入手机、PC和主机平台上有限的一批开发者和游戏。获批的开发者需要提供源代码和素材。"
+        },
+        {
+          "t": "p",
+          "x": "Roblox澄清，虽然它在处理开发者代码时“可能会使用AI-assisted工具”，但“所提供的代码和素材不会用于训练或微调AI模型”。"
+        },
+        {
+          "t": "p",
+          "x": "Roblox将免费完成转换，开发者保留其游戏、知识产权以及Roblox版本的所有权。除非开发者自行选择，否则不会有任何内容发布到Roblox平台上。"
+        },
+        {
+          "t": "p",
+          "x": "今年9月，Roblox推出Everywhere计划，让创作者能够以独立应用的形式在多个平台发布游戏。"
+        },
+        {
+          "t": "p",
+          "x": "Roblox还宣布，创作者很快将能开启离线单人游玩，并在mid-2027正式上线之前提供抢先体验。"
+        }
+      ]
     }
   }
 }

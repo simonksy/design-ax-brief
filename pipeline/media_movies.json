@@ -1,7 +1,31 @@
-{"date":"2026-11-21","section":"movies","media":[
-{"id":"buchwald-kinison-ai-avatar","type":"image","src":"pipeline/media/buchwald-kinison-ai-avatar.jpg"},
-{"id":"lemonlight-hero-production-os","type":"video","src":"pipeline/media/lemonlight-hero-production-os.mp4","poster":"pipeline/media/lemonlight-hero-production-os.jpg"},
-{"id":"the-piano-human-made-mark","type":"video","src":"pipeline/media/the-piano-human-made-mark.mp4","poster":"pipeline/media/the-piano-human-made-mark.jpg"},
-{"id":"qatar-film-committee-ai-certification","type":"image","src":"pipeline/media/qatar-film-committee-ai-certification.jpg"},
-{"id":"mateo-wiingeukjang-ai-drama","type":"image","src":"pipeline/media/mateo-wiingeukjang-ai-drama.jpg"}
-]}
+{
+  "date": "2026-11-22",
+  "section": "movies",
+  "media": [
+    {
+      "id": "fincher-cliff-booth-ai",
+      "type": "image",
+      "src": "pipeline/media/fincher-cliff-booth-ai.jpg"
+    },
+    {
+      "id": "caa-lourd-no-fakes-act",
+      "type": "image",
+      "src": "pipeline/media/caa-lourd-no-fakes-act.jpg"
+    },
+    {
+      "id": "raphael-mbc-ai-feature-review",
+      "type": "image",
+      "src": "pipeline/media/raphael-mbc-ai-feature-review.jpg"
+    },
+    {
+      "id": "hampton-tallinn-ai-super-google",
+      "type": "image",
+      "src": "pipeline/media/hampton-tallinn-ai-super-google.jpg"
+    },
+    {
+      "id": "thewrap-genz-ai-film-backlash",
+      "type": "image",
+      "src": "pipeline/media/thewrap-genz-ai-film-backlash.jpg"
+    }
+  ]
+}

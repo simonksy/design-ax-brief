@@ -18437,6 +18437,129 @@
           "x": "OpenAI는 스마트폰 계획에는 말을 아끼지만 전 Apple 디자인 책임자 Jony Ive가 세운 io와 함께 AI-first 하드웨어를 개발하고 있다. 시장 진입은 쉽지 않다. Google은 Android로 AI에 전력을 쏟았고, Apple은 Siri AI로 궤도에 올랐다. OpenAI가 자체 운영체제를 만들 가능성은 낮다."
         }
       ]
+    },
+    "gadgets/beambox-polly-phone-pet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/7/csm_beambox-polly-digital-pet-202674_43d5b0df35.jpg",
+          "cap": "Beambox의 Polly 디지털 펫은 스마트폰에 자석으로 붙고 360 × 360픽셀 터치스크린을 달았다."
+        },
+        {
+          "t": "p",
+          "x": "다마고치가 뜻밖의 새 자리를 찾았다. 스마트폰 뒷면이다. 일본에서 출시된 작은 디지털 펫 Polly는 가상 생명체에게 먹이를 주고 함께 놀며 키우는 익숙한 놀이를 휴대폰에 붙여 다니는 자석식 기기로 옮겨 왔다."
+        },
+        {
+          "t": "p",
+          "x": "사전 주문은 11월 20일 Makuake에서 시작됐다. 가격은 ¥10,999부터로 예정 소매가 ¥15,713보다 30% 싸고, 배송은 2027년 1월 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "Polly는 씨앗에서 출발해 돌보는 방식에 따라 서로 다른 캐릭터로 자란다. 너무 오래 내버려 두면 병들고 죽을 수도 있다. 두 번째 성장 단계에 이르면 AI 대화와 가상 여행이 열린다. 이 기능은 Wi-Fi와 전용 앱이 있어야 하지만 기본 활동은 오프라인에서도 된다."
+        },
+        {
+          "t": "p",
+          "x": "크기는 61 × 61 × 11.5 mm, 무게는 40.8 g이며 MagSafe-compatible iPhones에 붙는다. Android 사용자라면 맞는 자석 케이스나 링을 따로 갖춰야 한다. Beambox는 하루 여섯 번 상호작용하면 배터리가 약 사흘 간다고 밝혔다."
+        },
+        {
+          "t": "video",
+          "yt": "2Ayn-O0dJWE"
+        },
+        {
+          "t": "p",
+          "x": "Polly는 Beambox 자체 웹사이트에 $69.80로 올라 있고 영어·중국어·일본어를 지원한다."
+        }
+      ]
+    },
+    "gadgets/snes-superfx-chatgpt-client": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7.jpg",
+          "cap": "SNES용 ChatGPT (이미지 출처: Benj Edwards)"
+        },
+        {
+          "t": "p",
+          "x": "닌텐도 고전 콘솔 SNES에 전용 ChatGPT 챗봇이 생겼다. 오래되고 자원이 빠듯한 플랫폼이라 이 (작은) 언어 모델은 OpenAI의 GPT-OSS-120b를 220만(2.2-million) 파라미터 규모로 증류해 만들었다. 빈티지 컴퓨팅 블로거 Benj Edwards는 “Super NES 최고의 GPU인 Super FX 2 칩”으로 챗봇 응답 속도를 끌어올렸다."
+        },
+        {
+          "t": "p",
+          "x": "SNES9x 에뮬레이터를 심어 둔 Edwards의 브라우저 페이지에서 직접 써 볼 수 있다. 4MB 모델을 고르거나, Simple English Wikipedia 문서 150,000개의 첫 문장을 지식 베이스에 넣은 19MB 모델을 고르면 된다(카트리지의 MSU-1 데이터 파일에 저장)."
+        },
+        {
+          "t": "p",
+          "x": "호기심을 채우는 것 말고는 쓸모가 매우 제한적이다. Edwards의 말대로 “이 모델은 ChatGPT를 떠받치는 모델보다 수백만 배 작다”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rJPMW9HzRkxorSKyfnhng7.jpg",
+          "cap": "작동 중인 SNES용 ChatGPT (이미지 출처: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Yoshi's Island와 함께 데뷔한 Super FX 2 코프로세서에는 21.47 MHz RISC CPU가 들어 있다. SNES 메인 CPU는 2.68 MHz로 동작하는 16비트 Ricoh 5A22다. 이 앱은 Super FX(Wikipedia 빌드는 MSU-1도)를 지원하는 플래시 카트를 쓰면 실제 SNES에서도 돌릴 수 있다."
+        }
+      ]
+    },
+    "gadgets/hyundai-elantra-gleo-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
+          "cap": "새 Elantra Hybrid는 일반 사양보다 몇 달 늦게 나올 수 있지만 기다릴 만하다. Hyundai"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai가 LA 오토쇼에서 2027 Elantra 세단과 2028 Elantra Hybrid를 공개했다. 연비를 따지는 소비자라면 이 컴팩트 하이브리드 세단의 목표 연비 53 mpg와, Hyundai의 새 Android Automotive OS-based 대시보드 기술을 제어하는 새 AI 음성 비서 Gleo를 눈여겨볼 만하다."
+        },
+        {
+          "t": "p",
+          "x": "하이브리드는 1.6리터 4기통 엔진과 6단 듀얼 클러치 변속기를 짝지어 155마력을 낸다. 회생 제동도 개선돼 이제 “EV-like 원페달 주행 경험”을 준다. 새 Stay 모드를 켜면 주차 중에도 최대 30분 동안 공조와 인포테인먼트가 돌아간다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-Elantra-Hybrid-dashboard-A7C04698.jpg",
+          "cap": "새 대시보드는 계기판을 운전자에게서 멀리, 앞유리 쪽으로 밀어냈다. Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai의 Android Automotive OS-based 인포테인먼트 제품군 Pleos Connect는 12.9인치 중앙 디스플레이에 들어간다. 짝을 이루는 Gleo AI로 운전자와 승객은 차와 대화할 수 있다. Hyundai 설명에 따르면 Gleo AI는 “맥락 기반 언어 지원, 다중 명령 처리, 구역별 인식”을 갖춰 누가 어느 좌석에서 말하는지 차가 알아챈다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/hyundai-elantra-hybrid-taillights-A7C04690.jpg",
+          "cap": "Antuan Goodwin/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Hyundai는 가격을 발표하지 않았다. CNET은 2027 Elantra가 2027년 초, 2028 Elantra Hybrid가 2027년 말에 나올 것으로 내다본다."
+        }
+      ]
+    },
+    "gadgets/google-assistant-nest-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+          "cap": "사진: Dan Seifert / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Google이 스마트홈 소프트웨어를 크게 손본다. 내년부터 Nest 앱을 없애 Google Home 앱 하나로 합치고, 스마트홈 기기의 Google Assistant도 물러나게 한다."
+        },
+        {
+          "t": "p",
+          "x": "Nest 앱은 2027년 1월 25일 문을 닫는다. 그 뒤로는 Nest 온도조절기와 카메라, Nest Protect 경보기 같은 Nest 제품을 Google Home 앱에서 관리해야 한다. Google Home 앱을 미리 설정해 두면 1월 25일 당일 Google이 카메라와 영상 기록까지 포함해 Nest 기기를 Home 앱으로 옮겨 준다. Nest Aware(1세대) 구독은 Google Home Premium으로 자동 전환된다. Nest 계정 데이터는 2027년 3월 25일부터 지우기 시작한다고 Google은 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Google Assistant 쪽 변화는 이보다 늦다. 회사에 따르면 2027년 8월 2일, 스마트 스피커와 스마트 디스플레이에서 Gemini for Home 음성 비서가 Google Assistant 자리를 넘겨받는다. Google은 Gemini for Home이 있으면 전용 명령어나 정해진 표현 없이도 더 복잡한 질문을 평소 말투로 던질 수 있다고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home이 지난해 발표된 만큼 Google이 스마트홈에서 Google Assistant를 정리하는 건 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 2027년 8월 전환 전에 추가 소식을 내놓겠다고 회사는 밝혔다."
+        }
+      ]
     }
   }
 }

@@ -12807,6 +12807,140 @@
           "x": "Los ajustes están en Profile > Settings > Permission (Enable generative AI features) y en Profile > Your account > AI personalization. Están disponibles para usuarios gratuitos y de pago."
         }
       ]
+    },
+    "design/claude-mobile-tabbar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "La actualización añade una barra inferior con pestañas para chat, Projects, Code y Artifacts. Daniel Destefanis, de Anthropic, dijo en una publicación en X que el rediseño ha empezado a desplegarse, apenas un día después de que OpenAI anunciara un rediseño de la app de ChatGPT que también incluye una barra de pestañas inferior."
+        }
+      ]
+    },
+    "design/ava-studio-launch-videos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ava Studio presentó el 17 de noviembre ‘Launch Videos’, una función para crear videos de lanzamiento de productos. La herramienta analiza el orden de escenas, la duración de los cortes y los movimientos de cámara de videos de lanzamiento que llamaron la atención en X, y genera un video con las pantallas del producto del usuario. Puede usarse como plugin en Claude Code y Codex."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el usuario indica la dirección web del producto, la duración deseada del video y la relación de aspecto, el agente busca videos de referencia. Se pueden elegir referencias según la estructura del video, como una escena que revela por primera vez la pantalla del producto o una demostración vertical en un teléfono inteligente."
+        },
+        {
+          "t": "p",
+          "x": "Tras elegir una referencia, el agente captura las páginas reales del producto y arma las escenas con el logotipo, los colores y las tipografías del usuario. En la demostración oficial, tomó los cortes y los movimientos de cámara del video de lanzamiento de ‘Perplexity Computer’ para crear un video de 14 segundos que presenta las pantallas de ‘Router’. El original y el resultado pueden reproducirse lado a lado en el mismo punto, lo que permite comparar cuándo aparece la pantalla del producto y dónde se amplía."
+        },
+        {
+          "t": "p",
+          "x": "Los videos se renderizan en un equipo Mac o Linux y se guardan como proyectos editables de HyperFrames. Tras ver el primer resultado, se puede pedir que cambie el texto del título o que una escena se muestre durante más tiempo, y volver a renderizar. Buscar y ver videos de referencia es gratis; generar música ajustada a la edición descuenta créditos de Ava."
+        },
+        {
+          "t": "video",
+          "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Video de lanzamiento de Perplexity Computer y la nueva versión con Router"
+        }
+      ]
+    },
+    "design/xjet-atelier-jewelry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "XJet, empresa de NanoParticle Jetting, expone en Formnext 2026 e incluye XJet Atelier, una nueva plataforma en línea que conecta el diseño de joyería AI-assisted (asistido por IA) con el flujo de fabricación de la compañía para facilitar la producción de joyas personalizadas. El proceso NPJ de XJet utiliza dispersiones líquidas cargadas de partículas metálicas o cerámicas y un material de soporte soluble, y es adecuado para piezas pequeñas y complejas con detalles finos, como las joyas."
+        },
+        {
+          "t": "p",
+          "x": "XJet Atelier permite a los consumidores crear sus propios colgantes a partir de prompts o imágenes y fabricarlos en las impresoras 3D de XJet. “Los usuarios pueden empezar con unas pocas palabras o una foto, explorar y pulir diseños de colgantes y previsualizar su creación en 360° antes de pasar a la producción física mediante el flujo NPJ de XJet”. Los clientes pueden elegir acero inoxidable o plata de ley. Los visitantes pueden probar la herramienta de generación de diseños en el stand C21, Hall 11.0."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "XJet también promociona XPARTS, su servicio de AM en cerámica y metal, y anunció los primeros pedidos de clientes para sus plataformas Carmel Pro y Carmel ORO. “Estamos poniendo todas las capacidades de XJet al alcance de más clientes, ya necesiten piezas terminadas, su propio sistema de producción o una forma de convertir un diseño personalizado en joya”, dijo el CEO Guy Zimmerman."
+        }
+      ]
+    },
+    "design/artificial-poster-aislop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hoy en día, los pósteres de AI slop no son una rareza en el cine, así que cuando vi el diseño de la última película de Luca Guadagnino, Artificial, puse los ojos en blanco y seguí desplazándome. No sabía que esa era exactamente la reacción que buscaba el director."
+        },
+        {
+          "t": "p",
+          "x": "Si hubiera sido un poco más observador, habría visto el pequeño texto en la esquina inferior derecha que dice “Artwork made by Humans”. Sí, este póster tiene todos los ingredientes de un inquietante AI slop, pero de eso se trata. Cuidado, AI: los humanos vienen a quitarte el trabajo."
+        },
+        {
+          "t": "p",
+          "x": "“¿Cuál es la imagen del futuro que ves? ARTIFICIAL, de Luca Guadagnino. En cines seleccionados el día de Navidad. En todas partes el 8 de enero.” (publicación en X, 19 de noviembre de 2026)"
+        },
+        {
+          "t": "p",
+          "x": "Lo primero que me llama la atención es el rostro inquietante de Andrew Garfield. En su papel del CEO de OpenAI, Sam Altman, la falta de alma en su mirada resulta francamente escalofriante y ya hace sonar todas las alarmas de AI."
+        },
+        {
+          "t": "p",
+          "x": "Una mirada más atenta revela más incongruencias: el Golden Gate Bridge bajo el agua, serpientes al azar que se ciernen desde arriba, el avión boca abajo y mi detalle menos favorito: la aterradora cara de Pinocchio que acecha entre los árboles. “Cuanto más lo miras, más demencial se vuelve”, escribió un comentarista en X. “Póster del año”, elogió otro."
+        },
+        {
+          "t": "p",
+          "x": "“Arte hecho por humanos (Gravillis Inc. y Mike Thompson).” (publicación en X, 19 de noviembre de 2026)"
+        }
+      ]
+    },
+    "design/nngroup-synthesized-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/articles/opengraph_images/Can_AI_Card.png"
+        },
+        {
+          "t": "p",
+          "x": "En nuestro estudio, los diseños AI-generated (generados por AI) fueron mejores cuando la AI recibió hallazgos y recomendaciones sintetizados en lugar de solo comentarios de usuarios en bruto."
+        },
+        {
+          "t": "p",
+          "x": "NN/g asignó a un modelo de AI dos tareas de diseño —un formulario de una sola página para reprogramar un vuelo cancelado y un flujo de pago de varios pasos para una tienda en línea— y mantuvo iguales el prompt y la información del sistema de diseño, pero cambió el contexto de investigación: unos 100 comentarios de usuarios en bruto por tarea, o hallazgos y recomendaciones sintetizados a partir de esos mismos comentarios. Generó 8 diseños por tarea y condición; un evaluador humano y un juez LLM puntuaron cada uno a ciegas con una rúbrica predefinida."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/bar-chart.png",
+          "cap": "Los diseños generados a partir de hallazgos y recomendaciones sintetizados cumplieron en promedio el 77.9% de los criterios de la rúbrica, frente al 69.5% de los diseños generados a partir de comentarios de usuarios en bruto (p < 0.001)."
+        },
+        {
+          "t": "p",
+          "x": "La mejora fue mayor en la tarea de reprogramar el vuelo (11.4 puntos porcentuales, frente a 5.5 en el flujo de pago). Algunos comentarios en bruto se quejaban de las millas de fidelidad, pero ninguno de los diseños basados en ellos lo abordó; todos los diseños basados en investigación sintetizada sí lo hicieron."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/11/20/synthesized-findings-and-recommendations-add-a-layer-of-interpretation.png",
+          "cap": "Solo con datos en bruto, la herramienta de AI tiene que adivinar qué construir. Con hallazgos y recomendaciones sintetizados, construye sobre decisiones que tu equipo ya tomó."
+        },
+        {
+          "t": "p",
+          "x": "Los materiales de investigación tienen ahora dos públicos: tus compañeros de equipo y las herramientas de AI que se usan en el proceso de diseño. El UX-context design (diseño de contexto UX) es la práctica de seleccionar, organizar y mantener el conocimiento de UX que guía el diseño AI-generated."
+        }
+      ]
     }
   }
 }

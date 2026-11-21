@@ -1,7 +1,32 @@
-{"date":"2026-11-21","section":"design","media":[
-{"id":"nngroup-synthesized-data","type":"image","src":"pipeline/media/nngroup-synthesized-data.png"},
-{"id":"envato-ai-report-2026","type":"image","src":"pipeline/media/envato-ai-report-2026.jpg"},
-{"id":"fuser-tool-node","type":"image","src":"pipeline/media/fuser-tool-node.jpg"},
-{"id":"gestalt-design-benchmark","type":"image","src":"pipeline/media/gestalt-design-benchmark.jpg"},
-{"id":"uxcollective-sparkle-audit","type":"image","src":"pipeline/media/uxcollective-sparkle-audit.png"}
-]}
+{
+  "date": "2026-11-22",
+  "section": "design",
+  "media": [
+    {
+      "id": "figma-specs-agent-plan",
+      "type": "image",
+      "src": "pipeline/media/figma-specs-agent-plan.jpg"
+    },
+    {
+      "id": "claude-mobile-tabbar",
+      "type": "image",
+      "src": "pipeline/media/claude-mobile-tabbar.jpg"
+    },
+    {
+      "id": "ava-studio-launch-videos",
+      "type": "video",
+      "src": "pipeline/media/ava-studio-launch-videos.mp4",
+      "poster": "pipeline/media/ava-studio-launch-videos.jpg"
+    },
+    {
+      "id": "xjet-atelier-jewelry",
+      "type": "image",
+      "src": "pipeline/media/xjet-atelier-jewelry.jpg"
+    },
+    {
+      "id": "artificial-poster-aislop",
+      "type": "image",
+      "src": "pipeline/media/artificial-poster-aislop.jpg"
+    }
+  ]
+}
