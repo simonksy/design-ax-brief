@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "issue": "AWS Quick에 Meta 광고 커넥터, 캠페인을 말로 다룬다",
+    "date": "2026.11.21",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "AWS Machine Learning Blog 원문(Chris Geiger·Mark Botto, 2026.11.21 17:59 PST 게재 — article:published_time 2026-11-21T17:59:13-08:00, 바이라인 21 NOV 2026) 대조. 확인: Quick에 Meta ads AI 커넥터 추가, 커넥터가 광고 MCP 서버 작업에 접근, 자연어로 캠페인 생성·관리·분석, 1·3자 데이터와 묶어 대시보드·문서·슬라이드·자동화 워크플로 생성. 데모 설명: Customize > Connectors에서 설치 → Facebook 로그인 → Quick이 접근할 Pages·Businesses·Instagram 계정 선택, 예시 프롬프트 두 개(지난 성과로 8장짜리 출시 계획 덱 / 두 광고 세트의 지출·리드·리드당 비용 비교 대시보드와 다음 테스트 제안). 인용은 fal 마케팅 총괄 Tina Sang 발언 앞부분 번역. 쓰기 작업 전 허락 요청(Note), Quick 3개월 무료·팀원 10명까지 무료 초대(Get started) 확인. 정정: 초안 날짜 2026.11.23·'오늘 들어왔다' → 게재일 2026.11.21. 초안의 기능 나열(전환 리프트·카탈로그·재고 맞춤 지출)은 블로그 '사용 예시' 표의 제안 프롬프트라 기능 발표처럼 쓰지 않고 캡션에 '예시'로만 둠. 영상: 초안 pipeline/media 클립 대신 같은 블로그 본문에 임베드된 AWS 공식 데모 영상(AWS 블로그 CDN d2908q01vomqb2.cloudfront.net, 1920×1080, 2분 12초 — 개인 이름·계정은 AWS가 이미 블러 처리)에서 4초 구간 셋(85s 덱, 21s 설치·로그인, 116s 대시보드)을 960×640으로 잘라 src/에 둠. 매체·스톡·개인 채널 영상 아님.",
+    "sources": [
+      "AWS Machine Learning Blog — Meta ads is now available in AWS Quick (2026.11.21)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/deck.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "AI × 마케팅 · 2026.11.21",
+      "headline": "Meta 광고, 대화로",
+      "body": "AWS Quick에 Meta 광고 AI 커넥터가 붙었다. 캠페인을 자연어로 만들고, 고치고, 분석한다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/connect.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "어떻게 붙이나",
+      "headline": "페이스북 로그인 한 번",
+      "body": "커넥터 목록에서 설치하고 Facebook으로 로그인한다. Quick이 볼 페이지·비즈니스·인스타 계정은 직접 고른다.",
+      "foot": "2026.11.21",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/dashboard.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "뭘 해 주나",
+      "headline": "대시보드도 한 번에",
+      "body": "AWS 데모에선 두 광고 세트의 지출·리드·리드당 비용을 비교한 대시보드에 다음 테스트 제안까지 나왔다.",
+      "foot": "2026.11.21",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "마케팅팀은 캠페인 기획부터\n집행까지 한 곳에서 해낸다.",
+      "quote_by": "Tina Sang · fal 마케팅 총괄",
+      "eyebrow": "먼저 써 본 쪽은",
+      "headline": "도구 오갈 일이 준다",
+      "body": "AWS 블로그에 실린 고객 발언이다. fal은 자사 이미지·오디오·영상 모델도 같은 흐름에 넣어 소재를 더 시험한다.",
+      "foot": "2026.11.21",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "AI가 초안·분석",
+      "stat_arrow": "광고를 바꾸기 직전",
+      "stat_bottom": "사람이 승인",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "결재는 여전히 사람",
+      "body": "커넥터는 광고 계정을 실제로 바꾼다. 캠페인 생성·예산 변경 같은 쓰기 작업은 매번 허락을 먼저 구한다.",
+      "foot": "2026.11.21",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
