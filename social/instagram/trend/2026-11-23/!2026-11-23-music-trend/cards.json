@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "AI 학습 면제, 표 문제가 되다",
+    "date": "2026.11.23",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조(Guardian 2건 본문, ALM 본문, TMN 본문). 게재일은 호주 현지 기준: Guardian 11.08 14:00 GMT=11.09 AEDT(URL nov/09), 11.19 14:00 GMT=11.20 AEDT(URL nov/20), TMN 11.22 21:42 UTC=11.23 AEDT, ALM 11.17. IFPI Victoria Oakley 'huge mistake'·'one safe harbour', Not AI's to Take 11.17 출범·ARIA·PPCA·permission-first, AFR 보도(허가제+음악 예외 가능, Guardian은 독자 확인 못함)·Herd 'unnecessary, unworkable', 21개 선거구·1,464명·65%·Coalition/One Nation 60% 확인. 매체: 2장 사진은 Guardian 기사 일러스트(alengo/Getty Images/iStockphoto)라 quote로, 4장 영상은 Guardian 제작 영상(워터마크)이라 quote로 교체. 3장은 캠페인 공식 이미지(Not AI's to Take, ALM 게재)만 유지. 4장 본문에 '보도된 안'임을 살렸다.",
+    "sources": [
+      "The Guardian — Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese (2026.11.09)",
+      "Australasian Leisure Management — Australian creative sector launches campaign against unauthorised AI use of copyright material (2026.11.17)",
+      "The Guardian — Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping (2026.11.20)",
+      "The Music Network — AI Copyright Changes Could Cost MPs Votes in 21 Key Electorates (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.09~11.23",
+      "thread": [
+        {
+          "d": "11.09",
+          "t": "IFPI 경고",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.17",
+          "t": "허락 먼저",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.20",
+          "t": "분리 거부",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.23",
+          "t": "선거구 조사",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "호주의 AI 학습 저작권 논쟁이 업계 반발에서 표 계산으로 넘어갔다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 학습 면제,\n표 문제가 되다",
+      "body": "한 건씩 보면 업계의 반발이다. 그런데 두 주 사이 경고와 캠페인, 분리안 거부에 이어 선거구 여론조사까지 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.09",
+      "headline": "세계 음반계,\n호주에 경고",
+      "body": "IFPI는 호주의 저작권 완화를 '큰 실수'라 했다. 호주 음악만이 아니라 세계 음악이 걸린 문제라는 뜻이다.",
+      "foot": "2026.11.09",
+      "_src": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+      "_id": "music-ifpi-australia-copyright",
+      "quote": "안전지대 한 곳이면\n세계 어디 음악이든\n학습할 수 있다",
+      "quote_by": "빅토리아 오클리 · IFPI 대표"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.17",
+      "headline": "'허락 먼저'\n캠페인 출범",
+      "body": "ARIA·PPCA가 Not AI's to Take를 띄웠다. 옵트아웃이 아니라, 학습 전에 허락받고 조건을 협상하라는 요구다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
+      "_id": "aria-ppca-notaistotake",
+      "media": "pipeline/media/aria-ppca-notaistotake.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.20",
+      "headline": "음악만 예외? 거절했다",
+      "body": "허가를 사면 학습을 열되 음악만 빼 주는 안이 보도되자, ARIA는 다른 창작자 편에 섰다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+      "_id": "aria-musician-tdm-exemption",
+      "quote": "불필요하고 실행 불가능하다.\n창작자 보호가 아니라\nAI 기업 이익에 맞춘 안",
+      "quote_by": "애너벨 허드 · ARIA CEO"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "이제는 표의 문제",
+      "body": "21개 선거구 유권자 1,464명 중 65%가 허락 없는 AI 학습에 반대했다. 연립·One Nation 지지층도 60%였다.",
+      "foot": "2026.11.23",
+      "_src": "https://themusicnetwork.com/news/ai-copyright-changes-electorates-new-poll",
+      "_id": "not-ais-to-take-electorate-poll",
+      "stat_top": "21개 선거구 · 1,464명",
+      "stat_arrow": "허락 없는 AI 학습에",
+      "stat_bottom": "65% 반대",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI로 만든 극, 관객 앞으로",
+    "date": "2026.11.23",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 재대조(Korea Times·톱셀럽뉴스·PPSS·에너지뉴스 본문과 datePublished): 11.16/11.17/11.18/11.20 확인. 138분·14개월·실제 배우 촬영 없음·11.25 개봉, Fortal 11.04 출범 행사·SiamSun 판권 매입 후 AI 영상화·중국 1분기 12만 8000편 중 95% 이상, 4편·곽정환·이정섭·이태곤(+최은경)·27일 서울영화센터·편당 평균 14분 파일럿, 3편(김홍도·소현세자·최부)·ACFM InnoAsia WIP에서 김홍도 편 첫 공개 확인. 고침: 라파엘 개봉(25일)과 큐브베리 상영(27일)은 아직 앞이고 위인극장은 업계 마켓 쇼케이스라 '관객 앞에 섰다'를 '관객 앞으로'로, SiamSun·큐브베리는 'AI로만'이 원문에 없어 'AI로 만든'으로 낮춤. SiamSun '냈다'→'공개했다'. 매체: 2장 Raphael 스틸(300 & Co. 제공), 4장 큐브베리 제공 포스터만 사용. 5장 에너지뉴스 사진은 출처 표기가 없어 stat으로 교체, 3장은 ChatGPT 생성 이미지라 stat 유지.",
+    "sources": [
+      "The Korea Times — AI movie 'Raphael' impresses visually, lacks fresh plot (2026.11.16)",
+      "톱셀럽뉴스 — 태국 포탈 엔터테인먼트, AI 숏폼 드라마 앱 SiamSun 공개 (2026.11.17)",
+      "PPSS — 큐브베리, KOCCA 콘텐츠랩 AI 웹드라마 쇼케이스 개최 (2026.11.18)",
+      "에너지뉴스 — 마테오AI스튜디오, 100% AI 인터랙티브 시대극 '위인극장' ACFM서 첫 공개 (2026.11.20)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.16~11.20",
+      "thread": [
+        {
+          "d": "11.16",
+          "t": "장편 개봉",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.17",
+          "t": "세로 앱",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.18",
+          "t": "미드폼",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.20",
+          "t": "분기형 극",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI로 만든 극이 시연을 넘어 극장과 앱으로 관객을 찾아 나선다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI로 만든 극,\n관객 앞으로",
+      "body": "한 편씩 보면 시험작이다. 그런데 닷새 사이 장편 개봉, 세로 드라마 앱, 극장 상영회, 분기형 극 소식이 잇달았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.16",
+      "headline": "배우 없이 만든\n138분 장편",
+      "body": "한국 첫 완전 생성 AI 장편 Raphael. 14개월 동안 실제 배우 촬영 없이 만들었고 25일 극장에 걸린다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
+      "_id": "raphael-mbc-ai-feature-review",
+      "media": "pipeline/media/raphael-mbc-ai-feature-review.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "세로 드라마,\n태국도 AI로",
+      "body": "태국 Fortal이 AI 숏폼 드라마 앱 SiamSun을 공개했다. 자국 소설 판권을 사서 AI로 영상화한다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.topcelev.co.kr/news/articleView.html?idxno=4219",
+      "_id": "siamsun-ai-shortdrama",
+      "stat_top": "중국 1분기 숏폼 신작",
+      "stat_arrow": "12만 8000편 가운데 AI 제작",
+      "stat_bottom": "95% 이상",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "지상파 연출자들의\nAI 웹드라마",
+      "body": "곽정환·이정섭·이태곤 감독 등의 AI 웹드라마 4편. 27일 서울영화센터에서 편당 평균 14분 파일럿을 튼다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.ppss.kr/news/articleView.html?idxno=321768",
+      "_id": "movies-ai-drama-cubeberry",
+      "media": "pipeline/media/movies-ai-drama-cubeberry.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.20",
+      "headline": "관객이 고르는\nAI 시대극",
+      "body": "100% 생성형 AI 분기형 시대극 '위인극장'. 관객 선택에 따라 전개가 바뀐다. AI가 극의 형식까지 건드린다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.2news.co.kr/news/articleView.html?idxno=33410",
+      "_id": "mateo-wiingeukjang-ai-drama",
+      "stat_top": "김홍도·소현세자·최부",
+      "stat_arrow": "세 편 가운데 먼저",
+      "stat_bottom": "김홍도 편 공개",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
