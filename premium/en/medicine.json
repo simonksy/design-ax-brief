@@ -5257,6 +5257,124 @@
           "x": "Hypertension increases the risk of cardiovascular disease and all-cause mortality, but around half of all adults with hypertension (especially younger adults) do not know that they have it. Widely available consumer wearables can measure blood pressure (BP), but these usually require calibration with cuff BP measurements. Moreover, data on their performance relative to established screening is lacking, which limits clinical translation."
         }
       ]
+    },
+    "medicine/subtle-gadolinium-tenth-mri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tuesday, December 1 | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+        },
+        {
+          "t": "p",
+          "x": "Can the use of deep learning (DL) help reduce gadolinium-based contrast agent (GBCA) dose on MRI? It appears so, according to research to be presented Tuesday afternoon."
+        },
+        {
+          "t": "p",
+          "x": "GBCAs are essential for brain MRI, but their use has prompted concerns regarding long-term gadolinium retention in the brain and increasing environmental concentrations in groundwater, noted presenter Thomas C. Arnold, PhD, of Subtle Medical, and colleagues."
+        },
+        {
+          "t": "p",
+          "x": "The study evaluated a deep-learning algorithm designed to restore contrast enhancement from 10% of the standard dose to match full-dose quality on brain MRI exams. It included data from 63 patients; each received a low gadolinium dose (10%) and low-dose T1 imaging after a pre-contrast T1 sequence, then the remainder of the GBCA dose for full-dose T1 images."
+        },
+        {
+          "t": "p",
+          "x": "The algorithm produced \"enhanced low-dose\" images, and two radiologists independently reviewed either the standard-of-care or the enhanced low-dose images in a blinded, randomized study design, rating lesion characteristics on a four-point Likert scale."
+        },
+        {
+          "t": "p",
+          "x": "Interreader agreement for standard-of-care images and intrareader agreement between standard-of-care and enhanced low-dose images showed no significant difference (p = 0.128). There were also no significant differences in lesion characteristics."
+        }
+      ]
+    },
+    "medicine/tele-cranio-ct-free": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Computed tomography (CT) is central to craniomaxillofacial (CMF) deformity care, yet dependence on in-hospital imaging constrains remote preoperative assessment, and repeated imaging can increase radiation and access burdens, particularly for children."
+        },
+        {
+          "t": "p",
+          "x": "Tele-Cranio, a telemedicine-oriented artificial intelligence framework, uses mobile-acquired 2D facial photographs to reconstruct 3D facial morphology, estimate corresponding skeletal morphology and support postoperative facial simulation conditioned on surgeon-defined skeletal plans."
+        },
+        {
+          "t": "p",
+          "x": "It was developed using 539 paired multimodal samples from individuals aged 3–60 years, including 334 patients with CMF deformities across malocclusion, cleft lip with/without palate, hemifacial microsomia and rare anomalies. Its core model, the Bidirectional Craniomaxillofacial Model-Deformity, links facial soft tissue and skeletal structures."
+        },
+        {
+          "t": "p",
+          "x": "Validated across heterogeneous CMF subgroups, Tele-Cranio provides an interpretable CT-free layer for remote triage, pre-CT consultation, radiation-free follow-up and surgeon–patient communication, while complementing rather than replacing CT-based definitive diagnosis and operative planning."
+        }
+      ]
+    },
+    "medicine/bmj-antibiotic-llm-cot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In a double-blind, 2×2 factorial design, 59 complex inpatient infection cases generated prescriptions from a domain-specific medical LLM (MedGo) and DeepSeek V.3.5, each with standard and chain-of-thought (CoT) prompting, alongside the real physician prescriptions. Three senior clinicians scored the regimens; ChatGPT V.5.2 was tested as an automated scorer."
+        },
+        {
+          "t": "img",
+          "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
+          "cap": "Comparison of comprehensive antibiotic prescription scores across models."
+        },
+        {
+          "t": "p",
+          "x": "Overall scores ranked: physicians (4.76±0.04) > MedGo CoT (4.58±0.09) > DeepSeek CoT (4.41±0.11) > MedGo (4.25±0.16) > DeepSeek (3.98±0.20). CoT significantly improved both models (DeepSeek+ 0.43; MedGo+ 0.33). ChatGPT-expert correlation was negligible overall (Kendall τ=0.153)."
+        },
+        {
+          "t": "p",
+          "x": "Despite MedGo-CoT approaching physicians’ performance, notable safety gaps persisted. Domain-specific LLMs with CoT prompting improve prescribing decisions but cannot replace expert clinical judgement; automated LLM evaluation proved unreliable."
+        }
+      ]
+    },
+    "medicine/nhs-outpatient-noshow-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This retrospective cohort study developed and validated a model to estimate the risk of outpatient non-attendance (‘did not attend’, DNA) at the appointment level, aiming to enable targeted interventions that reduce DNAs and improve clinic efficiency."
+        },
+        {
+          "t": "p",
+          "x": "It used general practice, hospital, community and mental health electronic health records for outpatient appointments in southeast London between January 2018 and December 2022."
+        },
+        {
+          "t": "p",
+          "x": "Of 1 033 601 outpatient appointments, 112 406 (10.9%) resulted in DNA. The final logistic regression model included 40 predictor variables; leading predictors were appointment lead time, previous DNA history and patient age. It achieved an area under the ROC curve of 0.69 on held-out test data."
+        },
+        {
+          "t": "img",
+          "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
+          "cap": "Results of final test set performance including AUC curve, calibration plot, confusion matrix and associated metrics."
+        },
+        {
+          "t": "p",
+          "x": "External validation in independent populations and healthcare settings is required before implementation outside the development setting."
+        }
+      ]
+    },
+    "medicine/tabmbio-pancreatic-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers will report that combining CT imaging biomarkers with clinical variables boosts detection of early-stage pancreatic cancer beyond direct lesion segmentation."
+        },
+        {
+          "t": "p",
+          "x": "The approach supports \"opportunistic screening on existing scans,\" according to study presenter and PhD candidate Wenxuan Li of Johns Hopkins University in Baltimore."
+        },
+        {
+          "t": "p",
+          "x": "In this Tuesday afternoon session, Li will share results from a study that tested an AI algorithm she and colleagues developed called TabMBio, which combines image-derived biomarkers from the tumor, pancreas, and the pancreatic duct with clinical variables such as patient age and sex to identify early-stage pancreatic cancer on routine CT. As part of the research, the group created a biomarker benchmark called PanTab, which included data from 3,788 subjects from 147 centers with 1,487 confirmed early-stage pancreatic cancers (333 of which were smaller than 2 cm) and 2,301 controls."
+        },
+        {
+          "t": "p",
+          "x": "For early detection of pancreatic cancers less than 2 cm versus controls, TabMBio achieved an area under the receiver operating curve of 0.99. The investigators also reported that, on prediagnostic CT obtained three to 36 months before diagnosis -- where radiologist sensitivity is 0% -- multimodal biomarker learning improved sensitivity from 19.5% to 29.3%."
+        },
+        {
+          "t": "p",
+          "x": "The bottom line? \"Early [pancreatic cancer] detection should not rely on lesion cues alone,\" Li and colleagues concluded."
+        }
+      ]
     }
   }
 }

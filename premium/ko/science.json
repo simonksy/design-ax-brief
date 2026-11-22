@@ -16533,6 +16533,97 @@
           "x": "MIT 수학자 Andrew Sutherland는 Alpöge의 결과를 Lean으로 따로 컴파일해 본 뒤 “참으로 역사적인 순간”이라며 “증명의 수학적 세부를 이해하려면 해야 할 일이 많다”고 말했다."
         }
       ]
+    },
+    "science/science-weathernext-hurricane-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+          "cap": "ETEC Map Room 화면에 띄운 기상 데이터. Credit: Patrick Dodson"
+        },
+        {
+          "t": "p",
+          "x": "2025년 가을 Hurricane Melissa(허리케인 멜리사)가 Jamaica(자메이카)를 덮쳤을 때 다른 모델들의 예측은 엇갈렸지만, Google의 AI 모델은 경로와 Category 5 강도를 일주일 앞서 정확히 맞혔다. University at Albany의 Jacob Vile, Brian Tang, Nour Elgalad는 Geophysical Research Letters에 낸 연구에서 Google의 WeatherNext Cyclone을 독립적으로 검증했다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 2022년 6월부터 2026년 5월까지 전 세계 열대 사이클론 385개의 강도 예보를 분석했다. 하루 뒤부터 닷새 뒤까지 모든 시점에서 이 모델은 NOAA의 최첨단 허리케인 모델보다 정확했고, 첫날 이후로는 인간 예보관과 맞먹었다. 급격한 강화 예보에서는 향후 24시간 동안 선도 도구들과 비슷한 신뢰도를 보이면서 오경보는 더 적었다."
+        },
+        {
+          "t": "p",
+          "x": "다만 폭풍이 얼마나 강해질지를 낮춰 잡는 경향이 있었고, 예보 기간이 길수록 그 격차가 벌어졌다. 가능한 결과의 범위를 지나치게 좁게 잡는 경우도 많았다. 성능은 North Atlantic(북대서양)에서 가장 좋았고 eastern North Pacific(북태평양 동부)에서 가장 나빴다. 올해 Google이 공개한 새 모델 버전은 이번 분석에서 빠졌다."
+        }
+      ]
+    },
+    "science/science-agent-harassment-tampering": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+          "cap": "AI. 출처: Pexels의 Tara Winstead"
+        },
+        {
+          "t": "p",
+          "x": "조지아주립대(Georgia State University) 연구진은 Georgia Tech, UC Berkeley 협력자들과 함께 AI 가드레일이 여러 차례 오가는 대화에서도 버티는지 시험했다. AI 에이전트 하나는 괴롭히는 쪽, 다른 하나는 당하는 쪽을 맡아 최대 10라운드까지 대화했고, 출발점은 Twitter와 Instagram의 실제 괴롭힘 게시물이었다. Google(Gemini), Meta(Llama), Alibaba(Qwen), DeepSeek 모델에는 세 가지 공격을 가했다. 유해한 이전 대화를 메모리에 넣기, 계획 프롬프트, 괴롭힘 대화로 미세조정하기다."
+        },
+        {
+          "t": "p",
+          "x": "미세조정을 거친 한 모델은 대화의 약 96%에서 괴롭힘을 했고, 거부율은 약 1%에 그쳤다. 약 200개 대화로 미세조정해도 괴롭힘 비율은 약 97%까지 올랐다. Gemini는 기본 조건 대화의 39%에서 괴롭힘을 했는데, 유해 메모리가 들어가자 99%를 넘었다. Qwen은 기본 조건에서도 92%를 넘겼다. 여러 모델에서 대화가 오갈수록 적대감이 커졌다. 공동 저자 Ugur Kursuncu는 \"그대로 머무르지 않는다. 시간이 갈수록 커진다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Trilok Padhi et al.의 논문 \"Echoes of Human Malice in Agents\"는 AAAI 웹·소셜미디어 학회(ICWSM)에 채택됐다."
+        }
+      ]
+    },
+    "science/science-tokamak-density-collisionality": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "토카막 핵융합로에서 밀도를 제한하는 플라스마 불안정성이 어느 문턱에서 생기는지는 아직 잘 모른다. 이 연구는 여러 장치와 가둠 영역에 공통된 충돌도 문턱값이 있다는 첫 대규모 실증 근거를 내놓았다. 다양한 실험 데이터베이스를 기계학습으로 분석해 가장자리 유효 충돌도(ν*)의 스케일링을 찾아냈는데, 널리 쓰이는 Greenwald 한계와 닮았지만 거짓 양성률은 크게 낮다. 문턱값은 무차원 압력(β)이 커질수록 내려간다. 저항성 벌루닝 모드 난류에 전자기 효과가 더해지면 수송이 강해진다는 이론 예측과 맞는 결과다. 이에 따르면 ITER, ARC 같은 미래 연소 플라스마 장치는 기존 예상보다 높은 밀도, 곧 더 높은 핵융합 출력을 낼 여지가 있다."
+        },
+        {
+          "t": "p",
+          "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar(Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV, EUROfusion Tokamak Exploitation 팀 및 JET Contributors 대표). Physical Review Letters 게재 승인."
+        }
+      ]
+    },
+    "science/science-llm-advice-donations": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI 챗봇에 조언을 구하는 사람이 늘고 있지만, 대형언어모델(LLMs)은 아첨하거나 과신하고 인간의 인지 편향을 키우기도 한다. 이 논문은 사람들이 인간과 LLMs의 조언을 어떻게 받아들이는지, AI 조언이 인센티브 양립적 기부 결정을 바꾸는지 살폈다. 연구진은 새 실험 플랫폼 Carrier에서 참가자가 AI 챗봇 조언자나 다른 사람과 논의한 뒤, 혹은 조언 없이 기부를 결정하도록 했다. 참가자들은 LLM 조언자가 인간 조언자보다 유의하게 더 합리적이고 믿을 만하며 설득력 있고, 더 아첨한다고 평가했다. 채팅 기록을 보면 LLMs는 인간 조언자보다 적극적이었다. 사실을 더 많이 공유했고, 자기 의견을 밝히거나 추천 근거를 대는 일도 잦았다. 그런데도 기부 결정은 조건에 따라 달라지지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+        }
+      ]
+    },
+    "science/science-tess-amateur-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+          "cap": "시민 과학자들이 인공지능 도구로 아직 발견되지 않은 외계행성을 찾는다(상상도). Credit: Hypersphere/SPL"
+        },
+        {
+          "t": "p",
+          "x": "지난 9월, 천문학을 정식으로 배운 적 없는 스페인의 AI 전문가 Pavel Rabtsevich가 AI 모델에 행성을 찾아 달라고 했다. 모델은 약 두 주 만에 지구에서 116광년 떨어진 별을 도는 행성 후보 두 개를 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "그는 Claude Code로 NASA의 TESS가 2025년 말과 2026년 초에 관측한 별 120,000개 이상의 데이터를 걸러냈고, 널리 쓰이는 행성 탐지 알고리즘으로 밝기가 떨어지는 구간을 찾았다. Claude가 짚어낸 별은 TIC 4206066이었다. 약 3일과 11일 간격으로 되풀이되는 두 감광 주기가 보였다. 2018년과 2020년 TESS 보관 데이터에도 같은 패턴이 남아 있었고, Claude는 Michelle Kunimoto가 만든 공개 알고리즘을 돌려 신호를 검증했다."
+        },
+        {
+          "t": "p",
+          "x": "Rabtsevich는 9월 25일 Zenodo에 프리프린트를 올렸다. 동료 심사는 받지 않았지만 TESS 천문학자들이 신호를 따로 분석해 공식 행성 후보 목록에 넣었다."
+        },
+        {
+          "t": "p",
+          "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 모델이 낸 결과를 검증하지 못하는 아마추어도 있다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
+        }
+      ]
     }
   }
 }

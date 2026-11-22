@@ -12551,6 +12551,163 @@
           "x": "Gemini for Home于去年发布，因此Google在智能家居领域告别Google Assistant并不令人意外（何况公司今年早些时候已在手机上停用了Google Assistant）。公司表示，计划在2027年8月过渡之前分享更多相关信息。"
         }
       ]
+    },
+    "gadgets/genspark-secondbrain-voicepad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
+          "cap": "SecondBrain VoicePad希望只用五个键，就帮你在桌前完成更多工作。"
+        },
+        {
+          "t": "p",
+          "x": "Genspark发布了SecondBrain VoicePad，这是一款面向Windows PCs和Macs的输入设备，将实体宏按键与语音控制结合，设计上几乎可配合任何AI工具或应用使用。这款重85-gram的铝制设备将于2026年11月24日登陆Kickstarter，首批产品预计于2027年1月交付。"
+        },
+        {
+          "t": "p",
+          "x": "它的五个可编程按键采用CHERRY MX Ultra Low Profile轴体，可通过Bluetooth或USB-C连接，续航约20小时。两个降噪麦克风负责收音：按住最下方的按键，语音就会转成文字输入到光标处，并去除语气词。双击则可在未连接电脑时把对话录到内置存储中；随后软件会进行转录，生成摘要和后续步骤，并把50多种语言翻译成英语。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
+          "cap": "五个按键都可以按你的工作需要自定义。"
+        },
+        {
+          "t": "p",
+          "x": "按键可重新分配给应用、快捷方式，或ChatGPT、Claude、Gemini、Grok、Notion等AI工具。常规售价为$169；Kickstarter支持者需支付$119至$149，预订可锁定$99的价格。"
+        }
+      ]
+    },
+    "gadgets/obsbot-tail-air2-ptz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Obsbot新款Tail Air 2是其小巧电池供电PTZ相机的升级版：采用1-inch传感器，像素从8.4MP提升至50MP；新增真正的竖拍模式（横滚轴）；帧率翻倍至4K/60和1080P/120；并号称拥有13.5档LOFIC HDR。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Obsbot的目标是为主播提供具备自动主体追踪功能的“准专业”相机，让一位导演——甚至一位独立创作者——也能拥有借助AI追踪自己的相机。“AI Tracking 2.0”可追踪人、30多种动物和200多类物体，即使在不平的表面上也能让相机保持水平。"
+        },
+        {
+          "t": "p",
+          "x": "它支持Wi-Fi 6或有线连接（Ethernet、SRT、RTSP、RTMP，特定型号支持NDI HX3），可本地录制，起售价为$899 / £670（NDI版为$999 / £750）。更大的Tail 2 ADV配备21x光学变焦和1/2in传感器，现已开放预订，售价$1,399 / £1250。"
+        }
+      ]
+    },
+    "gadgets/gemini-android-camera-redesign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google彻底重新设计了Gemini for Android应用内的相机，它能让你快速为提示词添加图片。"
+        },
+        {
+          "t": "p",
+          "x": "旧界面从提示框的“plus”菜单打开，会启动一个相当普通的全屏取景器。从Gemini浮层启动相机时，仍会使用这一UI。"
+        },
+        {
+          "t": "p",
+          "x": "新相机以内嵌方式出现在Gemini主页或对话中。它以底部面板形式弹出，向上拖动即可伴随非常流畅的动画占据大部分屏幕。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "这一近乎边到边、延伸至系统导航栏后方的新设计，与旧方案形成鲜明对比。"
+        },
+        {
+          "t": "p",
+          "x": "拍摄按钮右侧是一个三点溢出菜单按钮，打开时带有动画，提供调节闪光灯和切换到前置摄像头的选项。另一侧有返回按钮，也可以直接向下滑动。"
+        },
+        {
+          "t": "p",
+          "x": "这一相机新设计最早在Gemini for iOS应用中推出，现已在Android的测试版和稳定版（版本17.76+）渠道广泛上线。如果还没看到，可以对Google应用执行Force stop。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "此前一天，Gemini应用刚推出GIF生成功能。该功能由Gemini Omni 1.2 Flash驱动，在Format菜单中选择GIF，或在提示词中写明“Create a GIF”即可。Google将其定位为搜索GIFs的替代方案。"
+        }
+      ]
+    },
+    "gadgets/meta-muse-charm-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据The Information报道，Meta计划以$300的价格出售Muse Charm，这是一款用于与其Muse AI智能体对话、类似拓麻歌子（Tamagotchi-esque）的小设备。Meta在9月的Connect大会上推出了它，称其让用户无需掏出智能手机就能使用智能体，并表示将赶在假日季上市。"
+        },
+        {
+          "t": "p",
+          "x": "Mark Zuckerberg表示，Muse Charm把“完整的Muse体验，包括实时语音和虚拟形象技术栈，装进了一个能挂在钥匙扣上、随时可以对话的设备里”。据The Information报道，它配有指纹识别器，可在你下达指令前验证身份，并将附赠最多12个月的Verizon免费5G流量。"
+        },
+        {
+          "t": "p",
+          "x": "10月，Meta为开发者发布了开源指南，帮助他们打造自己的“Muse Gadgets”。该智能体已吸引超过1000万用户，Meta还推出了适用于Wear OS和watchOS的Muse应用。Meta似乎希望摆脱Apple和Google的规则，直接掌握与用户的关系，并正在开发商务工具，在Muse用户通过智能体购物时向商家收取费用。"
+        }
+      ]
+    },
+    "gadgets/rayneo-io-lifelog-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+          "cap": "© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "售价$499的RayNeo IO Smart Glasses舍弃了摄像头，转而采用AI、单色显示屏和生产力功能——通知、天气、转录、翻译和录音——且没有扬声器。"
+        },
+        {
+          "t": "p",
+          "x": "RayNeo AI应用中有一项名为Lifelog的可选功能，它通过眼镜的麦克风全天聆听，为捕捉到的所有内容提供摘要和转录，并提炼出待办事项。它有时接近实用，但AI摘要言过其实，还曾把评测者和一位同事搞混。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+          "cap": "如果保持Lifelog开启，RayNeo会自动生成待办事项。© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "RayNeo表示不会存储录音，但会保留文字转录稿；而眼镜正在聆听的唯一迹象，是右侧镜腿末端一个很容易被忽略的LED。"
+        },
+        {
+          "t": "p",
+          "x": "AI翻译反应迅速且大体准确，实时字幕能抓住大意，语音提示的提词器也表现不错。测试版Live Answers功能则显得只是在照搬复述。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+          "cap": "这是眼镜中提词器的大致样子。© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "硬件轻巧舒适，配有Smart Dial数字表冠和明亮的双目显示屏；电池在典型使用下最长可达48小时，持续录音时为18小时。结论是：它在某些方面有用，但持续而隐蔽的聆听不值得以隐私为代价。"
+        }
+      ]
     }
   }
 }

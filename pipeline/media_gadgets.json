@@ -1,27 +1,31 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "gadgets",
   "media": [
     {
-      "id": "rayneo-io-lifelog-glasses",
+      "id": "verge-vibe-coding-gadgets",
       "type": "image",
-      "src": "pipeline/media/rayneo-io-lifelog-glasses.jpg"
+      "src": "pipeline/media/verge-vibe-coding-gadgets.jpg"
     },
     {
-      "id": "beambox-polly-phone-pet",
-      "type": "video",
-      "src": "pipeline/media/beambox-polly-phone-pet.mp4",
-      "poster": "pipeline/media/beambox-polly-phone-pet.jpg"
+      "id": "genspark-secondbrain-voicepad",
+      "type": "image",
+      "src": "pipeline/media/genspark-secondbrain-voicepad.jpg"
     },
     {
-      "id": "snes-superfx-chatgpt-client",
+      "id": "obsbot-tail-air2-ptz",
       "type": "image",
-      "src": "pipeline/media/snes-superfx-chatgpt-client.jpg"
+      "src": "pipeline/media/obsbot-tail-air2-ptz.jpg"
     },
     {
-      "id": "hyundai-elantra-gleo-ai",
+      "id": "gemini-android-camera-redesign",
       "type": "image",
-      "src": "pipeline/media/hyundai-elantra-gleo-ai.jpg"
+      "src": "pipeline/media/gemini-android-camera-redesign.jpg"
+    },
+    {
+      "id": "meta-muse-charm-price",
+      "type": "image",
+      "src": "pipeline/media/meta-muse-charm-price.jpg"
     }
   ]
 }

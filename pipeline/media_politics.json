@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-22",
-  "section": "politics",
-  "media": [
-    {
-      "id": "house-china-ai-models-report",
-      "type": "svg"
-    },
-    {
-      "id": "ccw-autonomous-weapons-2028",
-      "type": "image",
-      "src": "pipeline/media/ccw-autonomous-weapons-2028.jpg"
-    },
-    {
-      "id": "puma-shen-deepfake-indictment",
-      "type": "image",
-      "src": "pipeline/media/puma-shen-deepfake-indictment.jpg"
-    },
-    {
-      "id": "exam-fairness-tf-cheongwadae",
-      "type": "image",
-      "src": "pipeline/media/exam-fairness-tf-cheongwadae.jpg"
-    },
-    {
-      "id": "trump-offshore-datacenter-tax",
-      "type": "video",
-      "src": "pipeline/media/trump-offshore-datacenter-tax.mp4",
-      "poster": "pipeline/media/trump-offshore-datacenter-tax.jpg"
-    }
-  ]
-}
+{"date":"2026-11-23","section":"politics","media":[
+{"id":"korea-aidc-decree-permits","type":"image","src":"pipeline/media/korea-aidc-decree-permits.jpg"},
+{"id":"hickenlooper-ai-select-committee","type":"image","src":"pipeline/media/hickenlooper-ai-select-committee.jpg"},
+{"id":"eu-14-states-ai-copyright","type":"svg"},
+{"id":"mcgill-influencer-deepfakes-trade","type":"image","src":"pipeline/media/mcgill-influencer-deepfakes-trade.jpg"},
+{"id":"china-ethnic-unity-law-ai","type":"image","src":"pipeline/media/china-ethnic-unity-law-ai.jpg"}
+]}

@@ -12845,6 +12845,161 @@
           "x": "研究成果如今有两类受众：你的团队成员，以及设计过程中使用的AI工具。UX-context design（UX情境设计）是指挑选、组织并维护用于指导AI-generated设计的UX知识的实践。"
         }
       ]
+    },
+    "design/siemens-agibot-gripper-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+          "cap": "Siemens的Industrial AI概念：以单一数字主线连接AM的工程与生产。图片来源：Siemens。"
+        },
+        {
+          "t": "p",
+          "x": "Siemens正在为增材制造（AM）构建一条由Industrial AI驱动的端到端Digital Thread。在工程端，AI智能体负责从调整设计、虚拟验证到制造准备的每一步。"
+        },
+        {
+          "t": "p",
+          "x": "Siemens与AGIBOT以一款人形机器人夹爪演示了这一工作流。用户描述要抓取的物体和机器人需完成的任务，AI智能体随即选出合适的夹爪类型，在Siemens的Designcenter中调整其几何形状并进行仿真，再验证机器人接口与抓取表现。借助MCP集成，智能体可调用工程软件的功能并协调各个工作步骤。该工作流在Frankfurt举行的Formnext 2026上展出。"
+        },
+        {
+          "t": "p",
+          "x": "“不必再以耗时的方式手动设计各种变体，智能体工作流可以根据具体需求来编排工程任务。”Siemens增材制造副总裁Karsten Heuser表示。"
+        },
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+          "cap": "Siemens计划在Erlangen电子工厂建设的自适应生产单元，将把AM、自动化、后处理和软件连接成一条工艺链。图片来源：Siemens。"
+        },
+        {
+          "t": "p",
+          "x": "Siemens正与EOS和AM Solutions合作，在其Erlangen电子工厂打造自适应生产单元。Synera和Ai Build也走了类似路线，用AI智能体和文字输入来操作现有AM软件。"
+        }
+      ]
+    },
+    "design/gemini-omni-gif-maker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Google Gemini现在可以制作GIFs了。这项功能由Google的Gemini Omni 1.2 Flash视频模型驱动，用户可用文字提示、照片或视频生成简短的动画循环。ChatGPT早已能自行生成GIFs。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以在Gemini主聊天中描述想要的动画，也可以打开图像和视频创作工具，在格式选择器中选GIF并输入提示词。系统提供现成的反应表情包模板，上传的照片和视频也可作为参考。"
+        },
+        {
+          "t": "p",
+          "x": "生成的动画时长约三秒，会自动循环播放。可将其复制到支持的应用、消息、邮件和文档中，或下载为标准.gif文件。"
+        },
+        {
+          "t": "p",
+          "x": "GIF生成功能正面向全球Google AI订阅用户推出，免费用户则可在八个国家使用：美国（US）、加拿大、英国（UK）、澳大利亚、日本、韩国、德国和法国。推出是逐步进行的，Gemini帮助文档仍将Google AI方案列为使用条件。"
+        }
+      ]
+    },
+    "design/webflow-mcp-designer-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "设计师Yudit Lynn Lee过去的流程全靠手工：先在Figma中设计，再在Webflow里手动搭建，然后用小脚本或Webflow的交互面板添加交互。如今她与Claude一起用代码为整个体验制作原型，再由Webflow MCP逐个区块导入Webflow。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "最初的视觉方向和基础布局仍在Figma中确定。完整体验则与Claude在本地制作原型——用index.html和本地服务器——这样她能立即在浏览器中查看和交互，并并排生成多个方案。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "满意之后，她让Claude把它转成Webflow页面，带上结构、类名和CSS，动效则借助Webflow MCP以自定义代码的形式迁移过去。“我现在什么都不用手工搭了。”"
+        },
+        {
+          "t": "p",
+          "x": "她的建议：告诉Claude该Webflow网站所用的框架（如Lumos）、命名规范和变量；若要做整页，就在新的上下文窗口中逐个区块搭建，甚至用子智能体并行进行。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+        }
+      ]
+    },
+    "design/comsol-2026-mcp-server": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "工程师和科学家齐聚Massachusetts州Burlington，参加Comsol Conference 2026（10月7–9日）。在一场迷你课程中，Comsol的Bjorn Sjodin介绍了Comsol 2027，其中包含新模块、新功能和AI能力。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+          "cap": "Comsol 2027包含大量新功能，尤其借助AI让仿真开发更加容易。（图片：Comsol）"
+        },
+        {
+          "t": "p",
+          "x": "Comsol的MCP服务器可连接AI Agents，科学家和工程师能借助它们创建模型、流程和方程，从而找到问题的解决方案。Comsol 2027还把该软件的聊天机器人、Application Builder和Java Shell带到了Mac和Linux上。"
+        },
+        {
+          "t": "p",
+          "x": "在主题演讲中，Cosmon CEO Rui Aguiar借其产品Argus介绍了面向工业仿真的智能体AI，并强调工程师必须明确仿真目标并验证结果。他展示了一个与实测结果偏差为0.2%的模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+          "cap": "Rui Aguiar演讲幻灯片的照片。（照片：Martin Rowe）"
+        },
+        {
+          "t": "p",
+          "x": "在“Generative and Agentic AI with Comsol”环节中，Jada Walter展示了如何使用聊天机器人、模型构建器和Comsol的MCP服务器来创建和调试模型，AI智能体不仅检查语法，还会检查其背后的推理。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+          "cap": "这个在Comsol中使用智能体AI的示例展示了机械圆柱体的建模。（图片：Comsol）"
+        }
+      ]
+    },
+    "design/figma-specs-agent-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "如今团队从原型走向生产的速度前所未有，书面需求、设计细节和工程指导常常散落在不同的文档和链接里。Specs在画布上提供了一个共享的上下文容器，团队成员和智能体可以一起补充内容。在这个工作流中，虚构的集市购物应用Pickup的一名工程师用Specs和Figma智能体，把繁杂的上下文整理成编码智能体可以据此构建的计划。"
+        },
+        {
+          "t": "p",
+          "x": "添加Hex连接器后，工程师让智能体找出Pickup使用量最高的地方。智能体生成了一份按城市列出应用使用量和订单量的规格，并附上展示前四个城市地图的代码图层。团队决定在Bengaluru, India（印度班加罗尔）上线。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+          "cap": "Figma智能体生成使用情况报告和四个地图代码图层，帮助团队比较潜在的上线城市。"
+        },
+        {
+          "t": "p",
+          "x": "工程师选中技术规格、带注释的设计画框、交互式地图代码图层、新组件和设计系统指南，然后运行团队的build-implementation-plan技能。智能体创建一份新规格，把这些输入整合成供编码智能体构建该功能的计划。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+          "cap": "智能体生成一份含实施计划的规格，供工程师在交给编码智能体之前审阅。"
+        },
+        {
+          "t": "p",
+          "x": "在评论中与智能体和一位设计师敲定细节后，工程师把规格链接粘贴到Codex并输入提示：“实现这个功能（Implement this feature.）”。借助Figma的MCP，Codex只需一个链接就能读取规格、带注释的画框、代码图层和设计系统组件。Specs已在所有方案中开放公测，可在网页、桌面和移动端使用。"
+        }
+      ]
     }
   }
 }

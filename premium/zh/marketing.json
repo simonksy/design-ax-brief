@@ -5823,6 +5823,149 @@
           "x": "一些优惠券网站可能考虑不向Googlebot或其他爬虫显示有效优惠码，但许多网站早已在结构化数据中共享这些信息。"
         }
       ]
+    },
+    "marketing/aws-quick-meta-ads-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS Quick今天新增了Meta广告AI连接器。该连接器让Quick能够调用广告Model Context Protocol（MCP）服务器的操作。Meta广告客户可以在保持与Meta广告管理网络连接的同时，在Quick中用自然语言创建、管理和分析广告活动。"
+        },
+        {
+          "t": "p",
+          "x": "Quick还能将Meta广告管理数据与第一方和第三方数据源结合，生成仪表板、文档、幻灯片和自动化工作流。"
+        },
+        {
+          "t": "video",
+          "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+        },
+        {
+          "t": "p",
+          "x": "视频展示了如何在Customize > Connectors中安装连接器、使用Facebook登录，并选择Quick可访问的Pages、Businesses和Instagram账户。一条提示词把过往广告活动结果变成八页的发布计划幻灯片；另一条则生成仪表板，比较两个广告组的花费、潜在客户和单个潜在客户成本。"
+        },
+        {
+          "t": "p",
+          "x": "使用场景涵盖规划和启动广告活动、标记创意疲劳，以及转化提升研究、目录修正和按库存与利润率调整花费。在Quick创建广告活动、更改预算或执行其他写入操作之前，它会征求你的许可。"
+        }
+      ]
+    },
+    "marketing/google-aimode-multiturn-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+          "cap": "Google AI Mode广告出现在追问的回答下方，最深在第四个问题中可见"
+        },
+        {
+          "t": "p",
+          "x": "Search Engine Roundtable的Barry Schwartz于2026年11月6日在未登录的桌面端会话中测试了Google AI Mode。他提问\"which foldable phone should I get\"（我该买哪款折叠屏手机），第一个回答下方出现了一个“Sponsored”单元，含四张产品卡片，均为Motorola和Samsung折叠屏手机。"
+        },
+        {
+          "t": "p",
+          "x": "他追问\"i love iphones, does the duo need a case?\"（我喜欢苹果手机，duo需要手机壳吗？），又出现第二个Sponsored单元，含四张手机壳卡片，其中三张来自Vyrloom，一张来自OtterBox。他表示在第三和第四次追问时还出现了更多广告。两个付费单元都没有Apple或Google的产品。"
+        },
+        {
+          "t": "p",
+          "x": "Google于10月28日宣布在US推出多轮广告，称这些广告“出现在用户追问的回答中”。Search、Shopping和Performance Max广告系列会自动符合条件；广告主无法单独定向AI Mode，也无法脱离Search单独退出AI Mode。"
+        },
+        {
+          "t": "p",
+          "x": "报告为汇总数据：展示、点击、转化和费用都在标准广告系列报告中，且都不区分第一轮和第五轮。"
+        }
+      ]
+    },
+    "marketing/bitmovin-gam-scene-signals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+          "cap": "Bitmovin Chief Product Officer Reinhard Grandl"
+        },
+        {
+          "t": "p",
+          "x": "Bitmovin宣布，其AI Scene Analysis与Google Ad Manager中的publisher-provided signals（PPS）实现集成，让买方获得出版商视频内容的逐场景语境，而不是整部作品只有一个标签。"
+        },
+        {
+          "t": "p",
+          "x": "AI Scene Analysis已预先集成到Bitmovin的VOD Encoder和Player中，可用任何语言分析每个资产的每个场景，将其映射到IAB Content Taxonomy类别，并添加用于识别自然插播点的广告机会评分。"
+        },
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+          "cap": "场景级和受众信号如何从编码后的资产经由Bitmovin的Player和IMA SDK传到Google Ad Manager"
+        },
+        {
+          "t": "p",
+          "x": "每次广告请求时，Bitmovin的Player都会通过IMA SDK把这些信号连同出版商的第一方受众细分一起传给Google Ad Manager，覆盖Open Auction、Private Auction、Preferred Deals和Programmatic Guaranteed，且不与买方共享用户标识符。"
+        },
+        {
+          "t": "p",
+          "x": "该集成现已向使用AI Scene Analysis以及搭配Google IMA SDK的Bitmovin Player的Bitmovin客户开放。CPO Reinhard Grandl表示：“现在每个场景都能以任何语言，自动把自身语境带入广告请求。”"
+        }
+      ]
+    },
+    "marketing/agentic-black-friday-rocky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+          "cap": "AI智能体正在零售业留下虽小却清晰的印记。"
+        },
+        {
+          "t": "p",
+          "x": "Dean Mandelos请Meta的Muse智能体为爱做饭的姐妹挑礼物，它推荐了一套刀具。但它也碰到了已过期或已售罄的商品页面，还被Amazon和eBay直接拦截。“我需要一个更信任它的理由，”他说。"
+        },
+        {
+          "t": "p",
+          "x": "“这无疑是AI真正能发挥实质作用的第一个Black Friday，但它还没有完全自主，”Kantar分析师Gina Logan说。“三分之二的购物者至少有时会用AI购物，但超过一半的人仍更愿意自己掌控购物决定。”"
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+          "cap": "购物者往往不会很快改变习惯。"
+        },
+        {
+          "t": "p",
+          "x": "Bain & Co.对Similarweb数据的分析发现，AI助手在零售商网站流量中占比不到1%；在10月最后一周约3.2亿笔Uber交易中，只有约500笔来自AI智能体。在All Star Elite，智能体流量约占访问量的1%，大部分来自Muse。"
+        },
+        {
+          "t": "p",
+          "x": "Walmart正在推出让智能体购物更便捷的工具，而Amazon则屏蔽外部机器人，力推Alexa。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+          "cap": "Amazon正阻止第三方AI智能体完整访问其网站。"
+        }
+      ]
+    },
+    "marketing/google-ucp-grocery-carts-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
+          "cap": "Google为US购物者把Target和Albertsons购物车放进Search与Gemini"
+        },
+        {
+          "t": "p",
+          "x": "Google开始面向US用户，在Search和Gemini应用中推出Albertsons、Safeway、Shaw's和Target的Connected Apps。这些应用可根据对话生成生鲜杂货订单并转到结账环节，运行在Google的Universal Commerce Protocol之上。"
+        },
+        {
+          "t": "p",
+          "x": "同一篇11月20日的文章称，Experian的信用工具将从Gemini移至Search，H&R Block可在Search中估算税款和退税，未来几周内Angi和Thumbtack账户也可在Search中关联。"
+        },
+        {
+          "t": "p",
+          "x": "Google的示例显示，在AI Mode中生成的一笔Target订单包含八件商品，小计$37.49。示例止步于购物车，未展示付款、替换商品或取货时间安排。"
+        },
+        {
+          "t": "p",
+          "x": "Google尚未说明商品如何排序、由谁处理付款，以及这些流程中是否会出现广告。名单中没有Walmart。"
+        }
+      ]
     }
   }
 }

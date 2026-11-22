@@ -13104,6 +13104,161 @@
           "x": "Research artifacts now have two audiences: your teammates and the AI tools used in the design process. UX-context design is the practice of selecting, organizing, and maintaining the UX knowledge that guides AI-generated design."
         }
       ]
+    },
+    "design/siemens-agibot-gripper-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+          "cap": "Siemens’ Industrial AI concept linking engineering and production in a single digital thread for AM. Photo via Siemens."
+        },
+        {
+          "t": "p",
+          "x": "Siemens is building an end-to-end Digital Thread for additive manufacturing (AM) that runs on Industrial AI. On the engineering side, an AI agent handles each step from adapting the design and validating it virtually to preparing it for manufacturing."
+        },
+        {
+          "t": "p",
+          "x": "Siemens and AGIBOT demonstrate the workflow using a gripper for a humanoid robot. The user describes the object to be handled and the task the robot needs to perform. The AI agent picks a suitable gripper type, adapts its geometry in Siemens’ Designcenter, simulates it, and validates the robot interface and handling. MCP integration lets the agent use functions of the engineering software and coordinate the work steps. The workflow is on show at Formnext 2026 in Frankfurt."
+        },
+        {
+          "t": "p",
+          "x": "“Instead of manually designing variants in a time-consuming process, agentic workflows can orchestrate engineering tasks based on specific requirements,” said Karsten Heuser, Vice President Additive Manufacturing at Siemens."
+        },
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+          "cap": "The adaptive production cell planned for Siemens’ Erlangen Electronics Factory will link AM, automation, post-processing and software in one process chain. Photo via Siemens."
+        },
+        {
+          "t": "p",
+          "x": "Siemens is working with EOS and AM Solutions on an adaptive production cell at its Electronics Factory in Erlangen. Synera and Ai Build have taken similar routes, with AI agents and text input that operate existing AM software."
+        }
+      ]
+    },
+    "design/gemini-omni-gif-maker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Google Gemini can now make GIFs. The feature lets users generate short animated loops using text prompts, photos, or videos, powered by Google’s Gemini Omni 1.2 Flash video model. ChatGPT can already create GIFs of its own."
+        },
+        {
+          "t": "p",
+          "x": "Users can describe the animation in Gemini’s main chat, or open the image and video creation tools, select GIF from the format picker, and enter a prompt. There are ready-made templates for reaction memes, and uploaded photos and videos can serve as references."
+        },
+        {
+          "t": "p",
+          "x": "The generated animations run for approximately three seconds and loop automatically. They can be copied into supported apps, messages, emails, and documents, or downloaded as standard .gif files."
+        },
+        {
+          "t": "p",
+          "x": "GIF generation is rolling out to Google AI subscribers globally, while free users can access it in eight countries: the US, Canada, UK, Australia, Japan, South Korea, Germany, and France. The rollout is gradual, and Gemini’s help documentation still lists a Google AI plan as a requirement."
+        }
+      ]
+    },
+    "design/webflow-mcp-designer-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Designer Yudit Lynn Lee’s process used to be manual: design in Figma, build it in Webflow by hand, then add the interactions with small scripts or Webflow’s interaction panel. Now she prototypes the whole experience in code with Claude, and the Webflow MCP brings it into Webflow section by section."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Figma is still where she sets the initial visual direction and a basic layout. The full experience she prototypes with Claude locally — an index.html and a local server — so she can see and interact with it in the browser straight away and generate options side by side."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Once happy, she asks Claude to translate it into a Webflow page, with the structure, class names and CSS, and the motion carried across as custom code using Webflow MCP. “I don’t build anything by hand anymore.”"
+        },
+        {
+          "t": "p",
+          "x": "Her tips: tell Claude the framework the Webflow site uses (such as Lumos), its naming conventions and variables; and for a whole page, build section by section in fresh context windows, even in parallel with subagents."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+        }
+      ]
+    },
+    "design/comsol-2026-mcp-server": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Engineers and scientists gathered in Burlington, Massachusetts for Comsol Conference 2026 (October 7–9). In a mini course, Comsol’s Bjorn Sjodin introduced Comsol 2027, which includes new modules, features, and AI capabilities."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+          "cap": "Comsol 2027 includes numerous new features that make developing simulations easier, particularly through AI. (Image: Comsol.)"
+        },
+        {
+          "t": "p",
+          "x": "Comsol’s MCP server connects AI Agents so that scientists and engineers can use them to develop solutions to problems by creating models, processes, and equations. Comsol 2027 also brings the software’s chatbots, Application Builder, and Java Shell to Mac and Linux."
+        },
+        {
+          "t": "p",
+          "x": "In a keynote, Cosmon CEO Rui Aguiar presented agentic AI for industrial simulation with his product Argus, stressing that engineers must state a simulation’s objectives and validate results. He showed a model with 0.2% deviation from a measured result."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+          "cap": "Photo of a slide from Rui Aguiar’s presentation. (Photo: Martin Rowe.)"
+        },
+        {
+          "t": "p",
+          "x": "In “Generative and Agentic AI with Comsol,” Jada Walter showed how to use a chatbot, model builder, and Comsol’s MCP server to create and debug a model, with AI agents checking the reasoning behind it, not just its syntax."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+          "cap": "This example of using agentic AI in Comsol demonstrates modeling of a mechanical cylinder. (Image: Comsol.)"
+        }
+      ]
+    },
+    "design/figma-specs-agent-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "When teams are going from prototype to production faster than ever, written requirements, design details, and engineering guidance often end up scattered across separate documents and links. Specs provides a shared container for context right on the canvas, where teammates and agents can contribute together. In this workflow, an engineer at Pickup, a fictional marketplace shopping app, uses Specs and the Figma agent to turn sprawling context into a plan their coding agent can build from."
+        },
+        {
+          "t": "p",
+          "x": "With the Hex connector added, the engineer prompts the agent to find where Pickup has the most usage. The agent produces a spec with app usage and order volume by city, plus code layers showing maps for the top four cities. The team decides to launch in Bengaluru, India."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+          "cap": "The Figma agent creates a usage report and four map code layers to help the team compare potential launch cities."
+        },
+        {
+          "t": "p",
+          "x": "The engineer selects the technical spec, annotated design frames, interactive map code layer, new component, and design system guidance, then runs the team's build-implementation-plan skill. The agent creates a new spec that brings those inputs together into a plan for a coding agent to build the feature."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+          "cap": "The agent creates a spec with an implementation plan for the engineer to review before handing it to a coding agent."
+        },
+        {
+          "t": "p",
+          "x": "After fixing details through comments with the agent and a designer, the engineer pastes the spec link into Codex and prompts: \"Implement this feature.\" Through Figma's MCP, Codex can read the spec, annotated frames, code layers, and design system components with just one link. Specs is in open beta on all plans and available on web, desktop, and mobile."
+        }
+      ]
     }
   }
 }

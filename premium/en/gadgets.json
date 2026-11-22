@@ -13295,6 +13295,163 @@
           "x": "Gemini for Home was announced last year, so it’s not exactly a shock that Google is going to move on from Google Assistant in the smart home (especially when the company also killed Google Assistant on phones earlier this year). The company says it plans to share more updates about the changes ahead of the August 2027 transition."
         }
       ]
+    },
+    "gadgets/genspark-secondbrain-voicepad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
+          "cap": "The SecondBrain VoicePad aims to help you get more done at your desk with just five keys."
+        },
+        {
+          "t": "p",
+          "x": "Genspark has unveiled the SecondBrain VoicePad, an input device for Windows PCs and Macs that combines physical macro keys with voice controls and is designed to work with nearly any AI tool or app. The 85-gram aluminum gadget comes to Kickstarter on November 24, 2026, with first units expected in January 2027."
+        },
+        {
+          "t": "p",
+          "x": "Its five programmable keys use CHERRY MX Ultra Low Profile switches; it connects via Bluetooth or USB-C and lasts around 20 hours. Two noise-canceling microphones capture voice: press and hold the bottom key to turn speech into text at the cursor, with filler words removed. A double tap records conversations to built-in memory even when not connected to a computer; software then transcribes them, generates a summary and next steps, and translates from more than 50 languages into English."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
+          "cap": "Each of the five keys can be customized to suit your work."
+        },
+        {
+          "t": "p",
+          "x": "Keys can be reassigned to apps, shortcuts or AI tools such as ChatGPT, Claude, Gemini, Grok or Notion. The regular price is $169; Kickstarter backers pay $119 to $149, and a reservation secures $99."
+        }
+      ]
+    },
+    "gadgets/obsbot-tail-air2-ptz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Obsbot's new Tail Air 2, an update to its compact, battery-powered PTZ camera, moves from 8.4 to 50 megapixels with a 1-inch sensor, adds a true vertical mode (a roll axis), doubles frame rates to 4K/60 and 1080P/120, and claims 13.5 stops of LOFIC HDR."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Obsbot's goal is to give streamers \"prosumer\" cameras with automatic subject tracking, so a single director — perhaps even a solo creator — can have cameras that track them using AI. \"AI Tracking 2.0\" can follow people, more than 30 species of animal and over 200 object categories, keeping the camera level even on an uneven surface."
+        },
+        {
+          "t": "p",
+          "x": "It works over Wi-Fi 6 or wired (Ethernet, SRT, RTSP, RTMP, and NDI HX3 on a specific variant), records locally and starts at $899 / £670 ($999 / £750 for NDI). The bigger Tail 2 ADV, with 21x optical zoom and a 1/2in sensor, is on pre-order for $1,399 / £1250."
+        }
+      ]
+    },
+    "gadgets/gemini-android-camera-redesign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google has thoroughly redesigned Gemini for Android's in-app camera that lets you quickly add an image to prompts."
+        },
+        {
+          "t": "p",
+          "x": "Available from the 'plus' menu in the prompt box, the old interface launched a fullscreen viewfinder that was quite generic. This UI is still in use when you launch the camera from the Gemini overlay."
+        },
+        {
+          "t": "p",
+          "x": "The new one appears inline on the Gemini homepage or inside a conversation. It launches as a bottom sheet that you can drag up — with a really slick animation — to take up most of the screen."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This nearly edge-to-edge redesign, which extends behind the system navigation bar, is a stark contrast to the old approach."
+        },
+        {
+          "t": "p",
+          "x": "To the right of the capture button is a three-dot overflow button that animates on open, revealing options to control the flash and switch to the front-facing camera. There's a back button on the other side, but you can also just swipe down."
+        },
+        {
+          "t": "p",
+          "x": "This camera redesign first launched in the Gemini for iOS app, but has now widely rolled out on Android in both the beta and stable (version 17.76+) channels. Be sure to Force stop the Google app if you're not seeing it live yet."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This follows the launch of GIF creation in the Gemini app yesterday. Powered by Gemini Omni 1.2 Flash, select GIF from the Format menu or specify \"Create a GIF\" in your prompt. Google frames this feature as an alternative to searching for GIFs."
+        }
+      ]
+    },
+    "gadgets/meta-muse-charm-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta reportedly plans to sell the Muse Charm, a Tamagotchi-esque gadget for talking to its Muse AI agent, for $300, according to The Information. Meta introduced it at Connect in September as a way to use its agent without reaching for a smartphone, and said it would launch in time for the holidays."
+        },
+        {
+          "t": "p",
+          "x": "Mark Zuckerberg said the Muse Charm packs \"the whole Muse experience, including the real-time voice and avatar stack into something that fits on a keychain and is always available to talk to.\" It features a fingerprint reader to verify your identity before you give commands and will come with up to 12 months of free 5G data from Verizon, The Information reports."
+        },
+        {
+          "t": "p",
+          "x": "In October, Meta shared open source guides for developers to build their own \"Muse Gadgets.\" The agent has already drawn more than 10 million users, and Meta also released a Muse app for Wear OS and watchOS. Meta appears to want to own its relationship with customers directly, free of Apple's and Google's rules, and is working on commerce tools to charge businesses a fee when Muse users make a purchase via the agent."
+        }
+      ]
+    },
+    "gadgets/rayneo-io-lifelog-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+          "cap": "© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "The $499 RayNeo IO Smart Glasses drop cameras in favor of AI, a monochrome display and productivity features — notifications, weather, transcription, translation and audio recording — with no speakers."
+        },
+        {
+          "t": "p",
+          "x": "An optional feature in the RayNeo AI app called Lifelog uses the glasses' microphone to listen throughout your day, providing a summary and a transcription of everything it captures and pulling out actionable items. It sometimes bordered on useful, but its AI summaries were hyperbolic and once confused the reviewer with a colleague."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+          "cap": "RayNeo will auto-populate to-dos if you keep Lifelog active. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "RayNeo says it doesn't store audio recordings, but it does hold onto text transcripts, and the only sign the glasses are listening is an LED on the right temple tip that is easy to miss."
+        },
+        {
+          "t": "p",
+          "x": "AI translation was snappy and mostly accurate, live captions got the broad strokes, and a voice-cued teleprompter worked fairly well. A beta Live Answers feature felt regurgitative."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+          "cap": "This is a glimpse of what the teleprompter looks like in the glasses. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "The hardware is light and comfortable, with a Smart Dial digital crown and a bright binocular display; battery is rated up to 48 hours of typical use, 18 hours with continuous audio recording. The verdict: useful in places, but persistent, discreet listening isn't worth the privacy trade-off."
+        }
+      ]
     }
   }
 }

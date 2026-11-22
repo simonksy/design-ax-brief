@@ -19066,6 +19066,161 @@
           "x": "이제 리서치 산출물을 읽는 쪽은 둘이다. 팀원과, 디자인 과정에 쓰이는 AI 도구다. UX-context design(UX 맥락 설계)은 AI-generated 디자인을 이끌 UX 지식을 고르고 정리하고 유지하는 일이다."
         }
       ]
+    },
+    "design/siemens-agibot-gripper-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+          "cap": "AM 엔지니어링과 생산을 디지털 스레드 하나로 잇는 Siemens의 Industrial AI 콘셉트. 사진: Siemens."
+        },
+        {
+          "t": "p",
+          "x": "Siemens는 Industrial AI로 움직이는 적층제조(AM)용 엔드투엔드 Digital Thread를 만들고 있다. 엔지니어링 단계에서는 설계 조정과 가상 검증부터 제조 준비까지 단계마다 AI 에이전트가 맡는다."
+        },
+        {
+          "t": "p",
+          "x": "Siemens와 AGIBOT은 이 워크플로를 휴머노이드 로봇용 그리퍼로 시연한다. 사용자가 다룰 물체와 로봇이 할 작업을 설명하면 AI 에이전트가 알맞은 그리퍼 유형을 고른다. 이어 Siemens의 Designcenter에서 형상을 조정하고 시뮬레이션을 돌려 로봇 인터페이스와 핸들링까지 검증한다. 에이전트는 MCP 통합 덕분에 엔지니어링 소프트웨어 기능을 쓰고 작업 단계를 조율한다. 워크플로는 Frankfurt에서 열리는 Formnext 2026에서 공개된다."
+        },
+        {
+          "t": "p",
+          "x": "“시간이 많이 드는 과정에서 변형안을 일일이 손으로 설계하는 대신, 에이전틱 워크플로가 구체적인 요구사항에 맞춰 엔지니어링 작업을 조율할 수 있습니다.” Siemens 적층제조 부문 부사장 Karsten Heuser의 말이다."
+        },
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+          "cap": "Siemens의 Erlangen 전자 공장에 들어설 적응형 생산 셀. AM, 자동화, 후처리, 소프트웨어를 공정 체인 하나로 묶는다. 사진: Siemens."
+        },
+        {
+          "t": "p",
+          "x": "Siemens는 EOS, AM Solutions와 손잡고 Erlangen 전자 공장에 적응형 생산 셀을 짓고 있다. Synera와 Ai Build도 기존 AM 소프트웨어를 다루는 AI 에이전트와 텍스트 입력으로 비슷한 길을 걸어왔다."
+        }
+      ]
+    },
+    "design/gemini-omni-gif-maker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Google Gemini가 이제 GIFs도 만든다. 텍스트 프롬프트나 사진, 영상을 넣으면 짧은 애니메이션 루프를 뽑아 주는 기능으로, Google의 Gemini Omni 1.2 Flash 영상 모델로 돌아간다. ChatGPT는 이미 자체적으로 GIFs를 만들 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 메인 채팅에서 원하는 애니메이션을 설명해도 되고, 이미지·영상 생성 도구를 열어 형식 선택기에서 GIF를 고른 뒤 프롬프트를 넣어도 된다. 리액션 밈용 기성 템플릿이 있고 업로드한 사진과 영상을 참고 자료로 쓸 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "애니메이션은 약 세 초 길이로 자동 반복된다. 지원되는 앱이나 메시지, 이메일, 문서에 복사해 붙이거나 표준 .gif 파일로 내려받으면 된다."
+        },
+        {
+          "t": "p",
+          "x": "GIF 생성은 전 세계 Google AI 구독자에게 배포되고 있다. 무료 사용자는 미국(US), 캐나다, 영국(UK), 호주, 일본, 한국, 독일, 프랑스 여덟 개국에서 쓸 수 있다. 배포는 단계적으로 이뤄지며 Gemini 도움말 문서에는 여전히 Google AI 요금제가 필요 조건으로 적혀 있다."
+        }
+      ]
+    },
+    "design/webflow-mcp-designer-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "디자이너 Yudit Lynn Lee는 원래 모든 걸 손으로 했다. Figma에서 디자인하고 Webflow에서 직접 구축한 뒤 작은 스크립트나 Webflow 인터랙션 패널로 인터랙션을 붙였다. 지금은 Claude와 함께 전체 경험을 코드로 프로토타이핑하고, 이를 Webflow MCP가 섹션별로 Webflow에 옮긴다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "초기 비주얼 방향과 기본 레이아웃은 여전히 Figma에서 잡는다. 전체 경험은 Claude와 함께 로컬에서 index.html과 로컬 서버로 프로토타이핑한다. 브라우저에서 바로 보고 만져 보며 여러 안을 나란히 띄워 볼 수 있어서다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "결과가 마음에 들면 Claude에게 구조, 클래스 이름, CSS를 갖춘 Webflow 페이지로 옮겨 달라고 한다. 모션은 Webflow MCP를 거쳐 커스텀 코드로 가져온다. “이제 손으로 직접 만드는 건 아무것도 없다.”"
+        },
+        {
+          "t": "p",
+          "x": "그는 Webflow 사이트가 쓰는 프레임워크(예: Lumos)와 명명 규칙, 변수를 Claude에게 미리 알려 주라고 권한다. 페이지 전체를 만들 때는 새 컨텍스트 창에서 섹션별로 나눠 작업하고, 필요하면 서브에이전트로 병렬 처리까지 하라는 것이다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+        }
+      ]
+    },
+    "design/comsol-2026-mcp-server": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Comsol Conference 2026(10월 7–9일)을 맞아 엔지니어와 과학자들이 Massachusetts주 Burlington에 모였다. Comsol의 Bjorn Sjodin은 미니 강좌에서 새 모듈과 기능, AI 기능을 담은 Comsol 2027을 소개했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+          "cap": "Comsol 2027에는 AI로 시뮬레이션 개발을 쉽게 하는 새 기능이 특히 많다. (이미지: Comsol)"
+        },
+        {
+          "t": "p",
+          "x": "Comsol의 MCP 서버에 AI 에이전트(AI Agents)를 연결하면 과학자와 엔지니어가 에이전트로 모델과 공정, 방정식을 만들어 문제의 해법을 찾을 수 있다. Comsol 2027은 소프트웨어 챗봇과 Application Builder, Java Shell도 Mac과 Linux에서 쓸 수 있게 했다."
+        },
+        {
+          "t": "p",
+          "x": "Cosmon CEO Rui Aguiar는 기조연설에서 자사 제품 Argus로 산업용 시뮬레이션에 에이전틱 AI를 적용하는 사례를 소개했다. 시뮬레이션의 목표를 정하고 결과를 검증하는 일은 엔지니어 몫이라는 점도 강조했다. 그가 보여 준 모델은 측정 결과와의 편차가 0.2%였다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+          "cap": "Rui Aguiar 발표 슬라이드 사진. (사진: Martin Rowe)"
+        },
+        {
+          "t": "p",
+          "x": "Jada Walter는 “Generative and Agentic AI with Comsol” 세션에서 챗봇, 모델 빌더, Comsol의 MCP 서버로 모델을 만들고 디버깅하는 과정을 보여 줬다. AI 에이전트는 문법뿐 아니라 모델 뒤에 깔린 추론까지 점검했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+          "cap": "기계식 실린더 모델링에 에이전틱 AI를 활용한 Comsol 예시. (이미지: Comsol)"
+        }
+      ]
+    },
+    "design/figma-specs-agent-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "팀이 프로토타입에서 프로덕션으로 어느 때보다 빠르게 넘어가면서 글로 쓴 요구사항과 디자인 세부 사항, 엔지니어링 지침이 제각각 다른 문서와 링크로 흩어지기 일쑤다. Specs는 이런 맥락을 캔버스 위에 모아 두는 공유 공간이다. 팀원과 에이전트가 함께 내용을 보탠다. 아래 워크플로에서는 가상의 마켓플레이스 쇼핑 앱 Pickup의 엔지니어가 Specs와 Figma 에이전트로 흩어진 맥락을 모아 코딩 에이전트가 구현할 계획으로 정리한다."
+        },
+        {
+          "t": "p",
+          "x": "엔지니어는 Hex 커넥터를 추가한 뒤 Pickup이 가장 많이 쓰이는 곳을 찾아 달라고 에이전트에게 요청한다. 에이전트는 도시별 앱 사용량과 주문량을 정리한 스펙을 만들고 상위 네 개 도시를 지도로 보여 주는 코드 레이어도 함께 내놓는다. 팀은 인도(India) Bengaluru에서 출시하기로 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+          "cap": "Figma 에이전트가 만든 사용량 보고서와 지도 코드 레이어 네 개로 팀은 출시 후보 도시를 비교한다."
+        },
+        {
+          "t": "p",
+          "x": "엔지니어는 기술 스펙, 주석을 단 디자인 프레임, 인터랙티브 지도 코드 레이어, 새 컴포넌트, 디자인 시스템 가이드를 골라 팀의 build-implementation-plan 스킬을 실행한다. 에이전트는 이 재료를 한데 묶어 코딩 에이전트가 기능을 구현할 때 따를 계획을 새 스펙으로 만든다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+          "cap": "에이전트가 구현 계획을 스펙으로 정리하면 엔지니어가 코딩 에이전트에 넘기기 전에 검토한다."
+        },
+        {
+          "t": "p",
+          "x": "엔지니어는 에이전트, 디자이너와 댓글로 세부 사항을 다듬은 뒤 스펙 링크를 Codex에 붙여 넣고 “이 기능을 구현해(Implement this feature.)”라고 지시한다. Codex는 Figma의 MCP 덕분에 링크 하나만으로 스펙, 주석 프레임, 코드 레이어, 디자인 시스템 컴포넌트를 모두 읽어 들인다. Specs는 모든 요금제에 오픈 베타로 열려 있고 웹, 데스크톱, 모바일에서 쓸 수 있다."
+        }
+      ]
     }
   }
 }

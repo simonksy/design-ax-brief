@@ -1,31 +1,32 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "marketing",
   "media": [
     {
-      "id": "google-ucp-grocery-carts-gemini",
+      "id": "amazon-brandstore-agent",
       "type": "image",
-      "src": "pipeline/media/google-ucp-grocery-carts-gemini.jpg"
+      "src": "pipeline/media/amazon-brandstore-agent.jpg"
     },
     {
-      "id": "verve-amazon-ai-answer-share",
-      "type": "image",
-      "src": "pipeline/media/verve-amazon-ai-answer-share.jpg"
+      "id": "aws-quick-meta-ads-mcp",
+      "type": "video",
+      "src": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
+      "poster": "pipeline/media/aws-quick-meta-ads-mcp.jpg"
     },
     {
-      "id": "oliveyoung-define-omni-agentic",
+      "id": "google-aimode-multiturn-ads",
       "type": "image",
-      "src": "pipeline/media/oliveyoung-define-omni-agentic.jpg"
+      "src": "pipeline/media/google-aimode-multiturn-ads.jpg"
     },
     {
-      "id": "walmart-connect-agentic-ads",
+      "id": "bitmovin-gam-scene-signals",
       "type": "image",
-      "src": "pipeline/media/walmart-connect-agentic-ads.jpg"
+      "src": "pipeline/media/bitmovin-gam-scene-signals.jpg"
     },
     {
-      "id": "openai-business-hub-terms-rewrite",
+      "id": "agentic-black-friday-rocky",
       "type": "image",
-      "src": "pipeline/media/openai-business-hub-terms-rewrite.jpg"
+      "src": "pipeline/media/agentic-black-friday-rocky.jpg"
     }
   ]
 }

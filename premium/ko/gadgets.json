@@ -18560,6 +18560,163 @@
           "x": "Gemini for Home이 지난해 발표된 만큼 Google이 스마트홈에서 Google Assistant를 정리하는 건 그리 놀랍지 않다(회사는 올해 초 휴대폰의 Google Assistant도 종료했다). 2027년 8월 전환 전에 추가 소식을 내놓겠다고 회사는 밝혔다."
         }
       ]
+    },
+    "gadgets/genspark-secondbrain-voicepad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
+          "cap": "SecondBrain VoicePad는 키 다섯 개로 책상 위 일을 더 많이 처리하게 해 주려는 기기다."
+        },
+        {
+          "t": "p",
+          "x": "Genspark가 Windows PCs와 Macs용 입력 장치 SecondBrain VoicePad를 공개했다. 물리 매크로 키에 음성 제어를 묶었고 거의 모든 AI 도구와 앱에서 쓰도록 만들었다. 85-gram 알루미늄 기기로 2026년 11월 24일 Kickstarter에 올라오며 첫 제품은 2027년 1월에 나온다."
+        },
+        {
+          "t": "p",
+          "x": "프로그래밍할 수 있는 키 다섯 개에는 CHERRY MX Ultra Low Profile 스위치를 달았다. Bluetooth나 USB-C로 연결하고 약 20시간 쓸 수 있다. 음성은 노이즈 캔슬링 마이크 두 개가 받는다. 맨 아래 키를 길게 누르면 말한 내용이 커서 자리에 글자로 찍히고 군말은 빠진다. 두 번 탭하면 컴퓨터와 연결되지 않은 상태에서도 대화를 내장 메모리에 녹음한다. 나중에 소프트웨어가 녹음을 전사해 요약과 다음 할 일을 뽑고, 50개가 넘는 언어를 영어로 옮긴다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
+          "cap": "키 다섯 개는 저마다 원하는 작업에 맞춰 설정한다."
+        },
+        {
+          "t": "p",
+          "x": "키마다 앱이나 단축키, ChatGPT, Claude, Gemini, Grok, Notion 같은 AI 도구를 새로 지정할 수 있다. 정가는 $169다. Kickstarter 후원자는 $119~$149를 내고, 미리 예약하면 $99에 살 수 있다."
+        }
+      ]
+    },
+    "gadgets/obsbot-tail-air2-ptz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Obsbot의 새 Tail Air 2는 배터리로 돌아가는 소형 PTZ 카메라의 후속작이다. 1-inch 센서를 달고 화소를 8.4메가픽셀에서 50메가픽셀로 끌어올렸다. 롤 축을 쓰는 진짜 세로 모드가 생겼고, 프레임 레이트는 두 배로 늘어 4K/60과 1080P/120을 지원한다. 13.5스톱 LOFIC HDR도 내세운다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Obsbot은 피사체를 알아서 쫓는 “프로슈머” 카메라를 스트리머에게 내놓으려 한다. 연출자 한 명, 어쩌면 혼자 활동하는 크리에이터도 AI로 자기를 따라다니는 카메라를 쓰게 하겠다는 것이다. “AI Tracking 2.0”은 사람과 30종이 넘는 동물, 200개가 넘는 사물 범주를 쫓고, 바닥이 고르지 않아도 카메라 수평을 맞춘다."
+        },
+        {
+          "t": "p",
+          "x": "Wi-Fi 6이나 유선(Ethernet, SRT, RTSP, RTMP, 특정 모델은 NDI HX3)으로 연결하고 로컬 녹화도 된다. 가격은 $899 / £670부터다(NDI 모델은 $999 / £750). 21x 광학 줌과 1/2in 센서를 단 더 큰 Tail 2 ADV는 $1,399 / £1250에 사전 주문을 받는다."
+        }
+      ]
+    },
+    "gadgets/gemini-android-camera-redesign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google이 Gemini for Android 앱의 카메라를 크게 새로 디자인했다. 프롬프트에 이미지를 빠르게 붙일 때 여는 그 카메라다."
+        },
+        {
+          "t": "p",
+          "x": "프롬프트 입력창의 'plus' 메뉴에서 여는 기존 인터페이스는 꽤 평범한 전체 화면 뷰파인더를 띄웠다. Gemini 오버레이에서 카메라를 켜면 지금도 이 UI가 나온다."
+        },
+        {
+          "t": "p",
+          "x": "새 카메라는 Gemini 홈 화면이나 대화 안에 인라인으로 뜬다. 하단 시트로 열리고, 위로 끌어 올리면 아주 매끄러운 애니메이션과 함께 화면 대부분을 채운다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "시스템 내비게이션 바 뒤까지 뻗어 거의 엣지 투 엣지에 가깝다. 기존 방식과는 확연히 다르다."
+        },
+        {
+          "t": "p",
+          "x": "촬영 버튼 오른쪽에는 점 세 개짜리 더보기 버튼이 있다. 누르면 애니메이션과 함께 펼쳐지면서 플래시 조절과 전면 카메라 전환 옵션이 나온다. 반대편에 뒤로 가기 버튼이 있지만 아래로 쓸어내려 닫아도 된다."
+        },
+        {
+          "t": "p",
+          "x": "이 디자인은 Gemini for iOS 앱에 먼저 들어갔고, 이제 Android 베타와 안정판(버전 17.76+) 채널 양쪽에 널리 풀렸다. 아직 안 보이면 Google 앱을 Force stop 해 보면 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "어제는 Gemini 앱에 GIF 생성 기능이 나왔다. Gemini Omni 1.2 Flash로 돌아가며, Format 메뉴에서 GIF를 고르거나 프롬프트에 “Create a GIF”라고 적으면 된다. Google은 GIFs 검색 대신 쓰라고 이 기능을 내세운다."
+        }
+      ]
+    },
+    "gadgets/meta-muse-charm-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Information에 따르면 Meta는 자사 Muse AI 에이전트와 대화하는 다마고치 같은(Tamagotchi-esque) 기기 Muse Charm을 $300에 팔 계획이다. Meta는 9월 Connect에서 스마트폰을 꺼내지 않고 에이전트를 부르는 기기로 이를 소개했고, 연말 연휴 시즌에 맞춰 내놓겠다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Mark Zuckerberg는 Muse Charm이 “실시간 음성과 아바타 스택을 포함한 Muse 경험 전체를 열쇠고리에 달 수 있고 언제든 대화할 수 있는 기기에” 담았다고 말했다. The Information 보도로는 명령을 내리기 전에 본인인지 확인하는 지문 인식기가 달렸고, Verizon 5G 데이터도 최대 12개월 무료로 준다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 10월 개발자가 “Muse Gadgets”를 직접 만들도록 오픈소스 가이드를 공개했다. 에이전트 사용자는 이미 1,000만 명을 넘었고, Wear OS와 watchOS용 Muse 앱도 나왔다. Meta는 Apple과 Google의 규칙을 벗어나 고객 관계를 직접 쥐려는 모양새다. Muse 사용자가 에이전트로 물건을 살 때 기업에 수수료를 물리는 커머스 도구도 만들고 있다."
+        }
+      ]
+    },
+    "gadgets/rayneo-io-lifelog-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+          "cap": "© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "$499짜리 RayNeo IO Smart Glasses는 카메라 대신 AI와 흑백 디스플레이, 알림·날씨·받아쓰기·번역·녹음 같은 생산성 기능을 넣었다. 스피커는 없다."
+        },
+        {
+          "t": "p",
+          "x": "RayNeo AI 앱의 선택 기능인 Lifelog는 안경 마이크로 하루 내내 소리를 듣는다. 포착한 내용은 모두 요약과 받아쓰기로 정리하고 할 일도 뽑아낸다. 쓸모 있는 수준에 가까울 때도 있었지만 AI 요약은 과장이 심했고, 한 번은 리뷰어를 동료로 착각했다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+          "cap": "Lifelog를 켜 두면 RayNeo가 할 일 목록을 알아서 채운다. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "RayNeo에 따르면 오디오 녹음은 저장하지 않지만 텍스트 받아쓰기는 보관한다. 안경이 듣는 중임을 알리는 표시는 오른쪽 안경다리 끝 LED 하나뿐인데, 놓치기 쉽다."
+        },
+        {
+          "t": "p",
+          "x": "AI 번역은 빠르고 대체로 정확했다. 실시간 자막은 큰 줄기를 잡아냈고 음성 신호로 넘기는 텔레프롬프터도 꽤 잘 작동했다. 베타 기능 Live Answers는 같은 말을 되풀이하는 느낌이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+          "cap": "안경 속 텔레프롬프터는 이렇게 보인다. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "하드웨어는 가볍고 편하다. Smart Dial 디지털 크라운과 밝은 양안 디스플레이도 갖췄다. 배터리는 일반 사용 시 최대 48시간, 연속 녹음 시 18시간으로 표기돼 있다. 쓸모 있는 구석은 있어도, 쉼 없이 조용히 듣는 기능은 사생활을 내줄 만큼의 가치가 없다는 게 결론이다."
+        }
+      ]
     }
   }
 }

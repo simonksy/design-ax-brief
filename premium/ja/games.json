@@ -12338,6 +12338,120 @@
           "x": "Robloxはまた、クリエイターが近くオフラインのソロプレイを有効にできるようになり、mid-2027の正式リリースに先立ってアーリーアクセスを提供すると発表した。"
         }
       ]
+    },
+    "games/wotc-anthropic-payout-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+          "cap": "R.A. Salvatore著『Lolth's Warrior』(Image credit: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "D&DとMagic: The Gatheringのパブリッシャーである Wizards of the Coastは、Claude AIの開発元Anthropicを相手取った $1.5 billion の著作権訴訟で請求者の一つだった。Wargamerによると、訴訟対象の作品ごとの標準支払額は $3,000 で、著者と出版社で50/50に分ける。だがWizardsは、自社の取り分である半分も著者に渡す。対象は主に同社と契約する独立系ライターで、R.A. Salvatoreのような大物も含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "フリーランスのライター兼編集者James LowderはLinkedInにこう書いた。\"これは注目すべきことで、WotCが受け取れたはずの数十万ドルが作家に渡ることになる。しかもWizardsは、大手出版社が著者からできる限り多くの和解金を確保しようと躍起になっている時期にこれを行っている。\" 彼は著者側から始まった議論、とりわけR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
+        },
+        {
+          "t": "p",
+          "x": "PC GamerのTed Litchfieldは、Wizardsが近年、AIの使用（マーケティング素材やD&DソースブックでのAIアート）と社内の労使関係で評判を落としてきたこと、そしてこの金額は数十億ドル規模の事業にとってははした金にすぎないことを指摘する。\"Wizards of the Coastは間違いなく正しいことをした。だが、安く買ったPRの勝利だと思う。\""
+        }
+      ]
+    },
+    "games/activision-voicechat-npc-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Activisionは、AI-powered NPCsがプレイヤーと同じように話すよう学習させる特許を出願した。Dexertoによると、特許の名称は\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"で、ボイスチャットの音声を使ってゲーム内のNPCsをよりリアルに聞こえるようにする方法を記している。声をそのまま複製するのではなく、プレイヤーの発言内容と反応の仕方を再現するという。特許はCall of Dutyに明示的には触れていないが、Activisionの看板フランチャイズである以上、そこで使われる可能性が高い。"
+        },
+        {
+          "t": "p",
+          "x": "キル、デス、敗北といった特定のゲームイベントの前後約10秒の音声を取り込み、同じ場面でのNPCsのふるまいを形づくる。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "音声データをNPCsの学習に使う仕組みを示すActivisionの特許。"
+        },
+        {
+          "t": "p",
+          "x": "特許はDiscordやTeamSpeakにも触れ、別々のアプリケーション間でタイムスタンプを照合する。不快な言葉を防ぐフィルターを入れるとしているが、ボイスチャット音声の使用許可を求めることには一切触れていない。もっとも、Activisionがこの技術の特許を取ったからといって、ゲームに実装されるとは限らない。"
+        }
+      ]
+    },
+    "games/metahuman-markerless-mocap-insideunreal": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zd7DCFBLCcc"
+        },
+        {
+          "t": "p",
+          "x": "新しいMetaHuman Animator Markerless Motion Captureプラグインによる全身アニメーションを掘り下げる。このプラグインは、スマホやウェブカメラで撮った普通の映像をMetaHumanキャラクターのアニメーションに変える。EpicのリサーチチームのMichael Blackが技術の仕組みを解説し、Ben Kiddが実際のプロジェクトでの使い方を撮影から最終ショットまで紹介する。映画監督のMartin Bellも参加し、インディーのクリエイターがこれで何をできるかを見せる。"
+        }
+      ]
+    },
+    "games/motokare-deathgame-fmv-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+        },
+        {
+          "t": "p",
+          "x": "中国のインディー開発スタジオLIUGUANG STUDIOは，現在開発中の新作「元カレ×デスゲーム」を2026年12月4日に基本プレイ無料で配信すると発表した。"
+        },
+        {
+          "t": "video",
+          "yt": "G9s6lRSfhMg"
+        },
+        {
+          "t": "p",
+          "x": "本作は，映像やキャラクター，ストーリーの制作に生成AIを活用した，実写風の映像が特徴のFMV（フルモーションビデオ）アドベンチャーだ。プレイヤーは100人の元カレたちに復讐しようとする傑物「スー・ウェイ」となり，海上に浮かぶ一隻の豪華客船に彼らを閉じ込め，残酷なデスゲームを開催する。デスゲームでは命がけの試練が用意されており，それを通じて元カレたちの嘘を暴き，過去の裏切りに決着をつけることがスー・ウェイの目的だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+        },
+        {
+          "t": "p",
+          "x": "「本音か罰ゲームか」「ガラスの橋」「深海のウソ探知機」といった試練が登場する。ゲームが進むにつれて試練は過酷さを増し，参加者たちは余裕を失って，隠していた本性があらわになっていく。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "中国では近年，技術の発展とともに生成AIを利用したショートドラマの制作が急速に広がっており，2026年上半期には中国版TikTok「抖音」で約22万本のAI生成ドラマが公開された。本作も，こうした潮流のなかで登場する作品といえる。「元カレ×デスゲーム」（PC）は2026年12月4日にSteamで配信予定で，基本プレイ無料となる。"
+        }
+      ]
+    },
+    "games/epic-ue6-blueprint-ai-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+        },
+        {
+          "t": "p",
+          "x": "Marcus Wassmerによると、UE6 Early Accessを含むUE6にはBlueprintsとActor Gameplay Frameworkが含まれず、ゲームプレイはVerseと新しいScene Graphフレームワークで構築される。Epicは六月、UE6 Early Accessと6.0でBlueprintsとActorsが共存すると説明していたが、「最近のAIの能力向上により、UE5プロジェクトのUE6への変換はAIが大きく助けるはずで、完全に自動化できる可能性もある」としている。"
+        },
+        {
+          "t": "p",
+          "x": "Epicが挙げる理由は二つだ。AIによるタスクのコストは年に13x のペースで下がっている。そして二週間前、EpicはAIでFortnite Battle RoyaleのBlueprintsをすべてVerseに変換する実験を行った。何年もかかると見込まれていたプロジェクトは、20,000を超えるBlueprintsを移植した結果、約300万行のVerseコードによる動作するプロトタイプに到達した。"
+        },
+        {
+          "t": "p",
+          "x": "UE6向けに作られたAIツールは、UE 5.9 MegaJam Previewを皮切りにUE5にも戻ってくる。Pythonスクリプトの拡張、Model Context Protocol(MCP)の改善、ターゲットプラットフォームとしてのWeb、アセットを生成するUnreal Canvasが含まれる。「UE 5.9の多くはAIエージェントで作った。Webプラットフォームの作業もほとんどがそうだ」"
+        }
+      ]
     }
   }
 }

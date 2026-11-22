@@ -5823,6 +5823,149 @@
           "x": "一部のクーポンサイトはGooglebotなどのボットに有効なコードを見せないことを検討するかもしれないが、多くはすでに構造化データでこの情報を共有している。"
         }
       ]
+    },
+    "marketing/aws-quick-meta-ads-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS Quickは本日、Meta広告のAIコネクターを追加した。このコネクターによりQuickは広告向けModel Context Protocol（MCP）サーバーの操作にアクセスできる。Meta広告の顧客は、Metaの広告管理ネットワークとの接続を保ったまま、Quick内で自然言語を使ってキャンペーンの作成・管理・分析ができる。"
+        },
+        {
+          "t": "p",
+          "x": "QuickはMetaの広告管理データをファーストパーティやサードパーティのデータソースと組み合わせ、ダッシュボード、文書、スライド資料、自動化ワークフローを作ることもできる。"
+        },
+        {
+          "t": "video",
+          "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+        },
+        {
+          "t": "p",
+          "x": "動画では、Customize > Connectorsからコネクターをインストールし、Facebookでサインインして、QuickがアクセスできるPages、Businesses、Instagramアカウントを選ぶ手順を示している。あるプロンプトは過去のキャンペーン実績を八枚構成のローンチ計画スライドに変え、別のプロンプトは二つの広告セットの支出、リード、リード単価を比べるダッシュボードを作る。"
+        },
+        {
+          "t": "p",
+          "x": "用途は、キャンペーンの計画と開始、クリエイティブ疲れの検知から、コンバージョンリフト調査、カタログ修正、在庫や利益率に合わせた支出調整まで幅広い。Quickはキャンペーンの作成や予算の変更などの書き込み操作を行う前に、ユーザーの許可を求める。"
+        }
+      ]
+    },
+    "marketing/google-aimode-multiturn-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+          "cap": "Google AI Modeの広告は追加質問への回答の下に表示され、四問目まで確認された"
+        },
+        {
+          "t": "p",
+          "x": "Search Engine RoundtableのBarry Schwartzは2026年11月6日、ログアウト状態のデスクトップでGoogle AI Modeを試した。\"which foldable phone should I get\"（どの折りたたみスマホを買うべきか）と尋ねると、最初の回答の下に、MotorolaとSamsungの折りたたみ端末を並べた商品カード四枚の「Sponsored」ユニットが表示された。"
+        },
+        {
+          "t": "p",
+          "x": "続く追加質問\"i love iphones, does the duo need a case?\"（アイフォンが好きだが、duoにケースは必要か）には、ケースのカード四枚からなる二つ目のSponsoredユニットが出た。三枚はVyrloom、一枚はOtterBoxだった。三つ目と四つ目の追加質問でも広告が出たと彼は報告している。どちらの有料ユニットにもAppleやGoogleの製品はなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは10月28日にUS向けのマルチターン広告を発表し、広告は「ユーザーの追加質問への回答に表示される」と説明した。Search、Shopping、Performance Maxのキャンペーンは自動的に対象となり、広告主はAI Modeだけを狙うことも、Searchと切り離してAI Modeを除外することもできない。"
+        },
+        {
+          "t": "p",
+          "x": "レポートは集計値のみだ。インプレッション、クリック、コンバージョン、費用は通常のキャンペーンレポートにまとめられ、最初のターンと五ターン目を区別するものはない。"
+        }
+      ]
+    },
+    "marketing/bitmovin-gam-scene-signals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+          "cap": "Bitmovin Chief Product Officer、Reinhard Grandl"
+        },
+        {
+          "t": "p",
+          "x": "Bitmovinは、自社のAI Scene AnalysisとGoogle Ad Managerのpublisher-provided signals（PPS）の連携を発表した。バイヤーは作品全体に付く単一のラベルではなく、パブリッシャーの映像コンテンツについてシーンごとの文脈を得られる。"
+        },
+        {
+          "t": "p",
+          "x": "BitmovinのVOD EncoderとPlayerにあらかじめ統合されたAI Scene Analysisは、あらゆるアセットの全シーンを言語を問わず分析し、IAB Content Taxonomyのカテゴリーに対応付け、自然な区切りを示す広告機会スコアを付与する。"
+        },
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+          "cap": "シーン単位とオーディエンスのシグナルが、エンコード済みアセットからBitmovinのPlayerとIMA SDKを経てGoogle Ad Managerへ届く流れ"
+        },
+        {
+          "t": "p",
+          "x": "BitmovinのPlayerは広告リクエストのたびに、パブリッシャーのファーストパーティ・オーディエンスセグメントとともに、これらのシグナルをIMA SDK経由でGoogle Ad Managerに渡す。Open Auction、Private Auction、Preferred Deals、Programmatic Guaranteedのすべてで機能し、ユーザー識別子はバイヤーと共有しない。"
+        },
+        {
+          "t": "p",
+          "x": "この連携は、AI Scene AnalysisとBitmovinのPlayerをGoogle IMA SDKと組み合わせて使うBitmovin顧客向けに提供が始まっている。CPOのReinhard Grandlは「あらゆるシーンが、どの言語でも自らの文脈を自動的に広告リクエストへ載せられるようになった」と述べた。"
+        }
+      ]
+    },
+    "marketing/agentic-black-friday-rocky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+          "cap": "AIエージェントは小売に小さいながらも明確な足跡を残しつつある。"
+        },
+        {
+          "t": "p",
+          "x": "Dean MandelosはMetaのMuseエージェントに、料理好きの姉妹への贈り物を尋ねた。エージェントは包丁セットを勧めたが、掲載期限切れや売り切れの商品に行き当たり、AmazonとeBayからは完全にブロックされた。「もっと信頼できる理由が必要だ」と彼は言う。"
+        },
+        {
+          "t": "p",
+          "x": "「AIが本当に意味のある役割を果たせる初めてのBlack Fridayであることは確かだが、まだ完全に自律してはいない」とKantarのアナリストGina Loganは語る。「買い物客の三分の二は少なくとも時々AIを買い物に使っているが、半数以上はいまも自分で購入を決めたいと考えている」"
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+          "cap": "買い物客は習慣をなかなか変えない傾向がある。"
+        },
+        {
+          "t": "p",
+          "x": "Bain & Co.がSimilarwebのデータを分析したところ、AIアシスタントは小売業者のウェブトラフィックの1%未満だった。10月最終週のUberの取引約3億2000万件のうち、AIエージェント経由はわずか約500件だった。All Star Eliteでは、エージェント経由のトラフィックは訪問の約1%で、大半はMuseからだ。"
+        },
+        {
+          "t": "p",
+          "x": "Walmartはエージェント型ショッピングを容易にするツールを展開している一方、AmazonはAlexaを優先して外部ボットをブロックしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+          "cap": "Amazonはサードパーティ製AIエージェントによる自社サイトへの完全なアクセスを遮断している。"
+        }
+      ]
+    },
+    "marketing/google-ucp-grocery-carts-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
+          "cap": "Google、USの買い物客向けにTargetとAlbertsonsのカートをSearchとGeminiに組み込む"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはUSのユーザー向けに、SearchとGeminiアプリでAlbertsons、Safeway、Shaw's、TargetのConnected Appsの提供を始めた。会話から食料品の注文を組み立ててチェックアウトまで進めることができ、GoogleのUniversal Commerce Protocol上で動く。"
+        },
+        {
+          "t": "p",
+          "x": "同じ11月20日の投稿によると、Experianの信用ツールはGeminiからSearchへ移り、H&R BlockはSearch上で税額と還付額を試算できるようになる。今後数週間のうちに、AngiとThumbtackのアカウントもSearchに連携できる。"
+        },
+        {
+          "t": "p",
+          "x": "Googleの例では、AI Modeで作ったTargetの注文が八点で小計$37.49となっている。例はカートで止まり、支払い、代替品、受け取り日時の指定は示されていない。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、商品の順位付けの方法、支払いの処理者、こうした流れに広告が表示されるかどうかを明らかにしていない。リストにWalmartの名前はない。"
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-22",
-  "section": "movies",
-  "media": [
-    {
-      "id": "fincher-cliff-booth-ai",
-      "type": "image",
-      "src": "pipeline/media/fincher-cliff-booth-ai.jpg"
-    },
-    {
-      "id": "caa-lourd-no-fakes-act",
-      "type": "image",
-      "src": "pipeline/media/caa-lourd-no-fakes-act.jpg"
-    },
-    {
-      "id": "raphael-mbc-ai-feature-review",
-      "type": "image",
-      "src": "pipeline/media/raphael-mbc-ai-feature-review.jpg"
-    },
-    {
-      "id": "hampton-tallinn-ai-super-google",
-      "type": "image",
-      "src": "pipeline/media/hampton-tallinn-ai-super-google.jpg"
-    },
-    {
-      "id": "thewrap-genz-ai-film-backlash",
-      "type": "image",
-      "src": "pipeline/media/thewrap-genz-ai-film-backlash.jpg"
-    }
-  ]
+ "date": "2026-11-23",
+ "section": "movies",
+ "media": [
+  {
+   "id": "harari-unknown-deepfake",
+   "type": "image",
+   "src": "pipeline/media/harari-unknown-deepfake.jpg"
+  },
+  {
+   "id": "bisff-ai-competition",
+   "type": "image",
+   "src": "pipeline/media/bisff-ai-competition.jpg"
+  },
+  {
+   "id": "dubai-ai-film-award-2nd",
+   "type": "image",
+   "src": "pipeline/media/dubai-ai-film-award-2nd.jpg"
+  },
+  {
+   "id": "siamsun-ai-shortdrama",
+   "type": "image",
+   "src": "pipeline/media/siamsun-ai-shortdrama.jpg"
+  },
+  {
+   "id": "gwangju-onair-awards",
+   "type": "image",
+   "src": "pipeline/media/gwangju-onair-awards.jpg"
+  }
+ ]
 }

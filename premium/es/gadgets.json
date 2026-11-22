@@ -13339,6 +13339,163 @@
           "x": "Gemini for Home se anunció el año pasado, así que no sorprende demasiado que Google deje atrás a Google Assistant en el hogar inteligente (sobre todo porque la compañía ya retiró Google Assistant de los teléfonos a principios de este año). La compañía dice que planea compartir más novedades sobre los cambios antes de la transición de agosto de 2027."
         }
       ]
+    },
+    "gadgets/genspark-secondbrain-voicepad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
+          "cap": "El SecondBrain VoicePad busca ayudarte a rendir más en tu escritorio con solo cinco teclas."
+        },
+        {
+          "t": "p",
+          "x": "Genspark ha presentado el SecondBrain VoicePad, un dispositivo de entrada para Windows PCs y Macs que combina teclas macro físicas con control por voz y está diseñado para funcionar con casi cualquier herramienta o app de AI. El aparato de aluminio de 85-gram llega a Kickstarter el 24 de noviembre de 2026, y las primeras unidades se esperan en enero de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Sus cinco teclas programables usan interruptores CHERRY MX Ultra Low Profile; se conecta por Bluetooth o USB-C y su batería dura unas 20 horas. Dos micrófonos con cancelación de ruido captan la voz: al mantener pulsada la tecla inferior, el habla se convierte en texto en el cursor, sin muletillas. Con un doble toque graba conversaciones en la memoria integrada incluso sin conexión a un ordenador; después, el software las transcribe, genera un resumen y próximos pasos, y traduce de más de 50 idiomas al inglés."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
+          "cap": "Cada una de las cinco teclas se puede personalizar según tu trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Las teclas pueden reasignarse a apps, atajos o herramientas de AI como ChatGPT, Claude, Gemini, Grok o Notion. El precio normal es de $169; los mecenas de Kickstarter pagan entre $119 y $149, y una reserva asegura un precio de $99."
+        }
+      ]
+    },
+    "gadgets/obsbot-tail-air2-ptz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo Tail Air 2 de Obsbot, una actualización de su cámara PTZ compacta y con batería, pasa de 8.4 a 50 megapíxeles con un sensor 1-inch, añade un auténtico modo vertical (un eje de giro), duplica la frecuencia de imagen hasta 4K/60 y 1080P/120, y promete 13.5 pasos de LOFIC HDR."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El objetivo de Obsbot es ofrecer a los streamers cámaras \"prosumer\" con seguimiento automático del sujeto, para que un solo director —quizá incluso un creador en solitario— tenga cámaras que lo sigan mediante AI. \"AI Tracking 2.0\" puede seguir a personas, más de 30 especies de animales y más de 200 categorías de objetos, y mantiene la cámara nivelada incluso sobre una superficie irregular."
+        },
+        {
+          "t": "p",
+          "x": "Funciona por Wi-Fi 6 o por cable (Ethernet, SRT, RTSP, RTMP y NDI HX3 en una variante concreta), graba en local y parte de $899 / £670 ($999 / £750 para NDI). El Tail 2 ADV, más grande, con zoom óptico 21x y sensor 1/2in, está en preventa por $1,399 / £1250."
+        }
+      ]
+    },
+    "gadgets/gemini-android-camera-redesign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google ha rediseñado a fondo la cámara integrada de Gemini para Android, que permite añadir rápidamente una imagen a las instrucciones."
+        },
+        {
+          "t": "p",
+          "x": "Disponible desde el menú 'plus' del cuadro de instrucciones, la interfaz anterior abría un visor a pantalla completa bastante genérico. Esta UI se sigue usando cuando se abre la cámara desde la superposición de Gemini."
+        },
+        {
+          "t": "p",
+          "x": "La nueva aparece integrada en la página de inicio de Gemini o dentro de una conversación. Se abre como una hoja inferior que se puede arrastrar hacia arriba —con una animación muy fluida— hasta ocupar la mayor parte de la pantalla."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Este rediseño casi de borde a borde, que se extiende por detrás de la barra de navegación del sistema, contrasta claramente con el enfoque anterior."
+        },
+        {
+          "t": "p",
+          "x": "A la derecha del botón de captura hay un botón de desbordamiento de tres puntos que se anima al abrirse y muestra opciones para controlar el flash y cambiar a la cámara frontal. Al otro lado hay un botón para volver, aunque también basta con deslizar hacia abajo."
+        },
+        {
+          "t": "p",
+          "x": "Este rediseño de la cámara llegó primero a la app Gemini para iOS, pero ya se ha desplegado ampliamente en Android, tanto en el canal beta como en el estable (versión 17.76+). Si aún no lo ves, usa Force stop en la app de Google."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Esto llega después de que ayer se lanzara la creación de GIF en la app Gemini. Con Gemini Omni 1.2 Flash, basta con elegir GIF en el menú Format o escribir \"Create a GIF\" en la instrucción. Google presenta la función como una alternativa a buscar GIFs."
+        }
+      ]
+    },
+    "gadgets/meta-muse-charm-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según The Information, Meta planea vender por $300 el Muse Charm, un aparato al estilo Tamagotchi (Tamagotchi-esque) para hablar con su agente de AI Muse. Meta lo presentó en Connect en septiembre como una forma de usar su agente sin recurrir al smartphone, y dijo que llegaría a tiempo para las fiestas."
+        },
+        {
+          "t": "p",
+          "x": "Mark Zuckerberg dijo que el Muse Charm reúne \"toda la experiencia de Muse, incluida la pila de voz y avatar en tiempo real, en algo que cabe en un llavero y siempre está disponible para hablar\". Según The Information, incluye un lector de huellas para verificar la identidad antes de dar órdenes y vendrá con hasta 12 meses de datos 5G gratis de Verizon."
+        },
+        {
+          "t": "p",
+          "x": "En octubre, Meta compartió guías de código abierto para que los desarrolladores creen sus propios \"Muse Gadgets\". El agente ya suma más de 10 millones de usuarios, y Meta también lanzó una app de Muse para Wear OS y watchOS. Meta parece querer controlar directamente su relación con los clientes, al margen de las reglas de Apple y Google, y trabaja en herramientas comerciales para cobrar una comisión a las empresas cuando los usuarios de Muse compren a través del agente."
+        }
+      ]
+    },
+    "gadgets/rayneo-io-lifelog-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
+          "cap": "© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Las RayNeo IO Smart Glasses de $499 prescinden de cámaras en favor de la IA, una pantalla monocromática y funciones de productividad —notificaciones, clima, transcripción, traducción y grabación de audio—, sin altavoces."
+        },
+        {
+          "t": "p",
+          "x": "Una función opcional de la app RayNeo AI llamada Lifelog usa el micrófono de las gafas para escuchar a lo largo del día, ofrece un resumen y una transcripción de todo lo que capta y extrae tareas pendientes. A veces rozó lo útil, pero sus resúmenes con IA eran exagerados y en una ocasión confundieron al autor de la reseña con un colega."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
+          "cap": "RayNeo completa automáticamente las tareas pendientes si se mantiene Lifelog activo. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "RayNeo afirma que no almacena grabaciones de audio, pero sí conserva las transcripciones de texto, y la única señal de que las gafas están escuchando es un LED en la punta de la patilla derecha que pasa fácilmente desapercibido."
+        },
+        {
+          "t": "p",
+          "x": "La traducción con IA fue ágil y en general precisa, los subtítulos en vivo captaron lo esencial y un teleprompter guiado por voz funcionó bastante bien. Una función beta, Live Answers, pareció limitarse a repetir información."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
+          "cap": "Así se ve el teleprompter dentro de las gafas. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "El hardware es ligero y cómodo, con una corona digital Smart Dial y una pantalla binocular brillante; la batería está calificada para hasta 48 horas de uso típico y 18 horas con grabación de audio continua. El veredicto: útil en algunos aspectos, pero la escucha persistente y discreta no compensa la pérdida de privacidad."
+        }
+      ]
     }
   }
 }

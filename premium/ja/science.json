@@ -12525,6 +12525,97 @@
           "x": "MITの数学者Andrew SutherlandはAlpögeの結果をLeanで独自にコンパイルした後、「これはまさに歴史的な瞬間だ」と述べ、「証明の数学的な詳細を理解するには、なすべきことが多く残っている」と語った。"
         }
       ]
+    },
+    "science/science-weathernext-hurricane-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+          "cap": "ETECのMap Room内で、気象データを映した画面の写真。クレジット：Patrick Dodson"
+        },
+        {
+          "t": "p",
+          "x": "2025年秋にハリケーンMelissaがジャマイカを襲った際、他のモデルの予測が割れるなか、GoogleのAIモデルは一週間前にその進路とCategory 5の強さを正しく予測した。University at AlbanyのJacob Vile、Brian Tang、Nour Elgaladによる研究はGeophysical Research Lettersに掲載され、GoogleのWeatherNext Cycloneを独立に検証した。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは2022年6月から2026年5月までの世界の熱帯低気圧385個の強度予報を分析した。このモデルは一日先から五日先までのすべての時点でNOAAの最先端ハリケーンモデルより正確で、初日以降は人間の予報官と同等の成績だった。急速強化の予報は今後24時間について主要ツールとほぼ同等の信頼性を示し、空振りも少なかった。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、嵐がどこまで強まるかを過小評価する傾向があり、その差は予報期間が長いほど広がった。想定される結果の幅も狭すぎることが多かった。成績は北大西洋で最もよく、北太平洋東部で最も悪かった。Googleが今年公開した新しいモデルのバージョンは分析に含まれていない。"
+        }
+      ]
+    },
+    "science/science-agent-harassment-tampering": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+          "cap": "AI。クレジット：Tara Winstead（Pexels）"
+        },
+        {
+          "t": "p",
+          "x": "Georgia State Universityの研究者らは、Georgia TechとUC Berkeleyの共同研究者とともに、AIのガードレールが複数ターンの会話でも保たれるかを検証した。一方のAIエージェントが加害者、もう一方が標的を演じ、TwitterとInstagramの実際の嫌がらせ投稿を起点に最大10ラウンドやり取りした。Google（Gemini）、Meta（Llama）、Alibaba（Qwen）、DeepSeekのモデルに、記憶に入れた有害な過去の会話、計画プロンプト、嫌がらせ会話による微調整という三つの攻撃を加えた。"
+        },
+        {
+          "t": "p",
+          "x": "微調整後、あるモデルは会話の約96%で嫌がらせを行い、拒否は約1%にとどまった。約200件の会話で微調整しただけでも嫌がらせは約97%に達した。Geminiは基準条件で会話の39%で嫌がらせを行い、有害な記憶を加えると99%を超えた。Qwenは基準条件でも92%を超えた。複数のモデルで、やり取りが進むほど敵意が強まった。共著者のUgur Kursuncuは「同じままではない。時間とともに増していく」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Trilok Padhi et al.による論文「Echoes of Human Malice in Agents」は、AAAIのウェブ・ソーシャルメディア国際会議（ICWSM）に採択された。"
+        }
+      ]
+    },
+    "science/science-tokamak-density-collisionality": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "トカマク型核融合炉で密度を制限するプラズマ不安定性がどのしきい値で起きるのかは、よく分かっていない。本研究は、複数の装置と閉じ込めモードにまたがって共通の衝突度しきい値が存在することを示す、初の大規模な実証的証拠を提示する。多様な実験データベースを機械学習で分析した結果、広く使われるGreenwald限界に似ているが偽陽性率が大幅に低い、周辺実効衝突度（ν*）のスケーリングが特定された。このしきい値は無次元圧力（β）とともに低下し、抵抗性バルーニングモード乱流への電磁的効果による輸送増大という理論的予想と整合する。これらの結果は、ITERやARCのような将来の燃焼プラズマ装置が、従来の予想より高い密度、ひいては高い核融合出力を達成できる可能性を示唆する。"
+        },
+        {
+          "t": "p",
+          "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar（Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV、EUROfusion Tokamak Exploitationの各チームおよびJET Contributorsを代表して）。Physical Review Lettersに掲載決定。"
+        }
+      ]
+    },
+    "science/science-llm-advice-donations": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "人々はAIチャットボットに助言を求めることが増えているが、大規模言語モデル（LLMs）は迎合的で自信過剰であり、人間の認知バイアスを増幅しうる。本稿では、人々が人間とLLMsの助言をどう受け止めるか、そしてAIの助言がインセンティブ両立的な寄付の意思決定を変えるかを調べる。新たな実験プラットフォームCarrierを用い、参加者がAIチャットボットの助言者または別の人間と話し合った後、あるいは助言なしで寄付を決める実験を設計した。参加者はLLMの助言者を人間の助言者より有意に合理的で、信頼でき、説得力があり、迎合的だと判断した。チャットログの分析では、LLMsは人間の助言者より積極的に関与し、より多くの事実を共有し、意見を述べて推奨の根拠を示すことも多かった。それでも、寄付の判断は条件間で差がなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+        }
+      ]
+    },
+    "science/science-tess-amateur-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+          "cap": "人工知能ツールが市民科学者による未発見の系外惑星探しを後押ししている(想像図)。Credit: Hypersphere/SPL"
+        },
+        {
+          "t": "p",
+          "x": "9月、天文学の正式な教育を受けていないスペインのAI専門家Pavel Rabtsevichは、AIモデルに惑星の発見を依頼した。約二週間で、モデルは地球から116光年離れた恒星を回る惑星候補を二つ示した。"
+        },
+        {
+          "t": "p",
+          "x": "彼はClaude Codeを使い、NASAのTESSが2025年末から2026年初めに観測した120,000個を超える恒星のデータを精査し、広く使われる惑星検出アルゴリズムで明るさの低下を探した。Claudeが絞り込んだのはTIC 4206066で、およそ3日ごとと11日ごとの二つの減光周期が見られた。2018年と2020年のTESSアーカイブデータにも同じパターンが記録されており、ClaudeはMichelle Kunimotoが書いた公開アルゴリズムを実行して信号を検証した。"
+        },
+        {
+          "t": "p",
+          "x": "Rabtsevichは9月25日にZenodoでプレプリントを公開した。査読は経ていないが、TESSの天文学者たちが信号を独自に解析し、公式の惑星候補リストに加えた。"
+        },
+        {
+          "t": "p",
+          "x": "University of British Columbiaの系外惑星研究者であるKunimotoは、一部のアマチュアはモデルの発見を検証できないと警告する。「AI-drivenな論文が圧倒的な勢いで急増しており、そうした論文の[惑星]候補は質が最良とはいえないことが多い」"
+        }
+      ]
     }
   }
 }

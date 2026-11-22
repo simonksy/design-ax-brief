@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "games",
   "items": [
     {
-      "title": "Epic: AI to convert UE5 projects to UE6; Fortnite's 20,000+ Blueprints ported to ~3M lines of Verse by AI; UE 5.9 gets UE6 AI tooling (Python, MCP)",
-      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
-      "source": "Unreal Engine (Epic Games)",
-      "published_iso": "2026-11-20T00:00:00Z",
-      "og_image": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn",
-      "excerpt": "Epic's Marcus Wassmer says Blueprints will no longer coexist with Scene Graph in UE6 because AI is expected to make UE5-to-UE6 conversion practical or automatic; Epic used AI to port Fortnite Battle Royale's 20,000+ Blueprints into a ~3M-line Verse prototype, and brings expanded Python scripting and MCP improvements to UE 5.9. Epic says much of UE 5.9 was built with AI agents.",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "published_iso": "2026-11-22T17:25:20+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg",
+      "excerpt": "Nicalis pulled AI-generated music from a GTA 6-themed mode in The Binding of Isaac: Repentance+ after players exposed it and review-bombed the update; creator Edmund McMillen says he 'had no idea' AI music had been used.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Primary-source Epic post that tells every Unreal team how its Blueprint projects will reach UE6 (AI conversion, Fortnite port as proof, Python/MCP in 5.9). This is the most actionable item in the pool."
+      "rationale": "Clear lesson on disclosure: undisclosed AI audio in a major indie hit led to review-bombing and removal, and the creator distanced himself. Single card for the c0 cluster (The Verge over IGN/Eurogamer), assigned to games only by the brief."
     },
     {
-      "title": "Unite Tokyo 2026 Keynote recap: Unity Neural (neural texture compression), official coding-agent plug-ins for Claude/Codex/Antigravity/Grok, AI Asset Library search",
-      "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
-      "source": "Unity Blog",
-      "published_iso": "2026-11-17T00:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/c434ae876ad1d579e55874528c20ba43bbe9545d-1920x1080.png",
-      "excerpt": "Unity showed Unity Neural, AI-powered rendering tools whose Neural Texture Compression cut the Atrio demo's texture memory by ~30% (experimental in Unity 6.7 LTS, full in Unity 7), official plug-ins for Claude, Codex, Google Antigravity and Grok, an agent-driven prototype demo, and an Asset Library plug-in that finds assets by text prompt.",
+      "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
+      "source": "PC Gamer",
+      "published_iso": "2026-11-21T23:40:42+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7-1280-80.jpg",
+      "excerpt": "Wizards of the Coast says it will pass its full share of the Anthropic AI copyright settlement for D&D books on to the writers who created them.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Primary-source Unity announcement of new tools: Neural Texture Compression with a version roadmap, more official agent plug-ins, and prompt-based asset search. Pairs with the Epic card as this week's engine-side news."
+      "rationale": "A concrete publisher decision on who gets AI-training compensation. This sets a precedent that game writers and designers can point to in their contracts."
     },
     {
-      "title": "How HoYoverse Is Keeping Petit Planet's AI NPCs From Harassing Players",
-      "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
-      "source": "GameSpot",
-      "published_iso": "2026-11-17T10:36:49+00:00",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png",
-      "excerpt": "Petit Planet's AI cafe NPC Nalo remembers past conversations; HoYoverse says AI NPCs have preset moral values, refuse toxic or manipulative prompts, escalate to warnings and human intervention, and the AI features are optional via an in-game toggle.",
+      "title": "Activision Patent Would Let AI NPCs Learn From Toxic COD Lobbies",
+      "url": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
+      "source": "TheGamer",
+      "published_iso": "2026-11-22T16:17:48+00:00",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "A newly surfaced Activision patent describes training AI-driven NPCs on players' Call of Duty voice chat so enemies can learn to trash-talk like real players.",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Concrete design pattern for shipping LLM NPCs: preset values, refusal, escalation to humans, and an opt-out toggle. Any designer building AI characters can reuse it."
+      "rationale": "Shows where a major publisher is taking AI NPC design: behaviour learned from player voice data. It raises data-consent and toxicity questions that NPC designers will face."
     },
     {
-      "title": "'Now, more than ever, it's about design': John Romero loves that games are easier to make but warns 'most are trash'",
-      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
-      "source": "Video Games Chronicle",
-      "published_iso": "2026-11-20T10:54:34+00:00",
-      "og_image": "https://www.videogameschronicle.com/files/2024/10/romero.jpg",
-      "excerpt": "John Romero says game-making is easier than ever but most new releases are 'trash', many AI-generated or auto-generated with game-making kits, so design now matters more than ever.",
+      "title": "MetaHuman Animator Markerless Motion Capture Deep Dive | Inside Unreal",
+      "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
+      "source": "Unreal Engine (YouTube)",
+      "published_iso": "2026-11-19T13:32:45-08:00",
+      "og_image": "https://i.ytimg.com/vi/zd7DCFBLCcc/maxresdefault.jpg",
+      "excerpt": "Epic's Inside Unreal deep dive on the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or camera into full-body animation without mocap suits or markers.",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "A veteran's take on the AI-slop flood that argues design is what sets a game apart. Kept as the single card on this theme over the GamesIndustry.biz Warshaw/E.T. piece."
+      "rationale": "Primary-source walkthrough of a tool animators can use right away: full-body animation from ordinary phone or camera video, with no suits or markers. This is the most hands-on pick in the pool."
     },
     {
-      "title": "\"Making 3D Modeling Easy for Everyone\": Tripo AI Expands Reach to B2C",
-      "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
-      "source": "Inven Global",
-      "published_iso": "2026-11-20T06:07:22+00:00",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg",
-      "excerpt": "At G-Star 2026, 3D model generation platform Tripo AI, already widely used by game developers, outlined its push to expand from B2B game-studio use toward everyday consumer creators.",
+      "title": "生成AIを活用したFMVゲーム「元カレ×デスゲーム」，2026年12月4日に基本プレイ無料で配信予定",
+      "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
+      "source": "4Gamer.net",
+      "published_iso": "2026-11-18T14:14:37+09:00",
+      "og_image": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg",
+      "excerpt": "LIUGUANG STUDIO announced that its generative-AI-built live-action-style FMV game 'Ex-Boyfriend x Death Game', pitting the player against 100 exes on a cruise ship, launches free-to-play on December 4, 2026 (PC via Steam).",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A 3D-asset generation tool that studios already use announces a move into consumer creators at G-Star. It is a different story from the 11-12 Tripothon hackathon card and brings in a fifth outlet."
+      "rationale": "A dated Steam release of an FMV game built with generative-AI video, a format that AI makes cheap to produce. Adds an Asian outlet and a shipped-game angle to the set."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6": {
-        "verdict": "follow-up",
-        "nearest": "https://www.4gamer.net/games/210/G021013/20261104013/",
-        "new_action": "Epic's official 11-20 post announces AI-driven UE5-to-UE6 project conversion, reveals the AI port of Fortnite BR's 20,000+ Blueprints into ~3M lines of Verse, and ships UE6 AI tooling (expanded Python, MCP) in UE 5.9. The 11-05 card only reported Sweeney's keynote plan to drop Blueprints; the 11-20 YouTube Unreal MCP tutorial (history_match) was a how-to video."
+      "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music": {
+        "verdict": "new",
+        "nearest": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+        "new_action": ""
       },
-      "https://unity.com/blog/unite-tokyo-2026-keynote-recap": {
-        "verdict": "follow-up",
-        "nearest": "https://www.youtube.com/watch?v=gobNINSU3JE",
-        "new_action": "Unite Tokyo 2026 announces Unity Neural / Neural Texture Compression (experimental in 6.7 LTS, full in Unity 7), new official Claude/Codex/Grok plug-ins beyond the Antigravity one covered 11-03, and an AI Asset Library prompt-search plug-in."
+      "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
       },
-      "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/": {
+      "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/": {
         "verdict": "new",
         "nearest": "https://www.inews24.com/view/2019597",
         "new_action": ""
       },
-      "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/": {
+      "https://www.youtube.com/watch?v=zd7DCFBLCcc": {
         "verdict": "new",
-        "nearest": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
+        "nearest": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
         "new_action": ""
       },
-      "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c": {
+      "https://www.4gamer.net/games/059/G105923/20261118013/": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
+        "nearest": "https://www.4gamer.net/games/058/G105854/20261116008/",
         "new_action": ""
       }
     },
-    "note": "Dropped as running-story duplicates: Inven Global 'Unity and OpenAI' interview (an interview about the Unity AI Game Jam already published 11-19 as inven ?news=323546; no new release); Wccftech AMDLSS5 2.5 (version bump of the mod covered 11-12 via PC Gamer; lower priority, not a design-facing change). Theme cap: GamesIndustry.biz Warshaw/E.T. 'AI glut like 1983' dropped in favour of the Romero piece (same commentary theme, 1 card max). Cross-section caution: 4Gamer Wrtn G-CON keynote not picked because a Wrtn story was assigned to books on 11-20. Lower-scored and not picked: Wccftech GTA VI Veyra/Neural Screen (third-party capture trick, weak), ThisIsGame 4-company localization MOU (business agreement), Inven Global legal-experts conference (academic discussion). published_urls.json (4.8k lines) is too large to read whole with Read-only tools, so the all-section exact-grep was NOT run. The cross-section check relied on the 11-22 brief's assignments (none involve these picks) and the 30-day games history_digest. The orchestrator should grep unrealengine.com/news/an-update-on-blueprints, unity.com/blog/unite-tokyo-2026 and 'Petit Planet' across sections before roll. Diversity: 5 distinct outlets, 1 card each (unrealengine.com, unity.com, gamespot.com, videogameschronicle.com, invenglobal.com)."
+    "note": "Dropped as duplicates: (1) Kotaku 'Student game dev competition shut down over AI slop' (11-10) is the same event as the PC Gamer card published 11-11 (history_match). (2) IGN and Eurogamer Binding of Isaac items are same-cluster (c0) duplicates of the Verge pick, one card per cluster. (3) Wccftech 'UE 5.9 Preview 2' is a running story: UE 5.9 Preview was published 11-11 (80.lv, history_match), and the 11-22 unrealengine.com card already covered UE 5.9's AI tooling (Python/MCP). Preview 2 is only an incremental build of the same release, so it was dropped rather than run as a follow-up. Not picked on score: GameRiv 'Clash Royale recruits AI cheat creator' (off-whitelist secondary outlet, a single anecdote in the AI-cheat theme carried 11-15). Cross-section: the brief assigns the Binding of Isaac story to games only. The books pool (first 150 lines checked) has no Wizards of the Coast / D&D payout item. published_urls.json is too large to grep with Read-only tools, so the orchestrator should exact-grep 'wizards-of-the-coast-to-pass-full-ai-copyright', 'zd7DCFBLCcc' and 'G105923' across all sections before roll. Diversity: 5 distinct outlets (theverge.com, pcgamer.com, thegamer.com, youtube.com/Unreal Engine, 4gamer.net), 1 each."
   }
 }

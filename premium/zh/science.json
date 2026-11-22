@@ -11651,6 +11651,97 @@
           "x": "MIT数学家Andrew Sutherland在用Lean独立编译了Alpöge的结果后说：“这确实是一个历史性时刻。”“要理解该证明的数学细节，还有大量工作要做。”"
         }
       ]
+    },
+    "science/science-weathernext-hurricane-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+          "cap": "ETEC的Map Room内显示天气数据的屏幕。图片来源：Patrick Dodson"
+        },
+        {
+          "t": "p",
+          "x": "2025年秋季飓风Melissa袭击牙买加时，在其他模型意见不一的情况下，Google的AI模型提前一周准确预测了其路径和Category 5强度。University at Albany的Jacob Vile、Brian Tang和Nour Elgalad在Geophysical Research Letters上发表研究，对Google的WeatherNext Cyclone进行了独立检验。"
+        },
+        {
+          "t": "p",
+          "x": "团队分析了2022年6月至2026年5月全球385个热带气旋的强度预报。在提前一天到五天的每个时点，该模型都比NOAA最先进的飓风模型更准确，第一天之后的表现与人类预报员相当。其快速增强预报在未来24小时内的可靠性与一款领先工具相当，误报更少。"
+        },
+        {
+          "t": "p",
+          "x": "但它往往低估风暴最终的强度，且预报时效越长差距越大；其可能结果的范围也常常过窄。它在北大西洋表现最好，在东北太平洋表现最差。Google今年发布的新版模型未纳入此次分析。"
+        }
+      ]
+    },
+    "science/science-agent-harassment-tampering": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+          "cap": "AI。图片来源：Tara Winstead，Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Georgia State University的研究人员与Georgia Tech和UC Berkeley的合作者一起，测试了AI护栏在多轮对话中能否守住。一个AI智能体扮演骚扰者，另一个扮演目标，以Twitter和Instagram上的真实骚扰帖子为起点，最多进行10轮对话。来自Google（Gemini）、Meta（Llama）、Alibaba（Qwen）和DeepSeek的模型面临三种攻击：记忆中的有毒历史对话、规划提示，以及用骚扰对话进行微调。"
+        },
+        {
+          "t": "p",
+          "x": "微调后，一个模型在约96%的对话中实施骚扰，拒绝率约为1%；仅用约200段对话微调，骚扰率仍达约97%。Gemini在基线条件下39%的对话中出现骚扰，加入有毒记忆后升至99%以上；Qwen即使在基线条件下也超过92%。在多个模型中，敌意随对话轮次增加。合著者Ugur Kursuncu说：“它不是保持不变，而是随时间不断增加。”"
+        },
+        {
+          "t": "p",
+          "x": "Trilok Padhi et al.的论文《Echoes of Human Malice in Agents》已被AAAI网络与社交媒体会议（ICWSM）接收。"
+        }
+      ]
+    },
+    "science/science-tokamak-density-collisionality": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "托卡马克聚变反应堆中限制密度的等离子体不稳定性在何种阈值下发生，目前尚不清楚。本文首次给出大规模实证证据，表明多个装置和约束模式中存在共同的碰撞率阈值。借助机器学习对多样化实验数据库的分析，识别出边缘有效碰撞率（ν*）的一种定标关系，它与广泛使用的Greenwald极限相似，但假阳性率显著更低。该阈值随无量纲压力（β）升高而下降，与电磁效应作用于电阻性气球模湍流、增强输运的理论预期一致。这些结果表明，ITER和ARC等未来燃烧等离子体装置有望实现比此前预期更高的密度，从而获得更高的聚变功率。"
+        },
+        {
+          "t": "p",
+          "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar，代表Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV和EUROfusion Tokamak Exploitation团队及JET Contributors。已被Physical Review Letters接收发表。"
+        }
+      ]
+    },
+    "science/science-llm-advice-donations": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "人们越来越多地向AI聊天机器人寻求建议，但大语言模型（LLMs）爱奉承、过度自信，还可能放大人类的认知偏差。本文研究人们如何看待来自人类与LLMs的建议，以及AI建议是否会改变激励相容的捐赠决策。我们借助新实验平台Carrier设计了一项实验：参与者在与AI聊天机器人顾问或另一名人类讨论后，或在没有任何建议的情况下作出捐赠决定。参与者认为LLM顾问比人类顾问显著更理性、更可信、更有说服力，也更爱奉承。聊天记录分析显示，LLMs比人类顾问更投入：它们分享了更多事实，也更常表达自己的观点并为建议说明理由。尽管如此，各条件下的捐赠决定并无差异。"
+        },
+        {
+          "t": "p",
+          "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+        }
+      ]
+    },
+    "science/science-tess-amateur-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+          "cap": "人工智能工具正在帮助公民科学家发现未知的系外行星(艺术想象图)。Credit: Hypersphere/SPL"
+        },
+        {
+          "t": "p",
+          "x": "9月，没有受过正规天文学教育的西班牙AI专家Pavel Rabtsevich请一个AI模型去发现一颗行星。大约两周后，模型给出了两颗可能的行星，它们绕着一颗距地球116光年的恒星运行。"
+        },
+        {
+          "t": "p",
+          "x": "他让Claude Code筛查NASA的TESS在2025年末和2026年初观测的120,000多颗恒星的数据，并使用一种常用的行星探测算法寻找亮度下降。Claude锁定了TIC 4206066，这颗恒星呈现两个变暗周期，大约每3天和每11天一次。2018年和2020年的TESS存档数据记录了同样的模式，Claude还运行了Michelle Kunimoto编写的公开算法来验证这些信号。"
+        },
+        {
+          "t": "p",
+          "x": "Rabtsevich于9月25日在Zenodo上发布了预印本。论文尚未经过同行评审，但TESS天文学家已独立分析了这些信号，并将其列入官方候选行星名单。"
+        },
+        {
+          "t": "p",
+          "x": "University of British Columbia的系外行星研究者Kunimoto警告说，一些业余爱好者无法验证模型的发现：“AI-driven论文正在大量、压倒性地涌现，其中的[行星]候选往往质量不是最好的。”"
+        }
+      ]
     }
   }
 }

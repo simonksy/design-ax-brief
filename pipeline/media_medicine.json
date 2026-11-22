@@ -1,29 +1,7 @@
-{
-  "date": "2026-11-22",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "tabmbio-pancreatic-ct",
-      "type": "svg"
-    },
-    {
-      "id": "rsna-ai-malpractice-jury",
-      "type": "svg"
-    },
-    {
-      "id": "athlete-ecg-foundation-models",
-      "type": "image",
-      "src": "pipeline/media/athlete-ecg-foundation-models.png"
-    },
-    {
-      "id": "prehospital-thrombectomy-xai",
-      "type": "image",
-      "src": "pipeline/media/prehospital-thrombectomy-xai.png"
-    },
-    {
-      "id": "uk-dhsc-social-care-ai-guidance",
-      "type": "image",
-      "src": "pipeline/media/uk-dhsc-social-care-ai-guidance.jpg"
-    }
-  ]
-}
+{"date":"2026-11-23","section":"medicine","media":[
+{"id":"northwell-stroke-ai-outcomes","type":"svg"},
+{"id":"subtle-gadolinium-tenth-mri","type":"svg"},
+{"id":"tele-cranio-ct-free","type":"svg"},
+{"id":"bmj-antibiotic-llm-cot","type":"image","src":"pipeline/media/bmj-antibiotic-llm-cot.jpg"},
+{"id":"nhs-outpatient-noshow-ml","type":"svg"}
+]}

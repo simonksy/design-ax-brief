@@ -12184,6 +12184,120 @@
           "x": "Roblox还宣布，创作者很快将能开启离线单人游玩，并在mid-2027正式上线之前提供抢先体验。"
         }
       ]
+    },
+    "games/wotc-anthropic-payout-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+          "cap": "R.A. Salvatore著《Lolth's Warrior》(Image credit: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "D&D与Magic: The Gathering的发行商Wizards of the Coast，是针对Claude AI开发商Anthropic的 $1.5 billion 版权案的索赔方之一。据Wargamer报道，该诉讼所涉每部作品的标准赔付为 $3,000 ，由作者与出版商50/50分成。而Wizards将把属于自己的那一半同样交给作者——主要是与公司签约的独立作者，其中也包括R.A. Salvatore这样的知名作家。"
+        },
+        {
+          "t": "p",
+          "x": "自由撰稿人兼编辑James Lowder在LinkedIn上写道：\"这非常了不起，相当于WotC本可收取的数十万美元将流向作者。而且Wizards是在大型出版商争相从作者手中尽可能多地抢夺和解金的时候这样做的。\"他将此归功于由作者推动的讨论，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer的Ted Litchfield指出，Wizards近年来因使用AI（在营销材料和D&D资料书中使用AI美术）以及内部劳资关系而声誉受损，而这笔钱对于数十亿美元规模的企业来说只是零钱：\"Wizards of the Coast这次无疑做了正确的事，但我认为这是一场廉价买来的PR胜利。\""
+        }
+      ]
+    },
+    "games/activision-voicechat-npc-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Activision提交了一项专利，旨在训练AI-powered NPCs像玩家一样说话。据Dexerto报道，该专利名为\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"，描述了利用语音聊天音频让游戏内NPCs听起来更真实的方法。它不会完全复制你的声音，而是模仿你说的内容和你的反应方式。专利没有明确提到Call of Duty，但作为Activision的头号系列，它最终很可能会用在那里。"
+        },
+        {
+          "t": "p",
+          "x": "它会在击杀、死亡和失败等被标记的游戏事件前后各捕捉约10秒的音频，以此塑造NPCs在相同情境下的行为。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "Activision专利图示：语音数据将如何用于训练NPCs。"
+        },
+        {
+          "t": "p",
+          "x": "该专利还提到了Discord和TeamSpeak，可在不同应用之间匹配时间戳。专利称会加入过滤器以阻止冒犯性语言，但完全没有提到使用语音聊天音频前征求许可。当然，Activision为这项技术申请了专利，并不意味着它一定会在游戏中实装。"
+        }
+      ]
+    },
+    "games/metahuman-markerless-mocap-insideunreal": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zd7DCFBLCcc"
+        },
+        {
+          "t": "p",
+          "x": "深入了解全身动画：新的MetaHuman Animator Markerless Motion Capture插件可将手机或网络摄像头拍摄的普通视频转化为MetaHuman角色的动画。Epic研究团队的Michael Black将讲解这项技术的原理，Ben Kidd则会在真实项目中演示从拍摄到最终镜头的完整使用流程。电影人Martin Bell也将加入，展示独立创作者能用它做到什么。"
+        }
+      ]
+    },
+    "games/motokare-deathgame-fmv-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+        },
+        {
+          "t": "p",
+          "x": "中国独立开发工作室LIUGUANG STUDIO宣布，正在开发的新作《前男友×死亡游戏》（元カレ×デスゲーム）将于2026年12月4日基本免费上线。"
+        },
+        {
+          "t": "video",
+          "yt": "G9s6lRSfhMg"
+        },
+        {
+          "t": "p",
+          "x": "本作是一款以写实风格影像为特色的FMV（全动态影像）冒险游戏，其影像、角色和剧情的制作都运用了生成式AI。玩家将扮演一心向100名前男友复仇的奇女子“苏薇”，把他们困在海上的豪华游轮中，举办残酷的死亡游戏。死亡游戏中设有以命相搏的试炼，苏薇的目的就是借此揭穿前男友们的谎言，了结过去的背叛。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+        },
+        {
+          "t": "p",
+          "x": "游戏中会出现“真心话还是惩罚”“玻璃桥”“深海测谎仪”等试炼。随着游戏推进，试炼愈发严酷，参与者们渐渐失去从容，隐藏的本性也逐渐暴露。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "近年来，随着技术发展，利用生成式AI制作短剧在中国迅速普及，2026年上半年，中国版TikTok“抖音”上发布了约22万部AI生成短剧。本作也可以说是在这股潮流中诞生的作品。《前男友×死亡游戏》（PC）预计于2026年12月4日在Steam上线，基本免费游玩。"
+        }
+      ]
+    },
+    "games/epic-ue6-blueprint-ai-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+        },
+        {
+          "t": "p",
+          "x": "Marcus Wassmer表示，UE6（包括UE6 Early Access）将不再包含Blueprints和Actor Gameplay Framework，玩法将基于Verse和全新的Scene Graph框架构建。Epic六月曾表示Blueprints与Actors会在UE6 Early Access和6.0中共存，但“随着AI能力近来的进步，我们预计AI将在把UE5项目转换到UE6的过程中提供巨大帮助，甚至让这一过程完全自动化。”"
+        },
+        {
+          "t": "p",
+          "x": "Epic给出两个理由。用AI完成任何一项任务的成本正以每年13x 的幅度下降。两周前，Epic尝试用AI把Fortnite Battle Royale的全部Blueprints转换为Verse：一个原本预计耗时数年的项目，在移植20,000多个Blueprints后，已有约300万行Verse代码的可运行原型。"
+        },
+        {
+          "t": "p",
+          "x": "为UE6打造的AI工具正回流到UE5，首先是UE 5.9 MegaJam Preview：扩展的Python脚本、Model Context Protocol（MCP）改进、作为目标平台的Web，以及用于生成资产的Unreal Canvas。“UE 5.9的大部分是我们借助AI智能体完成的，包括大部分Web平台工作。”"
+        }
+      ]
     }
   }
 }

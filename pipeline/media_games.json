@@ -1,34 +1,32 @@
 {
-  "date": "2026-11-22",
-  "section": "games",
-  "media": [
-    {
-      "id": "epic-ue6-blueprint-ai-port",
-      "type": "image",
-      "src": "pipeline/media/epic-ue6-blueprint-ai-port.jpg"
-    },
-    {
-      "id": "unity-neural-unite-tokyo",
-      "type": "video",
-      "src": "pipeline/media/unity-neural-unite-tokyo.mp4",
-      "poster": "pipeline/media/unity-neural-unite-tokyo.jpg"
-    },
-    {
-      "id": "hoyoverse-petit-planet-npc",
-      "type": "video",
-      "src": "pipeline/media/hoyoverse-petit-planet-npc.mp4",
-      "poster": "pipeline/media/hoyoverse-petit-planet-npc.jpg"
-    },
-    {
-      "id": "romero-design-ai-trash",
-      "type": "image",
-      "src": "pipeline/media/romero-design-ai-trash.jpg"
-    },
-    {
-      "id": "tripo-ai-gstar-b2c",
-      "type": "video",
-      "src": "pipeline/media/tripo-ai-gstar-b2c.mp4",
-      "poster": "pipeline/media/tripo-ai-gstar-b2c.jpg"
-    }
-  ]
+ "date": "2026-11-23",
+ "section": "games",
+ "media": [
+  {
+   "id": "isaac-repentance-ai-music",
+   "type": "image",
+   "src": "pipeline/media/isaac-repentance-ai-music.jpg"
+  },
+  {
+   "id": "wotc-anthropic-payout-writers",
+   "type": "image",
+   "src": "pipeline/media/wotc-anthropic-payout-writers.jpg"
+  },
+  {
+   "id": "activision-voicechat-npc-patent",
+   "type": "image",
+   "src": "pipeline/media/activision-voicechat-npc-patent.jpg"
+  },
+  {
+   "id": "metahuman-markerless-mocap-insideunreal",
+   "type": "video",
+   "src": "pipeline/media/metahuman-markerless-mocap-insideunreal.mp4",
+   "poster": "pipeline/media/metahuman-markerless-mocap-insideunreal.jpg"
+  },
+  {
+   "id": "motokare-deathgame-fmv-ai",
+   "type": "image",
+   "src": "pipeline/media/motokare-deathgame-fmv-ai.jpg"
+  }
+ ]
 }

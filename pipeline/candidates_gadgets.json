@@ -1,107 +1,133 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-21T22:01:02Z",
+  "now_iso": "2026-11-22T22:03:00Z",
   "window_hours": 336,
-  "note": "Thin fresh AI-hardware news (Sunday, Black Friday week). Dropped on relevance (AI only in nav/sidebar or headline stands without AI): Xreal Aura reviews (Engadget/Tom's Guide), Alexa Tablet 8, Galaxy Buds On, SwitchBot S30/Hub 4, Lumix SHX1, Hidisc glasses, Dynabook Copilot+ laptops, Motorola Signature 27, Coway walking robot, VeriSilicon PR. Muse Charm appears twice (TechCrunch + ZDNet Korea) - dedup to one; it was covered in design 2026-09-27 (reveal) - this is new price/date news. Siri Recap (Verge) is on-wrist AI wearable hands-on but borders the Siri-software cap.",
   "items": [
     {
-      "title": "Meta's new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T21:58:06+00:00",
-      "excerpt": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667"
-    },
-    {
-      "title": "메타, 스마트폰 없이 쓰는 AI 비서 '뮤즈 참' 12월 출시",
-      "url": "https://zdnet.co.kr/view/?no=20261120103034",
-      "source": "ZDNet Korea",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T10:37:47+09:00",
-      "excerpt": "메타가 인공지능(AI) 비서 '뮤즈' 전용 기기를 내놓는다. 스마트폰 없이도 AI 에이전트와 대화하며 쇼핑과 여행 예약 등을 할 수 있는 휴대기기다.19일(현지시간) 로이터와 디인포메이션에 따르면 메타는 오는 12월 연말 쇼핑 시즌에 맞춰 휴대용 AI 기기 '뮤즈...",
-      "og_image": "https://image.zdnet.co.kr/2026/09/25/e889a9d177514f8af989add66929df76.jpg"
-    },
-    {
-      "title": "브리즘, '안경 본질'로 스마트 글라스 시장 공략…'25g' 인사이트 출시",
-      "url": "https://www.etnews.com/20261119000287",
-      "source": "전자신문",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T14:19:09+09:00",
-      "excerpt": "안경 브랜드 브리즘이 자체 개발한 오디오 스마트 글라스 '인사이트(in*sight)'를 앞세워 스마트 글라스 시장에 진출한다. 카메라와 디스플레이 등 기능을 한꺼번에 넣기보다 무게와 착용감, 시력 교정 등 '안경의 기본기'를 우선했다. 약 12만명의 고객 얼굴 데이터와 3D 맞춤 제작 기술을 강점으로 시장 저변을 넓힌 뒤, 마이크 특화 모델과 착탈식 카메라 등으로 제품군을 확대할 방침이다. 박형진 브리즘 대표는 19일 서울 성동구 브리즘 파운드",
-      "og_image": "https://img.etnews.com/news/article/2026/11/19/news-p.v1.20261119.892907be64dd4312b3ef727fa46bfc6a_P1.png"
-    },
-    {
-      "title": "Apple Reportedly Finalizes Smart Glasses Hardware, Puts Siri at Strategic Center",
-      "url": "https://roadtovr.com/apple-finalizes-smart-glasses-siri-support-report/",
-      "source": "Road to VR",
-      "category": "gadgets",
-      "published_iso": "2026-11-17T13:25:27+00:00",
-      "excerpt": "Apple’s reported smart glasses, codenamed ‘N50’, are expected to be unveiled at the company’s Worldwide Developers Conference (WWDC) next June. Now, a fresh report from Bloomberg’s Mark Gurman maintains that much of the hardware is finalized, and Apple is putting Siri at the heart of its software ecosystem. The News Gurman reported earlier this summer […]",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2023/05/apple-wwdc-2023.jpg"
-    },
-    {
-      "title": "RayNeo IO Review: Just so You Know, My Smart Glasses Are Listening",
-      "url": "https://gizmodo.com/rayneo-io-smart-glasses-review-2000829940",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-11-20T17:30:00Z",
-      "excerpt": "Gizmodo reviews the $499 camera-free RayNeo IO smart glasses: AI live translation and a teleprompter are useful, but the optional Lifelog feature that listens all day and keeps text transcripts feels too invasive.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg"
-    },
-    {
-      "title": "The Alexa Tablet 12 Pro knocked the Kindle Fire-shaped chip from my shoulder, but unless you really like Amazon services, I’m not sure who it’s for",
-      "url": "https://www.techradar.com/alexa-tablet-12-pro-review",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-11-21T12:49:19Z",
-      "excerpt": "Amazon surprised even its skeptics when it announced its first Android tablet, but does the Alexa Tablet 12 Pro stand up against its competition?",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Atnwbm9HkajevHPu579TxH-1280-80.jpg"
-    },
-    {
-      "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
-      "url": "https://www.engadget.com/2321939/apple-homepod-mini-2-review/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-11-19T17:30:00+00:00",
-      "excerpt": "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works.",
-      "og_image": "https://www.engadget.com/img/gallery/apple-homepod-mini-2-review-a-necessary-but-underwhelming-update/l-intro-1795105229.jpg"
-    },
-    {
-      "title": "New Hyundai Elantra Hybrid Debuts With 53 Mpg, AI in the Dash",
-      "url": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-11-21T06:00:11-05:00",
-      "excerpt": "The redesigned compact sedan features Hyundai’s new AI voice assistant, Gleo AI, and an updated regenerative braking system with EV-like one-pedal driving.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg"
-    },
-    {
-      "title": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-11-21T15:02:17Z",
-      "excerpt": "Nintendo’s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7-1920-80.jpg"
-    },
-    {
-      "title": "Tamagotchi-style digital pet turns the back of your smartphone into its new home",
-      "url": "https://www.notebookcheck.net/Tamagotchi-style-digital-pet-turns-the-back-of-your-smartphone-into-its-new-home.1455500.0.html",
+      "title": "SecondBrain VoicePad: Compact AI controls and dictation for your desk",
+      "url": "https://www.notebookcheck.net/SecondBrain-VoicePad-Compact-AI-controls-and-dictation-for-your-desk.1456759.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-11-21T19:19:00+01:00",
-      "excerpt": "A Tamagotchi-style digital pet has found a new home on the back of your smartphone. Beambox's Polly combines magnetic attachment, a touchscreen and AI chat, with Japanese crowdfunding prices starting at ¥10,999 and deliveries planned for January 2027.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/beambox-polly-digital-pet-202674.jpg"
+      "published_iso": "2026-11-22T14:40:00+01:00",
+      "excerpt": "Genspark's SecondBrain VoicePad pairs five programmable keys with AI dictation and meeting transcription for Mac and PC, recording to onboard memory even when disconnected. It lists at $169, with a Kickstarter launching Nov 24 at $119-$149.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Second_Brain_VoicePad.jpg"
     },
     {
-      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
       "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-19T13:00:00+00:00",
-      "excerpt": "I’m left asking myself: was it worth it?",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "published_iso": "2026-11-22T13:00:00+00:00",
+      "excerpt": "Large language models can now redesign your TV interface and upgrade your camera firmware for you; the column asks whether the physical world is ready to be Claude Code-d as LLMs make gadget hacking and modding accessible to everyone.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis",
+      "url": "https://www.tomshardware.com/laptops/lenovo-pro-9n-review",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-22T16:00:00Z",
+      "excerpt": "Tom's Hardware tests Lenovo's Nvidia RTX Spark laptop, including a local-LLM AgentPerf benchmark against the Surface Laptop Ultra, and finds strong AI hardware but no Windows AI features that make the chip special for non-developers.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZXSfLv5CgGWf6ginq5ZsFA-2560-80.jpg"
+    },
+    {
+      "title": "South Korean candidate secretly used AI during professional exams",
+      "url": "https://www.techradar.com/pro/smuggling-ai-into-a-national-exam-room-a-south-korean-candidate-used-a-pinhole-camera-and-concealed-earpiece-to-score-159-160-before-turning-himself-in",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T23:35:00Z",
+      "excerpt": "A pinhole camera and concealed earpiece let a South Korean candidate pipe exam questions to AI and score 159/160 before turning himself in, amid Korea's wider crackdown on AI smart glasses and hidden devices in exam halls.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sheDfno4nVt3fYr6QEoVSo-1920-80.png"
+    },
+    {
+      "title": "WHOOP users are losing patience with its AI Coach",
+      "url": "https://gadgetsandwearables.com/2026/11/22/whoop-ai-coach-getting-worse/",
+      "source": "Gadgets & Wearables",
+      "category": "gadgets",
+      "published_iso": "2026-11-22T11:08:52+00:00",
+      "excerpt": "WHOOP wearers report the band's AI Coach forgetting context, inventing data and giving contradictory advice, raising questions about how far users can trust LLM coaching layered on health wearables.",
+      "og_image": "https://gadgetsandwearables.com/wp-content/uploads/2026/11/Whoop.jpg"
+    },
+    {
+      "title": "Obsbot's new AI PTZ cameras could make camera operators redundant",
+      "url": "https://www.digitalcameraworld.com/tech/webcams/obsbots-new-ai-ptz-cameras-could-make-camera-operators-redundant-and-its-got-a-1-inch-sensor",
+      "source": "Digital Camera World",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T11:25:00Z",
+      "excerpt": "Obsbot's Tail Air 2 and Tail 2 ADV PTZ cameras go on sale with 'AI Tracking 2.0' that follows people, 30+ animal species and 200+ object categories, plus 4K/60p and a 1-inch sensor on the ADV.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa-1600-80.jpg"
+    },
+    {
+      "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+      "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-19T22:56:42+00:00",
+      "excerpt": "Per The Information, Meta plans to sell its pocket Muse Charm AI agent device for $300 with up to 12 months of free Verizon 5G ahead of the holidays; Meta did not deny it and said it will share more soon.",
+      "og_image": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/l-intro-1795128747.jpg"
+    },
+    {
+      "title": "Major privacy breaches reported in Muse AI, including bank balances",
+      "url": "https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-11-19T12:20:00+00:00",
+      "excerpt": "Meta employees have flagged what appear to be major privacy breaches in the Muse AI agent, including surfacing bank balances, just as Meta prepares its Muse Charm hardware.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-privacy-breaches-reported-in-Muse-AI-including-bank-balances.webp?resize=1200,628"
+    },
+    {
+      "title": "Gemini app rolls out very slick camera redesign on Android",
+      "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T20:52:52+00:00",
+      "excerpt": "Google has thoroughly redesigned the Gemini Android app's in-app camera used to quickly add images to prompts, reworking the capture UI on phones.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "AI agents design an entirely new CPU architecture from scratch, startup claims",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-22T13:00:00Z",
+      "excerpt": "A startup says AI agents designed its Frostbite CPU architecture from scratch, posting 4.59x the performance per watt of an in-order core in pre-silicon tests (3.83x on workloads without AI tuning).",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/E6ZGdHQ5GTZE5a3yPzPScR-2560-80.jpg"
+    },
+    {
+      "title": "USC engineers built a smart ring that monitors stress by taking a peek at your sweat glands",
+      "url": "https://www.digitaltrends.com/wearables/usc-ai-stress-ring/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T18:29:54-08:00",
+      "excerpt": "USC engineers built an AI-powered smart ring that uses near-infrared light to detect stress from sweat under the skin, beating gel-based sensors in early tests.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "스스로 길 찾고 균형까지…산길 달리는 'AI 자전거 로봇'",
+      "url": "https://www.etnews.com/20261120000267",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-23T06:00:00+09:00",
+      "excerpt": "스위스 취리히 연방공대와 RAI 연구소 연구진이 사람 조종 없이 험한 산길을 스스로 달리며 균형을 잡는 AI 자율주행 자전거 로봇을 공개했다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.6daa3dbaf7564aecb0906e2e0daf2c57_P1.png"
+    },
+    {
+      "title": "The Smart Ring Goes to Church",
+      "url": "https://www.wired.com/story/smart-ring-goes-to-church/",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-11-20T11:30:00.000Z",
+      "excerpt": "From glowing crosses to voice-transcribed prayers, the Elah, Glorify and Blessed rings bring faith rituals to wearables; Blessed calls its S1 'AI-native' with a FaithMate chatbot in its app.",
+      "og_image": "https://media.wired.com/photos/6afb101a95139a14a66d0fbd/191:100/w_1280,c_limit/Elah%20Ring_Banner_Lifestyle.png"
+    },
+    {
+      "title": "The Xiaomi 18 Pro proves two screens aren't better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-21T13:00:00+00:00",
+      "excerpt": "The Verge reviews the Xiaomi 18 Pro Max and its rear display, which supports vibe-coded AI mini-apps, concluding the second screen is mostly just for selfies.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
     }
   ]
 }

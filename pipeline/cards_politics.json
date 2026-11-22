@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "politics",
   "cards": [
     {
-      "id": "house-china-ai-models-report",
-      "source_lang": "en",
+      "id": "korea-aidc-decree-permits",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "중국 AI 모델에 기댄\nUS 기업에 하원 경고",
-      "body": "하원 위원장 둘이 중국 개방형 모델을 쓰는 US 기업의 출처·증류 문제를 짚었다.",
-      "mini_headline": "중국 AI에 기댄 US 기업",
+      "headline": "AI 데이터센터 인허가\n일괄처리 길 열린다",
+      "body": "AI 데이터센터 특별법 시행령안이 인허가 일괄처리와 전력평가 특례를 담았다.",
+      "mini_headline": "AI 데이터센터 인허가 특례",
       "tool": "Politics",
-      "source": "House Select Committee on the CCP",
-      "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+      "source": "대한민국 정책브리핑 (과학기술정보통신부)",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,255 +19,345 @@
         "blocks": [
           {
             "t": "p",
-            "x": "하원 중국특별위원회(House Select Committee on China) 위원장 John Moolenaar(R-MI)와 하원 국토안보위원회(House Committee on Homeland Security) 위원장 Andrew R. Garbarino(R-NY)가 중국이 개발한(Chinese-developed) open-weight AI 모델이 미국 기업의 소비자 플랫폼에 들어가는 실태를 함께 조사해 보고서를 냈다. 보고서는 모델의 출처와 데이터, 학습 과정, 무단 증류 가능성, 기업의 구매·조달 방식을 들여다봤다. U.S. open-weight AI 전략이 비싸거나 독점적인 U.S. 모델과 싸고 성능 좋은 중국 기반(China-based) 대안 사이의 양자택일에서 미국 기업들을 벗어나게 해 주는지도 따졌다."
+            "x": "내년 3월부터 인공지능 데이터센터(AIDC)의 인정 기준과 신고 절차가 새로 마련되고, 비수도권에 들어서는 계약전력 50MW 이하 AIDC는 전력계통영향평가를 면제받는다. 과학기술정보통신부는 '인공지능 데이터센터 산업 진흥에 관한 특별법' 시행을 앞두고 시행령·시행규칙 제정안을 마련해 다음 달 30일까지 입법예고한다고 20일 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+            "cap": "정부가 반도체·AI·데이터센터 등 3대 메가프로젝트를 발표한 지난 6월 29일 경기도 용인시 용인반도체클러스터 일반산업단지 공사현장의 모습.(사진=연합뉴스)"
           },
           {
             "t": "p",
-            "x": "두 위원회는 2026년 4월 Anysphere와 Airbnb에 서한을 보내 조사에 착수했고, 2026년 7월에는 DoorDash에도 서한을 보냈다."
+            "x": "AIDC는 AI 가속기를 일정규모 이상 보유하며 해당 가속기 운영에 필수적인 전력·냉각 등 설비를 갖추고 설계전력비율이 1.5 이하인 시설로 규정했다. 코로케이션 형태의 '제3자 제공형 시설'도 AIDC에 포함된다."
           },
           {
             "t": "p",
-            "x": "두 위원장은 미국 기업들이 PRC-developed(중국이 개발한) open-weight 모델을 갈수록 많이 들여오는 이유로 \"저렴하고, 맞춤화가 가능하며, 미국 최고 시스템과 경쟁할 만하기 때문\"을 들었다. 연방 조사에서 주요 PRC 개발사들이 \"프록시 네트워크와 사기 계정을 이용해 미국 프런티어 모델의 출력물을 수집했다\"는 사실도 드러났다고 적었다."
+            "x": "신고는 구축신고(구축공사 개시 전)·운영신고(운영 개시 30일 전)·변경신고(사유 발생 후 30일 이내)로 구분했다. 구축신고만 하고 특례만 선점하는 허수 사업자를 막기 위해 신고일로부터 1년 이내 착공일을 정해 신고하도록 했다."
           },
           {
             "t": "p",
-            "x": "위원회에 따르면 PLA Cyberspace Force 1st Bureau와 연관된 인력이 Zhipu의 Beijing(베이징) 본사에 여러 차례 드나들었고, 가장 최근은 2026년 8월이다. PLA 조달 기록에는 DeepSeek, Alibaba의 Qwen, Moonshot, MiniMax 모델이 군 사이버 작전에 탑재된 정황이 담겼다. 위원회에 제출된 문서를 보면 같은 계열 모델이 미국 주요 기업 내부에서 돌아간다."
+            "x": "인허가 일괄처리 절차는 관계기관 회신 기한을 구체화하고, 기한 내 회신하지 않으면 제출 서류를 기준으로 절차를 진행할 수 있게 했다. 부설주차장은 기존 기준 대비 20%를 완화하고 시·도 조례로 50%까지 추가 완화할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "AIDC 특구는 과기정통부가 90일 이내 검토 후 AI위원회의 심의·의결을 거쳐 지정하며, 교통·열공급·에너지저장·통신·보안 시설 등도 지원 기반시설에 추가됐다. 다음 달 9일 공청회를 열고, 하위법령은 법률 시행일인 내년 3월 10일에 함께 시행할 계획이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "House report warns of US firms\nhooked on Chinese AI models",
-          "body": "Two House chairs say US companies building on Chinese open-weight models face questions on origin and distillation.",
-          "mini_headline": "US firms hooked on Chinese AI",
+        "ko": {
+          "headline": "AI 데이터센터 인허가\n일괄처리 길 열린다",
+          "body": "AI 데이터센터 특별법 시행령안이 인허가 일괄처리와 전력평가 특례를 담았다.",
+          "mini_headline": "AI 데이터센터 인허가 특례",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Chairman John Moolenaar (R-MI) of the House Select Committee on China and Chairman Andrew R. Garbarino (R-NY) of the House Committee on Homeland Security released a report following their joint investigation into the integration of Chinese-developed open-weight AI models into American companies' consumer platforms. It focused on the origin of these models, their data, training, potential for unauthorized distillation, and how companies purchase and acquire them, and evaluated whether the U.S. open-weight AI strategy spares American entities a choice between expensive or proprietary U.S. models and cheap, capable China-based alternatives."
+                "x": "내년 3월부터 인공지능 데이터센터(AIDC)의 인정 기준과 신고 절차가 새로 마련되고, 비수도권에 들어서는 계약전력 50MW 이하 AIDC는 전력계통영향평가를 면제받는다. 과학기술정보통신부는 '인공지능 데이터센터 산업 진흥에 관한 특별법' 시행을 앞두고 시행령·시행규칙 제정안을 마련해 다음 달 30일까지 입법예고한다고 20일 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "정부가 반도체·AI·데이터센터 등 3대 메가프로젝트를 발표한 지난 6월 29일 경기도 용인시 용인반도체클러스터 일반산업단지 공사현장의 모습.(사진=연합뉴스)"
               },
               {
                 "t": "p",
-                "x": "The committees began the investigation in April 2026 with letters to Anysphere and Airbnb, and sent a letter to DoorDash in July 2026."
+                "x": "AIDC는 AI 가속기를 일정규모 이상 보유하며 해당 가속기 운영에 필수적인 전력·냉각 등 설비를 갖추고 설계전력비율이 1.5 이하인 시설로 규정했다. 코로케이션 형태의 '제3자 제공형 시설'도 AIDC에 포함된다."
               },
               {
                 "t": "p",
-                "x": "The chairmen write that American businesses are increasingly adopting PRC-developed open-weight models \"because they are inexpensive, customizable, and competitive with leading American systems,\" and that federal investigations found major PRC developers \"used proxy networks and fraudulent accounts to harvest outputs from American frontier models.\""
+                "x": "신고는 구축신고(구축공사 개시 전)·운영신고(운영 개시 30일 전)·변경신고(사유 발생 후 30일 이내)로 구분했다. 구축신고만 하고 특례만 선점하는 허수 사업자를 막기 위해 신고일로부터 1년 이내 착공일을 정해 신고하도록 했다."
               },
               {
                 "t": "p",
-                "x": "The committees say personnel associated with the 1st Bureau of the PLA Cyberspace Force were present on multiple occasions at Zhipu's Beijing headquarters, most recently in August 2026, and that PLA procurement records show DeepSeek, Alibaba's Qwen, Moonshot and MiniMax models being built into military cyber operations. Documents produced to the committees show these same model families running inside major American companies."
+                "x": "인허가 일괄처리 절차는 관계기관 회신 기한을 구체화하고, 기한 내 회신하지 않으면 제출 서류를 기준으로 절차를 진행할 수 있게 했다. 부설주차장은 기존 기준 대비 20%를 완화하고 시·도 조례로 50%까지 추가 완화할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AIDC 특구는 과기정통부가 90일 이내 검토 후 AI위원회의 심의·의결을 거쳐 지정하며, 교통·열공급·에너지저장·통신·보안 시설 등도 지원 기반시설에 추가됐다. 다음 달 9일 공청회를 열고, 하위법령은 법률 시행일인 내년 3월 10일에 함께 시행할 계획이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "중국 AI 모델에 기댄\nUS 기업에 하원 경고",
-          "body": "하원 위원장 둘이 중국 개방형 모델을 쓰는 US 기업의 출처·증류 문제를 짚었다.",
-          "mini_headline": "중국 AI에 기댄 US 기업",
+        "en": {
+          "headline": "AI data center permits move\ntoward one-stop processing",
+          "body": "A draft decree for the AI data center special act includes one-stop permitting and a power assessment exemption.",
+          "mini_headline": "AI data center permit exemptions",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "하원 중국특별위원회(House Select Committee on China) 위원장 John Moolenaar(R-MI)와 하원 국토안보위원회(House Committee on Homeland Security) 위원장 Andrew R. Garbarino(R-NY)가 중국이 개발한(Chinese-developed) open-weight AI 모델이 미국 기업의 소비자 플랫폼에 들어가는 실태를 함께 조사해 보고서를 냈다. 보고서는 모델의 출처와 데이터, 학습 과정, 무단 증류 가능성, 기업의 구매·조달 방식을 들여다봤다. U.S. open-weight AI 전략이 비싸거나 독점적인 U.S. 모델과 싸고 성능 좋은 중국 기반(China-based) 대안 사이의 양자택일에서 미국 기업들을 벗어나게 해 주는지도 따졌다."
+                "x": "From March next year, new recognition criteria and reporting procedures will apply to artificial intelligence data centers (AIDC), and AIDCs outside the Seoul metropolitan area with contracted power of 50MW or less will be exempt from power grid impact assessments. The Ministry of Science and ICT said on the 20th that it has drafted an enforcement decree and enforcement rules ahead of the 'Special Act on the Promotion of the Artificial Intelligence Data Center Industry' taking effect, and will give advance legislative notice until the 30th of next month."
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "The construction site of the Yongin Semiconductor Cluster general industrial complex in Yongin, Gyeonggi Province, on June 29, when the government announced its 3 major megaprojects in semiconductors, AI and data centers. (Photo=Yonhap News)"
               },
               {
                 "t": "p",
-                "x": "두 위원회는 2026년 4월 Anysphere와 Airbnb에 서한을 보내 조사에 착수했고, 2026년 7월에는 DoorDash에도 서한을 보냈다."
+                "x": "An AIDC is defined as a facility that holds AI accelerators above a certain scale, has the power, cooling and other equipment essential to running them, and has a design power ratio of 1.5 or less. Colocation-type 'third-party provision facilities' also count as AIDCs."
               },
               {
                 "t": "p",
-                "x": "두 위원장은 미국 기업들이 PRC-developed(중국이 개발한) open-weight 모델을 갈수록 많이 들여오는 이유로 \"저렴하고, 맞춤화가 가능하며, 미국 최고 시스템과 경쟁할 만하기 때문\"을 들었다. 연방 조사에서 주요 PRC 개발사들이 \"프록시 네트워크와 사기 계정을 이용해 미국 프런티어 모델의 출력물을 수집했다\"는 사실도 드러났다고 적었다."
+                "x": "Reports are divided into construction reports (before construction begins), operation reports (30 days before operations start) and change reports (within 30 days of the cause arising). To stop sham operators from filing only a construction report to lock in the special provisions, filers must set and report a construction start date within 1 year of the report date."
               },
               {
                 "t": "p",
-                "x": "위원회에 따르면 PLA Cyberspace Force 1st Bureau와 연관된 인력이 Zhipu의 Beijing(베이징) 본사에 여러 차례 드나들었고, 가장 최근은 2026년 8월이다. PLA 조달 기록에는 DeepSeek, Alibaba의 Qwen, Moonshot, MiniMax 모델이 군 사이버 작전에 탑재된 정황이 담겼다. 위원회에 제출된 문서를 보면 같은 계열 모델이 미국 주요 기업 내부에서 돌아간다."
+                "x": "The one-stop permitting procedure sets specific response deadlines for relevant agencies, and if they do not respond in time, the process can proceed based on the submitted documents. Attached parking requirements are eased by 20% from the existing standard and can be eased further, by up to 50%, through city and provincial ordinances."
+              },
+              {
+                "t": "p",
+                "x": "AIDC special zones will be designated by the Ministry of Science and ICT after a review within 90 days and deliberation and resolution by the AI Committee, and transportation, heat supply, energy storage, telecommunications and security facilities have been added to the supporting infrastructure. A public hearing will be held on the 9th of next month, and the subordinate regulations are set to take effect on March 10 next year, the date the law takes effect."
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国AIモデル依存の\nUS企業に下院が警告",
-          "body": "下院の両委員長は、中国製オープンウェイトモデルを使うUS企業の出所・蒸留問題を指摘した。",
-          "mini_headline": "中国AIに依存するUS企業",
+          "headline": "AIデータセンター\n許認可を一括処理へ",
+          "body": "AIデータセンター特別法の施行令案は、許認可の一括処理と電力評価の特例を盛り込んだ。",
+          "mini_headline": "AIデータセンター許認可の特例",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "下院中国特別委員会(House Select Committee on China)のJohn Moolenaar委員長(R-MI)と下院国土安全保障委員会(House Committee on Homeland Security)のAndrew R. Garbarino委員長(R-NY)は、中国で開発された(Chinese-developed)open-weight AIモデルが米国企業の消費者向けプラットフォームに組み込まれている実態をめぐる合同調査を経て、報告書を公表した。報告書はこれらのモデルの出所、データ、学習、無許可の蒸留の可能性、企業による購入・調達の方法に焦点を当て、U.S.のopen-weight AI戦略が、高価または独占的なU.S.モデルと、安価で高性能な中国拠点(China-based)の代替との二択から米国の事業者を解放するかどうかを評価した。"
+                "x": "来年3月から人工知能データセンター(AIDC)の認定基準と届出手続きが新設され、非首都圏に立地する契約電力50MW 以下のAIDCは電力系統影響評価が免除される。科学技術情報通信部は「人工知能データセンター産業の振興に関する特別法」の施行を前に施行令・施行規則の制定案をまとめ、来月30日まで立法予告すると20日明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "政府が半導体・AI・データセンターなど3大メガプロジェクトを発表した6月29日、京畿道龍仁市の龍仁半導体クラスター一般産業団地の工事現場。(写真=聯合ニュース)"
               },
               {
                 "t": "p",
-                "x": "両委員会は2026年4月にAnysphereとAirbnbへ書簡を送って調査を始め、2026年7月にはDoorDashにも書簡を送った。"
+                "x": "AIDCは、AIアクセラレーターを一定規模以上保有し、その運用に不可欠な電力・冷却などの設備を備え、設計電力比率が1.5以下の施設と規定した。コロケーション型の「第三者提供型施設」もAIDCに含まれる。"
               },
               {
                 "t": "p",
-                "x": "両委員長は、米国企業がPRC-developed(中国開発)のopen-weightモデルの採用を増やしているのは「安価で、カスタマイズ可能で、米国の主要システムに匹敵するから」だと記し、さらに連邦の調査で主要なPRCの開発企業が「プロキシネットワークと不正アカウントを使って米国のフロンティアモデルの出力を収集していた」ことが判明したと述べている。"
+                "x": "届出は構築届出(構築工事の開始前)・運営届出(運営開始の30日前)・変更届出(事由発生後30日以内)に区分した。構築届出だけで特例を先取りする見せかけの事業者を防ぐため、届出日から1年以内に着工日を定めて届け出るようにした。"
               },
               {
                 "t": "p",
-                "x": "両委員会によると、PLA Cyberspace Force 1st Bureauに関係する人員がZhipuのBeijing(北京)本社に複数回姿を見せており、直近は2026年8月だという。またPLAの調達記録には、DeepSeek、AlibabaのQwen、Moonshot、MiniMaxのモデルが軍のサイバー作戦に組み込まれていることが示されている。委員会に提出された文書は、同じモデル群が米国の大手企業の内部で稼働していることを示している。"
+                "x": "許認可の一括処理手続きでは関係機関の回答期限を具体化し、期限内に回答がなければ提出書類に基づいて手続きを進められるようにした。附設駐車場は既存基準より20%緩和し、市・道の条例でさらに50%まで緩和できる。"
+              },
+              {
+                "t": "p",
+                "x": "AIDC特区は科学技術情報通信部が90日以内に検討した後、AI委員会の審議・議決を経て指定し、交通・熱供給・エネルギー貯蔵・通信・保安施設なども支援基盤施設に追加された。来月9日に公聴会を開き、下位法令は法律の施行日である来年3月10日に合わせて施行する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "众议院报告警告\nUS企业依赖中国AI模型",
-          "body": "两位众议院委员会主席称，基于中国开放权重模型构建产品的US企业面临来源与蒸馏方面的质疑。",
-          "mini_headline": "依赖中国AI的US企业",
+          "headline": "AI数据中心许可\n将实行一并审批",
+          "body": "AI数据中心特别法实施令草案纳入了许可一并审批与电力评估特例。",
+          "mini_headline": "AI数据中心许可特例",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "众议院中国特别委员会（House Select Committee on China）主席John Moolenaar（R-MI）与众议院国土安全委员会（House Committee on Homeland Security）主席Andrew R. Garbarino（R-NY）在联合调查中国开发（Chinese-developed）的open-weight AI模型融入美国企业消费者平台的情况后，发布了一份报告。报告聚焦这些模型的来源、数据、训练、遭未经授权蒸馏的可能性，以及企业采购和获取模型的方式，并评估U.S.的open-weight AI战略能否让美国实体不必在昂贵或专有的U.S.模型与廉价而强大的中国本土（China-based）替代品之间二选一。"
+                "x": "自明年3月起，人工智能数据中心(AIDC)的认定标准和申报程序将新设，位于首都圈以外、合同电力50MW 以下的AIDC可免于电力系统影响评估。科学技术信息通信部20日表示，在《人工智能数据中心产业振兴特别法》施行前已拟定施行令和施行规则制定案，将进行立法预告至下月30日。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "6月29日政府发布半导体、AI、数据中心等3大重点项目当天，京畿道龙仁市龙仁半导体集群一般产业园区的施工现场。（图片=韩联社）"
               },
               {
                 "t": "p",
-                "x": "两个委员会于2026年4月致函Anysphere和Airbnb，由此启动调查，并于2026年7月致函DoorDash。"
+                "x": "AIDC被定义为拥有一定规模以上AI加速器、具备运行加速器所必需的电力和冷却等设施、且设计电力比率在1.5以下的设施。托管形式的“第三方提供型设施”也属于AIDC。"
               },
               {
                 "t": "p",
-                "x": "两位主席写道，美国企业正越来越多地采用PRC-developed（中国开发）的open-weight模型，“因为它们价格低廉、可定制，并能与领先的美国系统竞争”；联邦调查还发现，主要的PRC开发商“利用代理网络和欺诈账户获取美国前沿模型的输出”。"
+                "x": "申报分为建设申报（建设工程开工前）、运营申报（开始运营前30天）和变更申报（事由发生后30天内）。为防止只做建设申报以抢占特例的虚假经营者，要求自申报之日起1年内确定开工日期并申报。"
               },
               {
                 "t": "p",
-                "x": "两个委员会称，与PLA Cyberspace Force 1st Bureau相关的人员曾多次出现在Zhipu位于Beijing（北京）的总部，最近一次是在2026年8月；PLA采购记录显示，DeepSeek、Alibaba的Qwen、Moonshot和MiniMax模型被嵌入军事网络行动。提交给委员会的文件显示，同样的模型系列正在美国大型企业内部运行。"
+                "x": "许可一并审批程序明确了相关机构的回复期限，逾期未回复的可依据所提交材料推进程序。附设停车场标准比现行标准放宽20%，并可通过市、道条例进一步放宽至50%。"
+              },
+              {
+                "t": "p",
+                "x": "AIDC特区由科学技术信息通信部在90天内审查后，经AI委员会审议、表决后指定；交通、供热、储能、通信、安保等设施也被纳入支援基础设施。下月9日将举行公听会，下位法规计划于法律施行日即明年3月10日一并施行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Informe de la House: firmas US\ndependen de modelos de AI chinos",
-          "body": "Dos presidentes de la House cuestionan el origen y la destilación de modelos chinos abiertos usados en firmas de US.",
-          "mini_headline": "Firmas de US atadas a la AI china",
+          "headline": "Los centros de datos de AI\ntendrán permisos unificados",
+          "body": "El proyecto de decreto de la ley especial de centros de datos de AI prevé permisos unificados y exenciones de red.",
+          "mini_headline": "Excepciones para centros de datos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El presidente John Moolenaar (R-MI), del House Select Committee on China, y el presidente Andrew R. Garbarino (R-NY), del House Committee on Homeland Security, publicaron un informe tras su investigación conjunta sobre la integración de modelos de AI open-weight de desarrollo chino (Chinese-developed) en las plataformas de consumo de empresas estadounidenses. El informe se centró en el origen de estos modelos, sus datos, su entrenamiento, el potencial de destilación no autorizada y la forma en que las empresas los compran y adquieren, y evaluó si la estrategia de AI open-weight de U.S. evita a las entidades estadounidenses tener que elegir entre modelos de U.S. caros o propietarios y alternativas baratas y capaces con sede en China (China-based)."
+                "x": "A partir de marzo del próximo año se establecerán nuevos criterios de reconocimiento y procedimientos de notificación para los centros de datos de inteligencia artificial (AIDC), y los AIDC situados fuera del área metropolitana de Seúl con una potencia contratada de 50MW o menos quedarán exentos de la evaluación de impacto en la red eléctrica. El Ministerio de Ciencia y TIC informó el día 20 que elaboró los proyectos de decreto y reglamento de aplicación antes de la entrada en vigor de la 'Ley especial de promoción de la industria de centros de datos de inteligencia artificial', y que los someterá a aviso legislativo previo hasta el día 30 del próximo mes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "Obras en el complejo industrial general del Clúster de Semiconductores de Yongin, en Yongin (provincia de Gyeonggi), el 29 de junio, cuando el Gobierno anunció 3 megaproyectos en semiconductores, AI y centros de datos. (Foto=Yonhap)"
               },
               {
                 "t": "p",
-                "x": "Los comités iniciaron la investigación en abril de 2026 con cartas a Anysphere y Airbnb, y enviaron una carta a DoorDash en julio de 2026."
+                "x": "Un AIDC se define como una instalación que posee aceleradores de AI por encima de cierta escala, cuenta con los equipos de energía, refrigeración y demás elementos esenciales para operarlos, y tiene una relación de potencia de diseño de 1.5 o menos. Las 'instalaciones de provisión a terceros' de tipo colocation también se consideran AIDC."
               },
               {
                 "t": "p",
-                "x": "Los presidentes escriben que las empresas estadounidenses adoptan cada vez más modelos open-weight PRC-developed (desarrollados en China) \"porque son baratos, personalizables y competitivos frente a los principales sistemas estadounidenses\", y que investigaciones federales determinaron que grandes desarrolladores de la PRC \"usaron redes proxy y cuentas fraudulentas para recolectar resultados de modelos de frontera estadounidenses\"."
+                "x": "Las notificaciones se dividen en notificación de construcción (antes de iniciar las obras), de operación (30 días antes de empezar a operar) y de modificación (dentro de los 30 días posteriores al hecho). Para impedir que operadores ficticios presenten solo la notificación de construcción y acaparen las excepciones, deberán fijar y notificar una fecha de inicio de obras dentro de 1 año desde la notificación."
               },
               {
                 "t": "p",
-                "x": "Los comités afirman que personal vinculado al 1st Bureau de la PLA Cyberspace Force estuvo presente en varias ocasiones en la sede de Zhipu en Beijing, la más reciente en agosto de 2026, y que registros de adquisiciones de la PLA muestran modelos de DeepSeek, Qwen de Alibaba, Moonshot y MiniMax integrados en operaciones cibernéticas militares. Documentos entregados a los comités muestran estas mismas familias de modelos funcionando dentro de grandes empresas estadounidenses."
+                "x": "El procedimiento unificado de permisos concreta los plazos de respuesta de los organismos implicados y, si no responden a tiempo, permite avanzar con base en los documentos presentados. Los requisitos de estacionamiento anexo se reducen un 20% respecto a la norma vigente, y las ordenanzas de ciudades y provincias pueden flexibilizarlos aún más, hasta un 50%."
+              },
+              {
+                "t": "p",
+                "x": "Las zonas especiales de AIDC las designará el Ministerio de Ciencia y TIC tras una revisión de hasta 90 días y la deliberación y aprobación del Comité de AI; además, se añadieron instalaciones de transporte, suministro de calor, almacenamiento de energía, telecomunicaciones y seguridad a la infraestructura de apoyo. Se celebrará una audiencia pública el día 9 del próximo mes, y la normativa secundaria entrará en vigor el 10 de marzo del próximo año, fecha de entrada en vigor de la ley."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "중국 AI 모델에 기댄\nUS 기업에 하원 경고",
-          "body": "하원 위원장 둘이 중국 개방형 모델을 쓰는 US 기업의 출처·증류 문제를 짚었다.",
-          "mini_headline": "중국 AI에 기댄 US 기업",
+        "en": {
+          "headline": "AI data center permits move\ntoward one-stop processing",
+          "body": "A draft decree for the AI data center special act includes one-stop permitting and a power assessment exemption.",
+          "mini_headline": "AI data center permit exemptions",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "하원 중국특별위원회(House Select Committee on China) 위원장 John Moolenaar(R-MI)와 하원 국토안보위원회(House Committee on Homeland Security) 위원장 Andrew R. Garbarino(R-NY)가 중국이 개발한(Chinese-developed) open-weight AI 모델이 미국 기업의 소비자 플랫폼에 통합되는 실태를 함께 조사한 뒤 보고서를 냈다. 보고서는 이들 모델의 출처와 데이터, 학습, 무단 증류 가능성, 기업의 구매·조달 방식을 집중적으로 살폈고, U.S. open-weight AI 전략이 미국 기업들을 비싸거나 독점적인 U.S. 모델과 저렴하면서도 성능 좋은 중국 기반(China-based) 대안 사이의 선택에서 벗어나게 해 주는지를 평가했다."
+                "x": "From March next year, new recognition criteria and reporting procedures will apply to artificial intelligence data centers (AIDC), and AIDCs outside the Seoul metropolitan area with contracted power of 50MW or less will be exempt from power grid impact assessments. The Ministry of Science and ICT said on the 20th that it has drafted an enforcement decree and enforcement rules ahead of the 'Special Act on the Promotion of the Artificial Intelligence Data Center Industry' taking effect, and will give advance legislative notice until the 30th of next month."
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "The construction site of the Yongin Semiconductor Cluster general industrial complex in Yongin, Gyeonggi Province, on June 29, when the government announced its 3 major megaprojects in semiconductors, AI and data centers. (Photo=Yonhap News)"
               },
               {
                 "t": "p",
-                "x": "두 위원회는 2026년 4월 Anysphere와 Airbnb에 서한을 보내며 조사를 시작했고, 2026년 7월에는 DoorDash에 서한을 보냈다."
+                "x": "An AIDC is defined as a facility that holds AI accelerators above a certain scale, has the power, cooling and other equipment essential to running them, and has a design power ratio of 1.5 or less. Colocation-type 'third-party provision facilities' also count as AIDCs."
               },
               {
                 "t": "p",
-                "x": "두 위원장은 미국 기업들이 PRC-developed(중국이 개발한) open-weight 모델을 점점 더 많이 도입하고 있으며 그 이유는 \"저렴하고, 맞춤화가 가능하며, 미국 최고 시스템과 경쟁할 만하기 때문\"이라고 썼다. 또 연방 조사 결과 주요 PRC 개발사들이 \"프록시 네트워크와 사기 계정을 이용해 미국 프런티어 모델의 출력물을 수집했다\"는 사실이 드러났다고 적었다."
+                "x": "Reports are divided into construction reports (before construction begins), operation reports (30 days before operations start) and change reports (within 30 days of the cause arising). To stop sham operators from filing only a construction report to lock in the special provisions, filers must set and report a construction start date within 1 year of the report date."
               },
               {
                 "t": "p",
-                "x": "위원회에 따르면 PLA Cyberspace Force 1st Bureau와 연관된 인력이 Zhipu의 Beijing(베이징) 본사에 여러 차례 나타났고, 가장 최근은 2026년 8월이다. 또 PLA 조달 기록에는 DeepSeek, Alibaba의 Qwen, Moonshot, MiniMax 모델이 군 사이버 작전에 탑재되는 정황이 담겨 있다. 위원회에 제출된 문서에는 같은 모델 계열이 미국 주요 기업 내부에서 돌아가고 있는 것으로 나타난다."
+                "x": "The one-stop permitting procedure sets specific response deadlines for relevant agencies, and if they do not respond in time, the process can proceed based on the submitted documents. Attached parking requirements are eased by 20% from the existing standard and can be eased further, by up to 50%, through city and provincial ordinances."
+              },
+              {
+                "t": "p",
+                "x": "AIDC special zones will be designated by the Ministry of Science and ICT after a review within 90 days and deliberation and resolution by the AI Committee, and transportation, heat supply, energy storage, telecommunications and security facilities have been added to the supporting infrastructure. A public hearing will be held on the 9th of next month, and the subordinate regulations are set to take effect on March 10 next year, the date the law takes effect."
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国AIモデル依存の\nUS企業に下院が警告",
-          "body": "下院の両委員長は、中国製オープンウェイトモデルを使うUS企業の出所・蒸留問題を指摘した。",
-          "mini_headline": "中国AIに依存するUS企業",
+          "headline": "AIデータセンター\n許認可を一括処理へ",
+          "body": "AIデータセンター特別法の施行令案は、許認可の一括処理と電力評価の特例を盛り込んだ。",
+          "mini_headline": "AIデータセンター許認可の特例",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "下院中国特別委員会(House Select Committee on China)のJohn Moolenaar委員長(R-MI)と下院国土安全保障委員会(House Committee on Homeland Security)のAndrew R. Garbarino委員長(R-NY)は、中国で開発された(Chinese-developed)open-weight AIモデルが米国企業の消費者向けプラットフォームに組み込まれている実態をめぐる合同調査を経て、報告書を公表した。報告書はこれらのモデルの出所、データ、学習、無許可の蒸留の可能性、企業による購入・調達の方法に焦点を当て、U.S.のopen-weight AI戦略が、高価または独占的なU.S.モデルと、安価で高性能な中国拠点(China-based)の代替との二択から米国の事業者を解放するかどうかを評価した。"
+                "x": "来年3月から人工知能データセンター(AIDC)の認定基準と届出手続きが新設され、非首都圏に立地する契約電力50MW 以下のAIDCは電力系統影響評価が免除される。科学技術情報通信部は「人工知能データセンター産業の振興に関する特別法」の施行を前に施行令・施行規則の制定案をまとめ、来月30日まで立法予告すると20日明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "政府が半導体・AI・データセンターなど3大メガプロジェクトを発表した6月29日、京畿道龍仁市の龍仁半導体クラスター一般産業団地の工事現場。(写真=聯合ニュース)"
               },
               {
                 "t": "p",
-                "x": "両委員会は2026年4月にAnysphereとAirbnbへ書簡を送って調査を始め、2026年7月にはDoorDashにも書簡を送った。"
+                "x": "AIDCは、AIアクセラレーターを一定規模以上保有し、その運用に不可欠な電力・冷却などの設備を備え、設計電力比率が1.5以下の施設と規定した。コロケーション型の「第三者提供型施設」もAIDCに含まれる。"
               },
               {
                 "t": "p",
-                "x": "両委員長は、米国企業がPRC-developed(中国開発)のopen-weightモデルの採用を増やしているのは「安価で、カスタマイズ可能で、米国の主要システムに匹敵するから」だと記し、さらに連邦の調査で主要なPRCの開発企業が「プロキシネットワークと不正アカウントを使って米国のフロンティアモデルの出力を収集していた」ことが判明したと述べている。"
+                "x": "届出は構築届出(構築工事の開始前)・運営届出(運営開始の30日前)・変更届出(事由発生後30日以内)に区分した。構築届出だけで特例を先取りする見せかけの事業者を防ぐため、届出日から1年以内に着工日を定めて届け出るようにした。"
               },
               {
                 "t": "p",
-                "x": "両委員会によると、PLA Cyberspace Force 1st Bureauに関係する人員がZhipuのBeijing(北京)本社に複数回姿を見せており、直近は2026年8月だという。またPLAの調達記録には、DeepSeek、AlibabaのQwen、Moonshot、MiniMaxのモデルが軍のサイバー作戦に組み込まれていることが示されている。委員会に提出された文書は、同じモデル群が米国の大手企業の内部で稼働していることを示している。"
+                "x": "許認可の一括処理手続きでは関係機関の回答期限を具体化し、期限内に回答がなければ提出書類に基づいて手続きを進められるようにした。附設駐車場は既存基準より20%緩和し、市・道の条例でさらに50%まで緩和できる。"
+              },
+              {
+                "t": "p",
+                "x": "AIDC特区は科学技術情報通信部が90日以内に検討した後、AI委員会の審議・議決を経て指定し、交通・熱供給・エネルギー貯蔵・通信・保安施設なども支援基盤施設に追加された。来月9日に公聴会を開き、下位法令は法律の施行日である来年3月10日に合わせて施行する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "众议院报告警告\nUS企业依赖中国AI模型",
-          "body": "两位众议院委员会主席称，基于中国开放权重模型构建产品的US企业面临来源与蒸馏方面的质疑。",
-          "mini_headline": "依赖中国AI的US企业",
+          "headline": "AI数据中心许可\n将实行一并审批",
+          "body": "AI数据中心特别法实施令草案纳入了许可一并审批与电力评估特例。",
+          "mini_headline": "AI数据中心许可特例",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "众议院中国特别委员会（House Select Committee on China）主席John Moolenaar（R-MI）与众议院国土安全委员会（House Committee on Homeland Security）主席Andrew R. Garbarino（R-NY）在联合调查中国开发（Chinese-developed）的open-weight AI模型融入美国企业消费者平台的情况后，发布了一份报告。报告聚焦这些模型的来源、数据、训练、遭未经授权蒸馏的可能性，以及企业采购和获取模型的方式，并评估U.S.的open-weight AI战略能否让美国实体不必在昂贵或专有的U.S.模型与廉价而强大的中国本土（China-based）替代品之间二选一。"
+                "x": "自明年3月起，人工智能数据中心(AIDC)的认定标准和申报程序将新设，位于首都圈以外、合同电力50MW 以下的AIDC可免于电力系统影响评估。科学技术信息通信部20日表示，在《人工智能数据中心产业振兴特别法》施行前已拟定施行令和施行规则制定案，将进行立法预告至下月30日。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "6月29日政府发布半导体、AI、数据中心等3大重点项目当天，京畿道龙仁市龙仁半导体集群一般产业园区的施工现场。（图片=韩联社）"
               },
               {
                 "t": "p",
-                "x": "两个委员会于2026年4月致函Anysphere和Airbnb，由此启动调查，并于2026年7月致函DoorDash。"
+                "x": "AIDC被定义为拥有一定规模以上AI加速器、具备运行加速器所必需的电力和冷却等设施、且设计电力比率在1.5以下的设施。托管形式的“第三方提供型设施”也属于AIDC。"
               },
               {
                 "t": "p",
-                "x": "两位主席写道，美国企业正越来越多地采用PRC-developed（中国开发）的open-weight模型，“因为它们价格低廉、可定制，并能与领先的美国系统竞争”；联邦调查还发现，主要的PRC开发商“利用代理网络和欺诈账户获取美国前沿模型的输出”。"
+                "x": "申报分为建设申报（建设工程开工前）、运营申报（开始运营前30天）和变更申报（事由发生后30天内）。为防止只做建设申报以抢占特例的虚假经营者，要求自申报之日起1年内确定开工日期并申报。"
               },
               {
                 "t": "p",
-                "x": "两个委员会称，与PLA Cyberspace Force 1st Bureau相关的人员曾多次出现在Zhipu位于Beijing（北京）的总部，最近一次是在2026年8月；PLA采购记录显示，DeepSeek、Alibaba的Qwen、Moonshot和MiniMax模型被嵌入军事网络行动。提交给委员会的文件显示，同样的模型系列正在美国大型企业内部运行。"
+                "x": "许可一并审批程序明确了相关机构的回复期限，逾期未回复的可依据所提交材料推进程序。附设停车场标准比现行标准放宽20%，并可通过市、道条例进一步放宽至50%。"
+              },
+              {
+                "t": "p",
+                "x": "AIDC特区由科学技术信息通信部在90天内审查后，经AI委员会审议、表决后指定；交通、供热、储能、通信、安保等设施也被纳入支援基础设施。下月9日将举行公听会，下位法规计划于法律施行日即明年3月10日一并施行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Informe de la House: firmas US\ndependen de modelos de AI chinos",
-          "body": "Dos presidentes de la House cuestionan el origen y la destilación de modelos chinos abiertos usados en firmas de US.",
-          "mini_headline": "Firmas de US atadas a la AI china",
+          "headline": "Los centros de datos de AI\ntendrán permisos unificados",
+          "body": "El proyecto de decreto de la ley especial de centros de datos de AI prevé permisos unificados y exenciones de red.",
+          "mini_headline": "Excepciones para centros de datos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El presidente John Moolenaar (R-MI), del House Select Committee on China, y el presidente Andrew R. Garbarino (R-NY), del House Committee on Homeland Security, publicaron un informe tras su investigación conjunta sobre la integración de modelos de AI open-weight de desarrollo chino (Chinese-developed) en las plataformas de consumo de empresas estadounidenses. El informe se centró en el origen de estos modelos, sus datos, su entrenamiento, el potencial de destilación no autorizada y la forma en que las empresas los compran y adquieren, y evaluó si la estrategia de AI open-weight de U.S. evita a las entidades estadounidenses tener que elegir entre modelos de U.S. caros o propietarios y alternativas baratas y capaces con sede en China (China-based)."
+                "x": "A partir de marzo del próximo año se establecerán nuevos criterios de reconocimiento y procedimientos de notificación para los centros de datos de inteligencia artificial (AIDC), y los AIDC situados fuera del área metropolitana de Seúl con una potencia contratada de 50MW o menos quedarán exentos de la evaluación de impacto en la red eléctrica. El Ministerio de Ciencia y TIC informó el día 20 que elaboró los proyectos de decreto y reglamento de aplicación antes de la entrada en vigor de la 'Ley especial de promoción de la industria de centros de datos de inteligencia artificial', y que los someterá a aviso legislativo previo hasta el día 30 del próximo mes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+                "cap": "Obras en el complejo industrial general del Clúster de Semiconductores de Yongin, en Yongin (provincia de Gyeonggi), el 29 de junio, cuando el Gobierno anunció 3 megaproyectos en semiconductores, AI y centros de datos. (Foto=Yonhap)"
               },
               {
                 "t": "p",
-                "x": "Los comités iniciaron la investigación en abril de 2026 con cartas a Anysphere y Airbnb, y enviaron una carta a DoorDash en julio de 2026."
+                "x": "Un AIDC se define como una instalación que posee aceleradores de AI por encima de cierta escala, cuenta con los equipos de energía, refrigeración y demás elementos esenciales para operarlos, y tiene una relación de potencia de diseño de 1.5 o menos. Las 'instalaciones de provisión a terceros' de tipo colocation también se consideran AIDC."
               },
               {
                 "t": "p",
-                "x": "Los presidentes escriben que las empresas estadounidenses adoptan cada vez más modelos open-weight PRC-developed (desarrollados en China) \"porque son baratos, personalizables y competitivos frente a los principales sistemas estadounidenses\", y que investigaciones federales determinaron que grandes desarrolladores de la PRC \"usaron redes proxy y cuentas fraudulentas para recolectar resultados de modelos de frontera estadounidenses\"."
+                "x": "Las notificaciones se dividen en notificación de construcción (antes de iniciar las obras), de operación (30 días antes de empezar a operar) y de modificación (dentro de los 30 días posteriores al hecho). Para impedir que operadores ficticios presenten solo la notificación de construcción y acaparen las excepciones, deberán fijar y notificar una fecha de inicio de obras dentro de 1 año desde la notificación."
               },
               {
                 "t": "p",
-                "x": "Los comités afirman que personal vinculado al 1st Bureau de la PLA Cyberspace Force estuvo presente en varias ocasiones en la sede de Zhipu en Beijing, la más reciente en agosto de 2026, y que registros de adquisiciones de la PLA muestran modelos de DeepSeek, Qwen de Alibaba, Moonshot y MiniMax integrados en operaciones cibernéticas militares. Documentos entregados a los comités muestran estas mismas familias de modelos funcionando dentro de grandes empresas estadounidenses."
+                "x": "El procedimiento unificado de permisos concreta los plazos de respuesta de los organismos implicados y, si no responden a tiempo, permite avanzar con base en los documentos presentados. Los requisitos de estacionamiento anexo se reducen un 20% respecto a la norma vigente, y las ordenanzas de ciudades y provincias pueden flexibilizarlos aún más, hasta un 50%."
+              },
+              {
+                "t": "p",
+                "x": "Las zonas especiales de AIDC las designará el Ministerio de Ciencia y TIC tras una revisión de hasta 90 días y la deliberación y aprobación del Comité de AI; además, se añadieron instalaciones de transporte, suministro de calor, almacenamiento de energía, telecomunicaciones y seguridad a la infraestructura de apoyo. Se celebrará una audiencia pública el día 9 del próximo mes, y la normativa secundaria entrará en vigor el 10 de marzo del próximo año, fecha de entrada en vigor de la ley."
               }
             ]
           }
@@ -275,15 +365,15 @@
       }
     },
     {
-      "id": "ccw-autonomous-weapons-2028",
+      "id": "hickenlooper-ai-select-committee",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "128개국, 자율무기\n두 해 협의 지지",
-      "body": "CCW가 2028년까지 자율무기 문서에 합의했고 러시아 등은 강한 권한을 막았다.",
-      "mini_headline": "킬러 로봇 규범 2028년으로 연기",
+      "headline": "Hickenlooper\n상원 AI 특위 제안",
+      "body": "Hickenlooper 의원이 외부 평가를 앞세운 상원 AI 특위를 제안했다.",
+      "mini_headline": "상원 AI 특위 제안",
       "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
+      "source": "AP News",
+      "url": "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -291,179 +381,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-            "cap": "2026년 11월 16일 제네바에서 열린 U.N. 특정재래식무기금지협약 회의에 대표단이 참석하고 있다. | Fabrice Coffrini/AFP via Getty Images"
+            "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+            "cap": "2026년 2월 26일 목요일 뉴욕에서 컴퓨터 화면에 Anthropic 웹사이트 페이지와 회사 로고가 표시돼 있다. (AP Photo/Patrick Sison, File)"
           },
           {
             "t": "p",
-            "x": "AI 기반(AI-powered) 킬러 로봇 규제를 논의한 U.N. 회의가 토요일 협상 권한을 얻지 못하고 끝났다. 각국은 논의를 2028년까지 이어 가기로 했고, NGOs는 결과를 \"실망스럽다\"고 평가했다."
+            "x": "상원 민주당은 차기 의회에서 인공지능 안전장치를 가장 빨리 마련할 방법을 놓고 논의 중이다. 콜로라도주의 John Hickenlooper 상원의원은 내년 다수당을 이끌 사람이라면 AI를 두고 “책임 있는 규제를 위한 첫날 계획”을 갖춰야 한다고 말했다. Chuck Schumer와 Chris Van Hollen의 경쟁에서 그는 아직 어느 쪽도 지지하지 않았다."
           },
           {
             "t": "p",
-            "x": "법적 구속력 있는 규칙을 만들려는 시도는 여러 나라, 특히 러시아의 반대에 막혔다. 회의 의장인 스위스 외교관 쥘리앵 퇴니(Julien Thöni)는 128개 회원국이 앞으로 두 해 동안 \"치명적 자율무기체계에 관한 국제 문서의 마련\"에 착수하기로 끝내 합의했다고 밝혔다."
+            "x": "Hickenlooper는 탄탄한 제삼자 평가 요건, 국가안보 문제 완화, “AI 기업에 책임을 묻는 명확한 규칙”을 우선순위로 꼽았다. 흩어진 논의를 한데 모을 인공지능 특별위원회도 제안했다."
           },
           {
             "t": "p",
-            "x": "회의가 합의제로 운영되는 탓에 러시아가 한 주 내내 공식 협상을 막았고, 논의는 비공식으로 이어졌다. EU 외교관 두 명은 U.S., U.K., 한국, 일본, 튀르키예, 이스라엘도 구속력 있는 규제에 반대했다고 전했다. 정부 간 전문가 그룹은 2028년 조약 당사국 회의에 결과를 보고한다."
+            "x": "Van Hollen은 이 구상을 지지한다고 했다. Ron Wyden 상원의원은 “구체적인 내용을 보고 싶다”고 했고, Bernie Sanders 상원의원은 바로 지지하지는 않았다. 공화당 Ted Cruz 상원의원은 이 사안을 자기 위원회 등에서 떼어내는 건 “말이 안 된다”면서도, 재앙적 위험만큼은 양당이 공통점을 찾길 바란다고 했다."
           },
           {
             "t": "p",
-            "x": "아시아태평양 법·안보연구소(Asia-Pacific Institute for Law and Security)의 레인 리보야(Rain Liivoja)는 결정문에 법적 구속력 있는 문서 언급이 없다며 \"2028년 말까지 조약이 나오지 않을 가능성은 여전히 있다. 심지어 그럴 공산이 크다\"고 말했다."
+            "x": "Schumer 측 여성 대변인은 상원 민주당이 AI를 새 다수당의 최우선 과제로 삼고 포괄적인 법안을 내놓으려 애쓰고 있다고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "128 states back two-year talks\non autonomous weapons",
-          "body": "The CCW review agreed to draft an autonomous weapons instrument by 2028, but Russia and others blocked a firmer mandate.",
-          "mini_headline": "Killer-robot rules pushed to 2028",
+          "headline": "Hickenlooper proposes a Senate\nselect committee on AI",
+          "body": "Sen. John Hickenlooper proposed a Senate select committee on AI, prioritizing third-party evaluation requirements.",
+          "mini_headline": "Senate AI committee pitch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "Delegates attend the U.N. Convention on Certain Conventional Weapons in Geneva on Nov. 16, 2026. | Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "Pages from the Anthropic website and the company's logos are displayed on a computer screen in New York on Thursday, Feb. 26, 2026. (AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "U.N. talks on regulating AI-powered killer robots ended without a negotiating mandate Saturday, as countries decided to extend discussions until 2028. NGOs called the result \"disappointing.\""
+                "x": "Senate Democrats are debating the best way to quickly establish guardrails around artificial intelligence in the next Congress. Colorado Sen. John Hickenlooper said the person leading their majority next year should have a “day one plan for responsible regulation” on AI, as he has so far withheld an endorsement in the race between Chuck Schumer and Chris Van Hollen."
               },
               {
                 "t": "p",
-                "x": "Resistance from several countries, and especially Russia, blocked efforts to elaborate legally binding rules. In the end, the 128 member countries agreed to launch \"the elaboration of an international instrument on lethal autonomous weapons systems\" over the next two years, said Julien Thöni, the Swiss diplomat who chaired the talks."
+                "x": "Hickenlooper said his priorities are robust third-party evaluation requirements, mitigation of national security challenges and “clear rules of the road to hold AI companies accountable.” He proposed a select committee on artificial intelligence to consolidate the conversation."
               },
               {
                 "t": "p",
-                "x": "Because consensus is required, Russia blocked formal negotiations all week; talks were held informally instead. Two EU diplomats listed the U.S., the U.K., South Korea, Japan, Turkey and Israel as also resisting a binding regulation. A group of intergovernmental experts should report to a 2028 meeting of countries party to the treaty."
+                "x": "Van Hollen said he supports the idea. Sen. Ron Wyden said he would “want to see the specifics,” and Sen. Bernie Sanders did not immediately endorse it. Republican Sen. Ted Cruz said taking the issue out of his committee and others “makes no sense,” but hoped both parties could find common ground on catastrophic risk."
               },
               {
                 "t": "p",
-                "x": "With no mention of a legally binding instrument in the decision, \"it remains possible — likely, even — that there will be no treaty by the end of 2028,\" said Rain Liivoja of the Asia-Pacific Institute for Law and Security."
+                "x": "A Schumer spokeswoman said Senate Democrats will make AI a top priority of the new majority and are working to deliver comprehensive legislation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "128개국, 자율무기\n두 해 협의 지지",
-          "body": "CCW가 2028년까지 자율무기 문서에 합의했고 러시아 등은 강한 권한을 막았다.",
-          "mini_headline": "킬러 로봇 규범 2028년으로 연기",
+          "headline": "Hickenlooper\n상원 AI 특위 제안",
+          "body": "Hickenlooper 의원이 외부 평가를 앞세운 상원 AI 특위를 제안했다.",
+          "mini_headline": "상원 AI 특위 제안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "2026년 11월 16일 제네바에서 열린 U.N. 특정재래식무기금지협약 회의에 대표단이 참석하고 있다. | Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "2026년 2월 26일 목요일 뉴욕에서 컴퓨터 화면에 Anthropic 웹사이트 페이지와 회사 로고가 표시돼 있다. (AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "AI 기반(AI-powered) 킬러 로봇 규제를 논의한 U.N. 회의가 토요일 협상 권한을 얻지 못하고 끝났다. 각국은 논의를 2028년까지 이어 가기로 했고, NGOs는 결과를 \"실망스럽다\"고 평가했다."
+                "x": "상원 민주당은 차기 의회에서 인공지능 안전장치를 가장 빨리 마련할 방법을 놓고 논의 중이다. 콜로라도주의 John Hickenlooper 상원의원은 내년 다수당을 이끌 사람이라면 AI를 두고 “책임 있는 규제를 위한 첫날 계획”을 갖춰야 한다고 말했다. Chuck Schumer와 Chris Van Hollen의 경쟁에서 그는 아직 어느 쪽도 지지하지 않았다."
               },
               {
                 "t": "p",
-                "x": "법적 구속력 있는 규칙을 만들려는 시도는 여러 나라, 특히 러시아의 반대에 막혔다. 회의 의장인 스위스 외교관 쥘리앵 퇴니(Julien Thöni)는 128개 회원국이 앞으로 두 해 동안 \"치명적 자율무기체계에 관한 국제 문서의 마련\"에 착수하기로 끝내 합의했다고 밝혔다."
+                "x": "Hickenlooper는 탄탄한 제삼자 평가 요건, 국가안보 문제 완화, “AI 기업에 책임을 묻는 명확한 규칙”을 우선순위로 꼽았다. 흩어진 논의를 한데 모을 인공지능 특별위원회도 제안했다."
               },
               {
                 "t": "p",
-                "x": "회의가 합의제로 운영되는 탓에 러시아가 한 주 내내 공식 협상을 막았고, 논의는 비공식으로 이어졌다. EU 외교관 두 명은 U.S., U.K., 한국, 일본, 튀르키예, 이스라엘도 구속력 있는 규제에 반대했다고 전했다. 정부 간 전문가 그룹은 2028년 조약 당사국 회의에 결과를 보고한다."
+                "x": "Van Hollen은 이 구상을 지지한다고 했다. Ron Wyden 상원의원은 “구체적인 내용을 보고 싶다”고 했고, Bernie Sanders 상원의원은 바로 지지하지는 않았다. 공화당 Ted Cruz 상원의원은 이 사안을 자기 위원회 등에서 떼어내는 건 “말이 안 된다”면서도, 재앙적 위험만큼은 양당이 공통점을 찾길 바란다고 했다."
               },
               {
                 "t": "p",
-                "x": "아시아태평양 법·안보연구소(Asia-Pacific Institute for Law and Security)의 레인 리보야(Rain Liivoja)는 결정문에 법적 구속력 있는 문서 언급이 없다며 \"2028년 말까지 조약이 나오지 않을 가능성은 여전히 있다. 심지어 그럴 공산이 크다\"고 말했다."
+                "x": "Schumer 측 여성 대변인은 상원 민주당이 AI를 새 다수당의 최우선 과제로 삼고 포괄적인 법안을 내놓으려 애쓰고 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "128カ国、自律兵器の\n二年間の協議を支持",
-          "body": "CCWは2028年までの自律兵器文書作成で合意したが、ロシアなどが強い権限を阻んだ。",
-          "mini_headline": "キラーロボット規制は2028年へ先送り",
+          "headline": "Hickenlooper氏\n上院AI特別委を提案",
+          "body": "Hickenlooper上院議員は第三者評価を重視する上院AI特別委員会の設置を提案した。",
+          "mini_headline": "上院AI特別委の提案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "2026年11月16日、ジュネーブで開かれたU.N.特定通常兵器使用禁止制限条約の会合に出席する代表団。| Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "2026年2月26日(木)、ニューヨークでコンピューター画面に表示されたAnthropicのウェブサイトのページと同社のロゴ。(AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "AIを搭載した(AI-powered)殺人ロボットの規制を巡るU.N.の協議は土曜日、交渉マンデートを得られないまま閉幕し、各国は議論を2028年まで延長することを決めた。NGOsは結果を「期待外れ」と評した。"
+                "x": "上院民主党は、次の議会で人工知能のガードレールを早急に整える最善の方法を議論している。コロラド州選出のJohn Hickenlooper上院議員は、来年多数派を率いる人物はAIについて「責任ある規制のための初日からの計画」を持つべきだと述べた。同氏はChuck SchumerとChris Van Hollenの争いで、これまで支持表明を控えている。"
               },
               {
                 "t": "p",
-                "x": "複数の国、とりわけロシアの抵抗により、法的拘束力のあるルールを策定する取り組みは阻まれた。最終的に128の加盟国は、今後二年間で「致死性自律兵器システムに関する国際的な文書の策定」に着手することで合意したと、協議の議長を務めたスイスの外交官Julien Thöni氏は述べた。"
+                "x": "Hickenlooperは、強固な第三者評価の要件、国家安全保障上の課題の緩和、そして「AI企業に責任を負わせる明確なルール」を優先事項に挙げた。議論を集約するため、人工知能に関する特別委員会の設置を提案した。"
               },
               {
                 "t": "p",
-                "x": "コンセンサスが必要なため、ロシアは一週間を通じて正式な交渉を阻み、協議は代わりに非公式に行われた。EUの外交官二人は、U.S.、U.K.、韓国、日本、トルコ、イスラエルも拘束力のある規制に抵抗していると挙げた。政府間専門家グループは、2028年の条約締約国会議に報告することになっている。"
+                "x": "Van Hollenはこの案を支持すると述べた。Ron Wyden上院議員は「具体的な内容を見たい」と語り、Bernie Sanders上院議員はすぐには支持しなかった。共和党のTed Cruz上院議員は、この問題を自身の委員会などから切り離すのは「理にかなわない」としつつ、壊滅的リスクについて両党が共通点を見いだせることを望むと述べた。"
               },
               {
                 "t": "p",
-                "x": "決定に法的拘束力のある文書への言及がないことから、「2028年末までに条約ができない可能性は依然としてある。むしろその公算が大きい」と、アジア太平洋法・安全保障研究所(Asia-Pacific Institute for Law and Security)のRain Liivoja氏は述べた。"
+                "x": "Schumerの女性報道官は、上院民主党はAIを新たな多数派の最優先課題とし、包括的な法案の実現に取り組んでいると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "128国支持就自主武器\n展开两年谈判",
-          "body": "CCW审议会议同意在2028年前起草自主武器文书，但俄罗斯等国阻挡了更有力的授权。",
-          "mini_headline": "杀手机器人规则推迟至2028年",
+          "headline": "Hickenlooper\n提议设参议院AI特委",
+          "body": "参议员Hickenlooper提议设立参议院AI特别委员会，并优先推动第三方评估要求。",
+          "mini_headline": "参议院AI特委提议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "2026年11月16日，代表们出席在日内瓦举行的U.N.《特定常规武器公约》会议。| Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "2026年2月26日（星期四），纽约一台电脑屏幕上显示的Anthropic网站页面和公司标志。(AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "关于监管AI驱动（AI-powered）杀手机器人的U.N.谈判于周六结束，未能获得谈判授权，各国决定将讨论延长至2028年。NGOs称这一结果“令人失望”。"
+                "x": "参议院民主党人正在讨论如何在下届国会迅速为人工智能建立护栏。科罗拉多州参议员John Hickenlooper表示，明年领导多数党的人应对AI有一份“负责任监管的第一天计划”。在Chuck Schumer与Chris Van Hollen的竞争中，他至今尚未表态支持任何一方。"
               },
               {
                 "t": "p",
-                "x": "多个国家、尤其是俄罗斯的抵制，阻碍了制定具有法律约束力规则的努力。主持谈判的瑞士外交官Julien Thöni表示，128个成员国最终同意在未来两年内启动“关于致命性自主武器系统的国际文书的拟订工作”。"
+                "x": "Hickenlooper表示，他的优先事项是严格的第三方评估要求、缓解国家安全挑战，以及“追究AI公司责任的明确规则”。他提议设立人工智能特别委员会，以整合相关讨论。"
               },
               {
                 "t": "p",
-                "x": "由于需要协商一致，俄罗斯整周阻挠正式谈判，会谈只得以非正式方式进行。两名EU外交官列出，U.S.、U.K.、韩国、日本、土耳其和以色列也抵制具有约束力的监管。一个政府间专家组将向2028年的条约缔约国会议提交报告。"
+                "x": "Van Hollen表示支持这一构想。参议员Ron Wyden说他“想看看具体内容”，参议员Bernie Sanders没有立即表态支持。共和党参议员Ted Cruz表示，把这一议题从他的委员会及其他委员会中剥离“毫无道理”，但希望两党能在灾难性风险上找到共识。"
               },
               {
                 "t": "p",
-                "x": "亚太法律与安全研究所（Asia-Pacific Institute for Law and Security）的Rain Liivoja表示，由于决定中没有提及具有法律约束力的文书，“到2028年底仍可能——甚至很可能——不会有条约”。"
+                "x": "Schumer的一名女发言人表示，参议院民主党将把AI作为新多数党的首要优先事项，并正努力推出全面立法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "128 Estados respaldan dos años\nde debate sobre armas autónomas",
-          "body": "La CCW pactó redactar un instrumento sobre armas autónomas para 2028, pero Rusia y otros frenaron un mandato más firme.",
-          "mini_headline": "Reglas sobre robots asesinos, aplazadas a 2028",
+          "headline": "Hickenlooper propone un comité\nselecto del Senado sobre AI",
+          "body": "El senador John Hickenlooper propuso un comité selecto del Senado sobre AI centrado en exigir evaluaciones de terceros.",
+          "mini_headline": "Propuesta de comité de AI en el Senado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "Delegados asisten a la Convención sobre Ciertas Armas Convencionales de la U.N. en Ginebra el 16 de noviembre de 2026. | Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "Páginas del sitio web de Anthropic y logotipos de la empresa en una pantalla en Nueva York, el jueves 26 de febrero de 2026. (AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "Las conversaciones de la U.N. para regular los robots asesinos impulsados por IA (AI-powered) terminaron el sábado sin un mandato de negociación, y los países decidieron prolongar los debates hasta 2028. Las NGOs calificaron el resultado de \"decepcionante\"."
+                "x": "Los demócratas del Senado debaten la mejor manera de establecer con rapidez salvaguardas en torno a la inteligencia artificial en el próximo Congreso. El senador por Colorado John Hickenlooper dijo que quien lidere su mayoría el próximo año debería tener un “plan desde el primer día para una regulación responsable” de la AI; hasta ahora no ha respaldado a nadie en la contienda entre Chuck Schumer y Chris Van Hollen."
               },
               {
                 "t": "p",
-                "x": "La resistencia de varios países, y en especial de Rusia, bloqueó los esfuerzos por elaborar normas jurídicamente vinculantes. Al final, los 128 países miembros acordaron iniciar \"la elaboración de un instrumento internacional sobre sistemas de armas autónomas letales\" en los próximos dos años, dijo Julien Thöni, el diplomático suizo que presidió las conversaciones."
+                "x": "Hickenlooper dijo que sus prioridades son requisitos sólidos de evaluación por terceros, la mitigación de los desafíos de seguridad nacional y “reglas claras para que las empresas de AI rindan cuentas”. Propuso un comité selecto sobre inteligencia artificial para unificar el debate."
               },
               {
                 "t": "p",
-                "x": "Como se requiere consenso, Rusia bloqueó las negociaciones formales toda la semana; en su lugar, las conversaciones fueron informales. Dos diplomáticos de la EU señalaron que U.S., U.K., Corea del Sur, Japón, Turquía e Israel también se resisten a una regulación vinculante. Un grupo de expertos intergubernamentales deberá informar a una reunión de 2028 de los países parte del tratado."
+                "x": "Van Hollen dijo que apoya la idea. El senador Ron Wyden dijo que querría “ver los detalles”, y el senador Bernie Sanders no la respaldó de inmediato. El senador republicano Ted Cruz dijo que sacar el tema de su comité y de otros “no tiene sentido”, pero confió en que ambos partidos encuentren puntos en común sobre el riesgo catastrófico."
               },
               {
                 "t": "p",
-                "x": "Sin mención alguna a un instrumento jurídicamente vinculante en la decisión, \"sigue siendo posible —incluso probable— que no haya tratado a finales de 2028\", dijo Rain Liivoja, del Asia-Pacific Institute for Law and Security."
+                "x": "Una portavoz de Schumer dijo que los demócratas del Senado harán de la AI una prioridad máxima de la nueva mayoría y que trabajan para sacar adelante una legislación integral."
               }
             ]
           }
@@ -471,125 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "128개국, 자율무기\n두 해 협의 지지",
-          "body": "CCW는 2028년까지 자율무기 문서에 합의, 러시아 등은 강한 권한을 막았다.",
-          "mini_headline": "킬러 로봇 규범 2028년으로 연기",
+          "headline": "Hickenlooper\n상원 AI 특위 제안",
+          "body": "Hickenlooper 의원이 외부 평가를 앞세운 상원 AI 특위를 제안했다.",
+          "mini_headline": "상원 AI 특위 제안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "2026년 11월 16일 제네바에서 열린 U.N. 특정재래식무기금지협약 회의에 대표단이 참석하고 있다. | Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "2026년 2월 26일 목요일 뉴욕에서 컴퓨터 화면에 Anthropic 웹사이트 페이지와 회사 로고가 표시돼 있다. (AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "AI 기반(AI-powered) 킬러 로봇 규제를 다룬 U.N. 회의가 토요일 협상 권한을 얻지 못한 채 끝났고, 각국은 논의를 2028년까지 이어 가기로 했다. NGOs는 결과를 \"실망스럽다\"고 평가했다."
+                "x": "상원 민주당은 차기 의회에서 인공지능 안전장치를 신속히 마련할 최선의 방법을 논의하고 있다. 콜로라도주의 John Hickenlooper 상원의원은 내년 다수당을 이끌 사람이 AI에 대해 “책임 있는 규제를 위한 첫날 계획”을 가져야 한다고 말했다. 그는 Chuck Schumer와 Chris Van Hollen의 경쟁에서 아직 지지를 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "여러 나라, 특히 러시아의 반대로 법적 구속력 있는 규칙을 마련하려는 시도는 막혔다. 회의 의장을 맡은 스위스 외교관 쥘리앵 퇴니(Julien Thöni)는 결국 128개 회원국이 앞으로 두 해 동안 \"치명적 자율무기체계에 관한 국제 문서의 마련\"에 착수하기로 합의했다고 말했다."
+                "x": "Hickenlooper는 탄탄한 제삼자 평가 요건, 국가안보 문제 완화, 그리고 “AI 기업에 책임을 묻는 명확한 규칙”을 우선순위로 꼽았다. 그는 논의를 한데 모으기 위해 인공지능 특별위원회를 두자고 제안했다."
               },
               {
                 "t": "p",
-                "x": "합의제 방식이어서 러시아가 한 주 내내 공식 협상을 막았고, 회의는 대신 비공식으로 진행됐다. EU 외교관 두 명은 U.S., U.K., 한국, 일본, 튀르키예, 이스라엘도 구속력 있는 규제에 반대했다고 꼽았다. 정부 간 전문가 그룹은 2028년 조약 당사국 회의에 보고할 예정이다."
+                "x": "Van Hollen은 이 구상을 지지한다고 말했다. Ron Wyden 상원의원은 “구체적인 내용을 보고 싶다”고 했고, Bernie Sanders 상원의원은 곧바로 지지하지 않았다. 공화당 Ted Cruz 상원의원은 이 사안을 자신의 위원회 등에서 떼어내는 것은 “말이 안 된다”면서도 양당이 재앙적 위험에 관해 공통점을 찾기를 바란다고 말했다."
               },
               {
                 "t": "p",
-                "x": "아시아태평양 법·안보연구소(Asia-Pacific Institute for Law and Security)의 레인 리보야(Rain Liivoja)는 결정문에 법적 구속력 있는 문서에 대한 언급이 없다는 점을 들어 \"2028년 말까지 조약이 나오지 않을 가능성은 여전히 있다. 심지어 그럴 공산이 크다\"고 말했다."
+                "x": "Schumer 측 여성 대변인은 상원 민주당이 AI를 새 다수당의 최우선 과제로 삼고 포괄적인 법안을 내놓기 위해 노력하고 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "128カ国、自律兵器の\n二年間の協議を支持",
-          "body": "CCWは2028年までの自律兵器文書作成で合意したが、ロシアなどが強い権限を阻んだ。",
-          "mini_headline": "キラーロボット規制は2028年へ先送り",
+          "headline": "Hickenlooper氏\n上院AI特別委を提案",
+          "body": "Hickenlooper上院議員は第三者評価を重視する上院AI特別委員会の設置を提案した。",
+          "mini_headline": "上院AI特別委の提案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "2026年11月16日、ジュネーブで開かれたU.N.特定通常兵器使用禁止制限条約の会合に出席する代表団。| Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "2026年2月26日(木)、ニューヨークでコンピューター画面に表示されたAnthropicのウェブサイトのページと同社のロゴ。(AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "AIを搭載した(AI-powered)殺人ロボットの規制を巡るU.N.の協議は土曜日、交渉マンデートを得られないまま閉幕し、各国は議論を2028年まで延長することを決めた。NGOsは結果を「期待外れ」と評した。"
+                "x": "上院民主党は、次の議会で人工知能のガードレールを早急に整える最善の方法を議論している。コロラド州選出のJohn Hickenlooper上院議員は、来年多数派を率いる人物はAIについて「責任ある規制のための初日からの計画」を持つべきだと述べた。同氏はChuck SchumerとChris Van Hollenの争いで、これまで支持表明を控えている。"
               },
               {
                 "t": "p",
-                "x": "複数の国、とりわけロシアの抵抗により、法的拘束力のあるルールを策定する取り組みは阻まれた。最終的に128の加盟国は、今後二年間で「致死性自律兵器システムに関する国際的な文書の策定」に着手することで合意したと、協議の議長を務めたスイスの外交官Julien Thöni氏は述べた。"
+                "x": "Hickenlooperは、強固な第三者評価の要件、国家安全保障上の課題の緩和、そして「AI企業に責任を負わせる明確なルール」を優先事項に挙げた。議論を集約するため、人工知能に関する特別委員会の設置を提案した。"
               },
               {
                 "t": "p",
-                "x": "コンセンサスが必要なため、ロシアは一週間を通じて正式な交渉を阻み、協議は代わりに非公式に行われた。EUの外交官二人は、U.S.、U.K.、韓国、日本、トルコ、イスラエルも拘束力のある規制に抵抗していると挙げた。政府間専門家グループは、2028年の条約締約国会議に報告することになっている。"
+                "x": "Van Hollenはこの案を支持すると述べた。Ron Wyden上院議員は「具体的な内容を見たい」と語り、Bernie Sanders上院議員はすぐには支持しなかった。共和党のTed Cruz上院議員は、この問題を自身の委員会などから切り離すのは「理にかなわない」としつつ、壊滅的リスクについて両党が共通点を見いだせることを望むと述べた。"
               },
               {
                 "t": "p",
-                "x": "決定に法的拘束力のある文書への言及がないことから、「2028年末までに条約ができない可能性は依然としてある。むしろその公算が大きい」と、アジア太平洋法・安全保障研究所(Asia-Pacific Institute for Law and Security)のRain Liivoja氏は述べた。"
+                "x": "Schumerの女性報道官は、上院民主党はAIを新たな多数派の最優先課題とし、包括的な法案の実現に取り組んでいると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "128国支持就自主武器\n展开两年谈判",
-          "body": "CCW审议会议同意在2028年前起草自主武器文书，但俄罗斯等国阻挡了更有力的授权。",
-          "mini_headline": "杀手机器人规则推迟至2028年",
+          "headline": "Hickenlooper\n提议设参议院AI特委",
+          "body": "参议员Hickenlooper提议设立参议院AI特别委员会，并优先推动第三方评估要求。",
+          "mini_headline": "参议院AI特委提议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "2026年11月16日，代表们出席在日内瓦举行的U.N.《特定常规武器公约》会议。| Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "2026年2月26日（星期四），纽约一台电脑屏幕上显示的Anthropic网站页面和公司标志。(AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "关于监管AI驱动（AI-powered）杀手机器人的U.N.谈判于周六结束，未能获得谈判授权，各国决定将讨论延长至2028年。NGOs称这一结果“令人失望”。"
+                "x": "参议院民主党人正在讨论如何在下届国会迅速为人工智能建立护栏。科罗拉多州参议员John Hickenlooper表示，明年领导多数党的人应对AI有一份“负责任监管的第一天计划”。在Chuck Schumer与Chris Van Hollen的竞争中，他至今尚未表态支持任何一方。"
               },
               {
                 "t": "p",
-                "x": "多个国家、尤其是俄罗斯的抵制，阻碍了制定具有法律约束力规则的努力。主持谈判的瑞士外交官Julien Thöni表示，128个成员国最终同意在未来两年内启动“关于致命性自主武器系统的国际文书的拟订工作”。"
+                "x": "Hickenlooper表示，他的优先事项是严格的第三方评估要求、缓解国家安全挑战，以及“追究AI公司责任的明确规则”。他提议设立人工智能特别委员会，以整合相关讨论。"
               },
               {
                 "t": "p",
-                "x": "由于需要协商一致，俄罗斯整周阻挠正式谈判，会谈只得以非正式方式进行。两名EU外交官列出，U.S.、U.K.、韩国、日本、土耳其和以色列也抵制具有约束力的监管。一个政府间专家组将向2028年的条约缔约国会议提交报告。"
+                "x": "Van Hollen表示支持这一构想。参议员Ron Wyden说他“想看看具体内容”，参议员Bernie Sanders没有立即表态支持。共和党参议员Ted Cruz表示，把这一议题从他的委员会及其他委员会中剥离“毫无道理”，但希望两党能在灾难性风险上找到共识。"
               },
               {
                 "t": "p",
-                "x": "亚太法律与安全研究所（Asia-Pacific Institute for Law and Security）的Rain Liivoja表示，由于决定中没有提及具有法律约束力的文书，“到2028年底仍可能——甚至很可能——不会有条约”。"
+                "x": "Schumer的一名女发言人表示，参议院民主党将把AI作为新多数党的首要优先事项，并正努力推出全面立法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "128 Estados respaldan dos años\nde debate sobre armas autónomas",
-          "body": "La CCW pactó redactar un instrumento sobre armas autónomas para 2028, pero Rusia y otros frenaron un mandato más firme.",
-          "mini_headline": "Reglas sobre robots asesinos, aplazadas a 2028",
+          "headline": "Hickenlooper propone un comité\nselecto del Senado sobre AI",
+          "body": "El senador John Hickenlooper propuso un comité selecto del Senado sobre AI centrado en exigir evaluaciones de terceros.",
+          "mini_headline": "Propuesta de comité de AI en el Senado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
-                "cap": "Delegados asisten a la Convención sobre Ciertas Armas Convencionales de la U.N. en Ginebra el 16 de noviembre de 2026. | Fabrice Coffrini/AFP via Getty Images"
+                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+                "cap": "Páginas del sitio web de Anthropic y logotipos de la empresa en una pantalla en Nueva York, el jueves 26 de febrero de 2026. (AP Photo/Patrick Sison, File)"
               },
               {
                 "t": "p",
-                "x": "Las conversaciones de la U.N. para regular los robots asesinos impulsados por IA (AI-powered) terminaron el sábado sin un mandato de negociación, y los países decidieron prolongar los debates hasta 2028. Las NGOs calificaron el resultado de \"decepcionante\"."
+                "x": "Los demócratas del Senado debaten la mejor manera de establecer con rapidez salvaguardas en torno a la inteligencia artificial en el próximo Congreso. El senador por Colorado John Hickenlooper dijo que quien lidere su mayoría el próximo año debería tener un “plan desde el primer día para una regulación responsable” de la AI; hasta ahora no ha respaldado a nadie en la contienda entre Chuck Schumer y Chris Van Hollen."
               },
               {
                 "t": "p",
-                "x": "La resistencia de varios países, y en especial de Rusia, bloqueó los esfuerzos por elaborar normas jurídicamente vinculantes. Al final, los 128 países miembros acordaron iniciar \"la elaboración de un instrumento internacional sobre sistemas de armas autónomas letales\" en los próximos dos años, dijo Julien Thöni, el diplomático suizo que presidió las conversaciones."
+                "x": "Hickenlooper dijo que sus prioridades son requisitos sólidos de evaluación por terceros, la mitigación de los desafíos de seguridad nacional y “reglas claras para que las empresas de AI rindan cuentas”. Propuso un comité selecto sobre inteligencia artificial para unificar el debate."
               },
               {
                 "t": "p",
-                "x": "Como se requiere consenso, Rusia bloqueó las negociaciones formales toda la semana; en su lugar, las conversaciones fueron informales. Dos diplomáticos de la EU señalaron que U.S., U.K., Corea del Sur, Japón, Turquía e Israel también se resisten a una regulación vinculante. Un grupo de expertos intergubernamentales deberá informar a una reunión de 2028 de los países parte del tratado."
+                "x": "Van Hollen dijo que apoya la idea. El senador Ron Wyden dijo que querría “ver los detalles”, y el senador Bernie Sanders no la respaldó de inmediato. El senador republicano Ted Cruz dijo que sacar el tema de su comité y de otros “no tiene sentido”, pero confió en que ambos partidos encuentren puntos en común sobre el riesgo catastrófico."
               },
               {
                 "t": "p",
-                "x": "Sin mención alguna a un instrumento jurídicamente vinculante en la decisión, \"sigue siendo posible —incluso probable— que no haya tratado a finales de 2028\", dijo Rain Liivoja, del Asia-Pacific Institute for Law and Security."
+                "x": "Una portavoz de Schumer dijo que los demócratas del Senado harán de la AI una prioridad máxima de la nueva mayoría y que trabajan para sacar adelante una legislación integral."
               }
             ]
           }
@@ -597,195 +687,141 @@
       }
     },
     {
-      "id": "puma-shen-deepfake-indictment",
+      "id": "eu-14-states-ai-copyright",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "타이베이 시장 후보\n딥페이크 유포 남성 기소",
-      "body": "타오위안 검찰이 Puma Shen 딥페이크 음성 영상 게시자에 1년형을 구형했다.",
-      "mini_headline": "Puma Shen 딥페이크 기소",
+      "headline": "EU 14개국\nAI 저작권 입법 촉구",
+      "body": "EU 열네 개국이 집행위에 AI 저작권 입법과 창작자 공정 보상을 촉구했다.",
+      "mini_headline": "EU 국가들, AI 저작권법 촉구",
       "tool": "Politics",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868134",
+      "source": "Agence Europe",
+      "url": "https://agenceurope.eu/en/bulletin/article/13986/6/several-member-states-call-on-european-commission-to-propose-legislation-to-better-protect-copyright-from-ai",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "타오위안 검찰이 민주진보당(DPP) 타이베이 시장 후보 선보양(Puma Shen, 沈伯洋)의 딥페이크 영상을 Threads에 올린 혐의로 49세 남성을 기소하고 징역 1년을 구형했다."
+            "x": "11월 19일 목요일과 20일 금요일 열린 ‘교육·청소년·문화·스포츠’ 이사회에서 14개 회원국이 AI에 맞서 저작권 보호를 강화하는 문제를 다시 꺼냈다. 앞서 이 주제가 논의된 지 여섯 달 만이다. 이들은 11월 18일 EU 이사회에 보낸 문서에서 입법 제안을 요구했다."
           },
           {
             "t": "p",
-            "x": "기소장에 따르면 Cheng(鄭)이라는 성의 이 남성은 Facebook에서 문제의 영상을 봤다. 영상은 Shen의 목소리를 흉내 낸 음성으로, 그가 시민 회복력을 키우려고 세운 단체 Kuma Academy를 거쳐 US 무기 구매 리베이트를 받았다고 인정하는 것처럼 꾸몄다는 의혹을 받는다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-            "cap": "타오위안 지방검찰서 청사. 사진: Yu Jui-jen, Taipei Times"
+            "x": "덴마크, 네덜란드, 폴란드 등 다른 일곱 개국도 이 구상에 동참했다. 이들은 “문화·미디어 산업에 대한 시급성과 중요성을 고려해 이 주제에 대해 다시 입장을 밝히고자 한다”고 했다."
           },
           {
             "t": "p",
-            "x": "검찰은 Cheng이 내용을 확인하지 않고 10월 30일 Threads에 영상을 공개 게시해 Shen의 명예를 훼손하고 유권자 지지를 떨어뜨리려 했다고 판단했다. 법원은 보석금 NT$100,000(US$3,036)을 조건으로 그를 풀어 주고 대만 출국을 금지했다."
-          },
-          {
-            "t": "p",
-            "x": "검찰은 Cheng이 Shen의 목소리를 딥페이크로 꾸민 허위 정보를 퍼뜨려 당선을 막으려 했다며 공직인원선거파면법 위반 혐의를 적용했다. 목요일 기소하면서 검찰은 그가 Shen의 명예를 크게 훼손했고 선거 기간 딥페이크 허위 정보 확산에 일조했다고 밝혔다."
+            "x": "이들은 5월에 나온 더 나은 저작권 환경을 위한 표적 이니셔티브를 다시 지지하면서 “권리 유보의 집행력을 높이고 [...] 모든 창작자에게 전반적으로 적절한 보상을 보장하기 위한 [...] 신속한 조치”를 촉구했다. 집행위원회 산하 유럽 AI 사무국(European AI Office)을 향해서도 “AI 개발자에 대한 라이선스 압력을 [...] 높이기 위해 현행 템플릿의 적합성을 검토해야 한다”고 주문했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Man indicted over deepfake\nof Taipei mayoral candidate",
-          "body": "Taoyuan prosecutors seek a one-year sentence for a man who posted a deepfake voice video of Puma Shen before the vote.",
-          "mini_headline": "Indictment over Puma Shen deepfake",
+          "headline": "14 EU states seek stronger\ncopyright shield from AI",
+          "body": "Fourteen EU states urged the Commission to legislate copyright protection from AI and fair pay for creators.",
+          "mini_headline": "EU states push AI copyright law",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Taoyuan prosecutors are seeking a one-year prison sentence for a 49-year-old man charged with posting a deepfake video of Democratic Progressive Party (DPP) Taipei mayoral candidate Puma Shen (沈伯洋) on Threads."
+                "x": "At the ‘Education, Youth, Culture and Sport’ Council on Thursday 19 and Friday 20 November, 14 Member States revived the debate on better protecting copyright against AI. In a note sent to the Council of the EU on 18 November, six months after the subject was previously discussed, they called for a legislative proposal."
               },
               {
                 "t": "p",
-                "x": "The man, surnamed Cheng (鄭), found the video on Facebook, the indictment said. The video allegedly used a voice imitating Shen's to make it sound as though he had admitted to receiving kickbacks from US arms purchases through the Kuma Academy, an organization he founded to build civil resilience."
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "The Taoyuan District Prosecutors' Office building. Photo: Yu Jui-jen, Taipei Times"
+                "x": "Seven other countries, including Denmark, the Netherlands, and Poland, have joined the initiative. “We would like to take a position again on this topic in view of its urgency and importance for the cultural and media industries”, they said."
               },
               {
                 "t": "p",
-                "x": "Prosecutors alleged that Cheng posted it publicly on Threads on Oct. 30 without verifying its contents to damage Shen's reputation and dissuade voters from supporting him. The court released him on NT$100,000 (US$3,036) bail and barred him from leaving Taiwan."
-              },
-              {
-                "t": "p",
-                "x": "Prosecutors accused Cheng of contravening the Civil Servants Election and Recall Act by using a deepfake of Shen's voice to spread false information intended to prevent him from being elected. They indicted Cheng on Thursday, saying he had seriously damaged Shen's reputation and contributed to the spread of deepfake misinformation during the campaign."
+                "x": "They reiterated their support for the targeted initiative for a better copyright environment, presented in May, and called for “swift action [...] to improve the enforceability of reservation of rights [...] and ensure adequate remuneration for all creators across the board”. The Member States also said that the Commission’s European AI Office should “examine the suitability of the current template to increase [...] the licensing pressure on AI developers”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "타이베이 시장 후보\n딥페이크 유포 남성 기소",
-          "body": "타오위안 검찰이 Puma Shen 딥페이크 음성 영상 게시자에 1년형을 구형했다.",
-          "mini_headline": "Puma Shen 딥페이크 기소",
+          "headline": "EU 14개국\nAI 저작권 입법 촉구",
+          "body": "EU 열네 개국이 집행위에 AI 저작권 입법과 창작자 공정 보상을 촉구했다.",
+          "mini_headline": "EU 국가들, AI 저작권법 촉구",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "타오위안 검찰이 민주진보당(DPP) 타이베이 시장 후보 선보양(Puma Shen, 沈伯洋)의 딥페이크 영상을 Threads에 올린 혐의로 49세 남성을 기소하고 징역 1년을 구형했다."
+                "x": "11월 19일 목요일과 20일 금요일 열린 ‘교육·청소년·문화·스포츠’ 이사회에서 14개 회원국이 AI에 맞서 저작권 보호를 강화하는 문제를 다시 꺼냈다. 앞서 이 주제가 논의된 지 여섯 달 만이다. 이들은 11월 18일 EU 이사회에 보낸 문서에서 입법 제안을 요구했다."
               },
               {
                 "t": "p",
-                "x": "기소장에 따르면 Cheng(鄭)이라는 성의 이 남성은 Facebook에서 문제의 영상을 봤다. 영상은 Shen의 목소리를 흉내 낸 음성으로, 그가 시민 회복력을 키우려고 세운 단체 Kuma Academy를 거쳐 US 무기 구매 리베이트를 받았다고 인정하는 것처럼 꾸몄다는 의혹을 받는다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "타오위안 지방검찰서 청사. 사진: Yu Jui-jen, Taipei Times"
+                "x": "덴마크, 네덜란드, 폴란드 등 다른 일곱 개국도 이 구상에 동참했다. 이들은 “문화·미디어 산업에 대한 시급성과 중요성을 고려해 이 주제에 대해 다시 입장을 밝히고자 한다”고 했다."
               },
               {
                 "t": "p",
-                "x": "검찰은 Cheng이 내용을 확인하지 않고 10월 30일 Threads에 영상을 공개 게시해 Shen의 명예를 훼손하고 유권자 지지를 떨어뜨리려 했다고 판단했다. 법원은 보석금 NT$100,000(US$3,036)을 조건으로 그를 풀어 주고 대만 출국을 금지했다."
-              },
-              {
-                "t": "p",
-                "x": "검찰은 Cheng이 Shen의 목소리를 딥페이크로 꾸민 허위 정보를 퍼뜨려 당선을 막으려 했다며 공직인원선거파면법 위반 혐의를 적용했다. 목요일 기소하면서 검찰은 그가 Shen의 명예를 크게 훼손했고 선거 기간 딥페이크 허위 정보 확산에 일조했다고 밝혔다."
+                "x": "이들은 5월에 나온 더 나은 저작권 환경을 위한 표적 이니셔티브를 다시 지지하면서 “권리 유보의 집행력을 높이고 [...] 모든 창작자에게 전반적으로 적절한 보상을 보장하기 위한 [...] 신속한 조치”를 촉구했다. 집행위원회 산하 유럽 AI 사무국(European AI Office)을 향해서도 “AI 개발자에 대한 라이선스 압력을 [...] 높이기 위해 현행 템플릿의 적합성을 검토해야 한다”고 주문했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台北市長候補の\nディープフェイクで男起訴",
-          "body": "桃園地検はPuma Shen氏のディープフェイク音声動画を投稿した男に懲役1年を求刑した。",
-          "mini_headline": "Puma Shen氏のディープフェイクで起訴",
+          "headline": "EU14か国、AIから\n著作権保護強化を要求",
+          "body": "EU加盟国の十四か国が、欧州委員会にAI著作権保護の立法と創作者への公正な報酬を求めた。",
+          "mini_headline": "EU諸国がAI著作権法を要求",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "桃園地検は、民進党(DPP)の台北市長候補Puma Shen(沈伯洋)氏のディープフェイク動画をThreadsに投稿したとして起訴された49歳の男に、懲役1年を求刑している。"
+                "x": "11月19日(木)と20日(金)の「教育・青少年・文化・スポーツ」理事会で、加盟14か国がAIから著作権をより適切に保護する議論を再燃させた。前回この問題が議論されてから六か月後の11月18日にEU理事会へ送った文書で、立法提案を求めた。"
               },
               {
                 "t": "p",
-                "x": "起訴状によると、Cheng(鄭)姓の男はFacebookでこの動画を見つけた。動画はShen氏の声をまねた音声を使い、同氏が市民のレジリエンス強化のために設立した団体Kuma Academyを通じてUSの武器購入からキックバックを受け取ったと認めたかのように見せかけたとされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "桃園地方検察署の庁舎。写真:Yu Jui-jen、Taipei Times"
+                "x": "デンマーク、オランダ、ポーランドなどほかの七か国もこの取り組みに加わった。「文化・メディア産業にとっての緊急性と重要性に鑑み、この問題について改めて立場を示したい」としている。"
               },
               {
                 "t": "p",
-                "x": "検察によると、Cheng被告は10月30日、内容を確認しないままThreadsに動画を公開投稿し、Shen氏の評判を傷つけ、有権者に支持を思いとどまらせようとした。裁判所はNT$100,000(US$3,036)の保釈金で同被告を釈放し、台湾からの出国を禁じた。"
-              },
-              {
-                "t": "p",
-                "x": "検察は、Cheng被告がShen氏の声のディープフェイクを使い、同氏の当選を妨げる目的で虚偽情報を広めたとして、公職人員選挙罷免法違反に問うた。検察は木曜日にCheng被告を起訴し、同被告がShen氏の評判を著しく傷つけ、選挙戦中のディープフェイクによる誤情報の拡散に加担したと指摘した。"
+                "x": "各国は5月に示された、より良い著作権環境に向けた的を絞ったイニシアチブへの支持を改めて表明し、「権利留保の執行力を高め[...]、あらゆる創作者に一律に適切な報酬を確保するための[...]迅速な行動」を求めた。加盟国はまた、欧州委員会のEuropean AI Officeが「AI開発者へのライセンス圧力を[...]高めるため、現行テンプレートの適切性を検討すべきだ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "男子遭起诉：深度伪造\n台北市长参选人",
-          "body": "桃园检方对一名在投票前发布Puma Shen深度伪造语音视频的男子求处一年徒刑。",
-          "mini_headline": "Puma Shen深度伪造案起诉",
+          "headline": "14个EU成员国要求\n强化AI版权保护",
+          "body": "十四个EU成员国敦促欧盟委员会就AI版权保护立法，并保障创作者公平报酬。",
+          "mini_headline": "EU国家推动AI版权立法",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "桃园检方对一名49岁男子求处一年徒刑，该男子被控在Threads上发布民进党（DPP）台北市长参选人沈伯洋（Puma Shen）的深度伪造视频。"
+                "x": "在11月19日（星期四）和20日（星期五）举行的“教育、青年、文化和体育”理事会上，14个成员国重启了关于更好地保护版权免受AI侵害的讨论。在该议题上次讨论六个月后，它们于11月18日向EU理事会提交的一份说明中呼吁提出立法提案。"
               },
               {
                 "t": "p",
-                "x": "起诉书称，这名郑（Cheng）姓男子是在Facebook上发现该视频的。该视频据称使用模仿Shen声音的语音，让他听起来像是承认通过其为建立民间韧性而创办的组织Kuma Academy，从US军购中收取回扣。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "桃园地方检察署大楼。摄影：Yu Jui-jen，Taipei Times"
+                "x": "包括丹麦、荷兰和波兰在内的另外七个国家也加入了这一倡议。它们表示：“鉴于这一议题对文化和媒体产业的紧迫性和重要性，我们希望再次表明立场。”"
               },
               {
                 "t": "p",
-                "x": "检方指控Cheng在10月30日未经核实内容便在Threads上公开发布该视频，意图损害Shen的名誉并劝阻选民支持他。法院裁定他以NT$100,000（US$3,036）交保，并限制其离开台湾。"
-              },
-              {
-                "t": "p",
-                "x": "检方指控Cheng利用深度伪造的Shen声音散布意图阻止其当选的不实信息，违反《公职人员选举罢免法》。检方于周四起诉Cheng，称他严重损害了Shen的名誉，并助长了竞选期间深度伪造不实信息的传播。"
+                "x": "它们重申支持5月提出的旨在改善版权环境的针对性倡议，并呼吁“迅速采取行动[...]提高权利保留的可执行性[...]并确保所有创作者全面获得适当报酬”。成员国还表示，欧盟委员会的European AI Office应“审查现行模板是否适合[...]加大对AI开发者的许可压力”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Acusan a un hombre por deepfake\nde candidato a alcalde de Taipei",
-          "body": "Fiscales de Taoyuan piden un año de cárcel a un hombre que subió un video deepfake de voz de Puma Shen antes del voto.",
-          "mini_headline": "Acusación por el deepfake de Puma Shen",
+          "headline": "14 países de la EU piden blindar\nlos derechos de autor ante la AI",
+          "body": "Catorce Estados de la EU piden a la Comisión una ley que proteja el copyright ante la AI, y pago justo a creadores.",
+          "mini_headline": "Países de la EU piden ley de copyright ante la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "La fiscalía de Taoyuan pide un año de prisión para un hombre de 49 años acusado de publicar en Threads un video deepfake del candidato a alcalde de Taipei por el Partido Democrático Progresista (DPP), Puma Shen (沈伯洋)."
+                "x": "En el Consejo de ‘Educación, Juventud, Cultura y Deporte’ del jueves 19 y el viernes 20 de noviembre, 14 Estados miembros reavivaron el debate sobre cómo proteger mejor los derechos de autor frente a la AI. En una nota enviada al Consejo de la EU el 18 de noviembre, seis meses después de que el tema se debatiera por última vez, pidieron una propuesta legislativa."
               },
               {
                 "t": "p",
-                "x": "El hombre, de apellido Cheng (鄭), encontró el video en Facebook, según la acusación. Presuntamente, el video usaba una voz que imitaba la de Shen para que pareciera que admitía haber recibido comisiones ilegales de compras de armas de US a través de la Kuma Academy, una organización que fundó para fortalecer la resiliencia civil."
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "Edificio de la Fiscalía del Distrito de Taoyuan. Foto: Yu Jui-jen, Taipei Times"
+                "x": "Otros siete países, entre ellos Dinamarca, los Países Bajos y Polonia, se han sumado a la iniciativa. “Queremos volver a tomar posición sobre este tema dada su urgencia e importancia para las industrias culturales y de medios”, afirmaron."
               },
               {
                 "t": "p",
-                "x": "La fiscalía sostiene que Cheng lo publicó abiertamente en Threads el 30 de octubre sin verificar su contenido, para dañar la reputación de Shen y disuadir a los votantes de apoyarlo. El tribunal lo dejó en libertad bajo una fianza de NT$100,000 (US$3,036) y le prohibió salir de Taiwán."
-              },
-              {
-                "t": "p",
-                "x": "La fiscalía acusó a Cheng de infringir la Ley de Elección y Revocación de Funcionarios Públicos al usar un deepfake de la voz de Shen para difundir información falsa destinada a impedir su elección. Lo acusaron formalmente el jueves, al considerar que dañó gravemente la reputación de Shen y contribuyó a la difusión de desinformación deepfake durante la campaña."
+                "x": "Reiteraron su apoyo a la iniciativa específica para un mejor entorno de derechos de autor, presentada en mayo, y pidieron “una acción rápida [...] para mejorar la aplicabilidad de la reserva de derechos [...] y garantizar una remuneración adecuada para todos los creadores en general”. Los Estados miembros también señalaron que la European AI Office de la Comisión debería “examinar la idoneidad de la plantilla actual para aumentar [...] la presión de licencias sobre los desarrolladores de AI”."
               }
             ]
           }
@@ -793,125 +829,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "타이베이 시장 후보\n딥페이크 유포 남성 기소",
-          "body": "타오위안 검찰은 Puma Shen 딥페이크 음성 영상 게시자에 1년형을 구형했다.",
-          "mini_headline": "Puma Shen 딥페이크 기소",
+          "headline": "EU 14개국, AI로부터\n저작권 보호 강화 요구",
+          "body": "EU 열네 개국이 집행위에 AI 저작권 입법과 창작자 공정 보상을 촉구했다.",
+          "mini_headline": "EU 국가들, AI 저작권법 촉구",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "타오위안 검찰은 민주진보당(DPP) 타이베이 시장 후보 선보양(Puma Shen, 沈伯洋)의 딥페이크 영상을 Threads에 올린 혐의로 기소된 49세 남성에게 징역 1년을 구형했다."
+                "x": "11월 19일 목요일과 20일 금요일 열린 ‘교육·청소년·문화·스포츠’ 이사회에서 14개 회원국이 AI로부터 저작권을 더 잘 보호하는 문제에 관한 논의를 다시 꺼냈다. 이들은 이 주제가 앞서 논의된 지 여섯 달 만인 11월 18일 EU 이사회에 보낸 문서에서 입법 제안을 요구했다."
               },
               {
                 "t": "p",
-                "x": "기소장에 따르면 성이 Cheng(鄭)인 이 남성은 Facebook에서 영상을 발견했다. 영상은 Shen의 목소리를 흉내 낸 음성을 써서, 그가 시민 회복력을 키우려고 세운 단체 Kuma Academy를 통해 US 무기 구매에서 리베이트를 받았다고 인정한 것처럼 꾸몄다는 의혹을 받는다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "타오위안 지방검찰서 청사. 사진: Yu Jui-jen, Taipei Times"
+                "x": "덴마크, 네덜란드, 폴란드를 포함한 다른 일곱 개국도 이 구상에 동참했다. 이들은 “문화·미디어 산업에 대한 시급성과 중요성을 고려해 이 주제에 대해 다시 입장을 밝히고자 한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "검찰은 Cheng이 내용을 확인하지 않은 채 10월 30일 Threads에 영상을 공개 게시해 Shen의 명예를 훼손하고 유권자의 지지를 꺾으려 했다고 봤다. 법원은 NT$100,000(US$3,036)의 보석금을 조건으로 그를 석방하고 대만 출국을 금지했다."
-              },
-              {
-                "t": "p",
-                "x": "검찰은 Cheng이 Shen의 목소리를 딥페이크로 꾸며 그의 당선을 막으려는 허위 정보를 퍼뜨려 공직인원선거파면법을 위반했다고 봤다. 검찰은 목요일 Cheng을 기소하며 그가 Shen의 명예를 크게 훼손하고 선거 기간 딥페이크 허위 정보 확산에 일조했다고 밝혔다."
+                "x": "이들은 5월에 제시된 더 나은 저작권 환경을 위한 표적 이니셔티브에 대한 지지를 재확인하고, “권리 유보의 집행력을 높이고 [...] 모든 창작자에게 전반적으로 적절한 보상을 보장하기 위한 [...] 신속한 조치”를 촉구했다. 회원국들은 또 집행위원회 산하 유럽 AI 사무국(European AI Office)이 “AI 개발자에 대한 라이선스 압력을 [...] 높이기 위해 현행 템플릿의 적합성을 검토해야 한다”고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台北市長候補の\nディープフェイクで男起訴",
-          "body": "桃園地検はPuma Shen氏のディープフェイク音声動画を投稿した男に懲役1年を求刑した。",
-          "mini_headline": "Puma Shen氏のディープフェイクで起訴",
+          "headline": "EU14か国、AIから\n著作権保護強化を要求",
+          "body": "EU加盟国の十四か国が、欧州委員会にAI著作権保護の立法と創作者への公正な報酬を求めた。",
+          "mini_headline": "EU諸国がAI著作権法を要求",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "桃園地検は、民進党(DPP)の台北市長候補Puma Shen(沈伯洋)氏のディープフェイク動画をThreadsに投稿したとして起訴された49歳の男に、懲役1年を求刑している。"
+                "x": "11月19日(木)と20日(金)の「教育・青少年・文化・スポーツ」理事会で、加盟14か国がAIから著作権をより適切に保護する議論を再燃させた。前回この問題が議論されてから六か月後の11月18日にEU理事会へ送った文書で、立法提案を求めた。"
               },
               {
                 "t": "p",
-                "x": "起訴状によると、Cheng(鄭)姓の男はFacebookでこの動画を見つけた。動画はShen氏の声をまねた音声を使い、同氏が市民のレジリエンス強化のために設立した団体Kuma Academyを通じてUSの武器購入からキックバックを受け取ったと認めたかのように見せかけたとされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "桃園地方検察署の庁舎。写真:Yu Jui-jen、Taipei Times"
+                "x": "デンマーク、オランダ、ポーランドなどほかの七か国もこの取り組みに加わった。「文化・メディア産業にとっての緊急性と重要性に鑑み、この問題について改めて立場を示したい」としている。"
               },
               {
                 "t": "p",
-                "x": "検察によると、Cheng被告は10月30日、内容を確認しないままThreadsに動画を公開投稿し、Shen氏の評判を傷つけ、有権者に支持を思いとどまらせようとした。裁判所はNT$100,000(US$3,036)の保釈金で同被告を釈放し、台湾からの出国を禁じた。"
-              },
-              {
-                "t": "p",
-                "x": "検察は、Cheng被告がShen氏の声のディープフェイクを使い、同氏の当選を妨げる目的で虚偽情報を広めたとして、公職人員選挙罷免法違反に問うた。検察は木曜日にCheng被告を起訴し、同被告がShen氏の評判を著しく傷つけ、選挙戦中のディープフェイクによる誤情報の拡散に加担したと指摘した。"
+                "x": "各国は5月に示された、より良い著作権環境に向けた的を絞ったイニシアチブへの支持を改めて表明し、「権利留保の執行力を高め[...]、あらゆる創作者に一律に適切な報酬を確保するための[...]迅速な行動」を求めた。加盟国はまた、欧州委員会のEuropean AI Officeが「AI開発者へのライセンス圧力を[...]高めるため、現行テンプレートの適切性を検討すべきだ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "男子遭起诉：深度伪造\n台北市长参选人",
-          "body": "桃园检方对一名在投票前发布Puma Shen深度伪造语音视频的男子求处一年徒刑。",
-          "mini_headline": "Puma Shen深度伪造案起诉",
+          "headline": "14个EU成员国要求\n强化AI版权保护",
+          "body": "十四个EU成员国敦促欧盟委员会就AI版权保护立法，并保障创作者公平报酬。",
+          "mini_headline": "EU国家推动AI版权立法",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "桃园检方对一名49岁男子求处一年徒刑，该男子被控在Threads上发布民进党（DPP）台北市长参选人沈伯洋（Puma Shen）的深度伪造视频。"
+                "x": "在11月19日（星期四）和20日（星期五）举行的“教育、青年、文化和体育”理事会上，14个成员国重启了关于更好地保护版权免受AI侵害的讨论。在该议题上次讨论六个月后，它们于11月18日向EU理事会提交的一份说明中呼吁提出立法提案。"
               },
               {
                 "t": "p",
-                "x": "起诉书称，这名郑（Cheng）姓男子是在Facebook上发现该视频的。该视频据称使用模仿Shen声音的语音，让他听起来像是承认通过其为建立民间韧性而创办的组织Kuma Academy，从US军购中收取回扣。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "桃园地方检察署大楼。摄影：Yu Jui-jen，Taipei Times"
+                "x": "包括丹麦、荷兰和波兰在内的另外七个国家也加入了这一倡议。它们表示：“鉴于这一议题对文化和媒体产业的紧迫性和重要性，我们希望再次表明立场。”"
               },
               {
                 "t": "p",
-                "x": "检方指控Cheng在10月30日未经核实内容便在Threads上公开发布该视频，意图损害Shen的名誉并劝阻选民支持他。法院裁定他以NT$100,000（US$3,036）交保，并限制其离开台湾。"
-              },
-              {
-                "t": "p",
-                "x": "检方指控Cheng利用深度伪造的Shen声音散布意图阻止其当选的不实信息，违反《公职人员选举罢免法》。检方于周四起诉Cheng，称他严重损害了Shen的名誉，并助长了竞选期间深度伪造不实信息的传播。"
+                "x": "它们重申支持5月提出的旨在改善版权环境的针对性倡议，并呼吁“迅速采取行动[...]提高权利保留的可执行性[...]并确保所有创作者全面获得适当报酬”。成员国还表示，欧盟委员会的European AI Office应“审查现行模板是否适合[...]加大对AI开发者的许可压力”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Acusan a un hombre por deepfake\nde candidato a alcalde de Taipei",
-          "body": "Fiscales de Taoyuan piden un año de cárcel a un hombre que subió un video deepfake de voz de Puma Shen antes del voto.",
-          "mini_headline": "Acusación por el deepfake de Puma Shen",
+          "headline": "14 países de la EU piden blindar\nlos derechos de autor ante la AI",
+          "body": "Catorce Estados de la EU piden a la Comisión una ley que proteja el copyright ante la AI, y pago justo a creadores.",
+          "mini_headline": "Países de la EU piden ley de copyright ante la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "La fiscalía de Taoyuan pide un año de prisión para un hombre de 49 años acusado de publicar en Threads un video deepfake del candidato a alcalde de Taipei por el Partido Democrático Progresista (DPP), Puma Shen (沈伯洋)."
+                "x": "En el Consejo de ‘Educación, Juventud, Cultura y Deporte’ del jueves 19 y el viernes 20 de noviembre, 14 Estados miembros reavivaron el debate sobre cómo proteger mejor los derechos de autor frente a la AI. En una nota enviada al Consejo de la EU el 18 de noviembre, seis meses después de que el tema se debatiera por última vez, pidieron una propuesta legislativa."
               },
               {
                 "t": "p",
-                "x": "El hombre, de apellido Cheng (鄭), encontró el video en Facebook, según la acusación. Presuntamente, el video usaba una voz que imitaba la de Shen para que pareciera que admitía haber recibido comisiones ilegales de compras de armas de US a través de la Kuma Academy, una organización que fundó para fortalecer la resiliencia civil."
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/21/P03-261121-0fdgdg.jpg",
-                "cap": "Edificio de la Fiscalía del Distrito de Taoyuan. Foto: Yu Jui-jen, Taipei Times"
+                "x": "Otros siete países, entre ellos Dinamarca, los Países Bajos y Polonia, se han sumado a la iniciativa. “Queremos volver a tomar posición sobre este tema dada su urgencia e importancia para las industrias culturales y de medios”, afirmaron."
               },
               {
                 "t": "p",
-                "x": "La fiscalía sostiene que Cheng lo publicó abiertamente en Threads el 30 de octubre sin verificar su contenido, para dañar la reputación de Shen y disuadir a los votantes de apoyarlo. El tribunal lo dejó en libertad bajo una fianza de NT$100,000 (US$3,036) y le prohibió salir de Taiwán."
-              },
-              {
-                "t": "p",
-                "x": "La fiscalía acusó a Cheng de infringir la Ley de Elección y Revocación de Funcionarios Públicos al usar un deepfake de la voz de Shen para difundir información falsa destinada a impedir su elección. Lo acusaron formalmente el jueves, al considerar que dañó gravemente la reputación de Shen y contribuyó a la difusión de desinformación deepfake durante la campaña."
+                "x": "Reiteraron su apoyo a la iniciativa específica para un mejor entorno de derechos de autor, presentada en mayo, y pidieron “una acción rápida [...] para mejorar la aplicabilidad de la reserva de derechos [...] y garantizar una remuneración adecuada para todos los creadores en general”. Los Estados miembros también señalaron que la European AI Office de la Comisión debería “examinar la idoneidad de la plantilla actual para aumentar [...] la presión de licencias sobre los desarrolladores de AI”."
               }
             ]
           }
@@ -919,15 +919,15 @@
       }
     },
     {
-      "id": "exam-fairness-tf-cheongwadae",
-      "source_lang": "ko",
+      "id": "mcgill-influencer-deepfakes-trade",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "청와대, AI 부정행위\n근절 TF로 확대",
-      "body": "청와대가 수능 AI 부정 대응 TF를 '시험 공정성 회복 TF'로 확대했다.",
-      "mini_headline": "AI 부정 근절 TF 확대",
+      "headline": "딥페이크 인플루언서가 키운\nCanada-US 무역갈등",
+      "body": "AI-faked 얼굴을 쓴 계정 약 300개가 Canada-US 갈등을 부추겼다.",
+      "mini_headline": "딥페이크 인플루언서와 무역전쟁",
       "tool": "Politics",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120154100001",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -935,305 +935,305 @@
         "blocks": [
           {
             "t": "p",
-            "x": "청와대는 인공지능(AI)을 활용한 부정행위를 막기 위해 가칭 '시험 공정성 회복 TF(태스크포스)'를 구성·운영한다고 20일 밝혔다. 이번 수능시험을 이틀 앞뒀던 지난 17일 꾸린 'AI 악용 부정행위 비상 대응 TF'를 확대해 운영하기로 한 것이다."
-          },
-          {
-            "t": "p",
-            "x": "TF는 AI와 첨단 장비를 활용한 부정행위 근절 대책을 마련하고, 수능을 포함한 각종 시험의 감독 현황을 점검, 국가적 차원의 시험 공정성 확보를 위한 근본적인 대책을 마련하기로 했다. 또한 과거 국가시험 등에서의 부정행위에 대해서도 엄정하고 단호하게 대응하기로 했다."
+            "x": "McGill University 연구진에 따르면, Jasmin Laine은 AI를 동원해 무너져 가는 캐나다·미국(US) 관계를 둘러싼 온라인 여론을 자극한 네트워크에 신원을 도용당했다. 이렇게 피해를 본 콘텐츠 크리에이터가 수백 명에 이른다."
           },
           {
             "t": "img",
-            "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-            "cap": "예산안 제안 설명하는 임광현 대통령 비서실장"
+            "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+            "cap": "온타리오주 Lansdowne의 Thousand Islands Bridge 옆 Lansdowne Port of Entry에 캐나다 국기(왼쪽)와 미국(US) 국기가 나란히 휘날리고 있다."
           },
           {
             "t": "p",
-            "x": "TF 단장인 임광현 비서실장은 국무총리실이 주관해 중앙제보센터를 가동하되 이를 각 주관부처가 운영하는 제보 센터와 연계해 운영하도록 지시했다. 그러면서 접수된 제보에 대해선 관계기관 및 AI 기업들과 협조해 부정행위 의심 사례들을 철저하게 조사하게 하고 책임을 단호하게 물으라고 주문했다."
+            "x": "McGill Centre for Media, Technology and Democracy 연구팀은 실제 얼굴을 도용한 Instagram·TikTok 계정 약 300개를 찾아냈다. 이 계정들은 조직적으로 영상 수천 개를 올려 조회수 약 2000만 회를 끌어모았다. 그중 TikTok의 합성 콘텐츠 경고가 붙은 계정은 4퍼센트뿐이었다. 영상 대본도 AI로 썼다."
           },
           {
             "t": "p",
-            "x": "한편, 이날 이재명 대통령 주재 수석보좌관 회의에서는 AI미래기획수석실이 '온오프라인 AI 국민 교실 신속 확산 방안'을 보고했다. 이 대통령은 \"AI를 배우고 가르치는 활동에 대한 지원이 소득재분배의 수단이 될 수 있겠다\"면서 프로그램 인증제가 필요하다는 점을 언급했다고 강유정 수석대변인은 전했다."
+            "x": "보고서 저자 Aengus Bridgman은 네트워크가 북미 밖에서 시작된 것으로 보이며 일부 계정은 중국에 등록돼 있었다고 했다. “목적은 양극화”라는 설명이다. 어떤 영상은 무역 갈등의 책임을 오타와에, 어떤 영상은 워싱턴에 돌렸다."
+          },
+          {
+            "t": "p",
+            "x": "TikTok은 보고서에 언급된 계정을 영구 정지했고, Meta는 관련 Instagram 계정을 삭제했다고 밝혔다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "청와대, AI 부정행위\n근절 TF로 확대",
-          "body": "청와대가 수능 AI 부정 대응 TF를 '시험 공정성 회복 TF'로 확대했다.",
-          "mini_headline": "AI 부정 근절 TF 확대",
+        "en": {
+          "headline": "Deepfaked influencers stoke\nCanada-US trade tensions",
+          "body": "A McGill study traced about 300 accounts using AI-faked likenesses of real creators to inflame Canada-US tensions.",
+          "mini_headline": "Deepfake influencers, trade war",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "청와대는 인공지능(AI)을 활용한 부정행위를 막기 위해 가칭 '시험 공정성 회복 TF(태스크포스)'를 구성·운영한다고 20일 밝혔다. 이번 수능시험을 이틀 앞뒀던 지난 17일 꾸린 'AI 악용 부정행위 비상 대응 TF'를 확대해 운영하기로 한 것이다."
-              },
-              {
-                "t": "p",
-                "x": "TF는 AI와 첨단 장비를 활용한 부정행위 근절 대책을 마련하고, 수능을 포함한 각종 시험의 감독 현황을 점검, 국가적 차원의 시험 공정성 확보를 위한 근본적인 대책을 마련하기로 했다. 또한 과거 국가시험 등에서의 부정행위에 대해서도 엄정하고 단호하게 대응하기로 했다."
+                "x": "Jasmin Laine is one of hundreds of content creators who, according to researchers at McGill University, had their identities stolen by a network using AI to inflame the online conversation around the crumbling ties between Canada and the US."
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "예산안 제안 설명하는 임광현 대통령 비서실장"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "The Canadian, left, and US flags flutter at the Lansdowne Port of Entry next to the Thousand Islands Bridge in Lansdowne, Ontario."
               },
               {
                 "t": "p",
-                "x": "TF 단장인 임광현 비서실장은 국무총리실이 주관해 중앙제보센터를 가동하되 이를 각 주관부처가 운영하는 제보 센터와 연계해 운영하도록 지시했다. 그러면서 접수된 제보에 대해선 관계기관 및 AI 기업들과 협조해 부정행위 의심 사례들을 철저하게 조사하게 하고 책임을 단호하게 물으라고 주문했다."
+                "x": "The McGill Centre for Media, Technology and Democracy study identified about 300 Instagram and TikTok accounts misusing authentic faces in a coordinated operation which published thousands of videos and pulled in about 20 million views. Only 4 percent of the operation’s accounts triggered TikTok’s synthetic content warning. The network also used AI to generate the videos’ scripts."
               },
               {
                 "t": "p",
-                "x": "한편, 이날 이재명 대통령 주재 수석보좌관 회의에서는 AI미래기획수석실이 '온오프라인 AI 국민 교실 신속 확산 방안'을 보고했다. 이 대통령은 \"AI를 배우고 가르치는 활동에 대한 지원이 소득재분배의 수단이 될 수 있겠다\"면서 프로그램 인증제가 필요하다는 점을 언급했다고 강유정 수석대변인은 전했다."
+                "x": "Report author Aengus Bridgman said the network appeared to originate outside of North America; certain accounts were registered in China. “The idea is to polarize,” he said. Some videos blamed Ottawa for the trade conflict while others pointed the finger at Washington."
+              },
+              {
+                "t": "p",
+                "x": "TikTok said it had permanently banned the accounts mentioned in the report, and Meta said it had taken down the implicated Instagram accounts."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Cheong Wa Dae widens TF to\nroot out AI cheating",
-          "body": "Cheong Wa Dae expanded its TF on AI cheating in the college entrance exam into an 'Exam Fairness Restoration TF'.",
-          "mini_headline": "AI cheating TF expanded",
+        "ko": {
+          "headline": "딥페이크 인플루언서가 키운\nCanada-US 무역갈등",
+          "body": "AI-faked 얼굴을 쓴 계정 약 300개가 Canada-US 갈등을 부추겼다.",
+          "mini_headline": "딥페이크 인플루언서와 무역전쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cheong Wa Dae said on the 20th that it will form and run a provisionally named 'Exam Fairness Restoration TF (task force)' to prevent cheating using artificial intelligence (AI). The move expands the 'Emergency Response TF on AI-Abuse Cheating' set up on the 17th, two days before this year's college entrance exam (Suneung)."
-              },
-              {
-                "t": "p",
-                "x": "The TF will draw up measures to root out cheating using AI and advanced devices, check the state of proctoring for various exams including the Suneung, and prepare fundamental measures to secure exam fairness at the national level. It also decided to respond strictly and firmly to past cheating in national exams and other tests."
+                "x": "McGill University 연구진에 따르면, Jasmin Laine은 AI를 동원해 무너져 가는 캐나다·미국(US) 관계를 둘러싼 온라인 여론을 자극한 네트워크에 신원을 도용당했다. 이렇게 피해를 본 콘텐츠 크리에이터가 수백 명에 이른다."
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "Presidential Chief of Staff Lim Kwang-hyun explains the budget proposal"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "온타리오주 Lansdowne의 Thousand Islands Bridge 옆 Lansdowne Port of Entry에 캐나다 국기(왼쪽)와 미국(US) 국기가 나란히 휘날리고 있다."
               },
               {
                 "t": "p",
-                "x": "Chief of Staff Lim Kwang-hyun, who heads the TF, ordered that a central tip-off center be run under the Office of the Prime Minister and linked with the tip-off centers operated by each supervising ministry. He also instructed that tips received be thoroughly investigated for suspected cheating in cooperation with relevant agencies and AI companies, and that those responsible be held firmly accountable."
+                "x": "McGill Centre for Media, Technology and Democracy 연구팀은 실제 얼굴을 도용한 Instagram·TikTok 계정 약 300개를 찾아냈다. 이 계정들은 조직적으로 영상 수천 개를 올려 조회수 약 2000만 회를 끌어모았다. 그중 TikTok의 합성 콘텐츠 경고가 붙은 계정은 4퍼센트뿐이었다. 영상 대본도 AI로 썼다."
               },
               {
                 "t": "p",
-                "x": "Meanwhile, at a meeting of senior secretaries chaired by President Lee Jae-myung the same day, the Office of the Senior Secretary for AI Future Planning reported a 'plan for rapidly expanding online and offline AI citizen classrooms.' President Lee said \"support for activities that learn and teach AI could become a means of income redistribution\" and mentioned the need for a program certification system, chief spokesperson Kang Yu-jung said."
+                "x": "보고서 저자 Aengus Bridgman은 네트워크가 북미 밖에서 시작된 것으로 보이며 일부 계정은 중국에 등록돼 있었다고 했다. “목적은 양극화”라는 설명이다. 어떤 영상은 무역 갈등의 책임을 오타와에, 어떤 영상은 워싱턴에 돌렸다."
+              },
+              {
+                "t": "p",
+                "x": "TikTok은 보고서에 언급된 계정을 영구 정지했고, Meta는 관련 Instagram 계정을 삭제했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "青瓦台、AI不正行為\n根絶TFに拡大",
-          "body": "青瓦台は大学修学能力試験のAI不正対応TFを「試験公正性回復TF」に拡大した。",
-          "mini_headline": "AI不正根絶TFを拡大",
+          "headline": "偽インフルエンサーが煽る\nCanada-US 貿易摩擦",
+          "body": "AI-fakedの顔を使う約300のアカウントがCanada-US対立を煽っていた。",
+          "mini_headline": "ディープフェイクと貿易戦争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "青瓦台は20日、人工知能(AI)を使った不正行為を防ぐため、仮称「試験公正性回復TF(タスクフォース)」を設置・運営すると明らかにした。今回の大学修学能力試験(修能)を二日後に控えた17日に設けた「AI悪用不正行為緊急対応TF」を拡大して運営する。"
-              },
-              {
-                "t": "p",
-                "x": "TFは、AIや先端機器を使った不正行為の根絶策を整え、修能をはじめ各種試験の監督状況を点検し、国家レベルで試験の公正性を確保するための抜本的な対策をまとめる。また、過去の国家試験などでの不正行為にも厳正かつ断固として対応する方針だ。"
+                "x": "McGill Universityの研究者によると、Jasmin Laineは、AIを使って崩れゆくカナダと米国(US)の関係をめぐるオンライン上の議論を煽ったネットワークに、身元を盗まれた数百人のコンテンツクリエイターの一人だ。"
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "予算案の提案説明をするイム・グァンヒョン大統領秘書室長"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "オンタリオ州LansdowneのThousand Islands Bridge近くにあるLansdowne Port of Entryではためくカナダ国旗(左)と米国(US)国旗。"
               },
               {
                 "t": "p",
-                "x": "TF団長のイム・グァンヒョン秘書室長は、国務総理室の主管で中央通報センターを稼働させ、各主管省庁が運営する通報センターと連携して運営するよう指示した。そのうえで、寄せられた通報については関係機関やAI企業と協力して不正行為の疑いがある事例を徹底的に調べ、断固として責任を問うよう求めた。"
+                "x": "McGill Centre for Media, Technology and Democracyの研究は、実在の顔を悪用するInstagramとTikTokのアカウント約300件を特定した。組織的な作戦で数千本の動画を公開し、約2000万回の再生を集めていた。TikTokの合成コンテンツ警告が表示されたのは、作戦のアカウントのわずか4パーセントだった。ネットワークは動画の台本もAIで生成していた。"
               },
               {
                 "t": "p",
-                "x": "一方、同日に李在明大統領が主宰した首席秘書官会議では、AI未来企画首席室が「オンライン・オフラインAI国民教室の迅速な拡大策」を報告した。カン・ユジョン首席報道官によると、李大統領は「AIを学び教える活動への支援は所得再分配の手段になりうる」と述べ、プログラム認証制度の必要性に言及した。"
+                "x": "報告書の著者Aengus Bridgmanは、ネットワークは北米以外から発信されたとみられ、一部のアカウントは中国で登録されていたと述べた。「狙いは分断だ」と同氏は語った。貿易対立の責任をオタワに負わせる動画もあれば、ワシントンを名指しする動画もあった。"
+              },
+              {
+                "t": "p",
+                "x": "TikTokは報告書で言及されたアカウントを永久に禁止したとし、Metaは関係するInstagramアカウントを削除したと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "青瓦台：AI作弊应对\n扩大为根除TF",
-          "body": "青瓦台将韩国高考AI作弊应对TF扩大为“考试公正性恢复TF”。",
-          "mini_headline": "AI作弊根除TF扩大",
+          "headline": "深度伪造网红加剧\nCanada-US贸易摩擦",
+          "body": "McGill研究发现约300个账号用AI-faked真人形象煽动Canada-US对立。",
+          "mini_headline": "深度伪造网红与贸易战",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "青瓦台20日表示，为防止利用人工智能（AI）作弊，将组建并运营暂定名为“考试公正性恢复TF（工作组）”的机构。这是将本次高考前两天、即17日组建的“AI滥用作弊紧急应对TF”扩大运营。"
-              },
-              {
-                "t": "p",
-                "x": "TF将制定根除利用AI和尖端设备作弊的对策，检查包括高考在内各类考试的监考情况，并从国家层面制定确保考试公正的根本对策。此外，对于过去国家考试等中的作弊行为也将严正、果断应对。"
+                "x": "据McGill University研究人员称，Jasmin Laine是数百名身份遭盗用的内容创作者之一，盗用者是一个利用AI煽动围绕加拿大与美国(US)关系破裂的网络舆论的网络。"
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "正在说明预算案的总统秘书室长Lim Kwang-hyun"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "安大略省Lansdowne的Thousand Islands Bridge旁，Lansdowne Port of Entry飘扬的加拿大国旗（左）和美国(US)国旗。"
               },
               {
                 "t": "p",
-                "x": "担任TF团长的秘书室长Lim Kwang-hyun指示，由国务总理室牵头运行中央举报中心，并与各主管部门运营的举报中心联动。他还要求，对收到的举报要与相关机构及AI企业合作，彻底调查涉嫌作弊的案例，并果断追究责任。"
+                "x": "McGill Centre for Media, Technology and Democracy的研究发现约300个滥用真实面孔的Instagram和TikTok账号，它们在一场协同行动中发布了数千条视频，获得约2000万次观看。该行动的账号中只有百分之四触发了TikTok的合成内容警告。该网络还用AI生成视频脚本。"
               },
               {
                 "t": "p",
-                "x": "另外，当天在李在明总统主持的首席秘书会议上，AI未来规划首席室汇报了“线上线下AI国民课堂快速推广方案”。据首席发言人Kang Yu-jung介绍，李总统表示“对学习和教授AI活动的支持可以成为收入再分配的手段”，并提到有必要建立项目认证制度。"
+                "x": "报告作者Aengus Bridgman表示，该网络似乎源自北美以外，部分账号注册于中国。他说：“目的就是制造两极分化。”一些视频把贸易冲突归咎于渥太华，另一些则把矛头指向华盛顿。"
+              },
+              {
+                "t": "p",
+                "x": "TikTok表示已永久封禁报告中提到的账号，Meta表示已删除涉事的Instagram账号。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cheong Wa Dae amplía su TF\ncontra las trampas con AI",
-          "body": "Cheong Wa Dae amplió su TF de fraude con AI en el examen de acceso a una 'TF de recuperación de equidad en exámenes'.",
-          "mini_headline": "Se amplía la TF contra el fraude con AI",
+          "headline": "Influencers falsos con AI avivan\nla tensión comercial Canada-US",
+          "body": "Un estudio de McGill halló unas 300 cuentas con rostros AI-faked de creadores reales para avivar la tensión Canada-US.",
+          "mini_headline": "Influencers deepfake y guerra comercial",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cheong Wa Dae anunció el día 20 que formará y pondrá en marcha una 'TF (grupo de trabajo) para la recuperación de la equidad en los exámenes', nombre provisional, para impedir las trampas con inteligencia artificial (AI). Se trata de ampliar la 'TF de respuesta de emergencia ante trampas con abuso de AI', creada el día 17, dos días antes del examen de acceso a la universidad (Suneung) de este año."
-              },
-              {
-                "t": "p",
-                "x": "La TF preparará medidas para erradicar las trampas con AI y equipos de alta tecnología, revisará la vigilancia de diversos exámenes, incluido el Suneung, y elaborará medidas de fondo para garantizar la equidad de los exámenes a escala nacional. También decidió responder con rigor y firmeza a las trampas cometidas en exámenes nacionales anteriores."
+                "x": "Jasmin Laine es una de los cientos de creadores de contenido que, según investigadores de la McGill University, sufrieron el robo de su identidad a manos de una red que usaba AI para inflamar la conversación en línea sobre el deterioro de los lazos entre Canadá y Estados Unidos (US)."
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "Lim Kwang-hyun, jefe de gabinete presidencial, explica la propuesta de presupuesto"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "Las banderas de Canadá, a la izquierda, y de Estados Unidos (US) ondean en el Lansdowne Port of Entry, junto al Thousand Islands Bridge, en Lansdowne, Ontario."
               },
               {
                 "t": "p",
-                "x": "Lim Kwang-hyun, jefe de gabinete y director de la TF, ordenó que la Oficina del Primer Ministro ponga en marcha un centro central de denuncias vinculado a los centros de denuncias que gestiona cada ministerio competente. Además, pidió que las denuncias recibidas se investiguen a fondo en cooperación con los organismos pertinentes y las empresas de AI, y que se exijan responsabilidades con firmeza."
+                "x": "El estudio del McGill Centre for Media, Technology and Democracy identificó unas 300 cuentas de Instagram y TikTok que usaban rostros auténticos de forma indebida en una operación coordinada que publicó miles de videos y sumó unos 20 millones de visualizaciones. Solo el 4 por ciento de las cuentas de la operación activó la advertencia de contenido sintético de TikTok. La red también usó AI para generar los guiones de los videos."
               },
               {
                 "t": "p",
-                "x": "Por otra parte, en la reunión de secretarios principales presidida ese día por el presidente Lee Jae-myung, la Oficina del Secretario Principal de Planificación del Futuro de la AI presentó un 'plan para extender con rapidez las aulas ciudadanas de AI en línea y presenciales'. El presidente Lee dijo que \"el apoyo a las actividades de aprender y enseñar AI podría convertirse en un medio de redistribución del ingreso\" y mencionó la necesidad de un sistema de certificación de programas, según la portavoz principal Kang Yu-jung."
+                "x": "El autor del informe, Aengus Bridgman, dijo que la red parecía originarse fuera de Norteamérica; algunas cuentas estaban registradas en China. “La idea es polarizar”, dijo. Algunos videos culpaban a Ottawa del conflicto comercial, mientras que otros señalaban a Washington."
+              },
+              {
+                "t": "p",
+                "x": "TikTok dijo que había prohibido de forma permanente las cuentas mencionadas en el informe, y Meta dijo que había eliminado las cuentas de Instagram implicadas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Cheong Wa Dae widens TF to\nroot out AI cheating",
-          "body": "Cheong Wa Dae expanded its TF on AI cheating in the college entrance exam into an 'Exam Fairness Restoration TF'.",
-          "mini_headline": "AI cheating TF expanded",
+        "ko": {
+          "headline": "딥페이크 인플루언서가 키운\nCanada-US 무역갈등",
+          "body": "AI-faked 얼굴을 쓴 계정 약 300개가 Canada-US 갈등을 부추겼다.",
+          "mini_headline": "딥페이크 인플루언서와 무역전쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cheong Wa Dae said on the 20th that it will form and run a provisionally named 'Exam Fairness Restoration TF (task force)' to prevent cheating using artificial intelligence (AI). The move expands the 'Emergency Response TF on AI-Abuse Cheating' set up on the 17th, two days before this year's college entrance exam (Suneung)."
-              },
-              {
-                "t": "p",
-                "x": "The TF will draw up measures to root out cheating using AI and advanced devices, check the state of proctoring for various exams including the Suneung, and prepare fundamental measures to secure exam fairness at the national level. It also decided to respond strictly and firmly to past cheating in national exams and other tests."
+                "x": "McGill University 연구진에 따르면 Jasmin Laine은 AI를 이용해 무너져 가는 캐나다와 미국(US) 관계를 둘러싼 온라인 여론을 자극한 네트워크에 신원을 도용당한 수백 명의 콘텐츠 크리에이터 중 한 명이다."
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "Presidential Chief of Staff Lim Kwang-hyun explains the budget proposal"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "온타리오주 Lansdowne의 Thousand Islands Bridge 옆 Lansdowne Port of Entry에서 캐나다 국기(왼쪽)와 미국(US) 국기가 휘날리고 있다."
               },
               {
                 "t": "p",
-                "x": "Chief of Staff Lim Kwang-hyun, who heads the TF, ordered that a central tip-off center be run under the Office of the Prime Minister and linked with the tip-off centers operated by each supervising ministry. He also instructed that tips received be thoroughly investigated for suspected cheating in cooperation with relevant agencies and AI companies, and that those responsible be held firmly accountable."
+                "x": "McGill Centre for Media, Technology and Democracy의 연구는 실제 얼굴을 도용한 Instagram·TikTok 계정 약 300개를 찾아냈다. 이 계정들은 조직적인 작전으로 수천 개의 영상을 올려 약 2000만 회의 조회수를 끌어모았다. 작전에 쓰인 계정 중 TikTok의 합성 콘텐츠 경고가 붙은 것은 4퍼센트에 불과했다. 네트워크는 영상 대본도 AI로 생성했다."
               },
               {
                 "t": "p",
-                "x": "Meanwhile, at a meeting of senior secretaries chaired by President Lee Jae-myung the same day, the Office of the Senior Secretary for AI Future Planning reported a 'plan for rapidly expanding online and offline AI citizen classrooms.' President Lee said \"support for activities that learn and teach AI could become a means of income redistribution\" and mentioned the need for a program certification system, chief spokesperson Kang Yu-jung said."
+                "x": "보고서 저자 Aengus Bridgman은 이 네트워크가 북미 밖에서 시작된 것으로 보이며 일부 계정은 중국에 등록돼 있었다고 말했다. 그는 “목적은 양극화”라고 했다. 일부 영상은 무역 갈등의 책임을 오타와에 돌렸고, 다른 영상은 워싱턴을 지목했다."
+              },
+              {
+                "t": "p",
+                "x": "TikTok은 보고서에 언급된 계정을 영구 정지했다고 밝혔고, Meta는 관련 Instagram 계정을 삭제했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "青瓦台、AI不正行為\n根絶TFに拡大",
-          "body": "青瓦台は大学修学能力試験のAI不正対応TFを「試験公正性回復TF」に拡大した。",
-          "mini_headline": "AI不正根絶TFを拡大",
+          "headline": "偽インフルエンサーが煽る\nCanada-US 貿易摩擦",
+          "body": "AI-fakedの顔を使う約300のアカウントがCanada-US対立を煽っていた。",
+          "mini_headline": "ディープフェイクと貿易戦争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "青瓦台は20日、人工知能(AI)を使った不正行為を防ぐため、仮称「試験公正性回復TF(タスクフォース)」を設置・運営すると明らかにした。今回の大学修学能力試験(修能)を二日後に控えた17日に設けた「AI悪用不正行為緊急対応TF」を拡大して運営する。"
-              },
-              {
-                "t": "p",
-                "x": "TFは、AIや先端機器を使った不正行為の根絶策を整え、修能をはじめ各種試験の監督状況を点検し、国家レベルで試験の公正性を確保するための抜本的な対策をまとめる。また、過去の国家試験などでの不正行為にも厳正かつ断固として対応する方針だ。"
+                "x": "McGill Universityの研究者によると、Jasmin Laineは、AIを使って崩れゆくカナダと米国(US)の関係をめぐるオンライン上の議論を煽ったネットワークに、身元を盗まれた数百人のコンテンツクリエイターの一人だ。"
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "予算案の提案説明をするイム・グァンヒョン大統領秘書室長"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "オンタリオ州LansdowneのThousand Islands Bridge近くにあるLansdowne Port of Entryではためくカナダ国旗(左)と米国(US)国旗。"
               },
               {
                 "t": "p",
-                "x": "TF団長のイム・グァンヒョン秘書室長は、国務総理室の主管で中央通報センターを稼働させ、各主管省庁が運営する通報センターと連携して運営するよう指示した。そのうえで、寄せられた通報については関係機関やAI企業と協力して不正行為の疑いがある事例を徹底的に調べ、断固として責任を問うよう求めた。"
+                "x": "McGill Centre for Media, Technology and Democracyの研究は、実在の顔を悪用するInstagramとTikTokのアカウント約300件を特定した。組織的な作戦で数千本の動画を公開し、約2000万回の再生を集めていた。TikTokの合成コンテンツ警告が表示されたのは、作戦のアカウントのわずか4パーセントだった。ネットワークは動画の台本もAIで生成していた。"
               },
               {
                 "t": "p",
-                "x": "一方、同日に李在明大統領が主宰した首席秘書官会議では、AI未来企画首席室が「オンライン・オフラインAI国民教室の迅速な拡大策」を報告した。カン・ユジョン首席報道官によると、李大統領は「AIを学び教える活動への支援は所得再分配の手段になりうる」と述べ、プログラム認証制度の必要性に言及した。"
+                "x": "報告書の著者Aengus Bridgmanは、ネットワークは北米以外から発信されたとみられ、一部のアカウントは中国で登録されていたと述べた。「狙いは分断だ」と同氏は語った。貿易対立の責任をオタワに負わせる動画もあれば、ワシントンを名指しする動画もあった。"
+              },
+              {
+                "t": "p",
+                "x": "TikTokは報告書で言及されたアカウントを永久に禁止したとし、Metaは関係するInstagramアカウントを削除したと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "青瓦台：AI作弊应对\n扩大为根除TF",
-          "body": "青瓦台将韩国高考AI作弊应对TF扩大为“考试公正性恢复TF”。",
-          "mini_headline": "AI作弊根除TF扩大",
+          "headline": "深度伪造网红加剧\nCanada-US贸易摩擦",
+          "body": "McGill研究发现约300个账号用AI-faked真人形象煽动Canada-US对立。",
+          "mini_headline": "深度伪造网红与贸易战",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "青瓦台20日表示，为防止利用人工智能（AI）作弊，将组建并运营暂定名为“考试公正性恢复TF（工作组）”的机构。这是将本次高考前两天、即17日组建的“AI滥用作弊紧急应对TF”扩大运营。"
-              },
-              {
-                "t": "p",
-                "x": "TF将制定根除利用AI和尖端设备作弊的对策，检查包括高考在内各类考试的监考情况，并从国家层面制定确保考试公正的根本对策。此外，对于过去国家考试等中的作弊行为也将严正、果断应对。"
+                "x": "据McGill University研究人员称，Jasmin Laine是数百名身份遭盗用的内容创作者之一，盗用者是一个利用AI煽动围绕加拿大与美国(US)关系破裂的网络舆论的网络。"
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "正在说明预算案的总统秘书室长Lim Kwang-hyun"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "安大略省Lansdowne的Thousand Islands Bridge旁，Lansdowne Port of Entry飘扬的加拿大国旗（左）和美国(US)国旗。"
               },
               {
                 "t": "p",
-                "x": "担任TF团长的秘书室长Lim Kwang-hyun指示，由国务总理室牵头运行中央举报中心，并与各主管部门运营的举报中心联动。他还要求，对收到的举报要与相关机构及AI企业合作，彻底调查涉嫌作弊的案例，并果断追究责任。"
+                "x": "McGill Centre for Media, Technology and Democracy的研究发现约300个滥用真实面孔的Instagram和TikTok账号，它们在一场协同行动中发布了数千条视频，获得约2000万次观看。该行动的账号中只有百分之四触发了TikTok的合成内容警告。该网络还用AI生成视频脚本。"
               },
               {
                 "t": "p",
-                "x": "另外，当天在李在明总统主持的首席秘书会议上，AI未来规划首席室汇报了“线上线下AI国民课堂快速推广方案”。据首席发言人Kang Yu-jung介绍，李总统表示“对学习和教授AI活动的支持可以成为收入再分配的手段”，并提到有必要建立项目认证制度。"
+                "x": "报告作者Aengus Bridgman表示，该网络似乎源自北美以外，部分账号注册于中国。他说：“目的就是制造两极分化。”一些视频把贸易冲突归咎于渥太华，另一些则把矛头指向华盛顿。"
+              },
+              {
+                "t": "p",
+                "x": "TikTok表示已永久封禁报告中提到的账号，Meta表示已删除涉事的Instagram账号。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cheong Wa Dae amplía su TF\ncontra las trampas con AI",
-          "body": "Cheong Wa Dae amplió su TF de fraude con AI en el examen de acceso a una 'TF de recuperación de equidad en exámenes'.",
-          "mini_headline": "Se amplía la TF contra el fraude con AI",
+          "headline": "Influencers falsos con AI avivan\nla tensión comercial Canada-US",
+          "body": "Un estudio de McGill halló unas 300 cuentas con rostros AI-faked de creadores reales para avivar la tensión Canada-US.",
+          "mini_headline": "Influencers deepfake y guerra comercial",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cheong Wa Dae anunció el día 20 que formará y pondrá en marcha una 'TF (grupo de trabajo) para la recuperación de la equidad en los exámenes', nombre provisional, para impedir las trampas con inteligencia artificial (AI). Se trata de ampliar la 'TF de respuesta de emergencia ante trampas con abuso de AI', creada el día 17, dos días antes del examen de acceso a la universidad (Suneung) de este año."
-              },
-              {
-                "t": "p",
-                "x": "La TF preparará medidas para erradicar las trampas con AI y equipos de alta tecnología, revisará la vigilancia de diversos exámenes, incluido el Suneung, y elaborará medidas de fondo para garantizar la equidad de los exámenes a escala nacional. También decidió responder con rigor y firmeza a las trampas cometidas en exámenes nacionales anteriores."
+                "x": "Jasmin Laine es una de los cientos de creadores de contenido que, según investigadores de la McGill University, sufrieron el robo de su identidad a manos de una red que usaba AI para inflamar la conversación en línea sobre el deterioro de los lazos entre Canadá y Estados Unidos (US)."
               },
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111611730001300_P4.jpg",
-                "cap": "Lim Kwang-hyun, jefe de gabinete presidencial, explica la propuesta de presupuesto"
+                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+                "cap": "Las banderas de Canadá, a la izquierda, y de Estados Unidos (US) ondean en el Lansdowne Port of Entry, junto al Thousand Islands Bridge, en Lansdowne, Ontario."
               },
               {
                 "t": "p",
-                "x": "Lim Kwang-hyun, jefe de gabinete y director de la TF, ordenó que la Oficina del Primer Ministro ponga en marcha un centro central de denuncias vinculado a los centros de denuncias que gestiona cada ministerio competente. Además, pidió que las denuncias recibidas se investiguen a fondo en cooperación con los organismos pertinentes y las empresas de AI, y que se exijan responsabilidades con firmeza."
+                "x": "El estudio del McGill Centre for Media, Technology and Democracy identificó unas 300 cuentas de Instagram y TikTok que usaban rostros auténticos de forma indebida en una operación coordinada que publicó miles de videos y sumó unos 20 millones de visualizaciones. Solo el 4 por ciento de las cuentas de la operación activó la advertencia de contenido sintético de TikTok. La red también usó AI para generar los guiones de los videos."
               },
               {
                 "t": "p",
-                "x": "Por otra parte, en la reunión de secretarios principales presidida ese día por el presidente Lee Jae-myung, la Oficina del Secretario Principal de Planificación del Futuro de la AI presentó un 'plan para extender con rapidez las aulas ciudadanas de AI en línea y presenciales'. El presidente Lee dijo que \"el apoyo a las actividades de aprender y enseñar AI podría convertirse en un medio de redistribución del ingreso\" y mencionó la necesidad de un sistema de certificación de programas, según la portavoz principal Kang Yu-jung."
+                "x": "El autor del informe, Aengus Bridgman, dijo que la red parecía originarse fuera de Norteamérica; algunas cuentas estaban registradas en China. “La idea es polarizar”, dijo. Algunos videos culpaban a Ottawa del conflicto comercial, mientras que otros señalaban a Washington."
+              },
+              {
+                "t": "p",
+                "x": "TikTok dijo que había prohibido de forma permanente las cuentas mencionadas en el informe, y Meta dijo que había eliminado las cuentas de Instagram implicadas."
               }
             ]
           }
@@ -1241,189 +1241,189 @@
       }
     },
     {
-      "id": "trump-offshore-datacenter-tax",
+      "id": "china-ethnic-unity-law-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "트럼프, 해외 AI\n데이터센터 과세 시사",
-      "body": "트럼프가 해외에 AI 데이터센터를 짓는 US 기업에 '엄청난 세금'을 경고했다.",
-      "mini_headline": "트럼프, 해외 데이터센터 과세 시사",
+      "headline": "중국 민족단결법은\nAI 집행에 기댄다",
+      "body": "중국 민족단결법은 삭제·경보에 AI를 쓰고 generative-AI도 규율한다.",
+      "mini_headline": "중국 민족단결법 뒤의 AI",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "ChinaTalk",
+      "url": "https://www.chinatalk.media/p/the-role-of-ai-in-enforcing-chinas",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "도널드 트럼프 대통령이 US 밖에 데이터센터를 짓는 기업에 \"엄청난 세금\"을 물리겠다고 했다. 미국 곳곳의 주와 도시가 데이터센터 신규 건설 신청을 제한하는 가운데 나온 발언이다."
+            "t": "img",
+            "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
           },
           {
             "t": "p",
-            "x": "트럼프는 금요일 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 정상회담을 마친 뒤 기자회견에서 \"우리 기업들이 나라 밖에 데이터센터를 짓도록 놔두지 않겠다\"고 말했다. US가 해외 데이터센터 건설을 허용하면 \"중국이 전부 가져갈 것\"이라는 경고도 덧붙였다."
-          },
-          {
-            "t": "video",
-            "yt": "VD-KP5xTESY"
+            "x": "중국 “민족단결진보촉진법”이 시행된 지 넉 달이 지났다. Oliver Lopez는 AI가 감시·학습·생산 세 갈래로 이 법을 집행하게 된다고 본다. 이만큼 범위가 넓은 법은 현실적으로 AI가 아니면 감당하기 어려운 규모의 집행을 요구한다."
           },
           {
             "t": "p",
-            "x": "세부 계획은 거의 밝히지 않았고, 이 구상을 공개적으로 꺼낸 건 이번이 처음인 듯하다. 트럼프는 \"이게 속보인지는 모르겠다. 하지만 아직 우리 사람들에게도 말하지 않았다\"며 \"그들이 그렇게 한다면 할 수는 있지만, 우리는 그들에게 엄청난 세금을 매길 것\"이라고 말했다."
+            "x": "감시의 근거는 민족 단결을 해치는 콘텐츠의 삭제·신고 의무를 정한 제31조와 제52조의 “조기경보” 체계다. 2023년부터 생성형 AI 서비스 관리 잠정조치는 모델 제공자에게 이런 콘텐츠의 차단·삭제와 모델 재학습을 의무로 지웠다."
           },
           {
             "t": "p",
-            "x": "The Verge는 몇 달 뒤 민주당이 다수인 새 의회가 출범하면 이 약속을 지키기 어려울 수 있다고 짚었다. 주마다 모라토리엄과 새 규제를 도입하고 있어 기업들이 해외로 눈을 돌릴 수밖에 없을 수도 있다는 분석이다."
+            "x": "하지만 모델 여섯 개를 시험해 보니, 노골적인 프롬프트를 거부하는 비율이 소수민족 언어로 물을 때 급락했다. 카자흐어는 76.9%에서 32%로, 몽골어는 75.2%에서 25.6%로 떨어졌다. “이 법의 의무는 그것을 이행할 능력보다 먼저 도착했다.”"
+          },
+          {
+            "t": "p",
+            "x": "학습의 근거는 소수민족 언어의 디지털화를 규정한 제15조다. 생산은 이미 시작됐다. DeepSeek은 논쟁적인 민족 관련 질문에 중국어로는 답변의 49%에서 국가 입장을 내놓았지만, 영어로는 22%에 그쳤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Trump says he could tax\nAI data centers built abroad",
-          "body": "Trump floated a 'tremendous tax' on US firms building AI data centers abroad, a spoken threat, not a written policy.",
-          "mini_headline": "Trump floats offshore data-center tax",
+          "headline": "China's Ethnic Unity Law\nleans on AI enforcement",
+          "body": "China's Ethnic Unity Law leans on AI for content deletion and early warning, and extends to generative-AI providers.",
+          "mini_headline": "AI behind China's unity law",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them."
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "\"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. Should the US allow data centers to be built outside of the country, Trump warned, \"China will take them all.\""
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "Four months after China’s “Law on Promoting Ethnic Unity and Progress” took effect, Oliver Lopez argues that AI will enforce it in three ways: policing, learning, and producing. A law this wide in scope demands enforcement on a scale only AI can realistically provide."
               },
               {
                 "t": "p",
-                "x": "Trump didn't share many details behind the plan, and apparently was floating the proposal publicly for the first time. \"I don't know if that's a breaking story. But I haven't even said that to my people,\" Trump said. \"If they do that, they can, but we're going to put a tremendous tax on them.\""
+                "x": "Policing rests on Article 31’s duty to delete and report content undermining ethnic unity and on Article 52’s “early warning” systems. Since 2023, the Interim Measures for Generative AI Services have obliged model providers to stop and remove such content and retrain their models."
               },
               {
                 "t": "p",
-                "x": "The Verge notes the promise could be difficult to fulfill with a new Democratic majority Congress being sworn in within a couple of months, and that with states installing moratoriums and new restrictions, companies may be forced to look outside of the country."
+                "x": "But in tests of six models, refusal of crude prompts collapsed when asked in minority languages: 76.9% to 32% in Kazakh, 75.2% to 25.6% in Mongolian. “The obligations of this law have arrived ahead of the ability to meet them.”"
+              },
+              {
+                "t": "p",
+                "x": "Learning rests on Article 15’s digitalization of minority languages. Producing is already happening: DeepSeek answered contested ethnicity questions with the state’s position in 49% of Mandarin answers, against 22% in English."
               }
             ]
           }
         },
         "ko": {
-          "headline": "트럼프, 해외 AI\n데이터센터 과세 시사",
-          "body": "트럼프가 해외에 AI 데이터센터를 짓는 US 기업에 '엄청난 세금'을 경고했다.",
-          "mini_headline": "트럼프, 해외 데이터센터 과세 시사",
+          "headline": "중국 민족단결법은\nAI 집행에 기댄다",
+          "body": "중국 민족단결법은 삭제·경보에 AI를 쓰고 generative-AI도 규율한다.",
+          "mini_headline": "중국 민족단결법 뒤의 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "도널드 트럼프 대통령이 US 밖에 데이터센터를 짓는 기업에 \"엄청난 세금\"을 물리겠다고 했다. 미국 곳곳의 주와 도시가 데이터센터 신규 건설 신청을 제한하는 가운데 나온 발언이다."
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "트럼프는 금요일 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 정상회담을 마친 뒤 기자회견에서 \"우리 기업들이 나라 밖에 데이터센터를 짓도록 놔두지 않겠다\"고 말했다. US가 해외 데이터센터 건설을 허용하면 \"중국이 전부 가져갈 것\"이라는 경고도 덧붙였다."
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "중국 “민족단결진보촉진법”이 시행된 지 넉 달이 지났다. Oliver Lopez는 AI가 감시·학습·생산 세 갈래로 이 법을 집행하게 된다고 본다. 이만큼 범위가 넓은 법은 현실적으로 AI가 아니면 감당하기 어려운 규모의 집행을 요구한다."
               },
               {
                 "t": "p",
-                "x": "세부 계획은 거의 밝히지 않았고, 이 구상을 공개적으로 꺼낸 건 이번이 처음인 듯하다. 트럼프는 \"이게 속보인지는 모르겠다. 하지만 아직 우리 사람들에게도 말하지 않았다\"며 \"그들이 그렇게 한다면 할 수는 있지만, 우리는 그들에게 엄청난 세금을 매길 것\"이라고 말했다."
+                "x": "감시의 근거는 민족 단결을 해치는 콘텐츠의 삭제·신고 의무를 정한 제31조와 제52조의 “조기경보” 체계다. 2023년부터 생성형 AI 서비스 관리 잠정조치는 모델 제공자에게 이런 콘텐츠의 차단·삭제와 모델 재학습을 의무로 지웠다."
               },
               {
                 "t": "p",
-                "x": "The Verge는 몇 달 뒤 민주당이 다수인 새 의회가 출범하면 이 약속을 지키기 어려울 수 있다고 짚었다. 주마다 모라토리엄과 새 규제를 도입하고 있어 기업들이 해외로 눈을 돌릴 수밖에 없을 수도 있다는 분석이다."
+                "x": "하지만 모델 여섯 개를 시험해 보니, 노골적인 프롬프트를 거부하는 비율이 소수민족 언어로 물을 때 급락했다. 카자흐어는 76.9%에서 32%로, 몽골어는 75.2%에서 25.6%로 떨어졌다. “이 법의 의무는 그것을 이행할 능력보다 먼저 도착했다.”"
+              },
+              {
+                "t": "p",
+                "x": "학습의 근거는 소수민족 언어의 디지털화를 규정한 제15조다. 생산은 이미 시작됐다. DeepSeek은 논쟁적인 민족 관련 질문에 중국어로는 답변의 49%에서 국가 입장을 내놓았지만, 영어로는 22%에 그쳤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "トランプ氏、海外建設の\nAIデータセンターに課税も",
-          "body": "トランプ氏は海外にAIデータセンターを建てるUS企業に「途方もない税」を課すと口にした。",
-          "mini_headline": "トランプ氏、海外データセンター課税を示唆",
+          "headline": "中国の民族団結法\nAIによる執行に依拠",
+          "body": "中国の民族団結法は削除と早期警報をAIに頼り、generative-AI事業者にも及ぶ。",
+          "mini_headline": "中国の団結法を支えるAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ドナルド・トランプ大統領は、USの外にデータセンターを建設する企業に「途方もない税」を課すと約束した。全米の州や市が、データセンター建設の新規申請に制限をかけているさなかの発言だ。"
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "「わが国の企業が国外にデータセンターを建てることは認めない」。トランプ氏は金曜日、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領との首脳会談後の記者会見でこう述べた。USが国外でのデータセンター建設を認めれば「中国がすべて持っていく」とも警告した。"
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "中国の「民族団結進歩促進法」の施行から四か月、Oliver Lopezは、AIが監視・学習・生産の三つの方法でこの法を執行すると論じる。これほど適用範囲の広い法律には、現実的にAIにしか担えない規模の執行が必要になる。"
               },
               {
                 "t": "p",
-                "x": "トランプ氏は計画の詳細をほとんど明かさず、この案を公の場で示したのは初めてとみられる。「これが速報になるかどうかは分からない。だが、まだ側近にも言っていない」とトランプ氏は語り、「彼らがそうするならそれはできる。だが我々は彼らに途方もない税を課す」と述べた。"
+                "x": "監視の根拠は、民族団結を損なうコンテンツの削除・通報義務を定めた第31条と、第52条の「早期警報」システムだ。2023年以降、「生成AIサービス管理暫定弁法」はモデル提供者に対し、こうしたコンテンツの停止・削除とモデルの再訓練を義務づけている。"
               },
               {
                 "t": "p",
-                "x": "The Vergeは、数カ月以内に民主党が多数を占める新議会が発足するため約束の実現は難しい可能性があり、州がモラトリアムや新たな規制を導入するなかで、企業は国外に目を向けざるを得なくなるかもしれないと指摘している。"
+                "x": "しかし六つのモデルを試験したところ、露骨なプロンプトへの拒否率は少数民族の言語で尋ねると急落した。カザフ語では76.9%から32%に、モンゴル語では75.2%から25.6%に下がった。「この法律の義務は、それを果たす能力より先に到来した」"
+              },
+              {
+                "t": "p",
+                "x": "学習の根拠は、少数民族言語のデジタル化を定めた第15条だ。生産はすでに始まっている。DeepSeekは民族をめぐる論争的な質問に対し、中国語の回答の49%で国家の立場を示したが、英語では22%だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "特朗普称可能对海外\nAI数据中心征税",
-          "body": "特朗普扬言对在海外建AI数据中心的US企业征收“巨额税”，但这只是口头威胁。",
-          "mini_headline": "特朗普暗示对海外数据中心征税",
+          "headline": "中国民族团结法\n倚重AI执法",
+          "body": "中国民族团结法依靠AI删除内容和预警，并延伸至generative-AI服务提供者。",
+          "mini_headline": "中国团结法背后的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "美国总统唐纳德·特朗普承诺，对在US境外建设数据中心的企业征收“巨额税”；与此同时，全美各州和城市正在限制新的数据中心建设申请。"
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "特朗普周五在与中国国家主席习近平、俄罗斯总统弗拉基米尔·普京举行峰会后的记者会上说：“我们不会允许我们的企业在国外建数据中心。”特朗普警告，如果US允许在境外建设数据中心，“中国会把它们全部拿走”。"
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "中国《民族团结进步促进法》施行四个月后，Oliver Lopez认为，AI将以三种方式执行这部法律：监控、学习和生产。一部范围如此广泛的法律，所需的执法规模现实中只有AI能够提供。"
               },
               {
                 "t": "p",
-                "x": "特朗普没有透露该计划的更多细节，这似乎是他首次公开提出这一设想。“我不知道这算不算突发新闻。但我甚至还没跟我的人说过，”特朗普说，“如果他们那样做，他们可以，但我们会对他们征收巨额税。”"
+                "x": "监控的依据是第31条规定的删除并报告破坏民族团结内容的义务，以及第52条的“预警”系统。自2023年起，《生成式人工智能服务管理暂行办法》要求模型提供者停止并删除此类内容，并重新训练模型。"
               },
               {
                 "t": "p",
-                "x": "The Verge指出，由于民主党占多数的新一届国会将在几个月内宣誓就职，这一承诺可能难以兑现；而随着各州实施暂停令和新限制，企业可能被迫把目光投向国外。"
+                "x": "但在对六个模型的测试中，用少数民族语言提问时，对粗暴提示词的拒绝率大幅下降：哈萨克语从76.9%降至32%，蒙古语从75.2%降至25.6%。“这部法律的义务，先于履行义务的能力到来。”"
+              },
+              {
+                "t": "p",
+                "x": "学习的依据是第15条关于少数民族语言数字化的规定。生产则已在发生：在有争议的民族问题上，DeepSeek以普通话作答时有49%采用国家立场，英语作答时则为22%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trump dice que gravaría centros\nde datos de AI en el exterior",
-          "body": "Trump planteó un 'impuesto tremendo' a firmas US que levanten centros de datos de AI en el exterior, solo de palabra.",
-          "mini_headline": "Trump sugiere gravar centros de datos en el exterior",
+          "headline": "La Ley de Unidad Étnica china\nse apoya en la AI para aplicarse",
+          "body": "La Ley de Unidad Étnica china usa la AI para borrar contenidos y alertar, y alcanza a proveedores de generative-AI.",
+          "mini_headline": "La AI tras la ley de unidad china",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El presidente Donald Trump prometió aplicar un \"impuesto tremendo\" a las empresas que construyan centros de datos fuera de US, mientras estados y ciudades de todo el país imponen restricciones a las nuevas solicitudes para construirlos."
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "\"No vamos a permitir que nuestras empresas construyan centros de datos fuera de nuestro país\", dijo Trump el viernes en una rueda de prensa tras su cumbre con el presidente de China, Xi Jinping, y el presidente de Rusia, Vladimir Putin. Si US permite que se construyan centros de datos fuera del país, advirtió Trump, \"China se los llevará todos\"."
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "Cuatro meses después de la entrada en vigor de la “Ley de Promoción de la Unidad y el Progreso Étnicos” de China, Oliver Lopez sostiene que la AI la hará cumplir de tres maneras: vigilancia, aprendizaje y producción. Una ley de tanto alcance exige una aplicación a una escala que, en la práctica, solo la AI puede ofrecer."
               },
               {
                 "t": "p",
-                "x": "Trump no dio muchos detalles del plan y, al parecer, era la primera vez que planteaba la propuesta en público. \"No sé si esto es una primicia. Pero ni siquiera se lo he dicho a mi gente\", dijo Trump. \"Si lo hacen, pueden, pero les vamos a poner un impuesto tremendo\"."
+                "x": "La vigilancia se apoya en el deber del artículo 31 de eliminar y denunciar contenidos que socaven la unidad étnica y en los sistemas de “alerta temprana” del artículo 52. Desde 2023, las Medidas Provisionales para los Servicios de AI Generativa obligan a los proveedores de modelos a detener y eliminar dichos contenidos y a reentrenar sus modelos."
               },
               {
                 "t": "p",
-                "x": "The Verge señala que la promesa podría ser difícil de cumplir con un nuevo Congreso de mayoría demócrata que asumirá en un par de meses, y que, con los estados imponiendo moratorias y nuevas restricciones, las empresas podrían verse obligadas a buscar fuera del país."
+                "x": "Pero en pruebas con seis modelos, el rechazo de instrucciones burdas se desplomó al preguntar en lenguas minoritarias: del 76.9% al 32% en kazajo y del 75.2% al 25.6% en mongol. “Las obligaciones de esta ley han llegado antes que la capacidad de cumplirlas”."
+              },
+              {
+                "t": "p",
+                "x": "El aprendizaje se apoya en la digitalización de las lenguas minoritarias prevista en el artículo 15. La producción ya está ocurriendo: DeepSeek respondió a preguntas étnicas controvertidas con la postura del Estado en el 49% de las respuestas en mandarín, frente al 22% en inglés."
               }
             ]
           }
@@ -1431,121 +1431,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "트럼프, 해외 AI\n데이터센터 과세 시사",
-          "body": "트럼프가 해외에 AI 데이터센터를 짓는 US 기업에 '엄청난 세금'을 거론했다.",
-          "mini_headline": "트럼프, 해외 데이터센터 과세 시사",
+          "headline": "중국 민족단결법은\nAI 집행에 기댄다",
+          "body": "중국 민족단결법은 삭제·경보에 AI를 쓰고 generative-AI도 규율한다.",
+          "mini_headline": "중국 민족단결법 뒤의 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "도널드 트럼프 대통령은 US 밖에 데이터센터를 짓는 기업에 \"엄청난 세금\"을 물리겠다고 약속했다. 미국 곳곳의 주와 도시들이 데이터센터 신규 건설 신청을 제한하고 있는 가운데 나온 발언이다."
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "트럼프는 금요일 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 정상회담을 마친 뒤 기자회견에서 \"우리 기업들이 나라 밖에 데이터센터를 짓도록 놔두지 않겠다\"고 말했다. 트럼프는 US가 해외 데이터센터 건설을 허용하면 \"중국이 전부 가져갈 것\"이라고 경고했다."
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "중국의 “민족단결진보촉진법”이 시행된 지 넉 달이 지난 가운데, Oliver Lopez는 AI가 감시, 학습, 생산의 세 가지 방식으로 이 법을 집행할 것이라고 주장한다. 이처럼 범위가 넓은 법은 현실적으로 AI만이 감당할 수 있는 규모의 집행을 요구한다."
               },
               {
                 "t": "p",
-                "x": "트럼프는 계획의 세부 내용을 거의 밝히지 않았고, 이 구상을 공개적으로 꺼낸 것은 이번이 처음인 것으로 보인다. 트럼프는 \"이게 속보인지는 모르겠다. 하지만 아직 우리 사람들에게도 말하지 않았다\"며 \"그들이 그렇게 한다면 할 수는 있지만, 우리는 그들에게 엄청난 세금을 매길 것\"이라고 말했다."
+                "x": "감시는 민족 단결을 해치는 콘텐츠를 삭제하고 신고할 의무를 정한 제31조와 제52조의 “조기경보” 체계에 근거한다. 2023년부터 생성형 AI 서비스 관리 잠정조치는 모델 제공자에게 이런 콘텐츠를 차단·삭제하고 모델을 재학습하도록 의무화했다."
               },
               {
                 "t": "p",
-                "x": "The Verge는 몇 달 안에 민주당이 다수인 새 의회가 출범하는 만큼 이 약속을 지키기 어려울 수 있고, 주들이 모라토리엄과 새 규제를 도입하면서 기업들이 해외로 눈을 돌릴 수밖에 없을 수도 있다고 짚었다."
+                "x": "그러나 여섯 개 모델을 시험한 결과, 노골적인 프롬프트에 대한 거부율은 소수민족 언어로 물으면 급락했다. 카자흐어에서는 76.9%에서 32%로, 몽골어에서는 75.2%에서 25.6%로 떨어졌다. “이 법의 의무는 그것을 이행할 능력보다 먼저 도착했다.”"
+              },
+              {
+                "t": "p",
+                "x": "학습은 소수민족 언어의 디지털화를 규정한 제15조에 근거한다. 생산은 이미 진행 중이다. DeepSeek은 논쟁적인 민족 관련 질문에 중국어 답변의 49%에서 국가 입장을 내놓았지만, 영어 답변에서는 22%였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "トランプ氏、海外建設の\nAIデータセンターに課税も",
-          "body": "トランプ氏は海外にAIデータセンターを建てるUS企業に「途方もない税」を課すと口にした。",
-          "mini_headline": "トランプ氏、海外データセンター課税を示唆",
+          "headline": "中国の民族団結法\nAIによる執行に依拠",
+          "body": "中国の民族団結法は削除と早期警報をAIに頼り、generative-AI事業者にも及ぶ。",
+          "mini_headline": "中国の団結法を支えるAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ドナルド・トランプ大統領は、USの外にデータセンターを建設する企業に「途方もない税」を課すと約束した。全米の州や市が、データセンター建設の新規申請に制限をかけているさなかの発言だ。"
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "「わが国の企業が国外にデータセンターを建てることは認めない」。トランプ氏は金曜日、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領との首脳会談後の記者会見でこう述べた。USが国外でのデータセンター建設を認めれば「中国がすべて持っていく」とも警告した。"
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "中国の「民族団結進歩促進法」の施行から四か月、Oliver Lopezは、AIが監視・学習・生産の三つの方法でこの法を執行すると論じる。これほど適用範囲の広い法律には、現実的にAIにしか担えない規模の執行が必要になる。"
               },
               {
                 "t": "p",
-                "x": "トランプ氏は計画の詳細をほとんど明かさず、この案を公の場で示したのは初めてとみられる。「これが速報になるかどうかは分からない。だが、まだ側近にも言っていない」とトランプ氏は語り、「彼らがそうするならそれはできる。だが我々は彼らに途方もない税を課す」と述べた。"
+                "x": "監視の根拠は、民族団結を損なうコンテンツの削除・通報義務を定めた第31条と、第52条の「早期警報」システムだ。2023年以降、「生成AIサービス管理暫定弁法」はモデル提供者に対し、こうしたコンテンツの停止・削除とモデルの再訓練を義務づけている。"
               },
               {
                 "t": "p",
-                "x": "The Vergeは、数カ月以内に民主党が多数を占める新議会が発足するため約束の実現は難しい可能性があり、州がモラトリアムや新たな規制を導入するなかで、企業は国外に目を向けざるを得なくなるかもしれないと指摘している。"
+                "x": "しかし六つのモデルを試験したところ、露骨なプロンプトへの拒否率は少数民族の言語で尋ねると急落した。カザフ語では76.9%から32%に、モンゴル語では75.2%から25.6%に下がった。「この法律の義務は、それを果たす能力より先に到来した」"
+              },
+              {
+                "t": "p",
+                "x": "学習の根拠は、少数民族言語のデジタル化を定めた第15条だ。生産はすでに始まっている。DeepSeekは民族をめぐる論争的な質問に対し、中国語の回答の49%で国家の立場を示したが、英語では22%だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "特朗普称可能对海外\nAI数据中心征税",
-          "body": "特朗普扬言对在海外建AI数据中心的US企业征收“巨额税”，但这只是口头威胁。",
-          "mini_headline": "特朗普暗示对海外数据中心征税",
+          "headline": "中国民族团结法\n倚重AI执法",
+          "body": "中国民族团结法依靠AI删除内容和预警，并延伸至generative-AI服务提供者。",
+          "mini_headline": "中国团结法背后的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "美国总统唐纳德·特朗普承诺，对在US境外建设数据中心的企业征收“巨额税”；与此同时，全美各州和城市正在限制新的数据中心建设申请。"
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "特朗普周五在与中国国家主席习近平、俄罗斯总统弗拉基米尔·普京举行峰会后的记者会上说：“我们不会允许我们的企业在国外建数据中心。”特朗普警告，如果US允许在境外建设数据中心，“中国会把它们全部拿走”。"
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "中国《民族团结进步促进法》施行四个月后，Oliver Lopez认为，AI将以三种方式执行这部法律：监控、学习和生产。一部范围如此广泛的法律，所需的执法规模现实中只有AI能够提供。"
               },
               {
                 "t": "p",
-                "x": "特朗普没有透露该计划的更多细节，这似乎是他首次公开提出这一设想。“我不知道这算不算突发新闻。但我甚至还没跟我的人说过，”特朗普说，“如果他们那样做，他们可以，但我们会对他们征收巨额税。”"
+                "x": "监控的依据是第31条规定的删除并报告破坏民族团结内容的义务，以及第52条的“预警”系统。自2023年起，《生成式人工智能服务管理暂行办法》要求模型提供者停止并删除此类内容，并重新训练模型。"
               },
               {
                 "t": "p",
-                "x": "The Verge指出，由于民主党占多数的新一届国会将在几个月内宣誓就职，这一承诺可能难以兑现；而随着各州实施暂停令和新限制，企业可能被迫把目光投向国外。"
+                "x": "但在对六个模型的测试中，用少数民族语言提问时，对粗暴提示词的拒绝率大幅下降：哈萨克语从76.9%降至32%，蒙古语从75.2%降至25.6%。“这部法律的义务，先于履行义务的能力到来。”"
+              },
+              {
+                "t": "p",
+                "x": "学习的依据是第15条关于少数民族语言数字化的规定。生产则已在发生：在有争议的民族问题上，DeepSeek以普通话作答时有49%采用国家立场，英语作答时则为22%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trump dice que gravaría centros\nde datos de AI en el exterior",
-          "body": "Trump planteó un 'impuesto tremendo' a firmas US que levanten centros de datos de AI en el exterior, solo de palabra.",
-          "mini_headline": "Trump sugiere gravar centros de datos en el exterior",
+          "headline": "La Ley de Unidad Étnica china\nse apoya en la AI para aplicarse",
+          "body": "La Ley de Unidad Étnica china usa la AI para borrar contenidos y alertar, y alcanza a proveedores de generative-AI.",
+          "mini_headline": "La AI tras la ley de unidad china",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El presidente Donald Trump prometió aplicar un \"impuesto tremendo\" a las empresas que construyan centros de datos fuera de US, mientras estados y ciudades de todo el país imponen restricciones a las nuevas solicitudes para construirlos."
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
               },
               {
                 "t": "p",
-                "x": "\"No vamos a permitir que nuestras empresas construyan centros de datos fuera de nuestro país\", dijo Trump el viernes en una rueda de prensa tras su cumbre con el presidente de China, Xi Jinping, y el presidente de Rusia, Vladimir Putin. Si US permite que se construyan centros de datos fuera del país, advirtió Trump, \"China se los llevará todos\"."
-              },
-              {
-                "t": "video",
-                "yt": "VD-KP5xTESY"
+                "x": "Cuatro meses después de la entrada en vigor de la “Ley de Promoción de la Unidad y el Progreso Étnicos” de China, Oliver Lopez sostiene que la AI la hará cumplir de tres maneras: vigilancia, aprendizaje y producción. Una ley de tanto alcance exige una aplicación a una escala que, en la práctica, solo la AI puede ofrecer."
               },
               {
                 "t": "p",
-                "x": "Trump no dio muchos detalles del plan y, al parecer, era la primera vez que planteaba la propuesta en público. \"No sé si esto es una primicia. Pero ni siquiera se lo he dicho a mi gente\", dijo Trump. \"Si lo hacen, pueden, pero les vamos a poner un impuesto tremendo\"."
+                "x": "La vigilancia se apoya en el deber del artículo 31 de eliminar y denunciar contenidos que socaven la unidad étnica y en los sistemas de “alerta temprana” del artículo 52. Desde 2023, las Medidas Provisionales para los Servicios de AI Generativa obligan a los proveedores de modelos a detener y eliminar dichos contenidos y a reentrenar sus modelos."
               },
               {
                 "t": "p",
-                "x": "The Verge señala que la promesa podría ser difícil de cumplir con un nuevo Congreso de mayoría demócrata que asumirá en un par de meses, y que, con los estados imponiendo moratorias y nuevas restricciones, las empresas podrían verse obligadas a buscar fuera del país."
+                "x": "Pero en pruebas con seis modelos, el rechazo de instrucciones burdas se desplomó al preguntar en lenguas minoritarias: del 76.9% al 32% en kazajo y del 75.2% al 25.6% en mongol. “Las obligaciones de esta ley han llegado antes que la capacidad de cumplirlas”."
+              },
+              {
+                "t": "p",
+                "x": "El aprendizaje se apoya en la digitalización de las lenguas minoritarias prevista en el artículo 15. La producción ya está ocurriendo: DeepSeek respondió a preguntas étnicas controvertidas con la postura del Estado en el 49% de las respuestas en mandarín, frente al 22% en inglés."
               }
             ]
           }
