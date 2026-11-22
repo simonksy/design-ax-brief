@@ -12311,6 +12311,120 @@
           "x": "Roblox también anunció que los creadores podrán activar pronto el juego individual sin conexión, con acceso anticipado antes del lanzamiento completo a mid-2027."
         }
       ]
+    },
+    "games/wotc-anthropic-payout-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+          "cap": "Lolth's Warrior, de R.A. Salvatore (Image credit: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "Wizards of the Coast, editora de D&D y Magic: The Gathering, fue una de las demandantes en el caso de derechos de autor de $1.5 billion contra Anthropic, desarrolladora de Claude AI. El pago estándar era de $3,000 por obra incluida en la demanda, con un reparto 50/50 entre autor y editorial, según informó Wargamer. Sin embargo, Wizards entregará también su mitad del pago a los autores, principalmente escritores independientes que trabajan por contrato con la empresa, incluidos nombres destacados como R.A. Salvatore."
+        },
+        {
+          "t": "p",
+          "x": "El escritor y editor independiente James Lowder escribió en LinkedIn: \"Esto es notable y supone que cientos de miles de dólares que WotC podría haber cobrado irán a los escritores. Y Wizards lo hace en un momento en que las grandes editoriales se apresuran a quedarse con la mayor parte posible del dinero del acuerdo a costa de los autores.\" Atribuyó el mérito a los debates impulsados por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
+        },
+        {
+          "t": "p",
+          "x": "Ted Litchfield, de PC Gamer, señala que Wizards ha sufrido daños en su reputación en los últimos años por el uso de AI —arte hecho con AI en material de marketing y en un libro de consulta de D&D— y por sus relaciones laborales internas, y que la suma es calderilla para una empresa de miles de millones de dólares: \"Wizards of the Coast sin duda hizo lo correcto aquí, pero creo que fue una victoria de PR comprada a bajo precio.\""
+        }
+      ]
+    },
+    "games/activision-voicechat-npc-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Activision ha presentado una patente para entrenar NPCs AI-powered de modo que hablen igual que los jugadores. Según informó Dexerto, la patente se titula \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\" y describe el uso del audio del chat de voz para que los NPCs del juego suenen más realistas. No copiaría la voz exactamente, sino lo que se dice y cómo se reacciona. La patente no menciona explícitamente Call of Duty, pero al ser la franquicia principal de Activision, es muy probable que acabe ahí."
+        },
+        {
+          "t": "p",
+          "x": "Capturaría el audio de unos 10 segundos antes y después de un evento marcado de la partida, es decir, bajas, muertes y derrotas, para moldear cómo se comportan los NPCs en esas mismas situaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "Patente de Activision que muestra cómo se usarían los datos de voz para entrenar NPCs."
+        },
+        {
+          "t": "p",
+          "x": "La patente también menciona Discord y TeamSpeak, y sincroniza las marcas de tiempo entre aplicaciones distintas. Señala que incluiría filtros para frenar el lenguaje ofensivo, pero no menciona en ningún momento pedir permiso para usar el audio del chat de voz. Por supuesto, que Activision haya patentado esta tecnología no significa que vaya a implementarse en los juegos."
+        }
+      ]
+    },
+    "games/metahuman-markerless-mocap-insideunreal": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zd7DCFBLCcc"
+        },
+        {
+          "t": "p",
+          "x": "Un análisis a fondo de la animación de cuerpo completo con el nuevo plugin MetaHuman Animator Markerless Motion Capture, que convierte video común de un móvil o una webcam en animación para personajes MetaHuman. Michael Black, del equipo de investigación de Epic, explicará cómo funciona la tecnología, mientras Ben Kidd muestra su uso en un proyecto real, desde la captura hasta el plano final. También participa el cineasta Martin Bell, que mostrará lo que un creador independiente puede hacer con ella."
+        }
+      ]
+    },
+    "games/motokare-deathgame-fmv-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El estudio independiente chino LIUGUANG STUDIO anunció que su nuevo título en desarrollo, 「元カレ×デスゲーム」, se lanzará el 4 de diciembre de 2026 como juego gratuito."
+        },
+        {
+          "t": "video",
+          "yt": "G9s6lRSfhMg"
+        },
+        {
+          "t": "p",
+          "x": "Se trata de una aventura FMV (video de movimiento completo) que utiliza AI generativa para crear las imágenes, los personajes y la historia, y que destaca por su estética de imagen real. El jugador encarna a la extraordinaria Su Wei, que busca vengarse de sus 100 exnovios: los encierra en un lujoso crucero en alta mar y organiza un cruel juego mortal. Ese juego plantea pruebas en las que se arriesga la vida, y a través de ellas Su Wei pretende desenmascarar las mentiras de sus exnovios y saldar cuentas con las traiciones del pasado."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Aparecen pruebas como «Verdad o castigo», «El puente de cristal» y «El detector de mentiras de las profundidades». A medida que avanza el juego, las pruebas se vuelven más duras y los participantes pierden la compostura y revelan la verdadera naturaleza que ocultaban."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En China, la producción de series cortas con AI generativa se ha extendido rápidamente en los últimos años junto con el avance tecnológico, y en el primer semestre de 2026 se publicaron unas 22万 (doscientas veinte mil) series generadas con AI en Douyin (抖音), la versión china de TikTok. Este título puede considerarse parte de esa tendencia. 「元カレ×デスゲーム」 (PC) llegará a Steam el 4 de diciembre de 2026 y será gratuito."
+        }
+      ]
+    },
+    "games/epic-ue6-blueprint-ai-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+        },
+        {
+          "t": "p",
+          "x": "Marcus Wassmer afirma que UE6, incluido UE6 Early Access, no incluirá Blueprints ni el Actor Gameplay Framework; el gameplay se construirá en Verse y sobre el nuevo framework Scene Graph. En junio, Epic dijo que Blueprints y Actors coexistirían en UE6 Early Access y 6.0, pero “con los avances recientes en la capacidad de la AI, esperamos que la AI ayude enormemente a convertir proyectos de UE5 a UE6, si no que haga ese proceso totalmente automático”."
+        },
+        {
+          "t": "p",
+          "x": "Epic da dos razones. El costo de cualquier tarea con AI ha bajado 13x año tras año. Y hace dos semanas Epic experimentó con usar AI para convertir todos los Blueprints de Fortnite Battle Royale a Verse: un proyecto que se esperaba que tomara años ya tiene un prototipo funcional de unos 3 millones de líneas de código Verse tras portar más de 20,000 Blueprints."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de AI creadas para UE6 vuelven a UE5, empezando por UE 5.9 MegaJam Preview: scripting de Python ampliado, mejoras en Model Context Protocol (MCP), Web como plataforma de destino y Unreal Canvas para generar assets. “Construimos gran parte de UE 5.9 con agentes de AI, incluida la mayor parte del trabajo de la plataforma web”."
+        }
+      ]
     }
   }
 }

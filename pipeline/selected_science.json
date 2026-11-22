@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "science",
-  "picks": [
+  "items": [
     {
-      "title": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
-      "url": "https://www.nature.com/articles/d41586-026-03790-w",
-      "source": "Nature",
+      "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
+      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
+      "source": "Phys.org",
       "category": "astronomy",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Concrete citizen-science result with a caveat: an amateur's Claude Code sweep of TESS data on 120,000+ stars produced two planet candidates now on the official TESS list, while experts warn most AI-found claims go unvalidated.",
-      "published_iso": "2026-11-20T00:00:00Z",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-      "excerpt": "Amateur Pavel Rabtsevich had Claude Code sift TESS data on 120,000+ stars; it flagged two likely planets around TIC 4206066 (3- and 11-day dips) that TESS astronomers have now added to the official candidate list, while experts like UBC's Michelle Kunimoto warn many AI-found claims are not validated."
+      "rationale": "Freshest item (11-22): an AI surrogate predicts supernova gas evolution so a star-by-star Milky Way simulation spanning three supercomputers can take longer time steps and run ~20x faster.",
+      "published_iso": "2026-11-22T09:00:01-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+      "excerpt": "University of Tokyo/RIKEN (Keiya Hirashima) simulated the Milky Way star by star across three supercomputers, using an AI model to predict supernova gas evolution so the galaxy simulation takes longer time steps and runs ~20x faster (SC 2026)."
     },
     {
-      "title": "University of California, San Diego, QuEra, and Collaborators Introduce Multi-Agent LLM Compiler Qubrio for Neutral-Atom Processors",
-      "url": "https://quantumcomputingreport.com/university-of-california-quera-and-collaborators-introduce-multi-agent-llm-compiler-qubrio-for-neutral-atom-processors/",
-      "source": "Quantum Computing Report",
-      "category": "quantum",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Freshest item in the pool (11-21) with hard numbers: a multi-agent LLM compiler for neutral-atom hardware cut runtime 4.7x and raised fidelity 1.3x vs PowerMove on circuits up to 78 qubits.",
-      "published_iso": "2026-11-21T07:12:42+00:00",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png",
-      "excerpt": "UC San Diego, Rice, QuEra, RIT and UW-Madison built Qubrio, a multi-agent LLM compiler that automates qubit placement, AOD routing and scheduling for neutral-atom processors; versus PowerMove on circuits up to 78 qubits it cut runtime 4.7x and raised fidelity 1.3x on average (arXiv 2611.02269)."
-    },
-    {
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "source": "ScienceDaily (York University)",
-      "category": "cognition",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Methodological warning for neuro-AI: York's Kohitij Kar shows that vision ANNs that predict primate cortex well can still rely on processes the brain does not use, questioning them as brain models.",
-      "published_iso": "2026-11-21T10:24:00Z",
-      "og_image": null,
-      "excerpt": "York University's Kohitij Kar tested brain-predicting vision ANNs in the reverse direction and found that even models that closely predict primate visual-cortex activity can rely on internal processes the brain does not use, questioning their reliability as neuroscience models."
-    },
-    {
-      "title": "AI virtual cell technology could reveal how genetic changes and drugs alter cells",
-      "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
+      "title": "Putting Google's AI hurricane model to the test",
+      "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
       "source": "Phys.org",
-      "category": "life_science",
+      "category": "earth_science",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New virtual-cell model plus benchmark: Texas A&M's PertReason predicts perturbation effects and traces the pathway behind them, and PertReasonQA checks that LLMs get right answers for the right reasons (NeurIPS 2026).",
-      "published_iso": "2026-11-19T17:00:00-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-      "excerpt": "Texas A&M's PertReason model predicts how genetic perturbations and drugs alter cell behavior and traces the biological pathways behind the change; its PertReasonQA benchmark checks whether LLMs reach right answers with the right evidence (arXiv, NeurIPS 2026)."
+      "rationale": "Independent evaluation, not a vendor claim: across 385 tropical cyclones Google's WeatherNext Cyclone beat NOAA's model on 1-5 day intensity and matched human forecasters, but underestimated strength and gave too-narrow uncertainty.",
+      "published_iso": "2026-11-19T19:40:00-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+      "excerpt": "UAlbany study of 385 tropical cyclones (Geophysical Research Letters) finds Google's WeatherNext Cyclone beat NOAA's hurricane model on intensity at 1-5 days and matched human forecasters, but underestimated strength and gave too-narrow uncertainty ranges."
     },
     {
-      "title": "How AI can identify the magnetic structures behind high-frequency energy loss",
-      "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
+      "title": "AI guardrails falter as tampering drives repeated harassment in simulated conversations",
+      "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
       "source": "Tech Xplore",
-      "category": "materials",
+      "category": "psychology",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Behavioral-science result with hard numbers: toxic memory, planning prompts or fine-tuning pushed multi-turn harassment rates in Gemini, Llama, Qwen and DeepSeek agents as high as 97%, escalating over turns (ICWSM).",
+      "published_iso": "2026-11-20T10:20:00-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+      "excerpt": "Georgia State, Georgia Tech and UC Berkeley tested Gemini, Llama, Qwen and DeepSeek agents in multi-turn simulated chats; toxic memory, planning prompts or fine-tuning pushed harassment rates as high as 97% and hostility escalated over turns (ICWSM)."
+    },
+    {
+      "title": "Collisionality scaling of the tokamak density limit",
+      "url": "https://arxiv.org/abs/2611.21899",
+      "source": "arXiv",
+      "category": "physics",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Fusion physics primary source: ML-guided analysis of a five-machine tokamak database (C-Mod, ASDEX Upgrade, DIII-D, JET, TCV) finds a common edge-collisionality threshold for density-limit disruptions with far fewer false positives than the Greenwald limit.",
+      "published_iso": "2026-11-16T21:12:37Z",
+      "og_image": null,
+      "excerpt": "MIT PSFC-led team (Maris, Rea et al.) used machine-learning-guided analysis of a multi-machine database (C-Mod, ASDEX Upgrade, DIII-D, JET, TCV) to find a common edge-collisionality threshold for density-limit disruptions with far fewer false positives than the Greenwald limit."
+    },
+    {
+      "title": "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour",
+      "url": "https://arxiv.org/abs/2611.16667",
+      "source": "arXiv",
+      "category": "psychology",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Interpretable-AI materials result: persistent homology plus energy-landscape mapping pinpoints the domain-wall features that drive high-frequency losses in an iron-based soft magnet (NPG Asia Materials).",
-      "published_iso": "2026-11-18T10:40:01-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-      "excerpt": "Tokyo University of Science used interpretable AI (persistent homology plus energy-landscape mapping) on micromagnetic simulations of an iron-based nanocrystalline soft magnet, pinpointing domain-wall features that raise the energy barrier as frequency climbs (NPG Asia Materials)."
+      "rationale": "Controlled behavioral experiment with a sharp split between attitude and action: participants rated an LLM advisor more rational, trustworthy, convincing (and sycophantic) than a human advisor, yet incentivised donation decisions did not change.",
+      "published_iso": "2026-11-12T11:42:54Z",
+      "og_image": null,
+      "excerpt": "Maier, Lieder, Cheung et al. ran a donation-decision experiment where participants chatted with an LLM advisor, a human, or no one: LLM advisors were judged more rational, trustworthy, convincing and sycophantic, yet donations did not differ across conditions."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nature.com/articles/d41586-026-03790-w": {
-        "verdict": "new",
-        "nearest": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
-        "new_action": ""
-      },
-      "https://quantumcomputingreport.com/university-of-california-quera-and-collaborators-introduce-multi-agent-llm-compiler-qubrio-for-neutral-atom-processors/": {
-        "verdict": "new",
-        "nearest": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
-        "new_action": ""
-      },
-      "https://www.sciencedaily.com/releases/2026/11/261120075701.htm": {
-        "verdict": "new",
-        "nearest": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
-        "new_action": ""
-      },
-      "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html": {
-        "verdict": "new",
-        "nearest": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-        "new_action": ""
-      },
-      "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html": {
+      "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
+      },
+      "https://phys.org/news/2026-11-google-ai-hurricane.html": {
+        "verdict": "new",
+        "nearest": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+        "new_action": ""
+      },
+      "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html": {
+        "verdict": "new",
+        "nearest": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2611.21899": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2611.16667": {
+        "verdict": "new",
+        "nearest": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
+        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/follow-ups: both Scientific American Riemann pieces (cluster c13; 'almost certainly true' and 'dueling claims' are reactions/extra reporting on the 11-21 Riemann card, which already mentioned the verification, no new release); Singularity Hub AI-designed CRISPR rice (likely-repeat of phys.org 10-29 rice card; also barred by curator brief); IPD RFD4-Proteina and R&D World NVIDIA/Baker enzyme (follow-ups of the 10-24 RFD4 card; barred by brief for classifier risk). Skipped on other grounds: bacLIFE plant-pathogen genes (pathogen-gene framing, biosecurity-classifier risk); Chemistry World self-driving-lab chip (off-list, and research automation already ran twice on 11-21); NVIDIA Nemotron for Science (vendor release, off-list, 6 days old); BCI, interview-themes, MIT code-sharing, verification-burden essay, Medical Xpress roundup, birdsong interview, QEC analysis (weaker/deprioritized subtopics or analysis pieces); Science Advances / Nature Communications papers (no og_image, narrower). Picked items' history_match bands were all 'related' with different events (PertReason vs AlphaGenome 2; York ANN-brain test vs 11-16 brain-decoding card). Cross-section published_urls.json exact grep was not possible in this agent (no shell); the picks are pure-science stories unlikely to have run elsewhere, but the orchestrator should exact-grep the 5 URLs before roll."
+    "note": "RE-PICK: removed MIT News 'New AI copilot helps engineers design better structures' (news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113) - already published in the design section on 2026-11-14 (cross-section duplicate, earliest-wins). Replacement: arXiv 2611.16667 'People prefer AI to human advice in multi-turn conversations' - no history_match; closest science history items (11-08 Tech Xplore sycophancy study, 11-09 EurekAlert 'ChatGPT at work / boss trust', 10-30 fluent-hallucination credibility) are different experiments, so verdict new. Replacement alternatives rejected: Phys.org plastic pyrolysis (would make 3 Phys.org cards, over the 2-per-outlet cap); NMI lab-autonomy (Perspective/opinion, lab-autonomy already heavily covered 10-27/11-07/11-21); Nature Comms cryoPARES (life-science structural biology, kept clear of the protein-design classifier zone). Earlier drops stand: (1) SciAm Riemann independent-verification - likely-repeat of the 11-21 SciAm Riemann card (reaction/extra reporting, no new formal release). (2) IPD RFD4-Proteina - follow-up of 10-24 GEN Nvidia/IPD card and excluded by brief. (3) SingularityHub AI-designed CRISPR rice - likely-repeat of 10-29 phys.org rice card and excluded by brief. Diversity: Phys.org 2, arXiv 2, Tech Xplore 1 (3 outlets); categories astronomy/earth_science/psychology x2/physics; second psychology card given distinct accent #eb367f. Note: both arXiv picks have og_image null - ax-media must source images. Orchestrator should exact-grep the replacement URL in published_urls.json before roll."
   }
 }

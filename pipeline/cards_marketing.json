@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "marketing",
   "cards": [
     {
-      "id": "google-ucp-grocery-carts-gemini",
+      "id": "amazon-brandstore-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google, 장바구니를\nSearch·Gemini에",
-      "body": "US Search·Gemini 앱이 Target·Albertsons 카트를 채운다.",
-      "mini_headline": "Gemini가 장바구니를 채운다",
+      "headline": "Amazon Brand\nStore 첫 화면에 AI",
+      "body": "이제 Amazon Brand Store 새 페이지는 AI 에이전트가 먼저 연다.",
+      "mini_headline": "Amazon Brand Stores, agent-first로",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/google-puts-target-and-albertsons-grocery-carts-inside-search-and-gemini/",
+      "url": "https://ppc.land/amazon-routes-new-brand-store-pages-through-an-ai-agent-first/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-            "cap": "Google이 US 쇼핑객용 Target·Albertsons 장바구니를 Search와 Gemini 안에 들였다"
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+            "cap": "Amazon은 새 Brand Store 페이지 앞에 예시 프롬프트 6개를 띄운 AI 에이전트를 세웠다."
           },
           {
             "t": "p",
-            "x": "Google이 US 사용자에게 Search와 Gemini 앱에서 쓰는 Albertsons, Safeway, Shaw's, Target용 Connected Apps를 풀기 시작했다. 대화만으로 장보기 주문을 꾸려 결제 단계까지 넘기는 앱으로, Google의 Universal Commerce Protocol 위에서 돌아간다."
+            "x": "Amazon Store builder에서 Add page를 누르면 이제 Brand Store Builder Agent 창이 새로 열린다. 브랜드는 미리 써 둔 프롬프트 6개 중 하나를 고르거나 지시를 직접 쓰면 되고, Brand Registry 상태는 \"Approved\"여야 한다."
           },
           {
             "t": "p",
-            "x": "같은 11월 20일 게시물에는 다른 소식도 담겼다. Experian의 신용 도구가 Gemini에서 Search로 옮겨 오고, H&R Block은 Search에서 세금과 환급액을 추정해 준다. 몇 주 안에 Angi와 Thumbtack 계정도 Search에 연결할 수 있게 된다."
+            "x": "대화는 어떤 언어로 해도 되지만 Store 콘텐츠는 해당 마켓플레이스의 기본 언어로 만들어진다. 프랑스어로 대화하며 U.S. Store를 만들어도 결과물은 영어로 나온다. 에이전트가 결과물을 Stores 콘텐츠 정책에 맞춰 점검하는지는 Amazon 도움말 페이지에 나와 있지 않다."
           },
           {
             "t": "p",
-            "x": "Google이 든 예시는 AI Mode에서 만든 Target 주문으로, 품목 여덟 개에 소계는 $37.49다. 예시는 장바구니에서 끝난다. 결제, 대체 상품, 픽업 일정은 나오지 않는다."
+            "x": "에이전트를 건너뛰려는 브랜드는 \"Add page without AI Assistance\" 링크로 수동 템플릿을 쓰면 된다. 템플릿은 Marquee, Product highlight, Product grid(제품 4개에서 60개까지), Blank가 있다. 섹션은 한 페이지에 최대 20개까지 넣는다. 심사는 \"보통 24시간 안에 끝나지만\" 영업일 기준 최대 3일까지 걸리기도 한다."
           },
           {
             "t": "p",
-            "x": "Google은 상품 순위를 어떻게 매기는지, 결제를 누가 처리하는지, 이 흐름에 광고가 붙을지 밝히지 않았다. 목록에 Walmart는 없다."
+            "x": "별개로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 할인 중인 제품을 최대 30개까지 보여 주는 탭인데, 어떤 제품을 어떤 순서로 올릴지는 Amazon이 정한다. Amazon은 \"All Deals 페이지를 대신 만들고 업데이트한다\"고 설명한다. 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google puts grocery carts\ninside Search and Gemini",
-          "body": "Gemini now turns loose requests into filled Target and Albertsons carts in US Search and the Gemini app.",
-          "mini_headline": "Gemini fills grocery carts",
+          "headline": "Amazon starts new Brand Store\npages with an AI agent",
+          "body": "New Amazon Brand Store pages now begin with an AI agent offering six starter prompts and output in one language.",
+          "mini_headline": "Amazon Brand Stores go agent-first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google puts Target and Albertsons grocery carts inside Search and Gemini for US shoppers"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazon puts an AI agent with 6 starter prompts in front of new Brand Store pages."
               },
               {
                 "t": "p",
-                "x": "Google began rolling out Connected Apps for Albertsons, Safeway, Shaw's and Target in Search and the Gemini app for US users. The apps can build a grocery order from a conversation and move it to checkout, and run on Google's Universal Commerce Protocol."
+                "x": "Clicking Add page in Amazon's Store builder now opens a new window with the Brand Store Builder Agent. Brands pick from 6 prewritten prompts or write their own instructions; Brand Registry status must be \"Approved\"."
               },
               {
                 "t": "p",
-                "x": "The same November 20 post says Experian's credit tools are moving from Gemini into Search, H&R Block can estimate taxes and refunds from Search, and Angi and Thumbtack accounts can be linked in Search in the coming weeks."
+                "x": "Users can chat in any language, but Store content is generated in the marketplace's primary language — a French chat building a U.S. Store yields English. Amazon's help pages do not say whether the agent checks its output against Stores content policies."
               },
               {
                 "t": "p",
-                "x": "Google's example shows a Target order built in AI Mode with a $37.49 subtotal for eight items. It stops at the cart and does not show payment, substitutions or pickup scheduling."
+                "x": "Brands can skip the agent via an \"Add page without AI Assistance\" link and use the manual templates: Marquee, Product highlight, Product grid (4 to 60 products) and Blank. A page holds up to 20 sections. Moderation \"typically completes within 24 hours\" but can extend up to 3 business days."
               },
               {
                 "t": "p",
-                "x": "Google has not said how products are ranked, who processes payment, or whether ads will appear in these flows. Walmart is absent from the list."
+                "x": "Separately, an All Deals tab is on by default for Classic, Elegant and Impact themes: it shows up to 30 products with deals, chosen and ordered by Amazon, which \"creates and updates the All Deals page for you.\" Brands can switch it off in Store Settings or replace it with their own deals page."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 장바구니를\nSearch·Gemini에",
-          "body": "US Search·Gemini 앱이 Target·Albertsons 카트를 채운다.",
-          "mini_headline": "Gemini가 장바구니를 채운다",
+          "headline": "Amazon Brand\nStore 첫 화면에 AI",
+          "body": "이제 Amazon Brand Store 새 페이지는 AI 에이전트가 먼저 연다.",
+          "mini_headline": "Amazon Brand Stores, agent-first로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google이 US 쇼핑객용 Target·Albertsons 장바구니를 Search와 Gemini 안에 들였다"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazon은 새 Brand Store 페이지 앞에 예시 프롬프트 6개를 띄운 AI 에이전트를 세웠다."
               },
               {
                 "t": "p",
-                "x": "Google이 US 사용자에게 Search와 Gemini 앱에서 쓰는 Albertsons, Safeway, Shaw's, Target용 Connected Apps를 풀기 시작했다. 대화만으로 장보기 주문을 꾸려 결제 단계까지 넘기는 앱으로, Google의 Universal Commerce Protocol 위에서 돌아간다."
+                "x": "Amazon Store builder에서 Add page를 누르면 이제 Brand Store Builder Agent 창이 새로 열린다. 브랜드는 미리 써 둔 프롬프트 6개 중 하나를 고르거나 지시를 직접 쓰면 되고, Brand Registry 상태는 \"Approved\"여야 한다."
               },
               {
                 "t": "p",
-                "x": "같은 11월 20일 게시물에는 다른 소식도 담겼다. Experian의 신용 도구가 Gemini에서 Search로 옮겨 오고, H&R Block은 Search에서 세금과 환급액을 추정해 준다. 몇 주 안에 Angi와 Thumbtack 계정도 Search에 연결할 수 있게 된다."
+                "x": "대화는 어떤 언어로 해도 되지만 Store 콘텐츠는 해당 마켓플레이스의 기본 언어로 만들어진다. 프랑스어로 대화하며 U.S. Store를 만들어도 결과물은 영어로 나온다. 에이전트가 결과물을 Stores 콘텐츠 정책에 맞춰 점검하는지는 Amazon 도움말 페이지에 나와 있지 않다."
               },
               {
                 "t": "p",
-                "x": "Google이 든 예시는 AI Mode에서 만든 Target 주문으로, 품목 여덟 개에 소계는 $37.49다. 예시는 장바구니에서 끝난다. 결제, 대체 상품, 픽업 일정은 나오지 않는다."
+                "x": "에이전트를 건너뛰려는 브랜드는 \"Add page without AI Assistance\" 링크로 수동 템플릿을 쓰면 된다. 템플릿은 Marquee, Product highlight, Product grid(제품 4개에서 60개까지), Blank가 있다. 섹션은 한 페이지에 최대 20개까지 넣는다. 심사는 \"보통 24시간 안에 끝나지만\" 영업일 기준 최대 3일까지 걸리기도 한다."
               },
               {
                 "t": "p",
-                "x": "Google은 상품 순위를 어떻게 매기는지, 결제를 누가 처리하는지, 이 흐름에 광고가 붙을지 밝히지 않았다. 목록에 Walmart는 없다."
+                "x": "별개로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 할인 중인 제품을 최대 30개까지 보여 주는 탭인데, 어떤 제품을 어떤 순서로 올릴지는 Amazon이 정한다. Amazon은 \"All Deals 페이지를 대신 만들고 업데이트한다\"고 설명한다. 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、買い物かごを\nSearchとGeminiに",
-          "body": "US版SearchとGeminiアプリがTarget・Albertsonsのカートを埋める。",
-          "mini_headline": "Geminiがカートを満たす",
+          "headline": "Amazon Brand\nStoreの入口にAI",
+          "body": "Amazon Brand Storeの新ページは、AIエージェントで始まる。",
+          "mini_headline": "Amazon Brand Stores、agent-firstへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google、USの買い物客向けにTargetとAlbertsonsのカートをSearchとGeminiに組み込む"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazonは新しいBrand Storeページの手前に、6つのスタータープロンプトを備えたAIエージェントを置く。"
               },
               {
                 "t": "p",
-                "x": "GoogleはUSのユーザー向けに、SearchとGeminiアプリでAlbertsons、Safeway、Shaw's、TargetのConnected Appsの提供を始めた。会話から食料品の注文を組み立ててチェックアウトまで進めることができ、GoogleのUniversal Commerce Protocol上で動く。"
+                "x": "AmazonのStore builderでAdd pageをクリックすると、Brand Store Builder Agentを備えた新しいウィンドウが開くようになった。ブランドは用意された6つのプロンプトから選ぶか、独自の指示を書く。Brand Registryのステータスは「Approved」である必要がある。"
               },
               {
                 "t": "p",
-                "x": "同じ11月20日の投稿によると、Experianの信用ツールはGeminiからSearchへ移り、H&R BlockはSearch上で税額と還付額を試算できるようになる。今後数週間のうちに、AngiとThumbtackのアカウントもSearchに連携できる。"
+                "x": "ユーザーはどの言語でもチャットできるが、Storeのコンテンツはマーケットプレイスの主要言語で生成される。フランス語のチャットでU.S. Storeを作ると、出力は英語になる。Amazonのヘルプページは、エージェントが出力をStoresのコンテンツポリシーと照合しているかどうかを明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "Googleの例では、AI Modeで作ったTargetの注文が八点で小計$37.49となっている。例はカートで止まり、支払い、代替品、受け取り日時の指定は示されていない。"
+                "x": "ブランドは「Add page without AI Assistance」リンクからエージェントを省き、手動テンプレートを使うこともできる。テンプレートはMarquee、Product highlight、Product grid（4から60製品）、Blankである。1ページには最大20セクションを置ける。審査は「通常24時間以内に完了する」が、最大3営業日かかる場合もある。"
               },
               {
                 "t": "p",
-                "x": "Googleは、商品の順位付けの方法、支払いの処理者、こうした流れに広告が表示されるかどうかを明らかにしていない。リストにWalmartの名前はない。"
+                "x": "これとは別に、Classic、Elegant、ImpactのテーマではAll Dealsタブが初期設定で有効になっている。Amazonが選んで並べた最大30のセール対象製品を表示し、Amazonが「All Dealsページを作成・更新する」。ブランドはStore Settingsでオフにするか、自前のセールページに置き換えられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google把购物车放进\nSearch和Gemini里",
-          "body": "US版Search和Gemini应用可直接填好Target与Albertsons购物车。",
-          "mini_headline": "Gemini帮你填满购物车",
+          "headline": "Amazon Brand\nStore首页交给AI",
+          "body": "Amazon Brand Store新页面现在以AI智能体开场，附六个起始提示。",
+          "mini_headline": "Amazon Brand Stores转向agent-first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google为US购物者把Target和Albertsons购物车放进Search与Gemini"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazon在新的Brand Store页面前放置了一个带6个起始提示的AI智能体。"
               },
               {
                 "t": "p",
-                "x": "Google开始面向US用户，在Search和Gemini应用中推出Albertsons、Safeway、Shaw's和Target的Connected Apps。这些应用可根据对话生成生鲜杂货订单并转到结账环节，运行在Google的Universal Commerce Protocol之上。"
+                "x": "在Amazon的Store builder中点击Add page，现在会打开一个带有Brand Store Builder Agent的新窗口。品牌可从6个预设提示中选择，也可自行撰写指令；Brand Registry状态必须为“Approved”。"
               },
               {
                 "t": "p",
-                "x": "同一篇11月20日的文章称，Experian的信用工具将从Gemini移至Search，H&R Block可在Search中估算税款和退税，未来几周内Angi和Thumbtack账户也可在Search中关联。"
+                "x": "用户可以用任何语言对话，但Store内容会以该站点的主要语言生成——用法语对话搭建U.S. Store，产出的是英文。Amazon的帮助页面没有说明智能体是否会对照Stores内容政策检查其输出。"
               },
               {
                 "t": "p",
-                "x": "Google的示例显示，在AI Mode中生成的一笔Target订单包含八件商品，小计$37.49。示例止步于购物车，未展示付款、替换商品或取货时间安排。"
+                "x": "品牌可通过“Add page without AI Assistance”链接跳过智能体，改用手动模板：Marquee、Product highlight、Product grid（4至60个产品）和Blank。一个页面最多可容纳20个版块。审核“通常在24小时内完成”，但最长可能延至3个工作日。"
               },
               {
                 "t": "p",
-                "x": "Google尚未说明商品如何排序、由谁处理付款，以及这些流程中是否会出现广告。名单中没有Walmart。"
+                "x": "此外，Classic、Elegant和Impact主题默认开启All Deals标签页：它最多展示30个有优惠的产品，由Amazon挑选和排序，Amazon会“为你创建并更新All Deals页面”。品牌可在Store Settings中关闭该标签页，或替换为自己的优惠页面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lleva carritos de compra\na Search y Gemini",
-          "body": "Gemini convierte peticiones vagas en carritos de Target y Albertsons en Search y la app de Gemini en US.",
-          "mini_headline": "Gemini llena carritos de compra",
+          "headline": "Amazon abre sus nuevas páginas\nde Brand Store con un agente AI",
+          "body": "Las nuevas páginas de Amazon Brand Store empiezan con un agente de AI que ofrece seis prompts iniciales.",
+          "mini_headline": "Amazon Brand Stores, en modo agent-first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google integra carritos de Target y Albertsons en Search y Gemini para compradores de US"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazon coloca un agente de AI con 6 prompts iniciales al frente de las nuevas páginas de Brand Store."
               },
               {
                 "t": "p",
-                "x": "Google empezó a desplegar Connected Apps para Albertsons, Safeway, Shaw's y Target en Search y en la app de Gemini para usuarios de US. Las apps pueden armar un pedido de supermercado a partir de una conversación y llevarlo al pago, y funcionan sobre el Universal Commerce Protocol de Google."
+                "x": "Al hacer clic en Add page en el Store builder de Amazon, ahora se abre una nueva ventana con el Brand Store Builder Agent. Las marcas eligen entre 6 prompts predefinidos o escriben sus propias instrucciones; el estado de Brand Registry debe ser \"Approved\"."
               },
               {
                 "t": "p",
-                "x": "La misma publicación del 20 de noviembre indica que las herramientas de crédito de Experian pasan de Gemini a Search, que H&R Block puede estimar impuestos y reembolsos desde Search y que en las próximas semanas se podrán vincular cuentas de Angi y Thumbtack en Search."
+                "x": "Los usuarios pueden chatear en cualquier idioma, pero el contenido de la Store se genera en el idioma principal del marketplace: un chat en francés para crear una Store de U.S. da como resultado inglés. Las páginas de ayuda de Amazon no indican si el agente verifica su resultado frente a las políticas de contenido de Stores."
               },
               {
                 "t": "p",
-                "x": "El ejemplo de Google muestra un pedido de Target creado en AI Mode con un subtotal de $37.49 por ocho artículos. Se detiene en el carrito y no muestra el pago, las sustituciones ni la programación de la recogida."
+                "x": "Las marcas pueden omitir el agente mediante el enlace \"Add page without AI Assistance\" y usar las plantillas manuales: Marquee, Product highlight, Product grid (de 4 a 60 productos) y Blank. Una página admite hasta 20 secciones. La moderación \"normalmente se completa en 24 horas\", pero puede extenderse hasta 3 días hábiles."
               },
               {
                 "t": "p",
-                "x": "Google no ha dicho cómo se ordenan los productos, quién procesa el pago ni si aparecerán anuncios en estos flujos. Walmart no figura en la lista."
+                "x": "Por otra parte, la pestaña All Deals está activada por defecto en los temas Classic, Elegant e Impact: muestra hasta 30 productos con ofertas, elegidos y ordenados por Amazon, que \"crea y actualiza la página All Deals por usted\". Las marcas pueden desactivarla en Store Settings o reemplazarla por su propia página de ofertas."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 장바구니를\nSearch·Gemini에",
-          "body": "US Search·Gemini 앱이 Target·Albertsons 카트를 채운다.",
-          "mini_headline": "Gemini가 장바구니를 채운다",
+          "headline": "Amazon Brand\nStore 첫 화면에 AI",
+          "body": "Amazon Brand Store 새 페이지는 이제 AI 에이전트가 연다.",
+          "mini_headline": "Amazon Brand Stores, agent-first로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google이 US 쇼핑객을 위해 Target·Albertsons 장바구니를 Search와 Gemini 안에 넣었다"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazon은 새 Brand Store 페이지 앞에 예시 프롬프트 6개를 갖춘 AI 에이전트를 둔다."
               },
               {
                 "t": "p",
-                "x": "Google이 US 사용자를 대상으로 Search와 Gemini 앱에서 Albertsons, Safeway, Shaw's, Target용 Connected Apps를 배포하기 시작했다. 이 앱은 대화만으로 장보기 주문을 꾸려 결제 단계까지 넘길 수 있고, Google의 Universal Commerce Protocol 위에서 돌아간다."
+                "x": "Amazon Store builder에서 Add page를 누르면 이제 Brand Store Builder Agent가 있는 새 창이 열린다. 브랜드는 미리 작성된 프롬프트 6개 중 하나를 고르거나 직접 지시를 쓸 수 있으며, Brand Registry 상태는 \"Approved\"여야 한다."
               },
               {
                 "t": "p",
-                "x": "같은 11월 20일 게시물에 따르면 Experian의 신용 도구가 Gemini에서 Search로 옮겨 오고, H&R Block은 Search에서 세금과 환급액을 추정해 주며, 앞으로 몇 주 안에 Angi와 Thumbtack 계정도 Search에 연결할 수 있다."
+                "x": "사용자는 어떤 언어로든 대화할 수 있지만 Store 콘텐츠는 해당 마켓플레이스의 기본 언어로 생성된다. 프랑스어로 대화하며 U.S. Store를 만들면 결과물은 영어로 나온다. Amazon 도움말 페이지는 에이전트가 결과물을 Stores 콘텐츠 정책에 비추어 점검하는지 밝히지 않는다."
               },
               {
                 "t": "p",
-                "x": "Google이 든 예시는 AI Mode에서 만든 Target 주문으로, 품목 여덟 개에 소계는 $37.49다. 예시는 장바구니에서 멈추며 결제, 대체 상품, 픽업 일정은 보여 주지 않는다."
+                "x": "브랜드는 \"Add page without AI Assistance\" 링크로 에이전트를 건너뛰고 수동 템플릿을 쓸 수 있다. 템플릿은 Marquee, Product highlight, Product grid(제품 4개에서 60개까지), Blank다. 한 페이지에는 섹션을 최대 20개까지 넣을 수 있다. 심사는 \"보통 24시간 안에 끝나지만\" 영업일 기준 최대 3일까지 걸릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google은 상품 순위를 어떻게 매기는지, 결제를 누가 처리하는지, 이 흐름에 광고가 붙을지 밝히지 않았다. 목록에 Walmart는 없다."
+                "x": "이와 별도로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 이 탭은 할인 중인 제품을 최대 30개까지 보여주며, 제품 선정과 순서는 Amazon이 정한다. Amazon이 \"All Deals 페이지를 대신 만들고 업데이트한다\". 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、買い物かごを\nSearchとGeminiに",
-          "body": "US版SearchとGeminiアプリがTarget・Albertsonsのカートを埋める。",
-          "mini_headline": "Geminiがカートを満たす",
+          "headline": "Amazon Brand\nStoreの入口にAI",
+          "body": "Amazon Brand Storeの新ページは、AIエージェントで始まる。",
+          "mini_headline": "Amazon Brand Stores、agent-firstへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google、USの買い物客向けにTargetとAlbertsonsのカートをSearchとGeminiに組み込む"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazonは新しいBrand Storeページの手前に、6つのスタータープロンプトを備えたAIエージェントを置く。"
               },
               {
                 "t": "p",
-                "x": "GoogleはUSのユーザー向けに、SearchとGeminiアプリでAlbertsons、Safeway、Shaw's、TargetのConnected Appsの提供を始めた。会話から食料品の注文を組み立ててチェックアウトまで進めることができ、GoogleのUniversal Commerce Protocol上で動く。"
+                "x": "AmazonのStore builderでAdd pageをクリックすると、Brand Store Builder Agentを備えた新しいウィンドウが開くようになった。ブランドは用意された6つのプロンプトから選ぶか、独自の指示を書く。Brand Registryのステータスは「Approved」である必要がある。"
               },
               {
                 "t": "p",
-                "x": "同じ11月20日の投稿によると、Experianの信用ツールはGeminiからSearchへ移り、H&R BlockはSearch上で税額と還付額を試算できるようになる。今後数週間のうちに、AngiとThumbtackのアカウントもSearchに連携できる。"
+                "x": "ユーザーはどの言語でもチャットできるが、Storeのコンテンツはマーケットプレイスの主要言語で生成される。フランス語のチャットでU.S. Storeを作ると、出力は英語になる。Amazonのヘルプページは、エージェントが出力をStoresのコンテンツポリシーと照合しているかどうかを明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "Googleの例では、AI Modeで作ったTargetの注文が八点で小計$37.49となっている。例はカートで止まり、支払い、代替品、受け取り日時の指定は示されていない。"
+                "x": "ブランドは「Add page without AI Assistance」リンクからエージェントを省き、手動テンプレートを使うこともできる。テンプレートはMarquee、Product highlight、Product grid（4から60製品）、Blankである。1ページには最大20セクションを置ける。審査は「通常24時間以内に完了する」が、最大3営業日かかる場合もある。"
               },
               {
                 "t": "p",
-                "x": "Googleは、商品の順位付けの方法、支払いの処理者、こうした流れに広告が表示されるかどうかを明らかにしていない。リストにWalmartの名前はない。"
+                "x": "これとは別に、Classic、Elegant、ImpactのテーマではAll Dealsタブが初期設定で有効になっている。Amazonが選んで並べた最大30のセール対象製品を表示し、Amazonが「All Dealsページを作成・更新する」。ブランドはStore Settingsでオフにするか、自前のセールページに置き換えられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google把购物车放进\nSearch和Gemini里",
-          "body": "US版Search和Gemini应用可直接填好Target与Albertsons购物车。",
-          "mini_headline": "Gemini帮你填满购物车",
+          "headline": "Amazon Brand\nStore首页交给AI",
+          "body": "Amazon Brand Store新页面现在以AI智能体开场，附六个起始提示。",
+          "mini_headline": "Amazon Brand Stores转向agent-first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google为US购物者把Target和Albertsons购物车放进Search与Gemini"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazon在新的Brand Store页面前放置了一个带6个起始提示的AI智能体。"
               },
               {
                 "t": "p",
-                "x": "Google开始面向US用户，在Search和Gemini应用中推出Albertsons、Safeway、Shaw's和Target的Connected Apps。这些应用可根据对话生成生鲜杂货订单并转到结账环节，运行在Google的Universal Commerce Protocol之上。"
+                "x": "在Amazon的Store builder中点击Add page，现在会打开一个带有Brand Store Builder Agent的新窗口。品牌可从6个预设提示中选择，也可自行撰写指令；Brand Registry状态必须为“Approved”。"
               },
               {
                 "t": "p",
-                "x": "同一篇11月20日的文章称，Experian的信用工具将从Gemini移至Search，H&R Block可在Search中估算税款和退税，未来几周内Angi和Thumbtack账户也可在Search中关联。"
+                "x": "用户可以用任何语言对话，但Store内容会以该站点的主要语言生成——用法语对话搭建U.S. Store，产出的是英文。Amazon的帮助页面没有说明智能体是否会对照Stores内容政策检查其输出。"
               },
               {
                 "t": "p",
-                "x": "Google的示例显示，在AI Mode中生成的一笔Target订单包含八件商品，小计$37.49。示例止步于购物车，未展示付款、替换商品或取货时间安排。"
+                "x": "品牌可通过“Add page without AI Assistance”链接跳过智能体，改用手动模板：Marquee、Product highlight、Product grid（4至60个产品）和Blank。一个页面最多可容纳20个版块。审核“通常在24小时内完成”，但最长可能延至3个工作日。"
               },
               {
                 "t": "p",
-                "x": "Google尚未说明商品如何排序、由谁处理付款，以及这些流程中是否会出现广告。名单中没有Walmart。"
+                "x": "此外，Classic、Elegant和Impact主题默认开启All Deals标签页：它最多展示30个有优惠的产品，由Amazon挑选和排序，Amazon会“为你创建并更新All Deals页面”。品牌可在Store Settings中关闭该标签页，或替换为自己的优惠页面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lleva carritos de compra\na Search y Gemini",
-          "body": "Gemini convierte peticiones vagas en carritos de Target y Albertsons en Search y la app de Gemini en US.",
-          "mini_headline": "Gemini llena carritos de compra",
+          "headline": "Amazon abre sus nuevas páginas\nde Brand Store con un agente AI",
+          "body": "Las nuevas páginas de Amazon Brand Store empiezan con un agente de AI que ofrece seis prompts iniciales.",
+          "mini_headline": "Amazon Brand Stores, en modo agent-first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-                "cap": "Google integra carritos de Target y Albertsons en Search y Gemini para compradores de US"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+                "cap": "Amazon coloca un agente de AI con 6 prompts iniciales al frente de las nuevas páginas de Brand Store."
               },
               {
                 "t": "p",
-                "x": "Google empezó a desplegar Connected Apps para Albertsons, Safeway, Shaw's y Target en Search y en la app de Gemini para usuarios de US. Las apps pueden armar un pedido de supermercado a partir de una conversación y llevarlo al pago, y funcionan sobre el Universal Commerce Protocol de Google."
+                "x": "Al hacer clic en Add page en el Store builder de Amazon, ahora se abre una nueva ventana con el Brand Store Builder Agent. Las marcas eligen entre 6 prompts predefinidos o escriben sus propias instrucciones; el estado de Brand Registry debe ser \"Approved\"."
               },
               {
                 "t": "p",
-                "x": "La misma publicación del 20 de noviembre indica que las herramientas de crédito de Experian pasan de Gemini a Search, que H&R Block puede estimar impuestos y reembolsos desde Search y que en las próximas semanas se podrán vincular cuentas de Angi y Thumbtack en Search."
+                "x": "Los usuarios pueden chatear en cualquier idioma, pero el contenido de la Store se genera en el idioma principal del marketplace: un chat en francés para crear una Store de U.S. da como resultado inglés. Las páginas de ayuda de Amazon no indican si el agente verifica su resultado frente a las políticas de contenido de Stores."
               },
               {
                 "t": "p",
-                "x": "El ejemplo de Google muestra un pedido de Target creado en AI Mode con un subtotal de $37.49 por ocho artículos. Se detiene en el carrito y no muestra el pago, las sustituciones ni la programación de la recogida."
+                "x": "Las marcas pueden omitir el agente mediante el enlace \"Add page without AI Assistance\" y usar las plantillas manuales: Marquee, Product highlight, Product grid (de 4 a 60 productos) y Blank. Una página admite hasta 20 secciones. La moderación \"normalmente se completa en 24 horas\", pero puede extenderse hasta 3 días hábiles."
               },
               {
                 "t": "p",
-                "x": "Google no ha dicho cómo se ordenan los productos, quién procesa el pago ni si aparecerán anuncios en estos flujos. Walmart no figura en la lista."
+                "x": "Por otra parte, la pestaña All Deals está activada por defecto en los temas Classic, Elegant e Impact: muestra hasta 30 productos con ofertas, elegidos y ordenados por Amazon, que \"crea y actualiza la página All Deals por usted\". Las marcas pueden desactivarla en Store Settings o reemplazarla por su propia página de ofertas."
               }
             ]
           }
@@ -325,15 +325,15 @@
       }
     },
     {
-      "id": "verve-amazon-ai-answer-share",
+      "id": "aws-quick-meta-ads-mcp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon 검색 24%,\nAI 답변엔 11%",
-      "body": "Verve 집계에서 Amazon은 US 검색 24%, AI 답변 11%였다.",
-      "mini_headline": "AI 답변에서 밀리는 Amazon",
+      "headline": "Meta 광고, MCP로\nAWS Quick 입성",
+      "body": "AWS Quick이 Meta 광고 MCP 서버에 붙어 캠페인을 자연어로 다룬다.",
+      "mini_headline": "AWS Quick에 들어온 Meta 광고",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/amazon-draws-24-of-retailer-searches-but-11-of-ai-shopping-answers/",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,179 +341,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-            "cap": "Verve: Amazon은 소매업체 검색 24%, AI 답변 11%, Target은 5%와 8%"
+            "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
           },
           {
             "t": "p",
-            "x": "광고 기술 기업 Verve가 2026년 11월 19일 30쪽짜리 연말 시즌 보고서를 냈다. 2026년 9월 1일부터 11월 16일까지 데이터로, US 쇼핑객이 소매업체를 검색한 빈도와 AI 어시스턴트가 쇼핑 답변에서 그 업체를 언급한 빈도를 견줬다."
+            "x": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 들어왔다. Quick은 이 커넥터로 광고용 Model Context Protocol(MCP) 서버 작업에 접근한다. Meta 광고 고객은 Meta 광고 관리 네트워크에 연결된 채로 Quick 안에서 자연어로 캠페인을 만들고 관리하고 분석한다."
           },
           {
             "t": "p",
-            "x": "Amazon은 소매업체 검색의 24%를 차지하지만 AI 답변에서는 11%에 그쳐 격차가 가장 컸다. 그래도 가장 많이 언급된 소매업체는 Amazon 그대로다. Walmart는 검색 12%, AI 답변 9%다. Target은 5%와 8%로, 주요 소매업체 가운데 유일하게 검색 점유율보다 AI 언급이 잦았다. Best Buy, eBay, Etsy도 검색 점유율과 같거나 웃돌았다."
+            "x": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 묶어 대시보드, 문서, 슬라이드 덱, 자동화 워크플로까지 만든다."
+          },
+          {
+            "t": "video",
+            "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
           },
           {
             "t": "p",
-            "x": "Verve는 \"언급이 곧 추천은 아니다\"라고 짚었다. 보고서에는 어떤 AI 플랫폼을 봤는지, 표본이 얼마나 되는지, 격차가 왜 생겼는지가 빠져 있다."
+            "x": "영상에는 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 다음, Quick이 접근할 Pages, Businesses, Instagram 계정을 고르는 과정이 나온다. 한 프롬프트는 지난 캠페인 성과로 여덟 장짜리 출시 계획 슬라이드를 만들고, 또 다른 프롬프트는 두 광고 세트의 지출, 리드, 리드당 비용을 비교하는 대시보드를 짠다."
           },
           {
             "t": "p",
-            "x": "연말 쇼핑 AI 프롬프트의 42.2%는 선물 아이디어를 묻는다. AI 선물 프롬프트는 단어 수 중앙값이 24개로 검색의 9개보다 길다. 예산을 밝힌 비율도 7.2%로 검색의 0.49%를 웃돈다."
+            "x": "쓰임새는 캠페인 기획·집행과 크리에이티브 피로도 감지에서 전환 리프트 연구, 카탈로그 수정, 재고·마진에 맞춘 지출 조정까지 넓다. 캠페인 생성이나 예산 변경 같은 쓰기 작업은 실행 전에 Quick이 사용자 허가를 받는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon draws 24% of searches\nbut 11% of AI answers",
-          "body": "Verve data shows Amazon takes 24% of US retailer searches yet is named in only 11% of AI shopping answers.",
-          "mini_headline": "Amazon lags in AI answers",
+          "headline": "Meta ads arrive in AWS Quick\nvia Meta's ads MCP server",
+          "body": "AWS Quick now links to Meta's ads MCP server, so advertisers can run and analyze Meta campaigns in plain language.",
+          "mini_headline": "Meta ads land in AWS Quick",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve: Amazon holds 24% of retailer searches but 11% of AI answers, Target 5% and 8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "Ad tech company Verve released a 30-page holiday report on November 19, 2026, comparing how often US shoppers search for retailers with how often AI assistants name them in shopping answers, using data from September 1 to November 16, 2026."
+                "x": "Today, AWS Quick added a Meta ads AI connector. The connector gives Quick access to ads Model Context Protocol (MCP) server operations. Meta ads customers can use natural language to create, manage, and analyze campaigns within Quick, while staying connected to the Meta ad management network."
               },
               {
                 "t": "p",
-                "x": "Amazon holds 24% of retailer searches but 11% of AI answers, the widest gap, though it is still the most-named retailer. Walmart has 12% of searches and 9% of AI answers. Target, at 5% and 8%, is the only major retailer named more often by AI than its search share suggests; Best Buy, eBay and Etsy also match or exceed theirs."
+                "x": "Quick can also combine Meta ad management data with first- and third-party data sources to create dashboards, documents, slide decks, and automated workflows."
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verve notes that \"a mention is not a recommendation.\" The report does not name the AI platforms, give sample sizes or explain the gap."
+                "x": "The video shows how to install the connector from Customize > Connectors, sign in with Facebook, and choose which Pages, Businesses, and Instagram accounts Quick can access. One prompt turns past campaign results into an eight-slide launch-plan deck; another builds a dashboard comparing spend, leads, and cost per lead for two ad sets."
               },
               {
                 "t": "p",
-                "x": "Gift ideas make up 42.2% of holiday-shopping AI prompts. AI gift prompts run a median 24 words versus 9 for searches, and 7.2% state a budget versus 0.49% of searches."
+                "x": "Use cases range from planning and launching campaigns and flagging creative fatigue to conversion lift studies, catalog fixes and aligning spend with stock and margin. Before Quick creates a campaign, changes a budget, or runs another write action, it asks for your permission."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon 검색 24%,\nAI 답변엔 11%",
-          "body": "Verve 집계에서 Amazon은 US 검색 24%, AI 답변 11%였다.",
-          "mini_headline": "AI 답변에서 밀리는 Amazon",
+          "headline": "Meta 광고, MCP로\nAWS Quick 입성",
+          "body": "AWS Quick이 Meta 광고 MCP 서버에 붙어 캠페인을 자연어로 다룬다.",
+          "mini_headline": "AWS Quick에 들어온 Meta 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve: Amazon은 소매업체 검색 24%, AI 답변 11%, Target은 5%와 8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "광고 기술 기업 Verve가 2026년 11월 19일 30쪽짜리 연말 시즌 보고서를 냈다. 2026년 9월 1일부터 11월 16일까지 데이터로, US 쇼핑객이 소매업체를 검색한 빈도와 AI 어시스턴트가 쇼핑 답변에서 그 업체를 언급한 빈도를 견줬다."
+                "x": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 들어왔다. Quick은 이 커넥터로 광고용 Model Context Protocol(MCP) 서버 작업에 접근한다. Meta 광고 고객은 Meta 광고 관리 네트워크에 연결된 채로 Quick 안에서 자연어로 캠페인을 만들고 관리하고 분석한다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 소매업체 검색의 24%를 차지하지만 AI 답변에서는 11%에 그쳐 격차가 가장 컸다. 그래도 가장 많이 언급된 소매업체는 Amazon 그대로다. Walmart는 검색 12%, AI 답변 9%다. Target은 5%와 8%로, 주요 소매업체 가운데 유일하게 검색 점유율보다 AI 언급이 잦았다. Best Buy, eBay, Etsy도 검색 점유율과 같거나 웃돌았다."
+                "x": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 묶어 대시보드, 문서, 슬라이드 덱, 자동화 워크플로까지 만든다."
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verve는 \"언급이 곧 추천은 아니다\"라고 짚었다. 보고서에는 어떤 AI 플랫폼을 봤는지, 표본이 얼마나 되는지, 격차가 왜 생겼는지가 빠져 있다."
+                "x": "영상에는 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 다음, Quick이 접근할 Pages, Businesses, Instagram 계정을 고르는 과정이 나온다. 한 프롬프트는 지난 캠페인 성과로 여덟 장짜리 출시 계획 슬라이드를 만들고, 또 다른 프롬프트는 두 광고 세트의 지출, 리드, 리드당 비용을 비교하는 대시보드를 짠다."
               },
               {
                 "t": "p",
-                "x": "연말 쇼핑 AI 프롬프트의 42.2%는 선물 아이디어를 묻는다. AI 선물 프롬프트는 단어 수 중앙값이 24개로 검색의 9개보다 길다. 예산을 밝힌 비율도 7.2%로 검색의 0.49%를 웃돈다."
+                "x": "쓰임새는 캠페인 기획·집행과 크리에이티브 피로도 감지에서 전환 리프트 연구, 카탈로그 수정, 재고·마진에 맞춘 지출 조정까지 넓다. 캠페인 생성이나 예산 변경 같은 쓰기 작업은 실행 전에 Quick이 사용자 허가를 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon、検索24%\nAI回答では11%",
-          "body": "Verveによると、AmazonはUS小売検索の24%を占めるがAI回答は11%だ。",
-          "mini_headline": "AI回答で出遅れるAmazon",
+          "headline": "Meta広告、MCPで\nAWS Quickに参入",
+          "body": "AWS QuickがMetaの広告MCPサーバーとつながり、広告を自然言語で運用できる。",
+          "mini_headline": "Meta広告がAWS Quickに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve：Amazonは小売検索の24%、AI回答の11%。Targetは5%と8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "アドテク企業のVerveは2026年11月19日、30ページのホリデー商戦レポートを公表した。USの買い物客が小売業者を検索する頻度と、AIアシスタントがショッピングの回答でその名を挙げる頻度を、2026年9月1日から11月16日までのデータで比較している。"
+                "x": "AWS Quickは本日、Meta広告のAIコネクターを追加した。このコネクターによりQuickは広告向けModel Context Protocol（MCP）サーバーの操作にアクセスできる。Meta広告の顧客は、Metaの広告管理ネットワークとの接続を保ったまま、Quick内で自然言語を使ってキャンペーンの作成・管理・分析ができる。"
               },
               {
                 "t": "p",
-                "x": "Amazonは小売検索の24%を占める一方、AI回答では11%にとどまり、差が最も大きい。それでも最も多く名前が挙がる小売業者であることに変わりはない。Walmartは検索12%、AI回答9%だ。Targetは5%と8%で、検索シェアよりAIに名前を挙げられる頻度が高い唯一の大手小売業者である。Best Buy、eBay、Etsyも検索シェアと同等かそれを上回る。"
+                "x": "QuickはMetaの広告管理データをファーストパーティやサードパーティのデータソースと組み合わせ、ダッシュボード、文書、スライド資料、自動化ワークフローを作ることもできる。"
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verveは「言及は推奨ではない」と指摘する。レポートはAIプラットフォーム名やサンプル数を示しておらず、差が生じた理由も説明していない。"
+                "x": "動画では、Customize > Connectorsからコネクターをインストールし、Facebookでサインインして、QuickがアクセスできるPages、Businesses、Instagramアカウントを選ぶ手順を示している。あるプロンプトは過去のキャンペーン実績を八枚構成のローンチ計画スライドに変え、別のプロンプトは二つの広告セットの支出、リード、リード単価を比べるダッシュボードを作る。"
               },
               {
                 "t": "p",
-                "x": "ホリデー商戦のAIプロンプトの42.2%はギフトのアイデアに関するものだ。AIへのギフト関連プロンプトの語数は中央値24語で、検索の9語を上回る。予算を明記する割合も7.2%で、検索の0.49%より高い。"
+                "x": "用途は、キャンペーンの計画と開始、クリエイティブ疲れの検知から、コンバージョンリフト調査、カタログ修正、在庫や利益率に合わせた支出調整まで幅広い。Quickはキャンペーンの作成や予算の変更などの書き込み操作を行う前に、ユーザーの許可を求める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon占搜索24%\nAI回答仅占11%",
-          "body": "Verve数据显示，Amazon占US零售商搜索的24%，但AI购物回答中仅占11%。",
-          "mini_headline": "Amazon在AI回答中落后",
+          "headline": "Meta广告经MCP\n进入AWS Quick",
+          "body": "AWS Quick接入Meta广告MCP服务器，广告主可用自然语言运营和分析广告活动。",
+          "mini_headline": "Meta广告登陆AWS Quick",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve：Amazon占零售商搜索24%、AI回答11%，Target为5%和8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "广告技术公司Verve于2026年11月19日发布一份30页的假日季报告，利用2026年9月1日至11月16日的数据，比较US购物者搜索各零售商的频率与AI助手在购物回答中提及它们的频率。"
+                "x": "AWS Quick今天新增了Meta广告AI连接器。该连接器让Quick能够调用广告Model Context Protocol（MCP）服务器的操作。Meta广告客户可以在保持与Meta广告管理网络连接的同时，在Quick中用自然语言创建、管理和分析广告活动。"
               },
               {
                 "t": "p",
-                "x": "Amazon占零售商搜索的24%，但在AI回答中只占11%，差距最大，不过它仍是被提及最多的零售商。Walmart占搜索的12%、AI回答的9%。Target分别为5%和8%，是唯一一家被AI提及频率高于其搜索份额的大型零售商；Best Buy、eBay和Etsy也持平或超过各自的搜索份额。"
+                "x": "Quick还能将Meta广告管理数据与第一方和第三方数据源结合，生成仪表板、文档、幻灯片和自动化工作流。"
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verve指出，“提及并不等于推荐”。报告没有列出AI平台名称，也没有给出样本量或解释差距成因。"
+                "x": "视频展示了如何在Customize > Connectors中安装连接器、使用Facebook登录，并选择Quick可访问的Pages、Businesses和Instagram账户。一条提示词把过往广告活动结果变成八页的发布计划幻灯片；另一条则生成仪表板，比较两个广告组的花费、潜在客户和单个潜在客户成本。"
               },
               {
                 "t": "p",
-                "x": "在假日购物相关的AI提示中，42.2%是在寻找礼物创意。AI礼物提示的字数中位数为24个词，搜索为9个；7.2%的AI提示写明预算，搜索仅为0.49%。"
+                "x": "使用场景涵盖规划和启动广告活动、标记创意疲劳，以及转化提升研究、目录修正和按库存与利润率调整花费。在Quick创建广告活动、更改预算或执行其他写入操作之前，它会征求你的许可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon: 24% de las búsquedas\npero solo 11% de respuestas AI",
-          "body": "Según Verve, Amazon capta el 24% de las búsquedas de minoristas en US, pero solo el 11% de respuestas AI de compras.",
-          "mini_headline": "Amazon se rezaga en respuestas AI",
+          "headline": "Los anuncios de Meta llegan a\nAWS Quick con su servidor MCP",
+          "body": "AWS Quick ya se conecta al servidor MCP de anuncios de Meta, para gestionar campañas de Meta en lenguaje natural.",
+          "mini_headline": "Los anuncios de Meta llegan a AWS Quick",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve: Amazon tiene el 24% de las búsquedas de minoristas y el 11% de las respuestas AI; Target, 5% y 8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "La empresa de tecnología publicitaria Verve publicó el 19 de noviembre de 2026 un informe navideño de 30 páginas que compara la frecuencia con que los compradores de US buscan minoristas con la frecuencia con que los asistentes AI los mencionan en respuestas de compra, con datos del 1 de septiembre al 16 de noviembre de 2026."
+                "x": "AWS Quick añadió hoy un conector de AI para los anuncios de Meta. El conector da a Quick acceso a las operaciones del servidor Model Context Protocol (MCP) de anuncios. Los clientes de anuncios de Meta pueden usar lenguaje natural para crear, gestionar y analizar campañas dentro de Quick, sin dejar de estar conectados a la red de gestión de anuncios de Meta."
               },
               {
                 "t": "p",
-                "x": "Amazon concentra el 24% de las búsquedas de minoristas pero el 11% de las respuestas AI, la mayor brecha, aunque sigue siendo el minorista más mencionado. Walmart tiene el 12% de las búsquedas y el 9% de las respuestas AI. Target, con 5% y 8%, es el único gran minorista que la AI menciona más de lo que sugiere su cuota de búsquedas; Best Buy, eBay y Etsy también igualan o superan la suya."
+                "x": "Quick también puede combinar los datos de gestión de anuncios de Meta con fuentes de datos propias y de terceros para crear paneles, documentos, presentaciones y flujos de trabajo automatizados."
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verve señala que \"una mención no es una recomendación\". El informe no nombra las plataformas AI, no da tamaños de muestra ni explica la brecha."
+                "x": "El video muestra cómo instalar el conector desde Customize > Connectors, iniciar sesión con Facebook y elegir a qué Pages, Businesses y cuentas de Instagram puede acceder Quick. Un prompt convierte los resultados de campañas anteriores en una presentación de ocho diapositivas con el plan de lanzamiento; otro crea un panel que compara gasto, leads y costo por lead de dos conjuntos de anuncios."
               },
               {
                 "t": "p",
-                "x": "Las ideas de regalo representan el 42.2% de los prompts AI sobre compras navideñas. Los prompts AI de regalos tienen una mediana de 24 palabras frente a 9 en las búsquedas, y el 7.2% indica un presupuesto frente al 0.49% de las búsquedas."
+                "x": "Los casos de uso van desde planificar y lanzar campañas y detectar el desgaste creativo hasta estudios de incremento de conversiones, correcciones de catálogo y ajustar el gasto al inventario y al margen. Antes de que Quick cree una campaña, cambie un presupuesto o ejecute otra acción de escritura, pide permiso."
               }
             ]
           }
@@ -521,125 +539,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon 검색 24%,\nAI 답변엔 11%",
-          "body": "Verve 집계에서 Amazon은 US 검색 24%, AI 답변 11%였다.",
-          "mini_headline": "AI 답변에서 밀리는 Amazon",
+          "headline": "Meta 광고, MCP로\nAWS Quick 입성",
+          "body": "AWS Quick이 Meta 광고 MCP 서버와 연결돼 캠페인을 자연어로 다룬다.",
+          "mini_headline": "AWS Quick에 들어온 Meta 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve: Amazon은 소매업체 검색 24%, AI 답변 11%, Target은 5%와 8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "광고 기술 기업 Verve가 2026년 11월 19일 30쪽 분량의 연말 시즌 보고서를 냈다. US 쇼핑객이 소매업체를 검색하는 빈도와 AI 어시스턴트가 쇼핑 답변에서 그 업체를 언급하는 빈도를 2026년 9월 1일부터 11월 16일까지의 데이터로 비교했다."
+                "x": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 추가됐다. 이 커넥터로 Quick은 광고용 Model Context Protocol(MCP) 서버 작업에 접근한다. Meta 광고 고객은 Meta 광고 관리 네트워크와 연결된 상태로 Quick 안에서 자연어로 캠페인을 만들고 관리하고 분석할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 소매업체 검색의 24%를 차지하지만 AI 답변에서는 11%에 그쳐 격차가 가장 컸다. 그래도 가장 많이 언급된 소매업체는 여전히 Amazon이다. Walmart는 검색 12%, AI 답변 9%다. Target은 5%와 8%로, 주요 소매업체 가운데 유일하게 검색 점유율보다 AI 언급이 잦았다. Best Buy, eBay, Etsy도 검색 점유율과 같거나 그보다 높았다."
+                "x": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 결합해 대시보드, 문서, 슬라이드 덱, 자동화 워크플로를 만들 수도 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verve는 \"언급이 곧 추천은 아니다\"라고 짚었다. 보고서는 어떤 AI 플랫폼인지, 표본 규모가 얼마인지, 격차가 왜 생겼는지 밝히지 않았다."
+                "x": "영상은 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 뒤, Quick이 접근할 Pages, Businesses, Instagram 계정을 고르는 과정을 보여준다. 한 프롬프트는 지난 캠페인 성과를 여덟 장짜리 출시 계획 슬라이드로 바꾸고, 다른 프롬프트는 두 광고 세트의 지출, 리드, 리드당 비용을 비교하는 대시보드를 만든다."
               },
               {
                 "t": "p",
-                "x": "연말 쇼핑 관련 AI 프롬프트의 42.2%는 선물 아이디어를 묻는다. AI 선물 프롬프트의 단어 수 중앙값은 24개로 검색의 9개보다 길고, 예산을 밝힌 비율은 7.2%로 검색의 0.49%보다 높다."
+                "x": "활용 사례는 캠페인 기획과 집행, 크리에이티브 피로도 감지부터 전환 리프트 연구, 카탈로그 수정, 재고와 마진에 맞춘 지출 조정까지 다양하다. Quick은 캠페인 생성, 예산 변경 같은 쓰기 작업을 실행하기 전에 사용자 허가를 구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon、検索24%\nAI回答では11%",
-          "body": "Verveによると、AmazonはUS小売検索の24%を占めるがAI回答は11%だ。",
-          "mini_headline": "AI回答で出遅れるAmazon",
+          "headline": "Meta広告、MCPで\nAWS Quickに参入",
+          "body": "AWS QuickがMetaの広告MCPサーバーとつながり、広告を自然言語で運用できる。",
+          "mini_headline": "Meta広告がAWS Quickに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve：Amazonは小売検索の24%、AI回答の11%。Targetは5%と8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "アドテク企業のVerveは2026年11月19日、30ページのホリデー商戦レポートを公表した。USの買い物客が小売業者を検索する頻度と、AIアシスタントがショッピングの回答でその名を挙げる頻度を、2026年9月1日から11月16日までのデータで比較している。"
+                "x": "AWS Quickは本日、Meta広告のAIコネクターを追加した。このコネクターによりQuickは広告向けModel Context Protocol（MCP）サーバーの操作にアクセスできる。Meta広告の顧客は、Metaの広告管理ネットワークとの接続を保ったまま、Quick内で自然言語を使ってキャンペーンの作成・管理・分析ができる。"
               },
               {
                 "t": "p",
-                "x": "Amazonは小売検索の24%を占める一方、AI回答では11%にとどまり、差が最も大きい。それでも最も多く名前が挙がる小売業者であることに変わりはない。Walmartは検索12%、AI回答9%だ。Targetは5%と8%で、検索シェアよりAIに名前を挙げられる頻度が高い唯一の大手小売業者である。Best Buy、eBay、Etsyも検索シェアと同等かそれを上回る。"
+                "x": "QuickはMetaの広告管理データをファーストパーティやサードパーティのデータソースと組み合わせ、ダッシュボード、文書、スライド資料、自動化ワークフローを作ることもできる。"
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verveは「言及は推奨ではない」と指摘する。レポートはAIプラットフォーム名やサンプル数を示しておらず、差が生じた理由も説明していない。"
+                "x": "動画では、Customize > Connectorsからコネクターをインストールし、Facebookでサインインして、QuickがアクセスできるPages、Businesses、Instagramアカウントを選ぶ手順を示している。あるプロンプトは過去のキャンペーン実績を八枚構成のローンチ計画スライドに変え、別のプロンプトは二つの広告セットの支出、リード、リード単価を比べるダッシュボードを作る。"
               },
               {
                 "t": "p",
-                "x": "ホリデー商戦のAIプロンプトの42.2%はギフトのアイデアに関するものだ。AIへのギフト関連プロンプトの語数は中央値24語で、検索の9語を上回る。予算を明記する割合も7.2%で、検索の0.49%より高い。"
+                "x": "用途は、キャンペーンの計画と開始、クリエイティブ疲れの検知から、コンバージョンリフト調査、カタログ修正、在庫や利益率に合わせた支出調整まで幅広い。Quickはキャンペーンの作成や予算の変更などの書き込み操作を行う前に、ユーザーの許可を求める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon占搜索24%\nAI回答仅占11%",
-          "body": "Verve数据显示，Amazon占US零售商搜索的24%，但AI购物回答中仅占11%。",
-          "mini_headline": "Amazon在AI回答中落后",
+          "headline": "Meta广告经MCP\n进入AWS Quick",
+          "body": "AWS Quick接入Meta广告MCP服务器，广告主可用自然语言运营和分析广告活动。",
+          "mini_headline": "Meta广告登陆AWS Quick",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve：Amazon占零售商搜索24%、AI回答11%，Target为5%和8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "广告技术公司Verve于2026年11月19日发布一份30页的假日季报告，利用2026年9月1日至11月16日的数据，比较US购物者搜索各零售商的频率与AI助手在购物回答中提及它们的频率。"
+                "x": "AWS Quick今天新增了Meta广告AI连接器。该连接器让Quick能够调用广告Model Context Protocol（MCP）服务器的操作。Meta广告客户可以在保持与Meta广告管理网络连接的同时，在Quick中用自然语言创建、管理和分析广告活动。"
               },
               {
                 "t": "p",
-                "x": "Amazon占零售商搜索的24%，但在AI回答中只占11%，差距最大，不过它仍是被提及最多的零售商。Walmart占搜索的12%、AI回答的9%。Target分别为5%和8%，是唯一一家被AI提及频率高于其搜索份额的大型零售商；Best Buy、eBay和Etsy也持平或超过各自的搜索份额。"
+                "x": "Quick还能将Meta广告管理数据与第一方和第三方数据源结合，生成仪表板、文档、幻灯片和自动化工作流。"
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verve指出，“提及并不等于推荐”。报告没有列出AI平台名称，也没有给出样本量或解释差距成因。"
+                "x": "视频展示了如何在Customize > Connectors中安装连接器、使用Facebook登录，并选择Quick可访问的Pages、Businesses和Instagram账户。一条提示词把过往广告活动结果变成八页的发布计划幻灯片；另一条则生成仪表板，比较两个广告组的花费、潜在客户和单个潜在客户成本。"
               },
               {
                 "t": "p",
-                "x": "在假日购物相关的AI提示中，42.2%是在寻找礼物创意。AI礼物提示的字数中位数为24个词，搜索为9个；7.2%的AI提示写明预算，搜索仅为0.49%。"
+                "x": "使用场景涵盖规划和启动广告活动、标记创意疲劳，以及转化提升研究、目录修正和按库存与利润率调整花费。在Quick创建广告活动、更改预算或执行其他写入操作之前，它会征求你的许可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon: 24% de las búsquedas\npero solo 11% de respuestas AI",
-          "body": "Según Verve, Amazon capta el 24% de las búsquedas de minoristas en US, pero solo el 11% de respuestas AI de compras.",
-          "mini_headline": "Amazon se rezaga en respuestas AI",
+          "headline": "Los anuncios de Meta llegan a\nAWS Quick con su servidor MCP",
+          "body": "AWS Quick ya se conecta al servidor MCP de anuncios de Meta, para gestionar campañas de Meta en lenguaje natural.",
+          "mini_headline": "Los anuncios de Meta llegan a AWS Quick",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/verve-amazon-24-percent-retailer-searches-11-percent-ai-shopping-answers-two-mall-corridors-storefront.jpg",
-                "cap": "Verve: Amazon tiene el 24% de las búsquedas de minoristas y el 11% de las respuestas AI; Target, 5% y 8%"
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
               },
               {
                 "t": "p",
-                "x": "La empresa de tecnología publicitaria Verve publicó el 19 de noviembre de 2026 un informe navideño de 30 páginas que compara la frecuencia con que los compradores de US buscan minoristas con la frecuencia con que los asistentes AI los mencionan en respuestas de compra, con datos del 1 de septiembre al 16 de noviembre de 2026."
+                "x": "AWS Quick añadió hoy un conector de AI para los anuncios de Meta. El conector da a Quick acceso a las operaciones del servidor Model Context Protocol (MCP) de anuncios. Los clientes de anuncios de Meta pueden usar lenguaje natural para crear, gestionar y analizar campañas dentro de Quick, sin dejar de estar conectados a la red de gestión de anuncios de Meta."
               },
               {
                 "t": "p",
-                "x": "Amazon concentra el 24% de las búsquedas de minoristas pero el 11% de las respuestas AI, la mayor brecha, aunque sigue siendo el minorista más mencionado. Walmart tiene el 12% de las búsquedas y el 9% de las respuestas AI. Target, con 5% y 8%, es el único gran minorista que la AI menciona más de lo que sugiere su cuota de búsquedas; Best Buy, eBay y Etsy también igualan o superan la suya."
+                "x": "Quick también puede combinar los datos de gestión de anuncios de Meta con fuentes de datos propias y de terceros para crear paneles, documentos, presentaciones y flujos de trabajo automatizados."
+              },
+              {
+                "t": "video",
+                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
               },
               {
                 "t": "p",
-                "x": "Verve señala que \"una mención no es una recomendación\". El informe no nombra las plataformas AI, no da tamaños de muestra ni explica la brecha."
+                "x": "El video muestra cómo instalar el conector desde Customize > Connectors, iniciar sesión con Facebook y elegir a qué Pages, Businesses y cuentas de Instagram puede acceder Quick. Un prompt convierte los resultados de campañas anteriores en una presentación de ocho diapositivas con el plan de lanzamiento; otro crea un panel que compara gasto, leads y costo por lead de dos conjuntos de anuncios."
               },
               {
                 "t": "p",
-                "x": "Las ideas de regalo representan el 42.2% de los prompts AI sobre compras navideñas. Los prompts AI de regalos tienen una mediana de 24 palabras frente a 9 en las búsquedas, y el 7.2% indica un presupuesto frente al 0.49% de las búsquedas."
+                "x": "Los casos de uso van desde planificar y lanzar campañas y detectar el desgaste creativo hasta estudios de incremento de conversiones, correcciones de catálogo y ajustar el gasto al inventario y al margen. Antes de que Quick cree una campaña, cambie un presupuesto o ejecute otra acción de escritura, pide permiso."
               }
             ]
           }
@@ -647,407 +677,15 @@
       }
     },
     {
-      "id": "oliveyoung-define-omni-agentic",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "올리브영, 탐색부터\n장바구니까지 AI로",
-      "body": "올리브영이 첫 테크 콘퍼런스에서 AI가 장바구니 구성까지 돕는 쇼핑 구상을 밝혔다.",
-      "mini_headline": "올리브영 AI 쇼핑 구상",
-      "tool": "Marketing",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611198597i",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "CJ올리브영이 19일 서울 성수동에서 첫 테크 콘퍼런스 '디파인 옴니'를 열었다. 김지홍 팔란티어코리아 대표와 라잔 마니카바사감 구글 클라우드 수석아키텍트가 키노트를 맡았고 500여명이 모였다."
-          },
-          {
-            "t": "p",
-            "x": "\"상품 정보와 리뷰를 뒤지며 화면을 끝없이 스크롤하던 시대를 끝내려 합니다.\" (이진희 올리브영 플랫폼사업총괄)"
-          },
-          {
-            "t": "p",
-            "x": "김환 테크플랫폼센터장(CTO)은 당일배송 '오늘드림'을 위해 전국 1300여개 매장과 온라인몰의 재고 정합성을 맞추는 일을 핵심 경쟁력으로 키워왔다고 설명했다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "올리브영의 다음 목표는 AI가 상품 탐색부터 비교, 추천, 장바구니 구성까지 돕는 '에이전틱 커머스'다. 4700만건이 넘는 고객 리뷰와 피부 진단 데이터를 학습한 AI가 대화로 상품을 골라주게 한다는 구상이다. 피부 타입과 컬러 톤에 맞춰 상품을 추천하는 AI 에이전트는 약 100만명에게 먼저 열었고, 챗GPT나 제미나이 같은 외부 AI 플랫폼에도 상품 데이터를 연동하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "2021년 테크 전문 조직을 갖춘 이후 5년간 테크 인력은 6.8배로 늘었다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "올리브영, 탐색부터\n장바구니까지 AI로",
-          "body": "올리브영이 첫 테크 콘퍼런스에서 AI가 장바구니 구성까지 돕는 쇼핑 구상을 밝혔다.",
-          "mini_headline": "올리브영 AI 쇼핑 구상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ올리브영이 19일 서울 성수동에서 첫 테크 콘퍼런스 '디파인 옴니'를 열었다. 김지홍 팔란티어코리아 대표와 라잔 마니카바사감 구글 클라우드 수석아키텍트가 키노트를 맡았고 500여명이 모였다."
-              },
-              {
-                "t": "p",
-                "x": "\"상품 정보와 리뷰를 뒤지며 화면을 끝없이 스크롤하던 시대를 끝내려 합니다.\" (이진희 올리브영 플랫폼사업총괄)"
-              },
-              {
-                "t": "p",
-                "x": "김환 테크플랫폼센터장(CTO)은 당일배송 '오늘드림'을 위해 전국 1300여개 매장과 온라인몰의 재고 정합성을 맞추는 일을 핵심 경쟁력으로 키워왔다고 설명했다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "올리브영의 다음 목표는 AI가 상품 탐색부터 비교, 추천, 장바구니 구성까지 돕는 '에이전틱 커머스'다. 4700만건이 넘는 고객 리뷰와 피부 진단 데이터를 학습한 AI가 대화로 상품을 골라주게 한다는 구상이다. 피부 타입과 컬러 톤에 맞춰 상품을 추천하는 AI 에이전트는 약 100만명에게 먼저 열었고, 챗GPT나 제미나이 같은 외부 AI 플랫폼에도 상품 데이터를 연동하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "2021년 테크 전문 조직을 갖춘 이후 5년간 테크 인력은 6.8배로 늘었다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Olive Young brings AI\nfrom search to the cart",
-          "body": "At its first tech conference, Olive Young outlined a shopping plan in which AI helps build the cart.",
-          "mini_headline": "Olive Young's AI shopping plan",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Young held its first tech conference, 'Define Omni', in Seongsu-dong, Seoul, on the 19th. Kim Ji-hong, CEO of Palantir Korea, and Rajan Manikavasagam, chief architect at Google Cloud, gave the keynotes, and about 500 people attended."
-              },
-              {
-                "t": "p",
-                "x": "\"We want to end the era of endlessly scrolling through screens while digging through product information and reviews.\" (Lee Jin-hee, head of platform business at Olive Young)"
-              },
-              {
-                "t": "p",
-                "x": "Kim Hwan, head of the Tech Platform Center (CTO), explained that keeping inventory consistent across about 1,300 stores nationwide and the online mall for the same-day delivery service 'Oneul Dream' has been built up as a core competitive strength."
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Olive Young's next goal is 'agentic commerce', in which AI helps with everything from product discovery to comparison, recommendation and building the cart. The idea is for AI trained on more than 47 million customer reviews and skin-diagnosis data to pick products through conversation. An AI agent that recommends products by skin type and color tone has opened first to about 1 million people, and product data is also being linked to outside AI platforms such as ChatGPT and Gemini."
-              },
-              {
-                "t": "p",
-                "x": "In the 5 years since setting up a dedicated tech organization in 2021, its tech workforce has grown 6.8 times."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Olive Young、\n探索からカートまでAIで",
-          "body": "Olive Youngが初のテック会議で、AIがカート作りまで手伝う買い物構想を示した。",
-          "mini_headline": "Olive YoungのAIショッピング構想",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Youngは19日、ソウル・聖水洞で初のテックカンファレンス「Define Omni」を開いた。Palantir Koreaのキム・ジホン代表とGoogle Cloudのラジャン・マニカヴァサガム首席アーキテクトが基調講演を務め、500人余りが集まった。"
-              },
-              {
-                "t": "p",
-                "x": "「商品情報やレビューを探しながら画面を延々とスクロールする時代を終わらせたい」(Olive Young プラットフォーム事業総括 イ・ジニ氏)"
-              },
-              {
-                "t": "p",
-                "x": "テックプラットフォームセンター長(CTO)のキム・ファン氏は、当日配送「Oneul Dream」のために全国1300余りの店舗とオンラインモールの在庫整合性を合わせることを中核競争力として育ててきたと説明した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Olive Youngの次の目標は、AIが商品探索から比較、推薦、カート作りまでを手伝う「エージェンティック・コマース」だ。4700万件を超える顧客レビューと肌診断データを学習したAIが、会話を通じて商品を選ぶ構想である。肌タイプやカラートーンに合わせて商品を推薦するAIエージェントはまず約100万人に公開し、ChatGPTやGeminiといった外部AIプラットフォームとも商品データを連携している。"
-              },
-              {
-                "t": "p",
-                "x": "2021年にテック専門組織を整えてから5年間で、テック人材は6.8倍に増えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Olive Young用AI\n打通从搜索到购物车",
-          "body": "Olive Young在首届技术大会上公布了由AI协助搭配购物车的购物构想。",
-          "mini_headline": "Olive Young的AI购物构想",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Young于19日在首尔圣水洞举办首届技术大会“Define Omni”。Palantir Korea代表Kim Ji-hong与Google Cloud首席架构师Rajan Manikavasagam发表主题演讲，500余人到场。"
-              },
-              {
-                "t": "p",
-                "x": "“我们想终结翻查商品信息和评论、无休止滚动屏幕的时代。”（Olive Young平台业务总管Lee Jin-hee）"
-              },
-              {
-                "t": "p",
-                "x": "技术平台中心负责人（CTO）Kim Hwan表示，为支持当日达服务“Oneul Dream”，公司一直把全国1300余家门店与线上商城的库存一致性作为核心竞争力来打造。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Olive Young的下一个目标是“代理式商务”，即由AI协助完成从商品搜索到比较、推荐和搭配购物车的全过程。设想是让学习了4700万条以上顾客评论和皮肤诊断数据的AI，通过对话为顾客挑选商品。按肤质和色调推荐商品的AI代理已先向约100万人开放，商品数据也在与ChatGPT、Gemini等外部AI平台对接。"
-              },
-              {
-                "t": "p",
-                "x": "自2021年组建技术专门团队以来，5年间技术人员增至原来的6.8倍。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Olive Young lleva la AI\nde la búsqueda al carrito",
-          "body": "Olive Young presentó en su primera conferencia tecnológica un plan de compras donde la AI ayuda a armar el carrito.",
-          "mini_headline": "El plan de compras con AI de Olive Young",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Young celebró el día 19 en Seongsu-dong, Seúl, su primera conferencia tecnológica, 'Define Omni'. Kim Ji-hong, director de Palantir Korea, y Rajan Manikavasagam, arquitecto jefe de Google Cloud, dieron las conferencias principales ante unas 500 personas."
-              },
-              {
-                "t": "p",
-                "x": "\"Queremos acabar con la época de desplazarse sin fin por la pantalla rebuscando entre información de productos y reseñas.\" (Lee Jin-hee, responsable del negocio de plataforma de Olive Young)"
-              },
-              {
-                "t": "p",
-                "x": "Kim Hwan, director del Centro de Plataforma Tecnológica (CTO), explicó que la empresa ha convertido en una ventaja competitiva clave la coherencia del inventario entre unas 1300 tiendas en todo el país y la tienda en línea, necesaria para su servicio de entrega en el día 'Oneul Dream'."
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El siguiente objetivo de Olive Young es el 'comercio agéntico', en el que la AI ayuda desde la búsqueda de productos hasta la comparación, la recomendación y el armado del carrito. La idea es que una AI entrenada con más de 47 millones de reseñas de clientes y datos de diagnóstico de piel elija productos mediante conversación. Un agente de AI que recomienda productos según el tipo de piel y el tono de color se abrió primero a cerca de 1 millón de personas, y la empresa también conecta sus datos de productos con plataformas de AI externas como ChatGPT y Gemini."
-              },
-              {
-                "t": "p",
-                "x": "Desde que creó una organización tecnológica especializada en 2021, su plantilla tecnológica se ha multiplicado por 6.8 en 5 años."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Olive Young brings AI\nfrom search to the cart",
-          "body": "At its first tech conference, Olive Young outlined a shopping plan in which AI helps build the cart.",
-          "mini_headline": "Olive Young's AI shopping plan",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Young held its first tech conference, 'Define Omni', in Seongsu-dong, Seoul, on the 19th. Kim Ji-hong, CEO of Palantir Korea, and Rajan Manikavasagam, chief architect at Google Cloud, gave the keynotes, and about 500 people attended."
-              },
-              {
-                "t": "p",
-                "x": "\"We want to end the era of endlessly scrolling through screens while digging through product information and reviews.\" (Lee Jin-hee, head of platform business at Olive Young)"
-              },
-              {
-                "t": "p",
-                "x": "Kim Hwan, head of the Tech Platform Center (CTO), explained that keeping inventory consistent across about 1,300 stores nationwide and the online mall for the same-day delivery service 'Oneul Dream' has been built up as a core competitive strength."
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Olive Young's next goal is 'agentic commerce', in which AI helps with everything from product discovery to comparison, recommendation and building the cart. The idea is for AI trained on more than 47 million customer reviews and skin-diagnosis data to pick products through conversation. An AI agent that recommends products by skin type and color tone has opened first to about 1 million people, and product data is also being linked to outside AI platforms such as ChatGPT and Gemini."
-              },
-              {
-                "t": "p",
-                "x": "In the 5 years since setting up a dedicated tech organization in 2021, its tech workforce has grown 6.8 times."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Olive Young、\n探索からカートまでAIで",
-          "body": "Olive Youngが初のテック会議で、AIがカート作りまで手伝う買い物構想を示した。",
-          "mini_headline": "Olive YoungのAIショッピング構想",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Youngは19日、ソウル・聖水洞で初のテックカンファレンス「Define Omni」を開いた。Palantir Koreaのキム・ジホン代表とGoogle Cloudのラジャン・マニカヴァサガム首席アーキテクトが基調講演を務め、500人余りが集まった。"
-              },
-              {
-                "t": "p",
-                "x": "「商品情報やレビューを探しながら画面を延々とスクロールする時代を終わらせたい」(Olive Young プラットフォーム事業総括 イ・ジニ氏)"
-              },
-              {
-                "t": "p",
-                "x": "テックプラットフォームセンター長(CTO)のキム・ファン氏は、当日配送「Oneul Dream」のために全国1300余りの店舗とオンラインモールの在庫整合性を合わせることを中核競争力として育ててきたと説明した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Olive Youngの次の目標は、AIが商品探索から比較、推薦、カート作りまでを手伝う「エージェンティック・コマース」だ。4700万件を超える顧客レビューと肌診断データを学習したAIが、会話を通じて商品を選ぶ構想である。肌タイプやカラートーンに合わせて商品を推薦するAIエージェントはまず約100万人に公開し、ChatGPTやGeminiといった外部AIプラットフォームとも商品データを連携している。"
-              },
-              {
-                "t": "p",
-                "x": "2021年にテック専門組織を整えてから5年間で、テック人材は6.8倍に増えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Olive Young用AI\n打通从搜索到购物车",
-          "body": "Olive Young在首届技术大会上公布了由AI协助搭配购物车的购物构想。",
-          "mini_headline": "Olive Young的AI购物构想",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Young于19日在首尔圣水洞举办首届技术大会“Define Omni”。Palantir Korea代表Kim Ji-hong与Google Cloud首席架构师Rajan Manikavasagam发表主题演讲，500余人到场。"
-              },
-              {
-                "t": "p",
-                "x": "“我们想终结翻查商品信息和评论、无休止滚动屏幕的时代。”（Olive Young平台业务总管Lee Jin-hee）"
-              },
-              {
-                "t": "p",
-                "x": "技术平台中心负责人（CTO）Kim Hwan表示，为支持当日达服务“Oneul Dream”，公司一直把全国1300余家门店与线上商城的库存一致性作为核心竞争力来打造。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Olive Young的下一个目标是“代理式商务”，即由AI协助完成从商品搜索到比较、推荐和搭配购物车的全过程。设想是让学习了4700万条以上顾客评论和皮肤诊断数据的AI，通过对话为顾客挑选商品。按肤质和色调推荐商品的AI代理已先向约100万人开放，商品数据也在与ChatGPT、Gemini等外部AI平台对接。"
-              },
-              {
-                "t": "p",
-                "x": "自2021年组建技术专门团队以来，5年间技术人员增至原来的6.8倍。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Olive Young lleva la AI\nde la búsqueda al carrito",
-          "body": "Olive Young presentó en su primera conferencia tecnológica un plan de compras donde la AI ayuda a armar el carrito.",
-          "mini_headline": "El plan de compras con AI de Olive Young",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484317.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CJ Olive Young celebró el día 19 en Seongsu-dong, Seúl, su primera conferencia tecnológica, 'Define Omni'. Kim Ji-hong, director de Palantir Korea, y Rajan Manikavasagam, arquitecto jefe de Google Cloud, dieron las conferencias principales ante unas 500 personas."
-              },
-              {
-                "t": "p",
-                "x": "\"Queremos acabar con la época de desplazarse sin fin por la pantalla rebuscando entre información de productos y reseñas.\" (Lee Jin-hee, responsable del negocio de plataforma de Olive Young)"
-              },
-              {
-                "t": "p",
-                "x": "Kim Hwan, director del Centro de Plataforma Tecnológica (CTO), explicó que la empresa ha convertido en una ventaja competitiva clave la coherencia del inventario entre unas 1300 tiendas en todo el país y la tienda en línea, necesaria para su servicio de entrega en el día 'Oneul Dream'."
-              },
-              {
-                "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46484319.1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El siguiente objetivo de Olive Young es el 'comercio agéntico', en el que la AI ayuda desde la búsqueda de productos hasta la comparación, la recomendación y el armado del carrito. La idea es que una AI entrenada con más de 47 millones de reseñas de clientes y datos de diagnóstico de piel elija productos mediante conversación. Un agente de AI que recomienda productos según el tipo de piel y el tono de color se abrió primero a cerca de 1 millón de personas, y la empresa también conecta sus datos de productos con plataformas de AI externas como ChatGPT y Gemini."
-              },
-              {
-                "t": "p",
-                "x": "Desde que creó una organización tecnológica especializada en 2021, su plantilla tecnológica se ha multiplicado por 6.8 en 5 años."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "walmart-connect-agentic-ads",
+      "id": "google-aimode-multiturn-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Walmart, 에이전트\n시대 광고 해법 고심",
-      "body": "Walmart는 Q3 콜에서 Sparky 등 AI 에이전트 시대 광고를 고심했다.",
-      "mini_headline": "Walmart, 에이전트 시대 광고 고민",
+      "headline": "Google AI Mode\n광고, 후속 질문까지",
+      "body": "AI Mode 광고가 후속 질문에도 붙는데, US 광고주는 끌 수 없다.",
+      "mini_headline": "AI Mode 광고, multi-turn으로",
       "tool": "Marketing",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/google-ai-mode-ads-appear-as-deep-as-the-fourth-follow-up-question/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -1055,179 +693,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-            "cap": "Walmart 매장에 Vizio 스마트 TVs가 진열돼 있다."
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+            "cap": "Google AI Mode 광고는 후속 답변 아래에도 뜬다. 네 번째 질문까지 확인됐다"
           },
           {
             "t": "p",
-            "x": "Walmart의 U.S. 광고 매출은 10월 31일로 끝난 분기에 전년보다 37% 늘었다. Vizio와 Vibe.co 효과를 빼도 Walmart Connect는 Q3에 36% 성장했다."
+            "x": "Search Engine Roundtable의 Barry Schwartz는 2026년 11월 6일 로그아웃한 데스크톱 세션에서 Google AI Mode를 시험했다. \"which foldable phone should I get\"(어떤 폴더블폰을 사야 할까)라고 묻자 첫 답변 아래로 Motorola와 Samsung 폴더블폰 제품 카드 네 장짜리 \"Sponsored\" 유닛이 떴다."
           },
           {
             "t": "p",
-            "x": "경영진은 에이전틱 AI가 리테일 미디어에 어떤 영향을 줄지 질문을 받았다. Meta의 Muse 같은 소비자용 에이전트는 사용자 대신 할인을 찾고 상품을 비교하고 거래까지 마칠 수 있다. 광고가 흔히 맡던 중개 역할을 건너뛰는 셈이다."
+            "x": "후속 질문 \"i love iphones, does the duo need a case?\"(아이폰을 좋아하는데, duo에 케이스가 필요할까?)에는 케이스 카드 네 장으로 된 두 번째 Sponsored 유닛이 붙었다. 세 장은 Vyrloom, 한 장은 OtterBox 제품이었다. 세 번째와 네 번째 후속 질문에서도 광고는 더 나왔다고 한다. 두 유료 유닛 어디에도 Apple이나 Google 제품은 없었다."
           },
           {
             "t": "p",
-            "x": "Walmart 자체 대화형 어시스턴트 Sparky의 올해 U.S. 사용량은 129% 늘었다. Seth Dallaire 최고성장책임자(Chief Growth Officer)는 \"대화형 커머스, 그리고 사람들이 이런 에이전트에서 쿼리와 프롬프트를 만드는 방식은 우리가 과거에 봐 온 것과 상당히 다르다\"며 \"하지만 우리는 그 프롬프트에 대해, 그리고 고객에게 어떻게 응대하고 마케터와 브랜드가 고객 앞에 상품을 내보이게 할지 배우고 있다\"고 말했다."
+            "x": "Google은 10월 28일 US 대상 멀티턴 광고를 발표하면서 이 광고가 \"사용자의 후속 질문에 대한 응답에 나타난다\"고 밝혔다. Search, Shopping, Performance Max 캠페인은 자동으로 대상에 들어간다. 광고주는 AI Mode만 따로 타기팅할 수도, Search와 별개로 AI Mode에서 빠질 수도 없다."
           },
           {
             "t": "p",
-            "x": "Vibe.co는 백엔드에 에이전틱 기술을 써서 중소 광고주를 더 끌어들인다."
+            "x": "보고는 합산된다. 노출, 클릭, 전환, 비용이 일반 캠페인 보고서에 함께 잡히고, 첫 번째 턴과 다섯 번째 턴을 가르는 항목은 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Walmart weighs how ads fit\nan agent-led shopping world",
-          "body": "On its Q3 call, Walmart said shoppers prompt AI agents like Sparky differently as it weighs how ads will fit.",
-          "mini_headline": "Walmart weighs agent-era ads",
+          "headline": "Google AI Mode ads reach\ndeep into follow-up questions",
+          "body": "AI Mode ads can appear several turns into a conversation, and US advertisers can't opt out or get per-turn reports.",
+          "mini_headline": "AI Mode ads go multi-turn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Vizio smart TVs are displayed at a Walmart store."
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Google AI Mode ads appear under follow-up answers, seen as deep as the fourth question"
               },
               {
                 "t": "p",
-                "x": "Walmart's U.S. advertising revenue grew 37% year over year in the quarter ended Oct. 31. Walmart Connect was up 36% in Q3, excluding the impact of Vizio and Vibe.co."
+                "x": "Barry Schwartz of Search Engine Roundtable tested Google AI Mode on November 6, 2026, in a signed-out desktop session. He asked \"which foldable phone should I get\" and got a \"Sponsored\" unit of four product cards — Motorola and Samsung foldables — under the first answer."
               },
               {
                 "t": "p",
-                "x": "Executives were asked about the impact agentic AI could have on retail media. Consumer-facing agents like Meta's Muse can seek out deals, compare products and complete transactions on the user's behalf, which disintermediates the role ads typically play."
+                "x": "His follow-up, \"i love iphones, does the duo need a case?\", drew a second Sponsored unit of four case cards, three from Vyrloom and one OtterBox. He reported more ads on his third and fourth follow-ups. Neither paid unit carried an Apple or Google product."
               },
               {
                 "t": "p",
-                "x": "Walmart's own conversational assistant, Sparky, has seen U.S. usage grow 129% this year. \"Conversational commerce and the way that people are creating queries and prompts in these agents is quite different than what we have seen historically,\" said Chief Growth Officer Seth Dallaire. \"But we are learning about those prompts and how to serve customers and allow marketers and brands to get their products in front of customers.\""
+                "x": "Google announced multiturn ads for the US on October 28, saying they \"show up on responses to follow-up user queries.\" Search, Shopping and Performance Max campaigns are eligible automatically; advertisers cannot target AI Mode exclusively or opt out of it separately from Search."
               },
               {
                 "t": "p",
-                "x": "Vibe.co is using agentic technology on the back end to draw in more small- and medium-sized advertisers."
+                "x": "Reporting is aggregate: impressions, clicks, conversions and cost sit in standard campaign reports, and none of it distinguishes a first turn from a fifth."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Walmart, 에이전트\n시대 광고 해법 고심",
-          "body": "Walmart는 Q3 콜에서 Sparky 등 AI 에이전트 시대 광고를 고심했다.",
-          "mini_headline": "Walmart, 에이전트 시대 광고 고민",
+          "headline": "Google AI Mode\n광고, 후속 질문까지",
+          "body": "AI Mode 광고가 후속 질문에도 붙는데, US 광고주는 끌 수 없다.",
+          "mini_headline": "AI Mode 광고, multi-turn으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Walmart 매장에 Vizio 스마트 TVs가 진열돼 있다."
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Google AI Mode 광고는 후속 답변 아래에도 뜬다. 네 번째 질문까지 확인됐다"
               },
               {
                 "t": "p",
-                "x": "Walmart의 U.S. 광고 매출은 10월 31일로 끝난 분기에 전년보다 37% 늘었다. Vizio와 Vibe.co 효과를 빼도 Walmart Connect는 Q3에 36% 성장했다."
+                "x": "Search Engine Roundtable의 Barry Schwartz는 2026년 11월 6일 로그아웃한 데스크톱 세션에서 Google AI Mode를 시험했다. \"which foldable phone should I get\"(어떤 폴더블폰을 사야 할까)라고 묻자 첫 답변 아래로 Motorola와 Samsung 폴더블폰 제품 카드 네 장짜리 \"Sponsored\" 유닛이 떴다."
               },
               {
                 "t": "p",
-                "x": "경영진은 에이전틱 AI가 리테일 미디어에 어떤 영향을 줄지 질문을 받았다. Meta의 Muse 같은 소비자용 에이전트는 사용자 대신 할인을 찾고 상품을 비교하고 거래까지 마칠 수 있다. 광고가 흔히 맡던 중개 역할을 건너뛰는 셈이다."
+                "x": "후속 질문 \"i love iphones, does the duo need a case?\"(아이폰을 좋아하는데, duo에 케이스가 필요할까?)에는 케이스 카드 네 장으로 된 두 번째 Sponsored 유닛이 붙었다. 세 장은 Vyrloom, 한 장은 OtterBox 제품이었다. 세 번째와 네 번째 후속 질문에서도 광고는 더 나왔다고 한다. 두 유료 유닛 어디에도 Apple이나 Google 제품은 없었다."
               },
               {
                 "t": "p",
-                "x": "Walmart 자체 대화형 어시스턴트 Sparky의 올해 U.S. 사용량은 129% 늘었다. Seth Dallaire 최고성장책임자(Chief Growth Officer)는 \"대화형 커머스, 그리고 사람들이 이런 에이전트에서 쿼리와 프롬프트를 만드는 방식은 우리가 과거에 봐 온 것과 상당히 다르다\"며 \"하지만 우리는 그 프롬프트에 대해, 그리고 고객에게 어떻게 응대하고 마케터와 브랜드가 고객 앞에 상품을 내보이게 할지 배우고 있다\"고 말했다."
+                "x": "Google은 10월 28일 US 대상 멀티턴 광고를 발표하면서 이 광고가 \"사용자의 후속 질문에 대한 응답에 나타난다\"고 밝혔다. Search, Shopping, Performance Max 캠페인은 자동으로 대상에 들어간다. 광고주는 AI Mode만 따로 타기팅할 수도, Search와 별개로 AI Mode에서 빠질 수도 없다."
               },
               {
                 "t": "p",
-                "x": "Vibe.co는 백엔드에 에이전틱 기술을 써서 중소 광고주를 더 끌어들인다."
+                "x": "보고는 합산된다. 노출, 클릭, 전환, 비용이 일반 캠페인 보고서에 함께 잡히고, 첫 번째 턴과 다섯 번째 턴을 가르는 항목은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Walmart、\nエージェント時代の広告を探る",
-          "body": "WalmartはQ3説明会で、SparkyなどAIエージェントへの問いかけが違うと述べた。",
-          "mini_headline": "Walmart、エージェント時代の広告を模索",
+          "headline": "Google AI Mode\n広告、追加質問の奥まで",
+          "body": "AI Mode広告は会話の数ターン先にも出て、US広告主は停止もターン別報告もできない。",
+          "mini_headline": "AI Mode広告、multi-turnへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Walmartの店舗に並ぶVizioのスマートTVs。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Google AI Modeの広告は追加質問への回答の下に表示され、四問目まで確認された"
               },
               {
                 "t": "p",
-                "x": "10月31日までの四半期に、WalmartのU.S.広告収入は前年同期比37%増えた。VizioとVibe.coの影響を除くと、Walmart ConnectはQ3に36%伸びた。"
+                "x": "Search Engine RoundtableのBarry Schwartzは2026年11月6日、ログアウト状態のデスクトップでGoogle AI Modeを試した。\"which foldable phone should I get\"（どの折りたたみスマホを買うべきか）と尋ねると、最初の回答の下に、MotorolaとSamsungの折りたたみ端末を並べた商品カード四枚の「Sponsored」ユニットが表示された。"
               },
               {
                 "t": "p",
-                "x": "経営陣は、エージェント型AIがリテールメディアに与えうる影響について質問を受けた。MetaのMuseのような消費者向けエージェントは、ユーザーに代わってお得な商品を探し、商品を比較し、取引まで完了できるため、広告が通常担ってきた役割を中抜きしてしまう。"
+                "x": "続く追加質問\"i love iphones, does the duo need a case?\"（アイフォンが好きだが、duoにケースは必要か）には、ケースのカード四枚からなる二つ目のSponsoredユニットが出た。三枚はVyrloom、一枚はOtterBoxだった。三つ目と四つ目の追加質問でも広告が出たと彼は報告している。どちらの有料ユニットにもAppleやGoogleの製品はなかった。"
               },
               {
                 "t": "p",
-                "x": "Walmart独自の対話型アシスタントSparkyは、今年U.S.での利用が129%増えた。最高成長責任者(Chief Growth Officer)のSeth Dallaire氏は「対話型コマースと、人々がこうしたエージェントでクエリやプロンプトを作る方法は、これまで見てきたものとはかなり違う」と述べた。「だが私たちはそうしたプロンプトについて、また顧客にどう応え、マーケターやブランドが顧客の前に商品を届けられるようにするかについて学んでいる」"
+                "x": "Googleは10月28日にUS向けのマルチターン広告を発表し、広告は「ユーザーの追加質問への回答に表示される」と説明した。Search、Shopping、Performance Maxのキャンペーンは自動的に対象となり、広告主はAI Modeだけを狙うことも、Searchと切り離してAI Modeを除外することもできない。"
               },
               {
                 "t": "p",
-                "x": "Vibe.coはバックエンドでエージェント技術を使い、より多くの中小規模の広告主を呼び込んでいる。"
+                "x": "レポートは集計値のみだ。インプレッション、クリック、コンバージョン、費用は通常のキャンペーンレポートにまとめられ、最初のターンと五ターン目を区別するものはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart思考广告如何\n融入代理购物时代",
-          "body": "Walmart在Q3电话会上称，用户向Sparky等AI代理提问的方式已不同。",
-          "mini_headline": "Walmart思考代理时代的广告",
+          "headline": "Google AI Mode\n广告深入追问环节",
+          "body": "AI Mode广告可在对话多轮后出现，US广告主既不能退出也拿不到分轮报告。",
+          "mini_headline": "AI Mode广告走向multi-turn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Walmart门店内陈列的Vizio智能TVs。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Google AI Mode广告出现在追问的回答下方，最深在第四个问题中可见"
               },
               {
                 "t": "p",
-                "x": "截至10月31日的季度，Walmart的U.S.广告收入同比增长37%。剔除Vizio和Vibe.co的影响，Walmart Connect在Q3增长36%。"
+                "x": "Search Engine Roundtable的Barry Schwartz于2026年11月6日在未登录的桌面端会话中测试了Google AI Mode。他提问\"which foldable phone should I get\"（我该买哪款折叠屏手机），第一个回答下方出现了一个“Sponsored”单元，含四张产品卡片，均为Motorola和Samsung折叠屏手机。"
               },
               {
                 "t": "p",
-                "x": "高管们被问及代理式AI可能对零售媒体产生的影响。Meta的Muse等面向消费者的代理可以代表用户寻找优惠、比较商品并完成交易，从而绕开了广告通常扮演的中介角色。"
+                "x": "他追问\"i love iphones, does the duo need a case?\"（我喜欢苹果手机，duo需要手机壳吗？），又出现第二个Sponsored单元，含四张手机壳卡片，其中三张来自Vyrloom，一张来自OtterBox。他表示在第三和第四次追问时还出现了更多广告。两个付费单元都没有Apple或Google的产品。"
               },
               {
                 "t": "p",
-                "x": "Walmart自有的对话式助手Sparky今年在U.S.的使用量增长了129%。首席增长官（Chief Growth Officer）Seth Dallaire说：“对话式商务，以及人们在这些代理中创建查询和提示的方式，与我们过去看到的大不相同。”他还说：“但我们正在了解这些提示，学习如何服务顾客，并让营销人员和品牌把产品呈现在顾客面前。”"
+                "x": "Google于10月28日宣布在US推出多轮广告，称这些广告“出现在用户追问的回答中”。Search、Shopping和Performance Max广告系列会自动符合条件；广告主无法单独定向AI Mode，也无法脱离Search单独退出AI Mode。"
               },
               {
                 "t": "p",
-                "x": "Vibe.co正在后端使用代理技术，吸引更多中小型广告主。"
+                "x": "报告为汇总数据：展示、点击、转化和费用都在标准广告系列报告中，且都不区分第一轮和第五轮。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart estudia cómo encajar\nanuncios en compras con agentes",
-          "body": "En la llamada del Q3, Walmart dijo que la gente pide distinto a agentes AI como Sparky y estudia cómo encajar anuncios.",
-          "mini_headline": "Walmart y los anuncios en la era de agentes",
+          "headline": "Los anuncios de Google AI Mode\naparecen en preguntas sucesivas",
+          "body": "Los anuncios de AI Mode pueden aparecer tras varios turnos y en US no hay exclusión ni informes por turno.",
+          "mini_headline": "Los anuncios de AI Mode se vuelven multi-turn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Smart TVs de Vizio expuestos en una tienda de Walmart."
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Los anuncios de Google AI Mode aparecen bajo las respuestas de seguimiento, vistos hasta en la cuarta pregunta"
               },
               {
                 "t": "p",
-                "x": "Los ingresos publicitarios de Walmart en U.S. crecieron un 37% interanual en el trimestre cerrado el 31 de octubre. Walmart Connect subió un 36% en el Q3, sin contar el impacto de Vizio y Vibe.co."
+                "x": "Barry Schwartz, de Search Engine Roundtable, probó Google AI Mode el 6 de noviembre de 2026 en una sesión de escritorio sin iniciar sesión. Preguntó \"which foldable phone should I get\" y obtuvo, bajo la primera respuesta, una unidad \"Sponsored\" con cuatro tarjetas de producto: plegables de Motorola y Samsung."
               },
               {
                 "t": "p",
-                "x": "Se preguntó a los directivos por el impacto que la AI agéntica podría tener en el retail media. Agentes orientados al consumidor como Muse, de Meta, pueden buscar ofertas, comparar productos y completar transacciones en nombre del usuario, lo que deja sin intermediación el papel que suelen cumplir los anuncios."
+                "x": "Su pregunta de seguimiento, \"i love iphones, does the duo need a case?\", generó una segunda unidad Sponsored con cuatro tarjetas de fundas, tres de Vyrloom y una de OtterBox. Informó de más anuncios en su tercera y cuarta pregunta de seguimiento. Ninguna de las unidades pagadas incluía un producto de Apple o Google."
               },
               {
                 "t": "p",
-                "x": "El asistente conversacional propio de Walmart, Sparky, ha visto crecer su uso en U.S. un 129% este año. \"El comercio conversacional y la forma en que las personas crean consultas y prompts en estos agentes es bastante distinta de lo que hemos visto históricamente\", dijo el Chief Growth Officer, Seth Dallaire. \"Pero estamos aprendiendo sobre esos prompts y sobre cómo atender a los clientes y permitir que los profesionales de marketing y las marcas pongan sus productos frente a los clientes.\""
+                "x": "Google anunció los anuncios multiturno para US el 28 de octubre y dijo que \"aparecen en las respuestas a consultas de seguimiento de los usuarios\". Las campañas de Search, Shopping y Performance Max son elegibles automáticamente; los anunciantes no pueden segmentar solo AI Mode ni excluirse de él por separado de Search."
               },
               {
                 "t": "p",
-                "x": "Vibe.co usa tecnología agéntica en el back end para atraer a más anunciantes pequeños y medianos."
+                "x": "Los informes son agregados: impresiones, clics, conversiones y costo figuran en los informes estándar de campaña, y nada distingue un primer turno de un quinto."
               }
             ]
           }
@@ -1235,125 +873,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Walmart, 에이전트\n시대 광고 해법 고심",
-          "body": "Walmart는 Q3 콜에서 Sparky 등 AI 에이전트 시대 광고를 고심했다.",
-          "mini_headline": "Walmart, 에이전트 시대 광고 고민",
+          "headline": "Google AI Mode\n광고, 후속 질문까지",
+          "body": "AI Mode 광고는 후속 질문에도 붙고, US 광고주는 끌 수 없다.",
+          "mini_headline": "AI Mode 광고, multi-turn으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Walmart 매장에 Vizio 스마트 TVs가 진열돼 있다."
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Google AI Mode 광고는 후속 답변 아래에 나타나며, 네 번째 질문에서까지 확인됐다"
               },
               {
                 "t": "p",
-                "x": "10월 31일로 끝난 분기에 Walmart의 U.S. 광고 매출은 전년 대비 37% 늘었다. Vizio와 Vibe.co 효과를 빼면 Walmart Connect는 Q3에 36% 성장했다."
+                "x": "Search Engine Roundtable의 Barry Schwartz는 2026년 11월 6일 로그아웃한 데스크톱 세션에서 Google AI Mode를 시험했다. 그가 \"which foldable phone should I get\"(어떤 폴더블폰을 사야 할까)라고 묻자 첫 답변 아래에 Motorola와 Samsung 폴더블폰 제품 카드 네 장으로 된 \"Sponsored\" 유닛이 떴다."
               },
               {
                 "t": "p",
-                "x": "경영진은 에이전틱 AI가 리테일 미디어에 미칠 영향에 대한 질문을 받았다. Meta의 Muse 같은 소비자용 에이전트는 사용자를 대신해 할인을 찾고 상품을 비교하고 거래까지 마칠 수 있어, 광고가 흔히 맡던 중개 역할을 건너뛴다."
+                "x": "이어진 후속 질문 \"i love iphones, does the duo need a case?\"(아이폰을 좋아하는데, duo에 케이스가 필요할까?)에는 케이스 카드 네 장으로 된 두 번째 Sponsored 유닛이 나왔다. 세 장은 Vyrloom, 한 장은 OtterBox 제품이었다. 그는 세 번째와 네 번째 후속 질문에서도 광고가 더 나왔다고 전했다. 두 유료 유닛 모두 Apple이나 Google 제품은 없었다."
               },
               {
                 "t": "p",
-                "x": "Walmart의 자체 대화형 어시스턴트 Sparky는 올해 U.S. 사용량이 129% 늘었다. Seth Dallaire 최고성장책임자(Chief Growth Officer)는 \"대화형 커머스, 그리고 사람들이 이런 에이전트에서 쿼리와 프롬프트를 만드는 방식은 우리가 과거에 봐 온 것과 상당히 다르다\"며 \"하지만 우리는 그 프롬프트에 대해, 그리고 고객에게 어떻게 응대하고 마케터와 브랜드가 고객 앞에 상품을 내보이게 할지 배우고 있다\"고 말했다."
+                "x": "Google은 10월 28일 US 대상 멀티턴 광고를 발표하며 이 광고가 \"사용자의 후속 질문에 대한 응답에 나타난다\"고 밝혔다. Search, Shopping, Performance Max 캠페인은 자동으로 대상이 되며, 광고주는 AI Mode만 따로 타기팅하거나 Search와 별개로 AI Mode에서 빠질 수 없다."
               },
               {
                 "t": "p",
-                "x": "Vibe.co는 백엔드에서 에이전틱 기술을 활용해 더 많은 중소 광고주를 끌어들이고 있다."
+                "x": "보고는 합산 방식이다. 노출, 클릭, 전환, 비용은 일반 캠페인 보고서에 들어가며, 어느 항목도 첫 번째 턴과 다섯 번째 턴을 구분하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Walmart、\nエージェント時代の広告を探る",
-          "body": "WalmartはQ3説明会で、SparkyなどAIエージェントへの問いかけが違うと述べた。",
-          "mini_headline": "Walmart、エージェント時代の広告を模索",
+          "headline": "Google AI Mode\n広告、追加質問の奥まで",
+          "body": "AI Mode広告は会話の数ターン先にも出て、US広告主は停止もターン別報告もできない。",
+          "mini_headline": "AI Mode広告、multi-turnへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Walmartの店舗に並ぶVizioのスマートTVs。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Google AI Modeの広告は追加質問への回答の下に表示され、四問目まで確認された"
               },
               {
                 "t": "p",
-                "x": "10月31日までの四半期に、WalmartのU.S.広告収入は前年同期比37%増えた。VizioとVibe.coの影響を除くと、Walmart ConnectはQ3に36%伸びた。"
+                "x": "Search Engine RoundtableのBarry Schwartzは2026年11月6日、ログアウト状態のデスクトップでGoogle AI Modeを試した。\"which foldable phone should I get\"（どの折りたたみスマホを買うべきか）と尋ねると、最初の回答の下に、MotorolaとSamsungの折りたたみ端末を並べた商品カード四枚の「Sponsored」ユニットが表示された。"
               },
               {
                 "t": "p",
-                "x": "経営陣は、エージェント型AIがリテールメディアに与えうる影響について質問を受けた。MetaのMuseのような消費者向けエージェントは、ユーザーに代わってお得な商品を探し、商品を比較し、取引まで完了できるため、広告が通常担ってきた役割を中抜きしてしまう。"
+                "x": "続く追加質問\"i love iphones, does the duo need a case?\"（アイフォンが好きだが、duoにケースは必要か）には、ケースのカード四枚からなる二つ目のSponsoredユニットが出た。三枚はVyrloom、一枚はOtterBoxだった。三つ目と四つ目の追加質問でも広告が出たと彼は報告している。どちらの有料ユニットにもAppleやGoogleの製品はなかった。"
               },
               {
                 "t": "p",
-                "x": "Walmart独自の対話型アシスタントSparkyは、今年U.S.での利用が129%増えた。最高成長責任者(Chief Growth Officer)のSeth Dallaire氏は「対話型コマースと、人々がこうしたエージェントでクエリやプロンプトを作る方法は、これまで見てきたものとはかなり違う」と述べた。「だが私たちはそうしたプロンプトについて、また顧客にどう応え、マーケターやブランドが顧客の前に商品を届けられるようにするかについて学んでいる」"
+                "x": "Googleは10月28日にUS向けのマルチターン広告を発表し、広告は「ユーザーの追加質問への回答に表示される」と説明した。Search、Shopping、Performance Maxのキャンペーンは自動的に対象となり、広告主はAI Modeだけを狙うことも、Searchと切り離してAI Modeを除外することもできない。"
               },
               {
                 "t": "p",
-                "x": "Vibe.coはバックエンドでエージェント技術を使い、より多くの中小規模の広告主を呼び込んでいる。"
+                "x": "レポートは集計値のみだ。インプレッション、クリック、コンバージョン、費用は通常のキャンペーンレポートにまとめられ、最初のターンと五ターン目を区別するものはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart思考广告如何\n融入代理购物时代",
-          "body": "Walmart在Q3电话会上称，用户向Sparky等AI代理提问的方式已不同。",
-          "mini_headline": "Walmart思考代理时代的广告",
+          "headline": "Google AI Mode\n广告深入追问环节",
+          "body": "AI Mode广告可在对话多轮后出现，US广告主既不能退出也拿不到分轮报告。",
+          "mini_headline": "AI Mode广告走向multi-turn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Walmart门店内陈列的Vizio智能TVs。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Google AI Mode广告出现在追问的回答下方，最深在第四个问题中可见"
               },
               {
                 "t": "p",
-                "x": "截至10月31日的季度，Walmart的U.S.广告收入同比增长37%。剔除Vizio和Vibe.co的影响，Walmart Connect在Q3增长36%。"
+                "x": "Search Engine Roundtable的Barry Schwartz于2026年11月6日在未登录的桌面端会话中测试了Google AI Mode。他提问\"which foldable phone should I get\"（我该买哪款折叠屏手机），第一个回答下方出现了一个“Sponsored”单元，含四张产品卡片，均为Motorola和Samsung折叠屏手机。"
               },
               {
                 "t": "p",
-                "x": "高管们被问及代理式AI可能对零售媒体产生的影响。Meta的Muse等面向消费者的代理可以代表用户寻找优惠、比较商品并完成交易，从而绕开了广告通常扮演的中介角色。"
+                "x": "他追问\"i love iphones, does the duo need a case?\"（我喜欢苹果手机，duo需要手机壳吗？），又出现第二个Sponsored单元，含四张手机壳卡片，其中三张来自Vyrloom，一张来自OtterBox。他表示在第三和第四次追问时还出现了更多广告。两个付费单元都没有Apple或Google的产品。"
               },
               {
                 "t": "p",
-                "x": "Walmart自有的对话式助手Sparky今年在U.S.的使用量增长了129%。首席增长官（Chief Growth Officer）Seth Dallaire说：“对话式商务，以及人们在这些代理中创建查询和提示的方式，与我们过去看到的大不相同。”他还说：“但我们正在了解这些提示，学习如何服务顾客，并让营销人员和品牌把产品呈现在顾客面前。”"
+                "x": "Google于10月28日宣布在US推出多轮广告，称这些广告“出现在用户追问的回答中”。Search、Shopping和Performance Max广告系列会自动符合条件；广告主无法单独定向AI Mode，也无法脱离Search单独退出AI Mode。"
               },
               {
                 "t": "p",
-                "x": "Vibe.co正在后端使用代理技术，吸引更多中小型广告主。"
+                "x": "报告为汇总数据：展示、点击、转化和费用都在标准广告系列报告中，且都不区分第一轮和第五轮。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart estudia cómo encajar\nanuncios en compras con agentes",
-          "body": "En la llamada del Q3, Walmart dijo que la gente pide distinto a agentes AI como Sparky y estudia cómo encajar anuncios.",
-          "mini_headline": "Walmart y los anuncios en la era de agentes",
+          "headline": "Los anuncios de Google AI Mode\naparecen en preguntas sucesivas",
+          "body": "Los anuncios de AI Mode pueden aparecer tras varios turnos y en US no hay exclusión ni informes por turno.",
+          "mini_headline": "Los anuncios de AI Mode se vuelven multi-turn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/4JRoEMW_4COC8RVVRC1YmTSOL4XTzqN2wM_MOCuTBfI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5NDE1Njg1LmpwZw==.webp",
-                "cap": "Smart TVs de Vizio expuestos en una tienda de Walmart."
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+                "cap": "Los anuncios de Google AI Mode aparecen bajo las respuestas de seguimiento, vistos hasta en la cuarta pregunta"
               },
               {
                 "t": "p",
-                "x": "Los ingresos publicitarios de Walmart en U.S. crecieron un 37% interanual en el trimestre cerrado el 31 de octubre. Walmart Connect subió un 36% en el Q3, sin contar el impacto de Vizio y Vibe.co."
+                "x": "Barry Schwartz, de Search Engine Roundtable, probó Google AI Mode el 6 de noviembre de 2026 en una sesión de escritorio sin iniciar sesión. Preguntó \"which foldable phone should I get\" y obtuvo, bajo la primera respuesta, una unidad \"Sponsored\" con cuatro tarjetas de producto: plegables de Motorola y Samsung."
               },
               {
                 "t": "p",
-                "x": "Se preguntó a los directivos por el impacto que la AI agéntica podría tener en el retail media. Agentes orientados al consumidor como Muse, de Meta, pueden buscar ofertas, comparar productos y completar transacciones en nombre del usuario, lo que deja sin intermediación el papel que suelen cumplir los anuncios."
+                "x": "Su pregunta de seguimiento, \"i love iphones, does the duo need a case?\", generó una segunda unidad Sponsored con cuatro tarjetas de fundas, tres de Vyrloom y una de OtterBox. Informó de más anuncios en su tercera y cuarta pregunta de seguimiento. Ninguna de las unidades pagadas incluía un producto de Apple o Google."
               },
               {
                 "t": "p",
-                "x": "El asistente conversacional propio de Walmart, Sparky, ha visto crecer su uso en U.S. un 129% este año. \"El comercio conversacional y la forma en que las personas crean consultas y prompts en estos agentes es bastante distinta de lo que hemos visto históricamente\", dijo el Chief Growth Officer, Seth Dallaire. \"Pero estamos aprendiendo sobre esos prompts y sobre cómo atender a los clientes y permitir que los profesionales de marketing y las marcas pongan sus productos frente a los clientes.\""
+                "x": "Google anunció los anuncios multiturno para US el 28 de octubre y dijo que \"aparecen en las respuestas a consultas de seguimiento de los usuarios\". Las campañas de Search, Shopping y Performance Max son elegibles automáticamente; los anunciantes no pueden segmentar solo AI Mode ni excluirse de él por separado de Search."
               },
               {
                 "t": "p",
-                "x": "Vibe.co usa tecnología agéntica en el back end para atraer a más anunciantes pequeños y medianos."
+                "x": "Los informes son agregados: impresiones, clics, conversiones y costo figuran en los informes estándar de campaña, y nada distingue un primer turno de un quinto."
               }
             ]
           }
@@ -1361,15 +999,15 @@
       }
     },
     {
-      "id": "openai-business-hub-terms-rewrite",
+      "id": "bitmovin-gam-scene-signals",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI가 고쳐 쓴\nChatGPT 허브 약관",
-      "body": "OpenAI는 청구권 우려에 ChatGPT Business Hub 약관을 고쳤다.",
-      "mini_headline": "OpenAI, Hub 약관 수정",
+      "headline": "Bitmovin 장면 AI\n신호를 GAM에 보낸다",
+      "body": "Bitmovin이 영상 장면 맥락을 Google Ad Manager에 보낸다.",
+      "mini_headline": "Bitmovin, GAM에 장면 신호 전달",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/",
+      "source": "Content + Technology",
+      "url": "https://content-technology.com/content-delivery/bitmovin-ai-brings-scene-level-ad-signals-to-google-ad-manager/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1377,203 +1015,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+            "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+            "cap": "Reinhard Grandl, Bitmovin Chief Product Officer"
           },
           {
             "t": "p",
-            "x": "OpenAI가 새 ChatGPT Business Hub를 내놓은 지 며칠 만에 약관을 고쳤다. 원래 문구가 기업이 회사를 상대로 특정 법적 청구를 할 권리를 막을 수 있다는 변호사들의 견해를 Digiday가 보도한 뒤였다."
+            "x": "Bitmovin이 자사 AI Scene Analysis를 Google Ad Manager의 publisher-provided signals(PPS)와 연동한다고 발표했다. 바이어는 작품 전체에 붙는 라벨 하나 대신 퍼블리셔 영상 콘텐츠의 장면별 맥락을 받게 된다."
           },
           {
             "t": "p",
-            "x": "Business Hub는 인증된 기업에 자사 웹사이트가 ChatGPT에서 어떻게 노출되는지 보여 주는 데이터를 직접 준다. 언급, 프로필 조회, 클릭, 발견 주제 같은 항목이다."
-          },
-          {
-            "t": "p",
-            "x": "원래 약관 Section 10에는 강제 중재 조항과 집단소송 포기 조항이 들어 있었다. 문구도 넓어서 약관에 동의하기 전에 생긴 특정 청구까지 아울렀다. 약관은 Digiday가 11월 18일 OpenAI에 연락하고 몇 시간 뒤 바뀌었다."
+            "x": "AI Scene Analysis는 Bitmovin VOD Encoder와 Player에 미리 들어가 있다. 모든 에셋의 모든 장면을 언어와 관계없이 분석해 IAB Content Taxonomy 카테고리에 매핑하고, 광고를 자연스럽게 넣을 지점을 짚는 광고 기회 점수를 매긴다."
           },
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-            "cap": "11월 18일 기준 OpenAI가 ChatGPT 사용 기업에 적용하는 개정 서비스 약관"
+            "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+            "cap": "장면 단위 신호와 오디언스 신호는 인코딩된 에셋에서 출발해 Bitmovin Player와 IMA SDK를 거쳐 Google Ad Manager로 간다"
           },
           {
             "t": "p",
-            "x": "OpenAI 대변인은 개정 약관이 권리 포기 범위를 \"기업의 Business Agent에서 비롯된 청구, 해당 에이전트와 함께 고객 데이터를 사용하는 경우를 포함\"하는 것으로 좁혔다고 밝혔다. Davis+Gilbert의 Gary Kibel은 개정 약관은 이제 OpenAI와의 무관한 법적 분쟁에까지 권리 포기를 넓히지 않는다고 말했다."
+            "x": "Bitmovin Player는 광고 요청이 들어올 때마다 이 신호를 퍼블리셔의 퍼스트파티 오디언스 세그먼트와 함께 IMA SDK로 Google Ad Manager에 넘긴다. Open Auction, Private Auction, Preferred Deals, Programmatic Guaranteed에 모두 적용되고, 사용자 식별자는 바이어에게 공유하지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "연동은 AI Scene Analysis와 Bitmovin Player를 Google IMA SDK와 함께 쓰는 Bitmovin 고객에게 바로 열려 있다. CPO Reinhard Grandl은 \"이제 모든 장면이 어떤 언어로든 자체 맥락을 광고 요청에 자동으로 담을 수 있다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OpenAI rewrites ChatGPT\nBusiness Hub terms",
-          "body": "OpenAI revised ChatGPT Business Hub terms after concerns its first draft could limit businesses' legal claims.",
-          "mini_headline": "OpenAI revises Hub terms",
+          "headline": "Bitmovin sends scene-level AI\nsignals to Google Ad Manager",
+          "body": "Bitmovin's AI Scene Analysis now feeds scene-level context from video into Google Ad Manager's ad decisioning.",
+          "mini_headline": "Bitmovin brings scene signals to GAM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Reinhard Grandl, Chief Product Officer, Bitmovin"
               },
               {
                 "t": "p",
-                "x": "OpenAI has revised the terms for its new ChatGPT Business Hub days after its launch, after Digiday reported that lawyers viewed the original language as potentially limiting businesses' ability to bring certain legal claims against the company."
+                "x": "Bitmovin has announced an integration between Bitmovin's AI Scene Analysis and publisher-provided signals (PPS) in Google Ad Manager, giving buyers scene-by-scene context for publishers' video content rather than a single label for the whole title."
               },
               {
                 "t": "p",
-                "x": "The Business Hub gives verified businesses direct data on how their websites appear in ChatGPT, including mentions, profile views, clicks and discovery topics."
-              },
-              {
-                "t": "p",
-                "x": "Section 10 of the original terms included a mandatory arbitration provision and class-action waiver, broadly worded to cover certain claims that arose before the agreement was accepted. Hours after Digiday contacted OpenAI on Nov. 18, the terms were revised."
+                "x": "AI Scene Analysis, pre-integrated into Bitmovin's VOD Encoder and Player, analyses every scene of every asset, in any language, maps it to IAB Content Taxonomy categories and adds an ad-opportunity score that identifies natural break points."
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "OpenAI's updated terms of service for businesses using ChatGPT, as of Nov. 18"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "How scene-level and audience signals travel from an encoded asset to Google Ad Manager through Bitmovin's Player and the IMA SDK"
               },
               {
                 "t": "p",
-                "x": "An OpenAI spokesperson said the updated terms tie the release to \"claims arising from a business's Business Agent, including the use of customer data with that agent.\" Gary Kibel of Davis+Gilbert said the revised terms no longer extend the waiver to unrelated legal disputes with OpenAI."
+                "x": "On every ad request, Bitmovin's Player passes those signals to Google Ad Manager through the IMA SDK, with the publisher's first-party audience segments, across Open Auction, Private Auction, Preferred Deals and Programmatic Guaranteed — without sharing user identifiers with buyers."
+              },
+              {
+                "t": "p",
+                "x": "The integration is available now to Bitmovin customers using AI Scene Analysis and Bitmovin's Player with the Google IMA SDK. \"Every scene can now automatically carry its own context into the ad request in any language,\" said CPO Reinhard Grandl."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI가 고쳐 쓴\nChatGPT 허브 약관",
-          "body": "OpenAI는 청구권 우려에 ChatGPT Business Hub 약관을 고쳤다.",
-          "mini_headline": "OpenAI, Hub 약관 수정",
+          "headline": "Bitmovin 장면 AI\n신호를 GAM에 보낸다",
+          "body": "Bitmovin이 영상 장면 맥락을 Google Ad Manager에 보낸다.",
+          "mini_headline": "Bitmovin, GAM에 장면 신호 전달",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Reinhard Grandl, Bitmovin Chief Product Officer"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 새 ChatGPT Business Hub를 내놓은 지 며칠 만에 약관을 고쳤다. 원래 문구가 기업이 회사를 상대로 특정 법적 청구를 할 권리를 막을 수 있다는 변호사들의 견해를 Digiday가 보도한 뒤였다."
+                "x": "Bitmovin이 자사 AI Scene Analysis를 Google Ad Manager의 publisher-provided signals(PPS)와 연동한다고 발표했다. 바이어는 작품 전체에 붙는 라벨 하나 대신 퍼블리셔 영상 콘텐츠의 장면별 맥락을 받게 된다."
               },
               {
                 "t": "p",
-                "x": "Business Hub는 인증된 기업에 자사 웹사이트가 ChatGPT에서 어떻게 노출되는지 보여 주는 데이터를 직접 준다. 언급, 프로필 조회, 클릭, 발견 주제 같은 항목이다."
-              },
-              {
-                "t": "p",
-                "x": "원래 약관 Section 10에는 강제 중재 조항과 집단소송 포기 조항이 들어 있었다. 문구도 넓어서 약관에 동의하기 전에 생긴 특정 청구까지 아울렀다. 약관은 Digiday가 11월 18일 OpenAI에 연락하고 몇 시간 뒤 바뀌었다."
+                "x": "AI Scene Analysis는 Bitmovin VOD Encoder와 Player에 미리 들어가 있다. 모든 에셋의 모든 장면을 언어와 관계없이 분석해 IAB Content Taxonomy 카테고리에 매핑하고, 광고를 자연스럽게 넣을 지점을 짚는 광고 기회 점수를 매긴다."
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "11월 18일 기준 OpenAI가 ChatGPT 사용 기업에 적용하는 개정 서비스 약관"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "장면 단위 신호와 오디언스 신호는 인코딩된 에셋에서 출발해 Bitmovin Player와 IMA SDK를 거쳐 Google Ad Manager로 간다"
               },
               {
                 "t": "p",
-                "x": "OpenAI 대변인은 개정 약관이 권리 포기 범위를 \"기업의 Business Agent에서 비롯된 청구, 해당 에이전트와 함께 고객 데이터를 사용하는 경우를 포함\"하는 것으로 좁혔다고 밝혔다. Davis+Gilbert의 Gary Kibel은 개정 약관은 이제 OpenAI와의 무관한 법적 분쟁에까지 권리 포기를 넓히지 않는다고 말했다."
+                "x": "Bitmovin Player는 광고 요청이 들어올 때마다 이 신호를 퍼블리셔의 퍼스트파티 오디언스 세그먼트와 함께 IMA SDK로 Google Ad Manager에 넘긴다. Open Auction, Private Auction, Preferred Deals, Programmatic Guaranteed에 모두 적용되고, 사용자 식별자는 바이어에게 공유하지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "연동은 AI Scene Analysis와 Bitmovin Player를 Google IMA SDK와 함께 쓰는 Bitmovin 고객에게 바로 열려 있다. CPO Reinhard Grandl은 \"이제 모든 장면이 어떤 언어로든 자체 맥락을 광고 요청에 자동으로 담을 수 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI、ChatGPT\nBusiness Hub規約",
-          "body": "OpenAIは請求制限の懸念を受けChatGPT Business Hub規約を改めた。",
-          "mini_headline": "OpenAI、Hub規約を改定",
+          "headline": "Bitmovin、シーン\n単位のAI信号をGAMへ",
+          "body": "Bitmovinが映像のシーン文脈をGoogle Ad Managerに渡す。",
+          "mini_headline": "Bitmovin、GAMにシーン信号",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Bitmovin Chief Product Officer、Reinhard Grandl"
               },
               {
                 "t": "p",
-                "x": "OpenAIは新しいChatGPT Business Hubの開始から数日で規約を改定した。元の文言は企業が同社に対して特定の法的請求を起こす権利を制限しかねないと弁護士らが見ている、とDigidayが報じた後のことだ。"
+                "x": "Bitmovinは、自社のAI Scene AnalysisとGoogle Ad Managerのpublisher-provided signals（PPS）の連携を発表した。バイヤーは作品全体に付く単一のラベルではなく、パブリッシャーの映像コンテンツについてシーンごとの文脈を得られる。"
               },
               {
                 "t": "p",
-                "x": "Business Hubは認証済みの企業に、自社サイトがChatGPTでどう表示されているかについてのデータを直接提供する。言及、プロフィール閲覧、クリック、発見トピックなどが含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "元の規約のSection 10には強制仲裁条項と集団訴訟の放棄条項があり、規約への同意前に生じた特定の請求まで対象とするよう広い文言になっていた。Digidayが11月18日にOpenAIへ問い合わせてから数時間後、規約は改定された。"
+                "x": "BitmovinのVOD EncoderとPlayerにあらかじめ統合されたAI Scene Analysisは、あらゆるアセットの全シーンを言語を問わず分析し、IAB Content Taxonomyのカテゴリーに対応付け、自然な区切りを示す広告機会スコアを付与する。"
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "11月18日時点の、ChatGPTを利用する企業向けOpenAI改定利用規約"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "シーン単位とオーディエンスのシグナルが、エンコード済みアセットからBitmovinのPlayerとIMA SDKを経てGoogle Ad Managerへ届く流れ"
               },
               {
                 "t": "p",
-                "x": "OpenAIの広報担当者は、改定後の規約は権利放棄を「企業のBusiness Agentから生じる請求で、そのエージェントでの顧客データの利用も含む」ものに結び付けていると述べた。Davis+GilbertのGary Kibel氏は、改定後の規約ではOpenAIとの無関係な法的紛争にまで権利放棄が及ばなくなったと話した。"
+                "x": "BitmovinのPlayerは広告リクエストのたびに、パブリッシャーのファーストパーティ・オーディエンスセグメントとともに、これらのシグナルをIMA SDK経由でGoogle Ad Managerに渡す。Open Auction、Private Auction、Preferred Deals、Programmatic Guaranteedのすべてで機能し、ユーザー識別子はバイヤーと共有しない。"
+              },
+              {
+                "t": "p",
+                "x": "この連携は、AI Scene AnalysisとBitmovinのPlayerをGoogle IMA SDKと組み合わせて使うBitmovin顧客向けに提供が始まっている。CPOのReinhard Grandlは「あらゆるシーンが、どの言語でも自らの文脈を自動的に広告リクエストへ載せられるようになった」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI改ChatGPT\nBusiness Hub条款",
-          "body": "OpenAI因初版或限制企业索赔，修订ChatGPT Business Hub条款。",
-          "mini_headline": "OpenAI修订Hub条款",
+          "headline": "Bitmovin把场景级AI\n信号送入GAM",
+          "body": "Bitmovin将视频场景语境送入Google Ad Manager的广告决策。",
+          "mini_headline": "Bitmovin为GAM带来场景信号",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Bitmovin Chief Product Officer Reinhard Grandl"
               },
               {
                 "t": "p",
-                "x": "OpenAI在新推出的ChatGPT Business Hub上线几天后修订了其条款。此前Digiday报道称，律师们认为原条款可能限制企业对该公司提起某些法律索赔的能力。"
+                "x": "Bitmovin宣布，其AI Scene Analysis与Google Ad Manager中的publisher-provided signals（PPS）实现集成，让买方获得出版商视频内容的逐场景语境，而不是整部作品只有一个标签。"
               },
               {
                 "t": "p",
-                "x": "Business Hub向经过验证的企业直接提供其网站在ChatGPT中呈现情况的数据，包括提及、资料页浏览、点击和发现主题。"
-              },
-              {
-                "t": "p",
-                "x": "原条款Section 10包含强制仲裁条款和集体诉讼弃权条款，措辞宽泛，涵盖协议接受之前产生的某些索赔。Digiday于11月18日联系OpenAI数小时后，条款即被修订。"
+                "x": "AI Scene Analysis已预先集成到Bitmovin的VOD Encoder和Player中，可用任何语言分析每个资产的每个场景，将其映射到IAB Content Taxonomy类别，并添加用于识别自然插播点的广告机会评分。"
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "截至11月18日，OpenAI面向使用ChatGPT之企业的更新版服务条款"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "场景级和受众信号如何从编码后的资产经由Bitmovin的Player和IMA SDK传到Google Ad Manager"
               },
               {
                 "t": "p",
-                "x": "OpenAI发言人表示，更新后的条款将弃权范围限定于“因企业的Business Agent产生的索赔，包括通过该代理使用客户数据”。Davis+Gilbert的Gary Kibel表示，修订后的条款不再把弃权延伸至与OpenAI之间无关的法律纠纷。"
+                "x": "每次广告请求时，Bitmovin的Player都会通过IMA SDK把这些信号连同出版商的第一方受众细分一起传给Google Ad Manager，覆盖Open Auction、Private Auction、Preferred Deals和Programmatic Guaranteed，且不与买方共享用户标识符。"
+              },
+              {
+                "t": "p",
+                "x": "该集成现已向使用AI Scene Analysis以及搭配Google IMA SDK的Bitmovin Player的Bitmovin客户开放。CPO Reinhard Grandl表示：“现在每个场景都能以任何语言，自动把自身语境带入广告请求。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI reescribe los términos\nde ChatGPT Business Hub",
-          "body": "OpenAI revisó los términos de ChatGPT Business Hub ante el temor de que su borrador limitara demandas de empresas.",
-          "mini_headline": "OpenAI revisa los términos del Hub",
+          "headline": "Bitmovin envía señales de AI\npor escena a Google Ad Manager",
+          "body": "AI Scene Analysis de Bitmovin lleva el contexto de cada escena a las decisiones de anuncios de Google Ad Manager.",
+          "mini_headline": "Bitmovin lleva señales de escena a GAM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Reinhard Grandl, Chief Product Officer de Bitmovin"
               },
               {
                 "t": "p",
-                "x": "OpenAI revisó los términos de su nuevo ChatGPT Business Hub pocos días después de su lanzamiento, después de que Digiday informara de que abogados consideraban que la redacción original podía limitar la capacidad de las empresas de presentar ciertas reclamaciones legales contra la compañía."
+                "x": "Bitmovin anunció una integración entre su AI Scene Analysis y las publisher-provided signals (PPS) de Google Ad Manager, que da a los compradores contexto escena por escena del contenido de video de los editores en lugar de una sola etiqueta para todo el título."
               },
               {
                 "t": "p",
-                "x": "El Business Hub ofrece a empresas verificadas datos directos sobre cómo aparecen sus sitios web en ChatGPT, incluidas menciones, vistas de perfil, clics y temas de descubrimiento."
-              },
-              {
-                "t": "p",
-                "x": "La Section 10 de los términos originales incluía una cláusula de arbitraje obligatorio y una renuncia a demandas colectivas, redactadas de forma amplia para abarcar ciertas reclamaciones surgidas antes de aceptar el acuerdo. Horas después de que Digiday contactara a OpenAI el 18 de noviembre, los términos se revisaron."
+                "x": "AI Scene Analysis, preintegrado en el VOD Encoder y el Player de Bitmovin, analiza cada escena de cada recurso, en cualquier idioma, la asigna a categorías de la IAB Content Taxonomy y añade una puntuación de oportunidad publicitaria que identifica pausas naturales."
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "Términos de servicio actualizados de OpenAI para empresas que usan ChatGPT, a 18 de noviembre"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "Cómo las señales de escena y de audiencia viajan desde un recurso codificado hasta Google Ad Manager a través del Player de Bitmovin y el IMA SDK"
               },
               {
                 "t": "p",
-                "x": "Un portavoz de OpenAI dijo que los términos actualizados vinculan la renuncia a \"reclamaciones derivadas del Business Agent de una empresa, incluido el uso de datos de clientes con ese agente\". Gary Kibel, de Davis+Gilbert, dijo que los términos revisados ya no extienden la renuncia a disputas legales no relacionadas con OpenAI."
+                "x": "En cada solicitud de anuncio, el Player de Bitmovin pasa esas señales a Google Ad Manager mediante el IMA SDK, junto con los segmentos de audiencia propios del editor, en Open Auction, Private Auction, Preferred Deals y Programmatic Guaranteed, sin compartir identificadores de usuario con los compradores."
+              },
+              {
+                "t": "p",
+                "x": "La integración ya está disponible para los clientes de Bitmovin que usan AI Scene Analysis y el Player de Bitmovin con el Google IMA SDK. \"Ahora cada escena puede llevar automáticamente su propio contexto a la solicitud de anuncio, en cualquier idioma\", dijo el CPO Reinhard Grandl."
               }
             ]
           }
@@ -1581,141 +1225,567 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI가 고쳐 쓴\nChatGPT 허브 약관",
-          "body": "OpenAI는 청구권 우려에 ChatGPT Business Hub 약관을 고쳤다.",
-          "mini_headline": "OpenAI, Hub 약관 수정",
+          "headline": "Bitmovin 장면 AI\n신호를 GAM에 보낸다",
+          "body": "Bitmovin이 영상 장면 맥락을 Google Ad Manager에 보낸다.",
+          "mini_headline": "Bitmovin, GAM에 장면 신호 전달",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Reinhard Grandl, Bitmovin Chief Product Officer"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 새 ChatGPT Business Hub를 출시하고 며칠 만에 약관을 고쳤다. 변호사들이 원래 문구가 기업이 회사를 상대로 특정 법적 청구를 제기할 권리를 제한할 수 있다고 본다고 Digiday가 보도한 뒤였다."
+                "x": "Bitmovin이 자사 AI Scene Analysis와 Google Ad Manager의 publisher-provided signals(PPS) 연동을 발표했다. 이로써 바이어는 작품 전체에 붙는 단일 라벨 대신 퍼블리셔 영상 콘텐츠의 장면별 맥락을 얻는다."
               },
               {
                 "t": "p",
-                "x": "Business Hub는 인증된 기업에 자사 웹사이트가 ChatGPT에서 어떻게 노출되는지에 관한 데이터를 직접 제공한다. 언급, 프로필 조회, 클릭, 발견 주제 등이 포함된다."
-              },
-              {
-                "t": "p",
-                "x": "원래 약관의 Section 10에는 강제 중재 조항과 집단소송 포기 조항이 있었고, 약관 동의 이전에 발생한 특정 청구까지 포괄하도록 폭넓게 쓰여 있었다. Digiday가 11월 18일 OpenAI에 연락하고 몇 시간 뒤 약관이 바뀌었다."
+                "x": "Bitmovin VOD Encoder와 Player에 미리 통합된 AI Scene Analysis는 모든 에셋의 모든 장면을 언어와 무관하게 분석해 IAB Content Taxonomy 카테고리에 매핑하고, 자연스러운 광고 삽입 지점을 짚어내는 광고 기회 점수를 붙인다."
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "11월 18일 기준, ChatGPT를 쓰는 기업 대상 OpenAI의 개정 서비스 약관"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "장면 단위 신호와 오디언스 신호가 인코딩된 에셋에서 Bitmovin Player와 IMA SDK를 거쳐 Google Ad Manager로 전달되는 과정"
               },
               {
                 "t": "p",
-                "x": "OpenAI 대변인은 개정 약관이 권리 포기 범위를 \"기업의 Business Agent에서 비롯된 청구, 해당 에이전트와 함께 고객 데이터를 사용하는 경우를 포함\"하는 것으로 묶는다고 밝혔다. Davis+Gilbert의 Gary Kibel은 개정 약관이 더 이상 OpenAI와의 무관한 법적 분쟁까지 권리 포기를 확대하지 않는다고 말했다."
+                "x": "광고 요청마다 Bitmovin Player는 이 신호를 퍼블리셔의 퍼스트파티 오디언스 세그먼트와 함께 IMA SDK를 통해 Google Ad Manager로 보낸다. Open Auction, Private Auction, Preferred Deals, Programmatic Guaranteed 전반에 적용되며, 사용자 식별자는 바이어와 공유하지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "이 연동은 AI Scene Analysis와 Bitmovin Player를 Google IMA SDK와 함께 쓰는 Bitmovin 고객에게 지금 제공된다. CPO Reinhard Grandl은 \"이제 모든 장면이 어떤 언어로든 자체 맥락을 광고 요청에 자동으로 담을 수 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI、ChatGPT\nBusiness Hub規約",
-          "body": "OpenAIは請求制限の懸念を受けChatGPT Business Hub規約を改めた。",
-          "mini_headline": "OpenAI、Hub規約を改定",
+          "headline": "Bitmovin、シーン\n単位のAI信号をGAMへ",
+          "body": "Bitmovinが映像のシーン文脈をGoogle Ad Managerに渡す。",
+          "mini_headline": "Bitmovin、GAMにシーン信号",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Bitmovin Chief Product Officer、Reinhard Grandl"
               },
               {
                 "t": "p",
-                "x": "OpenAIは新しいChatGPT Business Hubの開始から数日で規約を改定した。元の文言は企業が同社に対して特定の法的請求を起こす権利を制限しかねないと弁護士らが見ている、とDigidayが報じた後のことだ。"
+                "x": "Bitmovinは、自社のAI Scene AnalysisとGoogle Ad Managerのpublisher-provided signals（PPS）の連携を発表した。バイヤーは作品全体に付く単一のラベルではなく、パブリッシャーの映像コンテンツについてシーンごとの文脈を得られる。"
               },
               {
                 "t": "p",
-                "x": "Business Hubは認証済みの企業に、自社サイトがChatGPTでどう表示されているかについてのデータを直接提供する。言及、プロフィール閲覧、クリック、発見トピックなどが含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "元の規約のSection 10には強制仲裁条項と集団訴訟の放棄条項があり、規約への同意前に生じた特定の請求まで対象とするよう広い文言になっていた。Digidayが11月18日にOpenAIへ問い合わせてから数時間後、規約は改定された。"
+                "x": "BitmovinのVOD EncoderとPlayerにあらかじめ統合されたAI Scene Analysisは、あらゆるアセットの全シーンを言語を問わず分析し、IAB Content Taxonomyのカテゴリーに対応付け、自然な区切りを示す広告機会スコアを付与する。"
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "11月18日時点の、ChatGPTを利用する企業向けOpenAI改定利用規約"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "シーン単位とオーディエンスのシグナルが、エンコード済みアセットからBitmovinのPlayerとIMA SDKを経てGoogle Ad Managerへ届く流れ"
               },
               {
                 "t": "p",
-                "x": "OpenAIの広報担当者は、改定後の規約は権利放棄を「企業のBusiness Agentから生じる請求で、そのエージェントでの顧客データの利用も含む」ものに結び付けていると述べた。Davis+GilbertのGary Kibel氏は、改定後の規約ではOpenAIとの無関係な法的紛争にまで権利放棄が及ばなくなったと話した。"
+                "x": "BitmovinのPlayerは広告リクエストのたびに、パブリッシャーのファーストパーティ・オーディエンスセグメントとともに、これらのシグナルをIMA SDK経由でGoogle Ad Managerに渡す。Open Auction、Private Auction、Preferred Deals、Programmatic Guaranteedのすべてで機能し、ユーザー識別子はバイヤーと共有しない。"
+              },
+              {
+                "t": "p",
+                "x": "この連携は、AI Scene AnalysisとBitmovinのPlayerをGoogle IMA SDKと組み合わせて使うBitmovin顧客向けに提供が始まっている。CPOのReinhard Grandlは「あらゆるシーンが、どの言語でも自らの文脈を自動的に広告リクエストへ載せられるようになった」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI改ChatGPT\nBusiness Hub条款",
-          "body": "OpenAI因初版或限制企业索赔，修订ChatGPT Business Hub条款。",
-          "mini_headline": "OpenAI修订Hub条款",
+          "headline": "Bitmovin把场景级AI\n信号送入GAM",
+          "body": "Bitmovin将视频场景语境送入Google Ad Manager的广告决策。",
+          "mini_headline": "Bitmovin为GAM带来场景信号",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Bitmovin Chief Product Officer Reinhard Grandl"
               },
               {
                 "t": "p",
-                "x": "OpenAI在新推出的ChatGPT Business Hub上线几天后修订了其条款。此前Digiday报道称，律师们认为原条款可能限制企业对该公司提起某些法律索赔的能力。"
+                "x": "Bitmovin宣布，其AI Scene Analysis与Google Ad Manager中的publisher-provided signals（PPS）实现集成，让买方获得出版商视频内容的逐场景语境，而不是整部作品只有一个标签。"
               },
               {
                 "t": "p",
-                "x": "Business Hub向经过验证的企业直接提供其网站在ChatGPT中呈现情况的数据，包括提及、资料页浏览、点击和发现主题。"
-              },
-              {
-                "t": "p",
-                "x": "原条款Section 10包含强制仲裁条款和集体诉讼弃权条款，措辞宽泛，涵盖协议接受之前产生的某些索赔。Digiday于11月18日联系OpenAI数小时后，条款即被修订。"
+                "x": "AI Scene Analysis已预先集成到Bitmovin的VOD Encoder和Player中，可用任何语言分析每个资产的每个场景，将其映射到IAB Content Taxonomy类别，并添加用于识别自然插播点的广告机会评分。"
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "截至11月18日，OpenAI面向使用ChatGPT之企业的更新版服务条款"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "场景级和受众信号如何从编码后的资产经由Bitmovin的Player和IMA SDK传到Google Ad Manager"
               },
               {
                 "t": "p",
-                "x": "OpenAI发言人表示，更新后的条款将弃权范围限定于“因企业的Business Agent产生的索赔，包括通过该代理使用客户数据”。Davis+Gilbert的Gary Kibel表示，修订后的条款不再把弃权延伸至与OpenAI之间无关的法律纠纷。"
+                "x": "每次广告请求时，Bitmovin的Player都会通过IMA SDK把这些信号连同出版商的第一方受众细分一起传给Google Ad Manager，覆盖Open Auction、Private Auction、Preferred Deals和Programmatic Guaranteed，且不与买方共享用户标识符。"
+              },
+              {
+                "t": "p",
+                "x": "该集成现已向使用AI Scene Analysis以及搭配Google IMA SDK的Bitmovin Player的Bitmovin客户开放。CPO Reinhard Grandl表示：“现在每个场景都能以任何语言，自动把自身语境带入广告请求。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI reescribe los términos\nde ChatGPT Business Hub",
-          "body": "OpenAI revisó los términos de ChatGPT Business Hub ante el temor de que su borrador limitara demandas de empresas.",
-          "mini_headline": "OpenAI revisa los términos del Hub",
+          "headline": "Bitmovin envía señales de AI\npor escena a Google Ad Manager",
+          "body": "AI Scene Analysis de Bitmovin lleva el contexto de cada escena a las decisiones de anuncios de Google Ad Manager.",
+          "mini_headline": "Bitmovin lleva señales de escena a GAM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/12/ai-agency-deals-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+                "cap": "Reinhard Grandl, Chief Product Officer de Bitmovin"
               },
               {
                 "t": "p",
-                "x": "OpenAI revisó los términos de su nuevo ChatGPT Business Hub pocos días después de su lanzamiento, después de que Digiday informara de que abogados consideraban que la redacción original podía limitar la capacidad de las empresas de presentar ciertas reclamaciones legales contra la compañía."
+                "x": "Bitmovin anunció una integración entre su AI Scene Analysis y las publisher-provided signals (PPS) de Google Ad Manager, que da a los compradores contexto escena por escena del contenido de video de los editores en lugar de una sola etiqueta para todo el título."
               },
               {
                 "t": "p",
-                "x": "El Business Hub ofrece a empresas verificadas datos directos sobre cómo aparecen sus sitios web en ChatGPT, incluidas menciones, vistas de perfil, clics y temas de descubrimiento."
-              },
-              {
-                "t": "p",
-                "x": "La Section 10 de los términos originales incluía una cláusula de arbitraje obligatorio y una renuncia a demandas colectivas, redactadas de forma amplia para abarcar ciertas reclamaciones surgidas antes de aceptar el acuerdo. Horas después de que Digiday contactara a OpenAI el 18 de noviembre, los términos se revisaron."
+                "x": "AI Scene Analysis, preintegrado en el VOD Encoder y el Player de Bitmovin, analiza cada escena de cada recurso, en cualquier idioma, la asigna a categorías de la IAB Content Taxonomy y añade una puntuación de oportunidad publicitaria que identifica pausas naturales."
               },
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-19-at-11.14.48-AM.png?w=1024",
-                "cap": "Términos de servicio actualizados de OpenAI para empresas que usan ChatGPT, a 18 de noviembre"
+                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+                "cap": "Cómo las señales de escena y de audiencia viajan desde un recurso codificado hasta Google Ad Manager a través del Player de Bitmovin y el IMA SDK"
               },
               {
                 "t": "p",
-                "x": "Un portavoz de OpenAI dijo que los términos actualizados vinculan la renuncia a \"reclamaciones derivadas del Business Agent de una empresa, incluido el uso de datos de clientes con ese agente\". Gary Kibel, de Davis+Gilbert, dijo que los términos revisados ya no extienden la renuncia a disputas legales no relacionadas con OpenAI."
+                "x": "En cada solicitud de anuncio, el Player de Bitmovin pasa esas señales a Google Ad Manager mediante el IMA SDK, junto con los segmentos de audiencia propios del editor, en Open Auction, Private Auction, Preferred Deals y Programmatic Guaranteed, sin compartir identificadores de usuario con los compradores."
+              },
+              {
+                "t": "p",
+                "x": "La integración ya está disponible para los clientes de Bitmovin que usan AI Scene Analysis y el Player de Bitmovin con el Google IMA SDK. \"Ahora cada escena puede llevar automáticamente su propio contexto a la solicitud de anuncio, en cualquier idioma\", dijo el CPO Reinhard Grandl."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "agentic-black-friday-rocky",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "첫 Black Friday\n에이전트 쇼핑은 삐걱",
+      "body": "만료 상품, Amazon·eBay 차단, 불신이 AI 쇼핑 에이전트를 늦춘다.",
+      "mini_headline": "에이전트 Black Friday, 휘청",
+      "tool": "Marketing",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+            "cap": "AI 에이전트는 소매에 작지만 뚜렷한 흔적을 남기는 중이다."
+          },
+          {
+            "t": "p",
+            "x": "Dean Mandelos는 요리를 좋아하는 자매에게 줄 선물을 Meta의 Muse 에이전트에게 물었고, 칼 세트를 추천받았다. 하지만 만료되거나 품절된 상품 목록에 막혔고 Amazon과 eBay에서는 아예 차단당했다. \"더 믿을 이유가 있어야 한다\"는 게 그의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "Kantar 애널리스트 Gina Logan은 \"AI가 실제로 의미 있는 역할을 할 수 있는 첫 Black Friday인 것은 분명하지만, 아직 완전히 자율적이지는 않다\"고 말했다. 이어 \"쇼핑객의 삼분의 이가 적어도 가끔은 쇼핑에 AI를 쓰지만, 절반 이상은 여전히 구매 결정을 직접 하고 싶어 한다\"고 덧붙였다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+            "cap": "쇼핑객은 습관을 쉽게 바꾸지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "Bain & Co.가 Similarweb 데이터를 분석해 보니 소매업체 웹 트래픽에서 AI 어시스턴트가 차지한 몫은 1%에도 못 미쳤다. 10월 마지막 주 Uber 거래 약 3억2000만 건 중 AI 에이전트를 거친 것은 약 500건에 그쳤다. All Star Elite에서도 에이전트 트래픽은 방문의 약 1%이고, 대부분 Muse에서 들어온다."
+          },
+          {
+            "t": "p",
+            "x": "Walmart는 에이전트 쇼핑을 돕는 도구를 내놓는 반면, Amazon은 Alexa를 앞세우며 외부 봇을 막는다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+            "cap": "Amazon은 서드파티 AI 에이전트가 자사 사이트에 온전히 접근하지 못하게 막는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "The first agentic Black Friday\ngets off to a rocky start",
+          "body": "Expired listings, blocks from Amazon and eBay, and low shopper trust are slowing AI shopping agents' holiday debut.",
+          "mini_headline": "Agentic Black Friday stumbles",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "AI agents are making a small but distinct mark on retail."
+              },
+              {
+                "t": "p",
+                "x": "Dean Mandelos asked Meta's Muse agent for a gift for his sister, who loves to cook; it recommended a set of knives. It also hit listings that had expired or sold out, and outright blocks from Amazon and eBay. \"I need to have a reason to trust it more,\" he said."
+              },
+              {
+                "t": "p",
+                "x": "\"It's the first Black Friday that AI can really play a meaningful role for sure, but it's not fully autonomous yet,\" said Kantar analyst Gina Logan. \"Two-thirds of shoppers are using AI for shopping at least sometimes, but over half still prefer to control their own shopping decisions.\""
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "Shoppers tend to be slow to change their habits."
+              },
+              {
+                "t": "p",
+                "x": "A Bain & Co. analysis of Similarweb data found AI assistants are less than 1% of retailers' web traffic; of about 320 million Uber transactions in the final week of October, only about 500 came from AI agents. At All Star Elite, agentic traffic is about 1% of visits, mostly from Muse."
+              },
+              {
+                "t": "p",
+                "x": "Walmart is rolling out tools to make agentic shopping easier, while Amazon blocks external bots in favor of Alexa."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazon is blocking third-party AI agents from fully accessing its site."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "첫 Black Friday\n에이전트 쇼핑은 삐걱",
+          "body": "만료 상품, Amazon·eBay 차단, 불신이 AI 쇼핑 에이전트를 늦춘다.",
+          "mini_headline": "에이전트 Black Friday, 휘청",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "AI 에이전트는 소매에 작지만 뚜렷한 흔적을 남기는 중이다."
+              },
+              {
+                "t": "p",
+                "x": "Dean Mandelos는 요리를 좋아하는 자매에게 줄 선물을 Meta의 Muse 에이전트에게 물었고, 칼 세트를 추천받았다. 하지만 만료되거나 품절된 상품 목록에 막혔고 Amazon과 eBay에서는 아예 차단당했다. \"더 믿을 이유가 있어야 한다\"는 게 그의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "Kantar 애널리스트 Gina Logan은 \"AI가 실제로 의미 있는 역할을 할 수 있는 첫 Black Friday인 것은 분명하지만, 아직 완전히 자율적이지는 않다\"고 말했다. 이어 \"쇼핑객의 삼분의 이가 적어도 가끔은 쇼핑에 AI를 쓰지만, 절반 이상은 여전히 구매 결정을 직접 하고 싶어 한다\"고 덧붙였다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "쇼핑객은 습관을 쉽게 바꾸지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Bain & Co.가 Similarweb 데이터를 분석해 보니 소매업체 웹 트래픽에서 AI 어시스턴트가 차지한 몫은 1%에도 못 미쳤다. 10월 마지막 주 Uber 거래 약 3억2000만 건 중 AI 에이전트를 거친 것은 약 500건에 그쳤다. All Star Elite에서도 에이전트 트래픽은 방문의 약 1%이고, 대부분 Muse에서 들어온다."
+              },
+              {
+                "t": "p",
+                "x": "Walmart는 에이전트 쇼핑을 돕는 도구를 내놓는 반면, Amazon은 Alexa를 앞세우며 외부 봇을 막는다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazon은 서드파티 AI 에이전트가 자사 사이트에 온전히 접근하지 못하게 막는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "初のBlack Friday\nエージェント商戦は波乱",
+          "body": "期限切れの商品、AmazonとeBayの遮断、低い信頼がAI買い物エージェントを阻む。",
+          "mini_headline": "エージェント型Black Fridayはつまずく",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "AIエージェントは小売に小さいながらも明確な足跡を残しつつある。"
+              },
+              {
+                "t": "p",
+                "x": "Dean MandelosはMetaのMuseエージェントに、料理好きの姉妹への贈り物を尋ねた。エージェントは包丁セットを勧めたが、掲載期限切れや売り切れの商品に行き当たり、AmazonとeBayからは完全にブロックされた。「もっと信頼できる理由が必要だ」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "「AIが本当に意味のある役割を果たせる初めてのBlack Fridayであることは確かだが、まだ完全に自律してはいない」とKantarのアナリストGina Loganは語る。「買い物客の三分の二は少なくとも時々AIを買い物に使っているが、半数以上はいまも自分で購入を決めたいと考えている」"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "買い物客は習慣をなかなか変えない傾向がある。"
+              },
+              {
+                "t": "p",
+                "x": "Bain & Co.がSimilarwebのデータを分析したところ、AIアシスタントは小売業者のウェブトラフィックの1%未満だった。10月最終週のUberの取引約3億2000万件のうち、AIエージェント経由はわずか約500件だった。All Star Eliteでは、エージェント経由のトラフィックは訪問の約1%で、大半はMuseからだ。"
+              },
+              {
+                "t": "p",
+                "x": "Walmartはエージェント型ショッピングを容易にするツールを展開している一方、AmazonはAlexaを優先して外部ボットをブロックしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazonはサードパーティ製AIエージェントによる自社サイトへの完全なアクセスを遮断している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首个Black Friday\n智能体购物开局不顺",
+          "body": "过期商品、Amazon和eBay的封锁以及低信任度，拖慢了AI购物智能体的节日首秀。",
+          "mini_headline": "智能体Black Friday出师不利",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "AI智能体正在零售业留下虽小却清晰的印记。"
+              },
+              {
+                "t": "p",
+                "x": "Dean Mandelos请Meta的Muse智能体为爱做饭的姐妹挑礼物，它推荐了一套刀具。但它也碰到了已过期或已售罄的商品页面，还被Amazon和eBay直接拦截。“我需要一个更信任它的理由，”他说。"
+              },
+              {
+                "t": "p",
+                "x": "“这无疑是AI真正能发挥实质作用的第一个Black Friday，但它还没有完全自主，”Kantar分析师Gina Logan说。“三分之二的购物者至少有时会用AI购物，但超过一半的人仍更愿意自己掌控购物决定。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "购物者往往不会很快改变习惯。"
+              },
+              {
+                "t": "p",
+                "x": "Bain & Co.对Similarweb数据的分析发现，AI助手在零售商网站流量中占比不到1%；在10月最后一周约3.2亿笔Uber交易中，只有约500笔来自AI智能体。在All Star Elite，智能体流量约占访问量的1%，大部分来自Muse。"
+              },
+              {
+                "t": "p",
+                "x": "Walmart正在推出让智能体购物更便捷的工具，而Amazon则屏蔽外部机器人，力推Alexa。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazon正阻止第三方AI智能体完整访问其网站。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El primer Black Friday agéntico\narranca con tropiezos",
+          "body": "Los listados caducados, los bloqueos de Amazon y eBay y la poca confianza frenan el debut de agentes de compra con AI.",
+          "mini_headline": "El Black Friday agéntico tropieza",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "Los agentes de AI dejan una huella pequeña pero clara en el comercio minorista."
+              },
+              {
+                "t": "p",
+                "x": "Dean Mandelos pidió al agente Muse de Meta un regalo para su hermana, a quien le encanta cocinar; le recomendó un juego de cuchillos. También se topó con publicaciones caducadas o agotadas, y con bloqueos directos de Amazon y eBay. \"Necesito tener una razón para confiar más en él\", dijo."
+              },
+              {
+                "t": "p",
+                "x": "\"Es el primer Black Friday en que la AI puede desempeñar de verdad un papel significativo, sin duda, pero todavía no es totalmente autónoma\", dijo la analista de Kantar Gina Logan. \"Dos tercios de los compradores usan AI para comprar al menos a veces, pero más de la mitad todavía prefiere controlar sus propias decisiones de compra\"."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "Los compradores suelen tardar en cambiar sus hábitos."
+              },
+              {
+                "t": "p",
+                "x": "Un análisis de Bain & Co. sobre datos de Similarweb concluyó que los asistentes de AI representan menos del 1% del tráfico web de los minoristas; de unos 320 millones de transacciones de Uber en la última semana de octubre, solo unas 500 procedieron de agentes de AI. En All Star Elite, el tráfico agéntico ronda el 1% de las visitas, sobre todo desde Muse."
+              },
+              {
+                "t": "p",
+                "x": "Walmart está lanzando herramientas para facilitar las compras agénticas, mientras que Amazon bloquea los bots externos en favor de Alexa."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazon impide que los agentes de AI de terceros accedan plenamente a su sitio."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "첫 Black Friday\n에이전트 쇼핑은 삐걱",
+          "body": "만료 상품, Amazon·eBay 차단, 불신이 AI 쇼핑 에이전트를 늦춘다.",
+          "mini_headline": "에이전트 Black Friday, 휘청",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "AI 에이전트가 소매에 작지만 뚜렷한 흔적을 남기고 있다."
+              },
+              {
+                "t": "p",
+                "x": "Dean Mandelos는 Meta의 Muse 에이전트에게 요리를 좋아하는 자매에게 줄 선물을 물었고, 에이전트는 칼 세트를 추천했다. 그러나 만료되거나 품절된 상품 목록에 부딪혔고, Amazon과 eBay에서는 아예 차단당했다. 그는 \"더 믿을 이유가 있어야 한다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Kantar 애널리스트 Gina Logan은 \"AI가 실제로 의미 있는 역할을 할 수 있는 첫 Black Friday인 것은 분명하지만, 아직 완전히 자율적이지는 않다\"고 말했다. 그는 \"쇼핑객의 삼분의 이가 적어도 가끔은 쇼핑에 AI를 쓰지만, 절반 이상은 여전히 구매 결정을 직접 하고 싶어 한다\"고 덧붙였다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "쇼핑객은 습관을 쉽게 바꾸지 않는 편이다."
+              },
+              {
+                "t": "p",
+                "x": "Bain & Co.가 Similarweb 데이터를 분석한 결과, AI 어시스턴트는 소매업체 웹 트래픽의 1%에도 못 미쳤다. 10월 마지막 주 Uber 거래 약 3억2000만 건 가운데 AI 에이전트에서 나온 것은 약 500건뿐이었다. All Star Elite에서는 에이전트 트래픽이 방문의 약 1%이며, 대부분 Muse에서 온다."
+              },
+              {
+                "t": "p",
+                "x": "Walmart는 에이전트 쇼핑을 쉽게 하는 도구를 내놓고 있고, Amazon은 Alexa를 앞세우며 외부 봇을 차단한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazon은 서드파티 AI 에이전트가 자사 사이트에 온전히 접근하지 못하게 막고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "初のBlack Friday\nエージェント商戦は波乱",
+          "body": "期限切れの商品、AmazonとeBayの遮断、低い信頼がAI買い物エージェントを阻む。",
+          "mini_headline": "エージェント型Black Fridayはつまずく",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "AIエージェントは小売に小さいながらも明確な足跡を残しつつある。"
+              },
+              {
+                "t": "p",
+                "x": "Dean MandelosはMetaのMuseエージェントに、料理好きの姉妹への贈り物を尋ねた。エージェントは包丁セットを勧めたが、掲載期限切れや売り切れの商品に行き当たり、AmazonとeBayからは完全にブロックされた。「もっと信頼できる理由が必要だ」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "「AIが本当に意味のある役割を果たせる初めてのBlack Fridayであることは確かだが、まだ完全に自律してはいない」とKantarのアナリストGina Loganは語る。「買い物客の三分の二は少なくとも時々AIを買い物に使っているが、半数以上はいまも自分で購入を決めたいと考えている」"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "買い物客は習慣をなかなか変えない傾向がある。"
+              },
+              {
+                "t": "p",
+                "x": "Bain & Co.がSimilarwebのデータを分析したところ、AIアシスタントは小売業者のウェブトラフィックの1%未満だった。10月最終週のUberの取引約3億2000万件のうち、AIエージェント経由はわずか約500件だった。All Star Eliteでは、エージェント経由のトラフィックは訪問の約1%で、大半はMuseからだ。"
+              },
+              {
+                "t": "p",
+                "x": "Walmartはエージェント型ショッピングを容易にするツールを展開している一方、AmazonはAlexaを優先して外部ボットをブロックしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazonはサードパーティ製AIエージェントによる自社サイトへの完全なアクセスを遮断している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首个Black Friday\n智能体购物开局不顺",
+          "body": "过期商品、Amazon和eBay的封锁以及低信任度，拖慢了AI购物智能体的节日首秀。",
+          "mini_headline": "智能体Black Friday出师不利",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "AI智能体正在零售业留下虽小却清晰的印记。"
+              },
+              {
+                "t": "p",
+                "x": "Dean Mandelos请Meta的Muse智能体为爱做饭的姐妹挑礼物，它推荐了一套刀具。但它也碰到了已过期或已售罄的商品页面，还被Amazon和eBay直接拦截。“我需要一个更信任它的理由，”他说。"
+              },
+              {
+                "t": "p",
+                "x": "“这无疑是AI真正能发挥实质作用的第一个Black Friday，但它还没有完全自主，”Kantar分析师Gina Logan说。“三分之二的购物者至少有时会用AI购物，但超过一半的人仍更愿意自己掌控购物决定。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "购物者往往不会很快改变习惯。"
+              },
+              {
+                "t": "p",
+                "x": "Bain & Co.对Similarweb数据的分析发现，AI助手在零售商网站流量中占比不到1%；在10月最后一周约3.2亿笔Uber交易中，只有约500笔来自AI智能体。在All Star Elite，智能体流量约占访问量的1%，大部分来自Muse。"
+              },
+              {
+                "t": "p",
+                "x": "Walmart正在推出让智能体购物更便捷的工具，而Amazon则屏蔽外部机器人，力推Alexa。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazon正阻止第三方AI智能体完整访问其网站。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El primer Black Friday agéntico\narranca con tropiezos",
+          "body": "Los listados caducados, los bloqueos de Amazon y eBay y la poca confianza frenan el debut de agentes de compra con AI.",
+          "mini_headline": "El Black Friday agéntico tropieza",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+                "cap": "Los agentes de AI dejan una huella pequeña pero clara en el comercio minorista."
+              },
+              {
+                "t": "p",
+                "x": "Dean Mandelos pidió al agente Muse de Meta un regalo para su hermana, a quien le encanta cocinar; le recomendó un juego de cuchillos. También se topó con publicaciones caducadas o agotadas, y con bloqueos directos de Amazon y eBay. \"Necesito tener una razón para confiar más en él\", dijo."
+              },
+              {
+                "t": "p",
+                "x": "\"Es el primer Black Friday en que la AI puede desempeñar de verdad un papel significativo, sin duda, pero todavía no es totalmente autónoma\", dijo la analista de Kantar Gina Logan. \"Dos tercios de los compradores usan AI para comprar al menos a veces, pero más de la mitad todavía prefiere controlar sus propias decisiones de compra\"."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+                "cap": "Los compradores suelen tardar en cambiar sus hábitos."
+              },
+              {
+                "t": "p",
+                "x": "Un análisis de Bain & Co. sobre datos de Similarweb concluyó que los asistentes de AI representan menos del 1% del tráfico web de los minoristas; de unos 320 millones de transacciones de Uber en la última semana de octubre, solo unas 500 procedieron de agentes de AI. En All Star Elite, el tráfico agéntico ronda el 1% de las visitas, sobre todo desde Muse."
+              },
+              {
+                "t": "p",
+                "x": "Walmart está lanzando herramientas para facilitar las compras agénticas, mientras que Amazon bloquea los bots externos en favor de Alexa."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+                "cap": "Amazon impide que los agentes de AI de terceros accedan plenamente a su sitio."
               }
             ]
           }

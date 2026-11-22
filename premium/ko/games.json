@@ -17004,6 +17004,120 @@
           "x": "Roblox는 크리에이터가 곧 오프라인 솔로 플레이를 켤 수 있게 된다고도 발표했다. mid-2027 정식 출시에 앞서 얼리 액세스부터 연다."
         }
       ]
+    },
+    "games/wotc-anthropic-payout-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+          "cap": "R.A. Salvatore의 Lolth's Warrior (Image credit: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "D&D와 Magic: The Gathering의 퍼블리셔 Wizards of the Coast는 Claude AI 개발사 Anthropic을 상대로 한 $1.5 billion 규모 저작권 소송의 청구인이었다. Wargamer 보도에 따르면 소송 대상 작품당 표준 지급액은 $3,000이며, 저자와 출판사가 50/50으로 나눈다. 그런데 Wizards는 자기 몫인 절반까지 저자에게 넘기기로 했다. 혜택은 주로 회사와 계약한 독립 작가들에게 돌아가며, R.A. Salvatore 같은 유명 작가도 포함된다."
+        },
+        {
+          "t": "p",
+          "x": "프리랜서 작가이자 편집자인 James Lowder는 LinkedIn에 이렇게 썼다. \"놀라운 일이다. WotC가 가져갈 수 있었던 수십만 달러가 작가들에게 돌아간다. 게다가 Wizards는 대형 출판사들이 저자들로부터 합의금을 최대한 챙기려 다투는 시기에 이렇게 하고 있다.\" 그는 논의를 이끈 저자들, 그중에서도 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer의 Ted Litchfield는 Wizards가 최근 몇 년간 AI 사용(마케팅 자료와 D&D 소스북의 AI 아트)과 내부 노사 관계로 평판이 깎였고, 이번 금액도 수십억 달러 규모 기업에는 푼돈일 뿐이라고 꼬집는다. \"Wizards of the Coast는 분명 옳은 일을 했다. 하지만 값싸게 얻은 PR 승리라고 생각한다.\""
+        }
+      ]
+    },
+    "games/activision-voicechat-npc-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Activision이 AI-powered NPCs가 플레이어처럼 말하도록 학습시키는 특허를 출원했다. Dexerto 보도에 따르면 특허 이름은 \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"이며, 음성 채팅 오디오를 활용해 게임 속 NPCs의 목소리를 더 실감 나게 만드는 방법을 설명한다. 목소리를 그대로 베끼지는 않는다. 플레이어가 하는 말과 반응하는 방식을 흉내 낸다. 특허에 Call of Duty가 명시되지는 않았지만, Activision의 대표 프랜차이즈인 만큼 그쪽에 쓰일 공산이 크다."
+        },
+        {
+          "t": "p",
+          "x": "킬, 데스, 패배 같은 특정 게임 이벤트 전후 약 10초 분량의 오디오를 모아 같은 상황에서 NPCs가 어떻게 움직일지 다듬는 방식이다."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "음성 데이터로 NPCs를 학습시키는 방식을 보여 주는 Activision 특허."
+        },
+        {
+          "t": "p",
+          "x": "특허에는 Discord와 TeamSpeak도 등장하고, 서로 다른 애플리케이션 간 타임스탬프를 맞추는 내용도 담겼다. 공격적인 언어를 막는 필터를 넣겠다고 밝히지만, 음성 채팅 오디오를 써도 되는지 허락을 구한다는 대목은 없다. 다만 Activision이 이 기술로 특허를 받았다고 해서 곧바로 실제 게임에 들어간다는 뜻은 아니다."
+        }
+      ]
+    },
+    "games/metahuman-markerless-mocap-insideunreal": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zd7DCFBLCcc"
+        },
+        {
+          "t": "p",
+          "x": "새로 나온 MetaHuman Animator Markerless Motion Capture 플러그인의 전신 애니메이션 기능을 자세히 들여다본다. 이 플러그인은 폰이나 웹캠으로 찍은 평범한 영상을 MetaHuman 캐릭터의 애니메이션으로 바꿔 준다. Epic 연구팀의 Michael Black이 기술의 작동 원리를 설명하고, Ben Kidd는 실제 프로젝트를 예로 촬영부터 최종 숏까지 쓰는 과정을 시연한다. 영화감독 Martin Bell도 나와 독립 창작자가 이 도구로 해낼 수 있는 일을 소개한다."
+        }
+      ]
+    },
+    "games/motokare-deathgame-fmv-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+        },
+        {
+          "t": "p",
+          "x": "중국 인디 개발 스튜디오 LIUGUANG STUDIO는 개발 중인 신작 「전 남친×데스게임」(元カレ×デスゲーム)을 2026년 12월 4일 기본 무료로 출시한다고 발표했다."
+        },
+        {
+          "t": "video",
+          "yt": "G9s6lRSfhMg"
+        },
+        {
+          "t": "p",
+          "x": "이 작품은 영상과 캐릭터, 스토리 제작에 생성 AI를 활용한 FMV(풀 모션 비디오) 어드벤처로, 실사풍 영상이 특징이다. 플레이어는 전 남친 100명에게 복수를 꾀하는 걸출한 인물 「쑤웨이」가 되어, 바다 위에 뜬 호화 여객선에 그들을 가두고 잔혹한 데스게임을 연다. 목숨을 건 시련으로 전 남친들의 거짓말을 폭로하고 과거의 배신에 마침표를 찍는 것이 쑤웨이의 목표다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+        },
+        {
+          "t": "p",
+          "x": "「진실 혹은 벌칙」, 「유리 다리」, 「심해 거짓말 탐지기」 같은 시련이 등장한다. 게임이 진행될수록 시련은 가혹해지고, 참가자들은 여유를 잃으며 숨겨 온 본성을 드러낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "중국에서는 기술이 발전하면서 생성 AI로 만드는 숏드라마가 빠르게 늘고 있다. 2026년 상반기에는 중국판 TikTok인 「抖音(더우인)」에 약 22만 편의 AI 생성 드라마가 공개됐다. 이 게임도 그 흐름에서 나온 셈이다. 「전 남친×데스게임」(PC)은 2026년 12월 4일 Steam에서 기본 무료로 출시될 예정이다."
+        }
+      ]
+    },
+    "games/epic-ue6-blueprint-ai-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+        },
+        {
+          "t": "p",
+          "x": "UE6 Early Access를 포함해 UE6에는 Blueprints와 Actor Gameplay Framework가 빠진다고 Marcus Wassmer가 밝혔다. 게임플레이는 Verse와 새 Scene Graph 프레임워크로 만든다. 유월만 해도 Epic은 UE6 Early Access와 6.0에서 Blueprints와 Actors가 공존한다고 했다. 이번에는 “최근 AI 역량이 발전하면서 AI가 UE5 프로젝트의 UE6 전환을 크게 도울 것이고, 그 과정을 완전히 자동화할 수도 있다고 본다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Epic이 꼽은 이유는 두 가지다. AI로 작업 하나를 처리하는 비용이 해마다 13x 수준으로 떨어진다. 두 주 전에는 Epic이 AI로 Fortnite Battle Royale의 Blueprints 전체를 Verse로 바꿔 보는 실험도 했다. 몇 년은 걸리리라 예상한 프로젝트였지만, 20,000개 넘는 Blueprints를 옮긴 끝에 약 300만 줄의 Verse 코드로 돌아가는 프로토타입이 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "UE6용으로 만든 AI 도구가 UE 5.9 MegaJam Preview를 시작으로 UE5에도 들어온다. Python 스크립팅 확장, Model Context Protocol(MCP) 개선, Web 타깃 플랫폼, 에셋을 만드는 Unreal Canvas가 들어 있다. “UE 5.9의 상당 부분을 AI 에이전트로 만들었고, 웹 플랫폼 작업 대부분도 그렇다.”"
+        }
+      ]
     }
   }
 }

@@ -12710,6 +12710,120 @@
           "x": "Roblox also announced that creators will soon be able to enable offline solo play, with early access available before the full release in mid-2027."
         }
       ]
+    },
+    "games/wotc-anthropic-payout-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+          "cap": "Lolth's Warrior by R.A. Salvatore (Image credit: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "D&D and Magic: The Gathering publisher Wizards of the Coast was a claimant in the $1.5 billion copyright case against Claude AI developer Anthropic. The standard payment was $3,000 per work covered by the suit, with a 50/50 split between author and publisher, as reported by Wargamer. Wizards will instead deliver its half of the payout to authors as well — primarily independent writers who contract with the company, up to and including big names like R.A. Salvatore."
+        },
+        {
+          "t": "p",
+          "x": "Freelance writer and editor James Lowder wrote on LinkedIn: \"This is remarkable and amounts to hundreds of thousands of dollars that WotC could have collected going to the writers. And Wizards is doing this at a time when the larger publishers are scrambling to grab as much settlement money as possible from authors.\" He credited author-prompted discussions, especially the efforts of R.A. Salvatore, and Dan Ayoub at Wizards."
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer's Ted Litchfield notes Wizards has sustained reputational damage in recent years for AI usage — AI art in marketing material and a D&D sourcebook — and internal labor relations, and that the sum is couch cushion change for a multi-billion dollar operation: \"Wizards of the Coast undeniably did the right thing here, but I think it was a PR victory cheaply bought.\""
+        }
+      ]
+    },
+    "games/activision-voicechat-npc-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Activision has filed a patent that would train AI-powered NPCs to talk just like players do. As reported by Dexerto, the patent is called \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio,\" and describes using the audio from voice chat to make in-game NPCs sound more realistic. It wouldn't copy your voice exactly, but what you say and how you react. The patent doesn't explicitly mention Call of Duty, but as Activision's leading franchise, it's a safe bet that's where it would end up."
+        },
+        {
+          "t": "p",
+          "x": "It would capture audio around 10 seconds before and after a flagged game event, i.e. kills, deaths, and losses, shaping how NPCs behave in the same scenarios."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+          "cap": "Activision patent showing how voice data would be used to train NPCs."
+        },
+        {
+          "t": "p",
+          "x": "The patent mentions Discord and TeamSpeak too, matching timestamps across separate applications. It notes it would include filters to stop offensive language, but makes no mention of asking for permission to use voice chat audio. Of course, just because Activision patented this technology doesn't mean it will be implemented in-game."
+        }
+      ]
+    },
+    "games/metahuman-markerless-mocap-insideunreal": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zd7DCFBLCcc"
+        },
+        {
+          "t": "p",
+          "x": "Join us for a deep dive into full-body animation with the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or webcam into animation for your MetaHuman characters. Michael Black from Epic’s research team will explain how the technology works as Ben Kidd walks through using it on a real project, from capture to final shot. We’ll be joined by filmmaker Martin Bell who shows what an independent creator can do with it."
+        }
+      ]
+    },
+    "games/motokare-deathgame-fmv-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chinese indie studio LIUGUANG STUDIO announced that its new title in development, 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game), will launch as free-to-play on December 4, 2026."
+        },
+        {
+          "t": "video",
+          "yt": "G9s6lRSfhMg"
+        },
+        {
+          "t": "p",
+          "x": "The game is an FMV (full-motion video) adventure that uses generative AI to produce its footage, characters and story, and is distinguished by live-action-style visuals. Players take the role of the formidable Su Wei, who seeks revenge on 100 ex-boyfriends by trapping them aboard a luxury cruise ship at sea and staging a brutal death game. The death game sets life-or-death trials, through which Su Wei aims to expose the ex-boyfriends' lies and settle past betrayals."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Trials include \"Truth or Punishment,\" \"Glass Bridge\" and \"Deep-Sea Lie Detector.\" As the game progresses, the trials grow harsher, the participants lose their composure, and the true natures they had hidden come to the surface."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In China, the production of short dramas using generative AI has spread rapidly in recent years alongside technological advances, and in the first half of 2026 about 22万 (two hundred twenty thousand) AI-generated dramas were released on Douyin (抖音), the Chinese version of TikTok. This game can be seen as part of that trend. 「元カレ×デスゲーム」 (PC) is scheduled to launch on Steam on December 4, 2026, and will be free-to-play."
+        }
+      ]
+    },
+    "games/epic-ue6-blueprint-ai-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+        },
+        {
+          "t": "p",
+          "x": "Marcus Wassmer says UE6, including UE6 Early Access, won't include Blueprints or the Actor Gameplay Framework; gameplay will be built in Verse and on the new Scene Graph framework. In June Epic said Blueprints and Actors would coexist in UE6 Early Access and 6.0, but \"with recent advances in AI capability, we expect AI to massively help with converting UE5 projects to UE6, if not make that process fully automatic.\""
+        },
+        {
+          "t": "p",
+          "x": "Epic gives two reasons. The cost of any given task with AI has been going down 13x year over year. And two weeks ago Epic experimented with using AI to convert all of the Blueprints for Fortnite Battle Royale to Verse: a project expected to take years now has a working prototype of about 3 million lines of Verse code after porting more than 20,000 Blueprints."
+        },
+        {
+          "t": "p",
+          "x": "AI tooling built for UE6 is coming back to UE5, starting with the UE 5.9 MegaJam Preview: expanded Python scripting, Model Context Protocol (MCP) improvements, Web as a target platform, and Unreal Canvas for generating assets. \"We built much of UE 5.9 with AI agents, including most of the web platform work.\""
+        }
+      ]
     }
   }
 }

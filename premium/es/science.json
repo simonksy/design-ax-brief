@@ -12090,6 +12090,97 @@
           "x": "«Este es sin duda un momento histórico», dijo el matemático del MIT Andrew Sutherland tras compilar de forma independiente el resultado de Alpöge en Lean. «Queda mucho trabajo por hacer para entender los detalles matemáticos de la demostración»."
         }
       ]
+    },
+    "science/science-weathernext-hurricane-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+          "cap": "Pantallas con datos meteorológicos en el Map Room de ETEC. Credit: Patrick Dodson"
+        },
+        {
+          "t": "p",
+          "x": "Cuando el huracán Melissa (Hurricane Melissa) azotó Jamaica en el otoño de 2025, el modelo de AI de Google predijo correctamente su trayectoria y su fuerza de Category 5 con una semana de antelación, mientras otros modelos discrepaban. Un estudio de la University at Albany firmado por Jacob Vile, Brian Tang y Nour Elgalad, publicado en Geophysical Research Letters, sometió WeatherNext Cyclone de Google a una prueba independiente."
+        },
+        {
+          "t": "p",
+          "x": "El equipo analizó los pronósticos de intensidad de 385 ciclones tropicales de todo el mundo entre junio de 2022 y mayo de 2026. El modelo fue más preciso que el modelo de huracanes más avanzado de NOAA en todos los plazos, de uno a cinco días, y rindió a la par de los pronosticadores humanos después del primer día. Sus pronósticos de intensificación rápida fueron casi tan fiables como los de una herramienta líder en las siguientes 24 horas, con menos falsas alarmas."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, tiende a subestimar cuánto se intensificarán las tormentas, una brecha que crece con plazos más largos, y su rango de resultados posibles fue a menudo demasiado estrecho. Su mejor desempeño fue en el North Atlantic (Atlántico Norte) y el peor, en el este del North Pacific (Pacífico Norte). Una versión más reciente del modelo que Google lanzó este año no se incluyó en el análisis."
+        }
+      ]
+    },
+    "science/science-agent-harassment-tampering": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+          "cap": "AI. Crédito: Tara Winstead en Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Georgia State University, con colaboradores de Georgia Tech y UC Berkeley, comprobaron si las salvaguardas de AI resisten en conversaciones de varios turnos. Un agente de AI hizo de acosador y otro de objetivo durante hasta 10 rondas, a partir de publicaciones de acoso reales de Twitter e Instagram. Los modelos de Google (Gemini), Meta (Llama), Alibaba (Qwen) y DeepSeek enfrentaron tres ataques: conversaciones previas tóxicas en la memoria, prompts de planificación y ajuste fino con conversaciones de acoso."
+        },
+        {
+          "t": "p",
+          "x": "Tras el ajuste fino, un modelo acosó en cerca del 96% de las conversaciones y se negó en torno al 1% de las veces; el ajuste fino con unas 200 conversaciones aún produjo cerca de un 97% de acoso. Gemini acosó en el 39% de las conversaciones de referencia, cifra que superó el 99% con memoria tóxica, y Qwen superó el 92% incluso en la referencia. En varios modelos la hostilidad aumentó a lo largo de los intercambios. \"No se mantiene igual. Aumenta con el tiempo\", dijo el coautor Ugur Kursuncu."
+        },
+        {
+          "t": "p",
+          "x": "El artículo \"Echoes of Human Malice in Agents\", de Trilok Padhi et al., fue aceptado en la AAAI Conference on Web and Social Media (ICWSM)."
+        }
+      ]
+    },
+    "science/science-tokamak-density-collisionality": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El umbral en el que aparecen las inestabilidades del plasma que limitan la densidad en los reactores de fusión tokamak no se comprende bien. Aquí presentamos la primera evidencia empírica a gran escala de un umbral de colisionalidad común presente en múltiples dispositivos y regímenes de confinamiento. Un análisis guiado por aprendizaje automático de una base de datos experimental diversa identifica un escalamiento en la colisionalidad efectiva de borde (ν*) que se asemeja al ampliamente utilizado límite de Greenwald, pero con una tasa de falsos positivos sustancialmente menor. Este umbral disminuye con la presión adimensional (β), en consonancia con las expectativas teóricas de un transporte reforzado por efectos electromagnéticos sobre la turbulencia de modos de balonamiento resistivos. Estos resultados sugieren que futuros dispositivos de plasma en combustión como ITER y ARC podrían alcanzar una densidad, y por tanto una potencia de fusión, mayor de lo esperado."
+        },
+        {
+          "t": "p",
+          "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, en nombre de los equipos de Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV y EUROfusion Tokamak Exploitation y de JET Contributors. Aceptado para su publicación en Physical Review Letters."
+        }
+      ]
+    },
+    "science/science-llm-advice-donations": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cada vez más personas piden consejo a chatbots de AI, pero los grandes modelos de lenguaje (LLMs) son aduladores, demasiado confiados y pueden amplificar los sesgos cognitivos humanos. En este artículo investigamos cómo percibe la gente los consejos de humanos frente a los de LLMs y si el consejo de una AI modifica decisiones de donación compatibles con incentivos. Con Carrier, una nueva plataforma experimental, diseñamos un experimento en el que los participantes tomaban una decisión de donación tras discutirla con un asesor chatbot de AI, con otra persona o sin recibir consejo. Los participantes juzgaron a los asesores LLM significativamente más racionales, fiables, convincentes y aduladores que a los asesores humanos. El análisis de los registros de chat mostró que los LLMs se implicaban más que los asesores humanos: compartían más datos y con más frecuencia daban su opinión y justificaban sus recomendaciones. Pese a ello, las decisiones de donación no variaron entre condiciones."
+        },
+        {
+          "t": "p",
+          "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+        }
+      ]
+    },
+    "science/science-tess-amateur-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+          "cap": "Las herramientas de inteligencia artificial ayudan a científicos ciudadanos a encontrar exoplanetas no descubiertos (ilustración artística). Credit: Hypersphere/SPL"
+        },
+        {
+          "t": "p",
+          "x": "En septiembre, Pavel Rabtsevich, especialista en AI en España sin formación académica en astronomía, pidió a un modelo de AI que descubriera un planeta. En unas dos semanas, el modelo entregó dos posibles planetas que orbitan una estrella situada a 116 años luz de la Tierra."
+        },
+        {
+          "t": "p",
+          "x": "Recurrió a Claude Code para cribar datos de más de 120,000 estrellas observadas por TESS de NASA a finales de 2025 y principios de 2026, con un algoritmo popular de detección de planetas que busca caídas de brillo. Claude se centró en TIC 4206066, que mostraba dos ciclos de atenuación, aproximadamente cada 3 días y cada 11 días. Los datos de archivo de TESS de 2018 y 2020 registraban el mismo patrón, y Claude ejecutó un algoritmo público escrito por Michelle Kunimoto para validar las señales."
+        },
+        {
+          "t": "p",
+          "x": "Rabtsevich publicó un preprint en Zenodo el 25 de septiembre. No ha pasado revisión por pares, pero astrónomos de TESS analizaron las señales de forma independiente y las añadieron a su lista oficial de candidatos a planeta."
+        },
+        {
+          "t": "p",
+          "x": "Kunimoto, investigadora de exoplanetas en la University of British Columbia, advierte que algunos aficionados no pueden validar los hallazgos de los modelos: “Ha habido un aumento enorme y abrumador de artículos AI-driven, que suelen tener candidatos [a planeta] que no son de la mejor calidad.”"
+        }
+      ]
     }
   }
 }

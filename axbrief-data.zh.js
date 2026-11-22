@@ -6,50 +6,36 @@
     "label": "Design",
     "news": [
       {
-        "id": "figma-specs-agent-plan",
+        "id": "gemini-mac-computer-use",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Figma Blog",
-        "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
-        "accent": "#0070f3",
+        "tool": "AI Workflow",
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+        "accent": "#ff5a4d",
         "motif": "frame",
-        "image": "pipeline/media/figma-specs-agent-plan.jpg",
-        "headline": "Figma Specs\n将上下文变为计划",
-        "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
-        "mini_headline": "Figma Specs为智能体供料",
+        "image": "pipeline/media/gemini-mac-computer-use.png",
+        "headline": "Gemini在后台窗口\n接管Mac应用",
+        "body": "Gemini for Mac可在独立后台窗口中操作应用、文件和网站，用户可继续工作。",
+        "mini_headline": "Gemini替你操作Mac应用",
         "full": {
-          "mode": "summary",
+          "mode": "full",
           "blocks": [
             {
               "t": "img",
-              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
             },
             {
               "t": "p",
-              "x": "如今团队从原型走向生产的速度前所未有，书面需求、设计细节和工程指导常常散落在不同的文档和链接里。Specs在画布上提供了一个共享的上下文容器，团队成员和智能体可以一起补充内容。在这个工作流中，虚构的集市购物应用Pickup的一名工程师用Specs和Figma智能体，把繁杂的上下文整理成编码智能体可以据此构建的计划。"
+              "x": "Google现在让Gemini在后台处理Mac上的任务。Gemini Mac应用中的新功能“Computer Use”可跨本地文件、桌面应用和网站完成多步骤任务。Google表示，用户只需描述目标，Gemini便会点击、输入，并在菜单和表单间操作。一切都在带有实时聊天预览的独立后台窗口中运行，屏幕和光标保持空闲，用户可不受打扰地继续工作。"
             },
             {
               "t": "p",
-              "x": "添加Hex连接器后，工程师让智能体找出Pickup使用量最高的地方。智能体生成了一份按城市列出应用使用量和订单量的规格，并附上展示前四个城市地图的代码图层。团队决定在Bengaluru, India（印度班加罗尔）上线。"
-            },
-            {
-              "t": "img",
-              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-              "cap": "Figma智能体生成使用情况报告和四个地图代码图层，帮助团队比较潜在的上线城市。"
+              "x": "用户可选择Gemini能访问哪些应用，实时查看每一步，随时暂停，并提前批准关键操作。Google举的例子包括批量编辑照片和3D场景、根据本地PDFs填写配送表单，以及制作演示文稿。"
             },
             {
               "t": "p",
-              "x": "工程师选中技术规格、带注释的设计画框、交互式地图代码图层、新组件和设计系统指南，然后运行团队的build-implementation-plan技能。智能体创建一份新规格，把这些输入整合成供编码智能体构建该功能的计划。"
-            },
-            {
-              "t": "img",
-              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-              "cap": "智能体生成一份含实施计划的规格，供工程师在交给编码智能体之前审阅。"
-            },
-            {
-              "t": "p",
-              "x": "在评论中与智能体和一位设计师敲定细节后，工程师把规格链接粘贴到Codex并输入提示：“实现这个功能（Implement this feature.）”。借助Figma的MCP，Codex只需一个链接就能读取规格、带注释的画框、代码图层和设计系统组件。Specs已在所有方案中开放公测，可在网页、桌面和移动端使用。"
+              "x": "Computer Use今天起在美国（US）以英语推出，Gemini Mac应用已开放下载。OpenAI最近也在发力Computer Use，凭借其Astra模型大幅领先。"
             }
           ]
         },
@@ -58,162 +44,75 @@
         "hasFull": true
       },
       {
-        "id": "claude-mobile-tabbar",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/claude-mobile-tabbar.jpg",
-        "headline": "Claude移动应用\n改用底部标签栏",
-        "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
-        "mini_headline": "Claude启用标签栏",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "ava-studio-launch-videos",
-        "source_lang": "ko",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "source": "Design Compass (디자인 나침반)",
-        "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
-        "accent": "#eb367f",
-        "motif": "frame",
-        "video": "pipeline/media/ava-studio-launch-videos.mp4",
-        "poster": "pipeline/media/ava-studio-launch-videos.jpg",
-        "image": "pipeline/media/ava-studio-launch-videos.jpg",
-        "headline": "Ava把热门发布视频\n剪辑搬到你的画面",
-        "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
-        "mini_headline": "重现发布视频剪辑",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "xjet-atelier-jewelry",
+        "id": "siemens-agibot-gripper-agent",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Text-to-CAD",
-        "source": "VoxelMatters",
-        "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
+        "source": "3D Printing Industry",
+        "url": "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/xjet-atelier-jewelry.jpg",
-        "headline": "XJet Atelier\n把提示词变成金属吊坠",
-        "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
-        "mini_headline": "XJet按提示打印首饰",
+        "image": "pipeline/media/siemens-agibot-gripper-agent.jpg",
+        "headline": "Siemens智能体\n凭文字设计机器人夹爪",
+        "body": "Siemens AI智能体把文字提示变成经验证、可3D打印的AGIBOT夹爪。",
+        "mini_headline": "文字提示直达机器人夹爪",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "artificial-poster-aislop",
+        "id": "gemini-omni-gif-maker",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "KeyShot",
+        "source": "Digital Trends",
+        "url": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/gemini-omni-gif-maker.jpg",
+        "headline": "Gemini可将提示词\n和照片做成GIFs",
+        "body": "Gemini用Omni 1.2 Flash把提示词、照片和视频变成循环GIFs，八国免费。",
+        "mini_headline": "Gemini也能自己做GIFs了",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "webflow-mcp-designer-flow",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Figma",
-        "source": "Creative Bloq",
-        "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
-        "accent": "#3b6bff",
+        "source": "UX Planet",
+        "url": "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6",
+        "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/artificial-poster-aislop.jpg",
-        "headline": "《Artificial》海报\n故意模仿AI slop",
-        "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
-        "mini_headline": "故意模仿AI slop的海报",
+        "image": "pipeline/media/webflow-mcp-designer-flow.jpg",
+        "headline": "借助Webflow MCP\n省去Figma重建",
+        "body": "设计师用Webflow MCP上的智能体取代了Figma-to-Webflow手工重建。",
+        "mini_headline": "经MCP从Figma到Webflow",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "comsol-2026-mcp-server",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Text-to-CAD",
+        "source": "Engineering.com",
+        "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+        "accent": "#3b6bff",
+        "motif": "cube",
+        "image": "pipeline/media/comsol-2026-mcp-server.jpg",
+        "headline": "Comsol经MCP\n向AI智能体开放仿真",
+        "body": "新版Comsol新增MCP服务器，让AI智能体可构建仿真模型、流程和方程。",
+        "mini_headline": "Comsol新增MCP服务器",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "claude-canvas-html",
-            "eyebrow": "AI NEWS",
-            "tool": "KeyShot",
-            "source": "The Decoder",
-            "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/claude-canvas-html.jpg",
-            "source_lang": "en",
-            "headline": "Claude 把 HTML 放进画布",
-            "body": "Claude现在能在复杂的画布图形和3D 效果中放入真实文本、按钮等网页元素。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "lovable-drafts-parallel",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "source": "Lovable",
-            "url": "https://lovable.dev/blog/introducing-drafts",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/lovable-drafts-parallel.jpg",
-            "source_lang": "en",
-            "headline": "Lovable 推出 Drafts",
-            "body": "借助Lovable Drafts，团队可在线上应用不变的情况下并行探索项目的不同版本。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "astryx-v0-skill",
-            "eyebrow": "AI NEWS",
-            "tool": "Design Tokens",
-            "source": "Astryx (Meta)",
-            "url": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
-            "accent": "#2ec5c5",
-            "motif": "swatch",
-            "image": "pipeline/media/astryx-v0-skill.png",
-            "source_lang": "en",
-            "headline": "Astryx 登陆 v0",
-            "body": "Astryx现已作为设计系统技能进入v0，在每次构建中提供组件、示例和模板。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gemini-notebook-sites",
-            "eyebrow": "AI NEWS",
-            "tool": "AI Workflow",
-            "source": "Google",
-            "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
-            "accent": "#ff5a4d",
-            "motif": "frame",
-            "image": "pipeline/media/gemini-notebook-sites.jpg",
-            "source_lang": "en",
-            "headline": "Gemini Notebook 可建网站",
-            "body": "Gemini Notebook现在能把研究和资料变成项目追踪器、可视化仪表板等互动网站。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "onepassword-figma-make",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "source": "Figma Blog",
-            "url": "https://www.figma.com/blog/1password-figma-make/",
-            "accent": "#eb367f",
-            "motif": "frame",
-            "image": "pipeline/media/onepassword-figma-make.png",
-            "source_lang": "en",
-            "headline": "1Password 用 Make 设计",
-            "body": "1Password设计团队用Figma Make打造从自动填充到AI代理审批的可信体验。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -553,6 +452,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "figma-specs-agent-plan",
+            "eyebrow": "AI NEWS",
+            "tool": "Figma",
+            "source": "Figma Blog",
+            "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/figma-specs-agent-plan.jpg",
+            "source_lang": "en",
+            "headline": "Figma Specs为智能体供料",
+            "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "claude-mobile-tabbar",
+            "eyebrow": "AI NEWS",
+            "tool": "AI Workflow",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
+            "accent": "#ff5a4d",
+            "motif": "frame",
+            "image": "pipeline/media/claude-mobile-tabbar.jpg",
+            "source_lang": "en",
+            "headline": "Claude启用标签栏",
+            "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "ava-studio-launch-videos",
+            "eyebrow": "AI NEWS",
+            "tool": "AI Workflow",
+            "source": "Design Compass (디자인 나침반)",
+            "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
+            "accent": "#eb367f",
+            "motif": "frame",
+            "image": "pipeline/media/ava-studio-launch-videos.jpg",
+            "source_lang": "ko",
+            "headline": "重现发布视频剪辑",
+            "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "xjet-atelier-jewelry",
+            "eyebrow": "AI NEWS",
+            "tool": "Text-to-CAD",
+            "source": "VoxelMatters",
+            "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/xjet-atelier-jewelry.jpg",
+            "source_lang": "en",
+            "headline": "XJet按提示打印首饰",
+            "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "artificial-poster-aislop",
+            "eyebrow": "AI NEWS",
+            "tool": "Figma",
+            "source": "Creative Bloq",
+            "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
+            "accent": "#3b6bff",
+            "motif": "frame",
+            "image": "pipeline/media/artificial-poster-aislop.jpg",
+            "source_lang": "en",
+            "headline": "故意模仿AI slop的海报",
+            "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -561,41 +545,41 @@
     "label": "Marketing",
     "news": [
       {
-        "id": "google-ucp-grocery-carts-gemini",
+        "id": "amazon-brandstore-agent",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "PPC Land",
-        "url": "https://ppc.land/google-puts-target-and-albertsons-grocery-carts-inside-search-and-gemini/",
+        "url": "https://ppc.land/amazon-routes-new-brand-store-pages-through-an-ai-agent-first/",
         "accent": "#ff8a3d",
         "motif": "frame",
-        "image": "pipeline/media/google-ucp-grocery-carts-gemini.jpg",
-        "headline": "Google把购物车放进\nSearch和Gemini里",
-        "body": "US版Search和Gemini应用可直接填好Target与Albertsons购物车。",
-        "mini_headline": "Gemini帮你填满购物车",
+        "image": "pipeline/media/amazon-brandstore-agent.jpg",
+        "headline": "Amazon Brand\nStore首页交给AI",
+        "body": "Amazon Brand Store新页面现在以AI智能体开场，附六个起始提示。",
+        "mini_headline": "Amazon Brand Stores转向agent-first",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
-              "cap": "Google为US购物者把Target和Albertsons购物车放进Search与Gemini"
+              "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+              "cap": "Amazon在新的Brand Store页面前放置了一个带6个起始提示的AI智能体。"
             },
             {
               "t": "p",
-              "x": "Google开始面向US用户，在Search和Gemini应用中推出Albertsons、Safeway、Shaw's和Target的Connected Apps。这些应用可根据对话生成生鲜杂货订单并转到结账环节，运行在Google的Universal Commerce Protocol之上。"
+              "x": "在Amazon的Store builder中点击Add page，现在会打开一个带有Brand Store Builder Agent的新窗口。品牌可从6个预设提示中选择，也可自行撰写指令；Brand Registry状态必须为“Approved”。"
             },
             {
               "t": "p",
-              "x": "同一篇11月20日的文章称，Experian的信用工具将从Gemini移至Search，H&R Block可在Search中估算税款和退税，未来几周内Angi和Thumbtack账户也可在Search中关联。"
+              "x": "用户可以用任何语言对话，但Store内容会以该站点的主要语言生成——用法语对话搭建U.S. Store，产出的是英文。Amazon的帮助页面没有说明智能体是否会对照Stores内容政策检查其输出。"
             },
             {
               "t": "p",
-              "x": "Google的示例显示，在AI Mode中生成的一笔Target订单包含八件商品，小计$37.49。示例止步于购物车，未展示付款、替换商品或取货时间安排。"
+              "x": "品牌可通过“Add page without AI Assistance”链接跳过智能体，改用手动模板：Marquee、Product highlight、Product grid（4至60个产品）和Blank。一个页面最多可容纳20个版块。审核“通常在24小时内完成”，但最长可能延至3个工作日。"
             },
             {
               "t": "p",
-              "x": "Google尚未说明商品如何排序、由谁处理付款，以及这些流程中是否会出现广告。名单中没有Walmart。"
+              "x": "此外，Classic、Elegant和Impact主题默认开启All Deals标签页：它最多展示30个有优惠的产品，由Amazon挑选和排序，Amazon会“为你创建并更新All Deals页面”。品牌可在Store Settings中关闭该标签页，或替换为自己的优惠页面。"
             }
           ]
         },
@@ -604,160 +588,77 @@
         "hasFull": true
       },
       {
-        "id": "verve-amazon-ai-answer-share",
+        "id": "aws-quick-meta-ads-mcp",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "AWS Machine Learning Blog",
+        "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "video": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
+        "poster": "pipeline/media/aws-quick-meta-ads-mcp.jpg",
+        "image": "pipeline/media/aws-quick-meta-ads-mcp.jpg",
+        "headline": "Meta广告经MCP\n进入AWS Quick",
+        "body": "AWS Quick接入Meta广告MCP服务器，广告主可用自然语言运营和分析广告活动。",
+        "mini_headline": "Meta广告登陆AWS Quick",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "google-aimode-multiturn-ads",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "PPC Land",
-        "url": "https://ppc.land/amazon-draws-24-of-retailer-searches-but-11-of-ai-shopping-answers/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/verve-amazon-ai-answer-share.jpg",
-        "headline": "Amazon占搜索24%\nAI回答仅占11%",
-        "body": "Verve数据显示，Amazon占US零售商搜索的24%，但AI购物回答中仅占11%。",
-        "mini_headline": "Amazon在AI回答中落后",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "oliveyoung-define-omni-agentic",
-        "source_lang": "ko",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202611198597i",
-        "accent": "#f5a623",
-        "motif": "frame",
-        "image": "pipeline/media/oliveyoung-define-omni-agentic.jpg",
-        "headline": "Olive Young用AI\n打通从搜索到购物车",
-        "body": "Olive Young在首届技术大会上公布了由AI协助搭配购物车的购物构想。",
-        "mini_headline": "Olive Young的AI购物构想",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "walmart-connect-agentic-ads",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Marketing Dive",
-        "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+        "url": "https://ppc.land/google-ai-mode-ads-appear-as-deep-as-the-fourth-follow-up-question/",
         "accent": "#7928ca",
         "motif": "frame",
-        "image": "pipeline/media/walmart-connect-agentic-ads.jpg",
-        "headline": "Walmart思考广告如何\n融入代理购物时代",
-        "body": "Walmart在Q3电话会上称，用户向Sparky等AI代理提问的方式已不同。",
-        "mini_headline": "Walmart思考代理时代的广告",
+        "image": "pipeline/media/google-aimode-multiturn-ads.jpg",
+        "headline": "Google AI Mode\n广告深入追问环节",
+        "body": "AI Mode广告可在对话多轮后出现，US广告主既不能退出也拿不到分轮报告。",
+        "mini_headline": "AI Mode广告走向multi-turn",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "openai-business-hub-terms-rewrite",
+        "id": "bitmovin-gam-scene-signals",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "Digiday",
-        "url": "https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/",
+        "source": "Content + Technology",
+        "url": "https://content-technology.com/content-delivery/bitmovin-ai-brings-scene-level-ad-signals-to-google-ad-manager/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/openai-business-hub-terms-rewrite.jpg",
-        "headline": "OpenAI改ChatGPT\nBusiness Hub条款",
-        "body": "OpenAI因初版或限制企业索赔，修订ChatGPT Business Hub条款。",
-        "mini_headline": "OpenAI修订Hub条款",
+        "image": "pipeline/media/bitmovin-gam-scene-signals.jpg",
+        "headline": "Bitmovin把场景级AI\n信号送入GAM",
+        "body": "Bitmovin将视频场景语境送入Google Ad Manager的广告决策。",
+        "mini_headline": "Bitmovin为GAM带来场景信号",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "agentic-black-friday-rocky",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers",
+        "accent": "#eb367f",
+        "motif": "frame",
+        "image": "pipeline/media/agentic-black-friday-rocky.jpg",
+        "headline": "首个Black Friday\n智能体购物开局不顺",
+        "body": "过期商品、Amazon和eBay的封锁以及低信任度，拖慢了AI购物智能体的节日首秀。",
+        "mini_headline": "智能体Black Friday出师不利",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "admob-ask-gemini-agent",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "Google Blog",
-            "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
-            "accent": "#ff8a3d",
-            "motif": "frame",
-            "image": "pipeline/media/admob-ask-gemini-agent.jpg",
-            "source_lang": "en",
-            "headline": "AdMob的Gemini智能体",
-            "body": "Ask AdMob可发现设置错误和底价差异，并参照同行基准推荐SDK竞价方。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "google-aimode-hotel-booking",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "PPC Land",
-            "url": "https://ppc.land/google-steers-holiday-hotel-dinner-and-ticket-bookings-into-ai-mode/",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/google-aimode-hotel-booking.jpg",
-            "source_lang": "en",
-            "headline": "AI Mode可订酒店",
-            "body": "在US，可在AI Mode内用Google Pay订酒店，由合作方担任记录商户。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "jcrew-style-advisor-anthropic",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "Retail Dive",
-            "url": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
-            "accent": "#7928ca",
-            "motif": "frame",
-            "image": "pipeline/media/jcrew-style-advisor-anthropic.jpg",
-            "source_lang": "en",
-            "headline": "J. Crew的AI造型师",
-            "body": "J. Crew与Anthropic合作的Style Advisor推荐整套搭配，而非单品。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "bustle-profound-ai-visibility",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "Digiday",
-            "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/",
-            "accent": "#2ec5c5",
-            "motif": "frame",
-            "image": "pipeline/media/bustle-profound-ai-visibility.jpg",
-            "source_lang": "en",
-            "headline": "Bustle出售AI可见度",
-            "body": "Bustle借助Profound，帮Pampers和Innisfree提升AI曝光。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "tone-belfort-ai-sales-voice",
-            "eyebrow": "AI NEWS",
-            "tool": "Marketing",
-            "source": "TechCrunch",
-            "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-            "accent": "#eb367f",
-            "motif": "frame",
-            "image": "pipeline/media/tone-belfort-ai-sales-voice.jpg",
-            "source_lang": "en",
-            "headline": "Belfort的AI销售语音",
-            "body": "Jordan Belfort称，Tone的AI销售语音代理逐通电话来看仍不及顶尖销售。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -1097,6 +998,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "google-ucp-grocery-carts-gemini",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "PPC Land",
+            "url": "https://ppc.land/google-puts-target-and-albertsons-grocery-carts-inside-search-and-gemini/",
+            "accent": "#ff8a3d",
+            "motif": "frame",
+            "image": "pipeline/media/google-ucp-grocery-carts-gemini.jpg",
+            "source_lang": "en",
+            "headline": "Gemini帮你填满购物车",
+            "body": "US版Search和Gemini应用可直接填好Target与Albertsons购物车。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "verve-amazon-ai-answer-share",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "PPC Land",
+            "url": "https://ppc.land/amazon-draws-24-of-retailer-searches-but-11-of-ai-shopping-answers/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/verve-amazon-ai-answer-share.jpg",
+            "source_lang": "en",
+            "headline": "Amazon在AI回答中落后",
+            "body": "Verve数据显示，Amazon占US零售商搜索的24%，但AI购物回答中仅占11%。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "oliveyoung-define-omni-agentic",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "한국경제",
+            "url": "https://www.hankyung.com/article/202611198597i",
+            "accent": "#f5a623",
+            "motif": "frame",
+            "image": "pipeline/media/oliveyoung-define-omni-agentic.jpg",
+            "source_lang": "ko",
+            "headline": "Olive Young的AI购物构想",
+            "body": "Olive Young在首届技术大会上公布了由AI协助搭配购物车的购物构想。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "walmart-connect-agentic-ads",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "Marketing Dive",
+            "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+            "accent": "#7928ca",
+            "motif": "frame",
+            "image": "pipeline/media/walmart-connect-agentic-ads.jpg",
+            "source_lang": "en",
+            "headline": "Walmart思考代理时代的广告",
+            "body": "Walmart在Q3电话会上称，用户向Sparky等AI代理提问的方式已不同。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "openai-business-hub-terms-rewrite",
+            "eyebrow": "AI NEWS",
+            "tool": "Marketing",
+            "source": "Digiday",
+            "url": "https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/",
+            "accent": "#2ec5c5",
+            "motif": "frame",
+            "image": "pipeline/media/openai-business-hub-terms-rewrite.jpg",
+            "source_lang": "en",
+            "headline": "OpenAI修订Hub条款",
+            "body": "OpenAI因初版或限制企业索赔，修订ChatGPT Business Hub条款。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -1105,37 +1091,44 @@
     "label": "Music",
     "news": [
       {
-        "id": "music-instagram-content-protection",
+        "id": "travis-tritt-ai-deepfake-clip",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "Music Ally",
-        "url": "https://musically.com/2026/11/20/instagram-launches-content-protection-tool-for-unauthorised-reposts-and-ai-modification/",
-        "accent": "#ff2d55",
+        "source": "American Songwriter",
+        "url": "https://americansongwriter.com/travis-tritt-slams-obviously-fake-ai-video-that-appeared-to-show-him-criticizing-taylor-swift-at-the-cmas/",
+        "accent": "#0070f3",
         "motif": "sphere",
-        "image": "pipeline/media/music-instagram-content-protection.png",
-        "headline": "Instagram标记转发\n与AI-modified视频",
-        "body": "Instagram内容保护可识别Reels遭擅自转发，并扩展至AI-modified副本。",
-        "mini_headline": "Instagram标记AI-modified Reels",
+        "image": "pipeline/media/travis-tritt-ai-deepfake-clip.jpg",
+        "headline": "Travis Tritt\n否认Swift相关AI视频",
+        "body": "Tritt称，一段抨击CMAs聚焦Taylor Swift的热传视频系AI-made伪造。",
+        "mini_headline": "Tritt否认AI伪造视频",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-              "cap": "Iphone上的Instagram“内容保护”（content protection）截图"
+              "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
             },
             {
               "t": "p",
-              "x": "Instagram正在推出“内容保护”（content protection）功能，这是Meta去年在Facebook上推出的工具。它能识别账号的原创Reels在未经许可的情况下被其他用户转发。Instagram还将其扩展到AI-generated内容。"
+              "x": "Travis Tritt出面澄清。一段看似这位歌手抨击近期CMA Awards过度聚焦Taylor Swift的视频走红后，Tritt在X上发文坚称，视频中的人并不是他，而是AI生成的。"
             },
             {
               "t": "p",
-              "x": "该工具会在Instagram上搜索已登记账号的Reels副本，发现匹配内容时发送提醒。所有者随后可以在Instagram和Facebook上屏蔽副本，或添加“original by”标签，引导观众回到原作。他们也可以保留副本并追踪其表现，或放弃权利主张。账号登记后，新上传内容会自动纳入保护，旧的Reels可以手动添加。"
+              "x": "“最近任何声称我在评论最新一届CMA Awards颁奖礼的视频，显然都是假的，是用AI制作的，”他写道。“请完全无视。”"
             },
             {
               "t": "p",
-              "x": "文章其余内容仅向Music Ally账号持有者开放。"
+              "x": "在这段疑似伪造的视频中，看似Tritt的人物痛斥“运营CMA的白痴们”只关注Swift，而忽视了在颁奖礼上获奖数创纪录的Ella Langley。视频还提到Sammy Kershaw起初被拒于红毯之外一事。"
+            },
+            {
+              "t": "p",
+              "x": "这并非Tritt首次就AI发声。在October 2025的一篇帖子中，他谈到“冒充包括我在内的公众人物的AI-generated内容正令人担忧地增多”，并警告说“AI技术让恶意行为者比以往任何时候都更容易逼真地模拟他人的声音、面孔和举动”。"
+            },
+            {
+              "t": "p",
+              "x": "“如果不是来自我的官方渠道或可信来源，那就不是真正的我，”他写道。"
             }
           ]
         },
@@ -1144,159 +1137,77 @@
         "hasFull": true
       },
       {
-        "id": "mooer-future-flex-modeler",
+        "id": "not-ais-to-take-electorate-poll",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "Guitar World",
-        "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex",
-        "accent": "#0070f3",
-        "motif": "sphere",
-        "image": "pipeline/media/mooer-future-flex-modeler.jpg",
-        "headline": "Mooer AI一体机\nFuture Flex登场",
-        "body": "Future Flex配备55种放大器模型、69种效果、AI音色助手和NAM A2兼容。",
-        "mini_headline": "Mooer的AI放大器模拟器",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "hive-ai-ticket-assistants",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Music",
-        "source": "Hypebot",
-        "url": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/",
+        "source": "The Music Network",
+        "url": "https://themusicnetwork.com/news/ai-copyright-changes-electorates-new-poll",
         "accent": "#f5a623",
         "motif": "sphere",
-        "image": "pipeline/media/hive-ai-ticket-assistants.png",
-        "headline": "Hive推出AI助手\n自动起草售票营销",
-        "body": "Hive新推出的AI助手可自动起草邮件和SMS营销活动，让场馆和主办方专注策略。",
-        "mini_headline": "Hive AI起草售票推广",
+        "image": "pipeline/media/not-ais-to-take-electorate-poll.png",
+        "headline": "澳洲民调：AI版权议题\n牵动21个关键选区",
+        "body": "针对21个联邦选区1,464名选民的民调显示，多数人反对无偿用创作内容训练AI。",
+        "mini_headline": "AI版权民调涉21个选区",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "kimhaon-ai-noah-sbs",
+        "id": "jang-hanbyeol-ai-hit-cover",
         "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "Newsis",
-        "url": "https://www.newsis.com/view/NISX20261120_0003877136",
+        "source": "Sports Kyunghyang",
+        "url": "https://sports.khan.co.kr/article/202611230635003/",
         "accent": "#7928ca",
         "motif": "sphere",
-        "headline": "酷似金夏温的AI诺亚\n与本尊展开说唱对决",
-        "body": "学习金夏温的AI“诺亚”22日将在SBS纪录片中与他展开说唱对决。",
-        "mini_headline": "金夏温 vs AI诺亚",
+        "image": "pipeline/media/jang-hanbyeol-ai-hit-cover.jpg",
+        "headline": "Jang Han-byeol\n翻唱AI的Melon第1名曲",
+        "body": "Jang Han-byeol翻唱AI歌手的Melon第1名歌曲，三天播放量达47万。",
+        "mini_headline": "Jang Han-byeol翻唱AI冠军曲",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "harmonic-circuit-chord-arxiv",
+        "id": "bellamy-ai-guitar-tone",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "arXiv",
-        "url": "https://arxiv.org/abs/2611.24453v1",
+        "source": "Consequence",
+        "url": "https://consequence.net/2026/11/muse-matt-bellamy-ai-guitar/",
         "accent": "#2ec5c5",
         "motif": "sphere",
-        "image": "pipeline/media/harmonic-circuit-chord-arxiv.png",
-        "headline": "和弦进行源自\n模型中的稀疏回路",
-        "body": "研究人员在符号音乐模型中找到一个驱动和弦进行预测的稀疏回路。",
-        "mini_headline": "音乐AI中的和弦回路",
+        "image": "pipeline/media/bellamy-ai-guitar-tone.jpg",
+        "headline": "Matt Bellamy\n想要能对话调音色的吉他",
+        "body": "Muse的Bellamy对Guitar.com说，想要能用语音设定音色的AI吉他。",
+        "mini_headline": "Bellamy想要AI吉他",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "fstoppers-suno-youtube-switch",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Music",
+        "source": "Fstoppers",
+        "url": "https://fstoppers.com/artificial-intelligence/copyright-trolls-pushed-me-ai-music-and-its-incredible-905613",
+        "accent": "#ff2d55",
+        "motif": "sphere",
+        "video": "pipeline/media/fstoppers-suno-youtube-switch.mp4",
+        "poster": "pipeline/media/fstoppers-suno-youtube-switch.jpg",
+        "image": "pipeline/media/fstoppers-suno-youtube-switch.jpg",
+        "headline": "版权申诉不断\nYouTuber改用Suno",
+        "body": "授权曲库音乐屡遭版权申诉后，一位YouTuber改用Suno，并称声音更好。",
+        "mini_headline": "YouTuber弃曲库改用Suno",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "aria-ppca-notaistotake",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Australasian Leisure Management",
-            "url": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
-            "accent": "#ff2d55",
-            "motif": "sphere",
-            "image": "pipeline/media/aria-ppca-notaistotake.jpg",
-            "source_lang": "en",
-            "headline": "澳大利亚“同意优先”AI行动",
-            "body": "ARIA与PPCA敦促Canberra拒绝选择退出式数据挖掘例外，要求AI公司先征得同意。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "elvis-suno-amended-suit",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Digital Music News",
-            "url": "https://www.digitalmusicnews.com/2026/11/16/elvis-presley-enterprises-amended-suno-lawsuit/",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/elvis-suno-amended-suit.jpg",
-            "source_lang": "en",
-            "headline": "Elvis遗产方扩大对Suno诉讼",
-            "body": "Elvis Presley Enterprises等方扩大了对Suno的版权与肖像权诉讼。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "difro-melody-v25-plugin",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "KVR Audio",
-            "url": "https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v2-5-with-audio-to-midi-and-vst3-au-plugin-69842",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/difro-melody-v25-plugin.jpg",
-            "source_lang": "en",
-            "headline": "Difro 2.5新增本地MIDI转换",
-            "body": "2.5版可在本地将最多16小节的旋律循环转为MIDI，并以VST3/AU插件与DAW同步。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "kanye-bully-grammy-ai",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Pitchfork",
-            "url": "https://pitchfork.com/story/kanye-wests-bully-up-for-best-rap-album-grammy/",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/kanye-bully-grammy-ai.jpg",
-            "source_lang": "en",
-            "headline": "Bully获Grammy提名",
-            "body": "尽管AI使用传闻广泛，Bully仍获2027年Grammy最佳说唱专辑提名。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "bridgwater-carnival-ai-music",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "BBC News",
-            "url": "https://www.bbc.com/news/articles/cqvgrg262pp5o",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/bridgwater-carnival-ai-music.jpg",
-            "source_lang": "en",
-            "headline": "AI音乐令嘉年华意见分歧",
-            "body": "Bridgwater Carnival部分俱乐部为彩车配上AI音乐，主办方称引发意见分歧。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -1634,6 +1545,90 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "music-instagram-content-protection",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Music Ally",
+            "url": "https://musically.com/2026/11/20/instagram-launches-content-protection-tool-for-unauthorised-reposts-and-ai-modification/",
+            "accent": "#ff2d55",
+            "motif": "sphere",
+            "image": "pipeline/media/music-instagram-content-protection.png",
+            "source_lang": "en",
+            "headline": "Instagram标记AI-modified Reels",
+            "body": "Instagram内容保护可识别Reels遭擅自转发，并扩展至AI-modified副本。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "mooer-future-flex-modeler",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Guitar World",
+            "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/mooer-future-flex-modeler.jpg",
+            "source_lang": "en",
+            "headline": "Mooer的AI放大器模拟器",
+            "body": "Future Flex配备55种放大器模型、69种效果、AI音色助手和NAM A2兼容。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "hive-ai-ticket-assistants",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Hypebot",
+            "url": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/hive-ai-ticket-assistants.png",
+            "source_lang": "en",
+            "headline": "Hive AI起草售票推广",
+            "body": "Hive新推出的AI助手可自动起草邮件和SMS营销活动，让场馆和主办方专注策略。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "kimhaon-ai-noah-sbs",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Newsis",
+            "url": "https://www.newsis.com/view/NISX20261120_0003877136",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "source_lang": "ko",
+            "headline": "金夏温 vs AI诺亚",
+            "body": "学习金夏温的AI“诺亚”22日将在SBS纪录片中与他展开说唱对决。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "harmonic-circuit-chord-arxiv",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "arXiv",
+            "url": "https://arxiv.org/abs/2611.24453v1",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/harmonic-circuit-chord-arxiv.png",
+            "source_lang": "en",
+            "headline": "音乐AI中的和弦回路",
+            "body": "研究人员在符号音乐模型中找到一个驱动和弦进行预测的稀疏回路。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -1642,49 +1637,41 @@
     "label": "Movies",
     "news": [
       {
-        "id": "fincher-cliff-booth-ai",
+        "id": "harari-unknown-deepfake",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "Deadline",
-        "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
         "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/fincher-cliff-booth-ai.jpg",
-        "headline": "Fincher力挺生成式AI\nCliff Booth争议",
-        "body": "面对银幕上明显使用生成式AI的指责，David Fincher称它既然存在就该用。",
-        "mini_headline": "Fincher力挺生成式AI",
+        "image": "pipeline/media/harari-unknown-deepfake.jpg",
+        "headline": "Harari用深度伪造\n拍Seydoux分身戏",
+        "body": "Harari称AI是危险的滑坡，却用深度伪造工具让Léa Seydoux亲吻自己。",
+        "mini_headline": "Harari的深度伪造分身戏",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-              "cap": "在《The Further Mis-Adventures of Cliff Booth》遭到批评之际，David Fincher为片中使用Gen AI辩护。"
+              "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+              "cap": "《The Unknown》的Lea Seydoux、Arthur Harari与Niels Schneider出席Toronto International Film Festival，2026年9月14日（Gareth Cattermole/Getty Images for IMDb）"
             },
             {
               "t": "p",
-              "x": "尽管The Further Mis-Adventures of Cliff Booth充满对Hollywood往昔的怀旧，David Fincher却自称代表未来。"
+              "x": "《The Unknown》导演Arthur Harari表示，AI是一道“滑坡”，他宁愿在自己的创作中避开它——但他周日在Marrakech Film Festival上也承认，在这部由Léa Seydoux主演、讲述身体互换的心理剧、角逐Palme d’Or的作品中，他使用了深度伪造工具。"
             },
             {
               "t": "p",
-              "x": "这部由Quentin Tarantino编剧的Once Upon a Time in Hollywood（2019）续集，因银幕上疑似使用Gen AI而饱受批评；这位3次获Oscar提名的导演近日谈及了对这项快速发展技术的看法。"
+              "x": "“就我个人而言，我从未用过它；至少目前，我看不到它在我的作品中有什么位置。”Harari在与影评人Charles Tesson对谈时说。片刻后他补充道：“《The Unknown》里有一场戏，Léa Seydoux亲吻Léa Seydoux，我们不得不用深度伪造工具来完成。但背后有人。始终有人参与——可以说，是有人在编程，并让它处于掌控之中。所以，原则上我并不反对。”"
             },
             {
               "t": "p",
-              "x": "“我不是卢德分子（Luddite），所以我不惧怕未知，”Fincher对Los Angeles Times说。他补充道：“它已经存在了。难道我们不该用它吗？”"
+              "x": "作为编剧，他认为将AI工具用于简单的资料查询“完全正当，也很有意思”，但用它们“真正去构建写作过程的一部分”则是“一道非常危险的滑坡”。“一旦迈出第一步，就会变得极难不在每个环节都使用它。”"
             },
             {
               "t": "p",
-              "x": "此番言论发表之际，多名影迷在社交媒体上批评片中明显使用AI“令人震惊到荒谬的程度”，一名观众称自己“看完Cliff Booth后彻底心碎地离场”。"
-            },
-            {
-              "t": "p",
-              "x": "影片设定在1977年，即Once Upon a Time…八年之后。The Further Mis-Adventures of Cliff Booth讲述Brad Pitt饰演的同名特技替身，如今当上放映员、兼职做Hollywood“救火员”，卷入一起涉及菲律宾帮派和一座被盗Oscar奖杯的阴谋。"
-            },
-            {
-              "t": "p",
-              "x": "The Further Mis-Adventures of Cliff Booth将于感恩节在Imax首映，12月23日登陆Netflix。"
+              "x": "《The Unknown》在Cannes主竞赛单元首映，Seydoux饰演一名女子，她的一夜情对象、摄影师David（Niels Schneider）醒来后发现自己被困在她的身体里。Seydoux此前对Variety表示：“我认为没有什么能取代人性。我并不感到受威胁。”"
             }
           ]
         },
@@ -1693,160 +1680,75 @@
         "hasFull": true
       },
       {
-        "id": "caa-lourd-no-fakes-act",
-        "source_lang": "en",
+        "id": "bisff-ai-competition",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "Variety",
-        "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/",
+        "source": "인디포커스",
+        "url": "http://www.indifocus.kr/84113",
         "accent": "#f5a623",
         "motif": "frame",
-        "image": "pipeline/media/caa-lourd-no-fakes-act.jpg",
-        "headline": "CAA的Lourd呼吁国会\n通过NO FAKES法案",
-        "body": "CAA的Bryan Lourd呼吁国会通过NO FAKES Act，称其保护每个人。",
-        "mini_headline": "CAA支持NO FAKES Act",
+        "image": "pipeline/media/bisff-ai-competition.jpg",
+        "headline": "釜山国际短片电影节\n新设AI竞赛单元",
+        "body": "釜山国际短片电影节于11月9日启动第44届AI竞赛单元作品征集。",
+        "mini_headline": "釜山短片电影节AI竞赛",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "raphael-mbc-ai-feature-review",
+        "id": "dubai-ai-film-award-2nd",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "The Korea Times",
-        "url": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
+        "source": "WIRED Middle East",
+        "url": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
         "accent": "#7928ca",
         "motif": "frame",
-        "image": "pipeline/media/raphael-mbc-ai-feature-review.jpg",
-        "headline": "AI电影Raphael\n画面惊艳，故事似曾相识",
-        "body": "韩国首部all-AI长片Raphael于11月25日上映，画面逼近极限，故事却似曾相识。",
-        "mini_headline": "AI电影Raphael影评",
+        "image": "pipeline/media/dubai-ai-film-award-2nd.jpg",
+        "headline": "Dubai AI电影奖\n第二届再度开启",
+        "body": "Dubai奖金$1 million的AI Film Award迎来第二届。",
+        "mini_headline": "Dubai $1M AI电影奖回归",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "hampton-tallinn-ai-super-google",
-        "source_lang": "en",
+        "id": "siamsun-ai-shortdrama",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "The Hollywood Reporter",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060/",
+        "source": "톱셀럽뉴스",
+        "url": "https://www.topcelev.co.kr/news/articleView.html?idxno=4219",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/hampton-tallinn-ai-super-google.jpg",
-        "headline": "奥斯卡得主Hampton\n称AI只是超级Google",
-        "body": "两度获奥斯卡的Christopher Hampton在PÖFF表示，用AI写剧本是图省事。",
-        "mini_headline": "Hampton：AI是超级Google",
+        "image": "pipeline/media/siamsun-ai-shortdrama.jpg",
+        "headline": "泰国Fortal娱乐公司\n推出AI短剧应用",
+        "body": "泰国Fortal公布AI短剧应用SiamSun及AI演员开发计划。",
+        "mini_headline": "泰国AI短剧应用",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "thewrap-genz-ai-film-backlash",
-        "source_lang": "en",
+        "id": "gwangju-onair-awards",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "TheWrap",
-        "url": "https://www.thewrap.com/industry-news/tech/gen-z-hollywood-ai-opposition-films/",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/gwangju-jeonnam/6359050",
         "accent": "#eb367f",
         "motif": "frame",
-        "image": "pipeline/media/thewrap-genz-ai-film-backlash.jpg",
-        "headline": "Hollywood拥抱AI\nGen Z却在抵制",
-        "body": "片厂拥抱AI之际，惯用AI的年轻观众却明显反对电影使用AI。",
-        "mini_headline": "Gen Z抵制AI电影",
+        "image": "pipeline/media/gwangju-onair-awards.jpg",
+        "headline": "AI制作的1分钟电影\n首届ON-AIR颁奖礼",
+        "body": "光州信息文化产业振兴院放映并表彰了AI影像课程学员的1分钟电影19部。",
+        "mini_headline": "光州AI 1分钟电影颁奖",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "equity-pact-ai-offer",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Deadline",
-            "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/equity-pact-ai-offer.jpg",
-            "source_lang": "en",
-            "headline": "Equity支持AI-term方案",
-            "body": "Equity建议8,000名会员接受Pact的2027-2029年UK影视方案，含AI条款。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "cnc-ai-dubbing-funding",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Slator",
-            "url": "https://slator.com/france-stops-ai-dubbing-subtitling-funding/",
-            "accent": "#f5a623",
-            "motif": "frame",
-            "image": "pipeline/media/cnc-ai-dubbing-funding.png",
-            "source_lang": "en",
-            "headline": "法国限制AI配音资助",
-            "body": "自11月1日起，CNC的配音、字幕和口述影像资助仅限人类作者与表演者。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "hpa-net-ai-second-unit",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "postPerspective",
-            "url": "https://postperspective.com/hpa-net-roundtable-ai-as-a-second-unit/",
-            "accent": "#7928ca",
-            "motif": "frame",
-            "image": "pipeline/media/hpa-net-ai-second-unit.jpg",
-            "source_lang": "en",
-            "headline": "AI作为第二摄制组",
-            "body": "在HPA十月NET圆桌会议上，后期主管们一致认为重拍才是AI镜头的真正成本。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "resolve-ai-assistant-editing",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "postPerspective",
-            "url": "https://postperspective.com/virtual-content-creator-roundtable/",
-            "accent": "#2ec5c5",
-            "motif": "frame",
-            "image": "pipeline/media/resolve-ai-assistant-editing.jpg",
-            "source_lang": "en",
-            "headline": "Resolve向AI智能体开放",
-            "body": "Blackmagic称Resolve新功能可让Claude等AI助手剪辑集锦、删除片段。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "kyungmin-jonah-ai-animation",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "연합뉴스",
-            "url": "https://www.yna.co.kr/view/AKR20261116073300060",
-            "accent": "#eb367f",
-            "motif": "frame",
-            "image": "pipeline/media/kyungmin-jonah-ai-animation.png",
-            "source_lang": "ko",
-            "headline": "庆旻大学AI动画",
-            "body": "庆旻大学学生将通过产学合作参与院线AI动画电影《约拿》的制作。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -2186,6 +2088,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "fincher-cliff-booth-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "Deadline",
+            "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/fincher-cliff-booth-ai.jpg",
+            "source_lang": "en",
+            "headline": "Fincher力挺生成式AI",
+            "body": "面对银幕上明显使用生成式AI的指责，David Fincher称它既然存在就该用。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "caa-lourd-no-fakes-act",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "Variety",
+            "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/",
+            "accent": "#f5a623",
+            "motif": "frame",
+            "image": "pipeline/media/caa-lourd-no-fakes-act.jpg",
+            "source_lang": "en",
+            "headline": "CAA支持NO FAKES Act",
+            "body": "CAA的Bryan Lourd呼吁国会通过NO FAKES Act，称其保护每个人。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "raphael-mbc-ai-feature-review",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
+            "accent": "#7928ca",
+            "motif": "frame",
+            "image": "pipeline/media/raphael-mbc-ai-feature-review.jpg",
+            "source_lang": "en",
+            "headline": "AI电影Raphael影评",
+            "body": "韩国首部all-AI长片Raphael于11月25日上映，画面逼近极限，故事却似曾相识。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "hampton-tallinn-ai-super-google",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060/",
+            "accent": "#2ec5c5",
+            "motif": "frame",
+            "image": "pipeline/media/hampton-tallinn-ai-super-google.jpg",
+            "source_lang": "en",
+            "headline": "Hampton：AI是超级Google",
+            "body": "两度获奥斯卡的Christopher Hampton在PÖFF表示，用AI写剧本是图省事。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "thewrap-genz-ai-film-backlash",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "TheWrap",
+            "url": "https://www.thewrap.com/industry-news/tech/gen-z-hollywood-ai-opposition-films/",
+            "accent": "#eb367f",
+            "motif": "frame",
+            "image": "pipeline/media/thewrap-genz-ai-film-backlash.jpg",
+            "source_lang": "en",
+            "headline": "Gen Z抵制AI电影",
+            "body": "片厂拥抱AI之际，惯用AI的年轻观众却明显反对电影使用AI。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2194,36 +2181,37 @@
     "label": "Games",
     "news": [
       {
-        "id": "epic-ue6-blueprint-ai-port",
+        "id": "isaac-repentance-ai-music",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "Unreal Engine (Epic Games)",
-        "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/epic-ue6-blueprint-ai-port.jpg",
-        "headline": "Epic将用AI把UE5\n项目迁移至UE6",
-        "body": "Epic已用AI将Fortnite的20,000多个Blueprints移植到Verse。",
-        "mini_headline": "Epic的UE6 AI迁移之路",
+        "image": "pipeline/media/isaac-repentance-ai-music.jpg",
+        "headline": "Binding of\nIsaac撤下未披露AI音乐",
+        "body": "Nicalis在曝光和差评轰炸后从Repentance+撤下AI-generated音乐。",
+        "mini_headline": "Isaac撤下AI音乐",
         "full": {
-          "mode": "summary",
+          "mode": "full",
           "blocks": [
             {
               "t": "img",
-              "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+              "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+              "cap": "The Binding of Isaac: Repentance Plus"
             },
             {
               "t": "p",
-              "x": "Marcus Wassmer表示，UE6（包括UE6 Early Access）将不再包含Blueprints和Actor Gameplay Framework，玩法将基于Verse和全新的Scene Graph框架构建。Epic六月曾表示Blueprints与Actors会在UE6 Early Access和6.0中共存，但“随着AI能力近来的进步，我们预计AI将在把UE5项目转换到UE6的过程中提供巨大帮助，甚至让这一过程完全自动化。”"
+              "x": "The Binding of Isaac: Repentance Plus被发现游戏中某个段落使用了AI音乐，过去几天在Steam上遭到差评轰炸。Reddit用户ShweetsStuff发现了Grand Theft Auto-themed段落中使用的歌曲。他们找到了几个带有Suno元数据的音频文件，这些元数据指向Suno网站上的曲目。"
             },
             {
               "t": "p",
-              "x": "Epic给出两个理由。用AI完成任何一项任务的成本正以每年13x 的幅度下降。两周前，Epic尝试用AI把Fortnite Battle Royale的全部Blueprints转换为Verse：一个原本预计耗时数年的项目，在移植20,000多个Blueprints后，已有约300万行Verse代码的可运行原型。"
+              "x": "创作者Edmund McMillen在X上致歉，称他“完全不知道”游戏内的GTA恶搞段落使用了生成式AI音乐。让事态更复杂的是，Valve要求开发者披露在开发过程中如何以及何时使用生成式AI，而Repentance Plus背后的工作室Nicalis, Inc.似乎没有在任何地方提及这些AI音乐。"
             },
             {
               "t": "p",
-              "x": "为UE6打造的AI工具正回流到UE5，首先是UE 5.9 MegaJam Preview：扩展的Python脚本、Model Context Protocol（MCP）改进、作为目标平台的Web，以及用于生成资产的Unreal Canvas。“UE 5.9的大部分是我们借助AI智能体完成的，包括大部分Web平台工作。”"
+              "x": "发现后数小时内，Nicalis便在X上表示，Repentance Plus已完成更新，生成的音乐文件已被移除。尽管Steam上的评价尚未回升，游戏仍为“差评如潮”，但X上的用户似乎愿意相信McMillen，可能是因为他对游戏开发中的AI向来直言不讳，曾在2024年的TikTok视频中称其“毫无灵感、平淡无味”。"
             }
           ]
         },
@@ -2232,150 +2220,77 @@
         "hasFull": true
       },
       {
-        "id": "unity-neural-unite-tokyo",
+        "id": "wotc-anthropic-payout-writers",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "Unity Blog",
-        "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+        "source": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
         "accent": "#0070f3",
         "motif": "cube",
-        "video": "pipeline/media/unity-neural-unite-tokyo.mp4",
-        "poster": "pipeline/media/unity-neural-unite-tokyo.jpg",
-        "image": "pipeline/media/unity-neural-unite-tokyo.jpg",
-        "headline": "Unity Neural亮相\n同步推出智能体插件",
-        "body": "Neural Texture Compression使Atrio纹理内存减少近30%。",
-        "mini_headline": "Unite Tokyo上的Unity Neural",
+        "image": "pipeline/media/wotc-anthropic-payout-writers.jpg",
+        "headline": "Wizards将AI和解金\n转给D&D作者",
+        "body": "Wizards of the Coast将Anthropic AI和解金D&D份额交给作者。",
+        "mini_headline": "WotC把AI和解金给作者",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "hoyoverse-petit-planet-npc",
+        "id": "activision-voicechat-npc-patent",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "GameSpot",
-        "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
+        "source": "TheGamer",
+        "url": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
         "accent": "#f5a623",
         "motif": "cube",
-        "video": "pipeline/media/hoyoverse-petit-planet-npc.mp4",
-        "poster": "pipeline/media/hoyoverse-petit-planet-npc.jpg",
-        "image": "pipeline/media/hoyoverse-petit-planet-npc.jpg",
-        "headline": "HoYoverse为\nAI NPCs设安全护栏",
-        "body": "Petit Planet的AI NPCs拒绝有害请求，可转交人工，也可关闭。",
-        "mini_headline": "AI NPCs的安全护栏",
+        "image": "pipeline/media/activision-voicechat-npc-patent.jpg",
+        "headline": "Activision专利\n用玩家语音训练NPCs",
+        "body": "Activision专利拟用玩家语音训练AI-driven NPCs，使其像真人一样说话。",
+        "mini_headline": "AI NPCs借语音聊天学习",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "romero-design-ai-trash",
+        "id": "metahuman-markerless-mocap-insideunreal",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "Video Games Chronicle",
-        "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+        "source": "Unreal Engine (YouTube)",
+        "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
         "accent": "#2ec5c5",
         "motif": "cube",
-        "image": "pipeline/media/romero-design-ai-trash.jpg",
-        "headline": "John Romero称\n设计比以往更重要",
-        "body": "Romero称做游戏从未如此容易，但新作大多是垃圾，且不少是AI-generated。",
-        "mini_headline": "Romero：设计至上",
+        "video": "pipeline/media/metahuman-markerless-mocap-insideunreal.mp4",
+        "poster": "pipeline/media/metahuman-markerless-mocap-insideunreal.jpg",
+        "image": "pipeline/media/metahuman-markerless-mocap-insideunreal.jpg",
+        "headline": "手机视频经MetaHuman\nAnimator变全身动捕",
+        "body": "Epic的MetaHuman Animator无标记插件将手机或摄像头视频转为全身动画。",
+        "mini_headline": "手机视频做MetaHuman动捕",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "tripo-ai-gstar-b2c",
-        "source_lang": "en",
+        "id": "motokare-deathgame-fmv-ai",
+        "source_lang": "ja",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+        "source": "4Gamer.net",
+        "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
         "accent": "#eb367f",
         "motif": "cube",
-        "video": "pipeline/media/tripo-ai-gstar-b2c.mp4",
-        "poster": "pipeline/media/tripo-ai-gstar-b2c.jpg",
-        "image": "pipeline/media/tripo-ai-gstar-b2c.jpg",
-        "headline": "Tripo AI把3D模型\n生成器带给消费者",
-        "body": "Tripo AI在G-Star 2026增设B2C展位，面向学生和独立开发者。",
-        "mini_headline": "Tripo AI进军B2C",
+        "image": "pipeline/media/motokare-deathgame-fmv-ai.jpg",
+        "headline": "用生成式AI做的FMV\n《前男友×死亡游戏》",
+        "body": "生成式AI制作的FMV游戏《前男友×死亡游戏》将于12月4日免费上线。",
+        "mini_headline": "生成式AI FMV游戏将上线",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "unity-cli-ga-release",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "Unity",
-            "url": "https://unity.com/the-unity-cli-1.0-is-here",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/unity-cli-ga-release.jpg",
-            "source_lang": "en",
-            "headline": "Unity CLI迎来1.0",
-            "body": "Unity CLI与Pipeline包在Unite Tokyo发布1.0，AI可从终端操控。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "games-unions-genai-manifesto",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "Kotaku",
-            "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
-            "accent": "#0070f3",
-            "motif": "cube",
-            "image": "pipeline/media/games-unions-genai-manifesto.jpg",
-            "source_lang": "en",
-            "headline": "工会力挺无GenAI游戏",
-            "body": "欧洲六家游戏工会联合发布宣言，呼吁消费者支持不使用GenAI制作的游戏。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "ai-mensetsukan-steam-game",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "4Gamer.net",
-            "url": "https://www.4gamer.net/games/058/G105854/20261116008/",
-            "accent": "#2ec5c5",
-            "motif": "cube",
-            "image": "pipeline/media/ai-mensetsukan-steam-game.jpg",
-            "source_lang": "ja",
-            "headline": "AI面试官游戏上线",
-            "body": "根据玩家写入指定词语的简历，AI面试官会当场生成面试问题。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gamemeca-ai-clone-precedent",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "게임메카",
-            "url": "https://www.gamemeca.com/view.php?gid=1783557",
-            "accent": "#eb367f",
-            "motif": "cube",
-            "image": "pipeline/media/gamemeca-ai-clone-precedent.jpg",
-            "source_lang": "ko",
-            "headline": "AI游戏抄袭应对法",
-            "body": "依据大法院判例，关键在于创作性表达的组合是否相似，而非类型规则。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -2714,6 +2629,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "epic-ue6-blueprint-ai-port",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "Unreal Engine (Epic Games)",
+            "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/epic-ue6-blueprint-ai-port.jpg",
+            "source_lang": "en",
+            "headline": "Epic的UE6 AI迁移之路",
+            "body": "Epic已用AI将Fortnite的20,000多个Blueprints移植到Verse。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "unity-neural-unite-tokyo",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "Unity Blog",
+            "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/unity-neural-unite-tokyo.jpg",
+            "source_lang": "en",
+            "headline": "Unite Tokyo上的Unity Neural",
+            "body": "Neural Texture Compression使Atrio纹理内存减少近30%。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "hoyoverse-petit-planet-npc",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "GameSpot",
+            "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
+            "accent": "#f5a623",
+            "motif": "cube",
+            "image": "pipeline/media/hoyoverse-petit-planet-npc.jpg",
+            "source_lang": "en",
+            "headline": "AI NPCs的安全护栏",
+            "body": "Petit Planet的AI NPCs拒绝有害请求，可转交人工，也可关闭。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "romero-design-ai-trash",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "Video Games Chronicle",
+            "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+            "accent": "#2ec5c5",
+            "motif": "cube",
+            "image": "pipeline/media/romero-design-ai-trash.jpg",
+            "source_lang": "en",
+            "headline": "Romero：设计至上",
+            "body": "Romero称做游戏从未如此容易，但新作大多是垃圾，且不少是AI-generated。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "tripo-ai-gstar-b2c",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "Inven Global",
+            "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+            "accent": "#eb367f",
+            "motif": "cube",
+            "image": "pipeline/media/tripo-ai-gstar-b2c.jpg",
+            "source_lang": "en",
+            "headline": "Tripo AI进军B2C",
+            "body": "Tripo AI在G-Star 2026增设B2C展位，面向学生和独立开发者。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2722,37 +2722,45 @@
     "label": "Books",
     "news": [
       {
-        "id": "books-tor-crown-cover",
-        "source_lang": "en",
+        "id": "publishing-act-ai-consent-bill",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Books",
-        "source": "Ilona Andrews (author blog)",
-        "url": "https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/",
+        "source": "한국공공정책신문",
+        "url": "http://knpp.co.kr/news/597241",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/books-tor-crown-cover.jpg",
-        "headline": "Tor撤下Andrews书的\nAI-tainted封面",
-        "body": "AI元素绕过no-AI条款，Tor将更换Ilona Andrews小说的封面。",
-        "mini_headline": "Tor更换AI封面",
+        "image": "pipeline/media/publishing-act-ai-consent-bill.jpg",
+        "headline": "用于AI训练的书\n出版界保护法案启动",
+        "body": "Selectstar与韩国出版文化协会签署以权利人同意为前提的AI训练用出版数据协议。",
+        "mini_headline": "出版物AI训练法案",
         "full": {
           "mode": "summary",
           "blocks": [
             {
-              "t": "p",
-              "x": "This Crown Will Not Rule Me的封面公布后，读者担心其中可能含有AI生成（AI-generated）元素。Ilona Andrews通知了出版社，并要求对方提供由人类创作的证明。“我们的合同里有no-AI条款。Tor的美术合同里也有no-AI条款。”"
-            },
-            {
               "t": "img",
-              "src": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
-              "cap": "Tor的声明"
+              "src": "https://img.ehom.kr/news/2026/11/23/b392e224be2acfd2d8edca28d44e135c062044.jpg",
+              "cap": "△ 出版物是可用于AI训练的高质量知识资源,但必须同时具备权利人的同意和安全的处理环境 <图片=Media Ullim AI生成>"
             },
             {
               "t": "p",
-              "x": "Tor Publishing Group表示，封面美术的创作使用了生成式AI，而这“Tor和作者都不知情”。该公司将撤下最近公布的封面，不会在任何已完成的书上使用这些图像，并将加强内部审核流程。“需要说明的是，责任在我们，而不在作者。”Tor感谢Markova和Zakuga Art，正是她们在Instagram上的评论提醒了这一问题。"
+              "x": "“我出的书被用于AI训练了。”11月第三、第四周,出版界从三个方向回应了这一问题。民间层面,将出版内容转化为AI训练数据的“基于许可”的供应体系迈出了第一步;国会层面,将学术图书支持写入法律的修正案进入立法预告;著作权领域,以文字阐释权利意义的人们获得了表彰。"
             },
             {
               "t": "p",
-              "x": "作者们请读者不要攻击这位画师。他们写道：“生成式AI已经变得非常精巧。”封面由出版社委托绘制，草图“看起来就像一张普通的封面草图”。今后他们可能会要求查看项目文件，以审核所有委托作品：“我们已经不能只审核画师了，必须审核每一幅画。”他们还在发现一家竖屏短剧公司使用生成式AI的程度与自己的偏好不符后，终止了与该公司的合同。"
+              "x": "AI数据与可靠性评估专业企业Selectstar于20日宣布,已与大韩出版文化协会(出协)签署谅解备忘录(MOU),旨在合法利用AI训练用出版数据并确保其质量。出协将与出版社协商,运营数据收集与管理体系并担任供应窗口;Selectstar则提供基于OCR和文档版面分析(DLA)的加工与质量验证技术,以及封闭网络、本地部署的安全基础设施。"
+            },
+            {
+              "t": "p",
+              "x": "数据利用以著作权人和出版权人的同意为前提,实际供应范围和使用条件将另行通过合同确定。此次协议并非对全部出版作品的概括性AI训练许可。"
+            },
+            {
+              "t": "p",
+              "x": "国会方面,议员Yoon Yong-geun等14人提出的《出版文化产业振兴法部分修正案》(议案编号2222616)正于16日至25日进行立法预告并征求意见。修正案对学术图书作出定义,并在韩国出版文化产业振兴院的职责中增加学术图书的调查、研究与支持、提高可及性、分类与元数据建设及流通支持等内容。提案理由指出学术图书是AI训练和国家知识生产的基础,但修正条文本身并未一律允许将其用于AI训练,也未改变著作权人的权利。该法案目前仍处于提出、交付委员会和立法预告阶段。"
+            },
+            {
+              "t": "p",
+              "x": "同一时期,文化体育观光部与韩国著作权委员会于11月19日举行“2026著作权意识提升征文比赛”颁奖典礼,为Yoon Hye-kyung的《可以使用吗?》等49篇作品颁奖。出版界需要守护的不是数据的数量,而是关于谁许可了什么的记录。"
             }
           ]
         },
@@ -2761,143 +2769,77 @@
         "hasFull": true
       },
       {
-        "id": "books-carlson-selfhelp-suit",
+        "id": "ihe-journal-ai-review-prompts",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Books",
-        "source": "VitalLaw (Wolters Kluwer)",
-        "url": "https://www.vitallaw.com/news/copyright-news-anthropic-and-meta-self-helped-themselves-to-ai-training-materials-new-lawsuit-asserts/ipm01eea3882904794aa786ea89a4f8e8a780",
+        "source": "Inside Higher Ed",
+        "url": "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers",
         "accent": "#0070f3",
         "motif": "swatch",
-        "headline": "Carlson版权方起诉\nAnthropic和Meta",
-        "body": "Carlson LLC退出Bartz和解，指控两打以上自助书被用于训练AI。",
-        "mini_headline": "Carlson起诉Anthropic、Meta",
+        "image": "pipeline/media/ihe-journal-ai-review-prompts.jpg",
+        "headline": "AI审稿提示词\n再现于已发表论文",
+        "body": "已发表论文中残留“写一篇正面评审”等提示词,显示作者试图操纵AI同行评审。",
+        "mini_headline": "论文中的AI提示词",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "books-not-ais-to-take",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Books",
-        "source": "Books+Publishing",
-        "url": "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/",
-        "accent": "#7928ca",
-        "motif": "swatch",
-        "image": "pipeline/media/books-not-ais-to-take.png",
-        "headline": "澳作家发起Not AI's\nto Take运动",
-        "body": "作家、出版商和媒体机构请愿澳政府，要求AI使用澳洲作品训练前须获同意。",
-        "mini_headline": "Not AI's to Take启动",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "books-namoo-memoir-app",
-        "source_lang": "ko",
-        "eyebrow": "AI NEWS",
-        "tool": "Books",
-        "source": "GeekNews",
-        "url": "https://news.hada.io/topic?id=37506",
-        "accent": "#2ec5c5",
-        "motif": "swatch",
-        "image": "pipeline/media/books-namoo-memoir-app.jpg",
-        "headline": "用AI访谈编织\n父母回忆录应用Namoo",
-        "body": "Namoo把AI对父母的访谈内容制作成回忆录电子书和有声书。",
-        "mini_headline": "AI回忆录应用Namoo",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "books-guardian-wild-west",
+        "id": "godel-notebooks-ai-transcription",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Books",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "accent": "#7928ca",
+        "motif": "swatch",
+        "image": "pipeline/media/godel-notebooks-ai-transcription.jpg",
+        "headline": "AI助力破译\nGödel速记笔记",
+        "body": "Claude正帮助学者破译Gödel长达1,009页的速记笔记,揭示数百条未知定理。",
+        "mini_headline": "AI破译Gödel笔记",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "inkflock-webnovel-localization",
+        "source_lang": "ko",
+        "eyebrow": "AI NEWS",
+        "tool": "Books",
+        "source": "플래텀",
+        "url": "https://platum.kr/archives/298652",
+        "accent": "#2ec5c5",
+        "motif": "swatch",
+        "video": "pipeline/media/inkflock-webnovel-localization.mp4",
+        "poster": "pipeline/media/inkflock-webnovel-localization.jpg",
+        "image": "pipeline/media/inkflock-webnovel-localization.jpg",
+        "headline": "InkFlock开发网文\nAI本地化体系",
+        "body": "InkFlock开发了面向韩国网络小说海外发行的AI翻译与本地化体系。",
+        "mini_headline": "网文AI本地化",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "bookseller-audio-content-inflation",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Books",
+        "source": "The Bookseller",
+        "url": "https://www.thebookseller.com/trade-interviews/can-this-golden-audio-era-deliver-on-its-potential",
         "accent": "#eb367f",
         "motif": "swatch",
-        "image": "pipeline/media/books-guardian-wild-west.jpg",
-        "headline": "AI如何把出版业\n变成蛮荒西部",
-        "body": "出版商未向经纪人给出明确AI政策，一位独立作者自2025年起用AI写了370部小说。",
-        "mini_headline": "AI与文学的蛮荒西部",
+        "image": "pipeline/media/bookseller-audio-content-inflation.jpg",
+        "headline": "AI音频成本走低\n有声书内容通胀",
+        "body": "Legimi创始人称,成本下降与AI制作工具正推动有声书领域的“音频内容通胀”。",
+        "mini_headline": "AI与音频内容通胀",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "audible-audio-discovery",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "TechCrunch",
-            "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-            "accent": "#f5a623",
-            "motif": "swatch",
-            "image": "pipeline/media/audible-audio-discovery.jpg",
-            "source_lang": "en",
-            "headline": "Audible的AI图书预览",
-            "body": "Audible的AI-generated音频预览在朗读试听之外，概括图书主题与读者好评。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "janefriedman-ai-writing-business",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "Jane Friedman",
-            "url": "https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/",
-            "accent": "#0070f3",
-            "motif": "swatch",
-            "image": "pipeline/media/janefriedman-ai-writing-business.png",
-            "source_lang": "en",
-            "headline": "Friedman如何使用AI",
-            "body": "Jane Friedman超越对危害的关注，介绍她如何在出版行业的业务中运用AI。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "scholarly-ai-usage-metrics",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "The Scholarly Kitchen",
-            "url": "https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/",
-            "accent": "#7928ca",
-            "motif": "swatch",
-            "image": "pipeline/media/scholarly-ai-usage-metrics.jpg",
-            "source_lang": "en",
-            "headline": "AI与学术使用指标",
-            "body": "随着AI助手在研究者与出版商之间充当中介，一篇客座文章提出了衡量学术内容使用的新指标。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "scholarly-governed-ai-practice",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "The Scholarly Kitchen",
-            "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
-            "accent": "#eb367f",
-            "motif": "swatch",
-            "image": "pipeline/media/scholarly-governed-ai-practice.jpg",
-            "source_lang": "en",
-            "headline": "出版商的受治理AI",
-            "body": "出版商可在全组织范围内运用AI，同时掌控机密数据与编辑决策。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -3235,6 +3177,90 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "books-tor-crown-cover",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Ilona Andrews (author blog)",
+            "url": "https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/books-tor-crown-cover.jpg",
+            "source_lang": "en",
+            "headline": "Tor更换AI封面",
+            "body": "AI元素绕过no-AI条款，Tor将更换Ilona Andrews小说的封面。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-carlson-selfhelp-suit",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "VitalLaw (Wolters Kluwer)",
+            "url": "https://www.vitallaw.com/news/copyright-news-anthropic-and-meta-self-helped-themselves-to-ai-training-materials-new-lawsuit-asserts/ipm01eea3882904794aa786ea89a4f8e8a780",
+            "accent": "#0070f3",
+            "motif": "swatch",
+            "source_lang": "en",
+            "headline": "Carlson起诉Anthropic、Meta",
+            "body": "Carlson LLC退出Bartz和解，指控两打以上自助书被用于训练AI。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-not-ais-to-take",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Books+Publishing",
+            "url": "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/",
+            "accent": "#7928ca",
+            "motif": "swatch",
+            "image": "pipeline/media/books-not-ais-to-take.png",
+            "source_lang": "en",
+            "headline": "Not AI's to Take启动",
+            "body": "作家、出版商和媒体机构请愿澳政府，要求AI使用澳洲作品训练前须获同意。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-namoo-memoir-app",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "GeekNews",
+            "url": "https://news.hada.io/topic?id=37506",
+            "accent": "#2ec5c5",
+            "motif": "swatch",
+            "image": "pipeline/media/books-namoo-memoir-app.jpg",
+            "source_lang": "ko",
+            "headline": "AI回忆录应用Namoo",
+            "body": "Namoo把AI对父母的访谈内容制作成回忆录电子书和有声书。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-guardian-wild-west",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "The Guardian",
+            "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+            "accent": "#eb367f",
+            "motif": "swatch",
+            "image": "pipeline/media/books-guardian-wild-west.jpg",
+            "source_lang": "en",
+            "headline": "AI与文学的蛮荒西部",
+            "body": "出版商未向经纪人给出明确AI政策，一位独立作者自2025年起用AI写了370部小说。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -3243,55 +3269,40 @@
     "label": "Gadgets",
     "news": [
       {
-        "id": "rayneo-io-lifelog-glasses",
+        "id": "verge-vibe-coding-gadgets",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "Gizmodo",
-        "url": "https://gizmodo.com/rayneo-io-smart-glasses-review-2000829940",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
         "accent": "#ff5a4d",
         "motif": "headset",
-        "image": "pipeline/media/rayneo-io-lifelog-glasses.jpg",
-        "headline": "RayNeo IO眼镜\n无摄像头却整天在听",
-        "body": "$499的RayNeo IO实时翻译很实用，但可选的全天Lifelog转录过于侵扰。",
-        "mini_headline": "RayNeo IO一直在听",
+        "image": "pipeline/media/verge-vibe-coding-gadgets.jpg",
+        "headline": "Vibe coding\n盯上你的设备",
+        "body": "LLMs如今能重新设计TV界面、升级相机固件，让人人都能改装设备。",
+        "mini_headline": "Vibe coding进军设备",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
-              "cap": "© Raymond Wong / Gizmodo"
+              "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
             },
             {
               "t": "p",
-              "x": "售价$499的RayNeo IO Smart Glasses舍弃了摄像头，转而采用AI、单色显示屏和生产力功能——通知、天气、转录、翻译和录音——且没有扬声器。"
+              "x": "大语言模型如今可以替你重新设计TV、升级相机。设备破解与改装并不新鲜，新鲜的是如今这很容易：人们只需向Claude Code或Codex下达提示，就能破解自己的硬件。"
             },
             {
               "t": "p",
-              "x": "RayNeo AI应用中有一项名为Lifelog的可选功能，它通过眼镜的麦克风全天聆听，为捕捉到的所有内容提供摘要和转录，并提炼出待办事项。它有时接近实用，但AI摘要言过其实，还曾把评测者和一位同事搞混。"
-            },
-            {
-              "t": "img",
-              "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-13.jpg",
-              "cap": "如果保持Lifelog开启，RayNeo会自动生成待办事项。© Raymond Wong / Gizmodo"
+              "x": "开发者Gathin T让Claude Code接管了他那台满是广告的Xiaomi Android TV；一个半小时后，他得到了一个没有屏幕广告的更简洁界面。他这个走红的方案成了CleanYourTV，跻身GitHub最受欢迎的代码库之一。从洗碗机、相框到豪华汽车，Android无处不在；只要网上有隐藏的API或固件文件，LLM就能找到、解包并重新打包。"
             },
             {
               "t": "p",
-              "x": "RayNeo表示不会存储录音，但会保留文字转录稿；而眼镜正在聆听的唯一迹象，是右侧镜腿末端一个很容易被忽略的LED。"
+              "x": "相机爱好者用AI添加录制功能、更高分辨率和新的色彩配置；音乐人把M-Vave FM-1这样的廉价合成器改造成新设备；玩家则为游戏机增加功能。游戏厂商正在反击，Luke Dicken预测会出现“更具侵入性的DRM”。用户还面临把设备变砖的风险。"
             },
             {
               "t": "p",
-              "x": "AI翻译反应迅速且大体准确，实时字幕能抓住大意，语音提示的提词器也表现不错。测试版Live Answers功能则显得只是在照搬复述。"
-            },
-            {
-              "t": "img",
-              "src": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-19.jpg",
-              "cap": "这是眼镜中提词器的大致样子。© Raymond Wong / Gizmodo"
-            },
-            {
-              "t": "p",
-              "x": "硬件轻巧舒适，配有Smart Dial数字表冠和明亮的双目显示屏；电池在典型使用下最长可达48小时，持续录音时为18小时。结论是：它在某些方面有用，但持续而隐蔽的聆听不值得以隐私为代价。"
+              "x": "更安全的路线是ESP32模块——M5Stack PaperMono等设备背后的廉价、对黑客友好的板子——以及Meta的Muse Charm和Muse Gadgets计划。Gathin的建议是：绝不要让机器人接触你输不起的东西，并且多做备份。"
             }
           ]
         },
@@ -3300,145 +3311,75 @@
         "hasFull": true
       },
       {
-        "id": "beambox-polly-phone-pet",
+        "id": "genspark-secondbrain-voicepad",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
         "source": "Notebookcheck",
-        "url": "https://www.notebookcheck.net/Tamagotchi-style-digital-pet-turns-the-back-of-your-smartphone-into-its-new-home.1455500.0.html",
+        "url": "https://www.notebookcheck.net/SecondBrain-VoicePad-Compact-AI-controls-and-dictation-for-your-desk.1456759.0.html",
+        "accent": "#0070f3",
+        "motif": "headset",
+        "image": "pipeline/media/genspark-secondbrain-voicepad.jpg",
+        "headline": "Genspark推出\nAI听写VoicePad",
+        "body": "这款$169 设备配备五个可编程按键、AI听写与转录，离线也能录音至内置存储。",
+        "mini_headline": "桌面上的Genspark VoicePad",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "obsbot-tail-air2-ptz",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Gadgets",
+        "source": "Digital Camera World",
+        "url": "https://www.digitalcameraworld.com/tech/webcams/obsbots-new-ai-ptz-cameras-could-make-camera-operators-redundant-and-its-got-a-1-inch-sensor",
         "accent": "#f5a623",
         "motif": "headset",
-        "video": "pipeline/media/beambox-polly-phone-pet.mp4",
-        "poster": "pipeline/media/beambox-polly-phone-pet.jpg",
-        "image": "pipeline/media/beambox-polly-phone-pet.jpg",
-        "headline": "拓麻歌子式AI宠物\n贴在手机背面",
-        "body": "Beambox的Polly是磁吸式触屏AI聊天宠物，在日本众筹，2027年1月发货。",
-        "mini_headline": "手机背面的AI宠物",
+        "image": "pipeline/media/obsbot-tail-air2-ptz.jpg",
+        "headline": "Obsbot AI PTZ\n相机欲取代摄像师",
+        "body": "Tail Air 2借助AI Tracking 2.0追踪人、30+种动物和200+类物体。",
+        "mini_headline": "Obsbot AI PTZ相机",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "snes-superfx-chatgpt-client",
+        "id": "gemini-android-camera-redesign",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "Tom's Hardware",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
+        "source": "9to5Google",
+        "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
         "accent": "#7928ca",
         "motif": "headset",
-        "image": "pipeline/media/snes-superfx-chatgpt-client.jpg",
-        "headline": "35岁高龄的SNES\n跑起220万参数聊天机器人",
-        "body": "非官方SNES版ChatGPT运行220万参数的gpt-oss-120b蒸馏模型。",
-        "mini_headline": "SNES跑起迷你聊天机器人",
+        "image": "pipeline/media/gemini-android-camera-redesign.jpg",
+        "headline": "Google改版Gemini\nAndroid端相机",
+        "body": "Google重做了Gemini Android应用内的相机，用于快速为提示词添加图片。",
+        "mini_headline": "Gemini相机改版",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "hyundai-elantra-gleo-ai",
+        "id": "meta-muse-charm-price",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "CNET",
-        "url": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
+        "source": "Engadget",
+        "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
         "accent": "#2ec5c5",
         "motif": "headset",
-        "image": "pipeline/media/hyundai-elantra-gleo-ai.jpg",
-        "headline": "Elantra Hybrid\n中控搭载现代Gleo AI",
-        "body": "新款Elantra Hybrid加入Gleo AI助手与单踏板驾驶，目标53 mpg。",
-        "mini_headline": "Elantra Hybrid搭载Gleo AI",
+        "image": "pipeline/media/meta-muse-charm-price.jpg",
+        "headline": "Muse Charm据报\n售价$300 送5G",
+        "body": "Meta口袋AI设备据报售价$300，附赠最多12个月免费Verizon 5G。",
+        "mini_headline": "Muse Charm售$300",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "apple-siri-usage-limits",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "The Verge",
-            "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-            "accent": "#ff5a4d",
-            "motif": "headset",
-            "image": "pipeline/media/apple-siri-usage-limits.jpg",
-            "source_lang": "en",
-            "headline": "Apple测试Siri AI用量上限",
-            "body": "iOS 27.3 测试版按设备每日限制复杂的Siri AI请求，iCloud+套餐上限更高。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "macos-273-ai-agent-warning",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "MacRumors",
-            "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
-            "accent": "#0070f3",
-            "motif": "headset",
-            "image": "pipeline/media/macos-273-ai-agent-warning.jpg",
-            "source_lang": "en",
-            "headline": "macOS提示AI代理访问权限",
-            "body": "macOS 27.3测试版改动API，在Claude等AI代理获取广泛控制权前发出警告。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "halliday-g2-glasses-review",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "Tom's Guide",
-            "url": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
-            "accent": "#7928ca",
-            "motif": "headset",
-            "image": "pipeline/media/halliday-g2-glasses-review.jpg",
-            "source_lang": "en",
-            "headline": "Halliday G2眼镜实测",
-            "body": "Halliday G2无摄像头，AI实用，但外形笨拙，看着它读答案会被人察觉。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "whalesbot-pubbo-kids-robot",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "The Gadgeteer",
-            "url": "https://the-gadgeteer.com/2026/11/16/this-chatty-robot-turns-your-kids-doodles-into-new-pictures/",
-            "accent": "#2ec5c5",
-            "motif": "headset",
-            "image": "pipeline/media/whalesbot-pubbo-kids-robot.jpg",
-            "source_lang": "en",
-            "headline": "Pubbo画出孩子的想法",
-            "body": "WhalesBot的$299.99 Pubbo面向3至11岁儿童，把口述画在3.5英寸屏上。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "qidi-makebuddy-smart5",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "The Gadgeteer",
-            "url": "https://the-gadgeteer.com/2026/11/16/the-family-3d-printer-that-turns-phone-photos-into-toys/",
-            "accent": "#eb367f",
-            "motif": "headset",
-            "image": "pipeline/media/qidi-makebuddy-smart5.jpg",
-            "source_lang": "en",
-            "headline": "QIDI把照片打印成玩具",
-            "body": "QIDI的$349 MakeBuddy Smart5是带AI摄像头和应用的家用3D打印机。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -3778,49 +3719,114 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "rayneo-io-lifelog-glasses",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "Gizmodo",
+            "url": "https://gizmodo.com/rayneo-io-smart-glasses-review-2000829940",
+            "accent": "#ff5a4d",
+            "motif": "headset",
+            "image": "pipeline/media/rayneo-io-lifelog-glasses.jpg",
+            "source_lang": "en",
+            "headline": "RayNeo IO一直在听",
+            "body": "$499的RayNeo IO实时翻译很实用，但可选的全天Lifelog转录过于侵扰。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "beambox-polly-phone-pet",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "Notebookcheck",
+            "url": "https://www.notebookcheck.net/Tamagotchi-style-digital-pet-turns-the-back-of-your-smartphone-into-its-new-home.1455500.0.html",
+            "accent": "#f5a623",
+            "motif": "headset",
+            "image": "pipeline/media/beambox-polly-phone-pet.jpg",
+            "source_lang": "en",
+            "headline": "手机背面的AI宠物",
+            "body": "Beambox的Polly是磁吸式触屏AI聊天宠物，在日本众筹，2027年1月发货。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "snes-superfx-chatgpt-client",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "Tom's Hardware",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
+            "accent": "#7928ca",
+            "motif": "headset",
+            "image": "pipeline/media/snes-superfx-chatgpt-client.jpg",
+            "source_lang": "en",
+            "headline": "SNES跑起迷你聊天机器人",
+            "body": "非官方SNES版ChatGPT运行220万参数的gpt-oss-120b蒸馏模型。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "hyundai-elantra-gleo-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "CNET",
+            "url": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
+            "accent": "#2ec5c5",
+            "motif": "headset",
+            "image": "pipeline/media/hyundai-elantra-gleo-ai.jpg",
+            "source_lang": "en",
+            "headline": "Elantra Hybrid搭载Gleo AI",
+            "body": "新款Elantra Hybrid加入Gleo AI助手与单踏板驾驶，目标53 mpg。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
-    "lockedCount": 3
+    "lockedCount": 4
   },
   "science": {
     "label": "Science",
     "news": [
       {
-        "id": "science-tess-amateur-claude",
+        "id": "science-milkyway-ai-surrogate",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
-        "source": "Nature",
-        "url": "https://www.nature.com/articles/d41586-026-03790-w",
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
         "accent": "#2ec5c5",
         "motif": "sphere",
-        "image": "pipeline/media/science-tess-amateur-claude.jpg",
-        "headline": "业余玩家用Claude找行星\n成果好坏参半",
-        "body": "业余爱好者用Claude Code筛查TESS数据，所得两颗候选行星已列入TESS官方名单。",
-        "mini_headline": "业余爱好者借AI寻找行星",
+        "image": "pipeline/media/science-milkyway-ai-surrogate.jpg",
+        "headline": "AI代理模型提速\n逐星模拟银河系",
+        "body": "一个AI模型预测超新星气体演化，让逐星银河系模拟的运行速度加快约 20x。",
+        "mini_headline": "银河系模拟提速约 20x",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-              "cap": "人工智能工具正在帮助公民科学家发现未知的系外行星(艺术想象图)。Credit: Hypersphere/SPL"
+              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+              "cap": "PHEASANT一次运行的快照，使用了3.4 × 10⁹ 个粒子。每个面板中，左右两幅色图分别显示气体密度和温度。图片来源：K. Hirashima et al."
             },
             {
               "t": "p",
-              "x": "9月，没有受过正规天文学教育的西班牙AI专家Pavel Rabtsevich请一个AI模型去发现一颗行星。大约两周后，模型给出了两颗可能的行星，它们绕着一颗距地球116光年的恒星运行。"
+              "x": "研究人员借助PHEASANT将银河系模拟到单颗恒星的精度。PHEASANT是一种AI加速（AI-accelerated）模型，可在CPU与GPU硬件各不相同的三套超级计算机系统上运行。参与这项工作的有东京大学（University of Tokyo）天文系教授Michiko Fujii，以及开发该AI模型的RIKEN博士后研究员Keiya Hirashima。"
             },
             {
               "t": "p",
-              "x": "他让Claude Code筛查NASA的TESS在2025年末和2026年初观测的120,000多颗恒星的数据，并使用一种常用的行星探测算法寻找亮度下降。Claude锁定了TIC 4206066，这颗恒星呈现两个变暗周期，大约每3天和每11天一次。2018年和2020年的TESS存档数据记录了同样的模式，Claude还运行了Michelle Kunimoto编写的公开算法来验证这些信号。"
+              "x": "直接计算超新星周围气体的演化，需要约100年的时间步长。AI模型则直接预测100,000年后的状态，使主模拟可以采用长得多的时间步长。团队称，该方法比传统方法快约20倍，模拟出的恒星形成率与真实银河系的观测估计值一致。"
             },
             {
               "t": "p",
-              "x": "Rabtsevich于9月25日在Zenodo上发布了预印本。论文尚未经过同行评审，但TESS天文学家已独立分析了这些信号，并将其列入官方候选行星名单。"
-            },
-            {
-              "t": "p",
-              "x": "University of British Columbia的系外行星研究者Kunimoto警告说，一些业余爱好者无法验证模型的发现：“AI-driven论文正在大量、压倒性地涌现，其中的[行星]候选往往质量不是最好的。”"
+              "x": "论文《Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy》（K. Hirashima et al.）已在11月15–20日于芝加哥举行的高性能计算、网络、存储与分析国际会议SC 2026上发表。"
             }
           ]
         },
@@ -3829,160 +3835,75 @@
         "hasFull": true
       },
       {
-        "id": "qubrio-neutral-atom-compiler",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Science",
-        "source": "Quantum Computing Report",
-        "url": "https://quantumcomputingreport.com/university-of-california-quera-and-collaborators-introduce-multi-agent-llm-compiler-qubrio-for-neutral-atom-processors/",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/qubrio-neutral-atom-compiler.png",
-        "headline": "Qubrio：面向中性原子\n量子比特的LLM编译器",
-        "body": "Qubrio的LLM在78量子比特内较PowerMove提速4.7x、保真度提升1.3x。",
-        "mini_headline": "面向中性原子的LLM编译器",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "york-ann-brain-mismatch",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Science",
-        "source": "ScienceDaily (York University)",
-        "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-        "accent": "#7928ca",
-        "motif": "sphere",
-        "image": "pipeline/media/york-ann-brain-mismatch.jpg",
-        "headline": "类脑AI的工作方式\n未必与大脑相同",
-        "body": "York的研究发现，能很好预测灵长类皮层的视觉模型，仍可能依赖大脑并不使用的过程。",
-        "mini_headline": "AI视觉并不像大脑",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "pertreason-virtual-cell",
+        "id": "science-weathernext-hurricane-test",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
         "source": "Phys.org",
-        "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
+        "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
         "accent": "#0070f3",
         "motif": "sphere",
-        "image": "pipeline/media/pertreason-virtual-cell.jpg",
-        "headline": "PertReason预测细胞\n如何变化及其原因",
-        "body": "Texas A&M的PertReason可预测基因扰动和药物如何改变细胞，并追溯背后的通路。",
-        "mini_headline": "能解释原因的虚拟细胞",
+        "image": "pipeline/media/science-weathernext-hurricane-test.jpg",
+        "headline": "Google飓风AI模型\n接受独立检验",
+        "body": "WeatherNext Cyclone在385个气旋中胜过NOAA，但低估强度、范围过窄。",
+        "mini_headline": "Google飓风AI接受检验",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "tus-magnet-domain-wall-ai",
+        "id": "science-agent-harassment-tampering",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
         "source": "Tech Xplore",
-        "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
+        "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/science-agent-harassment-tampering.jpg",
+        "headline": "被篡改的AI智能体\n陷入反复骚扰",
+        "body": "有毒记忆、规划提示或微调，使聊天智能体多轮骚扰率超过99%。",
+        "mini_headline": "AI护栏遭篡改后失守",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "science-tokamak-density-collisionality",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Science",
+        "source": "arXiv",
+        "url": "https://arxiv.org/abs/2611.21899",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/science-tokamak-density-collisionality.png",
+        "headline": "托卡马克密度极限\n存在共同边缘阈值",
+        "body": "ML分析五座托卡马克，找到一个边缘碰撞率阈值，误报少于Greenwald极限。",
+        "mini_headline": "托卡马克密度极限重新标定",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "science-llm-advice-donations",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Science",
+        "source": "arXiv",
+        "url": "https://arxiv.org/abs/2611.16667",
         "accent": "#eb367f",
         "motif": "sphere",
-        "image": "pipeline/media/tus-magnet-domain-wall-ai.jpg",
-        "headline": "高频能量损耗的磁性根源\n由AI精准定位",
-        "body": "一种可解释AI将铁基软磁材料的高频损耗，追溯到了特定的畴壁特征。",
-        "mini_headline": "AI追踪磁性能量损耗",
+        "image": "pipeline/media/science-llm-advice-donations.png",
+        "headline": "人们更青睐AI建议\n却不改变捐赠",
+        "body": "参与者认为LLM顾问比人类顾问更可信，但各条件下的捐赠并无差异。",
+        "mini_headline": "AI建议赢得信任，未改变捐赠",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "psypost-ai-grant-novelty",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "PsyPost",
-            "url": "https://www.psypost.org/scientists-who-use-ai-propose-less-distinctive-ideas-for-federal-research-grants/",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/psypost-ai-grant-novelty.jpg",
-            "source_lang": "en",
-            "headline": "AI辅助的基金申请趋于熟悉题材",
-            "body": "使用生成式AI的科学家，往往让联邦科研基金申请更贴近此前已获资助的课题。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "leafy-spurge-satellite-ai",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Phys.org",
-            "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/leafy-spurge-satellite-ai.jpg",
-            "source_lang": "en",
-            "headline": "AI从轨道绘制乳浆大戟分布",
-            "body": "明尼苏达科学家借助卫星影像、深度学习和社区数据，绘制了乳浆大戟20年的扩散。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "materials-ai-less-data",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Tech Xplore",
-            "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/materials-ai-less-data.jpg",
-            "source_lang": "en",
-            "headline": "材料AI，更少数据",
-            "body": "研究人员认为，预测材料电子结构的AI无需用数百万次模拟来训练。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "qudit-quantum-neural-net",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Tech Xplore",
-            "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
-            "accent": "#eb367f",
-            "motif": "sphere",
-            "image": "pipeline/media/qudit-quantum-neural-net.jpg",
-            "source_lang": "en",
-            "headline": "qudit神经元扩展量子AI",
-            "body": "一项量子神经网络研究不靠增加量子比特，而是用高维qudit神经元实现扩展。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "sciam-chess-ai-complexity",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Scientific American",
-            "url": "https://www.scientificamerican.com/article/scientists-might-have-discovered-what-makes-ai-so-effective-at-chess/",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/sciam-chess-ai-complexity.jpg",
-            "source_lang": "en",
-            "headline": "AI国际象棋在复杂中制胜",
-            "body": "新研究表明，AI善于应对复杂性，这可能是其国际象棋实力的关键。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -4306,6 +4227,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "science-tess-amateur-claude",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Nature",
+            "url": "https://www.nature.com/articles/d41586-026-03790-w",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/science-tess-amateur-claude.jpg",
+            "source_lang": "en",
+            "headline": "业余爱好者借AI寻找行星",
+            "body": "业余爱好者用Claude Code筛查TESS数据，所得两颗候选行星已列入TESS官方名单。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "qubrio-neutral-atom-compiler",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Quantum Computing Report",
+            "url": "https://quantumcomputingreport.com/university-of-california-quera-and-collaborators-introduce-multi-agent-llm-compiler-qubrio-for-neutral-atom-processors/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/qubrio-neutral-atom-compiler.png",
+            "source_lang": "en",
+            "headline": "面向中性原子的LLM编译器",
+            "body": "Qubrio的LLM在78量子比特内较PowerMove提速4.7x、保真度提升1.3x。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "york-ann-brain-mismatch",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "ScienceDaily (York University)",
+            "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/york-ann-brain-mismatch.jpg",
+            "source_lang": "en",
+            "headline": "AI视觉并不像大脑",
+            "body": "York的研究发现，能很好预测灵长类皮层的视觉模型，仍可能依赖大脑并不使用的过程。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "pertreason-virtual-cell",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Phys.org",
+            "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/pertreason-virtual-cell.jpg",
+            "source_lang": "en",
+            "headline": "能解释原因的虚拟细胞",
+            "body": "Texas A&M的PertReason可预测基因扰动和药物如何改变细胞，并追溯背后的通路。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "tus-magnet-domain-wall-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Tech Xplore",
+            "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
+            "accent": "#eb367f",
+            "motif": "sphere",
+            "image": "pipeline/media/tus-magnet-domain-wall-ai.jpg",
+            "source_lang": "en",
+            "headline": "AI追踪磁性能量损耗",
+            "body": "一种可解释AI将铁基软磁材料的高频损耗，追溯到了特定的畴壁特征。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -4314,39 +4320,43 @@
     "label": "Medicine",
     "news": [
       {
-        "id": "tabmbio-pancreatic-ct",
+        "id": "northwell-stroke-ai-outcomes",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Medicine",
         "source": "AuntMinnie",
-        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16542228/ct-imaging-biomarkers-boost-detection-of-early-pancreatic-cancer",
+        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
         "accent": "#00897b",
         "motif": "sphere",
-        "headline": "AI解读常规CT\n识别sub-2 cm胰腺癌",
-        "body": "Johns Hopkins的TabMBio对sub-2 cm肿瘤AUC达0.99。",
-        "mini_headline": "AI在CT上发现微小胰腺肿瘤",
+        "headline": "卒中AI加快了影像检查\n却没改善患者康复",
+        "body": "五款AI工具让卒中中心及时完成CT血管造影的比例上升，但876名患者的预后并未改善。",
+        "mini_headline": "卒中AI：更快，却未更好",
         "full": {
           "mode": "full",
           "blocks": [
             {
               "t": "p",
-              "x": "研究人员将报告，将CT影像生物标志物与临床变量相结合，可使早期胰腺癌的检出效果优于直接病灶分割。"
+              "x": "12月2日（周三） | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
             },
             {
               "t": "p",
-              "x": "研究报告人、Baltimore的Johns Hopkins University PhD候选人Wenxuan Li表示，该方法支持“利用现有扫描进行机会性筛查”。"
+              "x": "在本场报告中，研究人员将介绍在一家综合卒中中心引入AI软件后，患者预后为何未出现可衡量的改善。"
             },
             {
               "t": "p",
-              "x": "在周二下午的会议上，Li将分享一项研究结果，该研究测试了她与同事开发的AI算法TabMBio。该算法将来自肿瘤、胰腺和胰管的影像衍生生物标志物与患者年龄、性别等临床变量相结合，在常规CT上识别早期胰腺癌。作为研究的一部分，团队建立了名为PanTab的生物标志物基准，包含来自147个中心的3,788名受试者的数据，其中有1,487例确诊早期胰腺癌（其中333例小于2 cm）和2,301名对照。"
+              "x": "报告人、Hofstra/Northwell旗下Donald and Barbara Zucker School of Medicine的Maria Sanmartin, PhD指出，尽管缺乏AI工具能改善预后的证据，这类工具已在卒中等时间敏感型疾病中被广泛采用。为此，研究团队比较了纽约都会区一家综合卒中中心引入五款AI工具前后的卒中预后。"
             },
             {
               "t": "p",
-              "x": "在区分小于2 cm胰腺癌与对照的早期检测中，TabMBio的受试者工作特征曲线下面积达到0.99。研究人员还报告，在诊断前三至36个月获得的诊断前CT上（放射科医生的敏感度为0%），多模态生物标志物学习将敏感度从19.5%提升至29.3%。"
+              "x": "研究人员回顾性分析了2014年至2024年间接受治疗的876名急性缺血性卒中患者，并排除了工具推行期间就诊的患者。他们采用倾向评分匹配和间断时间序列分析来校正两组之间的差异。"
             },
             {
               "t": "p",
-              "x": "结论是什么？Li及同事总结称：“早期[胰腺癌]检测不应仅依赖病灶线索。”"
+              "x": "在控制其他因素后，研究人员发现，引入AI后，出院时获得良好功能结局的几率以及出院去向均无显著变化。不过，到院后60分钟内完成CT血管造影的几率在AI时期开始时大幅上升。"
+            },
+            {
+              "t": "p",
+              "x": "“鉴于此前研究表明AI工具能加快卒中诊断、简化工作流程并加强医疗团队协作，有必要进一步研究这些变化是否影响预后，”研究人员写道。"
             }
           ]
         },
@@ -4355,158 +4365,72 @@
         "hasFull": true
       },
       {
-        "id": "rsna-ai-malpractice-jury",
+        "id": "subtle-gadolinium-tenth-mri",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Medicine",
         "source": "AuntMinnie",
-        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases",
+        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/mri-preview/article/16425335/dl-model-cuts-patient-gadolinium-exposure-to-10-of-standard-dose",
         "accent": "#0070f3",
         "motif": "sphere",
-        "headline": "模拟陪审团如何看\n放射科AI医疗过失",
-        "body": "在2,347人模拟陪审研究中，逾80%指责因错误AI而改掉正确判读的医生。",
-        "mini_headline": "陪审团如何评判听从AI的放射科医生",
+        "headline": "脑部MRI只用十分之一\n钆剂仍然可靠",
+        "body": "Subtle Medical模型仅用10%钆剂，63名患者脑MRI判读与标准剂量相当。",
+        "mini_headline": "10%钆剂的MRI",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "athlete-ecg-foundation-models",
+        "id": "tele-cranio-ct-free",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Medicine",
         "source": "npj Digital Medicine",
-        "url": "https://www.nature.com/articles/s41746-026-03474-9",
-        "accent": "#7928ca",
-        "motif": "sphere",
-        "image": "pipeline/media/athlete-ecg-foundation-models.png",
-        "headline": "ECG AI模型\n接受年轻运动员检验",
-        "body": "三个ECG基础模型经87,662份临床ECGs微调，在43份运动员ECGs上测试。",
-        "mini_headline": "ECG AI在年轻运动员身上接受测试",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "prehospital-thrombectomy-xai",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Medicine",
-        "source": "Scientific Reports",
-        "url": "https://www.nature.com/articles/s41598-026-80551-9",
+        "url": "https://www.nature.com/articles/s41746-026-03454-z",
         "accent": "#f5a623",
         "motif": "sphere",
-        "image": "pipeline/media/prehospital-thrombectomy-xai.png",
-        "headline": "可解释AI在转运途中\n识别卒中取栓病例",
-        "body": "基于真实世界EMS数据的可解释模型，旨在患者抵达医院前识别大血管闭塞卒中。",
-        "mini_headline": "救护车AI识别取栓病例",
+        "headline": "手机照片替代CT\n用于颅颌面分诊",
+        "body": "Tele-Cranio用手机照片估算3D面部与骨骼，实现CT-free远程分诊。",
+        "mini_headline": "CT-free颅颌面AI",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "uk-dhsc-social-care-ai-guidance",
+        "id": "bmj-antibiotic-llm-cot",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Medicine",
-        "source": "GOV.UK (DHSC)",
-        "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+        "source": "BMJ Health & Care Informatics",
+        "url": "https://informatics.bmj.com/lookup/doi/10.1136/bmjhci-2026-102418",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/bmj-antibiotic-llm-cot.jpg",
+        "headline": "医学LLM vs 通用LLM\n抗生素处方对决",
+        "body": "一项2x2研究检验医学领域LLM与思维链提示能否让抗生素选择更安全。",
+        "mini_headline": "LLMs开抗生素",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "nhs-outpatient-noshow-ml",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "BMJ Open",
+        "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2026-117999",
         "accent": "#eb367f",
         "motif": "sphere",
-        "image": "pipeline/media/uk-dhsc-social-care-ai-guidance.jpg",
-        "headline": "UK发布社会照护领域\nAI使用指南",
-        "body": "Swindon试点中，AI让社工行政时间减少63%，评估面谈从1.5小时缩至30分钟。",
-        "mini_headline": "UK发布社会照护AI指南",
+        "headline": "NHS模型可提前识别\n可能爽约的患者",
+        "body": "基于NHS多源记录训练的ML模型可预测门诊爽约，帮助诊所精准干预。",
+        "mini_headline": "预测NHS门诊爽约",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "apple-openevidence-trust-study",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "Healthcare Dive",
-            "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
-            "accent": "#00897b",
-            "motif": "sphere",
-            "image": "pipeline/media/apple-openevidence-trust-study.jpg",
-            "source_lang": "en",
-            "headline": "Apple研究健康AI信任",
-            "body": "Apple与OpenEvidence面向至多200,000人研究对话式健康AI的信任。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "openai-computer-use-health-agents",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "Fierce Healthcare",
-            "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/openai-computer-use-health-agents.jpg",
-            "source_lang": "en",
-            "headline": "CVS、Cigna测试OpenAI智能体",
-            "body": "OpenAI的电脑操作智能体可操作EHRs和支付方门户，接手重复的医疗手工任务。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "poskom-miniair-icu-xray",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "AuntMinnie",
-            "url": "https://www.auntminnie.com/resources/conference/rsna/2026/digital-xray-preview/article/16425516/ultracompact-ai-xray-unit-slashes-icu-bedside-imaging-time",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "source_lang": "en",
-            "headline": "微型AI X光机加快ICU成像",
-            "body": "在121-patient ICU研究中，MiniAIR较移动DR将流程时间缩短逾75%。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "naitive-osteosight-spine-510k",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "Orthopedics This Week",
-            "url": "https://orthotw.com/2026/11/naitive-receives-fda-510-k-clearance-for-osteosight-spine-extending-ai-enabled-opportunistic-bone-health-assessment-to-spine-and-chest-x-rays",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/naitive-osteosight-spine-510k.png",
-            "source_lang": "en",
-            "headline": "FDA批准X光AI骨健康评估",
-            "body": "Naitive获FDA 510(k)许可，将AI机会性骨健康评估扩展至脊柱与胸部X光。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "dongsan-adpkd-ai-platform",
-            "eyebrow": "AI NEWS",
-            "tool": "Medicine",
-            "source": "의학신문",
-            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016555",
-            "accent": "#eb367f",
-            "motif": "sphere",
-            "image": "pipeline/media/dongsan-adpkd-ai-platform.jpg",
-            "source_lang": "ko",
-            "headline": "多囊肾AI管理平台",
-            "body": "东山医院着手构建AI平台，帮助多囊肾病患者做好日常健康管理。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -4839,6 +4763,89 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "tabmbio-pancreatic-ct",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "AuntMinnie",
+            "url": "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16542228/ct-imaging-biomarkers-boost-detection-of-early-pancreatic-cancer",
+            "accent": "#00897b",
+            "motif": "sphere",
+            "source_lang": "en",
+            "headline": "AI在CT上发现微小胰腺肿瘤",
+            "body": "Johns Hopkins的TabMBio对sub-2 cm肿瘤AUC达0.99。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "rsna-ai-malpractice-jury",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "AuntMinnie",
+            "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "source_lang": "en",
+            "headline": "陪审团如何评判听从AI的放射科医生",
+            "body": "在2,347人模拟陪审研究中，逾80%指责因错误AI而改掉正确判读的医生。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "athlete-ecg-foundation-models",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "npj Digital Medicine",
+            "url": "https://www.nature.com/articles/s41746-026-03474-9",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/athlete-ecg-foundation-models.png",
+            "source_lang": "en",
+            "headline": "ECG AI在年轻运动员身上接受测试",
+            "body": "三个ECG基础模型经87,662份临床ECGs微调，在43份运动员ECGs上测试。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "prehospital-thrombectomy-xai",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "Scientific Reports",
+            "url": "https://www.nature.com/articles/s41598-026-80551-9",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/prehospital-thrombectomy-xai.png",
+            "source_lang": "en",
+            "headline": "救护车AI识别取栓病例",
+            "body": "基于真实世界EMS数据的可解释模型，旨在患者抵达医院前识别大血管闭塞卒中。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "uk-dhsc-social-care-ai-guidance",
+            "eyebrow": "AI NEWS",
+            "tool": "Medicine",
+            "source": "GOV.UK (DHSC)",
+            "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+            "accent": "#eb367f",
+            "motif": "sphere",
+            "image": "pipeline/media/uk-dhsc-social-care-ai-guidance.jpg",
+            "source_lang": "en",
+            "headline": "UK发布社会照护AI指南",
+            "body": "Swindon试点中，AI让社工行政时间减少63%，评估面谈从1.5小时缩至30分钟。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -4847,35 +4854,45 @@
     "label": "Politics",
     "news": [
       {
-        "id": "house-china-ai-models-report",
-        "source_lang": "en",
+        "id": "korea-aidc-decree-permits",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "House Select Committee on the CCP",
-        "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+        "source": "대한민국 정책브리핑 (과학기술정보통신부)",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
         "accent": "#3b6bff",
         "motif": "cube",
-        "headline": "众议院报告警告\nUS企业依赖中国AI模型",
-        "body": "两位众议院委员会主席称，基于中国开放权重模型构建产品的US企业面临来源与蒸馏方面的质疑。",
-        "mini_headline": "依赖中国AI的US企业",
+        "image": "pipeline/media/korea-aidc-decree-permits.jpg",
+        "headline": "AI数据中心许可\n将实行一并审批",
+        "body": "AI数据中心特别法实施令草案纳入了许可一并审批与电力评估特例。",
+        "mini_headline": "AI数据中心许可特例",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "p",
-              "x": "众议院中国特别委员会（House Select Committee on China）主席John Moolenaar（R-MI）与众议院国土安全委员会（House Committee on Homeland Security）主席Andrew R. Garbarino（R-NY）在联合调查中国开发（Chinese-developed）的open-weight AI模型融入美国企业消费者平台的情况后，发布了一份报告。报告聚焦这些模型的来源、数据、训练、遭未经授权蒸馏的可能性，以及企业采购和获取模型的方式，并评估U.S.的open-weight AI战略能否让美国实体不必在昂贵或专有的U.S.模型与廉价而强大的中国本土（China-based）替代品之间二选一。"
+              "x": "自明年3月起，人工智能数据中心(AIDC)的认定标准和申报程序将新设，位于首都圈以外、合同电力50MW 以下的AIDC可免于电力系统影响评估。科学技术信息通信部20日表示，在《人工智能数据中心产业振兴特别法》施行前已拟定施行令和施行规则制定案，将进行立法预告至下月30日。"
+            },
+            {
+              "t": "img",
+              "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+              "cap": "6月29日政府发布半导体、AI、数据中心等3大重点项目当天，京畿道龙仁市龙仁半导体集群一般产业园区的施工现场。（图片=韩联社）"
             },
             {
               "t": "p",
-              "x": "两个委员会于2026年4月致函Anysphere和Airbnb，由此启动调查，并于2026年7月致函DoorDash。"
+              "x": "AIDC被定义为拥有一定规模以上AI加速器、具备运行加速器所必需的电力和冷却等设施、且设计电力比率在1.5以下的设施。托管形式的“第三方提供型设施”也属于AIDC。"
             },
             {
               "t": "p",
-              "x": "两位主席写道，美国企业正越来越多地采用PRC-developed（中国开发）的open-weight模型，“因为它们价格低廉、可定制，并能与领先的美国系统竞争”；联邦调查还发现，主要的PRC开发商“利用代理网络和欺诈账户获取美国前沿模型的输出”。"
+              "x": "申报分为建设申报（建设工程开工前）、运营申报（开始运营前30天）和变更申报（事由发生后30天内）。为防止只做建设申报以抢占特例的虚假经营者，要求自申报之日起1年内确定开工日期并申报。"
             },
             {
               "t": "p",
-              "x": "两个委员会称，与PLA Cyberspace Force 1st Bureau相关的人员曾多次出现在Zhipu位于Beijing（北京）的总部，最近一次是在2026年8月；PLA采购记录显示，DeepSeek、Alibaba的Qwen、Moonshot和MiniMax模型被嵌入军事网络行动。提交给委员会的文件显示，同样的模型系列正在美国大型企业内部运行。"
+              "x": "许可一并审批程序明确了相关机构的回复期限，逾期未回复的可依据所提交材料推进程序。附设停车场标准比现行标准放宽20%，并可通过市、道条例进一步放宽至50%。"
+            },
+            {
+              "t": "p",
+              "x": "AIDC特区由科学技术信息通信部在90天内审查后，经AI委员会审议、表决后指定；交通、供热、储能、通信、安保等设施也被纳入支援基础设施。下月9日将举行公听会，下位法规计划于法律施行日即明年3月10日一并施行。"
             }
           ]
         },
@@ -4884,162 +4901,74 @@
         "hasFull": true
       },
       {
-        "id": "ccw-autonomous-weapons-2028",
+        "id": "hickenlooper-ai-select-committee",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "POLITICO Europe",
-        "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
+        "source": "AP News",
+        "url": "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403",
         "accent": "#0070f3",
         "motif": "cube",
-        "image": "pipeline/media/ccw-autonomous-weapons-2028.jpg",
-        "headline": "128国支持就自主武器\n展开两年谈判",
-        "body": "CCW审议会议同意在2028年前起草自主武器文书，但俄罗斯等国阻挡了更有力的授权。",
-        "mini_headline": "杀手机器人规则推迟至2028年",
+        "image": "pipeline/media/hickenlooper-ai-select-committee.jpg",
+        "headline": "Hickenlooper\n提议设参议院AI特委",
+        "body": "参议员Hickenlooper提议设立参议院AI特别委员会，并优先推动第三方评估要求。",
+        "mini_headline": "参议院AI特委提议",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "puma-shen-deepfake-indictment",
+        "id": "eu-14-states-ai-copyright",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Politics",
+        "source": "Agence Europe",
+        "url": "https://agenceurope.eu/en/bulletin/article/13986/6/several-member-states-call-on-european-commission-to-propose-legislation-to-better-protect-copyright-from-ai",
+        "accent": "#7928ca",
+        "motif": "cube",
+        "headline": "14个EU成员国要求\n强化AI版权保护",
+        "body": "十四个EU成员国敦促欧盟委员会就AI版权保护立法，并保障创作者公平报酬。",
+        "mini_headline": "EU国家推动AI版权立法",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "mcgill-influencer-deepfakes-trade",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
         "source": "Taipei Times",
-        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868134",
-        "accent": "#7928ca",
-        "motif": "cube",
-        "image": "pipeline/media/puma-shen-deepfake-indictment.jpg",
-        "headline": "男子遭起诉：深度伪造\n台北市长参选人",
-        "body": "桃园检方对一名在投票前发布Puma Shen深度伪造语音视频的男子求处一年徒刑。",
-        "mini_headline": "Puma Shen深度伪造案起诉",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "exam-fairness-tf-cheongwadae",
-        "source_lang": "ko",
-        "eyebrow": "AI NEWS",
-        "tool": "Politics",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261120154100001",
+        "url": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242",
         "accent": "#2ec5c5",
         "motif": "cube",
-        "image": "pipeline/media/exam-fairness-tf-cheongwadae.jpg",
-        "headline": "青瓦台：AI作弊应对\n扩大为根除TF",
-        "body": "青瓦台将韩国高考AI作弊应对TF扩大为“考试公正性恢复TF”。",
-        "mini_headline": "AI作弊根除TF扩大",
+        "image": "pipeline/media/mcgill-influencer-deepfakes-trade.jpg",
+        "headline": "深度伪造网红加剧\nCanada-US贸易摩擦",
+        "body": "McGill研究发现约300个账号用AI-faked真人形象煽动Canada-US对立。",
+        "mini_headline": "深度伪造网红与贸易战",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "trump-offshore-datacenter-tax",
+        "id": "china-ethnic-unity-law-ai",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "source": "ChinaTalk",
+        "url": "https://www.chinatalk.media/p/the-role-of-ai-in-enforcing-chinas",
         "accent": "#eb367f",
         "motif": "cube",
-        "video": "pipeline/media/trump-offshore-datacenter-tax.mp4",
-        "poster": "pipeline/media/trump-offshore-datacenter-tax.jpg",
-        "image": "pipeline/media/trump-offshore-datacenter-tax.jpg",
-        "headline": "特朗普称可能对海外\nAI数据中心征税",
-        "body": "特朗普扬言对在海外建AI数据中心的US企业征收“巨额税”，但这只是口头威胁。",
-        "mini_headline": "特朗普暗示对海外数据中心征税",
+        "image": "pipeline/media/china-ethnic-unity-law-ai.jpg",
+        "headline": "中国民族团结法\n倚重AI执法",
+        "body": "中国民族团结法依靠AI删除内容和预警，并延伸至generative-AI服务提供者。",
+        "mini_headline": "中国团结法背后的AI",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-11-17",
-        "cards": [
-          {
-            "id": "commerce-chip-remote-access",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "Ars Technica",
-            "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-            "accent": "#3b6bff",
-            "motif": "cube",
-            "image": "pipeline/media/commerce-chip-remote-access.jpg",
-            "source_lang": "en",
-            "headline": "US限制远程获取AI芯片",
-            "body": "商务部新规针对中国、俄罗斯和伊朗在另外五个国家远程租用受限AI芯片的做法。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "california-openai-agent-suit",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-            "accent": "#0070f3",
-            "motif": "cube",
-            "image": "pipeline/media/california-openai-agent-suit.png",
-            "source_lang": "en",
-            "headline": "加州起诉OpenAI",
-            "body": "加州指控OpenAI在无防护下测试危险产品，其智能体涉及Hugging Face入侵事件。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "san-francisco-declaration-ai",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "The Register",
-            "url": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/san-francisco-declaration-ai.jpg",
-            "source_lang": "en",
-            "headline": "盟友承诺守护AI供应链",
-            "body": "根据《旧金山宣言》，US、韩国、日本等国承诺保护AI基础设施免受敌对行为者侵害。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "csat-device-wifi-block",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "연합뉴스",
-            "url": "https://www.yna.co.kr/view/AKR20261116029451001",
-            "accent": "#2ec5c5",
-            "motif": "cube",
-            "image": "pipeline/media/csat-device-wifi-block.jpg",
-            "source_lang": "ko",
-            "headline": "高考收缴设备、屏蔽Wi-Fi",
-            "body": "因担忧AI作弊，政府拟在高考考场收缴智能设备并屏蔽公共Wi-Fi。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "fbi-aws-agent-cybercrime",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "The Register",
-            "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-            "accent": "#ff5a4d",
-            "motif": "cube",
-            "image": "pipeline/media/fbi-aws-agent-cybercrime.jpg",
-            "source_lang": "en",
-            "headline": "FBI警告AI智能体犯罪",
-            "body": "FBI和AWS警告，攻击者正利用AI智能体自动化针对全球关键机构的网络犯罪。",
-            "lang": "zh",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "cards": [
@@ -5373,6 +5302,90 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "cards": [
+          {
+            "id": "house-china-ai-models-report",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "House Select Committee on the CCP",
+            "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+            "accent": "#3b6bff",
+            "motif": "cube",
+            "source_lang": "en",
+            "headline": "依赖中国AI的US企业",
+            "body": "两位众议院委员会主席称，基于中国开放权重模型构建产品的US企业面临来源与蒸馏方面的质疑。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "ccw-autonomous-weapons-2028",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "POLITICO Europe",
+            "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/ccw-autonomous-weapons-2028.jpg",
+            "source_lang": "en",
+            "headline": "杀手机器人规则推迟至2028年",
+            "body": "CCW审议会议同意在2028年前起草自主武器文书，但俄罗斯等国阻挡了更有力的授权。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "puma-shen-deepfake-indictment",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "Taipei Times",
+            "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868134",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/puma-shen-deepfake-indictment.jpg",
+            "source_lang": "en",
+            "headline": "Puma Shen深度伪造案起诉",
+            "body": "桃园检方对一名在投票前发布Puma Shen深度伪造语音视频的男子求处一年徒刑。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "exam-fairness-tf-cheongwadae",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "연합뉴스",
+            "url": "https://www.yna.co.kr/view/AKR20261120154100001",
+            "accent": "#2ec5c5",
+            "motif": "cube",
+            "image": "pipeline/media/exam-fairness-tf-cheongwadae.jpg",
+            "source_lang": "ko",
+            "headline": "AI作弊根除TF扩大",
+            "body": "青瓦台将韩国高考AI作弊应对TF扩大为“考试公正性恢复TF”。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "trump-offshore-datacenter-tax",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+            "accent": "#eb367f",
+            "motif": "cube",
+            "image": "pipeline/media/trump-offshore-datacenter-tax.jpg",
+            "source_lang": "en",
+            "headline": "特朗普暗示对海外数据中心征税",
+            "body": "特朗普扬言对在海外建AI数据中心的US企业征收“巨额税”，但这只是口头威胁。",
+            "lang": "zh",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -5390,54 +5403,40 @@
   "medicine",
   "politics"
 ];
-  window.AX_ARCHIVE_TOTAL = 4700;
+  window.AX_ARCHIVE_TOTAL = 4800;
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [
   {
-    "id": "figma-specs-agent-plan",
+    "id": "gemini-mac-computer-use",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
-    "tool": "Figma",
-    "source": "Figma Blog",
-    "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
-    "accent": "#0070f3",
+    "tool": "AI Workflow",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+    "accent": "#ff5a4d",
     "motif": "frame",
-    "image": "pipeline/media/figma-specs-agent-plan.jpg",
-    "headline": "Figma Specs\n将上下文变为计划",
-    "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
-    "mini_headline": "Figma Specs为智能体供料",
+    "image": "pipeline/media/gemini-mac-computer-use.png",
+    "headline": "Gemini在后台窗口\n接管Mac应用",
+    "body": "Gemini for Mac可在独立后台窗口中操作应用、文件和网站，用户可继续工作。",
+    "mini_headline": "Gemini替你操作Mac应用",
     "full": {
-      "mode": "summary",
+      "mode": "full",
       "blocks": [
         {
           "t": "img",
-          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+          "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
         },
         {
           "t": "p",
-          "x": "如今团队从原型走向生产的速度前所未有，书面需求、设计细节和工程指导常常散落在不同的文档和链接里。Specs在画布上提供了一个共享的上下文容器，团队成员和智能体可以一起补充内容。在这个工作流中，虚构的集市购物应用Pickup的一名工程师用Specs和Figma智能体，把繁杂的上下文整理成编码智能体可以据此构建的计划。"
+          "x": "Google现在让Gemini在后台处理Mac上的任务。Gemini Mac应用中的新功能“Computer Use”可跨本地文件、桌面应用和网站完成多步骤任务。Google表示，用户只需描述目标，Gemini便会点击、输入，并在菜单和表单间操作。一切都在带有实时聊天预览的独立后台窗口中运行，屏幕和光标保持空闲，用户可不受打扰地继续工作。"
         },
         {
           "t": "p",
-          "x": "添加Hex连接器后，工程师让智能体找出Pickup使用量最高的地方。智能体生成了一份按城市列出应用使用量和订单量的规格，并附上展示前四个城市地图的代码图层。团队决定在Bengaluru, India（印度班加罗尔）上线。"
-        },
-        {
-          "t": "img",
-          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-          "cap": "Figma智能体生成使用情况报告和四个地图代码图层，帮助团队比较潜在的上线城市。"
+          "x": "用户可选择Gemini能访问哪些应用，实时查看每一步，随时暂停，并提前批准关键操作。Google举的例子包括批量编辑照片和3D场景、根据本地PDFs填写配送表单，以及制作演示文稿。"
         },
         {
           "t": "p",
-          "x": "工程师选中技术规格、带注释的设计画框、交互式地图代码图层、新组件和设计系统指南，然后运行团队的build-implementation-plan技能。智能体创建一份新规格，把这些输入整合成供编码智能体构建该功能的计划。"
-        },
-        {
-          "t": "img",
-          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-          "cap": "智能体生成一份含实施计划的规格，供工程师在交给编码智能体之前审阅。"
-        },
-        {
-          "t": "p",
-          "x": "在评论中与智能体和一位设计师敲定细节后，工程师把规格链接粘贴到Codex并输入提示：“实现这个功能（Implement this feature.）”。借助Figma的MCP，Codex只需一个链接就能读取规格、带注释的画框、代码图层和设计系统组件。Specs已在所有方案中开放公测，可在网页、桌面和移动端使用。"
+          "x": "Computer Use今天起在美国（US）以英语推出，Gemini Mac应用已开放下载。OpenAI最近也在发力Computer Use，凭借其Astra模型大幅领先。"
         }
       ]
     },
@@ -5446,162 +5445,75 @@
     "hasFull": true
   },
   {
-    "id": "claude-mobile-tabbar",
-    "source_lang": "en",
-    "eyebrow": "AI NEWS",
-    "tool": "AI Workflow",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
-    "accent": "#ff5a4d",
-    "motif": "frame",
-    "image": "pipeline/media/claude-mobile-tabbar.jpg",
-    "headline": "Claude移动应用\n改用底部标签栏",
-    "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
-    "mini_headline": "Claude启用标签栏",
-    "lang": "zh",
-    "hasFull": true,
-    "locked": true
-  },
-  {
-    "id": "ava-studio-launch-videos",
-    "source_lang": "ko",
-    "eyebrow": "AI NEWS",
-    "tool": "AI Workflow",
-    "source": "Design Compass (디자인 나침반)",
-    "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
-    "accent": "#eb367f",
-    "motif": "frame",
-    "video": "pipeline/media/ava-studio-launch-videos.mp4",
-    "poster": "pipeline/media/ava-studio-launch-videos.jpg",
-    "image": "pipeline/media/ava-studio-launch-videos.jpg",
-    "headline": "Ava把热门发布视频\n剪辑搬到你的画面",
-    "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
-    "mini_headline": "重现发布视频剪辑",
-    "lang": "zh",
-    "hasFull": true,
-    "locked": true
-  },
-  {
-    "id": "xjet-atelier-jewelry",
+    "id": "siemens-agibot-gripper-agent",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
     "tool": "Text-to-CAD",
-    "source": "VoxelMatters",
-    "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
+    "source": "3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/",
     "accent": "#7928ca",
     "motif": "cube",
-    "image": "pipeline/media/xjet-atelier-jewelry.jpg",
-    "headline": "XJet Atelier\n把提示词变成金属吊坠",
-    "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
-    "mini_headline": "XJet按提示打印首饰",
+    "image": "pipeline/media/siemens-agibot-gripper-agent.jpg",
+    "headline": "Siemens智能体\n凭文字设计机器人夹爪",
+    "body": "Siemens AI智能体把文字提示变成经验证、可3D打印的AGIBOT夹爪。",
+    "mini_headline": "文字提示直达机器人夹爪",
     "lang": "zh",
     "hasFull": true,
     "locked": true
   },
   {
-    "id": "artificial-poster-aislop",
+    "id": "gemini-omni-gif-maker",
+    "source_lang": "en",
+    "eyebrow": "AI NEWS",
+    "tool": "KeyShot",
+    "source": "Digital Trends",
+    "url": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
+    "accent": "#f5a623",
+    "motif": "sphere",
+    "image": "pipeline/media/gemini-omni-gif-maker.jpg",
+    "headline": "Gemini可将提示词\n和照片做成GIFs",
+    "body": "Gemini用Omni 1.2 Flash把提示词、照片和视频变成循环GIFs，八国免费。",
+    "mini_headline": "Gemini也能自己做GIFs了",
+    "lang": "zh",
+    "hasFull": true,
+    "locked": true
+  },
+  {
+    "id": "webflow-mcp-designer-flow",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
     "tool": "Figma",
-    "source": "Creative Bloq",
-    "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
-    "accent": "#3b6bff",
+    "source": "UX Planet",
+    "url": "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6",
+    "accent": "#0070f3",
     "motif": "frame",
-    "image": "pipeline/media/artificial-poster-aislop.jpg",
-    "headline": "《Artificial》海报\n故意模仿AI slop",
-    "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
-    "mini_headline": "故意模仿AI slop的海报",
+    "image": "pipeline/media/webflow-mcp-designer-flow.jpg",
+    "headline": "借助Webflow MCP\n省去Figma重建",
+    "body": "设计师用Webflow MCP上的智能体取代了Figma-to-Webflow手工重建。",
+    "mini_headline": "经MCP从Figma到Webflow",
+    "lang": "zh",
+    "hasFull": true,
+    "locked": true
+  },
+  {
+    "id": "comsol-2026-mcp-server",
+    "source_lang": "en",
+    "eyebrow": "AI NEWS",
+    "tool": "Text-to-CAD",
+    "source": "Engineering.com",
+    "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+    "accent": "#3b6bff",
+    "motif": "cube",
+    "image": "pipeline/media/comsol-2026-mcp-server.jpg",
+    "headline": "Comsol经MCP\n向AI智能体开放仿真",
+    "body": "新版Comsol新增MCP服务器，让AI智能体可构建仿真模型、流程和方程。",
+    "mini_headline": "Comsol新增MCP服务器",
     "lang": "zh",
     "hasFull": true,
     "locked": true
   }
 ];
   window.AX_DAYS = [
-  {
-    "date": "2026-11-17",
-    "cards": [
-      {
-        "id": "claude-canvas-html",
-        "eyebrow": "AI NEWS",
-        "tool": "KeyShot",
-        "source": "The Decoder",
-        "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/claude-canvas-html.jpg",
-        "source_lang": "en",
-        "headline": "Claude 把 HTML 放进画布",
-        "body": "Claude现在能在复杂的画布图形和3D 效果中放入真实文本、按钮等网页元素。",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "lovable-drafts-parallel",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Lovable",
-        "url": "https://lovable.dev/blog/introducing-drafts",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/lovable-drafts-parallel.jpg",
-        "source_lang": "en",
-        "headline": "Lovable 推出 Drafts",
-        "body": "借助Lovable Drafts，团队可在线上应用不变的情况下并行探索项目的不同版本。",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "astryx-v0-skill",
-        "eyebrow": "AI NEWS",
-        "tool": "Design Tokens",
-        "source": "Astryx (Meta)",
-        "url": "https://astryx.atmeta.com/blog/astryx-is-now-available-in-v0",
-        "accent": "#2ec5c5",
-        "motif": "swatch",
-        "image": "pipeline/media/astryx-v0-skill.png",
-        "source_lang": "en",
-        "headline": "Astryx 登陆 v0",
-        "body": "Astryx现已作为设计系统技能进入v0，在每次构建中提供组件、示例和模板。",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "gemini-notebook-sites",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "source": "Google",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/gemini-notebook-sites.jpg",
-        "source_lang": "en",
-        "headline": "Gemini Notebook 可建网站",
-        "body": "Gemini Notebook现在能把研究和资料变成项目追踪器、可视化仪表板等互动网站。",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "onepassword-figma-make",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Figma Blog",
-        "url": "https://www.figma.com/blog/1password-figma-make/",
-        "accent": "#eb367f",
-        "motif": "frame",
-        "image": "pipeline/media/onepassword-figma-make.png",
-        "source_lang": "en",
-        "headline": "1Password 用 Make 设计",
-        "body": "1Password设计团队用Figma Make打造从自动填充到AI代理审批的可信体验。",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      }
-    ]
-  },
   {
     "date": "2026-11-18",
     "cards": [
@@ -5936,6 +5848,91 @@
         "source_lang": "en",
         "headline": "用闪光图标审查AI样稿",
         "body": "文章建议以常见的AI闪光图标为标记，快速审查PM的AI-generated样稿。",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "cards": [
+      {
+        "id": "figma-specs-agent-plan",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "source": "Figma Blog",
+        "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/figma-specs-agent-plan.jpg",
+        "source_lang": "en",
+        "headline": "Figma Specs为智能体供料",
+        "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "claude-mobile-tabbar",
+        "eyebrow": "AI NEWS",
+        "tool": "AI Workflow",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/claude-mobile-tabbar.jpg",
+        "source_lang": "en",
+        "headline": "Claude启用标签栏",
+        "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "ava-studio-launch-videos",
+        "eyebrow": "AI NEWS",
+        "tool": "AI Workflow",
+        "source": "Design Compass (디자인 나침반)",
+        "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
+        "accent": "#eb367f",
+        "motif": "frame",
+        "image": "pipeline/media/ava-studio-launch-videos.jpg",
+        "source_lang": "ko",
+        "headline": "重现发布视频剪辑",
+        "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "xjet-atelier-jewelry",
+        "eyebrow": "AI NEWS",
+        "tool": "Text-to-CAD",
+        "source": "VoxelMatters",
+        "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
+        "accent": "#7928ca",
+        "motif": "cube",
+        "image": "pipeline/media/xjet-atelier-jewelry.jpg",
+        "source_lang": "en",
+        "headline": "XJet按提示打印首饰",
+        "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "artificial-poster-aislop",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "source": "Creative Bloq",
+        "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
+        "accent": "#3b6bff",
+        "motif": "frame",
+        "image": "pipeline/media/artificial-poster-aislop.jpg",
+        "source_lang": "en",
+        "headline": "故意模仿AI slop的海报",
+        "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
         "lang": "zh",
         "hasFull": true,
         "locked": true

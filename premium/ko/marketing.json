@@ -5823,6 +5823,149 @@
           "x": "일부 쿠폰 사이트는 Googlebot 같은 봇에 유효한 코드를 숨기는 방안을 검토할 수도 있다. 다만 상당수는 이미 구조화 데이터로 이 정보를 공유하고 있다."
         }
       ]
+    },
+    "marketing/aws-quick-meta-ads-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 들어왔다. Quick은 이 커넥터로 광고용 Model Context Protocol(MCP) 서버 작업에 접근한다. Meta 광고 고객은 Meta 광고 관리 네트워크에 연결된 채로 Quick 안에서 자연어로 캠페인을 만들고 관리하고 분석한다."
+        },
+        {
+          "t": "p",
+          "x": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 묶어 대시보드, 문서, 슬라이드 덱, 자동화 워크플로까지 만든다."
+        },
+        {
+          "t": "video",
+          "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+        },
+        {
+          "t": "p",
+          "x": "영상에는 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 다음, Quick이 접근할 Pages, Businesses, Instagram 계정을 고르는 과정이 나온다. 한 프롬프트는 지난 캠페인 성과로 여덟 장짜리 출시 계획 슬라이드를 만들고, 또 다른 프롬프트는 두 광고 세트의 지출, 리드, 리드당 비용을 비교하는 대시보드를 짠다."
+        },
+        {
+          "t": "p",
+          "x": "쓰임새는 캠페인 기획·집행과 크리에이티브 피로도 감지에서 전환 리프트 연구, 카탈로그 수정, 재고·마진에 맞춘 지출 조정까지 넓다. 캠페인 생성이나 예산 변경 같은 쓰기 작업은 실행 전에 Quick이 사용자 허가를 받는다."
+        }
+      ]
+    },
+    "marketing/google-aimode-multiturn-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+          "cap": "Google AI Mode 광고는 후속 답변 아래에도 뜬다. 네 번째 질문까지 확인됐다"
+        },
+        {
+          "t": "p",
+          "x": "Search Engine Roundtable의 Barry Schwartz는 2026년 11월 6일 로그아웃한 데스크톱 세션에서 Google AI Mode를 시험했다. \"which foldable phone should I get\"(어떤 폴더블폰을 사야 할까)라고 묻자 첫 답변 아래로 Motorola와 Samsung 폴더블폰 제품 카드 네 장짜리 \"Sponsored\" 유닛이 떴다."
+        },
+        {
+          "t": "p",
+          "x": "후속 질문 \"i love iphones, does the duo need a case?\"(아이폰을 좋아하는데, duo에 케이스가 필요할까?)에는 케이스 카드 네 장으로 된 두 번째 Sponsored 유닛이 붙었다. 세 장은 Vyrloom, 한 장은 OtterBox 제품이었다. 세 번째와 네 번째 후속 질문에서도 광고는 더 나왔다고 한다. 두 유료 유닛 어디에도 Apple이나 Google 제품은 없었다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 10월 28일 US 대상 멀티턴 광고를 발표하면서 이 광고가 \"사용자의 후속 질문에 대한 응답에 나타난다\"고 밝혔다. Search, Shopping, Performance Max 캠페인은 자동으로 대상에 들어간다. 광고주는 AI Mode만 따로 타기팅할 수도, Search와 별개로 AI Mode에서 빠질 수도 없다."
+        },
+        {
+          "t": "p",
+          "x": "보고는 합산된다. 노출, 클릭, 전환, 비용이 일반 캠페인 보고서에 함께 잡히고, 첫 번째 턴과 다섯 번째 턴을 가르는 항목은 없다."
+        }
+      ]
+    },
+    "marketing/bitmovin-gam-scene-signals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+          "cap": "Reinhard Grandl, Bitmovin Chief Product Officer"
+        },
+        {
+          "t": "p",
+          "x": "Bitmovin이 자사 AI Scene Analysis를 Google Ad Manager의 publisher-provided signals(PPS)와 연동한다고 발표했다. 바이어는 작품 전체에 붙는 라벨 하나 대신 퍼블리셔 영상 콘텐츠의 장면별 맥락을 받게 된다."
+        },
+        {
+          "t": "p",
+          "x": "AI Scene Analysis는 Bitmovin VOD Encoder와 Player에 미리 들어가 있다. 모든 에셋의 모든 장면을 언어와 관계없이 분석해 IAB Content Taxonomy 카테고리에 매핑하고, 광고를 자연스럽게 넣을 지점을 짚는 광고 기회 점수를 매긴다."
+        },
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+          "cap": "장면 단위 신호와 오디언스 신호는 인코딩된 에셋에서 출발해 Bitmovin Player와 IMA SDK를 거쳐 Google Ad Manager로 간다"
+        },
+        {
+          "t": "p",
+          "x": "Bitmovin Player는 광고 요청이 들어올 때마다 이 신호를 퍼블리셔의 퍼스트파티 오디언스 세그먼트와 함께 IMA SDK로 Google Ad Manager에 넘긴다. Open Auction, Private Auction, Preferred Deals, Programmatic Guaranteed에 모두 적용되고, 사용자 식별자는 바이어에게 공유하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "연동은 AI Scene Analysis와 Bitmovin Player를 Google IMA SDK와 함께 쓰는 Bitmovin 고객에게 바로 열려 있다. CPO Reinhard Grandl은 \"이제 모든 장면이 어떤 언어로든 자체 맥락을 광고 요청에 자동으로 담을 수 있다\"고 말했다."
+        }
+      ]
+    },
+    "marketing/agentic-black-friday-rocky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+          "cap": "AI 에이전트는 소매에 작지만 뚜렷한 흔적을 남기는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Dean Mandelos는 요리를 좋아하는 자매에게 줄 선물을 Meta의 Muse 에이전트에게 물었고, 칼 세트를 추천받았다. 하지만 만료되거나 품절된 상품 목록에 막혔고 Amazon과 eBay에서는 아예 차단당했다. \"더 믿을 이유가 있어야 한다\"는 게 그의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "Kantar 애널리스트 Gina Logan은 \"AI가 실제로 의미 있는 역할을 할 수 있는 첫 Black Friday인 것은 분명하지만, 아직 완전히 자율적이지는 않다\"고 말했다. 이어 \"쇼핑객의 삼분의 이가 적어도 가끔은 쇼핑에 AI를 쓰지만, 절반 이상은 여전히 구매 결정을 직접 하고 싶어 한다\"고 덧붙였다."
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+          "cap": "쇼핑객은 습관을 쉽게 바꾸지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Bain & Co.가 Similarweb 데이터를 분석해 보니 소매업체 웹 트래픽에서 AI 어시스턴트가 차지한 몫은 1%에도 못 미쳤다. 10월 마지막 주 Uber 거래 약 3억2000만 건 중 AI 에이전트를 거친 것은 약 500건에 그쳤다. All Star Elite에서도 에이전트 트래픽은 방문의 약 1%이고, 대부분 Muse에서 들어온다."
+        },
+        {
+          "t": "p",
+          "x": "Walmart는 에이전트 쇼핑을 돕는 도구를 내놓는 반면, Amazon은 Alexa를 앞세우며 외부 봇을 막는다."
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+          "cap": "Amazon은 서드파티 AI 에이전트가 자사 사이트에 온전히 접근하지 못하게 막는다."
+        }
+      ]
+    },
+    "marketing/google-ucp-grocery-carts-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
+          "cap": "Google이 US 쇼핑객용 Target·Albertsons 장바구니를 Search와 Gemini 안에 들였다"
+        },
+        {
+          "t": "p",
+          "x": "Google이 US 사용자에게 Search와 Gemini 앱에서 쓰는 Albertsons, Safeway, Shaw's, Target용 Connected Apps를 풀기 시작했다. 대화만으로 장보기 주문을 꾸려 결제 단계까지 넘기는 앱으로, Google의 Universal Commerce Protocol 위에서 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "같은 11월 20일 게시물에는 다른 소식도 담겼다. Experian의 신용 도구가 Gemini에서 Search로 옮겨 오고, H&R Block은 Search에서 세금과 환급액을 추정해 준다. 몇 주 안에 Angi와 Thumbtack 계정도 Search에 연결할 수 있게 된다."
+        },
+        {
+          "t": "p",
+          "x": "Google이 든 예시는 AI Mode에서 만든 Target 주문으로, 품목 여덟 개에 소계는 $37.49다. 예시는 장바구니에서 끝난다. 결제, 대체 상품, 픽업 일정은 나오지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 상품 순위를 어떻게 매기는지, 결제를 누가 처리하는지, 이 흐름에 광고가 붙을지 밝히지 않았다. 목록에 Walmart는 없다."
+        }
+      ]
     }
   }
 }

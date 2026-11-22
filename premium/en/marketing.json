@@ -5823,6 +5823,149 @@
           "x": "Some coupon sites may consider not showing valid codes to Googlebot or other bots, but many already share this data in their structured data."
         }
       ]
+    },
+    "marketing/aws-quick-meta-ads-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "Today, AWS Quick added a Meta ads AI connector. The connector gives Quick access to ads Model Context Protocol (MCP) server operations. Meta ads customers can use natural language to create, manage, and analyze campaigns within Quick, while staying connected to the Meta ad management network."
+        },
+        {
+          "t": "p",
+          "x": "Quick can also combine Meta ad management data with first- and third-party data sources to create dashboards, documents, slide decks, and automated workflows."
+        },
+        {
+          "t": "video",
+          "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The video shows how to install the connector from Customize > Connectors, sign in with Facebook, and choose which Pages, Businesses, and Instagram accounts Quick can access. One prompt turns past campaign results into an eight-slide launch-plan deck; another builds a dashboard comparing spend, leads, and cost per lead for two ad sets."
+        },
+        {
+          "t": "p",
+          "x": "Use cases range from planning and launching campaigns and flagging creative fatigue to conversion lift studies, catalog fixes and aligning spend with stock and margin. Before Quick creates a campaign, changes a budget, or runs another write action, it asks for your permission."
+        }
+      ]
+    },
+    "marketing/google-aimode-multiturn-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+          "cap": "Google AI Mode ads appear under follow-up answers, seen as deep as the fourth question"
+        },
+        {
+          "t": "p",
+          "x": "Barry Schwartz of Search Engine Roundtable tested Google AI Mode on November 6, 2026, in a signed-out desktop session. He asked \"which foldable phone should I get\" and got a \"Sponsored\" unit of four product cards — Motorola and Samsung foldables — under the first answer."
+        },
+        {
+          "t": "p",
+          "x": "His follow-up, \"i love iphones, does the duo need a case?\", drew a second Sponsored unit of four case cards, three from Vyrloom and one OtterBox. He reported more ads on his third and fourth follow-ups. Neither paid unit carried an Apple or Google product."
+        },
+        {
+          "t": "p",
+          "x": "Google announced multiturn ads for the US on October 28, saying they \"show up on responses to follow-up user queries.\" Search, Shopping and Performance Max campaigns are eligible automatically; advertisers cannot target AI Mode exclusively or opt out of it separately from Search."
+        },
+        {
+          "t": "p",
+          "x": "Reporting is aggregate: impressions, clicks, conversions and cost sit in standard campaign reports, and none of it distinguishes a first turn from a fifth."
+        }
+      ]
+    },
+    "marketing/bitmovin-gam-scene-signals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+          "cap": "Reinhard Grandl, Chief Product Officer, Bitmovin"
+        },
+        {
+          "t": "p",
+          "x": "Bitmovin has announced an integration between Bitmovin's AI Scene Analysis and publisher-provided signals (PPS) in Google Ad Manager, giving buyers scene-by-scene context for publishers' video content rather than a single label for the whole title."
+        },
+        {
+          "t": "p",
+          "x": "AI Scene Analysis, pre-integrated into Bitmovin's VOD Encoder and Player, analyses every scene of every asset, in any language, maps it to IAB Content Taxonomy categories and adds an ad-opportunity score that identifies natural break points."
+        },
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+          "cap": "How scene-level and audience signals travel from an encoded asset to Google Ad Manager through Bitmovin's Player and the IMA SDK"
+        },
+        {
+          "t": "p",
+          "x": "On every ad request, Bitmovin's Player passes those signals to Google Ad Manager through the IMA SDK, with the publisher's first-party audience segments, across Open Auction, Private Auction, Preferred Deals and Programmatic Guaranteed — without sharing user identifiers with buyers."
+        },
+        {
+          "t": "p",
+          "x": "The integration is available now to Bitmovin customers using AI Scene Analysis and Bitmovin's Player with the Google IMA SDK. \"Every scene can now automatically carry its own context into the ad request in any language,\" said CPO Reinhard Grandl."
+        }
+      ]
+    },
+    "marketing/agentic-black-friday-rocky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+          "cap": "AI agents are making a small but distinct mark on retail."
+        },
+        {
+          "t": "p",
+          "x": "Dean Mandelos asked Meta's Muse agent for a gift for his sister, who loves to cook; it recommended a set of knives. It also hit listings that had expired or sold out, and outright blocks from Amazon and eBay. \"I need to have a reason to trust it more,\" he said."
+        },
+        {
+          "t": "p",
+          "x": "\"It's the first Black Friday that AI can really play a meaningful role for sure, but it's not fully autonomous yet,\" said Kantar analyst Gina Logan. \"Two-thirds of shoppers are using AI for shopping at least sometimes, but over half still prefer to control their own shopping decisions.\""
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+          "cap": "Shoppers tend to be slow to change their habits."
+        },
+        {
+          "t": "p",
+          "x": "A Bain & Co. analysis of Similarweb data found AI assistants are less than 1% of retailers' web traffic; of about 320 million Uber transactions in the final week of October, only about 500 came from AI agents. At All Star Elite, agentic traffic is about 1% of visits, mostly from Muse."
+        },
+        {
+          "t": "p",
+          "x": "Walmart is rolling out tools to make agentic shopping easier, while Amazon blocks external bots in favor of Alexa."
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+          "cap": "Amazon is blocking third-party AI agents from fully accessing its site."
+        }
+      ]
+    },
+    "marketing/google-ucp-grocery-carts-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
+          "cap": "Google puts Target and Albertsons grocery carts inside Search and Gemini for US shoppers"
+        },
+        {
+          "t": "p",
+          "x": "Google began rolling out Connected Apps for Albertsons, Safeway, Shaw's and Target in Search and the Gemini app for US users. The apps can build a grocery order from a conversation and move it to checkout, and run on Google's Universal Commerce Protocol."
+        },
+        {
+          "t": "p",
+          "x": "The same November 20 post says Experian's credit tools are moving from Gemini into Search, H&R Block can estimate taxes and refunds from Search, and Angi and Thumbtack accounts can be linked in Search in the coming weeks."
+        },
+        {
+          "t": "p",
+          "x": "Google's example shows a Target order built in AI Mode with a $37.49 subtotal for eight items. It stops at the cart and does not show payment, substitutions or pickup scheduling."
+        },
+        {
+          "t": "p",
+          "x": "Google has not said how products are ranked, who processes payment, or whether ads will appear in these flows. Walmart is absent from the list."
+        }
+      ]
     }
   }
 }

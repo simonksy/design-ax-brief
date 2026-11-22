@@ -5257,6 +5257,124 @@
           "x": "La hipertensión aumenta el riesgo de enfermedad cardiovascular y de mortalidad por todas las causas, pero alrededor de la mitad de los adultos con hipertensión (sobre todo los más jóvenes) no saben que la tienen. Los wearables de consumo, ampliamente disponibles, pueden medir la presión arterial (BP), pero suelen requerir calibración con mediciones de BP con manguito. Además, faltan datos sobre su rendimiento frente al cribado establecido, lo que limita su traslado a la práctica clínica."
         }
       ]
+    },
+    "medicine/subtle-gadolinium-tenth-mri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Martes, 1 de diciembre | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+        },
+        {
+          "t": "p",
+          "x": "¿Puede el aprendizaje profundo (DL) ayudar a reducir la dosis de agente de contraste basado en gadolinio (GBCA) en la MRI? Así parece, según una investigación que se presentará el martes por la tarde."
+        },
+        {
+          "t": "p",
+          "x": "Los GBCAs son esenciales para la MRI cerebral, pero su uso ha suscitado preocupación por la retención de gadolinio a largo plazo en el cerebro y por el aumento de su concentración ambiental en las aguas subterráneas, señalaron el ponente Thomas C. Arnold, PhD, de Subtle Medical, y sus colegas."
+        },
+        {
+          "t": "p",
+          "x": "El estudio evaluó un algoritmo de aprendizaje profundo diseñado para restaurar el realce de contraste a partir del 10% de la dosis estándar hasta igualar la calidad de dosis completa en exámenes de MRI cerebral. Incluyó datos de 63 pacientes; cada uno recibió una dosis baja de gadolinio (10%) y una imagen T1 de dosis baja tras una secuencia T1 precontraste, y después el resto de la dosis de GBCA para obtener imágenes T1 de dosis completa."
+        },
+        {
+          "t": "p",
+          "x": "El algoritmo generó imágenes de «dosis baja realzada», y dos radiólogos revisaron de forma independiente las imágenes de atención estándar o las de dosis baja realzada en un diseño ciego y aleatorizado, puntuando las características de las lesiones en una escala Likert de cuatro puntos."
+        },
+        {
+          "t": "p",
+          "x": "La concordancia entre lectores para las imágenes de atención estándar y la concordancia intralector entre las imágenes de atención estándar y las de dosis baja realzada no mostraron diferencias significativas (p = 0.128). Tampoco hubo diferencias significativas en las características de las lesiones."
+        }
+      ]
+    },
+    "medicine/tele-cranio-ct-free": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La tomografía computarizada (CT) es fundamental en la atención de las deformidades craneomaxilofaciales (CMF), pero la dependencia de las imágenes hospitalarias limita la evaluación preoperatoria a distancia, y la repetición de estudios puede aumentar la radiación y las cargas de acceso, sobre todo en niños."
+        },
+        {
+          "t": "p",
+          "x": "Tele-Cranio, un marco de inteligencia artificial orientado a la telemedicina, usa fotografías faciales 2D tomadas con dispositivos móviles para reconstruir la morfología facial 3D, estimar la morfología esquelética correspondiente y apoyar la simulación facial posoperatoria condicionada a planes esqueléticos definidos por el cirujano."
+        },
+        {
+          "t": "p",
+          "x": "Se desarrolló con 539 muestras multimodales emparejadas de personas de 3–60 años, incluidos 334 pacientes con deformidades CMF que abarcan maloclusión, labio leporino con o sin paladar hendido, microsomía hemifacial y anomalías raras. Su modelo central, el Bidirectional Craniomaxillofacial Model-Deformity, vincula los tejidos blandos faciales con las estructuras esqueléticas."
+        },
+        {
+          "t": "p",
+          "x": "Validado en subgrupos CMF heterogéneos, Tele-Cranio ofrece una capa CT-free e interpretable para el triaje remoto, la consulta pre-CT, el seguimiento sin radiación y la comunicación cirujano–paciente, y complementa, en lugar de sustituir, el diagnóstico definitivo y la planificación quirúrgica CT-based (basados en CT)."
+        }
+      ]
+    },
+    "medicine/bmj-antibiotic-llm-cot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En un diseño factorial 2×2 doble ciego, se generaron prescripciones para 59 casos complejos de infección en pacientes hospitalizados con un LLM médico de dominio específico (MedGo) y con DeepSeek V.3.5, cada uno con prompts estándar y de cadena de pensamiento (CoT), junto a las prescripciones reales de los médicos. Tres clínicos sénior puntuaron las pautas; ChatGPT V.5.2 se probó como evaluador automático."
+        },
+        {
+          "t": "img",
+          "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
+          "cap": "Comparación de las puntuaciones globales de prescripción antibiótica entre modelos."
+        },
+        {
+          "t": "p",
+          "x": "Clasificación de las puntuaciones globales: médicos (4.76±0.04) > MedGo CoT (4.58±0.09) > DeepSeek CoT (4.41±0.11) > MedGo (4.25±0.16) > DeepSeek (3.98±0.20). CoT mejoró de forma significativa ambos modelos (DeepSeek+ 0.43; MedGo+ 0.33). La correlación ChatGPT-expert fue insignificante en conjunto (Kendall τ=0.153)."
+        },
+        {
+          "t": "p",
+          "x": "Aunque MedGo-CoT se acercó al rendimiento de los médicos, persistieron brechas de seguridad notables. Los LLMs de dominio específico con prompts CoT mejoran las decisiones de prescripción, pero no pueden sustituir el juicio clínico experto; la evaluación automática con LLM resultó poco fiable."
+        }
+      ]
+    },
+    "medicine/nhs-outpatient-noshow-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este estudio de cohortes retrospectivo desarrolló y validó un modelo para estimar, a nivel de cita, el riesgo de inasistencia a consultas externas (‘did not attend’, DNA), con el objetivo de permitir intervenciones dirigidas que reduzcan las DNAs y mejoren la eficiencia de las consultas."
+        },
+        {
+          "t": "p",
+          "x": "Utilizó historias clínicas electrónicas de atención primaria, hospitalarias, comunitarias y de salud mental de citas de consultas externas en el sureste de Londres entre enero de 2018 y diciembre de 2022."
+        },
+        {
+          "t": "p",
+          "x": "De 1 033 601 citas de consultas externas, 112 406 (10.9%) terminaron en DNA. El modelo final de regresión logística incluyó 40 variables predictoras; las principales fueron el tiempo de antelación de la cita, el historial previo de DNA y la edad del paciente. Alcanzó un área bajo la curva ROC de 0.69 en datos de prueba reservados."
+        },
+        {
+          "t": "img",
+          "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
+          "cap": "Resultados de rendimiento en el conjunto de prueba final, con la curva AUC, el gráfico de calibración, la matriz de confusión y las métricas asociadas."
+        },
+        {
+          "t": "p",
+          "x": "Se requiere una validación externa en poblaciones y entornos sanitarios independientes antes de su implantación fuera del entorno de desarrollo."
+        }
+      ]
+    },
+    "medicine/tabmbio-pancreatic-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los investigadores informarán que combinar biomarcadores de imagen de CT con variables clínicas mejora la detección del cáncer de páncreas en etapa temprana más allá de la segmentación directa de la lesión."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque respalda la \"detección oportunista en estudios ya existentes\", según la presentadora del estudio y candidata a PhD Wenxuan Li, de Johns Hopkins University en Baltimore."
+        },
+        {
+          "t": "p",
+          "x": "En esta sesión del martes por la tarde, Li compartirá los resultados de un estudio que puso a prueba TabMBio, un algoritmo de IA que ella y sus colegas desarrollaron y que combina biomarcadores derivados de imagen del tumor, el páncreas y el conducto pancreático con variables clínicas como la edad y el sexo del paciente para identificar cáncer de páncreas en etapa temprana en CT de rutina. Como parte de la investigación, el grupo creó un benchmark de biomarcadores llamado PanTab, con datos de 3,788 sujetos de 147 centros, que incluía 1,487 cánceres de páncreas en etapa temprana confirmados (333 de ellos menores de 2 cm) y 2,301 controles."
+        },
+        {
+          "t": "p",
+          "x": "En la detección temprana de cánceres de páncreas menores de 2 cm frente a controles, TabMBio alcanzó un área bajo la curva característica operativa del receptor de 0.99. Los investigadores también informaron que, en CT prediagnósticas obtenidas de tres a 36 meses antes del diagnóstico, donde la sensibilidad de los radiólogos es del 0%, el aprendizaje multimodal de biomarcadores elevó la sensibilidad del 19.5% al 29.3%."
+        },
+        {
+          "t": "p",
+          "x": "¿La conclusión? \"La detección temprana del [cáncer de páncreas] no debería depender solo de las señales de la lesión\", concluyeron Li y sus colegas."
+        }
+      ]
     }
   }
 }

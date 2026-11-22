@@ -1,429 +1,17 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "design",
   "cards": [
     {
-      "id": "figma-specs-agent-plan",
+      "id": "gemini-mac-computer-use",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma Specs가\n맥락을 계획으로 바꾼다",
-      "body": "Figma Specs는 요구사항과 제약을 디자인 곁에 모아 에이전트 계획을 돕는다.",
-      "mini_headline": "Figma Specs, 에이전트의 재료",
-      "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-          },
-          {
-            "t": "p",
-            "x": "팀이 프로토타입에서 프로덕션으로 어느 때보다 빠르게 넘어가면서 글로 쓴 요구사항과 디자인 세부 사항, 엔지니어링 지침이 제각각 다른 문서와 링크로 흩어지기 일쑤다. Specs는 이런 맥락을 캔버스 위에 모아 두는 공유 공간이다. 팀원과 에이전트가 함께 내용을 보탠다. 아래 워크플로에서는 가상의 마켓플레이스 쇼핑 앱 Pickup의 엔지니어가 Specs와 Figma 에이전트로 흩어진 맥락을 모아 코딩 에이전트가 구현할 계획으로 정리한다."
-          },
-          {
-            "t": "p",
-            "x": "엔지니어는 Hex 커넥터를 추가한 뒤 Pickup이 가장 많이 쓰이는 곳을 찾아 달라고 에이전트에게 요청한다. 에이전트는 도시별 앱 사용량과 주문량을 정리한 스펙을 만들고 상위 네 개 도시를 지도로 보여 주는 코드 레이어도 함께 내놓는다. 팀은 인도(India) Bengaluru에서 출시하기로 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-            "cap": "Figma 에이전트가 만든 사용량 보고서와 지도 코드 레이어 네 개로 팀은 출시 후보 도시를 비교한다."
-          },
-          {
-            "t": "p",
-            "x": "엔지니어는 기술 스펙, 주석을 단 디자인 프레임, 인터랙티브 지도 코드 레이어, 새 컴포넌트, 디자인 시스템 가이드를 골라 팀의 build-implementation-plan 스킬을 실행한다. 에이전트는 이 재료를 한데 묶어 코딩 에이전트가 기능을 구현할 때 따를 계획을 새 스펙으로 만든다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-            "cap": "에이전트가 구현 계획을 스펙으로 정리하면 엔지니어가 코딩 에이전트에 넘기기 전에 검토한다."
-          },
-          {
-            "t": "p",
-            "x": "엔지니어는 에이전트, 디자이너와 댓글로 세부 사항을 다듬은 뒤 스펙 링크를 Codex에 붙여 넣고 “이 기능을 구현해(Implement this feature.)”라고 지시한다. Codex는 Figma의 MCP 덕분에 링크 하나만으로 스펙, 주석 프레임, 코드 레이어, 디자인 시스템 컴포넌트를 모두 읽어 들인다. Specs는 모든 요금제에 오픈 베타로 열려 있고 웹, 데스크톱, 모바일에서 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Specs and the Figma agent\nturn context into a plan",
-          "body": "Figma's Specs keep requirements and constraints beside the design so its agent can plan and hand off to code.",
-          "mini_headline": "Figma Specs feed the agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "When teams are going from prototype to production faster than ever, written requirements, design details, and engineering guidance often end up scattered across separate documents and links. Specs provides a shared container for context right on the canvas, where teammates and agents can contribute together. In this workflow, an engineer at Pickup, a fictional marketplace shopping app, uses Specs and the Figma agent to turn sprawling context into a plan their coding agent can build from."
-              },
-              {
-                "t": "p",
-                "x": "With the Hex connector added, the engineer prompts the agent to find where Pickup has the most usage. The agent produces a spec with app usage and order volume by city, plus code layers showing maps for the top four cities. The team decides to launch in Bengaluru, India."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "The Figma agent creates a usage report and four map code layers to help the team compare potential launch cities."
-              },
-              {
-                "t": "p",
-                "x": "The engineer selects the technical spec, annotated design frames, interactive map code layer, new component, and design system guidance, then runs the team's build-implementation-plan skill. The agent creates a new spec that brings those inputs together into a plan for a coding agent to build the feature."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "The agent creates a spec with an implementation plan for the engineer to review before handing it to a coding agent."
-              },
-              {
-                "t": "p",
-                "x": "After fixing details through comments with the agent and a designer, the engineer pastes the spec link into Codex and prompts: \"Implement this feature.\" Through Figma's MCP, Codex can read the spec, annotated frames, code layers, and design system components with just one link. Specs is in open beta on all plans and available on web, desktop, and mobile."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Figma Specs가\n맥락을 계획으로 바꾼다",
-          "body": "Figma Specs는 요구사항과 제약을 디자인 곁에 모아 에이전트 계획을 돕는다.",
-          "mini_headline": "Figma Specs, 에이전트의 재료",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "팀이 프로토타입에서 프로덕션으로 어느 때보다 빠르게 넘어가면서 글로 쓴 요구사항과 디자인 세부 사항, 엔지니어링 지침이 제각각 다른 문서와 링크로 흩어지기 일쑤다. Specs는 이런 맥락을 캔버스 위에 모아 두는 공유 공간이다. 팀원과 에이전트가 함께 내용을 보탠다. 아래 워크플로에서는 가상의 마켓플레이스 쇼핑 앱 Pickup의 엔지니어가 Specs와 Figma 에이전트로 흩어진 맥락을 모아 코딩 에이전트가 구현할 계획으로 정리한다."
-              },
-              {
-                "t": "p",
-                "x": "엔지니어는 Hex 커넥터를 추가한 뒤 Pickup이 가장 많이 쓰이는 곳을 찾아 달라고 에이전트에게 요청한다. 에이전트는 도시별 앱 사용량과 주문량을 정리한 스펙을 만들고 상위 네 개 도시를 지도로 보여 주는 코드 레이어도 함께 내놓는다. 팀은 인도(India) Bengaluru에서 출시하기로 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "Figma 에이전트가 만든 사용량 보고서와 지도 코드 레이어 네 개로 팀은 출시 후보 도시를 비교한다."
-              },
-              {
-                "t": "p",
-                "x": "엔지니어는 기술 스펙, 주석을 단 디자인 프레임, 인터랙티브 지도 코드 레이어, 새 컴포넌트, 디자인 시스템 가이드를 골라 팀의 build-implementation-plan 스킬을 실행한다. 에이전트는 이 재료를 한데 묶어 코딩 에이전트가 기능을 구현할 때 따를 계획을 새 스펙으로 만든다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "에이전트가 구현 계획을 스펙으로 정리하면 엔지니어가 코딩 에이전트에 넘기기 전에 검토한다."
-              },
-              {
-                "t": "p",
-                "x": "엔지니어는 에이전트, 디자이너와 댓글로 세부 사항을 다듬은 뒤 스펙 링크를 Codex에 붙여 넣고 “이 기능을 구현해(Implement this feature.)”라고 지시한다. Codex는 Figma의 MCP 덕분에 링크 하나만으로 스펙, 주석 프레임, 코드 레이어, 디자인 시스템 컴포넌트를 모두 읽어 들인다. Specs는 모든 요금제에 오픈 베타로 열려 있고 웹, 데스크톱, 모바일에서 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figma Specsが\n文脈を計画に変える",
-          "body": "Figma Specsは要件と制約をデザインの横に置き、エージェントの計画と実装を助ける。",
-          "mini_headline": "Figma Specsがエージェントを支える",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "チームがかつてない速さでプロトタイプから本番へ進むなか、文章の要件やデザインの詳細、エンジニアリングの指針は別々のドキュメントやリンクに散らばりがちだ。Specsはキャンバス上に文脈をまとめる共有の器で、チームメンバーとエージェントが一緒に書き込める。このワークフローでは、架空のマーケットプレイス型ショッピングアプリPickupのエンジニアが、SpecsとFigmaエージェントを使い、広がった文脈をコーディングエージェントが実装できる計画にまとめる。"
-              },
-              {
-                "t": "p",
-                "x": "Hexコネクタを追加したエンジニアは、Pickupの利用が最も多い地域を探すようエージェントに指示する。エージェントは都市別のアプリ利用と注文量をまとめたスペックに加え、上位四都市の地図を示すコードレイヤーを作成する。チームはBengaluru, India(インド・ベンガルール)でのローンチを決める。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "Figmaエージェントが利用状況レポートと四つの地図コードレイヤーを作成し、チームがローンチ候補都市を比較できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "エンジニアは技術スペック、注釈付きデザインフレーム、インタラクティブな地図コードレイヤー、新しいコンポーネント、デザインシステムのガイダンスを選び、チームのbuild-implementation-planスキルを実行する。エージェントはこれらの入力を一つの計画にまとめた新しいスペックを作り、コーディングエージェントが機能を実装できるようにする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "エージェントは実装計画を含むスペックを作成し、エンジニアはそれをコーディングエージェントに渡す前に確認する。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントやデザイナーとコメントで細部を詰めた後、エンジニアはスペックのリンクをCodexに貼り付け、「この機能を実装して(Implement this feature.)」と指示する。FigmaのMCPを通じて、Codexはリンク一つでスペック、注釈付きフレーム、コードレイヤー、デザインシステムのコンポーネントを読み取れる。Specsは全プランでオープンベータとして提供され、ウェブ、デスクトップ、モバイルで利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma Specs\n将上下文变为计划",
-          "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
-          "mini_headline": "Figma Specs为智能体供料",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "如今团队从原型走向生产的速度前所未有，书面需求、设计细节和工程指导常常散落在不同的文档和链接里。Specs在画布上提供了一个共享的上下文容器，团队成员和智能体可以一起补充内容。在这个工作流中，虚构的集市购物应用Pickup的一名工程师用Specs和Figma智能体，把繁杂的上下文整理成编码智能体可以据此构建的计划。"
-              },
-              {
-                "t": "p",
-                "x": "添加Hex连接器后，工程师让智能体找出Pickup使用量最高的地方。智能体生成了一份按城市列出应用使用量和订单量的规格，并附上展示前四个城市地图的代码图层。团队决定在Bengaluru, India（印度班加罗尔）上线。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "Figma智能体生成使用情况报告和四个地图代码图层，帮助团队比较潜在的上线城市。"
-              },
-              {
-                "t": "p",
-                "x": "工程师选中技术规格、带注释的设计画框、交互式地图代码图层、新组件和设计系统指南，然后运行团队的build-implementation-plan技能。智能体创建一份新规格，把这些输入整合成供编码智能体构建该功能的计划。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "智能体生成一份含实施计划的规格，供工程师在交给编码智能体之前审阅。"
-              },
-              {
-                "t": "p",
-                "x": "在评论中与智能体和一位设计师敲定细节后，工程师把规格链接粘贴到Codex并输入提示：“实现这个功能（Implement this feature.）”。借助Figma的MCP，Codex只需一个链接就能读取规格、带注释的画框、代码图层和设计系统组件。Specs已在所有方案中开放公测，可在网页、桌面和移动端使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Specs y el agente de Figma\nconvierten contexto en plan",
-          "body": "Las Specs de Figma mantienen requisitos y restricciones junto al diseño para que su agente planifique y pase al código.",
-          "mini_headline": "Figma Specs alimenta al agente",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Ahora que los equipos pasan del prototipo a producción más rápido que nunca, los requisitos escritos, los detalles de diseño y las pautas de ingeniería suelen quedar dispersos en documentos y enlaces separados. Specs ofrece un contenedor compartido para el contexto directamente en el lienzo, donde compañeros y agentes pueden contribuir juntos. En este flujo de trabajo, un ingeniero de Pickup, una app ficticia de compras tipo marketplace, usa Specs y el agente de Figma para convertir un contexto disperso en un plan a partir del cual su agente de código puede construir."
-              },
-              {
-                "t": "p",
-                "x": "Con el conector de Hex añadido, el ingeniero pide al agente que encuentre dónde tiene Pickup más uso. El agente genera una spec con el uso de la app y el volumen de pedidos por ciudad, además de capas de código con mapas de las cuatro ciudades principales. El equipo decide lanzar en Bengaluru, India."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "El agente de Figma crea un informe de uso y cuatro capas de código con mapas para ayudar al equipo a comparar posibles ciudades de lanzamiento."
-              },
-              {
-                "t": "p",
-                "x": "El ingeniero selecciona la spec técnica, los frames de diseño anotados, la capa de código del mapa interactivo, el nuevo componente y las pautas del sistema de diseño, y luego ejecuta la skill build-implementation-plan del equipo. El agente crea una nueva spec que reúne esas entradas en un plan para que un agente de código construya la función."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "El agente crea una spec con un plan de implementación para que el ingeniero la revise antes de entregarla a un agente de código."
-              },
-              {
-                "t": "p",
-                "x": "Tras ajustar detalles mediante comentarios con el agente y un diseñador, el ingeniero pega el enlace de la spec en Codex y escribe: “Implementa esta función” (Implement this feature.). A través del MCP de Figma, Codex puede leer la spec, los frames anotados, las capas de código y los componentes del sistema de diseño con un solo enlace. Specs está en beta abierta en todos los planes y disponible en web, escritorio y móvil."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Figma Specs가\n맥락을 계획으로 바꾼다",
-          "body": "Figma Specs는 요구사항과 제약을 디자인 옆에 둬 에이전트 계획을 돕는다.",
-          "mini_headline": "Figma Specs, 에이전트의 재료",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "팀이 프로토타입에서 프로덕션으로 그 어느 때보다 빠르게 넘어가면서, 글로 쓴 요구사항과 디자인 세부 사항, 엔지니어링 지침이 별도의 문서와 링크로 흩어지는 일이 잦다. Specs는 캔버스 위에 맥락을 모아 두는 공유 공간으로, 팀원과 에이전트가 함께 내용을 보탤 수 있다. 이 워크플로에서는 가상의 마켓플레이스 쇼핑 앱 Pickup의 엔지니어가 Specs와 Figma 에이전트를 써서 흩어진 맥락을 코딩 에이전트가 구현할 수 있는 계획으로 정리한다."
-              },
-              {
-                "t": "p",
-                "x": "Hex 커넥터를 추가한 엔지니어는 Pickup 사용량이 가장 많은 곳을 찾아 달라고 에이전트에게 요청한다. 에이전트는 도시별 앱 사용량과 주문량을 담은 스펙과 함께, 상위 네 개 도시의 지도를 보여 주는 코드 레이어를 만든다. 팀은 인도(India) Bengaluru에서 출시하기로 결정한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "Figma 에이전트가 사용량 보고서와 지도 코드 레이어 네 개를 만들어, 팀이 출시 후보 도시를 비교하도록 돕는다."
-              },
-              {
-                "t": "p",
-                "x": "엔지니어는 기술 스펙, 주석을 단 디자인 프레임, 인터랙티브 지도 코드 레이어, 새 컴포넌트, 디자인 시스템 가이드를 선택한 뒤 팀의 build-implementation-plan 스킬을 실행한다. 에이전트는 이 입력을 한데 묶어 코딩 에이전트가 기능을 구현할 계획을 담은 새 스펙을 만든다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "에이전트가 구현 계획을 담은 스펙을 만들고, 엔지니어는 이를 코딩 에이전트에 넘기기 전에 검토한다."
-              },
-              {
-                "t": "p",
-                "x": "엔지니어는 에이전트, 디자이너와 댓글로 세부 사항을 다듬은 뒤 스펙 링크를 Codex에 붙여 넣고 “이 기능을 구현해(Implement this feature.)”라고 지시한다. Figma의 MCP를 통해 Codex는 링크 하나만으로 스펙, 주석 프레임, 코드 레이어, 디자인 시스템 컴포넌트를 읽을 수 있다. Specs는 모든 요금제에서 오픈 베타로 제공되며 웹, 데스크톱, 모바일에서 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figma Specsが\n文脈を計画に変える",
-          "body": "Figma Specsは要件と制約をデザインの横に置き、エージェントの計画と実装を助ける。",
-          "mini_headline": "Figma Specsがエージェントを支える",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "チームがかつてない速さでプロトタイプから本番へ進むなか、文章の要件やデザインの詳細、エンジニアリングの指針は別々のドキュメントやリンクに散らばりがちだ。Specsはキャンバス上に文脈をまとめる共有の器で、チームメンバーとエージェントが一緒に書き込める。このワークフローでは、架空のマーケットプレイス型ショッピングアプリPickupのエンジニアが、SpecsとFigmaエージェントを使い、広がった文脈をコーディングエージェントが実装できる計画にまとめる。"
-              },
-              {
-                "t": "p",
-                "x": "Hexコネクタを追加したエンジニアは、Pickupの利用が最も多い地域を探すようエージェントに指示する。エージェントは都市別のアプリ利用と注文量をまとめたスペックに加え、上位四都市の地図を示すコードレイヤーを作成する。チームはBengaluru, India(インド・ベンガルール)でのローンチを決める。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "Figmaエージェントが利用状況レポートと四つの地図コードレイヤーを作成し、チームがローンチ候補都市を比較できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "エンジニアは技術スペック、注釈付きデザインフレーム、インタラクティブな地図コードレイヤー、新しいコンポーネント、デザインシステムのガイダンスを選び、チームのbuild-implementation-planスキルを実行する。エージェントはこれらの入力を一つの計画にまとめた新しいスペックを作り、コーディングエージェントが機能を実装できるようにする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "エージェントは実装計画を含むスペックを作成し、エンジニアはそれをコーディングエージェントに渡す前に確認する。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントやデザイナーとコメントで細部を詰めた後、エンジニアはスペックのリンクをCodexに貼り付け、「この機能を実装して(Implement this feature.)」と指示する。FigmaのMCPを通じて、Codexはリンク一つでスペック、注釈付きフレーム、コードレイヤー、デザインシステムのコンポーネントを読み取れる。Specsは全プランでオープンベータとして提供され、ウェブ、デスクトップ、モバイルで利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma Specs\n将上下文变为计划",
-          "body": "Figma Specs把需求和约束放在设计旁，让智能体据此制定计划并交付代码。",
-          "mini_headline": "Figma Specs为智能体供料",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "如今团队从原型走向生产的速度前所未有，书面需求、设计细节和工程指导常常散落在不同的文档和链接里。Specs在画布上提供了一个共享的上下文容器，团队成员和智能体可以一起补充内容。在这个工作流中，虚构的集市购物应用Pickup的一名工程师用Specs和Figma智能体，把繁杂的上下文整理成编码智能体可以据此构建的计划。"
-              },
-              {
-                "t": "p",
-                "x": "添加Hex连接器后，工程师让智能体找出Pickup使用量最高的地方。智能体生成了一份按城市列出应用使用量和订单量的规格，并附上展示前四个城市地图的代码图层。团队决定在Bengaluru, India（印度班加罗尔）上线。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "Figma智能体生成使用情况报告和四个地图代码图层，帮助团队比较潜在的上线城市。"
-              },
-              {
-                "t": "p",
-                "x": "工程师选中技术规格、带注释的设计画框、交互式地图代码图层、新组件和设计系统指南，然后运行团队的build-implementation-plan技能。智能体创建一份新规格，把这些输入整合成供编码智能体构建该功能的计划。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "智能体生成一份含实施计划的规格，供工程师在交给编码智能体之前审阅。"
-              },
-              {
-                "t": "p",
-                "x": "在评论中与智能体和一位设计师敲定细节后，工程师把规格链接粘贴到Codex并输入提示：“实现这个功能（Implement this feature.）”。借助Figma的MCP，Codex只需一个链接就能读取规格、带注释的画框、代码图层和设计系统组件。Specs已在所有方案中开放公测，可在网页、桌面和移动端使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Specs y el agente de Figma\nconvierten contexto en plan",
-          "body": "Las Specs de Figma mantienen requisitos y restricciones junto al diseño para que su agente planifique y pase al código.",
-          "mini_headline": "Figma Specs alimenta al agente",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Ahora que los equipos pasan del prototipo a producción más rápido que nunca, los requisitos escritos, los detalles de diseño y las pautas de ingeniería suelen quedar dispersos en documentos y enlaces separados. Specs ofrece un contenedor compartido para el contexto directamente en el lienzo, donde compañeros y agentes pueden contribuir juntos. En este flujo de trabajo, un ingeniero de Pickup, una app ficticia de compras tipo marketplace, usa Specs y el agente de Figma para convertir un contexto disperso en un plan a partir del cual su agente de código puede construir."
-              },
-              {
-                "t": "p",
-                "x": "Con el conector de Hex añadido, el ingeniero pide al agente que encuentre dónde tiene Pickup más uso. El agente genera una spec con el uso de la app y el volumen de pedidos por ciudad, además de capas de código con mapas de las cuatro ciudades principales. El equipo decide lanzar en Bengaluru, India."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
-                "cap": "El agente de Figma crea un informe de uso y cuatro capas de código con mapas para ayudar al equipo a comparar posibles ciudades de lanzamiento."
-              },
-              {
-                "t": "p",
-                "x": "El ingeniero selecciona la spec técnica, los frames de diseño anotados, la capa de código del mapa interactivo, el nuevo componente y las pautas del sistema de diseño, y luego ejecuta la skill build-implementation-plan del equipo. El agente crea una nueva spec que reúne esas entradas en un plan para que un agente de código construya la función."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
-                "cap": "El agente crea una spec con un plan de implementación para que el ingeniero la revise antes de entregarla a un agente de código."
-              },
-              {
-                "t": "p",
-                "x": "Tras ajustar detalles mediante comentarios con el agente y un diseñador, el ingeniero pega el enlace de la spec en Codex y escribe: “Implementa esta función” (Implement this feature.). A través del MCP de Figma, Codex puede leer la spec, los frames anotados, las capas de código y los componentes del sistema de diseño con un solo enlace. Specs está en beta abierta en todos los planes y disponible en web, escritorio y móvil."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "claude-mobile-tabbar",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Claude 모바일 앱에\n하단 탭바가 생겼다",
-      "body": "ChatGPT에 이어 Anthropic의 Claude 앱도 하단 탭바를 달았다.",
-      "mini_headline": "Claude에 탭 바",
+      "headline": "Gemini가 Mac 앱을\n백그라운드 창에서 조작",
+      "body": "Gemini for Mac이 작업 중에도 별도 창에서 앱·파일·웹사이트를 다룬다.",
+      "mini_headline": "Gemini가 Mac 앱을 대신 조작",
       "tool": "AI Workflow",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -431,101 +19,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+            "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
           },
           {
             "t": "p",
-            "x": "이번 개편으로 chat, Projects, Code, Artifacts 탭을 담은 하단 바가 생겼다. Anthropic의 Daniel Destefanis는 X 게시물에서 새 디자인이 배포되기 시작했다고 알렸다. OpenAI가 하단 탭 바를 넣은 ChatGPT 앱 개편을 발표한 지 하루 만이다."
+            "x": "Google이 Gemini에게 Mac 작업을 백그라운드에서 맡길 수 있게 했다. Gemini Mac 앱의 새 “Computer Use” 기능은 로컬 파일, 데스크톱 앱, 웹사이트를 넘나들며 여러 단계 작업을 끝까지 처리한다. Google에 따르면 사용자가 목표만 말하면 Gemini가 직접 클릭하고 입력하며 메뉴와 양식을 오간다. 작업은 모두 실시간 채팅 미리보기가 붙은 격리된 백그라운드 창에서 돌아간다. 화면과 커서는 비어 있으니 사용자는 방해 없이 하던 일을 이어 가면 된다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini가 어떤 앱에 접근할지는 사용자가 고른다. 모든 단계를 실시간으로 지켜보다 언제든 멈출 수 있으며 주요 동작은 미리 승인한다. Google은 사진과 3D 장면 일괄 편집, 로컬 PDFs를 참고한 배송 양식 작성, 프레젠테이션 제작을 예로 들었다."
+          },
+          {
+            "t": "p",
+            "x": "Computer Use는 오늘 미국(US)에서 영어로 배포를 시작했다. Gemini Mac 앱은 내려받을 수 있다. OpenAI도 최근 Computer Use에 공을 들여 왔으며 Astra 모델로 크게 앞서 나갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claude's mobile app moves\nto a bottom tab bar",
-          "body": "Anthropic's Claude app puts chat, Projects, Code and Artifacts in a bottom tab bar, echoing ChatGPT's redesign.",
-          "mini_headline": "Claude gets a tab bar",
+          "headline": "Gemini takes over Mac apps\nin a background window",
+          "body": "Gemini for Mac can now operate apps, files and websites in an isolated background window while you keep working.",
+          "mini_headline": "Gemini runs Mac apps for you",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "The refresh adds a bottom bar with tabs for chat, Projects, Code, and Artifacts. Anthropic’s Daniel Destefanis said in a post on X the design refresh has started rolling out, just a day after OpenAI announced a ChatGPT app redesign that also includes a bottom tab bar."
+                "x": "Google now lets Gemini handle Mac tasks in the background. The new \"Computer Use\" feature in the Gemini Mac app completes multistep tasks across local files, desktop apps, and websites. Google says users simply describe a goal, and Gemini clicks, types, and navigates menus and forms. Everything runs in an isolated background window with a live chat preview, keeping the screen and cursor free for uninterrupted work."
+              },
+              {
+                "t": "p",
+                "x": "Users choose which apps Gemini can access, watch every step live, pause anytime, and approve key actions beforehand. Google's examples include batch-editing photos and 3D scenes, filling out shipping forms from local PDFs, and building presentations."
+              },
+              {
+                "t": "p",
+                "x": "Computer Use rolls out in English in the US today, and the Gemini Mac app is available to download. OpenAI has also focused on Computer Use recently, pulling well ahead with its Astra model."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude 모바일 앱에\n하단 탭바가 생겼다",
-          "body": "ChatGPT에 이어 Anthropic의 Claude 앱도 하단 탭바를 달았다.",
-          "mini_headline": "Claude에 탭 바",
+          "headline": "Gemini가 Mac 앱을\n백그라운드 창에서 조작",
+          "body": "Gemini for Mac이 작업 중에도 별도 창에서 앱·파일·웹사이트를 다룬다.",
+          "mini_headline": "Gemini가 Mac 앱을 대신 조작",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "이번 개편으로 chat, Projects, Code, Artifacts 탭을 담은 하단 바가 생겼다. Anthropic의 Daniel Destefanis는 X 게시물에서 새 디자인이 배포되기 시작했다고 알렸다. OpenAI가 하단 탭 바를 넣은 ChatGPT 앱 개편을 발표한 지 하루 만이다."
+                "x": "Google이 Gemini에게 Mac 작업을 백그라운드에서 맡길 수 있게 했다. Gemini Mac 앱의 새 “Computer Use” 기능은 로컬 파일, 데스크톱 앱, 웹사이트를 넘나들며 여러 단계 작업을 끝까지 처리한다. Google에 따르면 사용자가 목표만 말하면 Gemini가 직접 클릭하고 입력하며 메뉴와 양식을 오간다. 작업은 모두 실시간 채팅 미리보기가 붙은 격리된 백그라운드 창에서 돌아간다. 화면과 커서는 비어 있으니 사용자는 방해 없이 하던 일을 이어 가면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini가 어떤 앱에 접근할지는 사용자가 고른다. 모든 단계를 실시간으로 지켜보다 언제든 멈출 수 있으며 주요 동작은 미리 승인한다. Google은 사진과 3D 장면 일괄 편집, 로컬 PDFs를 참고한 배송 양식 작성, 프레젠테이션 제작을 예로 들었다."
+              },
+              {
+                "t": "p",
+                "x": "Computer Use는 오늘 미국(US)에서 영어로 배포를 시작했다. Gemini Mac 앱은 내려받을 수 있다. OpenAI도 최근 Computer Use에 공을 들여 왔으며 Astra 모델로 크게 앞서 나갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeのモバイルアプリ\n下部タブバーに移行",
-          "body": "AnthropicのClaudeアプリはChatGPTに倣い下部タブバーを導入した。",
-          "mini_headline": "Claudeにタブバー",
+          "headline": "GeminiがMacアプリを\nバックグラウンドで操作",
+          "body": "Gemini for Macが作業中も別ウィンドウでアプリやファイル、サイトを操作する。",
+          "mini_headline": "GeminiがMacアプリを代行操作",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "今回の刷新では、chat、Projects、Code、Artifactsのタブを備えた下部バーが加わった。AnthropicのDaniel DestefanisはXへの投稿で、デザイン刷新の展開が始まったと明らかにした。OpenAIが同じく下部タブバーを含むChatGPTアプリの刷新を発表した、わずか一日後のことだ。"
+                "x": "GoogleはGeminiにMac上の作業をバックグラウンドで任せられるようにした。Gemini Macアプリの新機能「Computer Use」は、ローカルファイル、デスクトップアプリ、ウェブサイトにまたがる複数ステップの作業をこなす。Googleによれば、ユーザーが目標を伝えるだけで、Geminiがクリックや入力を行い、メニューやフォームを操作する。すべてはライブのチャットプレビュー付きの隔離されたバックグラウンドウィンドウで動くため、画面とカーソルは空いたままで、作業を中断せずに続けられる。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーはGeminiがアクセスできるアプリを選び、各ステップをリアルタイムで確認し、いつでも一時停止でき、重要な操作は事前に承認する。Googleが挙げた例は、写真や3Dシーンの一括編集、ローカルのPDFsからの配送フォーム入力、プレゼンテーション作成などだ。"
+              },
+              {
+                "t": "p",
+                "x": "Computer Useは本日、米国（US）で英語版の提供が始まり、Gemini Macアプリはダウンロード可能だ。OpenAIも最近Computer Useに力を入れており、Astraモデルで大きく先行している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude移动应用\n改用底部标签栏",
-          "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
-          "mini_headline": "Claude启用标签栏",
+          "headline": "Gemini在后台窗口\n接管Mac应用",
+          "body": "Gemini for Mac可在独立后台窗口中操作应用、文件和网站，用户可继续工作。",
+          "mini_headline": "Gemini替你操作Mac应用",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "此次改版新增了底部栏，包含chat、Projects、Code和Artifacts标签。Anthropic的Daniel Destefanis在X上发帖称，这次设计改版已开始推送，而就在一天前，OpenAI刚刚宣布ChatGPT应用改版，同样加入了底部标签栏。"
+                "x": "Google现在让Gemini在后台处理Mac上的任务。Gemini Mac应用中的新功能“Computer Use”可跨本地文件、桌面应用和网站完成多步骤任务。Google表示，用户只需描述目标，Gemini便会点击、输入，并在菜单和表单间操作。一切都在带有实时聊天预览的独立后台窗口中运行，屏幕和光标保持空闲，用户可不受打扰地继续工作。"
+              },
+              {
+                "t": "p",
+                "x": "用户可选择Gemini能访问哪些应用，实时查看每一步，随时暂停，并提前批准关键操作。Google举的例子包括批量编辑照片和3D场景、根据本地PDFs填写配送表单，以及制作演示文稿。"
+              },
+              {
+                "t": "p",
+                "x": "Computer Use今天起在美国（US）以英语推出，Gemini Mac应用已开放下载。OpenAI最近也在发力Computer Use，凭借其Astra模型大幅领先。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La app móvil de Claude adopta\nuna barra de pestañas inferior",
-          "body": "La app Claude de Anthropic reúne chat, Projects, Code y Artifacts en una barra inferior, como el rediseño de ChatGPT.",
-          "mini_headline": "Claude estrena barra de pestañas",
+          "headline": "Gemini toma el control de apps\nde Mac en segundo plano",
+          "body": "Gemini for Mac ya opera apps, archivos y sitios web en una ventana aislada en segundo plano mientras usted trabaja.",
+          "mini_headline": "Gemini maneja apps de Mac por usted",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "La actualización añade una barra inferior con pestañas para chat, Projects, Code y Artifacts. Daniel Destefanis, de Anthropic, dijo en una publicación en X que el rediseño ha empezado a desplegarse, apenas un día después de que OpenAI anunciara un rediseño de la app de ChatGPT que también incluye una barra de pestañas inferior."
+                "x": "Google ahora permite que Gemini se encargue de tareas en Mac en segundo plano. La nueva función “Computer Use” de la app Gemini Mac completa tareas de varios pasos entre archivos locales, apps de escritorio y sitios web. Según Google, el usuario solo describe un objetivo y Gemini hace clic, escribe y navega por menús y formularios. Todo se ejecuta en una ventana aislada en segundo plano con una vista previa del chat en directo, lo que deja libres la pantalla y el cursor para trabajar sin interrupciones."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios eligen a qué apps puede acceder Gemini, siguen cada paso en directo, pausan en cualquier momento y aprueban de antemano las acciones clave. Entre los ejemplos de Google figuran la edición por lotes de fotos y escenas 3D, el llenado de formularios de envío a partir de PDFs locales y la creación de presentaciones."
+              },
+              {
+                "t": "p",
+                "x": "Computer Use se lanza hoy en inglés en Estados Unidos (US), y la app Gemini Mac ya está disponible para descargar. OpenAI también se ha centrado recientemente en Computer Use y ha tomado una clara ventaja con su modelo Astra."
               }
             ]
           }
@@ -533,73 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude 모바일 앱\n하단 탭바 도입",
-          "body": "Anthropic의 Claude 앱이 ChatGPT에 이어 하단 탭바를 도입했다.",
-          "mini_headline": "Claude에 탭 바",
+          "headline": "Gemini가 Mac 앱을\n백그라운드 창에서 조작",
+          "body": "Gemini for Mac이 작업 중에도 별도 창에서 앱·파일·웹사이트를 다룬다.",
+          "mini_headline": "Gemini가 Mac 앱을 대신 조작",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "이번 개편으로 chat, Projects, Code, Artifacts 탭이 있는 하단 바가 추가됐다. Anthropic의 Daniel Destefanis는 X 게시물에서 디자인 개편이 배포되기 시작했다고 밝혔다. OpenAI가 역시 하단 탭 바를 넣은 ChatGPT 앱 개편을 발표한 지 불과 하루 만이다."
+                "x": "Google이 Gemini에게 Mac 작업을 백그라운드에서 맡길 수 있게 했다. Gemini Mac 앱의 새 “Computer Use” 기능은 로컬 파일, 데스크톱 앱, 웹사이트를 넘나드는 여러 단계 작업을 끝까지 처리한다. Google에 따르면 사용자가 목표만 설명하면 Gemini가 클릭하고 입력하며 메뉴와 양식을 오간다. 모든 작업은 실시간 채팅 미리보기가 딸린 격리된 백그라운드 창에서 돌아가므로, 화면과 커서는 비어 있어 방해 없이 계속 일할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "사용자는 Gemini가 접근할 앱을 고르고, 모든 단계를 실시간으로 지켜보며, 언제든 멈추고, 주요 동작은 미리 승인한다. Google이 든 예시는 사진과 3D 장면 일괄 편집, 로컬 PDFs를 바탕으로 한 배송 양식 작성, 프레젠테이션 제작이다."
+              },
+              {
+                "t": "p",
+                "x": "Computer Use는 오늘 미국(US)에서 영어로 배포를 시작했고, Gemini Mac 앱은 내려받을 수 있다. OpenAI도 최근 Computer Use에 공을 들여 왔으며, Astra 모델로 크게 앞서 나갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeのモバイルアプリ\n下部タブバーに移行",
-          "body": "AnthropicのClaudeアプリはChatGPTに倣い下部タブバーを導入した。",
-          "mini_headline": "Claudeにタブバー",
+          "headline": "GeminiがMacアプリを\nバックグラウンドで操作",
+          "body": "Gemini for Macが作業中も別ウィンドウでアプリやファイル、サイトを操作する。",
+          "mini_headline": "GeminiがMacアプリを代行操作",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "今回の刷新では、chat、Projects、Code、Artifactsのタブを備えた下部バーが加わった。AnthropicのDaniel DestefanisはXへの投稿で、デザイン刷新の展開が始まったと明らかにした。OpenAIが同じく下部タブバーを含むChatGPTアプリの刷新を発表した、わずか一日後のことだ。"
+                "x": "GoogleはGeminiにMac上の作業をバックグラウンドで任せられるようにした。Gemini Macアプリの新機能「Computer Use」は、ローカルファイル、デスクトップアプリ、ウェブサイトにまたがる複数ステップの作業をこなす。Googleによれば、ユーザーが目標を伝えるだけで、Geminiがクリックや入力を行い、メニューやフォームを操作する。すべてはライブのチャットプレビュー付きの隔離されたバックグラウンドウィンドウで動くため、画面とカーソルは空いたままで、作業を中断せずに続けられる。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーはGeminiがアクセスできるアプリを選び、各ステップをリアルタイムで確認し、いつでも一時停止でき、重要な操作は事前に承認する。Googleが挙げた例は、写真や3Dシーンの一括編集、ローカルのPDFsからの配送フォーム入力、プレゼンテーション作成などだ。"
+              },
+              {
+                "t": "p",
+                "x": "Computer Useは本日、米国（US）で英語版の提供が始まり、Gemini Macアプリはダウンロード可能だ。OpenAIも最近Computer Useに力を入れており、Astraモデルで大きく先行している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude移动应用\n改用底部标签栏",
-          "body": "Anthropic的Claude应用效仿ChatGPT改版，启用底部标签栏。",
-          "mini_headline": "Claude启用标签栏",
+          "headline": "Gemini在后台窗口\n接管Mac应用",
+          "body": "Gemini for Mac可在独立后台窗口中操作应用、文件和网站，用户可继续工作。",
+          "mini_headline": "Gemini替你操作Mac应用",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "此次改版新增了底部栏，包含chat、Projects、Code和Artifacts标签。Anthropic的Daniel Destefanis在X上发帖称，这次设计改版已开始推送，而就在一天前，OpenAI刚刚宣布ChatGPT应用改版，同样加入了底部标签栏。"
+                "x": "Google现在让Gemini在后台处理Mac上的任务。Gemini Mac应用中的新功能“Computer Use”可跨本地文件、桌面应用和网站完成多步骤任务。Google表示，用户只需描述目标，Gemini便会点击、输入，并在菜单和表单间操作。一切都在带有实时聊天预览的独立后台窗口中运行，屏幕和光标保持空闲，用户可不受打扰地继续工作。"
+              },
+              {
+                "t": "p",
+                "x": "用户可选择Gemini能访问哪些应用，实时查看每一步，随时暂停，并提前批准关键操作。Google举的例子包括批量编辑照片和3D场景、根据本地PDFs填写配送表单，以及制作演示文稿。"
+              },
+              {
+                "t": "p",
+                "x": "Computer Use今天起在美国（US）以英语推出，Gemini Mac应用已开放下载。OpenAI最近也在发力Computer Use，凭借其Astra模型大幅领先。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La app móvil de Claude adopta\nuna barra de pestañas inferior",
-          "body": "La app Claude de Anthropic reúne chat, Projects, Code y Artifacts en una barra inferior, como el rediseño de ChatGPT.",
-          "mini_headline": "Claude estrena barra de pestañas",
+          "headline": "Gemini toma el control de apps\nde Mac en segundo plano",
+          "body": "Gemini for Mac ya opera apps, archivos y sitios web en una ventana aislada en segundo plano mientras usted trabaja.",
+          "mini_headline": "Gemini maneja apps de Mac por usted",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
               },
               {
                 "t": "p",
-                "x": "La actualización añade una barra inferior con pestañas para chat, Projects, Code y Artifacts. Daniel Destefanis, de Anthropic, dijo en una publicación en X que el rediseño ha empezado a desplegarse, apenas un día después de que OpenAI anunciara un rediseño de la app de ChatGPT que también incluye una barra de pestañas inferior."
+                "x": "Google ahora permite que Gemini se encargue de tareas en Mac en segundo plano. La nueva función “Computer Use” de la app Gemini Mac completa tareas de varios pasos entre archivos locales, apps de escritorio y sitios web. Según Google, el usuario solo describe un objetivo y Gemini hace clic, escribe y navega por menús y formularios. Todo se ejecuta en una ventana aislada en segundo plano con una vista previa del chat en directo, lo que deja libres la pantalla y el cursor para trabajar sin interrupciones."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios eligen a qué apps puede acceder Gemini, siguen cada paso en directo, pausan en cualquier momento y aprueban de antemano las acciones clave. Entre los ejemplos de Google figuran la edición por lotes de fotos y escenas 3D, el llenado de formularios de envío a partir de PDFs locales y la creación de presentaciones."
+              },
+              {
+                "t": "p",
+                "x": "Computer Use se lanza hoy en inglés en Estados Unidos (US), y la app Gemini Mac ya está disponible para descargar. OpenAI también se ha centrado recientemente en Computer Use y ha tomado una clara ventaja con su modelo Astra."
               }
             ]
           }
@@ -607,407 +275,15 @@
       }
     },
     {
-      "id": "ava-studio-launch-videos",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "에이바, 인기 출시 영상\n컷을 내 화면으로",
-      "body": "에이바 스튜디오는 인기 출시 영상의 컷 구성을 내 제품 화면으로 재현한다.",
-      "mini_headline": "출시 영상 컷 재현",
-      "tool": "AI Workflow",
-      "source": "Design Compass (디자인 나침반)",
-      "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-          },
-          {
-            "t": "p",
-            "x": "에이바 스튜디오가 11월 17일 제품 출시 영상 제작 기능 ‘Launch Videos’를 공개했습니다. 엑스에서 주목받은 출시 영상의 장면 순서와 컷 길이, 카메라 움직임을 분석해 사용자의 제품 화면으로 영상을 만드는 도구입니다. 클로드 코드와 코덱스에서 플러그인으로 사용할 수 있습니다."
-          },
-          {
-            "t": "p",
-            "x": "사용자가 제품 웹사이트 주소와 원하는 영상 길이, 화면 비율을 알려주면 에이전트가 참고 영상을 찾아줍니다. 제품 화면을 처음 공개하는 장면이나 세로형 스마트폰 시연처럼 영상 구성에 따라 참고작을 고를 수 있습니다."
-          },
-          {
-            "t": "p",
-            "x": "참고작을 고르면 에이전트가 실제 제품 페이지를 캡처하고 사용자의 로고와 색상, 서체를 적용해 장면을 구성합니다. 공식 데모에서는 ‘퍼플렉시티 컴퓨터’ 출시 영상의 컷과 카메라 움직임을 가져와 ‘Router’의 화면을 소개하는 14초 영상을 만들었습니다. 원본과 결과물을 같은 시점에서 나란히 재생할 수 있어, 제품 화면이 언제 등장하고 어디서 확대되는지 비교할 수 있습니다."
-          },
-          {
-            "t": "p",
-            "x": "영상은 맥이나 리눅스 컴퓨터에서 렌더링하며 편집 가능한 하이퍼프레임스 프로젝트로 저장됩니다. 첫 결과를 본 뒤 제목 문구를 바꾸거나 특정 장면을 더 길게 보여달라고 요청해 다시 렌더링할 수 있습니다. 참고 영상 검색과 열람은 무료이며, 편집에 맞춰 음악을 생성하면 에이바 크레딧이 차감됩니다."
-          },
-          {
-            "t": "video",
-            "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-          },
-          {
-            "t": "p",
-            "x": "퍼플렉시티 컴퓨터 출시 영상과 Router 리메이크"
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "에이바, 인기 출시 영상\n컷을 내 화면으로",
-          "body": "에이바 스튜디오는 인기 출시 영상의 컷 구성을 내 제품 화면으로 재현한다.",
-          "mini_headline": "출시 영상 컷 재현",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "에이바 스튜디오가 11월 17일 제품 출시 영상 제작 기능 ‘Launch Videos’를 공개했습니다. 엑스에서 주목받은 출시 영상의 장면 순서와 컷 길이, 카메라 움직임을 분석해 사용자의 제품 화면으로 영상을 만드는 도구입니다. 클로드 코드와 코덱스에서 플러그인으로 사용할 수 있습니다."
-              },
-              {
-                "t": "p",
-                "x": "사용자가 제품 웹사이트 주소와 원하는 영상 길이, 화면 비율을 알려주면 에이전트가 참고 영상을 찾아줍니다. 제품 화면을 처음 공개하는 장면이나 세로형 스마트폰 시연처럼 영상 구성에 따라 참고작을 고를 수 있습니다."
-              },
-              {
-                "t": "p",
-                "x": "참고작을 고르면 에이전트가 실제 제품 페이지를 캡처하고 사용자의 로고와 색상, 서체를 적용해 장면을 구성합니다. 공식 데모에서는 ‘퍼플렉시티 컴퓨터’ 출시 영상의 컷과 카메라 움직임을 가져와 ‘Router’의 화면을 소개하는 14초 영상을 만들었습니다. 원본과 결과물을 같은 시점에서 나란히 재생할 수 있어, 제품 화면이 언제 등장하고 어디서 확대되는지 비교할 수 있습니다."
-              },
-              {
-                "t": "p",
-                "x": "영상은 맥이나 리눅스 컴퓨터에서 렌더링하며 편집 가능한 하이퍼프레임스 프로젝트로 저장됩니다. 첫 결과를 본 뒤 제목 문구를 바꾸거나 특정 장면을 더 길게 보여달라고 요청해 다시 렌더링할 수 있습니다. 참고 영상 검색과 열람은 무료이며, 편집에 맞춰 음악을 생성하면 에이바 크레딧이 차감됩니다."
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "퍼플렉시티 컴퓨터 출시 영상과 Router 리메이크"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Ava Studio remakes hit launch\nvideo cuts with your screens",
-          "body": "Ava Studio recreates the cut structure of popular launch videos using screens from your own product.",
-          "mini_headline": "Launch video cuts, recreated",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "On November 17, Ava Studio unveiled ‘Launch Videos’, a feature for making product launch videos. The tool analyzes the scene order, cut lengths and camera movement of launch videos that drew attention on X, then builds a video from the user's own product screens. It can be used as a plugin in Claude Code and Codex."
-              },
-              {
-                "t": "p",
-                "x": "When the user provides the product website address, the desired video length and the aspect ratio, the agent finds reference videos. References can be chosen by video structure, such as a scene that first reveals the product screen or a vertical smartphone demo."
-              },
-              {
-                "t": "p",
-                "x": "Once a reference is chosen, the agent captures the actual product pages and builds the scenes with the user's logo, colors and typefaces. In the official demo, it took the cuts and camera movement from the ‘Perplexity Computer’ launch video to make a 14-second video introducing the screens of ‘Router’. The original and the result can be played side by side at the same point in time, so users can compare when the product screen appears and where it zooms in."
-              },
-              {
-                "t": "p",
-                "x": "Videos are rendered on a Mac or Linux computer and saved as editable HyperFrames projects. After seeing the first result, users can ask to change the title text or show a specific scene for longer, then render again. Searching and viewing reference videos is free, while generating music to fit the edit deducts Ava credits."
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "The Perplexity Computer launch video and the Router remake"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ava、人気ローンチ動画の\nカットを自分の画面で",
-          "body": "Ava Studioは人気のローンチ動画のカット構成を自社製品の画面で再現する。",
-          "mini_headline": "ローンチ動画のカットを再現",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ava Studioは11月17日、製品ローンチ動画の制作機能‘Launch Videos’を公開した。Xで注目を集めたローンチ動画のシーン順、カットの長さ、カメラの動きを分析し、ユーザーの製品画面で動画を作るツールだ。Claude CodeとCodexでプラグインとして使える。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーが製品のウェブサイトのアドレスと希望する動画の長さ、画面比率を伝えると、エージェントが参考動画を探してくれる。製品画面を初めて見せるシーンや縦型スマートフォンでのデモなど、動画の構成に応じて参考作を選べる。"
-              },
-              {
-                "t": "p",
-                "x": "参考作を選ぶと、エージェントが実際の製品ページをキャプチャし、ユーザーのロゴや色、書体を適用してシーンを組み立てる。公式デモでは‘Perplexity Computer’のローンチ動画のカットとカメラの動きを取り入れ、‘Router’の画面を紹介する14秒の動画を作った。元動画と結果を同じタイミングで並べて再生でき、製品画面がいつ現れ、どこで拡大されるかを比較できる。"
-              },
-              {
-                "t": "p",
-                "x": "動画はMacまたはLinuxのコンピューターでレンダリングされ、編集可能なHyperFramesプロジェクトとして保存される。最初の結果を見た後、タイトルの文言を変えたり特定のシーンを長く見せたりするよう依頼して、再レンダリングできる。参考動画の検索と閲覧は無料で、編集に合わせて音楽を生成するとAvaのクレジットが消費される。"
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Perplexity Computerのローンチ動画とRouterのリメイク"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ava把热门发布视频\n剪辑搬到你的画面",
-          "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
-          "mini_headline": "重现发布视频剪辑",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ava Studio于11月17日发布了产品发布视频制作功能‘Launch Videos’。这款工具会分析在X上走红的发布视频的场景顺序、镜头时长和运镜，再用用户自己的产品画面生成视频。它可以作为插件在Claude Code和Codex中使用。"
-              },
-              {
-                "t": "p",
-                "x": "用户提供产品网站地址、想要的视频时长和画面比例后，智能体会帮忙寻找参考视频。用户可以按视频结构挑选参考作品，例如首次展示产品画面的场景，或竖屏手机演示。"
-              },
-              {
-                "t": "p",
-                "x": "选定参考作品后，智能体会截取真实的产品页面，并套用用户的标志、颜色和字体来搭建场景。在官方演示中，它借用‘Perplexity Computer’发布视频的剪辑和运镜，制作了一段介绍‘Router’画面的14秒视频。原片和成品可以在同一时间点并排播放，便于比较产品画面何时出现、在哪里放大。"
-              },
-              {
-                "t": "p",
-                "x": "视频在Mac或Linux电脑上渲染，并保存为可编辑的HyperFrames项目。看过初版后，用户可以要求修改标题文字或延长某个场景，再重新渲染。参考视频的搜索和浏览免费，按剪辑生成音乐则会扣除Ava积分。"
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Perplexity Computer发布视频与Router翻拍"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ava Studio recrea cortes de\nvideos de lanzamiento famosos",
-          "body": "Ava Studio reproduce la estructura de cortes de videos de lanzamiento populares con pantallas del propio producto.",
-          "mini_headline": "Cortes de lanzamientos, recreados",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ava Studio presentó el 17 de noviembre ‘Launch Videos’, una función para crear videos de lanzamiento de productos. La herramienta analiza el orden de escenas, la duración de los cortes y los movimientos de cámara de videos de lanzamiento que llamaron la atención en X, y genera un video con las pantallas del producto del usuario. Puede usarse como plugin en Claude Code y Codex."
-              },
-              {
-                "t": "p",
-                "x": "Cuando el usuario indica la dirección web del producto, la duración deseada del video y la relación de aspecto, el agente busca videos de referencia. Se pueden elegir referencias según la estructura del video, como una escena que revela por primera vez la pantalla del producto o una demostración vertical en un teléfono inteligente."
-              },
-              {
-                "t": "p",
-                "x": "Tras elegir una referencia, el agente captura las páginas reales del producto y arma las escenas con el logotipo, los colores y las tipografías del usuario. En la demostración oficial, tomó los cortes y los movimientos de cámara del video de lanzamiento de ‘Perplexity Computer’ para crear un video de 14 segundos que presenta las pantallas de ‘Router’. El original y el resultado pueden reproducirse lado a lado en el mismo punto, lo que permite comparar cuándo aparece la pantalla del producto y dónde se amplía."
-              },
-              {
-                "t": "p",
-                "x": "Los videos se renderizan en un equipo Mac o Linux y se guardan como proyectos editables de HyperFrames. Tras ver el primer resultado, se puede pedir que cambie el texto del título o que una escena se muestre durante más tiempo, y volver a renderizar. Buscar y ver videos de referencia es gratis; generar música ajustada a la edición descuenta créditos de Ava."
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Video de lanzamiento de Perplexity Computer y la nueva versión con Router"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Ava Studio remakes hit launch\nvideo cuts with your screens",
-          "body": "Ava Studio recreates the cut structure of popular launch videos using screens from your own product.",
-          "mini_headline": "Launch video cuts, recreated",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "On November 17, Ava Studio unveiled ‘Launch Videos’, a feature for making product launch videos. The tool analyzes the scene order, cut lengths and camera movement of launch videos that drew attention on X, then builds a video from the user's own product screens. It can be used as a plugin in Claude Code and Codex."
-              },
-              {
-                "t": "p",
-                "x": "When the user provides the product website address, the desired video length and the aspect ratio, the agent finds reference videos. References can be chosen by video structure, such as a scene that first reveals the product screen or a vertical smartphone demo."
-              },
-              {
-                "t": "p",
-                "x": "Once a reference is chosen, the agent captures the actual product pages and builds the scenes with the user's logo, colors and typefaces. In the official demo, it took the cuts and camera movement from the ‘Perplexity Computer’ launch video to make a 14-second video introducing the screens of ‘Router’. The original and the result can be played side by side at the same point in time, so users can compare when the product screen appears and where it zooms in."
-              },
-              {
-                "t": "p",
-                "x": "Videos are rendered on a Mac or Linux computer and saved as editable HyperFrames projects. After seeing the first result, users can ask to change the title text or show a specific scene for longer, then render again. Searching and viewing reference videos is free, while generating music to fit the edit deducts Ava credits."
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "The Perplexity Computer launch video and the Router remake"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ava、人気ローンチ動画の\nカットを自分の画面で",
-          "body": "Ava Studioは人気のローンチ動画のカット構成を自社製品の画面で再現する。",
-          "mini_headline": "ローンチ動画のカットを再現",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ava Studioは11月17日、製品ローンチ動画の制作機能‘Launch Videos’を公開した。Xで注目を集めたローンチ動画のシーン順、カットの長さ、カメラの動きを分析し、ユーザーの製品画面で動画を作るツールだ。Claude CodeとCodexでプラグインとして使える。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーが製品のウェブサイトのアドレスと希望する動画の長さ、画面比率を伝えると、エージェントが参考動画を探してくれる。製品画面を初めて見せるシーンや縦型スマートフォンでのデモなど、動画の構成に応じて参考作を選べる。"
-              },
-              {
-                "t": "p",
-                "x": "参考作を選ぶと、エージェントが実際の製品ページをキャプチャし、ユーザーのロゴや色、書体を適用してシーンを組み立てる。公式デモでは‘Perplexity Computer’のローンチ動画のカットとカメラの動きを取り入れ、‘Router’の画面を紹介する14秒の動画を作った。元動画と結果を同じタイミングで並べて再生でき、製品画面がいつ現れ、どこで拡大されるかを比較できる。"
-              },
-              {
-                "t": "p",
-                "x": "動画はMacまたはLinuxのコンピューターでレンダリングされ、編集可能なHyperFramesプロジェクトとして保存される。最初の結果を見た後、タイトルの文言を変えたり特定のシーンを長く見せたりするよう依頼して、再レンダリングできる。参考動画の検索と閲覧は無料で、編集に合わせて音楽を生成するとAvaのクレジットが消費される。"
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Perplexity Computerのローンチ動画とRouterのリメイク"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ava把热门发布视频\n剪辑搬到你的画面",
-          "body": "Ava Studio用你自己的产品画面，重现热门发布视频的剪辑结构。",
-          "mini_headline": "重现发布视频剪辑",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ava Studio于11月17日发布了产品发布视频制作功能‘Launch Videos’。这款工具会分析在X上走红的发布视频的场景顺序、镜头时长和运镜，再用用户自己的产品画面生成视频。它可以作为插件在Claude Code和Codex中使用。"
-              },
-              {
-                "t": "p",
-                "x": "用户提供产品网站地址、想要的视频时长和画面比例后，智能体会帮忙寻找参考视频。用户可以按视频结构挑选参考作品，例如首次展示产品画面的场景，或竖屏手机演示。"
-              },
-              {
-                "t": "p",
-                "x": "选定参考作品后，智能体会截取真实的产品页面，并套用用户的标志、颜色和字体来搭建场景。在官方演示中，它借用‘Perplexity Computer’发布视频的剪辑和运镜，制作了一段介绍‘Router’画面的14秒视频。原片和成品可以在同一时间点并排播放，便于比较产品画面何时出现、在哪里放大。"
-              },
-              {
-                "t": "p",
-                "x": "视频在Mac或Linux电脑上渲染，并保存为可编辑的HyperFrames项目。看过初版后，用户可以要求修改标题文字或延长某个场景，再重新渲染。参考视频的搜索和浏览免费，按剪辑生成音乐则会扣除Ava积分。"
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Perplexity Computer发布视频与Router翻拍"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ava Studio recrea cortes de\nvideos de lanzamiento famosos",
-          "body": "Ava Studio reproduce la estructura de cortes de videos de lanzamiento populares con pantallas del propio producto.",
-          "mini_headline": "Cortes de lanzamientos, recreados",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ava Studio presentó el 17 de noviembre ‘Launch Videos’, una función para crear videos de lanzamiento de productos. La herramienta analiza el orden de escenas, la duración de los cortes y los movimientos de cámara de videos de lanzamiento que llamaron la atención en X, y genera un video con las pantallas del producto del usuario. Puede usarse como plugin en Claude Code y Codex."
-              },
-              {
-                "t": "p",
-                "x": "Cuando el usuario indica la dirección web del producto, la duración deseada del video y la relación de aspecto, el agente busca videos de referencia. Se pueden elegir referencias según la estructura del video, como una escena que revela por primera vez la pantalla del producto o una demostración vertical en un teléfono inteligente."
-              },
-              {
-                "t": "p",
-                "x": "Tras elegir una referencia, el agente captura las páginas reales del producto y arma las escenas con el logotipo, los colores y las tipografías del usuario. En la demostración oficial, tomó los cortes y los movimientos de cámara del video de lanzamiento de ‘Perplexity Computer’ para crear un video de 14 segundos que presenta las pantallas de ‘Router’. El original y el resultado pueden reproducirse lado a lado en el mismo punto, lo que permite comparar cuándo aparece la pantalla del producto y dónde se amplía."
-              },
-              {
-                "t": "p",
-                "x": "Los videos se renderizan en un equipo Mac o Linux y se guardan como proyectos editables de HyperFrames. Tras ver el primer resultado, se puede pedir que cambie el texto del título o que una escena se muestre durante más tiempo, y volver a renderizar. Buscar y ver videos de referencia es gratis; generar música ajustada a la edición descuenta créditos de Ava."
-              },
-              {
-                "t": "video",
-                "src": "https://designcompass.org/wp-content/uploads/2026/11/02-ava-perplexity-ui-reveal.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Video de lanzamiento de Perplexity Computer y la nueva versión con Router"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "xjet-atelier-jewelry",
+      "id": "siemens-agibot-gripper-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "XJet Atelier\n프롬프트가 금속 참으로",
-      "body": "XJet Atelier는 글이나 사진을 장신구로 바꿔 금속 3D 프린터로 뽑는다.",
-      "mini_headline": "XJet, 프롬프트 장신구 출력",
+      "headline": "Siemens 에이전트\n텍스트로 로봇 그리퍼 설계",
+      "body": "Siemens AI 에이전트가 글로 3D 프린팅용 AGIBOT 그리퍼를 설계한다.",
+      "mini_headline": "텍스트로 로봇 그리퍼 설계",
       "tool": "Text-to-CAD",
-      "source": "VoxelMatters",
-      "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
+      "source": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -1015,173 +291,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+            "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+            "cap": "AM 엔지니어링과 생산을 디지털 스레드 하나로 잇는 Siemens의 Industrial AI 콘셉트. 사진: Siemens."
           },
           {
             "t": "p",
-            "x": "NanoParticle Jetting 기업 XJet이 Formnext 2026에서 새 온라인 플랫폼 XJet Atelier를 선보인다. AI 지원(AI-assisted) 장신구 디자인을 자사 제조 워크플로에 연결해 맞춤 장신구를 만들도록 돕는다. XJet의 NPJ 공정은 금속이나 세라믹 입자를 채운 액상 분산액과 용해성 서포트 소재를 쓴다. 장신구처럼 형상이 섬세하고 작고 복잡한 부품에 잘 맞는다."
+            "x": "Siemens는 Industrial AI로 움직이는 적층제조(AM)용 엔드투엔드 Digital Thread를 만들고 있다. 엔지니어링 단계에서는 설계 조정과 가상 검증부터 제조 준비까지 단계마다 AI 에이전트가 맡는다."
           },
           {
             "t": "p",
-            "x": "소비자는 XJet Atelier에서 프롬프트나 이미지로 자기만의 참을 만든 뒤 XJet의 3D 프린터로 제작한다. “사용자는 몇 마디 말이나 사진 한 장으로 시작해 참 디자인을 탐색하고 다듬으며, XJet의 NPJ 워크플로를 통한 실물 생산으로 넘어가기 전에 결과물을 360°로 미리 볼 수 있다.” 소재는 스테인리스 스틸과 스털링 실버 가운데 고른다. 디자인 생성 도구는 Hall 11.0, 부스 C21에서 직접 써 볼 수 있다."
+            "x": "Siemens와 AGIBOT은 이 워크플로를 휴머노이드 로봇용 그리퍼로 시연한다. 사용자가 다룰 물체와 로봇이 할 작업을 설명하면 AI 에이전트가 알맞은 그리퍼 유형을 고른다. 이어 Siemens의 Designcenter에서 형상을 조정하고 시뮬레이션을 돌려 로봇 인터페이스와 핸들링까지 검증한다. 에이전트는 MCP 통합 덕분에 엔지니어링 소프트웨어 기능을 쓰고 작업 단계를 조율한다. 워크플로는 Frankfurt에서 열리는 Formnext 2026에서 공개된다."
+          },
+          {
+            "t": "p",
+            "x": "“시간이 많이 드는 과정에서 변형안을 일일이 손으로 설계하는 대신, 에이전틱 워크플로가 구체적인 요구사항에 맞춰 엔지니어링 작업을 조율할 수 있습니다.” Siemens 적층제조 부문 부사장 Karsten Heuser의 말이다."
           },
           {
             "t": "img",
-            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+            "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+            "cap": "Siemens의 Erlangen 전자 공장에 들어설 적응형 생산 셀. AM, 자동화, 후처리, 소프트웨어를 공정 체인 하나로 묶는다. 사진: Siemens."
           },
           {
             "t": "p",
-            "x": "XJet은 세라믹·금속 AM 서비스 XPARTS도 함께 알리며 Carmel Pro와 Carmel ORO 플랫폼의 첫 고객 주문도 발표했다. CEO Guy Zimmerman은 “완성 부품이 필요하든, 자체 생산 시스템이 필요하든, 개인화된 디자인을 장신구로 바꿀 방법이 필요하든 더 많은 고객이 XJet의 모든 역량을 활용할 수 있게 하고 있다”고 말했다."
+            "x": "Siemens는 EOS, AM Solutions와 손잡고 Erlangen 전자 공장에 적응형 생산 셀을 짓고 있다. Synera와 Ai Build도 기존 AM 소프트웨어를 다루는 AI 에이전트와 텍스트 입력으로 비슷한 길을 걸어왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "XJet Atelier turns a prompt\ninto a printed metal charm",
-          "body": "XJet Atelier turns a few words or a photo into a jewelry design and prints it on metal 3D printers in steel or silver.",
-          "mini_headline": "XJet prints prompted jewelry",
+          "headline": "A Siemens agent designs\nrobot grippers from text",
+          "body": "A Siemens AI agent turns a text prompt into a validated AGIBOT robot gripper in Designcenter, ready for 3D printing.",
+          "mini_headline": "Text prompt to robot gripper",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "Siemens’ Industrial AI concept linking engineering and production in a single digital thread for AM. Photo via Siemens."
               },
               {
                 "t": "p",
-                "x": "NanoParticle Jetting company XJet is exhibiting at Formnext 2026, including XJet Atelier, a new online platform that connects AI-assisted jewelry design with the company’s manufacturing workflow to facilitate custom jewelry production. XJet’s NPJ process uses liquid dispersions filled with metal or ceramic particles and a soluble support material, and suits small, complex parts with fine features, such as jewelry."
+                "x": "Siemens is building an end-to-end Digital Thread for additive manufacturing (AM) that runs on Industrial AI. On the engineering side, an AI agent handles each step from adapting the design and validating it virtually to preparing it for manufacturing."
               },
               {
                 "t": "p",
-                "x": "XJet Atelier gives consumers the ability to create their own charms based on prompts or images and have them produced on XJet’s 3D printers. “Users can start with a few words or a photo, explore and refine charm designs and preview their creation in 360° before moving toward physical production through XJet’s NPJ workflow.” Customers can choose stainless steel or sterling silver. Visitors can try the design generation tool at booth C21, Hall 11.0."
+                "x": "Siemens and AGIBOT demonstrate the workflow using a gripper for a humanoid robot. The user describes the object to be handled and the task the robot needs to perform. The AI agent picks a suitable gripper type, adapts its geometry in Siemens’ Designcenter, simulates it, and validates the robot interface and handling. MCP integration lets the agent use functions of the engineering software and coordinate the work steps. The workflow is on show at Formnext 2026 in Frankfurt."
+              },
+              {
+                "t": "p",
+                "x": "“Instead of manually designing variants in a time-consuming process, agentic workflows can orchestrate engineering tasks based on specific requirements,” said Karsten Heuser, Vice President Additive Manufacturing at Siemens."
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "The adaptive production cell planned for Siemens’ Erlangen Electronics Factory will link AM, automation, post-processing and software in one process chain. Photo via Siemens."
               },
               {
                 "t": "p",
-                "x": "XJet is also promoting XPARTS, its ceramic and metal AM service, and announced first customer orders for its Carmel Pro and Carmel ORO platforms. “We are making the full capabilities of XJet available to more customers, whether they need finished parts, their own production system or a way to turn a personalized design into jewelry,” said CEO Guy Zimmerman."
+                "x": "Siemens is working with EOS and AM Solutions on an adaptive production cell at its Electronics Factory in Erlangen. Synera and Ai Build have taken similar routes, with AI agents and text input that operate existing AM software."
               }
             ]
           }
         },
         "ko": {
-          "headline": "XJet Atelier\n프롬프트가 금속 참으로",
-          "body": "XJet Atelier는 글이나 사진을 장신구로 바꿔 금속 3D 프린터로 뽑는다.",
-          "mini_headline": "XJet, 프롬프트 장신구 출력",
+          "headline": "Siemens 에이전트\n텍스트로 로봇 그리퍼 설계",
+          "body": "Siemens AI 에이전트가 글로 3D 프린팅용 AGIBOT 그리퍼를 설계한다.",
+          "mini_headline": "텍스트로 로봇 그리퍼 설계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "AM 엔지니어링과 생산을 디지털 스레드 하나로 잇는 Siemens의 Industrial AI 콘셉트. 사진: Siemens."
               },
               {
                 "t": "p",
-                "x": "NanoParticle Jetting 기업 XJet이 Formnext 2026에서 새 온라인 플랫폼 XJet Atelier를 선보인다. AI 지원(AI-assisted) 장신구 디자인을 자사 제조 워크플로에 연결해 맞춤 장신구를 만들도록 돕는다. XJet의 NPJ 공정은 금속이나 세라믹 입자를 채운 액상 분산액과 용해성 서포트 소재를 쓴다. 장신구처럼 형상이 섬세하고 작고 복잡한 부품에 잘 맞는다."
+                "x": "Siemens는 Industrial AI로 움직이는 적층제조(AM)용 엔드투엔드 Digital Thread를 만들고 있다. 엔지니어링 단계에서는 설계 조정과 가상 검증부터 제조 준비까지 단계마다 AI 에이전트가 맡는다."
               },
               {
                 "t": "p",
-                "x": "소비자는 XJet Atelier에서 프롬프트나 이미지로 자기만의 참을 만든 뒤 XJet의 3D 프린터로 제작한다. “사용자는 몇 마디 말이나 사진 한 장으로 시작해 참 디자인을 탐색하고 다듬으며, XJet의 NPJ 워크플로를 통한 실물 생산으로 넘어가기 전에 결과물을 360°로 미리 볼 수 있다.” 소재는 스테인리스 스틸과 스털링 실버 가운데 고른다. 디자인 생성 도구는 Hall 11.0, 부스 C21에서 직접 써 볼 수 있다."
+                "x": "Siemens와 AGIBOT은 이 워크플로를 휴머노이드 로봇용 그리퍼로 시연한다. 사용자가 다룰 물체와 로봇이 할 작업을 설명하면 AI 에이전트가 알맞은 그리퍼 유형을 고른다. 이어 Siemens의 Designcenter에서 형상을 조정하고 시뮬레이션을 돌려 로봇 인터페이스와 핸들링까지 검증한다. 에이전트는 MCP 통합 덕분에 엔지니어링 소프트웨어 기능을 쓰고 작업 단계를 조율한다. 워크플로는 Frankfurt에서 열리는 Formnext 2026에서 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "“시간이 많이 드는 과정에서 변형안을 일일이 손으로 설계하는 대신, 에이전틱 워크플로가 구체적인 요구사항에 맞춰 엔지니어링 작업을 조율할 수 있습니다.” Siemens 적층제조 부문 부사장 Karsten Heuser의 말이다."
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "Siemens의 Erlangen 전자 공장에 들어설 적응형 생산 셀. AM, 자동화, 후처리, 소프트웨어를 공정 체인 하나로 묶는다. 사진: Siemens."
               },
               {
                 "t": "p",
-                "x": "XJet은 세라믹·금속 AM 서비스 XPARTS도 함께 알리며 Carmel Pro와 Carmel ORO 플랫폼의 첫 고객 주문도 발표했다. CEO Guy Zimmerman은 “완성 부품이 필요하든, 자체 생산 시스템이 필요하든, 개인화된 디자인을 장신구로 바꿀 방법이 필요하든 더 많은 고객이 XJet의 모든 역량을 활용할 수 있게 하고 있다”고 말했다."
+                "x": "Siemens는 EOS, AM Solutions와 손잡고 Erlangen 전자 공장에 적응형 생산 셀을 짓고 있다. Synera와 Ai Build도 기존 AM 소프트웨어를 다루는 AI 에이전트와 텍스트 입력으로 비슷한 길을 걸어왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "XJet Atelier、\nプロンプトを金属チャームに",
-          "body": "XJet Atelierは言葉や写真を基にジュエリーを金属 3D プリンターで作る。",
-          "mini_headline": "XJet、プロンプトでジュエリー",
+          "headline": "Siemensのエージェント\nテキストでグリッパー設計",
+          "body": "Siemens AIエージェントがテキストから3D印刷用のAGIBOTグリッパーを作る。",
+          "mini_headline": "テキストからロボットグリッパーへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "AM向けに設計と生産を単一のデジタルスレッドでつなぐSiemensのIndustrial AIコンセプト。写真：Siemens"
               },
               {
                 "t": "p",
-                "x": "NanoParticle Jetting企業のXJetはFormnext 2026に出展し、新しいオンラインプラットフォームXJet Atelierを披露している。AI-assisted(AI支援)のジュエリーデザインを同社の製造ワークフローとつなぎ、カスタムジュエリーの生産を後押しするものだ。XJetのNPJプロセスは金属またはセラミック粒子を含む液体分散液と可溶性のサポート材を使い、ジュエリーのように微細な形状を持つ小さく複雑な部品に適している。"
+                "x": "Siemensは、Industrial AIで動く積層造形（AM）向けのエンドツーエンドのDigital Threadを構築している。エンジニアリング面では、AIエージェントが設計の調整と仮想検証から製造準備まで、各ステップを担う。"
               },
               {
                 "t": "p",
-                "x": "XJet Atelierでは、消費者がプロンプトや画像をもとに自分だけのチャームを作り、XJetの 3D プリンターで製造してもらえる。「ユーザーは数語の言葉や一枚の写真から始め、チャームのデザインを探って磨き上げ、XJetのNPJワークフローによる実物の生産に進む前に、作品を360°でプレビューできる」。顧客はステンレス鋼かスターリングシルバーを選べる。来場者はHall 11.0のブースC21でデザイン生成ツールを試せる。"
+                "x": "SiemensとAGIBOTは、ヒューマノイドロボット用グリッパーを例にこのワークフローを実演する。ユーザーが扱う対象物とロボットに求める作業を説明すると、AIエージェントが適切なグリッパーの種類を選び、SiemensのDesigncenterで形状を調整し、シミュレーションを行い、ロボットとのインターフェースとハンドリングを検証する。MCP統合により、エージェントはエンジニアリングソフトの機能を使い、作業工程を調整できる。このワークフローはFrankfurtで開かれるFormnext 2026で披露される。"
+              },
+              {
+                "t": "p",
+                "x": "「時間のかかる工程でバリエーションを手作業で設計する代わりに、エージェント型ワークフローが具体的な要件に基づいてエンジニアリング作業を統括できる」と、Siemensの積層造形担当バイスプレジデント、Karsten Heuser氏は述べた。"
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "SiemensのErlangen電子工場に計画されている適応型生産セルは、AM、自動化、後処理、ソフトウェアを一つのプロセスチェーンでつなぐ。写真：Siemens"
               },
               {
                 "t": "p",
-                "x": "XJetはセラミックと金属のAMサービスXPARTSも打ち出し、Carmel ProとCarmel ORO両プラットフォームの初の顧客受注を発表した。CEOのGuy Zimmermanは「完成部品が必要な場合も、自社の生産システムが必要な場合も、パーソナライズしたデザインをジュエリーにする方法が必要な場合も、XJetの能力をすべて、より多くの顧客に提供していく」と述べた。"
+                "x": "SiemensはEOSおよびAM Solutionsと組み、Erlangenの電子工場で適応型生産セルに取り組んでいる。SyneraとAi Buildも、既存のAMソフトを操作するAIエージェントとテキスト入力という同様の手法を取ってきた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "XJet Atelier\n把提示词变成金属吊坠",
-          "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
-          "mini_headline": "XJet按提示打印首饰",
+          "headline": "Siemens智能体\n凭文字设计机器人夹爪",
+          "body": "Siemens AI智能体把文字提示变成经验证、可3D打印的AGIBOT夹爪。",
+          "mini_headline": "文字提示直达机器人夹爪",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "Siemens的Industrial AI概念：以单一数字主线连接AM的工程与生产。图片来源：Siemens。"
               },
               {
                 "t": "p",
-                "x": "纳米颗粒喷射（NanoParticle Jetting）公司XJet正在Formnext 2026参展，展品包括新的在线平台XJet Atelier。该平台将AI-assisted（AI辅助）首饰设计与公司的制造工作流相连，便于定制首饰生产。XJet的NPJ工艺使用填充金属或陶瓷颗粒的液态分散液和可溶性支撑材料，适合首饰这类带有精细特征的小型复杂零件。"
+                "x": "Siemens正在为增材制造（AM）构建一条由Industrial AI驱动的端到端Digital Thread。在工程端，AI智能体负责从调整设计、虚拟验证到制造准备的每一步。"
               },
               {
                 "t": "p",
-                "x": "借助XJet Atelier，消费者可以根据提示词或图片创作自己的吊坠，并交由XJet的 3D 打印机制造。“用户可以从几句话或一张照片开始，探索并完善吊坠设计，在通过XJet的NPJ工作流进入实物生产之前，以360°预览自己的作品。”顾客可以选择不锈钢或纯银。观众可在Hall 11.0的C21展位试用这款设计生成工具。"
+                "x": "Siemens与AGIBOT以一款人形机器人夹爪演示了这一工作流。用户描述要抓取的物体和机器人需完成的任务，AI智能体随即选出合适的夹爪类型，在Siemens的Designcenter中调整其几何形状并进行仿真，再验证机器人接口与抓取表现。借助MCP集成，智能体可调用工程软件的功能并协调各个工作步骤。该工作流在Frankfurt举行的Formnext 2026上展出。"
+              },
+              {
+                "t": "p",
+                "x": "“不必再以耗时的方式手动设计各种变体，智能体工作流可以根据具体需求来编排工程任务。”Siemens增材制造副总裁Karsten Heuser表示。"
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "Siemens计划在Erlangen电子工厂建设的自适应生产单元，将把AM、自动化、后处理和软件连接成一条工艺链。图片来源：Siemens。"
               },
               {
                 "t": "p",
-                "x": "XJet还在推广其陶瓷和金属AM服务XPARTS，并宣布Carmel Pro和Carmel ORO平台获得首批客户订单。CEO Guy Zimmerman表示：“无论客户需要成品零件、自有生产系统，还是把个性化设计变成首饰的方法，我们都在让更多客户用上XJet的全部能力。”"
+                "x": "Siemens正与EOS和AM Solutions合作，在其Erlangen电子工厂打造自适应生产单元。Synera和Ai Build也走了类似路线，用AI智能体和文字输入来操作现有AM软件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "XJet Atelier pasa de un prompt\na un colgante de metal impreso",
-          "body": "XJet Atelier convierte unas palabras o una foto en una joya y la imprime en acero o plata con impresoras 3D de metal.",
-          "mini_headline": "XJet imprime joyas desde prompts",
+          "headline": "Un agente de Siemens diseña\npinzas robóticas desde texto",
+          "body": "Un agente de AI de Siemens convierte un prompt en una pinza AGIBOT validada en Designcenter, lista para impresión 3D.",
+          "mini_headline": "Del prompt de texto a la pinza robótica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "Concepto de Industrial AI de Siemens que une ingeniería y producción en un único hilo digital para AM. Foto: Siemens."
               },
               {
                 "t": "p",
-                "x": "XJet, empresa de NanoParticle Jetting, expone en Formnext 2026 e incluye XJet Atelier, una nueva plataforma en línea que conecta el diseño de joyería AI-assisted (asistido por IA) con el flujo de fabricación de la compañía para facilitar la producción de joyas personalizadas. El proceso NPJ de XJet utiliza dispersiones líquidas cargadas de partículas metálicas o cerámicas y un material de soporte soluble, y es adecuado para piezas pequeñas y complejas con detalles finos, como las joyas."
+                "x": "Siemens está construyendo un Digital Thread de extremo a extremo para la fabricación aditiva (AM) que funciona con Industrial AI. En la parte de ingeniería, un agente de AI se encarga de cada paso, desde adaptar el diseño y validarlo virtualmente hasta prepararlo para la fabricación."
               },
               {
                 "t": "p",
-                "x": "XJet Atelier permite a los consumidores crear sus propios colgantes a partir de prompts o imágenes y fabricarlos en las impresoras 3D de XJet. “Los usuarios pueden empezar con unas pocas palabras o una foto, explorar y pulir diseños de colgantes y previsualizar su creación en 360° antes de pasar a la producción física mediante el flujo NPJ de XJet”. Los clientes pueden elegir acero inoxidable o plata de ley. Los visitantes pueden probar la herramienta de generación de diseños en el stand C21, Hall 11.0."
+                "x": "Siemens y AGIBOT demuestran el flujo de trabajo con una pinza para un robot humanoide. El usuario describe el objeto que se va a manipular y la tarea que debe realizar el robot. El agente de AI elige un tipo de pinza adecuado, adapta su geometría en el Designcenter de Siemens, la simula y valida la interfaz del robot y la manipulación. La integración con MCP permite al agente usar funciones del software de ingeniería y coordinar los pasos de trabajo. El flujo se exhibe en Formnext 2026 en Frankfurt."
+              },
+              {
+                "t": "p",
+                "x": "“En lugar de diseñar variantes a mano en un proceso que consume mucho tiempo, los flujos de trabajo agénticos pueden orquestar tareas de ingeniería a partir de requisitos específicos”, dijo Karsten Heuser, vicepresidente de Fabricación Aditiva de Siemens."
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "La célula de producción adaptativa prevista para la fábrica de electrónica de Siemens en Erlangen unirá AM, automatización, posprocesado y software en una sola cadena de procesos. Foto: Siemens."
               },
               {
                 "t": "p",
-                "x": "XJet también promociona XPARTS, su servicio de AM en cerámica y metal, y anunció los primeros pedidos de clientes para sus plataformas Carmel Pro y Carmel ORO. “Estamos poniendo todas las capacidades de XJet al alcance de más clientes, ya necesiten piezas terminadas, su propio sistema de producción o una forma de convertir un diseño personalizado en joya”, dijo el CEO Guy Zimmerman."
+                "x": "Siemens trabaja con EOS y AM Solutions en una célula de producción adaptativa en su fábrica de electrónica de Erlangen. Synera y Ai Build han seguido caminos similares, con agentes de AI y entrada de texto que operan software de AM existente."
               }
             ]
           }
@@ -1189,121 +501,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "XJet Atelier,\n프롬프트를 금속 참으로",
-          "body": "XJet Atelier는 글·사진을 장신구로 바꿔 금속 3D 프린터로 출력한다.",
-          "mini_headline": "XJet, 프롬프트 장신구 출력",
+          "headline": "Siemens 에이전트,\n텍스트로 로봇 그리퍼 설계",
+          "body": "Siemens AI 에이전트가 글로 3D 프린팅용 AGIBOT 그리퍼를 설계한다.",
+          "mini_headline": "텍스트로 로봇 그리퍼 설계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "AM을 위한 하나의 디지털 스레드로 엔지니어링과 생산을 잇는 Siemens의 Industrial AI 콘셉트. 사진: Siemens."
               },
               {
                 "t": "p",
-                "x": "NanoParticle Jetting 기업 XJet이 Formnext 2026에 참가해 새 온라인 플랫폼 XJet Atelier를 선보인다. AI 지원(AI-assisted) 장신구 디자인을 회사의 제조 워크플로와 연결해 맞춤형 장신구 생산을 돕는 플랫폼이다. XJet의 NPJ 공정은 금속이나 세라믹 입자를 채운 액상 분산액과 용해성 서포트 소재를 사용하며, 장신구처럼 섬세한 형상을 지닌 작고 복잡한 부품에 적합하다."
+                "x": "Siemens는 Industrial AI로 돌아가는 적층제조(AM)용 엔드투엔드 Digital Thread를 구축하고 있다. 엔지니어링 단계에서는 AI 에이전트가 설계 조정과 가상 검증부터 제조 준비까지 각 단계를 맡는다."
               },
               {
                 "t": "p",
-                "x": "XJet Atelier에서 소비자는 프롬프트나 이미지를 바탕으로 자신만의 참을 만들고 XJet의 3D 프린터로 제작할 수 있다. “사용자는 몇 마디 말이나 사진 한 장으로 시작해 참 디자인을 탐색하고 다듬으며, XJet의 NPJ 워크플로를 통한 실물 생산으로 넘어가기 전에 결과물을 360°로 미리 볼 수 있다.” 소비자는 스테인리스 스틸 또는 스털링 실버를 고를 수 있다. 방문객은 Hall 11.0, 부스 C21에서 디자인 생성 도구를 체험할 수 있다."
+                "x": "Siemens와 AGIBOT은 휴머노이드 로봇용 그리퍼로 이 워크플로를 시연한다. 사용자가 다룰 물체와 로봇이 수행할 작업을 설명하면, AI 에이전트가 알맞은 그리퍼 유형을 고르고 Siemens의 Designcenter에서 형상을 조정한 뒤 시뮬레이션을 돌리고 로봇 인터페이스와 핸들링을 검증한다. MCP 통합 덕분에 에이전트는 엔지니어링 소프트웨어의 기능을 쓰고 작업 단계를 조율할 수 있다. 이 워크플로는 Frankfurt에서 열리는 Formnext 2026에서 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "“시간이 많이 드는 과정에서 변형안을 일일이 손으로 설계하는 대신, 에이전틱 워크플로가 구체적인 요구사항에 맞춰 엔지니어링 작업을 조율할 수 있습니다.” Siemens 적층제조 부문 부사장 Karsten Heuser의 말이다."
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "Siemens의 Erlangen 전자 공장에 들어설 적응형 생산 셀은 AM, 자동화, 후처리, 소프트웨어를 하나의 공정 체인으로 잇는다. 사진: Siemens."
               },
               {
                 "t": "p",
-                "x": "XJet은 세라믹·금속 AM 서비스 XPARTS도 알리고 있으며, Carmel Pro와 Carmel ORO 플랫폼의 첫 고객 주문을 발표했다. CEO Guy Zimmerman은 “완성 부품이 필요하든, 자체 생산 시스템이 필요하든, 개인화된 디자인을 장신구로 바꿀 방법이 필요하든 더 많은 고객이 XJet의 모든 역량을 활용할 수 있게 하고 있다”고 말했다."
+                "x": "Siemens는 EOS, AM Solutions와 함께 Erlangen 전자 공장에서 적응형 생산 셀을 만들고 있다. Synera와 Ai Build도 기존 AM 소프트웨어를 다루는 AI 에이전트와 텍스트 입력으로 비슷한 길을 걸어왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "XJet Atelier、\nプロンプトを金属チャームに",
-          "body": "XJet Atelierは言葉や写真を基にジュエリーを金属 3D プリンターで作る。",
-          "mini_headline": "XJet、プロンプトでジュエリー",
+          "headline": "Siemensのエージェント\nテキストでグリッパー設計",
+          "body": "Siemens AIエージェントがテキストから3D印刷用のAGIBOTグリッパーを作る。",
+          "mini_headline": "テキストからロボットグリッパーへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "AM向けに設計と生産を単一のデジタルスレッドでつなぐSiemensのIndustrial AIコンセプト。写真：Siemens"
               },
               {
                 "t": "p",
-                "x": "NanoParticle Jetting企業のXJetはFormnext 2026に出展し、新しいオンラインプラットフォームXJet Atelierを披露している。AI-assisted(AI支援)のジュエリーデザインを同社の製造ワークフローとつなぎ、カスタムジュエリーの生産を後押しするものだ。XJetのNPJプロセスは金属またはセラミック粒子を含む液体分散液と可溶性のサポート材を使い、ジュエリーのように微細な形状を持つ小さく複雑な部品に適している。"
+                "x": "Siemensは、Industrial AIで動く積層造形（AM）向けのエンドツーエンドのDigital Threadを構築している。エンジニアリング面では、AIエージェントが設計の調整と仮想検証から製造準備まで、各ステップを担う。"
               },
               {
                 "t": "p",
-                "x": "XJet Atelierでは、消費者がプロンプトや画像をもとに自分だけのチャームを作り、XJetの 3D プリンターで製造してもらえる。「ユーザーは数語の言葉や一枚の写真から始め、チャームのデザインを探って磨き上げ、XJetのNPJワークフローによる実物の生産に進む前に、作品を360°でプレビューできる」。顧客はステンレス鋼かスターリングシルバーを選べる。来場者はHall 11.0のブースC21でデザイン生成ツールを試せる。"
+                "x": "SiemensとAGIBOTは、ヒューマノイドロボット用グリッパーを例にこのワークフローを実演する。ユーザーが扱う対象物とロボットに求める作業を説明すると、AIエージェントが適切なグリッパーの種類を選び、SiemensのDesigncenterで形状を調整し、シミュレーションを行い、ロボットとのインターフェースとハンドリングを検証する。MCP統合により、エージェントはエンジニアリングソフトの機能を使い、作業工程を調整できる。このワークフローはFrankfurtで開かれるFormnext 2026で披露される。"
+              },
+              {
+                "t": "p",
+                "x": "「時間のかかる工程でバリエーションを手作業で設計する代わりに、エージェント型ワークフローが具体的な要件に基づいてエンジニアリング作業を統括できる」と、Siemensの積層造形担当バイスプレジデント、Karsten Heuser氏は述べた。"
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "SiemensのErlangen電子工場に計画されている適応型生産セルは、AM、自動化、後処理、ソフトウェアを一つのプロセスチェーンでつなぐ。写真：Siemens"
               },
               {
                 "t": "p",
-                "x": "XJetはセラミックと金属のAMサービスXPARTSも打ち出し、Carmel ProとCarmel ORO両プラットフォームの初の顧客受注を発表した。CEOのGuy Zimmermanは「完成部品が必要な場合も、自社の生産システムが必要な場合も、パーソナライズしたデザインをジュエリーにする方法が必要な場合も、XJetの能力をすべて、より多くの顧客に提供していく」と述べた。"
+                "x": "SiemensはEOSおよびAM Solutionsと組み、Erlangenの電子工場で適応型生産セルに取り組んでいる。SyneraとAi Buildも、既存のAMソフトを操作するAIエージェントとテキスト入力という同様の手法を取ってきた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "XJet Atelier\n把提示词变成金属吊坠",
-          "body": "XJet Atelier可将几句话或一张照片变成首饰设计，并用金属 3D 打印机打印。",
-          "mini_headline": "XJet按提示打印首饰",
+          "headline": "Siemens智能体\n凭文字设计机器人夹爪",
+          "body": "Siemens AI智能体把文字提示变成经验证、可3D打印的AGIBOT夹爪。",
+          "mini_headline": "文字提示直达机器人夹爪",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "Siemens的Industrial AI概念：以单一数字主线连接AM的工程与生产。图片来源：Siemens。"
               },
               {
                 "t": "p",
-                "x": "纳米颗粒喷射（NanoParticle Jetting）公司XJet正在Formnext 2026参展，展品包括新的在线平台XJet Atelier。该平台将AI-assisted（AI辅助）首饰设计与公司的制造工作流相连，便于定制首饰生产。XJet的NPJ工艺使用填充金属或陶瓷颗粒的液态分散液和可溶性支撑材料，适合首饰这类带有精细特征的小型复杂零件。"
+                "x": "Siemens正在为增材制造（AM）构建一条由Industrial AI驱动的端到端Digital Thread。在工程端，AI智能体负责从调整设计、虚拟验证到制造准备的每一步。"
               },
               {
                 "t": "p",
-                "x": "借助XJet Atelier，消费者可以根据提示词或图片创作自己的吊坠，并交由XJet的 3D 打印机制造。“用户可以从几句话或一张照片开始，探索并完善吊坠设计，在通过XJet的NPJ工作流进入实物生产之前，以360°预览自己的作品。”顾客可以选择不锈钢或纯银。观众可在Hall 11.0的C21展位试用这款设计生成工具。"
+                "x": "Siemens与AGIBOT以一款人形机器人夹爪演示了这一工作流。用户描述要抓取的物体和机器人需完成的任务，AI智能体随即选出合适的夹爪类型，在Siemens的Designcenter中调整其几何形状并进行仿真，再验证机器人接口与抓取表现。借助MCP集成，智能体可调用工程软件的功能并协调各个工作步骤。该工作流在Frankfurt举行的Formnext 2026上展出。"
+              },
+              {
+                "t": "p",
+                "x": "“不必再以耗时的方式手动设计各种变体，智能体工作流可以根据具体需求来编排工程任务。”Siemens增材制造副总裁Karsten Heuser表示。"
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "Siemens计划在Erlangen电子工厂建设的自适应生产单元，将把AM、自动化、后处理和软件连接成一条工艺链。图片来源：Siemens。"
               },
               {
                 "t": "p",
-                "x": "XJet还在推广其陶瓷和金属AM服务XPARTS，并宣布Carmel Pro和Carmel ORO平台获得首批客户订单。CEO Guy Zimmerman表示：“无论客户需要成品零件、自有生产系统，还是把个性化设计变成首饰的方法，我们都在让更多客户用上XJet的全部能力。”"
+                "x": "Siemens正与EOS和AM Solutions合作，在其Erlangen电子工厂打造自适应生产单元。Synera和Ai Build也走了类似路线，用AI智能体和文字输入来操作现有AM软件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "XJet Atelier pasa de un prompt\na un colgante de metal impreso",
-          "body": "XJet Atelier convierte unas palabras o una foto en una joya y la imprime en acero o plata con impresoras 3D de metal.",
-          "mini_headline": "XJet imprime joyas desde prompts",
+          "headline": "Un agente de Siemens diseña\npinzas robóticas desde texto",
+          "body": "Un agente de AI de Siemens convierte un prompt en una pinza AGIBOT validada en Designcenter, lista para impresión 3D.",
+          "mini_headline": "Del prompt de texto a la pinza robótica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+                "cap": "Concepto de Industrial AI de Siemens que une ingeniería y producción en un único hilo digital para AM. Foto: Siemens."
               },
               {
                 "t": "p",
-                "x": "XJet, empresa de NanoParticle Jetting, expone en Formnext 2026 e incluye XJet Atelier, una nueva plataforma en línea que conecta el diseño de joyería AI-assisted (asistido por IA) con el flujo de fabricación de la compañía para facilitar la producción de joyas personalizadas. El proceso NPJ de XJet utiliza dispersiones líquidas cargadas de partículas metálicas o cerámicas y un material de soporte soluble, y es adecuado para piezas pequeñas y complejas con detalles finos, como las joyas."
+                "x": "Siemens está construyendo un Digital Thread de extremo a extremo para la fabricación aditiva (AM) que funciona con Industrial AI. En la parte de ingeniería, un agente de AI se encarga de cada paso, desde adaptar el diseño y validarlo virtualmente hasta prepararlo para la fabricación."
               },
               {
                 "t": "p",
-                "x": "XJet Atelier permite a los consumidores crear sus propios colgantes a partir de prompts o imágenes y fabricarlos en las impresoras 3D de XJet. “Los usuarios pueden empezar con unas pocas palabras o una foto, explorar y pulir diseños de colgantes y previsualizar su creación en 360° antes de pasar a la producción física mediante el flujo NPJ de XJet”. Los clientes pueden elegir acero inoxidable o plata de ley. Los visitantes pueden probar la herramienta de generación de diseños en el stand C21, Hall 11.0."
+                "x": "Siemens y AGIBOT demuestran el flujo de trabajo con una pinza para un robot humanoide. El usuario describe el objeto que se va a manipular y la tarea que debe realizar el robot. El agente de AI elige un tipo de pinza adecuado, adapta su geometría en el Designcenter de Siemens, la simula y valida la interfaz del robot y la manipulación. La integración con MCP permite al agente usar funciones del software de ingeniería y coordinar los pasos de trabajo. El flujo se exhibe en Formnext 2026 en Frankfurt."
+              },
+              {
+                "t": "p",
+                "x": "“En lugar de diseñar variantes a mano en un proceso que consume mucho tiempo, los flujos de trabajo agénticos pueden orquestar tareas de ingeniería a partir de requisitos específicos”, dijo Karsten Heuser, vicepresidente de Fabricación Aditiva de Siemens."
               },
               {
                 "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/XJet-at-Formnext-2026-Stand-Image-19.11.2026.docx.jpeg"
+                "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+                "cap": "La célula de producción adaptativa prevista para la fábrica de electrónica de Siemens en Erlangen unirá AM, automatización, posprocesado y software en una sola cadena de procesos. Foto: Siemens."
               },
               {
                 "t": "p",
-                "x": "XJet también promociona XPARTS, su servicio de AM en cerámica y metal, y anunció los primeros pedidos de clientes para sus plataformas Carmel Pro y Carmel ORO. “Estamos poniendo todas las capacidades de XJet al alcance de más clientes, ya necesiten piezas terminadas, su propio sistema de producción o una forma de convertir un diseño personalizado en joya”, dijo el CEO Guy Zimmerman."
+                "x": "Siemens trabaja con EOS y AM Solutions en una célula de producción adaptativa en su fábrica de electrónica de Erlangen. Synera y Ai Build han seguido caminos similares, con agentes de AI y entrada de texto que operan software de AM existente."
               }
             ]
           }
@@ -1311,237 +647,189 @@
       }
     },
     {
-      "id": "artificial-poster-aislop",
+      "id": "gemini-omni-gif-maker",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Artificial 포스터\n일부러 AI slop 흉내",
-      "body": "AI-slop처럼 보이는 Artificial 포스터, 실은 사람이 일부러 만들었다.",
-      "mini_headline": "AI slop을 흉내 낸 포스터",
-      "tool": "Figma",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
-      "accent": "#3b6bff",
-      "motif": "frame",
+      "headline": "이제 Gemini가\n프롬프트·사진을 GIFs로",
+      "body": "Gemini가 Omni 1.2 Flash로 사진과 영상을 반복 GIFs로 바꾼다.",
+      "mini_headline": "Gemini, 이제 GIFs도 만든다",
+      "tool": "KeyShot",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
           },
           {
             "t": "p",
-            "x": "요즘 영화계에서 AI slop 포스터는 드물지 않다. Luca Guadagnino의 신작 Artificial 디자인을 봤을 때도 눈을 한 번 굴리고 스크롤을 넘겼다. 그 반응이 바로 감독이 노린 것이라고는 꿈에도 몰랐다."
+            "x": "Google Gemini가 이제 GIFs도 만든다. 텍스트 프롬프트나 사진, 영상을 넣으면 짧은 애니메이션 루프를 뽑아 주는 기능으로, Google의 Gemini Omni 1.2 Flash 영상 모델로 돌아간다. ChatGPT는 이미 자체적으로 GIFs를 만들 수 있다."
           },
           {
             "t": "p",
-            "x": "조금만 더 눈여겨봤다면 오른쪽 아래 구석의 작은 문구 “Artwork made by Humans”를 찾았을 것이다. 맞다. 이 포스터는 섬뜩한 AI slop의 요소를 고루 갖췄고, 바로 그게 핵심이다. 조심해라, AI. 인간이 네 일자리를 노린다."
+            "x": "Gemini 메인 채팅에서 원하는 애니메이션을 설명해도 되고, 이미지·영상 생성 도구를 열어 형식 선택기에서 GIF를 고른 뒤 프롬프트를 넣어도 된다. 리액션 밈용 기성 템플릿이 있고 업로드한 사진과 영상을 참고 자료로 쓸 수도 있다."
           },
           {
             "t": "p",
-            "x": "“당신이 보는 미래의 이미지는 무엇인가? Luca Guadagnino의 ARTIFICIAL. 크리스마스 일부 극장 개봉. 1월 8일 전체 개봉.” (X 게시물, 2026년 11월 19일)"
+            "x": "애니메이션은 약 세 초 길이로 자동 반복된다. 지원되는 앱이나 메시지, 이메일, 문서에 복사해 붙이거나 표준 .gif 파일로 내려받으면 된다."
           },
           {
             "t": "p",
-            "x": "제일 먼저 눈에 들어온 건 Andrew Garfield의 기묘한 얼굴이다. OpenAI CEO Sam Altman을 연기한 그의 눈은 텅 비어 섬뜩할 정도라 보자마자 AI 경보가 요란하게 울린다."
-          },
-          {
-            "t": "p",
-            "x": "뜯어볼수록 어긋난 곳이 늘어난다. 물에 잠긴 Golden Gate Bridge, 위에서 뜬금없이 어른거리는 뱀들, 뒤집힌 비행기, 그리고 가장 거슬리는 디테일인 나무 사이에 숨은 섬뜩한 Pinocchio 얼굴까지. 한 X 사용자는 “오래 볼수록 더 미쳐 간다”고 썼고 다른 사용자는 “올해의 포스터”라며 치켜세웠다."
-          },
-          {
-            "t": "p",
-            "x": "“인간이 만든 아트(Gravillis Inc.와 Mike Thompson).” (X 게시물, 2026년 11월 19일)"
+            "x": "GIF 생성은 전 세계 Google AI 구독자에게 배포되고 있다. 무료 사용자는 미국(US), 캐나다, 영국(UK), 호주, 일본, 한국, 독일, 프랑스 여덟 개국에서 쓸 수 있다. 배포는 단계적으로 이뤄지며 Gemini 도움말 문서에는 여전히 Google AI 요금제가 필요 조건으로 적혀 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Artificial's poster fakes\nAI slop on purpose",
-          "body": "The poster for Artificial, the Sam Altman film, is packed with AI-slop tells, but human artists made it on purpose.",
-          "mini_headline": "A poster faking AI slop",
+          "headline": "Gemini now turns prompts\nand photos into GIFs",
+          "body": "Gemini turns prompts, photos and videos into short looping GIFs with Omni 1.2 Flash, free in eight countries.",
+          "mini_headline": "Gemini makes its own GIFs",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Nowadays, AI slop posters are no rarity in the movie world, so when I saw the design for Luca Guadagnino's latest film, Artificial, I rolled my eyes and continued scrolling. Little did I know that was the exact reaction the director wanted."
+                "x": "Google Gemini can now make GIFs. The feature lets users generate short animated loops using text prompts, photos, or videos, powered by Google’s Gemini Omni 1.2 Flash video model. ChatGPT can already create GIFs of its own."
               },
               {
                 "t": "p",
-                "x": "Had I been a little more observant, I'd have spotted the little text in the bottom right corner reading \"Artwork made by Humans\". Yes, this movie poster has all the makings of uncanny AI slop, but that's the point. Watch out, AI; humans are coming for your job."
+                "x": "Users can describe the animation in Gemini’s main chat, or open the image and video creation tools, select GIF from the format picker, and enter a prompt. There are ready-made templates for reaction memes, and uploaded photos and videos can serve as references."
               },
               {
                 "t": "p",
-                "x": "“What is the image of the future that you see? Luca Guadagnino’s ARTIFICIAL. In select theaters Christmas Day. Everywhere January 8.” (post on X, November 19, 2026)"
+                "x": "The generated animations run for approximately three seconds and loop automatically. They can be copied into supported apps, messages, emails, and documents, or downloaded as standard .gif files."
               },
               {
                 "t": "p",
-                "x": "The first thing that strikes me is Andrew Garfield's uncanny face. Starring as OpenAI CEO Sam Altman, the soullessness in his eyes is downright eerie, already ringing major AI alarm bells."
-              },
-              {
-                "t": "p",
-                "x": "A closer look reveals more discrepancies – the underwater Golden Gate Bridge, random snakes looming above, the upside-down plane and my least favourite detail: the terrifying Pinocchio face lurking in the trees. \"The longer you look at this the more insane it gets,\" one X commenter wrote. \"Poster of the year,\" another praised."
-              },
-              {
-                "t": "p",
-                "x": "“Art made by humans (Gravillis Inc. and Mike Thompson).” (post on X, November 19, 2026)"
+                "x": "GIF generation is rolling out to Google AI subscribers globally, while free users can access it in eight countries: the US, Canada, UK, Australia, Japan, South Korea, Germany, and France. The rollout is gradual, and Gemini’s help documentation still lists a Google AI plan as a requirement."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Artificial 포스터\n일부러 AI slop 흉내",
-          "body": "AI-slop처럼 보이는 Artificial 포스터, 실은 사람이 일부러 만들었다.",
-          "mini_headline": "AI slop을 흉내 낸 포스터",
+          "headline": "이제 Gemini가\n프롬프트·사진을 GIFs로",
+          "body": "Gemini가 Omni 1.2 Flash로 사진과 영상을 반복 GIFs로 바꾼다.",
+          "mini_headline": "Gemini, 이제 GIFs도 만든다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "요즘 영화계에서 AI slop 포스터는 드물지 않다. Luca Guadagnino의 신작 Artificial 디자인을 봤을 때도 눈을 한 번 굴리고 스크롤을 넘겼다. 그 반응이 바로 감독이 노린 것이라고는 꿈에도 몰랐다."
+                "x": "Google Gemini가 이제 GIFs도 만든다. 텍스트 프롬프트나 사진, 영상을 넣으면 짧은 애니메이션 루프를 뽑아 주는 기능으로, Google의 Gemini Omni 1.2 Flash 영상 모델로 돌아간다. ChatGPT는 이미 자체적으로 GIFs를 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "조금만 더 눈여겨봤다면 오른쪽 아래 구석의 작은 문구 “Artwork made by Humans”를 찾았을 것이다. 맞다. 이 포스터는 섬뜩한 AI slop의 요소를 고루 갖췄고, 바로 그게 핵심이다. 조심해라, AI. 인간이 네 일자리를 노린다."
+                "x": "Gemini 메인 채팅에서 원하는 애니메이션을 설명해도 되고, 이미지·영상 생성 도구를 열어 형식 선택기에서 GIF를 고른 뒤 프롬프트를 넣어도 된다. 리액션 밈용 기성 템플릿이 있고 업로드한 사진과 영상을 참고 자료로 쓸 수도 있다."
               },
               {
                 "t": "p",
-                "x": "“당신이 보는 미래의 이미지는 무엇인가? Luca Guadagnino의 ARTIFICIAL. 크리스마스 일부 극장 개봉. 1월 8일 전체 개봉.” (X 게시물, 2026년 11월 19일)"
+                "x": "애니메이션은 약 세 초 길이로 자동 반복된다. 지원되는 앱이나 메시지, 이메일, 문서에 복사해 붙이거나 표준 .gif 파일로 내려받으면 된다."
               },
               {
                 "t": "p",
-                "x": "제일 먼저 눈에 들어온 건 Andrew Garfield의 기묘한 얼굴이다. OpenAI CEO Sam Altman을 연기한 그의 눈은 텅 비어 섬뜩할 정도라 보자마자 AI 경보가 요란하게 울린다."
-              },
-              {
-                "t": "p",
-                "x": "뜯어볼수록 어긋난 곳이 늘어난다. 물에 잠긴 Golden Gate Bridge, 위에서 뜬금없이 어른거리는 뱀들, 뒤집힌 비행기, 그리고 가장 거슬리는 디테일인 나무 사이에 숨은 섬뜩한 Pinocchio 얼굴까지. 한 X 사용자는 “오래 볼수록 더 미쳐 간다”고 썼고 다른 사용자는 “올해의 포스터”라며 치켜세웠다."
-              },
-              {
-                "t": "p",
-                "x": "“인간이 만든 아트(Gravillis Inc.와 Mike Thompson).” (X 게시물, 2026년 11월 19일)"
+                "x": "GIF 생성은 전 세계 Google AI 구독자에게 배포되고 있다. 무료 사용자는 미국(US), 캐나다, 영국(UK), 호주, 일본, 한국, 독일, 프랑스 여덟 개국에서 쓸 수 있다. 배포는 단계적으로 이뤄지며 Gemini 도움말 문서에는 여전히 Google AI 요금제가 필요 조건으로 적혀 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Artificialポスター\nあえてAI slop風に",
-          "body": "Artificialのポスターは一見AI-slopだが、人間があえて作ったものだ。",
-          "mini_headline": "AI slopを装うポスター",
+          "headline": "Geminiがプロンプトや\n写真をGIFsに変換",
+          "body": "GeminiがOmni 1.2 Flashで指示や写真、動画を短いループGIFsにする。",
+          "mini_headline": "Geminiが自前でGIFsを作成",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "今や映画界でAI slopのポスターは珍しくない。だからLuca Guadagninoの新作Artificialのデザインを見たとき、私はあきれてそのままスクロールした。それこそが監督の狙った反応だとは思いもしなかった。"
+                "x": "Google GeminiでGIFsを作れるようになった。テキストプロンプト、写真、動画から短いアニメーションループを生成する機能で、GoogleのGemini Omni 1.2 Flash動画モデルを使う。ChatGPTはすでに独自にGIFsを作成できる。"
               },
               {
                 "t": "p",
-                "x": "もう少し注意深ければ、右下の隅にある「Artwork made by Humans」という小さな文字に気づいたはずだ。そう、この映画ポスターには不気味なAI slopの要素がすべてそろっているが、それこそが狙いなのだ。気をつけろ、AI。人間がお前の仕事を奪いに来ている。"
+                "x": "ユーザーはGeminiのメインチャットでアニメーションを説明するか、画像・動画作成ツールを開いてフォーマット選択からGIFを選び、プロンプトを入力する。リアクションミーム用の既製テンプレートがあり、アップロードした写真や動画を参照素材として使える。"
               },
               {
                 "t": "p",
-                "x": "「あなたが見る未来のイメージとは何か? Luca GuadagninoのARTIFICIAL。クリスマスに一部劇場で公開。1月8日に全国公開。」(Xへの投稿、2026年11月19日)"
+                "x": "生成されるアニメーションは約三秒で、自動でループする。対応するアプリ、メッセージ、メール、文書にコピーするか、標準の.gifファイルとしてダウンロードできる。"
               },
               {
                 "t": "p",
-                "x": "まず目を引くのはAndrew Garfieldの不気味な顔だ。OpenAIのCEO、Sam Altmanを演じる彼の目に宿る魂の抜けた感じは実に薄気味悪く、早くもAIへの警報を鳴らしている。"
-              },
-              {
-                "t": "p",
-                "x": "よく見るとさらに不自然な点が見つかる。水中に沈んだGolden Gate Bridge、上空に唐突に浮かぶ蛇、逆さまの飛行機、そして私が最も嫌いなディテールである、木々に潜む恐ろしいPinocchioの顔だ。「見れば見るほど狂っていく」とあるXユーザーは書き、別のユーザーは「今年のポスターだ」と称賛した。"
-              },
-              {
-                "t": "p",
-                "x": "「人間が作ったアート(Gravillis Inc.とMike Thompson)」(Xへの投稿、2026年11月19日)"
+                "x": "GIF生成は世界中のGoogle AI契約者に順次提供されており、無料ユーザーは米国（US）、カナダ、英国（UK）、オーストラリア、日本、韓国、ドイツ、フランスの八か国で利用できる。提供は段階的で、Geminiのヘルプ文書には今もGoogle AIプランが必要と記されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《Artificial》海报\n故意模仿AI slop",
-          "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
-          "mini_headline": "故意模仿AI slop的海报",
+          "headline": "Gemini可将提示词\n和照片做成GIFs",
+          "body": "Gemini用Omni 1.2 Flash把提示词、照片和视频变成循环GIFs，八国免费。",
+          "mini_headline": "Gemini也能自己做GIFs了",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "如今，AI slop海报在电影圈已不稀奇，所以当我看到Luca Guadagnino新片《Artificial》的设计时，翻了个白眼就继续往下滑。我没想到，这正是导演想要的反应。"
+                "x": "Google Gemini现在可以制作GIFs了。这项功能由Google的Gemini Omni 1.2 Flash视频模型驱动，用户可用文字提示、照片或视频生成简短的动画循环。ChatGPT早已能自行生成GIFs。"
               },
               {
                 "t": "p",
-                "x": "如果我再细心一点，就会发现右下角写着“Artwork made by Humans”的小字。没错，这张电影海报具备了诡异AI slop的全部特征，但这正是重点。当心了，AI；人类要来抢你的饭碗了。"
+                "x": "用户可以在Gemini主聊天中描述想要的动画，也可以打开图像和视频创作工具，在格式选择器中选GIF并输入提示词。系统提供现成的反应表情包模板，上传的照片和视频也可作为参考。"
               },
               {
                 "t": "p",
-                "x": "“你看到的未来图景是什么？Luca Guadagnino的《ARTIFICIAL》。圣诞节部分影院上映。1月8日全面上映。”（X上的帖子，2026年11月19日）"
+                "x": "生成的动画时长约三秒，会自动循环播放。可将其复制到支持的应用、消息、邮件和文档中，或下载为标准.gif文件。"
               },
               {
                 "t": "p",
-                "x": "首先让我在意的是Andrew Garfield那张诡异的脸。他饰演OpenAI CEO Sam Altman，眼神中的空洞简直令人发毛，已经拉响了AI的警报。"
-              },
-              {
-                "t": "p",
-                "x": "仔细看还会发现更多破绽——沉在水下的Golden Gate Bridge、头顶莫名盘踞的蛇、倒置的飞机，以及我最不喜欢的细节：藏在树丛中的可怕Pinocchio面孔。一位X网友写道：“越看越疯狂。”另一位则称赞：“年度海报。”"
-              },
-              {
-                "t": "p",
-                "x": "“由人类创作的艺术（Gravillis Inc.与Mike Thompson）。”（X上的帖子，2026年11月19日）"
+                "x": "GIF生成功能正面向全球Google AI订阅用户推出，免费用户则可在八个国家使用：美国（US）、加拿大、英国（UK）、澳大利亚、日本、韩国、德国和法国。推出是逐步进行的，Gemini帮助文档仍将Google AI方案列为使用条件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El póster de Artificial imita\nel AI slop a propósito",
-          "body": "El póster de Artificial, la película sobre Sam Altman, imita el AI-slop, pero lo hicieron artistas humanos a propósito.",
-          "mini_headline": "Un póster que finge ser AI slop",
+          "headline": "Gemini ya convierte prompts\ny fotos en GIFs",
+          "body": "Gemini convierte prompts, fotos y videos en GIFs cortos en bucle con Omni 1.2 Flash, gratis en ocho países.",
+          "mini_headline": "Gemini crea sus propios GIFs",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Hoy en día, los pósteres de AI slop no son una rareza en el cine, así que cuando vi el diseño de la última película de Luca Guadagnino, Artificial, puse los ojos en blanco y seguí desplazándome. No sabía que esa era exactamente la reacción que buscaba el director."
+                "x": "Google Gemini ya puede crear GIFs. La función permite generar bucles animados cortos a partir de prompts de texto, fotos o videos, con el modelo de video Gemini Omni 1.2 Flash de Google. ChatGPT ya puede crear sus propios GIFs."
               },
               {
                 "t": "p",
-                "x": "Si hubiera sido un poco más observador, habría visto el pequeño texto en la esquina inferior derecha que dice “Artwork made by Humans”. Sí, este póster tiene todos los ingredientes de un inquietante AI slop, pero de eso se trata. Cuidado, AI: los humanos vienen a quitarte el trabajo."
+                "x": "Los usuarios pueden describir la animación en el chat principal de Gemini, o abrir las herramientas de creación de imagen y video, elegir GIF en el selector de formato e introducir un prompt. Hay plantillas listas para memes de reacción, y las fotos y videos subidos pueden servir de referencia."
               },
               {
                 "t": "p",
-                "x": "“¿Cuál es la imagen del futuro que ves? ARTIFICIAL, de Luca Guadagnino. En cines seleccionados el día de Navidad. En todas partes el 8 de enero.” (publicación en X, 19 de noviembre de 2026)"
+                "x": "Las animaciones generadas duran unos tres segundos y se repiten automáticamente. Se pueden copiar en apps, mensajes, correos y documentos compatibles, o descargar como archivos .gif estándar."
               },
               {
                 "t": "p",
-                "x": "Lo primero que me llama la atención es el rostro inquietante de Andrew Garfield. En su papel del CEO de OpenAI, Sam Altman, la falta de alma en su mirada resulta francamente escalofriante y ya hace sonar todas las alarmas de AI."
-              },
-              {
-                "t": "p",
-                "x": "Una mirada más atenta revela más incongruencias: el Golden Gate Bridge bajo el agua, serpientes al azar que se ciernen desde arriba, el avión boca abajo y mi detalle menos favorito: la aterradora cara de Pinocchio que acecha entre los árboles. “Cuanto más lo miras, más demencial se vuelve”, escribió un comentarista en X. “Póster del año”, elogió otro."
-              },
-              {
-                "t": "p",
-                "x": "“Arte hecho por humanos (Gravillis Inc. y Mike Thompson).” (publicación en X, 19 de noviembre de 2026)"
+                "x": "La generación de GIF se está desplegando para los suscriptores de Google AI en todo el mundo, mientras que los usuarios gratuitos pueden usarla en ocho países: Estados Unidos (US), Canadá, Reino Unido (UK), Australia, Japón, Corea del Sur, Alemania y Francia. El despliegue es gradual, y la documentación de ayuda de Gemini todavía indica que se requiere un plan de Google AI."
               }
             ]
           }
@@ -1549,153 +837,935 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Artificial 포스터\n일부러 AI slop 흉내",
-          "body": "Artificial 포스터는 AI-slop 같지만 사람이 일부러 만들었다.",
-          "mini_headline": "AI slop을 흉내 낸 포스터",
+          "headline": "이제 Gemini가\n프롬프트·사진을 GIFs로",
+          "body": "Gemini가 Omni 1.2 Flash로 사진·영상을 반복 GIFs로 바꾼다.",
+          "mini_headline": "Gemini, 이제 GIFs도 만든다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "요즘 영화계에서 AI slop 포스터는 드물지 않다. 그래서 Luca Guadagnino의 신작 Artificial의 디자인을 봤을 때도 눈을 굴리며 스크롤을 넘겼다. 그게 바로 감독이 노린 반응이었다는 것은 꿈에도 몰랐다."
+                "x": "Google Gemini가 이제 GIFs를 만든다. 텍스트 프롬프트, 사진, 영상으로 짧은 애니메이션 루프를 생성하는 기능으로, Google의 Gemini Omni 1.2 Flash 영상 모델이 바탕이다. ChatGPT는 이미 자체적으로 GIFs를 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "조금만 더 주의 깊게 봤다면 오른쪽 아래 구석에 적힌 “Artwork made by Humans”라는 작은 문구를 발견했을 것이다. 그렇다. 이 영화 포스터는 섬뜩한 AI slop의 요소를 모두 갖췄지만, 그게 핵심이다. 조심하라, AI. 인간이 네 일자리를 노리고 있다."
+                "x": "사용자는 Gemini 메인 채팅에서 애니메이션을 설명하거나, 이미지·영상 생성 도구를 열어 형식 선택기에서 GIF를 고르고 프롬프트를 입력하면 된다. 리액션 밈용 기성 템플릿이 있고, 업로드한 사진과 영상을 참고 자료로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "“당신이 보는 미래의 이미지는 무엇인가? Luca Guadagnino의 ARTIFICIAL. 크리스마스 일부 극장 개봉. 1월 8일 전체 개봉.” (X 게시물, 2026년 11월 19일)"
+                "x": "생성된 애니메이션은 약 세 초 길이로 자동 반복된다. 지원되는 앱, 메시지, 이메일, 문서에 복사해 넣거나 표준 .gif 파일로 내려받을 수 있다."
               },
               {
                 "t": "p",
-                "x": "가장 먼저 눈에 띈 것은 Andrew Garfield의 기묘한 얼굴이다. OpenAI CEO Sam Altman 역을 맡은 그의 눈에 담긴 공허함은 정말 섬뜩해, 벌써부터 AI 경보를 크게 울린다."
-              },
-              {
-                "t": "p",
-                "x": "자세히 보면 어긋난 부분이 더 보인다. 물에 잠긴 Golden Gate Bridge, 위에서 뜬금없이 어른거리는 뱀들, 뒤집힌 비행기, 그리고 가장 싫은 디테일인 나무 사이에 숨은 섬뜩한 Pinocchio 얼굴까지. 한 X 사용자는 “오래 볼수록 더 미쳐 간다”고 썼고, 다른 사용자는 “올해의 포스터”라고 치켜세웠다."
-              },
-              {
-                "t": "p",
-                "x": "“인간이 만든 아트(Gravillis Inc.와 Mike Thompson).” (X 게시물, 2026년 11월 19일)"
+                "x": "GIF 생성 기능은 전 세계 Google AI 구독자에게 배포 중이며, 무료 사용자는 미국(US), 캐나다, 영국(UK), 호주, 일본, 한국, 독일, 프랑스 여덟 개국에서 쓸 수 있다. 배포는 단계적으로 진행되며, Gemini 도움말 문서에는 여전히 Google AI 요금제가 필요 조건으로 올라 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Artificialポスター\nあえてAI slop風に",
-          "body": "Artificialのポスターは一見AI-slopだが、人間があえて作ったものだ。",
-          "mini_headline": "AI slopを装うポスター",
+          "headline": "Geminiがプロンプトや\n写真をGIFsに変換",
+          "body": "GeminiがOmni 1.2 Flashで指示や写真、動画を短いループGIFsにする。",
+          "mini_headline": "Geminiが自前でGIFsを作成",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "今や映画界でAI slopのポスターは珍しくない。だからLuca Guadagninoの新作Artificialのデザインを見たとき、私はあきれてそのままスクロールした。それこそが監督の狙った反応だとは思いもしなかった。"
+                "x": "Google GeminiでGIFsを作れるようになった。テキストプロンプト、写真、動画から短いアニメーションループを生成する機能で、GoogleのGemini Omni 1.2 Flash動画モデルを使う。ChatGPTはすでに独自にGIFsを作成できる。"
               },
               {
                 "t": "p",
-                "x": "もう少し注意深ければ、右下の隅にある「Artwork made by Humans」という小さな文字に気づいたはずだ。そう、この映画ポスターには不気味なAI slopの要素がすべてそろっているが、それこそが狙いなのだ。気をつけろ、AI。人間がお前の仕事を奪いに来ている。"
+                "x": "ユーザーはGeminiのメインチャットでアニメーションを説明するか、画像・動画作成ツールを開いてフォーマット選択からGIFを選び、プロンプトを入力する。リアクションミーム用の既製テンプレートがあり、アップロードした写真や動画を参照素材として使える。"
               },
               {
                 "t": "p",
-                "x": "「あなたが見る未来のイメージとは何か? Luca GuadagninoのARTIFICIAL。クリスマスに一部劇場で公開。1月8日に全国公開。」(Xへの投稿、2026年11月19日)"
+                "x": "生成されるアニメーションは約三秒で、自動でループする。対応するアプリ、メッセージ、メール、文書にコピーするか、標準の.gifファイルとしてダウンロードできる。"
               },
               {
                 "t": "p",
-                "x": "まず目を引くのはAndrew Garfieldの不気味な顔だ。OpenAIのCEO、Sam Altmanを演じる彼の目に宿る魂の抜けた感じは実に薄気味悪く、早くもAIへの警報を鳴らしている。"
-              },
-              {
-                "t": "p",
-                "x": "よく見るとさらに不自然な点が見つかる。水中に沈んだGolden Gate Bridge、上空に唐突に浮かぶ蛇、逆さまの飛行機、そして私が最も嫌いなディテールである、木々に潜む恐ろしいPinocchioの顔だ。「見れば見るほど狂っていく」とあるXユーザーは書き、別のユーザーは「今年のポスターだ」と称賛した。"
-              },
-              {
-                "t": "p",
-                "x": "「人間が作ったアート(Gravillis Inc.とMike Thompson)」(Xへの投稿、2026年11月19日)"
+                "x": "GIF生成は世界中のGoogle AI契約者に順次提供されており、無料ユーザーは米国（US）、カナダ、英国（UK）、オーストラリア、日本、韓国、ドイツ、フランスの八か国で利用できる。提供は段階的で、Geminiのヘルプ文書には今もGoogle AIプランが必要と記されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《Artificial》海报\n故意模仿AI slop",
-          "body": "电影《Artificial》海报满是AI-slop痕迹，却是人类刻意所作。",
-          "mini_headline": "故意模仿AI slop的海报",
+          "headline": "Gemini可将提示词\n和照片做成GIFs",
+          "body": "Gemini用Omni 1.2 Flash把提示词、照片和视频变成循环GIFs，八国免费。",
+          "mini_headline": "Gemini也能自己做GIFs了",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "如今，AI slop海报在电影圈已不稀奇，所以当我看到Luca Guadagnino新片《Artificial》的设计时，翻了个白眼就继续往下滑。我没想到，这正是导演想要的反应。"
+                "x": "Google Gemini现在可以制作GIFs了。这项功能由Google的Gemini Omni 1.2 Flash视频模型驱动，用户可用文字提示、照片或视频生成简短的动画循环。ChatGPT早已能自行生成GIFs。"
               },
               {
                 "t": "p",
-                "x": "如果我再细心一点，就会发现右下角写着“Artwork made by Humans”的小字。没错，这张电影海报具备了诡异AI slop的全部特征，但这正是重点。当心了，AI；人类要来抢你的饭碗了。"
+                "x": "用户可以在Gemini主聊天中描述想要的动画，也可以打开图像和视频创作工具，在格式选择器中选GIF并输入提示词。系统提供现成的反应表情包模板，上传的照片和视频也可作为参考。"
               },
               {
                 "t": "p",
-                "x": "“你看到的未来图景是什么？Luca Guadagnino的《ARTIFICIAL》。圣诞节部分影院上映。1月8日全面上映。”（X上的帖子，2026年11月19日）"
+                "x": "生成的动画时长约三秒，会自动循环播放。可将其复制到支持的应用、消息、邮件和文档中，或下载为标准.gif文件。"
               },
               {
                 "t": "p",
-                "x": "首先让我在意的是Andrew Garfield那张诡异的脸。他饰演OpenAI CEO Sam Altman，眼神中的空洞简直令人发毛，已经拉响了AI的警报。"
-              },
-              {
-                "t": "p",
-                "x": "仔细看还会发现更多破绽——沉在水下的Golden Gate Bridge、头顶莫名盘踞的蛇、倒置的飞机，以及我最不喜欢的细节：藏在树丛中的可怕Pinocchio面孔。一位X网友写道：“越看越疯狂。”另一位则称赞：“年度海报。”"
-              },
-              {
-                "t": "p",
-                "x": "“由人类创作的艺术（Gravillis Inc.与Mike Thompson）。”（X上的帖子，2026年11月19日）"
+                "x": "GIF生成功能正面向全球Google AI订阅用户推出，免费用户则可在八个国家使用：美国（US）、加拿大、英国（UK）、澳大利亚、日本、韩国、德国和法国。推出是逐步进行的，Gemini帮助文档仍将Google AI方案列为使用条件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El póster de Artificial imita\nel AI slop a propósito",
-          "body": "El póster de Artificial, la película sobre Sam Altman, imita el AI-slop, pero lo hicieron artistas humanos a propósito.",
-          "mini_headline": "Un póster que finge ser AI slop",
+          "headline": "Gemini ya convierte prompts\ny fotos en GIFs",
+          "body": "Gemini convierte prompts, fotos y videos en GIFs cortos en bucle con Omni 1.2 Flash, gratis en ocho países.",
+          "mini_headline": "Gemini crea sus propios GIFs",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Hoy en día, los pósteres de AI slop no son una rareza en el cine, así que cuando vi el diseño de la última película de Luca Guadagnino, Artificial, puse los ojos en blanco y seguí desplazándome. No sabía que esa era exactamente la reacción que buscaba el director."
+                "x": "Google Gemini ya puede crear GIFs. La función permite generar bucles animados cortos a partir de prompts de texto, fotos o videos, con el modelo de video Gemini Omni 1.2 Flash de Google. ChatGPT ya puede crear sus propios GIFs."
               },
               {
                 "t": "p",
-                "x": "Si hubiera sido un poco más observador, habría visto el pequeño texto en la esquina inferior derecha que dice “Artwork made by Humans”. Sí, este póster tiene todos los ingredientes de un inquietante AI slop, pero de eso se trata. Cuidado, AI: los humanos vienen a quitarte el trabajo."
+                "x": "Los usuarios pueden describir la animación en el chat principal de Gemini, o abrir las herramientas de creación de imagen y video, elegir GIF en el selector de formato e introducir un prompt. Hay plantillas listas para memes de reacción, y las fotos y videos subidos pueden servir de referencia."
               },
               {
                 "t": "p",
-                "x": "“¿Cuál es la imagen del futuro que ves? ARTIFICIAL, de Luca Guadagnino. En cines seleccionados el día de Navidad. En todas partes el 8 de enero.” (publicación en X, 19 de noviembre de 2026)"
+                "x": "Las animaciones generadas duran unos tres segundos y se repiten automáticamente. Se pueden copiar en apps, mensajes, correos y documentos compatibles, o descargar como archivos .gif estándar."
               },
               {
                 "t": "p",
-                "x": "Lo primero que me llama la atención es el rostro inquietante de Andrew Garfield. En su papel del CEO de OpenAI, Sam Altman, la falta de alma en su mirada resulta francamente escalofriante y ya hace sonar todas las alarmas de AI."
+                "x": "La generación de GIF se está desplegando para los suscriptores de Google AI en todo el mundo, mientras que los usuarios gratuitos pueden usarla en ocho países: Estados Unidos (US), Canadá, Reino Unido (UK), Australia, Japón, Corea del Sur, Alemania y Francia. El despliegue es gradual, y la documentación de ayuda de Gemini todavía indica que se requiere un plan de Google AI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "webflow-mcp-designer-flow",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Webflow MCP로\nFigma 재작업 건너뛴다",
+      "body": "디자이너가 Figma-to-Webflow 수작업을 MCP 에이전트에 맡겼다.",
+      "mini_headline": "MCP로 Figma에서 Webflow까지",
+      "tool": "Figma",
+      "source": "UX Planet",
+      "url": "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "디자이너 Yudit Lynn Lee는 원래 모든 걸 손으로 했다. Figma에서 디자인하고 Webflow에서 직접 구축한 뒤 작은 스크립트나 Webflow 인터랙션 패널로 인터랙션을 붙였다. 지금은 Claude와 함께 전체 경험을 코드로 프로토타이핑하고, 이를 Webflow MCP가 섹션별로 Webflow에 옮긴다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "초기 비주얼 방향과 기본 레이아웃은 여전히 Figma에서 잡는다. 전체 경험은 Claude와 함께 로컬에서 index.html과 로컬 서버로 프로토타이핑한다. 브라우저에서 바로 보고 만져 보며 여러 안을 나란히 띄워 볼 수 있어서다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "결과가 마음에 들면 Claude에게 구조, 클래스 이름, CSS를 갖춘 Webflow 페이지로 옮겨 달라고 한다. 모션은 Webflow MCP를 거쳐 커스텀 코드로 가져온다. “이제 손으로 직접 만드는 건 아무것도 없다.”"
+          },
+          {
+            "t": "p",
+            "x": "그는 Webflow 사이트가 쓰는 프레임워크(예: Lumos)와 명명 규칙, 변수를 Claude에게 미리 알려 주라고 권한다. 페이지 전체를 만들 때는 새 컨텍스트 창에서 섹션별로 나눠 작업하고, 필요하면 서브에이전트로 병렬 처리까지 하라는 것이다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "An agent on the Webflow MCP\nskips the Figma rebuild",
+          "body": "A designer swaps the manual Figma-to-Webflow rebuild and hand-scripted interactions for an agent on the Webflow MCP.",
+          "mini_headline": "Figma to Webflow via MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Designer Yudit Lynn Lee’s process used to be manual: design in Figma, build it in Webflow by hand, then add the interactions with small scripts or Webflow’s interaction panel. Now she prototypes the whole experience in code with Claude, and the Webflow MCP brings it into Webflow section by section."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
               },
               {
                 "t": "p",
-                "x": "Una mirada más atenta revela más incongruencias: el Golden Gate Bridge bajo el agua, serpientes al azar que se ciernen desde arriba, el avión boca abajo y mi detalle menos favorito: la aterradora cara de Pinocchio que acecha entre los árboles. “Cuanto más lo miras, más demencial se vuelve”, escribió un comentarista en X. “Póster del año”, elogió otro."
+                "x": "Figma is still where she sets the initial visual direction and a basic layout. The full experience she prototypes with Claude locally — an index.html and a local server — so she can see and interact with it in the browser straight away and generate options side by side."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
               },
               {
                 "t": "p",
-                "x": "“Arte hecho por humanos (Gravillis Inc. y Mike Thompson).” (publicación en X, 19 de noviembre de 2026)"
+                "x": "Once happy, she asks Claude to translate it into a Webflow page, with the structure, class names and CSS, and the motion carried across as custom code using Webflow MCP. “I don’t build anything by hand anymore.”"
+              },
+              {
+                "t": "p",
+                "x": "Her tips: tell Claude the framework the Webflow site uses (such as Lumos), its naming conventions and variables; and for a whole page, build section by section in fresh context windows, even in parallel with subagents."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Webflow MCP로\nFigma 재작업 건너뛴다",
+          "body": "디자이너가 Figma-to-Webflow 수작업을 MCP 에이전트에 맡겼다.",
+          "mini_headline": "MCP로 Figma에서 Webflow까지",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "디자이너 Yudit Lynn Lee는 원래 모든 걸 손으로 했다. Figma에서 디자인하고 Webflow에서 직접 구축한 뒤 작은 스크립트나 Webflow 인터랙션 패널로 인터랙션을 붙였다. 지금은 Claude와 함께 전체 경험을 코드로 프로토타이핑하고, 이를 Webflow MCP가 섹션별로 Webflow에 옮긴다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "초기 비주얼 방향과 기본 레이아웃은 여전히 Figma에서 잡는다. 전체 경험은 Claude와 함께 로컬에서 index.html과 로컬 서버로 프로토타이핑한다. 브라우저에서 바로 보고 만져 보며 여러 안을 나란히 띄워 볼 수 있어서다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "결과가 마음에 들면 Claude에게 구조, 클래스 이름, CSS를 갖춘 Webflow 페이지로 옮겨 달라고 한다. 모션은 Webflow MCP를 거쳐 커스텀 코드로 가져온다. “이제 손으로 직접 만드는 건 아무것도 없다.”"
+              },
+              {
+                "t": "p",
+                "x": "그는 Webflow 사이트가 쓰는 프레임워크(예: Lumos)와 명명 규칙, 변수를 Claude에게 미리 알려 주라고 권한다. 페이지 전체를 만들 때는 새 컨텍스트 창에서 섹션별로 나눠 작업하고, 필요하면 서브에이전트로 병렬 처리까지 하라는 것이다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Webflow MCPで\nFigmaの作り直し不要",
+          "body": "デザイナーがFigma-to-Webflowの手作業をMCPエージェントに任せた。",
+          "mini_headline": "MCPでFigmaからWebflowへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "デザイナーのYudit Lynn Leeの工程はかつて手作業だった。Figmaでデザインし、Webflowで手で組み、小さなスクリプトかWebflowのインタラクションパネルで動きを加える。今はClaudeとともに体験全体をコードでプロトタイプし、Webflow MCPがそれをセクションごとにWebflowへ取り込む。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最初のビジュアルの方向性と基本レイアウトは、今もFigmaで決める。体験全体はClaudeとローカルで、index.htmlとローカルサーバーを使ってプロトタイプするため、ブラウザですぐに見て操作でき、複数の案を並べて生成できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "納得がいけば、ClaudeにWebflowページへの変換を頼み、構造、クラス名、CSSを持ち込み、モーションはWebflow MCPを使ってカスタムコードとして移す。「もう手で作るものは何もない」"
+              },
+              {
+                "t": "p",
+                "x": "彼女のコツは、Webflowサイトが使うフレームワーク（Lumosなど）や命名規則、変数をClaudeに伝えること。そしてページ全体なら、新しいコンテキストウィンドウでセクションごとに、サブエージェントで並行してでも作ることだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "借助Webflow MCP\n省去Figma重建",
+          "body": "设计师用Webflow MCP上的智能体取代了Figma-to-Webflow手工重建。",
+          "mini_headline": "经MCP从Figma到Webflow",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "设计师Yudit Lynn Lee过去的流程全靠手工：先在Figma中设计，再在Webflow里手动搭建，然后用小脚本或Webflow的交互面板添加交互。如今她与Claude一起用代码为整个体验制作原型，再由Webflow MCP逐个区块导入Webflow。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最初的视觉方向和基础布局仍在Figma中确定。完整体验则与Claude在本地制作原型——用index.html和本地服务器——这样她能立即在浏览器中查看和交互，并并排生成多个方案。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "满意之后，她让Claude把它转成Webflow页面，带上结构、类名和CSS，动效则借助Webflow MCP以自定义代码的形式迁移过去。“我现在什么都不用手工搭了。”"
+              },
+              {
+                "t": "p",
+                "x": "她的建议：告诉Claude该Webflow网站所用的框架（如Lumos）、命名规范和变量；若要做整页，就在新的上下文窗口中逐个区块搭建，甚至用子智能体并行进行。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un agente en el Webflow MCP\nevita reconstruir desde Figma",
+          "body": "Una diseñadora cambia la reconstrucción Figma-to-Webflow y los scripts de interacción por un agente del Webflow MCP.",
+          "mini_headline": "De Figma a Webflow vía MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El proceso de la diseñadora Yudit Lynn Lee solía ser manual: diseñar en Figma, construirlo a mano en Webflow y luego añadir las interacciones con pequeños scripts o con el panel de interacciones de Webflow. Ahora prototipa toda la experiencia en código con Claude, y el Webflow MCP la lleva a Webflow sección por sección."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Figma sigue siendo donde define la dirección visual inicial y un diseño básico. La experiencia completa la prototipa con Claude en local —un index.html y un servidor local—, de modo que puede verla e interactuar con ella en el navegador de inmediato y generar opciones lado a lado."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Cuando está satisfecha, pide a Claude que la traduzca a una página de Webflow, con la estructura, los nombres de clase y el CSS, y con el movimiento trasladado como código personalizado mediante Webflow MCP. “Ya no construyo nada a mano.”"
+              },
+              {
+                "t": "p",
+                "x": "Sus consejos: indicar a Claude el framework que usa el sitio de Webflow (como Lumos), sus convenciones de nombres y sus variables; y, para una página entera, construir sección por sección en ventanas de contexto nuevas, incluso en paralelo con subagentes."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Webflow MCP로\nFigma 재작업 건너뛴다",
+          "body": "디자이너가 Figma-to-Webflow 수작업을 MCP 에이전트로 대신했다.",
+          "mini_headline": "MCP로 Figma에서 Webflow까지",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "디자이너 Yudit Lynn Lee의 작업은 원래 수작업이었다. Figma에서 디자인하고, Webflow에서 손으로 구축한 뒤, 작은 스크립트나 Webflow 인터랙션 패널로 인터랙션을 더했다. 지금은 Claude와 함께 전체 경험을 코드로 프로토타이핑하고, Webflow MCP가 이를 섹션별로 Webflow에 옮긴다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "초기 비주얼 방향과 기본 레이아웃은 여전히 Figma에서 잡는다. 전체 경험은 Claude와 로컬에서 index.html과 로컬 서버로 프로토타이핑하기 때문에, 브라우저에서 바로 보고 조작하며 여러 안을 나란히 만들어 볼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "결과가 마음에 들면 Claude에게 구조, 클래스 이름, CSS를 갖춘 Webflow 페이지로 옮겨 달라고 하고, 모션은 Webflow MCP를 통해 커스텀 코드로 가져온다. “이제 손으로 직접 만드는 건 아무것도 없다.”"
+              },
+              {
+                "t": "p",
+                "x": "그의 조언은 Webflow 사이트가 쓰는 프레임워크(예: Lumos)와 명명 규칙, 변수를 Claude에게 알려 주고, 페이지 전체를 만들 때는 새 컨텍스트 창에서 섹션별로, 필요하면 서브에이전트로 병렬 작업까지 하라는 것이다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Webflow MCPで\nFigmaの作り直し不要",
+          "body": "デザイナーがFigma-to-Webflowの手作業をMCPエージェントに任せた。",
+          "mini_headline": "MCPでFigmaからWebflowへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "デザイナーのYudit Lynn Leeの工程はかつて手作業だった。Figmaでデザインし、Webflowで手で組み、小さなスクリプトかWebflowのインタラクションパネルで動きを加える。今はClaudeとともに体験全体をコードでプロトタイプし、Webflow MCPがそれをセクションごとにWebflowへ取り込む。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最初のビジュアルの方向性と基本レイアウトは、今もFigmaで決める。体験全体はClaudeとローカルで、index.htmlとローカルサーバーを使ってプロトタイプするため、ブラウザですぐに見て操作でき、複数の案を並べて生成できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "納得がいけば、ClaudeにWebflowページへの変換を頼み、構造、クラス名、CSSを持ち込み、モーションはWebflow MCPを使ってカスタムコードとして移す。「もう手で作るものは何もない」"
+              },
+              {
+                "t": "p",
+                "x": "彼女のコツは、Webflowサイトが使うフレームワーク（Lumosなど）や命名規則、変数をClaudeに伝えること。そしてページ全体なら、新しいコンテキストウィンドウでセクションごとに、サブエージェントで並行してでも作ることだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "借助Webflow MCP\n省去Figma重建",
+          "body": "设计师用Webflow MCP上的智能体取代了Figma-to-Webflow手工重建。",
+          "mini_headline": "经MCP从Figma到Webflow",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "设计师Yudit Lynn Lee过去的流程全靠手工：先在Figma中设计，再在Webflow里手动搭建，然后用小脚本或Webflow的交互面板添加交互。如今她与Claude一起用代码为整个体验制作原型，再由Webflow MCP逐个区块导入Webflow。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最初的视觉方向和基础布局仍在Figma中确定。完整体验则与Claude在本地制作原型——用index.html和本地服务器——这样她能立即在浏览器中查看和交互，并并排生成多个方案。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "满意之后，她让Claude把它转成Webflow页面，带上结构、类名和CSS，动效则借助Webflow MCP以自定义代码的形式迁移过去。“我现在什么都不用手工搭了。”"
+              },
+              {
+                "t": "p",
+                "x": "她的建议：告诉Claude该Webflow网站所用的框架（如Lumos）、命名规范和变量；若要做整页，就在新的上下文窗口中逐个区块搭建，甚至用子智能体并行进行。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un agente en el Webflow MCP\nevita reconstruir desde Figma",
+          "body": "Una diseñadora cambia la reconstrucción Figma-to-Webflow y los scripts de interacción por un agente del Webflow MCP.",
+          "mini_headline": "De Figma a Webflow vía MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El proceso de la diseñadora Yudit Lynn Lee solía ser manual: diseñar en Figma, construirlo a mano en Webflow y luego añadir las interacciones con pequeños scripts o con el panel de interacciones de Webflow. Ahora prototipa toda la experiencia en código con Claude, y el Webflow MCP la lleva a Webflow sección por sección."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Figma sigue siendo donde define la dirección visual inicial y un diseño básico. La experiencia completa la prototipa con Claude en local —un index.html y un servidor local—, de modo que puede verla e interactuar con ella en el navegador de inmediato y generar opciones lado a lado."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Cuando está satisfecha, pide a Claude que la traduzca a una página de Webflow, con la estructura, los nombres de clase y el CSS, y con el movimiento trasladado como código personalizado mediante Webflow MCP. “Ya no construyo nada a mano.”"
+              },
+              {
+                "t": "p",
+                "x": "Sus consejos: indicar a Claude el framework que usa el sitio de Webflow (como Lumos), sus convenciones de nombres y sus variables; y, para una página entera, construir sección por sección en ventanas de contexto nuevas, incluso en paralelo con subagentes."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "comsol-2026-mcp-server",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Comsol, MCP로\nAI 에이전트에 문 연다",
+      "body": "새 Comsol에 MCP 서버가 붙어 AI 에이전트가 모델·공정·방정식을 짠다.",
+      "mini_headline": "Comsol, MCP 서버 추가",
+      "tool": "Text-to-CAD",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Comsol Conference 2026(10월 7–9일)을 맞아 엔지니어와 과학자들이 Massachusetts주 Burlington에 모였다. Comsol의 Bjorn Sjodin은 미니 강좌에서 새 모듈과 기능, AI 기능을 담은 Comsol 2027을 소개했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+            "cap": "Comsol 2027에는 AI로 시뮬레이션 개발을 쉽게 하는 새 기능이 특히 많다. (이미지: Comsol)"
+          },
+          {
+            "t": "p",
+            "x": "Comsol의 MCP 서버에 AI 에이전트(AI Agents)를 연결하면 과학자와 엔지니어가 에이전트로 모델과 공정, 방정식을 만들어 문제의 해법을 찾을 수 있다. Comsol 2027은 소프트웨어 챗봇과 Application Builder, Java Shell도 Mac과 Linux에서 쓸 수 있게 했다."
+          },
+          {
+            "t": "p",
+            "x": "Cosmon CEO Rui Aguiar는 기조연설에서 자사 제품 Argus로 산업용 시뮬레이션에 에이전틱 AI를 적용하는 사례를 소개했다. 시뮬레이션의 목표를 정하고 결과를 검증하는 일은 엔지니어 몫이라는 점도 강조했다. 그가 보여 준 모델은 측정 결과와의 편차가 0.2%였다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+            "cap": "Rui Aguiar 발표 슬라이드 사진. (사진: Martin Rowe)"
+          },
+          {
+            "t": "p",
+            "x": "Jada Walter는 “Generative and Agentic AI with Comsol” 세션에서 챗봇, 모델 빌더, Comsol의 MCP 서버로 모델을 만들고 디버깅하는 과정을 보여 줬다. AI 에이전트는 문법뿐 아니라 모델 뒤에 깔린 추론까지 점검했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+            "cap": "기계식 실린더 모델링에 에이전틱 AI를 활용한 Comsol 예시. (이미지: Comsol)"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Comsol opens its simulations\nto AI agents via MCP",
+          "body": "The new Comsol release adds an MCP server that lets AI agents build simulation models, processes and equations.",
+          "mini_headline": "Comsol adds an MCP server",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Engineers and scientists gathered in Burlington, Massachusetts for Comsol Conference 2026 (October 7–9). In a mini course, Comsol’s Bjorn Sjodin introduced Comsol 2027, which includes new modules, features, and AI capabilities."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027 includes numerous new features that make developing simulations easier, particularly through AI. (Image: Comsol.)"
+              },
+              {
+                "t": "p",
+                "x": "Comsol’s MCP server connects AI Agents so that scientists and engineers can use them to develop solutions to problems by creating models, processes, and equations. Comsol 2027 also brings the software’s chatbots, Application Builder, and Java Shell to Mac and Linux."
+              },
+              {
+                "t": "p",
+                "x": "In a keynote, Cosmon CEO Rui Aguiar presented agentic AI for industrial simulation with his product Argus, stressing that engineers must state a simulation’s objectives and validate results. He showed a model with 0.2% deviation from a measured result."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Photo of a slide from Rui Aguiar’s presentation. (Photo: Martin Rowe.)"
+              },
+              {
+                "t": "p",
+                "x": "In “Generative and Agentic AI with Comsol,” Jada Walter showed how to use a chatbot, model builder, and Comsol’s MCP server to create and debug a model, with AI agents checking the reasoning behind it, not just its syntax."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "This example of using agentic AI in Comsol demonstrates modeling of a mechanical cylinder. (Image: Comsol.)"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Comsol, MCP로\nAI 에이전트에 문 연다",
+          "body": "새 Comsol에 MCP 서버가 붙어 AI 에이전트가 모델·공정·방정식을 짠다.",
+          "mini_headline": "Comsol, MCP 서버 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Comsol Conference 2026(10월 7–9일)을 맞아 엔지니어와 과학자들이 Massachusetts주 Burlington에 모였다. Comsol의 Bjorn Sjodin은 미니 강좌에서 새 모듈과 기능, AI 기능을 담은 Comsol 2027을 소개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027에는 AI로 시뮬레이션 개발을 쉽게 하는 새 기능이 특히 많다. (이미지: Comsol)"
+              },
+              {
+                "t": "p",
+                "x": "Comsol의 MCP 서버에 AI 에이전트(AI Agents)를 연결하면 과학자와 엔지니어가 에이전트로 모델과 공정, 방정식을 만들어 문제의 해법을 찾을 수 있다. Comsol 2027은 소프트웨어 챗봇과 Application Builder, Java Shell도 Mac과 Linux에서 쓸 수 있게 했다."
+              },
+              {
+                "t": "p",
+                "x": "Cosmon CEO Rui Aguiar는 기조연설에서 자사 제품 Argus로 산업용 시뮬레이션에 에이전틱 AI를 적용하는 사례를 소개했다. 시뮬레이션의 목표를 정하고 결과를 검증하는 일은 엔지니어 몫이라는 점도 강조했다. 그가 보여 준 모델은 측정 결과와의 편차가 0.2%였다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Rui Aguiar 발표 슬라이드 사진. (사진: Martin Rowe)"
+              },
+              {
+                "t": "p",
+                "x": "Jada Walter는 “Generative and Agentic AI with Comsol” 세션에서 챗봇, 모델 빌더, Comsol의 MCP 서버로 모델을 만들고 디버깅하는 과정을 보여 줬다. AI 에이전트는 문법뿐 아니라 모델 뒤에 깔린 추론까지 점검했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "기계식 실린더 모델링에 에이전틱 AI를 활용한 Comsol 예시. (이미지: Comsol)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ComsolがMCPで\nAIエージェントに開放",
+          "body": "新しいComsolはAIエージェントがモデルや工程、方程式を組めるMCPサーバーを加えた。",
+          "mini_headline": "ComsolがMCPサーバーを追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "エンジニアや科学者が、Comsol Conference 2026（10月7–9日）のためにMassachusetts州Burlingtonに集まった。ミニコースでは、ComsolのBjorn Sjodin氏が、新モジュールや新機能、AI機能を備えたComsol 2027を紹介した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027には、特にAIによってシミュレーション開発を容易にする多数の新機能が含まれる。（画像：Comsol）"
+              },
+              {
+                "t": "p",
+                "x": "ComsolのMCPサーバーはAI Agentsを接続し、科学者やエンジニアがそれを使ってモデルや工程、方程式を作り、問題の解決策を導けるようにする。Comsol 2027では、ソフトウェアのチャットボット、Application Builder、Java ShellもMacとLinuxで使えるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "基調講演では、CosmonのCEO、Rui Aguiar氏が自社製品Argusによる産業シミュレーション向けのエージェント型AIを紹介し、エンジニアがシミュレーションの目的を明示し、結果を検証しなければならないと強調した。同氏は実測結果との偏差が0.2%のモデルを示した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Rui Aguiar氏の講演スライドの写真。（写真：Martin Rowe）"
+              },
+              {
+                "t": "p",
+                "x": "「Generative and Agentic AI with Comsol」では、Jada Walter氏がチャットボット、モデルビルダー、ComsolのMCPサーバーを使ってモデルを作成・デバッグする方法を示し、AIエージェントが構文だけでなくその背後の推論も確認する様子を見せた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "ComsolでエージェントAIを使ったこの例は、機械式シリンダーのモデリングを示している。（画像：Comsol）"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Comsol经MCP\n向AI智能体开放仿真",
+          "body": "新版Comsol新增MCP服务器，让AI智能体可构建仿真模型、流程和方程。",
+          "mini_headline": "Comsol新增MCP服务器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "工程师和科学家齐聚Massachusetts州Burlington，参加Comsol Conference 2026（10月7–9日）。在一场迷你课程中，Comsol的Bjorn Sjodin介绍了Comsol 2027，其中包含新模块、新功能和AI能力。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027包含大量新功能，尤其借助AI让仿真开发更加容易。（图片：Comsol）"
+              },
+              {
+                "t": "p",
+                "x": "Comsol的MCP服务器可连接AI Agents，科学家和工程师能借助它们创建模型、流程和方程，从而找到问题的解决方案。Comsol 2027还把该软件的聊天机器人、Application Builder和Java Shell带到了Mac和Linux上。"
+              },
+              {
+                "t": "p",
+                "x": "在主题演讲中，Cosmon CEO Rui Aguiar借其产品Argus介绍了面向工业仿真的智能体AI，并强调工程师必须明确仿真目标并验证结果。他展示了一个与实测结果偏差为0.2%的模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Rui Aguiar演讲幻灯片的照片。（照片：Martin Rowe）"
+              },
+              {
+                "t": "p",
+                "x": "在“Generative and Agentic AI with Comsol”环节中，Jada Walter展示了如何使用聊天机器人、模型构建器和Comsol的MCP服务器来创建和调试模型，AI智能体不仅检查语法，还会检查其背后的推理。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "这个在Comsol中使用智能体AI的示例展示了机械圆柱体的建模。（图片：Comsol）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Comsol abre sus simulaciones\na agentes de AI vía MCP",
+          "body": "La nueva Comsol añade un servidor MCP para que agentes de AI creen modelos, procesos y ecuaciones de simulación.",
+          "mini_headline": "Comsol añade un servidor MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Ingenieros y científicos se reunieron en Burlington, Massachusetts, para la Comsol Conference 2026 (7–9 de octubre). En un minicurso, Bjorn Sjodin, de Comsol, presentó Comsol 2027, que incluye nuevos módulos, funciones y capacidades de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027 incluye numerosas funciones nuevas que facilitan el desarrollo de simulaciones, sobre todo mediante AI. (Imagen: Comsol.)"
+              },
+              {
+                "t": "p",
+                "x": "El servidor MCP de Comsol conecta AI Agents para que científicos e ingenieros puedan usarlos en el desarrollo de soluciones mediante la creación de modelos, procesos y ecuaciones. Comsol 2027 también lleva los chatbots del software, Application Builder y Java Shell a Mac y Linux."
+              },
+              {
+                "t": "p",
+                "x": "En una ponencia principal, el CEO de Cosmon, Rui Aguiar, presentó AI agéntica para simulación industrial con su producto Argus, y subrayó que los ingenieros deben definir los objetivos de una simulación y validar los resultados. Mostró un modelo con una desviación del 0.2% respecto de un resultado medido."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Foto de una diapositiva de la presentación de Rui Aguiar. (Foto: Martin Rowe.)"
+              },
+              {
+                "t": "p",
+                "x": "En “Generative and Agentic AI with Comsol”, Jada Walter mostró cómo usar un chatbot, el constructor de modelos y el servidor MCP de Comsol para crear y depurar un modelo, con agentes de AI que revisan el razonamiento detrás de él, no solo su sintaxis."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "Este ejemplo de uso de AI agéntica en Comsol muestra el modelado de un cilindro mecánico. (Imagen: Comsol.)"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Comsol, MCP로\nAI 에이전트에 문 연다",
+          "body": "새 Comsol에 AI 에이전트가 모델·공정·방정식을 짜는 MCP 서버가 생겼다.",
+          "mini_headline": "Comsol, MCP 서버 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "엔지니어와 과학자들이 Comsol Conference 2026(10월 7–9일)을 위해 Massachusetts주 Burlington에 모였다. 미니 강좌에서 Comsol의 Bjorn Sjodin은 새 모듈과 기능, AI 기능을 담은 Comsol 2027을 소개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027에는 특히 AI로 시뮬레이션 개발을 쉽게 해 주는 새 기능이 다수 담겼다. (이미지: Comsol)"
+              },
+              {
+                "t": "p",
+                "x": "Comsol의 MCP 서버는 AI 에이전트(AI Agents)를 연결해, 과학자와 엔지니어가 이를 활용해 모델과 공정, 방정식을 만들며 문제의 해법을 찾을 수 있게 한다. Comsol 2027은 소프트웨어의 챗봇, Application Builder, Java Shell도 Mac과 Linux로 가져왔다."
+              },
+              {
+                "t": "p",
+                "x": "기조연설에서 Cosmon CEO Rui Aguiar는 자사 제품 Argus로 산업용 시뮬레이션을 위한 에이전틱 AI를 소개하며, 엔지니어가 시뮬레이션의 목표를 밝히고 결과를 검증해야 한다고 강조했다. 그는 측정 결과와의 편차가 0.2%인 모델을 보여 줬다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Rui Aguiar 발표 슬라이드 사진. (사진: Martin Rowe)"
+              },
+              {
+                "t": "p",
+                "x": "“Generative and Agentic AI with Comsol” 세션에서 Jada Walter는 챗봇, 모델 빌더, Comsol의 MCP 서버로 모델을 만들고 디버깅하는 방법을 보여 줬다. AI 에이전트는 문법만이 아니라 모델 뒤의 추론까지 점검했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "Comsol에서 에이전틱 AI를 활용한 이 예시는 기계식 실린더의 모델링을 보여 준다. (이미지: Comsol)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ComsolがMCPで\nAIエージェントに開放",
+          "body": "新しいComsolはAIエージェントがモデルや工程、方程式を組めるMCPサーバーを加えた。",
+          "mini_headline": "ComsolがMCPサーバーを追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "エンジニアや科学者が、Comsol Conference 2026（10月7–9日）のためにMassachusetts州Burlingtonに集まった。ミニコースでは、ComsolのBjorn Sjodin氏が、新モジュールや新機能、AI機能を備えたComsol 2027を紹介した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027には、特にAIによってシミュレーション開発を容易にする多数の新機能が含まれる。（画像：Comsol）"
+              },
+              {
+                "t": "p",
+                "x": "ComsolのMCPサーバーはAI Agentsを接続し、科学者やエンジニアがそれを使ってモデルや工程、方程式を作り、問題の解決策を導けるようにする。Comsol 2027では、ソフトウェアのチャットボット、Application Builder、Java ShellもMacとLinuxで使えるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "基調講演では、CosmonのCEO、Rui Aguiar氏が自社製品Argusによる産業シミュレーション向けのエージェント型AIを紹介し、エンジニアがシミュレーションの目的を明示し、結果を検証しなければならないと強調した。同氏は実測結果との偏差が0.2%のモデルを示した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Rui Aguiar氏の講演スライドの写真。（写真：Martin Rowe）"
+              },
+              {
+                "t": "p",
+                "x": "「Generative and Agentic AI with Comsol」では、Jada Walter氏がチャットボット、モデルビルダー、ComsolのMCPサーバーを使ってモデルを作成・デバッグする方法を示し、AIエージェントが構文だけでなくその背後の推論も確認する様子を見せた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "ComsolでエージェントAIを使ったこの例は、機械式シリンダーのモデリングを示している。（画像：Comsol）"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Comsol经MCP\n向AI智能体开放仿真",
+          "body": "新版Comsol新增MCP服务器，让AI智能体可构建仿真模型、流程和方程。",
+          "mini_headline": "Comsol新增MCP服务器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "工程师和科学家齐聚Massachusetts州Burlington，参加Comsol Conference 2026（10月7–9日）。在一场迷你课程中，Comsol的Bjorn Sjodin介绍了Comsol 2027，其中包含新模块、新功能和AI能力。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027包含大量新功能，尤其借助AI让仿真开发更加容易。（图片：Comsol）"
+              },
+              {
+                "t": "p",
+                "x": "Comsol的MCP服务器可连接AI Agents，科学家和工程师能借助它们创建模型、流程和方程，从而找到问题的解决方案。Comsol 2027还把该软件的聊天机器人、Application Builder和Java Shell带到了Mac和Linux上。"
+              },
+              {
+                "t": "p",
+                "x": "在主题演讲中，Cosmon CEO Rui Aguiar借其产品Argus介绍了面向工业仿真的智能体AI，并强调工程师必须明确仿真目标并验证结果。他展示了一个与实测结果偏差为0.2%的模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Rui Aguiar演讲幻灯片的照片。（照片：Martin Rowe）"
+              },
+              {
+                "t": "p",
+                "x": "在“Generative and Agentic AI with Comsol”环节中，Jada Walter展示了如何使用聊天机器人、模型构建器和Comsol的MCP服务器来创建和调试模型，AI智能体不仅检查语法，还会检查其背后的推理。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "这个在Comsol中使用智能体AI的示例展示了机械圆柱体的建模。（图片：Comsol）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Comsol abre sus simulaciones\na agentes de AI vía MCP",
+          "body": "La nueva Comsol añade un servidor MCP para que agentes de AI creen modelos, procesos y ecuaciones de simulación.",
+          "mini_headline": "Comsol añade un servidor MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Ingenieros y científicos se reunieron en Burlington, Massachusetts, para la Comsol Conference 2026 (7–9 de octubre). En un minicurso, Bjorn Sjodin, de Comsol, presentó Comsol 2027, que incluye nuevos módulos, funciones y capacidades de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+                "cap": "Comsol 2027 incluye numerosas funciones nuevas que facilitan el desarrollo de simulaciones, sobre todo mediante AI. (Imagen: Comsol.)"
+              },
+              {
+                "t": "p",
+                "x": "El servidor MCP de Comsol conecta AI Agents para que científicos e ingenieros puedan usarlos en el desarrollo de soluciones mediante la creación de modelos, procesos y ecuaciones. Comsol 2027 también lleva los chatbots del software, Application Builder y Java Shell a Mac y Linux."
+              },
+              {
+                "t": "p",
+                "x": "En una ponencia principal, el CEO de Cosmon, Rui Aguiar, presentó AI agéntica para simulación industrial con su producto Argus, y subrayó que los ingenieros deben definir los objetivos de una simulación y validar los resultados. Mostró un modelo con una desviación del 0.2% respecto de un resultado medido."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+                "cap": "Foto de una diapositiva de la presentación de Rui Aguiar. (Foto: Martin Rowe.)"
+              },
+              {
+                "t": "p",
+                "x": "En “Generative and Agentic AI with Comsol”, Jada Walter mostró cómo usar un chatbot, el constructor de modelos y el servidor MCP de Comsol para crear y depurar un modelo, con agentes de AI que revisan el razonamiento detrás de él, no solo su sintaxis."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+                "cap": "Este ejemplo de uso de AI agéntica en Comsol muestra el modelado de un cilindro mecánico. (Imagen: Comsol.)"
               }
             ]
           }

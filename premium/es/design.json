@@ -12941,6 +12941,161 @@
           "x": "Los materiales de investigación tienen ahora dos públicos: tus compañeros de equipo y las herramientas de AI que se usan en el proceso de diseño. El UX-context design (diseño de contexto UX) es la práctica de seleccionar, organizar y mantener el conocimiento de UX que guía el diseño AI-generated."
         }
       ]
+    },
+    "design/siemens-agibot-gripper-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+          "cap": "Concepto de Industrial AI de Siemens que une ingeniería y producción en un único hilo digital para AM. Foto: Siemens."
+        },
+        {
+          "t": "p",
+          "x": "Siemens está construyendo un Digital Thread de extremo a extremo para la fabricación aditiva (AM) que funciona con Industrial AI. En la parte de ingeniería, un agente de AI se encarga de cada paso, desde adaptar el diseño y validarlo virtualmente hasta prepararlo para la fabricación."
+        },
+        {
+          "t": "p",
+          "x": "Siemens y AGIBOT demuestran el flujo de trabajo con una pinza para un robot humanoide. El usuario describe el objeto que se va a manipular y la tarea que debe realizar el robot. El agente de AI elige un tipo de pinza adecuado, adapta su geometría en el Designcenter de Siemens, la simula y valida la interfaz del robot y la manipulación. La integración con MCP permite al agente usar funciones del software de ingeniería y coordinar los pasos de trabajo. El flujo se exhibe en Formnext 2026 en Frankfurt."
+        },
+        {
+          "t": "p",
+          "x": "“En lugar de diseñar variantes a mano en un proceso que consume mucho tiempo, los flujos de trabajo agénticos pueden orquestar tareas de ingeniería a partir de requisitos específicos”, dijo Karsten Heuser, vicepresidente de Fabricación Aditiva de Siemens."
+        },
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+          "cap": "La célula de producción adaptativa prevista para la fábrica de electrónica de Siemens en Erlangen unirá AM, automatización, posprocesado y software en una sola cadena de procesos. Foto: Siemens."
+        },
+        {
+          "t": "p",
+          "x": "Siemens trabaja con EOS y AM Solutions en una célula de producción adaptativa en su fábrica de electrónica de Erlangen. Synera y Ai Build han seguido caminos similares, con agentes de AI y entrada de texto que operan software de AM existente."
+        }
+      ]
+    },
+    "design/gemini-omni-gif-maker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Google Gemini ya puede crear GIFs. La función permite generar bucles animados cortos a partir de prompts de texto, fotos o videos, con el modelo de video Gemini Omni 1.2 Flash de Google. ChatGPT ya puede crear sus propios GIFs."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden describir la animación en el chat principal de Gemini, o abrir las herramientas de creación de imagen y video, elegir GIF en el selector de formato e introducir un prompt. Hay plantillas listas para memes de reacción, y las fotos y videos subidos pueden servir de referencia."
+        },
+        {
+          "t": "p",
+          "x": "Las animaciones generadas duran unos tres segundos y se repiten automáticamente. Se pueden copiar en apps, mensajes, correos y documentos compatibles, o descargar como archivos .gif estándar."
+        },
+        {
+          "t": "p",
+          "x": "La generación de GIF se está desplegando para los suscriptores de Google AI en todo el mundo, mientras que los usuarios gratuitos pueden usarla en ocho países: Estados Unidos (US), Canadá, Reino Unido (UK), Australia, Japón, Corea del Sur, Alemania y Francia. El despliegue es gradual, y la documentación de ayuda de Gemini todavía indica que se requiere un plan de Google AI."
+        }
+      ]
+    },
+    "design/webflow-mcp-designer-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El proceso de la diseñadora Yudit Lynn Lee solía ser manual: diseñar en Figma, construirlo a mano en Webflow y luego añadir las interacciones con pequeños scripts o con el panel de interacciones de Webflow. Ahora prototipa toda la experiencia en código con Claude, y el Webflow MCP la lleva a Webflow sección por sección."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Figma sigue siendo donde define la dirección visual inicial y un diseño básico. La experiencia completa la prototipa con Claude en local —un index.html y un servidor local—, de modo que puede verla e interactuar con ella en el navegador de inmediato y generar opciones lado a lado."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Cuando está satisfecha, pide a Claude que la traduzca a una página de Webflow, con la estructura, los nombres de clase y el CSS, y con el movimiento trasladado como código personalizado mediante Webflow MCP. “Ya no construyo nada a mano.”"
+        },
+        {
+          "t": "p",
+          "x": "Sus consejos: indicar a Claude el framework que usa el sitio de Webflow (como Lumos), sus convenciones de nombres y sus variables; y, para una página entera, construir sección por sección en ventanas de contexto nuevas, incluso en paralelo con subagentes."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+        }
+      ]
+    },
+    "design/comsol-2026-mcp-server": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ingenieros y científicos se reunieron en Burlington, Massachusetts, para la Comsol Conference 2026 (7–9 de octubre). En un minicurso, Bjorn Sjodin, de Comsol, presentó Comsol 2027, que incluye nuevos módulos, funciones y capacidades de AI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+          "cap": "Comsol 2027 incluye numerosas funciones nuevas que facilitan el desarrollo de simulaciones, sobre todo mediante AI. (Imagen: Comsol.)"
+        },
+        {
+          "t": "p",
+          "x": "El servidor MCP de Comsol conecta AI Agents para que científicos e ingenieros puedan usarlos en el desarrollo de soluciones mediante la creación de modelos, procesos y ecuaciones. Comsol 2027 también lleva los chatbots del software, Application Builder y Java Shell a Mac y Linux."
+        },
+        {
+          "t": "p",
+          "x": "En una ponencia principal, el CEO de Cosmon, Rui Aguiar, presentó AI agéntica para simulación industrial con su producto Argus, y subrayó que los ingenieros deben definir los objetivos de una simulación y validar los resultados. Mostró un modelo con una desviación del 0.2% respecto de un resultado medido."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+          "cap": "Foto de una diapositiva de la presentación de Rui Aguiar. (Foto: Martin Rowe.)"
+        },
+        {
+          "t": "p",
+          "x": "En “Generative and Agentic AI with Comsol”, Jada Walter mostró cómo usar un chatbot, el constructor de modelos y el servidor MCP de Comsol para crear y depurar un modelo, con agentes de AI que revisan el razonamiento detrás de él, no solo su sintaxis."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+          "cap": "Este ejemplo de uso de AI agéntica en Comsol muestra el modelado de un cilindro mecánico. (Imagen: Comsol.)"
+        }
+      ]
+    },
+    "design/figma-specs-agent-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Ahora que los equipos pasan del prototipo a producción más rápido que nunca, los requisitos escritos, los detalles de diseño y las pautas de ingeniería suelen quedar dispersos en documentos y enlaces separados. Specs ofrece un contenedor compartido para el contexto directamente en el lienzo, donde compañeros y agentes pueden contribuir juntos. En este flujo de trabajo, un ingeniero de Pickup, una app ficticia de compras tipo marketplace, usa Specs y el agente de Figma para convertir un contexto disperso en un plan a partir del cual su agente de código puede construir."
+        },
+        {
+          "t": "p",
+          "x": "Con el conector de Hex añadido, el ingeniero pide al agente que encuentre dónde tiene Pickup más uso. El agente genera una spec con el uso de la app y el volumen de pedidos por ciudad, además de capas de código con mapas de las cuatro ciudades principales. El equipo decide lanzar en Bengaluru, India."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+          "cap": "El agente de Figma crea un informe de uso y cuatro capas de código con mapas para ayudar al equipo a comparar posibles ciudades de lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "El ingeniero selecciona la spec técnica, los frames de diseño anotados, la capa de código del mapa interactivo, el nuevo componente y las pautas del sistema de diseño, y luego ejecuta la skill build-implementation-plan del equipo. El agente crea una nueva spec que reúne esas entradas en un plan para que un agente de código construya la función."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+          "cap": "El agente crea una spec con un plan de implementación para que el ingeniero la revise antes de entregarla a un agente de código."
+        },
+        {
+          "t": "p",
+          "x": "Tras ajustar detalles mediante comentarios con el agente y un diseñador, el ingeniero pega el enlace de la spec en Codex y escribe: “Implementa esta función” (Implement this feature.). A través del MCP de Figma, Codex puede leer la spec, los frames anotados, las capas de código y los componentes del sistema de diseño con un solo enlace. Specs está en beta abierta en todos los planes y disponible en web, escritorio y móvil."
+        }
+      ]
     }
   }
 }

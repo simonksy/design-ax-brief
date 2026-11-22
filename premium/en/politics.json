@@ -7237,6 +7237,116 @@
           "x": "“My office is investigating whether Nvidia or Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information,” Bonta said. Nvidia’s shares are down by a fifth since Huang admitted the affair, and he is due to testify before several congressional committees on 1 December."
         }
       ]
+    },
+    "politics/hickenlooper-ai-select-committee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+          "cap": "Pages from the Anthropic website and the company's logos are displayed on a computer screen in New York on Thursday, Feb. 26, 2026. (AP Photo/Patrick Sison, File)"
+        },
+        {
+          "t": "p",
+          "x": "Senate Democrats are debating the best way to quickly establish guardrails around artificial intelligence in the next Congress. Colorado Sen. John Hickenlooper said the person leading their majority next year should have a “day one plan for responsible regulation” on AI, as he has so far withheld an endorsement in the race between Chuck Schumer and Chris Van Hollen."
+        },
+        {
+          "t": "p",
+          "x": "Hickenlooper said his priorities are robust third-party evaluation requirements, mitigation of national security challenges and “clear rules of the road to hold AI companies accountable.” He proposed a select committee on artificial intelligence to consolidate the conversation."
+        },
+        {
+          "t": "p",
+          "x": "Van Hollen said he supports the idea. Sen. Ron Wyden said he would “want to see the specifics,” and Sen. Bernie Sanders did not immediately endorse it. Republican Sen. Ted Cruz said taking the issue out of his committee and others “makes no sense,” but hoped both parties could find common ground on catastrophic risk."
+        },
+        {
+          "t": "p",
+          "x": "A Schumer spokeswoman said Senate Democrats will make AI a top priority of the new majority and are working to deliver comprehensive legislation."
+        }
+      ]
+    },
+    "politics/eu-14-states-ai-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the ‘Education, Youth, Culture and Sport’ Council on Thursday 19 and Friday 20 November, 14 Member States revived the debate on better protecting copyright against AI. In a note sent to the Council of the EU on 18 November, six months after the subject was previously discussed, they called for a legislative proposal."
+        },
+        {
+          "t": "p",
+          "x": "Seven other countries, including Denmark, the Netherlands, and Poland, have joined the initiative. “We would like to take a position again on this topic in view of its urgency and importance for the cultural and media industries”, they said."
+        },
+        {
+          "t": "p",
+          "x": "They reiterated their support for the targeted initiative for a better copyright environment, presented in May, and called for “swift action [...] to improve the enforceability of reservation of rights [...] and ensure adequate remuneration for all creators across the board”. The Member States also said that the Commission’s European AI Office should “examine the suitability of the current template to increase [...] the licensing pressure on AI developers”."
+        }
+      ]
+    },
+    "politics/mcgill-influencer-deepfakes-trade": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Jasmin Laine is one of hundreds of content creators who, according to researchers at McGill University, had their identities stolen by a network using AI to inflame the online conversation around the crumbling ties between Canada and the US."
+        },
+        {
+          "t": "img",
+          "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+          "cap": "The Canadian, left, and US flags flutter at the Lansdowne Port of Entry next to the Thousand Islands Bridge in Lansdowne, Ontario."
+        },
+        {
+          "t": "p",
+          "x": "The McGill Centre for Media, Technology and Democracy study identified about 300 Instagram and TikTok accounts misusing authentic faces in a coordinated operation which published thousands of videos and pulled in about 20 million views. Only 4 percent of the operation’s accounts triggered TikTok’s synthetic content warning. The network also used AI to generate the videos’ scripts."
+        },
+        {
+          "t": "p",
+          "x": "Report author Aengus Bridgman said the network appeared to originate outside of North America; certain accounts were registered in China. “The idea is to polarize,” he said. Some videos blamed Ottawa for the trade conflict while others pointed the finger at Washington."
+        },
+        {
+          "t": "p",
+          "x": "TikTok said it had permanently banned the accounts mentioned in the report, and Meta said it had taken down the implicated Instagram accounts."
+        }
+      ]
+    },
+    "politics/china-ethnic-unity-law-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
+        },
+        {
+          "t": "p",
+          "x": "Four months after China’s “Law on Promoting Ethnic Unity and Progress” took effect, Oliver Lopez argues that AI will enforce it in three ways: policing, learning, and producing. A law this wide in scope demands enforcement on a scale only AI can realistically provide."
+        },
+        {
+          "t": "p",
+          "x": "Policing rests on Article 31’s duty to delete and report content undermining ethnic unity and on Article 52’s “early warning” systems. Since 2023, the Interim Measures for Generative AI Services have obliged model providers to stop and remove such content and retrain their models."
+        },
+        {
+          "t": "p",
+          "x": "But in tests of six models, refusal of crude prompts collapsed when asked in minority languages: 76.9% to 32% in Kazakh, 75.2% to 25.6% in Mongolian. “The obligations of this law have arrived ahead of the ability to meet them.”"
+        },
+        {
+          "t": "p",
+          "x": "Learning rests on Article 15’s digitalization of minority languages. Producing is already happening: DeepSeek answered contested ethnicity questions with the state’s position in 49% of Mandarin answers, against 22% in English."
+        }
+      ]
+    },
+    "politics/house-china-ai-models-report": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chairman John Moolenaar (R-MI) of the House Select Committee on China and Chairman Andrew R. Garbarino (R-NY) of the House Committee on Homeland Security released a report following their joint investigation into the integration of Chinese-developed open-weight AI models into American companies' consumer platforms. It focused on the origin of these models, their data, training, potential for unauthorized distillation, and how companies purchase and acquire them, and evaluated whether the U.S. open-weight AI strategy spares American entities a choice between expensive or proprietary U.S. models and cheap, capable China-based alternatives."
+        },
+        {
+          "t": "p",
+          "x": "The committees began the investigation in April 2026 with letters to Anysphere and Airbnb, and sent a letter to DoorDash in July 2026."
+        },
+        {
+          "t": "p",
+          "x": "The chairmen write that American businesses are increasingly adopting PRC-developed open-weight models \"because they are inexpensive, customizable, and competitive with leading American systems,\" and that federal investigations found major PRC developers \"used proxy networks and fraudulent accounts to harvest outputs from American frontier models.\""
+        },
+        {
+          "t": "p",
+          "x": "The committees say personnel associated with the 1st Bureau of the PLA Cyberspace Force were present on multiple occasions at Zhipu's Beijing headquarters, most recently in August 2026, and that PLA procurement records show DeepSeek, Alibaba's Qwen, Moonshot and MiniMax models being built into military cyber operations. Documents produced to the committees show these same model families running inside major American companies."
+        }
+      ]
     }
   }
 }

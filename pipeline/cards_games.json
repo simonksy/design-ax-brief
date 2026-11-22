@@ -1,167 +1,173 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "games",
   "cards": [
     {
-      "id": "epic-ue6-blueprint-ai-port",
+      "id": "isaac-repentance-ai-music",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Epic, AI로 UE5\n프로젝트를 UE6로",
-      "body": "Fortnite Blueprints 20,000여 개를 AI가 Verse로 옮겼다.",
-      "mini_headline": "Epic의 UE6 AI 전환",
+      "headline": "Binding of\nIsaac AI 음악 삭제",
+      "body": "폭로 뒤 Nicalis가 Repentance+ AI-generated 음악을 뺐다.",
+      "mini_headline": "Isaac, AI 음악 삭제",
       "tool": "Games",
-      "source": "Unreal Engine (Epic Games)",
-      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+            "cap": "The Binding of Isaac: Repentance Plus"
           },
           {
             "t": "p",
-            "x": "UE6 Early Access를 포함해 UE6에는 Blueprints와 Actor Gameplay Framework가 빠진다고 Marcus Wassmer가 밝혔다. 게임플레이는 Verse와 새 Scene Graph 프레임워크로 만든다. 유월만 해도 Epic은 UE6 Early Access와 6.0에서 Blueprints와 Actors가 공존한다고 했다. 이번에는 “최근 AI 역량이 발전하면서 AI가 UE5 프로젝트의 UE6 전환을 크게 도울 것이고, 그 과정을 완전히 자동화할 수도 있다고 본다”고 말했다."
+            "x": "The Binding of Isaac: Repentance Plus는 게임 일부 구간에 AI 음악이 쓰인 사실이 드러나면서 최근 며칠 Steam에서 리뷰 폭탄을 맞았다. Reddit 사용자 ShweetsStuff가 Grand Theft Auto-themed 구간에 쓰인 곡들을 찾아냈다. 그가 찾은 오디오 파일 여러 개에는 Suno 메타데이터가 남아 있었고, 이 메타데이터는 Suno 사이트의 트랙으로 이어졌다."
           },
           {
             "t": "p",
-            "x": "Epic이 꼽은 이유는 두 가지다. AI로 작업 하나를 처리하는 비용이 해마다 13x 수준으로 떨어진다. 두 주 전에는 Epic이 AI로 Fortnite Battle Royale의 Blueprints 전체를 Verse로 바꿔 보는 실험도 했다. 몇 년은 걸리리라 예상한 프로젝트였지만, 20,000개 넘는 Blueprints를 옮긴 끝에 약 300만 줄의 Verse 코드로 돌아가는 프로토타입이 나왔다."
+            "x": "제작자 Edmund McMillen은 X에 사과문을 올리며 게임 속 GTA 패러디에 생성형 AI 음악이 쓰인 줄 “전혀 몰랐다”고 밝혔다. 문제는 또 있다. Valve는 개발자에게 개발 과정에서 생성형 AI를 언제, 어떻게 쓰는지 공개하도록 요구하는데, Repentance Plus를 만든 스튜디오 Nicalis, Inc.는 AI 음악을 어디에서도 밝히지 않은 듯하다."
           },
           {
             "t": "p",
-            "x": "UE6용으로 만든 AI 도구가 UE 5.9 MegaJam Preview를 시작으로 UE5에도 들어온다. Python 스크립팅 확장, Model Context Protocol(MCP) 개선, Web 타깃 플랫폼, 에셋을 만드는 Unreal Canvas가 들어 있다. “UE 5.9의 상당 부분을 AI 에이전트로 만들었고, 웹 플랫폼 작업 대부분도 그렇다.”"
+            "x": "발견 몇 시간 뒤 Nicalis는 X에서 Repentance Plus 업데이트로 생성된 음악 파일을 지웠다고 알렸다. Steam 리뷰는 아직 회복되지 않았고 게임 평가도 여전히 “압도적으로 부정적”이지만, X 사용자들은 McMillen을 믿어 주는 분위기다. 게임 개발에 쓰이는 AI를 두고 그가 꾸준히 목소리를 내 온 덕으로 보인다. 그는 2024년 TikTok 영상에서 AI를 “영감 없고 밋밋하다”고 평했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Epic will use AI to carry\nUE5 projects into UE6",
-          "body": "Epic expects AI to make UE6 conversion practical, and used it to port Fortnite's 20,000+ Blueprints to Verse.",
-          "mini_headline": "Epic's AI path to UE6",
+          "headline": "Binding of Isaac drops\nits undisclosed AI music",
+          "body": "Nicalis pulled AI-generated music from a Repentance+ section after players exposed it and review-bombed the game.",
+          "mini_headline": "Isaac pulls AI music",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmer says UE6, including UE6 Early Access, won't include Blueprints or the Actor Gameplay Framework; gameplay will be built in Verse and on the new Scene Graph framework. In June Epic said Blueprints and Actors would coexist in UE6 Early Access and 6.0, but \"with recent advances in AI capability, we expect AI to massively help with converting UE5 projects to UE6, if not make that process fully automatic.\""
+                "x": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site."
               },
               {
                 "t": "p",
-                "x": "Epic gives two reasons. The cost of any given task with AI has been going down 13x year over year. And two weeks ago Epic experimented with using AI to convert all of the Blueprints for Fortnite Battle Royale to Verse: a project expected to take years now has a working prototype of about 3 million lines of Verse code after porting more than 20,000 Blueprints."
+                "x": "Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
               },
               {
                 "t": "p",
-                "x": "AI tooling built for UE6 is coming back to UE5, starting with the UE 5.9 MegaJam Preview: expanded Python scripting, Model Context Protocol (MCP) improvements, Web as a target platform, and Unreal Canvas for generating assets. \"We built much of UE 5.9 with AI agents, including most of the web platform work.\""
+                "x": "Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed. While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt, likely because he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Epic, AI로 UE5\n프로젝트를 UE6로",
-          "body": "Fortnite Blueprints 20,000여 개를 AI가 Verse로 옮겼다.",
-          "mini_headline": "Epic의 UE6 AI 전환",
+          "headline": "Binding of\nIsaac AI 음악 삭제",
+          "body": "폭로 뒤 Nicalis가 Repentance+ AI-generated 음악을 뺐다.",
+          "mini_headline": "Isaac, AI 음악 삭제",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "UE6 Early Access를 포함해 UE6에는 Blueprints와 Actor Gameplay Framework가 빠진다고 Marcus Wassmer가 밝혔다. 게임플레이는 Verse와 새 Scene Graph 프레임워크로 만든다. 유월만 해도 Epic은 UE6 Early Access와 6.0에서 Blueprints와 Actors가 공존한다고 했다. 이번에는 “최근 AI 역량이 발전하면서 AI가 UE5 프로젝트의 UE6 전환을 크게 도울 것이고, 그 과정을 완전히 자동화할 수도 있다고 본다”고 말했다."
+                "x": "The Binding of Isaac: Repentance Plus는 게임 일부 구간에 AI 음악이 쓰인 사실이 드러나면서 최근 며칠 Steam에서 리뷰 폭탄을 맞았다. Reddit 사용자 ShweetsStuff가 Grand Theft Auto-themed 구간에 쓰인 곡들을 찾아냈다. 그가 찾은 오디오 파일 여러 개에는 Suno 메타데이터가 남아 있었고, 이 메타데이터는 Suno 사이트의 트랙으로 이어졌다."
               },
               {
                 "t": "p",
-                "x": "Epic이 꼽은 이유는 두 가지다. AI로 작업 하나를 처리하는 비용이 해마다 13x 수준으로 떨어진다. 두 주 전에는 Epic이 AI로 Fortnite Battle Royale의 Blueprints 전체를 Verse로 바꿔 보는 실험도 했다. 몇 년은 걸리리라 예상한 프로젝트였지만, 20,000개 넘는 Blueprints를 옮긴 끝에 약 300만 줄의 Verse 코드로 돌아가는 프로토타입이 나왔다."
+                "x": "제작자 Edmund McMillen은 X에 사과문을 올리며 게임 속 GTA 패러디에 생성형 AI 음악이 쓰인 줄 “전혀 몰랐다”고 밝혔다. 문제는 또 있다. Valve는 개발자에게 개발 과정에서 생성형 AI를 언제, 어떻게 쓰는지 공개하도록 요구하는데, Repentance Plus를 만든 스튜디오 Nicalis, Inc.는 AI 음악을 어디에서도 밝히지 않은 듯하다."
               },
               {
                 "t": "p",
-                "x": "UE6용으로 만든 AI 도구가 UE 5.9 MegaJam Preview를 시작으로 UE5에도 들어온다. Python 스크립팅 확장, Model Context Protocol(MCP) 개선, Web 타깃 플랫폼, 에셋을 만드는 Unreal Canvas가 들어 있다. “UE 5.9의 상당 부분을 AI 에이전트로 만들었고, 웹 플랫폼 작업 대부분도 그렇다.”"
+                "x": "발견 몇 시간 뒤 Nicalis는 X에서 Repentance Plus 업데이트로 생성된 음악 파일을 지웠다고 알렸다. Steam 리뷰는 아직 회복되지 않았고 게임 평가도 여전히 “압도적으로 부정적”이지만, X 사용자들은 McMillen을 믿어 주는 분위기다. 게임 개발에 쓰이는 AI를 두고 그가 꾸준히 목소리를 내 온 덕으로 보인다. 그는 2024년 TikTok 영상에서 AI를 “영감 없고 밋밋하다”고 평했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic、AIで\nUE5をUE6へ移す",
-          "body": "AIでFortniteのBlueprints 20,000超をVerseへ移植した。",
-          "mini_headline": "EpicのUE6へのAI移行",
+          "headline": "Binding of\nIsaac、AI音楽を削除",
+          "body": "Nicalisは炎上でRepentance+のAI-generated 音楽を削除した。",
+          "mini_headline": "Isaac、AI音楽を削除",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmerによると、UE6 Early Accessを含むUE6にはBlueprintsとActor Gameplay Frameworkが含まれず、ゲームプレイはVerseと新しいScene Graphフレームワークで構築される。Epicは六月、UE6 Early Accessと6.0でBlueprintsとActorsが共存すると説明していたが、「最近のAIの能力向上により、UE5プロジェクトのUE6への変換はAIが大きく助けるはずで、完全に自動化できる可能性もある」としている。"
+                "x": "The Binding of Isaac: Repentance Plusは、ゲームの一部でAI音楽が使われていたことが発覚し、ここ数日Steamでレビュー爆撃を受けている。RedditユーザーのShweetsStuffが、Grand Theft Auto-themedのセクションで使われた楽曲を見つけた。Sunoのメタデータを含む複数の音声ファイルが見つかり、それらはSunoのサイト上のトラックを指していた。"
               },
               {
                 "t": "p",
-                "x": "Epicが挙げる理由は二つだ。AIによるタスクのコストは年に13x のペースで下がっている。そして二週間前、EpicはAIでFortnite Battle RoyaleのBlueprintsをすべてVerseに変換する実験を行った。何年もかかると見込まれていたプロジェクトは、20,000を超えるBlueprintsを移植した結果、約300万行のVerseコードによる動作するプロトタイプに到達した。"
+                "x": "クリエイターのEdmund McMillenはXで謝罪し、ゲーム内のGTAパロディに生成AI音楽が使われていたことは「まったく知らなかった」と述べた。さらに問題を大きくしたのは、Valveが開発者に対し、開発過程で生成AIをいつどのように使ったかの開示を求めている点だ。Repentance Plusを手がけたスタジオNicalis, Inc.は、AI音楽についてどこにも言及していなかったとみられる。"
               },
               {
                 "t": "p",
-                "x": "UE6向けに作られたAIツールは、UE 5.9 MegaJam Previewを皮切りにUE5にも戻ってくる。Pythonスクリプトの拡張、Model Context Protocol(MCP)の改善、ターゲットプラットフォームとしてのWeb、アセットを生成するUnreal Canvasが含まれる。「UE 5.9の多くはAIエージェントで作った。Webプラットフォームの作業もほとんどがそうだ」"
+                "x": "発覚から数時間のうちに、NicalisはXでRepentance Plusをアップデートし、生成された音楽ファイルを削除したと伝えた。Steamのレビューはまだ回復しておらず、評価も依然「圧倒的に不評」のままだが、XのユーザーはMcMillenを好意的に受け止めているようだ。彼がゲーム開発におけるAIについて率直に発言してきたためだろう。2024年のTikTokでは、AIを「ひらめきがなく味気ない」と評していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic将用AI把UE5\n项目迁移至UE6",
-          "body": "Epic已用AI将Fortnite的20,000多个Blueprints移植到Verse。",
-          "mini_headline": "Epic的UE6 AI迁移之路",
+          "headline": "Binding of\nIsaac撤下未披露AI音乐",
+          "body": "Nicalis在曝光和差评轰炸后从Repentance+撤下AI-generated音乐。",
+          "mini_headline": "Isaac撤下AI音乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmer表示，UE6（包括UE6 Early Access）将不再包含Blueprints和Actor Gameplay Framework，玩法将基于Verse和全新的Scene Graph框架构建。Epic六月曾表示Blueprints与Actors会在UE6 Early Access和6.0中共存，但“随着AI能力近来的进步，我们预计AI将在把UE5项目转换到UE6的过程中提供巨大帮助，甚至让这一过程完全自动化。”"
+                "x": "The Binding of Isaac: Repentance Plus被发现游戏中某个段落使用了AI音乐，过去几天在Steam上遭到差评轰炸。Reddit用户ShweetsStuff发现了Grand Theft Auto-themed段落中使用的歌曲。他们找到了几个带有Suno元数据的音频文件，这些元数据指向Suno网站上的曲目。"
               },
               {
                 "t": "p",
-                "x": "Epic给出两个理由。用AI完成任何一项任务的成本正以每年13x 的幅度下降。两周前，Epic尝试用AI把Fortnite Battle Royale的全部Blueprints转换为Verse：一个原本预计耗时数年的项目，在移植20,000多个Blueprints后，已有约300万行Verse代码的可运行原型。"
+                "x": "创作者Edmund McMillen在X上致歉，称他“完全不知道”游戏内的GTA恶搞段落使用了生成式AI音乐。让事态更复杂的是，Valve要求开发者披露在开发过程中如何以及何时使用生成式AI，而Repentance Plus背后的工作室Nicalis, Inc.似乎没有在任何地方提及这些AI音乐。"
               },
               {
                 "t": "p",
-                "x": "为UE6打造的AI工具正回流到UE5，首先是UE 5.9 MegaJam Preview：扩展的Python脚本、Model Context Protocol（MCP）改进、作为目标平台的Web，以及用于生成资产的Unreal Canvas。“UE 5.9的大部分是我们借助AI智能体完成的，包括大部分Web平台工作。”"
+                "x": "发现后数小时内，Nicalis便在X上表示，Repentance Plus已完成更新，生成的音乐文件已被移除。尽管Steam上的评价尚未回升，游戏仍为“差评如潮”，但X上的用户似乎愿意相信McMillen，可能是因为他对游戏开发中的AI向来直言不讳，曾在2024年的TikTok视频中称其“毫无灵感、平淡无味”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Epic usará AI para llevar\nproyectos de UE5 a UE6",
-          "body": "Epic cree que la AI hará viable pasar a UE6 y ya la usó para portar más de 20,000 Blueprints de Fortnite a Verse.",
-          "mini_headline": "El camino de Epic hacia UE6 con AI",
+          "headline": "Binding of Isaac retira su\nmúsica con AI no declarada",
+          "body": "Nicalis retiró la música AI-generated de una sección de Repentance+ tras ser expuesta y un bombardeo de reseñas.",
+          "mini_headline": "Isaac retira su música AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmer afirma que UE6, incluido UE6 Early Access, no incluirá Blueprints ni el Actor Gameplay Framework; el gameplay se construirá en Verse y sobre el nuevo framework Scene Graph. En junio, Epic dijo que Blueprints y Actors coexistirían en UE6 Early Access y 6.0, pero “con los avances recientes en la capacidad de la AI, esperamos que la AI ayude enormemente a convertir proyectos de UE5 a UE6, si no que haga ese proceso totalmente automático”."
+                "x": "The Binding of Isaac: Repentance Plus lleva varios días recibiendo un bombardeo de reseñas en Steam después de que se descubriera que un segmento concreto del juego usaba música hecha con AI. El usuario de Reddit ShweetsStuff descubrió las canciones utilizadas en una sección Grand Theft Auto-themed. Encontró varios archivos de audio con metadatos de Suno que remitían a las pistas en el sitio de Suno."
               },
               {
                 "t": "p",
-                "x": "Epic da dos razones. El costo de cualquier tarea con AI ha bajado 13x año tras año. Y hace dos semanas Epic experimentó con usar AI para convertir todos los Blueprints de Fortnite Battle Royale a Verse: un proyecto que se esperaba que tomara años ya tiene un prototipo funcional de unos 3 millones de líneas de código Verse tras portar más de 20,000 Blueprints."
+                "x": "El creador Edmund McMillen recurrió a X para disculparse y aseguró que “no tenía ni idea” de que la parodia de GTA dentro del juego usaba música hecha con AI generativa. Para complicar más las cosas, Valve exige a los desarrolladores que indiquen cómo y cuándo usan AI generativa en el proceso de desarrollo, y Nicalis, Inc., el estudio detrás de Repentance Plus, no parece haber mencionado la música hecha con AI en ningún lugar."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de AI creadas para UE6 vuelven a UE5, empezando por UE 5.9 MegaJam Preview: scripting de Python ampliado, mejoras en Model Context Protocol (MCP), Web como plataforma de destino y Unreal Canvas para generar assets. “Construimos gran parte de UE 5.9 con agentes de AI, incluida la mayor parte del trabajo de la plataforma web”."
+                "x": "A las pocas horas del hallazgo, Nicalis informó en X de que Repentance Plus se había actualizado y de que se habían eliminado los archivos de música generada. Aunque las reseñas en Steam aún no se han recuperado y el juego sigue con una valoración “extremadamente negativa”, los usuarios de X parecen conceder a McMillen el beneficio de la duda, probablemente porque se ha mostrado muy crítico con la AI en el desarrollo de videojuegos: en un TikTok de 2024 la calificó de “poco inspirada e insulsa”."
               }
             ]
           }
@@ -169,105 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Epic, AI로 UE5\n프로젝트를 UE6로",
-          "body": "Fortnite Blueprints 20,000여 개를 AI로 Verse로 옮겼다.",
-          "mini_headline": "Epic의 UE6 AI 전환",
+          "headline": "Binding of\nIsaac AI 음악 뺐다",
+          "body": "폭로에 Nicalis가 Repentance+ AI-generated 음악을 뺐다.",
+          "mini_headline": "Isaac, AI 음악 삭제",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmer는 UE6 Early Access를 포함한 UE6에 Blueprints와 Actor Gameplay Framework가 들어가지 않는다고 밝혔다. 게임플레이는 Verse와 새 Scene Graph 프레임워크로 만든다. Epic은 유월에 UE6 Early Access와 6.0에서 Blueprints와 Actors가 공존한다고 했지만, “최근 AI 역량이 발전하면서 AI가 UE5 프로젝트의 UE6 전환을 크게 도울 것이고, 그 과정을 완전히 자동화할 수도 있다고 본다”고 말했다."
+                "x": "The Binding of Isaac: Repentance Plus는 게임의 특정 구간에 AI 음악이 쓰인 사실이 드러난 뒤 지난 며칠간 Steam에서 리뷰 폭탄을 맞았다. Reddit 사용자 ShweetsStuff가 Grand Theft Auto-themed 구간에 쓰인 곡들을 찾아냈다. 그는 Suno 메타데이터가 담긴 오디오 파일 여러 개를 발견했고, 이 메타데이터는 Suno 사이트의 트랙을 가리키고 있었다."
               },
               {
                 "t": "p",
-                "x": "Epic이 내세운 이유는 두 가지다. AI로 어떤 작업을 처리하는 비용이 해마다 13x 수준으로 떨어지고 있다. 그리고 두 주 전 Epic은 AI로 Fortnite Battle Royale의 Blueprints 전체를 Verse로 바꾸는 실험을 했다. 몇 년이 걸릴 것으로 보던 프로젝트가 20,000개가 넘는 Blueprints를 이식한 끝에 약 300만 줄의 Verse 코드로 된 작동 프로토타입을 갖췄다."
+                "x": "제작자 Edmund McMillen은 X에 사과문을 올리며 게임 속 GTA 패러디에 생성형 AI 음악이 쓰인 줄 “전혀 몰랐다”고 밝혔다. 논란을 키운 점도 있다. Valve는 개발자에게 개발 과정에서 생성형 AI를 언제, 어떻게 쓰는지 공개하도록 요구하는데, Repentance Plus를 만든 스튜디오 Nicalis, Inc.는 AI 음악을 어디에도 언급하지 않은 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "UE6용으로 만든 AI 도구가 UE 5.9 MegaJam Preview를 시작으로 UE5에도 들어온다. Python 스크립팅 확장, Model Context Protocol(MCP) 개선, 타깃 플랫폼으로서의 Web, 에셋 생성용 Unreal Canvas가 담겼다. “UE 5.9의 상당 부분을 AI 에이전트로 만들었고, 웹 플랫폼 작업 대부분도 그렇다.”"
+                "x": "발견 후 몇 시간 만에 Nicalis는 X를 통해 Repentance Plus를 업데이트해 생성된 음악 파일을 삭제했다고 알렸다. Steam 리뷰는 아직 회복되지 않았고 게임 평가도 여전히 “압도적으로 부정적”이지만, X 사용자들은 McMillen을 믿어 주는 분위기다. 그가 게임 개발의 AI에 대해 꾸준히 목소리를 내 왔기 때문으로 보인다. 그는 2024년 TikTok 영상에서 AI를 “영감 없고 밋밋하다”고 평했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic、AIで\nUE5をUE6へ移す",
-          "body": "AIでFortniteのBlueprints 20,000超をVerseへ移植した。",
-          "mini_headline": "EpicのUE6へのAI移行",
+          "headline": "Binding of\nIsaac、AI音楽を削除",
+          "body": "Nicalisは炎上でRepentance+のAI-generated 音楽を削除した。",
+          "mini_headline": "Isaac、AI音楽を削除",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmerによると、UE6 Early Accessを含むUE6にはBlueprintsとActor Gameplay Frameworkが含まれず、ゲームプレイはVerseと新しいScene Graphフレームワークで構築される。Epicは六月、UE6 Early Accessと6.0でBlueprintsとActorsが共存すると説明していたが、「最近のAIの能力向上により、UE5プロジェクトのUE6への変換はAIが大きく助けるはずで、完全に自動化できる可能性もある」としている。"
+                "x": "The Binding of Isaac: Repentance Plusは、ゲームの一部でAI音楽が使われていたことが発覚し、ここ数日Steamでレビュー爆撃を受けている。RedditユーザーのShweetsStuffが、Grand Theft Auto-themedのセクションで使われた楽曲を見つけた。Sunoのメタデータを含む複数の音声ファイルが見つかり、それらはSunoのサイト上のトラックを指していた。"
               },
               {
                 "t": "p",
-                "x": "Epicが挙げる理由は二つだ。AIによるタスクのコストは年に13x のペースで下がっている。そして二週間前、EpicはAIでFortnite Battle RoyaleのBlueprintsをすべてVerseに変換する実験を行った。何年もかかると見込まれていたプロジェクトは、20,000を超えるBlueprintsを移植した結果、約300万行のVerseコードによる動作するプロトタイプに到達した。"
+                "x": "クリエイターのEdmund McMillenはXで謝罪し、ゲーム内のGTAパロディに生成AI音楽が使われていたことは「まったく知らなかった」と述べた。さらに問題を大きくしたのは、Valveが開発者に対し、開発過程で生成AIをいつどのように使ったかの開示を求めている点だ。Repentance Plusを手がけたスタジオNicalis, Inc.は、AI音楽についてどこにも言及していなかったとみられる。"
               },
               {
                 "t": "p",
-                "x": "UE6向けに作られたAIツールは、UE 5.9 MegaJam Previewを皮切りにUE5にも戻ってくる。Pythonスクリプトの拡張、Model Context Protocol(MCP)の改善、ターゲットプラットフォームとしてのWeb、アセットを生成するUnreal Canvasが含まれる。「UE 5.9の多くはAIエージェントで作った。Webプラットフォームの作業もほとんどがそうだ」"
+                "x": "発覚から数時間のうちに、NicalisはXでRepentance Plusをアップデートし、生成された音楽ファイルを削除したと伝えた。Steamのレビューはまだ回復しておらず、評価も依然「圧倒的に不評」のままだが、XのユーザーはMcMillenを好意的に受け止めているようだ。彼がゲーム開発におけるAIについて率直に発言してきたためだろう。2024年のTikTokでは、AIを「ひらめきがなく味気ない」と評していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic将用AI把UE5\n项目迁移至UE6",
-          "body": "Epic已用AI将Fortnite的20,000多个Blueprints移植到Verse。",
-          "mini_headline": "Epic的UE6 AI迁移之路",
+          "headline": "Binding of\nIsaac撤下未披露AI音乐",
+          "body": "Nicalis在曝光和差评轰炸后从Repentance+撤下AI-generated音乐。",
+          "mini_headline": "Isaac撤下AI音乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmer表示，UE6（包括UE6 Early Access）将不再包含Blueprints和Actor Gameplay Framework，玩法将基于Verse和全新的Scene Graph框架构建。Epic六月曾表示Blueprints与Actors会在UE6 Early Access和6.0中共存，但“随着AI能力近来的进步，我们预计AI将在把UE5项目转换到UE6的过程中提供巨大帮助，甚至让这一过程完全自动化。”"
+                "x": "The Binding of Isaac: Repentance Plus被发现游戏中某个段落使用了AI音乐，过去几天在Steam上遭到差评轰炸。Reddit用户ShweetsStuff发现了Grand Theft Auto-themed段落中使用的歌曲。他们找到了几个带有Suno元数据的音频文件，这些元数据指向Suno网站上的曲目。"
               },
               {
                 "t": "p",
-                "x": "Epic给出两个理由。用AI完成任何一项任务的成本正以每年13x 的幅度下降。两周前，Epic尝试用AI把Fortnite Battle Royale的全部Blueprints转换为Verse：一个原本预计耗时数年的项目，在移植20,000多个Blueprints后，已有约300万行Verse代码的可运行原型。"
+                "x": "创作者Edmund McMillen在X上致歉，称他“完全不知道”游戏内的GTA恶搞段落使用了生成式AI音乐。让事态更复杂的是，Valve要求开发者披露在开发过程中如何以及何时使用生成式AI，而Repentance Plus背后的工作室Nicalis, Inc.似乎没有在任何地方提及这些AI音乐。"
               },
               {
                 "t": "p",
-                "x": "为UE6打造的AI工具正回流到UE5，首先是UE 5.9 MegaJam Preview：扩展的Python脚本、Model Context Protocol（MCP）改进、作为目标平台的Web，以及用于生成资产的Unreal Canvas。“UE 5.9的大部分是我们借助AI智能体完成的，包括大部分Web平台工作。”"
+                "x": "发现后数小时内，Nicalis便在X上表示，Repentance Plus已完成更新，生成的音乐文件已被移除。尽管Steam上的评价尚未回升，游戏仍为“差评如潮”，但X上的用户似乎愿意相信McMillen，可能是因为他对游戏开发中的AI向来直言不讳，曾在2024年的TikTok视频中称其“毫无灵感、平淡无味”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Epic usará AI para llevar\nproyectos de UE5 a UE6",
-          "body": "Epic cree que la AI hará viable pasar a UE6 y ya la usó para portar más de 20,000 Blueprints de Fortnite a Verse.",
-          "mini_headline": "El camino de Epic hacia UE6 con AI",
+          "headline": "Binding of Isaac retira su\nmúsica con AI no declarada",
+          "body": "Nicalis retiró la música AI-generated de una sección de Repentance+ tras ser expuesta y un bombardeo de reseñas.",
+          "mini_headline": "Isaac retira su música AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+                "cap": "The Binding of Isaac: Repentance Plus"
               },
               {
                 "t": "p",
-                "x": "Marcus Wassmer afirma que UE6, incluido UE6 Early Access, no incluirá Blueprints ni el Actor Gameplay Framework; el gameplay se construirá en Verse y sobre el nuevo framework Scene Graph. En junio, Epic dijo que Blueprints y Actors coexistirían en UE6 Early Access y 6.0, pero “con los avances recientes en la capacidad de la AI, esperamos que la AI ayude enormemente a convertir proyectos de UE5 a UE6, si no que haga ese proceso totalmente automático”."
+                "x": "The Binding of Isaac: Repentance Plus lleva varios días recibiendo un bombardeo de reseñas en Steam después de que se descubriera que un segmento concreto del juego usaba música hecha con AI. El usuario de Reddit ShweetsStuff descubrió las canciones utilizadas en una sección Grand Theft Auto-themed. Encontró varios archivos de audio con metadatos de Suno que remitían a las pistas en el sitio de Suno."
               },
               {
                 "t": "p",
-                "x": "Epic da dos razones. El costo de cualquier tarea con AI ha bajado 13x año tras año. Y hace dos semanas Epic experimentó con usar AI para convertir todos los Blueprints de Fortnite Battle Royale a Verse: un proyecto que se esperaba que tomara años ya tiene un prototipo funcional de unos 3 millones de líneas de código Verse tras portar más de 20,000 Blueprints."
+                "x": "El creador Edmund McMillen recurrió a X para disculparse y aseguró que “no tenía ni idea” de que la parodia de GTA dentro del juego usaba música hecha con AI generativa. Para complicar más las cosas, Valve exige a los desarrolladores que indiquen cómo y cuándo usan AI generativa en el proceso de desarrollo, y Nicalis, Inc., el estudio detrás de Repentance Plus, no parece haber mencionado la música hecha con AI en ningún lugar."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de AI creadas para UE6 vuelven a UE5, empezando por UE 5.9 MegaJam Preview: scripting de Python ampliado, mejoras en Model Context Protocol (MCP), Web como plataforma de destino y Unreal Canvas para generar assets. “Construimos gran parte de UE 5.9 con agentes de AI, incluida la mayor parte del trabajo de la plataforma web”."
+                "x": "A las pocas horas del hallazgo, Nicalis informó en X de que Repentance Plus se había actualizado y de que se habían eliminado los archivos de música generada. Aunque las reseñas en Steam aún no se han recuperado y el juego sigue con una valoración “extremadamente negativa”, los usuarios de X parecen conceder a McMillen el beneficio de la duda, probablemente porque se ha mostrado muy crítico con la AI en el desarrollo de videojuegos: en un TikTok de 2024 la calificó de “poco inspirada e insulsa”."
               }
             ]
           }
@@ -275,15 +285,15 @@
       }
     },
     {
-      "id": "unity-neural-unite-tokyo",
+      "id": "wotc-anthropic-payout-writers",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unity Neural과\n에이전트 plug-ins",
-      "body": "Unity Neural 텍스처 압축이 Atrio 메모리를 30% 가까이 줄였다.",
-      "mini_headline": "Unite Tokyo의 Unity Neural",
+      "headline": "Wizards AI 보상금\nD&D 작가에게 준다",
+      "body": "Wizards of the Coast가 Anthropic AI 합의금 작가에 준다.",
+      "mini_headline": "WotC, AI 보상금 작가에",
       "tool": "Games",
-      "source": "Unity Blog",
-      "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -291,239 +301,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-            "cap": "Unite Tokyo 2026 Keynote에서 발표하는 Adam Smith"
-          },
-          {
-            "t": "video",
-            "yt": "ZWX5TfR1UAI"
+            "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+            "cap": "R.A. Salvatore의 Lolth's Warrior (Image credit: Wizards of the Coast)"
           },
           {
             "t": "p",
-            "x": "Unite Tokyo 2026의 중심은 “아이디어의 속도에 맞춰 만든” Unity 7이었다. ECS for All, Unity CLI 1.0, 코딩 에이전트용 공식 plug-ins, Editor 안에서 Unity Asset Store를 검색하는 Asset Library plug-in이 나왔다. Claude, Codex, Google Antigravity, Grok용 plug-ins에는 Unity 팀이 직접 만들어 검토하고 보안 점검까지 마친 스킬이 들어 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-            "cap": "Unite Tokyo 2026에서 새 그래픽 도구와 Atrio 샘플 씬을 보여주는 Sangbae Nam"
+            "x": "D&D와 Magic: The Gathering의 퍼블리셔 Wizards of the Coast는 Claude AI 개발사 Anthropic을 상대로 한 $1.5 billion 규모 저작권 소송의 청구인이었다. Wargamer 보도에 따르면 소송 대상 작품당 표준 지급액은 $3,000이며, 저자와 출판사가 50/50으로 나눈다. 그런데 Wizards는 자기 몫인 절반까지 저자에게 넘기기로 했다. 혜택은 주로 회사와 계약한 독립 작가들에게 돌아가며, R.A. Salvatore 같은 유명 작가도 포함된다."
           },
           {
             "t": "p",
-            "x": "Unity Neural은 렌더링은 빠르게, 메모리 사용은 적게 만드는 AI-powered 도구 모음이다. Neural Texture Compression은 Atrio의 텍스처 메모리를 30% 가까이 줄였다. Unity 6.7 LTS에 실험 기능으로 들어가고, 정식 출시는 Unity 7에서 할 계획이다. Unity Graphics Kernel(UGK)은 레이 트레이싱을 켠 상태에서 Atrio의 GPU 성능을 62% 넘게 끌어올렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-            "cap": "Unity CLI와 Pipeline API로 프로젝트 전체를 처음부터 끝까지 시연하는 Keijiro Takahashi"
+            "x": "프리랜서 작가이자 편집자인 James Lowder는 LinkedIn에 이렇게 썼다. \"놀라운 일이다. WotC가 가져갈 수 있었던 수십만 달러가 작가들에게 돌아간다. 게다가 Wizards는 대형 출판사들이 저자들로부터 합의금을 최대한 챙기려 다투는 시기에 이렇게 하고 있다.\" 그는 논의를 이끈 저자들, 그중에서도 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
           },
           {
             "t": "p",
-            "x": "Keijiro Takahashi는 에이전트(Unity 공식 plug-in을 단 Claude Code)에게 일인칭 퍼즐 프로토타입을 만들게 했다. 에이전트는 코드를 쓰고 컴파일한 뒤 오류를 읽고 플레이테스트까지 했다. 새 Asset Library plug-in은 요청에 맞는 에셋 하나를 찾아 씬에 넣어 준다. 같은 검색은 CLI에서 어느 에이전트로든 쓸 수 있다."
+            "x": "PC Gamer의 Ted Litchfield는 Wizards가 최근 몇 년간 AI 사용(마케팅 자료와 D&D 소스북의 AI 아트)과 내부 노사 관계로 평판이 깎였고, 이번 금액도 수십억 달러 규모 기업에는 푼돈일 뿐이라고 꼬집는다. \"Wizards of the Coast는 분명 옳은 일을 했다. 하지만 값싸게 얻은 PR 승리라고 생각한다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unity unveils Unity Neural\nand agent plug-ins",
-          "body": "Unity's Neural Texture Compression cut Atrio's texture memory by nearly 30%, with a full release planned for Unity 7.",
-          "mini_headline": "Unity Neural at Unite Tokyo",
+          "headline": "Wizards of the Coast passes\nAI payout to D&D writers",
+          "body": "Wizards of the Coast will pass its full share of the Anthropic AI copyright settlement for D&D books to their writers.",
+          "mini_headline": "WotC passes AI payout to writers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Adam Smith speaks during the Unite Tokyo 2026 Keynote"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "Lolth's Warrior by R.A. Salvatore (Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026 centered on Unity 7, \"built for the speed of your ideas\": ECS for All, Unity CLI 1.0, official plug-ins for coding agents, and an Asset Library plug-in that searches the Unity Asset Store from inside the Editor. The plug-ins for Claude, Codex, Google Antigravity, and Grok ship with skills Unity's own team built, reviewed, and security checked."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Sangbae Nam shows new graphics tools and the Atrio sample scene at Unite Tokyo 2026"
+                "x": "D&D and Magic: The Gathering publisher Wizards of the Coast was a claimant in the $1.5 billion copyright case against Claude AI developer Anthropic. The standard payment was $3,000 per work covered by the suit, with a 50/50 split between author and publisher, as reported by Wargamer. Wizards will instead deliver its half of the payout to authors as well — primarily independent writers who contract with the company, up to and including big names like R.A. Salvatore."
               },
               {
                 "t": "p",
-                "x": "Unity Neural is a set of AI-powered tools for faster rendering and lower memory use. Neural Texture Compression cut Atrio's texture memory by nearly 30%. It arrives as an experimental feature in Unity 6.7 LTS, with a full release planned for Unity 7. Unity Graphics Kernel (UGK) raised GPU performance in Atrio by more than 62% with ray tracing enabled."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Keijiro Takahashi takes the audience through an entire project from end to end using the Unity CLI and Pipeline API"
+                "x": "Freelance writer and editor James Lowder wrote on LinkedIn: \"This is remarkable and amounts to hundreds of thousands of dollars that WotC could have collected going to the writers. And Wizards is doing this at a time when the larger publishers are scrambling to grab as much settlement money as possible from authors.\" He credited author-prompted discussions, especially the efforts of R.A. Salvatore, and Dan Ayoub at Wizards."
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashi prompted an agent (Claude Code with Unity's official plug-in) to build a first-person puzzle prototype; the agent wrote code, compiled, read errors, and playtested. The new Asset Library plug-in finds a single asset from a typed request and drops it into your scene, and the same search works from the CLI with any agent."
+                "x": "PC Gamer's Ted Litchfield notes Wizards has sustained reputational damage in recent years for AI usage — AI art in marketing material and a D&D sourcebook — and internal labor relations, and that the sum is couch cushion change for a multi-billion dollar operation: \"Wizards of the Coast undeniably did the right thing here, but I think it was a PR victory cheaply bought.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unity Neural과\n에이전트 plug-ins",
-          "body": "Unity Neural 텍스처 압축이 Atrio 메모리를 30% 가까이 줄였다.",
-          "mini_headline": "Unite Tokyo의 Unity Neural",
+          "headline": "Wizards AI 보상금\nD&D 작가에게 준다",
+          "body": "Wizards of the Coast가 Anthropic AI 합의금 작가에 준다.",
+          "mini_headline": "WotC, AI 보상금 작가에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Unite Tokyo 2026 Keynote에서 발표하는 Adam Smith"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "R.A. Salvatore의 Lolth's Warrior (Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026의 중심은 “아이디어의 속도에 맞춰 만든” Unity 7이었다. ECS for All, Unity CLI 1.0, 코딩 에이전트용 공식 plug-ins, Editor 안에서 Unity Asset Store를 검색하는 Asset Library plug-in이 나왔다. Claude, Codex, Google Antigravity, Grok용 plug-ins에는 Unity 팀이 직접 만들어 검토하고 보안 점검까지 마친 스킬이 들어 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Unite Tokyo 2026에서 새 그래픽 도구와 Atrio 샘플 씬을 보여주는 Sangbae Nam"
+                "x": "D&D와 Magic: The Gathering의 퍼블리셔 Wizards of the Coast는 Claude AI 개발사 Anthropic을 상대로 한 $1.5 billion 규모 저작권 소송의 청구인이었다. Wargamer 보도에 따르면 소송 대상 작품당 표준 지급액은 $3,000이며, 저자와 출판사가 50/50으로 나눈다. 그런데 Wizards는 자기 몫인 절반까지 저자에게 넘기기로 했다. 혜택은 주로 회사와 계약한 독립 작가들에게 돌아가며, R.A. Salvatore 같은 유명 작가도 포함된다."
               },
               {
                 "t": "p",
-                "x": "Unity Neural은 렌더링은 빠르게, 메모리 사용은 적게 만드는 AI-powered 도구 모음이다. Neural Texture Compression은 Atrio의 텍스처 메모리를 30% 가까이 줄였다. Unity 6.7 LTS에 실험 기능으로 들어가고, 정식 출시는 Unity 7에서 할 계획이다. Unity Graphics Kernel(UGK)은 레이 트레이싱을 켠 상태에서 Atrio의 GPU 성능을 62% 넘게 끌어올렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Unity CLI와 Pipeline API로 프로젝트 전체를 처음부터 끝까지 시연하는 Keijiro Takahashi"
+                "x": "프리랜서 작가이자 편집자인 James Lowder는 LinkedIn에 이렇게 썼다. \"놀라운 일이다. WotC가 가져갈 수 있었던 수십만 달러가 작가들에게 돌아간다. 게다가 Wizards는 대형 출판사들이 저자들로부터 합의금을 최대한 챙기려 다투는 시기에 이렇게 하고 있다.\" 그는 논의를 이끈 저자들, 그중에서도 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashi는 에이전트(Unity 공식 plug-in을 단 Claude Code)에게 일인칭 퍼즐 프로토타입을 만들게 했다. 에이전트는 코드를 쓰고 컴파일한 뒤 오류를 읽고 플레이테스트까지 했다. 새 Asset Library plug-in은 요청에 맞는 에셋 하나를 찾아 씬에 넣어 준다. 같은 검색은 CLI에서 어느 에이전트로든 쓸 수 있다."
+                "x": "PC Gamer의 Ted Litchfield는 Wizards가 최근 몇 년간 AI 사용(마케팅 자료와 D&D 소스북의 AI 아트)과 내부 노사 관계로 평판이 깎였고, 이번 금액도 수십억 달러 규모 기업에는 푼돈일 뿐이라고 꼬집는다. \"Wizards of the Coast는 분명 옳은 일을 했다. 하지만 값싸게 얻은 PR 승리라고 생각한다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity Neuralと\nエージェントplug-ins",
-          "body": "Unity NeuralはAtrioのテクスチャメモリを30%近く削減した。",
-          "mini_headline": "Unite TokyoのUnity Neural",
+          "headline": "Wizards、AI和解金を\nD&D作家に還元",
+          "body": "Wizards of the CoastはAnthropic AI和解金をD&D作家に渡す。",
+          "mini_headline": "WotC、AI和解金を作家へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Unite Tokyo 2026 Keynoteで講演するAdam Smith"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "R.A. Salvatore著『Lolth's Warrior』(Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026の中心は「アイデアのスピードに合わせて作られた」Unity 7だった。ECS for All、Unity CLI 1.0、コーディングエージェント向けの公式plug-ins、そしてEditor内からUnity Asset Storeを検索できるAsset Library plug-inが示された。Claude、Codex、Google Antigravity、Grok向けのplug-insには、Unityのチーム自身が作成・レビューし、セキュリティチェックを済ませたスキルが付属する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Unite Tokyo 2026で新しいグラフィックスツールとAtrioのサンプルシーンを紹介するSangbae Nam"
+                "x": "D&DとMagic: The Gatheringのパブリッシャーである Wizards of the Coastは、Claude AIの開発元Anthropicを相手取った $1.5 billion の著作権訴訟で請求者の一つだった。Wargamerによると、訴訟対象の作品ごとの標準支払額は $3,000 で、著者と出版社で50/50に分ける。だがWizardsは、自社の取り分である半分も著者に渡す。対象は主に同社と契約する独立系ライターで、R.A. Salvatoreのような大物も含まれる。"
               },
               {
                 "t": "p",
-                "x": "Unity Neuralは、レンダリングの高速化とメモリ使用量の削減を図るAI-poweredツール群だ。Neural Texture CompressionはAtrioのテクスチャメモリを30%近く削減した。Unity 6.7 LTSで実験的機能として導入され、正式リリースはUnity 7で予定されている。Unity Graphics Kernel(UGK)は、レイトレーシング有効時のAtrioでGPU性能を62%以上向上させた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Unity CLIとPipeline APIを使い、プロジェクト全体を最初から最後まで案内するKeijiro Takahashi"
+                "x": "フリーランスのライター兼編集者James LowderはLinkedInにこう書いた。\"これは注目すべきことで、WotCが受け取れたはずの数十万ドルが作家に渡ることになる。しかもWizardsは、大手出版社が著者からできる限り多くの和解金を確保しようと躍起になっている時期にこれを行っている。\" 彼は著者側から始まった議論、とりわけR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashiはエージェント(Unity公式plug-inを入れたClaude Code)に一人称パズルのプロトタイプを作らせた。エージェントはコードを書き、コンパイルし、エラーを読み、プレイテストまで行った。新しいAsset Library plug-inは、入力した要望から一つのアセットを見つけてシーンに配置する。同じ検索はCLIからどのエージェントでも使える。"
+                "x": "PC GamerのTed Litchfieldは、Wizardsが近年、AIの使用（マーケティング素材やD&DソースブックでのAIアート）と社内の労使関係で評判を落としてきたこと、そしてこの金額は数十億ドル規模の事業にとってははした金にすぎないことを指摘する。\"Wizards of the Coastは間違いなく正しいことをした。だが、安く買ったPRの勝利だと思う。\""
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity Neural亮相\n同步推出智能体插件",
-          "body": "Neural Texture Compression使Atrio纹理内存减少近30%。",
-          "mini_headline": "Unite Tokyo上的Unity Neural",
+          "headline": "Wizards将AI和解金\n转给D&D作者",
+          "body": "Wizards of the Coast将Anthropic AI和解金D&D份额交给作者。",
+          "mini_headline": "WotC把AI和解金给作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Adam Smith在Unite Tokyo 2026 Keynote上发言"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "R.A. Salvatore著《Lolth's Warrior》(Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026的核心是“为你的创意速度而打造”的Unity 7：ECS for All、Unity CLI 1.0、面向编程智能体的官方plug-ins，以及可在Editor内搜索Unity Asset Store的Asset Library plug-in。面向Claude、Codex、Google Antigravity和Grok的plug-ins附带由Unity自家团队开发、审核并经过安全检查的技能。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Sangbae Nam在Unite Tokyo 2026上展示新的图形工具和Atrio示例场景"
+                "x": "D&D与Magic: The Gathering的发行商Wizards of the Coast，是针对Claude AI开发商Anthropic的 $1.5 billion 版权案的索赔方之一。据Wargamer报道，该诉讼所涉每部作品的标准赔付为 $3,000 ，由作者与出版商50/50分成。而Wizards将把属于自己的那一半同样交给作者——主要是与公司签约的独立作者，其中也包括R.A. Salvatore这样的知名作家。"
               },
               {
                 "t": "p",
-                "x": "Unity Neural是一套AI-powered工具，可加快渲染并降低内存占用。Neural Texture Compression使Atrio的纹理内存减少近30%。它将作为实验功能加入Unity 6.7 LTS，计划在Unity 7中正式发布。在开启光线追踪的情况下，Unity Graphics Kernel（UGK）将Atrio的GPU性能提升了62%以上。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Keijiro Takahashi使用Unity CLI和Pipeline API，带观众从头到尾走完整个项目"
+                "x": "自由撰稿人兼编辑James Lowder在LinkedIn上写道：\"这非常了不起，相当于WotC本可收取的数十万美元将流向作者。而且Wizards是在大型出版商争相从作者手中尽可能多地抢夺和解金的时候这样做的。\"他将此归功于由作者推动的讨论，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashi让一个智能体（装有Unity官方plug-in的Claude Code）构建第一人称解谜游戏原型；智能体编写代码、编译、读取错误并进行试玩。新的Asset Library plug-in能根据输入的请求找到单个资产并放入场景，同样的搜索也可在CLI中配合任意智能体使用。"
+                "x": "PC Gamer的Ted Litchfield指出，Wizards近年来因使用AI（在营销材料和D&D资料书中使用AI美术）以及内部劳资关系而声誉受损，而这笔钱对于数十亿美元规模的企业来说只是零钱：\"Wizards of the Coast这次无疑做了正确的事，但我认为这是一场廉价买来的PR胜利。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity presenta Unity Neural\ny plug-ins para agentes",
-          "body": "Neural Texture Compression de Unity redujo casi un 30% la memoria de texturas de Atrio y llegará completa en Unity 7.",
-          "mini_headline": "Unity Neural en Unite Tokyo",
+          "headline": "Wizards of the Coast cede\nel pago de AI a autores de D&D",
+          "body": "Wizards of the Coast cederá a los autores de D&D toda su parte del acuerdo por derechos de autor con Anthropic AI.",
+          "mini_headline": "WotC cede el pago de AI a autores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Adam Smith habla durante la Keynote de Unite Tokyo 2026"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "Lolth's Warrior, de R.A. Salvatore (Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026 giró en torno a Unity 7, “creado para la velocidad de tus ideas”: ECS for All, Unity CLI 1.0, plug-ins oficiales para agentes de programación y un Asset Library plug-in que busca en la Unity Asset Store desde el Editor. Los plug-ins para Claude, Codex, Google Antigravity y Grok incluyen skills que el propio equipo de Unity creó, revisó y sometió a controles de seguridad."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Sangbae Nam muestra nuevas herramientas gráficas y la escena de ejemplo Atrio en Unite Tokyo 2026"
+                "x": "Wizards of the Coast, editora de D&D y Magic: The Gathering, fue una de las demandantes en el caso de derechos de autor de $1.5 billion contra Anthropic, desarrolladora de Claude AI. El pago estándar era de $3,000 por obra incluida en la demanda, con un reparto 50/50 entre autor y editorial, según informó Wargamer. Sin embargo, Wizards entregará también su mitad del pago a los autores, principalmente escritores independientes que trabajan por contrato con la empresa, incluidos nombres destacados como R.A. Salvatore."
               },
               {
                 "t": "p",
-                "x": "Unity Neural es un conjunto de herramientas AI-powered para renderizar más rápido y usar menos memoria. Neural Texture Compression redujo casi un 30% la memoria de texturas de Atrio. Llega como función experimental en Unity 6.7 LTS, con lanzamiento completo previsto para Unity 7. Unity Graphics Kernel (UGK) elevó más de un 62% el rendimiento de GPU en Atrio con ray tracing activado."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Keijiro Takahashi guía al público por un proyecto completo de principio a fin con Unity CLI y Pipeline API"
+                "x": "El escritor y editor independiente James Lowder escribió en LinkedIn: \"Esto es notable y supone que cientos de miles de dólares que WotC podría haber cobrado irán a los escritores. Y Wizards lo hace en un momento en que las grandes editoriales se apresuran a quedarse con la mayor parte posible del dinero del acuerdo a costa de los autores.\" Atribuyó el mérito a los debates impulsados por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashi pidió a un agente (Claude Code con el plug-in oficial de Unity) que creara un prototipo de puzle en primera persona; el agente escribió código, compiló, leyó errores e hizo pruebas de juego. El nuevo Asset Library plug-in encuentra un único asset a partir de una petición escrita y lo coloca en la escena, y la misma búsqueda funciona desde la CLI con cualquier agente."
+                "x": "Ted Litchfield, de PC Gamer, señala que Wizards ha sufrido daños en su reputación en los últimos años por el uso de AI —arte hecho con AI en material de marketing y en un libro de consulta de D&D— y por sus relaciones laborales internas, y que la suma es calderilla para una empresa de miles de millones de dólares: \"Wizards of the Coast sin duda hizo lo correcto aquí, pero creo que fue una victoria de PR comprada a bajo precio.\""
               }
             ]
           }
@@ -531,165 +457,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unity Neural과\n에이전트 plug-ins",
-          "body": "Unity Neural 텍스처 압축이 Atrio 메모리를 30% 가까이 줄였다.",
-          "mini_headline": "Unite Tokyo의 Unity Neural",
+          "headline": "Wizards AI 보상금\nD&D 작가에게 준다",
+          "body": "Wizards of the Coast는 Anthropic AI 합의금 작가에 준다.",
+          "mini_headline": "WotC, AI 보상금 작가에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Unite Tokyo 2026 Keynote에서 발표하는 Adam Smith"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "R.A. Salvatore의 Lolth's Warrior (Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026의 중심은 “아이디어의 속도에 맞춰 만든” Unity 7이었다. ECS for All, Unity CLI 1.0, 코딩 에이전트용 공식 plug-ins, 그리고 Editor 안에서 Unity Asset Store를 검색하는 Asset Library plug-in이 공개됐다. Claude, Codex, Google Antigravity, Grok용 plug-ins에는 Unity 팀이 직접 만들고 검토하고 보안 점검까지 마친 스킬이 함께 들어 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Unite Tokyo 2026에서 새 그래픽 도구와 Atrio 샘플 씬을 보여주는 Sangbae Nam"
+                "x": "D&D와 Magic: The Gathering의 퍼블리셔 Wizards of the Coast는 Claude AI 개발사 Anthropic을 상대로 한 $1.5 billion 규모 저작권 소송의 청구인이었다. Wargamer 보도에 따르면 소송 대상 작품당 표준 지급액은 $3,000이며, 저자와 출판사가 50/50으로 나눈다. 그러나 Wizards는 자사 몫인 절반도 저자에게 넘기기로 했다. 대상은 주로 회사와 계약한 독립 작가들이며, R.A. Salvatore 같은 유명 작가도 포함된다."
               },
               {
                 "t": "p",
-                "x": "Unity Neural은 렌더링을 빠르게 하고 메모리 사용을 줄이는 AI-powered 도구 모음이다. Neural Texture Compression은 Atrio의 텍스처 메모리를 30% 가까이 줄였다. Unity 6.7 LTS에 실험 기능으로 들어가고, 정식 출시는 Unity 7로 계획돼 있다. Unity Graphics Kernel(UGK)은 레이 트레이싱을 켠 상태에서 Atrio의 GPU 성능을 62% 넘게 끌어올렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Unity CLI와 Pipeline API로 프로젝트 전체를 처음부터 끝까지 시연하는 Keijiro Takahashi"
+                "x": "프리랜서 작가이자 편집자인 James Lowder는 LinkedIn에 이렇게 썼다. \"놀라운 일이다. WotC가 가져갈 수 있었던 수십만 달러가 작가들에게 돌아간다. 게다가 Wizards는 대형 출판사들이 저자들로부터 합의금을 최대한 챙기려 다투는 시기에 이렇게 하고 있다.\" 그는 저자들이 이끌어 낸 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashi는 에이전트(Unity 공식 plug-in을 단 Claude Code)에게 일인칭 퍼즐 프로토타입을 만들게 했다. 에이전트는 코드를 쓰고, 컴파일하고, 오류를 읽고, 플레이테스트까지 했다. 새 Asset Library plug-in은 입력한 요청에 맞는 에셋 하나를 찾아 씬에 넣어 주며, 같은 검색을 CLI에서 어떤 에이전트로도 쓸 수 있다."
+                "x": "PC Gamer의 Ted Litchfield는 Wizards가 최근 몇 년간 AI 사용(마케팅 자료와 D&D 소스북의 AI 아트)과 내부 노사 관계로 평판에 타격을 입었으며, 이번 금액은 수십억 달러 규모 기업에는 푼돈에 불과하다고 지적한다. \"Wizards of the Coast는 분명 옳은 일을 했다. 하지만 값싸게 얻은 PR 승리라고 생각한다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity Neuralと\nエージェントplug-ins",
-          "body": "Unity NeuralはAtrioのテクスチャメモリを30%近く削減した。",
-          "mini_headline": "Unite TokyoのUnity Neural",
+          "headline": "Wizards、AI和解金を\nD&D作家に還元",
+          "body": "Wizards of the CoastはAnthropic AI和解金をD&D作家に渡す。",
+          "mini_headline": "WotC、AI和解金を作家へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Unite Tokyo 2026 Keynoteで講演するAdam Smith"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "R.A. Salvatore著『Lolth's Warrior』(Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026の中心は「アイデアのスピードに合わせて作られた」Unity 7だった。ECS for All、Unity CLI 1.0、コーディングエージェント向けの公式plug-ins、そしてEditor内からUnity Asset Storeを検索できるAsset Library plug-inが示された。Claude、Codex、Google Antigravity、Grok向けのplug-insには、Unityのチーム自身が作成・レビューし、セキュリティチェックを済ませたスキルが付属する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Unite Tokyo 2026で新しいグラフィックスツールとAtrioのサンプルシーンを紹介するSangbae Nam"
+                "x": "D&DとMagic: The Gatheringのパブリッシャーである Wizards of the Coastは、Claude AIの開発元Anthropicを相手取った $1.5 billion の著作権訴訟で請求者の一つだった。Wargamerによると、訴訟対象の作品ごとの標準支払額は $3,000 で、著者と出版社で50/50に分ける。だがWizardsは、自社の取り分である半分も著者に渡す。対象は主に同社と契約する独立系ライターで、R.A. Salvatoreのような大物も含まれる。"
               },
               {
                 "t": "p",
-                "x": "Unity Neuralは、レンダリングの高速化とメモリ使用量の削減を図るAI-poweredツール群だ。Neural Texture CompressionはAtrioのテクスチャメモリを30%近く削減した。Unity 6.7 LTSで実験的機能として導入され、正式リリースはUnity 7で予定されている。Unity Graphics Kernel(UGK)は、レイトレーシング有効時のAtrioでGPU性能を62%以上向上させた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Unity CLIとPipeline APIを使い、プロジェクト全体を最初から最後まで案内するKeijiro Takahashi"
+                "x": "フリーランスのライター兼編集者James LowderはLinkedInにこう書いた。\"これは注目すべきことで、WotCが受け取れたはずの数十万ドルが作家に渡ることになる。しかもWizardsは、大手出版社が著者からできる限り多くの和解金を確保しようと躍起になっている時期にこれを行っている。\" 彼は著者側から始まった議論、とりわけR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashiはエージェント(Unity公式plug-inを入れたClaude Code)に一人称パズルのプロトタイプを作らせた。エージェントはコードを書き、コンパイルし、エラーを読み、プレイテストまで行った。新しいAsset Library plug-inは、入力した要望から一つのアセットを見つけてシーンに配置する。同じ検索はCLIからどのエージェントでも使える。"
+                "x": "PC GamerのTed Litchfieldは、Wizardsが近年、AIの使用（マーケティング素材やD&DソースブックでのAIアート）と社内の労使関係で評判を落としてきたこと、そしてこの金額は数十億ドル規模の事業にとってははした金にすぎないことを指摘する。\"Wizards of the Coastは間違いなく正しいことをした。だが、安く買ったPRの勝利だと思う。\""
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity Neural亮相\n同步推出智能体插件",
-          "body": "Neural Texture Compression使Atrio纹理内存减少近30%。",
-          "mini_headline": "Unite Tokyo上的Unity Neural",
+          "headline": "Wizards将AI和解金\n转给D&D作者",
+          "body": "Wizards of the Coast将Anthropic AI和解金D&D份额交给作者。",
+          "mini_headline": "WotC把AI和解金给作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Adam Smith在Unite Tokyo 2026 Keynote上发言"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "R.A. Salvatore著《Lolth's Warrior》(Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026的核心是“为你的创意速度而打造”的Unity 7：ECS for All、Unity CLI 1.0、面向编程智能体的官方plug-ins，以及可在Editor内搜索Unity Asset Store的Asset Library plug-in。面向Claude、Codex、Google Antigravity和Grok的plug-ins附带由Unity自家团队开发、审核并经过安全检查的技能。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Sangbae Nam在Unite Tokyo 2026上展示新的图形工具和Atrio示例场景"
+                "x": "D&D与Magic: The Gathering的发行商Wizards of the Coast，是针对Claude AI开发商Anthropic的 $1.5 billion 版权案的索赔方之一。据Wargamer报道，该诉讼所涉每部作品的标准赔付为 $3,000 ，由作者与出版商50/50分成。而Wizards将把属于自己的那一半同样交给作者——主要是与公司签约的独立作者，其中也包括R.A. Salvatore这样的知名作家。"
               },
               {
                 "t": "p",
-                "x": "Unity Neural是一套AI-powered工具，可加快渲染并降低内存占用。Neural Texture Compression使Atrio的纹理内存减少近30%。它将作为实验功能加入Unity 6.7 LTS，计划在Unity 7中正式发布。在开启光线追踪的情况下，Unity Graphics Kernel（UGK）将Atrio的GPU性能提升了62%以上。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Keijiro Takahashi使用Unity CLI和Pipeline API，带观众从头到尾走完整个项目"
+                "x": "自由撰稿人兼编辑James Lowder在LinkedIn上写道：\"这非常了不起，相当于WotC本可收取的数十万美元将流向作者。而且Wizards是在大型出版商争相从作者手中尽可能多地抢夺和解金的时候这样做的。\"他将此归功于由作者推动的讨论，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashi让一个智能体（装有Unity官方plug-in的Claude Code）构建第一人称解谜游戏原型；智能体编写代码、编译、读取错误并进行试玩。新的Asset Library plug-in能根据输入的请求找到单个资产并放入场景，同样的搜索也可在CLI中配合任意智能体使用。"
+                "x": "PC Gamer的Ted Litchfield指出，Wizards近年来因使用AI（在营销材料和D&D资料书中使用AI美术）以及内部劳资关系而声誉受损，而这笔钱对于数十亿美元规模的企业来说只是零钱：\"Wizards of the Coast这次无疑做了正确的事，但我认为这是一场廉价买来的PR胜利。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity presenta Unity Neural\ny plug-ins para agentes",
-          "body": "Neural Texture Compression de Unity redujo casi un 30% la memoria de texturas de Atrio y llegará completa en Unity 7.",
-          "mini_headline": "Unity Neural en Unite Tokyo",
+          "headline": "Wizards of the Coast cede\nel pago de AI a autores de D&D",
+          "body": "Wizards of the Coast cederá a los autores de D&D toda su parte del acuerdo por derechos de autor con Anthropic AI.",
+          "mini_headline": "WotC cede el pago de AI a autores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/0418bb71e2d7269fe2b479d4ef1d21771d3f8b7a-4032x2688.jpg?w=1600",
-                "cap": "Adam Smith habla durante la Keynote de Unite Tokyo 2026"
-              },
-              {
-                "t": "video",
-                "yt": "ZWX5TfR1UAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
+                "cap": "Lolth's Warrior, de R.A. Salvatore (Image credit: Wizards of the Coast)"
               },
               {
                 "t": "p",
-                "x": "Unite Tokyo 2026 giró en torno a Unity 7, “creado para la velocidad de tus ideas”: ECS for All, Unity CLI 1.0, plug-ins oficiales para agentes de programación y un Asset Library plug-in que busca en la Unity Asset Store desde el Editor. Los plug-ins para Claude, Codex, Google Antigravity y Grok incluyen skills que el propio equipo de Unity creó, revisó y sometió a controles de seguridad."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/6d4413ac8297cd0c656b94ce90f0f18ce404b952-7680x5760.jpg?w=1600",
-                "cap": "Sangbae Nam muestra nuevas herramientas gráficas y la escena de ejemplo Atrio en Unite Tokyo 2026"
+                "x": "Wizards of the Coast, editora de D&D y Magic: The Gathering, fue una de las demandantes en el caso de derechos de autor de $1.5 billion contra Anthropic, desarrolladora de Claude AI. El pago estándar era de $3,000 por obra incluida en la demanda, con un reparto 50/50 entre autor y editorial, según informó Wargamer. Sin embargo, Wizards entregará también su mitad del pago a los autores, principalmente escritores independientes que trabajan por contrato con la empresa, incluidos nombres destacados como R.A. Salvatore."
               },
               {
                 "t": "p",
-                "x": "Unity Neural es un conjunto de herramientas AI-powered para renderizar más rápido y usar menos memoria. Neural Texture Compression redujo casi un 30% la memoria de texturas de Atrio. Llega como función experimental en Unity 6.7 LTS, con lanzamiento completo previsto para Unity 7. Unity Graphics Kernel (UGK) elevó más de un 62% el rendimiento de GPU en Atrio con ray tracing activado."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/5facf64d5b7914b47e6d2caa1cf3d08319ce13df-4032x2688.jpg?w=1600",
-                "cap": "Keijiro Takahashi guía al público por un proyecto completo de principio a fin con Unity CLI y Pipeline API"
+                "x": "El escritor y editor independiente James Lowder escribió en LinkedIn: \"Esto es notable y supone que cientos de miles de dólares que WotC podría haber cobrado irán a los escritores. Y Wizards lo hace en un momento en que las grandes editoriales se apresuran a quedarse con la mayor parte posible del dinero del acuerdo a costa de los autores.\" Atribuyó el mérito a los debates impulsados por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
               },
               {
                 "t": "p",
-                "x": "Keijiro Takahashi pidió a un agente (Claude Code con el plug-in oficial de Unity) que creara un prototipo de puzle en primera persona; el agente escribió código, compiló, leyó errores e hizo pruebas de juego. El nuevo Asset Library plug-in encuentra un único asset a partir de una petición escrita y lo coloca en la escena, y la misma búsqueda funciona desde la CLI con cualquier agente."
+                "x": "Ted Litchfield, de PC Gamer, señala que Wizards ha sufrido daños en su reputación en los últimos años por el uso de AI —arte hecho con AI en material de marketing y en un libro de consulta de D&D— y por sus relaciones laborales internas, y que la suma es calderilla para una empresa de miles de millones de dólares: \"Wizards of the Coast sin duda hizo lo correcto aquí, pero creo que fue una victoria de PR comprada a bajo precio.\""
               }
             ]
           }
@@ -697,15 +567,15 @@
       }
     },
     {
-      "id": "hoyoverse-petit-planet-npc",
+      "id": "activision-voicechat-npc-patent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "HoYoverse가 정한\nAI NPCs 안전장치",
-      "body": "Petit Planet의 AI NPCs는 유해 요청을 거절하고 끌 수 있다.",
-      "mini_headline": "AI NPCs 안전장치",
+      "headline": "Activision 특허\nNPCs 음성채팅 학습",
+      "body": "Activision 특허가 AI-driven NPCs를 음성채팅으로 가르친다.",
+      "mini_headline": "AI NPCs, 음성채팅으로 학습",
       "tool": "Games",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
+      "source": "TheGamer",
+      "url": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -713,295 +583,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
           },
           {
             "t": "p",
-            "x": "HoYoverse가 선보일 아늑한 생활 시뮬레이션 Petit Planet에는 AI-driven NPC인 Nalo가 운영하는 카페가 있다. Nalo는 지난 대화를 기억했다가 상황에 따라 달라지는 맞춤형 답을 내놓는다. 다만 클로즈드 베타 테스트에서는 무겁거나 자기파괴적인 주제로 흐르는 불편한 상호작용이 일부 나왔다."
+            "x": "Activision이 AI-powered NPCs가 플레이어처럼 말하도록 학습시키는 특허를 출원했다. Dexerto 보도에 따르면 특허 이름은 \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"이며, 음성 채팅 오디오를 활용해 게임 속 NPCs의 목소리를 더 실감 나게 만드는 방법을 설명한다. 목소리를 그대로 베끼지는 않는다. 플레이어가 하는 말과 반응하는 방식을 흉내 낸다. 특허에 Call of Duty가 명시되지는 않았지만, Activision의 대표 프랜차이즈인 만큼 그쪽에 쓰일 공산이 크다."
           },
           {
             "t": "p",
-            "x": "개발자 Yinli Huang은 Nalo가 무엇이든 답하는 챗봇은 아니라고 선을 그었다. \"Nalo처럼 AI 시스템을 쓰는 NPCs는 미리 정해진 도덕적 가치관과 성격을 갖는다.\" \"플레이어가 부적절한 말을 하면 Nalo는 그 요청에 응답하거나 더 이상 상호작용하기를 거절한다.\""
+            "x": "킬, 데스, 패배 같은 특정 게임 이벤트 전후 약 10초 분량의 오디오를 모아 같은 상황에서 NPCs가 어떻게 움직일지 다듬는 방식이다."
           },
           {
-            "t": "video",
-            "yt": "RTjd0hhFO74"
+            "t": "img",
+            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+            "cap": "음성 데이터로 NPCs를 학습시키는 방식을 보여 주는 Activision 특허."
           },
           {
             "t": "p",
-            "x": "HoYoverse는 단계별 대응 체계도 갖췄다. Murphy는 \"그런 상호작용이 이어지면 팝업 알림 창이나 필요에 따른 사람의 개입처럼 플레이어에게 더 많은 제한을 둘 것\"이라고 설명했다. AI 기능은 게임 안 토글로 켜고 끄는 완전한 선택 사항이다. 기능을 끈 플레이어도 Nalo의 카페를 그대로 이용하고, 진행도·업적에서도 불이익이 없다."
+            "x": "특허에는 Discord와 TeamSpeak도 등장하고, 서로 다른 애플리케이션 간 타임스탬프를 맞추는 내용도 담겼다. 공격적인 언어를 막는 필터를 넣겠다고 밝히지만, 음성 채팅 오디오를 써도 되는지 허락을 구한다는 대목은 없다. 다만 Activision이 이 기술로 특허를 받았다고 해서 곧바로 실제 게임에 들어간다는 뜻은 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "HoYoverse sets guardrails\nfor Petit Planet's AI NPCs",
-          "body": "Petit Planet's AI NPCs hold preset values, refuse toxic prompts, escalate to humans, and can be turned off.",
-          "mini_headline": "Guardrails for AI NPCs",
+          "headline": "Activision patent trains NPCs\non players' voice chat",
+          "body": "An Activision patent describes training AI-driven NPCs on player voice chat so they talk and react like real players.",
+          "mini_headline": "AI NPCs learn from voice chat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "In HoYoverse's upcoming cozy life sim Petit Planet, players can visit a cafe run by an AI-driven NPC called Nalo, who remembers past conversations to deliver dynamic, personalized responses. During closed beta testing, some unsettling interactions involving heavy or self-destructive topics were noticed."
+                "x": "Activision has filed a patent that would train AI-powered NPCs to talk just like players do. As reported by Dexerto, the patent is called \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio,\" and describes using the audio from voice chat to make in-game NPCs sound more realistic. It wouldn't copy your voice exactly, but what you say and how you react. The patent doesn't explicitly mention Call of Duty, but as Activision's leading franchise, it's a safe bet that's where it would end up."
               },
               {
                 "t": "p",
-                "x": "Developer Yinli Huang said Nalo is not an open-ended chatbot: \"the NPCs that use the AI system, such as Nalo, will have a preset moral value and personality.\" \"Once players have said something inappropriate, Nalo will decline to respond to those requests or interact further.\""
+                "x": "It would capture audio around 10 seconds before and after a flagged game event, i.e. kills, deaths, and losses, shaping how NPCs behave in the same scenarios."
               },
-              {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
-              },
-              {
-                "t": "p",
-                "x": "HoYoverse also built a tiered escalation system: \"If that kind of interaction continues, we will put more limits [on] the player, such as a pop-up window notification and human intervention as needed,\" Murphy explained. The AI features are entirely optional, with an in-game toggle, and players who opt out won't be locked out of Nalo's cafe or penalized in progression or achievements."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HoYoverse limita los NPCs\ncon AI de Petit Planet",
-          "body": "Los NPCs con AI de Petit Planet tienen valores fijados, rechazan mensajes tóxicos, escalan a humanos y pueden apagarse.",
-          "mini_headline": "Límites para NPCs con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Activision patent showing how voice data would be used to train NPCs."
               },
               {
                 "t": "p",
-                "x": "En Petit Planet, el próximo simulador de vida acogedor de HoYoverse, los jugadores pueden visitar una cafetería regentada por un NPC AI-driven llamado Nalo, que recuerda conversaciones pasadas para dar respuestas dinámicas y personalizadas. Durante la beta cerrada se detectaron algunas interacciones inquietantes sobre temas delicados o autodestructivos."
-              },
-              {
-                "t": "p",
-                "x": "Yinli Huang, del equipo de desarrollo, dijo que Nalo no es un chatbot abierto: “los NPCs que usan el sistema de AI, como Nalo, tendrán valores morales y una personalidad predefinidos”. “Cuando los jugadores digan algo inapropiado, Nalo se negará a responder a esas peticiones o a seguir interactuando”."
-              },
-              {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
-              },
-              {
-                "t": "p",
-                "x": "HoYoverse también creó un sistema de escalado por niveles: “Si ese tipo de interacción continúa, pondremos más límites al jugador, como una notificación en ventana emergente e intervención humana cuando sea necesario”, explicó Murphy. Las funciones de AI son totalmente opcionales, con un interruptor en el juego, y quienes las desactiven no perderán el acceso a la cafetería de Nalo ni sufrirán penalizaciones en progreso o logros."
+                "x": "The patent mentions Discord and TeamSpeak too, matching timestamps across separate applications. It notes it would include filters to stop offensive language, but makes no mention of asking for permission to use voice chat audio. Of course, just because Activision patented this technology doesn't mean it will be implemented in-game."
               }
             ]
           }
         },
         "ko": {
-          "headline": "HoYoverse가 정한\nAI NPCs 안전장치",
-          "body": "Petit Planet의 AI NPCs는 유해 요청을 거절하고 끌 수 있다.",
-          "mini_headline": "AI NPCs 안전장치",
+          "headline": "Activision 특허\nNPCs 음성채팅 학습",
+          "body": "Activision 특허가 AI-driven NPCs를 음성채팅으로 가르친다.",
+          "mini_headline": "AI NPCs, 음성채팅으로 학습",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "HoYoverse가 선보일 아늑한 생활 시뮬레이션 Petit Planet에는 AI-driven NPC인 Nalo가 운영하는 카페가 있다. Nalo는 지난 대화를 기억했다가 상황에 따라 달라지는 맞춤형 답을 내놓는다. 다만 클로즈드 베타 테스트에서는 무겁거나 자기파괴적인 주제로 흐르는 불편한 상호작용이 일부 나왔다."
+                "x": "Activision이 AI-powered NPCs가 플레이어처럼 말하도록 학습시키는 특허를 출원했다. Dexerto 보도에 따르면 특허 이름은 \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"이며, 음성 채팅 오디오를 활용해 게임 속 NPCs의 목소리를 더 실감 나게 만드는 방법을 설명한다. 목소리를 그대로 베끼지는 않는다. 플레이어가 하는 말과 반응하는 방식을 흉내 낸다. 특허에 Call of Duty가 명시되지는 않았지만, Activision의 대표 프랜차이즈인 만큼 그쪽에 쓰일 공산이 크다."
               },
               {
                 "t": "p",
-                "x": "개발자 Yinli Huang은 Nalo가 무엇이든 답하는 챗봇은 아니라고 선을 그었다. \"Nalo처럼 AI 시스템을 쓰는 NPCs는 미리 정해진 도덕적 가치관과 성격을 갖는다.\" \"플레이어가 부적절한 말을 하면 Nalo는 그 요청에 응답하거나 더 이상 상호작용하기를 거절한다.\""
+                "x": "킬, 데스, 패배 같은 특정 게임 이벤트 전후 약 10초 분량의 오디오를 모아 같은 상황에서 NPCs가 어떻게 움직일지 다듬는 방식이다."
               },
               {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "음성 데이터로 NPCs를 학습시키는 방식을 보여 주는 Activision 특허."
               },
               {
                 "t": "p",
-                "x": "HoYoverse는 단계별 대응 체계도 갖췄다. Murphy는 \"그런 상호작용이 이어지면 팝업 알림 창이나 필요에 따른 사람의 개입처럼 플레이어에게 더 많은 제한을 둘 것\"이라고 설명했다. AI 기능은 게임 안 토글로 켜고 끄는 완전한 선택 사항이다. 기능을 끈 플레이어도 Nalo의 카페를 그대로 이용하고, 진행도·업적에서도 불이익이 없다."
+                "x": "특허에는 Discord와 TeamSpeak도 등장하고, 서로 다른 애플리케이션 간 타임스탬프를 맞추는 내용도 담겼다. 공격적인 언어를 막는 필터를 넣겠다고 밝히지만, 음성 채팅 오디오를 써도 되는지 허락을 구한다는 대목은 없다. 다만 Activision이 이 기술로 특허를 받았다고 해서 곧바로 실제 게임에 들어간다는 뜻은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HoYoverseが\nAI NPCsに安全策",
-          "body": "Petit PlanetのAI NPCsは有害な要求を拒み、人に引き継ぎ、オフにもできる。",
-          "mini_headline": "AI NPCsの安全策",
+          "headline": "Activisionの特許\nボイスチャットでNPCs学習",
+          "body": "Activisionの特許はAI-driven NPCsを音声チャットで学習させる。",
+          "mini_headline": "AI NPCs、ボイスチャットで学習",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "HoYoverseが近く出す癒やし系生活シミュレーション「Petit Planet」では、AI-driven NPCのNaloが営むカフェを訪れることができる。Naloは過去の会話を覚えており、動的で個別化された応答を返す。クローズドベータテストでは、重い話題や自己破壊的な話題をめぐる不穏なやり取りがいくつか確認された。"
+                "x": "Activisionは、AI-powered NPCsがプレイヤーと同じように話すよう学習させる特許を出願した。Dexertoによると、特許の名称は\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"で、ボイスチャットの音声を使ってゲーム内のNPCsをよりリアルに聞こえるようにする方法を記している。声をそのまま複製するのではなく、プレイヤーの発言内容と反応の仕方を再現するという。特許はCall of Dutyに明示的には触れていないが、Activisionの看板フランチャイズである以上、そこで使われる可能性が高い。"
               },
               {
                 "t": "p",
-                "x": "開発者のYinli Huangは、Naloは何でも答えるチャットボットではないと述べた。「NaloのようにAIシステムを使うNPCsは、あらかじめ設定された道徳的価値観と性格を持つ」「プレイヤーが不適切なことを言えば、Naloはその要求への応答やそれ以上のやり取りを断る」"
+                "x": "キル、デス、敗北といった特定のゲームイベントの前後約10秒の音声を取り込み、同じ場面でのNPCsのふるまいを形づくる。"
               },
               {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "音声データをNPCsの学習に使う仕組みを示すActivisionの特許。"
               },
               {
                 "t": "p",
-                "x": "HoYoverseは段階的な対応の仕組みも設けた。Murphyは「そうしたやり取りが続けば、ポップアップ通知や必要に応じた人の介入など、プレイヤーにさらなる制限をかける」と説明した。AI機能はゲーム内のトグルで切り替えられる完全な任意機能で、オフにしたプレイヤーもNaloのカフェから締め出されたり、進行や実績で不利になったりはしない。"
+                "x": "特許はDiscordやTeamSpeakにも触れ、別々のアプリケーション間でタイムスタンプを照合する。不快な言葉を防ぐフィルターを入れるとしているが、ボイスチャット音声の使用許可を求めることには一切触れていない。もっとも、Activisionがこの技術の特許を取ったからといって、ゲームに実装されるとは限らない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HoYoverse为\nAI NPCs设安全护栏",
-          "body": "Petit Planet的AI NPCs拒绝有害请求，可转交人工，也可关闭。",
-          "mini_headline": "AI NPCs的安全护栏",
+          "headline": "Activision专利\n用玩家语音训练NPCs",
+          "body": "Activision专利拟用玩家语音训练AI-driven NPCs，使其像真人一样说话。",
+          "mini_headline": "AI NPCs借语音聊天学习",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "在HoYoverse即将推出的休闲生活模拟游戏Petit Planet中，玩家可以造访由AI-driven NPC Nalo经营的咖啡馆。Nalo会记住过去的对话，给出动态、个性化的回应。封闭测试期间，出现了一些涉及沉重或自我毁灭话题的令人不安的互动。"
+                "x": "Activision提交了一项专利，旨在训练AI-powered NPCs像玩家一样说话。据Dexerto报道，该专利名为\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"，描述了利用语音聊天音频让游戏内NPCs听起来更真实的方法。它不会完全复制你的声音，而是模仿你说的内容和你的反应方式。专利没有明确提到Call of Duty，但作为Activision的头号系列，它最终很可能会用在那里。"
               },
               {
                 "t": "p",
-                "x": "开发者Yinli Huang表示，Nalo并不是开放式聊天机器人：\"像Nalo这样使用AI系统的NPCs，会有预设的道德价值观和性格。\"\"一旦玩家说了不当的话，Nalo会拒绝回应这些请求或继续互动。\""
+                "x": "它会在击杀、死亡和失败等被标记的游戏事件前后各捕捉约10秒的音频，以此塑造NPCs在相同情境下的行为。"
               },
               {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Activision专利图示：语音数据将如何用于训练NPCs。"
               },
               {
                 "t": "p",
-                "x": "HoYoverse还建立了分级升级机制。Murphy解释说：\"如果这类互动持续下去，我们会对玩家施加更多限制，例如弹窗通知，并在需要时进行人工干预。\"AI功能完全可选，游戏内设有开关；选择关闭的玩家不会被挡在Nalo的咖啡馆门外，也不会在进度或成就上受到惩罚。"
+                "x": "该专利还提到了Discord和TeamSpeak，可在不同应用之间匹配时间戳。专利称会加入过滤器以阻止冒犯性语言，但完全没有提到使用语音聊天音频前征求许可。当然，Activision为这项技术申请了专利，并不意味着它一定会在游戏中实装。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una patente de Activision\nentrena NPCs con chats de voz",
+          "body": "Una patente de Activision entrena NPCs AI-driven con chats de voz de jugadores para que hablen y reaccionen como ellos.",
+          "mini_headline": "NPCs con AI aprenden del chat de voz",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Activision ha presentado una patente para entrenar NPCs AI-powered de modo que hablen igual que los jugadores. Según informó Dexerto, la patente se titula \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\" y describe el uso del audio del chat de voz para que los NPCs del juego suenen más realistas. No copiaría la voz exactamente, sino lo que se dice y cómo se reacciona. La patente no menciona explícitamente Call of Duty, pero al ser la franquicia principal de Activision, es muy probable que acabe ahí."
+              },
+              {
+                "t": "p",
+                "x": "Capturaría el audio de unos 10 segundos antes y después de un evento marcado de la partida, es decir, bajas, muertes y derrotas, para moldear cómo se comportan los NPCs en esas mismas situaciones."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Patente de Activision que muestra cómo se usarían los datos de voz para entrenar NPCs."
+              },
+              {
+                "t": "p",
+                "x": "La patente también menciona Discord y TeamSpeak, y sincroniza las marcas de tiempo entre aplicaciones distintas. Señala que incluiría filtros para frenar el lenguaje ofensivo, pero no menciona en ningún momento pedir permiso para usar el audio del chat de voz. Por supuesto, que Activision haya patentado esta tecnología no significa que vaya a implementarse en los juegos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "HoYoverse limita los NPCs\ncon AI de Petit Planet",
-          "body": "Los NPCs con AI de Petit Planet tienen valores fijados, rechazan mensajes tóxicos, escalan a humanos y pueden apagarse.",
-          "mini_headline": "Límites para NPCs con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
-              },
-              {
-                "t": "p",
-                "x": "En Petit Planet, el próximo simulador de vida acogedor de HoYoverse, los jugadores pueden visitar una cafetería regentada por un NPC AI-driven llamado Nalo, que recuerda conversaciones pasadas para dar respuestas dinámicas y personalizadas. Durante la beta cerrada se detectaron algunas interacciones inquietantes sobre temas delicados o autodestructivos."
-              },
-              {
-                "t": "p",
-                "x": "Yinli Huang, del equipo de desarrollo, dijo que Nalo no es un chatbot abierto: “los NPCs que usan el sistema de AI, como Nalo, tendrán valores morales y una personalidad predefinidos”. “Cuando los jugadores digan algo inapropiado, Nalo se negará a responder a esas peticiones o a seguir interactuando”."
-              },
-              {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
-              },
-              {
-                "t": "p",
-                "x": "HoYoverse también creó un sistema de escalado por niveles: “Si ese tipo de interacción continúa, pondremos más límites al jugador, como una notificación en ventana emergente e intervención humana cuando sea necesario”, explicó Murphy. Las funciones de AI son totalmente opcionales, con un interruptor en el juego, y quienes las desactiven no perderán el acceso a la cafetería de Nalo ni sufrirán penalizaciones en progreso o logros."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "HoYoverse가 정한\nAI NPCs 안전장치",
-          "body": "Petit Planet의 AI NPCs는 유해 요청을 거절하고 끌 수 있다.",
-          "mini_headline": "AI NPCs 안전장치",
+          "headline": "Activision 특허\n음성채팅으로 NPCs 학습",
+          "body": "Activision 특허는 AI-driven NPCs를 음성채팅으로 학습시킨다.",
+          "mini_headline": "AI NPCs, 음성채팅으로 학습",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "HoYoverse가 선보일 아늑한 생활 시뮬레이션 Petit Planet에서 플레이어는 AI-driven NPC인 Nalo가 운영하는 카페를 찾을 수 있다. Nalo는 지난 대화를 기억해 역동적이고 개인화된 답을 내놓는다. 클로즈드 베타 테스트 중에는 무겁거나 자기파괴적인 주제를 둘러싼 불편한 상호작용이 일부 눈에 띄었다."
+                "x": "Activision이 AI-powered NPCs가 플레이어처럼 말하도록 학습시키는 특허를 출원했다. Dexerto 보도에 따르면 특허 이름은 \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"이며, 음성 채팅 오디오를 활용해 게임 속 NPCs의 목소리를 더 실감 나게 만드는 방법을 설명한다. 목소리를 그대로 복제하는 것이 아니라, 플레이어가 하는 말과 반응 방식을 따라 한다. 특허에 Call of Duty가 명시되지는 않았지만, Activision의 대표 프랜차이즈인 만큼 그곳에 적용될 가능성이 높다."
               },
               {
                 "t": "p",
-                "x": "개발자 Yinli Huang은 Nalo가 무엇이든 답하는 챗봇이 아니라고 밝혔다. \"Nalo처럼 AI 시스템을 쓰는 NPCs는 미리 정해진 도덕적 가치관과 성격을 갖는다.\" \"플레이어가 부적절한 말을 하면 Nalo는 그 요청에 응답하거나 더 이상 상호작용하기를 거절한다.\""
+                "x": "킬, 데스, 패배 같은 특정 게임 이벤트 전후 약 10초간의 오디오를 수집해, 같은 상황에서 NPCs가 어떻게 행동할지 다듬는다."
               },
               {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "음성 데이터로 NPCs를 학습시키는 방식을 보여 주는 Activision 특허."
               },
               {
                 "t": "p",
-                "x": "HoYoverse는 단계별 대응 체계도 갖췄다. Murphy는 \"그런 상호작용이 이어지면 팝업 알림 창이나 필요에 따른 사람의 개입처럼 플레이어에게 더 많은 제한을 둘 것\"이라고 설명했다. AI 기능은 게임 내 토글로 켜고 끌 수 있는 완전한 선택 사항이며, 끄는 플레이어도 Nalo의 카페 이용이 막히거나 진행도·업적에서 불이익을 받지 않는다."
+                "x": "특허는 Discord와 TeamSpeak도 언급하며, 서로 다른 애플리케이션의 타임스탬프를 맞춘다. 공격적인 언어를 막는 필터를 넣겠다고 밝히지만, 음성 채팅 오디오 사용에 대한 허락을 구하는 내용은 없다. 물론 Activision이 이 기술로 특허를 받았다고 해서 실제 게임에 적용된다는 뜻은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HoYoverseが\nAI NPCsに安全策",
-          "body": "Petit PlanetのAI NPCsは有害な要求を拒み、人に引き継ぎ、オフにもできる。",
-          "mini_headline": "AI NPCsの安全策",
+          "headline": "Activisionの特許\nボイスチャットでNPCs学習",
+          "body": "Activisionの特許はAI-driven NPCsを音声チャットで学習させる。",
+          "mini_headline": "AI NPCs、ボイスチャットで学習",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "HoYoverseが近く出す癒やし系生活シミュレーション「Petit Planet」では、AI-driven NPCのNaloが営むカフェを訪れることができる。Naloは過去の会話を覚えており、動的で個別化された応答を返す。クローズドベータテストでは、重い話題や自己破壊的な話題をめぐる不穏なやり取りがいくつか確認された。"
+                "x": "Activisionは、AI-powered NPCsがプレイヤーと同じように話すよう学習させる特許を出願した。Dexertoによると、特許の名称は\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"で、ボイスチャットの音声を使ってゲーム内のNPCsをよりリアルに聞こえるようにする方法を記している。声をそのまま複製するのではなく、プレイヤーの発言内容と反応の仕方を再現するという。特許はCall of Dutyに明示的には触れていないが、Activisionの看板フランチャイズである以上、そこで使われる可能性が高い。"
               },
               {
                 "t": "p",
-                "x": "開発者のYinli Huangは、Naloは何でも答えるチャットボットではないと述べた。「NaloのようにAIシステムを使うNPCsは、あらかじめ設定された道徳的価値観と性格を持つ」「プレイヤーが不適切なことを言えば、Naloはその要求への応答やそれ以上のやり取りを断る」"
+                "x": "キル、デス、敗北といった特定のゲームイベントの前後約10秒の音声を取り込み、同じ場面でのNPCsのふるまいを形づくる。"
               },
               {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "音声データをNPCsの学習に使う仕組みを示すActivisionの特許。"
               },
               {
                 "t": "p",
-                "x": "HoYoverseは段階的な対応の仕組みも設けた。Murphyは「そうしたやり取りが続けば、ポップアップ通知や必要に応じた人の介入など、プレイヤーにさらなる制限をかける」と説明した。AI機能はゲーム内のトグルで切り替えられる完全な任意機能で、オフにしたプレイヤーもNaloのカフェから締め出されたり、進行や実績で不利になったりはしない。"
+                "x": "特許はDiscordやTeamSpeakにも触れ、別々のアプリケーション間でタイムスタンプを照合する。不快な言葉を防ぐフィルターを入れるとしているが、ボイスチャット音声の使用許可を求めることには一切触れていない。もっとも、Activisionがこの技術の特許を取ったからといって、ゲームに実装されるとは限らない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HoYoverse为\nAI NPCs设安全护栏",
-          "body": "Petit Planet的AI NPCs拒绝有害请求，可转交人工，也可关闭。",
-          "mini_headline": "AI NPCs的安全护栏",
+          "headline": "Activision专利\n用玩家语音训练NPCs",
+          "body": "Activision专利拟用玩家语音训练AI-driven NPCs，使其像真人一样说话。",
+          "mini_headline": "AI NPCs借语音聊天学习",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "在HoYoverse即将推出的休闲生活模拟游戏Petit Planet中，玩家可以造访由AI-driven NPC Nalo经营的咖啡馆。Nalo会记住过去的对话，给出动态、个性化的回应。封闭测试期间，出现了一些涉及沉重或自我毁灭话题的令人不安的互动。"
+                "x": "Activision提交了一项专利，旨在训练AI-powered NPCs像玩家一样说话。据Dexerto报道，该专利名为\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"，描述了利用语音聊天音频让游戏内NPCs听起来更真实的方法。它不会完全复制你的声音，而是模仿你说的内容和你的反应方式。专利没有明确提到Call of Duty，但作为Activision的头号系列，它最终很可能会用在那里。"
               },
               {
                 "t": "p",
-                "x": "开发者Yinli Huang表示，Nalo并不是开放式聊天机器人：\"像Nalo这样使用AI系统的NPCs，会有预设的道德价值观和性格。\"\"一旦玩家说了不当的话，Nalo会拒绝回应这些请求或继续互动。\""
+                "x": "它会在击杀、死亡和失败等被标记的游戏事件前后各捕捉约10秒的音频，以此塑造NPCs在相同情境下的行为。"
               },
               {
-                "t": "video",
-                "yt": "RTjd0hhFO74"
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Activision专利图示：语音数据将如何用于训练NPCs。"
               },
               {
                 "t": "p",
-                "x": "HoYoverse还建立了分级升级机制。Murphy解释说：\"如果这类互动持续下去，我们会对玩家施加更多限制，例如弹窗通知，并在需要时进行人工干预。\"AI功能完全可选，游戏内设有开关；选择关闭的玩家不会被挡在Nalo的咖啡馆门外，也不会在进度或成就上受到惩罚。"
+                "x": "该专利还提到了Discord和TeamSpeak，可在不同应用之间匹配时间戳。专利称会加入过滤器以阻止冒犯性语言，但完全没有提到使用语音聊天音频前征求许可。当然，Activision为这项技术申请了专利，并不意味着它一定会在游戏中实装。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una patente de Activision\nentrena NPCs con chats de voz",
+          "body": "Una patente de Activision entrena NPCs AI-driven con chats de voz de jugadores para que hablen y reaccionen como ellos.",
+          "mini_headline": "NPCs con AI aprenden del chat de voz",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Activision ha presentado una patente para entrenar NPCs AI-powered de modo que hablen igual que los jugadores. Según informó Dexerto, la patente se titula \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\" y describe el uso del audio del chat de voz para que los NPCs del juego suenen más realistas. No copiaría la voz exactamente, sino lo que se dice y cómo se reacciona. La patente no menciona explícitamente Call of Duty, pero al ser la franquicia principal de Activision, es muy probable que acabe ahí."
+              },
+              {
+                "t": "p",
+                "x": "Capturaría el audio de unos 10 segundos antes y después de un evento marcado de la partida, es decir, bajas, muertes y derrotas, para moldear cómo se comportan los NPCs en esas mismas situaciones."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
+                "cap": "Patente de Activision que muestra cómo se usarían los datos de voz para entrenar NPCs."
+              },
+              {
+                "t": "p",
+                "x": "La patente también menciona Discord y TeamSpeak, y sincroniza las marcas de tiempo entre aplicaciones distintas. Señala que incluiría filtros para frenar el lenguaje ofensivo, pero no menciona en ningún momento pedir permiso para usar el audio del chat de voz. Por supuesto, que Activision haya patentado esta tecnología no significa que vaya a implementarse en los juegos."
               }
             ]
           }
@@ -1009,165 +889,117 @@
       }
     },
     {
-      "id": "romero-design-ai-trash",
+      "id": "metahuman-markerless-mocap-insideunreal",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "John Romero\n디자인이 어느 때보다 중요",
-      "body": "Romero는 신작 대부분이 쓰레기이고 상당수가 AI-generated라고 했다.",
-      "mini_headline": "디자인을 강조한 Romero",
+      "headline": "폰으로 MetaHuman\nAnimator 전신 모캡",
+      "body": "Epic MetaHuman Animator가 폰·웹캠 영상을 전신 모캡으로 바꾼다.",
+      "mini_headline": "폰 영상으로 MetaHuman 모캡",
       "tool": "Games",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
+      "source": "Unreal Engine (YouTube)",
+      "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+            "t": "video",
+            "yt": "zd7DCFBLCcc"
           },
           {
             "t": "p",
-            "x": "Doom을 함께 만든 John Romero는 특히 모바일에 저품질 신작이 넘쳐난다고 본다. 그는 FRVR Podcast에서 유통이 그 어느 때보다 쉬워졌다며 이렇게 말했다. “그때는 유통이 정말 어려웠다. 지금은 아주 쉽다.”"
-          },
-          {
-            "t": "p",
-            "x": "“대부분은 쓰레기다.” 그의 말이다. “대부분이 AI-generated이거나, 게임 제작 키트로 그냥 자동 생성한 것이다. 아주 많다. 그래도 자기 작품을 세상에 내놓는 일이 민주화돼 현실이 된 건 멋진 일이다.”"
-          },
-          {
-            "t": "p",
-            "x": "Romero는 “지금은 그 어느 때보다 디자인이 중요하다”며 “정말 훌륭한 디자인을 갖추면 사람들이 그 게임에 대해 이야기하고 싶어 할 것”이라고 덧붙였다."
+            "x": "새로 나온 MetaHuman Animator Markerless Motion Capture 플러그인의 전신 애니메이션 기능을 자세히 들여다본다. 이 플러그인은 폰이나 웹캠으로 찍은 평범한 영상을 MetaHuman 캐릭터의 애니메이션으로 바꿔 준다. Epic 연구팀의 Michael Black이 기술의 작동 원리를 설명하고, Ben Kidd는 실제 프로젝트를 예로 촬영부터 최종 숏까지 쓰는 과정을 시연한다. 영화감독 Martin Bell도 나와 독립 창작자가 이 도구로 해낼 수 있는 일을 소개한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "John Romero says design\nmatters more than ever",
-          "body": "Romero says games are easier than ever to make, but most new releases, many AI-generated, are trash.",
-          "mini_headline": "Romero: design matters",
+          "headline": "MetaHuman Animator turns phone\nvideo into full-body mocap",
+          "body": "Epic's MetaHuman Animator markerless plugin turns ordinary phone or webcam video into full-body animation.",
+          "mini_headline": "MetaHuman mocap from phone video",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "The Doom co-creator says mobile in particular is full of low quality releases. Speaking on the FRVR Podcast, John Romero said distribution is easier than it has ever been: \"Distribution was so hard back then. Now, it's really easy.\""
-              },
-              {
-                "t": "p",
-                "x": "\"Most of them are trash,\" he said. \"Most of them are AI-generated or there's a game making kit used to just generate them automatically, you know? A lot of them. But it's great, that the democratisation of getting your stuff out there is a reality now.\""
-              },
-              {
-                "t": "p",
-                "x": "Romero explained that \"now, more than ever, it's about design\": \"Have a really great design and people are going to want to talk about it.\""
+                "x": "Join us for a deep dive into full-body animation with the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or webcam into animation for your MetaHuman characters. Michael Black from Epic’s research team will explain how the technology works as Ben Kidd walks through using it on a real project, from capture to final shot. We’ll be joined by filmmaker Martin Bell who shows what an independent creator can do with it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "John Romero\n디자인이 어느 때보다 중요",
-          "body": "Romero는 신작 대부분이 쓰레기이고 상당수가 AI-generated라고 했다.",
-          "mini_headline": "디자인을 강조한 Romero",
+          "headline": "폰으로 MetaHuman\nAnimator 전신 모캡",
+          "body": "Epic MetaHuman Animator가 폰·웹캠 영상을 전신 모캡으로 바꾼다.",
+          "mini_headline": "폰 영상으로 MetaHuman 모캡",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "Doom을 함께 만든 John Romero는 특히 모바일에 저품질 신작이 넘쳐난다고 본다. 그는 FRVR Podcast에서 유통이 그 어느 때보다 쉬워졌다며 이렇게 말했다. “그때는 유통이 정말 어려웠다. 지금은 아주 쉽다.”"
-              },
-              {
-                "t": "p",
-                "x": "“대부분은 쓰레기다.” 그의 말이다. “대부분이 AI-generated이거나, 게임 제작 키트로 그냥 자동 생성한 것이다. 아주 많다. 그래도 자기 작품을 세상에 내놓는 일이 민주화돼 현실이 된 건 멋진 일이다.”"
-              },
-              {
-                "t": "p",
-                "x": "Romero는 “지금은 그 어느 때보다 디자인이 중요하다”며 “정말 훌륭한 디자인을 갖추면 사람들이 그 게임에 대해 이야기하고 싶어 할 것”이라고 덧붙였다."
+                "x": "새로 나온 MetaHuman Animator Markerless Motion Capture 플러그인의 전신 애니메이션 기능을 자세히 들여다본다. 이 플러그인은 폰이나 웹캠으로 찍은 평범한 영상을 MetaHuman 캐릭터의 애니메이션으로 바꿔 준다. Epic 연구팀의 Michael Black이 기술의 작동 원리를 설명하고, Ben Kidd는 실제 프로젝트를 예로 촬영부터 최종 숏까지 쓰는 과정을 시연한다. 영화감독 Martin Bell도 나와 독립 창작자가 이 도구로 해낼 수 있는 일을 소개한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "John Romero\n今こそデザインが重要",
-          "body": "Romeroは、新作の大半はゴミで、多くがAI-generatedだと語った。",
-          "mini_headline": "Romero：デザインが重要",
+          "headline": "スマホでMetaHuman\nAnimator全身モキャプ",
+          "body": "EpicのMetaHuman Animatorはスマホやウェブカメラ映像を全身アニメ化する。",
+          "mini_headline": "スマホ動画でMetaHumanモキャプ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "Doomの共同制作者は、特にモバイルは低品質な新作であふれていると語る。John RomeroはFRVR Podcastで、流通はかつてないほど容易になったと述べた。「当時は流通がとても難しかった。今は本当に簡単だ」"
-              },
-              {
-                "t": "p",
-                "x": "「ほとんどはゴミだ」と彼は言う。「ほとんどはAI-generatedか、ゲーム制作キットで自動生成しただけのものだ。本当に多い。それでも、自分の作品を世に出すことの民主化が現実になったのは素晴らしい」"
-              },
-              {
-                "t": "p",
-                "x": "Romeroは「今こそ、かつてないほどデザインが大事だ」と説明し、「本当に優れたデザインがあれば、人々はそれについて語りたくなる」と述べた。"
+                "x": "新しいMetaHuman Animator Markerless Motion Captureプラグインによる全身アニメーションを掘り下げる。このプラグインは、スマホやウェブカメラで撮った普通の映像をMetaHumanキャラクターのアニメーションに変える。EpicのリサーチチームのMichael Blackが技術の仕組みを解説し、Ben Kiddが実際のプロジェクトでの使い方を撮影から最終ショットまで紹介する。映画監督のMartin Bellも参加し、インディーのクリエイターがこれで何をできるかを見せる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "John Romero称\n设计比以往更重要",
-          "body": "Romero称做游戏从未如此容易，但新作大多是垃圾，且不少是AI-generated。",
-          "mini_headline": "Romero：设计至上",
+          "headline": "手机视频经MetaHuman\nAnimator变全身动捕",
+          "body": "Epic的MetaHuman Animator无标记插件将手机或摄像头视频转为全身动画。",
+          "mini_headline": "手机视频做MetaHuman动捕",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "这位Doom联合创作者表示，移动平台尤其充斥着低质量作品。John Romero在FRVR Podcast上说，发行比以往任何时候都容易：“那时候发行太难了。现在真的很容易。”"
-              },
-              {
-                "t": "p",
-                "x": "“大多数都是垃圾，”他说。“大多数是AI-generated的，或者用游戏制作工具包直接自动生成的，你知道吗？很多都是这样。但让人人都能把作品发布出去的民主化已成为现实，这很棒。”"
-              },
-              {
-                "t": "p",
-                "x": "Romero解释说，“现在比以往任何时候都更关乎设计”：“只要设计真的出色，人们就会想谈论它。”"
+                "x": "深入了解全身动画：新的MetaHuman Animator Markerless Motion Capture插件可将手机或网络摄像头拍摄的普通视频转化为MetaHuman角色的动画。Epic研究团队的Michael Black将讲解这项技术的原理，Ben Kidd则会在真实项目中演示从拍摄到最终镜头的完整使用流程。电影人Martin Bell也将加入，展示独立创作者能用它做到什么。"
               }
             ]
           }
         },
         "es": {
-          "headline": "John Romero: el diseño importa\nmás que nunca",
-          "body": "Romero dice que crear juegos es más fácil que nunca, pero la mayoría de estrenos, muchos AI-generated, son basura.",
-          "mini_headline": "Romero: el diseño importa",
+          "headline": "MetaHuman Animator convierte\nvideo de móvil en mocap corporal",
+          "body": "El plugin markerless de MetaHuman Animator de Epic convierte video de móvil o webcam en animación de cuerpo completo.",
+          "mini_headline": "Mocap de MetaHuman con video de móvil",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "El cocreador de Doom afirma que el móvil, en particular, está lleno de lanzamientos de baja calidad. En el FRVR Podcast, John Romero dijo que la distribución es más fácil que nunca: “La distribución era muy difícil entonces. Ahora es muy fácil”."
-              },
-              {
-                "t": "p",
-                "x": "“La mayoría son basura”, dijo. “La mayoría son AI-generated o se usa un kit de creación de juegos para generarlos automáticamente, ¿sabes? Muchísimos. Pero es genial que la democratización de poder publicar tus cosas ya sea una realidad”."
-              },
-              {
-                "t": "p",
-                "x": "Romero explicó que “ahora, más que nunca, se trata del diseño”: “Ten un diseño realmente bueno y la gente va a querer hablar de él”."
+                "x": "Un análisis a fondo de la animación de cuerpo completo con el nuevo plugin MetaHuman Animator Markerless Motion Capture, que convierte video común de un móvil o una webcam en animación para personajes MetaHuman. Michael Black, del equipo de investigación de Epic, explicará cómo funciona la tecnología, mientras Ben Kidd muestra su uso en un proyecto real, desde la captura hasta el plano final. También participa el cineasta Martin Bell, que mostrará lo que un creador independiente puede hacer con ella."
               }
             ]
           }
@@ -1175,105 +1007,73 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "John Romero\n디자인이 어느 때보다 중요",
-          "body": "Romero는 신작 대부분이 쓰레기이고 상당수가 AI-generated라고 했다.",
-          "mini_headline": "Romero: 디자인이 중요",
+          "headline": "폰으로 MetaHuman\nAnimator 전신 모캡",
+          "body": "Epic의 MetaHuman Animator는 폰·웹캠 영상을 전신 모캡화한다.",
+          "mini_headline": "폰 영상으로 MetaHuman 모캡",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "Doom의 공동 제작자는 특히 모바일이 저품질 신작으로 가득하다고 말한다. John Romero는 FRVR Podcast에서 유통이 그 어느 때보다 쉬워졌다며 이렇게 말했다. “그때는 유통이 정말 어려웠다. 지금은 아주 쉽다.”"
-              },
-              {
-                "t": "p",
-                "x": "“대부분은 쓰레기다.” 그는 말했다. “대부분이 AI-generated이거나, 게임 제작 키트로 그냥 자동 생성한 것이다. 아주 많다. 그래도 자기 작품을 세상에 내놓는 일이 민주화돼 현실이 된 건 멋진 일이다.”"
-              },
-              {
-                "t": "p",
-                "x": "Romero는 “지금은 그 어느 때보다 디자인이 중요하다”며 “정말 훌륭한 디자인을 갖추면 사람들이 그 게임에 대해 이야기하고 싶어 할 것”이라고 설명했다."
+                "x": "새 MetaHuman Animator Markerless Motion Capture 플러그인으로 전신 애니메이션을 깊이 살펴본다. 이 플러그인은 폰이나 웹캠으로 찍은 평범한 영상을 MetaHuman 캐릭터의 애니메이션으로 바꿔 준다. Epic 연구팀의 Michael Black이 기술의 작동 원리를 설명하고, Ben Kidd가 실제 프로젝트에서 촬영부터 최종 숏까지 사용 과정을 보여 준다. 영화감독 Martin Bell도 함께해 독립 창작자가 이 도구로 무엇을 할 수 있는지 보여 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "John Romero\n今こそデザインが重要",
-          "body": "Romeroは、新作の大半はゴミで、多くがAI-generatedだと語った。",
-          "mini_headline": "Romero：デザインが重要",
+          "headline": "スマホでMetaHuman\nAnimator全身モキャプ",
+          "body": "EpicのMetaHuman Animatorはスマホやウェブカメラ映像を全身アニメ化する。",
+          "mini_headline": "スマホ動画でMetaHumanモキャプ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "Doomの共同制作者は、特にモバイルは低品質な新作であふれていると語る。John RomeroはFRVR Podcastで、流通はかつてないほど容易になったと述べた。「当時は流通がとても難しかった。今は本当に簡単だ」"
-              },
-              {
-                "t": "p",
-                "x": "「ほとんどはゴミだ」と彼は言う。「ほとんどはAI-generatedか、ゲーム制作キットで自動生成しただけのものだ。本当に多い。それでも、自分の作品を世に出すことの民主化が現実になったのは素晴らしい」"
-              },
-              {
-                "t": "p",
-                "x": "Romeroは「今こそ、かつてないほどデザインが大事だ」と説明し、「本当に優れたデザインがあれば、人々はそれについて語りたくなる」と述べた。"
+                "x": "新しいMetaHuman Animator Markerless Motion Captureプラグインによる全身アニメーションを掘り下げる。このプラグインは、スマホやウェブカメラで撮った普通の映像をMetaHumanキャラクターのアニメーションに変える。EpicのリサーチチームのMichael Blackが技術の仕組みを解説し、Ben Kiddが実際のプロジェクトでの使い方を撮影から最終ショットまで紹介する。映画監督のMartin Bellも参加し、インディーのクリエイターがこれで何をできるかを見せる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "John Romero称\n设计比以往更重要",
-          "body": "Romero称做游戏从未如此容易，但新作大多是垃圾，且不少是AI-generated。",
-          "mini_headline": "Romero：设计至上",
+          "headline": "手机视频经MetaHuman\nAnimator变全身动捕",
+          "body": "Epic的MetaHuman Animator无标记插件将手机或摄像头视频转为全身动画。",
+          "mini_headline": "手机视频做MetaHuman动捕",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "这位Doom联合创作者表示，移动平台尤其充斥着低质量作品。John Romero在FRVR Podcast上说，发行比以往任何时候都容易：“那时候发行太难了。现在真的很容易。”"
-              },
-              {
-                "t": "p",
-                "x": "“大多数都是垃圾，”他说。“大多数是AI-generated的，或者用游戏制作工具包直接自动生成的，你知道吗？很多都是这样。但让人人都能把作品发布出去的民主化已成为现实，这很棒。”"
-              },
-              {
-                "t": "p",
-                "x": "Romero解释说，“现在比以往任何时候都更关乎设计”：“只要设计真的出色，人们就会想谈论它。”"
+                "x": "深入了解全身动画：新的MetaHuman Animator Markerless Motion Capture插件可将手机或网络摄像头拍摄的普通视频转化为MetaHuman角色的动画。Epic研究团队的Michael Black将讲解这项技术的原理，Ben Kidd则会在真实项目中演示从拍摄到最终镜头的完整使用流程。电影人Martin Bell也将加入，展示独立创作者能用它做到什么。"
               }
             ]
           }
         },
         "es": {
-          "headline": "John Romero: el diseño importa\nmás que nunca",
-          "body": "Romero dice que crear juegos es más fácil que nunca, pero la mayoría de estrenos, muchos AI-generated, son basura.",
-          "mini_headline": "Romero: el diseño importa",
+          "headline": "MetaHuman Animator convierte\nvideo de móvil en mocap corporal",
+          "body": "El plugin markerless de MetaHuman Animator de Epic convierte video de móvil o webcam en animación de cuerpo completo.",
+          "mini_headline": "Mocap de MetaHuman con video de móvil",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+                "t": "video",
+                "yt": "zd7DCFBLCcc"
               },
               {
                 "t": "p",
-                "x": "El cocreador de Doom afirma que el móvil, en particular, está lleno de lanzamientos de baja calidad. En el FRVR Podcast, John Romero dijo que la distribución es más fácil que nunca: “La distribución era muy difícil entonces. Ahora es muy fácil”."
-              },
-              {
-                "t": "p",
-                "x": "“La mayoría son basura”, dijo. “La mayoría son AI-generated o se usa un kit de creación de juegos para generarlos automáticamente, ¿sabes? Muchísimos. Pero es genial que la democratización de poder publicar tus cosas ya sea una realidad”."
-              },
-              {
-                "t": "p",
-                "x": "Romero explicó que “ahora, más que nunca, se trata del diseño”: “Ten un diseño realmente bueno y la gente va a querer hablar de él”."
+                "x": "Un análisis a fondo de la animación de cuerpo completo con el nuevo plugin MetaHuman Animator Markerless Motion Capture, que convierte video común de un móvil o una webcam en animación para personajes MetaHuman. Michael Black, del equipo de investigación de Epic, explicará cómo funciona la tecnología, mientras Ben Kidd muestra su uso en un proyecto real, desde la captura hasta el plano final. También participa el cineasta Martin Bell, que mostrará lo que un creador independiente puede hacer con ella."
               }
             ]
           }
@@ -1281,15 +1081,15 @@
       }
     },
     {
-      "id": "tripo-ai-gstar-b2c",
-      "source_lang": "en",
+      "id": "motokare-deathgame-fmv-ai",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "Tripo AI, 3D\n모델 생성기 소비자 공략",
-      "body": "Tripo AI는 G-Star 2026에 학생·인디 개발자용 B2C 부스를 냈다.",
-      "mini_headline": "Tripo AI, B2C로",
+      "headline": "생성 AI로 만든 FMV\n「전 남친×데스게임」",
+      "body": "생성 AI로 만든 FMV 게임 「전 남친×데스게임」이 12월 4일 무료로 나온다.",
+      "mini_headline": "생성 AI FMV 게임 출시",
       "tool": "Games",
-      "source": "Inven Global",
-      "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+      "source": "4Gamer.net",
+      "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1297,305 +1097,415 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+            "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
           },
           {
             "t": "p",
-            "x": "텍스트·이미지·스케치로 3D 모델을 만드는 3D 모델 생성 플랫폼 Tripo AI가 올해도 G-STAR에 참가했다. B2B관까지 오기 어려운 학생, 소규모 인디 개발 스튜디오와 만나려고 B2C관에도 부스를 차렸다."
+            "x": "중국 인디 개발 스튜디오 LIUGUANG STUDIO는 개발 중인 신작 「전 남친×데스게임」(元カレ×デスゲーム)을 2026년 12월 4일 기본 무료로 출시한다고 발표했다."
+          },
+          {
+            "t": "video",
+            "yt": "G9s6lRSfhMg"
+          },
+          {
+            "t": "p",
+            "x": "이 작품은 영상과 캐릭터, 스토리 제작에 생성 AI를 활용한 FMV(풀 모션 비디오) 어드벤처로, 실사풍 영상이 특징이다. 플레이어는 전 남친 100명에게 복수를 꾀하는 걸출한 인물 「쑤웨이」가 되어, 바다 위에 뜬 호화 여객선에 그들을 가두고 잔혹한 데스게임을 연다. 목숨을 건 시련으로 전 남친들의 거짓말을 폭로하고 과거의 배신에 마침표를 찍는 것이 쑤웨이의 목표다."
           },
           {
             "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-            "cap": "방문객이 3D 모델을 직접 생성하고 편집하며 기능과 성능을 체험할 수 있는 공간도 마련됐다 ©INVEN"
+            "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
           },
           {
             "t": "p",
-            "x": "제품 총괄(Head of Product) Jack Fan은 Tripo가 클릭 한 번으로 3D 모델을 만드는 'Tripo Studio'와 작업을 단계별로 나누는 'Canvas'에 집중한다고 말했다. 서비스는 매주 여러 차례 업데이트되고 몇 달마다 새 기반 모델이 나온다. 'H3.1'은 초고정밀 모델이고, 'P2.0'은 50,000 폴리곤 미만의 가벼운 지오메트리로 5초 안에 모델을 만든다."
+            "x": "「진실 혹은 벌칙」, 「유리 다리」, 「심해 거짓말 탐지기」 같은 시련이 등장한다. 게임이 진행될수록 시련은 가혹해지고, 참가자들은 여유를 잃으며 숨겨 온 본성을 드러낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
           },
           {
             "t": "p",
-            "x": "사용자 상당수는 평소 쓰는 에이전트에서 MCP(Model Context Protocol)로 Tripo AI에 접속한다. 한국·일본 시장 총괄(Head of Korea & Japan Markets) Ellie Wang은 올해 게임 업계의 관심이 폭발적으로 늘었다고 했다. 한국 스튜디오의 피드백을 받아 만든, 에셋을 함께 쓰는 'Team Plan'도 나왔다."
+            "x": "중국에서는 기술이 발전하면서 생성 AI로 만드는 숏드라마가 빠르게 늘고 있다. 2026년 상반기에는 중국판 TikTok인 「抖音(더우인)」에 약 22만 편의 AI 생성 드라마가 공개됐다. 이 게임도 그 흐름에서 나온 셈이다. 「전 남친×데스게임」(PC)은 2026년 12월 4일 Steam에서 기본 무료로 출시될 예정이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Tripo AI takes its 3D model\ngenerator to consumers",
-          "body": "At G-Star 2026, Tripo AI, widely used by game developers, added a B2C booth to reach students and indie developers.",
-          "mini_headline": "Tripo AI goes B2C",
+        "ja": {
+          "headline": "生成AIで作るFMV\n「元カレ×デスゲーム」",
+          "body": "生成AI製FMVゲーム「元カレ×デスゲーム」が12月4日に基本無料で配信される。",
+          "mini_headline": "生成AI製FMVが配信へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AI, a 3D model generation platform that generates 3D models from text, images, or sketches, attended G-STAR again this year and set up a booth in the B2C hall as well, to expand touchpoints with students and small indie development studios who might find it difficult to visit the B2B hall."
+                "x": "中国のインディー開発スタジオLIUGUANG STUDIOは，現在開発中の新作「元カレ×デスゲーム」を2026年12月4日に基本プレイ無料で配信すると発表した。"
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "本作は，映像やキャラクター，ストーリーの制作に生成AIを活用した，実写風の映像が特徴のFMV（フルモーションビデオ）アドベンチャーだ。プレイヤーは100人の元カレたちに復讐しようとする傑物「スー・ウェイ」となり，海上に浮かぶ一隻の豪華客船に彼らを閉じ込め，残酷なデスゲームを開催する。デスゲームでは命がけの試練が用意されており，それを通じて元カレたちの嘘を暴き，過去の裏切りに決着をつけることがスー・ウェイの目的だ。"
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "A space was also provided where visitors could directly generate and edit 3D models to experience its features and performance ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "Head of Product Jack Fan said Tripo focuses on 'Tripo Studio,' which generates 3D models with a single click, and 'Canvas,' which splits work into step-by-step stages. The service is updated multiple times every week, with new foundational models every few months. 'H3.1' is an ultra-high-precision model, while 'P2.0' generates models in under 5 seconds with lightweight geometry under 50,000 polygons."
+                "x": "「本音か罰ゲームか」「ガラスの橋」「深海のウソ探知機」といった試練が登場する。ゲームが進むにつれて試練は過酷さを増し，参加者たちは余裕を失って，隠していた本性があらわになっていく。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Many users enter Tripo AI from whichever agent they use via MCP (Model Context Protocol). Ellie Wang, Head of Korea & Japan Markets, said interest from the gaming sector expanded explosively this year; feedback from Korean studios led to a 'Team Plan' for sharing created assets."
+                "x": "中国では近年，技術の発展とともに生成AIを利用したショートドラマの制作が急速に広がっており，2026年上半期には中国版TikTok「抖音」で約22万本のAI生成ドラマが公開された。本作も，こうした潮流のなかで登場する作品といえる。「元カレ×デスゲーム」（PC）は2026年12月4日にSteamで配信予定で，基本プレイ無料となる。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "A generative AI FMV game:\n「元カレ×デスゲーム」",
+          "body": "The generative AI FMV game 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game) launches free-to-play on December 4.",
+          "mini_headline": "Generative AI FMV game to launch",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Chinese indie studio LIUGUANG STUDIO announced that its new title in development, 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game), will launch as free-to-play on December 4, 2026."
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "The game is an FMV (full-motion video) adventure that uses generative AI to produce its footage, characters and story, and is distinguished by live-action-style visuals. Players take the role of the formidable Su Wei, who seeks revenge on 100 ex-boyfriends by trapping them aboard a luxury cruise ship at sea and staging a brutal death game. The death game sets life-or-death trials, through which Su Wei aims to expose the ex-boyfriends' lies and settle past betrayals."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Trials include \"Truth or Punishment,\" \"Glass Bridge\" and \"Deep-Sea Lie Detector.\" As the game progresses, the trials grow harsher, the participants lose their composure, and the true natures they had hidden come to the surface."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
+              },
+              {
+                "t": "p",
+                "x": "In China, the production of short dramas using generative AI has spread rapidly in recent years alongside technological advances, and in the first half of 2026 about 22万 (two hundred twenty thousand) AI-generated dramas were released on Douyin (抖音), the Chinese version of TikTok. This game can be seen as part of that trend. 「元カレ×デスゲーム」 (PC) is scheduled to launch on Steam on December 4, 2026, and will be free-to-play."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tripo AI, 3D\n모델 생성기 소비자 공략",
-          "body": "Tripo AI는 G-Star 2026에 학생·인디 개발자용 B2C 부스를 냈다.",
-          "mini_headline": "Tripo AI, B2C로",
+          "headline": "생성 AI로 만든 FMV\n「전 남친×데스게임」",
+          "body": "생성 AI로 만든 FMV 게임 「전 남친×데스게임」이 12월 4일 무료로 나온다.",
+          "mini_headline": "생성 AI FMV 게임 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "텍스트·이미지·스케치로 3D 모델을 만드는 3D 모델 생성 플랫폼 Tripo AI가 올해도 G-STAR에 참가했다. B2B관까지 오기 어려운 학생, 소규모 인디 개발 스튜디오와 만나려고 B2C관에도 부스를 차렸다."
+                "x": "중국 인디 개발 스튜디오 LIUGUANG STUDIO는 개발 중인 신작 「전 남친×데스게임」(元カレ×デスゲーム)을 2026년 12월 4일 기본 무료로 출시한다고 발표했다."
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "이 작품은 영상과 캐릭터, 스토리 제작에 생성 AI를 활용한 FMV(풀 모션 비디오) 어드벤처로, 실사풍 영상이 특징이다. 플레이어는 전 남친 100명에게 복수를 꾀하는 걸출한 인물 「쑤웨이」가 되어, 바다 위에 뜬 호화 여객선에 그들을 가두고 잔혹한 데스게임을 연다. 목숨을 건 시련으로 전 남친들의 거짓말을 폭로하고 과거의 배신에 마침표를 찍는 것이 쑤웨이의 목표다."
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "방문객이 3D 모델을 직접 생성하고 편집하며 기능과 성능을 체험할 수 있는 공간도 마련됐다 ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "제품 총괄(Head of Product) Jack Fan은 Tripo가 클릭 한 번으로 3D 모델을 만드는 'Tripo Studio'와 작업을 단계별로 나누는 'Canvas'에 집중한다고 말했다. 서비스는 매주 여러 차례 업데이트되고 몇 달마다 새 기반 모델이 나온다. 'H3.1'은 초고정밀 모델이고, 'P2.0'은 50,000 폴리곤 미만의 가벼운 지오메트리로 5초 안에 모델을 만든다."
-              },
-              {
-                "t": "p",
-                "x": "사용자 상당수는 평소 쓰는 에이전트에서 MCP(Model Context Protocol)로 Tripo AI에 접속한다. 한국·일본 시장 총괄(Head of Korea & Japan Markets) Ellie Wang은 올해 게임 업계의 관심이 폭발적으로 늘었다고 했다. 한국 스튜디오의 피드백을 받아 만든, 에셋을 함께 쓰는 'Team Plan'도 나왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Tripo AI、3Dモデル\n生成を一般向けに",
-          "body": "Tripo AIはG-Star 2026で学生やインディー開発者向けB2Cブースを設けた。",
-          "mini_headline": "Tripo AI、B2Cへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "テキスト、画像、スケッチから3Dモデルを生成する3Dモデル生成プラットフォームTripo AIは、今年もG-STARに出展し、B2Bホールを訪れにくい学生や小規模インディー開発スタジオとの接点を広げるため、B2Cホールにもブースを構えた。"
+                "x": "「진실 혹은 벌칙」, 「유리 다리」, 「심해 거짓말 탐지기」 같은 시련이 등장한다. 게임이 진행될수록 시련은 가혹해지고, 참가자들은 여유를 잃으며 숨겨 온 본성을 드러낸다."
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "来場者が3Dモデルを直接生成・編集し、機能と性能を体験できるスペースも設けられた ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Head of ProductのJack Fanによると、Tripoはワンクリックで3Dモデルを生成する「Tripo Studio」と、作業を段階ごとに分ける「Canvas」に注力している。サービスは毎週複数回更新され、数か月ごとに新しい基盤モデルが登場する。「H3.1」は超高精度モデル、「P2.0」は50,000ポリゴン未満の軽量ジオメトリで5秒以内にモデルを生成する。"
-              },
-              {
-                "t": "p",
-                "x": "多くのユーザーは、自分が使うエージェントからMCP(Model Context Protocol)経由でTripo AIに入ってくる。Head of Korea & Japan MarketsのEllie Wangは、今年はゲーム分野からの関心が爆発的に広がったと述べた。韓国のスタジオからのフィードバックを受け、作成したアセットを共有する「Team Plan」が生まれた。"
+                "x": "중국에서는 기술이 발전하면서 생성 AI로 만드는 숏드라마가 빠르게 늘고 있다. 2026년 상반기에는 중국판 TikTok인 「抖音(더우인)」에 약 22만 편의 AI 생성 드라마가 공개됐다. 이 게임도 그 흐름에서 나온 셈이다. 「전 남친×데스게임」(PC)은 2026년 12월 4일 Steam에서 기본 무료로 출시될 예정이다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tripo AI把3D模型\n生成器带给消费者",
-          "body": "Tripo AI在G-Star 2026增设B2C展位，面向学生和独立开发者。",
-          "mini_headline": "Tripo AI进军B2C",
+          "headline": "用生成式AI做的FMV\n《前男友×死亡游戏》",
+          "body": "生成式AI制作的FMV游戏《前男友×死亡游戏》将于12月4日免费上线。",
+          "mini_headline": "生成式AI FMV游戏将上线",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AI是一个能从文本、图像或草图生成3D模型的3D模型生成平台。今年它再次参加G-STAR，并在B2C展馆也设立了展位，以扩大与难以前往B2B展馆的学生和小型独立开发工作室的接触。"
+                "x": "中国独立开发工作室LIUGUANG STUDIO宣布，正在开发的新作《前男友×死亡游戏》（元カレ×デスゲーム）将于2026年12月4日基本免费上线。"
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "本作是一款以写实风格影像为特色的FMV（全动态影像）冒险游戏，其影像、角色和剧情的制作都运用了生成式AI。玩家将扮演一心向100名前男友复仇的奇女子“苏薇”，把他们困在海上的豪华游轮中，举办残酷的死亡游戏。死亡游戏中设有以命相搏的试炼，苏薇的目的就是借此揭穿前男友们的谎言，了结过去的背叛。"
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "现场还设有体验区，参观者可直接生成和编辑3D模型，体验其功能与性能 ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "Head of Product Jack Fan表示，Tripo专注于一键生成3D模型的“Tripo Studio”和将工作拆分为逐步阶段的“Canvas”。服务每周更新多次，每隔几个月推出新的基础模型。“H3.1”是超高精度模型，“P2.0”则能在5秒内生成低于50,000个多边形的轻量几何模型。"
+                "x": "游戏中会出现“真心话还是惩罚”“玻璃桥”“深海测谎仪”等试炼。随着游戏推进，试炼愈发严酷，参与者们渐渐失去从容，隐藏的本性也逐渐暴露。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "许多用户通过MCP（Model Context Protocol）从自己使用的智能体进入Tripo AI。Head of Korea & Japan Markets Ellie Wang表示，今年游戏领域的关注度呈爆发式增长；韩国工作室的反馈催生了用于共享所创建资产的“Team Plan”。"
+                "x": "近年来，随着技术发展，利用生成式AI制作短剧在中国迅速普及，2026年上半年，中国版TikTok“抖音”上发布了约22万部AI生成短剧。本作也可以说是在这股潮流中诞生的作品。《前男友×死亡游戏》（PC）预计于2026年12月4日在Steam上线，基本免费游玩。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tripo AI lleva su generador 3D\nal público general",
-          "body": "En G-Star 2026, Tripo AI, muy usado por desarrolladores de juegos, sumó un stand B2C para estudiantes e indies.",
-          "mini_headline": "Tripo AI apuesta por B2C",
+          "headline": "Un FMV con AI generativa:\n「元カレ×デスゲーム」",
+          "body": "El juego FMV con AI generativa 「元カレ×デスゲーム」 llegará el 4 de diciembre de forma gratuita.",
+          "mini_headline": "Llega un FMV hecho con AI generativa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AI, una plataforma que genera modelos 3D a partir de texto, imágenes o bocetos, volvió a participar este año en G-STAR y también montó un stand en el pabellón B2C para ampliar el contacto con estudiantes y pequeños estudios indie a los que les resulta difícil visitar el pabellón B2B."
+                "x": "El estudio independiente chino LIUGUANG STUDIO anunció que su nuevo título en desarrollo, 「元カレ×デスゲーム」, se lanzará el 4 de diciembre de 2026 como juego gratuito."
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "Se trata de una aventura FMV (video de movimiento completo) que utiliza AI generativa para crear las imágenes, los personajes y la historia, y que destaca por su estética de imagen real. El jugador encarna a la extraordinaria Su Wei, que busca vengarse de sus 100 exnovios: los encierra en un lujoso crucero en alta mar y organiza un cruel juego mortal. Ese juego plantea pruebas en las que se arriesga la vida, y a través de ellas Su Wei pretende desenmascarar las mentiras de sus exnovios y saldar cuentas con las traiciones del pasado."
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "También se habilitó un espacio donde los visitantes podían generar y editar modelos 3D para probar sus funciones y rendimiento ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "El Head of Product, Jack Fan, dijo que Tripo se centra en 'Tripo Studio', que genera modelos 3D con un solo clic, y en 'Canvas', que divide el trabajo en etapas. El servicio se actualiza varias veces por semana y cada pocos meses llegan nuevos modelos base. 'H3.1' es un modelo de altísima precisión, mientras que 'P2.0' genera modelos en menos de 5 segundos con geometría ligera de menos de 50,000 polígonos."
+                "x": "Aparecen pruebas como «Verdad o castigo», «El puente de cristal» y «El detector de mentiras de las profundidades». A medida que avanza el juego, las pruebas se vuelven más duras y los participantes pierden la compostura y revelan la verdadera naturaleza que ocultaban."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Muchos usuarios llegan a Tripo AI desde el agente que usan mediante MCP (Model Context Protocol). Ellie Wang, Head of Korea & Japan Markets, dijo que el interés del sector de los videojuegos creció de forma explosiva este año; los comentarios de estudios coreanos dieron lugar a un 'Team Plan' para compartir los assets creados."
+                "x": "En China, la producción de series cortas con AI generativa se ha extendido rápidamente en los últimos años junto con el avance tecnológico, y en el primer semestre de 2026 se publicaron unas 22万 (doscientas veinte mil) series generadas con AI en Douyin (抖音), la versión china de TikTok. Este título puede considerarse parte de esa tendencia. 「元カレ×デスゲーム」 (PC) llegará a Steam el 4 de diciembre de 2026 y será gratuito."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Tripo AI, 3D\n모델 생성기 소비자 공략",
-          "body": "Tripo AI는 G-Star 2026에 학생·인디 개발자용 B2C 부스를 냈다.",
-          "mini_headline": "Tripo AI, B2C로",
+        "en": {
+          "headline": "A generative AI FMV game:\n「元カレ×デスゲーム」",
+          "body": "The generative AI FMV game 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game) launches free-to-play on December 4.",
+          "mini_headline": "Generative AI FMV game to launch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "텍스트·이미지·스케치로 3D 모델을 만드는 3D 모델 생성 플랫폼 Tripo AI가 올해도 G-STAR에 참가했다. B2B관을 찾기 어려운 학생과 소규모 인디 개발 스튜디오와 접점을 넓히려고 B2C관에도 부스를 차렸다."
+                "x": "Chinese indie studio LIUGUANG STUDIO announced that its new title in development, 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game), will launch as free-to-play on December 4, 2026."
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "The game is an FMV (full-motion video) adventure that uses generative AI to produce its footage, characters and story, and is distinguished by live-action-style visuals. Players take the role of the formidable Su Wei, who seeks revenge on 100 ex-boyfriends by trapping them aboard a luxury cruise ship at sea and staging a brutal death game. The death game sets life-or-death trials, through which Su Wei aims to expose the ex-boyfriends' lies and settle past betrayals."
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "방문객이 3D 모델을 직접 생성하고 편집하며 기능과 성능을 체험할 수 있는 공간도 마련됐다 ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "제품 총괄(Head of Product) Jack Fan은 Tripo가 클릭 한 번으로 3D 모델을 만드는 'Tripo Studio'와 작업을 단계별로 나누는 'Canvas'에 집중한다고 말했다. 서비스는 매주 여러 차례 업데이트되고, 몇 달마다 새 기반 모델이 나온다. 'H3.1'은 초고정밀 모델이고, 'P2.0'은 50,000 폴리곤 미만의 가벼운 지오메트리로 5초 안에 모델을 만든다."
+                "x": "Trials include \"Truth or Punishment,\" \"Glass Bridge\" and \"Deep-Sea Lie Detector.\" As the game progresses, the trials grow harsher, the participants lose their composure, and the true natures they had hidden come to the surface."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "많은 사용자가 자신이 쓰는 에이전트에서 MCP(Model Context Protocol)를 통해 Tripo AI로 들어온다. 한국·일본 시장 총괄(Head of Korea & Japan Markets) Ellie Wang은 올해 게임 업계의 관심이 폭발적으로 늘었다고 했다. 한국 스튜디오들의 피드백을 계기로 만든 에셋을 공유하는 'Team Plan'도 생겼다."
+                "x": "In China, the production of short dramas using generative AI has spread rapidly in recent years alongside technological advances, and in the first half of 2026 about 22万 (two hundred twenty thousand) AI-generated dramas were released on Douyin (抖音), the Chinese version of TikTok. This game can be seen as part of that trend. 「元カレ×デスゲーム」 (PC) is scheduled to launch on Steam on December 4, 2026, and will be free-to-play."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "Tripo AI、3Dモデル\n生成を一般向けに",
-          "body": "Tripo AIはG-Star 2026で学生やインディー開発者向けB2Cブースを設けた。",
-          "mini_headline": "Tripo AI、B2Cへ",
+        "ko": {
+          "headline": "생성 AI로 만든 FMV\n「전 남친×데스게임」",
+          "body": "생성 AI로 만든 FMV 게임 「전 남친×데스게임」이 12월 4일 무료로 나온다.",
+          "mini_headline": "생성 AI FMV 게임 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "テキスト、画像、スケッチから3Dモデルを生成する3Dモデル生成プラットフォームTripo AIは、今年もG-STARに出展し、B2Bホールを訪れにくい学生や小規模インディー開発スタジオとの接点を広げるため、B2Cホールにもブースを構えた。"
+                "x": "중국 인디 개발 스튜디오 LIUGUANG STUDIO는 개발 중인 신작 「전 남친×데스게임」(元カレ×デスゲーム)을 2026년 12월 4일 기본 무료로 출시한다고 발표했다."
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "이 작품은 영상과 캐릭터, 스토리 제작에 생성 AI를 활용한 FMV(풀 모션 비디오) 어드벤처로, 실사풍 영상이 특징이다. 플레이어는 100명의 전 남친에게 복수하려는 걸출한 인물 「쑤웨이」가 되어, 바다 위에 뜬 호화 여객선에 그들을 가두고 잔혹한 데스게임을 연다. 데스게임에는 목숨을 건 시련이 준비되어 있으며, 이를 통해 전 남친들의 거짓말을 폭로하고 과거의 배신에 마침표를 찍는 것이 쑤웨이의 목표다."
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "来場者が3Dモデルを直接生成・編集し、機能と性能を体験できるスペースも設けられた ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "Head of ProductのJack Fanによると、Tripoはワンクリックで3Dモデルを生成する「Tripo Studio」と、作業を段階ごとに分ける「Canvas」に注力している。サービスは毎週複数回更新され、数か月ごとに新しい基盤モデルが登場する。「H3.1」は超高精度モデル、「P2.0」は50,000ポリゴン未満の軽量ジオメトリで5秒以内にモデルを生成する。"
+                "x": "「진실 혹은 벌칙」, 「유리 다리」, 「심해 거짓말 탐지기」 같은 시련이 등장한다. 게임이 진행될수록 시련은 가혹해지고, 참가자들은 여유를 잃으며 숨겨 온 본성을 드러낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "多くのユーザーは、自分が使うエージェントからMCP(Model Context Protocol)経由でTripo AIに入ってくる。Head of Korea & Japan MarketsのEllie Wangは、今年はゲーム分野からの関心が爆発的に広がったと述べた。韓国のスタジオからのフィードバックを受け、作成したアセットを共有する「Team Plan」が生まれた。"
+                "x": "중국에서는 최근 기술 발전과 함께 생성 AI를 활용한 숏드라마 제작이 빠르게 늘고 있으며, 2026년 상반기에는 중국판 TikTok인 「抖音(더우인)」에 약 22만 편의 AI 생성 드라마가 공개됐다. 이 작품도 이런 흐름 속에서 나온 작품이라 할 수 있다. 「전 남친×데스게임」(PC)은 2026년 12월 4일 Steam에서 기본 무료로 출시될 예정이다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tripo AI把3D模型\n生成器带给消费者",
-          "body": "Tripo AI在G-Star 2026增设B2C展位，面向学生和独立开发者。",
-          "mini_headline": "Tripo AI进军B2C",
+          "headline": "用生成式AI做的FMV\n《前男友×死亡游戏》",
+          "body": "生成式AI制作的FMV游戏《前男友×死亡游戏》将于12月4日免费上线。",
+          "mini_headline": "生成式AI FMV游戏将上线",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AI是一个能从文本、图像或草图生成3D模型的3D模型生成平台。今年它再次参加G-STAR，并在B2C展馆也设立了展位，以扩大与难以前往B2B展馆的学生和小型独立开发工作室的接触。"
+                "x": "中国独立开发工作室LIUGUANG STUDIO宣布，正在开发的新作《前男友×死亡游戏》（元カレ×デスゲーム）将于2026年12月4日基本免费上线。"
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "本作是一款以写实风格影像为特色的FMV（全动态影像）冒险游戏，其影像、角色和剧情的制作都运用了生成式AI。玩家将扮演一心向100名前男友复仇的奇女子“苏薇”，把他们困在海上的豪华游轮中，举办残酷的死亡游戏。死亡游戏中设有以命相搏的试炼，苏薇的目的就是借此揭穿前男友们的谎言，了结过去的背叛。"
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "现场还设有体验区，参观者可直接生成和编辑3D模型，体验其功能与性能 ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "Head of Product Jack Fan表示，Tripo专注于一键生成3D模型的“Tripo Studio”和将工作拆分为逐步阶段的“Canvas”。服务每周更新多次，每隔几个月推出新的基础模型。“H3.1”是超高精度模型，“P2.0”则能在5秒内生成低于50,000个多边形的轻量几何模型。"
+                "x": "游戏中会出现“真心话还是惩罚”“玻璃桥”“深海测谎仪”等试炼。随着游戏推进，试炼愈发严酷，参与者们渐渐失去从容，隐藏的本性也逐渐暴露。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "许多用户通过MCP（Model Context Protocol）从自己使用的智能体进入Tripo AI。Head of Korea & Japan Markets Ellie Wang表示，今年游戏领域的关注度呈爆发式增长；韩国工作室的反馈催生了用于共享所创建资产的“Team Plan”。"
+                "x": "近年来，随着技术发展，利用生成式AI制作短剧在中国迅速普及，2026年上半年，中国版TikTok“抖音”上发布了约22万部AI生成短剧。本作也可以说是在这股潮流中诞生的作品。《前男友×死亡游戏》（PC）预计于2026年12月4日在Steam上线，基本免费游玩。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tripo AI lleva su generador 3D\nal público general",
-          "body": "En G-Star 2026, Tripo AI, muy usado por desarrolladores de juegos, sumó un stand B2C para estudiantes e indies.",
-          "mini_headline": "Tripo AI apuesta por B2C",
+          "headline": "Un FMV con AI generativa:\n「元カレ×デスゲーム」",
+          "body": "El juego FMV con AI generativa 「元カレ×デスゲーム」 llegará el 4 de diciembre de forma gratuita.",
+          "mini_headline": "Llega un FMV hecho con AI generativa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
               },
               {
                 "t": "p",
-                "x": "Tripo AI, una plataforma que genera modelos 3D a partir de texto, imágenes o bocetos, volvió a participar este año en G-STAR y también montó un stand en el pabellón B2C para ampliar el contacto con estudiantes y pequeños estudios indie a los que les resulta difícil visitar el pabellón B2B."
+                "x": "El estudio independiente chino LIUGUANG STUDIO anunció que su nuevo título en desarrollo, 「元カレ×デスゲーム」, se lanzará el 4 de diciembre de 2026 como juego gratuito."
+              },
+              {
+                "t": "video",
+                "yt": "G9s6lRSfhMg"
+              },
+              {
+                "t": "p",
+                "x": "Se trata de una aventura FMV (video de movimiento completo) que utiliza AI generativa para crear las imágenes, los personajes y la historia, y que destaca por su estética de imagen real. El jugador encarna a la extraordinaria Su Wei, que busca vengarse de sus 100 exnovios: los encierra en un lujoso crucero en alta mar y organiza un cruel juego mortal. Ese juego plantea pruebas en las que se arriesga la vida, y a través de ellas Su Wei pretende desenmascarar las mentiras de sus exnovios y saldar cuentas con las traiciones del pasado."
               },
               {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795155025513447.jpeg",
-                "cap": "También se habilitó un espacio donde los visitantes podían generar y editar modelos 3D para probar sus funciones y rendimiento ©INVEN"
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
               },
               {
                 "t": "p",
-                "x": "El Head of Product, Jack Fan, dijo que Tripo se centra en 'Tripo Studio', que genera modelos 3D con un solo clic, y en 'Canvas', que divide el trabajo en etapas. El servicio se actualiza varias veces por semana y cada pocos meses llegan nuevos modelos base. 'H3.1' es un modelo de altísima precisión, mientras que 'P2.0' genera modelos en menos de 5 segundos con geometría ligera de menos de 50,000 polígonos."
+                "x": "Aparecen pruebas como «Verdad o castigo», «El puente de cristal» y «El detector de mentiras de las profundidades». A medida que avanza el juego, las pruebas se vuelven más duras y los participantes pierden la compostura y revelan la verdadera naturaleza que ocultaban."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
               },
               {
                 "t": "p",
-                "x": "Muchos usuarios llegan a Tripo AI desde el agente que usan mediante MCP (Model Context Protocol). Ellie Wang, Head of Korea & Japan Markets, dijo que el interés del sector de los videojuegos creció de forma explosiva este año; los comentarios de estudios coreanos dieron lugar a un 'Team Plan' para compartir los assets creados."
+                "x": "En China, la producción de series cortas con AI generativa se ha extendido rápidamente en los últimos años junto con el avance tecnológico, y en el primer semestre de 2026 se publicaron unas 22万 (doscientas veinte mil) series generadas con AI en Douyin (抖音), la versión china de TikTok. Este título puede considerarse parte de esa tendencia. 「元カレ×デスゲーム」 (PC) llegará a Steam el 4 de diciembre de 2026 y será gratuito."
               }
             ]
           }

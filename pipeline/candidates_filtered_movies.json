@@ -1,64 +1,59 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-21T22:01:02Z",
+  "now_iso": "2026-11-22T22:03:00Z",
   "window_hours": 336,
-  "expansion_note": "RSS/sitemap-first (PMC post-sitemaps, Google News RSS, aitimes.kr search); 3 WebSearch used. Added keywords: Cliff Booth/Fincher gen-AI backlash, NO FAKES Act, Google Flow tools, Morphic, AI acting/PROM, GetBackers anime trailer, Seedance 4K API, Utopai. Dropped: Chroma Awards (partner content), Equity/Pact (covered 11-17), China AI feature flop and Seoul indie AI shorts (already published), Slator Iyuno (403, unverifiable), Genie 4 (games already ran it), Google Vids avatars (aitimes cap).",
   "items": [
     {
-      "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
-      "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-11-20T23:45:30+00:00",
-      "excerpt": "Viewers accuse Netflix's 'The Further Mis-Adventures of Cliff Booth' of visible onscreen generative AI; Fincher responds he is 'not a Luddite' and doesn't fear the unknown, arguing filmmakers should use the tool since it exists.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-      "cluster": "c0"
-    },
-    {
-      "title": "David Fincher Says He's No 'Luddite' When It Comes to AI Amid 'Cliff Booth' Criticism",
-      "url": "https://www.thewrap.com/creative-content/movies/david-fincher-cliff-booth-ai-criticism/",
-      "source": "TheWrap",
-      "category": "movies",
-      "published_iso": "2026-11-21T05:04:31+00:00",
-      "excerpt": "Fincher said he is open to using AI after claims that the technology was used in scenes of his Tarantino-penned sequel, a rare A-list director defending gen-AI on a released prestige film.",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/10/Cliff-Booth.jpg",
-      "cluster": "c0"
-    },
-    {
-      "title": "CAA's Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes",
-      "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/",
+      "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
+      "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-11-21T17:10:18+00:00",
-      "excerpt": "CAA CEO Bryan Lourd called on the full Congress to pass the NO FAKES Act and send it to the President, framing a federal digital-replica right as protection for everyone, famous or not.",
-      "og_image": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-      "cluster": "c2"
+      "published_iso": "2026-11-22T15:02:50+00:00",
+      "excerpt": "'The Unknown' filmmaker Arthur Harari says AI is 'slippery slope,' though he says he used a deepfake tool for a scene where Léa Seydoux kisses herself.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=563&crop=1"
     },
     {
-      "title": "CAA's Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans \"Famous Or Not\"",
-      "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/",
-      "source": "Deadline",
+      "title": "If There’s Generative AI in ‘The Further Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
+      "url": "https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/",
+      "source": "IndieWire",
       "category": "movies",
-      "published_iso": "2026-11-21T19:34:05+00:00",
-      "excerpt": "Hollywood's most powerful agency chief pushes for final passage of the NO FAKES Act, the federal bill governing unauthorized AI voice and likeness replicas.",
-      "og_image": "https://deadline.com/wp-content/uploads/2023/10/GettyImages-1245588690.jpg?w=1024",
-      "cluster": "c2"
+      "published_iso": "2026-11-21T23:45:00+00:00",
+      "excerpt": "AI tools went into the 4K Remaster of \"Se7en\" to bring the film as close as possible to the original print. ",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFUMI_ZX009.jpg?w=650",
+      "history_match": {
+        "score": 0.447,
+        "date": "2026-11-22",
+        "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
+        "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
+        "band": "likely-repeat"
+      }
     },
     {
-      "title": "Does GenAI Belong At Animation Festivals? Annecy, Ottawa, And Manchester Programmers Weigh In",
+      "title": "Annecy, Ottawa, Manchester Programmers Weigh In On GenAI",
       "url": "https://www.cartoonbrew.com/artificial-intelligence/annecy-ottawa-manchester-festival-programmers-artificial-intelligence-269655.html",
       "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-11-20T14:26:23+00:00",
-      "excerpt": "Annecy's Marcel Jean, Ottawa's Chris Robinson and Manchester's Steve Henderson explain where they draw the line on AI in film submissions as Manchester moves to ban gen-AI entries.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Festivals.jpg",
-      "history_match": {
-        "score": 0.243,
-        "date": "2026-11-14",
-        "url": "https://www.animationmagazine.net/2026/11/manchester-animation-festival-announces-2026-winners-new-ai-policy/",
-        "title": "Manchester Animation Festival Announces 2026 Winners, New AI Policy",
-        "band": "related"
-      }
+      "published_iso": "2026-11-20T14:26:00Z",
+      "excerpt": "Marcel Jean, Chris Robinson, and Steve Henderson tell us where they draw the line on AI in film submissions as Manchester moves to ban genAI entries.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Festivals.jpg"
+    },
+    {
+      "title": "Artists Leave Etsy In Droves Over New AI Training Terms",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/etsy-ai-training-terms-of-use-269553.html",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-11-18T17:21:00Z",
+      "excerpt": "For indie animators who sell prints, stickers, and zines between gigs, closing an Etsy shop means giving up years of reviews and holiday sales.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Etsy-AI.jpg"
+    },
+    {
+      "title": "Iyuno CEO David Lee on AI and the Future of Media Localization",
+      "url": "https://slator.com/iyuno-ceo-ai-media-localization/",
+      "source": "Slator",
+      "category": "movies",
+      "published_iso": "2026-11-20T10:05:00+00:00",
+      "excerpt": "Iyuno CEO David Lee on SlatorPod: the CLOE contextual-AI platform builds shared memory of characters and storylines reused across subtitling, dubbing and audio description; he argues synthetic voices still lag premium performances and stresses consent, control and compensation for AI voice replicas.",
+      "og_image": null
     },
     {
       "title": "Utopai Studios Opens Beverly Hills Office",
@@ -66,23 +61,23 @@
       "source": "Animation World Network",
       "category": "movies",
       "published_iso": "2026-11-20T07:28:25-08:00",
-      "excerpt": "The AI-native studio behind 'The Most Serious Fart' and Antonio Banderas' 'Cortés' opens a Hollywood production base and plans about 500 production jobs worldwide in 2027.",
+      "excerpt": "The AI-native company behind 'The Most Serious Fart' and Antonio Banderas' 'Cortés' plans adding about 500 production jobs worldwide next year, with additional hiring in 2028.",
       "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081877-utopai1-1280.jpg?itok=JWfVm7sD"
     },
     {
-      "title": "Tilly Norwood Creator Teases 'Storm Dogs' With Rob Minkoff & Shows Clip",
-      "url": "https://deadline.com/2026/11/tilly-norwood-creator-teases-next-storm-dogs-clip-1237228854/",
-      "source": "Deadline",
+      "title": "Tool Tip Tuesday for Adobe Premiere: Color Matching with the AI Assistant (Beta)",
+      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-color-matching-with-the-ai-assistant-beta/",
+      "source": "ProVideo Coalition",
       "category": "movies",
-      "published_iso": "2026-11-19T10:01:31+00:00",
-      "excerpt": "Eline Van der Velden, creator of the AI 'actress' Tilly Norwood, teased her next project 'Storm Dogs' with 'Lion King' director Rob Minkoff and showed a first clip.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/07/Misaligned-Tilly-Norwood-Dark-Side.jpg?w=1024",
+      "published_iso": "2026-11-17T07:40:47-08:00",
+      "excerpt": "Premiere 2027's new color tools shipped without a shot match, but the AI Assistant (beta) fills the gap: ask it to match one shot to the next, or paste in a still and apply that look across the entire sequence.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/color-matching-with-the-ai-assistant.png",
       "history_match": {
-        "score": 0.424,
+        "score": 0.281,
         "date": "2026-11-11",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/",
-        "title": "Tilly Norwood Creator's New Project? An AI Talking-Dog Movie With the Co-Director of 'The Lion King' (Video)",
-        "band": "likely-repeat"
+        "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
+        "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
+        "band": "related"
       }
     },
     {
@@ -91,10 +86,10 @@
       "source": "TechNode",
       "category": "movies",
       "published_iso": "2026-11-17T07:09:43+00:00",
-      "excerpt": "Analysis (republished from TechNode's Jumpstart) of how Kuaishou is betting bigger on its Kling video model, with a Hong Kong IPO angle, after OpenAI shut down Sora.",
+      "excerpt": "After OpenAI shut down Sora, Kuaishou's Kling has become the video model directors like Jason Zada build with, and the company is now preparing a Hong Kong IPO priced on the creator business it built.",
       "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/11/kling-hong-kong-ipo-no-16.png?fit=1774%2C887&ssl=1",
       "history_match": {
-        "score": 0.187,
+        "score": 0.201,
         "date": "2026-11-16",
         "url": "https://www.youtube.com/watch?v=sh4bkvZQ1WE",
         "title": "We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close",
@@ -102,131 +97,99 @@
       }
     },
     {
-      "title": "ByteDance opens Seedance 2.5's 4K video generation API to developers",
-      "url": "https://technode.com/2026/11/17/bytedance-opens-seedance-2-5s-4k-video-generation-api-to-developers/",
-      "source": "TechNode",
+      "title": "부산AI영화학교 2기 성료…교육생 20명, AI영상 14편 제작",
+      "url": "https://www.news1.kr/local/busan-gyeongnam/6361045",
+      "source": "뉴스1",
       "category": "movies",
-      "published_iso": "2026-11-17T06:28:41+00:00",
-      "excerpt": "ByteDance's Volcano Engine opened API access to the 4K version of its Seedance 2.5 video model, widening production-grade resolution access for developers and creative tools.",
-      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
-      "history_match": {
-        "score": 0.42,
-        "date": "2026-11-14",
-        "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
-        "title": "ByteDance Releases Seedance 2.5 Flash, a Faster Video Model Priced About 34% Below Seedance 2.5",
-        "band": "likely-repeat"
-      }
+      "published_iso": "2026-11-20T15:05:11+09:00",
+      "excerpt": "말 소재 영상·광고·뮤직비디오 제작…창작 역량 강화 AI영상 창작 생태계 위해 한국마사회 5000만 원 후원 한국마사회 렛츠런파크 부산경남의 지원으로 운영된 '부산AI영화학교 2기-AI콘텐츠 제작 워크숍'이 교육생 20명의 참여 속에 총 14편의 인공지능(AI) 영상콘텐 …",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/20/8225203/high.jpg"
     },
     {
-      "title": "Hudson AI bets on dubbing quality to take K-content abroad",
-      "url": "https://www.kentertechhub.com/icnx-hudson-ai-dubbing-en/",
-      "source": "K-EnterTech Hub",
+      "title": "AI로 만든 1분 영화 19편, 첫 '온에어 어워즈'서 빛났다",
+      "url": "https://www.news1.kr/local/gwangju-jeonnam/6359050",
+      "source": "뉴스1",
       "category": "movies",
-      "published_iso": "2026-11-19T04:16:05.000Z",
-      "excerpt": "Hudson AI CEO Shin Hyun-jin said at ICNX 2026 that dubbing costs 10x subtitles; after Amazon's AI-dub backlash the company is building an agentic workflow to cut human QC while holding quality.",
-      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/4o0qou_202611191225.jpg"
+      "published_iso": "2026-11-19T09:41:56+09:00",
+      "excerpt": "광주온에어스테이션 성과 공유 상영·시상식 개최 총 133명 교육 참여, 대상에 김예지씨 '악몽청소부' (재)광주정보문화산업진흥원은 AI 영상 제작 교육 수강생들의 작품을 선보이는 '2026 온에어 어워즈'를 개최했다고 19일 밝혔다.지난 12일 광주CGI센터 온에 …",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg"
     },
     {
-      "title": "Hollywood Is in Love With AI. Gen Z Has a Far Messier Relationship",
-      "url": "https://www.thewrap.com/industry-news/tech/gen-z-hollywood-ai-opposition-films/",
-      "source": "TheWrap",
+      "title": "배우 없이 만든 중국 첫 AI 영화, 흥행 참패…3주간 3.6억원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217460",
+      "source": "AI타임스",
       "category": "movies",
-      "published_iso": "2026-11-19T14:00:00+00:00",
-      "excerpt": "While studios embrace AI, younger audiences who use AI daily show notable opposition to its use in films and entertainment.",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1024&height=576&fit=bounds"
+      "published_iso": "2026-11-16T16:36:38+09:00",
+      "excerpt": "중국 최초의 AI 생성 장편 영화가 극장 흥행에 실패했다. 배우와 실사 촬영 없이 제작했다는 기술적 성과에도 불구하고 어색한 표정과 장면 간 시각적 불일치, 매끄",
+      "og_image": "https://cdn.aitimes.com/news/photo/202611/217460_221726_369.png"
     },
     {
-      "title": "Christopher Hampton Calls AI Just \"a Super Google\" at Tallinn Masterclass",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060/",
-      "source": "The Hollywood Reporter",
+      "title": "배우도 촬영장도 필요 없다⋯ AI 드라마, 숏폼 넘어 빠르게 확산",
+      "url": "https://www.kmib.co.kr/article/20261120500749",
+      "source": "국민일보",
       "category": "movies",
-      "published_iso": "2026-11-16T16:27:30+00:00",
-      "excerpt": "The two-time Oscar-winning screenwriter told Tallinn's PÖFF that writing a script with AI's help is 'choosing something easy', and that he doesn't believe AI will replace screenwriters.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1"
+      "published_iso": "2026-11-21T00:04:37+09:00",
+      "excerpt": "인공지능(AI)으로 제작한 드라마가 유튜브와 소셜미디어를 넘어 전용 플랫폼으로 영역을 넓히고 있다. 화려한 영상과 빠른 전개를 앞세운 AI 숏폼 드라마가 인기를 끄는 가운데 국내에서도 독자적인 줄거리를 갖춘 작품들이 등장하고 있다. 방송사까지 드라마 제작에 AI 기술을",
+      "og_image": "https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/20/.cache/512/20261120500751.jpg"
     },
     {
-      "title": "[REVIEW] AI movie 'Raphael' impresses visually, lacks fresh plot",
-      "url": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
-      "source": "The Korea Times",
+      "title": "[인터뷰] ‘아이리스’ 작가의 AI 드라마 도전기… “창작자 ‘안목’이 경쟁력될 것”",
+      "url": "https://biz.chosun.com/topics/topics_social/2026/11/23/SNBWQ277SFFHLIN3OCBYD7XY2A/",
+      "source": "조선비즈",
       "category": "movies",
-      "published_iso": "2026-11-16T08:18:03.000Z",
-      "excerpt": "Review of MBC C&I's generative-AI sci-fi feature 'Raphael' ahead of its Nov. 25 release: the AI visuals push the technology to its limits but the story feels familiar.",
-      "og_image": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg"
+      "published_iso": "2026-11-20T06:03:59.324Z",
+      "excerpt": "인터뷰 아이리스 작가의 AI 드라마 도전기 창작자 안목이 경쟁력될 것 AI 웹드라마 4편 제작 조규원 작가 제작비 줄고 다양한 장르 가능해 해외 시장 진출 가능성도 커질 것",
+      "og_image": "https://biz.chosun.com/resizer/v2/D6D7GK6HRNERPPG3ZMKNMF7XYA.jpg?auth=f5f9d73ab2e9e1c45179c4d2cf606139f37d628a6b7b2a493b9a535f400a0f38&width=1200&height=630&smart=true"
     },
     {
-      "title": "GetBackers \"comic anime\" series reboot draws criticism over suspected generative AI use in trailer",
-      "url": "https://automaton-media.com/en/news/getbackers-comic-anime-series-reboot-draws-criticism-over-suspected-generative-ai-use-in-trailer/",
-      "source": "AUTOMATON",
+      "title": "제44회 부산국제단편영화제, '인공지능(AI)경쟁' 신설... 단편영화의 새로운 장을 연다",
+      "url": "http://www.indifocus.kr/84113",
+      "source": "인디포커스",
       "category": "movies",
-      "published_iso": "2026-11-19T10:00:00+00:00",
-      "excerpt": "Fans flagged suspected gen-AI in the trailer for the GetBackers motion-comic reboot, and the manga's original artist reportedly learned of the project only a week before announcement.",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261119-75470-001.jpg"
+      "published_iso": "2026-11-17T14:56:00+09:00",
+      "excerpt": "부산국제단편영화제(BISFF)가 2027년 4월 열리는 제44회 영화제의 인공지능(AI)경쟁 부문 출품 공모를 지난 11월 9일(월)부터 시작했다. AI경쟁은 제44회에서",
+      "og_image": "https://www.indifocus.kr/data/jmbc_tv/mainimages/202611/250_333_2026111756577477.jpg"
     },
     {
-      "title": "Tool Tip Tuesday for Adobe Premiere: Color Matching with the AI Assistant (Beta)",
-      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-color-matching-with-the-ai-assistant-beta/",
-      "source": "ProVideo Coalition",
+      "title": "Can Dubai’s $1 Million AI Film Award Help AI Cinema Be Taken Seriously?",
+      "url": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
+      "source": "WIRED Middle East",
       "category": "movies",
-      "published_iso": "2026-11-17T07:40:47-08:00",
-      "excerpt": "Hands-on walkthrough of shot-to-shot color matching using the new AI Assistant (beta) in Adobe Premiere 2027.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/color-matching-with-the-ai-assistant.png",
-      "history_match": {
-        "score": 0.344,
-        "date": "2026-11-11",
-        "url": "https://www.redsharknews.com/adobe-max-2026-premiere-color-mode-mcp",
-        "title": "Adobe MAX 2026 Premiere updates: Color Mode, MCP",
-        "band": "related"
-      }
+      "published_iso": "2026-11-18T05:30:00.000Z",
+      "excerpt": "As Dubai’s AI Film Award returns for its second edition, the region bears witness to what happens when an AI film prize starts being taken seriously.",
+      "og_image": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/191:100/w_1280,c_limit/Cinema_lead.jpg"
+    },
+    {
+      "title": "EBS AI 역사 애니 ‘덩이랑 쾡이랑 인물 한국사’ 화제",
+      "url": "https://www.kidshankook.kr/news/articleView.html?idxno=18849",
+      "source": "소년한국일보",
+      "category": "movies",
+      "published_iso": "2026-11-20T06:47:16+09:00",
+      "excerpt": "자극적인 숏폼과 유튜브 영상이 넘쳐나는 시대, 어린이들에게 어떤 콘텐츠를 보여줘야 할지 고민하는 학부모들 사이에서 주목받는 프로그램이 있다. 지난 9월 EBS가 새롭게 선보인 어린이 AI 역사 애니메이션 ‘덩이랑 쾡이랑 인물 한국사’다. 생성형 인공지능(AI) 기술을 활용해 우리 역사의 주요 인물들을 생생한 드라마로 만나는 프로그램으로, 박물관에서 깨어난 신라 토우 ‘덩이’와 ‘쾡이’가 유물을 통해 과거로 시간 여행을 떠나 역사 속 인물들을 만나는 흥미로운 설정으로 호기심을 자극한다. 세종대왕 1부 영상의 경우 EBS 누리집 다시보",
+      "og_image": "https://cdn.kidshankook.kr/news/thumbnail/202611/18849_47126_3047_v150.jpg"
+    },
+    {
+      "title": "태국 포탈 엔터테인먼트, AI 숏폼 드라마 앱 SiamSun 공개…AI 배우도 개발",
+      "url": "https://www.topcelev.co.kr/news/articleView.html?idxno=4219",
+      "source": "톱셀럽뉴스",
+      "category": "movies",
+      "published_iso": "2026-11-17T20:31:38+09:00",
+      "excerpt": "스마트폰 화면에 맞춘 세로형 숏폼 드라마 시장이 커지면서 제작 과정에 생성형 AI를 투입하는 사업자가 아시아 각국에서 늘고 있다. 태국 경제매체 브랜드 인사이드(Brand Inside)가 태국 무역정책전략사무소 자료를 인용해 전한 바에 따르면 세계 세로형 드라마 시장은 2025년 37",
+      "og_image": "https://cdn.topcelev.co.kr/news/thumbnail/202611/4219_4027_5911_v150.jpg"
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 15,
+    "dropped": 2,
+    "kept": 17,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
-    "same_story_pairs": [
-      [
-        "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
-        "https://www.thewrap.com/creative-content/movies/david-fincher-cliff-booth-ai-criticism/",
-        0.492
-      ],
-      [
-        "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/",
-        "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/",
-        0.591
-      ]
-    ]
+    "review": 3,
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-23",
-      "title": "Stage 32 Launches Marketplace To Combat AI Slop",
-      "url": "https://deadline.com/2026/10/stage-32-marketplace-combat-ai-slop-projects-1237170475/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "'Nothing Hides on a Cinema Screen': Jo Plaete Talks Brahma AI's Emmy-Winning Face Replacement Tech",
-      "url": "https://www.awn.com/vfxworld/nothing-hides-cinema-screen-jo-plaete-talks-brahma-ais-emmy-winning-face-replacement-tech"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "China's first fully AI-generated feature film to hit cinemas on Friday",
-      "url": "https://www.globaltimes.cn/page/202610/1372724.shtml"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "'The Hunger Games' Producer Nina Jacobson Talks Using AI to Test ADR Lines Before Recording with Actors",
-      "url": "https://www.indiewire.com/news/events/hunger-games-sunrise-on-the-reaping-used-ai-adr-1235223271/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "This FREE AI Previz Tool is Awesome & a Secret Video Model!",
-      "url": "https://www.youtube.com/watch?v=qlSI_ZbRdEc"
-    },
     {
       "date": "2026-10-24",
       "title": "'Wildwood' Director Hopes People \"See The Danger\" In GenAI",
@@ -886,6 +849,31 @@
       "date": "2026-11-21",
       "title": "'Crazy Rich Asians' producer John Penotti working on global AI certification standard with Qatar's Film Committee",
       "url": "https://www.screendaily.com/news/global-ai-certification-standard-in-development-by-qatars-film-committee-john-penotti/5222615.article"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
+      "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "CAA's Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes",
+      "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Christopher Hampton Calls AI Just \"a Super Google\" at Tallinn Masterclass",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060/"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "[REVIEW] AI movie 'Raphael' impresses visually, lacks fresh plot",
+      "url": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Hollywood Is in Love With AI. Gen Z Has a Far Messier Relationship",
+      "url": "https://www.thewrap.com/industry-news/tech/gen-z-hollywood-ai-opposition-films/"
     }
   ]
 }

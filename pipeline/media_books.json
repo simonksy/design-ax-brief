@@ -1,30 +1,7 @@
-{
-  "date": "2026-11-22",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-tor-crown-cover",
-      "type": "image",
-      "src": "pipeline/media/books-tor-crown-cover.jpg"
-    },
-    {
-      "id": "books-carlson-selfhelp-suit",
-      "type": "svg"
-    },
-    {
-      "id": "books-not-ais-to-take",
-      "type": "image",
-      "src": "pipeline/media/books-not-ais-to-take.png"
-    },
-    {
-      "id": "books-namoo-memoir-app",
-      "type": "image",
-      "src": "pipeline/media/books-namoo-memoir-app.jpg"
-    },
-    {
-      "id": "books-guardian-wild-west",
-      "type": "image",
-      "src": "pipeline/media/books-guardian-wild-west.jpg"
-    }
-  ]
-}
+{"date":"2026-11-23","section":"books","media":[
+{"id":"publishing-act-ai-consent-bill","type":"image","src":"pipeline/media/publishing-act-ai-consent-bill.jpg"},
+{"id":"ihe-journal-ai-review-prompts","type":"image","src":"pipeline/media/ihe-journal-ai-review-prompts.jpg"},
+{"id":"godel-notebooks-ai-transcription","type":"image","src":"pipeline/media/godel-notebooks-ai-transcription.jpg"},
+{"id":"inkflock-webnovel-localization","type":"video","src":"pipeline/media/inkflock-webnovel-localization.mp4","poster":"pipeline/media/inkflock-webnovel-localization.jpg"},
+{"id":"bookseller-audio-content-inflation","type":"image","src":"pipeline/media/bookseller-audio-content-inflation.jpg"}
+]}

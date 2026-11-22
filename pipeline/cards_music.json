@@ -1,299 +1,17 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "music",
   "cards": [
     {
-      "id": "music-instagram-content-protection",
+      "id": "travis-tritt-ai-deepfake-clip",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Instagram 재게시·\nAI-modified 감지",
-      "body": "Instagram이 Reels 무단 재게시와 AI-modified 사본을 감지한다.",
-      "mini_headline": "Instagram, AI-modified Reels 감지",
+      "headline": "Travis Tritt,\nSwift AI 영상 부인",
+      "body": "Tritt은 CMAs의 Swift 편중을 꼬집은 영상은 AI-made 가짜라 했다.",
+      "mini_headline": "Tritt, 가짜 AI 영상 부인",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/20/instagram-launches-content-protection-tool-for-unauthorised-reposts-and-ai-modification/",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-            "cap": "Iphone 화면에 띄운 Instagram 콘텐츠 보호(content protection) 기능"
-          },
-          {
-            "t": "p",
-            "x": "Meta가 지난해 Facebook에 선보인 ‘콘텐츠 보호(content protection)’ 도구가 Instagram에도 들어온다. 다른 사용자가 계정의 오리지널 Reels를 허락 없이 다시 올리면 이를 잡아낸다. Instagram은 감지 범위를 AI-generated 콘텐츠까지 넓히는 중이다."
-          },
-          {
-            "t": "p",
-            "x": "도구는 Instagram에서 등록 계정의 Reels 사본을 찾다가 일치하는 게시물이 나오면 알려 준다. 소유자는 Instagram과 Facebook에서 사본을 막거나 시청자를 원본으로 이끄는 ‘original by’ 라벨을 붙인다. 사본을 그대로 두고 성과를 지켜보거나 권리 주장을 거둘 수도 있다. 계정을 등록하면 새로 올리는 영상은 자동으로 보호된다. 예전 Reels는 직접 추가하면 된다."
-          },
-          {
-            "t": "p",
-            "x": "기사 나머지는 Music Ally 계정이 있어야 읽을 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Instagram flags reposts\nand AI-modified Reels",
-          "body": "Instagram's content protection detects unauthorised reposts of creators' Reels and is expanding to AI-modified copies.",
-          "mini_headline": "Instagram flags AI-modified Reels",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Instagram content protection screenshots on Iphone"
-              },
-              {
-                "t": "p",
-                "x": "Instagram is rolling out “content protection”, a tool Meta launched on Facebook last year. It detects when an account’s original Reels are reposted by other users without permission. Instagram is also extending it to AI-generated content."
-              },
-              {
-                "t": "p",
-                "x": "The tool scans Instagram for copies of an enrolled account’s Reels and sends an alert when it finds a match. The owner can then block the copy on Instagram and Facebook, or add an “original by” label linking viewers back to the original. They can also leave it up and track how it performs, or release the claim. Once an account is enrolled, new uploads are covered automatically, and older Reels can be added manually."
-              },
-              {
-                "t": "p",
-                "x": "The rest of the article is available to Music Ally account holders."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Instagram 재게시·\nAI-modified 감지",
-          "body": "Instagram이 Reels 무단 재게시와 AI-modified 사본을 감지한다.",
-          "mini_headline": "Instagram, AI-modified Reels 감지",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Iphone 화면에 띄운 Instagram 콘텐츠 보호(content protection) 기능"
-              },
-              {
-                "t": "p",
-                "x": "Meta가 지난해 Facebook에 선보인 ‘콘텐츠 보호(content protection)’ 도구가 Instagram에도 들어온다. 다른 사용자가 계정의 오리지널 Reels를 허락 없이 다시 올리면 이를 잡아낸다. Instagram은 감지 범위를 AI-generated 콘텐츠까지 넓히는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "도구는 Instagram에서 등록 계정의 Reels 사본을 찾다가 일치하는 게시물이 나오면 알려 준다. 소유자는 Instagram과 Facebook에서 사본을 막거나 시청자를 원본으로 이끄는 ‘original by’ 라벨을 붙인다. 사본을 그대로 두고 성과를 지켜보거나 권리 주장을 거둘 수도 있다. 계정을 등록하면 새로 올리는 영상은 자동으로 보호된다. 예전 Reels는 직접 추가하면 된다."
-              },
-              {
-                "t": "p",
-                "x": "기사 나머지는 Music Ally 계정이 있어야 읽을 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Instagram、転載と\nAI-modifiedを検知",
-          "body": "InstagramはReelsの無断転載を検知し、AI-modified複製にも広げる。",
-          "mini_headline": "Instagram、AI-modified Reelsを検知",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Iphoneに表示したInstagramの「コンテンツ保護（content protection）」画面"
-              },
-              {
-                "t": "p",
-                "x": "Instagramは、Metaが昨年Facebookで導入したツール「コンテンツ保護（content protection）」の提供を始めている。アカウントのオリジナルReelsが他のユーザーに無断で再投稿されたことを検知する仕組みだ。InstagramはこれをAI-generatedコンテンツにも広げている。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは登録アカウントのReelsの複製をInstagram上で探し、一致するものを見つけると通知を送る。所有者はInstagramとFacebookで複製をブロックするか、視聴者を元の投稿へ導く「original by」ラベルを付けられる。複製をそのまま残して反応を追跡することも、権利の主張を取り下げることもできる。アカウントを登録すると新たなアップロードは自動で対象となり、過去のReelsは手動で追加できる。"
-              },
-              {
-                "t": "p",
-                "x": "記事の続きはMusic Allyのアカウント保有者が閲覧できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Instagram标记转发\n与AI-modified视频",
-          "body": "Instagram内容保护可识别Reels遭擅自转发，并扩展至AI-modified副本。",
-          "mini_headline": "Instagram标记AI-modified Reels",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Iphone上的Instagram“内容保护”（content protection）截图"
-              },
-              {
-                "t": "p",
-                "x": "Instagram正在推出“内容保护”（content protection）功能，这是Meta去年在Facebook上推出的工具。它能识别账号的原创Reels在未经许可的情况下被其他用户转发。Instagram还将其扩展到AI-generated内容。"
-              },
-              {
-                "t": "p",
-                "x": "该工具会在Instagram上搜索已登记账号的Reels副本，发现匹配内容时发送提醒。所有者随后可以在Instagram和Facebook上屏蔽副本，或添加“original by”标签，引导观众回到原作。他们也可以保留副本并追踪其表现，或放弃权利主张。账号登记后，新上传内容会自动纳入保护，旧的Reels可以手动添加。"
-              },
-              {
-                "t": "p",
-                "x": "文章其余内容仅向Music Ally账号持有者开放。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Instagram detecta resubidas\ny Reels AI-modified",
-          "body": "La protección de contenido de Instagram detecta resubidas no autorizadas de Reels y se amplía a copias AI-modified.",
-          "mini_headline": "Instagram detecta Reels AI-modified",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Capturas de la protección de contenido (content protection) de Instagram en un Iphone"
-              },
-              {
-                "t": "p",
-                "x": "Instagram está desplegando la “protección de contenido” (content protection), una herramienta que Meta lanzó en Facebook el año pasado. Detecta cuándo otros usuarios vuelven a publicar sin permiso los Reels originales de una cuenta. Instagram también la está ampliando al contenido AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta rastrea Instagram en busca de copias de los Reels de una cuenta inscrita y envía una alerta cuando encuentra una coincidencia. El titular puede bloquear la copia en Instagram y Facebook, o añadir una etiqueta “original by” que remite a los espectadores al original. También puede mantenerla publicada y seguir su rendimiento, o renunciar a la reclamación. Una vez inscrita la cuenta, las nuevas publicaciones quedan cubiertas automáticamente, y los Reels anteriores pueden añadirse de forma manual."
-              },
-              {
-                "t": "p",
-                "x": "El resto del artículo está disponible para quienes tienen cuenta en Music Ally."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Instagram 재게시·\nAI-modified 감지",
-          "body": "Instagram이 Reels 무단 재게시와 AI-modified 사본을 감지한다.",
-          "mini_headline": "Instagram, AI-modified Reels 감지",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Iphone 화면에 띄운 Instagram 콘텐츠 보호(content protection) 기능"
-              },
-              {
-                "t": "p",
-                "x": "Instagram이 Meta가 지난해 Facebook에 선보인 도구 ‘콘텐츠 보호(content protection)’를 도입한다. 이 도구는 계정의 오리지널 Reels를 다른 사용자가 허락 없이 재게시하면 이를 감지한다. Instagram은 이 기능을 AI-generated 콘텐츠로도 넓히고 있다."
-              },
-              {
-                "t": "p",
-                "x": "도구는 Instagram에서 등록된 계정의 Reels 사본을 찾다가 일치하는 게시물이 나오면 알림을 보낸다. 소유자는 Instagram과 Facebook에서 사본을 차단하거나, 시청자를 원본으로 안내하는 ‘original by’ 라벨을 붙일 수 있다. 사본을 그대로 두고 성과를 지켜보거나 권리 주장을 거둘 수도 있다. 계정을 등록하면 새로 올리는 영상은 자동으로 보호되고, 예전 Reels는 직접 추가할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "기사의 나머지 내용은 Music Ally 계정 보유자에게 공개된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Instagram、転載と\nAI-modifiedを検知",
-          "body": "InstagramはReelsの無断転載を検知し、AI-modified複製にも広げる。",
-          "mini_headline": "Instagram、AI-modified Reelsを検知",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Iphoneに表示したInstagramの「コンテンツ保護（content protection）」画面"
-              },
-              {
-                "t": "p",
-                "x": "Instagramは、Metaが昨年Facebookで導入したツール「コンテンツ保護（content protection）」の提供を始めている。アカウントのオリジナルReelsが他のユーザーに無断で再投稿されたことを検知する仕組みだ。InstagramはこれをAI-generatedコンテンツにも広げている。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは登録アカウントのReelsの複製をInstagram上で探し、一致するものを見つけると通知を送る。所有者はInstagramとFacebookで複製をブロックするか、視聴者を元の投稿へ導く「original by」ラベルを付けられる。複製をそのまま残して反応を追跡することも、権利の主張を取り下げることもできる。アカウントを登録すると新たなアップロードは自動で対象となり、過去のReelsは手動で追加できる。"
-              },
-              {
-                "t": "p",
-                "x": "記事の続きはMusic Allyのアカウント保有者が閲覧できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Instagram标记转发\n与AI-modified视频",
-          "body": "Instagram内容保护可识别Reels遭擅自转发，并扩展至AI-modified副本。",
-          "mini_headline": "Instagram标记AI-modified Reels",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Iphone上的Instagram“内容保护”（content protection）截图"
-              },
-              {
-                "t": "p",
-                "x": "Instagram正在推出“内容保护”（content protection）功能，这是Meta去年在Facebook上推出的工具。它能识别账号的原创Reels在未经许可的情况下被其他用户转发。Instagram还将其扩展到AI-generated内容。"
-              },
-              {
-                "t": "p",
-                "x": "该工具会在Instagram上搜索已登记账号的Reels副本，发现匹配内容时发送提醒。所有者随后可以在Instagram和Facebook上屏蔽副本，或添加“original by”标签，引导观众回到原作。他们也可以保留副本并追踪其表现，或放弃权利主张。账号登记后，新上传内容会自动纳入保护，旧的Reels可以手动添加。"
-              },
-              {
-                "t": "p",
-                "x": "文章其余内容仅向Music Ally账号持有者开放。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Instagram detecta resubidas\ny Reels AI-modified",
-          "body": "La protección de contenido de Instagram detecta resubidas no autorizadas de Reels y se amplía a copias AI-modified.",
-          "mini_headline": "Instagram detecta Reels AI-modified",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-58.png",
-                "cap": "Capturas de la protección de contenido (content protection) de Instagram en un Iphone"
-              },
-              {
-                "t": "p",
-                "x": "Instagram está desplegando la “protección de contenido” (content protection), una herramienta que Meta lanzó en Facebook el año pasado. Detecta cuándo otros usuarios vuelven a publicar sin permiso los Reels originales de una cuenta. Instagram también la está ampliando al contenido AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta rastrea Instagram en busca de copias de los Reels de una cuenta inscrita y envía una alerta cuando encuentra una coincidencia. El titular puede bloquear la copia en Instagram y Facebook, o añadir una etiqueta “original by” que remite a los espectadores al original. También puede mantenerla publicada y seguir su rendimiento, o renunciar a la reclamación. Una vez inscrita la cuenta, las nuevas publicaciones quedan cubiertas automáticamente, y los Reels anteriores pueden añadirse de forma manual."
-              },
-              {
-                "t": "p",
-                "x": "El resto del artículo está disponible para quienes tienen cuenta en Music Ally."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "mooer-future-flex-modeler",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 품은 Mooer\nFuture Flex 출시",
-      "body": "Future Flex는 앰프 55종·효과 69종·AI 톤·NAM A2를 지원한다.",
-      "mini_headline": "Mooer의 AI 앰프 모델러",
-      "tool": "Music",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex",
+      "source": "American Songwriter",
+      "url": "https://americansongwriter.com/travis-tritt-slams-obviously-fake-ai-video-that-appeared-to-show-him-criticizing-taylor-swift-at-the-cmas/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -301,209 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-            "cap": "Mooer Future Flex 앰프 모델러 (Image credit: Mooer)"
+            "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
           },
           {
             "t": "p",
-            "x": "Mooer가 Future Flex로 앰프 모델러를 새롭게 풀어냈다. 앰프 모델 55종, 이펙트 69종, 풋스위치 네 개, 내장 스피커, AI 톤 어시스턴트를 기본으로 갖췄고 NAM A2 호환 덕에 무료 톤 수천 개를 더 쓸 수 있다. 드럼 머신과 루퍼, 가운데의 1.28인치 원형 터치스크린도 들어갔다."
+            "x": "Travis Tritt이 직접 해명에 나섰다. 최근 CMA Awards가 Taylor Swift에게만 초점을 맞췄다며 그가 비판하는 듯한 영상이 퍼지자, Tritt은 X에 영상 속 인물은 자기가 아니고 AI가 만든 것이라고 적었다."
           },
           {
             "t": "p",
-            "x": "Mooer StemLab에서 출발한 Future Flex는 모든 것을 한 상자에 담았다. “케이블 연결에 지친 연주자를 위해 만들었다”는 설명이다. 기기의 거의 모든 기능은 전용 모바일 앱에서 설정한다. 2.2인치 Hi-Fi 스피커 두 개가 15-watts 스테레오 출력을 내며 48볼트 팬텀 전원을 지원하는 XLR 입력도 있다. 프리셋 슬롯은 80개, 서드파티 Impulse Responses용 슬롯은 10개다. 배터리는 최대 여섯 시간 가고 무게는 1.2 kg이다."
+            "x": "“최근 CMA Awards 시상식에 대해 내가 논평했다는 영상들은 모두 명백한 가짜이며 AI로 만들어진 것이다.” 그는 이렇게 쓴 뒤 “완전히 무시해 달라”고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "중심에는 AI가 있다. StemLab과 같은 스템 분리 기술에, 사용자가 입력한 프롬프트로 이펙트 체인 전체를 꾸리는 AI 톤 생성 기능을 더했다. NAM A2 통합으로 TONE3000 생태계의 차세대 앰프 모델 수천 개도 불러온다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-            "cap": "Mooer Future Flex 앰프 모델러 (Image credit: Mooer)"
+            "x": "가짜로 보이는 영상 속 Tritt 닮은 인물은 시상식에서 기록적인 수의 상을 휩쓴 Ella Langley를 제쳐 두고 Swift만 비췄다며 “CMA를 운영하는 멍청이들”을 비난했다. Sammy Kershaw가 처음에 레드카펫 입장을 거부당한 일도 영상에 나온다."
           },
           {
             "t": "p",
-            "x": "Mooer Future Flex는 지금 £199에 판매 중이다(공식 US 가격은 아직 정해지지 않았다). 마감은 Snowfall White와 Phantom Black 두 가지다."
+            "x": "Tritt이 AI 문제로 목소리를 낸 건 처음이 아니다. October 2025 게시물에서도 “나를 포함한 공인을 사칭하는 AI-generated 콘텐츠가 우려스러울 만큼 늘고 있다”고 지적했고 “AI 기술 탓에 악의적인 이들이 사람의 목소리, 얼굴, 행동을 사실적으로 흉내 내기가 그 어느 때보다 쉬워졌다”고 경고했다."
+          },
+          {
+            "t": "p",
+            "x": "“내 공식 채널이나 신뢰할 수 있는 출처에서 나온 것이 아니라면, 그건 진짜 내가 아니다.” 그는 이렇게 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mooer Future Flex puts AI\ninto an all-in-one modeler",
-          "body": "Future Flex packs 55 amp models, 69 effects, a built-in speaker, an AI tone assistant and NAM A2 compatibility.",
-          "mini_headline": "Mooer's AI amp modeler",
+          "headline": "Travis Tritt disowns viral\nAI clip about Taylor Swift",
+          "body": "Travis Tritt says a viral clip of him bashing the CMAs' Taylor Swift focus was AI-made.",
+          "mini_headline": "Tritt disowns fake AI clip",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Mooer Future Flex amp modeler (Image credit: Mooer)"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "Mooer has taken a novel approach to the amp modeler concept with the Future Flex. Fundamentally, it offers 55 amp models, 69 effects, four footswitches, a built-in speaker, an AI tone assistant and NAM A2 compatibility, unlocking thousands more free-to-use tones. Add in a drum machine, looper, and a rounded 1.28” touchscreen at its center."
+                "x": "Travis Tritt is setting the record straight. After a video that appeared to show the singer bashing the recent CMA Awards’ focus on Taylor Swift went viral, Tritt took to X to insist that the clip was not him, but rather AI generated."
               },
               {
                 "t": "p",
-                "x": "Building off Mooer’s StemLab, the Future Flex is “built for players tired of cabling” by keeping everything in one box. A companion mobile app can configure just about everything it can do. Dual 2.2” Hi-Fi speakers pack 15-watts of stereo output, and there’s an XLR input with 48 volts of phantom power. There are 80 preset slots and 10 slots for third-party Impulse Responses; the battery runs up to six hours, and it weighs 1.2 kg."
+                "x": "“Any recent videos of me supposedly commenting on the latest CMA Awards show are obviously fake and created using AI,” he wrote. “Disregard them completely.”"
               },
               {
                 "t": "p",
-                "x": "AI is a big feature here: the same stem separation tech found in the StemLab, as well as AI tone generation for curating a full effects chain from user-entered prompts. The NAM A2 integration gives access to thousands of next-gen amp models through the TONE3000 ecosystem."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Mooer Future Flex amp modeler (Image credit: Mooer)"
+                "x": "In the supposedly fake video, the figure who appeared to be Tritt slammed “the idiots running the CMA” for focusing on Swift instead of Ella Langley, who won a record number of awards during the ceremony. The clip also referenced Sammy Kershaw initially being denied access to the red carpet."
               },
               {
                 "t": "p",
-                "x": "The Mooer Future Flex is available now for £199 (an official US price is yet to be confirmed) in Snowfall White and Phantom Black finishes."
+                "x": "This isn’t the first time that Tritt has spoken out about AI. In an October 2025 post, he addressed the “concerning rise in AI-generated content that impersonates public figures, including myself,” warning that “AI technology has made it easier than ever for malicious actors to create realistic simulations of people’s voices, faces, and actions.”"
+              },
+              {
+                "t": "p",
+                "x": "“If it doesn’t come from my official channels or trusted sources, it’s not truly me,” he wrote."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 품은 Mooer\nFuture Flex 출시",
-          "body": "Future Flex는 앰프 55종·효과 69종·AI 톤·NAM A2를 지원한다.",
-          "mini_headline": "Mooer의 AI 앰프 모델러",
+          "headline": "Travis Tritt,\nSwift AI 영상 부인",
+          "body": "Tritt은 CMAs의 Swift 편중을 꼬집은 영상은 AI-made 가짜라 했다.",
+          "mini_headline": "Tritt, 가짜 AI 영상 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Mooer Future Flex 앰프 모델러 (Image credit: Mooer)"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "Mooer가 Future Flex로 앰프 모델러를 새롭게 풀어냈다. 앰프 모델 55종, 이펙트 69종, 풋스위치 네 개, 내장 스피커, AI 톤 어시스턴트를 기본으로 갖췄고 NAM A2 호환 덕에 무료 톤 수천 개를 더 쓸 수 있다. 드럼 머신과 루퍼, 가운데의 1.28인치 원형 터치스크린도 들어갔다."
+                "x": "Travis Tritt이 직접 해명에 나섰다. 최근 CMA Awards가 Taylor Swift에게만 초점을 맞췄다며 그가 비판하는 듯한 영상이 퍼지자, Tritt은 X에 영상 속 인물은 자기가 아니고 AI가 만든 것이라고 적었다."
               },
               {
                 "t": "p",
-                "x": "Mooer StemLab에서 출발한 Future Flex는 모든 것을 한 상자에 담았다. “케이블 연결에 지친 연주자를 위해 만들었다”는 설명이다. 기기의 거의 모든 기능은 전용 모바일 앱에서 설정한다. 2.2인치 Hi-Fi 스피커 두 개가 15-watts 스테레오 출력을 내며 48볼트 팬텀 전원을 지원하는 XLR 입력도 있다. 프리셋 슬롯은 80개, 서드파티 Impulse Responses용 슬롯은 10개다. 배터리는 최대 여섯 시간 가고 무게는 1.2 kg이다."
+                "x": "“최근 CMA Awards 시상식에 대해 내가 논평했다는 영상들은 모두 명백한 가짜이며 AI로 만들어진 것이다.” 그는 이렇게 쓴 뒤 “완전히 무시해 달라”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "중심에는 AI가 있다. StemLab과 같은 스템 분리 기술에, 사용자가 입력한 프롬프트로 이펙트 체인 전체를 꾸리는 AI 톤 생성 기능을 더했다. NAM A2 통합으로 TONE3000 생태계의 차세대 앰프 모델 수천 개도 불러온다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Mooer Future Flex 앰프 모델러 (Image credit: Mooer)"
+                "x": "가짜로 보이는 영상 속 Tritt 닮은 인물은 시상식에서 기록적인 수의 상을 휩쓴 Ella Langley를 제쳐 두고 Swift만 비췄다며 “CMA를 운영하는 멍청이들”을 비난했다. Sammy Kershaw가 처음에 레드카펫 입장을 거부당한 일도 영상에 나온다."
               },
               {
                 "t": "p",
-                "x": "Mooer Future Flex는 지금 £199에 판매 중이다(공식 US 가격은 아직 정해지지 않았다). 마감은 Snowfall White와 Phantom Black 두 가지다."
+                "x": "Tritt이 AI 문제로 목소리를 낸 건 처음이 아니다. October 2025 게시물에서도 “나를 포함한 공인을 사칭하는 AI-generated 콘텐츠가 우려스러울 만큼 늘고 있다”고 지적했고 “AI 기술 탓에 악의적인 이들이 사람의 목소리, 얼굴, 행동을 사실적으로 흉내 내기가 그 어느 때보다 쉬워졌다”고 경고했다."
+              },
+              {
+                "t": "p",
+                "x": "“내 공식 채널이나 신뢰할 수 있는 출처에서 나온 것이 아니라면, 그건 진짜 내가 아니다.” 그는 이렇게 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mooerの一体型\nFuture FlexにAI",
-          "body": "Future Flexはアンプ55種、エフェクト69種、AIトーン、NAM A2対応だ。",
-          "mini_headline": "MooerのAIアンプモデラー",
+          "headline": "Travis Tritt\nSwift巡るAI動画を否定",
+          "body": "Trittは、CMAsのSwift偏重を批判する動画はAI-madeの偽物だと述べた。",
+          "mini_headline": "Tritt、偽AI動画を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Mooer Future Flexアンプモデラー（Image credit: Mooer）"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "MooerはFuture Flexで、アンプモデラーという概念に新しいアプローチを示した。基本構成はアンプモデル55種、エフェクト69種、フットスイッチ四つ、内蔵スピーカー、AIトーンアシスタント、NAM A2対応で、無料で使えるトーンを数千種類追加で利用できる。さらにドラムマシン、ルーパー、中央に配置された1.28インチの丸型タッチスクリーンも備える。"
+                "x": "Travis Trittが事実関係を正した。先日のCMA AwardsがTaylor Swiftに焦点を当てたことをこの歌手が批判しているように見える動画が拡散すると、TrittはXに投稿し、動画の人物は自分ではなくAIで生成されたものだと主張した。"
               },
               {
                 "t": "p",
-                "x": "MooerのStemLabを土台とするFuture Flexは、すべてを一つの筐体に収め、「ケーブル接続に疲れたプレイヤーのために作られた」。専用モバイルアプリで、ほぼすべての機能を設定できる。2.2インチのHi-Fiスピーカー二基が15-wattsのステレオ出力を持ち、48ボルトのファンタム電源に対応するXLR入力も備える。プリセットスロットは80、サードパーティ製Impulse Responses用スロットは10あり、バッテリーは最長六時間持ち、重さは1.2 kgだ。"
+                "x": "「最新のCMA Awardsについて私がコメントしたとされる最近の動画は、明らかに偽物でAIを使って作られたものだ」と彼は書き、「完全に無視してほしい」と続けた。"
               },
               {
                 "t": "p",
-                "x": "AIが大きな特徴だ。StemLabと同じステム分離技術に加え、ユーザーが入力したプロンプトからエフェクトチェーン全体を組み立てるAIトーン生成を搭載する。NAM A2との統合により、TONE3000エコシステムを通じて次世代アンプモデル数千種類にアクセスできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Mooer Future Flexアンプモデラー（Image credit: Mooer）"
+                "x": "偽物とみられるこの動画では、Trittらしき人物が、授賞式で記録的な数の賞を獲得したElla LangleyではなくSwiftに焦点を当てたとして「CMAを運営する愚か者たち」を非難していた。動画はSammy Kershawが当初レッドカーペットへの入場を拒否された件にも触れていた。"
               },
               {
                 "t": "p",
-                "x": "Mooer Future Flexは現在£199で販売中で（US向けの公式価格は未確定）、Snowfall WhiteとPhantom Blackの2色の仕上げがある。"
+                "x": "TrittがAIについて声を上げるのは今回が初めてではない。October 2025の投稿で彼は「私自身を含む著名人になりすますAI-generatedコンテンツの憂慮すべき増加」に言及し、「AI技術によって、悪意ある者が人の声や顔、行動をリアルに再現することがかつてないほど容易になった」と警告していた。"
+              },
+              {
+                "t": "p",
+                "x": "「私の公式チャンネルや信頼できる情報源から発信されたものでなければ、それは本当の私ではない」と彼は書いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mooer AI一体机\nFuture Flex登场",
-          "body": "Future Flex配备55种放大器模型、69种效果、AI音色助手和NAM A2兼容。",
-          "mini_headline": "Mooer的AI放大器模拟器",
+          "headline": "Travis Tritt\n否认Swift相关AI视频",
+          "body": "Tritt称，一段抨击CMAs聚焦Taylor Swift的热传视频系AI-made伪造。",
+          "mini_headline": "Tritt否认AI伪造视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Mooer Future Flex放大器模拟器（Image credit: Mooer）"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "Mooer借Future Flex以新颖的方式诠释了放大器模拟器这一概念。它基本配备55种放大器模型、69种效果、四个脚踏开关、内置扬声器、AI音色助手以及NAM A2兼容，可解锁数千种免费音色。此外还有鼓机、循环器，以及位于中央的1.28英寸圆形触摸屏。"
+                "x": "Travis Tritt出面澄清。一段看似这位歌手抨击近期CMA Awards过度聚焦Taylor Swift的视频走红后，Tritt在X上发文坚称，视频中的人并不是他，而是AI生成的。"
               },
               {
                 "t": "p",
-                "x": "Future Flex以Mooer的StemLab为基础，把一切集成在一个机身里，“为厌倦了接线的乐手打造”。配套手机应用几乎可以设置它的所有功能。两个2.2英寸Hi-Fi扬声器提供15-watts立体声输出，另有支持48伏幻象电源的XLR输入。机器有80个预设槽位和10个第三方Impulse Responses槽位；电池续航最长六小时，重量为1.2 kg。"
+                "x": "“最近任何声称我在评论最新一届CMA Awards颁奖礼的视频，显然都是假的，是用AI制作的，”他写道。“请完全无视。”"
               },
               {
                 "t": "p",
-                "x": "AI是一大亮点：它采用与StemLab相同的音轨分离技术，还提供AI音色生成，可根据用户输入的提示词搭建完整效果链。通过NAM A2集成，用户可经由TONE3000生态获取数千种新一代放大器模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Mooer Future Flex放大器模拟器（Image credit: Mooer）"
+                "x": "在这段疑似伪造的视频中，看似Tritt的人物痛斥“运营CMA的白痴们”只关注Swift，而忽视了在颁奖礼上获奖数创纪录的Ella Langley。视频还提到Sammy Kershaw起初被拒于红毯之外一事。"
               },
               {
                 "t": "p",
-                "x": "Mooer Future Flex现已上市，售价£199（US官方定价尚未确认），提供Snowfall White和Phantom Black两种外观。"
+                "x": "这并非Tritt首次就AI发声。在October 2025的一篇帖子中，他谈到“冒充包括我在内的公众人物的AI-generated内容正令人担忧地增多”，并警告说“AI技术让恶意行为者比以往任何时候都更容易逼真地模拟他人的声音、面孔和举动”。"
+              },
+              {
+                "t": "p",
+                "x": "“如果不是来自我的官方渠道或可信来源，那就不是真正的我，”他写道。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mooer Future Flex integra AI\nen un modelador todo en uno",
-          "body": "Future Flex reúne 55 modelos de amplificador, 69 efectos, altavoz, asistente de tono AI y compatibilidad NAM A2.",
-          "mini_headline": "El modelador de amplificador AI de Mooer",
+          "headline": "Travis Tritt niega el clip viral\nde AI sobre Taylor Swift",
+          "body": "Travis Tritt afirma que el clip viral en el que critica el foco de los CMAs en Taylor Swift es un montaje AI-made.",
+          "mini_headline": "Tritt niega un falso clip de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Modelador de amplificador Mooer Future Flex (Image credit: Mooer)"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "Mooer ha dado un enfoque novedoso al concepto de modelador de amplificador con el Future Flex. En esencia, ofrece 55 modelos de amplificador, 69 efectos, cuatro pedales de conmutación, un altavoz integrado, un asistente de tono con AI y compatibilidad con NAM A2, que abre la puerta a miles de tonos adicionales de uso gratuito. A eso se suman una caja de ritmos, un looper y una pantalla táctil redonda de 1.28 pulgadas en el centro."
+                "x": "Travis Tritt quiere aclarar las cosas. Después de que se viralizara un video que parecía mostrar al cantante criticando el foco de los recientes CMA Awards en Taylor Swift, Tritt recurrió a X para insistir en que el clip no era él, sino que estaba generado por AI."
               },
               {
                 "t": "p",
-                "x": "Basado en el StemLab de Mooer, el Future Flex está “pensado para músicos cansados de los cables”, ya que lo reúne todo en una sola unidad. Una aplicación móvil complementaria permite configurar prácticamente todo lo que puede hacer. Dos altavoces Hi-Fi de 2.2 pulgadas ofrecen 15-watts de salida estéreo, y hay una entrada XLR con alimentación fantasma de 48 voltios. Tiene 80 ranuras de presets y 10 ranuras para Impulse Responses de terceros; la batería dura hasta seis horas y pesa 1.2 kg."
+                "x": "“Cualquier video reciente en el que supuestamente comento la última gala de los CMA Awards es obviamente falso y creado con AI”, escribió. “Ignórenlos por completo”."
               },
               {
                 "t": "p",
-                "x": "La AI tiene un papel central: incluye la misma tecnología de separación de stems del StemLab, además de generación de tonos con AI para armar una cadena de efectos completa a partir de las indicaciones del usuario. La integración con NAM A2 da acceso a miles de modelos de amplificador de nueva generación a través del ecosistema TONE3000."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Modelador de amplificador Mooer Future Flex (Image credit: Mooer)"
+                "x": "En el video, supuestamente falso, la figura que parecía ser Tritt arremetía contra “los idiotas que dirigen la CMA” por centrarse en Swift en lugar de Ella Langley, que ganó un número récord de premios durante la ceremonia. El clip también mencionaba que a Sammy Kershaw se le negó inicialmente el acceso a la alfombra roja."
               },
               {
                 "t": "p",
-                "x": "El Mooer Future Flex ya está disponible por £199 (aún no se ha confirmado un precio oficial en US) en los acabados Snowfall White y Phantom Black."
+                "x": "No es la primera vez que Tritt se pronuncia sobre la AI. En una publicación de octubre de 2025, abordó el “preocupante aumento de contenido AI-generated que suplanta a figuras públicas, incluido yo mismo”, y advirtió que “la tecnología de AI ha hecho más fácil que nunca que actores maliciosos creen simulaciones realistas de las voces, los rostros y las acciones de las personas”."
+              },
+              {
+                "t": "p",
+                "x": "“Si no viene de mis canales oficiales o de fuentes de confianza, no soy realmente yo”, escribió."
               }
             ]
           }
@@ -511,145 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mooer 일체형에 AI\nFuture Flex 출시",
-          "body": "Future Flex는 앰프 55종·효과 69종·AI 톤·NAM A2를 지원한다.",
-          "mini_headline": "Mooer의 AI 앰프 모델러",
+          "headline": "Travis Tritt,\nSwift AI 영상 부인",
+          "body": "Tritt은 CMAs의 Swift 편중 비판 영상이 AI-made 가짜라고 했다.",
+          "mini_headline": "Tritt, 가짜 AI 영상 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Mooer Future Flex 앰프 모델러 (Image credit: Mooer)"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "Mooer는 Future Flex로 앰프 모델러라는 개념에 새롭게 접근했다. 기본적으로 앰프 모델 55종, 이펙트 69종, 풋스위치 네 개, 내장 스피커, AI 톤 어시스턴트, NAM A2 호환을 갖춰 무료로 쓸 수 있는 톤 수천 개를 더 열어 준다. 여기에 드럼 머신과 루퍼, 가운데 자리한 1.28인치 원형 터치스크린까지 더했다."
+                "x": "Travis Tritt이 사실관계 바로잡기에 나섰다. 최근 CMA Awards가 Taylor Swift에 초점을 맞춘 것을 이 가수가 비판하는 듯한 영상이 화제가 되자, Tritt은 X에 글을 올려 영상 속 인물은 자신이 아니며 AI로 생성된 것이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Mooer의 StemLab을 바탕으로 한 Future Flex는 모든 것을 한 상자에 담아 “케이블 연결에 지친 연주자를 위해 만들었다”. 전용 모바일 앱으로 기기의 거의 모든 기능을 설정할 수 있다. 2.2인치 Hi-Fi 스피커 두 개가 15-watts 스테레오 출력을 내고, 48볼트 팬텀 전원을 지원하는 XLR 입력도 있다. 프리셋 슬롯 80개와 서드파티 Impulse Responses용 슬롯 10개를 갖췄고, 배터리는 최대 여섯 시간 가며, 무게는 1.2 kg이다."
+                "x": "“최근 CMA Awards 시상식에 대해 내가 논평했다는 영상들은 모두 명백한 가짜이며 AI로 만들어진 것이다.” 그는 이렇게 쓰고 “완전히 무시해 달라”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "AI가 핵심 기능이다. StemLab에 들어간 것과 같은 스템 분리 기술, 그리고 사용자가 입력한 프롬프트로 전체 이펙트 체인을 꾸리는 AI 톤 생성 기능을 담았다. NAM A2 통합으로 TONE3000 생태계의 차세대 앰프 모델 수천 개를 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Mooer Future Flex 앰프 모델러 (Image credit: Mooer)"
+                "x": "가짜로 보이는 이 영상에서 Tritt처럼 보이는 인물은 시상식에서 기록적인 수의 상을 받은 Ella Langley 대신 Swift에 초점을 맞췄다며 “CMA를 운영하는 멍청이들”을 비난했다. 영상은 Sammy Kershaw가 처음에 레드카펫 입장을 거부당한 일도 언급했다."
               },
               {
                 "t": "p",
-                "x": "Mooer Future Flex는 지금 £199에 판매 중이며(공식 US 가격은 아직 확정되지 않았다), Snowfall White와 Phantom Black 마감으로 나온다."
+                "x": "Tritt이 AI에 대해 목소리를 낸 것은 이번이 처음이 아니다. 그는 October 2025 게시물에서 “나를 포함한 공인을 사칭하는 AI-generated 콘텐츠가 우려스러울 만큼 늘고 있다”고 지적하며, “AI 기술 탓에 악의적인 이들이 사람의 목소리, 얼굴, 행동을 사실적으로 흉내 내기가 그 어느 때보다 쉬워졌다”고 경고했다."
+              },
+              {
+                "t": "p",
+                "x": "“내 공식 채널이나 신뢰할 수 있는 출처에서 나온 것이 아니라면, 그건 진짜 내가 아니다.” 그는 이렇게 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mooerの一体型\nFuture FlexにAI",
-          "body": "Future Flexはアンプ55種、エフェクト69種、AIトーン、NAM A2対応だ。",
-          "mini_headline": "MooerのAIアンプモデラー",
+          "headline": "Travis Tritt\nSwift巡るAI動画を否定",
+          "body": "Trittは、CMAsのSwift偏重を批判する動画はAI-madeの偽物だと述べた。",
+          "mini_headline": "Tritt、偽AI動画を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Mooer Future Flexアンプモデラー（Image credit: Mooer）"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "MooerはFuture Flexで、アンプモデラーという概念に新しいアプローチを示した。基本構成はアンプモデル55種、エフェクト69種、フットスイッチ四つ、内蔵スピーカー、AIトーンアシスタント、NAM A2対応で、無料で使えるトーンを数千種類追加で利用できる。さらにドラムマシン、ルーパー、中央に配置された1.28インチの丸型タッチスクリーンも備える。"
+                "x": "Travis Trittが事実関係を正した。先日のCMA AwardsがTaylor Swiftに焦点を当てたことをこの歌手が批判しているように見える動画が拡散すると、TrittはXに投稿し、動画の人物は自分ではなくAIで生成されたものだと主張した。"
               },
               {
                 "t": "p",
-                "x": "MooerのStemLabを土台とするFuture Flexは、すべてを一つの筐体に収め、「ケーブル接続に疲れたプレイヤーのために作られた」。専用モバイルアプリで、ほぼすべての機能を設定できる。2.2インチのHi-Fiスピーカー二基が15-wattsのステレオ出力を持ち、48ボルトのファンタム電源に対応するXLR入力も備える。プリセットスロットは80、サードパーティ製Impulse Responses用スロットは10あり、バッテリーは最長六時間持ち、重さは1.2 kgだ。"
+                "x": "「最新のCMA Awardsについて私がコメントしたとされる最近の動画は、明らかに偽物でAIを使って作られたものだ」と彼は書き、「完全に無視してほしい」と続けた。"
               },
               {
                 "t": "p",
-                "x": "AIが大きな特徴だ。StemLabと同じステム分離技術に加え、ユーザーが入力したプロンプトからエフェクトチェーン全体を組み立てるAIトーン生成を搭載する。NAM A2との統合により、TONE3000エコシステムを通じて次世代アンプモデル数千種類にアクセスできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Mooer Future Flexアンプモデラー（Image credit: Mooer）"
+                "x": "偽物とみられるこの動画では、Trittらしき人物が、授賞式で記録的な数の賞を獲得したElla LangleyではなくSwiftに焦点を当てたとして「CMAを運営する愚か者たち」を非難していた。動画はSammy Kershawが当初レッドカーペットへの入場を拒否された件にも触れていた。"
               },
               {
                 "t": "p",
-                "x": "Mooer Future Flexは現在£199で販売中で（US向けの公式価格は未確定）、Snowfall WhiteとPhantom Blackの2色の仕上げがある。"
+                "x": "TrittがAIについて声を上げるのは今回が初めてではない。October 2025の投稿で彼は「私自身を含む著名人になりすますAI-generatedコンテンツの憂慮すべき増加」に言及し、「AI技術によって、悪意ある者が人の声や顔、行動をリアルに再現することがかつてないほど容易になった」と警告していた。"
+              },
+              {
+                "t": "p",
+                "x": "「私の公式チャンネルや信頼できる情報源から発信されたものでなければ、それは本当の私ではない」と彼は書いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mooer AI一体机\nFuture Flex登场",
-          "body": "Future Flex配备55种放大器模型、69种效果、AI音色助手和NAM A2兼容。",
-          "mini_headline": "Mooer的AI放大器模拟器",
+          "headline": "Travis Tritt\n否认Swift相关AI视频",
+          "body": "Tritt称，一段抨击CMAs聚焦Taylor Swift的热传视频系AI-made伪造。",
+          "mini_headline": "Tritt否认AI伪造视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Mooer Future Flex放大器模拟器（Image credit: Mooer）"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "Mooer借Future Flex以新颖的方式诠释了放大器模拟器这一概念。它基本配备55种放大器模型、69种效果、四个脚踏开关、内置扬声器、AI音色助手以及NAM A2兼容，可解锁数千种免费音色。此外还有鼓机、循环器，以及位于中央的1.28英寸圆形触摸屏。"
+                "x": "Travis Tritt出面澄清。一段看似这位歌手抨击近期CMA Awards过度聚焦Taylor Swift的视频走红后，Tritt在X上发文坚称，视频中的人并不是他，而是AI生成的。"
               },
               {
                 "t": "p",
-                "x": "Future Flex以Mooer的StemLab为基础，把一切集成在一个机身里，“为厌倦了接线的乐手打造”。配套手机应用几乎可以设置它的所有功能。两个2.2英寸Hi-Fi扬声器提供15-watts立体声输出，另有支持48伏幻象电源的XLR输入。机器有80个预设槽位和10个第三方Impulse Responses槽位；电池续航最长六小时，重量为1.2 kg。"
+                "x": "“最近任何声称我在评论最新一届CMA Awards颁奖礼的视频，显然都是假的，是用AI制作的，”他写道。“请完全无视。”"
               },
               {
                 "t": "p",
-                "x": "AI是一大亮点：它采用与StemLab相同的音轨分离技术，还提供AI音色生成，可根据用户输入的提示词搭建完整效果链。通过NAM A2集成，用户可经由TONE3000生态获取数千种新一代放大器模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Mooer Future Flex放大器模拟器（Image credit: Mooer）"
+                "x": "在这段疑似伪造的视频中，看似Tritt的人物痛斥“运营CMA的白痴们”只关注Swift，而忽视了在颁奖礼上获奖数创纪录的Ella Langley。视频还提到Sammy Kershaw起初被拒于红毯之外一事。"
               },
               {
                 "t": "p",
-                "x": "Mooer Future Flex现已上市，售价£199（US官方定价尚未确认），提供Snowfall White和Phantom Black两种外观。"
+                "x": "这并非Tritt首次就AI发声。在October 2025的一篇帖子中，他谈到“冒充包括我在内的公众人物的AI-generated内容正令人担忧地增多”，并警告说“AI技术让恶意行为者比以往任何时候都更容易逼真地模拟他人的声音、面孔和举动”。"
+              },
+              {
+                "t": "p",
+                "x": "“如果不是来自我的官方渠道或可信来源，那就不是真正的我，”他写道。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mooer Future Flex integra AI\nen un modelador todo en uno",
-          "body": "Future Flex reúne 55 modelos de amplificador, 69 efectos, altavoz, asistente de tono AI y compatibilidad NAM A2.",
-          "mini_headline": "El modelador de amplificador AI de Mooer",
+          "headline": "Travis Tritt niega el clip viral\nde AI sobre Taylor Swift",
+          "body": "Travis Tritt afirma que el clip viral en el que critica el foco de los CMAs en Taylor Swift es un montaje AI-made.",
+          "mini_headline": "Tritt niega un falso clip de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Tya6a9nAT4WDKoJqsyHxrh.jpg",
-                "cap": "Modelador de amplificador Mooer Future Flex (Image credit: Mooer)"
+                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
               },
               {
                 "t": "p",
-                "x": "Mooer ha dado un enfoque novedoso al concepto de modelador de amplificador con el Future Flex. En esencia, ofrece 55 modelos de amplificador, 69 efectos, cuatro pedales de conmutación, un altavoz integrado, un asistente de tono con AI y compatibilidad con NAM A2, que abre la puerta a miles de tonos adicionales de uso gratuito. A eso se suman una caja de ritmos, un looper y una pantalla táctil redonda de 1.28 pulgadas en el centro."
+                "x": "Travis Tritt quiere aclarar las cosas. Después de que se viralizara un video que parecía mostrar al cantante criticando el foco de los recientes CMA Awards en Taylor Swift, Tritt recurrió a X para insistir en que el clip no era él, sino que estaba generado por AI."
               },
               {
                 "t": "p",
-                "x": "Basado en el StemLab de Mooer, el Future Flex está “pensado para músicos cansados de los cables”, ya que lo reúne todo en una sola unidad. Una aplicación móvil complementaria permite configurar prácticamente todo lo que puede hacer. Dos altavoces Hi-Fi de 2.2 pulgadas ofrecen 15-watts de salida estéreo, y hay una entrada XLR con alimentación fantasma de 48 voltios. Tiene 80 ranuras de presets y 10 ranuras para Impulse Responses de terceros; la batería dura hasta seis horas y pesa 1.2 kg."
+                "x": "“Cualquier video reciente en el que supuestamente comento la última gala de los CMA Awards es obviamente falso y creado con AI”, escribió. “Ignórenlos por completo”."
               },
               {
                 "t": "p",
-                "x": "La AI tiene un papel central: incluye la misma tecnología de separación de stems del StemLab, además de generación de tonos con AI para armar una cadena de efectos completa a partir de las indicaciones del usuario. La integración con NAM A2 da acceso a miles de modelos de amplificador de nueva generación a través del ecosistema TONE3000."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/LzHRwGNVTdkVE72NC8mwrh.jpg",
-                "cap": "Modelador de amplificador Mooer Future Flex (Image credit: Mooer)"
+                "x": "En el video, supuestamente falso, la figura que parecía ser Tritt arremetía contra “los idiotas que dirigen la CMA” por centrarse en Swift en lugar de Ella Langley, que ganó un número récord de premios durante la ceremonia. El clip también mencionaba que a Sammy Kershaw se le negó inicialmente el acceso a la alfombra roja."
               },
               {
                 "t": "p",
-                "x": "El Mooer Future Flex ya está disponible por £199 (aún no se ha confirmado un precio oficial en US) en los acabados Snowfall White y Phantom Black."
+                "x": "No es la primera vez que Tritt se pronuncia sobre la AI. En una publicación de octubre de 2025, abordó el “preocupante aumento de contenido AI-generated que suplanta a figuras públicas, incluido yo mismo”, y advirtió que “la tecnología de AI ha hecho más fácil que nunca que actores maliciosos creen simulaciones realistas de las voces, los rostros y las acciones de las personas”."
+              },
+              {
+                "t": "p",
+                "x": "“Si no viene de mis canales oficiales o de fuentes de confianza, no soy realmente yo”, escribió."
               }
             ]
           }
@@ -657,15 +355,15 @@
       }
     },
     {
-      "id": "hive-ai-ticket-assistants",
+      "id": "not-ais-to-take-electorate-poll",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Hive AI 비서가\n티켓 캠페인 작성",
-      "body": "Hive의 새 AI 비서가 이메일·SMS 캠페인 초안을 맡아 팀은 전략에 집중한다.",
-      "mini_headline": "Hive AI, 티켓 홍보 초안 작성",
+      "headline": "호주 조사, AI 저작권\n21개 핵심 선거구 쟁점",
+      "body": "21개 선거구 유권자 1,464명 중 다수가 창작물 무상 AI 학습에 반대했다.",
+      "mini_headline": "AI 저작권 조사, 21개 선거구",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/hive-launches-ai-assistants-to-help-venues-and-promoters-sell-more-tickets/",
+      "source": "The Music Network",
+      "url": "https://themusicnetwork.com/news/ai-copyright-changes-electorates-new-poll",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -673,173 +371,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+            "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
           },
           {
             "t": "p",
-            "x": "라이브 이벤트(Live-event) 마케팅 플랫폼 Hive가 AI Marketing Assistants 제품군을 내놓았다. 공연장, 프로모터, 페스티벌이 팀을 늘리지 않고도 마케팅 캠페인을 돌리게 돕는 도구다. November 18에 공개된 도구들은 기존 티켓 정보와 공연 일정, 관객 데이터를 쓰고 조직의 과거 캠페인과 브랜드 선호까지 참고해 이메일·SMS 캠페인을 알아서 준비한다. 캠페인은 모두 발송 전에 검토와 승인을 거친다."
+            "x": "새 캠페인 “Not AI's to Take”가 오늘 공개한 조사는 Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, Goldstein 등 21개 연방 선거구 유권자 1,464명에게 물었다. 응답자의 65%는 AI 기업이 저작권자 허락 없이 창작 콘텐츠로 모델을 학습시키는 데 반대했다."
           },
           {
             "t": "p",
-            "x": "첫 출시분은 Just Announced, Onsale, Newsletter, Countdown, Post Show 다섯 가지 어시스턴트다. 만들어진 캠페인은 중앙 받은편지함에 모인다. 팀이 여기서 수정·승인·거절하면 시스템은 그 피드백을 학습한다."
+            "x": "응답자의 83%는 무단 AI 학습 중단을 원했고, 63%는 해외 AI 기업들이 호주 저작권법 개정을 요구해 왔다는 사실을 몰랐다. 창작자 허락 의무화에 찬성하는 의원(MPs)이라면 유권자 순지지가 30포인트 오를 수 있다."
           },
           {
             "t": "p",
-            "x": "Hive의 CEO이자 Co-Founder인 Ian Roberts는 “라이브 이벤트(Live-event) 마케터는 자신의 관객과 공연을 잘 안다. 그들에게 자주 필요한 것은 일을 끝낼 시간이다”라고 말했다."
+            "x": "외곽 교외와 지방 선거구의 반대가 특히 거세 순점수가 -46까지 내려갔다. 정치 성향도 가리지 않아 Coalition과 One Nation 지지자의 60%도 개정안에 반대했다. AI를 정기적으로 쓰는 응답자(전체의 47%)에서도 반대가 찬성의 약 두 배였다."
           },
           {
             "t": "p",
-            "x": "요금은 월 $50, 5,000 크레딧부터다. 크레딧은 캠페인이 승인될 때만 빠진다. 30일 무료 체험에도 5,000 크레딧이 들어 있다. Hive에 따르면 1,500곳이 넘는 공연장, 프로모터, 페스티벌이 자사 플랫폼을 쓰며, 이 플랫폼이 거든 고객 티켓 매출은 $1 billion 이상이다."
+            "x": "ARIA, APRA AMCOS, Vinyl Group, Mushroom Music 등이 지지하는 이 캠페인은 Albanese 정부에 기존 저작권 보호를 지키고 허락이나 합의된 대가 없는 AI 학습 예외는 영구히 배제하라고 요구한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hive's AI assistants draft\nticket-selling campaigns",
-          "body": "Hive's new AI assistants automatically draft email and SMS campaigns so venues and promoters can focus on strategy.",
-          "mini_headline": "Hive AI drafts ticket promos",
+          "headline": "Australian poll ties AI\ncopyright to 21 key seats",
+          "body": "A poll of 1,464 voters in 21 federal electorates found wide opposition to unpaid AI training on creative work.",
+          "mini_headline": "AI copyright poll hits 21 seats",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "Live-event marketing platform Hive has launched a suite of AI Marketing Assistants designed to help venues, promoters and festivals manage their marketing campaigns without expanding their teams. Announced November 18, the tools use existing ticketing information, event schedules and audience data to automatically prepare email and SMS campaigns, drawing on an organization's previous campaigns and brand preferences. Every campaign must be reviewed and approved before being sent."
+                "x": "Released today by the new “Not AI's to Take” campaign, the research surveyed 1,464 voters across 21 federal electorates, including Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, and Goldstein, finding that 65% oppose AI companies training their models on creative content without the permission of copyright holders."
               },
               {
                 "t": "p",
-                "x": "The initial rollout includes five assistants: Just Announced, Onsale, Newsletter, Countdown and Post Show. Campaigns appear in a centralized inbox where teams can edit, approve or reject them, and the system learns from that feedback."
+                "x": "According to the survey, 83% of respondents want unauthorised AI training stopped, while 63% were unaware that overseas AI companies had sought changes to Australian copyright law. MPs who support requiring permission from creators could receive a net voter support boost of 30 points."
               },
               {
                 "t": "p",
-                "x": "“Live-event marketers know their audiences and their shows. What they often need is more time to get the work done,” says Ian Roberts, CEO and Co-Founder of Hive."
+                "x": "Opposition was particularly pronounced in outer-suburban and regional electorates, with a net score of -46. The issue also cuts across political lines, with 60% of Coalition and One Nation voters opposing the proposed changes. Among regular AI users (47% of respondents), opposition outweighed support by approximately two to one."
               },
               {
                 "t": "p",
-                "x": "The assistants start at $50 per month for 5,000 credits, deducted only when campaigns are approved; a 30-day free trial includes 5,000 credits. Hive says its platform serves more than 1,500 venues, promoters and festivals and has helped customers generate over $1 billion in ticket sales."
+                "x": "The campaign, backed by ARIA, APRA AMCOS, Vinyl Group, Mushroom Music and others, calls on the Albanese Government to maintain existing copyright protections and permanently rule out exemptions for AI training without permission or agreed payment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Hive AI 비서가\n티켓 캠페인 작성",
-          "body": "Hive의 새 AI 비서가 이메일·SMS 캠페인 초안을 맡아 팀은 전략에 집중한다.",
-          "mini_headline": "Hive AI, 티켓 홍보 초안 작성",
+          "headline": "호주 조사, AI 저작권\n21개 핵심 선거구 쟁점",
+          "body": "21개 선거구 유권자 1,464명 중 다수가 창작물 무상 AI 학습에 반대했다.",
+          "mini_headline": "AI 저작권 조사, 21개 선거구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "라이브 이벤트(Live-event) 마케팅 플랫폼 Hive가 AI Marketing Assistants 제품군을 내놓았다. 공연장, 프로모터, 페스티벌이 팀을 늘리지 않고도 마케팅 캠페인을 돌리게 돕는 도구다. November 18에 공개된 도구들은 기존 티켓 정보와 공연 일정, 관객 데이터를 쓰고 조직의 과거 캠페인과 브랜드 선호까지 참고해 이메일·SMS 캠페인을 알아서 준비한다. 캠페인은 모두 발송 전에 검토와 승인을 거친다."
+                "x": "새 캠페인 “Not AI's to Take”가 오늘 공개한 조사는 Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, Goldstein 등 21개 연방 선거구 유권자 1,464명에게 물었다. 응답자의 65%는 AI 기업이 저작권자 허락 없이 창작 콘텐츠로 모델을 학습시키는 데 반대했다."
               },
               {
                 "t": "p",
-                "x": "첫 출시분은 Just Announced, Onsale, Newsletter, Countdown, Post Show 다섯 가지 어시스턴트다. 만들어진 캠페인은 중앙 받은편지함에 모인다. 팀이 여기서 수정·승인·거절하면 시스템은 그 피드백을 학습한다."
+                "x": "응답자의 83%는 무단 AI 학습 중단을 원했고, 63%는 해외 AI 기업들이 호주 저작권법 개정을 요구해 왔다는 사실을 몰랐다. 창작자 허락 의무화에 찬성하는 의원(MPs)이라면 유권자 순지지가 30포인트 오를 수 있다."
               },
               {
                 "t": "p",
-                "x": "Hive의 CEO이자 Co-Founder인 Ian Roberts는 “라이브 이벤트(Live-event) 마케터는 자신의 관객과 공연을 잘 안다. 그들에게 자주 필요한 것은 일을 끝낼 시간이다”라고 말했다."
+                "x": "외곽 교외와 지방 선거구의 반대가 특히 거세 순점수가 -46까지 내려갔다. 정치 성향도 가리지 않아 Coalition과 One Nation 지지자의 60%도 개정안에 반대했다. AI를 정기적으로 쓰는 응답자(전체의 47%)에서도 반대가 찬성의 약 두 배였다."
               },
               {
                 "t": "p",
-                "x": "요금은 월 $50, 5,000 크레딧부터다. 크레딧은 캠페인이 승인될 때만 빠진다. 30일 무료 체험에도 5,000 크레딧이 들어 있다. Hive에 따르면 1,500곳이 넘는 공연장, 프로모터, 페스티벌이 자사 플랫폼을 쓰며, 이 플랫폼이 거든 고객 티켓 매출은 $1 billion 이상이다."
+                "x": "ARIA, APRA AMCOS, Vinyl Group, Mushroom Music 등이 지지하는 이 캠페인은 Albanese 정부에 기존 저작권 보호를 지키고 허락이나 합의된 대가 없는 AI 학습 예외는 영구히 배제하라고 요구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HiveのAIアシスタント\nチケット販促を下書き",
-          "body": "Hiveの新AIアシスタントがメールとSMSのキャンペーン案を自動で作成する。",
-          "mini_headline": "Hive AI、チケット販促を下書き",
+          "headline": "豪世論調査、AI著作権が\n21の重要選挙区で争点に",
+          "body": "21の連邦選挙区で有権者1,464人を調べた調査で、創作物の無償AI学習に広く反対が出た。",
+          "mini_headline": "AI著作権調査、21選挙区",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "ライブイベント（Live-event）向けマーケティングプラットフォームのHiveは、会場、プロモーター、フェスティバルがチームを増やさずにマーケティングキャンペーンを運用できるよう支援するAI Marketing Assistantsを発表した。November 18に公表されたこれらのツールは、既存のチケット情報、イベント日程、観客データを使い、組織の過去のキャンペーンやブランドの好みを踏まえてメールとSMSのキャンペーンを自動で用意する。すべてのキャンペーンは送信前に確認と承認が必要だ。"
+                "x": "新キャンペーン「Not AI's to Take」が本日公表した調査は、Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass、Goldsteinを含む21の連邦選挙区で有権者1,464人を対象に行われ、65%がAI企業による著作権者の許可なき創作コンテンツでのモデル学習に反対していることがわかった。"
               },
               {
                 "t": "p",
-                "x": "最初の提供分にはJust Announced、Onsale、Newsletter、Countdown、Post Showの五つのアシスタントが含まれる。キャンペーンは一元化された受信箱に表示され、チームはそこで編集、承認、却下ができ、システムはそのフィードバックから学習する。"
+                "x": "調査によると、回答者の83%が無許可のAI学習の停止を望み、63%は海外のAI企業がオーストラリアの著作権法改正を求めていたことを知らなかった。クリエイターの許可を義務づけることを支持する議員(MPs)は、有権者の純支持が30ポイント上昇する可能性がある。"
               },
               {
                 "t": "p",
-                "x": "「ライブイベント（Live-event）のマーケターは自分の観客と公演をよく知っている。彼らに必要なのは、多くの場合、仕事を終えるための時間だ」と、HiveのCEO兼Co-FounderであるIan Robertsは語る。"
+                "x": "反対は郊外の外縁部と地方の選挙区で特に強く、純スコアは-46だった。この問題は政治的立場も超えており、CoalitionとOne Nationの支持者の60%も改正案に反対した。AIを日常的に使う人(回答者の47%)の間でも、反対が賛成のおよそ二倍に上った。"
               },
               {
                 "t": "p",
-                "x": "アシスタントは月額$50で5,000クレジットから利用でき、クレジットはキャンペーンが承認されたときにのみ差し引かれる。30日間の無料トライアルには5,000クレジットが含まれる。Hiveによると、同社のプラットフォームは1,500を超える会場、プロモーター、フェスティバルに使われ、顧客のチケット売上$1 billion超に貢献してきた。"
+                "x": "ARIA、APRA AMCOS、Vinyl Group、Mushroom Musicなどが支援するこのキャンペーンは、Albanese政権に対し、既存の著作権保護を維持し、許可や合意された対価のないAI学習の例外を恒久的に排除するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hive推出AI助手\n自动起草售票营销",
-          "body": "Hive新推出的AI助手可自动起草邮件和SMS营销活动，让场馆和主办方专注策略。",
-          "mini_headline": "Hive AI起草售票推广",
+          "headline": "澳洲民调：AI版权议题\n牵动21个关键选区",
+          "body": "针对21个联邦选区1,464名选民的民调显示，多数人反对无偿用创作内容训练AI。",
+          "mini_headline": "AI版权民调涉21个选区",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "现场活动（Live-event）营销平台Hive推出了一套AI Marketing Assistants，帮助场馆、主办方和音乐节在不扩充团队的情况下管理营销活动。这些工具于November 18发布，利用现有票务信息、活动日程和观众数据，并参考机构以往的营销活动和品牌偏好，自动准备邮件和SMS营销活动。每项活动在发送前都必须经过审核和批准。"
+                "x": "新发起的“Not AI's to Take”运动今天发布的这项研究，调查了包括Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass和Goldstein在内的21个联邦选区的1,464名选民，发现65%的人反对AI公司未经版权所有者许可就用创作内容训练模型。"
               },
               {
                 "t": "p",
-                "x": "首批上线五个助手：Just Announced、Onsale、Newsletter、Countdown和Post Show。营销活动会出现在统一收件箱中，团队可在其中编辑、批准或拒绝，系统会从这些反馈中学习。"
+                "x": "调查显示，83%的受访者希望叫停未经授权的AI训练，63%的人不知道海外AI公司曾寻求修改澳大利亚版权法。支持要求获得创作者许可的议员（MPs），其选民净支持度可能提高30个点。"
               },
               {
                 "t": "p",
-                "x": "Hive的CEO兼Co-Founder Ian Roberts表示：“现场活动（Live-event）营销人员了解自己的观众和演出。他们往往更需要的是完成工作的时间。”"
+                "x": "反对声在远郊和地区选区尤为强烈，净得分为-46。这一议题也跨越党派界限，Coalition和One Nation的选民中有60%反对拟议的修改。在经常使用AI的人群中（占受访者的47%），反对者约为支持者的两倍。"
               },
               {
                 "t": "p",
-                "x": "这些助手起价为每月$50，含5,000积分，仅在营销活动获批时扣除；30天免费试用包含5,000积分。Hive称，其平台服务超过1,500家场馆、主办方和音乐节，已帮助客户实现逾$1 billion的票务销售额。"
+                "x": "该运动获得ARIA、APRA AMCOS、Vinyl Group、Mushroom Music等支持，呼吁Albanese政府维持现有版权保护，并永久排除未经许可或未商定报酬的AI训练豁免。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los asistentes AI de Hive\nredactan campañas de entradas",
-          "body": "Los asistentes AI de Hive redactan campañas de email y SMS para que recintos y promotores se centren en la estrategia.",
-          "mini_headline": "Hive AI redacta promociones de entradas",
+          "headline": "Encuesta en Australia liga la AI\ny el copyright a 21 escaños",
+          "body": "Un sondeo de 1,464 votantes en 21 distritos federales halló amplio rechazo a entrenar AI con obras creativas sin pago.",
+          "mini_headline": "Sondeo sobre AI y copyright en 21 escaños",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "La plataforma de marketing de eventos en vivo (Live-event) Hive ha lanzado un conjunto de AI Marketing Assistants pensado para ayudar a recintos, promotores y festivales a gestionar sus campañas de marketing sin ampliar sus equipos. Anunciadas el November 18, las herramientas usan la información de venta de entradas, los calendarios de eventos y los datos de audiencia existentes para preparar automáticamente campañas de email y SMS, a partir de las campañas anteriores y las preferencias de marca de cada organización. Cada campaña debe revisarse y aprobarse antes de enviarse."
+                "x": "Publicada hoy por la nueva campaña “Not AI's to Take”, la investigación encuestó a 1,464 votantes de 21 distritos electorales federales, entre ellos Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass y Goldstein, y concluyó que el 65% se opone a que las empresas de AI entrenen sus modelos con contenido creativo sin el permiso de los titulares de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "El lanzamiento inicial incluye cinco asistentes: Just Announced, Onsale, Newsletter, Countdown y Post Show. Las campañas aparecen en una bandeja de entrada centralizada donde los equipos pueden editarlas, aprobarlas o rechazarlas, y el sistema aprende de esas respuestas."
+                "x": "Según la encuesta, el 83% de los encuestados quiere que se detenga el entrenamiento de AI no autorizado, mientras que el 63% desconocía que empresas extranjeras de AI habían buscado cambios en la ley de derechos de autor de Australia. Los parlamentarios (MPs) que apoyen exigir el permiso de los creadores podrían obtener un aumento neto de apoyo electoral de 30 puntos."
               },
               {
                 "t": "p",
-                "x": "“Los responsables de marketing de eventos en vivo (Live-event) conocen a su público y sus espectáculos. Lo que a menudo necesitan es más tiempo para sacar el trabajo adelante”, afirma Ian Roberts, CEO y Co-Founder de Hive."
+                "x": "La oposición fue especialmente marcada en los distritos periurbanos y regionales, con una puntuación neta de -46. El tema también atraviesa las líneas políticas: el 60% de los votantes de la Coalition y de One Nation se opone a los cambios propuestos. Entre los usuarios habituales de AI (el 47% de los encuestados), la oposición superó al apoyo en una proporción de aproximadamente dos a uno."
               },
               {
                 "t": "p",
-                "x": "Los asistentes parten de $50 al mes por 5,000 créditos, que solo se descuentan cuando se aprueban las campañas; una prueba gratuita de 30 días incluye 5,000 créditos. Hive afirma que su plataforma da servicio a más de 1,500 recintos, promotores y festivales y que ha ayudado a sus clientes a generar más de $1 billion en venta de entradas."
+                "x": "La campaña, respaldada por ARIA, APRA AMCOS, Vinyl Group, Mushroom Music y otros, pide al Gobierno de Albanese mantener las protecciones de derechos de autor vigentes y descartar de forma permanente excepciones para el entrenamiento de AI sin permiso ni pago acordado."
               }
             ]
           }
@@ -847,121 +545,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Hive AI 비서가\n티켓 캠페인 작성",
-          "body": "Hive의 새 AI 비서가 이메일·SMS 캠페인 초안을 써 전략에 집중하게 한다.",
-          "mini_headline": "Hive AI, 티켓 홍보 초안 작성",
+          "headline": "호주 조사, AI 저작권\n21개 핵심 선거구 쟁점",
+          "body": "21개 선거구 유권자 1,464명 중 다수가 창작물 무상 AI 학습에 반대했다.",
+          "mini_headline": "AI 저작권 조사, 21개 선거구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "라이브 이벤트(Live-event) 마케팅 플랫폼 Hive가 공연장, 프로모터, 페스티벌이 팀을 늘리지 않고도 마케팅 캠페인을 운영하도록 돕는 AI Marketing Assistants 제품군을 내놓았다. November 18에 발표된 이 도구들은 기존 티켓 정보와 공연 일정, 관객 데이터를 활용하고 조직의 이전 캠페인과 브랜드 선호를 참고해 이메일·SMS 캠페인을 자동으로 준비한다. 모든 캠페인은 발송 전에 검토와 승인을 거쳐야 한다."
+                "x": "새 캠페인 “Not AI's to Take”가 오늘 공개한 이번 조사는 Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, Goldstein 등 21개 연방 선거구 유권자 1,464명을 대상으로 했으며, 응답자의 65%가 AI 기업이 저작권자의 허락 없이 창작 콘텐츠로 모델을 학습시키는 데 반대하는 것으로 나타났다."
               },
               {
                 "t": "p",
-                "x": "첫 출시에는 Just Announced, Onsale, Newsletter, Countdown, Post Show 등 다섯 가지 어시스턴트가 포함됐다. 캠페인은 중앙 받은편지함에 모이고, 팀은 여기서 캠페인을 수정·승인·거절할 수 있으며 시스템은 이 피드백에서 학습한다."
+                "x": "조사에 따르면 응답자의 83%는 무단 AI 학습을 멈추길 원했고, 63%는 해외 AI 기업들이 호주 저작권법 개정을 요구해 왔다는 사실을 몰랐다. 창작자의 허락을 의무화하는 데 찬성하는 의원(MPs)은 유권자 순지지가 30포인트 오를 수 있다."
               },
               {
                 "t": "p",
-                "x": "Hive의 CEO이자 Co-Founder인 Ian Roberts는 “라이브 이벤트(Live-event) 마케터는 자신의 관객과 공연을 잘 안다. 그들에게 자주 필요한 것은 일을 끝낼 시간이다”라고 말했다."
+                "x": "반대는 특히 외곽 교외와 지방 선거구에서 두드러져 순점수가 -46에 달했다. 이 문제는 정치 성향과도 무관해, Coalition과 One Nation 지지자의 60%도 개정안에 반대했다. AI를 정기적으로 쓰는 응답자(전체의 47%) 사이에서도 반대가 찬성보다 약 두 배 많았다."
               },
               {
                 "t": "p",
-                "x": "어시스턴트는 월 $50에 5,000 크레딧부터 시작하며, 크레딧은 캠페인이 승인될 때만 차감된다. 30일 무료 체험에는 5,000 크레딧이 포함된다. Hive는 자사 플랫폼이 1,500곳이 넘는 공연장, 프로모터, 페스티벌에 쓰이고 있으며 고객의 티켓 매출 $1 billion 이상을 도왔다고 밝혔다."
+                "x": "ARIA, APRA AMCOS, Vinyl Group, Mushroom Music 등이 지지하는 이 캠페인은 Albanese 정부에 기존 저작권 보호를 유지하고, 허락이나 합의된 대가 없는 AI 학습 예외를 영구히 배제할 것을 촉구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HiveのAIアシスタント\nチケット販促を下書き",
-          "body": "Hiveの新AIアシスタントがメールとSMSのキャンペーン案を自動で作成する。",
-          "mini_headline": "Hive AI、チケット販促を下書き",
+          "headline": "豪世論調査、AI著作権が\n21の重要選挙区で争点に",
+          "body": "21の連邦選挙区で有権者1,464人を調べた調査で、創作物の無償AI学習に広く反対が出た。",
+          "mini_headline": "AI著作権調査、21選挙区",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "ライブイベント（Live-event）向けマーケティングプラットフォームのHiveは、会場、プロモーター、フェスティバルがチームを増やさずにマーケティングキャンペーンを運用できるよう支援するAI Marketing Assistantsを発表した。November 18に公表されたこれらのツールは、既存のチケット情報、イベント日程、観客データを使い、組織の過去のキャンペーンやブランドの好みを踏まえてメールとSMSのキャンペーンを自動で用意する。すべてのキャンペーンは送信前に確認と承認が必要だ。"
+                "x": "新キャンペーン「Not AI's to Take」が本日公表した調査は、Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass、Goldsteinを含む21の連邦選挙区で有権者1,464人を対象に行われ、65%がAI企業による著作権者の許可なき創作コンテンツでのモデル学習に反対していることがわかった。"
               },
               {
                 "t": "p",
-                "x": "最初の提供分にはJust Announced、Onsale、Newsletter、Countdown、Post Showの五つのアシスタントが含まれる。キャンペーンは一元化された受信箱に表示され、チームはそこで編集、承認、却下ができ、システムはそのフィードバックから学習する。"
+                "x": "調査によると、回答者の83%が無許可のAI学習の停止を望み、63%は海外のAI企業がオーストラリアの著作権法改正を求めていたことを知らなかった。クリエイターの許可を義務づけることを支持する議員(MPs)は、有権者の純支持が30ポイント上昇する可能性がある。"
               },
               {
                 "t": "p",
-                "x": "「ライブイベント（Live-event）のマーケターは自分の観客と公演をよく知っている。彼らに必要なのは、多くの場合、仕事を終えるための時間だ」と、HiveのCEO兼Co-FounderであるIan Robertsは語る。"
+                "x": "反対は郊外の外縁部と地方の選挙区で特に強く、純スコアは-46だった。この問題は政治的立場も超えており、CoalitionとOne Nationの支持者の60%も改正案に反対した。AIを日常的に使う人(回答者の47%)の間でも、反対が賛成のおよそ二倍に上った。"
               },
               {
                 "t": "p",
-                "x": "アシスタントは月額$50で5,000クレジットから利用でき、クレジットはキャンペーンが承認されたときにのみ差し引かれる。30日間の無料トライアルには5,000クレジットが含まれる。Hiveによると、同社のプラットフォームは1,500を超える会場、プロモーター、フェスティバルに使われ、顧客のチケット売上$1 billion超に貢献してきた。"
+                "x": "ARIA、APRA AMCOS、Vinyl Group、Mushroom Musicなどが支援するこのキャンペーンは、Albanese政権に対し、既存の著作権保護を維持し、許可や合意された対価のないAI学習の例外を恒久的に排除するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hive推出AI助手\n自动起草售票营销",
-          "body": "Hive新推出的AI助手可自动起草邮件和SMS营销活动，让场馆和主办方专注策略。",
-          "mini_headline": "Hive AI起草售票推广",
+          "headline": "澳洲民调：AI版权议题\n牵动21个关键选区",
+          "body": "针对21个联邦选区1,464名选民的民调显示，多数人反对无偿用创作内容训练AI。",
+          "mini_headline": "AI版权民调涉21个选区",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "现场活动（Live-event）营销平台Hive推出了一套AI Marketing Assistants，帮助场馆、主办方和音乐节在不扩充团队的情况下管理营销活动。这些工具于November 18发布，利用现有票务信息、活动日程和观众数据，并参考机构以往的营销活动和品牌偏好，自动准备邮件和SMS营销活动。每项活动在发送前都必须经过审核和批准。"
+                "x": "新发起的“Not AI's to Take”运动今天发布的这项研究，调查了包括Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass和Goldstein在内的21个联邦选区的1,464名选民，发现65%的人反对AI公司未经版权所有者许可就用创作内容训练模型。"
               },
               {
                 "t": "p",
-                "x": "首批上线五个助手：Just Announced、Onsale、Newsletter、Countdown和Post Show。营销活动会出现在统一收件箱中，团队可在其中编辑、批准或拒绝，系统会从这些反馈中学习。"
+                "x": "调查显示，83%的受访者希望叫停未经授权的AI训练，63%的人不知道海外AI公司曾寻求修改澳大利亚版权法。支持要求获得创作者许可的议员（MPs），其选民净支持度可能提高30个点。"
               },
               {
                 "t": "p",
-                "x": "Hive的CEO兼Co-Founder Ian Roberts表示：“现场活动（Live-event）营销人员了解自己的观众和演出。他们往往更需要的是完成工作的时间。”"
+                "x": "反对声在远郊和地区选区尤为强烈，净得分为-46。这一议题也跨越党派界限，Coalition和One Nation的选民中有60%反对拟议的修改。在经常使用AI的人群中（占受访者的47%），反对者约为支持者的两倍。"
               },
               {
                 "t": "p",
-                "x": "这些助手起价为每月$50，含5,000积分，仅在营销活动获批时扣除；30天免费试用包含5,000积分。Hive称，其平台服务超过1,500家场馆、主办方和音乐节，已帮助客户实现逾$1 billion的票务销售额。"
+                "x": "该运动获得ARIA、APRA AMCOS、Vinyl Group、Mushroom Music等支持，呼吁Albanese政府维持现有版权保护，并永久排除未经许可或未商定报酬的AI训练豁免。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los asistentes AI de Hive\nredactan campañas de entradas",
-          "body": "Los asistentes AI de Hive redactan campañas de email y SMS para que recintos y promotores se centren en la estrategia.",
-          "mini_headline": "Hive AI redacta promociones de entradas",
+          "headline": "Encuesta en Australia liga la AI\ny el copyright a 21 escaños",
+          "body": "Un sondeo de 1,464 votantes en 21 distritos federales halló amplio rechazo a entrenar AI con obras creativas sin pago.",
+          "mini_headline": "Sondeo sobre AI y copyright en 21 escaños",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/11/unnamed-1.png"
+                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
               },
               {
                 "t": "p",
-                "x": "La plataforma de marketing de eventos en vivo (Live-event) Hive ha lanzado un conjunto de AI Marketing Assistants pensado para ayudar a recintos, promotores y festivales a gestionar sus campañas de marketing sin ampliar sus equipos. Anunciadas el November 18, las herramientas usan la información de venta de entradas, los calendarios de eventos y los datos de audiencia existentes para preparar automáticamente campañas de email y SMS, a partir de las campañas anteriores y las preferencias de marca de cada organización. Cada campaña debe revisarse y aprobarse antes de enviarse."
+                "x": "Publicada hoy por la nueva campaña “Not AI's to Take”, la investigación encuestó a 1,464 votantes de 21 distritos electorales federales, entre ellos Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass y Goldstein, y concluyó que el 65% se opone a que las empresas de AI entrenen sus modelos con contenido creativo sin el permiso de los titulares de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "El lanzamiento inicial incluye cinco asistentes: Just Announced, Onsale, Newsletter, Countdown y Post Show. Las campañas aparecen en una bandeja de entrada centralizada donde los equipos pueden editarlas, aprobarlas o rechazarlas, y el sistema aprende de esas respuestas."
+                "x": "Según la encuesta, el 83% de los encuestados quiere que se detenga el entrenamiento de AI no autorizado, mientras que el 63% desconocía que empresas extranjeras de AI habían buscado cambios en la ley de derechos de autor de Australia. Los parlamentarios (MPs) que apoyen exigir el permiso de los creadores podrían obtener un aumento neto de apoyo electoral de 30 puntos."
               },
               {
                 "t": "p",
-                "x": "“Los responsables de marketing de eventos en vivo (Live-event) conocen a su público y sus espectáculos. Lo que a menudo necesitan es más tiempo para sacar el trabajo adelante”, afirma Ian Roberts, CEO y Co-Founder de Hive."
+                "x": "La oposición fue especialmente marcada en los distritos periurbanos y regionales, con una puntuación neta de -46. El tema también atraviesa las líneas políticas: el 60% de los votantes de la Coalition y de One Nation se opone a los cambios propuestos. Entre los usuarios habituales de AI (el 47% de los encuestados), la oposición superó al apoyo en una proporción de aproximadamente dos a uno."
               },
               {
                 "t": "p",
-                "x": "Los asistentes parten de $50 al mes por 5,000 créditos, que solo se descuentan cuando se aprueban las campañas; una prueba gratuita de 30 días incluye 5,000 créditos. Hive afirma que su plataforma da servicio a más de 1,500 recintos, promotores y festivales y que ha ayudado a sus clientes a generar más de $1 billion en venta de entradas."
+                "x": "La campaña, respaldada por ARIA, APRA AMCOS, Vinyl Group, Mushroom Music y otros, pide al Gobierno de Albanese mantener las protecciones de derechos de autor vigentes y descartar de forma permanente excepciones para el entrenamiento de AI sin permiso ni pago acordado."
               }
             ]
           }
@@ -969,243 +667,189 @@
       }
     },
     {
-      "id": "kimhaon-ai-noah-sbs",
+      "id": "jang-hanbyeol-ai-hit-cover",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "김하온 닮은 AI 노아\n원조와 랩 대결",
-      "body": "김하온을 학습한 AI '노아'가 22일 SBS 다큐에서 그와 랩 대결을 펼친다.",
-      "mini_headline": "김하온 vs AI 노아",
+      "headline": "장한별, AI 멜론 1위곡\n라이브 커버 공개",
+      "body": "장한별이 AI 가수 머무르의 멜론 1위곡 커버로 사흘 만에 47만 뷰를 기록했다.",
+      "mini_headline": "장한별, AI 1위곡 커버",
       "tool": "Music",
-      "source": "Newsis",
-      "url": "https://www.newsis.com/view/NISX20261120_0003877136",
+      "source": "Sports Kyunghyang",
+      "url": "https://sports.khan.co.kr/article/202611230635003/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-            "cap": "SBS 창사 36주년 특집 다큐 프로그램 '나의 이방인'은 22일 오후 11시15분 3부 'AI, 나를 닮은 너'를 방송한다. (사진=SBS 제공)"
+            "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
           },
           {
             "t": "p",
-            "x": "래퍼 김하온과 그를 학습한 인공지능(AI)이 랩 대결을 펼친다."
+            "x": "가수 장한별이 AI 보컬의 히트곡 ‘꿈꾸던 어른이 되었나요?’를 자신만의 진정성 넘치는 목소리로 재해석해 뜨거운 반응을 얻고 있다."
           },
           {
             "t": "p",
-            "x": "SBS 창사 36주년 특집 다큐 프로그램 '나의 이방인'은 22일 오후 11시15분 3부 'AI, 나를 닮은 너'를 방송한다."
+            "x": "장한별은 지난 18일 자신의 공식 유튜브 채널을 통해 가상 보컬 머무르(MEOMURU)의 원곡 ‘꿈꾸던 어른이 되었나요?’의 라이브 커버 영상을 공개했다. 해당 영상은 사흘 만인 21일 현재, 조회수 47만을 기록한데 이어 유튜브 하이프 순위 10위까지 올랐다."
           },
           {
             "t": "p",
-            "x": "이번 편에는 김하온의 목소리와 말투, 음악과 삶의 기록을 학습한 AI 도플갱어 '노아(NOAH)'가 등장한다. 김하온의 이름 'HAON'을 거꾸로 뒤집어 만든 이름이다. 노아는 \"일주일 안에 김하온을 따라잡겠다. 그리고 가능하다면, 넘어보겠다\"라고 도전장을 내민다."
+            "x": "원곡 ‘꿈꾸던 어른이 되었나요?’는 AI 기술로 생성된 가상 보컬 머무르가 발표한 곡으로, 최근 음원 사이트 멜론의 차트 정상에 오르며 가요계에 신선한 충격을 안긴 화제작이다. 장한별은 원곡의 멜로디 위에 15년 동안 무대를 지켜온 ‘인간 가수’만의 깊고 뜨거운 서사를 입혀 완전히 새로운 감동을 완성했다."
           },
           {
             "t": "p",
-            "x": "김하온은 노아에게 '고통'을 주제로 가사를 써 보라고 제안한다. 노아는 순식간에 가사를 완성하지만 김하온은 실제 고통을 경험하지 못한 AI의 감정 표현에 의문을 제기한다. 그는 \"고통을 알아야지 인간 김하온을 비로소 이해할 수 있어\"라고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "이후 노아는 김하온의 가족을 만나고 일상을 함께하며 자신만의 가사와 랩을 만들어간다. 마지막 날에는 관객 앞에서 두 사람이 직접 랩 대결을 펼친다."
-          },
-          {
-            "t": "p",
-            "x": "앞서 방송된 1·2부에서는 AI 딸과 AI 친구를 만난 사람들의 얘기가 시청자를 찾았다. '나의 이방인'은 방송콘텐츠대상 최우수상을 수상했다."
+            "x": "이번 영상에서 장한별은 화려한 장치나 고음 위주의 기교를 과감히 덜어냈다. 장한별은 최근 KBS2 ‘불후의 명곡’ 2회 연속 우승, 생애 첫 단독 콘서트 전석 매진, 신곡 ‘미야(Miya)’의 장기 흥행을 이어가고 있으며, 23일 KBS1 ‘가요무대’와 SBS Life ‘더트롯쇼’에 출연한다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "김하온 닮은 AI 노아\n원조와 랩 대결",
-          "body": "김하온을 학습한 AI '노아'가 22일 SBS 다큐에서 그와 랩 대결을 펼친다.",
-          "mini_headline": "김하온 vs AI 노아",
+          "headline": "장한별, AI 멜론 1위곡\n라이브 커버 공개",
+          "body": "장한별이 AI 가수 머무르의 멜론 1위곡 커버로 사흘 만에 47만 뷰를 기록했다.",
+          "mini_headline": "장한별, AI 1위곡 커버",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "SBS 창사 36주년 특집 다큐 프로그램 '나의 이방인'은 22일 오후 11시15분 3부 'AI, 나를 닮은 너'를 방송한다. (사진=SBS 제공)"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "래퍼 김하온과 그를 학습한 인공지능(AI)이 랩 대결을 펼친다."
+                "x": "가수 장한별이 AI 보컬의 히트곡 ‘꿈꾸던 어른이 되었나요?’를 자신만의 진정성 넘치는 목소리로 재해석해 뜨거운 반응을 얻고 있다."
               },
               {
                 "t": "p",
-                "x": "SBS 창사 36주년 특집 다큐 프로그램 '나의 이방인'은 22일 오후 11시15분 3부 'AI, 나를 닮은 너'를 방송한다."
+                "x": "장한별은 지난 18일 자신의 공식 유튜브 채널을 통해 가상 보컬 머무르(MEOMURU)의 원곡 ‘꿈꾸던 어른이 되었나요?’의 라이브 커버 영상을 공개했다. 해당 영상은 사흘 만인 21일 현재, 조회수 47만을 기록한데 이어 유튜브 하이프 순위 10위까지 올랐다."
               },
               {
                 "t": "p",
-                "x": "이번 편에는 김하온의 목소리와 말투, 음악과 삶의 기록을 학습한 AI 도플갱어 '노아(NOAH)'가 등장한다. 김하온의 이름 'HAON'을 거꾸로 뒤집어 만든 이름이다. 노아는 \"일주일 안에 김하온을 따라잡겠다. 그리고 가능하다면, 넘어보겠다\"라고 도전장을 내민다."
+                "x": "원곡 ‘꿈꾸던 어른이 되었나요?’는 AI 기술로 생성된 가상 보컬 머무르가 발표한 곡으로, 최근 음원 사이트 멜론의 차트 정상에 오르며 가요계에 신선한 충격을 안긴 화제작이다. 장한별은 원곡의 멜로디 위에 15년 동안 무대를 지켜온 ‘인간 가수’만의 깊고 뜨거운 서사를 입혀 완전히 새로운 감동을 완성했다."
               },
               {
                 "t": "p",
-                "x": "김하온은 노아에게 '고통'을 주제로 가사를 써 보라고 제안한다. 노아는 순식간에 가사를 완성하지만 김하온은 실제 고통을 경험하지 못한 AI의 감정 표현에 의문을 제기한다. 그는 \"고통을 알아야지 인간 김하온을 비로소 이해할 수 있어\"라고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "이후 노아는 김하온의 가족을 만나고 일상을 함께하며 자신만의 가사와 랩을 만들어간다. 마지막 날에는 관객 앞에서 두 사람이 직접 랩 대결을 펼친다."
-              },
-              {
-                "t": "p",
-                "x": "앞서 방송된 1·2부에서는 AI 딸과 AI 친구를 만난 사람들의 얘기가 시청자를 찾았다. '나의 이방인'은 방송콘텐츠대상 최우수상을 수상했다."
+                "x": "이번 영상에서 장한별은 화려한 장치나 고음 위주의 기교를 과감히 덜어냈다. 장한별은 최근 KBS2 ‘불후의 명곡’ 2회 연속 우승, 생애 첫 단독 콘서트 전석 매진, 신곡 ‘미야(Miya)’의 장기 흥행을 이어가고 있으며, 23일 KBS1 ‘가요무대’와 SBS Life ‘더트롯쇼’에 출연한다."
               }
             ]
           }
         },
         "en": {
-          "headline": "AI Noah, modeled on Kim Ha-on,\ntakes him on in a rap battle",
-          "body": "AI 'Noah', trained on Kim Ha-on, takes him on in a rap battle in an SBS documentary on the 22nd.",
-          "mini_headline": "Kim Ha-on vs AI Noah",
+          "headline": "Jang Han-byeol releases live\ncover of AI Melon No. 1 hit",
+          "body": "Jang Han-byeol's cover of AI singer MEOMURU's Melon No. 1 song drew 47만 views in three days.",
+          "mini_headline": "Jang Han-byeol covers AI No. 1 hit",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "SBS's 36th-anniversary special documentary 'My Stranger' airs Part 3, 'AI, You Who Resemble Me,' at 11:15 p.m. on the 22nd. (Photo: SBS)"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "Rapper Kim Ha-on and an artificial intelligence (AI) trained on him go head to head in a rap battle."
+                "x": "Singer Jang Han-byeol is drawing a warm response after reinterpreting the AI vocal hit ‘Have I Become the Adult I Dreamed Of?’ in his own sincere voice."
               },
               {
                 "t": "p",
-                "x": "SBS's 36th-anniversary special documentary 'My Stranger' airs Part 3, 'AI, You Who Resemble Me,' at 11:15 p.m. on the 22nd."
+                "x": "On the 18th, Jang released a live cover video of ‘Have I Become the Adult I Dreamed Of?’, originally by virtual vocalist MEOMURU, on his official YouTube channel. Three days later, as of the 21st, the video had reached 47만 views and climbed to No. 10 on YouTube's Hype ranking."
               },
               {
                 "t": "p",
-                "x": "The episode features 'Noah (NOAH)', an AI doppelganger trained on Kim Ha-on's voice, manner of speaking, music and records of his life. The name is his name, 'HAON', spelled backward. Noah lays down a challenge: \"I will catch up with Kim Ha-on within a week. And if possible, I will surpass him.\""
+                "x": "The original was released by MEOMURU, a virtual vocalist generated with AI technology, and recently topped the chart on the music streaming site Melon, giving the Korean pop music scene a fresh jolt. Over the original melody, Jang layered the deep, intense story of a ‘human singer’ who has held the stage for 15 years, creating an entirely new emotional experience."
               },
               {
                 "t": "p",
-                "x": "Kim Ha-on suggests that Noah write lyrics on the theme of 'pain'. Noah finishes the lyrics in an instant, but Kim Ha-on questions how an AI that has never actually experienced pain can express emotion. \"You have to know pain before you can truly understand Kim Ha-on the human,\" he says."
-              },
-              {
-                "t": "p",
-                "x": "Noah then meets Kim Ha-on's family, shares his daily life and builds lyrics and raps of its own. On the final day, the two face off in a rap battle in front of an audience."
-              },
-              {
-                "t": "p",
-                "x": "Parts 1 and 2, aired earlier, told the stories of people who met an AI daughter and an AI friend. 'My Stranger' won the top prize at the Broadcasting Content Awards."
+                "x": "In this video, Jang boldly stripped away flashy staging and high-note-driven technique. He recently won 2 consecutive episodes of KBS2's ‘Immortal Songs’, sold out every seat at his first solo concert and has kept his new song ‘Miya’ on a long run of success. On the 23rd he appears on KBS1's ‘Gayo Stage’ and SBS Life's ‘The Trot Show’."
               }
             ]
           }
         },
         "ja": {
-          "headline": "キム・ハオン似のAIノア\n本人とラップ対決",
-          "body": "キム・ハオンを学習したAI「ノア」が22日、SBSドキュメンタリーで本人とラップ対決する。",
-          "mini_headline": "キム・ハオン vs AIノア",
+          "headline": "チャン・ハンビョル、AI\nMelon 1位曲を生カバー",
+          "body": "チャン・ハンビョルによるAIのMelon 1位曲カバーが三日で47万回再生された。",
+          "mini_headline": "チャン・ハンビョル、AI 1位曲カバー",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "SBS開局36周年特集ドキュメンタリー『私の異邦人』は22日午後11時15分、第3部「AI、私に似たあなた」を放送する。（写真=SBS提供）"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "ラッパーのキム・ハオンと、彼を学習した人工知能（AI）がラップ対決を繰り広げる。"
+                "x": "歌手チャン・ハンビョルが、AIボーカルのヒット曲「夢見た大人になれましたか?」を自分ならではの真心あふれる歌声で再解釈し、熱い反響を呼んでいる。"
               },
               {
                 "t": "p",
-                "x": "SBS開局36周年特集ドキュメンタリー『私の異邦人』は22日午後11時15分、第3部「AI、私に似たあなた」を放送する。"
+                "x": "チャン・ハンビョルは18日、自身の公式YouTubeチャンネルで、バーチャルボーカルMEOMURUの原曲「夢見た大人になれましたか?」のライブカバー映像を公開した。映像は三日後の21日時点で再生回数47万回を記録し、YouTubeの急上昇ランキングで10位まで上がった。"
               },
               {
                 "t": "p",
-                "x": "今回はキム・ハオンの声や話し方、音楽と人生の記録を学習したAIドッペルゲンガー「ノア（NOAH）」が登場する。キム・ハオンの名前「HAON」を逆さにした名前だ。ノアは「一週間でキム・ハオンに追いつく。そして可能なら、超えてみせる」と挑戦状を突きつける。"
+                "x": "原曲「夢見た大人になれましたか?」は、AI技術で生成されたバーチャルボーカルMEOMURUが発表した曲で、最近は音楽配信サイトMelonのチャートで首位に立ち、歌謡界に新鮮な衝撃を与えた話題作だ。チャン・ハンビョルは原曲のメロディーに、15年間ステージを守ってきた「人間の歌手」ならではの深く熱い物語を重ね、まったく新しい感動を完成させた。"
               },
               {
                 "t": "p",
-                "x": "キム・ハオンはノアに「痛み」をテーマに歌詞を書くよう提案する。ノアは瞬く間に歌詞を書き上げるが、キム・ハオンは実際の痛みを経験していないAIの感情表現に疑問を投げかける。彼は「痛みを知ってこそ、人間キム・ハオンを初めて理解できる」と語る。"
-              },
-              {
-                "t": "p",
-                "x": "その後ノアはキム・ハオンの家族に会い、日常を共にしながら自分なりの歌詞とラップを作り上げていく。最終日には観客の前で二人が直接ラップ対決をする。"
-              },
-              {
-                "t": "p",
-                "x": "先に放送された第1・2部では、AIの娘やAIの友人と出会った人々の物語が届けられた。『私の異邦人』は放送コンテンツ大賞で最優秀賞を受賞している。"
+                "x": "今回の映像でチャン・ハンビョルは、華やかな演出や高音中心の技巧を思い切って削ぎ落とした。最近はKBS2「不朽の名曲」での2回連続優勝、初の単独コンサートの全席完売、新曲「Miya」のロングヒットと好調が続いており、23日にはKBS1「歌謡舞台」とSBS Life「ザ・トロットショー」に出演する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "酷似金夏温的AI诺亚\n与本尊展开说唱对决",
-          "body": "学习金夏温的AI“诺亚”22日将在SBS纪录片中与他展开说唱对决。",
-          "mini_headline": "金夏温 vs AI诺亚",
+          "headline": "Jang Han-byeol\n翻唱AI的Melon第1名曲",
+          "body": "Jang Han-byeol翻唱AI歌手的Melon第1名歌曲，三天播放量达47万。",
+          "mini_headline": "Jang Han-byeol翻唱AI冠军曲",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "SBS开台36周年特别纪录片《我的异乡人》将于22日晚11点15分播出第3集《AI，像我的你》。（图片=SBS提供）"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "说唱歌手金夏温将与学习了他的人工智能（AI）展开说唱对决。"
+                "x": "歌手Jang Han-byeol以自己真挚动人的嗓音重新演绎AI歌手的热门歌曲《梦想中的大人，我成为了吗？》，引发热烈反响。"
               },
               {
                 "t": "p",
-                "x": "SBS开台36周年特别纪录片《我的异乡人》将于22日晚11点15分播出第3集《AI，像我的你》。"
+                "x": "Jang Han-byeol于18日通过个人官方YouTube频道，公开了虚拟歌手MEOMURU原唱《梦想中的大人，我成为了吗？》的现场翻唱视频。该视频在三天后的21日播放量已达47万，并登上YouTube热门榜第10名。"
               },
               {
                 "t": "p",
-                "x": "本集登场的是学习了金夏温的声音、说话方式、音乐和人生记录的AI分身“诺亚（NOAH）”。这个名字由金夏温的名字“HAON”倒过来而成。诺亚下了战书：“我要在一周内追上金夏温。如果可能的话，还要超越他。”"
+                "x": "原曲《梦想中的大人，我成为了吗？》由AI技术生成的虚拟歌手MEOMURU发布，近期登顶音乐平台Melon榜单，给韩国歌坛带来新鲜冲击，成为话题之作。Jang Han-byeol在原曲旋律之上，融入了坚守舞台15年的“人类歌手”独有的深沉而炽热的叙事，带来全新的感动。"
               },
               {
                 "t": "p",
-                "x": "金夏温提议诺亚以“痛苦”为主题写歌词。诺亚转眼就写完了歌词，但金夏温对没有真正经历过痛苦的AI能否表达情感提出疑问。他说：“要懂得痛苦，才能真正理解作为人的金夏温。”"
-              },
-              {
-                "t": "p",
-                "x": "此后，诺亚与金夏温的家人见面，共度日常，逐步创作出属于自己的歌词和说唱。最后一天，两人在观众面前直接进行说唱对决。"
-              },
-              {
-                "t": "p",
-                "x": "此前播出的第1、2集讲述了遇见AI女儿和AI朋友的人们的故事。《我的异乡人》曾获广播内容大奖最优秀奖。"
+                "x": "在这次的视频中，Jang Han-byeol大胆去掉了华丽的编排和以高音为主的技巧。他近期在KBS2《不朽的名曲》中连续2次夺冠，首场个人演唱会门票全部售罄，新歌《Miya》持续热门，并将于23日登上KBS1《歌谣舞台》和SBS Life《The Trot Show》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Noah, AI que imita a Kim Ha-on,\nlo desafía en un duelo de rap",
-          "body": "La AI 'Noah', entrenada con Kim Ha-on, se enfrenta a él en un duelo de rap en un documental de SBS el día 22.",
-          "mini_headline": "Kim Ha-on vs AI Noah",
+          "headline": "Jang Han-byeol versiona en vivo\nun número 1 de AI en Melon",
+          "body": "Jang Han-byeol logró 47만 visitas en tres días con su versión del número 1 en Melon de la voz de AI MEOMURU.",
+          "mini_headline": "Jang Han-byeol versiona un éxito de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "El documental especial por el 36.º aniversario de SBS, 'Mi extraño', emite el día 22 a las 11:15 p. m. su 3.ª parte, 'AI, tú que te pareces a mí'. (Foto: cortesía de SBS)"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "El rapero Kim Ha-on y una inteligencia artificial (AI) entrenada con sus datos se enfrentan en un duelo de rap."
+                "x": "El cantante Jang Han-byeol está recibiendo una cálida acogida tras reinterpretar con su propia voz, llena de autenticidad, el éxito de una voz de AI ‘¿Me he convertido en el adulto que soñaba?’."
               },
               {
                 "t": "p",
-                "x": "El documental especial por el 36.º aniversario de SBS, 'Mi extraño', emite el día 22 a las 11:15 p. m. su 3.ª parte, 'AI, tú que te pareces a mí'."
+                "x": "El día 18, Jang publicó en su canal oficial de YouTube un video en vivo con su versión de ‘¿Me he convertido en el adulto que soñaba?’, original de la voz virtual MEOMURU. Tres días después, a fecha del 21, el video sumaba 47만 visualizaciones y había subido hasta el puesto 10 del ranking Hype de YouTube."
               },
               {
                 "t": "p",
-                "x": "En este episodio aparece 'Noah (NOAH)', un doble de AI entrenado con la voz, la forma de hablar, la música y los registros de vida de Kim Ha-on. Su nombre es 'HAON', el nombre de Kim Ha-on, escrito al revés. Noah lanza un desafío: \"Alcanzaré a Kim Ha-on en una semana. Y, si es posible, lo superaré\"."
+                "x": "La canción original, publicada por MEOMURU, una voz virtual generada con tecnología de AI, llegó recientemente a lo más alto de la lista del sitio de música Melon y causó un impacto refrescante en la música popular coreana. Sobre la melodía original, Jang añadió la narrativa profunda e intensa de un ‘cantante humano’ que ha defendido el escenario durante 15 años, logrando una emoción completamente nueva."
               },
               {
                 "t": "p",
-                "x": "Kim Ha-on le propone a Noah escribir una letra sobre el 'dolor'. Noah la termina en un instante, pero Kim Ha-on cuestiona la expresión emocional de una AI que nunca ha sentido dolor de verdad. \"Hay que conocer el dolor para entender por fin al Kim Ha-on humano\", dice."
-              },
-              {
-                "t": "p",
-                "x": "Después, Noah conoce a la familia de Kim Ha-on, comparte su día a día y va creando sus propias letras y raps. El último día, ambos se enfrentan cara a cara en un duelo de rap ante el público."
-              },
-              {
-                "t": "p",
-                "x": "Las partes 1 y 2, emitidas antes, contaron las historias de personas que conocieron a una hija AI y a un amigo AI. 'Mi extraño' ganó el máximo galardón de los Premios de Contenidos de Radiodifusión."
+                "x": "En este video, Jang prescindió con decisión de efectos llamativos y de la técnica centrada en las notas agudas. Recientemente ganó 2 veces seguidas en ‘Immortal Songs’ de KBS2, agotó todas las entradas de su primer concierto en solitario y mantiene el éxito prolongado de su nuevo tema ‘Miya’; el día 23 aparecerá en ‘Gayo Stage’ de KBS1 y en ‘The Trot Show’ de SBS Life."
               }
             ]
           }
@@ -1213,157 +857,121 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "AI Noah, modeled on Kim Ha-on,\ntakes him on in a rap battle",
-          "body": "AI 'Noah', trained on Kim Ha-on, takes him on in a rap battle in an SBS documentary on the 22nd.",
-          "mini_headline": "Kim Ha-on vs AI Noah",
+          "headline": "Jang Han-byeol releases live\ncover of AI Melon No. 1 hit",
+          "body": "Jang Han-byeol's cover of AI singer MEOMURU's Melon No. 1 song drew 47만 views in three days.",
+          "mini_headline": "Jang Han-byeol covers AI No. 1 hit",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "SBS's 36th-anniversary special documentary 'My Stranger' airs Part 3, 'AI, You Who Resemble Me,' at 11:15 p.m. on the 22nd. (Photo: SBS)"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "Rapper Kim Ha-on and an artificial intelligence (AI) trained on him go head to head in a rap battle."
+                "x": "Singer Jang Han-byeol is drawing a warm response after reinterpreting the AI vocal hit ‘Have I Become the Adult I Dreamed Of?’ in his own sincere voice."
               },
               {
                 "t": "p",
-                "x": "SBS's 36th-anniversary special documentary 'My Stranger' airs Part 3, 'AI, You Who Resemble Me,' at 11:15 p.m. on the 22nd."
+                "x": "On the 18th, Jang released a live cover video of ‘Have I Become the Adult I Dreamed Of?’, originally by virtual vocalist MEOMURU, on his official YouTube channel. Three days later, as of the 21st, the video had reached 47만 views and climbed to No. 10 on YouTube's Hype ranking."
               },
               {
                 "t": "p",
-                "x": "The episode features 'Noah (NOAH)', an AI doppelganger trained on Kim Ha-on's voice, manner of speaking, music and records of his life. The name is his name, 'HAON', spelled backward. Noah lays down a challenge: \"I will catch up with Kim Ha-on within a week. And if possible, I will surpass him.\""
+                "x": "The original was released by MEOMURU, a virtual vocalist generated with AI technology, and recently topped the chart on the music streaming site Melon, giving the Korean pop music scene a fresh jolt. Over the original melody, Jang layered the deep, intense story of a ‘human singer’ who has held the stage for 15 years, creating an entirely new emotional experience."
               },
               {
                 "t": "p",
-                "x": "Kim Ha-on suggests that Noah write lyrics on the theme of 'pain'. Noah finishes the lyrics in an instant, but Kim Ha-on questions how an AI that has never actually experienced pain can express emotion. \"You have to know pain before you can truly understand Kim Ha-on the human,\" he says."
-              },
-              {
-                "t": "p",
-                "x": "Noah then meets Kim Ha-on's family, shares his daily life and builds lyrics and raps of its own. On the final day, the two face off in a rap battle in front of an audience."
-              },
-              {
-                "t": "p",
-                "x": "Parts 1 and 2, aired earlier, told the stories of people who met an AI daughter and an AI friend. 'My Stranger' won the top prize at the Broadcasting Content Awards."
+                "x": "In this video, Jang boldly stripped away flashy staging and high-note-driven technique. He recently won 2 consecutive episodes of KBS2's ‘Immortal Songs’, sold out every seat at his first solo concert and has kept his new song ‘Miya’ on a long run of success. On the 23rd he appears on KBS1's ‘Gayo Stage’ and SBS Life's ‘The Trot Show’."
               }
             ]
           }
         },
         "ja": {
-          "headline": "キム・ハオン似のAIノア\n本人とラップ対決",
-          "body": "キム・ハオンを学習したAI「ノア」が22日、SBSドキュメンタリーで本人とラップ対決する。",
-          "mini_headline": "キム・ハオン vs AIノア",
+          "headline": "チャン・ハンビョル、AI\nMelon 1位曲を生カバー",
+          "body": "チャン・ハンビョルによるAIのMelon 1位曲カバーが三日で47万回再生された。",
+          "mini_headline": "チャン・ハンビョル、AI 1位曲カバー",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "SBS開局36周年特集ドキュメンタリー『私の異邦人』は22日午後11時15分、第3部「AI、私に似たあなた」を放送する。（写真=SBS提供）"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "ラッパーのキム・ハオンと、彼を学習した人工知能（AI）がラップ対決を繰り広げる。"
+                "x": "歌手チャン・ハンビョルが、AIボーカルのヒット曲「夢見た大人になれましたか?」を自分ならではの真心あふれる歌声で再解釈し、熱い反響を呼んでいる。"
               },
               {
                 "t": "p",
-                "x": "SBS開局36周年特集ドキュメンタリー『私の異邦人』は22日午後11時15分、第3部「AI、私に似たあなた」を放送する。"
+                "x": "チャン・ハンビョルは18日、自身の公式YouTubeチャンネルで、バーチャルボーカルMEOMURUの原曲「夢見た大人になれましたか?」のライブカバー映像を公開した。映像は三日後の21日時点で再生回数47万回を記録し、YouTubeの急上昇ランキングで10位まで上がった。"
               },
               {
                 "t": "p",
-                "x": "今回はキム・ハオンの声や話し方、音楽と人生の記録を学習したAIドッペルゲンガー「ノア（NOAH）」が登場する。キム・ハオンの名前「HAON」を逆さにした名前だ。ノアは「一週間でキム・ハオンに追いつく。そして可能なら、超えてみせる」と挑戦状を突きつける。"
+                "x": "原曲「夢見た大人になれましたか?」は、AI技術で生成されたバーチャルボーカルMEOMURUが発表した曲で、最近は音楽配信サイトMelonのチャートで首位に立ち、歌謡界に新鮮な衝撃を与えた話題作だ。チャン・ハンビョルは原曲のメロディーに、15年間ステージを守ってきた「人間の歌手」ならではの深く熱い物語を重ね、まったく新しい感動を完成させた。"
               },
               {
                 "t": "p",
-                "x": "キム・ハオンはノアに「痛み」をテーマに歌詞を書くよう提案する。ノアは瞬く間に歌詞を書き上げるが、キム・ハオンは実際の痛みを経験していないAIの感情表現に疑問を投げかける。彼は「痛みを知ってこそ、人間キム・ハオンを初めて理解できる」と語る。"
-              },
-              {
-                "t": "p",
-                "x": "その後ノアはキム・ハオンの家族に会い、日常を共にしながら自分なりの歌詞とラップを作り上げていく。最終日には観客の前で二人が直接ラップ対決をする。"
-              },
-              {
-                "t": "p",
-                "x": "先に放送された第1・2部では、AIの娘やAIの友人と出会った人々の物語が届けられた。『私の異邦人』は放送コンテンツ大賞で最優秀賞を受賞している。"
+                "x": "今回の映像でチャン・ハンビョルは、華やかな演出や高音中心の技巧を思い切って削ぎ落とした。最近はKBS2「不朽の名曲」での2回連続優勝、初の単独コンサートの全席完売、新曲「Miya」のロングヒットと好調が続いており、23日にはKBS1「歌謡舞台」とSBS Life「ザ・トロットショー」に出演する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "酷似金夏温的AI诺亚\n与本尊展开说唱对决",
-          "body": "学习金夏温的AI“诺亚”22日将在SBS纪录片中与他展开说唱对决。",
-          "mini_headline": "金夏温 vs AI诺亚",
+          "headline": "Jang Han-byeol\n翻唱AI的Melon第1名曲",
+          "body": "Jang Han-byeol翻唱AI歌手的Melon第1名歌曲，三天播放量达47万。",
+          "mini_headline": "Jang Han-byeol翻唱AI冠军曲",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "SBS开台36周年特别纪录片《我的异乡人》将于22日晚11点15分播出第3集《AI，像我的你》。（图片=SBS提供）"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "说唱歌手金夏温将与学习了他的人工智能（AI）展开说唱对决。"
+                "x": "歌手Jang Han-byeol以自己真挚动人的嗓音重新演绎AI歌手的热门歌曲《梦想中的大人，我成为了吗？》，引发热烈反响。"
               },
               {
                 "t": "p",
-                "x": "SBS开台36周年特别纪录片《我的异乡人》将于22日晚11点15分播出第3集《AI，像我的你》。"
+                "x": "Jang Han-byeol于18日通过个人官方YouTube频道，公开了虚拟歌手MEOMURU原唱《梦想中的大人，我成为了吗？》的现场翻唱视频。该视频在三天后的21日播放量已达47万，并登上YouTube热门榜第10名。"
               },
               {
                 "t": "p",
-                "x": "本集登场的是学习了金夏温的声音、说话方式、音乐和人生记录的AI分身“诺亚（NOAH）”。这个名字由金夏温的名字“HAON”倒过来而成。诺亚下了战书：“我要在一周内追上金夏温。如果可能的话，还要超越他。”"
+                "x": "原曲《梦想中的大人，我成为了吗？》由AI技术生成的虚拟歌手MEOMURU发布，近期登顶音乐平台Melon榜单，给韩国歌坛带来新鲜冲击，成为话题之作。Jang Han-byeol在原曲旋律之上，融入了坚守舞台15年的“人类歌手”独有的深沉而炽热的叙事，带来全新的感动。"
               },
               {
                 "t": "p",
-                "x": "金夏温提议诺亚以“痛苦”为主题写歌词。诺亚转眼就写完了歌词，但金夏温对没有真正经历过痛苦的AI能否表达情感提出疑问。他说：“要懂得痛苦，才能真正理解作为人的金夏温。”"
-              },
-              {
-                "t": "p",
-                "x": "此后，诺亚与金夏温的家人见面，共度日常，逐步创作出属于自己的歌词和说唱。最后一天，两人在观众面前直接进行说唱对决。"
-              },
-              {
-                "t": "p",
-                "x": "此前播出的第1、2集讲述了遇见AI女儿和AI朋友的人们的故事。《我的异乡人》曾获广播内容大奖最优秀奖。"
+                "x": "在这次的视频中，Jang Han-byeol大胆去掉了华丽的编排和以高音为主的技巧。他近期在KBS2《不朽的名曲》中连续2次夺冠，首场个人演唱会门票全部售罄，新歌《Miya》持续热门，并将于23日登上KBS1《歌谣舞台》和SBS Life《The Trot Show》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Noah, AI que imita a Kim Ha-on,\nlo desafía en un duelo de rap",
-          "body": "La AI 'Noah', entrenada con Kim Ha-on, se enfrenta a él en un duelo de rap en un documental de SBS el día 22.",
-          "mini_headline": "Kim Ha-on vs AI Noah",
+          "headline": "Jang Han-byeol versiona en vivo\nun número 1 de AI en Melon",
+          "body": "Jang Han-byeol logró 47만 visitas en tres días con su versión del número 1 en Melon de la voz de AI MEOMURU.",
+          "mini_headline": "Jang Han-byeol versiona un éxito de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298178_web.jpg",
-                "cap": "El documental especial por el 36.º aniversario de SBS, 'Mi extraño', emite el día 22 a las 11:15 p. m. su 3.ª parte, 'AI, tú que te pareces a mí'. (Foto: cortesía de SBS)"
+                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
               },
               {
                 "t": "p",
-                "x": "El rapero Kim Ha-on y una inteligencia artificial (AI) entrenada con sus datos se enfrentan en un duelo de rap."
+                "x": "El cantante Jang Han-byeol está recibiendo una cálida acogida tras reinterpretar con su propia voz, llena de autenticidad, el éxito de una voz de AI ‘¿Me he convertido en el adulto que soñaba?’."
               },
               {
                 "t": "p",
-                "x": "El documental especial por el 36.º aniversario de SBS, 'Mi extraño', emite el día 22 a las 11:15 p. m. su 3.ª parte, 'AI, tú que te pareces a mí'."
+                "x": "El día 18, Jang publicó en su canal oficial de YouTube un video en vivo con su versión de ‘¿Me he convertido en el adulto que soñaba?’, original de la voz virtual MEOMURU. Tres días después, a fecha del 21, el video sumaba 47만 visualizaciones y había subido hasta el puesto 10 del ranking Hype de YouTube."
               },
               {
                 "t": "p",
-                "x": "En este episodio aparece 'Noah (NOAH)', un doble de AI entrenado con la voz, la forma de hablar, la música y los registros de vida de Kim Ha-on. Su nombre es 'HAON', el nombre de Kim Ha-on, escrito al revés. Noah lanza un desafío: \"Alcanzaré a Kim Ha-on en una semana. Y, si es posible, lo superaré\"."
+                "x": "La canción original, publicada por MEOMURU, una voz virtual generada con tecnología de AI, llegó recientemente a lo más alto de la lista del sitio de música Melon y causó un impacto refrescante en la música popular coreana. Sobre la melodía original, Jang añadió la narrativa profunda e intensa de un ‘cantante humano’ que ha defendido el escenario durante 15 años, logrando una emoción completamente nueva."
               },
               {
                 "t": "p",
-                "x": "Kim Ha-on le propone a Noah escribir una letra sobre el 'dolor'. Noah la termina en un instante, pero Kim Ha-on cuestiona la expresión emocional de una AI que nunca ha sentido dolor de verdad. \"Hay que conocer el dolor para entender por fin al Kim Ha-on humano\", dice."
-              },
-              {
-                "t": "p",
-                "x": "Después, Noah conoce a la familia de Kim Ha-on, comparte su día a día y va creando sus propias letras y raps. El último día, ambos se enfrentan cara a cara en un duelo de rap ante el público."
-              },
-              {
-                "t": "p",
-                "x": "Las partes 1 y 2, emitidas antes, contaron las historias de personas que conocieron a una hija AI y a un amigo AI. 'Mi extraño' ganó el máximo galardón de los Premios de Contenidos de Radiodifusión."
+                "x": "En este video, Jang prescindió con decisión de efectos llamativos y de la técnica centrada en las notas agudas. Recientemente ganó 2 veces seguidas en ‘Immortal Songs’ de KBS2, agotó todas las entradas de su primer concierto en solitario y mantiene el éxito prolongado de su nuevo tema ‘Miya’; el día 23 aparecerá en ‘Gayo Stage’ de KBS1 y en ‘The Trot Show’ de SBS Life."
               }
             ]
           }
@@ -1371,165 +979,189 @@
       }
     },
     {
-      "id": "harmonic-circuit-chord-arxiv",
+      "id": "bellamy-ai-guitar-tone",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "코드 진행의 근원\n모델 속 희소 회로",
-      "body": "연구진이 기호 음악 모델 안에서 코드 진행 예측을 이끄는 희소 회로를 찾았다.",
-      "mini_headline": "음악 AI 속 코드 회로",
+      "headline": "Matt Bellamy,\n말로 톤 바꾸는 기타 원해",
+      "body": "Bellamy는 Guitar.com에 말로 톤을 바꾸는 AI 기타를 바란다고 했다.",
+      "mini_headline": "Bellamy가 바라는 AI 기타",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.24453v1",
+      "source": "Consequence",
+      "url": "https://consequence.net/2026/11/muse-matt-bellamy-ai-guitar/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+            "t": "img",
+            "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
           },
           {
             "t": "p",
-            "x": "Mechanistic Interpretability(MI, 기계적 해석 가능성)는 신경망의 연산을 사람이 이해할 수 있는 논리로 풀어내려 한다. MI의 핵심 방법은 회로 발견, 곧 모델의 특정 행동을 이끄는 하위 네트워크 속 정보 흐름을 찾는 일이다. 회로 발견은 Natural Language Processing(NLP, 자연어 처리)에서 이미 자리를 잡았다. 음악 모델에서 해석 가능한 회로를 살핀 연구는 아직 거의 없다."
+            "x": "Bellamy는 Guitar.com 인터뷰에서 AI 기타 셋업 구상을 털어놨다. “기타에 AI 요소를 접목해서, 기타가 특정한 소리를 내도록 프롬프트를 줄 수 있다는 아이디어가 마음에 든다”고 그는 말했다. “…말하자면 기타에게 말을 걸어 원하는 소리를 알려 주는 거다. 기술이 아직 거기까지 왔는지는 잘 모르겠지만, 두고 보자!”"
           },
           {
             "t": "p",
-            "x": "우리는 기호 음악 생성 모델 ChatMusician과 MuPT 두 가지에서 음악적 기능을 하는 회로를 찾아냈다. 다룬 기능은 고전적 화성 진행 패턴 I … V → I에서 마지막 으뜸음 근음을 예측하는 일이다. Auto-Emergence 알고리즘으로 주요 희소 하위 네트워크를 뽑아 회로로 식별했다. 인과적 개입으로 검증해 보니 이 회로가 기호 음악 모델의 화성 진행 행동을 이끄는 주된 요인이었다. 우리가 아는 한 음악 분야의 첫 체계적 회로 발견 연구다."
+            "x": "신시사이저에 빗댄 설명도 했다. 신시사이저로 원하는 톤을 잡으려면 몇 시간이 걸리기도 하지만 AI-prompted 신스는 음질이 그만 못해도 몇 초면 된다. “무언가를 프롬프트로 지시한 다음 아날로그적인 일이 벌어진다는 아이디어가 좋다. 그게 나한테는 흥미롭다.”"
           },
           {
             "t": "p",
-            "x": "데모 페이지: https://ukiyo23rui.github.io/auto-emergence-demo/"
+            "x": "NME에 따르면 Muse는 “The WOW! Signal Tour”에 이미 AI를 들였다. AI 시스템이 사운드 데스크를 맡아 일부 곡의 컨트롤과 볼륨 레벨을 조정하고 “Psycho” 도입부 연설도 한다."
+          },
+          {
+            "t": "p",
+            "x": "“내 아이들을 보면 이미 변화가 보이기 때문에 AI 음악은 그다지 걱정하지 않는다”고 그는 Guitar.com에 말했다. “진짜 뮤지션들이 연주하는 라이브 음악이 상승세를 탈 거라고 본다… 우리가 진짜라고 아는 건 그것뿐이니까.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Chord progressions traced\nto sparse model circuits",
-          "body": "Researchers locate a sparse circuit inside symbolic music models that drives chord-progression prediction.",
-          "mini_headline": "Chord circuits in music AI",
+          "headline": "Matt Bellamy wants a guitar\nhe can talk to about tone",
+          "body": "Muse's Matt Bellamy told Guitar.com he wants an AI guitar he can tell how he wants his tone to sound.",
+          "mini_headline": "Bellamy wants an AI guitar",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "Mechanistic Interpretability (MI) seeks to decode neural network computations into human-understandable logic. A core methodology in MI is circuit discovery: identifying the information flow in sub-networks that drive specific model behaviors. While circuit discovery has matured within Natural Language Processing (NLP), the interpretable circuits in music models remain largely unexplored."
+                "x": "Speaking with Guitar.com, Bellamy discussed his vision for an AI guitar setup. “I like the idea of trying to integrate AI components into guitars, where you can prompt a guitar to sound a certain way,” he said. “…so you can essentially talk to your guitar and tell it how you want it to sound. I’m not quite sure the tech’s there yet, but we’ll see!”"
               },
               {
                 "t": "p",
-                "x": "In this work, we identify a music-functional circuit within two symbolic music generative models: ChatMusician and MuPT. The music function we consider is the prediction of the terminal tonic root in a classical harmonic progression pattern I … V → I. We use the Auto-Emergence algorithm to extract a principal sparse sub-network as the identified circuit. Validation via causal intervention confirms that this identified circuit is a primary driver of harmonic progression behaviors in the symbolic music models. To our knowledge, this represents the first systematic circuit-discovery study conducted within the music domain."
+                "x": "He compared the idea to synthesizers, which can take hours to dial in the right tone, whereas AI-prompted synths can do it in seconds, though the sound quality isn’t as good. “I like the idea of prompting something, but then something analogue happens — that’s interesting to me.”"
               },
               {
                 "t": "p",
-                "x": "Demo page: https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "Muse have already embraced AI on “The WOW! Signal Tour,” according to NME: an AI system operates a sound desk, adjusting controls and volume levels on certain songs and delivering the speech at the beginning of “Psycho.”"
+              },
+              {
+                "t": "p",
+                "x": "“I’m not that worried about AI music because I can already see a change with my kids,” he told Guitar.com. “I think live music is going to be trending upwards, with real musicians playing… because it’s the only thing we know is real.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "코드 진행의 근원\n모델 속 희소 회로",
-          "body": "연구진이 기호 음악 모델 안에서 코드 진행 예측을 이끄는 희소 회로를 찾았다.",
-          "mini_headline": "음악 AI 속 코드 회로",
+          "headline": "Matt Bellamy,\n말로 톤 바꾸는 기타 원해",
+          "body": "Bellamy는 Guitar.com에 말로 톤을 바꾸는 AI 기타를 바란다고 했다.",
+          "mini_headline": "Bellamy가 바라는 AI 기타",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "Mechanistic Interpretability(MI, 기계적 해석 가능성)는 신경망의 연산을 사람이 이해할 수 있는 논리로 풀어내려 한다. MI의 핵심 방법은 회로 발견, 곧 모델의 특정 행동을 이끄는 하위 네트워크 속 정보 흐름을 찾는 일이다. 회로 발견은 Natural Language Processing(NLP, 자연어 처리)에서 이미 자리를 잡았다. 음악 모델에서 해석 가능한 회로를 살핀 연구는 아직 거의 없다."
+                "x": "Bellamy는 Guitar.com 인터뷰에서 AI 기타 셋업 구상을 털어놨다. “기타에 AI 요소를 접목해서, 기타가 특정한 소리를 내도록 프롬프트를 줄 수 있다는 아이디어가 마음에 든다”고 그는 말했다. “…말하자면 기타에게 말을 걸어 원하는 소리를 알려 주는 거다. 기술이 아직 거기까지 왔는지는 잘 모르겠지만, 두고 보자!”"
               },
               {
                 "t": "p",
-                "x": "우리는 기호 음악 생성 모델 ChatMusician과 MuPT 두 가지에서 음악적 기능을 하는 회로를 찾아냈다. 다룬 기능은 고전적 화성 진행 패턴 I … V → I에서 마지막 으뜸음 근음을 예측하는 일이다. Auto-Emergence 알고리즘으로 주요 희소 하위 네트워크를 뽑아 회로로 식별했다. 인과적 개입으로 검증해 보니 이 회로가 기호 음악 모델의 화성 진행 행동을 이끄는 주된 요인이었다. 우리가 아는 한 음악 분야의 첫 체계적 회로 발견 연구다."
+                "x": "신시사이저에 빗댄 설명도 했다. 신시사이저로 원하는 톤을 잡으려면 몇 시간이 걸리기도 하지만 AI-prompted 신스는 음질이 그만 못해도 몇 초면 된다. “무언가를 프롬프트로 지시한 다음 아날로그적인 일이 벌어진다는 아이디어가 좋다. 그게 나한테는 흥미롭다.”"
               },
               {
                 "t": "p",
-                "x": "데모 페이지: https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "NME에 따르면 Muse는 “The WOW! Signal Tour”에 이미 AI를 들였다. AI 시스템이 사운드 데스크를 맡아 일부 곡의 컨트롤과 볼륨 레벨을 조정하고 “Psycho” 도입부 연설도 한다."
+              },
+              {
+                "t": "p",
+                "x": "“내 아이들을 보면 이미 변화가 보이기 때문에 AI 음악은 그다지 걱정하지 않는다”고 그는 Guitar.com에 말했다. “진짜 뮤지션들이 연주하는 라이브 음악이 상승세를 탈 거라고 본다… 우리가 진짜라고 아는 건 그것뿐이니까.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "コード進行を担う\nモデル内の疎な回路",
-          "body": "研究者らが記号音楽モデル内で、コード進行予測を担う疎な回路を特定した。",
-          "mini_headline": "音楽AIのコード回路",
+          "headline": "Matt Bellamy\n話しかけて音作りするギター",
+          "body": "BellamyはGuitar.comに、音色を口頭で指示できるAIギターが欲しいと語った。",
+          "mini_headline": "Bellamy、AIギターを望む",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "Mechanistic Interpretability（MI、機械論的解釈可能性）は、ニューラルネットワークの計算を人間が理解できる論理へと解読することを目指す。MIの中核的な手法は回路発見であり、特定のモデル挙動を生み出すサブネットワーク内の情報の流れを特定するものだ。回路発見はNatural Language Processing（NLP、自然言語処理）の分野では成熟しているが、音楽モデルにおける解釈可能な回路はほとんど探究されていない。"
+                "x": "BellamyはGuitar.comの取材で、AIギターのセットアップ構想について語った。「ギターにAIの要素を組み込んで、特定の音を出すようギターにプロンプトを与えられるというアイデアが気に入っている」と彼は言う。「…つまり、ギターに話しかけて、どんな音にしたいかを伝えられるわけだ。技術がまだそこまで来ているかはわからないが、様子を見よう!」"
               },
               {
                 "t": "p",
-                "x": "本研究では、二つの記号音楽生成モデルChatMusicianとMuPTの内部に、音楽的機能を担う回路を特定した。対象とする音楽的機能は、古典的な和声進行パターンI … V → Iにおける終止の主音の根音の予測である。Auto-Emergenceアルゴリズムを用いて主要な疎のサブネットワークを抽出し、これを回路として特定した。因果的介入による検証で、この回路が記号音楽モデルの和声進行の挙動を主に駆動していることを確認した。我々の知る限り、これは音楽分野で行われた初の体系的な回路発見研究である。"
+                "x": "彼はこのアイデアをシンセサイザーになぞらえた。シンセサイザーは狙った音色に追い込むまで何時間もかかることがあるが、AI-promptedのシンセは音質こそ劣るものの数秒でそれをこなす。「何かをプロンプトで指示して、そこからアナログな何かが起きるというアイデアが好きだ。それが自分には面白い」"
               },
               {
                 "t": "p",
-                "x": "デモページ：https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "NMEによると、Museはすでに「The WOW! Signal Tour」でAIを取り入れている。AIシステムがサウンドデスクを操作し、一部の曲でコントロールや音量レベルを調整するほか、「Psycho」冒頭のスピーチも担っている。"
+              },
+              {
+                "t": "p",
+                "x": "「自分の子どもたちを見ていると、すでに変化が見えているから、AI音楽についてはそれほど心配していない」と彼はGuitar.comに語った。「本物のミュージシャンが演奏するライブ音楽は上向いていくと思う…それが唯一、本物だとわかっているものだから」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "和弦进行源自\n模型中的稀疏回路",
-          "body": "研究人员在符号音乐模型中找到一个驱动和弦进行预测的稀疏回路。",
-          "mini_headline": "音乐AI中的和弦回路",
+          "headline": "Matt Bellamy\n想要能对话调音色的吉他",
+          "body": "Muse的Bellamy对Guitar.com说，想要能用语音设定音色的AI吉他。",
+          "mini_headline": "Bellamy想要AI吉他",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "Mechanistic Interpretability（MI，机制可解释性）旨在把神经网络的计算解码为人类可理解的逻辑。MI的核心方法是回路发现，即识别驱动特定模型行为的子网络中的信息流。回路发现在Natural Language Processing（NLP，自然语言处理）领域已较为成熟，但音乐模型中的可解释回路在很大程度上仍未被探索。"
+                "x": "Bellamy在接受Guitar.com采访时，谈到了他对AI吉他配置的设想。“我喜欢把AI组件整合进吉他的想法，你可以通过提示让吉他发出某种特定的声音，”他说。“……这样你基本上就能和吉他对话，告诉它你想要什么样的声音。我不太确定技术是否已经到位，但走着瞧吧！”"
               },
               {
                 "t": "p",
-                "x": "在这项工作中，我们在两个符号音乐生成模型ChatMusician和MuPT中识别出一个具有音乐功能的回路。我们考察的音乐功能是预测经典和声进行模式I … V → I中结尾主音的根音。我们使用Auto-Emergence算法提取一个主要的稀疏子网络作为所识别的回路。通过因果干预进行的验证证实，该回路是符号音乐模型和声进行行为的主要驱动因素。据我们所知，这是音乐领域首个系统性的回路发现研究。"
+                "x": "他把这个想法比作合成器：合成器可能要花好几个小时才能调出合适的音色，而AI-prompted合成器几秒钟就能做到，只是音质没那么好。“我喜欢先给出提示，然后发生一些模拟的事情——这让我觉得很有意思。”"
               },
               {
                 "t": "p",
-                "x": "演示页面：https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "据NME报道，Muse已在“The WOW! Signal Tour”巡演中引入AI：一套AI系统操作调音台，在部分歌曲中调整控制参数和音量，并在“Psycho”开场时发表讲话。"
+              },
+              {
+                "t": "p",
+                "x": "“我不太担心AI音乐，因为我已经在孩子们身上看到了变化，”他对Guitar.com说。“我认为由真正的音乐人演奏的现场音乐会越来越受欢迎……因为这是我们唯一确知是真实的东西。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Progresiones de acordes, ligadas\na circuitos dispersos del modelo",
-          "body": "Investigadores hallan en modelos de música simbólica un circuito disperso que predice progresiones de acordes.",
-          "mini_headline": "Circuitos de acordes en la AI musical",
+          "headline": "Matt Bellamy quiere una guitarra\na la que pedirle el tono",
+          "body": "Matt Bellamy, de Muse, dijo a Guitar.com que quiere una guitarra con AI a la que pueda decirle cómo quiere su tono.",
+          "mini_headline": "Bellamy quiere una guitarra con AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "La Mechanistic Interpretability (MI, interpretabilidad mecanicista) busca descifrar los cálculos de las redes neuronales en una lógica comprensible para las personas. Una metodología central de la MI es el descubrimiento de circuitos: identificar el flujo de información en subredes que impulsan comportamientos concretos del modelo. Aunque el descubrimiento de circuitos ha madurado en el Natural Language Processing (NLP, procesamiento del lenguaje natural), los circuitos interpretables en modelos musicales siguen en gran medida sin explorar."
+                "x": "En conversación con Guitar.com, Bellamy habló de su visión de una configuración de guitarra con AI. “Me gusta la idea de intentar integrar componentes de AI en las guitarras, de modo que puedas darle una instrucción a una guitarra para que suene de cierta manera”, dijo. “…así que, en esencia, puedes hablarle a tu guitarra y decirle cómo quieres que suene. No estoy muy seguro de que la tecnología esté ya ahí, ¡pero ya veremos!”"
               },
               {
                 "t": "p",
-                "x": "En este trabajo identificamos un circuito con función musical dentro de dos modelos generativos de música simbólica: ChatMusician y MuPT. La función musical que consideramos es la predicción de la fundamental de la tónica final en un patrón clásico de progresión armónica I … V → I. Usamos el algoritmo Auto-Emergence para extraer una subred dispersa principal como circuito identificado. La validación mediante intervención causal confirma que este circuito es uno de los principales impulsores de los comportamientos de progresión armónica en los modelos de música simbólica. Hasta donde sabemos, se trata del primer estudio sistemático de descubrimiento de circuitos realizado en el ámbito musical."
+                "x": "Comparó la idea con los sintetizadores, con los que se pueden tardar horas en dar con el tono adecuado, mientras que los sintetizadores AI-prompted pueden hacerlo en segundos, aunque la calidad de sonido no es tan buena. “Me gusta la idea de dar una instrucción y que luego ocurra algo analógico; eso me parece interesante”."
               },
               {
                 "t": "p",
-                "x": "Página de demostración: https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "Según NME, Muse ya ha incorporado la AI en “The WOW! Signal Tour”: un sistema de AI maneja una mesa de sonido, ajusta controles y niveles de volumen en ciertas canciones y pronuncia el discurso al comienzo de “Psycho”."
+              },
+              {
+                "t": "p",
+                "x": "“No me preocupa tanto la música hecha con AI porque ya veo un cambio en mis hijos”, dijo a Guitar.com. “Creo que la música en vivo va a ir en aumento, con músicos reales tocando… porque es lo único que sabemos que es real”."
               }
             ]
           }
@@ -1537,105 +1169,513 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "코드 진행의 근원\n모델 속 희소 회로",
-          "body": "연구진이 기호 음악 모델 안에서 코드 진행 예측을 이끄는 희소 회로를 찾았다.",
-          "mini_headline": "음악 AI 속 코드 회로",
+          "headline": "Matt Bellamy,\n말로 톤 바꾸는 기타 원해",
+          "body": "Bellamy는 Guitar.com에 말로 톤 정하는 AI 기타를 원한다고 했다.",
+          "mini_headline": "Bellamy가 바라는 AI 기타",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "Mechanistic Interpretability(MI, 기계적 해석 가능성)는 신경망의 연산을 사람이 이해할 수 있는 논리로 풀어내려 한다. MI의 핵심 방법론은 회로 발견, 즉 모델의 특정 행동을 이끄는 하위 네트워크 속 정보 흐름을 찾아내는 일이다. 회로 발견은 Natural Language Processing(NLP, 자연어 처리) 분야에서는 자리를 잡았지만, 음악 모델의 해석 가능한 회로는 아직 거의 탐구되지 않았다."
+                "x": "Bellamy는 Guitar.com과의 인터뷰에서 AI 기타 셋업에 대한 구상을 밝혔다. “기타에 AI 요소를 접목해서, 기타가 특정한 소리를 내도록 프롬프트를 줄 수 있다는 아이디어가 마음에 든다”고 그는 말했다. “…말하자면 기타에게 말을 걸어 원하는 소리를 알려 주는 거다. 기술이 아직 거기까지 왔는지는 잘 모르겠지만, 두고 보자!”"
               },
               {
                 "t": "p",
-                "x": "이 연구에서 우리는 두 기호 음악 생성 모델 ChatMusician과 MuPT 안에서 음악적 기능을 하는 회로를 찾아냈다. 우리가 다룬 음악적 기능은 고전적 화성 진행 패턴 I … V → I에서 마지막 으뜸음 근음을 예측하는 일이다. Auto-Emergence 알고리즘으로 주요 희소 하위 네트워크를 추출해 이를 회로로 식별했다. 인과적 개입을 통한 검증 결과, 이 회로가 기호 음악 모델의 화성 진행 행동을 이끄는 주된 요인임을 확인했다. 우리가 아는 한, 이는 음악 분야에서 이뤄진 첫 체계적 회로 발견 연구다."
+                "x": "그는 이 아이디어를 신시사이저에 빗댔다. 신시사이저는 원하는 톤을 잡는 데 몇 시간이 걸리기도 하지만, AI-prompted 신스는 음질이 그만큼 좋지는 않아도 몇 초 만에 해낸다. “무언가를 프롬프트로 지시한 다음 아날로그적인 일이 벌어진다는 아이디어가 좋다. 그게 나한테는 흥미롭다.”"
               },
               {
                 "t": "p",
-                "x": "데모 페이지: https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "NME에 따르면 Muse는 이미 “The WOW! Signal Tour”에서 AI를 도입했다. AI 시스템이 사운드 데스크를 운용하며 일부 곡에서 컨트롤과 볼륨 레벨을 조정하고, “Psycho” 도입부의 연설도 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "“내 아이들을 보면 이미 변화가 보이기 때문에 AI 음악은 그다지 걱정하지 않는다”고 그는 Guitar.com에 말했다. “진짜 뮤지션들이 연주하는 라이브 음악이 상승세를 탈 거라고 본다… 우리가 진짜라고 아는 건 그것뿐이니까.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "コード進行を担う\nモデル内の疎な回路",
-          "body": "研究者らが記号音楽モデル内で、コード進行予測を担う疎な回路を特定した。",
-          "mini_headline": "音楽AIのコード回路",
+          "headline": "Matt Bellamy\n話しかけて音作りするギター",
+          "body": "BellamyはGuitar.comに、音色を口頭で指示できるAIギターが欲しいと語った。",
+          "mini_headline": "Bellamy、AIギターを望む",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "Mechanistic Interpretability（MI、機械論的解釈可能性）は、ニューラルネットワークの計算を人間が理解できる論理へと解読することを目指す。MIの中核的な手法は回路発見であり、特定のモデル挙動を生み出すサブネットワーク内の情報の流れを特定するものだ。回路発見はNatural Language Processing（NLP、自然言語処理）の分野では成熟しているが、音楽モデルにおける解釈可能な回路はほとんど探究されていない。"
+                "x": "BellamyはGuitar.comの取材で、AIギターのセットアップ構想について語った。「ギターにAIの要素を組み込んで、特定の音を出すようギターにプロンプトを与えられるというアイデアが気に入っている」と彼は言う。「…つまり、ギターに話しかけて、どんな音にしたいかを伝えられるわけだ。技術がまだそこまで来ているかはわからないが、様子を見よう!」"
               },
               {
                 "t": "p",
-                "x": "本研究では、二つの記号音楽生成モデルChatMusicianとMuPTの内部に、音楽的機能を担う回路を特定した。対象とする音楽的機能は、古典的な和声進行パターンI … V → Iにおける終止の主音の根音の予測である。Auto-Emergenceアルゴリズムを用いて主要な疎のサブネットワークを抽出し、これを回路として特定した。因果的介入による検証で、この回路が記号音楽モデルの和声進行の挙動を主に駆動していることを確認した。我々の知る限り、これは音楽分野で行われた初の体系的な回路発見研究である。"
+                "x": "彼はこのアイデアをシンセサイザーになぞらえた。シンセサイザーは狙った音色に追い込むまで何時間もかかることがあるが、AI-promptedのシンセは音質こそ劣るものの数秒でそれをこなす。「何かをプロンプトで指示して、そこからアナログな何かが起きるというアイデアが好きだ。それが自分には面白い」"
               },
               {
                 "t": "p",
-                "x": "デモページ：https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "NMEによると、Museはすでに「The WOW! Signal Tour」でAIを取り入れている。AIシステムがサウンドデスクを操作し、一部の曲でコントロールや音量レベルを調整するほか、「Psycho」冒頭のスピーチも担っている。"
+              },
+              {
+                "t": "p",
+                "x": "「自分の子どもたちを見ていると、すでに変化が見えているから、AI音楽についてはそれほど心配していない」と彼はGuitar.comに語った。「本物のミュージシャンが演奏するライブ音楽は上向いていくと思う…それが唯一、本物だとわかっているものだから」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "和弦进行源自\n模型中的稀疏回路",
-          "body": "研究人员在符号音乐模型中找到一个驱动和弦进行预测的稀疏回路。",
-          "mini_headline": "音乐AI中的和弦回路",
+          "headline": "Matt Bellamy\n想要能对话调音色的吉他",
+          "body": "Muse的Bellamy对Guitar.com说，想要能用语音设定音色的AI吉他。",
+          "mini_headline": "Bellamy想要AI吉他",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "Mechanistic Interpretability（MI，机制可解释性）旨在把神经网络的计算解码为人类可理解的逻辑。MI的核心方法是回路发现，即识别驱动特定模型行为的子网络中的信息流。回路发现在Natural Language Processing（NLP，自然语言处理）领域已较为成熟，但音乐模型中的可解释回路在很大程度上仍未被探索。"
+                "x": "Bellamy在接受Guitar.com采访时，谈到了他对AI吉他配置的设想。“我喜欢把AI组件整合进吉他的想法，你可以通过提示让吉他发出某种特定的声音，”他说。“……这样你基本上就能和吉他对话，告诉它你想要什么样的声音。我不太确定技术是否已经到位，但走着瞧吧！”"
               },
               {
                 "t": "p",
-                "x": "在这项工作中，我们在两个符号音乐生成模型ChatMusician和MuPT中识别出一个具有音乐功能的回路。我们考察的音乐功能是预测经典和声进行模式I … V → I中结尾主音的根音。我们使用Auto-Emergence算法提取一个主要的稀疏子网络作为所识别的回路。通过因果干预进行的验证证实，该回路是符号音乐模型和声进行行为的主要驱动因素。据我们所知，这是音乐领域首个系统性的回路发现研究。"
+                "x": "他把这个想法比作合成器：合成器可能要花好几个小时才能调出合适的音色，而AI-prompted合成器几秒钟就能做到，只是音质没那么好。“我喜欢先给出提示，然后发生一些模拟的事情——这让我觉得很有意思。”"
               },
               {
                 "t": "p",
-                "x": "演示页面：https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "据NME报道，Muse已在“The WOW! Signal Tour”巡演中引入AI：一套AI系统操作调音台，在部分歌曲中调整控制参数和音量，并在“Psycho”开场时发表讲话。"
+              },
+              {
+                "t": "p",
+                "x": "“我不太担心AI音乐，因为我已经在孩子们身上看到了变化，”他对Guitar.com说。“我认为由真正的音乐人演奏的现场音乐会越来越受欢迎……因为这是我们唯一确知是真实的东西。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Progresiones de acordes, ligadas\na circuitos dispersos del modelo",
-          "body": "Investigadores hallan en modelos de música simbólica un circuito disperso que predice progresiones de acordes.",
-          "mini_headline": "Circuitos de acordes en la AI musical",
+          "headline": "Matt Bellamy quiere una guitarra\na la que pedirle el tono",
+          "body": "Matt Bellamy, de Muse, dijo a Guitar.com que quiere una guitarra con AI a la que pueda decirle cómo quiere su tono.",
+          "mini_headline": "Bellamy quiere una guitarra con AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models — Ruiji Yu, Gus Xia"
+                "t": "img",
+                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
               },
               {
                 "t": "p",
-                "x": "La Mechanistic Interpretability (MI, interpretabilidad mecanicista) busca descifrar los cálculos de las redes neuronales en una lógica comprensible para las personas. Una metodología central de la MI es el descubrimiento de circuitos: identificar el flujo de información en subredes que impulsan comportamientos concretos del modelo. Aunque el descubrimiento de circuitos ha madurado en el Natural Language Processing (NLP, procesamiento del lenguaje natural), los circuitos interpretables en modelos musicales siguen en gran medida sin explorar."
+                "x": "En conversación con Guitar.com, Bellamy habló de su visión de una configuración de guitarra con AI. “Me gusta la idea de intentar integrar componentes de AI en las guitarras, de modo que puedas darle una instrucción a una guitarra para que suene de cierta manera”, dijo. “…así que, en esencia, puedes hablarle a tu guitarra y decirle cómo quieres que suene. No estoy muy seguro de que la tecnología esté ya ahí, ¡pero ya veremos!”"
               },
               {
                 "t": "p",
-                "x": "En este trabajo identificamos un circuito con función musical dentro de dos modelos generativos de música simbólica: ChatMusician y MuPT. La función musical que consideramos es la predicción de la fundamental de la tónica final en un patrón clásico de progresión armónica I … V → I. Usamos el algoritmo Auto-Emergence para extraer una subred dispersa principal como circuito identificado. La validación mediante intervención causal confirma que este circuito es uno de los principales impulsores de los comportamientos de progresión armónica en los modelos de música simbólica. Hasta donde sabemos, se trata del primer estudio sistemático de descubrimiento de circuitos realizado en el ámbito musical."
+                "x": "Comparó la idea con los sintetizadores, con los que se pueden tardar horas en dar con el tono adecuado, mientras que los sintetizadores AI-prompted pueden hacerlo en segundos, aunque la calidad de sonido no es tan buena. “Me gusta la idea de dar una instrucción y que luego ocurra algo analógico; eso me parece interesante”."
               },
               {
                 "t": "p",
-                "x": "Página de demostración: https://ukiyo23rui.github.io/auto-emergence-demo/"
+                "x": "Según NME, Muse ya ha incorporado la AI en “The WOW! Signal Tour”: un sistema de AI maneja una mesa de sonido, ajusta controles y niveles de volumen en ciertas canciones y pronuncia el discurso al comienzo de “Psycho”."
+              },
+              {
+                "t": "p",
+                "x": "“No me preocupa tanto la música hecha con AI porque ya veo un cambio en mis hijos”, dijo a Guitar.com. “Creo que la música en vivo va a ir en aumento, con músicos reales tocando… porque es lo único que sabemos que es real”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "fstoppers-suno-youtube-switch",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "저작권 신고에 지친\nYouTuber Suno로",
+      "body": "산 음원도 신고가 쏟아지자 YouTuber가 Suno로 옮겨 더 낫다고 했다.",
+      "mini_headline": "YouTuber, 음원 라이브러리 대신 Suno",
+      "tool": "Music",
+      "source": "Fstoppers",
+      "url": "https://fstoppers.com/artificial-intelligence/copyright-trolls-pushed-me-ai-music-and-its-incredible-905613",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "gWHvr4-LW18"
+          },
+          {
+            "t": "p",
+            "x": "YouTube 영상을 만든 지 15년이 넘었다. 12년이나 13년쯤 전부터 대중음악은 완전히 끊고 돈 주고 산 로열티 프리 음원으로 라이브러리를 꾸렸다. 여기 들어간 돈만 $10,000 넘을 것이다."
+          },
+          {
+            "t": "p",
+            "x": "그런데 신고가 수백 건씩 들어왔다. 십 년도 더 지난 영상, 그것도 합법적으로 라이선스를 받은 음악이 들어간 영상들이 갑자기 신고를 당했고, 그중에는 PremiumBeat에서 산 게 확실한 곡도 있었다. 이의를 제기했지만 졌다. 최근 몇 년은 영상에 음악을 아예 넣지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "AI 음악이 몰라보게 좋아졌다는 얘기가 계속 들려 Suno를 써 봤다. 한 달에 $10인가 $20를 냈던 것 같고, 텍스트 프롬프트로 곡을 만들기 시작했다. 지난 15년 동안 합법적으로 산 어떤 곡보다 소리가 좋다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+          },
+          {
+            "t": "p",
+            "x": "PremiumBeat 같은 사이트였다면 다른 영상 수천 개에도 등장할 곡 하나에 $80쯤을 냈을 것이다. Suno에서는 곡당 비용이 그 몇 분의 일에 그치고 곡도 온전히 내 것이 된다. 상업적 이용 권한은 Suno 유료 요금제에 들어 있으니 수익 창출 영상에 곡을 넣기 전에 약관을 꼭 읽어 봐야 한다."
+          },
+          {
+            "t": "p",
+            "x": "저작권 트롤 탓에 머지않아 YouTube 영상 거의 전부가 AI-generated 음악을 쓰게 될 것이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Copyright claims push a\nYouTuber to Suno soundtracks",
+          "body": "After repeated copyright claims on licensed library music, a YouTuber switched to Suno and says it sounds better.",
+          "mini_headline": "YouTuber swaps library for Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "I've been making YouTube videos for more than 15 years. About 12 or 13 years ago, we stopped using popular music entirely and built a library of royalty-free tracks we bought outright, and I believe I've spent more than $10,000 building that library."
+              },
+              {
+                "t": "p",
+                "x": "Then the claims came in by the hundreds. Videos from more than a decade ago, with music I had legally licensed, were suddenly being claimed — including a song I know I bought from PremiumBeat. I disputed it and lost. For the last few years, I stopped using music in my videos at all."
+              },
+              {
+                "t": "p",
+                "x": "I kept hearing that AI music had gotten incredibly good, so I tried Suno. I think I paid $10 or $20 for the month, and I started generating songs from text prompts. It sounds better than any song I've legally purchased in the last 15 years."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "On a site like PremiumBeat, I'd pay around $80 for a song that would show up in thousands of other videos. With Suno, each song costs a fraction of that, and it's unique to me. Suno's paid plans are the ones that include commercial use, so read the terms before you put a track in a monetized video."
+              },
+              {
+                "t": "p",
+                "x": "Because of the copyright trolls, I think nearly every YouTube video will soon use AI-generated music."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "저작권 신고에 지친\nYouTuber Suno로",
+          "body": "산 음원도 신고가 쏟아지자 YouTuber가 Suno로 옮겨 더 낫다고 했다.",
+          "mini_headline": "YouTuber, 음원 라이브러리 대신 Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "YouTube 영상을 만든 지 15년이 넘었다. 12년이나 13년쯤 전부터 대중음악은 완전히 끊고 돈 주고 산 로열티 프리 음원으로 라이브러리를 꾸렸다. 여기 들어간 돈만 $10,000 넘을 것이다."
+              },
+              {
+                "t": "p",
+                "x": "그런데 신고가 수백 건씩 들어왔다. 십 년도 더 지난 영상, 그것도 합법적으로 라이선스를 받은 음악이 들어간 영상들이 갑자기 신고를 당했고, 그중에는 PremiumBeat에서 산 게 확실한 곡도 있었다. 이의를 제기했지만 졌다. 최근 몇 년은 영상에 음악을 아예 넣지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "AI 음악이 몰라보게 좋아졌다는 얘기가 계속 들려 Suno를 써 봤다. 한 달에 $10인가 $20를 냈던 것 같고, 텍스트 프롬프트로 곡을 만들기 시작했다. 지난 15년 동안 합법적으로 산 어떤 곡보다 소리가 좋다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "PremiumBeat 같은 사이트였다면 다른 영상 수천 개에도 등장할 곡 하나에 $80쯤을 냈을 것이다. Suno에서는 곡당 비용이 그 몇 분의 일에 그치고 곡도 온전히 내 것이 된다. 상업적 이용 권한은 Suno 유료 요금제에 들어 있으니 수익 창출 영상에 곡을 넣기 전에 약관을 꼭 읽어 봐야 한다."
+              },
+              {
+                "t": "p",
+                "x": "저작권 트롤 탓에 머지않아 YouTube 영상 거의 전부가 AI-generated 음악을 쓰게 될 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "著作権申し立てで\nYouTuberがSunoへ",
+          "body": "ライセンス音源への著作権申し立てが続き、YouTuberがSunoに移り音も良いと語った。",
+          "mini_headline": "YouTuber、音源ライブラリからSunoへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "私は15年以上YouTube動画を作ってきた。12年か13年ほど前に人気曲の使用を完全にやめ、買い切りのロイヤリティフリー曲でライブラリを作った。そのライブラリには$10,000以上をつぎ込んだと思う。"
+              },
+              {
+                "t": "p",
+                "x": "ところが、申し立てが何百件も届いた。十年以上前の動画で、正規にライセンスを得た音楽が突然申し立てを受けたのだ。PremiumBeatで買ったと確信している曲も含まれていた。異議を申し立てたが、負けた。ここ数年は動画に音楽をまったく使わなくなった。"
+              },
+              {
+                "t": "p",
+                "x": "AI音楽がとんでもなく良くなったと何度も耳にしたので、Sunoを試した。月に$10か$20払ったと思う。テキストプロンプトから曲を生成し始めたが、この15年間に正規に買ったどの曲よりも音が良い。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "PremiumBeatのようなサイトなら、他の何千本もの動画にも登場する曲一つに$80ほど払うことになる。Sunoなら曲ごとの費用はその何分の一かで、しかも自分だけの曲になる。商用利用が含まれるのはSunoの有料プランなので、収益化する動画に曲を使う前に規約を読んでおくべきだ。"
+              },
+              {
+                "t": "p",
+                "x": "著作権トロールのせいで、まもなくほぼすべてのYouTube動画がAI-generatedの音楽を使うようになると思う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "版权申诉不断\nYouTuber改用Suno",
+          "body": "授权曲库音乐屡遭版权申诉后，一位YouTuber改用Suno，并称声音更好。",
+          "mini_headline": "YouTuber弃曲库改用Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "我做YouTube视频已经超过15年了。大约12年或13年前，我们彻底不再使用流行音乐，而是建立了一个买断式的免版税音乐库，我想我为此花了超过$10,000。"
+              },
+              {
+                "t": "p",
+                "x": "后来，申诉数以百计地涌来。十多年前的视频里，那些我合法获得授权的音乐突然被认领——其中包括一首我确定是从PremiumBeat购买的歌。我提出了异议，但输了。过去几年，我干脆不在视频里用音乐了。"
+              },
+              {
+                "t": "p",
+                "x": "我不断听说AI音乐已经好得惊人，于是试了试Suno。我记得一个月付了$10还是$20，然后开始用文本提示生成歌曲。它听起来比我过去15年合法购买的任何一首歌都好。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "在PremiumBeat这样的网站上，我大概要花$80买一首会出现在数以千计的其他视频里的歌。用Suno，每首歌的成本只是其零头，而且是我独有的。包含商业用途的是Suno的付费方案，所以在把曲子放进可获利视频之前，请先阅读条款。"
+              },
+              {
+                "t": "p",
+                "x": "由于版权流氓的存在，我认为很快几乎所有YouTube视频都会使用AI-generated音乐。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Reclamos de copyright llevan a\nun YouTuber a la música de Suno",
+          "body": "Tras repetidos reclamos de copyright sobre música con licencia, un YouTuber se pasó a Suno y dice que suena mejor.",
+          "mini_headline": "Un YouTuber cambia su biblioteca por Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "Llevo más de 15 años haciendo videos de YouTube. Hace unos 12 o 13 años dejamos por completo de usar música popular y creamos una biblioteca de pistas libres de regalías que compramos en propiedad; creo que he gastado más de $10,000 en construir esa biblioteca."
+              },
+              {
+                "t": "p",
+                "x": "Entonces llegaron los reclamos por centenares. Videos de hace más de una década, con música cuya licencia había obtenido legalmente, empezaron de repente a recibir reclamos, incluida una canción que sé que compré en PremiumBeat. La impugné y perdí. En los últimos años dejé de usar música en mis videos por completo."
+              },
+              {
+                "t": "p",
+                "x": "No dejaba de oír que la música con AI había mejorado muchísimo, así que probé Suno. Creo que pagué $10 o $20 por el mes y empecé a generar canciones a partir de instrucciones de texto. Suena mejor que cualquier canción que haya comprado legalmente en los últimos 15 años."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "En un sitio como PremiumBeat, pagaría unos $80 por una canción que aparecería en miles de otros videos. Con Suno, cada canción cuesta una fracción de eso y es exclusiva para mí. Los planes de pago de Suno son los que incluyen el uso comercial, así que lea los términos antes de poner una pista en un video monetizado."
+              },
+              {
+                "t": "p",
+                "x": "Por culpa de los trols del copyright, creo que pronto casi todos los videos de YouTube usarán música AI-generated."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "저작권 신고에 지친\nYouTuber Suno로",
+          "body": "음원에 저작권 신고가 잇따르자 YouTuber가 Suno로 옮겨 더 낫다고 했다.",
+          "mini_headline": "YouTuber, 음원 라이브러리 대신 Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "나는 15년 넘게 YouTube 영상을 만들어 왔다. 12년이나 13년쯤 전부터는 대중음악을 완전히 끊고, 아예 사들인 로열티 프리 음원으로 라이브러리를 꾸렸다. 그 라이브러리를 만드는 데 $10,000 넘게 쓴 것 같다."
+              },
+              {
+                "t": "p",
+                "x": "그런데 신고가 수백 건씩 들어왔다. 십 년도 더 지난 영상, 그것도 합법적으로 라이선스를 받은 음악이 들어간 영상들이 갑자기 신고를 당했고, 그중에는 PremiumBeat에서 산 게 확실한 곡도 있었다. 이의를 제기했지만 졌다. 지난 몇 년 동안은 영상에 음악을 아예 쓰지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "AI 음악이 엄청나게 좋아졌다는 말을 계속 듣고 Suno를 써 봤다. 한 달에 $10인가 $20를 냈던 것 같고, 텍스트 프롬프트로 곡을 만들기 시작했다. 지난 15년 동안 합법적으로 산 어떤 곡보다 소리가 좋다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "PremiumBeat 같은 사이트였다면 다른 영상 수천 개에도 등장할 곡 하나에 $80쯤을 냈을 것이다. Suno에서는 곡당 비용이 그 일부에 불과하고, 나만의 곡이 된다. 상업적 이용이 포함된 것은 Suno의 유료 요금제이니, 수익 창출 영상에 곡을 넣기 전에 약관을 꼭 읽어 봐야 한다."
+              },
+              {
+                "t": "p",
+                "x": "저작권 트롤 때문에 머지않아 거의 모든 YouTube 영상이 AI-generated 음악을 쓰게 될 것이라고 본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "著作権申し立てで\nYouTuberがSunoへ",
+          "body": "ライセンス音源への著作権申し立てが続き、YouTuberがSunoに移り音も良いと語った。",
+          "mini_headline": "YouTuber、音源ライブラリからSunoへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "私は15年以上YouTube動画を作ってきた。12年か13年ほど前に人気曲の使用を完全にやめ、買い切りのロイヤリティフリー曲でライブラリを作った。そのライブラリには$10,000以上をつぎ込んだと思う。"
+              },
+              {
+                "t": "p",
+                "x": "ところが、申し立てが何百件も届いた。十年以上前の動画で、正規にライセンスを得た音楽が突然申し立てを受けたのだ。PremiumBeatで買ったと確信している曲も含まれていた。異議を申し立てたが、負けた。ここ数年は動画に音楽をまったく使わなくなった。"
+              },
+              {
+                "t": "p",
+                "x": "AI音楽がとんでもなく良くなったと何度も耳にしたので、Sunoを試した。月に$10か$20払ったと思う。テキストプロンプトから曲を生成し始めたが、この15年間に正規に買ったどの曲よりも音が良い。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "PremiumBeatのようなサイトなら、他の何千本もの動画にも登場する曲一つに$80ほど払うことになる。Sunoなら曲ごとの費用はその何分の一かで、しかも自分だけの曲になる。商用利用が含まれるのはSunoの有料プランなので、収益化する動画に曲を使う前に規約を読んでおくべきだ。"
+              },
+              {
+                "t": "p",
+                "x": "著作権トロールのせいで、まもなくほぼすべてのYouTube動画がAI-generatedの音楽を使うようになると思う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "版权申诉不断\nYouTuber改用Suno",
+          "body": "授权曲库音乐屡遭版权申诉后，一位YouTuber改用Suno，并称声音更好。",
+          "mini_headline": "YouTuber弃曲库改用Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "我做YouTube视频已经超过15年了。大约12年或13年前，我们彻底不再使用流行音乐，而是建立了一个买断式的免版税音乐库，我想我为此花了超过$10,000。"
+              },
+              {
+                "t": "p",
+                "x": "后来，申诉数以百计地涌来。十多年前的视频里，那些我合法获得授权的音乐突然被认领——其中包括一首我确定是从PremiumBeat购买的歌。我提出了异议，但输了。过去几年，我干脆不在视频里用音乐了。"
+              },
+              {
+                "t": "p",
+                "x": "我不断听说AI音乐已经好得惊人，于是试了试Suno。我记得一个月付了$10还是$20，然后开始用文本提示生成歌曲。它听起来比我过去15年合法购买的任何一首歌都好。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "在PremiumBeat这样的网站上，我大概要花$80买一首会出现在数以千计的其他视频里的歌。用Suno，每首歌的成本只是其零头，而且是我独有的。包含商业用途的是Suno的付费方案，所以在把曲子放进可获利视频之前，请先阅读条款。"
+              },
+              {
+                "t": "p",
+                "x": "由于版权流氓的存在，我认为很快几乎所有YouTube视频都会使用AI-generated音乐。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Reclamos de copyright llevan a\nun YouTuber a la música de Suno",
+          "body": "Tras repetidos reclamos de copyright sobre música con licencia, un YouTuber se pasó a Suno y dice que suena mejor.",
+          "mini_headline": "Un YouTuber cambia su biblioteca por Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "gWHvr4-LW18"
+              },
+              {
+                "t": "p",
+                "x": "Llevo más de 15 años haciendo videos de YouTube. Hace unos 12 o 13 años dejamos por completo de usar música popular y creamos una biblioteca de pistas libres de regalías que compramos en propiedad; creo que he gastado más de $10,000 en construir esa biblioteca."
+              },
+              {
+                "t": "p",
+                "x": "Entonces llegaron los reclamos por centenares. Videos de hace más de una década, con música cuya licencia había obtenido legalmente, empezaron de repente a recibir reclamos, incluida una canción que sé que compré en PremiumBeat. La impugné y perdí. En los últimos años dejé de usar música en mis videos por completo."
+              },
+              {
+                "t": "p",
+                "x": "No dejaba de oír que la música con AI había mejorado muchísimo, así que probé Suno. Creo que pagué $10 o $20 por el mes y empecé a generar canciones a partir de instrucciones de texto. Suena mejor que cualquier canción que haya comprado legalmente en los últimos 15 años."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+              },
+              {
+                "t": "p",
+                "x": "En un sitio como PremiumBeat, pagaría unos $80 por una canción que aparecería en miles de otros videos. Con Suno, cada canción cuesta una fracción de eso y es exclusiva para mí. Los planes de pago de Suno son los que incluyen el uso comercial, así que lea los términos antes de poner una pista en un video monetizado."
+              },
+              {
+                "t": "p",
+                "x": "Por culpa de los trols del copyright, creo que pronto casi todos los videos de YouTube usarán música AI-generated."
               }
             ]
           }

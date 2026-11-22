@@ -1,102 +1,102 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "design",
   "user_selection": null,
   "items": [
-    {
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "source": "Figma Blog",
-      "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
-      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
-      "published_iso": "2026-11-20T22:17:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma walks through a workflow in which Specs and the Figma agent hold the product context (requirements, decisions, constraints) next to the design, so the agent can turn it into an implementation plan and hand it to code.",
-      "rationale": "Primary-source, step-by-step workflow for keeping requirements beside the design so the Figma agent can plan and hand off to code — usable tomorrow."
-    },
     {
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "source": "The Verge",
-      "title": "Claude has a new mobile design, too.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
-      "published_iso": "2026-11-20T21:42:14Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C23.731093659104%2C100%2C52.537812681792&w=1200",
-      "excerpt": "Anthropic is rolling out a refreshed Claude mobile app with a bottom tab bar for chat, Projects, Code and Artifacts (iOS 26+ first), a day after OpenAI previewed a similar tab-bar redesign of ChatGPT; AI assistants are converging on the same app layout.",
-      "rationale": "Shipped UI redesign that, with ChatGPT's same-week tab-bar test, shows AI assistant apps converging on one navigation pattern — a live reference for product designers (one card for the c5 cluster)."
-    },
-    {
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "source": "Design Compass (디자인 나침반)",
-      "title": "에이바 스튜디오, 인기 출시 영상의 컷을 내 제품 화면으로",
-      "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
-      "published_iso": "2026-11-19T02:59:00Z",
-      "og_image": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg",
-      "excerpt": "Ava Studio released 'Launch Videos' (Nov 17), which analyses the shot order, cut lengths and camera moves of launch videos that went viral on X and rebuilds them with the user's own product screens; it runs as a plugin inside Claude Code and Codex.",
-      "rationale": "New release that lets designers produce launch videos from proven cut structures with their own product screens, inside the coding agents they already use."
+      "source": "The Decoder",
+      "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background",
+      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+      "published_iso": "2026-11-20T18:50:31Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
+      "excerpt": "Google brings Computer Use to Gemini for Mac, letting the AI operate desktop apps, local files and websites in an isolated background window with a live preview while the user keeps working.",
+      "rationale": "Shipped feature: a desktop agent that drives Mac apps and files in a sandboxed background window — designers can offload repetitive asset/file chores while they keep working."
     },
     {
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "source": "VoxelMatters",
-      "title": "XJet launches AI-driven Atelier platform for bespoke jewelry",
-      "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
-      "published_iso": "2026-11-19T15:37:00Z",
-      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440-780x470.jpeg",
-      "excerpt": "XJet Atelier lets users describe a charm in a few words or upload a photo; AI tools generate and refine the design, show a 360-degree preview and send it to XJet's metal 3D printers in stainless steel or sterling silver.",
-      "rationale": "New product launch taking text/photo prompts all the way to printed metal parts — a concrete prompt-to-fabrication pipeline for product designers."
+      "source": "3D Printing Industry",
+      "title": "Siemens and AGIBOT show AI agent that designs 3D printed humanoid robot grippers from a text prompt",
+      "url": "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/",
+      "published_iso": "2026-11-20T13:15:00Z",
+      "og_image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+      "excerpt": "From a text prompt, a Siemens AI agent picks a gripper type for an AGIBOT humanoid, adapts its geometry in Designcenter, simulates and validates it, and prepares it for additive manufacturing, using MCP to drive the engineering software.",
+      "rationale": "Concrete prompt-to-part pipeline in a major CAD suite (Designcenter via MCP): select, adapt geometry, simulate, validate and prep for printing — the text-to-CAD loop industrial designers are waiting for."
+    },
+    {
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "source": "Digital Trends",
+      "title": "Forget searching for GIFs, Gemini can now make its own",
+      "url": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
+      "published_iso": "2026-11-21T20:35:18Z",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Gemini now turns text prompts, photos and videos into short looping GIFs using Google's Omni 1.2 Flash model, rolling out to AI subscribers globally and free in eight countries including South Korea.",
+      "rationale": "New Google release (Omni 1.2 Flash) for prompt/photo/video-to-looping-GIF, free in Korea — a quick motion-asset tool for social and UI micro-animation mockups."
     },
     {
       "category": "figma",
       "tool": "Figma",
-      "accent": "#3b6bff",
+      "accent": "#0070f3",
       "motif": "frame",
-      "source": "Creative Bloq",
-      "title": "This movie poster is one big AI slop Easter egg hunt",
-      "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
-      "published_iso": "2026-11-21T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg",
-      "excerpt": "The poster for 'Artificial', the Sam Altman/OpenAI film, is deliberately packed with AI-slop tells for viewers to spot; Fast Company reports it was made by humans as a marketing play.",
-      "rationale": "Fresh design-culture moment: human designers deliberately faking AI-slop tells as a campaign device; assigned to design only by the run brief."
+      "source": "UX Planet",
+      "title": "Product design with AI: how the Webflow MCP brings my designs to life",
+      "url": "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6",
+      "published_iso": "2026-11-22T19:44:24Z",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*9tri3zxLopYrG7Qrwjy2iA.jpeg",
+      "excerpt": "A product designer replaces the manual Figma-to-Webflow rebuild and hand-scripted interactions with an AI agent driving the Webflow MCP server.",
+      "rationale": "Hands-on workflow: an agent driving the Webflow MCP server replaces the manual Figma-to-Webflow rebuild — directly reusable by designers who ship marketing sites."
+    },
+    {
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "source": "Engineering.com",
+      "title": "Comsol Conference 2026 highlights: Simulation and AI",
+      "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+      "published_iso": "2026-11-20T16:34:49Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_comsolconf-mr-thumb-1024x576.png",
+      "excerpt": "The new Comsol release adds AI capabilities including an MCP server that connects AI agents to build models, processes and equations; a keynote split simulation AI into physical AI and agentic AI workflows.",
+      "rationale": "New Comsol release ships an MCP server so agents can build simulation models — the simulation-side counterpart to agent-driven CAD."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/": {
+      "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
+        "nearest": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too": {
+      "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/": {
+        "verdict": "new",
+        "nearest": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
+        "new_action": ""
+      },
+      "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/": {
         "verdict": "new",
         "nearest": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
         "new_action": ""
       },
-      "https://designcompass.org/2026/11/19/ava-studio-launch-videos/": {
+      "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6": {
         "verdict": "new",
-        "nearest": "https://designcompass.org/2026/11/18/fuser-tool-node/",
+        "nearest": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
         "new_action": ""
       },
-      "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/": {
+      "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/": {
         "verdict": "new",
-        "nearest": "https://www.voxelmatters.com/tripo-ai-previews-its-h3-5-model-and-polipop-agent-for-3d-printing-at-formnext/",
-        "new_action": ""
-      },
-      "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt": {
-        "verdict": "new",
-        "nearest": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+        "nearest": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
         "new_action": ""
       }
     },
-    "note": "Within-pool dup: 'OpenAI is testing a new design for mobile ChatGPT' (The Verge) dropped as same c5 cluster as the Claude mobile redesign (kept one, Claude, which covers both). No candidate matched a published design story by URL or content; the history_match tags (Figma agent 10-24, ChatGPT GIFs 11-05, Gemini drawings 11-06, SimScale 11-16) are related-only, different products/events. Skipped on merit: Etsy no-AI-training clarification (Engadget) — running Etsy AI-policy story (design 10-28; 11-18 exodus coverage) and its 11-18 card could not be verified in published_urls across sections, so left out as risky follow-up; Gemini 4 Neon (The Decoder) and Matt Wolfe roundup — weak design angle per brief; Gemini GIFs (off-list, ChatGPT GIFs ran 11-05); Gemini Mac computer use (third Verge-type general assistant item); CopilotKit WebMCP (vendor blog); Runway software factory (engineering-process post); Autodesk Research SCAD recap; Comsol conference recap; UX Collective essay (RSS excerpt only). Diversity: 5 distinct outlets (Figma, The Verge, Design Compass, VoxelMatters, Creative Bloq); categories figma x2 (2nd accent #3b6bff), workflow x2 (2nd accent #eb367f), cad x1."
+    "note": "No candidate duplicates a published design story by URL or content. history_match tags are related-only: Gemini Mac Computer Use (11-20 launch) is a different Gemini feature from drawings-to-apps (11-06); Gemini GIF generation is Google's own new release, distinct from ChatGPT GIFs (11-05); Webflow MCP workflow differs from the 11-12 design-system prototyping guide; Comsol MCP release differs from the NVIDIA Omniverse post (11-20). Gemini Mac / Gemini GIF / Comsol were skipped on merit on 11-22, never published. Cross-section: gadgets block of published_urls.json checked — no Gemini Mac, Gemini GIF, Siemens/AGIBOT, Webflow MCP or Comsol entry. Dropped per run brief cross-section assignments: The Verge 'vibe-coding revolution' + DPReview 'vibe code revolution' (cluster c3, gadgets only); Cartoon Brew festival programmers on GenAI (movies only). Skipped on merit: UX Collective slop essay and prototypes-as-spec essay, DEV Community HITL and toast-helper posts (opinion/tutorial essays, weak per brief), CopilotKit WebMCP (vendor blog), Creative Bloq Adobe interview (no new release), Fstoppers Fotello (review of an existing product), Creative Bloq NIVA (no-AI tool; AI incidental). Diversity: 5 distinct outlets; categories cad x2 (2nd accent #3b6bff), workflow, render, figma x1."
   }
 }

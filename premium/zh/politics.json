@@ -7237,6 +7237,116 @@
           "x": "邦塔说:“我的办公室正在调查Nvidia或黄仁勋(Jensen Huang)的行为是否导致中国获得先进芯片或机密信息。”自黄仁勋承认婚外情以来,Nvidia股价已下跌五分之一,他将于12月1日在多个国会委员会作证。"
         }
       ]
+    },
+    "politics/hickenlooper-ai-select-committee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
+          "cap": "2026年2月26日（星期四），纽约一台电脑屏幕上显示的Anthropic网站页面和公司标志。(AP Photo/Patrick Sison, File)"
+        },
+        {
+          "t": "p",
+          "x": "参议院民主党人正在讨论如何在下届国会迅速为人工智能建立护栏。科罗拉多州参议员John Hickenlooper表示，明年领导多数党的人应对AI有一份“负责任监管的第一天计划”。在Chuck Schumer与Chris Van Hollen的竞争中，他至今尚未表态支持任何一方。"
+        },
+        {
+          "t": "p",
+          "x": "Hickenlooper表示，他的优先事项是严格的第三方评估要求、缓解国家安全挑战，以及“追究AI公司责任的明确规则”。他提议设立人工智能特别委员会，以整合相关讨论。"
+        },
+        {
+          "t": "p",
+          "x": "Van Hollen表示支持这一构想。参议员Ron Wyden说他“想看看具体内容”，参议员Bernie Sanders没有立即表态支持。共和党参议员Ted Cruz表示，把这一议题从他的委员会及其他委员会中剥离“毫无道理”，但希望两党能在灾难性风险上找到共识。"
+        },
+        {
+          "t": "p",
+          "x": "Schumer的一名女发言人表示，参议院民主党将把AI作为新多数党的首要优先事项，并正努力推出全面立法。"
+        }
+      ]
+    },
+    "politics/eu-14-states-ai-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在11月19日（星期四）和20日（星期五）举行的“教育、青年、文化和体育”理事会上，14个成员国重启了关于更好地保护版权免受AI侵害的讨论。在该议题上次讨论六个月后，它们于11月18日向EU理事会提交的一份说明中呼吁提出立法提案。"
+        },
+        {
+          "t": "p",
+          "x": "包括丹麦、荷兰和波兰在内的另外七个国家也加入了这一倡议。它们表示：“鉴于这一议题对文化和媒体产业的紧迫性和重要性，我们希望再次表明立场。”"
+        },
+        {
+          "t": "p",
+          "x": "它们重申支持5月提出的旨在改善版权环境的针对性倡议，并呼吁“迅速采取行动[...]提高权利保留的可执行性[...]并确保所有创作者全面获得适当报酬”。成员国还表示，欧盟委员会的European AI Office应“审查现行模板是否适合[...]加大对AI开发者的许可压力”。"
+        }
+      ]
+    },
+    "politics/mcgill-influencer-deepfakes-trade": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据McGill University研究人员称，Jasmin Laine是数百名身份遭盗用的内容创作者之一，盗用者是一个利用AI煽动围绕加拿大与美国(US)关系破裂的网络舆论的网络。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
+          "cap": "安大略省Lansdowne的Thousand Islands Bridge旁，Lansdowne Port of Entry飘扬的加拿大国旗（左）和美国(US)国旗。"
+        },
+        {
+          "t": "p",
+          "x": "McGill Centre for Media, Technology and Democracy的研究发现约300个滥用真实面孔的Instagram和TikTok账号，它们在一场协同行动中发布了数千条视频，获得约2000万次观看。该行动的账号中只有百分之四触发了TikTok的合成内容警告。该网络还用AI生成视频脚本。"
+        },
+        {
+          "t": "p",
+          "x": "报告作者Aengus Bridgman表示，该网络似乎源自北美以外，部分账号注册于中国。他说：“目的就是制造两极分化。”一些视频把贸易冲突归咎于渥太华，另一些则把矛头指向华盛顿。"
+        },
+        {
+          "t": "p",
+          "x": "TikTok表示已永久封禁报告中提到的账号，Meta表示已删除涉事的Instagram账号。"
+        }
+      ]
+    },
+    "politics/china-ethnic-unity-law-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
+        },
+        {
+          "t": "p",
+          "x": "中国《民族团结进步促进法》施行四个月后，Oliver Lopez认为，AI将以三种方式执行这部法律：监控、学习和生产。一部范围如此广泛的法律，所需的执法规模现实中只有AI能够提供。"
+        },
+        {
+          "t": "p",
+          "x": "监控的依据是第31条规定的删除并报告破坏民族团结内容的义务，以及第52条的“预警”系统。自2023年起，《生成式人工智能服务管理暂行办法》要求模型提供者停止并删除此类内容，并重新训练模型。"
+        },
+        {
+          "t": "p",
+          "x": "但在对六个模型的测试中，用少数民族语言提问时，对粗暴提示词的拒绝率大幅下降：哈萨克语从76.9%降至32%，蒙古语从75.2%降至25.6%。“这部法律的义务，先于履行义务的能力到来。”"
+        },
+        {
+          "t": "p",
+          "x": "学习的依据是第15条关于少数民族语言数字化的规定。生产则已在发生：在有争议的民族问题上，DeepSeek以普通话作答时有49%采用国家立场，英语作答时则为22%。"
+        }
+      ]
+    },
+    "politics/house-china-ai-models-report": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "众议院中国特别委员会（House Select Committee on China）主席John Moolenaar（R-MI）与众议院国土安全委员会（House Committee on Homeland Security）主席Andrew R. Garbarino（R-NY）在联合调查中国开发（Chinese-developed）的open-weight AI模型融入美国企业消费者平台的情况后，发布了一份报告。报告聚焦这些模型的来源、数据、训练、遭未经授权蒸馏的可能性，以及企业采购和获取模型的方式，并评估U.S.的open-weight AI战略能否让美国实体不必在昂贵或专有的U.S.模型与廉价而强大的中国本土（China-based）替代品之间二选一。"
+        },
+        {
+          "t": "p",
+          "x": "两个委员会于2026年4月致函Anysphere和Airbnb，由此启动调查，并于2026年7月致函DoorDash。"
+        },
+        {
+          "t": "p",
+          "x": "两位主席写道，美国企业正越来越多地采用PRC-developed（中国开发）的open-weight模型，“因为它们价格低廉、可定制，并能与领先的美国系统竞争”；联邦调查还发现，主要的PRC开发商“利用代理网络和欺诈账户获取美国前沿模型的输出”。"
+        },
+        {
+          "t": "p",
+          "x": "两个委员会称，与PLA Cyberspace Force 1st Bureau相关的人员曾多次出现在Zhipu位于Beijing（北京）的总部，最近一次是在2026年8月；PLA采购记录显示，DeepSeek、Alibaba的Qwen、Moonshot和MiniMax模型被嵌入军事网络行动。提交给委员会的文件显示，同样的模型系列正在美国大型企业内部运行。"
+        }
+      ]
     }
   }
 }

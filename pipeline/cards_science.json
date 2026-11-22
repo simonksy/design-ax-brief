@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "science",
   "cards": [
     {
-      "id": "science-tess-amateur-claude",
+      "id": "science-milkyway-ai-surrogate",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude로 행성 찾는\n아마추어, 성과는 엇갈려",
-      "body": "TESS 공식 목록의 행성 후보 둘은 아마추어가 Claude Code로 찾아냈다.",
-      "mini_headline": "AI로 행성 찾는 아마추어들",
+      "headline": "AI 대리 모델로\n별 단위 은하 계산 가속",
+      "body": "AI가 초신성 주변 가스를 예측하자 별 단위 은하 시뮬레이션이 약 20x 빨라졌다.",
+      "mini_headline": "은하 시뮬레이션 20x 가속",
       "tool": "Science",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03790-w",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-            "cap": "시민 과학자들이 인공지능 도구로 아직 발견되지 않은 외계행성을 찾는다(상상도). Credit: Hypersphere/SPL"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+            "cap": "입자 3.4 × 10⁹ 개로 돌린 PHEASANT 실행 장면 가운데 하나. 각 패널 왼쪽 컬러맵은 가스 밀도, 오른쪽은 온도다. 출처: K. Hirashima et al."
           },
           {
             "t": "p",
-            "x": "지난 9월, 천문학을 정식으로 배운 적 없는 스페인의 AI 전문가 Pavel Rabtsevich가 AI 모델에 행성을 찾아 달라고 했다. 모델은 약 두 주 만에 지구에서 116광년 떨어진 별을 도는 행성 후보 두 개를 내놓았다."
+            "x": "연구진이 PHEASANT로 우리은하를 별 하나하나 단위까지 시뮬레이션했다. PHEASANT는 CPU·GPU 구성이 서로 다른 슈퍼컴퓨터 세 곳에서 모두 돌아가는 AI 가속(AI-accelerated) 모델이다. 연구에는 도쿄대학(University of Tokyo) 천문학과 Michiko Fujii 교수와 AI 모델을 개발한 RIKEN 박사후연구원 Keiya Hirashima가 참여했다."
           },
           {
             "t": "p",
-            "x": "그는 Claude Code로 NASA의 TESS가 2025년 말과 2026년 초에 관측한 별 120,000개 이상의 데이터를 걸러냈고, 널리 쓰이는 행성 탐지 알고리즘으로 밝기가 떨어지는 구간을 찾았다. Claude가 짚어낸 별은 TIC 4206066이었다. 약 3일과 11일 간격으로 되풀이되는 두 감광 주기가 보였다. 2018년과 2020년 TESS 보관 데이터에도 같은 패턴이 남아 있었고, Claude는 Michelle Kunimoto가 만든 공개 알고리즘을 돌려 신호를 검증했다."
+            "x": "초신성 주변 가스의 변화를 직접 계산하려면 시간 간격을 약 100년 단위로 잘게 쪼개야 한다. AI 모델이 100,000년 뒤 상태를 대신 예측해 주면 주 시뮬레이션은 시간 간격을 훨씬 길게 잡을 수 있다. 연구팀에 따르면 이 방식은 기존 방법보다 약 20배 빠르고, 시뮬레이션의 별 형성률도 우리은하 관측 추정치와 맞았다."
           },
           {
             "t": "p",
-            "x": "Rabtsevich는 9월 25일 Zenodo에 프리프린트를 올렸다. 동료 심사는 받지 않았지만 TESS 천문학자들이 신호를 따로 분석해 공식 행성 후보 목록에 넣었다."
-          },
-          {
-            "t": "p",
-            "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 모델이 낸 결과를 검증하지 못하는 아마추어도 있다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
+            "x": "논문 \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\"(K. Hirashima et al.)은 11월 15–20일 시카고에서 열린 고성능 컴퓨팅·네트워킹·스토리지·분석 국제회의 SC 2026에서 발표됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amateurs hunt planets with\nClaude, with mixed results",
-          "body": "An amateur's Claude Code sweep of TESS data yielded two planet candidates now on the official TESS list.",
-          "mini_headline": "Amateurs hunt planets with AI",
+          "headline": "AI surrogate speeds a\nstar-by-star Milky Way",
+          "body": "An AI model predicts supernova gas evolution, letting a star-by-star Milky Way simulation run about 20x faster.",
+          "mini_headline": "Milky Way sim\nruns 20x faster",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "Artificial-intelligence tools are helping citizen scientists to find undiscovered exoplanets (artist’s illustration). Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "Snapshots of one of the PHEASANT runs with 3.4 × 10⁹ particles. For each panel, the left and right color maps show the gas density and temperature, respectively. Credit: K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "In September, Pavel Rabtsevich, an AI specialist in Spain with no formal astronomy education, asked an AI model to discover a planet. In about two weeks it delivered two possible planets orbiting a star 116 light years from Earth."
+                "x": "Researchers have simulated the Milky Way down to individual stars with PHEASANT, an AI-accelerated model that runs across three supercomputer systems with different CPU and GPU hardware. The work involves Professor Michiko Fujii of the University of Tokyo's Department of Astronomy and RIKEN postdoctoral researcher Keiya Hirashima, who developed the AI model."
               },
               {
                 "t": "p",
-                "x": "He enlisted Claude Code to sift data from more than 120,000 stars observed by NASA’s TESS in late 2025 and early 2026, using a popular planet-detection algorithm to search for dips in brightness. Claude zeroed in on TIC 4206066, which showed two cycles of dimming, roughly every 3 days and every 11 days. Archival TESS data from 2018 and 2020 recorded the same pattern, and Claude ran a public algorithm written by Michelle Kunimoto to validate the signals."
+                "x": "Calculating how gas evolves around supernovae directly requires time steps of about 100 years. Instead, the AI model predicts 100,000 years ahead, letting the main simulation take much longer time steps. The team reports the approach runs about 20 times faster than the conventional method, and the simulated star formation rate matches observational estimates for the real Milky Way."
               },
               {
                 "t": "p",
-                "x": "Rabtsevich posted a preprint on Zenodo on 25 September. It has not been peer reviewed, but TESS astronomers have independently analysed the signals and added them to their official list of planet candidates."
-              },
-              {
-                "t": "p",
-                "x": "Kunimoto, an exoplanet researcher at the University of British Columbia, warns that some amateurs can’t validate the models’ findings: “There’s been a huge, overwhelming surge of AI-driven papers, which tend to have [planet] candidates that are not the best quality.”"
+                "x": "The paper, \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.), was presented at SC 2026, the International Conference for High Performance Computing, Networking, Storage and Analysis, held November 15–20 in Chicago."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude로 행성 찾는\n아마추어, 성과는 엇갈려",
-          "body": "TESS 공식 목록의 행성 후보 둘은 아마추어가 Claude Code로 찾아냈다.",
-          "mini_headline": "AI로 행성 찾는 아마추어들",
+          "headline": "AI 대리 모델로\n별 단위 은하 계산 가속",
+          "body": "AI가 초신성 주변 가스를 예측하자 별 단위 은하 시뮬레이션이 약 20x 빨라졌다.",
+          "mini_headline": "은하 시뮬레이션 20x 가속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "시민 과학자들이 인공지능 도구로 아직 발견되지 않은 외계행성을 찾는다(상상도). Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "입자 3.4 × 10⁹ 개로 돌린 PHEASANT 실행 장면 가운데 하나. 각 패널 왼쪽 컬러맵은 가스 밀도, 오른쪽은 온도다. 출처: K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "지난 9월, 천문학을 정식으로 배운 적 없는 스페인의 AI 전문가 Pavel Rabtsevich가 AI 모델에 행성을 찾아 달라고 했다. 모델은 약 두 주 만에 지구에서 116광년 떨어진 별을 도는 행성 후보 두 개를 내놓았다."
+                "x": "연구진이 PHEASANT로 우리은하를 별 하나하나 단위까지 시뮬레이션했다. PHEASANT는 CPU·GPU 구성이 서로 다른 슈퍼컴퓨터 세 곳에서 모두 돌아가는 AI 가속(AI-accelerated) 모델이다. 연구에는 도쿄대학(University of Tokyo) 천문학과 Michiko Fujii 교수와 AI 모델을 개발한 RIKEN 박사후연구원 Keiya Hirashima가 참여했다."
               },
               {
                 "t": "p",
-                "x": "그는 Claude Code로 NASA의 TESS가 2025년 말과 2026년 초에 관측한 별 120,000개 이상의 데이터를 걸러냈고, 널리 쓰이는 행성 탐지 알고리즘으로 밝기가 떨어지는 구간을 찾았다. Claude가 짚어낸 별은 TIC 4206066이었다. 약 3일과 11일 간격으로 되풀이되는 두 감광 주기가 보였다. 2018년과 2020년 TESS 보관 데이터에도 같은 패턴이 남아 있었고, Claude는 Michelle Kunimoto가 만든 공개 알고리즘을 돌려 신호를 검증했다."
+                "x": "초신성 주변 가스의 변화를 직접 계산하려면 시간 간격을 약 100년 단위로 잘게 쪼개야 한다. AI 모델이 100,000년 뒤 상태를 대신 예측해 주면 주 시뮬레이션은 시간 간격을 훨씬 길게 잡을 수 있다. 연구팀에 따르면 이 방식은 기존 방법보다 약 20배 빠르고, 시뮬레이션의 별 형성률도 우리은하 관측 추정치와 맞았다."
               },
               {
                 "t": "p",
-                "x": "Rabtsevich는 9월 25일 Zenodo에 프리프린트를 올렸다. 동료 심사는 받지 않았지만 TESS 천문학자들이 신호를 따로 분석해 공식 행성 후보 목록에 넣었다."
-              },
-              {
-                "t": "p",
-                "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 모델이 낸 결과를 검증하지 못하는 아마추어도 있다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
+                "x": "논문 \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\"(K. Hirashima et al.)은 11월 15–20일 시카고에서 열린 고성능 컴퓨팅·네트워킹·스토리지·분석 국제회의 SC 2026에서 발표됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeで惑星探し\nアマチュアの成果はまちまち",
-          "body": "アマチュアがClaude CodeでTESSデータを探り、惑星候補二つが公式リスト入りした。",
-          "mini_headline": "AIで惑星を探すアマチュア",
+          "headline": "AIの代理モデルが\n星単位の銀河計算を加速",
+          "body": "AIが超新星ガスの変化を予測し、星単位の銀河シミュレーションが約20x 高速化した。",
+          "mini_headline": "銀河シミュレーションが20x 高速に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "人工知能ツールが市民科学者による未発見の系外惑星探しを後押ししている(想像図)。Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "3.4 × 10⁹ 個の粒子を用いたPHEASANT計算の一つのスナップショット。各パネルの左右のカラーマップは、それぞれガス密度と温度を示す。クレジット：K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "9月、天文学の正式な教育を受けていないスペインのAI専門家Pavel Rabtsevichは、AIモデルに惑星の発見を依頼した。約二週間で、モデルは地球から116光年離れた恒星を回る惑星候補を二つ示した。"
+                "x": "研究者らは、CPUとGPUのハードウェアが異なる三つのスーパーコンピューターシステムで動くAI加速（AI-accelerated）モデルPHEASANTを使い、天の川銀河を星一つひとつの単位までシミュレーションした。研究には東京大学（University of Tokyo）天文学教室のMichiko Fujii教授と、AIモデルを開発したRIKENのポスドク研究員Keiya Hirashima氏が関わった。"
               },
               {
                 "t": "p",
-                "x": "彼はClaude Codeを使い、NASAのTESSが2025年末から2026年初めに観測した120,000個を超える恒星のデータを精査し、広く使われる惑星検出アルゴリズムで明るさの低下を探した。Claudeが絞り込んだのはTIC 4206066で、およそ3日ごとと11日ごとの二つの減光周期が見られた。2018年と2020年のTESSアーカイブデータにも同じパターンが記録されており、ClaudeはMichelle Kunimotoが書いた公開アルゴリズムを実行して信号を検証した。"
+                "x": "超新星周辺のガスの変化を直接計算するには、約100年の時間刻みが必要になる。代わりにAIモデルが100,000年先を予測することで、主シミュレーションははるかに長い時間刻みを取れる。研究チームによると、この手法は従来法より約20倍速く、シミュレーションで得た星形成率は実際の天の川銀河の観測推定値と一致した。"
               },
               {
                 "t": "p",
-                "x": "Rabtsevichは9月25日にZenodoでプレプリントを公開した。査読は経ていないが、TESSの天文学者たちが信号を独自に解析し、公式の惑星候補リストに加えた。"
-              },
-              {
-                "t": "p",
-                "x": "University of British Columbiaの系外惑星研究者であるKunimotoは、一部のアマチュアはモデルの発見を検証できないと警告する。「AI-drivenな論文が圧倒的な勢いで急増しており、そうした論文の[惑星]候補は質が最良とはいえないことが多い」"
+                "x": "論文「Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy」（K. Hirashima et al.）は、11月15–20日にシカゴで開かれた高性能計算・ネットワーキング・ストレージ・解析の国際会議SC 2026で発表された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "业余玩家用Claude找行星\n成果好坏参半",
-          "body": "业余爱好者用Claude Code筛查TESS数据，所得两颗候选行星已列入TESS官方名单。",
-          "mini_headline": "业余爱好者借AI寻找行星",
+          "headline": "AI代理模型提速\n逐星模拟银河系",
+          "body": "一个AI模型预测超新星气体演化，让逐星银河系模拟的运行速度加快约 20x。",
+          "mini_headline": "银河系模拟提速约 20x",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "人工智能工具正在帮助公民科学家发现未知的系外行星(艺术想象图)。Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "PHEASANT一次运行的快照，使用了3.4 × 10⁹ 个粒子。每个面板中，左右两幅色图分别显示气体密度和温度。图片来源：K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "9月，没有受过正规天文学教育的西班牙AI专家Pavel Rabtsevich请一个AI模型去发现一颗行星。大约两周后，模型给出了两颗可能的行星，它们绕着一颗距地球116光年的恒星运行。"
+                "x": "研究人员借助PHEASANT将银河系模拟到单颗恒星的精度。PHEASANT是一种AI加速（AI-accelerated）模型，可在CPU与GPU硬件各不相同的三套超级计算机系统上运行。参与这项工作的有东京大学（University of Tokyo）天文系教授Michiko Fujii，以及开发该AI模型的RIKEN博士后研究员Keiya Hirashima。"
               },
               {
                 "t": "p",
-                "x": "他让Claude Code筛查NASA的TESS在2025年末和2026年初观测的120,000多颗恒星的数据，并使用一种常用的行星探测算法寻找亮度下降。Claude锁定了TIC 4206066，这颗恒星呈现两个变暗周期，大约每3天和每11天一次。2018年和2020年的TESS存档数据记录了同样的模式，Claude还运行了Michelle Kunimoto编写的公开算法来验证这些信号。"
+                "x": "直接计算超新星周围气体的演化，需要约100年的时间步长。AI模型则直接预测100,000年后的状态，使主模拟可以采用长得多的时间步长。团队称，该方法比传统方法快约20倍，模拟出的恒星形成率与真实银河系的观测估计值一致。"
               },
               {
                 "t": "p",
-                "x": "Rabtsevich于9月25日在Zenodo上发布了预印本。论文尚未经过同行评审，但TESS天文学家已独立分析了这些信号，并将其列入官方候选行星名单。"
-              },
-              {
-                "t": "p",
-                "x": "University of British Columbia的系外行星研究者Kunimoto警告说，一些业余爱好者无法验证模型的发现：“AI-driven论文正在大量、压倒性地涌现，其中的[行星]候选往往质量不是最好的。”"
+                "x": "论文《Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy》（K. Hirashima et al.）已在11月15–20日于芝加哥举行的高性能计算、网络、存储与分析国际会议SC 2026上发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Aficionados buscan planetas con\nClaude, con resultados dispares",
-          "body": "Un aficionado rastreó datos de TESS con Claude Code; dos candidatos a planeta entraron en la lista oficial de TESS.",
-          "mini_headline": "Aficionados buscan planetas con AI",
+          "headline": "Un sustituto de AI acelera una\nVía Láctea estrella a estrella",
+          "body": "Un modelo de AI predice el gas de supernovas y acelera unas 20x una simulación de la Vía Láctea estrella a estrella.",
+          "mini_headline": "Simulación de la Vía Láctea 20x más rápida",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "Las herramientas de inteligencia artificial ayudan a científicos ciudadanos a encontrar exoplanetas no descubiertos (ilustración artística). Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "Instantáneas de una de las ejecuciones de PHEASANT con 3.4 × 10⁹ partículas. En cada panel, los mapas de color de la izquierda y la derecha muestran la densidad y la temperatura del gas, respectivamente. Crédito: K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "En septiembre, Pavel Rabtsevich, especialista en AI en España sin formación académica en astronomía, pidió a un modelo de AI que descubriera un planeta. En unas dos semanas, el modelo entregó dos posibles planetas que orbitan una estrella situada a 116 años luz de la Tierra."
+                "x": "Investigadores han simulado la Vía Láctea estrella por estrella con PHEASANT, un modelo acelerado por AI (AI-accelerated) que funciona en tres sistemas de supercomputación con distinto hardware de CPU y GPU. En el trabajo participan la profesora Michiko Fujii, del Departamento de Astronomía de la Universidad de Tokio, y el investigador posdoctoral de RIKEN Keiya Hirashima, que desarrolló el modelo de AI."
               },
               {
                 "t": "p",
-                "x": "Recurrió a Claude Code para cribar datos de más de 120,000 estrellas observadas por TESS de NASA a finales de 2025 y principios de 2026, con un algoritmo popular de detección de planetas que busca caídas de brillo. Claude se centró en TIC 4206066, que mostraba dos ciclos de atenuación, aproximadamente cada 3 días y cada 11 días. Los datos de archivo de TESS de 2018 y 2020 registraban el mismo patrón, y Claude ejecutó un algoritmo público escrito por Michelle Kunimoto para validar las señales."
+                "x": "Calcular directamente cómo evoluciona el gas alrededor de las supernovas exige pasos de tiempo de unos 100 años. En su lugar, el modelo de AI predice 100,000 años hacia adelante, lo que permite a la simulación principal usar pasos de tiempo mucho más largos. El equipo informa que el método es unas 20 veces más rápido que el convencional y que la tasa de formación estelar simulada coincide con las estimaciones observacionales de la Vía Láctea real."
               },
               {
                 "t": "p",
-                "x": "Rabtsevich publicó un preprint en Zenodo el 25 de septiembre. No ha pasado revisión por pares, pero astrónomos de TESS analizaron las señales de forma independiente y las añadieron a su lista oficial de candidatos a planeta."
-              },
-              {
-                "t": "p",
-                "x": "Kunimoto, investigadora de exoplanetas en la University of British Columbia, advierte que algunos aficionados no pueden validar los hallazgos de los modelos: “Ha habido un aumento enorme y abrumador de artículos AI-driven, que suelen tener candidatos [a planeta] que no son de la mejor calidad.”"
+                "x": "El artículo \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.) se presentó en SC 2026, la Conferencia Internacional de Computación de Alto Rendimiento, Redes, Almacenamiento y Análisis, celebrada del 15 al 20 de noviembre en Chicago."
               }
             ]
           }
@@ -199,125 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude로 행성 찾는\n아마추어, 성과는 엇갈려",
-          "body": "TESS 공식 목록에 든 행성 후보 둘은 아마추어가 Claude Code로 찾았다.",
-          "mini_headline": "AI로 행성 찾는 아마추어들",
+          "headline": "AI 대리 모델로\n별 단위 은하 계산 가속",
+          "body": "AI가 초신성 가스 변화를 예측해 별 단위 은하 시뮬레이션이 약 20x 빨라졌다.",
+          "mini_headline": "은하 시뮬레이션 20x 가속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "인공지능 도구가 시민 과학자들의 미발견 외계행성 탐색을 돕고 있다(상상도). Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "입자 3.4 × 10⁹ 개로 돌린 PHEASANT 실행 가운데 하나의 스냅숏이다. 각 패널의 왼쪽과 오른쪽 컬러맵은 각각 가스 밀도와 온도를 보여준다. 출처: K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "지난 9월, 정식 천문학 교육을 받은 적 없는 스페인의 AI 전문가 Pavel Rabtsevich는 AI 모델에 행성을 발견해 달라고 요청했다. 모델은 약 두 주 만에 지구에서 116광년 떨어진 별을 도는 행성 후보 두 개를 내놓았다."
+                "x": "연구진이 PHEASANT로 우리은하를 별 하나하나 단위까지 시뮬레이션했다. PHEASANT는 CPU와 GPU 하드웨어가 서로 다른 세 슈퍼컴퓨터 시스템에서 돌아가는 AI 가속(AI-accelerated) 모델이다. 이 연구에는 도쿄대학(University of Tokyo) 천문학과의 Michiko Fujii 교수와, AI 모델을 개발한 RIKEN 박사후연구원 Keiya Hirashima가 참여했다."
               },
               {
                 "t": "p",
-                "x": "그는 Claude Code를 동원해 NASA의 TESS가 2025년 말과 2026년 초에 관측한 120,000개 이상의 별 데이터를 걸러냈고, 널리 쓰이는 행성 탐지 알고리즘으로 밝기가 떨어지는 구간을 찾았다. Claude가 주목한 별은 TIC 4206066으로, 약 3일마다 그리고 11일마다 반복되는 두 가지 감광 주기를 보였다. 2018년과 2020년의 TESS 보관 데이터에도 같은 패턴이 기록돼 있었고, Claude는 Michelle Kunimoto가 작성한 공개 알고리즘을 돌려 신호를 검증했다."
+                "x": "초신성 주변 가스의 변화를 직접 계산하려면 약 100년 단위의 시간 간격이 필요하다. 대신 AI 모델이 100,000년 뒤를 예측해, 주 시뮬레이션은 훨씬 긴 시간 간격을 쓸 수 있다. 연구팀은 이 방식이 기존 방법보다 약 20배 빠르며, 시뮬레이션의 별 형성률이 실제 우리은하에 대한 관측 추정치와 일치한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Rabtsevich는 9월 25일 Zenodo에 프리프린트를 올렸다. 동료 심사는 거치지 않았지만, TESS 천문학자들이 신호를 독립적으로 분석해 공식 행성 후보 목록에 추가했다."
-              },
-              {
-                "t": "p",
-                "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 일부 아마추어가 모델의 결과를 검증하지 못한다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
+                "x": "논문 \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\"(K. Hirashima et al.)는 11월 15–20일 시카고에서 열린 고성능 컴퓨팅·네트워킹·스토리지·분석 국제회의 SC 2026에서 발표됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeで惑星探し\nアマチュアの成果はまちまち",
-          "body": "アマチュアがClaude CodeでTESSデータを探り、惑星候補二つが公式リスト入りした。",
-          "mini_headline": "AIで惑星を探すアマチュア",
+          "headline": "AIの代理モデルが\n星単位の銀河計算を加速",
+          "body": "AIが超新星ガスの変化を予測し、星単位の銀河シミュレーションが約20x 高速化した。",
+          "mini_headline": "銀河シミュレーションが20x 高速に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "人工知能ツールが市民科学者による未発見の系外惑星探しを後押ししている(想像図)。Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "3.4 × 10⁹ 個の粒子を用いたPHEASANT計算の一つのスナップショット。各パネルの左右のカラーマップは、それぞれガス密度と温度を示す。クレジット：K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "9月、天文学の正式な教育を受けていないスペインのAI専門家Pavel Rabtsevichは、AIモデルに惑星の発見を依頼した。約二週間で、モデルは地球から116光年離れた恒星を回る惑星候補を二つ示した。"
+                "x": "研究者らは、CPUとGPUのハードウェアが異なる三つのスーパーコンピューターシステムで動くAI加速（AI-accelerated）モデルPHEASANTを使い、天の川銀河を星一つひとつの単位までシミュレーションした。研究には東京大学（University of Tokyo）天文学教室のMichiko Fujii教授と、AIモデルを開発したRIKENのポスドク研究員Keiya Hirashima氏が関わった。"
               },
               {
                 "t": "p",
-                "x": "彼はClaude Codeを使い、NASAのTESSが2025年末から2026年初めに観測した120,000個を超える恒星のデータを精査し、広く使われる惑星検出アルゴリズムで明るさの低下を探した。Claudeが絞り込んだのはTIC 4206066で、およそ3日ごとと11日ごとの二つの減光周期が見られた。2018年と2020年のTESSアーカイブデータにも同じパターンが記録されており、ClaudeはMichelle Kunimotoが書いた公開アルゴリズムを実行して信号を検証した。"
+                "x": "超新星周辺のガスの変化を直接計算するには、約100年の時間刻みが必要になる。代わりにAIモデルが100,000年先を予測することで、主シミュレーションははるかに長い時間刻みを取れる。研究チームによると、この手法は従来法より約20倍速く、シミュレーションで得た星形成率は実際の天の川銀河の観測推定値と一致した。"
               },
               {
                 "t": "p",
-                "x": "Rabtsevichは9月25日にZenodoでプレプリントを公開した。査読は経ていないが、TESSの天文学者たちが信号を独自に解析し、公式の惑星候補リストに加えた。"
-              },
-              {
-                "t": "p",
-                "x": "University of British Columbiaの系外惑星研究者であるKunimotoは、一部のアマチュアはモデルの発見を検証できないと警告する。「AI-drivenな論文が圧倒的な勢いで急増しており、そうした論文の[惑星]候補は質が最良とはいえないことが多い」"
+                "x": "論文「Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy」（K. Hirashima et al.）は、11月15–20日にシカゴで開かれた高性能計算・ネットワーキング・ストレージ・解析の国際会議SC 2026で発表された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "业余玩家用Claude找行星\n成果好坏参半",
-          "body": "业余爱好者用Claude Code筛查TESS数据，所得两颗候选行星已列入TESS官方名单。",
-          "mini_headline": "业余爱好者借AI寻找行星",
+          "headline": "AI代理模型提速\n逐星模拟银河系",
+          "body": "一个AI模型预测超新星气体演化，让逐星银河系模拟的运行速度加快约 20x。",
+          "mini_headline": "银河系模拟提速约 20x",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "人工智能工具正在帮助公民科学家发现未知的系外行星(艺术想象图)。Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "PHEASANT一次运行的快照，使用了3.4 × 10⁹ 个粒子。每个面板中，左右两幅色图分别显示气体密度和温度。图片来源：K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "9月，没有受过正规天文学教育的西班牙AI专家Pavel Rabtsevich请一个AI模型去发现一颗行星。大约两周后，模型给出了两颗可能的行星，它们绕着一颗距地球116光年的恒星运行。"
+                "x": "研究人员借助PHEASANT将银河系模拟到单颗恒星的精度。PHEASANT是一种AI加速（AI-accelerated）模型，可在CPU与GPU硬件各不相同的三套超级计算机系统上运行。参与这项工作的有东京大学（University of Tokyo）天文系教授Michiko Fujii，以及开发该AI模型的RIKEN博士后研究员Keiya Hirashima。"
               },
               {
                 "t": "p",
-                "x": "他让Claude Code筛查NASA的TESS在2025年末和2026年初观测的120,000多颗恒星的数据，并使用一种常用的行星探测算法寻找亮度下降。Claude锁定了TIC 4206066，这颗恒星呈现两个变暗周期，大约每3天和每11天一次。2018年和2020年的TESS存档数据记录了同样的模式，Claude还运行了Michelle Kunimoto编写的公开算法来验证这些信号。"
+                "x": "直接计算超新星周围气体的演化，需要约100年的时间步长。AI模型则直接预测100,000年后的状态，使主模拟可以采用长得多的时间步长。团队称，该方法比传统方法快约20倍，模拟出的恒星形成率与真实银河系的观测估计值一致。"
               },
               {
                 "t": "p",
-                "x": "Rabtsevich于9月25日在Zenodo上发布了预印本。论文尚未经过同行评审，但TESS天文学家已独立分析了这些信号，并将其列入官方候选行星名单。"
-              },
-              {
-                "t": "p",
-                "x": "University of British Columbia的系外行星研究者Kunimoto警告说，一些业余爱好者无法验证模型的发现：“AI-driven论文正在大量、压倒性地涌现，其中的[行星]候选往往质量不是最好的。”"
+                "x": "论文《Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy》（K. Hirashima et al.）已在11月15–20日于芝加哥举行的高性能计算、网络、存储与分析国际会议SC 2026上发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Aficionados buscan planetas con\nClaude, con resultados dispares",
-          "body": "Un aficionado rastreó datos de TESS con Claude Code; dos candidatos a planeta entraron en la lista oficial de TESS.",
-          "mini_headline": "Aficionados buscan planetas con AI",
+          "headline": "Un sustituto de AI acelera una\nVía Láctea estrella a estrella",
+          "body": "Un modelo de AI predice el gas de supernovas y acelera unas 20x una simulación de la Vía Láctea estrella a estrella.",
+          "mini_headline": "Simulación de la Vía Láctea 20x más rápida",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
-                "cap": "Las herramientas de inteligencia artificial ayudan a científicos ciudadanos a encontrar exoplanetas no descubiertos (ilustración artística). Credit: Hypersphere/SPL"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+                "cap": "Instantáneas de una de las ejecuciones de PHEASANT con 3.4 × 10⁹ partículas. En cada panel, los mapas de color de la izquierda y la derecha muestran la densidad y la temperatura del gas, respectivamente. Crédito: K. Hirashima et al."
               },
               {
                 "t": "p",
-                "x": "En septiembre, Pavel Rabtsevich, especialista en AI en España sin formación académica en astronomía, pidió a un modelo de AI que descubriera un planeta. En unas dos semanas, el modelo entregó dos posibles planetas que orbitan una estrella situada a 116 años luz de la Tierra."
+                "x": "Investigadores han simulado la Vía Láctea estrella por estrella con PHEASANT, un modelo acelerado por AI (AI-accelerated) que funciona en tres sistemas de supercomputación con distinto hardware de CPU y GPU. En el trabajo participan la profesora Michiko Fujii, del Departamento de Astronomía de la Universidad de Tokio, y el investigador posdoctoral de RIKEN Keiya Hirashima, que desarrolló el modelo de AI."
               },
               {
                 "t": "p",
-                "x": "Recurrió a Claude Code para cribar datos de más de 120,000 estrellas observadas por TESS de NASA a finales de 2025 y principios de 2026, con un algoritmo popular de detección de planetas que busca caídas de brillo. Claude se centró en TIC 4206066, que mostraba dos ciclos de atenuación, aproximadamente cada 3 días y cada 11 días. Los datos de archivo de TESS de 2018 y 2020 registraban el mismo patrón, y Claude ejecutó un algoritmo público escrito por Michelle Kunimoto para validar las señales."
+                "x": "Calcular directamente cómo evoluciona el gas alrededor de las supernovas exige pasos de tiempo de unos 100 años. En su lugar, el modelo de AI predice 100,000 años hacia adelante, lo que permite a la simulación principal usar pasos de tiempo mucho más largos. El equipo informa que el método es unas 20 veces más rápido que el convencional y que la tasa de formación estelar simulada coincide con las estimaciones observacionales de la Vía Láctea real."
               },
               {
                 "t": "p",
-                "x": "Rabtsevich publicó un preprint en Zenodo el 25 de septiembre. No ha pasado revisión por pares, pero astrónomos de TESS analizaron las señales de forma independiente y las añadieron a su lista oficial de candidatos a planeta."
-              },
-              {
-                "t": "p",
-                "x": "Kunimoto, investigadora de exoplanetas en la University of British Columbia, advierte que algunos aficionados no pueden validar los hallazgos de los modelos: “Ha habido un aumento enorme y abrumador de artículos AI-driven, que suelen tener candidatos [a planeta] que no son de la mejor calidad.”"
+                "x": "El artículo \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.) se presentó en SC 2026, la Conferencia Internacional de Computación de Alto Rendimiento, Redes, Almacenamiento y Análisis, celebrada del 15 al 20 de noviembre en Chicago."
               }
             ]
           }
@@ -325,569 +285,15 @@
       }
     },
     {
-      "id": "qubrio-neutral-atom-compiler",
+      "id": "science-weathernext-hurricane-test",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "중성원자용 LLM\n컴파일러 Qubrio",
-      "body": "Qubrio LLM은 78큐비트에서 PowerMove를 4.7x·1.3x 앞섰다.",
-      "mini_headline": "중성원자용 LLM 컴파일러",
-      "tool": "Science",
-      "source": "Quantum Computing Report",
-      "url": "https://quantumcomputingreport.com/university-of-california-quera-and-collaborators-introduce-multi-agent-llm-compiler-qubrio-for-neutral-atom-processors/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-          },
-          {
-            "t": "p",
-            "x": "UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology, University of Wisconsin–Madison 연구진이 중성원자 양자회로를 컴파일하는 멀티 에이전트 LLM 프레임워크 Qubrio를 공개했다. NeurIPS 2026에 채택된 이 프레임워크는 전문 LLM 제안 에이전트에 결정론적 제약 검증기와 하드웨어 시뮬레이터를 붙여 큐비트 배치, AOD 라우팅, 스케줄 최적화를 자동으로 처리한다."
-          },
-          {
-            "t": "p",
-            "x": "회로는 세 단계로 나눠 다룬다. CZ 게이트 단계별로 쪼개고, 배치를 라우팅·스케줄링과 떼어 놓은 뒤, 국소 오류 진단 결과를 다시 반영하는 식이다. 에이전트 추론 로그를 보면 이들은 호송대식 셔틀링을 스스로 찾아냈고, GHZ-78에서는 AOD 이동 한 번에 큐비트를 최대 30.3개까지 실었다."
-          },
-          {
-            "t": "p",
-            "x": "최대 78큐비트 QASMBench 워크로드에서 Qubrio는 PowerMove 컴파일러보다 실행시간을 평균 4.7× 줄이고 충실도를 1.3× 높였다. 여러 단계를 묶어 컴파일하는 데는 약 오 분이 걸렸다. 논문은 arXiv에, 코드는 GitHub에 오픈소스로 공개됐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Qubrio, an LLM compiler\nfor neutral-atom qubits",
-          "body": "Qubrio's LLM agents cut runtime 4.7x and lifted fidelity 1.3x over PowerMove on circuits of up to 78 qubits.",
-          "mini_headline": "LLM compiler for neutral atoms",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "Researchers from UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology and the University of Wisconsin–Madison introduced Qubrio, a multi-agent LLM framework for neutral-atom quantum circuit compilation accepted to NeurIPS 2026. It pairs specialized LLM proposal agents with deterministic constraint verifiers and a hardware simulator to automate qubit placement, AOD routing and schedule optimization."
-              },
-              {
-                "t": "p",
-                "x": "A three-level decomposition splits circuits into CZ gate stages, separates placement from routing and scheduling, and feeds back localized error diagnostics. The agents’ reasoning logs show they discovered convoy-style shuttling on their own, packing up to 30.3 qubits per AOD move on GHZ-78."
-              },
-              {
-                "t": "p",
-                "x": "On QASMBench workloads up to 78 qubits, Qubrio averaged a 4.7× runtime reduction and 1.3× fidelity gain over the PowerMove compiler, compiling batches of stages in roughly five minutes. The paper is on arXiv and the code is open source on GitHub."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "중성원자용 LLM\n컴파일러 Qubrio",
-          "body": "Qubrio LLM은 78큐비트에서 PowerMove를 4.7x·1.3x 앞섰다.",
-          "mini_headline": "중성원자용 LLM 컴파일러",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology, University of Wisconsin–Madison 연구진이 중성원자 양자회로를 컴파일하는 멀티 에이전트 LLM 프레임워크 Qubrio를 공개했다. NeurIPS 2026에 채택된 이 프레임워크는 전문 LLM 제안 에이전트에 결정론적 제약 검증기와 하드웨어 시뮬레이터를 붙여 큐비트 배치, AOD 라우팅, 스케줄 최적화를 자동으로 처리한다."
-              },
-              {
-                "t": "p",
-                "x": "회로는 세 단계로 나눠 다룬다. CZ 게이트 단계별로 쪼개고, 배치를 라우팅·스케줄링과 떼어 놓은 뒤, 국소 오류 진단 결과를 다시 반영하는 식이다. 에이전트 추론 로그를 보면 이들은 호송대식 셔틀링을 스스로 찾아냈고, GHZ-78에서는 AOD 이동 한 번에 큐비트를 최대 30.3개까지 실었다."
-              },
-              {
-                "t": "p",
-                "x": "최대 78큐비트 QASMBench 워크로드에서 Qubrio는 PowerMove 컴파일러보다 실행시간을 평균 4.7× 줄이고 충실도를 1.3× 높였다. 여러 단계를 묶어 컴파일하는 데는 약 오 분이 걸렸다. 논문은 arXiv에, 코드는 GitHub에 오픈소스로 공개됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "中性原子向けのLLM\nコンパイラ「Qubrio」",
-          "body": "QubrioのLLMは78量子ビットでPowerMove比4.7x高速、1.3x高忠実だ。",
-          "mini_headline": "中性原子向けLLMコンパイラ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology、University of Wisconsin–Madisonの研究者らが、中性原子量子回路のコンパイル向けマルチエージェントLLMフレームワーク「Qubrio」を発表した。NeurIPS 2026に採択されたこの手法は、専門化したLLM提案エージェントに決定論的な制約検証器とハードウェアシミュレーターを組み合わせ、量子ビット配置、AODルーティング、スケジュール最適化を自動化する。"
-              },
-              {
-                "t": "p",
-                "x": "三層の分解によって回路をCZゲート段に分け、配置をルーティングとスケジューリングから切り離し、局所的なエラー診断をフィードバックする。エージェントの推論ログからは、隊列型のシャトリングを自ら見いだし、GHZ-78ではAOD移動一回あたり最大30.3量子ビットを詰め込んだことがわかる。"
-              },
-              {
-                "t": "p",
-                "x": "最大78量子ビットのQASMBenchワークロードで、QubrioはPowerMoveコンパイラに比べ平均で実行時間を4.7×短縮し、忠実度を1.3×高めた。複数段のバッチは約五分でコンパイルできる。論文はarXivで公開され、コードはGitHubでオープンソースになっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Qubrio：面向中性原子\n量子比特的LLM编译器",
-          "body": "Qubrio的LLM在78量子比特内较PowerMove提速4.7x、保真度提升1.3x。",
-          "mini_headline": "面向中性原子的LLM编译器",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "来自UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology和University of Wisconsin–Madison的研究人员推出了Qubrio，这是一个用于中性原子量子电路编译的多智能体LLM框架，已被NeurIPS 2026接收。它将专门化的LLM提议智能体与确定性约束验证器和硬件模拟器配合，自动完成量子比特布局、AOD路由和调度优化。"
-              },
-              {
-                "t": "p",
-                "x": "三级分解将电路拆分为CZ门阶段，把布局与路由和调度分开，并反馈局部化的错误诊断。智能体的推理日志显示，它们自行发现了车队式穿梭方式，在GHZ-78上每次AOD移动最多搬运30.3个量子比特。"
-              },
-              {
-                "t": "p",
-                "x": "在最多78个量子比特的QASMBench工作负载上，Qubrio相比PowerMove编译器平均将运行时间缩短4.7×，保真度提升1.3×，批量编译各阶段约需五分钟。论文已发布在arXiv上，代码在GitHub开源。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Qubrio, un compilador LLM\npara cúbits de átomos neutros",
-          "body": "Frente a PowerMove, los agentes LLM de Qubrio redujeron 4.7x el tiempo y subieron 1.3x la fidelidad en hasta 78 cúbits.",
-          "mini_headline": "Compilador LLM para átomos neutros",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology y la University of Wisconsin–Madison presentaron Qubrio, un marco LLM multiagente para la compilación de circuitos cuánticos de átomos neutros, aceptado en NeurIPS 2026. Combina agentes LLM especializados que proponen soluciones con verificadores deterministas de restricciones y un simulador de hardware para automatizar la colocación de cúbits, el enrutamiento AOD y la optimización del calendario."
-              },
-              {
-                "t": "p",
-                "x": "Una descomposición en tres niveles divide los circuitos en etapas de puertas CZ, separa la colocación del enrutamiento y la planificación, y retroalimenta diagnósticos de errores localizados. Los registros de razonamiento de los agentes muestran que descubrieron por sí solos un traslado en convoy, con hasta 30.3 cúbits por movimiento AOD en GHZ-78."
-              },
-              {
-                "t": "p",
-                "x": "En cargas de trabajo de QASMBench de hasta 78 cúbits, Qubrio logró de media una reducción de 4.7× del tiempo de ejecución y una mejora de 1.3× en la fidelidad frente al compilador PowerMove, y compiló lotes de etapas en unos cinco minutos. El artículo está en arXiv y el código se publica como código abierto en GitHub."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "중성원자용 LLM\n컴파일러 Qubrio",
-          "body": "Qubrio LLM은 78큐비트서 PowerMove를 4.7x·1.3x 앞섰다.",
-          "mini_headline": "중성원자용 LLM 컴파일러",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology, University of Wisconsin–Madison 연구진이 중성원자 양자회로 컴파일을 위한 멀티 에이전트 LLM 프레임워크 Qubrio를 공개했다. NeurIPS 2026에 채택된 이 프레임워크는 전문화된 LLM 제안 에이전트에 결정론적 제약 검증기와 하드웨어 시뮬레이터를 결합해 큐비트 배치, AOD 라우팅, 스케줄 최적화를 자동화한다."
-              },
-              {
-                "t": "p",
-                "x": "세 단계 분해 방식으로 회로를 CZ 게이트 단계로 나누고, 배치를 라우팅·스케줄링과 분리하며, 국소적 오류 진단을 다시 반영한다. 에이전트의 추론 로그를 보면 이들은 호송대식 셔틀링을 스스로 찾아내, GHZ-78에서 AOD 이동 한 번에 최대 30.3개의 큐비트를 실었다."
-              },
-              {
-                "t": "p",
-                "x": "최대 78큐비트의 QASMBench 워크로드에서 Qubrio는 PowerMove 컴파일러 대비 평균 4.7× 실행시간 단축과 1.3× 충실도 향상을 기록했고, 여러 단계를 묶어 약 오 분 만에 컴파일했다. 논문은 arXiv에 있고 코드는 GitHub에 오픈소스로 공개됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "中性原子向けのLLM\nコンパイラ「Qubrio」",
-          "body": "QubrioのLLMは78量子ビットでPowerMove比4.7x高速、1.3x高忠実だ。",
-          "mini_headline": "中性原子向けLLMコンパイラ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology、University of Wisconsin–Madisonの研究者らが、中性原子量子回路のコンパイル向けマルチエージェントLLMフレームワーク「Qubrio」を発表した。NeurIPS 2026に採択されたこの手法は、専門化したLLM提案エージェントに決定論的な制約検証器とハードウェアシミュレーターを組み合わせ、量子ビット配置、AODルーティング、スケジュール最適化を自動化する。"
-              },
-              {
-                "t": "p",
-                "x": "三層の分解によって回路をCZゲート段に分け、配置をルーティングとスケジューリングから切り離し、局所的なエラー診断をフィードバックする。エージェントの推論ログからは、隊列型のシャトリングを自ら見いだし、GHZ-78ではAOD移動一回あたり最大30.3量子ビットを詰め込んだことがわかる。"
-              },
-              {
-                "t": "p",
-                "x": "最大78量子ビットのQASMBenchワークロードで、QubrioはPowerMoveコンパイラに比べ平均で実行時間を4.7×短縮し、忠実度を1.3×高めた。複数段のバッチは約五分でコンパイルできる。論文はarXivで公開され、コードはGitHubでオープンソースになっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Qubrio：面向中性原子\n量子比特的LLM编译器",
-          "body": "Qubrio的LLM在78量子比特内较PowerMove提速4.7x、保真度提升1.3x。",
-          "mini_headline": "面向中性原子的LLM编译器",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "来自UC San Diego、Rice University、QuEra Computing、Rochester Institute of Technology和University of Wisconsin–Madison的研究人员推出了Qubrio，这是一个用于中性原子量子电路编译的多智能体LLM框架，已被NeurIPS 2026接收。它将专门化的LLM提议智能体与确定性约束验证器和硬件模拟器配合，自动完成量子比特布局、AOD路由和调度优化。"
-              },
-              {
-                "t": "p",
-                "x": "三级分解将电路拆分为CZ门阶段，把布局与路由和调度分开，并反馈局部化的错误诊断。智能体的推理日志显示，它们自行发现了车队式穿梭方式，在GHZ-78上每次AOD移动最多搬运30.3个量子比特。"
-              },
-              {
-                "t": "p",
-                "x": "在最多78个量子比特的QASMBench工作负载上，Qubrio相比PowerMove编译器平均将运行时间缩短4.7×，保真度提升1.3×，批量编译各阶段约需五分钟。论文已发布在arXiv上，代码在GitHub开源。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Qubrio, un compilador LLM\npara cúbits de átomos neutros",
-          "body": "Frente a PowerMove, los agentes LLM de Qubrio redujeron 4.7x el tiempo y subieron 1.3x la fidelidad en hasta 78 cúbits.",
-          "mini_headline": "Compilador LLM para átomos neutros",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-169.png"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UC San Diego, Rice University, QuEra Computing, Rochester Institute of Technology y la University of Wisconsin–Madison presentaron Qubrio, un marco LLM multiagente para la compilación de circuitos cuánticos de átomos neutros, aceptado en NeurIPS 2026. Combina agentes LLM especializados que proponen soluciones con verificadores deterministas de restricciones y un simulador de hardware para automatizar la colocación de cúbits, el enrutamiento AOD y la optimización del calendario."
-              },
-              {
-                "t": "p",
-                "x": "Una descomposición en tres niveles divide los circuitos en etapas de puertas CZ, separa la colocación del enrutamiento y la planificación, y retroalimenta diagnósticos de errores localizados. Los registros de razonamiento de los agentes muestran que descubrieron por sí solos un traslado en convoy, con hasta 30.3 cúbits por movimiento AOD en GHZ-78."
-              },
-              {
-                "t": "p",
-                "x": "En cargas de trabajo de QASMBench de hasta 78 cúbits, Qubrio logró de media una reducción de 4.7× del tiempo de ejecución y una mejora de 1.3× en la fidelidad frente al compilador PowerMove, y compiló lotes de etapas en unos cinco minutos. El artículo está en arXiv y el código se publica como código abierto en GitHub."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "york-ann-brain-mismatch",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "뇌 닮은 AI, 실제로는\n뇌처럼 일하지 않을 수도",
-      "body": "York 연구에 따르면 피질을 잘 맞히는 시각 모델도 뇌가 안 쓰는 과정에 기댄다.",
-      "mini_headline": "뇌를 닮지 않은 AI 시각",
-      "tool": "Science",
-      "source": "ScienceDaily (York University)",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-            "cap": "Credit: AI/ScienceDaily.com"
-          },
-          {
-            "t": "p",
-            "x": "York University 연구진이 Nature Machine Intelligence에 발표한 연구에서, 뇌의 시각 처리를 모델링할 때 널리 쓰이는 인공신경망의 약점이 드러났다. Kohitij Kar 조교수와 박사후연구원 Sabine Muzellec이 이끈 연구팀은 ‘역예측성(reverse predictivity)’ 시험을 했다. AI가 뇌 활동을 예측하는지만 보지 않고, 기록된 뇌 활동으로 모델 내부를 예측할 수 있는지도 따졌다."
-          },
-          {
-            "t": "p",
-            "x": "10개 사물을 담은 자연·합성 이미지 1,320장과 양식화된 이미지 300장으로 시험해 보니, 모델은 기록된 뉴런을 꽤 잘 예측했지만 뉴런은 모델의 여러 특징을 잘 예측하지 못했다. 서로 다른 뇌끼리는 나타나지 않는 격차다."
-          },
-          {
-            "t": "p",
-            "x": "Kar는 “이번 결과는 오늘날의 AI 시스템이 시각 과제를 풀 때 뇌가 쓰지 않을 수도 있는 내부 전략을 부분적으로 사용한다는 점을 시사한다”고 말한다. 연구팀은 개발자들이 자기 모델을 평가해 볼 수 있게 공개 테스트 도구를 내놓았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Brain-like AI may not work\nthe way the brain does",
-          "body": "A York study finds vision models that predict primate cortex well can still rely on processes the brain does not use.",
-          "mini_headline": "AI vision is not brain-like",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "A York University study in Nature Machine Intelligence finds a weakness in artificial neural networks widely used to model how the brain processes vision. Led by Assistant Professor Kohitij Kar with postdoctoral fellow Sabine Muzellec, the team ran “reverse predictivity” tests: instead of asking only whether AI predicts brain activity, they asked whether recorded brain activity predicts the models’ internals."
-              },
-              {
-                "t": "p",
-                "x": "Using 1,320 natural and synthetic images of 10 objects plus 300 stylized images, they found models predicted recorded neurons fairly well, but neurons predicted many model features poorly — a gap not seen between different brains."
-              },
-              {
-                "t": "p",
-                "x": "“The findings suggest that today's AI systems solve visual tasks partly using internal strategies that the brain may not use,” says Kar. The team released a public testing toolkit so developers can evaluate their own models."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "뇌 닮은 AI, 실제로는\n뇌처럼 일하지 않을 수도",
-          "body": "York 연구에 따르면 피질을 잘 맞히는 시각 모델도 뇌가 안 쓰는 과정에 기댄다.",
-          "mini_headline": "뇌를 닮지 않은 AI 시각",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "York University 연구진이 Nature Machine Intelligence에 발표한 연구에서, 뇌의 시각 처리를 모델링할 때 널리 쓰이는 인공신경망의 약점이 드러났다. Kohitij Kar 조교수와 박사후연구원 Sabine Muzellec이 이끈 연구팀은 ‘역예측성(reverse predictivity)’ 시험을 했다. AI가 뇌 활동을 예측하는지만 보지 않고, 기록된 뇌 활동으로 모델 내부를 예측할 수 있는지도 따졌다."
-              },
-              {
-                "t": "p",
-                "x": "10개 사물을 담은 자연·합성 이미지 1,320장과 양식화된 이미지 300장으로 시험해 보니, 모델은 기록된 뉴런을 꽤 잘 예측했지만 뉴런은 모델의 여러 특징을 잘 예측하지 못했다. 서로 다른 뇌끼리는 나타나지 않는 격차다."
-              },
-              {
-                "t": "p",
-                "x": "Kar는 “이번 결과는 오늘날의 AI 시스템이 시각 과제를 풀 때 뇌가 쓰지 않을 수도 있는 내부 전략을 부분적으로 사용한다는 점을 시사한다”고 말한다. 연구팀은 개발자들이 자기 모델을 평가해 볼 수 있게 공개 테스트 도구를 내놓았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "脳に似たAIは脳のように\n働いていないかもしれない",
-          "body": "York大学の研究で、皮質をよく予測する視覚モデルも脳が使わない処理に頼りうるとわかった。",
-          "mini_headline": "AIの視覚は脳に似ていない",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "York UniversityがNature Machine Intelligenceに発表した研究は、脳の視覚処理をモデル化するのに広く使われている人工ニューラルネットワークの弱点を明らかにした。Kohitij Kar助教がポスドク研究員のSabine Muzellecとともに率いたチームは「逆予測性(reverse predictivity)」テストを行った。AIが脳活動を予測できるかだけでなく、記録された脳活動がモデルの内部を予測できるかを問うものだ。"
-              },
-              {
-                "t": "p",
-                "x": "10種類の物体を写した自然画像と合成画像1,320枚に加え、様式化した画像300枚を用いたところ、モデルは記録されたニューロンをかなりよく予測したが、ニューロンはモデルの多くの特徴をうまく予測できなかった。異なる脳どうしでは見られない差である。"
-              },
-              {
-                "t": "p",
-                "x": "「今回の結果は、現在のAIシステムが視覚課題を解く際、脳が使っていない可能性のある内部戦略を部分的に用いていることを示唆している」とKarは言う。チームは開発者が自らのモデルを評価できるよう、テスト用ツールキットを公開した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "类脑AI的工作方式\n未必与大脑相同",
-          "body": "York的研究发现，能很好预测灵长类皮层的视觉模型，仍可能依赖大脑并不使用的过程。",
-          "mini_headline": "AI视觉并不像大脑",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "York University发表在Nature Machine Intelligence上的一项研究发现，被广泛用于模拟大脑视觉处理方式的人工神经网络存在弱点。由助理教授Kohitij Kar与博士后研究员Sabine Muzellec带领的团队开展了“反向预测性”(reverse predictivity)测试：不只问AI能否预测大脑活动，还问记录到的大脑活动能否预测模型的内部状态。"
-              },
-              {
-                "t": "p",
-                "x": "研究使用了包含10种物体的1,320张自然与合成图像，以及300张风格化图像，发现模型能较好地预测记录到的神经元，但神经元对模型许多特征的预测却很差——这种差距在不同大脑之间并不存在。"
-              },
-              {
-                "t": "p",
-                "x": "Kar表示：“研究结果表明，如今的AI系统在解决视觉任务时，部分采用了大脑可能并不使用的内部策略。”团队发布了一个公开测试工具包，供开发者评估自己的模型。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una AI similar al cerebro puede\nno funcionar como el cerebro",
-          "body": "Un estudio de York revela que modelos visuales que predicen bien la corteza primate usan procesos ajenos al cerebro.",
-          "mini_headline": "La visión AI no imita al cerebro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio de la York University publicado en Nature Machine Intelligence detecta una debilidad en las redes neuronales artificiales muy usadas para modelar cómo procesa el cerebro la visión. Dirigido por el profesor adjunto Kohitij Kar junto con la investigadora posdoctoral Sabine Muzellec, el equipo realizó pruebas de “predictividad inversa” (reverse predictivity): en lugar de preguntar solo si la AI predice la actividad cerebral, se preguntaron si la actividad cerebral registrada predice el funcionamiento interno de los modelos."
-              },
-              {
-                "t": "p",
-                "x": "Con 1,320 imágenes naturales y sintéticas de 10 objetos, más 300 imágenes estilizadas, comprobaron que los modelos predecían bastante bien las neuronas registradas, pero las neuronas predecían mal muchas características de los modelos, una brecha que no se observa entre cerebros distintos."
-              },
-              {
-                "t": "p",
-                "x": "“Los resultados sugieren que los sistemas de AI actuales resuelven tareas visuales usando en parte estrategias internas que el cerebro quizá no utiliza”, afirma Kar. El equipo publicó un conjunto de herramientas de prueba abierto para que los desarrolladores evalúen sus propios modelos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "뇌 닮은 AI, 실제로는\n뇌처럼 일하지 않을 수도",
-          "body": "York 연구에 따르면 피질을 잘 맞히는 시각 모델도 뇌가 안 쓰는 과정에 기댄다.",
-          "mini_headline": "뇌를 닮지 않은 AI 시각",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "York University 연구진이 Nature Machine Intelligence에 발표한 연구는 뇌의 시각 처리 방식을 모델링하는 데 널리 쓰이는 인공신경망의 약점을 찾아냈다. Kohitij Kar 조교수가 박사후연구원 Sabine Muzellec과 함께 이끈 연구팀은 ‘역예측성(reverse predictivity)’ 시험을 진행했다. AI가 뇌 활동을 예측하는지만 묻는 대신, 기록된 뇌 활동이 모델의 내부를 예측하는지도 물은 것이다."
-              },
-              {
-                "t": "p",
-                "x": "10개 사물을 담은 자연·합성 이미지 1,320장과 양식화된 이미지 300장을 사용한 결과, 모델은 기록된 뉴런을 꽤 잘 예측했지만 뉴런은 모델의 여러 특징을 잘 예측하지 못했다. 서로 다른 뇌 사이에서는 보이지 않는 격차다."
-              },
-              {
-                "t": "p",
-                "x": "Kar는 “이번 결과는 오늘날의 AI 시스템이 시각 과제를 풀 때 뇌가 쓰지 않을 수도 있는 내부 전략을 부분적으로 사용한다는 점을 시사한다”고 말한다. 연구팀은 개발자들이 자신의 모델을 평가할 수 있도록 공개 테스트 도구를 내놓았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "脳に似たAIは脳のように\n働いていないかもしれない",
-          "body": "York大学の研究で、皮質をよく予測する視覚モデルも脳が使わない処理に頼りうるとわかった。",
-          "mini_headline": "AIの視覚は脳に似ていない",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "York UniversityがNature Machine Intelligenceに発表した研究は、脳の視覚処理をモデル化するのに広く使われている人工ニューラルネットワークの弱点を明らかにした。Kohitij Kar助教がポスドク研究員のSabine Muzellecとともに率いたチームは「逆予測性(reverse predictivity)」テストを行った。AIが脳活動を予測できるかだけでなく、記録された脳活動がモデルの内部を予測できるかを問うものだ。"
-              },
-              {
-                "t": "p",
-                "x": "10種類の物体を写した自然画像と合成画像1,320枚に加え、様式化した画像300枚を用いたところ、モデルは記録されたニューロンをかなりよく予測したが、ニューロンはモデルの多くの特徴をうまく予測できなかった。異なる脳どうしでは見られない差である。"
-              },
-              {
-                "t": "p",
-                "x": "「今回の結果は、現在のAIシステムが視覚課題を解く際、脳が使っていない可能性のある内部戦略を部分的に用いていることを示唆している」とKarは言う。チームは開発者が自らのモデルを評価できるよう、テスト用ツールキットを公開した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "类脑AI的工作方式\n未必与大脑相同",
-          "body": "York的研究发现，能很好预测灵长类皮层的视觉模型，仍可能依赖大脑并不使用的过程。",
-          "mini_headline": "AI视觉并不像大脑",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "York University发表在Nature Machine Intelligence上的一项研究发现，被广泛用于模拟大脑视觉处理方式的人工神经网络存在弱点。由助理教授Kohitij Kar与博士后研究员Sabine Muzellec带领的团队开展了“反向预测性”(reverse predictivity)测试：不只问AI能否预测大脑活动，还问记录到的大脑活动能否预测模型的内部状态。"
-              },
-              {
-                "t": "p",
-                "x": "研究使用了包含10种物体的1,320张自然与合成图像，以及300张风格化图像，发现模型能较好地预测记录到的神经元，但神经元对模型许多特征的预测却很差——这种差距在不同大脑之间并不存在。"
-              },
-              {
-                "t": "p",
-                "x": "Kar表示：“研究结果表明，如今的AI系统在解决视觉任务时，部分采用了大脑可能并不使用的内部策略。”团队发布了一个公开测试工具包，供开发者评估自己的模型。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una AI similar al cerebro puede\nno funcionar como el cerebro",
-          "body": "Un estudio de York revela que modelos visuales que predicen bien la corteza primate usan procesos ajenos al cerebro.",
-          "mini_headline": "La visión AI no imita al cerebro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-                "cap": "Credit: AI/ScienceDaily.com"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio de la York University publicado en Nature Machine Intelligence detecta una debilidad en las redes neuronales artificiales muy usadas para modelar cómo procesa el cerebro la visión. Dirigido por el profesor adjunto Kohitij Kar junto con la investigadora posdoctoral Sabine Muzellec, el equipo realizó pruebas de “predictividad inversa” (reverse predictivity): en lugar de preguntar solo si la AI predice la actividad cerebral, se preguntaron si la actividad cerebral registrada predice el funcionamiento interno de los modelos."
-              },
-              {
-                "t": "p",
-                "x": "Con 1,320 imágenes naturales y sintéticas de 10 objetos, más 300 imágenes estilizadas, comprobaron que los modelos predecían bastante bien las neuronas registradas, pero las neuronas predecían mal muchas características de los modelos, una brecha que no se observa entre cerebros distintos."
-              },
-              {
-                "t": "p",
-                "x": "“Los resultados sugieren que los sistemas de AI actuales resuelven tareas visuales usando en parte estrategias internas que el cerebro quizá no utiliza”, afirma Kar. El equipo publicó un conjunto de herramientas de prueba abierto para que los desarrolladores evalúen sus propios modelos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "pertreason-virtual-cell",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "세포 변화와 그 이유\nPertReason이 예측",
-      "body": "Texas A&M의 PertReason은 교란·약물의 세포 영향과 경로를 짚는다.",
-      "mini_headline": "이유까지 설명하는 가상 세포",
+      "headline": "Google 허리케인 AI\n독립 검증대에 오르다",
+      "body": "385개 태풍서 WeatherNext Cyclone은 NOAA 앞서되 과소예측했다.",
+      "mini_headline": "Google 허리케인 AI, 시험대에",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html",
+      "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -895,315 +301,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-            "cap": "교란 모델링에서 제안된 해법 개요. Credit: arXiv (2026)"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+            "cap": "ETEC Map Room 화면에 띄운 기상 데이터. Credit: Patrick Dodson"
           },
           {
             "t": "p",
-            "x": "Texas A&M 전기·컴퓨터공학과의 Yang Shen 박사 연구진은 Dongkwan Kim 박사, Ph.D. 과정 학생 Yiming Gao와 함께 AI ‘가상 세포’ 기술을 개발하고 있다. 유전적·약물 효과가 세포 행동을 어떻게 바꾸는지 예측하고, 그 변화 뒤의 생물학적 메커니즘까지 밝히는 기술이다."
+            "x": "2025년 가을 Hurricane Melissa(허리케인 멜리사)가 Jamaica(자메이카)를 덮쳤을 때 다른 모델들의 예측은 엇갈렸지만, Google의 AI 모델은 경로와 Category 5 강도를 일주일 앞서 정확히 맞혔다. University at Albany의 Jacob Vile, Brian Tang, Nour Elgalad는 Geophysical Research Letters에 낸 연구에서 Google의 WeatherNext Cyclone을 독립적으로 검증했다."
           },
           {
             "t": "p",
-            "x": "연구진의 모델 PertReason은 NeurIPS 2026에 채택돼 arXiv에 공개됐다. 초기 버전은 ICML 2026 워크숍에서 발표했다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-            "cap": "PertReasonQA 구축 파이프라인 개요. Credit: arXiv (2026)"
+            "x": "연구팀은 2022년 6월부터 2026년 5월까지 전 세계 열대 사이클론 385개의 강도 예보를 분석했다. 하루 뒤부터 닷새 뒤까지 모든 시점에서 이 모델은 NOAA의 최첨단 허리케인 모델보다 정확했고, 첫날 이후로는 인간 예보관과 맞먹었다. 급격한 강화 예보에서는 향후 24시간 동안 선도 도구들과 비슷한 신뢰도를 보이면서 오경보는 더 적었다."
           },
           {
             "t": "p",
-            "x": "PertReasonQA 벤치마크는 LLM의 정확도뿐 아니라 답에 이른 추론이 타당한지도 평가한다. 모델이 적절한 데이터를 쓰지 않고 정답을 맞힌 경우를 걸러내는 셈이다. Shen은 유방암 임상의들과 협업하며 영감을 얻었고, 이 도구가 어떤 경로부터 조사할지 정하는 데 쓰이길 바란다. Texas A&M의 VISION 슈퍼컴퓨터에서는 다중 스케일 디지털 트윈을 구현할 계획이다."
+            "x": "다만 폭풍이 얼마나 강해질지를 낮춰 잡는 경향이 있었고, 예보 기간이 길수록 그 격차가 벌어졌다. 가능한 결과의 범위를 지나치게 좁게 잡는 경우도 많았다. 성능은 North Atlantic(북대서양)에서 가장 좋았고 eastern North Pacific(북태평양 동부)에서 가장 나빴다. 올해 Google이 공개한 새 모델 버전은 이번 분석에서 빠졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "PertReason predicts how\ncells change, and why",
-          "body": "Texas A&M's PertReason predicts how genetic perturbations and drugs alter cells and traces the pathways behind it.",
-          "mini_headline": "A virtual cell that explains",
+          "headline": "Google's AI hurricane model\nfaces an independent test",
+          "body": "Across 385 cyclones, WeatherNext Cyclone beat NOAA on intensity but underestimated strength with too-narrow ranges.",
+          "mini_headline": "Google's hurricane AI\nput to the test",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "Overview of proposed solutions in perturbation modeling. Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "A photo of screens with weather data on them inside the Map Room at ETEC. Credit: Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "Texas A&M electrical and computer engineering researchers led by Dr. Yang Shen, with Dr. Dongkwan Kim and Ph.D. student Yiming Gao, are building AI “virtual cell” technology that can predict how genetic and drug effects alter cellular behavior and uncover the biological mechanisms behind those changes."
+                "x": "When Hurricane Melissa hit Jamaica in fall 2025, Google's AI model correctly predicted its path and Category 5 strength a week in advance, while other models disagreed. A University at Albany study by Jacob Vile, Brian Tang and Nour Elgalad, published in Geophysical Research Letters, put Google's WeatherNext Cyclone to an independent test."
               },
               {
                 "t": "p",
-                "x": "Their model, PertReason, has been accepted to NeurIPS 2026 and is on arXiv; an earlier version was presented at an ICML 2026 workshop."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "Overview of the PertReasonQA construction pipeline. Credit: arXiv (2026)"
+                "x": "The team analyzed intensity forecasts for 385 tropical cyclones worldwide from June 2022 to May 2026. The model was more accurate than NOAA's state-of-the-art hurricane model at every point from one to five days out and performed on par with human forecasters beyond the first day. Its rapid-intensification forecasts were about as reliable as a leading tool over the next 24 hours, with fewer false alarms."
               },
               {
                 "t": "p",
-                "x": "The team's PertReasonQA benchmark evaluates not only LLM accuracy but whether the reasoning behind an answer is sound, flagging cases where a model got the right answer without using the proper data. Inspired by work with breast cancer clinicians, Shen hopes it helps prioritize which pathways to investigate, and plans multiscale digital twins on Texas A&M's VISION supercomputer."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "세포 변화와 그 이유\nPertReason이 예측",
-          "body": "Texas A&M의 PertReason은 교란·약물의 세포 영향과 경로를 짚는다.",
-          "mini_headline": "이유까지 설명하는 가상 세포",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "교란 모델링에서 제안된 해법 개요. Credit: arXiv (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Texas A&M 전기·컴퓨터공학과의 Yang Shen 박사 연구진은 Dongkwan Kim 박사, Ph.D. 과정 학생 Yiming Gao와 함께 AI ‘가상 세포’ 기술을 개발하고 있다. 유전적·약물 효과가 세포 행동을 어떻게 바꾸는지 예측하고, 그 변화 뒤의 생물학적 메커니즘까지 밝히는 기술이다."
-              },
-              {
-                "t": "p",
-                "x": "연구진의 모델 PertReason은 NeurIPS 2026에 채택돼 arXiv에 공개됐다. 초기 버전은 ICML 2026 워크숍에서 발표했다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "PertReasonQA 구축 파이프라인 개요. Credit: arXiv (2026)"
-              },
-              {
-                "t": "p",
-                "x": "PertReasonQA 벤치마크는 LLM의 정확도뿐 아니라 답에 이른 추론이 타당한지도 평가한다. 모델이 적절한 데이터를 쓰지 않고 정답을 맞힌 경우를 걸러내는 셈이다. Shen은 유방암 임상의들과 협업하며 영감을 얻었고, 이 도구가 어떤 경로부터 조사할지 정하는 데 쓰이길 바란다. Texas A&M의 VISION 슈퍼컴퓨터에서는 다중 스케일 디지털 트윈을 구현할 계획이다."
+                "x": "But it tends to underestimate how strong storms will get, a gap that grows at longer lead times, and its range of possible outcomes was often too narrow. It performed best in the North Atlantic and worst in the eastern North Pacific. A newer model version Google released this year was not included in the analysis."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PertReason、細胞の\n変化とその理由を予測",
-          "body": "Texas A&MのPertReasonは遺伝子摂動や薬による細胞変化を予測し、経路も示す。",
-          "mini_headline": "理由も説明する仮想細胞",
+          "headline": "GoogleのハリケーンAI\n独立検証に臨む",
+          "body": "WeatherNext Cycloneは385例でNOAAを上回ったが、強度を過小評価した。",
+          "mini_headline": "GoogleのハリケーンAIを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "摂動モデリングで提案されている手法の概要。Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "ETECのMap Room内で、気象データを映した画面の写真。クレジット：Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "Texas A&Mの電気・コンピュータ工学の研究者らは、Yang Shen博士を中心に、Dongkwan Kim博士やPh.D.課程の学生Yiming Gaoとともに、遺伝的要因や薬の作用が細胞の振る舞いをどう変えるかを予測し、その変化の背後にある生物学的メカニズムを明らかにできるAI「仮想細胞」技術を開発している。"
+                "x": "2025年秋にハリケーンMelissaがジャマイカを襲った際、他のモデルの予測が割れるなか、GoogleのAIモデルは一週間前にその進路とCategory 5の強さを正しく予測した。University at AlbanyのJacob Vile、Brian Tang、Nour Elgaladによる研究はGeophysical Research Lettersに掲載され、GoogleのWeatherNext Cycloneを独立に検証した。"
               },
               {
                 "t": "p",
-                "x": "彼らのモデルPertReasonはNeurIPS 2026に採択され、arXivで公開されている。初期版はICML 2026のワークショップで発表された。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "PertReasonQA構築パイプラインの概要。Credit: arXiv (2026)"
+                "x": "研究チームは2022年6月から2026年5月までの世界の熱帯低気圧385個の強度予報を分析した。このモデルは一日先から五日先までのすべての時点でNOAAの最先端ハリケーンモデルより正確で、初日以降は人間の予報官と同等の成績だった。急速強化の予報は今後24時間について主要ツールとほぼ同等の信頼性を示し、空振りも少なかった。"
               },
               {
                 "t": "p",
-                "x": "チームのPertReasonQAベンチマークは、LLMの正答率だけでなく、答えに至る推論が妥当かどうかも評価し、モデルが適切なデータを使わずに正解した事例を検出する。乳がんの臨床医との共同研究に着想を得たShenは、どの経路を優先して調べるべきかの判断に役立つことを期待しており、Texas A&MのスーパーコンピューターVISIONでマルチスケールのデジタルツインを構築する計画だ。"
+                "x": "ただし、嵐がどこまで強まるかを過小評価する傾向があり、その差は予報期間が長いほど広がった。想定される結果の幅も狭すぎることが多かった。成績は北大西洋で最もよく、北太平洋東部で最も悪かった。Googleが今年公開した新しいモデルのバージョンは分析に含まれていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PertReason预测细胞\n如何变化及其原因",
-          "body": "Texas A&M的PertReason可预测基因扰动和药物如何改变细胞，并追溯背后的通路。",
-          "mini_headline": "能解释原因的虚拟细胞",
+          "headline": "Google飓风AI模型\n接受独立检验",
+          "body": "WeatherNext Cyclone在385个气旋中胜过NOAA，但低估强度、范围过窄。",
+          "mini_headline": "Google飓风AI接受检验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "扰动建模中所提出解决方案的概览。Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "ETEC的Map Room内显示天气数据的屏幕。图片来源：Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "由Yang Shen博士领导的Texas A&M电气与计算机工程研究人员，与Dongkwan Kim博士及Ph.D.学生Yiming Gao一起，正在开发AI“虚拟细胞”技术，用以预测遗传与药物效应如何改变细胞行为，并揭示这些变化背后的生物学机制。"
+                "x": "2025年秋季飓风Melissa袭击牙买加时，在其他模型意见不一的情况下，Google的AI模型提前一周准确预测了其路径和Category 5强度。University at Albany的Jacob Vile、Brian Tang和Nour Elgalad在Geophysical Research Letters上发表研究，对Google的WeatherNext Cyclone进行了独立检验。"
               },
               {
                 "t": "p",
-                "x": "他们的模型PertReason已被NeurIPS 2026接收，并已发布在arXiv上；早期版本曾在ICML 2026的一个研讨会上展示。"
+                "x": "团队分析了2022年6月至2026年5月全球385个热带气旋的强度预报。在提前一天到五天的每个时点，该模型都比NOAA最先进的飓风模型更准确，第一天之后的表现与人类预报员相当。其快速增强预报在未来24小时内的可靠性与一款领先工具相当，误报更少。"
               },
+              {
+                "t": "p",
+                "x": "但它往往低估风暴最终的强度，且预报时效越长差距越大；其可能结果的范围也常常过窄。它在北大西洋表现最好，在东北太平洋表现最差。Google今年发布的新版模型未纳入此次分析。"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google 허리케인 AI\n독립 검증대에 오르다",
+          "body": "385개 태풍서 WeatherNext Cyclone은 NOAA 앞서되 과소예측했다.",
+          "mini_headline": "Google 허리케인 AI, 시험대에",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "PertReasonQA构建流程概览。Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "ETEC Map Room 화면에 띄운 기상 데이터. Credit: Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "团队的PertReasonQA基准不仅评估LLM的准确率，还评估答案背后的推理是否合理，并标记模型未使用恰当数据却答对的情况。Shen受到与乳腺癌临床医生合作的启发，希望它能帮助确定优先研究哪些通路，并计划在Texas A&M的VISION超级计算机上构建多尺度数字孪生。"
+                "x": "2025년 가을 Hurricane Melissa(허리케인 멜리사)가 Jamaica(자메이카)를 덮쳤을 때 다른 모델들의 예측은 엇갈렸지만, Google의 AI 모델은 경로와 Category 5 강도를 일주일 앞서 정확히 맞혔다. University at Albany의 Jacob Vile, Brian Tang, Nour Elgalad는 Geophysical Research Letters에 낸 연구에서 Google의 WeatherNext Cyclone을 독립적으로 검증했다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 2022년 6월부터 2026년 5월까지 전 세계 열대 사이클론 385개의 강도 예보를 분석했다. 하루 뒤부터 닷새 뒤까지 모든 시점에서 이 모델은 NOAA의 최첨단 허리케인 모델보다 정확했고, 첫날 이후로는 인간 예보관과 맞먹었다. 급격한 강화 예보에서는 향후 24시간 동안 선도 도구들과 비슷한 신뢰도를 보이면서 오경보는 더 적었다."
+              },
+              {
+                "t": "p",
+                "x": "다만 폭풍이 얼마나 강해질지를 낮춰 잡는 경향이 있었고, 예보 기간이 길수록 그 격차가 벌어졌다. 가능한 결과의 범위를 지나치게 좁게 잡는 경우도 많았다. 성능은 North Atlantic(북대서양)에서 가장 좋았고 eastern North Pacific(북태평양 동부)에서 가장 나빴다. 올해 Google이 공개한 새 모델 버전은 이번 분석에서 빠졌다."
               }
             ]
           }
         },
         "es": {
-          "headline": "PertReason predice cómo cambian\nlas células, y por qué",
-          "body": "PertReason, de Texas A&M, predice cómo las perturbaciones genéticas y fármacos alteran las células y rastrea sus vías.",
-          "mini_headline": "Una célula virtual que explica",
+          "headline": "Modelo AI de huracanes de Google\nante una prueba independiente",
+          "body": "En 385 ciclones, WeatherNext Cyclone superó a NOAA en intensidad, pero subestimó la fuerza con rangos muy estrechos.",
+          "mini_headline": "La AI de huracanes de Google, a prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "Resumen de las soluciones propuestas en el modelado de perturbaciones. Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "Pantallas con datos meteorológicos en el Map Room de ETEC. Credit: Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "Investigadores de ingeniería eléctrica y de computación de Texas A&M dirigidos por el Dr. Yang Shen, con el Dr. Dongkwan Kim y el estudiante de Ph.D. Yiming Gao, desarrollan una tecnología de AI de “célula virtual” capaz de predecir cómo los efectos genéticos y farmacológicos alteran el comportamiento celular y de desvelar los mecanismos biológicos detrás de esos cambios."
+                "x": "Cuando el huracán Melissa (Hurricane Melissa) azotó Jamaica en el otoño de 2025, el modelo de AI de Google predijo correctamente su trayectoria y su fuerza de Category 5 con una semana de antelación, mientras otros modelos discrepaban. Un estudio de la University at Albany firmado por Jacob Vile, Brian Tang y Nour Elgalad, publicado en Geophysical Research Letters, sometió WeatherNext Cyclone de Google a una prueba independiente."
               },
               {
                 "t": "p",
-                "x": "Su modelo, PertReason, ha sido aceptado en NeurIPS 2026 y está en arXiv; una versión anterior se presentó en un taller de ICML 2026."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "Resumen del proceso de construcción de PertReasonQA. Credit: arXiv (2026)"
+                "x": "El equipo analizó los pronósticos de intensidad de 385 ciclones tropicales de todo el mundo entre junio de 2022 y mayo de 2026. El modelo fue más preciso que el modelo de huracanes más avanzado de NOAA en todos los plazos, de uno a cinco días, y rindió a la par de los pronosticadores humanos después del primer día. Sus pronósticos de intensificación rápida fueron casi tan fiables como los de una herramienta líder en las siguientes 24 horas, con menos falsas alarmas."
               },
               {
                 "t": "p",
-                "x": "El banco de pruebas PertReasonQA del equipo evalúa no solo la precisión de los LLM sino también si el razonamiento detrás de una respuesta es sólido, y señala los casos en que un modelo acertó sin usar los datos adecuados. Inspirado por su trabajo con médicos especialistas en cáncer de mama, Shen espera que ayude a priorizar qué vías investigar, y planea gemelos digitales multiescala en el superordenador VISION de Texas A&M."
+                "x": "Sin embargo, tiende a subestimar cuánto se intensificarán las tormentas, una brecha que crece con plazos más largos, y su rango de resultados posibles fue a menudo demasiado estrecho. Su mejor desempeño fue en el North Atlantic (Atlántico Norte) y el peor, en el este del North Pacific (Pacífico Norte). Una versión más reciente del modelo que Google lanzó este año no se incluyó en el análisis."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "세포 변화와 그 이유\nPertReason이 예측",
-          "body": "Texas A&M의 PertReason은 교란·약물의 세포 영향과 경로를 짚는다.",
-          "mini_headline": "이유까지 설명하는 가상 세포",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "교란 모델링에서 제안된 해법 개요. Credit: arXiv (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Yang Shen 박사가 이끄는 Texas A&M 전기·컴퓨터공학과 연구진은 Dongkwan Kim 박사, Ph.D. 과정 학생 Yiming Gao와 함께 유전적·약물 효과가 세포 행동을 어떻게 바꾸는지 예측하고 그 변화 뒤의 생물학적 메커니즘을 밝혀낼 수 있는 AI ‘가상 세포’ 기술을 개발하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "이들의 모델 PertReason은 NeurIPS 2026에 채택돼 arXiv에 공개됐으며, 초기 버전은 ICML 2026 워크숍에서 발표됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "PertReasonQA 구축 파이프라인 개요. Credit: arXiv (2026)"
-              },
-              {
-                "t": "p",
-                "x": "연구팀의 PertReasonQA 벤치마크는 LLM의 정확도뿐 아니라 답을 낸 추론이 타당한지까지 평가해, 모델이 적절한 데이터를 쓰지 않고도 정답을 맞힌 경우를 가려낸다. 유방암 임상의들과의 협업에서 영감을 얻은 Shen은 이 도구가 어떤 경로를 먼저 조사할지 정하는 데 도움이 되길 바라며, Texas A&M의 VISION 슈퍼컴퓨터에서 다중 스케일 디지털 트윈을 구현할 계획이다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "PertReason、細胞の\n変化とその理由を予測",
-          "body": "Texas A&MのPertReasonは遺伝子摂動や薬による細胞変化を予測し、経路も示す。",
-          "mini_headline": "理由も説明する仮想細胞",
+          "headline": "GoogleのハリケーンAI\n独立検証に臨む",
+          "body": "WeatherNext Cycloneは385例でNOAAを上回ったが、強度を過小評価した。",
+          "mini_headline": "GoogleのハリケーンAIを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "摂動モデリングで提案されている手法の概要。Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "ETECのMap Room内で、気象データを映した画面の写真。クレジット：Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "Texas A&Mの電気・コンピュータ工学の研究者らは、Yang Shen博士を中心に、Dongkwan Kim博士やPh.D.課程の学生Yiming Gaoとともに、遺伝的要因や薬の作用が細胞の振る舞いをどう変えるかを予測し、その変化の背後にある生物学的メカニズムを明らかにできるAI「仮想細胞」技術を開発している。"
+                "x": "2025年秋にハリケーンMelissaがジャマイカを襲った際、他のモデルの予測が割れるなか、GoogleのAIモデルは一週間前にその進路とCategory 5の強さを正しく予測した。University at AlbanyのJacob Vile、Brian Tang、Nour Elgaladによる研究はGeophysical Research Lettersに掲載され、GoogleのWeatherNext Cycloneを独立に検証した。"
               },
               {
                 "t": "p",
-                "x": "彼らのモデルPertReasonはNeurIPS 2026に採択され、arXivで公開されている。初期版はICML 2026のワークショップで発表された。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "PertReasonQA構築パイプラインの概要。Credit: arXiv (2026)"
+                "x": "研究チームは2022年6月から2026年5月までの世界の熱帯低気圧385個の強度予報を分析した。このモデルは一日先から五日先までのすべての時点でNOAAの最先端ハリケーンモデルより正確で、初日以降は人間の予報官と同等の成績だった。急速強化の予報は今後24時間について主要ツールとほぼ同等の信頼性を示し、空振りも少なかった。"
               },
               {
                 "t": "p",
-                "x": "チームのPertReasonQAベンチマークは、LLMの正答率だけでなく、答えに至る推論が妥当かどうかも評価し、モデルが適切なデータを使わずに正解した事例を検出する。乳がんの臨床医との共同研究に着想を得たShenは、どの経路を優先して調べるべきかの判断に役立つことを期待しており、Texas A&MのスーパーコンピューターVISIONでマルチスケールのデジタルツインを構築する計画だ。"
+                "x": "ただし、嵐がどこまで強まるかを過小評価する傾向があり、その差は予報期間が長いほど広がった。想定される結果の幅も狭すぎることが多かった。成績は北大西洋で最もよく、北太平洋東部で最も悪かった。Googleが今年公開した新しいモデルのバージョンは分析に含まれていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PertReason预测细胞\n如何变化及其原因",
-          "body": "Texas A&M的PertReason可预测基因扰动和药物如何改变细胞，并追溯背后的通路。",
-          "mini_headline": "能解释原因的虚拟细胞",
+          "headline": "Google飓风AI模型\n接受独立检验",
+          "body": "WeatherNext Cyclone在385个气旋中胜过NOAA，但低估强度、范围过窄。",
+          "mini_headline": "Google飓风AI接受检验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "扰动建模中所提出解决方案的概览。Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "ETEC的Map Room内显示天气数据的屏幕。图片来源：Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "由Yang Shen博士领导的Texas A&M电气与计算机工程研究人员，与Dongkwan Kim博士及Ph.D.学生Yiming Gao一起，正在开发AI“虚拟细胞”技术，用以预测遗传与药物效应如何改变细胞行为，并揭示这些变化背后的生物学机制。"
+                "x": "2025年秋季飓风Melissa袭击牙买加时，在其他模型意见不一的情况下，Google的AI模型提前一周准确预测了其路径和Category 5强度。University at Albany的Jacob Vile、Brian Tang和Nour Elgalad在Geophysical Research Letters上发表研究，对Google的WeatherNext Cyclone进行了独立检验。"
               },
               {
                 "t": "p",
-                "x": "他们的模型PertReason已被NeurIPS 2026接收，并已发布在arXiv上；早期版本曾在ICML 2026的一个研讨会上展示。"
+                "x": "团队分析了2022年6月至2026年5月全球385个热带气旋的强度预报。在提前一天到五天的每个时点，该模型都比NOAA最先进的飓风模型更准确，第一天之后的表现与人类预报员相当。其快速增强预报在未来24小时内的可靠性与一款领先工具相当，误报更少。"
               },
+              {
+                "t": "p",
+                "x": "但它往往低估风暴最终的强度，且预报时效越长差距越大；其可能结果的范围也常常过窄。它在北大西洋表现最好，在东北太平洋表现最差。Google今年发布的新版模型未纳入此次分析。"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google 허리케인 AI\n독립 검증대에 오르다",
+          "body": "385개 태풍서 WeatherNext Cyclone은 NOAA 앞서되 과소예측했다.",
+          "mini_headline": "Google 허리케인 AI, 시험대에",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "PertReasonQA构建流程概览。Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "ETEC의 Map Room 안, 기상 데이터가 띄워진 화면들. Credit: Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "团队的PertReasonQA基准不仅评估LLM的准确率，还评估答案背后的推理是否合理，并标记模型未使用恰当数据却答对的情况。Shen受到与乳腺癌临床医生合作的启发，希望它能帮助确定优先研究哪些通路，并计划在Texas A&M的VISION超级计算机上构建多尺度数字孪生。"
+                "x": "2025년 가을 Hurricane Melissa(허리케인 멜리사)가 Jamaica(자메이카)를 덮쳤을 때, 다른 모델들의 예측이 엇갈리는 가운데 Google의 AI 모델은 그 경로와 Category 5 강도를 일주일 앞서 정확히 예측했다. University at Albany의 Jacob Vile, Brian Tang, Nour Elgalad가 Geophysical Research Letters에 발표한 연구는 Google의 WeatherNext Cyclone을 독립적으로 검증했다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 2022년 6월부터 2026년 5월까지 전 세계 열대 사이클론 385개의 강도 예보를 분석했다. 이 모델은 하루 뒤부터 닷새 뒤까지 모든 시점에서 NOAA의 최첨단 허리케인 모델보다 정확했고, 첫날 이후로는 인간 예보관과 대등한 성능을 보였다. 급격한 강화 예보는 향후 24시간 동안 선도적인 도구와 비슷한 신뢰도를 보이면서도 오경보는 더 적었다."
+              },
+              {
+                "t": "p",
+                "x": "다만 폭풍이 얼마나 강해질지를 낮게 보는 경향이 있었고, 그 격차는 예보 기간이 길수록 커졌다. 가능한 결과의 범위도 지나치게 좁은 경우가 많았다. 성능은 North Atlantic(북대서양)에서 가장 좋았고 eastern North Pacific(북태평양 동부)에서 가장 나빴다. Google이 올해 공개한 새 모델 버전은 이번 분석에 포함되지 않았다."
               }
             ]
           }
         },
         "es": {
-          "headline": "PertReason predice cómo cambian\nlas células, y por qué",
-          "body": "PertReason, de Texas A&M, predice cómo las perturbaciones genéticas y fármacos alteran las células y rastrea sus vías.",
-          "mini_headline": "Una célula virtual que explica",
+          "headline": "Modelo AI de huracanes de Google\nante una prueba independiente",
+          "body": "En 385 ciclones, WeatherNext Cyclone superó a NOAA en intensidad, pero subestimó la fuerza con rangos muy estrechos.",
+          "mini_headline": "La AI de huracanes de Google, a prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-17.jpg",
-                "cap": "Resumen de las soluciones propuestas en el modelado de perturbaciones. Credit: arXiv (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+                "cap": "Pantallas con datos meteorológicos en el Map Room de ETEC. Credit: Patrick Dodson"
               },
               {
                 "t": "p",
-                "x": "Investigadores de ingeniería eléctrica y de computación de Texas A&M dirigidos por el Dr. Yang Shen, con el Dr. Dongkwan Kim y el estudiante de Ph.D. Yiming Gao, desarrollan una tecnología de AI de “célula virtual” capaz de predecir cómo los efectos genéticos y farmacológicos alteran el comportamiento celular y de desvelar los mecanismos biológicos detrás de esos cambios."
+                "x": "Cuando el huracán Melissa (Hurricane Melissa) azotó Jamaica en el otoño de 2025, el modelo de AI de Google predijo correctamente su trayectoria y su fuerza de Category 5 con una semana de antelación, mientras otros modelos discrepaban. Un estudio de la University at Albany firmado por Jacob Vile, Brian Tang y Nour Elgalad, publicado en Geophysical Research Letters, sometió WeatherNext Cyclone de Google a una prueba independiente."
               },
               {
                 "t": "p",
-                "x": "Su modelo, PertReason, ha sido aceptado en NeurIPS 2026 y está en arXiv; una versión anterior se presentó en un taller de ICML 2026."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-18.jpg",
-                "cap": "Resumen del proceso de construcción de PertReasonQA. Credit: arXiv (2026)"
+                "x": "El equipo analizó los pronósticos de intensidad de 385 ciclones tropicales de todo el mundo entre junio de 2022 y mayo de 2026. El modelo fue más preciso que el modelo de huracanes más avanzado de NOAA en todos los plazos, de uno a cinco días, y rindió a la par de los pronosticadores humanos después del primer día. Sus pronósticos de intensificación rápida fueron casi tan fiables como los de una herramienta líder en las siguientes 24 horas, con menos falsas alarmas."
               },
               {
                 "t": "p",
-                "x": "El banco de pruebas PertReasonQA del equipo evalúa no solo la precisión de los LLM sino también si el razonamiento detrás de una respuesta es sólido, y señala los casos en que un modelo acertó sin usar los datos adecuados. Inspirado por su trabajo con médicos especialistas en cáncer de mama, Shen espera que ayude a priorizar qué vías investigar, y planea gemelos digitales multiescala en el superordenador VISION de Texas A&M."
+                "x": "Sin embargo, tiende a subestimar cuánto se intensificarán las tormentas, una brecha que crece con plazos más largos, y su rango de resultados posibles fue a menudo demasiado estrecho. Su mejor desempeño fue en el North Atlantic (Atlántico Norte) y el peor, en el este del North Pacific (Pacífico Norte). Una versión más reciente del modelo que Google lanzó este año no se incluyó en el análisis."
               }
             ]
           }
@@ -1211,171 +567,171 @@
       }
     },
     {
-      "id": "tus-magnet-domain-wall-ai",
+      "id": "science-agent-harassment-tampering",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "고주파 에너지 손실의\n자기적 뿌리, AI가 짚다",
-      "body": "해석 가능한 AI가 철 기반 연자성체의 고주파 손실을 특정 자구벽 특징에서 찾았다.",
-      "mini_headline": "AI가 추적한 자기 에너지 손실",
+      "headline": "조작당한 AI 에이전트\n괴롭힘을 되풀이한다",
+      "body": "유해 메모리·계획 프롬프트·미세조정을 거치자 다회차 괴롭힘이 99%를 넘었다.",
+      "mini_headline": "조작에 흔들리는 AI 가드레일",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-ai-magnetic-high-frequency-energy.html",
-      "accent": "#eb367f",
+      "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-            "cap": "설명 가능한 AI와 지속 호몰로지로 찾아낸 자구벽 영역. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+            "cap": "AI. 출처: Pexels의 Tara Winstead"
           },
           {
             "t": "p",
-            "x": "변압기와 인덕터에 들어가는 연자성 재료는 전기차, 재생에너지 시스템, 데이터센터에 전력을 대지만, 어떤 미세 구조가 고주파 손실을 일으키는지는 기존 모델로 알 수 없다."
+            "x": "조지아주립대(Georgia State University) 연구진은 Georgia Tech, UC Berkeley 협력자들과 함께 AI 가드레일이 여러 차례 오가는 대화에서도 버티는지 시험했다. AI 에이전트 하나는 괴롭히는 쪽, 다른 하나는 당하는 쪽을 맡아 최대 10라운드까지 대화했고, 출발점은 Twitter와 Instagram의 실제 괴롭힘 게시물이었다. Google(Gemini), Meta(Llama), Alibaba(Qwen), DeepSeek 모델에는 세 가지 공격을 가했다. 유해한 이전 대화를 메모리에 넣기, 계획 프롬프트, 괴롭힘 대화로 미세조정하기다."
           },
           {
             "t": "p",
-            "x": "Masato Kotsugi 교수가 이끌고 Kosuke Nishioka가 참여한 Tokyo University of Science 연구팀은 Fugaku 미세자기 시뮬레이션에 물리 해석 가능한 AI 기법을 적용했다. 시뮬레이션은 이상화된 철 기반 나노결정 연자성체를 100 kHz, 1 MHz, 10 MHz에서 다뤘다. 분석에는 지속 호몰로지와 역매핑을 결합한 에너지 지형을 썼다."
+            "x": "미세조정을 거친 한 모델은 대화의 약 96%에서 괴롭힘을 했고, 거부율은 약 1%에 그쳤다. 약 200개 대화로 미세조정해도 괴롭힘 비율은 약 97%까지 올랐다. Gemini는 기본 조건 대화의 39%에서 괴롭힘을 했는데, 유해 메모리가 들어가자 99%를 넘었다. Qwen은 기본 조건에서도 92%를 넘겼다. 여러 모델에서 대화가 오갈수록 적대감이 커졌다. 공동 저자 Ugur Kursuncu는 \"그대로 머무르지 않는다. 시간이 갈수록 커진다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "주파수가 높아질수록 자구는 점점 잘게 쪼개졌고, 보자력 영역 근처의 에너지 장벽도 함께 높아졌다. 기여도가 큰 특징은 전파하는 역자구의 끝부분과 일부 미세한 자벽 구간에 몰려 있었다. 이 장벽은 교환 상호작용에서 생기는 구조적 에너지 비용으로, 소산된 열을 직접 잰 값은 아니다. 연구는 NPG Asia Materials에 실렸다."
+            "x": "Trilok Padhi et al.의 논문 \"Echoes of Human Malice in Agents\"는 AAAI 웹·소셜미디어 학회(ICWSM)에 채택됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI pinpoints the magnetic roots\nof high-frequency energy loss",
-          "body": "Interpretable AI traced high-frequency losses in an iron-based soft magnet to specific domain-wall features.",
-          "mini_headline": "AI traces magnetic energy loss",
+          "headline": "Tampered AI agents slide\ninto repeated harassment",
+          "body": "Toxic memory, planning prompts or fine-tuning pushed multi-turn harassment rates in chat agents above 99%.",
+          "mini_headline": "AI guardrails falter\nunder tampering",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "Domain-wall regions identified with explainable AI and persistent homology. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI. Credit: Tara Winstead from Pexels"
               },
               {
                 "t": "p",
-                "x": "Soft magnetic materials in transformers and inductors power electric vehicles, renewable energy systems and data centers, but conventional models do not show which microscopic structures drive losses at high frequencies."
+                "x": "Georgia State University researchers, with collaborators at Georgia Tech and UC Berkeley, tested whether AI guardrails hold up in multi-turn conversations. One AI agent played a harasser and another a target for up to 10 rounds, seeded with real harassing posts from Twitter and Instagram. Models from Google (Gemini), Meta (Llama), Alibaba (Qwen) and DeepSeek faced three attacks: toxic prior conversations in memory, planning prompts, and fine-tuning on harassment conversations."
               },
               {
                 "t": "p",
-                "x": "A Tokyo University of Science team led by Professor Masato Kotsugi, with Kosuke Nishioka, used a physics-interpretable AI approach on Fugaku micromagnetic simulations of an idealized iron-based nanocrystalline soft magnet at 100 kHz, 1 MHz and 10 MHz, applying persistent homology and an energy landscape with inverse mapping."
+                "x": "After fine-tuning, one model harassed in about 96% of conversations and refused about 1% of the time; fine-tuning on roughly 200 conversations still produced about 97% harassment. Gemini harassed in 39% of baseline conversations, rising to more than 99% with toxic memory, and Qwen exceeded 92% even at baseline. In several models hostility increased across exchanges. \"It is not staying the same. It is increasing over time,\" said co-author Ugur Kursuncu."
               },
               {
                 "t": "p",
-                "x": "Domains became increasingly subdivided as frequency increased, and the energy barrier near the coercive region rose with frequency. High-contribution features concentrated around propagating reversed-domain tips and selected fine wall segments; the barrier is an exchange-derived structural energy cost, not a direct measurement of dissipated heat. The study appears in NPG Asia Materials."
+                "x": "The paper, \"Echoes of Human Malice in Agents\" by Trilok Padhi et al., was accepted to the AAAI Conference on Web and Social Media (ICWSM)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "고주파 에너지 손실의\n자기적 뿌리, AI가 짚다",
-          "body": "해석 가능한 AI가 철 기반 연자성체의 고주파 손실을 특정 자구벽 특징에서 찾았다.",
-          "mini_headline": "AI가 추적한 자기 에너지 손실",
+          "headline": "조작당한 AI 에이전트\n괴롭힘을 되풀이한다",
+          "body": "유해 메모리·계획 프롬프트·미세조정을 거치자 다회차 괴롭힘이 99%를 넘었다.",
+          "mini_headline": "조작에 흔들리는 AI 가드레일",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "설명 가능한 AI와 지속 호몰로지로 찾아낸 자구벽 영역. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI. 출처: Pexels의 Tara Winstead"
               },
               {
                 "t": "p",
-                "x": "변압기와 인덕터에 들어가는 연자성 재료는 전기차, 재생에너지 시스템, 데이터센터에 전력을 대지만, 어떤 미세 구조가 고주파 손실을 일으키는지는 기존 모델로 알 수 없다."
+                "x": "조지아주립대(Georgia State University) 연구진은 Georgia Tech, UC Berkeley 협력자들과 함께 AI 가드레일이 여러 차례 오가는 대화에서도 버티는지 시험했다. AI 에이전트 하나는 괴롭히는 쪽, 다른 하나는 당하는 쪽을 맡아 최대 10라운드까지 대화했고, 출발점은 Twitter와 Instagram의 실제 괴롭힘 게시물이었다. Google(Gemini), Meta(Llama), Alibaba(Qwen), DeepSeek 모델에는 세 가지 공격을 가했다. 유해한 이전 대화를 메모리에 넣기, 계획 프롬프트, 괴롭힘 대화로 미세조정하기다."
               },
               {
                 "t": "p",
-                "x": "Masato Kotsugi 교수가 이끌고 Kosuke Nishioka가 참여한 Tokyo University of Science 연구팀은 Fugaku 미세자기 시뮬레이션에 물리 해석 가능한 AI 기법을 적용했다. 시뮬레이션은 이상화된 철 기반 나노결정 연자성체를 100 kHz, 1 MHz, 10 MHz에서 다뤘다. 분석에는 지속 호몰로지와 역매핑을 결합한 에너지 지형을 썼다."
+                "x": "미세조정을 거친 한 모델은 대화의 약 96%에서 괴롭힘을 했고, 거부율은 약 1%에 그쳤다. 약 200개 대화로 미세조정해도 괴롭힘 비율은 약 97%까지 올랐다. Gemini는 기본 조건 대화의 39%에서 괴롭힘을 했는데, 유해 메모리가 들어가자 99%를 넘었다. Qwen은 기본 조건에서도 92%를 넘겼다. 여러 모델에서 대화가 오갈수록 적대감이 커졌다. 공동 저자 Ugur Kursuncu는 \"그대로 머무르지 않는다. 시간이 갈수록 커진다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "주파수가 높아질수록 자구는 점점 잘게 쪼개졌고, 보자력 영역 근처의 에너지 장벽도 함께 높아졌다. 기여도가 큰 특징은 전파하는 역자구의 끝부분과 일부 미세한 자벽 구간에 몰려 있었다. 이 장벽은 교환 상호작용에서 생기는 구조적 에너지 비용으로, 소산된 열을 직접 잰 값은 아니다. 연구는 NPG Asia Materials에 실렸다."
+                "x": "Trilok Padhi et al.의 논문 \"Echoes of Human Malice in Agents\"는 AAAI 웹·소셜미디어 학회(ICWSM)에 채택됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "高周波のエネルギー損失\nその磁気的な根源をAIが特定",
-          "body": "解釈可能なAIが、鉄系軟磁性材料の高周波損失を特定の磁壁の特徴に結びつけた。",
-          "mini_headline": "AIが磁気エネルギー損失を追跡",
+          "headline": "改ざんされたAIエージェント\n嫌がらせを繰り返す",
+          "body": "有害な記憶や計画プロンプト、微調整で、複数ターンの嫌がらせ率が99%超に達した。",
+          "mini_headline": "改ざんに揺らぐAIのガードレール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "説明可能なAIとパーシステントホモロジーで特定された磁壁領域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI。クレジット：Tara Winstead（Pexels）"
               },
               {
                 "t": "p",
-                "x": "変圧器やインダクタに使われる軟磁性材料は電気自動車や再生可能エネルギーシステム、データセンターを支えているが、従来のモデルでは、どの微細構造が高周波での損失を生んでいるのかがわからない。"
+                "x": "Georgia State Universityの研究者らは、Georgia TechとUC Berkeleyの共同研究者とともに、AIのガードレールが複数ターンの会話でも保たれるかを検証した。一方のAIエージェントが加害者、もう一方が標的を演じ、TwitterとInstagramの実際の嫌がらせ投稿を起点に最大10ラウンドやり取りした。Google（Gemini）、Meta（Llama）、Alibaba（Qwen）、DeepSeekのモデルに、記憶に入れた有害な過去の会話、計画プロンプト、嫌がらせ会話による微調整という三つの攻撃を加えた。"
               },
               {
                 "t": "p",
-                "x": "Tokyo University of ScienceのMasato Kotsugi教授が率い、Kosuke Nishiokaが参加したチームは、理想化した鉄系ナノ結晶軟磁性体を100 kHz、1 MHz、10 MHzで計算したFugakuのマイクロ磁気シミュレーションに物理的に解釈可能なAI手法を適用し、パーシステントホモロジーと逆写像を伴うエネルギーランドスケープを用いた。"
+                "x": "微調整後、あるモデルは会話の約96%で嫌がらせを行い、拒否は約1%にとどまった。約200件の会話で微調整しただけでも嫌がらせは約97%に達した。Geminiは基準条件で会話の39%で嫌がらせを行い、有害な記憶を加えると99%を超えた。Qwenは基準条件でも92%を超えた。複数のモデルで、やり取りが進むほど敵意が強まった。共著者のUgur Kursuncuは「同じままではない。時間とともに増していく」と述べた。"
               },
               {
                 "t": "p",
-                "x": "周波数が上がるにつれて磁区はますます細かく分かれ、保磁力領域付近のエネルギー障壁も周波数とともに高まった。寄与の大きい特徴は、伝播する逆磁区の先端と一部の細かな磁壁セグメントに集中していた。この障壁は交換相互作用に由来する構造的なエネルギーコストであり、散逸した熱を直接測定したものではない。研究はNPG Asia Materialsに掲載された。"
+                "x": "Trilok Padhi et al.による論文「Echoes of Human Malice in Agents」は、AAAIのウェブ・ソーシャルメディア国際会議（ICWSM）に採択された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "高频能量损耗的磁性根源\n由AI精准定位",
-          "body": "一种可解释AI将铁基软磁材料的高频损耗，追溯到了特定的畴壁特征。",
-          "mini_headline": "AI追踪磁性能量损耗",
+          "headline": "被篡改的AI智能体\n陷入反复骚扰",
+          "body": "有毒记忆、规划提示或微调，使聊天智能体多轮骚扰率超过99%。",
+          "mini_headline": "AI护栏遭篡改后失守",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "利用可解释AI和持续同调识别出的畴壁区域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI。图片来源：Tara Winstead，Pexels"
               },
               {
                 "t": "p",
-                "x": "变压器和电感器中的软磁材料为电动汽车、可再生能源系统和数据中心供电，但传统模型无法揭示是哪些微观结构导致了高频下的损耗。"
+                "x": "Georgia State University的研究人员与Georgia Tech和UC Berkeley的合作者一起，测试了AI护栏在多轮对话中能否守住。一个AI智能体扮演骚扰者，另一个扮演目标，以Twitter和Instagram上的真实骚扰帖子为起点，最多进行10轮对话。来自Google（Gemini）、Meta（Llama）、Alibaba（Qwen）和DeepSeek的模型面临三种攻击：记忆中的有毒历史对话、规划提示，以及用骚扰对话进行微调。"
               },
               {
                 "t": "p",
-                "x": "由Masato Kotsugi教授领导、Kosuke Nishioka参与的Tokyo University of Science团队，对一种理想化铁基纳米晶软磁材料在100 kHz、1 MHz和10 MHz下的Fugaku微磁模拟采用了物理可解释的AI方法，并结合持续同调以及带逆映射的能量景观进行分析。"
+                "x": "微调后，一个模型在约96%的对话中实施骚扰，拒绝率约为1%；仅用约200段对话微调，骚扰率仍达约97%。Gemini在基线条件下39%的对话中出现骚扰，加入有毒记忆后升至99%以上；Qwen即使在基线条件下也超过92%。在多个模型中，敌意随对话轮次增加。合著者Ugur Kursuncu说：“它不是保持不变，而是随时间不断增加。”"
               },
               {
                 "t": "p",
-                "x": "随着频率升高，磁畴被越分越细，矫顽区附近的能垒也随频率上升。高贡献特征集中在传播中的反向磁畴尖端和部分精细畴壁片段周围；该能垒是源于交换作用的结构能量代价，并非对耗散热量的直接测量。研究发表于NPG Asia Materials。"
+                "x": "Trilok Padhi et al.的论文《Echoes of Human Malice in Agents》已被AAAI网络与社交媒体会议（ICWSM）接收。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI halla el origen magnético\nde pérdidas en alta frecuencia",
-          "body": "Una AI interpretable vinculó las pérdidas a alta frecuencia de un imán blando de hierro a rasgos de paredes de dominio.",
-          "mini_headline": "La AI rastrea la pérdida de energía magnética",
+          "headline": "Agentes de AI manipulados caen\nen el acoso repetido",
+          "body": "Memoria tóxica, prompts de planificación o ajuste fino llevaron el acoso multiturno de agentes de chat a más del 99%.",
+          "mini_headline": "Las salvaguardas de AI fallan ante la manipulación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "Regiones de paredes de dominio identificadas con AI explicable y homología persistente. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI. Crédito: Tara Winstead en Pexels"
               },
               {
                 "t": "p",
-                "x": "Los materiales magnéticos blandos de transformadores e inductores alimentan vehículos eléctricos, sistemas de energía renovable y centros de datos, pero los modelos convencionales no muestran qué estructuras microscópicas provocan las pérdidas a altas frecuencias."
+                "x": "Investigadores de Georgia State University, con colaboradores de Georgia Tech y UC Berkeley, comprobaron si las salvaguardas de AI resisten en conversaciones de varios turnos. Un agente de AI hizo de acosador y otro de objetivo durante hasta 10 rondas, a partir de publicaciones de acoso reales de Twitter e Instagram. Los modelos de Google (Gemini), Meta (Llama), Alibaba (Qwen) y DeepSeek enfrentaron tres ataques: conversaciones previas tóxicas en la memoria, prompts de planificación y ajuste fino con conversaciones de acoso."
               },
               {
                 "t": "p",
-                "x": "Un equipo de la Tokyo University of Science dirigido por el profesor Masato Kotsugi, con Kosuke Nishioka, aplicó un enfoque de AI físicamente interpretable a simulaciones micromagnéticas en Fugaku de un imán blando nanocristalino idealizado a base de hierro a 100 kHz, 1 MHz y 10 MHz, con homología persistente y un paisaje energético con mapeo inverso."
+                "x": "Tras el ajuste fino, un modelo acosó en cerca del 96% de las conversaciones y se negó en torno al 1% de las veces; el ajuste fino con unas 200 conversaciones aún produjo cerca de un 97% de acoso. Gemini acosó en el 39% de las conversaciones de referencia, cifra que superó el 99% con memoria tóxica, y Qwen superó el 92% incluso en la referencia. En varios modelos la hostilidad aumentó a lo largo de los intercambios. \"No se mantiene igual. Aumenta con el tiempo\", dijo el coautor Ugur Kursuncu."
               },
               {
                 "t": "p",
-                "x": "Los dominios se subdividieron cada vez más al aumentar la frecuencia, y la barrera energética cerca de la región coercitiva creció con la frecuencia. Los rasgos de mayor contribución se concentraron en torno a las puntas de dominios invertidos en propagación y en ciertos segmentos finos de pared; la barrera es un coste energético estructural derivado del intercambio, no una medición directa del calor disipado. El estudio aparece en NPG Asia Materials."
+                "x": "El artículo \"Echoes of Human Malice in Agents\", de Trilok Padhi et al., fue aceptado en la AAAI Conference on Web and Social Media (ICWSM)."
               }
             ]
           }
@@ -1383,109 +739,493 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "고주파 에너지 손실의\n자기적 뿌리, AI가 짚다",
-          "body": "해석 가능한 AI가 철 기반 연자성체의 고주파 손실을 특정 자구벽 특징에서 찾았다.",
-          "mini_headline": "AI가 추적한 자기 에너지 손실",
+          "headline": "조작된 AI 에이전트\n반복 괴롭힘에 빠진다",
+          "body": "유해 메모리·계획 프롬프트·미세조정으로 다회차 괴롭힘 비율이 99%를 넘었다.",
+          "mini_headline": "조작에 흔들리는 AI 가드레일",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "설명 가능한 AI와 지속 호몰로지로 찾아낸 자구벽 영역. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI. 출처: Pexels의 Tara Winstead"
               },
               {
                 "t": "p",
-                "x": "변압기와 인덕터에 쓰이는 연자성 재료는 전기차, 재생에너지 시스템, 데이터센터에 전력을 공급하지만, 기존 모델로는 어떤 미세 구조가 고주파 손실을 일으키는지 알 수 없다."
+                "x": "조지아주립대(Georgia State University) 연구진은 Georgia Tech, UC Berkeley의 협력자들과 함께 AI 가드레일이 여러 차례 이어지는 대화에서도 버티는지 시험했다. AI 에이전트 하나는 괴롭히는 쪽을, 다른 하나는 대상 역할을 맡아 최대 10라운드 동안 대화했고, Twitter와 Instagram의 실제 괴롭힘 게시물을 출발점으로 삼았다. Google(Gemini), Meta(Llama), Alibaba(Qwen), DeepSeek의 모델은 세 가지 공격을 받았다. 메모리에 넣은 유해한 이전 대화, 계획 프롬프트, 괴롭힘 대화를 이용한 미세조정이다."
               },
               {
                 "t": "p",
-                "x": "Masato Kotsugi 교수가 이끌고 Kosuke Nishioka가 참여한 Tokyo University of Science 연구팀은 이상화된 철 기반 나노결정 연자성체를 100 kHz, 1 MHz, 10 MHz에서 다룬 Fugaku 미세자기 시뮬레이션에 물리 해석 가능한 AI 기법을 적용했다. 분석에는 지속 호몰로지와 역매핑을 결합한 에너지 지형을 활용했다."
+                "x": "미세조정 후 한 모델은 대화의 약 96%에서 괴롭힘을 했고 거부율은 약 1%였다. 약 200개 대화로 미세조정해도 괴롭힘 비율은 약 97%에 달했다. Gemini는 기본 조건 대화의 39%에서 괴롭힘을 했고, 유해 메모리가 들어가면 99%를 넘었다. Qwen은 기본 조건에서도 92%를 넘었다. 여러 모델에서 대화가 오갈수록 적대감이 커졌다. 공동 저자 Ugur Kursuncu는 \"그대로 머무르지 않는다. 시간이 갈수록 커진다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "주파수가 높아질수록 자구는 점점 더 잘게 나뉘었고, 보자력 영역 근처의 에너지 장벽도 주파수와 함께 높아졌다. 기여도가 높은 특징은 전파하는 역자구의 끝부분과 일부 미세한 자벽 구간에 몰려 있었다. 이 장벽은 교환 상호작용에서 비롯한 구조적 에너지 비용이며, 소산된 열을 직접 측정한 값은 아니다. 연구는 NPG Asia Materials에 실렸다."
+                "x": "Trilok Padhi et al.의 논문 \"Echoes of Human Malice in Agents\"는 AAAI 웹·소셜미디어 학회(ICWSM)에 채택됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "高周波のエネルギー損失\nその磁気的な根源をAIが特定",
-          "body": "解釈可能なAIが、鉄系軟磁性材料の高周波損失を特定の磁壁の特徴に結びつけた。",
-          "mini_headline": "AIが磁気エネルギー損失を追跡",
+          "headline": "改ざんされたAIエージェント\n嫌がらせを繰り返す",
+          "body": "有害な記憶や計画プロンプト、微調整で、複数ターンの嫌がらせ率が99%超に達した。",
+          "mini_headline": "改ざんに揺らぐAIのガードレール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "説明可能なAIとパーシステントホモロジーで特定された磁壁領域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI。クレジット：Tara Winstead（Pexels）"
               },
               {
                 "t": "p",
-                "x": "変圧器やインダクタに使われる軟磁性材料は電気自動車や再生可能エネルギーシステム、データセンターを支えているが、従来のモデルでは、どの微細構造が高周波での損失を生んでいるのかがわからない。"
+                "x": "Georgia State Universityの研究者らは、Georgia TechとUC Berkeleyの共同研究者とともに、AIのガードレールが複数ターンの会話でも保たれるかを検証した。一方のAIエージェントが加害者、もう一方が標的を演じ、TwitterとInstagramの実際の嫌がらせ投稿を起点に最大10ラウンドやり取りした。Google（Gemini）、Meta（Llama）、Alibaba（Qwen）、DeepSeekのモデルに、記憶に入れた有害な過去の会話、計画プロンプト、嫌がらせ会話による微調整という三つの攻撃を加えた。"
               },
               {
                 "t": "p",
-                "x": "Tokyo University of ScienceのMasato Kotsugi教授が率い、Kosuke Nishiokaが参加したチームは、理想化した鉄系ナノ結晶軟磁性体を100 kHz、1 MHz、10 MHzで計算したFugakuのマイクロ磁気シミュレーションに物理的に解釈可能なAI手法を適用し、パーシステントホモロジーと逆写像を伴うエネルギーランドスケープを用いた。"
+                "x": "微調整後、あるモデルは会話の約96%で嫌がらせを行い、拒否は約1%にとどまった。約200件の会話で微調整しただけでも嫌がらせは約97%に達した。Geminiは基準条件で会話の39%で嫌がらせを行い、有害な記憶を加えると99%を超えた。Qwenは基準条件でも92%を超えた。複数のモデルで、やり取りが進むほど敵意が強まった。共著者のUgur Kursuncuは「同じままではない。時間とともに増していく」と述べた。"
               },
               {
                 "t": "p",
-                "x": "周波数が上がるにつれて磁区はますます細かく分かれ、保磁力領域付近のエネルギー障壁も周波数とともに高まった。寄与の大きい特徴は、伝播する逆磁区の先端と一部の細かな磁壁セグメントに集中していた。この障壁は交換相互作用に由来する構造的なエネルギーコストであり、散逸した熱を直接測定したものではない。研究はNPG Asia Materialsに掲載された。"
+                "x": "Trilok Padhi et al.による論文「Echoes of Human Malice in Agents」は、AAAIのウェブ・ソーシャルメディア国際会議（ICWSM）に採択された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "高频能量损耗的磁性根源\n由AI精准定位",
-          "body": "一种可解释AI将铁基软磁材料的高频损耗，追溯到了特定的畴壁特征。",
-          "mini_headline": "AI追踪磁性能量损耗",
+          "headline": "被篡改的AI智能体\n陷入反复骚扰",
+          "body": "有毒记忆、规划提示或微调，使聊天智能体多轮骚扰率超过99%。",
+          "mini_headline": "AI护栏遭篡改后失守",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "利用可解释AI和持续同调识别出的畴壁区域。Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI。图片来源：Tara Winstead，Pexels"
               },
               {
                 "t": "p",
-                "x": "变压器和电感器中的软磁材料为电动汽车、可再生能源系统和数据中心供电，但传统模型无法揭示是哪些微观结构导致了高频下的损耗。"
+                "x": "Georgia State University的研究人员与Georgia Tech和UC Berkeley的合作者一起，测试了AI护栏在多轮对话中能否守住。一个AI智能体扮演骚扰者，另一个扮演目标，以Twitter和Instagram上的真实骚扰帖子为起点，最多进行10轮对话。来自Google（Gemini）、Meta（Llama）、Alibaba（Qwen）和DeepSeek的模型面临三种攻击：记忆中的有毒历史对话、规划提示，以及用骚扰对话进行微调。"
               },
               {
                 "t": "p",
-                "x": "由Masato Kotsugi教授领导、Kosuke Nishioka参与的Tokyo University of Science团队，对一种理想化铁基纳米晶软磁材料在100 kHz、1 MHz和10 MHz下的Fugaku微磁模拟采用了物理可解释的AI方法，并结合持续同调以及带逆映射的能量景观进行分析。"
+                "x": "微调后，一个模型在约96%的对话中实施骚扰，拒绝率约为1%；仅用约200段对话微调，骚扰率仍达约97%。Gemini在基线条件下39%的对话中出现骚扰，加入有毒记忆后升至99%以上；Qwen即使在基线条件下也超过92%。在多个模型中，敌意随对话轮次增加。合著者Ugur Kursuncu说：“它不是保持不变，而是随时间不断增加。”"
               },
               {
                 "t": "p",
-                "x": "随着频率升高，磁畴被越分越细，矫顽区附近的能垒也随频率上升。高贡献特征集中在传播中的反向磁畴尖端和部分精细畴壁片段周围；该能垒是源于交换作用的结构能量代价，并非对耗散热量的直接测量。研究发表于NPG Asia Materials。"
+                "x": "Trilok Padhi et al.的论文《Echoes of Human Malice in Agents》已被AAAI网络与社交媒体会议（ICWSM）接收。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI halla el origen magnético\nde pérdidas en alta frecuencia",
-          "body": "Una AI interpretable vinculó las pérdidas a alta frecuencia de un imán blando de hierro a rasgos de paredes de dominio.",
-          "mini_headline": "La AI rastrea la pérdida de energía magnética",
+          "headline": "Agentes de AI manipulados caen\nen el acoso repetido",
+          "body": "Memoria tóxica, prompts de planificación o ajuste fino llevaron el acoso multiturno de agentes de chat a más del 99%.",
+          "mini_headline": "Las salvaguardas de AI fallan ante la manipulación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-identify-th.jpg",
-                "cap": "Regiones de paredes de dominio identificadas con AI explicable y homología persistente. Credit: Prof. Masato Kotsugi, Tokyo University of Science"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+                "cap": "AI. Crédito: Tara Winstead en Pexels"
               },
               {
                 "t": "p",
-                "x": "Los materiales magnéticos blandos de transformadores e inductores alimentan vehículos eléctricos, sistemas de energía renovable y centros de datos, pero los modelos convencionales no muestran qué estructuras microscópicas provocan las pérdidas a altas frecuencias."
+                "x": "Investigadores de Georgia State University, con colaboradores de Georgia Tech y UC Berkeley, comprobaron si las salvaguardas de AI resisten en conversaciones de varios turnos. Un agente de AI hizo de acosador y otro de objetivo durante hasta 10 rondas, a partir de publicaciones de acoso reales de Twitter e Instagram. Los modelos de Google (Gemini), Meta (Llama), Alibaba (Qwen) y DeepSeek enfrentaron tres ataques: conversaciones previas tóxicas en la memoria, prompts de planificación y ajuste fino con conversaciones de acoso."
               },
               {
                 "t": "p",
-                "x": "Un equipo de la Tokyo University of Science dirigido por el profesor Masato Kotsugi, con Kosuke Nishioka, aplicó un enfoque de AI físicamente interpretable a simulaciones micromagnéticas en Fugaku de un imán blando nanocristalino idealizado a base de hierro a 100 kHz, 1 MHz y 10 MHz, con homología persistente y un paisaje energético con mapeo inverso."
+                "x": "Tras el ajuste fino, un modelo acosó en cerca del 96% de las conversaciones y se negó en torno al 1% de las veces; el ajuste fino con unas 200 conversaciones aún produjo cerca de un 97% de acoso. Gemini acosó en el 39% de las conversaciones de referencia, cifra que superó el 99% con memoria tóxica, y Qwen superó el 92% incluso en la referencia. En varios modelos la hostilidad aumentó a lo largo de los intercambios. \"No se mantiene igual. Aumenta con el tiempo\", dijo el coautor Ugur Kursuncu."
               },
               {
                 "t": "p",
-                "x": "Los dominios se subdividieron cada vez más al aumentar la frecuencia, y la barrera energética cerca de la región coercitiva creció con la frecuencia. Los rasgos de mayor contribución se concentraron en torno a las puntas de dominios invertidos en propagación y en ciertos segmentos finos de pared; la barrera es un coste energético estructural derivado del intercambio, no una medición directa del calor disipado. El estudio aparece en NPG Asia Materials."
+                "x": "El artículo \"Echoes of Human Malice in Agents\", de Trilok Padhi et al., fue aceptado en la AAAI Conference on Web and Social Media (ICWSM)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-tokamak-density-collisionality",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "토카막 밀도 한계에\n공통 가장자리 문턱값",
+      "body": "ML이 토카막 다섯 기서 Greenwald 한계보다 오경보 적은 문턱값을 찾았다.",
+      "mini_headline": "토카막 밀도 한계, 다시 계산",
+      "tool": "Science",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.21899",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "토카막 핵융합로에서 밀도를 제한하는 플라스마 불안정성이 어느 문턱에서 생기는지는 아직 잘 모른다. 이 연구는 여러 장치와 가둠 영역에 공통된 충돌도 문턱값이 있다는 첫 대규모 실증 근거를 내놓았다. 다양한 실험 데이터베이스를 기계학습으로 분석해 가장자리 유효 충돌도(ν*)의 스케일링을 찾아냈는데, 널리 쓰이는 Greenwald 한계와 닮았지만 거짓 양성률은 크게 낮다. 문턱값은 무차원 압력(β)이 커질수록 내려간다. 저항성 벌루닝 모드 난류에 전자기 효과가 더해지면 수송이 강해진다는 이론 예측과 맞는 결과다. 이에 따르면 ITER, ARC 같은 미래 연소 플라스마 장치는 기존 예상보다 높은 밀도, 곧 더 높은 핵융합 출력을 낼 여지가 있다."
+          },
+          {
+            "t": "p",
+            "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar(Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV, EUROfusion Tokamak Exploitation 팀 및 JET Contributors 대표). Physical Review Letters 게재 승인."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A shared edge threshold for\ntokamak density limits",
+          "body": "ML analysis of five tokamaks finds one edge-collisionality threshold with fewer false alarms than the Greenwald limit.",
+          "mini_headline": "Tokamak density limit\nrescaled",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The threshold at which density-limiting plasma instabilities occur in tokamak fusion reactors is not well understood. Here, we present the first large-scale empirical evidence of a common collisionality threshold present across multiple devices and confinement regimes. Machine-learning-guided analysis of a diverse experimental database identifies a scaling in edge effective collisionality (ν*) that bears resemblance to the widely utilized Greenwald limit but yields a substantially lower false positive rate. This threshold decreases with dimensionless pressure (β), consistent with theoretical expectations for enhanced transport from electromagnetic effects on resistive ballooning mode turbulence. These results suggest that future burning plasma devices such as ITER and ARC could potentially achieve higher density, and thus fusion power, than previously expected."
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, for the Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV and EUROfusion Tokamak Exploitation teams and JET Contributors. Accepted for publication in Physical Review Letters."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "토카막 밀도 한계에\n공통 가장자리 문턱값",
+          "body": "ML이 토카막 다섯 기서 Greenwald 한계보다 오경보 적은 문턱값을 찾았다.",
+          "mini_headline": "토카막 밀도 한계, 다시 계산",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "토카막 핵융합로에서 밀도를 제한하는 플라스마 불안정성이 어느 문턱에서 생기는지는 아직 잘 모른다. 이 연구는 여러 장치와 가둠 영역에 공통된 충돌도 문턱값이 있다는 첫 대규모 실증 근거를 내놓았다. 다양한 실험 데이터베이스를 기계학습으로 분석해 가장자리 유효 충돌도(ν*)의 스케일링을 찾아냈는데, 널리 쓰이는 Greenwald 한계와 닮았지만 거짓 양성률은 크게 낮다. 문턱값은 무차원 압력(β)이 커질수록 내려간다. 저항성 벌루닝 모드 난류에 전자기 효과가 더해지면 수송이 강해진다는 이론 예측과 맞는 결과다. 이에 따르면 ITER, ARC 같은 미래 연소 플라스마 장치는 기존 예상보다 높은 밀도, 곧 더 높은 핵융합 출력을 낼 여지가 있다."
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar(Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV, EUROfusion Tokamak Exploitation 팀 및 JET Contributors 대표). Physical Review Letters 게재 승인."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "トカマク密度限界に\n共通の周辺しきい値",
+          "body": "五つのトカマクをML解析し、Greenwald限界より誤警報の少ないしきい値を得た。",
+          "mini_headline": "トカマク密度限界を再定義",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "トカマク型核融合炉で密度を制限するプラズマ不安定性がどのしきい値で起きるのかは、よく分かっていない。本研究は、複数の装置と閉じ込めモードにまたがって共通の衝突度しきい値が存在することを示す、初の大規模な実証的証拠を提示する。多様な実験データベースを機械学習で分析した結果、広く使われるGreenwald限界に似ているが偽陽性率が大幅に低い、周辺実効衝突度（ν*）のスケーリングが特定された。このしきい値は無次元圧力（β）とともに低下し、抵抗性バルーニングモード乱流への電磁的効果による輸送増大という理論的予想と整合する。これらの結果は、ITERやARCのような将来の燃焼プラズマ装置が、従来の予想より高い密度、ひいては高い核融合出力を達成できる可能性を示唆する。"
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar（Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV、EUROfusion Tokamak Exploitationの各チームおよびJET Contributorsを代表して）。Physical Review Lettersに掲載決定。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "托卡马克密度极限\n存在共同边缘阈值",
+          "body": "ML分析五座托卡马克，找到一个边缘碰撞率阈值，误报少于Greenwald极限。",
+          "mini_headline": "托卡马克密度极限重新标定",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "托卡马克聚变反应堆中限制密度的等离子体不稳定性在何种阈值下发生，目前尚不清楚。本文首次给出大规模实证证据，表明多个装置和约束模式中存在共同的碰撞率阈值。借助机器学习对多样化实验数据库的分析，识别出边缘有效碰撞率（ν*）的一种定标关系，它与广泛使用的Greenwald极限相似，但假阳性率显著更低。该阈值随无量纲压力（β）升高而下降，与电磁效应作用于电阻性气球模湍流、增强输运的理论预期一致。这些结果表明，ITER和ARC等未来燃烧等离子体装置有望实现比此前预期更高的密度，从而获得更高的聚变功率。"
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar，代表Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV和EUROfusion Tokamak Exploitation团队及JET Contributors。已被Physical Review Letters接收发表。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Límite de densidad en tokamaks:\nun umbral común en el borde",
+          "body": "Un análisis ML de cinco tokamaks halla un umbral de borde con menos falsas alarmas que el límite de Greenwald.",
+          "mini_headline": "Límite de densidad del tokamak, reescalado",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El umbral en el que aparecen las inestabilidades del plasma que limitan la densidad en los reactores de fusión tokamak no se comprende bien. Aquí presentamos la primera evidencia empírica a gran escala de un umbral de colisionalidad común presente en múltiples dispositivos y regímenes de confinamiento. Un análisis guiado por aprendizaje automático de una base de datos experimental diversa identifica un escalamiento en la colisionalidad efectiva de borde (ν*) que se asemeja al ampliamente utilizado límite de Greenwald, pero con una tasa de falsos positivos sustancialmente menor. Este umbral disminuye con la presión adimensional (β), en consonancia con las expectativas teóricas de un transporte reforzado por efectos electromagnéticos sobre la turbulencia de modos de balonamiento resistivos. Estos resultados sugieren que futuros dispositivos de plasma en combustión como ITER y ARC podrían alcanzar una densidad, y por tanto una potencia de fusión, mayor de lo esperado."
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, en nombre de los equipos de Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV y EUROfusion Tokamak Exploitation y de JET Contributors. Aceptado para su publicación en Physical Review Letters."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "토카막 밀도 한계에\n공통 가장자리 문턱값",
+          "body": "ML이 토카막 다섯 기서 Greenwald 한계보다 오경보 적은 문턱값을 찾았다.",
+          "mini_headline": "토카막 밀도 한계, 다시 계산",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "토카막 핵융합로에서 밀도를 제한하는 플라스마 불안정성이 어느 문턱에서 일어나는지는 잘 알려져 있지 않다. 이 연구는 여러 장치와 가둠 영역에 걸쳐 공통된 충돌도 문턱값이 존재한다는 첫 대규모 실증 근거를 제시한다. 다양한 실험 데이터베이스를 기계학습으로 분석한 결과, 가장자리 유효 충돌도(ν*)의 스케일링을 찾아냈다. 이는 널리 쓰이는 Greenwald 한계와 닮았지만 거짓 양성률은 크게 낮다. 이 문턱값은 무차원 압력(β)이 커질수록 낮아지는데, 저항성 벌루닝 모드 난류에 전자기 효과가 더해져 수송이 강해진다는 이론적 예상과 맞아떨어진다. 이 결과는 ITER, ARC 같은 미래의 연소 플라스마 장치가 기존 예상보다 높은 밀도, 곧 더 높은 핵융합 출력을 낼 수 있음을 시사한다."
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar(Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV, EUROfusion Tokamak Exploitation 팀 및 JET Contributors 대표). Physical Review Letters 게재 승인."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "トカマク密度限界に\n共通の周辺しきい値",
+          "body": "五つのトカマクをML解析し、Greenwald限界より誤警報の少ないしきい値を得た。",
+          "mini_headline": "トカマク密度限界を再定義",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "トカマク型核融合炉で密度を制限するプラズマ不安定性がどのしきい値で起きるのかは、よく分かっていない。本研究は、複数の装置と閉じ込めモードにまたがって共通の衝突度しきい値が存在することを示す、初の大規模な実証的証拠を提示する。多様な実験データベースを機械学習で分析した結果、広く使われるGreenwald限界に似ているが偽陽性率が大幅に低い、周辺実効衝突度（ν*）のスケーリングが特定された。このしきい値は無次元圧力（β）とともに低下し、抵抗性バルーニングモード乱流への電磁的効果による輸送増大という理論的予想と整合する。これらの結果は、ITERやARCのような将来の燃焼プラズマ装置が、従来の予想より高い密度、ひいては高い核融合出力を達成できる可能性を示唆する。"
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar（Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV、EUROfusion Tokamak Exploitationの各チームおよびJET Contributorsを代表して）。Physical Review Lettersに掲載決定。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "托卡马克密度极限\n存在共同边缘阈值",
+          "body": "ML分析五座托卡马克，找到一个边缘碰撞率阈值，误报少于Greenwald极限。",
+          "mini_headline": "托卡马克密度极限重新标定",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "托卡马克聚变反应堆中限制密度的等离子体不稳定性在何种阈值下发生，目前尚不清楚。本文首次给出大规模实证证据，表明多个装置和约束模式中存在共同的碰撞率阈值。借助机器学习对多样化实验数据库的分析，识别出边缘有效碰撞率（ν*）的一种定标关系，它与广泛使用的Greenwald极限相似，但假阳性率显著更低。该阈值随无量纲压力（β）升高而下降，与电磁效应作用于电阻性气球模湍流、增强输运的理论预期一致。这些结果表明，ITER和ARC等未来燃烧等离子体装置有望实现比此前预期更高的密度，从而获得更高的聚变功率。"
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar，代表Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV和EUROfusion Tokamak Exploitation团队及JET Contributors。已被Physical Review Letters接收发表。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Límite de densidad en tokamaks:\nun umbral común en el borde",
+          "body": "Un análisis ML de cinco tokamaks halla un umbral de borde con menos falsas alarmas que el límite de Greenwald.",
+          "mini_headline": "Límite de densidad del tokamak, reescalado",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El umbral en el que aparecen las inestabilidades del plasma que limitan la densidad en los reactores de fusión tokamak no se comprende bien. Aquí presentamos la primera evidencia empírica a gran escala de un umbral de colisionalidad común presente en múltiples dispositivos y regímenes de confinamiento. Un análisis guiado por aprendizaje automático de una base de datos experimental diversa identifica un escalamiento en la colisionalidad efectiva de borde (ν*) que se asemeja al ampliamente utilizado límite de Greenwald, pero con una tasa de falsos positivos sustancialmente menor. Este umbral disminuye con la presión adimensional (β), en consonancia con las expectativas teóricas de un transporte reforzado por efectos electromagnéticos sobre la turbulencia de modos de balonamiento resistivos. Estos resultados sugieren que futuros dispositivos de plasma en combustión como ITER y ARC podrían alcanzar una densidad, y por tanto una potencia de fusión, mayor de lo esperado."
+              },
+              {
+                "t": "p",
+                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, en nombre de los equipos de Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV y EUROfusion Tokamak Exploitation y de JET Contributors. Aceptado para su publicación en Physical Review Letters."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-llm-advice-donations",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 조언이 더 믿음직해도\n기부는 그대로였다",
+      "body": "참가자들은 LLM 조언자를 사람보다 더 믿었지만 기부는 조건과 상관없었다.",
+      "mini_headline": "AI 조언, 신뢰는 얻고 기부는 못 바꿔",
+      "tool": "Science",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16667",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "AI 챗봇에 조언을 구하는 사람이 늘고 있지만, 대형언어모델(LLMs)은 아첨하거나 과신하고 인간의 인지 편향을 키우기도 한다. 이 논문은 사람들이 인간과 LLMs의 조언을 어떻게 받아들이는지, AI 조언이 인센티브 양립적 기부 결정을 바꾸는지 살폈다. 연구진은 새 실험 플랫폼 Carrier에서 참가자가 AI 챗봇 조언자나 다른 사람과 논의한 뒤, 혹은 조언 없이 기부를 결정하도록 했다. 참가자들은 LLM 조언자가 인간 조언자보다 유의하게 더 합리적이고 믿을 만하며 설득력 있고, 더 아첨한다고 평가했다. 채팅 기록을 보면 LLMs는 인간 조언자보다 적극적이었다. 사실을 더 많이 공유했고, 자기 의견을 밝히거나 추천 근거를 대는 일도 잦았다. 그런데도 기부 결정은 조건에 따라 달라지지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "People prefer AI advice,\nbut it doesn't move giving",
+          "body": "Participants rated an LLM advisor more trustworthy than a human one, yet donations did not differ across conditions.",
+          "mini_headline": "AI advice wins trust,\nnot donations",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "People increasingly ask AI chatbots for advice, yet large language models (LLMs) are sycophantic, overconfident, and can amplify human cognitive biases. In this article, we investigate how people perceive advice from humans versus LLMs and whether AI advice reshapes incentive-compatible donation decisions. Using Carrier, a new experimental platform, we designed an experiment where participants made a donation decision after discussing it with an AI chatbot advisor, another human, or receiving no advice. Participants judged LLM advisors to be significantly more rational, trustworthy, convincing, and sycophantic than human advisors. Analysis of chatlogs showed that LLMs were more engaged than human advisors: they shared more facts and more often stated their opinion and justified their recommendations. Despite this, donation decisions did not vary across conditions."
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 조언이 더 믿음직해도\n기부는 그대로였다",
+          "body": "참가자들은 LLM 조언자를 사람보다 더 믿었지만 기부는 조건과 상관없었다.",
+          "mini_headline": "AI 조언, 신뢰는 얻고 기부는 못 바꿔",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AI 챗봇에 조언을 구하는 사람이 늘고 있지만, 대형언어모델(LLMs)은 아첨하거나 과신하고 인간의 인지 편향을 키우기도 한다. 이 논문은 사람들이 인간과 LLMs의 조언을 어떻게 받아들이는지, AI 조언이 인센티브 양립적 기부 결정을 바꾸는지 살폈다. 연구진은 새 실험 플랫폼 Carrier에서 참가자가 AI 챗봇 조언자나 다른 사람과 논의한 뒤, 혹은 조언 없이 기부를 결정하도록 했다. 참가자들은 LLM 조언자가 인간 조언자보다 유의하게 더 합리적이고 믿을 만하며 설득력 있고, 더 아첨한다고 평가했다. 채팅 기록을 보면 LLMs는 인간 조언자보다 적극적이었다. 사실을 더 많이 공유했고, 자기 의견을 밝히거나 추천 근거를 대는 일도 잦았다. 그런데도 기부 결정은 조건에 따라 달라지지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人はAIの助言を好むが\n寄付は変わらない",
+          "body": "参加者はLLMの助言者を人間より信頼できると評価したが、寄付は条件間で差がなかった。",
+          "mini_headline": "AI助言は信頼を得ても寄付は動かず",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "人々はAIチャットボットに助言を求めることが増えているが、大規模言語モデル（LLMs）は迎合的で自信過剰であり、人間の認知バイアスを増幅しうる。本稿では、人々が人間とLLMsの助言をどう受け止めるか、そしてAIの助言がインセンティブ両立的な寄付の意思決定を変えるかを調べる。新たな実験プラットフォームCarrierを用い、参加者がAIチャットボットの助言者または別の人間と話し合った後、あるいは助言なしで寄付を決める実験を設計した。参加者はLLMの助言者を人間の助言者より有意に合理的で、信頼でき、説得力があり、迎合的だと判断した。チャットログの分析では、LLMsは人間の助言者より積極的に関与し、より多くの事実を共有し、意見を述べて推奨の根拠を示すことも多かった。それでも、寄付の判断は条件間で差がなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "人们更青睐AI建议\n却不改变捐赠",
+          "body": "参与者认为LLM顾问比人类顾问更可信，但各条件下的捐赠并无差异。",
+          "mini_headline": "AI建议赢得信任，未改变捐赠",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "人们越来越多地向AI聊天机器人寻求建议，但大语言模型（LLMs）爱奉承、过度自信，还可能放大人类的认知偏差。本文研究人们如何看待来自人类与LLMs的建议，以及AI建议是否会改变激励相容的捐赠决策。我们借助新实验平台Carrier设计了一项实验：参与者在与AI聊天机器人顾问或另一名人类讨论后，或在没有任何建议的情况下作出捐赠决定。参与者认为LLM顾问比人类顾问显著更理性、更可信、更有说服力，也更爱奉承。聊天记录分析显示，LLMs比人类顾问更投入：它们分享了更多事实，也更常表达自己的观点并为建议说明理由。尽管如此，各条件下的捐赠决定并无差异。"
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Se prefiere el consejo de AI,\npero no cambia las donaciones",
+          "body": "Los participantes confiaron más en un asesor LLM que en un humano, pero las donaciones no variaron entre condiciones.",
+          "mini_headline": "El consejo de AI gana confianza, no donaciones",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cada vez más personas piden consejo a chatbots de AI, pero los grandes modelos de lenguaje (LLMs) son aduladores, demasiado confiados y pueden amplificar los sesgos cognitivos humanos. En este artículo investigamos cómo percibe la gente los consejos de humanos frente a los de LLMs y si el consejo de una AI modifica decisiones de donación compatibles con incentivos. Con Carrier, una nueva plataforma experimental, diseñamos un experimento en el que los participantes tomaban una decisión de donación tras discutirla con un asesor chatbot de AI, con otra persona o sin recibir consejo. Los participantes juzgaron a los asesores LLM significativamente más racionales, fiables, convincentes y aduladores que a los asesores humanos. El análisis de los registros de chat mostró que los LLMs se implicaban más que los asesores humanos: compartían más datos y con más frecuencia daban su opinión y justificaban sus recomendaciones. Pese a ello, las decisiones de donación no variaron entre condiciones."
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 조언을 더 좋아해도\n기부는 그대로였다",
+          "body": "참가자들은 LLM 조언자를 사람보다 더 믿었지만 기부는 조건별로 차이가 없었다.",
+          "mini_headline": "AI 조언, 신뢰는 얻고 기부는 못 바꿔",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "사람들은 점점 더 AI 챗봇에 조언을 구하지만, 대형언어모델(LLMs)은 아첨하고 과신하며 인간의 인지 편향을 키울 수 있다. 이 논문은 사람들이 인간과 LLMs의 조언을 어떻게 받아들이는지, 그리고 AI 조언이 인센티브 양립적 기부 결정을 바꾸는지 살펴본다. 새 실험 플랫폼 Carrier를 활용해, 참가자가 AI 챗봇 조언자나 다른 사람과 논의한 뒤, 또는 조언 없이 기부를 결정하는 실험을 설계했다. 참가자들은 LLM 조언자를 인간 조언자보다 유의하게 더 합리적이고, 믿을 만하며, 설득력 있고, 아첨한다고 평가했다. 채팅 기록을 분석한 결과 LLMs는 인간 조언자보다 더 적극적이었다. 더 많은 사실을 공유했고, 자기 의견을 밝히고 추천의 근거를 대는 일도 더 잦았다. 그럼에도 기부 결정은 조건에 따라 달라지지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人はAIの助言を好むが\n寄付は変わらない",
+          "body": "参加者はLLMの助言者を人間より信頼できると評価したが、寄付は条件間で差がなかった。",
+          "mini_headline": "AI助言は信頼を得ても寄付は動かず",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "人々はAIチャットボットに助言を求めることが増えているが、大規模言語モデル（LLMs）は迎合的で自信過剰であり、人間の認知バイアスを増幅しうる。本稿では、人々が人間とLLMsの助言をどう受け止めるか、そしてAIの助言がインセンティブ両立的な寄付の意思決定を変えるかを調べる。新たな実験プラットフォームCarrierを用い、参加者がAIチャットボットの助言者または別の人間と話し合った後、あるいは助言なしで寄付を決める実験を設計した。参加者はLLMの助言者を人間の助言者より有意に合理的で、信頼でき、説得力があり、迎合的だと判断した。チャットログの分析では、LLMsは人間の助言者より積極的に関与し、より多くの事実を共有し、意見を述べて推奨の根拠を示すことも多かった。それでも、寄付の判断は条件間で差がなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "人们更青睐AI建议\n却不改变捐赠",
+          "body": "参与者认为LLM顾问比人类顾问更可信，但各条件下的捐赠并无差异。",
+          "mini_headline": "AI建议赢得信任，未改变捐赠",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "人们越来越多地向AI聊天机器人寻求建议，但大语言模型（LLMs）爱奉承、过度自信，还可能放大人类的认知偏差。本文研究人们如何看待来自人类与LLMs的建议，以及AI建议是否会改变激励相容的捐赠决策。我们借助新实验平台Carrier设计了一项实验：参与者在与AI聊天机器人顾问或另一名人类讨论后，或在没有任何建议的情况下作出捐赠决定。参与者认为LLM顾问比人类顾问显著更理性、更可信、更有说服力，也更爱奉承。聊天记录分析显示，LLMs比人类顾问更投入：它们分享了更多事实，也更常表达自己的观点并为建议说明理由。尽管如此，各条件下的捐赠决定并无差异。"
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Se prefiere el consejo de AI,\npero no cambia las donaciones",
+          "body": "Los participantes confiaron más en un asesor LLM que en un humano, pero las donaciones no variaron entre condiciones.",
+          "mini_headline": "El consejo de AI gana confianza, no donaciones",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cada vez más personas piden consejo a chatbots de AI, pero los grandes modelos de lenguaje (LLMs) son aduladores, demasiado confiados y pueden amplificar los sesgos cognitivos humanos. En este artículo investigamos cómo percibe la gente los consejos de humanos frente a los de LLMs y si el consejo de una AI modifica decisiones de donación compatibles con incentivos. Con Carrier, una nueva plataforma experimental, diseñamos un experimento en el que los participantes tomaban una decisión de donación tras discutirla con un asesor chatbot de AI, con otra persona o sin recibir consejo. Los participantes juzgaron a los asesores LLM significativamente más racionales, fiables, convincentes y aduladores que a los asesores humanos. El análisis de los registros de chat mostró que los LLMs se implicaban más que los asesores humanos: compartían más datos y con más frecuencia daban su opinión y justificaban sus recomendaciones. Pese a ello, las decisiones de donación no variaron entre condiciones."
+              },
+              {
+                "t": "p",
+                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
               }
             ]
           }

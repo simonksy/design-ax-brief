@@ -1,30 +1,7 @@
-{
-  "date": "2026-11-22",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-instagram-content-protection",
-      "type": "image",
-      "src": "pipeline/media/music-instagram-content-protection.png"
-    },
-    {
-      "id": "mooer-future-flex-modeler",
-      "type": "image",
-      "src": "pipeline/media/mooer-future-flex-modeler.jpg"
-    },
-    {
-      "id": "hive-ai-ticket-assistants",
-      "type": "image",
-      "src": "pipeline/media/hive-ai-ticket-assistants.png"
-    },
-    {
-      "id": "kimhaon-ai-noah-sbs",
-      "type": "svg"
-    },
-    {
-      "id": "harmonic-circuit-chord-arxiv",
-      "type": "image",
-      "src": "pipeline/media/harmonic-circuit-chord-arxiv.png"
-    }
-  ]
-}
+{"date":"2026-11-23","section":"music","media":[
+{"id":"travis-tritt-ai-deepfake-clip","type":"image","src":"pipeline/media/travis-tritt-ai-deepfake-clip.jpg"},
+{"id":"not-ais-to-take-electorate-poll","type":"image","src":"pipeline/media/not-ais-to-take-electorate-poll.png"},
+{"id":"jang-hanbyeol-ai-hit-cover","type":"image","src":"pipeline/media/jang-hanbyeol-ai-hit-cover.jpg"},
+{"id":"bellamy-ai-guitar-tone","type":"image","src":"pipeline/media/bellamy-ai-guitar-tone.jpg"},
+{"id":"fstoppers-suno-youtube-switch","type":"video","src":"pipeline/media/fstoppers-suno-youtube-switch.mp4","poster":"pipeline/media/fstoppers-suno-youtube-switch.jpg"}
+]}

@@ -5823,6 +5823,149 @@
           "x": "Algunas webs de cupones podrían plantearse no mostrar códigos válidos a Googlebot u otros bots, pero muchas ya comparten estos datos en sus datos estructurados."
         }
       ]
+    },
+    "marketing/aws-quick-meta-ads-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS Quick añadió hoy un conector de AI para los anuncios de Meta. El conector da a Quick acceso a las operaciones del servidor Model Context Protocol (MCP) de anuncios. Los clientes de anuncios de Meta pueden usar lenguaje natural para crear, gestionar y analizar campañas dentro de Quick, sin dejar de estar conectados a la red de gestión de anuncios de Meta."
+        },
+        {
+          "t": "p",
+          "x": "Quick también puede combinar los datos de gestión de anuncios de Meta con fuentes de datos propias y de terceros para crear paneles, documentos, presentaciones y flujos de trabajo automatizados."
+        },
+        {
+          "t": "video",
+          "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+        },
+        {
+          "t": "p",
+          "x": "El video muestra cómo instalar el conector desde Customize > Connectors, iniciar sesión con Facebook y elegir a qué Pages, Businesses y cuentas de Instagram puede acceder Quick. Un prompt convierte los resultados de campañas anteriores en una presentación de ocho diapositivas con el plan de lanzamiento; otro crea un panel que compara gasto, leads y costo por lead de dos conjuntos de anuncios."
+        },
+        {
+          "t": "p",
+          "x": "Los casos de uso van desde planificar y lanzar campañas y detectar el desgaste creativo hasta estudios de incremento de conversiones, correcciones de catálogo y ajustar el gasto al inventario y al margen. Antes de que Quick cree una campaña, cambie un presupuesto o ejecute otra acción de escritura, pide permiso."
+        }
+      ]
+    },
+    "marketing/google-aimode-multiturn-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
+          "cap": "Los anuncios de Google AI Mode aparecen bajo las respuestas de seguimiento, vistos hasta en la cuarta pregunta"
+        },
+        {
+          "t": "p",
+          "x": "Barry Schwartz, de Search Engine Roundtable, probó Google AI Mode el 6 de noviembre de 2026 en una sesión de escritorio sin iniciar sesión. Preguntó \"which foldable phone should I get\" y obtuvo, bajo la primera respuesta, una unidad \"Sponsored\" con cuatro tarjetas de producto: plegables de Motorola y Samsung."
+        },
+        {
+          "t": "p",
+          "x": "Su pregunta de seguimiento, \"i love iphones, does the duo need a case?\", generó una segunda unidad Sponsored con cuatro tarjetas de fundas, tres de Vyrloom y una de OtterBox. Informó de más anuncios en su tercera y cuarta pregunta de seguimiento. Ninguna de las unidades pagadas incluía un producto de Apple o Google."
+        },
+        {
+          "t": "p",
+          "x": "Google anunció los anuncios multiturno para US el 28 de octubre y dijo que \"aparecen en las respuestas a consultas de seguimiento de los usuarios\". Las campañas de Search, Shopping y Performance Max son elegibles automáticamente; los anunciantes no pueden segmentar solo AI Mode ni excluirse de él por separado de Search."
+        },
+        {
+          "t": "p",
+          "x": "Los informes son agregados: impresiones, clics, conversiones y costo figuran en los informes estándar de campaña, y nada distingue un primer turno de un quinto."
+        }
+      ]
+    },
+    "marketing/bitmovin-gam-scene-signals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
+          "cap": "Reinhard Grandl, Chief Product Officer de Bitmovin"
+        },
+        {
+          "t": "p",
+          "x": "Bitmovin anunció una integración entre su AI Scene Analysis y las publisher-provided signals (PPS) de Google Ad Manager, que da a los compradores contexto escena por escena del contenido de video de los editores en lugar de una sola etiqueta para todo el título."
+        },
+        {
+          "t": "p",
+          "x": "AI Scene Analysis, preintegrado en el VOD Encoder y el Player de Bitmovin, analiza cada escena de cada recurso, en cualquier idioma, la asigna a categorías de la IAB Content Taxonomy y añade una puntuación de oportunidad publicitaria que identifica pausas naturales."
+        },
+        {
+          "t": "img",
+          "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
+          "cap": "Cómo las señales de escena y de audiencia viajan desde un recurso codificado hasta Google Ad Manager a través del Player de Bitmovin y el IMA SDK"
+        },
+        {
+          "t": "p",
+          "x": "En cada solicitud de anuncio, el Player de Bitmovin pasa esas señales a Google Ad Manager mediante el IMA SDK, junto con los segmentos de audiencia propios del editor, en Open Auction, Private Auction, Preferred Deals y Programmatic Guaranteed, sin compartir identificadores de usuario con los compradores."
+        },
+        {
+          "t": "p",
+          "x": "La integración ya está disponible para los clientes de Bitmovin que usan AI Scene Analysis y el Player de Bitmovin con el Google IMA SDK. \"Ahora cada escena puede llevar automáticamente su propio contexto a la solicitud de anuncio, en cualquier idioma\", dijo el CPO Reinhard Grandl."
+        }
+      ]
+    },
+    "marketing/agentic-black-friday-rocky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
+          "cap": "Los agentes de AI dejan una huella pequeña pero clara en el comercio minorista."
+        },
+        {
+          "t": "p",
+          "x": "Dean Mandelos pidió al agente Muse de Meta un regalo para su hermana, a quien le encanta cocinar; le recomendó un juego de cuchillos. También se topó con publicaciones caducadas o agotadas, y con bloqueos directos de Amazon y eBay. \"Necesito tener una razón para confiar más en él\", dijo."
+        },
+        {
+          "t": "p",
+          "x": "\"Es el primer Black Friday en que la AI puede desempeñar de verdad un papel significativo, sin duda, pero todavía no es totalmente autónoma\", dijo la analista de Kantar Gina Logan. \"Dos tercios de los compradores usan AI para comprar al menos a veces, pero más de la mitad todavía prefiere controlar sus propias decisiones de compra\"."
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
+          "cap": "Los compradores suelen tardar en cambiar sus hábitos."
+        },
+        {
+          "t": "p",
+          "x": "Un análisis de Bain & Co. sobre datos de Similarweb concluyó que los asistentes de AI representan menos del 1% del tráfico web de los minoristas; de unos 320 millones de transacciones de Uber en la última semana de octubre, solo unas 500 procedieron de agentes de AI. En All Star Elite, el tráfico agéntico ronda el 1% de las visitas, sobre todo desde Muse."
+        },
+        {
+          "t": "p",
+          "x": "Walmart está lanzando herramientas para facilitar las compras agénticas, mientras que Amazon bloquea los bots externos en favor de Alexa."
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
+          "cap": "Amazon impide que los agentes de AI de terceros accedan plenamente a su sitio."
+        }
+      ]
+    },
+    "marketing/google-ucp-grocery-carts-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/google-target-albertsons-grocery-carts-search-gemini-connected-apps-magnifier-shopping-cart.jpg",
+          "cap": "Google integra carritos de Target y Albertsons en Search y Gemini para compradores de US"
+        },
+        {
+          "t": "p",
+          "x": "Google empezó a desplegar Connected Apps para Albertsons, Safeway, Shaw's y Target en Search y en la app de Gemini para usuarios de US. Las apps pueden armar un pedido de supermercado a partir de una conversación y llevarlo al pago, y funcionan sobre el Universal Commerce Protocol de Google."
+        },
+        {
+          "t": "p",
+          "x": "La misma publicación del 20 de noviembre indica que las herramientas de crédito de Experian pasan de Gemini a Search, que H&R Block puede estimar impuestos y reembolsos desde Search y que en las próximas semanas se podrán vincular cuentas de Angi y Thumbtack en Search."
+        },
+        {
+          "t": "p",
+          "x": "El ejemplo de Google muestra un pedido de Target creado en AI Mode con un subtotal de $37.49 por ocho artículos. Se detiene en el carrito y no muestra el pago, las sustituciones ni la programación de la recogida."
+        },
+        {
+          "t": "p",
+          "x": "Google no ha dicho cómo se ordenan los productos, quién procesa el pago ni si aparecerán anuncios en estos flujos. Walmart no figura en la lista."
+        }
+      ]
     }
   }
 }

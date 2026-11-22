@@ -13231,6 +13231,161 @@
           "x": "リサーチの成果物には今や二つの読み手がいる。チームメイトと、デザインプロセスで使われるAIツールだ。UX-context design(UXコンテキスト設計)とは、AI-generatedのデザインを導くUXの知識を選び、整理し、維持する実践である。"
         }
       ]
+    },
+    "design/siemens-agibot-gripper-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
+          "cap": "AM向けに設計と生産を単一のデジタルスレッドでつなぐSiemensのIndustrial AIコンセプト。写真：Siemens"
+        },
+        {
+          "t": "p",
+          "x": "Siemensは、Industrial AIで動く積層造形（AM）向けのエンドツーエンドのDigital Threadを構築している。エンジニアリング面では、AIエージェントが設計の調整と仮想検証から製造準備まで、各ステップを担う。"
+        },
+        {
+          "t": "p",
+          "x": "SiemensとAGIBOTは、ヒューマノイドロボット用グリッパーを例にこのワークフローを実演する。ユーザーが扱う対象物とロボットに求める作業を説明すると、AIエージェントが適切なグリッパーの種類を選び、SiemensのDesigncenterで形状を調整し、シミュレーションを行い、ロボットとのインターフェースとハンドリングを検証する。MCP統合により、エージェントはエンジニアリングソフトの機能を使い、作業工程を調整できる。このワークフローはFrankfurtで開かれるFormnext 2026で披露される。"
+        },
+        {
+          "t": "p",
+          "x": "「時間のかかる工程でバリエーションを手作業で設計する代わりに、エージェント型ワークフローが具体的な要件に基づいてエンジニアリング作業を統括できる」と、Siemensの積層造形担当バイスプレジデント、Karsten Heuser氏は述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://3dprintingindustry.com/wp-content/uploads/2026/11/TheImpact-Rendering-Pressemeldung26-1024x576.png",
+          "cap": "SiemensのErlangen電子工場に計画されている適応型生産セルは、AM、自動化、後処理、ソフトウェアを一つのプロセスチェーンでつなぐ。写真：Siemens"
+        },
+        {
+          "t": "p",
+          "x": "SiemensはEOSおよびAM Solutionsと組み、Erlangenの電子工場で適応型生産セルに取り組んでいる。SyneraとAi Buildも、既存のAMソフトを操作するAIエージェントとテキスト入力という同様の手法を取ってきた。"
+        }
+      ]
+    },
+    "design/gemini-omni-gif-maker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Google GeminiでGIFsを作れるようになった。テキストプロンプト、写真、動画から短いアニメーションループを生成する機能で、GoogleのGemini Omni 1.2 Flash動画モデルを使う。ChatGPTはすでに独自にGIFsを作成できる。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーはGeminiのメインチャットでアニメーションを説明するか、画像・動画作成ツールを開いてフォーマット選択からGIFを選び、プロンプトを入力する。リアクションミーム用の既製テンプレートがあり、アップロードした写真や動画を参照素材として使える。"
+        },
+        {
+          "t": "p",
+          "x": "生成されるアニメーションは約三秒で、自動でループする。対応するアプリ、メッセージ、メール、文書にコピーするか、標準の.gifファイルとしてダウンロードできる。"
+        },
+        {
+          "t": "p",
+          "x": "GIF生成は世界中のGoogle AI契約者に順次提供されており、無料ユーザーは米国（US）、カナダ、英国（UK）、オーストラリア、日本、韓国、ドイツ、フランスの八か国で利用できる。提供は段階的で、Geminiのヘルプ文書には今もGoogle AIプランが必要と記されている。"
+        }
+      ]
+    },
+    "design/webflow-mcp-designer-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "デザイナーのYudit Lynn Leeの工程はかつて手作業だった。Figmaでデザインし、Webflowで手で組み、小さなスクリプトかWebflowのインタラクションパネルで動きを加える。今はClaudeとともに体験全体をコードでプロトタイプし、Webflow MCPがそれをセクションごとにWebflowへ取り込む。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "最初のビジュアルの方向性と基本レイアウトは、今もFigmaで決める。体験全体はClaudeとローカルで、index.htmlとローカルサーバーを使ってプロトタイプするため、ブラウザですぐに見て操作でき、複数の案を並べて生成できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*KZOR_B29r-4XAP3Y6T9tww.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "納得がいけば、ClaudeにWebflowページへの変換を頼み、構造、クラス名、CSSを持ち込み、モーションはWebflow MCPを使ってカスタムコードとして移す。「もう手で作るものは何もない」"
+        },
+        {
+          "t": "p",
+          "x": "彼女のコツは、Webflowサイトが使うフレームワーク（Lumosなど）や命名規則、変数をClaudeに伝えること。そしてページ全体なら、新しいコンテキストウィンドウでセクションごとに、サブエージェントで並行してでも作ることだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*SqQ6O-uzSXJhGgKwbx9Uxg.jpeg"
+        }
+      ]
+    },
+    "design/comsol-2026-mcp-server": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "エンジニアや科学者が、Comsol Conference 2026（10月7–9日）のためにMassachusetts州Burlingtonに集まった。ミニコースでは、ComsolのBjorn Sjodin氏が、新モジュールや新機能、AI機能を備えたComsol 2027を紹介した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig01_release_highlights-edited.jpg",
+          "cap": "Comsol 2027には、特にAIによってシミュレーション開発を容易にする多数の新機能が含まれる。（画像：Comsol）"
+        },
+        {
+          "t": "p",
+          "x": "ComsolのMCPサーバーはAI Agentsを接続し、科学者やエンジニアがそれを使ってモデルや工程、方程式を作り、問題の解決策を導けるようにする。Comsol 2027では、ソフトウェアのチャットボット、Application Builder、Java ShellもMacとLinuxで使えるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "基調講演では、CosmonのCEO、Rui Aguiar氏が自社製品Argusによる産業シミュレーション向けのエージェント型AIを紹介し、エンジニアがシミュレーションの目的を明示し、結果を検証しなければならないと強調した。同氏は実測結果との偏差が0.2%のモデルを示した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig03_Argus_model_Liquid_cooled_ion_pack-scaled.jpg",
+          "cap": "Rui Aguiar氏の講演スライドの写真。（写真：Martin Rowe）"
+        },
+        {
+          "t": "p",
+          "x": "「Generative and Agentic AI with Comsol」では、Jada Walter氏がチャットボット、モデルビルダー、ComsolのMCPサーバーを使ってモデルを作成・デバッグする方法を示し、AIエージェントが構文だけでなくその背後の推論も確認する様子を見せた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/COMSOL_engdotcom_Fig05_Generative_Agentic_AI.jpg",
+          "cap": "ComsolでエージェントAIを使ったこの例は、機械式シリンダーのモデリングを示している。（画像：Comsol）"
+        }
+      ]
+    },
+    "design/figma-specs-agent-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "チームがかつてない速さでプロトタイプから本番へ進むなか、文章の要件やデザインの詳細、エンジニアリングの指針は別々のドキュメントやリンクに散らばりがちだ。Specsはキャンバス上に文脈をまとめる共有の器で、チームメンバーとエージェントが一緒に書き込める。このワークフローでは、架空のマーケットプレイス型ショッピングアプリPickupのエンジニアが、SpecsとFigmaエージェントを使い、広がった文脈をコーディングエージェントが実装できる計画にまとめる。"
+        },
+        {
+          "t": "p",
+          "x": "Hexコネクタを追加したエンジニアは、Pickupの利用が最も多い地域を探すようエージェントに指示する。エージェントは都市別のアプリ利用と注文量をまとめたスペックに加え、上位四都市の地図を示すコードレイヤーを作成する。チームはBengaluru, India(インド・ベンガルール)でのローンチを決める。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/84e0e3eded19ba6847fddf60666c0c9f11028a4b-5760x4104.png?rect=2,0,5756,4104&w=1080&h=770&q=75&fit=max&auto=format",
+          "cap": "Figmaエージェントが利用状況レポートと四つの地図コードレイヤーを作成し、チームがローンチ候補都市を比較できるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "エンジニアは技術スペック、注釈付きデザインフレーム、インタラクティブな地図コードレイヤー、新しいコンポーネント、デザインシステムのガイダンスを選び、チームのbuild-implementation-planスキルを実行する。エージェントはこれらの入力を一つの計画にまとめた新しいスペックを作り、コーディングエージェントが機能を実装できるようにする。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3c63ae537ad5394b5dcf0d7ac88ed7c1a874676c-7680x5280.png?rect=3,0,7675,5280&w=1080&h=743&q=75&fit=max&auto=format",
+          "cap": "エージェントは実装計画を含むスペックを作成し、エンジニアはそれをコーディングエージェントに渡す前に確認する。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントやデザイナーとコメントで細部を詰めた後、エンジニアはスペックのリンクをCodexに貼り付け、「この機能を実装して(Implement this feature.)」と指示する。FigmaのMCPを通じて、Codexはリンク一つでスペック、注釈付きフレーム、コードレイヤー、デザインシステムのコンポーネントを読み取れる。Specsは全プランでオープンベータとして提供され、ウェブ、デスクトップ、モバイルで利用できる。"
+        }
+      ]
     }
   }
 }

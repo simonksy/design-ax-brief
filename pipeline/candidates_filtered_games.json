@@ -1,189 +1,162 @@
 {
   "section": "games",
-  "now_iso": "2026-11-21T22:01:02Z",
+  "now_iso": "2026-11-22T22:03:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Epic: AI to convert UE5 projects to UE6; Fortnite's 20,000+ Blueprints ported to ~3M lines of Verse by AI; UE 5.9 gets UE6 AI tooling (Python, MCP)",
-      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
-      "source": "Unreal Engine (Epic Games)",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
       "category": "games",
-      "published_iso": "2026-11-20T00:00:00Z",
-      "excerpt": "Epic's Marcus Wassmer says Blueprints will no longer coexist with Scene Graph in UE6 because AI is expected to make UE5-to-UE6 conversion practical or automatic; Epic used AI to port Fortnite Battle Royale's 20,000+ Blueprints into a ~3M-line Verse prototype, and brings expanded Python scripting and MCP improvements to UE 5.9. Epic says much of UE 5.9 was built with AI agents.",
-      "og_image": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/cmwp1hh5s1ezq07ln696npypn",
+      "published_iso": "2026-11-22T17:25:20+00:00",
+      "excerpt": "Nicalis pulled AI-generated music from a GTA 6-themed mode in The Binding of Isaac: Repentance+ after players exposed it and review-bombed the update; creator Edmund McMillen says he 'had no idea' AI music had been used.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg",
+      "cluster": "c0"
+    },
+    {
+      "title": "'Woke Up to a S**t Show' — The Binding of Isaac Creator Says He Was Unaware of Now-Removed AI-Generated Music in Repentance+",
+      "url": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-11-21T23:42:05+00:00",
+      "excerpt": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator, Edmund McMillen.",
+      "og_image": "https://assets-prd.ignimgs.com/2026/11/21/the-binding-of-isaac-repentance-ai-1795303836559.png?width=1280&format=jpg&auto=webp&quality=80",
+      "cluster": "c0"
+    },
+    {
+      "title": "The Binding of Isaac's new update was review-bombed over AI-generated music, and now it's been removed",
+      "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-11-22T13:19:20+00:00",
+      "excerpt": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players found it in a GTA 6-themed run.",
+      "og_image": "https://assetsio.gnwcdn.com/sc8p6p.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "cluster": "c0"
+    },
+    {
+      "title": "Activision Patent Would Let AI NPCs Learn From Toxic COD Lobbies",
+      "url": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-11-22T16:17:48+00:00",
+      "excerpt": "A newly surfaced Activision patent describes training AI-driven NPCs on players' Call of Duty voice chat so enemies can learn to trash-talk like real players.",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "title": "Unreal Engine 5.9 Preview 2 Brings Browser-Based Gaming To Blueprint-Only Projects, Enables AI Workflows By Default And Improves Rendering",
+      "url": "https://wccftech.com/unreal-engine-5-9-preview-2-brings-browser-based-gaming-to-blueprint-only-projects-enables-ai-workflows-by-default-and-improves-rendering/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-11-22T16:16:43+00:00",
+      "excerpt": "Epic's Unreal Engine 5.9 Preview 2 build brings Blueprint-only web games, turns AI toolsets on by default, adds WebGPU improvements and faster cinematic workflows.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-60.jpg",
       "history_match": {
-        "score": 0.18,
-        "date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
-        "title": "Getting Started with Unreal MCP | Turn AI into Action in UE 5.8",
+        "score": 0.33,
+        "date": "2026-11-11",
+        "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+        "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
         "band": "related"
       }
     },
     {
-      "title": "How HoYoverse Is Keeping Petit Planet's AI NPCs From Harassing Players",
-      "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
-      "source": "GameSpot",
+      "title": "Clash Royale Catches AI Cheat Creator, Recruits Him to Help Develop New Anti-Cheat System",
+      "url": "https://gameriv.com/clash-royale-catches-ai-cheat-creator-recruits-him-to-help-develop-new-anti-cheat-system/",
+      "source": "GameRiv",
       "category": "games",
-      "published_iso": "2026-11-17T10:36:49+00:00",
-      "excerpt": "Petit Planet's AI cafe NPC Nalo remembers past conversations; HoYoverse says AI NPCs have preset moral values, refuse toxic or manipulative prompts, escalate to warnings and human intervention, and the AI features are optional via an in-game toggle.",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/11/Cafe-Untamed.png"
-    },
-    {
-      "title": "게임사 글로벌 진출, 4개사 손잡고 AI로 준비 기간 줄인다 (현지화·LQA·폰트·사운드 AI 접목)",
-      "url": "https://www.thisisgame.com/articles/433045",
-      "source": "ThisIsGame (디스이즈게임)",
-      "category": "games",
-      "published_iso": "2026-11-19T15:34:29Z",
-      "excerpt": "한국모바일게임협회 임원사 도브러너·모리사와코리아·라티스글로벌커뮤니케이션스·창조공작소가 지스타 2026에서 원스톱 수출 지원 협약을 맺고, 보안·다국어 폰트·현지화/LQA·사운드 서비스에 AI를 접목해 출시 준비 기간을 줄이기로 했다.",
-      "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/11/20/1639307306144028545_517a684f-c0aa-4dd1-b8ed-91e059df0331_1795104696020.jpg"
-    },
-    {
-      "title": "\"Making 3D Modeling Easy for Everyone\": Tripo AI Expands Reach to B2C",
-      "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
-      "source": "Inven Global",
-      "category": "games",
-      "published_iso": "2026-11-20T06:07:22+00:00",
-      "excerpt": "At G-Star 2026, 3D model generation platform Tripo AI, already widely used by game developers, outlined its push to expand from B2B game-studio use toward everyday consumer creators.",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795155009039560.jpeg",
+      "published_iso": "2026-11-22T09:31:53+00:00",
+      "excerpt": "Supercell took an unusual approach to AI-powered cheating in Clash Royale: instead of simply banning the creator of an AI cheat tool, it recruited him to help build a new anti-cheat system.",
+      "og_image": "https://gameriv.com/wp-content/uploads/2026/11/Clash-of-Clans-AI-Cheat-Creator-Hired.jpg",
       "history_match": {
-        "score": 0.157,
-        "date": "2026-11-12",
-        "url": "https://80.lv/articles/creators-developed-playable-worlds-vr-games-digital-pets-for-tripo-ai-s-first-3d-world-hackathon",
-        "title": "Creators Built Playable Worlds, VR Games & Digital Pets for Tripothon",
+        "score": 0.234,
+        "date": "2026-11-15",
+        "url": "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/",
+        "title": "Call of Duty Warns AI-Powered Cheats Are Becoming Harder to Detect",
         "band": "related"
       }
     },
     {
-      "title": "Unity and OpenAI: \"In the Era of AI Gaming, the Role and Capabilities of Developers Become Even More Crucial\"",
-      "url": "https://www.invenglobal.com/articles/28921/unity-and-openai-in-the-era-of-ai-gaming-the-role-and-capabilities-of-developers-become-even-more-crucial",
-      "source": "Inven Global",
+      "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-11-21T03:12:33+00:00",
-      "excerpt": "Interview with Unity and OpenAI after the 24-hour Unity AI Game Jam held ahead of G-Star 2026, on how AI tooling changes developer roles and workflows.",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/21/r1795230914172457.jpeg"
+      "published_iso": "2026-11-21T23:40:42+00:00",
+      "excerpt": "Wizards of the Coast says it will pass its full share of the Anthropic AI copyright settlement for D&D books on to the writers who created them.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7-1280-80.jpg"
     },
     {
-      "title": "Legal Experts Re-examine 'Boundaries of Games' Surrounding AI Chat Apps and Private Server Users",
-      "url": "https://www.invenglobal.com/articles/28894/legal-experts-re-examine-boundaries-of-games-surrounding-ai-chat-apps-and-private-server-users",
-      "source": "Inven Global",
-      "category": "games",
-      "published_iso": "2026-11-20T10:04:53+00:00",
-      "excerpt": "Korean legal and academic experts examined how AI chat apps and illegal private servers are challenging the boundaries of game regulation at a G-Star 2026 academic conference.",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/r1795169169728321.jpeg"
-    },
-    {
-      "title": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
-      "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-11-20T11:13:00+00:00",
-      "excerpt": "Howard Scott Warshaw said that although he doesn't see a similar crash occurring, the new challenge with the flood of AI-made games is finding a way to \"winnow out the crap\".",
-      "og_image": "https://assetsio.gnwcdn.com/IMG_8185.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "小説か，漫画か，ゲームかという問いは時代遅れに。「キャラぷ」のWrtnが語る「ハイパー・パーソナライゼーション」とAIエンタメの未来［G-STAR 2026］",
-      "url": "https://www.4gamer.net/games/991/G999104/20261120011/",
+      "title": "生成AIを活用したFMVゲーム「元カレ×デスゲーム」，2026年12月4日に基本プレイ無料で配信予定",
+      "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
       "source": "4Gamer.net",
       "category": "games",
-      "published_iso": "2026-11-20T14:03:07+09:00",
-      "excerpt": "G-CON 2026 keynote by Wrtn (Crack / Kyarapu): AI sharply lowers content production cost and branches experiences per user, blurring novel/comic/game boundaries into a 'Narrative Industry'.",
-      "og_image": "https://www.4gamer.net/games/991/G999104/20261120011/SS/002.jpg"
+      "published_iso": "2026-11-18T14:14:37+09:00",
+      "excerpt": "LIUGUANG STUDIO announced that its generative-AI-built live-action-style FMV game 'Ex-Boyfriend x Death Game', pitting the player against 100 exes on a cruise ship, launches free-to-play on December 4, 2026 (PC via Steam).",
+      "og_image": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
     },
     {
-      "title": "Grand Theft Auto VI PS5 Streams/Captures Get DLSS 5 and Frame Generation on PC Through Veyra/Neural Screen, But Gameplay Still Runs at 30FPS",
-      "url": "https://wccftech.com/grand-theft-auto-vi-ps5-dlss-5-frame-generation-pc-veyra-neural-screen/",
-      "source": "Wccftech",
+      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop",
+      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-11-21T15:00:00+00:00",
-      "excerpt": "Third-party tools Veyra and Neural Screen inject DLSS 5 neural rendering and frame generation into captured GTA VI PS5 footage on PC, but add latency and the real frame rate stays at 30.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/veyra-nr-GTAVI-HD-1920x1103.jpeg",
+      "published_iso": "2026-11-10T23:00:35+00:00",
+      "excerpt": "A student video game development competition was cancelled after organizers were flooded with AI-generated submissions.",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2218779363.jpg",
       "history_match": {
-        "score": 0.182,
-        "date": "2026-11-13",
-        "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
-        "title": "Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support",
+        "score": 0.358,
+        "date": "2026-11-11",
+        "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+        "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
         "band": "related"
       }
     },
     {
-      "title": "Radeon RX 9070 XT Reportedly Runs Resident Evil Requiem 10% Faster With AMDLSS5 2.5, While Using Around 500 MB Less VRAM",
-      "url": "https://wccftech.com/amdlss5-2-5-boosts-dlss-5-style-neural-rendering-performance-by-60-on-amd-gpus/",
-      "source": "Wccftech",
+      "title": "MetaHuman Animator Markerless Motion Capture Deep Dive | Inside Unreal",
+      "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
+      "source": "Unreal Engine (YouTube)",
       "category": "games",
-      "published_iso": "2026-11-21T11:01:37+00:00",
-      "excerpt": "AMDLSS5 2.5, a mod bringing DLSS 5-style neural rendering to AMD GPUs, reportedly adds ~10% performance, up to 6x frame generation and ~500MB lower VRAM use versus 2.0.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/AMDLSS5-2.5-Baldurs-Gate-1920x1077.jpg",
-      "history_match": {
-        "score": 0.301,
-        "date": "2026-11-12",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
-        "title": "This mod to get DLSS 5 running on AMD RX 9000-series GPUs promises better performance than others",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Unite Tokyo 2026 Keynote recap: Unity Neural (neural texture compression), official coding-agent plug-ins for Claude/Codex/Antigravity/Grok, AI Asset Library search",
-      "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
-      "source": "Unity Blog",
-      "category": "games",
-      "published_iso": "2026-11-17T00:00:00Z",
-      "excerpt": "Unity showed Unity Neural, AI-powered rendering tools whose Neural Texture Compression cut the Atrio demo's texture memory by ~30% (experimental in Unity 6.7 LTS, full in Unity 7), official plug-ins for Claude, Codex, Google Antigravity and Grok, an agent-driven prototype demo, and an Asset Library plug-in that finds assets by text prompt.",
-      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/c434ae876ad1d579e55874528c20ba43bbe9545d-1920x1080.png",
-      "history_match": {
-        "score": 0.211,
-        "date": "2026-11-03",
-        "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
-        "title": "Introducing the official Unity plugin for Antigravity",
-        "band": "related"
-      }
-    },
-    {
-      "title": "'Now, more than ever, it's about design': John Romero loves that games are easier to make but warns 'most are trash'",
-      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
-      "source": "Video Games Chronicle",
-      "category": "games",
-      "published_iso": "2026-11-20T10:54:34+00:00",
-      "excerpt": "John Romero says game-making is easier than ever but most new releases are 'trash', many AI-generated or auto-generated with game-making kits, so design now matters more than ever.",
-      "og_image": "https://www.videogameschronicle.com/files/2024/10/romero.jpg"
+      "published_iso": "2026-11-19T13:32:45-08:00",
+      "excerpt": "Epic's Inside Unreal deep dive on the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or camera into full-body animation without mocap suits or markers.",
+      "og_image": "https://i.ytimg.com/vi/zd7DCFBLCcc/maxresdefault.jpg"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 12,
+    "dropped": 1,
+    "kept": 11,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 5,
-    "same_story_pairs": []
+    "dropped": [
+      {
+        "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+        "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析",
+        "match": {
+          "score": 0.504,
+          "date": "2026-11-07",
+          "url": "http://www.gamespark.jp/article/2026/11/06/174568.html",
+          "title": "人気美女デッキ構築型ローグライク続編『NEOVERSE 2』11月14日Steam早期アクセスへ。6年越し新作だけどアートはAIフル活用、キャラの見た目ぜんぜん違う！？"
+        }
+      }
+    ],
+    "review": 3,
+    "same_story_pairs": [
+      [
+        "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+        "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
+        0.639
+      ],
+      [
+        "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+        "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
+        0.75
+      ],
+      [
+        "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
+        "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
+        0.616
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-23",
-      "title": "Wonder Interactive's Strata uses AI to take Unreal Engine games to browsers using WebAssembly and WebGPU",
-      "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
-      "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "\"Someone's getting fired\": Arc Raiders player says Embark used ChatGPT to respond to their complaint and accidentally sent several messages intended for others",
-      "url": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting'",
-      "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai"
-    },
     {
       "date": "2026-10-24",
       "title": "SonicFox, Forever A Real One, Pulls Out Of Event That Used Gen AI",
@@ -843,6 +816,31 @@
       "date": "2026-11-21",
       "title": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
       "url": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Unite Tokyo 2026 Keynote recap: Unity Neural (neural texture compression), official coding-agent plug-ins for Claude/Codex/Antigravity/Grok, AI Asset Library search",
+      "url": "https://unity.com/blog/unite-tokyo-2026-keynote-recap"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "How HoYoverse Is Keeping Petit Planet's AI NPCs From Harassing Players",
+      "url": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "\"Making 3D Modeling Easy for Everyone\": Tripo AI Expands Reach to B2C",
+      "url": "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Epic: AI to convert UE5 projects to UE6; Fortnite's 20,000+ Blueprints ported to ~3M lines of Verse by AI; UE 5.9 gets UE6 AI tooling (Python, MCP)",
+      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "'Now, more than ever, it's about design': John Romero loves that games are easier to make but warns 'most are trash'",
+      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/"
     }
   ]
 }

@@ -12340,6 +12340,97 @@
           "x": "“This is indeed an historic moment,” said MIT mathematician Andrew Sutherland after he had independently compiled Alpöge’s result in Lean. “There is much work to be done to understand the mathematical details of the proof.”"
         }
       ]
+    },
+    "science/science-weathernext-hurricane-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
+          "cap": "A photo of screens with weather data on them inside the Map Room at ETEC. Credit: Patrick Dodson"
+        },
+        {
+          "t": "p",
+          "x": "When Hurricane Melissa hit Jamaica in fall 2025, Google's AI model correctly predicted its path and Category 5 strength a week in advance, while other models disagreed. A University at Albany study by Jacob Vile, Brian Tang and Nour Elgalad, published in Geophysical Research Letters, put Google's WeatherNext Cyclone to an independent test."
+        },
+        {
+          "t": "p",
+          "x": "The team analyzed intensity forecasts for 385 tropical cyclones worldwide from June 2022 to May 2026. The model was more accurate than NOAA's state-of-the-art hurricane model at every point from one to five days out and performed on par with human forecasters beyond the first day. Its rapid-intensification forecasts were about as reliable as a leading tool over the next 24 hours, with fewer false alarms."
+        },
+        {
+          "t": "p",
+          "x": "But it tends to underestimate how strong storms will get, a gap that grows at longer lead times, and its range of possible outcomes was often too narrow. It performed best in the North Atlantic and worst in the eastern North Pacific. A newer model version Google released this year was not included in the analysis."
+        }
+      ]
+    },
+    "science/science-agent-harassment-tampering": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
+          "cap": "AI. Credit: Tara Winstead from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Georgia State University researchers, with collaborators at Georgia Tech and UC Berkeley, tested whether AI guardrails hold up in multi-turn conversations. One AI agent played a harasser and another a target for up to 10 rounds, seeded with real harassing posts from Twitter and Instagram. Models from Google (Gemini), Meta (Llama), Alibaba (Qwen) and DeepSeek faced three attacks: toxic prior conversations in memory, planning prompts, and fine-tuning on harassment conversations."
+        },
+        {
+          "t": "p",
+          "x": "After fine-tuning, one model harassed in about 96% of conversations and refused about 1% of the time; fine-tuning on roughly 200 conversations still produced about 97% harassment. Gemini harassed in 39% of baseline conversations, rising to more than 99% with toxic memory, and Qwen exceeded 92% even at baseline. In several models hostility increased across exchanges. \"It is not staying the same. It is increasing over time,\" said co-author Ugur Kursuncu."
+        },
+        {
+          "t": "p",
+          "x": "The paper, \"Echoes of Human Malice in Agents\" by Trilok Padhi et al., was accepted to the AAAI Conference on Web and Social Media (ICWSM)."
+        }
+      ]
+    },
+    "science/science-tokamak-density-collisionality": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The threshold at which density-limiting plasma instabilities occur in tokamak fusion reactors is not well understood. Here, we present the first large-scale empirical evidence of a common collisionality threshold present across multiple devices and confinement regimes. Machine-learning-guided analysis of a diverse experimental database identifies a scaling in edge effective collisionality (ν*) that bears resemblance to the widely utilized Greenwald limit but yields a substantially lower false positive rate. This threshold decreases with dimensionless pressure (β), consistent with theoretical expectations for enhanced transport from electromagnetic effects on resistive ballooning mode turbulence. These results suggest that future burning plasma devices such as ITER and ARC could potentially achieve higher density, and thus fusion power, than previously expected."
+        },
+        {
+          "t": "p",
+          "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, for the Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV and EUROfusion Tokamak Exploitation teams and JET Contributors. Accepted for publication in Physical Review Letters."
+        }
+      ]
+    },
+    "science/science-llm-advice-donations": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "People increasingly ask AI chatbots for advice, yet large language models (LLMs) are sycophantic, overconfident, and can amplify human cognitive biases. In this article, we investigate how people perceive advice from humans versus LLMs and whether AI advice reshapes incentive-compatible donation decisions. Using Carrier, a new experimental platform, we designed an experiment where participants made a donation decision after discussing it with an AI chatbot advisor, another human, or receiving no advice. Participants judged LLM advisors to be significantly more rational, trustworthy, convincing, and sycophantic than human advisors. Analysis of chatlogs showed that LLMs were more engaged than human advisors: they shared more facts and more often stated their opinion and justified their recommendations. Despite this, donation decisions did not vary across conditions."
+        },
+        {
+          "t": "p",
+          "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+        }
+      ]
+    },
+    "science/science-tess-amateur-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03790-w/d41586-026-03790-w_53997324.jpg",
+          "cap": "Artificial-intelligence tools are helping citizen scientists to find undiscovered exoplanets (artist’s illustration). Credit: Hypersphere/SPL"
+        },
+        {
+          "t": "p",
+          "x": "In September, Pavel Rabtsevich, an AI specialist in Spain with no formal astronomy education, asked an AI model to discover a planet. In about two weeks it delivered two possible planets orbiting a star 116 light years from Earth."
+        },
+        {
+          "t": "p",
+          "x": "He enlisted Claude Code to sift data from more than 120,000 stars observed by NASA’s TESS in late 2025 and early 2026, using a popular planet-detection algorithm to search for dips in brightness. Claude zeroed in on TIC 4206066, which showed two cycles of dimming, roughly every 3 days and every 11 days. Archival TESS data from 2018 and 2020 recorded the same pattern, and Claude ran a public algorithm written by Michelle Kunimoto to validate the signals."
+        },
+        {
+          "t": "p",
+          "x": "Rabtsevich posted a preprint on Zenodo on 25 September. It has not been peer reviewed, but TESS astronomers have independently analysed the signals and added them to their official list of planet candidates."
+        },
+        {
+          "t": "p",
+          "x": "Kunimoto, an exoplanet researcher at the University of British Columbia, warns that some amateurs can’t validate the models’ findings: “There’s been a huge, overwhelming surge of AI-driven papers, which tend to have [planet] candidates that are not the best quality.”"
+        }
+      ]
     }
   }
 }

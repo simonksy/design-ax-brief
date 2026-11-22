@@ -1,79 +1,96 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "gadgets",
   "items": [
     {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "published_iso": "2026-11-22T13:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Large language models can now redesign your TV interface and upgrade your camera firmware for you; the column asks whether the physical world is ready to be Claude Code-d as LLMs make gadget hacking and modding accessible to everyone.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "RayNeo IO Review: Just so You Know, My Smart Glasses Are Listening",
-      "url": "https://gizmodo.com/rayneo-io-smart-glasses-review-2000829940",
-      "source": "Gizmodo",
-      "published_iso": "2026-11-20T17:30:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/11/rayneo-io-smart-glasses-review-03.jpg",
-      "excerpt": "Gizmodo reviews the $499 camera-free RayNeo IO smart glasses: AI live translation and a teleprompter are useful, but the optional Lifelog feature that listens all day and keeps text transcripts feels too invasive.",
-      "rationale": "First review of a new camera-free AI glasses model; the always-listening Lifelog feature raises a concrete privacy question for buyers."
+      "rationale": "Assigned to gadgets by the cross-section brief; it ties the run of one-off LLM hardware hacks into one trend: anyone can now mod their TV or camera firmware."
     },
     {
+      "title": "SecondBrain VoicePad: Compact AI controls and dictation for your desk",
+      "url": "https://www.notebookcheck.net/SecondBrain-VoicePad-Compact-AI-controls-and-dictation-for-your-desk.1456759.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-11-22T14:40:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Second_Brain_VoicePad.jpg",
+      "excerpt": "Genspark's SecondBrain VoicePad pairs five programmable keys with AI dictation and meeting transcription for Mac and PC, recording to onboard memory even when disconnected. It lists at $169, with a Kickstarter launching Nov 24 at $119-$149.",
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "rationale": "New desk hardware with concrete pricing and a Kickstarter date (Nov 24); a directly usable AI dictation and transcription input device for Mac and PC."
+    },
+    {
+      "title": "Obsbot's new AI PTZ cameras could make camera operators redundant",
+      "url": "https://www.digitalcameraworld.com/tech/webcams/obsbots-new-ai-ptz-cameras-could-make-camera-operators-redundant-and-its-got-a-1-inch-sensor",
+      "source": "Digital Camera World",
+      "published_iso": "2026-11-21T11:25:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa-1600-80.jpg",
+      "excerpt": "Obsbot's Tail Air 2 and Tail 2 ADV PTZ cameras go on sale with 'AI Tracking 2.0' that follows people, 30+ animal species and 200+ object categories, plus 4K/60p and a 1-inch sensor on the ADV.",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "title": "Tamagotchi-style digital pet turns the back of your smartphone into its new home",
-      "url": "https://www.notebookcheck.net/Tamagotchi-style-digital-pet-turns-the-back-of-your-smartphone-into-its-new-home.1455500.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-11-21T19:19:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/beambox-polly-digital-pet-202674.jpg",
-      "excerpt": "A Tamagotchi-style digital pet has found a new home on the back of your smartphone. Beambox's Polly combines magnetic attachment, a touchscreen and AI chat, with Japanese crowdfunding prices starting at ¥10,999 and deliveries planned for January 2027.",
-      "rationale": "New magnetic AI-chat companion accessory with price and ship date; a distinct product from the 11-16 Oats AI Tamagotchi."
+      "rationale": "Shipping product: AI subject tracking across people, animals and 200+ object classes replaces a camera operator for solo streamers and small studios."
     },
     {
+      "title": "Gemini app rolls out very slick camera redesign on Android",
+      "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
+      "source": "9to5Google",
+      "published_iso": "2026-11-21T20:52:52+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google has thoroughly redesigned the Gemini Android app's in-app camera used to quickly add images to prompts, reworking the capture UI on phones.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-11-21T15:02:17Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7-1920-80.jpg",
-      "excerpt": "Nintendo’s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
-      "rationale": "Fresh maker hack running a 2.2M-parameter chatbot on SNES cartridge silicon; shows how small on-device language models can go."
+      "rationale": "A live rollout that changes how users capture images into Gemini prompts on phones. It is a different surface from the 10-26 settings and side-panel redesign."
     },
     {
+      "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+      "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
+      "source": "Engadget",
+      "published_iso": "2026-11-19T22:56:42+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/l-intro-1795128747.jpg",
+      "excerpt": "Per The Information, Meta plans to sell its pocket Muse Charm AI agent device for $300 with up to 12 months of free Verizon 5G ahead of the holidays; Meta did not deny it and said it will share more soon.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "New Hyundai Elantra Hybrid Debuts With 53 Mpg, AI in the Dash",
-      "url": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
-      "source": "CNET",
-      "published_iso": "2026-11-21T06:00:11-05:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/73108-hyundaielantra-208.jpg",
-      "excerpt": "The redesigned compact sedan features Hyundai’s new AI voice assistant, Gleo AI, and an updated regenerative braking system with EV-like one-pedal driving.",
-      "rationale": "LA Auto Show debut putting Hyundai's new Gleo AI voice assistant into a mass-market compact car; adds an in-car AI angle to the set."
+      "rationale": "First price and carrier details for Meta's dedicated Muse Charm hardware. Earlier cards covered the Muse agent on Apple Watch and Wear OS, not this device. This is a report attributed to The Information, which Meta did not deny."
     }
   ],
   "dedup": {
     "checks": {
-      "https://gizmodo.com/rayneo-io-smart-glasses-review-2000829940": {
+      "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera": {
         "verdict": "new",
-        "nearest": "https://www.tomsguide.com/computing/smart-glasses/i-tested-the-halliday-g2-ai-smart-glasses-and-they-turned-me-into-a-walking-cheat-sheet-but-everyone-could-tell",
+        "nearest": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Tamagotchi-style-digital-pet-turns-the-back-of-your-smartphone-into-its-new-home.1455500.0.html": {
+      "https://www.notebookcheck.net/SecondBrain-VoicePad-Compact-AI-controls-and-dictation-for-your-desk.1456759.0.html": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+        "nearest": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html",
         "new_action": ""
       },
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies": {
-        "verdict": "new",
-        "nearest": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
-        "new_action": ""
-      },
-      "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/": {
+      "https://www.digitalcameraworld.com/tech/webcams/obsbots-new-ai-ptz-cameras-could-make-camera-operators-redundant-and-its-got-a-1-inch-sensor": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
+      },
+      "https://9to5google.com/2026/11/21/gemini-camera-redesign/": {
+        "verdict": "new",
+        "nearest": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+        "new_action": ""
+      },
+      "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/": {
+        "verdict": "new",
+        "nearest": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
+        "new_action": ""
       }
     },
-    "note": "Re-curation: removed Brism in*sight (전자신문, https://www.etnews.com/20261119000287) after the fact-check fetch showed AI is incidental (one sentence on reaching Siri/Gemini/ChatGPT via a Bluetooth phone link; the rest is weight, fit, lenses) — fails the delete-AI-from-the-headline test. No replacement added; the section stays at 4 rather than padding. Remaining pool re-checked: Meta Muse Charm $300 (TechCrunch; history_match related to 11-14 Muse on Wear OS, design ran the reveal 09-27 — an unconfirmed The Information price report, Meta only said 'more to share soon', no new official action); Apple Siri Recap hands-on (The Verge; extra reporting on the feature carried 11-04 via MacRumors watchOS 27.3, no new release); Apple N50 smart glasses Gurman report (Road to VR; running rumor already carried 11-14 via MacRumors supplier briefing, no official announcement); HomePod mini 2 review (Engadget; Siri AI still not shipped on it, AI incidental); Alexa Tablet 12 Pro review (TechRadar; history_match related to 11-09 Gadgeteer launch card — a review with no new release, AI incidental). Cross-section: none of the 11-22 cross-section assignments touch these 4; orchestrator should exact-grep the 4 URLs plus 'RayNeo', 'Beambox', 'SNES', 'Gleo' in published_urls.json before roll. Outlets: Gizmodo 1, Notebookcheck 1, Tom's Hardware 1, CNET 1."
+    "note": "Dropped: Xiaomi 18 Pro review (The Verge), the same story as the 11-16 card on the Xiaomi 18 Pro rear display's GenAI apps. TechRadar Korean AI exam-cheating, excluded by the cross-section brief. 9to5Mac Muse AI privacy breaches, the same running Muse story; only one Muse card kept (Charm hardware). Lenovo Pro 9n review, too close to the RTX Spark mini-PC (11-19) and Gigabyte RTX Spark (11-12) cards; a review, not a new release. WIRED church smart rings, where AI is incidental. Gadgets & Wearables WHOOP AI Coach complaints, user anecdotes from an off-whitelist outlet. Not picked but fresh (backfill order): USC stress ring (Digital Trends), ETH AI bicycle robot (etnews), Frostbite AI-designed CPU (Tom's Hardware). Cross-section exact-grep of published_urls.json was not possible here (no grep tool; the file is 4.8k lines). The orchestrator should confirm the five picked URLs, plus 'Muse Charm' and 'Obsbot', are absent from other sections."
   }
 }

@@ -1,160 +1,151 @@
 {
-  "section": "design",
-  "now_iso": "2026-11-21T22:01:02Z",
-  "window_hours": 72,
-  "items": [
-    {
-      "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
-      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "published_iso": "2026-11-20T22:17:00Z",
-      "excerpt": "Figma walks through a workflow in which Specs and the Figma agent hold the product context (requirements, decisions, constraints) next to the design, so the agent can turn it into an implementation plan and hand it to code.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/2ca1e62056e0643145440afac47fe74aac4957ea-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-    },
-    {
-      "title": "Stop Making AI Agents Click Through Your Web App",
-      "url": "https://www.copilotkit.ai/blog/ai-agents-use-your-web-app-webmcp",
-      "source": "CopilotKit",
-      "category": "figma",
-      "published_iso": "2026-11-20T17:00:00Z",
-      "excerpt": "CopilotKit argues that agents clicking through UIs built for people waste tokens, and shows how WebMCP plus CopilotKit let a web app expose its functions to an agent directly, a shift in how app interfaces are designed for agent users.",
-      "og_image": "https://cdn.sanity.io/images/y3fjfzcd/production/296a07de2b8920f52a379db56feb1a04cdd024c6-1170x658.png?w=1200&h=630&fit=crop&auto=format"
-    },
-    {
-      "title": "Lovable keeps working while you answer its questions",
-      "url": "https://docs.lovable.dev/changelog",
-      "source": "Lovable Changelog",
-      "category": "figma",
-      "published_iso": "2026-11-19T00:00:00Z",
-      "excerpt": "Lovable can now ask a question and keep building while the user decides: it builds what doesn't depend on the answer, picks an option for the rest and reworks it if the user chooses differently, but waits before hard-to-undo steps like deleting data. (Changelog entry, date-only.)",
-      "og_image": null
-    },
-    {
-      "title": "에이바 스튜디오, 인기 출시 영상의 컷을 내 제품 화면으로",
-      "url": "https://designcompass.org/2026/11/19/ava-studio-launch-videos/",
-      "source": "Design Compass (디자인 나침반)",
-      "category": "figma",
-      "published_iso": "2026-11-19T02:59:00Z",
-      "excerpt": "Ava Studio released 'Launch Videos' (Nov 17), which analyses the shot order, cut lengths and camera moves of launch videos that went viral on X and rebuilds them with the user's own product screens; it runs as a plugin inside Claude Code and Codex.",
-      "og_image": "https://designcompass.org/wp-content/uploads/2026/11/ava-final-web-cover-1-web-thumbnail-scaled.jpg"
-    },
-    {
-      "title": "The judge used to be the user",
-      "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-11-21T14:34:16Z",
-      "excerpt": "UX Collective essay (Wira Indra Kusuma): AI collapsed the slow middle of building models, and the people who once defined what 'correct' meant, users and researchers, went with it. (Essay; Medium blocks fetch, excerpt from RSS.)",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*oRmV3l91vV_cnIpGqcfEIA.png"
-    },
-    {
-      "title": "This movie poster is one big AI slop Easter egg hunt",
-      "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-11-21T10:00:00Z",
-      "excerpt": "The poster for 'Artificial', the Sam Altman/OpenAI film, is deliberately packed with AI-slop tells for viewers to spot; Fast Company reports it was made by humans as a marketing play. Check movies for cross-section dup.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/E3bkoBqXseASfcNnxTHPhS-1920-80.jpg"
-    },
-    {
-      "title": "Claude has a new mobile design, too.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-11-20T21:42:14Z",
-      "excerpt": "Anthropic is rolling out a refreshed Claude mobile app with a bottom tab bar for chat, Projects, Code and Artifacts (iOS 26+ first), a day after OpenAI previewed a similar tab-bar redesign of ChatGPT; AI assistants are converging on the same app layout.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/anthropic-claude-mobile-app-bottom-tab-bar.jpeg?quality=90&strip=all&crop=0%2C23.731093659104%2C100%2C52.537812681792&w=1200"
-    },
-    {
-      "title": "OpenAI is testing a new design for mobile ChatGPT.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038334/openai-is-testing-a-new-design-for-mobile-chatgpt",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-11-20T00:59:47Z",
-      "excerpt": "ChatGPT's mobile redesign adds a bottom tab bar with Home and a dedicated tab for the user's Dot agent, plus pinnable spots for Codex or Images; Pro users with Dots see it first. OpenAI help center documents the new Home/Explore layout.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-19-at-5.01.12-PM.png?quality=90&strip=all"
-    },
-    {
-      "title": "Gemini on Mac can now use your computer",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-11-19T18:21:13Z",
-      "excerpt": "Google brings computer use to the Gemini Mac app for AI Plus, Pro and Ultra users: an agent that operates desktop apps, local files and websites in an isolated background window, with users choosing which apps it can access.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200"
-    },
-    {
-      "title": "Building a Software Factory",
-      "url": "https://runway.com/news/engineering/building-a-software-factory",
-      "source": "Runway",
-      "category": "workflow",
-      "published_iso": "2026-11-20T00:00:00Z",
-      "excerpt": "Runway describes moving from AI-assisted engineers to an AI-run delivery line 'one station at a time', with agents handling stages of its software pipeline. (Vendor engineering post, date-only; a third-party summary cites approval waits cut to five minutes, not verified in body.)",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/software-factory-dusk.webp"
-    },
-    {
-      "title": "Etsy says it will not use sellers' content to train AI after they revolt over policy changes",
-      "url": "https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/",
-      "source": "Engadget",
-      "category": "workflow",
-      "published_iso": "2026-11-21T14:25:25Z",
-      "excerpt": "After artists and makers left Etsy over a new AI-training clause in its terms of use, Etsy clarified it will not use sellers' content to train AI that can copy their work. Follow-up to the 11-18 Creative Bloq exodus story.",
-      "og_image": "https://www.engadget.com/img/gallery/etsy-says-it-will-not-use-sellers-content-to-train-ai-after-they-revolt-over-policy-changes/l-intro-1795270607.jpg"
-    },
-    {
-      "title": "Student Creators Harness AI In Storytelling",
-      "url": "https://www.research.autodesk.com/blog/student-creators-harness-ai-in-storytelling/",
-      "source": "Autodesk Research",
-      "category": "workflow",
-      "published_iso": "2026-11-20T21:05:48Z",
-      "excerpt": "Autodesk Research describes a SCAD design challenge in which students used AI tools in animation and storytelling projects, and what the research team learned about how creators fold AI into their process.",
-      "og_image": "https://www.research.autodesk.com/app/uploads/2026/11/AD27_BLOG_11-RiR_SCAD_THUMB-513x342-1.jpg"
-    },
-    {
-      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
-      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-      "source": "The Decoder",
-      "category": "render",
-      "published_iso": "2026-11-19T11:18:18Z",
-      "excerpt": "Google DeepMind released Gemini 4 Neon, its fourth model in seven weeks: nearly 2x faster than Gemini 4 Carbon, ahead on most benchmarks and cheaper; rolling out in Gemini, Antigravity and the API (also live in Cursor).",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp"
-    },
-    {
-      "title": "Gemini can now be your go-to source for making GIFs",
-      "url": "https://www.androidauthority.com/gemini-gif-generation-rollout-3737901/",
-      "source": "Android Authority",
-      "category": "render",
-      "published_iso": "2026-11-20T20:10:28Z",
-      "excerpt": "Google says the Gemini app can now generate GIFs from a prompt, using its latest video-generation model (Gemini Omni 1.2 Flash). (Off-list outlet; no on-list render source covered it.)",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/gemini-logo-november-2025-2-1000w-562h.jpg"
-    },
-    {
-      "title": "XJet launches AI-driven Atelier platform for bespoke jewelry",
-      "url": "https://www.voxelmatters.com/xjet-launches-ai-driven-atelier-platform-for-bespoke-jewelry/",
-      "source": "VoxelMatters",
-      "category": "cad",
-      "published_iso": "2026-11-19T15:37:00Z",
-      "excerpt": "XJet Atelier lets users describe a charm in a few words or upload a photo; AI tools generate and refine the design, show a 360-degree preview and send it to XJet's metal 3D printers in stainless steel or sterling silver. (Page shows byline date Nov 19; time from Google News.)",
-      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/home-hero-1440-780x470.jpeg"
-    },
-    {
-      "title": "Comsol Conference 2026 highlights: Simulation and AI",
-      "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-11-20T16:34:49Z",
-      "excerpt": "Engineering.com's Comsol Conference report covers the latest COMSOL Multiphysics release and how engineers are using AI with simulation, including assistant and surrogate-model workflows.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_comsolconf-mr-thumb-1024x576.png"
-    },
-    {
-      "title": "AI News: This Is The Make or Break Week!!",
-      "url": "https://www.youtube.com/watch?v=wqNIzUmNt9M",
-      "source": "Matt Wolfe",
-      "category": "social",
-      "published_iso": "2026-11-20T19:00:16Z",
-      "excerpt": "Matt Wolfe's weekly AI roundup: hands-on tests of GPT-6.2 Astra and Sol and Gemini 4 Neon, Microsoft's latest AI releases, Gemini Notebook's website builder, HeyGen Avatar 6 and more.",
-      "og_image": "https://i.ytimg.com/vi/wqNIzUmNt9M/maxresdefault.jpg"
-    }
-  ]
+ "section": "design",
+ "now_iso": "2026-11-22T22:03:00Z",
+ "window_hours": 72,
+ "items": [
+  {
+   "title": "Adobe doesn't want to force AI down your throat (Deepa Subramaniam interview)",
+   "url": "https://www.creativebloq.com/features/its-not-meant-to-replace-your-creativity-adobes-ai-pitch-hasnt-changed-in-two-years-but-the-tools-have",
+   "source": "Creative Bloq",
+   "category": "render",
+   "published_iso": "2026-11-22T12:00:00Z",
+   "excerpt": "Adobe VP of product marketing for creative professionals Deepa Subramaniam explains how Firefly, agentic features and multi-modal workflows are reshaping the creative pro, and how Adobe handles AI anxiety by keeping AI a choice.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/uuAGGWst5eFVLY3Lmk8zKT-1920-80.jpg"
+  },
+  {
+   "title": "The attack of the giant AI design slop monster: a survivor's guide",
+   "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4",
+   "source": "UX Collective",
+   "category": "figma",
+   "published_iso": "2026-11-22T11:36:59Z",
+   "excerpt": "Expanded from a City St George's HCI talk: a UX practitioner revisits last year's AI-for-UX predictions, finds research largely automated and AI design output now competitive, and lays out how designers survive the resulting flood of AI design slop.",
+   "og_image": "https://cdn-images-1.medium.com/max/1024/1*_Ld5gyhF2uDoH6QRw7--CQ.png"
+  },
+  {
+   "title": "Prototypes have always been the most effective specification - especially with AI",
+   "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee",
+   "source": "UX Collective",
+   "category": "figma",
+   "published_iso": "2026-11-22T11:36:31Z",
+   "excerpt": "When AI lets a PM, designer or engineer build a working prototype in an afternoon, the requirements doc moves after the build; the essay (citing UX Tools' State of Prototyping) argues the spec's new job is describing a system people have already clicked.",
+   "og_image": "https://cdn-images-1.medium.com/max/1024/1*0-aD1rfjLM1wz_vxAi4mcg.png"
+  },
+  {
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source": "The Verge",
+   "category": "workflow",
+   "published_iso": "2026-11-22T13:00:00Z",
+   "excerpt": "Large language models can now redesign your TV interface and upgrade your camera firmware for you; The Verge asks whether the physical world is ready to be Claude Code-d as hobbyists vibe-code hardware UIs.",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+   "title": "The vibe code revolution: AI hackers are rewriting what your camera can do",
+   "url": "https://www.dpreview.com/articles/the-vibe-code-revolution-ai-hackers-are-rewriting-what-your-camera-can-do/",
+   "source": "DPReview",
+   "category": "workflow",
+   "published_iso": "2026-11-21T20:41:54Z",
+   "excerpt": "Hobbyists are using AI-assisted vibe coding to decompile and extend camera firmware on OM System, Sony, Nikon, Panasonic, Hasselblad and Fujifilm bodies, adding features the makers never shipped.",
+   "og_image": "https://www.dpreview.com/wp-content/uploads/2020/10/1924689625-Product-photos-OM-5_II_three_quarter_full.jpeg?w=1920"
+  },
+  {
+   "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background",
+   "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+   "source": "The Decoder",
+   "category": "workflow",
+   "published_iso": "2026-11-20T18:50:31Z",
+   "excerpt": "Google brings Computer Use to Gemini for Mac, letting the AI operate desktop apps, local files and websites in an isolated background window with a live preview while the user keeps working.",
+   "og_image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
+  },
+  {
+   "title": "Stop Making AI Agents Click Through Your Web App",
+   "url": "https://www.copilotkit.ai/blog/ai-agents-use-your-web-app-webmcp",
+   "source": "CopilotKit",
+   "category": "figma",
+   "published_iso": "2026-11-20T17:00:00Z",
+   "excerpt": "CopilotKit argues web apps built for human clicks waste agent tokens and that WebMCP should expose functions to agents directly, adding that product design must now account for how a customer's own agent renders your product inside chat.",
+   "og_image": "https://cdn.sanity.io/images/y3fjfzcd/production/296a07de2b8920f52a379db56feb1a04cdd024c6-1170x658.png?w=1200&h=630&fit=crop&auto=format"
+  },
+  {
+   "title": "Human-in-the-Loop Design: Where AI Agents Should Ask Before They Act",
+   "url": "https://dev.to/shaheryaryousaf/human-in-the-loop-design-where-ai-agents-should-ask-before-they-act-1l39",
+   "source": "DEV Community",
+   "category": "figma",
+   "published_iso": "2026-11-22T18:00:00Z",
+   "excerpt": "A practical framework for agentic UX: decide where human review belongs based on an action's impact, reversibility and who bears the cost, and design confirmation points accordingly.",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Firg7r3ljjnn7gitg49ih.png"
+  },
+  {
+   "title": "Give the agent the existing toast helper, don't invent a new alert div",
+   "url": "https://dev.to/sherotree/give-the-agent-the-existing-toast-helper-dont-invent-a-new-alert-div-20e2",
+   "source": "DEV Community",
+   "category": "tokens",
+   "published_iso": "2026-11-22T12:58:21Z",
+   "excerpt": "Coding agents tend to drop ad-hoc fixed 'Saved' banners into pages; the post shows feeding the agent the shared design-system toast helper and its live-region accessibility contract instead.",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6q6xlz6n0mpgpq4hq2y8.png"
+  },
+  {
+   "title": "Product design with AI: how the Webflow MCP brings my designs to life",
+   "url": "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6",
+   "source": "UX Planet",
+   "category": "figma",
+   "published_iso": "2026-11-22T19:44:24Z",
+   "excerpt": "A product designer replaces the manual Figma-to-Webflow rebuild and hand-scripted interactions with an AI agent driving the Webflow MCP server.",
+   "og_image": "https://cdn-images-1.medium.com/max/2600/1*9tri3zxLopYrG7Qrwjy2iA.jpeg"
+  },
+  {
+   "title": "Siemens and AGIBOT show AI agent that designs 3D printed humanoid robot grippers from a text prompt",
+   "url": "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/",
+   "source": "3D Printing Industry",
+   "category": "cad",
+   "published_iso": "2026-11-20T13:15:00Z",
+   "excerpt": "From a text prompt, a Siemens AI agent picks a gripper type for an AGIBOT humanoid, adapts its geometry in Designcenter, simulates and validates it, and prepares it for additive manufacturing, using MCP to drive the engineering software.",
+   "og_image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg"
+  },
+  {
+   "title": "Comsol Conference 2026 highlights: Simulation and AI",
+   "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+   "source": "Engineering.com",
+   "category": "cad",
+   "published_iso": "2026-11-20T16:34:49Z",
+   "excerpt": "The new Comsol release adds AI capabilities including an MCP server that connects AI agents to build models, processes and equations; a keynote split simulation AI into physical AI and agentic AI workflows.",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_comsolconf-mr-thumb-1024x576.png"
+  },
+  {
+   "title": "AI Now Sends Its To-Do List to Human Photo Editors (Fotello)",
+   "url": "https://fstoppers.com/artificial-intelligence/ai-now-sends-its-list-human-photo-editors-905615",
+   "source": "Fstoppers",
+   "category": "render",
+   "published_iso": "2026-11-21T16:03:01Z",
+   "excerpt": "Fstoppers tests Fotello's AI real-estate photo editing (wall color fixes, custom skies, AI edit requests) and finds working photographers already relying on it, with humans handling only the AI's leftovers.",
+   "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/11/fotello-i-hate-it-but-i-need-it-thumbnail.jpg.webp?itok=Tvg79zsz"
+  },
+  {
+   "title": "Annecy, Ottawa, Manchester programmers weigh in on GenAI",
+   "url": "https://www.cartoonbrew.com/artificial-intelligence/annecy-ottawa-manchester-festival-programmers-artificial-intelligence-269655.html",
+   "source": "Cartoon Brew",
+   "category": "render",
+   "published_iso": "2026-11-20T14:26:23Z",
+   "excerpt": "Marcel Jean, Chris Robinson and Steve Henderson explain where they draw the line on AI in animation festival submissions as Manchester moves to ban genAI entries.",
+   "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Festivals.jpg"
+  },
+  {
+   "title": "Forget searching for GIFs, Gemini can now make its own",
+   "url": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
+   "source": "Digital Trends",
+   "category": "render",
+   "published_iso": "2026-11-21T20:35:18Z",
+   "excerpt": "Gemini now turns text prompts, photos and videos into short looping GIFs using Google's Omni 1.2 Flash model, rolling out to AI subscribers globally and free in eight countries including South Korea.",
+   "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C630&ssl=1"
+  },
+  {
+   "title": "This artist-made Photoshop alternative has no AI and no subscription",
+   "url": "https://www.creativebloq.com/news/this-artist-made-photoshop-alt-has-no-ai-and-no-subscription",
+   "source": "Creative Bloq",
+   "category": "render",
+   "published_iso": "2026-11-20T09:00:00Z",
+   "excerpt": "An artist built NIVA, a Photoshop alternative with no generative AI and no subscription, a pointed response from creatives pushing back against AI-first editing tools.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/82aRCTrvJZD34TwJSuonjj-2560-80.jpg"
+  }
+ ]
 }

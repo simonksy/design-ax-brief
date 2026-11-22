@@ -1,623 +1,197 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "movies",
   "cards": [
     {
-      "id": "fincher-cliff-booth-ai",
+      "id": "harari-unknown-deepfake",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Fincher, AI 옹호\nCliff Booth 논란",
-      "body": "화면 속 생성 AI 지적에 David Fincher는 존재하니 써야 한다고 답했다.",
-      "mini_headline": "Fincher, 생성 AI 옹호",
-      "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-            "cap": "David Fincher가 'The Further Mis-Adventures of Cliff Booth'를 둘러싼 비판에도 화면 속 Gen AI 사용을 옹호했다."
-          },
-          {
-            "t": "p",
-            "x": "The Further Mis-Adventures of Cliff Booth는 Hollywood의 옛 시절을 향한 향수가 짙은 영화다. 그래도 David Fincher는 자신이 미래 편에 서 있다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "Quentin Tarantino가 각본을 쓴 Once Upon a Time in Hollywood(2019)의 속편이 화면에 Gen AI를 쓴 것으로 보인다는 비판이 잇따르자 Oscar 후보에 3번 오른 감독이 최근 빠르게 커 가는 이 기술을 두고 입을 열었다."
-          },
-          {
-            "t": "p",
-            "x": "“나는 러다이트(Luddite)가 아니어서 미지의 것을 두려워하지 않는다.” Fincher는 Los Angeles Times에 이렇게 말하며 “어쨌든 그것은 존재한다. 그런데 쓰지 말아야 하나?”라고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "발언이 나온 건 여러 팬이 소셜미디어에서 영화 속 AI 사용을 두고 “터무니없을 만큼 놀랍다”고 비판하던 무렵이다. 한 관객은 “Cliff Booth를 보고 완전히 낙담한 채 극장을 나왔다”고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Once Upon a Time…의 여덟 해 뒤인 1977년이 배경인 The Further Mis-Adventures of Cliff Booth는 Brad Pitt가 연기한 동명의 스턴트맨을 따라간다. 지금은 영사기사로 일하면서 Hollywood 해결사 노릇을 부업으로 하는 그가 필리핀 갱단과 도난당한 Oscar 트로피가 얽힌 음모에 휘말린다."
-          },
-          {
-            "t": "p",
-            "x": "The Further Mis-Adventures of Cliff Booth는 추수감사절에 Imax에서 먼저 상영한 뒤 12월 23일 Netflix로 공개된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Fincher defends gen AI\nin Netflix's Cliff Booth",
-          "body": "Facing claims of visible generative AI on screen, David Fincher said it exists, so filmmakers should use it.",
-          "mini_headline": "Fincher defends gen AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "David Fincher defends onscreen use of Gen AI amid criticism of 'The Further Mis-Adventures of Cliff Booth'."
-              },
-              {
-                "t": "p",
-                "x": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future."
-              },
-              {
-                "t": "p",
-                "x": "While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the rapidly growing tech."
-              },
-              {
-                "t": "p",
-                "x": "“I’m not a Luddite, so I don’t fear the unknown,” Fincher told the Los Angeles Times. Fincher added, “Well, it exists. Should we not use it?”"
-              },
-              {
-                "t": "p",
-                "x": "The comments come as several fans have taken to social media to criticize the apparent use of AI in the film as “astounding to an absurd degree,” with one viewer saying they “walked out of Cliff Booth completely gutted.”"
-              },
-              {
-                "t": "p",
-                "x": "Set in 1977, eight years after Once Upon a Time…, The Further Mis-Adventures of Cliff Booth follows Brad Pitt’s eponymous stuntman, now a projectionist who moonlights as a Hollywood fixer, getting caught up in a conspiracy that involves a Filipino gang and a stolen Oscar."
-              },
-              {
-                "t": "p",
-                "x": "Premiering Thanksgiving on Imax, The Further Mis-Adventures of Cliff Booth premieres Dec. 23 on Netflix."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Fincher, AI 옹호\nCliff Booth 논란",
-          "body": "화면 속 생성 AI 지적에 David Fincher는 존재하니 써야 한다고 답했다.",
-          "mini_headline": "Fincher, 생성 AI 옹호",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "David Fincher가 'The Further Mis-Adventures of Cliff Booth'를 둘러싼 비판에도 화면 속 Gen AI 사용을 옹호했다."
-              },
-              {
-                "t": "p",
-                "x": "The Further Mis-Adventures of Cliff Booth는 Hollywood의 옛 시절을 향한 향수가 짙은 영화다. 그래도 David Fincher는 자신이 미래 편에 서 있다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Quentin Tarantino가 각본을 쓴 Once Upon a Time in Hollywood(2019)의 속편이 화면에 Gen AI를 쓴 것으로 보인다는 비판이 잇따르자 Oscar 후보에 3번 오른 감독이 최근 빠르게 커 가는 이 기술을 두고 입을 열었다."
-              },
-              {
-                "t": "p",
-                "x": "“나는 러다이트(Luddite)가 아니어서 미지의 것을 두려워하지 않는다.” Fincher는 Los Angeles Times에 이렇게 말하며 “어쨌든 그것은 존재한다. 그런데 쓰지 말아야 하나?”라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "발언이 나온 건 여러 팬이 소셜미디어에서 영화 속 AI 사용을 두고 “터무니없을 만큼 놀랍다”고 비판하던 무렵이다. 한 관객은 “Cliff Booth를 보고 완전히 낙담한 채 극장을 나왔다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Once Upon a Time…의 여덟 해 뒤인 1977년이 배경인 The Further Mis-Adventures of Cliff Booth는 Brad Pitt가 연기한 동명의 스턴트맨을 따라간다. 지금은 영사기사로 일하면서 Hollywood 해결사 노릇을 부업으로 하는 그가 필리핀 갱단과 도난당한 Oscar 트로피가 얽힌 음모에 휘말린다."
-              },
-              {
-                "t": "p",
-                "x": "The Further Mis-Adventures of Cliff Booth는 추수감사절에 Imax에서 먼저 상영한 뒤 12월 23일 Netflix로 공개된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fincher、生成AI擁護\nCliff Booth巡り",
-          "body": "画面の生成AI指摘に、David Fincherは存在する以上使うべきだと述べた。",
-          "mini_headline": "Fincher、生成AIを擁護",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "『The Further Mis-Adventures of Cliff Booth』への批判の中、David Fincherは画面上でのGen AI使用を擁護した。"
-              },
-              {
-                "t": "p",
-                "x": "The Further Mis-Adventures of Cliff BoothはHollywoodの過去への郷愁に満ちているが、David Fincherは自らが未来を体現していると主張する。"
-              },
-              {
-                "t": "p",
-                "x": "Quentin Tarantinoが脚本を手がけたOnce Upon a Time in Hollywood（2019）の続編は、画面上でGen AIを使ったとみられる点で多くの批判を受けている。Oscarに3度ノミネートされたこの監督は、急成長するこの技術について最近考えを語った。"
-              },
-              {
-                "t": "p",
-                "x": "「私はラッダイト（Luddite）ではないので、未知のものを恐れない」とFincherはLos Angeles Timesに語った。さらに「まあ、それは存在する。使わないでおくべきか？」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、複数のファンがSNSで本作のAI使用を「ばかげたほど驚くべきもの」と批判する中で出たものだ。ある観客は「Cliff Boothを見終えて、すっかり打ちのめされて劇場を出た」と書いた。"
-              },
-              {
-                "t": "p",
-                "x": "Once Upon a Time…の八年後、1977年を舞台にしたThe Further Mis-Adventures of Cliff Boothは、Brad Pitt演じる同名のスタントマンを追う。今は映写技師として働き、Hollywoodのフィクサーを副業とする彼は、フィリピン人ギャングと盗まれたOscar像が絡む陰謀に巻き込まれる。"
-              },
-              {
-                "t": "p",
-                "x": "感謝祭にImaxで先行公開されるThe Further Mis-Adventures of Cliff Boothは、12月23日にNetflixで配信される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fincher力挺生成式AI\nCliff Booth争议",
-          "body": "面对银幕上明显使用生成式AI的指责，David Fincher称它既然存在就该用。",
-          "mini_headline": "Fincher力挺生成式AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "在《The Further Mis-Adventures of Cliff Booth》遭到批评之际，David Fincher为片中使用Gen AI辩护。"
-              },
-              {
-                "t": "p",
-                "x": "尽管The Further Mis-Adventures of Cliff Booth充满对Hollywood往昔的怀旧，David Fincher却自称代表未来。"
-              },
-              {
-                "t": "p",
-                "x": "这部由Quentin Tarantino编剧的Once Upon a Time in Hollywood（2019）续集，因银幕上疑似使用Gen AI而饱受批评；这位3次获Oscar提名的导演近日谈及了对这项快速发展技术的看法。"
-              },
-              {
-                "t": "p",
-                "x": "“我不是卢德分子（Luddite），所以我不惧怕未知，”Fincher对Los Angeles Times说。他补充道：“它已经存在了。难道我们不该用它吗？”"
-              },
-              {
-                "t": "p",
-                "x": "此番言论发表之际，多名影迷在社交媒体上批评片中明显使用AI“令人震惊到荒谬的程度”，一名观众称自己“看完Cliff Booth后彻底心碎地离场”。"
-              },
-              {
-                "t": "p",
-                "x": "影片设定在1977年，即Once Upon a Time…八年之后。The Further Mis-Adventures of Cliff Booth讲述Brad Pitt饰演的同名特技替身，如今当上放映员、兼职做Hollywood“救火员”，卷入一起涉及菲律宾帮派和一座被盗Oscar奖杯的阴谋。"
-              },
-              {
-                "t": "p",
-                "x": "The Further Mis-Adventures of Cliff Booth将于感恩节在Imax首映，12月23日登陆Netflix。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fincher defiende usar AI\nen Cliff Booth, de Netflix",
-          "body": "Ante críticas por AI generativa visible en pantalla, David Fincher dijo que existe y que los cineastas deben usarla.",
-          "mini_headline": "Fincher defiende la AI generativa",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "David Fincher defiende el uso en pantalla de Gen AI ante las críticas a 'The Further Mis-Adventures of Cliff Booth'."
-              },
-              {
-                "t": "p",
-                "x": "Aunque The Further Mis-Adventures of Cliff Booth está impregnada de nostalgia por el pasado de Hollywood, David Fincher afirma representar el futuro."
-              },
-              {
-                "t": "p",
-                "x": "Mientras muchos critican la secuela de Once Upon a Time in Hollywood (2019), escrita por Quentin Tarantino, por el aparente uso de Gen AI en pantalla, el director, nominado 3 veces al Oscar, compartió hace poco su opinión sobre esta tecnología en rápido crecimiento."
-              },
-              {
-                "t": "p",
-                "x": "“No soy un ludita (Luddite), así que no temo a lo desconocido”, dijo Fincher a Los Angeles Times. Y añadió: “Bueno, existe. ¿Acaso no deberíamos usarla?”"
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios llegan mientras varios fans critican en redes sociales el aparente uso de AI en la película como “asombroso hasta un grado absurdo”, y un espectador dijo que “salió de Cliff Booth completamente destrozado”."
-              },
-              {
-                "t": "p",
-                "x": "Ambientada en 1977, ocho años después de Once Upon a Time…, The Further Mis-Adventures of Cliff Booth sigue al doble de acción que da título al filme, interpretado por Brad Pitt, ahora proyeccionista y solucionador de problemas en Hollywood en sus ratos libres, envuelto en una conspiración con una banda filipina y un Oscar robado."
-              },
-              {
-                "t": "p",
-                "x": "Tras su estreno en Imax por el Día de Acción de Gracias, The Further Mis-Adventures of Cliff Booth llega a Netflix el 23 de diciembre."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Fincher, AI 옹호\nCliff Booth 논란",
-          "body": "화면 속 생성 AI 지적에 David Fincher는 존재하니 써야 한다고 말했다.",
-          "mini_headline": "Fincher, 생성 AI 옹호",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "David Fincher가 'The Further Mis-Adventures of Cliff Booth'를 둘러싼 비판 속에 화면 속 Gen AI 사용을 옹호했다."
-              },
-              {
-                "t": "p",
-                "x": "The Further Mis-Adventures of Cliff Booth는 Hollywood의 과거를 향한 향수로 가득하지만, David Fincher는 자신이 미래를 대변한다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Quentin Tarantino가 각본을 쓴 Once Upon a Time in Hollywood(2019)의 속편이 화면에 Gen AI를 쓴 것으로 보인다는 비판이 잇따르는 가운데, Oscar 후보에 3번 오른 이 감독이 최근 빠르게 성장하는 이 기술에 대한 생각을 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "“나는 러다이트(Luddite)가 아니어서 미지의 것을 두려워하지 않는다.” Fincher는 Los Angeles Times에 이렇게 말했다. 그는 “어쨌든 그것은 존재한다. 그런데 쓰지 말아야 하나?”라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "이 발언은 여러 팬이 소셜미디어에서 영화 속 AI 사용이 “터무니없을 만큼 놀랍다”고 비판하는 가운데 나왔다. 한 관객은 “Cliff Booth를 보고 완전히 낙담한 채 극장을 나왔다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Once Upon a Time…으로부터 여덟 해 뒤인 1977년을 배경으로 한 The Further Mis-Adventures of Cliff Booth는 Brad Pitt가 연기한 동명의 스턴트맨을 따라간다. 지금은 영사기사로 일하며 Hollywood의 해결사로 부업을 하는 그는 필리핀 갱단과 도난당한 Oscar 트로피가 얽힌 음모에 휘말린다."
-              },
-              {
-                "t": "p",
-                "x": "추수감사절에 Imax에서 먼저 공개되는 The Further Mis-Adventures of Cliff Booth는 12월 23일 Netflix에서 공개된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fincher、生成AI擁護\nCliff Booth巡り",
-          "body": "画面の生成AI指摘に、David Fincherは存在する以上使うべきだと述べた。",
-          "mini_headline": "Fincher、生成AIを擁護",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "『The Further Mis-Adventures of Cliff Booth』への批判の中、David Fincherは画面上でのGen AI使用を擁護した。"
-              },
-              {
-                "t": "p",
-                "x": "The Further Mis-Adventures of Cliff BoothはHollywoodの過去への郷愁に満ちているが、David Fincherは自らが未来を体現していると主張する。"
-              },
-              {
-                "t": "p",
-                "x": "Quentin Tarantinoが脚本を手がけたOnce Upon a Time in Hollywood（2019）の続編は、画面上でGen AIを使ったとみられる点で多くの批判を受けている。Oscarに3度ノミネートされたこの監督は、急成長するこの技術について最近考えを語った。"
-              },
-              {
-                "t": "p",
-                "x": "「私はラッダイト（Luddite）ではないので、未知のものを恐れない」とFincherはLos Angeles Timesに語った。さらに「まあ、それは存在する。使わないでおくべきか？」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、複数のファンがSNSで本作のAI使用を「ばかげたほど驚くべきもの」と批判する中で出たものだ。ある観客は「Cliff Boothを見終えて、すっかり打ちのめされて劇場を出た」と書いた。"
-              },
-              {
-                "t": "p",
-                "x": "Once Upon a Time…の八年後、1977年を舞台にしたThe Further Mis-Adventures of Cliff Boothは、Brad Pitt演じる同名のスタントマンを追う。今は映写技師として働き、Hollywoodのフィクサーを副業とする彼は、フィリピン人ギャングと盗まれたOscar像が絡む陰謀に巻き込まれる。"
-              },
-              {
-                "t": "p",
-                "x": "感謝祭にImaxで先行公開されるThe Further Mis-Adventures of Cliff Boothは、12月23日にNetflixで配信される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fincher力挺生成式AI\nCliff Booth争议",
-          "body": "面对银幕上明显使用生成式AI的指责，David Fincher称它既然存在就该用。",
-          "mini_headline": "Fincher力挺生成式AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "在《The Further Mis-Adventures of Cliff Booth》遭到批评之际，David Fincher为片中使用Gen AI辩护。"
-              },
-              {
-                "t": "p",
-                "x": "尽管The Further Mis-Adventures of Cliff Booth充满对Hollywood往昔的怀旧，David Fincher却自称代表未来。"
-              },
-              {
-                "t": "p",
-                "x": "这部由Quentin Tarantino编剧的Once Upon a Time in Hollywood（2019）续集，因银幕上疑似使用Gen AI而饱受批评；这位3次获Oscar提名的导演近日谈及了对这项快速发展技术的看法。"
-              },
-              {
-                "t": "p",
-                "x": "“我不是卢德分子（Luddite），所以我不惧怕未知，”Fincher对Los Angeles Times说。他补充道：“它已经存在了。难道我们不该用它吗？”"
-              },
-              {
-                "t": "p",
-                "x": "此番言论发表之际，多名影迷在社交媒体上批评片中明显使用AI“令人震惊到荒谬的程度”，一名观众称自己“看完Cliff Booth后彻底心碎地离场”。"
-              },
-              {
-                "t": "p",
-                "x": "影片设定在1977年，即Once Upon a Time…八年之后。The Further Mis-Adventures of Cliff Booth讲述Brad Pitt饰演的同名特技替身，如今当上放映员、兼职做Hollywood“救火员”，卷入一起涉及菲律宾帮派和一座被盗Oscar奖杯的阴谋。"
-              },
-              {
-                "t": "p",
-                "x": "The Further Mis-Adventures of Cliff Booth将于感恩节在Imax首映，12月23日登陆Netflix。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fincher defiende usar AI\nen Cliff Booth, de Netflix",
-          "body": "Ante críticas por AI generativa visible en pantalla, David Fincher dijo que existe y que los cineastas deben usarla.",
-          "mini_headline": "Fincher defiende la AI generativa",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
-                "cap": "David Fincher defiende el uso en pantalla de Gen AI ante las críticas a 'The Further Mis-Adventures of Cliff Booth'."
-              },
-              {
-                "t": "p",
-                "x": "Aunque The Further Mis-Adventures of Cliff Booth está impregnada de nostalgia por el pasado de Hollywood, David Fincher afirma representar el futuro."
-              },
-              {
-                "t": "p",
-                "x": "Mientras muchos critican la secuela de Once Upon a Time in Hollywood (2019), escrita por Quentin Tarantino, por el aparente uso de Gen AI en pantalla, el director, nominado 3 veces al Oscar, compartió hace poco su opinión sobre esta tecnología en rápido crecimiento."
-              },
-              {
-                "t": "p",
-                "x": "“No soy un ludita (Luddite), así que no temo a lo desconocido”, dijo Fincher a Los Angeles Times. Y añadió: “Bueno, existe. ¿Acaso no deberíamos usarla?”"
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios llegan mientras varios fans critican en redes sociales el aparente uso de AI en la película como “asombroso hasta un grado absurdo”, y un espectador dijo que “salió de Cliff Booth completamente destrozado”."
-              },
-              {
-                "t": "p",
-                "x": "Ambientada en 1977, ocho años después de Once Upon a Time…, The Further Mis-Adventures of Cliff Booth sigue al doble de acción que da título al filme, interpretado por Brad Pitt, ahora proyeccionista y solucionador de problemas en Hollywood en sus ratos libres, envuelto en una conspiración con una banda filipina y un Oscar robado."
-              },
-              {
-                "t": "p",
-                "x": "Tras su estreno en Imax por el Día de Acción de Gracias, The Further Mis-Adventures of Cliff Booth llega a Netflix el 23 de diciembre."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "caa-lourd-no-fakes-act",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "CAA 대표 Lourd\nNO FAKES법 촉구",
-      "body": "CAA의 Bryan Lourd는 의회에 NO FAKES Act 통과를 촉구했다.",
-      "mini_headline": "CAA, NO FAKES Act 지지",
+      "headline": "Harari 딥페이크로\nSeydoux 분신 촬영",
+      "body": "AI를 경계하는 Harari도 Léa Seydoux 키스 장면엔 딥페이크를 썼다.",
+      "mini_headline": "Harari의 딥페이크 분신 장면",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/",
-      "accent": "#f5a623",
+      "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-            "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+            "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+            "cap": "Toronto International Film Festival에 참석한 'The Unknown'의 Lea Seydoux, Arthur Harari, Niels Schneider, 2026년 9월 14일 (Gareth Cattermole/Getty Images for IMDb)"
           },
           {
             "t": "p",
-            "x": "Creative Arts Agency CEO Bryan Lourd는 토요일 New York Times 오피니언 기고에서 무단 AI 딥페이크를 규제하는 NO FAKES Act를 통과시켜 달라고 의회에 요구했다. 그는 “우리 모두 원치 않는 초상 사용을 거부할 권리를 가져야 한다”고 썼다."
+            "x": "“The Unknown”의 감독 Arthur Harari는 AI가 “미끄러운 비탈길”이라며 자기 작업에서는 피하고 싶다고 말한다. 그런 그도 일요일 Marrakech Film Festival에서 Léa Seydoux 주연의 몸 바뀜 심리극이자 Palme d’Or 경쟁작인 이 영화에 딥페이크 도구를 썼다고 털어놨다."
           },
           {
             "t": "p",
-            "x": "그는 “나는 글로벌 탤런트 에이전시를 운영한다. 고객이 자신의 초상과 연기를 라이선스하도록 돕는 것도 우리 일이고, 때로는 그 상대가 AI 기업이다”라고 썼다. “의회에 계류 중인 이 법안은 업계에 필요한 것을 담고 있으며 모든 미국인을 보호할 것이다”라는 말도 보탰다."
+            "x": "“개인적으로는 써 본 적이 없다. 지금으로서는 내 작업에 그것이 들어설 자리가 보이지 않는다.” 평론가 Charles Tesson과 대담하던 Harari는 이렇게 말하고는 곧 덧붙였다. “‘The Unknown’에는 Léa Seydoux가 Léa Seydoux에게 키스하는 장면이 있는데, 그걸 위해 딥페이크 도구를 써야 했다. 하지만 그 뒤에는 사람이 있었다. 언제나 사람이 관여했다. 말하자면 그것을 프로그래밍하고 통제하는 누군가가. 그러니 원칙적으로 반대하지는 않는다.”"
           },
           {
             "t": "p",
-            "x": "Lourd는 2023년 Tom Hanks가 겪은 일을 예로 들었다. 한 치과가 젊은 시절 그의 모습을 AI 딥페이크로 만들어 광고에 썼다며 팔로워들에게 경고한 일이다. 그는 “빠진 것은 AI 시대에 그 권리를 분명히 확인하는 명확한 규칙이며, 의회는 올해가 가기 전에 이를 마련할 수 있다”고 썼다."
+            "x": "작가로서 그는 간단한 자료 조사라면 AI 도구가 “전적으로 정당하고 흥미롭다”고 봤다. 다만 “실제로 글쓰기 과정의 일부를 만드는 데” 쓰는 건 “아주 미끄러운 비탈길”이라고 했다. “한번 발을 들이면 매번 쓰지 않기가 엄청나게 어려워진다.”"
           },
           {
             "t": "p",
-            "x": "CAA는 Cate Blanchett이 지원하는 Human Consent Foundation과 손잡고, AI 모델이 초상을 수집할 때 사람들이 사용 허락을 직접 관리하도록 돕는다. New York Times가 OpenAI를 상대로 낸 소송에서는 법정 조언자 의견서에 이름을 올렸다."
-          },
-          {
-            "t": "p",
-            "x": "NO FAKES Act 지지 진영에는 SAG-AFTRA, Motion Picture Association, RIAA, Recording Academy, National Association of Broadcasters, OpenAI, AFL-CIO, YouTube, IBM 등이 이름을 올렸다."
+            "x": "Cannes 경쟁 부문에서 처음 상영된 “The Unknown”에서 Seydoux는 하룻밤을 함께 보낸 여성을 연기한다. 상대였던 사진가 David(Niels Schneider)는 깨어나 보니 그 여성의 몸에 갇혀 있다. Seydoux는 앞서 Variety에 “그 무엇도 인간성을 대신할 수 없다고 생각한다. 위협을 느끼지 않는다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "CAA's Bryan Lourd urges\nCongress to pass NO FAKES",
-          "body": "CAA's Bryan Lourd urged Congress to pass the NO FAKES Act, a federal digital-replica right he says protects everyone.",
-          "mini_headline": "CAA backs NO FAKES Act",
+          "headline": "Arthur Harari used a deepfake\nfor Léa Seydoux’s double scene",
+          "body": "Harari calls AI a slippery slope but used a deepfake tool so Léa Seydoux could kiss herself in The Unknown.",
+          "mini_headline": "Harari’s deepfake double scene",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "Lea Seydoux, Arthur Harari and Niels Schneider of 'The Unknown' at the Toronto International Film Festival, September 14, 2026 (Gareth Cattermole/Getty Images for IMDb)"
               },
               {
                 "t": "p",
-                "x": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate unauthorized AI deepfakes, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of our likeness.”"
+                "x": "“The Unknown” filmmaker Arthur Harari says AI is a “slippery slope” and one he’d prefer to avoid in his own work — even as he admitted on Sunday at the Marrakech Film Festival that he used a deepfake tool in his Palme d’Or contender, a body-swap psychodrama starring Léa Seydoux."
               },
               {
                 "t": "p",
-                "x": "“I run a global talent agency. Part of our job is to help our clients license their likenesses and performances, sometimes to AI companies,” he wrote. “The bill pending in Congress delivers what the industry needs and what will protect all Americans.”"
+                "x": "“Personally, I’ve never used it; for the time being, I don’t see any place for it in my work,” Harari said in conversation with critic Charles Tesson. Moments later he added: “At one point in ‘The Unknown,’ there is a scene where Léa Seydoux kisses Léa Seydoux, and we had to use a deepfake tool to do that. But there was a human behind it. There was always a human involved — someone who programs it, so to speak, and keeps it under control. So, I’m not against it in principle.”"
               },
               {
                 "t": "p",
-                "x": "Lourd cited Tom Hanks, who warned his followers in 2023 about a dental office using an AI deepfake of a younger version of him in an ad. “What’s missing is a bright-line rule affirming that right in the AI age, and it is one Congress can supply before the year is out,” Lourd wrote."
+                "x": "As a writer, he called AI tools “perfectly legitimate and interesting” for simple research, but using them “to actually craft parts of the writing process” was “a very slippery slope.” “Once you get a foot in the door, it becomes incredibly difficult not to use it at every turn.”"
               },
               {
                 "t": "p",
-                "x": "CAA has worked with the Cate Blanchett-backed Human Consent Foundation to help people control permissions for their likenesses if they’re scraped by AI models, and joined an amicus brief in the New York Times’ lawsuit against OpenAI."
-              },
-              {
-                "t": "p",
-                "x": "Other backers of the NO FAKES Act include SAG-AFTRA, the Motion Picture Association, the RIAA, the Recording Academy, the National Association of Broadcasters, OpenAI, the AFL-CIO, YouTube and IBM."
+                "x": "“The Unknown,” which premiered in competition at Cannes, stars Seydoux as a woman whose one-night stand, photographer David (Niels Schneider), wakes up trapped inside her body. Seydoux told Variety earlier: “I think that nothing can replace humanity. I don’t feel threatened.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "CAA 대표 Lourd\nNO FAKES법 촉구",
-          "body": "CAA의 Bryan Lourd는 의회에 NO FAKES Act 통과를 촉구했다.",
-          "mini_headline": "CAA, NO FAKES Act 지지",
+          "headline": "Harari 딥페이크로\nSeydoux 분신 촬영",
+          "body": "AI를 경계하는 Harari도 Léa Seydoux 키스 장면엔 딥페이크를 썼다.",
+          "mini_headline": "Harari의 딥페이크 분신 장면",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "Toronto International Film Festival에 참석한 'The Unknown'의 Lea Seydoux, Arthur Harari, Niels Schneider, 2026년 9월 14일 (Gareth Cattermole/Getty Images for IMDb)"
               },
               {
                 "t": "p",
-                "x": "Creative Arts Agency CEO Bryan Lourd는 토요일 New York Times 오피니언 기고에서 무단 AI 딥페이크를 규제하는 NO FAKES Act를 통과시켜 달라고 의회에 요구했다. 그는 “우리 모두 원치 않는 초상 사용을 거부할 권리를 가져야 한다”고 썼다."
+                "x": "“The Unknown”의 감독 Arthur Harari는 AI가 “미끄러운 비탈길”이라며 자기 작업에서는 피하고 싶다고 말한다. 그런 그도 일요일 Marrakech Film Festival에서 Léa Seydoux 주연의 몸 바뀜 심리극이자 Palme d’Or 경쟁작인 이 영화에 딥페이크 도구를 썼다고 털어놨다."
               },
               {
                 "t": "p",
-                "x": "그는 “나는 글로벌 탤런트 에이전시를 운영한다. 고객이 자신의 초상과 연기를 라이선스하도록 돕는 것도 우리 일이고, 때로는 그 상대가 AI 기업이다”라고 썼다. “의회에 계류 중인 이 법안은 업계에 필요한 것을 담고 있으며 모든 미국인을 보호할 것이다”라는 말도 보탰다."
+                "x": "“개인적으로는 써 본 적이 없다. 지금으로서는 내 작업에 그것이 들어설 자리가 보이지 않는다.” 평론가 Charles Tesson과 대담하던 Harari는 이렇게 말하고는 곧 덧붙였다. “‘The Unknown’에는 Léa Seydoux가 Léa Seydoux에게 키스하는 장면이 있는데, 그걸 위해 딥페이크 도구를 써야 했다. 하지만 그 뒤에는 사람이 있었다. 언제나 사람이 관여했다. 말하자면 그것을 프로그래밍하고 통제하는 누군가가. 그러니 원칙적으로 반대하지는 않는다.”"
               },
               {
                 "t": "p",
-                "x": "Lourd는 2023년 Tom Hanks가 겪은 일을 예로 들었다. 한 치과가 젊은 시절 그의 모습을 AI 딥페이크로 만들어 광고에 썼다며 팔로워들에게 경고한 일이다. 그는 “빠진 것은 AI 시대에 그 권리를 분명히 확인하는 명확한 규칙이며, 의회는 올해가 가기 전에 이를 마련할 수 있다”고 썼다."
+                "x": "작가로서 그는 간단한 자료 조사라면 AI 도구가 “전적으로 정당하고 흥미롭다”고 봤다. 다만 “실제로 글쓰기 과정의 일부를 만드는 데” 쓰는 건 “아주 미끄러운 비탈길”이라고 했다. “한번 발을 들이면 매번 쓰지 않기가 엄청나게 어려워진다.”"
               },
               {
                 "t": "p",
-                "x": "CAA는 Cate Blanchett이 지원하는 Human Consent Foundation과 손잡고, AI 모델이 초상을 수집할 때 사람들이 사용 허락을 직접 관리하도록 돕는다. New York Times가 OpenAI를 상대로 낸 소송에서는 법정 조언자 의견서에 이름을 올렸다."
-              },
-              {
-                "t": "p",
-                "x": "NO FAKES Act 지지 진영에는 SAG-AFTRA, Motion Picture Association, RIAA, Recording Academy, National Association of Broadcasters, OpenAI, AFL-CIO, YouTube, IBM 등이 이름을 올렸다."
+                "x": "Cannes 경쟁 부문에서 처음 상영된 “The Unknown”에서 Seydoux는 하룻밤을 함께 보낸 여성을 연기한다. 상대였던 사진가 David(Niels Schneider)는 깨어나 보니 그 여성의 몸에 갇혀 있다. Seydoux는 앞서 Variety에 “그 무엇도 인간성을 대신할 수 없다고 생각한다. 위협을 느끼지 않는다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CAAのLourd氏が\n議会にNO FAKES法要請",
-          "body": "CAAのBryan Lourd氏は、議会にNO FAKES Actの可決を求めた。",
-          "mini_headline": "CAA、NO FAKES Actを支持",
+          "headline": "Harari、Seydoux\n分身にディープフェイク",
+          "body": "HarariはAIを警戒しつつ、ディープフェイクでSeydouxの自分とのキスを撮った。",
+          "mini_headline": "Harariのディープフェイク分身場面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "Toronto International Film Festivalに出席した『The Unknown』のLea Seydoux、Arthur Harari、Niels Schneider、2026年9月14日(Gareth Cattermole/Getty Images for IMDb)"
               },
               {
                 "t": "p",
-                "x": "Creative Arts AgencyのCEO、Bryan Lourd氏は土曜日、New York Timesのオピニオン欄への寄稿で、無断のAIディープフェイクを規制するNO FAKES Actの可決を議会に求めた。「私たちは誰もが、望まない形で自分の肖像が使われることを拒む権利を持つべきだ」と記した。"
+                "x": "「The Unknown」の監督Arthur Harariは、AIは「滑りやすい坂」であり、自身の作品では避けたいと語る。その一方で日曜日、Marrakech Film Festivalで、Léa Seydoux主演の入れ替わり心理劇でありPalme d’Or候補作となった同作でディープフェイクツールを使ったことを認めた。"
               },
               {
                 "t": "p",
-                "x": "「私はグローバルなタレントエージェンシーを経営している。顧客が自らの肖像や演技をライセンスするのを手助けするのも私たちの仕事であり、その相手がAI企業のこともある」と同氏は書いた。「議会で審議中の法案は、業界が必要とするものをもたらし、すべての米国人を守るものだ」"
+                "x": "「個人的には使ったことがない。今のところ、自分の作品にそれが入り込む余地は見当たらない」。Harariは批評家Charles Tessonとの対談でこう語った。そして少し後にこう付け加えた。「『The Unknown』には、Léa SeydouxがLéa Seydouxにキスする場面がある。そのためにディープフェイクツールを使わざるを得なかった。だがその背後には人間がいた。常に人間が関わっていた。いわばそれをプログラムし、制御下に置く誰かだ。だから原則として反対ではない」"
               },
               {
                 "t": "p",
-                "x": "Lourd氏は、2023年に歯科医院が若い頃の自分のAIディープフェイクを広告に使っているとフォロワーに警告したTom Hanksを例に挙げた。「欠けているのは、AI時代にその権利を確認する明確なルールであり、議会は年内にそれを用意できる」と書いた。"
+                "x": "書き手としては、簡単なリサーチにAIツールを使うのは「まったく正当で興味深い」としたが、「実際に執筆過程の一部を作り上げる」ために使うのは「非常に滑りやすい坂」だと述べた。「一度足を踏み入れると、あらゆる場面で使わずにいるのが信じられないほど難しくなる」"
               },
               {
                 "t": "p",
-                "x": "CAAはCate Blanchettが支援するHuman Consent Foundationと協力し、AIモデルに肖像を収集された場合に本人が利用許可を管理できるよう支援してきた。また、New York TimesがOpenAIを相手取った訴訟ではアミカス・ブリーフに加わった。"
-              },
-              {
-                "t": "p",
-                "x": "NO FAKES Actの支持者には、SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube、IBMなどが名を連ねる。"
+                "x": "Cannesのコンペティション部門で初上映された「The Unknown」で、Seydouxは一夜を共にした写真家David(Niels Schneider)が目覚めると自分の体の中に閉じ込められていた女性を演じる。Seydouxは以前Varietyに「人間性に代わるものは何もないと思う。脅威は感じていない」と語っていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CAA的Lourd呼吁国会\n通过NO FAKES法案",
-          "body": "CAA的Bryan Lourd呼吁国会通过NO FAKES Act，称其保护每个人。",
-          "mini_headline": "CAA支持NO FAKES Act",
+          "headline": "Harari用深度伪造\n拍Seydoux分身戏",
+          "body": "Harari称AI是危险的滑坡，却用深度伪造工具让Léa Seydoux亲吻自己。",
+          "mini_headline": "Harari的深度伪造分身戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "《The Unknown》的Lea Seydoux、Arthur Harari与Niels Schneider出席Toronto International Film Festival，2026年9月14日（Gareth Cattermole/Getty Images for IMDb）"
               },
               {
                 "t": "p",
-                "x": "Creative Arts Agency首席执行官Bryan Lourd周六在New York Times发表评论文章，敦促国会通过旨在规范未经授权AI深度伪造的NO FAKES Act。他写道：“我们每个人都应有权拒绝他人以不受欢迎的方式使用我们的肖像。”"
+                "x": "《The Unknown》导演Arthur Harari表示，AI是一道“滑坡”，他宁愿在自己的创作中避开它——但他周日在Marrakech Film Festival上也承认，在这部由Léa Seydoux主演、讲述身体互换的心理剧、角逐Palme d’Or的作品中，他使用了深度伪造工具。"
               },
               {
                 "t": "p",
-                "x": "“我经营一家全球人才经纪公司。我们的部分工作是帮助客户授权使用他们的肖像和表演，有时授权对象就是AI公司，”他写道。“国会正在审议的这项法案满足了行业所需，也将保护所有美国人。”"
+                "x": "“就我个人而言，我从未用过它；至少目前，我看不到它在我的作品中有什么位置。”Harari在与影评人Charles Tesson对谈时说。片刻后他补充道：“《The Unknown》里有一场戏，Léa Seydoux亲吻Léa Seydoux，我们不得不用深度伪造工具来完成。但背后有人。始终有人参与——可以说，是有人在编程，并让它处于掌控之中。所以，原则上我并不反对。”"
               },
               {
                 "t": "p",
-                "x": "Lourd援引了Tom Hanks的例子：2023年，Tom Hanks曾提醒粉丝，一家牙科诊所在广告中使用了他年轻时的AI深度伪造形象。Lourd写道：“缺少的是一条在AI时代确认这项权利的明确规则，而国会可以在年底前提供。”"
+                "x": "作为编剧，他认为将AI工具用于简单的资料查询“完全正当，也很有意思”，但用它们“真正去构建写作过程的一部分”则是“一道非常危险的滑坡”。“一旦迈出第一步，就会变得极难不在每个环节都使用它。”"
               },
               {
                 "t": "p",
-                "x": "CAA曾与Cate Blanchett支持的Human Consent Foundation合作，帮助人们在肖像被AI模型抓取时掌控使用许可，并在New York Times起诉OpenAI一案中加入了法庭之友意见书。"
-              },
-              {
-                "t": "p",
-                "x": "NO FAKES Act的其他支持者包括SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube和IBM。"
+                "x": "《The Unknown》在Cannes主竞赛单元首映，Seydoux饰演一名女子，她的一夜情对象、摄影师David（Niels Schneider）醒来后发现自己被困在她的身体里。Seydoux此前对Variety表示：“我认为没有什么能取代人性。我并不感到受威胁。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bryan Lourd, de CAA, insta al\nCongreso a aprobar NO FAKES",
-          "body": "Bryan Lourd (CAA) instó al Congreso a aprobar la NO FAKES Act, un derecho federal de réplica digital para todos.",
-          "mini_headline": "CAA respalda la NO FAKES Act",
+          "headline": "Arthur Harari usó un deepfake\npara duplicar a Léa Seydoux",
+          "body": "Harari ve la AI como un riesgo, pero usó un deepfake para que Léa Seydoux se besara a sí misma en The Unknown.",
+          "mini_headline": "El doble deepfake de Harari",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "Lea Seydoux, Arthur Harari y Niels Schneider, de 'The Unknown', en el Toronto International Film Festival, 14 de septiembre de 2026 (Gareth Cattermole/Getty Images for IMDb)"
               },
               {
                 "t": "p",
-                "x": "El CEO de Creative Arts Agency, Bryan Lourd, instó el sábado al Congreso a aprobar la NO FAKES Act, un proyecto de ley que regularía los deepfakes de AI no autorizados, en una columna de opinión en el New York Times donde escribió que “cada uno de nosotros debería tener derecho a negarse a un uso no deseado de su imagen”."
+                "x": "Arthur Harari, director de “The Unknown”, afirma que la AI es una “pendiente resbaladiza” que prefiere evitar en su propio trabajo, aunque el domingo, en el Marrakech Film Festival, admitió que usó una herramienta de deepfake en su película aspirante a la Palme d’Or, un drama psicológico de intercambio de cuerpos protagonizado por Léa Seydoux."
               },
               {
                 "t": "p",
-                "x": "“Dirijo una agencia de talento global. Parte de nuestro trabajo es ayudar a nuestros clientes a licenciar su imagen y sus interpretaciones, a veces a empresas de AI”, escribió. “El proyecto pendiente en el Congreso ofrece lo que la industria necesita y lo que protegerá a todos los estadounidenses”."
+                "x": "“Personalmente, nunca la he usado; por ahora no veo lugar para ella en mi trabajo”, dijo Harari en una conversación con el crítico Charles Tesson. Momentos después añadió: “En un momento de ‘The Unknown’ hay una escena en la que Léa Seydoux besa a Léa Seydoux, y tuvimos que usar una herramienta de deepfake para hacerlo. Pero había un humano detrás. Siempre hubo un humano involucrado, alguien que la programa, por así decirlo, y la mantiene bajo control. Así que, en principio, no estoy en contra”."
               },
               {
                 "t": "p",
-                "x": "Lourd citó a Tom Hanks, quien en 2023 advirtió a sus seguidores sobre una clínica dental que usaba en un anuncio un deepfake de AI de una versión más joven de él. “Lo que falta es una regla clara que afirme ese derecho en la era de la AI, y es algo que el Congreso puede aportar antes de que termine el año”, escribió Lourd."
+                "x": "Como guionista, calificó las herramientas de AI de “perfectamente legítimas e interesantes” para investigaciones sencillas, pero usarlas “para elaborar de verdad partes del proceso de escritura” es “una pendiente muy resbaladiza”. “Una vez que metes un pie en la puerta, se vuelve increíblemente difícil no usarla a cada paso”."
               },
               {
                 "t": "p",
-                "x": "CAA ha colaborado con la Human Consent Foundation, respaldada por Cate Blanchett, para ayudar a las personas a controlar los permisos sobre su imagen si los modelos de AI la recopilan, y se sumó a un escrito amicus en la demanda del New York Times contra OpenAI."
-              },
-              {
-                "t": "p",
-                "x": "Otros partidarios de la NO FAKES Act son SAG-AFTRA, la Motion Picture Association, la RIAA, la Recording Academy, la National Association of Broadcasters, OpenAI, la AFL-CIO, YouTube e IBM."
+                "x": "“The Unknown”, que se estrenó en la competición de Cannes, está protagonizada por Seydoux en el papel de una mujer cuyo amante de una noche, el fotógrafo David (Niels Schneider), despierta atrapado dentro de su cuerpo. Seydoux dijo antes a Variety: “Creo que nada puede reemplazar a la humanidad. No me siento amenazada”."
               }
             ]
           }
@@ -625,141 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "CAA 대표 Lourd\nNO FAKES법 촉구",
-          "body": "CAA의 Bryan Lourd는 의회에 NO FAKES Act 통과를 촉구했다.",
-          "mini_headline": "CAA, NO FAKES Act 지지",
+          "headline": "Harari 딥페이크로\nSeydoux 분신 촬영",
+          "body": "Harari는 AI를 경계하나 Léa Seydoux 키스 장면에 딥페이크를 썼다.",
+          "mini_headline": "Harari의 딥페이크 분신 장면",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "Toronto International Film Festival에 참석한 'The Unknown'의 Lea Seydoux, Arthur Harari, Niels Schneider, 2026년 9월 14일 (Gareth Cattermole/Getty Images for IMDb)"
               },
               {
                 "t": "p",
-                "x": "Creative Arts Agency CEO Bryan Lourd는 토요일 New York Times 오피니언 기고에서 무단 AI 딥페이크를 규제하는 법안인 NO FAKES Act를 통과시켜 달라고 의회에 촉구하며 “우리 모두 원치 않는 초상 사용을 거부할 권리를 가져야 한다”고 썼다."
+                "x": "“The Unknown”의 감독 Arthur Harari는 AI가 “미끄러운 비탈길”이며 자기 작업에서는 피하고 싶다고 말한다. 그러면서도 그는 일요일 Marrakech Film Festival에서 Léa Seydoux가 주연한 몸 바뀜 심리극이자 Palme d’Or 경쟁작인 이 영화에 딥페이크 도구를 썼다고 인정했다."
               },
               {
                 "t": "p",
-                "x": "그는 “나는 글로벌 탤런트 에이전시를 운영한다. 고객이 자신의 초상과 연기를 라이선스하도록 돕는 것도 우리 일이고, 때로는 그 상대가 AI 기업이다”라고 썼다. 이어 “의회에 계류 중인 이 법안은 업계에 필요한 것을 담고 있으며 모든 미국인을 보호할 것이다”라고 했다."
+                "x": "“개인적으로는 써 본 적이 없다. 지금으로서는 내 작업에 그것이 들어설 자리가 보이지 않는다.” Harari는 평론가 Charles Tesson과의 대담에서 이렇게 말했다. 잠시 뒤 그는 덧붙였다. “‘The Unknown’에는 Léa Seydoux가 Léa Seydoux에게 키스하는 장면이 있는데, 그걸 위해 딥페이크 도구를 써야 했다. 하지만 그 뒤에는 사람이 있었다. 언제나 사람이 관여했다. 말하자면 그것을 프로그래밍하고 통제하는 누군가가. 그러니 원칙적으로 반대하지는 않는다.”"
               },
               {
                 "t": "p",
-                "x": "Lourd는 2023년 한 치과가 젊은 시절 자신의 모습을 AI 딥페이크로 만들어 광고에 썼다고 팔로워들에게 경고한 Tom Hanks를 예로 들었다. 그는 “빠진 것은 AI 시대에 그 권리를 분명히 확인하는 명확한 규칙이며, 의회는 올해가 가기 전에 이를 마련할 수 있다”고 썼다."
+                "x": "작가로서 그는 AI 도구가 간단한 자료 조사에는 “전적으로 정당하고 흥미롭다”고 했지만, “실제로 글쓰기 과정의 일부를 만드는 데” 쓰는 것은 “아주 미끄러운 비탈길”이라고 했다. “한번 발을 들이면 매번 쓰지 않기가 엄청나게 어려워진다.”"
               },
               {
                 "t": "p",
-                "x": "CAA는 Cate Blanchett이 지원하는 Human Consent Foundation과 손잡고 AI 모델이 초상을 수집할 경우 사람들이 사용 허락을 직접 관리할 수 있도록 돕고 있으며, OpenAI를 상대로 한 New York Times의 소송에서 법정 조언자 의견서에도 이름을 올렸다."
-              },
-              {
-                "t": "p",
-                "x": "NO FAKES Act를 지지하는 곳으로는 SAG-AFTRA, Motion Picture Association, RIAA, Recording Academy, National Association of Broadcasters, OpenAI, AFL-CIO, YouTube, IBM 등이 있다."
+                "x": "Cannes 경쟁 부문에서 처음 상영된 “The Unknown”에서 Seydoux는 하룻밤 상대였던 사진가 David(Niels Schneider)가 깨어나 보니 자기 몸에 갇혀 버린 여성을 연기한다. Seydoux는 앞서 Variety에 “그 무엇도 인간성을 대신할 수 없다고 생각한다. 위협을 느끼지 않는다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CAAのLourd氏が\n議会にNO FAKES法要請",
-          "body": "CAAのBryan Lourd氏は、議会にNO FAKES Actの可決を求めた。",
-          "mini_headline": "CAA、NO FAKES Actを支持",
+          "headline": "Harari、Seydoux\n分身にディープフェイク",
+          "body": "HarariはAIを警戒しつつ、ディープフェイクでSeydouxの自分とのキスを撮った。",
+          "mini_headline": "Harariのディープフェイク分身場面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "Toronto International Film Festivalに出席した『The Unknown』のLea Seydoux、Arthur Harari、Niels Schneider、2026年9月14日(Gareth Cattermole/Getty Images for IMDb)"
               },
               {
                 "t": "p",
-                "x": "Creative Arts AgencyのCEO、Bryan Lourd氏は土曜日、New York Timesのオピニオン欄への寄稿で、無断のAIディープフェイクを規制するNO FAKES Actの可決を議会に求めた。「私たちは誰もが、望まない形で自分の肖像が使われることを拒む権利を持つべきだ」と記した。"
+                "x": "「The Unknown」の監督Arthur Harariは、AIは「滑りやすい坂」であり、自身の作品では避けたいと語る。その一方で日曜日、Marrakech Film Festivalで、Léa Seydoux主演の入れ替わり心理劇でありPalme d’Or候補作となった同作でディープフェイクツールを使ったことを認めた。"
               },
               {
                 "t": "p",
-                "x": "「私はグローバルなタレントエージェンシーを経営している。顧客が自らの肖像や演技をライセンスするのを手助けするのも私たちの仕事であり、その相手がAI企業のこともある」と同氏は書いた。「議会で審議中の法案は、業界が必要とするものをもたらし、すべての米国人を守るものだ」"
+                "x": "「個人的には使ったことがない。今のところ、自分の作品にそれが入り込む余地は見当たらない」。Harariは批評家Charles Tessonとの対談でこう語った。そして少し後にこう付け加えた。「『The Unknown』には、Léa SeydouxがLéa Seydouxにキスする場面がある。そのためにディープフェイクツールを使わざるを得なかった。だがその背後には人間がいた。常に人間が関わっていた。いわばそれをプログラムし、制御下に置く誰かだ。だから原則として反対ではない」"
               },
               {
                 "t": "p",
-                "x": "Lourd氏は、2023年に歯科医院が若い頃の自分のAIディープフェイクを広告に使っているとフォロワーに警告したTom Hanksを例に挙げた。「欠けているのは、AI時代にその権利を確認する明確なルールであり、議会は年内にそれを用意できる」と書いた。"
+                "x": "書き手としては、簡単なリサーチにAIツールを使うのは「まったく正当で興味深い」としたが、「実際に執筆過程の一部を作り上げる」ために使うのは「非常に滑りやすい坂」だと述べた。「一度足を踏み入れると、あらゆる場面で使わずにいるのが信じられないほど難しくなる」"
               },
               {
                 "t": "p",
-                "x": "CAAはCate Blanchettが支援するHuman Consent Foundationと協力し、AIモデルに肖像を収集された場合に本人が利用許可を管理できるよう支援してきた。また、New York TimesがOpenAIを相手取った訴訟ではアミカス・ブリーフに加わった。"
-              },
-              {
-                "t": "p",
-                "x": "NO FAKES Actの支持者には、SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube、IBMなどが名を連ねる。"
+                "x": "Cannesのコンペティション部門で初上映された「The Unknown」で、Seydouxは一夜を共にした写真家David(Niels Schneider)が目覚めると自分の体の中に閉じ込められていた女性を演じる。Seydouxは以前Varietyに「人間性に代わるものは何もないと思う。脅威は感じていない」と語っていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CAA的Lourd呼吁国会\n通过NO FAKES法案",
-          "body": "CAA的Bryan Lourd呼吁国会通过NO FAKES Act，称其保护每个人。",
-          "mini_headline": "CAA支持NO FAKES Act",
+          "headline": "Harari用深度伪造\n拍Seydoux分身戏",
+          "body": "Harari称AI是危险的滑坡，却用深度伪造工具让Léa Seydoux亲吻自己。",
+          "mini_headline": "Harari的深度伪造分身戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "《The Unknown》的Lea Seydoux、Arthur Harari与Niels Schneider出席Toronto International Film Festival，2026年9月14日（Gareth Cattermole/Getty Images for IMDb）"
               },
               {
                 "t": "p",
-                "x": "Creative Arts Agency首席执行官Bryan Lourd周六在New York Times发表评论文章，敦促国会通过旨在规范未经授权AI深度伪造的NO FAKES Act。他写道：“我们每个人都应有权拒绝他人以不受欢迎的方式使用我们的肖像。”"
+                "x": "《The Unknown》导演Arthur Harari表示，AI是一道“滑坡”，他宁愿在自己的创作中避开它——但他周日在Marrakech Film Festival上也承认，在这部由Léa Seydoux主演、讲述身体互换的心理剧、角逐Palme d’Or的作品中，他使用了深度伪造工具。"
               },
               {
                 "t": "p",
-                "x": "“我经营一家全球人才经纪公司。我们的部分工作是帮助客户授权使用他们的肖像和表演，有时授权对象就是AI公司，”他写道。“国会正在审议的这项法案满足了行业所需，也将保护所有美国人。”"
+                "x": "“就我个人而言，我从未用过它；至少目前，我看不到它在我的作品中有什么位置。”Harari在与影评人Charles Tesson对谈时说。片刻后他补充道：“《The Unknown》里有一场戏，Léa Seydoux亲吻Léa Seydoux，我们不得不用深度伪造工具来完成。但背后有人。始终有人参与——可以说，是有人在编程，并让它处于掌控之中。所以，原则上我并不反对。”"
               },
               {
                 "t": "p",
-                "x": "Lourd援引了Tom Hanks的例子：2023年，Tom Hanks曾提醒粉丝，一家牙科诊所在广告中使用了他年轻时的AI深度伪造形象。Lourd写道：“缺少的是一条在AI时代确认这项权利的明确规则，而国会可以在年底前提供。”"
+                "x": "作为编剧，他认为将AI工具用于简单的资料查询“完全正当，也很有意思”，但用它们“真正去构建写作过程的一部分”则是“一道非常危险的滑坡”。“一旦迈出第一步，就会变得极难不在每个环节都使用它。”"
               },
               {
                 "t": "p",
-                "x": "CAA曾与Cate Blanchett支持的Human Consent Foundation合作，帮助人们在肖像被AI模型抓取时掌控使用许可，并在New York Times起诉OpenAI一案中加入了法庭之友意见书。"
-              },
-              {
-                "t": "p",
-                "x": "NO FAKES Act的其他支持者包括SAG-AFTRA、Motion Picture Association、RIAA、Recording Academy、National Association of Broadcasters、OpenAI、AFL-CIO、YouTube和IBM。"
+                "x": "《The Unknown》在Cannes主竞赛单元首映，Seydoux饰演一名女子，她的一夜情对象、摄影师David（Niels Schneider）醒来后发现自己被困在她的身体里。Seydoux此前对Variety表示：“我认为没有什么能取代人性。我并不感到受威胁。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bryan Lourd, de CAA, insta al\nCongreso a aprobar NO FAKES",
-          "body": "Bryan Lourd (CAA) instó al Congreso a aprobar la NO FAKES Act, un derecho federal de réplica digital para todos.",
-          "mini_headline": "CAA respalda la NO FAKES Act",
+          "headline": "Arthur Harari usó un deepfake\npara duplicar a Léa Seydoux",
+          "body": "Harari ve la AI como un riesgo, pero usó un deepfake para que Léa Seydoux se besara a sí misma en The Unknown.",
+          "mini_headline": "El doble deepfake de Harari",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg?w=1000&h=563&crop=1",
-                "cap": "Bryan Lourd (Jacopo M. Raule/Getty Images for Prada)"
+                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
+                "cap": "Lea Seydoux, Arthur Harari y Niels Schneider, de 'The Unknown', en el Toronto International Film Festival, 14 de septiembre de 2026 (Gareth Cattermole/Getty Images for IMDb)"
               },
               {
                 "t": "p",
-                "x": "El CEO de Creative Arts Agency, Bryan Lourd, instó el sábado al Congreso a aprobar la NO FAKES Act, un proyecto de ley que regularía los deepfakes de AI no autorizados, en una columna de opinión en el New York Times donde escribió que “cada uno de nosotros debería tener derecho a negarse a un uso no deseado de su imagen”."
+                "x": "Arthur Harari, director de “The Unknown”, afirma que la AI es una “pendiente resbaladiza” que prefiere evitar en su propio trabajo, aunque el domingo, en el Marrakech Film Festival, admitió que usó una herramienta de deepfake en su película aspirante a la Palme d’Or, un drama psicológico de intercambio de cuerpos protagonizado por Léa Seydoux."
               },
               {
                 "t": "p",
-                "x": "“Dirijo una agencia de talento global. Parte de nuestro trabajo es ayudar a nuestros clientes a licenciar su imagen y sus interpretaciones, a veces a empresas de AI”, escribió. “El proyecto pendiente en el Congreso ofrece lo que la industria necesita y lo que protegerá a todos los estadounidenses”."
+                "x": "“Personalmente, nunca la he usado; por ahora no veo lugar para ella en mi trabajo”, dijo Harari en una conversación con el crítico Charles Tesson. Momentos después añadió: “En un momento de ‘The Unknown’ hay una escena en la que Léa Seydoux besa a Léa Seydoux, y tuvimos que usar una herramienta de deepfake para hacerlo. Pero había un humano detrás. Siempre hubo un humano involucrado, alguien que la programa, por así decirlo, y la mantiene bajo control. Así que, en principio, no estoy en contra”."
               },
               {
                 "t": "p",
-                "x": "Lourd citó a Tom Hanks, quien en 2023 advirtió a sus seguidores sobre una clínica dental que usaba en un anuncio un deepfake de AI de una versión más joven de él. “Lo que falta es una regla clara que afirme ese derecho en la era de la AI, y es algo que el Congreso puede aportar antes de que termine el año”, escribió Lourd."
+                "x": "Como guionista, calificó las herramientas de AI de “perfectamente legítimas e interesantes” para investigaciones sencillas, pero usarlas “para elaborar de verdad partes del proceso de escritura” es “una pendiente muy resbaladiza”. “Una vez que metes un pie en la puerta, se vuelve increíblemente difícil no usarla a cada paso”."
               },
               {
                 "t": "p",
-                "x": "CAA ha colaborado con la Human Consent Foundation, respaldada por Cate Blanchett, para ayudar a las personas a controlar los permisos sobre su imagen si los modelos de AI la recopilan, y se sumó a un escrito amicus en la demanda del New York Times contra OpenAI."
-              },
-              {
-                "t": "p",
-                "x": "Otros partidarios de la NO FAKES Act son SAG-AFTRA, la Motion Picture Association, la RIAA, la Recording Academy, la National Association of Broadcasters, OpenAI, la AFL-CIO, YouTube e IBM."
+                "x": "“The Unknown”, que se estrenó en la competición de Cannes, está protagonizada por Seydoux en el papel de una mujer cuyo amante de una noche, el fotógrafo David (Niels Schneider), despierta atrapado dentro de su cuerpo. Seydoux dijo antes a Variety: “Creo que nada puede reemplazar a la humanidad. No me siento amenazada”."
               }
             ]
           }
@@ -767,15 +325,337 @@
       }
     },
     {
-      "id": "raphael-mbc-ai-feature-review",
+      "id": "bisff-ai-competition",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "부산국제단편영화제\nAI경쟁 부문 신설",
+      "body": "부산국제단편영화제가 제44회 AI경쟁 부문 출품 공모를 11월 9일 시작했다.",
+      "mini_headline": "부산단편영화제 AI경쟁",
+      "tool": "Movies",
+      "source": "인디포커스",
+      "url": "http://www.indifocus.kr/84113",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "부산국제단편영화제(BISFF)가 2027년 4월 열리는 제44회 영화제의 인공지능(AI)경쟁 부문 출품 공모를 지난 11월 9일(월)부터 시작했다. AI경쟁은 제44회에서 처음 선보이는 경쟁 부문으로, 주제와 장르의 제한 없이 생성형 인공지능(AI)을 활용한 영화를 모집한다."
+          },
+          {
+            "t": "img",
+            "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+            "cap": "제44회 부산국제단편영화제, 인공지능(AI)경쟁 부문 출품 공모 © 김중건"
+          },
+          {
+            "t": "p",
+            "x": "접수는 2027년 1월 11일(월)까지 이어진다. 12월 6일(일)까지는 얼리버드 출품료 11유로(약 1만 7,000원), 이후 마감일까지는 일반 출품료 15유로(약 2만 3,000원)가 적용된다. 출품 대상은 2026년 1월 1일 이후 완성된 30분 미만(최대 29분 59초)의 단편영화로, 주요 창작 과정에 생성형 AI를 활용한 한국 프리미어 작품이어야 하며, AI 활용 사실과 사용 도구를 밝히고 제작 과정을 확인할 수 있는 자료를 함께 제출해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "선정작은 2027년 3월 5일(금) 발표되며, 영화제는 4월 22일(목)부터 27일(화)까지 부산에서 열린다. 시상은 인공지능상과 Artefact MK2상 두 부문으로, 부문별로 상금 300만 원과 트로피가 수여된다. Artefact MK2상은 BISFF가 지난 10월 프랑스 아트팩트 AI 영화제(AAIFF)와 맺은 업무협약에 따라 마련됐으며, 두 영화제가 서로의 후보작을 교차 심사해 수상작을 가린다."
+          },
+          {
+            "t": "p",
+            "x": "이상훈 BISFF 부위원장 겸 예술감독은 “우리가 보려는 것은 AI를 얼마나 썼느냐가 아니다. 창작자가 포착한 현실과 AI가 빚어낸 상상이 한 프레임 안에서 함께 숨 쉬는 순간에 비로소 영화가 태어난다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "부산국제단편영화제\nAI경쟁 부문 신설",
+          "body": "부산국제단편영화제가 제44회 AI경쟁 부문 출품 공모를 11월 9일 시작했다.",
+          "mini_headline": "부산단편영화제 AI경쟁",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "부산국제단편영화제(BISFF)가 2027년 4월 열리는 제44회 영화제의 인공지능(AI)경쟁 부문 출품 공모를 지난 11월 9일(월)부터 시작했다. AI경쟁은 제44회에서 처음 선보이는 경쟁 부문으로, 주제와 장르의 제한 없이 생성형 인공지능(AI)을 활용한 영화를 모집한다."
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "제44회 부산국제단편영화제, 인공지능(AI)경쟁 부문 출품 공모 © 김중건"
+              },
+              {
+                "t": "p",
+                "x": "접수는 2027년 1월 11일(월)까지 이어진다. 12월 6일(일)까지는 얼리버드 출품료 11유로(약 1만 7,000원), 이후 마감일까지는 일반 출품료 15유로(약 2만 3,000원)가 적용된다. 출품 대상은 2026년 1월 1일 이후 완성된 30분 미만(최대 29분 59초)의 단편영화로, 주요 창작 과정에 생성형 AI를 활용한 한국 프리미어 작품이어야 하며, AI 활용 사실과 사용 도구를 밝히고 제작 과정을 확인할 수 있는 자료를 함께 제출해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "선정작은 2027년 3월 5일(금) 발표되며, 영화제는 4월 22일(목)부터 27일(화)까지 부산에서 열린다. 시상은 인공지능상과 Artefact MK2상 두 부문으로, 부문별로 상금 300만 원과 트로피가 수여된다. Artefact MK2상은 BISFF가 지난 10월 프랑스 아트팩트 AI 영화제(AAIFF)와 맺은 업무협약에 따라 마련됐으며, 두 영화제가 서로의 후보작을 교차 심사해 수상작을 가린다."
+              },
+              {
+                "t": "p",
+                "x": "이상훈 BISFF 부위원장 겸 예술감독은 “우리가 보려는 것은 AI를 얼마나 썼느냐가 아니다. 창작자가 포착한 현실과 AI가 빚어낸 상상이 한 프레임 안에서 함께 숨 쉬는 순간에 비로소 영화가 태어난다”고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Busan Int’l Short Film Festival\nadds new AI competition",
+          "body": "The Busan International Short Film Festival opened entries for the AI competition of its 44th edition on November 9.",
+          "mini_headline": "Busan short film fest AI competition",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The Busan International Short Film Festival (BISFF) opened entries on Monday, November 9, for the artificial intelligence (AI) competition of its 44th edition, to be held in April 2027. The AI competition is a new section debuting at the 44th edition, and it invites films made with generative artificial intelligence (AI), with no restrictions on theme or genre."
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "44th Busan International Short Film Festival, call for entries to the artificial intelligence (AI) competition © Kim Jung-geon"
+              },
+              {
+                "t": "p",
+                "x": "Submissions run until Monday, January 11, 2027. An early-bird entry fee of 11 euros (about 1만 7,000원) applies until Sunday, December 6, and a regular fee of 15 euros (about 2만 3,000원) applies after that until the deadline. Eligible works are short films under 30 minutes (up to 29 minutes 59 seconds) completed on or after January 1, 2026. They must be Korean premieres that used generative AI in key parts of the creative process, and entrants must disclose their use of AI and the tools used and submit materials that document the production process."
+              },
+              {
+                "t": "p",
+                "x": "Selected films will be announced on Friday, March 5, 2027, and the festival runs in Busan from Thursday, April 22 to Tuesday, April 27. There are two awards, the Artificial Intelligence Award and the Artefact MK2 Award, each carrying 300만 원 in prize money and a trophy. The Artefact MK2 Award was created under a memorandum of understanding BISFF signed in October with France’s Artefact AI Film Festival (AAIFF), and the two festivals will cross-judge each other’s nominees to choose the winners."
+              },
+              {
+                "t": "p",
+                "x": "Lee Sang-hoon, BISFF vice chairman and artistic director, said: “What we want to see is not how much AI was used. A film is only born at the moment when the reality a creator has captured and the imagination AI has shaped breathe together within a single frame.”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Festival de Cortos de Busan\ncrea una competición de AI",
+          "body": "El Festival de Cortos de Busan abrió el 9 de noviembre la convocatoria de la competición de AI de su 44.ª edición.",
+          "mini_headline": "Competición de AI en Busan",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El Festival Internacional de Cortometrajes de Busan (BISFF) abrió el lunes 9 de noviembre la convocatoria de la competición de inteligencia artificial (AI) de su 44.ª edición, que se celebrará en abril de 2027. La competición de AI es una sección nueva que se estrena en la 44.ª edición y admite películas realizadas con inteligencia artificial (AI) generativa, sin restricciones de tema ni de género."
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "44.º Festival Internacional de Cortometrajes de Busan, convocatoria de la competición de inteligencia artificial (AI) © Kim Jung-geon"
+              },
+              {
+                "t": "p",
+                "x": "La inscripción estará abierta hasta el lunes 11 de enero de 2027. Hasta el domingo 6 de diciembre se aplica una tarifa anticipada de 11 euros (unos 1만 7,000원) y, después, hasta el cierre, una tarifa general de 15 euros (unos 2만 3,000원). Pueden participar cortometrajes de menos de 30 minutos (máximo 29 minutos y 59 segundos) terminados a partir del 1 de enero de 2026, que sean estrenos en Corea y hayan usado AI generativa en las fases principales de creación; además, hay que declarar el uso de AI y las herramientas empleadas, y presentar materiales que permitan verificar el proceso de producción."
+              },
+              {
+                "t": "p",
+                "x": "Las obras seleccionadas se anunciarán el viernes 5 de marzo de 2027, y el festival se celebrará en Busan del jueves 22 al martes 27 de abril. Habrá dos premios, el Premio Inteligencia Artificial y el Premio Artefact MK2, cada uno dotado con 300만 원 y un trofeo. El Premio Artefact MK2 surge del acuerdo de colaboración que BISFF firmó en octubre con el Artefact AI Film Festival (AAIFF) de Francia, y ambos festivales evaluarán de forma cruzada las candidatas del otro para elegir a las ganadoras."
+              },
+              {
+                "t": "p",
+                "x": "Lee Sang-hoon, vicepresidente y director artístico de BISFF, afirmó: “Lo que queremos ver no es cuánta AI se usó. El cine nace solo en el momento en que la realidad captada por el creador y la imaginación moldeada por la AI respiran juntas dentro de un mismo encuadre”."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "釜山国際短編映画祭\nAI競争部門を新設",
+          "body": "釜山国際短編映画祭が第44回AI競争部門の作品公募を11月9日に始めた。",
+          "mini_headline": "釜山短編映画祭AI競争",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "釜山国際短編映画祭（BISFF）は、2027年4月に開かれる第44回映画祭の人工知能（AI）競争部門の作品公募を11月9日（月）に開始した。AI競争は第44回で初めて設けられる競争部門で、テーマやジャンルを問わず、生成AIを活用した映画を募集する。"
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "第44回釜山国際短編映画祭、人工知能（AI）競争部門の作品公募 © キム・ジュンゴン"
+              },
+              {
+                "t": "p",
+                "x": "受付は2027年1月11日（月）まで続く。12月6日（日）まではアーリーバード出品料€11（約17,000ウォン）、それ以降の締め切りまでは一般出品料€15（約23,000ウォン）が適用される。対象は2026年1月1日以降に完成した30分未満（最長29分59秒）の短編映画で、主要な創作過程に生成AIを用いた韓国プレミア作品でなければならず、AIの使用事実と使用ツールを明示し、制作過程を確認できる資料もあわせて提出する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "選出作品は2027年3月5日（金）に発表され、映画祭は4月22日（木）から27日（火）まで釜山で開かれる。賞は人工知能賞とArtefact MK2賞の二部門で、部門ごとに賞金300万ウォンとトロフィーが授与される。Artefact MK2賞は、BISFFが10月にフランスのアーテファクトAI映画祭（AAIFF）と結んだ業務協約に基づいて設けられたもので、両映画祭が互いの候補作を交差審査して受賞作を選ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "BISFFの副委員長兼芸術監督であるイ・サンフンは「私たちが見ようとしているのは、AIをどれだけ使ったかではない。創作者がとらえた現実とAIが生み出した想像が一つのフレームの中で共に息づく瞬間に、ようやく映画が生まれる」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "釜山国际短片电影节\n新设AI竞赛单元",
+          "body": "釜山国际短片电影节于11月9日启动第44届AI竞赛单元作品征集。",
+          "mini_headline": "釜山短片电影节AI竞赛",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "釜山国际短片电影节（BISFF）已于11月9日（周一）启动将于2027年4月举办的第44届电影节人工智能（AI）竞赛单元作品征集。AI竞赛是第44届首次设立的竞赛单元，不限主题与类型，征集运用生成式人工智能（AI）制作的电影。"
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "第44届釜山国际短片电影节人工智能（AI）竞赛单元作品征集 © 김중건"
+              },
+              {
+                "t": "p",
+                "x": "报名截至2027年1月11日（周一）。12月6日（周日）前适用早鸟报名费€11（约17,000韩元），此后至截止日适用常规报名费€15（约23,000韩元）。参赛作品须为2026年1月1日以后完成、片长不足30分钟（最长29分59秒）的短片，且须是在主要创作环节运用生成式AI的韩国首映作品；投稿时须说明AI使用情况及所用工具，并一并提交可核实制作过程的资料。"
+              },
+              {
+                "t": "p",
+                "x": "入围作品将于2027年3月5日（周五）公布，电影节于4月22日（周四）至27日（周二）在釜山举行。奖项分为人工智能奖与Artefact MK2奖两个类别，每个类别颁发奖金300万韩元及奖杯。Artefact MK2奖源于BISFF于10月与法国Artefact AI电影节（AAIFF）签署的合作协议，两个电影节将交叉评审彼此的候选作品，选出获奖作品。"
+              },
+              {
+                "t": "p",
+                "x": "BISFF副委员长兼艺术总监이상훈表示：“我们想看的并不是用了多少AI。只有当创作者捕捉到的现实与AI塑造的想象在同一画面中共同呼吸的那一刻，电影才真正诞生。”"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Busan Int’l Short Film Festival\nadds new AI competition",
+          "body": "The Busan International Short Film Festival opened entries for the AI competition of its 44th edition on November 9.",
+          "mini_headline": "Busan short film fest AI competition",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The Busan International Short Film Festival (BISFF) opened entries on Monday, November 9, for the artificial intelligence (AI) competition of its 44th edition, to be held in April 2027. The AI competition is a new section debuting at the 44th edition, and it invites films made with generative artificial intelligence (AI), with no restrictions on theme or genre."
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "44th Busan International Short Film Festival, call for entries to the artificial intelligence (AI) competition © Kim Jung-geon"
+              },
+              {
+                "t": "p",
+                "x": "Submissions run until Monday, January 11, 2027. An early-bird entry fee of 11 euros (about 1만 7,000원) applies until Sunday, December 6, and a regular fee of 15 euros (about 2만 3,000원) applies after that until the deadline. Eligible works are short films under 30 minutes (up to 29 minutes 59 seconds) completed on or after January 1, 2026. They must be Korean premieres that used generative AI in key parts of the creative process, and entrants must disclose their use of AI and the tools used and submit materials that document the production process."
+              },
+              {
+                "t": "p",
+                "x": "Selected films will be announced on Friday, March 5, 2027, and the festival runs in Busan from Thursday, April 22 to Tuesday, April 27. There are two awards, the Artificial Intelligence Award and the Artefact MK2 Award, each carrying 300만 원 in prize money and a trophy. The Artefact MK2 Award was created under a memorandum of understanding BISFF signed in October with France’s Artefact AI Film Festival (AAIFF), and the two festivals will cross-judge each other’s nominees to choose the winners."
+              },
+              {
+                "t": "p",
+                "x": "Lee Sang-hoon, BISFF vice chairman and artistic director, said: “What we want to see is not how much AI was used. A film is only born at the moment when the reality a creator has captured and the imagination AI has shaped breathe together within a single frame.”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Festival de Cortos de Busan\ncrea una competición de AI",
+          "body": "El Festival de Cortos de Busan abrió el 9 de noviembre la convocatoria de la competición de AI de su 44.ª edición.",
+          "mini_headline": "Competición de AI en Busan",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El Festival Internacional de Cortometrajes de Busan (BISFF) abrió el lunes 9 de noviembre la convocatoria de la competición de inteligencia artificial (AI) de su 44.ª edición, que se celebrará en abril de 2027. La competición de AI es una sección nueva que se estrena en la 44.ª edición y admite películas realizadas con inteligencia artificial (AI) generativa, sin restricciones de tema ni de género."
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "44.º Festival Internacional de Cortometrajes de Busan, convocatoria de la competición de inteligencia artificial (AI) © Kim Jung-geon"
+              },
+              {
+                "t": "p",
+                "x": "La inscripción estará abierta hasta el lunes 11 de enero de 2027. Hasta el domingo 6 de diciembre se aplica una tarifa anticipada de 11 euros (unos 1만 7,000원) y, después, hasta el cierre, una tarifa general de 15 euros (unos 2만 3,000원). Pueden participar cortometrajes de menos de 30 minutos (máximo 29 minutos y 59 segundos) terminados a partir del 1 de enero de 2026, que sean estrenos en Corea y hayan usado AI generativa en las fases principales de creación; además, hay que declarar el uso de AI y las herramientas empleadas, y presentar materiales que permitan verificar el proceso de producción."
+              },
+              {
+                "t": "p",
+                "x": "Las obras seleccionadas se anunciarán el viernes 5 de marzo de 2027, y el festival se celebrará en Busan del jueves 22 al martes 27 de abril. Habrá dos premios, el Premio Inteligencia Artificial y el Premio Artefact MK2, cada uno dotado con 300만 원 y un trofeo. El Premio Artefact MK2 surge del acuerdo de colaboración que BISFF firmó en octubre con el Artefact AI Film Festival (AAIFF) de Francia, y ambos festivales evaluarán de forma cruzada las candidatas del otro para elegir a las ganadoras."
+              },
+              {
+                "t": "p",
+                "x": "Lee Sang-hoon, vicepresidente y director artístico de BISFF, afirmó: “Lo que queremos ver no es cuánta AI se usó. El cine nace solo en el momento en que la realidad captada por el creador y la imaginación moldeada por la AI respiran juntas dentro de un mismo encuadre”."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "釜山国際短編映画祭\nAI競争部門を新設",
+          "body": "釜山国際短編映画祭が第44回AI競争部門の作品公募を11月9日に始めた。",
+          "mini_headline": "釜山短編映画祭AI競争",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "釜山国際短編映画祭（BISFF）は、2027年4月に開かれる第44回映画祭の人工知能（AI）競争部門の作品公募を11月9日（月）に開始した。AI競争は第44回で初めて設けられる競争部門で、テーマやジャンルを問わず、生成AIを活用した映画を募集する。"
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "第44回釜山国際短編映画祭、人工知能（AI）競争部門の作品公募 © キム・ジュンゴン"
+              },
+              {
+                "t": "p",
+                "x": "受付は2027年1月11日（月）まで続く。12月6日（日）まではアーリーバード出品料€11（約17,000ウォン）、それ以降の締め切りまでは一般出品料€15（約23,000ウォン）が適用される。対象は2026年1月1日以降に完成した30分未満（最長29分59秒）の短編映画で、主要な創作過程に生成AIを用いた韓国プレミア作品でなければならず、AIの使用事実と使用ツールを明示し、制作過程を確認できる資料もあわせて提出する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "選出作品は2027年3月5日（金）に発表され、映画祭は4月22日（木）から27日（火）まで釜山で開かれる。賞は人工知能賞とArtefact MK2賞の二部門で、部門ごとに賞金300万ウォンとトロフィーが授与される。Artefact MK2賞は、BISFFが10月にフランスのアーテファクトAI映画祭（AAIFF）と結んだ業務協約に基づいて設けられたもので、両映画祭が互いの候補作を交差審査して受賞作を選ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "BISFFの副委員長兼芸術監督であるイ・サンフンは「私たちが見ようとしているのは、AIをどれだけ使ったかではない。創作者がとらえた現実とAIが生み出した想像が一つのフレームの中で共に息づく瞬間に、ようやく映画が生まれる」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "釜山国际短片电影节\n新设AI竞赛单元",
+          "body": "釜山国际短片电影节于11月9日启动第44届AI竞赛单元作品征集。",
+          "mini_headline": "釜山短片电影节AI竞赛",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "釜山国际短片电影节（BISFF）已于11月9日（周一）启动将于2027年4月举办的第44届电影节人工智能（AI）竞赛单元作品征集。AI竞赛是第44届首次设立的竞赛单元，不限主题与类型，征集运用生成式人工智能（AI）制作的电影。"
+              },
+              {
+                "t": "img",
+                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
+                "cap": "第44届釜山国际短片电影节人工智能（AI）竞赛单元作品征集 © 김중건"
+              },
+              {
+                "t": "p",
+                "x": "报名截至2027年1月11日（周一）。12月6日（周日）前适用早鸟报名费€11（约17,000韩元），此后至截止日适用常规报名费€15（约23,000韩元）。参赛作品须为2026年1月1日以后完成、片长不足30分钟（最长29分59秒）的短片，且须是在主要创作环节运用生成式AI的韩国首映作品；投稿时须说明AI使用情况及所用工具，并一并提交可核实制作过程的资料。"
+              },
+              {
+                "t": "p",
+                "x": "入围作品将于2027年3月5日（周五）公布，电影节于4月22日（周四）至27日（周二）在釜山举行。奖项分为人工智能奖与Artefact MK2奖两个类别，每个类别颁发奖金300万韩元及奖杯。Artefact MK2奖源于BISFF于10月与法国Artefact AI电影节（AAIFF）签署的合作协议，两个电影节将交叉评审彼此的候选作品，选出获奖作品。"
+              },
+              {
+                "t": "p",
+                "x": "BISFF副委员长兼艺术总监이상훈表示：“我们想看的并不是用了多少AI。只有当创作者捕捉到的现实与AI塑造的想象在同一画面中共同呼吸的那一刻，电影才真正诞生。”"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "dubai-ai-film-award-2nd",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 영화 Raphael\n눈부신 영상, 익숙한 서사",
-      "body": "25일 개봉하는 all-AI 영화 Raphael은 영상은 빼어나도 서사는 익숙하다.",
-      "mini_headline": "AI 영화 Raphael 리뷰",
+      "headline": "Dubai AI 영화상\n두 번째 막 오른다",
+      "body": "상금 $1 million Dubai AI Film Award가 두 번째로 열린다.",
+      "mini_headline": "Dubai $1M AI 영화상 재개",
       "tool": "Movies",
-      "source": "The Korea Times",
-      "url": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
+      "source": "WIRED Middle East",
+      "url": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -783,233 +663,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-            "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+            "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
           },
           {
             "t": "p",
-            "x": "생성형 AI만으로 만든 한국 첫 장편 영화 “Raphael”이 11월 25일 국내 극장에 걸린다. 이야기는 익숙한 장르 공식에 크게 기대는 반면 영상은 매끈하고 던지는 철학적 질문도 야심 차다."
+            "x": "Dubai는 올해 11월 두 번째 AI Film Award 출품작을 받는다. 2027년 1월 열리는 1 Billion Followers Summit의 핵심 행사로, 길이 오 분에서 칠 분 사이의 영화 한 편이 총 $1 million을 가져간다. 올해는 TikTok, 그리고 ByteDance 계열 BytePlus와 손잡았다. 최종 영화의 70% 이상을 Seedance의 고급 AI 영상 생성 모드로 만들어야 하고, 실사 촬영 영상은 보조 자료로 조금만 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Yang Ik-june, Moon Shin-woo, Jung Joo-won이 공동 연출하고 Matteo AI Studio가 MBC C&I AI Contents Lab과 함께 제작했다. 실제 배우와는 단 한 장면도 찍지 않았고 완성까지 14개월이 걸렸다. 기획과 각본 말고는 캐릭터와 풍경부터 목소리 연기, 음악, 효과음까지 모두 생성형 AI가 만들었다."
+            "x": "2025년 9월 Google Gemini와 함께 시작한 첫 회에는 3,500편이 몰렸고, 튀니지 감독 Zoubeir ElJlassi가 Lily로 상을 받았다. 그는 “가장 큰 오해는 AI가 창작을 전부 해낸다는 생각”이라며 “스토리텔링, 연출, 미술 감독, 감정의 깊이, 예술적 선택은 근본적으로 인간의 몫으로 남는다”고 말한다."
           },
           {
             "t": "p",
-            "x": "배경은 2050년대다. 무자비한 전투 안드로이드 Alexei가 미등록 소녀 Sophia와 인류의 마지막 사제 Michael을 만난 뒤 인간의 감정을 느끼기 시작한다."
-          },
-          {
-            "t": "img",
-            "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-            "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
-          },
-          {
-            "t": "p",
-            "x": "영상에서는 14개월 동안 컷마다 다듬은 공이 드러난다. AI 영상에 흔한 어색한 시각 오류나 캐릭터 외모가 갑자기 바뀌는 문제를 피했고 입 모양도 한층 자연스럽다. 다만 이야기는 지나치게 익숙하다. 138분 내내 이어지는 어두운 미래 설정이 뻔하게 느껴지기도 한다."
-          },
-          {
-            "t": "p",
-            "x": "한국 영화계는 비용 상승과 투자 위축에 시달리고 있다. “Raphael”은 AI가 대규모 SF를 적은 비용으로 만드는 도구가 될 수 있음을 보여준다. 동시에 관객을 끄는 진짜 힘은 결국 이야기에서 나온다는 사실도 일깨운다."
+            "x": "Academy는 한때 생성형 AI가 영화의 Oscar 수상 가능성에 “도움도 해도 되지 않는다”고 밝혔지만, 이듬해에는 인간이 했다고 확인된 연기와 각본만 자격이 있다고 못 박았다. NYU Abu Dhabi 연구진은 Stable Diffusion이 중동 남성을 그릴 때 거의 모두 갈색 피부에 수염, 전통 의상 차림으로 일반화한다는 점을 밝혀냈다. AI 크리에이티브 프로듀서 Darryll Rapacon은 AI 영화가 “독자적인 부문을 형성할 수 있고, 그사이 도구는 VFX처럼 일상적인 제작의 일부가 될 것”이라고 내다본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI film Raphael dazzles,\nbut its story feels familiar",
-          "body": "Korea's first all-AI feature Raphael, out Nov. 25, pushes AI visuals to their limits but tells a familiar story.",
-          "mini_headline": "AI film Raphael reviewed",
+          "headline": "Dubai’s $1 million AI film award\nreturns for a second edition",
+          "body": "Dubai’s $1 million AI Film Award returns for its second edition as the region starts taking an AI film prize seriously.",
+          "mini_headline": "Dubai’s $1M AI film award returns",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "A scene from AI movie “Raphael” / Courtesy of 300 & Co."
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "\"Raphael,\" Korea's first feature-length film created entirely with generative AI, hits local theaters on Nov. 25. It stands out for its polished visuals and ambitious philosophical questions, even if its narrative relies heavily on familiar genre formulas."
+                "x": "This November, Dubai welcomes entries for its second AI Film Award, the centrepiece of January 2027’s 1 Billion Followers Summit. One film of five to seven minutes will win a grand total of $1 million. This year the competition partners with TikTok and BytePlus, part of ByteDance: at least 70% of the final film must be generated with Seedance’s advanced AI video-generation mode, with live-action footage only allowed as a small supplement."
               },
               {
                 "t": "p",
-                "x": "Co-directed by Yang Ik-june, Moon Shin-woo and Jung Joo-won, and produced by Matteo AI Studio alongside MBC C&I AI Contents Lab, it was completed over 14 months without shooting a single scene with real actors. Aside from planning and screenwriting, generative AI built every element, from characters and landscapes to voice acting, music and sound effects."
+                "x": "The first edition, launched in September 2025 with Google Gemini, drew 3,500 submissions and was won by Tunisian director Zoubeir ElJlassi for Lily. “The biggest misconception is that AI does all the creative work,” he says. “Storytelling, directing, art direction, emotional depth and artistic choices remain fundamentally human.”"
               },
               {
                 "t": "p",
-                "x": "Set in the 2050s, it follows Alexei, a ruthless combat android who begins to experience human feelings after meeting an unregistered girl, Sophia, and Michael, humanity's last priest."
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "A scene from AI movie “Raphael” / Courtesy of 300 & Co."
-              },
-              {
-                "t": "p",
-                "x": "Visually, the 14 months of cut-by-cut refinement pay off: it avoids the awkward visual errors and sudden changes in character appearance common in AI videos, and lip movements are smoother. But the story feels overly familiar, and across 138 minutes the dark future setting can feel predictable."
-              },
-              {
-                "t": "p",
-                "x": "As the Korean film industry struggles with rising costs and shrinking investment, \"Raphael\" highlights AI as a cost-effective tool for large-scale sci-fi, while reminding that compelling storytelling remains the true driving force."
+                "x": "The Academy once said generative AI would “neither help nor harm” a film’s Oscar chances; a year later it ruled that only performances and screenplays verified as being human would qualify. Researchers at NYU Abu Dhabi found that Stable Diffusion generalised nearly all depictions of Middle Eastern men as brown-skinned, bearded and in traditional attire. AI creative producer Darryll Rapacon predicts AI films “could develop their own category, while the tools become part of everyday production, much like VFX.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 영화 Raphael\n눈부신 영상, 익숙한 서사",
-          "body": "25일 개봉하는 all-AI 영화 Raphael은 영상은 빼어나도 서사는 익숙하다.",
-          "mini_headline": "AI 영화 Raphael 리뷰",
+          "headline": "Dubai AI 영화상\n두 번째 막 오른다",
+          "body": "상금 $1 million Dubai AI Film Award가 두 번째로 열린다.",
+          "mini_headline": "Dubai $1M AI 영화상 재개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI만으로 만든 한국 첫 장편 영화 “Raphael”이 11월 25일 국내 극장에 걸린다. 이야기는 익숙한 장르 공식에 크게 기대는 반면 영상은 매끈하고 던지는 철학적 질문도 야심 차다."
+                "x": "Dubai는 올해 11월 두 번째 AI Film Award 출품작을 받는다. 2027년 1월 열리는 1 Billion Followers Summit의 핵심 행사로, 길이 오 분에서 칠 분 사이의 영화 한 편이 총 $1 million을 가져간다. 올해는 TikTok, 그리고 ByteDance 계열 BytePlus와 손잡았다. 최종 영화의 70% 이상을 Seedance의 고급 AI 영상 생성 모드로 만들어야 하고, 실사 촬영 영상은 보조 자료로 조금만 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Yang Ik-june, Moon Shin-woo, Jung Joo-won이 공동 연출하고 Matteo AI Studio가 MBC C&I AI Contents Lab과 함께 제작했다. 실제 배우와는 단 한 장면도 찍지 않았고 완성까지 14개월이 걸렸다. 기획과 각본 말고는 캐릭터와 풍경부터 목소리 연기, 음악, 효과음까지 모두 생성형 AI가 만들었다."
+                "x": "2025년 9월 Google Gemini와 함께 시작한 첫 회에는 3,500편이 몰렸고, 튀니지 감독 Zoubeir ElJlassi가 Lily로 상을 받았다. 그는 “가장 큰 오해는 AI가 창작을 전부 해낸다는 생각”이라며 “스토리텔링, 연출, 미술 감독, 감정의 깊이, 예술적 선택은 근본적으로 인간의 몫으로 남는다”고 말한다."
               },
               {
                 "t": "p",
-                "x": "배경은 2050년대다. 무자비한 전투 안드로이드 Alexei가 미등록 소녀 Sophia와 인류의 마지막 사제 Michael을 만난 뒤 인간의 감정을 느끼기 시작한다."
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
-              },
-              {
-                "t": "p",
-                "x": "영상에서는 14개월 동안 컷마다 다듬은 공이 드러난다. AI 영상에 흔한 어색한 시각 오류나 캐릭터 외모가 갑자기 바뀌는 문제를 피했고 입 모양도 한층 자연스럽다. 다만 이야기는 지나치게 익숙하다. 138분 내내 이어지는 어두운 미래 설정이 뻔하게 느껴지기도 한다."
-              },
-              {
-                "t": "p",
-                "x": "한국 영화계는 비용 상승과 투자 위축에 시달리고 있다. “Raphael”은 AI가 대규모 SF를 적은 비용으로 만드는 도구가 될 수 있음을 보여준다. 동시에 관객을 끄는 진짜 힘은 결국 이야기에서 나온다는 사실도 일깨운다."
+                "x": "Academy는 한때 생성형 AI가 영화의 Oscar 수상 가능성에 “도움도 해도 되지 않는다”고 밝혔지만, 이듬해에는 인간이 했다고 확인된 연기와 각본만 자격이 있다고 못 박았다. NYU Abu Dhabi 연구진은 Stable Diffusion이 중동 남성을 그릴 때 거의 모두 갈색 피부에 수염, 전통 의상 차림으로 일반화한다는 점을 밝혀냈다. AI 크리에이티브 프로듀서 Darryll Rapacon은 AI 영화가 “독자적인 부문을 형성할 수 있고, 그사이 도구는 VFX처럼 일상적인 제작의 일부가 될 것”이라고 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI映画Raphael\n映像は圧巻、物語は既視感",
-          "body": "韓国初のall-AI長編Raphaelは11月25日公開、映像は極限だが物語は既視感がある。",
-          "mini_headline": "AI映画Raphaelを評す",
+          "headline": "Dubai AI映画賞\n二度目の開催へ",
+          "body": "Dubaiの$1 million AI Film Awardが二度目の開催を迎える。",
+          "mini_headline": "Dubai $1M AI映画賞が再び",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIだけで制作された韓国初の長編映画「Raphael」が、11月25日に国内で劇場公開される。物語はおなじみのジャンルの型に大きく頼っているものの、洗練された映像と意欲的な哲学的問いが際立つ。"
+                "x": "Dubaiは今年11月、二回目となるAI Film Awardの応募を受け付ける。同賞は2027年1月の1 Billion Followers Summitの目玉だ。五分から七分の作品一本が総額$1 millionを獲得する。今年はTikTok、そしてByteDance傘下のBytePlusと提携し、最終作品の70%以上をSeedanceの高度なAI動画生成モードで生成しなければならず、実写映像はわずかな補助としてのみ認められる。"
               },
               {
                 "t": "p",
-                "x": "Yang Ik-june、Moon Shin-woo、Jung Joo-wonが共同監督を務め、Matteo AI StudioがMBC C&I AI Contents Labと共同で制作した本作は、実際の俳優による撮影を一場面も行わず、14か月をかけて完成した。企画と脚本を除き、キャラクターや風景から声の演技、音楽、効果音まで、すべての要素を生成AIが作り上げた。"
+                "x": "2025年9月にGoogle Geminiと組んで始まった第一回には3,500本の応募があり、チュニジアのZoubeir ElJlassi監督が『Lily』で受賞した。「最大の誤解は、AIが創作の仕事をすべてこなすというものだ」と彼は言う。「ストーリーテリング、演出、美術監督、感情の深み、芸術的な選択は、根本的に人間のものであり続ける」"
               },
               {
                 "t": "p",
-                "x": "舞台は2050年代。冷酷な戦闘アンドロイドのAlexeiが、未登録の少女Sophiaと人類最後の司祭Michaelに出会い、人間の感情を抱き始める姿を描く。"
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
-              },
-              {
-                "t": "p",
-                "x": "映像面では、14か月に及ぶカットごとの磨き込みが実を結んでいる。AI映像にありがちな不自然な視覚エラーやキャラクターの容姿の急な変化を避け、口の動きもより滑らかだ。ただ物語はあまりに既視感が強く、138分にわたって暗い未来の設定が予測可能に感じられることもある。"
-              },
-              {
-                "t": "p",
-                "x": "韓国映画界がコスト上昇と投資縮小に苦しむ中、「Raphael」はAIが大規模SFの費用対効果の高い道具になり得ることを示す一方、真の原動力はやはり人を引きつける物語だと思い出させる。"
+                "x": "Academyはかつて、生成AIは作品のOscar受賞の可能性を「助けも害しもしない」としていたが、その一年後、人間によるものと確認された演技と脚本だけが対象になると定めた。NYU Abu Dhabiの研究者は、Stable Diffusionが中東の男性の描写をほぼすべて、褐色の肌でひげを生やし伝統衣装を着た姿に一般化していることを突き止めた。AIクリエイティブプロデューサーのDarryll Rapaconは、AI映画は「独自の部門を築く可能性がある一方、ツールはVFXのように日常的な制作の一部になる」と予測する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI电影Raphael\n画面惊艳，故事似曾相识",
-          "body": "韩国首部all-AI长片Raphael于11月25日上映，画面逼近极限，故事却似曾相识。",
-          "mini_headline": "AI电影Raphael影评",
+          "headline": "Dubai AI电影奖\n第二届再度开启",
+          "body": "Dubai奖金$1 million的AI Film Award迎来第二届。",
+          "mini_headline": "Dubai $1M AI电影奖回归",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "完全由生成式AI制作的韩国首部长片《Raphael》将于11月25日在韩国院线上映。尽管叙事在很大程度上依赖熟悉的类型套路，但其精致的画面和雄心勃勃的哲学追问令人瞩目。"
+                "x": "今年11月，Dubai开始接受第二届AI Film Award的报名，该奖是将于2027年1月举行的1 Billion Followers Summit的重头戏。一部五至七分钟的影片将赢得总计$1 million。今年的比赛与TikTok以及ByteDance旗下的BytePlus合作：最终影片至少70%必须使用Seedance的高级AI视频生成模式生成，实拍素材只允许作为少量补充。"
               },
               {
                 "t": "p",
-                "x": "该片由Yang Ik-june、Moon Shin-woo和Jung Joo-won联合执导，Matteo AI Studio与MBC C&I AI Contents Lab共同制作，历时14个月完成，没有用真人演员拍摄任何一个镜头。除策划和编剧外，从角色、场景到配音、音乐和音效，所有元素都由生成式AI打造。"
+                "x": "首届于2025年9月与Google Gemini合作推出，共收到3,500部投稿，突尼斯导演Zoubeir ElJlassi凭借《Lily》获奖。“最大的误解是认为AI包揽了所有创作工作，”他说，“讲故事、导演、美术指导、情感深度和艺术选择，从根本上仍属于人类。”"
               },
               {
                 "t": "p",
-                "x": "故事设定在2050年代，讲述冷酷的战斗机器人Alexei在遇见未登记的少女Sophia和人类最后一位神父Michael后，开始体验人类情感。"
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
-              },
-              {
-                "t": "p",
-                "x": "画面上，14个月逐镜头的打磨收到成效：影片避开了AI视频常见的别扭视觉错误和角色外貌突变，口型也更为流畅。但故事过于熟悉，138分钟里，黑暗的未来设定可能显得可预测。"
-              },
-              {
-                "t": "p",
-                "x": "在韩国电影业受困于成本上升和投资萎缩之际，《Raphael》凸显了AI作为大规模科幻片高性价比工具的价值，同时提醒人们，引人入胜的故事才是真正的驱动力。"
+                "x": "Academy曾表示，生成式AI对影片的Oscar获奖机会“既无帮助也无损害”；一年后，它又规定只有经核实由人类完成的表演和剧本才符合资格。NYU Abu Dhabi的研究人员发现，Stable Diffusion几乎把所有中东男性形象都概括为棕色皮肤、留胡子、身着传统服饰。AI创意制片人Darryll Rapacon预测，AI电影“可能会形成自己的类别，而这些工具则会像VFX一样成为日常制作的一部分”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La cinta de AI Raphael deslumbra\npero su historia es conocida",
-          "body": "Raphael, primer largometraje all-AI de Corea, llega el 25 de noviembre con imágenes al límite y una historia conocida.",
-          "mini_headline": "Reseña de Raphael, cinta de AI",
+          "headline": "El premio de cine AI de Dubai\nvuelve con su segunda edición",
+          "body": "El AI Film Award de Dubai, dotado con $1 million, vuelve en su segunda edición mientras la región se lo toma en serio.",
+          "mini_headline": "Vuelve el premio AI de $1M de Dubai",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "“Raphael”, el primer largometraje de Corea creado íntegramente con AI generativa, llega a los cines del país el 25 de noviembre. Destaca por su imagen pulida y sus ambiciosas preguntas filosóficas, aunque su narrativa depende mucho de fórmulas de género conocidas."
+                "x": "Este noviembre, Dubai recibe inscripciones para su segundo AI Film Award, eje central del 1 Billion Followers Summit de enero de 2027. Una sola película de entre cinco y siete minutos ganará un total de $1 million. Este año, el certamen se asocia con TikTok y BytePlus, parte de ByteDance: al menos el 70% de la película final debe generarse con el modo avanzado de generación de video con AI de Seedance, y las imágenes de acción real solo se permiten como un pequeño complemento."
               },
               {
                 "t": "p",
-                "x": "Codirigida por Yang Ik-june, Moon Shin-woo y Jung Joo-won, y producida por Matteo AI Studio junto con MBC C&I AI Contents Lab, se completó en 14 meses sin rodar una sola escena con actores reales. Salvo la planificación y el guion, la AI generativa creó todos los elementos, desde personajes y paisajes hasta la actuación de voz, la música y los efectos de sonido."
+                "x": "La primera edición, lanzada en septiembre de 2025 con Google Gemini, recibió 3,500 propuestas y la ganó el director tunecino Zoubeir ElJlassi con Lily. “El mayor malentendido es que la AI hace todo el trabajo creativo”, dice. “La narración, la dirección, la dirección de arte, la profundidad emocional y las decisiones artísticas siguen siendo fundamentalmente humanas”."
               },
               {
                 "t": "p",
-                "x": "Ambientada en la década de 2050, sigue a Alexei, un despiadado androide de combate que empieza a experimentar sentimientos humanos tras conocer a Sophia, una niña no registrada, y a Michael, el último sacerdote de la humanidad."
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
-              },
-              {
-                "t": "p",
-                "x": "En lo visual, los 14 meses de pulido plano a plano dan fruto: evita los torpes errores visuales y los cambios bruscos en la apariencia de los personajes habituales en los videos de AI, y el movimiento de los labios es más fluido. Pero la historia resulta demasiado conocida, y a lo largo de 138 minutos el oscuro escenario futuro puede volverse predecible."
-              },
-              {
-                "t": "p",
-                "x": "Mientras la industria cinematográfica coreana lidia con el aumento de costos y la caída de la inversión, “Raphael” muestra la AI como una herramienta rentable para la ciencia ficción a gran escala, a la vez que recuerda que una narración atractiva sigue siendo el verdadero motor."
+                "x": "La Academy dijo en su momento que la AI generativa “ni ayudaría ni perjudicaría” las posibilidades de una película en los Oscar; un año después, decidió que solo podrían competir las interpretaciones y los guiones verificados como humanos. Investigadores de NYU Abu Dhabi descubrieron que Stable Diffusion generalizaba casi todas las representaciones de hombres de Oriente Medio con piel morena, barba y vestimenta tradicional. El productor creativo de AI Darryll Rapacon prevé que las películas de AI “podrían desarrollar su propia categoría, mientras las herramientas pasan a formar parte de la producción cotidiana, como los VFX”."
               }
             ]
           }
@@ -1017,161 +813,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 영화 Raphael\n눈부신 영상, 익숙한 서사",
-          "body": "25일 개봉하는 all-AI 영화 Raphael은 영상은 빼어나도 서사는 익숙하다.",
-          "mini_headline": "AI 영화 Raphael 리뷰",
+          "headline": "Dubai AI 영화상\n두 번째로 다시 열린다",
+          "body": "Dubai의 $1 million AI Film Award가 두 번째로 돌아온다.",
+          "mini_headline": "Dubai $1M AI 영화상 재개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI만으로 만든 한국 첫 장편 영화 “Raphael”이 11월 25일 국내 극장에 걸린다. 서사는 익숙한 장르 공식에 크게 기대지만, 매끈한 영상과 야심 찬 철학적 질문이 돋보인다."
+                "x": "Dubai는 올해 11월 두 번째 AI Film Award 출품작을 받는다. 이 상은 2027년 1월 열리는 1 Billion Followers Summit의 핵심 행사다. 길이 오 분에서 칠 분 사이의 영화 한 편이 총 $1 million을 받는다. 올해 대회는 TikTok, 그리고 ByteDance 계열 BytePlus와 손잡았다. 최종 영화의 70% 이상을 Seedance의 고급 AI 영상 생성 모드로 만들어야 하며, 실사 촬영 영상은 소량의 보조 자료로만 허용된다."
               },
               {
                 "t": "p",
-                "x": "Yang Ik-june, Moon Shin-woo, Jung Joo-won이 공동 연출하고 Matteo AI Studio가 MBC C&I AI Contents Lab과 함께 제작한 이 영화는 실제 배우와 단 한 장면도 촬영하지 않고 14개월에 걸쳐 완성됐다. 기획과 각본을 제외하면 캐릭터와 풍경부터 목소리 연기, 음악, 효과음까지 모든 요소를 생성형 AI가 만들었다."
+                "x": "2025년 9월 Google Gemini와 함께 시작한 첫 회에는 3,500편이 출품됐고, 튀니지 감독 Zoubeir ElJlassi가 Lily로 수상했다. 그는 “가장 큰 오해는 AI가 창작을 전부 해낸다는 생각”이라며 “스토리텔링, 연출, 미술 감독, 감정의 깊이, 예술적 선택은 근본적으로 인간의 몫으로 남는다”고 말한다."
               },
               {
                 "t": "p",
-                "x": "2050년대를 배경으로, 무자비한 전투 안드로이드 Alexei가 미등록 소녀 Sophia와 인류의 마지막 사제 Michael을 만난 뒤 인간의 감정을 느끼기 시작하는 이야기를 따라간다."
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "AI 영화 “Raphael”의 한 장면 / 300 & Co. 제공"
-              },
-              {
-                "t": "p",
-                "x": "영상만 보면 14개월에 걸친 컷 단위 보정이 빛을 발한다. AI 영상에 흔한 어색한 시각 오류나 캐릭터 외모의 급격한 변화를 피했고, 입 모양도 한층 자연스럽다. 다만 이야기는 지나치게 익숙하고, 138분 동안 어두운 미래 설정이 뻔하게 느껴질 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "한국 영화계가 비용 상승과 투자 위축에 시달리는 가운데, “Raphael”은 AI가 대규모 SF를 위한 비용 효율적 도구가 될 수 있음을 보여주는 한편, 결국 진짜 동력은 흡인력 있는 이야기라는 점을 일깨운다."
+                "x": "Academy는 한때 생성형 AI가 영화의 Oscar 수상 가능성에 “도움도 해도 되지 않는다”고 밝혔지만, 이듬해에는 인간이 한 것으로 확인된 연기와 각본만 자격이 있다고 규정했다. NYU Abu Dhabi 연구진은 Stable Diffusion이 중동 남성 묘사를 거의 모두 갈색 피부에 수염을 기르고 전통 의상을 입은 모습으로 일반화한다는 사실을 발견했다. AI 크리에이티브 프로듀서 Darryll Rapacon은 AI 영화가 “독자적인 부문을 형성할 수 있고, 그사이 도구는 VFX처럼 일상적인 제작의 일부가 될 것”이라고 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI映画Raphael\n映像は圧巻、物語は既視感",
-          "body": "韓国初のall-AI長編Raphaelは11月25日公開、映像は極限だが物語は既視感がある。",
-          "mini_headline": "AI映画Raphaelを評す",
+          "headline": "Dubai AI映画賞\n二度目の開催へ",
+          "body": "Dubaiの$1 million AI Film Awardが二度目の開催を迎える。",
+          "mini_headline": "Dubai $1M AI映画賞が再び",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIだけで制作された韓国初の長編映画「Raphael」が、11月25日に国内で劇場公開される。物語はおなじみのジャンルの型に大きく頼っているものの、洗練された映像と意欲的な哲学的問いが際立つ。"
+                "x": "Dubaiは今年11月、二回目となるAI Film Awardの応募を受け付ける。同賞は2027年1月の1 Billion Followers Summitの目玉だ。五分から七分の作品一本が総額$1 millionを獲得する。今年はTikTok、そしてByteDance傘下のBytePlusと提携し、最終作品の70%以上をSeedanceの高度なAI動画生成モードで生成しなければならず、実写映像はわずかな補助としてのみ認められる。"
               },
               {
                 "t": "p",
-                "x": "Yang Ik-june、Moon Shin-woo、Jung Joo-wonが共同監督を務め、Matteo AI StudioがMBC C&I AI Contents Labと共同で制作した本作は、実際の俳優による撮影を一場面も行わず、14か月をかけて完成した。企画と脚本を除き、キャラクターや風景から声の演技、音楽、効果音まで、すべての要素を生成AIが作り上げた。"
+                "x": "2025年9月にGoogle Geminiと組んで始まった第一回には3,500本の応募があり、チュニジアのZoubeir ElJlassi監督が『Lily』で受賞した。「最大の誤解は、AIが創作の仕事をすべてこなすというものだ」と彼は言う。「ストーリーテリング、演出、美術監督、感情の深み、芸術的な選択は、根本的に人間のものであり続ける」"
               },
               {
                 "t": "p",
-                "x": "舞台は2050年代。冷酷な戦闘アンドロイドのAlexeiが、未登録の少女Sophiaと人類最後の司祭Michaelに出会い、人間の感情を抱き始める姿を描く。"
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "AI映画「Raphael」の一場面 / 提供：300 & Co."
-              },
-              {
-                "t": "p",
-                "x": "映像面では、14か月に及ぶカットごとの磨き込みが実を結んでいる。AI映像にありがちな不自然な視覚エラーやキャラクターの容姿の急な変化を避け、口の動きもより滑らかだ。ただ物語はあまりに既視感が強く、138分にわたって暗い未来の設定が予測可能に感じられることもある。"
-              },
-              {
-                "t": "p",
-                "x": "韓国映画界がコスト上昇と投資縮小に苦しむ中、「Raphael」はAIが大規模SFの費用対効果の高い道具になり得ることを示す一方、真の原動力はやはり人を引きつける物語だと思い出させる。"
+                "x": "Academyはかつて、生成AIは作品のOscar受賞の可能性を「助けも害しもしない」としていたが、その一年後、人間によるものと確認された演技と脚本だけが対象になると定めた。NYU Abu Dhabiの研究者は、Stable Diffusionが中東の男性の描写をほぼすべて、褐色の肌でひげを生やし伝統衣装を着た姿に一般化していることを突き止めた。AIクリエイティブプロデューサーのDarryll Rapaconは、AI映画は「独自の部門を築く可能性がある一方、ツールはVFXのように日常的な制作の一部になる」と予測する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI电影Raphael\n画面惊艳，故事似曾相识",
-          "body": "韩国首部all-AI长片Raphael于11月25日上映，画面逼近极限，故事却似曾相识。",
-          "mini_headline": "AI电影Raphael影评",
+          "headline": "Dubai AI电影奖\n第二届再度开启",
+          "body": "Dubai奖金$1 million的AI Film Award迎来第二届。",
+          "mini_headline": "Dubai $1M AI电影奖回归",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "完全由生成式AI制作的韩国首部长片《Raphael》将于11月25日在韩国院线上映。尽管叙事在很大程度上依赖熟悉的类型套路，但其精致的画面和雄心勃勃的哲学追问令人瞩目。"
+                "x": "今年11月，Dubai开始接受第二届AI Film Award的报名，该奖是将于2027年1月举行的1 Billion Followers Summit的重头戏。一部五至七分钟的影片将赢得总计$1 million。今年的比赛与TikTok以及ByteDance旗下的BytePlus合作：最终影片至少70%必须使用Seedance的高级AI视频生成模式生成，实拍素材只允许作为少量补充。"
               },
               {
                 "t": "p",
-                "x": "该片由Yang Ik-june、Moon Shin-woo和Jung Joo-won联合执导，Matteo AI Studio与MBC C&I AI Contents Lab共同制作，历时14个月完成，没有用真人演员拍摄任何一个镜头。除策划和编剧外，从角色、场景到配音、音乐和音效，所有元素都由生成式AI打造。"
+                "x": "首届于2025年9月与Google Gemini合作推出，共收到3,500部投稿，突尼斯导演Zoubeir ElJlassi凭借《Lily》获奖。“最大的误解是认为AI包揽了所有创作工作，”他说，“讲故事、导演、美术指导、情感深度和艺术选择，从根本上仍属于人类。”"
               },
               {
                 "t": "p",
-                "x": "故事设定在2050年代，讲述冷酷的战斗机器人Alexei在遇见未登记的少女Sophia和人类最后一位神父Michael后，开始体验人类情感。"
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "AI电影《Raphael》剧照 / 图片由300 & Co.提供"
-              },
-              {
-                "t": "p",
-                "x": "画面上，14个月逐镜头的打磨收到成效：影片避开了AI视频常见的别扭视觉错误和角色外貌突变，口型也更为流畅。但故事过于熟悉，138分钟里，黑暗的未来设定可能显得可预测。"
-              },
-              {
-                "t": "p",
-                "x": "在韩国电影业受困于成本上升和投资萎缩之际，《Raphael》凸显了AI作为大规模科幻片高性价比工具的价值，同时提醒人们，引人入胜的故事才是真正的驱动力。"
+                "x": "Academy曾表示，生成式AI对影片的Oscar获奖机会“既无帮助也无损害”；一年后，它又规定只有经核实由人类完成的表演和剧本才符合资格。NYU Abu Dhabi的研究人员发现，Stable Diffusion几乎把所有中东男性形象都概括为棕色皮肤、留胡子、身着传统服饰。AI创意制片人Darryll Rapacon预测，AI电影“可能会形成自己的类别，而这些工具则会像VFX一样成为日常制作的一部分”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La cinta de AI Raphael deslumbra\npero su historia es conocida",
-          "body": "Raphael, primer largometraje all-AI de Corea, llega el 25 de noviembre con imágenes al límite y una historia conocida.",
-          "mini_headline": "Reseña de Raphael, cinta de AI",
+          "headline": "El premio de cine AI de Dubai\nvuelve con su segunda edición",
+          "body": "El AI Film Award de Dubai, dotado con $1 million, vuelve en su segunda edición mientras la región se lo toma en serio.",
+          "mini_headline": "Vuelve el premio AI de $1M de Dubai",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/e864f8f0-7474-4e51-9c16-b188d2d581cf.jpg?w=728",
-                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
+                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
               },
               {
                 "t": "p",
-                "x": "“Raphael”, el primer largometraje de Corea creado íntegramente con AI generativa, llega a los cines del país el 25 de noviembre. Destaca por su imagen pulida y sus ambiciosas preguntas filosóficas, aunque su narrativa depende mucho de fórmulas de género conocidas."
+                "x": "Este noviembre, Dubai recibe inscripciones para su segundo AI Film Award, eje central del 1 Billion Followers Summit de enero de 2027. Una sola película de entre cinco y siete minutos ganará un total de $1 million. Este año, el certamen se asocia con TikTok y BytePlus, parte de ByteDance: al menos el 70% de la película final debe generarse con el modo avanzado de generación de video con AI de Seedance, y las imágenes de acción real solo se permiten como un pequeño complemento."
               },
               {
                 "t": "p",
-                "x": "Codirigida por Yang Ik-june, Moon Shin-woo y Jung Joo-won, y producida por Matteo AI Studio junto con MBC C&I AI Contents Lab, se completó en 14 meses sin rodar una sola escena con actores reales. Salvo la planificación y el guion, la AI generativa creó todos los elementos, desde personajes y paisajes hasta la actuación de voz, la música y los efectos de sonido."
+                "x": "La primera edición, lanzada en septiembre de 2025 con Google Gemini, recibió 3,500 propuestas y la ganó el director tunecino Zoubeir ElJlassi con Lily. “El mayor malentendido es que la AI hace todo el trabajo creativo”, dice. “La narración, la dirección, la dirección de arte, la profundidad emocional y las decisiones artísticas siguen siendo fundamentalmente humanas”."
               },
               {
                 "t": "p",
-                "x": "Ambientada en la década de 2050, sigue a Alexei, un despiadado androide de combate que empieza a experimentar sentimientos humanos tras conocer a Sophia, una niña no registrada, y a Michael, el último sacerdote de la humanidad."
-              },
-              {
-                "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/11/16/a018563d-4fb8-4f47-a4ea-e00b8c99461b.jpg?w=728",
-                "cap": "Una escena de la película de AI “Raphael” / Cortesía de 300 & Co."
-              },
-              {
-                "t": "p",
-                "x": "En lo visual, los 14 meses de pulido plano a plano dan fruto: evita los torpes errores visuales y los cambios bruscos en la apariencia de los personajes habituales en los videos de AI, y el movimiento de los labios es más fluido. Pero la historia resulta demasiado conocida, y a lo largo de 138 minutos el oscuro escenario futuro puede volverse predecible."
-              },
-              {
-                "t": "p",
-                "x": "Mientras la industria cinematográfica coreana lidia con el aumento de costos y la caída de la inversión, “Raphael” muestra la AI como una herramienta rentable para la ciencia ficción a gran escala, a la vez que recuerda que una narración atractiva sigue siendo el verdadero motor."
+                "x": "La Academy dijo en su momento que la AI generativa “ni ayudaría ni perjudicaría” las posibilidades de una película en los Oscar; un año después, decidió que solo podrían competir las interpretaciones y los guiones verificados como humanos. Investigadores de NYU Abu Dhabi descubrieron que Stable Diffusion generalizaba casi todas las representaciones de hombres de Oriente Medio con piel morena, barba y vestimenta tradicional. El productor creativo de AI Darryll Rapacon prevé que las películas de AI “podrían desarrollar su propia categoría, mientras las herramientas pasan a formar parte de la producción cotidiana, como los VFX”."
               }
             ]
           }
@@ -1179,15 +919,15 @@
       }
     },
     {
-      "id": "hampton-tallinn-ai-super-google",
-      "source_lang": "en",
+      "id": "siamsun-ai-shortdrama",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "오스카 수상 Hampton\nAI는 슈퍼 Google",
-      "body": "Hampton은 PÖFF에서 AI로 각본을 쓰는 건 쉬운 길이라고 꼬집었다.",
-      "mini_headline": "Hampton, AI는 슈퍼 Google",
+      "headline": "태국 포탈 엔터테인먼트\nAI 숏폼 드라마 앱 공개",
+      "body": "태국 포탈이 AI 숏폼 드라마 앱 SiamSun과 AI 배우 개발 계획을 공개했다.",
+      "mini_headline": "태국 AI 숏폼 드라마 앱",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060/",
+      "source": "톱셀럽뉴스",
+      "url": "https://www.topcelev.co.kr/news/articleView.html?idxno=4219",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1195,345 +935,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-            "cap": "Tallinn 2026 마스터클래스에 나선 Sir Christopher Hampton(왼쪽)."
+            "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+            "cap": "출처 : ChatGPT 생성 이미지"
           },
           {
             "t": "p",
-            "x": "Oscar를 두 번 받은 각본가 겸 감독 Christopher Hampton이 제30회 Tallinn Black Nights Film Festival(PÖFF)에서 “From Stage to Screen: The Art of Adaptation” 마스터클래스를 열며 Industry@Tallinn & Baltic Event의 Discovery Campus 2026 첫 순서를 맡았다."
+            "x": "세로형 숏폼 드라마 시장이 커지면서 제작에 생성형 AI를 투입하는 사업자가 아시아 각국에서 늘고 있다. 세계 세로형 드라마 시장은 2025년 3700억 바트(약 14조 6000억 원)에서 2030년 7400억 바트(약 29조 2000억 원)로 커질 전망이다."
           },
           {
             "t": "p",
-            "x": "그는 “인공지능은 나를 크게 괴롭힌 주제가 아니다”라며 “나는 진짜 지능에 더 관심이 있다. … 흥미로운 작업도 많겠지만, 내게는 일종의 슈퍼 Google에 지나지 않는다”고 말했다."
+            "x": "태국 AI 엔터테인먼트 스타트업 포탈 엔터테인먼트(Fortal Entertainment)는 11월 4일 방콕에서 연 출범 행사 ‘Fortal Opening Day’에서 Fortal Studio, SiamSun, Siam Narukal 등 세 가지 사업을 선보였다. Fortal Studio는 창작자의 구상을 이미지·캐릭터·배경·영상·음성으로 생성하되 방향 설정과 품질 관리는 사람이 맡는 AI 제작 플랫폼이고, SiamSun은 태국 작가의 소설 판권을 사들여 AI의 도움으로 영상화한 세로형 시리즈 감상 앱이다."
           },
           {
             "t": "p",
-            "x": "AI가 작가 자리를 대신할지를 두고는 “다들 이 문제로 불안해하는 걸 알지만, 그런 일은 일어나지 않을 것이다. … 우리의 작업이 그쪽 작업보다 더 흥미롭다고 생각한다”고 했다."
+            "x": "실제 배우의 얼굴을 활용한 AI 배우 개발 계획도 나왔다. 배우 핏 통쯔아와 가수 겸 배우 잭 블랙잭이 초상권을 제공한다. 바이트댄스 계열 바이트플러스(BytePlus)는 포탈 엔터테인먼트를 태국 공식 파트너로 지정했다."
           },
           {
             "t": "p",
-            "x": "AI에 기대려는 젊은 작가에게는 “차라리 다른 직업을 고르는 편이 낫다”고 했다. “AI의 도움으로 각본을 쓴다면 쉬운 길을 고르는 것이다. 게으른 것이다.”"
-          },
-          {
-            "t": "p",
-            "x": "질의응답(Q&A)에서 그는 “AI는, 아마 모든 것이 늘 공식대로 하도록 등을 떠미는 것 같고, 물론 그게 Hollywood 스튜디오들을 기쁘게 한다”고 덧붙였다. Hampton은 이번 영화제에서 공식 경쟁 부문 심사위원장을 맡아 다섯 명의 심사위원단을 이끈다."
+            "x": "2026년 1분기 중국에서 새로 나온 숏폼 드라마는 12만 8000편이며 이 가운데 95% 이상이 AI로 제작됐다. 초상권 허락을 전제로 한 AI 배우 모델이 실제 작품과 수익 배분으로 이어지는지가 태국 사례의 관전 지점이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Oscar winner Hampton calls\nAI just a super Google",
-          "body": "Two-time Oscar winner Christopher Hampton told Tallinn's PÖFF that scripting with AI is choosing something easy.",
-          "mini_headline": "Hampton: AI a super Google",
+        "ko": {
+          "headline": "태국 포탈 엔터테인먼트\nAI 숏폼 드라마 앱 공개",
+          "body": "태국 포탈이 AI 숏폼 드라마 앱 SiamSun과 AI 배우 개발 계획을 공개했다.",
+          "mini_headline": "태국 AI 숏폼 드라마 앱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Sir Christopher Hampton (left) during his Tallinn 2026 masterclass."
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "출처 : ChatGPT 생성 이미지"
               },
               {
                 "t": "p",
-                "x": "Two-time Oscar-winning screenwriter and director Christopher Hampton spoke at the 30th Tallinn Black Nights Film Festival (PÖFF) in a masterclass, “From Stage to Screen: The Art of Adaptation,” kicking off the Industry@Tallinn & Baltic Event's Discovery Campus 2026."
+                "x": "세로형 숏폼 드라마 시장이 커지면서 제작에 생성형 AI를 투입하는 사업자가 아시아 각국에서 늘고 있다. 세계 세로형 드라마 시장은 2025년 3700억 바트(약 14조 6000억 원)에서 2030년 7400억 바트(약 29조 2000억 원)로 커질 전망이다."
               },
               {
                 "t": "p",
-                "x": "“It’s not a subject, artificial intelligence, that has troubled me very much,” he said. “I’m more interested in real intelligence. … I’m sure a lot of the work is very interesting, but for me, it’s nothing other than a sort of super Google.”"
+                "x": "태국 AI 엔터테인먼트 스타트업 포탈 엔터테인먼트(Fortal Entertainment)는 11월 4일 방콕에서 연 출범 행사 ‘Fortal Opening Day’에서 Fortal Studio, SiamSun, Siam Narukal 등 세 가지 사업을 선보였다. Fortal Studio는 창작자의 구상을 이미지·캐릭터·배경·영상·음성으로 생성하되 방향 설정과 품질 관리는 사람이 맡는 AI 제작 플랫폼이고, SiamSun은 태국 작가의 소설 판권을 사들여 AI의 도움으로 영상화한 세로형 시리즈 감상 앱이다."
               },
               {
                 "t": "p",
-                "x": "On AI replacing scribes: “I know everyone’s anxious about all this, but I don’t think it’s going to happen. … I think our work is more interesting than its work.”"
+                "x": "실제 배우의 얼굴을 활용한 AI 배우 개발 계획도 나왔다. 배우 핏 통쯔아와 가수 겸 배우 잭 블랙잭이 초상권을 제공한다. 바이트댄스 계열 바이트플러스(BytePlus)는 포탈 엔터테인먼트를 태국 공식 파트너로 지정했다."
               },
               {
                 "t": "p",
-                "x": "He suggested young writers “may as well choose a different profession” if they want to rely on AI. “If you write a script with the help of AI, you’re choosing something easy. You’re being lazy.”"
-              },
-              {
-                "t": "p",
-                "x": "In the Q&A he added: “AI, I suppose everything is nudging you to always be formulaic, and of course that’s what makes the studios in Hollywood happy.” Hampton heads the five-member jury for the festival's official competition."
+                "x": "2026년 1분기 중국에서 새로 나온 숏폼 드라마는 12만 8000편이며 이 가운데 95% 이상이 AI로 제작됐다. 초상권 허락을 전제로 한 AI 배우 모델이 실제 작품과 수익 배분으로 이어지는지가 태국 사례의 관전 지점이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "오스카 수상 Hampton\nAI는 슈퍼 Google",
-          "body": "Hampton은 PÖFF에서 AI로 각본을 쓰는 건 쉬운 길이라고 꼬집었다.",
-          "mini_headline": "Hampton, AI는 슈퍼 Google",
+        "en": {
+          "headline": "Thailand’s Fortal Entertainment\nunveils AI short-drama app",
+          "body": "Thailand’s Fortal unveiled SiamSun, an AI short-form drama app, along with plans to develop AI actors.",
+          "mini_headline": "Thai AI short-form drama app",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Tallinn 2026 마스터클래스에 나선 Sir Christopher Hampton(왼쪽)."
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "Source: image generated by ChatGPT"
               },
               {
                 "t": "p",
-                "x": "Oscar를 두 번 받은 각본가 겸 감독 Christopher Hampton이 제30회 Tallinn Black Nights Film Festival(PÖFF)에서 “From Stage to Screen: The Art of Adaptation” 마스터클래스를 열며 Industry@Tallinn & Baltic Event의 Discovery Campus 2026 첫 순서를 맡았다."
+                "x": "As the vertical short-form drama market grows, more companies across Asia are putting generative AI into production. The global vertical drama market is expected to grow from 3700억 baht (about 14조 6000억 won) in 2025 to 7400억 baht (about 29조 2000억 won) in 2030."
               },
               {
                 "t": "p",
-                "x": "그는 “인공지능은 나를 크게 괴롭힌 주제가 아니다”라며 “나는 진짜 지능에 더 관심이 있다. … 흥미로운 작업도 많겠지만, 내게는 일종의 슈퍼 Google에 지나지 않는다”고 말했다."
+                "x": "Thai AI entertainment startup Fortal Entertainment presented three businesses, Fortal Studio, SiamSun and Siam Narukal, at its launch event ‘Fortal Opening Day’ in Bangkok on November 4. Fortal Studio is an AI production platform that turns a creator’s ideas into images, characters, backgrounds, video and voice while people handle direction and quality control, and SiamSun is an app for watching vertical series adapted into video with the help of AI from novels whose rights were bought from Thai writers."
               },
               {
                 "t": "p",
-                "x": "AI가 작가 자리를 대신할지를 두고는 “다들 이 문제로 불안해하는 걸 알지만, 그런 일은 일어나지 않을 것이다. … 우리의 작업이 그쪽 작업보다 더 흥미롭다고 생각한다”고 했다."
+                "x": "Plans to develop AI actors using the faces of real actors were also announced. Actor Pit Tongchua and singer-actor Jack Blackjack are providing their likeness rights. BytePlus, a ByteDance affiliate, named Fortal Entertainment its official partner in Thailand."
               },
               {
                 "t": "p",
-                "x": "AI에 기대려는 젊은 작가에게는 “차라리 다른 직업을 고르는 편이 낫다”고 했다. “AI의 도움으로 각본을 쓴다면 쉬운 길을 고르는 것이다. 게으른 것이다.”"
-              },
-              {
-                "t": "p",
-                "x": "질의응답(Q&A)에서 그는 “AI는, 아마 모든 것이 늘 공식대로 하도록 등을 떠미는 것 같고, 물론 그게 Hollywood 스튜디오들을 기쁘게 한다”고 덧붙였다. Hampton은 이번 영화제에서 공식 경쟁 부문 심사위원장을 맡아 다섯 명의 심사위원단을 이끈다."
+                "x": "In Q1 2026, 12만 8000 new short-form dramas were released in China, and more than 95% of them were made with AI. The point to watch in the Thai case is whether an AI actor model built on consent to likeness rights leads to actual productions and revenue sharing."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オスカー受賞Hampton\nAIは「超Google」",
-          "body": "Hampton氏はTallinnのPÖFFで、AIで脚本を書くのは安易な選択だと語った。",
-          "mini_headline": "Hampton「AIは超Google」",
+          "headline": "タイのFortal\nAI縦型ドラマアプリ公開",
+          "body": "タイのFortalがAIショートドラマアプリSiamSunとAI俳優の開発計画を公開した。",
+          "mini_headline": "タイのAIショートドラマアプリ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Tallinn 2026のマスタークラスに登壇したSir Christopher Hampton（左）。"
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "出典:ChatGPT生成画像"
               },
               {
                 "t": "p",
-                "x": "Oscarを二度受賞した脚本家・監督のChristopher Hamptonが、第30回Tallinn Black Nights Film Festival（PÖFF）でマスタークラス「From Stage to Screen: The Art of Adaptation」に登壇し、Industry@Tallinn & Baltic EventのDiscovery Campus 2026の幕を開けた。"
+                "x": "縦型ショートドラマ市場の拡大に伴い、制作に生成AIを投入する事業者がアジア各国で増えている。世界の縦型ドラマ市場は2025年の3700億バーツ(約14兆6000億ウォン)から2030年には7400億バーツ(約29兆2000億ウォン)に拡大する見通しだ。"
               },
               {
                 "t": "p",
-                "x": "「人工知能は、私をそれほど悩ませてきたテーマではない」と彼は語った。「私は本物の知性のほうに関心がある。…興味深い仕事も多いのだろうが、私にとっては一種のスーパーGoogleにすぎない」"
+                "x": "タイのAIエンターテインメントスタートアップ、Fortal Entertainmentは11月4日にバンコクで開いた発足イベント「Fortal Opening Day」で、Fortal Studio、SiamSun、Siam Narukalの三つの事業を披露した。Fortal Studioはクリエイターの構想を画像・キャラクター・背景・映像・音声として生成しつつ、方向づけと品質管理は人間が担うAI制作プラットフォームで、SiamSunはタイの作家の小説の版権を買い取り、AIの助けを借りて映像化した縦型シリーズの視聴アプリだ。"
               },
               {
                 "t": "p",
-                "x": "AIが脚本家に取って代わるかについては、「皆がこのことで不安を抱いているのは知っているが、そうはならないと思う。…私たちの仕事のほうが、あちらの仕事より面白い」と述べた。"
+                "x": "実在の俳優の顔を活用したAI俳優の開発計画も示された。俳優のピット・トンチュアと歌手兼俳優のジャック・ブラックジャックが肖像権を提供する。ByteDance系のBytePlusはFortal Entertainmentをタイの公式パートナーに指定した。"
               },
               {
                 "t": "p",
-                "x": "AIに頼りたいなら、若い書き手は「別の職業を選んだほうがいい」とも示唆した。「AIの助けを借りて脚本を書くなら、それは安易な道を選んでいるということだ。怠けているのだ」"
-              },
-              {
-                "t": "p",
-                "x": "質疑応答（Q&A）では「AIというのは、何もかもが常に型どおりになるよう背中を押してくるのだと思う。もちろん、それこそがHollywoodのスタジオを喜ばせる」と付け加えた。Hamptonは同映画祭の公式コンペティション部門で五人構成の審査員団の長を務める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "奥斯卡得主Hampton\n称AI只是超级Google",
-          "body": "两度获奥斯卡的Christopher Hampton在PÖFF表示，用AI写剧本是图省事。",
-          "mini_headline": "Hampton：AI是超级Google",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Sir Christopher Hampton（左）在Tallinn 2026大师班上。"
-              },
-              {
-                "t": "p",
-                "x": "两度获得Oscar的编剧兼导演Christopher Hampton在第30届Tallinn Black Nights Film Festival（PÖFF）主讲大师班“From Stage to Screen: The Art of Adaptation”，为Industry@Tallinn & Baltic Event的Discovery Campus 2026拉开序幕。"
-              },
-              {
-                "t": "p",
-                "x": "“人工智能并不是一个让我太困扰的话题，”他说。“我对真正的智能更感兴趣。……我相信很多相关工作都很有意思，但对我来说，它不过是一种超级Google。”"
-              },
-              {
-                "t": "p",
-                "x": "谈到AI取代编剧：“我知道大家都为此焦虑，但我认为这不会发生。……我觉得我们的作品比它的作品更有意思。”"
-              },
-              {
-                "t": "p",
-                "x": "他建议，如果年轻编剧想依赖AI，“不如干脆换个职业”。“如果你借助AI写剧本，你就是在选择轻松的路。你在偷懒。”"
-              },
-              {
-                "t": "p",
-                "x": "在问答环节（Q&A）中他补充道：“AI，我想一切都在推着你始终套用公式，当然，这正是让Hollywood片厂高兴的东西。”Hampton担任本届电影节官方竞赛单元五人评审团主席。"
+                "x": "2026年第1四半期に中国で新たに登場したショートドラマは12万8000本で、その95%以上がAIで制作された。肖像権の許諾を前提としたAI俳優モデルが実際の作品と収益分配につながるかどうかが、タイの事例の注目点だ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hampton, ganador del Oscar:\nla AI es solo un súper Google",
-          "body": "El dos veces ganador del Oscar Christopher Hampton dijo en el PÖFF de Tallinn que escribir con AI es elegir lo fácil.",
-          "mini_headline": "Hampton: la AI, un súper Google",
+          "headline": "La tailandesa Fortal presenta\nuna app de microdramas con AI",
+          "body": "La tailandesa Fortal presentó SiamSun, una app de dramas cortos con AI, y un plan para desarrollar actores de AI.",
+          "mini_headline": "App tailandesa de dramas cortos con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Sir Christopher Hampton (izquierda) durante su clase magistral en Tallinn 2026."
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "Fuente: imagen generada con ChatGPT"
               },
               {
                 "t": "p",
-                "x": "El guionista y director Christopher Hampton, dos veces ganador del Oscar, habló en el 30.º Tallinn Black Nights Film Festival (PÖFF) en la clase magistral “From Stage to Screen: The Art of Adaptation”, que inauguró el Discovery Campus 2026 de Industry@Tallinn & Baltic Event."
+                "x": "A medida que crece el mercado de dramas cortos en formato vertical, aumentan en toda Asia las empresas que incorporan AI generativa a la producción. Se prevé que el mercado mundial de dramas verticales pase de 3700억 bahts (unos 14조 6000억 wones) en 2025 a 7400억 bahts (unos 29조 2000억 wones) en 2030."
               },
               {
                 "t": "p",
-                "x": "“La inteligencia artificial no es un tema que me haya inquietado mucho”, dijo. “Me interesa más la inteligencia real. … Seguro que gran parte del trabajo es muy interesante, pero para mí no es más que una especie de súper Google”."
+                "x": "La startup tailandesa de entretenimiento con AI Fortal Entertainment presentó tres negocios, Fortal Studio, SiamSun y Siam Narukal, en su evento de lanzamiento ‘Fortal Opening Day’, celebrado en Bangkok el 4 de noviembre. Fortal Studio es una plataforma de producción con AI que convierte las ideas de los creadores en imágenes, personajes, fondos, video y voz, mientras que la dirección y el control de calidad quedan en manos de personas; SiamSun es una app para ver series verticales adaptadas con ayuda de AI a partir de novelas cuyos derechos se compraron a autores tailandeses."
               },
               {
                 "t": "p",
-                "x": "Sobre la AI reemplazando a los guionistas: “Sé que todos están inquietos por esto, pero no creo que vaya a suceder. … Creo que nuestro trabajo es más interesante que el suyo”."
+                "x": "También se anunció un plan para desarrollar actores de AI a partir de los rostros de actores reales. El actor Pit Tongchua y el cantante y actor Jack Blackjack ceden sus derechos de imagen. BytePlus, filial de ByteDance, designó a Fortal Entertainment como su socio oficial en Tailandia."
               },
               {
                 "t": "p",
-                "x": "Sugirió que los escritores jóvenes “bien podrían elegir otra profesión” si quieren depender de la AI. “Si escribes un guion con ayuda de la AI, estás eligiendo algo fácil. Estás siendo perezoso”."
+                "x": "En el primer trimestre (Q1) de 2026 se estrenaron en China 12만 8000 nuevos dramas cortos, y más del 95% se produjo con AI. Lo que habrá que observar en el caso tailandés es si el modelo de actores de AI basado en el consentimiento de los derechos de imagen se traduce en obras reales y en reparto de ingresos."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "泰国Fortal娱乐公司\n推出AI短剧应用",
+          "body": "泰国Fortal公布AI短剧应用SiamSun及AI演员开发计划。",
+          "mini_headline": "泰国AI短剧应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "来源：ChatGPT生成图像"
               },
               {
                 "t": "p",
-                "x": "En la sesión de Q&A añadió: “Con la AI, supongo que todo te empuja a ser siempre formulaico, y por supuesto eso es lo que hace felices a los estudios de Hollywood”. Hampton preside el jurado de cinco miembros de la competencia oficial del festival."
+                "x": "随着竖屏短剧市场扩大，亚洲各国在制作中投入生成式AI的企业日益增多。全球竖屏短剧市场预计将从2025年的3700亿泰铢（约146000亿韩元）增长至2030年的7400亿泰铢（约292000亿韩元）。"
+              },
+              {
+                "t": "p",
+                "x": "泰国AI娱乐初创公司Fortal Entertainment于11月4日在曼谷举办的启动活动‘Fortal Opening Day’上推出了Fortal Studio、SiamSun、Siam Narukal三项业务。Fortal Studio是一个AI制作平台，可将创作者的构想生成为图像·角色·背景·视频·语音，方向设定与质量把控则由人负责；SiamSun则是一款竖屏剧集观看应用，购入泰国作家的小说版权，借助AI将其影像化。"
+              },
+              {
+                "t": "p",
+                "x": "利用真实演员面孔开发AI演员的计划也随之公布。演员皮特·通茨阿与歌手兼演员杰克·布莱克杰克将提供肖像权。字节跳动旗下的BytePlus已将Fortal Entertainment指定为其泰国官方合作伙伴。"
+              },
+              {
+                "t": "p",
+                "x": "2026年第1季度，中国新上线的短剧达128000部，其中95%以上由AI制作。以获得肖像权授权为前提的AI演员模式能否转化为实际作品与收益分成，是泰国案例的看点所在。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "오스카 수상 Hampton\nAI는 슈퍼 Google",
-          "body": "Hampton은 PÖFF에서 AI로 각본을 쓰는 건 쉬운 선택이라고 말했다.",
-          "mini_headline": "Hampton, AI는 슈퍼 Google",
+        "en": {
+          "headline": "Thailand’s Fortal Entertainment\nunveils AI short-drama app",
+          "body": "Thailand’s Fortal unveiled SiamSun, an AI short-form drama app, along with plans to develop AI actors.",
+          "mini_headline": "Thai AI short-form drama app",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Tallinn 2026 마스터클래스에 나선 Sir Christopher Hampton(왼쪽)."
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "Source: image generated by ChatGPT"
               },
               {
                 "t": "p",
-                "x": "Oscar를 두 번 받은 각본가 겸 감독 Christopher Hampton이 제30회 Tallinn Black Nights Film Festival(PÖFF)에서 “From Stage to Screen: The Art of Adaptation” 마스터클래스로 Industry@Tallinn & Baltic Event의 Discovery Campus 2026의 문을 열었다."
+                "x": "As the vertical short-form drama market grows, more companies across Asia are putting generative AI into production. The global vertical drama market is expected to grow from 3700억 baht (about 14조 6000억 won) in 2025 to 7400억 baht (about 29조 2000억 won) in 2030."
               },
               {
                 "t": "p",
-                "x": "그는 “인공지능은 나를 크게 괴롭힌 주제가 아니다”라며 “나는 진짜 지능에 더 관심이 있다. … 흥미로운 작업도 많겠지만, 내게는 일종의 슈퍼 Google에 지나지 않는다”고 말했다."
+                "x": "Thai AI entertainment startup Fortal Entertainment presented three businesses, Fortal Studio, SiamSun and Siam Narukal, at its launch event ‘Fortal Opening Day’ in Bangkok on November 4. Fortal Studio is an AI production platform that turns a creator’s ideas into images, characters, backgrounds, video and voice while people handle direction and quality control, and SiamSun is an app for watching vertical series adapted into video with the help of AI from novels whose rights were bought from Thai writers."
               },
               {
                 "t": "p",
-                "x": "AI가 작가를 대체할지에 대해서는 “다들 이 문제로 불안해하는 걸 알지만, 그런 일은 일어나지 않을 것이다. … 우리의 작업이 그쪽 작업보다 더 흥미롭다고 생각한다”고 했다."
+                "x": "Plans to develop AI actors using the faces of real actors were also announced. Actor Pit Tongchua and singer-actor Jack Blackjack are providing their likeness rights. BytePlus, a ByteDance affiliate, named Fortal Entertainment its official partner in Thailand."
               },
               {
                 "t": "p",
-                "x": "그는 젊은 작가들이 AI에 기대려 한다면 “차라리 다른 직업을 고르는 편이 낫다”고 했다. “AI의 도움으로 각본을 쓴다면 쉬운 길을 고르는 것이다. 게으른 것이다.”"
-              },
-              {
-                "t": "p",
-                "x": "질의응답(Q&A)에서 그는 “AI는, 아마 모든 것이 늘 공식대로 하도록 등을 떠미는 것 같고, 물론 그게 Hollywood 스튜디오들을 기쁘게 한다”고 덧붙였다. Hampton은 영화제 공식 경쟁 부문 다섯 명 심사위원단의 위원장을 맡고 있다."
+                "x": "In Q1 2026, 12만 8000 new short-form dramas were released in China, and more than 95% of them were made with AI. The point to watch in the Thai case is whether an AI actor model built on consent to likeness rights leads to actual productions and revenue sharing."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オスカー受賞Hampton\nAIは「超Google」",
-          "body": "Hampton氏はTallinnのPÖFFで、AIで脚本を書くのは安易な選択だと語った。",
-          "mini_headline": "Hampton「AIは超Google」",
+          "headline": "タイのFortal\nAI縦型ドラマアプリ公開",
+          "body": "タイのFortalがAIショートドラマアプリSiamSunとAI俳優の開発計画を公開した。",
+          "mini_headline": "タイのAIショートドラマアプリ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Tallinn 2026のマスタークラスに登壇したSir Christopher Hampton（左）。"
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "出典:ChatGPT生成画像"
               },
               {
                 "t": "p",
-                "x": "Oscarを二度受賞した脚本家・監督のChristopher Hamptonが、第30回Tallinn Black Nights Film Festival（PÖFF）でマスタークラス「From Stage to Screen: The Art of Adaptation」に登壇し、Industry@Tallinn & Baltic EventのDiscovery Campus 2026の幕を開けた。"
+                "x": "縦型ショートドラマ市場の拡大に伴い、制作に生成AIを投入する事業者がアジア各国で増えている。世界の縦型ドラマ市場は2025年の3700億バーツ(約14兆6000億ウォン)から2030年には7400億バーツ(約29兆2000億ウォン)に拡大する見通しだ。"
               },
               {
                 "t": "p",
-                "x": "「人工知能は、私をそれほど悩ませてきたテーマではない」と彼は語った。「私は本物の知性のほうに関心がある。…興味深い仕事も多いのだろうが、私にとっては一種のスーパーGoogleにすぎない」"
+                "x": "タイのAIエンターテインメントスタートアップ、Fortal Entertainmentは11月4日にバンコクで開いた発足イベント「Fortal Opening Day」で、Fortal Studio、SiamSun、Siam Narukalの三つの事業を披露した。Fortal Studioはクリエイターの構想を画像・キャラクター・背景・映像・音声として生成しつつ、方向づけと品質管理は人間が担うAI制作プラットフォームで、SiamSunはタイの作家の小説の版権を買い取り、AIの助けを借りて映像化した縦型シリーズの視聴アプリだ。"
               },
               {
                 "t": "p",
-                "x": "AIが脚本家に取って代わるかについては、「皆がこのことで不安を抱いているのは知っているが、そうはならないと思う。…私たちの仕事のほうが、あちらの仕事より面白い」と述べた。"
+                "x": "実在の俳優の顔を活用したAI俳優の開発計画も示された。俳優のピット・トンチュアと歌手兼俳優のジャック・ブラックジャックが肖像権を提供する。ByteDance系のBytePlusはFortal Entertainmentをタイの公式パートナーに指定した。"
               },
               {
                 "t": "p",
-                "x": "AIに頼りたいなら、若い書き手は「別の職業を選んだほうがいい」とも示唆した。「AIの助けを借りて脚本を書くなら、それは安易な道を選んでいるということだ。怠けているのだ」"
-              },
-              {
-                "t": "p",
-                "x": "質疑応答（Q&A）では「AIというのは、何もかもが常に型どおりになるよう背中を押してくるのだと思う。もちろん、それこそがHollywoodのスタジオを喜ばせる」と付け加えた。Hamptonは同映画祭の公式コンペティション部門で五人構成の審査員団の長を務める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "奥斯卡得主Hampton\n称AI只是超级Google",
-          "body": "两度获奥斯卡的Christopher Hampton在PÖFF表示，用AI写剧本是图省事。",
-          "mini_headline": "Hampton：AI是超级Google",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Sir Christopher Hampton（左）在Tallinn 2026大师班上。"
-              },
-              {
-                "t": "p",
-                "x": "两度获得Oscar的编剧兼导演Christopher Hampton在第30届Tallinn Black Nights Film Festival（PÖFF）主讲大师班“From Stage to Screen: The Art of Adaptation”，为Industry@Tallinn & Baltic Event的Discovery Campus 2026拉开序幕。"
-              },
-              {
-                "t": "p",
-                "x": "“人工智能并不是一个让我太困扰的话题，”他说。“我对真正的智能更感兴趣。……我相信很多相关工作都很有意思，但对我来说，它不过是一种超级Google。”"
-              },
-              {
-                "t": "p",
-                "x": "谈到AI取代编剧：“我知道大家都为此焦虑，但我认为这不会发生。……我觉得我们的作品比它的作品更有意思。”"
-              },
-              {
-                "t": "p",
-                "x": "他建议，如果年轻编剧想依赖AI，“不如干脆换个职业”。“如果你借助AI写剧本，你就是在选择轻松的路。你在偷懒。”"
-              },
-              {
-                "t": "p",
-                "x": "在问答环节（Q&A）中他补充道：“AI，我想一切都在推着你始终套用公式，当然，这正是让Hollywood片厂高兴的东西。”Hampton担任本届电影节官方竞赛单元五人评审团主席。"
+                "x": "2026年第1四半期に中国で新たに登場したショートドラマは12万8000本で、その95%以上がAIで制作された。肖像権の許諾を前提としたAI俳優モデルが実際の作品と収益分配につながるかどうかが、タイの事例の注目点だ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hampton, ganador del Oscar:\nla AI es solo un súper Google",
-          "body": "El dos veces ganador del Oscar Christopher Hampton dijo en el PÖFF de Tallinn que escribir con AI es elegir lo fácil.",
-          "mini_headline": "Hampton: la AI, un súper Google",
+          "headline": "La tailandesa Fortal presenta\nuna app de microdramas con AI",
+          "body": "La tailandesa Fortal presentó SiamSun, una app de dramas cortos con AI, y un plan para desarrollar actores de AI.",
+          "mini_headline": "App tailandesa de dramas cortos con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hampton.jpg?w=1440&h=810&crop=1",
-                "cap": "Sir Christopher Hampton (izquierda) durante su clase magistral en Tallinn 2026."
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "Fuente: imagen generada con ChatGPT"
               },
               {
                 "t": "p",
-                "x": "El guionista y director Christopher Hampton, dos veces ganador del Oscar, habló en el 30.º Tallinn Black Nights Film Festival (PÖFF) en la clase magistral “From Stage to Screen: The Art of Adaptation”, que inauguró el Discovery Campus 2026 de Industry@Tallinn & Baltic Event."
+                "x": "A medida que crece el mercado de dramas cortos en formato vertical, aumentan en toda Asia las empresas que incorporan AI generativa a la producción. Se prevé que el mercado mundial de dramas verticales pase de 3700억 bahts (unos 14조 6000억 wones) en 2025 a 7400억 bahts (unos 29조 2000억 wones) en 2030."
               },
               {
                 "t": "p",
-                "x": "“La inteligencia artificial no es un tema que me haya inquietado mucho”, dijo. “Me interesa más la inteligencia real. … Seguro que gran parte del trabajo es muy interesante, pero para mí no es más que una especie de súper Google”."
+                "x": "La startup tailandesa de entretenimiento con AI Fortal Entertainment presentó tres negocios, Fortal Studio, SiamSun y Siam Narukal, en su evento de lanzamiento ‘Fortal Opening Day’, celebrado en Bangkok el 4 de noviembre. Fortal Studio es una plataforma de producción con AI que convierte las ideas de los creadores en imágenes, personajes, fondos, video y voz, mientras que la dirección y el control de calidad quedan en manos de personas; SiamSun es una app para ver series verticales adaptadas con ayuda de AI a partir de novelas cuyos derechos se compraron a autores tailandeses."
               },
               {
                 "t": "p",
-                "x": "Sobre la AI reemplazando a los guionistas: “Sé que todos están inquietos por esto, pero no creo que vaya a suceder. … Creo que nuestro trabajo es más interesante que el suyo”."
+                "x": "También se anunció un plan para desarrollar actores de AI a partir de los rostros de actores reales. El actor Pit Tongchua y el cantante y actor Jack Blackjack ceden sus derechos de imagen. BytePlus, filial de ByteDance, designó a Fortal Entertainment como su socio oficial en Tailandia."
               },
               {
                 "t": "p",
-                "x": "Sugirió que los escritores jóvenes “bien podrían elegir otra profesión” si quieren depender de la AI. “Si escribes un guion con ayuda de la AI, estás eligiendo algo fácil. Estás siendo perezoso”."
+                "x": "En el primer trimestre (Q1) de 2026 se estrenaron en China 12만 8000 nuevos dramas cortos, y más del 95% se produjo con AI. Lo que habrá que observar en el caso tailandés es si el modelo de actores de AI basado en el consentimiento de los derechos de imagen se traduce en obras reales y en reparto de ingresos."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "泰国Fortal娱乐公司\n推出AI短剧应用",
+          "body": "泰国Fortal公布AI短剧应用SiamSun及AI演员开发计划。",
+          "mini_headline": "泰国AI短剧应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
+                "cap": "来源：ChatGPT生成图像"
               },
               {
                 "t": "p",
-                "x": "En la sesión de Q&A añadió: “Con la AI, supongo que todo te empuja a ser siempre formulaico, y por supuesto eso es lo que hace felices a los estudios de Hollywood”. Hampton preside el jurado de cinco miembros de la competencia oficial del festival."
+                "x": "随着竖屏短剧市场扩大，亚洲各国在制作中投入生成式AI的企业日益增多。全球竖屏短剧市场预计将从2025年的3700亿泰铢（约146000亿韩元）增长至2030年的7400亿泰铢（约292000亿韩元）。"
+              },
+              {
+                "t": "p",
+                "x": "泰国AI娱乐初创公司Fortal Entertainment于11月4日在曼谷举办的启动活动‘Fortal Opening Day’上推出了Fortal Studio、SiamSun、Siam Narukal三项业务。Fortal Studio是一个AI制作平台，可将创作者的构想生成为图像·角色·背景·视频·语音，方向设定与质量把控则由人负责；SiamSun则是一款竖屏剧集观看应用，购入泰国作家的小说版权，借助AI将其影像化。"
+              },
+              {
+                "t": "p",
+                "x": "利用真实演员面孔开发AI演员的计划也随之公布。演员皮特·通茨阿与歌手兼演员杰克·布莱克杰克将提供肖像权。字节跳动旗下的BytePlus已将Fortal Entertainment指定为其泰国官方合作伙伴。"
+              },
+              {
+                "t": "p",
+                "x": "2026年第1季度，中国新上线的短剧达128000部，其中95%以上由AI制作。以获得肖像权授权为前提的AI演员模式能否转化为实际作品与收益分成，是泰国案例的看点所在。"
               }
             ]
           }
@@ -1541,391 +1241,401 @@
       }
     },
     {
-      "id": "thewrap-genz-ai-film-backlash",
-      "source_lang": "en",
+      "id": "gwangju-onair-awards",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "할리우드는 AI 수용\nGen Z는 반발한다",
-      "body": "스튜디오는 AI를 반기지만 AI에 익숙한 젊은 관객은 영화 속 AI를 꺼린다.",
-      "mini_headline": "Gen Z, AI 영화에 반발",
+      "headline": "AI로 만든 1분 영화\n첫 온에어 어워즈",
+      "body": "광주정보문화산업진흥원이 AI 영상 교육 수강생의 1분 영화 19편을 상영·시상했다.",
+      "mini_headline": "광주 AI 1분 영화 시상",
       "tool": "Movies",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/industry-news/tech/gen-z-hollywood-ai-opposition-films/",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/local/gwangju-jeonnam/6359050",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+            "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+            "cap": "(재)광주정보문화산업진흥원이 지난 12일 광주CGI센터 온에어스테이션에서 2026 온에어 어워즈(ON-AIR AWARDS)를 개최한 뒤 기념촬영하고 있다. (진흥원 제공)"
           },
           {
             "t": "p",
-            "x": "젊은 관객은 AI 사용을 받아들였지만 영화에 AI를 쓰는 일에는 여전히 반대가 많다. 조사업체 NRG가 TheWrap에 제공한 데이터를 보면 Gen Z 응답자의 삼분의 이 가까이가 AI가 연기하는(AI-played) 주인공은 받아들일 수 없다고 답했다. 포스터와 예고편 같은 마케팅에 AI를 쓰는 것도 더 경계했다."
+            "x": "(재)광주정보문화산업진흥원은 AI 영상 제작 교육 수강생들의 작품을 선보이는 '2026 온에어 어워즈'를 개최했다고 19일 밝혔다."
           },
           {
             "t": "p",
-            "x": "그럼에도 Gen Z 응답자의 39%는 AI 생성 소재가 일부 들어간 영화에 더 관심이 간다고 답했다. Millennials와 Gen X보다 높은 수치다. 특수효과나 색보정, 스턴트 대역 같은 영역이라면 거부감이 덜하다는 신호다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+            "x": "지난 12일 광주CGI센터 온에어스테이션에서 열린 이번 행사는 올해 운영한 AI 영상 제작 교육의 성과를 공유하기 위해 마련됐다. 교육에는 특강·기초·심화 강의와 원데이클래스 등 총 133명이 참여했다."
           },
           {
             "t": "p",
-            "x": "반감은 상당 부분 일자리를 잃을지 모른다는 두려움에서 나온다. Hartbeat의 Jeff Clanagan 대표는 “Gen Z는 소셜미디어 속에서 살기 때문에 질 낮은 AI 찌꺼기(slop)를 늘 받아먹고 있다”고 말했다."
+            "x": "이날 행사에서는 수강생들이 직접 기획하고 생성형 AI를 활용해 제작한 1분 내외의 영상 작품 19편을 상영했으며, 현장 투표와 심사위원 평가를 통해 선정된 우수작 7편을 시상했다."
           },
           {
             "t": "p",
-            "x": "관객 분위기는 초기 AI 영화들에서 먼저 드러날 것이다. Fable Studio의 “Gods Don’t Give Gifts”가 12월 4일 극장에 걸리고 Secret Level의 Jason Zada는 하이브리드 AI 호러 영화 “Terrarium”을 만들고 있다."
+            "x": "대상인 진흥원장상은 김예지 씨의 '악몽청소부'가 수상했으며, 이 밖에도 연출·비주얼·스토리·사운드 부문과 관객상, 특별상 등에서 우수작이 선정됐다."
           },
           {
             "t": "p",
-            "x": "NRG의 Kevin Tran은 “Gen Z는 전반적으로 배우와 작가를 대체하며 창작 과정 곳곳에 AI가 퍼지는 것보다, 색보정이나 특수효과 제작처럼 비하인드 작업을 보강하는 AI에 가장 관대하다”고 말했다."
+            "x": "진흥원 관계자는 \"이번 어워즈는 교육을 통해 배운 AI 기술을 실제 창작물로 구현하고 관객과 공유한 뜻깊은 자리\"라며 \"앞으로도 지역 창작자들이 새로운 기술을 활용해 창의적인 콘텐츠를 제작할 수 있도록 다양한 교육과 제작지원을 이어가겠다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "광주온에어스테이션은 호리존·LED월 스튜디오와 영상편집실 등을 갖춘 개방형 창작공간으로, 콘텐츠 기업과 지역 창작자, 시민을 대상으로 시설·장비 지원과 AI 영상 제작 교육을 무상으로 운영하고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Hollywood embraces AI,\nGen Z is pushing back",
-          "body": "While studios embrace AI, younger audiences who have embraced using it show notable opposition to AI in film.",
-          "mini_headline": "Gen Z pushes back on AI films",
+        "ko": {
+          "headline": "AI로 만든 1분 영화\n첫 온에어 어워즈",
+          "body": "광주정보문화산업진흥원이 AI 영상 교육 수강생의 1분 영화 19편을 상영·시상했다.",
+          "mini_headline": "광주 AI 1분 영화 시상",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "(재)광주정보문화산업진흥원이 지난 12일 광주CGI센터 온에어스테이션에서 2026 온에어 어워즈(ON-AIR AWARDS)를 개최한 뒤 기념촬영하고 있다. (진흥원 제공)"
               },
               {
                 "t": "p",
-                "x": "While younger audiences have embraced using AI, there’s still a lot of opposition to its use in cinema. Data gathered by research firm NRG for TheWrap found nearly two-thirds of Gen Z respondents feel an AI-played main character unacceptable, and are more wary of AI in posters, trailers and other marketing."
+                "x": "(재)광주정보문화산업진흥원은 AI 영상 제작 교육 수강생들의 작품을 선보이는 '2026 온에어 어워즈'를 개최했다고 19일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Yet 39% of Gen Z respondents said they would be more interested in a movie that had some AI generated material — above Millennials and Gen X, suggesting more acceptance in areas like special effects, color correction or stunt doubles."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "지난 12일 광주CGI센터 온에어스테이션에서 열린 이번 행사는 올해 운영한 AI 영상 제작 교육의 성과를 공유하기 위해 마련됐다. 교육에는 특강·기초·심화 강의와 원데이클래스 등 총 133명이 참여했다."
               },
               {
                 "t": "p",
-                "x": "Jobs fears underpin much of the opposition. “Gen Z lives on social media, so they’re getting fed bad AI slop all the time,” said Hartbeat president Jeff Clanagan."
+                "x": "이날 행사에서는 수강생들이 직접 기획하고 생성형 AI를 활용해 제작한 1분 내외의 영상 작품 19편을 상영했으며, 현장 투표와 심사위원 평가를 통해 선정된 우수작 7편을 시상했다."
               },
               {
                 "t": "p",
-                "x": "Early AI films will test the mood: Fable Studio's “Gods Don’t Give Gifts” hits theaters Dec. 4, and Secret Level's Jason Zada is making the hybrid AI horror film “Terrarium.”"
+                "x": "대상인 진흥원장상은 김예지 씨의 '악몽청소부'가 수상했으며, 이 밖에도 연출·비주얼·스토리·사운드 부문과 관객상, 특별상 등에서 우수작이 선정됐다."
               },
               {
                 "t": "p",
-                "x": "“Gen Z overall remains most permissive of AI augmenting behind-the-scenes workflows like color-correcting and creating special effects, rather than having it omnipresent in the creative process replacing actors and writers,” said NRG's Kevin Tran."
+                "x": "진흥원 관계자는 \"이번 어워즈는 교육을 통해 배운 AI 기술을 실제 창작물로 구현하고 관객과 공유한 뜻깊은 자리\"라며 \"앞으로도 지역 창작자들이 새로운 기술을 활용해 창의적인 콘텐츠를 제작할 수 있도록 다양한 교육과 제작지원을 이어가겠다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "광주온에어스테이션은 호리존·LED월 스튜디오와 영상편집실 등을 갖춘 개방형 창작공간으로, 콘텐츠 기업과 지역 창작자, 시민을 대상으로 시설·장비 지원과 AI 영상 제작 교육을 무상으로 운영하고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "할리우드는 AI 수용\nGen Z는 반발한다",
-          "body": "스튜디오는 AI를 반기지만 AI에 익숙한 젊은 관객은 영화 속 AI를 꺼린다.",
-          "mini_headline": "Gen Z, AI 영화에 반발",
+        "en": {
+          "headline": "1-minute films made with AI\nat the first ON-AIR AWARDS",
+          "body": "Gwangju’s culture industry agency screened 19 AI films of 1 minute each by its video course students and gave awards.",
+          "mini_headline": "Gwangju 1-minute AI film awards",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "The Gwangju Information & Culture Industry Promotion Agency poses for a commemorative photo after holding the 2026 ON-AIR AWARDS at the On-Air Station of the Gwangju CGI Center on the 12th. (Courtesy of the agency)"
               },
               {
                 "t": "p",
-                "x": "젊은 관객은 AI 사용을 받아들였지만 영화에 AI를 쓰는 일에는 여전히 반대가 많다. 조사업체 NRG가 TheWrap에 제공한 데이터를 보면 Gen Z 응답자의 삼분의 이 가까이가 AI가 연기하는(AI-played) 주인공은 받아들일 수 없다고 답했다. 포스터와 예고편 같은 마케팅에 AI를 쓰는 것도 더 경계했다."
+                "x": "The Gwangju Information & Culture Industry Promotion Agency said on the 19th that it held the ‘2026 ON-AIR AWARDS’, showcasing work by students of its AI video production courses."
               },
               {
                 "t": "p",
-                "x": "그럼에도 Gen Z 응답자의 39%는 AI 생성 소재가 일부 들어간 영화에 더 관심이 간다고 답했다. Millennials와 Gen X보다 높은 수치다. 특수효과나 색보정, 스턴트 대역 같은 영역이라면 거부감이 덜하다는 신호다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "The event, held on the 12th at the On-Air Station of the Gwangju CGI Center, was organized to share the results of the AI video production courses run this year. A total of 133 people took part in the courses, which included special lectures, basic and advanced classes, and one-day classes."
               },
               {
                 "t": "p",
-                "x": "반감은 상당 부분 일자리를 잃을지 모른다는 두려움에서 나온다. Hartbeat의 Jeff Clanagan 대표는 “Gen Z는 소셜미디어 속에서 살기 때문에 질 낮은 AI 찌꺼기(slop)를 늘 받아먹고 있다”고 말했다."
+                "x": "At the event, 19 video works of about 1 minute each, planned by the students themselves and made with generative AI, were screened, and 7 outstanding works chosen through on-site voting and judges’ evaluations received awards."
               },
               {
                 "t": "p",
-                "x": "관객 분위기는 초기 AI 영화들에서 먼저 드러날 것이다. Fable Studio의 “Gods Don’t Give Gifts”가 12월 4일 극장에 걸리고 Secret Level의 Jason Zada는 하이브리드 AI 호러 영화 “Terrarium”을 만들고 있다."
+                "x": "The grand prize, the Agency President’s Award, went to Kim Ye-ji’s ‘Nightmare Cleaner’, and outstanding works were also selected in the directing, visual, story and sound categories, as well as for the audience award and a special award."
               },
               {
                 "t": "p",
-                "x": "NRG의 Kevin Tran은 “Gen Z는 전반적으로 배우와 작가를 대체하며 창작 과정 곳곳에 AI가 퍼지는 것보다, 색보정이나 특수효과 제작처럼 비하인드 작업을 보강하는 AI에 가장 관대하다”고 말했다."
+                "x": "An agency official said, “These awards were a meaningful occasion where the AI skills learned through the courses were turned into actual creative works and shared with audiences,” adding, “We will continue to offer a range of training and production support so that local creators can use new technologies to make creative content.”"
+              },
+              {
+                "t": "p",
+                "x": "The Gwangju On-Air Station is an open creative space with a horizon and LED wall studio and video editing rooms, and it offers free facility and equipment support and AI video production training to content companies, local creators and citizens."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HollywoodはAI歓迎\nGen Zは反発",
-          "body": "スタジオがAIを歓迎する一方、AIに慣れた若い観客は映画でのAI利用に目立って反対している。",
-          "mini_headline": "Gen Z、AI映画に反発",
+          "headline": "AIで作った1分映画\n初のオンエアアワーズ",
+          "body": "光州情報文化産業振興院がAI映像教育の受講生による1分映画19本を上映・表彰した。",
+          "mini_headline": "光州のAI 1分映画表彰",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "(財)光州情報文化産業振興院が12日、光州CGIセンターのオンエアステーションで2026オンエアアワーズ(ON-AIR AWARDS)を開催した後、記念撮影をしている。(振興院提供)"
               },
               {
                 "t": "p",
-                "x": "若い観客はAIの利用を受け入れているが、映画での使用にはなお反対が根強い。調査会社NRGがTheWrapのために集めたデータによると、Gen Zの回答者の三分の二近くがAIが演じる主人公（AI-played）を受け入れられないと感じ、ポスターや予告編などのマーケティングでのAIにも一段と警戒している。"
+                "x": "(財)光州情報文化産業振興院は、AI映像制作教育の受講生の作品を披露する「2026オンエアアワーズ」を開催したと19日に明らかにした。"
               },
               {
                 "t": "p",
-                "x": "それでもGen Zの回答者の39%は、AI生成素材を一部含む映画にはより興味が湧くと答えた。MillennialsやGen Xを上回る数字で、特殊効果や色補正、スタントダブルといった分野では受容度が高いことがうかがえる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "12日に光州CGIセンターのオンエアステーションで開かれた今回のイベントは、今年実施したAI映像制作教育の成果を共有するために設けられた。教育には特別講義・基礎・応用講座やワンデークラスなど、計133人が参加した。"
               },
               {
                 "t": "p",
-                "x": "反対の多くは雇用への不安に根ざしている。Hartbeatのプレジデント、Jeff Clanaganは「Gen ZはSNSの中で暮らしているから、質の悪いAIスロップを常に浴びている」と語った。"
+                "x": "この日のイベントでは、受講生が自ら企画し生成AIを活用して制作した1分前後の映像作品19本を上映し、現場投票と審査員の評価を通じて選ばれた優秀作7本を表彰した。"
               },
               {
                 "t": "p",
-                "x": "初期のAI映画が空気を試すことになる。Fable Studioの「Gods Don’t Give Gifts」が12月4日に劇場公開され、Secret LevelのJason ZadaはハイブリッドAIホラー映画「Terrarium」を制作中だ。"
+                "x": "大賞にあたる振興院長賞はキム・イェジ氏の『悪夢清掃人』が受賞し、このほか演出・ビジュアル・ストーリー・サウンド部門や観客賞、特別賞などで優秀作が選ばれた。"
               },
               {
                 "t": "p",
-                "x": "NRGのKevin Tranは「Gen Zは全体として、俳優や脚本家に取って代わり創作過程のあらゆる場面にAIが入り込むことよりも、色補正や特殊効果の制作といった裏方の作業をAIが補うことに最も寛容だ」と述べた。"
+                "x": "振興院の関係者は「今回のアワーズは、教育で学んだAI技術を実際の創作物として形にし、観客と共有した意義深い場だった」とし、「今後も地域のクリエイターが新しい技術を活用して創造的なコンテンツを制作できるよう、多様な教育と制作支援を続けていく」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "光州オンエアステーションはホリゾント・LEDウォールスタジオや映像編集室などを備えた開放型の創作空間で、コンテンツ企業や地域のクリエイター、市民を対象に施設・機材の支援とAI映像制作教育を無償で行っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hollywood拥抱AI\nGen Z却在抵制",
-          "body": "片厂拥抱AI之际，惯用AI的年轻观众却明显反对电影使用AI。",
-          "mini_headline": "Gen Z抵制AI电影",
+          "headline": "AI制作的1分钟电影\n首届ON-AIR颁奖礼",
+          "body": "光州信息文化产业振兴院放映并表彰了AI影像课程学员的1分钟电影19部。",
+          "mini_headline": "光州AI 1分钟电影颁奖",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "（财）光州信息文化产业振兴院12日在光州CGI中心On-Air Station举办2026 ON-AIR AWARDS后合影留念。（振兴院提供）"
               },
               {
                 "t": "p",
-                "x": "尽管年轻观众已乐于使用AI，但电影中使用AI仍遭到不少反对。调研公司NRG为TheWrap收集的数据显示，近三分之二的Gen Z受访者认为由AI扮演主角（AI-played）不可接受，并对海报、预告片等营销中的AI更加警惕。"
+                "x": "（财）光州信息文化产业振兴院19日表示，举办了展示AI影像制作课程学员作品的“2026 ON-AIR AWARDS”。"
               },
               {
                 "t": "p",
-                "x": "不过，39%的Gen Z受访者表示，会对含有部分AI生成素材的电影更感兴趣，高于Millennials和Gen X，这表明他们在特效、调色或特技替身等领域接受度更高。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "此次活动于12日在光州CGI中心On-Air Station举行，旨在分享今年开设的AI影像制作课程的成果。课程包括专题讲座、基础与进阶课程以及一日体验课等，共有133人参加。"
               },
               {
                 "t": "p",
-                "x": "对工作的担忧是反对声音的主要根源。Hartbeat总裁Jeff Clanagan说：“Gen Z生活在社交媒体上，所以一直被灌输劣质的AI垃圾内容。”"
+                "x": "当天活动放映了学员亲自策划、运用生成式AI制作的约1分钟影像作品19部，并为通过现场投票和评委评审选出的7部优秀作品颁奖。"
               },
               {
                 "t": "p",
-                "x": "早期AI电影将试探市场情绪：Fable Studio的《Gods Don’t Give Gifts》将于12月4日上映，Secret Level的Jason Zada正在制作混合AI恐怖片《Terrarium》。"
+                "x": "最高奖振兴院长奖由Kim Ye-ji的《噩梦清洁工》获得，此外还在导演、视觉、故事、音效类别以及观众奖、特别奖等奖项中评选出优秀作品。"
               },
               {
                 "t": "p",
-                "x": "NRG的Kevin Tran表示：“总体而言，Gen Z最能接受AI辅助调色、制作特效等幕后工作，而不是让AI充斥创作过程、取代演员和编剧。”"
+                "x": "振兴院相关人士表示：“此次颁奖礼是将课程中学到的AI技术转化为实际创作并与观众分享的有意义的场合。”他还表示：“今后将继续提供多样的培训和制作支持，帮助本地创作者运用新技术制作富有创意的内容。”"
+              },
+              {
+                "t": "p",
+                "x": "光州On-Air Station是配备天幕·LED墙摄影棚和影像剪辑室等设施的开放式创作空间，面向内容企业、本地创作者和市民免费提供场地与设备支持以及AI影像制作培训。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hollywood abraza la AI,\npero la Gen Z se resiste",
-          "body": "Mientras los estudios abrazan la AI, el público joven que ya la usa muestra un rechazo notable a la AI en el cine.",
-          "mini_headline": "La Gen Z rechaza el cine con AI",
+          "headline": "Cine de 1 minuto hecho con AI\nen los primeros ON-AIR AWARDS",
+          "body": "Una agencia de Gwangju proyectó y premió 19 películas de 1 minuto hechas por alumnos de su curso de video con AI.",
+          "mini_headline": "Premios de cine AI de 1 minuto en Gwangju",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju posa para una foto conmemorativa tras celebrar los 2026 ON-AIR AWARDS en la On-Air Station del Gwangju CGI Center el día 12. (Cortesía de la agencia)"
               },
               {
                 "t": "p",
-                "x": "Aunque el público joven ha adoptado el uso de la AI, todavía hay mucha oposición a su uso en el cine. Datos recopilados por la firma de investigación NRG para TheWrap muestran que casi dos tercios de los encuestados de la Gen Z consideran inaceptable un protagonista interpretado por AI (AI-played), y desconfían más de la AI en pósteres, tráileres y otro marketing."
+                "x": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju informó el día 19 que celebró los ‘2026 ON-AIR AWARDS’, que muestran obras de los alumnos de sus cursos de producción de video con AI."
               },
               {
                 "t": "p",
-                "x": "Aun así, el 39% de los encuestados de la Gen Z dijo que le interesaría más una película con algo de material generado por AI, por encima de los Millennials y la Gen X, lo que sugiere mayor aceptación en áreas como efectos especiales, corrección de color o dobles de riesgo."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "El evento, celebrado el día 12 en la On-Air Station del Gwangju CGI Center, se organizó para compartir los resultados de los cursos de producción de video con AI impartidos este año. En total, 133 personas participaron en la formación, que incluyó conferencias especiales, cursos básicos y avanzados y clases de un día."
               },
               {
                 "t": "p",
-                "x": "El temor por el empleo sostiene buena parte de la oposición. “La Gen Z vive en las redes sociales, así que recibe basura de AI de mala calidad todo el tiempo”, dijo Jeff Clanagan, presidente de Hartbeat."
+                "x": "Durante el evento se proyectaron 19 obras de video de alrededor de 1 minuto, planificadas por los propios alumnos y realizadas con AI generativa, y se premiaron 7 obras destacadas elegidas mediante votación del público presente y la evaluación del jurado."
               },
               {
                 "t": "p",
-                "x": "Las primeras películas de AI pondrán a prueba el ánimo: “Gods Don’t Give Gifts”, de Fable Studio, llega a los cines el 4 de diciembre, y Jason Zada, de Secret Level, prepara la película de terror híbrida con AI “Terrarium”."
+                "x": "El gran premio, el Premio del Presidente de la Agencia, fue para ‘Barrendero de pesadillas’, de Kim Ye-ji; además, se eligieron obras destacadas en las categorías de dirección, imagen, guion y sonido, así como el premio del público y un premio especial."
               },
               {
                 "t": "p",
-                "x": "“En general, la Gen Z sigue siendo más permisiva con la AI que refuerza flujos de trabajo tras bambalinas, como la corrección de color y la creación de efectos especiales, que con su omnipresencia en el proceso creativo reemplazando a actores y guionistas”, dijo Kevin Tran, de NRG."
+                "x": "Un responsable de la agencia afirmó: “Estos premios fueron una ocasión significativa para convertir en obras reales las habilidades de AI aprendidas en los cursos y compartirlas con el público”, y añadió: “Seguiremos ofreciendo formación y apoyo a la producción variados para que los creadores locales puedan usar nuevas tecnologías y crear contenidos creativos”."
+              },
+              {
+                "t": "p",
+                "x": "La Gwangju On-Air Station es un espacio creativo abierto que cuenta con un estudio con ciclorama y pared LED y salas de edición de video, y ofrece de forma gratuita apoyo en instalaciones y equipos, así como formación en producción de video con AI, a empresas de contenidos, creadores locales y ciudadanos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "할리우드는 AI 수용\nGen Z는 반발한다",
-          "body": "스튜디오는 AI를 반기지만, AI에 익숙한 젊은 관객은 영화 속 AI에 반대한다.",
-          "mini_headline": "Gen Z, AI 영화에 반발",
+        "en": {
+          "headline": "1-minute films made with AI\nat the first ON-AIR AWARDS",
+          "body": "Gwangju’s culture industry agency screened 19 AI films of 1 minute each by its video course students and gave awards.",
+          "mini_headline": "Gwangju 1-minute AI film awards",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "The Gwangju Information & Culture Industry Promotion Agency poses for a commemorative photo after holding the 2026 ON-AIR AWARDS at the On-Air Station of the Gwangju CGI Center on the 12th. (Courtesy of the agency)"
               },
               {
                 "t": "p",
-                "x": "젊은 관객은 AI 사용을 받아들였지만, 영화에 AI를 쓰는 데에는 여전히 반대가 많다. 조사업체 NRG가 TheWrap을 위해 수집한 데이터에 따르면 Gen Z 응답자의 삼분의 이 가까이가 AI가 연기하는(AI-played) 주인공을 받아들일 수 없다고 느꼈고, 포스터와 예고편 등 마케팅에 쓰이는 AI에도 더 경계심을 보였다."
+                "x": "The Gwangju Information & Culture Industry Promotion Agency said on the 19th that it held the ‘2026 ON-AIR AWARDS’, showcasing work by students of its AI video production courses."
               },
               {
                 "t": "p",
-                "x": "그럼에도 Gen Z 응답자의 39%는 AI 생성 소재가 일부 들어간 영화에 더 관심이 간다고 답했다. Millennials와 Gen X보다 높은 수치로, 특수효과나 색보정, 스턴트 대역 같은 영역에서는 수용도가 더 높다는 뜻으로 읽힌다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "The event, held on the 12th at the On-Air Station of the Gwangju CGI Center, was organized to share the results of the AI video production courses run this year. A total of 133 people took part in the courses, which included special lectures, basic and advanced classes, and one-day classes."
               },
               {
                 "t": "p",
-                "x": "반대의 상당 부분은 일자리에 대한 두려움에서 나온다. Hartbeat의 Jeff Clanagan 대표는 “Gen Z는 소셜미디어 속에서 살기 때문에 질 낮은 AI 찌꺼기(slop)를 늘 받아먹고 있다”고 말했다."
+                "x": "At the event, 19 video works of about 1 minute each, planned by the students themselves and made with generative AI, were screened, and 7 outstanding works chosen through on-site voting and judges’ evaluations received awards."
               },
               {
                 "t": "p",
-                "x": "초기 AI 영화들이 분위기를 가늠할 시험대가 된다. Fable Studio의 “Gods Don’t Give Gifts”가 12월 4일 극장에 걸리고, Secret Level의 Jason Zada는 하이브리드 AI 호러 영화 “Terrarium”을 만들고 있다."
+                "x": "The grand prize, the Agency President’s Award, went to Kim Ye-ji’s ‘Nightmare Cleaner’, and outstanding works were also selected in the directing, visual, story and sound categories, as well as for the audience award and a special award."
               },
               {
                 "t": "p",
-                "x": "NRG의 Kevin Tran은 “Gen Z는 전반적으로 배우와 작가를 대체하며 창작 과정 곳곳에 AI가 퍼지는 것보다, 색보정이나 특수효과 제작처럼 비하인드 작업을 보강하는 AI에 가장 관대하다”고 말했다."
+                "x": "An agency official said, “These awards were a meaningful occasion where the AI skills learned through the courses were turned into actual creative works and shared with audiences,” adding, “We will continue to offer a range of training and production support so that local creators can use new technologies to make creative content.”"
+              },
+              {
+                "t": "p",
+                "x": "The Gwangju On-Air Station is an open creative space with a horizon and LED wall studio and video editing rooms, and it offers free facility and equipment support and AI video production training to content companies, local creators and citizens."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HollywoodはAI歓迎\nGen Zは反発",
-          "body": "スタジオがAIを歓迎する一方、AIに慣れた若い観客は映画でのAI利用に目立って反対している。",
-          "mini_headline": "Gen Z、AI映画に反発",
+          "headline": "AIで作った1分映画\n初のオンエアアワーズ",
+          "body": "光州情報文化産業振興院がAI映像教育の受講生による1分映画19本を上映・表彰した。",
+          "mini_headline": "光州のAI 1分映画表彰",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "(財)光州情報文化産業振興院が12日、光州CGIセンターのオンエアステーションで2026オンエアアワーズ(ON-AIR AWARDS)を開催した後、記念撮影をしている。(振興院提供)"
               },
               {
                 "t": "p",
-                "x": "若い観客はAIの利用を受け入れているが、映画での使用にはなお反対が根強い。調査会社NRGがTheWrapのために集めたデータによると、Gen Zの回答者の三分の二近くがAIが演じる主人公（AI-played）を受け入れられないと感じ、ポスターや予告編などのマーケティングでのAIにも一段と警戒している。"
+                "x": "(財)光州情報文化産業振興院は、AI映像制作教育の受講生の作品を披露する「2026オンエアアワーズ」を開催したと19日に明らかにした。"
               },
               {
                 "t": "p",
-                "x": "それでもGen Zの回答者の39%は、AI生成素材を一部含む映画にはより興味が湧くと答えた。MillennialsやGen Xを上回る数字で、特殊効果や色補正、スタントダブルといった分野では受容度が高いことがうかがえる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "12日に光州CGIセンターのオンエアステーションで開かれた今回のイベントは、今年実施したAI映像制作教育の成果を共有するために設けられた。教育には特別講義・基礎・応用講座やワンデークラスなど、計133人が参加した。"
               },
               {
                 "t": "p",
-                "x": "反対の多くは雇用への不安に根ざしている。Hartbeatのプレジデント、Jeff Clanaganは「Gen ZはSNSの中で暮らしているから、質の悪いAIスロップを常に浴びている」と語った。"
+                "x": "この日のイベントでは、受講生が自ら企画し生成AIを活用して制作した1分前後の映像作品19本を上映し、現場投票と審査員の評価を通じて選ばれた優秀作7本を表彰した。"
               },
               {
                 "t": "p",
-                "x": "初期のAI映画が空気を試すことになる。Fable Studioの「Gods Don’t Give Gifts」が12月4日に劇場公開され、Secret LevelのJason ZadaはハイブリッドAIホラー映画「Terrarium」を制作中だ。"
+                "x": "大賞にあたる振興院長賞はキム・イェジ氏の『悪夢清掃人』が受賞し、このほか演出・ビジュアル・ストーリー・サウンド部門や観客賞、特別賞などで優秀作が選ばれた。"
               },
               {
                 "t": "p",
-                "x": "NRGのKevin Tranは「Gen Zは全体として、俳優や脚本家に取って代わり創作過程のあらゆる場面にAIが入り込むことよりも、色補正や特殊効果の制作といった裏方の作業をAIが補うことに最も寛容だ」と述べた。"
+                "x": "振興院の関係者は「今回のアワーズは、教育で学んだAI技術を実際の創作物として形にし、観客と共有した意義深い場だった」とし、「今後も地域のクリエイターが新しい技術を活用して創造的なコンテンツを制作できるよう、多様な教育と制作支援を続けていく」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "光州オンエアステーションはホリゾント・LEDウォールスタジオや映像編集室などを備えた開放型の創作空間で、コンテンツ企業や地域のクリエイター、市民を対象に施設・機材の支援とAI映像制作教育を無償で行っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hollywood拥抱AI\nGen Z却在抵制",
-          "body": "片厂拥抱AI之际，惯用AI的年轻观众却明显反对电影使用AI。",
-          "mini_headline": "Gen Z抵制AI电影",
+          "headline": "AI制作的1分钟电影\n首届ON-AIR颁奖礼",
+          "body": "光州信息文化产业振兴院放映并表彰了AI影像课程学员的1分钟电影19部。",
+          "mini_headline": "光州AI 1分钟电影颁奖",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "（财）光州信息文化产业振兴院12日在光州CGI中心On-Air Station举办2026 ON-AIR AWARDS后合影留念。（振兴院提供）"
               },
               {
                 "t": "p",
-                "x": "尽管年轻观众已乐于使用AI，但电影中使用AI仍遭到不少反对。调研公司NRG为TheWrap收集的数据显示，近三分之二的Gen Z受访者认为由AI扮演主角（AI-played）不可接受，并对海报、预告片等营销中的AI更加警惕。"
+                "x": "（财）光州信息文化产业振兴院19日表示，举办了展示AI影像制作课程学员作品的“2026 ON-AIR AWARDS”。"
               },
               {
                 "t": "p",
-                "x": "不过，39%的Gen Z受访者表示，会对含有部分AI生成素材的电影更感兴趣，高于Millennials和Gen X，这表明他们在特效、调色或特技替身等领域接受度更高。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "此次活动于12日在光州CGI中心On-Air Station举行，旨在分享今年开设的AI影像制作课程的成果。课程包括专题讲座、基础与进阶课程以及一日体验课等，共有133人参加。"
               },
               {
                 "t": "p",
-                "x": "对工作的担忧是反对声音的主要根源。Hartbeat总裁Jeff Clanagan说：“Gen Z生活在社交媒体上，所以一直被灌输劣质的AI垃圾内容。”"
+                "x": "当天活动放映了学员亲自策划、运用生成式AI制作的约1分钟影像作品19部，并为通过现场投票和评委评审选出的7部优秀作品颁奖。"
               },
               {
                 "t": "p",
-                "x": "早期AI电影将试探市场情绪：Fable Studio的《Gods Don’t Give Gifts》将于12月4日上映，Secret Level的Jason Zada正在制作混合AI恐怖片《Terrarium》。"
+                "x": "最高奖振兴院长奖由Kim Ye-ji的《噩梦清洁工》获得，此外还在导演、视觉、故事、音效类别以及观众奖、特别奖等奖项中评选出优秀作品。"
               },
               {
                 "t": "p",
-                "x": "NRG的Kevin Tran表示：“总体而言，Gen Z最能接受AI辅助调色、制作特效等幕后工作，而不是让AI充斥创作过程、取代演员和编剧。”"
+                "x": "振兴院相关人士表示：“此次颁奖礼是将课程中学到的AI技术转化为实际创作并与观众分享的有意义的场合。”他还表示：“今后将继续提供多样的培训和制作支持，帮助本地创作者运用新技术制作富有创意的内容。”"
+              },
+              {
+                "t": "p",
+                "x": "光州On-Air Station是配备天幕·LED墙摄影棚和影像剪辑室等设施的开放式创作空间，面向内容企业、本地创作者和市民免费提供场地与设备支持以及AI影像制作培训。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hollywood abraza la AI,\npero la Gen Z se resiste",
-          "body": "Mientras los estudios abrazan la AI, el público joven que ya la usa muestra un rechazo notable a la AI en el cine.",
-          "mini_headline": "La Gen Z rechaza el cine con AI",
+          "headline": "Cine de 1 minuto hecho con AI\nen los primeros ON-AIR AWARDS",
+          "body": "Una agencia de Gwangju proyectó y premió 19 películas de 1 minuto hechas por alumnos de su curso de video con AI.",
+          "mini_headline": "Premios de cine AI de 1 minuto en Gwangju",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Gen-Z-AI.gif?width=1200&height=675&fit=bounds"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
+                "cap": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju posa para una foto conmemorativa tras celebrar los 2026 ON-AIR AWARDS en la On-Air Station del Gwangju CGI Center el día 12. (Cortesía de la agencia)"
               },
               {
                 "t": "p",
-                "x": "Aunque el público joven ha adoptado el uso de la AI, todavía hay mucha oposición a su uso en el cine. Datos recopilados por la firma de investigación NRG para TheWrap muestran que casi dos tercios de los encuestados de la Gen Z consideran inaceptable un protagonista interpretado por AI (AI-played), y desconfían más de la AI en pósteres, tráileres y otro marketing."
+                "x": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju informó el día 19 que celebró los ‘2026 ON-AIR AWARDS’, que muestran obras de los alumnos de sus cursos de producción de video con AI."
               },
               {
                 "t": "p",
-                "x": "Aun así, el 39% de los encuestados de la Gen Z dijo que le interesaría más una película con algo de material generado por AI, por encima de los Millennials y la Gen X, lo que sugiere mayor aceptación en áreas como efectos especiales, corrección de color o dobles de riesgo."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/NRG_GenZ_AI_Attitudes_with_logo_2.jpg?width=1024&height=667&fit=bounds"
+                "x": "El evento, celebrado el día 12 en la On-Air Station del Gwangju CGI Center, se organizó para compartir los resultados de los cursos de producción de video con AI impartidos este año. En total, 133 personas participaron en la formación, que incluyó conferencias especiales, cursos básicos y avanzados y clases de un día."
               },
               {
                 "t": "p",
-                "x": "El temor por el empleo sostiene buena parte de la oposición. “La Gen Z vive en las redes sociales, así que recibe basura de AI de mala calidad todo el tiempo”, dijo Jeff Clanagan, presidente de Hartbeat."
+                "x": "Durante el evento se proyectaron 19 obras de video de alrededor de 1 minuto, planificadas por los propios alumnos y realizadas con AI generativa, y se premiaron 7 obras destacadas elegidas mediante votación del público presente y la evaluación del jurado."
               },
               {
                 "t": "p",
-                "x": "Las primeras películas de AI pondrán a prueba el ánimo: “Gods Don’t Give Gifts”, de Fable Studio, llega a los cines el 4 de diciembre, y Jason Zada, de Secret Level, prepara la película de terror híbrida con AI “Terrarium”."
+                "x": "El gran premio, el Premio del Presidente de la Agencia, fue para ‘Barrendero de pesadillas’, de Kim Ye-ji; además, se eligieron obras destacadas en las categorías de dirección, imagen, guion y sonido, así como el premio del público y un premio especial."
               },
               {
                 "t": "p",
-                "x": "“En general, la Gen Z sigue siendo más permisiva con la AI que refuerza flujos de trabajo tras bambalinas, como la corrección de color y la creación de efectos especiales, que con su omnipresencia en el proceso creativo reemplazando a actores y guionistas”, dijo Kevin Tran, de NRG."
+                "x": "Un responsable de la agencia afirmó: “Estos premios fueron una ocasión significativa para convertir en obras reales las habilidades de AI aprendidas en los cursos y compartirlas con el público”, y añadió: “Seguiremos ofreciendo formación y apoyo a la producción variados para que los creadores locales puedan usar nuevas tecnologías y crear contenidos creativos”."
+              },
+              {
+                "t": "p",
+                "x": "La Gwangju On-Air Station es un espacio creativo abierto que cuenta con un estudio con ciclorama y pared LED y salas de edición de video, y ofrece de forma gratuita apoyo en instalaciones y equipos, así como formación en producción de video con AI, a empresas de contenidos, creadores locales y ciudadanos."
               }
             ]
           }

@@ -1,169 +1,85 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-21T22:01:02Z",
+  "now_iso": "2026-11-22T22:03:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601439",
-      "source": "NEJM AI",
-      "published_iso": "2026-11-19T15:00:16Z",
+      "title": "AI may not improve patient outcomes for stroke",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-11T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: Northwell/Hofstra compared 876 acute ischemic stroke patients before and after five AI tools went live at a comprehensive stroke center; after propensity matching, AI did not change odds of good functional outcome or discharge disposition, though CTA-within-60-minutes rose sharply.",
       "og_image": null,
-      "excerpt": "NEJM AI reports the development and validation of an FDA-authorized AI/ML tool for predicting sepsis. (Date via Crossref created; ai.nejm.org is Cloudflare-gated, so product name and performance figures need confirming from the paper.)",
-      "category": "medicine",
-      "history_match": {
-        "score": 0.184,
-        "date": "2026-11-02",
-        "url": "https://www.nature.com/articles/s44220-026-00753-y",
-        "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
-        "band": "related"
-      }
-    },
-    {
-      "title": "ECG foundation models for cardiovascular screening in a cohort of young competitive athletes",
-      "url": "https://www.nature.com/articles/s41746-026-03474-9",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-21T14:54:56Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03474-9/MediaObjects/41746_2026_3474_Fig1_HTML.png",
-      "excerpt": "Three ECG foundation models (ECG-FM, HuBERT-ECG, ECGFounder) fine-tuned on 87,662 clinical ECGs were tested on 43 expert-annotated ECGs from national-level athletes, checking whether AI trained on general patients transfers to athlete pre-participation screening before deployment.",
       "category": "medicine"
     },
     {
-      "title": "Explainable artificial intelligence for prehospital identification of endovascular thrombectomy candidates: a retrospective real-world study",
-      "url": "https://www.nature.com/articles/s41598-026-80551-9",
-      "source": "Scientific Reports",
-      "published_iso": "2026-11-19T06:04:53Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-80551-9/MediaObjects/41598_2026_80551_Fig1_HTML.png",
-      "excerpt": "Using real-world EMS and hospital data from consecutive suspected-stroke transports, researchers built explainable machine-learning models to flag large-vessel-occlusion patients who need thrombectomy before hospital arrival, aiming to beat conventional prehospital stroke scales and cut transfer delays.",
+      "title": "DL model cuts patient gadolinium exposure to 10% of standard dose",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/mri-preview/article/16425335/dl-model-cuts-patient-gadolinium-exposure-to-10-of-standard-dose",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-12T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: Subtle Medical's deep-learning algorithm restored brain MRI contrast enhancement from a 10% gadolinium dose; in 63 patients, blinded randomized reads found no significant difference in lesion categorization vs. standard-dose images.",
+      "og_image": null,
+      "category": "medicine"
+    },
+    {
+      "title": "Thyroid ultrasound AI yields high agreement with radiologists",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425162/thyroid-ultrasound-ai-yields-high-agreement-with-radiologists",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-11T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: See-Mode thyroid ultrasound AI deployed at 297 U.S. clinics; across 95,000+ studies and 187,000+ nodules (Sep 2025-Apr 2026), radiologists left AI-generated descriptors and TI-RADS level unchanged in nearly 89% of nodules.",
+      "og_image": null,
+      "category": "medicine"
+    },
+    {
+      "title": "Tele-Cranio: a CT-free AI solution for remote diagnosis and planning of craniomaxillofacial deformities",
+      "url": "https://www.nature.com/articles/s41746-026-03454-z",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-20T06:14:29Z",
+      "excerpt": "npj Digital Medicine: Tele-Cranio is an AI system that enables remote, CT-free assessment and surgical planning for craniomaxillofacial deformities, cutting repeated in-hospital CT and radiation burden, particularly for children.",
+      "og_image": null,
       "category": "medicine"
     },
     {
       "title": "Multicenter evaluation of radiomics and multimodal artificial intelligence for colorectal cancer diagnosis and survival prediction",
       "url": "https://www.nature.com/articles/s41746-026-03434-3",
       "source": "npj Digital Medicine",
-      "published_iso": "2026-11-19T00:55:43Z",
+      "published_iso": "2026-11-19T01:04:43Z",
+      "excerpt": "npj Digital Medicine: two-center retrospective study of 879 participants (741 locally advanced colorectal cancer, 138 benign lesions) combining clinical, radiomic and multimodal AI features for preoperative classification and survival prediction.",
       "og_image": null,
-      "excerpt": "Two-center retrospective study of 879 participants (741 locally advanced colorectal cancers, 138 benign lesions): clinical, radiomics, deep-learning and fusion models trained on pretreatment contrast CT at one center and tested at another; the clinical-radiomics nomogram reached a test AUC of 0.957.",
       "category": "medicine"
     },
     {
-      "title": "Multimodal multitask deep learning for predicting tertiary lymphoid structures and peritoneal recurrence in gastric cancer: a multicentre study",
-      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00098-1/fulltext",
-      "source": "The Lancet Digital Health",
-      "published_iso": "2026-11-19T11:51:18Z",
+      "title": "Dual chain-of-thought AI-PDCA framework for clinical history taking and documentation",
+      "url": "https://www.nature.com/articles/s41746-026-03430-7",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-16T18:22:59Z",
+      "excerpt": "npj Digital Medicine: an LLM-based training framework with dual chain-of-thought reasoning and plan-do-check-act feedback for teaching medical students clinical history-taking and documentation.",
       "og_image": null,
-      "excerpt": "Multicentre Lancet Digital Health study of a multimodal multitask deep-learning model that predicts tertiary lymphoid structures and peritoneal recurrence in gastric cancer patients. (Date via Crossref created; article page blocked, figures need confirming.)",
       "category": "medicine"
-    },
-    {
-      "title": "Bias and equity in large language model-based applications for health care: a scoping review",
-      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00135-4/fulltext",
-      "source": "The Lancet Digital Health",
-      "published_iso": "2026-11-18T20:26:56Z",
-      "og_image": null,
-      "excerpt": "Scoping review in The Lancet Digital Health mapping how bias and equity have been evaluated in LLM-based health-care applications. (Date via Crossref created.)",
-      "category": "medicine"
-    },
-    {
-      "title": "AI may not improve patient outcomes for stroke",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-11T12:00:00Z",
-      "og_image": null,
-      "excerpt": "RSNA 2026 preview: Hofstra/Northwell researchers compared 876 acute ischemic stroke patients before and after five AI tools went live at a comprehensive stroke center; CTA-within-60-minutes rose sharply, but odds of good functional outcome and discharge disposition did not change.",
-      "category": "medicine"
-    },
-    {
-      "title": "Will AI affect radiology malpractice cases?",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-11T12:00:00Z",
-      "og_image": null,
-      "excerpt": "RSNA 2026 preview: in a randomized mock-jury experiment with 2,347 U.S. adults over a missed brain bleed, double reads, documented initial reads and disclosed AI error rates lowered perceived radiologist liability, but over 80% found the radiologist liable after switching a correct read to follow a wrong AI.",
-      "category": "medicine"
-    },
-    {
-      "title": "CT imaging biomarkers boost detection of early pancreatic cancer",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16542228/ct-imaging-biomarkers-boost-detection-of-early-pancreatic-cancer",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-20T12:00:00Z",
-      "og_image": null,
-      "excerpt": "RSNA 2026 preview: Johns Hopkins' TabMBio AI combines CT-derived tumor, pancreas and duct biomarkers with age and sex; on a 3,788-subject, 147-center benchmark it hit AUC 0.99 for sub-2 cm cancers and lifted sensitivity on prediagnostic CTs from 19.5% to 29.3%.",
-      "category": "medicine"
-    },
-    {
-      "title": "New AI guidance to cut paperwork and free more time for care",
-      "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
-      "source": "GOV.UK (DHSC)",
-      "published_iso": "2026-11-20T09:57:29Z",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "UK government issues national guidance on adopting AI in adult social care; a Swindon pilot cut social workers' admin time 63% and Care Act assessment conversations from 1.5 hours to 30 minutes.",
-      "category": "medicine",
-      "history_match": {
-        "score": 0.156,
-        "date": "2026-11-10",
-        "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
-        "title": "AI-interpreted echocardiograms comparable to human reports, cardiologists' time cut by about 50%",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Zimmer submits Monogram robot to FDA",
-      "url": "https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/",
-      "source": "MedTech Dive",
-      "published_iso": "2026-11-20T16:46:43Z",
-      "og_image": "https://imgproxy.divecdn.com/9tqaNUotGigV5bfEStWQwXdmHE8F2sVpm9bWb31Wyhg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdXJnaWNhbF9UaGVhdGVyX19TcGxpdF80LnBuZw==.webp",
-      "excerpt": "Zimmer Biomet filed a 90-day 510(k) for the autonomous, CT-guided Monogram knee-replacement robot with hands-free automated bone cutting, targeting a 2027 launch; no safety events were reported in its clinical trial.",
-      "category": "medicine"
-    },
-    {
-      "title": "진단만 하는 AI 넘어섰다…자율 의료 AI 에이전트, 검사·처방·입원 결정까지 수행",
-      "url": "https://www.medigatenews.com/news/1569490689",
-      "source": "메디게이트뉴스",
-      "published_iso": "2026-11-21T10:58:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/543134",
-      "excerpt": "Heidelberg/TU Dresden's autonomous agent MIRA ran a virtual ED (interview, tests, diagnosis, prescribing, admission) on 574 real patient cases; on 311 shared cases it reached 87.8% diagnostic accuracy vs 78.1% for specialists, per a Nature paper. Part of Medigate's 2026 notable-papers relay; Nature paper date not verified.",
-      "category": "medicine"
-    },
-    {
-      "title": "AI health chatbot shows no benefit for perinatal anxiety or depression",
-      "url": "https://www.2minutemedicine.com/ai-health-chatbot-shows-no-benefit-for-perinatal-anxiety-or-depression/",
-      "source": "2 Minute Medicine",
-      "published_iso": "2026-11-20T14:00:58Z",
-      "og_image": null,
-      "excerpt": "Randomized trial of 400 pregnant/postpartum racial and ethnic minority participants (JAMA Network Open) found a generative-AI health chatbot did not change anxiety, depression, ED visits, postpartum care or sleep vs control. (Off-list source; underlying JAMA Netw Open paper online 2026-11-04 per Crossref.)",
-      "category": "medicine",
-      "history_match": {
-        "score": 0.382,
-        "date": "2026-11-05",
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062",
-        "title": "Generative AI chatbot and maternal health outcomes: randomized clinical trial",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI imaging reports comparable to the work of sonographers and cardiologists",
-      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-imaging-reports-comparable-work-sonographers-and-cardiologists",
-      "source": "Cardiovascular Business",
-      "published_iso": "2026-11-13T20:37:10Z",
-      "og_image": null,
-      "excerpt": "In a randomized trial of AI- versus human-generated preliminary reports for 1,200 echocardiograms, blinded cardiologists edited 50.6% of AI reports and 49.7% of human reports, meeting noninferiority.",
-      "category": "medicine",
-      "history_match": {
-        "score": 0.433,
-        "date": "2026-11-10",
-        "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50",
-        "title": "AI-interpreted echocardiograms comparable to human reports, cardiologists' time cut by about 50%",
-        "band": "likely-repeat"
-      }
     },
     {
       "title": "Epic Systems defends competitive practices, promises to let AI access its records",
       "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/",
       "source": "STAT",
       "published_iso": "2026-11-18T23:07:55Z",
+      "excerpt": "At HLTH, executives from Epic, the largest EHR vendor, defended its competitive practices and pledged to let outside AI tools access patient records held in its systems.",
       "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/image-9-1024x576.jpg",
-      "excerpt": "Epic executives at HLTH defended the EHR giant's competitive practices and pledged to let third-party AI tools access patient records held in its system.",
+      "category": "medicine",
+      "history_match": {
+        "score": 0.163,
+        "date": "2026-11-03",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+        "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
+        "band": "related"
+      }
+    },
+    {
+      "title": "HLTH26: Where Viz.ai, NRHA's AI collab is making headway",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-11-18T19:18:00Z",
+      "excerpt": "Seven months into Viz.ai's collaboration with the National Rural Health Association, Viz.ai's chief clinical officer outlines how its AI disease-detection and care-coordination platform is being extended to rural hospitals.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg",
       "category": "medicine"
     },
     {
@@ -171,73 +87,89 @@
       "url": "https://medcitynews.com/2026/11/medicare-pays-for-the-ai-eye-scan-nobody-pays-for-what-comes-next/",
       "source": "MedCity News",
       "published_iso": "2026-11-17T14:18:00Z",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2017/03/GettyImages-509053702.jpg",
-      "excerpt": "Medicare reimburses autonomous AI diabetic-retinopathy screening, but follow-up care after a positive result is unfunded, which shapes every other barrier to deployment (opinion).",
+      "excerpt": "MedCity Influencers op-ed: Medicare reimburses autonomous AI diabetic eye exams, but follow-up care for patients the AI flags is not funded, limiting the real-world impact of AI retinopathy screening.",
+      "og_image": null,
       "category": "medicine"
     },
     {
-      "title": "Recursion REC-4881 Phase 3 design aligned with FDA in FAP",
-      "url": "https://www.drugdiscoverytrends.com/recursions-phase-3-fap-trial-will-count-large-polyp-removals-as-events-under-fda-agreed-design/",
-      "source": "Drug Discovery & Development",
-      "published_iso": "2026-11-18T10:00:00Z",
-      "og_image": "https://www.drugdiscoverytrends.com/wp-content/uploads/2024/01/Recursion_Pharmaceuticals_Logo-e1704914253265.jpeg",
-      "excerpt": "Recursion agreed with FDA on a registrational Phase 3 design for its AI-platform-derived MEK1/2 inhibitor REC-4881 in familial adenomatous polyposis; the ~200-patient trial is slated for H2 2027. (Off-list source: on-list outlets had no fresh coverage.)",
+      "title": "Abridge Announcements during HLTH Emphasize Growing Healthcare Trend",
+      "url": "https://medcitynews.com/2026/11/abridge-announcements-during-hlth-emphasize-growing-healthcare-trend/",
+      "source": "MedCity News",
+      "published_iso": "2026-11-18T18:12:07Z",
+      "excerpt": "Abridge's HLTH announcements reflect the push to bring clinical information and AI documentation into the workflows providers already use.",
+      "og_image": null,
       "category": "medicine",
       "history_match": {
-        "score": 0.212,
-        "date": "2026-11-15",
-        "url": "https://www.biopharminternational.com/view/fda-clears-ind-for-biolojic-s-bd200-the-first-ai-designed-multibody-adc-to-enter-clinical-trials",
-        "title": "FDA Clears IND for Biolojic's BD200, the First AI-Designed Multibody ADC to Enter Clinical Trials",
+        "score": 0.194,
+        "date": "2026-11-17",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
+        "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
         "band": "related"
       }
     },
     {
-      "title": "Beyond the Rogue Agent—Preparing Health Systems for AI Failure",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.24040",
-      "source": "JAMA",
-      "published_iso": "2026-11-12T16:00:36Z",
+      "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
+      "url": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
+      "source": "MedCity News",
+      "published_iso": "2026-11-19T23:44:27Z",
+      "excerpt": "Commentary on insurers' use of AI in medical-necessity and prior-authorization decisions versus treating-physician judgment.",
       "og_image": null,
-      "excerpt": "JAMA Viewpoint on how health systems should prepare for and stay resilient through AI failures in clinical operations. (Date via Crossref created.)",
+      "category": "medicine"
+    },
+    {
+      "title": "AI is coming for primary care",
+      "url": "https://www.healthcaredive.com/news/ai-is-coming-for-primary-care/874966/",
+      "source": "Healthcare Dive",
+      "published_iso": "2026-11-18T10:45:29-05:00",
+      "excerpt": "At HLTH, executives debated AI that lets primary care doctors manage far more patients or replaces them, after Oura's plan to acquire AI-based primary care company Counsel Health.",
+      "og_image": null,
+      "category": "medicine",
+      "history_match": {
+        "score": 0.198,
+        "date": "2026-11-02",
+        "url": "https://www.nature.com/articles/s41746-026-03444-1",
+        "title": "Accuracy and impact of an AI safety system for missed specialist referrals in primary care",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Development and validation of a machine learning model to predict outpatient appointment non-attendance: a retrospective study using multisource NHS data",
+      "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2026-117999",
+      "source": "BMJ Open",
+      "published_iso": "2026-11-19T12:40:27Z",
+      "excerpt": "BMJ Open: an appointment-level ML model built on multisource NHS records predicts outpatient 'did not attend' risk to enable targeted interventions that reduce missed appointments.",
+      "og_image": null,
+      "category": "medicine",
+      "history_match": {
+        "score": 0.161,
+        "date": "2026-11-13",
+        "url": "https://www.nature.com/articles/s41746-026-03449-w",
+        "title": "Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Domain-specific large language models with chain-of-thought prompting for antibiotic prescribing: a 2x2 factorial evaluation",
+      "url": "https://informatics.bmj.com/lookup/doi/10.1136/bmjhci-2026-102418",
+      "source": "BMJ Health & Care Informatics",
+      "published_iso": "2026-11-12T13:00:19Z",
+      "excerpt": "BMJ Health & Care Informatics: compares a domain-specific medical LLM with a general-purpose LLM, with and without chain-of-thought prompting, on how rational and safe their antibiotic prescribing decisions are, plus an LLM-based auto-scorer.",
+      "og_image": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
       "category": "medicine"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 18,
+    "dropped": 0,
+    "kept": 14,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 4,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-23",
-      "title": "CT tool may detect pulmonary fibrosis progression more than 2 years sooner",
-      "url": "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/ct-tool-may-detect-pulmonary-fibrosis-progression-more-2-years-sooner"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "LLMs mostly avoid unnecessary care in Choosing Wisely tests",
-      "url": "https://www.auntminnie.com/home/article/15837911/llms-mostly-avoid-unnecessary-care-in-choosing-wisely-tests"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "“목 찍다 놓친 폐암, AI가 잡아낸다” 의료영상 ‘기회검진’ 새 지평",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014596"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Sentara Health deploys new AI case management tool co-developed with Regard",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Developers, not doctors, should be held accountable for generative AI medical devices, providers say",
-      "url": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/"
-    },
     {
       "date": "2026-10-24",
       "title": "Can AI diagnose like a team of doctors? New research puts it to the test",
@@ -912,6 +844,31 @@
       "date": "2026-11-21",
       "title": "Cloud vs. on-premise large language models for urgent patient-portal message screening: a comparative evaluation",
       "url": "https://www.nature.com/articles/s41746-026-03477-6"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "CT imaging biomarkers boost detection of early pancreatic cancer",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/advanced-visualization-preview/article/16542228/ct-imaging-biomarkers-boost-detection-of-early-pancreatic-cancer"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Will AI affect radiology malpractice cases?",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "New AI guidance to cut paperwork and free more time for care",
+      "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Explainable artificial intelligence for prehospital identification of endovascular thrombectomy candidates: a retrospective real-world study",
+      "url": "https://www.nature.com/articles/s41598-026-80551-9"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "ECG foundation models for cardiovascular screening in a cohort of young competitive athletes",
+      "url": "https://www.nature.com/articles/s41746-026-03474-9"
     }
   ]
 }

@@ -1,102 +1,102 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "books",
   "selection_mode": "curator (user deferred)",
   "items": [
     {
-      "title": "Generative AI on This Crown's Cover",
-      "url": "https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/",
-      "source": "Ilona Andrews (author blog)",
+      "title": "AI 학습에 내 책이 쓰인다면? 출판계 저작권 보호·지원 법안 본격 시동",
+      "url": "http://knpp.co.kr/news/597241",
+      "source": "한국공공정책신문",
       "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "published_iso": "2026-11-20T18:30:50+00:00",
-      "og_image": "https://ilona-andrews.com/wp-content/uploads/2026/11/TCWNRM-statement_final.jpg",
-      "excerpt": "Ilona Andrews says the cover of 'This Crown Will Not Rule Me' contained generative-AI elements despite no-AI clauses in both the authors' and Tor's contracts; Tor says the AI use happened without its or the authors' knowledge and is commissioning a replacement cover and tightening art review.",
-      "rationale": "Primary-source statement on a concrete new incident: a Big Five imprint (Tor) is pulling an AI-tainted cover despite contractual no-AI clauses and tightening its art review, a practical lesson for cover sourcing."
+      "published_iso": "2026-11-23T06:21:33+09:00",
+      "og_image": "https://img.ehom.kr/news/2026/11/23/b392e224be2acfd2d8edca28d44e135c062044_thumb.jpg",
+      "excerpt": "윤용근 의원 등 14인이 발의한 '출판문화산업 진흥법' 개정안이 11월 16~25일 입법예고되는 가운데, 출판물의 AI 학습 이용과 권리자 동의·보호 체계가 쟁점으로 떠올랐다. (셀렉트스타·출협 협약 부분은 기보도.)",
+      "rationale": "A concrete new bill now in its public-comment window (Nov 16-25) that would set consent and protection rules for using Korean publications in AI training. Rights holders can still weigh in."
     },
     {
-      "title": "COPYRIGHT NEWS—Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts",
-      "url": "https://www.vitallaw.com/news/copyright-news-anthropic-and-meta-self-helped-themselves-to-ai-training-materials-new-lawsuit-asserts/ipm01eea3882904794aa786ea89a4f8e8a780",
-      "source": "VitalLaw (Wolters Kluwer)",
+      "title": "More AI Prompts Found in Journal Papers",
+      "url": "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers",
+      "source": "Inside Higher Ed",
       "category": "books",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "published_iso": "2026-11-21T00:00:00+00:00",
-      "og_image": "https://images.lrus.wolterskluwer.com/IPLD_TOPSTORYIMAGE_20261120_300x180.jpeg",
-      "excerpt": "Carlson LLC, copyright owner of Richard Carlson's 'Don't Sweat the Small Stuff' series, sued Anthropic and Meta in N.D. Cal. (3:26-cv-14248, filed Nov 19), alleging more than two dozen self-help books were taken from Books3/Anna's Archive and scanned to train AI models; Carlson opted out of the Bartz settlement.",
-      "rationale": "A new filing (Nov 19) by a different plaintiff that also names Meta. It shows opt-outs from the Bartz settlement turning into standalone suits, which matters to any rights holder weighing the settlement."
+      "published_iso": "2026-11-20T08:00:00Z",
+      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/Robot_AI_sifting_documents_papers%20copy.jpg?itok=tNomQNI_",
+      "excerpt": "Blatant LLM instructions such as 'write a positive review' left in published papers are the starkest sign yet that authors are trying to game AI-assisted peer review, scholars warn.",
+      "rationale": "New evidence of prompt injection aimed at AI-assisted peer review, found in published papers. Editors and scholarly publishers can screen for it now."
     },
     {
-      "title": "Australian Society of Authors, Australian Publishers Association among orgs launching 'Not AI's to Take' campaign",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/",
-      "source": "Books+Publishing",
+      "title": "'Ahead of his time': AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "The Guardian",
       "category": "books",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "published_iso": "2026-11-16T22:27:00+00:00",
-      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/11/NATT_Logo_Primary-400x200.png",
-      "excerpt": "The ASA, APA and media and creative bodies launched the 'Not AI's to Take' petition urging Canberra to keep copyright protections and require permission before AI firms train on Australian creative work; reports say music has since won a carve-out.",
-      "rationale": "A new coordinated campaign launch by Australia's author and publisher bodies on the AI-training exception. It goes beyond the 10-24 Authors Guild statement and the 09-22 criticism story."
+      "published_iso": "2026-11-13T16:38:27Z",
+      "og_image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+      "excerpt": "Kurt Gödel left 1,009 pages of shorthand notebooks; AI-assisted transcription is now helping scholars decode them and surface overlooked ideas — an archival/manuscript use of AI.",
+      "rationale": "A credible, concrete case of AI transcribing a shorthand manuscript archive. It shows a reusable workflow for editors working with archives and unpublished papers."
     },
     {
-      "title": "Namoo - 부모님의 이야기를 AI 인터뷰로 기록해 이북과 오디오북으로 만들어 주는 앱",
-      "url": "https://news.hada.io/topic?id=37506",
-      "source": "GeekNews",
+      "title": "잉크플록, 한국 웹소설 해외 유통을 위한 AI 현지화 체계 개발",
+      "url": "https://platum.kr/archives/298652",
+      "source": "플래텀",
       "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-11-20T13:15:52+09:00",
-      "og_image": "https://social.news.hada.io/topic/37506/p1bd4b8fe09e95525ebfe3a9b2d92560",
-      "excerpt": "Namoo, a Korean indie app launch, runs AI interviews with parents about their lives and turns the transcripts into a memoir ebook and audiobook, a consumer take on AI ghostwriting.",
-      "rationale": "A new product launch that adds a tool angle to a mostly policy-heavy day: AI-interview memoir creation that outputs both an ebook and an audiobook."
+      "published_iso": "2026-11-16T09:48:03+09:00",
+      "og_image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-218.png",
+      "excerpt": "스타트업 잉크플록이 한국 웹소설을 해외에 유통하기 위한 AI 기반 번역·현지화 체계를 개발했다.",
+      "rationale": "A new product: an AI translation and localization pipeline for exporting Korean web novels. It adds a tool to a day that is otherwise about policy and integrity."
     },
     {
-      "title": "'It's like the wild west': how AI has rocked the literary world",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
-      "source": "The Guardian",
+      "title": "Can this golden audio era deliver on its potential?",
+      "url": "https://www.thebookseller.com/trade-interviews/can-this-golden-audio-era-deliver-on-its-potential",
+      "source": "The Bookseller",
       "category": "books",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "published_iso": "2026-11-14T09:00:40+00:00",
-      "og_image": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
-      "excerpt": "Guardian interactive feature on AI across publishing: an indie author producing hundreds of AI books a year, literary agents with no reliable process for AI submissions, and the industry's scramble to set rules.",
-      "rationale": "A reputable, in-depth industry feature. Its fresh element is how literary agents are handling AI submissions with no reliable process, which none of the published overviews covered."
+      "published_iso": "2026-11-20T10:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/687/Maven_Audible_8_6.png.jpg",
+      "excerpt": "Ahead of the British Audio Awards, audiobook executives (Bonnier, Libro.fm and others) discuss how AI is reshaping production workflows and driving 'audio content inflation' as production costs fall, alongside discoverability and pricing pressure.",
+      "rationale": "On-whitelist trade piece with named executives on how AI-cheapened audiobook production is causing 'content inflation'. This is a different angle from the earlier audiobook cards about consumer polls and narrators."
     }
   ],
   "dedup": {
     "checks": {
-      "https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/": {
+      "http://knpp.co.kr/news/597241": {
         "verdict": "new",
-        "nearest": "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794",
+        "nearest": "https://www.donga.com/news/It/article/all/20261118/135045150/2",
         "new_action": ""
       },
-      "https://www.vitallaw.com/news/copyright-news-anthropic-and-meta-self-helped-themselves-to-ai-training-materials-new-lawsuit-asserts/ipm01eea3882904794aa786ea89a4f8e8a780": {
+      "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers": {
         "verdict": "new",
-        "nearest": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+        "nearest": "https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/",
         "new_action": ""
       },
-      "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/": {
+      "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths": {
         "verdict": "new",
-        "nearest": "https://authorsguild.org/news/australia-ai-training-statement/",
+        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
         "new_action": ""
       },
-      "https://news.hada.io/topic?id=37506": {
+      "https://platum.kr/archives/298652": {
         "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "nearest": "https://it.donga.com/109886/",
         "new_action": ""
       },
-      "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world": {
+      "https://www.thebookseller.com/trade-interviews/can-this-golden-audio-era-deliver-on-its-potential": {
         "verdict": "new",
-        "nearest": "https://www.comstocksmag.com/web-only/ai-changing-book-business-literary-community-pushing-back",
+        "nearest": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates of published stories: Caine Prize clears winner (iAfrica) = 11-12 BBC card; Futurism Coral Hart hundreds of AI romance novels = 10-25 Times Now '370 books in 20 months'; ALLi Audible audio discovery trailers = 11-17 TechCrunch Audible AI discovery card; IFRRO CEO interview (Scholarly Kitchen) = commentary on the 10-30 IFRRO study; PW literary translators amicus brief = part of the In re OpenAI amicus thread covered 11-13 (no ruling); Scholarly Kitchen ROSS analysis = analysis of an already-covered ruling. Not picked on merit: Bookseller AI-feedback comment (opinion, paywalled), Publishing Ireland conference (paywalled, AI depth unverified), The Conversation ghostwriters (light analysis), Tomorrow's Publisher radio (analysis), The Nerd Stash Studenttreasures allegation (unverified viral TikTok, off-list; alternate if the Guardian is swapped). Cross-section: the 5 pick URLs do not appear in published_urls.json's books block. The other sections could not be exact-grepped (file too large for Read, and no grep tool), so the orchestrator should re-confirm none of these 5 ran elsewhere. Outlets: 5 distinct."
+    "note": "Dropped as duplicates or follow-ups with no new action: (1) PW literary translators amicus brief, part of the In re OpenAI amicus thread covered 11-13 (Publishing Perspectives '50+ amicus briefs') and 11-12. (2) Scholarly Kitchen ROSS analysis, which analyses a ruling already covered. (3) Scholarly Kitchen IFRRO CEO interview, commentary on the IFRRO study covered 10-30. (4) Ajunews '딸깍 출판' column, a column follow-up to the 11-18 ajunews AI-manuscript card and the 11-04 Hankook Ilbo 딸깍도서 card. (5) Simpsonian Bartz payout, a settlement follow-up already covered by 11-18 Authors Guild and 11-21 Wizards payout. (6) Indian Express Tamil Nadu publisher arrest, the fourth beat of a running story (11-07 probe, 11-11 FIR, 11-16 suspensions); held back on novelty. Not picked on merit: IHE 'AI slop papers' (same scholarly-integrity theme as the IHE pick, and older), Daily Nous philosophy-journal AI text (same theme), IFLA copyright survey (overlaps the copyright-law pick), Bookseller AI-feedback comment (opinion), Publishing Ireland conference (paywalled, AI depth unverified), The Conversation ghostwriters (AI incidental), Jangseong AI picture books (local, low impact). Cross-section: the science block of published_urls.json has no theguardian.com URL. The other sections could not be exact-grepped (no grep tool, file ~4800 lines), so the orchestrator should re-confirm that the IHE and Guardian picks did not run elsewhere. Outlets: 5 distinct."
   }
 }

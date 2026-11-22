@@ -1,32 +1,31 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "section": "design",
   "media": [
     {
-      "id": "figma-specs-agent-plan",
+      "id": "gemini-mac-computer-use",
       "type": "image",
-      "src": "pipeline/media/figma-specs-agent-plan.jpg"
+      "src": "pipeline/media/gemini-mac-computer-use.png"
     },
     {
-      "id": "claude-mobile-tabbar",
+      "id": "siemens-agibot-gripper-agent",
       "type": "image",
-      "src": "pipeline/media/claude-mobile-tabbar.jpg"
+      "src": "pipeline/media/siemens-agibot-gripper-agent.jpg"
     },
     {
-      "id": "ava-studio-launch-videos",
-      "type": "video",
-      "src": "pipeline/media/ava-studio-launch-videos.mp4",
-      "poster": "pipeline/media/ava-studio-launch-videos.jpg"
+      "id": "gemini-omni-gif-maker",
+      "type": "image",
+      "src": "pipeline/media/gemini-omni-gif-maker.jpg"
     },
     {
-      "id": "xjet-atelier-jewelry",
+      "id": "webflow-mcp-designer-flow",
       "type": "image",
-      "src": "pipeline/media/xjet-atelier-jewelry.jpg"
+      "src": "pipeline/media/webflow-mcp-designer-flow.jpg"
     },
     {
-      "id": "artificial-poster-aislop",
+      "id": "comsol-2026-mcp-server",
       "type": "image",
-      "src": "pipeline/media/artificial-poster-aislop.jpg"
+      "src": "pipeline/media/comsol-2026-mcp-server.jpg"
     }
   ]
 }
