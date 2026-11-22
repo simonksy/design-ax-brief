@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "issue": "책 학습, 허락과 값으로",
+    "date": "2026.11.23",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 5건 curl 대조: 날짜를 원문 게재일로 고침(Authors Guild 11.18→11.16, Books+Publishing 11.22→11.17, Wargamer 11.21→11.20)하고 시간순 재배열. knpp 카드 제목의 '법안'은 학술도서 지원 개정안이라 빼고 셀렉트스타·출협 협약(동의 전제)만 씀. 수치 70%·11월 23일 주, 1,200명·허락과 합의한 값, 100곳·14개월·4만 종, 15억 달러, 11월 20일 발표 확인.",
+    "sources": [
+      "The Authors Guild — Important Anthropic Settlement Update: Check Your Claim by Friday, November 20 (2026.11.16)",
+      "Books+Publishing — Australian Society of Authors, Australian Publishers Association among orgs launching “Not AI’s to Take” campaign (2026.11.17)",
+      "동아일보 — AI 학습에 책 내준 출판사 100곳 넘어…전문지식 배워갔다 (2026.11.18)",
+      "Wargamer — Wizards of the Coast shares AI copyright settlement money with D&D's authors (2026.11.20)",
+      "한국공공정책신문 — AI 학습에 내 책이 쓰인다면? 출판계 저작권 보호·지원 법안 본격 시동 (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 책 · 11.16~11.23",
+      "thread": [
+        {
+          "d": "11.16",
+          "t": "첫 배상",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.17",
+          "t": "허락 먼저",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.18",
+          "t": "라이선스",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.20",
+          "t": "작가 몫",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.23",
+          "t": "동의 전제",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "공짜로 읽히던 책이 이제 허락받고 값 치르는 데이터가 된다",
+      "eyebrow": "흐름 · 책",
+      "headline": "책 학습,\n허락과 값으로",
+      "body": "한 건씩 보면 소송 뒷정리나 업계 협약이다. 그런데 배상, 동의 요구, 유료 계약이 한 주 사이 나란히 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "eyebrow": "2026.11.16",
+      "foot": "2026.11.16",
+      "_src": "https://authorsguild.org/news/anthropic-settlement-update-check-your-claim-by-november-20/",
+      "_id": "books-anthropic-payout-deadline",
+      "kind": "stat",
+      "headline": "무단 학습,\n첫 배상금",
+      "body": "Bartz v. Anthropic 합의금 첫 지급이 11월 23일 주에 나간다. 기금이 다 차지 않아 약 70%만 먼저 준다.",
+      "stat_top": "Anthropic 합의금",
+      "stat_arrow": "11월 23일 주 첫 지급분",
+      "stat_bottom": "약 70%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "eyebrow": "2026.11.17",
+      "foot": "2026.11.17",
+      "_src": "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/",
+      "_id": "books-not-ais-to-take",
+      "kind": "quote",
+      "headline": "호주, 허락부터\n받으라",
+      "body": "호주 작가·출판사·언론 단체가 Not AI's to Take를 띄웠다. 청원엔 1,200명 넘게 서명했다.",
+      "quote": "허락을 먼저 받고,\n합의한 값을\n치러야 한다",
+      "quote_by": "Not AI's to Take 캠페인 단체들"
+    },
+    {
+      "n": 4,
+      "eyebrow": "2026.11.18",
+      "foot": "2026.11.18",
+      "_src": "https://www.donga.com/news/It/article/all/20261118/135045150/2",
+      "_id": "mentat-publisher-licensing",
+      "kind": "stat",
+      "headline": "책을 내주고\n값을 받는다",
+      "body": "도서 AI 라이선싱 플랫폼 멘탯이 14개월 만에 출판사 100곳 넘게 계약해 책 4만 종을 확보했다.",
+      "stat_top": "출판사 100곳+",
+      "stat_arrow": "14개월 새 확보한 라이선스 도서",
+      "stat_bottom": "4만 종",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "eyebrow": "2026.11.20",
+      "foot": "2026.11.20",
+      "_src": "https://www.wargamer.com/dnd/anthropic-settlement",
+      "_id": "wotc-anthropic-payout",
+      "kind": "photo",
+      "headline": "배상금,\n작가에게 간다",
+      "body": "D&D 판권을 가진 WotC가 15억 달러 Anthropic 합의금 중 제 몫을 작가들과 나누겠다고 했다.",
+      "media": "pipeline/media/wotc-anthropic-payout.jpg"
+    },
+    {
+      "n": 6,
+      "eyebrow": "2026.11.23",
+      "foot": "2026.11.23",
+      "_src": "http://knpp.co.kr/news/597241",
+      "_id": "publishing-act-ai-consent-bill",
+      "kind": "quote",
+      "headline": "한국도\n동의 전제로",
+      "body": "셀렉트스타와 출협이 AI 학습용 출판데이터 협약을 20일 발표했다. 권리자 동의가 전제다.",
+      "quote": "권리자의 동의와 신뢰를\n바탕으로 활용될 때\n지속 가능한 데이터 생태계",
+      "quote_by": "김세엽 · 셀렉트스타 대표"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

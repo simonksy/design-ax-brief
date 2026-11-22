@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "Siemens 에이전트 텍스트로 로봇 그리퍼 설계",
+    "date": "2026.11.23",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 디자인 · 2026.11.23",
+      "headline": "Siemens 에이전트 텍스트로 로봇…",
+      "body": "Siemens는 Industrial AI로 움직이는 적층제조(AM)용 엔드투엔드 Digital Thread를 만들고 있다. 엔지니어링…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/siemens-agibot-gripper-agent.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Siemens 에이전트 텍스트로 로봇…",
+      "body": "Siemens와 AGIBOT은 이 워크플로를 휴머노이드 로봇용 그리퍼로 시연한다. 사용자가 다룰 물체와 로봇이 할 작업을 설명하면…",
+      "foot": "2026.11.23",
+      "media": "pipeline/media/siemens-agibot-gripper-agent.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Siemens 에이전트 텍스트로 로봇…",
+      "body": "“시간이 많이 드는 과정에서 변형안을 일일이 손으로 설계하는 대신, 에이전틱 워크플로가 구체적인 요구사항에 맞춰 엔지니어링 작업을…",
+      "foot": "2026.11.23",
+      "media": "pipeline/media/siemens-agibot-gripper-agent.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Siemens 에이전트 텍스트로 로봇…",
+      "body": "Siemens는 EOS, AM Solutions와 손잡고 Erlangen 전자 공장에 적응형 생산 셀을 짓고 있다. Synera와…",
+      "foot": "2026.11.23",
+      "media": "pipeline/media/siemens-agibot-gripper-agent.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Siemens 에이전트 텍스트로 로봇…",
+      "body": "Siemens AI 에이전트가 글로 3D 프린팅용 AGIBOT 그리퍼를 설계한다.",
+      "foot": "2026.11.23",
+      "media": "pipeline/media/siemens-agibot-gripper-agent.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

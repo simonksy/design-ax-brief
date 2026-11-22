@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "Meta 광고, MCP로 AWS Quick 입성",
+    "date": "2026.11.23",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 마케팅 · 2026.11.23",
+      "headline": "Meta 광고, MCP로 AWS…",
+      "body": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 들어왔다. Quick은 이 커넥터로 광고용 Model Context…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Meta 광고, MCP로 AWS…",
+      "body": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 묶어 대시보드, 문서, 슬라이드 덱, 자동화 워크플로까지…",
+      "foot": "2026.11.23",
+      "video": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Meta 광고, MCP로 AWS…",
+      "body": "영상에는 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 다음, Quick이 접근할…",
+      "foot": "2026.11.23",
+      "video": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Meta 광고, MCP로 AWS…",
+      "body": "쓰임새는 캠페인 기획·집행과 크리에이티브 피로도 감지에서 전환 리프트 연구, 카탈로그 수정, 재고·마진에 맞춘 지출 조정까지 넓다.…",
+      "foot": "2026.11.23",
+      "video": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Meta 광고, MCP로 AWS…",
+      "body": "AWS Quick이 Meta 광고 MCP 서버에 붙어 캠페인을 자연어로 다룬다.",
+      "foot": "2026.11.23",
+      "video": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

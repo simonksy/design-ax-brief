@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "AI 안전, 자율이냐 의무냐",
+    "date": "2026.11.23",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 대조(11-23): 게재일 전자신문 11.16(블룸버그 14일 보도·12일 회의), 캘리포니아 주지사실 11.18, Jacobs 의원실 11.19, AP 11.20 22:07Z(아카이브 날짜 11-18·11-20·11-23 대신 원문 날짜). '최소 12개월' 책임 면제, 기준 의무화·독립 감독·긴급 가동 중단 명령권, Rob Reich 샌드위치 인용, SAFE AI Act 안전 체계·사고 보고·민사 벌금, Jacobs 인용, Hickenlooper 제삼자 평가·특위 제안 확인(AP는 Cloudflare로 막혀 수집 당시 본문 요약으로 대조). 사진은 5번 AP 사진 한 장만 — 2번 전자신문 그래픽·3번 주정부 문구 이미지는 stat·quote로 바꿈. 11-18 칩 통제·11-22 시험 부정 회차와 겹치지 않음.",
+    "sources": [
+      "전자신문 — 美 백악관, AI 사고 자진신고 기업 책임 완화 권고 (2026.11.16)",
+      "Office of Governor Gavin Newsom — Governor Newsom's nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight (2026.11.18)",
+      "Rep. Sara Jacobs — Jacobs, Maloy, Beyer Release Outline for Sweeping Bipartisan AI Safety Legislation (2026.11.19)",
+      "AP News — Senator proposes select committee on AI as Democrats hope to move quickly to regulate it (2026.11.20)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 11.16~11.20",
+      "thread": [
+        {
+          "d": "11.16",
+          "t": "책임 면제",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.18",
+          "t": "킬 스위치",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.19",
+          "t": "SAFE AI",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.20",
+          "t": "상원 특위",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "백악관은 자진신고에 면책을 내밀고, 주와 의회는 외부 검증을 의무로 묶으려 한다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 안전,\n자율이냐 의무냐",
+      "body": "한 건씩 보면 각자의 안이다. 닷새 사이 백악관은 자진신고에 면책을 내밀었고, 캘리포니아와 의회는 외부 검증을 앞세웠다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "자진신고하면\n책임 면제",
+      "body": "블룸버그에 따르면 백악관 AI TF는 보안 사고를 자진신고한 AI 기업에 최소 12개월 규제 책임을 면제하자고 권고했다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.etnews.com/20261116000016",
+      "_id": "pol-wh-ai-incident-liability",
+      "stat_top": "사고 자진신고",
+      "stat_arrow": "규제상 책임 면제",
+      "stat_bottom": "최소 12개월",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.18",
+      "headline": "캘리포니아는\n의무와 킬 스위치",
+      "body": "뉴섬 주지사의 새 권고안은 안전 기준 의무화와 독립 감독, 긴급 시 주정부의 즉시 가동 중단 명령권을 담았다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/",
+      "_id": "california-sb53-killswitch-next-steps",
+      "quote": "구내식당 샌드위치가\nAI 모델보다 더 감독받는다",
+      "quote_by": "Rob Reich, 스탠퍼드대 교수 · 권고안 자문단"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.19",
+      "headline": "하원은 연방\n안전 의무 법안",
+      "body": "초당파 SAFE AI Act 개요는 프런티어 랩에 안전 체계와 사고 보고를 의무화하고, 위반하면 민사 벌금을 물린다.",
+      "foot": "2026.11.19",
+      "_src": "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation",
+      "_id": "jacobs-safe-ai-act-outline",
+      "quote": "스스로 단속하는 산업은 없다.\nAI도 예외일 수 없다",
+      "quote_by": "Sara Jacobs 하원의원 (D-CA)"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.20",
+      "headline": "상원엔\nAI 특위 제안",
+      "body": "Hickenlooper 상원의원은 제삼자 평가 요건을 우선순위로 꼽으며, 흩어진 AI 논의를 모을 특별위원회를 제안했다.",
+      "foot": "2026.11.20",
+      "_src": "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403",
+      "_id": "hickenlooper-ai-select-committee",
+      "media": "pipeline/media/hickenlooper-ai-select-committee.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
