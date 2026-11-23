@@ -1,186 +1,244 @@
 {
   "section": "politics",
-  "now_iso": "2026-11-22T22:03:00Z",
+  "now_iso": "2026-11-23T22:00:42Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-      "source": "The Guardian",
+      "title": "Additions to the Entity List (BIS adds 7 Megaspeed-linked entities in Malaysia, Singapore, Thailand)",
+      "url": "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list",
+      "source": "Federal Register / BIS",
       "category": "politics",
-      "published_iso": "2026-11-22T12:12:07Z",
-      "excerpt": "South Korea's education minister Choi Kyo-jin resigned, saying he 'failed to prepare adequately' for the university entrance exams after an AI-assisted cheating scandal forced a last-minute crackdown (wifi blocking, doubled supervisors, device alerts).",
-      "og_image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
-    },
-    {
-      "title": "Influencer deepfakes used to stoke Canada-US tensions",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242",
-      "source": "Taipei Times",
-      "category": "politics",
-      "published_iso": "2026-11-23T00:00:00+08:00",
-      "excerpt": "A McGill Centre for Media, Technology and Democracy study found about 300 Instagram and TikTok accounts using AI-altered likenesses of real creators, with AI-written scripts, to inflame Canada-US trade-war discourse — thousands of videos and about 20 million views.",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg"
-    },
-    {
-      "title": "No new curbs on Nvidia chips",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/23/2003868201",
-      "source": "Taipei Times",
-      "category": "politics",
-      "published_iso": "2026-11-23T00:00:00+08:00",
-      "excerpt": "US Treasury Secretary Scott Bessent said no further restrictions on sales of older Nvidia chips to China are needed after the administration moved last week to block China's remote access to the latest semiconductors.",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/23/P09-261123-319.jpg",
+      "published_iso": "2026-11-23T16:15:00-05:00",
+      "excerpt": "BIS final rule (public inspection 11-23, publication 11-25) adds MSFusion, PT Megaspeed International, Speedmatrix, Apex Enterprise Solutions (Singapore), Megaspeed International Pte, Swiftdata and Megaspeed (Thailand) to the Entity List over significant risk of diverting advanced computing commodities; all EAR items need a license, presumption of denial. Effective on public inspection.",
+      "og_image": null,
       "history_match": {
-        "score": 0.331,
-        "date": "2026-11-17",
-        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-        "title": "US moves to cut China’s remote access to AI chips",
+        "score": 0.158,
+        "date": "2026-11-18",
+        "url": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
+        "title": "Joint statement from Department of Commerce and Department of Justice on Megaspeed investigation",
         "band": "related"
       }
     },
     {
-      "title": "Back in lower court, Amazon wants to continue suit against AI assistant",
-      "url": "https://www.courthousenews.com/back-in-lower-court-amazon-wants-to-continue-suit-against-ai-assistant/",
-      "source": "Courthouse News Service",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica",
       "category": "politics",
-      "published_iso": "2026-11-20T23:47:42Z",
-      "excerpt": "After the Ninth Circuit lifted the block on Perplexity's Comet shopping agent, Judge Maxine Chesney granted Perplexity a discovery stay while weighing its dismissal motion; Amazon argues a new Comet version and agent autonomy change the CFAA 'authorization' question.",
+      "published_iso": "2026-11-23T21:30:44+00:00",
+      "excerpt": "Oregon and Virginia attorneys general filed suits against SpaceX/X over Grok image generation, alleging the AI still produces CSAM and nonconsensual intimate imagery despite X's claim every output is screened.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+      "cluster": "c1"
+    },
+    {
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "source": "WIRED",
+      "category": "politics",
+      "published_iso": "2026-11-23T11:00:00.000Z",
+      "excerpt": "The attorneys general of Oregon and Virginia are suing several of Elon Musk's companies, alleging weak safeguards against sexualized AI imagery of real people, including children.",
+      "og_image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/191:100/w_1280,c_limit/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
+      "history_match": {
+        "score": 0.158,
+        "date": "2026-10-26",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai",
+        "title": "Texas becomes the latest state to sue OpenAI",
+        "band": "related"
+      },
+      "cluster": "c1"
+    },
+    {
+      "title": "Oregon and Virginia sue SpaceX over Grok's porn deepfakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-11-23T18:26:47+00:00",
+      "excerpt": "State AGs called the weak safeguards built into Grok's AI image generator 'not a failure but a feature' in new lawsuits against SpaceX, which owns X and xAI.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "cluster": "c1"
+    },
+    {
+      "title": "White House brags that Trump was 'totally involved' in getting Jensen reinstated",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-11-23T16:30:11+00:00",
+      "excerpt": "The White House said President Trump was 'totally involved' in Nvidia's board reinstating Jensen Huang as CEO, with Trump saying Huang 'did nothing wrong' amid the national-security probe tied to AI chip diversion to China.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "history_match": {
+        "score": 0.207,
+        "date": "2026-11-07",
+        "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+        "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Huang's return sparks bipartisan backlash on Capitol Hill",
+      "url": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
+      "source": "Axios",
+      "category": "politics",
+      "published_iso": "2026-11-23T18:07:08Z",
+      "excerpt": "Senators in both parties questioned Nvidia's 'no national security risk' finding; House Intelligence, Foreign Affairs and China committees say Huang's scheduled testimony next week on AI chip diversion is unchanged.",
       "og_image": null
     },
     {
-      "title": "The Role of AI in Enforcing China's Ethnic Unity Law",
-      "url": "https://www.chinatalk.media/p/the-role-of-ai-in-enforcing-chinas",
+      "title": "트럼프, 젠슨황에 '안보 면죄부'…AI패권·스캔들 불똥 의식했나",
+      "url": "https://www.yna.co.kr/view/AKR20261124002700071",
+      "source": "연합뉴스",
+      "category": "politics",
+      "published_iso": "2026-11-24T02:21:47+09:00",
+      "excerpt": "젠슨 황 엔비디아 CEO의 전격 복귀에 트럼프 대통령의 역할이 결정적이었던 것으로 나타나, 미 정부가 사실상 '안보 면죄부'를 준 배경으로 AI 패권 경쟁과 스캔들 확산 우려가 거론된다.",
+      "og_image": "https://img0.yna.co.kr/photo/reuters/2026/11/11/PRU20261111115401009_P4.jpg"
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-11-23T21:09:37+00:00",
+      "excerpt": "AI data center electricity demand became a flashpoint at the COP31 UN climate talks, complicating national energy and emissions commitments.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0%2C10.750882913364%2C100%2C78.498234173273&w=1200"
+    },
+    {
+      "title": "AI in Mental Health Airlock to support safe innovation",
+      "url": "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation",
+      "source": "GOV.UK (MHRA)",
+      "category": "politics",
+      "published_iso": "2026-11-23T16:46:00+00:00",
+      "excerpt": "The UK launches a new regulatory sandbox ('AI Airlock' for mental health) to explore how safety of AI-enabled digital mental health technologies can be evaluated and regulated.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+    },
+    {
+      "title": "AI 안경 '몰카' 막는다…촬영 표시 의무화 법안 발의",
+      "url": "https://www.yna.co.kr/view/AKR20261123075800017",
+      "source": "연합뉴스",
+      "category": "politics",
+      "published_iso": "2026-11-23T11:29:45+09:00",
+      "excerpt": "AI 스마트안경에 촬영 표시 기능 탑재를 의무화하고 사적 촬영 시 촬영 사실 고지를 의무화하는 법안(이주희 의원 대표발의)이 국회에 발의됐다.",
+      "og_image": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg"
+    },
+    {
+      "title": "배경훈 부총리 \"국가과학AI센터, 과학AI 허브 자리잡도록 지원\"",
+      "url": "https://www.yna.co.kr/view/AKR20261123087300017",
+      "source": "연합뉴스",
+      "category": "politics",
+      "published_iso": "2026-11-23T16:16:39+09:00",
+      "excerpt": "과기정통부가 국가과학인공지능연구센터(NAIS)를 중심으로 국가 과학 AI 역량을 결집하는 계획을 밝혔다 (과기정통부 11-23 보도자료 '국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다').",
+      "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg"
+    },
+    {
+      "title": "Inside the Black Market for America's Artificial Intelligence",
+      "url": "https://www.lawfaremedia.org/article/inside-the-black-market-for-america-s-artificial-intelligence",
+      "source": "Lawfare",
+      "category": "politics",
+      "published_iso": "2026-11-23T19:00:03Z",
+      "excerpt": "A network of resellers illegally sells China access to top American AI models; the piece argues Washington already has export-control and sanctions tools to go after them.",
+      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/cybersec.jpg?sfvrsn=a81c685_7"
+    },
+    {
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+      "source": "The Decoder",
+      "category": "politics",
+      "published_iso": "2026-11-23T18:42:38+00:00",
+      "excerpt": "OpenAI chief scientist Jakub Pachocki released perplexity scores for the GPT series and proposed that labs agree on shared capability limits, a governance proposal for frontier AI.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png"
+    },
+    {
+      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+      "source": "The Decoder",
+      "category": "politics",
+      "published_iso": "2026-11-23T14:43:23+00:00",
+      "excerpt": "Chinese military researchers warn AI advances could give the US an edge in the nuclear balance by locating mobile missile launchers.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Carrier-Iran-small.png"
+    },
+    {
+      "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+      "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+      "source": "The Decoder",
+      "category": "politics",
+      "published_iso": "2026-11-23T13:45:32+00:00",
+      "excerpt": "Per the NYT, US intelligence tracked Alice Huang's contacts with China's MSS for over a year; investigators are probing whether a network of companies diverted Nvidia AI chips to China.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+      "history_match": {
+        "score": 0.252,
+        "date": "2026-11-21",
+        "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+        "title": "California investigates Nvidia over whether chip exports ended up in China",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Doctors who disagree with AI could face legal jeopardy",
+      "url": "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger",
+      "source": "Axios",
+      "category": "politics",
+      "published_iso": "2026-11-23T10:25:06Z",
+      "excerpt": "Mock-jury research finds juries side with plaintiffs more when AI disagrees with a radiologist; the AMA has called for federal and state laws shielding clinicians from AI liability.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.271,
+        "date": "2026-11-14",
+        "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+        "title": "Doctors want liability shield from AI mistakes",
+        "band": "related"
+      }
+    },
+    {
+      "title": "NY Gov. Hochul vetoes bill that would have required AI accuracy warnings",
+      "url": "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings",
+      "source": "Gothamist (off-list)",
+      "category": "politics",
+      "published_iso": "2026-11-23T20:43:53.312Z",
+      "excerpt": "New York Gov. Kathy Hochul vetoed a bill requiring AI chatbots to carry accuracy warnings, saying the measure may run afoul of free-speech protections. Off-list exception: on-list outlets had no item on this state veto.",
+      "og_image": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+      "history_match": {
+        "score": 0.188,
+        "date": "2026-10-29",
+        "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+        "title": "New York Gov. Hochul signs law barring AI companion chatbots from simulating human relationships with minors",
+        "band": "related"
+      }
+    },
+    {
+      "title": "The Agentic State",
+      "url": "https://www.chinatalk.media/p/the-agentic-state",
       "source": "ChinaTalk",
       "category": "politics",
-      "published_iso": "2026-11-22T11:38:55Z",
-      "excerpt": "An article-by-article reading of China's new Ethnic Unity Law shows how its content-deletion duties (Art. 31), early-warning systems (Art. 52) and minority-language digitalization (Art. 15) depend on AI for policing, learning and enforcement — and extend to generative-AI model providers.",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
-    },
-    {
-      "title": "李대통령 \"AI데이터센터·메모리 수요 더 늘 것…속도가 생명\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261121033751001",
-      "source": "연합뉴스",
-      "category": "politics",
-      "published_iso": "2026-11-21T15:08:58+09:00",
-      "excerpt": "이재명 대통령이 울산 SK AI 데이터센터(AIDC) 건설 현장을 방문해 영남권 메가 프로젝트를 점검하며 AI 데이터센터 구축 속도를 강조했다.",
-      "og_image": "https://img8.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112102630001300_P4.jpg"
-    },
-    {
-      "title": "국내 대학 연쇄 해킹에 중국 해킹 커뮤니티 연관 AI 도구 흔적",
-      "url": "https://www.yna.co.kr/view/AKR20261120131200017",
-      "source": "연합뉴스",
-      "category": "politics",
-      "published_iso": "2026-11-22T06:15:02+09:00",
-      "excerpt": "최근 국내 대학 20여 곳을 겨냥한 해킹 사건에서 중국 해킹 커뮤니티와 연관된 AI 기반 모의해킹 도구의 흔적이 확인됐다.",
-      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110512170001300_P4.jpg"
-    },
-    {
-      "title": "\"공무원 AI 개발 실험 넘어 행정 현장으로\"…정부, 확산 체계 마련",
-      "url": "https://www.etnews.com/20261120000143",
-      "source": "전자신문",
-      "category": "politics",
-      "published_iso": "2026-11-22T12:00:00+09:00",
-      "excerpt": "정부가 공무원이 AI로 직접 만든 업무 서비스를 다른 기관도 활용할 수 있도록 공유·확산 체계를 마련했다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/19/news-p.v1.20261119.cdca1ca9d04d4c26b96d5e8e8bef0a8e_P1.png"
-    },
-    {
-      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
-      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "source": "The Register",
-      "category": "politics",
-      "published_iso": "2026-11-20T17:30:00Z",
-      "excerpt": "Amazon CISO CJ Moses reported that suspected China-linked spies used the open-source Cairn agent framework to autonomously find and exploit a MONAI Label zero-day, taking over a server in a campaign against East Asian universities.",
-      "og_image": "https://image.theregister.com/5311400.jpg?imageId=5311400&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-      "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
-      "source": "대한민국 정책브리핑 (과학기술정보통신부)",
-      "category": "politics",
-      "published_iso": "2026-11-20T17:22:00+09:00",
-      "excerpt": "과기정통부가 'AI 데이터센터 산업 진흥 특별법'(내년 3월 시행) 시행령·시행규칙 제정안을 12월 30일까지 입법예고 — AIDC 인정 기준·신고제, 인허가 일괄처리, 비수도권 50MW 이하 전력계통영향평가 면제, AIDC 특구 기준.",
-      "og_image": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/23168f9c5e55218a5d0795c5ac6eff8c.jpg"
-    },
-    {
-      "title": "AI Board holds its tenth meeting",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-tenth-meeting",
-      "source": "European Commission — Shaping Europe's digital future",
-      "category": "politics",
-      "published_iso": "2026-11-20T00:00:00+01:00",
-      "excerpt": "The EU AI Board met 18 November under the Irish Presidency and endorsed new Rules of Procedure: its Chair will now be elected for a two-year term, starting from the next meeting in early March.",
-      "og_image": null
-    },
-    {
-      "title": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it",
-      "url": "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403",
-      "source": "AP News",
-      "category": "politics",
-      "published_iso": "2026-11-20T22:07:01Z",
-      "excerpt": "Sen. John Hickenlooper proposed, in letters to Schumer and Van Hollen, a Senate select committee on AI, with priorities of third-party evaluation requirements, national-security mitigation and accountability rules as Democrats prepare for the January majority.",
-      "og_image": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b"
-    },
-    {
-      "title": "Several Member States call on European Commission to propose legislation to better protect copyright from AI",
-      "url": "https://agenceurope.eu/en/bulletin/article/13986/6/several-member-states-call-on-european-commission-to-propose-legislation-to-better-protect-copyright-from-ai",
-      "source": "Agence Europe",
-      "category": "politics",
-      "published_iso": "2026-11-20T00:00:00+01:00",
-      "excerpt": "Fourteen EU member states urged the Commission to propose swift legislation strengthening copyright protection against AI and ensuring fair remuneration for creators. (Off-list outlet: no allowed-domain outlet carried it in the window.)",
-      "og_image": "https://agenceurope.eu/_site/images/twitter_card_large_fr.png",
-      "history_match": {
-        "score": 0.162,
-        "date": "2026-10-24",
-        "url": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance",
-        "title": "EU member states finalize Digital Omnibus negotiating stance",
-        "band": "related"
-      }
-    },
-    {
-      "title": "European Commission says it was hacked by attackers using AI tools",
-      "url": "https://www.techradar.com/pro/security/european-commission-says-it-was-hacked-by-attackers-using-ai-tools-says-it-is-taking-the-necessary-steps-in-response-to-a-detected-cyber-campaign",
-      "source": "TechRadar",
-      "category": "politics",
-      "published_iso": "2026-11-20T10:46:31Z",
-      "excerpt": "The European Commission confirmed an AI-assisted cyber campaign (linked to the ARTEX AI pentest framework) disrupted internal systems, saying it is taking the necessary steps in response. (Off-list outlet; on-list coverage not verifiable in window.)",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg"
+      "published_iso": "2026-11-23T11:58:38+00:00",
+      "excerpt": "Essay on how AI agents could transform government administration and public services.",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!Z8_3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70fa4136-197a-442b-abb5-ad915bc29287_1672x941.png"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 14,
+    "dropped": 4,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 2,
-    "same_story_pairs": []
+    "review": 6,
+    "same_story_pairs": [
+      [
+        "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+        0.403
+      ],
+      [
+        "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+        0.403
+      ],
+      [
+        "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+        "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+        0.497
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-24",
-      "title": "EU member states finalize Digital Omnibus negotiating stance",
-      "url": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "LLMs Are Still Making Election Deepfakes Just Days Before the US Midterms",
-      "url": "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Washington Senate Democrats allege GOP-backed PAC broke AI ad law",
-      "url": "https://www.axios.com/local/seattle/2026/10/22/mailer-michael-shepard-ai-letter-washington-election-law"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "EXCLUSIVE: China offered European Commission to join its AI alliance",
-      "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-    },
     {
       "date": "2026-10-25",
       "title": "Palantir vows NATO AI system has no ‘kill switch’ after Starlink row",
@@ -855,6 +913,31 @@
       "date": "2026-11-22",
       "title": "靑, '시험공정성회복TF' 구성…'AI부정행위 근절' 근본대책 마련",
       "url": "https://www.yna.co.kr/view/AKR20261120154100001"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Several Member States call on European Commission to propose legislation to better protect copyright from AI",
+      "url": "https://agenceurope.eu/en/bulletin/article/13986/6/several-member-states-call-on-european-commission-to-propose-legislation-to-better-protect-copyright-from-ai"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it",
+      "url": "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "The Role of AI in Enforcing China's Ethnic Unity Law",
+      "url": "https://www.chinatalk.media/p/the-role-of-ai-in-enforcing-chinas"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Influencer deepfakes used to stoke Canada-US tensions",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242"
     }
   ]
 }

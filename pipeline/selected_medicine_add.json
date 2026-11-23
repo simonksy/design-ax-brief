@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-24",
+  "section": "medicine",
+  "items": [
+    {
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Ambient AI documentation for structured EMR import in ophthalmology: consultation time, physician gaze behaviour and comparative accuracy",
+      "url": "https://www.nature.com/articles/s41433-026-05028-5",
+      "source": "Eye (Nature)",
+      "published_iso": "2026-11-23T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+      "excerpt": "EMR documentation contributes to physician workload and reduced patient–physician interaction, with ophthalmology particularly affected by specialist data requirements. This study compared ambient AI-assisted documentation for structured EMR import with conventional entry in standardised ophthalmic ",
+      "rationale": "Peer-reviewed clinic study measuring whether ambient AI that writes structured EMR fields changes consultation time, where the physician looks (patient vs screen) and record accuracy: direct evidence for clinicians weighing AI documentation in specialist clinics."
+    }
+  ]
+}

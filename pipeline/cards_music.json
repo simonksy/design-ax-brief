@@ -1,17 +1,339 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "music",
   "cards": [
     {
-      "id": "travis-tritt-ai-deepfake-clip",
+      "id": "music-tiktok-likeness-global",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Travis Tritt,\nSwift AI 영상 부인",
-      "body": "Tritt은 CMAs의 Swift 편중을 꼬집은 영상은 AI-made 가짜라 했다.",
-      "mini_headline": "Tritt, 가짜 AI 영상 부인",
+      "headline": "TikTok, 초상 탐지\n전 세계로 확대",
+      "body": "TikTok이 크리에이터용 Likeness Detection을 전 세계에 내놨다.",
+      "mini_headline": "TikTok 초상 탐지, 전 세계로",
       "tool": "Music",
-      "source": "American Songwriter",
-      "url": "https://americansongwriter.com/travis-tritt-slams-obviously-fake-ai-video-that-appeared-to-show-him-criticizing-taylor-swift-at-the-cmas/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/23/tiktok-likeness-detection-release/",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+            "cap": "사진: Zulfugar Karimov"
+          },
+          {
+            "t": "p",
+            "x": "TikTok이 새로운 AI 탐지 도구 두 가지를 공식 출시했다. 그중 하나는 크리에이터가 “본인 동의 없이 자신의 초상을 사용했을 수 있는” 영상을 찾아 삭제하도록 돕는 도구다. 기계가 찍어낸 저품질 콘텐츠를 향한 반발이 거세지는 와중에 나온 기능이다. TikTok은 지금까지 AI 업로드 오십억 건가량에 라벨을 붙였다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "첫 번째 도구는 TikTok 가입 여부와 관계없이 “누구나” 영상·이미지·오디오를 올려, 해당 콘텐츠가 TikTok, CapCut, Dreamina, Hypic, Pippit 전반에서 “TikTok의 AI 제작 기능으로 만들어지거나 편집됐는지” 확인할 수 있다. 도구는 “Content Credentials” 메타데이터와 “보이지 않는 워터마크”를 찾아낸다."
+          },
+          {
+            "t": "p",
+            "x": "두 번째 도구는 “Likeness Detection”이다. 자격을 갖춘 크리에이터와 공직자라면 전 세계 어디서나 쓸 수 있다. 크리에이터는 “신뢰할 수 있는 제3자 파트너를 통해 신원(ID)을 인증해 가입”하고, 이후 초상이 무단으로 쓰인 것으로 의심되는 사례가 나오면 알림을 받는다. TikTok은 U.S.(미국) 테스트 기간에 그 파트너가 Jumio라고 확인했다."
+          },
+          {
+            "t": "p",
+            "x": "최근 Rihanna와 Taylor Swift를 내세운 딥페이크 사기를 떠올리면 Likeness Detection이 얼마나 효과를 낼지 지켜볼 만하다고 Digital Music News는 짚었다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "TikTok takes likeness detection\nglobal for creators",
+          "body": "TikTok launched Likeness Detection globally, letting creators find and remove videos that use their likeness.",
+          "mini_headline": "TikTok likeness check goes global",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "Photo Credit: Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTok has officially launched two new AI detection tools, one of which is designed to help creators find and remove videos “that may use their likeness without their consent.” The features arrive amid intensifying pushback against machine-generated slop; TikTok says it’s labeled five billion or so AI uploads to date."
+              },
+              {
+                "t": "p",
+                "x": "The first tool lets “anyone” — signed up for TikTok or not — upload videos, images and audio to check whether content “was made or edited with TikTok’s AI creation features,” across TikTok, CapCut, Dreamina, Hypic and Pippit. It looks for “Content Credentials” metadata and “invisible watermarks.”"
+              },
+              {
+                "t": "p",
+                "x": "The second makes “Likeness Detection” globally available to eligible creators and public officials. Creators “sign up by verifying their ID with a trusted third-party partner” and are then notified of potentially unauthorized likeness usages. During the U.S. test, TikTok confirmed Jumio as that partner."
+              },
+              {
+                "t": "p",
+                "x": "Given recent Rihanna and Taylor Swift deepfake scams, Digital Music News says Likeness Detection’s impact will be worth tracking."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "TikTok, 초상 탐지\n전 세계로 확대",
+          "body": "TikTok이 크리에이터용 Likeness Detection을 전 세계에 내놨다.",
+          "mini_headline": "TikTok 초상 탐지, 전 세계로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "사진: Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTok이 새로운 AI 탐지 도구 두 가지를 공식 출시했다. 그중 하나는 크리에이터가 “본인 동의 없이 자신의 초상을 사용했을 수 있는” 영상을 찾아 삭제하도록 돕는 도구다. 기계가 찍어낸 저품질 콘텐츠를 향한 반발이 거세지는 와중에 나온 기능이다. TikTok은 지금까지 AI 업로드 오십억 건가량에 라벨을 붙였다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "첫 번째 도구는 TikTok 가입 여부와 관계없이 “누구나” 영상·이미지·오디오를 올려, 해당 콘텐츠가 TikTok, CapCut, Dreamina, Hypic, Pippit 전반에서 “TikTok의 AI 제작 기능으로 만들어지거나 편집됐는지” 확인할 수 있다. 도구는 “Content Credentials” 메타데이터와 “보이지 않는 워터마크”를 찾아낸다."
+              },
+              {
+                "t": "p",
+                "x": "두 번째 도구는 “Likeness Detection”이다. 자격을 갖춘 크리에이터와 공직자라면 전 세계 어디서나 쓸 수 있다. 크리에이터는 “신뢰할 수 있는 제3자 파트너를 통해 신원(ID)을 인증해 가입”하고, 이후 초상이 무단으로 쓰인 것으로 의심되는 사례가 나오면 알림을 받는다. TikTok은 U.S.(미국) 테스트 기간에 그 파트너가 Jumio라고 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "최근 Rihanna와 Taylor Swift를 내세운 딥페이크 사기를 떠올리면 Likeness Detection이 얼마나 효과를 낼지 지켜볼 만하다고 Digital Music News는 짚었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "TikTok、肖像検出を\n世界のクリエイターへ",
+          "body": "TikTokがクリエイター向けLikeness Detectionを世界展開した。",
+          "mini_headline": "TikTokの肖像検出が世界展開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "写真：Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTokは新たなAI検出ツールを二つ正式に公開した。そのうち一つは、クリエイターが「本人の同意なく自分の肖像を使っている可能性がある」動画を見つけて削除できるよう支援するものだ。機械生成の粗悪なコンテンツへの反発が強まる中での投入で、TikTokはこれまでにAIによるアップロード約五十億件にラベルを付けたとしている。"
+              },
+              {
+                "t": "p",
+                "x": "一つ目のツールでは、TikTokに登録しているかどうかに関係なく「誰でも」動画・画像・音声をアップロードし、TikTok、CapCut、Dreamina、Hypic、Pippitにわたって、そのコンテンツが「TikTokのAI制作機能で作成または編集されたか」を確認できる。ツールは「Content Credentials」メタデータと「見えない透かし」を探す。"
+              },
+              {
+                "t": "p",
+                "x": "二つ目は「Likeness Detection」を、条件を満たすクリエイターと公職者に向けて世界で提供するものだ。クリエイターは「信頼できる第三者パートナーを通じてIDを確認して登録」し、その後、無断で肖像が使われた可能性のある事例について通知を受ける。U.S.でのテスト期間中、TikTokはそのパートナーがJumioだと認めていた。"
+              },
+              {
+                "t": "p",
+                "x": "最近のRihannaやTaylor Swiftのディープフェイク詐欺を踏まえれば、Likeness Detectionの効果は注視に値するとDigital Music Newsは指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "TikTok肖像检测\n面向全球创作者",
+          "body": "TikTok全球推出Likeness Detection，供创作者删除盗用肖像的视频。",
+          "mini_headline": "TikTok肖像检测走向全球",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "图片来源：Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTok正式推出两款新的AI检测工具，其中一款旨在帮助创作者查找并删除“可能未经本人同意使用其肖像”的视频。这些功能推出之际，外界对机器生成低质内容的抵制日益加剧；TikTok表示，迄今已为约五十亿条AI上传内容加注标签。"
+              },
+              {
+                "t": "p",
+                "x": "第一款工具允许“任何人”——无论是否注册TikTok——上传视频、图片和音频，核查内容是否在TikTok、CapCut、Dreamina、Hypic和Pippit上“使用TikTok的AI创作功能制作或编辑”。它会查找“Content Credentials”元数据和“不可见水印”。"
+              },
+              {
+                "t": "p",
+                "x": "第二款工具则向符合条件的创作者和公职人员在全球开放“Likeness Detection”。创作者需“通过可信的第三方合作伙伴验证身份ID后注册”，随后会收到可能未经授权使用其肖像的通知。在U.S.测试期间，TikTok确认该合作伙伴为Jumio。"
+              },
+              {
+                "t": "p",
+                "x": "鉴于近期涉及Rihanna和Taylor Swift的深度伪造诈骗，Digital Music News认为Likeness Detection的实际效果值得关注。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "TikTok globaliza su detección\nde imagen para creadores",
+          "body": "TikTok lanzó Likeness Detection en todo el mundo para que los creadores hallen y borren videos con su imagen.",
+          "mini_headline": "TikTok globaliza su detección de imagen",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "Foto: Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTok lanzó oficialmente dos nuevas herramientas de detección de AI, una de ellas diseñada para ayudar a los creadores a encontrar y eliminar videos «que puedan usar su imagen sin su consentimiento». Las funciones llegan en medio de un creciente rechazo al contenido basura generado por máquinas; TikTok afirma haber etiquetado hasta ahora unos cinco mil millones de subidas hechas con AI."
+              },
+              {
+                "t": "p",
+                "x": "La primera herramienta permite que «cualquiera», tenga o no cuenta en TikTok, suba videos, imágenes y audio para comprobar si un contenido «se creó o editó con las funciones de creación con AI de TikTok», en TikTok, CapCut, Dreamina, Hypic y Pippit. Busca metadatos «Content Credentials» y «marcas de agua invisibles»."
+              },
+              {
+                "t": "p",
+                "x": "La segunda pone «Likeness Detection» a disposición de creadores y cargos públicos elegibles en todo el mundo. Los creadores «se registran verificando su ID con un socio externo de confianza» y luego reciben avisos sobre posibles usos no autorizados de su imagen. Durante la prueba en U.S., TikTok confirmó que ese socio es Jumio."
+              },
+              {
+                "t": "p",
+                "x": "Tras las recientes estafas con deepfakes de Rihanna y Taylor Swift, Digital Music News considera que valdrá la pena seguir el impacto de Likeness Detection."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "TikTok, 초상 탐지\n전 세계로 확대",
+          "body": "TikTok이 크리에이터용 Likeness Detection을 전세계에 출시했다.",
+          "mini_headline": "TikTok 초상 탐지, 전 세계로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "사진: Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTok이 새로운 AI 탐지 도구 두 가지를 공식 출시했다. 그중 하나는 크리에이터가 “본인 동의 없이 자신의 초상을 사용했을 수 있는” 영상을 찾아 삭제하도록 돕는 도구다. 기계가 만든 저품질 콘텐츠에 대한 반발이 거세지는 가운데 나온 기능으로, TikTok은 지금까지 AI 업로드 오십억 건가량에 라벨을 붙였다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "첫 번째 도구는 TikTok 가입 여부와 관계없이 “누구나” 영상·이미지·오디오를 올려, 해당 콘텐츠가 TikTok, CapCut, Dreamina, Hypic, Pippit 전반에서 “TikTok의 AI 제작 기능으로 만들어지거나 편집됐는지” 확인할 수 있게 한다. 이 도구는 “Content Credentials” 메타데이터와 “보이지 않는 워터마크”를 찾는다."
+              },
+              {
+                "t": "p",
+                "x": "두 번째 도구는 “Likeness Detection”을 자격을 갖춘 크리에이터와 공직자에게 전 세계적으로 제공한다. 크리에이터는 “신뢰할 수 있는 제3자 파트너를 통해 신원(ID)을 인증해 가입”하고, 이후 무단 사용이 의심되는 초상 이용 사례를 통보받는다. TikTok은 U.S.(미국) 테스트 기간에 그 파트너가 Jumio라고 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "최근 Rihanna와 Taylor Swift를 내세운 딥페이크 사기를 고려하면 Likeness Detection의 효과는 지켜볼 만하다고 Digital Music News는 전했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "TikTok、肖像検出を\n世界のクリエイターへ",
+          "body": "TikTokがクリエイター向けLikeness Detectionを世界展開した。",
+          "mini_headline": "TikTokの肖像検出が世界展開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "写真：Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTokは新たなAI検出ツールを二つ正式に公開した。そのうち一つは、クリエイターが「本人の同意なく自分の肖像を使っている可能性がある」動画を見つけて削除できるよう支援するものだ。機械生成の粗悪なコンテンツへの反発が強まる中での投入で、TikTokはこれまでにAIによるアップロード約五十億件にラベルを付けたとしている。"
+              },
+              {
+                "t": "p",
+                "x": "一つ目のツールでは、TikTokに登録しているかどうかに関係なく「誰でも」動画・画像・音声をアップロードし、TikTok、CapCut、Dreamina、Hypic、Pippitにわたって、そのコンテンツが「TikTokのAI制作機能で作成または編集されたか」を確認できる。ツールは「Content Credentials」メタデータと「見えない透かし」を探す。"
+              },
+              {
+                "t": "p",
+                "x": "二つ目は「Likeness Detection」を、条件を満たすクリエイターと公職者に向けて世界で提供するものだ。クリエイターは「信頼できる第三者パートナーを通じてIDを確認して登録」し、その後、無断で肖像が使われた可能性のある事例について通知を受ける。U.S.でのテスト期間中、TikTokはそのパートナーがJumioだと認めていた。"
+              },
+              {
+                "t": "p",
+                "x": "最近のRihannaやTaylor Swiftのディープフェイク詐欺を踏まえれば、Likeness Detectionの効果は注視に値するとDigital Music Newsは指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "TikTok肖像检测\n面向全球创作者",
+          "body": "TikTok全球推出Likeness Detection，供创作者删除盗用肖像的视频。",
+          "mini_headline": "TikTok肖像检测走向全球",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "图片来源：Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTok正式推出两款新的AI检测工具，其中一款旨在帮助创作者查找并删除“可能未经本人同意使用其肖像”的视频。这些功能推出之际，外界对机器生成低质内容的抵制日益加剧；TikTok表示，迄今已为约五十亿条AI上传内容加注标签。"
+              },
+              {
+                "t": "p",
+                "x": "第一款工具允许“任何人”——无论是否注册TikTok——上传视频、图片和音频，核查内容是否在TikTok、CapCut、Dreamina、Hypic和Pippit上“使用TikTok的AI创作功能制作或编辑”。它会查找“Content Credentials”元数据和“不可见水印”。"
+              },
+              {
+                "t": "p",
+                "x": "第二款工具则向符合条件的创作者和公职人员在全球开放“Likeness Detection”。创作者需“通过可信的第三方合作伙伴验证身份ID后注册”，随后会收到可能未经授权使用其肖像的通知。在U.S.测试期间，TikTok确认该合作伙伴为Jumio。"
+              },
+              {
+                "t": "p",
+                "x": "鉴于近期涉及Rihanna和Taylor Swift的深度伪造诈骗，Digital Music News认为Likeness Detection的实际效果值得关注。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "TikTok globaliza su detección\nde imagen para creadores",
+          "body": "TikTok lanzó Likeness Detection en todo el mundo para que los creadores hallen y borren videos con su imagen.",
+          "mini_headline": "TikTok globaliza su detección de imagen",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/TikTok-Likeness-Detection-1024x546.jpg",
+                "cap": "Foto: Zulfugar Karimov"
+              },
+              {
+                "t": "p",
+                "x": "TikTok lanzó oficialmente dos nuevas herramientas de detección de AI, una de ellas diseñada para ayudar a los creadores a encontrar y eliminar videos «que puedan usar su imagen sin su consentimiento». Las funciones llegan en medio de un creciente rechazo al contenido basura generado por máquinas; TikTok afirma haber etiquetado hasta ahora unos cinco mil millones de subidas hechas con AI."
+              },
+              {
+                "t": "p",
+                "x": "La primera herramienta permite que «cualquiera», tenga o no cuenta en TikTok, suba videos, imágenes y audio para comprobar si un contenido «se creó o editó con las funciones de creación con AI de TikTok», en TikTok, CapCut, Dreamina, Hypic y Pippit. Busca metadatos «Content Credentials» y «marcas de agua invisibles»."
+              },
+              {
+                "t": "p",
+                "x": "La segunda pone «Likeness Detection» a disposición de creadores y cargos públicos elegibles en todo el mundo. Los creadores «se registran verificando su ID con un socio externo de confianza» y luego reciben avisos sobre posibles usos no autorizados de su imagen. Durante la prueba en U.S., TikTok confirmó que ese socio es Jumio."
+              },
+              {
+                "t": "p",
+                "x": "Tras las recientes estafas con deepfakes de Rihanna y Taylor Swift, Digital Music News considera que valdrá la pena seguir el impacto de Likeness Detection."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "soundcloud-ai-slop-terms",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "SoundCloud, AI\n슬롭·스팸 규정 강화",
+      "body": "SoundCloud가 새 약관에 AI 슬롭·스팸 제재와 수익 환수를 담았다.",
+      "mini_headline": "SoundCloud, AI 슬롭 단속",
+      "tool": "Music",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/soundcloud-cracks-down-on-ai-slop-spam-and-excessive-uploads-weeks-after-striking-ai-deals-with-moises-and-elevenlabs/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -19,197 +341,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+            "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+            "cap": "Eliah Seton. 사진: SoundCloud"
           },
           {
             "t": "p",
-            "x": "Travis Tritt이 직접 해명에 나섰다. 최근 CMA Awards가 Taylor Swift에게만 초점을 맞췄다며 그가 비판하는 듯한 영상이 퍼지자, Tritt은 X에 영상 속 인물은 자기가 아니고 AI가 만든 것이라고 적었다."
+            "x": "SoundCloud가 이용약관(Terms of Use)과 커뮤니티 가이드라인(Community Guidelines)을 개정해 이른바 “AI 슬롭, 스팸, 과도한 업로드”를 겨냥했다. CEO Eliah Seton은 11월 17일 낸 공개서한에서 변경 사항을 설명하며 “SoundCloud에 AI 슬롭이 설 자리는 없다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "“최근 CMA Awards 시상식에 대해 내가 논평했다는 영상들은 모두 명백한 가짜이며 AI로 만들어진 것이다.” 그는 이렇게 쓴 뒤 “완전히 무시해 달라”고 덧붙였다."
+            "x": "두 번째 영역인 “AI 기반 사기 및 조작 방지(Preventing AI-Enabled Fraud and Manipulation)”는 AI 생성(AI-generated) 음악을 온전히 사람이 만든 것처럼 내세우는 등 콘텐츠의 출처나 창작자의 신원을 허위로 표시하는 행위를 금지한다. 개정 약관에는 “AI 남용(AI Abuse)”의 정의도 담겼다. SoundCloud는 이런 행위에 “수익금 지급을 보류·취소하거나 환수할 수 있다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "가짜로 보이는 영상 속 Tritt 닮은 인물은 시상식에서 기록적인 수의 상을 휩쓴 Ella Langley를 제쳐 두고 Swift만 비췄다며 “CMA를 운영하는 멍청이들”을 비난했다. Sammy Kershaw가 처음에 레드카펫 입장을 거부당한 일도 영상에 나온다."
+            "x": "이번 단속은 Moises(10월 21일 연동 발표), ElevenLabs와의 제휴에 이어 나왔다. ElevenLabs의 ElevenMusic 사용자는 SoundCloud에 곡을 바로 게시할 수 있다. Seton은 SoundCloud가 승인된 AI 파트너 10곳 이상과 협력하고 있으며, 직접 게시 연동 덕분에 AI 생성(AI-generated) 콘텐츠를 더 잘 파악할 수 있다고 말했다."
           },
           {
             "t": "p",
-            "x": "Tritt이 AI 문제로 목소리를 낸 건 처음이 아니다. October 2025 게시물에서도 “나를 포함한 공인을 사칭하는 AI-generated 콘텐츠가 우려스러울 만큼 늘고 있다”고 지적했고 “AI 기술 탓에 악의적인 이들이 사람의 목소리, 얼굴, 행동을 사실적으로 흉내 내기가 그 어느 때보다 쉬워졌다”고 경고했다."
-          },
-          {
-            "t": "p",
-            "x": "“내 공식 채널이나 신뢰할 수 있는 출처에서 나온 것이 아니라면, 그건 진짜 내가 아니다.” 그는 이렇게 썼다."
+            "x": "Seton은 “AI가 사라지길 바란다고 해서 사라지지는 않는다”고 썼다. SoundCloud는 193개국 4000만 명 이상의 아티스트가 올린 4억 곡 이상을 보유하고 있다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Travis Tritt disowns viral\nAI clip about Taylor Swift",
-          "body": "Travis Tritt says a viral clip of him bashing the CMAs' Taylor Swift focus was AI-made.",
-          "mini_headline": "Tritt disowns fake AI clip",
+          "headline": "SoundCloud tightens its rules\non AI slop and spam",
+          "body": "SoundCloud's new Terms and Community Guidelines target AI slop, spam and mass uploads and allow payout recovery.",
+          "mini_headline": "SoundCloud cracks down on AI slop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton. Photo credit: SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Tritt is setting the record straight. After a video that appeared to show the singer bashing the recent CMA Awards’ focus on Taylor Swift went viral, Tritt took to X to insist that the clip was not him, but rather AI generated."
+                "x": "SoundCloud has updated its Terms of Use and Community Guidelines to target what it calls “AI slop, spam, and excessive uploads.” CEO Eliah Seton set out the changes in an open letter published on November 17: “AI slop has no place on SoundCloud.”"
               },
               {
                 "t": "p",
-                "x": "“Any recent videos of me supposedly commenting on the latest CMA Awards show are obviously fake and created using AI,” he wrote. “Disregard them completely.”"
+                "x": "A second area, “Preventing AI-Enabled Fraud and Manipulation,” bars misrepresenting the origin of content or a creator’s identity, such as presenting AI-generated music as entirely human-made. The updated terms define “AI Abuse,” and SoundCloud says it “may withhold, reverse, or recover payouts” in response."
               },
               {
                 "t": "p",
-                "x": "In the supposedly fake video, the figure who appeared to be Tritt slammed “the idiots running the CMA” for focusing on Swift instead of Ella Langley, who won a record number of awards during the ceremony. The clip also referenced Sammy Kershaw initially being denied access to the red carpet."
+                "x": "The crackdown follows deals with Moises (an integration announced October 21) and ElevenLabs, whose ElevenMusic users can publish directly to SoundCloud. Seton said SoundCloud works with more than 10 approved AI partners and that direct publishing integrations give it greater visibility into AI-generated content."
               },
               {
                 "t": "p",
-                "x": "This isn’t the first time that Tritt has spoken out about AI. In an October 2025 post, he addressed the “concerning rise in AI-generated content that impersonates public figures, including myself,” warning that “AI technology has made it easier than ever for malicious actors to create realistic simulations of people’s voices, faces, and actions.”"
-              },
-              {
-                "t": "p",
-                "x": "“If it doesn’t come from my official channels or trusted sources, it’s not truly me,” he wrote."
+                "x": "“Simply wishing AI away won’t make it disappear,” Seton wrote. SoundCloud says it hosts more than 400 million tracks from over 40 million artists across 193 countries."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Travis Tritt,\nSwift AI 영상 부인",
-          "body": "Tritt은 CMAs의 Swift 편중을 꼬집은 영상은 AI-made 가짜라 했다.",
-          "mini_headline": "Tritt, 가짜 AI 영상 부인",
+          "headline": "SoundCloud, AI\n슬롭·스팸 규정 강화",
+          "body": "SoundCloud가 새 약관에 AI 슬롭·스팸 제재와 수익 환수를 담았다.",
+          "mini_headline": "SoundCloud, AI 슬롭 단속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton. 사진: SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Tritt이 직접 해명에 나섰다. 최근 CMA Awards가 Taylor Swift에게만 초점을 맞췄다며 그가 비판하는 듯한 영상이 퍼지자, Tritt은 X에 영상 속 인물은 자기가 아니고 AI가 만든 것이라고 적었다."
+                "x": "SoundCloud가 이용약관(Terms of Use)과 커뮤니티 가이드라인(Community Guidelines)을 개정해 이른바 “AI 슬롭, 스팸, 과도한 업로드”를 겨냥했다. CEO Eliah Seton은 11월 17일 낸 공개서한에서 변경 사항을 설명하며 “SoundCloud에 AI 슬롭이 설 자리는 없다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "“최근 CMA Awards 시상식에 대해 내가 논평했다는 영상들은 모두 명백한 가짜이며 AI로 만들어진 것이다.” 그는 이렇게 쓴 뒤 “완전히 무시해 달라”고 덧붙였다."
+                "x": "두 번째 영역인 “AI 기반 사기 및 조작 방지(Preventing AI-Enabled Fraud and Manipulation)”는 AI 생성(AI-generated) 음악을 온전히 사람이 만든 것처럼 내세우는 등 콘텐츠의 출처나 창작자의 신원을 허위로 표시하는 행위를 금지한다. 개정 약관에는 “AI 남용(AI Abuse)”의 정의도 담겼다. SoundCloud는 이런 행위에 “수익금 지급을 보류·취소하거나 환수할 수 있다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "가짜로 보이는 영상 속 Tritt 닮은 인물은 시상식에서 기록적인 수의 상을 휩쓴 Ella Langley를 제쳐 두고 Swift만 비췄다며 “CMA를 운영하는 멍청이들”을 비난했다. Sammy Kershaw가 처음에 레드카펫 입장을 거부당한 일도 영상에 나온다."
+                "x": "이번 단속은 Moises(10월 21일 연동 발표), ElevenLabs와의 제휴에 이어 나왔다. ElevenLabs의 ElevenMusic 사용자는 SoundCloud에 곡을 바로 게시할 수 있다. Seton은 SoundCloud가 승인된 AI 파트너 10곳 이상과 협력하고 있으며, 직접 게시 연동 덕분에 AI 생성(AI-generated) 콘텐츠를 더 잘 파악할 수 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Tritt이 AI 문제로 목소리를 낸 건 처음이 아니다. October 2025 게시물에서도 “나를 포함한 공인을 사칭하는 AI-generated 콘텐츠가 우려스러울 만큼 늘고 있다”고 지적했고 “AI 기술 탓에 악의적인 이들이 사람의 목소리, 얼굴, 행동을 사실적으로 흉내 내기가 그 어느 때보다 쉬워졌다”고 경고했다."
-              },
-              {
-                "t": "p",
-                "x": "“내 공식 채널이나 신뢰할 수 있는 출처에서 나온 것이 아니라면, 그건 진짜 내가 아니다.” 그는 이렇게 썼다."
+                "x": "Seton은 “AI가 사라지길 바란다고 해서 사라지지는 않는다”고 썼다. SoundCloud는 193개국 4000만 명 이상의 아티스트가 올린 4억 곡 이상을 보유하고 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Travis Tritt\nSwift巡るAI動画を否定",
-          "body": "Trittは、CMAsのSwift偏重を批判する動画はAI-madeの偽物だと述べた。",
-          "mini_headline": "Tritt、偽AI動画を否定",
+          "headline": "SoundCloud、AI\nスロップとスパム規制強化",
+          "body": "SoundCloudは新規約でAIスロップやスパム、大量投稿を禁じ、収益回収も可能にした。",
+          "mini_headline": "SoundCloud、AIスロップを取り締まり",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton。写真：SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Trittが事実関係を正した。先日のCMA AwardsがTaylor Swiftに焦点を当てたことをこの歌手が批判しているように見える動画が拡散すると、TrittはXに投稿し、動画の人物は自分ではなくAIで生成されたものだと主張した。"
+                "x": "SoundCloudは利用規約(Terms of Use)とコミュニティガイドライン(Community Guidelines)を改定し、同社が「AIスロップ、スパム、過剰なアップロード」と呼ぶものを標的にした。CEOのEliah Setonは11月17日に公開した公開書簡で変更点を説明し、「SoundCloudにAIスロップの居場所はない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「最新のCMA Awardsについて私がコメントしたとされる最近の動画は、明らかに偽物でAIを使って作られたものだ」と彼は書き、「完全に無視してほしい」と続けた。"
+                "x": "第二の柱である「AIを利用した不正・操作の防止(Preventing AI-Enabled Fraud and Manipulation)」は、AI生成(AI-generated)の音楽を完全に人間が作ったものとして示すなど、コンテンツの出所やクリエイターの身元を偽ることを禁じる。改定後の規約は「AI Abuse(AIの乱用)」を定義し、SoundCloudはこれに対して「支払いを保留、取り消し、または回収する場合がある」としている。"
               },
               {
                 "t": "p",
-                "x": "偽物とみられるこの動画では、Trittらしき人物が、授賞式で記録的な数の賞を獲得したElla LangleyではなくSwiftに焦点を当てたとして「CMAを運営する愚か者たち」を非難していた。動画はSammy Kershawが当初レッドカーペットへの入場を拒否された件にも触れていた。"
+                "x": "今回の取り締まりは、Moises(10月21日に連携を発表)およびElevenLabsとの提携に続くものだ。ElevenLabsのElevenMusicユーザーはSoundCloudへ直接楽曲を公開できる。Setonによれば、SoundCloudは10社を超える承認済みAIパートナーと協力しており、直接公開の連携によってAI生成(AI-generated)コンテンツをより把握しやすくなるという。"
               },
               {
                 "t": "p",
-                "x": "TrittがAIについて声を上げるのは今回が初めてではない。October 2025の投稿で彼は「私自身を含む著名人になりすますAI-generatedコンテンツの憂慮すべき増加」に言及し、「AI技術によって、悪意ある者が人の声や顔、行動をリアルに再現することがかつてないほど容易になった」と警告していた。"
-              },
-              {
-                "t": "p",
-                "x": "「私の公式チャンネルや信頼できる情報源から発信されたものでなければ、それは本当の私ではない」と彼は書いた。"
+                "x": "「AIが消えてほしいと願うだけでは、AIはなくならない」とSetonは記した。SoundCloudによると、193カ国の4000万人を超えるアーティストによる4億曲以上が同サービス上にある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Travis Tritt\n否认Swift相关AI视频",
-          "body": "Tritt称，一段抨击CMAs聚焦Taylor Swift的热传视频系AI-made伪造。",
-          "mini_headline": "Tritt否认AI伪造视频",
+          "headline": "SoundCloud收紧规则\n整治AI劣质内容和垃圾信息",
+          "body": "SoundCloud新条款和社区准则针对AI劣质内容、垃圾信息与批量上传，并允许追回收益。",
+          "mini_headline": "SoundCloud整治AI劣质内容",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton。图片来源：SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Tritt出面澄清。一段看似这位歌手抨击近期CMA Awards过度聚焦Taylor Swift的视频走红后，Tritt在X上发文坚称，视频中的人并不是他，而是AI生成的。"
+                "x": "SoundCloud更新了使用条款（Terms of Use）和社区准则（Community Guidelines），矛头指向其所称的“AI劣质内容、垃圾信息和过量上传”。CEO Eliah Seton在11月17日发布的公开信中阐述了这些变化：“AI劣质内容在SoundCloud没有立足之地。”"
               },
               {
                 "t": "p",
-                "x": "“最近任何声称我在评论最新一届CMA Awards颁奖礼的视频，显然都是假的，是用AI制作的，”他写道。“请完全无视。”"
+                "x": "第二个领域为“防范AI驱动的欺诈与操纵”（Preventing AI-Enabled Fraud and Manipulation），禁止歪曲内容来源或创作者身份，例如把AI生成（AI-generated）的音乐包装成完全由人创作。更新后的条款对“AI滥用”（AI Abuse）作出定义，SoundCloud表示可能据此“暂扣、撤销或追回收益分成”。"
               },
               {
                 "t": "p",
-                "x": "在这段疑似伪造的视频中，看似Tritt的人物痛斥“运营CMA的白痴们”只关注Swift，而忽视了在颁奖礼上获奖数创纪录的Ella Langley。视频还提到Sammy Kershaw起初被拒于红毯之外一事。"
+                "x": "此次整治之前，SoundCloud已与Moises（10月21日宣布集成）和ElevenLabs达成合作，ElevenLabs旗下ElevenMusic的用户可直接将作品发布到SoundCloud。Seton表示，SoundCloud与10家以上经批准的AI合作伙伴合作，直接发布集成让平台能更清楚地看到AI生成（AI-generated）内容。"
               },
               {
                 "t": "p",
-                "x": "这并非Tritt首次就AI发声。在October 2025的一篇帖子中，他谈到“冒充包括我在内的公众人物的AI-generated内容正令人担忧地增多”，并警告说“AI技术让恶意行为者比以往任何时候都更容易逼真地模拟他人的声音、面孔和举动”。"
-              },
-              {
-                "t": "p",
-                "x": "“如果不是来自我的官方渠道或可信来源，那就不是真正的我，”他写道。"
+                "x": "“仅仅希望AI消失，并不会让它消失。”Seton写道。SoundCloud称，平台上有来自193个国家、超过4000万名艺人的逾4亿首曲目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Travis Tritt niega el clip viral\nde AI sobre Taylor Swift",
-          "body": "Travis Tritt afirma que el clip viral en el que critica el foco de los CMAs en Taylor Swift es un montaje AI-made.",
-          "mini_headline": "Tritt niega un falso clip de AI",
+          "headline": "SoundCloud endurece sus reglas\ncontra la basura de AI y spam",
+          "body": "SoundCloud actualiza sus normas contra la basura de AI, el spam y las subidas masivas, y podrá recuperar pagos.",
+          "mini_headline": "SoundCloud frena la basura de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton. Foto: SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Tritt quiere aclarar las cosas. Después de que se viralizara un video que parecía mostrar al cantante criticando el foco de los recientes CMA Awards en Taylor Swift, Tritt recurrió a X para insistir en que el clip no era él, sino que estaba generado por AI."
+                "x": "SoundCloud actualizó sus Condiciones de Uso (Terms of Use) y sus Normas de la Comunidad (Community Guidelines) para combatir lo que llama «AI slop, spam y subidas excesivas». El CEO, Eliah Seton, explicó los cambios en una carta abierta publicada el 17 de noviembre: «El AI slop no tiene cabida en SoundCloud»."
               },
               {
                 "t": "p",
-                "x": "“Cualquier video reciente en el que supuestamente comento la última gala de los CMA Awards es obviamente falso y creado con AI”, escribió. “Ignórenlos por completo”."
+                "x": "Un segundo apartado, «Preventing AI-Enabled Fraud and Manipulation» (prevención del fraude y la manipulación mediante AI), prohíbe falsear el origen del contenido o la identidad de un creador, por ejemplo, presentar música AI-generated (generada con AI) como si fuera totalmente humana. Las condiciones actualizadas definen el «AI Abuse» (abuso de AI), y SoundCloud afirma que, en respuesta, «puede retener, revertir o recuperar pagos»."
               },
               {
                 "t": "p",
-                "x": "En el video, supuestamente falso, la figura que parecía ser Tritt arremetía contra “los idiotas que dirigen la CMA” por centrarse en Swift en lugar de Ella Langley, que ganó un número récord de premios durante la ceremonia. El clip también mencionaba que a Sammy Kershaw se le negó inicialmente el acceso a la alfombra roja."
+                "x": "La ofensiva llega tras los acuerdos con Moises (una integración anunciada el 21 de octubre) y ElevenLabs, cuyos usuarios de ElevenMusic pueden publicar directamente en SoundCloud. Seton dijo que SoundCloud trabaja con más de 10 socios de AI aprobados y que las integraciones de publicación directa le dan más visibilidad sobre el contenido AI-generated (generado con AI)."
               },
               {
                 "t": "p",
-                "x": "No es la primera vez que Tritt se pronuncia sobre la AI. En una publicación de octubre de 2025, abordó el “preocupante aumento de contenido AI-generated que suplanta a figuras públicas, incluido yo mismo”, y advirtió que “la tecnología de AI ha hecho más fácil que nunca que actores maliciosos creen simulaciones realistas de las voces, los rostros y las acciones de las personas”."
-              },
-              {
-                "t": "p",
-                "x": "“Si no viene de mis canales oficiales o de fuentes de confianza, no soy realmente yo”, escribió."
+                "x": "«Desear que la AI desaparezca no hará que desaparezca», escribió Seton. SoundCloud afirma albergar más de 400 millones de canciones de más de 40 millones de artistas en 193 países."
               }
             ]
           }
@@ -217,137 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Travis Tritt,\nSwift AI 영상 부인",
-          "body": "Tritt은 CMAs의 Swift 편중 비판 영상이 AI-made 가짜라고 했다.",
-          "mini_headline": "Tritt, 가짜 AI 영상 부인",
+          "headline": "SoundCloud, AI\n슬롭·스팸 규정 강화",
+          "body": "SoundCloud가 새 약관에 AI 슬롭·스팸 제재와 수익 환수를 담았다.",
+          "mini_headline": "SoundCloud, AI 슬롭 단속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton. 사진: SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Tritt이 사실관계 바로잡기에 나섰다. 최근 CMA Awards가 Taylor Swift에 초점을 맞춘 것을 이 가수가 비판하는 듯한 영상이 화제가 되자, Tritt은 X에 글을 올려 영상 속 인물은 자신이 아니며 AI로 생성된 것이라고 밝혔다."
+                "x": "SoundCloud가 이용약관(Terms of Use)과 커뮤니티 가이드라인(Community Guidelines)을 개정해 이른바 “AI 슬롭, 스팸, 과도한 업로드”를 겨냥했다. CEO Eliah Seton은 11월 17일 공개한 공개서한에서 변경 사항을 설명하며 “SoundCloud에 AI 슬롭이 설 자리는 없다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "“최근 CMA Awards 시상식에 대해 내가 논평했다는 영상들은 모두 명백한 가짜이며 AI로 만들어진 것이다.” 그는 이렇게 쓰고 “완전히 무시해 달라”고 덧붙였다."
+                "x": "두 번째 영역인 “AI 기반 사기 및 조작 방지(Preventing AI-Enabled Fraud and Manipulation)”는 AI 생성(AI-generated) 음악을 온전히 사람이 만든 것처럼 내세우는 등 콘텐츠의 출처나 창작자의 신원을 허위로 표시하는 행위를 금지한다. 개정 약관은 “AI 남용(AI Abuse)”을 정의하며, SoundCloud는 이에 대응해 “수익금 지급을 보류·취소하거나 환수할 수 있다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "가짜로 보이는 이 영상에서 Tritt처럼 보이는 인물은 시상식에서 기록적인 수의 상을 받은 Ella Langley 대신 Swift에 초점을 맞췄다며 “CMA를 운영하는 멍청이들”을 비난했다. 영상은 Sammy Kershaw가 처음에 레드카펫 입장을 거부당한 일도 언급했다."
+                "x": "이번 단속은 Moises(10월 21일 연동 발표), ElevenLabs와의 제휴에 뒤이은 것이다. ElevenLabs의 ElevenMusic 사용자는 SoundCloud에 곡을 바로 게시할 수 있다. Seton은 SoundCloud가 승인된 AI 파트너 10곳 이상과 협력하고 있으며, 직접 게시 연동 덕분에 AI 생성(AI-generated) 콘텐츠를 더 잘 파악할 수 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Tritt이 AI에 대해 목소리를 낸 것은 이번이 처음이 아니다. 그는 October 2025 게시물에서 “나를 포함한 공인을 사칭하는 AI-generated 콘텐츠가 우려스러울 만큼 늘고 있다”고 지적하며, “AI 기술 탓에 악의적인 이들이 사람의 목소리, 얼굴, 행동을 사실적으로 흉내 내기가 그 어느 때보다 쉬워졌다”고 경고했다."
-              },
-              {
-                "t": "p",
-                "x": "“내 공식 채널이나 신뢰할 수 있는 출처에서 나온 것이 아니라면, 그건 진짜 내가 아니다.” 그는 이렇게 썼다."
+                "x": "Seton은 “AI가 사라지길 바란다고 해서 사라지지는 않는다”고 썼다. SoundCloud는 193개국 4000만 명 이상의 아티스트가 올린 4억 곡 이상을 보유하고 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Travis Tritt\nSwift巡るAI動画を否定",
-          "body": "Trittは、CMAsのSwift偏重を批判する動画はAI-madeの偽物だと述べた。",
-          "mini_headline": "Tritt、偽AI動画を否定",
+          "headline": "SoundCloud、AI\nスロップとスパム規制強化",
+          "body": "SoundCloudは新規約でAIスロップやスパム、大量投稿を禁じ、収益回収も可能にした。",
+          "mini_headline": "SoundCloud、AIスロップを取り締まり",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton。写真：SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Trittが事実関係を正した。先日のCMA AwardsがTaylor Swiftに焦点を当てたことをこの歌手が批判しているように見える動画が拡散すると、TrittはXに投稿し、動画の人物は自分ではなくAIで生成されたものだと主張した。"
+                "x": "SoundCloudは利用規約(Terms of Use)とコミュニティガイドライン(Community Guidelines)を改定し、同社が「AIスロップ、スパム、過剰なアップロード」と呼ぶものを標的にした。CEOのEliah Setonは11月17日に公開した公開書簡で変更点を説明し、「SoundCloudにAIスロップの居場所はない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「最新のCMA Awardsについて私がコメントしたとされる最近の動画は、明らかに偽物でAIを使って作られたものだ」と彼は書き、「完全に無視してほしい」と続けた。"
+                "x": "第二の柱である「AIを利用した不正・操作の防止(Preventing AI-Enabled Fraud and Manipulation)」は、AI生成(AI-generated)の音楽を完全に人間が作ったものとして示すなど、コンテンツの出所やクリエイターの身元を偽ることを禁じる。改定後の規約は「AI Abuse(AIの乱用)」を定義し、SoundCloudはこれに対して「支払いを保留、取り消し、または回収する場合がある」としている。"
               },
               {
                 "t": "p",
-                "x": "偽物とみられるこの動画では、Trittらしき人物が、授賞式で記録的な数の賞を獲得したElla LangleyではなくSwiftに焦点を当てたとして「CMAを運営する愚か者たち」を非難していた。動画はSammy Kershawが当初レッドカーペットへの入場を拒否された件にも触れていた。"
+                "x": "今回の取り締まりは、Moises(10月21日に連携を発表)およびElevenLabsとの提携に続くものだ。ElevenLabsのElevenMusicユーザーはSoundCloudへ直接楽曲を公開できる。Setonによれば、SoundCloudは10社を超える承認済みAIパートナーと協力しており、直接公開の連携によってAI生成(AI-generated)コンテンツをより把握しやすくなるという。"
               },
               {
                 "t": "p",
-                "x": "TrittがAIについて声を上げるのは今回が初めてではない。October 2025の投稿で彼は「私自身を含む著名人になりすますAI-generatedコンテンツの憂慮すべき増加」に言及し、「AI技術によって、悪意ある者が人の声や顔、行動をリアルに再現することがかつてないほど容易になった」と警告していた。"
-              },
-              {
-                "t": "p",
-                "x": "「私の公式チャンネルや信頼できる情報源から発信されたものでなければ、それは本当の私ではない」と彼は書いた。"
+                "x": "「AIが消えてほしいと願うだけでは、AIはなくならない」とSetonは記した。SoundCloudによると、193カ国の4000万人を超えるアーティストによる4億曲以上が同サービス上にある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Travis Tritt\n否认Swift相关AI视频",
-          "body": "Tritt称，一段抨击CMAs聚焦Taylor Swift的热传视频系AI-made伪造。",
-          "mini_headline": "Tritt否认AI伪造视频",
+          "headline": "SoundCloud收紧规则\n整治AI劣质内容和垃圾信息",
+          "body": "SoundCloud新条款和社区准则针对AI劣质内容、垃圾信息与批量上传，并允许追回收益。",
+          "mini_headline": "SoundCloud整治AI劣质内容",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton。图片来源：SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Tritt出面澄清。一段看似这位歌手抨击近期CMA Awards过度聚焦Taylor Swift的视频走红后，Tritt在X上发文坚称，视频中的人并不是他，而是AI生成的。"
+                "x": "SoundCloud更新了使用条款（Terms of Use）和社区准则（Community Guidelines），矛头指向其所称的“AI劣质内容、垃圾信息和过量上传”。CEO Eliah Seton在11月17日发布的公开信中阐述了这些变化：“AI劣质内容在SoundCloud没有立足之地。”"
               },
               {
                 "t": "p",
-                "x": "“最近任何声称我在评论最新一届CMA Awards颁奖礼的视频，显然都是假的，是用AI制作的，”他写道。“请完全无视。”"
+                "x": "第二个领域为“防范AI驱动的欺诈与操纵”（Preventing AI-Enabled Fraud and Manipulation），禁止歪曲内容来源或创作者身份，例如把AI生成（AI-generated）的音乐包装成完全由人创作。更新后的条款对“AI滥用”（AI Abuse）作出定义，SoundCloud表示可能据此“暂扣、撤销或追回收益分成”。"
               },
               {
                 "t": "p",
-                "x": "在这段疑似伪造的视频中，看似Tritt的人物痛斥“运营CMA的白痴们”只关注Swift，而忽视了在颁奖礼上获奖数创纪录的Ella Langley。视频还提到Sammy Kershaw起初被拒于红毯之外一事。"
+                "x": "此次整治之前，SoundCloud已与Moises（10月21日宣布集成）和ElevenLabs达成合作，ElevenLabs旗下ElevenMusic的用户可直接将作品发布到SoundCloud。Seton表示，SoundCloud与10家以上经批准的AI合作伙伴合作，直接发布集成让平台能更清楚地看到AI生成（AI-generated）内容。"
               },
               {
                 "t": "p",
-                "x": "这并非Tritt首次就AI发声。在October 2025的一篇帖子中，他谈到“冒充包括我在内的公众人物的AI-generated内容正令人担忧地增多”，并警告说“AI技术让恶意行为者比以往任何时候都更容易逼真地模拟他人的声音、面孔和举动”。"
-              },
-              {
-                "t": "p",
-                "x": "“如果不是来自我的官方渠道或可信来源，那就不是真正的我，”他写道。"
+                "x": "“仅仅希望AI消失，并不会让它消失。”Seton写道。SoundCloud称，平台上有来自193个国家、超过4000万名艺人的逾4亿首曲目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Travis Tritt niega el clip viral\nde AI sobre Taylor Swift",
-          "body": "Travis Tritt afirma que el clip viral en el que critica el foco de los CMAs en Taylor Swift es un montaje AI-made.",
-          "mini_headline": "Tritt niega un falso clip de AI",
+          "headline": "SoundCloud endurece sus reglas\ncontra la basura de AI y spam",
+          "body": "SoundCloud actualiza sus normas contra la basura de AI, el spam y las subidas masivas, y podrá recuperar pagos.",
+          "mini_headline": "SoundCloud frena la basura de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+                "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+                "cap": "Eliah Seton. Foto: SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Travis Tritt quiere aclarar las cosas. Después de que se viralizara un video que parecía mostrar al cantante criticando el foco de los recientes CMA Awards en Taylor Swift, Tritt recurrió a X para insistir en que el clip no era él, sino que estaba generado por AI."
+                "x": "SoundCloud actualizó sus Condiciones de Uso (Terms of Use) y sus Normas de la Comunidad (Community Guidelines) para combatir lo que llama «AI slop, spam y subidas excesivas». El CEO, Eliah Seton, explicó los cambios en una carta abierta publicada el 17 de noviembre: «El AI slop no tiene cabida en SoundCloud»."
               },
               {
                 "t": "p",
-                "x": "“Cualquier video reciente en el que supuestamente comento la última gala de los CMA Awards es obviamente falso y creado con AI”, escribió. “Ignórenlos por completo”."
+                "x": "Un segundo apartado, «Preventing AI-Enabled Fraud and Manipulation» (prevención del fraude y la manipulación mediante AI), prohíbe falsear el origen del contenido o la identidad de un creador, por ejemplo, presentar música AI-generated (generada con AI) como si fuera totalmente humana. Las condiciones actualizadas definen el «AI Abuse» (abuso de AI), y SoundCloud afirma que, en respuesta, «puede retener, revertir o recuperar pagos»."
               },
               {
                 "t": "p",
-                "x": "En el video, supuestamente falso, la figura que parecía ser Tritt arremetía contra “los idiotas que dirigen la CMA” por centrarse en Swift en lugar de Ella Langley, que ganó un número récord de premios durante la ceremonia. El clip también mencionaba que a Sammy Kershaw se le negó inicialmente el acceso a la alfombra roja."
+                "x": "La ofensiva llega tras los acuerdos con Moises (una integración anunciada el 21 de octubre) y ElevenLabs, cuyos usuarios de ElevenMusic pueden publicar directamente en SoundCloud. Seton dijo que SoundCloud trabaja con más de 10 socios de AI aprobados y que las integraciones de publicación directa le dan más visibilidad sobre el contenido AI-generated (generado con AI)."
               },
               {
                 "t": "p",
-                "x": "No es la primera vez que Tritt se pronuncia sobre la AI. En una publicación de octubre de 2025, abordó el “preocupante aumento de contenido AI-generated que suplanta a figuras públicas, incluido yo mismo”, y advirtió que “la tecnología de AI ha hecho más fácil que nunca que actores maliciosos creen simulaciones realistas de las voces, los rostros y las acciones de las personas”."
-              },
-              {
-                "t": "p",
-                "x": "“Si no viene de mis canales oficiales o de fuentes de confianza, no soy realmente yo”, escribió."
+                "x": "«Desear que la AI desaparezca no hará que desaparezca», escribió Seton. SoundCloud afirma albergar más de 400 millones de canciones de más de 40 millones de artistas en 193 países."
               }
             ]
           }
@@ -355,15 +647,15 @@
       }
     },
     {
-      "id": "not-ais-to-take-electorate-poll",
+      "id": "estepario-ai-reskin-legal",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "호주 조사, AI 저작권\n21개 핵심 선거구 쟁점",
-      "body": "21개 선거구 유권자 1,464명 중 다수가 창작물 무상 AI 학습에 반대했다.",
-      "mini_headline": "AI 저작권 조사, 21개 선거구",
+      "headline": "드러머 Estepario,\nAI 학습 법적 대응 검토",
+      "body": "Estepario가 €230,000 들인 영상 572편 AI 학습에 소송을 원한다.",
+      "mini_headline": "드러머, AI 학습에 맞서다",
       "tool": "Music",
-      "source": "The Music Network",
-      "url": "https://themusicnetwork.com/news/ai-copyright-changes-electorates-new-poll",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -371,173 +663,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+            "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
           },
           {
             "t": "p",
-            "x": "새 캠페인 “Not AI's to Take”가 오늘 공개한 조사는 Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, Goldstein 등 21개 연방 선거구 유권자 1,464명에게 물었다. 응답자의 65%는 AI 기업이 저작권자 허락 없이 창작 콘텐츠로 모델을 학습시키는 데 반대했다."
+            "x": "AI를 오랫동안 비판해 온 드럼 YouTuber El Estepario Siberiano가 자신의 콘텐츠를 훔쳤다고 주장하는 기술 기업들을 향해 강하게 반격했다. 그는 새 영상에서 창작자들에게 Atlantic의 AI Watchdog 도구를 소개했다. AI 모델이 자기 작품으로 학습했는지 확인해 주는 도구다."
+          },
+          {
+            "t": "video",
+            "yt": "nsekqm6eaD8"
           },
           {
             "t": "p",
-            "x": "응답자의 83%는 무단 AI 학습 중단을 원했고, 63%는 해외 AI 기업들이 호주 저작권법 개정을 요구해 왔다는 사실을 몰랐다. 창작자 허락 의무화에 찬성하는 의원(MPs)이라면 유권자 순지지가 30포인트 오를 수 있다."
+            "x": "그는 자신의 장편 영상 572편이 사용된 사실을 확인했다. 영상 한 편에 약 €400를 들였다고 추산하면, 지난 십 년간 그 572편에 €230,000가 들어간 셈이다. 그는 “그들은 자기네 AI 생성 도구를 학습시키려고 내 인생의 십 년과 노력, 그리고 내 주머니에서 €230,000를 훔쳤다”고 말했다."
           },
           {
             "t": "p",
-            "x": "외곽 교외와 지방 선거구의 반대가 특히 거세 순점수가 -46까지 내려갔다. 정치 성향도 가리지 않아 Coalition과 One Nation 지지자의 60%도 개정안에 반대했다. AI를 정기적으로 쓰는 응답자(전체의 47%)에서도 반대가 찬성의 약 두 배였다."
-          },
-          {
-            "t": "p",
-            "x": "ARIA, APRA AMCOS, Vinyl Group, Mushroom Music 등이 지지하는 이 캠페인은 Albanese 정부에 기존 저작권 보호를 지키고 허락이나 합의된 대가 없는 AI 학습 예외는 영구히 배제하라고 요구한다."
+            "x": "앞선 클립에서도 그는 자기 영상을 본뜬 AI 모방 영상과 AI 리액션 영상이 이미 나왔다고 말했다. 이제 그는 “법적 조치를 취하고 싶다”며 “이 억만장자들이 아무런 대가도 치르지 않고 빠져나가게 두고 싶지 않다”고 했다. 영상은 팔로워들에게 어떻게 대응하면 좋을지 묻는 것으로 끝난다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Australian poll ties AI\ncopyright to 21 key seats",
-          "body": "A poll of 1,464 voters in 21 federal electorates found wide opposition to unpaid AI training on creative work.",
-          "mini_headline": "AI copyright poll hits 21 seats",
+          "headline": "El Estepario Siberiano weighs\nlegal action over AI training",
+          "body": "El Estepario Siberiano says AI firms trained on 572 of his videos that cost him €230,000 and wants legal action.",
+          "mini_headline": "Drummer fights AI training",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Released today by the new “Not AI's to Take” campaign, the research surveyed 1,464 voters across 21 federal electorates, including Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, and Goldstein, finding that 65% oppose AI companies training their models on creative content without the permission of copyright holders."
+                "x": "Drum YouTuber El Estepario Siberiano, long a critic of AI, has come out swinging against tech companies he alleges have stolen his content. In a new video he points creatives to the Atlantic’s AI Watchdog tool, which checks whether AI models were trained on their work."
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "According to the survey, 83% of respondents want unauthorised AI training stopped, while 63% were unaware that overseas AI companies had sought changes to Australian copyright law. MPs who support requiring permission from creators could receive a net voter support boost of 30 points."
+                "x": "He found that 572 of his long-form videos had been used. He estimates around €400 spent on every video, so over a decade those 572 videos cost him €230,000. “They stole a decade of my life and my effort and €230,000 from my pocket in order to train their AI generative tool,” he says."
               },
               {
                 "t": "p",
-                "x": "Opposition was particularly pronounced in outer-suburban and regional electorates, with a net score of -46. The issue also cuts across political lines, with 60% of Coalition and One Nation voters opposing the proposed changes. Among regular AI users (47% of respondents), opposition outweighed support by approximately two to one."
-              },
-              {
-                "t": "p",
-                "x": "The campaign, backed by ARIA, APRA AMCOS, Vinyl Group, Mushroom Music and others, calls on the Albanese Government to maintain existing copyright protections and permanently rule out exemptions for AI training without permission or agreed payment."
+                "x": "In a previous clip he said his videos had already led to AI copycats and AI reaction videos. “I want to take legal action,” he now says. “I don't want to let these billionaires walk off without facing any kind of consequence.” He ended by asking his followers for advice on how to proceed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "호주 조사, AI 저작권\n21개 핵심 선거구 쟁점",
-          "body": "21개 선거구 유권자 1,464명 중 다수가 창작물 무상 AI 학습에 반대했다.",
-          "mini_headline": "AI 저작권 조사, 21개 선거구",
+          "headline": "드러머 Estepario,\nAI 학습 법적 대응 검토",
+          "body": "Estepario가 €230,000 들인 영상 572편 AI 학습에 소송을 원한다.",
+          "mini_headline": "드러머, AI 학습에 맞서다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "새 캠페인 “Not AI's to Take”가 오늘 공개한 조사는 Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, Goldstein 등 21개 연방 선거구 유권자 1,464명에게 물었다. 응답자의 65%는 AI 기업이 저작권자 허락 없이 창작 콘텐츠로 모델을 학습시키는 데 반대했다."
+                "x": "AI를 오랫동안 비판해 온 드럼 YouTuber El Estepario Siberiano가 자신의 콘텐츠를 훔쳤다고 주장하는 기술 기업들을 향해 강하게 반격했다. 그는 새 영상에서 창작자들에게 Atlantic의 AI Watchdog 도구를 소개했다. AI 모델이 자기 작품으로 학습했는지 확인해 주는 도구다."
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "응답자의 83%는 무단 AI 학습 중단을 원했고, 63%는 해외 AI 기업들이 호주 저작권법 개정을 요구해 왔다는 사실을 몰랐다. 창작자 허락 의무화에 찬성하는 의원(MPs)이라면 유권자 순지지가 30포인트 오를 수 있다."
+                "x": "그는 자신의 장편 영상 572편이 사용된 사실을 확인했다. 영상 한 편에 약 €400를 들였다고 추산하면, 지난 십 년간 그 572편에 €230,000가 들어간 셈이다. 그는 “그들은 자기네 AI 생성 도구를 학습시키려고 내 인생의 십 년과 노력, 그리고 내 주머니에서 €230,000를 훔쳤다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "외곽 교외와 지방 선거구의 반대가 특히 거세 순점수가 -46까지 내려갔다. 정치 성향도 가리지 않아 Coalition과 One Nation 지지자의 60%도 개정안에 반대했다. AI를 정기적으로 쓰는 응답자(전체의 47%)에서도 반대가 찬성의 약 두 배였다."
-              },
-              {
-                "t": "p",
-                "x": "ARIA, APRA AMCOS, Vinyl Group, Mushroom Music 등이 지지하는 이 캠페인은 Albanese 정부에 기존 저작권 보호를 지키고 허락이나 합의된 대가 없는 AI 학습 예외는 영구히 배제하라고 요구한다."
+                "x": "앞선 클립에서도 그는 자기 영상을 본뜬 AI 모방 영상과 AI 리액션 영상이 이미 나왔다고 말했다. 이제 그는 “법적 조치를 취하고 싶다”며 “이 억만장자들이 아무런 대가도 치르지 않고 빠져나가게 두고 싶지 않다”고 했다. 영상은 팔로워들에게 어떻게 대응하면 좋을지 묻는 것으로 끝난다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪世論調査、AI著作権が\n21の重要選挙区で争点に",
-          "body": "21の連邦選挙区で有権者1,464人を調べた調査で、創作物の無償AI学習に広く反対が出た。",
-          "mini_headline": "AI著作権調査、21選挙区",
+          "headline": "ドラマーEstepario\nAI学習に法的措置検討",
+          "body": "Esteparioは€230,000分の動画572本のAI学習に法的措置を望む。",
+          "mini_headline": "ドラマー、AI学習に反旗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "新キャンペーン「Not AI's to Take」が本日公表した調査は、Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass、Goldsteinを含む21の連邦選挙区で有権者1,464人を対象に行われ、65%がAI企業による著作権者の許可なき創作コンテンツでのモデル学習に反対していることがわかった。"
+                "x": "長年AIを批判してきたドラムYouTuberのEl Estepario Siberianoが、自身のコンテンツを盗んだとするテック企業に猛然と反撃した。新たな動画では、AIモデルが自分の作品で学習したかを確認できるAtlanticのAI Watchdogツールをクリエイターに紹介している。"
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "調査によると、回答者の83%が無許可のAI学習の停止を望み、63%は海外のAI企業がオーストラリアの著作権法改正を求めていたことを知らなかった。クリエイターの許可を義務づけることを支持する議員(MPs)は、有権者の純支持が30ポイント上昇する可能性がある。"
+                "x": "彼は自身の長尺動画572本が使われていたことを突き止めた。一本あたり約€400を費やしたと見積もると、十年間でその572本に€230,000かかった計算になる。「彼らは自分たちの生成AIツールを訓練するために、僕の人生の十年と努力、そしてポケットから€230,000を盗んだ」と彼は語る。"
               },
               {
                 "t": "p",
-                "x": "反対は郊外の外縁部と地方の選挙区で特に強く、純スコアは-46だった。この問題は政治的立場も超えており、CoalitionとOne Nationの支持者の60%も改正案に反対した。AIを日常的に使う人(回答者の47%)の間でも、反対が賛成のおよそ二倍に上った。"
-              },
-              {
-                "t": "p",
-                "x": "ARIA、APRA AMCOS、Vinyl Group、Mushroom Musicなどが支援するこのキャンペーンは、Albanese政権に対し、既存の著作権保護を維持し、許可や合意された対価のないAI学習の例外を恒久的に排除するよう求めている。"
+                "x": "以前のクリップでは、自分の動画がすでにAIによる模倣やAIリアクション動画を生んでいると語っていた。今回は「法的措置を取りたい」と述べ、「この億万長者たちが何の報いも受けずに逃げ切るのを許したくない」と続けた。最後に、どう進めるべきかフォロワーに助言を求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳洲民调：AI版权议题\n牵动21个关键选区",
-          "body": "针对21个联邦选区1,464名选民的民调显示，多数人反对无偿用创作内容训练AI。",
-          "mini_headline": "AI版权民调涉21个选区",
+          "headline": "鼓手El Estepario\n拟就AI训练诉诸法律",
+          "body": "Estepario称AI公司用其耗资€230,000的572个视频训练，拟采取法律行动。",
+          "mini_headline": "鼓手对抗AI训练",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "新发起的“Not AI's to Take”运动今天发布的这项研究，调查了包括Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass和Goldstein在内的21个联邦选区的1,464名选民，发现65%的人反对AI公司未经版权所有者许可就用创作内容训练模型。"
+                "x": "长期批评AI的鼓手YouTuber El Estepario Siberiano，向他指称窃取其内容的科技公司发起猛烈抨击。他在新视频中向创作者推荐Atlantic的AI Watchdog工具，该工具可查验AI模型是否用他们的作品进行过训练。"
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "调查显示，83%的受访者希望叫停未经授权的AI训练，63%的人不知道海外AI公司曾寻求修改澳大利亚版权法。支持要求获得创作者许可的议员（MPs），其选民净支持度可能提高30个点。"
+                "x": "他发现自己有572个长视频被使用。他估计每个视频花费约€400，十年下来这572个视频共耗资€230,000。“他们为了训练自己的生成式AI工具，偷走了我十年的人生和心血，还有我口袋里的€230,000。”他说。"
               },
               {
                 "t": "p",
-                "x": "反对声在远郊和地区选区尤为强烈，净得分为-46。这一议题也跨越党派界限，Coalition和One Nation的选民中有60%反对拟议的修改。在经常使用AI的人群中（占受访者的47%），反对者约为支持者的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "该运动获得ARIA、APRA AMCOS、Vinyl Group、Mushroom Music等支持，呼吁Albanese政府维持现有版权保护，并永久排除未经许可或未商定报酬的AI训练豁免。"
+                "x": "他在此前的一段视频中说，他的视频已经催生了AI模仿者和AI反应视频。“我想采取法律行动，”他现在表示，“我不想让这些亿万富翁全身而退，不承担任何后果。”最后，他向粉丝征求下一步该如何做的建议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Encuesta en Australia liga la AI\ny el copyright a 21 escaños",
-          "body": "Un sondeo de 1,464 votantes en 21 distritos federales halló amplio rechazo a entrenar AI con obras creativas sin pago.",
-          "mini_headline": "Sondeo sobre AI y copyright en 21 escaños",
+          "headline": "El Estepario Siberiano estudia\nacción legal por entrenar AI",
+          "body": "El Estepario Siberiano acusa a firmas de AI de entrenar con 572 videos suyos que costaron €230,000 y quiere demandar.",
+          "mini_headline": "Un baterista contra el entrenamiento de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Publicada hoy por la nueva campaña “Not AI's to Take”, la investigación encuestó a 1,464 votantes de 21 distritos electorales federales, entre ellos Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass y Goldstein, y concluyó que el 65% se opone a que las empresas de AI entrenen sus modelos con contenido creativo sin el permiso de los titulares de derechos de autor."
+                "x": "El YouTuber de batería El Estepario Siberiano, crítico de la AI desde hace tiempo, arremetió contra las tecnológicas que, según él, le robaron su contenido. En un nuevo video remite a los creativos a la herramienta AI Watchdog del Atlantic, que comprueba si los modelos de AI se entrenaron con su obra."
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "Según la encuesta, el 83% de los encuestados quiere que se detenga el entrenamiento de AI no autorizado, mientras que el 63% desconocía que empresas extranjeras de AI habían buscado cambios en la ley de derechos de autor de Australia. Los parlamentarios (MPs) que apoyen exigir el permiso de los creadores podrían obtener un aumento neto de apoyo electoral de 30 puntos."
+                "x": "Descubrió que se habían usado 572 de sus videos de formato largo. Calcula que gastó unos €400 en cada video, así que a lo largo de una década esos 572 videos le costaron €230,000. «Me robaron una década de mi vida y mi esfuerzo y €230,000 de mi bolsillo para entrenar su herramienta de AI generativa», afirma."
               },
               {
                 "t": "p",
-                "x": "La oposición fue especialmente marcada en los distritos periurbanos y regionales, con una puntuación neta de -46. El tema también atraviesa las líneas políticas: el 60% de los votantes de la Coalition y de One Nation se opone a los cambios propuestos. Entre los usuarios habituales de AI (el 47% de los encuestados), la oposición superó al apoyo en una proporción de aproximadamente dos a uno."
-              },
-              {
-                "t": "p",
-                "x": "La campaña, respaldada por ARIA, APRA AMCOS, Vinyl Group, Mushroom Music y otros, pide al Gobierno de Albanese mantener las protecciones de derechos de autor vigentes y descartar de forma permanente excepciones para el entrenamiento de AI sin permiso ni pago acordado."
+                "x": "En un clip anterior dijo que sus videos ya habían dado lugar a imitaciones con AI y a videos de reacción hechos con AI. «Quiero emprender acciones legales», dice ahora. «No quiero que estos multimillonarios se vayan sin afrontar ningún tipo de consecuencia». Terminó pidiendo a sus seguidores consejo sobre cómo proceder."
               }
             ]
           }
@@ -545,121 +837,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "호주 조사, AI 저작권\n21개 핵심 선거구 쟁점",
-          "body": "21개 선거구 유권자 1,464명 중 다수가 창작물 무상 AI 학습에 반대했다.",
-          "mini_headline": "AI 저작권 조사, 21개 선거구",
+          "headline": "드러머 Estepario,\nAI 학습 법적 대응 검토",
+          "body": "Estepario는 €230,000 든 영상 572편 AI 학습에 소송을 원한다.",
+          "mini_headline": "드러머, AI 학습에 맞서다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "새 캠페인 “Not AI's to Take”가 오늘 공개한 이번 조사는 Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass, Goldstein 등 21개 연방 선거구 유권자 1,464명을 대상으로 했으며, 응답자의 65%가 AI 기업이 저작권자의 허락 없이 창작 콘텐츠로 모델을 학습시키는 데 반대하는 것으로 나타났다."
+                "x": "AI를 오랫동안 비판해 온 드럼 YouTuber El Estepario Siberiano가 자신의 콘텐츠를 훔쳤다고 주장하는 기술 기업들을 향해 강하게 반격했다. 그는 새 영상에서 창작자들에게 Atlantic의 AI Watchdog 도구를 소개했다. 이 도구는 AI 모델이 자기 작품으로 학습했는지 확인해 준다."
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "조사에 따르면 응답자의 83%는 무단 AI 학습을 멈추길 원했고, 63%는 해외 AI 기업들이 호주 저작권법 개정을 요구해 왔다는 사실을 몰랐다. 창작자의 허락을 의무화하는 데 찬성하는 의원(MPs)은 유권자 순지지가 30포인트 오를 수 있다."
+                "x": "그는 자신의 장편 영상 572편이 사용된 사실을 확인했다. 영상 한 편에 약 €400를 들였다고 추산하면, 지난 십 년간 그 572편에 €230,000가 들어간 셈이다. 그는 “그들은 자기네 AI 생성 도구를 학습시키려고 내 인생의 십 년과 노력, 그리고 내 주머니에서 €230,000를 훔쳤다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "반대는 특히 외곽 교외와 지방 선거구에서 두드러져 순점수가 -46에 달했다. 이 문제는 정치 성향과도 무관해, Coalition과 One Nation 지지자의 60%도 개정안에 반대했다. AI를 정기적으로 쓰는 응답자(전체의 47%) 사이에서도 반대가 찬성보다 약 두 배 많았다."
-              },
-              {
-                "t": "p",
-                "x": "ARIA, APRA AMCOS, Vinyl Group, Mushroom Music 등이 지지하는 이 캠페인은 Albanese 정부에 기존 저작권 보호를 유지하고, 허락이나 합의된 대가 없는 AI 학습 예외를 영구히 배제할 것을 촉구한다."
+                "x": "앞선 클립에서 그는 자신의 영상 때문에 이미 AI 모방 영상과 AI 리액션 영상이 생겨났다고 말했다. 이제 그는 “법적 조치를 취하고 싶다”며 “이 억만장자들이 아무런 대가도 치르지 않고 빠져나가게 두고 싶지 않다”고 말한다. 그는 팔로워들에게 어떻게 대응해야 할지 조언을 구하며 영상을 마무리했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪世論調査、AI著作権が\n21の重要選挙区で争点に",
-          "body": "21の連邦選挙区で有権者1,464人を調べた調査で、創作物の無償AI学習に広く反対が出た。",
-          "mini_headline": "AI著作権調査、21選挙区",
+          "headline": "ドラマーEstepario\nAI学習に法的措置検討",
+          "body": "Esteparioは€230,000分の動画572本のAI学習に法的措置を望む。",
+          "mini_headline": "ドラマー、AI学習に反旗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "新キャンペーン「Not AI's to Take」が本日公表した調査は、Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass、Goldsteinを含む21の連邦選挙区で有権者1,464人を対象に行われ、65%がAI企業による著作権者の許可なき創作コンテンツでのモデル学習に反対していることがわかった。"
+                "x": "長年AIを批判してきたドラムYouTuberのEl Estepario Siberianoが、自身のコンテンツを盗んだとするテック企業に猛然と反撃した。新たな動画では、AIモデルが自分の作品で学習したかを確認できるAtlanticのAI Watchdogツールをクリエイターに紹介している。"
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "調査によると、回答者の83%が無許可のAI学習の停止を望み、63%は海外のAI企業がオーストラリアの著作権法改正を求めていたことを知らなかった。クリエイターの許可を義務づけることを支持する議員(MPs)は、有権者の純支持が30ポイント上昇する可能性がある。"
+                "x": "彼は自身の長尺動画572本が使われていたことを突き止めた。一本あたり約€400を費やしたと見積もると、十年間でその572本に€230,000かかった計算になる。「彼らは自分たちの生成AIツールを訓練するために、僕の人生の十年と努力、そしてポケットから€230,000を盗んだ」と彼は語る。"
               },
               {
                 "t": "p",
-                "x": "反対は郊外の外縁部と地方の選挙区で特に強く、純スコアは-46だった。この問題は政治的立場も超えており、CoalitionとOne Nationの支持者の60%も改正案に反対した。AIを日常的に使う人(回答者の47%)の間でも、反対が賛成のおよそ二倍に上った。"
-              },
-              {
-                "t": "p",
-                "x": "ARIA、APRA AMCOS、Vinyl Group、Mushroom Musicなどが支援するこのキャンペーンは、Albanese政権に対し、既存の著作権保護を維持し、許可や合意された対価のないAI学習の例外を恒久的に排除するよう求めている。"
+                "x": "以前のクリップでは、自分の動画がすでにAIによる模倣やAIリアクション動画を生んでいると語っていた。今回は「法的措置を取りたい」と述べ、「この億万長者たちが何の報いも受けずに逃げ切るのを許したくない」と続けた。最後に、どう進めるべきかフォロワーに助言を求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳洲民调：AI版权议题\n牵动21个关键选区",
-          "body": "针对21个联邦选区1,464名选民的民调显示，多数人反对无偿用创作内容训练AI。",
-          "mini_headline": "AI版权民调涉21个选区",
+          "headline": "鼓手El Estepario\n拟就AI训练诉诸法律",
+          "body": "Estepario称AI公司用其耗资€230,000的572个视频训练，拟采取法律行动。",
+          "mini_headline": "鼓手对抗AI训练",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "新发起的“Not AI's to Take”运动今天发布的这项研究，调查了包括Parramatta、Grayndler、Hunter、Lindsay、Bendigo、Fremantle、Bass和Goldstein在内的21个联邦选区的1,464名选民，发现65%的人反对AI公司未经版权所有者许可就用创作内容训练模型。"
+                "x": "长期批评AI的鼓手YouTuber El Estepario Siberiano，向他指称窃取其内容的科技公司发起猛烈抨击。他在新视频中向创作者推荐Atlantic的AI Watchdog工具，该工具可查验AI模型是否用他们的作品进行过训练。"
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "调查显示，83%的受访者希望叫停未经授权的AI训练，63%的人不知道海外AI公司曾寻求修改澳大利亚版权法。支持要求获得创作者许可的议员（MPs），其选民净支持度可能提高30个点。"
+                "x": "他发现自己有572个长视频被使用。他估计每个视频花费约€400，十年下来这572个视频共耗资€230,000。“他们为了训练自己的生成式AI工具，偷走了我十年的人生和心血，还有我口袋里的€230,000。”他说。"
               },
               {
                 "t": "p",
-                "x": "反对声在远郊和地区选区尤为强烈，净得分为-46。这一议题也跨越党派界限，Coalition和One Nation的选民中有60%反对拟议的修改。在经常使用AI的人群中（占受访者的47%），反对者约为支持者的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "该运动获得ARIA、APRA AMCOS、Vinyl Group、Mushroom Music等支持，呼吁Albanese政府维持现有版权保护，并永久排除未经许可或未商定报酬的AI训练豁免。"
+                "x": "他在此前的一段视频中说，他的视频已经催生了AI模仿者和AI反应视频。“我想采取法律行动，”他现在表示，“我不想让这些亿万富翁全身而退，不承担任何后果。”最后，他向粉丝征求下一步该如何做的建议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Encuesta en Australia liga la AI\ny el copyright a 21 escaños",
-          "body": "Un sondeo de 1,464 votantes en 21 distritos federales halló amplio rechazo a entrenar AI con obras creativas sin pago.",
-          "mini_headline": "Sondeo sobre AI y copyright en 21 escaños",
+          "headline": "El Estepario Siberiano estudia\nacción legal por entrenar AI",
+          "body": "El Estepario Siberiano acusa a firmas de AI de entrenar con 572 videos suyos que costaron €230,000 y quiere demandar.",
+          "mini_headline": "Un baterista contra el entrenamiento de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/not-ais-to-take-website.png?v=1795383740426"
+                "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Publicada hoy por la nueva campaña “Not AI's to Take”, la investigación encuestó a 1,464 votantes de 21 distritos electorales federales, entre ellos Parramatta, Grayndler, Hunter, Lindsay, Bendigo, Fremantle, Bass y Goldstein, y concluyó que el 65% se opone a que las empresas de AI entrenen sus modelos con contenido creativo sin el permiso de los titulares de derechos de autor."
+                "x": "El YouTuber de batería El Estepario Siberiano, crítico de la AI desde hace tiempo, arremetió contra las tecnológicas que, según él, le robaron su contenido. En un nuevo video remite a los creativos a la herramienta AI Watchdog del Atlantic, que comprueba si los modelos de AI se entrenaron con su obra."
+              },
+              {
+                "t": "video",
+                "yt": "nsekqm6eaD8"
               },
               {
                 "t": "p",
-                "x": "Según la encuesta, el 83% de los encuestados quiere que se detenga el entrenamiento de AI no autorizado, mientras que el 63% desconocía que empresas extranjeras de AI habían buscado cambios en la ley de derechos de autor de Australia. Los parlamentarios (MPs) que apoyen exigir el permiso de los creadores podrían obtener un aumento neto de apoyo electoral de 30 puntos."
+                "x": "Descubrió que se habían usado 572 de sus videos de formato largo. Calcula que gastó unos €400 en cada video, así que a lo largo de una década esos 572 videos le costaron €230,000. «Me robaron una década de mi vida y mi esfuerzo y €230,000 de mi bolsillo para entrenar su herramienta de AI generativa», afirma."
               },
               {
                 "t": "p",
-                "x": "La oposición fue especialmente marcada en los distritos periurbanos y regionales, con una puntuación neta de -46. El tema también atraviesa las líneas políticas: el 60% de los votantes de la Coalition y de One Nation se opone a los cambios propuestos. Entre los usuarios habituales de AI (el 47% de los encuestados), la oposición superó al apoyo en una proporción de aproximadamente dos a uno."
-              },
-              {
-                "t": "p",
-                "x": "La campaña, respaldada por ARIA, APRA AMCOS, Vinyl Group, Mushroom Music y otros, pide al Gobierno de Albanese mantener las protecciones de derechos de autor vigentes y descartar de forma permanente excepciones para el entrenamiento de AI sin permiso ni pago acordado."
+                "x": "En un clip anterior dijo que sus videos ya habían dado lugar a imitaciones con AI y a videos de reacción hechos con AI. «Quiero emprender acciones legales», dice ahora. «No quiero que estos multimillonarios se vayan sin afrontar ningún tipo de consecuencia». Terminó pidiendo a sus seguidores consejo sobre cómo proceder."
               }
             ]
           }
@@ -667,189 +959,267 @@
       }
     },
     {
-      "id": "jang-hanbyeol-ai-hit-cover",
+      "id": "mcst-ai-training-contract",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "장한별, AI 멜론 1위곡\n라이브 커버 공개",
-      "body": "장한별이 AI 가수 머무르의 멜론 1위곡 커버로 사흘 만에 47만 뷰를 기록했다.",
-      "mini_headline": "장한별, AI 1위곡 커버",
+      "headline": "AI 학습용 저작물\n표준계약서 공청회",
+      "body": "문체부가 26일 공청회에서 AI 학습용 저작물 이용료 산정 기준을 공개한다.",
+      "mini_headline": "AI 학습 저작물 거래 기준",
       "tool": "Music",
-      "source": "Sports Kyunghyang",
-      "url": "https://sports.khan.co.kr/article/202611230635003/",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261123_0003878775",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+            "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+            "cap": "'인공지능 학습을 위한 저작물 이용허락 표준계약서(안) 공청회' 포스터. (문화체육관광부 제공)"
           },
           {
             "t": "p",
-            "x": "가수 장한별이 AI 보컬의 히트곡 ‘꿈꾸던 어른이 되었나요?’를 자신만의 진정성 넘치는 목소리로 재해석해 뜨거운 반응을 얻고 있다."
+            "x": "문화체육관광부는 한국저작권위원회, 법무법인 세종과 함께 26일 서울 종로구 그랑서울 타워1에서 '인공지능(AI) 학습을 위한 저작물 이용허락 표준계약서(안) 공청회'를 연다."
           },
           {
             "t": "p",
-            "x": "장한별은 지난 18일 자신의 공식 유튜브 채널을 통해 가상 보컬 머무르(MEOMURU)의 원곡 ‘꿈꾸던 어른이 되었나요?’의 라이브 커버 영상을 공개했다. 해당 영상은 사흘 만인 21일 현재, 조회수 47만을 기록한데 이어 유튜브 하이프 순위 10위까지 올랐다."
+            "x": "문체부는 앞서 저작재산권 양도와 이용허락 표준계약서 4종을 '저작재산권 분야 표준계약서'로 고시한 바 있다. 그러나 AI 학습을 위한 저작물 이용 수요가 증가하면서 기존 저작재산권 표준계약서만으로는 이를 포괄하기 어려웠다."
           },
           {
             "t": "p",
-            "x": "원곡 ‘꿈꾸던 어른이 되었나요?’는 AI 기술로 생성된 가상 보컬 머무르가 발표한 곡으로, 최근 음원 사이트 멜론의 차트 정상에 오르며 가요계에 신선한 충격을 안긴 화제작이다. 장한별은 원곡의 멜로디 위에 15년 동안 무대를 지켜온 ‘인간 가수’만의 깊고 뜨거운 서사를 입혀 완전히 새로운 감동을 완성했다."
+            "x": "이를 고려해 문체부는 지난 5월 법무법인 세종과 연구용역에 착수해 새로운 유형의 AI 학습 저작물 이용 거래를 지원하는 표준계약서(안)를 마련하고 권리자, AI 개발사, 데이터거래사업자 등 표준계약서 이용 수요가 있는 관계자들의 의견을 청취했다."
           },
           {
             "t": "p",
-            "x": "이번 영상에서 장한별은 화려한 장치나 고음 위주의 기교를 과감히 덜어냈다. 장한별은 최근 KBS2 ‘불후의 명곡’ 2회 연속 우승, 생애 첫 단독 콘서트 전석 매진, 신곡 ‘미야(Miya)’의 장기 흥행을 이어가고 있으며, 23일 KBS1 ‘가요무대’와 SBS Life ‘더트롯쇼’에 출연한다."
+            "x": "이번 공청회에서는 연구를 통해 마련해 AI 학습을 위한 저작물 이용허락 표준계약서 및 AI 학습을 위한 저작재산권 양도 표준계약서 제정안을 공유하고, 각계 의견을 수렴한다."
+          },
+          {
+            "t": "p",
+            "x": "저작물 이용허락 표준계약서안에는 AI 학습에 사용할 저작물의 범위와 이용 기간, 이용료 산정·지급 방식 등이 규정됐다. 저작재산권 양도 표준계약서안에는 양도 대상과 권리 범위, 양도대금 지급 방식, 저작인격권 보호 등이 담겼다."
+          },
+          {
+            "t": "p",
+            "x": "임상혁 변호사가 연구 추진 개요를 설명하고, 황지원 변호사가 표준계약서(안)와 해설서에 담길 주요 내용을 소개할 예정이다. 이어 표준계약서(안)에 대한 질의응답을 진행한다. 이날 공청회는 한국저작권위원회 유튜브를 통해 생중계된다."
+          },
+          {
+            "t": "p",
+            "x": "최영진 문체부 저작권정책관은 \"이번 공청회 의견을 종합적으로 고려해 창작자 권리보호와 합법적 저작물 이용 환경이 균형을 이루는 표준계약서를 확정할 방침\"이라고 말했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "장한별, AI 멜론 1위곡\n라이브 커버 공개",
-          "body": "장한별이 AI 가수 머무르의 멜론 1위곡 커버로 사흘 만에 47만 뷰를 기록했다.",
-          "mini_headline": "장한별, AI 1위곡 커버",
+          "headline": "AI 학습용 저작물\n표준계약서 공청회",
+          "body": "문체부가 26일 공청회에서 AI 학습용 저작물 이용료 산정 기준을 공개한다.",
+          "mini_headline": "AI 학습 저작물 거래 기준",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "'인공지능 학습을 위한 저작물 이용허락 표준계약서(안) 공청회' 포스터. (문화체육관광부 제공)"
               },
               {
                 "t": "p",
-                "x": "가수 장한별이 AI 보컬의 히트곡 ‘꿈꾸던 어른이 되었나요?’를 자신만의 진정성 넘치는 목소리로 재해석해 뜨거운 반응을 얻고 있다."
+                "x": "문화체육관광부는 한국저작권위원회, 법무법인 세종과 함께 26일 서울 종로구 그랑서울 타워1에서 '인공지능(AI) 학습을 위한 저작물 이용허락 표준계약서(안) 공청회'를 연다."
               },
               {
                 "t": "p",
-                "x": "장한별은 지난 18일 자신의 공식 유튜브 채널을 통해 가상 보컬 머무르(MEOMURU)의 원곡 ‘꿈꾸던 어른이 되었나요?’의 라이브 커버 영상을 공개했다. 해당 영상은 사흘 만인 21일 현재, 조회수 47만을 기록한데 이어 유튜브 하이프 순위 10위까지 올랐다."
+                "x": "문체부는 앞서 저작재산권 양도와 이용허락 표준계약서 4종을 '저작재산권 분야 표준계약서'로 고시한 바 있다. 그러나 AI 학습을 위한 저작물 이용 수요가 증가하면서 기존 저작재산권 표준계약서만으로는 이를 포괄하기 어려웠다."
               },
               {
                 "t": "p",
-                "x": "원곡 ‘꿈꾸던 어른이 되었나요?’는 AI 기술로 생성된 가상 보컬 머무르가 발표한 곡으로, 최근 음원 사이트 멜론의 차트 정상에 오르며 가요계에 신선한 충격을 안긴 화제작이다. 장한별은 원곡의 멜로디 위에 15년 동안 무대를 지켜온 ‘인간 가수’만의 깊고 뜨거운 서사를 입혀 완전히 새로운 감동을 완성했다."
+                "x": "이를 고려해 문체부는 지난 5월 법무법인 세종과 연구용역에 착수해 새로운 유형의 AI 학습 저작물 이용 거래를 지원하는 표준계약서(안)를 마련하고 권리자, AI 개발사, 데이터거래사업자 등 표준계약서 이용 수요가 있는 관계자들의 의견을 청취했다."
               },
               {
                 "t": "p",
-                "x": "이번 영상에서 장한별은 화려한 장치나 고음 위주의 기교를 과감히 덜어냈다. 장한별은 최근 KBS2 ‘불후의 명곡’ 2회 연속 우승, 생애 첫 단독 콘서트 전석 매진, 신곡 ‘미야(Miya)’의 장기 흥행을 이어가고 있으며, 23일 KBS1 ‘가요무대’와 SBS Life ‘더트롯쇼’에 출연한다."
+                "x": "이번 공청회에서는 연구를 통해 마련해 AI 학습을 위한 저작물 이용허락 표준계약서 및 AI 학습을 위한 저작재산권 양도 표준계약서 제정안을 공유하고, 각계 의견을 수렴한다."
+              },
+              {
+                "t": "p",
+                "x": "저작물 이용허락 표준계약서안에는 AI 학습에 사용할 저작물의 범위와 이용 기간, 이용료 산정·지급 방식 등이 규정됐다. 저작재산권 양도 표준계약서안에는 양도 대상과 권리 범위, 양도대금 지급 방식, 저작인격권 보호 등이 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "임상혁 변호사가 연구 추진 개요를 설명하고, 황지원 변호사가 표준계약서(안)와 해설서에 담길 주요 내용을 소개할 예정이다. 이어 표준계약서(안)에 대한 질의응답을 진행한다. 이날 공청회는 한국저작권위원회 유튜브를 통해 생중계된다."
+              },
+              {
+                "t": "p",
+                "x": "최영진 문체부 저작권정책관은 \"이번 공청회 의견을 종합적으로 고려해 창작자 권리보호와 합법적 저작물 이용 환경이 균형을 이루는 표준계약서를 확정할 방침\"이라고 말했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Jang Han-byeol releases live\ncover of AI Melon No. 1 hit",
-          "body": "Jang Han-byeol's cover of AI singer MEOMURU's Melon No. 1 song drew 47만 views in three days.",
-          "mini_headline": "Jang Han-byeol covers AI No. 1 hit",
+          "headline": "Standard contracts for AI\ntraining go to public hearing",
+          "body": "The culture ministry will unveil fee standards for using copyrighted works in AI training at a hearing on the 26th.",
+          "mini_headline": "Rules for trading AI training works",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "Poster for the 'Public Hearing on the Standard Contract (Draft) for Licensing Works for Artificial Intelligence Training.' (Courtesy of the Ministry of Culture, Sports and Tourism)"
               },
               {
                 "t": "p",
-                "x": "Singer Jang Han-byeol is drawing a warm response after reinterpreting the AI vocal hit ‘Have I Become the Adult I Dreamed Of?’ in his own sincere voice."
+                "x": "The Ministry of Culture, Sports and Tourism, together with the Korea Copyright Commission and law firm Sejong, will hold a 'Public Hearing on the Standard Contract (Draft) for Licensing Works for Artificial Intelligence (AI) Training' on the 26th at Gran Seoul Tower 1 in Jongno-gu, Seoul."
               },
               {
                 "t": "p",
-                "x": "On the 18th, Jang released a live cover video of ‘Have I Become the Adult I Dreamed Of?’, originally by virtual vocalist MEOMURU, on his official YouTube channel. Three days later, as of the 21st, the video had reached 47만 views and climbed to No. 10 on YouTube's Hype ranking."
+                "x": "The ministry previously issued 4 standard contracts covering the transfer and licensing of copyright economic rights as 'standard contracts for copyright economic rights.' But as demand to use works for AI training grew, the existing standard contracts for copyright economic rights alone could not adequately cover it."
               },
               {
                 "t": "p",
-                "x": "The original was released by MEOMURU, a virtual vocalist generated with AI technology, and recently topped the chart on the music streaming site Melon, giving the Korean pop music scene a fresh jolt. Over the original melody, Jang layered the deep, intense story of a ‘human singer’ who has held the stage for 15 years, creating an entirely new emotional experience."
+                "x": "With this in mind, the ministry launched a research project with law firm Sejong in May and drafted a standard contract to support new types of transactions involving the use of works for AI training, gathering input from rights holders, AI developers, data trading businesses and other parties with a need to use standard contracts."
               },
               {
                 "t": "p",
-                "x": "In this video, Jang boldly stripped away flashy staging and high-note-driven technique. He recently won 2 consecutive episodes of KBS2's ‘Immortal Songs’, sold out every seat at his first solo concert and has kept his new song ‘Miya’ on a long run of success. On the 23rd he appears on KBS1's ‘Gayo Stage’ and SBS Life's ‘The Trot Show’."
+                "x": "At the hearing, the ministry will share the drafts, prepared through the research, of a standard contract for licensing works for AI training and a standard contract for transferring copyright economic rights for AI training, and collect views from various sectors."
+              },
+              {
+                "t": "p",
+                "x": "The draft licensing contract sets out the scope of works to be used for AI training, the period of use, and how fees are calculated and paid. The draft transfer contract covers what is transferred and the scope of rights, how the transfer price is paid, and protection of moral rights."
+              },
+              {
+                "t": "p",
+                "x": "Attorney Lim Sang-hyuk will outline the research, and attorney Hwang Ji-won will present the main contents of the draft standard contract and its accompanying commentary. A question-and-answer session on the draft will follow. The hearing will be streamed live on the Korea Copyright Commission's YouTube channel."
+              },
+              {
+                "t": "p",
+                "x": "Choi Young-jin, the ministry's director general for copyright policy, said, \"We plan to finalize a standard contract that balances the protection of creators' rights with an environment for lawful use of works, taking comprehensive account of the opinions from this hearing.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャン・ハンビョル、AI\nMelon 1位曲を生カバー",
-          "body": "チャン・ハンビョルによるAIのMelon 1位曲カバーが三日で47万回再生された。",
-          "mini_headline": "チャン・ハンビョル、AI 1位曲カバー",
+          "headline": "AI学習用著作物の\n標準契約書で公聴会",
+          "body": "文化体育観光部は26日の公聴会で、AI学習用著作物の利用料算定基準を公開する。",
+          "mini_headline": "AI学習用著作物の取引基準",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "「人工知能学習のための著作物利用許諾標準契約書(案)公聴会」のポスター。(文化体育観光部提供)"
               },
               {
                 "t": "p",
-                "x": "歌手チャン・ハンビョルが、AIボーカルのヒット曲「夢見た大人になれましたか?」を自分ならではの真心あふれる歌声で再解釈し、熱い反響を呼んでいる。"
+                "x": "文化体育観光部は韓国著作権委員会、法務法人世宗とともに、26日にソウル市鍾路区のグランソウル・タワー1で「人工知能(AI)学習のための著作物利用許諾標準契約書(案)公聴会」を開く。"
               },
               {
                 "t": "p",
-                "x": "チャン・ハンビョルは18日、自身の公式YouTubeチャンネルで、バーチャルボーカルMEOMURUの原曲「夢見た大人になれましたか?」のライブカバー映像を公開した。映像は三日後の21日時点で再生回数47万回を記録し、YouTubeの急上昇ランキングで10位まで上がった。"
+                "x": "文化体育観光部はこれまでに、著作財産権の譲渡と利用許諾に関する標準契約書4種を「著作財産権分野標準契約書」として告示している。しかし、AI学習のための著作物利用の需要が増えるなか、既存の著作財産権標準契約書だけではこれを十分にカバーしきれなかった。"
               },
               {
                 "t": "p",
-                "x": "原曲「夢見た大人になれましたか?」は、AI技術で生成されたバーチャルボーカルMEOMURUが発表した曲で、最近は音楽配信サイトMelonのチャートで首位に立ち、歌謡界に新鮮な衝撃を与えた話題作だ。チャン・ハンビョルは原曲のメロディーに、15年間ステージを守ってきた「人間の歌手」ならではの深く熱い物語を重ね、まったく新しい感動を完成させた。"
+                "x": "これを踏まえ、文化体育観光部は5月に法務法人世宗と研究委託を開始し、新たな類型であるAI学習用著作物の利用取引を支援する標準契約書(案)をまとめ、権利者、AI開発企業、データ取引事業者など標準契約書の利用ニーズがある関係者の意見を聴取した。"
               },
               {
                 "t": "p",
-                "x": "今回の映像でチャン・ハンビョルは、華やかな演出や高音中心の技巧を思い切って削ぎ落とした。最近はKBS2「不朽の名曲」での2回連続優勝、初の単独コンサートの全席完売、新曲「Miya」のロングヒットと好調が続いており、23日にはKBS1「歌謡舞台」とSBS Life「ザ・トロットショー」に出演する。"
+                "x": "今回の公聴会では、研究を通じてまとめたAI学習のための著作物利用許諾標準契約書と、AI学習のための著作財産権譲渡標準契約書の制定案を共有し、各界の意見を集める。"
+              },
+              {
+                "t": "p",
+                "x": "著作物利用許諾標準契約書案には、AI学習に使う著作物の範囲と利用期間、利用料の算定・支払い方法などが定められた。著作財産権譲渡標準契約書案には、譲渡対象と権利の範囲、譲渡代金の支払い方法、著作者人格権の保護などが盛り込まれた。"
+              },
+              {
+                "t": "p",
+                "x": "イム・サンヒョク弁護士が研究の概要を説明し、ファン・ジウォン弁護士が標準契約書(案)と解説書に盛り込む主な内容を紹介する予定だ。続いて標準契約書(案)に関する質疑応答を行う。当日の公聴会は韓国著作権委員会のYouTubeで生中継される。"
+              },
+              {
+                "t": "p",
+                "x": "チェ・ヨンジン文化体育観光部著作権政策官は「今回の公聴会での意見を総合的に考慮し、創作者の権利保護と合法的な著作物利用環境のバランスが取れた標準契約書を確定する方針だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Jang Han-byeol\n翻唱AI的Melon第1名曲",
-          "body": "Jang Han-byeol翻唱AI歌手的Melon第1名歌曲，三天播放量达47万。",
-          "mini_headline": "Jang Han-byeol翻唱AI冠军曲",
+          "headline": "AI训练用作品\n标准合同公听会",
+          "body": "文体部将于26日在公听会上公布AI训练用作品的使用费核算标准。",
+          "mini_headline": "AI训练作品交易标准",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "“人工智能训练用作品使用许可标准合同（草案）公听会”海报。（文化体育观光部提供）"
               },
               {
                 "t": "p",
-                "x": "歌手Jang Han-byeol以自己真挚动人的嗓音重新演绎AI歌手的热门歌曲《梦想中的大人，我成为了吗？》，引发热烈反响。"
+                "x": "文化体育观光部将联合韩国著作权委员会、世宗律师事务所，于26日在首尔钟路区Gran Seoul Tower 1举办“人工智能（AI）训练用作品使用许可标准合同（草案）公听会”。"
               },
               {
                 "t": "p",
-                "x": "Jang Han-byeol于18日通过个人官方YouTube频道，公开了虚拟歌手MEOMURU原唱《梦想中的大人，我成为了吗？》的现场翻唱视频。该视频在三天后的21日播放量已达47万，并登上YouTube热门榜第10名。"
+                "x": "文体部此前已将著作财产权转让及使用许可标准合同4种公告为“著作财产权领域标准合同”。但随着AI训练使用作品的需求增加，仅靠现有著作财产权标准合同难以涵盖这类需求。"
               },
               {
                 "t": "p",
-                "x": "原曲《梦想中的大人，我成为了吗？》由AI技术生成的虚拟歌手MEOMURU发布，近期登顶音乐平台Melon榜单，给韩国歌坛带来新鲜冲击，成为话题之作。Jang Han-byeol在原曲旋律之上，融入了坚守舞台15年的“人类歌手”独有的深沉而炽热的叙事，带来全新的感动。"
+                "x": "为此，文体部于5月与世宗律师事务所启动研究项目，拟定了支持AI训练作品使用这一新型交易的标准合同（草案），并听取了权利人、AI开发企业、数据交易企业等有标准合同使用需求的相关方意见。"
               },
               {
                 "t": "p",
-                "x": "在这次的视频中，Jang Han-byeol大胆去掉了华丽的编排和以高音为主的技巧。他近期在KBS2《不朽的名曲》中连续2次夺冠，首场个人演唱会门票全部售罄，新歌《Miya》持续热门，并将于23日登上KBS1《歌谣舞台》和SBS Life《The Trot Show》。"
+                "x": "此次公听会将分享通过研究拟定的AI训练用作品使用许可标准合同及AI训练用著作财产权转让标准合同的制定草案，并广泛听取各界意见。"
+              },
+              {
+                "t": "p",
+                "x": "作品使用许可标准合同草案规定了用于AI训练的作品范围、使用期限及使用费核算与支付方式等；著作财产权转让标准合同草案则包含转让对象与权利范围、转让价款支付方式、著作人格权保护等内容。"
+              },
+              {
+                "t": "p",
+                "x": "Lim Sang-hyuk律师将介绍研究推进概况，Hwang Ji-won律师将介绍标准合同（草案）及解说书的主要内容，随后就标准合同（草案）进行问答。当天公听会将通过韩国著作权委员会YouTube频道直播。"
+              },
+              {
+                "t": "p",
+                "x": "文体部著作权政策官Choi Young-jin表示：“将综合考虑此次公听会的意见，确定在创作者权利保护与合法作品使用环境之间取得平衡的标准合同。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jang Han-byeol versiona en vivo\nun número 1 de AI en Melon",
-          "body": "Jang Han-byeol logró 47만 visitas en tres días con su versión del número 1 en Melon de la voz de AI MEOMURU.",
-          "mini_headline": "Jang Han-byeol versiona un éxito de AI",
+          "headline": "Contratos tipo para obras de\nentrenamiento de AI, a debate",
+          "body": "El Ministerio de Cultura presentará el 26 en una audiencia los criterios de tarifa por usar obras para entrenar AI.",
+          "mini_headline": "Criterios para obras de entrenamiento de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "Cartel de la 'Audiencia pública sobre el contrato tipo (borrador) de licencia de obras para el entrenamiento de inteligencia artificial'. (Cortesía del Ministerio de Cultura, Deportes y Turismo)"
               },
               {
                 "t": "p",
-                "x": "El cantante Jang Han-byeol está recibiendo una cálida acogida tras reinterpretar con su propia voz, llena de autenticidad, el éxito de una voz de AI ‘¿Me he convertido en el adulto que soñaba?’."
+                "x": "El Ministerio de Cultura, Deportes y Turismo, junto con la Comisión de Derechos de Autor de Corea y el bufete Sejong, celebrará el día 26 en la Gran Seoul Tower 1, en el distrito de Jongno (Seúl), la 'Audiencia pública sobre el contrato tipo (borrador) de licencia de obras para el entrenamiento de inteligencia artificial (AI)'."
               },
               {
                 "t": "p",
-                "x": "El día 18, Jang publicó en su canal oficial de YouTube un video en vivo con su versión de ‘¿Me he convertido en el adulto que soñaba?’, original de la voz virtual MEOMURU. Tres días después, a fecha del 21, el video sumaba 47만 visualizaciones y había subido hasta el puesto 10 del ranking Hype de YouTube."
+                "x": "El ministerio ya había publicado 4 contratos tipo sobre cesión y licencia de derechos patrimoniales de autor como 'contratos tipo del ámbito de los derechos patrimoniales de autor'. Sin embargo, con el aumento de la demanda de uso de obras para el entrenamiento de AI, los contratos tipo existentes no bastaban para abarcarla."
               },
               {
                 "t": "p",
-                "x": "La canción original, publicada por MEOMURU, una voz virtual generada con tecnología de AI, llegó recientemente a lo más alto de la lista del sitio de música Melon y causó un impacto refrescante en la música popular coreana. Sobre la melodía original, Jang añadió la narrativa profunda e intensa de un ‘cantante humano’ que ha defendido el escenario durante 15 años, logrando una emoción completamente nueva."
+                "x": "Por ello, el ministerio inició en mayo un proyecto de investigación con el bufete Sejong, elaboró un contrato tipo (borrador) para respaldar un nuevo tipo de transacción de uso de obras para el entrenamiento de AI y escuchó a titulares de derechos, desarrolladores de AI, empresas de comercio de datos y otras partes interesadas en usar los contratos tipo."
               },
               {
                 "t": "p",
-                "x": "En este video, Jang prescindió con decisión de efectos llamativos y de la técnica centrada en las notas agudas. Recientemente ganó 2 veces seguidas en ‘Immortal Songs’ de KBS2, agotó todas las entradas de su primer concierto en solitario y mantiene el éxito prolongado de su nuevo tema ‘Miya’; el día 23 aparecerá en ‘Gayo Stage’ de KBS1 y en ‘The Trot Show’ de SBS Life."
+                "x": "En la audiencia se compartirán los proyectos de contrato tipo de licencia de obras para el entrenamiento de AI y de contrato tipo de cesión de derechos patrimoniales de autor para el entrenamiento de AI, elaborados a partir de la investigación, y se recogerán opiniones de distintos sectores."
+              },
+              {
+                "t": "p",
+                "x": "El borrador de contrato de licencia establece el alcance de las obras que se usarán para el entrenamiento de AI, el periodo de uso y la forma de calcular y pagar las tarifas, entre otros puntos. El borrador de contrato de cesión incluye el objeto de la cesión y el alcance de los derechos, la forma de pago del precio de cesión y la protección de los derechos morales de autor."
+              },
+              {
+                "t": "p",
+                "x": "El abogado Lim Sang-hyuk explicará las líneas generales de la investigación y el abogado Hwang Ji-won presentará los principales contenidos del contrato tipo (borrador) y de su guía explicativa. Después habrá una sesión de preguntas y respuestas sobre el borrador. La audiencia se transmitirá en directo por el canal de YouTube de la Comisión de Derechos de Autor de Corea."
+              },
+              {
+                "t": "p",
+                "x": "Choi Young-jin, director de política de derechos de autor del ministerio, dijo: \"Tendremos en cuenta de forma integral las opiniones de esta audiencia para fijar un contrato tipo que equilibre la protección de los derechos de los creadores y un entorno de uso legal de las obras\"."
               }
             ]
           }
@@ -857,121 +1227,173 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Jang Han-byeol releases live\ncover of AI Melon No. 1 hit",
-          "body": "Jang Han-byeol's cover of AI singer MEOMURU's Melon No. 1 song drew 47만 views in three days.",
-          "mini_headline": "Jang Han-byeol covers AI No. 1 hit",
+          "headline": "Standard contracts for AI\ntraining go to public hearing",
+          "body": "The culture ministry will unveil fee standards for using copyrighted works in AI training at a hearing on the 26th.",
+          "mini_headline": "Rules for trading AI training works",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "Poster for the 'Public Hearing on the Standard Contract (Draft) for Licensing Works for Artificial Intelligence Training.' (Courtesy of the Ministry of Culture, Sports and Tourism)"
               },
               {
                 "t": "p",
-                "x": "Singer Jang Han-byeol is drawing a warm response after reinterpreting the AI vocal hit ‘Have I Become the Adult I Dreamed Of?’ in his own sincere voice."
+                "x": "The Ministry of Culture, Sports and Tourism, together with the Korea Copyright Commission and law firm Sejong, will hold a 'Public Hearing on the Standard Contract (Draft) for Licensing Works for Artificial Intelligence (AI) Training' on the 26th at Gran Seoul Tower 1 in Jongno-gu, Seoul."
               },
               {
                 "t": "p",
-                "x": "On the 18th, Jang released a live cover video of ‘Have I Become the Adult I Dreamed Of?’, originally by virtual vocalist MEOMURU, on his official YouTube channel. Three days later, as of the 21st, the video had reached 47만 views and climbed to No. 10 on YouTube's Hype ranking."
+                "x": "The ministry previously issued 4 standard contracts covering the transfer and licensing of copyright economic rights as 'standard contracts for copyright economic rights.' But as demand to use works for AI training grew, the existing standard contracts for copyright economic rights alone could not adequately cover it."
               },
               {
                 "t": "p",
-                "x": "The original was released by MEOMURU, a virtual vocalist generated with AI technology, and recently topped the chart on the music streaming site Melon, giving the Korean pop music scene a fresh jolt. Over the original melody, Jang layered the deep, intense story of a ‘human singer’ who has held the stage for 15 years, creating an entirely new emotional experience."
+                "x": "With this in mind, the ministry launched a research project with law firm Sejong in May and drafted a standard contract to support new types of transactions involving the use of works for AI training, gathering input from rights holders, AI developers, data trading businesses and other parties with a need to use standard contracts."
               },
               {
                 "t": "p",
-                "x": "In this video, Jang boldly stripped away flashy staging and high-note-driven technique. He recently won 2 consecutive episodes of KBS2's ‘Immortal Songs’, sold out every seat at his first solo concert and has kept his new song ‘Miya’ on a long run of success. On the 23rd he appears on KBS1's ‘Gayo Stage’ and SBS Life's ‘The Trot Show’."
+                "x": "At the hearing, the ministry will share the drafts, prepared through the research, of a standard contract for licensing works for AI training and a standard contract for transferring copyright economic rights for AI training, and collect views from various sectors."
+              },
+              {
+                "t": "p",
+                "x": "The draft licensing contract sets out the scope of works to be used for AI training, the period of use, and how fees are calculated and paid. The draft transfer contract covers what is transferred and the scope of rights, how the transfer price is paid, and protection of moral rights."
+              },
+              {
+                "t": "p",
+                "x": "Attorney Lim Sang-hyuk will outline the research, and attorney Hwang Ji-won will present the main contents of the draft standard contract and its accompanying commentary. A question-and-answer session on the draft will follow. The hearing will be streamed live on the Korea Copyright Commission's YouTube channel."
+              },
+              {
+                "t": "p",
+                "x": "Choi Young-jin, the ministry's director general for copyright policy, said, \"We plan to finalize a standard contract that balances the protection of creators' rights with an environment for lawful use of works, taking comprehensive account of the opinions from this hearing.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャン・ハンビョル、AI\nMelon 1位曲を生カバー",
-          "body": "チャン・ハンビョルによるAIのMelon 1位曲カバーが三日で47万回再生された。",
-          "mini_headline": "チャン・ハンビョル、AI 1位曲カバー",
+          "headline": "AI学習用著作物の\n標準契約書で公聴会",
+          "body": "文化体育観光部は26日の公聴会で、AI学習用著作物の利用料算定基準を公開する。",
+          "mini_headline": "AI学習用著作物の取引基準",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "「人工知能学習のための著作物利用許諾標準契約書(案)公聴会」のポスター。(文化体育観光部提供)"
               },
               {
                 "t": "p",
-                "x": "歌手チャン・ハンビョルが、AIボーカルのヒット曲「夢見た大人になれましたか?」を自分ならではの真心あふれる歌声で再解釈し、熱い反響を呼んでいる。"
+                "x": "文化体育観光部は韓国著作権委員会、法務法人世宗とともに、26日にソウル市鍾路区のグランソウル・タワー1で「人工知能(AI)学習のための著作物利用許諾標準契約書(案)公聴会」を開く。"
               },
               {
                 "t": "p",
-                "x": "チャン・ハンビョルは18日、自身の公式YouTubeチャンネルで、バーチャルボーカルMEOMURUの原曲「夢見た大人になれましたか?」のライブカバー映像を公開した。映像は三日後の21日時点で再生回数47万回を記録し、YouTubeの急上昇ランキングで10位まで上がった。"
+                "x": "文化体育観光部はこれまでに、著作財産権の譲渡と利用許諾に関する標準契約書4種を「著作財産権分野標準契約書」として告示している。しかし、AI学習のための著作物利用の需要が増えるなか、既存の著作財産権標準契約書だけではこれを十分にカバーしきれなかった。"
               },
               {
                 "t": "p",
-                "x": "原曲「夢見た大人になれましたか?」は、AI技術で生成されたバーチャルボーカルMEOMURUが発表した曲で、最近は音楽配信サイトMelonのチャートで首位に立ち、歌謡界に新鮮な衝撃を与えた話題作だ。チャン・ハンビョルは原曲のメロディーに、15年間ステージを守ってきた「人間の歌手」ならではの深く熱い物語を重ね、まったく新しい感動を完成させた。"
+                "x": "これを踏まえ、文化体育観光部は5月に法務法人世宗と研究委託を開始し、新たな類型であるAI学習用著作物の利用取引を支援する標準契約書(案)をまとめ、権利者、AI開発企業、データ取引事業者など標準契約書の利用ニーズがある関係者の意見を聴取した。"
               },
               {
                 "t": "p",
-                "x": "今回の映像でチャン・ハンビョルは、華やかな演出や高音中心の技巧を思い切って削ぎ落とした。最近はKBS2「不朽の名曲」での2回連続優勝、初の単独コンサートの全席完売、新曲「Miya」のロングヒットと好調が続いており、23日にはKBS1「歌謡舞台」とSBS Life「ザ・トロットショー」に出演する。"
+                "x": "今回の公聴会では、研究を通じてまとめたAI学習のための著作物利用許諾標準契約書と、AI学習のための著作財産権譲渡標準契約書の制定案を共有し、各界の意見を集める。"
+              },
+              {
+                "t": "p",
+                "x": "著作物利用許諾標準契約書案には、AI学習に使う著作物の範囲と利用期間、利用料の算定・支払い方法などが定められた。著作財産権譲渡標準契約書案には、譲渡対象と権利の範囲、譲渡代金の支払い方法、著作者人格権の保護などが盛り込まれた。"
+              },
+              {
+                "t": "p",
+                "x": "イム・サンヒョク弁護士が研究の概要を説明し、ファン・ジウォン弁護士が標準契約書(案)と解説書に盛り込む主な内容を紹介する予定だ。続いて標準契約書(案)に関する質疑応答を行う。当日の公聴会は韓国著作権委員会のYouTubeで生中継される。"
+              },
+              {
+                "t": "p",
+                "x": "チェ・ヨンジン文化体育観光部著作権政策官は「今回の公聴会での意見を総合的に考慮し、創作者の権利保護と合法的な著作物利用環境のバランスが取れた標準契約書を確定する方針だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Jang Han-byeol\n翻唱AI的Melon第1名曲",
-          "body": "Jang Han-byeol翻唱AI歌手的Melon第1名歌曲，三天播放量达47万。",
-          "mini_headline": "Jang Han-byeol翻唱AI冠军曲",
+          "headline": "AI训练用作品\n标准合同公听会",
+          "body": "文体部将于26日在公听会上公布AI训练用作品的使用费核算标准。",
+          "mini_headline": "AI训练作品交易标准",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "“人工智能训练用作品使用许可标准合同（草案）公听会”海报。（文化体育观光部提供）"
               },
               {
                 "t": "p",
-                "x": "歌手Jang Han-byeol以自己真挚动人的嗓音重新演绎AI歌手的热门歌曲《梦想中的大人，我成为了吗？》，引发热烈反响。"
+                "x": "文化体育观光部将联合韩国著作权委员会、世宗律师事务所，于26日在首尔钟路区Gran Seoul Tower 1举办“人工智能（AI）训练用作品使用许可标准合同（草案）公听会”。"
               },
               {
                 "t": "p",
-                "x": "Jang Han-byeol于18日通过个人官方YouTube频道，公开了虚拟歌手MEOMURU原唱《梦想中的大人，我成为了吗？》的现场翻唱视频。该视频在三天后的21日播放量已达47万，并登上YouTube热门榜第10名。"
+                "x": "文体部此前已将著作财产权转让及使用许可标准合同4种公告为“著作财产权领域标准合同”。但随着AI训练使用作品的需求增加，仅靠现有著作财产权标准合同难以涵盖这类需求。"
               },
               {
                 "t": "p",
-                "x": "原曲《梦想中的大人，我成为了吗？》由AI技术生成的虚拟歌手MEOMURU发布，近期登顶音乐平台Melon榜单，给韩国歌坛带来新鲜冲击，成为话题之作。Jang Han-byeol在原曲旋律之上，融入了坚守舞台15年的“人类歌手”独有的深沉而炽热的叙事，带来全新的感动。"
+                "x": "为此，文体部于5月与世宗律师事务所启动研究项目，拟定了支持AI训练作品使用这一新型交易的标准合同（草案），并听取了权利人、AI开发企业、数据交易企业等有标准合同使用需求的相关方意见。"
               },
               {
                 "t": "p",
-                "x": "在这次的视频中，Jang Han-byeol大胆去掉了华丽的编排和以高音为主的技巧。他近期在KBS2《不朽的名曲》中连续2次夺冠，首场个人演唱会门票全部售罄，新歌《Miya》持续热门，并将于23日登上KBS1《歌谣舞台》和SBS Life《The Trot Show》。"
+                "x": "此次公听会将分享通过研究拟定的AI训练用作品使用许可标准合同及AI训练用著作财产权转让标准合同的制定草案，并广泛听取各界意见。"
+              },
+              {
+                "t": "p",
+                "x": "作品使用许可标准合同草案规定了用于AI训练的作品范围、使用期限及使用费核算与支付方式等；著作财产权转让标准合同草案则包含转让对象与权利范围、转让价款支付方式、著作人格权保护等内容。"
+              },
+              {
+                "t": "p",
+                "x": "Lim Sang-hyuk律师将介绍研究推进概况，Hwang Ji-won律师将介绍标准合同（草案）及解说书的主要内容，随后就标准合同（草案）进行问答。当天公听会将通过韩国著作权委员会YouTube频道直播。"
+              },
+              {
+                "t": "p",
+                "x": "文体部著作权政策官Choi Young-jin表示：“将综合考虑此次公听会的意见，确定在创作者权利保护与合法作品使用环境之间取得平衡的标准合同。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jang Han-byeol versiona en vivo\nun número 1 de AI en Melon",
-          "body": "Jang Han-byeol logró 47만 visitas en tres días con su versión del número 1 en Melon de la voz de AI MEOMURU.",
-          "mini_headline": "Jang Han-byeol versiona un éxito de AI",
+          "headline": "Contratos tipo para obras de\nentrenamiento de AI, a debate",
+          "body": "El Ministerio de Cultura presentará el 26 en una audiencia los criterios de tarifa por usar obras para entrenar AI.",
+          "mini_headline": "Criterios para obras de entrenamiento de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.58e43f5affe24a99ba87682c090b00ef_P1.jpeg"
+                "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+                "cap": "Cartel de la 'Audiencia pública sobre el contrato tipo (borrador) de licencia de obras para el entrenamiento de inteligencia artificial'. (Cortesía del Ministerio de Cultura, Deportes y Turismo)"
               },
               {
                 "t": "p",
-                "x": "El cantante Jang Han-byeol está recibiendo una cálida acogida tras reinterpretar con su propia voz, llena de autenticidad, el éxito de una voz de AI ‘¿Me he convertido en el adulto que soñaba?’."
+                "x": "El Ministerio de Cultura, Deportes y Turismo, junto con la Comisión de Derechos de Autor de Corea y el bufete Sejong, celebrará el día 26 en la Gran Seoul Tower 1, en el distrito de Jongno (Seúl), la 'Audiencia pública sobre el contrato tipo (borrador) de licencia de obras para el entrenamiento de inteligencia artificial (AI)'."
               },
               {
                 "t": "p",
-                "x": "El día 18, Jang publicó en su canal oficial de YouTube un video en vivo con su versión de ‘¿Me he convertido en el adulto que soñaba?’, original de la voz virtual MEOMURU. Tres días después, a fecha del 21, el video sumaba 47만 visualizaciones y había subido hasta el puesto 10 del ranking Hype de YouTube."
+                "x": "El ministerio ya había publicado 4 contratos tipo sobre cesión y licencia de derechos patrimoniales de autor como 'contratos tipo del ámbito de los derechos patrimoniales de autor'. Sin embargo, con el aumento de la demanda de uso de obras para el entrenamiento de AI, los contratos tipo existentes no bastaban para abarcarla."
               },
               {
                 "t": "p",
-                "x": "La canción original, publicada por MEOMURU, una voz virtual generada con tecnología de AI, llegó recientemente a lo más alto de la lista del sitio de música Melon y causó un impacto refrescante en la música popular coreana. Sobre la melodía original, Jang añadió la narrativa profunda e intensa de un ‘cantante humano’ que ha defendido el escenario durante 15 años, logrando una emoción completamente nueva."
+                "x": "Por ello, el ministerio inició en mayo un proyecto de investigación con el bufete Sejong, elaboró un contrato tipo (borrador) para respaldar un nuevo tipo de transacción de uso de obras para el entrenamiento de AI y escuchó a titulares de derechos, desarrolladores de AI, empresas de comercio de datos y otras partes interesadas en usar los contratos tipo."
               },
               {
                 "t": "p",
-                "x": "En este video, Jang prescindió con decisión de efectos llamativos y de la técnica centrada en las notas agudas. Recientemente ganó 2 veces seguidas en ‘Immortal Songs’ de KBS2, agotó todas las entradas de su primer concierto en solitario y mantiene el éxito prolongado de su nuevo tema ‘Miya’; el día 23 aparecerá en ‘Gayo Stage’ de KBS1 y en ‘The Trot Show’ de SBS Life."
+                "x": "En la audiencia se compartirán los proyectos de contrato tipo de licencia de obras para el entrenamiento de AI y de contrato tipo de cesión de derechos patrimoniales de autor para el entrenamiento de AI, elaborados a partir de la investigación, y se recogerán opiniones de distintos sectores."
+              },
+              {
+                "t": "p",
+                "x": "El borrador de contrato de licencia establece el alcance de las obras que se usarán para el entrenamiento de AI, el periodo de uso y la forma de calcular y pagar las tarifas, entre otros puntos. El borrador de contrato de cesión incluye el objeto de la cesión y el alcance de los derechos, la forma de pago del precio de cesión y la protección de los derechos morales de autor."
+              },
+              {
+                "t": "p",
+                "x": "El abogado Lim Sang-hyuk explicará las líneas generales de la investigación y el abogado Hwang Ji-won presentará los principales contenidos del contrato tipo (borrador) y de su guía explicativa. Después habrá una sesión de preguntas y respuestas sobre el borrador. La audiencia se transmitirá en directo por el canal de YouTube de la Comisión de Derechos de Autor de Corea."
+              },
+              {
+                "t": "p",
+                "x": "Choi Young-jin, director de política de derechos de autor del ministerio, dijo: \"Tendremos en cuenta de forma integral las opiniones de esta audiencia para fijar un contrato tipo que equilibre la protección de los derechos de los creadores y un entorno de uso legal de las obras\"."
               }
             ]
           }
@@ -979,703 +1401,311 @@
       }
     },
     {
-      "id": "bellamy-ai-guitar-tone",
+      "id": "soniclab-ssnn2-neural-fm",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Matt Bellamy,\n말로 톤 바꾸는 기타 원해",
-      "body": "Bellamy는 Guitar.com에 말로 톤을 바꾸는 AI 기타를 바란다고 했다.",
-      "mini_headline": "Bellamy가 바라는 AI 기타",
+      "headline": "sonicLAB SSNN\n2.0, 뉴럴 FM 추가",
+      "body": "SSNN 2.0이 960뉴런 신경망 위에 Neural Buffer FM을 더했다.",
+      "mini_headline": "SSNN 2.0에 neural FM 추가",
       "tool": "Music",
-      "source": "Consequence",
-      "url": "https://consequence.net/2026/11/muse-matt-bellamy-ai-guitar/",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/11/23/soniclab-updates-ssnn-with-neural-buffer-fm-expanded-network-controls/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Bellamy는 Guitar.com 인터뷰에서 AI 기타 셋업 구상을 털어놨다. “기타에 AI 요소를 접목해서, 기타가 특정한 소리를 내도록 프롬프트를 줄 수 있다는 아이디어가 마음에 든다”고 그는 말했다. “…말하자면 기타에게 말을 걸어 원하는 소리를 알려 주는 거다. 기술이 아직 거기까지 왔는지는 잘 모르겠지만, 두고 보자!”"
-          },
-          {
-            "t": "p",
-            "x": "신시사이저에 빗댄 설명도 했다. 신시사이저로 원하는 톤을 잡으려면 몇 시간이 걸리기도 하지만 AI-prompted 신스는 음질이 그만 못해도 몇 초면 된다. “무언가를 프롬프트로 지시한 다음 아날로그적인 일이 벌어진다는 아이디어가 좋다. 그게 나한테는 흥미롭다.”"
-          },
-          {
-            "t": "p",
-            "x": "NME에 따르면 Muse는 “The WOW! Signal Tour”에 이미 AI를 들였다. AI 시스템이 사운드 데스크를 맡아 일부 곡의 컨트롤과 볼륨 레벨을 조정하고 “Psycho” 도입부 연설도 한다."
-          },
-          {
-            "t": "p",
-            "x": "“내 아이들을 보면 이미 변화가 보이기 때문에 AI 음악은 그다지 걱정하지 않는다”고 그는 Guitar.com에 말했다. “진짜 뮤지션들이 연주하는 라이브 음악이 상승세를 탈 거라고 본다… 우리가 진짜라고 아는 건 그것뿐이니까.”"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Matt Bellamy wants a guitar\nhe can talk to about tone",
-          "body": "Muse's Matt Bellamy told Guitar.com he wants an AI guitar he can tell how he wants his tone to sound.",
-          "mini_headline": "Bellamy wants an AI guitar",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Speaking with Guitar.com, Bellamy discussed his vision for an AI guitar setup. “I like the idea of trying to integrate AI components into guitars, where you can prompt a guitar to sound a certain way,” he said. “…so you can essentially talk to your guitar and tell it how you want it to sound. I’m not quite sure the tech’s there yet, but we’ll see!”"
-              },
-              {
-                "t": "p",
-                "x": "He compared the idea to synthesizers, which can take hours to dial in the right tone, whereas AI-prompted synths can do it in seconds, though the sound quality isn’t as good. “I like the idea of prompting something, but then something analogue happens — that’s interesting to me.”"
-              },
-              {
-                "t": "p",
-                "x": "Muse have already embraced AI on “The WOW! Signal Tour,” according to NME: an AI system operates a sound desk, adjusting controls and volume levels on certain songs and delivering the speech at the beginning of “Psycho.”"
-              },
-              {
-                "t": "p",
-                "x": "“I’m not that worried about AI music because I can already see a change with my kids,” he told Guitar.com. “I think live music is going to be trending upwards, with real musicians playing… because it’s the only thing we know is real.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Matt Bellamy,\n말로 톤 바꾸는 기타 원해",
-          "body": "Bellamy는 Guitar.com에 말로 톤을 바꾸는 AI 기타를 바란다고 했다.",
-          "mini_headline": "Bellamy가 바라는 AI 기타",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Bellamy는 Guitar.com 인터뷰에서 AI 기타 셋업 구상을 털어놨다. “기타에 AI 요소를 접목해서, 기타가 특정한 소리를 내도록 프롬프트를 줄 수 있다는 아이디어가 마음에 든다”고 그는 말했다. “…말하자면 기타에게 말을 걸어 원하는 소리를 알려 주는 거다. 기술이 아직 거기까지 왔는지는 잘 모르겠지만, 두고 보자!”"
-              },
-              {
-                "t": "p",
-                "x": "신시사이저에 빗댄 설명도 했다. 신시사이저로 원하는 톤을 잡으려면 몇 시간이 걸리기도 하지만 AI-prompted 신스는 음질이 그만 못해도 몇 초면 된다. “무언가를 프롬프트로 지시한 다음 아날로그적인 일이 벌어진다는 아이디어가 좋다. 그게 나한테는 흥미롭다.”"
-              },
-              {
-                "t": "p",
-                "x": "NME에 따르면 Muse는 “The WOW! Signal Tour”에 이미 AI를 들였다. AI 시스템이 사운드 데스크를 맡아 일부 곡의 컨트롤과 볼륨 레벨을 조정하고 “Psycho” 도입부 연설도 한다."
-              },
-              {
-                "t": "p",
-                "x": "“내 아이들을 보면 이미 변화가 보이기 때문에 AI 음악은 그다지 걱정하지 않는다”고 그는 Guitar.com에 말했다. “진짜 뮤지션들이 연주하는 라이브 음악이 상승세를 탈 거라고 본다… 우리가 진짜라고 아는 건 그것뿐이니까.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Matt Bellamy\n話しかけて音作りするギター",
-          "body": "BellamyはGuitar.comに、音色を口頭で指示できるAIギターが欲しいと語った。",
-          "mini_headline": "Bellamy、AIギターを望む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "BellamyはGuitar.comの取材で、AIギターのセットアップ構想について語った。「ギターにAIの要素を組み込んで、特定の音を出すようギターにプロンプトを与えられるというアイデアが気に入っている」と彼は言う。「…つまり、ギターに話しかけて、どんな音にしたいかを伝えられるわけだ。技術がまだそこまで来ているかはわからないが、様子を見よう!」"
-              },
-              {
-                "t": "p",
-                "x": "彼はこのアイデアをシンセサイザーになぞらえた。シンセサイザーは狙った音色に追い込むまで何時間もかかることがあるが、AI-promptedのシンセは音質こそ劣るものの数秒でそれをこなす。「何かをプロンプトで指示して、そこからアナログな何かが起きるというアイデアが好きだ。それが自分には面白い」"
-              },
-              {
-                "t": "p",
-                "x": "NMEによると、Museはすでに「The WOW! Signal Tour」でAIを取り入れている。AIシステムがサウンドデスクを操作し、一部の曲でコントロールや音量レベルを調整するほか、「Psycho」冒頭のスピーチも担っている。"
-              },
-              {
-                "t": "p",
-                "x": "「自分の子どもたちを見ていると、すでに変化が見えているから、AI音楽についてはそれほど心配していない」と彼はGuitar.comに語った。「本物のミュージシャンが演奏するライブ音楽は上向いていくと思う…それが唯一、本物だとわかっているものだから」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Matt Bellamy\n想要能对话调音色的吉他",
-          "body": "Muse的Bellamy对Guitar.com说，想要能用语音设定音色的AI吉他。",
-          "mini_headline": "Bellamy想要AI吉他",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Bellamy在接受Guitar.com采访时，谈到了他对AI吉他配置的设想。“我喜欢把AI组件整合进吉他的想法，你可以通过提示让吉他发出某种特定的声音，”他说。“……这样你基本上就能和吉他对话，告诉它你想要什么样的声音。我不太确定技术是否已经到位，但走着瞧吧！”"
-              },
-              {
-                "t": "p",
-                "x": "他把这个想法比作合成器：合成器可能要花好几个小时才能调出合适的音色，而AI-prompted合成器几秒钟就能做到，只是音质没那么好。“我喜欢先给出提示，然后发生一些模拟的事情——这让我觉得很有意思。”"
-              },
-              {
-                "t": "p",
-                "x": "据NME报道，Muse已在“The WOW! Signal Tour”巡演中引入AI：一套AI系统操作调音台，在部分歌曲中调整控制参数和音量，并在“Psycho”开场时发表讲话。"
-              },
-              {
-                "t": "p",
-                "x": "“我不太担心AI音乐，因为我已经在孩子们身上看到了变化，”他对Guitar.com说。“我认为由真正的音乐人演奏的现场音乐会越来越受欢迎……因为这是我们唯一确知是真实的东西。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Matt Bellamy quiere una guitarra\na la que pedirle el tono",
-          "body": "Matt Bellamy, de Muse, dijo a Guitar.com que quiere una guitarra con AI a la que pueda decirle cómo quiere su tono.",
-          "mini_headline": "Bellamy quiere una guitarra con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En conversación con Guitar.com, Bellamy habló de su visión de una configuración de guitarra con AI. “Me gusta la idea de intentar integrar componentes de AI en las guitarras, de modo que puedas darle una instrucción a una guitarra para que suene de cierta manera”, dijo. “…así que, en esencia, puedes hablarle a tu guitarra y decirle cómo quieres que suene. No estoy muy seguro de que la tecnología esté ya ahí, ¡pero ya veremos!”"
-              },
-              {
-                "t": "p",
-                "x": "Comparó la idea con los sintetizadores, con los que se pueden tardar horas en dar con el tono adecuado, mientras que los sintetizadores AI-prompted pueden hacerlo en segundos, aunque la calidad de sonido no es tan buena. “Me gusta la idea de dar una instrucción y que luego ocurra algo analógico; eso me parece interesante”."
-              },
-              {
-                "t": "p",
-                "x": "Según NME, Muse ya ha incorporado la AI en “The WOW! Signal Tour”: un sistema de AI maneja una mesa de sonido, ajusta controles y niveles de volumen en ciertas canciones y pronuncia el discurso al comienzo de “Psycho”."
-              },
-              {
-                "t": "p",
-                "x": "“No me preocupa tanto la música hecha con AI porque ya veo un cambio en mis hijos”, dijo a Guitar.com. “Creo que la música en vivo va a ir en aumento, con músicos reales tocando… porque es lo único que sabemos que es real”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Matt Bellamy,\n말로 톤 바꾸는 기타 원해",
-          "body": "Bellamy는 Guitar.com에 말로 톤 정하는 AI 기타를 원한다고 했다.",
-          "mini_headline": "Bellamy가 바라는 AI 기타",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Bellamy는 Guitar.com과의 인터뷰에서 AI 기타 셋업에 대한 구상을 밝혔다. “기타에 AI 요소를 접목해서, 기타가 특정한 소리를 내도록 프롬프트를 줄 수 있다는 아이디어가 마음에 든다”고 그는 말했다. “…말하자면 기타에게 말을 걸어 원하는 소리를 알려 주는 거다. 기술이 아직 거기까지 왔는지는 잘 모르겠지만, 두고 보자!”"
-              },
-              {
-                "t": "p",
-                "x": "그는 이 아이디어를 신시사이저에 빗댔다. 신시사이저는 원하는 톤을 잡는 데 몇 시간이 걸리기도 하지만, AI-prompted 신스는 음질이 그만큼 좋지는 않아도 몇 초 만에 해낸다. “무언가를 프롬프트로 지시한 다음 아날로그적인 일이 벌어진다는 아이디어가 좋다. 그게 나한테는 흥미롭다.”"
-              },
-              {
-                "t": "p",
-                "x": "NME에 따르면 Muse는 이미 “The WOW! Signal Tour”에서 AI를 도입했다. AI 시스템이 사운드 데스크를 운용하며 일부 곡에서 컨트롤과 볼륨 레벨을 조정하고, “Psycho” 도입부의 연설도 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "“내 아이들을 보면 이미 변화가 보이기 때문에 AI 음악은 그다지 걱정하지 않는다”고 그는 Guitar.com에 말했다. “진짜 뮤지션들이 연주하는 라이브 음악이 상승세를 탈 거라고 본다… 우리가 진짜라고 아는 건 그것뿐이니까.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Matt Bellamy\n話しかけて音作りするギター",
-          "body": "BellamyはGuitar.comに、音色を口頭で指示できるAIギターが欲しいと語った。",
-          "mini_headline": "Bellamy、AIギターを望む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "BellamyはGuitar.comの取材で、AIギターのセットアップ構想について語った。「ギターにAIの要素を組み込んで、特定の音を出すようギターにプロンプトを与えられるというアイデアが気に入っている」と彼は言う。「…つまり、ギターに話しかけて、どんな音にしたいかを伝えられるわけだ。技術がまだそこまで来ているかはわからないが、様子を見よう!」"
-              },
-              {
-                "t": "p",
-                "x": "彼はこのアイデアをシンセサイザーになぞらえた。シンセサイザーは狙った音色に追い込むまで何時間もかかることがあるが、AI-promptedのシンセは音質こそ劣るものの数秒でそれをこなす。「何かをプロンプトで指示して、そこからアナログな何かが起きるというアイデアが好きだ。それが自分には面白い」"
-              },
-              {
-                "t": "p",
-                "x": "NMEによると、Museはすでに「The WOW! Signal Tour」でAIを取り入れている。AIシステムがサウンドデスクを操作し、一部の曲でコントロールや音量レベルを調整するほか、「Psycho」冒頭のスピーチも担っている。"
-              },
-              {
-                "t": "p",
-                "x": "「自分の子どもたちを見ていると、すでに変化が見えているから、AI音楽についてはそれほど心配していない」と彼はGuitar.comに語った。「本物のミュージシャンが演奏するライブ音楽は上向いていくと思う…それが唯一、本物だとわかっているものだから」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Matt Bellamy\n想要能对话调音色的吉他",
-          "body": "Muse的Bellamy对Guitar.com说，想要能用语音设定音色的AI吉他。",
-          "mini_headline": "Bellamy想要AI吉他",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Bellamy在接受Guitar.com采访时，谈到了他对AI吉他配置的设想。“我喜欢把AI组件整合进吉他的想法，你可以通过提示让吉他发出某种特定的声音，”他说。“……这样你基本上就能和吉他对话，告诉它你想要什么样的声音。我不太确定技术是否已经到位，但走着瞧吧！”"
-              },
-              {
-                "t": "p",
-                "x": "他把这个想法比作合成器：合成器可能要花好几个小时才能调出合适的音色，而AI-prompted合成器几秒钟就能做到，只是音质没那么好。“我喜欢先给出提示，然后发生一些模拟的事情——这让我觉得很有意思。”"
-              },
-              {
-                "t": "p",
-                "x": "据NME报道，Muse已在“The WOW! Signal Tour”巡演中引入AI：一套AI系统操作调音台，在部分歌曲中调整控制参数和音量，并在“Psycho”开场时发表讲话。"
-              },
-              {
-                "t": "p",
-                "x": "“我不太担心AI音乐，因为我已经在孩子们身上看到了变化，”他对Guitar.com说。“我认为由真正的音乐人演奏的现场音乐会越来越受欢迎……因为这是我们唯一确知是真实的东西。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Matt Bellamy quiere una guitarra\na la que pedirle el tono",
-          "body": "Matt Bellamy, de Muse, dijo a Guitar.com que quiere una guitarra con AI a la que pueda decirle cómo quiere su tono.",
-          "mini_headline": "Bellamy quiere una guitarra con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://consequence.net/wp-content/uploads/2026/11/Matt-Bellamy-of-Muse.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En conversación con Guitar.com, Bellamy habló de su visión de una configuración de guitarra con AI. “Me gusta la idea de intentar integrar componentes de AI en las guitarras, de modo que puedas darle una instrucción a una guitarra para que suene de cierta manera”, dijo. “…así que, en esencia, puedes hablarle a tu guitarra y decirle cómo quieres que suene. No estoy muy seguro de que la tecnología esté ya ahí, ¡pero ya veremos!”"
-              },
-              {
-                "t": "p",
-                "x": "Comparó la idea con los sintetizadores, con los que se pueden tardar horas en dar con el tono adecuado, mientras que los sintetizadores AI-prompted pueden hacerlo en segundos, aunque la calidad de sonido no es tan buena. “Me gusta la idea de dar una instrucción y que luego ocurra algo analógico; eso me parece interesante”."
-              },
-              {
-                "t": "p",
-                "x": "Según NME, Muse ya ha incorporado la AI en “The WOW! Signal Tour”: un sistema de AI maneja una mesa de sonido, ajusta controles y niveles de volumen en ciertas canciones y pronuncia el discurso al comienzo de “Psycho”."
-              },
-              {
-                "t": "p",
-                "x": "“No me preocupa tanto la música hecha con AI porque ya veo un cambio en mis hijos”, dijo a Guitar.com. “Creo que la música en vivo va a ir en aumento, con músicos reales tocando… porque es lo único que sabemos que es real”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "fstoppers-suno-youtube-switch",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "저작권 신고에 지친\nYouTuber Suno로",
-      "body": "산 음원도 신고가 쏟아지자 YouTuber가 Suno로 옮겨 더 낫다고 했다.",
-      "mini_headline": "YouTuber, 음원 라이브러리 대신 Suno",
-      "tool": "Music",
-      "source": "Fstoppers",
-      "url": "https://fstoppers.com/artificial-intelligence/copyright-trolls-pushed-me-ai-music-and-its-incredible-905613",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
             "t": "video",
-            "yt": "gWHvr4-LW18"
+            "yt": "aVwc_XtflWs"
           },
           {
             "t": "p",
-            "x": "YouTube 영상을 만든 지 15년이 넘었다. 12년이나 13년쯤 전부터 대중음악은 완전히 끊고 돈 주고 산 로열티 프리 음원으로 라이브러리를 꾸렸다. 여기 들어간 돈만 $10,000 넘을 것이다."
+            "x": "sonicLAB이 실시간 스파이킹 신경망을 중심에 둔 실험적 오디오 프로세서 SSNN(Spiking and Sounding Neural Network)의 2.0 버전을 내놓았다. 이번 업데이트에 새로 Neural Buffer FM, 추가 네트워크 컨트롤, 개별 음성 출력 네 개가 들어갔다."
           },
           {
             "t": "p",
-            "x": "그런데 신고가 수백 건씩 들어왔다. 십 년도 더 지난 영상, 그것도 합법적으로 라이선스를 받은 음악이 들어간 영상들이 갑자기 신고를 당했고, 그중에는 PremiumBeat에서 산 게 확실한 곡도 있었다. 이의를 제기했지만 졌다. 최근 몇 년은 영상에 음악을 아예 넣지 않았다."
+            "x": "SSNN은 32개 레이어에 걸쳐 배치된 960개 뉴런의 네트워크로 여덟 개의 합성 엔진을 실시간으로 구동한다. 들어온 오디오를 FFT로 분석해 그 스펙트럼 프로파일을 네트워크의 연결 가중치에 새긴다. 같은 오디오는 레이어별 버퍼에도 채워져 합성 엔진이 처리한다."
           },
           {
             "t": "p",
-            "x": "AI 음악이 몰라보게 좋아졌다는 얘기가 계속 들려 Suno를 써 봤다. 한 달에 $10인가 $20를 냈던 것 같고, 텍스트 프롬프트로 곡을 만들기 시작했다. 지난 15년 동안 합법적으로 산 어떤 곡보다 소리가 좋다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+            "x": "새 Neural Buffer FM 엔진은 뉴런 전압, 연결 가중치, 네트워크 스파이크가 빚어내는 오디오 레이트의 시간·피치 변조를 쓴다. 추가된 Layers Control과 Time Control 파라미터로는 네트워크 깊이, 순환 피드백, 포착된 스펙트럼 프레임의 분포를 조절한다. 음성 출력 네 개를 쓰면 네트워크의 네 열을 각기 다른 DAW 트랙으로 보낼 수 있다."
           },
           {
             "t": "p",
-            "x": "PremiumBeat 같은 사이트였다면 다른 영상 수천 개에도 등장할 곡 하나에 $80쯤을 냈을 것이다. Suno에서는 곡당 비용이 그 몇 분의 일에 그치고 곡도 온전히 내 것이 된다. 상업적 이용 권한은 Suno 유료 요금제에 들어 있으니 수익 창출 영상에 곡을 넣기 전에 약관을 꼭 읽어 봐야 한다."
-          },
-          {
-            "t": "p",
-            "x": "저작권 트롤 탓에 머지않아 YouTube 영상 거의 전부가 AI-generated 음악을 쓰게 될 것이다."
+            "x": "SSNN 2.0은 macOS와 Windows용 VST3, Audio Unit 포맷으로 제공된다. 기존 사용자에게는 무료 업데이트이며, 신규 라이선스는 £89 GBP다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Copyright claims push a\nYouTuber to Suno soundtracks",
-          "body": "After repeated copyright claims on licensed library music, a YouTuber switched to Suno and says it sounds better.",
-          "mini_headline": "YouTuber swaps library for Suno",
+          "headline": "sonicLAB's SSNN 2.0 adds\nNeural Buffer FM",
+          "body": "sonicLAB's SSNN 2.0, built on a live 960-neuron spiking neural network, adds Neural Buffer FM and four voice outputs.",
+          "mini_headline": "SSNN 2.0 adds neural FM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "gWHvr4-LW18"
+                "yt": "aVwc_XtflWs"
               },
               {
                 "t": "p",
-                "x": "I've been making YouTube videos for more than 15 years. About 12 or 13 years ago, we stopped using popular music entirely and built a library of royalty-free tracks we bought outright, and I believe I've spent more than $10,000 building that library."
+                "x": "sonicLAB has released version 2.0 of SSNN (Spiking and Sounding Neural Network), its experimental audio processor built around a live spiking neural network. The update introduces Neural Buffer FM, additional network controls and four individual voice outputs."
               },
               {
                 "t": "p",
-                "x": "Then the claims came in by the hundreds. Videos from more than a decade ago, with music I had legally licensed, were suddenly being claimed — including a song I know I bought from PremiumBeat. I disputed it and lost. For the last few years, I stopped using music in my videos at all."
+                "x": "SSNN uses a network of 960 neurons arranged across 32 layers to drive eight synthesis engines in real time. Incoming audio is analyzed using FFT, with its spectral profile written into the network’s connection weights, while the same audio fills per-layer buffers processed by the synthesis engines."
               },
               {
                 "t": "p",
-                "x": "I kept hearing that AI music had gotten incredibly good, so I tried Suno. I think I paid $10 or $20 for the month, and I started generating songs from text prompts. It sounds better than any song I've legally purchased in the last 15 years."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+                "x": "The new Neural Buffer FM engine uses audio-rate time and pitch modulation shaped by neural voltages, connection weights and network spikes. New Layers Control and Time Control parameters adjust network depth, recurrent feedback and the distribution of captured spectral frames. Four voice outputs let the network’s four columns be routed to separate DAW tracks."
               },
               {
                 "t": "p",
-                "x": "On a site like PremiumBeat, I'd pay around $80 for a song that would show up in thousands of other videos. With Suno, each song costs a fraction of that, and it's unique to me. Suno's paid plans are the ones that include commercial use, so read the terms before you put a track in a monetized video."
-              },
-              {
-                "t": "p",
-                "x": "Because of the copyright trolls, I think nearly every YouTube video will soon use AI-generated music."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "저작권 신고에 지친\nYouTuber Suno로",
-          "body": "산 음원도 신고가 쏟아지자 YouTuber가 Suno로 옮겨 더 낫다고 했다.",
-          "mini_headline": "YouTuber, 음원 라이브러리 대신 Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gWHvr4-LW18"
-              },
-              {
-                "t": "p",
-                "x": "YouTube 영상을 만든 지 15년이 넘었다. 12년이나 13년쯤 전부터 대중음악은 완전히 끊고 돈 주고 산 로열티 프리 음원으로 라이브러리를 꾸렸다. 여기 들어간 돈만 $10,000 넘을 것이다."
-              },
-              {
-                "t": "p",
-                "x": "그런데 신고가 수백 건씩 들어왔다. 십 년도 더 지난 영상, 그것도 합법적으로 라이선스를 받은 음악이 들어간 영상들이 갑자기 신고를 당했고, 그중에는 PremiumBeat에서 산 게 확실한 곡도 있었다. 이의를 제기했지만 졌다. 최근 몇 년은 영상에 음악을 아예 넣지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "AI 음악이 몰라보게 좋아졌다는 얘기가 계속 들려 Suno를 써 봤다. 한 달에 $10인가 $20를 냈던 것 같고, 텍스트 프롬프트로 곡을 만들기 시작했다. 지난 15년 동안 합법적으로 산 어떤 곡보다 소리가 좋다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
-              },
-              {
-                "t": "p",
-                "x": "PremiumBeat 같은 사이트였다면 다른 영상 수천 개에도 등장할 곡 하나에 $80쯤을 냈을 것이다. Suno에서는 곡당 비용이 그 몇 분의 일에 그치고 곡도 온전히 내 것이 된다. 상업적 이용 권한은 Suno 유료 요금제에 들어 있으니 수익 창출 영상에 곡을 넣기 전에 약관을 꼭 읽어 봐야 한다."
-              },
-              {
-                "t": "p",
-                "x": "저작권 트롤 탓에 머지않아 YouTube 영상 거의 전부가 AI-generated 음악을 쓰게 될 것이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "著作権申し立てで\nYouTuberがSunoへ",
-          "body": "ライセンス音源への著作権申し立てが続き、YouTuberがSunoに移り音も良いと語った。",
-          "mini_headline": "YouTuber、音源ライブラリからSunoへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gWHvr4-LW18"
-              },
-              {
-                "t": "p",
-                "x": "私は15年以上YouTube動画を作ってきた。12年か13年ほど前に人気曲の使用を完全にやめ、買い切りのロイヤリティフリー曲でライブラリを作った。そのライブラリには$10,000以上をつぎ込んだと思う。"
-              },
-              {
-                "t": "p",
-                "x": "ところが、申し立てが何百件も届いた。十年以上前の動画で、正規にライセンスを得た音楽が突然申し立てを受けたのだ。PremiumBeatで買ったと確信している曲も含まれていた。異議を申し立てたが、負けた。ここ数年は動画に音楽をまったく使わなくなった。"
-              },
-              {
-                "t": "p",
-                "x": "AI音楽がとんでもなく良くなったと何度も耳にしたので、Sunoを試した。月に$10か$20払ったと思う。テキストプロンプトから曲を生成し始めたが、この15年間に正規に買ったどの曲よりも音が良い。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
-              },
-              {
-                "t": "p",
-                "x": "PremiumBeatのようなサイトなら、他の何千本もの動画にも登場する曲一つに$80ほど払うことになる。Sunoなら曲ごとの費用はその何分の一かで、しかも自分だけの曲になる。商用利用が含まれるのはSunoの有料プランなので、収益化する動画に曲を使う前に規約を読んでおくべきだ。"
-              },
-              {
-                "t": "p",
-                "x": "著作権トロールのせいで、まもなくほぼすべてのYouTube動画がAI-generatedの音楽を使うようになると思う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "版权申诉不断\nYouTuber改用Suno",
-          "body": "授权曲库音乐屡遭版权申诉后，一位YouTuber改用Suno，并称声音更好。",
-          "mini_headline": "YouTuber弃曲库改用Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gWHvr4-LW18"
-              },
-              {
-                "t": "p",
-                "x": "我做YouTube视频已经超过15年了。大约12年或13年前，我们彻底不再使用流行音乐，而是建立了一个买断式的免版税音乐库，我想我为此花了超过$10,000。"
-              },
-              {
-                "t": "p",
-                "x": "后来，申诉数以百计地涌来。十多年前的视频里，那些我合法获得授权的音乐突然被认领——其中包括一首我确定是从PremiumBeat购买的歌。我提出了异议，但输了。过去几年，我干脆不在视频里用音乐了。"
-              },
-              {
-                "t": "p",
-                "x": "我不断听说AI音乐已经好得惊人，于是试了试Suno。我记得一个月付了$10还是$20，然后开始用文本提示生成歌曲。它听起来比我过去15年合法购买的任何一首歌都好。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
-              },
-              {
-                "t": "p",
-                "x": "在PremiumBeat这样的网站上，我大概要花$80买一首会出现在数以千计的其他视频里的歌。用Suno，每首歌的成本只是其零头，而且是我独有的。包含商业用途的是Suno的付费方案，所以在把曲子放进可获利视频之前，请先阅读条款。"
-              },
-              {
-                "t": "p",
-                "x": "由于版权流氓的存在，我认为很快几乎所有YouTube视频都会使用AI-generated音乐。"
+                "x": "SSNN 2.0 is available for macOS and Windows in VST3 and Audio Unit formats. It is a free update for existing owners; new licenses are £89 GBP."
               }
             ]
           }
         },
         "es": {
-          "headline": "Reclamos de copyright llevan a\nun YouTuber a la música de Suno",
-          "body": "Tras repetidos reclamos de copyright sobre música con licencia, un YouTuber se pasó a Suno y dice que suena mejor.",
-          "mini_headline": "Un YouTuber cambia su biblioteca por Suno",
+          "headline": "SSNN 2.0 de sonicLAB suma\nNeural Buffer FM",
+          "body": "El SSNN 2.0 de sonicLAB, con una red neuronal de 960 neuronas, suma Neural Buffer FM y cuatro salidas de voz.",
+          "mini_headline": "SSNN 2.0 suma FM neuronal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "gWHvr4-LW18"
+                "yt": "aVwc_XtflWs"
               },
               {
                 "t": "p",
-                "x": "Llevo más de 15 años haciendo videos de YouTube. Hace unos 12 o 13 años dejamos por completo de usar música popular y creamos una biblioteca de pistas libres de regalías que compramos en propiedad; creo que he gastado más de $10,000 en construir esa biblioteca."
+                "x": "sonicLAB lanzó la versión 2.0 de SSNN (Spiking and Sounding Neural Network), su procesador de audio experimental construido en torno a una red neuronal de impulsos en vivo. La actualización incorpora Neural Buffer FM, controles adicionales de la red y cuatro salidas de voz individuales."
               },
               {
                 "t": "p",
-                "x": "Entonces llegaron los reclamos por centenares. Videos de hace más de una década, con música cuya licencia había obtenido legalmente, empezaron de repente a recibir reclamos, incluida una canción que sé que compré en PremiumBeat. La impugné y perdí. En los últimos años dejé de usar música en mis videos por completo."
+                "x": "SSNN usa una red de 960 neuronas distribuidas en 32 capas para controlar ocho motores de síntesis en tiempo real. El audio entrante se analiza mediante FFT y su perfil espectral se escribe en los pesos de conexión de la red, mientras ese mismo audio llena búferes por capa que procesan los motores de síntesis."
               },
               {
                 "t": "p",
-                "x": "No dejaba de oír que la música con AI había mejorado muchísimo, así que probé Suno. Creo que pagué $10 o $20 por el mes y empecé a generar canciones a partir de instrucciones de texto. Suena mejor que cualquier canción que haya comprado legalmente en los últimos 15 años."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+                "x": "El nuevo motor Neural Buffer FM usa modulación de tiempo y tono a velocidad de audio, moldeada por voltajes neuronales, pesos de conexión y picos de la red. Los nuevos parámetros Layers Control y Time Control ajustan la profundidad de la red, la realimentación recurrente y la distribución de los fotogramas espectrales capturados. Cuatro salidas de voz permiten enviar las cuatro columnas de la red a pistas separadas de la DAW."
               },
               {
                 "t": "p",
-                "x": "En un sitio como PremiumBeat, pagaría unos $80 por una canción que aparecería en miles de otros videos. Con Suno, cada canción cuesta una fracción de eso y es exclusiva para mí. Los planes de pago de Suno son los que incluyen el uso comercial, así que lea los términos antes de poner una pista en un video monetizado."
+                "x": "SSNN 2.0 está disponible para macOS y Windows en formatos VST3 y Audio Unit. Es una actualización gratuita para quienes ya lo tienen; las licencias nuevas cuestan £89 GBP."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "sonicLAB SSNN\n2.0, 뉴럴 FM 추가",
+          "body": "SSNN 2.0이 960뉴런 신경망 위에 Neural Buffer FM을 더했다.",
+          "mini_headline": "SSNN 2.0에 neural FM 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "aVwc_XtflWs"
               },
               {
                 "t": "p",
-                "x": "Por culpa de los trols del copyright, creo que pronto casi todos los videos de YouTube usarán música AI-generated."
+                "x": "sonicLAB이 실시간 스파이킹 신경망을 중심에 둔 실험적 오디오 프로세서 SSNN(Spiking and Sounding Neural Network)의 2.0 버전을 내놓았다. 이번 업데이트에 새로 Neural Buffer FM, 추가 네트워크 컨트롤, 개별 음성 출력 네 개가 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "SSNN은 32개 레이어에 걸쳐 배치된 960개 뉴런의 네트워크로 여덟 개의 합성 엔진을 실시간으로 구동한다. 들어온 오디오를 FFT로 분석해 그 스펙트럼 프로파일을 네트워크의 연결 가중치에 새긴다. 같은 오디오는 레이어별 버퍼에도 채워져 합성 엔진이 처리한다."
+              },
+              {
+                "t": "p",
+                "x": "새 Neural Buffer FM 엔진은 뉴런 전압, 연결 가중치, 네트워크 스파이크가 빚어내는 오디오 레이트의 시간·피치 변조를 쓴다. 추가된 Layers Control과 Time Control 파라미터로는 네트워크 깊이, 순환 피드백, 포착된 스펙트럼 프레임의 분포를 조절한다. 음성 출력 네 개를 쓰면 네트워크의 네 열을 각기 다른 DAW 트랙으로 보낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "SSNN 2.0은 macOS와 Windows용 VST3, Audio Unit 포맷으로 제공된다. 기존 사용자에게는 무료 업데이트이며, 신규 라이선스는 £89 GBP다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "sonicLAB SSNN\n2.0にニューラルFM",
+          "body": "SSNN 2.0は960ニューロン網にNeural Buffer FMを加えた。",
+          "mini_headline": "SSNN 2.0にneural FMを追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "aVwc_XtflWs"
+              },
+              {
+                "t": "p",
+                "x": "sonicLABは、リアルタイムで動くスパイキングニューラルネットワークを核にした実験的オーディオプロセッサーSSNN(Spiking and Sounding Neural Network)のバージョン2.0をリリースした。今回のアップデートではNeural Buffer FM、ネットワーク制御の追加、四つの個別ボイス出力が導入された。"
+              },
+              {
+                "t": "p",
+                "x": "SSNNは32層にわたって配置された960個のニューロンからなるネットワークで、八つの合成エンジンをリアルタイムに駆動する。入力オーディオはFFTで解析され、そのスペクトル特性がネットワークの結合重みに書き込まれる。同時に同じオーディオが層ごとのバッファを満たし、合成エンジンがそれを処理する。"
+              },
+              {
+                "t": "p",
+                "x": "新しいNeural Buffer FMエンジンは、ニューロン電圧、結合重み、ネットワークのスパイクによって形づくられるオーディオレートの時間・ピッチ変調を用いる。新たなLayers ControlとTime Controlのパラメーターは、ネットワークの深さ、再帰フィードバック、取り込んだスペクトルフレームの分布を調整する。四つのボイス出力により、ネットワークの四つの列を別々のDAWトラックへ送れる。"
+              },
+              {
+                "t": "p",
+                "x": "SSNN 2.0はmacOSとWindows向けにVST3とAudio Unit形式で提供される。既存ユーザーには無料アップデートで、新規ライセンスは£89 GBPである。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "sonicLAB SSNN\n2.0新增神经FM",
+          "body": "sonicLAB的SSNN 2.0为960神经元网络新增Neural Buffer FM。",
+          "mini_headline": "SSNN 2.0新增neural FM",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "aVwc_XtflWs"
+              },
+              {
+                "t": "p",
+                "x": "sonicLAB发布了SSNN(Spiking and Sounding Neural Network)的2.0版本，这是一款以实时脉冲神经网络为核心的实验性音频处理器。此次更新引入了Neural Buffer FM、更多网络控制以及四路独立声部输出。"
+              },
+              {
+                "t": "p",
+                "x": "SSNN使用一个由960个神经元组成、分布在32层中的网络，实时驱动八个合成引擎。输入音频经FFT分析，其频谱特征被写入网络的连接权重，同时同一段音频填充各层缓冲区，再由合成引擎处理。"
+              },
+              {
+                "t": "p",
+                "x": "新的Neural Buffer FM引擎采用音频速率的时间与音高调制，由神经电压、连接权重和网络脉冲共同塑造。新增的Layers Control与Time Control参数用于调节网络深度、循环反馈以及所捕获频谱帧的分布。四路声部输出可将网络的四列分别送往不同的DAW音轨。"
+              },
+              {
+                "t": "p",
+                "x": "SSNN 2.0以VST3和Audio Unit格式支持macOS与Windows。现有用户可免费更新；新许可证售价£89 GBP。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "저작권 신고에 지친\nYouTuber Suno로",
-          "body": "음원에 저작권 신고가 잇따르자 YouTuber가 Suno로 옮겨 더 낫다고 했다.",
-          "mini_headline": "YouTuber, 음원 라이브러리 대신 Suno",
+        "es": {
+          "headline": "SSNN 2.0 de sonicLAB suma\nNeural Buffer FM",
+          "body": "El SSNN 2.0 de sonicLAB, con una red neuronal de 960 neuronas, suma Neural Buffer FM y cuatro salidas de voz.",
+          "mini_headline": "SSNN 2.0 suma FM neuronal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "gWHvr4-LW18"
+                "yt": "aVwc_XtflWs"
               },
               {
                 "t": "p",
-                "x": "나는 15년 넘게 YouTube 영상을 만들어 왔다. 12년이나 13년쯤 전부터는 대중음악을 완전히 끊고, 아예 사들인 로열티 프리 음원으로 라이브러리를 꾸렸다. 그 라이브러리를 만드는 데 $10,000 넘게 쓴 것 같다."
+                "x": "sonicLAB lanzó la versión 2.0 de SSNN (Spiking and Sounding Neural Network), su procesador de audio experimental construido en torno a una red neuronal de impulsos en vivo. La actualización incorpora Neural Buffer FM, controles adicionales de la red y cuatro salidas de voz individuales."
               },
               {
                 "t": "p",
-                "x": "그런데 신고가 수백 건씩 들어왔다. 십 년도 더 지난 영상, 그것도 합법적으로 라이선스를 받은 음악이 들어간 영상들이 갑자기 신고를 당했고, 그중에는 PremiumBeat에서 산 게 확실한 곡도 있었다. 이의를 제기했지만 졌다. 지난 몇 년 동안은 영상에 음악을 아예 쓰지 않았다."
+                "x": "SSNN usa una red de 960 neuronas distribuidas en 32 capas para controlar ocho motores de síntesis en tiempo real. El audio entrante se analiza mediante FFT y su perfil espectral se escribe en los pesos de conexión de la red, mientras ese mismo audio llena búferes por capa que procesan los motores de síntesis."
               },
               {
                 "t": "p",
-                "x": "AI 음악이 엄청나게 좋아졌다는 말을 계속 듣고 Suno를 써 봤다. 한 달에 $10인가 $20를 냈던 것 같고, 텍스트 프롬프트로 곡을 만들기 시작했다. 지난 15년 동안 합법적으로 산 어떤 곡보다 소리가 좋다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+                "x": "El nuevo motor Neural Buffer FM usa modulación de tiempo y tono a velocidad de audio, moldeada por voltajes neuronales, pesos de conexión y picos de la red. Los nuevos parámetros Layers Control y Time Control ajustan la profundidad de la red, la realimentación recurrente y la distribución de los fotogramas espectrales capturados. Cuatro salidas de voz permiten enviar las cuatro columnas de la red a pistas separadas de la DAW."
               },
               {
                 "t": "p",
-                "x": "PremiumBeat 같은 사이트였다면 다른 영상 수천 개에도 등장할 곡 하나에 $80쯤을 냈을 것이다. Suno에서는 곡당 비용이 그 일부에 불과하고, 나만의 곡이 된다. 상업적 이용이 포함된 것은 Suno의 유료 요금제이니, 수익 창출 영상에 곡을 넣기 전에 약관을 꼭 읽어 봐야 한다."
+                "x": "SSNN 2.0 está disponible para macOS y Windows en formatos VST3 y Audio Unit. Es una actualización gratuita para quienes ya lo tienen; las licencias nuevas cuestan £89 GBP."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "sonicLAB SSNN\n2.0, 뉴럴 FM 추가",
+          "body": "SSNN 2.0이 960뉴런 신경망 위에 Neural Buffer FM을 더했다.",
+          "mini_headline": "SSNN 2.0에 neural FM 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "aVwc_XtflWs"
               },
               {
                 "t": "p",
-                "x": "저작권 트롤 때문에 머지않아 거의 모든 YouTube 영상이 AI-generated 음악을 쓰게 될 것이라고 본다."
+                "x": "sonicLAB이 실시간 스파이킹 신경망을 중심에 둔 실험적 오디오 프로세서 SSNN(Spiking and Sounding Neural Network)의 2.0 버전을 내놓았다. 이번 업데이트에는 Neural Buffer FM, 추가 네트워크 컨트롤, 개별 음성 출력 네 개가 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "SSNN은 32개 레이어에 걸쳐 배치된 960개 뉴런의 네트워크로 여덟 개의 합성 엔진을 실시간으로 구동한다. 들어오는 오디오는 FFT로 분석되고 그 스펙트럼 프로파일이 네트워크의 연결 가중치에 기록되며, 같은 오디오가 레이어별 버퍼를 채워 합성 엔진이 이를 처리한다."
+              },
+              {
+                "t": "p",
+                "x": "새 Neural Buffer FM 엔진은 뉴런 전압, 연결 가중치, 네트워크 스파이크가 빚어내는 오디오 레이트의 시간·피치 변조를 쓴다. 새로 추가된 Layers Control과 Time Control 파라미터는 네트워크 깊이, 순환 피드백, 포착된 스펙트럼 프레임의 분포를 조절한다. 음성 출력 네 개를 쓰면 네트워크의 네 열을 각기 다른 DAW 트랙으로 보낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "SSNN 2.0은 macOS와 Windows용 VST3, Audio Unit 포맷으로 제공된다. 기존 사용자에게는 무료 업데이트이며, 신규 라이선스는 £89 GBP다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "著作権申し立てで\nYouTuberがSunoへ",
-          "body": "ライセンス音源への著作権申し立てが続き、YouTuberがSunoに移り音も良いと語った。",
-          "mini_headline": "YouTuber、音源ライブラリからSunoへ",
+          "headline": "sonicLAB SSNN\n2.0にニューラルFM",
+          "body": "SSNN 2.0は960ニューロン網にNeural Buffer FMを加えた。",
+          "mini_headline": "SSNN 2.0にneural FMを追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "gWHvr4-LW18"
+                "yt": "aVwc_XtflWs"
               },
               {
                 "t": "p",
-                "x": "私は15年以上YouTube動画を作ってきた。12年か13年ほど前に人気曲の使用を完全にやめ、買い切りのロイヤリティフリー曲でライブラリを作った。そのライブラリには$10,000以上をつぎ込んだと思う。"
+                "x": "sonicLABは、リアルタイムで動くスパイキングニューラルネットワークを核にした実験的オーディオプロセッサーSSNN(Spiking and Sounding Neural Network)のバージョン2.0をリリースした。今回のアップデートではNeural Buffer FM、ネットワーク制御の追加、四つの個別ボイス出力が導入された。"
               },
               {
                 "t": "p",
-                "x": "ところが、申し立てが何百件も届いた。十年以上前の動画で、正規にライセンスを得た音楽が突然申し立てを受けたのだ。PremiumBeatで買ったと確信している曲も含まれていた。異議を申し立てたが、負けた。ここ数年は動画に音楽をまったく使わなくなった。"
+                "x": "SSNNは32層にわたって配置された960個のニューロンからなるネットワークで、八つの合成エンジンをリアルタイムに駆動する。入力オーディオはFFTで解析され、そのスペクトル特性がネットワークの結合重みに書き込まれる。同時に同じオーディオが層ごとのバッファを満たし、合成エンジンがそれを処理する。"
               },
               {
                 "t": "p",
-                "x": "AI音楽がとんでもなく良くなったと何度も耳にしたので、Sunoを試した。月に$10か$20払ったと思う。テキストプロンプトから曲を生成し始めたが、この15年間に正規に買ったどの曲よりも音が良い。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+                "x": "新しいNeural Buffer FMエンジンは、ニューロン電圧、結合重み、ネットワークのスパイクによって形づくられるオーディオレートの時間・ピッチ変調を用いる。新たなLayers ControlとTime Controlのパラメーターは、ネットワークの深さ、再帰フィードバック、取り込んだスペクトルフレームの分布を調整する。四つのボイス出力により、ネットワークの四つの列を別々のDAWトラックへ送れる。"
               },
               {
                 "t": "p",
-                "x": "PremiumBeatのようなサイトなら、他の何千本もの動画にも登場する曲一つに$80ほど払うことになる。Sunoなら曲ごとの費用はその何分の一かで、しかも自分だけの曲になる。商用利用が含まれるのはSunoの有料プランなので、収益化する動画に曲を使う前に規約を読んでおくべきだ。"
-              },
-              {
-                "t": "p",
-                "x": "著作権トロールのせいで、まもなくほぼすべてのYouTube動画がAI-generatedの音楽を使うようになると思う。"
+                "x": "SSNN 2.0はmacOSとWindows向けにVST3とAudio Unit形式で提供される。既存ユーザーには無料アップデートで、新規ライセンスは£89 GBPである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "版权申诉不断\nYouTuber改用Suno",
-          "body": "授权曲库音乐屡遭版权申诉后，一位YouTuber改用Suno，并称声音更好。",
-          "mini_headline": "YouTuber弃曲库改用Suno",
+          "headline": "sonicLAB SSNN\n2.0新增神经FM",
+          "body": "sonicLAB的SSNN 2.0为960神经元网络新增Neural Buffer FM。",
+          "mini_headline": "SSNN 2.0新增neural FM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "gWHvr4-LW18"
+                "yt": "aVwc_XtflWs"
               },
               {
                 "t": "p",
-                "x": "我做YouTube视频已经超过15年了。大约12年或13年前，我们彻底不再使用流行音乐，而是建立了一个买断式的免版税音乐库，我想我为此花了超过$10,000。"
+                "x": "sonicLAB发布了SSNN(Spiking and Sounding Neural Network)的2.0版本，这是一款以实时脉冲神经网络为核心的实验性音频处理器。此次更新引入了Neural Buffer FM、更多网络控制以及四路独立声部输出。"
               },
               {
                 "t": "p",
-                "x": "后来，申诉数以百计地涌来。十多年前的视频里，那些我合法获得授权的音乐突然被认领——其中包括一首我确定是从PremiumBeat购买的歌。我提出了异议，但输了。过去几年，我干脆不在视频里用音乐了。"
+                "x": "SSNN使用一个由960个神经元组成、分布在32层中的网络，实时驱动八个合成引擎。输入音频经FFT分析，其频谱特征被写入网络的连接权重，同时同一段音频填充各层缓冲区，再由合成引擎处理。"
               },
               {
                 "t": "p",
-                "x": "我不断听说AI音乐已经好得惊人，于是试了试Suno。我记得一个月付了$10还是$20，然后开始用文本提示生成歌曲。它听起来比我过去15年合法购买的任何一首歌都好。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
+                "x": "新的Neural Buffer FM引擎采用音频速率的时间与音高调制，由神经电压、连接权重和网络脉冲共同塑造。新增的Layers Control与Time Control参数用于调节网络深度、循环反馈以及所捕获频谱帧的分布。四路声部输出可将网络的四列分别送往不同的DAW音轨。"
               },
               {
                 "t": "p",
-                "x": "在PremiumBeat这样的网站上，我大概要花$80买一首会出现在数以千计的其他视频里的歌。用Suno，每首歌的成本只是其零头，而且是我独有的。包含商业用途的是Suno的付费方案，所以在把曲子放进可获利视频之前，请先阅读条款。"
-              },
-              {
-                "t": "p",
-                "x": "由于版权流氓的存在，我认为很快几乎所有YouTube视频都会使用AI-generated音乐。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Reclamos de copyright llevan a\nun YouTuber a la música de Suno",
-          "body": "Tras repetidos reclamos de copyright sobre música con licencia, un YouTuber se pasó a Suno y dice que suena mejor.",
-          "mini_headline": "Un YouTuber cambia su biblioteca por Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gWHvr4-LW18"
-              },
-              {
-                "t": "p",
-                "x": "Llevo más de 15 años haciendo videos de YouTube. Hace unos 12 o 13 años dejamos por completo de usar música popular y creamos una biblioteca de pistas libres de regalías que compramos en propiedad; creo que he gastado más de $10,000 en construir esa biblioteca."
-              },
-              {
-                "t": "p",
-                "x": "Entonces llegaron los reclamos por centenares. Videos de hace más de una década, con música cuya licencia había obtenido legalmente, empezaron de repente a recibir reclamos, incluida una canción que sé que compré en PremiumBeat. La impugné y perdí. En los últimos años dejé de usar música en mis videos por completo."
-              },
-              {
-                "t": "p",
-                "x": "No dejaba de oír que la música con AI había mejorado muchísimo, así que probé Suno. Creo que pagué $10 o $20 por el mes y empecé a generar canciones a partir de instrucciones de texto. Suena mejor que cualquier canción que haya comprado legalmente en los últimos 15 años."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/11/20/suno-ai-music-workspace.jpg?itok=kcpmAqFI"
-              },
-              {
-                "t": "p",
-                "x": "En un sitio como PremiumBeat, pagaría unos $80 por una canción que aparecería en miles de otros videos. Con Suno, cada canción cuesta una fracción de eso y es exclusiva para mí. Los planes de pago de Suno son los que incluyen el uso comercial, así que lea los términos antes de poner una pista en un video monetizado."
-              },
-              {
-                "t": "p",
-                "x": "Por culpa de los trols del copyright, creo que pronto casi todos los videos de YouTube usarán música AI-generated."
+                "x": "SSNN 2.0以VST3和Audio Unit格式支持macOS与Windows。现有用户可免费更新；新许可证售价£89 GBP。"
               }
             ]
           }

@@ -1,215 +1,251 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "medicine",
   "cards": [
     {
-      "id": "northwell-stroke-ai-outcomes",
+      "id": "nhs-edith-breast-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "뇌졸중 AI, 영상만\n빨라지고 회복은 그대로",
-      "body": "AI 도구 다섯 종에 CT 혈관조영은 빨라졌지만 876명의 예후는 그대로였다.",
-      "mini_headline": "뇌졸중 AI, 빨라도 낫진 않았다",
+      "headline": "NHS, 유방암 검진\nAI 판독 시험 착수",
+      "body": "EDITH 시험이 영국 여성 약 70만 명을 모아 AI의 판독 대체를 검증한다.",
+      "mini_headline": "NHS, AI 유방 검진 시험",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "12월 2일 수요일 | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+            "t": "img",
+            "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+            "cap": "시험을 함께 이끄는 피오나 길버트 교수가 AI로 유방암 진단이 나아지는지 평가한다"
           },
           {
             "t": "p",
-            "x": "연구진은 이번 발표에서 포괄적 뇌졸중 센터에 AI 소프트웨어를 들였지만 환자 예후는 눈에 띄게 나아지지 않았다는 결과를 내놓는다."
+            "x": "영국 전역의 여성 약 70만 명이 세계 최대 규모의 시험에 초대된다. 인공지능이 유방암 검진을 어떻게 도울지 살피는 시험이다. EDITH 시험 참가자 모집은 영국 30개 시험 기관 중 첫 곳인 케임브리지대학병원에서 이미 시작됐다."
           },
           {
             "t": "p",
-            "x": "예후를 개선한다는 근거가 부족한데도 AI 도구는 뇌졸중처럼 시간이 중요한 질환에 널리 도입됐다고 Hofstra/Northwell의 Donald and Barbara Zucker School of Medicine 소속 발표자 Maria Sanmartin, PhD는 지적했다. 연구팀은 이를 따져 보려고 뉴욕 대도시권의 한 포괄적 뇌졸중 센터에서 AI 도구 다섯 종 도입 전후의 뇌졸중 예후를 비교했다."
+            "x": "지금은 NHS 전문가 두 명이 유방촬영 영상 한 장을 따로 판독한다. 이번 시험에서는 그중 한 명을 AI가 맡는다. 연구진은 AI 때문에 여성들이 불필요한 추가 검사에 다시 불려 오는 일이 없다는 확신이 필요하다고 말한다."
           },
           {
             "t": "p",
-            "x": "연구진은 2014년부터 2024년 사이 치료받은 급성 허혈성 뇌졸중 환자 876명을 후향적으로 분석했고, 도구 도입 기간에 진료받은 환자는 뺐다. 두 집단의 차이는 성향점수 매칭과 단절적 시계열 분석으로 보정했다."
+            "x": "길버트 교수는 \"해마다 수백만 명의 여성이 유방촬영을 받지만 암이 있는 사람은 1% 미만의 극소수\"라고 말했다. 영상의학 전문의는 \"크게 부족\"한데 영상 검사는 해마다 8%씩 는다고 BBC에 전했다."
+          },
+          {
+            "t": "img",
+            "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+            "cap": "셜리 에섹스는 정기 유방 검진 덕분에 목숨을 건졌다고 말한다"
           },
           {
             "t": "p",
-            "x": "다른 요인을 통제하자 AI 도입 뒤에도 퇴원 시 양호한 기능적 예후를 보일 확률과 퇴원 후 행선지에는 유의한 변화가 없었다. 반면 내원 60분 안에 CT 혈관조영을 마칠 확률은 AI 도입 시기가 시작되자 크게 뛰었다."
+            "x": "한 갈래에서는 AI 프로그램이 영상을 NHS 전문가에게 넘기기 전에 등급을 매기고, 다른 갈래에서는 판독이 끝난 영상을 다시 본다. £10m 규모의 시험 자금은 NIHR이 대며, 워릭대학교·케임브리지대학교·케임브리지대학병원이 NHS England와 함께 이끈다."
           },
           {
             "t": "p",
-            "x": "“AI 도구가 뇌졸중 진단을 앞당기고 업무 흐름을 간소화하며 의료진 간 협업을 강화한다는 기존 연구를 고려할 때, 이러한 변화가 예후에 영향을 미치는지 확인하려면 추가 연구가 필요하다”고 연구진은 썼다."
+            "x": "시험에는 AI 기업 네 곳이 참여한다. 기간은 약 3년으로 예상된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Stroke AI sped up imaging\nbut not patient recovery",
-          "body": "Five AI tools raised timely CT angiography at a stroke center, yet outcomes for 876 patients did not improve.",
-          "mini_headline": "Stroke AI: faster, not better",
+          "headline": "NHS tests AI as a second\nreader in breast screening",
+          "body": "Nearly 700,000 UK women will be invited into EDITH, testing whether AI can replace one of two mammogram readers.",
+          "mini_headline": "NHS trials AI breast screening",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Wednesday, December 2 | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "Prof Fiona Gilbert, who is co-leading the trial, will assess if AI can improve breast cancer diagnosis"
               },
               {
                 "t": "p",
-                "x": "In this presentation, researchers will share how implementing AI software at a comprehensive stroke center didn’t measurably improve patient outcomes."
+                "x": "Nearly 700,000 women across the UK are to be invited to join the world's largest trial of how artificial intelligence can help in breast cancer screening. Recruitment to the EDITH trial has already begun at Cambridge University Hospitals, the first of 30 sites across the UK."
               },
               {
                 "t": "p",
-                "x": "AI tools have been widely adopted for time-sensitive conditions like stroke, despite a lack of evidence that they improve outcomes, noted presenter Maria Sanmartin, PhD, of the Donald and Barbara Zucker School of Medicine at Hofstra/Northwell. To investigate, the research team compared stroke outcomes before and after five AI tools were introduced at a comprehensive stroke center in the New York metropolitan area."
+                "x": "At present two NHS experts look at each mammogram, but in the trial, one of the human readers will be replaced by AI. Researchers say they need to be sure it won't cause harm by leading to women being recalled unnecessarily for further tests."
               },
               {
                 "t": "p",
-                "x": "The researchers retrospectively analyzed 876 patients with acute ischemic stroke treated between 2014 and 2024, excluding those seen while the tools were being rolled out. They used propensity score matching and interrupted time-series analysis to account for differences between the two groups."
+                "x": "Prof Gilbert said: \"Millions of women have a mammogram each year and only a small number, less than 1%, will have cancer.\" She told the BBC there was a \"huge shortfall\" in radiologists and that imaging examinations were increasing by 8% a year."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "Shirley Essex says routine breast screening saved her life"
               },
               {
                 "t": "p",
-                "x": "After controlling for other factors, the researchers found no significant change in the odds of a good functional outcome at discharge, or in discharge disposition, after AI implementation. The odds of completing CT angiography within 60 minutes of arrival did, however, rise sharply when the AI period began."
+                "x": "In one arm of the trial, an AI programme will grade images before they are sent to NHS experts. In another, it will review images afterwards. The £10m trial is funded by the NIHR and led by the University of Warwick, the University of Cambridge and Cambridge University Hospitals, working with NHS England."
               },
               {
                 "t": "p",
-                "x": "“Given prior research demonstrating that AI tools expedite stroke diagnosis, streamline workflows, and enhance collaboration among medical teams, further investigation is warranted to determine whether these changes impact outcomes,” the researchers wrote."
+                "x": "Four AI companies are involved in the trial, which is expected to last around three years."
               }
             ]
           }
         },
         "ko": {
-          "headline": "뇌졸중 AI, 영상만\n빨라지고 회복은 그대로",
-          "body": "AI 도구 다섯 종에 CT 혈관조영은 빨라졌지만 876명의 예후는 그대로였다.",
-          "mini_headline": "뇌졸중 AI, 빨라도 낫진 않았다",
+          "headline": "NHS, 유방암 검진\nAI 판독 시험 착수",
+          "body": "EDITH 시험이 영국 여성 약 70만 명을 모아 AI의 판독 대체를 검증한다.",
+          "mini_headline": "NHS, AI 유방 검진 시험",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12월 2일 수요일 | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "시험을 함께 이끄는 피오나 길버트 교수가 AI로 유방암 진단이 나아지는지 평가한다"
               },
               {
                 "t": "p",
-                "x": "연구진은 이번 발표에서 포괄적 뇌졸중 센터에 AI 소프트웨어를 들였지만 환자 예후는 눈에 띄게 나아지지 않았다는 결과를 내놓는다."
+                "x": "영국 전역의 여성 약 70만 명이 세계 최대 규모의 시험에 초대된다. 인공지능이 유방암 검진을 어떻게 도울지 살피는 시험이다. EDITH 시험 참가자 모집은 영국 30개 시험 기관 중 첫 곳인 케임브리지대학병원에서 이미 시작됐다."
               },
               {
                 "t": "p",
-                "x": "예후를 개선한다는 근거가 부족한데도 AI 도구는 뇌졸중처럼 시간이 중요한 질환에 널리 도입됐다고 Hofstra/Northwell의 Donald and Barbara Zucker School of Medicine 소속 발표자 Maria Sanmartin, PhD는 지적했다. 연구팀은 이를 따져 보려고 뉴욕 대도시권의 한 포괄적 뇌졸중 센터에서 AI 도구 다섯 종 도입 전후의 뇌졸중 예후를 비교했다."
+                "x": "지금은 NHS 전문가 두 명이 유방촬영 영상 한 장을 따로 판독한다. 이번 시험에서는 그중 한 명을 AI가 맡는다. 연구진은 AI 때문에 여성들이 불필요한 추가 검사에 다시 불려 오는 일이 없다는 확신이 필요하다고 말한다."
               },
               {
                 "t": "p",
-                "x": "연구진은 2014년부터 2024년 사이 치료받은 급성 허혈성 뇌졸중 환자 876명을 후향적으로 분석했고, 도구 도입 기간에 진료받은 환자는 뺐다. 두 집단의 차이는 성향점수 매칭과 단절적 시계열 분석으로 보정했다."
+                "x": "길버트 교수는 \"해마다 수백만 명의 여성이 유방촬영을 받지만 암이 있는 사람은 1% 미만의 극소수\"라고 말했다. 영상의학 전문의는 \"크게 부족\"한데 영상 검사는 해마다 8%씩 는다고 BBC에 전했다."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "셜리 에섹스는 정기 유방 검진 덕분에 목숨을 건졌다고 말한다"
               },
               {
                 "t": "p",
-                "x": "다른 요인을 통제하자 AI 도입 뒤에도 퇴원 시 양호한 기능적 예후를 보일 확률과 퇴원 후 행선지에는 유의한 변화가 없었다. 반면 내원 60분 안에 CT 혈관조영을 마칠 확률은 AI 도입 시기가 시작되자 크게 뛰었다."
+                "x": "한 갈래에서는 AI 프로그램이 영상을 NHS 전문가에게 넘기기 전에 등급을 매기고, 다른 갈래에서는 판독이 끝난 영상을 다시 본다. £10m 규모의 시험 자금은 NIHR이 대며, 워릭대학교·케임브리지대학교·케임브리지대학병원이 NHS England와 함께 이끈다."
               },
               {
                 "t": "p",
-                "x": "“AI 도구가 뇌졸중 진단을 앞당기고 업무 흐름을 간소화하며 의료진 간 협업을 강화한다는 기존 연구를 고려할 때, 이러한 변화가 예후에 영향을 미치는지 확인하려면 추가 연구가 필요하다”고 연구진은 썼다."
+                "x": "시험에는 AI 기업 네 곳이 참여한다. 기간은 약 3년으로 예상된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脳卒中AI、画像は速く\n回復は変わらず",
-          "body": "五つのAIツールでCT血管造影は迅速化したが、患者876人の転帰は改善しなかった。",
-          "mini_headline": "脳卒中AI：速いが良くはない",
+          "headline": "NHS、乳がん検診で\nAIの二次読影を試験",
+          "body": "英国の女性約70万人を招くEDITH試験で、AIが読影者一人を代替できるか検証する。",
+          "mini_headline": "NHS、AI乳がん検診を試験",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12月2日（水） | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "試験を共同で率いるフィオナ・ギルバート教授は、AIが乳がん診断を改善できるかを評価する"
               },
               {
                 "t": "p",
-                "x": "本発表では、包括的脳卒中センターでのAIソフトウェア導入が患者の転帰を目に見えて改善しなかったことを研究者らが報告する。"
+                "x": "英国全土で約70万人の女性が、人工知能が乳がん検診にどう役立つかを調べる世界最大の試験への参加を呼びかけられる。EDITH試験の参加者募集は、英国内30施設のうち最初となるケンブリッジ大学病院ですでに始まっている。"
               },
               {
                 "t": "p",
-                "x": "AIツールは転帰を改善するという根拠が乏しいにもかかわらず、脳卒中のように一刻を争う疾患で広く採用されてきたと、Hofstra/NorthwellのDonald and Barbara Zucker School of Medicineに所属する発表者Maria Sanmartin, PhDは指摘した。これを検証するため、研究チームはニューヨーク都市圏の包括的脳卒中センターで、五つのAIツールの導入前後の脳卒中転帰を比較した。"
+                "x": "現在はNHSの専門医二人がマンモグラフィー画像を一枚ずつ読影しているが、この試験では人間の読影者の一人をAIが担う。研究者らは、不要な追加検査のために女性が呼び戻されるといった害が生じないことを確かめる必要があるとしている。"
               },
               {
                 "t": "p",
-                "x": "研究者らは2014年から2024年に治療を受けた急性虚血性脳卒中患者876人を後ろ向きに解析し、ツール導入期間中に受診した患者は除外した。両群間の差を調整するため、傾向スコアマッチングと分割時系列解析を用いた。"
+                "x": "ギルバート教授は「毎年何百万人もの女性がマンモグラフィーを受けるが、がんが見つかるのは1%未満のごく一部だ」と述べた。BBCに対しては、放射線科医が「大幅に不足」しており、画像検査は年8%のペースで増えていると語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "シャーリー・エセックスさんは、定期的な乳がん検診に命を救われたと語る"
               },
               {
                 "t": "p",
-                "x": "他の要因を調整した結果、AI導入後に退院時の良好な機能的転帰が得られるオッズにも、退院先にも有意な変化はなかった。一方、来院から60分以内にCT血管造影を完了するオッズは、AI期間の開始とともに急上昇した。"
+                "x": "試験の一方の群では、AIプログラムが画像をNHSの専門医に送る前に評価する。もう一方の群では、読影後に画像を見直す。£10m 規模のこの試験はNIHRが資金を提供し、ウォーリック大学、ケンブリッジ大学、ケンブリッジ大学病院がNHS Englandと連携して主導する。"
               },
               {
                 "t": "p",
-                "x": "「AIツールが脳卒中の診断を早め、ワークフローを効率化し、医療チーム間の連携を高めることを示した先行研究を踏まえると、こうした変化が転帰に影響するかを明らかにするにはさらなる調査が必要だ」と研究者らは記している。"
+                "x": "試験にはAI企業4社が参加し、期間はおよそ3年の見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "卒中AI加快了影像检查\n却没改善患者康复",
-          "body": "五款AI工具让卒中中心及时完成CT血管造影的比例上升，但876名患者的预后并未改善。",
-          "mini_headline": "卒中AI：更快，却未更好",
+          "headline": "NHS试点让AI担任\n乳腺筛查第二读片人",
+          "body": "英国近70万名女性将受邀加入EDITH试验，检验AI能否替代两名乳房X光读片者之一。",
+          "mini_headline": "NHS试点AI乳腺筛查",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12月2日（周三） | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "共同主持试验的菲奥娜·吉尔伯特教授将评估AI能否改善乳腺癌诊断"
               },
               {
                 "t": "p",
-                "x": "在本场报告中，研究人员将介绍在一家综合卒中中心引入AI软件后，患者预后为何未出现可衡量的改善。"
+                "x": "英国各地近70万名女性将受邀参加全球规模最大的人工智能辅助乳腺癌筛查试验。EDITH试验已在剑桥大学医院启动招募，这是英国30个试验点中的第一个。"
               },
               {
                 "t": "p",
-                "x": "报告人、Hofstra/Northwell旗下Donald and Barbara Zucker School of Medicine的Maria Sanmartin, PhD指出，尽管缺乏AI工具能改善预后的证据，这类工具已在卒中等时间敏感型疾病中被广泛采用。为此，研究团队比较了纽约都会区一家综合卒中中心引入五款AI工具前后的卒中预后。"
+                "x": "目前每张乳房X光片由两名NHS专家分别判读，而在试验中，其中一名人工读片者将由AI替代。研究人员表示，必须确保AI不会造成伤害，例如导致女性被不必要地召回做进一步检查。"
               },
               {
                 "t": "p",
-                "x": "研究人员回顾性分析了2014年至2024年间接受治疗的876名急性缺血性卒中患者，并排除了工具推行期间就诊的患者。他们采用倾向评分匹配和间断时间序列分析来校正两组之间的差异。"
+                "x": "吉尔伯特教授说：“每年有数以百万计的女性接受乳房X光检查，其中只有极少数、不到1%的人患有癌症。”她告诉BBC，放射科医生存在“巨大缺口”，而影像检查每年增长8%。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "雪莉·埃塞克斯说，常规乳腺筛查救了她的命"
               },
               {
                 "t": "p",
-                "x": "在控制其他因素后，研究人员发现，引入AI后，出院时获得良好功能结局的几率以及出院去向均无显著变化。不过，到院后60分钟内完成CT血管造影的几率在AI时期开始时大幅上升。"
+                "x": "在试验的一组中，AI程序会在影像送交NHS专家之前进行分级；在另一组中，AI则在专家判读之后复核影像。这项耗资£10m 的试验由NIHR资助，由华威大学、剑桥大学和剑桥大学医院牵头，并与NHS England合作。"
               },
               {
                 "t": "p",
-                "x": "“鉴于此前研究表明AI工具能加快卒中诊断、简化工作流程并加强医疗团队协作，有必要进一步研究这些变化是否影响预后，”研究人员写道。"
+                "x": "共有四家AI公司参与该试验，预计为期约三年。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI en ictus: imagen más rápida\nsin mejorar la recuperación",
-          "body": "Cinco herramientas de AI agilizaron la angiografía por CT, pero no mejoraron la evolución de 876 pacientes.",
-          "mini_headline": "AI en ictus: más rápida, no mejor",
+          "headline": "El NHS prueba la IA como\nsegundo lector en mamografías",
+          "body": "Casi 700.000 mujeres británicas serán invitadas a EDITH, que evalúa si la IA puede sustituir a uno de dos lectores.",
+          "mini_headline": "El NHS prueba la IA en el cribado de mama",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Miércoles, 2 de diciembre | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "La profesora Fiona Gilbert, que codirige el ensayo, evaluará si la IA puede mejorar el diagnóstico del cáncer de mama"
               },
               {
                 "t": "p",
-                "x": "En esta presentación, los investigadores explicarán cómo la implantación de software de AI en un centro integral de ictus no mejoró de forma medible la evolución de los pacientes."
+                "x": "Casi 700.000 mujeres de todo el Reino Unido serán invitadas a participar en el mayor ensayo del mundo sobre cómo la inteligencia artificial puede ayudar en el cribado del cáncer de mama. El reclutamiento para el ensayo EDITH ya ha comenzado en Cambridge University Hospitals, el primero de 30 centros en el Reino Unido."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de AI se han adoptado ampliamente en afecciones en las que el tiempo es crítico, como el ictus, pese a la falta de pruebas de que mejoren los resultados, señaló la ponente Maria Sanmartin, PhD, de la Donald and Barbara Zucker School of Medicine at Hofstra/Northwell. Para investigarlo, el equipo comparó los resultados del ictus antes y después de introducir cinco herramientas de AI en un centro integral de ictus del área metropolitana de Nueva York."
+                "x": "Actualmente, dos expertos del NHS examinan cada mamografía, pero en el ensayo uno de los lectores humanos será sustituido por la IA. Los investigadores afirman que deben asegurarse de que no cause daños al hacer que se vuelva a citar a mujeres innecesariamente para más pruebas."
               },
               {
                 "t": "p",
-                "x": "Los investigadores analizaron de forma retrospectiva a 876 pacientes con ictus isquémico agudo tratados entre 2014 y 2024, excluyendo a los atendidos mientras se implantaban las herramientas. Usaron emparejamiento por puntuación de propensión y análisis de series temporales interrumpidas para ajustar las diferencias entre ambos grupos."
+                "x": "La profesora Gilbert dijo: \"Millones de mujeres se hacen una mamografía cada año y solo un pequeño número, menos del 1%, tendrá cáncer\". Contó a la BBC que hay un \"enorme déficit\" de radiólogos y que las pruebas de imagen aumentan un 8% al año."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "Shirley Essex afirma que el cribado mamario rutinario le salvó la vida"
               },
               {
                 "t": "p",
-                "x": "Tras controlar otros factores, no hallaron cambios significativos en la probabilidad de un buen resultado funcional al alta ni en el destino al alta tras implantar la AI. En cambio, la probabilidad de completar la angiografía por CT en los 60 minutos siguientes a la llegada aumentó de forma marcada al comenzar el periodo con AI."
+                "x": "En un brazo del ensayo, un programa de IA calificará las imágenes antes de enviarlas a los expertos del NHS. En otro, las revisará después. El ensayo, de £10m, está financiado por el NIHR y lo dirigen la Universidad de Warwick, la Universidad de Cambridge y Cambridge University Hospitals, en colaboración con NHS England."
               },
               {
                 "t": "p",
-                "x": "«Dado que investigaciones previas demuestran que las herramientas de AI agilizan el diagnóstico del ictus, simplifican los flujos de trabajo y mejoran la colaboración entre los equipos médicos, se justifica seguir investigando si estos cambios influyen en los resultados», escribieron los investigadores."
+                "x": "En el ensayo participan cuatro empresas de IA y se prevé que dure unos tres años."
               }
             ]
           }
@@ -217,137 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "뇌졸중 AI, 영상만\n빨라지고 회복은 그대로",
-          "body": "AI 도구 다섯 종으로 CT 혈관조영은 빨라졌지만 876명의 예후는 그대로였다.",
-          "mini_headline": "뇌졸중 AI: 빨라도 낫진 않다",
+          "headline": "NHS, 유방암 검진\nAI 판독 시험 착수",
+          "body": "EDITH 시험은 영국 여성 약 70만 명을 초대해 AI의 판독 대체를 검증한다.",
+          "mini_headline": "NHS, AI 유방 검진 시험",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12월 2일 수요일 | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "시험을 공동으로 이끄는 피오나 길버트 교수는 AI가 유방암 진단을 개선할 수 있는지 평가한다"
               },
               {
                 "t": "p",
-                "x": "이 발표에서 연구진은 포괄적 뇌졸중 센터에 AI 소프트웨어를 도입했지만 환자 예후가 눈에 띄게 나아지지 않았다는 결과를 공유한다."
+                "x": "영국 전역에서 약 70만 명의 여성이 인공지능이 유방암 검진을 어떻게 도울 수 있는지 살피는 세계 최대 규모의 시험에 초대된다. EDITH 시험 참가자 모집은 영국 내 30개 시험 기관 가운데 첫 번째인 케임브리지대학병원에서 이미 시작됐다."
               },
               {
                 "t": "p",
-                "x": "AI 도구는 예후를 개선한다는 근거가 부족한데도 뇌졸중처럼 시간이 중요한 질환에 널리 도입됐다고 Hofstra/Northwell의 Donald and Barbara Zucker School of Medicine 소속 발표자 Maria Sanmartin, PhD는 지적했다. 이를 확인하려고 연구팀은 뉴욕 대도시권의 한 포괄적 뇌졸중 센터에서 AI 도구 다섯 종을 도입하기 전과 후의 뇌졸중 예후를 비교했다."
+                "x": "현재는 NHS 전문가 두 명이 유방촬영 영상 한 장을 각각 판독하지만, 이번 시험에서는 사람 판독자 한 명을 AI가 대신한다. 연구진은 AI가 여성들을 불필요한 추가 검사로 다시 부르는 피해를 낳지 않는다는 확신이 필요하다고 말한다."
               },
               {
                 "t": "p",
-                "x": "연구진은 2014년부터 2024년 사이 치료받은 급성 허혈성 뇌졸중 환자 876명을 후향적으로 분석했으며, 도구를 도입하던 기간에 진료받은 환자는 제외했다. 두 집단 간 차이를 보정하려고 성향점수 매칭과 단절적 시계열 분석을 사용했다."
+                "x": "길버트 교수는 \"해마다 수백만 명의 여성이 유방촬영을 받지만 암이 있는 사람은 1% 미만의 극소수\"라고 말했다. 그는 BBC에 영상의학 전문의가 \"크게 부족\"하며 영상 검사가 해마다 8%씩 늘고 있다고 전했다."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "셜리 에섹스는 정기 유방 검진이 자신의 목숨을 구했다고 말한다"
               },
               {
                 "t": "p",
-                "x": "다른 요인을 통제한 결과, AI 도입 뒤 퇴원 시 양호한 기능적 예후를 보일 확률과 퇴원 후 행선지에는 유의한 변화가 없었다. 다만 내원 후 60분 이내에 CT 혈관조영을 마칠 확률은 AI 도입 시기가 시작되자 크게 올랐다."
+                "x": "시험의 한 갈래에서는 AI 프로그램이 영상을 NHS 전문가에게 보내기 전에 등급을 매긴다. 다른 갈래에서는 판독이 끝난 뒤 영상을 다시 검토한다. £10m 규모의 이 시험은 NIHR이 자금을 대고, 워릭대학교·케임브리지대학교·케임브리지대학병원이 NHS England와 함께 이끈다."
               },
               {
                 "t": "p",
-                "x": "“AI 도구가 뇌졸중 진단을 앞당기고 업무 흐름을 간소화하며 의료진 간 협업을 강화한다는 기존 연구를 고려할 때, 이러한 변화가 예후에 영향을 미치는지 확인하려면 추가 연구가 필요하다”고 연구진은 썼다."
+                "x": "이번 시험에는 AI 기업 네 곳이 참여하며, 기간은 약 3년으로 예상된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脳卒中AI、画像は速く\n回復は変わらず",
-          "body": "五つのAIツールでCT血管造影は迅速化したが、患者876人の転帰は改善しなかった。",
-          "mini_headline": "脳卒中AI：速いが良くはない",
+          "headline": "NHS、乳がん検診で\nAIの二次読影を試験",
+          "body": "英国の女性約70万人を招くEDITH試験で、AIが読影者一人を代替できるか検証する。",
+          "mini_headline": "NHS、AI乳がん検診を試験",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12月2日（水） | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "試験を共同で率いるフィオナ・ギルバート教授は、AIが乳がん診断を改善できるかを評価する"
               },
               {
                 "t": "p",
-                "x": "本発表では、包括的脳卒中センターでのAIソフトウェア導入が患者の転帰を目に見えて改善しなかったことを研究者らが報告する。"
+                "x": "英国全土で約70万人の女性が、人工知能が乳がん検診にどう役立つかを調べる世界最大の試験への参加を呼びかけられる。EDITH試験の参加者募集は、英国内30施設のうち最初となるケンブリッジ大学病院ですでに始まっている。"
               },
               {
                 "t": "p",
-                "x": "AIツールは転帰を改善するという根拠が乏しいにもかかわらず、脳卒中のように一刻を争う疾患で広く採用されてきたと、Hofstra/NorthwellのDonald and Barbara Zucker School of Medicineに所属する発表者Maria Sanmartin, PhDは指摘した。これを検証するため、研究チームはニューヨーク都市圏の包括的脳卒中センターで、五つのAIツールの導入前後の脳卒中転帰を比較した。"
+                "x": "現在はNHSの専門医二人がマンモグラフィー画像を一枚ずつ読影しているが、この試験では人間の読影者の一人をAIが担う。研究者らは、不要な追加検査のために女性が呼び戻されるといった害が生じないことを確かめる必要があるとしている。"
               },
               {
                 "t": "p",
-                "x": "研究者らは2014年から2024年に治療を受けた急性虚血性脳卒中患者876人を後ろ向きに解析し、ツール導入期間中に受診した患者は除外した。両群間の差を調整するため、傾向スコアマッチングと分割時系列解析を用いた。"
+                "x": "ギルバート教授は「毎年何百万人もの女性がマンモグラフィーを受けるが、がんが見つかるのは1%未満のごく一部だ」と述べた。BBCに対しては、放射線科医が「大幅に不足」しており、画像検査は年8%のペースで増えていると語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "シャーリー・エセックスさんは、定期的な乳がん検診に命を救われたと語る"
               },
               {
                 "t": "p",
-                "x": "他の要因を調整した結果、AI導入後に退院時の良好な機能的転帰が得られるオッズにも、退院先にも有意な変化はなかった。一方、来院から60分以内にCT血管造影を完了するオッズは、AI期間の開始とともに急上昇した。"
+                "x": "試験の一方の群では、AIプログラムが画像をNHSの専門医に送る前に評価する。もう一方の群では、読影後に画像を見直す。£10m 規模のこの試験はNIHRが資金を提供し、ウォーリック大学、ケンブリッジ大学、ケンブリッジ大学病院がNHS Englandと連携して主導する。"
               },
               {
                 "t": "p",
-                "x": "「AIツールが脳卒中の診断を早め、ワークフローを効率化し、医療チーム間の連携を高めることを示した先行研究を踏まえると、こうした変化が転帰に影響するかを明らかにするにはさらなる調査が必要だ」と研究者らは記している。"
+                "x": "試験にはAI企業4社が参加し、期間はおよそ3年の見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "卒中AI加快了影像检查\n却没改善患者康复",
-          "body": "五款AI工具让卒中中心及时完成CT血管造影的比例上升，但876名患者的预后并未改善。",
-          "mini_headline": "卒中AI：更快，却未更好",
+          "headline": "NHS试点让AI担任\n乳腺筛查第二读片人",
+          "body": "英国近70万名女性将受邀加入EDITH试验，检验AI能否替代两名乳房X光读片者之一。",
+          "mini_headline": "NHS试点AI乳腺筛查",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12月2日（周三） | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "共同主持试验的菲奥娜·吉尔伯特教授将评估AI能否改善乳腺癌诊断"
               },
               {
                 "t": "p",
-                "x": "在本场报告中，研究人员将介绍在一家综合卒中中心引入AI软件后，患者预后为何未出现可衡量的改善。"
+                "x": "英国各地近70万名女性将受邀参加全球规模最大的人工智能辅助乳腺癌筛查试验。EDITH试验已在剑桥大学医院启动招募，这是英国30个试验点中的第一个。"
               },
               {
                 "t": "p",
-                "x": "报告人、Hofstra/Northwell旗下Donald and Barbara Zucker School of Medicine的Maria Sanmartin, PhD指出，尽管缺乏AI工具能改善预后的证据，这类工具已在卒中等时间敏感型疾病中被广泛采用。为此，研究团队比较了纽约都会区一家综合卒中中心引入五款AI工具前后的卒中预后。"
+                "x": "目前每张乳房X光片由两名NHS专家分别判读，而在试验中，其中一名人工读片者将由AI替代。研究人员表示，必须确保AI不会造成伤害，例如导致女性被不必要地召回做进一步检查。"
               },
               {
                 "t": "p",
-                "x": "研究人员回顾性分析了2014年至2024年间接受治疗的876名急性缺血性卒中患者，并排除了工具推行期间就诊的患者。他们采用倾向评分匹配和间断时间序列分析来校正两组之间的差异。"
+                "x": "吉尔伯特教授说：“每年有数以百万计的女性接受乳房X光检查，其中只有极少数、不到1%的人患有癌症。”她告诉BBC，放射科医生存在“巨大缺口”，而影像检查每年增长8%。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "雪莉·埃塞克斯说，常规乳腺筛查救了她的命"
               },
               {
                 "t": "p",
-                "x": "在控制其他因素后，研究人员发现，引入AI后，出院时获得良好功能结局的几率以及出院去向均无显著变化。不过，到院后60分钟内完成CT血管造影的几率在AI时期开始时大幅上升。"
+                "x": "在试验的一组中，AI程序会在影像送交NHS专家之前进行分级；在另一组中，AI则在专家判读之后复核影像。这项耗资£10m 的试验由NIHR资助，由华威大学、剑桥大学和剑桥大学医院牵头，并与NHS England合作。"
               },
               {
                 "t": "p",
-                "x": "“鉴于此前研究表明AI工具能加快卒中诊断、简化工作流程并加强医疗团队协作，有必要进一步研究这些变化是否影响预后，”研究人员写道。"
+                "x": "共有四家AI公司参与该试验，预计为期约三年。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI en ictus: imagen más rápida\nsin mejorar la recuperación",
-          "body": "Cinco herramientas de AI agilizaron la angiografía por CT, pero no mejoraron la evolución de 876 pacientes.",
-          "mini_headline": "AI en ictus: más rápida, no mejor",
+          "headline": "El NHS prueba la IA como\nsegundo lector en mamografías",
+          "body": "Casi 700.000 mujeres británicas serán invitadas a EDITH, que evalúa si la IA puede sustituir a uno de dos lectores.",
+          "mini_headline": "El NHS prueba la IA en el cribado de mama",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Miércoles, 2 de diciembre | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "La profesora Fiona Gilbert, que codirige el ensayo, evaluará si la IA puede mejorar el diagnóstico del cáncer de mama"
               },
               {
                 "t": "p",
-                "x": "En esta presentación, los investigadores explicarán cómo la implantación de software de AI en un centro integral de ictus no mejoró de forma medible la evolución de los pacientes."
+                "x": "Casi 700.000 mujeres de todo el Reino Unido serán invitadas a participar en el mayor ensayo del mundo sobre cómo la inteligencia artificial puede ayudar en el cribado del cáncer de mama. El reclutamiento para el ensayo EDITH ya ha comenzado en Cambridge University Hospitals, el primero de 30 centros en el Reino Unido."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de AI se han adoptado ampliamente en afecciones en las que el tiempo es crítico, como el ictus, pese a la falta de pruebas de que mejoren los resultados, señaló la ponente Maria Sanmartin, PhD, de la Donald and Barbara Zucker School of Medicine at Hofstra/Northwell. Para investigarlo, el equipo comparó los resultados del ictus antes y después de introducir cinco herramientas de AI en un centro integral de ictus del área metropolitana de Nueva York."
+                "x": "Actualmente, dos expertos del NHS examinan cada mamografía, pero en el ensayo uno de los lectores humanos será sustituido por la IA. Los investigadores afirman que deben asegurarse de que no cause daños al hacer que se vuelva a citar a mujeres innecesariamente para más pruebas."
               },
               {
                 "t": "p",
-                "x": "Los investigadores analizaron de forma retrospectiva a 876 pacientes con ictus isquémico agudo tratados entre 2014 y 2024, excluyendo a los atendidos mientras se implantaban las herramientas. Usaron emparejamiento por puntuación de propensión y análisis de series temporales interrumpidas para ajustar las diferencias entre ambos grupos."
+                "x": "La profesora Gilbert dijo: \"Millones de mujeres se hacen una mamografía cada año y solo un pequeño número, menos del 1%, tendrá cáncer\". Contó a la BBC que hay un \"enorme déficit\" de radiólogos y que las pruebas de imagen aumentan un 8% al año."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+                "cap": "Shirley Essex afirma que el cribado mamario rutinario le salvó la vida"
               },
               {
                 "t": "p",
-                "x": "Tras controlar otros factores, no hallaron cambios significativos en la probabilidad de un buen resultado funcional al alta ni en el destino al alta tras implantar la AI. En cambio, la probabilidad de completar la angiografía por CT en los 60 minutos siguientes a la llegada aumentó de forma marcada al comenzar el periodo con AI."
+                "x": "En un brazo del ensayo, un programa de IA calificará las imágenes antes de enviarlas a los expertos del NHS. En otro, las revisará después. El ensayo, de £10m, está financiado por el NIHR y lo dirigen la Universidad de Warwick, la Universidad de Cambridge y Cambridge University Hospitals, en colaboración con NHS England."
               },
               {
                 "t": "p",
-                "x": "«Dado que investigaciones previas demuestran que las herramientas de AI agilizan el diagnóstico del ictus, simplifican los flujos de trabajo y mejoran la colaboración entre los equipos médicos, se justifica seguir investigando si estos cambios influyen en los resultados», escribieron los investigadores."
+                "x": "En el ensayo participan cuatro empresas de IA y se prevé que dure unos tres años."
               }
             ]
           }
@@ -355,213 +415,213 @@
       }
     },
     {
-      "id": "subtle-gadolinium-tenth-mri",
+      "id": "mhra-mental-health-airlock",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "뇌 MRI, 가돌리늄\n십분의 일로도 충분",
-      "body": "Subtle Medical 딥러닝이 10% 용량 MRI로 63명 판독을 재현했다.",
-      "mini_headline": "가돌리늄 10%로 찍은 MRI",
+      "headline": "MHRA, AI 정신건강\n도구 샌드박스 개설",
+      "body": "영국 규제기관이 샌드박스에서 AI 정신건강 도구를 어떻게 평가·규제할지 살핀다.",
+      "mini_headline": "MHRA, AI 정신건강 샌드박스",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/mri-preview/article/16425335/dl-model-cuts-patient-gadolinium-exposure-to-10-of-standard-dose",
+      "source": "GOV.UK (MHRA)",
+      "url": "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "12월 1일 화요일 | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+            "t": "img",
+            "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
           },
           {
             "t": "p",
-            "x": "딥러닝(DL)으로 MRI의 가돌리늄 기반 조영제(GBCA) 용량을 줄일 수 있을까? 화요일 오후 발표될 연구는 그렇다고 본다."
+            "x": "MHRA와 NICE가 오늘(11월 23일) 규제 샌드박스를 새로 열었다. AI-enabled(AI 기반) 정신건강 기술이 안전하게 혁신하도록 지원해 유망한 기술을 더 빨리 사람들에게 전하려는 취지다."
           },
           {
             "t": "p",
-            "x": "GBCAs는 뇌 MRI에 꼭 필요하지만, 가돌리늄이 뇌에 오래 남고 지하수 속 환경 농도가 높아진다는 우려를 낳았다고 Subtle Medical의 발표자 Thomas C. Arnold, PhD와 동료들은 짚었다."
+            "x": "AI in Mental Health Airlock은 MHRA의 AI Airlock 프로그램을 넓힌 것이다. NICE의 HTA Lab과 손잡고 규제기관과 혁신 기업이 AI-enabled 정신건강 기술에 필요한 평가 요건을 함께 찾는다. 2023년 처음 시작한 Wellcome 지원 프로그램의 두 번째 단계다."
           },
           {
             "t": "p",
-            "x": "연구팀이 평가한 딥러닝 알고리즘은 뇌 MRI 검사에서 표준 용량의 10%로 얻은 조영 증강을 전체 용량 품질로 복원하도록 설계됐다. 대상은 환자 63명이다. 각 환자는 조영 전 T1 시퀀스를 찍은 뒤 저용량 가돌리늄(10%)을 맞고 저용량 T1 영상을 촬영했으며, 이어 남은 GBCA 용량을 받아 전체 용량 T1 영상을 찍었다."
+            "x": "최근 연구에 따르면 성인 세 명 중 한 명 이상(37%)이 정신건강이나 웰빙 때문에 AI 챗봇을 써 봤다. 이런 챗봇 일부는 의료 목적이 있어 의료기기 규제를 받을 수 있지만, 그렇지 않은 것도 있다."
           },
           {
             "t": "p",
-            "x": "알고리즘이 “증강 저용량” 영상을 만들면 영상의학과 전문의 두 명이 눈가림·무작위 설계에서 표준 진료 영상이나 증강 저용량 영상을 따로 판독해 병변 특성을 네 단계 Likert 척도로 매겼다."
+            "x": "샌드박스에는 최대 다섯 곳이 참여한다. 이들은 워크숍과 시험 활동에서 정신건강 분야의 AI-related(AI 관련) 위험을 어떻게 식별·평가·관리할지 실제로 익힌다. 신청은 2027년 1월 22일 마감이다."
           },
           {
             "t": "p",
-            "x": "표준 진료 영상의 판독자 간 일치도와 표준 진료 영상·증강 저용량 영상 사이의 판독자 내 일치도는 유의하게 다르지 않았다(p = 0.128). 병변 특성도 마찬가지였다."
+            "x": "MHRA 최고경영자 로런스 탤런은 \"AIMH Airlock은 AI 정신건강 기술을 실제로 어떻게 평가하고 관리할 수 있는지 더 잘 이해하도록 도울 것\"이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Brain MRI holds up on\na tenth of the gadolinium",
-          "body": "Subtle Medical's deep-learning model matched standard-dose brain MRI reads in 63 patients using 10% gadolinium.",
-          "mini_headline": "MRI at 10% gadolinium",
+          "headline": "MHRA opens a sandbox for\nAI mental health tools",
+          "body": "The UK regulator's Airlock sandbox will test how the safety of AI mental health tools can be evaluated and regulated.",
+          "mini_headline": "MHRA sandbox for AI mental health",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Tuesday, December 1 | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
               },
               {
                 "t": "p",
-                "x": "Can the use of deep learning (DL) help reduce gadolinium-based contrast agent (GBCA) dose on MRI? It appears so, according to research to be presented Tuesday afternoon."
+                "x": "A new regulatory sandbox launched today (23 November) by the MHRA and NICE will support safe innovation in AI-enabled mental health technologies, helping promising technologies reach people sooner."
               },
               {
                 "t": "p",
-                "x": "GBCAs are essential for brain MRI, but their use has prompted concerns regarding long-term gadolinium retention in the brain and increasing environmental concentrations in groundwater, noted presenter Thomas C. Arnold, PhD, of Subtle Medical, and colleagues."
+                "x": "As an expansion of the MHRA's AI Airlock programme, in partnership with NICE's HTA Lab, the AI in Mental Health Airlock will bring regulators and innovators together to explore the specific evaluation needs for AI-enabled mental health technologies. It is part of phase two of a Wellcome-funded programme, first launched in 2023."
               },
               {
                 "t": "p",
-                "x": "The study evaluated a deep-learning algorithm designed to restore contrast enhancement from 10% of the standard dose to match full-dose quality on brain MRI exams. It included data from 63 patients; each received a low gadolinium dose (10%) and low-dose T1 imaging after a pre-contrast T1 sequence, then the remainder of the GBCA dose for full-dose T1 images."
+                "x": "Recent research also suggests more than one in three adults (37%) have used an AI chatbot to support their mental health or wellbeing. Some of these chatbots may have medical purposes and be subject to medical device regulation, while others may not."
               },
               {
                 "t": "p",
-                "x": "The algorithm produced \"enhanced low-dose\" images, and two radiologists independently reviewed either the standard-of-care or the enhanced low-dose images in a blinded, randomized study design, rating lesion characteristics on a four-point Likert scale."
+                "x": "Up to five organisations will be selected to take part in the sandbox. Through workshops and testing activities, participants will generate practical insights into how AI-related risks in mental health contexts can be identified, assessed and managed. Applications close on 22 January 2027."
               },
               {
                 "t": "p",
-                "x": "Interreader agreement for standard-of-care images and intrareader agreement between standard-of-care and enhanced low-dose images showed no significant difference (p = 0.128). There were also no significant differences in lesion characteristics."
+                "x": "MHRA Chief Executive Lawrence Tallon said: \"The AIMH Airlock will help us better understand how AI mental health technologies can be practically assessed and managed.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "뇌 MRI, 가돌리늄\n십분의 일로도 충분",
-          "body": "Subtle Medical 딥러닝이 10% 용량 MRI로 63명 판독을 재현했다.",
-          "mini_headline": "가돌리늄 10%로 찍은 MRI",
+          "headline": "MHRA, AI 정신건강\n도구 샌드박스 개설",
+          "body": "영국 규제기관이 샌드박스에서 AI 정신건강 도구를 어떻게 평가·규제할지 살핀다.",
+          "mini_headline": "MHRA, AI 정신건강 샌드박스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12월 1일 화요일 | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
               },
               {
                 "t": "p",
-                "x": "딥러닝(DL)으로 MRI의 가돌리늄 기반 조영제(GBCA) 용량을 줄일 수 있을까? 화요일 오후 발표될 연구는 그렇다고 본다."
+                "x": "MHRA와 NICE가 오늘(11월 23일) 규제 샌드박스를 새로 열었다. AI-enabled(AI 기반) 정신건강 기술이 안전하게 혁신하도록 지원해 유망한 기술을 더 빨리 사람들에게 전하려는 취지다."
               },
               {
                 "t": "p",
-                "x": "GBCAs는 뇌 MRI에 꼭 필요하지만, 가돌리늄이 뇌에 오래 남고 지하수 속 환경 농도가 높아진다는 우려를 낳았다고 Subtle Medical의 발표자 Thomas C. Arnold, PhD와 동료들은 짚었다."
+                "x": "AI in Mental Health Airlock은 MHRA의 AI Airlock 프로그램을 넓힌 것이다. NICE의 HTA Lab과 손잡고 규제기관과 혁신 기업이 AI-enabled 정신건강 기술에 필요한 평가 요건을 함께 찾는다. 2023년 처음 시작한 Wellcome 지원 프로그램의 두 번째 단계다."
               },
               {
                 "t": "p",
-                "x": "연구팀이 평가한 딥러닝 알고리즘은 뇌 MRI 검사에서 표준 용량의 10%로 얻은 조영 증강을 전체 용량 품질로 복원하도록 설계됐다. 대상은 환자 63명이다. 각 환자는 조영 전 T1 시퀀스를 찍은 뒤 저용량 가돌리늄(10%)을 맞고 저용량 T1 영상을 촬영했으며, 이어 남은 GBCA 용량을 받아 전체 용량 T1 영상을 찍었다."
+                "x": "최근 연구에 따르면 성인 세 명 중 한 명 이상(37%)이 정신건강이나 웰빙 때문에 AI 챗봇을 써 봤다. 이런 챗봇 일부는 의료 목적이 있어 의료기기 규제를 받을 수 있지만, 그렇지 않은 것도 있다."
               },
               {
                 "t": "p",
-                "x": "알고리즘이 “증강 저용량” 영상을 만들면 영상의학과 전문의 두 명이 눈가림·무작위 설계에서 표준 진료 영상이나 증강 저용량 영상을 따로 판독해 병변 특성을 네 단계 Likert 척도로 매겼다."
+                "x": "샌드박스에는 최대 다섯 곳이 참여한다. 이들은 워크숍과 시험 활동에서 정신건강 분야의 AI-related(AI 관련) 위험을 어떻게 식별·평가·관리할지 실제로 익힌다. 신청은 2027년 1월 22일 마감이다."
               },
               {
                 "t": "p",
-                "x": "표준 진료 영상의 판독자 간 일치도와 표준 진료 영상·증강 저용량 영상 사이의 판독자 내 일치도는 유의하게 다르지 않았다(p = 0.128). 병변 특성도 마찬가지였다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "脑部MRI只用十分之一\n钆剂仍然可靠",
-          "body": "Subtle Medical模型仅用10%钆剂，63名患者脑MRI判读与标准剂量相当。",
-          "mini_headline": "10%钆剂的MRI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "12月1日（周二） | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
-              },
-              {
-                "t": "p",
-                "x": "深度学习（DL）能否帮助降低MRI中钆基造影剂（GBCA）的剂量？根据将于周二下午发表的研究，答案似乎是肯定的。"
-              },
-              {
-                "t": "p",
-                "x": "报告人、Subtle Medical的Thomas C. Arnold, PhD及其同事指出，GBCAs对脑部MRI不可或缺，但其使用引发了对钆在脑内长期滞留以及地下水中环境浓度不断升高的担忧。"
-              },
-              {
-                "t": "p",
-                "x": "该研究评估了一种深度学习算法，旨在将标准剂量10%下的对比增强恢复到与全剂量相当的脑MRI检查质量。研究纳入63名患者的数据；每名患者在增强前T1序列后接受低剂量钆（10%）和低剂量T1成像，随后注射剩余的GBCA剂量以获得全剂量T1图像。"
-              },
-              {
-                "t": "p",
-                "x": "算法生成“增强低剂量”图像，两名放射科医生在盲法、随机化研究设计下独立审阅标准诊疗图像或增强低剂量图像，并用四级Likert量表对病灶特征评分。"
-              },
-              {
-                "t": "p",
-                "x": "标准诊疗图像的读者间一致性，与标准诊疗图像和增强低剂量图像之间的读者内一致性无显著差异（p = 0.128）。病灶特征也无显著差异。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MRI cerebral resiste con\nuna décima parte de gadolinio",
-          "body": "El modelo de Subtle Medical igualó la MRI cerebral de dosis estándar en 63 pacientes con 10% de gadolinio.",
-          "mini_headline": "MRI con 10% de gadolinio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Martes, 1 de diciembre | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
-              },
-              {
-                "t": "p",
-                "x": "¿Puede el aprendizaje profundo (DL) ayudar a reducir la dosis de agente de contraste basado en gadolinio (GBCA) en la MRI? Así parece, según una investigación que se presentará el martes por la tarde."
-              },
-              {
-                "t": "p",
-                "x": "Los GBCAs son esenciales para la MRI cerebral, pero su uso ha suscitado preocupación por la retención de gadolinio a largo plazo en el cerebro y por el aumento de su concentración ambiental en las aguas subterráneas, señalaron el ponente Thomas C. Arnold, PhD, de Subtle Medical, y sus colegas."
-              },
-              {
-                "t": "p",
-                "x": "El estudio evaluó un algoritmo de aprendizaje profundo diseñado para restaurar el realce de contraste a partir del 10% de la dosis estándar hasta igualar la calidad de dosis completa en exámenes de MRI cerebral. Incluyó datos de 63 pacientes; cada uno recibió una dosis baja de gadolinio (10%) y una imagen T1 de dosis baja tras una secuencia T1 precontraste, y después el resto de la dosis de GBCA para obtener imágenes T1 de dosis completa."
-              },
-              {
-                "t": "p",
-                "x": "El algoritmo generó imágenes de «dosis baja realzada», y dos radiólogos revisaron de forma independiente las imágenes de atención estándar o las de dosis baja realzada en un diseño ciego y aleatorizado, puntuando las características de las lesiones en una escala Likert de cuatro puntos."
-              },
-              {
-                "t": "p",
-                "x": "La concordancia entre lectores para las imágenes de atención estándar y la concordancia intralector entre las imágenes de atención estándar y las de dosis baja realzada no mostraron diferencias significativas (p = 0.128). Tampoco hubo diferencias significativas en las características de las lesiones."
+                "x": "MHRA 최고경영자 로런스 탤런은 \"AIMH Airlock은 AI 정신건강 기술을 실제로 어떻게 평가하고 관리할 수 있는지 더 잘 이해하도록 도울 것\"이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ガドリニウム十分の一でも\n脳MRIは持ちこたえる",
-          "body": "Subtle Medicalのモデルは63人の脳MRIでガドリニウム10%でも標準量並みだ。",
-          "mini_headline": "ガドリニウム10%でMRI",
+          "headline": "MHRA、AIメンタルヘルス\n向けサンドボックス開設",
+          "body": "英国規制当局がサンドボックスで、AI心の健康ツールの安全性評価と規制の方法を試す。",
+          "mini_headline": "MHRA、AIメンタルヘルスのサンドボックス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12月1日(火) | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
               },
               {
                 "t": "p",
-                "x": "深層学習(DL)は、MRIにおけるガドリニウム造影剤(GBCA)の投与量削減に役立つのか。火曜午後に発表される研究によれば、その可能性があるようだ。"
+                "x": "MHRAとNICEが本日（11月23日）立ち上げた新たな規制サンドボックスは、AI-enabled（AI搭載）のメンタルヘルス技術における安全なイノベーションを支援し、有望な技術がより早く人々に届くよう後押しする。"
               },
               {
                 "t": "p",
-                "x": "GBCAs(ガドリニウム造影剤)は脳MRIに不可欠だが、脳内での長期的なガドリニウム残留や、地下水中の環境濃度の上昇への懸念を招いていると、発表者であるSubtle MedicalのThomas C. Arnold, PhDらは指摘する。"
+                "x": "MHRAのAI Airlockプログラムを拡大したAI in Mental Health Airlockは、NICEのHTA Labと連携し、規制当局とイノベーターを結び付けて、AI-enabledのメンタルヘルス技術に固有の評価ニーズを探る。これは2023年に始まったWellcome助成プログラムの第二段階の一環である。"
               },
               {
                 "t": "p",
-                "x": "研究では、標準量の10%から造影増強を復元し、脳MRI検査で全量投与と同等の画質に合わせるよう設計された深層学習アルゴリズムを評価した。対象は63人の患者データで、各患者は造影前T1シーケンスの後に低用量のガドリニウム(10%)投与と低用量T1撮像を受け、続いてGBCAの残りを投与されて全量T1画像を撮像した。"
+                "x": "最近の調査では、成人の三人に一人以上（37%）がメンタルヘルスやウェルビーイングの支えとしてAIチャットボットを使ったことがあるという。こうしたチャットボットには、医療目的を持ち医療機器規制の対象となり得るものもあれば、そうでないものもある。"
               },
               {
                 "t": "p",
-                "x": "アルゴリズムは「enhanced low-dose」画像を生成し、二人の放射線科医が盲検化・無作為化された研究デザインのもと、標準ケア画像または強調低用量画像のいずれかを独立に読影し、病変の特徴を四段階のLikert尺度で評価した。"
+                "x": "サンドボックスには最大五つの組織が選ばれる。参加者はワークショップや試験的な活動を通じて、メンタルヘルスの文脈でAI-related（AI関連）のリスクをどう特定・評価・管理できるかについて実践的な知見を得る。応募は2027年1月22日に締め切られる。"
               },
               {
                 "t": "p",
-                "x": "標準ケア画像における読影者間一致度と、標準ケア画像と強調低用量画像の間の読影者内一致度には有意差がなかった(p = 0.128)。病変の特徴にも有意差は認められなかった。"
+                "x": "MHRAのローレンス・タロン最高経営責任者は「AIMH Airlockは、AIメンタルヘルス技術を実際にどう評価し管理できるかを、より深く理解する助けになる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MHRA为AI心理健康\n工具开设沙盒",
+          "body": "英国监管机构的Airlock沙盒将检验如何评估和监管AI心理健康工具的安全性。",
+          "mini_headline": "MHRA推出AI心理健康沙盒",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MHRA与NICE于今天（11月23日）推出的新监管沙盒，将支持AI-enabled（AI赋能）心理健康技术的安全创新，帮助有前景的技术更快惠及民众。"
+              },
+              {
+                "t": "p",
+                "x": "作为MHRA旗下AI Airlock项目的扩展，AI in Mental Health Airlock与NICE的HTA Lab合作，汇聚监管者与创新者，共同探索AI-enabled心理健康技术的具体评估需求。它是Wellcome资助项目第二阶段的一部分，该项目于2023年首次启动。"
+              },
+              {
+                "t": "p",
+                "x": "近期研究还显示，超过三分之一的成年人（37%）曾使用AI聊天机器人来支持自己的心理健康或身心福祉。其中一些聊天机器人可能具有医疗用途并受医疗器械监管，另一些则不然。"
+              },
+              {
+                "t": "p",
+                "x": "最多将有五家机构入选参与沙盒。通过研讨会和测试活动，参与者将就如何识别、评估和管理心理健康场景中的AI-related（AI相关）风险形成实用见解。申请截止日期为2027年1月22日。"
+              },
+              {
+                "t": "p",
+                "x": "MHRA首席执行官劳伦斯·塔隆表示：“AIMH Airlock将帮助我们更好地理解如何切实评估和管理AI心理健康技术。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La MHRA abre un sandbox para la\nIA aplicada a la salud mental",
+          "body": "El sandbox Airlock del regulador británico probará cómo evaluar y regular la seguridad de la IA en salud mental.",
+          "mini_headline": "La MHRA abre un sandbox de IA en salud mental",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Un nuevo sandbox regulatorio, lanzado hoy (23 de noviembre) por la MHRA y el NICE, apoyará la innovación segura en tecnologías de salud mental AI-enabled (habilitadas por IA) y ayudará a que las tecnologías prometedoras lleguen antes a las personas."
+              },
+              {
+                "t": "p",
+                "x": "Como ampliación del programa AI Airlock de la MHRA, y en colaboración con el HTA Lab del NICE, el AI in Mental Health Airlock reunirá a reguladores e innovadores para explorar las necesidades de evaluación específicas de las tecnologías de salud mental AI-enabled. Forma parte de la segunda fase de un programa financiado por Wellcome, lanzado por primera vez en 2023."
+              },
+              {
+                "t": "p",
+                "x": "Investigaciones recientes indican además que más de uno de cada tres adultos (37%) ha usado un chatbot de IA para apoyar su salud mental o su bienestar. Algunos de estos chatbots pueden tener fines médicos y estar sujetos a la regulación de productos sanitarios, mientras que otros no."
+              },
+              {
+                "t": "p",
+                "x": "Se seleccionará a un máximo de cinco organizaciones para participar en el sandbox. Mediante talleres y actividades de prueba, los participantes generarán conocimientos prácticos sobre cómo identificar, evaluar y gestionar los riesgos AI-related (relacionados con la IA) en contextos de salud mental. El plazo de solicitud cierra el 22 de enero de 2027."
+              },
+              {
+                "t": "p",
+                "x": "El director ejecutivo de la MHRA, Lawrence Tallon, afirmó: \"El AIMH Airlock nos ayudará a entender mejor cómo pueden evaluarse y gestionarse en la práctica las tecnologías de IA para la salud mental\"."
               }
             ]
           }
@@ -569,137 +629,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "뇌 MRI, 가돌리늄\n십분의 일로도 충분",
-          "body": "Subtle Medical 딥러닝은 10% 용량 MRI로 63명 판독을 재현했다.",
-          "mini_headline": "가돌리늄 10%로 찍은 MRI",
+          "headline": "MHRA, AI 정신건강\n도구 샌드박스 개설",
+          "body": "영국 규제기관이 AI 정신건강 도구의 안전성 평가·규제 방식을 샌드박스로 살핀다.",
+          "mini_headline": "MHRA, AI 정신건강 샌드박스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12월 1일 화요일 | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
               },
               {
                 "t": "p",
-                "x": "딥러닝(DL)을 활용하면 MRI의 가돌리늄 기반 조영제(GBCA) 용량을 줄일 수 있을까? 화요일 오후 발표될 연구에 따르면 그런 것으로 보인다."
+                "x": "MHRA와 NICE가 오늘(11월 23일) 새로 출범한 규제 샌드박스는 AI-enabled(AI 기반) 정신건강 기술의 안전한 혁신을 지원해, 유망한 기술이 더 빨리 사람들에게 닿도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "GBCAs는 뇌 MRI에 필수지만, 가돌리늄이 뇌에 장기간 잔류하고 지하수의 환경 농도가 높아진다는 우려를 낳았다고 Subtle Medical의 발표자 Thomas C. Arnold, PhD와 동료들은 지적했다."
+                "x": "MHRA의 AI Airlock 프로그램을 확대한 AI in Mental Health Airlock은 NICE의 HTA Lab과 협력해 규제기관과 혁신 기업이 함께 AI-enabled 정신건강 기술에 필요한 평가 요건을 탐색하도록 한다. 이는 2023년 처음 시작된 Wellcome 지원 프로그램의 두 번째 단계에 속한다."
               },
               {
                 "t": "p",
-                "x": "이 연구는 뇌 MRI 검사에서 표준 용량의 10%로 얻은 조영 증강을 전체 용량 품질에 맞게 복원하도록 설계한 딥러닝 알고리즘을 평가했다. 환자 63명의 데이터를 포함했으며, 각 환자는 조영 전 T1 시퀀스 뒤 저용량 가돌리늄(10%)과 저용량 T1 영상을 받고, 이어 남은 GBCA 용량을 받아 전체 용량 T1 영상을 촬영했다."
+                "x": "최근 연구에 따르면 성인 세 명 중 한 명 이상(37%)이 정신건강이나 웰빙을 위해 AI 챗봇을 써 본 적이 있다. 이들 챗봇 가운데 일부는 의료 목적을 지녀 의료기기 규제 대상이 될 수 있지만, 그렇지 않은 것도 있다."
               },
               {
                 "t": "p",
-                "x": "알고리즘은 “증강 저용량” 영상을 만들었고, 영상의학과 전문의 두 명이 눈가림·무작위 연구 설계에서 표준 진료 영상 또는 증강 저용량 영상을 독립적으로 판독해 병변 특성을 네 단계 Likert 척도로 평가했다."
+                "x": "샌드박스 참여 기관은 최대 다섯 곳을 선정한다. 참여 기관은 워크숍과 시험 활동을 통해 정신건강 맥락에서 AI-related(AI 관련) 위험을 어떻게 식별·평가·관리할지에 대한 실질적인 통찰을 얻는다. 신청은 2027년 1월 22일 마감한다."
               },
               {
                 "t": "p",
-                "x": "표준 진료 영상의 판독자 간 일치도와, 표준 진료 영상과 증강 저용량 영상 사이의 판독자 내 일치도에는 유의한 차이가 없었다(p = 0.128). 병변 특성에서도 유의한 차이는 없었다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "脑部MRI只用十分之一\n钆剂仍然可靠",
-          "body": "Subtle Medical模型仅用10%钆剂，63名患者脑MRI判读与标准剂量相当。",
-          "mini_headline": "10%钆剂的MRI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "12月1日（周二） | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
-              },
-              {
-                "t": "p",
-                "x": "深度学习（DL）能否帮助降低MRI中钆基造影剂（GBCA）的剂量？根据将于周二下午发表的研究，答案似乎是肯定的。"
-              },
-              {
-                "t": "p",
-                "x": "报告人、Subtle Medical的Thomas C. Arnold, PhD及其同事指出，GBCAs对脑部MRI不可或缺，但其使用引发了对钆在脑内长期滞留以及地下水中环境浓度不断升高的担忧。"
-              },
-              {
-                "t": "p",
-                "x": "该研究评估了一种深度学习算法，旨在将标准剂量10%下的对比增强恢复到与全剂量相当的脑MRI检查质量。研究纳入63名患者的数据；每名患者在增强前T1序列后接受低剂量钆（10%）和低剂量T1成像，随后注射剩余的GBCA剂量以获得全剂量T1图像。"
-              },
-              {
-                "t": "p",
-                "x": "算法生成“增强低剂量”图像，两名放射科医生在盲法、随机化研究设计下独立审阅标准诊疗图像或增强低剂量图像，并用四级Likert量表对病灶特征评分。"
-              },
-              {
-                "t": "p",
-                "x": "标准诊疗图像的读者间一致性，与标准诊疗图像和增强低剂量图像之间的读者内一致性无显著差异（p = 0.128）。病灶特征也无显著差异。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MRI cerebral resiste con\nuna décima parte de gadolinio",
-          "body": "El modelo de Subtle Medical igualó la MRI cerebral de dosis estándar en 63 pacientes con 10% de gadolinio.",
-          "mini_headline": "MRI con 10% de gadolinio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Martes, 1 de diciembre | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
-              },
-              {
-                "t": "p",
-                "x": "¿Puede el aprendizaje profundo (DL) ayudar a reducir la dosis de agente de contraste basado en gadolinio (GBCA) en la MRI? Así parece, según una investigación que se presentará el martes por la tarde."
-              },
-              {
-                "t": "p",
-                "x": "Los GBCAs son esenciales para la MRI cerebral, pero su uso ha suscitado preocupación por la retención de gadolinio a largo plazo en el cerebro y por el aumento de su concentración ambiental en las aguas subterráneas, señalaron el ponente Thomas C. Arnold, PhD, de Subtle Medical, y sus colegas."
-              },
-              {
-                "t": "p",
-                "x": "El estudio evaluó un algoritmo de aprendizaje profundo diseñado para restaurar el realce de contraste a partir del 10% de la dosis estándar hasta igualar la calidad de dosis completa en exámenes de MRI cerebral. Incluyó datos de 63 pacientes; cada uno recibió una dosis baja de gadolinio (10%) y una imagen T1 de dosis baja tras una secuencia T1 precontraste, y después el resto de la dosis de GBCA para obtener imágenes T1 de dosis completa."
-              },
-              {
-                "t": "p",
-                "x": "El algoritmo generó imágenes de «dosis baja realzada», y dos radiólogos revisaron de forma independiente las imágenes de atención estándar o las de dosis baja realzada en un diseño ciego y aleatorizado, puntuando las características de las lesiones en una escala Likert de cuatro puntos."
-              },
-              {
-                "t": "p",
-                "x": "La concordancia entre lectores para las imágenes de atención estándar y la concordancia intralector entre las imágenes de atención estándar y las de dosis baja realzada no mostraron diferencias significativas (p = 0.128). Tampoco hubo diferencias significativas en las características de las lesiones."
+                "x": "MHRA 최고경영자 로런스 탤런은 \"AIMH Airlock은 AI 정신건강 기술을 실제로 어떻게 평가하고 관리할 수 있는지 더 잘 이해하도록 도울 것\"이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ガドリニウム十分の一でも\n脳MRIは持ちこたえる",
-          "body": "Subtle Medicalのモデルは63人の脳MRIでガドリニウム10%でも標準量並みだ。",
-          "mini_headline": "ガドリニウム10%でMRI",
+          "headline": "MHRA、AIメンタルヘルス\n向けサンドボックス開設",
+          "body": "英国規制当局がサンドボックスで、AI心の健康ツールの安全性評価と規制の方法を試す。",
+          "mini_headline": "MHRA、AIメンタルヘルスのサンドボックス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "12月1日(火) | 3:20 p.m.- 3:40 p.m. | T7-SSNR09-3 | Room E350"
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
               },
               {
                 "t": "p",
-                "x": "深層学習(DL)は、MRIにおけるガドリニウム造影剤(GBCA)の投与量削減に役立つのか。火曜午後に発表される研究によれば、その可能性があるようだ。"
+                "x": "MHRAとNICEが本日（11月23日）立ち上げた新たな規制サンドボックスは、AI-enabled（AI搭載）のメンタルヘルス技術における安全なイノベーションを支援し、有望な技術がより早く人々に届くよう後押しする。"
               },
               {
                 "t": "p",
-                "x": "GBCAs(ガドリニウム造影剤)は脳MRIに不可欠だが、脳内での長期的なガドリニウム残留や、地下水中の環境濃度の上昇への懸念を招いていると、発表者であるSubtle MedicalのThomas C. Arnold, PhDらは指摘する。"
+                "x": "MHRAのAI Airlockプログラムを拡大したAI in Mental Health Airlockは、NICEのHTA Labと連携し、規制当局とイノベーターを結び付けて、AI-enabledのメンタルヘルス技術に固有の評価ニーズを探る。これは2023年に始まったWellcome助成プログラムの第二段階の一環である。"
               },
               {
                 "t": "p",
-                "x": "研究では、標準量の10%から造影増強を復元し、脳MRI検査で全量投与と同等の画質に合わせるよう設計された深層学習アルゴリズムを評価した。対象は63人の患者データで、各患者は造影前T1シーケンスの後に低用量のガドリニウム(10%)投与と低用量T1撮像を受け、続いてGBCAの残りを投与されて全量T1画像を撮像した。"
+                "x": "最近の調査では、成人の三人に一人以上（37%）がメンタルヘルスやウェルビーイングの支えとしてAIチャットボットを使ったことがあるという。こうしたチャットボットには、医療目的を持ち医療機器規制の対象となり得るものもあれば、そうでないものもある。"
               },
               {
                 "t": "p",
-                "x": "アルゴリズムは「enhanced low-dose」画像を生成し、二人の放射線科医が盲検化・無作為化された研究デザインのもと、標準ケア画像または強調低用量画像のいずれかを独立に読影し、病変の特徴を四段階のLikert尺度で評価した。"
+                "x": "サンドボックスには最大五つの組織が選ばれる。参加者はワークショップや試験的な活動を通じて、メンタルヘルスの文脈でAI-related（AI関連）のリスクをどう特定・評価・管理できるかについて実践的な知見を得る。応募は2027年1月22日に締め切られる。"
               },
               {
                 "t": "p",
-                "x": "標準ケア画像における読影者間一致度と、標準ケア画像と強調低用量画像の間の読影者内一致度には有意差がなかった(p = 0.128)。病変の特徴にも有意差は認められなかった。"
+                "x": "MHRAのローレンス・タロン最高経営責任者は「AIMH Airlockは、AIメンタルヘルス技術を実際にどう評価し管理できるかを、より深く理解する助けになる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MHRA为AI心理健康\n工具开设沙盒",
+          "body": "英国监管机构的Airlock沙盒将检验如何评估和监管AI心理健康工具的安全性。",
+          "mini_headline": "MHRA推出AI心理健康沙盒",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MHRA与NICE于今天（11月23日）推出的新监管沙盒，将支持AI-enabled（AI赋能）心理健康技术的安全创新，帮助有前景的技术更快惠及民众。"
+              },
+              {
+                "t": "p",
+                "x": "作为MHRA旗下AI Airlock项目的扩展，AI in Mental Health Airlock与NICE的HTA Lab合作，汇聚监管者与创新者，共同探索AI-enabled心理健康技术的具体评估需求。它是Wellcome资助项目第二阶段的一部分，该项目于2023年首次启动。"
+              },
+              {
+                "t": "p",
+                "x": "近期研究还显示，超过三分之一的成年人（37%）曾使用AI聊天机器人来支持自己的心理健康或身心福祉。其中一些聊天机器人可能具有医疗用途并受医疗器械监管，另一些则不然。"
+              },
+              {
+                "t": "p",
+                "x": "最多将有五家机构入选参与沙盒。通过研讨会和测试活动，参与者将就如何识别、评估和管理心理健康场景中的AI-related（AI相关）风险形成实用见解。申请截止日期为2027年1月22日。"
+              },
+              {
+                "t": "p",
+                "x": "MHRA首席执行官劳伦斯·塔隆表示：“AIMH Airlock将帮助我们更好地理解如何切实评估和管理AI心理健康技术。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La MHRA abre un sandbox para la\nIA aplicada a la salud mental",
+          "body": "El sandbox Airlock del regulador británico probará cómo evaluar y regular la seguridad de la IA en salud mental.",
+          "mini_headline": "La MHRA abre un sandbox de IA en salud mental",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Un nuevo sandbox regulatorio, lanzado hoy (23 de noviembre) por la MHRA y el NICE, apoyará la innovación segura en tecnologías de salud mental AI-enabled (habilitadas por IA) y ayudará a que las tecnologías prometedoras lleguen antes a las personas."
+              },
+              {
+                "t": "p",
+                "x": "Como ampliación del programa AI Airlock de la MHRA, y en colaboración con el HTA Lab del NICE, el AI in Mental Health Airlock reunirá a reguladores e innovadores para explorar las necesidades de evaluación específicas de las tecnologías de salud mental AI-enabled. Forma parte de la segunda fase de un programa financiado por Wellcome, lanzado por primera vez en 2023."
+              },
+              {
+                "t": "p",
+                "x": "Investigaciones recientes indican además que más de uno de cada tres adultos (37%) ha usado un chatbot de IA para apoyar su salud mental o su bienestar. Algunos de estos chatbots pueden tener fines médicos y estar sujetos a la regulación de productos sanitarios, mientras que otros no."
+              },
+              {
+                "t": "p",
+                "x": "Se seleccionará a un máximo de cinco organizaciones para participar en el sandbox. Mediante talleres y actividades de prueba, los participantes generarán conocimientos prácticos sobre cómo identificar, evaluar y gestionar los riesgos AI-related (relacionados con la IA) en contextos de salud mental. El plazo de solicitud cierra el 22 de enero de 2027."
+              },
+              {
+                "t": "p",
+                "x": "El director ejecutivo de la MHRA, Lawrence Tallon, afirmó: \"El AIMH Airlock nos ayudará a entender mejor cómo pueden evaluarse y gestionarse en la práctica las tecnologías de IA para la salud mental\"."
               }
             ]
           }
@@ -707,271 +767,693 @@
       }
     },
     {
-      "id": "tele-cranio-ct-free",
+      "id": "photon-chatgpt-rx",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "휴대폰 사진이 두개안면\n선별에서 CT를 대신한다",
-      "body": "Tele-Cranio는 폰 사진만으로 3D 골격을 추정해 CT-free 선별한다.",
-      "mini_headline": "CT-free 두개안면 AI",
+      "headline": "의료진, ChatGPT에서\nPhoton으로 처방",
+      "body": "Photon이 ChatGPT 플러그인으로 나와 의료진이 쓰던 도구 안에서 처방한다.",
+      "mini_headline": "ChatGPT 안에서 처방",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03454-z",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+            "cap": "환자 기록은 Photon에 남고, 처방 초안은 기록된 알레르기·복용 약물과 대조된다."
+          },
+          {
+            "t": "p",
+            "x": "처방 인프라 기업 Photon이 ChatGPT 플러그인으로 나왔다. 의료진은 이미 쓰는 도구 안에서 처방 업무를 간단히 처리하게 됐다."
+          },
+          {
+            "t": "p",
+            "x": "ChatGPT for Clinicians나 ChatGPT for Healthcare를 쓰는 U.S.(미국) 면허 의료진 가운데 자격 요건을 갖춘 이가 대상이다. HIPAA를 지키려면 Photon의 BAA에 동의해야 하고, 규제 약물은 지원하지 않는다. 2026년 12월 31일까지는 무료다."
+          },
+          {
+            "t": "img",
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+            "cap": "인터페이스 화면 예시(Photon)"
+          },
+          {
+            "t": "p",
+            "x": "공동 창업자이자 CEO인 오토 사이프는 Fierce Healthcare에 \"AI는 메모 작성과 참고 자료 확인을 넘어 치료 워크플로로 옮겨 가고 있다\"며 \"Photon은 그 단계를 뒷받침하는 인프라를 제공한다\"고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "의료진은 환자 이름과 약물 이름으로 프롬프트를 시작하고 용량·복용 지침·수량을 검토한 뒤 처방을 승인한다. 치료 책임은 끝까지 의료진이 진다. 환자에게는 ChatGPT 밖 Photon 처방 마켓플레이스로 이어지는 문자가 가고, 환자는 거기서 가격을 비교한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Photon brings prescribing\ninto ChatGPT for clinicians",
+          "body": "Photon is now a ChatGPT plugin, so clinicians can write prescriptions inside a tool they already use.",
+          "mini_headline": "Prescribing inside ChatGPT",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "Patient records are saved in Photon, and draft prescriptions are checked against the patient's recorded allergies and medications."
+              },
+              {
+                "t": "p",
+                "x": "Photon, a prescription infrastructure company, is now available as a plugin for ChatGPT to streamline prescribing for clinicians within a tool they already use."
+              },
+              {
+                "t": "p",
+                "x": "The option is available to eligible U.S. licensed clinicians using ChatGPT for Clinicians or ChatGPT for Healthcare. Clinicians must accept Photon's BAA to maintain HIPAA compliance. Controlled substances are not supported. The feature is free for clinicians through Dec. 31, 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "Screenshot sample of the interface (Photon)"
+              },
+              {
+                "t": "p",
+                "x": "\"AI is moving from note-taking and reference into treatment workflows,\" Otto Sipe, co-founder and CEO, wrote to Fierce Healthcare. \"Photon provides the infrastructure behind that step.\""
+              },
+              {
+                "t": "p",
+                "x": "Clinicians begin a prompt with the name of the patient and medication, then review dosing, instructions and quantity before authorizing the prescription, remaining responsible for the treatment. A patient gets a text to Photon's prescription marketplace outside of ChatGPT to compare prices."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "의료진, ChatGPT에서\nPhoton으로 처방",
+          "body": "Photon이 ChatGPT 플러그인으로 나와 의료진이 쓰던 도구 안에서 처방한다.",
+          "mini_headline": "ChatGPT 안에서 처방",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "환자 기록은 Photon에 남고, 처방 초안은 기록된 알레르기·복용 약물과 대조된다."
+              },
+              {
+                "t": "p",
+                "x": "처방 인프라 기업 Photon이 ChatGPT 플러그인으로 나왔다. 의료진은 이미 쓰는 도구 안에서 처방 업무를 간단히 처리하게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT for Clinicians나 ChatGPT for Healthcare를 쓰는 U.S.(미국) 면허 의료진 가운데 자격 요건을 갖춘 이가 대상이다. HIPAA를 지키려면 Photon의 BAA에 동의해야 하고, 규제 약물은 지원하지 않는다. 2026년 12월 31일까지는 무료다."
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "인터페이스 화면 예시(Photon)"
+              },
+              {
+                "t": "p",
+                "x": "공동 창업자이자 CEO인 오토 사이프는 Fierce Healthcare에 \"AI는 메모 작성과 참고 자료 확인을 넘어 치료 워크플로로 옮겨 가고 있다\"며 \"Photon은 그 단계를 뒷받침하는 인프라를 제공한다\"고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "의료진은 환자 이름과 약물 이름으로 프롬프트를 시작하고 용량·복용 지침·수량을 검토한 뒤 처방을 승인한다. 치료 책임은 끝까지 의료진이 진다. 환자에게는 ChatGPT 밖 Photon 처방 마켓플레이스로 이어지는 문자가 가고, 환자는 거기서 가격을 비교한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Photon、医師向けに\nChatGPTで処方",
+          "body": "PhotonがChatGPTのプラグインとなり、医師は普段使うツール内で処方箋を書ける。",
+          "mini_headline": "ChatGPT内で処方",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "患者の記録はPhotonに保存され、処方案は記録済みのアレルギーや服用薬と照合される。"
+              },
+              {
+                "t": "p",
+                "x": "処方インフラ企業のPhotonが、ChatGPTのプラグインとして利用可能になった。医師が既に使っているツールの中で処方業務を効率化する。"
+              },
+              {
+                "t": "p",
+                "x": "この機能は、ChatGPT for CliniciansまたはChatGPT for Healthcareを利用し、条件を満たすU.S.の免許を持つ医師が使える。HIPAA準拠を維持するため、医師はPhotonのBAAに同意する必要がある。規制物質には対応していない。医師は2026年12月31日まで無料で利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "インターフェースのスクリーンショット例（Photon）"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者でCEOのオットー・サイプ氏はFierce Healthcareに対し、「AIはメモ作成や参照から治療のワークフローへと移りつつある」と書き、「Photonはその一歩を支えるインフラを提供する」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "医師は患者名と薬剤名でプロンプトを始め、用量、指示、数量を確認したうえで処方を承認する。治療の責任は引き続き医師が負う。患者にはChatGPT外にあるPhotonの処方マーケットプレイスへ誘導するテキストが届き、価格を比較できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Photon为医生把处方\n带进ChatGPT",
+          "body": "Photon已成为ChatGPT插件，医生可在已在使用的工具中直接开处方。",
+          "mini_headline": "在ChatGPT内开处方",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "患者记录保存在Photon中，处方草稿会与患者记录的过敏史和用药进行核对。"
+              },
+              {
+                "t": "p",
+                "x": "处方基础设施公司Photon现已作为ChatGPT插件上线，帮助医生在已在使用的工具内简化开处方流程。"
+              },
+              {
+                "t": "p",
+                "x": "使用ChatGPT for Clinicians或ChatGPT for Healthcare、符合条件的U.S.持证医生均可使用这一选项。医生须接受Photon的BAA以保持HIPAA合规。该功能不支持管制药品。截至2026年12月31日，医生可免费使用该功能。"
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "界面截图示例（Photon）"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人兼CEO奥托·赛普在给Fierce Healthcare的信中写道：“AI正从记笔记和查资料走向治疗工作流程。”“Photon提供支撑这一步的基础设施。”"
+              },
+              {
+                "t": "p",
+                "x": "医生以患者姓名和药品名称开始输入提示，随后审核剂量、用法说明和数量，再批准处方，治疗责任仍由医生承担。患者会收到一条短信，链接到ChatGPT之外的Photon处方市场，以便比较价格。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Photon lleva la prescripción\na ChatGPT para los clínicos",
+          "body": "Photon ya es un complemento de ChatGPT, así que los clínicos pueden recetar dentro de una herramienta que ya usan.",
+          "mini_headline": "Recetas dentro de ChatGPT",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "Los historiales de los pacientes se guardan en Photon, y los borradores de receta se cotejan con las alergias y medicaciones registradas del paciente."
+              },
+              {
+                "t": "p",
+                "x": "Photon, una empresa de infraestructura de prescripción, ya está disponible como complemento de ChatGPT para agilizar la prescripción de los clínicos dentro de una herramienta que ya utilizan."
+              },
+              {
+                "t": "p",
+                "x": "La opción está disponible para clínicos con licencia en Estados Unidos (U.S.) que cumplan los requisitos y usen ChatGPT for Clinicians o ChatGPT for Healthcare. Los clínicos deben aceptar el BAA de Photon para mantener el cumplimiento de HIPAA. No se admiten sustancias controladas. La función es gratuita para los clínicos hasta el 31 de diciembre de 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "Captura de ejemplo de la interfaz (Photon)"
+              },
+              {
+                "t": "p",
+                "x": "\"La IA está pasando de la toma de notas y la consulta de referencias a los flujos de trabajo de tratamiento\", escribió Otto Sipe, cofundador y CEO, a Fierce Healthcare. \"Photon proporciona la infraestructura que sostiene ese paso\"."
+              },
+              {
+                "t": "p",
+                "x": "Los clínicos inician un prompt con el nombre del paciente y del medicamento, y luego revisan la dosis, las instrucciones y la cantidad antes de autorizar la receta, de modo que siguen siendo responsables del tratamiento. El paciente recibe un mensaje de texto que lo dirige al mercado de recetas de Photon, fuera de ChatGPT, para comparar precios."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "의료진, ChatGPT에서\nPhoton으로 처방",
+          "body": "Photon이 ChatGPT 플러그인이 돼 의료진이 익숙한 도구에서 처방한다.",
+          "mini_headline": "ChatGPT 안에서 처방",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "환자 기록은 Photon에 저장되고, 처방 초안은 환자의 기록된 알레르기·복용 약물과 대조된다."
+              },
+              {
+                "t": "p",
+                "x": "처방 인프라 기업 Photon이 ChatGPT 플러그인으로 나와, 의료진이 이미 쓰고 있는 도구 안에서 처방 업무를 간소화할 수 있게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 ChatGPT for Clinicians 또는 ChatGPT for Healthcare를 쓰는, 자격 요건을 갖춘 U.S.(미국) 면허 의료진이 이용할 수 있다. HIPAA 준수를 유지하려면 의료진은 Photon의 BAA에 동의해야 한다. 규제 약물은 지원하지 않는다. 의료진은 2026년 12월 31일까지 이 기능을 무료로 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "인터페이스 화면 예시(Photon)"
+              },
+              {
+                "t": "p",
+                "x": "공동 창업자이자 CEO인 오토 사이프는 Fierce Healthcare에 \"AI는 메모 작성과 참고 자료 확인을 넘어 치료 워크플로로 옮겨 가고 있다\"며 \"Photon은 그 단계를 뒷받침하는 인프라를 제공한다\"고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "의료진은 환자 이름과 약물 이름으로 프롬프트를 시작한 뒤 용량, 복용 지침, 수량을 검토하고 처방을 승인하며, 치료에 대한 책임은 계속 의료진에게 있다. 환자는 ChatGPT 밖에 있는 Photon의 처방 마켓플레이스로 연결되는 문자를 받아 가격을 비교할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Photon、医師向けに\nChatGPTで処方",
+          "body": "PhotonがChatGPTのプラグインとなり、医師は普段使うツール内で処方箋を書ける。",
+          "mini_headline": "ChatGPT内で処方",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "患者の記録はPhotonに保存され、処方案は記録済みのアレルギーや服用薬と照合される。"
+              },
+              {
+                "t": "p",
+                "x": "処方インフラ企業のPhotonが、ChatGPTのプラグインとして利用可能になった。医師が既に使っているツールの中で処方業務を効率化する。"
+              },
+              {
+                "t": "p",
+                "x": "この機能は、ChatGPT for CliniciansまたはChatGPT for Healthcareを利用し、条件を満たすU.S.の免許を持つ医師が使える。HIPAA準拠を維持するため、医師はPhotonのBAAに同意する必要がある。規制物質には対応していない。医師は2026年12月31日まで無料で利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "インターフェースのスクリーンショット例（Photon）"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者でCEOのオットー・サイプ氏はFierce Healthcareに対し、「AIはメモ作成や参照から治療のワークフローへと移りつつある」と書き、「Photonはその一歩を支えるインフラを提供する」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "医師は患者名と薬剤名でプロンプトを始め、用量、指示、数量を確認したうえで処方を承認する。治療の責任は引き続き医師が負う。患者にはChatGPT外にあるPhotonの処方マーケットプレイスへ誘導するテキストが届き、価格を比較できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Photon为医生把处方\n带进ChatGPT",
+          "body": "Photon已成为ChatGPT插件，医生可在已在使用的工具中直接开处方。",
+          "mini_headline": "在ChatGPT内开处方",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "患者记录保存在Photon中，处方草稿会与患者记录的过敏史和用药进行核对。"
+              },
+              {
+                "t": "p",
+                "x": "处方基础设施公司Photon现已作为ChatGPT插件上线，帮助医生在已在使用的工具内简化开处方流程。"
+              },
+              {
+                "t": "p",
+                "x": "使用ChatGPT for Clinicians或ChatGPT for Healthcare、符合条件的U.S.持证医生均可使用这一选项。医生须接受Photon的BAA以保持HIPAA合规。该功能不支持管制药品。截至2026年12月31日，医生可免费使用该功能。"
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "界面截图示例（Photon）"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人兼CEO奥托·赛普在给Fierce Healthcare的信中写道：“AI正从记笔记和查资料走向治疗工作流程。”“Photon提供支撑这一步的基础设施。”"
+              },
+              {
+                "t": "p",
+                "x": "医生以患者姓名和药品名称开始输入提示，随后审核剂量、用法说明和数量，再批准处方，治疗责任仍由医生承担。患者会收到一条短信，链接到ChatGPT之外的Photon处方市场，以便比较价格。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Photon lleva la prescripción\na ChatGPT para los clínicos",
+          "body": "Photon ya es un complemento de ChatGPT, así que los clínicos pueden recetar dentro de una herramienta que ya usan.",
+          "mini_headline": "Recetas dentro de ChatGPT",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+                "cap": "Los historiales de los pacientes se guardan en Photon, y los borradores de receta se cotejan con las alergias y medicaciones registradas del paciente."
+              },
+              {
+                "t": "p",
+                "x": "Photon, una empresa de infraestructura de prescripción, ya está disponible como complemento de ChatGPT para agilizar la prescripción de los clínicos dentro de una herramienta que ya utilizan."
+              },
+              {
+                "t": "p",
+                "x": "La opción está disponible para clínicos con licencia en Estados Unidos (U.S.) que cumplan los requisitos y usen ChatGPT for Clinicians o ChatGPT for Healthcare. Los clínicos deben aceptar el BAA de Photon para mantener el cumplimiento de HIPAA. No se admiten sustancias controladas. La función es gratuita para los clínicos hasta el 31 de diciembre de 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+                "cap": "Captura de ejemplo de la interfaz (Photon)"
+              },
+              {
+                "t": "p",
+                "x": "\"La IA está pasando de la toma de notas y la consulta de referencias a los flujos de trabajo de tratamiento\", escribió Otto Sipe, cofundador y CEO, a Fierce Healthcare. \"Photon proporciona la infraestructura que sostiene ese paso\"."
+              },
+              {
+                "t": "p",
+                "x": "Los clínicos inician un prompt con el nombre del paciente y del medicamento, y luego revisan la dosis, las instrucciones y la cantidad antes de autorizar la receta, de modo que siguen siendo responsables del tratamiento. El paciente recibe un mensaje de texto que lo dirige al mercado de recetas de Photon, fuera de ChatGPT, para comparar precios."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "heart-failure-drug-ai-kr",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "심부전 약 효과\nAI가 환자별로 예측",
+      "body": "16가지 임상정보로 심부전 치료제 효과가 클 환자를 가려내는 AI가 개발됐다.",
+      "mini_headline": "심부전 약효 AI 예측",
+      "tool": "Medicine",
+      "source": "후생신보",
+      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99050",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "컴퓨터단층촬영(CT)은 두개악안면(CMF) 기형 진료의 핵심이다. 하지만 병원 안 영상에 기대면 원격 수술 전 평가가 어렵고, 반복 촬영은 특히 소아의 방사선 노출과 접근 부담을 키울 수 있다."
+            "t": "img",
+            "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+            "cap": "왼쪽부터 분당서울대병원 순환기내과 박진주·윤민재 교수, 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사, 사진 = 분당서울대병원"
           },
           {
             "t": "p",
-            "x": "원격의료용 인공지능 프레임워크 Tele-Cranio는 모바일로 찍은 2D 얼굴 사진에서 3D 얼굴 형태를 재구성하고 그에 맞는 골격 형태를 추정한다. 외과의가 세운 골격 계획대로 수술 후 얼굴을 시뮬레이션하는 기능도 있다."
+            "x": "분당서울대병원 순환기내과 박진주·윤민재 교수팀과 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사팀은 박출률 보존 심부전 환자의 약물 치료 효과를 예측하는 AI 도구 'PARAGUIDE'를 개발했다."
           },
           {
             "t": "p",
-            "x": "프레임워크 개발에는 3–60세 개인에게서 얻은 다중 모달 짝 표본 539쌍이 쓰였다. 여기에는 부정교합, 구순열(구개열 동반 여부 무관), 반안면왜소증, 희귀 기형 등 CMF 기형 환자 334명이 들어 있다. 핵심 모델 Bidirectional Craniomaxillofacial Model-Deformity가 얼굴 연조직과 골격 구조를 잇는다."
+            "x": "연구팀은 박출률 보존 심부전 환자 4,161명의 임상정보를 분석해 사쿠비트릴/발사르탄에 대한 개인별 치료반응을 예측하는 모델을 구축했다. 53개 기초 임상 특성을 분석한 뒤, 실제 진료현장에서 활용할 수 있도록 입력 변수를 16개로 줄였다."
           },
           {
             "t": "p",
-            "x": "Tele-Cranio는 서로 다른 CMF 하위 집단에서 검증됐다. 원격 선별, pre-CT 상담, 방사선 없는 추적 관찰, 외과의–환자 소통에 쓸 해석 가능한 CT-free 계층을 제공하되, CT-based 확정 진단과 수술 계획을 대체하지 않고 보완한다."
+            "x": "전체 환자군에서 심혈관 사망 및 심부전 입원 감소 효과는 통계적으로 유의하지 않았다. 그러나 AI가 치료 혜택을 예상한 환자군은 전체의 70.8%였으며, 이 집단에서는 발사르탄 단독치료 대비 위험이 18% 낮았다(RR 0.82, 95% CI 0.69~0.98)."
+          },
+          {
+            "t": "p",
+            "x": "박진주 교수는 \"이번 연구는 '이 약이 효과가 있는가'라는 질문을 '이 약이 바로 이 환자에게 도움이 되는가'라는 질문으로 바꾼 것\"이라고 말했다. 결과는 'npj Digital Medicine'에 게재됐으며, PARAGUIDE는 웹사이트를 통해 무료로 이용할 수 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Phone photos stand in for\nCT in craniofacial triage",
-          "body": "Tele-Cranio turns phone photos into 3D face and skeleton estimates for CT-free remote triage, sparing kids repeat scans.",
-          "mini_headline": "CT-free craniofacial AI",
+        "ko": {
+          "headline": "심부전 약 효과\nAI가 환자별로 예측",
+          "body": "16가지 임상정보로 심부전 치료제 효과가 클 환자를 가려내는 AI가 개발됐다.",
+          "mini_headline": "심부전 약효 AI 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Computed tomography (CT) is central to craniomaxillofacial (CMF) deformity care, yet dependence on in-hospital imaging constrains remote preoperative assessment, and repeated imaging can increase radiation and access burdens, particularly for children."
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "왼쪽부터 분당서울대병원 순환기내과 박진주·윤민재 교수, 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사, 사진 = 분당서울대병원"
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio, a telemedicine-oriented artificial intelligence framework, uses mobile-acquired 2D facial photographs to reconstruct 3D facial morphology, estimate corresponding skeletal morphology and support postoperative facial simulation conditioned on surgeon-defined skeletal plans."
+                "x": "분당서울대병원 순환기내과 박진주·윤민재 교수팀과 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사팀은 박출률 보존 심부전 환자의 약물 치료 효과를 예측하는 AI 도구 'PARAGUIDE'를 개발했다."
               },
               {
                 "t": "p",
-                "x": "It was developed using 539 paired multimodal samples from individuals aged 3–60 years, including 334 patients with CMF deformities across malocclusion, cleft lip with/without palate, hemifacial microsomia and rare anomalies. Its core model, the Bidirectional Craniomaxillofacial Model-Deformity, links facial soft tissue and skeletal structures."
+                "x": "연구팀은 박출률 보존 심부전 환자 4,161명의 임상정보를 분석해 사쿠비트릴/발사르탄에 대한 개인별 치료반응을 예측하는 모델을 구축했다. 53개 기초 임상 특성을 분석한 뒤, 실제 진료현장에서 활용할 수 있도록 입력 변수를 16개로 줄였다."
               },
               {
                 "t": "p",
-                "x": "Validated across heterogeneous CMF subgroups, Tele-Cranio provides an interpretable CT-free layer for remote triage, pre-CT consultation, radiation-free follow-up and surgeon–patient communication, while complementing rather than replacing CT-based definitive diagnosis and operative planning."
+                "x": "전체 환자군에서 심혈관 사망 및 심부전 입원 감소 효과는 통계적으로 유의하지 않았다. 그러나 AI가 치료 혜택을 예상한 환자군은 전체의 70.8%였으며, 이 집단에서는 발사르탄 단독치료 대비 위험이 18% 낮았다(RR 0.82, 95% CI 0.69~0.98)."
+              },
+              {
+                "t": "p",
+                "x": "박진주 교수는 \"이번 연구는 '이 약이 효과가 있는가'라는 질문을 '이 약이 바로 이 환자에게 도움이 되는가'라는 질문으로 바꾼 것\"이라고 말했다. 결과는 'npj Digital Medicine'에 게재됐으며, PARAGUIDE는 웹사이트를 통해 무료로 이용할 수 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "휴대폰 사진이 두개안면\n선별에서 CT를 대신한다",
-          "body": "Tele-Cranio는 폰 사진만으로 3D 골격을 추정해 CT-free 선별한다.",
-          "mini_headline": "CT-free 두개안면 AI",
+        "en": {
+          "headline": "AI predicts heart failure drug\nbenefit patient by patient",
+          "body": "A new AI uses 16 clinical variables to spot the patients most likely to benefit from a heart failure drug.",
+          "mini_headline": "AI predicts heart drug response",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "컴퓨터단층촬영(CT)은 두개악안면(CMF) 기형 진료의 핵심이다. 하지만 병원 안 영상에 기대면 원격 수술 전 평가가 어렵고, 반복 촬영은 특히 소아의 방사선 노출과 접근 부담을 키울 수 있다."
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "From left: Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, Professor Kook Woong of the Department of Mathematical Sciences at Seoul National University, and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS). Photo: Seoul National University Bundang Hospital"
               },
               {
                 "t": "p",
-                "x": "원격의료용 인공지능 프레임워크 Tele-Cranio는 모바일로 찍은 2D 얼굴 사진에서 3D 얼굴 형태를 재구성하고 그에 맞는 골격 형태를 추정한다. 외과의가 세운 골격 계획대로 수술 후 얼굴을 시뮬레이션하는 기능도 있다."
+                "x": "A team led by Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, together with Professor Kook Woong of Seoul National University's Department of Mathematical Sciences and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS), has developed 'PARAGUIDE', an AI tool that predicts the effect of drug treatment in patients with heart failure with preserved ejection fraction."
               },
               {
                 "t": "p",
-                "x": "프레임워크 개발에는 3–60세 개인에게서 얻은 다중 모달 짝 표본 539쌍이 쓰였다. 여기에는 부정교합, 구순열(구개열 동반 여부 무관), 반안면왜소증, 희귀 기형 등 CMF 기형 환자 334명이 들어 있다. 핵심 모델 Bidirectional Craniomaxillofacial Model-Deformity가 얼굴 연조직과 골격 구조를 잇는다."
+                "x": "The team analyzed clinical data from 4,161 patients with heart failure with preserved ejection fraction to build a model that predicts each patient's response to sacubitril/valsartan. After analyzing 53 baseline clinical characteristics, they cut the input variables to 16 so the tool could be used in everyday clinical practice."
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio는 서로 다른 CMF 하위 집단에서 검증됐다. 원격 선별, pre-CT 상담, 방사선 없는 추적 관찰, 외과의–환자 소통에 쓸 해석 가능한 CT-free 계층을 제공하되, CT-based 확정 진단과 수술 계획을 대체하지 않고 보완한다."
+                "x": "Across the full patient population, the reduction in cardiovascular death and heart failure hospitalization was not statistically significant. However, the AI predicted a treatment benefit for 70.8% of patients, and in this group the risk was 18% lower than with valsartan alone (RR 0.82, 95% CI 0.69~0.98)."
+              },
+              {
+                "t": "p",
+                "x": "Professor Park Jin-joo said, \"This study turns the question 'Does this drug work?' into 'Does this drug help this particular patient?'\" The results were published in 'npj Digital Medicine', and PARAGUIDE is available free of charge through a website."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スマホ写真が頭蓋顔面の\nトリアージでCTを代替",
-          "body": "Tele-Cranioはスマホ写真で3Dの顔と骨格を推定しCT-freeの遠隔判定を担う。",
-          "mini_headline": "CT-freeの頭蓋顔面AI",
+          "headline": "心不全薬の効果を\nAIが患者ごとに予測",
+          "body": "16項目の臨床情報から、心不全治療薬の効果が大きい患者を見分けるAIが開発された。",
+          "mini_headline": "心不全薬の効果をAIで予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "コンピュータ断層撮影（CT）は頭蓋顎顔面（CMF）変形の診療の中心だが、院内画像への依存は遠隔での術前評価を制約し、繰り返しの撮像は特に小児で放射線被曝と受診の負担を増やしうる。"
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "左から盆唐ソウル大学病院循環器内科のパク・ジンジュ教授とユン・ミンジェ教授、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士。写真＝盆唐ソウル大学病院"
               },
               {
                 "t": "p",
-                "x": "遠隔医療向けの人工知能フレームワークであるTele-Cranioは、モバイル端末で撮影した2D顔写真から3Dの顔面形態を再構成し、対応する骨格形態を推定し、外科医が定めた骨格計画に基づく術後の顔貌シミュレーションを支援する。"
+                "x": "盆唐ソウル大学病院循環器内科のパク・ジンジュ、ユン・ミンジェ両教授のチームと、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士のチームは、駆出率が保たれた心不全患者の薬物治療効果を予測するAIツール「PARAGUIDE」を開発した。"
               },
               {
                 "t": "p",
-                "x": "開発には3–60歳の個人から得た対のマルチモーダルサンプル539組が用いられ、不正咬合、口唇裂（口蓋裂の有無を問わず）、片側顔面小人症、まれな奇形にわたるCMF変形患者334人が含まれる。中核モデルのBidirectional Craniomaxillofacial Model-Deformityは、顔の軟部組織と骨格構造を結びつける。"
+                "x": "研究チームは駆出率が保たれた心不全患者4,161人の臨床情報を分析し、サクビトリル/バルサルタンに対する個々の治療反応を予測するモデルを構築した。53の基礎的な臨床特性を分析した後、実際の診療現場で使えるよう入力変数を16個に絞った。"
               },
               {
                 "t": "p",
-                "x": "多様なCMFサブグループで検証されたTele-Cranioは、遠隔トリアージ、pre-CT相談、放射線を使わない経過観察、外科医–患者間のコミュニケーションのための解釈可能なCT-freeレイヤーを提供し、CT-basedの確定診断や手術計画を置き換えるのではなく補完する。"
+                "x": "患者全体では、心血管死と心不全入院を減らす効果は統計的に有意ではなかった。しかし、AIが治療の恩恵を見込んだ患者群は全体の70.8%で、この群ではバルサルタン単独治療に比べてリスクが18%低かった（RR 0.82、95% CI 0.69～0.98）。"
+              },
+              {
+                "t": "p",
+                "x": "パク・ジンジュ教授は「今回の研究は『この薬は効くのか』という問いを、『この薬はまさにこの患者の役に立つのか』という問いに変えたものだ」と述べた。結果は『npj Digital Medicine』に掲載され、PARAGUIDEはウェブサイトから無料で利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "手机照片替代CT\n用于颅颌面分诊",
-          "body": "Tele-Cranio用手机照片估算3D面部与骨骼，实现CT-free远程分诊。",
-          "mini_headline": "CT-free颅颌面AI",
+          "headline": "心衰药物疗效\nAI逐个患者预测",
+          "body": "新开发的AI可凭16项临床信息，找出心衰治疗药物疗效更大的患者。",
+          "mini_headline": "AI预测心衰药效",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "计算机断层扫描（CT）是颅颌面（CMF）畸形诊疗的核心，但对院内影像的依赖限制了远程术前评估，反复成像还可能增加辐射和就医负担，儿童尤甚。"
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "左起：盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授，首尔大学数理科学系Kook Woong教授，首尔大学AI研究院（AIIS）Kim Won-se博士。图片来源：盆唐首尔大学医院"
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio是一个面向远程医疗的人工智能框架，利用移动设备采集的2D面部照片重建3D面部形态，估算相应的骨骼形态，并支持基于外科医生设定骨骼方案的术后面部模拟。"
+                "x": "盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授团队与首尔大学数理科学系Kook Woong教授、首尔大学AI研究院（AIIS）Kim Won-se博士团队，开发出可预测射血分数保留型心衰患者药物治疗效果的AI工具“PARAGUIDE”。"
               },
               {
                 "t": "p",
-                "x": "该框架基于来自3–60岁个体的539组配对多模态样本开发，其中包括334名CMF畸形患者，涵盖错颌畸形、伴或不伴腭裂的唇裂、半侧颜面短小及罕见畸形。其核心模型Bidirectional Craniomaxillofacial Model-Deformity将面部软组织与骨骼结构联系起来。"
+                "x": "研究团队分析了4,161名射血分数保留型心衰患者的临床信息，构建出预测个体对沙库巴曲/缬沙坦治疗反应的模型。在分析53项基础临床特征后，为便于在实际诊疗中使用，将输入变量精简至16项。"
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio在异质性CMF亚组中得到验证，为远程分诊、pre-CT会诊、无辐射随访及医患沟通提供可解释的CT-free层，同时补充而非取代CT-based的确定性诊断和手术规划。"
+                "x": "在全体患者中，降低心血管死亡和心衰住院的效果并无统计学意义。但AI预测可从治疗中获益的患者占总数的70.8%，在这一群体中，与缬沙坦单药治疗相比风险降低18%（RR 0.82，95% CI 0.69~0.98）。"
+              },
+              {
+                "t": "p",
+                "x": "Park Jin-joo教授表示：“这项研究把‘这种药有没有效’的问题，变成了‘这种药能否帮助眼前这位患者’。”研究结果发表于《npj Digital Medicine》，PARAGUIDE可通过网站免费使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fotos de teléfono en lugar de\nCT para el triaje craneofacial",
-          "body": "Tele-Cranio estima en 3D rostro y esqueleto a partir de fotos de teléfono para un triaje remoto CT-free.",
-          "mini_headline": "AI craneofacial CT-free",
+          "headline": "Una IA predice por paciente el\nefecto de un fármaco cardiaco",
+          "body": "Una IA con 16 datos clínicos detecta qué pacientes se benefician más de un fármaco para la insuficiencia cardiaca.",
+          "mini_headline": "La IA predice el efecto de un fármaco cardiaco",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La tomografía computarizada (CT) es fundamental en la atención de las deformidades craneomaxilofaciales (CMF), pero la dependencia de las imágenes hospitalarias limita la evaluación preoperatoria a distancia, y la repetición de estudios puede aumentar la radiación y las cargas de acceso, sobre todo en niños."
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "De izquierda a derecha: los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl; el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS). Foto: Hospital Bundang de la Universidad Nacional de Seúl"
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio, un marco de inteligencia artificial orientado a la telemedicina, usa fotografías faciales 2D tomadas con dispositivos móviles para reconstruir la morfología facial 3D, estimar la morfología esquelética correspondiente y apoyar la simulación facial posoperatoria condicionada a planes esqueléticos definidos por el cirujano."
+                "x": "El equipo de los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl, junto con el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS), ha desarrollado 'PARAGUIDE', una herramienta de IA que predice el efecto del tratamiento farmacológico en pacientes con insuficiencia cardiaca con fracción de eyección preservada."
               },
               {
                 "t": "p",
-                "x": "Se desarrolló con 539 muestras multimodales emparejadas de personas de 3–60 años, incluidos 334 pacientes con deformidades CMF que abarcan maloclusión, labio leporino con o sin paladar hendido, microsomía hemifacial y anomalías raras. Su modelo central, el Bidirectional Craniomaxillofacial Model-Deformity, vincula los tejidos blandos faciales con las estructuras esqueléticas."
+                "x": "El equipo analizó los datos clínicos de 4161 pacientes con insuficiencia cardiaca con fracción de eyección preservada y construyó un modelo que predice la respuesta individual al sacubitrilo/valsartán. Tras analizar 53 características clínicas basales, redujo las variables de entrada a 16 para que la herramienta pudiera usarse en la práctica clínica real."
               },
               {
                 "t": "p",
-                "x": "Validado en subgrupos CMF heterogéneos, Tele-Cranio ofrece una capa CT-free e interpretable para el triaje remoto, la consulta pre-CT, el seguimiento sin radiación y la comunicación cirujano–paciente, y complementa, en lugar de sustituir, el diagnóstico definitivo y la planificación quirúrgica CT-based (basados en CT)."
+                "x": "En el conjunto de los pacientes, la reducción de la muerte cardiovascular y de la hospitalización por insuficiencia cardiaca no fue estadísticamente significativa. Sin embargo, la IA previó un beneficio del tratamiento en el 70,8% de los pacientes, y en este grupo el riesgo fue un 18% menor que con valsartán en monoterapia (RR 0,82; CI del 95%: 0,69~0,98)."
+              },
+              {
+                "t": "p",
+                "x": "El profesor Park Jin-joo afirmó: \"Este estudio cambia la pregunta '¿funciona este fármaco?' por '¿ayuda este fármaco precisamente a este paciente?'\". Los resultados se publicaron en 'npj Digital Medicine', y PARAGUIDE puede utilizarse gratis a través de un sitio web."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "휴대폰 사진이 두개안면\n선별에서 CT를 대신한다",
-          "body": "Tele-Cranio는 폰 사진으로 3D 골격을 추정해 CT-free 선별한다.",
-          "mini_headline": "CT-free 두개안면 AI",
+        "en": {
+          "headline": "AI predicts heart failure drug\nbenefit patient by patient",
+          "body": "A new AI uses 16 clinical variables to spot the patients most likely to benefit from a heart failure drug.",
+          "mini_headline": "AI predicts heart drug response",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "컴퓨터단층촬영(CT)은 두개악안면(CMF) 기형 진료의 핵심이지만, 병원 내 영상에 의존하면 원격 수술 전 평가가 제약을 받고, 반복 촬영은 특히 소아에게 방사선 노출과 접근 부담을 키울 수 있다."
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "From left: Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, Professor Kook Woong of the Department of Mathematical Sciences at Seoul National University, and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS). Photo: Seoul National University Bundang Hospital"
               },
               {
                 "t": "p",
-                "x": "원격의료용 인공지능 프레임워크인 Tele-Cranio는 모바일로 촬영한 2D 얼굴 사진으로 3D 얼굴 형태를 재구성하고, 이에 대응하는 골격 형태를 추정하며, 외과의가 정한 골격 계획에 따른 수술 후 얼굴 시뮬레이션을 지원한다."
+                "x": "A team led by Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, together with Professor Kook Woong of Seoul National University's Department of Mathematical Sciences and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS), has developed 'PARAGUIDE', an AI tool that predicts the effect of drug treatment in patients with heart failure with preserved ejection fraction."
               },
               {
                 "t": "p",
-                "x": "이 프레임워크는 3–60세 개인에게서 얻은 다중 모달 짝 표본 539쌍으로 개발됐으며, 여기에는 부정교합, 구순열(구개열 동반 여부 무관), 반안면왜소증, 희귀 기형에 걸친 CMF 기형 환자 334명이 포함됐다. 핵심 모델인 Bidirectional Craniomaxillofacial Model-Deformity는 얼굴 연조직과 골격 구조를 연결한다."
+                "x": "The team analyzed clinical data from 4,161 patients with heart failure with preserved ejection fraction to build a model that predicts each patient's response to sacubitril/valsartan. After analyzing 53 baseline clinical characteristics, they cut the input variables to 16 so the tool could be used in everyday clinical practice."
               },
               {
                 "t": "p",
-                "x": "이질적인 CMF 하위 집단에서 검증된 Tele-Cranio는 원격 선별, pre-CT 상담, 방사선 없는 추적 관찰, 외과의–환자 소통을 위한 해석 가능한 CT-free 계층을 제공하며, CT-based 확정 진단과 수술 계획을 대체하기보다 보완한다."
+                "x": "Across the full patient population, the reduction in cardiovascular death and heart failure hospitalization was not statistically significant. However, the AI predicted a treatment benefit for 70.8% of patients, and in this group the risk was 18% lower than with valsartan alone (RR 0.82, 95% CI 0.69~0.98)."
+              },
+              {
+                "t": "p",
+                "x": "Professor Park Jin-joo said, \"This study turns the question 'Does this drug work?' into 'Does this drug help this particular patient?'\" The results were published in 'npj Digital Medicine', and PARAGUIDE is available free of charge through a website."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スマホ写真が頭蓋顔面の\nトリアージでCTを代替",
-          "body": "Tele-Cranioはスマホ写真で3Dの顔と骨格を推定しCT-freeの遠隔判定を担う。",
-          "mini_headline": "CT-freeの頭蓋顔面AI",
+          "headline": "心不全薬の効果を\nAIが患者ごとに予測",
+          "body": "16項目の臨床情報から、心不全治療薬の効果が大きい患者を見分けるAIが開発された。",
+          "mini_headline": "心不全薬の効果をAIで予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "コンピュータ断層撮影（CT）は頭蓋顎顔面（CMF）変形の診療の中心だが、院内画像への依存は遠隔での術前評価を制約し、繰り返しの撮像は特に小児で放射線被曝と受診の負担を増やしうる。"
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "左から盆唐ソウル大学病院循環器内科のパク・ジンジュ教授とユン・ミンジェ教授、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士。写真＝盆唐ソウル大学病院"
               },
               {
                 "t": "p",
-                "x": "遠隔医療向けの人工知能フレームワークであるTele-Cranioは、モバイル端末で撮影した2D顔写真から3Dの顔面形態を再構成し、対応する骨格形態を推定し、外科医が定めた骨格計画に基づく術後の顔貌シミュレーションを支援する。"
+                "x": "盆唐ソウル大学病院循環器内科のパク・ジンジュ、ユン・ミンジェ両教授のチームと、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士のチームは、駆出率が保たれた心不全患者の薬物治療効果を予測するAIツール「PARAGUIDE」を開発した。"
               },
               {
                 "t": "p",
-                "x": "開発には3–60歳の個人から得た対のマルチモーダルサンプル539組が用いられ、不正咬合、口唇裂（口蓋裂の有無を問わず）、片側顔面小人症、まれな奇形にわたるCMF変形患者334人が含まれる。中核モデルのBidirectional Craniomaxillofacial Model-Deformityは、顔の軟部組織と骨格構造を結びつける。"
+                "x": "研究チームは駆出率が保たれた心不全患者4,161人の臨床情報を分析し、サクビトリル/バルサルタンに対する個々の治療反応を予測するモデルを構築した。53の基礎的な臨床特性を分析した後、実際の診療現場で使えるよう入力変数を16個に絞った。"
               },
               {
                 "t": "p",
-                "x": "多様なCMFサブグループで検証されたTele-Cranioは、遠隔トリアージ、pre-CT相談、放射線を使わない経過観察、外科医–患者間のコミュニケーションのための解釈可能なCT-freeレイヤーを提供し、CT-basedの確定診断や手術計画を置き換えるのではなく補完する。"
+                "x": "患者全体では、心血管死と心不全入院を減らす効果は統計的に有意ではなかった。しかし、AIが治療の恩恵を見込んだ患者群は全体の70.8%で、この群ではバルサルタン単独治療に比べてリスクが18%低かった（RR 0.82、95% CI 0.69～0.98）。"
+              },
+              {
+                "t": "p",
+                "x": "パク・ジンジュ教授は「今回の研究は『この薬は効くのか』という問いを、『この薬はまさにこの患者の役に立つのか』という問いに変えたものだ」と述べた。結果は『npj Digital Medicine』に掲載され、PARAGUIDEはウェブサイトから無料で利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "手机照片替代CT\n用于颅颌面分诊",
-          "body": "Tele-Cranio用手机照片估算3D面部与骨骼，实现CT-free远程分诊。",
-          "mini_headline": "CT-free颅颌面AI",
+          "headline": "心衰药物疗效\nAI逐个患者预测",
+          "body": "新开发的AI可凭16项临床信息，找出心衰治疗药物疗效更大的患者。",
+          "mini_headline": "AI预测心衰药效",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "计算机断层扫描（CT）是颅颌面（CMF）畸形诊疗的核心，但对院内影像的依赖限制了远程术前评估，反复成像还可能增加辐射和就医负担，儿童尤甚。"
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "左起：盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授，首尔大学数理科学系Kook Woong教授，首尔大学AI研究院（AIIS）Kim Won-se博士。图片来源：盆唐首尔大学医院"
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio是一个面向远程医疗的人工智能框架，利用移动设备采集的2D面部照片重建3D面部形态，估算相应的骨骼形态，并支持基于外科医生设定骨骼方案的术后面部模拟。"
+                "x": "盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授团队与首尔大学数理科学系Kook Woong教授、首尔大学AI研究院（AIIS）Kim Won-se博士团队，开发出可预测射血分数保留型心衰患者药物治疗效果的AI工具“PARAGUIDE”。"
               },
               {
                 "t": "p",
-                "x": "该框架基于来自3–60岁个体的539组配对多模态样本开发，其中包括334名CMF畸形患者，涵盖错颌畸形、伴或不伴腭裂的唇裂、半侧颜面短小及罕见畸形。其核心模型Bidirectional Craniomaxillofacial Model-Deformity将面部软组织与骨骼结构联系起来。"
+                "x": "研究团队分析了4,161名射血分数保留型心衰患者的临床信息，构建出预测个体对沙库巴曲/缬沙坦治疗反应的模型。在分析53项基础临床特征后，为便于在实际诊疗中使用，将输入变量精简至16项。"
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio在异质性CMF亚组中得到验证，为远程分诊、pre-CT会诊、无辐射随访及医患沟通提供可解释的CT-free层，同时补充而非取代CT-based的确定性诊断和手术规划。"
+                "x": "在全体患者中，降低心血管死亡和心衰住院的效果并无统计学意义。但AI预测可从治疗中获益的患者占总数的70.8%，在这一群体中，与缬沙坦单药治疗相比风险降低18%（RR 0.82，95% CI 0.69~0.98）。"
+              },
+              {
+                "t": "p",
+                "x": "Park Jin-joo教授表示：“这项研究把‘这种药有没有效’的问题，变成了‘这种药能否帮助眼前这位患者’。”研究结果发表于《npj Digital Medicine》，PARAGUIDE可通过网站免费使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fotos de teléfono en lugar de\nCT para el triaje craneofacial",
-          "body": "Tele-Cranio estima en 3D rostro y esqueleto a partir de fotos de teléfono para un triaje remoto CT-free.",
-          "mini_headline": "AI craneofacial CT-free",
+          "headline": "Una IA predice por paciente el\nefecto de un fármaco cardiaco",
+          "body": "Una IA con 16 datos clínicos detecta qué pacientes se benefician más de un fármaco para la insuficiencia cardiaca.",
+          "mini_headline": "La IA predice el efecto de un fármaco cardiaco",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La tomografía computarizada (CT) es fundamental en la atención de las deformidades craneomaxilofaciales (CMF), pero la dependencia de las imágenes hospitalarias limita la evaluación preoperatoria a distancia, y la repetición de estudios puede aumentar la radiación y las cargas de acceso, sobre todo en niños."
+                "t": "img",
+                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+                "cap": "De izquierda a derecha: los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl; el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS). Foto: Hospital Bundang de la Universidad Nacional de Seúl"
               },
               {
                 "t": "p",
-                "x": "Tele-Cranio, un marco de inteligencia artificial orientado a la telemedicina, usa fotografías faciales 2D tomadas con dispositivos móviles para reconstruir la morfología facial 3D, estimar la morfología esquelética correspondiente y apoyar la simulación facial posoperatoria condicionada a planes esqueléticos definidos por el cirujano."
+                "x": "El equipo de los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl, junto con el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS), ha desarrollado 'PARAGUIDE', una herramienta de IA que predice el efecto del tratamiento farmacológico en pacientes con insuficiencia cardiaca con fracción de eyección preservada."
               },
               {
                 "t": "p",
-                "x": "Se desarrolló con 539 muestras multimodales emparejadas de personas de 3–60 años, incluidos 334 pacientes con deformidades CMF que abarcan maloclusión, labio leporino con o sin paladar hendido, microsomía hemifacial y anomalías raras. Su modelo central, el Bidirectional Craniomaxillofacial Model-Deformity, vincula los tejidos blandos faciales con las estructuras esqueléticas."
+                "x": "El equipo analizó los datos clínicos de 4161 pacientes con insuficiencia cardiaca con fracción de eyección preservada y construyó un modelo que predice la respuesta individual al sacubitrilo/valsartán. Tras analizar 53 características clínicas basales, redujo las variables de entrada a 16 para que la herramienta pudiera usarse en la práctica clínica real."
               },
               {
                 "t": "p",
-                "x": "Validado en subgrupos CMF heterogéneos, Tele-Cranio ofrece una capa CT-free e interpretable para el triaje remoto, la consulta pre-CT, el seguimiento sin radiación y la comunicación cirujano–paciente, y complementa, en lugar de sustituir, el diagnóstico definitivo y la planificación quirúrgica CT-based (basados en CT)."
+                "x": "En el conjunto de los pacientes, la reducción de la muerte cardiovascular y de la hospitalización por insuficiencia cardiaca no fue estadísticamente significativa. Sin embargo, la IA previó un beneficio del tratamiento en el 70,8% de los pacientes, y en este grupo el riesgo fue un 18% menor que con valsartán en monoterapia (RR 0,82; CI del 95%: 0,69~0,98)."
+              },
+              {
+                "t": "p",
+                "x": "El profesor Park Jin-joo afirmó: \"Este estudio cambia la pregunta '¿funciona este fármaco?' por '¿ayuda este fármaco precisamente a este paciente?'\". Los resultados se publicaron en 'npj Digital Medicine', y PARAGUIDE puede utilizarse gratis a través de un sitio web."
               }
             ]
           }
@@ -979,15 +1461,15 @@
       }
     },
     {
-      "id": "bmj-antibiotic-llm-cot",
+      "id": "eye-ambient-ai-emr-ophthalmology",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "의료 vs 범용 LLM\n항생제 처방 비교",
-      "body": "2x2 연구로 의료 LLM과 사고 사슬 프롬프팅의 항생제 처방 안전성을 따져 봤다.",
-      "mini_headline": "LLMs의 항생제 처방",
+      "headline": "안과 진료실에\n앰비언트 AI 기록",
+      "body": "앰비언트 AI가 EMR 기록을 맡자 안과 진료 시간이 최대 37% 줄었다.",
+      "mini_headline": "안과 진료실의 앰비언트 AI",
       "tool": "Medicine",
-      "source": "BMJ Health & Care Informatics",
-      "url": "https://informatics.bmj.com/lookup/doi/10.1136/bmjhci-2026-102418",
+      "source": "Eye (Nature)",
+      "url": "https://www.nature.com/articles/s41433-026-05028-5",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -995,155 +1477,209 @@
         "blocks": [
           {
             "t": "p",
-            "x": "이중 눈가림 2×2 요인 설계 연구다. 복잡한 입원 감염 사례 59건을 두고 도메인 특화 의료 LLM(MedGo)과 DeepSeek V.3.5가 표준 프롬프팅과 사고 사슬(CoT) 프롬프팅으로 각각 처방을 냈고, 실제 의사 처방과 비교했다. 처방 요법은 선임 임상의 세 명이 채점했고, ChatGPT V.5.2는 자동 채점기로 시험했다."
+            "x": "EMR 기록 업무는 의사의 부담을 키우고 환자와 의사의 상호작용을 줄인다. 전문 데이터를 많이 요구하는 안과는 타격이 특히 크다. 연구진은 표준화한 안과 진료에서 EMR에 구조화해 입력하는 앰비언트 AI-assisted(AI 보조) 기록을 기존 입력 방식과 비교했다."
+          },
+          {
+            "t": "p",
+            "x": "전문의 한 명과 전공의 한 명이 표준화한 안과 시나리오 열 개를 기존 방식과 AI-assisted 방식으로 각각 진행했다. ChatGPT 5.3과 Claude Sonnet 4.6은 TurboScribe로 음성을 받아쓴 다음 구조화된 LLM 출력을 만들었고, Heidi 2.0.1은 통합 오디오 파이프라인을 썼다. 목표는 모두 안과 EMR(Heyex; Heidelberg Engineering)에 구조화된 형태로 입력하는 것이었다."
           },
           {
             "t": "img",
-            "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-            "cap": "모델별 종합 항생제 처방 점수 비교."
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+            "cap": "그림 1: 진료 시간 구성 요소 — 기존 방식과 AI 보조 기록 비교"
           },
           {
             "t": "p",
-            "x": "종합 점수 순위: 의사(4.76±0.04) > MedGo CoT(4.58±0.09) > DeepSeek CoT(4.41±0.11) > MedGo(4.25±0.16) > DeepSeek(3.98±0.20). CoT는 두 모델 점수를 모두 유의하게 끌어올렸다(DeepSeek+ 0.43; MedGo+ 0.33). ChatGPT-expert 상관관계는 전반적으로 약했다(Kendall τ=0.153)."
+            "x": "AI-assisted 기록으로 전체 진료 시간은 전문의가 2.4분(−32%), 전공의가 3.0분(−37%) 줄었다. 기록·검토 시간은 각각 85%와 86%, 환자에게서 눈을 뗀 시간은 83%와 86% 감소했다. 컴퓨터로 향한 시선 이동은 두 의사 모두 72% 줄었다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+            "cap": "그림 2: AI 시스템별 항목 단위 기록 정확도 평가 분포"
           },
           {
             "t": "p",
-            "x": "MedGo-CoT는 의사 수준에 다가섰지만 눈에 띄는 안전성 격차는 여전했다. CoT 프롬프팅을 쓴 도메인 특화 LLMs는 처방 결정을 개선하지만 전문가의 임상 판단을 대신하진 못하며, LLM 자동 평가도 믿기 어렵다는 점이 드러났다."
+            "x": "정확도는 Claude Sonnet 4.6이 98.4 ± 2.9%로 가장 높았고, ChatGPT 5.3(97.0 ± 5.1%)과 Heidi 2.0.1(88.6 ± 9.9%)이 뒤를 이었다. 평가자가 전문의 한 명과 전공의 한 명뿐이어서 결과는 예비적이고, 가설을 세우는 수준으로 봐야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Medical LLM vs general LLM\non antibiotic prescribing",
-          "body": "A 2x2 study tests whether a medical-domain LLM and chain-of-thought prompting make antibiotic choices safer.",
-          "mini_headline": "LLMs on antibiotics",
+          "headline": "Ambient AI documentation\nin the eye clinic",
+          "body": "Ambient AI note-taking cut eye consultation time by up to 37%, and Claude Sonnet 4.6 reached 98.4% EMR accuracy.",
+          "mini_headline": "Ambient AI in eye clinics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "In a double-blind, 2×2 factorial design, 59 complex inpatient infection cases generated prescriptions from a domain-specific medical LLM (MedGo) and DeepSeek V.3.5, each with standard and chain-of-thought (CoT) prompting, alongside the real physician prescriptions. Three senior clinicians scored the regimens; ChatGPT V.5.2 was tested as an automated scorer."
+                "x": "EMR documentation contributes to physician workload and reduced patient–physician interaction, with ophthalmology particularly affected by specialist data requirements. This study compared ambient AI-assisted documentation for structured EMR import with conventional entry in standardised ophthalmic consultations."
+              },
+              {
+                "t": "p",
+                "x": "Ten standardised ophthalmic scenarios were performed under classic and AI-assisted conditions by a consultant and a resident. ChatGPT 5.3 and Claude Sonnet 4.6 used TurboScribe transcription followed by structured LLM output; Heidi 2.0.1 used an integrated audio pipeline. All targeted structured import into an ophthalmic EMR (Heyex; Heidelberg Engineering)."
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "Comparison of comprehensive antibiotic prescription scores across models."
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "Fig. 1: Consultation time components: classic versus AI-assisted documentation."
               },
               {
                 "t": "p",
-                "x": "Overall scores ranked: physicians (4.76±0.04) > MedGo CoT (4.58±0.09) > DeepSeek CoT (4.41±0.11) > MedGo (4.25±0.16) > DeepSeek (3.98±0.20). CoT significantly improved both models (DeepSeek+ 0.43; MedGo+ 0.33). ChatGPT-expert correlation was negligible overall (Kendall τ=0.153)."
+                "x": "AI-assisted documentation reduced total consultation time by 2.4 min (−32%) for the consultant and 3.0 min (−37%) for the resident. Documentation and review time decreased by 85% and 86%, and off-patient gaze time by 83% and 86%; computer-related gaze shifts decreased by 72% for both clinicians."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "Fig. 2: Item-level distribution of documentation accuracy ratings by AI system."
               },
               {
                 "t": "p",
-                "x": "Despite MedGo-CoT approaching physicians’ performance, notable safety gaps persisted. Domain-specific LLMs with CoT prompting improve prescribing decisions but cannot replace expert clinical judgement; automated LLM evaluation proved unreliable."
+                "x": "Accuracy was highest for Claude Sonnet 4.6 (98.4 ± 2.9%), followed by ChatGPT 5.3 (97.0 ± 5.1%) and Heidi 2.0.1 (88.6 ± 9.9%). As only one consultant and one resident were assessed, these findings should be regarded as preliminary and hypothesis-generating."
               }
             ]
           }
         },
         "ko": {
-          "headline": "의료 vs 범용 LLM\n항생제 처방 비교",
-          "body": "2x2 연구로 의료 LLM과 사고 사슬 프롬프팅의 항생제 처방 안전성을 따져 봤다.",
-          "mini_headline": "LLMs의 항생제 처방",
+          "headline": "안과 진료실에\n앰비언트 AI 기록",
+          "body": "앰비언트 AI가 EMR 기록을 맡자 안과 진료 시간이 최대 37% 줄었다.",
+          "mini_headline": "안과 진료실의 앰비언트 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이중 눈가림 2×2 요인 설계 연구다. 복잡한 입원 감염 사례 59건을 두고 도메인 특화 의료 LLM(MedGo)과 DeepSeek V.3.5가 표준 프롬프팅과 사고 사슬(CoT) 프롬프팅으로 각각 처방을 냈고, 실제 의사 처방과 비교했다. 처방 요법은 선임 임상의 세 명이 채점했고, ChatGPT V.5.2는 자동 채점기로 시험했다."
+                "x": "EMR 기록 업무는 의사의 부담을 키우고 환자와 의사의 상호작용을 줄인다. 전문 데이터를 많이 요구하는 안과는 타격이 특히 크다. 연구진은 표준화한 안과 진료에서 EMR에 구조화해 입력하는 앰비언트 AI-assisted(AI 보조) 기록을 기존 입력 방식과 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "전문의 한 명과 전공의 한 명이 표준화한 안과 시나리오 열 개를 기존 방식과 AI-assisted 방식으로 각각 진행했다. ChatGPT 5.3과 Claude Sonnet 4.6은 TurboScribe로 음성을 받아쓴 다음 구조화된 LLM 출력을 만들었고, Heidi 2.0.1은 통합 오디오 파이프라인을 썼다. 목표는 모두 안과 EMR(Heyex; Heidelberg Engineering)에 구조화된 형태로 입력하는 것이었다."
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "모델별 종합 항생제 처방 점수 비교."
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "그림 1: 진료 시간 구성 요소 — 기존 방식과 AI 보조 기록 비교"
               },
               {
                 "t": "p",
-                "x": "종합 점수 순위: 의사(4.76±0.04) > MedGo CoT(4.58±0.09) > DeepSeek CoT(4.41±0.11) > MedGo(4.25±0.16) > DeepSeek(3.98±0.20). CoT는 두 모델 점수를 모두 유의하게 끌어올렸다(DeepSeek+ 0.43; MedGo+ 0.33). ChatGPT-expert 상관관계는 전반적으로 약했다(Kendall τ=0.153)."
+                "x": "AI-assisted 기록으로 전체 진료 시간은 전문의가 2.4분(−32%), 전공의가 3.0분(−37%) 줄었다. 기록·검토 시간은 각각 85%와 86%, 환자에게서 눈을 뗀 시간은 83%와 86% 감소했다. 컴퓨터로 향한 시선 이동은 두 의사 모두 72% 줄었다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "그림 2: AI 시스템별 항목 단위 기록 정확도 평가 분포"
               },
               {
                 "t": "p",
-                "x": "MedGo-CoT는 의사 수준에 다가섰지만 눈에 띄는 안전성 격차는 여전했다. CoT 프롬프팅을 쓴 도메인 특화 LLMs는 처방 결정을 개선하지만 전문가의 임상 판단을 대신하진 못하며, LLM 자동 평가도 믿기 어렵다는 점이 드러났다."
+                "x": "정확도는 Claude Sonnet 4.6이 98.4 ± 2.9%로 가장 높았고, ChatGPT 5.3(97.0 ± 5.1%)과 Heidi 2.0.1(88.6 ± 9.9%)이 뒤를 이었다. 평가자가 전문의 한 명과 전공의 한 명뿐이어서 결과는 예비적이고, 가설을 세우는 수준으로 봐야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "医療LLM vs 汎用LLM\n抗菌薬処方で比較",
-          "body": "2x2の研究が、医療特化LLMと思考連鎖プロンプトで抗菌薬選択が安全になるかを検証する。",
-          "mini_headline": "抗菌薬とLLMs",
+          "headline": "眼科診療に\nアンビエントAI記録",
+          "body": "アンビエントAIがEMR記録を担うと、眼科の診察時間が最大37%短縮した。",
+          "mini_headline": "眼科のアンビエントAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "二重盲検の2×2要因デザインで、複雑な入院感染症59例について、ドメイン特化の医療LLM（MedGo）とDeepSeek V.3.5がそれぞれ標準プロンプトと思考の連鎖（CoT）プロンプトで処方を生成し、実際の医師の処方と並べて比較した。三人の上級臨床医がレジメンを採点し、ChatGPT V.5.2は自動採点者として検証された。"
+                "x": "EMRへの記録は医師の負担を増やし、患者と医師のやり取りを減らす一因となっており、専門的なデータが求められる眼科は特に影響を受けやすい。本研究は、標準化した眼科診察において、構造化されたEMR取り込みのためのアンビエントなAI-assisted（AI支援）記録と従来の入力を比較した。"
+              },
+              {
+                "t": "p",
+                "x": "専門医一人と専攻医一人が、標準化した十の眼科シナリオを従来法とAI-assisted条件でそれぞれ実施した。ChatGPT 5.3とClaude Sonnet 4.6はTurboScribeで文字起こしした後に構造化したLLM出力を用い、Heidi 2.0.1は統合型の音声パイプラインを用いた。いずれも眼科用EMR（Heyex; Heidelberg Engineering）への構造化取り込みを目指した。"
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "モデル間の総合的な抗菌薬処方スコアの比較。"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "図1：診察時間の内訳――従来法とAI支援記録の比較"
               },
               {
                 "t": "p",
-                "x": "総合スコアの順位：医師（4.76±0.04）> MedGo CoT（4.58±0.09）> DeepSeek CoT（4.41±0.11）> MedGo（4.25±0.16）> DeepSeek（3.98±0.20）。CoTは両モデルを有意に改善した（DeepSeek+ 0.43; MedGo+ 0.33）。ChatGPT-expertの相関は全体として無視できる程度だった（Kendall τ=0.153）。"
+                "x": "AI-assisted記録により、総診察時間は専門医で2.4分（−32%）、専攻医で3.0分（−37%）短縮した。記録・確認時間はそれぞれ85%と86%、患者から視線を外す時間は83%と86%減少し、コンピューター関連の視線移動は両医師とも72%減った。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "図2：AIシステム別の記録精度評価の項目レベル分布"
               },
               {
                 "t": "p",
-                "x": "MedGo-CoTは医師の成績に迫ったものの、顕著な安全性のギャップは残った。CoTプロンプトを用いたドメイン特化LLMsは処方判断を改善するが、専門家の臨床判断に代わることはできず、LLMによる自動評価は信頼性に欠けることが分かった。"
+                "x": "精度が最も高かったのはClaude Sonnet 4.6（98.4 ± 2.9%）で、ChatGPT 5.3（97.0 ± 5.1%）、Heidi 2.0.1（88.6 ± 9.9%）が続いた。評価対象は専門医一人と専攻医一人のみであるため、これらの結果は予備的で仮説生成的なものとみなすべきである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医学LLM vs 通用LLM\n抗生素处方对决",
-          "body": "一项2x2研究检验医学领域LLM与思维链提示能否让抗生素选择更安全。",
-          "mini_headline": "LLMs开抗生素",
+          "headline": "眼科诊室里的\n环境式AI病历记录",
+          "body": "借助环境式AI完成EMR记录，眼科问诊时间最多缩短了37%。",
+          "mini_headline": "眼科诊室的环境式AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "在一项双盲2×2析因设计中，研究者针对59例复杂住院感染病例，由领域专用医学LLM（MedGo）和DeepSeek V.3.5分别在标准提示和思维链（CoT）提示下生成处方，并与真实医生处方并列比较。三名资深临床医生对治疗方案评分；ChatGPT V.5.2则作为自动评分器接受测试。"
+                "x": "EMR记录加重了医生的工作负担，并减少了医患互动，眼科因专科数据要求尤其受到影响。本研究在标准化眼科问诊中，比较了用于结构化EMR导入的环境式AI-assisted（AI辅助）记录与传统录入方式。"
+              },
+              {
+                "t": "p",
+                "x": "一名主治医师和一名住院医师分别在传统和AI-assisted条件下完成了十个标准化眼科场景。ChatGPT 5.3和Claude Sonnet 4.6先用TurboScribe转写，再生成结构化LLM输出；Heidi 2.0.1则使用集成音频流程。所有系统均以结构化导入眼科EMR（Heyex；Heidelberg Engineering）为目标。"
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "各模型综合抗生素处方评分比较。"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "图1：问诊时间构成——传统记录与AI辅助记录对比"
               },
               {
                 "t": "p",
-                "x": "总体得分排名：医生（4.76±0.04）> MedGo CoT（4.58±0.09）> DeepSeek CoT（4.41±0.11）> MedGo（4.25±0.16）> DeepSeek（3.98±0.20）。CoT显著提升了两个模型的表现（DeepSeek+ 0.43；MedGo+ 0.33）。ChatGPT-expert相关性总体可忽略（Kendall τ=0.153）。"
+                "x": "AI-assisted记录使主治医师的总问诊时间缩短2.4分钟（−32%），住院医师缩短3.0分钟（−37%）。记录与审核时间分别减少85%和86%，视线离开患者的时间分别减少83%和86%；两名医生与电脑相关的视线转移均减少72%。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "图2：各AI系统文档准确性评分的条目级分布"
               },
               {
                 "t": "p",
-                "x": "尽管MedGo-CoT接近医生水平，但明显的安全差距依然存在。采用CoT提示的领域专用LLMs能改善处方决策，但无法取代专家临床判断；LLM自动评估被证明不可靠。"
+                "x": "准确率最高的是Claude Sonnet 4.6（98.4 ± 2.9%），其次为ChatGPT 5.3（97.0 ± 5.1%）和Heidi 2.0.1（88.6 ± 9.9%）。由于仅评估了一名主治医师和一名住院医师，这些结果应视为初步的、用于提出假设的发现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "LLM médico vs LLM general\nen la prescripción antibiótica",
-          "body": "Un estudio 2x2 evalúa si un LLM médico y la cadena de pensamiento hacen más segura la elección de antibióticos.",
-          "mini_headline": "LLMs y antibióticos",
+          "headline": "Documentación con IA ambiental\nen la consulta de oftalmología",
+          "body": "La IA ambiental acortó hasta un 37% las consultas de oftalmología y Claude Sonnet 4.6 logró un 98,4% de precisión.",
+          "mini_headline": "IA ambiental en consultas de oftalmología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "En un diseño factorial 2×2 doble ciego, se generaron prescripciones para 59 casos complejos de infección en pacientes hospitalizados con un LLM médico de dominio específico (MedGo) y con DeepSeek V.3.5, cada uno con prompts estándar y de cadena de pensamiento (CoT), junto a las prescripciones reales de los médicos. Tres clínicos sénior puntuaron las pautas; ChatGPT V.5.2 se probó como evaluador automático."
+                "x": "La documentación en la EMR contribuye a la carga de trabajo de los médicos y reduce la interacción entre paciente y médico, y la oftalmología se ve especialmente afectada por sus requisitos de datos especializados. Este estudio comparó la documentación ambiental AI-assisted (asistida por IA) para la importación estructurada en la EMR con la introducción convencional en consultas oftalmológicas estandarizadas."
+              },
+              {
+                "t": "p",
+                "x": "Un especialista y un residente realizaron diez escenarios oftalmológicos estandarizados en condiciones clásicas y AI-assisted. ChatGPT 5.3 y Claude Sonnet 4.6 usaron la transcripción de TurboScribe seguida de una salida estructurada de un LLM; Heidi 2.0.1 empleó un flujo de audio integrado. Todos buscaban la importación estructurada en una EMR oftalmológica (Heyex; Heidelberg Engineering)."
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "Comparación de las puntuaciones globales de prescripción antibiótica entre modelos."
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "Fig. 1: Componentes del tiempo de consulta: documentación clásica frente a documentación asistida por IA."
               },
               {
                 "t": "p",
-                "x": "Clasificación de las puntuaciones globales: médicos (4.76±0.04) > MedGo CoT (4.58±0.09) > DeepSeek CoT (4.41±0.11) > MedGo (4.25±0.16) > DeepSeek (3.98±0.20). CoT mejoró de forma significativa ambos modelos (DeepSeek+ 0.43; MedGo+ 0.33). La correlación ChatGPT-expert fue insignificante en conjunto (Kendall τ=0.153)."
+                "x": "La documentación AI-assisted redujo el tiempo total de consulta en 2,4 min (−32%) para el especialista y en 3,0 min (−37%) para el residente. El tiempo de documentación y revisión disminuyó un 85% y un 86%, y el tiempo con la mirada fuera del paciente, un 83% y un 86%; los desplazamientos de la mirada hacia el equipo informático se redujeron un 72% en ambos médicos."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "Fig. 2: Distribución por ítem de las valoraciones de precisión de la documentación según el sistema de IA."
               },
               {
                 "t": "p",
-                "x": "Aunque MedGo-CoT se acercó al rendimiento de los médicos, persistieron brechas de seguridad notables. Los LLMs de dominio específico con prompts CoT mejoran las decisiones de prescripción, pero no pueden sustituir el juicio clínico experto; la evaluación automática con LLM resultó poco fiable."
+                "x": "La precisión fue máxima con Claude Sonnet 4.6 (98,4 ± 2,9%), seguido de ChatGPT 5.3 (97,0 ± 5,1%) y Heidi 2.0.1 (88,6 ± 9,9%). Como solo se evaluó a un especialista y a un residente, estos resultados deben considerarse preliminares y generadores de hipótesis."
               }
             ]
           }
@@ -1151,431 +1687,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "의료 vs 범용 LLM\n항생제 처방 비교",
-          "body": "2x2 연구가 의료 LLM과 사고 사슬 프롬프팅의 항생제 처방 안전성을 따졌다.",
-          "mini_headline": "LLMs의 항생제 처방",
+          "headline": "안과 진료실에\n앰비언트 AI 기록",
+          "body": "앰비언트 AI가 EMR 기록을 맡자 안과 진료 시간이 최대 37% 줄었다.",
+          "mini_headline": "안과 진료실의 앰비언트 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이중 눈가림 2×2 요인 설계로, 복잡한 입원 감염 사례 59건에 대해 도메인 특화 의료 LLM(MedGo)과 DeepSeek V.3.5가 각각 표준 프롬프팅과 사고 사슬(CoT) 프롬프팅으로 처방을 생성했고, 실제 의사 처방도 함께 비교했다. 선임 임상의 세 명이 처방 요법을 채점했으며, ChatGPT V.5.2는 자동 채점기로 시험했다."
+                "x": "EMR 기록 업무는 의사의 업무 부담을 키우고 환자와 의사의 상호작용을 줄이는 요인이며, 전문 데이터 요구가 많은 안과는 그 영향을 특히 크게 받는다. 이 연구는 표준화한 안과 진료에서 구조화된 EMR 입력을 위한 앰비언트 AI-assisted(AI 보조) 기록과 기존 방식의 입력을 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "전문의 한 명과 전공의 한 명이 표준화한 안과 시나리오 열 개를 기존 방식과 AI-assisted 방식으로 각각 수행했다. ChatGPT 5.3과 Claude Sonnet 4.6은 TurboScribe로 음성을 받아쓴 뒤 구조화된 LLM 출력을 생성했고, Heidi 2.0.1은 통합 오디오 파이프라인을 썼다. 모든 시스템은 안과 EMR(Heyex; Heidelberg Engineering)로의 구조화된 입력을 목표로 했다."
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "모델별 종합 항생제 처방 점수 비교."
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "그림 1: 진료 시간 구성 요소 — 기존 방식과 AI 보조 기록 비교"
               },
               {
                 "t": "p",
-                "x": "종합 점수 순위: 의사(4.76±0.04) > MedGo CoT(4.58±0.09) > DeepSeek CoT(4.41±0.11) > MedGo(4.25±0.16) > DeepSeek(3.98±0.20). CoT는 두 모델 모두를 유의하게 개선했다(DeepSeek+ 0.43; MedGo+ 0.33). ChatGPT-expert 상관관계는 전반적으로 미미했다(Kendall τ=0.153)."
+                "x": "AI-assisted 기록은 전체 진료 시간을 전문의는 2.4분(−32%), 전공의는 3.0분(−37%) 줄였다. 기록·검토 시간은 각각 85%와 86%, 환자에게서 시선을 뗀 시간은 83%와 86% 감소했으며, 컴퓨터 쪽으로의 시선 이동은 두 의사 모두 72% 줄었다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "그림 2: AI 시스템별 항목 단위 기록 정확도 평가 분포"
               },
               {
                 "t": "p",
-                "x": "MedGo-CoT가 의사 수준에 근접했지만 주목할 만한 안전성 격차는 남았다. CoT 프롬프팅을 쓴 도메인 특화 LLMs는 처방 결정을 개선하지만 전문가의 임상 판단을 대체할 수는 없으며, LLM 자동 평가는 신뢰하기 어려운 것으로 드러났다."
+                "x": "정확도는 Claude Sonnet 4.6이 98.4 ± 2.9%로 가장 높았고, ChatGPT 5.3(97.0 ± 5.1%)과 Heidi 2.0.1(88.6 ± 9.9%)이 뒤를 이었다. 전문의 한 명과 전공의 한 명만 평가했으므로, 이 결과는 예비적이며 가설을 세우는 수준으로 봐야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "医療LLM vs 汎用LLM\n抗菌薬処方で比較",
-          "body": "2x2の研究が、医療特化LLMと思考連鎖プロンプトで抗菌薬選択が安全になるかを検証する。",
-          "mini_headline": "抗菌薬とLLMs",
+          "headline": "眼科診療に\nアンビエントAI記録",
+          "body": "アンビエントAIがEMR記録を担うと、眼科の診察時間が最大37%短縮した。",
+          "mini_headline": "眼科のアンビエントAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "二重盲検の2×2要因デザインで、複雑な入院感染症59例について、ドメイン特化の医療LLM（MedGo）とDeepSeek V.3.5がそれぞれ標準プロンプトと思考の連鎖（CoT）プロンプトで処方を生成し、実際の医師の処方と並べて比較した。三人の上級臨床医がレジメンを採点し、ChatGPT V.5.2は自動採点者として検証された。"
+                "x": "EMRへの記録は医師の負担を増やし、患者と医師のやり取りを減らす一因となっており、専門的なデータが求められる眼科は特に影響を受けやすい。本研究は、標準化した眼科診察において、構造化されたEMR取り込みのためのアンビエントなAI-assisted（AI支援）記録と従来の入力を比較した。"
+              },
+              {
+                "t": "p",
+                "x": "専門医一人と専攻医一人が、標準化した十の眼科シナリオを従来法とAI-assisted条件でそれぞれ実施した。ChatGPT 5.3とClaude Sonnet 4.6はTurboScribeで文字起こしした後に構造化したLLM出力を用い、Heidi 2.0.1は統合型の音声パイプラインを用いた。いずれも眼科用EMR（Heyex; Heidelberg Engineering）への構造化取り込みを目指した。"
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "モデル間の総合的な抗菌薬処方スコアの比較。"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "図1：診察時間の内訳――従来法とAI支援記録の比較"
               },
               {
                 "t": "p",
-                "x": "総合スコアの順位：医師（4.76±0.04）> MedGo CoT（4.58±0.09）> DeepSeek CoT（4.41±0.11）> MedGo（4.25±0.16）> DeepSeek（3.98±0.20）。CoTは両モデルを有意に改善した（DeepSeek+ 0.43; MedGo+ 0.33）。ChatGPT-expertの相関は全体として無視できる程度だった（Kendall τ=0.153）。"
+                "x": "AI-assisted記録により、総診察時間は専門医で2.4分（−32%）、専攻医で3.0分（−37%）短縮した。記録・確認時間はそれぞれ85%と86%、患者から視線を外す時間は83%と86%減少し、コンピューター関連の視線移動は両医師とも72%減った。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "図2：AIシステム別の記録精度評価の項目レベル分布"
               },
               {
                 "t": "p",
-                "x": "MedGo-CoTは医師の成績に迫ったものの、顕著な安全性のギャップは残った。CoTプロンプトを用いたドメイン特化LLMsは処方判断を改善するが、専門家の臨床判断に代わることはできず、LLMによる自動評価は信頼性に欠けることが分かった。"
+                "x": "精度が最も高かったのはClaude Sonnet 4.6（98.4 ± 2.9%）で、ChatGPT 5.3（97.0 ± 5.1%）、Heidi 2.0.1（88.6 ± 9.9%）が続いた。評価対象は専門医一人と専攻医一人のみであるため、これらの結果は予備的で仮説生成的なものとみなすべきである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "医学LLM vs 通用LLM\n抗生素处方对决",
-          "body": "一项2x2研究检验医学领域LLM与思维链提示能否让抗生素选择更安全。",
-          "mini_headline": "LLMs开抗生素",
+          "headline": "眼科诊室里的\n环境式AI病历记录",
+          "body": "借助环境式AI完成EMR记录，眼科问诊时间最多缩短了37%。",
+          "mini_headline": "眼科诊室的环境式AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "在一项双盲2×2析因设计中，研究者针对59例复杂住院感染病例，由领域专用医学LLM（MedGo）和DeepSeek V.3.5分别在标准提示和思维链（CoT）提示下生成处方，并与真实医生处方并列比较。三名资深临床医生对治疗方案评分；ChatGPT V.5.2则作为自动评分器接受测试。"
+                "x": "EMR记录加重了医生的工作负担，并减少了医患互动，眼科因专科数据要求尤其受到影响。本研究在标准化眼科问诊中，比较了用于结构化EMR导入的环境式AI-assisted（AI辅助）记录与传统录入方式。"
+              },
+              {
+                "t": "p",
+                "x": "一名主治医师和一名住院医师分别在传统和AI-assisted条件下完成了十个标准化眼科场景。ChatGPT 5.3和Claude Sonnet 4.6先用TurboScribe转写，再生成结构化LLM输出；Heidi 2.0.1则使用集成音频流程。所有系统均以结构化导入眼科EMR（Heyex；Heidelberg Engineering）为目标。"
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "各模型综合抗生素处方评分比较。"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "图1：问诊时间构成——传统记录与AI辅助记录对比"
               },
               {
                 "t": "p",
-                "x": "总体得分排名：医生（4.76±0.04）> MedGo CoT（4.58±0.09）> DeepSeek CoT（4.41±0.11）> MedGo（4.25±0.16）> DeepSeek（3.98±0.20）。CoT显著提升了两个模型的表现（DeepSeek+ 0.43；MedGo+ 0.33）。ChatGPT-expert相关性总体可忽略（Kendall τ=0.153）。"
+                "x": "AI-assisted记录使主治医师的总问诊时间缩短2.4分钟（−32%），住院医师缩短3.0分钟（−37%）。记录与审核时间分别减少85%和86%，视线离开患者的时间分别减少83%和86%；两名医生与电脑相关的视线转移均减少72%。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "图2：各AI系统文档准确性评分的条目级分布"
               },
               {
                 "t": "p",
-                "x": "尽管MedGo-CoT接近医生水平，但明显的安全差距依然存在。采用CoT提示的领域专用LLMs能改善处方决策，但无法取代专家临床判断；LLM自动评估被证明不可靠。"
+                "x": "准确率最高的是Claude Sonnet 4.6（98.4 ± 2.9%），其次为ChatGPT 5.3（97.0 ± 5.1%）和Heidi 2.0.1（88.6 ± 9.9%）。由于仅评估了一名主治医师和一名住院医师，这些结果应视为初步的、用于提出假设的发现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "LLM médico vs LLM general\nen la prescripción antibiótica",
-          "body": "Un estudio 2x2 evalúa si un LLM médico y la cadena de pensamiento hacen más segura la elección de antibióticos.",
-          "mini_headline": "LLMs y antibióticos",
+          "headline": "Documentación con IA ambiental\nen la consulta de oftalmología",
+          "body": "La IA ambiental acortó hasta un 37% las consultas de oftalmología y Claude Sonnet 4.6 logró un 98,4% de precisión.",
+          "mini_headline": "IA ambiental en consultas de oftalmología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "En un diseño factorial 2×2 doble ciego, se generaron prescripciones para 59 casos complejos de infección en pacientes hospitalizados con un LLM médico de dominio específico (MedGo) y con DeepSeek V.3.5, cada uno con prompts estándar y de cadena de pensamiento (CoT), junto a las prescripciones reales de los médicos. Tres clínicos sénior puntuaron las pautas; ChatGPT V.5.2 se probó como evaluador automático."
+                "x": "La documentación en la EMR contribuye a la carga de trabajo de los médicos y reduce la interacción entre paciente y médico, y la oftalmología se ve especialmente afectada por sus requisitos de datos especializados. Este estudio comparó la documentación ambiental AI-assisted (asistida por IA) para la importación estructurada en la EMR con la introducción convencional en consultas oftalmológicas estandarizadas."
+              },
+              {
+                "t": "p",
+                "x": "Un especialista y un residente realizaron diez escenarios oftalmológicos estandarizados en condiciones clásicas y AI-assisted. ChatGPT 5.3 y Claude Sonnet 4.6 usaron la transcripción de TurboScribe seguida de una salida estructurada de un LLM; Heidi 2.0.1 empleó un flujo de audio integrado. Todos buscaban la importación estructurada en una EMR oftalmológica (Heyex; Heidelberg Engineering)."
               },
               {
                 "t": "img",
-                "src": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-                "cap": "Comparación de las puntuaciones globales de prescripción antibiótica entre modelos."
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+                "cap": "Fig. 1: Componentes del tiempo de consulta: documentación clásica frente a documentación asistida por IA."
               },
               {
                 "t": "p",
-                "x": "Clasificación de las puntuaciones globales: médicos (4.76±0.04) > MedGo CoT (4.58±0.09) > DeepSeek CoT (4.41±0.11) > MedGo (4.25±0.16) > DeepSeek (3.98±0.20). CoT mejoró de forma significativa ambos modelos (DeepSeek+ 0.43; MedGo+ 0.33). La correlación ChatGPT-expert fue insignificante en conjunto (Kendall τ=0.153)."
-              },
-              {
-                "t": "p",
-                "x": "Aunque MedGo-CoT se acercó al rendimiento de los médicos, persistieron brechas de seguridad notables. Los LLMs de dominio específico con prompts CoT mejoran las decisiones de prescripción, pero no pueden sustituir el juicio clínico experto; la evaluación automática con LLM resultó poco fiable."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "nhs-outpatient-noshow-ml",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "NHS 모델, 진료 예약\n불참 환자 미리 찾는다",
-      "body": "NHS 기록을 학습한 ML 모델이 외래 불참을 미리 짚어 맞춤 개입을 돕는다.",
-      "mini_headline": "NHS 외래 불참 예측",
-      "tool": "Medicine",
-      "source": "BMJ Open",
-      "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2026-117999",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "이 후향적 코호트 연구는 외래 불참(‘did not attend’, DNA) 위험을 예약 단위로 추정하는 모델을 만들고 검증했다. DNAs를 줄이고 진료 효율을 높일 표적 개입이 목표다."
-          },
-          {
-            "t": "p",
-            "x": "2018년 1월부터 2022년 12월까지 런던 남동부 외래 예약의 일차 진료, 병원, 지역사회, 정신건강 전자건강기록을 썼다."
-          },
-          {
-            "t": "p",
-            "x": "외래 예약 1 033 601건 가운데 112 406건(10.9%)이 DNA였다. 최종 로지스틱 회귀 모델에는 예측 변수 40개가 들어갔고, 예약 리드타임과 과거 DNA 이력, 환자 나이가 주요 변수였다. 따로 떼어 둔 테스트 데이터에서 ROC 곡선 아래 면적은 0.69였다."
-          },
-          {
-            "t": "img",
-            "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-            "cap": "AUC 곡선, 보정 플롯, 혼동 행렬과 관련 지표를 포함한 최종 테스트 세트 성능 결과."
-          },
-          {
-            "t": "p",
-            "x": "개발 환경 밖에서 쓰려면 독립된 인구 집단과 의료 환경에서 외부 검증을 거쳐야 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NHS model flags patients\nlikely to miss appointments",
-          "body": "Trained on multisource NHS records, an ML model predicts outpatient no-shows so clinics can target interventions.",
-          "mini_headline": "Predicting NHS no-shows",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "This retrospective cohort study developed and validated a model to estimate the risk of outpatient non-attendance (‘did not attend’, DNA) at the appointment level, aiming to enable targeted interventions that reduce DNAs and improve clinic efficiency."
-              },
-              {
-                "t": "p",
-                "x": "It used general practice, hospital, community and mental health electronic health records for outpatient appointments in southeast London between January 2018 and December 2022."
-              },
-              {
-                "t": "p",
-                "x": "Of 1 033 601 outpatient appointments, 112 406 (10.9%) resulted in DNA. The final logistic regression model included 40 predictor variables; leading predictors were appointment lead time, previous DNA history and patient age. It achieved an area under the ROC curve of 0.69 on held-out test data."
+                "x": "La documentación AI-assisted redujo el tiempo total de consulta en 2,4 min (−32%) para el especialista y en 3,0 min (−37%) para el residente. El tiempo de documentación y revisión disminuyó un 85% y un 86%, y el tiempo con la mirada fuera del paciente, un 83% y un 86%; los desplazamientos de la mirada hacia el equipo informático se redujeron un 72% en ambos médicos."
               },
               {
                 "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "Results of final test set performance including AUC curve, calibration plot, confusion matrix and associated metrics."
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+                "cap": "Fig. 2: Distribución por ítem de las valoraciones de precisión de la documentación según el sistema de IA."
               },
               {
                 "t": "p",
-                "x": "External validation in independent populations and healthcare settings is required before implementation outside the development setting."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "NHS 모델, 진료 예약\n불참 환자 미리 찾는다",
-          "body": "NHS 기록을 학습한 ML 모델이 외래 불참을 미리 짚어 맞춤 개입을 돕는다.",
-          "mini_headline": "NHS 외래 불참 예측",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "이 후향적 코호트 연구는 외래 불참(‘did not attend’, DNA) 위험을 예약 단위로 추정하는 모델을 만들고 검증했다. DNAs를 줄이고 진료 효율을 높일 표적 개입이 목표다."
-              },
-              {
-                "t": "p",
-                "x": "2018년 1월부터 2022년 12월까지 런던 남동부 외래 예약의 일차 진료, 병원, 지역사회, 정신건강 전자건강기록을 썼다."
-              },
-              {
-                "t": "p",
-                "x": "외래 예약 1 033 601건 가운데 112 406건(10.9%)이 DNA였다. 최종 로지스틱 회귀 모델에는 예측 변수 40개가 들어갔고, 예약 리드타임과 과거 DNA 이력, 환자 나이가 주요 변수였다. 따로 떼어 둔 테스트 데이터에서 ROC 곡선 아래 면적은 0.69였다."
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "AUC 곡선, 보정 플롯, 혼동 행렬과 관련 지표를 포함한 최종 테스트 세트 성능 결과."
-              },
-              {
-                "t": "p",
-                "x": "개발 환경 밖에서 쓰려면 독립된 인구 집단과 의료 환경에서 외부 검증을 거쳐야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NHSのモデル、予約を\n欠席しそうな患者を予測",
-          "body": "NHSの多様な記録で学習したMLモデルが外来の無断欠席を予測し、介入の的を絞る。",
-          "mini_headline": "NHSの無断欠席を予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "この後ろ向きコホート研究は、予約単位で外来の非受診（‘did not attend’、DNA）リスクを推定するモデルを開発・検証し、DNAsを減らして診療効率を高める標的型介入を可能にすることを目指した。"
-              },
-              {
-                "t": "p",
-                "x": "2018年1月から2022年12月までのロンドン南東部の外来予約について、一般診療、病院、地域、メンタルヘルスの電子カルテを用いた。"
-              },
-              {
-                "t": "p",
-                "x": "外来予約1 033 601件のうち112 406件（10.9%）がDNAとなった。最終的なロジスティック回帰モデルには40の予測変数が含まれ、主な予測因子は予約までのリードタイム、過去のDNA歴、患者の年齢だった。ホールドアウトしたテストデータでのROC曲線下面積は0.69だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "AUC曲線、キャリブレーションプロット、混同行列および関連指標を含む最終テストセットでの性能結果。"
-              },
-              {
-                "t": "p",
-                "x": "開発環境以外で導入する前に、独立した集団と医療環境での外部検証が必要である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NHS模型可提前识别\n可能爽约的患者",
-          "body": "基于NHS多源记录训练的ML模型可预测门诊爽约，帮助诊所精准干预。",
-          "mini_headline": "预测NHS门诊爽约",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这项回顾性队列研究开发并验证了一个在预约层面估计门诊未就诊（‘did not attend’，DNA）风险的模型，旨在实现有针对性的干预，以减少DNAs并提高门诊效率。"
-              },
-              {
-                "t": "p",
-                "x": "研究使用了2018年1月至2022年12月伦敦东南部门诊预约的全科、医院、社区和精神卫生电子健康记录。"
-              },
-              {
-                "t": "p",
-                "x": "在1 033 601次门诊预约中，有112 406次（10.9%）出现DNA。最终的逻辑回归模型纳入40个预测变量，主要预测因素为预约提前时间、既往DNA史和患者年龄。该模型在保留测试数据上的ROC曲线下面积为0.69。"
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "最终测试集性能结果，包括AUC曲线、校准图、混淆矩阵及相关指标。"
-              },
-              {
-                "t": "p",
-                "x": "在开发环境之外实施前，需要在独立人群和医疗环境中进行外部验证。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modelo del NHS anticipa qué\npacientes faltarán a su cita",
-          "body": "Un modelo de ML entrenado con registros del NHS predice ausencias a citas externas para focalizar intervenciones.",
-          "mini_headline": "Predecir ausencias en el NHS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Este estudio de cohortes retrospectivo desarrolló y validó un modelo para estimar, a nivel de cita, el riesgo de inasistencia a consultas externas (‘did not attend’, DNA), con el objetivo de permitir intervenciones dirigidas que reduzcan las DNAs y mejoren la eficiencia de las consultas."
-              },
-              {
-                "t": "p",
-                "x": "Utilizó historias clínicas electrónicas de atención primaria, hospitalarias, comunitarias y de salud mental de citas de consultas externas en el sureste de Londres entre enero de 2018 y diciembre de 2022."
-              },
-              {
-                "t": "p",
-                "x": "De 1 033 601 citas de consultas externas, 112 406 (10.9%) terminaron en DNA. El modelo final de regresión logística incluyó 40 variables predictoras; las principales fueron el tiempo de antelación de la cita, el historial previo de DNA y la edad del paciente. Alcanzó un área bajo la curva ROC de 0.69 en datos de prueba reservados."
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "Resultados de rendimiento en el conjunto de prueba final, con la curva AUC, el gráfico de calibración, la matriz de confusión y las métricas asociadas."
-              },
-              {
-                "t": "p",
-                "x": "Se requiere una validación externa en poblaciones y entornos sanitarios independientes antes de su implantación fuera del entorno de desarrollo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "NHS 모델, 진료 예약\n불참 환자 미리 찾는다",
-          "body": "NHS 여러 기록으로 학습한 ML 모델이 외래 불참을 예측해 맞춤 개입을 돕는다.",
-          "mini_headline": "NHS 외래 불참 예측",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "이 후향적 코호트 연구는 예약 단위로 외래 불참(‘did not attend’, DNA) 위험을 추정하는 모델을 개발하고 검증했으며, DNAs를 줄이고 진료 효율을 높이는 표적 개입을 가능하게 하는 것을 목표로 했다."
-              },
-              {
-                "t": "p",
-                "x": "연구는 2018년 1월부터 2022년 12월까지 런던 남동부 외래 예약에 대한 일차 진료, 병원, 지역사회, 정신건강 전자건강기록을 활용했다."
-              },
-              {
-                "t": "p",
-                "x": "외래 예약 1 033 601건 중 112 406건(10.9%)이 DNA로 이어졌다. 최종 로지스틱 회귀 모델에는 예측 변수 40개가 들어갔으며, 주요 예측 변수는 예약 리드타임, 과거 DNA 이력, 환자 나이였다. 별도로 남겨 둔 테스트 데이터에서 ROC 곡선 아래 면적은 0.69였다."
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "AUC 곡선, 보정 플롯, 혼동 행렬과 관련 지표를 포함한 최종 테스트 세트 성능 결과."
-              },
-              {
-                "t": "p",
-                "x": "개발 환경 밖에서 도입하려면 독립된 인구 집단과 의료 환경에서 외부 검증을 거쳐야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NHSのモデル、予約を\n欠席しそうな患者を予測",
-          "body": "NHSの多様な記録で学習したMLモデルが外来の無断欠席を予測し、介入の的を絞る。",
-          "mini_headline": "NHSの無断欠席を予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "この後ろ向きコホート研究は、予約単位で外来の非受診（‘did not attend’、DNA）リスクを推定するモデルを開発・検証し、DNAsを減らして診療効率を高める標的型介入を可能にすることを目指した。"
-              },
-              {
-                "t": "p",
-                "x": "2018年1月から2022年12月までのロンドン南東部の外来予約について、一般診療、病院、地域、メンタルヘルスの電子カルテを用いた。"
-              },
-              {
-                "t": "p",
-                "x": "外来予約1 033 601件のうち112 406件（10.9%）がDNAとなった。最終的なロジスティック回帰モデルには40の予測変数が含まれ、主な予測因子は予約までのリードタイム、過去のDNA歴、患者の年齢だった。ホールドアウトしたテストデータでのROC曲線下面積は0.69だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "AUC曲線、キャリブレーションプロット、混同行列および関連指標を含む最終テストセットでの性能結果。"
-              },
-              {
-                "t": "p",
-                "x": "開発環境以外で導入する前に、独立した集団と医療環境での外部検証が必要である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NHS模型可提前识别\n可能爽约的患者",
-          "body": "基于NHS多源记录训练的ML模型可预测门诊爽约，帮助诊所精准干预。",
-          "mini_headline": "预测NHS门诊爽约",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这项回顾性队列研究开发并验证了一个在预约层面估计门诊未就诊（‘did not attend’，DNA）风险的模型，旨在实现有针对性的干预，以减少DNAs并提高门诊效率。"
-              },
-              {
-                "t": "p",
-                "x": "研究使用了2018年1月至2022年12月伦敦东南部门诊预约的全科、医院、社区和精神卫生电子健康记录。"
-              },
-              {
-                "t": "p",
-                "x": "在1 033 601次门诊预约中，有112 406次（10.9%）出现DNA。最终的逻辑回归模型纳入40个预测变量，主要预测因素为预约提前时间、既往DNA史和患者年龄。该模型在保留测试数据上的ROC曲线下面积为0.69。"
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "最终测试集性能结果，包括AUC曲线、校准图、混淆矩阵及相关指标。"
-              },
-              {
-                "t": "p",
-                "x": "在开发环境之外实施前，需要在独立人群和医疗环境中进行外部验证。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modelo del NHS anticipa qué\npacientes faltarán a su cita",
-          "body": "Un modelo de ML entrenado con registros del NHS predice ausencias a citas externas para focalizar intervenciones.",
-          "mini_headline": "Predecir ausencias en el NHS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Este estudio de cohortes retrospectivo desarrolló y validó un modelo para estimar, a nivel de cita, el riesgo de inasistencia a consultas externas (‘did not attend’, DNA), con el objetivo de permitir intervenciones dirigidas que reduzcan las DNAs y mejoren la eficiencia de las consultas."
-              },
-              {
-                "t": "p",
-                "x": "Utilizó historias clínicas electrónicas de atención primaria, hospitalarias, comunitarias y de salud mental de citas de consultas externas en el sureste de Londres entre enero de 2018 y diciembre de 2022."
-              },
-              {
-                "t": "p",
-                "x": "De 1 033 601 citas de consultas externas, 112 406 (10.9%) terminaron en DNA. El modelo final de regresión logística incluyó 40 variables predictoras; las principales fueron el tiempo de antelación de la cita, el historial previo de DNA y la edad del paciente. Alcanzó un área bajo la curva ROC de 0.69 en datos de prueba reservados."
-              },
-              {
-                "t": "img",
-                "src": "https://bmjopen.bmj.com/content/bmjopen/16/11/e117999/F1.medium.gif",
-                "cap": "Resultados de rendimiento en el conjunto de prueba final, con la curva AUC, el gráfico de calibración, la matriz de confusión y las métricas asociadas."
-              },
-              {
-                "t": "p",
-                "x": "Se requiere una validación externa en poblaciones y entornos sanitarios independientes antes de su implantación fuera del entorno de desarrollo."
+                "x": "La precisión fue máxima con Claude Sonnet 4.6 (98,4 ± 2,9%), seguido de ChatGPT 5.3 (97,0 ± 5,1%) y Heidi 2.0.1 (88,6 ± 9,9%). Como solo se evaluó a un especialista y a un residente, estos resultados deben considerarse preliminares y generadores de hipótesis."
               }
             ]
           }

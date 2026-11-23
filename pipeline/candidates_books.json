@@ -1,15 +1,60 @@
 {
   "section": "books",
-  "now_iso": "2026-11-22T22:03:00Z",
+  "now_iso": "2026-11-23T22:00:42Z",
   "window_hours": 336,
   "items": [
+    {
+      "title": "Analyserte krimbøker: – Romanen du skriver med KI, er ikke den samme som du hadde skrevet uten KI",
+      "url": "https://www.aftenposten.no/kultur/i/7PlEnw/joern-lier-horst-og-ki-dette-er-forskjellene-i-spraaket-hans",
+      "source": "Aftenposten",
+      "category": "books",
+      "published_iso": "2026-11-12T20:59:10Z",
+      "excerpt": "Aftenposten ran a stylometric analysis of Norwegian crime bestseller Jørn Lier Horst's novels before and after he began using AI: humming, 'during' and over a hundred times as many dashes — the language measurably shifted. Centre of Norway's biggest AI-authorship row. Off-list outlet (no on-list coverage of the Horst affair).",
+      "og_image": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48"
+    },
+    {
+      "title": "KI-bruk i bokbransjen: – Kan ikke nekte forfattere å bruke teknologien",
+      "url": "https://www.nrk.no/norge/ki-bruk-i-bokbransjen_-_-kan-ikke-nekte-forfattere-a-bruke-teknologien-1.18081653",
+      "source": "NRK",
+      "category": "books",
+      "published_iso": "2026-11-14T14:41:52+01:00",
+      "excerpt": "After accusations of extensive AI use by crime writer Jørn Lier Horst, author Hilde Østby says the Norwegian book trade can't ban authors from using the technology but must set rules — disclosure and labelling are on the table. Off-list outlet.",
+      "og_image": "https://gfx.nrk.no/aCAgB9gp0Oq2VkMNIov3-gqTEaPCJrreqEcDMloM0acg.jpg"
+    },
+    {
+      "title": "Risikerer vi at teknologien blir portvokter for litteraturen?",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/aGwpw7/risikerer-vi-at-teknologien-blir-portvokter-for-litteraturen",
+      "source": "Aftenposten",
+      "category": "books",
+      "published_iso": "2026-11-20T18:00:00Z",
+      "excerpt": "Norway's writers' union Forfatterforbundet says publishers now screen incoming manuscripts with AI detectors and authors are being rejected as 'written by AI' when they say they used none — it demands clear criteria before an algorithm gatekeeps literature. (Debate piece; foro3d aggregated it 11-23.) Off-list outlet.",
+      "og_image": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
+    },
+    {
+      "title": "GlobalComix's pivot to AI is just muddying the waters",
+      "url": "https://www.comicsbeat.com/globalcomixs-pivot-to-ai-is-just-muddying-the-waters/",
+      "source": "Comics Beat",
+      "category": "books",
+      "published_iso": "2026-11-23T14:30:45Z",
+      "excerpt": "Heidi MacDonald on GlobalComix's new Gemini-powered discovery feed, which pulls RSS content from opted-in comics news sites (ANN, CBR, ComicBook.com) into the app. Follow-up/analysis: the GlobalComix Gemini assistant itself was carded 11-20.",
+      "og_image": "https://www.comicsbeat.com/wp-content/uploads/2026/06/GlobalComixHeroImage.png"
+    },
+    {
+      "title": "Can an Indie Author Make a Whole Cozy Mystery Series Look From an Image Model? My Cover Tests",
+      "url": "https://the-digital-reader.com/can-an-indie-author-make-a-whole-cozy-mystery-series-look-from-an-image-model-my-cover-tests/",
+      "source": "The Digital Reader",
+      "category": "books",
+      "published_iso": "2026-11-23T08:43:03Z",
+      "excerpt": "Hands-on test of making a consistent three-book cozy-mystery cover series, audiobook square and thumbnails with an image model (Nano Banana Pro API, book 1 as reference), with costs vs $400-900 commissioned covers and a disclosure/ethics section. Caution: names a specific API; check for advertorial tone.",
+      "og_image": "https://the-digital-reader.com/wp-content/uploads/2026/11/Mystery-Series.jpg"
+    },
     {
       "title": "Literary Translators Warn AI Threatens Their Livelihoods in Copyright Case",
       "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101802-literary-translators-warn-ai-threatens-their-livelihoods-in-copyright-case.html",
       "source": "Publishers Weekly",
       "category": "books",
       "published_iso": "2026-11-18T05:00:00Z",
-      "excerpt": "The American Literary Translators Association and 11 other creative-professional groups filed an amicus brief in the Authors Guild v. OpenAI/Microsoft case, warning AI translation could turn translators 'from interpreters into primarily editors of large language model outputs.' Note: OpenAI MDL amicus angle was deprioritized; this is the translators-specific brief.",
+      "excerpt": "The American Literary Translators Association and 11 other creative groups filed an amicus brief in Authors Guild v. OpenAI/Microsoft, warning AI translation could turn translators 'from interpreters into primarily editors of large language model outputs.' (OpenAI MDL amicus angle deprioritized; this is the translator-specific brief.)",
       "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132919-3.JPG"
     },
     {
@@ -18,26 +63,26 @@
       "source": "The Scholarly Kitchen",
       "category": "books",
       "published_iso": "2026-11-20T10:30:24Z",
-      "excerpt": "Analysis of the Third Circuit's ROSS opinion for publishers: the more an AI product is marketed as solving research challenges, the less transformative its use of STM content becomes. Follow-up to the ROSS decision covered 10-06; this is the publisher-licensing takeaway piece.",
+      "excerpt": "Publisher-side analysis of the Third Circuit ROSS opinion: the more an AI product is marketed as solving research tasks, the less transformative its use of STM content. Follow-up — the ROSS appeal ruling itself was carded earlier.",
       "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2241423243.jpg"
     },
     {
-      "title": "The Anatomy of 'Harm': An Interview with IFRRO CEO Anita Huss-Ekerhult on AI and Copyright",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/13/the-anatomy-of-harm-an-interview-with-ifrro-ceo-anita-huss-ekerhult-on-ai-and-copyright/",
+      "title": "Guest Post — Building a Taxonomy of Bots",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/",
       "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-11-13T10:30:53Z",
-      "excerpt": "IFRRO's CEO explains its study quantifying economic harm from generative AI to authors and publishers, and how an AI licensing market is already emerging through collective management organisations.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2299506860.jpg"
+      "published_iso": "2026-11-19T10:30:59Z",
+      "excerpt": "With AI crawlers and agents hammering scholarly platforms, a guest post proposes a shared taxonomy of bots so publishers can measure and manage robotic traffic.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg"
     },
     {
-      "title": "Can this golden audio era deliver on its potential?",
-      "url": "https://www.thebookseller.com/trade-interviews/can-this-golden-audio-era-deliver-on-its-potential",
+      "title": "More than 100 publishers back University Press Charter amid AI and financial pressures",
+      "url": "https://www.thebookseller.com/news/more-than-100-publishers-back-university-press-charter-amid-ai-and-financial-pressures",
       "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-11-20T10:45:00Z",
-      "excerpt": "Ahead of the British Audio Awards, audiobook executives (Bonnier, Libro.fm and others) discuss how AI is reshaping production workflows and driving 'audio content inflation' as production costs fall, alongside discoverability and pricing pressure.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/687/Maven_Audible_8_6.png.jpg"
+      "published_iso": "2026-11-12T08:45:00Z",
+      "excerpt": "A new University Press Charter committing publishers to research integrity, transparency and responsible use of AI has 108 signatories from 26 countries.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/593/Mandy-Hill-credit-alistair_veryard_photography1.jpg"
     },
     {
       "title": "AI is giving writers the support publishing cannot",
@@ -45,26 +90,8 @@
       "source": "The Bookseller",
       "category": "books",
       "published_iso": "2026-11-17T15:45:00Z",
-      "excerpt": "Comment: Marian Stan argues AI tools now give aspiring novelists the editorial feedback that traditional publishing has long failed to provide. (Opinion piece; specific to AI manuscript feedback.)",
+      "excerpt": "Comment: Marian Stan argues AI tools now give aspiring novelists the editorial feedback that traditional publishing has long failed to provide. (Opinion.)",
       "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg"
-    },
-    {
-      "title": "Publishing Ireland conference: AI and rising costs high on the agenda",
-      "url": "https://www.thebookseller.com/news/publishing-ireland-conference-ai-and-rising-costs-high-on-the-agenda",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-11-16T12:01:00Z",
-      "excerpt": "Publishing Ireland's annual autumn conference, overseen by president-elect Jonathan Creasy, tackled AI alongside rising costs across the book trade. (Body mostly paywalled; AI depth unverified.)",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/686/J-Creasy.jpg"
-    },
-    {
-      "title": "More AI Prompts Found in Journal Papers",
-      "url": "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers",
-      "source": "Inside Higher Ed",
-      "category": "books",
-      "published_iso": "2026-11-20T08:00:00Z",
-      "excerpt": "Blatant LLM instructions such as 'write a positive review' left in published papers are the starkest sign yet that authors are trying to game AI-assisted peer review, scholars warn.",
-      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/Robot_AI_sifting_documents_papers%20copy.jpg?itok=tNomQNI_"
     },
     {
       "title": "'AI Slop' Papers Published Under Prominent Academics' Names",
@@ -72,35 +99,44 @@
       "source": "Inside Higher Ed",
       "category": "books",
       "published_iso": "2026-11-13T08:00:00Z",
-      "excerpt": "High-profile researchers were listed as authors of AI-generated papers in little-known journals, raising concern that Ph.D. students could be lured into submitting there too.",
+      "excerpt": "High-profile researchers were listed as authors of AI-generated papers in little-known journals, raising concern Ph.D. students could be lured into submitting there too.",
       "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
     },
     {
-      "title": "[윤주혜의 C] 투고 쏟아지고 문학상 응모 최다…AI가 불붙인 '딸깍 출판'",
+      "title": "AI 시대 편집기자 역할은…'마지막 문장은 사람이 쓴다' 발간",
+      "url": "https://www.yna.co.kr/view/AKR20261123072400005",
+      "source": "연합뉴스",
+      "category": "books",
+      "published_iso": "2026-11-23T11:00:51+09:00",
+      "excerpt": "한국편집기자협회가 AI 시대 편집기자의 역할과 통찰을 담은 책자 '마지막 문장은 사람이 쓴다'를 발간했다. (책 발간 소식 — AI는 책의 주제.)",
+      "og_image": null
+    },
+    {
+      "title": "한국저작권위원회-국립중앙도서관, AI 시대 도서관 사서 대상 저작권 교육 실시",
+      "url": "https://www.donga.com/news/It/article/all/20261123/135073568/1",
+      "source": "동아일보",
+      "category": "books",
+      "published_iso": "2026-11-23T17:32:33+09:00",
+      "excerpt": "한국저작권위원회와 국립중앙도서관이 전국 도서관 사서 41명을 대상으로 '인공지능 시대, 도서관에서 알아야 할 저작권 및 활용사례' 교육을 20일 진행했다.",
+      "og_image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135073661.1.jpg"
+    },
+    {
+      "title": "[윤주혜의 C] 너도나도 작가님…AI가 불붙인 '딸깍 출판'",
       "url": "https://www.ajunews.com/view/20261120094855206",
       "source": "아주경제",
       "category": "books",
       "published_iso": "2026-11-23T00:00:00+09:00",
-      "excerpt": "AI가 써준 200쪽 원고와 돈만 있으면 책을 낼 수 있는 '딸깍 출판' 시대 — 출판사 투고와 문학상 응모가 역대 최다로 몰리며 출판계가 AI 원고 판별에 부담을 겪고 있다는 칼럼. (11-18 ajunews AI 원고 급증 카드의 후속/칼럼이라 중복 가능성 있음.)",
+      "excerpt": "AI가 써준 200쪽 원고와 돈만 있으면 책을 낼 수 있는 '딸깍 출판' 시대 — 출판사 투고와 문학상 응모가 역대 최다로 몰리며 AI 원고 판별 부담이 커졌다는 칼럼. (11-18 AI 원고 급증 카드의 후속 칼럼이라 중복 가능.)",
       "og_image": "https://image.ajunews.com/content/image/2026/11/20/20261120164913823155.png"
     },
     {
-      "title": "Tamil Nadu library scam: Publisher who 'supplied' fake books under fictitious names arrested",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-library-scam-publisher-fake-books-fictitious-arrested-10966339/",
-      "source": "The Indian Express",
+      "title": "'죄와 벌' 속 한 문장‥AI는 '절했다', 번역가는?",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867722_37012.html",
+      "source": "MBC 뉴스",
       "category": "books",
-      "published_iso": "2026-11-17T11:54:44+05:30",
-      "excerpt": "Vigilance officers arrested R Mohan of Agalvilakku Publishers and Phoenix Publications, which received Rs 1.74 crore for supplying allegedly AI-generated books under fictitious author names to Tamil Nadu public libraries. Off-list outlet; new development (arrest) after the probe covered 11-07.",
-      "og_image": "https://images.indianexpress.com/2026/11/tamil-nadu.jpg"
-    },
-    {
-      "title": "잉크플록, 한국 웹소설 해외 유통을 위한 AI 현지화 체계 개발",
-      "url": "https://platum.kr/archives/298652",
-      "source": "플래텀",
-      "category": "books",
-      "published_iso": "2026-11-16T09:48:03+09:00",
-      "excerpt": "스타트업 잉크플록이 한국 웹소설을 해외에 유통하기 위한 AI 기반 번역·현지화 체계를 개발했다. Off-list outlet (on-list Korean outlets had no item).",
-      "og_image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-218.png"
+      "published_iso": "2026-11-23T07:33:38+09:00",
+      "excerpt": "도스토옙스키 작품 네 편을 번역하는 데 10년을 쓴 번역가가 '죄와 벌'의 한 문장을 두고 AI 번역과 사람 번역의 차이를 짚는다 — AI 문학 번역의 한계. Off-list outlet.",
+      "og_image": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
     },
     {
       "title": "장성 주민 15명, AI로 전자그림책 작가 데뷔",
@@ -108,62 +144,62 @@
       "source": "에너지경제신문",
       "category": "books",
       "published_iso": "2026-11-23T01:03:36+09:00",
-      "excerpt": "전남 장성군 주민 15명이 생성형 AI를 활용해 자신만의 이야기를 전자그림책으로 출판하며 디지털 창작자로 데뷔했다. Off-list outlet.",
+      "excerpt": "전남 장성군 주민 15명이 생성형 AI를 활용해 자신만의 이야기를 전자그림책으로 출판하며 작가로 데뷔했다. Off-list outlet (small local story).",
       "og_image": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261122.acd54e77d0d340ae80aa84d21304a5a8_R.jpg"
     },
     {
-      "title": "AI 학습에 내 책이 쓰인다면? 출판계 저작권 보호·지원 법안 본격 시동",
-      "url": "http://knpp.co.kr/news/597241",
-      "source": "한국공공정책신문",
+      "title": "시험도, 논문도, 문학도 '진짜'의 위기…일상에 스며드는 불신[AI發 신뢰 실종 시대①]",
+      "url": "https://www.newsis.com/view/NISX20261118_0003874062",
+      "source": "뉴시스",
       "category": "books",
-      "published_iso": "2026-11-23T06:21:33+09:00",
-      "excerpt": "윤용근 의원 등 14인이 발의한 '출판문화산업 진흥법' 개정안이 11월 16~25일 입법예고되는 가운데, 출판물의 AI 학습 이용과 권리자 동의·보호 체계가 쟁점으로 떠올랐다. (셀렉트스타·출협 협약 부분은 기보도.) Off-list outlet.",
-      "og_image": "https://img.ehom.kr/news/2026/11/23/b392e224be2acfd2d8edca28d44e135c062044_thumb.jpg"
+      "published_iso": "2026-11-21T13:00:00+09:00",
+      "excerpt": "AI 발 신뢰 위기 기획 1편 — 시험 부정, AI 가짜 논문과 함께 문학계에서도 '진짜' 작가 여부를 의심하는 풍경을 다룬다. Off-list outlet; broad feature.",
+      "og_image": "https://img1.newsis.com/2026/11/19/NISI20261119_0021538514_web.jpg"
     },
     {
-      "title": "“AI 저작권 규제해도, 안 해도 문제”... 세계 도서관계, 법적 공백·과잉 규제 동시 경고",
-      "url": "http://www.e-patentnews.com/15942",
-      "source": "특허뉴스",
+      "title": "Many takers for AI books at Madurai fair, but writers wary",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/many-takers-for-ai-books-at-madurai-fair-but-writers-wary/articleshow/136037503.cms",
+      "source": "The Times of India",
       "category": "books",
-      "published_iso": "2026-11-20T13:15:00+09:00",
-      "excerpt": "국제도서관협회연맹(IFLA)이 각국 생성형 AI 저작권 입법 현황을 조사해, AI 학습·권리자 보호 정책이 엇갈리며 도서관 연구지원과 지식 접근권이 흔들릴 수 있다고 경고하고 명확한 지침을 촉구했다. Off-list outlet.",
-      "og_image": "https://www.e-patentnews.com/data/e-patentnews_com/mainimages/202611/2026111649204127.png"
+      "published_iso": "2026-11-21T06:14:00+05:30",
+      "excerpt": "Amid the AI-generated-books scandal at Madurai's Kalaignar Centenary Library, the city's annual book fair nearby is seeing enthusiastic buyers for books on AI, while Tamil writers remain wary. (Tamil Nadu library scam carded earlier; this is a new angle.) Off-list outlet.",
+      "og_image": "https://static.toiimg.com/thumb/msid-136037502,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
     },
     {
-      "title": "How Much AI-Generated Text Is In Today's Philosophy Journals? (guest post)",
-      "url": "https://dailynous.com/2026/11/18/how-much-ai-generated-text-is-in-todays-philosophy-journals/",
-      "source": "Daily Nous",
+      "title": "Libraries, books, and the question of AI",
+      "url": "https://www.thehindu.com/education/libraries-books-and-the-question-of-ai/article71714503.ece",
+      "source": "The Hindu",
       "category": "books",
-      "published_iso": "2026-11-18T19:02:08Z",
-      "excerpt": "A guest analysis runs AI-text detection across recent philosophy journal articles and finds philosophers have started making substantial use of AI, with AI-generated passages not uncommon in published papers. Off-list outlet.",
-      "og_image": "https://dailynous.com/wp-content/uploads/2026/11/circuit-shirt-black-white-gold-scaled.jpg"
+      "published_iso": "2026-11-23T09:30:00+05:30",
+      "excerpt": "Op-ed after the Tamil Nadu library scandal: what defines a good book, and should AI-translated or AI-generated books be dismissed outright from library procurement? Off-list outlet; opinion.",
+      "og_image": "https://th-i.thgim.com/public/incoming/qw84hb/article71714535.ece/alternates/LANDSCAPE_1200/Wide%20Angle.jpg"
     },
     {
-      "title": "Celebrity ghostwriters are now selling points, not secrets. Is AI a factor?",
-      "url": "https://theconversation.com/celebrity-ghostwriters-are-now-selling-points-not-secrets-is-ai-a-factor-296514",
-      "source": "The Conversation",
-      "category": "books",
-      "published_iso": "2026-11-17T19:09:29Z",
-      "excerpt": "Once hidden, the writers behind celebrity memoirs are now credited as a selling point; the piece argues that in an age of AI, a named human collaborator may serve as a mark of authenticity. Off-list outlet.",
-      "og_image": "https://images.theconversation.com/files/772294/original/file-20261116-64-8og8jq.png?ixlib=rb-4.1.1&rect=0%2C130%2C1999%2C999&q=45&auto=format&w=1356&h=668&fit=crop"
-    },
-    {
-      "title": "Professor Mark Green receives payout in massive AI copyright settlement",
-      "url": "https://thesimpsonian.com/38443/news/professor-mark-green-receives-payout-in-massive-ai-copyright-settlement/",
-      "source": "The Simpsonian",
-      "category": "books",
-      "published_iso": "2026-11-18T12:00:00Z",
-      "excerpt": "Simpson College professor Mark Green received a payout from the $1.5B Bartz v. Anthropic settlement for his textbook 'Global Marketing' — an early first-hand confirmation of payments reaching authors. Off-list student paper; time is date-only (body: November 18, 2026). Bartz follow-up rule applies.",
-      "og_image": "https://thesimpsonian.com/wp-content/uploads/2026/11/Mark-Green.jpg"
-    },
-    {
-      "title": "'Ahead of his time': AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "title": "'Pervert glasses' named word of the year by Macquarie dictionary, ahead of 'nudify' and 'AI;DR'",
+      "url": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
       "source": "The Guardian",
       "category": "books",
-      "published_iso": "2026-11-13T16:38:27Z",
-      "excerpt": "Kurt Gödel left 1,009 pages of shorthand notebooks; AI-assisted transcription is now helping scholars decode them and surface overlooked ideas — an archival/manuscript use of AI.",
-      "og_image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb"
+      "published_iso": "2026-11-23T13:55:40Z",
+      "excerpt": "Australia's Macquarie Dictionary picked 'pervert glasses' as its 2026 word of the year, with AI-era terms 'nudify' and 'AI;DR' on the shortlist (body only partly verified; AI is a shortlist theme, not the winner). (Cambridge 'human' WOTY carded 11-21.)",
+      "og_image": "https://i.guim.co.uk/img/media/157cb03ca11449508590bbb8b23daca70b5a59ce/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0dd61c840ea846c96d4a529a47242a2"
+    },
+    {
+      "title": "The Melodrama of AI Authorship",
+      "url": "https://publicseminar.org/2026/11/the-melodrama-of-ai-authorship/",
+      "source": "Public Seminar",
+      "category": "books",
+      "published_iso": "2026-11-18T14:45:00Z",
+      "excerpt": "Essay arguing that the way critics conflate AI writing with features of postcolonial melodrama betrays a cultural bias in literary gatekeeping. Off-list outlet; opinion.",
+      "og_image": "https://publicseminar.org/wp-content/uploads/2026/11/33177751181_330deb19a1_b.jpg"
+    },
+    {
+      "title": "AI could bring books to radio, but broadcasters still need to direct the story",
+      "url": "https://tomorrowspublisher.today/news/ai-could-bring-books-to-radio-but-broadcasters-still-need-to-direct-the-story-d8c7c4154bab/",
+      "source": "Tomorrow's Publisher",
+      "category": "books",
+      "published_iso": "2026-11-20T04:01:07Z",
+      "excerpt": "Synthetic voices could let radio stations test serialized literary readings and narrated essays, but success depends on editorial judgement, rights clearance and listener trust. Off-list outlet.",
+      "og_image": "https://tomorrowspublisher.today/assets/img/editorial/d8c7c4154bab-noah-20261122-v1.png"
     }
   ]
 }

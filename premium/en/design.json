@@ -13259,6 +13259,163 @@
           "x": "After fixing details through comments with the agent and a designer, the engineer pastes the spec link into Codex and prompts: \"Implement this feature.\" Through Figma's MCP, Codex can read the spec, annotated frames, code layers, and design system components with just one link. Specs is in open beta on all plans and available on web, desktop, and mobile."
         }
       ]
+    },
+    "design/motif-bhom-buro-happold": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Buro Happold's open-source BHoM engineering framework is being integrated natively into Motif's BIM 2.0 platform, connecting AI-driven design with deterministic engineering computation. The two companies demonstrated the work at an event at Buro Happold's London office."
+        },
+        {
+          "t": "p",
+          "x": "Rather than simply importing geometry, Motif can work with BHoM's native objects and call its underlying engineering methods. Matt Jezyk said Motif's flexible data model could accommodate around 700 BHoM classes and objects."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
+          "cap": "Motif CEO, Amar Hanspal"
+        },
+        {
+          "t": "p",
+          "x": "In a one-day workshop, Buro Happold engineers generated forms through prompts and sketches, then used BHoM to produce structural analytical representations and apply rules of thumb for member sizing; no structural solver was run. \"The word import doesn't really give it credit,\" said Al Fisher."
+        },
+        {
+          "t": "p",
+          "x": "Motif also opened its platform to external developers with a new API. Fisher described three complementary forms of intelligence: human judgement, probabilistic AI and deterministic computation. What has been demonstrated so far is a promising but narrower first step."
+        }
+      ]
+    },
+    "design/lexisnexis-verify-ux-patterns": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A public database now tracks more than 2,200 court and tribunal decisions involving AI-hallucinated content. Ulka Patil, who designs AI tools for legal and regulatory professionals, argues that helping people spot, check and correct AI mistakes is a design problem, and lays out five patterns."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
+          "cap": "Start with what people need most; the patterns work best together"
+        },
+        {
+          "t": "p",
+          "x": "1. Show where it came from: link to the exact passage behind each claim, not just the document. 2. Explain it in plain language: pair each important AI result with why the AI reached it."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
+          "cap": "Wireframe · the citation says what it is, a preview shows the details and a click opens the exact passage"
+        },
+        {
+          "t": "p",
+          "x": "3. Label signals honestly: reviewers preferred High / Medium / Low risk levels to raw scores like \"87% match.\" 4. Keep people in control: keep AI suggestions visible, editable and reversible. 5. Make checking consistent: a label must mean the same thing on every screen."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
+          "cap": "One typical verification journey, supported by all five patterns"
+        },
+        {
+          "t": "p",
+          "x": "A quick test for any AI experience: can people understand the answer, check its evidence, see how sure the AI is and fix mistakes without losing their place?"
+        }
+      ]
+    },
+    "design/design-agent-spacing-scale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The PR lines up a toolbar with mt-[13px], gap-[18px], and p-[22px]. The theme already has a spacing scale. The new numbers are close. They are not on the scale, and the next agent will invent another set."
+        },
+        {
+          "t": "p",
+          "x": "The model copies a screenshot or a Figma pixel value and pastes it as an arbitrary utility or a literal in CSS. A stack of near-miss values (12px, 13px, 14px) is harder to tighten later than one slightly loose token."
+        },
+        {
+          "t": "p",
+          "x": "A simple spacing policy: margin, padding, and gap use the existing spacing scale; no arbitrary pixel utilities in feature CSS; a new step is a token change, named and documented; do not \"kern\" a single screen with values the rest of the app does not use."
+        },
+        {
+          "t": "p",
+          "x": "Paste the scale into the prompt when the agent is doing layout, e.g. \"If a screenshot uses 18px and the nearest step is 16px, use the step and note the difference.\" In review, search the diff for [Npx] and bare px in margin and padding."
+        },
+        {
+          "t": "p",
+          "x": "Reject arbitrary mt-[13px] / gap-[18px] in a feature file; accept a documented choice of the nearest step, or a token PR that adds a named step."
+        }
+      ]
+    },
+    "design/skecoplant-axen-design-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
+          "cap": "▶ [Provided by SK ecoplant]"
+        },
+        {
+          "t": "p",
+          "x": "SK ecoplant is replacing repetitive review work in the design process with artificial intelligence (AI). The plan is to cut working hours by using AI from the earliest design stage to analyse equipment layouts and possible clashes between facilities, and to find related technical documents."
+        },
+        {
+          "t": "p",
+          "x": "According to SK ecoplant on the 23rd, the company has introduced and begun operating 'AXen', an AI platform specialised for design work. Its key feature is that tasks such as document searches and layout reviews, previously handled individually by designers, can be carried out on a single platform."
+        },
+        {
+          "t": "p",
+          "x": "In construction projects, when the layout of spaces or equipment changes, teams must recheck for interference with surrounding facilities and review the relevant design standards and regulations. Depending on the change, existing documents must also be revised or new layouts prepared."
+        },
+        {
+          "t": "p",
+          "x": "AXen was developed to support this process. Based on accumulated design data, it presents space and equipment layouts and lets users compare multiple alternatives. It also includes a function that analyses where equipment and facilities interfere with each other and proposes solutions."
+        },
+        {
+          "t": "p",
+          "x": "Because design standards, regulations and technical information can be searched in one place, staff also spend less time checking documents individually. SK ecoplant expects this to cut repetitive work not only in early design but also during design changes, and to shorten the time needed for cross-department reviews and decision-making."
+        },
+        {
+          "t": "p",
+          "x": "The AI's output is not simply adopted as final. Final results reviewed by designers are accumulated as data and used again to improve the AI's accuracy and usefulness. The platform name AXen combines 'AX(AI Transformation)', meaning the shift to AI, with design (Engineering)."
+        },
+        {
+          "t": "p",
+          "x": "Bringing AI into design is part of the company-wide work automation SK ecoplant is pursuing. As it expands its business around AI and semiconductors, it is also introducing a '1 person, 1 agent' system in which each employee uses AI agents."
+        },
+        {
+          "t": "p",
+          "x": "It is also preparing to apply AI to construction-site and contract management work. Development for practical use is under way on more than 20 tasks identified at its in-house AI agent hackathon (Agenthon), including integrated lookup and analysis of site costs, construction estimate reviews, and reviews of external official letters and contracts."
+        },
+        {
+          "t": "p",
+          "x": "Starting with AXen, SK ecoplant plans to gradually expand the range of design work that AI can handle."
+        },
+        {
+          "t": "p",
+          "x": "An SK ecoplant official said, \"This AI design platform is a case of concretely applying the company-wide AX transition to design work,\" adding, \"We will continue to expand AI systems suited to the characteristics of each task to innovate the way we work, and steadily raise our business competitiveness and project execution efficiency.\""
+        }
+      ]
+    },
+    "design/gemini-mac-computer-use": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
+        },
+        {
+          "t": "p",
+          "x": "Google now lets Gemini handle Mac tasks in the background. The new \"Computer Use\" feature in the Gemini Mac app completes multistep tasks across local files, desktop apps, and websites. Google says users simply describe a goal, and Gemini clicks, types, and navigates menus and forms. Everything runs in an isolated background window with a live chat preview, keeping the screen and cursor free for uninterrupted work."
+        },
+        {
+          "t": "p",
+          "x": "Users choose which apps Gemini can access, watch every step live, pause anytime, and approve key actions beforehand. Google's examples include batch-editing photos and 3D scenes, filling out shipping forms from local PDFs, and building presentations."
+        },
+        {
+          "t": "p",
+          "x": "Computer Use rolls out in English in the US today, and the Gemini Mac app is available to download. OpenAI has also focused on Computer Use recently, pulling well ahead with its Astra model."
+        }
+      ]
     }
   }
 }

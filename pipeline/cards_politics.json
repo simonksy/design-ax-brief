@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "politics",
   "cards": [
     {
-      "id": "korea-aidc-decree-permits",
-      "source_lang": "ko",
+      "id": "bis-megaspeed-entitylist",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 데이터센터 인허가\n일괄처리 길 열린다",
-      "body": "AI 데이터센터 특별법 시행령안이 인허가 일괄처리와 전력평가 특례를 담았다.",
-      "mini_headline": "AI 데이터센터 인허가 특례",
+      "headline": "상무부, 아시아 기업 7곳\n수출통제 명단에 올려",
+      "body": "BIS가 첨단컴퓨팅 전용 우려로 말레이시아·싱가포르·태국 기업 일곱 곳을 지정했다.",
+      "mini_headline": "BIS, 반도체 우려로 7개사 지정",
       "tool": "Politics",
-      "source": "대한민국 정책브리핑 (과학기술정보통신부)",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
+      "source": "Federal Register / BIS",
+      "url": "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,345 +19,255 @@
         "blocks": [
           {
             "t": "p",
-            "x": "내년 3월부터 인공지능 데이터센터(AIDC)의 인정 기준과 신고 절차가 새로 마련되고, 비수도권에 들어서는 계약전력 50MW 이하 AIDC는 전력계통영향평가를 면제받는다. 과학기술정보통신부는 '인공지능 데이터센터 산업 진흥에 관한 특별법' 시행을 앞두고 시행령·시행규칙 제정안을 마련해 다음 달 30일까지 입법예고한다고 20일 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-            "cap": "정부가 반도체·AI·데이터센터 등 3대 메가프로젝트를 발표한 지난 6월 29일 경기도 용인시 용인반도체클러스터 일반산업단지 공사현장의 모습.(사진=연합뉴스)"
+            "x": "산업안보국(Bureau of Industry and Security, BIS)은 이번 규칙으로 수출관리규정(Export Administration Regulations, EAR)을 고쳐 말레이시아·싱가포르·태국 소재 7개 기관을 Entity List(거래제한 명단)에 올린다. U.S. 정부는 이들 기관이 미국의 국가안보나 외교정책 이익에 반하는 활동을 한다고 봤다. 최종 규칙은 2026년 11월 25일 Federal Register(연방 관보)에 실릴 예정이며 공개 열람일부터 효력이 생긴다."
           },
           {
             "t": "p",
-            "x": "AIDC는 AI 가속기를 일정규모 이상 보유하며 해당 가속기 운영에 필수적인 전력·냉각 등 설비를 갖추고 설계전력비율이 1.5 이하인 시설로 규정했다. 코로케이션 형태의 '제3자 제공형 시설'도 AIDC에 포함된다."
+            "x": "최종사용자검토위원회(End-User Review Committee, ERC)는 MSFusion Sdn. Bhd., PT Megaspeed International, Speedmatrix Sdn Bhd(말레이시아), Apex Enterprise Solutions (Singapore) Private Limited, Megaspeed International Pte. Ltd, Swiftdata Pte. Ltd.(싱가포르), Megaspeed (Thailand) Co., Ltd.(태국)를 추가하기로 결정했다."
           },
           {
             "t": "p",
-            "x": "신고는 구축신고(구축공사 개시 전)·운영신고(운영 개시 30일 전)·변경신고(사유 발생 후 30일 이내)로 구분했다. 구축신고만 하고 특례만 선점하는 허수 사업자를 막기 위해 신고일로부터 1년 이내 착공일을 정해 신고하도록 했다."
+            "x": "이들 기관은 첨단 컴퓨팅 품목을 허가받지 않은 최종 용도나 최종 사용자에게 빼돌리는 데 관여하고 있거나 관여할 위험이 커 명단에 올랐다. 앞으로 EAR 적용 대상인 모든 품목에 허가가 필요하고, 심사는 거부 추정 원칙을 따른다."
           },
           {
             "t": "p",
-            "x": "인허가 일괄처리 절차는 관계기관 회신 기한을 구체화하고, 기한 내 회신하지 않으면 제출 서류를 기준으로 절차를 진행할 수 있게 했다. 부설주차장은 기존 기준 대비 20%를 완화하고 시·도 조례로 50%까지 추가 완화할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "AIDC 특구는 과기정통부가 90일 이내 검토 후 AI위원회의 심의·의결을 거쳐 지정하며, 교통·열공급·에너지저장·통신·보안 시설 등도 지원 기반시설에 추가됐다. 다음 달 9일 공청회를 열고, 하위법령은 법률 시행일인 내년 3월 10일에 함께 시행할 계획이다."
+            "x": "Megaspeed International Pte. Ltd.는 7Road International을 비롯한 별칭 네 개와 함께 올랐다. 경과 조항(savings clause)에 따라 이미 운송 중인 화물은 30일 안에 마무리되면 그대로 진행할 수 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 데이터센터 인허가\n일괄처리 길 열린다",
-          "body": "AI 데이터센터 특별법 시행령안이 인허가 일괄처리와 전력평가 특례를 담았다.",
-          "mini_headline": "AI 데이터센터 인허가 특례",
+        "en": {
+          "headline": "Commerce adds 7 Asian firms\nto the Entity List",
+          "body": "BIS listed seven firms in Malaysia, Singapore and Thailand over advanced-computing diversion risk.",
+          "mini_headline": "BIS lists 7 firms over chips",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "내년 3월부터 인공지능 데이터센터(AIDC)의 인정 기준과 신고 절차가 새로 마련되고, 비수도권에 들어서는 계약전력 50MW 이하 AIDC는 전력계통영향평가를 면제받는다. 과학기술정보통신부는 '인공지능 데이터센터 산업 진흥에 관한 특별법' 시행을 앞두고 시행령·시행규칙 제정안을 마련해 다음 달 30일까지 입법예고한다고 20일 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "정부가 반도체·AI·데이터센터 등 3대 메가프로젝트를 발표한 지난 6월 29일 경기도 용인시 용인반도체클러스터 일반산업단지 공사현장의 모습.(사진=연합뉴스)"
+                "x": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by adding 7 entities to the Entity List, under the destinations of Malaysia, Singapore, and Thailand. These entities have been determined by the U.S. Government to be acting contrary to the national security or foreign policy interests of the United States. The final rule is scheduled to be published in the Federal Register on November 25, 2026, and is effective on the date of public inspection."
               },
               {
                 "t": "p",
-                "x": "AIDC는 AI 가속기를 일정규모 이상 보유하며 해당 가속기 운영에 필수적인 전력·냉각 등 설비를 갖추고 설계전력비율이 1.5 이하인 시설로 규정했다. 코로케이션 형태의 '제3자 제공형 시설'도 AIDC에 포함된다."
+                "x": "The End-User Review Committee (ERC) determined to add MSFusion Sdn. Bhd., PT Megaspeed International, and Speedmatrix Sdn Bhd (Malaysia); Apex Enterprise Solutions (Singapore) Private Limited, Megaspeed International Pte. Ltd, and Swiftdata Pte. Ltd. (Singapore); and Megaspeed (Thailand) Co., Ltd. (Thailand)."
               },
               {
                 "t": "p",
-                "x": "신고는 구축신고(구축공사 개시 전)·운영신고(운영 개시 30일 전)·변경신고(사유 발생 후 30일 이내)로 구분했다. 구축신고만 하고 특례만 선점하는 허수 사업자를 막기 위해 신고일로부터 1년 이내 착공일을 정해 신고하도록 했다."
+                "x": "These additions are being made because of the significant risk of these entities being or becoming involved in the diversion of advanced computing commodities to unauthorized end uses or end users. These entities will be added with a license requirement for all items subject to the EAR and licenses will be reviewed under a presumption of denial."
               },
               {
                 "t": "p",
-                "x": "인허가 일괄처리 절차는 관계기관 회신 기한을 구체화하고, 기한 내 회신하지 않으면 제출 서류를 기준으로 절차를 진행할 수 있게 했다. 부설주차장은 기존 기준 대비 20%를 완화하고 시·도 조례로 50%까지 추가 완화할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "AIDC 특구는 과기정통부가 90일 이내 검토 후 AI위원회의 심의·의결을 거쳐 지정하며, 교통·열공급·에너지저장·통신·보안 시설 등도 지원 기반시설에 추가됐다. 다음 달 9일 공청회를 열고, 하위법령은 법률 시행일인 내년 3월 10일에 함께 시행할 계획이다."
+                "x": "Megaspeed International Pte. Ltd. is listed with four aliases, including 7Road International. A savings clause lets shipments already en route proceed if completed within 30 days."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI data center permits move\ntoward one-stop processing",
-          "body": "A draft decree for the AI data center special act includes one-stop permitting and a power assessment exemption.",
-          "mini_headline": "AI data center permit exemptions",
+        "ko": {
+          "headline": "상무부, 아시아 기업 7곳\n수출통제 명단에 올려",
+          "body": "BIS가 첨단컴퓨팅 전용 우려로 말레이시아·싱가포르·태국 기업 일곱 곳을 지정했다.",
+          "mini_headline": "BIS, 반도체 우려로 7개사 지정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "From March next year, new recognition criteria and reporting procedures will apply to artificial intelligence data centers (AIDC), and AIDCs outside the Seoul metropolitan area with contracted power of 50MW or less will be exempt from power grid impact assessments. The Ministry of Science and ICT said on the 20th that it has drafted an enforcement decree and enforcement rules ahead of the 'Special Act on the Promotion of the Artificial Intelligence Data Center Industry' taking effect, and will give advance legislative notice until the 30th of next month."
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "The construction site of the Yongin Semiconductor Cluster general industrial complex in Yongin, Gyeonggi Province, on June 29, when the government announced its 3 major megaprojects in semiconductors, AI and data centers. (Photo=Yonhap News)"
+                "x": "산업안보국(Bureau of Industry and Security, BIS)은 이번 규칙으로 수출관리규정(Export Administration Regulations, EAR)을 고쳐 말레이시아·싱가포르·태국 소재 7개 기관을 Entity List(거래제한 명단)에 올린다. U.S. 정부는 이들 기관이 미국의 국가안보나 외교정책 이익에 반하는 활동을 한다고 봤다. 최종 규칙은 2026년 11월 25일 Federal Register(연방 관보)에 실릴 예정이며 공개 열람일부터 효력이 생긴다."
               },
               {
                 "t": "p",
-                "x": "An AIDC is defined as a facility that holds AI accelerators above a certain scale, has the power, cooling and other equipment essential to running them, and has a design power ratio of 1.5 or less. Colocation-type 'third-party provision facilities' also count as AIDCs."
+                "x": "최종사용자검토위원회(End-User Review Committee, ERC)는 MSFusion Sdn. Bhd., PT Megaspeed International, Speedmatrix Sdn Bhd(말레이시아), Apex Enterprise Solutions (Singapore) Private Limited, Megaspeed International Pte. Ltd, Swiftdata Pte. Ltd.(싱가포르), Megaspeed (Thailand) Co., Ltd.(태국)를 추가하기로 결정했다."
               },
               {
                 "t": "p",
-                "x": "Reports are divided into construction reports (before construction begins), operation reports (30 days before operations start) and change reports (within 30 days of the cause arising). To stop sham operators from filing only a construction report to lock in the special provisions, filers must set and report a construction start date within 1 year of the report date."
+                "x": "이들 기관은 첨단 컴퓨팅 품목을 허가받지 않은 최종 용도나 최종 사용자에게 빼돌리는 데 관여하고 있거나 관여할 위험이 커 명단에 올랐다. 앞으로 EAR 적용 대상인 모든 품목에 허가가 필요하고, 심사는 거부 추정 원칙을 따른다."
               },
               {
                 "t": "p",
-                "x": "The one-stop permitting procedure sets specific response deadlines for relevant agencies, and if they do not respond in time, the process can proceed based on the submitted documents. Attached parking requirements are eased by 20% from the existing standard and can be eased further, by up to 50%, through city and provincial ordinances."
-              },
-              {
-                "t": "p",
-                "x": "AIDC special zones will be designated by the Ministry of Science and ICT after a review within 90 days and deliberation and resolution by the AI Committee, and transportation, heat supply, energy storage, telecommunications and security facilities have been added to the supporting infrastructure. A public hearing will be held on the 9th of next month, and the subordinate regulations are set to take effect on March 10 next year, the date the law takes effect."
+                "x": "Megaspeed International Pte. Ltd.는 7Road International을 비롯한 별칭 네 개와 함께 올랐다. 경과 조항(savings clause)에 따라 이미 운송 중인 화물은 30일 안에 마무리되면 그대로 진행할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIデータセンター\n許認可を一括処理へ",
-          "body": "AIデータセンター特別法の施行令案は、許認可の一括処理と電力評価の特例を盛り込んだ。",
-          "mini_headline": "AIデータセンター許認可の特例",
+          "headline": "米商務省、アジア7社を\nエンティティリストに",
+          "body": "BISは先端コンピューティング転用リスクでマレーシア・シンガポール・タイの七社を指定した。",
+          "mini_headline": "BIS、半導体懸念で7社指定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "来年3月から人工知能データセンター(AIDC)の認定基準と届出手続きが新設され、非首都圏に立地する契約電力50MW 以下のAIDCは電力系統影響評価が免除される。科学技術情報通信部は「人工知能データセンター産業の振興に関する特別法」の施行を前に施行令・施行規則の制定案をまとめ、来月30日まで立法予告すると20日明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "政府が半導体・AI・データセンターなど3大メガプロジェクトを発表した6月29日、京畿道龍仁市の龍仁半導体クラスター一般産業団地の工事現場。(写真=聯合ニュース)"
+                "x": "本規則で、産業安全保障局（Bureau of Industry and Security、BIS）は輸出管理規則（Export Administration Regulations、EAR）を改正し、マレーシア、シンガポール、タイを仕向地とする7事業体をEntity List（エンティティリスト）に追加する。U.S.政府は、これらの事業体が米国の国家安全保障または外交政策上の利益に反して行動していると判断した。最終規則は2026年11月25日にFederal Register（連邦官報）で公示される予定で、公開閲覧日に発効する。"
               },
               {
                 "t": "p",
-                "x": "AIDCは、AIアクセラレーターを一定規模以上保有し、その運用に不可欠な電力・冷却などの設備を備え、設計電力比率が1.5以下の施設と規定した。コロケーション型の「第三者提供型施設」もAIDCに含まれる。"
+                "x": "エンドユーザー審査委員会（End-User Review Committee、ERC）は、MSFusion Sdn. Bhd.、PT Megaspeed International、Speedmatrix Sdn Bhd（マレーシア）、Apex Enterprise Solutions (Singapore) Private Limited、Megaspeed International Pte. Ltd、Swiftdata Pte. Ltd.（シンガポール）、Megaspeed (Thailand) Co., Ltd.（タイ）の追加を決定した。"
               },
               {
                 "t": "p",
-                "x": "届出は構築届出(構築工事の開始前)・運営届出(運営開始の30日前)・変更届出(事由発生後30日以内)に区分した。構築届出だけで特例を先取りする見せかけの事業者を防ぐため、届出日から1年以内に着工日を定めて届け出るようにした。"
+                "x": "今回の追加は、これらの事業体が先端コンピューティング品目を許可されていない最終用途や最終需要者へ転用することに関与している、または関与するようになる重大なリスクがあるためだ。これらの事業体にはEARの対象となるすべての品目について許可要件が課され、許可申請は原則不許可の方針で審査される。"
               },
               {
                 "t": "p",
-                "x": "許認可の一括処理手続きでは関係機関の回答期限を具体化し、期限内に回答がなければ提出書類に基づいて手続きを進められるようにした。附設駐車場は既存基準より20%緩和し、市・道の条例でさらに50%まで緩和できる。"
-              },
-              {
-                "t": "p",
-                "x": "AIDC特区は科学技術情報通信部が90日以内に検討した後、AI委員会の審議・議決を経て指定し、交通・熱供給・エネルギー貯蔵・通信・保安施設なども支援基盤施設に追加された。来月9日に公聴会を開き、下位法令は法律の施行日である来年3月10日に合わせて施行する計画だ。"
+                "x": "Megaspeed International Pte. Ltd.は、7Road Internationalを含む四つの別名とともに掲載された。経過措置条項（savings clause）により、すでに輸送中の貨物は30日以内に完了すれば手続きを進められる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI数据中心许可\n将实行一并审批",
-          "body": "AI数据中心特别法实施令草案纳入了许可一并审批与电力评估特例。",
-          "mini_headline": "AI数据中心许可特例",
+          "headline": "美商务部将亚洲7家企业\n列入实体清单",
+          "body": "BIS以先进计算物项转用风险为由，将马来西亚、新加坡和泰国的七家企业列入清单。",
+          "mini_headline": "BIS因芯片问题列入7家企业",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "自明年3月起，人工智能数据中心(AIDC)的认定标准和申报程序将新设，位于首都圈以外、合同电力50MW 以下的AIDC可免于电力系统影响评估。科学技术信息通信部20日表示，在《人工智能数据中心产业振兴特别法》施行前已拟定施行令和施行规则制定案，将进行立法预告至下月30日。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "6月29日政府发布半导体、AI、数据中心等3大重点项目当天，京畿道龙仁市龙仁半导体集群一般产业园区的施工现场。（图片=韩联社）"
+                "x": "根据该规则，美国工业与安全局（Bureau of Industry and Security，BIS）修订《出口管理条例》（Export Administration Regulations，EAR），将目的地为马来西亚、新加坡和泰国的7个实体列入Entity List（实体清单）。U.S.政府认定，这些实体的行为违背美国的国家安全或外交政策利益。该最终规则定于2026年11月25日在Federal Register（联邦公报）上发布，自公开查阅之日起生效。"
               },
               {
                 "t": "p",
-                "x": "AIDC被定义为拥有一定规模以上AI加速器、具备运行加速器所必需的电力和冷却等设施、且设计电力比率在1.5以下的设施。托管形式的“第三方提供型设施”也属于AIDC。"
+                "x": "最终用户审查委员会（End-User Review Committee，ERC）决定列入MSFusion Sdn. Bhd.、PT Megaspeed International和Speedmatrix Sdn Bhd（马来西亚）；Apex Enterprise Solutions (Singapore) Private Limited、Megaspeed International Pte. Ltd和Swiftdata Pte. Ltd.（新加坡）；以及Megaspeed (Thailand) Co., Ltd.（泰国）。"
               },
               {
                 "t": "p",
-                "x": "申报分为建设申报（建设工程开工前）、运营申报（开始运营前30天）和变更申报（事由发生后30天内）。为防止只做建设申报以抢占特例的虚假经营者，要求自申报之日起1年内确定开工日期并申报。"
+                "x": "此次列入的原因是，这些实体存在参与或可能参与将先进计算物项转用于未经授权的最终用途或最终用户的重大风险。这些实体所涉及的所有受EAR管辖物项均须申请许可证，许可证审查将采取推定拒绝政策。"
               },
               {
                 "t": "p",
-                "x": "许可一并审批程序明确了相关机构的回复期限，逾期未回复的可依据所提交材料推进程序。附设停车场标准比现行标准放宽20%，并可通过市、道条例进一步放宽至50%。"
-              },
-              {
-                "t": "p",
-                "x": "AIDC特区由科学技术信息通信部在90天内审查后，经AI委员会审议、表决后指定；交通、供热、储能、通信、安保等设施也被纳入支援基础设施。下月9日将举行公听会，下位法规计划于法律施行日即明年3月10日一并施行。"
+                "x": "Megaspeed International Pte. Ltd.被列入时附有四个别名，其中包括7Road International。根据保留条款（savings clause），已在运输途中的货物若在30天内完成，可继续放行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los centros de datos de AI\ntendrán permisos unificados",
-          "body": "El proyecto de decreto de la ley especial de centros de datos de AI prevé permisos unificados y exenciones de red.",
-          "mini_headline": "Excepciones para centros de datos de AI",
+          "headline": "Comercio añade 7 firmas de Asia\na la Entity List",
+          "body": "La BIS incluyó a siete empresas de Malasia, Singapur y Tailandia por el riesgo de desvío de computación avanzada.",
+          "mini_headline": "La BIS lista 7 firmas por chips",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "A partir de marzo del próximo año se establecerán nuevos criterios de reconocimiento y procedimientos de notificación para los centros de datos de inteligencia artificial (AIDC), y los AIDC situados fuera del área metropolitana de Seúl con una potencia contratada de 50MW o menos quedarán exentos de la evaluación de impacto en la red eléctrica. El Ministerio de Ciencia y TIC informó el día 20 que elaboró los proyectos de decreto y reglamento de aplicación antes de la entrada en vigor de la 'Ley especial de promoción de la industria de centros de datos de inteligencia artificial', y que los someterá a aviso legislativo previo hasta el día 30 del próximo mes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "Obras en el complejo industrial general del Clúster de Semiconductores de Yongin, en Yongin (provincia de Gyeonggi), el 29 de junio, cuando el Gobierno anunció 3 megaproyectos en semiconductores, AI y centros de datos. (Foto=Yonhap)"
+                "x": "Con esta norma, la Oficina de Industria y Seguridad (Bureau of Industry and Security, BIS) modifica el Reglamento de Administración de Exportaciones (Export Administration Regulations, EAR) para añadir 7 entidades a la Entity List, con destinos en Malasia, Singapur y Tailandia. El U.S. Government ha determinado que estas entidades actúan en contra de los intereses de seguridad nacional o de política exterior de Estados Unidos. Está previsto que la norma final se publique en el Federal Register el 25 de noviembre de 2026, y entra en vigor en la fecha de su puesta a disposición pública."
               },
               {
                 "t": "p",
-                "x": "Un AIDC se define como una instalación que posee aceleradores de AI por encima de cierta escala, cuenta con los equipos de energía, refrigeración y demás elementos esenciales para operarlos, y tiene una relación de potencia de diseño de 1.5 o menos. Las 'instalaciones de provisión a terceros' de tipo colocation también se consideran AIDC."
+                "x": "El Comité de Revisión de Usuarios Finales (End-User Review Committee, ERC) decidió añadir a MSFusion Sdn. Bhd., PT Megaspeed International y Speedmatrix Sdn Bhd (Malasia); Apex Enterprise Solutions (Singapore) Private Limited, Megaspeed International Pte. Ltd y Swiftdata Pte. Ltd. (Singapur); y Megaspeed (Thailand) Co., Ltd. (Tailandia)."
               },
               {
                 "t": "p",
-                "x": "Las notificaciones se dividen en notificación de construcción (antes de iniciar las obras), de operación (30 días antes de empezar a operar) y de modificación (dentro de los 30 días posteriores al hecho). Para impedir que operadores ficticios presenten solo la notificación de construcción y acaparen las excepciones, deberán fijar y notificar una fecha de inicio de obras dentro de 1 año desde la notificación."
+                "x": "Estas incorporaciones se deben al riesgo significativo de que estas entidades participen, o lleguen a participar, en el desvío de productos de computación avanzada hacia usos finales o usuarios finales no autorizados. Se añadirán con un requisito de licencia para todos los artículos sujetos al EAR, y las licencias se revisarán bajo una presunción de denegación."
               },
               {
                 "t": "p",
-                "x": "El procedimiento unificado de permisos concreta los plazos de respuesta de los organismos implicados y, si no responden a tiempo, permite avanzar con base en los documentos presentados. Los requisitos de estacionamiento anexo se reducen un 20% respecto a la norma vigente, y las ordenanzas de ciudades y provincias pueden flexibilizarlos aún más, hasta un 50%."
-              },
-              {
-                "t": "p",
-                "x": "Las zonas especiales de AIDC las designará el Ministerio de Ciencia y TIC tras una revisión de hasta 90 días y la deliberación y aprobación del Comité de AI; además, se añadieron instalaciones de transporte, suministro de calor, almacenamiento de energía, telecomunicaciones y seguridad a la infraestructura de apoyo. Se celebrará una audiencia pública el día 9 del próximo mes, y la normativa secundaria entrará en vigor el 10 de marzo del próximo año, fecha de entrada en vigor de la ley."
+                "x": "Megaspeed International Pte. Ltd. figura con cuatro alias, entre ellos 7Road International. Una cláusula de salvaguarda permite que los envíos ya en tránsito sigan adelante si se completan en un plazo de 30 días."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI data center permits move\ntoward one-stop processing",
-          "body": "A draft decree for the AI data center special act includes one-stop permitting and a power assessment exemption.",
-          "mini_headline": "AI data center permit exemptions",
+        "ko": {
+          "headline": "상무부, 아시아 기업 7곳\n수출통제 명단에 올려",
+          "body": "BIS가 첨단컴퓨팅 전용 우려로 말레이시아·싱가포르·태국 기업 일곱 곳을 지정했다.",
+          "mini_headline": "BIS, 반도체 우려로 7개사 지정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "From March next year, new recognition criteria and reporting procedures will apply to artificial intelligence data centers (AIDC), and AIDCs outside the Seoul metropolitan area with contracted power of 50MW or less will be exempt from power grid impact assessments. The Ministry of Science and ICT said on the 20th that it has drafted an enforcement decree and enforcement rules ahead of the 'Special Act on the Promotion of the Artificial Intelligence Data Center Industry' taking effect, and will give advance legislative notice until the 30th of next month."
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "The construction site of the Yongin Semiconductor Cluster general industrial complex in Yongin, Gyeonggi Province, on June 29, when the government announced its 3 major megaprojects in semiconductors, AI and data centers. (Photo=Yonhap News)"
+                "x": "이번 규칙에서 산업안보국(Bureau of Industry and Security, BIS)은 수출관리규정(Export Administration Regulations, EAR)을 개정해 말레이시아·싱가포르·태국을 목적지로 하는 7개 기관을 Entity List(거래제한 명단)에 추가한다. U.S. 정부는 이들 기관이 미국의 국가안보 또는 외교정책 이익에 반하는 활동을 하고 있다고 판단했다. 최종 규칙은 2026년 11월 25일 Federal Register(연방 관보)에 게재될 예정이며, 공개 열람일부터 효력이 발생한다."
               },
               {
                 "t": "p",
-                "x": "An AIDC is defined as a facility that holds AI accelerators above a certain scale, has the power, cooling and other equipment essential to running them, and has a design power ratio of 1.5 or less. Colocation-type 'third-party provision facilities' also count as AIDCs."
+                "x": "최종사용자검토위원회(End-User Review Committee, ERC)는 MSFusion Sdn. Bhd., PT Megaspeed International, Speedmatrix Sdn Bhd(말레이시아), Apex Enterprise Solutions (Singapore) Private Limited, Megaspeed International Pte. Ltd, Swiftdata Pte. Ltd.(싱가포르), Megaspeed (Thailand) Co., Ltd.(태국)를 추가하기로 결정했다."
               },
               {
                 "t": "p",
-                "x": "Reports are divided into construction reports (before construction begins), operation reports (30 days before operations start) and change reports (within 30 days of the cause arising). To stop sham operators from filing only a construction report to lock in the special provisions, filers must set and report a construction start date within 1 year of the report date."
+                "x": "이번 추가 조치는 이들 기관이 첨단 컴퓨팅 품목을 허가받지 않은 최종 용도나 최종 사용자에게 전용하는 데 관여하고 있거나 관여하게 될 위험이 크기 때문이다. 이들 기관에는 EAR 적용 대상인 모든 품목에 대해 허가 요건이 부과되며, 허가 심사는 거부 추정 원칙에 따른다."
               },
               {
                 "t": "p",
-                "x": "The one-stop permitting procedure sets specific response deadlines for relevant agencies, and if they do not respond in time, the process can proceed based on the submitted documents. Attached parking requirements are eased by 20% from the existing standard and can be eased further, by up to 50%, through city and provincial ordinances."
-              },
-              {
-                "t": "p",
-                "x": "AIDC special zones will be designated by the Ministry of Science and ICT after a review within 90 days and deliberation and resolution by the AI Committee, and transportation, heat supply, energy storage, telecommunications and security facilities have been added to the supporting infrastructure. A public hearing will be held on the 9th of next month, and the subordinate regulations are set to take effect on March 10 next year, the date the law takes effect."
+                "x": "Megaspeed International Pte. Ltd.는 7Road International을 포함한 네 개의 별칭과 함께 등재됐다. 경과 조항(savings clause)에 따라 이미 운송 중인 화물은 30일 이내에 완료되면 그대로 진행할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIデータセンター\n許認可を一括処理へ",
-          "body": "AIデータセンター特別法の施行令案は、許認可の一括処理と電力評価の特例を盛り込んだ。",
-          "mini_headline": "AIデータセンター許認可の特例",
+          "headline": "米商務省、アジア7社を\nエンティティリストに",
+          "body": "BISは先端コンピューティング転用リスクでマレーシア・シンガポール・タイの七社を指定した。",
+          "mini_headline": "BIS、半導体懸念で7社指定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "来年3月から人工知能データセンター(AIDC)の認定基準と届出手続きが新設され、非首都圏に立地する契約電力50MW 以下のAIDCは電力系統影響評価が免除される。科学技術情報通信部は「人工知能データセンター産業の振興に関する特別法」の施行を前に施行令・施行規則の制定案をまとめ、来月30日まで立法予告すると20日明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "政府が半導体・AI・データセンターなど3大メガプロジェクトを発表した6月29日、京畿道龍仁市の龍仁半導体クラスター一般産業団地の工事現場。(写真=聯合ニュース)"
+                "x": "本規則で、産業安全保障局（Bureau of Industry and Security、BIS）は輸出管理規則（Export Administration Regulations、EAR）を改正し、マレーシア、シンガポール、タイを仕向地とする7事業体をEntity List（エンティティリスト）に追加する。U.S.政府は、これらの事業体が米国の国家安全保障または外交政策上の利益に反して行動していると判断した。最終規則は2026年11月25日にFederal Register（連邦官報）で公示される予定で、公開閲覧日に発効する。"
               },
               {
                 "t": "p",
-                "x": "AIDCは、AIアクセラレーターを一定規模以上保有し、その運用に不可欠な電力・冷却などの設備を備え、設計電力比率が1.5以下の施設と規定した。コロケーション型の「第三者提供型施設」もAIDCに含まれる。"
+                "x": "エンドユーザー審査委員会（End-User Review Committee、ERC）は、MSFusion Sdn. Bhd.、PT Megaspeed International、Speedmatrix Sdn Bhd（マレーシア）、Apex Enterprise Solutions (Singapore) Private Limited、Megaspeed International Pte. Ltd、Swiftdata Pte. Ltd.（シンガポール）、Megaspeed (Thailand) Co., Ltd.（タイ）の追加を決定した。"
               },
               {
                 "t": "p",
-                "x": "届出は構築届出(構築工事の開始前)・運営届出(運営開始の30日前)・変更届出(事由発生後30日以内)に区分した。構築届出だけで特例を先取りする見せかけの事業者を防ぐため、届出日から1年以内に着工日を定めて届け出るようにした。"
+                "x": "今回の追加は、これらの事業体が先端コンピューティング品目を許可されていない最終用途や最終需要者へ転用することに関与している、または関与するようになる重大なリスクがあるためだ。これらの事業体にはEARの対象となるすべての品目について許可要件が課され、許可申請は原則不許可の方針で審査される。"
               },
               {
                 "t": "p",
-                "x": "許認可の一括処理手続きでは関係機関の回答期限を具体化し、期限内に回答がなければ提出書類に基づいて手続きを進められるようにした。附設駐車場は既存基準より20%緩和し、市・道の条例でさらに50%まで緩和できる。"
-              },
-              {
-                "t": "p",
-                "x": "AIDC特区は科学技術情報通信部が90日以内に検討した後、AI委員会の審議・議決を経て指定し、交通・熱供給・エネルギー貯蔵・通信・保安施設なども支援基盤施設に追加された。来月9日に公聴会を開き、下位法令は法律の施行日である来年3月10日に合わせて施行する計画だ。"
+                "x": "Megaspeed International Pte. Ltd.は、7Road Internationalを含む四つの別名とともに掲載された。経過措置条項（savings clause）により、すでに輸送中の貨物は30日以内に完了すれば手続きを進められる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI数据中心许可\n将实行一并审批",
-          "body": "AI数据中心特别法实施令草案纳入了许可一并审批与电力评估特例。",
-          "mini_headline": "AI数据中心许可特例",
+          "headline": "美商务部将亚洲7家企业\n列入实体清单",
+          "body": "BIS以先进计算物项转用风险为由，将马来西亚、新加坡和泰国的七家企业列入清单。",
+          "mini_headline": "BIS因芯片问题列入7家企业",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "自明年3月起，人工智能数据中心(AIDC)的认定标准和申报程序将新设，位于首都圈以外、合同电力50MW 以下的AIDC可免于电力系统影响评估。科学技术信息通信部20日表示，在《人工智能数据中心产业振兴特别法》施行前已拟定施行令和施行规则制定案，将进行立法预告至下月30日。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "6月29日政府发布半导体、AI、数据中心等3大重点项目当天，京畿道龙仁市龙仁半导体集群一般产业园区的施工现场。（图片=韩联社）"
+                "x": "根据该规则，美国工业与安全局（Bureau of Industry and Security，BIS）修订《出口管理条例》（Export Administration Regulations，EAR），将目的地为马来西亚、新加坡和泰国的7个实体列入Entity List（实体清单）。U.S.政府认定，这些实体的行为违背美国的国家安全或外交政策利益。该最终规则定于2026年11月25日在Federal Register（联邦公报）上发布，自公开查阅之日起生效。"
               },
               {
                 "t": "p",
-                "x": "AIDC被定义为拥有一定规模以上AI加速器、具备运行加速器所必需的电力和冷却等设施、且设计电力比率在1.5以下的设施。托管形式的“第三方提供型设施”也属于AIDC。"
+                "x": "最终用户审查委员会（End-User Review Committee，ERC）决定列入MSFusion Sdn. Bhd.、PT Megaspeed International和Speedmatrix Sdn Bhd（马来西亚）；Apex Enterprise Solutions (Singapore) Private Limited、Megaspeed International Pte. Ltd和Swiftdata Pte. Ltd.（新加坡）；以及Megaspeed (Thailand) Co., Ltd.（泰国）。"
               },
               {
                 "t": "p",
-                "x": "申报分为建设申报（建设工程开工前）、运营申报（开始运营前30天）和变更申报（事由发生后30天内）。为防止只做建设申报以抢占特例的虚假经营者，要求自申报之日起1年内确定开工日期并申报。"
+                "x": "此次列入的原因是，这些实体存在参与或可能参与将先进计算物项转用于未经授权的最终用途或最终用户的重大风险。这些实体所涉及的所有受EAR管辖物项均须申请许可证，许可证审查将采取推定拒绝政策。"
               },
               {
                 "t": "p",
-                "x": "许可一并审批程序明确了相关机构的回复期限，逾期未回复的可依据所提交材料推进程序。附设停车场标准比现行标准放宽20%，并可通过市、道条例进一步放宽至50%。"
-              },
-              {
-                "t": "p",
-                "x": "AIDC特区由科学技术信息通信部在90天内审查后，经AI委员会审议、表决后指定；交通、供热、储能、通信、安保等设施也被纳入支援基础设施。下月9日将举行公听会，下位法规计划于法律施行日即明年3月10日一并施行。"
+                "x": "Megaspeed International Pte. Ltd.被列入时附有四个别名，其中包括7Road International。根据保留条款（savings clause），已在运输途中的货物若在30天内完成，可继续放行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los centros de datos de AI\ntendrán permisos unificados",
-          "body": "El proyecto de decreto de la ley especial de centros de datos de AI prevé permisos unificados y exenciones de red.",
-          "mini_headline": "Excepciones para centros de datos de AI",
+          "headline": "Comercio añade 7 firmas de Asia\na la Entity List",
+          "body": "La BIS incluyó a siete empresas de Malasia, Singapur y Tailandia por el riesgo de desvío de computación avanzada.",
+          "mini_headline": "La BIS lista 7 firmas por chips",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "A partir de marzo del próximo año se establecerán nuevos criterios de reconocimiento y procedimientos de notificación para los centros de datos de inteligencia artificial (AIDC), y los AIDC situados fuera del área metropolitana de Seúl con una potencia contratada de 50MW o menos quedarán exentos de la evaluación de impacto en la red eléctrica. El Ministerio de Ciencia y TIC informó el día 20 que elaboró los proyectos de decreto y reglamento de aplicación antes de la entrada en vigor de la 'Ley especial de promoción de la industria de centros de datos de inteligencia artificial', y que los someterá a aviso legislativo previo hasta el día 30 del próximo mes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
-                "cap": "Obras en el complejo industrial general del Clúster de Semiconductores de Yongin, en Yongin (provincia de Gyeonggi), el 29 de junio, cuando el Gobierno anunció 3 megaproyectos en semiconductores, AI y centros de datos. (Foto=Yonhap)"
+                "x": "Con esta norma, la Oficina de Industria y Seguridad (Bureau of Industry and Security, BIS) modifica el Reglamento de Administración de Exportaciones (Export Administration Regulations, EAR) para añadir 7 entidades a la Entity List, con destinos en Malasia, Singapur y Tailandia. El U.S. Government ha determinado que estas entidades actúan en contra de los intereses de seguridad nacional o de política exterior de Estados Unidos. Está previsto que la norma final se publique en el Federal Register el 25 de noviembre de 2026, y entra en vigor en la fecha de su puesta a disposición pública."
               },
               {
                 "t": "p",
-                "x": "Un AIDC se define como una instalación que posee aceleradores de AI por encima de cierta escala, cuenta con los equipos de energía, refrigeración y demás elementos esenciales para operarlos, y tiene una relación de potencia de diseño de 1.5 o menos. Las 'instalaciones de provisión a terceros' de tipo colocation también se consideran AIDC."
+                "x": "El Comité de Revisión de Usuarios Finales (End-User Review Committee, ERC) decidió añadir a MSFusion Sdn. Bhd., PT Megaspeed International y Speedmatrix Sdn Bhd (Malasia); Apex Enterprise Solutions (Singapore) Private Limited, Megaspeed International Pte. Ltd y Swiftdata Pte. Ltd. (Singapur); y Megaspeed (Thailand) Co., Ltd. (Tailandia)."
               },
               {
                 "t": "p",
-                "x": "Las notificaciones se dividen en notificación de construcción (antes de iniciar las obras), de operación (30 días antes de empezar a operar) y de modificación (dentro de los 30 días posteriores al hecho). Para impedir que operadores ficticios presenten solo la notificación de construcción y acaparen las excepciones, deberán fijar y notificar una fecha de inicio de obras dentro de 1 año desde la notificación."
+                "x": "Estas incorporaciones se deben al riesgo significativo de que estas entidades participen, o lleguen a participar, en el desvío de productos de computación avanzada hacia usos finales o usuarios finales no autorizados. Se añadirán con un requisito de licencia para todos los artículos sujetos al EAR, y las licencias se revisarán bajo una presunción de denegación."
               },
               {
                 "t": "p",
-                "x": "El procedimiento unificado de permisos concreta los plazos de respuesta de los organismos implicados y, si no responden a tiempo, permite avanzar con base en los documentos presentados. Los requisitos de estacionamiento anexo se reducen un 20% respecto a la norma vigente, y las ordenanzas de ciudades y provincias pueden flexibilizarlos aún más, hasta un 50%."
-              },
-              {
-                "t": "p",
-                "x": "Las zonas especiales de AIDC las designará el Ministerio de Ciencia y TIC tras una revisión de hasta 90 días y la deliberación y aprobación del Comité de AI; además, se añadieron instalaciones de transporte, suministro de calor, almacenamiento de energía, telecomunicaciones y seguridad a la infraestructura de apoyo. Se celebrará una audiencia pública el día 9 del próximo mes, y la normativa secundaria entrará en vigor el 10 de marzo del próximo año, fecha de entrada en vigor de la ley."
+                "x": "Megaspeed International Pte. Ltd. figura con cuatro alias, entre ellos 7Road International. Una cláusula de salvaguarda permite que los envíos ya en tránsito sigan adelante si se completan en un plazo de 30 días."
               }
             ]
           }
@@ -365,15 +275,15 @@
       }
     },
     {
-      "id": "hickenlooper-ai-select-committee",
+      "id": "grok-spacex-states-suit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Hickenlooper\n상원 AI 특위 제안",
-      "body": "Hickenlooper 의원이 외부 평가를 앞세운 상원 AI 특위를 제안했다.",
-      "mini_headline": "상원 AI 특위 제안",
+      "headline": "오리건·버지니아, Grok\n이미지로 SpaceX 제소",
+      "body": "두 주 AGs는 Grok가 아직도 아동 성착취물과 비동의 음란물을 만든다고 했다.",
+      "mini_headline": "주 정부들, Grok 두고 SpaceX 제소",
       "tool": "Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -381,179 +291,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-            "cap": "2026년 2월 26일 목요일 뉴욕에서 컴퓨터 화면에 Anthropic 웹사이트 페이지와 회사 로고가 표시돼 있다. (AP Photo/Patrick Sison, File)"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+            "cap": "사진: NurPhoto / Contributor | NurPhoto"
           },
           {
             "t": "p",
-            "x": "상원 민주당은 차기 의회에서 인공지능 안전장치를 가장 빨리 마련할 방법을 놓고 논의 중이다. 콜로라도주의 John Hickenlooper 상원의원은 내년 다수당을 이끌 사람이라면 AI를 두고 “책임 있는 규제를 위한 첫날 계획”을 갖춰야 한다고 말했다. Chuck Schumer와 Chris Van Hollen의 경쟁에서 그는 아직 어느 쪽도 지지하지 않았다."
+            "x": "버지니아주와 오리건주가 월요일 SpaceX를 상대로 소송을 낸 첫 주가 됐다. 두 주는 Grok가 주로 여성과 아동의 실제 사진을 아무 제약 없이 계속 성적으로 조작한다고 주장한다. 2월 xAI를 인수한 SpaceX는 비동의 성적 이미지(NCII)와 아동 성착취 이미지(CSAM)를 대량으로 만들어 낸 것으로 드러난 Grok의 “스파이시 모드(spicy mode)”를 둘러싼 책임까지 이제 떠안게 됐다."
           },
           {
             "t": "p",
-            "x": "Hickenlooper는 탄탄한 제삼자 평가 요건, 국가안보 문제 완화, “AI 기업에 책임을 묻는 명확한 규칙”을 우선순위로 꼽았다. 흩어진 논의를 한데 모을 인공지능 특별위원회도 제안했다."
+            "x": "주 법무장관들은 안전장치를 더했다는 회사들의 발표가 “오해의 소지가 있다”며, Grok가 지금도 NCII와 CSAM을 만들고 자체 모더레이션을 피하는 방법까지 사용자에게 알려 준다고 주장했다. Grok 레드팀 업무를 맡은 X Safety 팀이 두세 명으로 줄었다는 주장도 내놨다."
           },
           {
             "t": "p",
-            "x": "Van Hollen은 이 구상을 지지한다고 했다. Ron Wyden 상원의원은 “구체적인 내용을 보고 싶다”고 했고, Bernie Sanders 상원의원은 바로 지지하지는 않았다. 공화당 Ted Cruz 상원의원은 이 사안을 자기 위원회 등에서 떼어내는 건 “말이 안 된다”면서도, 재앙적 위험만큼은 양당이 공통점을 찾길 바란다고 했다."
+            "x": "댄 레이필드(Dan Rayfield) 오리건주 법무장관은 “xAI는 아이들과 우리 지역사회를 알면서도 위험에 빠뜨렸을 뿐 아니라, 존재하지도 않는 안전 조치를 두고 우리 앞에서 거짓말을 했다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Schumer 측 여성 대변인은 상원 민주당이 AI를 새 다수당의 최우선 과제로 삼고 포괄적인 법안을 내놓으려 애쓰고 있다고 말했다."
+            "x": "SpaceXSI는 X Safety 게시물을 근거로 “무관용(zero-tolerance)” 정책을 시행하며, “모든 프롬프트를 검사하는” 분류기로 출력물을 전부 확인하고 위반자는 수사기관에 신고한다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "두 주는 금지명령과 위반 건당 민사 제재금, 부당이득 환수를 청구했다. 버지니아주 소장에는 주와 연결된 X 계정 약 6.4 million 개와 Grok 앱 다운로드 986,624건이 적시됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hickenlooper proposes a Senate\nselect committee on AI",
-          "body": "Sen. John Hickenlooper proposed a Senate select committee on AI, prioritizing third-party evaluation requirements.",
-          "mini_headline": "Senate AI committee pitch",
+          "headline": "Oregon and Virginia sue\nSpaceX over Grok images",
+          "body": "The Oregon and Virginia AGs allege Grok still makes child sexual abuse images and nonconsensual intimate imagery.",
+          "mini_headline": "States sue SpaceX over Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "Pages from the Anthropic website and the company's logos are displayed on a computer screen in New York on Thursday, Feb. 26, 2026. (AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "Credit: NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "Senate Democrats are debating the best way to quickly establish guardrails around artificial intelligence in the next Congress. Colorado Sen. John Hickenlooper said the person leading their majority next year should have a “day one plan for responsible regulation” on AI, as he has so far withheld an endorsement in the race between Chuck Schumer and Chris Van Hollen."
+                "x": "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children. SpaceX acquired xAI in February and now must handle the ongoing reckoning over Grok's “spicy mode,” which was found to generate a flood of non-consensual intimate imagery (NCII) and child sex abuse images (CSAM)."
               },
               {
                 "t": "p",
-                "x": "Hickenlooper said his priorities are robust third-party evaluation requirements, mitigation of national security challenges and “clear rules of the road to hold AI companies accountable.” He proposed a select committee on artificial intelligence to consolidate the conversation."
+                "x": "State attorneys general alleged that the companies' statements about added safeguards were “misleading” and that Grok continues to generate NCII and CSAM today, even advising users how to circumvent its own moderation. They also alleged the X Safety team responsible for Grok red-teaming was reduced to two or three members."
               },
               {
                 "t": "p",
-                "x": "Van Hollen said he supports the idea. Sen. Ron Wyden said he would “want to see the specifics,” and Sen. Bernie Sanders did not immediately endorse it. Republican Sen. Ted Cruz said taking the issue out of his committee and others “makes no sense,” but hoped both parties could find common ground on catastrophic risk."
+                "x": "“xAI not only knowingly endangered kids and our communities, but they also lied to our faces about non-existent safety measures,” Oregon Attorney General Dan Rayfield said."
               },
               {
                 "t": "p",
-                "x": "A Schumer spokeswoman said Senate Democrats will make AI a top priority of the new majority and are working to deliver comprehensive legislation."
+                "x": "SpaceXSI pointed to an X Safety post saying it has a “zero-tolerance” policy, uses classifiers that “screen every prompt” and check every output, and reports offenders to law enforcement."
+              },
+              {
+                "t": "p",
+                "x": "The states seek an injunction, civil penalties per violation and disgorgement of ill-gotten gains. Virginia's complaint cites about 6.4 million X accounts linked to the state and 986,624 Grok app downloads."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Hickenlooper\n상원 AI 특위 제안",
-          "body": "Hickenlooper 의원이 외부 평가를 앞세운 상원 AI 특위를 제안했다.",
-          "mini_headline": "상원 AI 특위 제안",
+          "headline": "오리건·버지니아, Grok\n이미지로 SpaceX 제소",
+          "body": "두 주 AGs는 Grok가 아직도 아동 성착취물과 비동의 음란물을 만든다고 했다.",
+          "mini_headline": "주 정부들, Grok 두고 SpaceX 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "2026년 2월 26일 목요일 뉴욕에서 컴퓨터 화면에 Anthropic 웹사이트 페이지와 회사 로고가 표시돼 있다. (AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "사진: NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "상원 민주당은 차기 의회에서 인공지능 안전장치를 가장 빨리 마련할 방법을 놓고 논의 중이다. 콜로라도주의 John Hickenlooper 상원의원은 내년 다수당을 이끌 사람이라면 AI를 두고 “책임 있는 규제를 위한 첫날 계획”을 갖춰야 한다고 말했다. Chuck Schumer와 Chris Van Hollen의 경쟁에서 그는 아직 어느 쪽도 지지하지 않았다."
+                "x": "버지니아주와 오리건주가 월요일 SpaceX를 상대로 소송을 낸 첫 주가 됐다. 두 주는 Grok가 주로 여성과 아동의 실제 사진을 아무 제약 없이 계속 성적으로 조작한다고 주장한다. 2월 xAI를 인수한 SpaceX는 비동의 성적 이미지(NCII)와 아동 성착취 이미지(CSAM)를 대량으로 만들어 낸 것으로 드러난 Grok의 “스파이시 모드(spicy mode)”를 둘러싼 책임까지 이제 떠안게 됐다."
               },
               {
                 "t": "p",
-                "x": "Hickenlooper는 탄탄한 제삼자 평가 요건, 국가안보 문제 완화, “AI 기업에 책임을 묻는 명확한 규칙”을 우선순위로 꼽았다. 흩어진 논의를 한데 모을 인공지능 특별위원회도 제안했다."
+                "x": "주 법무장관들은 안전장치를 더했다는 회사들의 발표가 “오해의 소지가 있다”며, Grok가 지금도 NCII와 CSAM을 만들고 자체 모더레이션을 피하는 방법까지 사용자에게 알려 준다고 주장했다. Grok 레드팀 업무를 맡은 X Safety 팀이 두세 명으로 줄었다는 주장도 내놨다."
               },
               {
                 "t": "p",
-                "x": "Van Hollen은 이 구상을 지지한다고 했다. Ron Wyden 상원의원은 “구체적인 내용을 보고 싶다”고 했고, Bernie Sanders 상원의원은 바로 지지하지는 않았다. 공화당 Ted Cruz 상원의원은 이 사안을 자기 위원회 등에서 떼어내는 건 “말이 안 된다”면서도, 재앙적 위험만큼은 양당이 공통점을 찾길 바란다고 했다."
+                "x": "댄 레이필드(Dan Rayfield) 오리건주 법무장관은 “xAI는 아이들과 우리 지역사회를 알면서도 위험에 빠뜨렸을 뿐 아니라, 존재하지도 않는 안전 조치를 두고 우리 앞에서 거짓말을 했다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Schumer 측 여성 대변인은 상원 민주당이 AI를 새 다수당의 최우선 과제로 삼고 포괄적인 법안을 내놓으려 애쓰고 있다고 말했다."
+                "x": "SpaceXSI는 X Safety 게시물을 근거로 “무관용(zero-tolerance)” 정책을 시행하며, “모든 프롬프트를 검사하는” 분류기로 출력물을 전부 확인하고 위반자는 수사기관에 신고한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "두 주는 금지명령과 위반 건당 민사 제재금, 부당이득 환수를 청구했다. 버지니아주 소장에는 주와 연결된 X 계정 약 6.4 million 개와 Grok 앱 다운로드 986,624건이 적시됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hickenlooper氏\n上院AI特別委を提案",
-          "body": "Hickenlooper上院議員は第三者評価を重視する上院AI特別委員会の設置を提案した。",
-          "mini_headline": "上院AI特別委の提案",
+          "headline": "オレゴン・バージニア州が\nSpaceXをGrokで提訴",
+          "body": "オレゴン・バージニア州AGsはGrokが今も児童性的虐待画像と非同意性的画像を作ると訴える。",
+          "mini_headline": "州がGrokでSpaceXを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "2026年2月26日(木)、ニューヨークでコンピューター画面に表示されたAnthropicのウェブサイトのページと同社のロゴ。(AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "写真：NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "上院民主党は、次の議会で人工知能のガードレールを早急に整える最善の方法を議論している。コロラド州選出のJohn Hickenlooper上院議員は、来年多数派を率いる人物はAIについて「責任ある規制のための初日からの計画」を持つべきだと述べた。同氏はChuck SchumerとChris Van Hollenの争いで、これまで支持表明を控えている。"
+                "x": "月曜日、バージニア州とオレゴン州はSpaceXを提訴した最初の州となった。両州は、Grokが主に女性と子どもの実際の写真を、歯止めのないまま性的に加工し続けていると主張している。SpaceXは2月にxAIを買収しており、非同意の性的画像（NCII）と児童性的虐待画像（CSAM）を大量に生成していたことが判明したGrokの「スパイシーモード（spicy mode）」をめぐる責任追及に、今後対応しなければならない。"
               },
               {
                 "t": "p",
-                "x": "Hickenlooperは、強固な第三者評価の要件、国家安全保障上の課題の緩和、そして「AI企業に責任を負わせる明確なルール」を優先事項に挙げた。議論を集約するため、人工知能に関する特別委員会の設置を提案した。"
+                "x": "州司法長官らは、安全対策を追加したとする両社の説明は「誤解を招く」ものであり、Grokは現在もNCIIとCSAMを生成し、自らのモデレーションを回避する方法までユーザーに助言していると主張した。さらに、Grokのレッドチーミングを担うX Safetyチームが二、三人にまで縮小されたとも主張した。"
               },
               {
                 "t": "p",
-                "x": "Van Hollenはこの案を支持すると述べた。Ron Wyden上院議員は「具体的な内容を見たい」と語り、Bernie Sanders上院議員はすぐには支持しなかった。共和党のTed Cruz上院議員は、この問題を自身の委員会などから切り離すのは「理にかなわない」としつつ、壊滅的リスクについて両党が共通点を見いだせることを望むと述べた。"
+                "x": "オレゴン州のダン・レイフィールド（Dan Rayfield）司法長官は「xAIは子どもたちと地域社会を承知のうえで危険にさらしただけでなく、存在しない安全対策について私たちの面前でうそをついた」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Schumerの女性報道官は、上院民主党はAIを新たな多数派の最優先課題とし、包括的な法案の実現に取り組んでいると述べた。"
+                "x": "SpaceXSIはX Safetyの投稿を示し、「ゼロ・トレランス（zero-tolerance）」方針を掲げ、「すべてのプロンプトを審査する」分類器ですべての出力を確認し、違反者を法執行機関に通報していると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "両州は差し止め命令、違反ごとの民事制裁金、不当利得の吐き出しを求めている。バージニア州の訴状は、同州に関連する約6.4 million 件のXアカウントと、986,624件のGrokアプリのダウンロードを挙げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hickenlooper\n提议设参议院AI特委",
-          "body": "参议员Hickenlooper提议设立参议院AI特别委员会，并优先推动第三方评估要求。",
-          "mini_headline": "参议院AI特委提议",
+          "headline": "俄勒冈和弗吉尼亚州\n因Grok图像诉SpaceX",
+          "body": "俄勒冈和弗吉尼亚州AGs指控Grok仍在生成儿童性虐待图像和未经同意的私密图像。",
+          "mini_headline": "多州就Grok起诉SpaceX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "2026年2月26日（星期四），纽约一台电脑屏幕上显示的Anthropic网站页面和公司标志。(AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "图片来源：NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "参议院民主党人正在讨论如何在下届国会迅速为人工智能建立护栏。科罗拉多州参议员John Hickenlooper表示，明年领导多数党的人应对AI有一份“负责任监管的第一天计划”。在Chuck Schumer与Chris Van Hollen的竞争中，他至今尚未表态支持任何一方。"
+                "x": "周一，弗吉尼亚州和俄勒冈州成为首批起诉SpaceX的州，指控Grok仍在不受约束地对真实照片进行性化处理，照片中的人物大多是女性和儿童。SpaceX于2月收购了xAI，如今必须应对围绕Grok“辣味模式”（spicy mode）持续发酵的追责；该模式被发现大量生成未经同意的私密图像（NCII）和儿童性虐待图像（CSAM）。"
               },
               {
                 "t": "p",
-                "x": "Hickenlooper表示，他的优先事项是严格的第三方评估要求、缓解国家安全挑战，以及“追究AI公司责任的明确规则”。他提议设立人工智能特别委员会，以整合相关讨论。"
+                "x": "各州总检察长指控，两家公司关于已增加防护措施的说法具有“误导性”，Grok至今仍在生成NCII和CSAM，甚至会教用户如何绕过其自身的内容审核。他们还指控，负责Grok红队测试的X Safety团队已被缩减至两三人。"
               },
               {
                 "t": "p",
-                "x": "Van Hollen表示支持这一构想。参议员Ron Wyden说他“想看看具体内容”，参议员Bernie Sanders没有立即表态支持。共和党参议员Ted Cruz表示，把这一议题从他的委员会及其他委员会中剥离“毫无道理”，但希望两党能在灾难性风险上找到共识。"
+                "x": "俄勒冈州总检察长Dan Rayfield表示：“xAI不仅明知故犯地让孩子和我们的社区陷入危险，还就根本不存在的安全措施当面对我们撒谎。”"
               },
               {
                 "t": "p",
-                "x": "Schumer的一名女发言人表示，参议院民主党将把AI作为新多数党的首要优先事项，并正努力推出全面立法。"
+                "x": "SpaceXSI援引X Safety的一篇帖子称，公司实行“零容忍”（zero-tolerance）政策，使用“筛查每一条提示词”的分类器并检查每一项输出，还会向执法部门举报违规者。"
+              },
+              {
+                "t": "p",
+                "x": "各州寻求禁令、按每次违规计算的民事罚款，并要求追缴不当所得。弗吉尼亚州的诉状提到，与该州相关的X账户约有6.4 million 个，Grok应用下载量为986,624次。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hickenlooper propone un comité\nselecto del Senado sobre AI",
-          "body": "El senador John Hickenlooper propuso un comité selecto del Senado sobre AI centrado en exigir evaluaciones de terceros.",
-          "mini_headline": "Propuesta de comité de AI en el Senado",
+          "headline": "Oregón y Virginia demandan\na SpaceX por imágenes de Grok",
+          "body": "Los AGs de Oregón y Virginia alegan que Grok aún crea imágenes de abuso sexual infantil e íntimas no consentidas.",
+          "mini_headline": "Estados demandan a SpaceX por Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "Páginas del sitio web de Anthropic y logotipos de la empresa en una pantalla en Nueva York, el jueves 26 de febrero de 2026. (AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "Crédito: NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "Los demócratas del Senado debaten la mejor manera de establecer con rapidez salvaguardas en torno a la inteligencia artificial en el próximo Congreso. El senador por Colorado John Hickenlooper dijo que quien lidere su mayoría el próximo año debería tener un “plan desde el primer día para una regulación responsable” de la AI; hasta ahora no ha respaldado a nadie en la contienda entre Chuck Schumer y Chris Van Hollen."
+                "x": "El lunes, Virginia y Oregón se convirtieron en los primeros estados en demandar a SpaceX, al alegar que Grok sigue sexualizando, sin control, fotos reales de mujeres y niños en su mayoría. SpaceX adquirió xAI en febrero y ahora debe afrontar el ajuste de cuentas en curso por el “spicy mode” de Grok, que generó una avalancha de imágenes íntimas no consentidas (NCII) e imágenes de abuso sexual infantil (CSAM)."
               },
               {
                 "t": "p",
-                "x": "Hickenlooper dijo que sus prioridades son requisitos sólidos de evaluación por terceros, la mitigación de los desafíos de seguridad nacional y “reglas claras para que las empresas de AI rindan cuentas”. Propuso un comité selecto sobre inteligencia artificial para unificar el debate."
+                "x": "Los fiscales generales estatales alegaron que las declaraciones de las empresas sobre nuevas salvaguardas eran “engañosas” y que Grok sigue generando NCII y CSAM hoy en día, e incluso aconseja a los usuarios cómo eludir su propia moderación. También alegaron que el equipo de X Safety encargado del red-teaming de Grok quedó reducido a dos o tres miembros."
               },
               {
                 "t": "p",
-                "x": "Van Hollen dijo que apoya la idea. El senador Ron Wyden dijo que querría “ver los detalles”, y el senador Bernie Sanders no la respaldó de inmediato. El senador republicano Ted Cruz dijo que sacar el tema de su comité y de otros “no tiene sentido”, pero confió en que ambos partidos encuentren puntos en común sobre el riesgo catastrófico."
+                "x": "“xAI no solo puso en peligro a sabiendas a los niños y a nuestras comunidades, sino que también nos mintió en la cara sobre medidas de seguridad inexistentes”, dijo el fiscal general de Oregón, Dan Rayfield."
               },
               {
                 "t": "p",
-                "x": "Una portavoz de Schumer dijo que los demócratas del Senado harán de la AI una prioridad máxima de la nueva mayoría y que trabajan para sacar adelante una legislación integral."
+                "x": "SpaceXSI remitió a una publicación de X Safety según la cual aplica una política de “zero-tolerance” (tolerancia cero), usa clasificadores que “revisan cada prompt” y comprueban cada resultado, y denuncia a los infractores ante las autoridades."
+              },
+              {
+                "t": "p",
+                "x": "Los estados piden una orden judicial, sanciones civiles por cada infracción y la devolución de las ganancias ilícitas. La demanda de Virginia cita unos 6.4 millones de cuentas de X vinculadas al estado y 986,624 descargas de la app de Grok."
               }
             ]
           }
@@ -561,125 +495,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Hickenlooper\n상원 AI 특위 제안",
-          "body": "Hickenlooper 의원이 외부 평가를 앞세운 상원 AI 특위를 제안했다.",
-          "mini_headline": "상원 AI 특위 제안",
+          "headline": "오리건·버지니아, Grok\n이미지로 SpaceX 제소",
+          "body": "두 주 AGs는 Grok가 여전히 아동 성착취물과 비동의 음란물을 만든다고 했다.",
+          "mini_headline": "주 정부들, Grok 두고 SpaceX 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "2026년 2월 26일 목요일 뉴욕에서 컴퓨터 화면에 Anthropic 웹사이트 페이지와 회사 로고가 표시돼 있다. (AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "사진: NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "상원 민주당은 차기 의회에서 인공지능 안전장치를 신속히 마련할 최선의 방법을 논의하고 있다. 콜로라도주의 John Hickenlooper 상원의원은 내년 다수당을 이끌 사람이 AI에 대해 “책임 있는 규제를 위한 첫날 계획”을 가져야 한다고 말했다. 그는 Chuck Schumer와 Chris Van Hollen의 경쟁에서 아직 지지를 밝히지 않았다."
+                "x": "월요일 버지니아주와 오리건주는 SpaceX를 상대로 소송을 낸 첫 주가 됐다. 두 주는 Grok가 주로 여성과 아동의 실제 사진을 아무런 제약 없이 계속 성적으로 조작하고 있다고 주장한다. SpaceX는 2월 xAI를 인수했으며, 비동의 성적 이미지(NCII)와 아동 성착취 이미지(CSAM)를 대량으로 만들어 낸 것으로 드러난 Grok의 “스파이시 모드(spicy mode)”를 둘러싼 책임 추궁을 이제 떠안게 됐다."
               },
               {
                 "t": "p",
-                "x": "Hickenlooper는 탄탄한 제삼자 평가 요건, 국가안보 문제 완화, 그리고 “AI 기업에 책임을 묻는 명확한 규칙”을 우선순위로 꼽았다. 그는 논의를 한데 모으기 위해 인공지능 특별위원회를 두자고 제안했다."
+                "x": "주 법무장관들은 안전장치를 추가했다는 회사들의 발표가 “오해의 소지가 있다”고 지적하며, Grok가 지금도 NCII와 CSAM을 생성하고 자체 모더레이션을 우회하는 방법까지 사용자에게 알려 준다고 주장했다. 또 Grok 레드팀 업무를 맡은 X Safety 팀이 두세 명으로 줄었다고 주장했다."
               },
               {
                 "t": "p",
-                "x": "Van Hollen은 이 구상을 지지한다고 말했다. Ron Wyden 상원의원은 “구체적인 내용을 보고 싶다”고 했고, Bernie Sanders 상원의원은 곧바로 지지하지 않았다. 공화당 Ted Cruz 상원의원은 이 사안을 자신의 위원회 등에서 떼어내는 것은 “말이 안 된다”면서도 양당이 재앙적 위험에 관해 공통점을 찾기를 바란다고 말했다."
+                "x": "댄 레이필드(Dan Rayfield) 오리건주 법무장관은 “xAI는 아이들과 우리 지역사회를 알면서도 위험에 빠뜨렸을 뿐 아니라, 존재하지도 않는 안전 조치를 두고 우리 앞에서 거짓말을 했다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Schumer 측 여성 대변인은 상원 민주당이 AI를 새 다수당의 최우선 과제로 삼고 포괄적인 법안을 내놓기 위해 노력하고 있다고 말했다."
+                "x": "SpaceXSI는 X Safety 게시물을 근거로 들며, “무관용(zero-tolerance)” 정책을 시행하고 “모든 프롬프트를 검사하는” 분류기로 모든 출력물을 확인하며 위반자를 수사기관에 신고한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "두 주는 금지명령과 위반 건당 민사 제재금, 부당이득 환수를 청구했다. 버지니아주 소장은 주와 연결된 X 계정 약 6.4 million 개와 Grok 앱 다운로드 986,624건을 언급했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hickenlooper氏\n上院AI特別委を提案",
-          "body": "Hickenlooper上院議員は第三者評価を重視する上院AI特別委員会の設置を提案した。",
-          "mini_headline": "上院AI特別委の提案",
+          "headline": "オレゴン・バージニア州が\nSpaceXをGrokで提訴",
+          "body": "オレゴン・バージニア州AGsはGrokが今も児童性的虐待画像と非同意性的画像を作ると訴える。",
+          "mini_headline": "州がGrokでSpaceXを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "2026年2月26日(木)、ニューヨークでコンピューター画面に表示されたAnthropicのウェブサイトのページと同社のロゴ。(AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "写真：NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "上院民主党は、次の議会で人工知能のガードレールを早急に整える最善の方法を議論している。コロラド州選出のJohn Hickenlooper上院議員は、来年多数派を率いる人物はAIについて「責任ある規制のための初日からの計画」を持つべきだと述べた。同氏はChuck SchumerとChris Van Hollenの争いで、これまで支持表明を控えている。"
+                "x": "月曜日、バージニア州とオレゴン州はSpaceXを提訴した最初の州となった。両州は、Grokが主に女性と子どもの実際の写真を、歯止めのないまま性的に加工し続けていると主張している。SpaceXは2月にxAIを買収しており、非同意の性的画像（NCII）と児童性的虐待画像（CSAM）を大量に生成していたことが判明したGrokの「スパイシーモード（spicy mode）」をめぐる責任追及に、今後対応しなければならない。"
               },
               {
                 "t": "p",
-                "x": "Hickenlooperは、強固な第三者評価の要件、国家安全保障上の課題の緩和、そして「AI企業に責任を負わせる明確なルール」を優先事項に挙げた。議論を集約するため、人工知能に関する特別委員会の設置を提案した。"
+                "x": "州司法長官らは、安全対策を追加したとする両社の説明は「誤解を招く」ものであり、Grokは現在もNCIIとCSAMを生成し、自らのモデレーションを回避する方法までユーザーに助言していると主張した。さらに、Grokのレッドチーミングを担うX Safetyチームが二、三人にまで縮小されたとも主張した。"
               },
               {
                 "t": "p",
-                "x": "Van Hollenはこの案を支持すると述べた。Ron Wyden上院議員は「具体的な内容を見たい」と語り、Bernie Sanders上院議員はすぐには支持しなかった。共和党のTed Cruz上院議員は、この問題を自身の委員会などから切り離すのは「理にかなわない」としつつ、壊滅的リスクについて両党が共通点を見いだせることを望むと述べた。"
+                "x": "オレゴン州のダン・レイフィールド（Dan Rayfield）司法長官は「xAIは子どもたちと地域社会を承知のうえで危険にさらしただけでなく、存在しない安全対策について私たちの面前でうそをついた」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Schumerの女性報道官は、上院民主党はAIを新たな多数派の最優先課題とし、包括的な法案の実現に取り組んでいると述べた。"
+                "x": "SpaceXSIはX Safetyの投稿を示し、「ゼロ・トレランス（zero-tolerance）」方針を掲げ、「すべてのプロンプトを審査する」分類器ですべての出力を確認し、違反者を法執行機関に通報していると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "両州は差し止め命令、違反ごとの民事制裁金、不当利得の吐き出しを求めている。バージニア州の訴状は、同州に関連する約6.4 million 件のXアカウントと、986,624件のGrokアプリのダウンロードを挙げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hickenlooper\n提议设参议院AI特委",
-          "body": "参议员Hickenlooper提议设立参议院AI特别委员会，并优先推动第三方评估要求。",
-          "mini_headline": "参议院AI特委提议",
+          "headline": "俄勒冈和弗吉尼亚州\n因Grok图像诉SpaceX",
+          "body": "俄勒冈和弗吉尼亚州AGs指控Grok仍在生成儿童性虐待图像和未经同意的私密图像。",
+          "mini_headline": "多州就Grok起诉SpaceX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "2026年2月26日（星期四），纽约一台电脑屏幕上显示的Anthropic网站页面和公司标志。(AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "图片来源：NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "参议院民主党人正在讨论如何在下届国会迅速为人工智能建立护栏。科罗拉多州参议员John Hickenlooper表示，明年领导多数党的人应对AI有一份“负责任监管的第一天计划”。在Chuck Schumer与Chris Van Hollen的竞争中，他至今尚未表态支持任何一方。"
+                "x": "周一，弗吉尼亚州和俄勒冈州成为首批起诉SpaceX的州，指控Grok仍在不受约束地对真实照片进行性化处理，照片中的人物大多是女性和儿童。SpaceX于2月收购了xAI，如今必须应对围绕Grok“辣味模式”（spicy mode）持续发酵的追责；该模式被发现大量生成未经同意的私密图像（NCII）和儿童性虐待图像（CSAM）。"
               },
               {
                 "t": "p",
-                "x": "Hickenlooper表示，他的优先事项是严格的第三方评估要求、缓解国家安全挑战，以及“追究AI公司责任的明确规则”。他提议设立人工智能特别委员会，以整合相关讨论。"
+                "x": "各州总检察长指控，两家公司关于已增加防护措施的说法具有“误导性”，Grok至今仍在生成NCII和CSAM，甚至会教用户如何绕过其自身的内容审核。他们还指控，负责Grok红队测试的X Safety团队已被缩减至两三人。"
               },
               {
                 "t": "p",
-                "x": "Van Hollen表示支持这一构想。参议员Ron Wyden说他“想看看具体内容”，参议员Bernie Sanders没有立即表态支持。共和党参议员Ted Cruz表示，把这一议题从他的委员会及其他委员会中剥离“毫无道理”，但希望两党能在灾难性风险上找到共识。"
+                "x": "俄勒冈州总检察长Dan Rayfield表示：“xAI不仅明知故犯地让孩子和我们的社区陷入危险，还就根本不存在的安全措施当面对我们撒谎。”"
               },
               {
                 "t": "p",
-                "x": "Schumer的一名女发言人表示，参议院民主党将把AI作为新多数党的首要优先事项，并正努力推出全面立法。"
+                "x": "SpaceXSI援引X Safety的一篇帖子称，公司实行“零容忍”（zero-tolerance）政策，使用“筛查每一条提示词”的分类器并检查每一项输出，还会向执法部门举报违规者。"
+              },
+              {
+                "t": "p",
+                "x": "各州寻求禁令、按每次违规计算的民事罚款，并要求追缴不当所得。弗吉尼亚州的诉状提到，与该州相关的X账户约有6.4 million 个，Grok应用下载量为986,624次。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hickenlooper propone un comité\nselecto del Senado sobre AI",
-          "body": "El senador John Hickenlooper propuso un comité selecto del Senado sobre AI centrado en exigir evaluaciones de terceros.",
-          "mini_headline": "Propuesta de comité de AI en el Senado",
+          "headline": "Oregón y Virginia demandan\na SpaceX por imágenes de Grok",
+          "body": "Los AGs de Oregón y Virginia alegan que Grok aún crea imágenes de abuso sexual infantil e íntimas no consentidas.",
+          "mini_headline": "Estados demandan a SpaceX por Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-                "cap": "Páginas del sitio web de Anthropic y logotipos de la empresa en una pantalla en Nueva York, el jueves 26 de febrero de 2026. (AP Photo/Patrick Sison, File)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+                "cap": "Crédito: NurPhoto / Contributor | NurPhoto"
               },
               {
                 "t": "p",
-                "x": "Los demócratas del Senado debaten la mejor manera de establecer con rapidez salvaguardas en torno a la inteligencia artificial en el próximo Congreso. El senador por Colorado John Hickenlooper dijo que quien lidere su mayoría el próximo año debería tener un “plan desde el primer día para una regulación responsable” de la AI; hasta ahora no ha respaldado a nadie en la contienda entre Chuck Schumer y Chris Van Hollen."
+                "x": "El lunes, Virginia y Oregón se convirtieron en los primeros estados en demandar a SpaceX, al alegar que Grok sigue sexualizando, sin control, fotos reales de mujeres y niños en su mayoría. SpaceX adquirió xAI en febrero y ahora debe afrontar el ajuste de cuentas en curso por el “spicy mode” de Grok, que generó una avalancha de imágenes íntimas no consentidas (NCII) e imágenes de abuso sexual infantil (CSAM)."
               },
               {
                 "t": "p",
-                "x": "Hickenlooper dijo que sus prioridades son requisitos sólidos de evaluación por terceros, la mitigación de los desafíos de seguridad nacional y “reglas claras para que las empresas de AI rindan cuentas”. Propuso un comité selecto sobre inteligencia artificial para unificar el debate."
+                "x": "Los fiscales generales estatales alegaron que las declaraciones de las empresas sobre nuevas salvaguardas eran “engañosas” y que Grok sigue generando NCII y CSAM hoy en día, e incluso aconseja a los usuarios cómo eludir su propia moderación. También alegaron que el equipo de X Safety encargado del red-teaming de Grok quedó reducido a dos o tres miembros."
               },
               {
                 "t": "p",
-                "x": "Van Hollen dijo que apoya la idea. El senador Ron Wyden dijo que querría “ver los detalles”, y el senador Bernie Sanders no la respaldó de inmediato. El senador republicano Ted Cruz dijo que sacar el tema de su comité y de otros “no tiene sentido”, pero confió en que ambos partidos encuentren puntos en común sobre el riesgo catastrófico."
+                "x": "“xAI no solo puso en peligro a sabiendas a los niños y a nuestras comunidades, sino que también nos mintió en la cara sobre medidas de seguridad inexistentes”, dijo el fiscal general de Oregón, Dan Rayfield."
               },
               {
                 "t": "p",
-                "x": "Una portavoz de Schumer dijo que los demócratas del Senado harán de la AI una prioridad máxima de la nueva mayoría y que trabajan para sacar adelante una legislación integral."
+                "x": "SpaceXSI remitió a una publicación de X Safety según la cual aplica una política de “zero-tolerance” (tolerancia cero), usa clasificadores que “revisan cada prompt” y comprueban cada resultado, y denuncia a los infractores ante las autoridades."
+              },
+              {
+                "t": "p",
+                "x": "Los estados piden una orden judicial, sanciones civiles por cada infracción y la devolución de las ganancias ilícitas. La demanda de Virginia cita unos 6.4 millones de cuentas de X vinculadas al estado y 986,624 descargas de la app de Grok."
               }
             ]
           }
@@ -687,231 +637,883 @@
       }
     },
     {
-      "id": "eu-14-states-ai-copyright",
+      "id": "hochul-ai-warning-veto",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU 14개국\nAI 저작권 입법 촉구",
-      "body": "EU 열네 개국이 집행위에 AI 저작권 입법과 창작자 공정 보상을 촉구했다.",
-      "mini_headline": "EU 국가들, AI 저작권법 촉구",
+      "headline": "호컬, AI 챗봇 정확성\n경고 법안에 거부권",
+      "body": "호컬 뉴욕주지사가 표현의 자유 우려를 들어 AI 챗봇 정확성 경고 법안을 거부했다.",
+      "mini_headline": "호컬, AI 경고 법안 거부",
       "tool": "Politics",
-      "source": "Agence Europe",
-      "url": "https://agenceurope.eu/en/bulletin/article/13986/6/several-member-states-call-on-european-commission-to-propose-legislation-to-better-protect-copyright-from-ai",
+      "source": "Gothamist",
+      "url": "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings",
       "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+            "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "캐시 호컬(Kathy Hochul) 뉴욕 주지사가 인공지능 플랫폼이 이용자에게 주는 정보가 부정확할 수 있다고 미리 알리도록 하는 법안에 거부권을 행사했다."
+          },
+          {
+            "t": "p",
+            "x": "호컬 주지사는 금요일 결정 배경을 밝힌 성명에서 “AI에 대한 사려 깊고 현명한 가드레일”을 지지한다고 했다. 다만 법안 범위가 너무 넓어 사실 전달이 목적이 아닌 예술·표현 콘텐츠에까지 적용될 수 있고 연방 차원의 표현의 자유 보호와 부딪칠 수 있다고 지적했다. 그는 이 법안이 “헌법적·실무적 문제를 일으킬 수 있다”고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "주 정부 공개 기록을 보면 OpenAI와 Meta 등 기술 기업을 대표하는 업계 단체들이 법안 반대 로비를 벌였고, Netflix와 미국영화협회(Motion Picture Association)도 반대했다. 클라이드 버넬(Clyde Vanel) 주 하원의원과 커스틴 곤잘레스(Kirsten Gonzalez) 주 상원의원은 2024년 Meta의 AI 플랫폼이 주 의원들을 상대로 한 성희롱 의혹을 환각으로 지어내자 이 법안을 냈고, 주 의회는 거의 만장일치로 통과시켰다."
+          },
+          {
+            "t": "p",
+            "x": "법안은 시스템 사용자 인터페이스에 출력물이 “부정확할 수 있다”는 고지를 띄우도록 했다. 버넬 의원은 내년에 주지사실과 타협점을 찾고 싶다고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Hochul vetoes AI chatbot\naccuracy warning bill",
+          "body": "New York Gov. Hochul vetoed a bill requiring AI chatbots to carry accuracy warnings, citing free-speech concerns.",
+          "mini_headline": "Hochul vetoes AI warning bill",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "New York Gov. Kathy Hochul has vetoed a bill that would’ve required artificial intelligence platforms to proactively warn users that the information they receive may be inaccurate."
+              },
+              {
+                "t": "p",
+                "x": "In a statement explaining her decision Friday, Hochul wrote that she supports “thoughtful, smart guardrails on AI” but said the bill was too far-reaching and would have applied to artistic or expressive content that isn’t meant to be factual — possibly running afoul of federal free-speech protections. The bill “may present constitutional and pragmatic challenges,” she wrote."
+              },
+              {
+                "t": "p",
+                "x": "Trade groups representing tech firms including OpenAI and Meta lobbied against the bill, as did Netflix and the Motion Picture Association, according to state disclosure records. Assemblymember Clyde Vanel and state Sen. Kirsten Gonzalez introduced it after Meta’s AI platform hallucinated sexual harassment allegations against state lawmakers in 2024; the Legislature passed it near-unanimously."
+              },
+              {
+                "t": "p",
+                "x": "The bill would have required a notice on the system’s user interface that output “may be inaccurate.” Vanel said he hopes to reach a compromise with the governor’s office next year."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "호컬, AI 챗봇 정확성\n경고 법안에 거부권",
+          "body": "호컬 뉴욕주지사가 표현의 자유 우려를 들어 AI 챗봇 정확성 경고 법안을 거부했다.",
+          "mini_headline": "호컬, AI 경고 법안 거부",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "캐시 호컬(Kathy Hochul) 뉴욕 주지사가 인공지능 플랫폼이 이용자에게 주는 정보가 부정확할 수 있다고 미리 알리도록 하는 법안에 거부권을 행사했다."
+              },
+              {
+                "t": "p",
+                "x": "호컬 주지사는 금요일 결정 배경을 밝힌 성명에서 “AI에 대한 사려 깊고 현명한 가드레일”을 지지한다고 했다. 다만 법안 범위가 너무 넓어 사실 전달이 목적이 아닌 예술·표현 콘텐츠에까지 적용될 수 있고 연방 차원의 표현의 자유 보호와 부딪칠 수 있다고 지적했다. 그는 이 법안이 “헌법적·실무적 문제를 일으킬 수 있다”고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "주 정부 공개 기록을 보면 OpenAI와 Meta 등 기술 기업을 대표하는 업계 단체들이 법안 반대 로비를 벌였고, Netflix와 미국영화협회(Motion Picture Association)도 반대했다. 클라이드 버넬(Clyde Vanel) 주 하원의원과 커스틴 곤잘레스(Kirsten Gonzalez) 주 상원의원은 2024년 Meta의 AI 플랫폼이 주 의원들을 상대로 한 성희롱 의혹을 환각으로 지어내자 이 법안을 냈고, 주 의회는 거의 만장일치로 통과시켰다."
+              },
+              {
+                "t": "p",
+                "x": "법안은 시스템 사용자 인터페이스에 출력물이 “부정확할 수 있다”는 고지를 띄우도록 했다. 버넬 의원은 내년에 주지사실과 타협점을 찾고 싶다고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ホークル知事、チャットボット\nAI精度警告法案に拒否権",
+          "body": "ホークルNY州知事は表現の自由への懸念を理由に、AIチャットボットの精度警告法案を拒否した。",
+          "mini_headline": "ホークル知事、AI警告法案を拒否",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "ニューヨーク州のキャシー・ホークル（Kathy Hochul）知事は、人工知能プラットフォームに対し、利用者が受け取る情報が不正確な可能性があると事前に警告するよう義務付ける法案に拒否権を行使した。"
+              },
+              {
+                "t": "p",
+                "x": "ホークル知事は金曜日に決定の理由を説明した声明で、「AIに対する思慮深く賢明なガードレール」は支持すると記した。一方で、法案は適用範囲が広すぎ、事実を伝えることを目的としない芸術的・表現的なコンテンツにも及ぶため、連邦の言論の自由の保護に抵触するおそれがあるとした。法案は「憲法上および実務上の課題をもたらしかねない」と知事は書いている。"
+              },
+              {
+                "t": "p",
+                "x": "州の開示記録によると、OpenAIやMetaなどのテック企業を代表する業界団体がこの法案に反対するロビー活動を行い、NetflixやMotion Picture Association（米国映画協会）も同様に反対した。クライド・ヴァネル（Clyde Vanel）州下院議員とキルステン・ゴンザレス（Kirsten Gonzalez）州上院議員は、2024年にMetaのAIプラットフォームが州議員に対するセクハラ疑惑をハルシネーションで作り出したことを受けて法案を提出し、州議会はほぼ全会一致で可決していた。"
+              },
+              {
+                "t": "p",
+                "x": "法案は、システムのユーザーインターフェースに出力が「不正確な可能性がある」との通知を表示するよう求める内容だった。ヴァネル議員は、来年に知事室と妥協点を見いだしたいと述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "霍楚尔否决AI聊天机器人\n准确性警示法案",
+          "body": "纽约州州长霍楚尔以言论自由为由，否决了要求AI聊天机器人标注准确性警示的法案。",
+          "mini_headline": "霍楚尔否决AI警示法案",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "纽约州州长凯西·霍楚尔（Kathy Hochul）否决了一项法案。该法案原本要求人工智能平台主动提醒用户，其获得的信息可能不准确。"
+              },
+              {
+                "t": "p",
+                "x": "霍楚尔周五在解释这一决定的声明中写道，她支持“对AI设置周全而明智的护栏”，但认为该法案范围过广，会适用于并非以陈述事实为目的的艺术或表达性内容，可能与联邦层面的言论自由保护相抵触。她写道，该法案“可能带来宪法层面和实际操作上的挑战”。"
+              },
+              {
+                "t": "p",
+                "x": "州政府披露记录显示，代表OpenAI和Meta等科技公司的行业团体曾游说反对该法案，Netflix和美国电影协会（Motion Picture Association）也表示反对。州众议员克莱德·瓦内尔（Clyde Vanel）和州参议员柯尔斯滕·冈萨雷斯（Kirsten Gonzalez）在2024年Meta的AI平台凭空“幻觉”出针对州议员的性骚扰指控后提出了该法案，州议会以近乎全票通过。"
+              },
+              {
+                "t": "p",
+                "x": "该法案原本要求在系统的用户界面上显示输出内容“可能不准确”的提示。瓦内尔表示，希望明年能与州长办公室达成妥协。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hochul veta la ley de avisos\nde exactitud en chatbots de AI",
+          "body": "Hochul (Nueva York) vetó una ley de avisos de exactitud para chatbots de AI, citando la libertad de expresión.",
+          "mini_headline": "Hochul veta ley de avisos de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "La gobernadora de Nueva York, Kathy Hochul, vetó un proyecto de ley que habría obligado a las plataformas de inteligencia artificial a advertir de forma proactiva a los usuarios de que la información que reciben puede ser inexacta."
+              },
+              {
+                "t": "p",
+                "x": "En un comunicado en el que explicó su decisión el viernes, Hochul escribió que apoya “salvaguardas sensatas e inteligentes para la AI”, pero dijo que el proyecto tenía un alcance excesivo y se habría aplicado a contenidos artísticos o expresivos que no pretenden ser factuales, lo que podría chocar con las protecciones federales a la libertad de expresión. El proyecto “puede plantear problemas constitucionales y prácticos”, escribió."
+              },
+              {
+                "t": "p",
+                "x": "Grupos del sector que representan a empresas tecnológicas como OpenAI y Meta presionaron contra el proyecto, al igual que Netflix y la Motion Picture Association, según los registros de divulgación del estado. El asambleísta Clyde Vanel y la senadora estatal Kirsten Gonzalez lo presentaron después de que la plataforma de AI de Meta alucinara acusaciones de acoso sexual contra legisladores estatales en 2024; la Legislatura lo aprobó casi por unanimidad."
+              },
+              {
+                "t": "p",
+                "x": "El proyecto habría exigido un aviso en la interfaz de usuario del sistema indicando que el resultado “puede ser inexacto”. Vanel dijo que espera alcanzar un acuerdo con la oficina de la gobernadora el próximo año."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "호컬, AI 챗봇 정확성\n경고 법안에 거부권",
+          "body": "호컬 뉴욕주지사는 표현의 자유 우려를 들어 AI 챗봇 정확성 경고 법안을 거부했다.",
+          "mini_headline": "호컬, AI 경고 법안 거부",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "캐시 호컬(Kathy Hochul) 뉴욕 주지사가 인공지능 플랫폼이 이용자에게 제공하는 정보가 부정확할 수 있다고 미리 경고하도록 하는 법안에 거부권을 행사했다."
+              },
+              {
+                "t": "p",
+                "x": "호컬 주지사는 금요일 결정 배경을 설명하는 성명에서 “AI에 대한 사려 깊고 현명한 가드레일”을 지지한다고 밝혔다. 다만 법안의 범위가 지나치게 넓어 사실 전달을 목적으로 하지 않는 예술적·표현적 콘텐츠에까지 적용될 수 있고, 연방 차원의 표현의 자유 보호와 충돌할 수 있다고 했다. 그는 이 법안이 “헌법적·실무적 문제를 일으킬 수 있다”고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "주 정부 공개 기록에 따르면 OpenAI와 Meta 등 기술 기업을 대표하는 업계 단체들이 이 법안에 반대하는 로비를 벌였고, Netflix와 미국영화협회(Motion Picture Association)도 반대했다. 클라이드 버넬(Clyde Vanel) 주 하원의원과 커스틴 곤잘레스(Kirsten Gonzalez) 주 상원의원은 2024년 Meta의 AI 플랫폼이 주 의원들을 상대로 한 성희롱 의혹을 환각으로 지어낸 뒤 이 법안을 발의했고, 주 의회는 거의 만장일치로 통과시켰다."
+              },
+              {
+                "t": "p",
+                "x": "법안은 시스템의 사용자 인터페이스에 출력물이 “부정확할 수 있다”는 고지를 표시하도록 요구하는 내용이었다. 버넬 의원은 내년에 주지사실과 타협점을 찾기를 바란다고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ホークル知事、チャットボット\nAI精度警告法案に拒否権",
+          "body": "ホークルNY州知事は表現の自由への懸念を理由に、AIチャットボットの精度警告法案を拒否した。",
+          "mini_headline": "ホークル知事、AI警告法案を拒否",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "ニューヨーク州のキャシー・ホークル（Kathy Hochul）知事は、人工知能プラットフォームに対し、利用者が受け取る情報が不正確な可能性があると事前に警告するよう義務付ける法案に拒否権を行使した。"
+              },
+              {
+                "t": "p",
+                "x": "ホークル知事は金曜日に決定の理由を説明した声明で、「AIに対する思慮深く賢明なガードレール」は支持すると記した。一方で、法案は適用範囲が広すぎ、事実を伝えることを目的としない芸術的・表現的なコンテンツにも及ぶため、連邦の言論の自由の保護に抵触するおそれがあるとした。法案は「憲法上および実務上の課題をもたらしかねない」と知事は書いている。"
+              },
+              {
+                "t": "p",
+                "x": "州の開示記録によると、OpenAIやMetaなどのテック企業を代表する業界団体がこの法案に反対するロビー活動を行い、NetflixやMotion Picture Association（米国映画協会）も同様に反対した。クライド・ヴァネル（Clyde Vanel）州下院議員とキルステン・ゴンザレス（Kirsten Gonzalez）州上院議員は、2024年にMetaのAIプラットフォームが州議員に対するセクハラ疑惑をハルシネーションで作り出したことを受けて法案を提出し、州議会はほぼ全会一致で可決していた。"
+              },
+              {
+                "t": "p",
+                "x": "法案は、システムのユーザーインターフェースに出力が「不正確な可能性がある」との通知を表示するよう求める内容だった。ヴァネル議員は、来年に知事室と妥協点を見いだしたいと述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "霍楚尔否决AI聊天机器人\n准确性警示法案",
+          "body": "纽约州州长霍楚尔以言论自由为由，否决了要求AI聊天机器人标注准确性警示的法案。",
+          "mini_headline": "霍楚尔否决AI警示法案",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "纽约州州长凯西·霍楚尔（Kathy Hochul）否决了一项法案。该法案原本要求人工智能平台主动提醒用户，其获得的信息可能不准确。"
+              },
+              {
+                "t": "p",
+                "x": "霍楚尔周五在解释这一决定的声明中写道，她支持“对AI设置周全而明智的护栏”，但认为该法案范围过广，会适用于并非以陈述事实为目的的艺术或表达性内容，可能与联邦层面的言论自由保护相抵触。她写道，该法案“可能带来宪法层面和实际操作上的挑战”。"
+              },
+              {
+                "t": "p",
+                "x": "州政府披露记录显示，代表OpenAI和Meta等科技公司的行业团体曾游说反对该法案，Netflix和美国电影协会（Motion Picture Association）也表示反对。州众议员克莱德·瓦内尔（Clyde Vanel）和州参议员柯尔斯滕·冈萨雷斯（Kirsten Gonzalez）在2024年Meta的AI平台凭空“幻觉”出针对州议员的性骚扰指控后提出了该法案，州议会以近乎全票通过。"
+              },
+              {
+                "t": "p",
+                "x": "该法案原本要求在系统的用户界面上显示输出内容“可能不准确”的提示。瓦内尔表示，希望明年能与州长办公室达成妥协。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hochul veta la ley de avisos\nde exactitud en chatbots de AI",
+          "body": "Hochul (Nueva York) vetó una ley de avisos de exactitud para chatbots de AI, citando la libertad de expresión.",
+          "mini_headline": "Hochul veta ley de avisos de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+                "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "La gobernadora de Nueva York, Kathy Hochul, vetó un proyecto de ley que habría obligado a las plataformas de inteligencia artificial a advertir de forma proactiva a los usuarios de que la información que reciben puede ser inexacta."
+              },
+              {
+                "t": "p",
+                "x": "En un comunicado en el que explicó su decisión el viernes, Hochul escribió que apoya “salvaguardas sensatas e inteligentes para la AI”, pero dijo que el proyecto tenía un alcance excesivo y se habría aplicado a contenidos artísticos o expresivos que no pretenden ser factuales, lo que podría chocar con las protecciones federales a la libertad de expresión. El proyecto “puede plantear problemas constitucionales y prácticos”, escribió."
+              },
+              {
+                "t": "p",
+                "x": "Grupos del sector que representan a empresas tecnológicas como OpenAI y Meta presionaron contra el proyecto, al igual que Netflix y la Motion Picture Association, según los registros de divulgación del estado. El asambleísta Clyde Vanel y la senadora estatal Kirsten Gonzalez lo presentaron después de que la plataforma de AI de Meta alucinara acusaciones de acoso sexual contra legisladores estatales en 2024; la Legislatura lo aprobó casi por unanimidad."
+              },
+              {
+                "t": "p",
+                "x": "El proyecto habría exigido un aviso en la interfaz de usuario del sistema indicando que el resultado “puede ser inexacto”. Vanel dijo que espera alcanzar un acuerdo con la oficina de la gobernadora el próximo año."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ai-glasses-recording-bill",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 안경 몰카 막는다\n촬영 표시 의무화 법안",
+      "body": "이주희 의원이 AI 스마트안경에 촬영 표시를 의무화하는 법안을 발의했다.",
+      "mini_headline": "AI 안경 촬영 표시 의무화",
+      "tool": "Politics",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261123075800017",
+      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "11월 19일 목요일과 20일 금요일 열린 ‘교육·청소년·문화·스포츠’ 이사회에서 14개 회원국이 AI에 맞서 저작권 보호를 강화하는 문제를 다시 꺼냈다. 앞서 이 주제가 논의된 지 여섯 달 만이다. 이들은 11월 18일 EU 이사회에 보낸 문서에서 입법 제안을 요구했다."
+            "t": "img",
+            "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+            "cap": "10일 서울 강남구 코엑스에서 열린 2026 스마트테크 코리아에서 참관객들이 XR 스마트글래스를 체험하고 있다. 2026.6.10"
           },
           {
             "t": "p",
-            "x": "덴마크, 네덜란드, 폴란드 등 다른 일곱 개국도 이 구상에 동참했다. 이들은 “문화·미디어 산업에 대한 시급성과 중요성을 고려해 이 주제에 대해 다시 입장을 밝히고자 한다”고 했다."
+            "x": "인공지능(AI) 스마트안경에 촬영 표시 기능을 반드시 탑재하고, 개인이 사적으로 타인을 촬영할 때는 촬영 사실을 알리도록 의무화하는 입법이 추진된다."
           },
           {
             "t": "p",
-            "x": "이들은 5월에 나온 더 나은 저작권 환경을 위한 표적 이니셔티브를 다시 지지하면서 “권리 유보의 집행력을 높이고 [...] 모든 창작자에게 전반적으로 적절한 보상을 보장하기 위한 [...] 신속한 조치”를 촉구했다. 집행위원회 산하 유럽 AI 사무국(European AI Office)을 향해서도 “AI 개발자에 대한 라이선스 압력을 [...] 높이기 위해 현행 템플릿의 적합성을 검토해야 한다”고 주문했다."
+            "x": "국회 과학기술정보방송통신위원회 소속 더불어민주당 이주희 의원은 이 같은 내용을 담은 정보통신망 이용촉진 및 정보보호 등에 관한 법률과 개인정보 보호법 일부개정법률안 등 이른바 '스마트글라스 불법 촬영 방지법' 2건을 대표 발의했다고 23일 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "개정안은 스마트안경으로 타인을 촬영할 때 상대방이 촬영 사실을 인지할 수 있도록 제조·수입 단계의 기준과 이용자의 고지 의무를 함께 마련하는 것이 핵심이다."
+          },
+          {
+            "t": "p",
+            "x": "현재 메타 등 주요 제조사는 스마트안경에 촬영 상태를 알리는 표시등을 탑재하고 있지만, 일부 저가형 제품에는 이러한 기능이 없거나 촬영 여부를 외부에서 확인하기 어려운 것으로 알려졌다."
+          },
+          {
+            "t": "p",
+            "x": "현행 개인정보 보호법상 이동형 영상정보처리기기의 촬영 사실 표시·고지 의무는 업무 목적의 촬영에 한정돼 개인이 사적으로 타인을 촬영하는 경우에는 적용되지 않는다는 한계가 있다."
+          },
+          {
+            "t": "p",
+            "x": "이런 문제를 해소하기 위해 정보통신망법 개정안은 스마트안경 등 착용형 영상 촬영기기의 제조·수입자에게 촬영 표시 기능 탑재를 의무화하고, 촬영 기능과 표시 기능이 연동되도록 기술적 조처를 하도록 했다."
+          },
+          {
+            "t": "p",
+            "x": "표시 기능을 임의로 해제하거나 작동을 방해하지 못하도록 하고, 이를 무력화할 목적으로 제작된 물품이나 프로그램의 제조·수입·판매·배포 및 관련 광고를 금지하는 내용도 개정안에 담겼다."
+          },
+          {
+            "t": "p",
+            "x": "판매자에게는 촬영 표시 기능의 작동 방법과 타인 촬영 시 처벌·제재 가능성 등을 구매자에게 안내하도록 했다."
+          },
+          {
+            "t": "p",
+            "x": "함께 발의된 개인정보 보호법 개정안은 안경·시계 등 착용형 영상정보 처리기기로 사람이나 그와 관련된 사물을 촬영할 때 업무 목적과 관계없이 불빛·소리·안내판 등의 방법으로 촬영 사실을 표시하고 알리도록 했다. 이를 위반하면 1천만원 이하의 과태료를 부과하도록 규정했다."
+          },
+          {
+            "t": "p",
+            "x": "이주희 의원은 \"누구나 자신이 촬영되고 있다는 사실을 그 자리에서 알고 원치 않으면 거부할 수 있어야 한다\"며 \"스마트글라스로 찍힌 자기 모습을 뒤늦게 온라인에서 발견하는 일이 없도록 촬영 단계부터 사생활을 보호할 기준을 마련하겠다\"고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "14 EU states seek stronger\ncopyright shield from AI",
-          "body": "Fourteen EU states urged the Commission to legislate copyright protection from AI and fair pay for creators.",
-          "mini_headline": "EU states push AI copyright law",
+        "ko": {
+          "headline": "AI 안경 몰카 막는다\n촬영 표시 의무화 법안",
+          "body": "이주희 의원이 AI 스마트안경에 촬영 표시를 의무화하는 법안을 발의했다.",
+          "mini_headline": "AI 안경 촬영 표시 의무화",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "At the ‘Education, Youth, Culture and Sport’ Council on Thursday 19 and Friday 20 November, 14 Member States revived the debate on better protecting copyright against AI. In a note sent to the Council of the EU on 18 November, six months after the subject was previously discussed, they called for a legislative proposal."
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "10일 서울 강남구 코엑스에서 열린 2026 스마트테크 코리아에서 참관객들이 XR 스마트글래스를 체험하고 있다. 2026.6.10"
               },
               {
                 "t": "p",
-                "x": "Seven other countries, including Denmark, the Netherlands, and Poland, have joined the initiative. “We would like to take a position again on this topic in view of its urgency and importance for the cultural and media industries”, they said."
+                "x": "인공지능(AI) 스마트안경에 촬영 표시 기능을 반드시 탑재하고, 개인이 사적으로 타인을 촬영할 때는 촬영 사실을 알리도록 의무화하는 입법이 추진된다."
               },
               {
                 "t": "p",
-                "x": "They reiterated their support for the targeted initiative for a better copyright environment, presented in May, and called for “swift action [...] to improve the enforceability of reservation of rights [...] and ensure adequate remuneration for all creators across the board”. The Member States also said that the Commission’s European AI Office should “examine the suitability of the current template to increase [...] the licensing pressure on AI developers”."
+                "x": "국회 과학기술정보방송통신위원회 소속 더불어민주당 이주희 의원은 이 같은 내용을 담은 정보통신망 이용촉진 및 정보보호 등에 관한 법률과 개인정보 보호법 일부개정법률안 등 이른바 '스마트글라스 불법 촬영 방지법' 2건을 대표 발의했다고 23일 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "개정안은 스마트안경으로 타인을 촬영할 때 상대방이 촬영 사실을 인지할 수 있도록 제조·수입 단계의 기준과 이용자의 고지 의무를 함께 마련하는 것이 핵심이다."
+              },
+              {
+                "t": "p",
+                "x": "현재 메타 등 주요 제조사는 스마트안경에 촬영 상태를 알리는 표시등을 탑재하고 있지만, 일부 저가형 제품에는 이러한 기능이 없거나 촬영 여부를 외부에서 확인하기 어려운 것으로 알려졌다."
+              },
+              {
+                "t": "p",
+                "x": "현행 개인정보 보호법상 이동형 영상정보처리기기의 촬영 사실 표시·고지 의무는 업무 목적의 촬영에 한정돼 개인이 사적으로 타인을 촬영하는 경우에는 적용되지 않는다는 한계가 있다."
+              },
+              {
+                "t": "p",
+                "x": "이런 문제를 해소하기 위해 정보통신망법 개정안은 스마트안경 등 착용형 영상 촬영기기의 제조·수입자에게 촬영 표시 기능 탑재를 의무화하고, 촬영 기능과 표시 기능이 연동되도록 기술적 조처를 하도록 했다."
+              },
+              {
+                "t": "p",
+                "x": "표시 기능을 임의로 해제하거나 작동을 방해하지 못하도록 하고, 이를 무력화할 목적으로 제작된 물품이나 프로그램의 제조·수입·판매·배포 및 관련 광고를 금지하는 내용도 개정안에 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "판매자에게는 촬영 표시 기능의 작동 방법과 타인 촬영 시 처벌·제재 가능성 등을 구매자에게 안내하도록 했다."
+              },
+              {
+                "t": "p",
+                "x": "함께 발의된 개인정보 보호법 개정안은 안경·시계 등 착용형 영상정보 처리기기로 사람이나 그와 관련된 사물을 촬영할 때 업무 목적과 관계없이 불빛·소리·안내판 등의 방법으로 촬영 사실을 표시하고 알리도록 했다. 이를 위반하면 1천만원 이하의 과태료를 부과하도록 규정했다."
+              },
+              {
+                "t": "p",
+                "x": "이주희 의원은 \"누구나 자신이 촬영되고 있다는 사실을 그 자리에서 알고 원치 않으면 거부할 수 있어야 한다\"며 \"스마트글라스로 찍힌 자기 모습을 뒤늦게 온라인에서 발견하는 일이 없도록 촬영 단계부터 사생활을 보호할 기준을 마련하겠다\"고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "EU 14개국\nAI 저작권 입법 촉구",
-          "body": "EU 열네 개국이 집행위에 AI 저작권 입법과 창작자 공정 보상을 촉구했다.",
-          "mini_headline": "EU 국가들, AI 저작권법 촉구",
+        "en": {
+          "headline": "Bill targets AI-glasses spycams:\nrecording signal made mandatory",
+          "body": "Lawmaker Lee Joo-hee introduced a bill requiring AI smart glasses to display a recording indicator.",
+          "mini_headline": "Recording signal for AI glasses",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "11월 19일 목요일과 20일 금요일 열린 ‘교육·청소년·문화·스포츠’ 이사회에서 14개 회원국이 AI에 맞서 저작권 보호를 강화하는 문제를 다시 꺼냈다. 앞서 이 주제가 논의된 지 여섯 달 만이다. 이들은 11월 18일 EU 이사회에 보낸 문서에서 입법 제안을 요구했다."
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "Visitors try out XR smart glasses at 2026 Smart Tech Korea, held at COEX in Gangnam-gu, Seoul, on the 10th. 2026.6.10"
               },
               {
                 "t": "p",
-                "x": "덴마크, 네덜란드, 폴란드 등 다른 일곱 개국도 이 구상에 동참했다. 이들은 “문화·미디어 산업에 대한 시급성과 중요성을 고려해 이 주제에 대해 다시 입장을 밝히고자 한다”고 했다."
+                "x": "Legislation is being pursued that would require artificial intelligence (AI) smart glasses to carry a recording indicator and oblige individuals to give notice when they film others for private purposes."
               },
               {
                 "t": "p",
-                "x": "이들은 5월에 나온 더 나은 저작권 환경을 위한 표적 이니셔티브를 다시 지지하면서 “권리 유보의 집행력을 높이고 [...] 모든 창작자에게 전반적으로 적절한 보상을 보장하기 위한 [...] 신속한 조치”를 촉구했다. 집행위원회 산하 유럽 AI 사무국(European AI Office)을 향해서도 “AI 개발자에 대한 라이선스 압력을 [...] 높이기 위해 현행 템플릿의 적합성을 검토해야 한다”고 주문했다."
+                "x": "Lee Joo-hee, a Democratic Party of Korea lawmaker on the National Assembly's Science, ICT, Broadcasting and Communications Committee, said on the 23rd that she had sponsored 2 bills to this effect, the so-called 'Smart Glasses Illegal Filming Prevention Act': partial amendments to the Act on Promotion of Information and Communications Network Utilization and Information Protection and to the Personal Information Protection Act."
+              },
+              {
+                "t": "p",
+                "x": "The core of the amendments is to set standards at the manufacturing and import stage, together with a notification duty for users, so that people being filmed with smart glasses can recognize that they are being recorded."
+              },
+              {
+                "t": "p",
+                "x": "Major manufacturers such as Meta currently fit their smart glasses with an indicator light that shows when they are recording, but some low-cost products reportedly lack the feature or make it hard to tell from the outside whether recording is under way."
+              },
+              {
+                "t": "p",
+                "x": "Under the current Personal Information Protection Act, the duty to display and give notice of filming with mobile video information processing devices is limited to filming for business purposes, so it does not apply when individuals film others privately."
+              },
+              {
+                "t": "p",
+                "x": "To address this, the amendment to the Information and Communications Network Act requires manufacturers and importers of wearable video recording devices such as smart glasses to build in a recording indicator, and to take technical measures so that the recording and indicator functions are linked."
+              },
+              {
+                "t": "p",
+                "x": "The amendment also bars anyone from arbitrarily disabling the indicator or interfering with its operation, and prohibits the manufacture, import, sale and distribution of goods or programs made to defeat it, as well as related advertising."
+              },
+              {
+                "t": "p",
+                "x": "Sellers must explain to buyers how the recording indicator works and the possible penalties and sanctions for filming others."
+              },
+              {
+                "t": "p",
+                "x": "The accompanying amendment to the Personal Information Protection Act requires anyone filming people or related objects with wearable video information processing devices such as glasses or watches to display and announce the recording by means such as lights, sounds or signs, regardless of whether it is for business purposes. Violations would carry a fine of up to 1천만원 (ten million won)."
+              },
+              {
+                "t": "p",
+                "x": "“Everyone should be able to know on the spot that they are being filmed and refuse if they do not want it,” Lee said. “I will set standards that protect privacy from the filming stage, so that no one belatedly finds images of themselves taken with smart glasses online.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU14か国、AIから\n著作権保護強化を要求",
-          "body": "EU加盟国の十四か国が、欧州委員会にAI著作権保護の立法と創作者への公正な報酬を求めた。",
-          "mini_headline": "EU諸国がAI著作権法を要求",
+          "headline": "AIメガネ盗撮を防ぐ\n撮影表示義務化法案",
+          "body": "イ・ジュヒ議員が、AIスマートグラスに撮影表示を義務付ける法案を発議した。",
+          "mini_headline": "AIメガネの撮影表示を義務化",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "11月19日(木)と20日(金)の「教育・青少年・文化・スポーツ」理事会で、加盟14か国がAIから著作権をより適切に保護する議論を再燃させた。前回この問題が議論されてから六か月後の11月18日にEU理事会へ送った文書で、立法提案を求めた。"
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "10日、ソウル江南区のCOEXで開かれた2026スマートテック・コリアで、来場者がXRスマートグラスを体験している。2026.6.10"
               },
               {
                 "t": "p",
-                "x": "デンマーク、オランダ、ポーランドなどほかの七か国もこの取り組みに加わった。「文化・メディア産業にとっての緊急性と重要性に鑑み、この問題について改めて立場を示したい」としている。"
+                "x": "人工知能（AI）スマートグラスに撮影表示機能の搭載を義務付け、個人が私的に他人を撮影する際には撮影していることを知らせるよう義務化する立法が進められている。"
               },
               {
                 "t": "p",
-                "x": "各国は5月に示された、より良い著作権環境に向けた的を絞ったイニシアチブへの支持を改めて表明し、「権利留保の執行力を高め[...]、あらゆる創作者に一律に適切な報酬を確保するための[...]迅速な行動」を求めた。加盟国はまた、欧州委員会のEuropean AI Officeが「AI開発者へのライセンス圧力を[...]高めるため、現行テンプレートの適切性を検討すべきだ」と述べた。"
+                "x": "国会科学技術情報放送通信委員会に所属する共に民主党のイ・ジュヒ議員は23日、こうした内容を盛り込んだ情報通信網利用促進及び情報保護等に関する法律と個人情報保護法の一部改正法案など、いわゆる「スマートグラス違法撮影防止法」2件を代表発議したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "改正案の柱は、スマートグラスで他人を撮影する際に相手が撮影に気づけるよう、製造・輸入段階の基準と利用者の告知義務をあわせて整えることだ。"
+              },
+              {
+                "t": "p",
+                "x": "現在、メタなど主要メーカーはスマートグラスに撮影中であることを示す表示灯を搭載しているが、一部の低価格製品にはこうした機能がないか、撮影しているかどうかを外から確認しにくいとされる。"
+              },
+              {
+                "t": "p",
+                "x": "現行の個人情報保護法では、移動型映像情報処理機器による撮影の表示・告知義務は業務目的の撮影に限られ、個人が私的に他人を撮影する場合には適用されないという限界がある。"
+              },
+              {
+                "t": "p",
+                "x": "この問題を解消するため、情報通信網法改正案は、スマートグラスなど装着型映像撮影機器の製造・輸入者に撮影表示機能の搭載を義務付け、撮影機能と表示機能が連動するよう技術的措置を講じることとした。"
+              },
+              {
+                "t": "p",
+                "x": "表示機能を勝手に解除したり作動を妨げたりできないようにし、これを無力化する目的で作られた物品やプログラムの製造・輸入・販売・配布および関連広告を禁じる内容も改正案に盛り込まれた。"
+              },
+              {
+                "t": "p",
+                "x": "販売者には、撮影表示機能の作動方法と、他人を撮影した場合の処罰・制裁の可能性などを購入者に案内するよう求めた。"
+              },
+              {
+                "t": "p",
+                "x": "あわせて発議された個人情報保護法改正案は、メガネや時計など装着型映像情報処理機器で人やそれに関連する物を撮影する際、業務目的かどうかにかかわらず、光・音・案内板などの方法で撮影していることを表示し知らせるよう定めた。違反した場合は1천만원（一千万ウォン）以下の過料を科すと規定した。"
+              },
+              {
+                "t": "p",
+                "x": "イ・ジュヒ議員は「誰もが自分が撮影されていることをその場で知り、望まなければ拒否できるべきだ」とし、「スマートグラスで撮られた自分の姿を後になってネット上で見つけるようなことがないよう、撮影の段階からプライバシーを守る基準を整えたい」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "14个EU成员国要求\n强化AI版权保护",
-          "body": "十四个EU成员国敦促欧盟委员会就AI版权保护立法，并保障创作者公平报酬。",
-          "mini_headline": "EU国家推动AI版权立法",
+          "headline": "遏制AI眼镜偷拍\n法案拟强制拍摄提示",
+          "body": "李周熙议员提出法案，要求AI智能眼镜强制配备拍摄提示功能。",
+          "mini_headline": "AI眼镜须标示拍摄",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "在11月19日（星期四）和20日（星期五）举行的“教育、青年、文化和体育”理事会上，14个成员国重启了关于更好地保护版权免受AI侵害的讨论。在该议题上次讨论六个月后，它们于11月18日向EU理事会提交的一份说明中呼吁提出立法提案。"
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "10日，在首尔江南区COEX举行的2026智能科技韩国展上，观众正在体验XR智能眼镜。2026.6.10"
               },
               {
                 "t": "p",
-                "x": "包括丹麦、荷兰和波兰在内的另外七个国家也加入了这一倡议。它们表示：“鉴于这一议题对文化和媒体产业的紧迫性和重要性，我们希望再次表明立场。”"
+                "x": "韩国正推动立法，要求人工智能（AI）智能眼镜必须配备拍摄提示功能，并规定个人私下拍摄他人时须告知对方正在拍摄。"
               },
               {
                 "t": "p",
-                "x": "它们重申支持5月提出的旨在改善版权环境的针对性倡议，并呼吁“迅速采取行动[...]提高权利保留的可执行性[...]并确保所有创作者全面获得适当报酬”。成员国还表示，欧盟委员会的European AI Office应“审查现行模板是否适合[...]加大对AI开发者的许可压力”。"
+                "x": "隶属国会科学技术信息广播通信委员会的共同民主党议员李周熙23日表示，她已领衔提出包含上述内容的《信息通信网利用促进及信息保护等相关法》和《个人信息保护法》部分修正案等所谓“智能眼镜非法拍摄防止法”2项。"
+              },
+              {
+                "t": "p",
+                "x": "修正案的核心是同时制定制造、进口环节的标准和使用者的告知义务，使被拍摄者在他人用智能眼镜拍摄时能够察觉。"
+              },
+              {
+                "t": "p",
+                "x": "目前Meta等主要厂商在智能眼镜上配备了显示拍摄状态的指示灯，但据悉部分低价产品没有这一功能，或难以从外部确认是否正在拍摄。"
+              },
+              {
+                "t": "p",
+                "x": "根据现行《个人信息保护法》，移动式影像信息处理设备的拍摄显示和告知义务仅限于以业务为目的的拍摄，个人私下拍摄他人时并不适用，存在局限。"
+              },
+              {
+                "t": "p",
+                "x": "为解决这一问题，《信息通信网法》修正案规定，智能眼镜等穿戴式影像拍摄设备的制造商和进口商必须搭载拍摄提示功能，并采取技术措施使拍摄功能与提示功能联动。"
+              },
+              {
+                "t": "p",
+                "x": "修正案还规定不得擅自关闭提示功能或妨碍其运作，并禁止制造、进口、销售、分发以使其失效为目的的物品或程序以及相关广告。"
+              },
+              {
+                "t": "p",
+                "x": "销售者须向购买者说明拍摄提示功能的操作方法，以及拍摄他人时可能受到的处罚和制裁等。"
+              },
+              {
+                "t": "p",
+                "x": "一并提出的《个人信息保护法》修正案规定，使用眼镜、手表等穿戴式影像信息处理设备拍摄人或与其相关的物品时，无论是否出于业务目的，都须通过灯光、声音、告示牌等方式显示并告知正在拍摄。违反者将被处以1천만원（一千万韩元）以下的罚款。"
+              },
+              {
+                "t": "p",
+                "x": "李周熙表示：“每个人都应能当场知道自己正在被拍摄，不愿意时可以拒绝。”她还说：“我将制定从拍摄阶段就保护隐私的标准，避免有人事后才在网上发现自己被智能眼镜拍下的样子。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "14 países de la EU piden blindar\nlos derechos de autor ante la AI",
-          "body": "Catorce Estados de la EU piden a la Comisión una ley que proteja el copyright ante la AI, y pago justo a creadores.",
-          "mini_headline": "Países de la EU piden ley de copyright ante la AI",
+          "headline": "Gafas con AI: proyecto obliga\na indicar cuándo graban",
+          "body": "La diputada Lee Joo-hee presentó un proyecto que obliga a las gafas inteligentes con AI a señalar cuándo graban.",
+          "mini_headline": "Gafas con AI deberán avisar al grabar",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "En el Consejo de ‘Educación, Juventud, Cultura y Deporte’ del jueves 19 y el viernes 20 de noviembre, 14 Estados miembros reavivaron el debate sobre cómo proteger mejor los derechos de autor frente a la AI. En una nota enviada al Consejo de la EU el 18 de noviembre, seis meses después de que el tema se debatiera por última vez, pidieron una propuesta legislativa."
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "Visitantes prueban gafas inteligentes XR en la feria 2026 Smart Tech Korea, celebrada el día 10 en el COEX del distrito de Gangnam, Seúl. 2026.6.10"
               },
               {
                 "t": "p",
-                "x": "Otros siete países, entre ellos Dinamarca, los Países Bajos y Polonia, se han sumado a la iniciativa. “Queremos volver a tomar posición sobre este tema dada su urgencia e importancia para las industrias culturales y de medios”, afirmaron."
+                "x": "Se impulsa una legislación que obligaría a las gafas inteligentes con inteligencia artificial (AI) a incorporar una función que indique la grabación, y a los particulares a avisar cuando graben a otras personas con fines privados."
               },
               {
                 "t": "p",
-                "x": "Reiteraron su apoyo a la iniciativa específica para un mejor entorno de derechos de autor, presentada en mayo, y pidieron “una acción rápida [...] para mejorar la aplicabilidad de la reserva de derechos [...] y garantizar una remuneración adecuada para todos los creadores en general”. Los Estados miembros también señalaron que la European AI Office de la Comisión debería “examinar la idoneidad de la plantilla actual para aumentar [...] la presión de licencias sobre los desarrolladores de AI”."
+                "x": "La diputada Lee Joo-hee, del Partido Democrático y miembro del Comité de Ciencia, TIC, Radiodifusión y Comunicaciones de la Asamblea Nacional, informó el día 23 de que presentó como autora principal 2 proyectos con ese contenido, la llamada 'ley contra la grabación ilegal con gafas inteligentes': reformas parciales de la Ley de Promoción del Uso de Redes de Información y Comunicaciones y Protección de la Información, y de la Ley de Protección de Datos Personales."
+              },
+              {
+                "t": "p",
+                "x": "El núcleo de las reformas es establecer a la vez normas para la fase de fabricación e importación y un deber de aviso para los usuarios, de modo que la persona grabada con gafas inteligentes pueda darse cuenta de ello."
+              },
+              {
+                "t": "p",
+                "x": "Actualmente, los principales fabricantes, como Meta, incorporan en sus gafas inteligentes una luz que indica que se está grabando, pero algunos productos de bajo coste carecen de esta función o hacen difícil comprobar desde fuera si están grabando."
+              },
+              {
+                "t": "p",
+                "x": "Según la actual Ley de Protección de Datos Personales, el deber de señalar y avisar de la grabación con dispositivos móviles de procesamiento de imágenes se limita a la grabación con fines laborales, por lo que no se aplica cuando un particular graba a otras personas en el ámbito privado."
+              },
+              {
+                "t": "p",
+                "x": "Para resolverlo, la reforma de la Ley de Redes de Información y Comunicaciones obliga a los fabricantes e importadores de dispositivos de grabación de video portátiles, como las gafas inteligentes, a incorporar una función que indique la grabación y a adoptar medidas técnicas para que las funciones de grabación y de indicación estén vinculadas."
+              },
+              {
+                "t": "p",
+                "x": "La reforma también impide desactivar a voluntad la función de indicación o interferir en su funcionamiento, y prohíbe fabricar, importar, vender o distribuir artículos o programas diseñados para anularla, así como su publicidad."
+              },
+              {
+                "t": "p",
+                "x": "Los vendedores deberán informar a los compradores sobre cómo funciona la indicación de grabación y sobre las posibles sanciones por grabar a otras personas."
+              },
+              {
+                "t": "p",
+                "x": "La reforma de la Ley de Protección de Datos Personales, presentada a la vez, establece que al grabar a personas u objetos relacionados con ellas mediante dispositivos portátiles de procesamiento de imágenes, como gafas o relojes, se debe señalar y avisar de la grabación con luces, sonidos o carteles, sea o no con fines laborales. Las infracciones se castigarían con multas de hasta 1천만원 (diez millones de wones)."
+              },
+              {
+                "t": "p",
+                "x": "“Toda persona debe poder saber en el momento que está siendo grabada y negarse si no lo desea”, dijo Lee. “Estableceré normas que protejan la privacidad desde la fase de grabación, para que nadie descubra tarde en internet imágenes suyas tomadas con gafas inteligentes”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "EU 14개국, AI로부터\n저작권 보호 강화 요구",
-          "body": "EU 열네 개국이 집행위에 AI 저작권 입법과 창작자 공정 보상을 촉구했다.",
-          "mini_headline": "EU 국가들, AI 저작권법 촉구",
+        "en": {
+          "headline": "Bill targets AI-glasses spycams:\nrecording signal made mandatory",
+          "body": "Lawmaker Lee Joo-hee introduced a bill requiring AI smart glasses to display a recording indicator.",
+          "mini_headline": "Recording signal for AI glasses",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "11월 19일 목요일과 20일 금요일 열린 ‘교육·청소년·문화·스포츠’ 이사회에서 14개 회원국이 AI로부터 저작권을 더 잘 보호하는 문제에 관한 논의를 다시 꺼냈다. 이들은 이 주제가 앞서 논의된 지 여섯 달 만인 11월 18일 EU 이사회에 보낸 문서에서 입법 제안을 요구했다."
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "Visitors try out XR smart glasses at 2026 Smart Tech Korea, held at COEX in Gangnam-gu, Seoul, on the 10th. 2026.6.10"
               },
               {
                 "t": "p",
-                "x": "덴마크, 네덜란드, 폴란드를 포함한 다른 일곱 개국도 이 구상에 동참했다. 이들은 “문화·미디어 산업에 대한 시급성과 중요성을 고려해 이 주제에 대해 다시 입장을 밝히고자 한다”고 말했다."
+                "x": "Legislation is being pursued that would require artificial intelligence (AI) smart glasses to carry a recording indicator and oblige individuals to give notice when they film others for private purposes."
               },
               {
                 "t": "p",
-                "x": "이들은 5월에 제시된 더 나은 저작권 환경을 위한 표적 이니셔티브에 대한 지지를 재확인하고, “권리 유보의 집행력을 높이고 [...] 모든 창작자에게 전반적으로 적절한 보상을 보장하기 위한 [...] 신속한 조치”를 촉구했다. 회원국들은 또 집행위원회 산하 유럽 AI 사무국(European AI Office)이 “AI 개발자에 대한 라이선스 압력을 [...] 높이기 위해 현행 템플릿의 적합성을 검토해야 한다”고 밝혔다."
+                "x": "Lee Joo-hee, a Democratic Party of Korea lawmaker on the National Assembly's Science, ICT, Broadcasting and Communications Committee, said on the 23rd that she had sponsored 2 bills to this effect, the so-called 'Smart Glasses Illegal Filming Prevention Act': partial amendments to the Act on Promotion of Information and Communications Network Utilization and Information Protection and to the Personal Information Protection Act."
+              },
+              {
+                "t": "p",
+                "x": "The core of the amendments is to set standards at the manufacturing and import stage, together with a notification duty for users, so that people being filmed with smart glasses can recognize that they are being recorded."
+              },
+              {
+                "t": "p",
+                "x": "Major manufacturers such as Meta currently fit their smart glasses with an indicator light that shows when they are recording, but some low-cost products reportedly lack the feature or make it hard to tell from the outside whether recording is under way."
+              },
+              {
+                "t": "p",
+                "x": "Under the current Personal Information Protection Act, the duty to display and give notice of filming with mobile video information processing devices is limited to filming for business purposes, so it does not apply when individuals film others privately."
+              },
+              {
+                "t": "p",
+                "x": "To address this, the amendment to the Information and Communications Network Act requires manufacturers and importers of wearable video recording devices such as smart glasses to build in a recording indicator, and to take technical measures so that the recording and indicator functions are linked."
+              },
+              {
+                "t": "p",
+                "x": "The amendment also bars anyone from arbitrarily disabling the indicator or interfering with its operation, and prohibits the manufacture, import, sale and distribution of goods or programs made to defeat it, as well as related advertising."
+              },
+              {
+                "t": "p",
+                "x": "Sellers must explain to buyers how the recording indicator works and the possible penalties and sanctions for filming others."
+              },
+              {
+                "t": "p",
+                "x": "The accompanying amendment to the Personal Information Protection Act requires anyone filming people or related objects with wearable video information processing devices such as glasses or watches to display and announce the recording by means such as lights, sounds or signs, regardless of whether it is for business purposes. Violations would carry a fine of up to 1천만원 (ten million won)."
+              },
+              {
+                "t": "p",
+                "x": "“Everyone should be able to know on the spot that they are being filmed and refuse if they do not want it,” Lee said. “I will set standards that protect privacy from the filming stage, so that no one belatedly finds images of themselves taken with smart glasses online.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU14か国、AIから\n著作権保護強化を要求",
-          "body": "EU加盟国の十四か国が、欧州委員会にAI著作権保護の立法と創作者への公正な報酬を求めた。",
-          "mini_headline": "EU諸国がAI著作権法を要求",
+          "headline": "AIメガネ盗撮を防ぐ\n撮影表示義務化法案",
+          "body": "イ・ジュヒ議員が、AIスマートグラスに撮影表示を義務付ける法案を発議した。",
+          "mini_headline": "AIメガネの撮影表示を義務化",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "11月19日(木)と20日(金)の「教育・青少年・文化・スポーツ」理事会で、加盟14か国がAIから著作権をより適切に保護する議論を再燃させた。前回この問題が議論されてから六か月後の11月18日にEU理事会へ送った文書で、立法提案を求めた。"
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "10日、ソウル江南区のCOEXで開かれた2026スマートテック・コリアで、来場者がXRスマートグラスを体験している。2026.6.10"
               },
               {
                 "t": "p",
-                "x": "デンマーク、オランダ、ポーランドなどほかの七か国もこの取り組みに加わった。「文化・メディア産業にとっての緊急性と重要性に鑑み、この問題について改めて立場を示したい」としている。"
+                "x": "人工知能（AI）スマートグラスに撮影表示機能の搭載を義務付け、個人が私的に他人を撮影する際には撮影していることを知らせるよう義務化する立法が進められている。"
               },
               {
                 "t": "p",
-                "x": "各国は5月に示された、より良い著作権環境に向けた的を絞ったイニシアチブへの支持を改めて表明し、「権利留保の執行力を高め[...]、あらゆる創作者に一律に適切な報酬を確保するための[...]迅速な行動」を求めた。加盟国はまた、欧州委員会のEuropean AI Officeが「AI開発者へのライセンス圧力を[...]高めるため、現行テンプレートの適切性を検討すべきだ」と述べた。"
+                "x": "国会科学技術情報放送通信委員会に所属する共に民主党のイ・ジュヒ議員は23日、こうした内容を盛り込んだ情報通信網利用促進及び情報保護等に関する法律と個人情報保護法の一部改正法案など、いわゆる「スマートグラス違法撮影防止法」2件を代表発議したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "改正案の柱は、スマートグラスで他人を撮影する際に相手が撮影に気づけるよう、製造・輸入段階の基準と利用者の告知義務をあわせて整えることだ。"
+              },
+              {
+                "t": "p",
+                "x": "現在、メタなど主要メーカーはスマートグラスに撮影中であることを示す表示灯を搭載しているが、一部の低価格製品にはこうした機能がないか、撮影しているかどうかを外から確認しにくいとされる。"
+              },
+              {
+                "t": "p",
+                "x": "現行の個人情報保護法では、移動型映像情報処理機器による撮影の表示・告知義務は業務目的の撮影に限られ、個人が私的に他人を撮影する場合には適用されないという限界がある。"
+              },
+              {
+                "t": "p",
+                "x": "この問題を解消するため、情報通信網法改正案は、スマートグラスなど装着型映像撮影機器の製造・輸入者に撮影表示機能の搭載を義務付け、撮影機能と表示機能が連動するよう技術的措置を講じることとした。"
+              },
+              {
+                "t": "p",
+                "x": "表示機能を勝手に解除したり作動を妨げたりできないようにし、これを無力化する目的で作られた物品やプログラムの製造・輸入・販売・配布および関連広告を禁じる内容も改正案に盛り込まれた。"
+              },
+              {
+                "t": "p",
+                "x": "販売者には、撮影表示機能の作動方法と、他人を撮影した場合の処罰・制裁の可能性などを購入者に案内するよう求めた。"
+              },
+              {
+                "t": "p",
+                "x": "あわせて発議された個人情報保護法改正案は、メガネや時計など装着型映像情報処理機器で人やそれに関連する物を撮影する際、業務目的かどうかにかかわらず、光・音・案内板などの方法で撮影していることを表示し知らせるよう定めた。違反した場合は1천만원（一千万ウォン）以下の過料を科すと規定した。"
+              },
+              {
+                "t": "p",
+                "x": "イ・ジュヒ議員は「誰もが自分が撮影されていることをその場で知り、望まなければ拒否できるべきだ」とし、「スマートグラスで撮られた自分の姿を後になってネット上で見つけるようなことがないよう、撮影の段階からプライバシーを守る基準を整えたい」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "14个EU成员国要求\n强化AI版权保护",
-          "body": "十四个EU成员国敦促欧盟委员会就AI版权保护立法，并保障创作者公平报酬。",
-          "mini_headline": "EU国家推动AI版权立法",
+          "headline": "遏制AI眼镜偷拍\n法案拟强制拍摄提示",
+          "body": "李周熙议员提出法案，要求AI智能眼镜强制配备拍摄提示功能。",
+          "mini_headline": "AI眼镜须标示拍摄",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "在11月19日（星期四）和20日（星期五）举行的“教育、青年、文化和体育”理事会上，14个成员国重启了关于更好地保护版权免受AI侵害的讨论。在该议题上次讨论六个月后，它们于11月18日向EU理事会提交的一份说明中呼吁提出立法提案。"
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "10日，在首尔江南区COEX举行的2026智能科技韩国展上，观众正在体验XR智能眼镜。2026.6.10"
               },
               {
                 "t": "p",
-                "x": "包括丹麦、荷兰和波兰在内的另外七个国家也加入了这一倡议。它们表示：“鉴于这一议题对文化和媒体产业的紧迫性和重要性，我们希望再次表明立场。”"
+                "x": "韩国正推动立法，要求人工智能（AI）智能眼镜必须配备拍摄提示功能，并规定个人私下拍摄他人时须告知对方正在拍摄。"
               },
               {
                 "t": "p",
-                "x": "它们重申支持5月提出的旨在改善版权环境的针对性倡议，并呼吁“迅速采取行动[...]提高权利保留的可执行性[...]并确保所有创作者全面获得适当报酬”。成员国还表示，欧盟委员会的European AI Office应“审查现行模板是否适合[...]加大对AI开发者的许可压力”。"
+                "x": "隶属国会科学技术信息广播通信委员会的共同民主党议员李周熙23日表示，她已领衔提出包含上述内容的《信息通信网利用促进及信息保护等相关法》和《个人信息保护法》部分修正案等所谓“智能眼镜非法拍摄防止法”2项。"
+              },
+              {
+                "t": "p",
+                "x": "修正案的核心是同时制定制造、进口环节的标准和使用者的告知义务，使被拍摄者在他人用智能眼镜拍摄时能够察觉。"
+              },
+              {
+                "t": "p",
+                "x": "目前Meta等主要厂商在智能眼镜上配备了显示拍摄状态的指示灯，但据悉部分低价产品没有这一功能，或难以从外部确认是否正在拍摄。"
+              },
+              {
+                "t": "p",
+                "x": "根据现行《个人信息保护法》，移动式影像信息处理设备的拍摄显示和告知义务仅限于以业务为目的的拍摄，个人私下拍摄他人时并不适用，存在局限。"
+              },
+              {
+                "t": "p",
+                "x": "为解决这一问题，《信息通信网法》修正案规定，智能眼镜等穿戴式影像拍摄设备的制造商和进口商必须搭载拍摄提示功能，并采取技术措施使拍摄功能与提示功能联动。"
+              },
+              {
+                "t": "p",
+                "x": "修正案还规定不得擅自关闭提示功能或妨碍其运作，并禁止制造、进口、销售、分发以使其失效为目的的物品或程序以及相关广告。"
+              },
+              {
+                "t": "p",
+                "x": "销售者须向购买者说明拍摄提示功能的操作方法，以及拍摄他人时可能受到的处罚和制裁等。"
+              },
+              {
+                "t": "p",
+                "x": "一并提出的《个人信息保护法》修正案规定，使用眼镜、手表等穿戴式影像信息处理设备拍摄人或与其相关的物品时，无论是否出于业务目的，都须通过灯光、声音、告示牌等方式显示并告知正在拍摄。违反者将被处以1천만원（一千万韩元）以下的罚款。"
+              },
+              {
+                "t": "p",
+                "x": "李周熙表示：“每个人都应能当场知道自己正在被拍摄，不愿意时可以拒绝。”她还说：“我将制定从拍摄阶段就保护隐私的标准，避免有人事后才在网上发现自己被智能眼镜拍下的样子。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "14 países de la EU piden blindar\nlos derechos de autor ante la AI",
-          "body": "Catorce Estados de la EU piden a la Comisión una ley que proteja el copyright ante la AI, y pago justo a creadores.",
-          "mini_headline": "Países de la EU piden ley de copyright ante la AI",
+          "headline": "Gafas con AI: proyecto obliga\na indicar cuándo graban",
+          "body": "La diputada Lee Joo-hee presentó un proyecto que obliga a las gafas inteligentes con AI a señalar cuándo graban.",
+          "mini_headline": "Gafas con AI deberán avisar al grabar",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "En el Consejo de ‘Educación, Juventud, Cultura y Deporte’ del jueves 19 y el viernes 20 de noviembre, 14 Estados miembros reavivaron el debate sobre cómo proteger mejor los derechos de autor frente a la AI. En una nota enviada al Consejo de la EU el 18 de noviembre, seis meses después de que el tema se debatiera por última vez, pidieron una propuesta legislativa."
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+                "cap": "Visitantes prueban gafas inteligentes XR en la feria 2026 Smart Tech Korea, celebrada el día 10 en el COEX del distrito de Gangnam, Seúl. 2026.6.10"
               },
               {
                 "t": "p",
-                "x": "Otros siete países, entre ellos Dinamarca, los Países Bajos y Polonia, se han sumado a la iniciativa. “Queremos volver a tomar posición sobre este tema dada su urgencia e importancia para las industrias culturales y de medios”, afirmaron."
+                "x": "Se impulsa una legislación que obligaría a las gafas inteligentes con inteligencia artificial (AI) a incorporar una función que indique la grabación, y a los particulares a avisar cuando graben a otras personas con fines privados."
               },
               {
                 "t": "p",
-                "x": "Reiteraron su apoyo a la iniciativa específica para un mejor entorno de derechos de autor, presentada en mayo, y pidieron “una acción rápida [...] para mejorar la aplicabilidad de la reserva de derechos [...] y garantizar una remuneración adecuada para todos los creadores en general”. Los Estados miembros también señalaron que la European AI Office de la Comisión debería “examinar la idoneidad de la plantilla actual para aumentar [...] la presión de licencias sobre los desarrolladores de AI”."
+                "x": "La diputada Lee Joo-hee, del Partido Democrático y miembro del Comité de Ciencia, TIC, Radiodifusión y Comunicaciones de la Asamblea Nacional, informó el día 23 de que presentó como autora principal 2 proyectos con ese contenido, la llamada 'ley contra la grabación ilegal con gafas inteligentes': reformas parciales de la Ley de Promoción del Uso de Redes de Información y Comunicaciones y Protección de la Información, y de la Ley de Protección de Datos Personales."
+              },
+              {
+                "t": "p",
+                "x": "El núcleo de las reformas es establecer a la vez normas para la fase de fabricación e importación y un deber de aviso para los usuarios, de modo que la persona grabada con gafas inteligentes pueda darse cuenta de ello."
+              },
+              {
+                "t": "p",
+                "x": "Actualmente, los principales fabricantes, como Meta, incorporan en sus gafas inteligentes una luz que indica que se está grabando, pero algunos productos de bajo coste carecen de esta función o hacen difícil comprobar desde fuera si están grabando."
+              },
+              {
+                "t": "p",
+                "x": "Según la actual Ley de Protección de Datos Personales, el deber de señalar y avisar de la grabación con dispositivos móviles de procesamiento de imágenes se limita a la grabación con fines laborales, por lo que no se aplica cuando un particular graba a otras personas en el ámbito privado."
+              },
+              {
+                "t": "p",
+                "x": "Para resolverlo, la reforma de la Ley de Redes de Información y Comunicaciones obliga a los fabricantes e importadores de dispositivos de grabación de video portátiles, como las gafas inteligentes, a incorporar una función que indique la grabación y a adoptar medidas técnicas para que las funciones de grabación y de indicación estén vinculadas."
+              },
+              {
+                "t": "p",
+                "x": "La reforma también impide desactivar a voluntad la función de indicación o interferir en su funcionamiento, y prohíbe fabricar, importar, vender o distribuir artículos o programas diseñados para anularla, así como su publicidad."
+              },
+              {
+                "t": "p",
+                "x": "Los vendedores deberán informar a los compradores sobre cómo funciona la indicación de grabación y sobre las posibles sanciones por grabar a otras personas."
+              },
+              {
+                "t": "p",
+                "x": "La reforma de la Ley de Protección de Datos Personales, presentada a la vez, establece que al grabar a personas u objetos relacionados con ellas mediante dispositivos portátiles de procesamiento de imágenes, como gafas o relojes, se debe señalar y avisar de la grabación con luces, sonidos o carteles, sea o no con fines laborales. Las infracciones se castigarían con multas de hasta 1천만원 (diez millones de wones)."
+              },
+              {
+                "t": "p",
+                "x": "“Toda persona debe poder saber en el momento que está siendo grabada y negarse si no lo desea”, dijo Lee. “Estableceré normas que protejan la privacidad desde la fase de grabación, para que nadie descubra tarde en internet imágenes suyas tomadas con gafas inteligentes”."
               }
             ]
           }
@@ -919,633 +1521,611 @@
       }
     },
     {
-      "id": "mcgill-influencer-deepfakes-trade",
-      "source_lang": "en",
+      "id": "nais-science-ai-hub",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "딥페이크 인플루언서가 키운\nCanada-US 무역갈등",
-      "body": "AI-faked 얼굴을 쓴 계정 약 300개가 Canada-US 갈등을 부추겼다.",
-      "mini_headline": "딥페이크 인플루언서와 무역전쟁",
+      "headline": "국가과학AI센터\n과학 AI 허브로 키운다",
+      "body": "배경훈 부총리는 NAIS가 과학 AI 허브로 자리 잡도록 지원하겠다고 밝혔다.",
+      "mini_headline": "과학 AI 허브 육성",
       "tool": "Politics",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242",
-      "accent": "#2ec5c5",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261123087300017",
+      "accent": "#f5a623",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+            "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 23일 대전 유성구 국가과학AI연구센터에서 열린 '과학 AI 분야 산학연 전문가 간담회'에 참석해 발언하고 있다. 2026.11.23"
+          },
+          {
             "t": "p",
-            "x": "McGill University 연구진에 따르면, Jasmin Laine은 AI를 동원해 무너져 가는 캐나다·미국(US) 관계를 둘러싼 온라인 여론을 자극한 네트워크에 신원을 도용당했다. 이렇게 피해를 본 콘텐츠 크리에이터가 수백 명에 이른다."
+            "x": "배경훈 부총리 겸 과학기술정보통신부 장관은 23일 \"국가과학인공지능연구센터(NAIS)가 AI 전문가와 도메인 과학자를 잇는 거점으로서 대한민국 과학 AI의 허브로 자리 잡고, AI 과학자 미션을 비롯해 K-문샷이 의미 있는 성과를 낼 수 있도록 정부도 전폭적으로 지원하겠다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "과기정통부는 배 부총리가 이날 NAIS 대전센터에서 과학 인공지능(AI) 분야 산학연 전문가 간담회를 열고 국가 AI 자원 연계·결집 방안과 K-문샷 AI 과학자 미션 추진 방향을 논의했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "NAIS는 AI 학습용 데이터, 컴퓨팅, AI 모델·에이전트, 전문인력 등 과학 AI 연구 기반을 국가 차원에서 결집·지원하는 허브로 올해 설립됐다."
+          },
+          {
+            "t": "p",
+            "x": "간담회에서 유용균 NAIS 센터장은 과학 AI 자원 확충·결집, 과학 AI 통합 플랫폼 구축·운영, 과학 AI 생태계 조성 등 3대 임무를 제시했다."
+          },
+          {
+            "t": "p",
+            "x": "또 바이오, 핵융합, 원자력 등 분야에서 관련 정부출연연구기관과 협력해 AI 학습용 연구데이터를 확보하고 분야별 특화 AI 모델·에이전트를 지원해 연구방식 전환을 이끌겠다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "연내 과학 AI 통합플랫폼 시범 서비스 운영 계획도 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "임성빈 AI 과학자 미션 프로그램 디렉터(PD)는 모든 연구자가 AI 과학자를 활용해 과학적 발견의 속도와 규모를 혁신할 수 있도록 과학 추론, 에이전트 협업, 자율실험실 연결 등 핵심 기술을 확보·연계하는 미션 로드맵을 발표했다."
+          },
+          {
+            "t": "p",
+            "x": "인간 책임하에 AI가 연구 전주기를 자율 수행하는 단계까지 고도화하고 다른 미션과 연계해 분야별 성과 창출을 가속하겠다고도 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-            "cap": "온타리오주 Lansdowne의 Thousand Islands Bridge 옆 Lansdowne Port of Entry에 캐나다 국기(왼쪽)와 미국(US) 국기가 나란히 휘날리고 있다."
+            "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+            "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 23일 대전 유성구 국가과학AI연구센터에서 열린 '과학 AI 분야 산학연 전문가 간담회'에 참석해 발언하고 있다. 2026.11.23"
           },
           {
             "t": "p",
-            "x": "McGill Centre for Media, Technology and Democracy 연구팀은 실제 얼굴을 도용한 Instagram·TikTok 계정 약 300개를 찾아냈다. 이 계정들은 조직적으로 영상 수천 개를 올려 조회수 약 2000만 회를 끌어모았다. 그중 TikTok의 합성 콘텐츠 경고가 붙은 계정은 4퍼센트뿐이었다. 영상 대본도 AI로 썼다."
+            "x": "자유 토론에서는 슈퍼컴퓨터 6호기 등 과학 AI 전용 컴퓨팅 자원 확보, AI 학습용 데이터 표준 체계 마련, 대형 연구시설·자율실험실과 연계한 고품질 연구데이터 생산 방안 등이 논의됐다."
           },
           {
             "t": "p",
-            "x": "보고서 저자 Aengus Bridgman은 네트워크가 북미 밖에서 시작된 것으로 보이며 일부 계정은 중국에 등록돼 있었다고 했다. “목적은 양극화”라는 설명이다. 어떤 영상은 무역 갈등의 책임을 오타와에, 어떤 영상은 워싱턴에 돌렸다."
-          },
-          {
-            "t": "p",
-            "x": "TikTok은 보고서에 언급된 계정을 영구 정지했고, Meta는 관련 Instagram 계정을 삭제했다고 밝혔다."
+            "x": "배 부총리는 \"AI가 연구를 돕는 도구를 넘어 과학자와 함께 가설을 세우고 검증하는 'AI 과학자' 시대가 다가오고 있다\"며 \"연구 패러다임이 근본적으로 바뀌는 지금, 이 변화를 우리 과학기술의 새로운 기회로 만들기 위해서는 데이터와 컴퓨팅, 실험 인프라와 전문인력 등 곳곳에 흩어진 국가 과학 AI 역량을 하나로 결집해 총력을 기울여야 한다\"고 당부했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Deepfaked influencers stoke\nCanada-US trade tensions",
-          "body": "A McGill study traced about 300 accounts using AI-faked likenesses of real creators to inflame Canada-US tensions.",
-          "mini_headline": "Deepfake influencers, trade war",
+        "ko": {
+          "headline": "국가과학AI센터\n과학 AI 허브로 키운다",
+          "body": "배경훈 부총리는 NAIS가 과학 AI 허브로 자리 잡도록 지원하겠다고 밝혔다.",
+          "mini_headline": "과학 AI 허브 육성",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 23일 대전 유성구 국가과학AI연구센터에서 열린 '과학 AI 분야 산학연 전문가 간담회'에 참석해 발언하고 있다. 2026.11.23"
+              },
+              {
                 "t": "p",
-                "x": "Jasmin Laine is one of hundreds of content creators who, according to researchers at McGill University, had their identities stolen by a network using AI to inflame the online conversation around the crumbling ties between Canada and the US."
+                "x": "배경훈 부총리 겸 과학기술정보통신부 장관은 23일 \"국가과학인공지능연구센터(NAIS)가 AI 전문가와 도메인 과학자를 잇는 거점으로서 대한민국 과학 AI의 허브로 자리 잡고, AI 과학자 미션을 비롯해 K-문샷이 의미 있는 성과를 낼 수 있도록 정부도 전폭적으로 지원하겠다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "과기정통부는 배 부총리가 이날 NAIS 대전센터에서 과학 인공지능(AI) 분야 산학연 전문가 간담회를 열고 국가 AI 자원 연계·결집 방안과 K-문샷 AI 과학자 미션 추진 방향을 논의했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "NAIS는 AI 학습용 데이터, 컴퓨팅, AI 모델·에이전트, 전문인력 등 과학 AI 연구 기반을 국가 차원에서 결집·지원하는 허브로 올해 설립됐다."
+              },
+              {
+                "t": "p",
+                "x": "간담회에서 유용균 NAIS 센터장은 과학 AI 자원 확충·결집, 과학 AI 통합 플랫폼 구축·운영, 과학 AI 생태계 조성 등 3대 임무를 제시했다."
+              },
+              {
+                "t": "p",
+                "x": "또 바이오, 핵융합, 원자력 등 분야에서 관련 정부출연연구기관과 협력해 AI 학습용 연구데이터를 확보하고 분야별 특화 AI 모델·에이전트를 지원해 연구방식 전환을 이끌겠다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "연내 과학 AI 통합플랫폼 시범 서비스 운영 계획도 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "임성빈 AI 과학자 미션 프로그램 디렉터(PD)는 모든 연구자가 AI 과학자를 활용해 과학적 발견의 속도와 규모를 혁신할 수 있도록 과학 추론, 에이전트 협업, 자율실험실 연결 등 핵심 기술을 확보·연계하는 미션 로드맵을 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "인간 책임하에 AI가 연구 전주기를 자율 수행하는 단계까지 고도화하고 다른 미션과 연계해 분야별 성과 창출을 가속하겠다고도 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "The Canadian, left, and US flags flutter at the Lansdowne Port of Entry next to the Thousand Islands Bridge in Lansdowne, Ontario."
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 23일 대전 유성구 국가과학AI연구센터에서 열린 '과학 AI 분야 산학연 전문가 간담회'에 참석해 발언하고 있다. 2026.11.23"
               },
               {
                 "t": "p",
-                "x": "The McGill Centre for Media, Technology and Democracy study identified about 300 Instagram and TikTok accounts misusing authentic faces in a coordinated operation which published thousands of videos and pulled in about 20 million views. Only 4 percent of the operation’s accounts triggered TikTok’s synthetic content warning. The network also used AI to generate the videos’ scripts."
+                "x": "자유 토론에서는 슈퍼컴퓨터 6호기 등 과학 AI 전용 컴퓨팅 자원 확보, AI 학습용 데이터 표준 체계 마련, 대형 연구시설·자율실험실과 연계한 고품질 연구데이터 생산 방안 등이 논의됐다."
               },
               {
                 "t": "p",
-                "x": "Report author Aengus Bridgman said the network appeared to originate outside of North America; certain accounts were registered in China. “The idea is to polarize,” he said. Some videos blamed Ottawa for the trade conflict while others pointed the finger at Washington."
-              },
-              {
-                "t": "p",
-                "x": "TikTok said it had permanently banned the accounts mentioned in the report, and Meta said it had taken down the implicated Instagram accounts."
+                "x": "배 부총리는 \"AI가 연구를 돕는 도구를 넘어 과학자와 함께 가설을 세우고 검증하는 'AI 과학자' 시대가 다가오고 있다\"며 \"연구 패러다임이 근본적으로 바뀌는 지금, 이 변화를 우리 과학기술의 새로운 기회로 만들기 위해서는 데이터와 컴퓨팅, 실험 인프라와 전문인력 등 곳곳에 흩어진 국가 과학 AI 역량을 하나로 결집해 총력을 기울여야 한다\"고 당부했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "딥페이크 인플루언서가 키운\nCanada-US 무역갈등",
-          "body": "AI-faked 얼굴을 쓴 계정 약 300개가 Canada-US 갈등을 부추겼다.",
-          "mini_headline": "딥페이크 인플루언서와 무역전쟁",
+        "en": {
+          "headline": "National Science AI Center\nto grow into science AI hub",
+          "body": "Deputy PM Bae Kyung-hoon said the government will support NAIS in becoming a science AI hub.",
+          "mini_headline": "Building a science AI hub",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, speaks at a 'meeting of industry, academic and research experts in science AI' held at the National Science AI Research Center in Yuseong-gu, Daejeon, on the 23rd. 2026.11.23"
+              },
+              {
                 "t": "p",
-                "x": "McGill University 연구진에 따르면, Jasmin Laine은 AI를 동원해 무너져 가는 캐나다·미국(US) 관계를 둘러싼 온라인 여론을 자극한 네트워크에 신원을 도용당했다. 이렇게 피해를 본 콘텐츠 크리에이터가 수백 명에 이른다."
+                "x": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, said on the 23rd, “The government will give its full support so that the National Science AI Research Center (NAIS) takes root as the hub of Korea's science AI, serving as a base that links AI experts with domain scientists, and so that K-Moonshot, including the AI Scientist mission, can deliver meaningful results.”"
+              },
+              {
+                "t": "p",
+                "x": "The Ministry of Science and ICT said Bae held a meeting that day with industry, academic and research experts in science artificial intelligence (AI) at the NAIS Daejeon center, discussing ways to link and pool national AI resources and the direction of the K-Moonshot AI Scientist mission."
+              },
+              {
+                "t": "p",
+                "x": "NAIS was established this year as a hub that pools and supports, at the national level, the foundations of science AI research, including AI training data, computing, AI models and agents, and specialist personnel."
+              },
+              {
+                "t": "p",
+                "x": "At the meeting, NAIS director Yoo Yong-gyun presented 3 core missions: expanding and pooling science AI resources, building and operating an integrated science AI platform, and fostering a science AI ecosystem."
+              },
+              {
+                "t": "p",
+                "x": "He also explained that NAIS will work with the relevant government-funded research institutes in fields such as bio, nuclear fusion and nuclear energy to secure research data for AI training and support field-specific AI models and agents, leading a shift in how research is done."
+              },
+              {
+                "t": "p",
+                "x": "He also announced plans to run a pilot service of the integrated science AI platform within the year."
+              },
+              {
+                "t": "p",
+                "x": "Lim Sung-bin, program director (PD) of the AI Scientist mission, presented a mission roadmap to secure and link core technologies such as scientific reasoning, agent collaboration and connections to autonomous laboratories, so that every researcher can use AI scientists to transform the speed and scale of scientific discovery."
+              },
+              {
+                "t": "p",
+                "x": "He added that the mission will be advanced to the stage where AI autonomously carries out the full research cycle under human responsibility, and linked with other missions to speed up results in each field."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "온타리오주 Lansdowne의 Thousand Islands Bridge 옆 Lansdowne Port of Entry에 캐나다 국기(왼쪽)와 미국(US) 국기가 나란히 휘날리고 있다."
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, speaks at a 'meeting of industry, academic and research experts in science AI' held at the National Science AI Research Center in Yuseong-gu, Daejeon, on the 23rd. 2026.11.23"
               },
               {
                 "t": "p",
-                "x": "McGill Centre for Media, Technology and Democracy 연구팀은 실제 얼굴을 도용한 Instagram·TikTok 계정 약 300개를 찾아냈다. 이 계정들은 조직적으로 영상 수천 개를 올려 조회수 약 2000만 회를 끌어모았다. 그중 TikTok의 합성 콘텐츠 경고가 붙은 계정은 4퍼센트뿐이었다. 영상 대본도 AI로 썼다."
+                "x": "The open discussion covered securing computing resources dedicated to science AI, such as the 6th national supercomputer, setting up a standard framework for AI training data, and ways to produce high-quality research data linked with large research facilities and autonomous laboratories."
               },
               {
                 "t": "p",
-                "x": "보고서 저자 Aengus Bridgman은 네트워크가 북미 밖에서 시작된 것으로 보이며 일부 계정은 중국에 등록돼 있었다고 했다. “목적은 양극화”라는 설명이다. 어떤 영상은 무역 갈등의 책임을 오타와에, 어떤 영상은 워싱턴에 돌렸다."
-              },
-              {
-                "t": "p",
-                "x": "TikTok은 보고서에 언급된 계정을 영구 정지했고, Meta는 관련 Instagram 계정을 삭제했다고 밝혔다."
+                "x": "“The era of the 'AI scientist,' in which AI goes beyond being a tool that assists research to form and test hypotheses together with scientists, is approaching,” Bae said. “Now that the research paradigm is fundamentally changing, to turn this change into a new opportunity for our science and technology, we must pool into one the national science AI capabilities scattered across data and computing, experimental infrastructure and specialist personnel, and make an all-out effort.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "偽インフルエンサーが煽る\nCanada-US 貿易摩擦",
-          "body": "AI-fakedの顔を使う約300のアカウントがCanada-US対立を煽っていた。",
-          "mini_headline": "ディープフェイクと貿易戦争",
+          "headline": "国家科学AIセンター\n科学AIハブに育成",
+          "body": "ペ・ギョンフン副首相は、NAISが科学AIハブとして定着するよう支援すると述べた。",
+          "mini_headline": "科学AIハブを育成",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "ペ・ギョンフン副首相兼科学技術情報通信相が23日、大田市儒城区の国家科学AI研究センターで開かれた「科学AI分野の産学研専門家懇談会」に出席し、発言している。2026.11.23"
+              },
+              {
                 "t": "p",
-                "x": "McGill Universityの研究者によると、Jasmin Laineは、AIを使って崩れゆくカナダと米国(US)の関係をめぐるオンライン上の議論を煽ったネットワークに、身元を盗まれた数百人のコンテンツクリエイターの一人だ。"
+                "x": "ペ・ギョンフン副首相兼科学技術情報通信相は23日、「国家科学人工知能研究センター（NAIS）がAI専門家とドメイン科学者をつなぐ拠点として韓国の科学AIのハブに定着し、AI科学者ミッションをはじめK-ムーンショットが意味のある成果を出せるよう、政府も全面的に支援する」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "科学技術情報通信部によると、ペ副首相はこの日、NAIS大田センターで科学人工知能（AI）分野の産学研専門家懇談会を開き、国家AI資源の連携・結集策とK-ムーンショットAI科学者ミッションの推進方向について議論した。"
+              },
+              {
+                "t": "p",
+                "x": "NAISは、AI学習用データ、コンピューティング、AIモデル・エージェント、専門人材など科学AI研究の基盤を国家レベルで結集・支援するハブとして今年設立された。"
+              },
+              {
+                "t": "p",
+                "x": "懇談会でユ・ヨンギュンNAISセンター長は、科学AI資源の拡充・結集、科学AI統合プラットフォームの構築・運営、科学AIエコシステムの形成という3大任務を示した。"
+              },
+              {
+                "t": "p",
+                "x": "さらに、バイオ、核融合、原子力などの分野で関係する政府出資研究機関と協力してAI学習用の研究データを確保し、分野別の特化型AIモデル・エージェントを支援して研究手法の転換を主導すると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "年内に科学AI統合プラットフォームの試験サービスを運営する計画も明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "イム・ソンビンAI科学者ミッション・プログラムディレクター（PD）は、すべての研究者がAI科学者を活用して科学的発見のスピードと規模を革新できるよう、科学的推論、エージェント協業、自律実験室との接続などの中核技術を確保・連携するミッションのロードマップを発表した。"
+              },
+              {
+                "t": "p",
+                "x": "人間の責任の下でAIが研究の全サイクルを自律的に遂行する段階まで高度化し、ほかのミッションと連携して分野ごとの成果創出を加速するとも述べた。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "オンタリオ州LansdowneのThousand Islands Bridge近くにあるLansdowne Port of Entryではためくカナダ国旗(左)と米国(US)国旗。"
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "ペ・ギョンフン副首相兼科学技術情報通信相が23日、大田市儒城区の国家科学AI研究センターで開かれた「科学AI分野の産学研専門家懇談会」に出席し、発言している。2026.11.23"
               },
               {
                 "t": "p",
-                "x": "McGill Centre for Media, Technology and Democracyの研究は、実在の顔を悪用するInstagramとTikTokのアカウント約300件を特定した。組織的な作戦で数千本の動画を公開し、約2000万回の再生を集めていた。TikTokの合成コンテンツ警告が表示されたのは、作戦のアカウントのわずか4パーセントだった。ネットワークは動画の台本もAIで生成していた。"
+                "x": "自由討論では、スーパーコンピューター6号機など科学AI専用のコンピューティング資源の確保、AI学習用データの標準体系の整備、大型研究施設や自律実験室と連携した高品質な研究データの生産策などが議論された。"
               },
               {
                 "t": "p",
-                "x": "報告書の著者Aengus Bridgmanは、ネットワークは北米以外から発信されたとみられ、一部のアカウントは中国で登録されていたと述べた。「狙いは分断だ」と同氏は語った。貿易対立の責任をオタワに負わせる動画もあれば、ワシントンを名指しする動画もあった。"
-              },
-              {
-                "t": "p",
-                "x": "TikTokは報告書で言及されたアカウントを永久に禁止したとし、Metaは関係するInstagramアカウントを削除したと述べた。"
+                "x": "ペ副首相は「AIが研究を助ける道具を超え、科学者とともに仮説を立てて検証する『AI科学者』の時代が近づいている」とし、「研究パラダイムが根本から変わる今、この変化をわが国の科学技術の新たな機会とするには、データとコンピューティング、実験インフラと専門人材など各所に散らばる国家の科学AI能力を一つに結集し、総力を挙げなければならない」と呼びかけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "深度伪造网红加剧\nCanada-US贸易摩擦",
-          "body": "McGill研究发现约300个账号用AI-faked真人形象煽动Canada-US对立。",
-          "mini_headline": "深度伪造网红与贸易战",
+          "headline": "国家科学AI中心\n打造为科学AI枢纽",
+          "body": "裴京勋副总理表示，政府将支持NAIS发展成为科学AI枢纽。",
+          "mini_headline": "打造科学AI枢纽",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "23日，副总理兼科学技术信息通信部长官裴京勋出席在大田儒城区国家科学AI研究中心举行的“科学AI领域产学研专家座谈会”并发言。2026.11.23"
+              },
+              {
                 "t": "p",
-                "x": "据McGill University研究人员称，Jasmin Laine是数百名身份遭盗用的内容创作者之一，盗用者是一个利用AI煽动围绕加拿大与美国(US)关系破裂的网络舆论的网络。"
+                "x": "副总理兼科学技术信息通信部长官裴京勋23日表示：“政府将全力支持，使国家科学人工智能研究中心（NAIS）作为连接AI专家与领域科学家的据点，成为韩国科学AI的枢纽，并使以AI科学家任务为代表的K-登月计划（K-Moonshot）取得有意义的成果。”"
+              },
+              {
+                "t": "p",
+                "x": "科学技术信息通信部表示，裴京勋当天在NAIS大田中心召开科学人工智能（AI）领域产学研专家座谈会，讨论了国家AI资源的联动与整合方案，以及K-登月计划AI科学家任务的推进方向。"
+              },
+              {
+                "t": "p",
+                "x": "NAIS于今年成立，是在国家层面整合并支持AI训练数据、算力、AI模型与智能体、专业人才等科学AI研究基础的枢纽。"
+              },
+              {
+                "t": "p",
+                "x": "座谈会上，NAIS中心主任柳容均提出了扩充与整合科学AI资源、建设与运营科学AI综合平台、营造科学AI生态系统等3大任务。"
+              },
+              {
+                "t": "p",
+                "x": "他还表示，将在生物、核聚变、核能等领域与相关政府出资研究机构合作，获取AI训练用研究数据，支持各领域专用AI模型与智能体，引领研究方式转型。"
+              },
+              {
+                "t": "p",
+                "x": "他还公布了年内试运营科学AI综合平台服务的计划。"
+              },
+              {
+                "t": "p",
+                "x": "AI科学家任务项目总监（PD）林成彬发布了任务路线图，提出确保并衔接科学推理、智能体协作、自主实验室连接等核心技术，使所有研究人员都能借助AI科学家革新科学发现的速度与规模。"
+              },
+              {
+                "t": "p",
+                "x": "他还表示，将把技术提升到在人类负责的前提下由AI自主完成研究全周期的阶段，并与其他任务联动，加快各领域成果的产出。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "安大略省Lansdowne的Thousand Islands Bridge旁，Lansdowne Port of Entry飘扬的加拿大国旗（左）和美国(US)国旗。"
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "23日，副总理兼科学技术信息通信部长官裴京勋出席在大田儒城区国家科学AI研究中心举行的“科学AI领域产学研专家座谈会”并发言。2026.11.23"
               },
               {
                 "t": "p",
-                "x": "McGill Centre for Media, Technology and Democracy的研究发现约300个滥用真实面孔的Instagram和TikTok账号，它们在一场协同行动中发布了数千条视频，获得约2000万次观看。该行动的账号中只有百分之四触发了TikTok的合成内容警告。该网络还用AI生成视频脚本。"
+                "x": "自由讨论环节探讨了确保超级计算机6号机等科学AI专用算力资源、建立AI训练数据标准体系，以及与大型研究设施和自主实验室联动生产高质量研究数据的方案等。"
               },
               {
                 "t": "p",
-                "x": "报告作者Aengus Bridgman表示，该网络似乎源自北美以外，部分账号注册于中国。他说：“目的就是制造两极分化。”一些视频把贸易冲突归咎于渥太华，另一些则把矛头指向华盛顿。"
-              },
-              {
-                "t": "p",
-                "x": "TikTok表示已永久封禁报告中提到的账号，Meta表示已删除涉事的Instagram账号。"
+                "x": "裴京勋表示：“AI不再只是辅助研究的工具，而是与科学家一起提出并验证假设的‘AI科学家’时代正在到来。”他强调：“在研究范式发生根本性变化的当下，要把这一变化变成我国科学技术的新机遇，就必须把分散在数据与算力、实验基础设施与专业人才等各处的国家科学AI能力整合为一，全力以赴。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Influencers falsos con AI avivan\nla tensión comercial Canada-US",
-          "body": "Un estudio de McGill halló unas 300 cuentas con rostros AI-faked de creadores reales para avivar la tensión Canada-US.",
-          "mini_headline": "Influencers deepfake y guerra comercial",
+          "headline": "El centro nacional de ciencia AI\nserá un eje de AI científica",
+          "body": "El viceprimer ministro Bae Kyung-hoon anunció apoyo para que NAIS se consolide como eje de la AI científica.",
+          "mini_headline": "Un eje de AI para la ciencia",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, interviene el día 23 en la 'reunión de expertos de la industria, la academia y la investigación en AI científica', celebrada en el Centro Nacional de Investigación en AI Científica, en Yuseong-gu, Daejeon. 2026.11.23"
+              },
+              {
                 "t": "p",
-                "x": "Jasmin Laine es una de los cientos de creadores de contenido que, según investigadores de la McGill University, sufrieron el robo de su identidad a manos de una red que usaba AI para inflamar la conversación en línea sobre el deterioro de los lazos entre Canadá y Estados Unidos (US)."
+                "x": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, afirmó el día 23: “El Gobierno también dará todo su apoyo para que el Centro Nacional de Investigación en Inteligencia Artificial Científica (NAIS) se consolide como el eje de la AI científica de Corea, como punto de unión entre expertos en AI y científicos de cada dominio, y para que K-Moonshot, empezando por la misión AI Scientist, logre resultados significativos”."
+              },
+              {
+                "t": "p",
+                "x": "El Ministerio de Ciencia y TIC informó de que Bae celebró ese día en el centro de NAIS en Daejeon una reunión con expertos de la industria, la academia y la investigación en inteligencia artificial (AI) científica, en la que se debatieron fórmulas para conectar y concentrar los recursos nacionales de AI y la orientación de la misión AI Scientist de K-Moonshot."
+              },
+              {
+                "t": "p",
+                "x": "NAIS se creó este año como un eje que concentra y apoya a escala nacional la base de la investigación en AI científica, incluidos los datos de entrenamiento de AI, la computación, los modelos y agentes de AI y el personal especializado."
+              },
+              {
+                "t": "p",
+                "x": "En la reunión, el director de NAIS, Yoo Yong-gyun, presentó 3 misiones principales: ampliar y concentrar los recursos de AI científica, construir y operar una plataforma integrada de AI científica y crear un ecosistema de AI científica."
+              },
+              {
+                "t": "p",
+                "x": "También explicó que, en campos como la biotecnología, la fusión nuclear y la energía nuclear, colaborarán con los institutos públicos de investigación correspondientes para obtener datos de investigación para entrenar AI y apoyar modelos y agentes de AI especializados por campo, impulsando un cambio en la forma de investigar."
+              },
+              {
+                "t": "p",
+                "x": "Además, anunció el plan de poner en marcha antes de fin de año un servicio piloto de la plataforma integrada de AI científica."
+              },
+              {
+                "t": "p",
+                "x": "Lim Sung-bin, director del programa (PD) de la misión AI Scientist, presentó la hoja de ruta de la misión para obtener y conectar tecnologías clave como el razonamiento científico, la colaboración entre agentes y la conexión con laboratorios autónomos, de modo que todos los investigadores puedan usar científicos de AI para transformar la velocidad y la escala de los descubrimientos científicos."
+              },
+              {
+                "t": "p",
+                "x": "Añadió que se avanzará hasta la etapa en que la AI realice de forma autónoma todo el ciclo de investigación bajo responsabilidad humana, y que se coordinará con otras misiones para acelerar los resultados en cada campo."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "Las banderas de Canadá, a la izquierda, y de Estados Unidos (US) ondean en el Lansdowne Port of Entry, junto al Thousand Islands Bridge, en Lansdowne, Ontario."
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, interviene el día 23 en la 'reunión de expertos de la industria, la academia y la investigación en AI científica', celebrada en el Centro Nacional de Investigación en AI Científica, en Yuseong-gu, Daejeon. 2026.11.23"
               },
               {
                 "t": "p",
-                "x": "El estudio del McGill Centre for Media, Technology and Democracy identificó unas 300 cuentas de Instagram y TikTok que usaban rostros auténticos de forma indebida en una operación coordinada que publicó miles de videos y sumó unos 20 millones de visualizaciones. Solo el 4 por ciento de las cuentas de la operación activó la advertencia de contenido sintético de TikTok. La red también usó AI para generar los guiones de los videos."
+                "x": "En el debate abierto se abordaron la obtención de recursos de computación dedicados a la AI científica, como el superordenador número 6, la creación de un sistema de estándares para los datos de entrenamiento de AI y fórmulas para producir datos de investigación de alta calidad vinculados a grandes instalaciones de investigación y laboratorios autónomos."
               },
               {
                 "t": "p",
-                "x": "El autor del informe, Aengus Bridgman, dijo que la red parecía originarse fuera de Norteamérica; algunas cuentas estaban registradas en China. “La idea es polarizar”, dijo. Algunos videos culpaban a Ottawa del conflicto comercial, mientras que otros señalaban a Washington."
-              },
-              {
-                "t": "p",
-                "x": "TikTok dijo que había prohibido de forma permanente las cuentas mencionadas en el informe, y Meta dijo que había eliminado las cuentas de Instagram implicadas."
+                "x": "“Se acerca la era del 'científico de AI', en la que la AI va más allá de ser una herramienta de apoyo a la investigación para formular y verificar hipótesis junto a los científicos”, dijo Bae. “Ahora que el paradigma de la investigación cambia de raíz, para convertir este cambio en una nueva oportunidad para nuestra ciencia y tecnología debemos reunir en uno solo las capacidades nacionales de AI científica dispersas en datos y computación, infraestructura experimental y personal especializado, y volcar en ello todos nuestros esfuerzos”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "딥페이크 인플루언서가 키운\nCanada-US 무역갈등",
-          "body": "AI-faked 얼굴을 쓴 계정 약 300개가 Canada-US 갈등을 부추겼다.",
-          "mini_headline": "딥페이크 인플루언서와 무역전쟁",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "McGill University 연구진에 따르면 Jasmin Laine은 AI를 이용해 무너져 가는 캐나다와 미국(US) 관계를 둘러싼 온라인 여론을 자극한 네트워크에 신원을 도용당한 수백 명의 콘텐츠 크리에이터 중 한 명이다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "온타리오주 Lansdowne의 Thousand Islands Bridge 옆 Lansdowne Port of Entry에서 캐나다 국기(왼쪽)와 미국(US) 국기가 휘날리고 있다."
-              },
-              {
-                "t": "p",
-                "x": "McGill Centre for Media, Technology and Democracy의 연구는 실제 얼굴을 도용한 Instagram·TikTok 계정 약 300개를 찾아냈다. 이 계정들은 조직적인 작전으로 수천 개의 영상을 올려 약 2000만 회의 조회수를 끌어모았다. 작전에 쓰인 계정 중 TikTok의 합성 콘텐츠 경고가 붙은 것은 4퍼센트에 불과했다. 네트워크는 영상 대본도 AI로 생성했다."
-              },
-              {
-                "t": "p",
-                "x": "보고서 저자 Aengus Bridgman은 이 네트워크가 북미 밖에서 시작된 것으로 보이며 일부 계정은 중국에 등록돼 있었다고 말했다. 그는 “목적은 양극화”라고 했다. 일부 영상은 무역 갈등의 책임을 오타와에 돌렸고, 다른 영상은 워싱턴을 지목했다."
-              },
-              {
-                "t": "p",
-                "x": "TikTok은 보고서에 언급된 계정을 영구 정지했다고 밝혔고, Meta는 관련 Instagram 계정을 삭제했다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "偽インフルエンサーが煽る\nCanada-US 貿易摩擦",
-          "body": "AI-fakedの顔を使う約300のアカウントがCanada-US対立を煽っていた。",
-          "mini_headline": "ディープフェイクと貿易戦争",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "McGill Universityの研究者によると、Jasmin Laineは、AIを使って崩れゆくカナダと米国(US)の関係をめぐるオンライン上の議論を煽ったネットワークに、身元を盗まれた数百人のコンテンツクリエイターの一人だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "オンタリオ州LansdowneのThousand Islands Bridge近くにあるLansdowne Port of Entryではためくカナダ国旗(左)と米国(US)国旗。"
-              },
-              {
-                "t": "p",
-                "x": "McGill Centre for Media, Technology and Democracyの研究は、実在の顔を悪用するInstagramとTikTokのアカウント約300件を特定した。組織的な作戦で数千本の動画を公開し、約2000万回の再生を集めていた。TikTokの合成コンテンツ警告が表示されたのは、作戦のアカウントのわずか4パーセントだった。ネットワークは動画の台本もAIで生成していた。"
-              },
-              {
-                "t": "p",
-                "x": "報告書の著者Aengus Bridgmanは、ネットワークは北米以外から発信されたとみられ、一部のアカウントは中国で登録されていたと述べた。「狙いは分断だ」と同氏は語った。貿易対立の責任をオタワに負わせる動画もあれば、ワシントンを名指しする動画もあった。"
-              },
-              {
-                "t": "p",
-                "x": "TikTokは報告書で言及されたアカウントを永久に禁止したとし、Metaは関係するInstagramアカウントを削除したと述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "深度伪造网红加剧\nCanada-US贸易摩擦",
-          "body": "McGill研究发现约300个账号用AI-faked真人形象煽动Canada-US对立。",
-          "mini_headline": "深度伪造网红与贸易战",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据McGill University研究人员称，Jasmin Laine是数百名身份遭盗用的内容创作者之一，盗用者是一个利用AI煽动围绕加拿大与美国(US)关系破裂的网络舆论的网络。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "安大略省Lansdowne的Thousand Islands Bridge旁，Lansdowne Port of Entry飘扬的加拿大国旗（左）和美国(US)国旗。"
-              },
-              {
-                "t": "p",
-                "x": "McGill Centre for Media, Technology and Democracy的研究发现约300个滥用真实面孔的Instagram和TikTok账号，它们在一场协同行动中发布了数千条视频，获得约2000万次观看。该行动的账号中只有百分之四触发了TikTok的合成内容警告。该网络还用AI生成视频脚本。"
-              },
-              {
-                "t": "p",
-                "x": "报告作者Aengus Bridgman表示，该网络似乎源自北美以外，部分账号注册于中国。他说：“目的就是制造两极分化。”一些视频把贸易冲突归咎于渥太华，另一些则把矛头指向华盛顿。"
-              },
-              {
-                "t": "p",
-                "x": "TikTok表示已永久封禁报告中提到的账号，Meta表示已删除涉事的Instagram账号。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Influencers falsos con AI avivan\nla tensión comercial Canada-US",
-          "body": "Un estudio de McGill halló unas 300 cuentas con rostros AI-faked de creadores reales para avivar la tensión Canada-US.",
-          "mini_headline": "Influencers deepfake y guerra comercial",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Jasmin Laine es una de los cientos de creadores de contenido que, según investigadores de la McGill University, sufrieron el robo de su identidad a manos de una red que usaba AI para inflamar la conversación en línea sobre el deterioro de los lazos entre Canadá y Estados Unidos (US)."
-              },
-              {
-                "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-                "cap": "Las banderas de Canadá, a la izquierda, y de Estados Unidos (US) ondean en el Lansdowne Port of Entry, junto al Thousand Islands Bridge, en Lansdowne, Ontario."
-              },
-              {
-                "t": "p",
-                "x": "El estudio del McGill Centre for Media, Technology and Democracy identificó unas 300 cuentas de Instagram y TikTok que usaban rostros auténticos de forma indebida en una operación coordinada que publicó miles de videos y sumó unos 20 millones de visualizaciones. Solo el 4 por ciento de las cuentas de la operación activó la advertencia de contenido sintético de TikTok. La red también usó AI para generar los guiones de los videos."
-              },
-              {
-                "t": "p",
-                "x": "El autor del informe, Aengus Bridgman, dijo que la red parecía originarse fuera de Norteamérica; algunas cuentas estaban registradas en China. “La idea es polarizar”, dijo. Algunos videos culpaban a Ottawa del conflicto comercial, mientras que otros señalaban a Washington."
-              },
-              {
-                "t": "p",
-                "x": "TikTok dijo que había prohibido de forma permanente las cuentas mencionadas en el informe, y Meta dijo que había eliminado las cuentas de Instagram implicadas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "china-ethnic-unity-law-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "중국 민족단결법은\nAI 집행에 기댄다",
-      "body": "중국 민족단결법은 삭제·경보에 AI를 쓰고 generative-AI도 규율한다.",
-      "mini_headline": "중국 민족단결법 뒤의 AI",
-      "tool": "Politics",
-      "source": "ChinaTalk",
-      "url": "https://www.chinatalk.media/p/the-role-of-ai-in-enforcing-chinas",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
-          },
-          {
-            "t": "p",
-            "x": "중국 “민족단결진보촉진법”이 시행된 지 넉 달이 지났다. Oliver Lopez는 AI가 감시·학습·생산 세 갈래로 이 법을 집행하게 된다고 본다. 이만큼 범위가 넓은 법은 현실적으로 AI가 아니면 감당하기 어려운 규모의 집행을 요구한다."
-          },
-          {
-            "t": "p",
-            "x": "감시의 근거는 민족 단결을 해치는 콘텐츠의 삭제·신고 의무를 정한 제31조와 제52조의 “조기경보” 체계다. 2023년부터 생성형 AI 서비스 관리 잠정조치는 모델 제공자에게 이런 콘텐츠의 차단·삭제와 모델 재학습을 의무로 지웠다."
-          },
-          {
-            "t": "p",
-            "x": "하지만 모델 여섯 개를 시험해 보니, 노골적인 프롬프트를 거부하는 비율이 소수민족 언어로 물을 때 급락했다. 카자흐어는 76.9%에서 32%로, 몽골어는 75.2%에서 25.6%로 떨어졌다. “이 법의 의무는 그것을 이행할 능력보다 먼저 도착했다.”"
-          },
-          {
-            "t": "p",
-            "x": "학습의 근거는 소수민족 언어의 디지털화를 규정한 제15조다. 생산은 이미 시작됐다. DeepSeek은 논쟁적인 민족 관련 질문에 중국어로는 답변의 49%에서 국가 입장을 내놓았지만, 영어로는 22%에 그쳤다."
-          }
-        ]
-      },
-      "text": {
         "en": {
-          "headline": "China's Ethnic Unity Law\nleans on AI enforcement",
-          "body": "China's Ethnic Unity Law leans on AI for content deletion and early warning, and extends to generative-AI providers.",
-          "mini_headline": "AI behind China's unity law",
+          "headline": "National Science AI Center\nto grow into science AI hub",
+          "body": "Deputy PM Bae Kyung-hoon said the government will support NAIS in becoming a science AI hub.",
+          "mini_headline": "Building a science AI hub",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, speaks at a 'meeting of industry, academic and research experts in science AI' held at the National Science AI Research Center in Yuseong-gu, Daejeon, on the 23rd. 2026.11.23"
               },
               {
                 "t": "p",
-                "x": "Four months after China’s “Law on Promoting Ethnic Unity and Progress” took effect, Oliver Lopez argues that AI will enforce it in three ways: policing, learning, and producing. A law this wide in scope demands enforcement on a scale only AI can realistically provide."
+                "x": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, said on the 23rd, “The government will give its full support so that the National Science AI Research Center (NAIS) takes root as the hub of Korea's science AI, serving as a base that links AI experts with domain scientists, and so that K-Moonshot, including the AI Scientist mission, can deliver meaningful results.”"
               },
               {
                 "t": "p",
-                "x": "Policing rests on Article 31’s duty to delete and report content undermining ethnic unity and on Article 52’s “early warning” systems. Since 2023, the Interim Measures for Generative AI Services have obliged model providers to stop and remove such content and retrain their models."
+                "x": "The Ministry of Science and ICT said Bae held a meeting that day with industry, academic and research experts in science artificial intelligence (AI) at the NAIS Daejeon center, discussing ways to link and pool national AI resources and the direction of the K-Moonshot AI Scientist mission."
               },
               {
                 "t": "p",
-                "x": "But in tests of six models, refusal of crude prompts collapsed when asked in minority languages: 76.9% to 32% in Kazakh, 75.2% to 25.6% in Mongolian. “The obligations of this law have arrived ahead of the ability to meet them.”"
+                "x": "NAIS was established this year as a hub that pools and supports, at the national level, the foundations of science AI research, including AI training data, computing, AI models and agents, and specialist personnel."
               },
               {
                 "t": "p",
-                "x": "Learning rests on Article 15’s digitalization of minority languages. Producing is already happening: DeepSeek answered contested ethnicity questions with the state’s position in 49% of Mandarin answers, against 22% in English."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "중국 민족단결법은\nAI 집행에 기댄다",
-          "body": "중국 민족단결법은 삭제·경보에 AI를 쓰고 generative-AI도 규율한다.",
-          "mini_headline": "중국 민족단결법 뒤의 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
+                "x": "At the meeting, NAIS director Yoo Yong-gyun presented 3 core missions: expanding and pooling science AI resources, building and operating an integrated science AI platform, and fostering a science AI ecosystem."
+              },
+              {
+                "t": "p",
+                "x": "He also explained that NAIS will work with the relevant government-funded research institutes in fields such as bio, nuclear fusion and nuclear energy to secure research data for AI training and support field-specific AI models and agents, leading a shift in how research is done."
+              },
+              {
+                "t": "p",
+                "x": "He also announced plans to run a pilot service of the integrated science AI platform within the year."
+              },
+              {
+                "t": "p",
+                "x": "Lim Sung-bin, program director (PD) of the AI Scientist mission, presented a mission roadmap to secure and link core technologies such as scientific reasoning, agent collaboration and connections to autonomous laboratories, so that every researcher can use AI scientists to transform the speed and scale of scientific discovery."
+              },
+              {
+                "t": "p",
+                "x": "He added that the mission will be advanced to the stage where AI autonomously carries out the full research cycle under human responsibility, and linked with other missions to speed up results in each field."
+              },
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, speaks at a 'meeting of industry, academic and research experts in science AI' held at the National Science AI Research Center in Yuseong-gu, Daejeon, on the 23rd. 2026.11.23"
               },
               {
                 "t": "p",
-                "x": "중국 “민족단결진보촉진법”이 시행된 지 넉 달이 지났다. Oliver Lopez는 AI가 감시·학습·생산 세 갈래로 이 법을 집행하게 된다고 본다. 이만큼 범위가 넓은 법은 현실적으로 AI가 아니면 감당하기 어려운 규모의 집행을 요구한다."
+                "x": "The open discussion covered securing computing resources dedicated to science AI, such as the 6th national supercomputer, setting up a standard framework for AI training data, and ways to produce high-quality research data linked with large research facilities and autonomous laboratories."
               },
               {
                 "t": "p",
-                "x": "감시의 근거는 민족 단결을 해치는 콘텐츠의 삭제·신고 의무를 정한 제31조와 제52조의 “조기경보” 체계다. 2023년부터 생성형 AI 서비스 관리 잠정조치는 모델 제공자에게 이런 콘텐츠의 차단·삭제와 모델 재학습을 의무로 지웠다."
-              },
-              {
-                "t": "p",
-                "x": "하지만 모델 여섯 개를 시험해 보니, 노골적인 프롬프트를 거부하는 비율이 소수민족 언어로 물을 때 급락했다. 카자흐어는 76.9%에서 32%로, 몽골어는 75.2%에서 25.6%로 떨어졌다. “이 법의 의무는 그것을 이행할 능력보다 먼저 도착했다.”"
-              },
-              {
-                "t": "p",
-                "x": "학습의 근거는 소수민족 언어의 디지털화를 규정한 제15조다. 생산은 이미 시작됐다. DeepSeek은 논쟁적인 민족 관련 질문에 중국어로는 답변의 49%에서 국가 입장을 내놓았지만, 영어로는 22%에 그쳤다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "中国の民族団結法\nAIによる執行に依拠",
-          "body": "中国の民族団結法は削除と早期警報をAIに頼り、generative-AI事業者にも及ぶ。",
-          "mini_headline": "中国の団結法を支えるAI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
-              },
-              {
-                "t": "p",
-                "x": "中国の「民族団結進歩促進法」の施行から四か月、Oliver Lopezは、AIが監視・学習・生産の三つの方法でこの法を執行すると論じる。これほど適用範囲の広い法律には、現実的にAIにしか担えない規模の執行が必要になる。"
-              },
-              {
-                "t": "p",
-                "x": "監視の根拠は、民族団結を損なうコンテンツの削除・通報義務を定めた第31条と、第52条の「早期警報」システムだ。2023年以降、「生成AIサービス管理暫定弁法」はモデル提供者に対し、こうしたコンテンツの停止・削除とモデルの再訓練を義務づけている。"
-              },
-              {
-                "t": "p",
-                "x": "しかし六つのモデルを試験したところ、露骨なプロンプトへの拒否率は少数民族の言語で尋ねると急落した。カザフ語では76.9%から32%に、モンゴル語では75.2%から25.6%に下がった。「この法律の義務は、それを果たす能力より先に到来した」"
-              },
-              {
-                "t": "p",
-                "x": "学習の根拠は、少数民族言語のデジタル化を定めた第15条だ。生産はすでに始まっている。DeepSeekは民族をめぐる論争的な質問に対し、中国語の回答の49%で国家の立場を示したが、英語では22%だった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "中国民族团结法\n倚重AI执法",
-          "body": "中国民族团结法依靠AI删除内容和预警，并延伸至generative-AI服务提供者。",
-          "mini_headline": "中国团结法背后的AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
-              },
-              {
-                "t": "p",
-                "x": "中国《民族团结进步促进法》施行四个月后，Oliver Lopez认为，AI将以三种方式执行这部法律：监控、学习和生产。一部范围如此广泛的法律，所需的执法规模现实中只有AI能够提供。"
-              },
-              {
-                "t": "p",
-                "x": "监控的依据是第31条规定的删除并报告破坏民族团结内容的义务，以及第52条的“预警”系统。自2023年起，《生成式人工智能服务管理暂行办法》要求模型提供者停止并删除此类内容，并重新训练模型。"
-              },
-              {
-                "t": "p",
-                "x": "但在对六个模型的测试中，用少数民族语言提问时，对粗暴提示词的拒绝率大幅下降：哈萨克语从76.9%降至32%，蒙古语从75.2%降至25.6%。“这部法律的义务，先于履行义务的能力到来。”"
-              },
-              {
-                "t": "p",
-                "x": "学习的依据是第15条关于少数民族语言数字化的规定。生产则已在发生：在有争议的民族问题上，DeepSeek以普通话作答时有49%采用国家立场，英语作答时则为22%。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La Ley de Unidad Étnica china\nse apoya en la AI para aplicarse",
-          "body": "La Ley de Unidad Étnica china usa la AI para borrar contenidos y alertar, y alcanza a proveedores de generative-AI.",
-          "mini_headline": "La AI tras la ley de unidad china",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
-              },
-              {
-                "t": "p",
-                "x": "Cuatro meses después de la entrada en vigor de la “Ley de Promoción de la Unidad y el Progreso Étnicos” de China, Oliver Lopez sostiene que la AI la hará cumplir de tres maneras: vigilancia, aprendizaje y producción. Una ley de tanto alcance exige una aplicación a una escala que, en la práctica, solo la AI puede ofrecer."
-              },
-              {
-                "t": "p",
-                "x": "La vigilancia se apoya en el deber del artículo 31 de eliminar y denunciar contenidos que socaven la unidad étnica y en los sistemas de “alerta temprana” del artículo 52. Desde 2023, las Medidas Provisionales para los Servicios de AI Generativa obligan a los proveedores de modelos a detener y eliminar dichos contenidos y a reentrenar sus modelos."
-              },
-              {
-                "t": "p",
-                "x": "Pero en pruebas con seis modelos, el rechazo de instrucciones burdas se desplomó al preguntar en lenguas minoritarias: del 76.9% al 32% en kazajo y del 75.2% al 25.6% en mongol. “Las obligaciones de esta ley han llegado antes que la capacidad de cumplirlas”."
-              },
-              {
-                "t": "p",
-                "x": "El aprendizaje se apoya en la digitalización de las lenguas minoritarias prevista en el artículo 15. La producción ya está ocurriendo: DeepSeek respondió a preguntas étnicas controvertidas con la postura del Estado en el 49% de las respuestas en mandarín, frente al 22% en inglés."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "중국 민족단결법은\nAI 집행에 기댄다",
-          "body": "중국 민족단결법은 삭제·경보에 AI를 쓰고 generative-AI도 규율한다.",
-          "mini_headline": "중국 민족단결법 뒤의 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
-              },
-              {
-                "t": "p",
-                "x": "중국의 “민족단결진보촉진법”이 시행된 지 넉 달이 지난 가운데, Oliver Lopez는 AI가 감시, 학습, 생산의 세 가지 방식으로 이 법을 집행할 것이라고 주장한다. 이처럼 범위가 넓은 법은 현실적으로 AI만이 감당할 수 있는 규모의 집행을 요구한다."
-              },
-              {
-                "t": "p",
-                "x": "감시는 민족 단결을 해치는 콘텐츠를 삭제하고 신고할 의무를 정한 제31조와 제52조의 “조기경보” 체계에 근거한다. 2023년부터 생성형 AI 서비스 관리 잠정조치는 모델 제공자에게 이런 콘텐츠를 차단·삭제하고 모델을 재학습하도록 의무화했다."
-              },
-              {
-                "t": "p",
-                "x": "그러나 여섯 개 모델을 시험한 결과, 노골적인 프롬프트에 대한 거부율은 소수민족 언어로 물으면 급락했다. 카자흐어에서는 76.9%에서 32%로, 몽골어에서는 75.2%에서 25.6%로 떨어졌다. “이 법의 의무는 그것을 이행할 능력보다 먼저 도착했다.”"
-              },
-              {
-                "t": "p",
-                "x": "학습은 소수민족 언어의 디지털화를 규정한 제15조에 근거한다. 생산은 이미 진행 중이다. DeepSeek은 논쟁적인 민족 관련 질문에 중국어 답변의 49%에서 국가 입장을 내놓았지만, 영어 답변에서는 22%였다."
+                "x": "“The era of the 'AI scientist,' in which AI goes beyond being a tool that assists research to form and test hypotheses together with scientists, is approaching,” Bae said. “Now that the research paradigm is fundamentally changing, to turn this change into a new opportunity for our science and technology, we must pool into one the national science AI capabilities scattered across data and computing, experimental infrastructure and specialist personnel, and make an all-out effort.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国の民族団結法\nAIによる執行に依拠",
-          "body": "中国の民族団結法は削除と早期警報をAIに頼り、generative-AI事業者にも及ぶ。",
-          "mini_headline": "中国の団結法を支えるAI",
+          "headline": "国家科学AIセンター\n科学AIハブに育成",
+          "body": "ペ・ギョンフン副首相は、NAISが科学AIハブとして定着するよう支援すると述べた。",
+          "mini_headline": "科学AIハブを育成",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "ペ・ギョンフン副首相兼科学技術情報通信相が23日、大田市儒城区の国家科学AI研究センターで開かれた「科学AI分野の産学研専門家懇談会」に出席し、発言している。2026.11.23"
               },
               {
                 "t": "p",
-                "x": "中国の「民族団結進歩促進法」の施行から四か月、Oliver Lopezは、AIが監視・学習・生産の三つの方法でこの法を執行すると論じる。これほど適用範囲の広い法律には、現実的にAIにしか担えない規模の執行が必要になる。"
+                "x": "ペ・ギョンフン副首相兼科学技術情報通信相は23日、「国家科学人工知能研究センター（NAIS）がAI専門家とドメイン科学者をつなぐ拠点として韓国の科学AIのハブに定着し、AI科学者ミッションをはじめK-ムーンショットが意味のある成果を出せるよう、政府も全面的に支援する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "監視の根拠は、民族団結を損なうコンテンツの削除・通報義務を定めた第31条と、第52条の「早期警報」システムだ。2023年以降、「生成AIサービス管理暫定弁法」はモデル提供者に対し、こうしたコンテンツの停止・削除とモデルの再訓練を義務づけている。"
+                "x": "科学技術情報通信部によると、ペ副首相はこの日、NAIS大田センターで科学人工知能（AI）分野の産学研専門家懇談会を開き、国家AI資源の連携・結集策とK-ムーンショットAI科学者ミッションの推進方向について議論した。"
               },
               {
                 "t": "p",
-                "x": "しかし六つのモデルを試験したところ、露骨なプロンプトへの拒否率は少数民族の言語で尋ねると急落した。カザフ語では76.9%から32%に、モンゴル語では75.2%から25.6%に下がった。「この法律の義務は、それを果たす能力より先に到来した」"
+                "x": "NAISは、AI学習用データ、コンピューティング、AIモデル・エージェント、専門人材など科学AI研究の基盤を国家レベルで結集・支援するハブとして今年設立された。"
               },
               {
                 "t": "p",
-                "x": "学習の根拠は、少数民族言語のデジタル化を定めた第15条だ。生産はすでに始まっている。DeepSeekは民族をめぐる論争的な質問に対し、中国語の回答の49%で国家の立場を示したが、英語では22%だった。"
+                "x": "懇談会でユ・ヨンギュンNAISセンター長は、科学AI資源の拡充・結集、科学AI統合プラットフォームの構築・運営、科学AIエコシステムの形成という3大任務を示した。"
+              },
+              {
+                "t": "p",
+                "x": "さらに、バイオ、核融合、原子力などの分野で関係する政府出資研究機関と協力してAI学習用の研究データを確保し、分野別の特化型AIモデル・エージェントを支援して研究手法の転換を主導すると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "年内に科学AI統合プラットフォームの試験サービスを運営する計画も明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "イム・ソンビンAI科学者ミッション・プログラムディレクター（PD）は、すべての研究者がAI科学者を活用して科学的発見のスピードと規模を革新できるよう、科学的推論、エージェント協業、自律実験室との接続などの中核技術を確保・連携するミッションのロードマップを発表した。"
+              },
+              {
+                "t": "p",
+                "x": "人間の責任の下でAIが研究の全サイクルを自律的に遂行する段階まで高度化し、ほかのミッションと連携して分野ごとの成果創出を加速するとも述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "ペ・ギョンフン副首相兼科学技術情報通信相が23日、大田市儒城区の国家科学AI研究センターで開かれた「科学AI分野の産学研専門家懇談会」に出席し、発言している。2026.11.23"
+              },
+              {
+                "t": "p",
+                "x": "自由討論では、スーパーコンピューター6号機など科学AI専用のコンピューティング資源の確保、AI学習用データの標準体系の整備、大型研究施設や自律実験室と連携した高品質な研究データの生産策などが議論された。"
+              },
+              {
+                "t": "p",
+                "x": "ペ副首相は「AIが研究を助ける道具を超え、科学者とともに仮説を立てて検証する『AI科学者』の時代が近づいている」とし、「研究パラダイムが根本から変わる今、この変化をわが国の科学技術の新たな機会とするには、データとコンピューティング、実験インフラと専門人材など各所に散らばる国家の科学AI能力を一つに結集し、総力を挙げなければならない」と呼びかけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国民族团结法\n倚重AI执法",
-          "body": "中国民族团结法依靠AI删除内容和预警，并延伸至generative-AI服务提供者。",
-          "mini_headline": "中国团结法背后的AI",
+          "headline": "国家科学AI中心\n打造为科学AI枢纽",
+          "body": "裴京勋副总理表示，政府将支持NAIS发展成为科学AI枢纽。",
+          "mini_headline": "打造科学AI枢纽",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "23日，副总理兼科学技术信息通信部长官裴京勋出席在大田儒城区国家科学AI研究中心举行的“科学AI领域产学研专家座谈会”并发言。2026.11.23"
               },
               {
                 "t": "p",
-                "x": "中国《民族团结进步促进法》施行四个月后，Oliver Lopez认为，AI将以三种方式执行这部法律：监控、学习和生产。一部范围如此广泛的法律，所需的执法规模现实中只有AI能够提供。"
+                "x": "副总理兼科学技术信息通信部长官裴京勋23日表示：“政府将全力支持，使国家科学人工智能研究中心（NAIS）作为连接AI专家与领域科学家的据点，成为韩国科学AI的枢纽，并使以AI科学家任务为代表的K-登月计划（K-Moonshot）取得有意义的成果。”"
               },
               {
                 "t": "p",
-                "x": "监控的依据是第31条规定的删除并报告破坏民族团结内容的义务，以及第52条的“预警”系统。自2023年起，《生成式人工智能服务管理暂行办法》要求模型提供者停止并删除此类内容，并重新训练模型。"
+                "x": "科学技术信息通信部表示，裴京勋当天在NAIS大田中心召开科学人工智能（AI）领域产学研专家座谈会，讨论了国家AI资源的联动与整合方案，以及K-登月计划AI科学家任务的推进方向。"
               },
               {
                 "t": "p",
-                "x": "但在对六个模型的测试中，用少数民族语言提问时，对粗暴提示词的拒绝率大幅下降：哈萨克语从76.9%降至32%，蒙古语从75.2%降至25.6%。“这部法律的义务，先于履行义务的能力到来。”"
+                "x": "NAIS于今年成立，是在国家层面整合并支持AI训练数据、算力、AI模型与智能体、专业人才等科学AI研究基础的枢纽。"
               },
               {
                 "t": "p",
-                "x": "学习的依据是第15条关于少数民族语言数字化的规定。生产则已在发生：在有争议的民族问题上，DeepSeek以普通话作答时有49%采用国家立场，英语作答时则为22%。"
+                "x": "座谈会上，NAIS中心主任柳容均提出了扩充与整合科学AI资源、建设与运营科学AI综合平台、营造科学AI生态系统等3大任务。"
+              },
+              {
+                "t": "p",
+                "x": "他还表示，将在生物、核聚变、核能等领域与相关政府出资研究机构合作，获取AI训练用研究数据，支持各领域专用AI模型与智能体，引领研究方式转型。"
+              },
+              {
+                "t": "p",
+                "x": "他还公布了年内试运营科学AI综合平台服务的计划。"
+              },
+              {
+                "t": "p",
+                "x": "AI科学家任务项目总监（PD）林成彬发布了任务路线图，提出确保并衔接科学推理、智能体协作、自主实验室连接等核心技术，使所有研究人员都能借助AI科学家革新科学发现的速度与规模。"
+              },
+              {
+                "t": "p",
+                "x": "他还表示，将把技术提升到在人类负责的前提下由AI自主完成研究全周期的阶段，并与其他任务联动，加快各领域成果的产出。"
+              },
+              {
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "23日，副总理兼科学技术信息通信部长官裴京勋出席在大田儒城区国家科学AI研究中心举行的“科学AI领域产学研专家座谈会”并发言。2026.11.23"
+              },
+              {
+                "t": "p",
+                "x": "自由讨论环节探讨了确保超级计算机6号机等科学AI专用算力资源、建立AI训练数据标准体系，以及与大型研究设施和自主实验室联动生产高质量研究数据的方案等。"
+              },
+              {
+                "t": "p",
+                "x": "裴京勋表示：“AI不再只是辅助研究的工具，而是与科学家一起提出并验证假设的‘AI科学家’时代正在到来。”他强调：“在研究范式发生根本性变化的当下，要把这一变化变成我国科学技术的新机遇，就必须把分散在数据与算力、实验基础设施与专业人才等各处的国家科学AI能力整合为一，全力以赴。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Ley de Unidad Étnica china\nse apoya en la AI para aplicarse",
-          "body": "La Ley de Unidad Étnica china usa la AI para borrar contenidos y alertar, y alcanza a proveedores de generative-AI.",
-          "mini_headline": "La AI tras la ley de unidad china",
+          "headline": "El centro nacional de ciencia AI\nserá un eje de AI científica",
+          "body": "El viceprimer ministro Bae Kyung-hoon anunció apoyo para que NAIS se consolide como eje de la AI científica.",
+          "mini_headline": "Un eje de AI para la ciencia",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, interviene el día 23 en la 'reunión de expertos de la industria, la academia y la investigación en AI científica', celebrada en el Centro Nacional de Investigación en AI Científica, en Yuseong-gu, Daejeon. 2026.11.23"
               },
               {
                 "t": "p",
-                "x": "Cuatro meses después de la entrada en vigor de la “Ley de Promoción de la Unidad y el Progreso Étnicos” de China, Oliver Lopez sostiene que la AI la hará cumplir de tres maneras: vigilancia, aprendizaje y producción. Una ley de tanto alcance exige una aplicación a una escala que, en la práctica, solo la AI puede ofrecer."
+                "x": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, afirmó el día 23: “El Gobierno también dará todo su apoyo para que el Centro Nacional de Investigación en Inteligencia Artificial Científica (NAIS) se consolide como el eje de la AI científica de Corea, como punto de unión entre expertos en AI y científicos de cada dominio, y para que K-Moonshot, empezando por la misión AI Scientist, logre resultados significativos”."
               },
               {
                 "t": "p",
-                "x": "La vigilancia se apoya en el deber del artículo 31 de eliminar y denunciar contenidos que socaven la unidad étnica y en los sistemas de “alerta temprana” del artículo 52. Desde 2023, las Medidas Provisionales para los Servicios de AI Generativa obligan a los proveedores de modelos a detener y eliminar dichos contenidos y a reentrenar sus modelos."
+                "x": "El Ministerio de Ciencia y TIC informó de que Bae celebró ese día en el centro de NAIS en Daejeon una reunión con expertos de la industria, la academia y la investigación en inteligencia artificial (AI) científica, en la que se debatieron fórmulas para conectar y concentrar los recursos nacionales de AI y la orientación de la misión AI Scientist de K-Moonshot."
               },
               {
                 "t": "p",
-                "x": "Pero en pruebas con seis modelos, el rechazo de instrucciones burdas se desplomó al preguntar en lenguas minoritarias: del 76.9% al 32% en kazajo y del 75.2% al 25.6% en mongol. “Las obligaciones de esta ley han llegado antes que la capacidad de cumplirlas”."
+                "x": "NAIS se creó este año como un eje que concentra y apoya a escala nacional la base de la investigación en AI científica, incluidos los datos de entrenamiento de AI, la computación, los modelos y agentes de AI y el personal especializado."
               },
               {
                 "t": "p",
-                "x": "El aprendizaje se apoya en la digitalización de las lenguas minoritarias prevista en el artículo 15. La producción ya está ocurriendo: DeepSeek respondió a preguntas étnicas controvertidas con la postura del Estado en el 49% de las respuestas en mandarín, frente al 22% en inglés."
+                "x": "En la reunión, el director de NAIS, Yoo Yong-gyun, presentó 3 misiones principales: ampliar y concentrar los recursos de AI científica, construir y operar una plataforma integrada de AI científica y crear un ecosistema de AI científica."
+              },
+              {
+                "t": "p",
+                "x": "También explicó que, en campos como la biotecnología, la fusión nuclear y la energía nuclear, colaborarán con los institutos públicos de investigación correspondientes para obtener datos de investigación para entrenar AI y apoyar modelos y agentes de AI especializados por campo, impulsando un cambio en la forma de investigar."
+              },
+              {
+                "t": "p",
+                "x": "Además, anunció el plan de poner en marcha antes de fin de año un servicio piloto de la plataforma integrada de AI científica."
+              },
+              {
+                "t": "p",
+                "x": "Lim Sung-bin, director del programa (PD) de la misión AI Scientist, presentó la hoja de ruta de la misión para obtener y conectar tecnologías clave como el razonamiento científico, la colaboración entre agentes y la conexión con laboratorios autónomos, de modo que todos los investigadores puedan usar científicos de AI para transformar la velocidad y la escala de los descubrimientos científicos."
+              },
+              {
+                "t": "p",
+                "x": "Añadió que se avanzará hasta la etapa en que la AI realice de forma autónoma todo el ciclo de investigación bajo responsabilidad humana, y que se coordinará con otras misiones para acelerar los resultados en cada campo."
+              },
+              {
+                "t": "img",
+                "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, interviene el día 23 en la 'reunión de expertos de la industria, la academia y la investigación en AI científica', celebrada en el Centro Nacional de Investigación en AI Científica, en Yuseong-gu, Daejeon. 2026.11.23"
+              },
+              {
+                "t": "p",
+                "x": "En el debate abierto se abordaron la obtención de recursos de computación dedicados a la AI científica, como el superordenador número 6, la creación de un sistema de estándares para los datos de entrenamiento de AI y fórmulas para producir datos de investigación de alta calidad vinculados a grandes instalaciones de investigación y laboratorios autónomos."
+              },
+              {
+                "t": "p",
+                "x": "“Se acerca la era del 'científico de AI', en la que la AI va más allá de ser una herramienta de apoyo a la investigación para formular y verificar hipótesis junto a los científicos”, dijo Bae. “Ahora que el paradigma de la investigación cambia de raíz, para convertir este cambio en una nueva oportunidad para nuestra ciencia y tecnología debemos reunir en uno solo las capacidades nacionales de AI científica dispersas en datos y computación, infraestructura experimental y personal especializado, y volcar en ello todos nuestros esfuerzos”."
               }
             ]
           }

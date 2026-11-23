@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "science",
   "items": [
     {
-      "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
-      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
-      "source": "Phys.org",
-      "category": "astronomy",
+      "title": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "source": "MIT News",
+      "category": "cognition",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Freshest item (11-22): an AI surrogate predicts supernova gas evolution so a star-by-star Milky Way simulation spanning three supercomputers can take longer time steps and run ~20x faster.",
-      "published_iso": "2026-11-22T09:00:01-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-      "excerpt": "University of Tokyo/RIKEN (Keiya Hirashima) simulated the Milky Way star by star across three supercomputers, using an AI model to predict supernova gas evolution so the galaxy simulation takes longer time steps and runs ~20x faster (SC 2026)."
+      "rationale": "Freshest, highest-credibility cognition result (MIT McGovern, Nature): a multilingual AI model used to compare brain responses across speakers of 21 languages suggests meaning is represented the same way regardless of language.",
+      "published_iso": "2026-11-23T21:15:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/mit-mcgovern-languages.jpg",
+      "excerpt": "MIT McGovern (Nature): analyzing speakers of 21 languages with a multilingual AI model, the study finds the human brain may represent meaning in much the same way across languages. Note: brain-model alignment angle (deprioritized)."
     },
     {
-      "title": "Putting Google's AI hurricane model to the test",
-      "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
-      "source": "Phys.org",
-      "category": "earth_science",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "source": "MIT News",
+      "category": "research_automation",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Independent evaluation, not a vendor claim: across 385 tropical cyclones Google's WeatherNext Cyclone beat NOAA's model on 1-5 day intensity and matched human forecasters, but underestimated strength and gave too-narrow uncertainty.",
-      "published_iso": "2026-11-19T19:40:00-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-      "excerpt": "UAlbany study of 385 tropical cyclones (Geophysical Research Letters) finds Google's WeatherNext Cyclone beat NOAA's hurricane model on intensity at 1-5 days and matched human forecasters, but underestimated strength and gave too-narrow uncertainty ranges."
+      "rationale": "New method, concrete claim: MIT's SLIC training lets a small generative model design analog integrated circuits as well as or better than frontier LLMs, cutting cost of a hard engineering-design task.",
+      "published_iso": "2026-11-23T05:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-AnalogOptimize-01-Press.jpg",
+      "excerpt": "MIT SLIC training teaches a small generative model to design analog integrated circuits as well as or better than frontier LLMs. Engineering-design angle; may fit gadgets better."
     },
     {
-      "title": "AI guardrails falter as tampering drives repeated harassment in simulated conversations",
-      "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
-      "source": "Tech Xplore",
-      "category": "psychology",
+      "title": "Machine learning-driven regulation of the four-electron LiOH pathway in lithium-oxygen batteries with prolonged cycling",
+      "url": "https://www.nature.com/articles/s41467-026-79335-6",
+      "source": "Nature Communications",
+      "category": "materials",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Behavioral-science result with hard numbers: toxic memory, planning prompts or fine-tuning pushed multi-turn harassment rates in Gemini, Llama, Qwen and DeepSeek agents as high as 97%, escalating over turns (ICWSM).",
-      "published_iso": "2026-11-20T10:20:00-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-      "excerpt": "Georgia State, Georgia Tech and UC Berkeley tested Gemini, Llama, Qwen and DeepSeek agents in multi-turn simulated chats; toxic memory, planning prompts or fine-tuning pushed harassment rates as high as 97% and hostility escalated over turns (ICWSM)."
+      "rationale": "Primary-source materials result with hard numbers: ML picked a Ni-Co dual-atom catalyst steering Li-O2 batteries to a four-electron LiOH pathway, ~60,000 mAh/g capacity and 2,000+ stable cycles.",
+      "published_iso": "2026-11-18T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+      "excerpt": "Authors use machine learning to identify a Ni-Co dual-atom catalyst that promotes a four-electron LiOH pathway in Li-O2 batteries, reaching ~60,000 mAh/g capacity and over 2,000 stable cycles."
     },
     {
-      "title": "Collisionality scaling of the tokamak density limit",
-      "url": "https://arxiv.org/abs/2611.21899",
-      "source": "arXiv",
-      "category": "physics",
+      "title": "One in four students turn to AI for mental health support",
+      "url": "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html",
+      "source": "Medical Xpress",
+      "category": "psychology",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Fusion physics primary source: ML-guided analysis of a five-machine tokamak database (C-Mod, ASDEX Upgrade, DIII-D, JET, TCV) finds a common edge-collisionality threshold for density-limit disruptions with far fewer false positives than the Greenwald limit.",
-      "published_iso": "2026-11-16T21:12:37Z",
-      "og_image": null,
-      "excerpt": "MIT PSFC-led team (Maris, Rea et al.) used machine-learning-guided analysis of a multi-machine database (C-Mod, ASDEX Upgrade, DIII-D, JET, TCV) to find a common edge-collisionality threshold for density-limit disruptions with far fewer false positives than the Greenwald limit."
+      "rationale": "Fresh psychology survey (Bath, JMIR Mental Health, n=2,020): about one in four UK students used generative AI for mental-health support in six months, most among those with very low well-being — a behavioral finding, not a clinical one.",
+      "published_iso": "2026-11-23T14:20:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+      "excerpt": "University of Bath (JMIR Mental Health): survey of 2,020 UK students finds about one in four used generative AI for mental-health support in six months, highest among those with very low well-being. Cross-sectional survey (attitude-survey caveat)."
     },
     {
-      "title": "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour",
-      "url": "https://arxiv.org/abs/2611.16667",
-      "source": "arXiv",
-      "category": "psychology",
+      "title": "Neural networks that behave identically reveal hidden structural differences as they learn",
+      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html",
+      "source": "Tech Xplore",
+      "category": "cognition",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Controlled behavioral experiment with a sharp split between attitude and action: participants rated an LLM advisor more rational, trustworthy, convincing (and sycophantic) than a human advisor, yet incentivised donation decisions did not change.",
-      "published_iso": "2026-11-12T11:42:54Z",
+      "rationale": "NeurIPS 2026 oral (Technion): RNNs with identical behavior hide structural differences that surface only when learning a new task — and the paper proposes tests for the same effect in biological circuits.",
+      "published_iso": "2026-11-17T12:00:00Z",
       "og_image": null,
-      "excerpt": "Maier, Lieder, Cheung et al. ran a donation-decision experiment where participants chatted with an LLM advisor, a human, or no one: LLM advisors were judged more rational, trustworthy, convincing and sycophantic, yet donations did not differ across conditions."
+      "excerpt": "Technion (arXiv 2605.04115, NeurIPS 2026 oral): RNNs with identical behavior carry hidden structural differences that surface only when learning a new task and retain traces of past training; proposes tests for biological circuits."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html": {
+      "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123": {
+        "verdict": "new",
+        "nearest": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+        "new_action": ""
+      },
+      "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-google-ai-hurricane.html": {
+      "https://www.nature.com/articles/s41467-026-79335-6": {
         "verdict": "new",
-        "nearest": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+        "nearest": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html": {
+      "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html",
+        "nearest": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2611.21899": {
+      "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://arxiv.org/abs/2611.16667": {
-        "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
+        "nearest": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
         "new_action": ""
       }
     },
-    "note": "RE-PICK: removed MIT News 'New AI copilot helps engineers design better structures' (news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113) - already published in the design section on 2026-11-14 (cross-section duplicate, earliest-wins). Replacement: arXiv 2611.16667 'People prefer AI to human advice in multi-turn conversations' - no history_match; closest science history items (11-08 Tech Xplore sycophancy study, 11-09 EurekAlert 'ChatGPT at work / boss trust', 10-30 fluent-hallucination credibility) are different experiments, so verdict new. Replacement alternatives rejected: Phys.org plastic pyrolysis (would make 3 Phys.org cards, over the 2-per-outlet cap); NMI lab-autonomy (Perspective/opinion, lab-autonomy already heavily covered 10-27/11-07/11-21); Nature Comms cryoPARES (life-science structural biology, kept clear of the protein-design classifier zone). Earlier drops stand: (1) SciAm Riemann independent-verification - likely-repeat of the 11-21 SciAm Riemann card (reaction/extra reporting, no new formal release). (2) IPD RFD4-Proteina - follow-up of 10-24 GEN Nvidia/IPD card and excluded by brief. (3) SingularityHub AI-designed CRISPR rice - likely-repeat of 10-29 phys.org rice card and excluded by brief. Diversity: Phys.org 2, arXiv 2, Tech Xplore 1 (3 outlets); categories astronomy/earth_science/psychology x2/physics; second psychology card given distinct accent #eb367f. Note: both arXiv picks have og_image null - ax-media must source images. Orchestrator should exact-grep the replacement URL in published_urls.json before roll."
+    "note": "Dropped: Singularity Hub AI-designed CRISPR rice (likely-repeat of the 2026-10-29 phys.org rice/OpenCRISPR story, and excluded by the run brief for safety). Dropped Quantum Computing Report 'QEC engineer might be a bot' (GQI analysis, no new result; running AI-for-QEC theme already covered on 10-30/11-03). Skipped Phys.org isSPA-vesicle (cryo-EM of influenza hemagglutinin and coronavirus spike; viral-protein structure work, avoided per the biosecurity-classifier precedent). Lower-ranked and not picked: MIT Tech Review philosopher-on-Anthropic-consciousness (commentary), Amazon leaf dynamics (deprioritized ecology, no image), vitamin C sensor, ChatGPT Mandarin questionnaire translation, AI interview-theme coding. The neural-networks pick's history_match (11-07 fractal limits to AI predictability) is a different study (Technion RNN representational structure vs. predictability limits) - new. The students item is a different study from medicine's 11-21 JAMA emotional-support AI piece; it doesn't appear in today's medicine pool. Diversity: 4 outlets (MIT News x2, Nature Communications, Medical Xpress, Tech Xplore); categories cognition x2, research_automation, materials, psychology."
   }
 }

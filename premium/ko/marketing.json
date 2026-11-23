@@ -5966,6 +5966,126 @@
           "x": "Google은 상품 순위를 어떻게 매기는지, 결제를 누가 처리하는지, 이 흐름에 광고가 붙을지 밝히지 않았다. 목록에 Walmart는 없다."
         }
       ]
+    },
+    "marketing/higgsfield-playable-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield가 AI로 인터랙티브 광고를 만드는 기업 전용 워크플로 playable ads를 새로 내놨다. 개발자가 게임 메커닉을 설명하고 장르와 화면 규격을 고른 다음 크리에이티브 에셋(스프라이트, 텍스처, 효과음 등 최대 100개)을 넣으면 수동 또는 자동 모드로 플레이할 수 있는 경험이 만들어진다."
+        },
+        {
+          "t": "video",
+          "yt": "PG0UVcWVNl0"
+        },
+        {
+          "t": "p",
+          "x": "완성본은 최대 5 MB 크기의 단일 .html 파일로 내보내 AppLovin, Meta, Google App Campaigns, Unity Ads, Pangle(TikTok) 같은 네트워크에 올릴 수 있다. Higgsfield 기술 스태프 Zhangir Yergaliyev는 \"편집할 수 있고, 에이전트에게 게임의 어떤 부분이든 바꿔 달라고 요청할 수 있다. 퍼포먼스 마케팅에서는 게임 변형 수백 개를 쉽게 테스트할 수 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "스튜디오들이 복제와 법적 문제를 걱정하자 Higgsfield는 App Store와 Google Play 링크를 가져오는 기능을 뺐다. 회사 설명으로는 플레이어블 광고 하나를 손으로 만들면 평균 닷새, 약 $5,000가 들었다. 이 도구로는 첫 버전까지 약 40분이 걸리고 비용은 광고당 $30에서 $40 수준으로 추산된다. 플레이어블 광고 팀은 10명이 채 안 되며 첫 버전을 두 주 만에 만들었다."
+        }
+      ]
+    },
+    "marketing/pinterest-msads-inventory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+          "cap": "Pinterest는 피드와 검색 광고 지면을 Microsoft Advertising으로 팔되 유럽은 제외했다"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest가 조건을 갖춘 Microsoft Advertising 캠페인을 홈 피드, 검색 결과, 관련 Pins에 내보낼 수 있는 연동을 발표했다. 게재 위치는 \"맞춤형 맥락 입찰 모델\"이 정하고 새 구매 도구는 따로 필요 없다. 북미, 호주, 뉴질랜드에서 \"우선\" 시작하며 유럽은 빠진다. 출시일, 가격, 대상 조건 목록, 광고 형식, 캠페인 성과는 발표에 담기지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "이 모델은 Pinterest 검색 쿼리와 맥락 신호, Pinterest가 Pinterest Intelligence라 부르는 체계의 퍼스트파티 의도 데이터를 쓴다. 수요는 Bing, MSN, Xbox, Outlook 등 Microsoft 자산에서 온다. Pinterest가 내세우는 숫자는 월간 활성 이용자 661 million 명, 월간 검색 80 billion 건이다. Amazon(2023), Google(2024), Index Exchange와 Criteo, Programmatic Deals(2026년 10월 26일)에 이은 개방이다. Microsoft는 2026년 2월 자체 DSP인 Microsoft Invest를 접었다."
+        }
+      ]
+    },
+    "marketing/chatgpt-shopping-partnership-doc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 Shopping with ChatGPT Search 도움말 문서에서 \"상품 결과는 ChatGPT가 독립적으로 선택하며 광고가 아니고, 어떤 OpenAI 제휴의 영향도 받지 않는다\"는 문장을 고쳤다. 지금은 \"상품 결과는 광고가 아니다. 상품과 판매자를 선정하는 방식은 아래에 설명한다\"라고만 적혀 있다. OpenAI 제휴와 무관하고 그 영향도 받지 않는다는 고지가 사라진 셈이다."
+        },
+        {
+          "t": "p",
+          "x": "현재 도움말 문서를 과거 보관본과 비교하면 바뀐 부분이 보인다. 두 문서의 diff는 다음과 같다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+          "cap": "Chatgpt Products Doc Diff(ChatGPT 상품 문서 비교)"
+        },
+        {
+          "t": "p",
+          "x": "문서치고는 꽤 큰 변화 같다. 그렇지 않은가?"
+        },
+        {
+          "t": "p",
+          "x": "Juozas Kaziukėnas가 X에 올린 글을 보고 이 변화를 알게 됐다. 그는 \"ChatGPT 쇼핑 도움말 페이지는 더 이상 상품 결과가 어떤 OpenAI 제휴의 영향도 받지 않는다(NOT)고 말하지 않는다\"고 썼다. 그가 이 변경을 찾은 곳은 aivisibilityjournal.com이다."
+        }
+      ]
+    },
+    "marketing/organicity-d2c-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’, ‘PDRN 2500ppm’. 스킨케어 브랜드 ‘오가니시티’는 주요 성분과 함량을 제품명에 내세웁니다. 성분을 찾는 사람은 제품을 쉽게 발견하지만, 어떤 성분을 써야 하는지 모르는 사람에게는 장벽이 됩니다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+          "cap": "지난 11일 서울 동대문구에서 만난 송보경 위튼컴퍼니 대표 (출처=바이라인네트워크)"
+        },
+        {
+          "t": "p",
+          "x": "오가니시티는 올해 카페24 기반 자사몰을 구축하고 성분사전, 피부 고민별 제품 탐색, 인공지능(AI) 상담 세 가지 기능을 마련했습니다. 송 대표는 “실제 고객 상담에서는 어떤 제품을 선택해야 하는지뿐 아니라, 다른 제품과 함께 사용해도 되는지, 아침과 저녁 중 언제 사용하는 것이 적절한지 등의 질문이 반복적으로 발생한다”고 설명했습니다. 이렇게 사람이 답했던 질문을 AI가 대신 답합니다."
+        },
+        {
+          "t": "p",
+          "x": "오가니시티는 기술기업 아티웰스와 협력해 네이버 스마트스토어에 쌓인 약 6만 건의 리뷰와 고객 상담 데이터를 AI가 활용할 수 있는 형태로 가공하고, 자체 보유한 성분·제품 정보와 결합했습니다. 고객의 질문에 맞춰 제품 조합과 사용 방법까지 안내합니다."
+        },
+        {
+          "t": "p",
+          "x": "회사의 매출은 2024년 약 4억9800만원에서 2025년 약 16억7800만원으로 늘었습니다. 운영한 지 몇달 되지 않은 자사몰 매출은 스마트스토어 매출의 약 30% 수준까지 높아졌습니다."
+        }
+      ]
+    },
+    "marketing/amazon-brandstore-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+          "cap": "Amazon은 새 Brand Store 페이지 앞에 예시 프롬프트 6개를 띄운 AI 에이전트를 세웠다."
+        },
+        {
+          "t": "p",
+          "x": "Amazon Store builder에서 Add page를 누르면 이제 Brand Store Builder Agent 창이 새로 열린다. 브랜드는 미리 써 둔 프롬프트 6개 중 하나를 고르거나 지시를 직접 쓰면 되고, Brand Registry 상태는 \"Approved\"여야 한다."
+        },
+        {
+          "t": "p",
+          "x": "대화는 어떤 언어로 해도 되지만 Store 콘텐츠는 해당 마켓플레이스의 기본 언어로 만들어진다. 프랑스어로 대화하며 U.S. Store를 만들어도 결과물은 영어로 나온다. 에이전트가 결과물을 Stores 콘텐츠 정책에 맞춰 점검하는지는 Amazon 도움말 페이지에 나와 있지 않다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트를 건너뛰려는 브랜드는 \"Add page without AI Assistance\" 링크로 수동 템플릿을 쓰면 된다. 템플릿은 Marquee, Product highlight, Product grid(제품 4개에서 60개까지), Blank가 있다. 섹션은 한 페이지에 최대 20개까지 넣는다. 심사는 \"보통 24시간 안에 끝나지만\" 영업일 기준 최대 3일까지 걸리기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "별개로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 할인 중인 제품을 최대 30개까지 보여 주는 탭인데, 어떤 제품을 어떤 순서로 올릴지는 Amazon이 정한다. Amazon은 \"All Deals 페이지를 대신 만들고 업데이트한다\"고 설명한다. 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
+        }
+      ]
     }
   }
 }

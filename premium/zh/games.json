@@ -12298,6 +12298,155 @@
           "x": "为UE6打造的AI工具正回流到UE5，首先是UE 5.9 MegaJam Preview：扩展的Python脚本、Model Context Protocol（MCP）改进、作为目标平台的Web，以及用于生成资产的Unreal Canvas。“UE 5.9的大部分是我们借助AI智能体完成的，包括大部分Web平台工作。”"
         }
       ]
+    },
+    "games/slotbound-ai-solo-hit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6j0w7Q2Q_LM"
+        },
+        {
+          "t": "p",
+          "x": "《Slotbound》是由Optima Arch开发并发行的Roguelite自动战斗塔防游戏，玩家通过转动老虎机召唤单位、抵御一波波敌人。在3×3的老虎机格子上连成一线即可召唤单位，并通过融合与强化提升等级和职阶。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+        },
+        {
+          "t": "p",
+          "x": "“核心”“精髓”、随机“特性”以及通过单位“吸收”实现的技能继承等，让游戏不只靠运气，策略性也很高。玩家评价称“本以为是拼运气的游戏，其实不只是运气”“找不到停下来的时机，总想着再玩1次……”。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+          "cap": "把中间那条线往下拉，王冠就连上了。"
+        },
+        {
+          "t": "p",
+          "x": "本作由Optima Arch独自1人开发。据介绍，开发者在开始开发前几乎没有编程或游戏开发经验，借助AI编程工具，用了约8个月便发布了本作。游戏系统、平衡调整和UI等则由开发者亲自打磨，让它作为游戏足够好玩。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+        },
+        {
+          "t": "p",
+          "x": "本作发售3天销量突破10万份，6天突破20万份。目前收录全部6个关卡和无尽模式，今后将根据反馈继续修复问题、调整平衡并追加新内容。现已在PC（Steam）平台发售。"
+        }
+      ]
+    },
+    "games/tinybuild-short-reveal-window": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "“我认为未来半年最大的话题将是上市时间，以及开发者如今多么害怕AI抄袭他们的游戏。”Tinybuild负责人Alex Nichiporchik说。生成式AI让抄袭开发中的作品变得更容易，例如对试玩版代码进行逆向工程；Needle in a Haystack Simulator的一段视频在X上播放量超过5000万次后，Steam上出现了多款模仿作品。"
+        },
+        {
+          "t": "p",
+          "x": "新的共识是把公布与发售之间的间隔压到最短。Probably Stolen于8月3日公布、10月28日发售，销量已超过百万份，首发CCU攀升至80,000以上。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Probably Stolen于10月28日发售，距公布约三个月"
+        },
+        {
+          "t": "p",
+          "x": "Nichiporchik表示，REA（Reverse Engineer Anything）这一工具让克隆问题严重得多：“尤其是Unity游戏，几乎一次就能提取出源代码。”不过他认为开发者不必害怕：“AI会成倍放大你的技能，而零乘以一千仍然是零。”游戏手感是无法复制的。"
+        },
+        {
+          "t": "p",
+          "x": "该游戏在中国也大受欢迎：246,000次试玩激活中有51%来自中国，定价为55元（$8.25），而在美国（US）为$19.99。"
+        }
+      ]
+    },
+    "games/automaton-steam-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一份报告发布，以Steam评论数推算游戏销量，统计分析了披露AI使用会对销量产生怎样的影响。分析对象为2025年1月至2026年10月发售的3万1003款游戏，其中约百分之三十、即9251款披露了AI的使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+        },
+        {
+          "t": "p",
+          "x": "推算销量的中位数，未披露AI使用的游戏为200份，披露的游戏为71份。在统一条件的推算模型中，披露AI使用的游戏评论数预计也会减少49.5%。不过，这并不代表因果关系。"
+        },
+        {
+          "t": "p",
+          "x": "从商店页面上线到发售的时间中位数，未披露游戏为167天，披露游戏为52天。发售当天的关注者数量也是20人对6人。Burton表示\"问题的本质或许不在于AI\"，并指出这类游戏多为首部作品，既没有发行商也没有粉丝群，准备时间也不足，处于\"失败模式\"之中。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+        },
+        {
+          "t": "p",
+          "x": "另一方面，他也表示注明AI使用的\"惩罚\"可能在发售前就已出现，无法断定准备不足与回避AI哪一种解释正确，两者无法区分开来。"
+        }
+      ]
+    },
+    "games/chesscom-classic-hub-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Chess.com正在其全新的Classic Games平台上再增加10款游戏——双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌接龙、象棋，以及一款名为word的Scrabble替代游戏。该平台将在网页端和全新的iOS与Android应用上开启公测。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Classic Games拥有与Chess.com相同的机器人，包括Martin。"
+        },
+        {
+          "t": "p",
+          "x": "AI在帮助Chess.com以仅有几人的团队在数月内推出11款新游戏方面发挥了关键作用。首席增长官Albert Cheng表示，他们采用了与Gambit“几乎完全相同的方法”，由AI帮助加快编码。“由于这些游戏构建在Chess.com的代码库、设计系统、机器人角色和等级分系统之上，这是巨大的优势，让我们能借助AI非常快速地推进。”"
+        },
+        {
+          "t": "p",
+          "x": "Cheng表示，Classic Games的美术和设计没有使用AI。“它的外观和手感都由人类精心打造，我们为此感到自豪。”他补充说，在美术和设计方面，“我们正在招聘更多这类人才。”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Classic Games上的多人游戏带有聊天侧边栏。"
+        }
+      ]
+    },
+    "games/isaac-repentance-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+          "cap": "The Binding of Isaac: Repentance Plus"
+        },
+        {
+          "t": "p",
+          "x": "The Binding of Isaac: Repentance Plus被发现游戏中某个段落使用了AI音乐，过去几天在Steam上遭到差评轰炸。Reddit用户ShweetsStuff发现了Grand Theft Auto-themed段落中使用的歌曲。他们找到了几个带有Suno元数据的音频文件，这些元数据指向Suno网站上的曲目。"
+        },
+        {
+          "t": "p",
+          "x": "创作者Edmund McMillen在X上致歉，称他“完全不知道”游戏内的GTA恶搞段落使用了生成式AI音乐。让事态更复杂的是，Valve要求开发者披露在开发过程中如何以及何时使用生成式AI，而Repentance Plus背后的工作室Nicalis, Inc.似乎没有在任何地方提及这些AI音乐。"
+        },
+        {
+          "t": "p",
+          "x": "发现后数小时内，Nicalis便在X上表示，Repentance Plus已完成更新，生成的音乐文件已被移除。尽管Steam上的评价尚未回升，游戏仍为“差评如潮”，但X上的用户似乎愿意相信McMillen，可能是因为他对游戏开发中的AI向来直言不讳，曾在2024年的TikTok视频中称其“毫无灵感、平淡无味”。"
+        }
+      ]
     }
   }
 }

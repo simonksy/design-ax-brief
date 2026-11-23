@@ -7347,6 +7347,192 @@
           "x": "The committees say personnel associated with the 1st Bureau of the PLA Cyberspace Force were present on multiple occasions at Zhipu's Beijing headquarters, most recently in August 2026, and that PLA procurement records show DeepSeek, Alibaba's Qwen, Moonshot and MiniMax models being built into military cyber operations. Documents produced to the committees show these same model families running inside major American companies."
         }
       ]
+    },
+    "politics/grok-spacex-states-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+          "cap": "Credit: NurPhoto / Contributor | NurPhoto"
+        },
+        {
+          "t": "p",
+          "x": "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children. SpaceX acquired xAI in February and now must handle the ongoing reckoning over Grok's “spicy mode,” which was found to generate a flood of non-consensual intimate imagery (NCII) and child sex abuse images (CSAM)."
+        },
+        {
+          "t": "p",
+          "x": "State attorneys general alleged that the companies' statements about added safeguards were “misleading” and that Grok continues to generate NCII and CSAM today, even advising users how to circumvent its own moderation. They also alleged the X Safety team responsible for Grok red-teaming was reduced to two or three members."
+        },
+        {
+          "t": "p",
+          "x": "“xAI not only knowingly endangered kids and our communities, but they also lied to our faces about non-existent safety measures,” Oregon Attorney General Dan Rayfield said."
+        },
+        {
+          "t": "p",
+          "x": "SpaceXSI pointed to an X Safety post saying it has a “zero-tolerance” policy, uses classifiers that “screen every prompt” and check every output, and reports offenders to law enforcement."
+        },
+        {
+          "t": "p",
+          "x": "The states seek an injunction, civil penalties per violation and disgorgement of ill-gotten gains. Virginia's complaint cites about 6.4 million X accounts linked to the state and 986,624 Grok app downloads."
+        }
+      ]
+    },
+    "politics/hochul-ai-warning-veto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+          "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "New York Gov. Kathy Hochul has vetoed a bill that would’ve required artificial intelligence platforms to proactively warn users that the information they receive may be inaccurate."
+        },
+        {
+          "t": "p",
+          "x": "In a statement explaining her decision Friday, Hochul wrote that she supports “thoughtful, smart guardrails on AI” but said the bill was too far-reaching and would have applied to artistic or expressive content that isn’t meant to be factual — possibly running afoul of federal free-speech protections. The bill “may present constitutional and pragmatic challenges,” she wrote."
+        },
+        {
+          "t": "p",
+          "x": "Trade groups representing tech firms including OpenAI and Meta lobbied against the bill, as did Netflix and the Motion Picture Association, according to state disclosure records. Assemblymember Clyde Vanel and state Sen. Kirsten Gonzalez introduced it after Meta’s AI platform hallucinated sexual harassment allegations against state lawmakers in 2024; the Legislature passed it near-unanimously."
+        },
+        {
+          "t": "p",
+          "x": "The bill would have required a notice on the system’s user interface that output “may be inaccurate.” Vanel said he hopes to reach a compromise with the governor’s office next year."
+        }
+      ]
+    },
+    "politics/ai-glasses-recording-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+          "cap": "Visitors try out XR smart glasses at 2026 Smart Tech Korea, held at COEX in Gangnam-gu, Seoul, on the 10th. 2026.6.10"
+        },
+        {
+          "t": "p",
+          "x": "Legislation is being pursued that would require artificial intelligence (AI) smart glasses to carry a recording indicator and oblige individuals to give notice when they film others for private purposes."
+        },
+        {
+          "t": "p",
+          "x": "Lee Joo-hee, a Democratic Party of Korea lawmaker on the National Assembly's Science, ICT, Broadcasting and Communications Committee, said on the 23rd that she had sponsored 2 bills to this effect, the so-called 'Smart Glasses Illegal Filming Prevention Act': partial amendments to the Act on Promotion of Information and Communications Network Utilization and Information Protection and to the Personal Information Protection Act."
+        },
+        {
+          "t": "p",
+          "x": "The core of the amendments is to set standards at the manufacturing and import stage, together with a notification duty for users, so that people being filmed with smart glasses can recognize that they are being recorded."
+        },
+        {
+          "t": "p",
+          "x": "Major manufacturers such as Meta currently fit their smart glasses with an indicator light that shows when they are recording, but some low-cost products reportedly lack the feature or make it hard to tell from the outside whether recording is under way."
+        },
+        {
+          "t": "p",
+          "x": "Under the current Personal Information Protection Act, the duty to display and give notice of filming with mobile video information processing devices is limited to filming for business purposes, so it does not apply when individuals film others privately."
+        },
+        {
+          "t": "p",
+          "x": "To address this, the amendment to the Information and Communications Network Act requires manufacturers and importers of wearable video recording devices such as smart glasses to build in a recording indicator, and to take technical measures so that the recording and indicator functions are linked."
+        },
+        {
+          "t": "p",
+          "x": "The amendment also bars anyone from arbitrarily disabling the indicator or interfering with its operation, and prohibits the manufacture, import, sale and distribution of goods or programs made to defeat it, as well as related advertising."
+        },
+        {
+          "t": "p",
+          "x": "Sellers must explain to buyers how the recording indicator works and the possible penalties and sanctions for filming others."
+        },
+        {
+          "t": "p",
+          "x": "The accompanying amendment to the Personal Information Protection Act requires anyone filming people or related objects with wearable video information processing devices such as glasses or watches to display and announce the recording by means such as lights, sounds or signs, regardless of whether it is for business purposes. Violations would carry a fine of up to 1천만원 (ten million won)."
+        },
+        {
+          "t": "p",
+          "x": "“Everyone should be able to know on the spot that they are being filmed and refuse if they do not want it,” Lee said. “I will set standards that protect privacy from the filming stage, so that no one belatedly finds images of themselves taken with smart glasses online.”"
+        }
+      ]
+    },
+    "politics/nais-science-ai-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+          "cap": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, speaks at a 'meeting of industry, academic and research experts in science AI' held at the National Science AI Research Center in Yuseong-gu, Daejeon, on the 23rd. 2026.11.23"
+        },
+        {
+          "t": "p",
+          "x": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, said on the 23rd, “The government will give its full support so that the National Science AI Research Center (NAIS) takes root as the hub of Korea's science AI, serving as a base that links AI experts with domain scientists, and so that K-Moonshot, including the AI Scientist mission, can deliver meaningful results.”"
+        },
+        {
+          "t": "p",
+          "x": "The Ministry of Science and ICT said Bae held a meeting that day with industry, academic and research experts in science artificial intelligence (AI) at the NAIS Daejeon center, discussing ways to link and pool national AI resources and the direction of the K-Moonshot AI Scientist mission."
+        },
+        {
+          "t": "p",
+          "x": "NAIS was established this year as a hub that pools and supports, at the national level, the foundations of science AI research, including AI training data, computing, AI models and agents, and specialist personnel."
+        },
+        {
+          "t": "p",
+          "x": "At the meeting, NAIS director Yoo Yong-gyun presented 3 core missions: expanding and pooling science AI resources, building and operating an integrated science AI platform, and fostering a science AI ecosystem."
+        },
+        {
+          "t": "p",
+          "x": "He also explained that NAIS will work with the relevant government-funded research institutes in fields such as bio, nuclear fusion and nuclear energy to secure research data for AI training and support field-specific AI models and agents, leading a shift in how research is done."
+        },
+        {
+          "t": "p",
+          "x": "He also announced plans to run a pilot service of the integrated science AI platform within the year."
+        },
+        {
+          "t": "p",
+          "x": "Lim Sung-bin, program director (PD) of the AI Scientist mission, presented a mission roadmap to secure and link core technologies such as scientific reasoning, agent collaboration and connections to autonomous laboratories, so that every researcher can use AI scientists to transform the speed and scale of scientific discovery."
+        },
+        {
+          "t": "p",
+          "x": "He added that the mission will be advanced to the stage where AI autonomously carries out the full research cycle under human responsibility, and linked with other missions to speed up results in each field."
+        },
+        {
+          "t": "img",
+          "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+          "cap": "Bae Kyung-hoon, Deputy Prime Minister and Minister of Science and ICT, speaks at a 'meeting of industry, academic and research experts in science AI' held at the National Science AI Research Center in Yuseong-gu, Daejeon, on the 23rd. 2026.11.23"
+        },
+        {
+          "t": "p",
+          "x": "The open discussion covered securing computing resources dedicated to science AI, such as the 6th national supercomputer, setting up a standard framework for AI training data, and ways to produce high-quality research data linked with large research facilities and autonomous laboratories."
+        },
+        {
+          "t": "p",
+          "x": "“The era of the 'AI scientist,' in which AI goes beyond being a tool that assists research to form and test hypotheses together with scientists, is approaching,” Bae said. “Now that the research paradigm is fundamentally changing, to turn this change into a new opportunity for our science and technology, we must pool into one the national science AI capabilities scattered across data and computing, experimental infrastructure and specialist personnel, and make an all-out effort.”"
+        }
+      ]
+    },
+    "politics/korea-aidc-decree-permits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "From March next year, new recognition criteria and reporting procedures will apply to artificial intelligence data centers (AIDC), and AIDCs outside the Seoul metropolitan area with contracted power of 50MW or less will be exempt from power grid impact assessments. The Ministry of Science and ICT said on the 20th that it has drafted an enforcement decree and enforcement rules ahead of the 'Special Act on the Promotion of the Artificial Intelligence Data Center Industry' taking effect, and will give advance legislative notice until the 30th of next month."
+        },
+        {
+          "t": "img",
+          "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+          "cap": "The construction site of the Yongin Semiconductor Cluster general industrial complex in Yongin, Gyeonggi Province, on June 29, when the government announced its 3 major megaprojects in semiconductors, AI and data centers. (Photo=Yonhap News)"
+        },
+        {
+          "t": "p",
+          "x": "An AIDC is defined as a facility that holds AI accelerators above a certain scale, has the power, cooling and other equipment essential to running them, and has a design power ratio of 1.5 or less. Colocation-type 'third-party provision facilities' also count as AIDCs."
+        },
+        {
+          "t": "p",
+          "x": "Reports are divided into construction reports (before construction begins), operation reports (30 days before operations start) and change reports (within 30 days of the cause arising). To stop sham operators from filing only a construction report to lock in the special provisions, filers must set and report a construction start date within 1 year of the report date."
+        },
+        {
+          "t": "p",
+          "x": "The one-stop permitting procedure sets specific response deadlines for relevant agencies, and if they do not respond in time, the process can proceed based on the submitted documents. Attached parking requirements are eased by 20% from the existing standard and can be eased further, by up to 50%, through city and provincial ordinances."
+        },
+        {
+          "t": "p",
+          "x": "AIDC special zones will be designated by the Ministry of Science and ICT after a review within 90 days and deliberation and resolution by the AI Committee, and transportation, heat supply, energy storage, telecommunications and security facilities have been added to the supporting infrastructure. A public hearing will be held on the 9th of next month, and the subordinate regulations are set to take effect on March 10 next year, the date the law takes effect."
+        }
+      ]
     }
   }
 }

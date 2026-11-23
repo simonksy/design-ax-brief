@@ -5966,6 +5966,126 @@
           "x": "Google尚未说明商品如何排序、由谁处理付款，以及这些流程中是否会出现广告。名单中没有Walmart。"
         }
       ]
+    },
+    "marketing/higgsfield-playable-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield推出了playable ads，这是一项仅面向企业的新工作流，用AI制作互动广告。开发者描述游戏机制，选择类型和尺寸，添加创意素材（最多100个，包括精灵图、纹理和音效），即可以手动或自动模式生成可玩的体验。"
+        },
+        {
+          "t": "video",
+          "yt": "PG0UVcWVNl0"
+        },
+        {
+          "t": "p",
+          "x": "成品广告可导出为最大5 MB的单个.html文件，用于AppLovin、Meta、Google App Campaigns、Unity Ads和Pangle（TikTok）等广告网络。Higgsfield技术人员Zhangir Yergaliyev表示：“你可以编辑，并让智能体修改游戏的任何内容。在效果营销中，测试数百种游戏变体变得很容易。”"
+        },
+        {
+          "t": "p",
+          "x": "在工作室提出抄袭和法律方面的担忧后，Higgsfield移除了App Store和Google Play链接导入功能。该公司称，人工制作每个试玩广告平均需要五天、约$5,000；其工具制作第一版约需40分钟，每个广告成本估计为$30至$40。试玩广告团队不到10人，用两周时间做出了第一版。"
+        }
+      ]
+    },
+    "marketing/pinterest-msads-inventory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+          "cap": "Pinterest通过Microsoft Advertising出售信息流和搜索广告位，欧洲不在其列"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest宣布了一项集成，符合条件的Microsoft Advertising广告活动可投放到其首页信息流、搜索结果和相关Pins中，投放位置由“定制的情境竞价模型”决定，无需新的购买工具。该集成“首先”在北美、澳大利亚和新西兰推出，欧洲被排除在外。公告未提供上线日期、定价、资格名单、广告格式或广告活动效果。"
+        },
+        {
+          "t": "p",
+          "x": "该模型使用Pinterest搜索查询、情境信号，以及来自Pinterest所称Pinterest Intelligence的第一方意图数据。需求来自Bing、MSN、Xbox和Outlook等Microsoft旗下产品。Pinterest称其拥有661 million 月活跃用户和80 billion 次月搜索量。此前，Pinterest已向Amazon（2023年）、Google（2024年）、Index Exchange和Criteo以及Programmatic Deals（2026年10月26日）开放；Microsoft已于2026年2月关闭自家DSP Microsoft Invest。"
+        }
+      ]
+    },
+    "marketing/chatgpt-shopping-partnership-doc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI更新了Shopping with ChatGPT Search帮助文档，修改了其中“商品结果由ChatGPT独立选择，并非广告，也不受任何OpenAI合作关系影响”这句话。现在的表述是：“商品结果并非广告；商品和商家的选择方式见下文说明。”简而言之，OpenAI删除了这些购物结果独立于任何OpenAI合作关系、不受其影响的声明。"
+        },
+        {
+          "t": "p",
+          "x": "将当前帮助文档与旧的存档文档相比即可看出变化，下面是两者的diff对比："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+          "cap": "Chatgpt Products Doc Diff（ChatGPT商品文档差异对比）"
+        },
+        {
+          "t": "p",
+          "x": "这对其文档来说似乎是相当大的改动，你不觉得吗？"
+        },
+        {
+          "t": "p",
+          "x": "我是通过Juozas Kaziukėnas在X上的帖子注意到这一点的，他写道：“ChatGPT购物帮助页面不再说明商品结果‘不’（NOT）受任何OpenAI合作关系影响。”他是在aivisibilityjournal.com上发现这一变化的。"
+        }
+      ]
+    },
+    "marketing/organicity-d2c-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“传明酸10%”“烟酰胺10%”“PDRN 2500ppm”。护肤品牌Organicity把主要成分及含量写进产品名称。按成分找产品的人很容易发现它们，但对不清楚该用哪种成分的人来说，这反而成了门槛。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+          "cap": "11日在首尔东大门区见到的Witten Company代表宋宝京（来源：Byline Network）"
+        },
+        {
+          "t": "p",
+          "x": "Organicity今年基于Cafe24搭建了自营商城，并推出成分词典、按肌肤困扰查找产品、人工智能（AI）咨询三项功能。宋代表解释说：“在实际的客户咨询中，不仅是该选哪款产品，诸如能否与其他产品一起使用、早上还是晚上用更合适等问题也反复出现。”过去由人回答的这些问题，如今由AI代为回答。"
+        },
+        {
+          "t": "p",
+          "x": "Organicity与科技公司Artiwealth合作，将Naver Smart Store上积累的约6万条评论和客户咨询数据加工成AI可用的形式，并与自有的成分和产品信息相结合，根据顾客的问题推荐产品组合乃至使用方法。"
+        },
+        {
+          "t": "p",
+          "x": "公司营收从2024年的约4억9800만원增至2025年的约16억7800만원。运营仅数月的自营商城，销售额已升至Smart Store销售额的约30%。"
+        }
+      ]
+    },
+    "marketing/amazon-brandstore-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+          "cap": "Amazon在新的Brand Store页面前放置了一个带6个起始提示的AI智能体。"
+        },
+        {
+          "t": "p",
+          "x": "在Amazon的Store builder中点击Add page，现在会打开一个带有Brand Store Builder Agent的新窗口。品牌可从6个预设提示中选择，也可自行撰写指令；Brand Registry状态必须为“Approved”。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以用任何语言对话，但Store内容会以该站点的主要语言生成——用法语对话搭建U.S. Store，产出的是英文。Amazon的帮助页面没有说明智能体是否会对照Stores内容政策检查其输出。"
+        },
+        {
+          "t": "p",
+          "x": "品牌可通过“Add page without AI Assistance”链接跳过智能体，改用手动模板：Marquee、Product highlight、Product grid（4至60个产品）和Blank。一个页面最多可容纳20个版块。审核“通常在24小时内完成”，但最长可能延至3个工作日。"
+        },
+        {
+          "t": "p",
+          "x": "此外，Classic、Elegant和Impact主题默认开启All Deals标签页：它最多展示30个有优惠的产品，由Amazon挑选和排序，Amazon会“为你创建并更新All Deals页面”。品牌可在Store Settings中关闭该标签页，或替换为自己的优惠页面。"
+        }
+      ]
     }
   }
 }

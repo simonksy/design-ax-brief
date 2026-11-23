@@ -11742,6 +11742,111 @@
           "x": "University of British Columbia的系外行星研究者Kunimoto警告说，一些业余爱好者无法验证模型的发现：“AI-driven论文正在大量、压倒性地涌现，其中的[行星]候选往往质量不是最好的。”"
         }
       ]
+    },
+    "science/science-mit-slic-analog-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+          "cap": "“我们为模拟电路设计自动化提供了另一种选择，”Yan Xu说。图片：Jose-Luis Olivares, MIT; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "这项名为Small LM Iterating on Circuits（简称SLIC）的MIT方法，使工程师能够训练一个小型语言模型（LM），让其完成模拟电路设计的水平达到甚至超过前沿大语言模型。该模型使用数十亿参数，效率足以在笔记本电脑上运行；由于在本地训练和部署，它可以使用企业的机密电路数据而不存在隐私风险。"
+        },
+        {
+          "t": "p",
+          "x": "SLIC采用基于可验证奖励的多轮强化学习。大型LLM生成设计过程的示范供小型模型模仿；随后小型模型在新问题上练习，推测参数、运行仿真并迭代优化设计。其推理过程以自然语言描述，用户可以理解它的决策。"
+        },
+        {
+          "t": "p",
+          "x": "测试中，这个小型模型只用一小部分算力，就接近了最新GPT模型（GPT-6-Astra）的表现，并在未见过的电路结构、更先进的工艺节点和真实商用工艺上保持了性能。该研究与IBM Research和Analog Devices合作完成，将在NeurIPS 2026上发表。"
+        }
+      ]
+    },
+    "science/science-lio2-dualatom-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+          "cap": "Fig. 1: 利用机器学习探究多位点催化剂设计原理。"
+        },
+        {
+          "t": "p",
+          "x": "高能量密度锂–氧电池的实际应用受制于缓慢的氧氧化还原动力学和不稳定的放电中间体。作者报告了一个AI-integrated（AI集成）框架，结合可解释机器学习与密度泛函理论，在由数千个活性位点构成的化学空间中进行探索，并以200条文献记录进行训练。该框架在所选元素中确定Ni-Co双原子催化剂为更优构型。"
+        },
+        {
+          "t": "p",
+          "x": "双位点之间的协同耦合重构了d-band中心，降低了热力学能垒。在电解液中受控加入H2O后，催化剂推动反应从传统的双电子Li2O2路径转向四电子LiOH路径，放电容量达~60,000 mAh g−1。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+          "cap": "Fig. 5: 循环稳定性与催化过程分析。"
+        },
+        {
+          "t": "p",
+          "x": "在四电子路径下，NiCo2-DACs实现了2075次循环的寿命，电压衰减更小；作为对照的Co单原子催化剂在790次循环后失效。该结构还可作为保护层，抑制负极锂枝晶的生长。"
+        }
+      ]
+    },
+    "science/science-bath-students-ai-support": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+          "cap": "来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "根据发表在JMIR Mental Health上的一项新研究，在University of Bath（巴斯大学）的调查中，四分之一的受访学生表示，过去六个月里曾使用生成式AI获取心理健康支持。学生们在苦恼时向AI寻求建议，借助它了解自己的心理健康，或把它当作私人治疗师或教练。在幸福感极低的学生中使用率最高，超过三分之一的人报告曾这样使用。"
+        },
+        {
+          "t": "p",
+          "x": "主要作者Dr. Jeffrey Lambert表示：“生成式AI已经在改变人们寻求心理健康支持的方式。”研究调查了2,020名学生，发现申报了残障的学生更可能以这种方式使用AI。研究人员强调了相关风险，包括信息不准确、隐私担忧，以及在有人陷入危机时回应不当。"
+        },
+        {
+          "t": "p",
+          "x": "该校已为学生发布指南。受访者占受邀人数的9.1%，且研究仅覆盖一所大学；目前一项全国性的多校研究正在进行中。"
+        }
+      ]
+    },
+    "science/science-technion-rnn-hidden-structure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Technion的研究人员利用神经网络的数学模型，考察网络连接的变化如何组合起来改变其功能，并证明网络的功能与学习揭示了其内部结构的不同侧面。这篇由Omri Barak教授和研究生Yoav Ger撰写、发布在arXiv上的论文入选NeurIPS 2026口头报告，是30,709篇投稿中的112篇之一。"
+        },
+        {
+          "t": "p",
+          "x": "他们研究了一类用于模拟大脑信息处理方式的循环神经网络，区分了决定网络行为的属性与“隐藏”属性——后者不影响当前表现，却会影响网络的学习方式。在一个例子中，两个网络对相同输入的反应完全一致，但在相同条件下训练时，其中一个的改进在一段时间内明显放缓，另一个则更稳定地提升。"
+        },
+        {
+          "t": "p",
+          "x": "隐藏属性还能保留学习历史的痕迹：最初在不同任务上训练的网络在一项共同任务上达到相近表现，但其隐藏结构仍能识别出各网络的训练历史。作者建议在生物系统中开展类似实验。"
+        }
+      ]
+    },
+    "science/science-milkyway-ai-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+          "cap": "PHEASANT一次运行的快照，使用了3.4 × 10⁹ 个粒子。每个面板中，左右两幅色图分别显示气体密度和温度。图片来源：K. Hirashima et al."
+        },
+        {
+          "t": "p",
+          "x": "研究人员借助PHEASANT将银河系模拟到单颗恒星的精度。PHEASANT是一种AI加速（AI-accelerated）模型，可在CPU与GPU硬件各不相同的三套超级计算机系统上运行。参与这项工作的有东京大学（University of Tokyo）天文系教授Michiko Fujii，以及开发该AI模型的RIKEN博士后研究员Keiya Hirashima。"
+        },
+        {
+          "t": "p",
+          "x": "直接计算超新星周围气体的演化，需要约100年的时间步长。AI模型则直接预测100,000年后的状态，使主模拟可以采用长得多的时间步长。团队称，该方法比传统方法快约20倍，模拟出的恒星形成率与真实银河系的观测估计值一致。"
+        },
+        {
+          "t": "p",
+          "x": "论文《Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy》（K. Hirashima et al.）已在11月15–20日于芝加哥举行的高性能计算、网络、存储与分析国际会议SC 2026上发表。"
+        }
+      ]
     }
   }
 }

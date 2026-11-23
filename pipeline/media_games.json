@@ -1,32 +1,7 @@
-{
- "date": "2026-11-23",
- "section": "games",
- "media": [
-  {
-   "id": "isaac-repentance-ai-music",
-   "type": "image",
-   "src": "pipeline/media/isaac-repentance-ai-music.jpg"
-  },
-  {
-   "id": "wotc-anthropic-payout-writers",
-   "type": "image",
-   "src": "pipeline/media/wotc-anthropic-payout-writers.jpg"
-  },
-  {
-   "id": "activision-voicechat-npc-patent",
-   "type": "image",
-   "src": "pipeline/media/activision-voicechat-npc-patent.jpg"
-  },
-  {
-   "id": "metahuman-markerless-mocap-insideunreal",
-   "type": "video",
-   "src": "pipeline/media/metahuman-markerless-mocap-insideunreal.mp4",
-   "poster": "pipeline/media/metahuman-markerless-mocap-insideunreal.jpg"
-  },
-  {
-   "id": "motokare-deathgame-fmv-ai",
-   "type": "image",
-   "src": "pipeline/media/motokare-deathgame-fmv-ai.jpg"
-  }
- ]
-}
+{"date":"2026-11-24","section":"games","media":[
+{"id":"sony-playunit-ai-patent","type":"image","src":"pipeline/media/sony-playunit-ai-patent.jpg"},
+{"id":"slotbound-ai-solo-hit","type":"video","src":"pipeline/media/slotbound-ai-solo-hit.mp4","poster":"pipeline/media/slotbound-ai-solo-hit.jpg"},
+{"id":"tinybuild-short-reveal-window","type":"image","src":"pipeline/media/tinybuild-short-reveal-window.jpg"},
+{"id":"automaton-steam-ai-disclosure","type":"image","src":"pipeline/media/automaton-steam-ai-disclosure.jpg"},
+{"id":"chesscom-classic-hub-ai","type":"image","src":"pipeline/media/chesscom-classic-hub-ai.jpg"}
+]}

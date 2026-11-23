@@ -1,455 +1,191 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "games",
   "cards": [
     {
-      "id": "isaac-repentance-ai-music",
+      "id": "sony-playunit-ai-patent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Binding of\nIsaac AI 음악 삭제",
-      "body": "폭로 뒤 Nicalis가 Repentance+ AI-generated 음악을 뺐다.",
-      "mini_headline": "Isaac, AI 음악 삭제",
+      "headline": "Sony, 게임 일부를\n대신 플레이할 AI 특허",
+      "body": "Sony 특허는 퀘스트·장면마다 AI를 따로 훈련하고 조작은 언제든 돌려받는다.",
+      "mini_headline": "Sony, 대리 플레이 AI 특허",
       "tool": "Games",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/",
       "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-            "cap": "The Binding of Isaac: Repentance Plus"
-          },
-          {
-            "t": "p",
-            "x": "The Binding of Isaac: Repentance Plus는 게임 일부 구간에 AI 음악이 쓰인 사실이 드러나면서 최근 며칠 Steam에서 리뷰 폭탄을 맞았다. Reddit 사용자 ShweetsStuff가 Grand Theft Auto-themed 구간에 쓰인 곡들을 찾아냈다. 그가 찾은 오디오 파일 여러 개에는 Suno 메타데이터가 남아 있었고, 이 메타데이터는 Suno 사이트의 트랙으로 이어졌다."
-          },
-          {
-            "t": "p",
-            "x": "제작자 Edmund McMillen은 X에 사과문을 올리며 게임 속 GTA 패러디에 생성형 AI 음악이 쓰인 줄 “전혀 몰랐다”고 밝혔다. 문제는 또 있다. Valve는 개발자에게 개발 과정에서 생성형 AI를 언제, 어떻게 쓰는지 공개하도록 요구하는데, Repentance Plus를 만든 스튜디오 Nicalis, Inc.는 AI 음악을 어디에서도 밝히지 않은 듯하다."
-          },
-          {
-            "t": "p",
-            "x": "발견 몇 시간 뒤 Nicalis는 X에서 Repentance Plus 업데이트로 생성된 음악 파일을 지웠다고 알렸다. Steam 리뷰는 아직 회복되지 않았고 게임 평가도 여전히 “압도적으로 부정적”이지만, X 사용자들은 McMillen을 믿어 주는 분위기다. 게임 개발에 쓰이는 AI를 두고 그가 꾸준히 목소리를 내 온 덕으로 보인다. 그는 2024년 TikTok 영상에서 AI를 “영감 없고 밋밋하다”고 평했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Binding of Isaac drops\nits undisclosed AI music",
-          "body": "Nicalis pulled AI-generated music from a Repentance+ section after players exposed it and review-bombed the game.",
-          "mini_headline": "Isaac pulls AI music",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site."
-              },
-              {
-                "t": "p",
-                "x": "Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
-              },
-              {
-                "t": "p",
-                "x": "Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed. While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt, likely because he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Binding of\nIsaac AI 음악 삭제",
-          "body": "폭로 뒤 Nicalis가 Repentance+ AI-generated 음악을 뺐다.",
-          "mini_headline": "Isaac, AI 음악 삭제",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plus는 게임 일부 구간에 AI 음악이 쓰인 사실이 드러나면서 최근 며칠 Steam에서 리뷰 폭탄을 맞았다. Reddit 사용자 ShweetsStuff가 Grand Theft Auto-themed 구간에 쓰인 곡들을 찾아냈다. 그가 찾은 오디오 파일 여러 개에는 Suno 메타데이터가 남아 있었고, 이 메타데이터는 Suno 사이트의 트랙으로 이어졌다."
-              },
-              {
-                "t": "p",
-                "x": "제작자 Edmund McMillen은 X에 사과문을 올리며 게임 속 GTA 패러디에 생성형 AI 음악이 쓰인 줄 “전혀 몰랐다”고 밝혔다. 문제는 또 있다. Valve는 개발자에게 개발 과정에서 생성형 AI를 언제, 어떻게 쓰는지 공개하도록 요구하는데, Repentance Plus를 만든 스튜디오 Nicalis, Inc.는 AI 음악을 어디에서도 밝히지 않은 듯하다."
-              },
-              {
-                "t": "p",
-                "x": "발견 몇 시간 뒤 Nicalis는 X에서 Repentance Plus 업데이트로 생성된 음악 파일을 지웠다고 알렸다. Steam 리뷰는 아직 회복되지 않았고 게임 평가도 여전히 “압도적으로 부정적”이지만, X 사용자들은 McMillen을 믿어 주는 분위기다. 게임 개발에 쓰이는 AI를 두고 그가 꾸준히 목소리를 내 온 덕으로 보인다. 그는 2024년 TikTok 영상에서 AI를 “영감 없고 밋밋하다”고 평했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Binding of\nIsaac、AI音楽を削除",
-          "body": "Nicalisは炎上でRepentance+のAI-generated 音楽を削除した。",
-          "mini_headline": "Isaac、AI音楽を削除",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plusは、ゲームの一部でAI音楽が使われていたことが発覚し、ここ数日Steamでレビュー爆撃を受けている。RedditユーザーのShweetsStuffが、Grand Theft Auto-themedのセクションで使われた楽曲を見つけた。Sunoのメタデータを含む複数の音声ファイルが見つかり、それらはSunoのサイト上のトラックを指していた。"
-              },
-              {
-                "t": "p",
-                "x": "クリエイターのEdmund McMillenはXで謝罪し、ゲーム内のGTAパロディに生成AI音楽が使われていたことは「まったく知らなかった」と述べた。さらに問題を大きくしたのは、Valveが開発者に対し、開発過程で生成AIをいつどのように使ったかの開示を求めている点だ。Repentance Plusを手がけたスタジオNicalis, Inc.は、AI音楽についてどこにも言及していなかったとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "発覚から数時間のうちに、NicalisはXでRepentance Plusをアップデートし、生成された音楽ファイルを削除したと伝えた。Steamのレビューはまだ回復しておらず、評価も依然「圧倒的に不評」のままだが、XのユーザーはMcMillenを好意的に受け止めているようだ。彼がゲーム開発におけるAIについて率直に発言してきたためだろう。2024年のTikTokでは、AIを「ひらめきがなく味気ない」と評していた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Binding of\nIsaac撤下未披露AI音乐",
-          "body": "Nicalis在曝光和差评轰炸后从Repentance+撤下AI-generated音乐。",
-          "mini_headline": "Isaac撤下AI音乐",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plus被发现游戏中某个段落使用了AI音乐，过去几天在Steam上遭到差评轰炸。Reddit用户ShweetsStuff发现了Grand Theft Auto-themed段落中使用的歌曲。他们找到了几个带有Suno元数据的音频文件，这些元数据指向Suno网站上的曲目。"
-              },
-              {
-                "t": "p",
-                "x": "创作者Edmund McMillen在X上致歉，称他“完全不知道”游戏内的GTA恶搞段落使用了生成式AI音乐。让事态更复杂的是，Valve要求开发者披露在开发过程中如何以及何时使用生成式AI，而Repentance Plus背后的工作室Nicalis, Inc.似乎没有在任何地方提及这些AI音乐。"
-              },
-              {
-                "t": "p",
-                "x": "发现后数小时内，Nicalis便在X上表示，Repentance Plus已完成更新，生成的音乐文件已被移除。尽管Steam上的评价尚未回升，游戏仍为“差评如潮”，但X上的用户似乎愿意相信McMillen，可能是因为他对游戏开发中的AI向来直言不讳，曾在2024年的TikTok视频中称其“毫无灵感、平淡无味”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Binding of Isaac retira su\nmúsica con AI no declarada",
-          "body": "Nicalis retiró la música AI-generated de una sección de Repentance+ tras ser expuesta y un bombardeo de reseñas.",
-          "mini_headline": "Isaac retira su música AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plus lleva varios días recibiendo un bombardeo de reseñas en Steam después de que se descubriera que un segmento concreto del juego usaba música hecha con AI. El usuario de Reddit ShweetsStuff descubrió las canciones utilizadas en una sección Grand Theft Auto-themed. Encontró varios archivos de audio con metadatos de Suno que remitían a las pistas en el sitio de Suno."
-              },
-              {
-                "t": "p",
-                "x": "El creador Edmund McMillen recurrió a X para disculparse y aseguró que “no tenía ni idea” de que la parodia de GTA dentro del juego usaba música hecha con AI generativa. Para complicar más las cosas, Valve exige a los desarrolladores que indiquen cómo y cuándo usan AI generativa en el proceso de desarrollo, y Nicalis, Inc., el estudio detrás de Repentance Plus, no parece haber mencionado la música hecha con AI en ningún lugar."
-              },
-              {
-                "t": "p",
-                "x": "A las pocas horas del hallazgo, Nicalis informó en X de que Repentance Plus se había actualizado y de que se habían eliminado los archivos de música generada. Aunque las reseñas en Steam aún no se han recuperado y el juego sigue con una valoración “extremadamente negativa”, los usuarios de X parecen conceder a McMillen el beneficio de la duda, probablemente porque se ha mostrado muy crítico con la AI en el desarrollo de videojuegos: en un TikTok de 2024 la calificó de “poco inspirada e insulsa”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Binding of\nIsaac AI 음악 뺐다",
-          "body": "폭로에 Nicalis가 Repentance+ AI-generated 음악을 뺐다.",
-          "mini_headline": "Isaac, AI 음악 삭제",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plus는 게임의 특정 구간에 AI 음악이 쓰인 사실이 드러난 뒤 지난 며칠간 Steam에서 리뷰 폭탄을 맞았다. Reddit 사용자 ShweetsStuff가 Grand Theft Auto-themed 구간에 쓰인 곡들을 찾아냈다. 그는 Suno 메타데이터가 담긴 오디오 파일 여러 개를 발견했고, 이 메타데이터는 Suno 사이트의 트랙을 가리키고 있었다."
-              },
-              {
-                "t": "p",
-                "x": "제작자 Edmund McMillen은 X에 사과문을 올리며 게임 속 GTA 패러디에 생성형 AI 음악이 쓰인 줄 “전혀 몰랐다”고 밝혔다. 논란을 키운 점도 있다. Valve는 개발자에게 개발 과정에서 생성형 AI를 언제, 어떻게 쓰는지 공개하도록 요구하는데, Repentance Plus를 만든 스튜디오 Nicalis, Inc.는 AI 음악을 어디에도 언급하지 않은 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "발견 후 몇 시간 만에 Nicalis는 X를 통해 Repentance Plus를 업데이트해 생성된 음악 파일을 삭제했다고 알렸다. Steam 리뷰는 아직 회복되지 않았고 게임 평가도 여전히 “압도적으로 부정적”이지만, X 사용자들은 McMillen을 믿어 주는 분위기다. 그가 게임 개발의 AI에 대해 꾸준히 목소리를 내 왔기 때문으로 보인다. 그는 2024년 TikTok 영상에서 AI를 “영감 없고 밋밋하다”고 평했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Binding of\nIsaac、AI音楽を削除",
-          "body": "Nicalisは炎上でRepentance+のAI-generated 音楽を削除した。",
-          "mini_headline": "Isaac、AI音楽を削除",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plusは、ゲームの一部でAI音楽が使われていたことが発覚し、ここ数日Steamでレビュー爆撃を受けている。RedditユーザーのShweetsStuffが、Grand Theft Auto-themedのセクションで使われた楽曲を見つけた。Sunoのメタデータを含む複数の音声ファイルが見つかり、それらはSunoのサイト上のトラックを指していた。"
-              },
-              {
-                "t": "p",
-                "x": "クリエイターのEdmund McMillenはXで謝罪し、ゲーム内のGTAパロディに生成AI音楽が使われていたことは「まったく知らなかった」と述べた。さらに問題を大きくしたのは、Valveが開発者に対し、開発過程で生成AIをいつどのように使ったかの開示を求めている点だ。Repentance Plusを手がけたスタジオNicalis, Inc.は、AI音楽についてどこにも言及していなかったとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "発覚から数時間のうちに、NicalisはXでRepentance Plusをアップデートし、生成された音楽ファイルを削除したと伝えた。Steamのレビューはまだ回復しておらず、評価も依然「圧倒的に不評」のままだが、XのユーザーはMcMillenを好意的に受け止めているようだ。彼がゲーム開発におけるAIについて率直に発言してきたためだろう。2024年のTikTokでは、AIを「ひらめきがなく味気ない」と評していた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Binding of\nIsaac撤下未披露AI音乐",
-          "body": "Nicalis在曝光和差评轰炸后从Repentance+撤下AI-generated音乐。",
-          "mini_headline": "Isaac撤下AI音乐",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plus被发现游戏中某个段落使用了AI音乐，过去几天在Steam上遭到差评轰炸。Reddit用户ShweetsStuff发现了Grand Theft Auto-themed段落中使用的歌曲。他们找到了几个带有Suno元数据的音频文件，这些元数据指向Suno网站上的曲目。"
-              },
-              {
-                "t": "p",
-                "x": "创作者Edmund McMillen在X上致歉，称他“完全不知道”游戏内的GTA恶搞段落使用了生成式AI音乐。让事态更复杂的是，Valve要求开发者披露在开发过程中如何以及何时使用生成式AI，而Repentance Plus背后的工作室Nicalis, Inc.似乎没有在任何地方提及这些AI音乐。"
-              },
-              {
-                "t": "p",
-                "x": "发现后数小时内，Nicalis便在X上表示，Repentance Plus已完成更新，生成的音乐文件已被移除。尽管Steam上的评价尚未回升，游戏仍为“差评如潮”，但X上的用户似乎愿意相信McMillen，可能是因为他对游戏开发中的AI向来直言不讳，曾在2024年的TikTok视频中称其“毫无灵感、平淡无味”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Binding of Isaac retira su\nmúsica con AI no declarada",
-          "body": "Nicalis retiró la música AI-generated de una sección de Repentance+ tras ser expuesta y un bombardeo de reseñas.",
-          "mini_headline": "Isaac retira su música AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
-                "cap": "The Binding of Isaac: Repentance Plus"
-              },
-              {
-                "t": "p",
-                "x": "The Binding of Isaac: Repentance Plus lleva varios días recibiendo un bombardeo de reseñas en Steam después de que se descubriera que un segmento concreto del juego usaba música hecha con AI. El usuario de Reddit ShweetsStuff descubrió las canciones utilizadas en una sección Grand Theft Auto-themed. Encontró varios archivos de audio con metadatos de Suno que remitían a las pistas en el sitio de Suno."
-              },
-              {
-                "t": "p",
-                "x": "El creador Edmund McMillen recurrió a X para disculparse y aseguró que “no tenía ni idea” de que la parodia de GTA dentro del juego usaba música hecha con AI generativa. Para complicar más las cosas, Valve exige a los desarrolladores que indiquen cómo y cuándo usan AI generativa en el proceso de desarrollo, y Nicalis, Inc., el estudio detrás de Repentance Plus, no parece haber mencionado la música hecha con AI en ningún lugar."
-              },
-              {
-                "t": "p",
-                "x": "A las pocas horas del hallazgo, Nicalis informó en X de que Repentance Plus se había actualizado y de que se habían eliminado los archivos de música generada. Aunque las reseñas en Steam aún no se han recuperado y el juego sigue con una valoración “extremadamente negativa”, los usuarios de X parecen conceder a McMillen el beneficio de la duda, probablemente porque se ha mostrado muy crítico con la AI en el desarrollo de videojuegos: en un TikTok de 2024 la calificó de “poco inspirada e insulsa”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "wotc-anthropic-payout-writers",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Wizards AI 보상금\nD&D 작가에게 준다",
-      "body": "Wizards of the Coast가 Anthropic AI 합의금 작가에 준다.",
-      "mini_headline": "WotC, AI 보상금 작가에",
-      "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
-      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-            "cap": "R.A. Salvatore의 Lolth's Warrior (Image credit: Wizards of the Coast)"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
           },
           {
             "t": "p",
-            "x": "D&D와 Magic: The Gathering의 퍼블리셔 Wizards of the Coast는 Claude AI 개발사 Anthropic을 상대로 한 $1.5 billion 규모 저작권 소송의 청구인이었다. Wargamer 보도에 따르면 소송 대상 작품당 표준 지급액은 $3,000이며, 저자와 출판사가 50/50으로 나눈다. 그런데 Wizards는 자기 몫인 절반까지 저자에게 넘기기로 했다. 혜택은 주로 회사와 계약한 독립 작가들에게 돌아가며, R.A. Salvatore 같은 유명 작가도 포함된다."
+            "x": "저녁을 먹는 등 다른 일을 하는 사이 AI가 게임을 대신 해 주는 기술로 Sony가 특허를 받았다. Patentlyze가 공개한 특허를 보면 콘솔이 게임에서 고른 구간만 AI에게 컨트롤러를 맡겼다가 플레이어가 돌아오면 다시 넘겨준다. 한 해 전 공개된 특허와는 결이 다르다. 그때는 AI \"고스트 플레이어\"가 옆에서 같이 뛰며 공략법을 보여 주는 방식이었다."
           },
           {
             "t": "p",
-            "x": "프리랜서 작가이자 편집자인 James Lowder는 LinkedIn에 이렇게 썼다. \"놀라운 일이다. WotC가 가져갈 수 있었던 수십만 달러가 작가들에게 돌아간다. 게다가 Wizards는 대형 출판사들이 저자들로부터 합의금을 최대한 챙기려 다투는 시기에 이렇게 하고 있다.\" 그는 논의를 이끈 저자들, 그중에서도 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+            "x": "게임은 퀘스트, 미션, 단일 장면 같은 플레이 단위로 나뉜다. 서버는 실제 플레이어의 컨트롤러 입력 기록과 각 과제의 시작·종료 시점을 표시한 이벤트 마커를 모은 뒤, 합성곱 신경망과 강화학습으로 단위마다 AI 도우미를 하나씩 훈련한다. 평균 플레이어 수준에 이른 도우미만 남기고 나머지는 버린다."
           },
           {
             "t": "p",
-            "x": "PC Gamer의 Ted Litchfield는 Wizards가 최근 몇 년간 AI 사용(마케팅 자료와 D&D 소스북의 AI 아트)과 내부 노사 관계로 평판이 깎였고, 이번 금액도 수십억 달러 규모 기업에는 푼돈일 뿐이라고 꼬집는다. \"Wizards of the Coast는 분명 옳은 일을 했다. 하지만 값싸게 얻은 PR 승리라고 생각한다.\""
+            "x": "화면의 패널은 각 활동이 AI 플레이를 완전히 지원하는지, 부분적으로 지원하는지, 전혀 지원하지 않는지 표시한다. 과제를 고르고 AI 플레이 버튼을 누르면 되고, 컨트롤러를 만지는 순간 조작은 플레이어에게 돌아온다. 과제에 실패하면 콘솔이 AI를 권하기도 하고, 컨트롤러를 한동안 안 만지면 AI에 조작을 넘기기도 한다."
+          },
+          {
+            "t": "p",
+            "x": "Patentlyze는 5월 이후 Sony 특허 출원 174건을 추적해 왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Wizards of the Coast passes\nAI payout to D&D writers",
-          "body": "Wizards of the Coast will pass its full share of the Anthropic AI copyright settlement for D&D books to their writers.",
-          "mini_headline": "WotC passes AI payout to writers",
+          "headline": "Sony patents an AI that\ntakes over parts of your game",
+          "body": "Sony's patent trains a separate AI helper for each quest or scene, and players can take the controller back anytime.",
+          "mini_headline": "Sony patents AI stand-in play",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "Lolth's Warrior by R.A. Salvatore (Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "D&D and Magic: The Gathering publisher Wizards of the Coast was a claimant in the $1.5 billion copyright case against Claude AI developer Anthropic. The standard payment was $3,000 per work covered by the suit, with a 50/50 split between author and publisher, as reported by Wargamer. Wizards will instead deliver its half of the payout to authors as well — primarily independent writers who contract with the company, up to and including big names like R.A. Salvatore."
+                "x": "Sony has patented AI technology that allows AI to play a game for you while you are doing other things like eating your dinner. In the patent publicized by Patentlyze, a console feature lets an AI take the controller for chosen parts of a game, then hand it back when you return. This is different from a patent publicized a year ago, where an AI \"ghost player\" played alongside you to show you how to play."
               },
               {
                 "t": "p",
-                "x": "Freelance writer and editor James Lowder wrote on LinkedIn: \"This is remarkable and amounts to hundreds of thousands of dollars that WotC could have collected going to the writers. And Wizards is doing this at a time when the larger publishers are scrambling to grab as much settlement money as possible from authors.\" He credited author-prompted discussions, especially the efforts of R.A. Salvatore, and Dan Ayoub at Wizards."
+                "x": "The game is divided into play units such as a quest, a mission or a single scene. A server collects recordings of real players' controller inputs plus event markers for when each task starts and ends, then trains one AI helper per chunk using a convolutional neural network and reinforcement learning. Helpers that reach roughly the skill of an average player are saved; the rest are dropped."
               },
               {
                 "t": "p",
-                "x": "PC Gamer's Ted Litchfield notes Wizards has sustained reputational damage in recent years for AI usage — AI art in marketing material and a D&D sourcebook — and internal labor relations, and that the sum is couch cushion change for a multi-billion dollar operation: \"Wizards of the Coast undeniably did the right thing here, but I think it was a PR victory cheaply bought.\""
+                "x": "An on-screen panel labels each activity as fully, partly or not at all available for AI play. You select tasks and press an AI play button; touching the controller returns control to you. The console can also offer the AI after you fail a task, and may hand control to it when the controller is idle."
+              },
+              {
+                "t": "p",
+                "x": "Patentlyze said it has tracked 174 patent filings from Sony since May."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Wizards AI 보상금\nD&D 작가에게 준다",
-          "body": "Wizards of the Coast가 Anthropic AI 합의금 작가에 준다.",
-          "mini_headline": "WotC, AI 보상금 작가에",
+          "headline": "Sony, 게임 일부를\n대신 플레이할 AI 특허",
+          "body": "Sony 특허는 퀘스트·장면마다 AI를 따로 훈련하고 조작은 언제든 돌려받는다.",
+          "mini_headline": "Sony, 대리 플레이 AI 특허",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "R.A. Salvatore의 Lolth's Warrior (Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "D&D와 Magic: The Gathering의 퍼블리셔 Wizards of the Coast는 Claude AI 개발사 Anthropic을 상대로 한 $1.5 billion 규모 저작권 소송의 청구인이었다. Wargamer 보도에 따르면 소송 대상 작품당 표준 지급액은 $3,000이며, 저자와 출판사가 50/50으로 나눈다. 그런데 Wizards는 자기 몫인 절반까지 저자에게 넘기기로 했다. 혜택은 주로 회사와 계약한 독립 작가들에게 돌아가며, R.A. Salvatore 같은 유명 작가도 포함된다."
+                "x": "저녁을 먹는 등 다른 일을 하는 사이 AI가 게임을 대신 해 주는 기술로 Sony가 특허를 받았다. Patentlyze가 공개한 특허를 보면 콘솔이 게임에서 고른 구간만 AI에게 컨트롤러를 맡겼다가 플레이어가 돌아오면 다시 넘겨준다. 한 해 전 공개된 특허와는 결이 다르다. 그때는 AI \"고스트 플레이어\"가 옆에서 같이 뛰며 공략법을 보여 주는 방식이었다."
               },
               {
                 "t": "p",
-                "x": "프리랜서 작가이자 편집자인 James Lowder는 LinkedIn에 이렇게 썼다. \"놀라운 일이다. WotC가 가져갈 수 있었던 수십만 달러가 작가들에게 돌아간다. 게다가 Wizards는 대형 출판사들이 저자들로부터 합의금을 최대한 챙기려 다투는 시기에 이렇게 하고 있다.\" 그는 논의를 이끈 저자들, 그중에서도 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+                "x": "게임은 퀘스트, 미션, 단일 장면 같은 플레이 단위로 나뉜다. 서버는 실제 플레이어의 컨트롤러 입력 기록과 각 과제의 시작·종료 시점을 표시한 이벤트 마커를 모은 뒤, 합성곱 신경망과 강화학습으로 단위마다 AI 도우미를 하나씩 훈련한다. 평균 플레이어 수준에 이른 도우미만 남기고 나머지는 버린다."
               },
               {
                 "t": "p",
-                "x": "PC Gamer의 Ted Litchfield는 Wizards가 최근 몇 년간 AI 사용(마케팅 자료와 D&D 소스북의 AI 아트)과 내부 노사 관계로 평판이 깎였고, 이번 금액도 수십억 달러 규모 기업에는 푼돈일 뿐이라고 꼬집는다. \"Wizards of the Coast는 분명 옳은 일을 했다. 하지만 값싸게 얻은 PR 승리라고 생각한다.\""
+                "x": "화면의 패널은 각 활동이 AI 플레이를 완전히 지원하는지, 부분적으로 지원하는지, 전혀 지원하지 않는지 표시한다. 과제를 고르고 AI 플레이 버튼을 누르면 되고, 컨트롤러를 만지는 순간 조작은 플레이어에게 돌아온다. 과제에 실패하면 콘솔이 AI를 권하기도 하고, 컨트롤러를 한동안 안 만지면 AI에 조작을 넘기기도 한다."
+              },
+              {
+                "t": "p",
+                "x": "Patentlyze는 5월 이후 Sony 특허 출원 174건을 추적해 왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wizards、AI和解金を\nD&D作家に還元",
-          "body": "Wizards of the CoastはAnthropic AI和解金をD&D作家に渡す。",
-          "mini_headline": "WotC、AI和解金を作家へ",
+          "headline": "Sony、ゲームの一部を\n代わりに遊ぶAI特許",
+          "body": "Sonyの特許はクエストや場面ごとにAIを個別に訓練し、操作はいつでも取り戻せる。",
+          "mini_headline": "Sony、代理プレイAIを特許化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "R.A. Salvatore著『Lolth's Warrior』(Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "D&DとMagic: The Gatheringのパブリッシャーである Wizards of the Coastは、Claude AIの開発元Anthropicを相手取った $1.5 billion の著作権訴訟で請求者の一つだった。Wargamerによると、訴訟対象の作品ごとの標準支払額は $3,000 で、著者と出版社で50/50に分ける。だがWizardsは、自社の取り分である半分も著者に渡す。対象は主に同社と契約する独立系ライターで、R.A. Salvatoreのような大物も含まれる。"
+                "x": "Sonyは、夕食を食べるなど他のことをしている間にAIが代わりにゲームをプレイするAI技術の特許を取得した。Patentlyzeが公開したこの特許では、ゲームの選んだ部分でコンソールの機能がAIにコントローラーを任せ、プレイヤーが戻ると操作を返す。一年前に公開された特許とは異なる。そちらはAIの「ゴーストプレイヤー」が隣で一緒にプレイし、遊び方を示すものだった。"
               },
               {
                 "t": "p",
-                "x": "フリーランスのライター兼編集者James LowderはLinkedInにこう書いた。\"これは注目すべきことで、WotCが受け取れたはずの数十万ドルが作家に渡ることになる。しかもWizardsは、大手出版社が著者からできる限り多くの和解金を確保しようと躍起になっている時期にこれを行っている。\" 彼は著者側から始まった議論、とりわけR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
+                "x": "ゲームはクエストやミッション、単一のシーンといったプレイ単位に分けられる。サーバーは実際のプレイヤーによるコントローラー入力の記録と、各タスクの開始・終了を示すイベントマーカーを集め、畳み込みニューラルネットワークと強化学習を使って単位ごとにAIヘルパーを一つずつ訓練する。平均的なプレイヤー程度の腕前に達したヘルパーは保存され、それ以外は破棄される。"
               },
               {
                 "t": "p",
-                "x": "PC GamerのTed Litchfieldは、Wizardsが近年、AIの使用（マーケティング素材やD&DソースブックでのAIアート）と社内の労使関係で評判を落としてきたこと、そしてこの金額は数十億ドル規模の事業にとってははした金にすぎないことを指摘する。\"Wizards of the Coastは間違いなく正しいことをした。だが、安く買ったPRの勝利だと思う。\""
+                "x": "画面上のパネルは、各アクティビティがAIプレイに完全に対応するか、一部対応か、まったく対応しないかを表示する。タスクを選んでAIプレイボタンを押せばよく、コントローラーに触れると操作が戻る。コンソールはタスクに失敗した後にAIを提案することもでき、コントローラーが放置されているときにAIへ操作を渡す場合もある。"
+              },
+              {
+                "t": "p",
+                "x": "Patentlyzeによると、5月以降Sonyの特許出願174件を追跡してきたという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wizards将AI和解金\n转给D&D作者",
-          "body": "Wizards of the Coast将Anthropic AI和解金D&D份额交给作者。",
-          "mini_headline": "WotC把AI和解金给作者",
+          "headline": "Sony专利：AI可替你\n接管部分游戏",
+          "body": "Sony的专利为每个任务或场景单独训练AI助手，玩家可随时收回手柄。",
+          "mini_headline": "Sony为AI代玩申请专利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "R.A. Salvatore著《Lolth's Warrior》(Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "D&D与Magic: The Gathering的发行商Wizards of the Coast，是针对Claude AI开发商Anthropic的 $1.5 billion 版权案的索赔方之一。据Wargamer报道，该诉讼所涉每部作品的标准赔付为 $3,000 ，由作者与出版商50/50分成。而Wizards将把属于自己的那一半同样交给作者——主要是与公司签约的独立作者，其中也包括R.A. Salvatore这样的知名作家。"
+                "x": "Sony获得了一项AI技术专利，可在你吃晚饭等做其他事情时让AI替你玩游戏。在Patentlyze披露的这项专利中，主机功能可让AI在游戏中选定的部分接管手柄，并在你回来时交还控制权。这与一年前披露的一项专利不同，后者是由AI“幽灵玩家”在旁陪你一起玩，向你演示玩法。"
               },
               {
                 "t": "p",
-                "x": "自由撰稿人兼编辑James Lowder在LinkedIn上写道：\"这非常了不起，相当于WotC本可收取的数十万美元将流向作者。而且Wizards是在大型出版商争相从作者手中尽可能多地抢夺和解金的时候这样做的。\"他将此归功于由作者推动的讨论，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
+                "x": "游戏被划分为任务、关卡或单个场景等游玩单元。服务器收集真实玩家的手柄输入记录，以及标记每项任务开始和结束时间的事件标记，再利用卷积神经网络和强化学习为每个单元训练一个AI助手。大致达到普通玩家水平的助手会被保留，其余则被舍弃。"
               },
               {
                 "t": "p",
-                "x": "PC Gamer的Ted Litchfield指出，Wizards近年来因使用AI（在营销材料和D&D资料书中使用AI美术）以及内部劳资关系而声誉受损，而这笔钱对于数十亿美元规模的企业来说只是零钱：\"Wizards of the Coast这次无疑做了正确的事，但我认为这是一场廉价买来的PR胜利。\""
+                "x": "屏幕上的面板会标注每项活动是完全支持、部分支持还是完全不支持AI游玩。你选好任务并按下AI游玩按钮即可；触碰手柄就会把控制权交还给你。主机还可以在你任务失败后提供AI，并可能在手柄闲置时把控制权交给AI。"
+              },
+              {
+                "t": "p",
+                "x": "Patentlyze表示，自5月以来已追踪到Sony提交的174项专利申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wizards of the Coast cede\nel pago de AI a autores de D&D",
-          "body": "Wizards of the Coast cederá a los autores de D&D toda su parte del acuerdo por derechos de autor con Anthropic AI.",
-          "mini_headline": "WotC cede el pago de AI a autores",
+          "headline": "Sony patenta una AI que\ntoma el control de tu partida",
+          "body": "La patente de Sony entrena una AI por misión o escena, y el jugador puede retomar el mando cuando quiera.",
+          "mini_headline": "Sony patenta una AI que juega por ti",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "Lolth's Warrior, de R.A. Salvatore (Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "Wizards of the Coast, editora de D&D y Magic: The Gathering, fue una de las demandantes en el caso de derechos de autor de $1.5 billion contra Anthropic, desarrolladora de Claude AI. El pago estándar era de $3,000 por obra incluida en la demanda, con un reparto 50/50 entre autor y editorial, según informó Wargamer. Sin embargo, Wizards entregará también su mitad del pago a los autores, principalmente escritores independientes que trabajan por contrato con la empresa, incluidos nombres destacados como R.A. Salvatore."
+                "x": "Sony ha patentado una tecnología de AI que permite que una AI juegue por ti mientras haces otras cosas, como cenar. En la patente divulgada por Patentlyze, una función de la consola deja que una AI tome el mando en las partes del juego que elijas y te lo devuelva cuando regreses. Se diferencia de una patente divulgada hace un año, en la que un \"jugador fantasma\" de AI jugaba a tu lado para mostrarte cómo jugar."
               },
               {
                 "t": "p",
-                "x": "El escritor y editor independiente James Lowder escribió en LinkedIn: \"Esto es notable y supone que cientos de miles de dólares que WotC podría haber cobrado irán a los escritores. Y Wizards lo hace en un momento en que las grandes editoriales se apresuran a quedarse con la mayor parte posible del dinero del acuerdo a costa de los autores.\" Atribuyó el mérito a los debates impulsados por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
+                "x": "El juego se divide en unidades de juego, como una aventura, una misión o una sola escena. Un servidor recopila grabaciones de las entradas de mando de jugadores reales y marcadores de eventos que indican cuándo empieza y termina cada tarea, y luego entrena un asistente de AI por cada fragmento mediante una red neuronal convolucional y aprendizaje por refuerzo. Los asistentes que alcanzan aproximadamente la habilidad de un jugador medio se guardan; el resto se descarta."
               },
               {
                 "t": "p",
-                "x": "Ted Litchfield, de PC Gamer, señala que Wizards ha sufrido daños en su reputación en los últimos años por el uso de AI —arte hecho con AI en material de marketing y en un libro de consulta de D&D— y por sus relaciones laborales internas, y que la suma es calderilla para una empresa de miles de millones de dólares: \"Wizards of the Coast sin duda hizo lo correcto aquí, pero creo que fue una victoria de PR comprada a bajo precio.\""
+                "x": "Un panel en pantalla indica si cada actividad admite el juego con AI de forma total, parcial o nula. Seleccionas las tareas y pulsas un botón de juego con AI; al tocar el mando recuperas el control. La consola también puede ofrecer la AI después de que falles una tarea, y puede cederle el control cuando el mando está inactivo."
+              },
+              {
+                "t": "p",
+                "x": "Patentlyze afirmó que ha seguido 174 solicitudes de patente de Sony desde mayo."
               }
             ]
           }
@@ -457,109 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Wizards AI 보상금\nD&D 작가에게 준다",
-          "body": "Wizards of the Coast는 Anthropic AI 합의금 작가에 준다.",
-          "mini_headline": "WotC, AI 보상금 작가에",
+          "headline": "Sony, 게임 일부를\n대신 플레이할 AI 특허",
+          "body": "Sony 특허는 퀘스트·장면별 AI를 따로 훈련하며 조작은 언제든 돌려받는다.",
+          "mini_headline": "Sony, 대리 플레이 AI 특허",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "R.A. Salvatore의 Lolth's Warrior (Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "D&D와 Magic: The Gathering의 퍼블리셔 Wizards of the Coast는 Claude AI 개발사 Anthropic을 상대로 한 $1.5 billion 규모 저작권 소송의 청구인이었다. Wargamer 보도에 따르면 소송 대상 작품당 표준 지급액은 $3,000이며, 저자와 출판사가 50/50으로 나눈다. 그러나 Wizards는 자사 몫인 절반도 저자에게 넘기기로 했다. 대상은 주로 회사와 계약한 독립 작가들이며, R.A. Salvatore 같은 유명 작가도 포함된다."
+                "x": "Sony가 저녁 식사처럼 다른 일을 하는 동안 AI가 대신 게임을 플레이해 주는 AI 기술 특허를 받았다. Patentlyze가 공개한 이 특허에서는 콘솔 기능이 게임 중 선택한 부분에서 AI에게 컨트롤러를 맡기고, 플레이어가 돌아오면 다시 넘겨준다. 한 해 전 공개된 특허와는 다르다. 당시 특허는 AI \"고스트 플레이어\"가 옆에서 함께 플레이하며 플레이 방법을 보여 주는 방식이었다."
               },
               {
                 "t": "p",
-                "x": "프리랜서 작가이자 편집자인 James Lowder는 LinkedIn에 이렇게 썼다. \"놀라운 일이다. WotC가 가져갈 수 있었던 수십만 달러가 작가들에게 돌아간다. 게다가 Wizards는 대형 출판사들이 저자들로부터 합의금을 최대한 챙기려 다투는 시기에 이렇게 하고 있다.\" 그는 저자들이 이끌어 낸 논의, 특히 R.A. Salvatore의 노력과 Wizards의 Dan Ayoub에게 공을 돌렸다."
+                "x": "게임은 퀘스트, 미션, 단일 장면 같은 플레이 단위로 나뉜다. 서버는 실제 플레이어의 컨트롤러 입력 기록과 각 과제의 시작·종료 시점을 표시한 이벤트 마커를 모은 뒤, 합성곱 신경망과 강화학습으로 단위마다 AI 도우미를 하나씩 훈련한다. 평균적인 플레이어 수준에 이른 도우미는 저장하고 나머지는 버린다."
               },
               {
                 "t": "p",
-                "x": "PC Gamer의 Ted Litchfield는 Wizards가 최근 몇 년간 AI 사용(마케팅 자료와 D&D 소스북의 AI 아트)과 내부 노사 관계로 평판에 타격을 입었으며, 이번 금액은 수십억 달러 규모 기업에는 푼돈에 불과하다고 지적한다. \"Wizards of the Coast는 분명 옳은 일을 했다. 하지만 값싸게 얻은 PR 승리라고 생각한다.\""
+                "x": "화면의 패널은 각 활동이 AI 플레이를 완전히 지원하는지, 부분적으로 지원하는지, 전혀 지원하지 않는지 표시한다. 과제를 고르고 AI 플레이 버튼을 누르면 되고, 컨트롤러를 만지면 조작이 다시 플레이어에게 돌아온다. 콘솔은 과제에 실패한 뒤 AI를 제안할 수도 있고, 컨트롤러가 유휴 상태일 때 AI에 조작을 넘길 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "Patentlyze는 5월 이후 Sony의 특허 출원 174건을 추적해 왔다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wizards、AI和解金を\nD&D作家に還元",
-          "body": "Wizards of the CoastはAnthropic AI和解金をD&D作家に渡す。",
-          "mini_headline": "WotC、AI和解金を作家へ",
+          "headline": "Sony、ゲームの一部を\n代わりに遊ぶAI特許",
+          "body": "Sonyの特許はクエストや場面ごとにAIを個別に訓練し、操作はいつでも取り戻せる。",
+          "mini_headline": "Sony、代理プレイAIを特許化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "R.A. Salvatore著『Lolth's Warrior』(Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "D&DとMagic: The Gatheringのパブリッシャーである Wizards of the Coastは、Claude AIの開発元Anthropicを相手取った $1.5 billion の著作権訴訟で請求者の一つだった。Wargamerによると、訴訟対象の作品ごとの標準支払額は $3,000 で、著者と出版社で50/50に分ける。だがWizardsは、自社の取り分である半分も著者に渡す。対象は主に同社と契約する独立系ライターで、R.A. Salvatoreのような大物も含まれる。"
+                "x": "Sonyは、夕食を食べるなど他のことをしている間にAIが代わりにゲームをプレイするAI技術の特許を取得した。Patentlyzeが公開したこの特許では、ゲームの選んだ部分でコンソールの機能がAIにコントローラーを任せ、プレイヤーが戻ると操作を返す。一年前に公開された特許とは異なる。そちらはAIの「ゴーストプレイヤー」が隣で一緒にプレイし、遊び方を示すものだった。"
               },
               {
                 "t": "p",
-                "x": "フリーランスのライター兼編集者James LowderはLinkedInにこう書いた。\"これは注目すべきことで、WotCが受け取れたはずの数十万ドルが作家に渡ることになる。しかもWizardsは、大手出版社が著者からできる限り多くの和解金を確保しようと躍起になっている時期にこれを行っている。\" 彼は著者側から始まった議論、とりわけR.A. Salvatoreの尽力と、WizardsのDan Ayoubの功績を挙げた。"
+                "x": "ゲームはクエストやミッション、単一のシーンといったプレイ単位に分けられる。サーバーは実際のプレイヤーによるコントローラー入力の記録と、各タスクの開始・終了を示すイベントマーカーを集め、畳み込みニューラルネットワークと強化学習を使って単位ごとにAIヘルパーを一つずつ訓練する。平均的なプレイヤー程度の腕前に達したヘルパーは保存され、それ以外は破棄される。"
               },
               {
                 "t": "p",
-                "x": "PC GamerのTed Litchfieldは、Wizardsが近年、AIの使用（マーケティング素材やD&DソースブックでのAIアート）と社内の労使関係で評判を落としてきたこと、そしてこの金額は数十億ドル規模の事業にとってははした金にすぎないことを指摘する。\"Wizards of the Coastは間違いなく正しいことをした。だが、安く買ったPRの勝利だと思う。\""
+                "x": "画面上のパネルは、各アクティビティがAIプレイに完全に対応するか、一部対応か、まったく対応しないかを表示する。タスクを選んでAIプレイボタンを押せばよく、コントローラーに触れると操作が戻る。コンソールはタスクに失敗した後にAIを提案することもでき、コントローラーが放置されているときにAIへ操作を渡す場合もある。"
+              },
+              {
+                "t": "p",
+                "x": "Patentlyzeによると、5月以降Sonyの特許出願174件を追跡してきたという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wizards将AI和解金\n转给D&D作者",
-          "body": "Wizards of the Coast将Anthropic AI和解金D&D份额交给作者。",
-          "mini_headline": "WotC把AI和解金给作者",
+          "headline": "Sony专利：AI可替你\n接管部分游戏",
+          "body": "Sony的专利为每个任务或场景单独训练AI助手，玩家可随时收回手柄。",
+          "mini_headline": "Sony为AI代玩申请专利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "R.A. Salvatore著《Lolth's Warrior》(Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "D&D与Magic: The Gathering的发行商Wizards of the Coast，是针对Claude AI开发商Anthropic的 $1.5 billion 版权案的索赔方之一。据Wargamer报道，该诉讼所涉每部作品的标准赔付为 $3,000 ，由作者与出版商50/50分成。而Wizards将把属于自己的那一半同样交给作者——主要是与公司签约的独立作者，其中也包括R.A. Salvatore这样的知名作家。"
+                "x": "Sony获得了一项AI技术专利，可在你吃晚饭等做其他事情时让AI替你玩游戏。在Patentlyze披露的这项专利中，主机功能可让AI在游戏中选定的部分接管手柄，并在你回来时交还控制权。这与一年前披露的一项专利不同，后者是由AI“幽灵玩家”在旁陪你一起玩，向你演示玩法。"
               },
               {
                 "t": "p",
-                "x": "自由撰稿人兼编辑James Lowder在LinkedIn上写道：\"这非常了不起，相当于WotC本可收取的数十万美元将流向作者。而且Wizards是在大型出版商争相从作者手中尽可能多地抢夺和解金的时候这样做的。\"他将此归功于由作者推动的讨论，尤其是R.A. Salvatore的努力，以及Wizards的Dan Ayoub。"
+                "x": "游戏被划分为任务、关卡或单个场景等游玩单元。服务器收集真实玩家的手柄输入记录，以及标记每项任务开始和结束时间的事件标记，再利用卷积神经网络和强化学习为每个单元训练一个AI助手。大致达到普通玩家水平的助手会被保留，其余则被舍弃。"
               },
               {
                 "t": "p",
-                "x": "PC Gamer的Ted Litchfield指出，Wizards近年来因使用AI（在营销材料和D&D资料书中使用AI美术）以及内部劳资关系而声誉受损，而这笔钱对于数十亿美元规模的企业来说只是零钱：\"Wizards of the Coast这次无疑做了正确的事，但我认为这是一场廉价买来的PR胜利。\""
+                "x": "屏幕上的面板会标注每项活动是完全支持、部分支持还是完全不支持AI游玩。你选好任务并按下AI游玩按钮即可；触碰手柄就会把控制权交还给你。主机还可以在你任务失败后提供AI，并可能在手柄闲置时把控制权交给AI。"
+              },
+              {
+                "t": "p",
+                "x": "Patentlyze表示，自5月以来已追踪到Sony提交的174项专利申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wizards of the Coast cede\nel pago de AI a autores de D&D",
-          "body": "Wizards of the Coast cederá a los autores de D&D toda su parte del acuerdo por derechos de autor con Anthropic AI.",
-          "mini_headline": "WotC cede el pago de AI a autores",
+          "headline": "Sony patenta una AI que\ntoma el control de tu partida",
+          "body": "La patente de Sony entrena una AI por misión o escena, y el jugador puede retomar el mando cuando quiera.",
+          "mini_headline": "Sony patenta una AI que juega por ti",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7.jpg",
-                "cap": "Lolth's Warrior, de R.A. Salvatore (Image credit: Wizards of the Coast)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
               },
               {
                 "t": "p",
-                "x": "Wizards of the Coast, editora de D&D y Magic: The Gathering, fue una de las demandantes en el caso de derechos de autor de $1.5 billion contra Anthropic, desarrolladora de Claude AI. El pago estándar era de $3,000 por obra incluida en la demanda, con un reparto 50/50 entre autor y editorial, según informó Wargamer. Sin embargo, Wizards entregará también su mitad del pago a los autores, principalmente escritores independientes que trabajan por contrato con la empresa, incluidos nombres destacados como R.A. Salvatore."
+                "x": "Sony ha patentado una tecnología de AI que permite que una AI juegue por ti mientras haces otras cosas, como cenar. En la patente divulgada por Patentlyze, una función de la consola deja que una AI tome el mando en las partes del juego que elijas y te lo devuelva cuando regreses. Se diferencia de una patente divulgada hace un año, en la que un \"jugador fantasma\" de AI jugaba a tu lado para mostrarte cómo jugar."
               },
               {
                 "t": "p",
-                "x": "El escritor y editor independiente James Lowder escribió en LinkedIn: \"Esto es notable y supone que cientos de miles de dólares que WotC podría haber cobrado irán a los escritores. Y Wizards lo hace en un momento en que las grandes editoriales se apresuran a quedarse con la mayor parte posible del dinero del acuerdo a costa de los autores.\" Atribuyó el mérito a los debates impulsados por los autores, en especial a los esfuerzos de R.A. Salvatore, y a Dan Ayoub, de Wizards."
+                "x": "El juego se divide en unidades de juego, como una aventura, una misión o una sola escena. Un servidor recopila grabaciones de las entradas de mando de jugadores reales y marcadores de eventos que indican cuándo empieza y termina cada tarea, y luego entrena un asistente de AI por cada fragmento mediante una red neuronal convolucional y aprendizaje por refuerzo. Los asistentes que alcanzan aproximadamente la habilidad de un jugador medio se guardan; el resto se descarta."
               },
               {
                 "t": "p",
-                "x": "Ted Litchfield, de PC Gamer, señala que Wizards ha sufrido daños en su reputación en los últimos años por el uso de AI —arte hecho con AI en material de marketing y en un libro de consulta de D&D— y por sus relaciones laborales internas, y que la suma es calderilla para una empresa de miles de millones de dólares: \"Wizards of the Coast sin duda hizo lo correcto aquí, pero creo que fue una victoria de PR comprada a bajo precio.\""
+                "x": "Un panel en pantalla indica si cada actividad admite el juego con AI de forma total, parcial o nula. Seleccionas las tareas y pulsas un botón de juego con AI; al tocar el mando recuperas el control. La consola también puede ofrecer la AI después de que falles una tarea, y puede cederle el control cuando el mando está inactivo."
+              },
+              {
+                "t": "p",
+                "x": "Patentlyze afirmó que ha seguido 174 solicitudes de patente de Sony desde mayo."
               }
             ]
           }
@@ -567,15 +315,457 @@
       }
     },
     {
-      "id": "activision-voicechat-npc-patent",
+      "id": "slotbound-ai-solo-hit",
+      "source_lang": "ja",
+      "eyebrow": "AI NEWS",
+      "headline": "거의 무경험자가 AI로\n만든 게임 20만 장",
+      "body": "AI로 코드를 짠 Slotbound가 Steam에서 6일 만에 20만 장 팔렸다.",
+      "mini_headline": "AI로 만든 Slotbound 20만 장",
+      "tool": "Games",
+      "source": "Game*Spark",
+      "url": "http://www.gamespark.jp/article/2026/11/23/175187.html",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "6j0w7Q2Q_LM"
+          },
+          {
+            "t": "p",
+            "x": "『슬롯바운드 - Slotbound』는 Optima Arch가 개발·발매한 로그라이트 오토배틀러 디펜스 게임이다. 슬롯머신을 돌려 유닛을 불러내고 웨이브를 버틴다. 3×3 슬롯에서 라인이 맞으면 유닛이 소환되고, 융합·강화로 레벨과 역할이 올라간다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+          },
+          {
+            "t": "p",
+            "x": "'코어'와 '정수', 무작위 '특성', 유닛 '흡수'로 스킬을 물려받는 구조 덕에 운보다 전략이 더 중요하다. 플레이어들은 \"운 게임인 줄 알았는데 운만은 아니다\", \"그만둘 때를 못 찾고 1판만 더…… 하며 하게 된다\" 같은 반응을 보인다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+            "cap": "가운데 라인을 내리면 왕관이 맞춰진다."
+          },
+          {
+            "t": "p",
+            "x": "Optima Arch는 이 게임을 혼자 만들었다. 시작 전까지는 프로그래밍도 게임 개발도 거의 해 본 적이 없었는데, AI 코딩 도구를 써서 약 8개월 만에 출시했다고 한다. 게임 시스템과 밸런스 조정, UI 등 재미를 좌우하는 부분은 직접 손봤다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+          },
+          {
+            "t": "p",
+            "x": "출시 3일 만에 10만 장, 6일 만에 20만 장을 돌파했다. 지금은 스테이지 6개와 엔드리스 모드가 들어 있고, 피드백을 받아 버그 수정과 밸런스 조정, 새 콘텐츠 추가를 계속할 계획이다. PC(Steam)용으로 판매 중이다."
+          }
+        ]
+      },
+      "text": {
+        "ja": {
+          "headline": "ほぼ未経験者がAIで\n作ったゲームが20万本",
+          "body": "AIでコードを書いた『Slotbound』は、Steamで6日間に20万本を売り上げた。",
+          "mini_headline": "AI製Slotboundが20万本",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "『スロットバウンド - Slotbound』は、Optima Archが開発・発売した、スロットマシンを回してユニットを召喚し、ウェーブを耐え抜くローグライト・オートバトラー防衛ゲーム。3×3のスロットでラインが揃うとユニットが召喚され、融合・強化でレベルや役職が上がっていく。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "「コア」や「精髄」、ランダムな「特性」、ユニットの「吸収」によるスキル継承など、運だけでなく戦略性の高さが魅力。プレイヤーからは「運ゲーかと思いきや運だけじゃない」「やめ時が見つからずあと1回だけ……と遊んでしまう」といった声が寄せられている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "真ん中のラインを下げれば、王冠が揃います。"
+              },
+              {
+                "t": "p",
+                "x": "本作はOptima Arch氏が1人で開発。開発を始めるまでプログラミングやゲーム開発の経験がほとんどない状態から、AIコーディングツールを活用して8ヶ月ほどで本作をリリースしたという。ゲームシステムやバランス調整、UIなどは、ゲームとして楽しめるよう自身が手を加えていった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "発売から3日で10万本、6日で20万本を突破。現在は全6ステージとエンドレスモードを収録し、今後もフィードバックを受けて不具合修正やバランス調整、新コンテンツの追加を進めるとのこと。PC（Steam）向けに発売中。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Near-novice dev's AI-made game\nsells 200,000 copies",
+          "body": "Slotbound, whose code was written with AI, sold 200,000 copies on Steam in 6 days.",
+          "mini_headline": "AI-made Slotbound sells 200,000",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "Slotbound, developed and published by Optima Arch, is a roguelite auto-battler defense game in which you spin a slot machine to summon units and survive waves. Lining up a row on the 3×3 slots summons units, which rise in level and role through fusion and upgrades."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "Its appeal is strategic depth beyond luck, with \"cores,\" \"essences,\" random \"traits\" and skill inheritance through unit \"absorption.\" Players have said things like \"I thought it was a luck game, but it's not just luck\" and \"I can't find a time to stop and keep playing just 1 more time...\""
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "Lower the middle line and the crowns line up."
+              },
+              {
+                "t": "p",
+                "x": "Optima Arch developed the game as a 1-person project. Starting with almost no programming or game development experience, the developer used AI coding tools and released the game in about 8 months. The developer personally reworked the game systems, balance and UI so it would be fun to play as a game."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "It passed 100,000 copies 3 days after launch and 200,000 in 6 days. It currently includes 6 stages and an endless mode, and the developer plans to keep fixing bugs, adjusting balance and adding new content based on feedback. It is out now on PC (Steam)."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "거의 무경험자가 AI로\n만든 게임 20만 장",
+          "body": "AI로 코드를 짠 Slotbound가 Steam에서 6일 만에 20만 장 팔렸다.",
+          "mini_headline": "AI로 만든 Slotbound 20만 장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "『슬롯바운드 - Slotbound』는 Optima Arch가 개발·발매한 로그라이트 오토배틀러 디펜스 게임이다. 슬롯머신을 돌려 유닛을 불러내고 웨이브를 버틴다. 3×3 슬롯에서 라인이 맞으면 유닛이 소환되고, 융합·강화로 레벨과 역할이 올라간다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "'코어'와 '정수', 무작위 '특성', 유닛 '흡수'로 스킬을 물려받는 구조 덕에 운보다 전략이 더 중요하다. 플레이어들은 \"운 게임인 줄 알았는데 운만은 아니다\", \"그만둘 때를 못 찾고 1판만 더…… 하며 하게 된다\" 같은 반응을 보인다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "가운데 라인을 내리면 왕관이 맞춰진다."
+              },
+              {
+                "t": "p",
+                "x": "Optima Arch는 이 게임을 혼자 만들었다. 시작 전까지는 프로그래밍도 게임 개발도 거의 해 본 적이 없었는데, AI 코딩 도구를 써서 약 8개월 만에 출시했다고 한다. 게임 시스템과 밸런스 조정, UI 등 재미를 좌우하는 부분은 직접 손봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "출시 3일 만에 10만 장, 6일 만에 20만 장을 돌파했다. 지금은 스테이지 6개와 엔드리스 모드가 들어 있고, 피드백을 받아 버그 수정과 밸런스 조정, 새 콘텐츠 추가를 계속할 계획이다. PC(Steam)용으로 판매 중이다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "几乎没经验的人用AI\n做的游戏卖出20万份",
+          "body": "用AI写代码的《Slotbound》在Steam上6天卖出20万份。",
+          "mini_headline": "AI制作的Slotbound卖出20万份",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "《Slotbound》是由Optima Arch开发并发行的Roguelite自动战斗塔防游戏，玩家通过转动老虎机召唤单位、抵御一波波敌人。在3×3的老虎机格子上连成一线即可召唤单位，并通过融合与强化提升等级和职阶。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "“核心”“精髓”、随机“特性”以及通过单位“吸收”实现的技能继承等，让游戏不只靠运气，策略性也很高。玩家评价称“本以为是拼运气的游戏，其实不只是运气”“找不到停下来的时机，总想着再玩1次……”。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "把中间那条线往下拉，王冠就连上了。"
+              },
+              {
+                "t": "p",
+                "x": "本作由Optima Arch独自1人开发。据介绍，开发者在开始开发前几乎没有编程或游戏开发经验，借助AI编程工具，用了约8个月便发布了本作。游戏系统、平衡调整和UI等则由开发者亲自打磨，让它作为游戏足够好玩。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "本作发售3天销量突破10万份，6天突破20万份。目前收录全部6个关卡和无尽模式，今后将根据反馈继续修复问题、调整平衡并追加新内容。现已在PC（Steam）平台发售。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un casi novato crea con AI\nun juego que vende 200,000",
+          "body": "Slotbound, cuyo código se escribió con AI, vendió 200,000 copias en Steam en 6 días.",
+          "mini_headline": "Slotbound, hecho con AI, vende 200,000",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "Slotbound, desarrollado y publicado por Optima Arch, es un juego de defensa roguelite de tipo auto battler en el que se gira una máquina tragamonedas para invocar unidades y resistir oleadas. Al completar una línea en las ranuras de 3×3 se invoca una unidad, que sube de nivel y de rango mediante fusiones y mejoras."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "Su atractivo es la estrategia más allá de la suerte, con «núcleos», «esencias», «rasgos» aleatorios y la herencia de habilidades mediante la «absorción» de unidades. Los jugadores han comentado cosas como «parecía un juego de suerte, pero no es solo suerte» y «no encuentro el momento de parar y juego solo 1 vez más...»."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "Si bajas la línea del medio, se alinean las coronas."
+              },
+              {
+                "t": "p",
+                "x": "Optima Arch desarrolló el juego como proyecto de 1 persona. Sin apenas experiencia previa en programación ni en desarrollo de juegos, usó herramientas de programación con AI y lanzó el juego en unos 8 meses. Los sistemas de juego, el ajuste del equilibrio y la UI los retocó personalmente para que resultara divertido como juego."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "Superó las 100,000 copias a los 3 días del lanzamiento y las 200,000 a los 6 días. Actualmente incluye 6 fases y un modo infinito, y se seguirán corrigiendo errores, ajustando el equilibrio y añadiendo contenido nuevo según los comentarios. Ya está a la venta para PC (Steam)."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Near-novice dev's AI-made game\nsells 200,000 copies",
+          "body": "Slotbound, whose code was written with AI, sold 200,000 copies on Steam in 6 days.",
+          "mini_headline": "AI-made Slotbound sells 200,000",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "Slotbound, developed and published by Optima Arch, is a roguelite auto-battler defense game in which you spin a slot machine to summon units and survive waves. Lining up a row on the 3×3 slots summons units, which rise in level and role through fusion and upgrades."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "Its appeal is strategic depth beyond luck, with \"cores,\" \"essences,\" random \"traits\" and skill inheritance through unit \"absorption.\" Players have said things like \"I thought it was a luck game, but it's not just luck\" and \"I can't find a time to stop and keep playing just 1 more time...\""
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "Lower the middle line and the crowns line up."
+              },
+              {
+                "t": "p",
+                "x": "Optima Arch developed the game as a 1-person project. Starting with almost no programming or game development experience, the developer used AI coding tools and released the game in about 8 months. The developer personally reworked the game systems, balance and UI so it would be fun to play as a game."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "It passed 100,000 copies 3 days after launch and 200,000 in 6 days. It currently includes 6 stages and an endless mode, and the developer plans to keep fixing bugs, adjusting balance and adding new content based on feedback. It is out now on PC (Steam)."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "거의 무경험자가 AI로\n만든 게임 20만 장",
+          "body": "AI로 코드를 짠 Slotbound는 Steam에서 6일 만에 20만 장 팔렸다.",
+          "mini_headline": "AI로 만든 Slotbound 20만 장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "『슬롯바운드 - Slotbound』는 Optima Arch가 개발·발매한 로그라이트 오토배틀러 디펜스 게임으로, 슬롯머신을 돌려 유닛을 소환하고 웨이브를 버텨낸다. 3×3 슬롯에서 라인이 맞으면 유닛이 소환되고, 융합·강화로 레벨과 역할이 올라간다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "'코어'와 '정수', 무작위 '특성', 유닛 '흡수'를 통한 스킬 계승 등 운만이 아니라 높은 전략성이 매력이다. 플레이어들은 \"운 게임인 줄 알았는데 운만은 아니다\", \"그만둘 때를 못 찾고 1판만 더…… 하며 하게 된다\" 같은 반응을 보이고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "가운데 라인을 내리면 왕관이 맞춰진다."
+              },
+              {
+                "t": "p",
+                "x": "이 게임은 Optima Arch가 1인으로 개발했다. 개발을 시작하기 전까지 프로그래밍이나 게임 개발 경험이 거의 없었지만, AI 코딩 도구를 활용해 약 8개월 만에 출시했다고 한다. 게임 시스템과 밸런스 조정, UI 등은 게임으로서 즐길 수 있도록 직접 손봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "출시 3일 만에 10만 장, 6일 만에 20만 장을 돌파했다. 현재 총 6개 스테이지와 엔드리스 모드를 수록했으며, 앞으로도 피드백을 받아 버그 수정과 밸런스 조정, 새 콘텐츠 추가를 이어갈 예정이다. PC(Steam)용으로 판매 중이다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "几乎没经验的人用AI\n做的游戏卖出20万份",
+          "body": "用AI写代码的《Slotbound》在Steam上6天卖出20万份。",
+          "mini_headline": "AI制作的Slotbound卖出20万份",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "《Slotbound》是由Optima Arch开发并发行的Roguelite自动战斗塔防游戏，玩家通过转动老虎机召唤单位、抵御一波波敌人。在3×3的老虎机格子上连成一线即可召唤单位，并通过融合与强化提升等级和职阶。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "“核心”“精髓”、随机“特性”以及通过单位“吸收”实现的技能继承等，让游戏不只靠运气，策略性也很高。玩家评价称“本以为是拼运气的游戏，其实不只是运气”“找不到停下来的时机，总想着再玩1次……”。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "把中间那条线往下拉，王冠就连上了。"
+              },
+              {
+                "t": "p",
+                "x": "本作由Optima Arch独自1人开发。据介绍，开发者在开始开发前几乎没有编程或游戏开发经验，借助AI编程工具，用了约8个月便发布了本作。游戏系统、平衡调整和UI等则由开发者亲自打磨，让它作为游戏足够好玩。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "本作发售3天销量突破10万份，6天突破20万份。目前收录全部6个关卡和无尽模式，今后将根据反馈继续修复问题、调整平衡并追加新内容。现已在PC（Steam）平台发售。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un casi novato crea con AI\nun juego que vende 200,000",
+          "body": "Slotbound, cuyo código se escribió con AI, vendió 200,000 copias en Steam en 6 días.",
+          "mini_headline": "Slotbound, hecho con AI, vende 200,000",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "6j0w7Q2Q_LM"
+              },
+              {
+                "t": "p",
+                "x": "Slotbound, desarrollado y publicado por Optima Arch, es un juego de defensa roguelite de tipo auto battler en el que se gira una máquina tragamonedas para invocar unidades y resistir oleadas. Al completar una línea en las ranuras de 3×3 se invoca una unidad, que sube de nivel y de rango mediante fusiones y mejoras."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+              },
+              {
+                "t": "p",
+                "x": "Su atractivo es la estrategia más allá de la suerte, con «núcleos», «esencias», «rasgos» aleatorios y la herencia de habilidades mediante la «absorción» de unidades. Los jugadores han comentado cosas como «parecía un juego de suerte, pero no es solo suerte» y «no encuentro el momento de parar y juego solo 1 vez más...»."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+                "cap": "Si bajas la línea del medio, se alinean las coronas."
+              },
+              {
+                "t": "p",
+                "x": "Optima Arch desarrolló el juego como proyecto de 1 persona. Sin apenas experiencia previa en programación ni en desarrollo de juegos, usó herramientas de programación con AI y lanzó el juego en unos 8 meses. Los sistemas de juego, el ajuste del equilibrio y la UI los retocó personalmente para que resultara divertido como juego."
+              },
+              {
+                "t": "img",
+                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+              },
+              {
+                "t": "p",
+                "x": "Superó las 100,000 copias a los 3 días del lanzamiento y las 200,000 a los 6 días. Actualmente incluye 6 fases y un modo infinito, y se seguirán corrigiendo errores, ajustando el equilibrio y añadiendo contenido nuevo según los comentarios. Ya está a la venta para PC (Steam)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "tinybuild-short-reveal-window",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Activision 특허\nNPCs 음성채팅 학습",
-      "body": "Activision 특허가 AI-driven NPCs를 음성채팅으로 가르친다.",
-      "mini_headline": "AI NPCs, 음성채팅으로 학습",
+      "headline": "Tinybuild, AI\n복제 전에 출시 서둘러",
+      "body": "Tinybuild는 AI 복제 전 Probably Stolen을 석 달 만에 냈다.",
+      "mini_headline": "AI 복제보다 빠른 출시",
       "tool": "Games",
-      "source": "TheGamer",
-      "url": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -583,179 +773,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+            "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
           },
           {
             "t": "p",
-            "x": "Activision이 AI-powered NPCs가 플레이어처럼 말하도록 학습시키는 특허를 출원했다. Dexerto 보도에 따르면 특허 이름은 \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"이며, 음성 채팅 오디오를 활용해 게임 속 NPCs의 목소리를 더 실감 나게 만드는 방법을 설명한다. 목소리를 그대로 베끼지는 않는다. 플레이어가 하는 말과 반응하는 방식을 흉내 낸다. 특허에 Call of Duty가 명시되지는 않았지만, Activision의 대표 프랜차이즈인 만큼 그쪽에 쓰일 공산이 크다."
+            "x": "\"앞으로 반년 동안 가장 큰 화두는 출시까지 걸리는 시간, 그리고 개발자들이 이제 AI가 자기 게임을 베낄까 봐 두려워한다는 점이 될 것\"이라고 Tinybuild 대표 Alex Nichiporchik는 말한다. 생성형 AI가 나오면서 데모 코드를 리버스 엔지니어링해 개발 중인 게임을 베끼기가 쉬워졌다. Needle in a Haystack Simulator는 X에서 영상 하나가 5000만 회 넘게 조회되자 Steam에 모방작이 잇달아 올라왔다."
           },
           {
             "t": "p",
-            "x": "킬, 데스, 패배 같은 특정 게임 이벤트 전후 약 10초 분량의 오디오를 모아 같은 상황에서 NPCs가 어떻게 움직일지 다듬는 방식이다."
+            "x": "그래서 요즘은 발표와 출시 사이 간격을 최대한 줄이는 게 정석이 됐다. Probably Stolen은 8월 3일 발표 후 10월 28일 나왔다. 벌써 백만 장 넘게 팔렸고 출시 CCU는 80,000명을 넘었다."
           },
           {
             "t": "img",
-            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-            "cap": "음성 데이터로 NPCs를 학습시키는 방식을 보여 주는 Activision 특허."
+            "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "Probably Stolen은 공개 약 석 달 뒤인 10월 28일 출시됐다"
           },
           {
             "t": "p",
-            "x": "특허에는 Discord와 TeamSpeak도 등장하고, 서로 다른 애플리케이션 간 타임스탬프를 맞추는 내용도 담겼다. 공격적인 언어를 막는 필터를 넣겠다고 밝히지만, 음성 채팅 오디오를 써도 되는지 허락을 구한다는 대목은 없다. 다만 Activision이 이 기술로 특허를 받았다고 해서 곧바로 실제 게임에 들어간다는 뜻은 아니다."
+            "x": "Nichiporchik는 REA(Reverse Engineer Anything) 같은 도구 때문에 복제 문제가 훨씬 심해졌다며 \"특히 Unity 게임은 소스 코드를 거의 한 번에 뽑아낼 수 있다\"고 말한다. 그래도 개발자가 겁낼 일은 아니라고 한다. \"AI는 실력을 몇 배로 키워 주지만, 영에 천을 곱해도 여전히 영\"이며, 게임의 손맛은 베낄 수 없다는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "중국 반응도 뜨거웠다. 플레이테스트 활성화 246,000건 중 51%가 중국에서 나왔고, 가격은 미국(US)의 $19.99에 비해 55위안($8.25)이었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Activision patent trains NPCs\non players' voice chat",
-          "body": "An Activision patent describes training AI-driven NPCs on player voice chat so they talk and react like real players.",
-          "mini_headline": "AI NPCs learn from voice chat",
+          "headline": "Tinybuild shortens the hype\nwindow to beat AI clones",
+          "body": "Tinybuild gave Probably Stolen just three months from reveal to release, leaving AI copycats little time to clone it.",
+          "mini_headline": "Launch fast to beat AI clones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activision has filed a patent that would train AI-powered NPCs to talk just like players do. As reported by Dexerto, the patent is called \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio,\" and describes using the audio from voice chat to make in-game NPCs sound more realistic. It wouldn't copy your voice exactly, but what you say and how you react. The patent doesn't explicitly mention Call of Duty, but as Activision's leading franchise, it's a safe bet that's where it would end up."
+                "x": "\"I think the biggest talking point over the next half year is going to be the time to market, and how devs are now afraid of how AI copies their games,\" says Tinybuild head Alex Nichiporchik. Generative AI makes it easier to copy in-development titles, for example by reverse engineering code from demos; Needle in a Haystack Simulator drew multiple copycats on Steam after a video got more than 50 million views on X."
               },
               {
                 "t": "p",
-                "x": "It would capture audio around 10 seconds before and after a flagged game event, i.e. kills, deaths, and losses, shaping how NPCs behave in the same scenarios."
+                "x": "The new wisdom is to keep the gap between announcement and launch to a minimum. Probably Stolen was announced on August 3 and released on October 28, and has already sold more than a million units, with launch CCU climbing above 80,000."
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Activision patent showing how voice data would be used to train NPCs."
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolen was released on October 28, around three months after it was revealed"
               },
               {
                 "t": "p",
-                "x": "The patent mentions Discord and TeamSpeak too, matching timestamps across separate applications. It notes it would include filters to stop offensive language, but makes no mention of asking for permission to use voice chat audio. Of course, just because Activision patented this technology doesn't mean it will be implemented in-game."
+                "x": "Nichiporchik says the tool REA (Reverse Engineer Anything) has made clones much worse: \"especially for Unity games, you can pretty much one shot the source code.\" Still, he says devs shouldn't be afraid: \"AI will multiply your skills, and zero times a thousand is still zero\" — game feel is impossible to copy."
+              },
+              {
+                "t": "p",
+                "x": "The game also took off in China, where 51% of 246,000 playtest activations came from and it was priced at 55 yuan ($8.25) versus $19.99 in the US."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Activision 특허\nNPCs 음성채팅 학습",
-          "body": "Activision 특허가 AI-driven NPCs를 음성채팅으로 가르친다.",
-          "mini_headline": "AI NPCs, 음성채팅으로 학습",
+          "headline": "Tinybuild, AI\n복제 전에 출시 서둘러",
+          "body": "Tinybuild는 AI 복제 전 Probably Stolen을 석 달 만에 냈다.",
+          "mini_headline": "AI 복제보다 빠른 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activision이 AI-powered NPCs가 플레이어처럼 말하도록 학습시키는 특허를 출원했다. Dexerto 보도에 따르면 특허 이름은 \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"이며, 음성 채팅 오디오를 활용해 게임 속 NPCs의 목소리를 더 실감 나게 만드는 방법을 설명한다. 목소리를 그대로 베끼지는 않는다. 플레이어가 하는 말과 반응하는 방식을 흉내 낸다. 특허에 Call of Duty가 명시되지는 않았지만, Activision의 대표 프랜차이즈인 만큼 그쪽에 쓰일 공산이 크다."
+                "x": "\"앞으로 반년 동안 가장 큰 화두는 출시까지 걸리는 시간, 그리고 개발자들이 이제 AI가 자기 게임을 베낄까 봐 두려워한다는 점이 될 것\"이라고 Tinybuild 대표 Alex Nichiporchik는 말한다. 생성형 AI가 나오면서 데모 코드를 리버스 엔지니어링해 개발 중인 게임을 베끼기가 쉬워졌다. Needle in a Haystack Simulator는 X에서 영상 하나가 5000만 회 넘게 조회되자 Steam에 모방작이 잇달아 올라왔다."
               },
               {
                 "t": "p",
-                "x": "킬, 데스, 패배 같은 특정 게임 이벤트 전후 약 10초 분량의 오디오를 모아 같은 상황에서 NPCs가 어떻게 움직일지 다듬는 방식이다."
+                "x": "그래서 요즘은 발표와 출시 사이 간격을 최대한 줄이는 게 정석이 됐다. Probably Stolen은 8월 3일 발표 후 10월 28일 나왔다. 벌써 백만 장 넘게 팔렸고 출시 CCU는 80,000명을 넘었다."
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "음성 데이터로 NPCs를 학습시키는 방식을 보여 주는 Activision 특허."
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolen은 공개 약 석 달 뒤인 10월 28일 출시됐다"
               },
               {
                 "t": "p",
-                "x": "특허에는 Discord와 TeamSpeak도 등장하고, 서로 다른 애플리케이션 간 타임스탬프를 맞추는 내용도 담겼다. 공격적인 언어를 막는 필터를 넣겠다고 밝히지만, 음성 채팅 오디오를 써도 되는지 허락을 구한다는 대목은 없다. 다만 Activision이 이 기술로 특허를 받았다고 해서 곧바로 실제 게임에 들어간다는 뜻은 아니다."
+                "x": "Nichiporchik는 REA(Reverse Engineer Anything) 같은 도구 때문에 복제 문제가 훨씬 심해졌다며 \"특히 Unity 게임은 소스 코드를 거의 한 번에 뽑아낼 수 있다\"고 말한다. 그래도 개발자가 겁낼 일은 아니라고 한다. \"AI는 실력을 몇 배로 키워 주지만, 영에 천을 곱해도 여전히 영\"이며, 게임의 손맛은 베낄 수 없다는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "중국 반응도 뜨거웠다. 플레이테스트 활성화 246,000건 중 51%가 중국에서 나왔고, 가격은 미국(US)의 $19.99에 비해 55위안($8.25)이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Activisionの特許\nボイスチャットでNPCs学習",
-          "body": "Activisionの特許はAI-driven NPCsを音声チャットで学習させる。",
-          "mini_headline": "AI NPCs、ボイスチャットで学習",
+          "headline": "AI模倣に先手を打つ\nTinybuildの告知短縮",
+          "body": "TinybuildはAI模倣の前にProbably Stolenを三か月で発売した。",
+          "mini_headline": "AI模倣に勝つには早期発売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activisionは、AI-powered NPCsがプレイヤーと同じように話すよう学習させる特許を出願した。Dexertoによると、特許の名称は\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"で、ボイスチャットの音声を使ってゲーム内のNPCsをよりリアルに聞こえるようにする方法を記している。声をそのまま複製するのではなく、プレイヤーの発言内容と反応の仕方を再現するという。特許はCall of Dutyに明示的には触れていないが、Activisionの看板フランチャイズである以上、そこで使われる可能性が高い。"
+                "x": "「今後半年で最大の話題になるのは市場投入までの期間と、AIに自分のゲームを模倣されることを開発者が恐れている現状だと思う」と、Tinybuild代表のAlex Nichiporchik氏は語る。生成AIによって、デモからコードをリバースエンジニアリングするなどして開発中のタイトルを模倣しやすくなった。Needle in a Haystack Simulatorは、Xで動画が5000万回以上再生された後、Steamに複数の模倣作が現れた。"
               },
               {
                 "t": "p",
-                "x": "キル、デス、敗北といった特定のゲームイベントの前後約10秒の音声を取り込み、同じ場面でのNPCsのふるまいを形づくる。"
+                "x": "新たな定石は、発表から発売までの間隔を最小限に抑えることだ。Probably Stolenは8月3日に発表されて10月28日に発売され、すでに百万本以上を売り上げ、発売時のCCUは80,000を超えた。"
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "音声データをNPCsの学習に使う仕組みを示すActivisionの特許。"
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolenは公開から約三か月後の10月28日に発売された"
               },
               {
                 "t": "p",
-                "x": "特許はDiscordやTeamSpeakにも触れ、別々のアプリケーション間でタイムスタンプを照合する。不快な言葉を防ぐフィルターを入れるとしているが、ボイスチャット音声の使用許可を求めることには一切触れていない。もっとも、Activisionがこの技術の特許を取ったからといって、ゲームに実装されるとは限らない。"
+                "x": "Nichiporchik氏は、REA（Reverse Engineer Anything）というツールによってクローン問題がはるかに悪化したと言う。「特にUnityのゲームなら、ソースコードをほぼ一発で抜き出せる」。それでも開発者は恐れる必要はないと述べる。「AIはスキルを何倍にもするが、ゼロに千を掛けてもゼロのままだ」。ゲームの手触りは模倣できないという。"
+              },
+              {
+                "t": "p",
+                "x": "本作は中国でも人気を博した。プレイテストのアクティベーション246,000件のうち51%が中国からで、価格は米国（US）の$19.99に対し55元（$8.25）だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Activision专利\n用玩家语音训练NPCs",
-          "body": "Activision专利拟用玩家语音训练AI-driven NPCs，使其像真人一样说话。",
-          "mini_headline": "AI NPCs借语音聊天学习",
+          "headline": "Tinybuild缩短宣传期\n抢在AI克隆之前",
+          "body": "Tinybuild让Probably Stolen公布三个月即发售，AI抄袭者无暇跟进。",
+          "mini_headline": "快速发售，抢先AI克隆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activision提交了一项专利，旨在训练AI-powered NPCs像玩家一样说话。据Dexerto报道，该专利名为\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"，描述了利用语音聊天音频让游戏内NPCs听起来更真实的方法。它不会完全复制你的声音，而是模仿你说的内容和你的反应方式。专利没有明确提到Call of Duty，但作为Activision的头号系列，它最终很可能会用在那里。"
+                "x": "“我认为未来半年最大的话题将是上市时间，以及开发者如今多么害怕AI抄袭他们的游戏。”Tinybuild负责人Alex Nichiporchik说。生成式AI让抄袭开发中的作品变得更容易，例如对试玩版代码进行逆向工程；Needle in a Haystack Simulator的一段视频在X上播放量超过5000万次后，Steam上出现了多款模仿作品。"
               },
               {
                 "t": "p",
-                "x": "它会在击杀、死亡和失败等被标记的游戏事件前后各捕捉约10秒的音频，以此塑造NPCs在相同情境下的行为。"
+                "x": "新的共识是把公布与发售之间的间隔压到最短。Probably Stolen于8月3日公布、10月28日发售，销量已超过百万份，首发CCU攀升至80,000以上。"
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Activision专利图示：语音数据将如何用于训练NPCs。"
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolen于10月28日发售，距公布约三个月"
               },
               {
                 "t": "p",
-                "x": "该专利还提到了Discord和TeamSpeak，可在不同应用之间匹配时间戳。专利称会加入过滤器以阻止冒犯性语言，但完全没有提到使用语音聊天音频前征求许可。当然，Activision为这项技术申请了专利，并不意味着它一定会在游戏中实装。"
+                "x": "Nichiporchik表示，REA（Reverse Engineer Anything）这一工具让克隆问题严重得多：“尤其是Unity游戏，几乎一次就能提取出源代码。”不过他认为开发者不必害怕：“AI会成倍放大你的技能，而零乘以一千仍然是零。”游戏手感是无法复制的。"
+              },
+              {
+                "t": "p",
+                "x": "该游戏在中国也大受欢迎：246,000次试玩激活中有51%来自中国，定价为55元（$8.25），而在美国（US）为$19.99。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una patente de Activision\nentrena NPCs con chats de voz",
-          "body": "Una patente de Activision entrena NPCs AI-driven con chats de voz de jugadores para que hablen y reaccionen como ellos.",
-          "mini_headline": "NPCs con AI aprenden del chat de voz",
+          "headline": "Tinybuild acorta la promoción\npara adelantarse a clones de AI",
+          "body": "Tinybuild dio a Probably Stolen solo tres meses de anuncio a lanzamiento, y dejó poco margen a los clones de AI.",
+          "mini_headline": "Lanzar rápido para ganar a los clones de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activision ha presentado una patente para entrenar NPCs AI-powered de modo que hablen igual que los jugadores. Según informó Dexerto, la patente se titula \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\" y describe el uso del audio del chat de voz para que los NPCs del juego suenen más realistas. No copiaría la voz exactamente, sino lo que se dice y cómo se reacciona. La patente no menciona explícitamente Call of Duty, pero al ser la franquicia principal de Activision, es muy probable que acabe ahí."
+                "x": "\"Creo que el mayor tema de conversación en el próximo medio año será el tiempo de llegada al mercado y cómo los desarrolladores temen ahora que la AI copie sus juegos\", dice el director de Tinybuild, Alex Nichiporchik. La AI generativa facilita copiar títulos en desarrollo, por ejemplo mediante ingeniería inversa del código de las demos; Needle in a Haystack Simulator atrajo varias copias en Steam después de que un video superara los 50 millones de visualizaciones en X."
               },
               {
                 "t": "p",
-                "x": "Capturaría el audio de unos 10 segundos antes y después de un evento marcado de la partida, es decir, bajas, muertes y derrotas, para moldear cómo se comportan los NPCs en esas mismas situaciones."
+                "x": "La nueva norma es reducir al mínimo el intervalo entre el anuncio y el lanzamiento. Probably Stolen se anunció el 3 de agosto y salió el 28 de octubre; ya ha vendido más de un millón de unidades y su CCU de lanzamiento superó los 80,000."
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Patente de Activision que muestra cómo se usarían los datos de voz para entrenar NPCs."
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolen salió el 28 de octubre, unos tres meses después de su presentación"
               },
               {
                 "t": "p",
-                "x": "La patente también menciona Discord y TeamSpeak, y sincroniza las marcas de tiempo entre aplicaciones distintas. Señala que incluiría filtros para frenar el lenguaje ofensivo, pero no menciona en ningún momento pedir permiso para usar el audio del chat de voz. Por supuesto, que Activision haya patentado esta tecnología no significa que vaya a implementarse en los juegos."
+                "x": "Nichiporchik afirma que la herramienta REA (Reverse Engineer Anything) ha agravado mucho las copias: \"sobre todo en los juegos de Unity, se puede obtener el código fuente prácticamente de una sola vez\". Aun así, dice que los desarrolladores no deberían tener miedo: \"la AI multiplicará tus habilidades, y cero por mil sigue siendo cero\"; la sensación de juego es imposible de copiar."
+              },
+              {
+                "t": "p",
+                "x": "El juego también triunfó en China, de donde procedió el 51% de las 246,000 activaciones de la prueba de juego, con un precio de 55 yuanes ($8.25) frente a $19.99 en Estados Unidos (US)."
               }
             ]
           }
@@ -763,125 +977,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Activision 특허\n음성채팅으로 NPCs 학습",
-          "body": "Activision 특허는 AI-driven NPCs를 음성채팅으로 학습시킨다.",
-          "mini_headline": "AI NPCs, 음성채팅으로 학습",
+          "headline": "Tinybuild, AI\n복제 전에 출시 서둘러",
+          "body": "Tinybuild는 AI 복제 전 Probably Stolen을 석 달 만에 냈다.",
+          "mini_headline": "AI 복제보다 빠른 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activision이 AI-powered NPCs가 플레이어처럼 말하도록 학습시키는 특허를 출원했다. Dexerto 보도에 따르면 특허 이름은 \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"이며, 음성 채팅 오디오를 활용해 게임 속 NPCs의 목소리를 더 실감 나게 만드는 방법을 설명한다. 목소리를 그대로 복제하는 것이 아니라, 플레이어가 하는 말과 반응 방식을 따라 한다. 특허에 Call of Duty가 명시되지는 않았지만, Activision의 대표 프랜차이즈인 만큼 그곳에 적용될 가능성이 높다."
+                "x": "\"앞으로 반년 동안 가장 큰 화두는 출시까지 걸리는 시간, 그리고 개발자들이 이제 AI가 자기 게임을 베낄까 봐 두려워한다는 점이 될 것\"이라고 Tinybuild 대표 Alex Nichiporchik는 말한다. 생성형 AI 덕분에 데모의 코드를 리버스 엔지니어링하는 식으로 개발 중인 게임을 베끼기가 쉬워졌다. Needle in a Haystack Simulator는 X에서 한 영상이 5000만 회 넘게 조회된 뒤 Steam에 여러 모방작이 등장했다."
               },
               {
                 "t": "p",
-                "x": "킬, 데스, 패배 같은 특정 게임 이벤트 전후 약 10초간의 오디오를 수집해, 같은 상황에서 NPCs가 어떻게 행동할지 다듬는다."
+                "x": "새로운 통념은 발표와 출시 사이의 간격을 최소한으로 줄이는 것이다. Probably Stolen은 8월 3일 발표돼 10월 28일 출시됐고, 이미 백만 장 넘게 팔렸으며 출시 CCU는 80,000명을 넘었다."
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "음성 데이터로 NPCs를 학습시키는 방식을 보여 주는 Activision 특허."
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolen은 공개 약 석 달 뒤인 10월 28일 출시됐다"
               },
               {
                 "t": "p",
-                "x": "특허는 Discord와 TeamSpeak도 언급하며, 서로 다른 애플리케이션의 타임스탬프를 맞춘다. 공격적인 언어를 막는 필터를 넣겠다고 밝히지만, 음성 채팅 오디오 사용에 대한 허락을 구하는 내용은 없다. 물론 Activision이 이 기술로 특허를 받았다고 해서 실제 게임에 적용된다는 뜻은 아니다."
+                "x": "Nichiporchik는 REA(Reverse Engineer Anything) 같은 도구 때문에 복제 문제가 훨씬 심해졌다며 \"특히 Unity 게임은 소스 코드를 거의 한 번에 뽑아낼 수 있다\"고 말한다. 그래도 개발자가 두려워할 필요는 없다고 그는 말한다. \"AI는 실력을 몇 배로 키워 주지만, 영에 천을 곱해도 여전히 영\"이며, 게임의 손맛은 베낄 수 없다는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "이 게임은 중국에서도 인기를 끌었다. 플레이테스트 활성화 246,000건 중 51%가 중국에서 나왔고, 가격은 미국(US)의 $19.99에 비해 55위안($8.25)이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Activisionの特許\nボイスチャットでNPCs学習",
-          "body": "Activisionの特許はAI-driven NPCsを音声チャットで学習させる。",
-          "mini_headline": "AI NPCs、ボイスチャットで学習",
+          "headline": "AI模倣に先手を打つ\nTinybuildの告知短縮",
+          "body": "TinybuildはAI模倣の前にProbably Stolenを三か月で発売した。",
+          "mini_headline": "AI模倣に勝つには早期発売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activisionは、AI-powered NPCsがプレイヤーと同じように話すよう学習させる特許を出願した。Dexertoによると、特許の名称は\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"で、ボイスチャットの音声を使ってゲーム内のNPCsをよりリアルに聞こえるようにする方法を記している。声をそのまま複製するのではなく、プレイヤーの発言内容と反応の仕方を再現するという。特許はCall of Dutyに明示的には触れていないが、Activisionの看板フランチャイズである以上、そこで使われる可能性が高い。"
+                "x": "「今後半年で最大の話題になるのは市場投入までの期間と、AIに自分のゲームを模倣されることを開発者が恐れている現状だと思う」と、Tinybuild代表のAlex Nichiporchik氏は語る。生成AIによって、デモからコードをリバースエンジニアリングするなどして開発中のタイトルを模倣しやすくなった。Needle in a Haystack Simulatorは、Xで動画が5000万回以上再生された後、Steamに複数の模倣作が現れた。"
               },
               {
                 "t": "p",
-                "x": "キル、デス、敗北といった特定のゲームイベントの前後約10秒の音声を取り込み、同じ場面でのNPCsのふるまいを形づくる。"
+                "x": "新たな定石は、発表から発売までの間隔を最小限に抑えることだ。Probably Stolenは8月3日に発表されて10月28日に発売され、すでに百万本以上を売り上げ、発売時のCCUは80,000を超えた。"
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "音声データをNPCsの学習に使う仕組みを示すActivisionの特許。"
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolenは公開から約三か月後の10月28日に発売された"
               },
               {
                 "t": "p",
-                "x": "特許はDiscordやTeamSpeakにも触れ、別々のアプリケーション間でタイムスタンプを照合する。不快な言葉を防ぐフィルターを入れるとしているが、ボイスチャット音声の使用許可を求めることには一切触れていない。もっとも、Activisionがこの技術の特許を取ったからといって、ゲームに実装されるとは限らない。"
+                "x": "Nichiporchik氏は、REA（Reverse Engineer Anything）というツールによってクローン問題がはるかに悪化したと言う。「特にUnityのゲームなら、ソースコードをほぼ一発で抜き出せる」。それでも開発者は恐れる必要はないと述べる。「AIはスキルを何倍にもするが、ゼロに千を掛けてもゼロのままだ」。ゲームの手触りは模倣できないという。"
+              },
+              {
+                "t": "p",
+                "x": "本作は中国でも人気を博した。プレイテストのアクティベーション246,000件のうち51%が中国からで、価格は米国（US）の$19.99に対し55元（$8.25）だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Activision专利\n用玩家语音训练NPCs",
-          "body": "Activision专利拟用玩家语音训练AI-driven NPCs，使其像真人一样说话。",
-          "mini_headline": "AI NPCs借语音聊天学习",
+          "headline": "Tinybuild缩短宣传期\n抢在AI克隆之前",
+          "body": "Tinybuild让Probably Stolen公布三个月即发售，AI抄袭者无暇跟进。",
+          "mini_headline": "快速发售，抢先AI克隆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activision提交了一项专利，旨在训练AI-powered NPCs像玩家一样说话。据Dexerto报道，该专利名为\"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\"，描述了利用语音聊天音频让游戏内NPCs听起来更真实的方法。它不会完全复制你的声音，而是模仿你说的内容和你的反应方式。专利没有明确提到Call of Duty，但作为Activision的头号系列，它最终很可能会用在那里。"
+                "x": "“我认为未来半年最大的话题将是上市时间，以及开发者如今多么害怕AI抄袭他们的游戏。”Tinybuild负责人Alex Nichiporchik说。生成式AI让抄袭开发中的作品变得更容易，例如对试玩版代码进行逆向工程；Needle in a Haystack Simulator的一段视频在X上播放量超过5000万次后，Steam上出现了多款模仿作品。"
               },
               {
                 "t": "p",
-                "x": "它会在击杀、死亡和失败等被标记的游戏事件前后各捕捉约10秒的音频，以此塑造NPCs在相同情境下的行为。"
+                "x": "新的共识是把公布与发售之间的间隔压到最短。Probably Stolen于8月3日公布、10月28日发售，销量已超过百万份，首发CCU攀升至80,000以上。"
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Activision专利图示：语音数据将如何用于训练NPCs。"
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolen于10月28日发售，距公布约三个月"
               },
               {
                 "t": "p",
-                "x": "该专利还提到了Discord和TeamSpeak，可在不同应用之间匹配时间戳。专利称会加入过滤器以阻止冒犯性语言，但完全没有提到使用语音聊天音频前征求许可。当然，Activision为这项技术申请了专利，并不意味着它一定会在游戏中实装。"
+                "x": "Nichiporchik表示，REA（Reverse Engineer Anything）这一工具让克隆问题严重得多：“尤其是Unity游戏，几乎一次就能提取出源代码。”不过他认为开发者不必害怕：“AI会成倍放大你的技能，而零乘以一千仍然是零。”游戏手感是无法复制的。"
+              },
+              {
+                "t": "p",
+                "x": "该游戏在中国也大受欢迎：246,000次试玩激活中有51%来自中国，定价为55元（$8.25），而在美国（US）为$19.99。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una patente de Activision\nentrena NPCs con chats de voz",
-          "body": "Una patente de Activision entrena NPCs AI-driven con chats de voz de jugadores para que hablen y reaccionen como ellos.",
-          "mini_headline": "NPCs con AI aprenden del chat de voz",
+          "headline": "Tinybuild acorta la promoción\npara adelantarse a clones de AI",
+          "body": "Tinybuild dio a Probably Stolen solo tres meses de anuncio a lanzamiento, y dejó poco margen a los clones de AI.",
+          "mini_headline": "Lanzar rápido para ganar a los clones de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Activision ha presentado una patente para entrenar NPCs AI-powered de modo que hablen igual que los jugadores. Según informó Dexerto, la patente se titula \"Methods and Systems for Applying Machine Learning to Generate Gameplay Audio\" y describe el uso del audio del chat de voz para que los NPCs del juego suenen más realistas. No copiaría la voz exactamente, sino lo que se dice y cómo se reacciona. La patente no menciona explícitamente Call of Duty, pero al ser la franquicia principal de Activision, es muy probable que acabe ahí."
+                "x": "\"Creo que el mayor tema de conversación en el próximo medio año será el tiempo de llegada al mercado y cómo los desarrolladores temen ahora que la AI copie sus juegos\", dice el director de Tinybuild, Alex Nichiporchik. La AI generativa facilita copiar títulos en desarrollo, por ejemplo mediante ingeniería inversa del código de las demos; Needle in a Haystack Simulator atrajo varias copias en Steam después de que un video superara los 50 millones de visualizaciones en X."
               },
               {
                 "t": "p",
-                "x": "Capturaría el audio de unos 10 segundos antes y después de un evento marcado de la partida, es decir, bajas, muertes y derrotas, para moldear cómo se comportan los NPCs en esas mismas situaciones."
+                "x": "La nueva norma es reducir al mínimo el intervalo entre el anuncio y el lanzamiento. Probably Stolen se anunció el 3 de agosto y salió el 28 de octubre; ya ha vendido más de un millón de unidades y su CCU de lanzamiento superó los 80,000."
               },
               {
                 "t": "img",
-                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/11/activision-patent-showing-how-voice-data-would-be-used-to-train-npcs.jpg?q=70&fit=crop&w=825&dpr=1",
-                "cap": "Patente de Activision que muestra cómo se usarían los datos de voz para entrenar NPCs."
+                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "Probably Stolen salió el 28 de octubre, unos tres meses después de su presentación"
               },
               {
                 "t": "p",
-                "x": "La patente también menciona Discord y TeamSpeak, y sincroniza las marcas de tiempo entre aplicaciones distintas. Señala que incluiría filtros para frenar el lenguaje ofensivo, pero no menciona en ningún momento pedir permiso para usar el audio del chat de voz. Por supuesto, que Activision haya patentado esta tecnología no significa que vaya a implementarse en los juegos."
+                "x": "Nichiporchik afirma que la herramienta REA (Reverse Engineer Anything) ha agravado mucho las copias: \"sobre todo en los juegos de Unity, se puede obtener el código fuente prácticamente de una sola vez\". Aun así, dice que los desarrolladores no deberían tener miedo: \"la AI multiplicará tus habilidades, y cero por mil sigue siendo cero\"; la sensación de juego es imposible de copiar."
+              },
+              {
+                "t": "p",
+                "x": "El juego también triunfó en China, de donde procedió el 51% de las 246,000 activaciones de la prueba de juego, con un precio de 55 yuanes ($8.25) frente a $19.99 en Estados Unidos (US)."
               }
             ]
           }
@@ -889,191 +1119,391 @@
       }
     },
     {
-      "id": "metahuman-markerless-mocap-insideunreal",
-      "source_lang": "en",
+      "id": "automaton-steam-ai-disclosure",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "폰으로 MetaHuman\nAnimator 전신 모캡",
-      "body": "Epic MetaHuman Animator가 폰·웹캠 영상을 전신 모캡으로 바꾼다.",
-      "mini_headline": "폰 영상으로 MetaHuman 모캡",
+      "headline": "AI 공개작 판매 부진\n표시 탓만은 아니다",
+      "body": "AI 공개 Steam 게임은 덜 팔리지만, 상당수는 애초에 불리했을 수 있다.",
+      "mini_headline": "AI 공개와 판매의 관계",
       "tool": "Games",
-      "source": "Unreal Engine (YouTube)",
-      "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
+      "source": "AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "zd7DCFBLCcc"
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
           },
           {
             "t": "p",
-            "x": "새로 나온 MetaHuman Animator Markerless Motion Capture 플러그인의 전신 애니메이션 기능을 자세히 들여다본다. 이 플러그인은 폰이나 웹캠으로 찍은 평범한 영상을 MetaHuman 캐릭터의 애니메이션으로 바꿔 준다. Epic 연구팀의 Michael Black이 기술의 작동 원리를 설명하고, Ben Kidd는 실제 프로젝트를 예로 촬영부터 최종 숏까지 쓰는 과정을 시연한다. 영화감독 Martin Bell도 나와 독립 창작자가 이 도구로 해낼 수 있는 일을 소개한다."
+            "x": "AI 사용을 공개하면 Steam 판매량이 달라지는지, 리뷰 수로 판매량을 추정해 통계로 따져 본 보고서가 나왔다. 2025년 1월부터 2026년 10월까지 출시된 3만1003편이 대상이며, 이 중 약 삼십 퍼센트인 9251편이 AI 사용을 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+          },
+          {
+            "t": "p",
+            "x": "추정 판매량 중앙값은 AI 사용을 공개하지 않은 게임이 200장, 공개한 게임이 71장이다. 조건을 맞춘 추정 모델에서도 AI 사용을 공개한 게임은 리뷰 수가 49.5% 적게 나왔다. 그렇다고 인과관계가 입증된 것은 아니다."
+          },
+          {
+            "t": "p",
+            "x": "스토어 페이지 공개부터 출시까지 걸린 기간의 중앙값은 비공개 게임이 167일, 공개 게임이 52일이다. 출시 당일 팔로워 수도 20명 대 6명이었다. Burton은 \"문제의 본질은 AI가 아닐지도 모른다\"고 말하며, 이런 게임 상당수가 퍼블리셔도 팬층도 없는 첫 작품에 준비 기간까지 짧은 \"지는 패턴\"이라고 짚었다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+          },
+          {
+            "t": "p",
+            "x": "AI 사용을 밝힌 데 따른 \"페널티\"가 발매 전부터 생길 수 있다는 지적도 덧붙였다. 준비 부족 탓인지 AI 기피 탓인지는 단정할 수 없고, 둘을 떼어 놓기도 어렵다는 입장이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "MetaHuman Animator turns phone\nvideo into full-body mocap",
-          "body": "Epic's MetaHuman Animator markerless plugin turns ordinary phone or webcam video into full-body animation.",
-          "mini_headline": "MetaHuman mocap from phone video",
+        "ja": {
+          "headline": "AI開示作品の低い売上\n原因は表示とは限らない",
+          "body": "AI開示のSteam作品は売上が低いが、多くは元々不利な作品だった可能性がある。",
+          "mini_headline": "AI開示と売上の関係",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Join us for a deep dive into full-body animation with the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or webcam into animation for your MetaHuman characters. Michael Black from Epic’s research team will explain how the technology works as Ben Kidd walks through using it on a real project, from capture to final shot. We’ll be joined by filmmaker Martin Bell who shows what an independent creator can do with it."
+                "x": "Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートが公開された。2025年1月から2026年10月にリリースされた3万1003本が対象で、約30％に当たる9251本がAIの利用を開示している。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "推定売上の中央値は、AI使用非開示ゲームで200本、開示したゲームは71本。条件を揃えた推定モデルでも、AI使用を開示したゲームではレビュー数が49.5％減少すると予測された。ただし因果関係を示すものではない。"
+              },
+              {
+                "t": "p",
+                "x": "ストアページ公開からリリースまでの期間の中央値は非開示ゲームで167日、開示ゲームで52日。リリース当日のフォロワー数も20人対6人だった。Burton氏は「問題の本質はAIではないのかもしれない」と語り、そうしたゲームの多くは初めての作品で、パブリッシャーもファン層もなく準備期間も不十分な「負けパターン」にあると指摘。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "一方でAI使用を明記する「ペナルティ」は発売前に発生し得るとも述べ、準備不足とAI忌避のどちらが正しいかは断定できず、両者は切り分けが不可能だとしている。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Low sales for AI-disclosed games\nThe label may not be the cause",
+          "body": "Steam games that disclose AI use sell less, but many may have been at a disadvantage from the start.",
+          "mini_headline": "AI disclosure and sales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+              },
+              {
+                "t": "p",
+                "x": "A report has been published that statistically analyzes how disclosing AI use affects game sales on Steam, as estimated from review counts. It covers 31,003 games released between January 2025 and October 2026, of which 9251, roughly thirty percent, disclose the use of AI."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Median estimated sales were 200 copies for games that did not disclose AI use and 71 for those that did. Even in an estimation model with matched conditions, games disclosing AI use were predicted to see 49.5% fewer reviews. This does not, however, show causation."
+              },
+              {
+                "t": "p",
+                "x": "The median time from store page launch to release was 167 days for non-disclosing games and 52 days for disclosing games. Followers on release day were also 20 versus 6. Burton said \"the real issue may not be AI,\" pointing out that many of these games are first titles stuck in a \"losing pattern\" with no publisher, no fan base and too little preparation time."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "He also noted that a \"penalty\" for stating AI use can arise before launch, adding that it cannot be determined whether lack of preparation or aversion to AI is the right explanation, and that the two cannot be separated."
               }
             ]
           }
         },
         "ko": {
-          "headline": "폰으로 MetaHuman\nAnimator 전신 모캡",
-          "body": "Epic MetaHuman Animator가 폰·웹캠 영상을 전신 모캡으로 바꾼다.",
-          "mini_headline": "폰 영상으로 MetaHuman 모캡",
+          "headline": "AI 공개작 판매 부진\n표시 탓만은 아니다",
+          "body": "AI 공개 Steam 게임은 덜 팔리지만, 상당수는 애초에 불리했을 수 있다.",
+          "mini_headline": "AI 공개와 판매의 관계",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "새로 나온 MetaHuman Animator Markerless Motion Capture 플러그인의 전신 애니메이션 기능을 자세히 들여다본다. 이 플러그인은 폰이나 웹캠으로 찍은 평범한 영상을 MetaHuman 캐릭터의 애니메이션으로 바꿔 준다. Epic 연구팀의 Michael Black이 기술의 작동 원리를 설명하고, Ben Kidd는 실제 프로젝트를 예로 촬영부터 최종 숏까지 쓰는 과정을 시연한다. 영화감독 Martin Bell도 나와 독립 창작자가 이 도구로 해낼 수 있는 일을 소개한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "スマホでMetaHuman\nAnimator全身モキャプ",
-          "body": "EpicのMetaHuman Animatorはスマホやウェブカメラ映像を全身アニメ化する。",
-          "mini_headline": "スマホ動画でMetaHumanモキャプ",
-          "full": {
-            "mode": "full",
-            "blocks": [
+                "x": "AI 사용을 공개하면 Steam 판매량이 달라지는지, 리뷰 수로 판매량을 추정해 통계로 따져 본 보고서가 나왔다. 2025년 1월부터 2026년 10월까지 출시된 3만1003편이 대상이며, 이 중 약 삼십 퍼센트인 9251편이 AI 사용을 밝혔다."
+              },
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
               },
               {
                 "t": "p",
-                "x": "新しいMetaHuman Animator Markerless Motion Captureプラグインによる全身アニメーションを掘り下げる。このプラグインは、スマホやウェブカメラで撮った普通の映像をMetaHumanキャラクターのアニメーションに変える。EpicのリサーチチームのMichael Blackが技術の仕組みを解説し、Ben Kiddが実際のプロジェクトでの使い方を撮影から最終ショットまで紹介する。映画監督のMartin Bellも参加し、インディーのクリエイターがこれで何をできるかを見せる。"
+                "x": "추정 판매량 중앙값은 AI 사용을 공개하지 않은 게임이 200장, 공개한 게임이 71장이다. 조건을 맞춘 추정 모델에서도 AI 사용을 공개한 게임은 리뷰 수가 49.5% 적게 나왔다. 그렇다고 인과관계가 입증된 것은 아니다."
+              },
+              {
+                "t": "p",
+                "x": "스토어 페이지 공개부터 출시까지 걸린 기간의 중앙값은 비공개 게임이 167일, 공개 게임이 52일이다. 출시 당일 팔로워 수도 20명 대 6명이었다. Burton은 \"문제의 본질은 AI가 아닐지도 모른다\"고 말하며, 이런 게임 상당수가 퍼블리셔도 팬층도 없는 첫 작품에 준비 기간까지 짧은 \"지는 패턴\"이라고 짚었다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 사용을 밝힌 데 따른 \"페널티\"가 발매 전부터 생길 수 있다는 지적도 덧붙였다. 준비 부족 탓인지 AI 기피 탓인지는 단정할 수 없고, 둘을 떼어 놓기도 어렵다는 입장이다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "手机视频经MetaHuman\nAnimator变全身动捕",
-          "body": "Epic的MetaHuman Animator无标记插件将手机或摄像头视频转为全身动画。",
-          "mini_headline": "手机视频做MetaHuman动捕",
+          "headline": "AI披露作品销量偏低\n原因未必在于标注",
+          "body": "披露使用AI的Steam作品销量较低，但其中许多可能原本就处于不利地位。",
+          "mini_headline": "AI披露与销量的关系",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "深入了解全身动画：新的MetaHuman Animator Markerless Motion Capture插件可将手机或网络摄像头拍摄的普通视频转化为MetaHuman角色的动画。Epic研究团队的Michael Black将讲解这项技术的原理，Ben Kidd则会在真实项目中演示从拍摄到最终镜头的完整使用流程。电影人Martin Bell也将加入，展示独立创作者能用它做到什么。"
+                "x": "一份报告发布，以Steam评论数推算游戏销量，统计分析了披露AI使用会对销量产生怎样的影响。分析对象为2025年1月至2026年10月发售的3万1003款游戏，其中约百分之三十、即9251款披露了AI的使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "推算销量的中位数，未披露AI使用的游戏为200份，披露的游戏为71份。在统一条件的推算模型中，披露AI使用的游戏评论数预计也会减少49.5%。不过，这并不代表因果关系。"
+              },
+              {
+                "t": "p",
+                "x": "从商店页面上线到发售的时间中位数，未披露游戏为167天，披露游戏为52天。发售当天的关注者数量也是20人对6人。Burton表示\"问题的本质或许不在于AI\"，并指出这类游戏多为首部作品，既没有发行商也没有粉丝群，准备时间也不足，处于\"失败模式\"之中。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "另一方面，他也表示注明AI使用的\"惩罚\"可能在发售前就已出现，无法断定准备不足与回避AI哪一种解释正确，两者无法区分开来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MetaHuman Animator convierte\nvideo de móvil en mocap corporal",
-          "body": "El plugin markerless de MetaHuman Animator de Epic convierte video de móvil o webcam en animación de cuerpo completo.",
-          "mini_headline": "Mocap de MetaHuman con video de móvil",
+          "headline": "Ventas bajas de juegos con AI\nLa etiqueta no siempre es causa",
+          "body": "Los juegos de Steam que declaran uso de AI venden menos, pero muchos quizá ya partían en desventaja.",
+          "mini_headline": "Declarar AI y las ventas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Un análisis a fondo de la animación de cuerpo completo con el nuevo plugin MetaHuman Animator Markerless Motion Capture, que convierte video común de un móvil o una webcam en animación para personajes MetaHuman. Michael Black, del equipo de investigación de Epic, explicará cómo funciona la tecnología, mientras Ben Kidd muestra su uso en un proyecto real, desde la captura hasta el plano final. También participa el cineasta Martin Bell, que mostrará lo que un creador independiente puede hacer con ella."
+                "x": "Se ha publicado un informe que analiza estadísticamente cómo afecta la declaración del uso de AI a las ventas de juegos en Steam, estimadas a partir del número de reseñas. Abarca 31,003 juegos lanzados entre enero de 2025 y octubre de 2026, de los cuales 9251, alrededor del treinta por ciento, declaran el uso de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La mediana de ventas estimadas fue de 200 copias para los juegos que no declararon uso de AI y de 71 para los que sí lo hicieron. Incluso en un modelo de estimación con condiciones igualadas, se predijo que los juegos que declaran uso de AI tendrían un 49.5% menos de reseñas. Sin embargo, esto no demuestra causalidad."
+              },
+              {
+                "t": "p",
+                "x": "La mediana del tiempo entre la publicación de la página en la tienda y el lanzamiento fue de 167 días para los juegos que no lo declararon y de 52 días para los que sí. Los seguidores el día del lanzamiento también fueron 20 frente a 6. Burton afirmó que \"quizá el fondo del problema no sea la AI\" y señaló que muchos de esos juegos son primeras obras atrapadas en un \"patrón perdedor\", sin editora, sin base de fans y con poco tiempo de preparación."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Por otro lado, indicó que la \"penalización\" por declarar el uso de AI puede producirse antes del lanzamiento, y que no se puede determinar si la explicación correcta es la falta de preparación o el rechazo a la AI, ya que ambas no pueden separarse."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "폰으로 MetaHuman\nAnimator 전신 모캡",
-          "body": "Epic의 MetaHuman Animator는 폰·웹캠 영상을 전신 모캡화한다.",
-          "mini_headline": "폰 영상으로 MetaHuman 모캡",
+        "en": {
+          "headline": "Low sales for AI-disclosed games\nThe label may not be the cause",
+          "body": "Steam games that disclose AI use sell less, but many may have been at a disadvantage from the start.",
+          "mini_headline": "AI disclosure and sales",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "새 MetaHuman Animator Markerless Motion Capture 플러그인으로 전신 애니메이션을 깊이 살펴본다. 이 플러그인은 폰이나 웹캠으로 찍은 평범한 영상을 MetaHuman 캐릭터의 애니메이션으로 바꿔 준다. Epic 연구팀의 Michael Black이 기술의 작동 원리를 설명하고, Ben Kidd가 실제 프로젝트에서 촬영부터 최종 숏까지 사용 과정을 보여 준다. 영화감독 Martin Bell도 함께해 독립 창작자가 이 도구로 무엇을 할 수 있는지 보여 준다."
+                "x": "A report has been published that statistically analyzes how disclosing AI use affects game sales on Steam, as estimated from review counts. It covers 31,003 games released between January 2025 and October 2026, of which 9251, roughly thirty percent, disclose the use of AI."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Median estimated sales were 200 copies for games that did not disclose AI use and 71 for those that did. Even in an estimation model with matched conditions, games disclosing AI use were predicted to see 49.5% fewer reviews. This does not, however, show causation."
+              },
+              {
+                "t": "p",
+                "x": "The median time from store page launch to release was 167 days for non-disclosing games and 52 days for disclosing games. Followers on release day were also 20 versus 6. Burton said \"the real issue may not be AI,\" pointing out that many of these games are first titles stuck in a \"losing pattern\" with no publisher, no fan base and too little preparation time."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "He also noted that a \"penalty\" for stating AI use can arise before launch, adding that it cannot be determined whether lack of preparation or aversion to AI is the right explanation, and that the two cannot be separated."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "スマホでMetaHuman\nAnimator全身モキャプ",
-          "body": "EpicのMetaHuman Animatorはスマホやウェブカメラ映像を全身アニメ化する。",
-          "mini_headline": "スマホ動画でMetaHumanモキャプ",
+        "ko": {
+          "headline": "AI 공개작 판매 부진\n표시 탓만은 아니다",
+          "body": "AI 공개 Steam 게임은 덜 팔리지만, 다수는 원래 불리했을 수 있다.",
+          "mini_headline": "AI 공개와 판매의 관계",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "新しいMetaHuman Animator Markerless Motion Captureプラグインによる全身アニメーションを掘り下げる。このプラグインは、スマホやウェブカメラで撮った普通の映像をMetaHumanキャラクターのアニメーションに変える。EpicのリサーチチームのMichael Blackが技術の仕組みを解説し、Ben Kiddが実際のプロジェクトでの使い方を撮影から最終ショットまで紹介する。映画監督のMartin Bellも参加し、インディーのクリエイターがこれで何をできるかを見せる。"
+                "x": "Steam 리뷰 수로 추정한 게임 판매량이 AI 사용 공개에 따라 어떤 영향을 받는지 통계적으로 분석한 보고서가 나왔다. 2025년 1월부터 2026년 10월까지 출시된 3만1003편이 대상이며, 이 가운데 약 삼십 퍼센트에 해당하는 9251편이 AI 사용을 공개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "추정 판매량 중앙값은 AI 사용을 공개하지 않은 게임이 200장, 공개한 게임이 71장이다. 조건을 맞춘 추정 모델에서도 AI 사용을 공개한 게임은 리뷰 수가 49.5% 줄어들 것으로 예측됐다. 다만 인과관계를 보여 주는 결과는 아니다."
+              },
+              {
+                "t": "p",
+                "x": "스토어 페이지 공개부터 출시까지 걸린 기간의 중앙값은 비공개 게임이 167일, 공개 게임이 52일이다. 출시 당일 팔로워 수도 20명 대 6명이었다. Burton은 \"문제의 본질은 AI가 아닐지도 모른다\"고 말하며, 이런 게임 상당수가 첫 작품이고 퍼블리셔도 팬층도 없이 준비 기간마저 부족한 \"지는 패턴\"에 놓여 있다고 짚었다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "한편 AI 사용을 밝히는 데 따른 \"페널티\"는 발매 전에 생길 수 있다고도 밝혔다. 준비 부족과 AI 기피 중 어느 쪽이 맞는지는 단정할 수 없으며, 둘을 떼어 놓을 수 없다는 입장이다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "手机视频经MetaHuman\nAnimator变全身动捕",
-          "body": "Epic的MetaHuman Animator无标记插件将手机或摄像头视频转为全身动画。",
-          "mini_headline": "手机视频做MetaHuman动捕",
+          "headline": "AI披露作品销量偏低\n原因未必在于标注",
+          "body": "披露使用AI的Steam作品销量较低，但其中许多可能原本就处于不利地位。",
+          "mini_headline": "AI披露与销量的关系",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "深入了解全身动画：新的MetaHuman Animator Markerless Motion Capture插件可将手机或网络摄像头拍摄的普通视频转化为MetaHuman角色的动画。Epic研究团队的Michael Black将讲解这项技术的原理，Ben Kidd则会在真实项目中演示从拍摄到最终镜头的完整使用流程。电影人Martin Bell也将加入，展示独立创作者能用它做到什么。"
+                "x": "一份报告发布，以Steam评论数推算游戏销量，统计分析了披露AI使用会对销量产生怎样的影响。分析对象为2025年1月至2026年10月发售的3万1003款游戏，其中约百分之三十、即9251款披露了AI的使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "推算销量的中位数，未披露AI使用的游戏为200份，披露的游戏为71份。在统一条件的推算模型中，披露AI使用的游戏评论数预计也会减少49.5%。不过，这并不代表因果关系。"
+              },
+              {
+                "t": "p",
+                "x": "从商店页面上线到发售的时间中位数，未披露游戏为167天，披露游戏为52天。发售当天的关注者数量也是20人对6人。Burton表示\"问题的本质或许不在于AI\"，并指出这类游戏多为首部作品，既没有发行商也没有粉丝群，准备时间也不足，处于\"失败模式\"之中。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "另一方面，他也表示注明AI使用的\"惩罚\"可能在发售前就已出现，无法断定准备不足与回避AI哪一种解释正确，两者无法区分开来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MetaHuman Animator convierte\nvideo de móvil en mocap corporal",
-          "body": "El plugin markerless de MetaHuman Animator de Epic convierte video de móvil o webcam en animación de cuerpo completo.",
-          "mini_headline": "Mocap de MetaHuman con video de móvil",
+          "headline": "Ventas bajas de juegos con AI\nLa etiqueta no siempre es causa",
+          "body": "Los juegos de Steam que declaran uso de AI venden menos, pero muchos quizá ya partían en desventaja.",
+          "mini_headline": "Declarar AI y las ventas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "zd7DCFBLCcc"
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Un análisis a fondo de la animación de cuerpo completo con el nuevo plugin MetaHuman Animator Markerless Motion Capture, que convierte video común de un móvil o una webcam en animación para personajes MetaHuman. Michael Black, del equipo de investigación de Epic, explicará cómo funciona la tecnología, mientras Ben Kidd muestra su uso en un proyecto real, desde la captura hasta el plano final. También participa el cineasta Martin Bell, que mostrará lo que un creador independiente puede hacer con ella."
+                "x": "Se ha publicado un informe que analiza estadísticamente cómo afecta la declaración del uso de AI a las ventas de juegos en Steam, estimadas a partir del número de reseñas. Abarca 31,003 juegos lanzados entre enero de 2025 y octubre de 2026, de los cuales 9251, alrededor del treinta por ciento, declaran el uso de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La mediana de ventas estimadas fue de 200 copias para los juegos que no declararon uso de AI y de 71 para los que sí lo hicieron. Incluso en un modelo de estimación con condiciones igualadas, se predijo que los juegos que declaran uso de AI tendrían un 49.5% menos de reseñas. Sin embargo, esto no demuestra causalidad."
+              },
+              {
+                "t": "p",
+                "x": "La mediana del tiempo entre la publicación de la página en la tienda y el lanzamiento fue de 167 días para los juegos que no lo declararon y de 52 días para los que sí. Los seguidores el día del lanzamiento también fueron 20 frente a 6. Burton afirmó que \"quizá el fondo del problema no sea la AI\" y señaló que muchos de esos juegos son primeras obras atrapadas en un \"patrón perdedor\", sin editora, sin base de fans y con poco tiempo de preparación."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Por otro lado, indicó que la \"penalización\" por declarar el uso de AI puede producirse antes del lanzamiento, y que no se puede determinar si la explicación correcta es la falta de preparación o el rechazo a la AI, ya que ambas no pueden separarse."
               }
             ]
           }
@@ -1081,15 +1511,15 @@
       }
     },
     {
-      "id": "motokare-deathgame-fmv-ai",
-      "source_lang": "ja",
+      "id": "chesscom-classic-hub-ai",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "생성 AI로 만든 FMV\n「전 남친×데스게임」",
-      "body": "생성 AI로 만든 FMV 게임 「전 남친×데스게임」이 12월 4일 무료로 나온다.",
-      "mini_headline": "생성 AI FMV 게임 출시",
+      "headline": "Chess.com 새 허브\n코딩만 AI, 아트는 사람",
+      "body": "Chess.com 소수 팀은 Classic 허브 코딩에만 AI를 썼다.",
+      "mini_headline": "Chess.com의 AI-coded Classic 허브",
       "tool": "Games",
-      "source": "4Gamer.net",
-      "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1097,415 +1527,355 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
           },
           {
             "t": "p",
-            "x": "중국 인디 개발 스튜디오 LIUGUANG STUDIO는 개발 중인 신작 「전 남친×데스게임」(元カレ×デスゲーム)을 2026년 12월 4일 기본 무료로 출시한다고 발표했다."
-          },
-          {
-            "t": "video",
-            "yt": "G9s6lRSfhMg"
-          },
-          {
-            "t": "p",
-            "x": "이 작품은 영상과 캐릭터, 스토리 제작에 생성 AI를 활용한 FMV(풀 모션 비디오) 어드벤처로, 실사풍 영상이 특징이다. 플레이어는 전 남친 100명에게 복수를 꾀하는 걸출한 인물 「쑤웨이」가 되어, 바다 위에 뜬 호화 여객선에 그들을 가두고 잔혹한 데스게임을 연다. 목숨을 건 시련으로 전 남친들의 거짓말을 폭로하고 과거의 배신에 마침표를 찍는 것이 쑤웨이의 목표다."
+            "x": "Chess.com이 새 Classic Games 플랫폼을 열며 게임 10종을 더한다. 백개먼, 체커, 바둑, 하츠, 마작, 쇼기, 스도쿠, 솔리테어, 샹치, Scrabble을 대신할 word다. 플랫폼은 웹과 새 iOS·Android 앱에서 공개 베타를 시작한다."
           },
           {
             "t": "img",
-            "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+            "cap": "Classic Games에는 Martin을 비롯해 Chess.com과 같은 봇이 있다."
           },
           {
             "t": "p",
-            "x": "「진실 혹은 벌칙」, 「유리 다리」, 「심해 거짓말 탐지기」 같은 시련이 등장한다. 게임이 진행될수록 시련은 가혹해지고, 참가자들은 여유를 잃으며 숨겨 온 본성을 드러낸다."
+            "x": "Chess.com이 몇 명 안 되는 팀으로 몇 달 만에 새 게임 11종을 내놓을 수 있었던 건 AI 덕이 컸다. 최고성장책임자 Albert Cheng은 Gambit 때와 \"거의 완전히 같은 방식\"을 썼고 AI가 코딩 속도를 높였다고 말한다. \"이 게임들은 Chess.com의 코드베이스와 디자인 시스템, 봇 캐릭터, 레이팅 시스템 위에 만들어졌기 때문에 큰 이점이 있고, AI와 함께 아주 빠르게 움직일 수 있다.\""
+          },
+          {
+            "t": "p",
+            "x": "Cheng에 따르면 Classic Games의 아트와 디자인에는 AI를 쓰지 않았다. \"룩앤필은 사람이 매우 공들여 만들었고, 우리는 그 점이 자랑스럽다.\" 아트와 디자인 쪽은 \"그런 인력을 더 채용하고 있다\"고도 했다."
           },
           {
             "t": "img",
-            "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-          },
-          {
-            "t": "p",
-            "x": "중국에서는 기술이 발전하면서 생성 AI로 만드는 숏드라마가 빠르게 늘고 있다. 2026년 상반기에는 중국판 TikTok인 「抖音(더우인)」에 약 22만 편의 AI 생성 드라마가 공개됐다. 이 게임도 그 흐름에서 나온 셈이다. 「전 남친×데스게임」(PC)은 2026년 12월 4일 Steam에서 기본 무료로 출시될 예정이다."
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+            "cap": "Classic Games의 멀티플레이 게임에는 채팅 사이드바가 있다."
           }
         ]
       },
       "text": {
-        "ja": {
-          "headline": "生成AIで作るFMV\n「元カレ×デスゲーム」",
-          "body": "生成AI製FMVゲーム「元カレ×デスゲーム」が12月4日に基本無料で配信される。",
-          "mini_headline": "生成AI製FMVが配信へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
-              },
-              {
-                "t": "p",
-                "x": "中国のインディー開発スタジオLIUGUANG STUDIOは，現在開発中の新作「元カレ×デスゲーム」を2026年12月4日に基本プレイ無料で配信すると発表した。"
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "本作は，映像やキャラクター，ストーリーの制作に生成AIを活用した，実写風の映像が特徴のFMV（フルモーションビデオ）アドベンチャーだ。プレイヤーは100人の元カレたちに復讐しようとする傑物「スー・ウェイ」となり，海上に浮かぶ一隻の豪華客船に彼らを閉じ込め，残酷なデスゲームを開催する。デスゲームでは命がけの試練が用意されており，それを通じて元カレたちの嘘を暴き，過去の裏切りに決着をつけることがスー・ウェイの目的だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
-              },
-              {
-                "t": "p",
-                "x": "「本音か罰ゲームか」「ガラスの橋」「深海のウソ探知機」といった試練が登場する。ゲームが進むにつれて試練は過酷さを増し，参加者たちは余裕を失って，隠していた本性があらわになっていく。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "中国では近年，技術の発展とともに生成AIを利用したショートドラマの制作が急速に広がっており，2026年上半期には中国版TikTok「抖音」で約22万本のAI生成ドラマが公開された。本作も，こうした潮流のなかで登場する作品といえる。「元カレ×デスゲーム」（PC）は2026年12月4日にSteamで配信予定で，基本プレイ無料となる。"
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "A generative AI FMV game:\n「元カレ×デスゲーム」",
-          "body": "The generative AI FMV game 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game) launches free-to-play on December 4.",
-          "mini_headline": "Generative AI FMV game to launch",
+          "headline": "Chess.com's Classic hub\nleans on AI for code, not art",
+          "body": "A tiny Chess.com team used AI to speed up coding for its Classic hub, but not for the games' art or design.",
+          "mini_headline": "Chess.com's AI-coded Classic hub",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "Chinese indie studio LIUGUANG STUDIO announced that its new title in development, 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game), will launch as free-to-play on December 4, 2026."
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "The game is an FMV (full-motion video) adventure that uses generative AI to produce its footage, characters and story, and is distinguished by live-action-style visuals. Players take the role of the formidable Su Wei, who seeks revenge on 100 ex-boyfriends by trapping them aboard a luxury cruise ship at sea and staging a brutal death game. The death game sets life-or-death trials, through which Su Wei aims to expose the ex-boyfriends' lies and settle past betrayals."
+                "x": "Chess.com is adding 10 more games — backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word — as part of its new Classic Games platform, launching its public beta on the web and new iOS and Android apps."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games has the same bots as Chess.com, including Martin."
               },
               {
                 "t": "p",
-                "x": "Trials include \"Truth or Punishment,\" \"Glass Bridge\" and \"Deep-Sea Lie Detector.\" As the game progresses, the trials grow harsher, the participants lose their composure, and the true natures they had hidden come to the surface."
+                "x": "AI played a key role in helping Chess.com launch 11 new games in a matter of months with a team of only a few people. Chief growth officer Albert Cheng says they used \"almost entirely the same approach\" as for Gambit, with AI helping to speed up coding. \"Because these games are built on top of the Chess.com code base and design system and bot characters and rating systems, it's a huge advantage and allows us to move very quickly alongside AI.\""
+              },
+              {
+                "t": "p",
+                "x": "AI wasn't used for Classic Games' art and design, Cheng says. \"The look and feel of it is very carefully crafted by humans, and we're proud of that.\" On the art and design side, he adds, \"we're hiring more of those folks.\""
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In China, the production of short dramas using generative AI has spread rapidly in recent years alongside technological advances, and in the first half of 2026 about 22万 (two hundred twenty thousand) AI-generated dramas were released on Douyin (抖音), the Chinese version of TikTok. This game can be seen as part of that trend. 「元カレ×デスゲーム」 (PC) is scheduled to launch on Steam on December 4, 2026, and will be free-to-play."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Multiplayer games on Classic Games have a chat sidebar."
               }
             ]
           }
         },
         "ko": {
-          "headline": "생성 AI로 만든 FMV\n「전 남친×데스게임」",
-          "body": "생성 AI로 만든 FMV 게임 「전 남친×데스게임」이 12월 4일 무료로 나온다.",
-          "mini_headline": "생성 AI FMV 게임 출시",
+          "headline": "Chess.com 새 허브\n코딩만 AI, 아트는 사람",
+          "body": "Chess.com 소수 팀은 Classic 허브 코딩에만 AI를 썼다.",
+          "mini_headline": "Chess.com의 AI-coded Classic 허브",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "중국 인디 개발 스튜디오 LIUGUANG STUDIO는 개발 중인 신작 「전 남친×데스게임」(元カレ×デスゲーム)을 2026년 12월 4일 기본 무료로 출시한다고 발표했다."
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "이 작품은 영상과 캐릭터, 스토리 제작에 생성 AI를 활용한 FMV(풀 모션 비디오) 어드벤처로, 실사풍 영상이 특징이다. 플레이어는 전 남친 100명에게 복수를 꾀하는 걸출한 인물 「쑤웨이」가 되어, 바다 위에 뜬 호화 여객선에 그들을 가두고 잔혹한 데스게임을 연다. 목숨을 건 시련으로 전 남친들의 거짓말을 폭로하고 과거의 배신에 마침표를 찍는 것이 쑤웨이의 목표다."
+                "x": "Chess.com이 새 Classic Games 플랫폼을 열며 게임 10종을 더한다. 백개먼, 체커, 바둑, 하츠, 마작, 쇼기, 스도쿠, 솔리테어, 샹치, Scrabble을 대신할 word다. 플랫폼은 웹과 새 iOS·Android 앱에서 공개 베타를 시작한다."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games에는 Martin을 비롯해 Chess.com과 같은 봇이 있다."
               },
               {
                 "t": "p",
-                "x": "「진실 혹은 벌칙」, 「유리 다리」, 「심해 거짓말 탐지기」 같은 시련이 등장한다. 게임이 진행될수록 시련은 가혹해지고, 참가자들은 여유를 잃으며 숨겨 온 본성을 드러낸다."
+                "x": "Chess.com이 몇 명 안 되는 팀으로 몇 달 만에 새 게임 11종을 내놓을 수 있었던 건 AI 덕이 컸다. 최고성장책임자 Albert Cheng은 Gambit 때와 \"거의 완전히 같은 방식\"을 썼고 AI가 코딩 속도를 높였다고 말한다. \"이 게임들은 Chess.com의 코드베이스와 디자인 시스템, 봇 캐릭터, 레이팅 시스템 위에 만들어졌기 때문에 큰 이점이 있고, AI와 함께 아주 빠르게 움직일 수 있다.\""
+              },
+              {
+                "t": "p",
+                "x": "Cheng에 따르면 Classic Games의 아트와 디자인에는 AI를 쓰지 않았다. \"룩앤필은 사람이 매우 공들여 만들었고, 우리는 그 점이 자랑스럽다.\" 아트와 디자인 쪽은 \"그런 인력을 더 채용하고 있다\"고도 했다."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games의 멀티플레이 게임에는 채팅 사이드바가 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Chess.comの新ハブ\nAIはコードだけ、絵は人",
+          "body": "Chess.comの小チームはClassicの開発でAIをコードにだけ使った。",
+          "mini_headline": "Chess.comのAI-coded Classicハブ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "중국에서는 기술이 발전하면서 생성 AI로 만드는 숏드라마가 빠르게 늘고 있다. 2026년 상반기에는 중국판 TikTok인 「抖音(더우인)」에 약 22만 편의 AI 생성 드라마가 공개됐다. 이 게임도 그 흐름에서 나온 셈이다. 「전 남친×데스게임」(PC)은 2026년 12월 4일 Steam에서 기본 무료로 출시될 예정이다."
+                "x": "Chess.comは新しいClassic Gamesプラットフォームの一環として、バックギャモン、チェッカー、囲碁、ハーツ、麻雀、将棋、数独、ソリティア、シャンチー、そしてwordというScrabble代替ゲームの10タイトルを追加する。ウェブと新しいiOS・Androidアプリでパブリックベータを開始する。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic GamesにはMartinをはじめChess.comと同じボットがいる。"
+              },
+              {
+                "t": "p",
+                "x": "AIは、わずか数人のチームでChess.comが数か月のうちに11の新作ゲームを投入するうえで重要な役割を果たした。最高成長責任者のAlbert Cheng氏によると、Gambitのときと「ほぼ完全に同じアプローチ」を取り、AIがコーディングの高速化を助けたという。「これらのゲームはChess.comのコードベース、デザインシステム、ボットキャラクター、レーティングシステムの上に作られているので、大きな強みがあり、AIとともに非常に速く動ける」"
+              },
+              {
+                "t": "p",
+                "x": "Cheng氏によると、Classic GamesのアートとデザインにAIは使われていない。「ルック＆フィールは人間が非常に丁寧に作り込んだもので、私たちはそれを誇りに思っている」。アートとデザインの面では「そうした人材をさらに採用している」と付け加えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Gamesのマルチプレイゲームにはチャットのサイドバーがある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用生成式AI做的FMV\n《前男友×死亡游戏》",
-          "body": "生成式AI制作的FMV游戏《前男友×死亡游戏》将于12月4日免费上线。",
-          "mini_headline": "生成式AI FMV游戏将上线",
+          "headline": "Chess.com新平台\nAI只写代码，不碰美术",
+          "body": "Chess.com小团队用AI加速Classic平台编码，但美术和设计未用AI。",
+          "mini_headline": "Chess.com的AI-coded Classic平台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "中国独立开发工作室LIUGUANG STUDIO宣布，正在开发的新作《前男友×死亡游戏》（元カレ×デスゲーム）将于2026年12月4日基本免费上线。"
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "本作是一款以写实风格影像为特色的FMV（全动态影像）冒险游戏，其影像、角色和剧情的制作都运用了生成式AI。玩家将扮演一心向100名前男友复仇的奇女子“苏薇”，把他们困在海上的豪华游轮中，举办残酷的死亡游戏。死亡游戏中设有以命相搏的试炼，苏薇的目的就是借此揭穿前男友们的谎言，了结过去的背叛。"
+                "x": "Chess.com正在其全新的Classic Games平台上再增加10款游戏——双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌接龙、象棋，以及一款名为word的Scrabble替代游戏。该平台将在网页端和全新的iOS与Android应用上开启公测。"
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games拥有与Chess.com相同的机器人，包括Martin。"
               },
               {
                 "t": "p",
-                "x": "游戏中会出现“真心话还是惩罚”“玻璃桥”“深海测谎仪”等试炼。随着游戏推进，试炼愈发严酷，参与者们渐渐失去从容，隐藏的本性也逐渐暴露。"
+                "x": "AI在帮助Chess.com以仅有几人的团队在数月内推出11款新游戏方面发挥了关键作用。首席增长官Albert Cheng表示，他们采用了与Gambit“几乎完全相同的方法”，由AI帮助加快编码。“由于这些游戏构建在Chess.com的代码库、设计系统、机器人角色和等级分系统之上，这是巨大的优势，让我们能借助AI非常快速地推进。”"
+              },
+              {
+                "t": "p",
+                "x": "Cheng表示，Classic Games的美术和设计没有使用AI。“它的外观和手感都由人类精心打造，我们为此感到自豪。”他补充说，在美术和设计方面，“我们正在招聘更多这类人才。”"
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "近年来，随着技术发展，利用生成式AI制作短剧在中国迅速普及，2026年上半年，中国版TikTok“抖音”上发布了约22万部AI生成短剧。本作也可以说是在这股潮流中诞生的作品。《前男友×死亡游戏》（PC）预计于2026年12月4日在Steam上线，基本免费游玩。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games上的多人游戏带有聊天侧边栏。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un FMV con AI generativa:\n「元カレ×デスゲーム」",
-          "body": "El juego FMV con AI generativa 「元カレ×デスゲーム」 llegará el 4 de diciembre de forma gratuita.",
-          "mini_headline": "Llega un FMV hecho con AI generativa",
+          "headline": "El hub Classic de Chess.com\nusa AI en código, no en arte",
+          "body": "Un pequeño equipo de Chess.com usó AI para programar más rápido su hub Classic, pero no para el arte ni el diseño.",
+          "mini_headline": "El hub Classic AI-coded de Chess.com",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "El estudio independiente chino LIUGUANG STUDIO anunció que su nuevo título en desarrollo, 「元カレ×デスゲーム」, se lanzará el 4 de diciembre de 2026 como juego gratuito."
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "Se trata de una aventura FMV (video de movimiento completo) que utiliza AI generativa para crear las imágenes, los personajes y la historia, y que destaca por su estética de imagen real. El jugador encarna a la extraordinaria Su Wei, que busca vengarse de sus 100 exnovios: los encierra en un lujoso crucero en alta mar y organiza un cruel juego mortal. Ese juego plantea pruebas en las que se arriesga la vida, y a través de ellas Su Wei pretende desenmascarar las mentiras de sus exnovios y saldar cuentas con las traiciones del pasado."
+                "x": "Chess.com añade 10 juegos más —backgammon, damas, go, corazones, mahjong, shogi, sudoku, solitario, xiangqi y una alternativa a Scrabble llamada word— como parte de su nueva plataforma Classic Games, que inicia su beta pública en la web y en nuevas apps para iOS y Android."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games tiene los mismos bots que Chess.com, incluido Martin."
               },
               {
                 "t": "p",
-                "x": "Aparecen pruebas como «Verdad o castigo», «El puente de cristal» y «El detector de mentiras de las profundidades». A medida que avanza el juego, las pruebas se vuelven más duras y los participantes pierden la compostura y revelan la verdadera naturaleza que ocultaban."
+                "x": "La AI tuvo un papel clave para que Chess.com lanzara 11 juegos nuevos en cuestión de meses con un equipo de solo unas pocas personas. El director de crecimiento, Albert Cheng, dice que usaron \"casi exactamente el mismo enfoque\" que con Gambit, con la AI ayudando a acelerar la programación. \"Como estos juegos se construyen sobre la base de código, el sistema de diseño, los personajes bot y los sistemas de clasificación de Chess.com, es una gran ventaja y nos permite avanzar muy rápido junto con la AI.\""
+              },
+              {
+                "t": "p",
+                "x": "Según Cheng, la AI no se usó para el arte ni el diseño de Classic Games. \"Su aspecto y sensación están elaborados con mucho cuidado por humanos, y estamos orgullosos de ello\". En el apartado de arte y diseño, añade, \"estamos contratando a más personas de ese perfil\"."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En China, la producción de series cortas con AI generativa se ha extendido rápidamente en los últimos años junto con el avance tecnológico, y en el primer semestre de 2026 se publicaron unas 22万 (doscientas veinte mil) series generadas con AI en Douyin (抖音), la versión china de TikTok. Este título puede considerarse parte de esa tendencia. 「元カレ×デスゲーム」 (PC) llegará a Steam el 4 de diciembre de 2026 y será gratuito."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Los juegos multijugador de Classic Games tienen una barra lateral de chat."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "A generative AI FMV game:\n「元カレ×デスゲーム」",
-          "body": "The generative AI FMV game 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game) launches free-to-play on December 4.",
-          "mini_headline": "Generative AI FMV game to launch",
+        "ko": {
+          "headline": "Chess.com 새 허브\n코딩만 AI, 아트는 사람",
+          "body": "Chess.com 소수 팀은 Classic 허브 코딩에만 AI를 썼다.",
+          "mini_headline": "Chess.com의 AI-coded Classic 허브",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "Chinese indie studio LIUGUANG STUDIO announced that its new title in development, 「元カレ×デスゲーム」 (Ex-Boyfriend × Death Game), will launch as free-to-play on December 4, 2026."
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "The game is an FMV (full-motion video) adventure that uses generative AI to produce its footage, characters and story, and is distinguished by live-action-style visuals. Players take the role of the formidable Su Wei, who seeks revenge on 100 ex-boyfriends by trapping them aboard a luxury cruise ship at sea and staging a brutal death game. The death game sets life-or-death trials, through which Su Wei aims to expose the ex-boyfriends' lies and settle past betrayals."
+                "x": "Chess.com이 새 Classic Games 플랫폼의 일환으로 게임 10종을 추가한다. 백개먼, 체커, 바둑, 하츠, 마작, 쇼기, 스도쿠, 솔리테어, 샹치, 그리고 word라는 Scrabble 대체 게임이다. 이 플랫폼은 웹과 새 iOS·Android 앱에서 공개 베타를 시작한다."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games에는 Martin을 비롯해 Chess.com과 같은 봇이 있다."
               },
               {
                 "t": "p",
-                "x": "Trials include \"Truth or Punishment,\" \"Glass Bridge\" and \"Deep-Sea Lie Detector.\" As the game progresses, the trials grow harsher, the participants lose their composure, and the true natures they had hidden come to the surface."
+                "x": "AI는 Chess.com이 몇 명뿐인 팀으로 몇 달 만에 새 게임 11종을 내놓는 데 핵심 역할을 했다. 최고성장책임자 Albert Cheng은 Gambit 때와 \"거의 완전히 같은 방식\"을 썼고 AI가 코딩 속도를 높였다고 말한다. \"이 게임들은 Chess.com의 코드베이스와 디자인 시스템, 봇 캐릭터, 레이팅 시스템 위에 만들어졌기 때문에 큰 이점이 있고, AI와 함께 아주 빠르게 움직일 수 있다.\""
+              },
+              {
+                "t": "p",
+                "x": "Cheng에 따르면 Classic Games의 아트와 디자인에는 AI를 쓰지 않았다. \"룩앤필은 사람이 매우 공들여 만들었고, 우리는 그 점이 자랑스럽다.\" 아트와 디자인 쪽은 \"그런 인력을 더 채용하고 있다\"고 그는 덧붙인다."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In China, the production of short dramas using generative AI has spread rapidly in recent years alongside technological advances, and in the first half of 2026 about 22万 (two hundred twenty thousand) AI-generated dramas were released on Douyin (抖音), the Chinese version of TikTok. This game can be seen as part of that trend. 「元カレ×デスゲーム」 (PC) is scheduled to launch on Steam on December 4, 2026, and will be free-to-play."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games의 멀티플레이 게임에는 채팅 사이드바가 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "생성 AI로 만든 FMV\n「전 남친×데스게임」",
-          "body": "생성 AI로 만든 FMV 게임 「전 남친×데스게임」이 12월 4일 무료로 나온다.",
-          "mini_headline": "생성 AI FMV 게임 출시",
+        "ja": {
+          "headline": "Chess.comの新ハブ\nAIはコードだけ、絵は人",
+          "body": "Chess.comの小チームはClassicの開発でAIをコードにだけ使った。",
+          "mini_headline": "Chess.comのAI-coded Classicハブ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "중국 인디 개발 스튜디오 LIUGUANG STUDIO는 개발 중인 신작 「전 남친×데스게임」(元カレ×デスゲーム)을 2026년 12월 4일 기본 무료로 출시한다고 발표했다."
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "이 작품은 영상과 캐릭터, 스토리 제작에 생성 AI를 활용한 FMV(풀 모션 비디오) 어드벤처로, 실사풍 영상이 특징이다. 플레이어는 100명의 전 남친에게 복수하려는 걸출한 인물 「쑤웨이」가 되어, 바다 위에 뜬 호화 여객선에 그들을 가두고 잔혹한 데스게임을 연다. 데스게임에는 목숨을 건 시련이 준비되어 있으며, 이를 통해 전 남친들의 거짓말을 폭로하고 과거의 배신에 마침표를 찍는 것이 쑤웨이의 목표다."
+                "x": "Chess.comは新しいClassic Gamesプラットフォームの一環として、バックギャモン、チェッカー、囲碁、ハーツ、麻雀、将棋、数独、ソリティア、シャンチー、そしてwordというScrabble代替ゲームの10タイトルを追加する。ウェブと新しいiOS・Androidアプリでパブリックベータを開始する。"
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic GamesにはMartinをはじめChess.comと同じボットがいる。"
               },
               {
                 "t": "p",
-                "x": "「진실 혹은 벌칙」, 「유리 다리」, 「심해 거짓말 탐지기」 같은 시련이 등장한다. 게임이 진행될수록 시련은 가혹해지고, 참가자들은 여유를 잃으며 숨겨 온 본성을 드러낸다."
+                "x": "AIは、わずか数人のチームでChess.comが数か月のうちに11の新作ゲームを投入するうえで重要な役割を果たした。最高成長責任者のAlbert Cheng氏によると、Gambitのときと「ほぼ完全に同じアプローチ」を取り、AIがコーディングの高速化を助けたという。「これらのゲームはChess.comのコードベース、デザインシステム、ボットキャラクター、レーティングシステムの上に作られているので、大きな強みがあり、AIとともに非常に速く動ける」"
+              },
+              {
+                "t": "p",
+                "x": "Cheng氏によると、Classic GamesのアートとデザインにAIは使われていない。「ルック＆フィールは人間が非常に丁寧に作り込んだもので、私たちはそれを誇りに思っている」。アートとデザインの面では「そうした人材をさらに採用している」と付け加えた。"
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "중국에서는 최근 기술 발전과 함께 생성 AI를 활용한 숏드라마 제작이 빠르게 늘고 있으며, 2026년 상반기에는 중국판 TikTok인 「抖音(더우인)」에 약 22만 편의 AI 생성 드라마가 공개됐다. 이 작품도 이런 흐름 속에서 나온 작품이라 할 수 있다. 「전 남친×데스게임」(PC)은 2026년 12월 4일 Steam에서 기본 무료로 출시될 예정이다."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Gamesのマルチプレイゲームにはチャットのサイドバーがある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用生成式AI做的FMV\n《前男友×死亡游戏》",
-          "body": "生成式AI制作的FMV游戏《前男友×死亡游戏》将于12月4日免费上线。",
-          "mini_headline": "生成式AI FMV游戏将上线",
+          "headline": "Chess.com新平台\nAI只写代码，不碰美术",
+          "body": "Chess.com小团队用AI加速Classic平台编码，但美术和设计未用AI。",
+          "mini_headline": "Chess.com的AI-coded Classic平台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "中国独立开发工作室LIUGUANG STUDIO宣布，正在开发的新作《前男友×死亡游戏》（元カレ×デスゲーム）将于2026年12月4日基本免费上线。"
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "本作是一款以写实风格影像为特色的FMV（全动态影像）冒险游戏，其影像、角色和剧情的制作都运用了生成式AI。玩家将扮演一心向100名前男友复仇的奇女子“苏薇”，把他们困在海上的豪华游轮中，举办残酷的死亡游戏。死亡游戏中设有以命相搏的试炼，苏薇的目的就是借此揭穿前男友们的谎言，了结过去的背叛。"
+                "x": "Chess.com正在其全新的Classic Games平台上再增加10款游戏——双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌接龙、象棋，以及一款名为word的Scrabble替代游戏。该平台将在网页端和全新的iOS与Android应用上开启公测。"
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games拥有与Chess.com相同的机器人，包括Martin。"
               },
               {
                 "t": "p",
-                "x": "游戏中会出现“真心话还是惩罚”“玻璃桥”“深海测谎仪”等试炼。随着游戏推进，试炼愈发严酷，参与者们渐渐失去从容，隐藏的本性也逐渐暴露。"
+                "x": "AI在帮助Chess.com以仅有几人的团队在数月内推出11款新游戏方面发挥了关键作用。首席增长官Albert Cheng表示，他们采用了与Gambit“几乎完全相同的方法”，由AI帮助加快编码。“由于这些游戏构建在Chess.com的代码库、设计系统、机器人角色和等级分系统之上，这是巨大的优势，让我们能借助AI非常快速地推进。”"
+              },
+              {
+                "t": "p",
+                "x": "Cheng表示，Classic Games的美术和设计没有使用AI。“它的外观和手感都由人类精心打造，我们为此感到自豪。”他补充说，在美术和设计方面，“我们正在招聘更多这类人才。”"
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "近年来，随着技术发展，利用生成式AI制作短剧在中国迅速普及，2026年上半年，中国版TikTok“抖音”上发布了约22万部AI生成短剧。本作也可以说是在这股潮流中诞生的作品。《前男友×死亡游戏》（PC）预计于2026年12月4日在Steam上线，基本免费游玩。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games上的多人游戏带有聊天侧边栏。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un FMV con AI generativa:\n「元カレ×デスゲーム」",
-          "body": "El juego FMV con AI generativa 「元カレ×デスゲーム」 llegará el 4 de diciembre de forma gratuita.",
-          "mini_headline": "Llega un FMV hecho con AI generativa",
+          "headline": "El hub Classic de Chess.com\nusa AI en código, no en arte",
+          "body": "Un pequeño equipo de Chess.com usó AI para programar más rápido su hub Classic, pero no para el arte ni el diseño.",
+          "mini_headline": "El hub Classic AI-coded de Chess.com",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "El estudio independiente chino LIUGUANG STUDIO anunció que su nuevo título en desarrollo, 「元カレ×デスゲーム」, se lanzará el 4 de diciembre de 2026 como juego gratuito."
-              },
-              {
-                "t": "video",
-                "yt": "G9s6lRSfhMg"
-              },
-              {
-                "t": "p",
-                "x": "Se trata de una aventura FMV (video de movimiento completo) que utiliza AI generativa para crear las imágenes, los personajes y la historia, y que destaca por su estética de imagen real. El jugador encarna a la extraordinaria Su Wei, que busca vengarse de sus 100 exnovios: los encierra en un lujoso crucero en alta mar y organiza un cruel juego mortal. Ese juego plantea pruebas en las que se arriesga la vida, y a través de ellas Su Wei pretende desenmascarar las mentiras de sus exnovios y saldar cuentas con las traiciones del pasado."
+                "x": "Chess.com añade 10 juegos más —backgammon, damas, go, corazones, mahjong, shogi, sudoku, solitario, xiangqi y una alternativa a Scrabble llamada word— como parte de su nueva plataforma Classic Games, que inicia su beta pública en la web y en nuevas apps para iOS y Android."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/007.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Classic Games tiene los mismos bots que Chess.com, incluido Martin."
               },
               {
                 "t": "p",
-                "x": "Aparecen pruebas como «Verdad o castigo», «El puente de cristal» y «El detector de mentiras de las profundidades». A medida que avanza el juego, las pruebas se vuelven más duras y los participantes pierden la compostura y revelan la verdadera naturaleza que ocultaban."
+                "x": "La AI tuvo un papel clave para que Chess.com lanzara 11 juegos nuevos en cuestión de meses con un equipo de solo unas pocas personas. El director de crecimiento, Albert Cheng, dice que usaron \"casi exactamente el mismo enfoque\" que con Gambit, con la AI ayudando a acelerar la programación. \"Como estos juegos se construyen sobre la base de código, el sistema de diseño, los personajes bot y los sistemas de clasificación de Chess.com, es una gran ventaja y nos permite avanzar muy rápido junto con la AI.\""
+              },
+              {
+                "t": "p",
+                "x": "Según Cheng, la AI no se usó para el arte ni el diseño de Classic Games. \"Su aspecto y sensación están elaborados con mucho cuidado por humanos, y estamos orgullosos de ello\". En el apartado de arte y diseño, añade, \"estamos contratando a más personas de ese perfil\"."
               },
               {
                 "t": "img",
-                "src": "https://www.4gamer.net/games/059/G105923/20261118013/SS/003.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En China, la producción de series cortas con AI generativa se ha extendido rápidamente en los últimos años junto con el avance tecnológico, y en el primer semestre de 2026 se publicaron unas 22万 (doscientas veinte mil) series generadas con AI en Douyin (抖音), la versión china de TikTok. Este título puede considerarse parte de esa tendencia. 「元カレ×デスゲーム」 (PC) llegará a Steam el 4 de diciembre de 2026 y será gratuito."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+                "cap": "Los juegos multijugador de Classic Games tienen una barra lateral de chat."
               }
             ]
           }

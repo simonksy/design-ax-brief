@@ -1,102 +1,101 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "books",
-  "selection_mode": "curator (user deferred)",
   "items": [
     {
-      "title": "AI 학습에 내 책이 쓰인다면? 출판계 저작권 보호·지원 법안 본격 시동",
-      "url": "http://knpp.co.kr/news/597241",
-      "source": "한국공공정책신문",
+      "title": "Analyserte krimbøker: – Romanen du skriver med KI, er ikke den samme som du hadde skrevet uten KI",
+      "url": "https://www.aftenposten.no/kultur/i/7PlEnw/joern-lier-horst-og-ki-dette-er-forskjellene-i-spraaket-hans",
+      "source": "Aftenposten",
       "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "published_iso": "2026-11-23T06:21:33+09:00",
-      "og_image": "https://img.ehom.kr/news/2026/11/23/b392e224be2acfd2d8edca28d44e135c062044_thumb.jpg",
-      "excerpt": "윤용근 의원 등 14인이 발의한 '출판문화산업 진흥법' 개정안이 11월 16~25일 입법예고되는 가운데, 출판물의 AI 학습 이용과 권리자 동의·보호 체계가 쟁점으로 떠올랐다. (셀렉트스타·출협 협약 부분은 기보도.)",
-      "rationale": "A concrete new bill now in its public-comment window (Nov 16-25) that would set consent and protection rules for using Korean publications in AI training. Rights holders can still weigh in."
+      "published_iso": "2026-11-12T20:59:10Z",
+      "og_image": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
+      "excerpt": "Aftenposten ran a stylometric analysis of Norwegian crime bestseller Jørn Lier Horst's novels before and after he began using AI: humming, 'during' and over a hundred times as many dashes — the language measurably shifted. Centre of Norway's biggest AI-authorship row.",
+      "rationale": "Data-driven look at how AI use measurably changes a bestselling author's prose; it is the main piece on Norway's Horst affair and has not run before (the NRK follow-up on the same affair was dropped)."
     },
     {
-      "title": "More AI Prompts Found in Journal Papers",
-      "url": "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers",
-      "source": "Inside Higher Ed",
-      "category": "books",
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "published_iso": "2026-11-20T08:00:00Z",
-      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/Robot_AI_sifting_documents_papers%20copy.jpg?itok=tNomQNI_",
-      "excerpt": "Blatant LLM instructions such as 'write a positive review' left in published papers are the starkest sign yet that authors are trying to game AI-assisted peer review, scholars warn.",
-      "rationale": "New evidence of prompt injection aimed at AI-assisted peer review, found in published papers. Editors and scholarly publishers can screen for it now."
-    },
-    {
-      "title": "'Ahead of his time': AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "source": "The Guardian",
+      "title": "Risikerer vi at teknologien blir portvokter for litteraturen?",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/aGwpw7/risikerer-vi-at-teknologien-blir-portvokter-for-litteraturen",
+      "source": "Aftenposten",
       "category": "books",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "published_iso": "2026-11-13T16:38:27Z",
-      "og_image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
-      "excerpt": "Kurt Gödel left 1,009 pages of shorthand notebooks; AI-assisted transcription is now helping scholars decode them and surface overlooked ideas — an archival/manuscript use of AI.",
-      "rationale": "A credible, concrete case of AI transcribing a shorthand manuscript archive. It shows a reusable workflow for editors working with archives and unpublished papers."
+      "published_iso": "2026-11-20T18:00:00Z",
+      "og_image": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b",
+      "excerpt": "Norway's writers' union Forfatterforbundet says publishers now screen incoming manuscripts with AI detectors and authors are being rejected as 'written by AI' when they say they used none — it demands clear criteria before an algorithm gatekeeps literature.",
+      "rationale": "A writers' union reports that publishers are rejecting manuscripts because an AI detector flagged them, and it demands criteria. This is a distinct event from the Horst analysis and from the earlier detector cards (NPR/Pangram, DOJ)."
     },
     {
-      "title": "잉크플록, 한국 웹소설 해외 유통을 위한 AI 현지화 체계 개발",
-      "url": "https://platum.kr/archives/298652",
-      "source": "플래텀",
+      "title": "'죄와 벌' 속 한 문장‥AI는 '절했다', 번역가는?",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867722_37012.html",
+      "source": "MBC 뉴스",
       "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-11-16T09:48:03+09:00",
-      "og_image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-218.png",
-      "excerpt": "스타트업 잉크플록이 한국 웹소설을 해외에 유통하기 위한 AI 기반 번역·현지화 체계를 개발했다.",
-      "rationale": "A new product: an AI translation and localization pipeline for exporting Korean web novels. It adds a tool to a day that is otherwise about policy and integrity."
+      "published_iso": "2026-11-23T07:33:38+09:00",
+      "og_image": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg",
+      "excerpt": "도스토옙스키 작품 네 편을 번역하는 데 10년을 쓴 번역가가 '죄와 벌'의 한 문장을 두고 AI 번역과 사람 번역의 차이를 짚는다 — AI 문학 번역의 한계.",
+      "rationale": "A fresh Korean broadcast feature: a translator compares one Crime and Punishment sentence as rendered by AI and by a human. It is a different piece and outlet from the 11-18 TCJ translation essay."
     },
     {
-      "title": "Can this golden audio era deliver on its potential?",
-      "url": "https://www.thebookseller.com/trade-interviews/can-this-golden-audio-era-deliver-on-its-potential",
-      "source": "The Bookseller",
+      "title": "'AI Slop' Papers Published Under Prominent Academics' Names",
+      "url": "https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names",
+      "source": "Inside Higher Ed",
       "category": "books",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "published_iso": "2026-11-20T10:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/687/Maven_Audible_8_6.png.jpg",
-      "excerpt": "Ahead of the British Audio Awards, audiobook executives (Bonnier, Libro.fm and others) discuss how AI is reshaping production workflows and driving 'audio content inflation' as production costs fall, alongside discoverability and pricing pressure.",
-      "rationale": "On-whitelist trade piece with named executives on how AI-cheapened audiobook production is causing 'content inflation'. This is a different angle from the earlier audiobook cards about consumer polls and narrators."
+      "published_iso": "2026-11-13T08:00:00Z",
+      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4",
+      "excerpt": "High-profile researchers were listed as authors of AI-generated papers in little-known journals, raising concern Ph.D. students could be lured into submitting there too.",
+      "rationale": "A new publishing-integrity incident: AI-generated papers carry real academics' names without their consent. This is a different event from the 11-23 card on hidden AI prompts found in journal papers."
+    },
+    {
+      "title": "Guest Post — Building a Taxonomy of Bots",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "published_iso": "2026-11-19T10:30:59Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
+      "excerpt": "With AI crawlers and agents hammering scholarly platforms, a guest post proposes a shared taxonomy of bots so publishers can measure and manage robotic traffic.",
+      "rationale": "Replacement pick: a concrete, usable framework from an on-list publishing outlet for classifying AI crawler and agent traffic. It moves on from the 11-07 CBC card, which reported the bot-swarm problem, to a proposed shared way of measuring and managing it."
     }
   ],
   "dedup": {
     "checks": {
-      "http://knpp.co.kr/news/597241": {
+      "https://www.aftenposten.no/kultur/i/7PlEnw/joern-lier-horst-og-ki-dette-er-forskjellene-i-spraaket-hans": {
         "verdict": "new",
-        "nearest": "https://www.donga.com/news/It/article/all/20261118/135045150/2",
+        "nearest": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
         "new_action": ""
       },
-      "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers": {
+      "https://www.aftenposten.no/meninger/debatt/i/aGwpw7/risikerer-vi-at-teknologien-blir-portvokter-for-litteraturen": {
         "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/",
+        "nearest": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
         "new_action": ""
       },
-      "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths": {
+      "https://imnews.imbc.com/replay/2026/nwtoday/article/6867722_37012.html": {
         "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+        "nearest": "https://www.tcj.com/how-i-love-you-becomes-the-moon-is-beautiful-isnt-it-the-craft-of-translation-and-the-limits-of-ai/",
         "new_action": ""
       },
-      "https://platum.kr/archives/298652": {
+      "https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names": {
         "verdict": "new",
-        "nearest": "https://it.donga.com/109886/",
+        "nearest": "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers",
         "new_action": ""
       },
-      "https://www.thebookseller.com/trade-interviews/can-this-golden-audio-era-deliver-on-its-potential": {
+      "https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/": {
         "verdict": "new",
-        "nearest": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
+        "nearest": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups with no new action: (1) PW literary translators amicus brief, part of the In re OpenAI amicus thread covered 11-13 (Publishing Perspectives '50+ amicus briefs') and 11-12. (2) Scholarly Kitchen ROSS analysis, which analyses a ruling already covered. (3) Scholarly Kitchen IFRRO CEO interview, commentary on the IFRRO study covered 10-30. (4) Ajunews '딸깍 출판' column, a column follow-up to the 11-18 ajunews AI-manuscript card and the 11-04 Hankook Ilbo 딸깍도서 card. (5) Simpsonian Bartz payout, a settlement follow-up already covered by 11-18 Authors Guild and 11-21 Wizards payout. (6) Indian Express Tamil Nadu publisher arrest, the fourth beat of a running story (11-07 probe, 11-11 FIR, 11-16 suspensions); held back on novelty. Not picked on merit: IHE 'AI slop papers' (same scholarly-integrity theme as the IHE pick, and older), Daily Nous philosophy-journal AI text (same theme), IFLA copyright survey (overlaps the copyright-law pick), Bookseller AI-feedback comment (opinion), Publishing Ireland conference (paywalled, AI depth unverified), The Conversation ghostwriters (AI incidental), Jangseong AI picture books (local, low impact). Cross-section: the science block of published_urls.json has no theguardian.com URL. The other sections could not be exact-grepped (no grep tool, file ~4800 lines), so the orchestrator should re-confirm that the IHE and Guardian picks did not run elsewhere. Outlets: 5 distinct."
+    "note": "REPLACEMENT 2026-11-24: The Digital Reader cozy-mystery cover test was removed after the fact-check found it was advertorial (invented persona, commercial API link). It is replaced by The Scholarly Kitchen 'Building a Taxonomy of Bots'. The candidate file tags that piece as related to the 11-04 SK accessibility guest post, but that is only an outlet and format match. The closest story in content is the 11-07 CBC card on AI bots swarming university libraries. That card reported the problem; this guest post proposes a shared bot taxonomy, so it counts as new. Enrichment should check the guest author's affiliation, since a vendor-authored post would carry the same advertorial risk. Rejected as the replacement: 동아 librarian copyright training (a minor event), Bookseller comment, Public Seminar essay (opinion), Tomorrow's Publisher (off-list), 연합 editors' book (no image), 장성 local e-books, and the 뉴시스 broad feature. Earlier drops stand: University Press Charter (Bookseller), a likely repeat of the PW charter card from 11-13. GlobalComix pivot (Comics Beat) is analysis of the GlobalComix refresh carded 11-20. PW literary translators' amicus brief falls under the 11-13 Publishing Perspectives card on 50+ amicus briefs. Scholarly Kitchen on ROSS is analysis of the already-carded ROSS ruling. 아주경제 딸깍출판 is a column following the 11-18 card on surging AI manuscripts. TOI Madurai and The Hindu op-ed are commentary on the Tamil Nadu library scandal. NRK Horst interview is the same affair as the Aftenposten pick. Excluded by the brief: Guardian Macquarie 'pervert glasses'. Diversity: 4 outlets, with Aftenposten x2 (the cap)."
   }
 }

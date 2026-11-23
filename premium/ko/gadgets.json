@@ -18717,6 +18717,142 @@
           "x": "하드웨어는 가볍고 편하다. Smart Dial 디지털 크라운과 밝은 양안 디스플레이도 갖췄다. 배터리는 일반 사용 시 최대 48시간, 연속 녹음 시 18시간으로 표기돼 있다. 쓸모 있는 구석은 있어도, 쉼 없이 조용히 듣는 기능은 사생활을 내줄 만큼의 가치가 없다는 게 결론이다."
         }
       ]
+    },
+    "gadgets/paradromics-nvidia-bci": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+        },
+        {
+          "t": "p",
+          "x": "미시간에 사는 Mary는 운동신경질환을 앓지만 다임 동전만 한 Paradromics 임플란트로 생각을 합성 음성으로 옮긴다. 지금은 음성 해독에 콘센트에 꽂힌 전자 장비를 가득 실은 카트가 필요하다. 한 해 뒤면 Nvidia 기술 덕분에 이 카트가 휠체어에 올려둘 만한 작은 상자로 줄어든다."
+        },
+        {
+          "t": "p",
+          "x": "오스틴에 본사를 둔 Paradromics는 Nvidia의 하드웨어와 소프트웨어로 뇌 데이터를 처리하려고 이 AI 칩 기업과 손잡았다고 발표했다. 임플란트에 심긴 전극은 400개가 넘고, 컴퓨터는 AI로 환자가 하려는 말을 추론한다. Matt Angle CEO는 뇌-컴퓨터 인터페이스를 엣지 컴퓨팅의 궁극적 사례라고 부른다."
+        },
+        {
+          "t": "p",
+          "x": "Paradromics는 저전력 컴퓨팅 모듈인 Nvidia의 Jetson으로 사용자 곁의 작은 기기에서 음성을 해독하고 Nvidia의 AI 센서 처리 소프트웨어 Holoscan으로 카메라·마이크와 지연 적은 상호작용을 구현한다. Nvidia의 파운데이션 모델도 통합할 수 있다. 모델을 로컬에서 돌리니 인터넷 연결도 필요 없다. Synchron과도 협력하는 Nvidia는 이번 파트너십으로 뇌 데이터에 접근하지 않는다."
+        }
+      ]
+    },
+    "gadgets/asus-proart-p14-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Asus는 Nvidia의 RTX Spark 칩을 역대 가장 가벼운 14인치 ProArt 섀시에 넣었다. 두께 0.55인치, 무게 3.26파운드다. 3K Lumina Pro OLED 터치스크린, SD 카드 리더, 기대보다 좋은 스피커에 12.5시간 배터리(Tom’s Guide 웹 브라우징 테스트에서 12:32)까지 갖췄다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+          "cap": "(이미지 출처: Future)"
+        },
+        {
+          "t": "p",
+          "x": "다만 섀시를 이만큼 얇게 만들려고 Asus는 전체 전력을 묶어 둬야 했다. 수동 모드에서도 TDP는 최대 80와트로 더 큰 P16의 최대 135와트에 못 미친다. 성능을 끝까지 끌어올리면 더 큰 RTX Spark 노트북에 밀리는 이유다. 그래도 “크리에이티브 작업과 로컬 AI 작업에는 충분히 빠릿하다.” 문제는 부하가 걸릴 때다. 통풍구가 넓게 뚫린 바닥면이 뜨거워진다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+          "cap": "(이미지 출처: Future)"
+        },
+        {
+          "t": "p",
+          "x": "이동이 잦은 크리에이터와 개발자에게는 올해 가장 끌리는 휴대용 크리에이터 노트북 중 하나다. 하지만 RTX Spark의 역량을 온전히 끌어내지 못하고 가격도 비싸다."
+        }
+      ]
+    },
+    "gadgets/copilot-pc-npu-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+          "cap": "연말 선물로 노트북을 고른다면 NPU를 구매 기준으로 삼지 말자."
+        },
+        {
+          "t": "p",
+          "x": "NPU는 Microsoft의 Copilot+ PCs와 Recall 같은 기능으로 들어가는 입장권이었다. 2026년 말 현재 거의 모든 신형 노트북에 NPU가 들어가 있지만 Copilot+ 브랜드는 희미해졌고, 가장 잘 알려진 로컬 AI 앱들은 이 칩을 아예 쓰지 않는다. Copilot+ 요건은 여전히 40 TOPS가 넘는 NPU와 16GB 램, 256GB SSD다. Surface 책임자 Brett Ostrum은 2026년형 Surface 기기를 더는 Copilot+ PCs로 부르지 않는다고 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+          "cap": "Windows 11의 AI 기능 중 NPU가 필요한 것과 필요 없는 것."
+        },
+        {
+          "t": "p",
+          "x": "AMD의 Ryzen AI 400 시리즈는 50~60 TOPS, Qualcomm의 Snapdragon X2 Elite와 X2 Plus는 80 TOPS, Intel의 Panther Lake는 최대 50 TOPS까지 나온다. 그래도 수치가 높다고 Windows 기능이 더 열리지는 않는다. Ollama, LM Studio, llama.cpp는 NPU가 아니라 GPU와 CPU에서 돈다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+          "cap": "요즘 노트북 칩은 모두 Copilot+ 기준인 40 TOPS를 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "지금 노트북 값을 끌어올리는 건 메모리다. NPU는 구매 이유가 아니라 덤으로 보면 된다. Copilot+ 기능에는 16GB 램이 최소이고, 로컬 언어 모델을 돌리려면 32GB나 별도 GPU를 생각해 두는 게 좋다."
+        }
+      ]
+    },
+    "gadgets/flowtica-verso-comulytic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+          "cap": "Adrian Kingsley-Hughes/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "새로 나온 Flowtica Verso는 큰 전자종이 터치스크린과 MagSafe 커넥터를 단 AI 음성 녹음기다. ZDNET은 이를 Comulytic의 Note Pro와 비교했다. 둘 다 훌륭하다. 마이크는 Verso가 네 개로 Note Pro의 두 개(통화용 전도 마이크 별도)보다 많지만 녹음 품질은 큰 차이가 없다. Verso의 받아쓰기는 뛰어나고 70시간 배터리 주장도 믿을 만하다. Note Pro는 45시간이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+          "cap": "Verso에서 Wi-Fi 비밀번호를 입력하는 일은 지연 탓에 답답하다."
+        },
+        {
+          "t": "p",
+          "x": "Verso의 가장 큰 문제는 “정말, 고통스러울 만큼 느리다”는 점이다. 탭한 뒤 반응까지 반 초나 걸려 터치스크린의 장점이 깎여 나가고, “Ask Flowtica” 버튼도 굼떴으며 “인터넷 연결 없음” 메시지까지 떴다. Note Pro는 그냥 잘 작동했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+          "cap": "Note Pro는 작고 수수하며, 그냥 잘 작동한다."
+        },
+        {
+          "t": "p",
+          "x": "Verso의 정가는 $299, Note Pro는 $130 미만이다. Verso의 실시간 받아쓰기, Voice ID, 요약은 구독하지 않으면 한 달 300분으로 묶이지만 Comulytic의 무료 요금제는 기본 요약을 무제한 제공한다. 필자는 당분간 Note Pro를 계속 쓰기로 했다."
+        }
+      ]
+    },
+    "gadgets/verge-vibe-coding-gadgets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "이제 대규모 언어 모델이 TV를 새로 디자인하고 카메라를 업그레이드해 준다. 기기를 해킹하고 개조하는 일 자체는 새롭지 않다. 달라진 건 그 일이 쉬워졌다는 점이다. Claude Code나 Codex에 프롬프트만 넣어 자기 하드웨어를 해킹하는 사람들이 생겼다."
+        },
+        {
+          "t": "p",
+          "x": "개발자 Gathin T는 광고로 가득한 Xiaomi Android TV를 Claude Code 프롬프트로 장악했다. 한 시간 반 뒤에는 화면 광고가 사라진 더 단순한 인터페이스가 남았다. 화제가 된 이 해법은 CleanYourTV라는 이름으로 GitHub에서 손꼽히게 인기 있는 저장소가 됐다. 식기세척기와 사진 액자, 고급 자동차까지 온갖 기기가 Android로 돌아간다. 숨겨진 API나 펌웨어 파일이 온라인에 있으면 LLM이 찾아내 풀고 다시 패키징할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "카메라 애호가들은 AI로 녹화 기능과 더 높은 해상도, 새 컬러 프로파일을 더한다. 뮤지션들은 M-Vave FM-1 같은 저가 신시사이저를 새 장비로 바꾸고 게이머들은 콘솔에 기능을 붙인다. 게임 제작사들은 반격에 나섰다. Luke Dicken은 “더 침습적인 DRM”이 나올 거라고 내다본다. 기기가 벽돌이 될 위험은 사용자 몫이다."
+        },
+        {
+          "t": "p",
+          "x": "더 안전한 길도 있다. M5Stack PaperMono 같은 기기에 들어가는 값싸고 해커 친화적인 보드 ESP32 모듈, 그리고 Meta의 Muse Charm과 Muse Gadgets 프로그램이다. Gathin은 잃으면 안 되는 것에는 봇이 절대 손대지 못하게 하고 백업을 넉넉히 해 두라고 조언한다."
+        }
+      ]
     }
   }
 }

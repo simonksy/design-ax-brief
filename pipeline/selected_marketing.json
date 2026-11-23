@@ -1,106 +1,106 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "marketing",
   "items": [
     {
       "rank": 1,
-      "title": "Amazon routes new Brand Store pages through an AI agent first",
-      "url": "https://ppc.land/amazon-routes-new-brand-store-pages-through-an-ai-agent-first/",
-      "source": "PPC Land",
+      "title": "ChatGPT's Agent Writes Its Own Queries to Serve Ads. Advertisers Don't Get to See Them",
+      "url": "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+      "source": "ADWEEK",
       "category": "marketing",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "published_iso": "2026-11-22T18:29:27Z",
-      "og_image": "https://ppc.land/content/images/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-      "excerpt": "Amazon's Brand Store builder now starts new pages with an AI agent: brand owners get six starter prompts, output fixed to one language, and an All Deals tab that fills itself.",
-      "rationale": "A shipped change to how every Amazon seller builds a Brand Store: new pages now start from an AI agent, with set limits brand owners need to know before the holiday rush."
+      "published_iso": "2026-11-23T06:00:00-05:00",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
+      "excerpt": "Three OpenAI ad executives told ADWEEK that ChatGPT ads are matched to search queries written by an internal AI agent (the 'orchestrator') from the user's chat history rather than from actual user searches; advertisers do not get to see those generated queries.",
+      "rationale": "OpenAI executives confirm for the first time how ChatGPT ads are matched: an internal agent writes the queries from chat history and advertisers never see them, which changes how buyers plan keywords and read their ChatGPT ad reports."
     },
     {
       "rank": 2,
-      "title": "Meta ads is now available in AWS Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
-      "source": "AWS Machine Learning Blog",
+      "title": "Higgsfield launches playable game ads built with AI",
+      "url": "https://gamesbeat.com/higgsfield-launches-playable-game-ads-built-with-ai/",
+      "source": "GamesBeat",
       "category": "marketing",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-21T17:59:13-08:00",
-      "og_image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png",
-      "excerpt": "AWS Quick added a Meta ads AI connector backed by Meta's ads MCP server, so advertisers can create, manage and analyze Meta campaigns in natural language alongside their own data and creative tools.",
-      "rationale": "A primary-source launch: Meta's ads MCP server is now wired into AWS Quick, so teams can create and analyze Meta campaigns in natural language next to their own data."
+      "published_iso": "2026-11-23T15:30:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg",
+      "excerpt": "Higgsfield launched Playable Ads, an enterprise-only workflow that generates interactive playable ad units with AI. Off-list outlet: no on-list source covered an AI ad-creative launch in the window.",
+      "rationale": "A new ad-creative product that generates interactive playable ad units with AI, a format that used to need custom development. Assigned to marketing only per the 11-24 cross-section rule."
     },
     {
       "rank": 3,
-      "title": "Google AI Mode ads appear as deep as the fourth follow-up question",
-      "url": "https://ppc.land/google-ai-mode-ads-appear-as-deep-as-the-fourth-follow-up-question/",
+      "title": "Pinterest sells feed and search ad space through Microsoft Advertising",
+      "url": "https://ppc.land/pinterest-sells-feed-and-search-ad-space-through-microsoft-advertising/",
       "source": "PPC Land",
       "category": "marketing",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "published_iso": "2026-11-22T09:24:44Z",
-      "og_image": "https://ppc.land/content/images/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-      "excerpt": "Sponsored phone and case carousels followed two turns of one Google AI Mode conversation; US advertisers cannot opt out of multi-turn placements and Google gives no per-turn reporting.",
-      "rationale": "Shows that AI Mode ads now run deep into follow-up turns, and advertisers can neither opt out of those placements nor see per-turn reporting, which affects how they budget and measure."
+      "published_iso": "2026-11-23T19:27:24+00:00",
+      "og_image": "https://ppc.land/content/images/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+      "excerpt": "Microsoft Advertising campaigns can now extend into Pinterest's open-auction home feed, search and related-Pins inventory, with placements chosen by a custom contextual bidding model built on Pinterest's AI interest signals; rollout starts in North America, Australia and New Zealand, Europe excluded.",
+      "rationale": "Microsoft Advertising buyers get new Pinterest inventory, with placements chosen by a contextual bidding model built on Pinterest's AI interest signals. The rollout markets (Europe excluded) affect holiday budget planning."
     },
     {
       "rank": 4,
-      "title": "Bitmovin AI Brings Scene-Level Ad Signals to Google Ad Manager",
-      "url": "https://content-technology.com/content-delivery/bitmovin-ai-brings-scene-level-ad-signals-to-google-ad-manager/",
-      "source": "Content + Technology",
+      "title": "ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships",
+      "url": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "published_iso": "2026-11-22T06:46:43Z",
-      "og_image": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-      "excerpt": "Bitmovin integrated its AI Scene Analysis with Google Ad Manager, passing scene-level contextual signals from video content into ad decisioning to improve video ad targeting.",
-      "rationale": "A new integration that sends AI scene analysis into Google Ad Manager decisioning, so video publishers and buyers can target ads by scene context instead of by user."
+      "published_iso": "2026-11-23T07:11:00-05:00",
+      "og_image": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+      "excerpt": "OpenAI updated its Shopping with ChatGPT Search help documentation to update the line that says \"Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships.\" It now says, \"Product results are not ads; how products and merchants are selected is de",
+      "rationale": "OpenAI dropped its promise that ChatGPT shopping results are 'not influenced by any OpenAI partnerships', which matters to merchants who compete for organic product placement next to paid ads."
     },
     {
       "rank": 5,
-      "title": "The first agentic AI Black Friday is off to a rocky start",
-      "url": "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers",
-      "source": "Business Insider",
+      "title": "[RE: 자사몰] ‘트라넥삼산 10%’ 모르는 고객은?…오가니시티가 자사몰에 AI를 넣은 이유",
+      "url": "https://byline.network/2026/11/23_291827734-2/",
+      "source": "바이라인네트워크",
       "category": "marketing",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "published_iso": "2026-11-22T12:10:01Z",
-      "og_image": "https://i.insider.com/6b00c31a73f126f9eccb91fe?width=1200&format=jpeg",
-      "excerpt": "AI shopping agents like Meta's Muse were expected to do much of this year's holiday buying, but expired listings, blocks from Amazon and eBay and low consumer trust are slowing the first agentic Black Friday.",
-      "rationale": "A timely reality check before Black Friday: expired listings, retailer blocks and low shopper trust are holding back agent-led buying, which matters for how retailers split holiday spend."
+      "published_iso": "2026-11-23T17:41:23+09:00",
+      "og_image": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+      "excerpt": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’. 주요 성분과 함량을 제품명에 내세운 스킨케어 브랜드 오가니시티가 인공지능(AI)을 활용해 자사몰을 키우고 있습니다. 성분을 잘 모르는 소비자도 피부 고민에 맞는 제품을 찾고, 조합과 사용법까지 안내받도록 한 겁니다. 네이버 스마트스토어에서 축적한 약 6만 건의 리뷰·상담 데이터를 AI에 활용하고, 고객의 요구를 신상품 개발로 연결하는 실험도 이어가고 있습니다.",
+      "rationale": "A concrete Korean D2C case: a skincare brand feeds about 60,000 reviews and consultations into a conversational AI on its own store so shoppers can find products. It is a practical playbook for brands selling through their own sites."
     }
   ],
   "dedup": {
     "checks": {
-      "https://ppc.land/amazon-routes-new-brand-store-pages-through-an-ai-agent-first/": {
+      "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/amazon-says-under-0-1-of-dva-ads-on-outside-websites-hit-unsafe-pages/",
+        "nearest": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/",
         "new_action": ""
       },
-      "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/": {
+      "https://gamesbeat.com/higgsfield-launches-playable-game-ads-built-with-ai/": {
         "verdict": "new",
-        "nearest": "https://www.adexchanger.com/publishers/custom-ad-algorithms-are-helping-schibsted-media-win-budgets-back-from-meta/",
+        "nearest": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
         "new_action": ""
       },
-      "https://ppc.land/google-ai-mode-ads-appear-as-deep-as-the-fourth-follow-up-question/": {
+      "https://ppc.land/pinterest-sells-feed-and-search-ad-space-through-microsoft-advertising/": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
+        "nearest": "https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html",
         "new_action": ""
       },
-      "https://content-technology.com/content-delivery/bitmovin-ai-brings-scene-level-ad-signals-to-google-ad-manager/": {
+      "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
         "new_action": ""
       },
-      "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers": {
+      "https://byline.network/2026/11/23_291827734-2/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
+        "nearest": "https://www.etnews.com/20261120000232",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicate: 'Google AI summary test says 4 Search advertisers are not browser tools' (PPC Land, history_match 0.38). It is the same AI-generated summaries above Search ads test already published 11-10 (seroundtable 42482), with no new release. It would also have been a third PPC Land card. Google AI Mode multi-turn ads kept as new: the 11-05 card covered the number of ads per answer (up to four), while this one reports ads placed in later follow-up turns that advertisers cannot opt out of and that have no per-turn reporting. BI agentic Black Friday kept as new: it is a holiday-season round-up, not a repeat of the 11-14 Meta/OpenAI traffic data, 11-16 eBay ban or 11-07 Blend story. Not picked on merit: Anthropic no-ads/Wall Street (IPO speculation, business noise); Salesforce CEO 'Goodbye SEO' (commentary, SEO); IAB Tech Lab summit recap (event recap); HarnessBuy-Mastercard MoU (partnership PR); 전자신문 Visa Agentic Ready (payments infrastructure, weak ad/sales angle, also passed over 11-22); 매일경제 FSC agentic-payment talks (a meeting planned for next month that has not happened); 전자신문 Magnite streaming survey (AI only secondary). Cross-section: published_urls.json is too large to read through without grep, so I did not exact-match it. The picks come from marketing-only outlets and topics (Amazon Brand Store, Meta ads MCP, AI Mode ads, Google Ad Manager signals, agentic Black Friday), and none of them is named in today's cross-section assignments. Outlets: PPC Land 2, AWS 1, Content + Technology 1, Business Insider 1."
+    "note": "Dropped as duplicate: 'Connect Your ChatGPT Business Hub With ChatGPT Ad Account' (seroundtable 42592, history_match 0.30). It continues the 11-22 Digiday ChatGPT Business Hub story, and a button that already exists in the Hub is not a new release. Kept as new: Adweek ChatGPT orchestrator queries (11-04 nearest is Google query length, and 11-07 is ChatGPT bidding options; this is a new disclosure of how ChatGPT ads are matched). SER ChatGPT product-results doc change (a new OpenAI documentation change, not the 11-07 bidding or 11-21 coupon items). Pinterest x Microsoft Advertising (a new inventory deal, while the 11-19 card covered Microsoft's own bidding model upgrade). Byline Organicity (a brand case study, distinct from the 11-21 Cafe24 AI-order stats). The two ChatGPT picks are different events (ad-matching mechanics vs. shopping-result disclosure) from different outlets. Not picked on merit: Index Exchange MCP buyer guide (vendor explainer); AWS AgentCore x402 agent payments (payments infra, weak ad/sales angle); Mastercard/Ant agent-payment pilot (payments partnership, agentic payments already heavily covered); Salesforce Agentforce Coworker blog (vendor promo); 전자신문 Magnite streaming survey (AI secondary, also passed over 11-22/11-23). Cross-section: Higgsfield taken here per the 11-24 assignment (design/games must not pick it). published_urls.json is too large to read through without grep, so I did not exact-match it. The picks are marketing-only topics, and none of them is named for another section in today's assignments. Outlets: ADWEEK, GamesBeat, PPC Land, Search Engine Roundtable, 바이라인네트워크 (5 distinct)."
   }
 }

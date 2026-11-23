@@ -5966,6 +5966,126 @@
           "x": "Googleは、商品の順位付けの方法、支払いの処理者、こうした流れに広告が表示されるかどうかを明らかにしていない。リストにWalmartの名前はない。"
         }
       ]
+    },
+    "marketing/higgsfield-playable-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfieldは、AIでインタラクティブ広告を作る企業向けの新ワークフロー「playable ads」を公開した。開発者はゲームのメカニクスを説明し、ジャンルとサイズを選び、クリエイティブ素材（スプライト、テクスチャ、効果音など最大100点）を追加して、手動または自動モードでプレイ可能な体験を生成する。"
+        },
+        {
+          "t": "video",
+          "yt": "PG0UVcWVNl0"
+        },
+        {
+          "t": "p",
+          "x": "完成した広告は最大5 MBの単一の.htmlファイルとして書き出され、AppLovin、Meta、Google App Campaigns、Unity Ads、Pangle（TikTok）などのネットワークで使える。Higgsfieldの技術スタッフ、Zhangir Yergaliyev氏は「編集でき、エージェントにゲームのどんな点でも変更を頼める。パフォーマンスマーケティングでは、ゲームのバリエーションを何百通りも簡単にテストできる」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfieldは、スタジオから模倣や法的な懸念が出たことを受け、App StoreとGoogle Playのリンク取り込み機能を削除した。同社によると、手作業ではプレイアブル広告ごとに平均五日、約$5,000かかっていた。同社のツールでは初版の作成に約40分、費用は広告ごとに推定$30〜$40だ。プレイアブル広告チームは10人未満で、二週間で初版を作り上げた。"
+        }
+      ]
+    },
+    "marketing/pinterest-msads-inventory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+          "cap": "Pinterestはフィードと検索の広告枠をMicrosoft Advertising経由で販売し、欧州は対象外とした"
+        },
+        {
+          "t": "p",
+          "x": "Pinterestは、条件を満たすMicrosoft Advertisingのキャンペーンをホームフィード、検索結果、関連Pinsに配信できる連携を発表した。掲載位置は「カスタムのコンテクスチュアル入札モデル」が決め、新たな購入ツールは要らない。北米、オーストラリア、ニュージーランドで「まずは」開始し、欧州は対象外だ。発表には開始日、価格、対象条件の一覧、広告フォーマット、キャンペーン実績は含まれていない。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは、Pinterestの検索クエリ、文脈シグナル、そしてPinterestが「Pinterest Intelligence」と呼ぶ仕組みから得たファーストパーティの意図データを使う。需要はBing、MSN、Xbox、OutlookなどMicrosoftの各サービスから来る。Pinterestは月間アクティブユーザー661 million 人、月間検索80 billion 回を掲げる。今回の動きは、Amazon（2023年）、Google（2024年）、Index ExchangeとCriteo、Programmatic Deals（2026年10月26日）への開放に続くものだ。Microsoftは2026年2月に自社DSPのMicrosoft Investを終了している。"
+        }
+      ]
+    },
+    "marketing/chatgpt-shopping-partnership-doc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは「Shopping with ChatGPT Search」のヘルプ文書で、「商品結果はChatGPTが独自に選んだもので、広告ではなく、いかなるOpenAIの提携の影響も受けていない」という一文を更新した。現在は「商品結果は広告ではない。商品と販売事業者の選び方は以下で説明する」となっている。要するにOpenAIは、これらのショッピング結果がOpenAIの提携から独立し、その影響を受けていないという断り書きを削除した。"
+        },
+        {
+          "t": "p",
+          "x": "現行のヘルプ文書を以前のアーカイブ版と比べると変更がわかるが、両者を比較したdiffは次のとおりだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+          "cap": "Chatgpt Products Doc Diff（ChatGPT商品ドキュメントの差分）"
+        },
+        {
+          "t": "p",
+          "x": "ドキュメントとしてはかなり大きな変更ではないだろうか。"
+        },
+        {
+          "t": "p",
+          "x": "これはJuozas Kaziukėnas氏のXへの投稿で知った。同氏は「ChatGPTのショッピングヘルプページは、商品結果がいかなるOpenAIの提携の影響も受けない（NOT）とは、もう書いていない」と投稿した。同氏はこの変更をaivisibilityjournal.comで見つけた。"
+        }
+      ]
+    },
+    "marketing/organicity-d2c-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "「トラネキサム酸10%」「ナイアシンアミド10%」「PDRN 2500ppm」。スキンケアブランド「オーガニシティ」は、主要成分とその含有量を製品名に掲げる。成分で探す人には製品が見つけやすい一方、どの成分を使うべきかわからない人には壁になる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+          "cap": "11日、ソウル・東大門区で会ったウィトゥンカンパニーのソン・ボギョン代表（出典＝バイラインネットワーク）"
+        },
+        {
+          "t": "p",
+          "x": "オーガニシティは今年、カフェ24を基盤とする自社モールを構築し、成分辞典、肌悩み別の製品探索、人工知能（AI）相談の三つの機能を用意した。ソン代表は「実際の顧客相談では、どの製品を選ぶべきかだけでなく、他の製品と一緒に使ってよいか、朝と夜のどちらに使うのが適切かといった質問が繰り返し寄せられる」と説明した。こうして人が答えていた質問に、AIが代わりに答える。"
+        },
+        {
+          "t": "p",
+          "x": "オーガニシティは技術企業アティウェルスと協力し、NAVERスマートストアに蓄積された約6万件のレビューと顧客相談データをAIが活用できる形に加工し、自社が持つ成分・製品情報と組み合わせた。顧客の質問に合わせ、製品の組み合わせから使い方まで案内する。"
+        },
+        {
+          "t": "p",
+          "x": "同社の売上高は2024年の約4억9800만원から2025年には約16억7800만원に増えた。運営開始から数カ月しかたっていない自社モールの売上は、スマートストア売上の約30%の水準まで高まった。"
+        }
+      ]
+    },
+    "marketing/amazon-brandstore-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+          "cap": "Amazonは新しいBrand Storeページの手前に、6つのスタータープロンプトを備えたAIエージェントを置く。"
+        },
+        {
+          "t": "p",
+          "x": "AmazonのStore builderでAdd pageをクリックすると、Brand Store Builder Agentを備えた新しいウィンドウが開くようになった。ブランドは用意された6つのプロンプトから選ぶか、独自の指示を書く。Brand Registryのステータスは「Approved」である必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーはどの言語でもチャットできるが、Storeのコンテンツはマーケットプレイスの主要言語で生成される。フランス語のチャットでU.S. Storeを作ると、出力は英語になる。Amazonのヘルプページは、エージェントが出力をStoresのコンテンツポリシーと照合しているかどうかを明らかにしていない。"
+        },
+        {
+          "t": "p",
+          "x": "ブランドは「Add page without AI Assistance」リンクからエージェントを省き、手動テンプレートを使うこともできる。テンプレートはMarquee、Product highlight、Product grid（4から60製品）、Blankである。1ページには最大20セクションを置ける。審査は「通常24時間以内に完了する」が、最大3営業日かかる場合もある。"
+        },
+        {
+          "t": "p",
+          "x": "これとは別に、Classic、Elegant、ImpactのテーマではAll Dealsタブが初期設定で有効になっている。Amazonが選んで並べた最大30のセール対象製品を表示し、Amazonが「All Dealsページを作成・更新する」。ブランドはStore Settingsでオフにするか、自前のセールページに置き換えられる。"
+        }
+      ]
     }
   }
 }

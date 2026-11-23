@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-23",
-  "section": "design",
-  "media": [
-    {
-      "id": "gemini-mac-computer-use",
-      "type": "image",
-      "src": "pipeline/media/gemini-mac-computer-use.png"
-    },
-    {
-      "id": "siemens-agibot-gripper-agent",
-      "type": "image",
-      "src": "pipeline/media/siemens-agibot-gripper-agent.jpg"
-    },
-    {
-      "id": "gemini-omni-gif-maker",
-      "type": "image",
-      "src": "pipeline/media/gemini-omni-gif-maker.jpg"
-    },
-    {
-      "id": "webflow-mcp-designer-flow",
-      "type": "image",
-      "src": "pipeline/media/webflow-mcp-designer-flow.jpg"
-    },
-    {
-      "id": "comsol-2026-mcp-server",
-      "type": "image",
-      "src": "pipeline/media/comsol-2026-mcp-server.jpg"
-    }
-  ]
-}
+{"date":"2026-11-24","section":"design","media":[
+{"id":"maxon-plus-agentic-licence","type":"video","src":"pipeline/media/maxon-plus-agentic-licence.mp4","poster":"pipeline/media/maxon-plus-agentic-licence.jpg"},
+{"id":"motif-bhom-buro-happold","type":"image","src":"pipeline/media/motif-bhom-buro-happold.jpg"},
+{"id":"lexisnexis-verify-ux-patterns","type":"image","src":"pipeline/media/lexisnexis-verify-ux-patterns.png"},
+{"id":"design-agent-spacing-scale","type":"image","src":"pipeline/media/design-agent-spacing-scale.png"},
+{"id":"skecoplant-axen-design-ai","type":"image","src":"pipeline/media/skecoplant-axen-design-ai.png"}
+]}

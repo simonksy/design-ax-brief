@@ -13496,6 +13496,142 @@
           "x": "El hardware es ligero y cómodo, con una corona digital Smart Dial y una pantalla binocular brillante; la batería está calificada para hasta 48 horas de uso típico y 18 horas con grabación de audio continua. El veredicto: útil en algunos aspectos, pero la escucha persistente y discreta no compensa la pérdida de privacidad."
         }
       ]
+    },
+    "gadgets/paradromics-nvidia-bci": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una mujer de Michigan llamada Mary tiene un implante de Paradromics del tamaño aproximado de una moneda de diez centavos que, pese a su enfermedad de la motoneurona, le permite expresar sus pensamientos mediante una voz sintetizada. Hoy la decodificación del habla requiere un carrito lleno de electrónica enchufado a la corriente; dentro de un año, gracias a la tecnología de Nvidia, ese carrito será una pequeña caja que podrá ir en su silla de ruedas."
+        },
+        {
+          "t": "p",
+          "x": "Paradromics, con sede en Austin, anunció una alianza con el fabricante de chips de IA para usar el hardware y el software de Nvidia en el procesamiento de sus datos cerebrales. El implante usa más de 400 electrodos integrados, y un equipo informático usa IA para inferir lo que ella intenta decir. El CEO, Matt Angle, considera las interfaces cerebro-computadora el caso definitivo de la computación en el borde."
+        },
+        {
+          "t": "p",
+          "x": "Paradromics usará Jetson, el módulo de cómputo de bajo consumo de Nvidia, para decodificar el habla en un dispositivo pequeño cerca del usuario, y Holoscan, el software de procesamiento de sensores con IA de Nvidia, para una interacción de baja latencia junto con cámaras y micrófonos. También podrá integrar los modelos fundacionales de Nvidia; al ejecutarlos localmente, los usuarios no necesitarán conexión a internet. Nvidia, que también trabaja con Synchron, no tendrá acceso a los datos cerebrales a través de estas alianzas."
+        }
+      ]
+    },
+    "gadgets/asus-proart-p14-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Asus metió el chip RTX Spark de Nvidia en el chasis ProArt de 14 pulgadas más ligero que ha fabricado, de solo 0,55 pulgadas de grosor y 3,26 libras. Combina una pantalla táctil 3K Lumina Pro OLED, un lector de tarjetas SD, unos altavoces sorprendentemente buenos y 12,5 horas de autonomía (12:32 en la prueba de navegación web de Tom’s Guide)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+          "cap": "(Crédito de imagen: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Pero para mantener un chasis tan delgado, Asus tuvo que limitar la potencia total. Incluso en modo manual llega como máximo a un TDP de 80 vatios, frente a los hasta 135 vatios del P16, más grande, por lo que se queda por detrás de equipos RTX Spark mayores cuando se exige al silicio. Aun así, es “de sobra ágil para trabajo creativo y tareas de IA local”, pero la parte inferior se calienta bajo carga a través de unas rejillas anchas y expuestas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+          "cap": "(Crédito de imagen: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Veredicto: uno de los portátiles para creadores más agradables del año para creativos y desarrolladores que viajan, pero no la representación más completa de lo que RTX Spark puede hacer, y el precio es elevado."
+        }
+      ]
+    },
+    "gadgets/copilot-pc-npu-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+          "cap": "Un portátil como regalo para las fiestas. La NPU no debería ser lo que decida la compra."
+        },
+        {
+          "t": "p",
+          "x": "La NPU era el pase de entrada a los Copilot+ PCs de Microsoft y a funciones como Recall. A finales de 2026, casi todos los portátiles nuevos tienen NPU, la marca Copilot+ se está desdibujando y las apps de IA local más conocidas no usan ese chip en absoluto. Copilot+ sigue exigiendo una NPU de más de 40 TOPS, además de 16GB de RAM y un SSD de 256GB; el responsable de Surface, Brett Ostrum, dijo que los dispositivos Surface de 2026 ya no se llaman Copilot+ PCs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+          "cap": "Qué funciones de IA de Windows 11 necesitan una NPU y cuáles no."
+        },
+        {
+          "t": "p",
+          "x": "La serie Ryzen AI 400 de AMD alcanza de 50 a 60 TOPS; los Snapdragon X2 Elite y X2 Plus de Qualcomm, 80 TOPS, y Panther Lake de Intel, hasta 50 TOPS: las cifras más altas no desbloquean funciones adicionales de Windows. Ollama, LM Studio y llama.cpp se ejecutan en la GPU y la CPU, no en la NPU."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+          "cap": "Todos los chips actuales para portátiles superan el umbral de 40 TOPS de Copilot+."
+        },
+        {
+          "t": "p",
+          "x": "Hoy es la memoria lo que encarece los portátiles. Conviene ver la NPU como un extra, no como un motivo de compra: 16GB de RAM es el mínimo para las funciones de Copilot+, y para modelos de lenguaje locales conviene prever 32GB o una GPU dedicada."
+        }
+      ]
+    },
+    "gadgets/flowtica-verso-comulytic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+          "cap": "Adrian Kingsley-Hughes/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo Flowtica Verso es una grabadora de voz con IA con una gran pantalla táctil de papel electrónico y un conector MagSafe. ZDNET lo comparó con el Note Pro de Comulytic. Ambos son excelentes: aunque el Verso tiene cuatro micrófonos frente a los dos del Note Pro (más un micrófono de conducción para llamadas), no hay una diferencia significativa en la calidad de grabación. La transcripción del Verso es excelente y su promesa de 70 horas de batería resulta creíble; el Note Pro ofrece 45 horas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+          "cap": "Introducir una contraseña de Wi-Fi en el Verso resulta frustrante por el retardo."
+        },
+        {
+          "t": "p",
+          "x": "El mayor problema del Verso: es “realmente, dolorosamente lento”. El retardo de medio segundo entre el toque y la reacción resta valor a la pantalla táctil, el botón “Ask Flowtica” era lento y aparecían mensajes de “sin conexión a internet”. El Note Pro, simplemente, funcionó."
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+          "cap": "El Note Pro es pequeño, discreto y simplemente funciona."
+        },
+        {
+          "t": "p",
+          "x": "El Verso tiene un precio de lista de $299; el Note Pro cuesta menos de $130. La transcripción en vivo, Voice ID y los resúmenes del Verso se limitan a 300 minutos al mes sin suscripción, mientras que el plan gratuito de Comulytic incluye resúmenes básicos ilimitados. Veredicto: por ahora, el autor se queda con el Note Pro."
+        }
+      ]
+    },
+    "gadgets/verge-vibe-coding-gadgets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje grandes ya pueden rediseñar tu TV y mejorar tu cámara por ti. Hackear y modificar gadgets no es nuevo; lo nuevo es que ahora es fácil: la gente hackea su hardware con solo pedírselo a Claude Code o Codex."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador Gathin T pidió a Claude Code que tomara el control de su Xiaomi Android TV, plagada de anuncios; una hora y media después tenía una interfaz más simple y sin anuncios en pantalla. Su solución viral se convirtió en CleanYourTV, uno de los repositorios más populares de GitHub. Android funciona en todo, desde lavavajillas y marcos de fotos hasta coches de lujo, y si hay una API oculta o un archivo de firmware en línea, un LLM puede encontrarlo, desempaquetarlo y volver a empaquetarlo."
+        },
+        {
+          "t": "p",
+          "x": "Los aficionados a la fotografía usan AI para añadir funciones de grabación, resoluciones más altas y nuevos perfiles de color; los músicos convierten sintetizadores baratos como el M-Vave FM-1 en equipos nuevos; los jugadores añaden funciones a sus consolas. Los fabricantes de videojuegos contraatacan, y Luke Dicken prevé \"un DRM más invasivo\". Los usuarios también se arriesgan a inutilizar sus dispositivos."
+        },
+        {
+          "t": "p",
+          "x": "La vía más segura son los módulos ESP32 —placas baratas y aptas para hackers que hay detrás de dispositivos como el M5Stack PaperMono— y el programa Muse Charm y Muse Gadgets de Meta. El consejo de Gathin: nunca des a los bots acceso a algo que no puedas permitirte perder, y haz muchas copias de seguridad."
+        }
+      ]
     }
   }
 }

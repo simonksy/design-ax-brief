@@ -11183,6 +11183,132 @@
           "x": "作者们请读者不要攻击这位画师。他们写道：“生成式AI已经变得非常精巧。”封面由出版社委托绘制，草图“看起来就像一张普通的封面草图”。今后他们可能会要求查看项目文件，以审核所有委托作品：“我们已经不能只审核画师了，必须审核每一幅画。”他们还在发现一家竖屏短剧公司使用生成式AI的程度与自己的偏好不符后，终止了与该公司的合同。"
         }
       ]
+    },
+    "books/books-forfatterforbundet-ki-detektor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
+        },
+        {
+          "t": "p",
+          "x": "Jørn Lier Horst的书«Den siste saken»将文学界带入一场自我反省的辩论。与此同时，出版社正在检测投稿是否使用AI（KI-bruk）。Forfatterforbundet发现，有作家前来求助，因为出版社可能以«由AI(KI)写成»为由拒绝了其书稿——而作家表示：«我没有用过AI(KI)。»"
+        },
+        {
+          "t": "p",
+          "x": "秘书长Eystein Hanssen和同事对挪威服务Skrivera做了10–20次测试。AI写的短篇（KI-skrevne）被标记为70至90%，快速改写过的为30至50%。若改动达70%或以上，结果为«人类创作»。一篇人类写的短篇用了Jill Walker Rettberg指出的词，却被标记为«强烈的AI特征（KI-trekk）»。"
+        },
+        {
+          "t": "p",
+          "x": "他描述了检测器与«humanizere»之间的军备竞赛，并警告一种合成的守门人会在没有申诉途径的情况下评判人类创作的文本。Kulturrådet决定不使用AI检测器（KI-detektorer），这一决定看来是明智的。"
+        }
+      ]
+    },
+    "books/books-crime-punishment-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
+        },
+        {
+          "t": "p",
+          "x": "如今，能瞬间翻译外语的人工智能让外国小说也变得更容易接触。最近，由生成式AI翻译的经典作品也出版成书。"
+        },
+        {
+          "t": "p",
+          "x": "我们把陀思妥耶夫斯基小说《罪与罚》中，主人公拉斯柯尔尼科夫亲吻索尼娅双脚后说的话，以俄语原文输入。ChatGPT、Gemini和Claude都译成了“跪拜”。"
+        },
+        {
+          "t": "p",
+          "x": "但译者Kim Jeong-a不一样。她提出了这样的洞见：不是向你跪拜，而是在全人类的苦难面前“低下了头”。“就像在祭祀供桌前这样跪拜的感觉，对吧？那太奇怪了。是低头致意的感觉，就是这种感觉。是敬畏的表达。”"
+        },
+        {
+          "t": "p",
+          "x": "从《罪与罚》《白痴》《群魔》到《卡拉马佐夫兄弟》，她每天凌晨1点起床，花了10多年把6천7백（六千七百）多页译成韩文。在4日获得普希金奖章的Kim Jeong-a呼吁读者，一并读出AI翻译所没有的真心与共鸣。"
+        },
+        {
+          "t": "p",
+          "x": "“（AI翻译）没有心脏，没有胸怀，打动不了人。太过光滑了。读起来当然会更容易，但真的会失去很多东西。”"
+        }
+      ]
+    },
+    "books/books-ai-slop-academic-names": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
+        },
+        {
+          "t": "p",
+          "x": "一项调查发现，一批鲜为人知的学术期刊一直以并未撰写论文的教授的名义发表“AI slop”论文。"
+        },
+        {
+          "t": "p",
+          "x": "University of Gothenburg计算机科学教授Alan Said收到一条Google Scholar提醒，称American International Journal of Research and Innovation（AIJRI）上有一篇署他名字的论文。他说：“看起来是AI-generated。没有内容，就像slop。”他投诉后，署名被换成了别人，留下三个署有不同作者的版本。"
+        },
+        {
+          "t": "p",
+          "x": "姊妹期刊AJAMRI发表了数十篇署名为Fei-Fei Li、Christopher Manning、Michael I. Jordan和Stuart Russell等学者的论文。三个域名均在2026年注册，却展示着早几年的存档，并宣传收取发表费。"
+        },
+        {
+          "t": "p",
+          "x": "“如果一个新的Ph.D.学生在这本期刊上看到我的名字，可能会认为投到那里也OK。”Said说。Stanford的Jure Leskovec证实，他没有撰写或授权任何署他名字的论文。"
+        }
+      ]
+    },
+    "books/books-scholarlykitchen-bot-taxonomy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
+          "cap": "站在敞开门口、手持门禁卡的机器人"
+        },
+        {
+          "t": "p",
+          "x": "编者按：今天的文章作者是LibLynx数据负责人Michelle Urberg。图书馆和出版商在学术内容平台上面临着日益复杂的机器人活动生态。有些机器人是恶意的，应当拦截；但许多“好机器人”能帮助研究人员和学生使用内容，或将其存档以便保存；代表人类研究者行事的智能体应被纳入使用报告。"
+        },
+        {
+          "t": "p",
+          "x": "如今，拦截机器人会产生连锁效应：访问变慢，用户可能被错误拒绝，平台提供商仍不断承受冲击。现有目录各自为政——COUNTER列表识别的机器人不到200个，Cloudflare Bot Directory最近从750个翻倍至1,500个以上。文章提出，机器人分类法可以帮助知识平台重新掌控内容，并了解是谁（或是什么）在访问。"
+        },
+        {
+          "t": "p",
+          "x": "受David Bietila（University of Chicago Library）、Jeremy Morse（Michigan Publishing）和Rikki Gracia（IEEE）参与的Charleston Conference小组讨论启发，该小组就几个初步问题达成一致：机器人是谁、如何表明身份；它寻找什么内容；其声明的用途（例如训练、购物、索引、存档）；我们对其合法性有多大把握；以及它能否绕过turnstile机制。"
+        },
+        {
+          "t": "p",
+          "x": "尚待解决的问题包括如何用替代指标推断意图，以及应标准化哪些学术领域专属标签。所有小组成员都认为，由社区主导的机器人分类法是机器人管理方案的一部分，其结果是更干净的使用指标。"
+        }
+      ]
+    },
+    "books/publishing-act-ai-consent-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.ehom.kr/news/2026/11/23/b392e224be2acfd2d8edca28d44e135c062044.jpg",
+          "cap": "△ 出版物是可用于AI训练的高质量知识资源,但必须同时具备权利人的同意和安全的处理环境 <图片=Media Ullim AI生成>"
+        },
+        {
+          "t": "p",
+          "x": "“我出的书被用于AI训练了。”11月第三、第四周,出版界从三个方向回应了这一问题。民间层面,将出版内容转化为AI训练数据的“基于许可”的供应体系迈出了第一步;国会层面,将学术图书支持写入法律的修正案进入立法预告;著作权领域,以文字阐释权利意义的人们获得了表彰。"
+        },
+        {
+          "t": "p",
+          "x": "AI数据与可靠性评估专业企业Selectstar于20日宣布,已与大韩出版文化协会(出协)签署谅解备忘录(MOU),旨在合法利用AI训练用出版数据并确保其质量。出协将与出版社协商,运营数据收集与管理体系并担任供应窗口;Selectstar则提供基于OCR和文档版面分析(DLA)的加工与质量验证技术,以及封闭网络、本地部署的安全基础设施。"
+        },
+        {
+          "t": "p",
+          "x": "数据利用以著作权人和出版权人的同意为前提,实际供应范围和使用条件将另行通过合同确定。此次协议并非对全部出版作品的概括性AI训练许可。"
+        },
+        {
+          "t": "p",
+          "x": "国会方面,议员Yoon Yong-geun等14人提出的《出版文化产业振兴法部分修正案》(议案编号2222616)正于16日至25日进行立法预告并征求意见。修正案对学术图书作出定义,并在韩国出版文化产业振兴院的职责中增加学术图书的调查、研究与支持、提高可及性、分类与元数据建设及流通支持等内容。提案理由指出学术图书是AI训练和国家知识生产的基础,但修正条文本身并未一律允许将其用于AI训练,也未改变著作权人的权利。该法案目前仍处于提出、交付委员会和立法预告阶段。"
+        },
+        {
+          "t": "p",
+          "x": "同一时期,文化体育观光部与韩国著作权委员会于11月19日举行“2026著作权意识提升征文比赛”颁奖典礼,为Yoon Hye-kyung的《可以使用吗?》等49篇作品颁奖。出版界需要守护的不是数据的数量,而是关于谁许可了什么的记录。"
+        }
+      ]
     }
   }
 }

@@ -12431,6 +12431,111 @@
           "x": "Kunimoto, an exoplanet researcher at the University of British Columbia, warns that some amateurs can’t validate the models’ findings: “There’s been a huge, overwhelming surge of AI-driven papers, which tend to have [planet] candidates that are not the best quality.”"
         }
       ]
+    },
+    "science/science-mit-slic-analog-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+          "cap": "“We’ve provided an alternative option to automate analog circuit design,” says Yan Xu. Image: Jose-Luis Olivares, MIT; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The MIT method, called Small LM Iterating on Circuits, or SLIC, enables engineers to train a small language model to perform analog circuit design as well as or better than a frontier large language model. The model uses a few billion parameters, is efficient enough to run on a laptop, and because it is trained and deployed locally it can use a company's confidential circuit data without privacy risks."
+        },
+        {
+          "t": "p",
+          "x": "SLIC uses multi-turn reinforcement learning with verifiable rewards. A large LLM generates demonstrations of the design process for the small model to mimic; the small model then practices on new problems, guessing parameters, running simulations and iteratively refining the design. Its reasoning is described in natural language, so users can follow its decisions."
+        },
+        {
+          "t": "p",
+          "x": "In tests, the small model came close to matching the latest GPT model (GPT-6-Astra) while using a fraction of the compute, and kept its performance on unseen circuit structures, more advanced technology nodes and real commercial processes. The work, with IBM Research and Analog Devices, will be presented at NeurIPS 2026."
+        }
+      ]
+    },
+    "science/science-lio2-dualatom-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+          "cap": "Fig. 1: Investigation of multi-site catalyst design principle by machine learning."
+        },
+        {
+          "t": "p",
+          "x": "The practical deployment of high-energy-density lithium–oxygen batteries is restricted by sluggish oxygen redox kinetics and unstable discharge intermediates. The authors report an AI-integrated framework leveraging interpretable machine learning and density functional theory to navigate a chemical space of thousands of active sites, trained on 200 literature records. It identifies Ni-Co dual-atom catalysts as a better configuration among the selected elements."
+        },
+        {
+          "t": "p",
+          "x": "Synergistic coupling between the dual sites reconfigures the d-band center, lowering thermodynamic barriers. With controlled H2O added to the electrolyte, the catalyst drives a transition from the conventional two-electron Li2O2 pathway to a four-electron LiOH pathway, yielding a discharge capacity of ~60,000 mAh g−1."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+          "cap": "Fig. 5: Analysis of cycling stability and catalytic process."
+        },
+        {
+          "t": "p",
+          "x": "Under the four-electron pathway the NiCo2-DACs achieve a lifespan of 2075 cycles with reduced voltage decay, versus failure after 790 cycles for the Co single-atom baseline. The architecture also works as a protective layer that suppresses lithium dendrite growth at the negative electrode."
+        }
+      ]
+    },
+    "science/science-bath-students-ai-support": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "One in four students responding to a University of Bath survey said they had used generative AI for mental health support in the previous six months, according to a new study in JMIR Mental Health. Students used AI for advice when distressed, to understand their mental health and as a personal therapist or coach. Use was highest among students with very low well-being, with more than a third reporting it."
+        },
+        {
+          "t": "p",
+          "x": "Lead author Dr. Jeffrey Lambert said, \"Generative AI is already changing how people seek support for their mental health.\" The study surveyed 2,020 students and found those with a declared disability were more likely to use AI this way. The researchers highlight risks including inaccurate information, privacy concerns and poor responses when someone is in crisis."
+        },
+        {
+          "t": "p",
+          "x": "The university has published guidance for students. Respondents represented 9.1% of those invited, and the study covered a single university; a national, multi-university study is now under way."
+        }
+      ]
+    },
+    "science/science-technion-rnn-hidden-structure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Technion researchers examined how changes in a network's connections combine to alter its function, using mathematical models of neural networks, and showed that a network's function and learning reveal different aspects of its internal structure. The paper by Professor Omri Barak and research student Yoav Ger, posted on arXiv, was selected for an oral presentation at NeurIPS 2026 — one of 112 of 30,709 submissions."
+        },
+        {
+          "t": "p",
+          "x": "Studying a type of recurrent neural network used to model how the brain processes information, they distinguished properties that determine the network's behavior from \"hidden\" ones that do not affect current performance but influence how it learns. In one example, two networks responded identically to the same inputs, yet when trained under the same conditions one saw improvement slow considerably for a period while the other improved more steadily."
+        },
+        {
+          "t": "p",
+          "x": "Hidden properties can also retain traces of learning history: networks first trained on different tasks reached similar performance on a shared task, yet their hidden structure still identified each network's training history. The authors suggest similar experiments in biological systems."
+        }
+      ]
+    },
+    "science/science-milkyway-ai-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+          "cap": "Snapshots of one of the PHEASANT runs with 3.4 × 10⁹ particles. For each panel, the left and right color maps show the gas density and temperature, respectively. Credit: K. Hirashima et al."
+        },
+        {
+          "t": "p",
+          "x": "Researchers have simulated the Milky Way down to individual stars with PHEASANT, an AI-accelerated model that runs across three supercomputer systems with different CPU and GPU hardware. The work involves Professor Michiko Fujii of the University of Tokyo's Department of Astronomy and RIKEN postdoctoral researcher Keiya Hirashima, who developed the AI model."
+        },
+        {
+          "t": "p",
+          "x": "Calculating how gas evolves around supernovae directly requires time steps of about 100 years. Instead, the AI model predicts 100,000 years ahead, letting the main simulation take much longer time steps. The team reports the approach runs about 20 times faster than the conventional method, and the simulated star formation rate matches observational estimates for the real Milky Way."
+        },
+        {
+          "t": "p",
+          "x": "The paper, \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.), was presented at SC 2026, the International Conference for High Performance Computing, Networking, Storage and Analysis, held November 15–20 in Chicago."
+        }
+      ]
     }
   }
 }

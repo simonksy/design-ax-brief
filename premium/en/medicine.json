@@ -5375,6 +5375,147 @@
           "x": "The bottom line? \"Early [pancreatic cancer] detection should not rely on lesion cues alone,\" Li and colleagues concluded."
         }
       ]
+    },
+    "medicine/mhra-mental-health-airlock": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new regulatory sandbox launched today (23 November) by the MHRA and NICE will support safe innovation in AI-enabled mental health technologies, helping promising technologies reach people sooner."
+        },
+        {
+          "t": "p",
+          "x": "As an expansion of the MHRA's AI Airlock programme, in partnership with NICE's HTA Lab, the AI in Mental Health Airlock will bring regulators and innovators together to explore the specific evaluation needs for AI-enabled mental health technologies. It is part of phase two of a Wellcome-funded programme, first launched in 2023."
+        },
+        {
+          "t": "p",
+          "x": "Recent research also suggests more than one in three adults (37%) have used an AI chatbot to support their mental health or wellbeing. Some of these chatbots may have medical purposes and be subject to medical device regulation, while others may not."
+        },
+        {
+          "t": "p",
+          "x": "Up to five organisations will be selected to take part in the sandbox. Through workshops and testing activities, participants will generate practical insights into how AI-related risks in mental health contexts can be identified, assessed and managed. Applications close on 22 January 2027."
+        },
+        {
+          "t": "p",
+          "x": "MHRA Chief Executive Lawrence Tallon said: \"The AIMH Airlock will help us better understand how AI mental health technologies can be practically assessed and managed.\""
+        }
+      ]
+    },
+    "medicine/photon-chatgpt-rx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+          "cap": "Patient records are saved in Photon, and draft prescriptions are checked against the patient's recorded allergies and medications."
+        },
+        {
+          "t": "p",
+          "x": "Photon, a prescription infrastructure company, is now available as a plugin for ChatGPT to streamline prescribing for clinicians within a tool they already use."
+        },
+        {
+          "t": "p",
+          "x": "The option is available to eligible U.S. licensed clinicians using ChatGPT for Clinicians or ChatGPT for Healthcare. Clinicians must accept Photon's BAA to maintain HIPAA compliance. Controlled substances are not supported. The feature is free for clinicians through Dec. 31, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+          "cap": "Screenshot sample of the interface (Photon)"
+        },
+        {
+          "t": "p",
+          "x": "\"AI is moving from note-taking and reference into treatment workflows,\" Otto Sipe, co-founder and CEO, wrote to Fierce Healthcare. \"Photon provides the infrastructure behind that step.\""
+        },
+        {
+          "t": "p",
+          "x": "Clinicians begin a prompt with the name of the patient and medication, then review dosing, instructions and quantity before authorizing the prescription, remaining responsible for the treatment. A patient gets a text to Photon's prescription marketplace outside of ChatGPT to compare prices."
+        }
+      ]
+    },
+    "medicine/heart-failure-drug-ai-kr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+          "cap": "From left: Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, Professor Kook Woong of the Department of Mathematical Sciences at Seoul National University, and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS). Photo: Seoul National University Bundang Hospital"
+        },
+        {
+          "t": "p",
+          "x": "A team led by Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, together with Professor Kook Woong of Seoul National University's Department of Mathematical Sciences and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS), has developed 'PARAGUIDE', an AI tool that predicts the effect of drug treatment in patients with heart failure with preserved ejection fraction."
+        },
+        {
+          "t": "p",
+          "x": "The team analyzed clinical data from 4,161 patients with heart failure with preserved ejection fraction to build a model that predicts each patient's response to sacubitril/valsartan. After analyzing 53 baseline clinical characteristics, they cut the input variables to 16 so the tool could be used in everyday clinical practice."
+        },
+        {
+          "t": "p",
+          "x": "Across the full patient population, the reduction in cardiovascular death and heart failure hospitalization was not statistically significant. However, the AI predicted a treatment benefit for 70.8% of patients, and in this group the risk was 18% lower than with valsartan alone (RR 0.82, 95% CI 0.69~0.98)."
+        },
+        {
+          "t": "p",
+          "x": "Professor Park Jin-joo said, \"This study turns the question 'Does this drug work?' into 'Does this drug help this particular patient?'\" The results were published in 'npj Digital Medicine', and PARAGUIDE is available free of charge through a website."
+        }
+      ]
+    },
+    "medicine/eye-ambient-ai-emr-ophthalmology": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "EMR documentation contributes to physician workload and reduced patient–physician interaction, with ophthalmology particularly affected by specialist data requirements. This study compared ambient AI-assisted documentation for structured EMR import with conventional entry in standardised ophthalmic consultations."
+        },
+        {
+          "t": "p",
+          "x": "Ten standardised ophthalmic scenarios were performed under classic and AI-assisted conditions by a consultant and a resident. ChatGPT 5.3 and Claude Sonnet 4.6 used TurboScribe transcription followed by structured LLM output; Heidi 2.0.1 used an integrated audio pipeline. All targeted structured import into an ophthalmic EMR (Heyex; Heidelberg Engineering)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+          "cap": "Fig. 1: Consultation time components: classic versus AI-assisted documentation."
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted documentation reduced total consultation time by 2.4 min (−32%) for the consultant and 3.0 min (−37%) for the resident. Documentation and review time decreased by 85% and 86%, and off-patient gaze time by 83% and 86%; computer-related gaze shifts decreased by 72% for both clinicians."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+          "cap": "Fig. 2: Item-level distribution of documentation accuracy ratings by AI system."
+        },
+        {
+          "t": "p",
+          "x": "Accuracy was highest for Claude Sonnet 4.6 (98.4 ± 2.9%), followed by ChatGPT 5.3 (97.0 ± 5.1%) and Heidi 2.0.1 (88.6 ± 9.9%). As only one consultant and one resident were assessed, these findings should be regarded as preliminary and hypothesis-generating."
+        }
+      ]
+    },
+    "medicine/northwell-stroke-ai-outcomes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wednesday, December 2 | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+        },
+        {
+          "t": "p",
+          "x": "In this presentation, researchers will share how implementing AI software at a comprehensive stroke center didn’t measurably improve patient outcomes."
+        },
+        {
+          "t": "p",
+          "x": "AI tools have been widely adopted for time-sensitive conditions like stroke, despite a lack of evidence that they improve outcomes, noted presenter Maria Sanmartin, PhD, of the Donald and Barbara Zucker School of Medicine at Hofstra/Northwell. To investigate, the research team compared stroke outcomes before and after five AI tools were introduced at a comprehensive stroke center in the New York metropolitan area."
+        },
+        {
+          "t": "p",
+          "x": "The researchers retrospectively analyzed 876 patients with acute ischemic stroke treated between 2014 and 2024, excluding those seen while the tools were being rolled out. They used propensity score matching and interrupted time-series analysis to account for differences between the two groups."
+        },
+        {
+          "t": "p",
+          "x": "After controlling for other factors, the researchers found no significant change in the odds of a good functional outcome at discharge, or in discharge disposition, after AI implementation. The odds of completing CT angiography within 60 minutes of arrival did, however, rise sharply when the AI period began."
+        },
+        {
+          "t": "p",
+          "x": "“Given prior research demonstrating that AI tools expedite stroke diagnosis, streamline workflows, and enhance collaboration among medical teams, further investigation is warranted to determine whether these changes impact outcomes,” the researchers wrote."
+        }
+      ]
     }
   }
 }

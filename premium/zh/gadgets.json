@@ -12708,6 +12708,142 @@
           "x": "硬件轻巧舒适，配有Smart Dial数字表冠和明亮的双目显示屏；电池在典型使用下最长可达48小时，持续录音时为18小时。结论是：它在某些方面有用，但持续而隐蔽的聆听不值得以隐私为代价。"
         }
       ]
+    },
+    "gadgets/paradromics-nvidia-bci": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+        },
+        {
+          "t": "p",
+          "x": "密歇根州一位名叫Mary的女性植入了一枚约一角硬币大小的Paradromics植入物，尽管患有运动神经元病，她仍能通过合成语音表达想法。目前，语音解码需要一整车插着电源的电子设备；一年后，借助Nvidia的技术，这辆推车将变成一个可以放在她轮椅上的小盒子。"
+        },
+        {
+          "t": "p",
+          "x": "总部位于奥斯汀的Paradromics宣布与这家AI芯片制造商合作，使用Nvidia的硬件和软件处理其脑数据。该植入物内嵌400多个电极，计算机借助AI推断她想说的话。CEO Matt Angle称，脑机接口是边缘计算的终极用例。"
+        },
+        {
+          "t": "p",
+          "x": "Paradromics将使用Nvidia的低功耗计算模块Jetson，在靠近用户的小型设备上完成语音解码，并使用Nvidia的AI传感器处理软件Holoscan，与摄像头和麦克风配合实现低延迟交互。它还能集成Nvidia的基础模型；由于在本地运行，用户无需联网。Nvidia也与Synchron合作，但不会通过这些合作获取脑数据。"
+        }
+      ]
+    },
+    "gadgets/asus-proart-p14-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Asus将Nvidia的RTX Spark芯片塞进了其史上最轻的14英寸ProArt机身，厚度仅0.55英寸，重3.26磅。它配备3K Lumina Pro OLED触摸屏、SD读卡器、出人意料的好音箱，以及12.5小时续航（在Tom’s Guide的网页浏览测试中为12:32）。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+          "cap": "（图片来源：Future）"
+        },
+        {
+          "t": "p",
+          "x": "但为了让机身保持如此纤薄，Asus不得不限制总功耗。即便在手动模式下，TDP最高也只有80瓦，而更大的P16最高可达135瓦，因此在压榨芯片性能时，它落后于更大的RTX Spark机型。它仍然“足以流畅应对创意工作和本地AI任务”，但在高负载下，底部宽大外露的散热口处会发烫。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+          "cap": "（图片来源：Future）"
+        },
+        {
+          "t": "p",
+          "x": "结论：对经常出行的创作者和开发者来说，这是今年最讨喜的便携创作者笔记本之一，但它并未完全展现RTX Spark的实力，而且价格不菲。"
+        }
+      ]
+    },
+    "gadgets/copilot-pc-npu-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+          "cap": "笔记本电脑作为节日礼物。NPU不应成为购买的决定因素。"
+        },
+        {
+          "t": "p",
+          "x": "NPU曾是通往Microsoft Copilot+ PCs以及Recall等功能的门票。到2026年底，几乎每台新笔记本都配备了NPU，Copilot+品牌逐渐淡出，而最知名的本地AI应用根本不使用这颗芯片。Copilot+仍要求NPU算力超过40 TOPS，并配备16GB内存和256GB SSD；Surface负责人Brett Ostrum表示，2026年的Surface设备不再称为Copilot+ PCs。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+          "cap": "Windows 11中哪些AI功能需要NPU，哪些不需要。"
+        },
+        {
+          "t": "p",
+          "x": "AMD的Ryzen AI 400系列达到50至60 TOPS，Qualcomm的Snapdragon X2 Elite和X2 Plus达到80 TOPS，Intel的Panther Lake最高50 TOPS——更高的数字并不会解锁额外的Windows功能。Ollama、LM Studio和llama.cpp运行在GPU和CPU上，而不是NPU。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+          "cap": "当前所有笔记本芯片都超过了Copilot+ 40 TOPS的门槛。"
+        },
+        {
+          "t": "p",
+          "x": "眼下推高笔记本价格的是内存。应把NPU当作加分项，而不是购买理由：16GB内存是使用Copilot+功能的最低要求，若要运行本地语言模型，应考虑32GB内存或独立GPU。"
+        }
+      ]
+    },
+    "gadgets/flowtica-verso-comulytic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+          "cap": "Adrian Kingsley-Hughes/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "新款Flowtica Verso是一款AI录音设备，配有大尺寸电子纸触摸屏和MagSafe接口。ZDNET将其与Comulytic的Note Pro进行了比较。两者都很出色：尽管Verso有四个麦克风，而Note Pro只有两个（外加一个用于通话的传导麦克风），但录音质量并无明显差别。Verso的转写效果出色，其70小时续航的说法也可信；Note Pro则为45小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+          "cap": "由于延迟，在Verso上输入Wi-Fi密码令人抓狂。"
+        },
+        {
+          "t": "p",
+          "x": "Verso最大的痛点是它“真的慢得令人痛苦”。从点击到响应之间半秒的延迟削弱了触摸屏的体验，“Ask Flowtica”按钮反应也慢，还出现了“无网络连接”的提示。Note Pro则一直正常工作。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+          "cap": "Note Pro小巧低调，用起来就是顺手。"
+        },
+        {
+          "t": "p",
+          "x": "Verso售价$299，Note Pro不到$130。没有订阅的话，Verso的实时转写、Voice ID和摘要功能每月限300分钟，而Comulytic的免费版包含无限次基础摘要。结论：作者目前仍会继续使用Note Pro。"
+        }
+      ]
+    },
+    "gadgets/verge-vibe-coding-gadgets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "大语言模型如今可以替你重新设计TV、升级相机。设备破解与改装并不新鲜，新鲜的是如今这很容易：人们只需向Claude Code或Codex下达提示，就能破解自己的硬件。"
+        },
+        {
+          "t": "p",
+          "x": "开发者Gathin T让Claude Code接管了他那台满是广告的Xiaomi Android TV；一个半小时后，他得到了一个没有屏幕广告的更简洁界面。他这个走红的方案成了CleanYourTV，跻身GitHub最受欢迎的代码库之一。从洗碗机、相框到豪华汽车，Android无处不在；只要网上有隐藏的API或固件文件，LLM就能找到、解包并重新打包。"
+        },
+        {
+          "t": "p",
+          "x": "相机爱好者用AI添加录制功能、更高分辨率和新的色彩配置；音乐人把M-Vave FM-1这样的廉价合成器改造成新设备；玩家则为游戏机增加功能。游戏厂商正在反击，Luke Dicken预测会出现“更具侵入性的DRM”。用户还面临把设备变砖的风险。"
+        },
+        {
+          "t": "p",
+          "x": "更安全的路线是ESP32模块——M5Stack PaperMono等设备背后的廉价、对黑客友好的板子——以及Meta的Muse Charm和Muse Gadgets计划。Gathin的建议是：绝不要让机器人接触你输不起的东西，并且多做备份。"
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,7 @@
-{
- "date": "2026-11-23",
- "section": "movies",
- "media": [
-  {
-   "id": "harari-unknown-deepfake",
-   "type": "image",
-   "src": "pipeline/media/harari-unknown-deepfake.jpg"
-  },
-  {
-   "id": "bisff-ai-competition",
-   "type": "image",
-   "src": "pipeline/media/bisff-ai-competition.jpg"
-  },
-  {
-   "id": "dubai-ai-film-award-2nd",
-   "type": "image",
-   "src": "pipeline/media/dubai-ai-film-award-2nd.jpg"
-  },
-  {
-   "id": "siamsun-ai-shortdrama",
-   "type": "image",
-   "src": "pipeline/media/siamsun-ai-shortdrama.jpg"
-  },
-  {
-   "id": "gwangju-onair-awards",
-   "type": "image",
-   "src": "pipeline/media/gwangju-onair-awards.jpg"
-  }
- ]
-}
+{"date":"2026-11-24","section":"movies","media":[
+{"id":"silhouette-2027-mlroto","type":"video","src":"pipeline/media/silhouette-2027-mlroto.mp4","poster":"pipeline/media/silhouette-2027-mlroto.jpg"},
+{"id":"gods-dont-give-gifts-oscar-ineligible","type":"image","src":"pipeline/media/gods-dont-give-gifts-oscar-ineligible.jpg"},
+{"id":"corridorkey2-live-demo","type":"video","src":"pipeline/media/corridorkey2-live-demo.mp4","poster":"pipeline/media/corridorkey2-live-demo.jpg"},
+{"id":"dwar-newhope-ai-rerelease","type":"video","src":"pipeline/media/dwar-newhope-ai-rerelease.mp4","poster":"pipeline/media/dwar-newhope-ai-rerelease.jpg"},
+{"id":"bhandal-solo-genai-feature","type":"image","src":"pipeline/media/bhandal-solo-genai-feature.jpg"}
+]}

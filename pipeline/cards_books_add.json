@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-24",
+  "section": "books",
+  "cards": [
+    {
+      "id": "books-scholarlykitchen-bot-taxonomy",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "A shared taxonomy of bots\nfor scholarly platforms",
+      "body": "A guest post proposes a shared taxonomy of bots so publishers can measure and manage AI crawler and agent traffic.",
+      "mini_headline": "A taxonomy of bots",
+      "tool": "Books",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
+            "cap": "Robot holding key card standing at open doorway"
+          },
+          {
+            "t": "p",
+            "x": "Editors’ note: Today’s post is by Michelle Urberg, Head of Data at LibLynx. Libraries and publishers face an increasingly complex ecosystem of robotic activity on scholarly content platforms. Some bots are malicious and should be blocked, but many “good bots” help researchers and students engage with content or archive it for preservation; agents acting on behalf of human researchers should be included in usage reports."
+          },
+          {
+            "t": "p",
+            "x": "Bot blocking now has cascading effects: time to access is slower, users can be incorrectly rejected, and platform providers continue to be hammered. Existing catalogs are siloed — the COUNTER list identifies just under 200 bots, and the Cloudflare Bot Directory recently doubled from 750 to more than 1,500. The post proposes that a taxonomy of bots can help knowledge platforms take back control over content and understand who (or what) is accessing it."
+          },
+          {
+            "t": "p",
+            "x": "Inspired by a Charleston Conference panel with David Bietila (University of Chicago Library), Jeremy Morse (Michigan Publishing) and Rikki Gracia (IEEE), the group agreed on preliminary questions: who the bot is and how it identifies itself, what content it seeks, its stated purpose (e.g., training, shopping, indexing, archival), how confident we are in its legitimacy, and whether it can evade turnstile mechanisms."
+          },
+          {
+            "t": "p",
+            "x": "Open issues include how to proxy for intention and what scholarly-specific tags to standardize. All panelists agreed a community-led bot taxonomy is one part of the solution to bot management, with cleaner usage metrics as a result."
+          }
+        ]
+      }
+    }
+  ]
+}

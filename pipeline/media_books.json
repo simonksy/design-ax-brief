@@ -1,7 +1,32 @@
-{"date":"2026-11-23","section":"books","media":[
-{"id":"publishing-act-ai-consent-bill","type":"image","src":"pipeline/media/publishing-act-ai-consent-bill.jpg"},
-{"id":"ihe-journal-ai-review-prompts","type":"image","src":"pipeline/media/ihe-journal-ai-review-prompts.jpg"},
-{"id":"godel-notebooks-ai-transcription","type":"image","src":"pipeline/media/godel-notebooks-ai-transcription.jpg"},
-{"id":"inkflock-webnovel-localization","type":"video","src":"pipeline/media/inkflock-webnovel-localization.mp4","poster":"pipeline/media/inkflock-webnovel-localization.jpg"},
-{"id":"bookseller-audio-content-inflation","type":"image","src":"pipeline/media/bookseller-audio-content-inflation.jpg"}
-]}
+{
+ "date": "2026-11-24",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-horst-ki-stylometry",
+   "type": "image",
+   "src": "pipeline/media/books-horst-ki-stylometry.jpg"
+  },
+  {
+   "id": "books-forfatterforbundet-ki-detektor",
+   "type": "image",
+   "src": "pipeline/media/books-forfatterforbundet-ki-detektor.jpg"
+  },
+  {
+   "id": "books-crime-punishment-ai-translation",
+   "type": "video",
+   "src": "pipeline/media/books-crime-punishment-ai-translation.mp4",
+   "poster": "pipeline/media/books-crime-punishment-ai-translation.jpg"
+  },
+  {
+   "id": "books-ai-slop-academic-names",
+   "type": "image",
+   "src": "pipeline/media/books-ai-slop-academic-names.jpg"
+  },
+  {
+   "id": "books-scholarlykitchen-bot-taxonomy",
+   "type": "image",
+   "src": "pipeline/media/books-scholarlykitchen-bot-taxonomy.jpg"
+  }
+ ]
+}

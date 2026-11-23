@@ -5375,6 +5375,147 @@
           "x": "¿La conclusión? \"La detección temprana del [cáncer de páncreas] no debería depender solo de las señales de la lesión\", concluyeron Li y sus colegas."
         }
       ]
+    },
+    "medicine/mhra-mental-health-airlock": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo sandbox regulatorio, lanzado hoy (23 de noviembre) por la MHRA y el NICE, apoyará la innovación segura en tecnologías de salud mental AI-enabled (habilitadas por IA) y ayudará a que las tecnologías prometedoras lleguen antes a las personas."
+        },
+        {
+          "t": "p",
+          "x": "Como ampliación del programa AI Airlock de la MHRA, y en colaboración con el HTA Lab del NICE, el AI in Mental Health Airlock reunirá a reguladores e innovadores para explorar las necesidades de evaluación específicas de las tecnologías de salud mental AI-enabled. Forma parte de la segunda fase de un programa financiado por Wellcome, lanzado por primera vez en 2023."
+        },
+        {
+          "t": "p",
+          "x": "Investigaciones recientes indican además que más de uno de cada tres adultos (37%) ha usado un chatbot de IA para apoyar su salud mental o su bienestar. Algunos de estos chatbots pueden tener fines médicos y estar sujetos a la regulación de productos sanitarios, mientras que otros no."
+        },
+        {
+          "t": "p",
+          "x": "Se seleccionará a un máximo de cinco organizaciones para participar en el sandbox. Mediante talleres y actividades de prueba, los participantes generarán conocimientos prácticos sobre cómo identificar, evaluar y gestionar los riesgos AI-related (relacionados con la IA) en contextos de salud mental. El plazo de solicitud cierra el 22 de enero de 2027."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo de la MHRA, Lawrence Tallon, afirmó: \"El AIMH Airlock nos ayudará a entender mejor cómo pueden evaluarse y gestionarse en la práctica las tecnologías de IA para la salud mental\"."
+        }
+      ]
+    },
+    "medicine/photon-chatgpt-rx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+          "cap": "Los historiales de los pacientes se guardan en Photon, y los borradores de receta se cotejan con las alergias y medicaciones registradas del paciente."
+        },
+        {
+          "t": "p",
+          "x": "Photon, una empresa de infraestructura de prescripción, ya está disponible como complemento de ChatGPT para agilizar la prescripción de los clínicos dentro de una herramienta que ya utilizan."
+        },
+        {
+          "t": "p",
+          "x": "La opción está disponible para clínicos con licencia en Estados Unidos (U.S.) que cumplan los requisitos y usen ChatGPT for Clinicians o ChatGPT for Healthcare. Los clínicos deben aceptar el BAA de Photon para mantener el cumplimiento de HIPAA. No se admiten sustancias controladas. La función es gratuita para los clínicos hasta el 31 de diciembre de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+          "cap": "Captura de ejemplo de la interfaz (Photon)"
+        },
+        {
+          "t": "p",
+          "x": "\"La IA está pasando de la toma de notas y la consulta de referencias a los flujos de trabajo de tratamiento\", escribió Otto Sipe, cofundador y CEO, a Fierce Healthcare. \"Photon proporciona la infraestructura que sostiene ese paso\"."
+        },
+        {
+          "t": "p",
+          "x": "Los clínicos inician un prompt con el nombre del paciente y del medicamento, y luego revisan la dosis, las instrucciones y la cantidad antes de autorizar la receta, de modo que siguen siendo responsables del tratamiento. El paciente recibe un mensaje de texto que lo dirige al mercado de recetas de Photon, fuera de ChatGPT, para comparar precios."
+        }
+      ]
+    },
+    "medicine/heart-failure-drug-ai-kr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+          "cap": "De izquierda a derecha: los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl; el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS). Foto: Hospital Bundang de la Universidad Nacional de Seúl"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl, junto con el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS), ha desarrollado 'PARAGUIDE', una herramienta de IA que predice el efecto del tratamiento farmacológico en pacientes con insuficiencia cardiaca con fracción de eyección preservada."
+        },
+        {
+          "t": "p",
+          "x": "El equipo analizó los datos clínicos de 4161 pacientes con insuficiencia cardiaca con fracción de eyección preservada y construyó un modelo que predice la respuesta individual al sacubitrilo/valsartán. Tras analizar 53 características clínicas basales, redujo las variables de entrada a 16 para que la herramienta pudiera usarse en la práctica clínica real."
+        },
+        {
+          "t": "p",
+          "x": "En el conjunto de los pacientes, la reducción de la muerte cardiovascular y de la hospitalización por insuficiencia cardiaca no fue estadísticamente significativa. Sin embargo, la IA previó un beneficio del tratamiento en el 70,8% de los pacientes, y en este grupo el riesgo fue un 18% menor que con valsartán en monoterapia (RR 0,82; CI del 95%: 0,69~0,98)."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Park Jin-joo afirmó: \"Este estudio cambia la pregunta '¿funciona este fármaco?' por '¿ayuda este fármaco precisamente a este paciente?'\". Los resultados se publicaron en 'npj Digital Medicine', y PARAGUIDE puede utilizarse gratis a través de un sitio web."
+        }
+      ]
+    },
+    "medicine/eye-ambient-ai-emr-ophthalmology": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La documentación en la EMR contribuye a la carga de trabajo de los médicos y reduce la interacción entre paciente y médico, y la oftalmología se ve especialmente afectada por sus requisitos de datos especializados. Este estudio comparó la documentación ambiental AI-assisted (asistida por IA) para la importación estructurada en la EMR con la introducción convencional en consultas oftalmológicas estandarizadas."
+        },
+        {
+          "t": "p",
+          "x": "Un especialista y un residente realizaron diez escenarios oftalmológicos estandarizados en condiciones clásicas y AI-assisted. ChatGPT 5.3 y Claude Sonnet 4.6 usaron la transcripción de TurboScribe seguida de una salida estructurada de un LLM; Heidi 2.0.1 empleó un flujo de audio integrado. Todos buscaban la importación estructurada en una EMR oftalmológica (Heyex; Heidelberg Engineering)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+          "cap": "Fig. 1: Componentes del tiempo de consulta: documentación clásica frente a documentación asistida por IA."
+        },
+        {
+          "t": "p",
+          "x": "La documentación AI-assisted redujo el tiempo total de consulta en 2,4 min (−32%) para el especialista y en 3,0 min (−37%) para el residente. El tiempo de documentación y revisión disminuyó un 85% y un 86%, y el tiempo con la mirada fuera del paciente, un 83% y un 86%; los desplazamientos de la mirada hacia el equipo informático se redujeron un 72% en ambos médicos."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+          "cap": "Fig. 2: Distribución por ítem de las valoraciones de precisión de la documentación según el sistema de IA."
+        },
+        {
+          "t": "p",
+          "x": "La precisión fue máxima con Claude Sonnet 4.6 (98,4 ± 2,9%), seguido de ChatGPT 5.3 (97,0 ± 5,1%) y Heidi 2.0.1 (88,6 ± 9,9%). Como solo se evaluó a un especialista y a un residente, estos resultados deben considerarse preliminares y generadores de hipótesis."
+        }
+      ]
+    },
+    "medicine/northwell-stroke-ai-outcomes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Miércoles, 2 de diciembre | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+        },
+        {
+          "t": "p",
+          "x": "En esta presentación, los investigadores explicarán cómo la implantación de software de AI en un centro integral de ictus no mejoró de forma medible la evolución de los pacientes."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de AI se han adoptado ampliamente en afecciones en las que el tiempo es crítico, como el ictus, pese a la falta de pruebas de que mejoren los resultados, señaló la ponente Maria Sanmartin, PhD, de la Donald and Barbara Zucker School of Medicine at Hofstra/Northwell. Para investigarlo, el equipo comparó los resultados del ictus antes y después de introducir cinco herramientas de AI en un centro integral de ictus del área metropolitana de Nueva York."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores analizaron de forma retrospectiva a 876 pacientes con ictus isquémico agudo tratados entre 2014 y 2024, excluyendo a los atendidos mientras se implantaban las herramientas. Usaron emparejamiento por puntuación de propensión y análisis de series temporales interrumpidas para ajustar las diferencias entre ambos grupos."
+        },
+        {
+          "t": "p",
+          "x": "Tras controlar otros factores, no hallaron cambios significativos en la probabilidad de un buen resultado funcional al alta ni en el destino al alta tras implantar la AI. En cambio, la probabilidad de completar la angiografía por CT en los 60 minutos siguientes a la llegada aumentó de forma marcada al comenzar el periodo con AI."
+        },
+        {
+          "t": "p",
+          "x": "«Dado que investigaciones previas demuestran que las herramientas de AI agilizan el diagnóstico del ictus, simplifican los flujos de trabajo y mejoran la colaboración entre los equipos médicos, se justifica seguir investigando si estos cambios influyen en los resultados», escribieron los investigadores."
+        }
+      ]
     }
   }
 }

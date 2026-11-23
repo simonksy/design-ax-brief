@@ -5966,6 +5966,126 @@
           "x": "Google has not said how products are ranked, who processes payment, or whether ads will appear in these flows. Walmart is absent from the list."
         }
       ]
+    },
+    "marketing/higgsfield-playable-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield has launched playable ads, a new enterprise-only workflow for creating interactive ads with AI. Developers describe a game mechanic, choose a genre and dimension, add creative assets (up to 100, including sprites, textures and sound effects) and generate a playable experience in manual or auto mode."
+        },
+        {
+          "t": "video",
+          "yt": "PG0UVcWVNl0"
+        },
+        {
+          "t": "p",
+          "x": "The finished ad exports as a single .html file up to 5 MB for networks such as AppLovin, Meta, Google App Campaigns, Unity Ads and Pangle (TikTok). \"You can edit and ask an agent to change anything about the game. With performance marketing, it becomes easy to test hundreds of variants of the game,\" said Zhangir Yergaliyev, member of technical staff at Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield removed App Store and Google Play link import after studios raised copying and legal concerns. The company reported a manual process averaging five days and about $5,000 per playable ad; its tool takes about 40 minutes for a first version, at an estimated $30 to $40 per ad. The playable-ad team has fewer than 10 people and built the first version in two weeks."
+        }
+      ]
+    },
+    "marketing/pinterest-msads-inventory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+          "cap": "Pinterest sells feed and search ad space through Microsoft Advertising, leaving Europe out"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest announced an integration that lets eligible Microsoft Advertising campaigns run in its home feed, search results and related Pins, with placement chosen by a \"custom contextual bidding model\" — no new buying tool required. It launches in North America, Australia and New Zealand \"to start\"; Europe is excluded. The announcement gives no launch date, pricing, eligibility list, ad formats or campaign results."
+        },
+        {
+          "t": "p",
+          "x": "The model uses Pinterest search queries, contextual signals and first-party intent data drawn from what Pinterest calls Pinterest Intelligence. Demand comes from Microsoft properties including Bing, MSN, Xbox and Outlook. Pinterest cites 661 million monthly active users and 80 billion monthly searches. The move follows openings to Amazon (2023), Google (2024), Index Exchange and Criteo, and Programmatic Deals (October 26, 2026); Microsoft shut its own DSP, Microsoft Invest, in February 2026."
+        }
+      ]
+    },
+    "marketing/chatgpt-shopping-partnership-doc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI updated its Shopping with ChatGPT Search help documentation to update the line that says \"Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships.\" It now says, \"Product results are not ads; how products and merchants are selected is described below.\" In short, OpenAI removed the disclaimer that these shopping results are independent of and not influenced by any OpenAI partnerships."
+        },
+        {
+          "t": "p",
+          "x": "The live help document when compared to the old archived document shows the change but here is a diff comparing the two:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+          "cap": "Chatgpt Products Doc Diff"
+        },
+        {
+          "t": "p",
+          "x": "This seems like a substantial change to its documentation, don't you think?"
+        },
+        {
+          "t": "p",
+          "x": "I spotted this via Juozas Kaziukėnas who posted on X saying, \"ChatGPT shopping help page no longer says product results are NOT influenced by any OpenAI partnerships.\" He spotted this change on aivisibilityjournal.com."
+        }
+      ]
+    },
+    "marketing/organicity-d2c-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "'Tranexamic Acid 10%', 'Niacinamide 10%', 'PDRN 2500ppm'. Skincare brand Organicity puts its key ingredients and their concentrations in its product names. That makes products easy to find for people who search by ingredient, but it is a barrier for people who don't know which ingredient they should use."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+          "cap": "Song Bo-kyung, CEO of Witten Company, met in Dongdaemun-gu, Seoul, on the 11th (Source: Byline Network)"
+        },
+        {
+          "t": "p",
+          "x": "This year Organicity built its own online store on Cafe24 and set up three features: an ingredient dictionary, product search by skin concern, and artificial intelligence (AI) consultation. \"In actual customer consultations, questions come up again and again not only about which product to choose, but also about whether it can be used with other products and whether it is better used in the morning or in the evening,\" Song explained. The AI now answers the questions that people used to answer."
+        },
+        {
+          "t": "p",
+          "x": "Working with tech company Artiwealth, Organicity processed about 60,000 reviews and customer consultation records accumulated on Naver Smart Store into a form AI can use, and combined them with its own ingredient and product information. It guides customers through product combinations and even how to use them, based on their questions."
+        },
+        {
+          "t": "p",
+          "x": "The company's revenue grew from about 4억9800만원 in 2024 to about 16억7800만원 in 2025. Sales at its own store, which has been running for only a few months, have risen to about 30% of its Smart Store sales."
+        }
+      ]
+    },
+    "marketing/amazon-brandstore-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+          "cap": "Amazon puts an AI agent with 6 starter prompts in front of new Brand Store pages."
+        },
+        {
+          "t": "p",
+          "x": "Clicking Add page in Amazon's Store builder now opens a new window with the Brand Store Builder Agent. Brands pick from 6 prewritten prompts or write their own instructions; Brand Registry status must be \"Approved\"."
+        },
+        {
+          "t": "p",
+          "x": "Users can chat in any language, but Store content is generated in the marketplace's primary language — a French chat building a U.S. Store yields English. Amazon's help pages do not say whether the agent checks its output against Stores content policies."
+        },
+        {
+          "t": "p",
+          "x": "Brands can skip the agent via an \"Add page without AI Assistance\" link and use the manual templates: Marquee, Product highlight, Product grid (4 to 60 products) and Blank. A page holds up to 20 sections. Moderation \"typically completes within 24 hours\" but can extend up to 3 business days."
+        },
+        {
+          "t": "p",
+          "x": "Separately, an All Deals tab is on by default for Classic, Elegant and Impact themes: it shows up to 30 products with deals, chosen and ordered by Amazon, which \"creates and updates the All Deals page for you.\" Brands can switch it off in Store Settings or replace it with their own deals page."
+        }
+      ]
     }
   }
 }

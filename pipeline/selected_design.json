@@ -1,102 +1,102 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "design",
   "user_selection": null,
   "items": [
     {
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "source": "The Decoder",
-      "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background",
-      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-      "published_iso": "2026-11-20T18:50:31Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
-      "excerpt": "Google brings Computer Use to Gemini for Mac, letting the AI operate desktop apps, local files and websites in an isolated background window with a live preview while the user keeps working.",
-      "rationale": "Shipped feature: a desktop agent that drives Mac apps and files in a sandboxed background window — designers can offload repetitive asset/file chores while they keep working."
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "source": "Creative Bloq",
+      "title": "Every 3D artist should have an AI assistant, Maxon says as it launches new tools and agentic licences",
+      "url": "https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences",
+      "published_iso": "2026-11-23T16:19:34Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SZhxTWsvwYEKwrFyDuR9dX-2560-80.png",
+      "excerpt": "Maxon Plus brings AI 3D model generation into Cinema 4D and ZBrush, browser-based 3D review, and new 'agentic licences' for Cinema 4D and Autograph, with an off switch for artists who don't want generation.",
+      "rationale": "New release from a core 3D vendor: AI model generation inside Cinema 4D/ZBrush, browser review and agentic licences (with an opt-out) change how 3D/motion designers license and use their tools."
     },
     {
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "source": "3D Printing Industry",
-      "title": "Siemens and AGIBOT show AI agent that designs 3D printed humanoid robot grippers from a text prompt",
-      "url": "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/",
-      "published_iso": "2026-11-20T13:15:00Z",
-      "og_image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/di-additive-manufacturing-keyvisual-16zu9-srgb-Hero.jpg",
-      "excerpt": "From a text prompt, a Siemens AI agent picks a gripper type for an AGIBOT humanoid, adapts its geometry in Designcenter, simulates and validates it, and prepares it for additive manufacturing, using MCP to drive the engineering software.",
-      "rationale": "Concrete prompt-to-part pipeline in a major CAD suite (Designcenter via MCP): select, adapt geometry, simulate, validate and prep for printing — the text-to-CAD loop industrial designers are waiting for."
+      "source": "AEC Magazine",
+      "title": "Buro Happold and Motif bridge the BIM collaboration divide",
+      "url": "https://aecmag.com/bim/buro-happold-and-motif-bridge-the-bim-collaboration-divide/",
+      "published_iso": "2026-11-23T12:59:15+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg",
+      "excerpt": "Buro Happold's open-source BHoM engineering framework is being integrated into Motif's BIM 2.0 platform so Motif's agents, which turn sketches and prompts into geometry, can call deterministic engineering methods for sizing and calcs. Early demo.",
+      "rationale": "New integration pairing prompt/sketch-to-geometry agents with deterministic open-source engineering calcs — a concrete answer to 'can AI-generated building geometry be trusted'."
     },
     {
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "source": "Digital Trends",
-      "title": "Forget searching for GIFs, Gemini can now make its own",
-      "url": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
-      "published_iso": "2026-11-21T20:35:18Z",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Gemini now turns text prompts, photos and videos into short looping GIFs using Google's Omni 1.2 Flash model, rolling out to AI subscribers globally and free in eight countries including South Korea.",
-      "rationale": "New Google release (Omni 1.2 Flash) for prompt/photo/video-to-looping-GIF, free in Korea — a quick motion-asset tool for social and UI micro-animation mockups."
-    },
-    {
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "source": "UX Planet",
-      "title": "Product design with AI: how the Webflow MCP brings my designs to life",
-      "url": "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6",
-      "published_iso": "2026-11-22T19:44:24Z",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*9tri3zxLopYrG7Qrwjy2iA.jpeg",
-      "excerpt": "A product designer replaces the manual Figma-to-Webflow rebuild and hand-scripted interactions with an AI agent driving the Webflow MCP server.",
-      "rationale": "Hands-on workflow: an agent driving the Webflow MCP server replaces the manual Figma-to-Webflow rebuild — directly reusable by designers who ship marketing sites."
+      "source": "LexisNexis Design (Medium)",
+      "title": "Design for the Verify: 5 UX patterns for trustworthy AI",
+      "url": "https://medium.com/lexisnexis-design/design-for-the-verify-5-ux-patterns-for-trustworthy-ai-a81e530e36e7",
+      "published_iso": "2026-11-23T20:15:48Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*3LU5T1BniaPrIQMhMQm0fw.png",
+      "excerpt": "LexisNexis's design team lays out five UX patterns that let users verify AI output in a professional legal-research product.",
+      "rationale": "First-party design team sharing five reusable verification patterns from a shipped high-stakes AI product — directly applicable to anyone designing AI features."
+    },
+    {
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "source": "DEV Community",
+      "title": "Pin agent spacing to the existing spacing scale — no magic margin or padding values",
+      "url": "https://dev.to/sherotree/pin-agent-spacing-to-the-existing-spacing-scale-no-magic-margin-or-padding-values-2je7",
+      "published_iso": "2026-11-22T14:30:07Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjwnsrx4jyxclqw2b1cvt.png",
+      "excerpt": "Coding agents sprinkle one-off values like mt-[13px] into layouts; the fix is to hand them the design system's spacing scale and reject off-scale values.",
+      "rationale": "Actionable tokens guardrail: feed coding agents the spacing scale and reject off-scale values — a fix design-system owners can apply tomorrow."
     },
     {
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#3b6bff",
       "motif": "cube",
-      "source": "Engineering.com",
-      "title": "Comsol Conference 2026 highlights: Simulation and AI",
-      "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
-      "published_iso": "2026-11-20T16:34:49Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_comsolconf-mr-thumb-1024x576.png",
-      "excerpt": "The new Comsol release adds AI capabilities including an MCP server that connects AI agents to build models, processes and equations; a keynote split simulation AI into physical AI and agentic AI workflows.",
-      "rationale": "New Comsol release ships an MCP server so agents can build simulation models — the simulation-side counterpart to agent-driven CAD."
+      "source": "EBN",
+      "title": "SK에코플랜트, 설계에도 AI 적용…도면 검토·장비 배치 업무 줄인다 (AXen)",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732724",
+      "published_iso": "2026-11-23T18:46:02+09:00",
+      "og_image": "https://cdn.ebn.co.kr/news/thumbnail/202611/1732724_769078_4446_v150.jpg",
+      "excerpt": "SK Ecoplant put its design-specialised AI platform AXen into operation: it proposes space/equipment layouts from accumulated design data, compares alternatives, detects clashes and suggests fixes, and searches codes and standards; designer-approved results feed back into the model. Part of a '1 person 1 agent' push.",
+      "rationale": "Concrete Korean design-AX deployment: AXen in production for layout proposals, clash detection and code search, with designer approval feeding back into the model."
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/": {
+      "https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences": {
         "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+        "nearest": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/",
         "new_action": ""
       },
-      "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/": {
+      "https://aecmag.com/bim/buro-happold-and-motif-bridge-the-bim-collaboration-divide/": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
+        "nearest": "https://aecmag.com/bim/pliera-a-new-bim-2-0/",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/": {
+      "https://medium.com/lexisnexis-design/design-for-the-verify-5-ux-patterns-for-trustworthy-ai-a81e530e36e7": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+        "nearest": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
         "new_action": ""
       },
-      "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6": {
+      "https://dev.to/sherotree/pin-agent-spacing-to-the-existing-spacing-scale-no-magic-margin-or-padding-values-2je7": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d",
+        "nearest": "https://www.supernova.io/blog/agents-md-design-system",
         "new_action": ""
       },
-      "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/": {
+      "https://www.ebn.co.kr/news/articleView.html?idxno=1732724": {
         "verdict": "new",
-        "nearest": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+        "nearest": "https://www.inthenews.co.kr/news/article.html?no=94443",
         "new_action": ""
       }
     },
-    "note": "No candidate duplicates a published design story by URL or content. history_match tags are related-only: Gemini Mac Computer Use (11-20 launch) is a different Gemini feature from drawings-to-apps (11-06); Gemini GIF generation is Google's own new release, distinct from ChatGPT GIFs (11-05); Webflow MCP workflow differs from the 11-12 design-system prototyping guide; Comsol MCP release differs from the NVIDIA Omniverse post (11-20). Gemini Mac / Gemini GIF / Comsol were skipped on merit on 11-22, never published. Cross-section: gadgets block of published_urls.json checked — no Gemini Mac, Gemini GIF, Siemens/AGIBOT, Webflow MCP or Comsol entry. Dropped per run brief cross-section assignments: The Verge 'vibe-coding revolution' + DPReview 'vibe code revolution' (cluster c3, gadgets only); Cartoon Brew festival programmers on GenAI (movies only). Skipped on merit: UX Collective slop essay and prototypes-as-spec essay, DEV Community HITL and toast-helper posts (opinion/tutorial essays, weak per brief), CopilotKit WebMCP (vendor blog), Creative Bloq Adobe interview (no new release), Fstoppers Fotello (review of an existing product), Creative Bloq NIVA (no-AI tool; AI incidental). Diversity: 5 distinct outlets; categories cad x2 (2nd accent #3b6bff), workflow, render, figma x1."
+    "note": "No pick duplicates a published design story by URL or content. Maxon's history_match (Tripo Agentic Canvas, 11-05) is a different vendor/product; Maxon assigned to design only per run brief. Dropped per cross-section assignments: Higgsfield playable ads (marketing only), Boris FX Silhouette 2027 (movies only). Dropped as same story: Fstoppers Relight/Generative Restyle hands-on (hands-on of features shipped in Photoshop 28.0, published 11-11; no new release). Within-pool: DEV 'icon component set' post is the same series/author/topic as the spacing post (content-hub rule) - kept spacing only. Skipped on merit: Gemini 4 Hydrogen builder showcase (showcase, Gemini saturated), The Decoder GPT-6.2 Sol (general chatbot update, weak design hook), Creative Bloq Adobe interview (commentary, no new release), Social Samosa Adobe x Windows Photos (off-list, gadgets overlap risk), Octave CoLabs (plant engineering, weak hook), Fstoppers Fotello (review of existing product), UX Collective prototypes-as-spec essay (evergreen essay, skipped 11-23 too), ZME Science single-image 3D Rome (research, off-list; cross-section science overlap not verifiable). Cross-section published_urls.json grep not run (Read-only tools); picks are same-day design-specific items with no known other-section assignment. Diversity: 5 distinct outlets; categories cad x2 (2nd accent #3b6bff), render, workflow, tokens."
   }
 }
