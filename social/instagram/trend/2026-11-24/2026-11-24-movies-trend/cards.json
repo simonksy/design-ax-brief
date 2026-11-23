@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 영화, 제 상을 따로 찾다",
+    "date": "2026.11.24",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(인디포커스 11.23→11.17, WIRED Middle East 11.23→11.18, 뉴스1 11.23→11.19, IndieWire 11.24→11.23). 11-21 영화 trend(IDFA·Piano·Qatar)와 겹치지 않게 시상대 쪽으로 묶음. 사진은 Dubai 한 장만, 부산·광주는 stat, 아카데미는 Saatchi 발언 quote. 수치 확인: 30분 미만·AI 도구 공개, $1 million·5~7분·70% Seedance, 19편 상영·7편 시상·133명, 38편·12월 4일·이의 제기.",
+    "sources": [
+      "인디포커스 — 제44회 부산국제단편영화제, '인공지능(AI)경쟁' 신설 (2026.11.17)",
+      "WIRED Middle East — Can Dubai's $1 Million AI Film Award Help AI Cinema Be Taken Seriously? (2026.11.18)",
+      "뉴스1 — AI로 만든 1분 영화 19편, 첫 '온에어 어워즈'서 빛났다 (2026.11.19)",
+      "IndieWire — AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.17~11.23",
+      "thread": [
+        {
+          "d": "11.17",
+          "t": "부산 경쟁",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.18",
+          "t": "100만 달러",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.19",
+          "t": "광주 시상",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.23",
+          "t": "오스카 배제",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "기존 시상대가 AI 영화를 밀어내는 사이, AI 영화만의 상이 따로 생긴다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 영화,\n제 상을 따로 찾다",
+      "body": "한 건씩 보면 영화제 소식이다. 엮으면 AI 전용 상이 늘어나는 사이, 오스카는 AI 장편을 받지 않았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "부산단편영화제,\nAI경쟁 신설",
+      "body": "생성 AI를 주요 창작에 쓴 30분 미만 단편을 받는다. AI 활용 사실과 쓴 도구를 밝히고 제작 자료를 내야 한다.",
+      "foot": "2026.11.17",
+      "_src": "http://www.indifocus.kr/84113",
+      "_id": "bisff-ai-competition",
+      "stat_top": "제44회 BISFF",
+      "stat_arrow": "처음 여는 경쟁 부문",
+      "stat_bottom": "AI경쟁",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "AI 영화 한 편에\n$1 million",
+      "body": "Dubai AI Film Award 두 번째 회. 5~7분 영화 한 편이 상금을 다 받고, 70% 이상을 Seedance로 만들어야 한다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
+      "_id": "dubai-ai-film-award-2nd",
+      "media": "pipeline/media/dubai-ai-film-award-2nd.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "지역에서도\nAI 1분 영화상",
+      "body": "광주정보문화산업진흥원이 AI 영상 교육 수강생 작품을 상영하고 시상했다. 교육엔 133명이 참여했다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.news1.kr/local/gwangju-jeonnam/6359050",
+      "_id": "gwangju-onair-awards",
+      "stat_top": "상영 19편",
+      "stat_arrow": "생성 AI로 만든 1분 영화",
+      "stat_bottom": "시상 7편",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.23",
+      "headline": "오스카는 AI 장편을\n애니로 안 본다",
+      "body": "아카데미가 자격을 준 애니 장편 38편에 이 AI 영화는 없었다. 제작사는 이의를 내고 12월 4일 개봉한다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+      "_id": "gods-dont-give-gifts-oscar-ineligible",
+      "quote": "‘Best AI Movie’를\n고려할 때인가?",
+      "quote_by": "Edward Saatchi · Fable Studios · IndieWire"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

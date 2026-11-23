@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "AI는 쓰되, 보이는 데선 뺀다",
+    "date": "2026.11.24",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(Embark 11.19→PC Gamer 11.18, Shift Up 11.21→GamesRadar+ 11.20, Automaton 11.24→11.20 JST, Chess.com 11.24→Verge 11.21, Isaac 11.23→Verge 11.22). 사진은 Embark 한 장만, 나머지는 stat·quote. 수치 3만1003본·중앙값 200본 vs 71본·49.5%→16%, 새 게임 11종·코딩만 AI, Suno 메타데이터·몇 시간 만에 삭제 확인.",
+    "sources": [
+      "PC Gamer — Embark Studios apologizes for replacing esports casters with AI voices in now-deleted The Finals video (2026.11.18)",
+      "AUTOMATON — Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか (2026.11.20)",
+      "GamesRadar+ — Stellar Blade: Blood Rain is \"handmade from start to finish\" after AI music video backlash, but the devs are still using AI (2026.11.20)",
+      "The Verge — Chess.com's next move is a new hub for classic games, from mahjong to sudoku (2026.11.21)",
+      "The Verge — Binding of Isaac developer removes AI music from Repentance Plus (2026.11.22)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 게임 · 11.18~11.22",
+      "thread": [
+        {
+          "d": "11.18",
+          "t": "AI 캐스터",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.20",
+          "t": "판매 통계",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.20",
+          "t": "수작업",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.21",
+          "t": "코딩만",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.22",
+          "t": "음악 삭제",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "게임사는 AI를 계속 쓰되, 플레이어 눈과 귀에 닿는 자리에선 뺀다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI는 쓰되,\n보이는 데선 뺀다",
+      "body": "한 건씩 보면 사과나 해명이다. 닷새를 이어 보면 목소리·음악·아트는 사람에게 돌리고 AI는 코드와 중간 공정으로 숨는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "AI 캐스터 영상,\n결국 내렸다",
+      "body": "사람이 중계한 The Finals 예선 하이라이트에 게임 속 AI 캐스터 목소리를 입혔다가, 캐스터들 반발에 영상을 내렸다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+      "_id": "embark-finals-ai-casters",
+      "media": "pipeline/media/embark-finals-ai-casters.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.20",
+      "headline": "AI 표시작,\n덜 팔린다",
+      "body": "Steam 게임 3만1003본 분석. 출시 준비 기간까지 맞춰 보면 리뷰 수 감소 폭은 49.5%에서 16%로 준다.",
+      "foot": "2026.11.20",
+      "_src": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+      "_id": "automaton-steam-ai-disclosure",
+      "stat_top": "AI 미표시 200본",
+      "stat_arrow": "Steam 추정 판매 중앙값",
+      "stat_bottom": "AI 표시 71본",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.20",
+      "headline": "'수작업'이라 하고\nAI는 중간에",
+      "body": "Blood Rain 뮤직비디오 반발 뒤 내건 구호다. 그래도 텍스처 풍화·폴리곤 감소·조명 테스트엔 AI를 쓰고 마무리는 사람이 한다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-is-handmade-from-start-to-finish-after-ai-music-video-backlash-shift-up-boss-says-but-uh-the-devs-are-still-using-ai/",
+      "_id": "shiftup-bloodrain-handmade",
+      "quote": "처음부터 끝까지\n손으로 만든다",
+      "quote_by": "김형태 Shift Up 대표 · GamesRadar+ 인용"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.21",
+      "headline": "AI는 코딩만,\n아트는 사람",
+      "body": "Chess.com 소수 팀이 올해 새 게임 11종을 몇 달 만에 냈다. AI는 코딩에 썼고, 아트·디자인 인력은 더 뽑는다.",
+      "foot": "2026.11.21",
+      "_src": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "_id": "chesscom-classic-hub-ai",
+      "stat_top": "새 게임 11종",
+      "stat_arrow": "AI가 맡은 몫",
+      "stat_bottom": "코딩만",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.22",
+      "headline": "Isaac,\nAI 음악을 뺐다",
+      "body": "Repentance+에서 Suno 메타데이터가 붙은 곡이 발견됐다. Steam 리뷰 폭탄 속에 Nicalis는 몇 시간 만에 파일을 지웠다.",
+      "foot": "2026.11.22",
+      "_src": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "_id": "isaac-repentance-ai-music",
+      "stat_top": "Suno 생성곡",
+      "stat_arrow": "발견 몇 시간 만에 업데이트",
+      "stat_bottom": "삭제",
+      "stat_strike": true
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

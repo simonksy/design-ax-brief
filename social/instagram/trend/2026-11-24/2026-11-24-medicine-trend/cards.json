@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "의료 AI, 효과를 증명하라",
+    "date": "2026.11.24",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 대조: 의학신문(11.18 12:28 KST 입력)·npj(11.18 온라인) 날짜를 원문 게재일로 고침. AuntMinnie 두 건은 Cloudflare로 직접 fetch 실패 → 보강 패스의 전문(news_data full)으로 154건·19건(12%)·늑골 골절, 876명·도구 다섯 종·60분 CTA·예후 무변화 확인. npj 원문에서 임상 데이터 정의를 비동료심사 문헌까지 넓히는 대목 확인. EU 도표는 글자가 빽빽해 stat로, 사진은 복지부 포럼 한 장만.",
+    "sources": [
+      "npj Digital Medicine — The proposed reform of the Medical Device Regulation and its implications for AI-enabled medical devices in the EU (2026.11.18)",
+      "의학신문 — 복지부, 의료기관 운영 AI도 성과보상 검토...“효과 확인되면 신속 지급” (2026.11.18)",
+      "AuntMinnie — How often do AI alerts meaningfully impact patient care? (2026.11.20)",
+      "AuntMinnie — AI may not improve patient outcomes for stroke (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.18~11.23",
+      "thread": [
+        {
+          "d": "11.18",
+          "t": "EU 규정",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.18",
+          "t": "성과보상",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.20",
+          "t": "AI 경보",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.23",
+          "t": "뇌졸중",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "의료 AI의 시험 문제가 '맞혔나'에서 '환자가 나아졌나'로 바뀐다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "정확도 다음은\n환자 효과",
+      "body": "한 건씩 보면 규정 하나, 연구 하나다. 엿새 사이 규제·보상·현장 연구가 모두 환자에게 실제로 나아졌는지를 물었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.18",
+      "headline": "EU, AI 기기\n증거 기준 손질",
+      "body": "EU MDR 2.0 제안은 AI 기기의 이중규제를 줄이려 한다. 임상 데이터 정의도 동료심사를 거치지 않은 문헌까지 넓힌다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.nature.com/articles/s41746-026-03475-8",
+      "_id": "eu-mdr2-ai-device-reform",
+      "stat_top": "임상 데이터 인정 범위",
+      "stat_arrow": "MDR 2.0 제안이 넓히면",
+      "stat_bottom": "동료심사 전 문헌까지",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.18",
+      "headline": "한국, 효과 내면\n바로 보상",
+      "body": "복지부는 의료기기가 아닌 병원 운영 AI도 보상을 검토한다. 조건은 환자 편익 입증, 병원별 KPI 달성 시 신속 지급.",
+      "foot": "2026.11.18",
+      "_src": "https://www.bosa.co.kr/news/articleView.html?idxno=3016746",
+      "_id": "medicine-mohw-ops-ai-reward",
+      "media": "pipeline/media/medicine-mohw-ops-ai-reward.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.20",
+      "headline": "경보 154건,\n진료 바뀐 건 19건",
+      "body": "한 대형 의료 시스템의 상용 영상 AI 경보 1년치. 가장 흔한 늑골 골절 경보는 진료에 의미 있는 영향이 없었다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care",
+      "_id": "uhcleveland-ai-alerts-impact",
+      "stat_top": "AI 경보 154건",
+      "stat_arrow": "진료 방침을 바꾼 경보",
+      "stat_bottom": "19건 · 12%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "빨라졌지만\n낫지는 않았다",
+      "body": "AI 도구 다섯 종을 들인 뒤 60분 안 CT 혈관조영은 크게 늘었지만, 뇌졸중 환자 876명의 퇴원 예후엔 유의한 변화가 없었다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
+      "_id": "northwell-stroke-ai-outcomes",
+      "stat_top": "60분 내 CT 혈관조영",
+      "stat_arrow": "AI 도입 뒤 크게 늘었지만",
+      "stat_bottom": "예후는 그대로",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

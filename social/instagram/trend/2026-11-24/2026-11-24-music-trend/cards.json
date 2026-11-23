@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI 사본, 원작자가 찾는다",
+    "date": "2026.11.24",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조(Music Ally·DMN은 직접, American Songwriter·MusicRadar 본문 확인): 날짜를 원문 게재일로 고침(Instagram 11.22→11.20, Tritt 11.23→11.22, Estepario 11.24→11.23, TikTok 11.24→11.23). 11-20·11-23 음악 트렌드(가려 듣기·호주 학습 면제)와 겹치지 않는 '사본 탐지' 줄기로 골랐다. Tritt 사진은 quote, TikTok 사진은 stat(약 50억 건 표시)로 바꿔 사진은 Instagram 한 장, 영상은 Estepario 하나. 수치 572편·€230,000·편당 약 €400·10년, 50억 건, Jumio 확인.",
+    "sources": [
+      "Music Ally — Instagram launches content protection tool for unauthorised reposts and AI-modification (2026.11.20)",
+      "American Songwriter — Travis Tritt Slams \"Obviously Fake\" AI Video That Appeared to Show Him Criticizing Taylor Swift at the CMAs (2026.11.22)",
+      "MusicRadar — El Estepario Siberiano threatens legal action against AI scalpers and wants your advice (2026.11.23)",
+      "Digital Music News — TikTok Officially Debuts AI Tools Including 'Likeness Detection' (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.20~11.23",
+      "thread": [
+        {
+          "d": "11.20",
+          "t": "사본 감지",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.22",
+          "t": "가짜 영상",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.23",
+          "t": "학습 확인",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.23",
+          "t": "초상 탐지",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 사본이 늘자 원작자가 직접 찾아내는 장치가 붙는다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 사본,\n원작자가 찾는다",
+      "body": "한 건씩 보면 해명과 항의다. 그런데 나흘 사이 Instagram과 TikTok이 원작자용 탐지 도구를 연달아 내놨다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.20",
+      "headline": "Reels 사본,\nAI 변형까지 잡는다",
+      "body": "Instagram이 무단 재게시 감지를 AI 사본까지 넓혔다. 찾으면 알림이 오고, 막거나 원작 표시를 달 수 있다.",
+      "foot": "2026.11.20",
+      "_src": "https://musically.com/2026/11/20/instagram-launches-content-protection-tool-for-unauthorised-reposts-and-ai-modification/",
+      "_id": "music-instagram-content-protection",
+      "media": "pipeline/media/music-instagram-content-protection.png"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.22",
+      "headline": "내가 한 말이\n아니다",
+      "body": "CMA 시상식에서 Swift만 띄웠다고 꼬집는 Tritt 영상이 퍼졌다. 본인은 X에 AI로 만든 가짜라고 썼다.",
+      "foot": "2026.11.22",
+      "_src": "https://americansongwriter.com/travis-tritt-slams-obviously-fake-ai-video-that-appeared-to-show-him-criticizing-taylor-swift-at-the-cmas/",
+      "_id": "travis-tritt-ai-deepfake-clip",
+      "quote": "최근 CMA 시상식에 대한\n내 영상은 명백한 가짜,\nAI로 만든 것",
+      "quote_by": "Travis Tritt · 컨트리 가수"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.23",
+      "headline": "영상 572편이\n학습에 쓰였다",
+      "body": "드러머 Estepario는 AI 학습 확인 도구로 자기 영상 572편을 찾았다. 10년, €230,000이 들었다며 소송을 묻는다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice",
+      "_id": "estepario-ai-reskin-legal",
+      "video": "pipeline/media/estepario-ai-reskin-legal.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "내 얼굴 쓴 영상,\n알림이 온다",
+      "body": "TikTok이 미국 시험을 마친 Likeness Detection을 정식 출시했다. ID를 인증하면 무단 초상 사용 알림이 온다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.digitalmusicnews.com/2026/11/23/tiktok-likeness-detection-release/",
+      "_id": "music-tiktok-likeness-global",
+      "stat_top": "AI 표시를 단 업로드",
+      "stat_arrow": "TikTok 집계, 지금까지",
+      "stat_bottom": "약 50억 건",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "ChatGPT 광고, 커질수록 안 보인다",
+    "date": "2026.11.24",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Digiday 11.22→11.20, ADWEEK·SER 11.24→11.23 ET). 수치 1억1,060만 달러·약 3배·광고주 10만 곳(MADTimes/AdClarity), 약관 수정일 11.18·대변인 발언(Digiday), 오케스트레이터·합산 결과만 공개(ADWEEK), 도움말 구·신 문구(SER) 확인. 사진은 ADWEEK 카드 하나만 남기고 나머지는 stat·quote로.",
+    "sources": [
+      "매드타임스 — 챗GPT 광고주 10만 곳 돌파… 10월 광고비 1억 달러 넘어, 해외 시장도 성장 (2026.11.19)",
+      "Digiday — OpenAI rewrites ChatGPT Business Hub terms after legal language raises concerns (2026.11.20)",
+      "ADWEEK — ChatGPT's Agent Writes Its Own Queries to Serve Ads. Advertisers Don't Get to See Them (2026.11.23)",
+      "Search Engine Roundtable — ChatGPT Product Results May Be Influenced By OpenAI Partnerships (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 11.19~11.23",
+      "thread": [
+        {
+          "d": "11.19",
+          "t": "광고비",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.20",
+          "t": "약관",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.23",
+          "t": "광고 쿼리",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.23",
+          "t": "제휴 문구",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "ChatGPT에 광고 돈이 몰릴수록, 광고를 고르는 기준은 바깥에서 덜 보인다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "ChatGPT 광고,\n커질수록 안 보인다",
+      "body": "한 건씩 보면 약관과 도움말 수정이다. 꿰어 보면 돈은 몰리는데 광고를 고르는 기준은 광고주도 사용자도 덜 보게 됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "광고비,\n반년 새 세 배",
+      "body": "AdClarity 집계로 10월 ChatGPT 광고비는 1억1,060만 달러. 4월의 약 3배다. 광고주는 10만 곳을 넘었다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.madtimes.co.kr/news/articleView.html?idxno=29728",
+      "_id": "chatgpt-ads-adclarity-oct",
+      "stat_top": "4월의 약 3배",
+      "stat_arrow": "10월 한 달 ChatGPT 광고비",
+      "stat_bottom": "1억1,060만 달러",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.20",
+      "headline": "약관부터\n고쳐 쓰다",
+      "body": "사이트가 ChatGPT에 어떻게 비치는지 보여 주는 Business Hub. 소송권을 묶는 조항이라는 지적에 18일 약관을 고쳤다.",
+      "foot": "2026.11.20",
+      "_src": "https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/",
+      "_id": "openai-business-hub-terms-rewrite",
+      "quote": "이전 약관은\n이런 경우까지\n다루려던 게 아니었다",
+      "quote_by": "OpenAI 대변인 · Digiday 인용"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.23",
+      "headline": "광고 검색어는\nAI가 직접 쓴다",
+      "body": "오케스트레이터 에이전트가 대화를 읽고 검색어를 짜 광고를 고른다. 광고주는 합산 결과만 받는다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+      "_id": "chatgpt-orchestrator-adqueries",
+      "media": "pipeline/media/chatgpt-orchestrator-adqueries.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "'제휴 무관'\n문구가 빠졌다",
+      "body": "ChatGPT 쇼핑 도움말에서 상품 결과가 OpenAI 제휴에 영향받지 않는다는 문장이 사라졌다. '광고는 아니다'만 남았다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
+      "_id": "chatgpt-shopping-partnership-doc",
+      "stat_top": "제휴 영향 없음",
+      "stat_arrow": "쇼핑 도움말의 새 문구",
+      "stat_bottom": "광고는 아님",
+      "stat_strike": true
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

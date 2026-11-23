@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "디자인 시스템, 에이전트가 읽는다",
+    "date": "2026.11.24",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Supernova 11.20→11.17, Figma 11.22→11.20, UX Planet 11.23→11.22, DEV 11.24→11.22). 16/30곳·기여자용 전부·사용팀용 0곳, Specs→구현 계획→Codex(MCP), Webflow MCP 섹션별 이관·규칙 먼저 팁, 18px→16px 스텝 문구 확인. 사진은 Figma 1장만, 나머지는 stat·quote.",
+    "sources": [
+      "Supernova — What Your AGENTS.md Should Say About Your Design System (2026.11.17)",
+      "Figma Blog — Workflow lab: Turning context into a plan with Specs and the Figma agent (2026.11.20)",
+      "UX Planet — Product design with AI: how the Webflow MCP brings my designs to life (2026.11.22)",
+      "DEV Community — Pin agent spacing to the existing spacing scale — no magic margin or padding values (2026.11.22)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 11.17~11.22",
+      "thread": [
+        {
+          "d": "11.17",
+          "t": "규칙 파일",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.20",
+          "t": "Specs",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.22",
+          "t": "MCP 이관",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.22",
+          "t": "스페이싱",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "디자인 시스템이 사람이 읽는 문서에서 에이전트가 읽는 계약서로 바뀐다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "디자인 시스템,\n에이전트가 읽는다",
+      "body": "한 건씩 보면 파일 하나, 팁 하나다. 그런데 한 주 사이 네 곳이 같은 말을 했다. 규칙을 쥐여줘야 에이전트가 맞게 만든다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "규칙 파일은 있다,\n쓰는 팀 몫은 없다",
+      "body": "Supernova가 디자인 시스템 저장소 30곳을 봤다. 16곳에 에이전트 파일이 있지만 전부 기여자용, 쓰는 팀용은 0곳이었다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.supernova.io/blog/agents-md-design-system",
+      "_id": "supernova-agentsmd-audit",
+      "stat_top": "에이전트 파일 16곳",
+      "stat_arrow": "그중 시스템을 쓰는 팀을 위한 것",
+      "stat_bottom": "0곳",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.20",
+      "headline": "Specs, 맥락을\n계획으로 묶다",
+      "body": "Figma Specs가 요구사항·주석 디자인·컴포넌트 가이드를 캔버스에 모으면, 에이전트가 코딩 에이전트용 구현 계획을 쓴다.",
+      "foot": "2026.11.20",
+      "_src": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+      "_id": "figma-specs-agent-plan",
+      "media": "pipeline/media/figma-specs-agent-plan.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.22",
+      "headline": "옮기는 일은\nMCP에 맡겼다",
+      "body": "Claude로 만든 시안을 Webflow MCP가 섹션별로 옮긴다. 디자이너가 꼽은 첫 팁은 사이트의 디자인 시스템 규칙부터 알려주기.",
+      "foot": "2026.11.22",
+      "_src": "https://uxplanet.org/product-design-with-ai-how-the-webflow-mcp-brings-my-designs-to-life-c52987aca3c6",
+      "_id": "webflow-mcp-designer-flow",
+      "quote": "규칙을 알면\n베끼는 데 그치지 않고\n사이트에 맞게 짓는다",
+      "quote_by": "디자이너 Yudit Lynn Lee · UX Planet"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.22",
+      "headline": "18px 대신\n가장 가까운 단계",
+      "body": "에이전트는 시안의 픽셀 값을 mt-[13px]처럼 그대로 붙인다. 프롬프트에 스페이싱 스케일을 넣고, 새 값은 토큰으로 제안받자는 글.",
+      "foot": "2026.11.22",
+      "_src": "https://dev.to/sherotree/pin-agent-spacing-to-the-existing-spacing-scale-no-magic-margin-or-padding-values-2je7",
+      "_id": "design-agent-spacing-scale",
+      "stat_top": "18px",
+      "stat_arrow": "스케일의 가장 가까운 단계로",
+      "stat_bottom": "16px",
+      "stat_strike": true
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
