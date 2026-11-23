@@ -12181,6 +12181,111 @@
           "x": "Kunimoto, investigadora de exoplanetas en la University of British Columbia, advierte que algunos aficionados no pueden validar los hallazgos de los modelos: “Ha habido un aumento enorme y abrumador de artículos AI-driven, que suelen tener candidatos [a planeta] que no son de la mejor calidad.”"
         }
       ]
+    },
+    "science/science-mit-slic-analog-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+          "cap": "“Hemos aportado una opción alternativa para automatizar el diseño de circuitos analógicos”, dice Yan Xu. Imagen: Jose-Luis Olivares, MIT; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El método del MIT, llamado Small LM Iterating on Circuits, o SLIC, permite a los ingenieros entrenar un modelo de lenguaje pequeño para diseñar circuitos analógicos igual o mejor que un gran modelo de lenguaje de frontera. El modelo usa unos pocos miles de millones de parámetros, es lo bastante eficiente para funcionar en un portátil y, como se entrena y despliega localmente, puede usar los datos confidenciales de circuitos de una empresa sin riesgos para la privacidad."
+        },
+        {
+          "t": "p",
+          "x": "SLIC utiliza aprendizaje por refuerzo multiturno con recompensas verificables. Un LLM grande genera demostraciones del proceso de diseño para que el modelo pequeño las imite; después, el modelo pequeño practica con problemas nuevos: estima parámetros, ejecuta simulaciones y refina el diseño de forma iterativa. Su razonamiento se describe en lenguaje natural, de modo que los usuarios pueden seguir sus decisiones."
+        },
+        {
+          "t": "p",
+          "x": "En las pruebas, el modelo pequeño se acercó al último modelo GPT (GPT-6-Astra) usando una fracción del cómputo, y mantuvo su rendimiento en estructuras de circuito no vistas, nodos tecnológicos más avanzados y procesos comerciales reales. El trabajo, realizado con IBM Research y Analog Devices, se presentará en NeurIPS 2026."
+        }
+      ]
+    },
+    "science/science-lio2-dualatom-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+          "cap": "Fig. 1: Investigación del principio de diseño de catalizadores multisitio mediante aprendizaje automático."
+        },
+        {
+          "t": "p",
+          "x": "La implantación práctica de las baterías de litio–oxígeno de alta densidad energética está limitada por la lenta cinética redox del oxígeno y por intermedios de descarga inestables. Los autores presentan un marco AI-integrated (integrado con AI) que combina aprendizaje automático interpretable y teoría del funcional de la densidad para explorar un espacio químico de miles de sitios activos, entrenado con 200 registros de la literatura. El marco identifica los catalizadores Ni-Co de doble átomo como una configuración mejor entre los elementos seleccionados."
+        },
+        {
+          "t": "p",
+          "x": "El acoplamiento sinérgico entre los dos sitios reconfigura el centro de la d-band y reduce las barreras termodinámicas. Al añadir H2O de forma controlada al electrolito, el catalizador impulsa la transición de la vía convencional de dos electrones hacia Li2O2 a una vía de cuatro electrones hacia LiOH, con una capacidad de descarga de ~60,000 mAh g−1."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+          "cap": "Fig. 5: Análisis de la estabilidad en ciclos y del proceso catalítico."
+        },
+        {
+          "t": "p",
+          "x": "Con la vía de cuatro electrones, los NiCo2-DACs alcanzan una vida útil de 2075 ciclos con menor caída de voltaje, frente al fallo tras 790 ciclos de la referencia de átomo único de Co. La arquitectura también funciona como capa protectora que suprime el crecimiento de dendritas de litio en el electrodo negativo."
+        }
+      ]
+    },
+    "science/science-bath-students-ai-support": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Uno de cada cuatro estudiantes que respondieron a una encuesta de la University of Bath dijo haber usado AI generativa como apoyo para su salud mental en los seis meses anteriores, según un nuevo estudio publicado en JMIR Mental Health. Los estudiantes usaron la AI para pedir consejo en momentos de angustia, para entender su salud mental y como terapeuta o coach personal. El uso fue mayor entre los estudiantes con un bienestar muy bajo, de los que más de un tercio lo declaró."
+        },
+        {
+          "t": "p",
+          "x": "El autor principal, Dr. Jeffrey Lambert, afirmó: \"La AI generativa ya está cambiando la forma en que las personas buscan apoyo para su salud mental\". El estudio encuestó a 2,020 estudiantes y halló que quienes habían declarado una discapacidad tenían más probabilidades de usar la AI de este modo. Los investigadores señalan riesgos como la información inexacta, la preocupación por la privacidad y las respuestas deficientes cuando alguien está en crisis."
+        },
+        {
+          "t": "p",
+          "x": "La universidad ha publicado una guía para estudiantes. Los encuestados representaron el 9.1% de los invitados y el estudio abarcó una sola universidad; ya está en marcha un estudio nacional con varias universidades."
+        }
+      ]
+    },
+    "science/science-technion-rnn-hidden-structure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores del Technion examinaron, con modelos matemáticos de redes neuronales, cómo se combinan los cambios en las conexiones de una red para alterar su función, y demostraron que la función y el aprendizaje de una red revelan aspectos distintos de su estructura interna. El artículo del profesor Omri Barak y el estudiante de investigación Yoav Ger, publicado en arXiv, fue seleccionado para una presentación oral en NeurIPS 2026: uno de 112 entre 30,709 envíos."
+        },
+        {
+          "t": "p",
+          "x": "Al estudiar un tipo de red neuronal recurrente usado para modelar cómo el cerebro procesa la información, distinguieron las propiedades que determinan el comportamiento de la red de las \"ocultas\", que no afectan al rendimiento actual pero influyen en cómo aprende. En un ejemplo, dos redes respondían de forma idéntica a las mismas entradas, pero al entrenarse en las mismas condiciones una vio cómo su mejora se ralentizaba considerablemente durante un periodo, mientras la otra mejoraba de forma más constante."
+        },
+        {
+          "t": "p",
+          "x": "Las propiedades ocultas también pueden conservar huellas del historial de aprendizaje: redes entrenadas primero en tareas distintas alcanzaron un rendimiento similar en una tarea compartida, pero su estructura oculta seguía identificando el historial de entrenamiento de cada red. Los autores proponen experimentos similares en sistemas biológicos."
+        }
+      ]
+    },
+    "science/science-milkyway-ai-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+          "cap": "Instantáneas de una de las ejecuciones de PHEASANT con 3.4 × 10⁹ partículas. En cada panel, los mapas de color de la izquierda y la derecha muestran la densidad y la temperatura del gas, respectivamente. Crédito: K. Hirashima et al."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores han simulado la Vía Láctea estrella por estrella con PHEASANT, un modelo acelerado por AI (AI-accelerated) que funciona en tres sistemas de supercomputación con distinto hardware de CPU y GPU. En el trabajo participan la profesora Michiko Fujii, del Departamento de Astronomía de la Universidad de Tokio, y el investigador posdoctoral de RIKEN Keiya Hirashima, que desarrolló el modelo de AI."
+        },
+        {
+          "t": "p",
+          "x": "Calcular directamente cómo evoluciona el gas alrededor de las supernovas exige pasos de tiempo de unos 100 años. En su lugar, el modelo de AI predice 100,000 años hacia adelante, lo que permite a la simulación principal usar pasos de tiempo mucho más largos. El equipo informa que el método es unas 20 veces más rápido que el convencional y que la tasa de formación estelar simulada coincide con las estimaciones observacionales de la Vía Láctea real."
+        },
+        {
+          "t": "p",
+          "x": "El artículo \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.) se presentó en SC 2026, la Conferencia Internacional de Computación de Alto Rendimiento, Redes, Almacenamiento y Análisis, celebrada del 15 al 20 de noviembre en Chicago."
+        }
+      ]
     }
   }
 }

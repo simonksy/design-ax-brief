@@ -1,178 +1,115 @@
 {
-  "section": "movies",
-  "now_iso": "2026-11-22T22:03:00Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
-      "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-11-22T15:02:50+00:00",
-      "excerpt": "'The Unknown' filmmaker Arthur Harari says AI is 'slippery slope,' though he says he used a deepfake tool for a scene where Léa Seydoux kisses herself.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "title": "If There’s Generative AI in ‘The Further Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
-      "url": "https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/",
-      "source": "IndieWire",
-      "category": "movies",
-      "published_iso": "2026-11-21T23:45:00+00:00",
-      "excerpt": "AI tools went into the 4K Remaster of \"Se7en\" to bring the film as close as possible to the original print. ",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFUMI_ZX009.jpg?w=650"
-    },
-    {
-      "title": "Annecy, Ottawa, Manchester Programmers Weigh In On GenAI",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/annecy-ottawa-manchester-festival-programmers-artificial-intelligence-269655.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-11-20T14:26:00Z",
-      "excerpt": "Marcel Jean, Chris Robinson, and Steve Henderson tell us where they draw the line on AI in film submissions as Manchester moves to ban genAI entries.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/AI-Festivals.jpg"
-    },
-    {
-      "title": "Artists Leave Etsy In Droves Over New AI Training Terms",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/etsy-ai-training-terms-of-use-269553.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-11-18T17:21:00Z",
-      "excerpt": "For indie animators who sell prints, stickers, and zines between gigs, closing an Etsy shop means giving up years of reviews and holiday sales.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Etsy-AI.jpg"
-    },
-    {
-      "title": "Iyuno CEO David Lee on AI and the Future of Media Localization",
-      "url": "https://slator.com/iyuno-ceo-ai-media-localization/",
-      "source": "Slator",
-      "category": "movies",
-      "published_iso": "2026-11-20T10:05:00+00:00",
-      "excerpt": "Iyuno CEO David Lee on SlatorPod: the CLOE contextual-AI platform builds shared memory of characters and storylines reused across subtitling, dubbing and audio description; he argues synthetic voices still lag premium performances and stresses consent, control and compensation for AI voice replicas.",
-      "og_image": null
-    },
-    {
-      "title": "Utopai Studios Opens Beverly Hills Office",
-      "url": "https://www.awn.com/news/utopai-studios-opens-beverly-hills-office",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-11-20T07:28:25-08:00",
-      "excerpt": "The AI-native company behind 'The Most Serious Fart' and Antonio Banderas' 'Cortés' plans adding about 500 production jobs worldwide next year, with additional hiring in 2028.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081877-utopai1-1280.jpg?itok=JWfVm7sD"
-    },
-    {
-      "title": "Tool Tip Tuesday for Adobe Premiere: Color Matching with the AI Assistant (Beta)",
-      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-color-matching-with-the-ai-assistant-beta/",
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "published_iso": "2026-11-17T07:40:47-08:00",
-      "excerpt": "Premiere 2027's new color tools shipped without a shot match, but the AI Assistant (beta) fills the gap: ask it to match one shot to the next, or paste in a still and apply that look across the entire sequence.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/color-matching-with-the-ai-assistant.png"
-    },
-    {
-      "title": "OpenAI Shut Down Sora. Kuaishou Is Betting Bigger on Kling.",
-      "url": "https://technode.com/2026/11/17/kuaishou-kling-sora-hong-kong-ipo/",
-      "source": "TechNode",
-      "category": "movies",
-      "published_iso": "2026-11-17T07:09:43+00:00",
-      "excerpt": "After OpenAI shut down Sora, Kuaishou's Kling has become the video model directors like Jason Zada build with, and the company is now preparing a Hong Kong IPO priced on the creator business it built.",
-      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/11/kling-hong-kong-ipo-no-16.png?fit=1774%2C887&ssl=1"
-    },
-    {
-      "title": "한시간컴, 영상 AI로 키즈 애니메이션 제작…콘텐츠진흥원 데모데이 대상 수상",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42813",
-      "source": "인공지능신문",
-      "category": "movies",
-      "published_iso": "2026-11-20T08:49:10+09:00",
-      "excerpt": "영상 인공지능(AI) 플랫폼 모픽(Morphic)을 활용해 제작한 한시간컴의 키즈 애니메이션 ‘방울방울 쥐방울’이 문화체육관광부와 한국콘텐츠진흥원이 주최한 ‘2026 애니메이션 부트캠프 데모데이’에서 대상을 수상했다.20일 모픽에 따르면 ‘방울방울 쥐방울’은 2015년 카카오톡 이모티콘으로 출시된 캐릭터 ‘쥐방울’을 애니메이션으로 확장한 작품이다. 3~5세 유아와 가족을 대상으로 회당 11분, 총 13부작으로 기획됐으며, 주인공 방울이와 반려견 또또가 마법의 세계를 모험하며 규칙과 배려를 배워가는 이야기를 담았다.한시간컴은 제작 과",
-      "og_image": "https://cdn.aitimes.kr/news/thumbnail/202611/42813_64313_4829_v150.jpg"
-    },
-    {
-      "title": "부산AI영화학교 2기 성료…교육생 20명, AI영상 14편 제작",
-      "url": "https://www.news1.kr/local/busan-gyeongnam/6361045",
-      "source": "뉴스1",
-      "category": "movies",
-      "published_iso": "2026-11-20T15:05:11+09:00",
-      "excerpt": "말 소재 영상·광고·뮤직비디오 제작…창작 역량 강화 AI영상 창작 생태계 위해 한국마사회 5000만 원 후원 한국마사회 렛츠런파크 부산경남의 지원으로 운영된 '부산AI영화학교 2기-AI콘텐츠 제작 워크숍'이 교육생 20명의 참여 속에 총 14편의 인공지능(AI) 영상콘텐 …",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/11/20/8225203/high.jpg"
-    },
-    {
-      "title": "AI로 만든 1분 영화 19편, 첫 '온에어 어워즈'서 빛났다",
-      "url": "https://www.news1.kr/local/gwangju-jeonnam/6359050",
-      "source": "뉴스1",
-      "category": "movies",
-      "published_iso": "2026-11-19T09:41:56+09:00",
-      "excerpt": "광주온에어스테이션 성과 공유 상영·시상식 개최 총 133명 교육 참여, 대상에 김예지씨 '악몽청소부' (재)광주정보문화산업진흥원은 AI 영상 제작 교육 수강생들의 작품을 선보이는 '2026 온에어 어워즈'를 개최했다고 19일 밝혔다.지난 12일 광주CGI센터 온에 …",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg"
-    },
-    {
-      "title": "배우 없이 만든 중국 첫 AI 영화, 흥행 참패…3주간 3.6억원",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217460",
-      "source": "AI타임스",
-      "category": "movies",
-      "published_iso": "2026-11-16T16:36:38+09:00",
-      "excerpt": "중국 최초의 AI 생성 장편 영화가 극장 흥행에 실패했다. 배우와 실사 촬영 없이 제작했다는 기술적 성과에도 불구하고 어색한 표정과 장면 간 시각적 불일치, 매끄",
-      "og_image": "https://cdn.aitimes.com/news/photo/202611/217460_221726_369.png"
-    },
-    {
-      "title": "배우도 촬영장도 필요 없다⋯ AI 드라마, 숏폼 넘어 빠르게 확산",
-      "url": "https://www.kmib.co.kr/article/20261120500749",
-      "source": "국민일보",
-      "category": "movies",
-      "published_iso": "2026-11-21T00:04:37+09:00",
-      "excerpt": "인공지능(AI)으로 제작한 드라마가 유튜브와 소셜미디어를 넘어 전용 플랫폼으로 영역을 넓히고 있다. 화려한 영상과 빠른 전개를 앞세운 AI 숏폼 드라마가 인기를 끄는 가운데 국내에서도 독자적인 줄거리를 갖춘 작품들이 등장하고 있다. 방송사까지 드라마 제작에 AI 기술을",
-      "og_image": "https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/20/.cache/512/20261120500751.jpg"
-    },
-    {
-      "title": "[인터뷰] ‘아이리스’ 작가의 AI 드라마 도전기… “창작자 ‘안목’이 경쟁력될 것”",
-      "url": "https://biz.chosun.com/topics/topics_social/2026/11/23/SNBWQ277SFFHLIN3OCBYD7XY2A/",
-      "source": "조선비즈",
-      "category": "movies",
-      "published_iso": "2026-11-20T06:03:59.324Z",
-      "excerpt": "인터뷰 아이리스 작가의 AI 드라마 도전기 창작자 안목이 경쟁력될 것 AI 웹드라마 4편 제작 조규원 작가 제작비 줄고 다양한 장르 가능해 해외 시장 진출 가능성도 커질 것",
-      "og_image": "https://biz.chosun.com/resizer/v2/D6D7GK6HRNERPPG3ZMKNMF7XYA.jpg?auth=f5f9d73ab2e9e1c45179c4d2cf606139f37d628a6b7b2a493b9a535f400a0f38&width=1200&height=630&smart=true"
-    },
-    {
-      "title": "제44회 부산국제단편영화제, '인공지능(AI)경쟁' 신설... 단편영화의 새로운 장을 연다",
-      "url": "http://www.indifocus.kr/84113",
-      "source": "인디포커스",
-      "category": "movies",
-      "published_iso": "2026-11-17T14:56:00+09:00",
-      "excerpt": "부산국제단편영화제(BISFF)가 2027년 4월 열리는 제44회 영화제의 인공지능(AI)경쟁 부문 출품 공모를 지난 11월 9일(월)부터 시작했다. AI경쟁은 제44회에서",
-      "og_image": "https://www.indifocus.kr/data/jmbc_tv/mainimages/202611/250_333_2026111756577477.jpg"
-    },
-    {
-      "title": "모픽AI, 콘텐츠 제작·협업 강화 '아티팩트' 출시…영화·드라마 제작 워크플로↑",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409973",
-      "source": "테크월드",
-      "category": "movies",
-      "published_iso": "2026-11-18T17:20:00+09:00",
-      "excerpt": "[테크월드=이광재 기자] 모픽이 영화, 드라마, 마이크로드라마, 애니메이션 제작을 위한 신규 기능 ‘아티팩트(Artifacts)’를 출시했다고 밝혔다.모픽에 따르",
-      "og_image": "https://cdn.epnc.co.kr/news/photo/202611/409973_410712_3744.png"
-    },
-    {
-      "title": "Can Dubai’s $1 Million AI Film Award Help AI Cinema Be Taken Seriously?",
-      "url": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
-      "source": "WIRED Middle East",
-      "category": "movies",
-      "published_iso": "2026-11-18T05:30:00.000Z",
-      "excerpt": "As Dubai’s AI Film Award returns for its second edition, the region bears witness to what happens when an AI film prize starts being taken seriously.",
-      "og_image": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/191:100/w_1280,c_limit/Cinema_lead.jpg"
-    },
-    {
-      "title": "EBS AI 역사 애니 ‘덩이랑 쾡이랑 인물 한국사’ 화제",
-      "url": "https://www.kidshankook.kr/news/articleView.html?idxno=18849",
-      "source": "소년한국일보",
-      "category": "movies",
-      "published_iso": "2026-11-20T06:47:16+09:00",
-      "excerpt": "자극적인 숏폼과 유튜브 영상이 넘쳐나는 시대, 어린이들에게 어떤 콘텐츠를 보여줘야 할지 고민하는 학부모들 사이에서 주목받는 프로그램이 있다. 지난 9월 EBS가 새롭게 선보인 어린이 AI 역사 애니메이션 ‘덩이랑 쾡이랑 인물 한국사’다. 생성형 인공지능(AI) 기술을 활용해 우리 역사의 주요 인물들을 생생한 드라마로 만나는 프로그램으로, 박물관에서 깨어난 신라 토우 ‘덩이’와 ‘쾡이’가 유물을 통해 과거로 시간 여행을 떠나 역사 속 인물들을 만나는 흥미로운 설정으로 호기심을 자극한다. 세종대왕 1부 영상의 경우 EBS 누리집 다시보",
-      "og_image": "https://cdn.kidshankook.kr/news/thumbnail/202611/18849_47126_3047_v150.jpg"
-    },
-    {
-      "title": "태국 포탈 엔터테인먼트, AI 숏폼 드라마 앱 SiamSun 공개…AI 배우도 개발",
-      "url": "https://www.topcelev.co.kr/news/articleView.html?idxno=4219",
-      "source": "톱셀럽뉴스",
-      "category": "movies",
-      "published_iso": "2026-11-17T20:31:38+09:00",
-      "excerpt": "스마트폰 화면에 맞춘 세로형 숏폼 드라마 시장이 커지면서 제작 과정에 생성형 AI를 투입하는 사업자가 아시아 각국에서 늘고 있다. 태국 경제매체 브랜드 인사이드(Brand Inside)가 태국 무역정책전략사무소 자료를 인용해 전한 바에 따르면 세계 세로형 드라마 시장은 2025년 37",
-      "og_image": "https://cdn.topcelev.co.kr/news/thumbnail/202611/4219_4027_5911_v150.jpg"
-    }
-  ]
+ "section": "movies",
+ "now_iso": "2026-11-23T22:00:42Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar",
+   "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+   "source": "IndieWire",
+   "published_iso": "2026-11-23T21:42:26+00:00",
+   "excerpt": "The Academy has ruled Gossip Goblin's AI-generated feature 'Gods Don't Give Gifts' ineligible for the Best Animated Feature Oscar race, ahead of its Dec. 4 theatrical release.",
+   "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=650",
+   "category": "movies"
+  },
+  {
+   "title": "AI Films From Kerala to the Andaman Islands Set for WIF India x Google Flow Filmathon, Screen at IFFI Goa",
+   "url": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/",
+   "source": "Variety",
+   "published_iso": "2026-11-23T08:14:12+00:00",
+   "excerpt": "Five films made with Google Flow were selected for WIF India's first AI Filmathon from 850-plus registrations and will screen at IFFI Goa.",
+   "og_image": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=563&crop=1",
+   "category": "movies"
+  },
+  {
+   "title": "Rian Johnson, a Vocal AI Critic, Warns Against Totally 'Demonizing' AI",
+   "url": "https://variety.com/2026/film/news/rian-johnson-demonizing-ai-peter-dinklage-poker-face-dead-1236955765/",
+   "source": "Variety",
+   "published_iso": "2026-11-23T14:00:31+00:00",
+   "excerpt": "Rian Johnson discusses where he draws the line on AI in filmmaking, his Warner Bros. deal and new sci-fi thriller, and confirms the 'Poker Face' revival is dead.",
+   "og_image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306414526_703a9f.jpg?w=1000&h=563&crop=1",
+   "category": "movies"
+  },
+  {
+   "title": "AI filmmaking: how director Perry Bhandal works solo using gen AI tools",
+   "url": "https://www.broadcastnow.co.uk/industry-opinions/ai-filmmaking-how-director-perry-bhandal-works-solo-using-gen-ai-tools/5222709.article",
+   "source": "Broadcast",
+   "published_iso": "2026-11-23T15:41:00+00:00",
+   "excerpt": "Indie filmmaker Perry Bhandal, who released the AI-generated feature 'Okay, It's Time To Go', gives a detailed first-hand account of what solo gen-AI feature production actually involves versus his 18-day conventional shoots.",
+   "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "Maxon Plus Intros New AI-Assisted Tools and 3D Review Services",
+   "url": "https://postperspective.com/maxon-plus-intros-new-ai-assisted-tools-and-3d-review-services/",
+   "source": "postPerspective",
+   "published_iso": "2026-11-23T19:08:30+00:00",
+   "excerpt": "Maxon launched Maxon Plus, a suite of connected services including a Model Generator that turns text or a reference image into a 3D base model and a Texture Generator, integrated with Cinema 4D and ZBrush, plus browser-based 3D review.",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/11/Model_generator-copy.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "Boris FX releases Silhouette 2027",
+   "url": "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/",
+   "source": "CG Channel",
+   "published_iso": "2026-11-22T04:00:36+00:00",
+   "excerpt": "The VFX rotoscoping and paint tool adds new machine-learning nodes such as Body ML that generate editable roto shapes, and a Video Inpaint ML node to speed up object removal.",
+   "og_image": null,
+   "category": "movies"
+  },
+  {
+   "title": "How We Built CorridorKey 2.0 | Live Demo & Q&A",
+   "url": "https://www.youtube.com/watch?v=GOX594srvU4",
+   "source": "Corridor Crew",
+   "published_iso": "2026-11-19T13:46:43-08:00",
+   "excerpt": "Niko and developer Zach Harris break down how Corridor built CorridorKey 2.0, the AI keying tool running on a custom-trained model, with a live demo.",
+   "og_image": "https://i.ytimg.com/vi/GOX594srvU4/maxresdefault.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "We Found a Wild AI Video Conspiracy...",
+   "url": "https://www.youtube.com/watch?v=V0iq6EPfHmw",
+   "source": "Curious Refuge",
+   "published_iso": "2026-11-19T14:43:49-08:00",
+   "excerpt": "Curious Refuge tests Topview's T1 video model against ByteDance Seedance 2.5 and finds matching voices, music, lookalike characters and export metadata suggesting T1 may be a Seedance reskin.",
+   "og_image": "https://i.ytimg.com/vi/V0iq6EPfHmw/maxresdefault.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "'I've lost her forever': Why German voice actors are refusing to sign Netflix's AI contract",
+   "url": "https://www.dw.com/en/ive-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflixs-ai-contract/a-80004381",
+   "source": "DW",
+   "published_iso": "2026-11-23T10:58:22.052Z",
+   "excerpt": "An AI clause in Netflix's German dubbing contracts, which comes with a pay rise, is splitting the dubbing industry over whether it protects performers or allows their voices to be used for AI training.",
+   "og_image": "https://static.dw.com/image/80004535_6.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "심형래 감독, AI 기술로 깨운 '디 워: NEW HOPE' 2027년 재개봉 예고",
+   "url": "https://www.cineplay.co.kr/ko-kr/articles/30918",
+   "source": "씨네플레이",
+   "published_iso": "2026-11-23T16:54:00+09:00",
+   "excerpt": "심형래 감독이 힉스필드AI와 협력해 AI 영상 기술로 30분 분량의 미공개 액션 장면을 추가한 '디 워: NEW HOPE'를 2027년 국내외 재개봉한다고 밝히고 예고편을 공개했다.",
+   "og_image": "https://img.youtube.com/vi/V0qbfbg8EdE/maxresdefault.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "수백 명 대신 10명…AI가 재편하는 영화산업의 셈법 [AI가 바꾸는 콘텐츠 산업①]",
+   "url": "https://news.mtn.co.kr/article/2026112008381922080",
+   "source": "MTN 머니투데이방송",
+   "published_iso": "2026-11-23T08:00:30+09:00",
+   "excerpt": "25일 개봉하는 AI 장편 '라파엘'의 제작사 마테오AI스튜디오는 수백 명이 필요했을 촬영을 10명 안팎으로 제작해 인력 규모를 10분의 1로 줄였다고 밝혔다. AI가 바꾸는 영화 제작비·인력 구조를 짚는다.",
+   "og_image": "https://files.mtn.co.kr/article-asset/2026/11/20/2687fc48-4888-4285-9e06-8763e9873af8.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "이제이비전, AI 인터랙티브 숏드라마 '아쿠아리움 관리자를 위한 지침서' 공개",
+   "url": "https://www.hankyung.com/article/202611234792O",
+   "source": "한국경제",
+   "published_iso": "2026-11-23T16:56:55+09:00",
+   "excerpt": "이제이비전이 시청자 선택에 따라 전개가 갈리는 생성형 AI 인터랙티브 숏드라마 '아쿠아리움 관리자를 위한 지침서'를 공개했다.",
+   "og_image": "https://img.hankyung.com/photo/202611/0D.46518951.1.jpg",
+   "category": "movies"
+  }
+ ]
 }

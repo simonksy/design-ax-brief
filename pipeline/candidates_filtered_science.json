@@ -1,53 +1,49 @@
 {
   "section": "science",
-  "now_iso": "2026-11-22T22:03:00Z",
+  "now_iso": "2026-11-23T22:00:42Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "The AI Riemann hypothesis proof is true, independent mathematicians confirm",
-      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
-      "source": "Scientific American",
-      "published_iso": "2026-11-20T16:00:00-05:00",
-      "excerpt": "Independent mathematicians have checked the AI-assisted (Claude/Lean) proof of the Riemann hypothesis claimed by Anthropic's Levent Alpöge and report it is almost certainly correct, the first outside verification of the claim covered 11-21.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/64e45f50-d1c5-4a9f-ad48-60b52541abcc/riemann-proven.jpg?m=1795211310.647&w=1200",
-      "subtopic": "formal_math (follow-up: independent expert verification)",
+      "title": "AI-assisted method advances high-resolution structure classification of membrane proteins in vesicles",
+      "url": "https://phys.org/news/2026-11-ai-method-advances-high-resolution.html",
+      "source": "Phys.org",
       "category": "science",
-      "history_match": {
-        "score": 0.486,
-        "date": "2026-11-21",
-        "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-        "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
-        "band": "likely-repeat"
-      }
+      "subcategory": "life_science",
+      "published_iso": "2026-11-23T17:20:12Z",
+      "excerpt": "Institute of Biophysics, CAS (PNAS): isSPA-vesicle uses an AI model to fit vesicle-membrane geometry and filter mis-oriented particles, yielding 2.7 Å and 3.1 Å in-membrane structures of influenza hemagglutinin and coronavirus OC43 spike.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/isspa-vesicle-an-ai-as.jpg"
     },
     {
-      "title": "The Communal Brain Behind RFD4-Proteina",
-      "url": "https://www.ipd.uw.edu/2026/11/the-communal-brain-behind-rfd4-proteina/",
-      "source": "Institute for Protein Design (UW)",
-      "published_iso": "2026-11-19T21:58:31+00:00",
-      "excerpt": "Baker's IPD and NVIDIA release RFD4-Proteina, a generative protein-design model merging RoseTTAFold Diffusion and Proteina-Complexa that yields 5-10x more high-quality designs than prior methods, with wet-lab validation loops; R&D World reports it designed a pesticide-degrading enzyme.",
-      "og_image": "https://www.ipd.uw.edu/wp-content/uploads/2026/11/RFD4_image_cropped_blur.jpg",
-      "subtopic": "life_science (de novo protein/enzyme design model release)",
+      "title": "Hidden leaf dynamics could improve Amazon rainforest carbon uptake estimates",
+      "url": "https://phys.org/news/2026-11-hidden-leaf-dynamics-amazon-rainforest.html",
+      "source": "Phys.org",
       "category": "science",
-      "history_match": {
-        "score": 0.376,
-        "date": "2026-10-24",
-        "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
-        "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
-        "band": "related"
-      }
+      "subcategory": "life_science",
+      "published_iso": "2026-11-23T12:00:00Z",
+      "excerpt": "University of Hong Kong (Nature): machine learning on 10 m Sentinel-2 imagery (2019-2021) maps monthly leaf loss across the Amazon; accounting for leaf renewal shifts modeled annual carbon uptake by about 9.4%. Remote-sensing angle (deprioritized ecology).",
+      "og_image": null
+    },
+    {
+      "title": "Researchers use AI to optimize sensor design for ultrasensitive vitamin C detection",
+      "url": "https://phys.org/news/2026-11-ai-optimize-sensor-ultrasensitive-vitamin.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subcategory": "materials",
+      "published_iso": "2026-11-19T12:00:00Z",
+      "excerpt": "Sungkyunkwan University (Chemical Engineering Journal): an ML model trained on 25 experiments picked fabrication settings from 625 combinations for a molecularly imprinted polymer sensor; built sensor reached a 778 pM detection limit and tracked ELISA in urine.",
+      "og_image": null
     },
     {
       "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
       "url": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
-      "source": "SingularityHub",
-      "published_iso": "2026-11-18T10:17:56-08:00",
-      "excerpt": "University of Missouri team (Bing Yang) adapted Profluent's AI-designed gene editor OpenCRISPR-1 for rice, editing three SWEET genes with up to 97% efficiency; edited plants resisted three Xoo blight strains and passed edits to offspring.",
-      "og_image": "https://singularityhub.com/uploads/2026/11/rice-terraces-bali.jpeg?auto=webp",
-      "subtopic": "life_science (plant molecular biology, AI-designed editor)",
+      "source": "Singularity Hub",
       "category": "science",
+      "subcategory": "life_science",
+      "published_iso": "2026-11-18T10:17:56-08:00",
+      "excerpt": "University of Missouri (Bing Yang) adapted Profluent's AI-designed OpenCRISPR-1 for rice, knocking out three SWEET genes with up to 97% efficiency; edited plants resisted three Xoo blight strains and passed edits to offspring.",
+      "og_image": "https://singularityhub.com/uploads/2026/11/rice-terraces-bali.jpeg?auto=webp",
       "history_match": {
-        "score": 0.454,
+        "score": 0.404,
         "date": "2026-10-29",
         "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
         "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
@@ -55,113 +51,93 @@
       }
     },
     {
-      "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
-      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-22T09:00:01-05:00",
-      "excerpt": "University of Tokyo/RIKEN (Keiya Hirashima) simulated the Milky Way star by star across three supercomputers, using an AI model to predict supernova gas evolution so the galaxy simulation takes longer time steps and runs ~20x faster (SC 2026).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-      "subtopic": "astronomy (AI surrogate in galaxy simulation)",
-      "category": "science"
-    },
-    {
-      "title": "Putting Google's AI hurricane model to the test",
-      "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-19T19:40:00-05:00",
-      "excerpt": "UAlbany study of 385 tropical cyclones (Geophysical Research Letters) finds Google's WeatherNext Cyclone beat NOAA's hurricane model on intensity at 1-5 days and matched human forecasters, but underestimated strength and gave too-narrow uncertainty ranges.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-      "subtopic": "physics/earth (independent evaluation of AI weather model; weather emulators deprioritized)",
-      "category": "science"
-    },
-    {
-      "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
-      "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html",
-      "source": "Phys.org",
-      "published_iso": "2026-11-16T14:40:00-05:00",
-      "excerpt": "KRICT and KOREATECH combined a machine-learning potential with experiments (ACS Catalysis) to show nitrogen impurities such as 2-methylpyridine occupy zeolite catalyst sites first and cut light-olefin yields in plastic pyrolysis-oil upcycling.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-experiments-rev-2.jpg",
-      "subtopic": "materials/chemistry (catalysis, MLIP)",
-      "category": "science"
-    },
-    {
-      "title": "AI guardrails falter as tampering drives repeated harassment in simulated conversations",
-      "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-20T10:20:00-05:00",
-      "excerpt": "Georgia State, Georgia Tech and UC Berkeley tested Gemini, Llama, Qwen and DeepSeek agents in multi-turn simulated chats; toxic memory, planning prompts or fine-tuning pushed harassment rates as high as 97% and hostility escalated over turns (ICWSM).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-      "subtopic": "psychology/behavior (LLM agent harassment simulation)",
-      "category": "science"
-    },
-    {
-      "title": "Electron fingerprints help AI predict complex alloy properties with little training data",
-      "url": "https://techxplore.com/news/2026-11-electron-fingerprints-ai-complex-alloy.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-18T10:20:00-05:00",
-      "excerpt": "Sandia, Georgia Tech and NASA's VASt model identifies high-entropy alloys by electron distribution rather than composition, predicting heat and stress response from a few dozen samples (npj Computational Materials).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electron-fingerprints.jpg",
-      "subtopic": "materials (alloys; note paper from June, data-efficiency method)",
+      "title": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "source": "MIT News",
       "category": "science",
+      "subcategory": "cognition",
+      "published_iso": "2026-11-23T21:15:00Z",
+      "excerpt": "MIT McGovern (Nature): analyzing speakers of 21 languages with a multilingual AI model, the study finds the human brain may represent meaning in much the same way across languages. Note: brain-model alignment angle (deprioritized).",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/mit-mcgovern-languages.jpg"
+    },
+    {
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "source": "MIT News",
+      "category": "science",
+      "subcategory": "research_automation",
+      "published_iso": "2026-11-23T05:00:00Z",
+      "excerpt": "MIT SLIC training teaches a small generative model to design analog integrated circuits as well as or better than frontier LLMs. Engineering-design angle; may fit gadgets better.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-AnalogOptimize-01-Press.jpg"
+    },
+    {
+      "title": "A legendary philosopher isn't buying Anthropic's consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "subcategory": "cognition",
+      "published_iso": "2026-11-23T12:36:08-05:00",
+      "excerpt": "Anthropic warned investors its AI might be conscious; a leading philosopher of mind rejects the argument, probing what AI-welfare research actually shows. Commentary/feature rather than new data.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600"
+    },
+    {
+      "title": "One in four students turn to AI for mental health support",
+      "url": "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "subcategory": "psychology",
+      "published_iso": "2026-11-23T14:20:00Z",
+      "excerpt": "University of Bath (JMIR Mental Health): survey of 2,020 UK students finds about one in four used generative AI for mental-health support in six months, highest among those with very low well-being. Cross-sectional survey (attitude-survey caveat).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg"
+    },
+    {
+      "title": "ChatGPT's translation of mental health questionnaires into Mandarin reveals inconsistent results",
+      "url": "https://medicalxpress.com/news/2026-11-chatgpt-mental-health-questionnaires-mandarin.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "subcategory": "psychology",
+      "published_iso": "2026-11-19T12:00:00Z",
+      "excerpt": "University of Canterbury (Wei Teng): engineered prompts made ChatGPT's Mandarin K10/PHQ-9 translations more natural, but the same prompt gave inconsistent outputs across user accounts, raising reliability concerns for psychological assessment.",
+      "og_image": null
+    },
+    {
+      "title": "AI can identify themes in human interviews but still misses nuances in meaning",
+      "url": "https://techxplore.com/news/2026-11-ai-themes-human-nuances.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subcategory": "psychology",
+      "published_iso": "2026-11-17T12:00:00Z",
+      "excerpt": "University of Missouri (Int. J. Qualitative Methods): AURA framework compared BERTopic with human coders on 32 interviews; 11 of 12 human themes matched an AI topic, but AI merged/split themes and missed nuance.",
+      "og_image": null
+    },
+    {
+      "title": "Neural networks that behave identically reveal hidden structural differences as they learn",
+      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subcategory": "cognition",
+      "published_iso": "2026-11-17T12:00:00Z",
+      "excerpt": "Technion (arXiv 2605.04115, NeurIPS 2026 oral): RNNs with identical behavior carry hidden structural differences that surface only when learning a new task and retain traces of past training; proposes tests for biological circuits.",
+      "og_image": null,
       "history_match": {
-        "score": 0.227,
-        "date": "2026-11-18",
-        "url": "https://techxplore.com/news/2026-11-chat-based-ai-users-complex.html",
-        "title": "Chat-based AI lets users run complex alloy calculations on their own computers",
+        "score": 0.153,
+        "date": "2026-11-07",
+        "url": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
+        "title": "Fractal patterns reveal hidden limits to AI predictability",
         "band": "related"
       }
     },
     {
-      "title": "Noninvasive brain interface uses AI suggestions to convey messages nearly three times faster",
-      "url": "https://techxplore.com/news/2026-11-noninvasive-brain-interface-ai-convey.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-20T15:00:00-05:00",
-      "excerpt": "Rutgers' ChatBCI-Assist pairs an EEG P300 speller with a locally run fine-tuned language model that suggests words and phrases, nearly tripling meaning-based spelling speed in healthy participants (IEEE TBME).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-group-of-people-stan.jpg",
-      "subtopic": "cognition (BCI + LLM; BCI deprioritized)",
-      "category": "science"
-    },
-    {
-      "title": "New research calls for stronger standards when using LLMs and other AI tools for psychological assessment",
-      "url": "https://medicalxpress.com/news/2026-11-stronger-standards-llms-ai-tools.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-11-16T00:00:00+00:00",
-      "excerpt": "Child Mind Institute, Harvard and MIT researchers (PLOS Digital Health) show AI language tools can score well overall yet miss less common symptom expressions, and propose a 'Text Psychometrics' validation framework for LLM-based psychological assessment.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-research-calls-for.jpg",
-      "subtopic": "psychology (LLM psychometrics)",
-      "category": "science"
-    },
-    {
-      "title": "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour",
-      "url": "https://arxiv.org/abs/2611.16667",
-      "source": "arXiv",
-      "published_iso": "2026-11-12T11:42:54Z",
-      "excerpt": "Maier, Lieder, Cheung et al. ran a donation-decision experiment where participants chatted with an LLM advisor, a human, or no one: LLM advisors were judged more rational, trustworthy, convincing and sycophantic, yet donations did not differ across conditions.",
-      "og_image": null,
-      "subtopic": "psychology (AI advice-taking experiment)",
-      "category": "science"
-    },
-    {
-      "title": "Collisionality scaling of the tokamak density limit",
-      "url": "https://arxiv.org/abs/2611.21899",
-      "source": "arXiv",
-      "published_iso": "2026-11-16T21:12:37Z",
-      "excerpt": "MIT PSFC-led team (Maris, Rea et al.) used machine-learning-guided analysis of a multi-machine database (C-Mod, ASDEX Upgrade, DIII-D, JET, TCV) to find a common edge-collisionality threshold for density-limit disruptions with far fewer false positives than the Greenwald limit.",
-      "og_image": null,
-      "subtopic": "physics (fusion/tokamak)",
-      "category": "science"
-    },
-    {
-      "title": "Scaling classical hardware for accurate real-time quantum error correction",
-      "url": "https://arxiv.org/abs/2611.26447",
-      "source": "arXiv",
-      "published_iso": "2026-11-19T17:16:21Z",
-      "excerpt": "Harvard's Chenyang Jin, Susanne Yelin and Andi Gu introduce Rapids, a streaming neural decoder co-designed with an FPGA that is both fast enough for superconducting syndrome cycles and accurate, cutting the qubit overhead of real-time error correction.",
-      "og_image": null,
-      "subtopic": "quantum (AlphaQubit-class neural decoder)",
+      "title": "Your Best Quantum Error Correction Engineer Might Be a Bot",
+      "url": "https://quantumcomputingreport.com/your-best-quantum-error-correction-engineer-might-be-a-bot/",
+      "source": "Quantum Computing Report",
       "category": "science",
+      "subcategory": "quantum",
+      "published_iso": "2026-11-19T23:44:15+00:00",
+      "excerpt": "GQI analysis of how AI increasingly assists engineers in designing new quantum error-correction codes and decoders. Analysis piece, no single new result.",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-143.png",
       "history_match": {
-        "score": 0.285,
+        "score": 0.226,
         "date": "2026-10-30",
         "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
         "title": "Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction",
@@ -169,83 +145,28 @@
       }
     },
     {
-      "title": "Supervised deep learning for efficient cryo-EM image alignment in drug discovery with cryoPARES",
-      "url": "https://www.nature.com/articles/s41467-026-78403-1",
+      "title": "Machine learning-driven regulation of the four-electron LiOH pathway in lithium-oxygen batteries with prolonged cycling",
+      "url": "https://www.nature.com/articles/s41467-026-79335-6",
       "source": "Nature Communications",
+      "category": "science",
+      "subcategory": "materials",
       "published_iso": "2026-11-18T00:00:00Z",
-      "excerpt": "cryoPARES is a supervised deep-learning framework that reuses prior alignments to rapidly determine particle poses across closely related cryo-EM datasets, speeding structure determination for ligand series.",
-      "og_image": null,
-      "subtopic": "life_science (cryo-EM AI)",
-      "category": "science"
-    },
-    {
-      "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
-      "url": "https://www.nature.com/articles/s41467-026-79404-w",
-      "source": "Nature Communications",
-      "published_iso": "2026-11-22T00:00:00Z",
-      "excerpt": "A deep-learning framework shows transcription-factor binding sensitivity to chromatin is a continuum rather than binary, with binding explained by a mix of hierarchical and cooperative mechanisms.",
-      "og_image": null,
-      "subtopic": "life_science (genomics DL)",
-      "category": "science"
-    },
-    {
-      "title": "Enabling lab autonomy with reward functions and executable workflows",
-      "url": "https://www.nature.com/articles/s42256-026-01339-0",
-      "source": "Nature Machine Intelligence",
-      "published_iso": "2026-11-20T00:00:00Z",
-      "excerpt": "Kalinin et al. argue self-driving labs need LLM hypothesis generation complemented by bottom-up optimization that turns hypotheses into executable workflows with explicit reward functions (Perspective).",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01339-0/MediaObjects/42256_2026_1339_Fig1_HTML.png",
-      "subtopic": "research_automation (perspective; deprioritized)",
-      "category": "science"
-    },
-    {
-      "title": "New AI 'copilot' helps engineers design better structures",
-      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-      "source": "MIT News",
-      "published_iso": "2026-11-13T05:00:00Z",
-      "excerpt": "MIT researchers built a human-in-the-loop topology-optimization 'copilot' that presents regions of a structure to the designer for feedback while the algorithm generates it.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-ai-design-01-press.jpg",
-      "subtopic": "materials/engineering (AI-assisted structural design)",
-      "category": "science"
+      "excerpt": "Authors use machine learning to identify a Ni-Co dual-atom catalyst that promotes a four-electron LiOH pathway in Li-O2 batteries, reaching ~60,000 mAh/g capacity and over 2,000 stable cycles.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 17,
+    "kept": 13,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 3,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-24",
-      "title": "Beyond tree cover: mapping the world's forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
-      "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Computer scientists build tech tools to find experiments, detect citation 'hallucinations'",
-      "url": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Google launches $150,000 AI competition to reduce quantum computing demands",
-      "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/"
-    },
     {
       "date": "2026-10-25",
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
@@ -915,6 +836,31 @@
       "date": "2026-11-22",
       "title": "AI may not work like the human brain after all, scientists discover",
       "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour",
+      "url": "https://arxiv.org/abs/2611.16667"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Collisionality scaling of the tokamak density limit",
+      "url": "https://arxiv.org/abs/2611.21899"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Putting Google's AI hurricane model to the test",
+      "url": "https://phys.org/news/2026-11-google-ai-hurricane.html"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
+      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "AI guardrails falter as tampering drives repeated harassment in simulated conversations",
+      "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html"
     }
   ]
 }

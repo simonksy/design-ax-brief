@@ -1,7 +1,30 @@
-{"date":"2026-11-23","section":"medicine","media":[
-{"id":"northwell-stroke-ai-outcomes","type":"svg"},
-{"id":"subtle-gadolinium-tenth-mri","type":"svg"},
-{"id":"tele-cranio-ct-free","type":"svg"},
-{"id":"bmj-antibiotic-llm-cot","type":"image","src":"pipeline/media/bmj-antibiotic-llm-cot.jpg"},
-{"id":"nhs-outpatient-noshow-ml","type":"svg"}
-]}
+{
+  "date": "2026-11-24",
+  "section": "medicine",
+  "media": [
+    {
+      "id": "nhs-edith-breast-ai",
+      "type": "image",
+      "src": "pipeline/media/nhs-edith-breast-ai.jpg"
+    },
+    {
+      "id": "mhra-mental-health-airlock",
+      "type": "image",
+      "src": "pipeline/media/mhra-mental-health-airlock.jpg"
+    },
+    {
+      "id": "photon-chatgpt-rx",
+      "type": "image",
+      "src": "pipeline/media/photon-chatgpt-rx.jpg"
+    },
+    {
+      "id": "heart-failure-drug-ai-kr",
+      "type": "svg"
+    },
+    {
+      "id": "eye-ambient-ai-emr-ophthalmology",
+      "type": "image",
+      "src": "pipeline/media/eye-ambient-ai-emr-ophthalmology.png"
+    }
+  ]
+}

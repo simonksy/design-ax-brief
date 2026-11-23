@@ -1,191 +1,221 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "gadgets",
   "cards": [
     {
-      "id": "verge-vibe-coding-gadgets",
+      "id": "dutch-ap-camera-glasses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Vibe coding이\n내 기기로 향한다",
-      "body": "LLMs 덕에 누구나 TV 화면과 카메라 펌웨어까지 손보게 됐다.",
-      "mini_headline": "Vibe coding, 기기로",
+      "headline": "네덜란드 규제 당국\nAI 카메라 안경 경고",
+      "body": "네덜란드 당국이 주변인 사생활과 안전을 들어 AI 카메라 안경 구매를 만류했다.",
+      "mini_headline": "네덜란드 당국 vs AI 안경",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+            "cap": "이미지 출처: David Paul Morris/Bloomberg / Getty Images"
           },
           {
             "t": "p",
-            "x": "이제 대규모 언어 모델이 TV를 새로 디자인하고 카메라를 업그레이드해 준다. 기기를 해킹하고 개조하는 일 자체는 새롭지 않다. 달라진 건 그 일이 쉬워졌다는 점이다. Claude Code나 Codex에 프롬프트만 넣어 자기 하드웨어를 해킹하는 사람들이 생겼다."
+            "x": "네덜란드 데이터보호청이 소비자에게 AI 카메라 안경(AI-enabled)을 사지 말라고 당부했다. 주변 사람의 사생활을 침해하고 착용자 안전까지 위협한다는 이유다."
           },
           {
             "t": "p",
-            "x": "개발자 Gathin T는 광고로 가득한 Xiaomi Android TV를 Claude Code 프롬프트로 장악했다. 한 시간 반 뒤에는 화면 광고가 사라진 더 단순한 인터페이스가 남았다. 화제가 된 이 해법은 CleanYourTV라는 이름으로 GitHub에서 손꼽히게 인기 있는 저장소가 됐다. 식기세척기와 사진 액자, 고급 자동차까지 온갖 기기가 Android로 돌아간다. 숨겨진 API나 펌웨어 파일이 온라인에 있으면 LLM이 찾아내 풀고 다시 패키징할 수 있다."
+            "x": "데이터보호청은 최근 성명에서 전면 금지 일보 직전까지 갔다. 늘 켜진 채 인터넷에 연결되는 이 안경으로 공공장소에서 사람을 찍는 일은 “거의 언제나 금지된다”고 했다."
           },
           {
             "t": "p",
-            "x": "카메라 애호가들은 AI로 녹화 기능과 더 높은 해상도, 새 컬러 프로파일을 더한다. 뮤지션들은 M-Vave FM-1 같은 저가 신시사이저를 새 장비로 바꾸고 게이머들은 콘솔에 기능을 붙인다. 게임 제작사들은 반격에 나섰다. Luke Dicken은 “더 침습적인 DRM”이 나올 거라고 내다본다. 기기가 벽돌이 될 위험은 사용자 몫이다."
+            "x": "비판론자들은 이 스마트 웨어러블을 “변태 안경”이라 부른다. 동의 없이 사람을 찍는 데, 특히 여성을 괴롭히는 데 쓰이기 쉬워서다. 녹화 중 경고등이 켜지는 안경도 있지만 개인정보 보호 활동가들은 이 신호가 충분히 눈에 띄지 않는다고 지적해 왔다. 근처의 스마트 안경 착용자를 감지하는 휴대폰 앱을 만든 이들까지 나왔다."
           },
           {
             "t": "p",
-            "x": "더 안전한 길도 있다. M5Stack PaperMono 같은 기기에 들어가는 값싸고 해커 친화적인 보드 ESP32 모듈, 그리고 Meta의 Muse Charm과 Muse Gadgets 프로그램이다. Gathin은 잃으면 안 되는 것에는 봇이 절대 손대지 못하게 하고 백업을 넉넉히 해 두라고 조언한다."
+            "x": "데이터보호청은 이 안경이 틀리거나 위험한 답을 내놓기도 한다고 경고했다. 당국 테스트에서 이름을 밝히지 않은 한 안경은 “미성년자에게 관심이 있다고 밝힌 성인에게 연애 조언을 했다.” 약 라벨을 잘못 읽었고, 구급차를 부르지 않고도 불렀다고 답했다."
+          },
+          {
+            "t": "p",
+            "x": "네덜란드 정부의 이번 권고는 노르웨이 정부의 비슷한 행보를 뒤따랐다. 노르웨이 정부는 9월 카메라 탑재 기기 금지를 검토 중이라고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Vibe coding comes for\nyour gadgets",
-          "body": "LLMs can now redesign a TV interface or upgrade camera firmware, putting gadget modding within anyone's reach.",
-          "mini_headline": "Vibe coding hits gadgets",
+          "headline": "Dutch regulator warns\nagainst AI camera glasses",
+          "body": "The Dutch privacy regulator urges consumers not to buy AI camera glasses, citing bystander privacy and safety.",
+          "mini_headline": "Dutch regulator vs AI glasses",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "Image Credits:David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Large language models can now redesign your TV and upgrade your camera for you. Gadget hacking and modding isn't new — what is new is that it's easy now: people are hacking their hardware simply by prompting Claude Code or Codex to do it."
+                "x": "The Dutch Data Protection Authority is urging consumers not to buy AI-enabled camera glasses, warning that they compromise the privacy of nearby bystanders and risk the safety of their users."
               },
               {
                 "t": "p",
-                "x": "Developer Gathin T prompted Claude Code to take over his ad-filled Xiaomi Android TV; an hour and a half later he had a simpler interface with no onscreen ads. His viral fix became CleanYourTV, one of the most popular repositories on GitHub. Android runs everything from dishwashers to photo frames to luxury cars, and if there's a hidden API or a firmware file online, an LLM can find, unpack and repackage it."
+                "x": "The authority, whose recent statement falls just short of an outright ban, said that use of the internet-enabled and always-on glasses to record people in public is “almost always prohibited.”"
               },
               {
                 "t": "p",
-                "x": "Camera enthusiasts are using AI to add recording capabilities, higher resolutions and new color profiles; musicians are turning cheap synths like the M-Vave FM-1 into new gear; gamers are adding features to consoles. Game makers are fighting back, and Luke Dicken predicts \"more invasive DRM.\" Users also risk bricking devices."
+                "x": "Critics have dubbed these smart wearables as “pervert glasses” for their propensity to be used to video people without their permission, particularly to harass women. While some glasses have warning lights when users are recording, privacy advocates have argued that these alerts are not clear enough. Some people have even made phone apps capable of detecting nearby smart glasses wearers."
               },
               {
                 "t": "p",
-                "x": "The safer route is ESP32 modules — cheap, hacker-friendly boards behind devices like the M5Stack PaperMono — and Meta's Muse Charm and Muse Gadgets program. Gathin's advice: never give the bots access to something you can't afford to lose, and make lots of backups."
+                "x": "The Dutch data protection authority warned that the glasses also produce wrong results and unsafe results. In one test carried out by the Dutch authority, a pair of unnamed glasses “gave dating advice to an adult who indicated that they are interested in a minor.” The glasses also incorrectly read a medicine label and claimed to have called an ambulance when it had not."
+              },
+              {
+                "t": "p",
+                "x": "The Dutch government’s advice follows a similar move by the Norwegian government, which in September said it was considering a ban on camera-enabled devices."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Vibe coding이\n내 기기로 향한다",
-          "body": "LLMs 덕에 누구나 TV 화면과 카메라 펌웨어까지 손보게 됐다.",
-          "mini_headline": "Vibe coding, 기기로",
+          "headline": "네덜란드 규제 당국\nAI 카메라 안경 경고",
+          "body": "네덜란드 당국이 주변인 사생활과 안전을 들어 AI 카메라 안경 구매를 만류했다.",
+          "mini_headline": "네덜란드 당국 vs AI 안경",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "이미지 출처: David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "이제 대규모 언어 모델이 TV를 새로 디자인하고 카메라를 업그레이드해 준다. 기기를 해킹하고 개조하는 일 자체는 새롭지 않다. 달라진 건 그 일이 쉬워졌다는 점이다. Claude Code나 Codex에 프롬프트만 넣어 자기 하드웨어를 해킹하는 사람들이 생겼다."
+                "x": "네덜란드 데이터보호청이 소비자에게 AI 카메라 안경(AI-enabled)을 사지 말라고 당부했다. 주변 사람의 사생활을 침해하고 착용자 안전까지 위협한다는 이유다."
               },
               {
                 "t": "p",
-                "x": "개발자 Gathin T는 광고로 가득한 Xiaomi Android TV를 Claude Code 프롬프트로 장악했다. 한 시간 반 뒤에는 화면 광고가 사라진 더 단순한 인터페이스가 남았다. 화제가 된 이 해법은 CleanYourTV라는 이름으로 GitHub에서 손꼽히게 인기 있는 저장소가 됐다. 식기세척기와 사진 액자, 고급 자동차까지 온갖 기기가 Android로 돌아간다. 숨겨진 API나 펌웨어 파일이 온라인에 있으면 LLM이 찾아내 풀고 다시 패키징할 수 있다."
+                "x": "데이터보호청은 최근 성명에서 전면 금지 일보 직전까지 갔다. 늘 켜진 채 인터넷에 연결되는 이 안경으로 공공장소에서 사람을 찍는 일은 “거의 언제나 금지된다”고 했다."
               },
               {
                 "t": "p",
-                "x": "카메라 애호가들은 AI로 녹화 기능과 더 높은 해상도, 새 컬러 프로파일을 더한다. 뮤지션들은 M-Vave FM-1 같은 저가 신시사이저를 새 장비로 바꾸고 게이머들은 콘솔에 기능을 붙인다. 게임 제작사들은 반격에 나섰다. Luke Dicken은 “더 침습적인 DRM”이 나올 거라고 내다본다. 기기가 벽돌이 될 위험은 사용자 몫이다."
+                "x": "비판론자들은 이 스마트 웨어러블을 “변태 안경”이라 부른다. 동의 없이 사람을 찍는 데, 특히 여성을 괴롭히는 데 쓰이기 쉬워서다. 녹화 중 경고등이 켜지는 안경도 있지만 개인정보 보호 활동가들은 이 신호가 충분히 눈에 띄지 않는다고 지적해 왔다. 근처의 스마트 안경 착용자를 감지하는 휴대폰 앱을 만든 이들까지 나왔다."
               },
               {
                 "t": "p",
-                "x": "더 안전한 길도 있다. M5Stack PaperMono 같은 기기에 들어가는 값싸고 해커 친화적인 보드 ESP32 모듈, 그리고 Meta의 Muse Charm과 Muse Gadgets 프로그램이다. Gathin은 잃으면 안 되는 것에는 봇이 절대 손대지 못하게 하고 백업을 넉넉히 해 두라고 조언한다."
+                "x": "데이터보호청은 이 안경이 틀리거나 위험한 답을 내놓기도 한다고 경고했다. 당국 테스트에서 이름을 밝히지 않은 한 안경은 “미성년자에게 관심이 있다고 밝힌 성인에게 연애 조언을 했다.” 약 라벨을 잘못 읽었고, 구급차를 부르지 않고도 불렀다고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "네덜란드 정부의 이번 권고는 노르웨이 정부의 비슷한 행보를 뒤따랐다. 노르웨이 정부는 9월 카메라 탑재 기기 금지를 검토 중이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Vibe codingが\nガジェットに迫る",
-          "body": "LLMsがTV画面やカメラのファームウェアを書き換え、ガジェット改造を誰にでも開いた。",
-          "mini_headline": "Vibe coding、ガジェットへ",
+          "headline": "オランダ当局が\nAIカメラ眼鏡に警告",
+          "body": "オランダ当局が、周囲の人のプライバシーと安全を理由にAIカメラ眼鏡を買わないよう求めた。",
+          "mini_headline": "オランダ当局 vs AIグラス",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "画像クレジット: David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルは、いまやTVのデザインを作り直し、カメラをアップグレードしてくれる。ガジェットのハッキングや改造自体は新しくない。新しいのは、それが簡単になったことだ。Claude CodeやCodexにプロンプトを入力するだけで、人々は自分のハードウェアをハックしている。"
+                "x": "オランダのデータ保護当局は、AI-enabled(AI搭載)のカメラ眼鏡を購入しないよう消費者に呼びかけている。周囲にいる人々のプライバシーを損ない、利用者自身の安全も脅かすと警告している。"
               },
               {
                 "t": "p",
-                "x": "開発者のGathin Tは、Claude Codeにプロンプトを入力して広告だらけのXiaomi Android TVを掌握し、一時間半後には画面広告のないシンプルなインターフェースを手にした。話題になった彼の修正はCleanYourTVとなり、GitHubで最も人気のあるリポジトリの一つになった。Androidは食洗機からフォトフレーム、高級車まであらゆるものを動かしており、隠れたAPIやファームウェアファイルがネット上にあれば、LLMがそれを見つけ、展開し、再パッケージできる。"
+                "x": "当局の最新の声明は全面禁止の一歩手前にとどまるものの、インターネットにつながり常時オンのこの眼鏡で公共の場の人々を撮影することは「ほぼ常に禁止される」としている。"
               },
               {
                 "t": "p",
-                "x": "カメラ愛好家はAIで録画機能や高解像度、新しいカラープロファイルを追加し、ミュージシャンはM-Vave FM-1のような安価なシンセを新しい機材に変え、ゲーマーはゲーム機に機能を加えている。ゲームメーカーは対抗しており、Luke Dickenは「より侵襲的なDRM」を予測する。ユーザーにはデバイスを文鎮化させるリスクもある。"
+                "x": "批判する人々は、こうしたスマートウェアラブルを「変態眼鏡」と呼ぶ。本人の許可なく人を撮影すること、とりわけ女性への嫌がらせに使われやすいためだ。録画中に警告ランプが点く製品もあるが、プライバシー擁護派はその表示が十分に分かりやすくないと主張してきた。近くのスマートグラス装着者を検知できるスマホアプリを作った人までいる。"
               },
               {
                 "t": "p",
-                "x": "より安全な道は、M5Stack PaperMonoのようなデバイスに使われる安価でハッカー向きのボードであるESP32モジュールと、MetaのMuse CharmおよびMuse Gadgetsプログラムだ。Gathinの助言は、失っては困るものには決してボットにアクセスさせず、バックアップを多く取ることだ。"
+                "x": "オランダのデータ保護当局は、この眼鏡が誤った結果や危険な結果を出すこともあると警告した。当局が実施したあるテストでは、名称非公表の眼鏡が「未成年者に関心があると示した成人に恋愛のアドバイスをした」。さらに薬のラベルを読み間違え、救急車を呼んでいないのに呼んだと主張した。"
+              },
+              {
+                "t": "p",
+                "x": "オランダ政府の今回の勧告は、ノルウェー政府の同様の動きに続くものだ。ノルウェー政府は9月、カメラ搭載機器の禁止を検討していると明らかにしていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vibe coding\n盯上你的设备",
-          "body": "LLMs如今能重新设计TV界面、升级相机固件，让人人都能改装设备。",
-          "mini_headline": "Vibe coding进军设备",
+          "headline": "荷兰监管机构\n警告AI摄像眼镜",
+          "body": "荷兰隐私监管机构以旁人隐私和安全为由，呼吁消费者不要购买AI摄像眼镜。",
+          "mini_headline": "荷兰监管机构 vs AI眼镜",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "图片来源：David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "大语言模型如今可以替你重新设计TV、升级相机。设备破解与改装并不新鲜，新鲜的是如今这很容易：人们只需向Claude Code或Codex下达提示，就能破解自己的硬件。"
+                "x": "荷兰数据保护局正呼吁消费者不要购买AI-enabled（具备AI功能的）摄像眼镜，警告称这类眼镜会侵犯周围旁人的隐私，并危及使用者自身的安全。"
               },
               {
                 "t": "p",
-                "x": "开发者Gathin T让Claude Code接管了他那台满是广告的Xiaomi Android TV；一个半小时后，他得到了一个没有屏幕广告的更简洁界面。他这个走红的方案成了CleanYourTV，跻身GitHub最受欢迎的代码库之一。从洗碗机、相框到豪华汽车，Android无处不在；只要网上有隐藏的API或固件文件，LLM就能找到、解包并重新打包。"
+                "x": "该机构最近的声明虽未达到全面禁令的程度，但表示，使用这种联网且始终开启的眼镜在公共场所拍摄他人，“几乎总是被禁止的”。"
               },
               {
                 "t": "p",
-                "x": "相机爱好者用AI添加录制功能、更高分辨率和新的色彩配置；音乐人把M-Vave FM-1这样的廉价合成器改造成新设备；玩家则为游戏机增加功能。游戏厂商正在反击，Luke Dicken预测会出现“更具侵入性的DRM”。用户还面临把设备变砖的风险。"
+                "x": "批评者把这类智能穿戴设备称为“变态眼镜”，因为它们容易被用来在未经许可的情况下拍摄他人，尤其是骚扰女性。虽然部分眼镜在录制时会亮起提示灯，但隐私倡导者认为这些提示不够明显。甚至有人开发了能够检测附近智能眼镜佩戴者的手机应用。"
               },
               {
                 "t": "p",
-                "x": "更安全的路线是ESP32模块——M5Stack PaperMono等设备背后的廉价、对黑客友好的板子——以及Meta的Muse Charm和Muse Gadgets计划。Gathin的建议是：绝不要让机器人接触你输不起的东西，并且多做备份。"
+                "x": "荷兰数据保护局警告称，这类眼镜还会给出错误和不安全的结果。在该机构进行的一项测试中，一副未具名的眼镜“向一名表示对未成年人感兴趣的成年人提供了约会建议”。这副眼镜还读错了药品标签，并声称已呼叫救护车，实际上却没有。"
+              },
+              {
+                "t": "p",
+                "x": "荷兰政府的这一建议，是继挪威政府采取类似举措之后作出的。挪威政府9月表示，正在考虑禁止带摄像头的设备。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vibe coding llega\na tus dispositivos",
-          "body": "Con los LLMs, cualquiera puede rediseñar la interfaz de una TV o actualizar el firmware de su cámara.",
-          "mini_headline": "Vibe coding llega a los gadgets",
+          "headline": "Regulador neerlandés advierte\ncontra gafas de cámara con IA",
+          "body": "El regulador neerlandés de privacidad pide no comprar gafas con cámara e IA por la privacidad ajena y la seguridad.",
+          "mini_headline": "Regulador neerlandés vs gafas IA",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "Créditos de imagen: David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Los modelos de lenguaje grandes ya pueden rediseñar tu TV y mejorar tu cámara por ti. Hackear y modificar gadgets no es nuevo; lo nuevo es que ahora es fácil: la gente hackea su hardware con solo pedírselo a Claude Code o Codex."
+                "x": "La Autoridad Neerlandesa de Protección de Datos insta a los consumidores a no comprar gafas con cámara con IA (AI-enabled), y advierte que vulneran la privacidad de las personas cercanas y ponen en riesgo la seguridad de sus usuarios."
               },
               {
                 "t": "p",
-                "x": "El desarrollador Gathin T pidió a Claude Code que tomara el control de su Xiaomi Android TV, plagada de anuncios; una hora y media después tenía una interfaz más simple y sin anuncios en pantalla. Su solución viral se convirtió en CleanYourTV, uno de los repositorios más populares de GitHub. Android funciona en todo, desde lavavajillas y marcos de fotos hasta coches de lujo, y si hay una API oculta o un archivo de firmware en línea, un LLM puede encontrarlo, desempaquetarlo y volver a empaquetarlo."
+                "x": "La autoridad, cuya reciente declaración se queda a las puertas de una prohibición total, afirmó que usar estas gafas conectadas a internet y siempre encendidas para grabar a personas en público está “casi siempre prohibido”."
               },
               {
                 "t": "p",
-                "x": "Los aficionados a la fotografía usan AI para añadir funciones de grabación, resoluciones más altas y nuevos perfiles de color; los músicos convierten sintetizadores baratos como el M-Vave FM-1 en equipos nuevos; los jugadores añaden funciones a sus consolas. Los fabricantes de videojuegos contraatacan, y Luke Dicken prevé \"un DRM más invasivo\". Los usuarios también se arriesgan a inutilizar sus dispositivos."
+                "x": "Los críticos han apodado a estos dispositivos “gafas de pervertido” por la facilidad con que se usan para grabar a personas sin su permiso, en particular para acosar a mujeres. Aunque algunas gafas tienen luces de aviso cuando graban, los defensores de la privacidad sostienen que esas alertas no son lo bastante claras. Algunas personas incluso han creado aplicaciones móviles capaces de detectar a usuarios de gafas inteligentes cercanos."
               },
               {
                 "t": "p",
-                "x": "La vía más segura son los módulos ESP32 —placas baratas y aptas para hackers que hay detrás de dispositivos como el M5Stack PaperMono— y el programa Muse Charm y Muse Gadgets de Meta. El consejo de Gathin: nunca des a los bots acceso a algo que no puedas permitirte perder, y haz muchas copias de seguridad."
+                "x": "La autoridad neerlandesa advirtió que las gafas también dan resultados erróneos e inseguros. En una prueba realizada por el organismo, unas gafas sin nombre “dieron consejos para citas a un adulto que indicó estar interesado en un menor”. Las gafas también leyeron mal la etiqueta de un medicamento y afirmaron haber llamado a una ambulancia sin haberlo hecho."
+              },
+              {
+                "t": "p",
+                "x": "El consejo del Gobierno neerlandés sigue a una medida similar del Gobierno noruego, que en septiembre dijo estar estudiando prohibir los dispositivos con cámara."
               }
             ]
           }
@@ -193,121 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Vibe coding이\n내 기기로 향한다",
-          "body": "LLMs 덕에 누구나 TV 화면과 카메라 펌웨어까지 손보게 됐다.",
-          "mini_headline": "Vibe coding, 기기로",
+          "headline": "네덜란드 규제 당국\nAI 카메라 안경 경고",
+          "body": "네덜란드 당국이 주변인 사생활과 안전을 들어 AI 카메라 안경 구매를 만류했다.",
+          "mini_headline": "네덜란드 당국 vs AI 안경",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "이미지 출처: David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "이제 대규모 언어 모델이 TV를 새로 디자인하고 카메라를 업그레이드해 준다. 기기 해킹과 개조 자체는 새로운 일이 아니다. 새로운 점은 그것이 쉬워졌다는 것이다. 사람들은 Claude Code나 Codex에 프롬프트를 입력하는 것만으로 자기 하드웨어를 해킹하고 있다."
+                "x": "네덜란드 데이터보호청은 소비자들에게 AI 카메라 안경(AI-enabled)을 사지 말라고 촉구했다. 주변 사람들의 사생활을 침해하고 착용자의 안전까지 위협한다는 경고다."
               },
               {
                 "t": "p",
-                "x": "개발자 Gathin T는 Claude Code에 프롬프트를 입력해 광고로 가득한 Xiaomi Android TV를 장악했고, 한 시간 반 뒤 화면 광고 없는 더 단순한 인터페이스를 얻었다. 화제가 된 그의 해법은 GitHub에서 가장 인기 있는 저장소 중 하나인 CleanYourTV가 됐다. Android는 식기세척기부터 사진 액자, 고급 자동차까지 온갖 기기를 구동하며, 숨겨진 API나 펌웨어 파일이 온라인에 있다면 LLM이 이를 찾아 풀고 다시 패키징할 수 있다."
+                "x": "데이터보호청은 최근 성명에서 전면 금지 직전까지 나아갔다. 인터넷에 연결된 채 늘 켜져 있는 이 안경으로 공공장소에서 사람을 촬영하는 행위는 “거의 언제나 금지된다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "카메라 애호가들은 AI로 녹화 기능과 더 높은 해상도, 새 컬러 프로파일을 더하고, 뮤지션들은 M-Vave FM-1 같은 저가 신시사이저를 새 장비로 바꾸며, 게이머들은 콘솔에 기능을 추가한다. 게임 제작사들은 반격에 나섰고, Luke Dicken은 “더 침습적인 DRM”을 예상한다. 사용자는 기기가 벽돌이 될 위험도 감수해야 한다."
+                "x": "비판론자들은 이 스마트 웨어러블을 “변태 안경”이라 부른다. 동의 없이 사람을 촬영하는 데, 특히 여성을 괴롭히는 데 쓰이기 쉽다는 이유에서다. 일부 안경은 녹화 중에 경고등이 켜지지만, 개인정보 보호 활동가들은 이 신호가 충분히 분명하지 않다고 주장해 왔다. 주변의 스마트 안경 착용자를 감지하는 휴대폰 앱을 만든 사람들까지 있다."
               },
               {
                 "t": "p",
-                "x": "더 안전한 길은 M5Stack PaperMono 같은 기기에 쓰이는 저렴하고 해커 친화적인 보드인 ESP32 모듈, 그리고 Meta의 Muse Charm과 Muse Gadgets 프로그램이다. Gathin의 조언은 잃어서는 안 될 것에는 절대 봇의 접근을 허락하지 말고, 백업을 많이 해 두라는 것이다."
+                "x": "네덜란드 데이터보호청은 이 안경이 틀리거나 위험한 결과를 내놓기도 한다고 경고했다. 당국이 진행한 한 테스트에서 이름을 밝히지 않은 한 안경은 “미성년자에게 관심이 있다고 밝힌 성인에게 연애 조언을 했다.” 이 안경은 약 라벨도 잘못 읽었고, 구급차를 부르지 않았는데도 불렀다고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "네덜란드 정부의 이번 권고는 노르웨이 정부의 비슷한 움직임에 뒤이은 것이다. 노르웨이 정부는 9월 카메라 탑재 기기 금지를 검토하고 있다고 밝힌 바 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Vibe codingが\nガジェットに迫る",
-          "body": "LLMsがTV画面やカメラのファームウェアを書き換え、ガジェット改造を誰にでも開いた。",
-          "mini_headline": "Vibe coding、ガジェットへ",
+          "headline": "オランダ当局が\nAIカメラ眼鏡に警告",
+          "body": "オランダ当局が、周囲の人のプライバシーと安全を理由にAIカメラ眼鏡を買わないよう求めた。",
+          "mini_headline": "オランダ当局 vs AIグラス",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "画像クレジット: David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルは、いまやTVのデザインを作り直し、カメラをアップグレードしてくれる。ガジェットのハッキングや改造自体は新しくない。新しいのは、それが簡単になったことだ。Claude CodeやCodexにプロンプトを入力するだけで、人々は自分のハードウェアをハックしている。"
+                "x": "オランダのデータ保護当局は、AI-enabled(AI搭載)のカメラ眼鏡を購入しないよう消費者に呼びかけている。周囲にいる人々のプライバシーを損ない、利用者自身の安全も脅かすと警告している。"
               },
               {
                 "t": "p",
-                "x": "開発者のGathin Tは、Claude Codeにプロンプトを入力して広告だらけのXiaomi Android TVを掌握し、一時間半後には画面広告のないシンプルなインターフェースを手にした。話題になった彼の修正はCleanYourTVとなり、GitHubで最も人気のあるリポジトリの一つになった。Androidは食洗機からフォトフレーム、高級車まであらゆるものを動かしており、隠れたAPIやファームウェアファイルがネット上にあれば、LLMがそれを見つけ、展開し、再パッケージできる。"
+                "x": "当局の最新の声明は全面禁止の一歩手前にとどまるものの、インターネットにつながり常時オンのこの眼鏡で公共の場の人々を撮影することは「ほぼ常に禁止される」としている。"
               },
               {
                 "t": "p",
-                "x": "カメラ愛好家はAIで録画機能や高解像度、新しいカラープロファイルを追加し、ミュージシャンはM-Vave FM-1のような安価なシンセを新しい機材に変え、ゲーマーはゲーム機に機能を加えている。ゲームメーカーは対抗しており、Luke Dickenは「より侵襲的なDRM」を予測する。ユーザーにはデバイスを文鎮化させるリスクもある。"
+                "x": "批判する人々は、こうしたスマートウェアラブルを「変態眼鏡」と呼ぶ。本人の許可なく人を撮影すること、とりわけ女性への嫌がらせに使われやすいためだ。録画中に警告ランプが点く製品もあるが、プライバシー擁護派はその表示が十分に分かりやすくないと主張してきた。近くのスマートグラス装着者を検知できるスマホアプリを作った人までいる。"
               },
               {
                 "t": "p",
-                "x": "より安全な道は、M5Stack PaperMonoのようなデバイスに使われる安価でハッカー向きのボードであるESP32モジュールと、MetaのMuse CharmおよびMuse Gadgetsプログラムだ。Gathinの助言は、失っては困るものには決してボットにアクセスさせず、バックアップを多く取ることだ。"
+                "x": "オランダのデータ保護当局は、この眼鏡が誤った結果や危険な結果を出すこともあると警告した。当局が実施したあるテストでは、名称非公表の眼鏡が「未成年者に関心があると示した成人に恋愛のアドバイスをした」。さらに薬のラベルを読み間違え、救急車を呼んでいないのに呼んだと主張した。"
+              },
+              {
+                "t": "p",
+                "x": "オランダ政府の今回の勧告は、ノルウェー政府の同様の動きに続くものだ。ノルウェー政府は9月、カメラ搭載機器の禁止を検討していると明らかにしていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Vibe coding\n盯上你的设备",
-          "body": "LLMs如今能重新设计TV界面、升级相机固件，让人人都能改装设备。",
-          "mini_headline": "Vibe coding进军设备",
+          "headline": "荷兰监管机构\n警告AI摄像眼镜",
+          "body": "荷兰隐私监管机构以旁人隐私和安全为由，呼吁消费者不要购买AI摄像眼镜。",
+          "mini_headline": "荷兰监管机构 vs AI眼镜",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "图片来源：David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "大语言模型如今可以替你重新设计TV、升级相机。设备破解与改装并不新鲜，新鲜的是如今这很容易：人们只需向Claude Code或Codex下达提示，就能破解自己的硬件。"
+                "x": "荷兰数据保护局正呼吁消费者不要购买AI-enabled（具备AI功能的）摄像眼镜，警告称这类眼镜会侵犯周围旁人的隐私，并危及使用者自身的安全。"
               },
               {
                 "t": "p",
-                "x": "开发者Gathin T让Claude Code接管了他那台满是广告的Xiaomi Android TV；一个半小时后，他得到了一个没有屏幕广告的更简洁界面。他这个走红的方案成了CleanYourTV，跻身GitHub最受欢迎的代码库之一。从洗碗机、相框到豪华汽车，Android无处不在；只要网上有隐藏的API或固件文件，LLM就能找到、解包并重新打包。"
+                "x": "该机构最近的声明虽未达到全面禁令的程度，但表示，使用这种联网且始终开启的眼镜在公共场所拍摄他人，“几乎总是被禁止的”。"
               },
               {
                 "t": "p",
-                "x": "相机爱好者用AI添加录制功能、更高分辨率和新的色彩配置；音乐人把M-Vave FM-1这样的廉价合成器改造成新设备；玩家则为游戏机增加功能。游戏厂商正在反击，Luke Dicken预测会出现“更具侵入性的DRM”。用户还面临把设备变砖的风险。"
+                "x": "批评者把这类智能穿戴设备称为“变态眼镜”，因为它们容易被用来在未经许可的情况下拍摄他人，尤其是骚扰女性。虽然部分眼镜在录制时会亮起提示灯，但隐私倡导者认为这些提示不够明显。甚至有人开发了能够检测附近智能眼镜佩戴者的手机应用。"
               },
               {
                 "t": "p",
-                "x": "更安全的路线是ESP32模块——M5Stack PaperMono等设备背后的廉价、对黑客友好的板子——以及Meta的Muse Charm和Muse Gadgets计划。Gathin的建议是：绝不要让机器人接触你输不起的东西，并且多做备份。"
+                "x": "荷兰数据保护局警告称，这类眼镜还会给出错误和不安全的结果。在该机构进行的一项测试中，一副未具名的眼镜“向一名表示对未成年人感兴趣的成年人提供了约会建议”。这副眼镜还读错了药品标签，并声称已呼叫救护车，实际上却没有。"
+              },
+              {
+                "t": "p",
+                "x": "荷兰政府的这一建议，是继挪威政府采取类似举措之后作出的。挪威政府9月表示，正在考虑禁止带摄像头的设备。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vibe coding llega\na tus dispositivos",
-          "body": "Con los LLMs, cualquiera puede rediseñar la interfaz de una TV o actualizar el firmware de su cámara.",
-          "mini_headline": "Vibe coding llega a los gadgets",
+          "headline": "Regulador neerlandés advierte\ncontra gafas de cámara con IA",
+          "body": "El regulador neerlandés de privacidad pide no comprar gafas con cámara e IA por la privacidad ajena y la seguridad.",
+          "mini_headline": "Regulador neerlandés vs gafas IA",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+                "cap": "Créditos de imagen: David Paul Morris/Bloomberg / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Los modelos de lenguaje grandes ya pueden rediseñar tu TV y mejorar tu cámara por ti. Hackear y modificar gadgets no es nuevo; lo nuevo es que ahora es fácil: la gente hackea su hardware con solo pedírselo a Claude Code o Codex."
+                "x": "La Autoridad Neerlandesa de Protección de Datos insta a los consumidores a no comprar gafas con cámara con IA (AI-enabled), y advierte que vulneran la privacidad de las personas cercanas y ponen en riesgo la seguridad de sus usuarios."
               },
               {
                 "t": "p",
-                "x": "El desarrollador Gathin T pidió a Claude Code que tomara el control de su Xiaomi Android TV, plagada de anuncios; una hora y media después tenía una interfaz más simple y sin anuncios en pantalla. Su solución viral se convirtió en CleanYourTV, uno de los repositorios más populares de GitHub. Android funciona en todo, desde lavavajillas y marcos de fotos hasta coches de lujo, y si hay una API oculta o un archivo de firmware en línea, un LLM puede encontrarlo, desempaquetarlo y volver a empaquetarlo."
+                "x": "La autoridad, cuya reciente declaración se queda a las puertas de una prohibición total, afirmó que usar estas gafas conectadas a internet y siempre encendidas para grabar a personas en público está “casi siempre prohibido”."
               },
               {
                 "t": "p",
-                "x": "Los aficionados a la fotografía usan AI para añadir funciones de grabación, resoluciones más altas y nuevos perfiles de color; los músicos convierten sintetizadores baratos como el M-Vave FM-1 en equipos nuevos; los jugadores añaden funciones a sus consolas. Los fabricantes de videojuegos contraatacan, y Luke Dicken prevé \"un DRM más invasivo\". Los usuarios también se arriesgan a inutilizar sus dispositivos."
+                "x": "Los críticos han apodado a estos dispositivos “gafas de pervertido” por la facilidad con que se usan para grabar a personas sin su permiso, en particular para acosar a mujeres. Aunque algunas gafas tienen luces de aviso cuando graban, los defensores de la privacidad sostienen que esas alertas no son lo bastante claras. Algunas personas incluso han creado aplicaciones móviles capaces de detectar a usuarios de gafas inteligentes cercanos."
               },
               {
                 "t": "p",
-                "x": "La vía más segura son los módulos ESP32 —placas baratas y aptas para hackers que hay detrás de dispositivos como el M5Stack PaperMono— y el programa Muse Charm y Muse Gadgets de Meta. El consejo de Gathin: nunca des a los bots acceso a algo que no puedas permitirte perder, y haz muchas copias de seguridad."
+                "x": "La autoridad neerlandesa advirtió que las gafas también dan resultados erróneos e inseguros. En una prueba realizada por el organismo, unas gafas sin nombre “dieron consejos para citas a un adulto que indicó estar interesado en un menor”. Las gafas también leyeron mal la etiqueta de un medicamento y afirmaron haber llamado a una ambulancia sin haberlo hecho."
+              },
+              {
+                "t": "p",
+                "x": "El consejo del Gobierno neerlandés sigue a una medida similar del Gobierno noruego, que en septiembre dijo estar estudiando prohibir los dispositivos con cámara."
               }
             ]
           }
@@ -315,15 +365,15 @@
       }
     },
     {
-      "id": "genspark-secondbrain-voicepad",
+      "id": "paradromics-nvidia-bci",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Genspark 받아쓰기\nAI 패드 VoicePad",
-      "body": "$169 패드는 키 다섯 개와 AI 받아쓰기를 갖추고 오프라인 녹음도 한다.",
-      "mini_headline": "Genspark VoicePad, 책상 위로",
+      "headline": "Paradromics,\nNvidia로 뇌신호 처리",
+      "body": "Paradromics가 Nvidia 하드웨어·소프트웨어로 뇌 데이터를 처리한다.",
+      "mini_headline": "Nvidia가 Paradromics BCI 지원",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/SecondBrain-VoicePad-Compact-AI-controls-and-dictation-for-your-desk.1456759.0.html",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -331,185 +381,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-            "cap": "SecondBrain VoicePad는 키 다섯 개로 책상 위 일을 더 많이 처리하게 해 주려는 기기다."
+            "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
           },
           {
             "t": "p",
-            "x": "Genspark가 Windows PCs와 Macs용 입력 장치 SecondBrain VoicePad를 공개했다. 물리 매크로 키에 음성 제어를 묶었고 거의 모든 AI 도구와 앱에서 쓰도록 만들었다. 85-gram 알루미늄 기기로 2026년 11월 24일 Kickstarter에 올라오며 첫 제품은 2027년 1월에 나온다."
+            "x": "미시간에 사는 Mary는 운동신경질환을 앓지만 다임 동전만 한 Paradromics 임플란트로 생각을 합성 음성으로 옮긴다. 지금은 음성 해독에 콘센트에 꽂힌 전자 장비를 가득 실은 카트가 필요하다. 한 해 뒤면 Nvidia 기술 덕분에 이 카트가 휠체어에 올려둘 만한 작은 상자로 줄어든다."
           },
           {
             "t": "p",
-            "x": "프로그래밍할 수 있는 키 다섯 개에는 CHERRY MX Ultra Low Profile 스위치를 달았다. Bluetooth나 USB-C로 연결하고 약 20시간 쓸 수 있다. 음성은 노이즈 캔슬링 마이크 두 개가 받는다. 맨 아래 키를 길게 누르면 말한 내용이 커서 자리에 글자로 찍히고 군말은 빠진다. 두 번 탭하면 컴퓨터와 연결되지 않은 상태에서도 대화를 내장 메모리에 녹음한다. 나중에 소프트웨어가 녹음을 전사해 요약과 다음 할 일을 뽑고, 50개가 넘는 언어를 영어로 옮긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-            "cap": "키 다섯 개는 저마다 원하는 작업에 맞춰 설정한다."
+            "x": "오스틴에 본사를 둔 Paradromics는 Nvidia의 하드웨어와 소프트웨어로 뇌 데이터를 처리하려고 이 AI 칩 기업과 손잡았다고 발표했다. 임플란트에 심긴 전극은 400개가 넘고, 컴퓨터는 AI로 환자가 하려는 말을 추론한다. Matt Angle CEO는 뇌-컴퓨터 인터페이스를 엣지 컴퓨팅의 궁극적 사례라고 부른다."
           },
           {
             "t": "p",
-            "x": "키마다 앱이나 단축키, ChatGPT, Claude, Gemini, Grok, Notion 같은 AI 도구를 새로 지정할 수 있다. 정가는 $169다. Kickstarter 후원자는 $119~$149를 내고, 미리 예약하면 $99에 살 수 있다."
+            "x": "Paradromics는 저전력 컴퓨팅 모듈인 Nvidia의 Jetson으로 사용자 곁의 작은 기기에서 음성을 해독하고 Nvidia의 AI 센서 처리 소프트웨어 Holoscan으로 카메라·마이크와 지연 적은 상호작용을 구현한다. Nvidia의 파운데이션 모델도 통합할 수 있다. 모델을 로컬에서 돌리니 인터넷 연결도 필요 없다. Synchron과도 협력하는 Nvidia는 이번 파트너십으로 뇌 데이터에 접근하지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Genspark's VoicePad puts AI\ndictation on your desk",
-          "body": "The $169 pad pairs five programmable keys with AI dictation and transcription, and records to onboard memory offline.",
-          "mini_headline": "Genspark VoicePad for desks",
+          "headline": "Paradromics turns to Nvidia\nto process brain data",
+          "body": "Brain-interface maker Paradromics will process neural data on Nvidia's computing hardware and software.",
+          "mini_headline": "Nvidia powers Paradromics BCI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "The SecondBrain VoicePad aims to help you get more done at your desk with just five keys."
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Genspark has unveiled the SecondBrain VoicePad, an input device for Windows PCs and Macs that combines physical macro keys with voice controls and is designed to work with nearly any AI tool or app. The 85-gram aluminum gadget comes to Kickstarter on November 24, 2026, with first units expected in January 2027."
+                "x": "A Michigan woman named Mary has a Paradromics implant roughly the size of a dime that lets her, despite motor neuron disease, express her thoughts through a synthesized voice. The speech decoding currently requires a cart full of electronics plugged into an outlet; a year from now, thanks to Nvidia technology, that cart will become a small box that can sit on her wheelchair."
               },
               {
                 "t": "p",
-                "x": "Its five programmable keys use CHERRY MX Ultra Low Profile switches; it connects via Bluetooth or USB-C and lasts around 20 hours. Two noise-canceling microphones capture voice: press and hold the bottom key to turn speech into text at the cursor, with filler words removed. A double tap records conversations to built-in memory even when not connected to a computer; software then transcribes them, generates a summary and next steps, and translates from more than 50 languages into English."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "Each of the five keys can be customized to suit your work."
+                "x": "Austin-based Paradromics announced a partnership with the AI chipmaker to use Nvidia’s hardware and software to process its brain data. The implant uses more than 400 embedded electrodes, and a computer uses AI to infer what she is trying to say. CEO Matt Angle calls brain-computer interfaces the ultimate case for edge computing."
               },
               {
                 "t": "p",
-                "x": "Keys can be reassigned to apps, shortcuts or AI tools such as ChatGPT, Claude, Gemini, Grok or Notion. The regular price is $169; Kickstarter backers pay $119 to $149, and a reservation secures $99."
+                "x": "Paradromics will use Nvidia’s Jetson, a low-powered computing module, to do speech decoding in a small device close to the user, and Holoscan, Nvidia’s AI sensor processing software, for low-lag interaction alongside cameras and microphones. It will also be able to integrate Nvidia’s foundation models; running them locally means users won’t need an internet connection. Nvidia, which also works with Synchron, will not have access to brain data through these partnerships."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Genspark 받아쓰기\nAI 패드 VoicePad",
-          "body": "$169 패드는 키 다섯 개와 AI 받아쓰기를 갖추고 오프라인 녹음도 한다.",
-          "mini_headline": "Genspark VoicePad, 책상 위로",
+          "headline": "Paradromics,\nNvidia로 뇌신호 처리",
+          "body": "Paradromics가 Nvidia 하드웨어·소프트웨어로 뇌 데이터를 처리한다.",
+          "mini_headline": "Nvidia가 Paradromics BCI 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "SecondBrain VoicePad는 키 다섯 개로 책상 위 일을 더 많이 처리하게 해 주려는 기기다."
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Genspark가 Windows PCs와 Macs용 입력 장치 SecondBrain VoicePad를 공개했다. 물리 매크로 키에 음성 제어를 묶었고 거의 모든 AI 도구와 앱에서 쓰도록 만들었다. 85-gram 알루미늄 기기로 2026년 11월 24일 Kickstarter에 올라오며 첫 제품은 2027년 1월에 나온다."
+                "x": "미시간에 사는 Mary는 운동신경질환을 앓지만 다임 동전만 한 Paradromics 임플란트로 생각을 합성 음성으로 옮긴다. 지금은 음성 해독에 콘센트에 꽂힌 전자 장비를 가득 실은 카트가 필요하다. 한 해 뒤면 Nvidia 기술 덕분에 이 카트가 휠체어에 올려둘 만한 작은 상자로 줄어든다."
               },
               {
                 "t": "p",
-                "x": "프로그래밍할 수 있는 키 다섯 개에는 CHERRY MX Ultra Low Profile 스위치를 달았다. Bluetooth나 USB-C로 연결하고 약 20시간 쓸 수 있다. 음성은 노이즈 캔슬링 마이크 두 개가 받는다. 맨 아래 키를 길게 누르면 말한 내용이 커서 자리에 글자로 찍히고 군말은 빠진다. 두 번 탭하면 컴퓨터와 연결되지 않은 상태에서도 대화를 내장 메모리에 녹음한다. 나중에 소프트웨어가 녹음을 전사해 요약과 다음 할 일을 뽑고, 50개가 넘는 언어를 영어로 옮긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "키 다섯 개는 저마다 원하는 작업에 맞춰 설정한다."
+                "x": "오스틴에 본사를 둔 Paradromics는 Nvidia의 하드웨어와 소프트웨어로 뇌 데이터를 처리하려고 이 AI 칩 기업과 손잡았다고 발표했다. 임플란트에 심긴 전극은 400개가 넘고, 컴퓨터는 AI로 환자가 하려는 말을 추론한다. Matt Angle CEO는 뇌-컴퓨터 인터페이스를 엣지 컴퓨팅의 궁극적 사례라고 부른다."
               },
               {
                 "t": "p",
-                "x": "키마다 앱이나 단축키, ChatGPT, Claude, Gemini, Grok, Notion 같은 AI 도구를 새로 지정할 수 있다. 정가는 $169다. Kickstarter 후원자는 $119~$149를 내고, 미리 예약하면 $99에 살 수 있다."
+                "x": "Paradromics는 저전력 컴퓨팅 모듈인 Nvidia의 Jetson으로 사용자 곁의 작은 기기에서 음성을 해독하고 Nvidia의 AI 센서 처리 소프트웨어 Holoscan으로 카메라·마이크와 지연 적은 상호작용을 구현한다. Nvidia의 파운데이션 모델도 통합할 수 있다. 모델을 로컬에서 돌리니 인터넷 연결도 필요 없다. Synchron과도 협력하는 Nvidia는 이번 파트너십으로 뇌 데이터에 접근하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Genspark、机上に\nAI音声入力VoicePad",
-          "body": "$169のパッドは設定自在な五つのキーとAI音声入力を備え、オフラインでも録音できる。",
-          "mini_headline": "Genspark VoicePadを机上に",
+          "headline": "Paradromics、\n脳データ処理にNvidia",
+          "body": "BCI企業Paradromicsは、Nvidiaのハードとソフトで神経データを処理する。",
+          "mini_headline": "NvidiaがParadromicsのBCIを支える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "SecondBrain VoicePadは、わずか五つのキーで机上の作業をはかどらせることを狙う。"
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Gensparkは、Windows PCsとMacs向けの入力デバイスSecondBrain VoicePadを発表した。物理マクロキーと音声操作を組み合わせ、ほぼあらゆるAIツールやアプリで使えるよう設計されている。重さ85-gramのアルミ製ガジェットで、2026年11月24日にKickstarterに登場し、最初の製品は2027年1月に届く見込みだ。"
+                "x": "ミシガン州に住む女性Maryさんは運動ニューロン疾患を抱えながらも、ダイム硬貨ほどの大きさのParadromicsのインプラントによって、合成音声で考えを表現できる。現在、音声のデコードにはコンセントにつながった電子機器満載のカートが必要だが、一年後にはNvidiaの技術によって、そのカートは車椅子に載せられる小さな箱になる。"
               },
               {
                 "t": "p",
-                "x": "五つのプログラム可能なキーにはCHERRY MX Ultra Low Profileスイッチを採用し、BluetoothまたはUSB-Cで接続、駆動時間は約20時間だ。二つのノイズキャンセリングマイクが音声を拾う。一番下のキーを長押しすると、話した内容がカーソル位置にテキスト化され、フィラーは除去される。ダブルタップすれば、コンピューターにつながっていなくても会話を内蔵メモリーに録音でき、その後ソフトウェアが文字起こしし、要約と次のステップを生成し、50以上の言語から英語に翻訳する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "五つのキーはそれぞれ作業に合わせてカスタマイズできる。"
+                "x": "オースティンに拠点を置くParadromicsは、Nvidiaのハードウェアとソフトウェアで脳データを処理するため、このAIチップメーカーとの提携を発表した。インプラントには400個以上の電極が埋め込まれており、コンピューターがAIを使って彼女が言おうとしていることを推定する。CEOのMatt Angleは、ブレイン・コンピューター・インターフェースをエッジコンピューティングの究極の事例と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "キーはアプリやショートカット、ChatGPT、Claude、Gemini、Grok、NotionなどのAIツールに割り当て直せる。通常価格は$169で、Kickstarterの支援者は$119〜$149、予約すれば$99で確保できる。"
+                "x": "Paradromicsは、低消費電力のコンピューティングモジュールであるNvidiaのJetsonを使ってユーザーの近くにある小型デバイスで音声デコードを行い、NvidiaのAIセンサー処理ソフトウェアHoloscanを使ってカメラやマイクと連携した低遅延のやり取りを実現する。Nvidiaの基盤モデルも統合でき、ローカルで動かすためユーザーはインターネット接続を必要としない。Synchronとも協業するNvidiaは、これらの提携を通じて脳データにアクセスすることはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Genspark推出\nAI听写VoicePad",
-          "body": "这款$169 设备配备五个可编程按键、AI听写与转录，离线也能录音至内置存储。",
-          "mini_headline": "桌面上的Genspark VoicePad",
+          "headline": "Paradromics\n借Nvidia处理脑数据",
+          "body": "脑机接口公司Paradromics将用Nvidia的计算硬件和软件处理神经数据。",
+          "mini_headline": "Nvidia助力Paradromics BCI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "SecondBrain VoicePad希望只用五个键，就帮你在桌前完成更多工作。"
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Genspark发布了SecondBrain VoicePad，这是一款面向Windows PCs和Macs的输入设备，将实体宏按键与语音控制结合，设计上几乎可配合任何AI工具或应用使用。这款重85-gram的铝制设备将于2026年11月24日登陆Kickstarter，首批产品预计于2027年1月交付。"
+                "x": "密歇根州一位名叫Mary的女性植入了一枚约一角硬币大小的Paradromics植入物，尽管患有运动神经元病，她仍能通过合成语音表达想法。目前，语音解码需要一整车插着电源的电子设备；一年后，借助Nvidia的技术，这辆推车将变成一个可以放在她轮椅上的小盒子。"
               },
               {
                 "t": "p",
-                "x": "它的五个可编程按键采用CHERRY MX Ultra Low Profile轴体，可通过Bluetooth或USB-C连接，续航约20小时。两个降噪麦克风负责收音：按住最下方的按键，语音就会转成文字输入到光标处，并去除语气词。双击则可在未连接电脑时把对话录到内置存储中；随后软件会进行转录，生成摘要和后续步骤，并把50多种语言翻译成英语。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "五个按键都可以按你的工作需要自定义。"
+                "x": "总部位于奥斯汀的Paradromics宣布与这家AI芯片制造商合作，使用Nvidia的硬件和软件处理其脑数据。该植入物内嵌400多个电极，计算机借助AI推断她想说的话。CEO Matt Angle称，脑机接口是边缘计算的终极用例。"
               },
               {
                 "t": "p",
-                "x": "按键可重新分配给应用、快捷方式，或ChatGPT、Claude、Gemini、Grok、Notion等AI工具。常规售价为$169；Kickstarter支持者需支付$119至$149，预订可锁定$99的价格。"
+                "x": "Paradromics将使用Nvidia的低功耗计算模块Jetson，在靠近用户的小型设备上完成语音解码，并使用Nvidia的AI传感器处理软件Holoscan，与摄像头和麦克风配合实现低延迟交互。它还能集成Nvidia的基础模型；由于在本地运行，用户无需联网。Nvidia也与Synchron合作，但不会通过这些合作获取脑数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El VoicePad de Genspark lleva\nel dictado con AI al escritorio",
-          "body": "El panel de $169 une cinco teclas programables, dictado y transcripción con AI, y graba sin conexión.",
-          "mini_headline": "Genspark VoicePad para el escritorio",
+          "headline": "Paradromics recurre a Nvidia\npara procesar datos cerebrales",
+          "body": "Paradromics, fabricante de interfaces cerebrales, procesará datos neuronales con hardware y software de Nvidia.",
+          "mini_headline": "Nvidia impulsa la BCI de Paradromics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "El SecondBrain VoicePad busca ayudarte a rendir más en tu escritorio con solo cinco teclas."
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Genspark ha presentado el SecondBrain VoicePad, un dispositivo de entrada para Windows PCs y Macs que combina teclas macro físicas con control por voz y está diseñado para funcionar con casi cualquier herramienta o app de AI. El aparato de aluminio de 85-gram llega a Kickstarter el 24 de noviembre de 2026, y las primeras unidades se esperan en enero de 2027."
+                "x": "Una mujer de Michigan llamada Mary tiene un implante de Paradromics del tamaño aproximado de una moneda de diez centavos que, pese a su enfermedad de la motoneurona, le permite expresar sus pensamientos mediante una voz sintetizada. Hoy la decodificación del habla requiere un carrito lleno de electrónica enchufado a la corriente; dentro de un año, gracias a la tecnología de Nvidia, ese carrito será una pequeña caja que podrá ir en su silla de ruedas."
               },
               {
                 "t": "p",
-                "x": "Sus cinco teclas programables usan interruptores CHERRY MX Ultra Low Profile; se conecta por Bluetooth o USB-C y su batería dura unas 20 horas. Dos micrófonos con cancelación de ruido captan la voz: al mantener pulsada la tecla inferior, el habla se convierte en texto en el cursor, sin muletillas. Con un doble toque graba conversaciones en la memoria integrada incluso sin conexión a un ordenador; después, el software las transcribe, genera un resumen y próximos pasos, y traduce de más de 50 idiomas al inglés."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "Cada una de las cinco teclas se puede personalizar según tu trabajo."
+                "x": "Paradromics, con sede en Austin, anunció una alianza con el fabricante de chips de IA para usar el hardware y el software de Nvidia en el procesamiento de sus datos cerebrales. El implante usa más de 400 electrodos integrados, y un equipo informático usa IA para inferir lo que ella intenta decir. El CEO, Matt Angle, considera las interfaces cerebro-computadora el caso definitivo de la computación en el borde."
               },
               {
                 "t": "p",
-                "x": "Las teclas pueden reasignarse a apps, atajos o herramientas de AI como ChatGPT, Claude, Gemini, Grok o Notion. El precio normal es de $169; los mecenas de Kickstarter pagan entre $119 y $149, y una reserva asegura un precio de $99."
+                "x": "Paradromics usará Jetson, el módulo de cómputo de bajo consumo de Nvidia, para decodificar el habla en un dispositivo pequeño cerca del usuario, y Holoscan, el software de procesamiento de sensores con IA de Nvidia, para una interacción de baja latencia junto con cámaras y micrófonos. También podrá integrar los modelos fundacionales de Nvidia; al ejecutarlos localmente, los usuarios no necesitarán conexión a internet. Nvidia, que también trabaja con Synchron, no tendrá acceso a los datos cerebrales a través de estas alianzas."
               }
             ]
           }
@@ -517,129 +531,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Genspark 받아쓰기\nAI 패드 VoicePad",
-          "body": "$169 패드는 키 다섯 개와 AI 받아쓰기를 갖추고 오프라인 녹음도 한다.",
-          "mini_headline": "Genspark VoicePad, 책상 위로",
+          "headline": "Paradromics,\nNvidia로 뇌신호 처리",
+          "body": "Paradromics가 Nvidia 하드웨어·소프트웨어로 뇌 데이터를 처리한다.",
+          "mini_headline": "Nvidia가 Paradromics BCI 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "SecondBrain VoicePad는 키 다섯 개만으로 책상 위 작업을 더 많이 해내도록 돕는 것을 목표로 한다."
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Genspark가 Windows PCs와 Macs에서 쓰는 입력 장치 SecondBrain VoicePad를 공개했다. 물리 매크로 키와 음성 제어를 결합했고, 거의 모든 AI 도구나 앱과 함께 쓰도록 설계됐다. 무게 85-gram의 알루미늄 기기로 2026년 11월 24일 Kickstarter에 올라오며, 첫 제품은 2027년 1월 나올 예정이다."
+                "x": "미시간에 사는 Mary는 운동신경질환을 앓고 있지만, 다임 동전만 한 Paradromics 임플란트 덕분에 합성 음성으로 생각을 표현한다. 지금은 음성 해독에 콘센트에 꽂힌 전자 장비를 가득 실은 카트가 필요하지만, 한 해 뒤에는 Nvidia 기술 덕분에 이 카트가 휠체어에 올려둘 수 있는 작은 상자로 바뀐다."
               },
               {
                 "t": "p",
-                "x": "프로그래밍 가능한 키 다섯 개에는 CHERRY MX Ultra Low Profile 스위치가 쓰였고, Bluetooth나 USB-C로 연결되며 약 20시간 사용할 수 있다. 노이즈 캔슬링 마이크 두 개가 음성을 받는다. 맨 아래 키를 길게 누르면 말이 커서 위치에 텍스트로 입력되고, 군말은 걸러진다. 두 번 탭하면 컴퓨터에 연결되지 않은 상태에서도 대화를 내장 메모리에 녹음하며, 이후 소프트웨어가 이를 전사하고 요약과 다음 단계를 만들고 50개가 넘는 언어를 영어로 번역한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "다섯 개 키는 각각 작업에 맞게 설정할 수 있다."
+                "x": "오스틴에 본사를 둔 Paradromics는 Nvidia의 하드웨어와 소프트웨어로 뇌 데이터를 처리하기 위해 이 AI 칩 기업과 파트너십을 맺었다고 발표했다. 임플란트에는 400개가 넘는 전극이 심겨 있고, 컴퓨터가 AI로 그녀가 하려는 말을 추론한다. Matt Angle CEO는 뇌-컴퓨터 인터페이스를 엣지 컴퓨팅의 궁극적 사례라고 부른다."
               },
               {
                 "t": "p",
-                "x": "키는 앱, 단축키, 또는 ChatGPT, Claude, Gemini, Grok, Notion 같은 AI 도구에 다시 지정할 수 있다. 정가는 $169이며, Kickstarter 후원자는 $119~$149를 내고, 예약하면 $99에 확보할 수 있다."
+                "x": "Paradromics는 저전력 컴퓨팅 모듈인 Nvidia의 Jetson으로 사용자 가까이 있는 작은 기기에서 음성 해독을 하고, Nvidia의 AI 센서 처리 소프트웨어 Holoscan으로 카메라·마이크와 함께 지연이 적은 상호작용을 구현한다. Nvidia의 파운데이션 모델도 통합할 수 있으며, 이를 로컬에서 돌리므로 사용자는 인터넷 연결이 필요 없다. Synchron과도 협력하는 Nvidia는 이번 파트너십으로 뇌 데이터에 접근하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Genspark、机上に\nAI音声入力VoicePad",
-          "body": "$169のパッドは設定自在な五つのキーとAI音声入力を備え、オフラインでも録音できる。",
-          "mini_headline": "Genspark VoicePadを机上に",
+          "headline": "Paradromics、\n脳データ処理にNvidia",
+          "body": "BCI企業Paradromicsは、Nvidiaのハードとソフトで神経データを処理する。",
+          "mini_headline": "NvidiaがParadromicsのBCIを支える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "SecondBrain VoicePadは、わずか五つのキーで机上の作業をはかどらせることを狙う。"
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Gensparkは、Windows PCsとMacs向けの入力デバイスSecondBrain VoicePadを発表した。物理マクロキーと音声操作を組み合わせ、ほぼあらゆるAIツールやアプリで使えるよう設計されている。重さ85-gramのアルミ製ガジェットで、2026年11月24日にKickstarterに登場し、最初の製品は2027年1月に届く見込みだ。"
+                "x": "ミシガン州に住む女性Maryさんは運動ニューロン疾患を抱えながらも、ダイム硬貨ほどの大きさのParadromicsのインプラントによって、合成音声で考えを表現できる。現在、音声のデコードにはコンセントにつながった電子機器満載のカートが必要だが、一年後にはNvidiaの技術によって、そのカートは車椅子に載せられる小さな箱になる。"
               },
               {
                 "t": "p",
-                "x": "五つのプログラム可能なキーにはCHERRY MX Ultra Low Profileスイッチを採用し、BluetoothまたはUSB-Cで接続、駆動時間は約20時間だ。二つのノイズキャンセリングマイクが音声を拾う。一番下のキーを長押しすると、話した内容がカーソル位置にテキスト化され、フィラーは除去される。ダブルタップすれば、コンピューターにつながっていなくても会話を内蔵メモリーに録音でき、その後ソフトウェアが文字起こしし、要約と次のステップを生成し、50以上の言語から英語に翻訳する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "五つのキーはそれぞれ作業に合わせてカスタマイズできる。"
+                "x": "オースティンに拠点を置くParadromicsは、Nvidiaのハードウェアとソフトウェアで脳データを処理するため、このAIチップメーカーとの提携を発表した。インプラントには400個以上の電極が埋め込まれており、コンピューターがAIを使って彼女が言おうとしていることを推定する。CEOのMatt Angleは、ブレイン・コンピューター・インターフェースをエッジコンピューティングの究極の事例と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "キーはアプリやショートカット、ChatGPT、Claude、Gemini、Grok、NotionなどのAIツールに割り当て直せる。通常価格は$169で、Kickstarterの支援者は$119〜$149、予約すれば$99で確保できる。"
+                "x": "Paradromicsは、低消費電力のコンピューティングモジュールであるNvidiaのJetsonを使ってユーザーの近くにある小型デバイスで音声デコードを行い、NvidiaのAIセンサー処理ソフトウェアHoloscanを使ってカメラやマイクと連携した低遅延のやり取りを実現する。Nvidiaの基盤モデルも統合でき、ローカルで動かすためユーザーはインターネット接続を必要としない。Synchronとも協業するNvidiaは、これらの提携を通じて脳データにアクセスすることはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Genspark推出\nAI听写VoicePad",
-          "body": "这款$169 设备配备五个可编程按键、AI听写与转录，离线也能录音至内置存储。",
-          "mini_headline": "桌面上的Genspark VoicePad",
+          "headline": "Paradromics\n借Nvidia处理脑数据",
+          "body": "脑机接口公司Paradromics将用Nvidia的计算硬件和软件处理神经数据。",
+          "mini_headline": "Nvidia助力Paradromics BCI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "SecondBrain VoicePad希望只用五个键，就帮你在桌前完成更多工作。"
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Genspark发布了SecondBrain VoicePad，这是一款面向Windows PCs和Macs的输入设备，将实体宏按键与语音控制结合，设计上几乎可配合任何AI工具或应用使用。这款重85-gram的铝制设备将于2026年11月24日登陆Kickstarter，首批产品预计于2027年1月交付。"
+                "x": "密歇根州一位名叫Mary的女性植入了一枚约一角硬币大小的Paradromics植入物，尽管患有运动神经元病，她仍能通过合成语音表达想法。目前，语音解码需要一整车插着电源的电子设备；一年后，借助Nvidia的技术，这辆推车将变成一个可以放在她轮椅上的小盒子。"
               },
               {
                 "t": "p",
-                "x": "它的五个可编程按键采用CHERRY MX Ultra Low Profile轴体，可通过Bluetooth或USB-C连接，续航约20小时。两个降噪麦克风负责收音：按住最下方的按键，语音就会转成文字输入到光标处，并去除语气词。双击则可在未连接电脑时把对话录到内置存储中；随后软件会进行转录，生成摘要和后续步骤，并把50多种语言翻译成英语。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "五个按键都可以按你的工作需要自定义。"
+                "x": "总部位于奥斯汀的Paradromics宣布与这家AI芯片制造商合作，使用Nvidia的硬件和软件处理其脑数据。该植入物内嵌400多个电极，计算机借助AI推断她想说的话。CEO Matt Angle称，脑机接口是边缘计算的终极用例。"
               },
               {
                 "t": "p",
-                "x": "按键可重新分配给应用、快捷方式，或ChatGPT、Claude、Gemini、Grok、Notion等AI工具。常规售价为$169；Kickstarter支持者需支付$119至$149，预订可锁定$99的价格。"
+                "x": "Paradromics将使用Nvidia的低功耗计算模块Jetson，在靠近用户的小型设备上完成语音解码，并使用Nvidia的AI传感器处理软件Holoscan，与摄像头和麦克风配合实现低延迟交互。它还能集成Nvidia的基础模型；由于在本地运行，用户无需联网。Nvidia也与Synchron合作，但不会通过这些合作获取脑数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El VoicePad de Genspark lleva\nel dictado con AI al escritorio",
-          "body": "El panel de $169 une cinco teclas programables, dictado y transcripción con AI, y graba sin conexión.",
-          "mini_headline": "Genspark VoicePad para el escritorio",
+          "headline": "Paradromics recurre a Nvidia\npara procesar datos cerebrales",
+          "body": "Paradromics, fabricante de interfaces cerebrales, procesará datos neuronales con hardware y software de Nvidia.",
+          "mini_headline": "Nvidia impulsa la BCI de Paradromics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/8/csm_Second_Brain_VoicePad_daff78eaa8.jpg",
-                "cap": "El SecondBrain VoicePad busca ayudarte a rendir más en tu escritorio con solo cinco teclas."
+                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
               },
               {
                 "t": "p",
-                "x": "Genspark ha presentado el SecondBrain VoicePad, un dispositivo de entrada para Windows PCs y Macs que combina teclas macro físicas con control por voz y está diseñado para funcionar con casi cualquier herramienta o app de AI. El aparato de aluminio de 85-gram llega a Kickstarter el 24 de noviembre de 2026, y las primeras unidades se esperan en enero de 2027."
+                "x": "Una mujer de Michigan llamada Mary tiene un implante de Paradromics del tamaño aproximado de una moneda de diez centavos que, pese a su enfermedad de la motoneurona, le permite expresar sus pensamientos mediante una voz sintetizada. Hoy la decodificación del habla requiere un carrito lleno de electrónica enchufado a la corriente; dentro de un año, gracias a la tecnología de Nvidia, ese carrito será una pequeña caja que podrá ir en su silla de ruedas."
               },
               {
                 "t": "p",
-                "x": "Sus cinco teclas programables usan interruptores CHERRY MX Ultra Low Profile; se conecta por Bluetooth o USB-C y su batería dura unas 20 horas. Dos micrófonos con cancelación de ruido captan la voz: al mantener pulsada la tecla inferior, el habla se convierte en texto en el cursor, sin muletillas. Con un doble toque graba conversaciones en la memoria integrada incluso sin conexión a un ordenador; después, el software las transcribe, genera un resumen y próximos pasos, y traduce de más de 50 idiomas al inglés."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_SecondBrain_VoicePad_Programmierbare_Tasten_761eff420e.jpg",
-                "cap": "Cada una de las cinco teclas se puede personalizar según tu trabajo."
+                "x": "Paradromics, con sede en Austin, anunció una alianza con el fabricante de chips de IA para usar el hardware y el software de Nvidia en el procesamiento de sus datos cerebrales. El implante usa más de 400 electrodos integrados, y un equipo informático usa IA para inferir lo que ella intenta decir. El CEO, Matt Angle, considera las interfaces cerebro-computadora el caso definitivo de la computación en el borde."
               },
               {
                 "t": "p",
-                "x": "Las teclas pueden reasignarse a apps, atajos o herramientas de AI como ChatGPT, Claude, Gemini, Grok o Notion. El precio normal es de $169; los mecenas de Kickstarter pagan entre $119 y $149, y una reserva asegura un precio de $99."
+                "x": "Paradromics usará Jetson, el módulo de cómputo de bajo consumo de Nvidia, para decodificar el habla en un dispositivo pequeño cerca del usuario, y Holoscan, el software de procesamiento de sensores con IA de Nvidia, para una interacción de baja latencia junto con cámaras y micrófonos. También podrá integrar los modelos fundacionales de Nvidia; al ejecutarlos localmente, los usuarios no necesitarán conexión a internet. Nvidia, que también trabaja con Synchron, no tendrá acceso a los datos cerebrales a través de estas alianzas."
               }
             ]
           }
@@ -647,189 +637,225 @@
       }
     },
     {
-      "id": "obsbot-tail-air2-ptz",
+      "id": "asus-proart-p14-rtxspark",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Obsbot의 AI PTZ\n카메라가 촬영자 대신",
-      "body": "Obsbot Tail Air 2가 AI로 동물 30+종, 사물 200+종을 쫓는다.",
-      "mini_headline": "Obsbot AI PTZ 카메라",
+      "headline": "ProArt P14 리뷰\n아깝게도 발열이 문제",
+      "body": "P14는 3K OLED·12.5시간 배터리를 갖췄지만 전력 제한과 발열이 흠이다.",
+      "mini_headline": "Asus ProArt P14, 아쉬운 한 끗",
       "tool": "Gadgets",
-      "source": "Digital Camera World",
-      "url": "https://www.digitalcameraworld.com/tech/webcams/obsbots-new-ai-ptz-cameras-could-make-camera-operators-redundant-and-its-got-a-1-inch-sensor",
-      "accent": "#f5a623",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p14-rtx-spark-review",
+      "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
           },
           {
             "t": "p",
-            "x": "Obsbot의 새 Tail Air 2는 배터리로 돌아가는 소형 PTZ 카메라의 후속작이다. 1-inch 센서를 달고 화소를 8.4메가픽셀에서 50메가픽셀로 끌어올렸다. 롤 축을 쓰는 진짜 세로 모드가 생겼고, 프레임 레이트는 두 배로 늘어 4K/60과 1080P/120을 지원한다. 13.5스톱 LOFIC HDR도 내세운다."
+            "x": "Asus는 Nvidia의 RTX Spark 칩을 역대 가장 가벼운 14인치 ProArt 섀시에 넣었다. 두께 0.55인치, 무게 3.26파운드다. 3K Lumina Pro OLED 터치스크린, SD 카드 리더, 기대보다 좋은 스피커에 12.5시간 배터리(Tom’s Guide 웹 브라우징 테스트에서 12:32)까지 갖췄다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+            "cap": "(이미지 출처: Future)"
           },
           {
             "t": "p",
-            "x": "Obsbot은 피사체를 알아서 쫓는 “프로슈머” 카메라를 스트리머에게 내놓으려 한다. 연출자 한 명, 어쩌면 혼자 활동하는 크리에이터도 AI로 자기를 따라다니는 카메라를 쓰게 하겠다는 것이다. “AI Tracking 2.0”은 사람과 30종이 넘는 동물, 200개가 넘는 사물 범주를 쫓고, 바닥이 고르지 않아도 카메라 수평을 맞춘다."
+            "x": "다만 섀시를 이만큼 얇게 만들려고 Asus는 전체 전력을 묶어 둬야 했다. 수동 모드에서도 TDP는 최대 80와트로 더 큰 P16의 최대 135와트에 못 미친다. 성능을 끝까지 끌어올리면 더 큰 RTX Spark 노트북에 밀리는 이유다. 그래도 “크리에이티브 작업과 로컬 AI 작업에는 충분히 빠릿하다.” 문제는 부하가 걸릴 때다. 통풍구가 넓게 뚫린 바닥면이 뜨거워진다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+            "cap": "(이미지 출처: Future)"
           },
           {
             "t": "p",
-            "x": "Wi-Fi 6이나 유선(Ethernet, SRT, RTSP, RTMP, 특정 모델은 NDI HX3)으로 연결하고 로컬 녹화도 된다. 가격은 $899 / £670부터다(NDI 모델은 $999 / £750). 21x 광학 줌과 1/2in 센서를 단 더 큰 Tail 2 ADV는 $1,399 / £1250에 사전 주문을 받는다."
+            "x": "이동이 잦은 크리에이터와 개발자에게는 올해 가장 끌리는 휴대용 크리에이터 노트북 중 하나다. 하지만 RTX Spark의 역량을 온전히 끌어내지 못하고 가격도 비싸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Obsbot's AI PTZ cameras aim\nto replace the operator",
-          "body": "Obsbot's Tail Air 2 uses AI Tracking 2.0 to follow people, 30+ animal species and 200+ object categories.",
-          "mini_headline": "Obsbot AI PTZ cameras",
+          "headline": "Asus ProArt P14 review:\nso close, but it runs hot",
+          "body": "The ProArt P14 has a 3K OLED and 12.5-hour battery, but its slim chassis throttles wattage and runs hot under load.",
+          "mini_headline": "Asus ProArt P14, nearly there",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "Obsbot's new Tail Air 2, an update to its compact, battery-powered PTZ camera, moves from 8.4 to 50 megapixels with a 1-inch sensor, adds a true vertical mode (a roll axis), doubles frame rates to 4K/60 and 1080P/120, and claims 13.5 stops of LOFIC HDR."
+                "x": "Asus crammed Nvidia’s RTX Spark chip into the lightest 14-inch ProArt chassis it has ever built, just 0.55 inches thin and 3.26 pounds. It pairs a 3K Lumina Pro OLED touchscreen, an SD card reader, surprisingly good speakers and a 12.5-hour battery life (12:32 in Tom’s Guide’s web browsing test)."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "(Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "Obsbot's goal is to give streamers \"prosumer\" cameras with automatic subject tracking, so a single director — perhaps even a solo creator — can have cameras that track them using AI. \"AI Tracking 2.0\" can follow people, more than 30 species of animal and over 200 object categories, keeping the camera level even on an uneven surface."
+                "x": "But to keep the chassis this slim, Asus had to rein in the total wattage. Even in manual mode it tops out at an 80-watt TDP, versus up to 135 watts on the bigger P16, so it trails larger RTX Spark machines when you push the silicon. It is still “plenty snappy for creative work and local AI tasks,” but the underside gets hot under load through wide, exposed vents."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "(Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "It works over Wi-Fi 6 or wired (Ethernet, SRT, RTSP, RTMP, and NDI HX3 on a specific variant), records locally and starts at $899 / £670 ($999 / £750 for NDI). The bigger Tail 2 ADV, with 21x optical zoom and a 1/2in sensor, is on pre-order for $1,399 / £1250."
+                "x": "Verdict: one of the most likable portable creator laptops of the year for traveling creatives and developers, but not the fullest representation of what RTX Spark can do — and the price is steep."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Obsbot의 AI PTZ\n카메라가 촬영자 대신",
-          "body": "Obsbot Tail Air 2가 AI로 동물 30+종, 사물 200+종을 쫓는다.",
-          "mini_headline": "Obsbot AI PTZ 카메라",
+          "headline": "ProArt P14 리뷰\n아깝게도 발열이 문제",
+          "body": "P14는 3K OLED·12.5시간 배터리를 갖췄지만 전력 제한과 발열이 흠이다.",
+          "mini_headline": "Asus ProArt P14, 아쉬운 한 끗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "Obsbot의 새 Tail Air 2는 배터리로 돌아가는 소형 PTZ 카메라의 후속작이다. 1-inch 센서를 달고 화소를 8.4메가픽셀에서 50메가픽셀로 끌어올렸다. 롤 축을 쓰는 진짜 세로 모드가 생겼고, 프레임 레이트는 두 배로 늘어 4K/60과 1080P/120을 지원한다. 13.5스톱 LOFIC HDR도 내세운다."
+                "x": "Asus는 Nvidia의 RTX Spark 칩을 역대 가장 가벼운 14인치 ProArt 섀시에 넣었다. 두께 0.55인치, 무게 3.26파운드다. 3K Lumina Pro OLED 터치스크린, SD 카드 리더, 기대보다 좋은 스피커에 12.5시간 배터리(Tom’s Guide 웹 브라우징 테스트에서 12:32)까지 갖췄다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "Obsbot은 피사체를 알아서 쫓는 “프로슈머” 카메라를 스트리머에게 내놓으려 한다. 연출자 한 명, 어쩌면 혼자 활동하는 크리에이터도 AI로 자기를 따라다니는 카메라를 쓰게 하겠다는 것이다. “AI Tracking 2.0”은 사람과 30종이 넘는 동물, 200개가 넘는 사물 범주를 쫓고, 바닥이 고르지 않아도 카메라 수평을 맞춘다."
+                "x": "다만 섀시를 이만큼 얇게 만들려고 Asus는 전체 전력을 묶어 둬야 했다. 수동 모드에서도 TDP는 최대 80와트로 더 큰 P16의 최대 135와트에 못 미친다. 성능을 끝까지 끌어올리면 더 큰 RTX Spark 노트북에 밀리는 이유다. 그래도 “크리에이티브 작업과 로컬 AI 작업에는 충분히 빠릿하다.” 문제는 부하가 걸릴 때다. 통풍구가 넓게 뚫린 바닥면이 뜨거워진다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "Wi-Fi 6이나 유선(Ethernet, SRT, RTSP, RTMP, 특정 모델은 NDI HX3)으로 연결하고 로컬 녹화도 된다. 가격은 $899 / £670부터다(NDI 모델은 $999 / £750). 21x 광학 줌과 1/2in 센서를 단 더 큰 Tail 2 ADV는 $1,399 / £1250에 사전 주문을 받는다."
+                "x": "이동이 잦은 크리에이터와 개발자에게는 올해 가장 끌리는 휴대용 크리에이터 노트북 중 하나다. 하지만 RTX Spark의 역량을 온전히 끌어내지 못하고 가격도 비싸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ObsbotのAI PTZ\nカメラは撮影者を不要に",
-          "body": "Tail Air 2はAI Tracking 2.0で動物30+種と物体200+種を追う。",
-          "mini_headline": "ObsbotのAI PTZカメラ",
+          "headline": "ProArt P14レビュー\n惜しいが発熱が課題",
+          "body": "P14は3K OLEDと12.5時間駆動を備えるが、薄型ゆえ電力制限と発熱が課題だ。",
+          "mini_headline": "Asus ProArt P14、あと一歩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "ObsbotのTail Air 2は、バッテリー駆動の小型PTZカメラの新モデルだ。1-inchセンサーで画素数を8.4メガピクセルから50メガピクセルへ引き上げ、本格的な縦撮りモード（ロール軸）を追加し、フレームレートを倍増させて4K/60と1080P/120に対応、13.5段のLOFIC HDRをうたう。"
+                "x": "AsusはNvidiaのRTX Sparkチップを、同社史上最軽量の14インチProArtシャーシに詰め込んだ。厚さはわずか0.55インチ、重さは3.26ポンドだ。3K Lumina Pro OLEDタッチスクリーン、SDカードリーダー、意外なほど良いスピーカー、12.5時間のバッテリー駆動(Tom’s GuideのWebブラウジングテストで12:32)を備える。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "(画像クレジット: Future)"
               },
               {
                 "t": "p",
-                "x": "Obsbotの狙いは、自動被写体追尾を備えた「プロシューマー」向けカメラを配信者に届け、ディレクター一人、あるいは単独のクリエイターでも、AIで自分を追いかけるカメラを持てるようにすることだ。「AI Tracking 2.0」は人、30種を超える動物、200を超える物体カテゴリーを追尾でき、凹凸のある面でもカメラを水平に保つ。"
+                "x": "ただし、シャーシをここまで薄く保つため、Asusは総電力を抑えざるを得なかった。手動モードでもTDPは最大80ワットで、大型のP16の最大135ワットに及ばない。そのためシリコンの性能を引き出そうとすると、より大きなRTX Spark搭載機に後れを取る。それでも「クリエイティブ作業やローカルAIタスクには十分きびきび動く」が、高負荷時には広く露出した通気口のある底面が熱くなる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "(画像クレジット: Future)"
               },
               {
                 "t": "p",
-                "x": "Wi-Fi 6または有線（Ethernet、SRT、RTSP、RTMP、特定モデルではNDI HX3）で動作し、ローカル録画にも対応、価格は$899 / £670から（NDI版は$999 / £750）。より大型で21x光学ズームと1/2inセンサーを備えるTail 2 ADVは、$1,399 / £1250で予約受付中だ。"
+                "x": "結論:移動の多いクリエイターや開発者にとって、今年最も好感の持てるポータブルなクリエイター向けノートPCの一つだ。ただしRTX Sparkの実力を最大限に示すものではなく、価格も高い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Obsbot AI PTZ\n相机欲取代摄像师",
-          "body": "Tail Air 2借助AI Tracking 2.0追踪人、30+种动物和200+类物体。",
-          "mini_headline": "Obsbot AI PTZ相机",
+          "headline": "ProArt P14评测\n差一点，但发热明显",
+          "body": "P14配备3K OLED屏和12.5小时续航，但机身纤薄导致功耗受限，高负载时发烫。",
+          "mini_headline": "Asus ProArt P14，差一点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "Obsbot新款Tail Air 2是其小巧电池供电PTZ相机的升级版：采用1-inch传感器，像素从8.4MP提升至50MP；新增真正的竖拍模式（横滚轴）；帧率翻倍至4K/60和1080P/120；并号称拥有13.5档LOFIC HDR。"
+                "x": "Asus将Nvidia的RTX Spark芯片塞进了其史上最轻的14英寸ProArt机身，厚度仅0.55英寸，重3.26磅。它配备3K Lumina Pro OLED触摸屏、SD读卡器、出人意料的好音箱，以及12.5小时续航（在Tom’s Guide的网页浏览测试中为12:32）。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "Obsbot的目标是为主播提供具备自动主体追踪功能的“准专业”相机，让一位导演——甚至一位独立创作者——也能拥有借助AI追踪自己的相机。“AI Tracking 2.0”可追踪人、30多种动物和200多类物体，即使在不平的表面上也能让相机保持水平。"
+                "x": "但为了让机身保持如此纤薄，Asus不得不限制总功耗。即便在手动模式下，TDP最高也只有80瓦，而更大的P16最高可达135瓦，因此在压榨芯片性能时，它落后于更大的RTX Spark机型。它仍然“足以流畅应对创意工作和本地AI任务”，但在高负载下，底部宽大外露的散热口处会发烫。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "它支持Wi-Fi 6或有线连接（Ethernet、SRT、RTSP、RTMP，特定型号支持NDI HX3），可本地录制，起售价为$899 / £670（NDI版为$999 / £750）。更大的Tail 2 ADV配备21x光学变焦和1/2in传感器，现已开放预订，售价$1,399 / £1250。"
+                "x": "结论：对经常出行的创作者和开发者来说，这是今年最讨喜的便携创作者笔记本之一，但它并未完全展现RTX Spark的实力，而且价格不菲。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las cámaras PTZ con AI de Obsbot\nquieren sustituir al operador",
-          "body": "El Tail Air 2 de Obsbot usa AI Tracking 2.0 para seguir a personas, 30+ especies animales y 200+ categorías de objetos.",
-          "mini_headline": "Cámaras AI PTZ de Obsbot",
+          "headline": "Análisis del Asus ProArt P14:\ncasi perfecto, pero se calienta",
+          "body": "El ProArt P14 tiene pantalla OLED 3K y 12,5 horas de batería, pero su chasis fino limita la potencia y se calienta.",
+          "mini_headline": "Asus ProArt P14, a un paso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "El nuevo Tail Air 2 de Obsbot, una actualización de su cámara PTZ compacta y con batería, pasa de 8.4 a 50 megapíxeles con un sensor 1-inch, añade un auténtico modo vertical (un eje de giro), duplica la frecuencia de imagen hasta 4K/60 y 1080P/120, y promete 13.5 pasos de LOFIC HDR."
+                "x": "Asus metió el chip RTX Spark de Nvidia en el chasis ProArt de 14 pulgadas más ligero que ha fabricado, de solo 0,55 pulgadas de grosor y 3,26 libras. Combina una pantalla táctil 3K Lumina Pro OLED, un lector de tarjetas SD, unos altavoces sorprendentemente buenos y 12,5 horas de autonomía (12:32 en la prueba de navegación web de Tom’s Guide)."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "(Crédito de imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "El objetivo de Obsbot es ofrecer a los streamers cámaras \"prosumer\" con seguimiento automático del sujeto, para que un solo director —quizá incluso un creador en solitario— tenga cámaras que lo sigan mediante AI. \"AI Tracking 2.0\" puede seguir a personas, más de 30 especies de animales y más de 200 categorías de objetos, y mantiene la cámara nivelada incluso sobre una superficie irregular."
+                "x": "Pero para mantener un chasis tan delgado, Asus tuvo que limitar la potencia total. Incluso en modo manual llega como máximo a un TDP de 80 vatios, frente a los hasta 135 vatios del P16, más grande, por lo que se queda por detrás de equipos RTX Spark mayores cuando se exige al silicio. Aun así, es “de sobra ágil para trabajo creativo y tareas de IA local”, pero la parte inferior se calienta bajo carga a través de unas rejillas anchas y expuestas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "(Crédito de imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "Funciona por Wi-Fi 6 o por cable (Ethernet, SRT, RTSP, RTMP y NDI HX3 en una variante concreta), graba en local y parte de $899 / £670 ($999 / £750 para NDI). El Tail 2 ADV, más grande, con zoom óptico 21x y sensor 1/2in, está en preventa por $1,399 / £1250."
+                "x": "Veredicto: uno de los portátiles para creadores más agradables del año para creativos y desarrolladores que viajan, pero no la representación más completa de lo que RTX Spark puede hacer, y el precio es elevado."
               }
             ]
           }
@@ -837,121 +863,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Obsbot의 AI PTZ\n카메라, 촬영자를 대신",
-          "body": "Obsbot Tail Air 2가 AI로 동물 30+종, 사물 200+종을 쫓는다.",
-          "mini_headline": "Obsbot AI PTZ 카메라",
+          "headline": "ProArt P14 리뷰\n아깝게도 발열이 문제",
+          "body": "P14는 3K OLED·12.5시간 배터리를 갖췄지만 전력 제한과 발열이 흠이다.",
+          "mini_headline": "Asus ProArt P14, 아쉬운 한 끗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "Obsbot의 새 Tail Air 2는 배터리로 작동하는 소형 PTZ 카메라의 후속작으로, 1-inch 센서와 함께 화소를 8.4메가픽셀에서 50메가픽셀로 끌어올렸다. 진정한 세로 모드(롤 축)를 더했고, 프레임 레이트를 두 배로 높여 4K/60과 1080P/120을 지원하며, 13.5스톱의 LOFIC HDR을 내세운다."
+                "x": "Asus는 Nvidia의 RTX Spark 칩을 역대 가장 가벼운 14인치 ProArt 섀시에 넣었다. 두께는 0.55인치, 무게는 3.26파운드에 불과하다. 3K Lumina Pro OLED 터치스크린, SD 카드 리더, 기대 이상으로 좋은 스피커, 12.5시간 배터리(Tom’s Guide 웹 브라우징 테스트에서 12:32)를 갖췄다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "Obsbot의 목표는 스트리머에게 자동 피사체 추적 기능을 갖춘 “프로슈머” 카메라를 제공해, 연출자 한 명, 어쩌면 혼자 활동하는 크리에이터도 AI로 자신을 따라오는 카메라를 갖게 하는 것이다. “AI Tracking 2.0”은 사람과 30종이 넘는 동물, 200개가 넘는 사물 범주를 추적하며, 고르지 않은 표면에서도 카메라 수평을 유지한다."
+                "x": "다만 섀시를 이렇게 얇게 유지하려고 Asus는 전체 전력을 묶어야 했다. 수동 모드에서도 TDP는 최대 80와트로, 더 큰 P16의 최대 135와트에 못 미친다. 그래서 성능을 끌어올리면 더 큰 RTX Spark 노트북에 뒤처진다. 그래도 “크리에이티브 작업과 로컬 AI 작업에는 충분히 빠릿하다.” 다만 부하가 걸리면 넓게 드러난 통풍구가 있는 바닥면이 뜨거워진다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "(이미지 출처: Future)"
               },
               {
                 "t": "p",
-                "x": "Wi-Fi 6 또는 유선(Ethernet, SRT, RTSP, RTMP, 특정 모델은 NDI HX3)으로 작동하고 로컬 녹화도 지원하며, 가격은 $899 / £670부터다(NDI 모델은 $999 / £750). 21x 광학 줌과 1/2in 센서를 갖춘 더 큰 Tail 2 ADV는 $1,399 / £1250에 사전 주문을 받고 있다."
+                "x": "결론: 이동이 잦은 크리에이터와 개발자에게 올해 가장 호감 가는 휴대용 크리에이터 노트북 중 하나지만, RTX Spark의 역량을 온전히 보여주지는 못하며 가격도 비싸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ObsbotのAI PTZ\nカメラは撮影者を不要に",
-          "body": "Tail Air 2はAI Tracking 2.0で動物30+種と物体200+種を追う。",
-          "mini_headline": "ObsbotのAI PTZカメラ",
+          "headline": "ProArt P14レビュー\n惜しいが発熱が課題",
+          "body": "P14は3K OLEDと12.5時間駆動を備えるが、薄型ゆえ電力制限と発熱が課題だ。",
+          "mini_headline": "Asus ProArt P14、あと一歩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "ObsbotのTail Air 2は、バッテリー駆動の小型PTZカメラの新モデルだ。1-inchセンサーで画素数を8.4メガピクセルから50メガピクセルへ引き上げ、本格的な縦撮りモード（ロール軸）を追加し、フレームレートを倍増させて4K/60と1080P/120に対応、13.5段のLOFIC HDRをうたう。"
+                "x": "AsusはNvidiaのRTX Sparkチップを、同社史上最軽量の14インチProArtシャーシに詰め込んだ。厚さはわずか0.55インチ、重さは3.26ポンドだ。3K Lumina Pro OLEDタッチスクリーン、SDカードリーダー、意外なほど良いスピーカー、12.5時間のバッテリー駆動(Tom’s GuideのWebブラウジングテストで12:32)を備える。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "(画像クレジット: Future)"
               },
               {
                 "t": "p",
-                "x": "Obsbotの狙いは、自動被写体追尾を備えた「プロシューマー」向けカメラを配信者に届け、ディレクター一人、あるいは単独のクリエイターでも、AIで自分を追いかけるカメラを持てるようにすることだ。「AI Tracking 2.0」は人、30種を超える動物、200を超える物体カテゴリーを追尾でき、凹凸のある面でもカメラを水平に保つ。"
+                "x": "ただし、シャーシをここまで薄く保つため、Asusは総電力を抑えざるを得なかった。手動モードでもTDPは最大80ワットで、大型のP16の最大135ワットに及ばない。そのためシリコンの性能を引き出そうとすると、より大きなRTX Spark搭載機に後れを取る。それでも「クリエイティブ作業やローカルAIタスクには十分きびきび動く」が、高負荷時には広く露出した通気口のある底面が熱くなる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "(画像クレジット: Future)"
               },
               {
                 "t": "p",
-                "x": "Wi-Fi 6または有線（Ethernet、SRT、RTSP、RTMP、特定モデルではNDI HX3）で動作し、ローカル録画にも対応、価格は$899 / £670から（NDI版は$999 / £750）。より大型で21x光学ズームと1/2inセンサーを備えるTail 2 ADVは、$1,399 / £1250で予約受付中だ。"
+                "x": "結論:移動の多いクリエイターや開発者にとって、今年最も好感の持てるポータブルなクリエイター向けノートPCの一つだ。ただしRTX Sparkの実力を最大限に示すものではなく、価格も高い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Obsbot AI PTZ\n相机欲取代摄像师",
-          "body": "Tail Air 2借助AI Tracking 2.0追踪人、30+种动物和200+类物体。",
-          "mini_headline": "Obsbot AI PTZ相机",
+          "headline": "ProArt P14评测\n差一点，但发热明显",
+          "body": "P14配备3K OLED屏和12.5小时续航，但机身纤薄导致功耗受限，高负载时发烫。",
+          "mini_headline": "Asus ProArt P14，差一点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "Obsbot新款Tail Air 2是其小巧电池供电PTZ相机的升级版：采用1-inch传感器，像素从8.4MP提升至50MP；新增真正的竖拍模式（横滚轴）；帧率翻倍至4K/60和1080P/120；并号称拥有13.5档LOFIC HDR。"
+                "x": "Asus将Nvidia的RTX Spark芯片塞进了其史上最轻的14英寸ProArt机身，厚度仅0.55英寸，重3.26磅。它配备3K Lumina Pro OLED触摸屏、SD读卡器、出人意料的好音箱，以及12.5小时续航（在Tom’s Guide的网页浏览测试中为12:32）。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "Obsbot的目标是为主播提供具备自动主体追踪功能的“准专业”相机，让一位导演——甚至一位独立创作者——也能拥有借助AI追踪自己的相机。“AI Tracking 2.0”可追踪人、30多种动物和200多类物体，即使在不平的表面上也能让相机保持水平。"
+                "x": "但为了让机身保持如此纤薄，Asus不得不限制总功耗。即便在手动模式下，TDP最高也只有80瓦，而更大的P16最高可达135瓦，因此在压榨芯片性能时，它落后于更大的RTX Spark机型。它仍然“足以流畅应对创意工作和本地AI任务”，但在高负载下，底部宽大外露的散热口处会发烫。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "（图片来源：Future）"
               },
               {
                 "t": "p",
-                "x": "它支持Wi-Fi 6或有线连接（Ethernet、SRT、RTSP、RTMP，特定型号支持NDI HX3），可本地录制，起售价为$899 / £670（NDI版为$999 / £750）。更大的Tail 2 ADV配备21x光学变焦和1/2in传感器，现已开放预订，售价$1,399 / £1250。"
+                "x": "结论：对经常出行的创作者和开发者来说，这是今年最讨喜的便携创作者笔记本之一，但它并未完全展现RTX Spark的实力，而且价格不菲。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las cámaras PTZ con AI de Obsbot\nquieren sustituir al operador",
-          "body": "El Tail Air 2 de Obsbot usa AI Tracking 2.0 para seguir a personas, 30+ especies animales y 200+ categorías de objetos.",
-          "mini_headline": "Cámaras AI PTZ de Obsbot",
+          "headline": "Análisis del Asus ProArt P14:\ncasi perfecto, pero se calienta",
+          "body": "El ProArt P14 tiene pantalla OLED 3K y 12,5 horas de batería, pero su chasis fino limita la potencia y se calienta.",
+          "mini_headline": "Asus ProArt P14, a un paso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
               },
               {
                 "t": "p",
-                "x": "El nuevo Tail Air 2 de Obsbot, una actualización de su cámara PTZ compacta y con batería, pasa de 8.4 a 50 megapíxeles con un sensor 1-inch, añade un auténtico modo vertical (un eje de giro), duplica la frecuencia de imagen hasta 4K/60 y 1080P/120, y promete 13.5 pasos de LOFIC HDR."
+                "x": "Asus metió el chip RTX Spark de Nvidia en el chasis ProArt de 14 pulgadas más ligero que ha fabricado, de solo 0,55 pulgadas de grosor y 3,26 libras. Combina una pantalla táctil 3K Lumina Pro OLED, un lector de tarjetas SD, unos altavoces sorprendentemente buenos y 12,5 horas de autonomía (12:32 en la prueba de navegación web de Tom’s Guide)."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JkXfqWtsjKttnXDXNaJh9b.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+                "cap": "(Crédito de imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "El objetivo de Obsbot es ofrecer a los streamers cámaras \"prosumer\" con seguimiento automático del sujeto, para que un solo director —quizá incluso un creador en solitario— tenga cámaras que lo sigan mediante AI. \"AI Tracking 2.0\" puede seguir a personas, más de 30 especies de animales y más de 200 categorías de objetos, y mantiene la cámara nivelada incluso sobre una superficie irregular."
+                "x": "Pero para mantener un chasis tan delgado, Asus tuvo que limitar la potencia total. Incluso en modo manual llega como máximo a un TDP de 80 vatios, frente a los hasta 135 vatios del P16, más grande, por lo que se queda por detrás de equipos RTX Spark mayores cuando se exige al silicio. Aun así, es “de sobra ágil para trabajo creativo y tareas de IA local”, pero la parte inferior se calienta bajo carga a través de unas rejillas anchas y expuestas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+                "cap": "(Crédito de imagen: Future)"
               },
               {
                 "t": "p",
-                "x": "Funciona por Wi-Fi 6 o por cable (Ethernet, SRT, RTSP, RTMP y NDI HX3 en una variante concreta), graba en local y parte de $899 / £670 ($999 / £750 para NDI). El Tail 2 ADV, más grande, con zoom óptico 21x y sensor 1/2in, está en preventa por $1,399 / £1250."
+                "x": "Veredicto: uno de los portátiles para creadores más agradables del año para creativos y desarrolladores que viajan, pero no la representación más completa de lo que RTX Spark puede hacer, y el precio es elevado."
               }
             ]
           }
@@ -959,567 +1009,15 @@
       }
     },
     {
-      "id": "gemini-android-camera-redesign",
+      "id": "copilot-pc-npu-buying",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google이 Gemini\nAndroid 카메라 개편",
-      "body": "Google이 Gemini Android 앱 카메라 화면을 새로 다듬었다.",
-      "mini_headline": "Gemini 카메라 개편",
+      "headline": "이제 NPU는\n노트북 구매 이유가 아니다",
+      "body": "칩마다 40 TOPS를 넘고 AI 앱은 NPU를 안 써 Copilot+가 무색하다.",
+      "mini_headline": "Copilot+ NPU, 빛을 잃다",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-          },
-          {
-            "t": "p",
-            "x": "Google이 Gemini for Android 앱의 카메라를 크게 새로 디자인했다. 프롬프트에 이미지를 빠르게 붙일 때 여는 그 카메라다."
-          },
-          {
-            "t": "p",
-            "x": "프롬프트 입력창의 'plus' 메뉴에서 여는 기존 인터페이스는 꽤 평범한 전체 화면 뷰파인더를 띄웠다. Gemini 오버레이에서 카메라를 켜면 지금도 이 UI가 나온다."
-          },
-          {
-            "t": "p",
-            "x": "새 카메라는 Gemini 홈 화면이나 대화 안에 인라인으로 뜬다. 하단 시트로 열리고, 위로 끌어 올리면 아주 매끄러운 애니메이션과 함께 화면 대부분을 채운다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "시스템 내비게이션 바 뒤까지 뻗어 거의 엣지 투 엣지에 가깝다. 기존 방식과는 확연히 다르다."
-          },
-          {
-            "t": "p",
-            "x": "촬영 버튼 오른쪽에는 점 세 개짜리 더보기 버튼이 있다. 누르면 애니메이션과 함께 펼쳐지면서 플래시 조절과 전면 카메라 전환 옵션이 나온다. 반대편에 뒤로 가기 버튼이 있지만 아래로 쓸어내려 닫아도 된다."
-          },
-          {
-            "t": "p",
-            "x": "이 디자인은 Gemini for iOS 앱에 먼저 들어갔고, 이제 Android 베타와 안정판(버전 17.76+) 채널 양쪽에 널리 풀렸다. 아직 안 보이면 Google 앱을 Force stop 해 보면 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-          },
-          {
-            "t": "p",
-            "x": "어제는 Gemini 앱에 GIF 생성 기능이 나왔다. Gemini Omni 1.2 Flash로 돌아가며, Format 메뉴에서 GIF를 고르거나 프롬프트에 “Create a GIF”라고 적으면 된다. Google은 GIFs 검색 대신 쓰라고 이 기능을 내세운다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google redesigns Gemini's\nAndroid prompt camera",
-          "body": "Google has reworked the camera inside the Gemini Android app, the capture screen used to quickly add images to prompts.",
-          "mini_headline": "Gemini camera redesign",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google has thoroughly redesigned Gemini for Android's in-app camera that lets you quickly add an image to prompts."
-              },
-              {
-                "t": "p",
-                "x": "Available from the 'plus' menu in the prompt box, the old interface launched a fullscreen viewfinder that was quite generic. This UI is still in use when you launch the camera from the Gemini overlay."
-              },
-              {
-                "t": "p",
-                "x": "The new one appears inline on the Gemini homepage or inside a conversation. It launches as a bottom sheet that you can drag up — with a really slick animation — to take up most of the screen."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "This nearly edge-to-edge redesign, which extends behind the system navigation bar, is a stark contrast to the old approach."
-              },
-              {
-                "t": "p",
-                "x": "To the right of the capture button is a three-dot overflow button that animates on open, revealing options to control the flash and switch to the front-facing camera. There's a back button on the other side, but you can also just swipe down."
-              },
-              {
-                "t": "p",
-                "x": "This camera redesign first launched in the Gemini for iOS app, but has now widely rolled out on Android in both the beta and stable (version 17.76+) channels. Be sure to Force stop the Google app if you're not seeing it live yet."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "This follows the launch of GIF creation in the Gemini app yesterday. Powered by Gemini Omni 1.2 Flash, select GIF from the Format menu or specify \"Create a GIF\" in your prompt. Google frames this feature as an alternative to searching for GIFs."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google이 Gemini\nAndroid 카메라 개편",
-          "body": "Google이 Gemini Android 앱 카메라 화면을 새로 다듬었다.",
-          "mini_headline": "Gemini 카메라 개편",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google이 Gemini for Android 앱의 카메라를 크게 새로 디자인했다. 프롬프트에 이미지를 빠르게 붙일 때 여는 그 카메라다."
-              },
-              {
-                "t": "p",
-                "x": "프롬프트 입력창의 'plus' 메뉴에서 여는 기존 인터페이스는 꽤 평범한 전체 화면 뷰파인더를 띄웠다. Gemini 오버레이에서 카메라를 켜면 지금도 이 UI가 나온다."
-              },
-              {
-                "t": "p",
-                "x": "새 카메라는 Gemini 홈 화면이나 대화 안에 인라인으로 뜬다. 하단 시트로 열리고, 위로 끌어 올리면 아주 매끄러운 애니메이션과 함께 화면 대부분을 채운다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "시스템 내비게이션 바 뒤까지 뻗어 거의 엣지 투 엣지에 가깝다. 기존 방식과는 확연히 다르다."
-              },
-              {
-                "t": "p",
-                "x": "촬영 버튼 오른쪽에는 점 세 개짜리 더보기 버튼이 있다. 누르면 애니메이션과 함께 펼쳐지면서 플래시 조절과 전면 카메라 전환 옵션이 나온다. 반대편에 뒤로 가기 버튼이 있지만 아래로 쓸어내려 닫아도 된다."
-              },
-              {
-                "t": "p",
-                "x": "이 디자인은 Gemini for iOS 앱에 먼저 들어갔고, 이제 Android 베타와 안정판(버전 17.76+) 채널 양쪽에 널리 풀렸다. 아직 안 보이면 Google 앱을 Force stop 해 보면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "어제는 Gemini 앱에 GIF 생성 기능이 나왔다. Gemini Omni 1.2 Flash로 돌아가며, Format 메뉴에서 GIF를 고르거나 프롬프트에 “Create a GIF”라고 적으면 된다. Google은 GIFs 검색 대신 쓰라고 이 기능을 내세운다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GoogleがGemini\nAndroid版カメラ刷新",
-          "body": "GoogleはGeminiのAndroidアプリで画像入力用カメラを作り直した。",
-          "mini_headline": "Geminiカメラ刷新",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "GoogleはGemini for Androidのアプリ内カメラを全面的に作り直した。プロンプトに画像をすばやく追加するためのカメラだ。"
-              },
-              {
-                "t": "p",
-                "x": "プロンプト欄の「plus」メニューから開く旧インターフェースは、ごく平凡な全画面ビューファインダーを起動していた。Geminiのオーバーレイからカメラを起動した場合は、今もこのUIが使われる。"
-              },
-              {
-                "t": "p",
-                "x": "新しいカメラは、Geminiのホーム画面や会話の中にインラインで表示される。ボトムシートとして開き、上にドラッグすると、非常に滑らかなアニメーションとともに画面の大部分を占める。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "システムのナビゲーションバーの背後まで広がる、ほぼエッジ・トゥ・エッジのこの新デザインは、従来の手法とは対照的だ。"
-              },
-              {
-                "t": "p",
-                "x": "シャッターボタンの右には三点のオーバーフローボタンがあり、開くとアニメーションしながら、フラッシュの操作と前面カメラへの切り替えのオプションが現れる。反対側には戻るボタンがあるが、下にスワイプするだけでもよい。"
-              },
-              {
-                "t": "p",
-                "x": "このカメラの新デザインはまずGemini for iOSアプリで登場し、現在はAndroidのベータ版と安定版（バージョン17.76+）の両チャンネルで広く展開されている。まだ表示されない場合は、GoogleアプリをForce stopするとよい。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "これは昨日Geminiアプリで始まったGIF作成機能に続くものだ。Gemini Omni 1.2 Flashを基盤とし、FormatメニューからGIFを選ぶか、プロンプトで「Create a GIF」と指定する。GoogleはこれをGIFs検索に代わる機能と位置づけている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google改版Gemini\nAndroid端相机",
-          "body": "Google重做了Gemini Android应用内的相机，用于快速为提示词添加图片。",
-          "mini_headline": "Gemini相机改版",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google彻底重新设计了Gemini for Android应用内的相机，它能让你快速为提示词添加图片。"
-              },
-              {
-                "t": "p",
-                "x": "旧界面从提示框的“plus”菜单打开，会启动一个相当普通的全屏取景器。从Gemini浮层启动相机时，仍会使用这一UI。"
-              },
-              {
-                "t": "p",
-                "x": "新相机以内嵌方式出现在Gemini主页或对话中。它以底部面板形式弹出，向上拖动即可伴随非常流畅的动画占据大部分屏幕。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "这一近乎边到边、延伸至系统导航栏后方的新设计，与旧方案形成鲜明对比。"
-              },
-              {
-                "t": "p",
-                "x": "拍摄按钮右侧是一个三点溢出菜单按钮，打开时带有动画，提供调节闪光灯和切换到前置摄像头的选项。另一侧有返回按钮，也可以直接向下滑动。"
-              },
-              {
-                "t": "p",
-                "x": "这一相机新设计最早在Gemini for iOS应用中推出，现已在Android的测试版和稳定版（版本17.76+）渠道广泛上线。如果还没看到，可以对Google应用执行Force stop。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "此前一天，Gemini应用刚推出GIF生成功能。该功能由Gemini Omni 1.2 Flash驱动，在Format菜单中选择GIF，或在提示词中写明“Create a GIF”即可。Google将其定位为搜索GIFs的替代方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google rediseña la cámara de\nGemini para Android",
-          "body": "Google ha renovado la cámara de la app Gemini para Android, la pantalla para sumar imágenes a las instrucciones.",
-          "mini_headline": "Rediseño de la cámara de Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google ha rediseñado a fondo la cámara integrada de Gemini para Android, que permite añadir rápidamente una imagen a las instrucciones."
-              },
-              {
-                "t": "p",
-                "x": "Disponible desde el menú 'plus' del cuadro de instrucciones, la interfaz anterior abría un visor a pantalla completa bastante genérico. Esta UI se sigue usando cuando se abre la cámara desde la superposición de Gemini."
-              },
-              {
-                "t": "p",
-                "x": "La nueva aparece integrada en la página de inicio de Gemini o dentro de una conversación. Se abre como una hoja inferior que se puede arrastrar hacia arriba —con una animación muy fluida— hasta ocupar la mayor parte de la pantalla."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Este rediseño casi de borde a borde, que se extiende por detrás de la barra de navegación del sistema, contrasta claramente con el enfoque anterior."
-              },
-              {
-                "t": "p",
-                "x": "A la derecha del botón de captura hay un botón de desbordamiento de tres puntos que se anima al abrirse y muestra opciones para controlar el flash y cambiar a la cámara frontal. Al otro lado hay un botón para volver, aunque también basta con deslizar hacia abajo."
-              },
-              {
-                "t": "p",
-                "x": "Este rediseño de la cámara llegó primero a la app Gemini para iOS, pero ya se ha desplegado ampliamente en Android, tanto en el canal beta como en el estable (versión 17.76+). Si aún no lo ves, usa Force stop en la app de Google."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Esto llega después de que ayer se lanzara la creación de GIF en la app Gemini. Con Gemini Omni 1.2 Flash, basta con elegir GIF en el menú Format o escribir \"Create a GIF\" en la instrucción. Google presenta la función como una alternativa a buscar GIFs."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Google이 Gemini\nAndroid 카메라 개편",
-          "body": "Google이 Gemini Android 앱 카메라 화면을 새로 다듬었다.",
-          "mini_headline": "Gemini 카메라 개편",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google이 Gemini for Android 앱 안의 카메라를 대대적으로 새로 디자인했다. 프롬프트에 이미지를 빠르게 추가할 때 쓰는 카메라다."
-              },
-              {
-                "t": "p",
-                "x": "프롬프트 입력창의 'plus' 메뉴에서 여는 기존 인터페이스는 꽤 평범한 전체 화면 뷰파인더를 띄웠다. Gemini 오버레이에서 카메라를 실행하면 이 UI가 여전히 쓰인다."
-              },
-              {
-                "t": "p",
-                "x": "새 카메라는 Gemini 홈 화면이나 대화 안에 인라인으로 나타난다. 하단 시트 형태로 열리며, 위로 끌어 올리면 아주 매끄러운 애니메이션과 함께 화면 대부분을 차지한다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "시스템 내비게이션 바 뒤까지 확장되는, 엣지 투 엣지에 가까운 이번 디자인은 기존 방식과 뚜렷하게 대비된다."
-              },
-              {
-                "t": "p",
-                "x": "촬영 버튼 오른쪽에는 점 세 개짜리 더보기 버튼이 있다. 누르면 애니메이션과 함께 열리며 플래시 조절과 전면 카메라 전환 옵션이 나타난다. 반대편에는 뒤로 가기 버튼이 있지만 아래로 쓸어내려도 된다."
-              },
-              {
-                "t": "p",
-                "x": "이 카메라 디자인은 Gemini for iOS 앱에 먼저 나왔고, 이제 Android의 베타와 안정판(버전 17.76+) 채널 모두에 폭넓게 배포됐다. 아직 보이지 않는다면 Google 앱을 Force stop 해 보면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "어제 Gemini 앱에 GIF 생성 기능이 나온 데 이은 변화다. Gemini Omni 1.2 Flash 기반으로, Format 메뉴에서 GIF를 고르거나 프롬프트에 “Create a GIF”라고 적으면 된다. Google은 이 기능을 GIFs 검색의 대안으로 내세운다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GoogleがGemini\nAndroid版カメラ刷新",
-          "body": "GoogleはGeminiのAndroidアプリで画像入力用カメラを作り直した。",
-          "mini_headline": "Geminiカメラ刷新",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "GoogleはGemini for Androidのアプリ内カメラを全面的に作り直した。プロンプトに画像をすばやく追加するためのカメラだ。"
-              },
-              {
-                "t": "p",
-                "x": "プロンプト欄の「plus」メニューから開く旧インターフェースは、ごく平凡な全画面ビューファインダーを起動していた。Geminiのオーバーレイからカメラを起動した場合は、今もこのUIが使われる。"
-              },
-              {
-                "t": "p",
-                "x": "新しいカメラは、Geminiのホーム画面や会話の中にインラインで表示される。ボトムシートとして開き、上にドラッグすると、非常に滑らかなアニメーションとともに画面の大部分を占める。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "システムのナビゲーションバーの背後まで広がる、ほぼエッジ・トゥ・エッジのこの新デザインは、従来の手法とは対照的だ。"
-              },
-              {
-                "t": "p",
-                "x": "シャッターボタンの右には三点のオーバーフローボタンがあり、開くとアニメーションしながら、フラッシュの操作と前面カメラへの切り替えのオプションが現れる。反対側には戻るボタンがあるが、下にスワイプするだけでもよい。"
-              },
-              {
-                "t": "p",
-                "x": "このカメラの新デザインはまずGemini for iOSアプリで登場し、現在はAndroidのベータ版と安定版（バージョン17.76+）の両チャンネルで広く展開されている。まだ表示されない場合は、GoogleアプリをForce stopするとよい。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "これは昨日Geminiアプリで始まったGIF作成機能に続くものだ。Gemini Omni 1.2 Flashを基盤とし、FormatメニューからGIFを選ぶか、プロンプトで「Create a GIF」と指定する。GoogleはこれをGIFs検索に代わる機能と位置づけている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google改版Gemini\nAndroid端相机",
-          "body": "Google重做了Gemini Android应用内的相机，用于快速为提示词添加图片。",
-          "mini_headline": "Gemini相机改版",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google彻底重新设计了Gemini for Android应用内的相机，它能让你快速为提示词添加图片。"
-              },
-              {
-                "t": "p",
-                "x": "旧界面从提示框的“plus”菜单打开，会启动一个相当普通的全屏取景器。从Gemini浮层启动相机时，仍会使用这一UI。"
-              },
-              {
-                "t": "p",
-                "x": "新相机以内嵌方式出现在Gemini主页或对话中。它以底部面板形式弹出，向上拖动即可伴随非常流畅的动画占据大部分屏幕。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "这一近乎边到边、延伸至系统导航栏后方的新设计，与旧方案形成鲜明对比。"
-              },
-              {
-                "t": "p",
-                "x": "拍摄按钮右侧是一个三点溢出菜单按钮，打开时带有动画，提供调节闪光灯和切换到前置摄像头的选项。另一侧有返回按钮，也可以直接向下滑动。"
-              },
-              {
-                "t": "p",
-                "x": "这一相机新设计最早在Gemini for iOS应用中推出，现已在Android的测试版和稳定版（版本17.76+）渠道广泛上线。如果还没看到，可以对Google应用执行Force stop。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "此前一天，Gemini应用刚推出GIF生成功能。该功能由Gemini Omni 1.2 Flash驱动，在Format菜单中选择GIF，或在提示词中写明“Create a GIF”即可。Google将其定位为搜索GIFs的替代方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google rediseña la cámara de\nGemini para Android",
-          "body": "Google ha renovado la cámara de la app Gemini para Android, la pantalla para sumar imágenes a las instrucciones.",
-          "mini_headline": "Rediseño de la cámara de Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google ha rediseñado a fondo la cámara integrada de Gemini para Android, que permite añadir rápidamente una imagen a las instrucciones."
-              },
-              {
-                "t": "p",
-                "x": "Disponible desde el menú 'plus' del cuadro de instrucciones, la interfaz anterior abría un visor a pantalla completa bastante genérico. Esta UI se sigue usando cuando se abre la cámara desde la superposición de Gemini."
-              },
-              {
-                "t": "p",
-                "x": "La nueva aparece integrada en la página de inicio de Gemini o dentro de una conversación. Se abre como una hoja inferior que se puede arrastrar hacia arriba —con una animación muy fluida— hasta ocupar la mayor parte de la pantalla."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-old.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Este rediseño casi de borde a borde, que se extiende por detrás de la barra de navegación del sistema, contrasta claramente con el enfoque anterior."
-              },
-              {
-                "t": "p",
-                "x": "A la derecha del botón de captura hay un botón de desbordamiento de tres puntos que se anima al abrirse y muestra opciones para controlar el flash y cambiar a la cámara frontal. Al otro lado hay un botón para volver, aunque también basta con deslizar hacia abajo."
-              },
-              {
-                "t": "p",
-                "x": "Este rediseño de la cámara llegó primero a la app Gemini para iOS, pero ya se ha desplegado ampliamente en Android, tanto en el canal beta como en el estable (versión 17.76+). Si aún no lo ves, usa Force stop en la app de Google."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-camera-redesign-3.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Esto llega después de que ayer se lanzara la creación de GIF en la app Gemini. Con Gemini Omni 1.2 Flash, basta con elegir GIF en el menú Format o escribir \"Create a GIF\" en la instrucción. Google presenta la función como una alternativa a buscar GIFs."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "meta-muse-charm-price",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Muse Charm 값은\n$300, 5G 무료 보도",
-      "body": "Meta AI 기기는 $300에 Verizon 5G 최대 12개월 무료라는 보도다.",
-      "mini_headline": "Muse Charm, $300",
-      "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Copilot-PCs-Why-the-NPU-is-no-longer-a-reason-to-buy-a-laptop.1456843.0.html",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1527,149 +1025,215 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+            "cap": "연말 선물로 노트북을 고른다면 NPU를 구매 기준으로 삼지 말자."
           },
           {
             "t": "p",
-            "x": "The Information에 따르면 Meta는 자사 Muse AI 에이전트와 대화하는 다마고치 같은(Tamagotchi-esque) 기기 Muse Charm을 $300에 팔 계획이다. Meta는 9월 Connect에서 스마트폰을 꺼내지 않고 에이전트를 부르는 기기로 이를 소개했고, 연말 연휴 시즌에 맞춰 내놓겠다고 했다."
+            "x": "NPU는 Microsoft의 Copilot+ PCs와 Recall 같은 기능으로 들어가는 입장권이었다. 2026년 말 현재 거의 모든 신형 노트북에 NPU가 들어가 있지만 Copilot+ 브랜드는 희미해졌고, 가장 잘 알려진 로컬 AI 앱들은 이 칩을 아예 쓰지 않는다. Copilot+ 요건은 여전히 40 TOPS가 넘는 NPU와 16GB 램, 256GB SSD다. Surface 책임자 Brett Ostrum은 2026년형 Surface 기기를 더는 Copilot+ PCs로 부르지 않는다고 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+            "cap": "Windows 11의 AI 기능 중 NPU가 필요한 것과 필요 없는 것."
           },
           {
             "t": "p",
-            "x": "Mark Zuckerberg는 Muse Charm이 “실시간 음성과 아바타 스택을 포함한 Muse 경험 전체를 열쇠고리에 달 수 있고 언제든 대화할 수 있는 기기에” 담았다고 말했다. The Information 보도로는 명령을 내리기 전에 본인인지 확인하는 지문 인식기가 달렸고, Verizon 5G 데이터도 최대 12개월 무료로 준다."
+            "x": "AMD의 Ryzen AI 400 시리즈는 50~60 TOPS, Qualcomm의 Snapdragon X2 Elite와 X2 Plus는 80 TOPS, Intel의 Panther Lake는 최대 50 TOPS까지 나온다. 그래도 수치가 높다고 Windows 기능이 더 열리지는 않는다. Ollama, LM Studio, llama.cpp는 NPU가 아니라 GPU와 CPU에서 돈다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+            "cap": "요즘 노트북 칩은 모두 Copilot+ 기준인 40 TOPS를 넘는다."
           },
           {
             "t": "p",
-            "x": "Meta는 10월 개발자가 “Muse Gadgets”를 직접 만들도록 오픈소스 가이드를 공개했다. 에이전트 사용자는 이미 1,000만 명을 넘었고, Wear OS와 watchOS용 Muse 앱도 나왔다. Meta는 Apple과 Google의 규칙을 벗어나 고객 관계를 직접 쥐려는 모양새다. Muse 사용자가 에이전트로 물건을 살 때 기업에 수수료를 물리는 커머스 도구도 만들고 있다."
+            "x": "지금 노트북 값을 끌어올리는 건 메모리다. NPU는 구매 이유가 아니라 덤으로 보면 된다. Copilot+ 기능에는 16GB 램이 최소이고, 로컬 언어 모델을 돌리려면 32GB나 별도 GPU를 생각해 두는 게 좋다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta's Muse Charm reportedly\ncosts $300 with free 5G",
-          "body": "According to The Information, Meta's pocket AI agent device will sell for $300 with up to 12 months of free Verizon 5G.",
-          "mini_headline": "Muse Charm at $300",
+          "headline": "The NPU is no longer\na reason to buy a laptop",
+          "body": "With every new chip past 40 TOPS and popular local AI apps skipping the NPU, the Copilot+ label barely matters.",
+          "mini_headline": "Copilot+ NPU loses its edge",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "A laptop as a holiday gift. The NPU shouldn't be what decides the purchase."
               },
               {
                 "t": "p",
-                "x": "Meta reportedly plans to sell the Muse Charm, a Tamagotchi-esque gadget for talking to its Muse AI agent, for $300, according to The Information. Meta introduced it at Connect in September as a way to use its agent without reaching for a smartphone, and said it would launch in time for the holidays."
+                "x": "The NPU was the ticket to Microsoft's Copilot+ PCs and features such as Recall. By late 2026, almost every new notebook has an NPU, the Copilot+ brand is fading, and the best-known local AI apps don't use the chip at all. Copilot+ still requires an NPU with more than 40 TOPS plus 16GB of RAM and a 256GB SSD; Surface chief Brett Ostrum said the 2026 Surface devices are no longer called Copilot+ PCs."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Which Windows 11 AI features need an NPU and which don't."
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerberg said the Muse Charm packs \"the whole Muse experience, including the real-time voice and avatar stack into something that fits on a keychain and is always available to talk to.\" It features a fingerprint reader to verify your identity before you give commands and will come with up to 12 months of free 5G data from Verizon, The Information reports."
+                "x": "AMD's Ryzen AI 400 series reaches 50 to 60 TOPS, Qualcomm's Snapdragon X2 Elite and X2 Plus 80 TOPS, and Intel's Panther Lake up to 50 TOPS — higher numbers unlock no extra Windows features. Ollama, LM Studio and llama.cpp run on the GPU and CPU, not the NPU."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "Every current laptop chip clears the 40 TOPS Copilot+ threshold."
               },
               {
                 "t": "p",
-                "x": "In October, Meta shared open source guides for developers to build their own \"Muse Gadgets.\" The agent has already drawn more than 10 million users, and Meta also released a Muse app for Wear OS and watchOS. Meta appears to want to own its relationship with customers directly, free of Apple's and Google's rules, and is working on commerce tools to charge businesses a fee when Muse users make a purchase via the agent."
+                "x": "Memory is what makes laptops more expensive right now. Treat the NPU as a bonus, not a reason to buy: 16GB of RAM is the minimum for Copilot+ features, and for local language models plan on 32GB or a dedicated GPU."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Muse Charm 값은\n$300, 5G 무료 보도",
-          "body": "Meta AI 기기는 $300에 Verizon 5G 최대 12개월 무료라는 보도다.",
-          "mini_headline": "Muse Charm, $300",
+          "headline": "이제 NPU는\n노트북 구매 이유가 아니다",
+          "body": "칩마다 40 TOPS를 넘고 AI 앱은 NPU를 안 써 Copilot+가 무색하다.",
+          "mini_headline": "Copilot+ NPU, 빛을 잃다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "연말 선물로 노트북을 고른다면 NPU를 구매 기준으로 삼지 말자."
               },
               {
                 "t": "p",
-                "x": "The Information에 따르면 Meta는 자사 Muse AI 에이전트와 대화하는 다마고치 같은(Tamagotchi-esque) 기기 Muse Charm을 $300에 팔 계획이다. Meta는 9월 Connect에서 스마트폰을 꺼내지 않고 에이전트를 부르는 기기로 이를 소개했고, 연말 연휴 시즌에 맞춰 내놓겠다고 했다."
+                "x": "NPU는 Microsoft의 Copilot+ PCs와 Recall 같은 기능으로 들어가는 입장권이었다. 2026년 말 현재 거의 모든 신형 노트북에 NPU가 들어가 있지만 Copilot+ 브랜드는 희미해졌고, 가장 잘 알려진 로컬 AI 앱들은 이 칩을 아예 쓰지 않는다. Copilot+ 요건은 여전히 40 TOPS가 넘는 NPU와 16GB 램, 256GB SSD다. Surface 책임자 Brett Ostrum은 2026년형 Surface 기기를 더는 Copilot+ PCs로 부르지 않는다고 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Windows 11의 AI 기능 중 NPU가 필요한 것과 필요 없는 것."
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerberg는 Muse Charm이 “실시간 음성과 아바타 스택을 포함한 Muse 경험 전체를 열쇠고리에 달 수 있고 언제든 대화할 수 있는 기기에” 담았다고 말했다. The Information 보도로는 명령을 내리기 전에 본인인지 확인하는 지문 인식기가 달렸고, Verizon 5G 데이터도 최대 12개월 무료로 준다."
+                "x": "AMD의 Ryzen AI 400 시리즈는 50~60 TOPS, Qualcomm의 Snapdragon X2 Elite와 X2 Plus는 80 TOPS, Intel의 Panther Lake는 최대 50 TOPS까지 나온다. 그래도 수치가 높다고 Windows 기능이 더 열리지는 않는다. Ollama, LM Studio, llama.cpp는 NPU가 아니라 GPU와 CPU에서 돈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "요즘 노트북 칩은 모두 Copilot+ 기준인 40 TOPS를 넘는다."
               },
               {
                 "t": "p",
-                "x": "Meta는 10월 개발자가 “Muse Gadgets”를 직접 만들도록 오픈소스 가이드를 공개했다. 에이전트 사용자는 이미 1,000만 명을 넘었고, Wear OS와 watchOS용 Muse 앱도 나왔다. Meta는 Apple과 Google의 규칙을 벗어나 고객 관계를 직접 쥐려는 모양새다. Muse 사용자가 에이전트로 물건을 살 때 기업에 수수료를 물리는 커머스 도구도 만들고 있다."
+                "x": "지금 노트북 값을 끌어올리는 건 메모리다. NPU는 구매 이유가 아니라 덤으로 보면 된다. Copilot+ 기능에는 16GB 램이 최소이고, 로컬 언어 모델을 돌리려면 32GB나 별도 GPU를 생각해 두는 게 좋다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse Charmは\n$300、5G無料か",
-          "body": "MetaのAI端末は$300で、Verizon 5Gが最大12カ月無料になるという。",
-          "mini_headline": "Muse Charmは$300",
+          "headline": "NPUはもう\nノートPCを買う理由ではない",
+          "body": "全チップが40 TOPS超、AIアプリもNPUを使わず、Copilot+は意味が薄い。",
+          "mini_headline": "Copilot+のNPU、優位性を失う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "ホリデーギフトとしてのノートPC。購入の決め手をNPUにすべきではない。"
               },
               {
                 "t": "p",
-                "x": "The Informationによると、Metaは自社のAIエージェントMuseと話すためのたまごっち風（Tamagotchi-esque）ガジェットMuse Charmを$300で販売する計画だという。Metaは9月のConnectで、スマートフォンを取り出さずにエージェントを使う手段としてこれを発表し、ホリデーシーズンに間に合わせて発売するとしていた。"
+                "x": "NPUは、MicrosoftのCopilot+ PCsやRecallなどの機能への入場券だった。2026年後半の今、ほぼすべての新型ノートPCがNPUを搭載し、Copilot+ブランドは存在感を失いつつあり、最も知られたローカルAIアプリはこのチップをまったく使っていない。Copilot+は今も40 TOPSを超えるNPUに加え、16GBのRAMと256GBのSSDを要件としている。Surface責任者のBrett Ostrumは、2026年のSurfaceデバイスはもはやCopilot+ PCsとは呼ばれないと述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Windows 11のAI機能のうち、NPUが必要なものと不要なもの。"
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerbergは、Muse Charmについて「リアルタイムの音声とアバターのスタックを含むMuse体験のすべてを、キーホルダーに付けられ、いつでも話しかけられるものに」詰め込んだと述べた。The Informationによれば、コマンドを出す前に本人確認を行う指紋リーダーを備え、Verizonの5Gデータが最大12カ月無料で付く。"
+                "x": "AMDのRyzen AI 400シリーズは50〜60 TOPS、QualcommのSnapdragon X2 EliteとX2 Plusは80 TOPS、IntelのPanther Lakeは最大50 TOPSに達するが、数値が高くてもWindowsの機能が増えるわけではない。Ollama、LM Studio、llama.cppはNPUではなくGPUとCPUで動作する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "現行のノートPC向けチップはすべてCopilot+の基準である40 TOPSを超えている。"
               },
               {
                 "t": "p",
-                "x": "Metaは10月、開発者が独自の「Muse Gadgets」を作れるオープンソースのガイドを公開した。このエージェントはすでに1000万人を超えるユーザーを集め、MetaはWear OSとwatchOS向けのMuseアプリもリリースしている。MetaはAppleやGoogleのルールに縛られず顧客との関係を直接握りたい考えとみられ、Museのユーザーがエージェント経由で購入した際に企業から手数料を取るコマース機能も開発中だ。"
+                "x": "今ノートPCを高くしているのはメモリだ。NPUは購入理由ではなくおまけと考えるべきだ。Copilot+機能には16GBのRAMが最低限必要で、ローカル言語モデルを使うなら32GBか専用GPUを見込んでおきたい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse Charm据报\n售价$300 送5G",
-          "body": "Meta口袋AI设备据报售价$300，附赠最多12个月免费Verizon 5G。",
-          "mini_headline": "Muse Charm售$300",
+          "headline": "NPU已不再是\n买笔记本的理由",
+          "body": "新芯片普遍超过40 TOPS，本地AI应用也不用NPU，Copilot+标签已无关紧要。",
+          "mini_headline": "Copilot+ NPU优势不再",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "笔记本电脑作为节日礼物。NPU不应成为购买的决定因素。"
               },
               {
                 "t": "p",
-                "x": "据The Information报道，Meta计划以$300的价格出售Muse Charm，这是一款用于与其Muse AI智能体对话、类似拓麻歌子（Tamagotchi-esque）的小设备。Meta在9月的Connect大会上推出了它，称其让用户无需掏出智能手机就能使用智能体，并表示将赶在假日季上市。"
+                "x": "NPU曾是通往Microsoft Copilot+ PCs以及Recall等功能的门票。到2026年底，几乎每台新笔记本都配备了NPU，Copilot+品牌逐渐淡出，而最知名的本地AI应用根本不使用这颗芯片。Copilot+仍要求NPU算力超过40 TOPS，并配备16GB内存和256GB SSD；Surface负责人Brett Ostrum表示，2026年的Surface设备不再称为Copilot+ PCs。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Windows 11中哪些AI功能需要NPU，哪些不需要。"
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerberg表示，Muse Charm把“完整的Muse体验，包括实时语音和虚拟形象技术栈，装进了一个能挂在钥匙扣上、随时可以对话的设备里”。据The Information报道，它配有指纹识别器，可在你下达指令前验证身份，并将附赠最多12个月的Verizon免费5G流量。"
+                "x": "AMD的Ryzen AI 400系列达到50至60 TOPS，Qualcomm的Snapdragon X2 Elite和X2 Plus达到80 TOPS，Intel的Panther Lake最高50 TOPS——更高的数字并不会解锁额外的Windows功能。Ollama、LM Studio和llama.cpp运行在GPU和CPU上，而不是NPU。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "当前所有笔记本芯片都超过了Copilot+ 40 TOPS的门槛。"
               },
               {
                 "t": "p",
-                "x": "10月，Meta为开发者发布了开源指南，帮助他们打造自己的“Muse Gadgets”。该智能体已吸引超过1000万用户，Meta还推出了适用于Wear OS和watchOS的Muse应用。Meta似乎希望摆脱Apple和Google的规则，直接掌握与用户的关系，并正在开发商务工具，在Muse用户通过智能体购物时向商家收取费用。"
+                "x": "眼下推高笔记本价格的是内存。应把NPU当作加分项，而不是购买理由：16GB内存是使用Copilot+功能的最低要求，若要运行本地语言模型，应考虑32GB内存或独立GPU。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Muse Charm de Meta costaría\n$300 con 5G gratis",
-          "body": "Según The Information, el dispositivo de AI de Meta costará $300 con hasta 12 meses de 5G gratis de Verizon.",
-          "mini_headline": "Muse Charm por $300",
+          "headline": "La NPU ya no es motivo\npara comprar un portátil",
+          "body": "Con todo chip nuevo sobre 40 TOPS y las apps de IA local ignorando la NPU, la etiqueta Copilot+ apenas importa.",
+          "mini_headline": "La NPU de Copilot+ pierde peso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "Un portátil como regalo para las fiestas. La NPU no debería ser lo que decida la compra."
               },
               {
                 "t": "p",
-                "x": "Según The Information, Meta planea vender por $300 el Muse Charm, un aparato al estilo Tamagotchi (Tamagotchi-esque) para hablar con su agente de AI Muse. Meta lo presentó en Connect en septiembre como una forma de usar su agente sin recurrir al smartphone, y dijo que llegaría a tiempo para las fiestas."
+                "x": "La NPU era el pase de entrada a los Copilot+ PCs de Microsoft y a funciones como Recall. A finales de 2026, casi todos los portátiles nuevos tienen NPU, la marca Copilot+ se está desdibujando y las apps de IA local más conocidas no usan ese chip en absoluto. Copilot+ sigue exigiendo una NPU de más de 40 TOPS, además de 16GB de RAM y un SSD de 256GB; el responsable de Surface, Brett Ostrum, dijo que los dispositivos Surface de 2026 ya no se llaman Copilot+ PCs."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Qué funciones de IA de Windows 11 necesitan una NPU y cuáles no."
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerberg dijo que el Muse Charm reúne \"toda la experiencia de Muse, incluida la pila de voz y avatar en tiempo real, en algo que cabe en un llavero y siempre está disponible para hablar\". Según The Information, incluye un lector de huellas para verificar la identidad antes de dar órdenes y vendrá con hasta 12 meses de datos 5G gratis de Verizon."
+                "x": "La serie Ryzen AI 400 de AMD alcanza de 50 a 60 TOPS; los Snapdragon X2 Elite y X2 Plus de Qualcomm, 80 TOPS, y Panther Lake de Intel, hasta 50 TOPS: las cifras más altas no desbloquean funciones adicionales de Windows. Ollama, LM Studio y llama.cpp se ejecutan en la GPU y la CPU, no en la NPU."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "Todos los chips actuales para portátiles superan el umbral de 40 TOPS de Copilot+."
               },
               {
                 "t": "p",
-                "x": "En octubre, Meta compartió guías de código abierto para que los desarrolladores creen sus propios \"Muse Gadgets\". El agente ya suma más de 10 millones de usuarios, y Meta también lanzó una app de Muse para Wear OS y watchOS. Meta parece querer controlar directamente su relación con los clientes, al margen de las reglas de Apple y Google, y trabaja en herramientas comerciales para cobrar una comisión a las empresas cuando los usuarios de Muse compren a través del agente."
+                "x": "Hoy es la memoria lo que encarece los portátiles. Conviene ver la NPU como un extra, no como un motivo de compra: 16GB de RAM es el mínimo para las funciones de Copilot+, y para modelos de lenguaje locales conviene prever 32GB o una GPU dedicada."
               }
             ]
           }
@@ -1677,105 +1241,531 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Muse Charm 값은\n$300, 5G 무료 보도",
-          "body": "Meta AI 기기는 $300에 Verizon 5G 최대 12개월 무료라는 보도다.",
-          "mini_headline": "Muse Charm, $300",
+          "headline": "이제 NPU는\n노트북 구매 이유가 아니다",
+          "body": "칩마다 40 TOPS를 넘고 AI 앱은 NPU를 안 써 Copilot+가 무색하다.",
+          "mini_headline": "Copilot+ NPU, 빛을 잃다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "연말 선물로 고르는 노트북. 구매를 결정하는 기준이 NPU여서는 안 된다."
               },
               {
                 "t": "p",
-                "x": "The Information에 따르면 Meta는 자사 Muse AI 에이전트와 대화하는 다마고치 같은(Tamagotchi-esque) 기기 Muse Charm을 $300에 판매할 계획이다. Meta는 9월 Connect에서 스마트폰을 꺼내지 않고도 에이전트를 쓸 수 있는 방법으로 이 기기를 소개했고, 연말 연휴 시즌에 맞춰 출시하겠다고 밝혔다."
+                "x": "NPU는 Microsoft의 Copilot+ PCs와 Recall 같은 기능으로 가는 입장권이었다. 2026년 말 현재 거의 모든 신형 노트북에 NPU가 들어가 있고, Copilot+ 브랜드는 희미해지고 있으며, 가장 잘 알려진 로컬 AI 앱들은 이 칩을 전혀 쓰지 않는다. Copilot+는 여전히 40 TOPS가 넘는 NPU와 16GB 램, 256GB SSD를 요구한다. Surface 책임자 Brett Ostrum은 2026년형 Surface 기기를 더는 Copilot+ PCs로 부르지 않는다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Windows 11의 AI 기능 중 NPU가 필요한 것과 필요 없는 것."
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerberg는 Muse Charm이 “실시간 음성과 아바타 스택을 포함한 Muse 경험 전체를 열쇠고리에 달 수 있고 언제든 대화할 수 있는 기기에” 담았다고 말했다. The Information에 따르면 명령을 내리기 전 본인 확인을 하는 지문 인식기를 갖췄고, Verizon의 5G 데이터를 최대 12개월 무료로 제공한다."
+                "x": "AMD의 Ryzen AI 400 시리즈는 50~60 TOPS, Qualcomm의 Snapdragon X2 Elite와 X2 Plus는 80 TOPS, Intel의 Panther Lake는 최대 50 TOPS에 이르지만, 수치가 높다고 Windows 기능이 더 열리지는 않는다. Ollama, LM Studio, llama.cpp는 NPU가 아닌 GPU와 CPU에서 돌아간다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "현재 노트북 칩은 모두 Copilot+ 기준인 40 TOPS를 넘는다."
               },
               {
                 "t": "p",
-                "x": "Meta는 10월 개발자가 직접 “Muse Gadgets”를 만들 수 있도록 오픈소스 가이드를 공개했다. 이 에이전트는 이미 1,000만 명이 넘는 사용자를 모았고, Meta는 Wear OS와 watchOS용 Muse 앱도 내놓았다. Meta는 Apple과 Google의 규칙에서 벗어나 고객과의 관계를 직접 쥐려는 것으로 보이며, Muse 사용자가 에이전트를 통해 구매할 때 기업에 수수료를 물리는 커머스 도구도 개발하고 있다."
+                "x": "지금 노트북 가격을 끌어올리는 것은 메모리다. NPU는 구매 이유가 아니라 보너스로 여기는 편이 낫다. Copilot+ 기능에는 16GB 램이 최소이고, 로컬 언어 모델을 돌리려면 32GB나 별도 GPU를 염두에 두는 것이 좋다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse Charmは\n$300、5G無料か",
-          "body": "MetaのAI端末は$300で、Verizon 5Gが最大12カ月無料になるという。",
-          "mini_headline": "Muse Charmは$300",
+          "headline": "NPUはもう\nノートPCを買う理由ではない",
+          "body": "全チップが40 TOPS超、AIアプリもNPUを使わず、Copilot+は意味が薄い。",
+          "mini_headline": "Copilot+のNPU、優位性を失う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "ホリデーギフトとしてのノートPC。購入の決め手をNPUにすべきではない。"
               },
               {
                 "t": "p",
-                "x": "The Informationによると、Metaは自社のAIエージェントMuseと話すためのたまごっち風（Tamagotchi-esque）ガジェットMuse Charmを$300で販売する計画だという。Metaは9月のConnectで、スマートフォンを取り出さずにエージェントを使う手段としてこれを発表し、ホリデーシーズンに間に合わせて発売するとしていた。"
+                "x": "NPUは、MicrosoftのCopilot+ PCsやRecallなどの機能への入場券だった。2026年後半の今、ほぼすべての新型ノートPCがNPUを搭載し、Copilot+ブランドは存在感を失いつつあり、最も知られたローカルAIアプリはこのチップをまったく使っていない。Copilot+は今も40 TOPSを超えるNPUに加え、16GBのRAMと256GBのSSDを要件としている。Surface責任者のBrett Ostrumは、2026年のSurfaceデバイスはもはやCopilot+ PCsとは呼ばれないと述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Windows 11のAI機能のうち、NPUが必要なものと不要なもの。"
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerbergは、Muse Charmについて「リアルタイムの音声とアバターのスタックを含むMuse体験のすべてを、キーホルダーに付けられ、いつでも話しかけられるものに」詰め込んだと述べた。The Informationによれば、コマンドを出す前に本人確認を行う指紋リーダーを備え、Verizonの5Gデータが最大12カ月無料で付く。"
+                "x": "AMDのRyzen AI 400シリーズは50〜60 TOPS、QualcommのSnapdragon X2 EliteとX2 Plusは80 TOPS、IntelのPanther Lakeは最大50 TOPSに達するが、数値が高くてもWindowsの機能が増えるわけではない。Ollama、LM Studio、llama.cppはNPUではなくGPUとCPUで動作する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "現行のノートPC向けチップはすべてCopilot+の基準である40 TOPSを超えている。"
               },
               {
                 "t": "p",
-                "x": "Metaは10月、開発者が独自の「Muse Gadgets」を作れるオープンソースのガイドを公開した。このエージェントはすでに1000万人を超えるユーザーを集め、MetaはWear OSとwatchOS向けのMuseアプリもリリースしている。MetaはAppleやGoogleのルールに縛られず顧客との関係を直接握りたい考えとみられ、Museのユーザーがエージェント経由で購入した際に企業から手数料を取るコマース機能も開発中だ。"
+                "x": "今ノートPCを高くしているのはメモリだ。NPUは購入理由ではなくおまけと考えるべきだ。Copilot+機能には16GBのRAMが最低限必要で、ローカル言語モデルを使うなら32GBか専用GPUを見込んでおきたい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse Charm据报\n售价$300 送5G",
-          "body": "Meta口袋AI设备据报售价$300，附赠最多12个月免费Verizon 5G。",
-          "mini_headline": "Muse Charm售$300",
+          "headline": "NPU已不再是\n买笔记本的理由",
+          "body": "新芯片普遍超过40 TOPS，本地AI应用也不用NPU，Copilot+标签已无关紧要。",
+          "mini_headline": "Copilot+ NPU优势不再",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "笔记本电脑作为节日礼物。NPU不应成为购买的决定因素。"
               },
               {
                 "t": "p",
-                "x": "据The Information报道，Meta计划以$300的价格出售Muse Charm，这是一款用于与其Muse AI智能体对话、类似拓麻歌子（Tamagotchi-esque）的小设备。Meta在9月的Connect大会上推出了它，称其让用户无需掏出智能手机就能使用智能体，并表示将赶在假日季上市。"
+                "x": "NPU曾是通往Microsoft Copilot+ PCs以及Recall等功能的门票。到2026年底，几乎每台新笔记本都配备了NPU，Copilot+品牌逐渐淡出，而最知名的本地AI应用根本不使用这颗芯片。Copilot+仍要求NPU算力超过40 TOPS，并配备16GB内存和256GB SSD；Surface负责人Brett Ostrum表示，2026年的Surface设备不再称为Copilot+ PCs。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Windows 11中哪些AI功能需要NPU，哪些不需要。"
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerberg表示，Muse Charm把“完整的Muse体验，包括实时语音和虚拟形象技术栈，装进了一个能挂在钥匙扣上、随时可以对话的设备里”。据The Information报道，它配有指纹识别器，可在你下达指令前验证身份，并将附赠最多12个月的Verizon免费5G流量。"
+                "x": "AMD的Ryzen AI 400系列达到50至60 TOPS，Qualcomm的Snapdragon X2 Elite和X2 Plus达到80 TOPS，Intel的Panther Lake最高50 TOPS——更高的数字并不会解锁额外的Windows功能。Ollama、LM Studio和llama.cpp运行在GPU和CPU上，而不是NPU。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "当前所有笔记本芯片都超过了Copilot+ 40 TOPS的门槛。"
               },
               {
                 "t": "p",
-                "x": "10月，Meta为开发者发布了开源指南，帮助他们打造自己的“Muse Gadgets”。该智能体已吸引超过1000万用户，Meta还推出了适用于Wear OS和watchOS的Muse应用。Meta似乎希望摆脱Apple和Google的规则，直接掌握与用户的关系，并正在开发商务工具，在Muse用户通过智能体购物时向商家收取费用。"
+                "x": "眼下推高笔记本价格的是内存。应把NPU当作加分项，而不是购买理由：16GB内存是使用Copilot+功能的最低要求，若要运行本地语言模型，应考虑32GB内存或独立GPU。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Muse Charm de Meta costaría\n$300 con 5G gratis",
-          "body": "Según The Information, el dispositivo de AI de Meta costará $300 con hasta 12 meses de 5G gratis de Verizon.",
-          "mini_headline": "Muse Charm por $300",
+          "headline": "La NPU ya no es motivo\npara comprar un portátil",
+          "body": "Con todo chip nuevo sobre 40 TOPS y las apps de IA local ignorando la NPU, la etiqueta Copilot+ apenas importa.",
+          "mini_headline": "La NPU de Copilot+ pierde peso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/intro-1795128747.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+                "cap": "Un portátil como regalo para las fiestas. La NPU no debería ser lo que decida la compra."
               },
               {
                 "t": "p",
-                "x": "Según The Information, Meta planea vender por $300 el Muse Charm, un aparato al estilo Tamagotchi (Tamagotchi-esque) para hablar con su agente de AI Muse. Meta lo presentó en Connect en septiembre como una forma de usar su agente sin recurrir al smartphone, y dijo que llegaría a tiempo para las fiestas."
+                "x": "La NPU era el pase de entrada a los Copilot+ PCs de Microsoft y a funciones como Recall. A finales de 2026, casi todos los portátiles nuevos tienen NPU, la marca Copilot+ se está desdibujando y las apps de IA local más conocidas no usan ese chip en absoluto. Copilot+ sigue exigiendo una NPU de más de 40 TOPS, además de 16GB de RAM y un SSD de 256GB; el responsable de Surface, Brett Ostrum, dijo que los dispositivos Surface de 2026 ya no se llaman Copilot+ PCs."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+                "cap": "Qué funciones de IA de Windows 11 necesitan una NPU y cuáles no."
               },
               {
                 "t": "p",
-                "x": "Mark Zuckerberg dijo que el Muse Charm reúne \"toda la experiencia de Muse, incluida la pila de voz y avatar en tiempo real, en algo que cabe en un llavero y siempre está disponible para hablar\". Según The Information, incluye un lector de huellas para verificar la identidad antes de dar órdenes y vendrá con hasta 12 meses de datos 5G gratis de Verizon."
+                "x": "La serie Ryzen AI 400 de AMD alcanza de 50 a 60 TOPS; los Snapdragon X2 Elite y X2 Plus de Qualcomm, 80 TOPS, y Panther Lake de Intel, hasta 50 TOPS: las cifras más altas no desbloquean funciones adicionales de Windows. Ollama, LM Studio y llama.cpp se ejecutan en la GPU y la CPU, no en la NPU."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+                "cap": "Todos los chips actuales para portátiles superan el umbral de 40 TOPS de Copilot+."
               },
               {
                 "t": "p",
-                "x": "En octubre, Meta compartió guías de código abierto para que los desarrolladores creen sus propios \"Muse Gadgets\". El agente ya suma más de 10 millones de usuarios, y Meta también lanzó una app de Muse para Wear OS y watchOS. Meta parece querer controlar directamente su relación con los clientes, al margen de las reglas de Apple y Google, y trabaja en herramientas comerciales para cobrar una comisión a las empresas cuando los usuarios de Muse compren a través del agente."
+                "x": "Hoy es la memoria lo que encarece los portátiles. Conviene ver la NPU como un extra, no como un motivo de compra: 16GB de RAM es el mínimo para las funciones de Copilot+, y para modelos de lenguaje locales conviene prever 32GB o una GPU dedicada."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "flowtica-verso-comulytic",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Comulytic, 굼뜬\nFlowtica를 제쳤다",
+      "body": "ZDNET은 화면이 느린 Verso보다 $130 미만 Note Pro를 택했다.",
+      "mini_headline": "Note Pro, Flowtica Verso에 승",
+      "tool": "Gadgets",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/tech/flowtica-verso-vs-comulytic-note-pro/",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+            "cap": "Adrian Kingsley-Hughes/ZDNET"
+          },
+          {
+            "t": "p",
+            "x": "새로 나온 Flowtica Verso는 큰 전자종이 터치스크린과 MagSafe 커넥터를 단 AI 음성 녹음기다. ZDNET은 이를 Comulytic의 Note Pro와 비교했다. 둘 다 훌륭하다. 마이크는 Verso가 네 개로 Note Pro의 두 개(통화용 전도 마이크 별도)보다 많지만 녹음 품질은 큰 차이가 없다. Verso의 받아쓰기는 뛰어나고 70시간 배터리 주장도 믿을 만하다. Note Pro는 45시간이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+            "cap": "Verso에서 Wi-Fi 비밀번호를 입력하는 일은 지연 탓에 답답하다."
+          },
+          {
+            "t": "p",
+            "x": "Verso의 가장 큰 문제는 “정말, 고통스러울 만큼 느리다”는 점이다. 탭한 뒤 반응까지 반 초나 걸려 터치스크린의 장점이 깎여 나가고, “Ask Flowtica” 버튼도 굼떴으며 “인터넷 연결 없음” 메시지까지 떴다. Note Pro는 그냥 잘 작동했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+            "cap": "Note Pro는 작고 수수하며, 그냥 잘 작동한다."
+          },
+          {
+            "t": "p",
+            "x": "Verso의 정가는 $299, Note Pro는 $130 미만이다. Verso의 실시간 받아쓰기, Voice ID, 요약은 구독하지 않으면 한 달 300분으로 묶이지만 Comulytic의 무료 요금제는 기본 요약을 무제한 제공한다. 필자는 당분간 Note Pro를 계속 쓰기로 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Comulytic Note Pro beats\nthe laggy Flowtica Verso",
+          "body": "ZDNET sticks with the under-$130 Comulytic Note Pro, finding the $299 Flowtica Verso's e-paper screen too slow.",
+          "mini_headline": "Note Pro beats Flowtica Verso",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "The new Flowtica Verso is an AI voice recorder with a big e-paper touchscreen and a MagSafe connector. ZDNET compared it to Comulytic’s Note Pro. Both are excellent: despite the Verso having four microphones to the Note Pro’s two (plus a conduction mic for phone calls), there is no significant difference in recording quality. The Verso’s transcription is excellent and its 70-hour battery claim is believable; the Note Pro offers 45 hours."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "Entering a Wi-Fi password on the Verso is frustrating due to lag."
+              },
+              {
+                "t": "p",
+                "x": "The Verso’s biggest pain point: it is “really, painfully slow.” The half-second lag between tap and reaction undermines the touchscreen, the “Ask Flowtica” button was slow, and it showed “no internet connection” messages. The Note Pro just worked."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "The Note Pro is small, unassuming, and just works."
+              },
+              {
+                "t": "p",
+                "x": "The Verso lists at $299; the Note Pro is under $130. The Verso’s live transcription, Voice ID and summaries are limited to 300 minutes a month without a subscription, while Comulytic’s free tier includes unlimited basic summaries. Verdict: the author is sticking with the Note Pro for now."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Comulytic, 굼뜬\nFlowtica를 제쳤다",
+          "body": "ZDNET은 화면이 느린 Verso보다 $130 미만 Note Pro를 택했다.",
+          "mini_headline": "Note Pro, Flowtica Verso에 승",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "새로 나온 Flowtica Verso는 큰 전자종이 터치스크린과 MagSafe 커넥터를 단 AI 음성 녹음기다. ZDNET은 이를 Comulytic의 Note Pro와 비교했다. 둘 다 훌륭하다. 마이크는 Verso가 네 개로 Note Pro의 두 개(통화용 전도 마이크 별도)보다 많지만 녹음 품질은 큰 차이가 없다. Verso의 받아쓰기는 뛰어나고 70시간 배터리 주장도 믿을 만하다. Note Pro는 45시간이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "Verso에서 Wi-Fi 비밀번호를 입력하는 일은 지연 탓에 답답하다."
+              },
+              {
+                "t": "p",
+                "x": "Verso의 가장 큰 문제는 “정말, 고통스러울 만큼 느리다”는 점이다. 탭한 뒤 반응까지 반 초나 걸려 터치스크린의 장점이 깎여 나가고, “Ask Flowtica” 버튼도 굼떴으며 “인터넷 연결 없음” 메시지까지 떴다. Note Pro는 그냥 잘 작동했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "Note Pro는 작고 수수하며, 그냥 잘 작동한다."
+              },
+              {
+                "t": "p",
+                "x": "Verso의 정가는 $299, Note Pro는 $130 미만이다. Verso의 실시간 받아쓰기, Voice ID, 요약은 구독하지 않으면 한 달 300분으로 묶이지만 Comulytic의 무료 요금제는 기본 요약을 무제한 제공한다. 필자는 당분간 Note Pro를 계속 쓰기로 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Comulyticが\n遅いFlowticaに勝る",
+          "body": "ZDNETは画面の遅い$299のVersoより$130未満のNote Proを選ぶ。",
+          "mini_headline": "Note Pro、Flowtica Versoに勝る",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "新しいFlowtica Versoは、大型の電子ペーパー製タッチスクリーンとMagSafeコネクターを備えたAIボイスレコーダーだ。ZDNETはこれをComulyticのNote Proと比較した。どちらも優秀だ。マイクはVersoが四つ、Note Proが二つ(加えて通話用の伝導マイク)だが、録音品質に大きな差はない。Versoの文字起こしは優秀で、70時間というバッテリー持続の公称値も信頼できる。Note Proは45時間だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "Versoでは遅延のせいでWi-Fiのパスワード入力にいらいらさせられる。"
+              },
+              {
+                "t": "p",
+                "x": "Versoの最大の難点は「本当に、つらいほど遅い」ことだ。タップしてから反応するまでの半秒の遅延がタッチスクリーンの利点を損ない、「Ask Flowtica」ボタンも遅く、「インターネット接続なし」というメッセージも表示された。Note Proは普通にきちんと動いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "Note Proは小さく控えめで、きちんと動く。"
+              },
+              {
+                "t": "p",
+                "x": "Versoの定価は$299、Note Proは$130未満だ。Versoのリアルタイム文字起こし、Voice ID、要約はサブスクリプションなしでは月300分までに制限されるが、Comulyticの無料プランには基本要約が無制限で含まれる。結論:筆者は当面Note Proを使い続ける。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Comulytic录音笔\n胜过卡顿的Flowtica",
+          "body": "ZDNET继续用不到$130的Note Pro，嫌$299的Verso墨水屏太慢。",
+          "mini_headline": "Note Pro胜过Flowtica Verso",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "新款Flowtica Verso是一款AI录音设备，配有大尺寸电子纸触摸屏和MagSafe接口。ZDNET将其与Comulytic的Note Pro进行了比较。两者都很出色：尽管Verso有四个麦克风，而Note Pro只有两个（外加一个用于通话的传导麦克风），但录音质量并无明显差别。Verso的转写效果出色，其70小时续航的说法也可信；Note Pro则为45小时。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "由于延迟，在Verso上输入Wi-Fi密码令人抓狂。"
+              },
+              {
+                "t": "p",
+                "x": "Verso最大的痛点是它“真的慢得令人痛苦”。从点击到响应之间半秒的延迟削弱了触摸屏的体验，“Ask Flowtica”按钮反应也慢，还出现了“无网络连接”的提示。Note Pro则一直正常工作。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "Note Pro小巧低调，用起来就是顺手。"
+              },
+              {
+                "t": "p",
+                "x": "Verso售价$299，Note Pro不到$130。没有订阅的话，Verso的实时转写、Voice ID和摘要功能每月限300分钟，而Comulytic的免费版包含无限次基础摘要。结论：作者目前仍会继续使用Note Pro。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Comulytic Note Pro supera\nal lento Flowtica Verso",
+          "body": "ZDNET se queda con el Comulytic Note Pro (menos de $130): la pantalla e-paper del Flowtica Verso ($299) es muy lenta.",
+          "mini_headline": "Note Pro supera a Flowtica Verso",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "El nuevo Flowtica Verso es una grabadora de voz con IA con una gran pantalla táctil de papel electrónico y un conector MagSafe. ZDNET lo comparó con el Note Pro de Comulytic. Ambos son excelentes: aunque el Verso tiene cuatro micrófonos frente a los dos del Note Pro (más un micrófono de conducción para llamadas), no hay una diferencia significativa en la calidad de grabación. La transcripción del Verso es excelente y su promesa de 70 horas de batería resulta creíble; el Note Pro ofrece 45 horas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "Introducir una contraseña de Wi-Fi en el Verso resulta frustrante por el retardo."
+              },
+              {
+                "t": "p",
+                "x": "El mayor problema del Verso: es “realmente, dolorosamente lento”. El retardo de medio segundo entre el toque y la reacción resta valor a la pantalla táctil, el botón “Ask Flowtica” era lento y aparecían mensajes de “sin conexión a internet”. El Note Pro, simplemente, funcionó."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "El Note Pro es pequeño, discreto y simplemente funciona."
+              },
+              {
+                "t": "p",
+                "x": "El Verso tiene un precio de lista de $299; el Note Pro cuesta menos de $130. La transcripción en vivo, Voice ID y los resúmenes del Verso se limitan a 300 minutos al mes sin suscripción, mientras que el plan gratuito de Comulytic incluye resúmenes básicos ilimitados. Veredicto: por ahora, el autor se queda con el Note Pro."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Comulytic, 굼뜬\nFlowtica를 제쳤다",
+          "body": "ZDNET은 화면이 느린 Verso보다 $130 미만 Note Pro를 택했다.",
+          "mini_headline": "Note Pro, Flowtica Verso에 승",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "새로 나온 Flowtica Verso는 큰 전자종이 터치스크린과 MagSafe 커넥터를 갖춘 AI 음성 녹음기다. ZDNET은 이를 Comulytic의 Note Pro와 비교했다. 둘 다 훌륭하다. Verso의 마이크는 네 개로 Note Pro의 두 개(통화용 전도 마이크 별도)보다 많지만, 녹음 품질에는 큰 차이가 없다. Verso의 받아쓰기는 뛰어나고 70시간 배터리 주장도 믿을 만하다. Note Pro는 45시간이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "Verso에서 Wi-Fi 비밀번호를 입력하는 일은 지연 탓에 답답하다."
+              },
+              {
+                "t": "p",
+                "x": "Verso의 가장 큰 문제는 “정말, 고통스러울 만큼 느리다”는 점이다. 탭하고 반응하기까지 반 초가 걸리는 지연이 터치스크린의 장점을 깎아 먹고, “Ask Flowtica” 버튼도 느렸으며, “인터넷 연결 없음” 메시지까지 떴다. Note Pro는 그냥 잘 작동했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "Note Pro는 작고 수수하며, 그냥 잘 작동한다."
+              },
+              {
+                "t": "p",
+                "x": "Verso의 정가는 $299이고 Note Pro는 $130 미만이다. Verso의 실시간 받아쓰기, Voice ID, 요약은 구독 없이는 한 달 300분으로 제한되지만, Comulytic의 무료 요금제에는 기본 요약이 무제한 포함된다. 결론: 필자는 당분간 Note Pro를 계속 쓰기로 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Comulyticが\n遅いFlowticaに勝る",
+          "body": "ZDNETは画面の遅い$299のVersoより$130未満のNote Proを選ぶ。",
+          "mini_headline": "Note Pro、Flowtica Versoに勝る",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "新しいFlowtica Versoは、大型の電子ペーパー製タッチスクリーンとMagSafeコネクターを備えたAIボイスレコーダーだ。ZDNETはこれをComulyticのNote Proと比較した。どちらも優秀だ。マイクはVersoが四つ、Note Proが二つ(加えて通話用の伝導マイク)だが、録音品質に大きな差はない。Versoの文字起こしは優秀で、70時間というバッテリー持続の公称値も信頼できる。Note Proは45時間だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "Versoでは遅延のせいでWi-Fiのパスワード入力にいらいらさせられる。"
+              },
+              {
+                "t": "p",
+                "x": "Versoの最大の難点は「本当に、つらいほど遅い」ことだ。タップしてから反応するまでの半秒の遅延がタッチスクリーンの利点を損ない、「Ask Flowtica」ボタンも遅く、「インターネット接続なし」というメッセージも表示された。Note Proは普通にきちんと動いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "Note Proは小さく控えめで、きちんと動く。"
+              },
+              {
+                "t": "p",
+                "x": "Versoの定価は$299、Note Proは$130未満だ。Versoのリアルタイム文字起こし、Voice ID、要約はサブスクリプションなしでは月300分までに制限されるが、Comulyticの無料プランには基本要約が無制限で含まれる。結論:筆者は当面Note Proを使い続ける。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Comulytic录音笔\n胜过卡顿的Flowtica",
+          "body": "ZDNET继续用不到$130的Note Pro，嫌$299的Verso墨水屏太慢。",
+          "mini_headline": "Note Pro胜过Flowtica Verso",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "新款Flowtica Verso是一款AI录音设备，配有大尺寸电子纸触摸屏和MagSafe接口。ZDNET将其与Comulytic的Note Pro进行了比较。两者都很出色：尽管Verso有四个麦克风，而Note Pro只有两个（外加一个用于通话的传导麦克风），但录音质量并无明显差别。Verso的转写效果出色，其70小时续航的说法也可信；Note Pro则为45小时。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "由于延迟，在Verso上输入Wi-Fi密码令人抓狂。"
+              },
+              {
+                "t": "p",
+                "x": "Verso最大的痛点是它“真的慢得令人痛苦”。从点击到响应之间半秒的延迟削弱了触摸屏的体验，“Ask Flowtica”按钮反应也慢，还出现了“无网络连接”的提示。Note Pro则一直正常工作。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "Note Pro小巧低调，用起来就是顺手。"
+              },
+              {
+                "t": "p",
+                "x": "Verso售价$299，Note Pro不到$130。没有订阅的话，Verso的实时转写、Voice ID和摘要功能每月限300分钟，而Comulytic的免费版包含无限次基础摘要。结论：作者目前仍会继续使用Note Pro。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Comulytic Note Pro supera\nal lento Flowtica Verso",
+          "body": "ZDNET se queda con el Comulytic Note Pro (menos de $130): la pantalla e-paper del Flowtica Verso ($299) es muy lenta.",
+          "mini_headline": "Note Pro supera a Flowtica Verso",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+                "cap": "Adrian Kingsley-Hughes/ZDNET"
+              },
+              {
+                "t": "p",
+                "x": "El nuevo Flowtica Verso es una grabadora de voz con IA con una gran pantalla táctil de papel electrónico y un conector MagSafe. ZDNET lo comparó con el Note Pro de Comulytic. Ambos son excelentes: aunque el Verso tiene cuatro micrófonos frente a los dos del Note Pro (más un micrófono de conducción para llamadas), no hay una diferencia significativa en la calidad de grabación. La transcripción del Verso es excelente y su promesa de 70 horas de batería resulta creíble; el Note Pro ofrece 45 horas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+                "cap": "Introducir una contraseña de Wi-Fi en el Verso resulta frustrante por el retardo."
+              },
+              {
+                "t": "p",
+                "x": "El mayor problema del Verso: es “realmente, dolorosamente lento”. El retardo de medio segundo entre el toque y la reacción resta valor a la pantalla táctil, el botón “Ask Flowtica” era lento y aparecían mensajes de “sin conexión a internet”. El Note Pro, simplemente, funcionó."
+              },
+              {
+                "t": "img",
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+                "cap": "El Note Pro es pequeño, discreto y simplemente funciona."
+              },
+              {
+                "t": "p",
+                "x": "El Verso tiene un precio de lista de $299; el Note Pro cuesta menos de $130. La transcripción en vivo, Voice ID y los resúmenes del Verso se limitan a 300 minutos al mes sin suscripción, mientras que el plan gratuito de Comulytic incluye resúmenes básicos ilimitados. Veredicto: por ahora, el autor se queda con el Note Pro."
               }
             ]
           }

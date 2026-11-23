@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "movies",
   "items": [
     {
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
-      "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
-      "source": "Variety",
-      "published_iso": "2026-11-22T15:02:50+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=563&crop=1",
-      "excerpt": "'The Unknown' filmmaker Arthur Harari says AI is 'slippery slope,' though he says he used a deepfake tool for a scene where Léa Seydoux kisses herself.",
-      "rationale": "A concrete on-set use of a deepfake tool by an AI-skeptic auteur: how a face-swap was used for a double scene, with a human performer behind it."
+      "title": "Boris FX releases Silhouette 2027",
+      "url": "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/",
+      "source": "CG Channel",
+      "published_iso": "2026-11-22T04:00:36+00:00",
+      "og_image": null,
+      "excerpt": "The VFX rotoscoping and paint tool adds new machine-learning nodes such as Body ML that generate editable roto shapes, and a Video Inpaint ML node to speed up object removal.",
+      "rationale": "A shipping release of an industry-standard roto/paint tool: ML nodes that output editable roto shapes and inpaint objects change how VFX artists work tomorrow (assigned to movies only by the brief)."
     },
     {
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "제44회 부산국제단편영화제, '인공지능(AI)경쟁' 신설... 단편영화의 새로운 장을 연다",
-      "url": "http://www.indifocus.kr/84113",
-      "source": "인디포커스",
-      "published_iso": "2026-11-17T14:56:00+09:00",
-      "og_image": "https://www.indifocus.kr/data/jmbc_tv/mainimages/202611/250_333_2026111756577477.jpg",
-      "excerpt": "부산국제단편영화제(BISFF)가 2027년 4월 열리는 제44회 영화제의 인공지능(AI)경쟁 부문 출품 공모를 지난 11월 9일(월)부터 시작했다. AI경쟁은 제44회에서",
-      "rationale": "A major Korean short-film festival opens a dedicated AI competition with live submissions, the opposite of the ban-AI moves at other festivals and something filmmakers can enter now."
+      "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar",
+      "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+      "source": "IndieWire",
+      "published_iso": "2026-11-23T21:42:26+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=650",
+      "excerpt": "The Academy has ruled Gossip Goblin's AI-generated feature 'Gods Don't Give Gifts' ineligible for the Best Animated Feature Oscar race, ahead of its Dec. 4 theatrical release.",
+      "rationale": "Follow-up with a new concrete decision: the Academy's first eligibility ruling against an AI-generated feature in Best Animated Feature, a precedent for anyone planning an awards run with gen-AI work."
     },
     {
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Can Dubai’s $1 Million AI Film Award Help AI Cinema Be Taken Seriously?",
-      "url": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
-      "source": "WIRED Middle East",
-      "published_iso": "2026-11-18T05:30:00.000Z",
-      "og_image": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/191:100/w_1280,c_limit/Cinema_lead.jpg",
-      "excerpt": "As Dubai’s AI Film Award returns for its second edition, the region bears witness to what happens when an AI film prize starts being taken seriously.",
-      "rationale": "The largest AI film prize returns for its second edition. It shows where prize money for AI filmmakers is concentrating and was not covered before (distinct from the 11-12 Higgsfield prize)."
+      "title": "How We Built CorridorKey 2.0 | Live Demo & Q&A",
+      "url": "https://www.youtube.com/watch?v=GOX594srvU4",
+      "source": "Corridor Crew",
+      "published_iso": "2026-11-19T13:46:43-08:00",
+      "og_image": "https://i.ytimg.com/vi/GOX594srvU4/maxresdefault.jpg",
+      "excerpt": "Niko and developer Zach Harris break down how Corridor built CorridorKey 2.0, the AI keying tool running on a custom-trained model, with a live demo.",
+      "rationale": "A new version of an AI keying tool, demoed live by its builders. Keying is everyday compositing work, and the demo shows what the custom model can and cannot pull."
     },
     {
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "태국 포탈 엔터테인먼트, AI 숏폼 드라마 앱 SiamSun 공개…AI 배우도 개발",
-      "url": "https://www.topcelev.co.kr/news/articleView.html?idxno=4219",
-      "source": "톱셀럽뉴스",
-      "published_iso": "2026-11-17T20:31:38+09:00",
-      "og_image": "https://cdn.topcelev.co.kr/news/thumbnail/202611/4219_4027_5911_v150.jpg",
-      "excerpt": "스마트폰 화면에 맞춘 세로형 숏폼 드라마 시장이 커지면서 제작 과정에 생성형 AI를 투입하는 사업자가 아시아 각국에서 늘고 있다. 태국 경제매체 브랜드 인사이드(Brand Inside)가 태국 무역정책전략사무소 자료를 인용해 전한 바에 따르면 세계 세로형 드라마 시장은 2025년 37",
-      "rationale": "A new product launch: a Thai studio ships an AI vertical-drama app with in-house AI actors. It shows the AI microdrama model spreading beyond China and Korea."
+      "title": "심형래 감독, AI 기술로 깨운 '디 워: NEW HOPE' 2027년 재개봉 예고",
+      "url": "https://www.cineplay.co.kr/ko-kr/articles/30918",
+      "source": "씨네플레이",
+      "published_iso": "2026-11-23T16:54:00+09:00",
+      "og_image": "https://img.youtube.com/vi/V0qbfbg8EdE/maxresdefault.jpg",
+      "excerpt": "심형래 감독이 힉스필드AI와 협력해 AI 영상 기술로 30분 분량의 미공개 액션 장면을 추가한 '디 워: NEW HOPE'를 2027년 국내외 재개봉한다고 밝혔다.",
+      "rationale": "A new announcement with a trailer: a known Korean feature gets 30 minutes of new AI-generated action (with Higgsfield) for a 2027 re-release, a new kind of AI re-edit of a legacy film."
     },
     {
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "AI로 만든 1분 영화 19편, 첫 '온에어 어워즈'서 빛났다",
-      "url": "https://www.news1.kr/local/gwangju-jeonnam/6359050",
-      "source": "뉴스1",
-      "published_iso": "2026-11-19T09:41:56+09:00",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-      "excerpt": "광주온에어스테이션 성과 공유 상영·시상식 개최 총 133명 교육 참여, 대상에 김예지씨 '악몽청소부' (재)광주정보문화산업진흥원은 AI 영상 제작 교육 수강생들의 작품을 선보이는 '2026 온에어 어워즈'를 개최했다고 19일 밝혔다.지난 12일 광주CGI센터 온에 …",
-      "rationale": "A regional AI-filmmaking program held its first awards: 133 trainees and 19 one-minute AI films. It is a separate event from the 11-18 KOCCA showcase."
+      "title": "AI filmmaking: how director Perry Bhandal works solo using gen AI tools",
+      "url": "https://www.broadcastnow.co.uk/industry-opinions/ai-filmmaking-how-director-perry-bhandal-works-solo-using-gen-ai-tools/5222709.article",
+      "source": "Broadcast",
+      "published_iso": "2026-11-23T15:41:00+00:00",
+      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+      "excerpt": "Indie filmmaker Perry Bhandal, who released the AI-generated feature 'Okay, It's Time To Go', gives a detailed first-hand account of what solo gen-AI feature production actually involves versus his 18-day conventional shoots.",
+      "rationale": "A first-hand workflow account from a director who shipped a solo gen-AI feature, compared against his conventional 18-day shoots. It is practical detail, not opinion."
     }
   ],
   "dedup": {
     "checks": {
-      "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/": {
+      "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/": {
         "verdict": "new",
-        "nearest": "https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060/",
+        "nearest": "https://www.kentertechhub.com/4by4-ai-pixell-macos-inter-bee-2026-en/",
         "new_action": ""
       },
-      "http://www.indifocus.kr/84113": {
+      "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/": {
+        "verdict": "follow-up",
+        "nearest": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
+        "new_action": "The Academy ruled the film ineligible for the Best Animated Feature Oscar (new official decision; the 10-26 card covered only AFM sales)."
+      },
+      "https://www.youtube.com/watch?v=GOX594srvU4": {
         "verdict": "new",
-        "nearest": "https://www.indieshortsmag.com/news/2026/11/chilemonos-2027-animation-festival-submissions-oscar-qualifying/",
+        "nearest": "https://beeble.ai/research/switchx-3-0",
         "new_action": ""
       },
-      "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously": {
+      "https://www.cineplay.co.kr/ko-kr/articles/30918": {
         "verdict": "new",
-        "nearest": "https://www.awn.com/news/argentinas-listen-meh-wins-500k-higgsfield-ai-film-prize",
+        "nearest": "https://www.news1.kr/entertain/broadcast-tv/6337749",
         "new_action": ""
       },
-      "https://www.topcelev.co.kr/news/articleView.html?idxno=4219": {
+      "https://www.broadcastnow.co.uk/industry-opinions/ai-filmmaking-how-director-perry-bhandal-works-solo-using-gen-ai-tools/5222709.article": {
         "verdict": "new",
-        "nearest": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
-        "new_action": ""
-      },
-      "https://www.news1.kr/local/gwangju-jeonnam/6359050": {
-        "verdict": "new",
-        "nearest": "https://www.aitimes.kr/news/articleView.html?idxno=42753",
+        "nearest": "https://www.screendaily.com/news/bruno-dumont-turns-to-generative-ai-to-film-english-language-sci-fi-thriller-the-end/5222133.article",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: IndieWire Fincher/Se7en gen-AI (likely-repeat of 11-22 Deadline Fincher card, same running story, no new release); AI타임스 China first AI film box-office flop (same story as 10-27 Cartoon Brew card); Cartoon Brew Annecy/Ottawa/Manchester programmers on GenAI (assigned movies-only by the brief, but it is commentary around the Manchester AI-entry ban already published 11-14 with no new decision, and 11-22 curation dropped it on the same grounds); 조선비즈 '아이리스' writer interview (interview about the AI web-drama slate covered 11-19 via ppss.kr); Premiere AI Assistant color-matching tip (how-to on the beta covered by the 11-11 Adobe MAX Premiere card, also dropped 11-22). Dropped on scope/strength: TechNode Kling/Sora (IPO, business noise); Utopai Beverly Hills office (org/jobs news); Slator Iyuno CEO podcast (interview, dubbing saturated, no og_image); Etsy AI training terms (marginal to movies, likely design/marketing territory); 국민일보 AI drama trend (overlaps 11-19 AI drama card); EBS AI history animation (launched September, feature); 뉴스1 Busan AI film school 2기 (kept the Gwangju awards instead, one per outlet-type event). Cross-section: published_urls.json could not be exact-grepped (Read-only tools); picks are movie-native items unlikely to appear elsewhere and none is in the brief's cross-section list."
+    "note": "Dropped as duplicates / running stories: DW German voice actors vs Netflix AI dubbing contract (related to the 11-06 Matti Klemm v. Netflix card, the same German Netflix AI-voice dispute; analysis with no new filing); MTN '라파엘' cost structure piece (analysis around 라파엘, already covered by the 11-22 Korea Times review). Cross-section: Maxon Plus (postPerspective) excluded because the brief assigns it to design only. Dropped on strength: Rian Johnson interview (commentary, saturated celebrity-opinion beat after Fincher/Stallone/Hampton); Curious Refuge Topview T1 'Seedance reskin' (speculative claim, related to the 11-20 Topview and 11-16 Seedance cards); Variety WIF India x Google Flow Filmathon (festival/showcase, weaker than the picks; Variety already heavy in history); 한국경제 interactive AI short drama (too close to the 11-21 '위인극장' interactive AI drama card). Diversity: 5 distinct outlets, at most 1 per outlet. Cross-section: published_urls.json is too large to exact-grep with Read-only tools; picks are movie-native, and Silhouette 2027 is explicitly assigned to movies by the brief."
   }
 }

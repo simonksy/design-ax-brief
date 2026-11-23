@@ -12824,6 +12824,155 @@
           "x": "AI tooling built for UE6 is coming back to UE5, starting with the UE 5.9 MegaJam Preview: expanded Python scripting, Model Context Protocol (MCP) improvements, Web as a target platform, and Unreal Canvas for generating assets. \"We built much of UE 5.9 with AI agents, including most of the web platform work.\""
         }
       ]
+    },
+    "games/slotbound-ai-solo-hit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6j0w7Q2Q_LM"
+        },
+        {
+          "t": "p",
+          "x": "Slotbound, developed and published by Optima Arch, is a roguelite auto-battler defense game in which you spin a slot machine to summon units and survive waves. Lining up a row on the 3×3 slots summons units, which rise in level and role through fusion and upgrades."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+        },
+        {
+          "t": "p",
+          "x": "Its appeal is strategic depth beyond luck, with \"cores,\" \"essences,\" random \"traits\" and skill inheritance through unit \"absorption.\" Players have said things like \"I thought it was a luck game, but it's not just luck\" and \"I can't find a time to stop and keep playing just 1 more time...\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+          "cap": "Lower the middle line and the crowns line up."
+        },
+        {
+          "t": "p",
+          "x": "Optima Arch developed the game as a 1-person project. Starting with almost no programming or game development experience, the developer used AI coding tools and released the game in about 8 months. The developer personally reworked the game systems, balance and UI so it would be fun to play as a game."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+        },
+        {
+          "t": "p",
+          "x": "It passed 100,000 copies 3 days after launch and 200,000 in 6 days. It currently includes 6 stages and an endless mode, and the developer plans to keep fixing bugs, adjusting balance and adding new content based on feedback. It is out now on PC (Steam)."
+        }
+      ]
+    },
+    "games/tinybuild-short-reveal-window": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "\"I think the biggest talking point over the next half year is going to be the time to market, and how devs are now afraid of how AI copies their games,\" says Tinybuild head Alex Nichiporchik. Generative AI makes it easier to copy in-development titles, for example by reverse engineering code from demos; Needle in a Haystack Simulator drew multiple copycats on Steam after a video got more than 50 million views on X."
+        },
+        {
+          "t": "p",
+          "x": "The new wisdom is to keep the gap between announcement and launch to a minimum. Probably Stolen was announced on August 3 and released on October 28, and has already sold more than a million units, with launch CCU climbing above 80,000."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Probably Stolen was released on October 28, around three months after it was revealed"
+        },
+        {
+          "t": "p",
+          "x": "Nichiporchik says the tool REA (Reverse Engineer Anything) has made clones much worse: \"especially for Unity games, you can pretty much one shot the source code.\" Still, he says devs shouldn't be afraid: \"AI will multiply your skills, and zero times a thousand is still zero\" — game feel is impossible to copy."
+        },
+        {
+          "t": "p",
+          "x": "The game also took off in China, where 51% of 246,000 playtest activations came from and it was priced at 55 yuan ($8.25) versus $19.99 in the US."
+        }
+      ]
+    },
+    "games/automaton-steam-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A report has been published that statistically analyzes how disclosing AI use affects game sales on Steam, as estimated from review counts. It covers 31,003 games released between January 2025 and October 2026, of which 9251, roughly thirty percent, disclose the use of AI."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Median estimated sales were 200 copies for games that did not disclose AI use and 71 for those that did. Even in an estimation model with matched conditions, games disclosing AI use were predicted to see 49.5% fewer reviews. This does not, however, show causation."
+        },
+        {
+          "t": "p",
+          "x": "The median time from store page launch to release was 167 days for non-disclosing games and 52 days for disclosing games. Followers on release day were also 20 versus 6. Burton said \"the real issue may not be AI,\" pointing out that many of these games are first titles stuck in a \"losing pattern\" with no publisher, no fan base and too little preparation time."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He also noted that a \"penalty\" for stating AI use can arise before launch, adding that it cannot be determined whether lack of preparation or aversion to AI is the right explanation, and that the two cannot be separated."
+        }
+      ]
+    },
+    "games/chesscom-classic-hub-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Chess.com is adding 10 more games — backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word — as part of its new Classic Games platform, launching its public beta on the web and new iOS and Android apps."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Classic Games has the same bots as Chess.com, including Martin."
+        },
+        {
+          "t": "p",
+          "x": "AI played a key role in helping Chess.com launch 11 new games in a matter of months with a team of only a few people. Chief growth officer Albert Cheng says they used \"almost entirely the same approach\" as for Gambit, with AI helping to speed up coding. \"Because these games are built on top of the Chess.com code base and design system and bot characters and rating systems, it's a huge advantage and allows us to move very quickly alongside AI.\""
+        },
+        {
+          "t": "p",
+          "x": "AI wasn't used for Classic Games' art and design, Cheng says. \"The look and feel of it is very carefully crafted by humans, and we're proud of that.\" On the art and design side, he adds, \"we're hiring more of those folks.\""
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Multiplayer games on Classic Games have a chat sidebar."
+        }
+      ]
+    },
+    "games/isaac-repentance-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+          "cap": "The Binding of Isaac: Repentance Plus"
+        },
+        {
+          "t": "p",
+          "x": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site."
+        },
+        {
+          "t": "p",
+          "x": "Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
+        },
+        {
+          "t": "p",
+          "x": "Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed. While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt, likely because he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024."
+        }
+      ]
     }
   }
 }

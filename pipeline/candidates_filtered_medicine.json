@@ -1,200 +1,200 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-22T22:03:00Z",
+  "now_iso": "2026-11-23T22:00:42Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI may not improve patient outcomes for stroke",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-11T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: Northwell/Hofstra compared 876 acute ischemic stroke patients before and after five AI tools went live at a comprehensive stroke center; after propensity matching, AI did not change odds of good functional outcome or discharge disposition, though CTA-within-60-minutes rose sharply.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "DL model cuts patient gadolinium exposure to 10% of standard dose",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/mri-preview/article/16425335/dl-model-cuts-patient-gadolinium-exposure-to-10-of-standard-dose",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-12T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: Subtle Medical's deep-learning algorithm restored brain MRI contrast enhancement from a 10% gadolinium dose; in 63 patients, blinded randomized reads found no significant difference in lesion categorization vs. standard-dose images.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "Thyroid ultrasound AI yields high agreement with radiologists",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425162/thyroid-ultrasound-ai-yields-high-agreement-with-radiologists",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-11T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: See-Mode thyroid ultrasound AI deployed at 297 U.S. clinics; across 95,000+ studies and 187,000+ nodules (Sep 2025-Apr 2026), radiologists left AI-generated descriptors and TI-RADS level unchanged in nearly 89% of nodules.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "Tele-Cranio: a CT-free AI solution for remote diagnosis and planning of craniomaxillofacial deformities",
-      "url": "https://www.nature.com/articles/s41746-026-03454-z",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-20T06:14:29Z",
-      "excerpt": "npj Digital Medicine: Tele-Cranio is an AI system that enables remote, CT-free assessment and surgical planning for craniomaxillofacial deformities, cutting repeated in-hospital CT and radiation burden, particularly for children.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "Multicenter evaluation of radiomics and multimodal artificial intelligence for colorectal cancer diagnosis and survival prediction",
-      "url": "https://www.nature.com/articles/s41746-026-03434-3",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-19T01:04:43Z",
-      "excerpt": "npj Digital Medicine: two-center retrospective study of 879 participants (741 locally advanced colorectal cancer, 138 benign lesions) combining clinical, radiomic and multimodal AI features for preoperative classification and survival prediction.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "Dual chain-of-thought AI-PDCA framework for clinical history taking and documentation",
-      "url": "https://www.nature.com/articles/s41746-026-03430-7",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-16T18:22:59Z",
-      "excerpt": "npj Digital Medicine: an LLM-based training framework with dual chain-of-thought reasoning and plan-do-check-act feedback for teaching medical students clinical history-taking and documentation.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "Epic Systems defends competitive practices, promises to let AI access its records",
-      "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/",
-      "source": "STAT",
-      "published_iso": "2026-11-18T23:07:55Z",
-      "excerpt": "At HLTH, executives from Epic, the largest EHR vendor, defended its competitive practices and pledged to let outside AI tools access patient records held in its systems.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/image-9-1024x576.jpg",
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo",
+      "source": "BBC News",
       "category": "medicine",
+      "published_iso": "2026-11-23T00:49:22Z",
+      "excerpt": "NHS England has begun inviting women into EDITH, billed as the world's largest trial of AI in breast cancer screening (around 700,000 women), testing whether AI can replace one of the two human readers of mammograms and spot cancers earlier.",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
       "history_match": {
-        "score": 0.163,
-        "date": "2026-11-03",
-        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
-        "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
+        "score": 0.175,
+        "date": "2026-10-25",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+        "title": "AI checks the trustworthiness of breast cancer AI models",
         "band": "related"
       }
     },
     {
-      "title": "HLTH26: Where Viz.ai, NRHA's AI collab is making headway",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural",
+      "title": "AI in Mental Health Airlock to support safe innovation",
+      "url": "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation",
+      "source": "GOV.UK (MHRA)",
+      "category": "medicine",
+      "published_iso": "2026-11-23T16:46:00+00:00",
+      "excerpt": "The MHRA is launching an 'AI in Mental Health Airlock', a new regulatory sandbox to test how safety of AI-enabled digital mental health technologies can be evaluated and regulated.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "history_match": {
+        "score": 0.24,
+        "date": "2026-11-21",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.44315",
+        "title": "Mental Health Needs and Emotional-Support Artificial Intelligence Use",
+        "band": "related"
+      }
+    },
+    {
+      "title": "심부전 치료제 효과, AI로 환자별 예측한다",
+      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99050",
+      "source": "후생신보",
+      "category": "medicine",
+      "published_iso": "2026-11-23T09:46:58+09:00",
+      "excerpt": "국내 연구진이 16가지 임상정보로 특정 심부전 치료제의 효과가 클 환자를 구분하는 AI 도구를 개발했다. 같은 약이라도 환자별로 달라지는 치료 혜택을 예측한다.",
+      "og_image": "https://cdn.kmedinfo.co.kr/news/thumbnail/202611/99050_63326_4653_v150.jpg"
+    },
+    {
+      "title": "이명도 맞춤치료 시대…AI로 환자 3가지 유형 구분",
+      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99052",
+      "source": "후생신보",
+      "category": "medicine",
+      "published_iso": "2026-11-23T09:52:06+09:00",
+      "excerpt": "국내 연구진이 AI로 이명 환자를 청력 상태와 스트레스 수준에 따라 세 유형으로 분류하고, 유형별 치료 반응 차이를 확인했다.",
+      "og_image": "https://cdn.kmedinfo.co.kr/news/thumbnail/202611/99052_63328_5158_v150.jpg"
+    },
+    {
+      "title": "Multimodal CT-pathology imaging deep learning model for risk stratification in resected stage I lung adenocarcinoma",
+      "url": "https://www.nature.com/articles/s41746-026-03467-8",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-23T00:00:00Z",
+      "excerpt": "Lung adenocarcinoma is a highly heterogeneous disease, highlighting the need for more accurate prognosis prediction. We developed a multimodal deep learning model combining preoperative computed tomography (CT) and postoperative whole slide image (WSI) to predict the disease-free survival (DFS) of r",
+      "og_image": null
+    },
+    {
+      "title": "Ambient AI documentation for structured EMR import in ophthalmology: consultation time, physician gaze behaviour and comparative accuracy",
+      "url": "https://www.nature.com/articles/s41433-026-05028-5",
+      "source": "Eye (Nature)",
+      "category": "medicine",
+      "published_iso": "2026-11-23T00:00:00Z",
+      "excerpt": "EMR documentation contributes to physician workload and reduced patient–physician interaction, with ophthalmology particularly affected by specialist data requirements. This study compared ambient AI-assisted documentation for structured EMR import with conventional entry in standardised ophthalmic ",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png"
+    },
+    {
+      "title": "A multimodal foundation model for molecular and morphologic data in oncology",
+      "url": "https://www.nature.com/articles/s43018-026-01252-w",
+      "source": "Nature Cancer",
+      "category": "medicine",
+      "published_iso": "2026-11-20T00:00:00Z",
+      "excerpt": "Vaidya et al. present THREADS, a foundation model leveraging multimodal data and driven by tissue molecular composition features to perform with high efficiency and demonstrating generalizability across clinical oncology tasks.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43018-026-01252-w/MediaObjects/43018_2026_1252_Fig1_HTML.png"
+    },
+    {
+      "title": "Danaher partners with Microsoft to create an agentic AI platform",
+      "url": "https://www.medtechdive.com/news/danaher-partners-with-microsoft-to-create-an-agentic-ai-platform/875437/",
+      "source": "MedTech Dive",
+      "category": "medicine",
+      "published_iso": "2026-11-23T10:00:00-05:00",
+      "excerpt": "Danaher is partnering with Microsoft to build an agentic AI platform for life-sciences and diagnostics work; early tests found novice scientists worked faster when assisted by AI.",
+      "og_image": "https://imgproxy.divecdn.com/Q5XZ8dcqztK6JI6Rcsg58Ovyzr-Ou30Lq4QP8Rc1Lu0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODkwMjQzNTkwXzNRbmRsSXcuanBn.webp"
+    },
+    {
+      "title": "Innovaccer integrates Grok Voice into Gravity Voice AI agents",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/innovaccer-integrates-grok-voice-gravity-voice-ai-agents",
       "source": "Fierce Healthcare",
-      "published_iso": "2026-11-18T19:18:00Z",
-      "excerpt": "Seven months into Viz.ai's collaboration with the National Rural Health Association, Viz.ai's chief clinical officer outlines how its AI disease-detection and care-coordination platform is being extended to rural hospitals.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg",
-      "category": "medicine"
-    },
-    {
-      "title": "Medicare Pays For the AI Eye Scan — Nobody Pays For What Comes Next",
-      "url": "https://medcitynews.com/2026/11/medicare-pays-for-the-ai-eye-scan-nobody-pays-for-what-comes-next/",
-      "source": "MedCity News",
-      "published_iso": "2026-11-17T14:18:00Z",
-      "excerpt": "MedCity Influencers op-ed: Medicare reimburses autonomous AI diabetic eye exams, but follow-up care for patients the AI flags is not funded, limiting the real-world impact of AI retinopathy screening.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "Abridge Announcements during HLTH Emphasize Growing Healthcare Trend",
-      "url": "https://medcitynews.com/2026/11/abridge-announcements-during-hlth-emphasize-growing-healthcare-trend/",
-      "source": "MedCity News",
-      "published_iso": "2026-11-18T18:12:07Z",
-      "excerpt": "Abridge's HLTH announcements reflect the push to bring clinical information and AI documentation into the workflows providers already use.",
-      "og_image": null,
       "category": "medicine",
-      "history_match": {
-        "score": 0.194,
-        "date": "2026-11-17",
-        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
-        "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
-        "band": "related"
-      }
+      "published_iso": "2026-11-23T13:00:00-05:00",
+      "excerpt": "Innovaccer is integrating xAI's Grok Voice into its Gravity Voice AI agents for autonomous patient engagement calls such as scheduling and outreach.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2232514171.jpg?VersionId=VwvVk9PfSFHEStjWC3XS9.q9WGuNS0P1"
     },
     {
-      "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers or Treating Physicians?",
-      "url": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
-      "source": "MedCity News",
-      "published_iso": "2026-11-19T23:44:27Z",
-      "excerpt": "Commentary on insurers' use of AI in medical-necessity and prior-authorization decisions versus treating-physician judgment.",
-      "og_image": null,
-      "category": "medicine"
-    },
-    {
-      "title": "AI is coming for primary care",
-      "url": "https://www.healthcaredive.com/news/ai-is-coming-for-primary-care/874966/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-11-18T10:45:29-05:00",
-      "excerpt": "At HLTH, executives debated AI that lets primary care doctors manage far more patients or replaces them, after Oura's plan to acquire AI-based primary care company Counsel Health.",
-      "og_image": null,
+      "title": "Photon pharmacy marketplace integrated with ChatGPT for clinicians",
+      "url": "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians",
+      "source": "Fierce Healthcare",
       "category": "medicine",
+      "published_iso": "2026-11-23T08:30:00-05:00",
+      "excerpt": "Photon, a prescription infrastructure company, is now available as a plugin for ChatGPT to streamline prescribing for clinicians within a tool they already use. | The patient experience remains the same through Photon. What is new is where the clinician can write a prescription. Clinicians with a Ph",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA"
+    },
+    {
+      "title": "FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601439",
+      "source": "NEJM AI",
+      "category": "medicine",
+      "published_iso": "2026-11-19T15:00:16Z",
+      "excerpt": "NEJM AI paper reporting the development and validation of an FDA-authorized AI/ML sepsis prediction tool (Crossref online date 2026-11-19).",
+      "og_image": "https://ai.nejm.org/pb-assets/ai-site/images/system/NEJM_AI_200px-1717172950127.png",
       "history_match": {
-        "score": 0.198,
+        "score": 0.191,
         "date": "2026-11-02",
-        "url": "https://www.nature.com/articles/s41746-026-03444-1",
-        "title": "Accuracy and impact of an AI safety system for missed specialist referrals in primary care",
+        "url": "https://www.nature.com/articles/s44220-026-00753-y",
+        "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
         "band": "related"
       }
     },
     {
-      "title": "Development and validation of a machine learning model to predict outpatient appointment non-attendance: a retrospective study using multisource NHS data",
-      "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2026-117999",
-      "source": "BMJ Open",
-      "published_iso": "2026-11-19T12:40:27Z",
-      "excerpt": "BMJ Open: an appointment-level ML model built on multisource NHS records predicts outpatient 'did not attend' risk to enable targeted interventions that reduce missed appointments.",
-      "og_image": null,
+      "title": "The emerging winners and losers in the AI scribe market",
+      "url": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/",
+      "source": "STAT",
       "category": "medicine",
+      "published_iso": "2026-11-18T19:25:59+00:00",
+      "excerpt": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AIPrognosis_Wordpress_AIscribemarket-1024x576.jpg"
+    },
+    {
+      "title": "진단만 하는 AI 넘어섰다…자율 의료 AI 에이전트, 검사·처방·입원 결정까지 수행",
+      "url": "https://www.medigatenews.com/news/1569490689",
+      "source": "메디게이트뉴스",
+      "category": "medicine",
+      "published_iso": "2026-11-21T10:58:00+09:00",
+      "excerpt": "네이처 논문 소개: 하이델베르크대 등 연구진의 자율 의료 AI 에이전트 'MIRA'가 실제 환자 574명 기록 기반 가상 응급실에서 문진·검사·처방·입원 결정까지 수행, 311개 사례 진단 정확도 87.8%로 전문의(78.1%)를 웃돌았다. 실환자 검증은 과제.",
+      "og_image": "https://medigatenews.com/file/news/543134"
+    },
+    {
+      "title": "DL model predicts long-term breast cancer risk from screening ultrasound",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542361/dl-model-predicts-longterm-breast-cancer-risk-from-screening-ultrasound",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-23T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: NYU Langone's BUS-Risk-Net deep-learning model, trained on 295,000+ screening breast ultrasound exams from 122,000+ women, predicts long-term breast cancer risk from ultrasound images plus age and density.",
+      "og_image": null,
       "history_match": {
-        "score": 0.161,
-        "date": "2026-11-13",
-        "url": "https://www.nature.com/articles/s41746-026-03449-w",
-        "title": "Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach",
+        "score": 0.227,
+        "date": "2026-10-25",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+        "title": "AI checks the trustworthiness of breast cancer AI models",
         "band": "related"
       }
     },
     {
-      "title": "Domain-specific large language models with chain-of-thought prompting for antibiotic prescribing: a 2x2 factorial evaluation",
-      "url": "https://informatics.bmj.com/lookup/doi/10.1136/bmjhci-2026-102418",
-      "source": "BMJ Health & Care Informatics",
-      "published_iso": "2026-11-12T13:00:19Z",
-      "excerpt": "BMJ Health & Care Informatics: compares a domain-specific medical LLM with a general-purpose LLM, with and without chain-of-thought prompting, on how rational and safe their antibiotic prescribing decisions are, plus an LLM-based auto-scorer.",
-      "og_image": "https://informatics.bmj.com/content/bmjhci/33/1/e102418/F1.medium.gif",
-      "category": "medicine"
+      "title": "AI risk tool targets supplemental breast MRI to cut early detection failures",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425476/ai-risk-tool-targets-supplemental-breast-mri-to-cut-early-detection-failures",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-13T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: results from the ScreenTrustMRI trial, which tested whether an AI risk predictor can select the screening participants who benefit most from supplemental breast MRI.",
+      "og_image": null
+    },
+    {
+      "title": "On-scanner cardiac MR model enables point-of-acquisition AI",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/mri-preview/article/16425317/onscanner-cardiac-mr-model-enables-pointofacquisition-ai",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-12T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: ORION-CMR, an agentic cardiac MR foundation model trained on 9,258 studies (12.9M images), runs on the scanner console for segmentation, disease and LGE classification, T1 mapping and real-time report generation.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.174,
+        "date": "2026-11-18",
+        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541666/deeplearning-adds-pcctlike-chest-imaging-quality-to-existing-scanners",
+        "title": "Deep-learning adds PCCT-like chest imaging quality to existing scanners",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 14,
+    "dropped": 5,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 5,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-24",
-      "title": "Can AI diagnose like a team of doctors? New research puts it to the test",
-      "url": "https://microsoft.ai/news/building-medical-superintelligence/"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Five AI tools for prostate cancer screening are recommended by NICE",
-      "url": "https://www.bmj.com/content/395/bmj-2026-101231"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "식약처, AI 신약 심사기준 연내 마련...제네릭·일반약 허가 규제 완화",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014609"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "약사회, 약사 업무지원 AI 개발…현장 테스트 약사 모집",
-      "url": "https://www.dailypharm.com/user/news/343652"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Human oversight of erroneous clinical AI and decision support: a systematic review and meta-analysis",
-      "url": "https://www.nature.com/articles/s41746-026-03408-5"
-    },
     {
       "date": "2026-10-25",
       "title": "FDA clears Elucid's new AI-enabled FFR-CT software",
@@ -869,6 +869,31 @@
       "date": "2026-11-22",
       "title": "ECG foundation models for cardiovascular screening in a cohort of young competitive athletes",
       "url": "https://www.nature.com/articles/s41746-026-03474-9"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Development and validation of a machine learning model to predict outpatient appointment non-attendance: a retrospective study using multisource NHS data",
+      "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2026-117999"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Domain-specific large language models with chain-of-thought prompting for antibiotic prescribing: a 2x2 factorial evaluation",
+      "url": "https://informatics.bmj.com/lookup/doi/10.1136/bmjhci-2026-102418"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "AI may not improve patient outcomes for stroke",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "DL model cuts patient gadolinium exposure to 10% of standard dose",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/mri-preview/article/16425335/dl-model-cuts-patient-gadolinium-exposure-to-10-of-standard-dose"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Tele-Cranio: a CT-free AI solution for remote diagnosis and planning of craniomaxillofacial deformities",
+      "url": "https://www.nature.com/articles/s41746-026-03454-z"
     }
   ]
 }

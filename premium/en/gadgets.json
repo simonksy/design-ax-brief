@@ -13452,6 +13452,142 @@
           "x": "The hardware is light and comfortable, with a Smart Dial digital crown and a bright binocular display; battery is rated up to 48 hours of typical use, 18 hours with continuous audio recording. The verdict: useful in places, but persistent, discreet listening isn't worth the privacy trade-off."
         }
       ]
+    },
+    "gadgets/paradromics-nvidia-bci": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A Michigan woman named Mary has a Paradromics implant roughly the size of a dime that lets her, despite motor neuron disease, express her thoughts through a synthesized voice. The speech decoding currently requires a cart full of electronics plugged into an outlet; a year from now, thanks to Nvidia technology, that cart will become a small box that can sit on her wheelchair."
+        },
+        {
+          "t": "p",
+          "x": "Austin-based Paradromics announced a partnership with the AI chipmaker to use Nvidia’s hardware and software to process its brain data. The implant uses more than 400 embedded electrodes, and a computer uses AI to infer what she is trying to say. CEO Matt Angle calls brain-computer interfaces the ultimate case for edge computing."
+        },
+        {
+          "t": "p",
+          "x": "Paradromics will use Nvidia’s Jetson, a low-powered computing module, to do speech decoding in a small device close to the user, and Holoscan, Nvidia’s AI sensor processing software, for low-lag interaction alongside cameras and microphones. It will also be able to integrate Nvidia’s foundation models; running them locally means users won’t need an internet connection. Nvidia, which also works with Synchron, will not have access to brain data through these partnerships."
+        }
+      ]
+    },
+    "gadgets/asus-proart-p14-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Asus crammed Nvidia’s RTX Spark chip into the lightest 14-inch ProArt chassis it has ever built, just 0.55 inches thin and 3.26 pounds. It pairs a 3K Lumina Pro OLED touchscreen, an SD card reader, surprisingly good speakers and a 12.5-hour battery life (12:32 in Tom’s Guide’s web browsing test)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+          "cap": "(Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "But to keep the chassis this slim, Asus had to rein in the total wattage. Even in manual mode it tops out at an 80-watt TDP, versus up to 135 watts on the bigger P16, so it trails larger RTX Spark machines when you push the silicon. It is still “plenty snappy for creative work and local AI tasks,” but the underside gets hot under load through wide, exposed vents."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+          "cap": "(Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Verdict: one of the most likable portable creator laptops of the year for traveling creatives and developers, but not the fullest representation of what RTX Spark can do — and the price is steep."
+        }
+      ]
+    },
+    "gadgets/copilot-pc-npu-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+          "cap": "A laptop as a holiday gift. The NPU shouldn't be what decides the purchase."
+        },
+        {
+          "t": "p",
+          "x": "The NPU was the ticket to Microsoft's Copilot+ PCs and features such as Recall. By late 2026, almost every new notebook has an NPU, the Copilot+ brand is fading, and the best-known local AI apps don't use the chip at all. Copilot+ still requires an NPU with more than 40 TOPS plus 16GB of RAM and a 256GB SSD; Surface chief Brett Ostrum said the 2026 Surface devices are no longer called Copilot+ PCs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+          "cap": "Which Windows 11 AI features need an NPU and which don't."
+        },
+        {
+          "t": "p",
+          "x": "AMD's Ryzen AI 400 series reaches 50 to 60 TOPS, Qualcomm's Snapdragon X2 Elite and X2 Plus 80 TOPS, and Intel's Panther Lake up to 50 TOPS — higher numbers unlock no extra Windows features. Ollama, LM Studio and llama.cpp run on the GPU and CPU, not the NPU."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+          "cap": "Every current laptop chip clears the 40 TOPS Copilot+ threshold."
+        },
+        {
+          "t": "p",
+          "x": "Memory is what makes laptops more expensive right now. Treat the NPU as a bonus, not a reason to buy: 16GB of RAM is the minimum for Copilot+ features, and for local language models plan on 32GB or a dedicated GPU."
+        }
+      ]
+    },
+    "gadgets/flowtica-verso-comulytic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+          "cap": "Adrian Kingsley-Hughes/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "The new Flowtica Verso is an AI voice recorder with a big e-paper touchscreen and a MagSafe connector. ZDNET compared it to Comulytic’s Note Pro. Both are excellent: despite the Verso having four microphones to the Note Pro’s two (plus a conduction mic for phone calls), there is no significant difference in recording quality. The Verso’s transcription is excellent and its 70-hour battery claim is believable; the Note Pro offers 45 hours."
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+          "cap": "Entering a Wi-Fi password on the Verso is frustrating due to lag."
+        },
+        {
+          "t": "p",
+          "x": "The Verso’s biggest pain point: it is “really, painfully slow.” The half-second lag between tap and reaction undermines the touchscreen, the “Ask Flowtica” button was slow, and it showed “no internet connection” messages. The Note Pro just worked."
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+          "cap": "The Note Pro is small, unassuming, and just works."
+        },
+        {
+          "t": "p",
+          "x": "The Verso lists at $299; the Note Pro is under $130. The Verso’s live transcription, Voice ID and summaries are limited to 300 minutes a month without a subscription, while Comulytic’s free tier includes unlimited basic summaries. Verdict: the author is sticking with the Note Pro for now."
+        }
+      ]
+    },
+    "gadgets/verge-vibe-coding-gadgets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Large language models can now redesign your TV and upgrade your camera for you. Gadget hacking and modding isn't new — what is new is that it's easy now: people are hacking their hardware simply by prompting Claude Code or Codex to do it."
+        },
+        {
+          "t": "p",
+          "x": "Developer Gathin T prompted Claude Code to take over his ad-filled Xiaomi Android TV; an hour and a half later he had a simpler interface with no onscreen ads. His viral fix became CleanYourTV, one of the most popular repositories on GitHub. Android runs everything from dishwashers to photo frames to luxury cars, and if there's a hidden API or a firmware file online, an LLM can find, unpack and repackage it."
+        },
+        {
+          "t": "p",
+          "x": "Camera enthusiasts are using AI to add recording capabilities, higher resolutions and new color profiles; musicians are turning cheap synths like the M-Vave FM-1 into new gear; gamers are adding features to consoles. Game makers are fighting back, and Luke Dicken predicts \"more invasive DRM.\" Users also risk bricking devices."
+        },
+        {
+          "t": "p",
+          "x": "The safer route is ESP32 modules — cheap, hacker-friendly boards behind devices like the M5Stack PaperMono — and Meta's Muse Charm and Muse Gadgets program. Gathin's advice: never give the bots access to something you can't afford to lose, and make lots of backups."
+        }
+      ]
     }
   }
 }

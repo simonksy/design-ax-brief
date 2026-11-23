@@ -13047,6 +13047,142 @@
           "x": "ハードウェアは軽く快適で、Smart Dialのデジタルクラウンと明るい両眼ディスプレイを備える。バッテリーは通常使用で最大48時間、連続録音時で18時間とされる。結論として、役立つ場面はあるものの、絶え間なく目立たずに聴き続けることはプライバシーを差し出すに値しない。"
         }
       ]
+    },
+    "gadgets/paradromics-nvidia-bci": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ミシガン州に住む女性Maryさんは運動ニューロン疾患を抱えながらも、ダイム硬貨ほどの大きさのParadromicsのインプラントによって、合成音声で考えを表現できる。現在、音声のデコードにはコンセントにつながった電子機器満載のカートが必要だが、一年後にはNvidiaの技術によって、そのカートは車椅子に載せられる小さな箱になる。"
+        },
+        {
+          "t": "p",
+          "x": "オースティンに拠点を置くParadromicsは、Nvidiaのハードウェアとソフトウェアで脳データを処理するため、このAIチップメーカーとの提携を発表した。インプラントには400個以上の電極が埋め込まれており、コンピューターがAIを使って彼女が言おうとしていることを推定する。CEOのMatt Angleは、ブレイン・コンピューター・インターフェースをエッジコンピューティングの究極の事例と呼ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "Paradromicsは、低消費電力のコンピューティングモジュールであるNvidiaのJetsonを使ってユーザーの近くにある小型デバイスで音声デコードを行い、NvidiaのAIセンサー処理ソフトウェアHoloscanを使ってカメラやマイクと連携した低遅延のやり取りを実現する。Nvidiaの基盤モデルも統合でき、ローカルで動かすためユーザーはインターネット接続を必要としない。Synchronとも協業するNvidiaは、これらの提携を通じて脳データにアクセスすることはない。"
+        }
+      ]
+    },
+    "gadgets/asus-proart-p14-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+        },
+        {
+          "t": "p",
+          "x": "AsusはNvidiaのRTX Sparkチップを、同社史上最軽量の14インチProArtシャーシに詰め込んだ。厚さはわずか0.55インチ、重さは3.26ポンドだ。3K Lumina Pro OLEDタッチスクリーン、SDカードリーダー、意外なほど良いスピーカー、12.5時間のバッテリー駆動(Tom’s GuideのWebブラウジングテストで12:32)を備える。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
+          "cap": "(画像クレジット: Future)"
+        },
+        {
+          "t": "p",
+          "x": "ただし、シャーシをここまで薄く保つため、Asusは総電力を抑えざるを得なかった。手動モードでもTDPは最大80ワットで、大型のP16の最大135ワットに及ばない。そのためシリコンの性能を引き出そうとすると、より大きなRTX Spark搭載機に後れを取る。それでも「クリエイティブ作業やローカルAIタスクには十分きびきび動く」が、高負荷時には広く露出した通気口のある底面が熱くなる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
+          "cap": "(画像クレジット: Future)"
+        },
+        {
+          "t": "p",
+          "x": "結論:移動の多いクリエイターや開発者にとって、今年最も好感の持てるポータブルなクリエイター向けノートPCの一つだ。ただしRTX Sparkの実力を最大限に示すものではなく、価格も高い。"
+        }
+      ]
+    },
+    "gadgets/copilot-pc-npu-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
+          "cap": "ホリデーギフトとしてのノートPC。購入の決め手をNPUにすべきではない。"
+        },
+        {
+          "t": "p",
+          "x": "NPUは、MicrosoftのCopilot+ PCsやRecallなどの機能への入場券だった。2026年後半の今、ほぼすべての新型ノートPCがNPUを搭載し、Copilot+ブランドは存在感を失いつつあり、最も知られたローカルAIアプリはこのチップをまったく使っていない。Copilot+は今も40 TOPSを超えるNPUに加え、16GBのRAMと256GBのSSDを要件としている。Surface責任者のBrett Ostrumは、2026年のSurfaceデバイスはもはやCopilot+ PCsとは呼ばれないと述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
+          "cap": "Windows 11のAI機能のうち、NPUが必要なものと不要なもの。"
+        },
+        {
+          "t": "p",
+          "x": "AMDのRyzen AI 400シリーズは50〜60 TOPS、QualcommのSnapdragon X2 EliteとX2 Plusは80 TOPS、IntelのPanther Lakeは最大50 TOPSに達するが、数値が高くてもWindowsの機能が増えるわけではない。Ollama、LM Studio、llama.cppはNPUではなくGPUとCPUで動作する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
+          "cap": "現行のノートPC向けチップはすべてCopilot+の基準である40 TOPSを超えている。"
+        },
+        {
+          "t": "p",
+          "x": "今ノートPCを高くしているのはメモリだ。NPUは購入理由ではなくおまけと考えるべきだ。Copilot+機能には16GBのRAMが最低限必要で、ローカル言語モデルを使うなら32GBか専用GPUを見込んでおきたい。"
+        }
+      ]
+    },
+    "gadgets/flowtica-verso-comulytic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
+          "cap": "Adrian Kingsley-Hughes/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "新しいFlowtica Versoは、大型の電子ペーパー製タッチスクリーンとMagSafeコネクターを備えたAIボイスレコーダーだ。ZDNETはこれをComulyticのNote Proと比較した。どちらも優秀だ。マイクはVersoが四つ、Note Proが二つ(加えて通話用の伝導マイク)だが、録音品質に大きな差はない。Versoの文字起こしは優秀で、70時間というバッテリー持続の公称値も信頼できる。Note Proは45時間だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
+          "cap": "Versoでは遅延のせいでWi-Fiのパスワード入力にいらいらさせられる。"
+        },
+        {
+          "t": "p",
+          "x": "Versoの最大の難点は「本当に、つらいほど遅い」ことだ。タップしてから反応するまでの半秒の遅延がタッチスクリーンの利点を損ない、「Ask Flowtica」ボタンも遅く、「インターネット接続なし」というメッセージも表示された。Note Proは普通にきちんと動いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
+          "cap": "Note Proは小さく控えめで、きちんと動く。"
+        },
+        {
+          "t": "p",
+          "x": "Versoの定価は$299、Note Proは$130未満だ。Versoのリアルタイム文字起こし、Voice ID、要約はサブスクリプションなしでは月300分までに制限されるが、Comulyticの無料プランには基本要約が無制限で含まれる。結論:筆者は当面Note Proを使い続ける。"
+        }
+      ]
+    },
+    "gadgets/verge-vibe-coding-gadgets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "大規模言語モデルは、いまやTVのデザインを作り直し、カメラをアップグレードしてくれる。ガジェットのハッキングや改造自体は新しくない。新しいのは、それが簡単になったことだ。Claude CodeやCodexにプロンプトを入力するだけで、人々は自分のハードウェアをハックしている。"
+        },
+        {
+          "t": "p",
+          "x": "開発者のGathin Tは、Claude Codeにプロンプトを入力して広告だらけのXiaomi Android TVを掌握し、一時間半後には画面広告のないシンプルなインターフェースを手にした。話題になった彼の修正はCleanYourTVとなり、GitHubで最も人気のあるリポジトリの一つになった。Androidは食洗機からフォトフレーム、高級車まであらゆるものを動かしており、隠れたAPIやファームウェアファイルがネット上にあれば、LLMがそれを見つけ、展開し、再パッケージできる。"
+        },
+        {
+          "t": "p",
+          "x": "カメラ愛好家はAIで録画機能や高解像度、新しいカラープロファイルを追加し、ミュージシャンはM-Vave FM-1のような安価なシンセを新しい機材に変え、ゲーマーはゲーム機に機能を加えている。ゲームメーカーは対抗しており、Luke Dickenは「より侵襲的なDRM」を予測する。ユーザーにはデバイスを文鎮化させるリスクもある。"
+        },
+        {
+          "t": "p",
+          "x": "より安全な道は、M5Stack PaperMonoのようなデバイスに使われる安価でハッカー向きのボードであるESP32モジュールと、MetaのMuse CharmおよびMuse Gadgetsプログラムだ。Gathinの助言は、失っては困るものには決してボットにアクセスさせず、バックアップを多く取ることだ。"
+        }
+      ]
     }
   }
 }

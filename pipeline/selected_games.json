@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "games",
   "items": [
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "source": "The Verge",
-      "published_iso": "2026-11-22T17:25:20+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg",
-      "excerpt": "Nicalis pulled AI-generated music from a GTA 6-themed mode in The Binding of Isaac: Repentance+ after players exposed it and review-bombed the update; creator Edmund McMillen says he 'had no idea' AI music had been used.",
+      "title": "Sony patents AI that plays your game while you eat dinner",
+      "url": "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/",
+      "source": "GamesBeat",
+      "published_iso": "2026-11-23T13:30:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg",
+      "excerpt": "A newly publicized Sony patent splits a game into play units (quests, missions, scenes) and trains a separate AI helper per unit from real players' runs; the console shows which parts the AI can take over and the player can grab the controller back anytime. Distinct from Sony's earlier 'ghost player' filing.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Clear lesson on disclosure: undisclosed AI audio in a major indie hit led to review-bombing and removal, and the creator distanced himself. Single card for the c0 cluster (The Verge over IGN/Eurogamer), assigned to games only by the brief."
+      "rationale": "A platform holder's patent for per-segment AI stand-in play changes how designers may need to structure content (play units the AI can take over). It is a different company and mechanism from the 11-23 Activision NPC patent."
     },
     {
-      "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
-      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
-      "source": "PC Gamer",
-      "published_iso": "2026-11-21T23:40:42+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7-1280-80.jpg",
-      "excerpt": "Wizards of the Coast says it will pass its full share of the Anthropic AI copyright settlement for D&D books on to the writers who created them.",
+      "title": "Slotbound: a 200,000-copy Steam hit built with AI coding tools by a near-zero-experience solo developer",
+      "url": "http://www.gamespark.jp/article/2026/11/23/175187.html",
+      "source": "Game*Spark",
+      "published_iso": "2026-11-23T12:00:03+09:00",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1222328.png",
+      "excerpt": "Solo developer Optima Arch, with almost no prior programming or game-dev experience, built the slot-roguelike Slotbound over about eight months using AI coding tools, then hand-tuned systems, balance and UI. It sold 100,000 copies in three days and passed 200,000 in six days on Steam.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A concrete publisher decision on who gets AI-training compensation. This sets a precedent that game writers and designers can point to in their contracts."
+      "rationale": "A concrete commercial counterexample to the 11-18 'solo AI game-makers aren't making money' piece: AI for code, with balance and UI tuned by hand, sold 200k in six days."
     },
     {
-      "title": "Activision Patent Would Let AI NPCs Learn From Toxic COD Lobbies",
-      "url": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
-      "source": "TheGamer",
-      "published_iso": "2026-11-22T16:17:48+00:00",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "A newly surfaced Activision patent describes training AI-driven NPCs on players' Call of Duty voice chat so enemies can learn to trash-talk like real players.",
+      "title": "One way to stave off AI clones? Minimise the gap between announcement and launch",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-11-23T15:07:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Tinybuild's Alex Nichiporchik explains how a three-month reveal-to-release window for Probably Stolen was a defence against generative-AI copycats that reverse-engineer demos, as studios rethink the 'announce early, build wishlists' playbook.",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Shows where a major publisher is taking AI NPC design: behaviour learned from player voice data. It raises data-consent and toxicity questions that NPC designers will face."
+      "rationale": "Directly actionable launch tactic: a publisher's real three-month reveal-to-release window used as a defence against AI clones. This is a new case, separate from the 11-14 general IP-protection guide."
     },
     {
-      "title": "MetaHuman Animator Markerless Motion Capture Deep Dive | Inside Unreal",
-      "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
-      "source": "Unreal Engine (YouTube)",
-      "published_iso": "2026-11-19T13:32:45-08:00",
-      "og_image": "https://i.ytimg.com/vi/zd7DCFBLCcc/maxresdefault.jpg",
-      "excerpt": "Epic's Inside Unreal deep dive on the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or camera into full-body animation without mocap suits or markers.",
+      "title": "Steam games that disclose AI use tend to sell less - but is the disclosure really the cause?",
+      "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+      "source": "AUTOMATON",
+      "published_iso": "2026-11-20T08:09:56+00:00",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg",
+      "excerpt": "A statistical report estimating Steam sales from review counts found titles with AI-use disclosures sell less overall; AUTOMATON's read is that many disclosed titles were set up to lose from the start rather than being hurt by the label itself.",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Primary-source walkthrough of a tool animators can use right away: full-body animation from ordinary phone or camera video, with no suits or markers. This is the most hands-on pick in the pool."
+      "rationale": "New sales data on the Steam AI-disclosure label, a decision every studio using AI faces. Earlier cards covered how many games disclose; this one covers what disclosure does to sales."
     },
     {
-      "title": "生成AIを活用したFMVゲーム「元カレ×デスゲーム」，2026年12月4日に基本プレイ無料で配信予定",
-      "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
-      "source": "4Gamer.net",
-      "published_iso": "2026-11-18T14:14:37+09:00",
-      "og_image": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg",
-      "excerpt": "LIUGUANG STUDIO announced that its generative-AI-built live-action-style FMV game 'Ex-Boyfriend x Death Game', pitting the player against 100 exes on a cruise ship, launches free-to-play on December 4, 2026 (PC via Steam).",
+      "title": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "published_iso": "2026-11-21T14:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
+      "excerpt": "Chess.com launched Classic, a hub of classic games from mahjong to sudoku, built by a very small team using AI mainly to speed up coding on top of its existing code base, design system and bot characters; the company says AI was not used for the games' art and design.",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A dated Steam release of an FMV game built with generative-AI video, a format that AI makes cheap to produce. Adds an Asian outlet and a shipped-game angle to the set."
+      "rationale": "A shipped product showing a clear split: AI for code on top of an existing design system, with no AI in art or design. It is a practical model for small teams."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music": {
+      "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/": {
         "verdict": "new",
-        "nearest": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+        "nearest": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
         "new_action": ""
       },
-      "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/": {
+      "http://www.gamespark.jp/article/2026/11/23/175187.html": {
+        "verdict": "new",
+        "nearest": "https://mobilegamer.biz/are-the-new-wave-of-solo-ai-game-makers-making-any-money-no-not-really/",
+        "new_action": ""
+      },
+      "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch": {
+        "verdict": "new",
+        "nearest": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+        "new_action": ""
+      },
+      "https://automaton-media.com/articles/newsjp/20261120-480176/": {
+        "verdict": "new",
+        "nearest": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
+        "new_action": ""
+      },
+      "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
-      },
-      "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/": {
-        "verdict": "new",
-        "nearest": "https://www.inews24.com/view/2019597",
-        "new_action": ""
-      },
-      "https://www.youtube.com/watch?v=zd7DCFBLCcc": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=OjffwpbcQsQ",
-        "new_action": ""
-      },
-      "https://www.4gamer.net/games/059/G105923/20261118013/": {
-        "verdict": "new",
-        "nearest": "https://www.4gamer.net/games/058/G105854/20261116008/",
-        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: (1) Kotaku 'Student game dev competition shut down over AI slop' (11-10) is the same event as the PC Gamer card published 11-11 (history_match). (2) IGN and Eurogamer Binding of Isaac items are same-cluster (c0) duplicates of the Verge pick, one card per cluster. (3) Wccftech 'UE 5.9 Preview 2' is a running story: UE 5.9 Preview was published 11-11 (80.lv, history_match), and the 11-22 unrealengine.com card already covered UE 5.9's AI tooling (Python/MCP). Preview 2 is only an incremental build of the same release, so it was dropped rather than run as a follow-up. Not picked on score: GameRiv 'Clash Royale recruits AI cheat creator' (off-whitelist secondary outlet, a single anecdote in the AI-cheat theme carried 11-15). Cross-section: the brief assigns the Binding of Isaac story to games only. The books pool (first 150 lines checked) has no Wizards of the Coast / D&D payout item. published_urls.json is too large to grep with Read-only tools, so the orchestrator should exact-grep 'wizards-of-the-coast-to-pass-full-ai-copyright', 'zd7DCFBLCcc' and 'G105923' across all sections before roll. Diversity: 5 distinct outlets (theverge.com, pcgamer.com, thegamer.com, youtube.com/Unreal Engine, 4gamer.net), 1 each."
+    "note": "Dropped: (1) GamesBeat 'Higgsfield playable game ads' is assigned to marketing only by the 11-24 curator brief. (2) Wccftech 'UE 5.9 Preview 2' is a running story: UE 5.9 Preview was published 11-11 (80.lv) and UE 5.9's AI tooling on 11-22 (unrealengine.com). Preview 2 is an incremental build, and it was already dropped on 11-23. (3) blog.google 'Genie 4 on the Gemini API' is a likely-repeat of the 11-20 DeepMind 'Genie 4 is now available' card: it is the same launch week of the same model, not a new version. (4) Inworld 'Voice Isolator' is a likely-repeat of the 11-19 'Introducing SAVA' card (same vendor, same launch week), and audio is incidental to games. (5) Inven Global 'Imitation disputes shift to AI cloning' is commentary on the AI-clone theme already carried 11-14, 11-17 and 11-07, and today's Tinybuild pick covers the theme with a concrete case. Within-pool cluster: inews24 '[AI & LAW] Wrtn Crack/GRAC', Inven Global 'boundaries of games around AI chat apps' and 4Gamer 'Wrtn at G-CON' are one G-STAR/Wrtn story, and none made the top 5. Not picked on score: Dexerto 'Clash Royale hires AI cheat creator' (anecdote in the 11-15 AI-cheat theme, off-whitelist), Inven Global 'AI game rating consortium' (runner-up), Unity 'what to vibe code' (evergreen guidance, no og_image). Cross-section: published_urls.json is too large to exact-grep with Read-only tools, so the orchestrator should grep 'sony-patents-ai-that-plays', '175187', 'stave-off-ai-clones', '20261120-480176' and 'chess-classic-games' across all sections before roll. Note that the theverge.com Chess.com item could also surface in the design/workflow pool. Diversity: 5 distinct outlets (gamesbeat.com, gamespark.jp, gamesindustry.biz, automaton-media.com, theverge.com), 1 each."
   }
 }

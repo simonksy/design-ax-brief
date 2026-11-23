@@ -5966,6 +5966,126 @@
           "x": "Google no ha dicho cómo se ordenan los productos, quién procesa el pago ni si aparecerán anuncios en estos flujos. Walmart no figura en la lista."
         }
       ]
+    },
+    "marketing/higgsfield-playable-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield ha lanzado playable ads, un nuevo flujo de trabajo exclusivo para empresas que crea anuncios interactivos con AI. Los desarrolladores describen una mecánica de juego, eligen un género y unas dimensiones, añaden recursos creativos (hasta 100, entre ellos sprites, texturas y efectos de sonido) y generan una experiencia jugable en modo manual o automático."
+        },
+        {
+          "t": "video",
+          "yt": "PG0UVcWVNl0"
+        },
+        {
+          "t": "p",
+          "x": "El anuncio terminado se exporta como un único archivo .html de hasta 5 MB para redes como AppLovin, Meta, Google App Campaigns, Unity Ads y Pangle (TikTok). \"Puedes editarlo y pedirle a un agente que cambie cualquier cosa del juego. Con el marketing de resultados, resulta fácil probar cientos de variantes del juego\", dijo Zhangir Yergaliyev, miembro del personal técnico de Higgsfield."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield eliminó la importación de enlaces de App Store y Google Play después de que los estudios plantearan preocupaciones sobre copias y cuestiones legales. La empresa informó de que el proceso manual tarda de media cinco días y cuesta unos $5,000 por anuncio jugable; su herramienta tarda unos 40 minutos en una primera versión, con un coste estimado de $30 a $40 por anuncio. El equipo de anuncios jugables tiene menos de 10 personas y creó la primera versión en dos semanas."
+        }
+      ]
+    },
+    "marketing/pinterest-msads-inventory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+          "cap": "Pinterest vende espacio publicitario en el feed y la búsqueda a través de Microsoft Advertising, sin incluir Europa"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest anunció una integración que permite que las campañas aptas de Microsoft Advertising se muestren en su feed de inicio, en los resultados de búsqueda y en Pins relacionados, con una ubicación elegida por un \"modelo de puja contextual personalizado\", sin necesidad de una nueva herramienta de compra. Se lanza en Norteamérica, Australia y Nueva Zelanda \"para empezar\"; Europa queda excluida. El anuncio no da fecha de lanzamiento, precios, lista de requisitos, formatos publicitarios ni resultados de campañas."
+        },
+        {
+          "t": "p",
+          "x": "El modelo usa consultas de búsqueda de Pinterest, señales contextuales y datos de intención propios procedentes de lo que Pinterest llama Pinterest Intelligence. La demanda proviene de propiedades de Microsoft como Bing, MSN, Xbox y Outlook. Pinterest cita 661 millones de usuarios activos mensuales y 80 mil millones de búsquedas mensuales. El movimiento sigue a las aperturas a Amazon (2023), Google (2024), Index Exchange y Criteo, y Programmatic Deals (26 de octubre de 2026); Microsoft cerró su propio DSP, Microsoft Invest, en febrero de 2026."
+        }
+      ]
+    },
+    "marketing/chatgpt-shopping-partnership-doc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI actualizó su documentación de ayuda de Shopping with ChatGPT Search para modificar la frase que decía: \"Los resultados de productos son seleccionados de forma independiente por ChatGPT y no son anuncios, ni están influidos por ninguna alianza de OpenAI\". Ahora dice: \"Los resultados de productos no son anuncios; a continuación se describe cómo se seleccionan los productos y los comercios\". En resumen, OpenAI eliminó la aclaración de que estos resultados de compras son independientes de cualquier alianza de OpenAI y no están influidos por ella."
+        },
+        {
+          "t": "p",
+          "x": "El documento de ayuda actual, comparado con el antiguo documento archivado, muestra el cambio, pero aquí hay un diff que compara ambos:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+          "cap": "Chatgpt Products Doc Diff (comparación de documentos de productos de ChatGPT)"
+        },
+        {
+          "t": "p",
+          "x": "Parece un cambio importante en su documentación, ¿no crees?"
+        },
+        {
+          "t": "p",
+          "x": "Lo vi a través de Juozas Kaziukėnas, que publicó en X: \"La página de ayuda de compras de ChatGPT ya no dice que los resultados de productos NO (NOT) están influidos por ninguna alianza de OpenAI\". Él detectó el cambio en aivisibilityjournal.com."
+        }
+      ]
+    },
+    "marketing/organicity-d2c-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "'Ácido tranexámico 10%', 'Niacinamida 10%', 'PDRN 2500ppm'. La marca de cuidado de la piel Organicity destaca en el nombre de sus productos los ingredientes principales y su concentración. Quien busca por ingrediente encuentra los productos con facilidad, pero para quien no sabe qué ingrediente debe usar supone una barrera."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+          "cap": "Song Bo-kyung, CEO de Witten Company, el día 11 en Dongdaemun-gu, Seúl (fuente: Byline Network)"
+        },
+        {
+          "t": "p",
+          "x": "Este año, Organicity creó su propia tienda online sobre Cafe24 y preparó tres funciones: un diccionario de ingredientes, búsqueda de productos por problema de piel y asesoría con inteligencia artificial (AI). \"En las consultas reales de clientes se repiten preguntas no solo sobre qué producto elegir, sino también sobre si se puede usar junto con otros productos o si conviene usarlo por la mañana o por la noche\", explicó Song. Ahora la AI responde a las preguntas que antes contestaban personas."
+        },
+        {
+          "t": "p",
+          "x": "Organicity colaboró con la tecnológica Artiwealth para convertir unas 60.000 reseñas y datos de atención al cliente acumulados en Naver Smart Store en un formato que la AI puede aprovechar, y los combinó con su propia información de ingredientes y productos. Según la pregunta del cliente, orienta sobre combinaciones de productos e incluso sobre el modo de uso."
+        },
+        {
+          "t": "p",
+          "x": "Los ingresos de la empresa pasaron de unos 4억9800만원 en 2024 a unos 16억7800만원 en 2025. Las ventas de la tienda propia, que lleva solo unos meses operando, han llegado a cerca del 30% de las ventas en Smart Store."
+        }
+      ]
+    },
+    "marketing/amazon-brandstore-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
+          "cap": "Amazon coloca un agente de AI con 6 prompts iniciales al frente de las nuevas páginas de Brand Store."
+        },
+        {
+          "t": "p",
+          "x": "Al hacer clic en Add page en el Store builder de Amazon, ahora se abre una nueva ventana con el Brand Store Builder Agent. Las marcas eligen entre 6 prompts predefinidos o escriben sus propias instrucciones; el estado de Brand Registry debe ser \"Approved\"."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden chatear en cualquier idioma, pero el contenido de la Store se genera en el idioma principal del marketplace: un chat en francés para crear una Store de U.S. da como resultado inglés. Las páginas de ayuda de Amazon no indican si el agente verifica su resultado frente a las políticas de contenido de Stores."
+        },
+        {
+          "t": "p",
+          "x": "Las marcas pueden omitir el agente mediante el enlace \"Add page without AI Assistance\" y usar las plantillas manuales: Marquee, Product highlight, Product grid (de 4 a 60 productos) y Blank. Una página admite hasta 20 secciones. La moderación \"normalmente se completa en 24 horas\", pero puede extenderse hasta 3 días hábiles."
+        },
+        {
+          "t": "p",
+          "x": "Por otra parte, la pestaña All Deals está activada por defecto en los temas Classic, Elegant e Impact: muestra hasta 30 productos con ofertas, elegidos y ordenados por Amazon, que \"crea y actualiza la página All Deals por usted\". Las marcas pueden desactivarla en Store Settings o reemplazarla por su propia página de ofertas."
+        }
+      ]
     }
   }
 }

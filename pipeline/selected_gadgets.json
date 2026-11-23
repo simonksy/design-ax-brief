@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "gadgets",
   "items": [
     {
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "source": "The Verge",
-      "published_iso": "2026-11-22T13:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Large language models can now redesign your TV interface and upgrade your camera firmware for you; the column asks whether the physical world is ready to be Claude Code-d as LLMs make gadget hacking and modding accessible to everyone.",
+      "title": "Dutch privacy authority urges consumers not to buy 'pervert glasses'",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "source": "TechCrunch",
+      "published_iso": "2026-11-23T15:29:49+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+      "excerpt": "The Dutch Data Protection Authority is urging consumers not to buy AI-enabled camera glasses, warning they compromise bystanders' privacy, get information wrong and can create unsafe situations for wearers. Regulator action on AI smart glasses.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Assigned to gadgets by the cross-section brief; it ties the run of one-off LLM hardware hacks into one trend: anyone can now mod their TV or camera firmware."
+      "rationale": "A national regulator formally telling consumers not to buy AI camera glasses is a new official action, and it bears on anyone buying or designing for the category. The cross-section brief assigns it to gadgets; the Korean bill goes to politics."
     },
     {
-      "title": "SecondBrain VoicePad: Compact AI controls and dictation for your desk",
-      "url": "https://www.notebookcheck.net/SecondBrain-VoicePad-Compact-AI-controls-and-dictation-for-your-desk.1456759.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-11-22T14:40:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Second_Brain_VoicePad.jpg",
-      "excerpt": "Genspark's SecondBrain VoicePad pairs five programmable keys with AI dictation and meeting transcription for Mac and PC, recording to onboard memory even when disconnected. It lists at $169, with a Kickstarter launching Nov 24 at $119-$149.",
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "WIRED",
+      "published_iso": "2026-11-23T13:11:48.707Z",
+      "og_image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "excerpt": "Brain-computer interface company Paradromics is using Nvidia's computing hardware and software to process brain data.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New desk hardware with concrete pricing and a Kickstarter date (Nov 24); a directly usable AI dictation and transcription input device for Mac and PC."
+      "rationale": "New hardware partnership: Paradromics' Connexus BCI now processes neural data on Nvidia compute, bringing AI hardware into implantable interfaces. No BCI story appears in gadgets history or in the medicine and science URL lists that were checked."
     },
     {
-      "title": "Obsbot's new AI PTZ cameras could make camera operators redundant",
-      "url": "https://www.digitalcameraworld.com/tech/webcams/obsbots-new-ai-ptz-cameras-could-make-camera-operators-redundant-and-its-got-a-1-inch-sensor",
-      "source": "Digital Camera World",
-      "published_iso": "2026-11-21T11:25:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/uRDtbyAfkrcxwrf7qs7PNa-1600-80.jpg",
-      "excerpt": "Obsbot's Tail Air 2 and Tail 2 ADV PTZ cameras go on sale with 'AI Tracking 2.0' that follows people, 30+ animal species and 200+ object categories, plus 4K/60p and a 1-inch sensor on the ADV.",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "Shipping product: AI subject tracking across people, animals and 200+ object classes replaces a camera operator for solo streamers and small studios."
-    },
-    {
-      "title": "Gemini app rolls out very slick camera redesign on Android",
-      "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
-      "source": "9to5Google",
-      "published_iso": "2026-11-21T20:52:52+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Google has thoroughly redesigned the Gemini Android app's in-app camera used to quickly add images to prompts, reworking the capture UI on phones.",
+      "title": "I really wanted the Asus ProArt P14 to be my favorite RTX Spark laptop — and it's painfully close",
+      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p14-rtx-spark-review",
+      "source": "Tom's Guide",
+      "published_iso": "2026-11-23T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png",
+      "excerpt": "Tom's Guide reviews the Asus ProArt P14, an Nvidia RTX Spark 'portable AI studio' laptop: dazzling 3K OLED and 12.5-hour battery, but the slim chassis forces throttled wattage that runs hot under local-AI and creative loads.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "A live rollout that changes how users capture images into Gemini prompts on phones. It is a different surface from the 10-26 settings and side-panel redesign."
+      "rationale": "This is today's single AI-PC laptop review. Of the three, it is the one aimed at creators, and it gives a hands-on verdict on whether the RTX Spark laptop handles local-AI and creative loads."
     },
     {
-      "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
-      "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
-      "source": "Engadget",
-      "published_iso": "2026-11-19T22:56:42+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/l-intro-1795128747.jpg",
-      "excerpt": "Per The Information, Meta plans to sell its pocket Muse Charm AI agent device for $300 with up to 12 months of free Verizon 5G ahead of the holidays; Meta did not deny it and said it will share more soon.",
+      "title": "Copilot+ PCs: Why the NPU is no longer a reason to buy a laptop",
+      "url": "https://www.notebookcheck.net/Copilot-PCs-Why-the-NPU-is-no-longer-a-reason-to-buy-a-laptop.1456843.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-11-23T10:10:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/copilot-pc-npu-weihnachten-teaser.jpg",
+      "excerpt": "Many holiday laptop deals still carry the Copilot+ PC label, but the NPU barely sets devices apart anymore. Every new chip from AMD, Intel and Qualcomm clears 40 TOPS, Microsoft is quietly retiring the brand, and the most popular local AI apps don't use the NPU at all.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "First price and carrier details for Meta's dedicated Muse Charm hardware. Earlier cards covered the Muse agent on Apple Watch and Wear OS, not this device. This is a report attributed to The Information, which Meta did not deny."
+      "rationale": "Practical buying guidance: Microsoft is quietly retiring the Copilot+ brand and local AI apps skip the NPU, so the label no longer tells buyers much. Published during holiday laptop shopping."
+    },
+    {
+      "title": "Flowtica Verso vs. Comulytic Note Pro: This one wins on speed - and price",
+      "url": "https://www.zdnet.com/tech/flowtica-verso-vs-comulytic-note-pro/",
+      "source": "ZDNET",
+      "published_iso": "2026-11-20T20:22:00-05:00",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg",
+      "excerpt": "ZDNET compares two AI voice recorders, the Flowtica Verso (magnetic, always-on e-paper display) and the Comulytic Note Pro, on transcription speed, price and whether an AI recorder needs a screen.",
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "rationale": "A head-to-head test of two AI voice recorders on transcription speed and price. Neither device has appeared in history (the 11-13 card was Anker's Soundcore Work), and it gives a clear pick for meeting-notes hardware."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera": {
+      "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/": {
         "verdict": "new",
-        "nearest": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+        "nearest": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/SecondBrain-VoicePad-Compact-AI-controls-and-dictation-for-your-desk.1456759.0.html": {
-        "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html",
-        "new_action": ""
-      },
-      "https://www.digitalcameraworld.com/tech/webcams/obsbots-new-ai-ptz-cameras-could-make-camera-operators-redundant-and-its-got-a-1-inch-sensor": {
+      "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://9to5google.com/2026/11/21/gemini-camera-redesign/": {
+      "https://www.tomsguide.com/computing/laptops/asus-proart-p14-rtx-spark-review": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+        "nearest": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
         "new_action": ""
       },
-      "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/": {
+      "https://www.notebookcheck.net/Copilot-PCs-Why-the-NPU-is-no-longer-a-reason-to-buy-a-laptop.1456843.0.html": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
+        "nearest": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+        "new_action": ""
+      },
+      "https://www.zdnet.com/tech/flowtica-verso-vs-comulytic-note-pro/": {
+        "verdict": "new",
+        "nearest": "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/",
         "new_action": ""
       }
     },
-    "note": "Dropped: Xiaomi 18 Pro review (The Verge), the same story as the 11-16 card on the Xiaomi 18 Pro rear display's GenAI apps. TechRadar Korean AI exam-cheating, excluded by the cross-section brief. 9to5Mac Muse AI privacy breaches, the same running Muse story; only one Muse card kept (Charm hardware). Lenovo Pro 9n review, too close to the RTX Spark mini-PC (11-19) and Gigabyte RTX Spark (11-12) cards; a review, not a new release. WIRED church smart rings, where AI is incidental. Gadgets & Wearables WHOOP AI Coach complaints, user anecdotes from an off-whitelist outlet. Not picked but fresh (backfill order): USC stress ring (Digital Trends), ETH AI bicycle robot (etnews), Frostbite AI-designed CPU (Tom's Hardware). Cross-section exact-grep of published_urls.json was not possible here (no grep tool; the file is 4.8k lines). The orchestrator should confirm the five picked URLs, plus 'Muse Charm' and 'Obsbot', are absent from other sections."
+    "note": "Dropped: (1) Nothing Ear (note), The Verge. It follows the 11-05 Verge tease and the 11-21 Engadget date tease of the same Dec 8 device. Revealing the name and product type is still pre-launch teasing, not a release, so it is held for the Dec 8 launch. (2) etnews smart-glasses hidden-filming bill: assigned to politics by the cross-section brief. (3) etnews Gigabyte AI TOP AERO: a Korean retail launch of the RTX Spark mini PC already published 11-12 (Notebookcheck, Gigabyte vs Mac Studio), so it is the same product. (4) ASUS Zenbook S14 (Digital Trends) and Lenovo Pro 9n (Tom's Hardware): the brief allows at most one AI-PC laptop review, and the ProArt P14 was kept. (5) etnews Konic Glory WIPS exam-cheating pitch: a vendor proposal with no product release, low novelty. Story_dedup had already removed the Digital Trends AI screwdriver as a repeat of the 11-02 Arrowmax card. ProArt P14 vs the 11-19 RTX Spark mini-PC launch: a different product (laptop review vs desktops), so it is new. Cross-section check of published_urls.json was partial: only the medicine and science tails, where www.* URLs sort, were read, with no hit. The full file was not grepped because no grep tool was available. Diversity: 5 picks from 5 outlets."
   }
 }

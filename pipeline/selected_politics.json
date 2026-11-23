@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "politics",
   "dedup": {
     "checks": {
-      "https://www.korea.kr/news/policyNewsView.do?newsId=148976211": {
+      "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list": {
+        "verdict": "follow-up",
+        "nearest": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
+        "new_action": "BIS final rule (public inspection 11-23, publication 11-25) adding 7 Megaspeed-linked entities in Malaysia, Singapore and Thailand to the Entity List, with a license requirement for all EAR items and a presumption of denial. The 11-18 card covered the Commerce/DOJ investigation statement, and the 11-13 Yonhap card covered a proposed licensing plan for 7 countries. Neither was a listing rule."
+      },
+      "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "nearest": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
         "new_action": ""
       },
-      "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403": {
+      "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings": {
         "verdict": "new",
-        "nearest": "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation",
+        "nearest": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
         "new_action": ""
       },
-      "https://agenceurope.eu/en/bulletin/article/13986/6/several-member-states-call-on-european-commission-to-propose-legislation-to-better-protect-copyright-from-ai": {
+      "https://www.yna.co.kr/view/AKR20261123075800017": {
         "verdict": "new",
-        "nearest": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance",
+        "nearest": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
         "new_action": ""
       },
-      "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242": {
+      "https://www.yna.co.kr/view/AKR20261123087300017": {
         "verdict": "new",
-        "nearest": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
-        "new_action": ""
-      },
-      "https://www.chinatalk.media/p/the-role-of-ai-in-enforcing-chinas": {
-        "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261103148800009",
+        "nearest": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
         "new_action": ""
       }
     },
-    "note": "Dropped: Guardian 'South Korean minister quits' (personnel news on the AI exam-cheating story already covered 11-18 and 11-22, no new policy action; the brief says skip). Taipei Times 'No new curbs on Nvidia chips' (Bessent comment on the remote-access curbs published 11-17 / Nvidia 11-19, no new decision). Not picked on fit or score: Yonhap university-hacking AI tool and The Register China AI-agent 0-day (one security cluster close to the 11-17 FBI/AWS agent-cybercrime card, with a weak policy angle). TechRadar EC hacked with AI tools (security incident, off-list outlet). Yonhap President Lee AIDC site visit (an appearance with no new policy). etnews civil-servant AI sharing scheme (weaker than the korea.kr primary document; a second Korea-government card). EC AI Board 10th meeting (procedural). Courthouse News Amazon v Perplexity discovery stay (an interim procedural order with no image; it was next in line). Cross-section: none of the 5 URLs appears in the books slice of published_urls.json that was checked. The full file (4.8k lines) could not be grepped with Read-only tools, so the orchestrator should exact-grep the 5 URLs plus 'Hickenlooper', 'Ethnic Unity', '14 member states copyright' before roll."
+    "note": "Dropped as duplicates or follow-ups with no new action: WIRED and The Verge Grok lawsuit items (cluster c1, the same Oregon/Virginia AG suits; kept Ars Technica, which has the most detail). Decoder 'US spies tracked Alice Huang' (extra reporting on the Nvidia/Megaspeed diversion story published 11-14, 11-18 and 11-21; no new decision). Axios 'Doctors who disagree with AI could face legal jeopardy' (a running story from the Axios 11-14 card; mock-jury research and the AMA's earlier call, no new filing). Jensen Huang reinstatement trio (Verge White House remarks, Axios Hill backlash, Yonhap analysis): corporate/personnel news plus reactions, with no concrete government decision; the testimony is already scheduled per the 11-07 card. Cross-section exclusion: GOV.UK MHRA AI Airlock goes to medicine only, per the brief. Not picked on fit or score: Verge COP31 data-centre item (negotiation reporting, no decision; it was next in line), Lawfare AI black-market essay (analysis), Decoder OpenAI shared-limits proposal (company proposal), Decoder Chinese military nuclear fears (research commentary), ChinaTalk 'Agentic State' (essay). Korean glasses bill: hidden filming and a mandatory recording indicator, a different event from the exam-cheating glasses stories (11-08, 11-10, 11-17, 11-22) and the Dutch watchdog advice (11-20). Cross-section: the brief assigns it to politics only. The full published_urls.json could not be grepped with Read-only tools, so the orchestrator should exact-grep the 5 URLs plus 'Megaspeed', 'Grok', 'Hochul', '이주희', 'NAIS' before roll."
   },
   "items": [
     {
-      "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
-      "source": "대한민국 정책브리핑 (과학기술정보통신부)",
+      "title": "Additions to the Entity List (BIS adds 7 Megaspeed-linked entities in Malaysia, Singapore, Thailand)",
+      "url": "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list",
+      "source": "Federal Register / BIS",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Policy axis, primary document: the Ministry of Science and ICT pre-announced the enforcement decree and rules of the AI Data Center Industry Promotion Special Act (in force next March), covering AIDC recognition and notification, bundled permitting, a grid-impact assessment waiver for non-capital-region sites of 50MW or less, and AIDC special-zone criteria. Public comment runs to Dec 30.",
-      "published_iso": "2026-11-20T17:22:00+09:00",
-      "og_image": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/23168f9c5e55218a5d0795c5ac6eff8c.jpg",
-      "excerpt": "과기정통부가 'AI 데이터센터 산업 진흥 특별법'(내년 3월 시행) 시행령·시행규칙 제정안을 12월 30일까지 입법예고 — AIDC 인정 기준·신고제, 인허가 일괄처리, 비수도권 50MW 이하 전력계통영향평가 면제, AIDC 특구 기준."
+      "rationale": "Geopolitics axis, primary document: a BIS final rule puts 7 Megaspeed-linked firms in Malaysia, Singapore and Thailand on the Entity List over the risk of diverting advanced computing items, with a license requirement and a presumption of denial. This is the first concrete export-control action in the Megaspeed probe.",
+      "published_iso": "2026-11-23T16:15:00-05:00",
+      "og_image": null,
+      "excerpt": "BIS final rule (public inspection 11-23, publication 11-25) adds MSFusion, PT Megaspeed International, Speedmatrix, Apex Enterprise Solutions (Singapore), Megaspeed International Pte, Swiftdata and Megaspeed (Thailand) to the Entity List over significant risk of diverting advanced computing commodities; all EAR items need a license, presumption of denial. Effective on public inspection."
     },
     {
-      "title": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it",
-      "url": "https://apnews.com/article/artificial-intelligence-congress-schumer-senate-047d0ab21237984701decd9ed5ced403",
-      "source": "AP News",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Policy axis, new proposal: Sen. John Hickenlooper sent letters to Schumer and Van Hollen proposing a Senate select committee on AI, with priorities named as third-party evaluation requirements, national-security mitigation and accountability rules. This is a separate action from the House Jacobs/Maloy/Beyer outline published 11-20. Positions are attributed to the senator.",
-      "published_iso": "2026-11-20T22:07:01Z",
-      "og_image": "https://dims.apnews.com/dims4/default/d09e499/2147483647/strip/true/crop/5000x3336+0+0/resize/599x400!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F30%2F2501423507cb60a338a9d98e7908%2Fefeabdb499534038b7b6820d87ae673b",
-      "excerpt": "Sen. John Hickenlooper proposed, in letters to Schumer and Van Hollen, a Senate select committee on AI, with priorities of third-party evaluation requirements, national-security mitigation and accountability rules as Democrats prepare for the January majority."
+      "rationale": "Policy/liability axis, new filing: the Oregon and Virginia attorneys general sued SpaceX (owner of X and xAI), alleging that Grok image generation still produces CSAM and nonconsensual intimate imagery. The allegations are attributed to the AGs.",
+      "published_iso": "2026-11-23T21:30:44+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+      "excerpt": "Oregon and Virginia attorneys general filed suits against SpaceX/X over Grok image generation, alleging the AI still produces CSAM and nonconsensual intimate imagery despite X's claim every output is screened."
     },
     {
-      "title": "Several Member States call on European Commission to propose legislation to better protect copyright from AI",
-      "url": "https://agenceurope.eu/en/bulletin/article/13986/6/several-member-states-call-on-european-commission-to-propose-legislation-to-better-protect-copyright-from-ai",
-      "source": "Agence Europe",
+      "title": "NY Gov. Hochul vetoes bill that would have required AI accuracy warnings",
+      "url": "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings",
+      "source": "Gothamist",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Policy axis (copyright), new official action: 14 EU member states formally asked the Commission to propose legislation that strengthens copyright protection against AI training and guarantees fair pay for creators. This is a separate move from the Digital Omnibus negotiating stance published 10-24. The outlet is not on the whitelist, and no listed outlet covered it inside the window.",
-      "published_iso": "2026-11-20T00:00:00+01:00",
-      "og_image": "https://agenceurope.eu/_site/images/twitter_card_large_fr.png",
-      "excerpt": "Fourteen EU member states urged the Commission to propose swift legislation strengthening copyright protection against AI and ensuring fair remuneration for creators."
+      "rationale": "Policy axis, new executive decision: New York's governor vetoed a bill that would have required AI chatbots to carry accuracy warnings, citing possible free-speech conflicts. This directly affects chatbot builders. The outlet is off-list; no on-list outlet covered the veto.",
+      "published_iso": "2026-11-23T20:43:53.312Z",
+      "og_image": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+      "excerpt": "New York Gov. Kathy Hochul vetoed a bill requiring AI chatbots to carry accuracy warnings, saying the measure may run afoul of free-speech protections."
     },
     {
-      "title": "Influencer deepfakes used to stoke Canada-US tensions",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242",
-      "source": "Taipei Times",
+      "title": "AI 안경 '몰카' 막는다…촬영 표시 의무화 법안 발의",
+      "url": "https://www.yna.co.kr/view/AKR20261123075800017",
+      "source": "연합뉴스",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Elections/public-opinion axis, new research release: a McGill Centre for Media, Technology and Democracy study found about 300 Instagram and TikTok accounts using AI-altered likenesses of real creators, with AI-written scripts, to inflame Canada-US trade-war discourse (thousands of videos, about 20 million views). Findings are attributed to the study.",
-      "published_iso": "2026-11-23T00:00:00+08:00",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/23/P05-261123-308.jpg",
-      "excerpt": "A McGill Centre for Media, Technology and Democracy study found about 300 Instagram and TikTok accounts using AI-altered likenesses of real creators, with AI-written scripts, to inflame Canada-US trade-war discourse — thousands of videos and about 20 million views."
+      "rationale": "Policy axis, new bill: a National Assembly bill sponsored by Rep. Lee Ju-hee would require AI smart glasses to show a recording indicator and to notify people when filming in private settings. It is a hardware-level obligation for device makers.",
+      "published_iso": "2026-11-23T11:29:45+09:00",
+      "og_image": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+      "excerpt": "AI 스마트안경에 촬영 표시 기능 탑재를 의무화하고 사적 촬영 시 촬영 사실 고지를 의무화하는 법안(이주희 의원 대표발의)이 국회에 발의됐다."
     },
     {
-      "title": "The Role of AI in Enforcing China's Ethnic Unity Law",
-      "url": "https://www.chinatalk.media/p/the-role-of-ai-in-enforcing-chinas",
-      "source": "ChinaTalk",
+      "title": "배경훈 부총리 \"국가과학AI센터, 과학AI 허브 자리잡도록 지원\"",
+      "url": "https://www.yna.co.kr/view/AKR20261123087300017",
+      "source": "연합뉴스",
       "tool": "Politics",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Policy/geopolitics axis: an article-by-article reading of China's new Ethnic Unity Law shows that its content-deletion duties (Art. 31), early-warning systems (Art. 52) and minority-language digitalization (Art. 15) rely on AI, and that the law reaches generative-AI model providers. This is a different law from the AI-lifecycle regulation published 11-04.",
-      "published_iso": "2026-11-22T11:38:55Z",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!IM-W!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5556e3d-59b6-4596-aa03-89e0a711f927_2048x1467.png",
-      "excerpt": "An article-by-article reading of China's new Ethnic Unity Law shows how its content-deletion duties (Art. 31), early-warning systems (Art. 52) and minority-language digitalization (Art. 15) depend on AI for policing, learning and enforcement — and extend to generative-AI model providers."
+      "rationale": "National AI strategy axis, official release: a Ministry of Science and ICT plan (11-23 press release) concentrates national science-AI capacity in the National AI Research Center for Science (NAIS), a sovereign-AI R&D program.",
+      "published_iso": "2026-11-23T16:16:39+09:00",
+      "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+      "excerpt": "과기정통부가 국가과학인공지능연구센터(NAIS)를 중심으로 국가 과학 AI 역량을 결집하는 계획을 밝혔다 (과기정통부 11-23 보도자료 '국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다')."
     }
   ]
 }

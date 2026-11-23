@@ -16624,6 +16624,111 @@
           "x": "University of British Columbia의 외계행성 연구자 Kunimoto는 모델이 낸 결과를 검증하지 못하는 아마추어도 있다고 경고한다. “AI-driven 논문이 엄청나게, 압도적으로 쏟아지고 있는데, 이런 논문의 [행성] 후보는 품질이 썩 좋지 않은 경우가 많습니다.”"
         }
       ]
+    },
+    "science/science-mit-slic-analog-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+          "cap": "“아날로그 회로 설계를 자동화할 대안을 제시했다”고 Yan Xu는 말한다. 이미지: Jose-Luis Olivares, MIT; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "MIT가 내놓은 Small LM Iterating on Circuits, 줄여서 SLIC를 쓰면 엔지니어는 소형 언어 모델(LM)을 훈련시켜 최첨단 대형 언어 모델과 같거나 더 나은 수준의 아날로그 회로를 설계할 수 있다. 파라미터는 수십억 개 수준이고, 노트북에서 돌아갈 만큼 가볍다. 학습과 배포를 로컬에서 하니 기업은 기밀 회로 데이터를 프라이버시 걱정 없이 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "SLIC의 바탕은 검증 가능한 보상을 쓰는 멀티턴 강화학습이다. 대형 LLM이 설계 과정의 시연을 생성하면 소형 모델이 이를 모방한다. 그다음 소형 모델은 새 문제를 풀며 파라미터를 추정하고 시뮬레이션을 돌려 설계를 거듭 다듬는다. 추론 과정이 자연어로 적히니 사용자는 모델의 판단을 따라갈 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "시험에서 소형 모델은 연산량의 일부만 쓰고도 최신 GPT 모델(GPT-6-Astra)에 근접한 성능을 냈고, 처음 보는 회로 구조, 더 앞선 공정 노드, 실제 상용 공정에서도 성능을 유지했다. IBM Research, Analog Devices와 함께한 이번 연구는 NeurIPS 2026에서 발표된다."
+        }
+      ]
+    },
+    "science/science-lio2-dualatom-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+          "cap": "Fig. 1: 머신러닝을 이용한 다중 사이트 촉매 설계 원리 탐구."
+        },
+        {
+          "t": "p",
+          "x": "에너지밀도가 높은 리튬–산소 배터리는 산소 산화환원 반응이 느리고 방전 중간체가 불안정해 아직 실용화되지 못했다. 연구진은 해석 가능한 머신러닝과 밀도범함수이론을 묶은 AI-integrated(AI 통합) 프레임워크를 200건의 문헌 기록으로 학습시켜 수천 개 활성 사이트의 화학 공간을 탐색했다. 선택된 원소 가운데 더 나은 조합으로 꼽힌 것은 Ni-Co 이중원자 촉매였다."
+        },
+        {
+          "t": "p",
+          "x": "두 사이트가 시너지를 내며 결합하면 d-band 중심이 재구성돼 열역학적 장벽이 낮아진다. 전해질에 H2O를 정해진 양만큼 넣자 촉매는 기존의 두 전자 Li2O2 경로를 네 전자 LiOH 경로로 바꿨고, 방전 용량은 ~60,000 mAh g−1에 이르렀다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+          "cap": "Fig. 5: 사이클 안정성과 촉매 과정 분석."
+        },
+        {
+          "t": "p",
+          "x": "네 전자 경로에서 NiCo2-DACs는 전압 감소를 줄이며 2075 사이클의 수명을 달성했다. Co 단일원자 기준 촉매는 790 사이클 만에 고장 났다. 이 구조는 음극에서 보호층이 되어 리튬 덴드라이트가 자라는 것도 막는다."
+        }
+      ]
+    },
+    "science/science-bath-students-ai-support": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Bath(배스대) 설문에 응답한 학생 네 명 중 한 명은 지난 여섯 달 사이 정신건강 문제로 생성형 AI의 도움을 받은 적이 있었다. JMIR Mental Health에 실린 새 연구다. 학생들은 괴로울 때 조언을 구하거나 자기 정신건강을 이해하려고 AI를 썼고, 개인 치료사나 코치처럼 대하기도 했다. 웰빙 수준이 매우 낮은 학생들의 사용률이 가장 높아, 삼분의 일 넘게 써 봤다고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "주저자 Dr. Jeffrey Lambert는 \"생성형 AI는 이미 사람들이 정신건강 지원을 찾는 방식을 바꾸고 있다\"고 말했다. 조사 대상은 학생 2,020명이었고, 장애를 신고한 학생일수록 AI를 이렇게 쓰는 경향이 강했다. 연구진은 부정확한 정보와 프라이버시 우려, 위기 상황에 맞지 않는 응답을 위험으로 꼽았다."
+        },
+        {
+          "t": "p",
+          "x": "대학은 학생용 가이드라인을 내놓았다. 응답자는 초대 인원의 9.1%였고 조사도 한 대학에서만 이뤄졌다. 지금은 여러 대학이 함께하는 전국 단위 연구가 진행 중이다."
+        }
+      ]
+    },
+    "science/science-technion-rnn-hidden-structure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Technion 연구진은 신경망의 수학적 모델로 네트워크 연결의 변화들이 어떻게 맞물려 기능을 바꾸는지 살폈다. 그 결과 네트워크의 기능과 학습은 내부 구조의 서로 다른 면을 드러냈다. Omri Barak 교수와 연구생 Yoav Ger의 논문은 arXiv에 공개됐으며, NeurIPS 2026 구두 발표작으로 뽑혔다. 제출작 30,709편 가운데 112편만 오른 자리다."
+        },
+        {
+          "t": "p",
+          "x": "연구 대상은 뇌의 정보 처리 방식을 모델링할 때 쓰는 순환 신경망의 한 유형이었다. 연구진은 네트워크의 행동을 정하는 속성과, 지금 성능엔 영향이 없지만 학습 방식은 바꾸는 \"숨은\" 속성을 나눴다. 한 예에서 두 네트워크는 같은 입력에 똑같이 반응했지만, 같은 조건에서 훈련하자 한쪽은 한동안 개선이 크게 더뎌졌고 다른 쪽은 더 꾸준히 나아졌다."
+        },
+        {
+          "t": "p",
+          "x": "숨은 속성은 학습 이력의 흔적도 간직할 수 있다. 처음엔 서로 다른 과제로 훈련된 네트워크들이 공통 과제에서 비슷한 성능에 이르러도, 숨은 구조를 보면 각자의 훈련 이력을 여전히 가려낼 수 있었다. 연구진은 생물학적 시스템에서도 비슷한 실험을 해 보자고 제안한다."
+        }
+      ]
+    },
+    "science/science-milkyway-ai-surrogate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
+          "cap": "입자 3.4 × 10⁹ 개로 돌린 PHEASANT 실행 장면 가운데 하나. 각 패널 왼쪽 컬러맵은 가스 밀도, 오른쪽은 온도다. 출처: K. Hirashima et al."
+        },
+        {
+          "t": "p",
+          "x": "연구진이 PHEASANT로 우리은하를 별 하나하나 단위까지 시뮬레이션했다. PHEASANT는 CPU·GPU 구성이 서로 다른 슈퍼컴퓨터 세 곳에서 모두 돌아가는 AI 가속(AI-accelerated) 모델이다. 연구에는 도쿄대학(University of Tokyo) 천문학과 Michiko Fujii 교수와 AI 모델을 개발한 RIKEN 박사후연구원 Keiya Hirashima가 참여했다."
+        },
+        {
+          "t": "p",
+          "x": "초신성 주변 가스의 변화를 직접 계산하려면 시간 간격을 약 100년 단위로 잘게 쪼개야 한다. AI 모델이 100,000년 뒤 상태를 대신 예측해 주면 주 시뮬레이션은 시간 간격을 훨씬 길게 잡을 수 있다. 연구팀에 따르면 이 방식은 기존 방법보다 약 20배 빠르고, 시뮬레이션의 별 형성률도 우리은하 관측 추정치와 맞았다."
+        },
+        {
+          "t": "p",
+          "x": "논문 \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\"(K. Hirashima et al.)은 11월 15–20일 시카고에서 열린 고성능 컴퓨팅·네트워킹·스토리지·분석 국제회의 SC 2026에서 발표됐다."
+        }
+      ]
     }
   }
 }

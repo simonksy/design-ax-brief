@@ -11650,6 +11650,132 @@
           "x": "The authors asked readers not to flame the artist. “The generative AI has gotten very sophisticated,” they wrote; the cover was commissioned by the publisher and the sketch “looked like a typical cover sketch.” They may request project files for review of all commissioned work going forward: “We can no longer vet the artist. We have to vet every individual painting.” They also terminated a contract with a vertical drama company after realizing its level of generative AI use did not align with their preferences."
         }
       ]
+    },
+    "books/books-forfatterforbundet-ki-detektor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
+        },
+        {
+          "t": "p",
+          "x": "Jørn Lier Horst's book «Den siste saken» has drawn the literary field into a soul-searching debate. Meanwhile, publishers are testing incoming manuscripts for AI use (KI-bruk). Forfatterforbundet finds that authors contact it because a publisher may have turned down a manuscript on the grounds that it was «written by AI (KI)» – while the author says: «I have not used AI (KI).»"
+        },
+        {
+          "t": "p",
+          "x": "Secretary general Eystein Hanssen and colleagues ran 10–20 tests of the Norwegian service Skrivera. AI-written short stories (KI-skrevne) were flagged at 70 to 90 percent, quickly rewritten ones at 30 to 50 percent. If 70 percent or more had been changed, the result was «human-made». A human-written short story using words Jill Walker Rettberg had pointed to was flagged for «strong AI traits (KI-trekk)»."
+        },
+        {
+          "t": "p",
+          "x": "He describes an arms race between detectors and «humanizere», and warns against a synthetic gatekeeper that judges human-made texts with no right of appeal. Kulturrådet's decision not to use AI detectors (KI-detektorer) seems wise."
+        }
+      ]
+    },
+    "books/books-crime-punishment-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
+        },
+        {
+          "t": "p",
+          "x": "These days, artificial intelligence that translates foreign languages in an instant has made foreign novels easier to reach. Recently, classics translated by generative AI are also coming out as books."
+        },
+        {
+          "t": "p",
+          "x": "We entered, in the original Russian, what the protagonist Raskolnikov says after kissing Sonya's feet in Dostoevsky's novel 'Crime and Punishment'. ChatGPT, Gemini and Claude all translated it as 'made a deep bow'."
+        },
+        {
+          "t": "p",
+          "x": "But translator Kim Jeong-a was different. She offered the insight that it was not a bow to you, but 'bowing one's head' before the suffering of all humanity. “It feels like doing a full bow before an ancestral-rite table, doesn't it. That's very strange. It's the feeling of lowering one's head, that kind of feeling. An expression of awe.”"
+        },
+        {
+          "t": "p",
+          "x": "From 'Crime and Punishment' and 'The Idiot' to 'Demons' and 'The Brothers Karamazov', she rose at 1 a.m. every day and spent more than 10 years putting more than 6천7백 (six thousand seven hundred) pages into Korean. Kim Jeong-a, who received the Pushkin Medal on the 4th, asked readers to also read the sincerity and resonance that AI translation lacks."
+        },
+        {
+          "t": "p",
+          "x": "“(AI translation) has no heart. It has no feeling. It doesn't resonate. It's far too smooth. It will probably be easier to read. But we will lose a great deal.”"
+        }
+      ]
+    },
+    "books/books-ai-slop-academic-names": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
+        },
+        {
+          "t": "p",
+          "x": "A group of little-known academic journals has been publishing “AI slop” papers under the names of professors who did not write them, an investigation has found."
+        },
+        {
+          "t": "p",
+          "x": "Alan Said, professor of computer science at the University of Gothenburg, got a Google Scholar alert about a paper under his name in the American International Journal of Research and Innovation (AIJRI). “It looks AI-generated. It has no content, it’s like slop,” he said. After he complained, his name was swapped for others, leaving three versions attributed to different authors."
+        },
+        {
+          "t": "p",
+          "x": "A sister journal, AJAMRI, has published dozens of papers attributed to academics including Fei-Fei Li, Christopher Manning, Michael I. Jordan and Stuart Russell. All three domains were registered in 2026 yet show archives from years earlier, and they advertise publication fees."
+        },
+        {
+          "t": "p",
+          "x": "“If a new Ph.D. student were to see my name in this journal, they might think it’s OK to submit there, too,” Said said. Stanford’s Jure Leskovec confirmed he did not write or authorize a paper under his name."
+        }
+      ]
+    },
+    "books/books-scholarlykitchen-bot-taxonomy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
+          "cap": "Robot holding key card standing at open doorway"
+        },
+        {
+          "t": "p",
+          "x": "Editors’ note: Today’s post is by Michelle Urberg, Head of Data at LibLynx. Libraries and publishers face an increasingly complex ecosystem of robotic activity on scholarly content platforms. Some bots are malicious and should be blocked, but many “good bots” help researchers and students engage with content or archive it for preservation; agents acting on behalf of human researchers should be included in usage reports."
+        },
+        {
+          "t": "p",
+          "x": "Bot blocking now has cascading effects: time to access is slower, users can be incorrectly rejected, and platform providers continue to be hammered. Existing catalogs are siloed — the COUNTER list identifies just under 200 bots, and the Cloudflare Bot Directory recently doubled from 750 to more than 1,500. The post proposes that a taxonomy of bots can help knowledge platforms take back control over content and understand who (or what) is accessing it."
+        },
+        {
+          "t": "p",
+          "x": "Inspired by a Charleston Conference panel with David Bietila (University of Chicago Library), Jeremy Morse (Michigan Publishing) and Rikki Gracia (IEEE), the group agreed on preliminary questions: who the bot is and how it identifies itself, what content it seeks, its stated purpose (e.g., training, shopping, indexing, archival), how confident we are in its legitimacy, and whether it can evade turnstile mechanisms."
+        },
+        {
+          "t": "p",
+          "x": "Open issues include how to proxy for intention and what scholarly-specific tags to standardize. All panelists agreed a community-led bot taxonomy is one part of the solution to bot management, with cleaner usage metrics as a result."
+        }
+      ]
+    },
+    "books/publishing-act-ai-consent-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.ehom.kr/news/2026/11/23/b392e224be2acfd2d8edca28d44e135c062044.jpg",
+          "cap": "△ Publications are a high-quality knowledge resource that can be used for AI training, but rights holders' consent and a secure processing environment must come with them <Image = Media Ullim, generated by AI>"
+        },
+        {
+          "t": "p",
+          "x": "“My book was used for AI training.” In the third and fourth weeks of November, the publishing industry answered this question in three ways. In the private sector, a ‘permission-based’ supply system that turns publishing content into AI training data took its first step; in the National Assembly, an amendment that writes support for academic books into law entered its legislative notice period; and in the copyright field, people who wrote about the meaning of rights received awards."
+        },
+        {
+          "t": "p",
+          "x": "Selectstar, a company specializing in AI data and reliability evaluation, said on the 20th that it had signed a memorandum of understanding (MOU) with the Korean Publishers Association for the lawful use and quality assurance of publishing data for AI training. The Association will run a data collection and management system in consultation with publishers and act as the supply channel, while Selectstar will provide processing and quality-verification technology based on OCR and document layout analysis (DLA), along with closed-network, on-premises security infrastructure."
+        },
+        {
+          "t": "p",
+          "x": "Data use is premised on the consent of copyright holders and publishing rights holders, and the actual scope of supply and terms of use will be set in separate contracts. The agreement is not a blanket permission for AI training on all published works."
+        },
+        {
+          "t": "p",
+          "x": "In the National Assembly, a partial amendment to the Publishing Culture Industry Promotion Act (bill no. 2222616), introduced by 14 lawmakers including Rep. Yoon Yong-geun, is taking comments during its legislative notice period from the 16th to the 25th. The amendment defines academic books and adds to the duties of the Korea Publication Industry Promotion Agency the research, study and support of academic books, improved accessibility, classification and metadata building, and distribution support, among other tasks. Its stated rationale cites academic books as a foundation for AI training and national knowledge production, but the amended provisions themselves neither permit AI training use across the board nor change the rights of copyright holders. The bill is still at the stage of introduction, committee referral and legislative notice."
+        },
+        {
+          "t": "p",
+          "x": "In the same period, the Ministry of Culture, Sports and Tourism and the Korea Copyright Commission held the awards ceremony for the ‘2026 Copyright Awareness Writing Contest’ on November 19, honoring 49 entries including Yoon Hye-kyung's “May I Use It?” What the publishing industry needs to protect is not the volume of data but the record of who permitted what."
+        }
+      ]
     }
   }
 }

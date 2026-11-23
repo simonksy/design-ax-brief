@@ -5375,6 +5375,147 @@
           "x": "结论是什么？Li及同事总结称：“早期[胰腺癌]检测不应仅依赖病灶线索。”"
         }
       ]
+    },
+    "medicine/mhra-mental-health-airlock": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MHRA与NICE于今天（11月23日）推出的新监管沙盒，将支持AI-enabled（AI赋能）心理健康技术的安全创新，帮助有前景的技术更快惠及民众。"
+        },
+        {
+          "t": "p",
+          "x": "作为MHRA旗下AI Airlock项目的扩展，AI in Mental Health Airlock与NICE的HTA Lab合作，汇聚监管者与创新者，共同探索AI-enabled心理健康技术的具体评估需求。它是Wellcome资助项目第二阶段的一部分，该项目于2023年首次启动。"
+        },
+        {
+          "t": "p",
+          "x": "近期研究还显示，超过三分之一的成年人（37%）曾使用AI聊天机器人来支持自己的心理健康或身心福祉。其中一些聊天机器人可能具有医疗用途并受医疗器械监管，另一些则不然。"
+        },
+        {
+          "t": "p",
+          "x": "最多将有五家机构入选参与沙盒。通过研讨会和测试活动，参与者将就如何识别、评估和管理心理健康场景中的AI-related（AI相关）风险形成实用见解。申请截止日期为2027年1月22日。"
+        },
+        {
+          "t": "p",
+          "x": "MHRA首席执行官劳伦斯·塔隆表示：“AIMH Airlock将帮助我们更好地理解如何切实评估和管理AI心理健康技术。”"
+        }
+      ]
+    },
+    "medicine/photon-chatgpt-rx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+          "cap": "患者记录保存在Photon中，处方草稿会与患者记录的过敏史和用药进行核对。"
+        },
+        {
+          "t": "p",
+          "x": "处方基础设施公司Photon现已作为ChatGPT插件上线，帮助医生在已在使用的工具内简化开处方流程。"
+        },
+        {
+          "t": "p",
+          "x": "使用ChatGPT for Clinicians或ChatGPT for Healthcare、符合条件的U.S.持证医生均可使用这一选项。医生须接受Photon的BAA以保持HIPAA合规。该功能不支持管制药品。截至2026年12月31日，医生可免费使用该功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
+          "cap": "界面截图示例（Photon）"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼CEO奥托·赛普在给Fierce Healthcare的信中写道：“AI正从记笔记和查资料走向治疗工作流程。”“Photon提供支撑这一步的基础设施。”"
+        },
+        {
+          "t": "p",
+          "x": "医生以患者姓名和药品名称开始输入提示，随后审核剂量、用法说明和数量，再批准处方，治疗责任仍由医生承担。患者会收到一条短信，链接到ChatGPT之外的Photon处方市场，以便比较价格。"
+        }
+      ]
+    },
+    "medicine/heart-failure-drug-ai-kr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
+          "cap": "左起：盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授，首尔大学数理科学系Kook Woong教授，首尔大学AI研究院（AIIS）Kim Won-se博士。图片来源：盆唐首尔大学医院"
+        },
+        {
+          "t": "p",
+          "x": "盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授团队与首尔大学数理科学系Kook Woong教授、首尔大学AI研究院（AIIS）Kim Won-se博士团队，开发出可预测射血分数保留型心衰患者药物治疗效果的AI工具“PARAGUIDE”。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队分析了4,161名射血分数保留型心衰患者的临床信息，构建出预测个体对沙库巴曲/缬沙坦治疗反应的模型。在分析53项基础临床特征后，为便于在实际诊疗中使用，将输入变量精简至16项。"
+        },
+        {
+          "t": "p",
+          "x": "在全体患者中，降低心血管死亡和心衰住院的效果并无统计学意义。但AI预测可从治疗中获益的患者占总数的70.8%，在这一群体中，与缬沙坦单药治疗相比风险降低18%（RR 0.82，95% CI 0.69~0.98）。"
+        },
+        {
+          "t": "p",
+          "x": "Park Jin-joo教授表示：“这项研究把‘这种药有没有效’的问题，变成了‘这种药能否帮助眼前这位患者’。”研究结果发表于《npj Digital Medicine》，PARAGUIDE可通过网站免费使用。"
+        }
+      ]
+    },
+    "medicine/eye-ambient-ai-emr-ophthalmology": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "EMR记录加重了医生的工作负担，并减少了医患互动，眼科因专科数据要求尤其受到影响。本研究在标准化眼科问诊中，比较了用于结构化EMR导入的环境式AI-assisted（AI辅助）记录与传统录入方式。"
+        },
+        {
+          "t": "p",
+          "x": "一名主治医师和一名住院医师分别在传统和AI-assisted条件下完成了十个标准化眼科场景。ChatGPT 5.3和Claude Sonnet 4.6先用TurboScribe转写，再生成结构化LLM输出；Heidi 2.0.1则使用集成音频流程。所有系统均以结构化导入眼科EMR（Heyex；Heidelberg Engineering）为目标。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+          "cap": "图1：问诊时间构成——传统记录与AI辅助记录对比"
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted记录使主治医师的总问诊时间缩短2.4分钟（−32%），住院医师缩短3.0分钟（−37%）。记录与审核时间分别减少85%和86%，视线离开患者的时间分别减少83%和86%；两名医生与电脑相关的视线转移均减少72%。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+          "cap": "图2：各AI系统文档准确性评分的条目级分布"
+        },
+        {
+          "t": "p",
+          "x": "准确率最高的是Claude Sonnet 4.6（98.4 ± 2.9%），其次为ChatGPT 5.3（97.0 ± 5.1%）和Heidi 2.0.1（88.6 ± 9.9%）。由于仅评估了一名主治医师和一名住院医师，这些结果应视为初步的、用于提出假设的发现。"
+        }
+      ]
+    },
+    "medicine/northwell-stroke-ai-outcomes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "12月2日（周三） | 9:30 a.m.-10:30 a.m. | W3-SSNR10-3 | Room E350"
+        },
+        {
+          "t": "p",
+          "x": "在本场报告中，研究人员将介绍在一家综合卒中中心引入AI软件后，患者预后为何未出现可衡量的改善。"
+        },
+        {
+          "t": "p",
+          "x": "报告人、Hofstra/Northwell旗下Donald and Barbara Zucker School of Medicine的Maria Sanmartin, PhD指出，尽管缺乏AI工具能改善预后的证据，这类工具已在卒中等时间敏感型疾病中被广泛采用。为此，研究团队比较了纽约都会区一家综合卒中中心引入五款AI工具前后的卒中预后。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员回顾性分析了2014年至2024年间接受治疗的876名急性缺血性卒中患者，并排除了工具推行期间就诊的患者。他们采用倾向评分匹配和间断时间序列分析来校正两组之间的差异。"
+        },
+        {
+          "t": "p",
+          "x": "在控制其他因素后，研究人员发现，引入AI后，出院时获得良好功能结局的几率以及出院去向均无显著变化。不过，到院后60分钟内完成CT血管造影的几率在AI时期开始时大幅上升。"
+        },
+        {
+          "t": "p",
+          "x": "“鉴于此前研究表明AI工具能加快卒中诊断、简化工作流程并加强医疗团队协作，有必要进一步研究这些变化是否影响预后，”研究人员写道。"
+        }
+      ]
     }
   }
 }

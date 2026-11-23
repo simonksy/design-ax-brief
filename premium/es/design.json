@@ -13096,6 +13096,163 @@
           "x": "Tras ajustar detalles mediante comentarios con el agente y un diseñador, el ingeniero pega el enlace de la spec en Codex y escribe: “Implementa esta función” (Implement this feature.). A través del MCP de Figma, Codex puede leer la spec, los frames anotados, las capas de código y los componentes del sistema de diseño con un solo enlace. Specs está en beta abierta en todos los planes y disponible en web, escritorio y móvil."
         }
       ]
+    },
+    "design/motif-bhom-buro-happold": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El framework de ingeniería de código abierto BHoM de Buro Happold se está integrando de forma nativa en la plataforma BIM 2.0 de Motif, lo que conecta el diseño AI-driven con el cálculo de ingeniería determinista. Las dos empresas mostraron el trabajo en un evento en la oficina de Buro Happold en Londres."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de limitarse a importar geometría, Motif puede trabajar con los objetos nativos de BHoM y llamar a sus métodos de ingeniería subyacentes. Matt Jezyk dijo que el modelo de datos flexible de Motif podría albergar unas 700 clases y objetos de BHoM."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
+          "cap": "Amar Hanspal, CEO de Motif"
+        },
+        {
+          "t": "p",
+          "x": "En un taller de un día, ingenieros de Buro Happold generaron formas mediante prompts y bocetos, y luego usaron BHoM para producir representaciones analíticas estructurales y aplicar reglas empíricas para dimensionar elementos; no se ejecutó ningún solver estructural. \"La palabra importar no le hace justicia\", dijo Al Fisher."
+        },
+        {
+          "t": "p",
+          "x": "Motif también abrió su plataforma a desarrolladores externos con una nueva API. Fisher describió tres formas complementarias de inteligencia: el juicio humano, la AI probabilística y el cálculo determinista. Lo demostrado hasta ahora es un primer paso prometedor, aunque más acotado."
+        }
+      ]
+    },
+    "design/lexisnexis-verify-ux-patterns": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una base de datos pública registra ya más de 2,200 decisiones de tribunales y juzgados con contenido AI-hallucinated, es decir, alucinado por la AI. Ulka Patil, que diseña herramientas de AI para profesionales del ámbito legal y regulatorio, sostiene que ayudar a las personas a detectar, comprobar y corregir los errores de la AI es un problema de diseño, y propone cinco patrones."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
+          "cap": "Empezar por lo que la gente más necesita; los patrones funcionan mejor juntos"
+        },
+        {
+          "t": "p",
+          "x": "1. Mostrar de dónde viene: enlazar el pasaje exacto que respalda cada afirmación, no solo el documento. 2. Explicarlo en lenguaje llano: acompañar cada resultado importante de la AI con el motivo por el que la AI llegó a él."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
+          "cap": "Wireframe · la cita indica qué es, una vista previa muestra los detalles y un clic abre el pasaje exacto"
+        },
+        {
+          "t": "p",
+          "x": "3. Etiquetar las señales con honestidad: los revisores preferían niveles de riesgo Alto / Medio / Bajo a puntuaciones brutas como \"87% de coincidencia\". 4. Mantener el control en manos de las personas: las sugerencias de la AI deben ser visibles, editables y reversibles. 5. Hacer coherente la verificación: una etiqueta debe significar lo mismo en todas las pantallas."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
+          "cap": "Un recorrido típico de verificación, respaldado por los cinco patrones"
+        },
+        {
+          "t": "p",
+          "x": "Una prueba rápida para cualquier experiencia de AI: ¿pueden las personas entender la respuesta, comprobar sus pruebas, ver cuán segura está la AI y corregir errores sin perder el hilo?"
+        }
+      ]
+    },
+    "design/design-agent-spacing-scale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El PR alinea una barra de herramientas con mt-[13px], gap-[18px] y p-[22px]. El tema ya tiene una escala de espaciado. Los nuevos números se acercan, pero no están en la escala, y el próximo agente inventará otro conjunto."
+        },
+        {
+          "t": "p",
+          "x": "El modelo copia una captura de pantalla o un valor en píxeles de Figma y lo pega como utilidad arbitraria o como literal en CSS. Una pila de valores casi iguales (12px, 13px, 14px) es más difícil de ajustar después que un único token algo holgado."
+        },
+        {
+          "t": "p",
+          "x": "Una política de espaciado sencilla: margin, padding y gap usan la escala de espaciado existente; nada de utilidades de píxeles arbitrarias en el CSS de una funcionalidad; un paso nuevo es un cambio de token, con nombre y documentado; no hay que \"kernear\" una sola pantalla con valores que el resto de la app no usa."
+        },
+        {
+          "t": "p",
+          "x": "Pega la escala en el prompt cuando el agente esté maquetando, por ejemplo: \"Si una captura usa 18px y el paso más cercano es 16px, usa el paso y anota la diferencia\". En la revisión, busca en el diff [Npx] y px sueltos en margin y padding."
+        },
+        {
+          "t": "p",
+          "x": "Rechaza mt-[13px] / gap-[18px] arbitrarios en un archivo de funcionalidad; acepta una elección documentada del paso más cercano o un PR de tokens que añada un paso con nombre."
+        }
+      ]
+    },
+    "design/skecoplant-axen-design-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
+          "cap": "▶ [Imagen: SK ecoplant]"
+        },
+        {
+          "t": "p",
+          "x": "SK ecoplant sustituye con inteligencia artificial (AI) las tareas de revisión que se repiten en el proceso de diseño. La idea es reducir horas de trabajo usando la AI desde las primeras fases del diseño para analizar la disposición de equipos y los posibles choques entre instalaciones, y para buscar la documentación técnica relacionada."
+        },
+        {
+          "t": "p",
+          "x": "Según informó SK ecoplant el día 23, la empresa ha implantado y puesto en funcionamiento 'AXen', una plataforma de AI especializada en tareas de diseño. Su rasgo principal es que permite realizar en una sola plataforma tareas como la búsqueda de documentación y la revisión de distribuciones, que antes cada responsable de diseño hacía por separado."
+        },
+        {
+          "t": "p",
+          "x": "En los proyectos de construcción, cuando cambia la distribución de espacios o equipos, hay que volver a comprobar si hay interferencias con las instalaciones cercanas y revisar las normas de diseño y la legislación aplicables. Según el cambio, también hay que modificar documentación existente o preparar nuevas distribuciones."
+        },
+        {
+          "t": "p",
+          "x": "AXen se desarrolló para apoyar ese proceso. A partir de los datos de diseño acumulados, propone distribuciones de espacios y equipos y permite comparar varias alternativas. También incluye una función que analiza los puntos donde equipos e instalaciones interfieren entre sí y propone soluciones."
+        },
+        {
+          "t": "p",
+          "x": "Como permite buscar normas de diseño, legislación e información técnica en un solo lugar, también reduce la necesidad de que cada responsable consulte la documentación por su cuenta. SK ecoplant prevé así reducir el trabajo repetitivo no solo en el diseño inicial sino también durante los cambios de diseño, y acortar el tiempo de las revisiones y decisiones entre departamentos."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados que propone la AI no se aprueban tal cual. Los resultados finales revisados por los responsables de diseño se acumulan como datos y se vuelven a usar para mejorar la precisión y la utilidad de la AI. El nombre AXen combina 'AX(AI Transformation)', que significa transformación con AI, y diseño (Engineering)."
+        },
+        {
+          "t": "p",
+          "x": "La adopción de AI en diseño forma parte de la automatización del trabajo que SK ecoplant impulsa en toda la empresa. Mientras amplía su negocio en torno a la AI y los semiconductores, también está implantando un sistema de '1 persona, 1 agente' en el que cada empleado utiliza agentes de AI."
+        },
+        {
+          "t": "p",
+          "x": "También se prepara para aplicar la AI a la gestión de obras y contratos. Está desarrollando, para su uso práctico, más de 20 proyectos surgidos de su Agenthon interno de agentes de AI, como la consulta y el análisis integrados de costos de obra, la revisión de presupuestos de construcción y la revisión de comunicaciones oficiales externas y contratos."
+        },
+        {
+          "t": "p",
+          "x": "Con AXen como punto de partida, SK ecoplant prevé ampliar de forma gradual el alcance de las tareas de diseño que puede asumir la AI."
+        },
+        {
+          "t": "p",
+          "x": "Un responsable de SK ecoplant afirmó: \"Esta plataforma de diseño con AI es un caso de aplicación concreta de la transición AX de toda la empresa al trabajo de diseño\", y añadió: \"Seguiremos ampliando sistemas de uso de AI adaptados a cada tipo de tarea para innovar nuestra forma de trabajar y mejorar de forma continua nuestra competitividad y la eficiencia en la ejecución de proyectos\"."
+        }
+      ]
+    },
+    "design/gemini-mac-computer-use": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png"
+        },
+        {
+          "t": "p",
+          "x": "Google ahora permite que Gemini se encargue de tareas en Mac en segundo plano. La nueva función “Computer Use” de la app Gemini Mac completa tareas de varios pasos entre archivos locales, apps de escritorio y sitios web. Según Google, el usuario solo describe un objetivo y Gemini hace clic, escribe y navega por menús y formularios. Todo se ejecuta en una ventana aislada en segundo plano con una vista previa del chat en directo, lo que deja libres la pantalla y el cursor para trabajar sin interrupciones."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios eligen a qué apps puede acceder Gemini, siguen cada paso en directo, pausan en cualquier momento y aprueban de antemano las acciones clave. Entre los ejemplos de Google figuran la edición por lotes de fotos y escenas 3D, el llenado de formularios de envío a partir de PDFs locales y la creación de presentaciones."
+        },
+        {
+          "t": "p",
+          "x": "Computer Use se lanza hoy en inglés en Estados Unidos (US), y la app Gemini Mac ya está disponible para descargar. OpenAI también se ha centrado recientemente en Computer Use y ha tomado una clara ventaja con su modelo Astra."
+        }
+      ]
     }
   }
 }

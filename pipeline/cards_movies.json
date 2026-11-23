@@ -1,197 +1,191 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "movies",
   "cards": [
     {
-      "id": "harari-unknown-deepfake",
+      "id": "silhouette-2027-mlroto",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Harari 딥페이크로\nSeydoux 분신 촬영",
-      "body": "AI를 경계하는 Harari도 Léa Seydoux 키스 장면엔 딥페이크를 썼다.",
-      "mini_headline": "Harari의 딥페이크 분신 장면",
+      "headline": "Silhouette\n2027, ML 로토 도입",
+      "body": "Silhouette 2027엔 Body ML·Video Inpaint ML이 있다.",
+      "mini_headline": "Silhouette 2027, ML 로토",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-            "cap": "Toronto International Film Festival에 참석한 'The Unknown'의 Lea Seydoux, Arthur Harari, Niels Schneider, 2026년 9월 14일 (Gareth Cattermole/Getty Images for IMDb)"
+            "t": "video",
+            "yt": "T1APGmlnK4E"
           },
           {
             "t": "p",
-            "x": "“The Unknown”의 감독 Arthur Harari는 AI가 “미끄러운 비탈길”이라며 자기 작업에서는 피하고 싶다고 말한다. 그런 그도 일요일 Marrakech Film Festival에서 Léa Seydoux 주연의 몸 바뀜 심리극이자 Palme d’Or 경쟁작인 이 영화에 딥페이크 도구를 썼다고 털어놨다."
+            "x": "Boris FX가 로토·페인트 소프트웨어 최신판 Silhouette 2027을 내놨다. 로토 셰이프를 만들고 다듬는 AI-based 신규 도구, 오브젝트 제거를 빠르게 해 주는 Video Inpaint ML 노드, 새 3D 합성·카메라 프로젝션 기능이 들어갔다."
           },
           {
             "t": "p",
-            "x": "“개인적으로는 써 본 적이 없다. 지금으로서는 내 작업에 그것이 들어설 자리가 보이지 않는다.” 평론가 Charles Tesson과 대담하던 Harari는 이렇게 말하고는 곧 덧붙였다. “‘The Unknown’에는 Léa Seydoux가 Léa Seydoux에게 키스하는 장면이 있는데, 그걸 위해 딥페이크 도구를 써야 했다. 하지만 그 뒤에는 사람이 있었다. 언제나 사람이 관여했다. 말하자면 그것을 프로그래밍하고 통제하는 누군가가. 그러니 원칙적으로 반대하지는 않는다.”"
+            "x": "머신러닝 노드는 매트 생성과 손으로 하는 전통 로토 사이를 잇는다. Body ML은 머리·목·팔다리·몸통 같은 주요 신체 부위에 편집 가능한 로토 셰이프를 대략 그려 주고, 샷 내내 움직임을 따라간다. Roto ML은 이 셰이프나 손으로 대강 그린 셰이프를 AI-generated 매트에 자동으로 맞추고, 수정 사항은 키프레임으로 걸 수 있다. 복합 노드 Matte ML은 Mask ML, Matte Assist ML, Matte Refine ML을 곧바로 쓸 수 있는 서브그래프 하나로 묶었다."
           },
           {
             "t": "p",
-            "x": "작가로서 그는 간단한 자료 조사라면 AI 도구가 “전적으로 정당하고 흥미롭다”고 봤다. 다만 “실제로 글쓰기 과정의 일부를 만드는 데” 쓰는 건 “아주 미끄러운 비탈길”이라고 했다. “한번 발을 들이면 매번 쓰지 않기가 엄청나게 어려워진다.”"
+            "x": "페인트 쪽에서는 Video Inpaint ML 노드가 입력 알파 채널로 지정한 프레임 영역을 깨끗한 대체 이미지로 자동으로 채운다. Boris FX 자체 AI 모델이 사용자 컴퓨터에서 백그라운드로 로컬 실행된다."
           },
           {
             "t": "p",
-            "x": "Cannes 경쟁 부문에서 처음 상영된 “The Unknown”에서 Seydoux는 하룻밤을 함께 보낸 여성을 연기한다. 상대였던 사진가 David(Niels Schneider)는 깨어나 보니 그 여성의 몸에 갇혀 있다. Seydoux는 앞서 Variety에 “그 무엇도 인간성을 대신할 수 없다고 생각한다. 위협을 느끼지 않는다”고 말했다."
+            "x": "Runway로 텍스트 프롬프트·참조 이미지·다른 영상에서 영상을 생성하는 노드도 추가됐다. 가격은 스탠드얼론 영구 라이선스 $2,195, 플러그인 $1,195다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Arthur Harari used a deepfake\nfor Léa Seydoux’s double scene",
-          "body": "Harari calls AI a slippery slope but used a deepfake tool so Léa Seydoux could kiss herself in The Unknown.",
-          "mini_headline": "Harari’s deepfake double scene",
+          "headline": "Silhouette 2027 adds\nML roto and inpainting",
+          "body": "Silhouette 2027 adds Body ML, which outputs editable roto shapes, and a Video Inpaint ML node for object removal.",
+          "mini_headline": "Silhouette 2027 gets ML roto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "Lea Seydoux, Arthur Harari and Niels Schneider of 'The Unknown' at the Toronto International Film Festival, September 14, 2026 (Gareth Cattermole/Getty Images for IMDb)"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "“The Unknown” filmmaker Arthur Harari says AI is a “slippery slope” and one he’d prefer to avoid in his own work — even as he admitted on Sunday at the Marrakech Film Festival that he used a deepfake tool in his Palme d’Or contender, a body-swap psychodrama starring Léa Seydoux."
+                "x": "Boris FX has released Silhouette 2027, the latest version of its roto and paint software. The update adds new AI-based tools for generating and refining roto shapes, a Video Inpaint ML node to speed up object removal, and new 3D compositing and camera projection features."
               },
               {
                 "t": "p",
-                "x": "“Personally, I’ve never used it; for the time being, I don’t see any place for it in my work,” Harari said in conversation with critic Charles Tesson. Moments later he added: “At one point in ‘The Unknown,’ there is a scene where Léa Seydoux kisses Léa Seydoux, and we had to use a deepfake tool to do that. But there was a human behind it. There was always a human involved — someone who programs it, so to speak, and keeps it under control. So, I’m not against it in principle.”"
+                "x": "New machine learning nodes bridge the gap between matte generation and traditional manual roto. Body ML generates rough editable roto shapes for major body parts – head, neck, limbs and torso – then tracks their motion across a shot. Roto ML automatically fits those roto shapes – or rough manually drawn shapes – to AI-generated mattes, with the option to keyframe the corrections. A new compound node, Matte ML, combines Mask ML, Matte Assist ML and Matte Refine ML into a single readymade subgraph."
               },
               {
                 "t": "p",
-                "x": "As a writer, he called AI tools “perfectly legitimate and interesting” for simple research, but using them “to actually craft parts of the writing process” was “a very slippery slope.” “Once you get a foot in the door, it becomes incredibly difficult not to use it at every turn.”"
+                "x": "For paint work, the new Video Inpaint ML node automatically generates clean replacement imagery in parts of the frame defined by an input alpha channel. It uses Boris FX’s own AI model, and runs locally in the background on a user’s machine."
               },
               {
                 "t": "p",
-                "x": "“The Unknown,” which premiered in competition at Cannes, stars Seydoux as a woman whose one-night stand, photographer David (Niels Schneider), wakes up trapped inside her body. Seydoux told Variety earlier: “I think that nothing can replace humanity. I don’t feel threatened.”"
+                "x": "The update also adds nodes for generating video from text prompts, reference images or other videos using Runway. Perpetual licences of the standalone cost $2,195; the plugin costs $1,195."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Harari 딥페이크로\nSeydoux 분신 촬영",
-          "body": "AI를 경계하는 Harari도 Léa Seydoux 키스 장면엔 딥페이크를 썼다.",
-          "mini_headline": "Harari의 딥페이크 분신 장면",
+          "headline": "Silhouette\n2027, ML 로토 도입",
+          "body": "Silhouette 2027엔 Body ML·Video Inpaint ML이 있다.",
+          "mini_headline": "Silhouette 2027, ML 로토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "Toronto International Film Festival에 참석한 'The Unknown'의 Lea Seydoux, Arthur Harari, Niels Schneider, 2026년 9월 14일 (Gareth Cattermole/Getty Images for IMDb)"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "“The Unknown”의 감독 Arthur Harari는 AI가 “미끄러운 비탈길”이라며 자기 작업에서는 피하고 싶다고 말한다. 그런 그도 일요일 Marrakech Film Festival에서 Léa Seydoux 주연의 몸 바뀜 심리극이자 Palme d’Or 경쟁작인 이 영화에 딥페이크 도구를 썼다고 털어놨다."
+                "x": "Boris FX가 로토·페인트 소프트웨어 최신판 Silhouette 2027을 내놨다. 로토 셰이프를 만들고 다듬는 AI-based 신규 도구, 오브젝트 제거를 빠르게 해 주는 Video Inpaint ML 노드, 새 3D 합성·카메라 프로젝션 기능이 들어갔다."
               },
               {
                 "t": "p",
-                "x": "“개인적으로는 써 본 적이 없다. 지금으로서는 내 작업에 그것이 들어설 자리가 보이지 않는다.” 평론가 Charles Tesson과 대담하던 Harari는 이렇게 말하고는 곧 덧붙였다. “‘The Unknown’에는 Léa Seydoux가 Léa Seydoux에게 키스하는 장면이 있는데, 그걸 위해 딥페이크 도구를 써야 했다. 하지만 그 뒤에는 사람이 있었다. 언제나 사람이 관여했다. 말하자면 그것을 프로그래밍하고 통제하는 누군가가. 그러니 원칙적으로 반대하지는 않는다.”"
+                "x": "머신러닝 노드는 매트 생성과 손으로 하는 전통 로토 사이를 잇는다. Body ML은 머리·목·팔다리·몸통 같은 주요 신체 부위에 편집 가능한 로토 셰이프를 대략 그려 주고, 샷 내내 움직임을 따라간다. Roto ML은 이 셰이프나 손으로 대강 그린 셰이프를 AI-generated 매트에 자동으로 맞추고, 수정 사항은 키프레임으로 걸 수 있다. 복합 노드 Matte ML은 Mask ML, Matte Assist ML, Matte Refine ML을 곧바로 쓸 수 있는 서브그래프 하나로 묶었다."
               },
               {
                 "t": "p",
-                "x": "작가로서 그는 간단한 자료 조사라면 AI 도구가 “전적으로 정당하고 흥미롭다”고 봤다. 다만 “실제로 글쓰기 과정의 일부를 만드는 데” 쓰는 건 “아주 미끄러운 비탈길”이라고 했다. “한번 발을 들이면 매번 쓰지 않기가 엄청나게 어려워진다.”"
+                "x": "페인트 쪽에서는 Video Inpaint ML 노드가 입력 알파 채널로 지정한 프레임 영역을 깨끗한 대체 이미지로 자동으로 채운다. Boris FX 자체 AI 모델이 사용자 컴퓨터에서 백그라운드로 로컬 실행된다."
               },
               {
                 "t": "p",
-                "x": "Cannes 경쟁 부문에서 처음 상영된 “The Unknown”에서 Seydoux는 하룻밤을 함께 보낸 여성을 연기한다. 상대였던 사진가 David(Niels Schneider)는 깨어나 보니 그 여성의 몸에 갇혀 있다. Seydoux는 앞서 Variety에 “그 무엇도 인간성을 대신할 수 없다고 생각한다. 위협을 느끼지 않는다”고 말했다."
+                "x": "Runway로 텍스트 프롬프트·참조 이미지·다른 영상에서 영상을 생성하는 노드도 추가됐다. 가격은 스탠드얼론 영구 라이선스 $2,195, 플러그인 $1,195다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Harari、Seydoux\n分身にディープフェイク",
-          "body": "HarariはAIを警戒しつつ、ディープフェイクでSeydouxの自分とのキスを撮った。",
-          "mini_headline": "Harariのディープフェイク分身場面",
+          "headline": "Silhouette\n2027、MLロトと修復機能",
+          "body": "Silhouette 2027にBody MLとVideo Inpaint MLが加わった。",
+          "mini_headline": "Silhouette 2027にMLロト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "Toronto International Film Festivalに出席した『The Unknown』のLea Seydoux、Arthur Harari、Niels Schneider、2026年9月14日(Gareth Cattermole/Getty Images for IMDb)"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "「The Unknown」の監督Arthur Harariは、AIは「滑りやすい坂」であり、自身の作品では避けたいと語る。その一方で日曜日、Marrakech Film Festivalで、Léa Seydoux主演の入れ替わり心理劇でありPalme d’Or候補作となった同作でディープフェイクツールを使ったことを認めた。"
+                "x": "Boris FXは、ロト・ペイントソフトの最新版Silhouette 2027をリリースした。今回のアップデートでは、ロトシェイプを生成・調整するAI-basedの新ツール、オブジェクト除去を効率化するVideo Inpaint MLノード、新たな3Dコンポジットとカメラプロジェクション機能が加わった。"
               },
               {
                 "t": "p",
-                "x": "「個人的には使ったことがない。今のところ、自分の作品にそれが入り込む余地は見当たらない」。Harariは批評家Charles Tessonとの対談でこう語った。そして少し後にこう付け加えた。「『The Unknown』には、Léa SeydouxがLéa Seydouxにキスする場面がある。そのためにディープフェイクツールを使わざるを得なかった。だがその背後には人間がいた。常に人間が関わっていた。いわばそれをプログラムし、制御下に置く誰かだ。だから原則として反対ではない」"
+                "x": "新しい機械学習ノードは、マット生成と従来の手作業によるロトの橋渡しをする。Body MLは頭、首、手足、胴体といった主要な身体部位について編集可能な大まかなロトシェイプを生成し、ショット全体でその動きをトラッキングする。Roto MLは、それらのロトシェイプや手描きの大まかなシェイプをAI-generatedのマットに自動でフィットさせ、修正をキーフレーム化することもできる。新しい複合ノードMatte MLは、Mask ML、Matte Assist ML、Matte Refine MLを一つの既製サブグラフにまとめたものだ。"
               },
               {
                 "t": "p",
-                "x": "書き手としては、簡単なリサーチにAIツールを使うのは「まったく正当で興味深い」としたが、「実際に執筆過程の一部を作り上げる」ために使うのは「非常に滑りやすい坂」だと述べた。「一度足を踏み入れると、あらゆる場面で使わずにいるのが信じられないほど難しくなる」"
+                "x": "ペイント作業では、新しいVideo Inpaint MLノードが、入力アルファチャンネルで指定したフレーム内の領域に、クリーンな差し替え画像を自動生成する。Boris FX独自のAIモデルを使い、ユーザーのマシン上でバックグラウンドでローカル実行される。"
               },
               {
                 "t": "p",
-                "x": "Cannesのコンペティション部門で初上映された「The Unknown」で、Seydouxは一夜を共にした写真家David(Niels Schneider)が目覚めると自分の体の中に閉じ込められていた女性を演じる。Seydouxは以前Varietyに「人間性に代わるものは何もないと思う。脅威は感じていない」と語っていた。"
+                "x": "アップデートでは、Runwayを使ってテキストプロンプト、参照画像、他の動画から動画を生成するノードも追加された。スタンドアロン版の永続ライセンスは$2,195、プラグイン版は$1,195である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Harari用深度伪造\n拍Seydoux分身戏",
-          "body": "Harari称AI是危险的滑坡，却用深度伪造工具让Léa Seydoux亲吻自己。",
-          "mini_headline": "Harari的深度伪造分身戏",
+          "headline": "Silhouette\n2027新增ML转描与修复",
+          "body": "Silhouette 2027新增Body ML与Video Inpaint ML节点。",
+          "mini_headline": "Silhouette 2027加入ML转描",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "《The Unknown》的Lea Seydoux、Arthur Harari与Niels Schneider出席Toronto International Film Festival，2026年9月14日（Gareth Cattermole/Getty Images for IMDb）"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "《The Unknown》导演Arthur Harari表示，AI是一道“滑坡”，他宁愿在自己的创作中避开它——但他周日在Marrakech Film Festival上也承认，在这部由Léa Seydoux主演、讲述身体互换的心理剧、角逐Palme d’Or的作品中，他使用了深度伪造工具。"
+                "x": "Boris FX发布了旗下转描与绘制软件的最新版本Silhouette 2027。此次更新加入了用于生成和优化转描形状的AI-based新工具、可加快物体移除的Video Inpaint ML节点，以及新的3D合成与摄像机投影功能。"
               },
               {
                 "t": "p",
-                "x": "“就我个人而言，我从未用过它；至少目前，我看不到它在我的作品中有什么位置。”Harari在与影评人Charles Tesson对谈时说。片刻后他补充道：“《The Unknown》里有一场戏，Léa Seydoux亲吻Léa Seydoux，我们不得不用深度伪造工具来完成。但背后有人。始终有人参与——可以说，是有人在编程，并让它处于掌控之中。所以，原则上我并不反对。”"
+                "x": "新的机器学习节点弥合了遮罩生成与传统手工转描之间的差距。Body ML可为头部、颈部、四肢和躯干等主要身体部位生成可编辑的粗略转描形状，并在整个镜头中跟踪其运动。Roto ML会将这些转描形状或手绘的粗略形状自动贴合到AI-generated遮罩上，还可以对修正进行关键帧设置。新的复合节点Matte ML将Mask ML、Matte Assist ML和Matte Refine ML整合为一个现成的子图。"
               },
               {
                 "t": "p",
-                "x": "作为编剧，他认为将AI工具用于简单的资料查询“完全正当，也很有意思”，但用它们“真正去构建写作过程的一部分”则是“一道非常危险的滑坡”。“一旦迈出第一步，就会变得极难不在每个环节都使用它。”"
+                "x": "在绘制工作中，新的Video Inpaint ML节点会在输入Alpha通道所界定的画面区域内自动生成干净的替换图像。它使用Boris FX自有的AI模型，并在用户机器的后台本地运行。"
               },
               {
                 "t": "p",
-                "x": "《The Unknown》在Cannes主竞赛单元首映，Seydoux饰演一名女子，她的一夜情对象、摄影师David（Niels Schneider）醒来后发现自己被困在她的身体里。Seydoux此前对Variety表示：“我认为没有什么能取代人性。我并不感到受威胁。”"
+                "x": "此次更新还加入了借助Runway、通过文本提示、参考图像或其他视频生成视频的节点。独立版永久许可证售价$2,195，插件版售价$1,195。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Arthur Harari usó un deepfake\npara duplicar a Léa Seydoux",
-          "body": "Harari ve la AI como un riesgo, pero usó un deepfake para que Léa Seydoux se besara a sí misma en The Unknown.",
-          "mini_headline": "El doble deepfake de Harari",
+          "headline": "Silhouette 2027 añade\nroto e inpainting con ML",
+          "body": "Silhouette 2027 añade Body ML, que genera formas de roto editables, y el nodo Video Inpaint ML para eliminar objetos.",
+          "mini_headline": "Silhouette 2027 suma roto con ML",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "Lea Seydoux, Arthur Harari y Niels Schneider, de 'The Unknown', en el Toronto International Film Festival, 14 de septiembre de 2026 (Gareth Cattermole/Getty Images for IMDb)"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "Arthur Harari, director de “The Unknown”, afirma que la AI es una “pendiente resbaladiza” que prefiere evitar en su propio trabajo, aunque el domingo, en el Marrakech Film Festival, admitió que usó una herramienta de deepfake en su película aspirante a la Palme d’Or, un drama psicológico de intercambio de cuerpos protagonizado por Léa Seydoux."
+                "x": "Boris FX ha lanzado Silhouette 2027, la versión más reciente de su software de rotoscopia y pintura. La actualización incorpora nuevas herramientas AI-based para generar y refinar formas de roto, un nodo Video Inpaint ML que agiliza la eliminación de objetos y nuevas funciones de composición 3D y proyección de cámara."
               },
               {
                 "t": "p",
-                "x": "“Personalmente, nunca la he usado; por ahora no veo lugar para ella en mi trabajo”, dijo Harari en una conversación con el crítico Charles Tesson. Momentos después añadió: “En un momento de ‘The Unknown’ hay una escena en la que Léa Seydoux besa a Léa Seydoux, y tuvimos que usar una herramienta de deepfake para hacerlo. Pero había un humano detrás. Siempre hubo un humano involucrado, alguien que la programa, por así decirlo, y la mantiene bajo control. Así que, en principio, no estoy en contra”."
+                "x": "Los nuevos nodos de aprendizaje automático cubren el espacio entre la generación de mates y el roto manual tradicional. Body ML genera formas de roto editables y aproximadas para las principales partes del cuerpo (cabeza, cuello, extremidades y torso) y luego sigue su movimiento a lo largo del plano. Roto ML ajusta automáticamente esas formas de roto, o formas aproximadas dibujadas a mano, a mates AI-generated, con la opción de fijar las correcciones con fotogramas clave. Un nuevo nodo compuesto, Matte ML, combina Mask ML, Matte Assist ML y Matte Refine ML en un único subgrafo listo para usar."
               },
               {
                 "t": "p",
-                "x": "Como guionista, calificó las herramientas de AI de “perfectamente legítimas e interesantes” para investigaciones sencillas, pero usarlas “para elaborar de verdad partes del proceso de escritura” es “una pendiente muy resbaladiza”. “Una vez que metes un pie en la puerta, se vuelve increíblemente difícil no usarla a cada paso”."
+                "x": "Para el trabajo de pintura, el nuevo nodo Video Inpaint ML genera automáticamente imágenes de reemplazo limpias en las zonas del fotograma definidas por un canal alfa de entrada. Utiliza el modelo de AI propio de Boris FX y se ejecuta localmente en segundo plano en el equipo del usuario."
               },
               {
                 "t": "p",
-                "x": "“The Unknown”, que se estrenó en la competición de Cannes, está protagonizada por Seydoux en el papel de una mujer cuyo amante de una noche, el fotógrafo David (Niels Schneider), despierta atrapado dentro de su cuerpo. Seydoux dijo antes a Variety: “Creo que nada puede reemplazar a la humanidad. No me siento amenazada”."
+                "x": "La actualización también añade nodos para generar vídeo a partir de prompts de texto, imágenes de referencia u otros vídeos mediante Runway. Las licencias perpetuas de la versión independiente cuestan $2,195; el plugin cuesta $1,195."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Harari 딥페이크로\nSeydoux 분신 촬영",
-          "body": "Harari는 AI를 경계하나 Léa Seydoux 키스 장면에 딥페이크를 썼다.",
-          "mini_headline": "Harari의 딥페이크 분신 장면",
+          "headline": "Silhouette\n2027, ML 로토 도입",
+          "body": "Silhouette 2027엔 Body ML·Video Inpaint ML이 있다.",
+          "mini_headline": "Silhouette 2027, ML 로토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "Toronto International Film Festival에 참석한 'The Unknown'의 Lea Seydoux, Arthur Harari, Niels Schneider, 2026년 9월 14일 (Gareth Cattermole/Getty Images for IMDb)"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "“The Unknown”의 감독 Arthur Harari는 AI가 “미끄러운 비탈길”이며 자기 작업에서는 피하고 싶다고 말한다. 그러면서도 그는 일요일 Marrakech Film Festival에서 Léa Seydoux가 주연한 몸 바뀜 심리극이자 Palme d’Or 경쟁작인 이 영화에 딥페이크 도구를 썼다고 인정했다."
+                "x": "Boris FX가 로토·페인트 소프트웨어의 최신 버전 Silhouette 2027을 출시했다. 이번 업데이트에는 로토 셰이프를 생성하고 다듬는 AI-based 신규 도구, 오브젝트 제거 속도를 높이는 Video Inpaint ML 노드, 새로운 3D 합성 및 카메라 프로젝션 기능이 담겼다."
               },
               {
                 "t": "p",
-                "x": "“개인적으로는 써 본 적이 없다. 지금으로서는 내 작업에 그것이 들어설 자리가 보이지 않는다.” Harari는 평론가 Charles Tesson과의 대담에서 이렇게 말했다. 잠시 뒤 그는 덧붙였다. “‘The Unknown’에는 Léa Seydoux가 Léa Seydoux에게 키스하는 장면이 있는데, 그걸 위해 딥페이크 도구를 써야 했다. 하지만 그 뒤에는 사람이 있었다. 언제나 사람이 관여했다. 말하자면 그것을 프로그래밍하고 통제하는 누군가가. 그러니 원칙적으로 반대하지는 않는다.”"
+                "x": "새 머신러닝 노드는 매트 생성과 전통적인 수작업 로토 사이의 간극을 메운다. Body ML은 머리, 목, 팔다리, 몸통 등 주요 신체 부위에 편집 가능한 대략적인 로토 셰이프를 만들고, 샷 전체에서 그 움직임을 추적한다. Roto ML은 이 로토 셰이프나 손으로 대강 그린 셰이프를 AI-generated 매트에 자동으로 맞추며, 수정 사항을 키프레임으로 지정할 수도 있다. 새 복합 노드 Matte ML은 Mask ML, Matte Assist ML, Matte Refine ML을 바로 쓸 수 있는 하나의 서브그래프로 묶었다."
               },
               {
                 "t": "p",
-                "x": "작가로서 그는 AI 도구가 간단한 자료 조사에는 “전적으로 정당하고 흥미롭다”고 했지만, “실제로 글쓰기 과정의 일부를 만드는 데” 쓰는 것은 “아주 미끄러운 비탈길”이라고 했다. “한번 발을 들이면 매번 쓰지 않기가 엄청나게 어려워진다.”"
+                "x": "페인트 작업에서는 새 Video Inpaint ML 노드가 입력 알파 채널로 지정한 프레임 영역에 깨끗한 대체 이미지를 자동으로 생성한다. Boris FX 자체 AI 모델을 쓰며, 사용자 컴퓨터에서 백그라운드로 로컬 실행된다."
               },
               {
                 "t": "p",
-                "x": "Cannes 경쟁 부문에서 처음 상영된 “The Unknown”에서 Seydoux는 하룻밤 상대였던 사진가 David(Niels Schneider)가 깨어나 보니 자기 몸에 갇혀 버린 여성을 연기한다. Seydoux는 앞서 Variety에 “그 무엇도 인간성을 대신할 수 없다고 생각한다. 위협을 느끼지 않는다”고 말했다."
+                "x": "업데이트에는 Runway를 이용해 텍스트 프롬프트, 참조 이미지, 다른 영상으로 영상을 생성하는 노드도 추가됐다. 스탠드얼론 영구 라이선스는 $2,195, 플러그인은 $1,195다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Harari、Seydoux\n分身にディープフェイク",
-          "body": "HarariはAIを警戒しつつ、ディープフェイクでSeydouxの自分とのキスを撮った。",
-          "mini_headline": "Harariのディープフェイク分身場面",
+          "headline": "Silhouette\n2027、MLロトと修復機能",
+          "body": "Silhouette 2027にBody MLとVideo Inpaint MLが加わった。",
+          "mini_headline": "Silhouette 2027にMLロト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "Toronto International Film Festivalに出席した『The Unknown』のLea Seydoux、Arthur Harari、Niels Schneider、2026年9月14日(Gareth Cattermole/Getty Images for IMDb)"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "「The Unknown」の監督Arthur Harariは、AIは「滑りやすい坂」であり、自身の作品では避けたいと語る。その一方で日曜日、Marrakech Film Festivalで、Léa Seydoux主演の入れ替わり心理劇でありPalme d’Or候補作となった同作でディープフェイクツールを使ったことを認めた。"
+                "x": "Boris FXは、ロト・ペイントソフトの最新版Silhouette 2027をリリースした。今回のアップデートでは、ロトシェイプを生成・調整するAI-basedの新ツール、オブジェクト除去を効率化するVideo Inpaint MLノード、新たな3Dコンポジットとカメラプロジェクション機能が加わった。"
               },
               {
                 "t": "p",
-                "x": "「個人的には使ったことがない。今のところ、自分の作品にそれが入り込む余地は見当たらない」。Harariは批評家Charles Tessonとの対談でこう語った。そして少し後にこう付け加えた。「『The Unknown』には、Léa SeydouxがLéa Seydouxにキスする場面がある。そのためにディープフェイクツールを使わざるを得なかった。だがその背後には人間がいた。常に人間が関わっていた。いわばそれをプログラムし、制御下に置く誰かだ。だから原則として反対ではない」"
+                "x": "新しい機械学習ノードは、マット生成と従来の手作業によるロトの橋渡しをする。Body MLは頭、首、手足、胴体といった主要な身体部位について編集可能な大まかなロトシェイプを生成し、ショット全体でその動きをトラッキングする。Roto MLは、それらのロトシェイプや手描きの大まかなシェイプをAI-generatedのマットに自動でフィットさせ、修正をキーフレーム化することもできる。新しい複合ノードMatte MLは、Mask ML、Matte Assist ML、Matte Refine MLを一つの既製サブグラフにまとめたものだ。"
               },
               {
                 "t": "p",
-                "x": "書き手としては、簡単なリサーチにAIツールを使うのは「まったく正当で興味深い」としたが、「実際に執筆過程の一部を作り上げる」ために使うのは「非常に滑りやすい坂」だと述べた。「一度足を踏み入れると、あらゆる場面で使わずにいるのが信じられないほど難しくなる」"
+                "x": "ペイント作業では、新しいVideo Inpaint MLノードが、入力アルファチャンネルで指定したフレーム内の領域に、クリーンな差し替え画像を自動生成する。Boris FX独自のAIモデルを使い、ユーザーのマシン上でバックグラウンドでローカル実行される。"
               },
               {
                 "t": "p",
-                "x": "Cannesのコンペティション部門で初上映された「The Unknown」で、Seydouxは一夜を共にした写真家David(Niels Schneider)が目覚めると自分の体の中に閉じ込められていた女性を演じる。Seydouxは以前Varietyに「人間性に代わるものは何もないと思う。脅威は感じていない」と語っていた。"
+                "x": "アップデートでは、Runwayを使ってテキストプロンプト、参照画像、他の動画から動画を生成するノードも追加された。スタンドアロン版の永続ライセンスは$2,195、プラグイン版は$1,195である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Harari用深度伪造\n拍Seydoux分身戏",
-          "body": "Harari称AI是危险的滑坡，却用深度伪造工具让Léa Seydoux亲吻自己。",
-          "mini_headline": "Harari的深度伪造分身戏",
+          "headline": "Silhouette\n2027新增ML转描与修复",
+          "body": "Silhouette 2027新增Body ML与Video Inpaint ML节点。",
+          "mini_headline": "Silhouette 2027加入ML转描",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "《The Unknown》的Lea Seydoux、Arthur Harari与Niels Schneider出席Toronto International Film Festival，2026年9月14日（Gareth Cattermole/Getty Images for IMDb）"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "《The Unknown》导演Arthur Harari表示，AI是一道“滑坡”，他宁愿在自己的创作中避开它——但他周日在Marrakech Film Festival上也承认，在这部由Léa Seydoux主演、讲述身体互换的心理剧、角逐Palme d’Or的作品中，他使用了深度伪造工具。"
+                "x": "Boris FX发布了旗下转描与绘制软件的最新版本Silhouette 2027。此次更新加入了用于生成和优化转描形状的AI-based新工具、可加快物体移除的Video Inpaint ML节点，以及新的3D合成与摄像机投影功能。"
               },
               {
                 "t": "p",
-                "x": "“就我个人而言，我从未用过它；至少目前，我看不到它在我的作品中有什么位置。”Harari在与影评人Charles Tesson对谈时说。片刻后他补充道：“《The Unknown》里有一场戏，Léa Seydoux亲吻Léa Seydoux，我们不得不用深度伪造工具来完成。但背后有人。始终有人参与——可以说，是有人在编程，并让它处于掌控之中。所以，原则上我并不反对。”"
+                "x": "新的机器学习节点弥合了遮罩生成与传统手工转描之间的差距。Body ML可为头部、颈部、四肢和躯干等主要身体部位生成可编辑的粗略转描形状，并在整个镜头中跟踪其运动。Roto ML会将这些转描形状或手绘的粗略形状自动贴合到AI-generated遮罩上，还可以对修正进行关键帧设置。新的复合节点Matte ML将Mask ML、Matte Assist ML和Matte Refine ML整合为一个现成的子图。"
               },
               {
                 "t": "p",
-                "x": "作为编剧，他认为将AI工具用于简单的资料查询“完全正当，也很有意思”，但用它们“真正去构建写作过程的一部分”则是“一道非常危险的滑坡”。“一旦迈出第一步，就会变得极难不在每个环节都使用它。”"
+                "x": "在绘制工作中，新的Video Inpaint ML节点会在输入Alpha通道所界定的画面区域内自动生成干净的替换图像。它使用Boris FX自有的AI模型，并在用户机器的后台本地运行。"
               },
               {
                 "t": "p",
-                "x": "《The Unknown》在Cannes主竞赛单元首映，Seydoux饰演一名女子，她的一夜情对象、摄影师David（Niels Schneider）醒来后发现自己被困在她的身体里。Seydoux此前对Variety表示：“我认为没有什么能取代人性。我并不感到受威胁。”"
+                "x": "此次更新还加入了借助Runway、通过文本提示、参考图像或其他视频生成视频的节点。独立版永久许可证售价$2,195，插件版售价$1,195。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Arthur Harari usó un deepfake\npara duplicar a Léa Seydoux",
-          "body": "Harari ve la AI como un riesgo, pero usó un deepfake para que Léa Seydoux se besara a sí misma en The Unknown.",
-          "mini_headline": "El doble deepfake de Harari",
+          "headline": "Silhouette 2027 añade\nroto e inpainting con ML",
+          "body": "Silhouette 2027 añade Body ML, que genera formas de roto editables, y el nodo Video Inpaint ML para eliminar objetos.",
+          "mini_headline": "Silhouette 2027 suma roto con ML",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg?w=1000&h=667&crop=1",
-                "cap": "Lea Seydoux, Arthur Harari y Niels Schneider, de 'The Unknown', en el Toronto International Film Festival, 14 de septiembre de 2026 (Gareth Cattermole/Getty Images for IMDb)"
+                "t": "video",
+                "yt": "T1APGmlnK4E"
               },
               {
                 "t": "p",
-                "x": "Arthur Harari, director de “The Unknown”, afirma que la AI es una “pendiente resbaladiza” que prefiere evitar en su propio trabajo, aunque el domingo, en el Marrakech Film Festival, admitió que usó una herramienta de deepfake en su película aspirante a la Palme d’Or, un drama psicológico de intercambio de cuerpos protagonizado por Léa Seydoux."
+                "x": "Boris FX ha lanzado Silhouette 2027, la versión más reciente de su software de rotoscopia y pintura. La actualización incorpora nuevas herramientas AI-based para generar y refinar formas de roto, un nodo Video Inpaint ML que agiliza la eliminación de objetos y nuevas funciones de composición 3D y proyección de cámara."
               },
               {
                 "t": "p",
-                "x": "“Personalmente, nunca la he usado; por ahora no veo lugar para ella en mi trabajo”, dijo Harari en una conversación con el crítico Charles Tesson. Momentos después añadió: “En un momento de ‘The Unknown’ hay una escena en la que Léa Seydoux besa a Léa Seydoux, y tuvimos que usar una herramienta de deepfake para hacerlo. Pero había un humano detrás. Siempre hubo un humano involucrado, alguien que la programa, por así decirlo, y la mantiene bajo control. Así que, en principio, no estoy en contra”."
+                "x": "Los nuevos nodos de aprendizaje automático cubren el espacio entre la generación de mates y el roto manual tradicional. Body ML genera formas de roto editables y aproximadas para las principales partes del cuerpo (cabeza, cuello, extremidades y torso) y luego sigue su movimiento a lo largo del plano. Roto ML ajusta automáticamente esas formas de roto, o formas aproximadas dibujadas a mano, a mates AI-generated, con la opción de fijar las correcciones con fotogramas clave. Un nuevo nodo compuesto, Matte ML, combina Mask ML, Matte Assist ML y Matte Refine ML en un único subgrafo listo para usar."
               },
               {
                 "t": "p",
-                "x": "Como guionista, calificó las herramientas de AI de “perfectamente legítimas e interesantes” para investigaciones sencillas, pero usarlas “para elaborar de verdad partes del proceso de escritura” es “una pendiente muy resbaladiza”. “Una vez que metes un pie en la puerta, se vuelve increíblemente difícil no usarla a cada paso”."
+                "x": "Para el trabajo de pintura, el nuevo nodo Video Inpaint ML genera automáticamente imágenes de reemplazo limpias en las zonas del fotograma definidas por un canal alfa de entrada. Utiliza el modelo de AI propio de Boris FX y se ejecuta localmente en segundo plano en el equipo del usuario."
               },
               {
                 "t": "p",
-                "x": "“The Unknown”, que se estrenó en la competición de Cannes, está protagonizada por Seydoux en el papel de una mujer cuyo amante de una noche, el fotógrafo David (Niels Schneider), despierta atrapado dentro de su cuerpo. Seydoux dijo antes a Variety: “Creo que nada puede reemplazar a la humanidad. No me siento amenazada”."
+                "x": "La actualización también añade nodos para generar vídeo a partir de prompts de texto, imágenes de referencia u otros vídeos mediante Runway. Las licencias perpetuas de la versión independiente cuestan $2,195; el plugin cuesta $1,195."
               }
             ]
           }
@@ -325,321 +315,321 @@
       }
     },
     {
-      "id": "bisff-ai-competition",
-      "source_lang": "ko",
+      "id": "gods-dont-give-gifts-oscar-ineligible",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "부산국제단편영화제\nAI경쟁 부문 신설",
-      "body": "부산국제단편영화제가 제44회 AI경쟁 부문 출품 공모를 11월 9일 시작했다.",
-      "mini_headline": "부산단편영화제 AI경쟁",
+      "headline": "아카데미, AI 영화\n애니 오스카 부적격",
+      "body": "아카데미가 Gossip Goblin의 AI-generated 장편을 후보에서 뺐다.",
+      "mini_headline": "AI 장편, 오스카 부적격",
       "tool": "Movies",
-      "source": "인디포커스",
-      "url": "http://www.indifocus.kr/84113",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "부산국제단편영화제(BISFF)가 2027년 4월 열리는 제44회 영화제의 인공지능(AI)경쟁 부문 출품 공모를 지난 11월 9일(월)부터 시작했다. AI경쟁은 제44회에서 처음 선보이는 경쟁 부문으로, 주제와 장르의 제한 없이 생성형 인공지능(AI)을 활용한 영화를 모집한다."
-          },
-          {
             "t": "img",
-            "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-            "cap": "제44회 부산국제단편영화제, 인공지능(AI)경쟁 부문 출품 공모 © 김중건"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+            "cap": "“Gods Don’t Give Gifts”"
           },
           {
             "t": "p",
-            "x": "접수는 2027년 1월 11일(월)까지 이어진다. 12월 6일(일)까지는 얼리버드 출품료 11유로(약 1만 7,000원), 이후 마감일까지는 일반 출품료 15유로(약 2만 3,000원)가 적용된다. 출품 대상은 2026년 1월 1일 이후 완성된 30분 미만(최대 29분 59초)의 단편영화로, 주요 창작 과정에 생성형 AI를 활용한 한국 프리미어 작품이어야 하며, AI 활용 사실과 사용 도구를 밝히고 제작 과정을 확인할 수 있는 자료를 함께 제출해야 한다."
+            "x": "YouTuber Gossip Goblin이 생성형 인공지능만으로 만든 개봉 예정작 “Gods Don’t Give Gifts”가 다가오는 아카데미 장편 애니메이션상 자격을 얻지 못했다. 11월 23일 월요일 발표된 자격 인정작 38편 명단에 이름이 없었다."
           },
           {
             "t": "p",
-            "x": "선정작은 2027년 3월 5일(금) 발표되며, 영화제는 4월 22일(목)부터 27일(화)까지 부산에서 열린다. 시상은 인공지능상과 Artefact MK2상 두 부문으로, 부문별로 상금 300만 원과 트로피가 수여된다. Artefact MK2상은 BISFF가 지난 10월 프랑스 아트팩트 AI 영화제(AAIFF)와 맺은 업무협약에 따라 마련됐으며, 두 영화제가 서로의 후보작을 교차 심사해 수상작을 가린다."
+            "x": "IndieWire 취재에 따르면 아카데미 애니메이션 부문 집행위원회는 이 작품이 제99회 시상식 규정의 애니메이션 영화 정의에 맞지 않는다고 봤다."
           },
           {
             "t": "p",
-            "x": "이상훈 BISFF 부위원장 겸 예술감독은 “우리가 보려는 것은 AI를 얼마나 썼느냐가 아니다. 창작자가 포착한 현실과 AI가 빚어낸 상상이 한 프레임 안에서 함께 숨 쉬는 순간에 비로소 영화가 태어난다”고 말했다."
+            "x": "Fable Studios의 프로듀서 Edward Saatchi는 자신과 감독 Zack London(a.k.a. Gossip Goblin)이 “Apollo 10 1/2”을 근거로 이의를 제기할 계획이라고 밝혔다. Saatchi는 “‘Best AI Movie’ 부문을 고려할 때일까? … AI는 그저 새로운 VFX일까? 업계 전체가 답을 찾기까지 시간이 걸릴 것”이라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "각본은 London이 썼고 목소리 연기는 실제 배우들이 맡았다. 제작에는 30-35명 규모의 팀이 참여했다. 12월 4일 극장 상영을 시작한다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "부산국제단편영화제\nAI경쟁 부문 신설",
-          "body": "부산국제단편영화제가 제44회 AI경쟁 부문 출품 공모를 11월 9일 시작했다.",
-          "mini_headline": "부산단편영화제 AI경쟁",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "부산국제단편영화제(BISFF)가 2027년 4월 열리는 제44회 영화제의 인공지능(AI)경쟁 부문 출품 공모를 지난 11월 9일(월)부터 시작했다. AI경쟁은 제44회에서 처음 선보이는 경쟁 부문으로, 주제와 장르의 제한 없이 생성형 인공지능(AI)을 활용한 영화를 모집한다."
-              },
-              {
-                "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "제44회 부산국제단편영화제, 인공지능(AI)경쟁 부문 출품 공모 © 김중건"
-              },
-              {
-                "t": "p",
-                "x": "접수는 2027년 1월 11일(월)까지 이어진다. 12월 6일(일)까지는 얼리버드 출품료 11유로(약 1만 7,000원), 이후 마감일까지는 일반 출품료 15유로(약 2만 3,000원)가 적용된다. 출품 대상은 2026년 1월 1일 이후 완성된 30분 미만(최대 29분 59초)의 단편영화로, 주요 창작 과정에 생성형 AI를 활용한 한국 프리미어 작품이어야 하며, AI 활용 사실과 사용 도구를 밝히고 제작 과정을 확인할 수 있는 자료를 함께 제출해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "선정작은 2027년 3월 5일(금) 발표되며, 영화제는 4월 22일(목)부터 27일(화)까지 부산에서 열린다. 시상은 인공지능상과 Artefact MK2상 두 부문으로, 부문별로 상금 300만 원과 트로피가 수여된다. Artefact MK2상은 BISFF가 지난 10월 프랑스 아트팩트 AI 영화제(AAIFF)와 맺은 업무협약에 따라 마련됐으며, 두 영화제가 서로의 후보작을 교차 심사해 수상작을 가린다."
-              },
-              {
-                "t": "p",
-                "x": "이상훈 BISFF 부위원장 겸 예술감독은 “우리가 보려는 것은 AI를 얼마나 썼느냐가 아니다. 창작자가 포착한 현실과 AI가 빚어낸 상상이 한 프레임 안에서 함께 숨 쉬는 순간에 비로소 영화가 태어난다”고 말했다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Busan Int’l Short Film Festival\nadds new AI competition",
-          "body": "The Busan International Short Film Festival opened entries for the AI competition of its 44th edition on November 9.",
-          "mini_headline": "Busan short film fest AI competition",
+          "headline": "Academy rules AI feature\nineligible for animated Oscar",
+          "body": "The Academy ruled Gossip Goblin's AI-generated feature 'Gods Don't Give Gifts' ineligible for Best Animated Feature.",
+          "mini_headline": "AI feature ruled Oscar-ineligible",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Busan International Short Film Festival (BISFF) opened entries on Monday, November 9, for the artificial intelligence (AI) competition of its 44th edition, to be held in April 2027. The AI competition is a new section debuting at the 44th edition, and it invites films made with generative artificial intelligence (AI), with no restrictions on theme or genre."
-              },
-              {
                 "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "44th Busan International Short Film Festival, call for entries to the artificial intelligence (AI) competition © Kim Jung-geon"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
               {
                 "t": "p",
-                "x": "Submissions run until Monday, January 11, 2027. An early-bird entry fee of 11 euros (about 1만 7,000원) applies until Sunday, December 6, and a regular fee of 15 euros (about 2만 3,000원) applies after that until the deadline. Eligible works are short films under 30 minutes (up to 29 minutes 59 seconds) completed on or after January 1, 2026. They must be Korean premieres that used generative AI in key parts of the creative process, and entrants must disclose their use of AI and the tools used and submit materials that document the production process."
+                "x": "“Gods Don’t Give Gifts,” an upcoming film from YouTuber Gossip Goblin that was made entirely with generated artificial intelligence, was deemed ineligible for the Best Animated Feature Oscar at the upcoming Academy Awards. It was not included among the list of 38 animated films deemed eligible, announced Monday, November 23."
               },
               {
                 "t": "p",
-                "x": "Selected films will be announced on Friday, March 5, 2027, and the festival runs in Busan from Thursday, April 22 to Tuesday, April 27. There are two awards, the Artificial Intelligence Award and the Artefact MK2 Award, each carrying 300만 원 in prize money and a trophy. The Artefact MK2 Award was created under a memorandum of understanding BISFF signed in October with France’s Artefact AI Film Festival (AAIFF), and the two festivals will cross-judge each other’s nominees to choose the winners."
+                "x": "IndieWire understands that the Academy’s Animation Branch Executive Committee determined the film did not meet the Academy’s definition of an animated film under the rules for the 99th Awards."
               },
               {
                 "t": "p",
-                "x": "Lee Sang-hoon, BISFF vice chairman and artistic director, said: “What we want to see is not how much AI was used. A film is only born at the moment when the reality a creator has captured and the imagination AI has shaped breathe together within a single frame.”"
+                "x": "Producer Edward Saatchi of Fable Studios said he and director Zack London (a.k.a. Gossip Goblin) plan to appeal, citing “Apollo 10 1/2.” “Is it time to consider a ‘Best AI Movie?’ … Is AI simply the new VFX? It’s going to take the whole industry time to figure it out,” Saatchi said."
+              },
+              {
+                "t": "p",
+                "x": "The film has a script written by London and real human actors doing the voice work, with a human team of 30-35 people. It begins its theatrical run on December 4."
               }
             ]
           }
         },
-        "es": {
-          "headline": "Festival de Cortos de Busan\ncrea una competición de AI",
-          "body": "El Festival de Cortos de Busan abrió el 9 de noviembre la convocatoria de la competición de AI de su 44.ª edición.",
-          "mini_headline": "Competición de AI en Busan",
+        "ko": {
+          "headline": "아카데미, AI 영화\n애니 오스카 부적격",
+          "body": "아카데미가 Gossip Goblin의 AI-generated 장편을 후보에서 뺐다.",
+          "mini_headline": "AI 장편, 오스카 부적격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El Festival Internacional de Cortometrajes de Busan (BISFF) abrió el lunes 9 de noviembre la convocatoria de la competición de inteligencia artificial (AI) de su 44.ª edición, que se celebrará en abril de 2027. La competición de AI es una sección nueva que se estrena en la 44.ª edición y admite películas realizadas con inteligencia artificial (AI) generativa, sin restricciones de tema ni de género."
-              },
-              {
                 "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "44.º Festival Internacional de Cortometrajes de Busan, convocatoria de la competición de inteligencia artificial (AI) © Kim Jung-geon"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
               {
                 "t": "p",
-                "x": "La inscripción estará abierta hasta el lunes 11 de enero de 2027. Hasta el domingo 6 de diciembre se aplica una tarifa anticipada de 11 euros (unos 1만 7,000원) y, después, hasta el cierre, una tarifa general de 15 euros (unos 2만 3,000원). Pueden participar cortometrajes de menos de 30 minutos (máximo 29 minutos y 59 segundos) terminados a partir del 1 de enero de 2026, que sean estrenos en Corea y hayan usado AI generativa en las fases principales de creación; además, hay que declarar el uso de AI y las herramientas empleadas, y presentar materiales que permitan verificar el proceso de producción."
+                "x": "YouTuber Gossip Goblin이 생성형 인공지능만으로 만든 개봉 예정작 “Gods Don’t Give Gifts”가 다가오는 아카데미 장편 애니메이션상 자격을 얻지 못했다. 11월 23일 월요일 발표된 자격 인정작 38편 명단에 이름이 없었다."
               },
               {
                 "t": "p",
-                "x": "Las obras seleccionadas se anunciarán el viernes 5 de marzo de 2027, y el festival se celebrará en Busan del jueves 22 al martes 27 de abril. Habrá dos premios, el Premio Inteligencia Artificial y el Premio Artefact MK2, cada uno dotado con 300만 원 y un trofeo. El Premio Artefact MK2 surge del acuerdo de colaboración que BISFF firmó en octubre con el Artefact AI Film Festival (AAIFF) de Francia, y ambos festivales evaluarán de forma cruzada las candidatas del otro para elegir a las ganadoras."
+                "x": "IndieWire 취재에 따르면 아카데미 애니메이션 부문 집행위원회는 이 작품이 제99회 시상식 규정의 애니메이션 영화 정의에 맞지 않는다고 봤다."
               },
               {
                 "t": "p",
-                "x": "Lee Sang-hoon, vicepresidente y director artístico de BISFF, afirmó: “Lo que queremos ver no es cuánta AI se usó. El cine nace solo en el momento en que la realidad captada por el creador y la imaginación moldeada por la AI respiran juntas dentro de un mismo encuadre”."
+                "x": "Fable Studios의 프로듀서 Edward Saatchi는 자신과 감독 Zack London(a.k.a. Gossip Goblin)이 “Apollo 10 1/2”을 근거로 이의를 제기할 계획이라고 밝혔다. Saatchi는 “‘Best AI Movie’ 부문을 고려할 때일까? … AI는 그저 새로운 VFX일까? 업계 전체가 답을 찾기까지 시간이 걸릴 것”이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "각본은 London이 썼고 목소리 연기는 실제 배우들이 맡았다. 제작에는 30-35명 규모의 팀이 참여했다. 12월 4일 극장 상영을 시작한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "釜山国際短編映画祭\nAI競争部門を新設",
-          "body": "釜山国際短編映画祭が第44回AI競争部門の作品公募を11月9日に始めた。",
-          "mini_headline": "釜山短編映画祭AI競争",
+          "headline": "アカデミー、AI長編を\n長編アニメ賞の対象外に",
+          "body": "アカデミーはGossip GoblinのAI-generated長編をアニメ賞対象外とした。",
+          "mini_headline": "AI長編、オスカー対象外に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "釜山国際短編映画祭（BISFF）は、2027年4月に開かれる第44回映画祭の人工知能（AI）競争部門の作品公募を11月9日（月）に開始した。AI競争は第44回で初めて設けられる競争部門で、テーマやジャンルを問わず、生成AIを活用した映画を募集する。"
-              },
-              {
                 "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "第44回釜山国際短編映画祭、人工知能（AI）競争部門の作品公募 © キム・ジュンゴン"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
               {
                 "t": "p",
-                "x": "受付は2027年1月11日（月）まで続く。12月6日（日）まではアーリーバード出品料€11（約17,000ウォン）、それ以降の締め切りまでは一般出品料€15（約23,000ウォン）が適用される。対象は2026年1月1日以降に完成した30分未満（最長29分59秒）の短編映画で、主要な創作過程に生成AIを用いた韓国プレミア作品でなければならず、AIの使用事実と使用ツールを明示し、制作過程を確認できる資料もあわせて提出する必要がある。"
+                "x": "YouTuberのGossip Goblinが生成AIのみで制作した公開予定作「Gods Don’t Give Gifts」は、次回アカデミー賞の長編アニメーション賞の対象外と判断された。11月23日（月）に発表された対象作品38本のリストには含まれなかった。"
               },
               {
                 "t": "p",
-                "x": "選出作品は2027年3月5日（金）に発表され、映画祭は4月22日（木）から27日（火）まで釜山で開かれる。賞は人工知能賞とArtefact MK2賞の二部門で、部門ごとに賞金300万ウォンとトロフィーが授与される。Artefact MK2賞は、BISFFが10月にフランスのアーテファクトAI映画祭（AAIFF）と結んだ業務協約に基づいて設けられたもので、両映画祭が互いの候補作を交差審査して受賞作を選ぶ。"
+                "x": "IndieWireの取材によれば、アカデミーのアニメーション部門執行委員会は、本作が第99回の規則におけるアカデミーのアニメーション映画の定義を満たさないと判断した。"
               },
               {
                 "t": "p",
-                "x": "BISFFの副委員長兼芸術監督であるイ・サンフンは「私たちが見ようとしているのは、AIをどれだけ使ったかではない。創作者がとらえた現実とAIが生み出した想像が一つのフレームの中で共に息づく瞬間に、ようやく映画が生まれる」と語った。"
+                "x": "Fable StudiosのプロデューサーEdward Saatchiは、監督のZack London（a.k.a. Gossip Goblin）とともに「Apollo 10 1/2」を例に挙げて異議を申し立てる予定だと述べた。Saatchiは「‘Best AI Movie’を検討すべき時なのか？ … AIは単に新しいVFXなのか？ 業界全体が答えを出すには時間がかかるだろう」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "本作はLondonが脚本を書き、実際の俳優が声を担当し、30-35人の人間のチームが携わった。12月4日に劇場公開が始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "釜山国际短片电影节\n新设AI竞赛单元",
-          "body": "釜山国际短片电影节于11月9日启动第44届AI竞赛单元作品征集。",
-          "mini_headline": "釜山短片电影节AI竞赛",
+          "headline": "学院裁定AI长片\n无缘奥斯卡最佳动画长片",
+          "body": "学院裁定Gossip Goblin的AI-generated长片不具最佳动画长片参评资格。",
+          "mini_headline": "AI长片无缘奥斯卡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "釜山国际短片电影节（BISFF）已于11月9日（周一）启动将于2027年4月举办的第44届电影节人工智能（AI）竞赛单元作品征集。AI竞赛是第44届首次设立的竞赛单元，不限主题与类型，征集运用生成式人工智能（AI）制作的电影。"
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
+              {
+                "t": "p",
+                "x": "YouTuber Gossip Goblin完全使用生成式人工智能制作的待映影片《Gods Don’t Give Gifts》，被认定不具备即将举行的奥斯卡金像奖最佳动画长片的参评资格。11月23日（周一）公布的38部合资格动画片名单中没有这部影片。"
+              },
+              {
+                "t": "p",
+                "x": "据IndieWire了解，学院动画分会执行委员会认定，该片不符合第99届奖项规则中学院对动画电影的定义。"
+              },
+              {
+                "t": "p",
+                "x": "Fable Studios制片人Edward Saatchi表示，他和导演Zack London（a.k.a. Gossip Goblin）计划援引《Apollo 10 1/2》提出申诉。Saatchi说：“是时候考虑设立‘Best AI Movie’了吗？……AI难道只是新的VFX？整个行业都需要时间来弄清楚。”"
+              },
+              {
+                "t": "p",
+                "x": "该片剧本由London撰写，由真人演员配音，背后是30-35人的真人团队。影片将于12月4日开始院线放映。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La Academia excluye un filme AI\ndel Oscar de animación",
+          "body": "La Academia declaró no elegible al Oscar de animación el filme AI-generated 'Gods Don't Give Gifts' de Gossip Goblin.",
+          "mini_headline": "Filme AI, fuera del Oscar",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "第44届釜山国际短片电影节人工智能（AI）竞赛单元作品征集 © 김중건"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
               {
                 "t": "p",
-                "x": "报名截至2027年1月11日（周一）。12月6日（周日）前适用早鸟报名费€11（约17,000韩元），此后至截止日适用常规报名费€15（约23,000韩元）。参赛作品须为2026年1月1日以后完成、片长不足30分钟（最长29分59秒）的短片，且须是在主要创作环节运用生成式AI的韩国首映作品；投稿时须说明AI使用情况及所用工具，并一并提交可核实制作过程的资料。"
+                "x": "“Gods Don’t Give Gifts”, una próxima película del YouTuber Gossip Goblin realizada íntegramente con inteligencia artificial generativa, fue declarada no elegible para el Oscar a Mejor Largometraje de Animación en la próxima edición de los premios de la Academia. No figuró en la lista de 38 películas de animación elegibles, anunciada el lunes 23 de noviembre."
               },
               {
                 "t": "p",
-                "x": "入围作品将于2027年3月5日（周五）公布，电影节于4月22日（周四）至27日（周二）在釜山举行。奖项分为人工智能奖与Artefact MK2奖两个类别，每个类别颁发奖金300万韩元及奖杯。Artefact MK2奖源于BISFF于10月与法国Artefact AI电影节（AAIFF）签署的合作协议，两个电影节将交叉评审彼此的候选作品，选出获奖作品。"
+                "x": "Según ha sabido IndieWire, el Comité Ejecutivo de la Rama de Animación de la Academia determinó que la película no cumplía la definición de película de animación de la Academia según las normas de la 99.ª edición de los premios."
               },
               {
                 "t": "p",
-                "x": "BISFF副委员长兼艺术总监이상훈表示：“我们想看的并不是用了多少AI。只有当创作者捕捉到的现实与AI塑造的想象在同一画面中共同呼吸的那一刻，电影才真正诞生。”"
+                "x": "El productor Edward Saatchi, de Fable Studios, dijo que él y el director Zack London (a.k.a. Gossip Goblin) planean apelar, citando “Apollo 10 1/2”. “¿Es hora de considerar un ‘Best AI Movie’? … ¿Es la AI simplemente el nuevo VFX? A toda la industria le llevará tiempo averiguarlo”, dijo Saatchi."
+              },
+              {
+                "t": "p",
+                "x": "La película tiene un guion escrito por London y actores humanos reales que ponen las voces, con un equipo humano de 30-35 personas. Su estreno en cines comienza el 4 de diciembre."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Busan Int’l Short Film Festival\nadds new AI competition",
-          "body": "The Busan International Short Film Festival opened entries for the AI competition of its 44th edition on November 9.",
-          "mini_headline": "Busan short film fest AI competition",
+        "ko": {
+          "headline": "아카데미, AI 영화\n애니 오스카 부적격",
+          "body": "아카데미가 Gossip Goblin의 AI-generated 장편을 제외했다.",
+          "mini_headline": "AI 장편, 오스카 부적격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Busan International Short Film Festival (BISFF) opened entries on Monday, November 9, for the artificial intelligence (AI) competition of its 44th edition, to be held in April 2027. The AI competition is a new section debuting at the 44th edition, and it invites films made with generative artificial intelligence (AI), with no restrictions on theme or genre."
-              },
-              {
                 "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "44th Busan International Short Film Festival, call for entries to the artificial intelligence (AI) competition © Kim Jung-geon"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
               {
                 "t": "p",
-                "x": "Submissions run until Monday, January 11, 2027. An early-bird entry fee of 11 euros (about 1만 7,000원) applies until Sunday, December 6, and a regular fee of 15 euros (about 2만 3,000원) applies after that until the deadline. Eligible works are short films under 30 minutes (up to 29 minutes 59 seconds) completed on or after January 1, 2026. They must be Korean premieres that used generative AI in key parts of the creative process, and entrants must disclose their use of AI and the tools used and submit materials that document the production process."
+                "x": "YouTuber Gossip Goblin이 생성형 인공지능만으로 만든 개봉 예정작 “Gods Don’t Give Gifts”가 다가오는 아카데미 시상식에서 장편 애니메이션상 자격을 얻지 못했다. 11월 23일 월요일 발표된 자격 인정 애니메이션 38편 명단에 이 작품은 없었다."
               },
               {
                 "t": "p",
-                "x": "Selected films will be announced on Friday, March 5, 2027, and the festival runs in Busan from Thursday, April 22 to Tuesday, April 27. There are two awards, the Artificial Intelligence Award and the Artefact MK2 Award, each carrying 300만 원 in prize money and a trophy. The Artefact MK2 Award was created under a memorandum of understanding BISFF signed in October with France’s Artefact AI Film Festival (AAIFF), and the two festivals will cross-judge each other’s nominees to choose the winners."
+                "x": "IndieWire가 파악한 바로는, 아카데미 애니메이션 부문 집행위원회가 이 작품이 제99회 시상식 규정상 아카데미의 애니메이션 영화 정의에 맞지 않는다고 판단했다."
               },
               {
                 "t": "p",
-                "x": "Lee Sang-hoon, BISFF vice chairman and artistic director, said: “What we want to see is not how much AI was used. A film is only born at the moment when the reality a creator has captured and the imagination AI has shaped breathe together within a single frame.”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Festival de Cortos de Busan\ncrea una competición de AI",
-          "body": "El Festival de Cortos de Busan abrió el 9 de noviembre la convocatoria de la competición de AI de su 44.ª edición.",
-          "mini_headline": "Competición de AI en Busan",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El Festival Internacional de Cortometrajes de Busan (BISFF) abrió el lunes 9 de noviembre la convocatoria de la competición de inteligencia artificial (AI) de su 44.ª edición, que se celebrará en abril de 2027. La competición de AI es una sección nueva que se estrena en la 44.ª edición y admite películas realizadas con inteligencia artificial (AI) generativa, sin restricciones de tema ni de género."
-              },
-              {
-                "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "44.º Festival Internacional de Cortometrajes de Busan, convocatoria de la competición de inteligencia artificial (AI) © Kim Jung-geon"
+                "x": "Fable Studios의 프로듀서 Edward Saatchi는 자신과 감독 Zack London(a.k.a. Gossip Goblin)이 “Apollo 10 1/2”을 근거로 이의를 제기할 계획이라고 밝혔다. Saatchi는 “‘Best AI Movie’ 부문을 고려할 때일까? … AI는 그저 새로운 VFX일까? 업계 전체가 답을 찾기까지 시간이 걸릴 것”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "La inscripción estará abierta hasta el lunes 11 de enero de 2027. Hasta el domingo 6 de diciembre se aplica una tarifa anticipada de 11 euros (unos 1만 7,000원) y, después, hasta el cierre, una tarifa general de 15 euros (unos 2만 3,000원). Pueden participar cortometrajes de menos de 30 minutos (máximo 29 minutos y 59 segundos) terminados a partir del 1 de enero de 2026, que sean estrenos en Corea y hayan usado AI generativa en las fases principales de creación; además, hay que declarar el uso de AI y las herramientas empleadas, y presentar materiales que permitan verificar el proceso de producción."
-              },
-              {
-                "t": "p",
-                "x": "Las obras seleccionadas se anunciarán el viernes 5 de marzo de 2027, y el festival se celebrará en Busan del jueves 22 al martes 27 de abril. Habrá dos premios, el Premio Inteligencia Artificial y el Premio Artefact MK2, cada uno dotado con 300만 원 y un trofeo. El Premio Artefact MK2 surge del acuerdo de colaboración que BISFF firmó en octubre con el Artefact AI Film Festival (AAIFF) de Francia, y ambos festivales evaluarán de forma cruzada las candidatas del otro para elegir a las ganadoras."
-              },
-              {
-                "t": "p",
-                "x": "Lee Sang-hoon, vicepresidente y director artístico de BISFF, afirmó: “Lo que queremos ver no es cuánta AI se usó. El cine nace solo en el momento en que la realidad captada por el creador y la imaginación moldeada por la AI respiran juntas dentro de un mismo encuadre”."
+                "x": "이 영화는 London이 쓴 각본으로, 실제 배우들이 목소리 연기를 맡았고 30-35명의 사람으로 이뤄진 팀이 참여했다. 12월 4일 극장 상영을 시작한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "釜山国際短編映画祭\nAI競争部門を新設",
-          "body": "釜山国際短編映画祭が第44回AI競争部門の作品公募を11月9日に始めた。",
-          "mini_headline": "釜山短編映画祭AI競争",
+          "headline": "アカデミー、AI長編を\n長編アニメ賞の対象外に",
+          "body": "アカデミーはGossip GoblinのAI-generated長編をアニメ賞対象外とした。",
+          "mini_headline": "AI長編、オスカー対象外に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "釜山国際短編映画祭（BISFF）は、2027年4月に開かれる第44回映画祭の人工知能（AI）競争部門の作品公募を11月9日（月）に開始した。AI競争は第44回で初めて設けられる競争部門で、テーマやジャンルを問わず、生成AIを活用した映画を募集する。"
-              },
-              {
                 "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "第44回釜山国際短編映画祭、人工知能（AI）競争部門の作品公募 © キム・ジュンゴン"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
               {
                 "t": "p",
-                "x": "受付は2027年1月11日（月）まで続く。12月6日（日）まではアーリーバード出品料€11（約17,000ウォン）、それ以降の締め切りまでは一般出品料€15（約23,000ウォン）が適用される。対象は2026年1月1日以降に完成した30分未満（最長29分59秒）の短編映画で、主要な創作過程に生成AIを用いた韓国プレミア作品でなければならず、AIの使用事実と使用ツールを明示し、制作過程を確認できる資料もあわせて提出する必要がある。"
+                "x": "YouTuberのGossip Goblinが生成AIのみで制作した公開予定作「Gods Don’t Give Gifts」は、次回アカデミー賞の長編アニメーション賞の対象外と判断された。11月23日（月）に発表された対象作品38本のリストには含まれなかった。"
               },
               {
                 "t": "p",
-                "x": "選出作品は2027年3月5日（金）に発表され、映画祭は4月22日（木）から27日（火）まで釜山で開かれる。賞は人工知能賞とArtefact MK2賞の二部門で、部門ごとに賞金300万ウォンとトロフィーが授与される。Artefact MK2賞は、BISFFが10月にフランスのアーテファクトAI映画祭（AAIFF）と結んだ業務協約に基づいて設けられたもので、両映画祭が互いの候補作を交差審査して受賞作を選ぶ。"
+                "x": "IndieWireの取材によれば、アカデミーのアニメーション部門執行委員会は、本作が第99回の規則におけるアカデミーのアニメーション映画の定義を満たさないと判断した。"
               },
               {
                 "t": "p",
-                "x": "BISFFの副委員長兼芸術監督であるイ・サンフンは「私たちが見ようとしているのは、AIをどれだけ使ったかではない。創作者がとらえた現実とAIが生み出した想像が一つのフレームの中で共に息づく瞬間に、ようやく映画が生まれる」と語った。"
+                "x": "Fable StudiosのプロデューサーEdward Saatchiは、監督のZack London（a.k.a. Gossip Goblin）とともに「Apollo 10 1/2」を例に挙げて異議を申し立てる予定だと述べた。Saatchiは「‘Best AI Movie’を検討すべき時なのか？ … AIは単に新しいVFXなのか？ 業界全体が答えを出すには時間がかかるだろう」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "本作はLondonが脚本を書き、実際の俳優が声を担当し、30-35人の人間のチームが携わった。12月4日に劇場公開が始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "釜山国际短片电影节\n新设AI竞赛单元",
-          "body": "釜山国际短片电影节于11月9日启动第44届AI竞赛单元作品征集。",
-          "mini_headline": "釜山短片电影节AI竞赛",
+          "headline": "学院裁定AI长片\n无缘奥斯卡最佳动画长片",
+          "body": "学院裁定Gossip Goblin的AI-generated长片不具最佳动画长片参评资格。",
+          "mini_headline": "AI长片无缘奥斯卡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "釜山国际短片电影节（BISFF）已于11月9日（周一）启动将于2027年4月举办的第44届电影节人工智能（AI）竞赛单元作品征集。AI竞赛是第44届首次设立的竞赛单元，不限主题与类型，征集运用生成式人工智能（AI）制作的电影。"
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
+              {
+                "t": "p",
+                "x": "YouTuber Gossip Goblin完全使用生成式人工智能制作的待映影片《Gods Don’t Give Gifts》，被认定不具备即将举行的奥斯卡金像奖最佳动画长片的参评资格。11月23日（周一）公布的38部合资格动画片名单中没有这部影片。"
+              },
+              {
+                "t": "p",
+                "x": "据IndieWire了解，学院动画分会执行委员会认定，该片不符合第99届奖项规则中学院对动画电影的定义。"
+              },
+              {
+                "t": "p",
+                "x": "Fable Studios制片人Edward Saatchi表示，他和导演Zack London（a.k.a. Gossip Goblin）计划援引《Apollo 10 1/2》提出申诉。Saatchi说：“是时候考虑设立‘Best AI Movie’了吗？……AI难道只是新的VFX？整个行业都需要时间来弄清楚。”"
+              },
+              {
+                "t": "p",
+                "x": "该片剧本由London撰写，由真人演员配音，背后是30-35人的真人团队。影片将于12月4日开始院线放映。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La Academia excluye un filme AI\ndel Oscar de animación",
+          "body": "La Academia declaró no elegible al Oscar de animación el filme AI-generated 'Gods Don't Give Gifts' de Gossip Goblin.",
+          "mini_headline": "Filme AI, fuera del Oscar",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://newsx.ecn.cdn.infralab.net/www.indifocus.kr/imgdata/jmbc_tv/202611/2026111755226312.jpg",
-                "cap": "第44届釜山国际短片电影节人工智能（AI）竞赛单元作品征集 © 김중건"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600&h=681&crop=1",
+                "cap": "“Gods Don’t Give Gifts”"
               },
               {
                 "t": "p",
-                "x": "报名截至2027年1月11日（周一）。12月6日（周日）前适用早鸟报名费€11（约17,000韩元），此后至截止日适用常规报名费€15（约23,000韩元）。参赛作品须为2026年1月1日以后完成、片长不足30分钟（最长29分59秒）的短片，且须是在主要创作环节运用生成式AI的韩国首映作品；投稿时须说明AI使用情况及所用工具，并一并提交可核实制作过程的资料。"
+                "x": "“Gods Don’t Give Gifts”, una próxima película del YouTuber Gossip Goblin realizada íntegramente con inteligencia artificial generativa, fue declarada no elegible para el Oscar a Mejor Largometraje de Animación en la próxima edición de los premios de la Academia. No figuró en la lista de 38 películas de animación elegibles, anunciada el lunes 23 de noviembre."
               },
               {
                 "t": "p",
-                "x": "入围作品将于2027年3月5日（周五）公布，电影节于4月22日（周四）至27日（周二）在釜山举行。奖项分为人工智能奖与Artefact MK2奖两个类别，每个类别颁发奖金300万韩元及奖杯。Artefact MK2奖源于BISFF于10月与法国Artefact AI电影节（AAIFF）签署的合作协议，两个电影节将交叉评审彼此的候选作品，选出获奖作品。"
+                "x": "Según ha sabido IndieWire, el Comité Ejecutivo de la Rama de Animación de la Academia determinó que la película no cumplía la definición de película de animación de la Academia según las normas de la 99.ª edición de los premios."
               },
               {
                 "t": "p",
-                "x": "BISFF副委员长兼艺术总监이상훈表示：“我们想看的并不是用了多少AI。只有当创作者捕捉到的现实与AI塑造的想象在同一画面中共同呼吸的那一刻，电影才真正诞生。”"
+                "x": "El productor Edward Saatchi, de Fable Studios, dijo que él y el director Zack London (a.k.a. Gossip Goblin) planean apelar, citando “Apollo 10 1/2”. “¿Es hora de considerar un ‘Best AI Movie’? … ¿Es la AI simplemente el nuevo VFX? A toda la industria le llevará tiempo averiguarlo”, dijo Saatchi."
+              },
+              {
+                "t": "p",
+                "x": "La película tiene un guion escrito por London y actores humanos reales que ponen las voces, con un equipo humano de 30-35 personas. Su estreno en cines comienza el 4 de diciembre."
               }
             ]
           }
@@ -647,165 +637,165 @@
       }
     },
     {
-      "id": "dubai-ai-film-award-2nd",
+      "id": "corridorkey2-live-demo",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Dubai AI 영화상\n두 번째 막 오른다",
-      "body": "상금 $1 million Dubai AI Film Award가 두 번째로 열린다.",
-      "mini_headline": "Dubai $1M AI 영화상 재개",
+      "headline": "CorridorKey\n2.0 AI 키어 시연",
+      "body": "Niko·Zach Harris가 AI 키어 CorridorKey 2.0을 뜯어봤다.",
+      "mini_headline": "CorridorKey 2.0 라이브 시연",
       "tool": "Movies",
-      "source": "WIRED Middle East",
-      "url": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
+      "source": "Corridor Crew",
+      "url": "https://www.youtube.com/watch?v=GOX594srvU4",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+            "t": "video",
+            "yt": "GOX594srvU4"
           },
           {
             "t": "p",
-            "x": "Dubai는 올해 11월 두 번째 AI Film Award 출품작을 받는다. 2027년 1월 열리는 1 Billion Followers Summit의 핵심 행사로, 길이 오 분에서 칠 분 사이의 영화 한 편이 총 $1 million을 가져간다. 올해는 TikTok, 그리고 ByteDance 계열 BytePlus와 손잡았다. 최종 영화의 70% 이상을 Seedance의 고급 AI 영상 생성 모드로 만들어야 하고, 실사 촬영 영상은 보조 자료로 조금만 쓸 수 있다."
+            "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY) — CorridorKey 2.0 제작기를 담은 라이브 데모·Q&A 다시 보기 영상이다."
           },
           {
             "t": "p",
-            "x": "2025년 9월 Google Gemini와 함께 시작한 첫 회에는 3,500편이 몰렸고, 튀니지 감독 Zoubeir ElJlassi가 Lily로 상을 받았다. 그는 “가장 큰 오해는 AI가 창작을 전부 해낸다는 생각”이라며 “스토리텔링, 연출, 미술 감독, 감정의 깊이, 예술적 선택은 근본적으로 인간의 몫으로 남는다”고 말한다."
+            "x": "Niko가 기반 모델을 직접 맞춤 제작한 개발자 Zach Harris를 특별 게스트로 불러 CorridorKey 2.0 제작 과정을 자세히 풀어놓는다."
           },
           {
             "t": "p",
-            "x": "Academy는 한때 생성형 AI가 영화의 Oscar 수상 가능성에 “도움도 해도 되지 않는다”고 밝혔지만, 이듬해에는 인간이 했다고 확인된 연기와 각본만 자격이 있다고 못 박았다. NYU Abu Dhabi 연구진은 Stable Diffusion이 중동 남성을 그릴 때 거의 모두 갈색 피부에 수염, 전통 의상 차림으로 일반화한다는 점을 밝혀냈다. AI 크리에이티브 프로듀서 Darryll Rapacon은 AI 영화가 “독자적인 부문을 형성할 수 있고, 그사이 도구는 VFX처럼 일상적인 제작의 일부가 될 것”이라고 내다본다."
+            "x": "NVIDIA와 Puget Systems가 이 영상을 후원했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Dubai’s $1 million AI film award\nreturns for a second edition",
-          "body": "Dubai’s $1 million AI Film Award returns for its second edition as the region starts taking an AI film prize seriously.",
-          "mini_headline": "Dubai’s $1M AI film award returns",
+          "headline": "Corridor demos AI keyer\nCorridorKey 2.0 live",
+          "body": "Niko and developer Zach Harris show how CorridorKey 2.0, an AI keying tool on a custom-trained model, was built.",
+          "mini_headline": "CorridorKey 2.0 live demo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "This November, Dubai welcomes entries for its second AI Film Award, the centrepiece of January 2027’s 1 Billion Followers Summit. One film of five to seven minutes will win a grand total of $1 million. This year the competition partners with TikTok and BytePlus, part of ByteDance: at least 70% of the final film must be generated with Seedance’s advanced AI video-generation mode, with live-action footage only allowed as a small supplement."
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY)."
               },
               {
                 "t": "p",
-                "x": "The first edition, launched in September 2025 with Google Gemini, drew 3,500 submissions and was won by Tunisian director Zoubeir ElJlassi for Lily. “The biggest misconception is that AI does all the creative work,” he says. “Storytelling, directing, art direction, emotional depth and artistic choices remain fundamentally human.”"
+                "x": "Niko breaks down how he built CorridorKey 2.0, with special guest, Zach Harris, the developer who custom built the underlying model."
               },
               {
                 "t": "p",
-                "x": "The Academy once said generative AI would “neither help nor harm” a film’s Oscar chances; a year later it ruled that only performances and screenplays verified as being human would qualify. Researchers at NYU Abu Dhabi found that Stable Diffusion generalised nearly all depictions of Middle Eastern men as brown-skinned, bearded and in traditional attire. AI creative producer Darryll Rapacon predicts AI films “could develop their own category, while the tools become part of everyday production, much like VFX.”"
+                "x": "This video is sponsored by NVIDIA and Puget Systems."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Dubai AI 영화상\n두 번째 막 오른다",
-          "body": "상금 $1 million Dubai AI Film Award가 두 번째로 열린다.",
-          "mini_headline": "Dubai $1M AI 영화상 재개",
+          "headline": "CorridorKey\n2.0 AI 키어 시연",
+          "body": "Niko·Zach Harris가 AI 키어 CorridorKey 2.0을 뜯어봤다.",
+          "mini_headline": "CorridorKey 2.0 라이브 시연",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "Dubai는 올해 11월 두 번째 AI Film Award 출품작을 받는다. 2027년 1월 열리는 1 Billion Followers Summit의 핵심 행사로, 길이 오 분에서 칠 분 사이의 영화 한 편이 총 $1 million을 가져간다. 올해는 TikTok, 그리고 ByteDance 계열 BytePlus와 손잡았다. 최종 영화의 70% 이상을 Seedance의 고급 AI 영상 생성 모드로 만들어야 하고, 실사 촬영 영상은 보조 자료로 조금만 쓸 수 있다."
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY) — CorridorKey 2.0 제작기를 담은 라이브 데모·Q&A 다시 보기 영상이다."
               },
               {
                 "t": "p",
-                "x": "2025년 9월 Google Gemini와 함께 시작한 첫 회에는 3,500편이 몰렸고, 튀니지 감독 Zoubeir ElJlassi가 Lily로 상을 받았다. 그는 “가장 큰 오해는 AI가 창작을 전부 해낸다는 생각”이라며 “스토리텔링, 연출, 미술 감독, 감정의 깊이, 예술적 선택은 근본적으로 인간의 몫으로 남는다”고 말한다."
+                "x": "Niko가 기반 모델을 직접 맞춤 제작한 개발자 Zach Harris를 특별 게스트로 불러 CorridorKey 2.0 제작 과정을 자세히 풀어놓는다."
               },
               {
                 "t": "p",
-                "x": "Academy는 한때 생성형 AI가 영화의 Oscar 수상 가능성에 “도움도 해도 되지 않는다”고 밝혔지만, 이듬해에는 인간이 했다고 확인된 연기와 각본만 자격이 있다고 못 박았다. NYU Abu Dhabi 연구진은 Stable Diffusion이 중동 남성을 그릴 때 거의 모두 갈색 피부에 수염, 전통 의상 차림으로 일반화한다는 점을 밝혀냈다. AI 크리에이티브 프로듀서 Darryll Rapacon은 AI 영화가 “독자적인 부문을 형성할 수 있고, 그사이 도구는 VFX처럼 일상적인 제작의 일부가 될 것”이라고 내다본다."
+                "x": "NVIDIA와 Puget Systems가 이 영상을 후원했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Dubai AI映画賞\n二度目の開催へ",
-          "body": "Dubaiの$1 million AI Film Awardが二度目の開催を迎える。",
-          "mini_headline": "Dubai $1M AI映画賞が再び",
+          "headline": "CorridorKey\n2.0のAIキーヤーを実演",
+          "body": "NikoとZach HarrisがAIキーヤーCorridorKey 2.0を解説した。",
+          "mini_headline": "CorridorKey 2.0ライブ実演",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "Dubaiは今年11月、二回目となるAI Film Awardの応募を受け付ける。同賞は2027年1月の1 Billion Followers Summitの目玉だ。五分から七分の作品一本が総額$1 millionを獲得する。今年はTikTok、そしてByteDance傘下のBytePlusと提携し、最終作品の70%以上をSeedanceの高度なAI動画生成モードで生成しなければならず、実写映像はわずかな補助としてのみ認められる。"
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY)——CorridorKey 2.0の制作秘話、ライブデモとQ&Aのアーカイブである。"
               },
               {
                 "t": "p",
-                "x": "2025年9月にGoogle Geminiと組んで始まった第一回には3,500本の応募があり、チュニジアのZoubeir ElJlassi監督が『Lily』で受賞した。「最大の誤解は、AIが創作の仕事をすべてこなすというものだ」と彼は言う。「ストーリーテリング、演出、美術監督、感情の深み、芸術的な選択は、根本的に人間のものであり続ける」"
+                "x": "Nikoが、基盤モデルを独自に構築した開発者Zach Harrisをスペシャルゲストに迎え、CorridorKey 2.0をどう作ったかを詳しく解説する。"
               },
               {
                 "t": "p",
-                "x": "Academyはかつて、生成AIは作品のOscar受賞の可能性を「助けも害しもしない」としていたが、その一年後、人間によるものと確認された演技と脚本だけが対象になると定めた。NYU Abu Dhabiの研究者は、Stable Diffusionが中東の男性の描写をほぼすべて、褐色の肌でひげを生やし伝統衣装を着た姿に一般化していることを突き止めた。AIクリエイティブプロデューサーのDarryll Rapaconは、AI映画は「独自の部門を築く可能性がある一方、ツールはVFXのように日常的な制作の一部になる」と予測する。"
+                "x": "この動画はNVIDIAとPuget Systemsの提供である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Dubai AI电影奖\n第二届再度开启",
-          "body": "Dubai奖金$1 million的AI Film Award迎来第二届。",
-          "mini_headline": "Dubai $1M AI电影奖回归",
+          "headline": "CorridorKey\n2.0 AI抠像直播演示",
+          "body": "Niko与Zach Harris讲解AI抠像工具CorridorKey 2.0的打造过程。",
+          "mini_headline": "CorridorKey 2.0直播演示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "今年11月，Dubai开始接受第二届AI Film Award的报名，该奖是将于2027年1月举行的1 Billion Followers Summit的重头戏。一部五至七分钟的影片将赢得总计$1 million。今年的比赛与TikTok以及ByteDance旗下的BytePlus合作：最终影片至少70%必须使用Seedance的高级AI视频生成模式生成，实拍素材只允许作为少量补充。"
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY)——CorridorKey 2.0打造揭秘：直播演示与Q&A回放。"
               },
               {
                 "t": "p",
-                "x": "首届于2025年9月与Google Gemini合作推出，共收到3,500部投稿，突尼斯导演Zoubeir ElJlassi凭借《Lily》获奖。“最大的误解是认为AI包揽了所有创作工作，”他说，“讲故事、导演、美术指导、情感深度和艺术选择，从根本上仍属于人类。”"
+                "x": "Niko邀请亲手定制底层模型的开发者Zach Harris作为特别嘉宾，详细讲解他如何打造CorridorKey 2.0。"
               },
               {
                 "t": "p",
-                "x": "Academy曾表示，生成式AI对影片的Oscar获奖机会“既无帮助也无损害”；一年后，它又规定只有经核实由人类完成的表演和剧本才符合资格。NYU Abu Dhabi的研究人员发现，Stable Diffusion几乎把所有中东男性形象都概括为棕色皮肤、留胡子、身着传统服饰。AI创意制片人Darryll Rapacon预测，AI电影“可能会形成自己的类别，而这些工具则会像VFX一样成为日常制作的一部分”。"
+                "x": "本视频由NVIDIA和Puget Systems赞助。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El premio de cine AI de Dubai\nvuelve con su segunda edición",
-          "body": "El AI Film Award de Dubai, dotado con $1 million, vuelve en su segunda edición mientras la región se lo toma en serio.",
-          "mini_headline": "Vuelve el premio AI de $1M de Dubai",
+          "headline": "Corridor muestra en vivo\nsu keyer AI CorridorKey 2.0",
+          "body": "Niko y el desarrollador Zach Harris explican cómo nació CorridorKey 2.0, herramienta de keying AI con un modelo propio.",
+          "mini_headline": "CorridorKey 2.0, demo en vivo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "Este noviembre, Dubai recibe inscripciones para su segundo AI Film Award, eje central del 1 Billion Followers Summit de enero de 2027. Una sola película de entre cinco y siete minutos ganará un total de $1 million. Este año, el certamen se asocia con TikTok y BytePlus, parte de ByteDance: al menos el 70% de la película final debe generarse con el modo avanzado de generación de video con AI de Seedance, y las imágenes de acción real solo se permiten como un pequeño complemento."
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY): cómo creamos CorridorKey 2.0, demo en vivo y Q&A (repetición)."
               },
               {
                 "t": "p",
-                "x": "La primera edición, lanzada en septiembre de 2025 con Google Gemini, recibió 3,500 propuestas y la ganó el director tunecino Zoubeir ElJlassi con Lily. “El mayor malentendido es que la AI hace todo el trabajo creativo”, dice. “La narración, la dirección, la dirección de arte, la profundidad emocional y las decisiones artísticas siguen siendo fundamentalmente humanas”."
+                "x": "Niko explica en detalle cómo creó CorridorKey 2.0, con un invitado especial, Zach Harris, el desarrollador que construyó a medida el modelo subyacente."
               },
               {
                 "t": "p",
-                "x": "La Academy dijo en su momento que la AI generativa “ni ayudaría ni perjudicaría” las posibilidades de una película en los Oscar; un año después, decidió que solo podrían competir las interpretaciones y los guiones verificados como humanos. Investigadores de NYU Abu Dhabi descubrieron que Stable Diffusion generalizaba casi todas las representaciones de hombres de Oriente Medio con piel morena, barba y vestimenta tradicional. El productor creativo de AI Darryll Rapacon prevé que las películas de AI “podrían desarrollar su propia categoría, mientras las herramientas pasan a formar parte de la producción cotidiana, como los VFX”."
+                "x": "Este vídeo está patrocinado por NVIDIA y Puget Systems."
               }
             ]
           }
@@ -813,105 +803,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Dubai AI 영화상\n두 번째로 다시 열린다",
-          "body": "Dubai의 $1 million AI Film Award가 두 번째로 돌아온다.",
-          "mini_headline": "Dubai $1M AI 영화상 재개",
+          "headline": "CorridorKey\n2.0 AI 키어 시연",
+          "body": "Niko·Zach Harris가 AI 키어 CorridorKey 2.0을 해부했다.",
+          "mini_headline": "CorridorKey 2.0 라이브 시연",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "Dubai는 올해 11월 두 번째 AI Film Award 출품작을 받는다. 이 상은 2027년 1월 열리는 1 Billion Followers Summit의 핵심 행사다. 길이 오 분에서 칠 분 사이의 영화 한 편이 총 $1 million을 받는다. 올해 대회는 TikTok, 그리고 ByteDance 계열 BytePlus와 손잡았다. 최종 영화의 70% 이상을 Seedance의 고급 AI 영상 생성 모드로 만들어야 하며, 실사 촬영 영상은 소량의 보조 자료로만 허용된다."
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY) — CorridorKey 2.0 제작기, 라이브 데모와 Q&A 다시 보기다."
               },
               {
                 "t": "p",
-                "x": "2025년 9월 Google Gemini와 함께 시작한 첫 회에는 3,500편이 출품됐고, 튀니지 감독 Zoubeir ElJlassi가 Lily로 수상했다. 그는 “가장 큰 오해는 AI가 창작을 전부 해낸다는 생각”이라며 “스토리텔링, 연출, 미술 감독, 감정의 깊이, 예술적 선택은 근본적으로 인간의 몫으로 남는다”고 말한다."
+                "x": "Niko가 기반 모델을 직접 맞춤 제작한 개발자 Zach Harris를 특별 게스트로 초대해 CorridorKey 2.0을 어떻게 만들었는지 자세히 설명한다."
               },
               {
                 "t": "p",
-                "x": "Academy는 한때 생성형 AI가 영화의 Oscar 수상 가능성에 “도움도 해도 되지 않는다”고 밝혔지만, 이듬해에는 인간이 한 것으로 확인된 연기와 각본만 자격이 있다고 규정했다. NYU Abu Dhabi 연구진은 Stable Diffusion이 중동 남성 묘사를 거의 모두 갈색 피부에 수염을 기르고 전통 의상을 입은 모습으로 일반화한다는 사실을 발견했다. AI 크리에이티브 프로듀서 Darryll Rapacon은 AI 영화가 “독자적인 부문을 형성할 수 있고, 그사이 도구는 VFX처럼 일상적인 제작의 일부가 될 것”이라고 내다본다."
+                "x": "이 영상은 NVIDIA와 Puget Systems가 후원했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Dubai AI映画賞\n二度目の開催へ",
-          "body": "Dubaiの$1 million AI Film Awardが二度目の開催を迎える。",
-          "mini_headline": "Dubai $1M AI映画賞が再び",
+          "headline": "CorridorKey\n2.0のAIキーヤーを実演",
+          "body": "NikoとZach HarrisがAIキーヤーCorridorKey 2.0を解説した。",
+          "mini_headline": "CorridorKey 2.0ライブ実演",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "Dubaiは今年11月、二回目となるAI Film Awardの応募を受け付ける。同賞は2027年1月の1 Billion Followers Summitの目玉だ。五分から七分の作品一本が総額$1 millionを獲得する。今年はTikTok、そしてByteDance傘下のBytePlusと提携し、最終作品の70%以上をSeedanceの高度なAI動画生成モードで生成しなければならず、実写映像はわずかな補助としてのみ認められる。"
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY)——CorridorKey 2.0の制作秘話、ライブデモとQ&Aのアーカイブである。"
               },
               {
                 "t": "p",
-                "x": "2025年9月にGoogle Geminiと組んで始まった第一回には3,500本の応募があり、チュニジアのZoubeir ElJlassi監督が『Lily』で受賞した。「最大の誤解は、AIが創作の仕事をすべてこなすというものだ」と彼は言う。「ストーリーテリング、演出、美術監督、感情の深み、芸術的な選択は、根本的に人間のものであり続ける」"
+                "x": "Nikoが、基盤モデルを独自に構築した開発者Zach Harrisをスペシャルゲストに迎え、CorridorKey 2.0をどう作ったかを詳しく解説する。"
               },
               {
                 "t": "p",
-                "x": "Academyはかつて、生成AIは作品のOscar受賞の可能性を「助けも害しもしない」としていたが、その一年後、人間によるものと確認された演技と脚本だけが対象になると定めた。NYU Abu Dhabiの研究者は、Stable Diffusionが中東の男性の描写をほぼすべて、褐色の肌でひげを生やし伝統衣装を着た姿に一般化していることを突き止めた。AIクリエイティブプロデューサーのDarryll Rapaconは、AI映画は「独自の部門を築く可能性がある一方、ツールはVFXのように日常的な制作の一部になる」と予測する。"
+                "x": "この動画はNVIDIAとPuget Systemsの提供である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Dubai AI电影奖\n第二届再度开启",
-          "body": "Dubai奖金$1 million的AI Film Award迎来第二届。",
-          "mini_headline": "Dubai $1M AI电影奖回归",
+          "headline": "CorridorKey\n2.0 AI抠像直播演示",
+          "body": "Niko与Zach Harris讲解AI抠像工具CorridorKey 2.0的打造过程。",
+          "mini_headline": "CorridorKey 2.0直播演示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "今年11月，Dubai开始接受第二届AI Film Award的报名，该奖是将于2027年1月举行的1 Billion Followers Summit的重头戏。一部五至七分钟的影片将赢得总计$1 million。今年的比赛与TikTok以及ByteDance旗下的BytePlus合作：最终影片至少70%必须使用Seedance的高级AI视频生成模式生成，实拍素材只允许作为少量补充。"
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY)——CorridorKey 2.0打造揭秘：直播演示与Q&A回放。"
               },
               {
                 "t": "p",
-                "x": "首届于2025年9月与Google Gemini合作推出，共收到3,500部投稿，突尼斯导演Zoubeir ElJlassi凭借《Lily》获奖。“最大的误解是认为AI包揽了所有创作工作，”他说，“讲故事、导演、美术指导、情感深度和艺术选择，从根本上仍属于人类。”"
+                "x": "Niko邀请亲手定制底层模型的开发者Zach Harris作为特别嘉宾，详细讲解他如何打造CorridorKey 2.0。"
               },
               {
                 "t": "p",
-                "x": "Academy曾表示，生成式AI对影片的Oscar获奖机会“既无帮助也无损害”；一年后，它又规定只有经核实由人类完成的表演和剧本才符合资格。NYU Abu Dhabi的研究人员发现，Stable Diffusion几乎把所有中东男性形象都概括为棕色皮肤、留胡子、身着传统服饰。AI创意制片人Darryll Rapacon预测，AI电影“可能会形成自己的类别，而这些工具则会像VFX一样成为日常制作的一部分”。"
+                "x": "本视频由NVIDIA和Puget Systems赞助。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El premio de cine AI de Dubai\nvuelve con su segunda edición",
-          "body": "El AI Film Award de Dubai, dotado con $1 million, vuelve en su segunda edición mientras la región se lo toma en serio.",
-          "mini_headline": "Vuelve el premio AI de $1M de Dubai",
+          "headline": "Corridor muestra en vivo\nsu keyer AI CorridorKey 2.0",
+          "body": "Niko y el desarrollador Zach Harris explican cómo nació CorridorKey 2.0, herramienta de keying AI con un modelo propio.",
+          "mini_headline": "CorridorKey 2.0, demo en vivo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.wired.me/photos/6afc325ba384c7ed501cff1d/16:9/w_2000,h_1125,c_limit/Cinema_lead.jpg"
+                "t": "video",
+                "yt": "GOX594srvU4"
               },
               {
                 "t": "p",
-                "x": "Este noviembre, Dubai recibe inscripciones para su segundo AI Film Award, eje central del 1 Billion Followers Summit de enero de 2027. Una sola película de entre cinco y siete minutos ganará un total de $1 million. Este año, el certamen se asocia con TikTok y BytePlus, parte de ByteDance: al menos el 70% de la película final debe generarse con el modo avanzado de generación de video con AI de Seedance, y las imágenes de acción real solo se permiten como un pequeño complemento."
+                "x": "How We Built CorridorKey 2.0 | Live Demo & Q&A (REPLAY): cómo creamos CorridorKey 2.0, demo en vivo y Q&A (repetición)."
               },
               {
                 "t": "p",
-                "x": "La primera edición, lanzada en septiembre de 2025 con Google Gemini, recibió 3,500 propuestas y la ganó el director tunecino Zoubeir ElJlassi con Lily. “El mayor malentendido es que la AI hace todo el trabajo creativo”, dice. “La narración, la dirección, la dirección de arte, la profundidad emocional y las decisiones artísticas siguen siendo fundamentalmente humanas”."
+                "x": "Niko explica en detalle cómo creó CorridorKey 2.0, con un invitado especial, Zach Harris, el desarrollador que construyó a medida el modelo subyacente."
               },
               {
                 "t": "p",
-                "x": "La Academy dijo en su momento que la AI generativa “ni ayudaría ni perjudicaría” las posibilidades de una película en los Oscar; un año después, decidió que solo podrían competir las interpretaciones y los guiones verificados como humanos. Investigadores de NYU Abu Dhabi descubrieron que Stable Diffusion generalizaba casi todas las representaciones de hombres de Oriente Medio con piel morena, barba y vestimenta tradicional. El productor creativo de AI Darryll Rapacon prevé que las películas de AI “podrían desarrollar su propia categoría, mientras las herramientas pasan a formar parte de la producción cotidiana, como los VFX”."
+                "x": "Este vídeo está patrocinado por NVIDIA y Puget Systems."
               }
             ]
           }
@@ -919,723 +909,733 @@
       }
     },
     {
-      "id": "siamsun-ai-shortdrama",
+      "id": "dwar-newhope-ai-rerelease",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "태국 포탈 엔터테인먼트\nAI 숏폼 드라마 앱 공개",
-      "body": "태국 포탈이 AI 숏폼 드라마 앱 SiamSun과 AI 배우 개발 계획을 공개했다.",
-      "mini_headline": "태국 AI 숏폼 드라마 앱",
+      "headline": "심형래 '디 워'\nAI 장면 더해 재개봉",
+      "body": "심형래가 AI로 액션 30분을 더한 '디 워'의 2027년 재개봉을 예고했다.",
+      "mini_headline": "AI 더한 '디 워' 재개봉",
       "tool": "Movies",
-      "source": "톱셀럽뉴스",
-      "url": "https://www.topcelev.co.kr/news/articleView.html?idxno=4219",
+      "source": "씨네플레이",
+      "url": "https://www.cineplay.co.kr/ko-kr/articles/30918",
       "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "V0qbfbg8EdE"
+          },
+          {
+            "t": "p",
+            "x": "심형래가 AI 영상 기술을 활용한 〈디 워〉의 리마스터링 재개봉을 예고했다."
+          },
+          {
+            "t": "p",
+            "x": "11월 23일, YTN은 〈디 워〉의 예고편을 최초로 공개했다. 〈디 워: NEW HOPE〉이라고 명명한 새로운 〈디 워〉는 심형래 감독과 힉스필드AI가 협력해 보완한 버전이다. 심형래 감독에 따르면 이번 작품은 약 30분 분량을 AI 기술로 보강해 19년 전 제작 당시 담지 못한 액션 장면이 추가된다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "심형래 감독은 이번 작품을 통해 “세계적인 기업들과 협업해 게임과 AI, 플랫폼까지 확장하고 팬들도 함께 참여할 수 있는 세계관을 만들고 싶다”는 포부를 드러내며 〈디 워〉를 IP화할 기대까지 걸었다."
+          },
+          {
+            "t": "p",
+            "x": "〈디 워: NEW HOPE〉는 2027년 국내와 북미를 비롯해 해외 극장까지 개봉을 추친할 예정이다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "심형래 '디 워'\nAI 장면 더해 재개봉",
+          "body": "심형래가 AI로 액션 30분을 더한 '디 워'의 2027년 재개봉을 예고했다.",
+          "mini_headline": "AI 더한 '디 워' 재개봉",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "심형래가 AI 영상 기술을 활용한 〈디 워〉의 리마스터링 재개봉을 예고했다."
+              },
+              {
+                "t": "p",
+                "x": "11월 23일, YTN은 〈디 워〉의 예고편을 최초로 공개했다. 〈디 워: NEW HOPE〉이라고 명명한 새로운 〈디 워〉는 심형래 감독과 힉스필드AI가 협력해 보완한 버전이다. 심형래 감독에 따르면 이번 작품은 약 30분 분량을 AI 기술로 보강해 19년 전 제작 당시 담지 못한 액션 장면이 추가된다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "심형래 감독은 이번 작품을 통해 “세계적인 기업들과 협업해 게임과 AI, 플랫폼까지 확장하고 팬들도 함께 참여할 수 있는 세계관을 만들고 싶다”는 포부를 드러내며 〈디 워〉를 IP화할 기대까지 걸었다."
+              },
+              {
+                "t": "p",
+                "x": "〈디 워: NEW HOPE〉는 2027년 국내와 북미를 비롯해 해외 극장까지 개봉을 추친할 예정이다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Shim Hyung-rae re-releases\n'D-War' with AI scenes",
+          "body": "Shim Hyung-rae announced a 2027 re-release of 'D-War' with 30 minutes of action added using AI.",
+          "mini_headline": "'D-War' returns with AI additions",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "Shim Hyung-rae has announced a remastered re-release of 'D-War' made with AI video technology."
+              },
+              {
+                "t": "p",
+                "x": "On November 23, YTN released the first trailer for 'D-War'. The new 'D-War', titled 'D-War: NEW HOPE', is a version reworked by director Shim Hyung-rae in collaboration with Higgsfield AI. According to Shim, about 30 minutes of footage has been reinforced with AI technology, adding action scenes that could not be included when the film was made 19 years ago."
+              },
+              {
+                "t": "p",
+                "x": "Through the project, Shim set out his ambition — “I want to work with global companies to expand into games, AI and platforms, and build a world that fans can take part in too” — and even voiced hopes of turning 'D-War' into an IP."
+              },
+              {
+                "t": "p",
+                "x": "'D-War: NEW HOPE' is set to pursue a theatrical release in 2027 in Korea, North America and other overseas markets."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "シム・ヒョンレ『D-War』\nAI場面を加え再公開",
+          "body": "シム・ヒョンレがAIでアクション30分を加えた『D-War』の2027年再公開を予告した。",
+          "mini_headline": "AIで補強『D-War』再公開",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "シム・ヒョンレが、AI映像技術を活用した『D-War』のリマスター再公開を予告した。"
+              },
+              {
+                "t": "p",
+                "x": "11月23日、YTNが『D-War』の予告編を初公開した。『D-War: NEW HOPE』と名付けられた新しい『D-War』は、シム・ヒョンレ監督とHiggsfield AIが協力して手を加えたバージョンだ。監督によれば、本作は約30分の分量をAI技術で補強し、19年前の制作当時に盛り込めなかったアクションシーンが加わるという。"
+              },
+              {
+                "t": "p",
+                "x": "シム監督は本作を通じて「世界的な企業と協業してゲームやAI、プラットフォームにまで広げ、ファンも一緒に参加できる世界観をつくりたい」と抱負を語り、『D-War』のIP化にまで期待を寄せた。"
+              },
+              {
+                "t": "p",
+                "x": "『D-War: NEW HOPE』は2027年、韓国国内と北米をはじめ、海外の劇場での公開を目指す予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "沈炯来《D-War》\n加入AI场景重映",
+          "body": "沈炯来宣布将以AI新增30分钟动作戏的《D-War》于2027年重映。",
+          "mini_headline": "加入AI的《D-War》重映",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "沈炯来宣布，将借助AI影像技术推出《D-War》重制版并重新上映。"
+              },
+              {
+                "t": "p",
+                "x": "11月23日，YTN首次公开了《D-War》的预告片。新版《D-War》定名为《D-War: NEW HOPE》，由沈炯来导演与Higgsfield AI合作完善。据沈炯来导演介绍，本片用AI技术补强了约30分钟的内容，加入了19年前拍摄时未能呈现的动作场面。"
+              },
+              {
+                "t": "p",
+                "x": "沈炯来导演表示，希望借此“与世界级企业合作，扩展到游戏、AI乃至平台，打造一个粉丝也能共同参与的世界观”，并寄望将《D-War》发展为IP。"
+              },
+              {
+                "t": "p",
+                "x": "《D-War: NEW HOPE》计划于2027年在韩国国内、北美及其他海外院线推动上映。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Shim Hyung-rae reestrena\n'D-War' con escenas de AI",
+          "body": "Shim Hyung-rae anunció para 2027 el reestreno de 'D-War' con 30 minutos de acción añadidos mediante AI.",
+          "mini_headline": "'D-War' vuelve con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "Shim Hyung-rae anunció el reestreno remasterizado de 'D-War' con tecnología de vídeo basada en AI."
+              },
+              {
+                "t": "p",
+                "x": "El 23 de noviembre, YTN publicó en exclusiva el primer tráiler de 'D-War'. La nueva 'D-War', titulada 'D-War: NEW HOPE', es una versión mejorada por el director Shim Hyung-rae en colaboración con Higgsfield AI. Según Shim, la obra refuerza con tecnología AI unos 30 minutos de metraje y añade escenas de acción que no pudieron incluirse cuando se rodó hace 19 años."
+              },
+              {
+                "t": "p",
+                "x": "Con este proyecto, Shim expresó su ambición: “Quiero colaborar con empresas de talla mundial para expandirme a los videojuegos, la AI y las plataformas, y crear un universo en el que también puedan participar los fans”, e incluso manifestó su esperanza de convertir 'D-War' en una IP."
+              },
+              {
+                "t": "p",
+                "x": "'D-War: NEW HOPE' prevé estrenarse en 2027 en Corea, Norteamérica y otros mercados internacionales."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Shim Hyung-rae re-releases\n'D-War' with AI scenes",
+          "body": "Shim Hyung-rae announced a 2027 re-release of 'D-War' with 30 minutes of action added using AI.",
+          "mini_headline": "'D-War' returns with AI additions",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "Shim Hyung-rae has announced a remastered re-release of 'D-War' made with AI video technology."
+              },
+              {
+                "t": "p",
+                "x": "On November 23, YTN released the first trailer for 'D-War'. The new 'D-War', titled 'D-War: NEW HOPE', is a version reworked by director Shim Hyung-rae in collaboration with Higgsfield AI. According to Shim, about 30 minutes of footage has been reinforced with AI technology, adding action scenes that could not be included when the film was made 19 years ago."
+              },
+              {
+                "t": "p",
+                "x": "Through the project, Shim set out his ambition — “I want to work with global companies to expand into games, AI and platforms, and build a world that fans can take part in too” — and even voiced hopes of turning 'D-War' into an IP."
+              },
+              {
+                "t": "p",
+                "x": "'D-War: NEW HOPE' is set to pursue a theatrical release in 2027 in Korea, North America and other overseas markets."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "シム・ヒョンレ『D-War』\nAI場面を加え再公開",
+          "body": "シム・ヒョンレがAIでアクション30分を加えた『D-War』の2027年再公開を予告した。",
+          "mini_headline": "AIで補強『D-War』再公開",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "シム・ヒョンレが、AI映像技術を活用した『D-War』のリマスター再公開を予告した。"
+              },
+              {
+                "t": "p",
+                "x": "11月23日、YTNが『D-War』の予告編を初公開した。『D-War: NEW HOPE』と名付けられた新しい『D-War』は、シム・ヒョンレ監督とHiggsfield AIが協力して手を加えたバージョンだ。監督によれば、本作は約30分の分量をAI技術で補強し、19年前の制作当時に盛り込めなかったアクションシーンが加わるという。"
+              },
+              {
+                "t": "p",
+                "x": "シム監督は本作を通じて「世界的な企業と協業してゲームやAI、プラットフォームにまで広げ、ファンも一緒に参加できる世界観をつくりたい」と抱負を語り、『D-War』のIP化にまで期待を寄せた。"
+              },
+              {
+                "t": "p",
+                "x": "『D-War: NEW HOPE』は2027年、韓国国内と北米をはじめ、海外の劇場での公開を目指す予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "沈炯来《D-War》\n加入AI场景重映",
+          "body": "沈炯来宣布将以AI新增30分钟动作戏的《D-War》于2027年重映。",
+          "mini_headline": "加入AI的《D-War》重映",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "沈炯来宣布，将借助AI影像技术推出《D-War》重制版并重新上映。"
+              },
+              {
+                "t": "p",
+                "x": "11月23日，YTN首次公开了《D-War》的预告片。新版《D-War》定名为《D-War: NEW HOPE》，由沈炯来导演与Higgsfield AI合作完善。据沈炯来导演介绍，本片用AI技术补强了约30分钟的内容，加入了19年前拍摄时未能呈现的动作场面。"
+              },
+              {
+                "t": "p",
+                "x": "沈炯来导演表示，希望借此“与世界级企业合作，扩展到游戏、AI乃至平台，打造一个粉丝也能共同参与的世界观”，并寄望将《D-War》发展为IP。"
+              },
+              {
+                "t": "p",
+                "x": "《D-War: NEW HOPE》计划于2027年在韩国国内、北美及其他海外院线推动上映。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Shim Hyung-rae reestrena\n'D-War' con escenas de AI",
+          "body": "Shim Hyung-rae anunció para 2027 el reestreno de 'D-War' con 30 minutos de acción añadidos mediante AI.",
+          "mini_headline": "'D-War' vuelve con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "V0qbfbg8EdE"
+              },
+              {
+                "t": "p",
+                "x": "Shim Hyung-rae anunció el reestreno remasterizado de 'D-War' con tecnología de vídeo basada en AI."
+              },
+              {
+                "t": "p",
+                "x": "El 23 de noviembre, YTN publicó en exclusiva el primer tráiler de 'D-War'. La nueva 'D-War', titulada 'D-War: NEW HOPE', es una versión mejorada por el director Shim Hyung-rae en colaboración con Higgsfield AI. Según Shim, la obra refuerza con tecnología AI unos 30 minutos de metraje y añade escenas de acción que no pudieron incluirse cuando se rodó hace 19 años."
+              },
+              {
+                "t": "p",
+                "x": "Con este proyecto, Shim expresó su ambición: “Quiero colaborar con empresas de talla mundial para expandirme a los videojuegos, la AI y las plataformas, y crear un universo en el que también puedan participar los fans”, e incluso manifestó su esperanza de convertir 'D-War' en una IP."
+              },
+              {
+                "t": "p",
+                "x": "'D-War: NEW HOPE' prevé estrenarse en 2027 en Corea, Norteamérica y otros mercados internacionales."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "bhandal-solo-genai-feature",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Perry Bhandal\n생성 AI 장편 홀로 제작",
+      "body": "Perry Bhandal이 혼자 만든 gen-AI 장편과 18일 촬영작을 견줬다.",
+      "mini_headline": "gen-AI 장편 홀로 만들기",
+      "tool": "Movies",
+      "source": "Broadcast",
+      "url": "https://www.broadcastnow.co.uk/industry-opinions/ai-filmmaking-how-director-perry-bhandal-works-solo-using-gen-ai-tools/5222709.article",
+      "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-            "cap": "출처 : ChatGPT 생성 이미지"
+            "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+            "cap": "Lethe"
           },
           {
             "t": "p",
-            "x": "세로형 숏폼 드라마 시장이 커지면서 제작에 생성형 AI를 투입하는 사업자가 아시아 각국에서 늘고 있다. 세계 세로형 드라마 시장은 2025년 3700억 바트(약 14조 6000억 원)에서 2030년 7400억 바트(약 29조 2000억 원)로 커질 전망이다."
+            "x": "삼 년 전, 훗날 장편 〈Okay, It’s Time To Go〉가 될 작품의 첫 막을 찍으려고 여섯 자리 예산을 마련해야 하나 고민하다가 새로운 제작 수단처럼 보이는 것을 우연히 만났다. 이전 장편 〈Interview with a Hitman〉과 〈The Last Boy〉는 전통 방식으로 만들었고, 둘 다 단 18일 만에 촬영을 마쳤다."
           },
-          {
-            "t": "p",
-            "x": "태국 AI 엔터테인먼트 스타트업 포탈 엔터테인먼트(Fortal Entertainment)는 11월 4일 방콕에서 연 출범 행사 ‘Fortal Opening Day’에서 Fortal Studio, SiamSun, Siam Narukal 등 세 가지 사업을 선보였다. Fortal Studio는 창작자의 구상을 이미지·캐릭터·배경·영상·음성으로 생성하되 방향 설정과 품질 관리는 사람이 맡는 AI 제작 플랫폼이고, SiamSun은 태국 작가의 소설 판권을 사들여 AI의 도움으로 영상화한 세로형 시리즈 감상 앱이다."
-          },
-          {
-            "t": "p",
-            "x": "실제 배우의 얼굴을 활용한 AI 배우 개발 계획도 나왔다. 배우 핏 통쯔아와 가수 겸 배우 잭 블랙잭이 초상권을 제공한다. 바이트댄스 계열 바이트플러스(BytePlus)는 포탈 엔터테인먼트를 태국 공식 파트너로 지정했다."
-          },
-          {
-            "t": "p",
-            "x": "2026년 1분기 중국에서 새로 나온 숏폼 드라마는 12만 8000편이며 이 가운데 95% 이상이 AI로 제작됐다. 초상권 허락을 전제로 한 AI 배우 모델이 실제 작품과 수익 배분으로 이어지는지가 태국 사례의 관전 지점이다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "태국 포탈 엔터테인먼트\nAI 숏폼 드라마 앱 공개",
-          "body": "태국 포탈이 AI 숏폼 드라마 앱 SiamSun과 AI 배우 개발 계획을 공개했다.",
-          "mini_headline": "태국 AI 숏폼 드라마 앱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "출처 : ChatGPT 생성 이미지"
-              },
-              {
-                "t": "p",
-                "x": "세로형 숏폼 드라마 시장이 커지면서 제작에 생성형 AI를 투입하는 사업자가 아시아 각국에서 늘고 있다. 세계 세로형 드라마 시장은 2025년 3700억 바트(약 14조 6000억 원)에서 2030년 7400억 바트(약 29조 2000억 원)로 커질 전망이다."
-              },
-              {
-                "t": "p",
-                "x": "태국 AI 엔터테인먼트 스타트업 포탈 엔터테인먼트(Fortal Entertainment)는 11월 4일 방콕에서 연 출범 행사 ‘Fortal Opening Day’에서 Fortal Studio, SiamSun, Siam Narukal 등 세 가지 사업을 선보였다. Fortal Studio는 창작자의 구상을 이미지·캐릭터·배경·영상·음성으로 생성하되 방향 설정과 품질 관리는 사람이 맡는 AI 제작 플랫폼이고, SiamSun은 태국 작가의 소설 판권을 사들여 AI의 도움으로 영상화한 세로형 시리즈 감상 앱이다."
-              },
-              {
-                "t": "p",
-                "x": "실제 배우의 얼굴을 활용한 AI 배우 개발 계획도 나왔다. 배우 핏 통쯔아와 가수 겸 배우 잭 블랙잭이 초상권을 제공한다. 바이트댄스 계열 바이트플러스(BytePlus)는 포탈 엔터테인먼트를 태국 공식 파트너로 지정했다."
-              },
-              {
-                "t": "p",
-                "x": "2026년 1분기 중국에서 새로 나온 숏폼 드라마는 12만 8000편이며 이 가운데 95% 이상이 AI로 제작됐다. 초상권 허락을 전제로 한 AI 배우 모델이 실제 작품과 수익 배분으로 이어지는지가 태국 사례의 관전 지점이다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Thailand’s Fortal Entertainment\nunveils AI short-drama app",
-          "body": "Thailand’s Fortal unveiled SiamSun, an AI short-form drama app, along with plans to develop AI actors.",
-          "mini_headline": "Thai AI short-form drama app",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "Source: image generated by ChatGPT"
-              },
-              {
-                "t": "p",
-                "x": "As the vertical short-form drama market grows, more companies across Asia are putting generative AI into production. The global vertical drama market is expected to grow from 3700억 baht (about 14조 6000억 won) in 2025 to 7400억 baht (about 29조 2000억 won) in 2030."
-              },
-              {
-                "t": "p",
-                "x": "Thai AI entertainment startup Fortal Entertainment presented three businesses, Fortal Studio, SiamSun and Siam Narukal, at its launch event ‘Fortal Opening Day’ in Bangkok on November 4. Fortal Studio is an AI production platform that turns a creator’s ideas into images, characters, backgrounds, video and voice while people handle direction and quality control, and SiamSun is an app for watching vertical series adapted into video with the help of AI from novels whose rights were bought from Thai writers."
-              },
-              {
-                "t": "p",
-                "x": "Plans to develop AI actors using the faces of real actors were also announced. Actor Pit Tongchua and singer-actor Jack Blackjack are providing their likeness rights. BytePlus, a ByteDance affiliate, named Fortal Entertainment its official partner in Thailand."
-              },
-              {
-                "t": "p",
-                "x": "In Q1 2026, 12만 8000 new short-form dramas were released in China, and more than 95% of them were made with AI. The point to watch in the Thai case is whether an AI actor model built on consent to likeness rights leads to actual productions and revenue sharing."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "タイのFortal\nAI縦型ドラマアプリ公開",
-          "body": "タイのFortalがAIショートドラマアプリSiamSunとAI俳優の開発計画を公開した。",
-          "mini_headline": "タイのAIショートドラマアプリ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "出典:ChatGPT生成画像"
-              },
-              {
-                "t": "p",
-                "x": "縦型ショートドラマ市場の拡大に伴い、制作に生成AIを投入する事業者がアジア各国で増えている。世界の縦型ドラマ市場は2025年の3700億バーツ(約14兆6000億ウォン)から2030年には7400億バーツ(約29兆2000億ウォン)に拡大する見通しだ。"
-              },
-              {
-                "t": "p",
-                "x": "タイのAIエンターテインメントスタートアップ、Fortal Entertainmentは11月4日にバンコクで開いた発足イベント「Fortal Opening Day」で、Fortal Studio、SiamSun、Siam Narukalの三つの事業を披露した。Fortal Studioはクリエイターの構想を画像・キャラクター・背景・映像・音声として生成しつつ、方向づけと品質管理は人間が担うAI制作プラットフォームで、SiamSunはタイの作家の小説の版権を買い取り、AIの助けを借りて映像化した縦型シリーズの視聴アプリだ。"
-              },
-              {
-                "t": "p",
-                "x": "実在の俳優の顔を活用したAI俳優の開発計画も示された。俳優のピット・トンチュアと歌手兼俳優のジャック・ブラックジャックが肖像権を提供する。ByteDance系のBytePlusはFortal Entertainmentをタイの公式パートナーに指定した。"
-              },
-              {
-                "t": "p",
-                "x": "2026年第1四半期に中国で新たに登場したショートドラマは12万8000本で、その95%以上がAIで制作された。肖像権の許諾を前提としたAI俳優モデルが実際の作品と収益分配につながるかどうかが、タイの事例の注目点だ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La tailandesa Fortal presenta\nuna app de microdramas con AI",
-          "body": "La tailandesa Fortal presentó SiamSun, una app de dramas cortos con AI, y un plan para desarrollar actores de AI.",
-          "mini_headline": "App tailandesa de dramas cortos con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "Fuente: imagen generada con ChatGPT"
-              },
-              {
-                "t": "p",
-                "x": "A medida que crece el mercado de dramas cortos en formato vertical, aumentan en toda Asia las empresas que incorporan AI generativa a la producción. Se prevé que el mercado mundial de dramas verticales pase de 3700억 bahts (unos 14조 6000억 wones) en 2025 a 7400억 bahts (unos 29조 2000억 wones) en 2030."
-              },
-              {
-                "t": "p",
-                "x": "La startup tailandesa de entretenimiento con AI Fortal Entertainment presentó tres negocios, Fortal Studio, SiamSun y Siam Narukal, en su evento de lanzamiento ‘Fortal Opening Day’, celebrado en Bangkok el 4 de noviembre. Fortal Studio es una plataforma de producción con AI que convierte las ideas de los creadores en imágenes, personajes, fondos, video y voz, mientras que la dirección y el control de calidad quedan en manos de personas; SiamSun es una app para ver series verticales adaptadas con ayuda de AI a partir de novelas cuyos derechos se compraron a autores tailandeses."
-              },
-              {
-                "t": "p",
-                "x": "También se anunció un plan para desarrollar actores de AI a partir de los rostros de actores reales. El actor Pit Tongchua y el cantante y actor Jack Blackjack ceden sus derechos de imagen. BytePlus, filial de ByteDance, designó a Fortal Entertainment como su socio oficial en Tailandia."
-              },
-              {
-                "t": "p",
-                "x": "En el primer trimestre (Q1) de 2026 se estrenaron en China 12만 8000 nuevos dramas cortos, y más del 95% se produjo con AI. Lo que habrá que observar en el caso tailandés es si el modelo de actores de AI basado en el consentimiento de los derechos de imagen se traduce en obras reales y en reparto de ingresos."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "泰国Fortal娱乐公司\n推出AI短剧应用",
-          "body": "泰国Fortal公布AI短剧应用SiamSun及AI演员开发计划。",
-          "mini_headline": "泰国AI短剧应用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "来源：ChatGPT生成图像"
-              },
-              {
-                "t": "p",
-                "x": "随着竖屏短剧市场扩大，亚洲各国在制作中投入生成式AI的企业日益增多。全球竖屏短剧市场预计将从2025年的3700亿泰铢（约146000亿韩元）增长至2030年的7400亿泰铢（约292000亿韩元）。"
-              },
-              {
-                "t": "p",
-                "x": "泰国AI娱乐初创公司Fortal Entertainment于11月4日在曼谷举办的启动活动‘Fortal Opening Day’上推出了Fortal Studio、SiamSun、Siam Narukal三项业务。Fortal Studio是一个AI制作平台，可将创作者的构想生成为图像·角色·背景·视频·语音，方向设定与质量把控则由人负责；SiamSun则是一款竖屏剧集观看应用，购入泰国作家的小说版权，借助AI将其影像化。"
-              },
-              {
-                "t": "p",
-                "x": "利用真实演员面孔开发AI演员的计划也随之公布。演员皮特·通茨阿与歌手兼演员杰克·布莱克杰克将提供肖像权。字节跳动旗下的BytePlus已将Fortal Entertainment指定为其泰国官方合作伙伴。"
-              },
-              {
-                "t": "p",
-                "x": "2026年第1季度，中国新上线的短剧达128000部，其中95%以上由AI制作。以获得肖像权授权为前提的AI演员模式能否转化为实际作品与收益分成，是泰国案例的看点所在。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Thailand’s Fortal Entertainment\nunveils AI short-drama app",
-          "body": "Thailand’s Fortal unveiled SiamSun, an AI short-form drama app, along with plans to develop AI actors.",
-          "mini_headline": "Thai AI short-form drama app",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "Source: image generated by ChatGPT"
-              },
-              {
-                "t": "p",
-                "x": "As the vertical short-form drama market grows, more companies across Asia are putting generative AI into production. The global vertical drama market is expected to grow from 3700억 baht (about 14조 6000억 won) in 2025 to 7400억 baht (about 29조 2000억 won) in 2030."
-              },
-              {
-                "t": "p",
-                "x": "Thai AI entertainment startup Fortal Entertainment presented three businesses, Fortal Studio, SiamSun and Siam Narukal, at its launch event ‘Fortal Opening Day’ in Bangkok on November 4. Fortal Studio is an AI production platform that turns a creator’s ideas into images, characters, backgrounds, video and voice while people handle direction and quality control, and SiamSun is an app for watching vertical series adapted into video with the help of AI from novels whose rights were bought from Thai writers."
-              },
-              {
-                "t": "p",
-                "x": "Plans to develop AI actors using the faces of real actors were also announced. Actor Pit Tongchua and singer-actor Jack Blackjack are providing their likeness rights. BytePlus, a ByteDance affiliate, named Fortal Entertainment its official partner in Thailand."
-              },
-              {
-                "t": "p",
-                "x": "In Q1 2026, 12만 8000 new short-form dramas were released in China, and more than 95% of them were made with AI. The point to watch in the Thai case is whether an AI actor model built on consent to likeness rights leads to actual productions and revenue sharing."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "タイのFortal\nAI縦型ドラマアプリ公開",
-          "body": "タイのFortalがAIショートドラマアプリSiamSunとAI俳優の開発計画を公開した。",
-          "mini_headline": "タイのAIショートドラマアプリ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "出典:ChatGPT生成画像"
-              },
-              {
-                "t": "p",
-                "x": "縦型ショートドラマ市場の拡大に伴い、制作に生成AIを投入する事業者がアジア各国で増えている。世界の縦型ドラマ市場は2025年の3700億バーツ(約14兆6000億ウォン)から2030年には7400億バーツ(約29兆2000億ウォン)に拡大する見通しだ。"
-              },
-              {
-                "t": "p",
-                "x": "タイのAIエンターテインメントスタートアップ、Fortal Entertainmentは11月4日にバンコクで開いた発足イベント「Fortal Opening Day」で、Fortal Studio、SiamSun、Siam Narukalの三つの事業を披露した。Fortal Studioはクリエイターの構想を画像・キャラクター・背景・映像・音声として生成しつつ、方向づけと品質管理は人間が担うAI制作プラットフォームで、SiamSunはタイの作家の小説の版権を買い取り、AIの助けを借りて映像化した縦型シリーズの視聴アプリだ。"
-              },
-              {
-                "t": "p",
-                "x": "実在の俳優の顔を活用したAI俳優の開発計画も示された。俳優のピット・トンチュアと歌手兼俳優のジャック・ブラックジャックが肖像権を提供する。ByteDance系のBytePlusはFortal Entertainmentをタイの公式パートナーに指定した。"
-              },
-              {
-                "t": "p",
-                "x": "2026年第1四半期に中国で新たに登場したショートドラマは12万8000本で、その95%以上がAIで制作された。肖像権の許諾を前提としたAI俳優モデルが実際の作品と収益分配につながるかどうかが、タイの事例の注目点だ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La tailandesa Fortal presenta\nuna app de microdramas con AI",
-          "body": "La tailandesa Fortal presentó SiamSun, una app de dramas cortos con AI, y un plan para desarrollar actores de AI.",
-          "mini_headline": "App tailandesa de dramas cortos con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "Fuente: imagen generada con ChatGPT"
-              },
-              {
-                "t": "p",
-                "x": "A medida que crece el mercado de dramas cortos en formato vertical, aumentan en toda Asia las empresas que incorporan AI generativa a la producción. Se prevé que el mercado mundial de dramas verticales pase de 3700억 bahts (unos 14조 6000억 wones) en 2025 a 7400억 bahts (unos 29조 2000억 wones) en 2030."
-              },
-              {
-                "t": "p",
-                "x": "La startup tailandesa de entretenimiento con AI Fortal Entertainment presentó tres negocios, Fortal Studio, SiamSun y Siam Narukal, en su evento de lanzamiento ‘Fortal Opening Day’, celebrado en Bangkok el 4 de noviembre. Fortal Studio es una plataforma de producción con AI que convierte las ideas de los creadores en imágenes, personajes, fondos, video y voz, mientras que la dirección y el control de calidad quedan en manos de personas; SiamSun es una app para ver series verticales adaptadas con ayuda de AI a partir de novelas cuyos derechos se compraron a autores tailandeses."
-              },
-              {
-                "t": "p",
-                "x": "También se anunció un plan para desarrollar actores de AI a partir de los rostros de actores reales. El actor Pit Tongchua y el cantante y actor Jack Blackjack ceden sus derechos de imagen. BytePlus, filial de ByteDance, designó a Fortal Entertainment como su socio oficial en Tailandia."
-              },
-              {
-                "t": "p",
-                "x": "En el primer trimestre (Q1) de 2026 se estrenaron en China 12만 8000 nuevos dramas cortos, y más del 95% se produjo con AI. Lo que habrá que observar en el caso tailandés es si el modelo de actores de AI basado en el consentimiento de los derechos de imagen se traduce en obras reales y en reparto de ingresos."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "泰国Fortal娱乐公司\n推出AI短剧应用",
-          "body": "泰国Fortal公布AI短剧应用SiamSun及AI演员开发计划。",
-          "mini_headline": "泰国AI短剧应用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.topcelev.co.kr/news/photo/202611/4219_4027_5911.jpg",
-                "cap": "来源：ChatGPT生成图像"
-              },
-              {
-                "t": "p",
-                "x": "随着竖屏短剧市场扩大，亚洲各国在制作中投入生成式AI的企业日益增多。全球竖屏短剧市场预计将从2025年的3700亿泰铢（约146000亿韩元）增长至2030年的7400亿泰铢（约292000亿韩元）。"
-              },
-              {
-                "t": "p",
-                "x": "泰国AI娱乐初创公司Fortal Entertainment于11月4日在曼谷举办的启动活动‘Fortal Opening Day’上推出了Fortal Studio、SiamSun、Siam Narukal三项业务。Fortal Studio是一个AI制作平台，可将创作者的构想生成为图像·角色·背景·视频·语音，方向设定与质量把控则由人负责；SiamSun则是一款竖屏剧集观看应用，购入泰国作家的小说版权，借助AI将其影像化。"
-              },
-              {
-                "t": "p",
-                "x": "利用真实演员面孔开发AI演员的计划也随之公布。演员皮特·通茨阿与歌手兼演员杰克·布莱克杰克将提供肖像权。字节跳动旗下的BytePlus已将Fortal Entertainment指定为其泰国官方合作伙伴。"
-              },
-              {
-                "t": "p",
-                "x": "2026年第1季度，中国新上线的短剧达128000部，其中95%以上由AI制作。以获得肖像权授权为前提的AI演员模式能否转化为实际作品与收益分成，是泰国案例的看点所在。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gwangju-onair-awards",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI로 만든 1분 영화\n첫 온에어 어워즈",
-      "body": "광주정보문화산업진흥원이 AI 영상 교육 수강생의 1분 영화 19편을 상영·시상했다.",
-      "mini_headline": "광주 AI 1분 영화 시상",
-      "tool": "Movies",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/local/gwangju-jeonnam/6359050",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-            "cap": "(재)광주정보문화산업진흥원이 지난 12일 광주CGI센터 온에어스테이션에서 2026 온에어 어워즈(ON-AIR AWARDS)를 개최한 뒤 기념촬영하고 있다. (진흥원 제공)"
+            "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+            "cap": "John and Adelaide"
           },
           {
             "t": "p",
-            "x": "(재)광주정보문화산업진흥원은 AI 영상 제작 교육 수강생들의 작품을 선보이는 '2026 온에어 어워즈'를 개최했다고 19일 밝혔다."
+            "x": "시나리오는 모두 내가 쓴다. 이제는 상상한 인물을 직접 만들어 내가 쓴 그 사람이 보일 때까지 하나하나 다듬고, 목소리 오디션은 연출이 되느냐를 기준으로 본다. 생성형 연기자를 연출하는 일은 인간 배우를 연출하는 일과 놀랄 만큼 닮았다."
           },
           {
             "t": "p",
-            "x": "지난 12일 광주CGI센터 온에어스테이션에서 열린 이번 행사는 올해 운영한 AI 영상 제작 교육의 성과를 공유하기 위해 마련됐다. 교육에는 특강·기초·심화 강의와 원데이클래스 등 총 133명이 참여했다."
+            "x": "어떤 모델을 쓰느냐는 질문을 자주 받는다. 내겐 촬영감독에게 어떤 카메라를 쓰느냐고 묻는 것과 비슷한 질문이다. 〈CAIN〉에서는 기술이 그럴듯하게 구현하지 못해 로케이션을 바꿨다. 촬영분은 평범한 비선형 편집으로 조립하고, 커버리지가 더 필요하면 생성한다."
+          },
+          {
+            "t": "img",
+            "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+            "cap": "Rose at the Stadium"
           },
           {
             "t": "p",
-            "x": "이날 행사에서는 수강생들이 직접 기획하고 생성형 AI를 활용해 제작한 1분 내외의 영상 작품 19편을 상영했으며, 현장 투표와 심사위원 평가를 통해 선정된 우수작 7편을 시상했다."
-          },
-          {
-            "t": "p",
-            "x": "대상인 진흥원장상은 김예지 씨의 '악몽청소부'가 수상했으며, 이 밖에도 연출·비주얼·스토리·사운드 부문과 관객상, 특별상 등에서 우수작이 선정됐다."
-          },
-          {
-            "t": "p",
-            "x": "진흥원 관계자는 \"이번 어워즈는 교육을 통해 배운 AI 기술을 실제 창작물로 구현하고 관객과 공유한 뜻깊은 자리\"라며 \"앞으로도 지역 창작자들이 새로운 기술을 활용해 창의적인 콘텐츠를 제작할 수 있도록 다양한 교육과 제작지원을 이어가겠다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "광주온에어스테이션은 호리존·LED월 스튜디오와 영상편집실 등을 갖춘 개방형 창작공간으로, 콘텐츠 기업과 지역 창작자, 시민을 대상으로 시설·장비 지원과 AI 영상 제작 교육을 무상으로 운영하고 있다."
+            "x": "월요일에 시나리오를 끝내고 화요일에 제작에 들어갈 수 있다. 주로 투자하는 건 내 시간이다. 2027년 여름 공개 예정인 〈CAIN〉에는 대략 한 해 분량의 작업이 들어갈 것이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI로 만든 1분 영화\n첫 온에어 어워즈",
-          "body": "광주정보문화산업진흥원이 AI 영상 교육 수강생의 1분 영화 19편을 상영·시상했다.",
-          "mini_headline": "광주 AI 1분 영화 시상",
+        "en": {
+          "headline": "Perry Bhandal on making\na feature solo with gen AI",
+          "body": "Perry Bhandal compares making his gen-AI feature 'Okay, It's Time To Go' alone with his 18-day conventional shoots.",
+          "mini_headline": "Solo gen-AI feature, first-hand",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "(재)광주정보문화산업진흥원이 지난 12일 광주CGI센터 온에어스테이션에서 2026 온에어 어워즈(ON-AIR AWARDS)를 개최한 뒤 기념촬영하고 있다. (진흥원 제공)"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "(재)광주정보문화산업진흥원은 AI 영상 제작 교육 수강생들의 작품을 선보이는 '2026 온에어 어워즈'를 개최했다고 19일 밝혔다."
+                "x": "Three years ago, while I contemplated having to pull together a six-figure budget for the opening act of what went on to become feature film Okay, It’s Time To Go, I stumbled upon what seemed to be a new means of production. My previous features, Interview with a Hitman and The Last Boy, were made conventionally, each shot in just 18 days."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "지난 12일 광주CGI센터 온에어스테이션에서 열린 이번 행사는 올해 운영한 AI 영상 제작 교육의 성과를 공유하기 위해 마련됐다. 교육에는 특강·기초·심화 강의와 원데이클래스 등 총 133명이 참여했다."
+                "x": "I write my screenplays entirely myself. Now I create the people I’ve imagined and refine each one until I recognise the person I wrote, and audition voices for whether I can direct them. Directing generative performers is surprisingly similar to directing human actors."
               },
               {
                 "t": "p",
-                "x": "이날 행사에서는 수강생들이 직접 기획하고 생성형 AI를 활용해 제작한 1분 내외의 영상 작품 19편을 상영했으며, 현장 투표와 심사위원 평가를 통해 선정된 우수작 7편을 시상했다."
+                "x": "I’m often asked which models I use. To me, that’s rather like asking a cinematographer which camera they’re using. On CAIN, I changed a location because the technology couldn’t realise it convincingly. I assemble the rushes in a conventional non-linear edit. And when I need additional coverage, I generate it."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "대상인 진흥원장상은 김예지 씨의 '악몽청소부'가 수상했으며, 이 밖에도 연출·비주얼·스토리·사운드 부문과 관객상, 특별상 등에서 우수작이 선정됐다."
-              },
-              {
-                "t": "p",
-                "x": "진흥원 관계자는 \"이번 어워즈는 교육을 통해 배운 AI 기술을 실제 창작물로 구현하고 관객과 공유한 뜻깊은 자리\"라며 \"앞으로도 지역 창작자들이 새로운 기술을 활용해 창의적인 콘텐츠를 제작할 수 있도록 다양한 교육과 제작지원을 이어가겠다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "광주온에어스테이션은 호리존·LED월 스튜디오와 영상편집실 등을 갖춘 개방형 창작공간으로, 콘텐츠 기업과 지역 창작자, 시민을 대상으로 시설·장비 지원과 AI 영상 제작 교육을 무상으로 운영하고 있다."
+                "x": "I can finish a screenplay on Monday and begin production on Tuesday. My principal investment is my time. CAIN, which I intend to release in summer 2027, will represent roughly a year of work."
               }
             ]
           }
         },
-        "en": {
-          "headline": "1-minute films made with AI\nat the first ON-AIR AWARDS",
-          "body": "Gwangju’s culture industry agency screened 19 AI films of 1 minute each by its video course students and gave awards.",
-          "mini_headline": "Gwangju 1-minute AI film awards",
+        "ko": {
+          "headline": "Perry Bhandal\n생성 AI 장편 홀로 제작",
+          "body": "Perry Bhandal이 혼자 만든 gen-AI 장편과 18일 촬영작을 견줬다.",
+          "mini_headline": "gen-AI 장편 홀로 만들기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "The Gwangju Information & Culture Industry Promotion Agency poses for a commemorative photo after holding the 2026 ON-AIR AWARDS at the On-Air Station of the Gwangju CGI Center on the 12th. (Courtesy of the agency)"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "The Gwangju Information & Culture Industry Promotion Agency said on the 19th that it held the ‘2026 ON-AIR AWARDS’, showcasing work by students of its AI video production courses."
+                "x": "삼 년 전, 훗날 장편 〈Okay, It’s Time To Go〉가 될 작품의 첫 막을 찍으려고 여섯 자리 예산을 마련해야 하나 고민하다가 새로운 제작 수단처럼 보이는 것을 우연히 만났다. 이전 장편 〈Interview with a Hitman〉과 〈The Last Boy〉는 전통 방식으로 만들었고, 둘 다 단 18일 만에 촬영을 마쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "The event, held on the 12th at the On-Air Station of the Gwangju CGI Center, was organized to share the results of the AI video production courses run this year. A total of 133 people took part in the courses, which included special lectures, basic and advanced classes, and one-day classes."
+                "x": "시나리오는 모두 내가 쓴다. 이제는 상상한 인물을 직접 만들어 내가 쓴 그 사람이 보일 때까지 하나하나 다듬고, 목소리 오디션은 연출이 되느냐를 기준으로 본다. 생성형 연기자를 연출하는 일은 인간 배우를 연출하는 일과 놀랄 만큼 닮았다."
               },
               {
                 "t": "p",
-                "x": "At the event, 19 video works of about 1 minute each, planned by the students themselves and made with generative AI, were screened, and 7 outstanding works chosen through on-site voting and judges’ evaluations received awards."
+                "x": "어떤 모델을 쓰느냐는 질문을 자주 받는다. 내겐 촬영감독에게 어떤 카메라를 쓰느냐고 묻는 것과 비슷한 질문이다. 〈CAIN〉에서는 기술이 그럴듯하게 구현하지 못해 로케이션을 바꿨다. 촬영분은 평범한 비선형 편집으로 조립하고, 커버리지가 더 필요하면 생성한다."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "The grand prize, the Agency President’s Award, went to Kim Ye-ji’s ‘Nightmare Cleaner’, and outstanding works were also selected in the directing, visual, story and sound categories, as well as for the audience award and a special award."
-              },
-              {
-                "t": "p",
-                "x": "An agency official said, “These awards were a meaningful occasion where the AI skills learned through the courses were turned into actual creative works and shared with audiences,” adding, “We will continue to offer a range of training and production support so that local creators can use new technologies to make creative content.”"
-              },
-              {
-                "t": "p",
-                "x": "The Gwangju On-Air Station is an open creative space with a horizon and LED wall studio and video editing rooms, and it offers free facility and equipment support and AI video production training to content companies, local creators and citizens."
+                "x": "월요일에 시나리오를 끝내고 화요일에 제작에 들어갈 수 있다. 주로 투자하는 건 내 시간이다. 2027년 여름 공개 예정인 〈CAIN〉에는 대략 한 해 분량의 작업이 들어갈 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで作った1分映画\n初のオンエアアワーズ",
-          "body": "光州情報文化産業振興院がAI映像教育の受講生による1分映画19本を上映・表彰した。",
-          "mini_headline": "光州のAI 1分映画表彰",
+          "headline": "Perry Bhandal\n生成AIで長編を単独制作",
+          "body": "Perry Bhandalがgen-AI長編の単独制作を18日間の通常撮影と比べた。",
+          "mini_headline": "gen-AI長編を一人で作る",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "(財)光州情報文化産業振興院が12日、光州CGIセンターのオンエアステーションで2026オンエアアワーズ(ON-AIR AWARDS)を開催した後、記念撮影をしている。(振興院提供)"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "(財)光州情報文化産業振興院は、AI映像制作教育の受講生の作品を披露する「2026オンエアアワーズ」を開催したと19日に明らかにした。"
+                "x": "三年前、のちに長編『Okay, It’s Time To Go』となる作品の第一幕のために六桁の予算をかき集めねばならないかと考えていたとき、新しい制作手段らしきものに偶然出会った。それまでの長編『Interview with a Hitman』と『The Last Boy』は従来の方法で作り、どちらもわずか18日で撮影した。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "12日に光州CGIセンターのオンエアステーションで開かれた今回のイベントは、今年実施したAI映像制作教育の成果を共有するために設けられた。教育には特別講義・基礎・応用講座やワンデークラスなど、計133人が参加した。"
+                "x": "脚本はすべて自分で書く。今は思い描いた人物を作り出し、自分が書いたその人だと思えるまで一人ひとり磨き上げ、演出できるかどうかで声のオーディションをする。生成されたパフォーマーの演出は、人間の俳優の演出と驚くほど似ている。"
               },
               {
                 "t": "p",
-                "x": "この日のイベントでは、受講生が自ら企画し生成AIを活用して制作した1分前後の映像作品19本を上映し、現場投票と審査員の評価を通じて選ばれた優秀作7本を表彰した。"
+                "x": "どのモデルを使っているのかとよく聞かれる。私にとってそれは、撮影監督にどのカメラを使っているのかと尋ねるようなものだ。『CAIN』では、技術が説得力をもって再現できなかったためロケーションを変更した。素材は従来のノンリニア編集で組み立てる。追加のカバレッジが必要になれば、それを生成する。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "大賞にあたる振興院長賞はキム・イェジ氏の『悪夢清掃人』が受賞し、このほか演出・ビジュアル・ストーリー・サウンド部門や観客賞、特別賞などで優秀作が選ばれた。"
-              },
-              {
-                "t": "p",
-                "x": "振興院の関係者は「今回のアワーズは、教育で学んだAI技術を実際の創作物として形にし、観客と共有した意義深い場だった」とし、「今後も地域のクリエイターが新しい技術を活用して創造的なコンテンツを制作できるよう、多様な教育と制作支援を続けていく」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "光州オンエアステーションはホリゾント・LEDウォールスタジオや映像編集室などを備えた開放型の創作空間で、コンテンツ企業や地域のクリエイター、市民を対象に施設・機材の支援とAI映像制作教育を無償で行っている。"
+                "x": "月曜に脚本を書き終え、火曜に制作を始めることができる。私の主な投資は自分の時間だ。2027年夏に公開予定の『CAIN』は、およそ一年分の作業になる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI制作的1分钟电影\n首届ON-AIR颁奖礼",
-          "body": "光州信息文化产业振兴院放映并表彰了AI影像课程学员的1分钟电影19部。",
-          "mini_headline": "光州AI 1分钟电影颁奖",
+          "headline": "Perry Bhandal\n用生成式AI独自拍长片",
+          "body": "Perry Bhandal将独自用gen-AI制作长片与18天的传统拍摄作比较。",
+          "mini_headline": "一人完成gen-AI长片",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "（财）光州信息文化产业振兴院12日在光州CGI中心On-Air Station举办2026 ON-AIR AWARDS后合影留念。（振兴院提供）"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "（财）光州信息文化产业振兴院19日表示，举办了展示AI影像制作课程学员作品的“2026 ON-AIR AWARDS”。"
+                "x": "三年前，我正为后来成为长片《Okay, It’s Time To Go》的作品第一幕发愁，想着得凑出六位数的预算，却偶然发现了一种看似全新的制作方式。我此前的长片《Interview with a Hitman》和《The Last Boy》都是以传统方式拍摄的，每部仅用了18天。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "此次活动于12日在光州CGI中心On-Air Station举行，旨在分享今年开设的AI影像制作课程的成果。课程包括专题讲座、基础与进阶课程以及一日体验课等，共有133人参加。"
+                "x": "我的剧本完全由自己撰写。现在我会把想象中的人物创造出来，逐一打磨，直到认出那就是我笔下的人，再根据能否驾驭来试音挑选声音。执导生成式表演者，与执导真人演员出奇地相似。"
               },
               {
                 "t": "p",
-                "x": "当天活动放映了学员亲自策划、运用生成式AI制作的约1分钟影像作品19部，并为通过现场投票和评委评审选出的7部优秀作品颁奖。"
+                "x": "常有人问我用的是哪些模型。在我看来，这就像问摄影指导用的是哪台摄影机。在《CAIN》中，因为技术无法令人信服地呈现某个场景，我更换了取景地。我用常规的非线性剪辑来组接素材。需要补充镜头时，我就生成它。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "最高奖振兴院长奖由Kim Ye-ji的《噩梦清洁工》获得，此外还在导演、视觉、故事、音效类别以及观众奖、特别奖等奖项中评选出优秀作品。"
-              },
-              {
-                "t": "p",
-                "x": "振兴院相关人士表示：“此次颁奖礼是将课程中学到的AI技术转化为实际创作并与观众分享的有意义的场合。”他还表示：“今后将继续提供多样的培训和制作支持，帮助本地创作者运用新技术制作富有创意的内容。”"
-              },
-              {
-                "t": "p",
-                "x": "光州On-Air Station是配备天幕·LED墙摄影棚和影像剪辑室等设施的开放式创作空间，面向内容企业、本地创作者和市民免费提供场地与设备支持以及AI影像制作培训。"
+                "x": "我可以周一写完剧本，周二就开拍。我最主要的投入是时间。我计划在2027年夏天推出的《CAIN》，大约凝聚了一年的工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cine de 1 minuto hecho con AI\nen los primeros ON-AIR AWARDS",
-          "body": "Una agencia de Gwangju proyectó y premió 19 películas de 1 minuto hechas por alumnos de su curso de video con AI.",
-          "mini_headline": "Premios de cine AI de 1 minuto en Gwangju",
+          "headline": "Perry Bhandal y su largometraje\nhecho en solitario con gen AI",
+          "body": "Perry Bhandal compara su filme gen-AI 'Okay, It's Time To Go', hecho en solitario, con sus rodajes de 18 días.",
+          "mini_headline": "Un filme gen-AI en solitario",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju posa para una foto conmemorativa tras celebrar los 2026 ON-AIR AWARDS en la On-Air Station del Gwangju CGI Center el día 12. (Cortesía de la agencia)"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju informó el día 19 que celebró los ‘2026 ON-AIR AWARDS’, que muestran obras de los alumnos de sus cursos de producción de video con AI."
+                "x": "Hace tres años, mientras pensaba en tener que reunir un presupuesto de seis cifras para el primer acto de lo que acabaría siendo el largometraje Okay, It’s Time To Go, di por casualidad con lo que parecía un nuevo medio de producción. Mis largometrajes anteriores, Interview with a Hitman y The Last Boy, se hicieron de forma convencional y cada uno se rodó en solo 18 días."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "El evento, celebrado el día 12 en la On-Air Station del Gwangju CGI Center, se organizó para compartir los resultados de los cursos de producción de video con AI impartidos este año. En total, 133 personas participaron en la formación, que incluyó conferencias especiales, cursos básicos y avanzados y clases de un día."
+                "x": "Escribo mis guiones completamente solo. Ahora creo a las personas que he imaginado y perfecciono cada una hasta reconocer a la persona que escribí, y hago audiciones de voces según si puedo dirigirlas. Dirigir a intérpretes generativos se parece sorprendentemente a dirigir a actores humanos."
               },
               {
                 "t": "p",
-                "x": "Durante el evento se proyectaron 19 obras de video de alrededor de 1 minuto, planificadas por los propios alumnos y realizadas con AI generativa, y se premiaron 7 obras destacadas elegidas mediante votación del público presente y la evaluación del jurado."
+                "x": "A menudo me preguntan qué modelos uso. Para mí, es como preguntarle a un director de fotografía qué cámara utiliza. En CAIN cambié una localización porque la tecnología no lograba recrearla de forma convincente. Monto el material en una edición no lineal convencional. Y cuando necesito cobertura adicional, la genero."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "El gran premio, el Premio del Presidente de la Agencia, fue para ‘Barrendero de pesadillas’, de Kim Ye-ji; además, se eligieron obras destacadas en las categorías de dirección, imagen, guion y sonido, así como el premio del público y un premio especial."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de la agencia afirmó: “Estos premios fueron una ocasión significativa para convertir en obras reales las habilidades de AI aprendidas en los cursos y compartirlas con el público”, y añadió: “Seguiremos ofreciendo formación y apoyo a la producción variados para que los creadores locales puedan usar nuevas tecnologías y crear contenidos creativos”."
-              },
-              {
-                "t": "p",
-                "x": "La Gwangju On-Air Station es un espacio creativo abierto que cuenta con un estudio con ciclorama y pared LED y salas de edición de video, y ofrece de forma gratuita apoyo en instalaciones y equipos, así como formación en producción de video con AI, a empresas de contenidos, creadores locales y ciudadanos."
+                "x": "Puedo terminar un guion el lunes y empezar la producción el martes. Mi principal inversión es mi tiempo. CAIN, que pienso estrenar en el verano de 2027, representará aproximadamente un año de trabajo."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "1-minute films made with AI\nat the first ON-AIR AWARDS",
-          "body": "Gwangju’s culture industry agency screened 19 AI films of 1 minute each by its video course students and gave awards.",
-          "mini_headline": "Gwangju 1-minute AI film awards",
+        "ko": {
+          "headline": "Perry Bhandal\n생성 AI 장편 홀로 제작",
+          "body": "Perry Bhandal이 홀로 만든 gen-AI 장편을 18일 촬영작과 비교했다.",
+          "mini_headline": "gen-AI 장편 홀로 만들기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "The Gwangju Information & Culture Industry Promotion Agency poses for a commemorative photo after holding the 2026 ON-AIR AWARDS at the On-Air Station of the Gwangju CGI Center on the 12th. (Courtesy of the agency)"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "The Gwangju Information & Culture Industry Promotion Agency said on the 19th that it held the ‘2026 ON-AIR AWARDS’, showcasing work by students of its AI video production courses."
+                "x": "삼 년 전, 훗날 장편 〈Okay, It’s Time To Go〉가 된 작품의 첫 막을 위해 여섯 자리 예산을 마련해야 하나 고민하던 중, 새로운 제작 수단처럼 보이는 것을 우연히 발견했다. 이전 장편 〈Interview with a Hitman〉과 〈The Last Boy〉는 전통적인 방식으로 만들었고, 각각 단 18일 만에 촬영했다."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "The event, held on the 12th at the On-Air Station of the Gwangju CGI Center, was organized to share the results of the AI video production courses run this year. A total of 133 people took part in the courses, which included special lectures, basic and advanced classes, and one-day classes."
+                "x": "시나리오는 전부 직접 쓴다. 이제는 상상한 인물을 직접 만들고, 내가 쓴 그 사람이 보일 때까지 하나하나 다듬으며, 연출할 수 있는지를 기준으로 목소리 오디션을 본다. 생성형 연기자를 연출하는 일은 놀라울 만큼 인간 배우를 연출하는 일과 비슷하다."
               },
               {
                 "t": "p",
-                "x": "At the event, 19 video works of about 1 minute each, planned by the students themselves and made with generative AI, were screened, and 7 outstanding works chosen through on-site voting and judges’ evaluations received awards."
+                "x": "어떤 모델을 쓰느냐는 질문을 자주 받는다. 내게 그건 촬영감독에게 어떤 카메라를 쓰느냐고 묻는 것과 비슷하다. 〈CAIN〉에서는 기술이 설득력 있게 구현하지 못해 로케이션을 바꿨다. 촬영분은 일반적인 비선형 편집으로 조립한다. 추가 커버리지가 필요하면 생성한다."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "The grand prize, the Agency President’s Award, went to Kim Ye-ji’s ‘Nightmare Cleaner’, and outstanding works were also selected in the directing, visual, story and sound categories, as well as for the audience award and a special award."
-              },
-              {
-                "t": "p",
-                "x": "An agency official said, “These awards were a meaningful occasion where the AI skills learned through the courses were turned into actual creative works and shared with audiences,” adding, “We will continue to offer a range of training and production support so that local creators can use new technologies to make creative content.”"
-              },
-              {
-                "t": "p",
-                "x": "The Gwangju On-Air Station is an open creative space with a horizon and LED wall studio and video editing rooms, and it offers free facility and equipment support and AI video production training to content companies, local creators and citizens."
+                "x": "월요일에 시나리오를 끝내고 화요일에 제작을 시작할 수 있다. 내 주된 투자는 내 시간이다. 2027년 여름 공개할 계획인 〈CAIN〉은 대략 한 해 분량의 작업이 될 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで作った1分映画\n初のオンエアアワーズ",
-          "body": "光州情報文化産業振興院がAI映像教育の受講生による1分映画19本を上映・表彰した。",
-          "mini_headline": "光州のAI 1分映画表彰",
+          "headline": "Perry Bhandal\n生成AIで長編を単独制作",
+          "body": "Perry Bhandalがgen-AI長編の単独制作を18日間の通常撮影と比べた。",
+          "mini_headline": "gen-AI長編を一人で作る",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "(財)光州情報文化産業振興院が12日、光州CGIセンターのオンエアステーションで2026オンエアアワーズ(ON-AIR AWARDS)を開催した後、記念撮影をしている。(振興院提供)"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "(財)光州情報文化産業振興院は、AI映像制作教育の受講生の作品を披露する「2026オンエアアワーズ」を開催したと19日に明らかにした。"
+                "x": "三年前、のちに長編『Okay, It’s Time To Go』となる作品の第一幕のために六桁の予算をかき集めねばならないかと考えていたとき、新しい制作手段らしきものに偶然出会った。それまでの長編『Interview with a Hitman』と『The Last Boy』は従来の方法で作り、どちらもわずか18日で撮影した。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "12日に光州CGIセンターのオンエアステーションで開かれた今回のイベントは、今年実施したAI映像制作教育の成果を共有するために設けられた。教育には特別講義・基礎・応用講座やワンデークラスなど、計133人が参加した。"
+                "x": "脚本はすべて自分で書く。今は思い描いた人物を作り出し、自分が書いたその人だと思えるまで一人ひとり磨き上げ、演出できるかどうかで声のオーディションをする。生成されたパフォーマーの演出は、人間の俳優の演出と驚くほど似ている。"
               },
               {
                 "t": "p",
-                "x": "この日のイベントでは、受講生が自ら企画し生成AIを活用して制作した1分前後の映像作品19本を上映し、現場投票と審査員の評価を通じて選ばれた優秀作7本を表彰した。"
+                "x": "どのモデルを使っているのかとよく聞かれる。私にとってそれは、撮影監督にどのカメラを使っているのかと尋ねるようなものだ。『CAIN』では、技術が説得力をもって再現できなかったためロケーションを変更した。素材は従来のノンリニア編集で組み立てる。追加のカバレッジが必要になれば、それを生成する。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "大賞にあたる振興院長賞はキム・イェジ氏の『悪夢清掃人』が受賞し、このほか演出・ビジュアル・ストーリー・サウンド部門や観客賞、特別賞などで優秀作が選ばれた。"
-              },
-              {
-                "t": "p",
-                "x": "振興院の関係者は「今回のアワーズは、教育で学んだAI技術を実際の創作物として形にし、観客と共有した意義深い場だった」とし、「今後も地域のクリエイターが新しい技術を活用して創造的なコンテンツを制作できるよう、多様な教育と制作支援を続けていく」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "光州オンエアステーションはホリゾント・LEDウォールスタジオや映像編集室などを備えた開放型の創作空間で、コンテンツ企業や地域のクリエイター、市民を対象に施設・機材の支援とAI映像制作教育を無償で行っている。"
+                "x": "月曜に脚本を書き終え、火曜に制作を始めることができる。私の主な投資は自分の時間だ。2027年夏に公開予定の『CAIN』は、およそ一年分の作業になる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI制作的1分钟电影\n首届ON-AIR颁奖礼",
-          "body": "光州信息文化产业振兴院放映并表彰了AI影像课程学员的1分钟电影19部。",
-          "mini_headline": "光州AI 1分钟电影颁奖",
+          "headline": "Perry Bhandal\n用生成式AI独自拍长片",
+          "body": "Perry Bhandal将独自用gen-AI制作长片与18天的传统拍摄作比较。",
+          "mini_headline": "一人完成gen-AI长片",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "（财）光州信息文化产业振兴院12日在光州CGI中心On-Air Station举办2026 ON-AIR AWARDS后合影留念。（振兴院提供）"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "（财）光州信息文化产业振兴院19日表示，举办了展示AI影像制作课程学员作品的“2026 ON-AIR AWARDS”。"
+                "x": "三年前，我正为后来成为长片《Okay, It’s Time To Go》的作品第一幕发愁，想着得凑出六位数的预算，却偶然发现了一种看似全新的制作方式。我此前的长片《Interview with a Hitman》和《The Last Boy》都是以传统方式拍摄的，每部仅用了18天。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "此次活动于12日在光州CGI中心On-Air Station举行，旨在分享今年开设的AI影像制作课程的成果。课程包括专题讲座、基础与进阶课程以及一日体验课等，共有133人参加。"
+                "x": "我的剧本完全由自己撰写。现在我会把想象中的人物创造出来，逐一打磨，直到认出那就是我笔下的人，再根据能否驾驭来试音挑选声音。执导生成式表演者，与执导真人演员出奇地相似。"
               },
               {
                 "t": "p",
-                "x": "当天活动放映了学员亲自策划、运用生成式AI制作的约1分钟影像作品19部，并为通过现场投票和评委评审选出的7部优秀作品颁奖。"
+                "x": "常有人问我用的是哪些模型。在我看来，这就像问摄影指导用的是哪台摄影机。在《CAIN》中，因为技术无法令人信服地呈现某个场景，我更换了取景地。我用常规的非线性剪辑来组接素材。需要补充镜头时，我就生成它。"
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "最高奖振兴院长奖由Kim Ye-ji的《噩梦清洁工》获得，此外还在导演、视觉、故事、音效类别以及观众奖、特别奖等奖项中评选出优秀作品。"
-              },
-              {
-                "t": "p",
-                "x": "振兴院相关人士表示：“此次颁奖礼是将课程中学到的AI技术转化为实际创作并与观众分享的有意义的场合。”他还表示：“今后将继续提供多样的培训和制作支持，帮助本地创作者运用新技术制作富有创意的内容。”"
-              },
-              {
-                "t": "p",
-                "x": "光州On-Air Station是配备天幕·LED墙摄影棚和影像剪辑室等设施的开放式创作空间，面向内容企业、本地创作者和市民免费提供场地与设备支持以及AI影像制作培训。"
+                "x": "我可以周一写完剧本，周二就开拍。我最主要的投入是时间。我计划在2027年夏天推出的《CAIN》，大约凝聚了一年的工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cine de 1 minuto hecho con AI\nen los primeros ON-AIR AWARDS",
-          "body": "Una agencia de Gwangju proyectó y premió 19 películas de 1 minuto hechas por alumnos de su curso de video con AI.",
-          "mini_headline": "Premios de cine AI de 1 minuto en Gwangju",
+          "headline": "Perry Bhandal y su largometraje\nhecho en solitario con gen AI",
+          "body": "Perry Bhandal compara su filme gen-AI 'Okay, It's Time To Go', hecho en solitario, con sus rodajes de 18 días.",
+          "mini_headline": "Un filme gen-AI en solitario",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/19/8222027/high.jpg",
-                "cap": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju posa para una foto conmemorativa tras celebrar los 2026 ON-AIR AWARDS en la On-Air Station del Gwangju CGI Center el día 12. (Cortesía de la agencia)"
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
+                "cap": "Lethe"
               },
               {
                 "t": "p",
-                "x": "La Agencia de Promoción de la Industria de la Información y la Cultura de Gwangju informó el día 19 que celebró los ‘2026 ON-AIR AWARDS’, que muestran obras de los alumnos de sus cursos de producción de video con AI."
+                "x": "Hace tres años, mientras pensaba en tener que reunir un presupuesto de seis cifras para el primer acto de lo que acabaría siendo el largometraje Okay, It’s Time To Go, di por casualidad con lo que parecía un nuevo medio de producción. Mis largometrajes anteriores, Interview with a Hitman y The Last Boy, se hicieron de forma convencional y cada uno se rodó en solo 18 días."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/5/1492895_johnandadelaide_303456.jpg",
+                "cap": "John and Adelaide"
               },
               {
                 "t": "p",
-                "x": "El evento, celebrado el día 12 en la On-Air Station del Gwangju CGI Center, se organizó para compartir los resultados de los cursos de producción de video con AI impartidos este año. En total, 133 personas participaron en la formación, que incluyó conferencias especiales, cursos básicos y avanzados y clases de un día."
+                "x": "Escribo mis guiones completamente solo. Ahora creo a las personas que he imaginado y perfecciono cada una hasta reconocer a la persona que escribí, y hago audiciones de voces según si puedo dirigirlas. Dirigir a intérpretes generativos se parece sorprendentemente a dirigir a actores humanos."
               },
               {
                 "t": "p",
-                "x": "Durante el evento se proyectaron 19 obras de video de alrededor de 1 minuto, planificadas por los propios alumnos y realizadas con AI generativa, y se premiaron 7 obras destacadas elegidas mediante votación del público presente y la evaluación del jurado."
+                "x": "A menudo me preguntan qué modelos uso. Para mí, es como preguntarle a un director de fotografía qué cámara utiliza. En CAIN cambié una localización porque la tecnología no lograba recrearla de forma convincente. Monto el material en una edición no lineal convencional. Y cuando necesito cobertura adicional, la genero."
+              },
+              {
+                "t": "img",
+                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/4/1492894_roseatthestadium_891114.jpeg",
+                "cap": "Rose at the Stadium"
               },
               {
                 "t": "p",
-                "x": "El gran premio, el Premio del Presidente de la Agencia, fue para ‘Barrendero de pesadillas’, de Kim Ye-ji; además, se eligieron obras destacadas en las categorías de dirección, imagen, guion y sonido, así como el premio del público y un premio especial."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de la agencia afirmó: “Estos premios fueron una ocasión significativa para convertir en obras reales las habilidades de AI aprendidas en los cursos y compartirlas con el público”, y añadió: “Seguiremos ofreciendo formación y apoyo a la producción variados para que los creadores locales puedan usar nuevas tecnologías y crear contenidos creativos”."
-              },
-              {
-                "t": "p",
-                "x": "La Gwangju On-Air Station es un espacio creativo abierto que cuenta con un estudio con ciclorama y pared LED y salas de edición de video, y ofrece de forma gratuita apoyo en instalaciones y equipos, así como formación en producción de video con AI, a empresas de contenidos, creadores locales y ciudadanos."
+                "x": "Puedo terminar un guion el lunes y empezar la producción el martes. Mi principal inversión es mi tiempo. CAIN, que pienso estrenar en el verano de 2027, representará aproximadamente un año de trabajo."
               }
             ]
           }

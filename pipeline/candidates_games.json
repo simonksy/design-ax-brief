@@ -1,43 +1,25 @@
 {
   "section": "games",
-  "now_iso": "2026-11-22T22:03:00Z",
+  "now_iso": "2026-11-23T22:00:42Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "source": "The Verge",
+      "title": "Higgsfield launches playable game ads built with AI",
+      "url": "https://gamesbeat.com/higgsfield-launches-playable-game-ads-built-with-ai/",
+      "source": "GamesBeat",
       "category": "games",
-      "published_iso": "2026-11-22T17:25:20+00:00",
-      "excerpt": "Nicalis pulled AI-generated music from a GTA 6-themed mode in The Binding of Isaac: Repentance+ after players exposed it and review-bombed the update; creator Edmund McMillen says he 'had no idea' AI music had been used.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg"
+      "published_iso": "2026-11-23T15:30:00+00:00",
+      "excerpt": "Higgsfield launched an enterprise-only playable-ads workflow: developers describe a mechanic, pick genre and dimension, upload up to 100 sprites/textures/SFX and generate an exportable HTML playable ad for AppLovin, Meta, Google or TikTok. Its playable-games tool can also be driven from Claude via Higgsfield MCP.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
     },
     {
-      "title": "'Woke Up to a S**t Show' — The Binding of Isaac Creator Says He Was Unaware of Now-Removed AI-Generated Music in Repentance+",
-      "url": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
-      "source": "IGN",
+      "title": "Sony patents AI that plays your game while you eat dinner",
+      "url": "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/",
+      "source": "GamesBeat",
       "category": "games",
-      "published_iso": "2026-11-21T23:42:05+00:00",
-      "excerpt": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator, Edmund McMillen.",
-      "og_image": "https://assets-prd.ignimgs.com/2026/11/21/the-binding-of-isaac-repentance-ai-1795303836559.png?width=1280&format=jpg&auto=webp&quality=80"
-    },
-    {
-      "title": "The Binding of Isaac's new update was review-bombed over AI-generated music, and now it's been removed",
-      "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-11-22T13:19:20+00:00",
-      "excerpt": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players found it in a GTA 6-themed run.",
-      "og_image": "https://assetsio.gnwcdn.com/sc8p6p.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "Activision Patent Would Let AI NPCs Learn From Toxic COD Lobbies",
-      "url": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-11-22T16:17:48+00:00",
-      "excerpt": "A newly surfaced Activision patent describes training AI-driven NPCs on players' Call of Duty voice chat so enemies can learn to trash-talk like real players.",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/ss_bba1a7eb49bac760ae4a9b2d9d111df49d5c8f59-1920x1080.jpg?w=1600&h=900&fit=crop"
+      "published_iso": "2026-11-23T13:30:00+00:00",
+      "excerpt": "A newly publicized Sony patent splits a game into play units (quests, missions, scenes) and trains a separate AI helper per unit from real players' runs; the console shows which parts the AI can take over and the player can grab the controller back anytime. Distinct from Sony's earlier 'ghost player' filing.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
     },
     {
       "title": "Unreal Engine 5.9 Preview 2 Brings Browser-Based Gaming To Blueprint-Only Projects, Enables AI Workflows By Default And Improves Rendering",
@@ -45,71 +27,125 @@
       "source": "Wccftech",
       "category": "games",
       "published_iso": "2026-11-22T16:16:43+00:00",
-      "excerpt": "Epic's Unreal Engine 5.9 Preview 2 build brings Blueprint-only web games, turns AI toolsets on by default, adds WebGPU improvements and faster cinematic workflows.",
+      "excerpt": "Epic's new UE 5.9 Preview 2 build turns on the default AI toolsets, adds Blueprint-only web game export with WebGPU improvements, and speeds up cinematic workflows - a new build, not a recap of the UE6 Blueprints announcement.",
       "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-60.jpg"
     },
     {
-      "title": "Clash Royale Catches AI Cheat Creator, Recruits Him to Help Develop New Anti-Cheat System",
-      "url": "https://gameriv.com/clash-royale-catches-ai-cheat-creator-recruits-him-to-help-develop-new-anti-cheat-system/",
-      "source": "GameRiv",
+      "title": "Slotbound: a 200,000-copy Steam hit built with AI coding tools by a near-zero-experience solo developer",
+      "url": "http://www.gamespark.jp/article/2026/11/23/175187.html",
+      "source": "Game*Spark",
       "category": "games",
-      "published_iso": "2026-11-22T09:31:53+00:00",
-      "excerpt": "Supercell took an unusual approach to AI-powered cheating in Clash Royale: instead of simply banning the creator of an AI cheat tool, it recruited him to help build a new anti-cheat system.",
-      "og_image": "https://gameriv.com/wp-content/uploads/2026/11/Clash-of-Clans-AI-Cheat-Creator-Hired.jpg"
+      "published_iso": "2026-11-23T12:00:03+09:00",
+      "excerpt": "Solo developer Optima Arch, with almost no prior programming or game-dev experience, built the slot-roguelike Slotbound over about eight months using AI coding tools, then hand-tuned systems, balance and UI. It sold 100,000 copies in three days and passed 200,000 in six days on Steam.",
+      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1222328.png"
     },
     {
-      "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
-      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
-      "source": "PC Gamer",
+      "title": "Clash Royale recruits creator of AI cheating tool to help catch cheaters",
+      "url": "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/",
+      "source": "Dexerto",
       "category": "games",
-      "published_iso": "2026-11-21T23:40:42+00:00",
-      "excerpt": "Wizards of the Coast says it will pass its full share of the Anthropic AI copyright settlement for D&D books on to the writers who created them.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7-1280-80.jpg"
+      "published_iso": "2026-11-21T21:15:18+00:00",
+      "excerpt": "Supercell said the creator of an advanced AI cheating tool for Clash Royale was caught and has agreed to join the team building new anti-cheat technology, a day after warning that AI cheating would get players banished from the Arena.",
+      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
     },
     {
-      "title": "스팀 'AI 사용 공개' 게임, 전반적으로 판매량 적었다",
-      "url": "https://www.gamemeca.com/view.php?gid=1783956",
-      "source": "GameMeca (게임메카)",
+      "title": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
       "category": "games",
-      "published_iso": "2026-11-21T12:45:52+09:00",
-      "excerpt": "스팀에서 AI 사용 사실을 공개한 게임들이 그렇지 않은 작품보다 판매량이 적은 경향을 보였다는 분석. 다만 AI 사용 공개가 직접 판매 감소를 유발했다는 인과는 증명되지 않았고, 짧은 사전 홍보와 부족한 이용자 기반이 영향을 미쳤을 가능성이 제기됐다.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/783/956/gm315917_thumb__AI___.webp"
+      "published_iso": "2026-11-21T14:00:00+00:00",
+      "excerpt": "Chess.com launched Classic, a hub of classic games from mahjong to sudoku, built by a very small team using AI mainly to speed up coding on top of its existing code base, design system and bot characters; the company says AI was not used for the games' art and design.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
     },
     {
-      "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析",
+      "title": "One way to stave off AI clones? Minimise the gap between announcement and launch",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-11-23T15:07:00+00:00",
+      "excerpt": "Tinybuild's Alex Nichiporchik explains how a three-month reveal-to-release window for Probably Stolen was a defence against generative-AI copycats that reverse-engineer demos, as studios rethink the 'announce early, build wishlists' playbook.",
+      "og_image": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Steam games that disclose AI use tend to sell less - but is the disclosure really the cause?",
       "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
       "source": "AUTOMATON",
       "category": "games",
       "published_iso": "2026-11-20T08:09:56+00:00",
-      "excerpt": "Steamのレビュー数から推定した売上が、AI使用の開示によってどう影響を受けるのかを統計的に分析したレポートが公開された。開示作品は売上が低い傾向だが、開示そのものが原因とは言い切れない。",
+      "excerpt": "A statistical report estimating Steam sales from review counts found titles with AI-use disclosures sell less overall; AUTOMATON's read is that many disclosed titles were set up to lose from the start rather than being hurt by the label itself.",
       "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
     },
     {
-      "title": "生成AIを活用したFMVゲーム「元カレ×デスゲーム」，2026年12月4日に基本プレイ無料で配信予定",
-      "url": "https://www.4gamer.net/games/059/G105923/20261118013/",
+      "title": "Wrtn on 'hyper-personalization' and the future of AI entertainment beyond novel/manga/game categories [G-STAR 2026]",
+      "url": "https://www.4gamer.net/games/991/G999104/20261120011/",
       "source": "4Gamer.net",
       "category": "games",
-      "published_iso": "2026-11-18T14:14:37+09:00",
-      "excerpt": "LIUGUANG STUDIO announced that its generative-AI-built live-action-style FMV game 'Ex-Boyfriend x Death Game', pitting the player against 100 exes on a cruise ship, launches free-to-play on December 4, 2026 (PC via Steam).",
-      "og_image": "https://www.4gamer.net/games/059/G105923/20261118013/SS/002.jpg"
+      "published_iso": "2026-11-20T14:03:07+09:00",
+      "excerpt": "At the G-CON 2026 main session, Wrtn (maker of the AI character app Crack, G-STAR's main sponsor) argued AI is collapsing content-production cost and branching experiences per user, blurring the line between novels, comics and games into a 'Narrative Industry'.",
+      "og_image": "https://www.4gamer.net/games/991/G999104/20261120011/SS/002.jpg"
     },
     {
-      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop",
-      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
-      "source": "Kotaku",
+      "title": "[AI & LAW] 지스타 간판 된 AI 게임…국내는 '설계' 심의, EU는 '결함' 묻는다",
+      "url": "https://www.inews24.com/view/2028994",
+      "source": "아이뉴스24",
       "category": "games",
-      "published_iso": "2026-11-10T23:00:35+00:00",
-      "excerpt": "A student video game development competition was cancelled after organizers were flooded with AI-generated submissions.",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2218779363.jpg"
+      "published_iso": "2026-11-23T08:00:00+09:00",
+      "excerpt": "With Wrtn's AI chatbot Crack as G-STAR's first non-game main sponsor, Korea's Game Rating and Administration Committee says AI chat alone is not a game but paid-currency probability mechanics can be; a new youth-protection bill would review 'relational AI services' by their design, while the EU moves to post-hoc liability.",
+      "og_image": "https://image.inews24.com/v1/e8d8785d57e7af.jpg"
     },
     {
-      "title": "MetaHuman Animator Markerless Motion Capture Deep Dive | Inside Unreal",
-      "url": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
-      "source": "Unreal Engine (YouTube)",
+      "title": "Genie 4 is now available on the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "source": "Google (blog.google)",
       "category": "games",
-      "published_iso": "2026-11-19T13:32:45-08:00",
-      "excerpt": "Epic's Inside Unreal deep dive on the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or camera into full-body animation without mocap suits or markers.",
-      "og_image": "https://i.ytimg.com/vi/zd7DCFBLCcc/maxresdefault.jpg"
+      "published_iso": "2026-11-19T17:00:00+00:00",
+      "excerpt": "Google opened the Genie 4 world model to developers through the Gemini API, letting them build interactive 720p worlds with native audio and real-time controls; reports put pricing at roughly $0.10 per second of streamed world. Distinct from the earlier AI Ultra consumer rollout.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-1440x810.png"
+    },
+    {
+      "title": "AI Evaluates, Humans Decide: The Next Step in Game Rating Classification",
+      "url": "https://www.invenglobal.com/articles/28903",
+      "source": "Inven Global",
+      "category": "games",
+      "published_iso": "2026-11-20T14:46:32+00:00",
+      "excerpt": "A Nexon-led industry-academic consortium presented first-year results and plans for AI-assisted game rating technology, in which AI pre-evaluates game content and human reviewers make the final classification decision.",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg"
+    },
+    {
+      "title": "Imitation Disputes Shift from 'Like Games' to 'AI Cloning'",
+      "url": "https://www.invenglobal.com/articles/28912",
+      "source": "Inven Global",
+      "category": "games",
+      "published_iso": "2026-11-20T21:45:48+00:00",
+      "excerpt": "Korean legal experts say the focus of game imitation disputes is moving from genre/rule-copying 'like games' to AI cloning, where AI is used to replicate games in their entirety.",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/r1795211230112218.jpeg"
+    },
+    {
+      "title": "Legal Experts Re-examine 'Boundaries of Games' Surrounding AI Chat Apps and Private Server Users",
+      "url": "https://www.invenglobal.com/articles/28894",
+      "source": "Inven Global",
+      "category": "games",
+      "published_iso": "2026-11-20T10:04:53+00:00",
+      "excerpt": "On November 20, legal and academic experts examined how AI character-chat apps and illegal private servers are challenging where Korean game regulation draws the line on what counts as a game.",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/r1795169169728321.jpeg"
+    },
+    {
+      "title": "Unity and AI: What to vibe code and where to rely on infrastructure",
+      "url": "https://unity.com/blog/ai-vibe-coding-vs-buying-managed-infrastructure",
+      "source": "Unity",
+      "category": "games",
+      "published_iso": "2026-11-23T00:00:00+00:00",
+      "excerpt": "Unity's guidance on where AI-assisted 'vibe coding' with the Unity CLI pays off (prototypes, UI) and where teams should rely on managed Unity infrastructure for CAD pipelines, security and scale.",
+      "og_image": null
+    },
+    {
+      "title": "Introducing Voice Isolator",
+      "url": "https://inworld.ai/blog/introducing-voice-isolator",
+      "source": "Inworld AI",
+      "category": "games",
+      "published_iso": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Inworld released Voice Isolator, two 48 kHz models (offline and realtime streaming) that strip background noise while keeping speech, laughter and breaths, with code and weights under Apache 2.0 - a separate release from its SAVA launch.",
+      "og_image": "https://inworld.ai/opengraph-image.jpg?opengraph-image.3etui4_c_jrz1.jpg"
     }
   ]
 }

@@ -12425,6 +12425,155 @@
           "x": "Las herramientas de AI creadas para UE6 vuelven a UE5, empezando por UE 5.9 MegaJam Preview: scripting de Python ampliado, mejoras en Model Context Protocol (MCP), Web como plataforma de destino y Unreal Canvas para generar assets. “Construimos gran parte de UE 5.9 con agentes de AI, incluida la mayor parte del trabajo de la plataforma web”."
         }
       ]
+    },
+    "games/slotbound-ai-solo-hit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6j0w7Q2Q_LM"
+        },
+        {
+          "t": "p",
+          "x": "Slotbound, desarrollado y publicado por Optima Arch, es un juego de defensa roguelite de tipo auto battler en el que se gira una máquina tragamonedas para invocar unidades y resistir oleadas. Al completar una línea en las ranuras de 3×3 se invoca una unidad, que sube de nivel y de rango mediante fusiones y mejoras."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+        },
+        {
+          "t": "p",
+          "x": "Su atractivo es la estrategia más allá de la suerte, con «núcleos», «esencias», «rasgos» aleatorios y la herencia de habilidades mediante la «absorción» de unidades. Los jugadores han comentado cosas como «parecía un juego de suerte, pero no es solo suerte» y «no encuentro el momento de parar y juego solo 1 vez más...»."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+          "cap": "Si bajas la línea del medio, se alinean las coronas."
+        },
+        {
+          "t": "p",
+          "x": "Optima Arch desarrolló el juego como proyecto de 1 persona. Sin apenas experiencia previa en programación ni en desarrollo de juegos, usó herramientas de programación con AI y lanzó el juego en unos 8 meses. Los sistemas de juego, el ajuste del equilibrio y la UI los retocó personalmente para que resultara divertido como juego."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+        },
+        {
+          "t": "p",
+          "x": "Superó las 100,000 copias a los 3 días del lanzamiento y las 200,000 a los 6 días. Actualmente incluye 6 fases y un modo infinito, y se seguirán corrigiendo errores, ajustando el equilibrio y añadiendo contenido nuevo según los comentarios. Ya está a la venta para PC (Steam)."
+        }
+      ]
+    },
+    "games/tinybuild-short-reveal-window": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "\"Creo que el mayor tema de conversación en el próximo medio año será el tiempo de llegada al mercado y cómo los desarrolladores temen ahora que la AI copie sus juegos\", dice el director de Tinybuild, Alex Nichiporchik. La AI generativa facilita copiar títulos en desarrollo, por ejemplo mediante ingeniería inversa del código de las demos; Needle in a Haystack Simulator atrajo varias copias en Steam después de que un video superara los 50 millones de visualizaciones en X."
+        },
+        {
+          "t": "p",
+          "x": "La nueva norma es reducir al mínimo el intervalo entre el anuncio y el lanzamiento. Probably Stolen se anunció el 3 de agosto y salió el 28 de octubre; ya ha vendido más de un millón de unidades y su CCU de lanzamiento superó los 80,000."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Probably Stolen salió el 28 de octubre, unos tres meses después de su presentación"
+        },
+        {
+          "t": "p",
+          "x": "Nichiporchik afirma que la herramienta REA (Reverse Engineer Anything) ha agravado mucho las copias: \"sobre todo en los juegos de Unity, se puede obtener el código fuente prácticamente de una sola vez\". Aun así, dice que los desarrolladores no deberían tener miedo: \"la AI multiplicará tus habilidades, y cero por mil sigue siendo cero\"; la sensación de juego es imposible de copiar."
+        },
+        {
+          "t": "p",
+          "x": "El juego también triunfó en China, de donde procedió el 51% de las 246,000 activaciones de la prueba de juego, con un precio de 55 yuanes ($8.25) frente a $19.99 en Estados Unidos (US)."
+        }
+      ]
+    },
+    "games/automaton-steam-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Se ha publicado un informe que analiza estadísticamente cómo afecta la declaración del uso de AI a las ventas de juegos en Steam, estimadas a partir del número de reseñas. Abarca 31,003 juegos lanzados entre enero de 2025 y octubre de 2026, de los cuales 9251, alrededor del treinta por ciento, declaran el uso de AI."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La mediana de ventas estimadas fue de 200 copias para los juegos que no declararon uso de AI y de 71 para los que sí lo hicieron. Incluso en un modelo de estimación con condiciones igualadas, se predijo que los juegos que declaran uso de AI tendrían un 49.5% menos de reseñas. Sin embargo, esto no demuestra causalidad."
+        },
+        {
+          "t": "p",
+          "x": "La mediana del tiempo entre la publicación de la página en la tienda y el lanzamiento fue de 167 días para los juegos que no lo declararon y de 52 días para los que sí. Los seguidores el día del lanzamiento también fueron 20 frente a 6. Burton afirmó que \"quizá el fondo del problema no sea la AI\" y señaló que muchos de esos juegos son primeras obras atrapadas en un \"patrón perdedor\", sin editora, sin base de fans y con poco tiempo de preparación."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Por otro lado, indicó que la \"penalización\" por declarar el uso de AI puede producirse antes del lanzamiento, y que no se puede determinar si la explicación correcta es la falta de preparación o el rechazo a la AI, ya que ambas no pueden separarse."
+        }
+      ]
+    },
+    "games/chesscom-classic-hub-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Chess.com añade 10 juegos más —backgammon, damas, go, corazones, mahjong, shogi, sudoku, solitario, xiangqi y una alternativa a Scrabble llamada word— como parte de su nueva plataforma Classic Games, que inicia su beta pública en la web y en nuevas apps para iOS y Android."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Classic Games tiene los mismos bots que Chess.com, incluido Martin."
+        },
+        {
+          "t": "p",
+          "x": "La AI tuvo un papel clave para que Chess.com lanzara 11 juegos nuevos en cuestión de meses con un equipo de solo unas pocas personas. El director de crecimiento, Albert Cheng, dice que usaron \"casi exactamente el mismo enfoque\" que con Gambit, con la AI ayudando a acelerar la programación. \"Como estos juegos se construyen sobre la base de código, el sistema de diseño, los personajes bot y los sistemas de clasificación de Chess.com, es una gran ventaja y nos permite avanzar muy rápido junto con la AI.\""
+        },
+        {
+          "t": "p",
+          "x": "Según Cheng, la AI no se usó para el arte ni el diseño de Classic Games. \"Su aspecto y sensación están elaborados con mucho cuidado por humanos, y estamos orgullosos de ello\". En el apartado de arte y diseño, añade, \"estamos contratando a más personas de ese perfil\"."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Los juegos multijugador de Classic Games tienen una barra lateral de chat."
+        }
+      ]
+    },
+    "games/isaac-repentance-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+          "cap": "The Binding of Isaac: Repentance Plus"
+        },
+        {
+          "t": "p",
+          "x": "The Binding of Isaac: Repentance Plus lleva varios días recibiendo un bombardeo de reseñas en Steam después de que se descubriera que un segmento concreto del juego usaba música hecha con AI. El usuario de Reddit ShweetsStuff descubrió las canciones utilizadas en una sección Grand Theft Auto-themed. Encontró varios archivos de audio con metadatos de Suno que remitían a las pistas en el sitio de Suno."
+        },
+        {
+          "t": "p",
+          "x": "El creador Edmund McMillen recurrió a X para disculparse y aseguró que “no tenía ni idea” de que la parodia de GTA dentro del juego usaba música hecha con AI generativa. Para complicar más las cosas, Valve exige a los desarrolladores que indiquen cómo y cuándo usan AI generativa en el proceso de desarrollo, y Nicalis, Inc., el estudio detrás de Repentance Plus, no parece haber mencionado la música hecha con AI en ningún lugar."
+        },
+        {
+          "t": "p",
+          "x": "A las pocas horas del hallazgo, Nicalis informó en X de que Repentance Plus se había actualizado y de que se habían eliminado los archivos de música generada. Aunque las reseñas en Steam aún no se han recuperado y el juego sigue con una valoración “extremadamente negativa”, los usuarios de X parecen conceder a McMillen el beneficio de la duda, probablemente porque se ha mostrado muy crítico con la AI en el desarrollo de videojuegos: en un TikTok de 2024 la calificó de “poco inspirada e insulsa”."
+        }
+      ]
     }
   }
 }

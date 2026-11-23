@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "marketing",
   "cards": [
     {
-      "id": "amazon-brandstore-agent",
+      "id": "chatgpt-orchestrator-adqueries",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon Brand\nStore 첫 화면에 AI",
-      "body": "이제 Amazon Brand Store 새 페이지는 AI 에이전트가 먼저 연다.",
-      "mini_headline": "Amazon Brand Stores, agent-first로",
+      "headline": "ChatGPT 광고 AI가\n광고주 모르게 쿼리 작성",
+      "body": "OpenAI 내부 에이전트가 대화 기록을 보고 짠 광고 쿼리를 광고주는 못 본다.",
+      "mini_headline": "ChatGPT 광고, 숨은 쿼리로 매칭",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/amazon-routes-new-brand-store-pages-through-an-ai-agent-first/",
+      "source": "ADWEEK",
+      "url": "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-            "cap": "Amazon은 새 Brand Store 페이지 앞에 예시 프롬프트 6개를 띄운 AI 에이전트를 세웠다."
+            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+            "cap": "Picture Alliance via Getty Images"
           },
           {
             "t": "p",
-            "x": "Amazon Store builder에서 Add page를 누르면 이제 Brand Store Builder Agent 창이 새로 열린다. 브랜드는 미리 써 둔 프롬프트 6개 중 하나를 고르거나 지시를 직접 쓰면 되고, Brand Registry 상태는 \"Approved\"여야 한다."
+            "x": "ChatGPT 광고 시스템이 2월 출시된 뒤로 광고 구매자들은 작동 방식을 더 알려 달라고 거듭 요구해 왔다. 경영진은 그 내용을 조금씩 풀어놓는 중이다."
           },
           {
             "t": "p",
-            "x": "대화는 어떤 언어로 해도 되지만 Store 콘텐츠는 해당 마켓플레이스의 기본 언어로 만들어진다. 프랑스어로 대화하며 U.S. Store를 만들어도 결과물은 영어로 나온다. 에이전트가 결과물을 Stores 콘텐츠 정책에 맞춰 점검하는지는 Amazon 도움말 페이지에 나와 있지 않다."
+            "x": "OpenAI는 자체 AI 에이전트가 짠 검색 쿼리에 맞춰 ChatGPT 광고를 붙인다. 이 AI 연구소에서 광고 시스템을 이끄는 경영진 세 명이 ADWEEK에 한 설명이다."
           },
           {
             "t": "p",
-            "x": "에이전트를 건너뛰려는 브랜드는 \"Add page without AI Assistance\" 링크로 수동 템플릿을 쓰면 된다. 템플릿은 Marquee, Product highlight, Product grid(제품 4개에서 60개까지), Blank가 있다. 섹션은 한 페이지에 최대 20개까지 넣는다. 심사는 \"보통 24시간 안에 끝나지만\" 영업일 기준 최대 3일까지 걸리기도 한다."
+            "x": "사용자가 ChatGPT에 프롬프트를 넣으면 OpenAI가 오케스트레이터(orchestrator)라 부르는 AI 에이전트가 대화를 읽고 그 사람이 무엇을 사고 싶어 하는지 가늠한다. 광고 개인화 설정이 허용돼 있으면 이전 대화도 참고할 수 있다. 그다음 검색 쿼리를 직접 쓰고 시스템에서 찾은 광고에 순위를 매겨 가장 알맞은 후보를 경매에 올린다. 경매에서는 광고주 입찰가와 그 광고가 사용자에게 얼마나 쓸모 있을지를 함께 본다."
           },
           {
             "t": "p",
-            "x": "별개로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 할인 중인 제품을 최대 30개까지 보여 주는 탭인데, 어떤 제품을 어떤 순서로 올릴지는 Amazon이 정한다. Amazon은 \"All Deals 페이지를 대신 만들고 업데이트한다\"고 설명한다. 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
+            "x": "광고주는 자기 광고가 왜 노출됐는지 알 길이 없다. 프롬프트 단위 데이터 없이 ChatGPT 광고 성과를 집계한 보고만 받다 보니 많은 광고주가 이 플랫폼을 테스트 예산으로 돌린다. 구매자들은 ChatGPT 광고의 CTR이 Google보다 낮다는 사실도 확인했다. OpenAI의 연환산 광고 매출 $1 billion 은 지금 보유한 것에 비하면 \"훨씬 작은 규모\"다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon starts new Brand Store\npages with an AI agent",
-          "body": "New Amazon Brand Store pages now begin with an AI agent offering six starter prompts and output in one language.",
-          "mini_headline": "Amazon Brand Stores go agent-first",
+          "headline": "ChatGPT's ad agent writes\nqueries advertisers can't see",
+          "body": "OpenAI says an internal agent writes ad-matching queries from chat history, and advertisers never see them.",
+          "mini_headline": "ChatGPT ads use hidden queries",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazon puts an AI agent with 6 starter prompts in front of new Brand Store pages."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Clicking Add page in Amazon's Store builder now opens a new window with the Brand Store Builder Agent. Brands pick from 6 prewritten prompts or write their own instructions; Brand Registry status must be \"Approved\"."
+                "x": "Buyers have been clamoring to understand more about ChatGPT’s ads system since it launched in February. Executives have been slowly revealing more."
               },
               {
                 "t": "p",
-                "x": "Users can chat in any language, but Store content is generated in the marketplace's primary language — a French chat building a U.S. Store yields English. Amazon's help pages do not say whether the agent checks its output against Stores content policies."
+                "x": "OpenAI matches ChatGPT ads to search queries written by its own AI agent, three executives who run the AI lab’s ad system told ADWEEK."
               },
               {
                 "t": "p",
-                "x": "Brands can skip the agent via an \"Add page without AI Assistance\" link and use the manual templates: Marquee, Product highlight, Product grid (4 to 60 products) and Blank. A page holds up to 20 sections. Moderation \"typically completes within 24 hours\" but can extend up to 3 business days."
+                "x": "When a user writes a prompt in ChatGPT, an AI agent OpenAI calls the orchestrator reads the conversation and works out what the person might want to buy. It can also draw on the user’s previous chats when the user’s ad personalization settings allow it. It then writes its own search queries, ranks the ads it finds in its system, and sends the best candidates to an auction that weighs advertisers’ bids against how useful each ad is likely to be to the user."
               },
               {
                 "t": "p",
-                "x": "Separately, an All Deals tab is on by default for Classic, Elegant and Impact themes: it shows up to 30 products with deals, chosen and ordered by Amazon, which \"creates and updates the All Deals page for you.\" Brands can switch it off in Store Settings or replace it with their own deals page."
+                "x": "Advertisers can't see what prompted their ads to appear: they receive only aggregate reporting on ChatGPT ad performance, not prompt-level data, leaving many to treat the platform as test spend. Buyers have found that ChatGPT's ad CTR lags Google's, and OpenAI's $1 billion annualized ad run rate is already \"a much smaller footprint\" than what it has now."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon Brand\nStore 첫 화면에 AI",
-          "body": "이제 Amazon Brand Store 새 페이지는 AI 에이전트가 먼저 연다.",
-          "mini_headline": "Amazon Brand Stores, agent-first로",
+          "headline": "ChatGPT 광고 AI가\n광고주 모르게 쿼리 작성",
+          "body": "OpenAI 내부 에이전트가 대화 기록을 보고 짠 광고 쿼리를 광고주는 못 본다.",
+          "mini_headline": "ChatGPT 광고, 숨은 쿼리로 매칭",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazon은 새 Brand Store 페이지 앞에 예시 프롬프트 6개를 띄운 AI 에이전트를 세웠다."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Amazon Store builder에서 Add page를 누르면 이제 Brand Store Builder Agent 창이 새로 열린다. 브랜드는 미리 써 둔 프롬프트 6개 중 하나를 고르거나 지시를 직접 쓰면 되고, Brand Registry 상태는 \"Approved\"여야 한다."
+                "x": "ChatGPT 광고 시스템이 2월 출시된 뒤로 광고 구매자들은 작동 방식을 더 알려 달라고 거듭 요구해 왔다. 경영진은 그 내용을 조금씩 풀어놓는 중이다."
               },
               {
                 "t": "p",
-                "x": "대화는 어떤 언어로 해도 되지만 Store 콘텐츠는 해당 마켓플레이스의 기본 언어로 만들어진다. 프랑스어로 대화하며 U.S. Store를 만들어도 결과물은 영어로 나온다. 에이전트가 결과물을 Stores 콘텐츠 정책에 맞춰 점검하는지는 Amazon 도움말 페이지에 나와 있지 않다."
+                "x": "OpenAI는 자체 AI 에이전트가 짠 검색 쿼리에 맞춰 ChatGPT 광고를 붙인다. 이 AI 연구소에서 광고 시스템을 이끄는 경영진 세 명이 ADWEEK에 한 설명이다."
               },
               {
                 "t": "p",
-                "x": "에이전트를 건너뛰려는 브랜드는 \"Add page without AI Assistance\" 링크로 수동 템플릿을 쓰면 된다. 템플릿은 Marquee, Product highlight, Product grid(제품 4개에서 60개까지), Blank가 있다. 섹션은 한 페이지에 최대 20개까지 넣는다. 심사는 \"보통 24시간 안에 끝나지만\" 영업일 기준 최대 3일까지 걸리기도 한다."
+                "x": "사용자가 ChatGPT에 프롬프트를 넣으면 OpenAI가 오케스트레이터(orchestrator)라 부르는 AI 에이전트가 대화를 읽고 그 사람이 무엇을 사고 싶어 하는지 가늠한다. 광고 개인화 설정이 허용돼 있으면 이전 대화도 참고할 수 있다. 그다음 검색 쿼리를 직접 쓰고 시스템에서 찾은 광고에 순위를 매겨 가장 알맞은 후보를 경매에 올린다. 경매에서는 광고주 입찰가와 그 광고가 사용자에게 얼마나 쓸모 있을지를 함께 본다."
               },
               {
                 "t": "p",
-                "x": "별개로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 할인 중인 제품을 최대 30개까지 보여 주는 탭인데, 어떤 제품을 어떤 순서로 올릴지는 Amazon이 정한다. Amazon은 \"All Deals 페이지를 대신 만들고 업데이트한다\"고 설명한다. 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
+                "x": "광고주는 자기 광고가 왜 노출됐는지 알 길이 없다. 프롬프트 단위 데이터 없이 ChatGPT 광고 성과를 집계한 보고만 받다 보니 많은 광고주가 이 플랫폼을 테스트 예산으로 돌린다. 구매자들은 ChatGPT 광고의 CTR이 Google보다 낮다는 사실도 확인했다. OpenAI의 연환산 광고 매출 $1 billion 은 지금 보유한 것에 비하면 \"훨씬 작은 규모\"다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon Brand\nStoreの入口にAI",
-          "body": "Amazon Brand Storeの新ページは、AIエージェントで始まる。",
-          "mini_headline": "Amazon Brand Stores、agent-firstへ",
+          "headline": "ChatGPTの広告AIが\n広告主に見えない検索語を書く",
+          "body": "OpenAIによると、社内エージェントが会話履歴から広告クエリを作り、広告主には見えない。",
+          "mini_headline": "ChatGPT広告は非公開クエリで照合",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazonは新しいBrand Storeページの手前に、6つのスタータープロンプトを備えたAIエージェントを置く。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "AmazonのStore builderでAdd pageをクリックすると、Brand Store Builder Agentを備えた新しいウィンドウが開くようになった。ブランドは用意された6つのプロンプトから選ぶか、独自の指示を書く。Brand Registryのステータスは「Approved」である必要がある。"
+                "x": "ChatGPTの広告システムが2月に始まって以来、広告バイヤーはその仕組みをもっと知りたいと求めてきた。幹部は少しずつ詳細を明かしている。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはどの言語でもチャットできるが、Storeのコンテンツはマーケットプレイスの主要言語で生成される。フランス語のチャットでU.S. Storeを作ると、出力は英語になる。Amazonのヘルプページは、エージェントが出力をStoresのコンテンツポリシーと照合しているかどうかを明らかにしていない。"
+                "x": "OpenAIは自社のAIエージェントが書いた検索クエリにChatGPT広告を照合していると、同AIラボの広告システムを率いる幹部三人がADWEEKに語った。"
               },
               {
                 "t": "p",
-                "x": "ブランドは「Add page without AI Assistance」リンクからエージェントを省き、手動テンプレートを使うこともできる。テンプレートはMarquee、Product highlight、Product grid（4から60製品）、Blankである。1ページには最大20セクションを置ける。審査は「通常24時間以内に完了する」が、最大3営業日かかる場合もある。"
+                "x": "ユーザーがChatGPTにプロンプトを書くと、OpenAIが「オーケストレーター（orchestrator）」と呼ぶAIエージェントが会話を読み、その人が何を買いたいと考えているかを推測する。ユーザーの広告パーソナライズ設定が許せば、過去のチャットも参照できる。続いて独自の検索クエリを書き、システム内で見つけた広告を順位付けし、有力な候補をオークションに送る。オークションでは、広告主の入札額と、各広告がユーザーにとってどれだけ役立ちそうかを比べて判断する。"
               },
               {
                 "t": "p",
-                "x": "これとは別に、Classic、Elegant、ImpactのテーマではAll Dealsタブが初期設定で有効になっている。Amazonが選んで並べた最大30のセール対象製品を表示し、Amazonが「All Dealsページを作成・更新する」。ブランドはStore Settingsでオフにするか、自前のセールページに置き換えられる。"
+                "x": "広告主は、何がきっかけで自社の広告が表示されたのかを知ることができない。受け取るのはプロンプト単位のデータではなく、ChatGPT広告の成果に関する集計レポートだけで、多くの広告主はこのプラットフォームをテスト予算として扱っている。バイヤーはChatGPT広告のCTRがGoogleを下回ることを確認しており、OpenAIの年換算広告売上$1 billion は、すでに現在の規模に比べ「はるかに小さな規模」だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon Brand\nStore首页交给AI",
-          "body": "Amazon Brand Store新页面现在以AI智能体开场，附六个起始提示。",
-          "mini_headline": "Amazon Brand Stores转向agent-first",
+          "headline": "ChatGPT广告智能体\n撰写广告主看不到的查询",
+          "body": "OpenAI称，内部智能体根据聊天记录撰写广告匹配查询，广告主无法看到。",
+          "mini_headline": "ChatGPT广告使用隐藏查询",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazon在新的Brand Store页面前放置了一个带6个起始提示的AI智能体。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "在Amazon的Store builder中点击Add page，现在会打开一个带有Brand Store Builder Agent的新窗口。品牌可从6个预设提示中选择，也可自行撰写指令；Brand Registry状态必须为“Approved”。"
+                "x": "自ChatGPT广告系统2月上线以来，广告买家一直迫切希望进一步了解它。高管们正逐步透露更多信息。"
               },
               {
                 "t": "p",
-                "x": "用户可以用任何语言对话，但Store内容会以该站点的主要语言生成——用法语对话搭建U.S. Store，产出的是英文。Amazon的帮助页面没有说明智能体是否会对照Stores内容政策检查其输出。"
+                "x": "负责这家AI实验室广告系统的三位高管向ADWEEK表示，OpenAI会将ChatGPT广告与其自有AI智能体撰写的搜索查询进行匹配。"
               },
               {
                 "t": "p",
-                "x": "品牌可通过“Add page without AI Assistance”链接跳过智能体，改用手动模板：Marquee、Product highlight、Product grid（4至60个产品）和Blank。一个页面最多可容纳20个版块。审核“通常在24小时内完成”，但最长可能延至3个工作日。"
+                "x": "当用户在ChatGPT中输入提示词时，一个被OpenAI称为“编排器”（orchestrator）的AI智能体会读取对话，判断此人可能想买什么。在用户的广告个性化设置允许时，它还可以参考用户以往的聊天记录。随后，它自行撰写搜索查询，对系统中找到的广告进行排序，并将最佳候选送入竞价；竞价会权衡广告主的出价与每条广告对用户可能的有用程度。"
               },
               {
                 "t": "p",
-                "x": "此外，Classic、Elegant和Impact主题默认开启All Deals标签页：它最多展示30个有优惠的产品，由Amazon挑选和排序，Amazon会“为你创建并更新All Deals页面”。品牌可在Store Settings中关闭该标签页，或替换为自己的优惠页面。"
+                "x": "广告主无法看到是什么触发了自己的广告展示：他们只能收到ChatGPT广告表现的汇总报告，而非提示词级别的数据，因此许多广告主把该平台当作测试预算。买家发现ChatGPT广告的CTR落后于Google，而OpenAI $1 billion 的年化广告收入规模，已经比它现在的体量“小得多”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon abre sus nuevas páginas\nde Brand Store con un agente AI",
-          "body": "Las nuevas páginas de Amazon Brand Store empiezan con un agente de AI que ofrece seis prompts iniciales.",
-          "mini_headline": "Amazon Brand Stores, en modo agent-first",
+          "headline": "El agente de ChatGPT escribe\nconsultas ocultas a anunciantes",
+          "body": "OpenAI dice que un agente interno crea consultas publicitarias desde el historial de chat que los anunciantes no ven.",
+          "mini_headline": "Los anuncios de ChatGPT usan consultas ocultas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazon coloca un agente de AI con 6 prompts iniciales al frente de las nuevas páginas de Brand Store."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Al hacer clic en Add page en el Store builder de Amazon, ahora se abre una nueva ventana con el Brand Store Builder Agent. Las marcas eligen entre 6 prompts predefinidos o escriben sus propias instrucciones; el estado de Brand Registry debe ser \"Approved\"."
+                "x": "Los compradores de medios llevan tiempo pidiendo entender mejor el sistema de anuncios de ChatGPT desde su lanzamiento en febrero. Los directivos han ido revelando más detalles poco a poco."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden chatear en cualquier idioma, pero el contenido de la Store se genera en el idioma principal del marketplace: un chat en francés para crear una Store de U.S. da como resultado inglés. Las páginas de ayuda de Amazon no indican si el agente verifica su resultado frente a las políticas de contenido de Stores."
+                "x": "OpenAI empareja los anuncios de ChatGPT con consultas de búsqueda redactadas por su propio agente de AI, según dijeron a ADWEEK tres directivos que dirigen el sistema publicitario del laboratorio de AI."
               },
               {
                 "t": "p",
-                "x": "Las marcas pueden omitir el agente mediante el enlace \"Add page without AI Assistance\" y usar las plantillas manuales: Marquee, Product highlight, Product grid (de 4 a 60 productos) y Blank. Una página admite hasta 20 secciones. La moderación \"normalmente se completa en 24 horas\", pero puede extenderse hasta 3 días hábiles."
+                "x": "Cuando un usuario escribe un prompt en ChatGPT, un agente de AI que OpenAI llama orquestador (orchestrator) lee la conversación y deduce qué podría querer comprar esa persona. También puede recurrir a chats anteriores del usuario si su configuración de personalización de anuncios lo permite. Después redacta sus propias consultas de búsqueda, clasifica los anuncios que encuentra en su sistema y envía los mejores candidatos a una subasta que sopesa las pujas de los anunciantes frente a la utilidad probable de cada anuncio para el usuario."
               },
               {
                 "t": "p",
-                "x": "Por otra parte, la pestaña All Deals está activada por defecto en los temas Classic, Elegant e Impact: muestra hasta 30 productos con ofertas, elegidos y ordenados por Amazon, que \"crea y actualiza la página All Deals por usted\". Las marcas pueden desactivarla en Store Settings o reemplazarla por su propia página de ofertas."
+                "x": "Los anunciantes no pueden ver qué provocó la aparición de sus anuncios: solo reciben informes agregados sobre el rendimiento de los anuncios en ChatGPT, no datos a nivel de prompt, por lo que muchos tratan la plataforma como gasto de prueba. Los compradores han comprobado que el CTR de los anuncios de ChatGPT está por debajo del de Google, y la tasa anualizada de ingresos publicitarios de OpenAI, de $1 billion (mil millones de dólares), ya es \"una huella mucho menor\" que la que tiene ahora."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon Brand\nStore 첫 화면에 AI",
-          "body": "Amazon Brand Store 새 페이지는 이제 AI 에이전트가 연다.",
-          "mini_headline": "Amazon Brand Stores, agent-first로",
+          "headline": "ChatGPT 광고 AI가\n광고주 못 보는 쿼리 작성",
+          "body": "OpenAI 내부 에이전트가 대화 기록으로 쓴 광고 쿼리는 광고주가 볼 수 없다.",
+          "mini_headline": "ChatGPT 광고, 숨은 쿼리로 매칭",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazon은 새 Brand Store 페이지 앞에 예시 프롬프트 6개를 갖춘 AI 에이전트를 둔다."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Amazon Store builder에서 Add page를 누르면 이제 Brand Store Builder Agent가 있는 새 창이 열린다. 브랜드는 미리 작성된 프롬프트 6개 중 하나를 고르거나 직접 지시를 쓸 수 있으며, Brand Registry 상태는 \"Approved\"여야 한다."
+                "x": "광고 구매자들은 ChatGPT 광고 시스템이 2월 출시된 이후 그 구조를 더 알고 싶다고 거듭 요구해 왔다. 경영진은 조금씩 더 많은 내용을 공개하고 있다."
               },
               {
                 "t": "p",
-                "x": "사용자는 어떤 언어로든 대화할 수 있지만 Store 콘텐츠는 해당 마켓플레이스의 기본 언어로 생성된다. 프랑스어로 대화하며 U.S. Store를 만들면 결과물은 영어로 나온다. Amazon 도움말 페이지는 에이전트가 결과물을 Stores 콘텐츠 정책에 비추어 점검하는지 밝히지 않는다."
+                "x": "OpenAI는 자체 AI 에이전트가 작성한 검색 쿼리에 맞춰 ChatGPT 광고를 연결한다고, 이 AI 연구소의 광고 시스템을 이끄는 경영진 세 명이 ADWEEK에 밝혔다."
               },
               {
                 "t": "p",
-                "x": "브랜드는 \"Add page without AI Assistance\" 링크로 에이전트를 건너뛰고 수동 템플릿을 쓸 수 있다. 템플릿은 Marquee, Product highlight, Product grid(제품 4개에서 60개까지), Blank다. 한 페이지에는 섹션을 최대 20개까지 넣을 수 있다. 심사는 \"보통 24시간 안에 끝나지만\" 영업일 기준 최대 3일까지 걸릴 수 있다."
+                "x": "사용자가 ChatGPT에 프롬프트를 입력하면 OpenAI가 오케스트레이터(orchestrator)라 부르는 AI 에이전트가 대화를 읽고 그 사람이 무엇을 사고 싶어 할지 파악한다. 사용자의 광고 개인화 설정이 허용하면 이전 대화도 참고할 수 있다. 이어 자체 검색 쿼리를 작성하고, 시스템에서 찾은 광고의 순위를 매긴 뒤, 가장 적합한 후보를 경매에 보낸다. 경매는 광고주의 입찰가와 각 광고가 사용자에게 얼마나 유용할지를 함께 따진다."
               },
               {
                 "t": "p",
-                "x": "이와 별도로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 이 탭은 할인 중인 제품을 최대 30개까지 보여주며, 제품 선정과 순서는 Amazon이 정한다. Amazon이 \"All Deals 페이지를 대신 만들고 업데이트한다\". 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
+                "x": "광고주는 무엇 때문에 자신의 광고가 노출됐는지 알 수 없다. 프롬프트 단위 데이터가 아니라 ChatGPT 광고 성과에 대한 집계 보고만 받기 때문에 많은 광고주가 이 플랫폼을 테스트 예산으로 다룬다. 구매자들은 ChatGPT 광고의 CTR이 Google보다 낮다는 점을 확인했고, OpenAI의 연환산 광고 매출 $1 billion 은 이미 지금 보유한 것에 비하면 \"훨씬 작은 규모\"다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon Brand\nStoreの入口にAI",
-          "body": "Amazon Brand Storeの新ページは、AIエージェントで始まる。",
-          "mini_headline": "Amazon Brand Stores、agent-firstへ",
+          "headline": "ChatGPTの広告AIが\n広告主に見えない検索語を書く",
+          "body": "OpenAIによると、社内エージェントが会話履歴から広告クエリを作り、広告主には見えない。",
+          "mini_headline": "ChatGPT広告は非公開クエリで照合",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazonは新しいBrand Storeページの手前に、6つのスタータープロンプトを備えたAIエージェントを置く。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "AmazonのStore builderでAdd pageをクリックすると、Brand Store Builder Agentを備えた新しいウィンドウが開くようになった。ブランドは用意された6つのプロンプトから選ぶか、独自の指示を書く。Brand Registryのステータスは「Approved」である必要がある。"
+                "x": "ChatGPTの広告システムが2月に始まって以来、広告バイヤーはその仕組みをもっと知りたいと求めてきた。幹部は少しずつ詳細を明かしている。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはどの言語でもチャットできるが、Storeのコンテンツはマーケットプレイスの主要言語で生成される。フランス語のチャットでU.S. Storeを作ると、出力は英語になる。Amazonのヘルプページは、エージェントが出力をStoresのコンテンツポリシーと照合しているかどうかを明らかにしていない。"
+                "x": "OpenAIは自社のAIエージェントが書いた検索クエリにChatGPT広告を照合していると、同AIラボの広告システムを率いる幹部三人がADWEEKに語った。"
               },
               {
                 "t": "p",
-                "x": "ブランドは「Add page without AI Assistance」リンクからエージェントを省き、手動テンプレートを使うこともできる。テンプレートはMarquee、Product highlight、Product grid（4から60製品）、Blankである。1ページには最大20セクションを置ける。審査は「通常24時間以内に完了する」が、最大3営業日かかる場合もある。"
+                "x": "ユーザーがChatGPTにプロンプトを書くと、OpenAIが「オーケストレーター（orchestrator）」と呼ぶAIエージェントが会話を読み、その人が何を買いたいと考えているかを推測する。ユーザーの広告パーソナライズ設定が許せば、過去のチャットも参照できる。続いて独自の検索クエリを書き、システム内で見つけた広告を順位付けし、有力な候補をオークションに送る。オークションでは、広告主の入札額と、各広告がユーザーにとってどれだけ役立ちそうかを比べて判断する。"
               },
               {
                 "t": "p",
-                "x": "これとは別に、Classic、Elegant、ImpactのテーマではAll Dealsタブが初期設定で有効になっている。Amazonが選んで並べた最大30のセール対象製品を表示し、Amazonが「All Dealsページを作成・更新する」。ブランドはStore Settingsでオフにするか、自前のセールページに置き換えられる。"
+                "x": "広告主は、何がきっかけで自社の広告が表示されたのかを知ることができない。受け取るのはプロンプト単位のデータではなく、ChatGPT広告の成果に関する集計レポートだけで、多くの広告主はこのプラットフォームをテスト予算として扱っている。バイヤーはChatGPT広告のCTRがGoogleを下回ることを確認しており、OpenAIの年換算広告売上$1 billion は、すでに現在の規模に比べ「はるかに小さな規模」だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon Brand\nStore首页交给AI",
-          "body": "Amazon Brand Store新页面现在以AI智能体开场，附六个起始提示。",
-          "mini_headline": "Amazon Brand Stores转向agent-first",
+          "headline": "ChatGPT广告智能体\n撰写广告主看不到的查询",
+          "body": "OpenAI称，内部智能体根据聊天记录撰写广告匹配查询，广告主无法看到。",
+          "mini_headline": "ChatGPT广告使用隐藏查询",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazon在新的Brand Store页面前放置了一个带6个起始提示的AI智能体。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "在Amazon的Store builder中点击Add page，现在会打开一个带有Brand Store Builder Agent的新窗口。品牌可从6个预设提示中选择，也可自行撰写指令；Brand Registry状态必须为“Approved”。"
+                "x": "自ChatGPT广告系统2月上线以来，广告买家一直迫切希望进一步了解它。高管们正逐步透露更多信息。"
               },
               {
                 "t": "p",
-                "x": "用户可以用任何语言对话，但Store内容会以该站点的主要语言生成——用法语对话搭建U.S. Store，产出的是英文。Amazon的帮助页面没有说明智能体是否会对照Stores内容政策检查其输出。"
+                "x": "负责这家AI实验室广告系统的三位高管向ADWEEK表示，OpenAI会将ChatGPT广告与其自有AI智能体撰写的搜索查询进行匹配。"
               },
               {
                 "t": "p",
-                "x": "品牌可通过“Add page without AI Assistance”链接跳过智能体，改用手动模板：Marquee、Product highlight、Product grid（4至60个产品）和Blank。一个页面最多可容纳20个版块。审核“通常在24小时内完成”，但最长可能延至3个工作日。"
+                "x": "当用户在ChatGPT中输入提示词时，一个被OpenAI称为“编排器”（orchestrator）的AI智能体会读取对话，判断此人可能想买什么。在用户的广告个性化设置允许时，它还可以参考用户以往的聊天记录。随后，它自行撰写搜索查询，对系统中找到的广告进行排序，并将最佳候选送入竞价；竞价会权衡广告主的出价与每条广告对用户可能的有用程度。"
               },
               {
                 "t": "p",
-                "x": "此外，Classic、Elegant和Impact主题默认开启All Deals标签页：它最多展示30个有优惠的产品，由Amazon挑选和排序，Amazon会“为你创建并更新All Deals页面”。品牌可在Store Settings中关闭该标签页，或替换为自己的优惠页面。"
+                "x": "广告主无法看到是什么触发了自己的广告展示：他们只能收到ChatGPT广告表现的汇总报告，而非提示词级别的数据，因此许多广告主把该平台当作测试预算。买家发现ChatGPT广告的CTR落后于Google，而OpenAI $1 billion 的年化广告收入规模，已经比它现在的体量“小得多”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon abre sus nuevas páginas\nde Brand Store con un agente AI",
-          "body": "Las nuevas páginas de Amazon Brand Store empiezan con un agente de AI que ofrece seis prompts iniciales.",
-          "mini_headline": "Amazon Brand Stores, en modo agent-first",
+          "headline": "El agente de ChatGPT escribe\nconsultas ocultas a anunciantes",
+          "body": "OpenAI dice que un agente interno crea consultas publicitarias desde el historial de chat que los anunciantes no ven.",
+          "mini_headline": "Los anuncios de ChatGPT usan consultas ocultas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-brand-store-builder-agent-ai-pages-window-dresser-six-cards-side-door-templates.jpg",
-                "cap": "Amazon coloca un agente de AI con 6 prompts iniciales al frente de las nuevas páginas de Brand Store."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+                "cap": "Picture Alliance via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Al hacer clic en Add page en el Store builder de Amazon, ahora se abre una nueva ventana con el Brand Store Builder Agent. Las marcas eligen entre 6 prompts predefinidos o escriben sus propias instrucciones; el estado de Brand Registry debe ser \"Approved\"."
+                "x": "Los compradores de medios llevan tiempo pidiendo entender mejor el sistema de anuncios de ChatGPT desde su lanzamiento en febrero. Los directivos han ido revelando más detalles poco a poco."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden chatear en cualquier idioma, pero el contenido de la Store se genera en el idioma principal del marketplace: un chat en francés para crear una Store de U.S. da como resultado inglés. Las páginas de ayuda de Amazon no indican si el agente verifica su resultado frente a las políticas de contenido de Stores."
+                "x": "OpenAI empareja los anuncios de ChatGPT con consultas de búsqueda redactadas por su propio agente de AI, según dijeron a ADWEEK tres directivos que dirigen el sistema publicitario del laboratorio de AI."
               },
               {
                 "t": "p",
-                "x": "Las marcas pueden omitir el agente mediante el enlace \"Add page without AI Assistance\" y usar las plantillas manuales: Marquee, Product highlight, Product grid (de 4 a 60 productos) y Blank. Una página admite hasta 20 secciones. La moderación \"normalmente se completa en 24 horas\", pero puede extenderse hasta 3 días hábiles."
+                "x": "Cuando un usuario escribe un prompt en ChatGPT, un agente de AI que OpenAI llama orquestador (orchestrator) lee la conversación y deduce qué podría querer comprar esa persona. También puede recurrir a chats anteriores del usuario si su configuración de personalización de anuncios lo permite. Después redacta sus propias consultas de búsqueda, clasifica los anuncios que encuentra en su sistema y envía los mejores candidatos a una subasta que sopesa las pujas de los anunciantes frente a la utilidad probable de cada anuncio para el usuario."
               },
               {
                 "t": "p",
-                "x": "Por otra parte, la pestaña All Deals está activada por defecto en los temas Classic, Elegant e Impact: muestra hasta 30 productos con ofertas, elegidos y ordenados por Amazon, que \"crea y actualiza la página All Deals por usted\". Las marcas pueden desactivarla en Store Settings o reemplazarla por su propia página de ofertas."
+                "x": "Los anunciantes no pueden ver qué provocó la aparición de sus anuncios: solo reciben informes agregados sobre el rendimiento de los anuncios en ChatGPT, no datos a nivel de prompt, por lo que muchos tratan la plataforma como gasto de prueba. Los compradores han comprobado que el CTR de los anuncios de ChatGPT está por debajo del de Google, y la tasa anualizada de ingresos publicitarios de OpenAI, de $1 billion (mil millones de dólares), ya es \"una huella mucho menor\" que la que tiene ahora."
               }
             ]
           }
@@ -325,15 +325,15 @@
       }
     },
     {
-      "id": "aws-quick-meta-ads-mcp",
+      "id": "higgsfield-playable-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta 광고, MCP로\nAWS Quick 입성",
-      "body": "AWS Quick이 Meta 광고 MCP 서버에 붙어 캠페인을 자연어로 다룬다.",
-      "mini_headline": "AWS Quick에 들어온 Meta 광고",
+      "headline": "Higgsfield가 낸\nAI-built 게임 광고",
+      "body": "Higgsfield의 기업용 Playable Ads는 AI로 체험형 광고를 만든다.",
+      "mini_headline": "Higgsfield의 AI 플레이어블 광고",
       "tool": "Marketing",
-      "source": "AWS Machine Learning Blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/higgsfield-launches-playable-game-ads-built-with-ai/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,197 +341,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
           },
           {
             "t": "p",
-            "x": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 들어왔다. Quick은 이 커넥터로 광고용 Model Context Protocol(MCP) 서버 작업에 접근한다. Meta 광고 고객은 Meta 광고 관리 네트워크에 연결된 채로 Quick 안에서 자연어로 캠페인을 만들고 관리하고 분석한다."
-          },
-          {
-            "t": "p",
-            "x": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 묶어 대시보드, 문서, 슬라이드 덱, 자동화 워크플로까지 만든다."
+            "x": "Higgsfield가 AI로 인터랙티브 광고를 만드는 기업 전용 워크플로 playable ads를 새로 내놨다. 개발자가 게임 메커닉을 설명하고 장르와 화면 규격을 고른 다음 크리에이티브 에셋(스프라이트, 텍스처, 효과음 등 최대 100개)을 넣으면 수동 또는 자동 모드로 플레이할 수 있는 경험이 만들어진다."
           },
           {
             "t": "video",
-            "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+            "yt": "PG0UVcWVNl0"
           },
           {
             "t": "p",
-            "x": "영상에는 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 다음, Quick이 접근할 Pages, Businesses, Instagram 계정을 고르는 과정이 나온다. 한 프롬프트는 지난 캠페인 성과로 여덟 장짜리 출시 계획 슬라이드를 만들고, 또 다른 프롬프트는 두 광고 세트의 지출, 리드, 리드당 비용을 비교하는 대시보드를 짠다."
+            "x": "완성본은 최대 5 MB 크기의 단일 .html 파일로 내보내 AppLovin, Meta, Google App Campaigns, Unity Ads, Pangle(TikTok) 같은 네트워크에 올릴 수 있다. Higgsfield 기술 스태프 Zhangir Yergaliyev는 \"편집할 수 있고, 에이전트에게 게임의 어떤 부분이든 바꿔 달라고 요청할 수 있다. 퍼포먼스 마케팅에서는 게임 변형 수백 개를 쉽게 테스트할 수 있다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "쓰임새는 캠페인 기획·집행과 크리에이티브 피로도 감지에서 전환 리프트 연구, 카탈로그 수정, 재고·마진에 맞춘 지출 조정까지 넓다. 캠페인 생성이나 예산 변경 같은 쓰기 작업은 실행 전에 Quick이 사용자 허가를 받는다."
+            "x": "스튜디오들이 복제와 법적 문제를 걱정하자 Higgsfield는 App Store와 Google Play 링크를 가져오는 기능을 뺐다. 회사 설명으로는 플레이어블 광고 하나를 손으로 만들면 평균 닷새, 약 $5,000가 들었다. 이 도구로는 첫 버전까지 약 40분이 걸리고 비용은 광고당 $30에서 $40 수준으로 추산된다. 플레이어블 광고 팀은 10명이 채 안 되며 첫 버전을 두 주 만에 만들었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta ads arrive in AWS Quick\nvia Meta's ads MCP server",
-          "body": "AWS Quick now links to Meta's ads MCP server, so advertisers can run and analyze Meta campaigns in plain language.",
-          "mini_headline": "Meta ads land in AWS Quick",
+          "headline": "Higgsfield launches AI-built\nplayable game ads",
+          "body": "Higgsfield's enterprise-only Playable Ads workflow uses AI to generate interactive playable ad units.",
+          "mini_headline": "Higgsfield's AI playable ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "Today, AWS Quick added a Meta ads AI connector. The connector gives Quick access to ads Model Context Protocol (MCP) server operations. Meta ads customers can use natural language to create, manage, and analyze campaigns within Quick, while staying connected to the Meta ad management network."
-              },
-              {
-                "t": "p",
-                "x": "Quick can also combine Meta ad management data with first- and third-party data sources to create dashboards, documents, slide decks, and automated workflows."
+                "x": "Higgsfield has launched playable ads, a new enterprise-only workflow for creating interactive ads with AI. Developers describe a game mechanic, choose a genre and dimension, add creative assets (up to 100, including sprites, textures and sound effects) and generate a playable experience in manual or auto mode."
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "The video shows how to install the connector from Customize > Connectors, sign in with Facebook, and choose which Pages, Businesses, and Instagram accounts Quick can access. One prompt turns past campaign results into an eight-slide launch-plan deck; another builds a dashboard comparing spend, leads, and cost per lead for two ad sets."
+                "x": "The finished ad exports as a single .html file up to 5 MB for networks such as AppLovin, Meta, Google App Campaigns, Unity Ads and Pangle (TikTok). \"You can edit and ask an agent to change anything about the game. With performance marketing, it becomes easy to test hundreds of variants of the game,\" said Zhangir Yergaliyev, member of technical staff at Higgsfield."
               },
               {
                 "t": "p",
-                "x": "Use cases range from planning and launching campaigns and flagging creative fatigue to conversion lift studies, catalog fixes and aligning spend with stock and margin. Before Quick creates a campaign, changes a budget, or runs another write action, it asks for your permission."
+                "x": "Higgsfield removed App Store and Google Play link import after studios raised copying and legal concerns. The company reported a manual process averaging five days and about $5,000 per playable ad; its tool takes about 40 minutes for a first version, at an estimated $30 to $40 per ad. The playable-ad team has fewer than 10 people and built the first version in two weeks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta 광고, MCP로\nAWS Quick 입성",
-          "body": "AWS Quick이 Meta 광고 MCP 서버에 붙어 캠페인을 자연어로 다룬다.",
-          "mini_headline": "AWS Quick에 들어온 Meta 광고",
+          "headline": "Higgsfield가 낸\nAI-built 게임 광고",
+          "body": "Higgsfield의 기업용 Playable Ads는 AI로 체험형 광고를 만든다.",
+          "mini_headline": "Higgsfield의 AI 플레이어블 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 들어왔다. Quick은 이 커넥터로 광고용 Model Context Protocol(MCP) 서버 작업에 접근한다. Meta 광고 고객은 Meta 광고 관리 네트워크에 연결된 채로 Quick 안에서 자연어로 캠페인을 만들고 관리하고 분석한다."
-              },
-              {
-                "t": "p",
-                "x": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 묶어 대시보드, 문서, 슬라이드 덱, 자동화 워크플로까지 만든다."
+                "x": "Higgsfield가 AI로 인터랙티브 광고를 만드는 기업 전용 워크플로 playable ads를 새로 내놨다. 개발자가 게임 메커닉을 설명하고 장르와 화면 규격을 고른 다음 크리에이티브 에셋(스프라이트, 텍스처, 효과음 등 최대 100개)을 넣으면 수동 또는 자동 모드로 플레이할 수 있는 경험이 만들어진다."
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "영상에는 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 다음, Quick이 접근할 Pages, Businesses, Instagram 계정을 고르는 과정이 나온다. 한 프롬프트는 지난 캠페인 성과로 여덟 장짜리 출시 계획 슬라이드를 만들고, 또 다른 프롬프트는 두 광고 세트의 지출, 리드, 리드당 비용을 비교하는 대시보드를 짠다."
+                "x": "완성본은 최대 5 MB 크기의 단일 .html 파일로 내보내 AppLovin, Meta, Google App Campaigns, Unity Ads, Pangle(TikTok) 같은 네트워크에 올릴 수 있다. Higgsfield 기술 스태프 Zhangir Yergaliyev는 \"편집할 수 있고, 에이전트에게 게임의 어떤 부분이든 바꿔 달라고 요청할 수 있다. 퍼포먼스 마케팅에서는 게임 변형 수백 개를 쉽게 테스트할 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "쓰임새는 캠페인 기획·집행과 크리에이티브 피로도 감지에서 전환 리프트 연구, 카탈로그 수정, 재고·마진에 맞춘 지출 조정까지 넓다. 캠페인 생성이나 예산 변경 같은 쓰기 작업은 실행 전에 Quick이 사용자 허가를 받는다."
+                "x": "스튜디오들이 복제와 법적 문제를 걱정하자 Higgsfield는 App Store와 Google Play 링크를 가져오는 기능을 뺐다. 회사 설명으로는 플레이어블 광고 하나를 손으로 만들면 평균 닷새, 약 $5,000가 들었다. 이 도구로는 첫 버전까지 약 40분이 걸리고 비용은 광고당 $30에서 $40 수준으로 추산된다. 플레이어블 광고 팀은 10명이 채 안 되며 첫 버전을 두 주 만에 만들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta広告、MCPで\nAWS Quickに参入",
-          "body": "AWS QuickがMetaの広告MCPサーバーとつながり、広告を自然言語で運用できる。",
-          "mini_headline": "Meta広告がAWS Quickに",
+          "headline": "Higgsfieldが投入\nAI-built ゲーム広告",
+          "body": "Higgsfieldの企業向けPlayable AdsはAIで体験型広告を生成する。",
+          "mini_headline": "HiggsfieldのAIプレイアブル広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quickは本日、Meta広告のAIコネクターを追加した。このコネクターによりQuickは広告向けModel Context Protocol（MCP）サーバーの操作にアクセスできる。Meta広告の顧客は、Metaの広告管理ネットワークとの接続を保ったまま、Quick内で自然言語を使ってキャンペーンの作成・管理・分析ができる。"
-              },
-              {
-                "t": "p",
-                "x": "QuickはMetaの広告管理データをファーストパーティやサードパーティのデータソースと組み合わせ、ダッシュボード、文書、スライド資料、自動化ワークフローを作ることもできる。"
+                "x": "Higgsfieldは、AIでインタラクティブ広告を作る企業向けの新ワークフロー「playable ads」を公開した。開発者はゲームのメカニクスを説明し、ジャンルとサイズを選び、クリエイティブ素材（スプライト、テクスチャ、効果音など最大100点）を追加して、手動または自動モードでプレイ可能な体験を生成する。"
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "動画では、Customize > Connectorsからコネクターをインストールし、Facebookでサインインして、QuickがアクセスできるPages、Businesses、Instagramアカウントを選ぶ手順を示している。あるプロンプトは過去のキャンペーン実績を八枚構成のローンチ計画スライドに変え、別のプロンプトは二つの広告セットの支出、リード、リード単価を比べるダッシュボードを作る。"
+                "x": "完成した広告は最大5 MBの単一の.htmlファイルとして書き出され、AppLovin、Meta、Google App Campaigns、Unity Ads、Pangle（TikTok）などのネットワークで使える。Higgsfieldの技術スタッフ、Zhangir Yergaliyev氏は「編集でき、エージェントにゲームのどんな点でも変更を頼める。パフォーマンスマーケティングでは、ゲームのバリエーションを何百通りも簡単にテストできる」と語った。"
               },
               {
                 "t": "p",
-                "x": "用途は、キャンペーンの計画と開始、クリエイティブ疲れの検知から、コンバージョンリフト調査、カタログ修正、在庫や利益率に合わせた支出調整まで幅広い。Quickはキャンペーンの作成や予算の変更などの書き込み操作を行う前に、ユーザーの許可を求める。"
+                "x": "Higgsfieldは、スタジオから模倣や法的な懸念が出たことを受け、App StoreとGoogle Playのリンク取り込み機能を削除した。同社によると、手作業ではプレイアブル広告ごとに平均五日、約$5,000かかっていた。同社のツールでは初版の作成に約40分、費用は広告ごとに推定$30〜$40だ。プレイアブル広告チームは10人未満で、二週間で初版を作り上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta广告经MCP\n进入AWS Quick",
-          "body": "AWS Quick接入Meta广告MCP服务器，广告主可用自然语言运营和分析广告活动。",
-          "mini_headline": "Meta广告登陆AWS Quick",
+          "headline": "Higgsfield推出\nAI-built试玩广告",
+          "body": "Higgsfield面向企业的Playable Ads工作流用AI生成可互动的试玩广告。",
+          "mini_headline": "Higgsfield的AI试玩广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quick今天新增了Meta广告AI连接器。该连接器让Quick能够调用广告Model Context Protocol（MCP）服务器的操作。Meta广告客户可以在保持与Meta广告管理网络连接的同时，在Quick中用自然语言创建、管理和分析广告活动。"
-              },
-              {
-                "t": "p",
-                "x": "Quick还能将Meta广告管理数据与第一方和第三方数据源结合，生成仪表板、文档、幻灯片和自动化工作流。"
+                "x": "Higgsfield推出了playable ads，这是一项仅面向企业的新工作流，用AI制作互动广告。开发者描述游戏机制，选择类型和尺寸，添加创意素材（最多100个，包括精灵图、纹理和音效），即可以手动或自动模式生成可玩的体验。"
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "视频展示了如何在Customize > Connectors中安装连接器、使用Facebook登录，并选择Quick可访问的Pages、Businesses和Instagram账户。一条提示词把过往广告活动结果变成八页的发布计划幻灯片；另一条则生成仪表板，比较两个广告组的花费、潜在客户和单个潜在客户成本。"
+                "x": "成品广告可导出为最大5 MB的单个.html文件，用于AppLovin、Meta、Google App Campaigns、Unity Ads和Pangle（TikTok）等广告网络。Higgsfield技术人员Zhangir Yergaliyev表示：“你可以编辑，并让智能体修改游戏的任何内容。在效果营销中，测试数百种游戏变体变得很容易。”"
               },
               {
                 "t": "p",
-                "x": "使用场景涵盖规划和启动广告活动、标记创意疲劳，以及转化提升研究、目录修正和按库存与利润率调整花费。在Quick创建广告活动、更改预算或执行其他写入操作之前，它会征求你的许可。"
+                "x": "在工作室提出抄袭和法律方面的担忧后，Higgsfield移除了App Store和Google Play链接导入功能。该公司称，人工制作每个试玩广告平均需要五天、约$5,000；其工具制作第一版约需40分钟，每个广告成本估计为$30至$40。试玩广告团队不到10人，用两周时间做出了第一版。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los anuncios de Meta llegan a\nAWS Quick con su servidor MCP",
-          "body": "AWS Quick ya se conecta al servidor MCP de anuncios de Meta, para gestionar campañas de Meta en lenguaje natural.",
-          "mini_headline": "Los anuncios de Meta llegan a AWS Quick",
+          "headline": "Higgsfield lanza anuncios\njugables AI-built para juegos",
+          "body": "El flujo Playable Ads de Higgsfield, solo para empresas, usa AI para generar anuncios jugables interactivos.",
+          "mini_headline": "Anuncios jugables con AI de Higgsfield",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quick añadió hoy un conector de AI para los anuncios de Meta. El conector da a Quick acceso a las operaciones del servidor Model Context Protocol (MCP) de anuncios. Los clientes de anuncios de Meta pueden usar lenguaje natural para crear, gestionar y analizar campañas dentro de Quick, sin dejar de estar conectados a la red de gestión de anuncios de Meta."
-              },
-              {
-                "t": "p",
-                "x": "Quick también puede combinar los datos de gestión de anuncios de Meta con fuentes de datos propias y de terceros para crear paneles, documentos, presentaciones y flujos de trabajo automatizados."
+                "x": "Higgsfield ha lanzado playable ads, un nuevo flujo de trabajo exclusivo para empresas que crea anuncios interactivos con AI. Los desarrolladores describen una mecánica de juego, eligen un género y unas dimensiones, añaden recursos creativos (hasta 100, entre ellos sprites, texturas y efectos de sonido) y generan una experiencia jugable en modo manual o automático."
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "El video muestra cómo instalar el conector desde Customize > Connectors, iniciar sesión con Facebook y elegir a qué Pages, Businesses y cuentas de Instagram puede acceder Quick. Un prompt convierte los resultados de campañas anteriores en una presentación de ocho diapositivas con el plan de lanzamiento; otro crea un panel que compara gasto, leads y costo por lead de dos conjuntos de anuncios."
+                "x": "El anuncio terminado se exporta como un único archivo .html de hasta 5 MB para redes como AppLovin, Meta, Google App Campaigns, Unity Ads y Pangle (TikTok). \"Puedes editarlo y pedirle a un agente que cambie cualquier cosa del juego. Con el marketing de resultados, resulta fácil probar cientos de variantes del juego\", dijo Zhangir Yergaliyev, miembro del personal técnico de Higgsfield."
               },
               {
                 "t": "p",
-                "x": "Los casos de uso van desde planificar y lanzar campañas y detectar el desgaste creativo hasta estudios de incremento de conversiones, correcciones de catálogo y ajustar el gasto al inventario y al margen. Antes de que Quick cree una campaña, cambie un presupuesto o ejecute otra acción de escritura, pide permiso."
+                "x": "Higgsfield eliminó la importación de enlaces de App Store y Google Play después de que los estudios plantearan preocupaciones sobre copias y cuestiones legales. La empresa informó de que el proceso manual tarda de media cinco días y cuesta unos $5,000 por anuncio jugable; su herramienta tarda unos 40 minutos en una primera versión, con un coste estimado de $30 a $40 por anuncio. El equipo de anuncios jugables tiene menos de 10 personas y creó la primera versión en dos semanas."
               }
             ]
           }
@@ -539,137 +515,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta 광고, MCP로\nAWS Quick 입성",
-          "body": "AWS Quick이 Meta 광고 MCP 서버와 연결돼 캠페인을 자연어로 다룬다.",
-          "mini_headline": "AWS Quick에 들어온 Meta 광고",
+          "headline": "Higgsfield가 낸\nAI-built 게임 광고",
+          "body": "Higgsfield의 기업용 Playable Ads는 AI로 체험형 광고를 만든다.",
+          "mini_headline": "Higgsfield의 AI 플레이어블 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quick에 오늘 Meta 광고 AI 커넥터가 추가됐다. 이 커넥터로 Quick은 광고용 Model Context Protocol(MCP) 서버 작업에 접근한다. Meta 광고 고객은 Meta 광고 관리 네트워크와 연결된 상태로 Quick 안에서 자연어로 캠페인을 만들고 관리하고 분석할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Quick은 Meta 광고 관리 데이터를 퍼스트파티·서드파티 데이터 소스와 결합해 대시보드, 문서, 슬라이드 덱, 자동화 워크플로를 만들 수도 있다."
+                "x": "Higgsfield가 AI로 인터랙티브 광고를 만드는 기업 전용 신규 워크플로 playable ads를 출시했다. 개발자는 게임 메커닉을 설명하고, 장르와 화면 규격을 고른 뒤, 크리에이티브 에셋(스프라이트, 텍스처, 효과음 등 최대 100개)을 추가해 수동 또는 자동 모드로 플레이 가능한 경험을 생성한다."
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "영상은 Customize > Connectors에서 커넥터를 설치하고 Facebook으로 로그인한 뒤, Quick이 접근할 Pages, Businesses, Instagram 계정을 고르는 과정을 보여준다. 한 프롬프트는 지난 캠페인 성과를 여덟 장짜리 출시 계획 슬라이드로 바꾸고, 다른 프롬프트는 두 광고 세트의 지출, 리드, 리드당 비용을 비교하는 대시보드를 만든다."
+                "x": "완성된 광고는 최대 5 MB 크기의 단일 .html 파일로 내보내 AppLovin, Meta, Google App Campaigns, Unity Ads, Pangle(TikTok) 같은 네트워크에 쓸 수 있다. Higgsfield 기술 스태프인 Zhangir Yergaliyev는 \"편집할 수 있고, 에이전트에게 게임의 어떤 부분이든 바꿔 달라고 요청할 수 있다. 퍼포먼스 마케팅에서는 게임 변형 수백 개를 쉽게 테스트할 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "활용 사례는 캠페인 기획과 집행, 크리에이티브 피로도 감지부터 전환 리프트 연구, 카탈로그 수정, 재고와 마진에 맞춘 지출 조정까지 다양하다. Quick은 캠페인 생성, 예산 변경 같은 쓰기 작업을 실행하기 전에 사용자 허가를 구한다."
+                "x": "Higgsfield는 스튜디오들이 복제와 법적 문제를 우려하자 App Store와 Google Play 링크 가져오기 기능을 없앴다. 회사에 따르면 수작업으로는 플레이어블 광고 하나에 평균 닷새, 약 $5,000가 들었다. 이 도구로는 첫 버전에 약 40분이 걸리고, 비용은 광고당 $30에서 $40 수준으로 추산된다. 플레이어블 광고 팀은 10명이 안 되며 첫 버전을 두 주 만에 만들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta広告、MCPで\nAWS Quickに参入",
-          "body": "AWS QuickがMetaの広告MCPサーバーとつながり、広告を自然言語で運用できる。",
-          "mini_headline": "Meta広告がAWS Quickに",
+          "headline": "Higgsfieldが投入\nAI-built ゲーム広告",
+          "body": "Higgsfieldの企業向けPlayable AdsはAIで体験型広告を生成する。",
+          "mini_headline": "HiggsfieldのAIプレイアブル広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quickは本日、Meta広告のAIコネクターを追加した。このコネクターによりQuickは広告向けModel Context Protocol（MCP）サーバーの操作にアクセスできる。Meta広告の顧客は、Metaの広告管理ネットワークとの接続を保ったまま、Quick内で自然言語を使ってキャンペーンの作成・管理・分析ができる。"
-              },
-              {
-                "t": "p",
-                "x": "QuickはMetaの広告管理データをファーストパーティやサードパーティのデータソースと組み合わせ、ダッシュボード、文書、スライド資料、自動化ワークフローを作ることもできる。"
+                "x": "Higgsfieldは、AIでインタラクティブ広告を作る企業向けの新ワークフロー「playable ads」を公開した。開発者はゲームのメカニクスを説明し、ジャンルとサイズを選び、クリエイティブ素材（スプライト、テクスチャ、効果音など最大100点）を追加して、手動または自動モードでプレイ可能な体験を生成する。"
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "動画では、Customize > Connectorsからコネクターをインストールし、Facebookでサインインして、QuickがアクセスできるPages、Businesses、Instagramアカウントを選ぶ手順を示している。あるプロンプトは過去のキャンペーン実績を八枚構成のローンチ計画スライドに変え、別のプロンプトは二つの広告セットの支出、リード、リード単価を比べるダッシュボードを作る。"
+                "x": "完成した広告は最大5 MBの単一の.htmlファイルとして書き出され、AppLovin、Meta、Google App Campaigns、Unity Ads、Pangle（TikTok）などのネットワークで使える。Higgsfieldの技術スタッフ、Zhangir Yergaliyev氏は「編集でき、エージェントにゲームのどんな点でも変更を頼める。パフォーマンスマーケティングでは、ゲームのバリエーションを何百通りも簡単にテストできる」と語った。"
               },
               {
                 "t": "p",
-                "x": "用途は、キャンペーンの計画と開始、クリエイティブ疲れの検知から、コンバージョンリフト調査、カタログ修正、在庫や利益率に合わせた支出調整まで幅広い。Quickはキャンペーンの作成や予算の変更などの書き込み操作を行う前に、ユーザーの許可を求める。"
+                "x": "Higgsfieldは、スタジオから模倣や法的な懸念が出たことを受け、App StoreとGoogle Playのリンク取り込み機能を削除した。同社によると、手作業ではプレイアブル広告ごとに平均五日、約$5,000かかっていた。同社のツールでは初版の作成に約40分、費用は広告ごとに推定$30〜$40だ。プレイアブル広告チームは10人未満で、二週間で初版を作り上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta广告经MCP\n进入AWS Quick",
-          "body": "AWS Quick接入Meta广告MCP服务器，广告主可用自然语言运营和分析广告活动。",
-          "mini_headline": "Meta广告登陆AWS Quick",
+          "headline": "Higgsfield推出\nAI-built试玩广告",
+          "body": "Higgsfield面向企业的Playable Ads工作流用AI生成可互动的试玩广告。",
+          "mini_headline": "Higgsfield的AI试玩广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quick今天新增了Meta广告AI连接器。该连接器让Quick能够调用广告Model Context Protocol（MCP）服务器的操作。Meta广告客户可以在保持与Meta广告管理网络连接的同时，在Quick中用自然语言创建、管理和分析广告活动。"
-              },
-              {
-                "t": "p",
-                "x": "Quick还能将Meta广告管理数据与第一方和第三方数据源结合，生成仪表板、文档、幻灯片和自动化工作流。"
+                "x": "Higgsfield推出了playable ads，这是一项仅面向企业的新工作流，用AI制作互动广告。开发者描述游戏机制，选择类型和尺寸，添加创意素材（最多100个，包括精灵图、纹理和音效），即可以手动或自动模式生成可玩的体验。"
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "视频展示了如何在Customize > Connectors中安装连接器、使用Facebook登录，并选择Quick可访问的Pages、Businesses和Instagram账户。一条提示词把过往广告活动结果变成八页的发布计划幻灯片；另一条则生成仪表板，比较两个广告组的花费、潜在客户和单个潜在客户成本。"
+                "x": "成品广告可导出为最大5 MB的单个.html文件，用于AppLovin、Meta、Google App Campaigns、Unity Ads和Pangle（TikTok）等广告网络。Higgsfield技术人员Zhangir Yergaliyev表示：“你可以编辑，并让智能体修改游戏的任何内容。在效果营销中，测试数百种游戏变体变得很容易。”"
               },
               {
                 "t": "p",
-                "x": "使用场景涵盖规划和启动广告活动、标记创意疲劳，以及转化提升研究、目录修正和按库存与利润率调整花费。在Quick创建广告活动、更改预算或执行其他写入操作之前，它会征求你的许可。"
+                "x": "在工作室提出抄袭和法律方面的担忧后，Higgsfield移除了App Store和Google Play链接导入功能。该公司称，人工制作每个试玩广告平均需要五天、约$5,000；其工具制作第一版约需40分钟，每个广告成本估计为$30至$40。试玩广告团队不到10人，用两周时间做出了第一版。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los anuncios de Meta llegan a\nAWS Quick con su servidor MCP",
-          "body": "AWS Quick ya se conecta al servidor MCP de anuncios de Meta, para gestionar campañas de Meta en lenguaje natural.",
-          "mini_headline": "Los anuncios de Meta llegan a AWS Quick",
+          "headline": "Higgsfield lanza anuncios\njugables AI-built para juegos",
+          "body": "El flujo Playable Ads de Higgsfield, solo para empresas, usa AI para generar anuncios jugables interactivos.",
+          "mini_headline": "Anuncios jugables con AI de Higgsfield",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22411-featured-image.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
               },
               {
                 "t": "p",
-                "x": "AWS Quick añadió hoy un conector de AI para los anuncios de Meta. El conector da a Quick acceso a las operaciones del servidor Model Context Protocol (MCP) de anuncios. Los clientes de anuncios de Meta pueden usar lenguaje natural para crear, gestionar y analizar campañas dentro de Quick, sin dejar de estar conectados a la red de gestión de anuncios de Meta."
-              },
-              {
-                "t": "p",
-                "x": "Quick también puede combinar los datos de gestión de anuncios de Meta con fuentes de datos propias y de terceros para crear paneles, documentos, presentaciones y flujos de trabajo automatizados."
+                "x": "Higgsfield ha lanzado playable ads, un nuevo flujo de trabajo exclusivo para empresas que crea anuncios interactivos con AI. Los desarrolladores describen una mecánica de juego, eligen un género y unas dimensiones, añaden recursos creativos (hasta 100, entre ellos sprites, texturas y efectos de sonido) y generan una experiencia jugable en modo manual o automático."
               },
               {
                 "t": "video",
-                "src": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22411/b46d9e222b1ec27f572a3e2ba0fc06ab8c1447b3be0e8fd10a7e101091d9191d.mp4"
+                "yt": "PG0UVcWVNl0"
               },
               {
                 "t": "p",
-                "x": "El video muestra cómo instalar el conector desde Customize > Connectors, iniciar sesión con Facebook y elegir a qué Pages, Businesses y cuentas de Instagram puede acceder Quick. Un prompt convierte los resultados de campañas anteriores en una presentación de ocho diapositivas con el plan de lanzamiento; otro crea un panel que compara gasto, leads y costo por lead de dos conjuntos de anuncios."
+                "x": "El anuncio terminado se exporta como un único archivo .html de hasta 5 MB para redes como AppLovin, Meta, Google App Campaigns, Unity Ads y Pangle (TikTok). \"Puedes editarlo y pedirle a un agente que cambie cualquier cosa del juego. Con el marketing de resultados, resulta fácil probar cientos de variantes del juego\", dijo Zhangir Yergaliyev, miembro del personal técnico de Higgsfield."
               },
               {
                 "t": "p",
-                "x": "Los casos de uso van desde planificar y lanzar campañas y detectar el desgaste creativo hasta estudios de incremento de conversiones, correcciones de catálogo y ajustar el gasto al inventario y al margen. Antes de que Quick cree una campaña, cambie un presupuesto o ejecute otra acción de escritura, pide permiso."
+                "x": "Higgsfield eliminó la importación de enlaces de App Store y Google Play después de que los estudios plantearan preocupaciones sobre copias y cuestiones legales. La empresa informó de que el proceso manual tarda de media cinco días y cuesta unos $5,000 por anuncio jugable; su herramienta tarda unos 40 minutos en una primera versión, con un coste estimado de $30 a $40 por anuncio. El equipo de anuncios jugables tiene menos de 10 personas y creó la primera versión en dos semanas."
               }
             ]
           }
@@ -677,15 +637,15 @@
       }
     },
     {
-      "id": "google-aimode-multiturn-ads",
+      "id": "pinterest-msads-inventory",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI Mode\n광고, 후속 질문까지",
-      "body": "AI Mode 광고가 후속 질문에도 붙는데, US 광고주는 끌 수 없다.",
-      "mini_headline": "AI Mode 광고, multi-turn으로",
+      "headline": "Pinterest 지면을\nMicrosoft에 연다",
+      "body": "Microsoft Advertising 광고가 AI로 Pinterest에 실린다.",
+      "mini_headline": "Microsoft 통한 Pinterest 광고",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/google-ai-mode-ads-appear-as-deep-as-the-fourth-follow-up-question/",
+      "url": "https://ppc.land/pinterest-sells-feed-and-search-ad-space-through-microsoft-advertising/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -693,179 +653,131 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-            "cap": "Google AI Mode 광고는 후속 답변 아래에도 뜬다. 네 번째 질문까지 확인됐다"
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+            "cap": "Pinterest는 피드와 검색 광고 지면을 Microsoft Advertising으로 팔되 유럽은 제외했다"
           },
           {
             "t": "p",
-            "x": "Search Engine Roundtable의 Barry Schwartz는 2026년 11월 6일 로그아웃한 데스크톱 세션에서 Google AI Mode를 시험했다. \"which foldable phone should I get\"(어떤 폴더블폰을 사야 할까)라고 묻자 첫 답변 아래로 Motorola와 Samsung 폴더블폰 제품 카드 네 장짜리 \"Sponsored\" 유닛이 떴다."
+            "x": "Pinterest가 조건을 갖춘 Microsoft Advertising 캠페인을 홈 피드, 검색 결과, 관련 Pins에 내보낼 수 있는 연동을 발표했다. 게재 위치는 \"맞춤형 맥락 입찰 모델\"이 정하고 새 구매 도구는 따로 필요 없다. 북미, 호주, 뉴질랜드에서 \"우선\" 시작하며 유럽은 빠진다. 출시일, 가격, 대상 조건 목록, 광고 형식, 캠페인 성과는 발표에 담기지 않았다."
           },
           {
             "t": "p",
-            "x": "후속 질문 \"i love iphones, does the duo need a case?\"(아이폰을 좋아하는데, duo에 케이스가 필요할까?)에는 케이스 카드 네 장으로 된 두 번째 Sponsored 유닛이 붙었다. 세 장은 Vyrloom, 한 장은 OtterBox 제품이었다. 세 번째와 네 번째 후속 질문에서도 광고는 더 나왔다고 한다. 두 유료 유닛 어디에도 Apple이나 Google 제품은 없었다."
-          },
-          {
-            "t": "p",
-            "x": "Google은 10월 28일 US 대상 멀티턴 광고를 발표하면서 이 광고가 \"사용자의 후속 질문에 대한 응답에 나타난다\"고 밝혔다. Search, Shopping, Performance Max 캠페인은 자동으로 대상에 들어간다. 광고주는 AI Mode만 따로 타기팅할 수도, Search와 별개로 AI Mode에서 빠질 수도 없다."
-          },
-          {
-            "t": "p",
-            "x": "보고는 합산된다. 노출, 클릭, 전환, 비용이 일반 캠페인 보고서에 함께 잡히고, 첫 번째 턴과 다섯 번째 턴을 가르는 항목은 없다."
+            "x": "이 모델은 Pinterest 검색 쿼리와 맥락 신호, Pinterest가 Pinterest Intelligence라 부르는 체계의 퍼스트파티 의도 데이터를 쓴다. 수요는 Bing, MSN, Xbox, Outlook 등 Microsoft 자산에서 온다. Pinterest가 내세우는 숫자는 월간 활성 이용자 661 million 명, 월간 검색 80 billion 건이다. Amazon(2023), Google(2024), Index Exchange와 Criteo, Programmatic Deals(2026년 10월 26일)에 이은 개방이다. Microsoft는 2026년 2월 자체 DSP인 Microsoft Invest를 접었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google AI Mode ads reach\ndeep into follow-up questions",
-          "body": "AI Mode ads can appear several turns into a conversation, and US advertisers can't opt out or get per-turn reports.",
-          "mini_headline": "AI Mode ads go multi-turn",
+          "headline": "Pinterest opens ad space to\nMicrosoft Advertising",
+          "body": "Microsoft Advertising campaigns can run in Pinterest's feed and search, placed by a model using Pinterest's AI signals.",
+          "mini_headline": "Pinterest ads via Microsoft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Google AI Mode ads appear under follow-up answers, seen as deep as the fourth question"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterest sells feed and search ad space through Microsoft Advertising, leaving Europe out"
               },
               {
                 "t": "p",
-                "x": "Barry Schwartz of Search Engine Roundtable tested Google AI Mode on November 6, 2026, in a signed-out desktop session. He asked \"which foldable phone should I get\" and got a \"Sponsored\" unit of four product cards — Motorola and Samsung foldables — under the first answer."
+                "x": "Pinterest announced an integration that lets eligible Microsoft Advertising campaigns run in its home feed, search results and related Pins, with placement chosen by a \"custom contextual bidding model\" — no new buying tool required. It launches in North America, Australia and New Zealand \"to start\"; Europe is excluded. The announcement gives no launch date, pricing, eligibility list, ad formats or campaign results."
               },
               {
                 "t": "p",
-                "x": "His follow-up, \"i love iphones, does the duo need a case?\", drew a second Sponsored unit of four case cards, three from Vyrloom and one OtterBox. He reported more ads on his third and fourth follow-ups. Neither paid unit carried an Apple or Google product."
-              },
-              {
-                "t": "p",
-                "x": "Google announced multiturn ads for the US on October 28, saying they \"show up on responses to follow-up user queries.\" Search, Shopping and Performance Max campaigns are eligible automatically; advertisers cannot target AI Mode exclusively or opt out of it separately from Search."
-              },
-              {
-                "t": "p",
-                "x": "Reporting is aggregate: impressions, clicks, conversions and cost sit in standard campaign reports, and none of it distinguishes a first turn from a fifth."
+                "x": "The model uses Pinterest search queries, contextual signals and first-party intent data drawn from what Pinterest calls Pinterest Intelligence. Demand comes from Microsoft properties including Bing, MSN, Xbox and Outlook. Pinterest cites 661 million monthly active users and 80 billion monthly searches. The move follows openings to Amazon (2023), Google (2024), Index Exchange and Criteo, and Programmatic Deals (October 26, 2026); Microsoft shut its own DSP, Microsoft Invest, in February 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AI Mode\n광고, 후속 질문까지",
-          "body": "AI Mode 광고가 후속 질문에도 붙는데, US 광고주는 끌 수 없다.",
-          "mini_headline": "AI Mode 광고, multi-turn으로",
+          "headline": "Pinterest 지면을\nMicrosoft에 연다",
+          "body": "Microsoft Advertising 광고가 AI로 Pinterest에 실린다.",
+          "mini_headline": "Microsoft 통한 Pinterest 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Google AI Mode 광고는 후속 답변 아래에도 뜬다. 네 번째 질문까지 확인됐다"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterest는 피드와 검색 광고 지면을 Microsoft Advertising으로 팔되 유럽은 제외했다"
               },
               {
                 "t": "p",
-                "x": "Search Engine Roundtable의 Barry Schwartz는 2026년 11월 6일 로그아웃한 데스크톱 세션에서 Google AI Mode를 시험했다. \"which foldable phone should I get\"(어떤 폴더블폰을 사야 할까)라고 묻자 첫 답변 아래로 Motorola와 Samsung 폴더블폰 제품 카드 네 장짜리 \"Sponsored\" 유닛이 떴다."
+                "x": "Pinterest가 조건을 갖춘 Microsoft Advertising 캠페인을 홈 피드, 검색 결과, 관련 Pins에 내보낼 수 있는 연동을 발표했다. 게재 위치는 \"맞춤형 맥락 입찰 모델\"이 정하고 새 구매 도구는 따로 필요 없다. 북미, 호주, 뉴질랜드에서 \"우선\" 시작하며 유럽은 빠진다. 출시일, 가격, 대상 조건 목록, 광고 형식, 캠페인 성과는 발표에 담기지 않았다."
               },
               {
                 "t": "p",
-                "x": "후속 질문 \"i love iphones, does the duo need a case?\"(아이폰을 좋아하는데, duo에 케이스가 필요할까?)에는 케이스 카드 네 장으로 된 두 번째 Sponsored 유닛이 붙었다. 세 장은 Vyrloom, 한 장은 OtterBox 제품이었다. 세 번째와 네 번째 후속 질문에서도 광고는 더 나왔다고 한다. 두 유료 유닛 어디에도 Apple이나 Google 제품은 없었다."
-              },
-              {
-                "t": "p",
-                "x": "Google은 10월 28일 US 대상 멀티턴 광고를 발표하면서 이 광고가 \"사용자의 후속 질문에 대한 응답에 나타난다\"고 밝혔다. Search, Shopping, Performance Max 캠페인은 자동으로 대상에 들어간다. 광고주는 AI Mode만 따로 타기팅할 수도, Search와 별개로 AI Mode에서 빠질 수도 없다."
-              },
-              {
-                "t": "p",
-                "x": "보고는 합산된다. 노출, 클릭, 전환, 비용이 일반 캠페인 보고서에 함께 잡히고, 첫 번째 턴과 다섯 번째 턴을 가르는 항목은 없다."
+                "x": "이 모델은 Pinterest 검색 쿼리와 맥락 신호, Pinterest가 Pinterest Intelligence라 부르는 체계의 퍼스트파티 의도 데이터를 쓴다. 수요는 Bing, MSN, Xbox, Outlook 등 Microsoft 자산에서 온다. Pinterest가 내세우는 숫자는 월간 활성 이용자 661 million 명, 월간 검색 80 billion 건이다. Amazon(2023), Google(2024), Index Exchange와 Criteo, Programmatic Deals(2026년 10월 26일)에 이은 개방이다. Microsoft는 2026년 2월 자체 DSP인 Microsoft Invest를 접었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\n広告、追加質問の奥まで",
-          "body": "AI Mode広告は会話の数ターン先にも出て、US広告主は停止もターン別報告もできない。",
-          "mini_headline": "AI Mode広告、multi-turnへ",
+          "headline": "Pinterest、広告枠を\nMicrosoftに開放",
+          "body": "Microsoft Advertisingの広告がAIでPinterestに載る。",
+          "mini_headline": "Microsoft経由のPinterest広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Google AI Modeの広告は追加質問への回答の下に表示され、四問目まで確認された"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterestはフィードと検索の広告枠をMicrosoft Advertising経由で販売し、欧州は対象外とした"
               },
               {
                 "t": "p",
-                "x": "Search Engine RoundtableのBarry Schwartzは2026年11月6日、ログアウト状態のデスクトップでGoogle AI Modeを試した。\"which foldable phone should I get\"（どの折りたたみスマホを買うべきか）と尋ねると、最初の回答の下に、MotorolaとSamsungの折りたたみ端末を並べた商品カード四枚の「Sponsored」ユニットが表示された。"
+                "x": "Pinterestは、条件を満たすMicrosoft Advertisingのキャンペーンをホームフィード、検索結果、関連Pinsに配信できる連携を発表した。掲載位置は「カスタムのコンテクスチュアル入札モデル」が決め、新たな購入ツールは要らない。北米、オーストラリア、ニュージーランドで「まずは」開始し、欧州は対象外だ。発表には開始日、価格、対象条件の一覧、広告フォーマット、キャンペーン実績は含まれていない。"
               },
               {
                 "t": "p",
-                "x": "続く追加質問\"i love iphones, does the duo need a case?\"（アイフォンが好きだが、duoにケースは必要か）には、ケースのカード四枚からなる二つ目のSponsoredユニットが出た。三枚はVyrloom、一枚はOtterBoxだった。三つ目と四つ目の追加質問でも広告が出たと彼は報告している。どちらの有料ユニットにもAppleやGoogleの製品はなかった。"
-              },
-              {
-                "t": "p",
-                "x": "Googleは10月28日にUS向けのマルチターン広告を発表し、広告は「ユーザーの追加質問への回答に表示される」と説明した。Search、Shopping、Performance Maxのキャンペーンは自動的に対象となり、広告主はAI Modeだけを狙うことも、Searchと切り離してAI Modeを除外することもできない。"
-              },
-              {
-                "t": "p",
-                "x": "レポートは集計値のみだ。インプレッション、クリック、コンバージョン、費用は通常のキャンペーンレポートにまとめられ、最初のターンと五ターン目を区別するものはない。"
+                "x": "このモデルは、Pinterestの検索クエリ、文脈シグナル、そしてPinterestが「Pinterest Intelligence」と呼ぶ仕組みから得たファーストパーティの意図データを使う。需要はBing、MSN、Xbox、OutlookなどMicrosoftの各サービスから来る。Pinterestは月間アクティブユーザー661 million 人、月間検索80 billion 回を掲げる。今回の動きは、Amazon（2023年）、Google（2024年）、Index ExchangeとCriteo、Programmatic Deals（2026年10月26日）への開放に続くものだ。Microsoftは2026年2月に自社DSPのMicrosoft Investを終了している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n广告深入追问环节",
-          "body": "AI Mode广告可在对话多轮后出现，US广告主既不能退出也拿不到分轮报告。",
-          "mini_headline": "AI Mode广告走向multi-turn",
+          "headline": "Pinterest广告位\n向Microsoft开放",
+          "body": "Microsoft Advertising广告依据AI信号投放至Pinterest。",
+          "mini_headline": "经Microsoft投放Pinterest广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Google AI Mode广告出现在追问的回答下方，最深在第四个问题中可见"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterest通过Microsoft Advertising出售信息流和搜索广告位，欧洲不在其列"
               },
               {
                 "t": "p",
-                "x": "Search Engine Roundtable的Barry Schwartz于2026年11月6日在未登录的桌面端会话中测试了Google AI Mode。他提问\"which foldable phone should I get\"（我该买哪款折叠屏手机），第一个回答下方出现了一个“Sponsored”单元，含四张产品卡片，均为Motorola和Samsung折叠屏手机。"
+                "x": "Pinterest宣布了一项集成，符合条件的Microsoft Advertising广告活动可投放到其首页信息流、搜索结果和相关Pins中，投放位置由“定制的情境竞价模型”决定，无需新的购买工具。该集成“首先”在北美、澳大利亚和新西兰推出，欧洲被排除在外。公告未提供上线日期、定价、资格名单、广告格式或广告活动效果。"
               },
               {
                 "t": "p",
-                "x": "他追问\"i love iphones, does the duo need a case?\"（我喜欢苹果手机，duo需要手机壳吗？），又出现第二个Sponsored单元，含四张手机壳卡片，其中三张来自Vyrloom，一张来自OtterBox。他表示在第三和第四次追问时还出现了更多广告。两个付费单元都没有Apple或Google的产品。"
-              },
-              {
-                "t": "p",
-                "x": "Google于10月28日宣布在US推出多轮广告，称这些广告“出现在用户追问的回答中”。Search、Shopping和Performance Max广告系列会自动符合条件；广告主无法单独定向AI Mode，也无法脱离Search单独退出AI Mode。"
-              },
-              {
-                "t": "p",
-                "x": "报告为汇总数据：展示、点击、转化和费用都在标准广告系列报告中，且都不区分第一轮和第五轮。"
+                "x": "该模型使用Pinterest搜索查询、情境信号，以及来自Pinterest所称Pinterest Intelligence的第一方意图数据。需求来自Bing、MSN、Xbox和Outlook等Microsoft旗下产品。Pinterest称其拥有661 million 月活跃用户和80 billion 次月搜索量。此前，Pinterest已向Amazon（2023年）、Google（2024年）、Index Exchange和Criteo以及Programmatic Deals（2026年10月26日）开放；Microsoft已于2026年2月关闭自家DSP Microsoft Invest。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los anuncios de Google AI Mode\naparecen en preguntas sucesivas",
-          "body": "Los anuncios de AI Mode pueden aparecer tras varios turnos y en US no hay exclusión ni informes por turno.",
-          "mini_headline": "Los anuncios de AI Mode se vuelven multi-turn",
+          "headline": "Pinterest abre su inventario a\nMicrosoft Advertising",
+          "body": "Las campañas de Microsoft Advertising llegan al feed y la búsqueda de Pinterest mediante un modelo con señales de AI.",
+          "mini_headline": "Anuncios en Pinterest vía Microsoft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Los anuncios de Google AI Mode aparecen bajo las respuestas de seguimiento, vistos hasta en la cuarta pregunta"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterest vende espacio publicitario en el feed y la búsqueda a través de Microsoft Advertising, sin incluir Europa"
               },
               {
                 "t": "p",
-                "x": "Barry Schwartz, de Search Engine Roundtable, probó Google AI Mode el 6 de noviembre de 2026 en una sesión de escritorio sin iniciar sesión. Preguntó \"which foldable phone should I get\" y obtuvo, bajo la primera respuesta, una unidad \"Sponsored\" con cuatro tarjetas de producto: plegables de Motorola y Samsung."
+                "x": "Pinterest anunció una integración que permite que las campañas aptas de Microsoft Advertising se muestren en su feed de inicio, en los resultados de búsqueda y en Pins relacionados, con una ubicación elegida por un \"modelo de puja contextual personalizado\", sin necesidad de una nueva herramienta de compra. Se lanza en Norteamérica, Australia y Nueva Zelanda \"para empezar\"; Europa queda excluida. El anuncio no da fecha de lanzamiento, precios, lista de requisitos, formatos publicitarios ni resultados de campañas."
               },
               {
                 "t": "p",
-                "x": "Su pregunta de seguimiento, \"i love iphones, does the duo need a case?\", generó una segunda unidad Sponsored con cuatro tarjetas de fundas, tres de Vyrloom y una de OtterBox. Informó de más anuncios en su tercera y cuarta pregunta de seguimiento. Ninguna de las unidades pagadas incluía un producto de Apple o Google."
-              },
-              {
-                "t": "p",
-                "x": "Google anunció los anuncios multiturno para US el 28 de octubre y dijo que \"aparecen en las respuestas a consultas de seguimiento de los usuarios\". Las campañas de Search, Shopping y Performance Max son elegibles automáticamente; los anunciantes no pueden segmentar solo AI Mode ni excluirse de él por separado de Search."
-              },
-              {
-                "t": "p",
-                "x": "Los informes son agregados: impresiones, clics, conversiones y costo figuran en los informes estándar de campaña, y nada distingue un primer turno de un quinto."
+                "x": "El modelo usa consultas de búsqueda de Pinterest, señales contextuales y datos de intención propios procedentes de lo que Pinterest llama Pinterest Intelligence. La demanda proviene de propiedades de Microsoft como Bing, MSN, Xbox y Outlook. Pinterest cita 661 millones de usuarios activos mensuales y 80 mil millones de búsquedas mensuales. El movimiento sigue a las aperturas a Amazon (2023), Google (2024), Index Exchange y Criteo, y Programmatic Deals (26 de octubre de 2026); Microsoft cerró su propio DSP, Microsoft Invest, en febrero de 2026."
               }
             ]
           }
@@ -873,125 +785,93 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AI Mode\n광고, 후속 질문까지",
-          "body": "AI Mode 광고는 후속 질문에도 붙고, US 광고주는 끌 수 없다.",
-          "mini_headline": "AI Mode 광고, multi-turn으로",
+          "headline": "Pinterest 지면을\nMicrosoft에 연다",
+          "body": "Microsoft Advertising 광고가 AI로 Pinterest에 실린다.",
+          "mini_headline": "Microsoft 통한 Pinterest 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Google AI Mode 광고는 후속 답변 아래에 나타나며, 네 번째 질문에서까지 확인됐다"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterest는 피드와 검색 광고 지면을 Microsoft Advertising으로 판매하며, 유럽은 제외했다"
               },
               {
                 "t": "p",
-                "x": "Search Engine Roundtable의 Barry Schwartz는 2026년 11월 6일 로그아웃한 데스크톱 세션에서 Google AI Mode를 시험했다. 그가 \"which foldable phone should I get\"(어떤 폴더블폰을 사야 할까)라고 묻자 첫 답변 아래에 Motorola와 Samsung 폴더블폰 제품 카드 네 장으로 된 \"Sponsored\" 유닛이 떴다."
+                "x": "Pinterest는 조건을 충족하는 Microsoft Advertising 캠페인을 홈 피드, 검색 결과, 관련 Pins에 게재할 수 있는 연동을 발표했다. 게재 위치는 \"맞춤형 맥락 입찰 모델\"이 정하며, 새 구매 도구는 필요 없다. 북미, 호주, 뉴질랜드에서 \"우선\" 시작하고 유럽은 제외된다. 발표에는 출시일, 가격, 대상 조건 목록, 광고 형식, 캠페인 성과가 없다."
               },
               {
                 "t": "p",
-                "x": "이어진 후속 질문 \"i love iphones, does the duo need a case?\"(아이폰을 좋아하는데, duo에 케이스가 필요할까?)에는 케이스 카드 네 장으로 된 두 번째 Sponsored 유닛이 나왔다. 세 장은 Vyrloom, 한 장은 OtterBox 제품이었다. 그는 세 번째와 네 번째 후속 질문에서도 광고가 더 나왔다고 전했다. 두 유료 유닛 모두 Apple이나 Google 제품은 없었다."
-              },
-              {
-                "t": "p",
-                "x": "Google은 10월 28일 US 대상 멀티턴 광고를 발표하며 이 광고가 \"사용자의 후속 질문에 대한 응답에 나타난다\"고 밝혔다. Search, Shopping, Performance Max 캠페인은 자동으로 대상이 되며, 광고주는 AI Mode만 따로 타기팅하거나 Search와 별개로 AI Mode에서 빠질 수 없다."
-              },
-              {
-                "t": "p",
-                "x": "보고는 합산 방식이다. 노출, 클릭, 전환, 비용은 일반 캠페인 보고서에 들어가며, 어느 항목도 첫 번째 턴과 다섯 번째 턴을 구분하지 않는다."
+                "x": "이 모델은 Pinterest 검색 쿼리, 맥락 신호, 그리고 Pinterest가 Pinterest Intelligence라 부르는 체계에서 나온 퍼스트파티 의도 데이터를 쓴다. 수요는 Bing, MSN, Xbox, Outlook 등 Microsoft 자산에서 나온다. Pinterest는 월간 활성 이용자 661 million 명, 월간 검색 80 billion 건을 내세운다. 이번 조치는 Amazon(2023), Google(2024), Index Exchange와 Criteo, Programmatic Deals(2026년 10월 26일)에 이은 개방이다. Microsoft는 2026년 2월 자체 DSP인 Microsoft Invest를 종료했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\n広告、追加質問の奥まで",
-          "body": "AI Mode広告は会話の数ターン先にも出て、US広告主は停止もターン別報告もできない。",
-          "mini_headline": "AI Mode広告、multi-turnへ",
+          "headline": "Pinterest、広告枠を\nMicrosoftに開放",
+          "body": "Microsoft Advertisingの広告がAIでPinterestに載る。",
+          "mini_headline": "Microsoft経由のPinterest広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Google AI Modeの広告は追加質問への回答の下に表示され、四問目まで確認された"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterestはフィードと検索の広告枠をMicrosoft Advertising経由で販売し、欧州は対象外とした"
               },
               {
                 "t": "p",
-                "x": "Search Engine RoundtableのBarry Schwartzは2026年11月6日、ログアウト状態のデスクトップでGoogle AI Modeを試した。\"which foldable phone should I get\"（どの折りたたみスマホを買うべきか）と尋ねると、最初の回答の下に、MotorolaとSamsungの折りたたみ端末を並べた商品カード四枚の「Sponsored」ユニットが表示された。"
+                "x": "Pinterestは、条件を満たすMicrosoft Advertisingのキャンペーンをホームフィード、検索結果、関連Pinsに配信できる連携を発表した。掲載位置は「カスタムのコンテクスチュアル入札モデル」が決め、新たな購入ツールは要らない。北米、オーストラリア、ニュージーランドで「まずは」開始し、欧州は対象外だ。発表には開始日、価格、対象条件の一覧、広告フォーマット、キャンペーン実績は含まれていない。"
               },
               {
                 "t": "p",
-                "x": "続く追加質問\"i love iphones, does the duo need a case?\"（アイフォンが好きだが、duoにケースは必要か）には、ケースのカード四枚からなる二つ目のSponsoredユニットが出た。三枚はVyrloom、一枚はOtterBoxだった。三つ目と四つ目の追加質問でも広告が出たと彼は報告している。どちらの有料ユニットにもAppleやGoogleの製品はなかった。"
-              },
-              {
-                "t": "p",
-                "x": "Googleは10月28日にUS向けのマルチターン広告を発表し、広告は「ユーザーの追加質問への回答に表示される」と説明した。Search、Shopping、Performance Maxのキャンペーンは自動的に対象となり、広告主はAI Modeだけを狙うことも、Searchと切り離してAI Modeを除外することもできない。"
-              },
-              {
-                "t": "p",
-                "x": "レポートは集計値のみだ。インプレッション、クリック、コンバージョン、費用は通常のキャンペーンレポートにまとめられ、最初のターンと五ターン目を区別するものはない。"
+                "x": "このモデルは、Pinterestの検索クエリ、文脈シグナル、そしてPinterestが「Pinterest Intelligence」と呼ぶ仕組みから得たファーストパーティの意図データを使う。需要はBing、MSN、Xbox、OutlookなどMicrosoftの各サービスから来る。Pinterestは月間アクティブユーザー661 million 人、月間検索80 billion 回を掲げる。今回の動きは、Amazon（2023年）、Google（2024年）、Index ExchangeとCriteo、Programmatic Deals（2026年10月26日）への開放に続くものだ。Microsoftは2026年2月に自社DSPのMicrosoft Investを終了している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n广告深入追问环节",
-          "body": "AI Mode广告可在对话多轮后出现，US广告主既不能退出也拿不到分轮报告。",
-          "mini_headline": "AI Mode广告走向multi-turn",
+          "headline": "Pinterest广告位\n向Microsoft开放",
+          "body": "Microsoft Advertising广告依据AI信号投放至Pinterest。",
+          "mini_headline": "经Microsoft投放Pinterest广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Google AI Mode广告出现在追问的回答下方，最深在第四个问题中可见"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterest通过Microsoft Advertising出售信息流和搜索广告位，欧洲不在其列"
               },
               {
                 "t": "p",
-                "x": "Search Engine Roundtable的Barry Schwartz于2026年11月6日在未登录的桌面端会话中测试了Google AI Mode。他提问\"which foldable phone should I get\"（我该买哪款折叠屏手机），第一个回答下方出现了一个“Sponsored”单元，含四张产品卡片，均为Motorola和Samsung折叠屏手机。"
+                "x": "Pinterest宣布了一项集成，符合条件的Microsoft Advertising广告活动可投放到其首页信息流、搜索结果和相关Pins中，投放位置由“定制的情境竞价模型”决定，无需新的购买工具。该集成“首先”在北美、澳大利亚和新西兰推出，欧洲被排除在外。公告未提供上线日期、定价、资格名单、广告格式或广告活动效果。"
               },
               {
                 "t": "p",
-                "x": "他追问\"i love iphones, does the duo need a case?\"（我喜欢苹果手机，duo需要手机壳吗？），又出现第二个Sponsored单元，含四张手机壳卡片，其中三张来自Vyrloom，一张来自OtterBox。他表示在第三和第四次追问时还出现了更多广告。两个付费单元都没有Apple或Google的产品。"
-              },
-              {
-                "t": "p",
-                "x": "Google于10月28日宣布在US推出多轮广告，称这些广告“出现在用户追问的回答中”。Search、Shopping和Performance Max广告系列会自动符合条件；广告主无法单独定向AI Mode，也无法脱离Search单独退出AI Mode。"
-              },
-              {
-                "t": "p",
-                "x": "报告为汇总数据：展示、点击、转化和费用都在标准广告系列报告中，且都不区分第一轮和第五轮。"
+                "x": "该模型使用Pinterest搜索查询、情境信号，以及来自Pinterest所称Pinterest Intelligence的第一方意图数据。需求来自Bing、MSN、Xbox和Outlook等Microsoft旗下产品。Pinterest称其拥有661 million 月活跃用户和80 billion 次月搜索量。此前，Pinterest已向Amazon（2023年）、Google（2024年）、Index Exchange和Criteo以及Programmatic Deals（2026年10月26日）开放；Microsoft已于2026年2月关闭自家DSP Microsoft Invest。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los anuncios de Google AI Mode\naparecen en preguntas sucesivas",
-          "body": "Los anuncios de AI Mode pueden aparecer tras varios turnos y en US no hay exclusión ni informes por turno.",
-          "mini_headline": "Los anuncios de AI Mode se vuelven multi-turn",
+          "headline": "Pinterest abre su inventario a\nMicrosoft Advertising",
+          "body": "Las campañas de Microsoft Advertising llegan al feed y la búsqueda de Pinterest mediante un modelo con señales de AI.",
+          "mini_headline": "Anuncios en Pinterest vía Microsoft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/google-ai-mode-multiturn-ads-follow-up-questions-speech-bubble-chain-shop-awnings.jpg",
-                "cap": "Los anuncios de Google AI Mode aparecen bajo las respuestas de seguimiento, vistos hasta en la cuarta pregunta"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
+                "cap": "Pinterest vende espacio publicitario en el feed y la búsqueda a través de Microsoft Advertising, sin incluir Europa"
               },
               {
                 "t": "p",
-                "x": "Barry Schwartz, de Search Engine Roundtable, probó Google AI Mode el 6 de noviembre de 2026 en una sesión de escritorio sin iniciar sesión. Preguntó \"which foldable phone should I get\" y obtuvo, bajo la primera respuesta, una unidad \"Sponsored\" con cuatro tarjetas de producto: plegables de Motorola y Samsung."
+                "x": "Pinterest anunció una integración que permite que las campañas aptas de Microsoft Advertising se muestren en su feed de inicio, en los resultados de búsqueda y en Pins relacionados, con una ubicación elegida por un \"modelo de puja contextual personalizado\", sin necesidad de una nueva herramienta de compra. Se lanza en Norteamérica, Australia y Nueva Zelanda \"para empezar\"; Europa queda excluida. El anuncio no da fecha de lanzamiento, precios, lista de requisitos, formatos publicitarios ni resultados de campañas."
               },
               {
                 "t": "p",
-                "x": "Su pregunta de seguimiento, \"i love iphones, does the duo need a case?\", generó una segunda unidad Sponsored con cuatro tarjetas de fundas, tres de Vyrloom y una de OtterBox. Informó de más anuncios en su tercera y cuarta pregunta de seguimiento. Ninguna de las unidades pagadas incluía un producto de Apple o Google."
-              },
-              {
-                "t": "p",
-                "x": "Google anunció los anuncios multiturno para US el 28 de octubre y dijo que \"aparecen en las respuestas a consultas de seguimiento de los usuarios\". Las campañas de Search, Shopping y Performance Max son elegibles automáticamente; los anunciantes no pueden segmentar solo AI Mode ni excluirse de él por separado de Search."
-              },
-              {
-                "t": "p",
-                "x": "Los informes son agregados: impresiones, clics, conversiones y costo figuran en los informes estándar de campaña, y nada distingue un primer turno de un quinto."
+                "x": "El modelo usa consultas de búsqueda de Pinterest, señales contextuales y datos de intención propios procedentes de lo que Pinterest llama Pinterest Intelligence. La demanda proviene de propiedades de Microsoft como Bing, MSN, Xbox y Outlook. Pinterest cita 661 millones de usuarios activos mensuales y 80 mil millones de búsquedas mensuales. El movimiento sigue a las aperturas a Amazon (2023), Google (2024), Index Exchange y Criteo, y Programmatic Deals (26 de octubre de 2026); Microsoft cerró su propio DSP, Microsoft Invest, en febrero de 2026."
               }
             ]
           }
@@ -999,225 +879,219 @@
       }
     },
     {
-      "id": "bitmovin-gam-scene-signals",
+      "id": "chatgpt-shopping-partnership-doc",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Bitmovin 장면 AI\n신호를 GAM에 보낸다",
-      "body": "Bitmovin이 영상 장면 맥락을 Google Ad Manager에 보낸다.",
-      "mini_headline": "Bitmovin, GAM에 장면 신호 전달",
+      "headline": "ChatGPT 쇼핑에서\nOpenAI 제휴문구 삭제",
+      "body": "OpenAI 쇼핑 도움말에서 ChatGPT 상품 결과의 제휴 무관 문구가 빠졌다.",
+      "mini_headline": "ChatGPT 쇼핑, 제휴 무관 문구 삭제",
       "tool": "Marketing",
-      "source": "Content + Technology",
-      "url": "https://content-technology.com/content-delivery/bitmovin-ai-brings-scene-level-ad-signals-to-google-ad-manager/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-            "cap": "Reinhard Grandl, Bitmovin Chief Product Officer"
+            "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
           },
           {
             "t": "p",
-            "x": "Bitmovin이 자사 AI Scene Analysis를 Google Ad Manager의 publisher-provided signals(PPS)와 연동한다고 발표했다. 바이어는 작품 전체에 붙는 라벨 하나 대신 퍼블리셔 영상 콘텐츠의 장면별 맥락을 받게 된다."
+            "x": "OpenAI가 Shopping with ChatGPT Search 도움말 문서에서 \"상품 결과는 ChatGPT가 독립적으로 선택하며 광고가 아니고, 어떤 OpenAI 제휴의 영향도 받지 않는다\"는 문장을 고쳤다. 지금은 \"상품 결과는 광고가 아니다. 상품과 판매자를 선정하는 방식은 아래에 설명한다\"라고만 적혀 있다. OpenAI 제휴와 무관하고 그 영향도 받지 않는다는 고지가 사라진 셈이다."
           },
           {
             "t": "p",
-            "x": "AI Scene Analysis는 Bitmovin VOD Encoder와 Player에 미리 들어가 있다. 모든 에셋의 모든 장면을 언어와 관계없이 분석해 IAB Content Taxonomy 카테고리에 매핑하고, 광고를 자연스럽게 넣을 지점을 짚는 광고 기회 점수를 매긴다."
+            "x": "현재 도움말 문서를 과거 보관본과 비교하면 바뀐 부분이 보인다. 두 문서의 diff는 다음과 같다."
           },
           {
             "t": "img",
-            "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-            "cap": "장면 단위 신호와 오디언스 신호는 인코딩된 에셋에서 출발해 Bitmovin Player와 IMA SDK를 거쳐 Google Ad Manager로 간다"
+            "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+            "cap": "Chatgpt Products Doc Diff(ChatGPT 상품 문서 비교)"
           },
           {
             "t": "p",
-            "x": "Bitmovin Player는 광고 요청이 들어올 때마다 이 신호를 퍼블리셔의 퍼스트파티 오디언스 세그먼트와 함께 IMA SDK로 Google Ad Manager에 넘긴다. Open Auction, Private Auction, Preferred Deals, Programmatic Guaranteed에 모두 적용되고, 사용자 식별자는 바이어에게 공유하지 않는다."
+            "x": "문서치고는 꽤 큰 변화 같다. 그렇지 않은가?"
           },
           {
             "t": "p",
-            "x": "연동은 AI Scene Analysis와 Bitmovin Player를 Google IMA SDK와 함께 쓰는 Bitmovin 고객에게 바로 열려 있다. CPO Reinhard Grandl은 \"이제 모든 장면이 어떤 언어로든 자체 맥락을 광고 요청에 자동으로 담을 수 있다\"고 말했다."
+            "x": "Juozas Kaziukėnas가 X에 올린 글을 보고 이 변화를 알게 됐다. 그는 \"ChatGPT 쇼핑 도움말 페이지는 더 이상 상품 결과가 어떤 OpenAI 제휴의 영향도 받지 않는다(NOT)고 말하지 않는다\"고 썼다. 그가 이 변경을 찾은 곳은 aivisibilityjournal.com이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bitmovin sends scene-level AI\nsignals to Google Ad Manager",
-          "body": "Bitmovin's AI Scene Analysis now feeds scene-level context from video into Google Ad Manager's ad decisioning.",
-          "mini_headline": "Bitmovin brings scene signals to GAM",
+          "headline": "OpenAI drops a partnership\npledge from ChatGPT shopping",
+          "body": "OpenAI's shopping help page no longer says ChatGPT product results are free of any OpenAI partnership influence.",
+          "mini_headline": "ChatGPT shopping pledge dropped",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Reinhard Grandl, Chief Product Officer, Bitmovin"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovin has announced an integration between Bitmovin's AI Scene Analysis and publisher-provided signals (PPS) in Google Ad Manager, giving buyers scene-by-scene context for publishers' video content rather than a single label for the whole title."
+                "x": "OpenAI updated its Shopping with ChatGPT Search help documentation to update the line that says \"Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships.\" It now says, \"Product results are not ads; how products and merchants are selected is described below.\" In short, OpenAI removed the disclaimer that these shopping results are independent of and not influenced by any OpenAI partnerships."
               },
               {
                 "t": "p",
-                "x": "AI Scene Analysis, pre-integrated into Bitmovin's VOD Encoder and Player, analyses every scene of every asset, in any language, maps it to IAB Content Taxonomy categories and adds an ad-opportunity score that identifies natural break points."
+                "x": "The live help document when compared to the old archived document shows the change but here is a diff comparing the two:"
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "How scene-level and audience signals travel from an encoded asset to Google Ad Manager through Bitmovin's Player and the IMA SDK"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff"
               },
               {
                 "t": "p",
-                "x": "On every ad request, Bitmovin's Player passes those signals to Google Ad Manager through the IMA SDK, with the publisher's first-party audience segments, across Open Auction, Private Auction, Preferred Deals and Programmatic Guaranteed — without sharing user identifiers with buyers."
+                "x": "This seems like a substantial change to its documentation, don't you think?"
               },
               {
                 "t": "p",
-                "x": "The integration is available now to Bitmovin customers using AI Scene Analysis and Bitmovin's Player with the Google IMA SDK. \"Every scene can now automatically carry its own context into the ad request in any language,\" said CPO Reinhard Grandl."
+                "x": "I spotted this via Juozas Kaziukėnas who posted on X saying, \"ChatGPT shopping help page no longer says product results are NOT influenced by any OpenAI partnerships.\" He spotted this change on aivisibilityjournal.com."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Bitmovin 장면 AI\n신호를 GAM에 보낸다",
-          "body": "Bitmovin이 영상 장면 맥락을 Google Ad Manager에 보낸다.",
-          "mini_headline": "Bitmovin, GAM에 장면 신호 전달",
+          "headline": "ChatGPT 쇼핑에서\nOpenAI 제휴문구 삭제",
+          "body": "OpenAI 쇼핑 도움말에서 ChatGPT 상품 결과의 제휴 무관 문구가 빠졌다.",
+          "mini_headline": "ChatGPT 쇼핑, 제휴 무관 문구 삭제",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Reinhard Grandl, Bitmovin Chief Product Officer"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovin이 자사 AI Scene Analysis를 Google Ad Manager의 publisher-provided signals(PPS)와 연동한다고 발표했다. 바이어는 작품 전체에 붙는 라벨 하나 대신 퍼블리셔 영상 콘텐츠의 장면별 맥락을 받게 된다."
+                "x": "OpenAI가 Shopping with ChatGPT Search 도움말 문서에서 \"상품 결과는 ChatGPT가 독립적으로 선택하며 광고가 아니고, 어떤 OpenAI 제휴의 영향도 받지 않는다\"는 문장을 고쳤다. 지금은 \"상품 결과는 광고가 아니다. 상품과 판매자를 선정하는 방식은 아래에 설명한다\"라고만 적혀 있다. OpenAI 제휴와 무관하고 그 영향도 받지 않는다는 고지가 사라진 셈이다."
               },
               {
                 "t": "p",
-                "x": "AI Scene Analysis는 Bitmovin VOD Encoder와 Player에 미리 들어가 있다. 모든 에셋의 모든 장면을 언어와 관계없이 분석해 IAB Content Taxonomy 카테고리에 매핑하고, 광고를 자연스럽게 넣을 지점을 짚는 광고 기회 점수를 매긴다."
+                "x": "현재 도움말 문서를 과거 보관본과 비교하면 바뀐 부분이 보인다. 두 문서의 diff는 다음과 같다."
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "장면 단위 신호와 오디언스 신호는 인코딩된 에셋에서 출발해 Bitmovin Player와 IMA SDK를 거쳐 Google Ad Manager로 간다"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff(ChatGPT 상품 문서 비교)"
               },
               {
                 "t": "p",
-                "x": "Bitmovin Player는 광고 요청이 들어올 때마다 이 신호를 퍼블리셔의 퍼스트파티 오디언스 세그먼트와 함께 IMA SDK로 Google Ad Manager에 넘긴다. Open Auction, Private Auction, Preferred Deals, Programmatic Guaranteed에 모두 적용되고, 사용자 식별자는 바이어에게 공유하지 않는다."
+                "x": "문서치고는 꽤 큰 변화 같다. 그렇지 않은가?"
               },
               {
                 "t": "p",
-                "x": "연동은 AI Scene Analysis와 Bitmovin Player를 Google IMA SDK와 함께 쓰는 Bitmovin 고객에게 바로 열려 있다. CPO Reinhard Grandl은 \"이제 모든 장면이 어떤 언어로든 자체 맥락을 광고 요청에 자동으로 담을 수 있다\"고 말했다."
+                "x": "Juozas Kaziukėnas가 X에 올린 글을 보고 이 변화를 알게 됐다. 그는 \"ChatGPT 쇼핑 도움말 페이지는 더 이상 상품 결과가 어떤 OpenAI 제휴의 영향도 받지 않는다(NOT)고 말하지 않는다\"고 썼다. 그가 이 변경을 찾은 곳은 aivisibilityjournal.com이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bitmovin、シーン\n単位のAI信号をGAMへ",
-          "body": "Bitmovinが映像のシーン文脈をGoogle Ad Managerに渡す。",
-          "mini_headline": "Bitmovin、GAMにシーン信号",
+          "headline": "ChatGPTショッピング\nOpenAIが提携文言を削除",
+          "body": "OpenAIのヘルプはChatGPTの商品結果が提携の影響を受けないと書かなくなった。",
+          "mini_headline": "ChatGPT買い物、提携文言を削除",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Bitmovin Chief Product Officer、Reinhard Grandl"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovinは、自社のAI Scene AnalysisとGoogle Ad Managerのpublisher-provided signals（PPS）の連携を発表した。バイヤーは作品全体に付く単一のラベルではなく、パブリッシャーの映像コンテンツについてシーンごとの文脈を得られる。"
+                "x": "OpenAIは「Shopping with ChatGPT Search」のヘルプ文書で、「商品結果はChatGPTが独自に選んだもので、広告ではなく、いかなるOpenAIの提携の影響も受けていない」という一文を更新した。現在は「商品結果は広告ではない。商品と販売事業者の選び方は以下で説明する」となっている。要するにOpenAIは、これらのショッピング結果がOpenAIの提携から独立し、その影響を受けていないという断り書きを削除した。"
               },
               {
                 "t": "p",
-                "x": "BitmovinのVOD EncoderとPlayerにあらかじめ統合されたAI Scene Analysisは、あらゆるアセットの全シーンを言語を問わず分析し、IAB Content Taxonomyのカテゴリーに対応付け、自然な区切りを示す広告機会スコアを付与する。"
+                "x": "現行のヘルプ文書を以前のアーカイブ版と比べると変更がわかるが、両者を比較したdiffは次のとおりだ。"
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "シーン単位とオーディエンスのシグナルが、エンコード済みアセットからBitmovinのPlayerとIMA SDKを経てGoogle Ad Managerへ届く流れ"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff（ChatGPT商品ドキュメントの差分）"
               },
               {
                 "t": "p",
-                "x": "BitmovinのPlayerは広告リクエストのたびに、パブリッシャーのファーストパーティ・オーディエンスセグメントとともに、これらのシグナルをIMA SDK経由でGoogle Ad Managerに渡す。Open Auction、Private Auction、Preferred Deals、Programmatic Guaranteedのすべてで機能し、ユーザー識別子はバイヤーと共有しない。"
+                "x": "ドキュメントとしてはかなり大きな変更ではないだろうか。"
               },
               {
                 "t": "p",
-                "x": "この連携は、AI Scene AnalysisとBitmovinのPlayerをGoogle IMA SDKと組み合わせて使うBitmovin顧客向けに提供が始まっている。CPOのReinhard Grandlは「あらゆるシーンが、どの言語でも自らの文脈を自動的に広告リクエストへ載せられるようになった」と述べた。"
+                "x": "これはJuozas Kaziukėnas氏のXへの投稿で知った。同氏は「ChatGPTのショッピングヘルプページは、商品結果がいかなるOpenAIの提携の影響も受けない（NOT）とは、もう書いていない」と投稿した。同氏はこの変更をaivisibilityjournal.comで見つけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bitmovin把场景级AI\n信号送入GAM",
-          "body": "Bitmovin将视频场景语境送入Google Ad Manager的广告决策。",
-          "mini_headline": "Bitmovin为GAM带来场景信号",
+          "headline": "ChatGPT购物页\nOpenAI删去合作声明",
+          "body": "OpenAI购物帮助页不再称ChatGPT商品结果不受任何OpenAI合作影响。",
+          "mini_headline": "ChatGPT购物删去合作声明",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Bitmovin Chief Product Officer Reinhard Grandl"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovin宣布，其AI Scene Analysis与Google Ad Manager中的publisher-provided signals（PPS）实现集成，让买方获得出版商视频内容的逐场景语境，而不是整部作品只有一个标签。"
+                "x": "OpenAI更新了Shopping with ChatGPT Search帮助文档，修改了其中“商品结果由ChatGPT独立选择，并非广告，也不受任何OpenAI合作关系影响”这句话。现在的表述是：“商品结果并非广告；商品和商家的选择方式见下文说明。”简而言之，OpenAI删除了这些购物结果独立于任何OpenAI合作关系、不受其影响的声明。"
               },
               {
                 "t": "p",
-                "x": "AI Scene Analysis已预先集成到Bitmovin的VOD Encoder和Player中，可用任何语言分析每个资产的每个场景，将其映射到IAB Content Taxonomy类别，并添加用于识别自然插播点的广告机会评分。"
+                "x": "将当前帮助文档与旧的存档文档相比即可看出变化，下面是两者的diff对比："
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "场景级和受众信号如何从编码后的资产经由Bitmovin的Player和IMA SDK传到Google Ad Manager"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff（ChatGPT商品文档差异对比）"
               },
               {
                 "t": "p",
-                "x": "每次广告请求时，Bitmovin的Player都会通过IMA SDK把这些信号连同出版商的第一方受众细分一起传给Google Ad Manager，覆盖Open Auction、Private Auction、Preferred Deals和Programmatic Guaranteed，且不与买方共享用户标识符。"
+                "x": "这对其文档来说似乎是相当大的改动，你不觉得吗？"
               },
               {
                 "t": "p",
-                "x": "该集成现已向使用AI Scene Analysis以及搭配Google IMA SDK的Bitmovin Player的Bitmovin客户开放。CPO Reinhard Grandl表示：“现在每个场景都能以任何语言，自动把自身语境带入广告请求。”"
+                "x": "我是通过Juozas Kaziukėnas在X上的帖子注意到这一点的，他写道：“ChatGPT购物帮助页面不再说明商品结果‘不’（NOT）受任何OpenAI合作关系影响。”他是在aivisibilityjournal.com上发现这一变化的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bitmovin envía señales de AI\npor escena a Google Ad Manager",
-          "body": "AI Scene Analysis de Bitmovin lleva el contexto de cada escena a las decisiones de anuncios de Google Ad Manager.",
-          "mini_headline": "Bitmovin lleva señales de escena a GAM",
+          "headline": "OpenAI retira un aviso sobre\nalianzas de compras en ChatGPT",
+          "body": "La ayuda de compras de OpenAI ya no dice que los resultados de ChatGPT estén libres de influencia de sus alianzas.",
+          "mini_headline": "Compras en ChatGPT: se retira un compromiso",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Reinhard Grandl, Chief Product Officer de Bitmovin"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovin anunció una integración entre su AI Scene Analysis y las publisher-provided signals (PPS) de Google Ad Manager, que da a los compradores contexto escena por escena del contenido de video de los editores en lugar de una sola etiqueta para todo el título."
+                "x": "OpenAI actualizó su documentación de ayuda de Shopping with ChatGPT Search para modificar la frase que decía: \"Los resultados de productos son seleccionados de forma independiente por ChatGPT y no son anuncios, ni están influidos por ninguna alianza de OpenAI\". Ahora dice: \"Los resultados de productos no son anuncios; a continuación se describe cómo se seleccionan los productos y los comercios\". En resumen, OpenAI eliminó la aclaración de que estos resultados de compras son independientes de cualquier alianza de OpenAI y no están influidos por ella."
               },
               {
                 "t": "p",
-                "x": "AI Scene Analysis, preintegrado en el VOD Encoder y el Player de Bitmovin, analiza cada escena de cada recurso, en cualquier idioma, la asigna a categorías de la IAB Content Taxonomy y añade una puntuación de oportunidad publicitaria que identifica pausas naturales."
+                "x": "El documento de ayuda actual, comparado con el antiguo documento archivado, muestra el cambio, pero aquí hay un diff que compara ambos:"
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "Cómo las señales de escena y de audiencia viajan desde un recurso codificado hasta Google Ad Manager a través del Player de Bitmovin y el IMA SDK"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff (comparación de documentos de productos de ChatGPT)"
               },
               {
                 "t": "p",
-                "x": "En cada solicitud de anuncio, el Player de Bitmovin pasa esas señales a Google Ad Manager mediante el IMA SDK, junto con los segmentos de audiencia propios del editor, en Open Auction, Private Auction, Preferred Deals y Programmatic Guaranteed, sin compartir identificadores de usuario con los compradores."
+                "x": "Parece un cambio importante en su documentación, ¿no crees?"
               },
               {
                 "t": "p",
-                "x": "La integración ya está disponible para los clientes de Bitmovin que usan AI Scene Analysis y el Player de Bitmovin con el Google IMA SDK. \"Ahora cada escena puede llevar automáticamente su propio contexto a la solicitud de anuncio, en cualquier idioma\", dijo el CPO Reinhard Grandl."
+                "x": "Lo vi a través de Juozas Kaziukėnas, que publicó en X: \"La página de ayuda de compras de ChatGPT ya no dice que los resultados de productos NO (NOT) están influidos por ninguna alianza de OpenAI\". Él detectó el cambio en aivisibilityjournal.com."
               }
             ]
           }
@@ -1225,145 +1099,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Bitmovin 장면 AI\n신호를 GAM에 보낸다",
-          "body": "Bitmovin이 영상 장면 맥락을 Google Ad Manager에 보낸다.",
-          "mini_headline": "Bitmovin, GAM에 장면 신호 전달",
+          "headline": "ChatGPT 쇼핑에서\nOpenAI 제휴문구 삭제",
+          "body": "OpenAI 쇼핑 도움말에서 ChatGPT 상품 결과의 제휴 무관 문구가 빠졌다.",
+          "mini_headline": "ChatGPT 쇼핑, 제휴 무관 문구 삭제",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Reinhard Grandl, Bitmovin Chief Product Officer"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovin이 자사 AI Scene Analysis와 Google Ad Manager의 publisher-provided signals(PPS) 연동을 발표했다. 이로써 바이어는 작품 전체에 붙는 단일 라벨 대신 퍼블리셔 영상 콘텐츠의 장면별 맥락을 얻는다."
+                "x": "OpenAI가 Shopping with ChatGPT Search 도움말 문서에서 \"상품 결과는 ChatGPT가 독립적으로 선택하며 광고가 아니고, 어떤 OpenAI 제휴의 영향도 받지 않는다\"는 문장을 고쳤다. 현재 문구는 \"상품 결과는 광고가 아니다. 상품과 판매자를 선정하는 방식은 아래에 설명한다\"이다. 요컨대 OpenAI는 이 쇼핑 결과가 어떤 OpenAI 제휴와도 무관하며 그 영향을 받지 않는다는 고지를 삭제했다."
               },
               {
                 "t": "p",
-                "x": "Bitmovin VOD Encoder와 Player에 미리 통합된 AI Scene Analysis는 모든 에셋의 모든 장면을 언어와 무관하게 분석해 IAB Content Taxonomy 카테고리에 매핑하고, 자연스러운 광고 삽입 지점을 짚어내는 광고 기회 점수를 붙인다."
+                "x": "현재 도움말 문서를 과거 보관본과 비교하면 변경 사항이 드러나지만, 두 문서를 비교한 diff는 다음과 같다."
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "장면 단위 신호와 오디언스 신호가 인코딩된 에셋에서 Bitmovin Player와 IMA SDK를 거쳐 Google Ad Manager로 전달되는 과정"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff(ChatGPT 상품 문서 비교)"
               },
               {
                 "t": "p",
-                "x": "광고 요청마다 Bitmovin Player는 이 신호를 퍼블리셔의 퍼스트파티 오디언스 세그먼트와 함께 IMA SDK를 통해 Google Ad Manager로 보낸다. Open Auction, Private Auction, Preferred Deals, Programmatic Guaranteed 전반에 적용되며, 사용자 식별자는 바이어와 공유하지 않는다."
+                "x": "문서로서는 꽤 큰 변화로 보인다. 그렇지 않은가?"
               },
               {
                 "t": "p",
-                "x": "이 연동은 AI Scene Analysis와 Bitmovin Player를 Google IMA SDK와 함께 쓰는 Bitmovin 고객에게 지금 제공된다. CPO Reinhard Grandl은 \"이제 모든 장면이 어떤 언어로든 자체 맥락을 광고 요청에 자동으로 담을 수 있다\"고 말했다."
+                "x": "이 변화는 Juozas Kaziukėnas가 X에 올린 글을 통해 알게 됐다. 그는 \"ChatGPT 쇼핑 도움말 페이지는 더 이상 상품 결과가 어떤 OpenAI 제휴의 영향도 받지 않는다(NOT)고 말하지 않는다\"고 썼다. 그는 aivisibilityjournal.com에서 이 변경을 발견했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bitmovin、シーン\n単位のAI信号をGAMへ",
-          "body": "Bitmovinが映像のシーン文脈をGoogle Ad Managerに渡す。",
-          "mini_headline": "Bitmovin、GAMにシーン信号",
+          "headline": "ChatGPTショッピング\nOpenAIが提携文言を削除",
+          "body": "OpenAIのヘルプはChatGPTの商品結果が提携の影響を受けないと書かなくなった。",
+          "mini_headline": "ChatGPT買い物、提携文言を削除",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Bitmovin Chief Product Officer、Reinhard Grandl"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovinは、自社のAI Scene AnalysisとGoogle Ad Managerのpublisher-provided signals（PPS）の連携を発表した。バイヤーは作品全体に付く単一のラベルではなく、パブリッシャーの映像コンテンツについてシーンごとの文脈を得られる。"
+                "x": "OpenAIは「Shopping with ChatGPT Search」のヘルプ文書で、「商品結果はChatGPTが独自に選んだもので、広告ではなく、いかなるOpenAIの提携の影響も受けていない」という一文を更新した。現在は「商品結果は広告ではない。商品と販売事業者の選び方は以下で説明する」となっている。要するにOpenAIは、これらのショッピング結果がOpenAIの提携から独立し、その影響を受けていないという断り書きを削除した。"
               },
               {
                 "t": "p",
-                "x": "BitmovinのVOD EncoderとPlayerにあらかじめ統合されたAI Scene Analysisは、あらゆるアセットの全シーンを言語を問わず分析し、IAB Content Taxonomyのカテゴリーに対応付け、自然な区切りを示す広告機会スコアを付与する。"
+                "x": "現行のヘルプ文書を以前のアーカイブ版と比べると変更がわかるが、両者を比較したdiffは次のとおりだ。"
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "シーン単位とオーディエンスのシグナルが、エンコード済みアセットからBitmovinのPlayerとIMA SDKを経てGoogle Ad Managerへ届く流れ"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff（ChatGPT商品ドキュメントの差分）"
               },
               {
                 "t": "p",
-                "x": "BitmovinのPlayerは広告リクエストのたびに、パブリッシャーのファーストパーティ・オーディエンスセグメントとともに、これらのシグナルをIMA SDK経由でGoogle Ad Managerに渡す。Open Auction、Private Auction、Preferred Deals、Programmatic Guaranteedのすべてで機能し、ユーザー識別子はバイヤーと共有しない。"
+                "x": "ドキュメントとしてはかなり大きな変更ではないだろうか。"
               },
               {
                 "t": "p",
-                "x": "この連携は、AI Scene AnalysisとBitmovinのPlayerをGoogle IMA SDKと組み合わせて使うBitmovin顧客向けに提供が始まっている。CPOのReinhard Grandlは「あらゆるシーンが、どの言語でも自らの文脈を自動的に広告リクエストへ載せられるようになった」と述べた。"
+                "x": "これはJuozas Kaziukėnas氏のXへの投稿で知った。同氏は「ChatGPTのショッピングヘルプページは、商品結果がいかなるOpenAIの提携の影響も受けない（NOT）とは、もう書いていない」と投稿した。同氏はこの変更をaivisibilityjournal.comで見つけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bitmovin把场景级AI\n信号送入GAM",
-          "body": "Bitmovin将视频场景语境送入Google Ad Manager的广告决策。",
-          "mini_headline": "Bitmovin为GAM带来场景信号",
+          "headline": "ChatGPT购物页\nOpenAI删去合作声明",
+          "body": "OpenAI购物帮助页不再称ChatGPT商品结果不受任何OpenAI合作影响。",
+          "mini_headline": "ChatGPT购物删去合作声明",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Bitmovin Chief Product Officer Reinhard Grandl"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovin宣布，其AI Scene Analysis与Google Ad Manager中的publisher-provided signals（PPS）实现集成，让买方获得出版商视频内容的逐场景语境，而不是整部作品只有一个标签。"
+                "x": "OpenAI更新了Shopping with ChatGPT Search帮助文档，修改了其中“商品结果由ChatGPT独立选择，并非广告，也不受任何OpenAI合作关系影响”这句话。现在的表述是：“商品结果并非广告；商品和商家的选择方式见下文说明。”简而言之，OpenAI删除了这些购物结果独立于任何OpenAI合作关系、不受其影响的声明。"
               },
               {
                 "t": "p",
-                "x": "AI Scene Analysis已预先集成到Bitmovin的VOD Encoder和Player中，可用任何语言分析每个资产的每个场景，将其映射到IAB Content Taxonomy类别，并添加用于识别自然插播点的广告机会评分。"
+                "x": "将当前帮助文档与旧的存档文档相比即可看出变化，下面是两者的diff对比："
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "场景级和受众信号如何从编码后的资产经由Bitmovin的Player和IMA SDK传到Google Ad Manager"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff（ChatGPT商品文档差异对比）"
               },
               {
                 "t": "p",
-                "x": "每次广告请求时，Bitmovin的Player都会通过IMA SDK把这些信号连同出版商的第一方受众细分一起传给Google Ad Manager，覆盖Open Auction、Private Auction、Preferred Deals和Programmatic Guaranteed，且不与买方共享用户标识符。"
+                "x": "这对其文档来说似乎是相当大的改动，你不觉得吗？"
               },
               {
                 "t": "p",
-                "x": "该集成现已向使用AI Scene Analysis以及搭配Google IMA SDK的Bitmovin Player的Bitmovin客户开放。CPO Reinhard Grandl表示：“现在每个场景都能以任何语言，自动把自身语境带入广告请求。”"
+                "x": "我是通过Juozas Kaziukėnas在X上的帖子注意到这一点的，他写道：“ChatGPT购物帮助页面不再说明商品结果‘不’（NOT）受任何OpenAI合作关系影响。”他是在aivisibilityjournal.com上发现这一变化的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bitmovin envía señales de AI\npor escena a Google Ad Manager",
-          "body": "AI Scene Analysis de Bitmovin lleva el contexto de cada escena a las decisiones de anuncios de Google Ad Manager.",
-          "mini_headline": "Bitmovin lleva señales de escena a GAM",
+          "headline": "OpenAI retira un aviso sobre\nalianzas de compras en ChatGPT",
+          "body": "La ayuda de compras de OpenAI ya no dice que los resultados de ChatGPT estén libres de influencia de sus alianzas.",
+          "mini_headline": "Compras en ChatGPT: se retira un compromiso",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/Reinhard-Grandl_edited.jpg",
-                "cap": "Reinhard Grandl, Chief Product Officer de Bitmovin"
+                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
               },
               {
                 "t": "p",
-                "x": "Bitmovin anunció una integración entre su AI Scene Analysis y las publisher-provided signals (PPS) de Google Ad Manager, que da a los compradores contexto escena por escena del contenido de video de los editores en lugar de una sola etiqueta para todo el título."
+                "x": "OpenAI actualizó su documentación de ayuda de Shopping with ChatGPT Search para modificar la frase que decía: \"Los resultados de productos son seleccionados de forma independiente por ChatGPT y no son anuncios, ni están influidos por ninguna alianza de OpenAI\". Ahora dice: \"Los resultados de productos no son anuncios; a continuación se describe cómo se seleccionan los productos y los comercios\". En resumen, OpenAI eliminó la aclaración de que estos resultados de compras son independientes de cualquier alianza de OpenAI y no están influidos por ella."
               },
               {
                 "t": "p",
-                "x": "AI Scene Analysis, preintegrado en el VOD Encoder y el Player de Bitmovin, analiza cada escena de cada recurso, en cualquier idioma, la asigna a categorías de la IAB Content Taxonomy y añade una puntuación de oportunidad publicitaria que identifica pausas naturales."
+                "x": "El documento de ayuda actual, comparado con el antiguo documento archivado, muestra el cambio, pero aquí hay un diff que compara ambos:"
               },
               {
                 "t": "img",
-                "src": "https://content-technology.com/wp-content/uploads/2026/11/How-scene-level-and-audience-signals-travel-from-an-encoded-asset-to-Google-Ad-Manager-through-Bitmovins-Player-and-the-IMA-SDK.jpg",
-                "cap": "Cómo las señales de escena y de audiencia viajan desde un recurso codificado hasta Google Ad Manager a través del Player de Bitmovin y el IMA SDK"
+                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
+                "cap": "Chatgpt Products Doc Diff (comparación de documentos de productos de ChatGPT)"
               },
               {
                 "t": "p",
-                "x": "En cada solicitud de anuncio, el Player de Bitmovin pasa esas señales a Google Ad Manager mediante el IMA SDK, junto con los segmentos de audiencia propios del editor, en Open Auction, Private Auction, Preferred Deals y Programmatic Guaranteed, sin compartir identificadores de usuario con los compradores."
+                "x": "Parece un cambio importante en su documentación, ¿no crees?"
               },
               {
                 "t": "p",
-                "x": "La integración ya está disponible para los clientes de Bitmovin que usan AI Scene Analysis y el Player de Bitmovin con el Google IMA SDK. \"Ahora cada escena puede llevar automáticamente su propio contexto a la solicitud de anuncio, en cualquier idioma\", dijo el CPO Reinhard Grandl."
+                "x": "Lo vi a través de Juozas Kaziukėnas, que publicó en X: \"La página de ayuda de compras de ChatGPT ya no dice que los resultados de productos NO (NOT) están influidos por ninguna alianza de OpenAI\". Él detectó el cambio en aivisibilityjournal.com."
               }
             ]
           }
@@ -1371,421 +1241,321 @@
       }
     },
     {
-      "id": "agentic-black-friday-rocky",
-      "source_lang": "en",
+      "id": "organicity-d2c-ai",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "첫 Black Friday\n에이전트 쇼핑은 삐걱",
-      "body": "만료 상품, Amazon·eBay 차단, 불신이 AI 쇼핑 에이전트를 늦춘다.",
-      "mini_headline": "에이전트 Black Friday, 휘청",
+      "headline": "오가니시티, 자사몰에\nAI 상담을 넣다",
+      "body": "오가니시티는 리뷰·상담 약 6만 건을 활용한 AI 상담으로 제품 조합을 안내한다.",
+      "mini_headline": "오가니시티 자사몰 AI",
       "tool": "Marketing",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers",
+      "source": "바이라인네트워크",
+      "url": "https://byline.network/2026/11/23_291827734-2/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-            "cap": "AI 에이전트는 소매에 작지만 뚜렷한 흔적을 남기는 중이다."
-          },
-          {
             "t": "p",
-            "x": "Dean Mandelos는 요리를 좋아하는 자매에게 줄 선물을 Meta의 Muse 에이전트에게 물었고, 칼 세트를 추천받았다. 하지만 만료되거나 품절된 상품 목록에 막혔고 Amazon과 eBay에서는 아예 차단당했다. \"더 믿을 이유가 있어야 한다\"는 게 그의 말이다."
-          },
-          {
-            "t": "p",
-            "x": "Kantar 애널리스트 Gina Logan은 \"AI가 실제로 의미 있는 역할을 할 수 있는 첫 Black Friday인 것은 분명하지만, 아직 완전히 자율적이지는 않다\"고 말했다. 이어 \"쇼핑객의 삼분의 이가 적어도 가끔은 쇼핑에 AI를 쓰지만, 절반 이상은 여전히 구매 결정을 직접 하고 싶어 한다\"고 덧붙였다."
+            "x": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’, ‘PDRN 2500ppm’. 스킨케어 브랜드 ‘오가니시티’는 주요 성분과 함량을 제품명에 내세웁니다. 성분을 찾는 사람은 제품을 쉽게 발견하지만, 어떤 성분을 써야 하는지 모르는 사람에게는 장벽이 됩니다."
           },
           {
             "t": "img",
-            "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-            "cap": "쇼핑객은 습관을 쉽게 바꾸지 않는다."
+            "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+            "cap": "지난 11일 서울 동대문구에서 만난 송보경 위튼컴퍼니 대표 (출처=바이라인네트워크)"
           },
           {
             "t": "p",
-            "x": "Bain & Co.가 Similarweb 데이터를 분석해 보니 소매업체 웹 트래픽에서 AI 어시스턴트가 차지한 몫은 1%에도 못 미쳤다. 10월 마지막 주 Uber 거래 약 3억2000만 건 중 AI 에이전트를 거친 것은 약 500건에 그쳤다. All Star Elite에서도 에이전트 트래픽은 방문의 약 1%이고, 대부분 Muse에서 들어온다."
+            "x": "오가니시티는 올해 카페24 기반 자사몰을 구축하고 성분사전, 피부 고민별 제품 탐색, 인공지능(AI) 상담 세 가지 기능을 마련했습니다. 송 대표는 “실제 고객 상담에서는 어떤 제품을 선택해야 하는지뿐 아니라, 다른 제품과 함께 사용해도 되는지, 아침과 저녁 중 언제 사용하는 것이 적절한지 등의 질문이 반복적으로 발생한다”고 설명했습니다. 이렇게 사람이 답했던 질문을 AI가 대신 답합니다."
           },
           {
             "t": "p",
-            "x": "Walmart는 에이전트 쇼핑을 돕는 도구를 내놓는 반면, Amazon은 Alexa를 앞세우며 외부 봇을 막는다."
+            "x": "오가니시티는 기술기업 아티웰스와 협력해 네이버 스마트스토어에 쌓인 약 6만 건의 리뷰와 고객 상담 데이터를 AI가 활용할 수 있는 형태로 가공하고, 자체 보유한 성분·제품 정보와 결합했습니다. 고객의 질문에 맞춰 제품 조합과 사용 방법까지 안내합니다."
           },
           {
-            "t": "img",
-            "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-            "cap": "Amazon은 서드파티 AI 에이전트가 자사 사이트에 온전히 접근하지 못하게 막는다."
+            "t": "p",
+            "x": "회사의 매출은 2024년 약 4억9800만원에서 2025년 약 16억7800만원으로 늘었습니다. 운영한 지 몇달 되지 않은 자사몰 매출은 스마트스토어 매출의 약 30% 수준까지 높아졌습니다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "The first agentic Black Friday\ngets off to a rocky start",
-          "body": "Expired listings, blocks from Amazon and eBay, and low shopper trust are slowing AI shopping agents' holiday debut.",
-          "mini_headline": "Agentic Black Friday stumbles",
+        "ko": {
+          "headline": "오가니시티, 자사몰에\nAI 상담을 넣다",
+          "body": "오가니시티는 리뷰·상담 약 6만 건을 활용한 AI 상담으로 제품 조합을 안내한다.",
+          "mini_headline": "오가니시티 자사몰 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "AI agents are making a small but distinct mark on retail."
-              },
-              {
                 "t": "p",
-                "x": "Dean Mandelos asked Meta's Muse agent for a gift for his sister, who loves to cook; it recommended a set of knives. It also hit listings that had expired or sold out, and outright blocks from Amazon and eBay. \"I need to have a reason to trust it more,\" he said."
-              },
-              {
-                "t": "p",
-                "x": "\"It's the first Black Friday that AI can really play a meaningful role for sure, but it's not fully autonomous yet,\" said Kantar analyst Gina Logan. \"Two-thirds of shoppers are using AI for shopping at least sometimes, but over half still prefer to control their own shopping decisions.\""
+                "x": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’, ‘PDRN 2500ppm’. 스킨케어 브랜드 ‘오가니시티’는 주요 성분과 함량을 제품명에 내세웁니다. 성분을 찾는 사람은 제품을 쉽게 발견하지만, 어떤 성분을 써야 하는지 모르는 사람에게는 장벽이 됩니다."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "Shoppers tend to be slow to change their habits."
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "지난 11일 서울 동대문구에서 만난 송보경 위튼컴퍼니 대표 (출처=바이라인네트워크)"
               },
               {
                 "t": "p",
-                "x": "A Bain & Co. analysis of Similarweb data found AI assistants are less than 1% of retailers' web traffic; of about 320 million Uber transactions in the final week of October, only about 500 came from AI agents. At All Star Elite, agentic traffic is about 1% of visits, mostly from Muse."
+                "x": "오가니시티는 올해 카페24 기반 자사몰을 구축하고 성분사전, 피부 고민별 제품 탐색, 인공지능(AI) 상담 세 가지 기능을 마련했습니다. 송 대표는 “실제 고객 상담에서는 어떤 제품을 선택해야 하는지뿐 아니라, 다른 제품과 함께 사용해도 되는지, 아침과 저녁 중 언제 사용하는 것이 적절한지 등의 질문이 반복적으로 발생한다”고 설명했습니다. 이렇게 사람이 답했던 질문을 AI가 대신 답합니다."
               },
               {
                 "t": "p",
-                "x": "Walmart is rolling out tools to make agentic shopping easier, while Amazon blocks external bots in favor of Alexa."
+                "x": "오가니시티는 기술기업 아티웰스와 협력해 네이버 스마트스토어에 쌓인 약 6만 건의 리뷰와 고객 상담 데이터를 AI가 활용할 수 있는 형태로 가공하고, 자체 보유한 성분·제품 정보와 결합했습니다. 고객의 질문에 맞춰 제품 조합과 사용 방법까지 안내합니다."
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazon is blocking third-party AI agents from fully accessing its site."
+                "t": "p",
+                "x": "회사의 매출은 2024년 약 4억9800만원에서 2025년 약 16억7800만원으로 늘었습니다. 운영한 지 몇달 되지 않은 자사몰 매출은 스마트스토어 매출의 약 30% 수준까지 높아졌습니다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "첫 Black Friday\n에이전트 쇼핑은 삐걱",
-          "body": "만료 상품, Amazon·eBay 차단, 불신이 AI 쇼핑 에이전트를 늦춘다.",
-          "mini_headline": "에이전트 Black Friday, 휘청",
+        "en": {
+          "headline": "Organicity adds AI consultation\nto its own online store",
+          "body": "Organicity's AI consultation draws on about 60,000 reviews and inquiries to recommend product combinations.",
+          "mini_headline": "Organicity's in-house store AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "AI 에이전트는 소매에 작지만 뚜렷한 흔적을 남기는 중이다."
-              },
-              {
                 "t": "p",
-                "x": "Dean Mandelos는 요리를 좋아하는 자매에게 줄 선물을 Meta의 Muse 에이전트에게 물었고, 칼 세트를 추천받았다. 하지만 만료되거나 품절된 상품 목록에 막혔고 Amazon과 eBay에서는 아예 차단당했다. \"더 믿을 이유가 있어야 한다\"는 게 그의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Kantar 애널리스트 Gina Logan은 \"AI가 실제로 의미 있는 역할을 할 수 있는 첫 Black Friday인 것은 분명하지만, 아직 완전히 자율적이지는 않다\"고 말했다. 이어 \"쇼핑객의 삼분의 이가 적어도 가끔은 쇼핑에 AI를 쓰지만, 절반 이상은 여전히 구매 결정을 직접 하고 싶어 한다\"고 덧붙였다."
+                "x": "'Tranexamic Acid 10%', 'Niacinamide 10%', 'PDRN 2500ppm'. Skincare brand Organicity puts its key ingredients and their concentrations in its product names. That makes products easy to find for people who search by ingredient, but it is a barrier for people who don't know which ingredient they should use."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "쇼핑객은 습관을 쉽게 바꾸지 않는다."
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "Song Bo-kyung, CEO of Witten Company, met in Dongdaemun-gu, Seoul, on the 11th (Source: Byline Network)"
               },
               {
                 "t": "p",
-                "x": "Bain & Co.가 Similarweb 데이터를 분석해 보니 소매업체 웹 트래픽에서 AI 어시스턴트가 차지한 몫은 1%에도 못 미쳤다. 10월 마지막 주 Uber 거래 약 3억2000만 건 중 AI 에이전트를 거친 것은 약 500건에 그쳤다. All Star Elite에서도 에이전트 트래픽은 방문의 약 1%이고, 대부분 Muse에서 들어온다."
+                "x": "This year Organicity built its own online store on Cafe24 and set up three features: an ingredient dictionary, product search by skin concern, and artificial intelligence (AI) consultation. \"In actual customer consultations, questions come up again and again not only about which product to choose, but also about whether it can be used with other products and whether it is better used in the morning or in the evening,\" Song explained. The AI now answers the questions that people used to answer."
               },
               {
                 "t": "p",
-                "x": "Walmart는 에이전트 쇼핑을 돕는 도구를 내놓는 반면, Amazon은 Alexa를 앞세우며 외부 봇을 막는다."
+                "x": "Working with tech company Artiwealth, Organicity processed about 60,000 reviews and customer consultation records accumulated on Naver Smart Store into a form AI can use, and combined them with its own ingredient and product information. It guides customers through product combinations and even how to use them, based on their questions."
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazon은 서드파티 AI 에이전트가 자사 사이트에 온전히 접근하지 못하게 막는다."
+                "t": "p",
+                "x": "The company's revenue grew from about 4억9800만원 in 2024 to about 16억7800만원 in 2025. Sales at its own store, which has been running for only a few months, have risen to about 30% of its Smart Store sales."
               }
             ]
           }
         },
         "ja": {
-          "headline": "初のBlack Friday\nエージェント商戦は波乱",
-          "body": "期限切れの商品、AmazonとeBayの遮断、低い信頼がAI買い物エージェントを阻む。",
-          "mini_headline": "エージェント型Black Fridayはつまずく",
+          "headline": "オーガニシティ、\n自社モールにAI相談導入",
+          "body": "オーガニシティは約6万件のレビューと相談を生かしたAI相談で製品の組み合わせを案内する。",
+          "mini_headline": "オーガニシティの自社モールAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "AIエージェントは小売に小さいながらも明確な足跡を残しつつある。"
-              },
-              {
                 "t": "p",
-                "x": "Dean MandelosはMetaのMuseエージェントに、料理好きの姉妹への贈り物を尋ねた。エージェントは包丁セットを勧めたが、掲載期限切れや売り切れの商品に行き当たり、AmazonとeBayからは完全にブロックされた。「もっと信頼できる理由が必要だ」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "「AIが本当に意味のある役割を果たせる初めてのBlack Fridayであることは確かだが、まだ完全に自律してはいない」とKantarのアナリストGina Loganは語る。「買い物客の三分の二は少なくとも時々AIを買い物に使っているが、半数以上はいまも自分で購入を決めたいと考えている」"
+                "x": "「トラネキサム酸10%」「ナイアシンアミド10%」「PDRN 2500ppm」。スキンケアブランド「オーガニシティ」は、主要成分とその含有量を製品名に掲げる。成分で探す人には製品が見つけやすい一方、どの成分を使うべきかわからない人には壁になる。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "買い物客は習慣をなかなか変えない傾向がある。"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "11日、ソウル・東大門区で会ったウィトゥンカンパニーのソン・ボギョン代表（出典＝バイラインネットワーク）"
               },
               {
                 "t": "p",
-                "x": "Bain & Co.がSimilarwebのデータを分析したところ、AIアシスタントは小売業者のウェブトラフィックの1%未満だった。10月最終週のUberの取引約3億2000万件のうち、AIエージェント経由はわずか約500件だった。All Star Eliteでは、エージェント経由のトラフィックは訪問の約1%で、大半はMuseからだ。"
+                "x": "オーガニシティは今年、カフェ24を基盤とする自社モールを構築し、成分辞典、肌悩み別の製品探索、人工知能（AI）相談の三つの機能を用意した。ソン代表は「実際の顧客相談では、どの製品を選ぶべきかだけでなく、他の製品と一緒に使ってよいか、朝と夜のどちらに使うのが適切かといった質問が繰り返し寄せられる」と説明した。こうして人が答えていた質問に、AIが代わりに答える。"
               },
               {
                 "t": "p",
-                "x": "Walmartはエージェント型ショッピングを容易にするツールを展開している一方、AmazonはAlexaを優先して外部ボットをブロックしている。"
+                "x": "オーガニシティは技術企業アティウェルスと協力し、NAVERスマートストアに蓄積された約6万件のレビューと顧客相談データをAIが活用できる形に加工し、自社が持つ成分・製品情報と組み合わせた。顧客の質問に合わせ、製品の組み合わせから使い方まで案内する。"
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazonはサードパーティ製AIエージェントによる自社サイトへの完全なアクセスを遮断している。"
+                "t": "p",
+                "x": "同社の売上高は2024年の約4억9800만원から2025年には約16억7800만원に増えた。運営開始から数カ月しかたっていない自社モールの売上は、スマートストア売上の約30%の水準まで高まった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首个Black Friday\n智能体购物开局不顺",
-          "body": "过期商品、Amazon和eBay的封锁以及低信任度，拖慢了AI购物智能体的节日首秀。",
-          "mini_headline": "智能体Black Friday出师不利",
+          "headline": "Organicity在官网\n引入AI咨询服务",
+          "body": "Organicity利用约6万条评论与咨询数据，通过AI咨询推荐产品组合。",
+          "mini_headline": "Organicity官网AI咨询",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "AI智能体正在零售业留下虽小却清晰的印记。"
-              },
-              {
                 "t": "p",
-                "x": "Dean Mandelos请Meta的Muse智能体为爱做饭的姐妹挑礼物，它推荐了一套刀具。但它也碰到了已过期或已售罄的商品页面，还被Amazon和eBay直接拦截。“我需要一个更信任它的理由，”他说。"
-              },
-              {
-                "t": "p",
-                "x": "“这无疑是AI真正能发挥实质作用的第一个Black Friday，但它还没有完全自主，”Kantar分析师Gina Logan说。“三分之二的购物者至少有时会用AI购物，但超过一半的人仍更愿意自己掌控购物决定。”"
+                "x": "“传明酸10%”“烟酰胺10%”“PDRN 2500ppm”。护肤品牌Organicity把主要成分及含量写进产品名称。按成分找产品的人很容易发现它们，但对不清楚该用哪种成分的人来说，这反而成了门槛。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "购物者往往不会很快改变习惯。"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "11日在首尔东大门区见到的Witten Company代表宋宝京（来源：Byline Network）"
               },
               {
                 "t": "p",
-                "x": "Bain & Co.对Similarweb数据的分析发现，AI助手在零售商网站流量中占比不到1%；在10月最后一周约3.2亿笔Uber交易中，只有约500笔来自AI智能体。在All Star Elite，智能体流量约占访问量的1%，大部分来自Muse。"
+                "x": "Organicity今年基于Cafe24搭建了自营商城，并推出成分词典、按肌肤困扰查找产品、人工智能（AI）咨询三项功能。宋代表解释说：“在实际的客户咨询中，不仅是该选哪款产品，诸如能否与其他产品一起使用、早上还是晚上用更合适等问题也反复出现。”过去由人回答的这些问题，如今由AI代为回答。"
               },
               {
                 "t": "p",
-                "x": "Walmart正在推出让智能体购物更便捷的工具，而Amazon则屏蔽外部机器人，力推Alexa。"
+                "x": "Organicity与科技公司Artiwealth合作，将Naver Smart Store上积累的约6万条评论和客户咨询数据加工成AI可用的形式，并与自有的成分和产品信息相结合，根据顾客的问题推荐产品组合乃至使用方法。"
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazon正阻止第三方AI智能体完整访问其网站。"
+                "t": "p",
+                "x": "公司营收从2024年的约4억9800만원增至2025年的约16억7800만원。运营仅数月的自营商城，销售额已升至Smart Store销售额的约30%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El primer Black Friday agéntico\narranca con tropiezos",
-          "body": "Los listados caducados, los bloqueos de Amazon y eBay y la poca confianza frenan el debut de agentes de compra con AI.",
-          "mini_headline": "El Black Friday agéntico tropieza",
+          "headline": "Organicity añade asesoría AI\na su tienda online propia",
+          "body": "Organicity orienta sobre combinaciones de productos con una AI que usa unas 60.000 reseñas y consultas.",
+          "mini_headline": "La AI de la tienda propia de Organicity",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "Los agentes de AI dejan una huella pequeña pero clara en el comercio minorista."
-              },
-              {
                 "t": "p",
-                "x": "Dean Mandelos pidió al agente Muse de Meta un regalo para su hermana, a quien le encanta cocinar; le recomendó un juego de cuchillos. También se topó con publicaciones caducadas o agotadas, y con bloqueos directos de Amazon y eBay. \"Necesito tener una razón para confiar más en él\", dijo."
-              },
-              {
-                "t": "p",
-                "x": "\"Es el primer Black Friday en que la AI puede desempeñar de verdad un papel significativo, sin duda, pero todavía no es totalmente autónoma\", dijo la analista de Kantar Gina Logan. \"Dos tercios de los compradores usan AI para comprar al menos a veces, pero más de la mitad todavía prefiere controlar sus propias decisiones de compra\"."
+                "x": "'Ácido tranexámico 10%', 'Niacinamida 10%', 'PDRN 2500ppm'. La marca de cuidado de la piel Organicity destaca en el nombre de sus productos los ingredientes principales y su concentración. Quien busca por ingrediente encuentra los productos con facilidad, pero para quien no sabe qué ingrediente debe usar supone una barrera."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "Los compradores suelen tardar en cambiar sus hábitos."
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "Song Bo-kyung, CEO de Witten Company, el día 11 en Dongdaemun-gu, Seúl (fuente: Byline Network)"
               },
               {
                 "t": "p",
-                "x": "Un análisis de Bain & Co. sobre datos de Similarweb concluyó que los asistentes de AI representan menos del 1% del tráfico web de los minoristas; de unos 320 millones de transacciones de Uber en la última semana de octubre, solo unas 500 procedieron de agentes de AI. En All Star Elite, el tráfico agéntico ronda el 1% de las visitas, sobre todo desde Muse."
+                "x": "Este año, Organicity creó su propia tienda online sobre Cafe24 y preparó tres funciones: un diccionario de ingredientes, búsqueda de productos por problema de piel y asesoría con inteligencia artificial (AI). \"En las consultas reales de clientes se repiten preguntas no solo sobre qué producto elegir, sino también sobre si se puede usar junto con otros productos o si conviene usarlo por la mañana o por la noche\", explicó Song. Ahora la AI responde a las preguntas que antes contestaban personas."
               },
               {
                 "t": "p",
-                "x": "Walmart está lanzando herramientas para facilitar las compras agénticas, mientras que Amazon bloquea los bots externos en favor de Alexa."
+                "x": "Organicity colaboró con la tecnológica Artiwealth para convertir unas 60.000 reseñas y datos de atención al cliente acumulados en Naver Smart Store en un formato que la AI puede aprovechar, y los combinó con su propia información de ingredientes y productos. Según la pregunta del cliente, orienta sobre combinaciones de productos e incluso sobre el modo de uso."
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazon impide que los agentes de AI de terceros accedan plenamente a su sitio."
+                "t": "p",
+                "x": "Los ingresos de la empresa pasaron de unos 4억9800만원 en 2024 a unos 16억7800만원 en 2025. Las ventas de la tienda propia, que lleva solo unos meses operando, han llegado a cerca del 30% de las ventas en Smart Store."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "첫 Black Friday\n에이전트 쇼핑은 삐걱",
-          "body": "만료 상품, Amazon·eBay 차단, 불신이 AI 쇼핑 에이전트를 늦춘다.",
-          "mini_headline": "에이전트 Black Friday, 휘청",
+        "en": {
+          "headline": "Organicity adds AI consultation\nto its own online store",
+          "body": "Organicity's AI consultation draws on about 60,000 reviews and inquiries to recommend product combinations.",
+          "mini_headline": "Organicity's in-house store AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "AI 에이전트가 소매에 작지만 뚜렷한 흔적을 남기고 있다."
-              },
-              {
                 "t": "p",
-                "x": "Dean Mandelos는 Meta의 Muse 에이전트에게 요리를 좋아하는 자매에게 줄 선물을 물었고, 에이전트는 칼 세트를 추천했다. 그러나 만료되거나 품절된 상품 목록에 부딪혔고, Amazon과 eBay에서는 아예 차단당했다. 그는 \"더 믿을 이유가 있어야 한다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Kantar 애널리스트 Gina Logan은 \"AI가 실제로 의미 있는 역할을 할 수 있는 첫 Black Friday인 것은 분명하지만, 아직 완전히 자율적이지는 않다\"고 말했다. 그는 \"쇼핑객의 삼분의 이가 적어도 가끔은 쇼핑에 AI를 쓰지만, 절반 이상은 여전히 구매 결정을 직접 하고 싶어 한다\"고 덧붙였다."
+                "x": "'Tranexamic Acid 10%', 'Niacinamide 10%', 'PDRN 2500ppm'. Skincare brand Organicity puts its key ingredients and their concentrations in its product names. That makes products easy to find for people who search by ingredient, but it is a barrier for people who don't know which ingredient they should use."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "쇼핑객은 습관을 쉽게 바꾸지 않는 편이다."
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "Song Bo-kyung, CEO of Witten Company, met in Dongdaemun-gu, Seoul, on the 11th (Source: Byline Network)"
               },
               {
                 "t": "p",
-                "x": "Bain & Co.가 Similarweb 데이터를 분석한 결과, AI 어시스턴트는 소매업체 웹 트래픽의 1%에도 못 미쳤다. 10월 마지막 주 Uber 거래 약 3억2000만 건 가운데 AI 에이전트에서 나온 것은 약 500건뿐이었다. All Star Elite에서는 에이전트 트래픽이 방문의 약 1%이며, 대부분 Muse에서 온다."
+                "x": "This year Organicity built its own online store on Cafe24 and set up three features: an ingredient dictionary, product search by skin concern, and artificial intelligence (AI) consultation. \"In actual customer consultations, questions come up again and again not only about which product to choose, but also about whether it can be used with other products and whether it is better used in the morning or in the evening,\" Song explained. The AI now answers the questions that people used to answer."
               },
               {
                 "t": "p",
-                "x": "Walmart는 에이전트 쇼핑을 쉽게 하는 도구를 내놓고 있고, Amazon은 Alexa를 앞세우며 외부 봇을 차단한다."
+                "x": "Working with tech company Artiwealth, Organicity processed about 60,000 reviews and customer consultation records accumulated on Naver Smart Store into a form AI can use, and combined them with its own ingredient and product information. It guides customers through product combinations and even how to use them, based on their questions."
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazon은 서드파티 AI 에이전트가 자사 사이트에 온전히 접근하지 못하게 막고 있다."
+                "t": "p",
+                "x": "The company's revenue grew from about 4억9800만원 in 2024 to about 16억7800만원 in 2025. Sales at its own store, which has been running for only a few months, have risen to about 30% of its Smart Store sales."
               }
             ]
           }
         },
         "ja": {
-          "headline": "初のBlack Friday\nエージェント商戦は波乱",
-          "body": "期限切れの商品、AmazonとeBayの遮断、低い信頼がAI買い物エージェントを阻む。",
-          "mini_headline": "エージェント型Black Fridayはつまずく",
+          "headline": "オーガニシティ、\n自社モールにAI相談導入",
+          "body": "オーガニシティは約6万件のレビューと相談を生かしたAI相談で製品の組み合わせを案内する。",
+          "mini_headline": "オーガニシティの自社モールAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "AIエージェントは小売に小さいながらも明確な足跡を残しつつある。"
-              },
-              {
                 "t": "p",
-                "x": "Dean MandelosはMetaのMuseエージェントに、料理好きの姉妹への贈り物を尋ねた。エージェントは包丁セットを勧めたが、掲載期限切れや売り切れの商品に行き当たり、AmazonとeBayからは完全にブロックされた。「もっと信頼できる理由が必要だ」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "「AIが本当に意味のある役割を果たせる初めてのBlack Fridayであることは確かだが、まだ完全に自律してはいない」とKantarのアナリストGina Loganは語る。「買い物客の三分の二は少なくとも時々AIを買い物に使っているが、半数以上はいまも自分で購入を決めたいと考えている」"
+                "x": "「トラネキサム酸10%」「ナイアシンアミド10%」「PDRN 2500ppm」。スキンケアブランド「オーガニシティ」は、主要成分とその含有量を製品名に掲げる。成分で探す人には製品が見つけやすい一方、どの成分を使うべきかわからない人には壁になる。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "買い物客は習慣をなかなか変えない傾向がある。"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "11日、ソウル・東大門区で会ったウィトゥンカンパニーのソン・ボギョン代表（出典＝バイラインネットワーク）"
               },
               {
                 "t": "p",
-                "x": "Bain & Co.がSimilarwebのデータを分析したところ、AIアシスタントは小売業者のウェブトラフィックの1%未満だった。10月最終週のUberの取引約3億2000万件のうち、AIエージェント経由はわずか約500件だった。All Star Eliteでは、エージェント経由のトラフィックは訪問の約1%で、大半はMuseからだ。"
+                "x": "オーガニシティは今年、カフェ24を基盤とする自社モールを構築し、成分辞典、肌悩み別の製品探索、人工知能（AI）相談の三つの機能を用意した。ソン代表は「実際の顧客相談では、どの製品を選ぶべきかだけでなく、他の製品と一緒に使ってよいか、朝と夜のどちらに使うのが適切かといった質問が繰り返し寄せられる」と説明した。こうして人が答えていた質問に、AIが代わりに答える。"
               },
               {
                 "t": "p",
-                "x": "Walmartはエージェント型ショッピングを容易にするツールを展開している一方、AmazonはAlexaを優先して外部ボットをブロックしている。"
+                "x": "オーガニシティは技術企業アティウェルスと協力し、NAVERスマートストアに蓄積された約6万件のレビューと顧客相談データをAIが活用できる形に加工し、自社が持つ成分・製品情報と組み合わせた。顧客の質問に合わせ、製品の組み合わせから使い方まで案内する。"
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazonはサードパーティ製AIエージェントによる自社サイトへの完全なアクセスを遮断している。"
+                "t": "p",
+                "x": "同社の売上高は2024年の約4억9800만원から2025年には約16억7800만원に増えた。運営開始から数カ月しかたっていない自社モールの売上は、スマートストア売上の約30%の水準まで高まった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首个Black Friday\n智能体购物开局不顺",
-          "body": "过期商品、Amazon和eBay的封锁以及低信任度，拖慢了AI购物智能体的节日首秀。",
-          "mini_headline": "智能体Black Friday出师不利",
+          "headline": "Organicity在官网\n引入AI咨询服务",
+          "body": "Organicity利用约6万条评论与咨询数据，通过AI咨询推荐产品组合。",
+          "mini_headline": "Organicity官网AI咨询",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "AI智能体正在零售业留下虽小却清晰的印记。"
-              },
-              {
                 "t": "p",
-                "x": "Dean Mandelos请Meta的Muse智能体为爱做饭的姐妹挑礼物，它推荐了一套刀具。但它也碰到了已过期或已售罄的商品页面，还被Amazon和eBay直接拦截。“我需要一个更信任它的理由，”他说。"
-              },
-              {
-                "t": "p",
-                "x": "“这无疑是AI真正能发挥实质作用的第一个Black Friday，但它还没有完全自主，”Kantar分析师Gina Logan说。“三分之二的购物者至少有时会用AI购物，但超过一半的人仍更愿意自己掌控购物决定。”"
+                "x": "“传明酸10%”“烟酰胺10%”“PDRN 2500ppm”。护肤品牌Organicity把主要成分及含量写进产品名称。按成分找产品的人很容易发现它们，但对不清楚该用哪种成分的人来说，这反而成了门槛。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "购物者往往不会很快改变习惯。"
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "11日在首尔东大门区见到的Witten Company代表宋宝京（来源：Byline Network）"
               },
               {
                 "t": "p",
-                "x": "Bain & Co.对Similarweb数据的分析发现，AI助手在零售商网站流量中占比不到1%；在10月最后一周约3.2亿笔Uber交易中，只有约500笔来自AI智能体。在All Star Elite，智能体流量约占访问量的1%，大部分来自Muse。"
+                "x": "Organicity今年基于Cafe24搭建了自营商城，并推出成分词典、按肌肤困扰查找产品、人工智能（AI）咨询三项功能。宋代表解释说：“在实际的客户咨询中，不仅是该选哪款产品，诸如能否与其他产品一起使用、早上还是晚上用更合适等问题也反复出现。”过去由人回答的这些问题，如今由AI代为回答。"
               },
               {
                 "t": "p",
-                "x": "Walmart正在推出让智能体购物更便捷的工具，而Amazon则屏蔽外部机器人，力推Alexa。"
+                "x": "Organicity与科技公司Artiwealth合作，将Naver Smart Store上积累的约6万条评论和客户咨询数据加工成AI可用的形式，并与自有的成分和产品信息相结合，根据顾客的问题推荐产品组合乃至使用方法。"
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazon正阻止第三方AI智能体完整访问其网站。"
+                "t": "p",
+                "x": "公司营收从2024年的约4억9800만원增至2025年的约16억7800만원。运营仅数月的自营商城，销售额已升至Smart Store销售额的约30%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El primer Black Friday agéntico\narranca con tropiezos",
-          "body": "Los listados caducados, los bloqueos de Amazon y eBay y la poca confianza frenan el debut de agentes de compra con AI.",
-          "mini_headline": "El Black Friday agéntico tropieza",
+          "headline": "Organicity añade asesoría AI\na su tienda online propia",
+          "body": "Organicity orienta sobre combinaciones de productos con una AI que usa unas 60.000 reseñas y consultas.",
+          "mini_headline": "La AI de la tienda propia de Organicity",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00c30173f126f9eccb91fa?width=1200&format=jpeg",
-                "cap": "Los agentes de AI dejan una huella pequeña pero clara en el comercio minorista."
-              },
-              {
                 "t": "p",
-                "x": "Dean Mandelos pidió al agente Muse de Meta un regalo para su hermana, a quien le encanta cocinar; le recomendó un juego de cuchillos. También se topó con publicaciones caducadas o agotadas, y con bloqueos directos de Amazon y eBay. \"Necesito tener una razón para confiar más en él\", dijo."
-              },
-              {
-                "t": "p",
-                "x": "\"Es el primer Black Friday en que la AI puede desempeñar de verdad un papel significativo, sin duda, pero todavía no es totalmente autónoma\", dijo la analista de Kantar Gina Logan. \"Dos tercios de los compradores usan AI para comprar al menos a veces, pero más de la mitad todavía prefiere controlar sus propias decisiones de compra\"."
+                "x": "'Ácido tranexámico 10%', 'Niacinamida 10%', 'PDRN 2500ppm'. La marca de cuidado de la piel Organicity destaca en el nombre de sus productos los ingredientes principales y su concentración. Quien busca por ingrediente encuentra los productos con facilidad, pero para quien no sabe qué ingrediente debe usar supone una barrera."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b00ba1f0b69407d788a5306?width=1200&format=jpeg",
-                "cap": "Los compradores suelen tardar en cambiar sus hábitos."
+                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
+                "cap": "Song Bo-kyung, CEO de Witten Company, el día 11 en Dongdaemun-gu, Seúl (fuente: Byline Network)"
               },
               {
                 "t": "p",
-                "x": "Un análisis de Bain & Co. sobre datos de Similarweb concluyó que los asistentes de AI representan menos del 1% del tráfico web de los minoristas; de unos 320 millones de transacciones de Uber en la última semana de octubre, solo unas 500 procedieron de agentes de AI. En All Star Elite, el tráfico agéntico ronda el 1% de las visitas, sobre todo desde Muse."
+                "x": "Este año, Organicity creó su propia tienda online sobre Cafe24 y preparó tres funciones: un diccionario de ingredientes, búsqueda de productos por problema de piel y asesoría con inteligencia artificial (AI). \"En las consultas reales de clientes se repiten preguntas no solo sobre qué producto elegir, sino también sobre si se puede usar junto con otros productos o si conviene usarlo por la mañana o por la noche\", explicó Song. Ahora la AI responde a las preguntas que antes contestaban personas."
               },
               {
                 "t": "p",
-                "x": "Walmart está lanzando herramientas para facilitar las compras agénticas, mientras que Amazon bloquea los bots externos en favor de Alexa."
+                "x": "Organicity colaboró con la tecnológica Artiwealth para convertir unas 60.000 reseñas y datos de atención al cliente acumulados en Naver Smart Store en un formato que la AI puede aprovechar, y los combinó con su propia información de ingredientes y productos. Según la pregunta del cliente, orienta sobre combinaciones de productos e incluso sobre el modo de uso."
               },
               {
-                "t": "img",
-                "src": "https://i.insider.com/6b00baf973f126f9eccb918f?width=1200&format=jpeg",
-                "cap": "Amazon impide que los agentes de AI de terceros accedan plenamente a su sitio."
+                "t": "p",
+                "x": "Los ingresos de la empresa pasaron de unos 4억9800만원 en 2024 a unos 16억7800만원 en 2025. Las ventas de la tienda propia, que lleva solo unos meses operando, han llegado a cerca del 30% de las ventas en Smart Store."
               }
             ]
           }

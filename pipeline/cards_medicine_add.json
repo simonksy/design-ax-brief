@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-24",
+  "section": "medicine",
+  "cards": [
+    {
+      "id": "eye-ambient-ai-emr-ophthalmology",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Ambient AI documentation\nin the eye clinic",
+      "body": "Ambient AI note-taking cut eye consultation time by up to 37%, and Claude Sonnet 4.6 reached 98.4% EMR accuracy.",
+      "mini_headline": "Ambient AI in eye clinics",
+      "tool": "Medicine",
+      "source": "Eye (Nature)",
+      "url": "https://www.nature.com/articles/s41433-026-05028-5",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "EMR documentation contributes to physician workload and reduced patient–physician interaction, with ophthalmology particularly affected by specialist data requirements. This study compared ambient AI-assisted documentation for structured EMR import with conventional entry in standardised ophthalmic consultations."
+          },
+          {
+            "t": "p",
+            "x": "Ten standardised ophthalmic scenarios were performed under classic and AI-assisted conditions by a consultant and a resident. ChatGPT 5.3 and Claude Sonnet 4.6 used TurboScribe transcription followed by structured LLM output; Heidi 2.0.1 used an integrated audio pipeline. All targeted structured import into an ophthalmic EMR (Heyex; Heidelberg Engineering)."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
+            "cap": "Fig. 1: Consultation time components: classic versus AI-assisted documentation."
+          },
+          {
+            "t": "p",
+            "x": "AI-assisted documentation reduced total consultation time by 2.4 min (−32%) for the consultant and 3.0 min (−37%) for the resident. Documentation and review time decreased by 85% and 86%, and off-patient gaze time by 83% and 86%; computer-related gaze shifts decreased by 72% for both clinicians."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
+            "cap": "Fig. 2: Item-level distribution of documentation accuracy ratings by AI system."
+          },
+          {
+            "t": "p",
+            "x": "Accuracy was highest for Claude Sonnet 4.6 (98.4 ± 2.9%), followed by ChatGPT 5.3 (97.0 ± 5.1%) and Heidi 2.0.1 (88.6 ± 9.9%). As only one consultant and one resident were assessed, these findings should be regarded as preliminary and hypothesis-generating."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "science",
   "cards": [
     {
-      "id": "science-milkyway-ai-surrogate",
+      "id": "science-mit-multilingual-brain",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 대리 모델로\n별 단위 은하 계산 가속",
-      "body": "AI가 초신성 주변 가스를 예측하자 별 단위 은하 시뮬레이션이 약 20x 빨라졌다.",
-      "mini_headline": "은하 시뮬레이션 20x 가속",
+      "headline": "21개 언어에서\n뇌는 의미를 같게 담는다",
+      "body": "MIT 연구진이 다국어 AI 모델로 보니 뇌는 21개 언어의 의미를 같게 담았다.",
+      "mini_headline": "의미를 담는 하나의 신경 부호",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,155 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-            "cap": "입자 3.4 × 10⁹ 개로 돌린 PHEASANT 실행 장면 가운데 하나. 각 패널 왼쪽 컬러맵은 가스 밀도, 오른쪽은 온도다. 출처: K. Hirashima et al."
+            "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+            "cap": "Fedorenko 연구실의 새 연구는 다국어 모델로 여러 언어의 뇌 반응을 예측한 첫 사례다. 이미지: iStock"
           },
           {
             "t": "p",
-            "x": "연구진이 PHEASANT로 우리은하를 별 하나하나 단위까지 시뮬레이션했다. PHEASANT는 CPU·GPU 구성이 서로 다른 슈퍼컴퓨터 세 곳에서 모두 돌아가는 AI 가속(AI-accelerated) 모델이다. 연구에는 도쿄대학(University of Tokyo) 천문학과 Michiko Fujii 교수와 AI 모델을 개발한 RIKEN 박사후연구원 Keiya Hirashima가 참여했다."
+            "x": "세상의 언어는 이토록 다양하지만, MIT 연구에 따르면 인간의 뇌는 어떤 언어든 보편적인 방식으로 처리한다. Nature Neuroscience에 실린 이번 연구에서 연구진은 다국어 모델로 여러 언어를 들을 때의 뇌 반응을 예측했다. 21개 언어 사용자 모두에게서 공통된 처리 과정이 나타났다."
           },
           {
             "t": "p",
-            "x": "초신성 주변 가스의 변화를 직접 계산하려면 시간 간격을 약 100년 단위로 잘게 쪼개야 한다. AI 모델이 100,000년 뒤 상태를 대신 예측해 주면 주 시뮬레이션은 시간 간격을 훨씬 길게 잡을 수 있다. 연구팀에 따르면 이 방식은 기존 방법보다 약 20배 빠르고, 시뮬레이션의 별 형성률도 우리은하 관측 추정치와 맞았다."
+            "x": "de Varda는 머신러닝을 써서 다국어 모델의 코드와 언어 과제 중인 사람들의 뇌 스캔을 엮어 인코딩 모델을 만들었다. Fedorenko 연구실에는 이미 12개 언어 화자의 영상 데이터가 있었고, 한국어·힌디어·아랍어·중국어(만다린) 등 아홉 개 언어 화자를 추가로 모집했다. 이들은 『이상한 나라의 앨리스』(Alice in Wonderland) 속 이야기를 모국어로 들었다."
           },
           {
             "t": "p",
-            "x": "논문 \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\"(K. Hirashima et al.)은 11월 15–20일 시카고에서 열린 고성능 컴퓨팅·네트워킹·스토리지·분석 국제회의 SC 2026에서 발표됐다."
+            "x": "인코딩 모델은 21개 언어 모두에서 뇌 반응을 정확히 예측했다. 한 언어로 학습한 모델이 처음 보는 언어의 뇌 활동까지 예측했는데, 프랑스어로 학습한 모델이 베트남어 반응도 예측해 냈다. 분석 결과로는 이 공통 요소가 의미와 관련된 것으로 보인다."
+          },
+          {
+            "t": "p",
+            "x": "책임저자 Evelina Fedorenko는 \"뇌가 소통하는 방식에는 근본적으로 비슷한 무언가가 있다\"고 말한다. 이번 연구는 임상용 AI 언어 도구를 더 많은 언어 사용자에게 넓히는 데 보탬이 되고, 언젠가는 사라질 위기의 언어를 지키는 데도 쓰일 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI surrogate speeds a\nstar-by-star Milky Way",
-          "body": "An AI model predicts supernova gas evolution, letting a star-by-star Milky Way simulation run about 20x faster.",
-          "mini_headline": "Milky Way sim\nruns 20x faster",
+          "headline": "Brains may encode meaning\nthe same way in 21 languages",
+          "body": "Using a multilingual AI model, an MIT study suggests the brain encodes meaning alike across 21 languages.",
+          "mini_headline": "One neural code for meaning",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "Snapshots of one of the PHEASANT runs with 3.4 × 10⁹ particles. For each panel, the left and right color maps show the gas density and temperature, respectively. Credit: K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "A new study from the Fedorenko lab is the first to use multilingual models to predict brain responses across many languages. Image: iStock"
               },
               {
                 "t": "p",
-                "x": "Researchers have simulated the Milky Way down to individual stars with PHEASANT, an AI-accelerated model that runs across three supercomputer systems with different CPU and GPU hardware. The work involves Professor Michiko Fujii of the University of Tokyo's Department of Astronomy and RIKEN postdoctoral researcher Keiya Hirashima, who developed the AI model."
+                "x": "Despite so much variety in the linguistic kingdom, an MIT study has found that the human brain may process all sorts of languages in a universal way. In the study published in Nature Neuroscience, the researchers used multilingual models to predict how the human brain responds to various languages, and detected a shared brain process across people who collectively spoke 21 different languages."
               },
               {
                 "t": "p",
-                "x": "Calculating how gas evolves around supernovae directly requires time steps of about 100 years. Instead, the AI model predicts 100,000 years ahead, letting the main simulation take much longer time steps. The team reports the approach runs about 20 times faster than the conventional method, and the simulated star formation rate matches observational estimates for the real Milky Way."
+                "x": "Using machine learning, de Varda merged the multilingual models' code with scans of people's brains as they performed linguistic tasks, producing encoding models. The Fedorenko lab had imaging data from speakers of 12 languages and recruited speakers of nine more, including Korean, Hindi, Arabic and Mandarin, who listened to stories from \"Alice in Wonderland\" in their native language."
               },
               {
                 "t": "p",
-                "x": "The paper, \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.), was presented at SC 2026, the International Conference for High Performance Computing, Networking, Storage and Analysis, held November 15–20 in Chicago."
+                "x": "The encoding models accurately predicted brain responses in all 21 languages. A model trained in one language could predict brain activity for a language it had never seen: one trained on French also predicted responses in Vietnamese. Analysis suggested the shared component has something to do with meaning."
+              },
+              {
+                "t": "p",
+                "x": "\"There is something fundamentally similar in how the brain communicates,\" says senior author Evelina Fedorenko. The work may help clinical AI language tools reach speakers of more languages, and might one day help preserve endangered ones."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 대리 모델로\n별 단위 은하 계산 가속",
-          "body": "AI가 초신성 주변 가스를 예측하자 별 단위 은하 시뮬레이션이 약 20x 빨라졌다.",
-          "mini_headline": "은하 시뮬레이션 20x 가속",
+          "headline": "21개 언어에서\n뇌는 의미를 같게 담는다",
+          "body": "MIT 연구진이 다국어 AI 모델로 보니 뇌는 21개 언어의 의미를 같게 담았다.",
+          "mini_headline": "의미를 담는 하나의 신경 부호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "입자 3.4 × 10⁹ 개로 돌린 PHEASANT 실행 장면 가운데 하나. 각 패널 왼쪽 컬러맵은 가스 밀도, 오른쪽은 온도다. 출처: K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Fedorenko 연구실의 새 연구는 다국어 모델로 여러 언어의 뇌 반응을 예측한 첫 사례다. 이미지: iStock"
               },
               {
                 "t": "p",
-                "x": "연구진이 PHEASANT로 우리은하를 별 하나하나 단위까지 시뮬레이션했다. PHEASANT는 CPU·GPU 구성이 서로 다른 슈퍼컴퓨터 세 곳에서 모두 돌아가는 AI 가속(AI-accelerated) 모델이다. 연구에는 도쿄대학(University of Tokyo) 천문학과 Michiko Fujii 교수와 AI 모델을 개발한 RIKEN 박사후연구원 Keiya Hirashima가 참여했다."
+                "x": "세상의 언어는 이토록 다양하지만, MIT 연구에 따르면 인간의 뇌는 어떤 언어든 보편적인 방식으로 처리한다. Nature Neuroscience에 실린 이번 연구에서 연구진은 다국어 모델로 여러 언어를 들을 때의 뇌 반응을 예측했다. 21개 언어 사용자 모두에게서 공통된 처리 과정이 나타났다."
               },
               {
                 "t": "p",
-                "x": "초신성 주변 가스의 변화를 직접 계산하려면 시간 간격을 약 100년 단위로 잘게 쪼개야 한다. AI 모델이 100,000년 뒤 상태를 대신 예측해 주면 주 시뮬레이션은 시간 간격을 훨씬 길게 잡을 수 있다. 연구팀에 따르면 이 방식은 기존 방법보다 약 20배 빠르고, 시뮬레이션의 별 형성률도 우리은하 관측 추정치와 맞았다."
+                "x": "de Varda는 머신러닝을 써서 다국어 모델의 코드와 언어 과제 중인 사람들의 뇌 스캔을 엮어 인코딩 모델을 만들었다. Fedorenko 연구실에는 이미 12개 언어 화자의 영상 데이터가 있었고, 한국어·힌디어·아랍어·중국어(만다린) 등 아홉 개 언어 화자를 추가로 모집했다. 이들은 『이상한 나라의 앨리스』(Alice in Wonderland) 속 이야기를 모국어로 들었다."
               },
               {
                 "t": "p",
-                "x": "논문 \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\"(K. Hirashima et al.)은 11월 15–20일 시카고에서 열린 고성능 컴퓨팅·네트워킹·스토리지·분석 국제회의 SC 2026에서 발표됐다."
+                "x": "인코딩 모델은 21개 언어 모두에서 뇌 반응을 정확히 예측했다. 한 언어로 학습한 모델이 처음 보는 언어의 뇌 활동까지 예측했는데, 프랑스어로 학습한 모델이 베트남어 반응도 예측해 냈다. 분석 결과로는 이 공통 요소가 의미와 관련된 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "책임저자 Evelina Fedorenko는 \"뇌가 소통하는 방식에는 근본적으로 비슷한 무언가가 있다\"고 말한다. 이번 연구는 임상용 AI 언어 도구를 더 많은 언어 사용자에게 넓히는 데 보탬이 되고, 언젠가는 사라질 위기의 언어를 지키는 데도 쓰일 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの代理モデルが\n星単位の銀河計算を加速",
-          "body": "AIが超新星ガスの変化を予測し、星単位の銀河シミュレーションが約20x 高速化した。",
-          "mini_headline": "銀河シミュレーションが20x 高速に",
+          "headline": "21言語でも脳は\n意味を同じように符号化か",
+          "body": "MITの研究は多言語AIモデルで、脳が21言語の意味を共通に符号化すると示唆した。",
+          "mini_headline": "意味を担う一つの神経コード",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "3.4 × 10⁹ 個の粒子を用いたPHEASANT計算の一つのスナップショット。各パネルの左右のカラーマップは、それぞれガス密度と温度を示す。クレジット：K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Fedorenko研究室の新研究は、多言語モデルで多数の言語にわたる脳の反応を予測した初の例だ。画像：iStock"
               },
               {
                 "t": "p",
-                "x": "研究者らは、CPUとGPUのハードウェアが異なる三つのスーパーコンピューターシステムで動くAI加速（AI-accelerated）モデルPHEASANTを使い、天の川銀河を星一つひとつの単位までシミュレーションした。研究には東京大学（University of Tokyo）天文学教室のMichiko Fujii教授と、AIモデルを開発したRIKENのポスドク研究員Keiya Hirashima氏が関わった。"
+                "x": "言語の世界はこれほど多様だが、MITの研究によれば、人間の脳はあらゆる言語を普遍的な方法で処理している可能性がある。Nature Neuroscienceに掲載された研究で、研究者らは多言語モデルを使い、さまざまな言語に対する人間の脳の反応を予測し、合わせて21の異なる言語を話す人々に共通する脳内処理を検出した。"
               },
               {
                 "t": "p",
-                "x": "超新星周辺のガスの変化を直接計算するには、約100年の時間刻みが必要になる。代わりにAIモデルが100,000年先を予測することで、主シミュレーションははるかに長い時間刻みを取れる。研究チームによると、この手法は従来法より約20倍速く、シミュレーションで得た星形成率は実際の天の川銀河の観測推定値と一致した。"
+                "x": "de Vardaは機械学習を用いて、多言語モデルのコードと言語課題中の人々の脳スキャンを統合し、エンコーディングモデルを作った。Fedorenko研究室は12言語の話者の画像データを持っており、さらに韓国語、ヒンディー語、アラビア語、標準中国語など九つの言語の話者を募集した。彼らは『不思議の国のアリス』（Alice in Wonderland）の物語を母語で聴いた。"
               },
               {
                 "t": "p",
-                "x": "論文「Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy」（K. Hirashima et al.）は、11月15–20日にシカゴで開かれた高性能計算・ネットワーキング・ストレージ・解析の国際会議SC 2026で発表された。"
+                "x": "エンコーディングモデルは21言語すべてで脳の反応を正確に予測した。ある言語で学習したモデルは、見たことのない言語の脳活動も予測できた。フランス語で学習したモデルはベトナム語の反応も予測したのだ。分析からは、この共通成分が意味と関係していることがうかがえる。"
+              },
+              {
+                "t": "p",
+                "x": "「脳のコミュニケーションの仕方には、根本的に似た何かがある」と責任著者のEvelina Fedorenkoは言う。この成果は臨床向けAI言語ツールがより多くの言語の話者に届く助けとなり、いつか消滅の危機にある言語の保存にも役立つかもしれない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI代理模型提速\n逐星模拟银河系",
-          "body": "一个AI模型预测超新星气体演化，让逐星银河系模拟的运行速度加快约 20x。",
-          "mini_headline": "银河系模拟提速约 20x",
+          "headline": "21种语言中\n大脑或以同样方式编码意义",
+          "body": "MIT一项研究借助多语言AI模型，发现大脑在21种语言中可能以相同方式编码意义。",
+          "mini_headline": "意义共用一套神经编码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "PHEASANT一次运行的快照，使用了3.4 × 10⁹ 个粒子。每个面板中，左右两幅色图分别显示气体密度和温度。图片来源：K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Fedorenko实验室的新研究首次利用多语言模型预测多种语言下的大脑反应。图片：iStock"
               },
               {
                 "t": "p",
-                "x": "研究人员借助PHEASANT将银河系模拟到单颗恒星的精度。PHEASANT是一种AI加速（AI-accelerated）模型，可在CPU与GPU硬件各不相同的三套超级计算机系统上运行。参与这项工作的有东京大学（University of Tokyo）天文系教授Michiko Fujii，以及开发该AI模型的RIKEN博士后研究员Keiya Hirashima。"
+                "x": "尽管语言世界千差万别，MIT的一项研究发现，人脑可能以一种普遍的方式处理各种语言。在发表于Nature Neuroscience的这项研究中，研究人员利用多语言模型预测人脑对不同语言的反应，并在合计使用21种不同语言的人群中发现了共同的大脑处理过程。"
               },
               {
                 "t": "p",
-                "x": "直接计算超新星周围气体的演化，需要约100年的时间步长。AI模型则直接预测100,000年后的状态，使主模拟可以采用长得多的时间步长。团队称，该方法比传统方法快约20倍，模拟出的恒星形成率与真实银河系的观测估计值一致。"
+                "x": "de Varda利用机器学习，将多语言模型的编码与人们执行语言任务时的脑部扫描结合，构建出编码模型。Fedorenko实验室已有12种语言使用者的成像数据，又招募了另外九种语言的使用者，包括韩语、印地语、阿拉伯语和普通话，他们用母语收听《爱丽丝梦游仙境》（Alice in Wonderland）中的故事。"
               },
               {
                 "t": "p",
-                "x": "论文《Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy》（K. Hirashima et al.）已在11月15–20日于芝加哥举行的高性能计算、网络、存储与分析国际会议SC 2026上发表。"
+                "x": "编码模型准确预测了全部21种语言中的大脑反应。用一种语言训练的模型能预测它从未见过的语言的大脑活动：用法语训练的模型也能预测越南语的反应。分析表明，这一共同成分与意义有关。"
+              },
+              {
+                "t": "p",
+                "x": "“大脑的沟通方式中存在某种根本上相似的东西，”资深作者Evelina Fedorenko说。这项研究或有助于临床AI语言工具惠及更多语言的使用者，未来也可能帮助保护濒危语言。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un sustituto de AI acelera una\nVía Láctea estrella a estrella",
-          "body": "Un modelo de AI predice el gas de supernovas y acelera unas 20x una simulación de la Vía Láctea estrella a estrella.",
-          "mini_headline": "Simulación de la Vía Láctea 20x más rápida",
+          "headline": "El cerebro codificaría igual\nel significado en 21 idiomas",
+          "body": "Un estudio del MIT con AI multilingüe sugiere que el cerebro codifica el significado igual en 21 idiomas.",
+          "mini_headline": "Un código neural para el significado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "Instantáneas de una de las ejecuciones de PHEASANT con 3.4 × 10⁹ partículas. En cada panel, los mapas de color de la izquierda y la derecha muestran la densidad y la temperatura del gas, respectivamente. Crédito: K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Un nuevo estudio del laboratorio Fedorenko es el primero en usar modelos multilingües para predecir respuestas cerebrales en muchos idiomas. Imagen: iStock"
               },
               {
                 "t": "p",
-                "x": "Investigadores han simulado la Vía Láctea estrella por estrella con PHEASANT, un modelo acelerado por AI (AI-accelerated) que funciona en tres sistemas de supercomputación con distinto hardware de CPU y GPU. En el trabajo participan la profesora Michiko Fujii, del Departamento de Astronomía de la Universidad de Tokio, y el investigador posdoctoral de RIKEN Keiya Hirashima, que desarrolló el modelo de AI."
+                "x": "Pese a la enorme variedad del reino lingüístico, un estudio del MIT ha hallado que el cerebro humano podría procesar todo tipo de idiomas de forma universal. En el estudio, publicado en Nature Neuroscience, los investigadores usaron modelos multilingües para predecir cómo responde el cerebro humano a distintos idiomas y detectaron un proceso cerebral compartido entre personas que, en conjunto, hablaban 21 idiomas diferentes."
               },
               {
                 "t": "p",
-                "x": "Calcular directamente cómo evoluciona el gas alrededor de las supernovas exige pasos de tiempo de unos 100 años. En su lugar, el modelo de AI predice 100,000 años hacia adelante, lo que permite a la simulación principal usar pasos de tiempo mucho más largos. El equipo informa que el método es unas 20 veces más rápido que el convencional y que la tasa de formación estelar simulada coincide con las estimaciones observacionales de la Vía Láctea real."
+                "x": "Mediante aprendizaje automático, de Varda combinó el código de los modelos multilingües con escaneos cerebrales de personas mientras realizaban tareas lingüísticas, y obtuvo modelos de codificación. El laboratorio Fedorenko tenía datos de imagen de hablantes de 12 idiomas y reclutó hablantes de nueve más, entre ellos coreano, hindi, árabe y mandarín, que escucharon historias de \"Alice in Wonderland\" (Alicia en el país de las maravillas) en su lengua materna."
               },
               {
                 "t": "p",
-                "x": "El artículo \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.) se presentó en SC 2026, la Conferencia Internacional de Computación de Alto Rendimiento, Redes, Almacenamiento y Análisis, celebrada del 15 al 20 de noviembre en Chicago."
+                "x": "Los modelos de codificación predijeron con precisión las respuestas cerebrales en los 21 idiomas. Un modelo entrenado en un idioma podía predecir la actividad cerebral en otro que nunca había visto: uno entrenado en francés también predijo respuestas en vietnamita. El análisis indicó que el componente compartido tiene que ver con el significado."
+              },
+              {
+                "t": "p",
+                "x": "\"Hay algo fundamentalmente similar en cómo se comunica el cerebro\", afirma la autora principal, Evelina Fedorenko. El trabajo podría ayudar a que las herramientas clínicas de lenguaje con AI lleguen a hablantes de más idiomas y, algún día, a preservar lenguas en peligro."
               }
             ]
           }
@@ -175,109 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 대리 모델로\n별 단위 은하 계산 가속",
-          "body": "AI가 초신성 가스 변화를 예측해 별 단위 은하 시뮬레이션이 약 20x 빨라졌다.",
-          "mini_headline": "은하 시뮬레이션 20x 가속",
+          "headline": "21개 언어에서\n뇌는 의미를 같게 담는다",
+          "body": "MIT 연구는 다국어 AI 모델로 뇌가 21개 언어 의미를 같게 담는다고 본다.",
+          "mini_headline": "의미를 담는 하나의 신경 부호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "입자 3.4 × 10⁹ 개로 돌린 PHEASANT 실행 가운데 하나의 스냅숏이다. 각 패널의 왼쪽과 오른쪽 컬러맵은 각각 가스 밀도와 온도를 보여준다. 출처: K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Fedorenko 연구실의 새 연구는 다국어 모델로 여러 언어에 대한 뇌 반응을 예측한 첫 사례다. 이미지: iStock"
               },
               {
                 "t": "p",
-                "x": "연구진이 PHEASANT로 우리은하를 별 하나하나 단위까지 시뮬레이션했다. PHEASANT는 CPU와 GPU 하드웨어가 서로 다른 세 슈퍼컴퓨터 시스템에서 돌아가는 AI 가속(AI-accelerated) 모델이다. 이 연구에는 도쿄대학(University of Tokyo) 천문학과의 Michiko Fujii 교수와, AI 모델을 개발한 RIKEN 박사후연구원 Keiya Hirashima가 참여했다."
+                "x": "언어의 세계는 이토록 다양하지만, MIT 연구에 따르면 인간의 뇌는 온갖 언어를 보편적인 방식으로 처리할 수 있다. Nature Neuroscience에 실린 이번 연구에서 연구진은 다국어 모델로 여러 언어에 대한 인간 뇌의 반응을 예측했고, 모두 합쳐 21개 언어를 쓰는 사람들에게서 공통된 뇌 처리 과정을 찾아냈다."
               },
               {
                 "t": "p",
-                "x": "초신성 주변 가스의 변화를 직접 계산하려면 약 100년 단위의 시간 간격이 필요하다. 대신 AI 모델이 100,000년 뒤를 예측해, 주 시뮬레이션은 훨씬 긴 시간 간격을 쓸 수 있다. 연구팀은 이 방식이 기존 방법보다 약 20배 빠르며, 시뮬레이션의 별 형성률이 실제 우리은하에 대한 관측 추정치와 일치한다고 밝혔다."
+                "x": "de Varda는 머신러닝으로 다국어 모델의 코드를 언어 과제를 수행하는 사람들의 뇌 스캔과 결합해 인코딩 모델을 만들었다. Fedorenko 연구실은 12개 언어 화자의 영상 데이터를 갖고 있었고, 한국어·힌디어·아랍어·중국어(만다린) 등 아홉 개 언어 화자를 추가로 모집했다. 이들은 『이상한 나라의 앨리스』(Alice in Wonderland) 속 이야기를 모국어로 들었다."
               },
               {
                 "t": "p",
-                "x": "논문 \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\"(K. Hirashima et al.)는 11월 15–20일 시카고에서 열린 고성능 컴퓨팅·네트워킹·스토리지·분석 국제회의 SC 2026에서 발표됐다."
+                "x": "인코딩 모델은 21개 언어 모두에서 뇌 반응을 정확히 예측했다. 한 언어로 학습한 모델이 처음 보는 언어의 뇌 활동까지 예측했는데, 프랑스어로 학습한 모델이 베트남어 반응도 예측해 냈다. 분석 결과 이 공통 요소는 의미와 관련이 있는 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "책임저자 Evelina Fedorenko는 \"뇌가 소통하는 방식에는 근본적으로 비슷한 무언가가 있다\"고 말한다. 이번 연구는 임상용 AI 언어 도구가 더 많은 언어 사용자에게 닿도록 돕고, 언젠가 사라질 위기의 언어를 보존하는 데도 쓰일 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの代理モデルが\n星単位の銀河計算を加速",
-          "body": "AIが超新星ガスの変化を予測し、星単位の銀河シミュレーションが約20x 高速化した。",
-          "mini_headline": "銀河シミュレーションが20x 高速に",
+          "headline": "21言語でも脳は\n意味を同じように符号化か",
+          "body": "MITの研究は多言語AIモデルで、脳が21言語の意味を共通に符号化すると示唆した。",
+          "mini_headline": "意味を担う一つの神経コード",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "3.4 × 10⁹ 個の粒子を用いたPHEASANT計算の一つのスナップショット。各パネルの左右のカラーマップは、それぞれガス密度と温度を示す。クレジット：K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Fedorenko研究室の新研究は、多言語モデルで多数の言語にわたる脳の反応を予測した初の例だ。画像：iStock"
               },
               {
                 "t": "p",
-                "x": "研究者らは、CPUとGPUのハードウェアが異なる三つのスーパーコンピューターシステムで動くAI加速（AI-accelerated）モデルPHEASANTを使い、天の川銀河を星一つひとつの単位までシミュレーションした。研究には東京大学（University of Tokyo）天文学教室のMichiko Fujii教授と、AIモデルを開発したRIKENのポスドク研究員Keiya Hirashima氏が関わった。"
+                "x": "言語の世界はこれほど多様だが、MITの研究によれば、人間の脳はあらゆる言語を普遍的な方法で処理している可能性がある。Nature Neuroscienceに掲載された研究で、研究者らは多言語モデルを使い、さまざまな言語に対する人間の脳の反応を予測し、合わせて21の異なる言語を話す人々に共通する脳内処理を検出した。"
               },
               {
                 "t": "p",
-                "x": "超新星周辺のガスの変化を直接計算するには、約100年の時間刻みが必要になる。代わりにAIモデルが100,000年先を予測することで、主シミュレーションははるかに長い時間刻みを取れる。研究チームによると、この手法は従来法より約20倍速く、シミュレーションで得た星形成率は実際の天の川銀河の観測推定値と一致した。"
+                "x": "de Vardaは機械学習を用いて、多言語モデルのコードと言語課題中の人々の脳スキャンを統合し、エンコーディングモデルを作った。Fedorenko研究室は12言語の話者の画像データを持っており、さらに韓国語、ヒンディー語、アラビア語、標準中国語など九つの言語の話者を募集した。彼らは『不思議の国のアリス』（Alice in Wonderland）の物語を母語で聴いた。"
               },
               {
                 "t": "p",
-                "x": "論文「Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy」（K. Hirashima et al.）は、11月15–20日にシカゴで開かれた高性能計算・ネットワーキング・ストレージ・解析の国際会議SC 2026で発表された。"
+                "x": "エンコーディングモデルは21言語すべてで脳の反応を正確に予測した。ある言語で学習したモデルは、見たことのない言語の脳活動も予測できた。フランス語で学習したモデルはベトナム語の反応も予測したのだ。分析からは、この共通成分が意味と関係していることがうかがえる。"
+              },
+              {
+                "t": "p",
+                "x": "「脳のコミュニケーションの仕方には、根本的に似た何かがある」と責任著者のEvelina Fedorenkoは言う。この成果は臨床向けAI言語ツールがより多くの言語の話者に届く助けとなり、いつか消滅の危機にある言語の保存にも役立つかもしれない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI代理模型提速\n逐星模拟银河系",
-          "body": "一个AI模型预测超新星气体演化，让逐星银河系模拟的运行速度加快约 20x。",
-          "mini_headline": "银河系模拟提速约 20x",
+          "headline": "21种语言中\n大脑或以同样方式编码意义",
+          "body": "MIT一项研究借助多语言AI模型，发现大脑在21种语言中可能以相同方式编码意义。",
+          "mini_headline": "意义共用一套神经编码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "PHEASANT一次运行的快照，使用了3.4 × 10⁹ 个粒子。每个面板中，左右两幅色图分别显示气体密度和温度。图片来源：K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Fedorenko实验室的新研究首次利用多语言模型预测多种语言下的大脑反应。图片：iStock"
               },
               {
                 "t": "p",
-                "x": "研究人员借助PHEASANT将银河系模拟到单颗恒星的精度。PHEASANT是一种AI加速（AI-accelerated）模型，可在CPU与GPU硬件各不相同的三套超级计算机系统上运行。参与这项工作的有东京大学（University of Tokyo）天文系教授Michiko Fujii，以及开发该AI模型的RIKEN博士后研究员Keiya Hirashima。"
+                "x": "尽管语言世界千差万别，MIT的一项研究发现，人脑可能以一种普遍的方式处理各种语言。在发表于Nature Neuroscience的这项研究中，研究人员利用多语言模型预测人脑对不同语言的反应，并在合计使用21种不同语言的人群中发现了共同的大脑处理过程。"
               },
               {
                 "t": "p",
-                "x": "直接计算超新星周围气体的演化，需要约100年的时间步长。AI模型则直接预测100,000年后的状态，使主模拟可以采用长得多的时间步长。团队称，该方法比传统方法快约20倍，模拟出的恒星形成率与真实银河系的观测估计值一致。"
+                "x": "de Varda利用机器学习，将多语言模型的编码与人们执行语言任务时的脑部扫描结合，构建出编码模型。Fedorenko实验室已有12种语言使用者的成像数据，又招募了另外九种语言的使用者，包括韩语、印地语、阿拉伯语和普通话，他们用母语收听《爱丽丝梦游仙境》（Alice in Wonderland）中的故事。"
               },
               {
                 "t": "p",
-                "x": "论文《Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy》（K. Hirashima et al.）已在11月15–20日于芝加哥举行的高性能计算、网络、存储与分析国际会议SC 2026上发表。"
+                "x": "编码模型准确预测了全部21种语言中的大脑反应。用一种语言训练的模型能预测它从未见过的语言的大脑活动：用法语训练的模型也能预测越南语的反应。分析表明，这一共同成分与意义有关。"
+              },
+              {
+                "t": "p",
+                "x": "“大脑的沟通方式中存在某种根本上相似的东西，”资深作者Evelina Fedorenko说。这项研究或有助于临床AI语言工具惠及更多语言的使用者，未来也可能帮助保护濒危语言。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un sustituto de AI acelera una\nVía Láctea estrella a estrella",
-          "body": "Un modelo de AI predice el gas de supernovas y acelera unas 20x una simulación de la Vía Láctea estrella a estrella.",
-          "mini_headline": "Simulación de la Vía Láctea 20x más rápida",
+          "headline": "El cerebro codificaría igual\nel significado en 21 idiomas",
+          "body": "Un estudio del MIT con AI multilingüe sugiere que el cerebro codifica el significado igual en 21 idiomas.",
+          "mini_headline": "Un código neural para el significado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/three-supercomputers-c.jpg",
-                "cap": "Instantáneas de una de las ejecuciones de PHEASANT con 3.4 × 10⁹ partículas. En cada panel, los mapas de color de la izquierda y la derecha muestran la densidad y la temperatura del gas, respectivamente. Crédito: K. Hirashima et al."
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+                "cap": "Un nuevo estudio del laboratorio Fedorenko es el primero en usar modelos multilingües para predecir respuestas cerebrales en muchos idiomas. Imagen: iStock"
               },
               {
                 "t": "p",
-                "x": "Investigadores han simulado la Vía Láctea estrella por estrella con PHEASANT, un modelo acelerado por AI (AI-accelerated) que funciona en tres sistemas de supercomputación con distinto hardware de CPU y GPU. En el trabajo participan la profesora Michiko Fujii, del Departamento de Astronomía de la Universidad de Tokio, y el investigador posdoctoral de RIKEN Keiya Hirashima, que desarrolló el modelo de AI."
+                "x": "Pese a la enorme variedad del reino lingüístico, un estudio del MIT ha hallado que el cerebro humano podría procesar todo tipo de idiomas de forma universal. En el estudio, publicado en Nature Neuroscience, los investigadores usaron modelos multilingües para predecir cómo responde el cerebro humano a distintos idiomas y detectaron un proceso cerebral compartido entre personas que, en conjunto, hablaban 21 idiomas diferentes."
               },
               {
                 "t": "p",
-                "x": "Calcular directamente cómo evoluciona el gas alrededor de las supernovas exige pasos de tiempo de unos 100 años. En su lugar, el modelo de AI predice 100,000 años hacia adelante, lo que permite a la simulación principal usar pasos de tiempo mucho más largos. El equipo informa que el método es unas 20 veces más rápido que el convencional y que la tasa de formación estelar simulada coincide con las estimaciones observacionales de la Vía Láctea real."
+                "x": "Mediante aprendizaje automático, de Varda combinó el código de los modelos multilingües con escaneos cerebrales de personas mientras realizaban tareas lingüísticas, y obtuvo modelos de codificación. El laboratorio Fedorenko tenía datos de imagen de hablantes de 12 idiomas y reclutó hablantes de nueve más, entre ellos coreano, hindi, árabe y mandarín, que escucharon historias de \"Alice in Wonderland\" (Alicia en el país de las maravillas) en su lengua materna."
               },
               {
                 "t": "p",
-                "x": "El artículo \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.) se presentó en SC 2026, la Conferencia Internacional de Computación de Alto Rendimiento, Redes, Almacenamiento y Análisis, celebrada del 15 al 20 de noviembre en Chicago."
+                "x": "Los modelos de codificación predijeron con precisión las respuestas cerebrales en los 21 idiomas. Un modelo entrenado en un idioma podía predecir la actividad cerebral en otro que nunca había visto: uno entrenado en francés también predijo respuestas en vietnamita. El análisis indicó que el componente compartido tiene que ver con el significado."
+              },
+              {
+                "t": "p",
+                "x": "\"Hay algo fundamentalmente similar en cómo se comunica el cerebro\", afirma la autora principal, Evelina Fedorenko. El trabajo podría ayudar a que las herramientas clínicas de lenguaje con AI lleguen a hablantes de más idiomas y, algún día, a preservar lenguas en peligro."
               }
             ]
           }
@@ -285,15 +325,15 @@
       }
     },
     {
-      "id": "science-weathernext-hurricane-test",
+      "id": "science-mit-slic-analog-chips",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google 허리케인 AI\n독립 검증대에 오르다",
-      "body": "385개 태풍서 WeatherNext Cyclone은 NOAA 앞서되 과소예측했다.",
-      "mini_headline": "Google 허리케인 AI, 시험대에",
+      "headline": "소형 AI, 아날로그 칩\n설계서 LLMs와 대등",
+      "body": "MIT의 SLIC로 소형 모델이 LLMs 못지않게 아날로그 회로를 설계한다.",
+      "mini_headline": "아날로그 칩 설계하는 소형 모델",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -301,265 +341,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-            "cap": "ETEC Map Room 화면에 띄운 기상 데이터. Credit: Patrick Dodson"
+            "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+            "cap": "“아날로그 회로 설계를 자동화할 대안을 제시했다”고 Yan Xu는 말한다. 이미지: Jose-Luis Olivares, MIT; Getty Images"
           },
           {
             "t": "p",
-            "x": "2025년 가을 Hurricane Melissa(허리케인 멜리사)가 Jamaica(자메이카)를 덮쳤을 때 다른 모델들의 예측은 엇갈렸지만, Google의 AI 모델은 경로와 Category 5 강도를 일주일 앞서 정확히 맞혔다. University at Albany의 Jacob Vile, Brian Tang, Nour Elgalad는 Geophysical Research Letters에 낸 연구에서 Google의 WeatherNext Cyclone을 독립적으로 검증했다."
+            "x": "MIT가 내놓은 Small LM Iterating on Circuits, 줄여서 SLIC를 쓰면 엔지니어는 소형 언어 모델(LM)을 훈련시켜 최첨단 대형 언어 모델과 같거나 더 나은 수준의 아날로그 회로를 설계할 수 있다. 파라미터는 수십억 개 수준이고, 노트북에서 돌아갈 만큼 가볍다. 학습과 배포를 로컬에서 하니 기업은 기밀 회로 데이터를 프라이버시 걱정 없이 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "연구팀은 2022년 6월부터 2026년 5월까지 전 세계 열대 사이클론 385개의 강도 예보를 분석했다. 하루 뒤부터 닷새 뒤까지 모든 시점에서 이 모델은 NOAA의 최첨단 허리케인 모델보다 정확했고, 첫날 이후로는 인간 예보관과 맞먹었다. 급격한 강화 예보에서는 향후 24시간 동안 선도 도구들과 비슷한 신뢰도를 보이면서 오경보는 더 적었다."
+            "x": "SLIC의 바탕은 검증 가능한 보상을 쓰는 멀티턴 강화학습이다. 대형 LLM이 설계 과정의 시연을 생성하면 소형 모델이 이를 모방한다. 그다음 소형 모델은 새 문제를 풀며 파라미터를 추정하고 시뮬레이션을 돌려 설계를 거듭 다듬는다. 추론 과정이 자연어로 적히니 사용자는 모델의 판단을 따라갈 수 있다."
           },
           {
             "t": "p",
-            "x": "다만 폭풍이 얼마나 강해질지를 낮춰 잡는 경향이 있었고, 예보 기간이 길수록 그 격차가 벌어졌다. 가능한 결과의 범위를 지나치게 좁게 잡는 경우도 많았다. 성능은 North Atlantic(북대서양)에서 가장 좋았고 eastern North Pacific(북태평양 동부)에서 가장 나빴다. 올해 Google이 공개한 새 모델 버전은 이번 분석에서 빠졌다."
+            "x": "시험에서 소형 모델은 연산량의 일부만 쓰고도 최신 GPT 모델(GPT-6-Astra)에 근접한 성능을 냈고, 처음 보는 회로 구조, 더 앞선 공정 노드, 실제 상용 공정에서도 성능을 유지했다. IBM Research, Analog Devices와 함께한 이번 연구는 NeurIPS 2026에서 발표된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google's AI hurricane model\nfaces an independent test",
-          "body": "Across 385 cyclones, WeatherNext Cyclone beat NOAA on intensity but underestimated strength with too-narrow ranges.",
-          "mini_headline": "Google's hurricane AI\nput to the test",
+          "headline": "Small AI model matches LLMs\nat analog chip design",
+          "body": "MIT's SLIC training lets a small generative model design analog circuits as well as or better than frontier LLMs.",
+          "mini_headline": "Small model designs analog chips",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "A photo of screens with weather data on them inside the Map Room at ETEC. Credit: Patrick Dodson"
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "“We’ve provided an alternative option to automate analog circuit design,” says Yan Xu. Image: Jose-Luis Olivares, MIT; Getty Images"
               },
               {
                 "t": "p",
-                "x": "When Hurricane Melissa hit Jamaica in fall 2025, Google's AI model correctly predicted its path and Category 5 strength a week in advance, while other models disagreed. A University at Albany study by Jacob Vile, Brian Tang and Nour Elgalad, published in Geophysical Research Letters, put Google's WeatherNext Cyclone to an independent test."
+                "x": "The MIT method, called Small LM Iterating on Circuits, or SLIC, enables engineers to train a small language model to perform analog circuit design as well as or better than a frontier large language model. The model uses a few billion parameters, is efficient enough to run on a laptop, and because it is trained and deployed locally it can use a company's confidential circuit data without privacy risks."
               },
               {
                 "t": "p",
-                "x": "The team analyzed intensity forecasts for 385 tropical cyclones worldwide from June 2022 to May 2026. The model was more accurate than NOAA's state-of-the-art hurricane model at every point from one to five days out and performed on par with human forecasters beyond the first day. Its rapid-intensification forecasts were about as reliable as a leading tool over the next 24 hours, with fewer false alarms."
+                "x": "SLIC uses multi-turn reinforcement learning with verifiable rewards. A large LLM generates demonstrations of the design process for the small model to mimic; the small model then practices on new problems, guessing parameters, running simulations and iteratively refining the design. Its reasoning is described in natural language, so users can follow its decisions."
               },
               {
                 "t": "p",
-                "x": "But it tends to underestimate how strong storms will get, a gap that grows at longer lead times, and its range of possible outcomes was often too narrow. It performed best in the North Atlantic and worst in the eastern North Pacific. A newer model version Google released this year was not included in the analysis."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GoogleのハリケーンAI\n独立検証に臨む",
-          "body": "WeatherNext Cycloneは385例でNOAAを上回ったが、強度を過小評価した。",
-          "mini_headline": "GoogleのハリケーンAIを検証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "ETECのMap Room内で、気象データを映した画面の写真。クレジット：Patrick Dodson"
-              },
-              {
-                "t": "p",
-                "x": "2025年秋にハリケーンMelissaがジャマイカを襲った際、他のモデルの予測が割れるなか、GoogleのAIモデルは一週間前にその進路とCategory 5の強さを正しく予測した。University at AlbanyのJacob Vile、Brian Tang、Nour Elgaladによる研究はGeophysical Research Lettersに掲載され、GoogleのWeatherNext Cycloneを独立に検証した。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは2022年6月から2026年5月までの世界の熱帯低気圧385個の強度予報を分析した。このモデルは一日先から五日先までのすべての時点でNOAAの最先端ハリケーンモデルより正確で、初日以降は人間の予報官と同等の成績だった。急速強化の予報は今後24時間について主要ツールとほぼ同等の信頼性を示し、空振りも少なかった。"
-              },
-              {
-                "t": "p",
-                "x": "ただし、嵐がどこまで強まるかを過小評価する傾向があり、その差は予報期間が長いほど広がった。想定される結果の幅も狭すぎることが多かった。成績は北大西洋で最もよく、北太平洋東部で最も悪かった。Googleが今年公開した新しいモデルのバージョンは分析に含まれていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google飓风AI模型\n接受独立检验",
-          "body": "WeatherNext Cyclone在385个气旋中胜过NOAA，但低估强度、范围过窄。",
-          "mini_headline": "Google飓风AI接受检验",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "ETEC的Map Room内显示天气数据的屏幕。图片来源：Patrick Dodson"
-              },
-              {
-                "t": "p",
-                "x": "2025年秋季飓风Melissa袭击牙买加时，在其他模型意见不一的情况下，Google的AI模型提前一周准确预测了其路径和Category 5强度。University at Albany的Jacob Vile、Brian Tang和Nour Elgalad在Geophysical Research Letters上发表研究，对Google的WeatherNext Cyclone进行了独立检验。"
-              },
-              {
-                "t": "p",
-                "x": "团队分析了2022年6月至2026年5月全球385个热带气旋的强度预报。在提前一天到五天的每个时点，该模型都比NOAA最先进的飓风模型更准确，第一天之后的表现与人类预报员相当。其快速增强预报在未来24小时内的可靠性与一款领先工具相当，误报更少。"
-              },
-              {
-                "t": "p",
-                "x": "但它往往低估风暴最终的强度，且预报时效越长差距越大；其可能结果的范围也常常过窄。它在北大西洋表现最好，在东北太平洋表现最差。Google今年发布的新版模型未纳入此次分析。"
+                "x": "In tests, the small model came close to matching the latest GPT model (GPT-6-Astra) while using a fraction of the compute, and kept its performance on unseen circuit structures, more advanced technology nodes and real commercial processes. The work, with IBM Research and Analog Devices, will be presented at NeurIPS 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google 허리케인 AI\n독립 검증대에 오르다",
-          "body": "385개 태풍서 WeatherNext Cyclone은 NOAA 앞서되 과소예측했다.",
-          "mini_headline": "Google 허리케인 AI, 시험대에",
+          "headline": "소형 AI, 아날로그 칩\n설계서 LLMs와 대등",
+          "body": "MIT의 SLIC로 소형 모델이 LLMs 못지않게 아날로그 회로를 설계한다.",
+          "mini_headline": "아날로그 칩 설계하는 소형 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "ETEC Map Room 화면에 띄운 기상 데이터. Credit: Patrick Dodson"
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "“아날로그 회로 설계를 자동화할 대안을 제시했다”고 Yan Xu는 말한다. 이미지: Jose-Luis Olivares, MIT; Getty Images"
               },
               {
                 "t": "p",
-                "x": "2025년 가을 Hurricane Melissa(허리케인 멜리사)가 Jamaica(자메이카)를 덮쳤을 때 다른 모델들의 예측은 엇갈렸지만, Google의 AI 모델은 경로와 Category 5 강도를 일주일 앞서 정확히 맞혔다. University at Albany의 Jacob Vile, Brian Tang, Nour Elgalad는 Geophysical Research Letters에 낸 연구에서 Google의 WeatherNext Cyclone을 독립적으로 검증했다."
+                "x": "MIT가 내놓은 Small LM Iterating on Circuits, 줄여서 SLIC를 쓰면 엔지니어는 소형 언어 모델(LM)을 훈련시켜 최첨단 대형 언어 모델과 같거나 더 나은 수준의 아날로그 회로를 설계할 수 있다. 파라미터는 수십억 개 수준이고, 노트북에서 돌아갈 만큼 가볍다. 학습과 배포를 로컬에서 하니 기업은 기밀 회로 데이터를 프라이버시 걱정 없이 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 2022년 6월부터 2026년 5월까지 전 세계 열대 사이클론 385개의 강도 예보를 분석했다. 하루 뒤부터 닷새 뒤까지 모든 시점에서 이 모델은 NOAA의 최첨단 허리케인 모델보다 정확했고, 첫날 이후로는 인간 예보관과 맞먹었다. 급격한 강화 예보에서는 향후 24시간 동안 선도 도구들과 비슷한 신뢰도를 보이면서 오경보는 더 적었다."
+                "x": "SLIC의 바탕은 검증 가능한 보상을 쓰는 멀티턴 강화학습이다. 대형 LLM이 설계 과정의 시연을 생성하면 소형 모델이 이를 모방한다. 그다음 소형 모델은 새 문제를 풀며 파라미터를 추정하고 시뮬레이션을 돌려 설계를 거듭 다듬는다. 추론 과정이 자연어로 적히니 사용자는 모델의 판단을 따라갈 수 있다."
               },
               {
                 "t": "p",
-                "x": "다만 폭풍이 얼마나 강해질지를 낮춰 잡는 경향이 있었고, 예보 기간이 길수록 그 격차가 벌어졌다. 가능한 결과의 범위를 지나치게 좁게 잡는 경우도 많았다. 성능은 North Atlantic(북대서양)에서 가장 좋았고 eastern North Pacific(북태평양 동부)에서 가장 나빴다. 올해 Google이 공개한 새 모델 버전은 이번 분석에서 빠졌다."
+                "x": "시험에서 소형 모델은 연산량의 일부만 쓰고도 최신 GPT 모델(GPT-6-Astra)에 근접한 성능을 냈고, 처음 보는 회로 구조, 더 앞선 공정 노드, 실제 상용 공정에서도 성능을 유지했다. IBM Research, Analog Devices와 함께한 이번 연구는 NeurIPS 2026에서 발표된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "小型AIモデル、アナログ\nチップ設計でLLMsに並ぶ",
+          "body": "MITのSLICで小型モデルがLLMs並みかそれ以上にアナログ回路を設計する。",
+          "mini_headline": "小型モデルがアナログチップを設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "「アナログ回路設計を自動化する別の選択肢を示した」とYan Xuは言う。画像：Jose-Luis Olivares, MIT; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Small LM Iterating on Circuits、略してSLICと呼ばれるMITの手法により、エンジニアは小型言語モデル（LM）を訓練し、最先端の大規模言語モデルと同等以上にアナログ回路を設計させられる。モデルのパラメータ数は数十億程度で、ノートPCで動くほど効率的だ。ローカルで訓練・展開するため、企業の機密回路データをプライバシー上のリスクなく使える。"
+              },
+              {
+                "t": "p",
+                "x": "SLICは検証可能な報酬を用いたマルチターン強化学習を使う。大規模なLLMが設計プロセスの手本を生成し、小型モデルがそれを模倣する。その後、小型モデルは新しい問題で練習し、パラメータを推測し、シミュレーションを実行しながら設計を反復的に洗練させる。推論は自然言語で記述されるため、ユーザーはその判断を追うことができる。"
+              },
+              {
+                "t": "p",
+                "x": "テストでは、小型モデルはわずかな計算量で最新のGPTモデル（GPT-6-Astra）に迫る性能を示し、未知の回路構造、より先進的な技術ノード、実際の商用プロセスでも性能を保った。IBM Research、Analog Devicesとの共同研究で、NeurIPS 2026で発表される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "小型AI模型设计模拟芯片\n水平比肩LLMs",
+          "body": "MIT的SLIC训练让小型生成模型设计模拟电路的水平比肩甚至超越前沿LLMs。",
+          "mini_headline": "小模型设计模拟芯片",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "“我们为模拟电路设计自动化提供了另一种选择，”Yan Xu说。图片：Jose-Luis Olivares, MIT; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "这项名为Small LM Iterating on Circuits（简称SLIC）的MIT方法，使工程师能够训练一个小型语言模型（LM），让其完成模拟电路设计的水平达到甚至超过前沿大语言模型。该模型使用数十亿参数，效率足以在笔记本电脑上运行；由于在本地训练和部署，它可以使用企业的机密电路数据而不存在隐私风险。"
+              },
+              {
+                "t": "p",
+                "x": "SLIC采用基于可验证奖励的多轮强化学习。大型LLM生成设计过程的示范供小型模型模仿；随后小型模型在新问题上练习，推测参数、运行仿真并迭代优化设计。其推理过程以自然语言描述，用户可以理解它的决策。"
+              },
+              {
+                "t": "p",
+                "x": "测试中，这个小型模型只用一小部分算力，就接近了最新GPT模型（GPT-6-Astra）的表现，并在未见过的电路结构、更先进的工艺节点和真实商用工艺上保持了性能。该研究与IBM Research和Analog Devices合作完成，将在NeurIPS 2026上发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo AI de huracanes de Google\nante una prueba independiente",
-          "body": "En 385 ciclones, WeatherNext Cyclone superó a NOAA en intensidad, pero subestimó la fuerza con rangos muy estrechos.",
-          "mini_headline": "La AI de huracanes de Google, a prueba",
+          "headline": "Un modelo de AI pequeño iguala\na los LLMs en chips analógicos",
+          "body": "Con SLIC, del MIT, un modelo pequeño diseña circuitos analógicos igual o mejor que los LLMs de frontera.",
+          "mini_headline": "Un modelo pequeño diseña chips analógicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "Pantallas con datos meteorológicos en el Map Room de ETEC. Credit: Patrick Dodson"
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "“Hemos aportado una opción alternativa para automatizar el diseño de circuitos analógicos”, dice Yan Xu. Imagen: Jose-Luis Olivares, MIT; Getty Images"
               },
               {
                 "t": "p",
-                "x": "Cuando el huracán Melissa (Hurricane Melissa) azotó Jamaica en el otoño de 2025, el modelo de AI de Google predijo correctamente su trayectoria y su fuerza de Category 5 con una semana de antelación, mientras otros modelos discrepaban. Un estudio de la University at Albany firmado por Jacob Vile, Brian Tang y Nour Elgalad, publicado en Geophysical Research Letters, sometió WeatherNext Cyclone de Google a una prueba independiente."
+                "x": "El método del MIT, llamado Small LM Iterating on Circuits, o SLIC, permite a los ingenieros entrenar un modelo de lenguaje pequeño para diseñar circuitos analógicos igual o mejor que un gran modelo de lenguaje de frontera. El modelo usa unos pocos miles de millones de parámetros, es lo bastante eficiente para funcionar en un portátil y, como se entrena y despliega localmente, puede usar los datos confidenciales de circuitos de una empresa sin riesgos para la privacidad."
               },
               {
                 "t": "p",
-                "x": "El equipo analizó los pronósticos de intensidad de 385 ciclones tropicales de todo el mundo entre junio de 2022 y mayo de 2026. El modelo fue más preciso que el modelo de huracanes más avanzado de NOAA en todos los plazos, de uno a cinco días, y rindió a la par de los pronosticadores humanos después del primer día. Sus pronósticos de intensificación rápida fueron casi tan fiables como los de una herramienta líder en las siguientes 24 horas, con menos falsas alarmas."
+                "x": "SLIC utiliza aprendizaje por refuerzo multiturno con recompensas verificables. Un LLM grande genera demostraciones del proceso de diseño para que el modelo pequeño las imite; después, el modelo pequeño practica con problemas nuevos: estima parámetros, ejecuta simulaciones y refina el diseño de forma iterativa. Su razonamiento se describe en lenguaje natural, de modo que los usuarios pueden seguir sus decisiones."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, tiende a subestimar cuánto se intensificarán las tormentas, una brecha que crece con plazos más largos, y su rango de resultados posibles fue a menudo demasiado estrecho. Su mejor desempeño fue en el North Atlantic (Atlántico Norte) y el peor, en el este del North Pacific (Pacífico Norte). Una versión más reciente del modelo que Google lanzó este año no se incluyó en el análisis."
+                "x": "En las pruebas, el modelo pequeño se acercó al último modelo GPT (GPT-6-Astra) usando una fracción del cómputo, y mantuvo su rendimiento en estructuras de circuito no vistas, nodos tecnológicos más avanzados y procesos comerciales reales. El trabajo, realizado con IBM Research y Analog Devices, se presentará en NeurIPS 2026."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "GoogleのハリケーンAI\n独立検証に臨む",
-          "body": "WeatherNext Cycloneは385例でNOAAを上回ったが、強度を過小評価した。",
-          "mini_headline": "GoogleのハリケーンAIを検証",
+        "ko": {
+          "headline": "소형 AI, 아날로그 칩\n설계서 LLMs와 대등",
+          "body": "MIT의 SLIC로 소형 모델이 LLMs 못지않게 아날로그 회로를 설계한다.",
+          "mini_headline": "아날로그 칩 설계하는 소형 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "ETECのMap Room内で、気象データを映した画面の写真。クレジット：Patrick Dodson"
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "“아날로그 회로 설계를 자동화할 대안을 제시했다”고 Yan Xu는 말한다. 이미지: Jose-Luis Olivares, MIT; Getty Images"
               },
               {
                 "t": "p",
-                "x": "2025年秋にハリケーンMelissaがジャマイカを襲った際、他のモデルの予測が割れるなか、GoogleのAIモデルは一週間前にその進路とCategory 5の強さを正しく予測した。University at AlbanyのJacob Vile、Brian Tang、Nour Elgaladによる研究はGeophysical Research Lettersに掲載され、GoogleのWeatherNext Cycloneを独立に検証した。"
+                "x": "Small LM Iterating on Circuits, 줄여서 SLIC라는 MIT의 방법을 쓰면 엔지니어는 소형 언어 모델(LM)을 훈련해 최첨단 대형 언어 모델과 같거나 더 나은 수준으로 아날로그 회로를 설계하게 할 수 있다. 이 모델은 수십억 개 수준의 파라미터를 쓰며 노트북에서 돌아갈 만큼 효율적이다. 로컬에서 학습하고 배포하므로 기업의 기밀 회로 데이터를 프라이버시 위험 없이 활용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "研究チームは2022年6月から2026年5月までの世界の熱帯低気圧385個の強度予報を分析した。このモデルは一日先から五日先までのすべての時点でNOAAの最先端ハリケーンモデルより正確で、初日以降は人間の予報官と同等の成績だった。急速強化の予報は今後24時間について主要ツールとほぼ同等の信頼性を示し、空振りも少なかった。"
+                "x": "SLIC는 검증 가능한 보상을 활용한 멀티턴 강화학습을 쓴다. 대형 LLM이 설계 과정의 시연을 생성하면 소형 모델이 이를 모방한다. 이어 소형 모델은 새로운 문제로 연습하며 파라미터를 추정하고 시뮬레이션을 돌려 설계를 반복적으로 다듬는다. 추론 과정이 자연어로 서술되므로 사용자는 모델의 판단을 따라갈 수 있다."
               },
               {
                 "t": "p",
-                "x": "ただし、嵐がどこまで強まるかを過小評価する傾向があり、その差は予報期間が長いほど広がった。想定される結果の幅も狭すぎることが多かった。成績は北大西洋で最もよく、北太平洋東部で最も悪かった。Googleが今年公開した新しいモデルのバージョンは分析に含まれていない。"
+                "x": "테스트에서 소형 모델은 일부 연산량만으로 최신 GPT 모델(GPT-6-Astra)에 근접한 성능을 냈고, 처음 보는 회로 구조, 더 앞선 공정 노드, 실제 상용 공정에서도 성능을 유지했다. IBM Research, Analog Devices와 함께한 이번 연구는 NeurIPS 2026에서 발표된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "小型AIモデル、アナログ\nチップ設計でLLMsに並ぶ",
+          "body": "MITのSLICで小型モデルがLLMs並みかそれ以上にアナログ回路を設計する。",
+          "mini_headline": "小型モデルがアナログチップを設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "「アナログ回路設計を自動化する別の選択肢を示した」とYan Xuは言う。画像：Jose-Luis Olivares, MIT; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Small LM Iterating on Circuits、略してSLICと呼ばれるMITの手法により、エンジニアは小型言語モデル（LM）を訓練し、最先端の大規模言語モデルと同等以上にアナログ回路を設計させられる。モデルのパラメータ数は数十億程度で、ノートPCで動くほど効率的だ。ローカルで訓練・展開するため、企業の機密回路データをプライバシー上のリスクなく使える。"
+              },
+              {
+                "t": "p",
+                "x": "SLICは検証可能な報酬を用いたマルチターン強化学習を使う。大規模なLLMが設計プロセスの手本を生成し、小型モデルがそれを模倣する。その後、小型モデルは新しい問題で練習し、パラメータを推測し、シミュレーションを実行しながら設計を反復的に洗練させる。推論は自然言語で記述されるため、ユーザーはその判断を追うことができる。"
+              },
+              {
+                "t": "p",
+                "x": "テストでは、小型モデルはわずかな計算量で最新のGPTモデル（GPT-6-Astra）に迫る性能を示し、未知の回路構造、より先進的な技術ノード、実際の商用プロセスでも性能を保った。IBM Research、Analog Devicesとの共同研究で、NeurIPS 2026で発表される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google飓风AI模型\n接受独立检验",
-          "body": "WeatherNext Cyclone在385个气旋中胜过NOAA，但低估强度、范围过窄。",
-          "mini_headline": "Google飓风AI接受检验",
+          "headline": "小型AI模型设计模拟芯片\n水平比肩LLMs",
+          "body": "MIT的SLIC训练让小型生成模型设计模拟电路的水平比肩甚至超越前沿LLMs。",
+          "mini_headline": "小模型设计模拟芯片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "ETEC的Map Room内显示天气数据的屏幕。图片来源：Patrick Dodson"
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "“我们为模拟电路设计自动化提供了另一种选择，”Yan Xu说。图片：Jose-Luis Olivares, MIT; Getty Images"
               },
               {
                 "t": "p",
-                "x": "2025年秋季飓风Melissa袭击牙买加时，在其他模型意见不一的情况下，Google的AI模型提前一周准确预测了其路径和Category 5强度。University at Albany的Jacob Vile、Brian Tang和Nour Elgalad在Geophysical Research Letters上发表研究，对Google的WeatherNext Cyclone进行了独立检验。"
+                "x": "这项名为Small LM Iterating on Circuits（简称SLIC）的MIT方法，使工程师能够训练一个小型语言模型（LM），让其完成模拟电路设计的水平达到甚至超过前沿大语言模型。该模型使用数十亿参数，效率足以在笔记本电脑上运行；由于在本地训练和部署，它可以使用企业的机密电路数据而不存在隐私风险。"
               },
               {
                 "t": "p",
-                "x": "团队分析了2022年6月至2026年5月全球385个热带气旋的强度预报。在提前一天到五天的每个时点，该模型都比NOAA最先进的飓风模型更准确，第一天之后的表现与人类预报员相当。其快速增强预报在未来24小时内的可靠性与一款领先工具相当，误报更少。"
+                "x": "SLIC采用基于可验证奖励的多轮强化学习。大型LLM生成设计过程的示范供小型模型模仿；随后小型模型在新问题上练习，推测参数、运行仿真并迭代优化设计。其推理过程以自然语言描述，用户可以理解它的决策。"
               },
               {
                 "t": "p",
-                "x": "但它往往低估风暴最终的强度，且预报时效越长差距越大；其可能结果的范围也常常过窄。它在北大西洋表现最好，在东北太平洋表现最差。Google今年发布的新版模型未纳入此次分析。"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google 허리케인 AI\n독립 검증대에 오르다",
-          "body": "385개 태풍서 WeatherNext Cyclone은 NOAA 앞서되 과소예측했다.",
-          "mini_headline": "Google 허리케인 AI, 시험대에",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "ETEC의 Map Room 안, 기상 데이터가 띄워진 화면들. Credit: Patrick Dodson"
-              },
-              {
-                "t": "p",
-                "x": "2025년 가을 Hurricane Melissa(허리케인 멜리사)가 Jamaica(자메이카)를 덮쳤을 때, 다른 모델들의 예측이 엇갈리는 가운데 Google의 AI 모델은 그 경로와 Category 5 강도를 일주일 앞서 정확히 예측했다. University at Albany의 Jacob Vile, Brian Tang, Nour Elgalad가 Geophysical Research Letters에 발표한 연구는 Google의 WeatherNext Cyclone을 독립적으로 검증했다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 2022년 6월부터 2026년 5월까지 전 세계 열대 사이클론 385개의 강도 예보를 분석했다. 이 모델은 하루 뒤부터 닷새 뒤까지 모든 시점에서 NOAA의 최첨단 허리케인 모델보다 정확했고, 첫날 이후로는 인간 예보관과 대등한 성능을 보였다. 급격한 강화 예보는 향후 24시간 동안 선도적인 도구와 비슷한 신뢰도를 보이면서도 오경보는 더 적었다."
-              },
-              {
-                "t": "p",
-                "x": "다만 폭풍이 얼마나 강해질지를 낮게 보는 경향이 있었고, 그 격차는 예보 기간이 길수록 커졌다. 가능한 결과의 범위도 지나치게 좁은 경우가 많았다. 성능은 North Atlantic(북대서양)에서 가장 좋았고 eastern North Pacific(북태평양 동부)에서 가장 나빴다. Google이 올해 공개한 새 모델 버전은 이번 분석에 포함되지 않았다."
+                "x": "测试中，这个小型模型只用一小部分算力，就接近了最新GPT模型（GPT-6-Astra）的表现，并在未见过的电路结构、更先进的工艺节点和真实商用工艺上保持了性能。该研究与IBM Research和Analog Devices合作完成，将在NeurIPS 2026上发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo AI de huracanes de Google\nante una prueba independiente",
-          "body": "En 385 ciclones, WeatherNext Cyclone superó a NOAA en intensidad, pero subestimó la fuerza con rangos muy estrechos.",
-          "mini_headline": "La AI de huracanes de Google, a prueba",
+          "headline": "Un modelo de AI pequeño iguala\na los LLMs en chips analógicos",
+          "body": "Con SLIC, del MIT, un modelo pequeño diseña circuitos analógicos igual o mejor que los LLMs de frontera.",
+          "mini_headline": "Un modelo pequeño diseña chips analógicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-photo-of-screens-wit.jpg",
-                "cap": "Pantallas con datos meteorológicos en el Map Room de ETEC. Credit: Patrick Dodson"
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
+                "cap": "“Hemos aportado una opción alternativa para automatizar el diseño de circuitos analógicos”, dice Yan Xu. Imagen: Jose-Luis Olivares, MIT; Getty Images"
               },
               {
                 "t": "p",
-                "x": "Cuando el huracán Melissa (Hurricane Melissa) azotó Jamaica en el otoño de 2025, el modelo de AI de Google predijo correctamente su trayectoria y su fuerza de Category 5 con una semana de antelación, mientras otros modelos discrepaban. Un estudio de la University at Albany firmado por Jacob Vile, Brian Tang y Nour Elgalad, publicado en Geophysical Research Letters, sometió WeatherNext Cyclone de Google a una prueba independiente."
+                "x": "El método del MIT, llamado Small LM Iterating on Circuits, o SLIC, permite a los ingenieros entrenar un modelo de lenguaje pequeño para diseñar circuitos analógicos igual o mejor que un gran modelo de lenguaje de frontera. El modelo usa unos pocos miles de millones de parámetros, es lo bastante eficiente para funcionar en un portátil y, como se entrena y despliega localmente, puede usar los datos confidenciales de circuitos de una empresa sin riesgos para la privacidad."
               },
               {
                 "t": "p",
-                "x": "El equipo analizó los pronósticos de intensidad de 385 ciclones tropicales de todo el mundo entre junio de 2022 y mayo de 2026. El modelo fue más preciso que el modelo de huracanes más avanzado de NOAA en todos los plazos, de uno a cinco días, y rindió a la par de los pronosticadores humanos después del primer día. Sus pronósticos de intensificación rápida fueron casi tan fiables como los de una herramienta líder en las siguientes 24 horas, con menos falsas alarmas."
+                "x": "SLIC utiliza aprendizaje por refuerzo multiturno con recompensas verificables. Un LLM grande genera demostraciones del proceso de diseño para que el modelo pequeño las imite; después, el modelo pequeño practica con problemas nuevos: estima parámetros, ejecuta simulaciones y refina el diseño de forma iterativa. Su razonamiento se describe en lenguaje natural, de modo que los usuarios pueden seguir sus decisiones."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, tiende a subestimar cuánto se intensificarán las tormentas, una brecha que crece con plazos más largos, y su rango de resultados posibles fue a menudo demasiado estrecho. Su mejor desempeño fue en el North Atlantic (Atlántico Norte) y el peor, en el este del North Pacific (Pacífico Norte). Una versión más reciente del modelo que Google lanzó este año no se incluyó en el análisis."
+                "x": "En las pruebas, el modelo pequeño se acercó al último modelo GPT (GPT-6-Astra) usando una fracción del cómputo, y mantuvo su rendimiento en estructuras de circuito no vistas, nodos tecnológicos más avanzados y procesos comerciales reales. El trabajo, realizado con IBM Research y Analog Devices, se presentará en NeurIPS 2026."
               }
             ]
           }
@@ -567,15 +607,15 @@
       }
     },
     {
-      "id": "science-agent-harassment-tampering",
+      "id": "science-lio2-dualatom-catalyst",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "조작당한 AI 에이전트\n괴롭힘을 되풀이한다",
-      "body": "유해 메모리·계획 프롬프트·미세조정을 거치자 다회차 괴롭힘이 99%를 넘었다.",
-      "mini_headline": "조작에 흔들리는 AI 가드레일",
+      "headline": "머신러닝이 이끄는\n리튬-산소 배터리",
+      "body": "ML이 찾은 Ni-Co 촉매로 Li-O2 전지는 LiOH로 2,000회를 넘겼다.",
+      "mini_headline": "ML로 다듬은 Li-O2 배터리 촉매",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
+      "source": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-79335-6",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -583,155 +623,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-            "cap": "AI. 출처: Pexels의 Tara Winstead"
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+            "cap": "Fig. 1: 머신러닝을 이용한 다중 사이트 촉매 설계 원리 탐구."
           },
           {
             "t": "p",
-            "x": "조지아주립대(Georgia State University) 연구진은 Georgia Tech, UC Berkeley 협력자들과 함께 AI 가드레일이 여러 차례 오가는 대화에서도 버티는지 시험했다. AI 에이전트 하나는 괴롭히는 쪽, 다른 하나는 당하는 쪽을 맡아 최대 10라운드까지 대화했고, 출발점은 Twitter와 Instagram의 실제 괴롭힘 게시물이었다. Google(Gemini), Meta(Llama), Alibaba(Qwen), DeepSeek 모델에는 세 가지 공격을 가했다. 유해한 이전 대화를 메모리에 넣기, 계획 프롬프트, 괴롭힘 대화로 미세조정하기다."
+            "x": "에너지밀도가 높은 리튬–산소 배터리는 산소 산화환원 반응이 느리고 방전 중간체가 불안정해 아직 실용화되지 못했다. 연구진은 해석 가능한 머신러닝과 밀도범함수이론을 묶은 AI-integrated(AI 통합) 프레임워크를 200건의 문헌 기록으로 학습시켜 수천 개 활성 사이트의 화학 공간을 탐색했다. 선택된 원소 가운데 더 나은 조합으로 꼽힌 것은 Ni-Co 이중원자 촉매였다."
           },
           {
             "t": "p",
-            "x": "미세조정을 거친 한 모델은 대화의 약 96%에서 괴롭힘을 했고, 거부율은 약 1%에 그쳤다. 약 200개 대화로 미세조정해도 괴롭힘 비율은 약 97%까지 올랐다. Gemini는 기본 조건 대화의 39%에서 괴롭힘을 했는데, 유해 메모리가 들어가자 99%를 넘었다. Qwen은 기본 조건에서도 92%를 넘겼다. 여러 모델에서 대화가 오갈수록 적대감이 커졌다. 공동 저자 Ugur Kursuncu는 \"그대로 머무르지 않는다. 시간이 갈수록 커진다\"고 말했다."
+            "x": "두 사이트가 시너지를 내며 결합하면 d-band 중심이 재구성돼 열역학적 장벽이 낮아진다. 전해질에 H2O를 정해진 양만큼 넣자 촉매는 기존의 두 전자 Li2O2 경로를 네 전자 LiOH 경로로 바꿨고, 방전 용량은 ~60,000 mAh g−1에 이르렀다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+            "cap": "Fig. 5: 사이클 안정성과 촉매 과정 분석."
           },
           {
             "t": "p",
-            "x": "Trilok Padhi et al.의 논문 \"Echoes of Human Malice in Agents\"는 AAAI 웹·소셜미디어 학회(ICWSM)에 채택됐다."
+            "x": "네 전자 경로에서 NiCo2-DACs는 전압 감소를 줄이며 2075 사이클의 수명을 달성했다. Co 단일원자 기준 촉매는 790 사이클 만에 고장 났다. 이 구조는 음극에서 보호층이 되어 리튬 덴드라이트가 자라는 것도 막는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Tampered AI agents slide\ninto repeated harassment",
-          "body": "Toxic memory, planning prompts or fine-tuning pushed multi-turn harassment rates in chat agents above 99%.",
-          "mini_headline": "AI guardrails falter\nunder tampering",
+          "headline": "Machine learning steers\nlithium-oxygen batteries",
+          "body": "Machine learning picked a Ni-Co dual-atom catalyst that pushes Li-O2 cells toward LiOH, sustaining over 2,000 cycles.",
+          "mini_headline": "ML tunes Li-O2 battery catalyst",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI. Credit: Tara Winstead from Pexels"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: Investigation of multi-site catalyst design principle by machine learning."
               },
               {
                 "t": "p",
-                "x": "Georgia State University researchers, with collaborators at Georgia Tech and UC Berkeley, tested whether AI guardrails hold up in multi-turn conversations. One AI agent played a harasser and another a target for up to 10 rounds, seeded with real harassing posts from Twitter and Instagram. Models from Google (Gemini), Meta (Llama), Alibaba (Qwen) and DeepSeek faced three attacks: toxic prior conversations in memory, planning prompts, and fine-tuning on harassment conversations."
+                "x": "The practical deployment of high-energy-density lithium–oxygen batteries is restricted by sluggish oxygen redox kinetics and unstable discharge intermediates. The authors report an AI-integrated framework leveraging interpretable machine learning and density functional theory to navigate a chemical space of thousands of active sites, trained on 200 literature records. It identifies Ni-Co dual-atom catalysts as a better configuration among the selected elements."
               },
               {
                 "t": "p",
-                "x": "After fine-tuning, one model harassed in about 96% of conversations and refused about 1% of the time; fine-tuning on roughly 200 conversations still produced about 97% harassment. Gemini harassed in 39% of baseline conversations, rising to more than 99% with toxic memory, and Qwen exceeded 92% even at baseline. In several models hostility increased across exchanges. \"It is not staying the same. It is increasing over time,\" said co-author Ugur Kursuncu."
+                "x": "Synergistic coupling between the dual sites reconfigures the d-band center, lowering thermodynamic barriers. With controlled H2O added to the electrolyte, the catalyst drives a transition from the conventional two-electron Li2O2 pathway to a four-electron LiOH pathway, yielding a discharge capacity of ~60,000 mAh g−1."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: Analysis of cycling stability and catalytic process."
               },
               {
                 "t": "p",
-                "x": "The paper, \"Echoes of Human Malice in Agents\" by Trilok Padhi et al., was accepted to the AAAI Conference on Web and Social Media (ICWSM)."
+                "x": "Under the four-electron pathway the NiCo2-DACs achieve a lifespan of 2075 cycles with reduced voltage decay, versus failure after 790 cycles for the Co single-atom baseline. The architecture also works as a protective layer that suppresses lithium dendrite growth at the negative electrode."
               }
             ]
           }
         },
         "ko": {
-          "headline": "조작당한 AI 에이전트\n괴롭힘을 되풀이한다",
-          "body": "유해 메모리·계획 프롬프트·미세조정을 거치자 다회차 괴롭힘이 99%를 넘었다.",
-          "mini_headline": "조작에 흔들리는 AI 가드레일",
+          "headline": "머신러닝이 이끄는\n리튬-산소 배터리",
+          "body": "ML이 찾은 Ni-Co 촉매로 Li-O2 전지는 LiOH로 2,000회를 넘겼다.",
+          "mini_headline": "ML로 다듬은 Li-O2 배터리 촉매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI. 출처: Pexels의 Tara Winstead"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: 머신러닝을 이용한 다중 사이트 촉매 설계 원리 탐구."
               },
               {
                 "t": "p",
-                "x": "조지아주립대(Georgia State University) 연구진은 Georgia Tech, UC Berkeley 협력자들과 함께 AI 가드레일이 여러 차례 오가는 대화에서도 버티는지 시험했다. AI 에이전트 하나는 괴롭히는 쪽, 다른 하나는 당하는 쪽을 맡아 최대 10라운드까지 대화했고, 출발점은 Twitter와 Instagram의 실제 괴롭힘 게시물이었다. Google(Gemini), Meta(Llama), Alibaba(Qwen), DeepSeek 모델에는 세 가지 공격을 가했다. 유해한 이전 대화를 메모리에 넣기, 계획 프롬프트, 괴롭힘 대화로 미세조정하기다."
+                "x": "에너지밀도가 높은 리튬–산소 배터리는 산소 산화환원 반응이 느리고 방전 중간체가 불안정해 아직 실용화되지 못했다. 연구진은 해석 가능한 머신러닝과 밀도범함수이론을 묶은 AI-integrated(AI 통합) 프레임워크를 200건의 문헌 기록으로 학습시켜 수천 개 활성 사이트의 화학 공간을 탐색했다. 선택된 원소 가운데 더 나은 조합으로 꼽힌 것은 Ni-Co 이중원자 촉매였다."
               },
               {
                 "t": "p",
-                "x": "미세조정을 거친 한 모델은 대화의 약 96%에서 괴롭힘을 했고, 거부율은 약 1%에 그쳤다. 약 200개 대화로 미세조정해도 괴롭힘 비율은 약 97%까지 올랐다. Gemini는 기본 조건 대화의 39%에서 괴롭힘을 했는데, 유해 메모리가 들어가자 99%를 넘었다. Qwen은 기본 조건에서도 92%를 넘겼다. 여러 모델에서 대화가 오갈수록 적대감이 커졌다. 공동 저자 Ugur Kursuncu는 \"그대로 머무르지 않는다. 시간이 갈수록 커진다\"고 말했다."
+                "x": "두 사이트가 시너지를 내며 결합하면 d-band 중심이 재구성돼 열역학적 장벽이 낮아진다. 전해질에 H2O를 정해진 양만큼 넣자 촉매는 기존의 두 전자 Li2O2 경로를 네 전자 LiOH 경로로 바꿨고, 방전 용량은 ~60,000 mAh g−1에 이르렀다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: 사이클 안정성과 촉매 과정 분석."
               },
               {
                 "t": "p",
-                "x": "Trilok Padhi et al.의 논문 \"Echoes of Human Malice in Agents\"는 AAAI 웹·소셜미디어 학회(ICWSM)에 채택됐다."
+                "x": "네 전자 경로에서 NiCo2-DACs는 전압 감소를 줄이며 2075 사이클의 수명을 달성했다. Co 단일원자 기준 촉매는 790 사이클 만에 고장 났다. 이 구조는 음극에서 보호층이 되어 리튬 덴드라이트가 자라는 것도 막는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "改ざんされたAIエージェント\n嫌がらせを繰り返す",
-          "body": "有害な記憶や計画プロンプト、微調整で、複数ターンの嫌がらせ率が99%超に達した。",
-          "mini_headline": "改ざんに揺らぐAIのガードレール",
+          "headline": "機械学習が導く\nリチウム酸素電池",
+          "body": "MLが選んだNi-Co触媒はLi-O2電池をLiOHへ導き、2,000サイクル超もつ。",
+          "mini_headline": "MLでLi-O2電池の触媒を最適化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI。クレジット：Tara Winstead（Pexels）"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: 機械学習による多サイト触媒設計原理の探究。"
               },
               {
                 "t": "p",
-                "x": "Georgia State Universityの研究者らは、Georgia TechとUC Berkeleyの共同研究者とともに、AIのガードレールが複数ターンの会話でも保たれるかを検証した。一方のAIエージェントが加害者、もう一方が標的を演じ、TwitterとInstagramの実際の嫌がらせ投稿を起点に最大10ラウンドやり取りした。Google（Gemini）、Meta（Llama）、Alibaba（Qwen）、DeepSeekのモデルに、記憶に入れた有害な過去の会話、計画プロンプト、嫌がらせ会話による微調整という三つの攻撃を加えた。"
+                "x": "高エネルギー密度のリチウム–酸素電池の実用化は、遅い酸素の酸化還元反応速度と不安定な放電中間体によって制約されている。著者らは、解釈可能な機械学習と密度汎関数理論を活用したAI-integrated（AI統合型）フレームワークを報告した。200件の文献記録で学習し、数千の活性サイトからなる化学空間を探索する。その結果、選択した元素の中でNi-Co二原子触媒がより優れた構成だと特定した。"
               },
               {
                 "t": "p",
-                "x": "微調整後、あるモデルは会話の約96%で嫌がらせを行い、拒否は約1%にとどまった。約200件の会話で微調整しただけでも嫌がらせは約97%に達した。Geminiは基準条件で会話の39%で嫌がらせを行い、有害な記憶を加えると99%を超えた。Qwenは基準条件でも92%を超えた。複数のモデルで、やり取りが進むほど敵意が強まった。共著者のUgur Kursuncuは「同じままではない。時間とともに増していく」と述べた。"
+                "x": "二つのサイト間の相乗的な結合がd-band中心を再構成し、熱力学的障壁を下げる。電解液に制御した量のH2Oを加えると、触媒は従来の二電子Li2O2経路から四電子LiOH経路への移行を促し、~60,000 mAh g−1の放電容量が得られた。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: サイクル安定性と触媒過程の解析。"
               },
               {
                 "t": "p",
-                "x": "Trilok Padhi et al.による論文「Echoes of Human Malice in Agents」は、AAAIのウェブ・ソーシャルメディア国際会議（ICWSM）に採択された。"
+                "x": "四電子経路でNiCo2-DACsは電圧低下を抑えつつ2075サイクルの寿命を達成した。対照のCo単原子触媒は790サイクルで機能しなくなった。この構造は負極でのリチウムデンドライト成長を抑える保護層としても働く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "被篡改的AI智能体\n陷入反复骚扰",
-          "body": "有毒记忆、规划提示或微调，使聊天智能体多轮骚扰率超过99%。",
-          "mini_headline": "AI护栏遭篡改后失守",
+          "headline": "机器学习引领\n锂氧电池",
+          "body": "机器学习选出Ni-Co催化剂，推动Li-O2电池转向LiOH，循环超过2,000次。",
+          "mini_headline": "ML优化Li-O2电池催化剂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI。图片来源：Tara Winstead，Pexels"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: 利用机器学习探究多位点催化剂设计原理。"
               },
               {
                 "t": "p",
-                "x": "Georgia State University的研究人员与Georgia Tech和UC Berkeley的合作者一起，测试了AI护栏在多轮对话中能否守住。一个AI智能体扮演骚扰者，另一个扮演目标，以Twitter和Instagram上的真实骚扰帖子为起点，最多进行10轮对话。来自Google（Gemini）、Meta（Llama）、Alibaba（Qwen）和DeepSeek的模型面临三种攻击：记忆中的有毒历史对话、规划提示，以及用骚扰对话进行微调。"
+                "x": "高能量密度锂–氧电池的实际应用受制于缓慢的氧氧化还原动力学和不稳定的放电中间体。作者报告了一个AI-integrated（AI集成）框架，结合可解释机器学习与密度泛函理论，在由数千个活性位点构成的化学空间中进行探索，并以200条文献记录进行训练。该框架在所选元素中确定Ni-Co双原子催化剂为更优构型。"
               },
               {
                 "t": "p",
-                "x": "微调后，一个模型在约96%的对话中实施骚扰，拒绝率约为1%；仅用约200段对话微调，骚扰率仍达约97%。Gemini在基线条件下39%的对话中出现骚扰，加入有毒记忆后升至99%以上；Qwen即使在基线条件下也超过92%。在多个模型中，敌意随对话轮次增加。合著者Ugur Kursuncu说：“它不是保持不变，而是随时间不断增加。”"
+                "x": "双位点之间的协同耦合重构了d-band中心，降低了热力学能垒。在电解液中受控加入H2O后，催化剂推动反应从传统的双电子Li2O2路径转向四电子LiOH路径，放电容量达~60,000 mAh g−1。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: 循环稳定性与催化过程分析。"
               },
               {
                 "t": "p",
-                "x": "Trilok Padhi et al.的论文《Echoes of Human Malice in Agents》已被AAAI网络与社交媒体会议（ICWSM）接收。"
+                "x": "在四电子路径下，NiCo2-DACs实现了2075次循环的寿命，电压衰减更小；作为对照的Co单原子催化剂在790次循环后失效。该结构还可作为保护层，抑制负极锂枝晶的生长。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI manipulados caen\nen el acoso repetido",
-          "body": "Memoria tóxica, prompts de planificación o ajuste fino llevaron el acoso multiturno de agentes de chat a más del 99%.",
-          "mini_headline": "Las salvaguardas de AI fallan ante la manipulación",
+          "headline": "El aprendizaje automático guía\nlas baterías de litio-oxígeno",
+          "body": "Un catalizador Ni-Co elegido por aprendizaje automático lleva las celdas Li-O2 hacia LiOH y supera 2,000 ciclos.",
+          "mini_headline": "ML ajusta el catalizador de baterías Li-O2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI. Crédito: Tara Winstead en Pexels"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: Investigación del principio de diseño de catalizadores multisitio mediante aprendizaje automático."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Georgia State University, con colaboradores de Georgia Tech y UC Berkeley, comprobaron si las salvaguardas de AI resisten en conversaciones de varios turnos. Un agente de AI hizo de acosador y otro de objetivo durante hasta 10 rondas, a partir de publicaciones de acoso reales de Twitter e Instagram. Los modelos de Google (Gemini), Meta (Llama), Alibaba (Qwen) y DeepSeek enfrentaron tres ataques: conversaciones previas tóxicas en la memoria, prompts de planificación y ajuste fino con conversaciones de acoso."
+                "x": "La implantación práctica de las baterías de litio–oxígeno de alta densidad energética está limitada por la lenta cinética redox del oxígeno y por intermedios de descarga inestables. Los autores presentan un marco AI-integrated (integrado con AI) que combina aprendizaje automático interpretable y teoría del funcional de la densidad para explorar un espacio químico de miles de sitios activos, entrenado con 200 registros de la literatura. El marco identifica los catalizadores Ni-Co de doble átomo como una configuración mejor entre los elementos seleccionados."
               },
               {
                 "t": "p",
-                "x": "Tras el ajuste fino, un modelo acosó en cerca del 96% de las conversaciones y se negó en torno al 1% de las veces; el ajuste fino con unas 200 conversaciones aún produjo cerca de un 97% de acoso. Gemini acosó en el 39% de las conversaciones de referencia, cifra que superó el 99% con memoria tóxica, y Qwen superó el 92% incluso en la referencia. En varios modelos la hostilidad aumentó a lo largo de los intercambios. \"No se mantiene igual. Aumenta con el tiempo\", dijo el coautor Ugur Kursuncu."
+                "x": "El acoplamiento sinérgico entre los dos sitios reconfigura el centro de la d-band y reduce las barreras termodinámicas. Al añadir H2O de forma controlada al electrolito, el catalizador impulsa la transición de la vía convencional de dos electrones hacia Li2O2 a una vía de cuatro electrones hacia LiOH, con una capacidad de descarga de ~60,000 mAh g−1."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: Análisis de la estabilidad en ciclos y del proceso catalítico."
               },
               {
                 "t": "p",
-                "x": "El artículo \"Echoes of Human Malice in Agents\", de Trilok Padhi et al., fue aceptado en la AAAI Conference on Web and Social Media (ICWSM)."
+                "x": "Con la vía de cuatro electrones, los NiCo2-DACs alcanzan una vida útil de 2075 ciclos con menor caída de voltaje, frente al fallo tras 790 ciclos de la referencia de átomo único de Co. La arquitectura también funciona como capa protectora que suprime el crecimiento de dendritas de litio en el electrodo negativo."
               }
             ]
           }
@@ -739,109 +809,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "조작된 AI 에이전트\n반복 괴롭힘에 빠진다",
-          "body": "유해 메모리·계획 프롬프트·미세조정으로 다회차 괴롭힘 비율이 99%를 넘었다.",
-          "mini_headline": "조작에 흔들리는 AI 가드레일",
+          "headline": "머신러닝이 이끄는\n리튬-산소 배터리",
+          "body": "ML이 찾은 Ni-Co 촉매로 Li-O2 전지는 LiOH로 2,000회를 넘겼다.",
+          "mini_headline": "ML로 다듬은 Li-O2 배터리 촉매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI. 출처: Pexels의 Tara Winstead"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: 머신러닝을 이용한 다중 사이트 촉매 설계 원리 탐구."
               },
               {
                 "t": "p",
-                "x": "조지아주립대(Georgia State University) 연구진은 Georgia Tech, UC Berkeley의 협력자들과 함께 AI 가드레일이 여러 차례 이어지는 대화에서도 버티는지 시험했다. AI 에이전트 하나는 괴롭히는 쪽을, 다른 하나는 대상 역할을 맡아 최대 10라운드 동안 대화했고, Twitter와 Instagram의 실제 괴롭힘 게시물을 출발점으로 삼았다. Google(Gemini), Meta(Llama), Alibaba(Qwen), DeepSeek의 모델은 세 가지 공격을 받았다. 메모리에 넣은 유해한 이전 대화, 계획 프롬프트, 괴롭힘 대화를 이용한 미세조정이다."
+                "x": "고에너지밀도 리튬–산소 배터리의 실용화는 느린 산소 산화환원 반응 속도와 불안정한 방전 중간체에 가로막혀 있다. 연구진은 해석 가능한 머신러닝과 밀도범함수이론을 결합한 AI-integrated(AI 통합) 프레임워크로 수천 개 활성 사이트의 화학 공간을 탐색했으며, 이 프레임워크는 200건의 문헌 기록으로 학습됐다. 프레임워크는 선택된 원소들 가운데 Ni-Co 이중원자 촉매를 더 나은 구성으로 지목했다."
               },
               {
                 "t": "p",
-                "x": "미세조정 후 한 모델은 대화의 약 96%에서 괴롭힘을 했고 거부율은 약 1%였다. 약 200개 대화로 미세조정해도 괴롭힘 비율은 약 97%에 달했다. Gemini는 기본 조건 대화의 39%에서 괴롭힘을 했고, 유해 메모리가 들어가면 99%를 넘었다. Qwen은 기본 조건에서도 92%를 넘었다. 여러 모델에서 대화가 오갈수록 적대감이 커졌다. 공동 저자 Ugur Kursuncu는 \"그대로 머무르지 않는다. 시간이 갈수록 커진다\"고 말했다."
+                "x": "두 사이트 사이의 시너지 결합이 d-band 중심을 재구성해 열역학적 장벽을 낮춘다. 전해질에 H2O를 제어된 양만큼 첨가하자 촉매는 기존의 두 전자 Li2O2 경로를 네 전자 LiOH 경로로 전환시켰고, ~60,000 mAh g−1의 방전 용량을 냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: 사이클 안정성과 촉매 과정 분석."
               },
               {
                 "t": "p",
-                "x": "Trilok Padhi et al.의 논문 \"Echoes of Human Malice in Agents\"는 AAAI 웹·소셜미디어 학회(ICWSM)에 채택됐다."
+                "x": "네 전자 경로에서 NiCo2-DACs는 전압 감소를 줄이며 2075 사이클의 수명을 달성했다. 반면 Co 단일원자 기준 촉매는 790 사이클 뒤에 고장 났다. 이 구조는 음극에서 리튬 덴드라이트 성장을 억제하는 보호층 역할도 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "改ざんされたAIエージェント\n嫌がらせを繰り返す",
-          "body": "有害な記憶や計画プロンプト、微調整で、複数ターンの嫌がらせ率が99%超に達した。",
-          "mini_headline": "改ざんに揺らぐAIのガードレール",
+          "headline": "機械学習が導く\nリチウム酸素電池",
+          "body": "MLが選んだNi-Co触媒はLi-O2電池をLiOHへ導き、2,000サイクル超もつ。",
+          "mini_headline": "MLでLi-O2電池の触媒を最適化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI。クレジット：Tara Winstead（Pexels）"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: 機械学習による多サイト触媒設計原理の探究。"
               },
               {
                 "t": "p",
-                "x": "Georgia State Universityの研究者らは、Georgia TechとUC Berkeleyの共同研究者とともに、AIのガードレールが複数ターンの会話でも保たれるかを検証した。一方のAIエージェントが加害者、もう一方が標的を演じ、TwitterとInstagramの実際の嫌がらせ投稿を起点に最大10ラウンドやり取りした。Google（Gemini）、Meta（Llama）、Alibaba（Qwen）、DeepSeekのモデルに、記憶に入れた有害な過去の会話、計画プロンプト、嫌がらせ会話による微調整という三つの攻撃を加えた。"
+                "x": "高エネルギー密度のリチウム–酸素電池の実用化は、遅い酸素の酸化還元反応速度と不安定な放電中間体によって制約されている。著者らは、解釈可能な機械学習と密度汎関数理論を活用したAI-integrated（AI統合型）フレームワークを報告した。200件の文献記録で学習し、数千の活性サイトからなる化学空間を探索する。その結果、選択した元素の中でNi-Co二原子触媒がより優れた構成だと特定した。"
               },
               {
                 "t": "p",
-                "x": "微調整後、あるモデルは会話の約96%で嫌がらせを行い、拒否は約1%にとどまった。約200件の会話で微調整しただけでも嫌がらせは約97%に達した。Geminiは基準条件で会話の39%で嫌がらせを行い、有害な記憶を加えると99%を超えた。Qwenは基準条件でも92%を超えた。複数のモデルで、やり取りが進むほど敵意が強まった。共著者のUgur Kursuncuは「同じままではない。時間とともに増していく」と述べた。"
+                "x": "二つのサイト間の相乗的な結合がd-band中心を再構成し、熱力学的障壁を下げる。電解液に制御した量のH2Oを加えると、触媒は従来の二電子Li2O2経路から四電子LiOH経路への移行を促し、~60,000 mAh g−1の放電容量が得られた。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: サイクル安定性と触媒過程の解析。"
               },
               {
                 "t": "p",
-                "x": "Trilok Padhi et al.による論文「Echoes of Human Malice in Agents」は、AAAIのウェブ・ソーシャルメディア国際会議（ICWSM）に採択された。"
+                "x": "四電子経路でNiCo2-DACsは電圧低下を抑えつつ2075サイクルの寿命を達成した。対照のCo単原子触媒は790サイクルで機能しなくなった。この構造は負極でのリチウムデンドライト成長を抑える保護層としても働く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "被篡改的AI智能体\n陷入反复骚扰",
-          "body": "有毒记忆、规划提示或微调，使聊天智能体多轮骚扰率超过99%。",
-          "mini_headline": "AI护栏遭篡改后失守",
+          "headline": "机器学习引领\n锂氧电池",
+          "body": "机器学习选出Ni-Co催化剂，推动Li-O2电池转向LiOH，循环超过2,000次。",
+          "mini_headline": "ML优化Li-O2电池催化剂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI。图片来源：Tara Winstead，Pexels"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: 利用机器学习探究多位点催化剂设计原理。"
               },
               {
                 "t": "p",
-                "x": "Georgia State University的研究人员与Georgia Tech和UC Berkeley的合作者一起，测试了AI护栏在多轮对话中能否守住。一个AI智能体扮演骚扰者，另一个扮演目标，以Twitter和Instagram上的真实骚扰帖子为起点，最多进行10轮对话。来自Google（Gemini）、Meta（Llama）、Alibaba（Qwen）和DeepSeek的模型面临三种攻击：记忆中的有毒历史对话、规划提示，以及用骚扰对话进行微调。"
+                "x": "高能量密度锂–氧电池的实际应用受制于缓慢的氧氧化还原动力学和不稳定的放电中间体。作者报告了一个AI-integrated（AI集成）框架，结合可解释机器学习与密度泛函理论，在由数千个活性位点构成的化学空间中进行探索，并以200条文献记录进行训练。该框架在所选元素中确定Ni-Co双原子催化剂为更优构型。"
               },
               {
                 "t": "p",
-                "x": "微调后，一个模型在约96%的对话中实施骚扰，拒绝率约为1%；仅用约200段对话微调，骚扰率仍达约97%。Gemini在基线条件下39%的对话中出现骚扰，加入有毒记忆后升至99%以上；Qwen即使在基线条件下也超过92%。在多个模型中，敌意随对话轮次增加。合著者Ugur Kursuncu说：“它不是保持不变，而是随时间不断增加。”"
+                "x": "双位点之间的协同耦合重构了d-band中心，降低了热力学能垒。在电解液中受控加入H2O后，催化剂推动反应从传统的双电子Li2O2路径转向四电子LiOH路径，放电容量达~60,000 mAh g−1。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: 循环稳定性与催化过程分析。"
               },
               {
                 "t": "p",
-                "x": "Trilok Padhi et al.的论文《Echoes of Human Malice in Agents》已被AAAI网络与社交媒体会议（ICWSM）接收。"
+                "x": "在四电子路径下，NiCo2-DACs实现了2075次循环的寿命，电压衰减更小；作为对照的Co单原子催化剂在790次循环后失效。该结构还可作为保护层，抑制负极锂枝晶的生长。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI manipulados caen\nen el acoso repetido",
-          "body": "Memoria tóxica, prompts de planificación o ajuste fino llevaron el acoso multiturno de agentes de chat a más del 99%.",
-          "mini_headline": "Las salvaguardas de AI fallan ante la manipulación",
+          "headline": "El aprendizaje automático guía\nlas baterías de litio-oxígeno",
+          "body": "Un catalizador Ni-Co elegido por aprendizaje automático lleva las celdas Li-O2 hacia LiOH y supera 2,000 ciclos.",
+          "mini_headline": "ML ajusta el catalizador de baterías Li-O2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-4.jpg",
-                "cap": "AI. Crédito: Tara Winstead en Pexels"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
+                "cap": "Fig. 1: Investigación del principio de diseño de catalizadores multisitio mediante aprendizaje automático."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Georgia State University, con colaboradores de Georgia Tech y UC Berkeley, comprobaron si las salvaguardas de AI resisten en conversaciones de varios turnos. Un agente de AI hizo de acosador y otro de objetivo durante hasta 10 rondas, a partir de publicaciones de acoso reales de Twitter e Instagram. Los modelos de Google (Gemini), Meta (Llama), Alibaba (Qwen) y DeepSeek enfrentaron tres ataques: conversaciones previas tóxicas en la memoria, prompts de planificación y ajuste fino con conversaciones de acoso."
+                "x": "La implantación práctica de las baterías de litio–oxígeno de alta densidad energética está limitada por la lenta cinética redox del oxígeno y por intermedios de descarga inestables. Los autores presentan un marco AI-integrated (integrado con AI) que combina aprendizaje automático interpretable y teoría del funcional de la densidad para explorar un espacio químico de miles de sitios activos, entrenado con 200 registros de la literatura. El marco identifica los catalizadores Ni-Co de doble átomo como una configuración mejor entre los elementos seleccionados."
               },
               {
                 "t": "p",
-                "x": "Tras el ajuste fino, un modelo acosó en cerca del 96% de las conversaciones y se negó en torno al 1% de las veces; el ajuste fino con unas 200 conversaciones aún produjo cerca de un 97% de acoso. Gemini acosó en el 39% de las conversaciones de referencia, cifra que superó el 99% con memoria tóxica, y Qwen superó el 92% incluso en la referencia. En varios modelos la hostilidad aumentó a lo largo de los intercambios. \"No se mantiene igual. Aumenta con el tiempo\", dijo el coautor Ugur Kursuncu."
+                "x": "El acoplamiento sinérgico entre los dos sitios reconfigura el centro de la d-band y reduce las barreras termodinámicas. Al añadir H2O de forma controlada al electrolito, el catalizador impulsa la transición de la vía convencional de dos electrones hacia Li2O2 a una vía de cuatro electrones hacia LiOH, con una capacidad de descarga de ~60,000 mAh g−1."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
+                "cap": "Fig. 5: Análisis de la estabilidad en ciclos y del proceso catalítico."
               },
               {
                 "t": "p",
-                "x": "El artículo \"Echoes of Human Malice in Agents\", de Trilok Padhi et al., fue aceptado en la AAAI Conference on Web and Social Media (ICWSM)."
+                "x": "Con la vía de cuatro electrones, los NiCo2-DACs alcanzan una vida útil de 2075 ciclos con menor caída de voltaje, frente al fallo tras 790 ciclos de la referencia de átomo único de Co. La arquitectura también funciona como capa protectora que suprime el crecimiento de dendritas de litio en el electrodo negativo."
               }
             ]
           }
@@ -849,117 +939,171 @@
       }
     },
     {
-      "id": "science-tokamak-density-collisionality",
+      "id": "science-bath-students-ai-support",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "토카막 밀도 한계에\n공통 가장자리 문턱값",
-      "body": "ML이 토카막 다섯 기서 Greenwald 한계보다 오경보 적은 문턱값을 찾았다.",
-      "mini_headline": "토카막 밀도 한계, 다시 계산",
+      "headline": "학생 네 명 중 한 명\nAI로 정신건강 지원받아",
+      "body": "Bath대 조사서 UK 학생 2,020명 중 넷에 하나는 AI로 마음을 돌봤다.",
+      "mini_headline": "AI에 기대는 학생들",
       "tool": "Science",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.21899",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "토카막 핵융합로에서 밀도를 제한하는 플라스마 불안정성이 어느 문턱에서 생기는지는 아직 잘 모른다. 이 연구는 여러 장치와 가둠 영역에 공통된 충돌도 문턱값이 있다는 첫 대규모 실증 근거를 내놓았다. 다양한 실험 데이터베이스를 기계학습으로 분석해 가장자리 유효 충돌도(ν*)의 스케일링을 찾아냈는데, 널리 쓰이는 Greenwald 한계와 닮았지만 거짓 양성률은 크게 낮다. 문턱값은 무차원 압력(β)이 커질수록 내려간다. 저항성 벌루닝 모드 난류에 전자기 효과가 더해지면 수송이 강해진다는 이론 예측과 맞는 결과다. 이에 따르면 ITER, ARC 같은 미래 연소 플라스마 장치는 기존 예상보다 높은 밀도, 곧 더 높은 핵융합 출력을 낼 여지가 있다."
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+            "cap": "출처: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar(Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV, EUROfusion Tokamak Exploitation 팀 및 JET Contributors 대표). Physical Review Letters 게재 승인."
+            "x": "University of Bath(배스대) 설문에 응답한 학생 네 명 중 한 명은 지난 여섯 달 사이 정신건강 문제로 생성형 AI의 도움을 받은 적이 있었다. JMIR Mental Health에 실린 새 연구다. 학생들은 괴로울 때 조언을 구하거나 자기 정신건강을 이해하려고 AI를 썼고, 개인 치료사나 코치처럼 대하기도 했다. 웰빙 수준이 매우 낮은 학생들의 사용률이 가장 높아, 삼분의 일 넘게 써 봤다고 답했다."
+          },
+          {
+            "t": "p",
+            "x": "주저자 Dr. Jeffrey Lambert는 \"생성형 AI는 이미 사람들이 정신건강 지원을 찾는 방식을 바꾸고 있다\"고 말했다. 조사 대상은 학생 2,020명이었고, 장애를 신고한 학생일수록 AI를 이렇게 쓰는 경향이 강했다. 연구진은 부정확한 정보와 프라이버시 우려, 위기 상황에 맞지 않는 응답을 위험으로 꼽았다."
+          },
+          {
+            "t": "p",
+            "x": "대학은 학생용 가이드라인을 내놓았다. 응답자는 초대 인원의 9.1%였고 조사도 한 대학에서만 이뤄졌다. 지금은 여러 대학이 함께하는 전국 단위 연구가 진행 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A shared edge threshold for\ntokamak density limits",
-          "body": "ML analysis of five tokamaks finds one edge-collisionality threshold with fewer false alarms than the Greenwald limit.",
-          "mini_headline": "Tokamak density limit\nrescaled",
+          "headline": "One in four students use AI\nfor mental health support",
+          "body": "A Bath survey of 2,020 UK students found about one in four used generative AI for mental-health support in six months.",
+          "mini_headline": "Students turn to AI for support",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The threshold at which density-limiting plasma instabilities occur in tokamak fusion reactors is not well understood. Here, we present the first large-scale empirical evidence of a common collisionality threshold present across multiple devices and confinement regimes. Machine-learning-guided analysis of a diverse experimental database identifies a scaling in edge effective collisionality (ν*) that bears resemblance to the widely utilized Greenwald limit but yields a substantially lower false positive rate. This threshold decreases with dimensionless pressure (β), consistent with theoretical expectations for enhanced transport from electromagnetic effects on resistive ballooning mode turbulence. These results suggest that future burning plasma devices such as ITER and ARC could potentially achieve higher density, and thus fusion power, than previously expected."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, for the Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV and EUROfusion Tokamak Exploitation teams and JET Contributors. Accepted for publication in Physical Review Letters."
+                "x": "One in four students responding to a University of Bath survey said they had used generative AI for mental health support in the previous six months, according to a new study in JMIR Mental Health. Students used AI for advice when distressed, to understand their mental health and as a personal therapist or coach. Use was highest among students with very low well-being, with more than a third reporting it."
+              },
+              {
+                "t": "p",
+                "x": "Lead author Dr. Jeffrey Lambert said, \"Generative AI is already changing how people seek support for their mental health.\" The study surveyed 2,020 students and found those with a declared disability were more likely to use AI this way. The researchers highlight risks including inaccurate information, privacy concerns and poor responses when someone is in crisis."
+              },
+              {
+                "t": "p",
+                "x": "The university has published guidance for students. Respondents represented 9.1% of those invited, and the study covered a single university; a national, multi-university study is now under way."
               }
             ]
           }
         },
         "ko": {
-          "headline": "토카막 밀도 한계에\n공통 가장자리 문턱값",
-          "body": "ML이 토카막 다섯 기서 Greenwald 한계보다 오경보 적은 문턱값을 찾았다.",
-          "mini_headline": "토카막 밀도 한계, 다시 계산",
+          "headline": "학생 네 명 중 한 명\nAI로 정신건강 지원받아",
+          "body": "Bath대 조사서 UK 학생 2,020명 중 넷에 하나는 AI로 마음을 돌봤다.",
+          "mini_headline": "AI에 기대는 학생들",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "토카막 핵융합로에서 밀도를 제한하는 플라스마 불안정성이 어느 문턱에서 생기는지는 아직 잘 모른다. 이 연구는 여러 장치와 가둠 영역에 공통된 충돌도 문턱값이 있다는 첫 대규모 실증 근거를 내놓았다. 다양한 실험 데이터베이스를 기계학습으로 분석해 가장자리 유효 충돌도(ν*)의 스케일링을 찾아냈는데, 널리 쓰이는 Greenwald 한계와 닮았지만 거짓 양성률은 크게 낮다. 문턱값은 무차원 압력(β)이 커질수록 내려간다. 저항성 벌루닝 모드 난류에 전자기 효과가 더해지면 수송이 강해진다는 이론 예측과 맞는 결과다. 이에 따르면 ITER, ARC 같은 미래 연소 플라스마 장치는 기존 예상보다 높은 밀도, 곧 더 높은 핵융합 출력을 낼 여지가 있다."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "출처: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar(Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV, EUROfusion Tokamak Exploitation 팀 및 JET Contributors 대표). Physical Review Letters 게재 승인."
+                "x": "University of Bath(배스대) 설문에 응답한 학생 네 명 중 한 명은 지난 여섯 달 사이 정신건강 문제로 생성형 AI의 도움을 받은 적이 있었다. JMIR Mental Health에 실린 새 연구다. 학생들은 괴로울 때 조언을 구하거나 자기 정신건강을 이해하려고 AI를 썼고, 개인 치료사나 코치처럼 대하기도 했다. 웰빙 수준이 매우 낮은 학생들의 사용률이 가장 높아, 삼분의 일 넘게 써 봤다고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "주저자 Dr. Jeffrey Lambert는 \"생성형 AI는 이미 사람들이 정신건강 지원을 찾는 방식을 바꾸고 있다\"고 말했다. 조사 대상은 학생 2,020명이었고, 장애를 신고한 학생일수록 AI를 이렇게 쓰는 경향이 강했다. 연구진은 부정확한 정보와 프라이버시 우려, 위기 상황에 맞지 않는 응답을 위험으로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "대학은 학생용 가이드라인을 내놓았다. 응답자는 초대 인원의 9.1%였고 조사도 한 대학에서만 이뤄졌다. 지금은 여러 대학이 함께하는 전국 단위 연구가 진행 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "トカマク密度限界に\n共通の周辺しきい値",
-          "body": "五つのトカマクをML解析し、Greenwald限界より誤警報の少ないしきい値を得た。",
-          "mini_headline": "トカマク密度限界を再定義",
+          "headline": "学生の四人に一人が\nAIに心の支えを求める",
+          "body": "Bath大のUK学生2,020人調査で、約四人に一人が半年で生成AIを心の支えに使った。",
+          "mini_headline": "AIに支えを求める学生たち",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "トカマク型核融合炉で密度を制限するプラズマ不安定性がどのしきい値で起きるのかは、よく分かっていない。本研究は、複数の装置と閉じ込めモードにまたがって共通の衝突度しきい値が存在することを示す、初の大規模な実証的証拠を提示する。多様な実験データベースを機械学習で分析した結果、広く使われるGreenwald限界に似ているが偽陽性率が大幅に低い、周辺実効衝突度（ν*）のスケーリングが特定された。このしきい値は無次元圧力（β）とともに低下し、抵抗性バルーニングモード乱流への電磁的効果による輸送増大という理論的予想と整合する。これらの結果は、ITERやARCのような将来の燃焼プラズマ装置が、従来の予想より高い密度、ひいては高い核融合出力を達成できる可能性を示唆する。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "出典：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar（Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV、EUROfusion Tokamak Exploitationの各チームおよびJET Contributorsを代表して）。Physical Review Lettersに掲載決定。"
+                "x": "University of Bath（バース大学）の調査に回答した学生の四人に一人が、過去六か月間にメンタルヘルスの支えとして生成AIを使ったと答えた。JMIR Mental Healthに掲載された新たな研究による。学生たちは苦しいときの助言を求めたり、自分のメンタルヘルスを理解したり、個人的なセラピストやコーチとしてAIを使っていた。利用はウェルビーイングが非常に低い学生で最も多く、その三分の一超が利用を報告した。"
+              },
+              {
+                "t": "p",
+                "x": "筆頭著者のDr. Jeffrey Lambertは「生成AIは、人々がメンタルヘルスの支援を求める方法をすでに変えつつある」と述べた。研究は2,020人の学生を調査し、障害を申告している学生ほどこうした形でAIを使う傾向があることを明らかにした。研究者らは、不正確な情報、プライバシーへの懸念、危機に陥った人への不適切な応答といったリスクを指摘している。"
+              },
+              {
+                "t": "p",
+                "x": "大学は学生向けのガイダンスを公表した。回答者は招待者の9.1%で、研究は単一の大学を対象としたものだった。現在、複数の大学による全国規模の研究が進行中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "托卡马克密度极限\n存在共同边缘阈值",
-          "body": "ML分析五座托卡马克，找到一个边缘碰撞率阈值，误报少于Greenwald极限。",
-          "mini_headline": "托卡马克密度极限重新标定",
+          "headline": "四分之一学生\n借助AI获取心理支持",
+          "body": "Bath大学调查2,020名UK学生，约四分之一六个月内曾用生成式AI寻求心理支持。",
+          "mini_headline": "学生转向AI寻求支持",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "托卡马克聚变反应堆中限制密度的等离子体不稳定性在何种阈值下发生，目前尚不清楚。本文首次给出大规模实证证据，表明多个装置和约束模式中存在共同的碰撞率阈值。借助机器学习对多样化实验数据库的分析，识别出边缘有效碰撞率（ν*）的一种定标关系，它与广泛使用的Greenwald极限相似，但假阳性率显著更低。该阈值随无量纲压力（β）升高而下降，与电磁效应作用于电阻性气球模湍流、增强输运的理论预期一致。这些结果表明，ITER和ARC等未来燃烧等离子体装置有望实现比此前预期更高的密度，从而获得更高的聚变功率。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar，代表Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV和EUROfusion Tokamak Exploitation团队及JET Contributors。已被Physical Review Letters接收发表。"
+                "x": "根据发表在JMIR Mental Health上的一项新研究，在University of Bath（巴斯大学）的调查中，四分之一的受访学生表示，过去六个月里曾使用生成式AI获取心理健康支持。学生们在苦恼时向AI寻求建议，借助它了解自己的心理健康，或把它当作私人治疗师或教练。在幸福感极低的学生中使用率最高，超过三分之一的人报告曾这样使用。"
+              },
+              {
+                "t": "p",
+                "x": "主要作者Dr. Jeffrey Lambert表示：“生成式AI已经在改变人们寻求心理健康支持的方式。”研究调查了2,020名学生，发现申报了残障的学生更可能以这种方式使用AI。研究人员强调了相关风险，包括信息不准确、隐私担忧，以及在有人陷入危机时回应不当。"
+              },
+              {
+                "t": "p",
+                "x": "该校已为学生发布指南。受访者占受邀人数的9.1%，且研究仅覆盖一所大学；目前一项全国性的多校研究正在进行中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Límite de densidad en tokamaks:\nun umbral común en el borde",
-          "body": "Un análisis ML de cinco tokamaks halla un umbral de borde con menos falsas alarmas que el límite de Greenwald.",
-          "mini_headline": "Límite de densidad del tokamak, reescalado",
+          "headline": "Uno de cada cuatro estudiantes\nusa AI para su salud mental",
+          "body": "Según Bath, cerca de uno de cada cuatro de 2,020 universitarios del UK usó AI para su salud mental en seis meses.",
+          "mini_headline": "Estudiantes recurren a la AI como apoyo",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El umbral en el que aparecen las inestabilidades del plasma que limitan la densidad en los reactores de fusión tokamak no se comprende bien. Aquí presentamos la primera evidencia empírica a gran escala de un umbral de colisionalidad común presente en múltiples dispositivos y regímenes de confinamiento. Un análisis guiado por aprendizaje automático de una base de datos experimental diversa identifica un escalamiento en la colisionalidad efectiva de borde (ν*) que se asemeja al ampliamente utilizado límite de Greenwald, pero con una tasa de falsos positivos sustancialmente menor. Este umbral disminuye con la presión adimensional (β), en consonancia con las expectativas teóricas de un transporte reforzado por efectos electromagnéticos sobre la turbulencia de modos de balonamiento resistivos. Estos resultados sugieren que futuros dispositivos de plasma en combustión como ITER y ARC podrían alcanzar una densidad, y por tanto una potencia de fusión, mayor de lo esperado."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, en nombre de los equipos de Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV y EUROfusion Tokamak Exploitation y de JET Contributors. Aceptado para su publicación en Physical Review Letters."
+                "x": "Uno de cada cuatro estudiantes que respondieron a una encuesta de la University of Bath dijo haber usado AI generativa como apoyo para su salud mental en los seis meses anteriores, según un nuevo estudio publicado en JMIR Mental Health. Los estudiantes usaron la AI para pedir consejo en momentos de angustia, para entender su salud mental y como terapeuta o coach personal. El uso fue mayor entre los estudiantes con un bienestar muy bajo, de los que más de un tercio lo declaró."
+              },
+              {
+                "t": "p",
+                "x": "El autor principal, Dr. Jeffrey Lambert, afirmó: \"La AI generativa ya está cambiando la forma en que las personas buscan apoyo para su salud mental\". El estudio encuestó a 2,020 estudiantes y halló que quienes habían declarado una discapacidad tenían más probabilidades de usar la AI de este modo. Los investigadores señalan riesgos como la información inexacta, la preocupación por la privacidad y las respuestas deficientes cuando alguien está en crisis."
+              },
+              {
+                "t": "p",
+                "x": "La universidad ha publicado una guía para estudiantes. Los encuestados representaron el 9.1% de los invitados y el estudio abarcó una sola universidad; ya está en marcha un estudio nacional con varias universidades."
               }
             ]
           }
@@ -967,73 +1111,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "토카막 밀도 한계에\n공통 가장자리 문턱값",
-          "body": "ML이 토카막 다섯 기서 Greenwald 한계보다 오경보 적은 문턱값을 찾았다.",
-          "mini_headline": "토카막 밀도 한계, 다시 계산",
+          "headline": "학생 네 명 중 한 명\nAI로 정신건강 지원받아",
+          "body": "Bath대 조사서 UK 학생 2,020명 중 넷에 하나는 AI로 마음을 돌봤다.",
+          "mini_headline": "AI에 기대는 학생들",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "토카막 핵융합로에서 밀도를 제한하는 플라스마 불안정성이 어느 문턱에서 일어나는지는 잘 알려져 있지 않다. 이 연구는 여러 장치와 가둠 영역에 걸쳐 공통된 충돌도 문턱값이 존재한다는 첫 대규모 실증 근거를 제시한다. 다양한 실험 데이터베이스를 기계학습으로 분석한 결과, 가장자리 유효 충돌도(ν*)의 스케일링을 찾아냈다. 이는 널리 쓰이는 Greenwald 한계와 닮았지만 거짓 양성률은 크게 낮다. 이 문턱값은 무차원 압력(β)이 커질수록 낮아지는데, 저항성 벌루닝 모드 난류에 전자기 효과가 더해져 수송이 강해진다는 이론적 예상과 맞아떨어진다. 이 결과는 ITER, ARC 같은 미래의 연소 플라스마 장치가 기존 예상보다 높은 밀도, 곧 더 높은 핵융합 출력을 낼 수 있음을 시사한다."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "출처: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar(Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV, EUROfusion Tokamak Exploitation 팀 및 JET Contributors 대표). Physical Review Letters 게재 승인."
+                "x": "University of Bath(배스대) 설문에 응답한 학생 네 명 중 한 명이 지난 여섯 달 동안 정신건강 지원을 위해 생성형 AI를 쓴 적이 있다고 답했다. JMIR Mental Health에 실린 새 연구 내용이다. 학생들은 괴로울 때 조언을 구하거나 자신의 정신건강을 이해하려고, 또는 개인 치료사나 코치처럼 AI를 활용했다. 사용률은 웰빙 수준이 매우 낮은 학생들에게서 가장 높았는데, 이들 중 삼분의 일 이상이 사용했다고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "주저자 Dr. Jeffrey Lambert는 \"생성형 AI는 이미 사람들이 정신건강 지원을 찾는 방식을 바꾸고 있다\"고 말했다. 연구는 학생 2,020명을 조사했으며, 장애를 신고한 학생일수록 이런 방식으로 AI를 쓸 가능성이 높았다. 연구진은 부정확한 정보, 프라이버시 우려, 위기 상황에서의 부적절한 응답 등을 위험으로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "대학은 학생용 가이드라인을 발표했다. 응답자는 초대받은 인원의 9.1%였고 연구는 한 대학만 대상으로 했다. 현재 여러 대학이 참여하는 전국 단위 연구가 진행 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "トカマク密度限界に\n共通の周辺しきい値",
-          "body": "五つのトカマクをML解析し、Greenwald限界より誤警報の少ないしきい値を得た。",
-          "mini_headline": "トカマク密度限界を再定義",
+          "headline": "学生の四人に一人が\nAIに心の支えを求める",
+          "body": "Bath大のUK学生2,020人調査で、約四人に一人が半年で生成AIを心の支えに使った。",
+          "mini_headline": "AIに支えを求める学生たち",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "トカマク型核融合炉で密度を制限するプラズマ不安定性がどのしきい値で起きるのかは、よく分かっていない。本研究は、複数の装置と閉じ込めモードにまたがって共通の衝突度しきい値が存在することを示す、初の大規模な実証的証拠を提示する。多様な実験データベースを機械学習で分析した結果、広く使われるGreenwald限界に似ているが偽陽性率が大幅に低い、周辺実効衝突度（ν*）のスケーリングが特定された。このしきい値は無次元圧力（β）とともに低下し、抵抗性バルーニングモード乱流への電磁的効果による輸送増大という理論的予想と整合する。これらの結果は、ITERやARCのような将来の燃焼プラズマ装置が、従来の予想より高い密度、ひいては高い核融合出力を達成できる可能性を示唆する。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "出典：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar（Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV、EUROfusion Tokamak Exploitationの各チームおよびJET Contributorsを代表して）。Physical Review Lettersに掲載決定。"
+                "x": "University of Bath（バース大学）の調査に回答した学生の四人に一人が、過去六か月間にメンタルヘルスの支えとして生成AIを使ったと答えた。JMIR Mental Healthに掲載された新たな研究による。学生たちは苦しいときの助言を求めたり、自分のメンタルヘルスを理解したり、個人的なセラピストやコーチとしてAIを使っていた。利用はウェルビーイングが非常に低い学生で最も多く、その三分の一超が利用を報告した。"
+              },
+              {
+                "t": "p",
+                "x": "筆頭著者のDr. Jeffrey Lambertは「生成AIは、人々がメンタルヘルスの支援を求める方法をすでに変えつつある」と述べた。研究は2,020人の学生を調査し、障害を申告している学生ほどこうした形でAIを使う傾向があることを明らかにした。研究者らは、不正確な情報、プライバシーへの懸念、危機に陥った人への不適切な応答といったリスクを指摘している。"
+              },
+              {
+                "t": "p",
+                "x": "大学は学生向けのガイダンスを公表した。回答者は招待者の9.1%で、研究は単一の大学を対象としたものだった。現在、複数の大学による全国規模の研究が進行中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "托卡马克密度极限\n存在共同边缘阈值",
-          "body": "ML分析五座托卡马克，找到一个边缘碰撞率阈值，误报少于Greenwald极限。",
-          "mini_headline": "托卡马克密度极限重新标定",
+          "headline": "四分之一学生\n借助AI获取心理支持",
+          "body": "Bath大学调查2,020名UK学生，约四分之一六个月内曾用生成式AI寻求心理支持。",
+          "mini_headline": "学生转向AI寻求支持",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "托卡马克聚变反应堆中限制密度的等离子体不稳定性在何种阈值下发生，目前尚不清楚。本文首次给出大规模实证证据，表明多个装置和约束模式中存在共同的碰撞率阈值。借助机器学习对多样化实验数据库的分析，识别出边缘有效碰撞率（ν*）的一种定标关系，它与广泛使用的Greenwald极限相似，但假阳性率显著更低。该阈值随无量纲压力（β）升高而下降，与电磁效应作用于电阻性气球模湍流、增强输运的理论预期一致。这些结果表明，ITER和ARC等未来燃烧等离子体装置有望实现比此前预期更高的密度，从而获得更高的聚变功率。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar，代表Alcator C-Mod、ASDEX Upgrade、DIII-D、TCV和EUROfusion Tokamak Exploitation团队及JET Contributors。已被Physical Review Letters接收发表。"
+                "x": "根据发表在JMIR Mental Health上的一项新研究，在University of Bath（巴斯大学）的调查中，四分之一的受访学生表示，过去六个月里曾使用生成式AI获取心理健康支持。学生们在苦恼时向AI寻求建议，借助它了解自己的心理健康，或把它当作私人治疗师或教练。在幸福感极低的学生中使用率最高，超过三分之一的人报告曾这样使用。"
+              },
+              {
+                "t": "p",
+                "x": "主要作者Dr. Jeffrey Lambert表示：“生成式AI已经在改变人们寻求心理健康支持的方式。”研究调查了2,020名学生，发现申报了残障的学生更可能以这种方式使用AI。研究人员强调了相关风险，包括信息不准确、隐私担忧，以及在有人陷入危机时回应不当。"
+              },
+              {
+                "t": "p",
+                "x": "该校已为学生发布指南。受访者占受邀人数的9.1%，且研究仅覆盖一所大学；目前一项全国性的多校研究正在进行中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Límite de densidad en tokamaks:\nun umbral común en el borde",
-          "body": "Un análisis ML de cinco tokamaks halla un umbral de borde con menos falsas alarmas que el límite de Greenwald.",
-          "mini_headline": "Límite de densidad del tokamak, reescalado",
+          "headline": "Uno de cada cuatro estudiantes\nusa AI para su salud mental",
+          "body": "Según Bath, cerca de uno de cada cuatro de 2,020 universitarios del UK usó AI para su salud mental en seis meses.",
+          "mini_headline": "Estudiantes recurren a la AI como apoyo",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El umbral en el que aparecen las inestabilidades del plasma que limitan la densidad en los reactores de fusión tokamak no se comprende bien. Aquí presentamos la primera evidencia empírica a gran escala de un umbral de colisionalidad común presente en múltiples dispositivos y regímenes de confinamiento. Un análisis guiado por aprendizaje automático de una base de datos experimental diversa identifica un escalamiento en la colisionalidad efectiva de borde (ν*) que se asemeja al ampliamente utilizado límite de Greenwald, pero con una tasa de falsos positivos sustancialmente menor. Este umbral disminuye con la presión adimensional (β), en consonancia con las expectativas teóricas de un transporte reforzado por efectos electromagnéticos sobre la turbulencia de modos de balonamiento resistivos. Estos resultados sugieren que futuros dispositivos de plasma en combustión como ITER y ARC podrían alcanzar una densidad, y por tanto una potencia de fusión, mayor de lo esperado."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "A. D. Maris, C. Rea, A. Pau, R. Granetz, E. Marmar, en nombre de los equipos de Alcator C-Mod, ASDEX Upgrade, DIII-D, TCV y EUROfusion Tokamak Exploitation y de JET Contributors. Aceptado para su publicación en Physical Review Letters."
+                "x": "Uno de cada cuatro estudiantes que respondieron a una encuesta de la University of Bath dijo haber usado AI generativa como apoyo para su salud mental en los seis meses anteriores, según un nuevo estudio publicado en JMIR Mental Health. Los estudiantes usaron la AI para pedir consejo en momentos de angustia, para entender su salud mental y como terapeuta o coach personal. El uso fue mayor entre los estudiantes con un bienestar muy bajo, de los que más de un tercio lo declaró."
+              },
+              {
+                "t": "p",
+                "x": "El autor principal, Dr. Jeffrey Lambert, afirmó: \"La AI generativa ya está cambiando la forma en que las personas buscan apoyo para su salud mental\". El estudio encuestó a 2,020 estudiantes y halló que quienes habían declarado una discapacidad tenían más probabilidades de usar la AI de este modo. Los investigadores señalan riesgos como la información inexacta, la preocupación por la privacidad y las respuestas deficientes cuando alguien está en crisis."
+              },
+              {
+                "t": "p",
+                "x": "La universidad ha publicado una guía para estudiantes. Los encuestados representaron el 9.1% de los invitados y el estudio abarcó una sola universidad; ya está en marcha un estudio nacional con varias universidades."
               }
             ]
           }
@@ -1041,117 +1221,141 @@
       }
     },
     {
-      "id": "science-llm-advice-donations",
+      "id": "science-technion-rnn-hidden-structure",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 조언이 더 믿음직해도\n기부는 그대로였다",
-      "body": "참가자들은 LLM 조언자를 사람보다 더 믿었지만 기부는 조건과 상관없었다.",
-      "mini_headline": "AI 조언, 신뢰는 얻고 기부는 못 바꿔",
+      "headline": "똑같이 움직이는 신경망\n속 구조는 달랐다",
+      "body": "Technion 연구서 행동이 같은 RNNs도 새로 배울 땐 구조 차이가 드러났다.",
+      "mini_headline": "쌍둥이 신경망, 숨은 차이",
       "tool": "Science",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.16667",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "AI 챗봇에 조언을 구하는 사람이 늘고 있지만, 대형언어모델(LLMs)은 아첨하거나 과신하고 인간의 인지 편향을 키우기도 한다. 이 논문은 사람들이 인간과 LLMs의 조언을 어떻게 받아들이는지, AI 조언이 인센티브 양립적 기부 결정을 바꾸는지 살폈다. 연구진은 새 실험 플랫폼 Carrier에서 참가자가 AI 챗봇 조언자나 다른 사람과 논의한 뒤, 혹은 조언 없이 기부를 결정하도록 했다. 참가자들은 LLM 조언자가 인간 조언자보다 유의하게 더 합리적이고 믿을 만하며 설득력 있고, 더 아첨한다고 평가했다. 채팅 기록을 보면 LLMs는 인간 조언자보다 적극적이었다. 사실을 더 많이 공유했고, 자기 의견을 밝히거나 추천 근거를 대는 일도 잦았다. 그런데도 기부 결정은 조건에 따라 달라지지 않았다."
+            "x": "Technion 연구진은 신경망의 수학적 모델로 네트워크 연결의 변화들이 어떻게 맞물려 기능을 바꾸는지 살폈다. 그 결과 네트워크의 기능과 학습은 내부 구조의 서로 다른 면을 드러냈다. Omri Barak 교수와 연구생 Yoav Ger의 논문은 arXiv에 공개됐으며, NeurIPS 2026 구두 발표작으로 뽑혔다. 제출작 30,709편 가운데 112편만 오른 자리다."
           },
           {
             "t": "p",
-            "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+            "x": "연구 대상은 뇌의 정보 처리 방식을 모델링할 때 쓰는 순환 신경망의 한 유형이었다. 연구진은 네트워크의 행동을 정하는 속성과, 지금 성능엔 영향이 없지만 학습 방식은 바꾸는 \"숨은\" 속성을 나눴다. 한 예에서 두 네트워크는 같은 입력에 똑같이 반응했지만, 같은 조건에서 훈련하자 한쪽은 한동안 개선이 크게 더뎌졌고 다른 쪽은 더 꾸준히 나아졌다."
+          },
+          {
+            "t": "p",
+            "x": "숨은 속성은 학습 이력의 흔적도 간직할 수 있다. 처음엔 서로 다른 과제로 훈련된 네트워크들이 공통 과제에서 비슷한 성능에 이르러도, 숨은 구조를 보면 각자의 훈련 이력을 여전히 가려낼 수 있었다. 연구진은 생물학적 시스템에서도 비슷한 실험을 해 보자고 제안한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "People prefer AI advice,\nbut it doesn't move giving",
-          "body": "Participants rated an LLM advisor more trustworthy than a human one, yet donations did not differ across conditions.",
-          "mini_headline": "AI advice wins trust,\nnot donations",
+          "headline": "Identical networks hide\ndifferent inner structures",
+          "body": "Technion finds RNNs that behave identically hide structural differences that surface only when learning a new task.",
+          "mini_headline": "Twin networks, hidden differences",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "People increasingly ask AI chatbots for advice, yet large language models (LLMs) are sycophantic, overconfident, and can amplify human cognitive biases. In this article, we investigate how people perceive advice from humans versus LLMs and whether AI advice reshapes incentive-compatible donation decisions. Using Carrier, a new experimental platform, we designed an experiment where participants made a donation decision after discussing it with an AI chatbot advisor, another human, or receiving no advice. Participants judged LLM advisors to be significantly more rational, trustworthy, convincing, and sycophantic than human advisors. Analysis of chatlogs showed that LLMs were more engaged than human advisors: they shared more facts and more often stated their opinion and justified their recommendations. Despite this, donation decisions did not vary across conditions."
+                "x": "Technion researchers examined how changes in a network's connections combine to alter its function, using mathematical models of neural networks, and showed that a network's function and learning reveal different aspects of its internal structure. The paper by Professor Omri Barak and research student Yoav Ger, posted on arXiv, was selected for an oral presentation at NeurIPS 2026 — one of 112 of 30,709 submissions."
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "Studying a type of recurrent neural network used to model how the brain processes information, they distinguished properties that determine the network's behavior from \"hidden\" ones that do not affect current performance but influence how it learns. In one example, two networks responded identically to the same inputs, yet when trained under the same conditions one saw improvement slow considerably for a period while the other improved more steadily."
+              },
+              {
+                "t": "p",
+                "x": "Hidden properties can also retain traces of learning history: networks first trained on different tasks reached similar performance on a shared task, yet their hidden structure still identified each network's training history. The authors suggest similar experiments in biological systems."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 조언이 더 믿음직해도\n기부는 그대로였다",
-          "body": "참가자들은 LLM 조언자를 사람보다 더 믿었지만 기부는 조건과 상관없었다.",
-          "mini_headline": "AI 조언, 신뢰는 얻고 기부는 못 바꿔",
+          "headline": "똑같이 움직이는 신경망\n속 구조는 달랐다",
+          "body": "Technion 연구서 행동이 같은 RNNs도 새로 배울 땐 구조 차이가 드러났다.",
+          "mini_headline": "쌍둥이 신경망, 숨은 차이",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AI 챗봇에 조언을 구하는 사람이 늘고 있지만, 대형언어모델(LLMs)은 아첨하거나 과신하고 인간의 인지 편향을 키우기도 한다. 이 논문은 사람들이 인간과 LLMs의 조언을 어떻게 받아들이는지, AI 조언이 인센티브 양립적 기부 결정을 바꾸는지 살폈다. 연구진은 새 실험 플랫폼 Carrier에서 참가자가 AI 챗봇 조언자나 다른 사람과 논의한 뒤, 혹은 조언 없이 기부를 결정하도록 했다. 참가자들은 LLM 조언자가 인간 조언자보다 유의하게 더 합리적이고 믿을 만하며 설득력 있고, 더 아첨한다고 평가했다. 채팅 기록을 보면 LLMs는 인간 조언자보다 적극적이었다. 사실을 더 많이 공유했고, 자기 의견을 밝히거나 추천 근거를 대는 일도 잦았다. 그런데도 기부 결정은 조건에 따라 달라지지 않았다."
+                "x": "Technion 연구진은 신경망의 수학적 모델로 네트워크 연결의 변화들이 어떻게 맞물려 기능을 바꾸는지 살폈다. 그 결과 네트워크의 기능과 학습은 내부 구조의 서로 다른 면을 드러냈다. Omri Barak 교수와 연구생 Yoav Ger의 논문은 arXiv에 공개됐으며, NeurIPS 2026 구두 발표작으로 뽑혔다. 제출작 30,709편 가운데 112편만 오른 자리다."
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "연구 대상은 뇌의 정보 처리 방식을 모델링할 때 쓰는 순환 신경망의 한 유형이었다. 연구진은 네트워크의 행동을 정하는 속성과, 지금 성능엔 영향이 없지만 학습 방식은 바꾸는 \"숨은\" 속성을 나눴다. 한 예에서 두 네트워크는 같은 입력에 똑같이 반응했지만, 같은 조건에서 훈련하자 한쪽은 한동안 개선이 크게 더뎌졌고 다른 쪽은 더 꾸준히 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "숨은 속성은 학습 이력의 흔적도 간직할 수 있다. 처음엔 서로 다른 과제로 훈련된 네트워크들이 공통 과제에서 비슷한 성능에 이르러도, 숨은 구조를 보면 각자의 훈련 이력을 여전히 가려낼 수 있었다. 연구진은 생물학적 시스템에서도 비슷한 실험을 해 보자고 제안한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人はAIの助言を好むが\n寄付は変わらない",
-          "body": "参加者はLLMの助言者を人間より信頼できると評価したが、寄付は条件間で差がなかった。",
-          "mini_headline": "AI助言は信頼を得ても寄付は動かず",
+          "headline": "同じ振る舞いのネットワーク\n隠れた内部構造に違い",
+          "body": "Technionは挙動が同じRNNsにも新課題の学習時だけ表れる構造差があると示した。",
+          "mini_headline": "双子のネットワーク、隠れた違い",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人々はAIチャットボットに助言を求めることが増えているが、大規模言語モデル（LLMs）は迎合的で自信過剰であり、人間の認知バイアスを増幅しうる。本稿では、人々が人間とLLMsの助言をどう受け止めるか、そしてAIの助言がインセンティブ両立的な寄付の意思決定を変えるかを調べる。新たな実験プラットフォームCarrierを用い、参加者がAIチャットボットの助言者または別の人間と話し合った後、あるいは助言なしで寄付を決める実験を設計した。参加者はLLMの助言者を人間の助言者より有意に合理的で、信頼でき、説得力があり、迎合的だと判断した。チャットログの分析では、LLMsは人間の助言者より積極的に関与し、より多くの事実を共有し、意見を述べて推奨の根拠を示すことも多かった。それでも、寄付の判断は条件間で差がなかった。"
+                "x": "Technionの研究者らは、ニューラルネットワークの数理モデルを用いて、ネットワークの結合の変化がどう組み合わさって機能を変えるのかを調べ、ネットワークの機能と学習が内部構造の異なる側面を明らかにすることを示した。Omri Barak教授と研究生Yoav Gerによる論文はarXivで公開され、NeurIPS 2026の口頭発表に選ばれた。30,709件の投稿のうち112件の一つだ。"
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "研究者らは、脳の情報処理をモデル化するのに使われる再帰型ニューラルネットワークの一種を研究し、ネットワークの振る舞いを決める性質と、現在の性能には影響しないが学習の仕方に影響する「隠れた」性質とを区別した。ある例では、二つのネットワークが同じ入力に同一の反応を示したが、同じ条件で訓練すると、一方は一定期間改善が大きく鈍り、もう一方はより着実に改善した。"
+              },
+              {
+                "t": "p",
+                "x": "隠れた性質は学習履歴の痕跡を保持することもある。最初に異なる課題で訓練されたネットワークは共通の課題で同程度の性能に達したが、その隠れた構造からは依然として各ネットワークの訓練履歴を識別できた。著者らは生物のシステムでも同様の実験を行うことを提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人们更青睐AI建议\n却不改变捐赠",
-          "body": "参与者认为LLM顾问比人类顾问更可信，但各条件下的捐赠并无差异。",
-          "mini_headline": "AI建议赢得信任，未改变捐赠",
+          "headline": "表现相同的网络\n暗藏不同内部结构",
+          "body": "Technion发现，表现完全相同的RNNs暗藏结构差异，只在学习新任务时才显现。",
+          "mini_headline": "孪生网络，暗藏差异",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人们越来越多地向AI聊天机器人寻求建议，但大语言模型（LLMs）爱奉承、过度自信，还可能放大人类的认知偏差。本文研究人们如何看待来自人类与LLMs的建议，以及AI建议是否会改变激励相容的捐赠决策。我们借助新实验平台Carrier设计了一项实验：参与者在与AI聊天机器人顾问或另一名人类讨论后，或在没有任何建议的情况下作出捐赠决定。参与者认为LLM顾问比人类顾问显著更理性、更可信、更有说服力，也更爱奉承。聊天记录分析显示，LLMs比人类顾问更投入：它们分享了更多事实，也更常表达自己的观点并为建议说明理由。尽管如此，各条件下的捐赠决定并无差异。"
+                "x": "Technion的研究人员利用神经网络的数学模型，考察网络连接的变化如何组合起来改变其功能，并证明网络的功能与学习揭示了其内部结构的不同侧面。这篇由Omri Barak教授和研究生Yoav Ger撰写、发布在arXiv上的论文入选NeurIPS 2026口头报告，是30,709篇投稿中的112篇之一。"
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "他们研究了一类用于模拟大脑信息处理方式的循环神经网络，区分了决定网络行为的属性与“隐藏”属性——后者不影响当前表现，却会影响网络的学习方式。在一个例子中，两个网络对相同输入的反应完全一致，但在相同条件下训练时，其中一个的改进在一段时间内明显放缓，另一个则更稳定地提升。"
+              },
+              {
+                "t": "p",
+                "x": "隐藏属性还能保留学习历史的痕迹：最初在不同任务上训练的网络在一项共同任务上达到相近表现，但其隐藏结构仍能识别出各网络的训练历史。作者建议在生物系统中开展类似实验。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Se prefiere el consejo de AI,\npero no cambia las donaciones",
-          "body": "Los participantes confiaron más en un asesor LLM que en un humano, pero las donaciones no variaron entre condiciones.",
-          "mini_headline": "El consejo de AI gana confianza, no donaciones",
+          "headline": "Redes idénticas ocultan\nestructuras internas distintas",
+          "body": "Según Technion, RNNs que se comportan igual ocultan diferencias que solo surgen al aprender una tarea nueva.",
+          "mini_headline": "Redes gemelas, diferencias ocultas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cada vez más personas piden consejo a chatbots de AI, pero los grandes modelos de lenguaje (LLMs) son aduladores, demasiado confiados y pueden amplificar los sesgos cognitivos humanos. En este artículo investigamos cómo percibe la gente los consejos de humanos frente a los de LLMs y si el consejo de una AI modifica decisiones de donación compatibles con incentivos. Con Carrier, una nueva plataforma experimental, diseñamos un experimento en el que los participantes tomaban una decisión de donación tras discutirla con un asesor chatbot de AI, con otra persona o sin recibir consejo. Los participantes juzgaron a los asesores LLM significativamente más racionales, fiables, convincentes y aduladores que a los asesores humanos. El análisis de los registros de chat mostró que los LLMs se implicaban más que los asesores humanos: compartían más datos y con más frecuencia daban su opinión y justificaban sus recomendaciones. Pese a ello, las decisiones de donación no variaron entre condiciones."
+                "x": "Investigadores del Technion examinaron, con modelos matemáticos de redes neuronales, cómo se combinan los cambios en las conexiones de una red para alterar su función, y demostraron que la función y el aprendizaje de una red revelan aspectos distintos de su estructura interna. El artículo del profesor Omri Barak y el estudiante de investigación Yoav Ger, publicado en arXiv, fue seleccionado para una presentación oral en NeurIPS 2026: uno de 112 entre 30,709 envíos."
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "Al estudiar un tipo de red neuronal recurrente usado para modelar cómo el cerebro procesa la información, distinguieron las propiedades que determinan el comportamiento de la red de las \"ocultas\", que no afectan al rendimiento actual pero influyen en cómo aprende. En un ejemplo, dos redes respondían de forma idéntica a las mismas entradas, pero al entrenarse en las mismas condiciones una vio cómo su mejora se ralentizaba considerablemente durante un periodo, mientras la otra mejoraba de forma más constante."
+              },
+              {
+                "t": "p",
+                "x": "Las propiedades ocultas también pueden conservar huellas del historial de aprendizaje: redes entrenadas primero en tareas distintas alcanzaron un rendimiento similar en una tarea compartida, pero su estructura oculta seguía identificando el historial de entrenamiento de cada red. Los autores proponen experimentos similares en sistemas biológicos."
               }
             ]
           }
@@ -1159,73 +1363,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 조언을 더 좋아해도\n기부는 그대로였다",
-          "body": "참가자들은 LLM 조언자를 사람보다 더 믿었지만 기부는 조건별로 차이가 없었다.",
-          "mini_headline": "AI 조언, 신뢰는 얻고 기부는 못 바꿔",
+          "headline": "똑같이 작동하는 신경망,\n속 구조는 달랐다",
+          "body": "Technion: 행동이 같은 RNNs도 새 학습에선 구조 차이가 드러난다.",
+          "mini_headline": "쌍둥이 신경망, 숨은 차이",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "사람들은 점점 더 AI 챗봇에 조언을 구하지만, 대형언어모델(LLMs)은 아첨하고 과신하며 인간의 인지 편향을 키울 수 있다. 이 논문은 사람들이 인간과 LLMs의 조언을 어떻게 받아들이는지, 그리고 AI 조언이 인센티브 양립적 기부 결정을 바꾸는지 살펴본다. 새 실험 플랫폼 Carrier를 활용해, 참가자가 AI 챗봇 조언자나 다른 사람과 논의한 뒤, 또는 조언 없이 기부를 결정하는 실험을 설계했다. 참가자들은 LLM 조언자를 인간 조언자보다 유의하게 더 합리적이고, 믿을 만하며, 설득력 있고, 아첨한다고 평가했다. 채팅 기록을 분석한 결과 LLMs는 인간 조언자보다 더 적극적이었다. 더 많은 사실을 공유했고, 자기 의견을 밝히고 추천의 근거를 대는 일도 더 잦았다. 그럼에도 기부 결정은 조건에 따라 달라지지 않았다."
+                "x": "Technion 연구진은 신경망의 수학적 모델을 이용해 네트워크 연결의 변화가 어떻게 결합해 기능을 바꾸는지 살폈고, 네트워크의 기능과 학습이 내부 구조의 서로 다른 측면을 드러낸다는 점을 보였다. Omri Barak 교수와 연구생 Yoav Ger의 논문은 arXiv에 공개됐으며, NeurIPS 2026 구두 발표작으로 뽑혔다. 제출된 30,709편 가운데 112편에 든 것이다."
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "연구진은 뇌의 정보 처리 방식을 모델링하는 데 쓰이는 순환 신경망의 한 유형을 연구하며, 네트워크의 행동을 결정하는 속성과 현재 성능에는 영향을 주지 않지만 학습 방식에 영향을 주는 \"숨은\" 속성을 구분했다. 한 예에서 두 네트워크는 같은 입력에 똑같이 반응했지만, 같은 조건에서 훈련하자 한쪽은 한동안 개선 속도가 크게 느려진 반면 다른 쪽은 더 꾸준히 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "숨은 속성은 학습 이력의 흔적도 간직할 수 있다. 처음에 서로 다른 과제로 훈련된 네트워크들이 공통 과제에서 비슷한 성능에 이르렀지만, 숨은 구조로는 여전히 각 네트워크의 훈련 이력을 식별할 수 있었다. 연구진은 생물학적 시스템에서도 비슷한 실험을 해 볼 것을 제안한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人はAIの助言を好むが\n寄付は変わらない",
-          "body": "参加者はLLMの助言者を人間より信頼できると評価したが、寄付は条件間で差がなかった。",
-          "mini_headline": "AI助言は信頼を得ても寄付は動かず",
+          "headline": "同じ振る舞いのネットワーク\n隠れた内部構造に違い",
+          "body": "Technionは挙動が同じRNNsにも新課題の学習時だけ表れる構造差があると示した。",
+          "mini_headline": "双子のネットワーク、隠れた違い",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人々はAIチャットボットに助言を求めることが増えているが、大規模言語モデル（LLMs）は迎合的で自信過剰であり、人間の認知バイアスを増幅しうる。本稿では、人々が人間とLLMsの助言をどう受け止めるか、そしてAIの助言がインセンティブ両立的な寄付の意思決定を変えるかを調べる。新たな実験プラットフォームCarrierを用い、参加者がAIチャットボットの助言者または別の人間と話し合った後、あるいは助言なしで寄付を決める実験を設計した。参加者はLLMの助言者を人間の助言者より有意に合理的で、信頼でき、説得力があり、迎合的だと判断した。チャットログの分析では、LLMsは人間の助言者より積極的に関与し、より多くの事実を共有し、意見を述べて推奨の根拠を示すことも多かった。それでも、寄付の判断は条件間で差がなかった。"
+                "x": "Technionの研究者らは、ニューラルネットワークの数理モデルを用いて、ネットワークの結合の変化がどう組み合わさって機能を変えるのかを調べ、ネットワークの機能と学習が内部構造の異なる側面を明らかにすることを示した。Omri Barak教授と研究生Yoav Gerによる論文はarXivで公開され、NeurIPS 2026の口頭発表に選ばれた。30,709件の投稿のうち112件の一つだ。"
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "研究者らは、脳の情報処理をモデル化するのに使われる再帰型ニューラルネットワークの一種を研究し、ネットワークの振る舞いを決める性質と、現在の性能には影響しないが学習の仕方に影響する「隠れた」性質とを区別した。ある例では、二つのネットワークが同じ入力に同一の反応を示したが、同じ条件で訓練すると、一方は一定期間改善が大きく鈍り、もう一方はより着実に改善した。"
+              },
+              {
+                "t": "p",
+                "x": "隠れた性質は学習履歴の痕跡を保持することもある。最初に異なる課題で訓練されたネットワークは共通の課題で同程度の性能に達したが、その隠れた構造からは依然として各ネットワークの訓練履歴を識別できた。著者らは生物のシステムでも同様の実験を行うことを提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人们更青睐AI建议\n却不改变捐赠",
-          "body": "参与者认为LLM顾问比人类顾问更可信，但各条件下的捐赠并无差异。",
-          "mini_headline": "AI建议赢得信任，未改变捐赠",
+          "headline": "表现相同的网络\n暗藏不同内部结构",
+          "body": "Technion发现，表现完全相同的RNNs暗藏结构差异，只在学习新任务时才显现。",
+          "mini_headline": "孪生网络，暗藏差异",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人们越来越多地向AI聊天机器人寻求建议，但大语言模型（LLMs）爱奉承、过度自信，还可能放大人类的认知偏差。本文研究人们如何看待来自人类与LLMs的建议，以及AI建议是否会改变激励相容的捐赠决策。我们借助新实验平台Carrier设计了一项实验：参与者在与AI聊天机器人顾问或另一名人类讨论后，或在没有任何建议的情况下作出捐赠决定。参与者认为LLM顾问比人类顾问显著更理性、更可信、更有说服力，也更爱奉承。聊天记录分析显示，LLMs比人类顾问更投入：它们分享了更多事实，也更常表达自己的观点并为建议说明理由。尽管如此，各条件下的捐赠决定并无差异。"
+                "x": "Technion的研究人员利用神经网络的数学模型，考察网络连接的变化如何组合起来改变其功能，并证明网络的功能与学习揭示了其内部结构的不同侧面。这篇由Omri Barak教授和研究生Yoav Ger撰写、发布在arXiv上的论文入选NeurIPS 2026口头报告，是30,709篇投稿中的112篇之一。"
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "他们研究了一类用于模拟大脑信息处理方式的循环神经网络，区分了决定网络行为的属性与“隐藏”属性——后者不影响当前表现，却会影响网络的学习方式。在一个例子中，两个网络对相同输入的反应完全一致，但在相同条件下训练时，其中一个的改进在一段时间内明显放缓，另一个则更稳定地提升。"
+              },
+              {
+                "t": "p",
+                "x": "隐藏属性还能保留学习历史的痕迹：最初在不同任务上训练的网络在一项共同任务上达到相近表现，但其隐藏结构仍能识别出各网络的训练历史。作者建议在生物系统中开展类似实验。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Se prefiere el consejo de AI,\npero no cambia las donaciones",
-          "body": "Los participantes confiaron más en un asesor LLM que en un humano, pero las donaciones no variaron entre condiciones.",
-          "mini_headline": "El consejo de AI gana confianza, no donaciones",
+          "headline": "Redes idénticas ocultan\nestructuras internas distintas",
+          "body": "Según Technion, RNNs que se comportan igual ocultan diferencias que solo surgen al aprender una tarea nueva.",
+          "mini_headline": "Redes gemelas, diferencias ocultas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cada vez más personas piden consejo a chatbots de AI, pero los grandes modelos de lenguaje (LLMs) son aduladores, demasiado confiados y pueden amplificar los sesgos cognitivos humanos. En este artículo investigamos cómo percibe la gente los consejos de humanos frente a los de LLMs y si el consejo de una AI modifica decisiones de donación compatibles con incentivos. Con Carrier, una nueva plataforma experimental, diseñamos un experimento en el que los participantes tomaban una decisión de donación tras discutirla con un asesor chatbot de AI, con otra persona o sin recibir consejo. Los participantes juzgaron a los asesores LLM significativamente más racionales, fiables, convincentes y aduladores que a los asesores humanos. El análisis de los registros de chat mostró que los LLMs se implicaban más que los asesores humanos: compartían más datos y con más frecuencia daban su opinión y justificaban sus recomendaciones. Pese a ello, las decisiones de donación no variaron entre condiciones."
+                "x": "Investigadores del Technion examinaron, con modelos matemáticos de redes neuronales, cómo se combinan los cambios en las conexiones de una red para alterar su función, y demostraron que la función y el aprendizaje de una red revelan aspectos distintos de su estructura interna. El artículo del profesor Omri Barak y el estudiante de investigación Yoav Ger, publicado en arXiv, fue seleccionado para una presentación oral en NeurIPS 2026: uno de 112 entre 30,709 envíos."
               },
               {
                 "t": "p",
-                "x": "Maximilian Maier, Tsz Kwan Emmy Wong, Jiahao Eric Yang, Falk Lieder, Vanessa Cheung."
+                "x": "Al estudiar un tipo de red neuronal recurrente usado para modelar cómo el cerebro procesa la información, distinguieron las propiedades que determinan el comportamiento de la red de las \"ocultas\", que no afectan al rendimiento actual pero influyen en cómo aprende. En un ejemplo, dos redes respondían de forma idéntica a las mismas entradas, pero al entrenarse en las mismas condiciones una vio cómo su mejora se ralentizaba considerablemente durante un periodo, mientras la otra mejoraba de forma más constante."
+              },
+              {
+                "t": "p",
+                "x": "Las propiedades ocultas también pueden conservar huellas del historial de aprendizaje: redes entrenadas primero en tareas distintas alcanzaron un rendimiento similar en una tarea compartida, pero su estructura oculta seguía identificando el historial de entrenamiento de cada red. Los autores proponen experimentos similares en sistemas biológicos."
               }
             ]
           }

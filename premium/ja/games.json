@@ -12452,6 +12452,155 @@
           "x": "UE6向けに作られたAIツールは、UE 5.9 MegaJam Previewを皮切りにUE5にも戻ってくる。Pythonスクリプトの拡張、Model Context Protocol(MCP)の改善、ターゲットプラットフォームとしてのWeb、アセットを生成するUnreal Canvasが含まれる。「UE 5.9の多くはAIエージェントで作った。Webプラットフォームの作業もほとんどがそうだ」"
         }
       ]
+    },
+    "games/slotbound-ai-solo-hit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6j0w7Q2Q_LM"
+        },
+        {
+          "t": "p",
+          "x": "『スロットバウンド - Slotbound』は、Optima Archが開発・発売した、スロットマシンを回してユニットを召喚し、ウェーブを耐え抜くローグライト・オートバトラー防衛ゲーム。3×3のスロットでラインが揃うとユニットが召喚され、融合・強化でレベルや役職が上がっていく。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+        },
+        {
+          "t": "p",
+          "x": "「コア」や「精髄」、ランダムな「特性」、ユニットの「吸収」によるスキル継承など、運だけでなく戦略性の高さが魅力。プレイヤーからは「運ゲーかと思いきや運だけじゃない」「やめ時が見つからずあと1回だけ……と遊んでしまう」といった声が寄せられている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
+          "cap": "真ん中のラインを下げれば、王冠が揃います。"
+        },
+        {
+          "t": "p",
+          "x": "本作はOptima Arch氏が1人で開発。開発を始めるまでプログラミングやゲーム開発の経験がほとんどない状態から、AIコーディングツールを活用して8ヶ月ほどで本作をリリースしたという。ゲームシステムやバランス調整、UIなどは、ゲームとして楽しめるよう自身が手を加えていった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+        },
+        {
+          "t": "p",
+          "x": "発売から3日で10万本、6日で20万本を突破。現在は全6ステージとエンドレスモードを収録し、今後もフィードバックを受けて不具合修正やバランス調整、新コンテンツの追加を進めるとのこと。PC（Steam）向けに発売中。"
+        }
+      ]
+    },
+    "games/tinybuild-short-reveal-window": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "「今後半年で最大の話題になるのは市場投入までの期間と、AIに自分のゲームを模倣されることを開発者が恐れている現状だと思う」と、Tinybuild代表のAlex Nichiporchik氏は語る。生成AIによって、デモからコードをリバースエンジニアリングするなどして開発中のタイトルを模倣しやすくなった。Needle in a Haystack Simulatorは、Xで動画が5000万回以上再生された後、Steamに複数の模倣作が現れた。"
+        },
+        {
+          "t": "p",
+          "x": "新たな定石は、発表から発売までの間隔を最小限に抑えることだ。Probably Stolenは8月3日に発表されて10月28日に発売され、すでに百万本以上を売り上げ、発売時のCCUは80,000を超えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Probably Stolenは公開から約三か月後の10月28日に発売された"
+        },
+        {
+          "t": "p",
+          "x": "Nichiporchik氏は、REA（Reverse Engineer Anything）というツールによってクローン問題がはるかに悪化したと言う。「特にUnityのゲームなら、ソースコードをほぼ一発で抜き出せる」。それでも開発者は恐れる必要はないと述べる。「AIはスキルを何倍にもするが、ゼロに千を掛けてもゼロのままだ」。ゲームの手触りは模倣できないという。"
+        },
+        {
+          "t": "p",
+          "x": "本作は中国でも人気を博した。プレイテストのアクティベーション246,000件のうち51%が中国からで、価格は米国（US）の$19.99に対し55元（$8.25）だった。"
+        }
+      ]
+    },
+    "games/automaton-steam-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートが公開された。2025年1月から2026年10月にリリースされた3万1003本が対象で、約30％に当たる9251本がAIの利用を開示している。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+        },
+        {
+          "t": "p",
+          "x": "推定売上の中央値は、AI使用非開示ゲームで200本、開示したゲームは71本。条件を揃えた推定モデルでも、AI使用を開示したゲームではレビュー数が49.5％減少すると予測された。ただし因果関係を示すものではない。"
+        },
+        {
+          "t": "p",
+          "x": "ストアページ公開からリリースまでの期間の中央値は非開示ゲームで167日、開示ゲームで52日。リリース当日のフォロワー数も20人対6人だった。Burton氏は「問題の本質はAIではないのかもしれない」と語り、そうしたゲームの多くは初めての作品で、パブリッシャーもファン層もなく準備期間も不十分な「負けパターン」にあると指摘。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一方でAI使用を明記する「ペナルティ」は発売前に発生し得るとも述べ、準備不足とAI忌避のどちらが正しいかは断定できず、両者は切り分けが不可能だとしている。"
+        }
+      ]
+    },
+    "games/chesscom-classic-hub-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Chess.comは新しいClassic Gamesプラットフォームの一環として、バックギャモン、チェッカー、囲碁、ハーツ、麻雀、将棋、数独、ソリティア、シャンチー、そしてwordというScrabble代替ゲームの10タイトルを追加する。ウェブと新しいiOS・Androidアプリでパブリックベータを開始する。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Classic GamesにはMartinをはじめChess.comと同じボットがいる。"
+        },
+        {
+          "t": "p",
+          "x": "AIは、わずか数人のチームでChess.comが数か月のうちに11の新作ゲームを投入するうえで重要な役割を果たした。最高成長責任者のAlbert Cheng氏によると、Gambitのときと「ほぼ完全に同じアプローチ」を取り、AIがコーディングの高速化を助けたという。「これらのゲームはChess.comのコードベース、デザインシステム、ボットキャラクター、レーティングシステムの上に作られているので、大きな強みがあり、AIとともに非常に速く動ける」"
+        },
+        {
+          "t": "p",
+          "x": "Cheng氏によると、Classic GamesのアートとデザインにAIは使われていない。「ルック＆フィールは人間が非常に丁寧に作り込んだもので、私たちはそれを誇りに思っている」。アートとデザインの面では「そうした人材をさらに採用している」と付け加えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
+          "cap": "Classic Gamesのマルチプレイゲームにはチャットのサイドバーがある。"
+        }
+      ]
+    },
+    "games/isaac-repentance-ai-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&w=2400",
+          "cap": "The Binding of Isaac: Repentance Plus"
+        },
+        {
+          "t": "p",
+          "x": "The Binding of Isaac: Repentance Plusは、ゲームの一部でAI音楽が使われていたことが発覚し、ここ数日Steamでレビュー爆撃を受けている。RedditユーザーのShweetsStuffが、Grand Theft Auto-themedのセクションで使われた楽曲を見つけた。Sunoのメタデータを含む複数の音声ファイルが見つかり、それらはSunoのサイト上のトラックを指していた。"
+        },
+        {
+          "t": "p",
+          "x": "クリエイターのEdmund McMillenはXで謝罪し、ゲーム内のGTAパロディに生成AI音楽が使われていたことは「まったく知らなかった」と述べた。さらに問題を大きくしたのは、Valveが開発者に対し、開発過程で生成AIをいつどのように使ったかの開示を求めている点だ。Repentance Plusを手がけたスタジオNicalis, Inc.は、AI音楽についてどこにも言及していなかったとみられる。"
+        },
+        {
+          "t": "p",
+          "x": "発覚から数時間のうちに、NicalisはXでRepentance Plusをアップデートし、生成された音楽ファイルを削除したと伝えた。Steamのレビューはまだ回復しておらず、評価も依然「圧倒的に不評」のままだが、XのユーザーはMcMillenを好意的に受け止めているようだ。彼がゲーム開発におけるAIについて率直に発言してきたためだろう。2024年のTikTokでは、AIを「ひらめきがなく味気ない」と評していた。"
+        }
+      ]
     }
   }
 }

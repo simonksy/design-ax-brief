@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "section": "marketing",
   "media": [
     {
-      "id": "amazon-brandstore-agent",
+      "id": "chatgpt-orchestrator-adqueries",
       "type": "image",
-      "src": "pipeline/media/amazon-brandstore-agent.jpg"
+      "src": "pipeline/media/chatgpt-orchestrator-adqueries.jpg"
     },
     {
-      "id": "aws-quick-meta-ads-mcp",
+      "id": "higgsfield-playable-ads",
       "type": "video",
-      "src": "pipeline/media/aws-quick-meta-ads-mcp.mp4",
-      "poster": "pipeline/media/aws-quick-meta-ads-mcp.jpg"
+      "src": "pipeline/media/higgsfield-playable-ads.mp4",
+      "poster": "pipeline/media/higgsfield-playable-ads.jpg"
     },
     {
-      "id": "google-aimode-multiturn-ads",
+      "id": "pinterest-msads-inventory",
       "type": "image",
-      "src": "pipeline/media/google-aimode-multiturn-ads.jpg"
+      "src": "pipeline/media/pinterest-msads-inventory.jpg"
     },
     {
-      "id": "bitmovin-gam-scene-signals",
+      "id": "chatgpt-shopping-partnership-doc",
       "type": "image",
-      "src": "pipeline/media/bitmovin-gam-scene-signals.jpg"
+      "src": "pipeline/media/chatgpt-shopping-partnership-doc.jpg"
     },
     {
-      "id": "agentic-black-friday-rocky",
+      "id": "organicity-d2c-ai",
       "type": "image",
-      "src": "pipeline/media/agentic-black-friday-rocky.jpg"
+      "src": "pipeline/media/organicity-d2c-ai.jpg"
     }
   ]
 }

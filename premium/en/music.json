@@ -12126,6 +12126,144 @@
           "x": "The rest of the article is available to Music Ally account holders."
         }
       ]
+    },
+    "music/soundcloud-ai-slop-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2023/12/20210713_SC_01_040_RT_PRINT.jpg",
+          "cap": "Eliah Seton. Photo credit: SoundCloud"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud has updated its Terms of Use and Community Guidelines to target what it calls “AI slop, spam, and excessive uploads.” CEO Eliah Seton set out the changes in an open letter published on November 17: “AI slop has no place on SoundCloud.”"
+        },
+        {
+          "t": "p",
+          "x": "A second area, “Preventing AI-Enabled Fraud and Manipulation,” bars misrepresenting the origin of content or a creator’s identity, such as presenting AI-generated music as entirely human-made. The updated terms define “AI Abuse,” and SoundCloud says it “may withhold, reverse, or recover payouts” in response."
+        },
+        {
+          "t": "p",
+          "x": "The crackdown follows deals with Moises (an integration announced October 21) and ElevenLabs, whose ElevenMusic users can publish directly to SoundCloud. Seton said SoundCloud works with more than 10 approved AI partners and that direct publishing integrations give it greater visibility into AI-generated content."
+        },
+        {
+          "t": "p",
+          "x": "“Simply wishing AI away won’t make it disappear,” Seton wrote. SoundCloud says it hosts more than 400 million tracks from over 40 million artists across 193 countries."
+        }
+      ]
+    },
+    "music/estepario-ai-reskin-legal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Drum YouTuber El Estepario Siberiano, long a critic of AI, has come out swinging against tech companies he alleges have stolen his content. In a new video he points creatives to the Atlantic’s AI Watchdog tool, which checks whether AI models were trained on their work."
+        },
+        {
+          "t": "video",
+          "yt": "nsekqm6eaD8"
+        },
+        {
+          "t": "p",
+          "x": "He found that 572 of his long-form videos had been used. He estimates around €400 spent on every video, so over a decade those 572 videos cost him €230,000. “They stole a decade of my life and my effort and €230,000 from my pocket in order to train their AI generative tool,” he says."
+        },
+        {
+          "t": "p",
+          "x": "In a previous clip he said his videos had already led to AI copycats and AI reaction videos. “I want to take legal action,” he now says. “I don't want to let these billionaires walk off without facing any kind of consequence.” He ended by asking his followers for advice on how to proceed."
+        }
+      ]
+    },
+    "music/mcst-ai-training-contract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
+          "cap": "Poster for the 'Public Hearing on the Standard Contract (Draft) for Licensing Works for Artificial Intelligence Training.' (Courtesy of the Ministry of Culture, Sports and Tourism)"
+        },
+        {
+          "t": "p",
+          "x": "The Ministry of Culture, Sports and Tourism, together with the Korea Copyright Commission and law firm Sejong, will hold a 'Public Hearing on the Standard Contract (Draft) for Licensing Works for Artificial Intelligence (AI) Training' on the 26th at Gran Seoul Tower 1 in Jongno-gu, Seoul."
+        },
+        {
+          "t": "p",
+          "x": "The ministry previously issued 4 standard contracts covering the transfer and licensing of copyright economic rights as 'standard contracts for copyright economic rights.' But as demand to use works for AI training grew, the existing standard contracts for copyright economic rights alone could not adequately cover it."
+        },
+        {
+          "t": "p",
+          "x": "With this in mind, the ministry launched a research project with law firm Sejong in May and drafted a standard contract to support new types of transactions involving the use of works for AI training, gathering input from rights holders, AI developers, data trading businesses and other parties with a need to use standard contracts."
+        },
+        {
+          "t": "p",
+          "x": "At the hearing, the ministry will share the drafts, prepared through the research, of a standard contract for licensing works for AI training and a standard contract for transferring copyright economic rights for AI training, and collect views from various sectors."
+        },
+        {
+          "t": "p",
+          "x": "The draft licensing contract sets out the scope of works to be used for AI training, the period of use, and how fees are calculated and paid. The draft transfer contract covers what is transferred and the scope of rights, how the transfer price is paid, and protection of moral rights."
+        },
+        {
+          "t": "p",
+          "x": "Attorney Lim Sang-hyuk will outline the research, and attorney Hwang Ji-won will present the main contents of the draft standard contract and its accompanying commentary. A question-and-answer session on the draft will follow. The hearing will be streamed live on the Korea Copyright Commission's YouTube channel."
+        },
+        {
+          "t": "p",
+          "x": "Choi Young-jin, the ministry's director general for copyright policy, said, \"We plan to finalize a standard contract that balances the protection of creators' rights with an environment for lawful use of works, taking comprehensive account of the opinions from this hearing.\""
+        }
+      ]
+    },
+    "music/soniclab-ssnn2-neural-fm": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "aVwc_XtflWs"
+        },
+        {
+          "t": "p",
+          "x": "sonicLAB has released version 2.0 of SSNN (Spiking and Sounding Neural Network), its experimental audio processor built around a live spiking neural network. The update introduces Neural Buffer FM, additional network controls and four individual voice outputs."
+        },
+        {
+          "t": "p",
+          "x": "SSNN uses a network of 960 neurons arranged across 32 layers to drive eight synthesis engines in real time. Incoming audio is analyzed using FFT, with its spectral profile written into the network’s connection weights, while the same audio fills per-layer buffers processed by the synthesis engines."
+        },
+        {
+          "t": "p",
+          "x": "The new Neural Buffer FM engine uses audio-rate time and pitch modulation shaped by neural voltages, connection weights and network spikes. New Layers Control and Time Control parameters adjust network depth, recurrent feedback and the distribution of captured spectral frames. Four voice outputs let the network’s four columns be routed to separate DAW tracks."
+        },
+        {
+          "t": "p",
+          "x": "SSNN 2.0 is available for macOS and Windows in VST3 and Audio Unit formats. It is a free update for existing owners; new licenses are £89 GBP."
+        }
+      ]
+    },
+    "music/travis-tritt-ai-deepfake-clip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/11/GettyImages-2218873949-1.jpg?w=2000"
+        },
+        {
+          "t": "p",
+          "x": "Travis Tritt is setting the record straight. After a video that appeared to show the singer bashing the recent CMA Awards’ focus on Taylor Swift went viral, Tritt took to X to insist that the clip was not him, but rather AI generated."
+        },
+        {
+          "t": "p",
+          "x": "“Any recent videos of me supposedly commenting on the latest CMA Awards show are obviously fake and created using AI,” he wrote. “Disregard them completely.”"
+        },
+        {
+          "t": "p",
+          "x": "In the supposedly fake video, the figure who appeared to be Tritt slammed “the idiots running the CMA” for focusing on Swift instead of Ella Langley, who won a record number of awards during the ceremony. The clip also referenced Sammy Kershaw initially being denied access to the red carpet."
+        },
+        {
+          "t": "p",
+          "x": "This isn’t the first time that Tritt has spoken out about AI. In an October 2025 post, he addressed the “concerning rise in AI-generated content that impersonates public figures, including myself,” warning that “AI technology has made it easier than ever for malicious actors to create realistic simulations of people’s voices, faces, and actions.”"
+        },
+        {
+          "t": "p",
+          "x": "“If it doesn’t come from my official channels or trusted sources, it’s not truly me,” he wrote."
+        }
+      ]
     }
   }
 }

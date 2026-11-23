@@ -7347,6 +7347,192 @@
           "x": "Los comités afirman que personal vinculado al 1st Bureau de la PLA Cyberspace Force estuvo presente en varias ocasiones en la sede de Zhipu en Beijing, la más reciente en agosto de 2026, y que registros de adquisiciones de la PLA muestran modelos de DeepSeek, Qwen de Alibaba, Moonshot y MiniMax integrados en operaciones cibernéticas militares. Documentos entregados a los comités muestran estas mismas familias de modelos funcionando dentro de grandes empresas estadounidenses."
         }
       ]
+    },
+    "politics/grok-spacex-states-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+          "cap": "Crédito: NurPhoto / Contributor | NurPhoto"
+        },
+        {
+          "t": "p",
+          "x": "El lunes, Virginia y Oregón se convirtieron en los primeros estados en demandar a SpaceX, al alegar que Grok sigue sexualizando, sin control, fotos reales de mujeres y niños en su mayoría. SpaceX adquirió xAI en febrero y ahora debe afrontar el ajuste de cuentas en curso por el “spicy mode” de Grok, que generó una avalancha de imágenes íntimas no consentidas (NCII) e imágenes de abuso sexual infantil (CSAM)."
+        },
+        {
+          "t": "p",
+          "x": "Los fiscales generales estatales alegaron que las declaraciones de las empresas sobre nuevas salvaguardas eran “engañosas” y que Grok sigue generando NCII y CSAM hoy en día, e incluso aconseja a los usuarios cómo eludir su propia moderación. También alegaron que el equipo de X Safety encargado del red-teaming de Grok quedó reducido a dos o tres miembros."
+        },
+        {
+          "t": "p",
+          "x": "“xAI no solo puso en peligro a sabiendas a los niños y a nuestras comunidades, sino que también nos mintió en la cara sobre medidas de seguridad inexistentes”, dijo el fiscal general de Oregón, Dan Rayfield."
+        },
+        {
+          "t": "p",
+          "x": "SpaceXSI remitió a una publicación de X Safety según la cual aplica una política de “zero-tolerance” (tolerancia cero), usa clasificadores que “revisan cada prompt” y comprueban cada resultado, y denuncia a los infractores ante las autoridades."
+        },
+        {
+          "t": "p",
+          "x": "Los estados piden una orden judicial, sanciones civiles por cada infracción y la devolución de las ganancias ilícitas. La demanda de Virginia cita unos 6.4 millones de cuentas de X vinculadas al estado y 986,624 descargas de la app de Grok."
+        }
+      ]
+    },
+    "politics/hochul-ai-warning-veto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
+          "cap": "Alexander MacDougall/Albany Times Union via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La gobernadora de Nueva York, Kathy Hochul, vetó un proyecto de ley que habría obligado a las plataformas de inteligencia artificial a advertir de forma proactiva a los usuarios de que la información que reciben puede ser inexacta."
+        },
+        {
+          "t": "p",
+          "x": "En un comunicado en el que explicó su decisión el viernes, Hochul escribió que apoya “salvaguardas sensatas e inteligentes para la AI”, pero dijo que el proyecto tenía un alcance excesivo y se habría aplicado a contenidos artísticos o expresivos que no pretenden ser factuales, lo que podría chocar con las protecciones federales a la libertad de expresión. El proyecto “puede plantear problemas constitucionales y prácticos”, escribió."
+        },
+        {
+          "t": "p",
+          "x": "Grupos del sector que representan a empresas tecnológicas como OpenAI y Meta presionaron contra el proyecto, al igual que Netflix y la Motion Picture Association, según los registros de divulgación del estado. El asambleísta Clyde Vanel y la senadora estatal Kirsten Gonzalez lo presentaron después de que la plataforma de AI de Meta alucinara acusaciones de acoso sexual contra legisladores estatales en 2024; la Legislatura lo aprobó casi por unanimidad."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto habría exigido un aviso en la interfaz de usuario del sistema indicando que el resultado “puede ser inexacto”. Vanel dijo que espera alcanzar un acuerdo con la oficina de la gobernadora el próximo año."
+        }
+      ]
+    },
+    "politics/ai-glasses-recording-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
+          "cap": "Visitantes prueban gafas inteligentes XR en la feria 2026 Smart Tech Korea, celebrada el día 10 en el COEX del distrito de Gangnam, Seúl. 2026.6.10"
+        },
+        {
+          "t": "p",
+          "x": "Se impulsa una legislación que obligaría a las gafas inteligentes con inteligencia artificial (AI) a incorporar una función que indique la grabación, y a los particulares a avisar cuando graben a otras personas con fines privados."
+        },
+        {
+          "t": "p",
+          "x": "La diputada Lee Joo-hee, del Partido Democrático y miembro del Comité de Ciencia, TIC, Radiodifusión y Comunicaciones de la Asamblea Nacional, informó el día 23 de que presentó como autora principal 2 proyectos con ese contenido, la llamada 'ley contra la grabación ilegal con gafas inteligentes': reformas parciales de la Ley de Promoción del Uso de Redes de Información y Comunicaciones y Protección de la Información, y de la Ley de Protección de Datos Personales."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de las reformas es establecer a la vez normas para la fase de fabricación e importación y un deber de aviso para los usuarios, de modo que la persona grabada con gafas inteligentes pueda darse cuenta de ello."
+        },
+        {
+          "t": "p",
+          "x": "Actualmente, los principales fabricantes, como Meta, incorporan en sus gafas inteligentes una luz que indica que se está grabando, pero algunos productos de bajo coste carecen de esta función o hacen difícil comprobar desde fuera si están grabando."
+        },
+        {
+          "t": "p",
+          "x": "Según la actual Ley de Protección de Datos Personales, el deber de señalar y avisar de la grabación con dispositivos móviles de procesamiento de imágenes se limita a la grabación con fines laborales, por lo que no se aplica cuando un particular graba a otras personas en el ámbito privado."
+        },
+        {
+          "t": "p",
+          "x": "Para resolverlo, la reforma de la Ley de Redes de Información y Comunicaciones obliga a los fabricantes e importadores de dispositivos de grabación de video portátiles, como las gafas inteligentes, a incorporar una función que indique la grabación y a adoptar medidas técnicas para que las funciones de grabación y de indicación estén vinculadas."
+        },
+        {
+          "t": "p",
+          "x": "La reforma también impide desactivar a voluntad la función de indicación o interferir en su funcionamiento, y prohíbe fabricar, importar, vender o distribuir artículos o programas diseñados para anularla, así como su publicidad."
+        },
+        {
+          "t": "p",
+          "x": "Los vendedores deberán informar a los compradores sobre cómo funciona la indicación de grabación y sobre las posibles sanciones por grabar a otras personas."
+        },
+        {
+          "t": "p",
+          "x": "La reforma de la Ley de Protección de Datos Personales, presentada a la vez, establece que al grabar a personas u objetos relacionados con ellas mediante dispositivos portátiles de procesamiento de imágenes, como gafas o relojes, se debe señalar y avisar de la grabación con luces, sonidos o carteles, sea o no con fines laborales. Las infracciones se castigarían con multas de hasta 1천만원 (diez millones de wones)."
+        },
+        {
+          "t": "p",
+          "x": "“Toda persona debe poder saber en el momento que está siendo grabada y negarse si no lo desea”, dijo Lee. “Estableceré normas que protejan la privacidad desde la fase de grabación, para que nadie descubra tarde en internet imágenes suyas tomadas con gafas inteligentes”."
+        }
+      ]
+    },
+    "politics/nais-science-ai-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
+          "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, interviene el día 23 en la 'reunión de expertos de la industria, la academia y la investigación en AI científica', celebrada en el Centro Nacional de Investigación en AI Científica, en Yuseong-gu, Daejeon. 2026.11.23"
+        },
+        {
+          "t": "p",
+          "x": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, afirmó el día 23: “El Gobierno también dará todo su apoyo para que el Centro Nacional de Investigación en Inteligencia Artificial Científica (NAIS) se consolide como el eje de la AI científica de Corea, como punto de unión entre expertos en AI y científicos de cada dominio, y para que K-Moonshot, empezando por la misión AI Scientist, logre resultados significativos”."
+        },
+        {
+          "t": "p",
+          "x": "El Ministerio de Ciencia y TIC informó de que Bae celebró ese día en el centro de NAIS en Daejeon una reunión con expertos de la industria, la academia y la investigación en inteligencia artificial (AI) científica, en la que se debatieron fórmulas para conectar y concentrar los recursos nacionales de AI y la orientación de la misión AI Scientist de K-Moonshot."
+        },
+        {
+          "t": "p",
+          "x": "NAIS se creó este año como un eje que concentra y apoya a escala nacional la base de la investigación en AI científica, incluidos los datos de entrenamiento de AI, la computación, los modelos y agentes de AI y el personal especializado."
+        },
+        {
+          "t": "p",
+          "x": "En la reunión, el director de NAIS, Yoo Yong-gyun, presentó 3 misiones principales: ampliar y concentrar los recursos de AI científica, construir y operar una plataforma integrada de AI científica y crear un ecosistema de AI científica."
+        },
+        {
+          "t": "p",
+          "x": "También explicó que, en campos como la biotecnología, la fusión nuclear y la energía nuclear, colaborarán con los institutos públicos de investigación correspondientes para obtener datos de investigación para entrenar AI y apoyar modelos y agentes de AI especializados por campo, impulsando un cambio en la forma de investigar."
+        },
+        {
+          "t": "p",
+          "x": "Además, anunció el plan de poner en marcha antes de fin de año un servicio piloto de la plataforma integrada de AI científica."
+        },
+        {
+          "t": "p",
+          "x": "Lim Sung-bin, director del programa (PD) de la misión AI Scientist, presentó la hoja de ruta de la misión para obtener y conectar tecnologías clave como el razonamiento científico, la colaboración entre agentes y la conexión con laboratorios autónomos, de modo que todos los investigadores puedan usar científicos de AI para transformar la velocidad y la escala de los descubrimientos científicos."
+        },
+        {
+          "t": "p",
+          "x": "Añadió que se avanzará hasta la etapa en que la AI realice de forma autónoma todo el ciclo de investigación bajo responsabilidad humana, y que se coordinará con otras misiones para acelerar los resultados en cada campo."
+        },
+        {
+          "t": "img",
+          "src": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316720001300_P4.jpg",
+          "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, interviene el día 23 en la 'reunión de expertos de la industria, la academia y la investigación en AI científica', celebrada en el Centro Nacional de Investigación en AI Científica, en Yuseong-gu, Daejeon. 2026.11.23"
+        },
+        {
+          "t": "p",
+          "x": "En el debate abierto se abordaron la obtención de recursos de computación dedicados a la AI científica, como el superordenador número 6, la creación de un sistema de estándares para los datos de entrenamiento de AI y fórmulas para producir datos de investigación de alta calidad vinculados a grandes instalaciones de investigación y laboratorios autónomos."
+        },
+        {
+          "t": "p",
+          "x": "“Se acerca la era del 'científico de AI', en la que la AI va más allá de ser una herramienta de apoyo a la investigación para formular y verificar hipótesis junto a los científicos”, dijo Bae. “Ahora que el paradigma de la investigación cambia de raíz, para convertir este cambio en una nueva oportunidad para nuestra ciencia y tecnología debemos reunir en uno solo las capacidades nacionales de AI científica dispersas en datos y computación, infraestructura experimental y personal especializado, y volcar en ello todos nuestros esfuerzos”."
+        }
+      ]
+    },
+    "politics/korea-aidc-decree-permits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A partir de marzo del próximo año se establecerán nuevos criterios de reconocimiento y procedimientos de notificación para los centros de datos de inteligencia artificial (AIDC), y los AIDC situados fuera del área metropolitana de Seúl con una potencia contratada de 50MW o menos quedarán exentos de la evaluación de impacto en la red eléctrica. El Ministerio de Ciencia y TIC informó el día 20 que elaboró los proyectos de decreto y reglamento de aplicación antes de la entrada en vigor de la 'Ley especial de promoción de la industria de centros de datos de inteligencia artificial', y que los someterá a aviso legislativo previo hasta el día 30 del próximo mes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.korea.kr/newsWeb/resources/attaches/2026.11/20/PYH2026062913210001300.jpg",
+          "cap": "Obras en el complejo industrial general del Clúster de Semiconductores de Yongin, en Yongin (provincia de Gyeonggi), el 29 de junio, cuando el Gobierno anunció 3 megaproyectos en semiconductores, AI y centros de datos. (Foto=Yonhap)"
+        },
+        {
+          "t": "p",
+          "x": "Un AIDC se define como una instalación que posee aceleradores de AI por encima de cierta escala, cuenta con los equipos de energía, refrigeración y demás elementos esenciales para operarlos, y tiene una relación de potencia de diseño de 1.5 o menos. Las 'instalaciones de provisión a terceros' de tipo colocation también se consideran AIDC."
+        },
+        {
+          "t": "p",
+          "x": "Las notificaciones se dividen en notificación de construcción (antes de iniciar las obras), de operación (30 días antes de empezar a operar) y de modificación (dentro de los 30 días posteriores al hecho). Para impedir que operadores ficticios presenten solo la notificación de construcción y acaparen las excepciones, deberán fijar y notificar una fecha de inicio de obras dentro de 1 año desde la notificación."
+        },
+        {
+          "t": "p",
+          "x": "El procedimiento unificado de permisos concreta los plazos de respuesta de los organismos implicados y, si no responden a tiempo, permite avanzar con base en los documentos presentados. Los requisitos de estacionamiento anexo se reducen un 20% respecto a la norma vigente, y las ordenanzas de ciudades y provincias pueden flexibilizarlos aún más, hasta un 50%."
+        },
+        {
+          "t": "p",
+          "x": "Las zonas especiales de AIDC las designará el Ministerio de Ciencia y TIC tras una revisión de hasta 90 días y la deliberación y aprobación del Comité de AI; además, se añadieron instalaciones de transporte, suministro de calor, almacenamiento de energía, telecomunicaciones y seguridad a la infraestructura de apoyo. Se celebrará una audiencia pública el día 9 del próximo mes, y la normativa secundaria entrará en vigor el 10 de marzo del próximo año, fecha de entrada en vigor de la ley."
+        }
+      ]
     }
   }
 }
