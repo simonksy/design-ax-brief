@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "issue": "NHS, 여성 70만 명 대상 AI 유방암 검진 시험 시작",
+    "date": "2026.11.23",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "BBC(Fergus Walsh 의학 에디터, 2026.11.23 00:49 GMT 게재) 원문을 워릭대 보도자료 'First women join world’s largest AI assisted breast screening trial'(2026.11.23, NIHR·NHS England 공동 발표 인용 포함)과 EDITH 시험 공식 참가자 안내 페이지(warwick.ac.uk/edith)로 대조. 확인: 3년간 약 70만 명 초대(워릭대 'Over the next three years, nearly 700,000 women … will be invited'), 첫 모집 기관 케임브리지대병원, 영국 전역 30곳, NIHR 1,000만 파운드, 현재 2명 판독 → 1명+AI 대체 검증, 모든 영상 최소 1명 사람 판독·진료 결정은 NHS 직원. 'AI 기업 4곳'은 BBC 표기이고 워릭대 보도자료는 테일러필립스 교수 말로 '정확도를 엄격히 검증한 AI 시스템 4종'이라 적음 → 카드엔 'AI 시스템 4종'. 두 갈래(AI 먼저 등급 / 판독 뒤 재확인)는 BBC 표기이며 공식 안내 페이지로 확인: 실제로는 3군 무작위 배정 — ①기존 2인 판독 ②판독 뒤 AI가 놓친 암 탐색 ③AI가 먼저 가능성 평가, 낮으면 1명·높으면 2명 판독. 대조군을 캡션에 추가. 길버트 교수 인용('수백만 명… 1% 미만')은 워릭대 보도자료에 같은 문장으로 있음. '방사선 전문의 큰 부족·영상 검사 연 8% 증가'는 길버트가 BBC에 한 말로, 과잉 진단 인용은 BBC가 전한 테일러필립스 발언으로 귀속(보도자료엔 없음). '세계 최대'는 BBC·쿠퍼 보건장관 표현으로 귀속. 참고(카드 미사용): 공식 안내 페이지의 계획 참가자 수는 66만 명(70만은 초대 인원), 2025.02.04 DHSC 첫 발표는 1,100만 파운드였으나 이번 발표는 1,000만 파운드 — 이번 수치를 씀. 연간 유방암 진단 BBC 5만9천 vs 워릭대 5만5천으로 엇갈려 싣지 않음. 정정: 초안 날짜 11.24 → BBC 게재일 11.23. 초안 사진(pipeline/media/nhs-edith-breast-ai.jpg)은 BBC 기사 사진이라 버리고, 워릭대 보도 사진은 재사용 조건 표기가 없어 전 장 stat·quote(외부 미디어 없음).",
+    "sources": [
+      "BBC — Can AI spot breast cancer earlier? NHS launches world's largest trial to find out (2026.11.23)",
+      "University of Warwick — First women join world’s largest AI assisted breast screening trial (2026.11.23)",
+      "EDITH trial — Information for the public, warwick.ac.uk/edith (2026.11.24 확인)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "판독 전문의 2명",
+      "stat_arrow": "그중 한 명 자리에 AI를",
+      "stat_bottom": "전문의 1명 + AI",
+      "stat_strike": false,
+      "eyebrow": "AI × 의료 · 2026.11.23",
+      "headline": "둘째 판독자는 AI",
+      "body": "NHS가 유방암 검진 AI 시험 EDITH의 참가자 모집을 시작했다. 영국 여성 약 70만 명이 초대된다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "첫 병원 1곳",
+      "stat_arrow": "앞으로 3년, 약 70만 명 초대",
+      "stat_bottom": "영국 전역 30곳",
+      "stat_strike": false,
+      "eyebrow": "얼마나 큰 시험인가",
+      "headline": "3년간 70만 명 초대",
+      "body": "케임브리지대병원에서 모집이 시작됐다. 연구진이 정확도를 검증한 AI 시스템 4종이 쓰인다.",
+      "foot": "2026.11.23",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "AI가 먼저 등급",
+      "stat_arrow": "갈래마다 AI가 보는 때가 다르다",
+      "stat_bottom": "판독 뒤 AI가 재확인",
+      "stat_strike": false,
+      "eyebrow": "AI는 언제 보나",
+      "headline": "먼저 볼까, 나중 볼까",
+      "body": "한 갈래는 AI가 암 가능성을 먼저 매기고, 다른 갈래는 판독이 끝난 뒤 놓친 암을 찾는다.",
+      "foot": "2026.11.23",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "해마다 수백만 명이 유방촬영을 받지만\n암이 있는 사람은 1%도 안 된다.",
+      "quote_by": "피오나 길버트 · 케임브리지대 교수, 공동 책임연구자",
+      "eyebrow": "왜 AI인가",
+      "headline": "1%를 찾는 일",
+      "body": "길버트 교수는 BBC에 영상의학 전문의가 크게 모자라고, 영상 검사는 해마다 8%씩 는다고 말했다.",
+      "foot": "2026.11.23",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "조기 발견엔 도움이 될 수 있지만, 끝내 증상도\n없었을 순한 병의 과잉 진단은 피해야 한다.",
+      "quote_by": "시안 테일러필립스 · 워릭대 교수, 공동 책임연구자 (BBC)",
+      "eyebrow": "그래서 지금",
+      "headline": "관건은 과잉 진단",
+      "body": "모든 영상은 여전히 전문의가 보고, 진료 결정도 NHS 몫이다. 더 찾되 불필요한 재검은 없는지가 시험대다.",
+      "foot": "2026.11.23",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
